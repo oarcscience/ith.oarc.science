@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon09)  [Next](oon11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon09)  [Next](oon11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -23,10 +23,10 @@ THE COMING OF HENRI IV. (AUGUST 2, 1589). \[I. 105.\]
 
 Century IX.--*Quatrain* 50.
 
-Mendosus <span id="fr_115"></span>[1](#fn_115) tost viendra à son haut
+Mendosus <span id="fr_115"></span>[1](#fn_115.md) tost viendra à son haut
 regne,  
 Mettant arriere un peu les Norlaris: <span
-id="fr_116"></span>[2](#fn_116)  
+id="fr_116"></span>[2](#fn_116.md)  
 Le rouge blesme, la masle à l'interregne,  
 Le jeune crainte, et frayeur Barbaris.
 
@@ -61,7 +61,7 @@ Century X.--*Quatrain* 18.
 
 Le rang Lorrain fera place à Vendosme,  
 Le haut mis bas, et le bas mis en haut,  
-Le fils de Mamon sera esleu <span id="fr_117"></span>[1](#fn_117) en
+Le fils de Mamon sera esleu <span id="fr_117"></span>[1](#fn_117.md) en
 Rome,  
 Et les deux Grands seront mis en defant.
 
@@ -88,11 +88,11 @@ HENRI IV. ABJURES PROTESTANTISM (JULY 21, 1593). \[I. 108.\]
 Presage 76.
 
 Par le legat du terrestre et marin,  
-Le Grande Cape <span id="fr_118"></span>[2](#fn_118) à tout
+Le Grande Cape <span id="fr_118"></span>[2](#fn_118.md) à tout
 s'accommoder;<span id="page_115">p. 115</span>  
-Estre à l'escoute tacite <span id="fr_119"></span>[1](#fn_119)
-Norlarin, <span id="fr_120"></span>[2](#fn_120)  
-Qu'à <span id="fr_121"></span>[3](#fn_121) son advis ne voudra accorder.
+Estre à l'escoute tacite <span id="fr_119"></span>[1](#fn_119.md)
+Norlarin, <span id="fr_120"></span>[2](#fn_120.md)  
+Qu'à <span id="fr_121"></span>[3](#fn_121.md) son advis ne voudra accorder.
 
 Translation.
 
@@ -115,12 +115,12 @@ MARSEILLES TAKEN BY THE SPANIARDS (FEBRUARY 17, 1596). \[I. 109.\]
 
 Century III.--*Quatrain* 88.
 
-De Barselonne par mer si <span id="fr_122"></span>[4](#fn_122) grand'
+De Barselonne par mer si <span id="fr_122"></span>[4](#fn_122.md) grand'
 armée,  
 Toute Marseille de frayeur tremblera:  
 Isles saisies, de mer ayde fermée,  
-Ton traditeur <span id="fr_123"></span>[5](#fn_123) en terre
-nagera. <span id="fr_124"></span>[6](#fn_124)
+Ton traditeur <span id="fr_123"></span>[5](#fn_123.md) en terre
+nagera. <span id="fr_124"></span>[6](#fn_124.md)
 
 Translation.
 
@@ -154,14 +154,14 @@ BIRON'S PUNISHMENT (DECEMBER 2, 1602). \[I. 110.\]
 
 Sixain 6.
 
-Quand de Robin <span id="fr_125"></span>[1](#fn_125) la traisteruse
+Quand de Robin <span id="fr_125"></span>[1](#fn_125.md) la traisteruse
 enterprise,  
 Mettra Seigneurs et en peine un grand Prince,  
-Sceu <span id="fr_126"></span>[2](#fn_126) par la Fin <span
-id="fr_127"></span>[3](#fn_127) chef on lui tranchera.  
+Sceu <span id="fr_126"></span>[2](#fn_126.md) par la Fin <span
+id="fr_127"></span>[3](#fn_127.md) chef on lui tranchera.  
 La plume au vent, amye clans Espagne, <span
-id="fr_128"></span>[4](#fn_128)  
-Poste <span id="fr_129"></span>[5](#fn_129) attrappé estant clans la
+id="fr_128"></span>[4](#fn_128.md)  
+Poste <span id="fr_129"></span>[5](#fn_129.md) attrappé estant clans la
 campagne,  
 Et l'escrivain clans l'eaüe se jettera.
 
@@ -172,9 +172,9 @@ Shall put King Henry and his Lords in fear,<span id="page_117">p.
 117</span>  
 Lafin betrays him, and the King beheads.  
 Treason dispatched to Spain in amity, <span
-id="fr_130"></span>[1](#fn_130)  
+id="fr_130"></span>[1](#fn_130.md)  
 The carrier caught when he has entered France, <span
-id="fr_131"></span>[2](#fn_131)  
+id="fr_131"></span>[2](#fn_131.md)  
 And the scriv'ner will throw himself into the water.
 
 One thing has carefully to be borne in mind in relation to the Sixains,
@@ -369,12 +369,12 @@ POPULARITY OF HENRI IV. (AFTER HIS DEATH). \[I. 112.\]
 
 Century VI.--*Quatrain* 70.
 
-An chef du monde le grand Chyren <span id="fr_132"></span>[1](#fn_132)
+An chef du monde le grand Chyren <span id="fr_132"></span>[1](#fn_132.md)
 sera,  
 Plus outre après aymé, craint, redouté;  
-Son bruit et los <span id="fr_133"></span>[2](#fn_133) les cieux
+Son bruit et los <span id="fr_133"></span>[2](#fn_133.md) les cieux
 surpassera,  
-Et du seul titre victeur <span id="fr_134"></span>[3](#fn_134) fort
+Et du seul titre victeur <span id="fr_134"></span>[3](#fn_134.md) fort
 contenté.
 
 Translation.
@@ -418,54 +418,54 @@ Napoleons!
 
 ### Footnotes
 
-<span id="fn_115"></span>[113:1](oon10.htm#fr_115) *Mendosus*, anagram
+<span id="fn_115"></span>[113:1](oon10.htm#fr_115.md) *Mendosus*, anagram
 of *Vendosme* (the *u* standing for *v* of course), The *texte-type*
 reads *Mandosus*; but as *Mendosus* is the perfect anagram of Vendosme,
 and makes also the Latin word's meaning *full of faults*, it is best to
 read *Mendosus*.
 
-<span id="fn_116"></span>[113:2](oon10.htm#fr_116) Norlaris, anagram for
+<span id="fn_116"></span>[113:2](oon10.htm#fr_116.md) Norlaris, anagram for
 *Lorrains* the patronymic of the Guise family.
 
-<span id="fn_117"></span>[114:1](oon10.htm#fr_117) Romance, *esleu*,
+<span id="fn_117"></span>[114:1](oon10.htm#fr_117.md) Romance, *esleu*,
 *élu*, chosen.
 
-<span id="fn_118"></span>[114:2](oon10.htm#fr_118) Cape, for *Capet*, a
+<span id="fn_118"></span>[114:2](oon10.htm#fr_118.md) Cape, for *Capet*, a
 descendant of Hugh Capet.
 
-<span id="fn_119"></span>[115:1](oon10.htm#fr_119) Latin, *tacite*,
+<span id="fn_119"></span>[115:1](oon10.htm#fr_119.md) Latin, *tacite*,
 silently.
 
-<span id="fn_120"></span>[115:2](oon10.htm#fr_120) *Norlarin*, anagram
+<span id="fn_120"></span>[115:2](oon10.htm#fr_120.md) *Norlarin*, anagram
 for *Lorrain*; here it represents the Duc de Mayenne,
 
-<span id="fn_121"></span>[115:3](oon10.htm#fr_121) *Qu'a* for *qui à*.
+<span id="fn_121"></span>[115:3](oon10.htm#fr_121.md) *Qu'a* for *qui à*.
 
-<span id="fn_122"></span>[115:4](oon10.htm#fr_122) Romance, *si* for
+<span id="fn_122"></span>[115:4](oon10.htm#fr_122.md) Romance, *si* for
 *très*, very.
 
-<span id="fn_123"></span>[115:5](oon10.htm#fr_123) Latin, *traditor*,
+<span id="fn_123"></span>[115:5](oon10.htm#fr_123.md) Latin, *traditor*,
 traitor.
 
-<span id="fn_124"></span>[115:6](oon10.htm#fr_124) His body shall be
+<span id="fn_124"></span>[115:6](oon10.htm#fr_124.md) His body shall be
 dragged through the streets in the mud of the gutters.
 
-<span id="fn_125"></span>[116:1](oon10.htm#fr_125) Robin, anagram for
+<span id="fn_125"></span>[116:1](oon10.htm#fr_125.md) Robin, anagram for
 Biron.
 
-<span id="fn_126"></span>[116:2](oon10.htm#fr_126) Romance, *sceu* for
+<span id="fn_126"></span>[116:2](oon10.htm#fr_126.md) Romance, *sceu* for
 *su*, known.
 
-<span id="fn_127"></span>[116:3](oon10.htm#fr_127) *Lafin* was the name
+<span id="fn_127"></span>[116:3](oon10.htm#fr_127.md) *Lafin* was the name
 of the secretary, the accomplice of Biron.
 
-<span id="fn_128"></span>[116:4](oon10.htm#fr_128) The ordo here is
+<span id="fn_128"></span>[116:4](oon10.htm#fr_128.md) The ordo here is
 *dans l'Espagne amye* which means, then at peace with Henri IV.
 
-<span id="fn_129"></span>[116:5](oon10.htm#fr_129) Romance, *poste*,
+<span id="fn_129"></span>[116:5](oon10.htm#fr_129.md) Romance, *poste*,
 messenger, postillion.
 
-<span id="fn_130"></span>[117:1](oon10.htm#fr_130) *La plume au vent* is
+<span id="fn_130"></span>[117:1](oon10.htm#fr_130.md) *La plume au vent* is
 supposed by le Pelletier to stand for *currente calamo*. I should rather
 think it means the feather (wing) to the wind. It was written with a
 quill, and started on its way as a bird flies; but *irrevocabile semel
@@ -474,7 +474,7 @@ treasonable complicity with Spain, of which an account will be given
 further on. Also, *l'escrivain*, in the closing line stands for the same
 individual.
 
-<span id="fn_131"></span>[117:2](oon10.htm#fr_131) We shall see that the
+<span id="fn_131"></span>[117:2](oon10.htm#fr_131.md) We shall see that the
 two Spanish couriers were arrested at the post office in Paris. Le
 Pelletier confuses all this from not happening to know that l'Oste is
 the scrivener, so he applies it to the affair of Lafin, whose messenger,
@@ -485,7 +485,7 @@ words to fit his erroneous view. He had far better have stated the
 difficulty, and said that he could not harmonize the text. But he very
 rarely trips thus.
 
-<span id="fn_132"></span>[123:1](oon10.htm#fr_132) *Le Grand Chyren* is
+<span id="fn_132"></span>[123:1](oon10.htm#fr_132.md) *Le Grand Chyren* is
 the anagram of *Henri le Grand*. Before mounting the throne, he bore the
 name of Vendosme, from his father Antoine de Bourbon, Duke of Vendôme
 and King of Navarre. In the first Quatrain of the series, *Henri Quatre,
@@ -498,16 +498,16 @@ Henry. Camden derived it from *honore*, Verstegan from the Teutonic
 it is generally considered that *rick* stands for powerful; so chief of
 a house or district.
 
-<span id="fn_133"></span>[123:2](oon10.htm#fr_133) Los, old word for
+<span id="fn_133"></span>[123:2](oon10.htm#fr_133.md) Los, old word for
 glory. Latin, *laus*.
 
 "A la sainte divinité,  
 Soit *los*, honeur, et potesté."  
               *Le Mystère des Actes des Apôtres*.
 
-<span id="fn_134"></span>[123:3](oon10.htm#fr_134) Latin, *victor*,
+<span id="fn_134"></span>[123:3](oon10.htm#fr_134.md) Latin, *victor*,
 conqueror.
 
 ------------------------------------------------------------------------
 
-[Next: Louis XIII](oon11)
+[Next: Louis XIII](oon11.md)

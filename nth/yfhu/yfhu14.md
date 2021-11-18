@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu13)  [Next](yfhu15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu13)  [Next](yfhu15.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -128,7 +128,7 @@ the principal reason why they do not apply all that is in them, is that
 they do not have sufficient power of will to act on this larger scale.
 
 In this connection, we find another condition which is very important,
-and [especially](errata.htm#1) with regard to overcoming circumstances.
+and [especially](errata.htm#1.md) with regard to overcoming circumstances.
 A great many people have good intentions, and they have sufficient will
 power to originate those intentions, but they have not sufficient will
 power to carry them out; in other words, they have the will to think,
@@ -299,7 +299,7 @@ weakens the will.
 
 Whenever you permit yourself to become angry, you weaken the will.
 Whenever you permit yourself to become offended or hurt you weaken your
-will. Whenever you permit yourself to become [despondent](errata.htm#2)
+will. Whenever you permit yourself to become [despondent](errata.htm#2.md)
 or discouraged, you weaken your will. Whenever you give way to grief,
 mental intensity
 
@@ -530,4 +530,4 @@ to be for him*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Building of a Great Mind](yfhu15)
+[Next: Chapter XIII. The Building of a Great Mind](yfhu15.md)

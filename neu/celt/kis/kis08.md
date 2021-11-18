@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis07)  [Next](kis09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis07)  [Next](kis09.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ daughters, Aefa and Gilveen, in a rage watched them ride away.
 
 ------------------------------------------------------------------------
 
-[Next: Part IX](kis09)
+[Next: Part IX](kis09.md)

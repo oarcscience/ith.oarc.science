@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah06)  [Next](oah08) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah06)  [Next](oah08.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ because it relates to earth, sky and spirit, it is called OAHSPE.
 
 ------------------------------------------------------------------------
 
-[Next: The Voice of Man](oah08)
+[Next: The Voice of Man](oah08.md)

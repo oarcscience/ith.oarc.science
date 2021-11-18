@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc411) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc411.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -146,7 +146,7 @@ the physical sense-consciousness, and that such an organ in itself is,
 at least during a human-life period, unchanging in its composition.
 Without such an organ, the process of memory when more fully analysed
 (in a way we cannot here attempt) is inexplicable. <span
-id="fr_670"></span>[1](#fn_608)
+id="fr_670"></span>[1](#fn_608.md)
 
 The simplest hypothesis is to conceive that organ as the one connected
 with the subconsciousness or super-sense-consciousness, by means of
@@ -176,7 +176,7 @@ of a living body such as man's there are certain elements to
 <span id="page_496">p. 496</span>
 
 be considered which are always invisible. <span
-id="fr_671"></span>[1](#fn_609) Thus at death there is instantly a
+id="fr_671"></span>[1](#fn_609.md) Thus at death there is instantly a
 cessation of all bodily consciousness--of all willing, thinking,
 movement. The power which has made the body conscious, and which cannot
 be compared to any known form of matter, is entirely gone. But there is
@@ -228,7 +228,7 @@ another without disintegration, diminution, or loss of its own identity.
 It is scientifically certain, also, from experiments performed to test
 the power of resistance to decomposition exhibited by the force which we
 call life in an organic body, that such a force is capable of outwearing
-many physical embodiments. <span id="fr_672"></span>[1](#fn_610) Recent
+many physical embodiments. <span id="fr_672"></span>[1](#fn_610.md) Recent
 demonstrations tend to show that the heredity hypothesis cannot be held
 to account fully for such widely varied character or soul individuality
 as may be exhibited by members of one family. We must therefore account
@@ -287,7 +287,7 @@ it is possible to make a head grow where there ought to be feet; and at
 Zürich, Standfuss, solely through changing the temperature of his
 laboratory, was able to obtain from the same species of butterfly forms
 which were tropical and forms which were arctic. <span
-id="fr_673"></span>[1](#fn_611) All this helps to establish the
+id="fr_673"></span>[1](#fn_611.md) All this helps to establish the
 hypothesis, which amounts to certainty, that the conformation of a
 physical body, or even the kind of species to be born, is directly
 determined by physical environment and not by heredity, and that the
@@ -303,7 +303,7 @@ marvellous progress in the womb of the human mother, from the
 amoeba-like initial embryo to man. That is to say, parents set in motion
 the laws governing, the reproduction of physical bodies. They create
 such conditions as enable the invisible life-force to begin its physical
-manifestation. <span id="fr_674"></span>[2](#fn_612) In the two fused
+manifestation. <span id="fr_674"></span>[2](#fn_612.md) In the two fused
 germs from the
 
 <span id="page_500">p. 500</span>
@@ -393,7 +393,7 @@ and to the instinctual powers in man, because we cannot at any time, in
 viewing the complete evolution of man as a twofold being composed of a
 physical and a psychical part, force aside Fechner's conviction that the
 problem is a psychophysical one. A study of sexual instincts in children
-seems to confirm this. <span id="fr_675"></span>[1](#fn_613)
+seems to confirm this. <span id="fr_675"></span>[1](#fn_613.md)
 
 Such a psychical and vitalistic hypothesis is, as we have seen, strongly
 supported by embryology; and embryology proves conclusively the need of
@@ -403,7 +403,7 @@ and other scientists of the vitalistic school have demonstrated
 physiologically the need of a pre-existent power as the unifying
 principle which attracts and compels material atoms to group themselves
 into the pattern of the human body <span
-id="fr_676"></span>[2](#fn_614)--or, as we may add, of any organic body.
+id="fr_676"></span>[2](#fn_614.md)--or, as we may add, of any organic body.
 Psychical researchers at the outset of their science seem apparently to
 have demonstrated psychologically the post-existence of the personal
 consciousness-unity; and it is very likely when further progress has
@@ -417,7 +417,7 @@ compels psychical atoms of experience (if such an expression may be
 used) to group themselves into the personal consciousness-unity which
 appears to survive the death of the gross physical body--for a long or
 short time, as future research may show. <span
-id="fr_677"></span>[1](#fn_615) Such a soul-monad, to follow the view
+id="fr_677"></span>[1](#fn_615.md) Such a soul-monad, to follow the view
 held by Celtic mystics, led by acquired instincts which were transmitted
 to it through the personality (held by the Celtic esoteric doctrine to
 be a temporary combination), apparently weaves out of matter the
@@ -472,7 +472,7 @@ is always the one which best explains all available data, and, to our
 mind, when very minutely examined, in a way which (chiefly for reasons
 of space) cannot be attempted here, this Celtic hypothesis concerning
 the nature and destiny of man is the best hitherto adduced. <span
-id="fr_678"></span>[1](#fn_616)
+id="fr_678"></span>[1](#fn_616.md)
 
 <span id="page_505">p. 505</span>
 
@@ -492,7 +492,7 @@ our total soul than we are at any time aware of.' And he added:--'It
 thus is "scientific" to interpret all otherwise unaccountable invasive
 alternations of consciousness as results of the tension of subliminal
 memories reaching a bursting point.' <span
-id="fr_679"></span>[1](#fn_617) Intuition, which all men have
+id="fr_679"></span>[1](#fn_617.md) Intuition, which all men have
 experienced, would seem to be the result of a momentary contact by the
 physical brain with its psychical counterpart--the subconscious self,
 the individuality is distinguished from the personality.
@@ -514,15 +514,15 @@ absorbed in altogether foreign thoughts. Again, many persons through
 accident or disease have lost their memory to such an extent as to
 require complete re-education, and then in time, gradually or
 instantaneously, as the case may be, have completely recovered it. <span
-id="fr_680"></span>[1](#fn_618) And we noticed in our study of
-supernatural lapse of time ([p. 469](ffcc411.htm#page_469)) that at the
+id="fr_680"></span>[1](#fn_618.md) And we noticed in our study of
+supernatural lapse of time ([p. 469](ffcc411.htm#page_469).md) that at the
 moment of accidental loss of consciousness, as in drowning for example,
 all forgotten details of life are instantaneously reproduced in a
 complete panorama. These psychological processes support what we have
 said above with respect to a psychical organ being behind the
 sense-consciousness, and seem thus to prove that the subconscious mind
 is the place for recording permanently all experiences. <span
-id="fr_681"></span>[2](#fn_619) Under hypnosis, a subject may be
+id="fr_681"></span>[2](#fn_619.md) Under hypnosis, a subject may be
 requested to perform a certain act, let us say 11,999 minutes after the
 moment of making the request. When the hypnotic condition is removed,
 the subject has no personal consciousness of the suggestion, but, as
@@ -531,7 +531,7 @@ the act exactly at the expiration of the 11,999 minutes without knowing
 why he does so. This proves that there is a subconsciousness in man
 which can take full cognizance of such a suggestion, which can keep
 count of the passing of time and then cause the unconscious personality
-to act in response to its will. <span id="fr_682"></span>[3](#fn_620)
+to act in response to its will. <span id="fr_682"></span>[3](#fn_620.md)
 Again, in extreme old age people who have come to have an imperfect
 memory or none at all in their normal consciousness, under abnormal
 conditions (which seemingly are due to a temporary influx of a latent
@@ -548,13 +548,13 @@ hypnotism, says that events in the normal life which have dropped out of
 memory can be remembered in hypnosis:--'An English officer in Africa was
 hypnotized by Hansen, and suddenly began to speak a strange language.
 This turned out to be Welsh, which he had learnt as a child, but had
-forgotten.' <span id="fr_683"></span>[1](#fn_621) And even memory of
+forgotten.' <span id="fr_683"></span>[1](#fn_621.md) And even memory of
 acts done in hypnotic somnambulism can be awakened in the normal
-state. <span id="fr_684"></span>[2](#fn_622) Furthermore, through
+state. <span id="fr_684"></span>[2](#fn_622.md) Furthermore, through
 psycho-analysis, as Professor Freud has shown, forgotten dreams and
 dreams which were never complete in the ordinary consciousness can be
 recovered in their entirety out of the subconsciousness. <span
-id="fr_685"></span>[3](#fn_623) How many of us can recall without some
+id="fr_685"></span>[3](#fn_623.md) How many of us can recall without some
 mental stimulus certain acts performed ten years ago? A good deal of our
 present life is no longer vivid, much of it is forgotten, and in old age
 many of the memories of youth and of mature life will be subconscious.
@@ -582,7 +582,7 @@ the slow process of evolutionary gestation. In the case of a Buddha, who
 on good historical authority is said to have been able to recall all
 past existences from the lowest to the highest, this evolutionary
 process seems to have reached completion. <span
-id="fr_686"></span>[1](#fn_624)
+id="fr_686"></span>[1](#fn_624.md)
 
 Under ordinary conditions, individuals have been known to see a place
 which they have never seen before, or to do a thing which they have
@@ -601,7 +601,7 @@ another personality. In certain well-defined types of double
 personality, which are not the kind due to demon-possession nor to
 spirit-possession as in 'mediumship', there are two memories, 'each
 complete and absolutely independent of the other.' <span
-id="fr_687"></span>[2](#fn_625) And in similar cases, where the subject
+id="fr_687"></span>[2](#fn_625.md) And in similar cases, where the subject
 exhibits alternately numerous personalities, we see the individuality,
 that is to say the subconscious man, exhibiting, as a dramatist might,
 various characters or personalities of probable past existences
@@ -612,7 +612,7 @@ according as each is most active at the moment. Similarly,
 crystal-gazing sometimes seems not only to revive lost memories of this
 life, but also to call up subconscious memories of some unknown state of
 consciousness which may be from a previous life.  <span
-id="fr_688"></span>[1](#fn_626)
+id="fr_688"></span>[1](#fn_626.md)
 
 M. Ribot has made it clear from his careful study of numerous cases of
 amnesia (loss of memory) that 'recollections return in an inverse order
@@ -645,18 +645,18 @@ attached to it, nor explicable as due to the soul wandering from the
 body during sleep: the hypothesis of re-birth seems to be the only
 adequate one here. Certain dreams suggest that man possesses innate
 memories extending backwards to prehistoric times (cf. [p.
-5](ffcc110.htm#page_5) above). This fits in with Professor Freud's
+5](ffcc110.htm#page_5) above.md). This fits in with Professor Freud's
 theory in his *Die Traumdeutung*, that 'the dream is nothing else than
 the concealed fulfilment of a repressed wish.' Some dreams are 'in the
 form of frightful, cruel, horrible scenes, which seem frightful to us,
 but in a certain depth of the unconscious satisfy wishes which, in the
 "prehistoric" ages of our own mental development, were actually
-recognized as desires.' <span id="fr_689"></span>[1](#fn_627) This also
+recognized as desires.' <span id="fr_689"></span>[1](#fn_627.md) This also
 supports our vitalistic view of the evolution of human instincts. Again,
 in somnambulism there is a much more exalted memory, and clear cases are
 on record of facts being then consciously present which cannot be
 accounted for save through the same hypothesis. <span
-id="fr_690"></span>[2](#fn_628)
+id="fr_690"></span>[2](#fn_628.md)
 
 If we keep in mind the psychology of the dream state, we
 
@@ -683,7 +683,7 @@ ecstasy it (the Ego) forgot itself into deep sleep; from deep sleep it
 awoke out of unconsciousness, but still within itself, into the internal
 world of dreams; from dreaming it passed finally into the thoroughly
 waking state, and the outer world of sense.' <span
-id="fr_691"></span>[1](#fn_629) But our own psychologists are not yet
+id="fr_691"></span>[1](#fn_629.md) But our own psychologists are not yet
 far enough advanced to accept this; much more work in psychical research
 must first be done before it will be possible for them to announce to
 the West that pre-existence is a necessary condition for post-existence
@@ -701,12 +701,12 @@ manifestation. The
 <span class="contnote">\[paragraph continues\]</span> Self manifests
 through the organism; but there is always some part of the Self
 unmanifested; and always, as it seems, some power of organic expression
-in abeyance or reserve.' <span id="fr_692"></span>[1](#fn_630) William
+in abeyance or reserve.' <span id="fr_692"></span>[1](#fn_630.md) William
 James stated the position thus:--'The B. region' (another name for the
 region of subconsciousness), 'then; is obviously the larger part of each
 of us, for it is the abode of everything that is latent, and the
 reservoir of everything that passes unrecorded and unobserved.' <span
-id="fr_693"></span>[2](#fn_631)
+id="fr_693"></span>[2](#fn_631.md)
 
 Men of science see no way of accepting the doctrine of the resurrection
 of the physical body as at present interpreted by Christian theology;
@@ -715,7 +715,7 @@ of the University of Rennes, has suggested in his *La Vie future* that
 the doctrine may be the exoteric interpretation of a long-forgotten
 esoteric truth; namely, that the soul may be resurrected in a new
 physical body, and this is scientifically possible. <span
-id="fr_694"></span>[3](#fn_632)
+id="fr_694"></span>[3](#fn_632.md)
 
 The ancient scientists called Life a Circle. In the upper half of this
 Circle, or here on the visible plane, we know that in the physiological
@@ -730,7 +730,7 @@ way to the horizon, there is decline, old age, and, finally, death; and
 as a scientific possibility we have in the lower half of the Circle, in
 Hades or the Otherworld of the Celts and of all peoples, corresponding
 processes between death and a hypothetical but logically necessary
-re-birth. <span id="fr_695"></span>[1](#fn_633)
+re-birth. <span id="fr_695"></span>[1](#fn_633.md)
 
 The logical corollary to the re-birth doctrine, and an integral part of
 the Celtic esoteric theory of evolution, is that there have been human
@@ -759,7 +759,7 @@ of the Fairy-Faith complete, at least in outline.
 
 As shown by the Barddas MSS. in our chapter vii, the Celtic Doctrine of
 Re-birth is the scientific extension of Darwin's law as corrected, <span
-id="fr_696"></span>[1](#fn_634) that alone through traversing the Circle
+id="fr_696"></span>[1](#fn_634.md) that alone through traversing the Circle
 of Life man reaches that destined perfection which natural analogies,
 life's processes as exhibited by living things, and evolution, suggest,
 and from which at present man is so far removed. There seems to emerge
@@ -791,11 +791,11 @@ of science may in coming generations be accepted as orthodox.
 
 ### Footnotes
 
-<span id="fn_608"></span>[495:1](ffcc412.htm#fr_670) Cf. Sigmund Freud,
+<span id="fn_608"></span>[495:1](ffcc412.htm#fr_670.md) Cf. Sigmund Freud,
 *The Origin and Development of Psychoanalysis*, in *Amer. Journ.
 Psych*., xxi, No. 2 (April 1910).
 
-<span id="fn_609"></span>[496:1](ffcc412.htm#fr_671) The fact that all
+<span id="fn_609"></span>[496:1](ffcc412.htm#fr_671.md) The fact that all
 matter is capable of assuming a gaseous or invisible state furnishes
 good scientific reasons for postulating the actual existence of
 intelligent beings possessed of an invisible yet physical body. There
@@ -803,7 +803,7 @@ may well be on and about our planet many distinct invisible organic
 life-forms undiscovered by zoologists. To deny such a possibility would
 be unscientific.
 
-<span id="fn_610"></span>[497:1](ffcc412.htm#fr_672) Cf. *Communication
+<span id="fn_610"></span>[497:1](ffcc412.htm#fr_672.md) Cf. *Communication
 adressée ou D<sup>r</sup> J. Dupré*, p. 382 of an essay on *La
 Métempsycose basée sur les* *Principes de La Biologie et du Magnétisme
 physiologique*, in *Le Hasard* (Paris, 1909), by P. C. Revel. Cases of
@@ -811,10 +811,10 @@ regeneration among the aged are known, and these show how the subliminal
 life-forces try to renew the physical body when it is worn out (of.
 Revel, ib., p. 372).
 
-<span id="fn_611"></span>[499:1](ffcc412.htm#fr_673) Cf. Revel, op.
+<span id="fn_611"></span>[499:1](ffcc412.htm#fr_673.md) Cf. Revel, op.
 cit., p. 295 ff.
 
-<span id="fn_612"></span>[499:2](ffcc412.htm#fr_674) If scientists
+<span id="fn_612"></span>[499:2](ffcc412.htm#fr_674.md) If scientists
 discover, as they probably will in time, what they call the secret of
 life, they will not have discovered the secret of life at all. What they
 will have discovered will be the physical conditions under which life
@@ -826,7 +826,7 @@ to-day; though short-sighted materialists are certain to announce to an
 eager world that the final problem of the universe has been solved and
 that life is merely the resultant of a subtle chemical compound.
 
-<span id="fn_613"></span>[502:1](ffcc412.htm#fr_675) Professor Freud,
+<span id="fn_613"></span>[502:1](ffcc412.htm#fr_675.md) Professor Freud,
 after long and careful study, arrived at the following conclusion:--'The
 child has his sexual impulse and activities from the beginning, he
 brings them with him into the world, and from these the so-called normal
@@ -836,11 +836,11 @@ manifold stages.' And Dr. Sanford Bell, in an earlier writing entitled
 *Amer. Journ. Psych.*, 1902), came to a similar conclusion (of. Freud,
 op. cit., pp. 207-8).
 
-<span id="fn_614"></span>[502:2](ffcc412.htm#fr_676) Cf. Hans Driesch,
+<span id="fn_614"></span>[502:2](ffcc412.htm#fr_676.md) Cf. Hans Driesch,
 *The Science and Philosophy of the Organism* (London, 1908); and Henri
 Bergson, *L'Évolution créatrice* (Paris, 1908).
 
-<span id="fn_615"></span>[503:1](ffcc412.htm#fr_677) This Celtic view of
+<span id="fn_615"></span>[503:1](ffcc412.htm#fr_677.md) This Celtic view of
 non-personal immortality completely fits in with all the voluminous data
 of psychical research: after forty years of scientific research into
 psychics there are no proofs yet adduced that the human personality as a
@@ -856,9 +856,9 @@ good examples of such a survival twenty-five years after the death of
 the body. Such an eminent psychical researcher as William James
 recognized this drift of the data of psychics, and when he died he held
 the conviction that there is no personal immortality (see p.
-[505](#page_505) n. following).
+[505](#page_505) n. following.md).
 
-<span id="fn_616"></span>[504:1](ffcc412.htm#fr_678) Though not inclined
+<span id="fn_616"></span>[504:1](ffcc412.htm#fr_678.md) Though not inclined
 toward the vitalistic view of human evolution, M. Th. Ribot very closely
 approaches the Celtic view of the Ego (or <span id="page_505">p.
 505</span> individuality) as being the principle which gives unity to
@@ -929,31 +929,31 @@ to sweep us very strongly towards the belief in some form of superhuman
 life with which we may, unknown to ourselves, be co-conscious.' (*A
 Pluralistic Universe*, New York, 1909, p. 309.)
 
-<span id="fn_617"></span>[506:1](ffcc412.htm#fr_679) W. James,
+<span id="fn_617"></span>[506:1](ffcc412.htm#fr_679.md) W. James,
 *Varieties of Religious Experience* (London, 1902), pp. 511, 236 n.
 
-<span id="fn_618"></span>[507:1](ffcc412.htm#fr_680) M. Th. Ribot, in
+<span id="fn_618"></span>[507:1](ffcc412.htm#fr_680.md) M. Th. Ribot, in
 *Diseases of Memory* (London, 1882), pp. 82-98 ff., gives numerous
 examples of such loss and recovery of memory.
 
-<span id="fn_619"></span>[507:2](ffcc412.htm#fr_681) Cf. Freud, op.
+<span id="fn_619"></span>[507:2](ffcc412.htm#fr_681.md) Cf. Freud, op.
 cit., pp. 592, 204-5, &c.
 
-<span id="fn_620"></span>[507:3](ffcc412.htm#fr_682) Cf. A. Moll,
+<span id="fn_620"></span>[507:3](ffcc412.htm#fr_682.md) Cf. A. Moll,
 *Hypnotism* (London, 1890), pp. 141 ff., 126.
 
-<span id="fn_621"></span>[508:1](ffcc412.htm#fr_683) Cf. A. Moll,
+<span id="fn_621"></span>[508:1](ffcc412.htm#fr_683.md) Cf. A. Moll,
 *Hypnotism* (London, 1890), pp. 141 ff., 126.
 
-<span id="fn_622"></span>[508:2](ffcc412.htm#fr_684) Cf. Freud, op.
+<span id="fn_622"></span>[508:2](ffcc412.htm#fr_684.md) Cf. Freud, op.
 cit., p. 192.
 
-<span id="fn_623"></span>[508:3](ffcc412.htm#fr_685) Freud, *Die
+<span id="fn_623"></span>[508:3](ffcc412.htm#fr_685.md) Freud, *Die
 Traumdeutung*, 2nd ed. (Vienna, 1906); cf. S. Ferenczi, *The
 Psychological Analysis of Dreams*, in *Amer. Journ. Psych.* (April
 1910), xxi, No. 2, p. 326.
 
-<span id="fn_624"></span>[509:1](ffcc412.htm#fr_686) A similar state of
+<span id="fn_624"></span>[509:1](ffcc412.htm#fr_686.md) A similar state of
 high development is to be assumed for a great Celtic hero like Arthur.
 who were he to be re-born would (as is said to have been the case with
 King Mongan, the reincarnation of Finn) bring with him memory of his
@@ -963,10 +963,10 @@ consciousness of the individuality; and not the personal consciousness,
 which, like the personality, is non-permanent *in itself*. This further
 illustrates the Celtic theory of non-personal immortality.
 
-<span id="fn_625"></span>[509:2](ffcc412.htm#fr_687) Ribot, op. cit., p.
+<span id="fn_625"></span>[509:2](ffcc412.htm#fr_687.md) Ribot, op. cit., p.
 100 ff.
 
-<span id="fn_626"></span>[510:1](ffcc412.htm#fr_688) Cf. Lang, *Cock
+<span id="fn_626"></span>[510:1](ffcc412.htm#fr_688.md) Cf. Lang, *Cock
 Lane and Common Sense*, pp. 257 ff. *Blackwood's Magazine*, cxxix
 (January 1881), contains a remarkable account of a child who remembered
 previous lives. Lord Lindsay, in his *Letters* (ed. of 1847, p. 351),
@@ -990,7 +990,7 @@ lives passed by them as men and women. Mr. Hall has carefully
 investigated these cases, and gives us the impression that they are
 worthy of scientific consideration.
 
-<span id="fn_627"></span>[511:1](ffcc412.htm#fr_689) Cf. Ferenczi, op.
+<span id="fn_627"></span>[511:1](ffcc412.htm#fr_689.md) Cf. Ferenczi, op.
 cit., p. 316, &c. Professor Freud's theory of dreams supports entirely,
 but does not imply our hypothesis that some (and probably many) abnormal
 dreams of a rare kind, whether good or bad in tendency, may be due to
@@ -1007,19 +1007,19 @@ child at birth, and hence, according to our view, was pre-existent. (Cf.
 Ernest Jones, *Freud's Theory of Dreams*, in *Amer. Journ. Psych.*,
 April 1910, xxi, No. *2,* pp. 305 ff.)
 
-<span id="fn_628"></span>[511:2](ffcc412.htm#fr_690) Cf. Du Prel,
+<span id="fn_628"></span>[511:2](ffcc412.htm#fr_690.md) Cf. Du Prel,
 *Philosophy of Mysticism*, ii. 25 ff., 34 ff.
 
-<span id="fn_629"></span>[512:1](ffcc412.htm#fr_691) *The Dream of
+<span id="fn_629"></span>[512:1](ffcc412.htm#fr_691.md) *The Dream of
 Ravan*, in *Dublin Univ. Mag.*, xliii. 468.
 
-<span id="fn_630"></span>[513:1](ffcc412.htm#fr_692) Myers, in *Proc. S.
+<span id="fn_630"></span>[513:1](ffcc412.htm#fr_692.md) Myers, in *Proc. S.
 P. R.*, vii. 305.
 
-<span id="fn_631"></span>[513:2](ffcc412.htm#fr_693) James, *Varieties
+<span id="fn_631"></span>[513:2](ffcc412.htm#fr_693.md) James, *Varieties
 of Religious Experience*, p. 483.
 
-<span id="fn_632"></span>[513:3](ffcc412.htm#fr_694) The esoteric
+<span id="fn_632"></span>[513:3](ffcc412.htm#fr_694.md) The esoteric
 teaching in many of the mystic schools of antiquity was that the atoms
 of each human body transmigrate through all lower forms of life during
 the long period supposed to intervene between death and re-birth of the
@@ -1045,12 +1045,12 @@ literal interpretation as a transmigration doctrine led the Egyptians to
 mummify the bodies of their dead. Cf. Lucretius, *De Rerum Natura*, Book
 III, ll. 843-61; and Herodotus, Book II, on Egypt.
 
-<span id="fn_633"></span>[514:1](ffcc412.htm#fr_695) Cf. Dr. L. S.
+<span id="fn_633"></span>[514:1](ffcc412.htm#fr_695.md) Cf. Dr. L. S.
 Fugairon's *La Survivance de l'âme, ou la Mort et la Renaissance chez
 les êtres vivants; études de physiologie et d'embryologie
 philosophiques* (Paris, 1907); cf. Revel, *Le Hasard*, p. 457.
 
-<span id="fn_634"></span>[515:1](ffcc412.htm#fr_696) Darwin never
+<span id="fn_634"></span>[515:1](ffcc412.htm#fr_696.md) Darwin never
 considered or attempted to suggest what it is that of itself really
 evolves, for it cannot be the physical body which only *grows* from
 immaturity to maturity and then dissolves. Darwin thus overlooked the

@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 </div>
 
@@ -26,8 +26,8 @@ Vol. 2</h1>
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](swc200)    [Page
-Index](pageidx)    [Text \[Zipped\]](swc2.txt.gz)
+[Contents](#contents)    [Start Reading](swc200.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](swc2.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,141 +43,141 @@ necessary.--J.B. Hare, Jan. 24 2010.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](swc200)  
-[Contents](swc201)  
+<span id="contents"></span> [Title Page](swc200.md)  
+[Contents](swc201.md)  
 <span id="section_000"></span>
 
 ### Duffy and the Devil (An Old Christmas Play)
 
-[Part First](swc202)  
-[Part Second](swc203)  
+[Part First](swc202.md)  
+[Part Second](swc203.md)  
 
  
 
-[Celtic Monuments Of Boleigh And Rosemodrass](swc204)  
-[Boleigh or Boleit](swc205)  
-[Menheres](swc206)  
-[Holed Stones, &c](swc207)  
-[The Last Cardew, of Boskenna, and the Story of Nelly Wearne](swc208)  
-[Story of Nelly Wearne](swc209)  
-[The Witch of Burian Church-Town](swc210)  
-[The Story of Madam Noy](swc211)  
-[A Modern Sancreed Witch](swc212)  
-[A Queen's Visit to Baranhual](swc213)  
-[The Small People's Cow](swc214)  
-[Tom of Chyannor, the Tin-Streamer](swc215)  
-[The Fairy Dwelling on Selena Moor](swc216)  
+[Celtic Monuments Of Boleigh And Rosemodrass](swc204.md)  
+[Boleigh or Boleit](swc205.md)  
+[Menheres](swc206.md)  
+[Holed Stones, &c](swc207.md)  
+[The Last Cardew, of Boskenna, and the Story of Nelly Wearne](swc208.md)  
+[Story of Nelly Wearne](swc209.md)  
+[The Witch of Burian Church-Town](swc210.md)  
+[The Story of Madam Noy](swc211.md)  
+[A Modern Sancreed Witch](swc212.md)  
+[A Queen's Visit to Baranhual](swc213.md)  
+[The Small People's Cow](swc214.md)  
+[Tom of Chyannor, the Tin-Streamer](swc215.md)  
+[The Fairy Dwelling on Selena Moor](swc216.md)  
 <span id="section_001"></span>
 
 ### The I’an's House of Treen
 
-[Introduction](swc217)  
-[The I’ans Quit Treen](swc218)  
-[Unexpected Visitors](swc219)  
-[The Proud Pendars](swc220)  
-[The I’an's Ghosts](swc221)  
+[Introduction](swc217.md)  
+[The I’ans Quit Treen](swc218.md)  
+[Unexpected Visitors](swc219.md)  
+[The Proud Pendars](swc220.md)  
+[The I’an's Ghosts](swc221.md)  
 <span id="section_002"></span>
 
 ### Castle Treen and its Legends
 
-[The Key of the Castle](swc222)  
-[Giants of Castle Treen](swc223)  
-[Dan Dynas](swc224)  
-[The Small People (Fairies)](swc225)  
-[St. Levan Witches](swc226)  
+[The Key of the Castle](swc222.md)  
+[Giants of Castle Treen](swc223.md)  
+[Dan Dynas](swc224.md)  
+[The Small People (Fairies)](swc225.md)  
+[St. Levan Witches](swc226.md)  
 
  
 
-[Traditions of Pacurno](swc227)  
+[Traditions of Pacurno](swc227.md)  
 <span id="section_003"></span>
 
 ### Legends of St. Levan
 
-[St. Levan and His Sister](swc228)  
-[Johanna's Garden](swc229)  
-[The St. Levan Stone](swc230)  
-[Parchapel Well](swc231)  
+[St. Levan and His Sister](swc228.md)  
+[Johanna's Garden](swc229.md)  
+[The St. Levan Stone](swc230.md)  
+[Parchapel Well](swc231.md)  
 
  
 
-[A Legend of Pargwarra](swc232)  
-[An’ Pee Tregeer's Trip to Market on Hallan Eve](swc233)  
-[Pendeen of Old](swc234)  
+[A Legend of Pargwarra](swc232.md)  
+[An’ Pee Tregeer's Trip to Market on Hallan Eve](swc233.md)  
+[Pendeen of Old](swc234.md)  
 [An Overseer and a Parish Clerk of St. Just about sixty years
-ago](swc235)  
-[The Fairy Master, or Bob o’ the Carn](swc236)  
+ago](swc235.md)  
+[The Fairy Master, or Bob o’ the Carn](swc236.md)  
 <span id="section_004"></span>
 
 ### A Tinner's Fireside Stories
 
-[The Knockers of Ballowal](swc237)  
-[Tom and the Knackers](swc238)  
-[Old Songs and Nicknames](swc239)  
+[The Knockers of Ballowal](swc237.md)  
+[Tom and the Knackers](swc238.md)  
+[Old Songs and Nicknames](swc239.md)  
 <span id="section_005"></span>
 
 ### An Excursion to Chapel Uny Well
 
-[Introduction](swc240)  
-[The Changeling of Brea Vean](swc241)  
+[Introduction](swc240.md)  
+[The Changeling of Brea Vean](swc241.md)  
 
  
 
-[Betty Stogs's Baby](swc242)  
-[How a Morvah Man Bought Clothes for his Wife](swc243)  
+[Betty Stogs's Baby](swc242.md)  
+[How a Morvah Man Bought Clothes for his Wife](swc243.md)  
 [How A Zennor Man Choked Himself, but had his Will in his
-Pocket](swc244)  
+Pocket](swc244.md)  
 <span id="section_006"></span>
 
 ### The Smugglers of Penrose
 
-[Part the First](swc245)  
-[Part the Second](swc246)  
+[Part the First](swc245.md)  
+[Part the Second](swc246.md)  
 
  
 
-[Tregagle](swc247)  
+[Tregagle](swc247.md)  
 <span id="section_007"></span>
 
 ### West Country Superstitions
 
-[Devil's Money](swc248)  
-[The Slighted Damsel of Gwinear](swc249)  
-[The Wreck of Admiral Sir Cloudesley Shovel](swc250)  
-[A Night's Ride to Scilly](swc251)  
-[Ancient Bridal Customs](swc252)  
-[Madron Well](swc253)  
-[The Crick-Stone, or Men-an-tol](swc254)  
-[Charms](swc255)  
-[The Fairy Tribes](swc256)  
-[Mermaids and the Hooper](swc257)  
-[The Wrecker and the Death Ship](swc258)  
-[The Sun Never Shines on Those Who Have Sworn Away A Life](swc259)  
+[Devil's Money](swc248.md)  
+[The Slighted Damsel of Gwinear](swc249.md)  
+[The Wreck of Admiral Sir Cloudesley Shovel](swc250.md)  
+[A Night's Ride to Scilly](swc251.md)  
+[Ancient Bridal Customs](swc252.md)  
+[Madron Well](swc253.md)  
+[The Crick-Stone, or Men-an-tol](swc254.md)  
+[Charms](swc255.md)  
+[The Fairy Tribes](swc256.md)  
+[Mermaids and the Hooper](swc257.md)  
+[The Wrecker and the Death Ship](swc258.md)  
+[The Sun Never Shines on Those Who Have Sworn Away A Life](swc259.md)  
 
  
 
-[A Legend of Pengersec](swc260)  
+[A Legend of Pengersec](swc260.md)  
 <span id="section_008"></span>
 
 ### Notes, Illustrative Anecdotes
 
-[Miracle Plays, Christmas Plays, &c.](swc261)  
-[The Levelis, of Trewoof](swc262)  
-[Duffy and the Devil](swc263)  
-[Pendre and Baranhual](swc264)  
-[The Danes Landing on the Cornish Coast for Plunder](swc265)  
-[St. Levan's Path](swc266)  
-[A Ghostly Ship's-Bell](swc267)  
-[Brea and Pendeen, in St. Just](swc268)  
-[The Burning of Vellan-Dreath](swc269)  
-[The Men-an-tol, Constantine Tolmen](swc270)  
-[Divination by Rushes and Ivy-Leaves](swc271)  
-[Recent Ill-Wishing](swc272)  
-[Midsummer Bonfire](swc273)  
-[The Mermaid of Zennor](swc274)  
+[Miracle Plays, Christmas Plays, &c.](swc261.md)  
+[The Levelis, of Trewoof](swc262.md)  
+[Duffy and the Devil](swc263.md)  
+[Pendre and Baranhual](swc264.md)  
+[The Danes Landing on the Cornish Coast for Plunder](swc265.md)  
+[St. Levan's Path](swc266.md)  
+[A Ghostly Ship's-Bell](swc267.md)  
+[Brea and Pendeen, in St. Just](swc268.md)  
+[The Burning of Vellan-Dreath](swc269.md)  
+[The Men-an-tol, Constantine Tolmen](swc270.md)  
+[Divination by Rushes and Ivy-Leaves](swc271.md)  
+[Recent Ill-Wishing](swc272.md)  
+[Midsummer Bonfire](swc273.md)  
+[The Mermaid of Zennor](swc274.md)  
 
  
 
-[Glossary of Local Words](swc275)  
-[Index](swc276)  
-[Subscribers' Names](swc277)  
-[Errata](swc278)  
+[Glossary of Local Words](swc275.md)  
+[Index](swc276.md)  
+[Subscribers' Names](swc277.md)  
+[Errata](swc278.md)  

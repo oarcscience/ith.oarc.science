@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph22)  [Next](aph24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph22)  [Next](aph24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -238,7 +238,7 @@ hand with the finger tips of her right, slightly undulating her hips:
  I charge you, O ye daughters of Jerusalem,  
  If ye find my beloved,  
  That ye tell him that I am sick of love*. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 </div>
 
@@ -281,7 +281,7 @@ the girls of my country.
  Until the day break, and the shadows flee away,  
  Turn, my beloved,  
  And be thou like a roe or a young hart  
- Upon the mountains*." <span id="fr_1"></span>[2](#fn_1)
+ Upon the mountains*." <span id="fr_1"></span>[2](#fn_1.md)
 
 </div>
 
@@ -312,7 +312,7 @@ her closely from knees to hips.
  And saffron; calamus and cinnamon,  
  With trees of frankincense, myrrh and aloes:  
  A fountain of gardens, a well of living waters,  
- And streams from Lebanon*." <span id="fr_2"></span>[3](#fn_2)
+ And streams from Lebanon*." <span id="fr_2"></span>[3](#fn_2.md)
 
 </div>
 
@@ -323,7 +323,7 @@ She throws back her head, closing her eyes.
 "*Awake, O north wind; and come, thou south;  
  Blow upon my garden, that the spices thereof may flow out.  
  Let my beloved come into his garden,  
- And eat his pleasant fruits*." <span id="fr_3"></span>[4](#fn_3)
+ And eat his pleasant fruits*." <span id="fr_3"></span>[4](#fn_3.md)
 
 </div>
 
@@ -343,7 +343,7 @@ utterly be contemned.
  Cause me to hear it.  
  Make haste, my beloved,  
  And be thou like to a roe, or to a young hart,  
- Upon the mountains of spices*." <span id="fr_4"></span>[5](#fn_4)
+ Upon the mountains of spices*." <span id="fr_4"></span>[5](#fn_4.md)
 
 </div>
 
@@ -419,18 +419,18 @@ themselves to create. Already she seems to take on a maternal majesty.
 
 ### Footnotes
 
-<span id="fn_0"></span>[186:1](aph23.htm#fr_0) *Song of Solomon*, 5: 2,
+<span id="fn_0"></span>[186:1](aph23.htm#fr_0.md) *Song of Solomon*, 5: 2,
 6, 8.
 
-<span id="fn_1"></span>[187:2](aph23.htm#fr_1) *Ibid*., 2: 8-17.
+<span id="fn_1"></span>[187:2](aph23.htm#fr_1.md) *Ibid*., 2: 8-17.
 
-<span id="fn_2"></span>[188:3](aph23.htm#fr_2) *Ibid*., 2: 3-4; 3: 9-15.
+<span id="fn_2"></span>[188:3](aph23.htm#fr_2.md) *Ibid*., 2: 3-4; 3: 9-15.
 
-<span id="fn_3"></span>[188:4](aph23.htm#fr_3) *Ibid*., 3: 16.
+<span id="fn_3"></span>[188:4](aph23.htm#fr_3.md) *Ibid*., 3: 16.
 
-<span id="fn_4"></span>[189:5](aph23.htm#fr_4) *Ibid*., 7: 10-11; 8: 7,
+<span id="fn_4"></span>[189:5](aph23.htm#fr_4.md) *Ibid*., 7: 10-11; 8: 7,
 13-14.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two. Terror](aph24)
+[Next: Chapter Two. Terror](aph24.md)

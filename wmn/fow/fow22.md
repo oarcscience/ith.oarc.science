@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow21)  [Next](fow23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow21)  [Next](fow23.md) 
 
 ------------------------------------------------------------------------
 
@@ -205,4 +205,4 @@ Nor to know things whose knowledge is forbid."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI: Sister Legends](fow23)
+[Next: Chapter XXI: Sister Legends](fow23.md)

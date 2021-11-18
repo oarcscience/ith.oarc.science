@@ -1,226 +1,226 @@
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
 # The Buddha's Way of Virtue: Page Index
 
-### [Title Page](wov00)
+### [Title Page](wov00.md)
 
-[page 1](wov00.htm#page_1)  
-[page 2](wov00.htm#page_2)  
-[page 3](wov00.htm#page_3)  
-[page 4](wov00.htm#page_4)  
-[page 5](wov00.htm#page_5)  
-[page 6](wov00.htm#page_6)  
+[page 1](wov00.htm#page_1.md)  
+[page 2](wov00.htm#page_2.md)  
+[page 3](wov00.htm#page_3.md)  
+[page 4](wov00.htm#page_4.md)  
+[page 5](wov00.htm#page_5.md)  
+[page 6](wov00.htm#page_6.md)  
 
-### [Table of Contents](wov01)
+### [Table of Contents](wov01.md)
 
-[page 7](wov01.htm#page_7)  
-[page 8](wov01.htm#page_8)  
+[page 7](wov01.htm#page_7.md)  
+[page 8](wov01.htm#page_8.md)  
 
-### [Introduction](wov02)
+### [Introduction](wov02.md)
 
-[page 9](wov02.htm#page_9)  
-[page 10](wov02.htm#page_10)  
-[page 11](wov02.htm#page_11)  
-[page 12](wov02.htm#page_12)  
-[page 13](wov02.htm#page_13)  
-[page 14](wov02.htm#page_14)  
-[page 15](wov02.htm#page_15)  
-[page 16](wov02.htm#page_16)  
-[page 17](wov02.htm#page_17)  
+[page 9](wov02.htm#page_9.md)  
+[page 10](wov02.htm#page_10.md)  
+[page 11](wov02.htm#page_11.md)  
+[page 12](wov02.htm#page_12.md)  
+[page 13](wov02.htm#page_13.md)  
+[page 14](wov02.htm#page_14.md)  
+[page 15](wov02.htm#page_15.md)  
+[page 16](wov02.htm#page_16.md)  
+[page 17](wov02.htm#page_17.md)  
 
-### [Note](wov03)
+### [Note](wov03.md)
 
-[page 18](wov03.htm#page_18)  
-[page 19](wov03.htm#page_19)  
+[page 18](wov03.htm#page_18.md)  
+[page 19](wov03.htm#page_19.md)  
 
-### [Editorial Note](wov04)
+### [Editorial Note](wov04.md)
 
-[page 20](wov04.htm#page_20)  
+[page 20](wov04.htm#page_20.md)  
 
-### [§ I: The Twin Truths](wov05)
+### [§ I: The Twin Truths](wov05.md)
 
-[page 21](wov05.htm#page_21)  
-[page 22](wov05.htm#page_22)  
-[page 23](wov05.htm#page_23)  
+[page 21](wov05.htm#page_21.md)  
+[page 22](wov05.htm#page_22.md)  
+[page 23](wov05.htm#page_23.md)  
 
-### [§ II: Zeal](wov06)
+### [§ II: Zeal](wov06.md)
 
-[page 24](wov06.htm#page_24)  
-[page 25](wov06.htm#page_25)  
+[page 24](wov06.htm#page_24.md)  
+[page 25](wov06.htm#page_25.md)  
 
-### [§ III: The Mind](wov07)
+### [§ III: The Mind](wov07.md)
 
-[page 26](wov07.htm#page_26)  
-[page 27](wov07.htm#page_27)  
+[page 26](wov07.htm#page_26.md)  
+[page 27](wov07.htm#page_27.md)  
 
-### [§ IV: Flowers](wov08)
+### [§ IV: Flowers](wov08.md)
 
-[page 28](wov08.htm#page_28)  
-[page 29](wov08.htm#page_29)  
+[page 28](wov08.htm#page_28.md)  
+[page 29](wov08.htm#page_29.md)  
 
-### [§ V: The Fool](wov09)
+### [§ V: The Fool](wov09.md)
 
-[page 30](wov09.htm#page_30)  
-[page 31](wov09.htm#page_31)  
+[page 30](wov09.htm#page_30.md)  
+[page 31](wov09.htm#page_31.md)  
 
-### [§ VI The Wise Man](wov10)
+### [§ VI The Wise Man](wov10.md)
 
-[page 32](wov10.htm#page_32)  
-[page 33](wov10.htm#page_33)  
+[page 32](wov10.htm#page_32.md)  
+[page 33](wov10.htm#page_33.md)  
 
-### [§ VII: The Arahat](wov11)
+### [§ VII: The Arahat](wov11.md)
 
-[page 34](wov11.htm#page_34)  
-[page 35](wov11.htm#page_35)  
+[page 34](wov11.htm#page_34.md)  
+[page 35](wov11.htm#page_35.md)  
 
-### [§ VIII: The Thousands](wov12)
+### [§ VIII: The Thousands](wov12.md)
 
-[page 36](wov12.htm#page_36)  
-[page 37](wov12.htm#page_37)  
+[page 36](wov12.htm#page_36.md)  
+[page 37](wov12.htm#page_37.md)  
 
-### [§ IX: Vice](wov13)
+### [§ IX: Vice](wov13.md)
 
-[page 38](wov13.htm#page_38)  
-[page 39](wov13.htm#page_39)  
+[page 38](wov13.htm#page_38.md)  
+[page 39](wov13.htm#page_39.md)  
 
-### [§ X: Punishment](wov14)
+### [§ X: Punishment](wov14.md)
 
-[page 40](wov14.htm#page_40)  
-[page 41](wov14.htm#page_41)  
+[page 40](wov14.htm#page_40.md)  
+[page 41](wov14.htm#page_41.md)  
 
-### [§ XI: Old Age](wov15)
+### [§ XI: Old Age](wov15.md)
 
-[page 42](wov15.htm#page_42)  
-[page 43](wov15.htm#page_43)  
+[page 42](wov15.htm#page_42.md)  
+[page 43](wov15.htm#page_43.md)  
 
-### [§ XII: Self](wov16)
+### [§ XII: Self](wov16.md)
 
-[page 44](wov16.htm#page_44)  
-[page 45](wov16.htm#page_45)  
+[page 44](wov16.htm#page_44.md)  
+[page 45](wov16.htm#page_45.md)  
 
-### [§ XIII: The World](wov17)
+### [§ XIII: The World](wov17.md)
 
-[page 46](wov17.htm#page_46)  
-[page 47](wov17.htm#page_47)  
+[page 46](wov17.htm#page_46.md)  
+[page 47](wov17.htm#page_47.md)  
 
-### [§ XIV: The Buddha](wov18)
+### [§ XIV: The Buddha](wov18.md)
 
-[page 48](wov18.htm#page_48)  
-[page 49](wov18.htm#page_49)  
-[page 50](wov18.htm#page_50)  
+[page 48](wov18.htm#page_48.md)  
+[page 49](wov18.htm#page_49.md)  
+[page 50](wov18.htm#page_50.md)  
 
-### [§ XV Bliss](wov19)
+### [§ XV Bliss](wov19.md)
 
-[page 51](wov19.htm#page_51)  
-[page 52](wov19.htm#page_52)  
+[page 51](wov19.htm#page_51.md)  
+[page 52](wov19.htm#page_52.md)  
 
-### [§ XVI: Affection](wov20)
+### [§ XVI: Affection](wov20.md)
 
-[page 53](wov20.htm#page_53)  
-[page 54](wov20.htm#page_54)  
+[page 53](wov20.htm#page_53.md)  
+[page 54](wov20.htm#page_54.md)  
 
-### [§ XVII: Anger](wov21)
+### [§ XVII: Anger](wov21.md)
 
-[page 55](wov21.htm#page_55)  
-[page 56](wov21.htm#page_56)  
+[page 55](wov21.htm#page_55.md)  
+[page 56](wov21.htm#page_56.md)  
 
-### [§ XVIII: Sin](wov22)
+### [§ XVIII: Sin](wov22.md)
 
-[page 57](wov22.htm#page_57)  
-[page 58](wov22.htm#page_58)  
-[page 59](wov22.htm#page_59)  
+[page 57](wov22.htm#page_57.md)  
+[page 58](wov22.htm#page_58.md)  
+[page 59](wov22.htm#page_59.md)  
 
-### [§ XIX: The Righteous](wov23)
+### [§ XIX: The Righteous](wov23.md)
 
-[page 60](wov23.htm#page_60)  
-[page 61](wov23.htm#page_61)  
+[page 60](wov23.htm#page_60.md)  
+[page 61](wov23.htm#page_61.md)  
 
-### [§ XX: The Path](wov24)
+### [§ XX: The Path](wov24.md)
 
-[page 62](wov24.htm#page_62)  
-[page 63](wov24.htm#page_63)  
-[page 64](wov24.htm#page_64)  
-[page 65](wov24.htm#page_65)  
+[page 62](wov24.htm#page_62.md)  
+[page 63](wov24.htm#page_63.md)  
+[page 64](wov24.htm#page_64.md)  
+[page 65](wov24.htm#page_65.md)  
 
-### [§ XXI: Miscellany](wov25)
+### [§ XXI: Miscellany](wov25.md)
 
-[page 66](wov25.htm#page_66)  
-[page 67](wov25.htm#page_67)  
+[page 66](wov25.htm#page_66.md)  
+[page 67](wov25.htm#page_67.md)  
 
-### [§ XXII: Hell](wov26)
+### [§ XXII: Hell](wov26.md)
 
-[page 68](wov26.htm#page_68)  
-[page 69](wov26.htm#page_69)  
+[page 68](wov26.htm#page_68.md)  
+[page 69](wov26.htm#page_69.md)  
 
-### [§ XXIII: The Elephant](wov27)
+### [§ XXIII: The Elephant](wov27.md)
 
-[page 70](wov27.htm#page_70)  
-[page 71](wov27.htm#page_71)  
+[page 70](wov27.htm#page_70.md)  
+[page 71](wov27.htm#page_71.md)  
 
-### [§ XXIV: Desire](wov28)
+### [§ XXIV: Desire](wov28.md)
 
-[page 72](wov28.htm#page_72)  
-[page 73](wov28.htm#page_73)  
-[page 74](wov28.htm#page_74)  
-[page 75](wov28.htm#page_75)  
+[page 72](wov28.htm#page_72.md)  
+[page 73](wov28.htm#page_73.md)  
+[page 74](wov28.htm#page_74.md)  
+[page 75](wov28.htm#page_75.md)  
 
-### [§ XXV: The Bhikkhii](wov29)
+### [§ XXV: The Bhikkhii](wov29.md)
 
-[page 76](wov29.htm#page_76)  
-[page 77](wov29.htm#page_77)  
-[page 78](wov29.htm#page_78)  
+[page 76](wov29.htm#page_76.md)  
+[page 77](wov29.htm#page_77.md)  
+[page 78](wov29.htm#page_78.md)  
 
-### [§ XXVI](wov30)
+### [§ XXVI](wov30.md)
 
-[page 79](wov30.htm#page_79)  
-[page 80](wov30.htm#page_80)  
-[page 81](wov30.htm#page_81)  
-[page 82](wov30.htm#page_82)  
-[page 83](wov30.htm#page_83)  
-[page 84](wov30.htm#page_84)  
+[page 79](wov30.htm#page_79.md)  
+[page 80](wov30.htm#page_80.md)  
+[page 81](wov30.htm#page_81.md)  
+[page 82](wov30.htm#page_82.md)  
+[page 83](wov30.htm#page_83.md)  
+[page 84](wov30.htm#page_84.md)  
 
-### [Notes](wov31)
+### [Notes](wov31.md)
 
-[page 85](wov31.htm#page_85)  
-[page 86](wov31.htm#page_86)  
-[page 87](wov31.htm#page_87)  
-[page 88](wov31.htm#page_88)  
-[page 89](wov31.htm#page_89)  
-[page 90](wov31.htm#page_90)  
-[page 91](wov31.htm#page_91)  
-[page 92](wov31.htm#page_92)  
-[page 93](wov31.htm#page_93)  
-[page 94](wov31.htm#page_94)  
-[page 95](wov31.htm#page_95)  
-[page 96](wov31.htm#page_96)  
-[page 97](wov31.htm#page_97)  
-[page 98](wov31.htm#page_98)  
-[page 99](wov31.htm#page_99)  
+[page 85](wov31.htm#page_85.md)  
+[page 86](wov31.htm#page_86.md)  
+[page 87](wov31.htm#page_87.md)  
+[page 88](wov31.htm#page_88.md)  
+[page 89](wov31.htm#page_89.md)  
+[page 90](wov31.htm#page_90.md)  
+[page 91](wov31.htm#page_91.md)  
+[page 92](wov31.htm#page_92.md)  
+[page 93](wov31.htm#page_93.md)  
+[page 94](wov31.htm#page_94.md)  
+[page 95](wov31.htm#page_95.md)  
+[page 96](wov31.htm#page_96.md)  
+[page 97](wov31.htm#page_97.md)  
+[page 98](wov31.htm#page_98.md)  
+[page 99](wov31.htm#page_99.md)  
 
-### [Illustrative Sayings of the Disciples of the Buddha](wov32)
+### [Illustrative Sayings of the Disciples of the Buddha](wov32.md)
 
-[page 100](wov32.htm#page_100)  
-[page 101](wov32.htm#page_101)  
+[page 100](wov32.htm#page_100.md)  
+[page 101](wov32.htm#page_101.md)  
 
-### [Appendix: The Buddhist Ideal](wov33)
+### [Appendix: The Buddhist Ideal](wov33.md)
 
-[page 102](wov33.htm#page_102)  
-[page 103](wov33.htm#page_103)  
-[page 104](wov33.htm#page_104)  
-[page 105](wov33.htm#page_105)  
-[page 106](wov33.htm#page_106)  
-[page 107](wov33.htm#page_107)  
-[page 108](wov33.htm#page_108)  
-[page 109](wov33.htm#page_109)  
-[page 110](wov33.htm#page_110)  
-[page 111](wov33.htm#page_111)  
-[page 112](wov33.htm#page_112)  
+[page 102](wov33.htm#page_102.md)  
+[page 103](wov33.htm#page_103.md)  
+[page 104](wov33.htm#page_104.md)  
+[page 105](wov33.htm#page_105.md)  
+[page 106](wov33.htm#page_106.md)  
+[page 107](wov33.htm#page_107.md)  
+[page 108](wov33.htm#page_108.md)  
+[page 109](wov33.htm#page_109.md)  
+[page 110](wov33.htm#page_110.md)  
+[page 111](wov33.htm#page_111.md)  
+[page 112](wov33.htm#page_112.md)  
 
-### [Advertisements](wov34)
+### [Advertisements](wov34.md)
 
-[page 113](wov34.htm#page_113)  
-[page 114](wov34.htm#page_114)  
-[page 115](wov34.htm#page_115)  
-[page 116](wov34.htm#page_116)  
+[page 113](wov34.htm#page_113.md)  
+[page 114](wov34.htm#page_114.md)  
+[page 115](wov34.htm#page_115.md)  
+[page 116](wov34.htm#page_116.md)  

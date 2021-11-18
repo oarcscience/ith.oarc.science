@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa05)  [Next](spa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa05)  [Next](spa07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -20,7 +20,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
 #### MĪRZĀ KHĀN, ANṢĀRĪ.
 
 MĪRZĀ <u>KH</u>ĀN, ANṢĀRĪ, was a descendant, probably [a
-grandson](errata.htm#3), of Pīr Ro<u>s’h</u>ān, the founder of the
+grandson](errata.htm#3.md), of Pīr Ro<u>s’h</u>ān, the founder of the
 Ro<u>s’h</u>ānīān sect, which made a great noise among the
 Af<u>gh</u>āns, about the year 1542-3 of our Era. He appears to have
 commenced writing poetry in the year <span class="smallcaps">a.h.</span>
@@ -64,11 +64,11 @@ time, of the notorious Mullā Sulīmān—known in the East as Jālandharī
 Sulīmān, from the town of Jālandhar, in the Panjāb, where he dwelt—Bāzīd
 became initiated in the tenets of the Jogīs, a sect among the Hindūs,
 and became a fast convert to the creed of the Metempsychosis, or
-[Pythagorean](errata.htm#4) system of the transmigration of souls. On
+[Pythagorean](errata.htm#4.md) system of the transmigration of souls. On
 these doctrines, however, he engrafted some of his own, the most
 remarkable of which was, that the most complete manifestations of the
 Divinity were made in the persons of holy men. <span
-id="fr_73"></span>[\*](#fn_73) The great opponent of Bāzīd was
+id="fr_73"></span>[\*](#fn_73.md) The great opponent of Bāzīd was
 A<u>kh</u>ūnd Darwezah, the greatest and most venerated of all the
 saints of Af<u>gh</u>ānistān, who, in derision of the title of Pīr
 Ro<u>s’h</u>ān, or Apostle of Light, which Bāzīd had himself assumed,
@@ -170,7 +170,7 @@ others.
 
 Nothing is known, for certain, regarding the death of Mīrzā; for he
 passed a great portion of his life in Hindūstān, and must have ended his
-days in that country. <span id="fr_74"></span>[\*](#fn_74) His
+days in that country. <span id="fr_74"></span>[\*](#fn_74.md) His
 descendants still dwell in the Tī-rāh district, amongst the clan of
 Mī-ān <u>Kh</u>el, and have the repute of being quiet and well behaved.
 There is generally one of the family who follows the life of an ascetic;
@@ -181,13 +181,13 @@ miracles.
 
 ### Footnotes
 
-<span id="fn_73"></span>[52:\*](spa06.htm#fr_73) <span
+<span id="fn_73"></span>[52:\*](spa06.htm#fr_73.md) <span
 class="smallcaps">Elphinstone</span>: Caubul.
 
-<span id="fn_74"></span>[55:\*](spa06.htm#fr_74) A person named Mīrzā,
+<span id="fn_74"></span>[55:\*](spa06.htm#fr_74.md) A person named Mīrzā,
 son of Nūr-ud-Dīn, one of the sons of Pīr Ro<u>sh</u>ān, lived in Shāh
 Jahān's reign, and was killed at the battle of Dawlatābād.
 
 ------------------------------------------------------------------------
 
-[Next: The Poems of Mīrzā <u>Kh</u>ān, Anṣārī](spa07)
+[Next: The Poems of Mīrzā <u>Kh</u>ān, Anṣārī](spa07.md)

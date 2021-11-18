@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap08) 
-[Next](chap10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap08.md) 
+[Next](chap10.md) 
 
 ------------------------------------------------------------------------
 
@@ -819,4 +819,4 @@ following verses:
 ------------------------------------------------------------------------
 
 [Next: Chapter 10: Concerning the Organs of Generation of
-animals](chap10)
+animals](chap10.md)

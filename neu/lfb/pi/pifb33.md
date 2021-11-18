@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb32)  [Next](pifb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb32)  [Next](pifb34.md) 
 
 </div>
 
@@ -331,6 +331,6 @@ living there to this day.
 
 ------------------------------------------------------------------------
 
-[Next: Esben and the Witch](pifb34)
+[Next: Esben and the Witch](pifb34.md)
 
 </div>

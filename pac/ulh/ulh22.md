@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh21)  [Next](ulh23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh21)  [Next](ulh23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -39,16 +39,16 @@ person who represented the whole company:
 
 <div style="margin-left: 32px">
 
-Lehua <span id="fr_271"></span>[a](#fn_265) i-luna,  
+Lehua <span id="fr_271"></span>[a](#fn_265.md) i-luna,  
 Lehua i-lalo,  
 A wawae,  
-A Ka-ulua, <span id="fr_272"></span>[b](#fn_266)  
-5 A o Haumea, <span id="fr_273"></span>[c](#fn_267)  
-Kou makua-kane, <span id="fr_274"></span>[d](#fn_268)  
-Manu o Kaáe; <span id="fr_275"></span>[e](#fn_269)  
+A Ka-ulua, <span id="fr_272"></span>[b](#fn_266.md)  
+5 A o Haumea, <span id="fr_273"></span>[c](#fn_267.md)  
+Kou makua-kane, <span id="fr_274"></span>[d](#fn_268.md)  
+Manu o Kaáe; <span id="fr_275"></span>[e](#fn_269.md)  
 A-koa-koa,  
-O Pe-káu, <span id="fr_276"></span>[f](#fn_270)  
-10 O Pé-ka-naná. <span id="fr_277"></span>[g](#fn_271)
+O Pe-káu, <span id="fr_276"></span>[f](#fn_270.md)  
+10 O Pé-ka-naná. <span id="fr_277"></span>[g](#fn_271.md)
 
 </div>
 
@@ -57,7 +57,7 @@ O Pe-káu, <span id="fr_276"></span>[f](#fn_270)
 <span id="img_pl13"></span> <span align="CENTER"> [![PLATE
 XIII&lt;br&gt; LEHUA (METROSIDEROS POLYMORPHA, FLOWERS AND
 LEAVES](tn/pl13.jpg)  
-Click to enlarge](img/pl13.jpg)  
+Click to enlarge](img/pl13.jpg.md)  
 PLATE XIII  
 LEHUA (METROSIDEROS POLYMORPHA, FLOWERS AND LEAVES  
 </span>
@@ -129,13 +129,13 @@ kumu, in solemn cantillation, utter the following prayer:
 
 <div style="margin-left: 32px">
 
-Pupu we’u-we’u <span id="fr_278"></span>[a](#fn_272) e, Láka e,  
-O kona we’u-we’u e ku-wá; <span id="fr_279"></span>[b](#fn_273)  
-O Ku-ka-ohia-Laká, <span id="fr_280"></span>[c](#fn_274) e;  
-Laua me Ku-pulu-pulu; <span id="fr_281"></span>[d](#fn_275)  
+Pupu we’u-we’u <span id="fr_278"></span>[a](#fn_272.md) e, Láka e,  
+O kona we’u-we’u e ku-wá; <span id="fr_279"></span>[b](#fn_273.md)  
+O Ku-ka-ohia-Laká, <span id="fr_280"></span>[c](#fn_274.md) e;  
+Laua me Ku-pulu-pulu; <span id="fr_281"></span>[d](#fn_275.md)  
 5 Ka Lehua me ke Koa lau-lii;  
 O ka Lama me Moku-halii,  
-Kú-i-kú-i <span id="fr_282"></span>[e](#fn_276) me ka Hala-pepe;  
+Kú-i-kú-i <span id="fr_282"></span>[e](#fn_276.md) me ka Hala-pepe;  
 Lakou me Lau-ka-ie-ie.  
 Ka Palaí me Maile-lau-lii.  
 10 Noa, noa i kou kuahu;  
@@ -177,12 +177,12 @@ prayer, *pule hooku’u*, in which all voices, must join:
 <div style="margin-left: 32px">
 
 Ku ka makaia a ka huaka’i moe ipo; <span
-id="fr_283"></span>[a](#fn_277)  
+id="fr_283"></span>[a](#fn_277.md)  
 Ku au, hele;  
 Noho oe, aloha!  
 Aloha na hale o makou i makamaka-ole,  
 5 Ke alanui hele mauka o Huli-wale, <span
-id="fr_284"></span>[b](#fn_278) la;  
+id="fr_284"></span>[b](#fn_278.md) la;  
 H-u-l-i.  
 E huli a’e ana i ka makana,  
 I ke alana ole e kanaenae aku ia oe.  
@@ -197,7 +197,7 @@ Eia ke kanaenae, o ka leo.
 <div style="margin-left: 32px">
 
 Doomed sacrifice I in the love-quest,  
-I stand \[loin-girt\] <span id="fr_285"></span>[c](#fn_279) for the
+I stand \[loin-girt\] <span id="fr_285"></span>[c](#fn_279.md) for the
 journey;  
 To you who remain, farewell!  
 Farewell to our homes forsaken.  
@@ -243,14 +243,14 @@ which particular form of the dance it was devoted has not been learned:
 <div style="margin-left: 32px">
 
 Ua ona o Kane i awa;  
-Ua kau ke kéha <span id="fr_286"></span>[a](#fn_280) i ka uluna;  
-Ua hi’o-lani <span id="fr_287"></span>[b](#fn_281) i ka moena.  
+Ua kau ke kéha <span id="fr_286"></span>[a](#fn_280.md) i ka uluna;  
+Ua hi’o-lani <span id="fr_287"></span>[b](#fn_281.md) i ka moena.  
 Kipú mai la i ke kapa o ka noe.  
 5 Noe-noe na hokú o ka lani--  
 Imo-imo mai la i ka po a’e-a’e.  
-Mahana-lua <span id="fr_288"></span>[c](#fn_282) na kukui a
-Lanikaula, <span id="fr_289"></span>[d](#fn_283)  
-He kaula no Kane. <span id="fr_290"></span>[e](#fn_284)  
+Mahana-lua <span id="fr_288"></span>[c](#fn_282.md) na kukui a
+Lanikaula, <span id="fr_289"></span>[d](#fn_283.md)  
+He kaula no Kane. <span id="fr_290"></span>[e](#fn_284.md)  
 Meha na pali o Wai-pi’o  
 10 I ke kani mau o Kiha-pú;  
 A ono ole ka awa a ke alii  
@@ -295,7 +295,7 @@ Look, how it gleams \[through the fog\]!
 
 <span id="img_pl14"></span> <span align="CENTER"> [![PLATE XIV&lt;br&gt;
 HAWAIIAN TRUMPET, PU (CASSIS MADAGASCARENSIS)](tn/pl14.jpg)  
-Click to enlarge](img/pl14.jpg)  
+Click to enlarge](img/pl14.jpg.md)  
 PLATE XIV  
 HAWAIIAN TRUMPET, PU (CASSIS MADAGASCARENSIS)  
 </span>
@@ -315,7 +315,7 @@ distressed beyond measure. The whole valley was disturbed and troubled
 with forebodings at the suspension of divine worship.
 
 The chief offender was Kane himself. The trumpet which he held to his
-lips was a conch of extraordinary size ([pl. XIV](#img_pl14)) and
+lips was a conch of extraordinary size ([pl. XIV](#img_pl14).md) and
 credited with a divine origin and the possession of supernatural power;
 its note was heard above all the others. This shell, the famed Kiha-pú,
 had been stolen from the heiau of Paka’a-lána, Liloa's temple in Waipi’o
@@ -353,37 +353,37 @@ from public view.
 
 ### Footnotes
 
-<span id="fn_265"></span>[126:a](ulh22.htm#fr_271) *Lehua*. See [plate
-XIII](#img_pl13).
+<span id="fn_265"></span>[126:a](ulh22.htm#fr_271.md) *Lehua*. See [plate
+XIII](#img_pl13.md).
 
-<span id="fn_266"></span>[126:b](ulh22.htm#fr_272) *Ka-ulua*. The name
-of the third month of the [Hawaiian](errata.htm#3) year. corresponding
+<span id="fn_266"></span>[126:b](ulh22.htm#fr_272.md) *Ka-ulua*. The name
+of the third month of the [Hawaiian](errata.htm#3.md) year. corresponding
 to late January or February, a time when in the latitude of Hawaii
 nature does not refrain from leafing and flowering.
 
-<span id="fn_267"></span>[126:c](ulh22.htm#fr_273) Haumea. The name
+<span id="fn_267"></span>[126:c](ulh22.htm#fr_273.md) Haumea. The name
 applied after her death and apotheosis to Papa, the wife of Wakea, and
 the ancestress of the Hawaiian race. (The Polynesian Race, A. Fornander,
 I, 205. London, 1878.)
 
-<span id="fn_268"></span>[126:d](ulh22.htm#fr_274) It is doubtful to
+<span id="fn_268"></span>[126:d](ulh22.htm#fr_274.md) It is doubtful to
 whom the expression "makua-kane " refers, possibly to Wakea, the husband
 of Papa; and if so, very properly termed father, ancestor, of the
 people.
 
-<span id="fn_269"></span>[126:e](ulh22.htm#fr_275) *Manu o Kaáe*
+<span id="fn_269"></span>[126:e](ulh22.htm#fr_275.md) *Manu o Kaáe*
 (*Manu-o-Kaáe* it might be written) is said to have been a goddess, one
-of the family of Pele, a sister of the sea [nymph](errata.htm#4)
+of the family of Pele, a sister of the sea [nymph](errata.htm#4.md)
 *Moana-nui-ka-lehua*, whose dominion was in the waters between Oahu and
 Kauai. She is said to have had the gift of eloquence.
 
-<span id="fn_270"></span>[126:f](ulh22.htm#fr_276) *Pe-káu* refers to
+<span id="fn_270"></span>[126:f](ulh22.htm#fr_276.md) *Pe-káu* refers to
 the ranks and classes of the gods.
 
-<span id="fn_271"></span>[126:g](ulh22.htm#fr_277) *Pé-ka-naná* refers
+<span id="fn_271"></span>[126:g](ulh22.htm#fr_277.md) *Pé-ka-naná* refers
 to men, their ranks and classes.
 
-<span id="fn_272"></span>[128:a](ulh22.htm#fr_278) *Pupu we’u-we’u*. A
+<span id="fn_272"></span>[128:a](ulh22.htm#fr_278.md) *Pupu we’u-we’u*. A
 bouquet. The reference is to the wreaths and floral decorations that
 bedecked the altar, and that were not only offerings to the goddess, but
 symbols of the diverse forms in which she manifested herself. At the
@@ -391,13 +391,13 @@ conclusion of a performance the players laid upon the altar the garlands
 they themselves had worn. These were in addition to those which were
 placed there before the play began.
 
-<span id="fn_273"></span>[128:b](ulh22.htm#fr_279) *Ku-wá*. It has cost
+<span id="fn_273"></span>[128:b](ulh22.htm#fr_279.md) *Ku-wá*. It has cost
 much time and trouble to dig out the meaning of this word. The
 fundamental notion is that contained in its two parts, *ku*, to stand,
 and *wa*, an interval or space. the whole meaning to arrange or set in
 orderly intervals.
 
-<span id="fn_274"></span>[128:c](ulh22.htm#fr_280) *La-ká*. A Tahitian
+<span id="fn_274"></span>[128:c](ulh22.htm#fr_280.md) *La-ká*. A Tahitian
 name for the tree which in Hawaii is called *lehua*, or *ohia*. In verse
 3 the Hawaiian name *ohia* and the Tahitian *Laká* (accented on the
 final syllable, thus distinguishing it from the name of the goddess
@@ -406,7 +406,7 @@ one form as an appellation of the god *Ku*--*ku-ka-ohia-Laká*. This is a
 notable instance of the survival of a word as a sacred epithet in a
 liturgy, which otherwise had been lost to the language.
 
-<span id="fn_275"></span>[128:d](ulh22.htm#fr_281) *Ku-pulu-pulu*. *Ku*,
+<span id="fn_275"></span>[128:d](ulh22.htm#fr_281.md) *Ku-pulu-pulu*. *Ku*,
 the fuzzy or shaggy, a deity much worshiped by canoe-makers, represented
 as having the figure of an old man with a long beard. In the sixth verse
 the full form of the god's name here given as *Moku-ha-li’i* would be
@@ -416,45 +416,45 @@ His special emblem, as here implied, was the *lama*, a beautiful tree,
 whose wood was formerly used in making certain sacred inclosures. From
 this comes the proper name *Palama*, one of the districts of Honolulu.
 
-<span id="fn_276"></span>[128:e](ulh22.htm#fr_282) *Kú-i-kú-i*. The same
+<span id="fn_276"></span>[128:e](ulh22.htm#fr_282.md) *Kú-i-kú-i*. The same
 as the tree now called *ku-kú-i*, the tree whose nuts were used as
 candles and flambeaus. The Samoan name of the same tree is *tú-i-tú-i*.
 
-<span id="fn_277"></span>[129:a](ulh22.htm#fr_283) A literal translation
+<span id="fn_277"></span>[129:a](ulh22.htm#fr_283.md) A literal translation
 of the first line would be as follows: (Here) stands the doomed
 sacrifice for the journey in search of a bed-lover.
 
-<span id="fn_278"></span>[129:b](ulh22.htm#fr_284) *Huli-wale*. To turn
+<span id="fn_278"></span>[129:b](ulh22.htm#fr_284.md) *Huli-wale*. To turn
 about, here used as the name of a place, is evidently intended
 figuratively to stand for mental indecision.
 
-<span id="fn_279"></span>[129:c](ulh22.htm#fr_285) The bracketed phrase
+<span id="fn_279"></span>[129:c](ulh22.htm#fr_285.md) The bracketed phrase
 is not in the text of the original.
 
-<span id="fn_280"></span>[130:a](ulh22.htm#fr_286) *Kéha* is in elegant
+<span id="fn_280"></span>[130:a](ulh22.htm#fr_286.md) *Kéha* is in elegant
 expression for the side of the head.
 
-<span id="fn_281"></span>[130:b](ulh22.htm#fr_287) *Hi’o-lani*,
+<span id="fn_281"></span>[130:b](ulh22.htm#fr_287.md) *Hi’o-lani*,
 literally to turn the side to heaven, is a classic expression of
 refinement.
 
-<span id="fn_282"></span>[130:c](ulh22.htm#fr_288) *Mahana-lua*,
+<span id="fn_282"></span>[130:c](ulh22.htm#fr_288.md) *Mahana-lua*,
 literally to see double, was an accepted test of satisfactory
 drunkenness. It reminds the author of an expression he once heard used
 by the comedian Clarke in the play of Toddles. While in a maudlin state
 from liquor he spoke of the lighted candle that was in his hand as a
 "double-barreled candle."
 
-<span id="fn_283"></span>[130:d](ulh22.htm#fr_289) *Lani-kaula* was a
+<span id="fn_283"></span>[130:d](ulh22.htm#fr_289.md) *Lani-kaula* was a
 prophet who lived on Molokai at a place that still bears his name. He
 had his residence in the midst of a grove of tine kukui trees, the
 remnants of which remain to this day. Torches made from the nuts of
 these trees were supposed to be of superior quality and they furnished
 the illumination for the revelries of Kane and his fellows.
 
-<span id="fn_284"></span>[130:e](ulh22.htm#fr_290) *He kaula no Kane*. A
+<span id="fn_284"></span>[130:e](ulh22.htm#fr_290.md) *He kaula no Kane*. A
 literal translation would be, a prophet of Kane.
 
 ------------------------------------------------------------------------
 
-[Next: XIX.--The Hula Niau-kani](ulh23)
+[Next: XIX.--The Hula Niau-kani](ulh23.md)

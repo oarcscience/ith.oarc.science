@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep06)  [Next](nep08) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep06)  [Next](nep08.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ God.
 
 ------------------------------------------------------------------------
 
-[Next: Morning Prayer for a Child](nep08)
+[Next: Morning Prayer for a Child](nep08.md)

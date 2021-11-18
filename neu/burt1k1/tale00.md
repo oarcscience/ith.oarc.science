@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Next](tale01) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Next](tale01.md) 
 
 ------------------------------------------------------------------------
 
@@ -512,4 +512,4 @@ her, ending with, "In very deed I fear lest the same befall thee which
 befell the bull and the ass with the husbandman." "And what," asked she,
 "befell them, O my father?" Whereupon the Wazir began
 
-(*Next*) [THE TALE OF THE BULL AND THE ASS](tale01)  
+(*Next*) [THE TALE OF THE BULL AND THE ASS](tale01.md)  

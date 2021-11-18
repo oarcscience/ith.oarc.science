@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf08)  [Next](yvhf10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf08)  [Next](yvhf10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ The Master Vashisht continued:
 who had been initiated by his brother, the Muni Punya. Both of these
 brothers having attained Atmic wisdom, lived in the forest. For many
 years they enjoyed the quiet pleasures of solitude and at last reached
-the calm of bodiless bliss <span id="fr_3"></span>[\*](#fn_3)—like
+the calm of bodiless bliss <span id="fr_3"></span>[\*](#fn_3.md)—like
 lights which have consumed both wick and oil. For this is the fate of
 all beings.
 
@@ -48,7 +48,7 @@ Therefore, O Ram, lead thus your life.
 
 "With the progressive development of intelligence and the exercise of a
 fine discrimination all pain will cease. Even though one may find a
-close ally in a Guru, <span id="fr_4"></span>[\*\*](#fn_4) it is only
+close ally in a Guru, <span id="fr_4"></span>[\*\*](#fn_4.md) it is only
 through individual energy and will, that all pains arising from
 association with kinsmen and heterogeneity can be destroyed. Having
 labored diligently through Atmic enquiry, books of wisdom, and noble
@@ -65,7 +65,7 @@ desire; nor a mind confused by conflicting desires ever have its
 grievances completely redressed. A mind free from desire yields pure
 thoughts, as readily as Muni Agastya sipped the waters of the ocean in
 the space of a moment; the radiance of the full moon has not such
-refulgence, nor does Lakshmi <span id="fr_5"></span>[\*](#fn_5) reposing
+refulgence, nor does Lakshmi <span id="fr_5"></span>[\*](#fn_5.md) reposing
 on fragrant Lotus grant such a boon.
 
 "The ghosts of desire will dim the lustre of the stainless mind just as
@@ -81,21 +81,21 @@ Thereupon Ram asked him to relate the story of Bali.
 
 Rishi Vashisht replied: "There once lived a great king who was also a
 great egoist. He reigned over Patala <span
-id="fr_6"></span>[\*\*](#fn_6) as an emperor. The whole world trembled
+id="fr_6"></span>[\*\*](#fn_6.md) as an emperor. The whole world trembled
 beneath his autocratic rule; even the gods were overpowered and humbled
 before him. He was the son of the noble Virochana, and reigned mightily
 for ten million years.
 
 "One day he mounted to the parapet atop his palace—his palace which was
 studded with gems brought from the Manhameru <span
-id="fr_7"></span>[\*\*\*](#fn_7) Heights. There in solitude he spoke the
+id="fr_7"></span>[\*\*\*](#fn_7.md) Heights. There in solitude he spoke the
 travail of his mind. He was satiated with the material pleasure of his
 world and his speech was replete with bitterness.
 
 "'Of what avail is this undisputed sovereignty which has enable me to
 enjoy the wealth of these three worlds, when I reflect that the
 pleasures of wealth are but fleeting, and that I repeat to-day's actions
-again tomorrow with only a gain of momentary [happiness](errata.htm#11)?
+again tomorrow with only a gain of momentary [happiness](errata.htm#11.md)?
 Enjoyed incidents do recur again; ornaments worn proudly yesterday are
 put on again to-day. We observe that even
 
@@ -252,7 +252,7 @@ pure wisdom are you, who hear. The entire universe is naught but
 all-full wisdom. Take these conclusions, impress them upon your mind and
 meditate upon the Reality of Wisdom. If you can accept Reality, you will
 attain the Supreme state. The Sapta-Rishi <span
-id="fr_8"></span>[\*](#fn_8) has just now entered a new state;
+id="fr_8"></span>[\*](#fn_8.md) has just now entered a new state;
 therefore, I shall pass.' So saying the Guru of Bali retired.
 
 "Contemplating the truth of his Guru's words, he became convinced that
@@ -295,7 +295,7 @@ stumbles like an awkward child and falls into
 sensuality, you must lift it to the indivisible Jnana and there let your
 mind become one with wisdom. By daily and consistent practice you may
 chain the terrible elephant of mind, so that
-[untrammeled](errata.htm#12) by pain, you will enable it to reach
+[untrammeled](errata.htm#12.md) by pain, you will enable it to reach
 liberation through control."
 
 So saith the great Master, Rishi Vashisht.
@@ -304,19 +304,19 @@ So saith the great Master, Rishi Vashisht.
 
 ### Footnotes
 
-<span id="fn_3"></span>[113:\*](yvhf09.htm#fr_3) Death.
+<span id="fn_3"></span>[113:\*](yvhf09.htm#fr_3.md) Death.
 
-<span id="fn_4"></span>[114:\*\*](yvhf09.htm#fr_4) Spiritual Teacher.
+<span id="fn_4"></span>[114:\*\*](yvhf09.htm#fr_4.md) Spiritual Teacher.
 
-<span id="fn_5"></span>[115:\*](yvhf09.htm#fr_5) Goddess of wealth.
+<span id="fn_5"></span>[115:\*](yvhf09.htm#fr_5.md) Goddess of wealth.
 
-<span id="fn_6"></span>[116:\*\*](yvhf09.htm#fr_6) America.
+<span id="fn_6"></span>[116:\*\*](yvhf09.htm#fr_6.md) America.
 
-<span id="fn_7"></span>[116:\*\*\*](yvhf09.htm#fr_7) Himalaya Mountains.
+<span id="fn_7"></span>[116:\*\*\*](yvhf09.htm#fr_7.md) Himalaya Mountains.
 
-<span id="fn_8"></span>[123:\*](yvhf09.htm#fr_8) One of the seven
+<span id="fn_8"></span>[123:\*](yvhf09.htm#fr_8.md) One of the seven
 Rishis.
 
 ------------------------------------------------------------------------
 
-[Next: King Janak](yvhf10)
+[Next: King Janak](yvhf10.md)

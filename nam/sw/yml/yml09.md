@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml08)  [Next](yml10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml08)  [Next](yml10.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ flower (sewa). Seataka, Seahamut, Masa'asa'i are the names of flowers.
 
 ------------------------------------------------------------------------
 
-[Next: Yuku](yml10)
+[Next: Yuku](yml10.md)

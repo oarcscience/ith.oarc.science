@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](hhp04)  [Next](hhp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](hhp04)  [Next](hhp06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Hidden Places*, by W. Marsham Adams, \[1895\], at
 Intangible Textual Heritage
 
@@ -258,7 +258,7 @@ science, would naturally give rise to the foolishness of animal worship.
 
 No less profound was the relation between the Creator and His works, as
 intimated in their well-known symbol for created life, called the
-Ank <span id="fr_15"></span>[\*](#fn_15) or Sacred Mirror, wherein every
+Ank <span id="fr_15"></span>[\*](#fn_15.md) or Sacred Mirror, wherein every
 great deity contemplates perpetually his own image; but which is rarely
 grasped in the hand of any except Amen. But how should the universe be
 represented by a mirror, and, if it be, why should the heavenly powers
@@ -333,7 +333,7 @@ the creator-spirit, Ptah; in the harmonious proportions of the universe
 the Eternal Wisdom, Thoth, "the mind and will of God;" in the starry
 firmament crowned by Alcyone and the Pleiades (the sacred bull and
 attendant cows) the ineffable beauty of Athor, <span
-id="fr_16"></span>[\*](#fn_16) the living tabernacle of the sacred
+id="fr_16"></span>[\*](#fn_16.md) the living tabernacle of the sacred
 Light.
 
 <span id="page_96">p. 96</span>
@@ -384,7 +384,7 @@ religious discord and confusion as those of our own Tudor princes.
 History however has produced, so far, but one instance of an endeavour
 on the part of the king to introduce novelty into the religion. Amenoph
 IV., who married a foreign princess, adopted the title of
-Khu-en-Aten, <span id="fr_17"></span>[\*](#fn_17)
+Khu-en-Aten, <span id="fr_17"></span>[\*](#fn_17.md)
 
 <span id="page_99">p. 99</span>
 
@@ -463,7 +463,7 @@ the building, the territory of initiation, there results the hieroglyph
 for the territory of the holy dead.
 
 <span id="img_10200"></span> ![The Place of the Holy
-Dead.](img/10200.jpg)  
+Dead.](img/10200.jpg.md)  
 The Place of the Holy Dead.
 
 Again, suppose that we represent the same place interiorly by drawing
@@ -471,7 +471,7 @@ the Well, where the re-born soul is reunited to the postulant, together
 with the line where the interior
 
 <span id="img_10201"></span> ![Well of Life, Place of
-Initiation.](img/10201.jpg)  
+Initiation.](img/10201.jpg.md)  
 Well of Life, Place of Initiation.
 
 masonry is bounded by the natural rock through which entrance or
@@ -486,7 +486,7 @@ Creator looks down on His own image in the universe, we obtain the
 symbol of the "Ank," or mirror
 
 <span id="img_10300"></span> ![Ank, Symbol of Created
-Life.](img/10300.jpg)  
+Life.](img/10300.jpg.md)  
 Ank, Symbol of Created Life.
 
 of life. So, if we represent the descent traversed by the Initiate from
@@ -608,7 +608,7 @@ allusion which occurs in another hymn to Amen, where it speaks of the
 crown of illumination, or "Atf" crown of
 
 <span id="img_10800"></span> ![“Atf,” Crown of Supreme Light, Crown of
-Illuminate in Burning Circle of the Orbit.](img/10800.jpg)  
+Illuminate in Burning Circle of the Orbit.](img/10800.jpg.md)  
 “Atf,” Crown of Supreme Light, Crown of Illuminate in Burning Circle of
 the Orbit.
 
@@ -616,7 +616,7 @@ the monarchs, fashioned after the form of the light which sometimes
 crowns the Zodiac, the Burning Circle of supreme heaven, before the
 
 <span id="img_10801"></span> ![Light of Supreme Heaven, Crown of Burning
-Circle of Zodiac.](img/10801.jpg)  
+Circle of Zodiac.](img/10801.jpg.md)  
 Light of Supreme Heaven, Crown of Burning Circle of Zodiac.
 
 summer dawn. That crown, we learn from the Ritual, was placed upon the
@@ -637,17 +637,17 @@ heaven, the Secret Places of the Hidden God.
 
 ### Footnotes
 
-<span id="fn_15"></span>[91:\*](hhp05.htm#fr_15) Another signification,
+<span id="fn_15"></span>[91:\*](hhp05.htm#fr_15.md) Another signification,
 that of a fisherman's knot, has of late been adopted by some
 authorities; but the shape of the knot differs essentially from that of
 the Ank, the head of the latter being upright upon the stem. And again,
 how should a fisherman's knot stand upright on the knees of the gods?
 and, if it could, why should it?
 
-<span id="fn_16"></span>[95:\*](hhp05.htm#fr_16) Properly Hat-hor, The
+<span id="fn_16"></span>[95:\*](hhp05.htm#fr_16.md) Properly Hat-hor, The
 House of Horus, the Risen God of Light.
 
-<span id="fn_17"></span>[98:\*](hhp05.htm#fr_17) I have adopted the
+<span id="fn_17"></span>[98:\*](hhp05.htm#fr_17.md) I have adopted the
 translation of the word Khou, given by M. Deveria in the passage above
 quoted, the hieroglyphs being identical; but the name, according to Mr.
 Flinders Petrie, is more correctly pronounced Akhenaten. That diligent
@@ -667,6 +667,6 @@ Personal and Unseen God can be philosophically regarded as an advance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Mystery of the Heavens](hhp06)
+[Next: Chapter IV. The Mystery of the Heavens](hhp06.md)
 
 </div>

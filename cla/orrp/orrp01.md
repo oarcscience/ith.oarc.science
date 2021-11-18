@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp00)  [Next](orrp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp00)  [Next](orrp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ Preface, <a href="orrp13.htm#page_213">213</a>.--I. Rome and the Orient, <a href
 
 ------------------------------------------------------------------------
 
-[Next: Introduction: The Significance of Franz Cumont's Work](orrp02)
+[Next: Introduction: The Significance of Franz Cumont's Work](orrp02.md)

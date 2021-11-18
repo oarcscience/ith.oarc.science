@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe180)  [Next](prwe182) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe180)  [Next](prwe182.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ chair since those times.
 
 ------------------------------------------------------------------------
 
-[Next: Old Mage Figgy and the Pig](prwe182)
+[Next: Old Mage Figgy and the Pig](prwe182.md)

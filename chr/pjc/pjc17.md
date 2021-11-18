@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc16)  [Next](pjc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc16)  [Next](pjc18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -293,7 +293,7 @@ new dwellings, they placed their huts and tents in the valley which is
 situated between Mount Olivet and Ophel, and there St. Stephen lived.
 Ophel was on a hill to the south of the Temple, surrounded by walls, and
 its inhabitants were very poor. I think it was smaller than
-Dulmer. <span id="fr_9"></span>[1](#fn_9)
+Dulmer. <span id="fr_9"></span>[1](#fn_9.md)
 
 The slumbers of the good inhabitants of Ophel were disturbed by the
 noise of the soldiers; they came out of their houses and ran to the
@@ -410,10 +410,10 @@ visions, and not allowing him a moment's respite.
 
 ### Footnotes
 
-<span id="fn_9"></span>[134:1](pjc17.htm#fr_9) Dulmen is a small town in
+<span id="fn_9"></span>[134:1](pjc17.htm#fr_9.md) Dulmen is a small town in
 Westphalia, where Sister Emmerich lived at this time.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. Means employed by the enemies of Jesus for carrying
-out their designs against him](pjc18)
+out their designs against him](pjc18.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah56)  [Next](oah58) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah56)  [Next](oah58.md) 
 
 ------------------------------------------------------------------------
 
@@ -215,4 +215,4 @@ END OF THE SYNOPSIS OF HEAVENLY RECORDS.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah58)
+[Next: Chapter I](oah58.md)

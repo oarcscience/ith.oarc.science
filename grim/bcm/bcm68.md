@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm67)  [Next](bcm69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm67)  [Next](bcm69.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ After these Conjurations you shall command them to affix the Seal
 CONCERNING THE FIGURE OF THE CIRCLE
 
 Circles should be described with charcoal or holy water, sprinkled with
-the wood of the blessed Cross. <span id="fr_265"></span>[1](#fn_264)
+the wood of the blessed Cross. <span id="fr_265"></span>[1](#fn_264.md)
 When they have been duly made, and the words have been written about the
 circle, the holy water which has served to bless the same may also be
 used to prevent the spirits from inflicting any hurt. Standing in the
@@ -52,7 +52,7 @@ ESARCHIE,
  
 
 <span id="img_28100"></span> [![](tn/generic.jpg)  
-Click to view](img/28100.jpg)  
+Click to view](img/28100.jpg.md)  
 THE MAGIC CIRCLE OF HONORIUS
 
  
@@ -75,7 +75,7 @@ Lift up the eternal gates. Who is this King of Glory? The Lord Almighty.
 This Lord is the King of Glory. Glory be to the Father, &c*.
 
 <span id="img_28200"></span> [![](tn/generic.jpg)  
-Click to view](img/28200.jpg)  
+Click to view](img/28200.jpg.md)  
 A LESSER PENTACLE OF SOLOMON
 
 To dismiss them, the Pentacle of Solomon must be exhibited, at the same
@@ -90,7 +90,7 @@ my will.
 
 ### Footnotes
 
-<span id="fn_264"></span>[280:1](bcm68.htm#fr_265) On the hypothesis
+<span id="fn_264"></span>[280:1](bcm68.htm#fr_265.md) On the hypothesis
 that the *Method of Honorius* is dealing in efficacious Rites provided
 that its conditions are fulfilled, the operation must fail because this
 requirement is unattainable, if not indeed impossible. I mention this
@@ -100,4 +100,4 @@ no end to occult foolishness, it is within the compass of a dream.
 
 ------------------------------------------------------------------------
 
-[Next: Conjurations of the Kings of the Cardinal Directions](bcm69)
+[Next: Conjurations of the Kings of the Cardinal Directions](bcm69.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb35)  [Next](wfb37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb35)  [Next](wfb37.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ living than gathering up fairy money.
 
 ------------------------------------------------------------------------
 
-[Next: Why Deunant has the Front Door in the Back](wfb37)
+[Next: Why Deunant has the Front Door in the Back](wfb37.md)

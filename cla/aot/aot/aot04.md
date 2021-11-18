@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot03) 
-[Next](aot05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot03.md) 
+[Next](aot05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -279,4 +279,4 @@ all those who have striven to help their fellows the world over.
 
 ------------------------------------------------------------------------
 
-[Next: Section IV. The Apollonius of Early Opinion](aot05)
+[Next: Section IV. The Apollonius of Early Opinion](aot05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](ktm03)  [Next](ktm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](ktm03)  [Next](ktm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -403,7 +403,7 @@ In those years of which we are now speaking, the last twenty of his
 life, he was a great light, known as a saint throughout Bengal, the
 North-West Provinces and Nepal, and much visited, in the informal
 Eastern way. Men felt themselves in his presence to be dealing with
-forces that they could not [gauge](errata.htm#0), drawing on wisdom
+forces that they could not [gauge](errata.htm#0.md), drawing on wisdom
 which they were unable to fathom. As if he were great music, they
 touched there the state that mighty music hints at, and went away saner,
 sweeter, stronger to their daily tasks.
@@ -501,7 +501,7 @@ animal sacrifice. This means something entirely different from the
 Jewish notion of propitiation. There is no idea whatever of making
 compensation for sin: the whole intention is to offer meat-food first to
 the Mother, for Her use and blessing. No meat is eaten by
-[the](errata.htm#1) orthodox Hindu without being consecrated in this
+[the](errata.htm#1.md) orthodox Hindu without being consecrated in this
 way, whether he be otherwise a Kali-worshipper or not. But the
 Anglicised portion of the community, while consuming vastly more animal
 food than their conservative brethren, take great exception to these
@@ -537,7 +537,7 @@ of every faith, "Bow down and adore where others kneel, for where so
 many have worshipped, the Lord will manifest Himself."--it was unique in
 the world's history.
 
-To those who have learnt even [a](errata.htm#2) little of the
+To those who have learnt even [a](errata.htm#2.md) little of the
 authenticity of the religious consciousness, it is not difficult to see
 intellectually that creeds may bear to each other the relation of
 contemporary languages, all expressive of that one consciousness. But
@@ -587,7 +587,7 @@ vibration would remind him that God is both with form and without form
 too, and He is that which transcends form and formlessness.
 
 There was wit too. All the saintliness in the world would not prevent a
-laugh at the man who was so indifferent to [worldly](errata.htm#3)
+laugh at the man who was so indifferent to [worldly](errata.htm#3.md)
 interests
 
 that he permitted his wife to limit his charities.
@@ -802,4 +802,4 @@ of Kali, represents *Humanity*.
 
 ------------------------------------------------------------------------
 
-[Next: The Voice of the Mother](ktm05)
+[Next: The Voice of the Mother](ktm05.md)

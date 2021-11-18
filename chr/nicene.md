@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [Christianity](index)
+[Intangible Textual Heritage](../index)  [Christianity](index.md)
 
 ------------------------------------------------------------------------
 

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh08)  [Next](msh10) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh08)  [Next](msh10.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ Sinâ.
 
 ------------------------------------------------------------------------
 
-[Next: VI. One Solution Of The Problem Of The Vicegerent](msh10)
+[Next: VI. One Solution Of The Problem Of The Vicegerent](msh10.md)

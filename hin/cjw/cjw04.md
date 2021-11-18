@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw03)  [Next](cjw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw03)  [Next](cjw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ Perfections" should be learned by heart and taken to heart.
 
 ------------------------------------------------------------------------
 
-[Next: First Steps on the Path](cjw05)
+[Next: First Steps on the Path](cjw05.md)

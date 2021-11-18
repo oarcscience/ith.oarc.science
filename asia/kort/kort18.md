@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort17)  [Next](kort19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort17)  [Next](kort19.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ home. They lived there. That is all.
 
 ------------------------------------------------------------------------
 
-[Next: 15. Eme'mqut and the Perches](kort19)
+[Next: 15. Eme'mqut and the Perches](kort19.md)

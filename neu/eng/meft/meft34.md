@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft33)  [Next](meft35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft33)  [Next](meft35.md) 
 
 ------------------------------------------------------------------------
 
 # The Stars in the Sky
 
 <span id="img_050"></span> [![](tn/050.jpg)  
-Click to enlarge](img/050.jpg)
+Click to enlarge](img/050.jpg.md)
 
 ONCE on a time and twice on a time, and all times together as ever I
 heard tell of, there was a tiny lassie who would weep all day to have
@@ -134,4 +134,4 @@ weeping and wailing, by the bedside at home all alone.
 
 ------------------------------------------------------------------------
 
-[Next: News!](meft35)
+[Next: News!](meft35.md)

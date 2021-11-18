@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](twp07)  [Next](twp09) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](twp07)  [Next](twp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ he would confess nothing, he was put to the torture, and first the
 
 *Thumb-screws* were applied. Says he has never denied God his Saviour
 nor suffered himself to be otherwise baptized; <span
-id="fr_30"></span>[1](#fn_30) will again stake his life on it; feels no
+id="fr_30"></span>[1](#fn_30.md) will again stake his life on it; feels no
 pain in the thumb-screws.
 
 Leg-screws. Will confess absolutely nothing; knows nothing about it. He
@@ -167,7 +167,7 @@ executioner, and put the thumb-screws on me, both hands bound together,
 so that the blood ran out at the nails and everywhere, so that for four
 weeks I could not use my hands, as you can see from the writing. . . .
 Thereafter they first stripped me, bound my hands behind me, and drew me
-up in the torture. <span id="fr_31"></span>[1](#fn_31) Then I thought
+up in the torture. <span id="fr_31"></span>[1](#fn_31.md) Then I thought
 heaven and earth were at an end; eight times did they draw me up and let
 me fall again, so that I suffered terrible agony. . . .
 
@@ -209,7 +209,7 @@ executioner at you. Say--was not the Chancellor there?" So I said yes.
 "Who besides?" I had not recognized anybody. So be said: "Take one
 street after another; begin at the market, go out on one street and back
 on the next." I had to name several persons there. Then came the long
-street. <span id="fr_32"></span>[1](#fn_32) I knew nobody. Had to name
+street. <span id="fr_32"></span>[1](#fn_32.md) I knew nobody. Had to name
 eight persons there. Then the Zinkenwert--one person more. Then over the
 upper bridge to the Georgthor, on both sides. Knew nobody again
 
@@ -257,20 +257,20 @@ good of me. They were forced to say it, just as I myself was. . . .
 
 ### Footnotes
 
-<span id="fn_30"></span>[24:1](twp08.htm#fr_30) "Otherwise baptized" is
+<span id="fn_30"></span>[24:1](twp08.htm#fr_30.md) "Otherwise baptized" is
 the usual phrase for the rite, a parody of baptism, by which the Devil
 was believed to initiate his followers.
 
-<span id="fn_31"></span>[26:1](twp08.htm#fr_31) This torture of the
+<span id="fn_31"></span>[26:1](twp08.htm#fr_31.md) This torture of the
 strappado, which was that in most common use by the courts, consisted of
 a rope, attached to the hands of the prisoner (bound behind his back)
 and carried over a pulley at the ceiling. By this he was drawn up and
 left hanging. To increase the pain, weights were attached to his feet or
 he was suddenly jerked up and let drop.
 
-<span id="fn_32"></span>[27:1](twp08.htm#fr_32) "*Die lange
+<span id="fn_32"></span>[27:1](twp08.htm#fr_32.md) "*Die lange
 gasse*,"--the street is still known by that name.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Witch-Persecution at Würzburg.](twp09)
+[Next: VII. The Witch-Persecution at Würzburg.](twp09.md)

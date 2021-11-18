@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm25)  [Next](rrm27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm25)  [Next](rrm27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ and Philalethes (Thomas Vaughan). Refer also to *The Hermetical Triumph,
 or the Victorious Philosopher's Stone*: London, 1723; Lucas’s *Travels*,
 p. 79; Count Bernard of Treviso. Two leading works, however, on the
 hermetic subject are *La Chiave del Gabinetto* <span
-id="fr_10"></span>[1](#fn_10), Col. 1681, 12mo, by Joseph Francis Borri,
+id="fr_10"></span>[1](#fn_10.md), Col. 1681, 12mo, by Joseph Francis Borri,
 an Italian; and *Le Compte de Gabalis, ou Entretiens sur les Sciences
 Secrètes*; imprimée à Paris, par Claude Barbin, 1671, 12mo, pp. 150.
 This book is the work of the Abbé de Villars, or is supposed to be so.
@@ -133,7 +133,7 @@ in the museum Fig. 35 of the London University.
 <span id="img_19000"></span>
 
 [![Figs. 35-39](tn/19000.jpg)  
-Click to enlarge](img/19000.jpg)  
+Click to enlarge](img/19000.jpg.md)  
 Figs. 35-39  
 
 Upon a monument discovered in Thebes, Anubis is represented as St.
@@ -184,7 +184,7 @@ HERALDIC GENEALOGY OF THE 'FLEUR-DE-LIS', OR 'FLOWER-DE-LUCE'
 [![APOTHEOSIS OF THE SYMBOL&lt;br&gt; Fig. 40&lt;br&gt; 4. Bee 6. Bee 7.
 Imperial Bee 8. Fleuron 9. Charlemagne 10. A Babylonian
 Gem](tn/19200.jpg)  
-Click to enlarge](img/19200.jpg)  
+Click to enlarge](img/19200.jpg.md)  
 APOTHEOSIS OF THE SYMBOL  
 Fig. 40  
 4. Bee 6. Bee 7. Imperial Bee 8. Fleuron 9. Charlemagne 10. A Babylonian
@@ -214,7 +214,7 @@ deities and meanings.
 <span id="img_19300"></span>
 
 [![Fig 41](tn/19300.jpg)  
-Click to enlarge](img/19300.jpg)  
+Click to enlarge](img/19300.jpg.md)  
 Fig 41  
 
 <div align="center">
@@ -265,15 +265,15 @@ they recede from him, more real as they approach him.
 
 ### Footnotes
 
-<span id="fn_10"></span>[188:1](rrm26.htm#fr_10) Mark--the letters G and
+<span id="fn_10"></span>[188:1](rrm26.htm#fr_10.md) Mark--the letters G and
 C are convertible: Thus Gab or Cab ('Gab' ala or 'Cab' ala). The
 'Compte' de 'Gabalis' is, properly the 'Compte' de 'Cabalis', or the
 Count of the 'Cabala'.
 
-<span id="fn_11"></span>[193:1](rrm26.htm#fr_11) See figs, 190, 191,
+<span id="fn_11"></span>[193:1](rrm26.htm#fr_11.md) See figs, 190, 191,
 192, 195, *post*. See, also, pages preceding.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII: Myth of the Scorpion, or the Snake, in its Many
-Disguises](rrm27)
+Disguises](rrm27.md)

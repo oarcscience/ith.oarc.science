@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt05)  [Next](blt07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt05)  [Next](blt07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ and drink. But he and his
 <span id="page_26">p. 26</span>
 
 family ate none of these. Their only food was the bloodsucker. <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 Now the old man's daughters were swimming about in the evening, and they
 found Bull Turns Round lying on the shoal, dead, and they went home and
@@ -144,7 +144,7 @@ buffalo. In the morning, early, a man arose whose son had starved to
 death, and when he went out and saw this lodge on the top of the hill,
 and all the buffalo feeding by it, he cried out in a loud voice; and the
 people all came out and looked at it, and they were afraid, for they
-thought it was *Stōn'-i-tăp-i*. <span id="fr_3"></span>[1](#fn_3) Then
+thought it was *Stōn'-i-tăp-i*. <span id="fr_3"></span>[1](#fn_3.md) Then
 said the man whose son had died: "I am no longer glad to live. I will go
 up to this lodge, and find out what this is." Now when he said this, all
 the men grasped their bows and arrows and followed him, and when they
@@ -172,13 +172,13 @@ curious things.
 
 ### Footnotes
 
-<span id="fn_2"></span>[26:1](blt06.htm#fr_2) Blackfoot—*Est'-stŭk-ki*,
+<span id="fn_2"></span>[26:1](blt06.htm#fr_2.md) Blackfoot—*Est'-stŭk-ki*,
 suck-bite; from *Est-ah-tope*, suck, and *I-sik-stŭk-ki*, bite.
 
-<span id="fn_3"></span>[27:1](blt06.htm#fr_3) There is no word in
+<span id="fn_3"></span>[27:1](blt06.htm#fr_3.md) There is no word in
 English which corresponds to this. It is used when speaking of things
 wonderful or supernatural.
 
 ------------------------------------------------------------------------
 
-[Next: Kŭt-o´-yis](blt07)
+[Next: Kŭt-o´-yis](blt07.md)

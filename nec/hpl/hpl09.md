@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl08)  [Next](hpl10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl08)  [Next](hpl10.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ the blind, voiceless, mindless gargoyles whose soul is Nyarlathotep.
 
 ------------------------------------------------------------------------
 
-[Next: Polaris (1920)](hpl10)
+[Next: Polaris (1920)](hpl10.md)

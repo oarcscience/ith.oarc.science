@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](uljc09)  [Next](uljc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](uljc09)  [Next](uljc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The Unknown Life of Jesus Christ, by Nicolas Notovitch \[1890\], at
 Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ Holy Scriptures.
 
 6\. But the Brahmins and the Kshatriyas told him that they were
 forbidden by the great Para-Brahma to come near to those who were
-created from his belly and his feet; <span id="fr_0"></span>[\*](#fn_0)
+created from his belly and his feet; <span id="fr_0"></span>[\*](#fn_0.md)
 
 7\. That the Vaisyas might only hear the recital of the Vedas, and this
 only on the festal days, and
@@ -155,13 +155,13 @@ which ye have not and which belongs to others."
 
 ### Footnotes
 
-<span id="fn_0"></span>[168:\*](uljc10.htm#fr_0) The Vaisyas and Sudras
+<span id="fn_0"></span>[168:\*](uljc10.htm#fr_0.md) The Vaisyas and Sudras
 castes.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: VI](uljc11)
+[Next: VI](uljc11.md)
 
 </div>

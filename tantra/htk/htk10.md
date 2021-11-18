@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk09)  [Next](htk11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk09)  [Next](htk11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -27,16 +27,16 @@ at Intangible Textual Heritage
 
 ### VERSE 6
 
-O DEVĪ <span id="fr_53"></span>[1](#fn_53) of full breasts, <span
-id="fr_54"></span>[2](#fn_54) whose throat is adorned with a garland of
-heads, They who meditating <span id="fr_55"></span>[3](#fn_55) recite
+O DEVĪ <span id="fr_53"></span>[1](#fn_53.md) of full breasts, <span
+id="fr_54"></span>[2](#fn_54.md) whose throat is adorned with a garland of
+heads, They who meditating <span id="fr_55"></span>[3](#fn_55.md) recite
 any one or two or three of Thy very secret and excelling *Bījas* or all
-thereof <span id="fr_56"></span>[4](#fn_56) together with Thy
-name, <span id="fr_57"></span>[5](#fn_57) in the moonlike face of all
-such the Devī of Speech <span id="fr_58"></span>[6](#fn_58) ever
+thereof <span id="fr_56"></span>[4](#fn_56.md) together with Thy
+name, <span id="fr_57"></span>[5](#fn_57.md) in the moonlike face of all
+such the Devī of Speech <span id="fr_58"></span>[6](#fn_58.md) ever
 Wanders, and in their lotus-like eyes Kamalā <span
-id="fr_59"></span>[7](#fn_59) ever plays. <span
-id="fr_60"></span>[8](#fn_60)
+id="fr_59"></span>[7](#fn_59.md) ever plays. <span
+id="fr_60"></span>[8](#fn_60.md)
 
 COMMENTARY
 
@@ -80,10 +80,10 @@ forsake them for three generations downwards.
 
 ### Footnotes
 
-<span id="fn_53"></span>[59:1](htk10.htm#fr_53) *Devī* which comes from
+<span id="fn_53"></span>[59:1](htk10.htm#fr_53.md) *Devī* which comes from
 the root *Div* to shine, is the Shining One (V).
 
-<span id="fn_54"></span>[59:2](htk10.htm#fr_54) *Pināstanādhye* (see
+<span id="fn_54"></span>[59:2](htk10.htm#fr_54.md) *Pināstanādhye* (see
 also Bhairavīstotra in Tantra-sāra, p. 596). The physical
 characteristics of the Devī in swelling breasts and hips are emblematic
 of Her great Motherhood, for She is *Śrīmātā*. See also as to the
@@ -99,14 +99,14 @@ supports Her waist, which bends under the burden of Her breasts, thrice
 folding the skin below Her bosom'
 (*Stanabhāra-dalanmadhya-pattabhandha-valitrayā*).
 
-<span id="fn_55"></span>[59:3](htk10.htm#fr_55) *Bhāvayantah*, that is,
+<span id="fn_55"></span>[59:3](htk10.htm#fr_55.md) *Bhāvayantah*, that is,
 meditating on the naked, full-breasted, black form with dishevelled hair
 as stated in Her *Dhyāna*, and which is the *Artha* of the particular
 *Mantra*. The *Bhūtaśuddhi-Tantra* says, 'A Mantra should be recited
 mentally meditating the while on the form of the *Devī* denoted by it '
 (V).
 
-<span id="fn_56"></span>[59:4](htk10.htm#fr_56) Any one of the aforesaid
+<span id="fn_56"></span>[59:4](htk10.htm#fr_56.md) Any one of the aforesaid
 Bījas or the whole that is, the whole nine-lettered *Vidyā* in full.
 Which according to the Kumārī-Tantra cited in Tantraratna is *Krīṁ,
 Krīṁ, Krīṁ, Hūṁ, Hūṁ, Hūṁ, Hrīṁ, Hrīṁ, Hrīṁ*. Śyāmārahaśya quoting
@@ -115,23 +115,23 @@ or thrice, or the whole *mantra* with '*Dakṣiṇe Kālike* between the
 Bījas.' (K. B.) Thus, *Krīṁ, Krīṁ, Krīṁ, Hūṁ, Hūṁ, Hrīṁ, Hrīṁ, Dakṣiṇe
 Kālike, Krīṁ, Krīṁ, Krīṁ, Hūṁ, Hūṁ, Hrīṁ, Hrīṁ*.
 
-<span id="fn_57"></span>[59:5](htk10.htm#fr_57) *Dakṣiṇe Kālikā*.
+<span id="fn_57"></span>[59:5](htk10.htm#fr_57.md) *Dakṣiṇe Kālikā*.
 
-<span id="fn_58"></span>[59:6](htk10.htm#fr_58) *Sarasvati*. The
+<span id="fn_58"></span>[59:6](htk10.htm#fr_58.md) *Sarasvati*. The
 Bhāradvāja-Smṛtī says Sarasvatī is She who ever resides in the tongue of
 all beings, and who causes speech.
 
-<span id="fn_59"></span>[59:7](htk10.htm#fr_59) *Lakṣmi*: for them is
+<span id="fn_59"></span>[59:7](htk10.htm#fr_59.md) *Lakṣmi*: for them is
 all learning, wealth, and prosperity (see Mahānirvāṇa-Tantra, *Ullāsa*,
 vii, verse 50).
 
-<span id="fn_60"></span>[59:8](htk10.htm#fr_60) In the other words they
+<span id="fn_60"></span>[59:8](htk10.htm#fr_60.md) In the other words they
 become rich and learned.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Verse 7](htk11)
+[Next: Verse 7](htk11.md)
 
 </div>

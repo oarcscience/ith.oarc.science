@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi29)  [Next](twi31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi29)  [Next](twi31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -69,4 +69,4 @@ the memories of one's childhood are brittle things to lean upon.
 
 ------------------------------------------------------------------------
 
-[Next: The Religion Of A Sailor](twi31)
+[Next: The Religion Of A Sailor](twi31.md)

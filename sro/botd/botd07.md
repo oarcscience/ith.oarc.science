@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd06)  [Next](botd08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd06)  [Next](botd08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -105,7 +105,7 @@ crowd, and as he passed us I heard him soliloquize:
 
 "Dangerous; the sacred truths must not be thus revealed. ’Tis rash,—"
 
-Turning to the picture, which was of [exceptionally](errata.htm#0) large
+Turning to the picture, which was of [exceptionally](errata.htm#0.md) large
 size, the first thing that attracted my attention was the predominance
 of mystic symbols. It was entitled "The Dawn," and was signed by a
 combination of the five and six-pointed stars.
@@ -182,7 +182,7 @@ carrying a large covering, which they immediately put over the
 magnificent picture, the men standing by until it was accomplished.
 
 As they turned away I heard the leader say to the
-[Oriental](errata.htm#1):
+[Oriental](errata.htm#1.md):
 
 "Yes, it was an unusual indiscretion on the part of Zerol to place that
 here. A man with the most fragmentary knowledge would, with an hour's
@@ -620,4 +620,4 @@ myself constantly recurring to it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Member of the Fifth Degree](botd08)
+[Next: Chapter VIII. Member of the Fifth Degree](botd08.md)

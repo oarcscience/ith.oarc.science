@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](efl04)  [Next](efl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](efl04)  [Next](efl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ to Râ, the Sun-god of the day-time. For some reason or other they
 formulated the idea of a company of the gods, nine in number, which was
 called the "great company (*paut*) of the gods," and at the head of this
 company they placed the god Temu. In. Chapter XVII of the Book of the
-Dead <span id="fr_74"></span>[1](#fn_74) we find the following
+Dead <span id="fr_74"></span>[1](#fn_74.md) we find the following
 passage:--
 
 "I am the god Temu in his rising; I am. the only One. I came into being
@@ -404,7 +404,7 @@ the commands of Thoth, who gave expression in words to the will of the
 primeval, creative Power; he was self-created, and was a form of the
 Sun-god Râ as the "Opener" of the day. From certain allusions in the
 Book of the Dead he is known to have "opened the mouth" <span
-id="fr_75"></span>[1](#fn_75) of the gods, and it is in this capacity
+id="fr_75"></span>[1](#fn_75.md) of the gods, and it is in this capacity
 that he became a god of the cycle of Osiris. His feminine counterpart
 was the goddess
 
@@ -512,7 +512,7 @@ begotten, behold \[thy\] body is Horus.
 
 20\. "Praise be unto thee, O Râ, thou exalted Power, who dost dwell in
 and illumine the celestial deep, behold \[thy\] body is Nu." <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 In the paragraphs which follow Râ, is identified with a large number of
 gods and divine personages whose names are not of such common occurrence
@@ -563,7 +563,7 @@ the worship of Râ, and the worship of "Râ, in his Disk" consisted, we
 may be certain that there must have been some subtle, theological
 distinction between them. But whatever the difference may have been, it
 was sufficient to make Amenophis forsake the old capital Thebes and
-withdraw to a place <span id="fr_77"></span>[1](#fn_77) some distance to
+withdraw to a place <span id="fr_77"></span>[1](#fn_77.md) some distance to
 the north of that city, where he carried on the worship of his beloved
 god Aten. In the pictures of the Aten worship which have come down to us
 the god appears in the form of a disk from which proceed a number of
@@ -576,13 +576,13 @@ declined, and Amen resumed his sway over the minds of the Egyptians.
 
 Want of space forbids the insertion here of a full list of the titles of
 Amen, and a brief extract from the Papyrus of the Princess
-Nesi-Khensu <span id="fr_78"></span>[1](#fn_78) must suffice to describe
+Nesi-Khensu <span id="fr_78"></span>[1](#fn_78.md) must suffice to describe
 the estimation in which the god was held about B.C. 1000. In this Amen
 is addressed as "the holy god, the lord of all the gods, Amen-Râ, the
 lord of the thrones of the world, the prince of Apt (*i.e.*, Karnak),
 the holy soul who came into being in the beginning, the great god who
 liveth by right and truth, the first ennead who gave birth unto the
-other two enneads, <span id="fr_79"></span>[2](#fn_79) the being in whom
+other two enneads, <span id="fr_79"></span>[2](#fn_79.md) the being in whom
 every god existeth, the One of One, the creator of the things which came
 into being when the earth took form in the beginning, whose births are
 hidden, whose forms are manifold, and whose growth cannot be known. The
@@ -624,7 +624,7 @@ there is no doubt
 whatever that when the Egyptians declared their god to be One, and
 without a second, they meant precisely what the Hebrews and Arabs meant
 when they declared their God to be One. <span
-id="fr_80"></span>[1](#fn_80) Such a God was an entirely different Being
+id="fr_80"></span>[1](#fn_80.md) Such a God was an entirely different Being
 from the personifications of the powers of nature and the existences
 which, for want of a better name, have been called "gods."
 
@@ -689,31 +689,31 @@ considerable number are enumerated and described.
 
 ### Footnotes
 
-<span id="fn_74"></span>[113:1](efl05.htm#fr_74) See *Chapters of Coming
+<span id="fn_74"></span>[113:1](efl05.htm#fr_74.md) See *Chapters of Coming
 Forth by Day*, p. 49.
 
-<span id="fn_75"></span>[124:1](efl05.htm#fr_75) "May the god Ptah open
+<span id="fn_75"></span>[124:1](efl05.htm#fr_75.md) "May the god Ptah open
 my mouth"; "may the god Shu open my mouth with his implement of iron
 wherewith he opened the mouth of the gods" (Chap. XXIII.)
 
-<span id="fn_76"></span>[128:1](efl05.htm#fr_76) For the text see
+<span id="fn_76"></span>[128:1](efl05.htm#fr_76.md) For the text see
 *Annales de Musée Guimet: Le Tombeau de Seti. I.* (ed. Lefébure), Paris,
 1886, pl. v.
 
-<span id="fn_77"></span>[130:1](efl05.htm#fr_77) The site is marked by
+<span id="fn_77"></span>[130:1](efl05.htm#fr_77.md) The site is marked by
 the ruins of Tell el-Amarna.
 
-<span id="fn_78"></span>[131:1](efl05.htm#fr_78) For a hieroglyphic
+<span id="fn_78"></span>[131:1](efl05.htm#fr_78.md) For a hieroglyphic
 transcript of the hieratic text, see Maspero, *Mémoires*, tom. i., p.
 594 ff.
 
-<span id="fn_79"></span>[131:2](efl05.htm#fr_79) *I.e.*, the great, the
+<span id="fn_79"></span>[131:2](efl05.htm#fr_79.md) *I.e.*, the great, the
 little, and the least companies of the gods; each company (*paut*)
 contained nine gods.
 
-<span id="fn_80"></span>[133:1](efl05.htm#fr_80) See Deut, vi. 4; and
+<span id="fn_80"></span>[133:1](efl05.htm#fr_80.md) See Deut, vi. 4; and
 *Koran*, chapter cxii.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: The Judgment of the Dead](efl06)
+[Next: Chapter VI: The Judgment of the Dead](efl06.md)

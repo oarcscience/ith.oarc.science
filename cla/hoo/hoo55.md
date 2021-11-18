@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo54)  [Next](hoo56) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo54)  [Next](hoo56.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ And pour; in lasting streams, continued Health.
 
 ------------------------------------------------------------------------
 
-[Next: LI: To Trietericus](hoo56)
+[Next: LI: To Trietericus](hoo56.md)

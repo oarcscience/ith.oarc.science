@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr27)  [Next](ppr29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr27)  [Next](ppr29.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ crater of a volcano)
 *Victim*
 
 "TN THE Hall of Flame let me not put to shame my ancestors;
-[descending](errata.htm#2) there let me not put you to shame!
+[descending](errata.htm#2.md) there let me not put you to shame!
 
 "I fasten a rope to the sacred tree. I twist it in eight folds, that by
 it, I, a magician, may descend to the magical house."
@@ -48,4 +48,4 @@ Rain; call ye for Her!"
 
 ------------------------------------------------------------------------
 
-[Next: The Prayer of the Maize (Mexican)](ppr29)
+[Next: The Prayer of the Maize (Mexican)](ppr29.md)

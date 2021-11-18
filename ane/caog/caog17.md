@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog16)  [Next](caog18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog16)  [Next](caog18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -952,7 +952,7 @@ possible
 
 <span id="img_23700"></span> <span align="CENTER"> [![BOWAREYEH MOUND AT
 WARKA (FREER), SITE OF THE TEMPLE OF ISHTAR.](tn/23700.jpg)  
-Click to enlarge](img/23700.jpg)  
+Click to enlarge](img/23700.jpg.md)  
 BOWAREYEH MOUND AT WARKA (FREER), SITE OF THE TEMPLE OF ISHTAR.  
 </span>
 
@@ -1006,7 +1006,7 @@ that this tablet was in great part
 
 <span id="img_23900"></span> <span align="CENTER"> [![IZDUBAR AND
 HEABANI IN CONFLICT WITH THE LION AND BULL.](tn/23900.jpg)  
-Click to enlarge](img/23900.jpg)  
+Click to enlarge](img/23900.jpg.md)  
 IZDUBAR AND HEABANI IN CONFLICT WITH THE LION AND BULL.  
 </span>
 
@@ -1054,6 +1054,6 @@ custom of lamenting for Dumuzi or Tammuz.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Illness and Wanderings of Izdubar](caog18)
+[Next: Chapter XV. Illness and Wanderings of Izdubar](caog18.md)
 
 </div>

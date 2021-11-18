@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf13)  [Next](sbf15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf13)  [Next](sbf15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -125,6 +125,6 @@ which she gave to us. I used to live with her (i.e. at her place). Silla
 ------------------------------------------------------------------------
 
 [Next: \#Kaga'Ra And !Haunu, Who Fought Each Other With
-Lightning.](sbf15)
+Lightning.](sbf15.md)
 
 </div>

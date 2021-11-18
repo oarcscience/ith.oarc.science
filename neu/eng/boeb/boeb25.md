@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb24)  [Next](boeb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb24)  [Next](boeb26.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_169">p. 169</span>
 
 <span id="img_16900"></span> [![](tn/16900.jpg)  
-Click to enlarge](img/16900.jpg)
+Click to enlarge](img/16900.jpg.md)
 
 <span id="img_16901"></span> ![](img/16901.jpg)
 
@@ -57,4 +57,4 @@ I'll chain my heart for evermair.
 
 ------------------------------------------------------------------------
 
-[Next: The Banks o' Yarrow](boeb26)
+[Next: The Banks o' Yarrow](boeb26.md)

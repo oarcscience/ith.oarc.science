@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn35)  [Next](rmn37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn35)  [Next](rmn37.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ And when the boy not present was,
 It is said, To fill wine, Juno was Jove's Ganymede.  
 If gravity by day doth thee delight,  
 Lucretia be; I'll have thee Lais by night." <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 The vice, of which this fresco seems to be a representation, has been
 perpetuated openly enough, in warm countries, to the present day. We
@@ -85,7 +85,7 @@ capable of re-awakening the ardours of the latter. And, finally, such
 faults might be accounted for with regard to certain women by the fear
 they have of the consequences of their weakness when they act
 imprudently with men. An eloquent writer on Love <span
-id="fr_41"></span>[1](#fn_41) thus speaks on this subject: "Such a
+id="fr_41"></span>[1](#fn_41.md) thus speaks on this subject: "Such a
 departure from propriety in women would excite little indignation if
 prudence alone could render a departure from propriety lawful. They are
 desirous, it might be said, of escaping from the disquietude and from
@@ -101,11 +101,11 @@ difficulties extenuate many faults."
 
 ### Footnotes
 
-<span id="fn_40"></span>[72:1](rmn36.htm#fr_40) MARTIAL, xi. 105. R.
+<span id="fn_40"></span>[72:1](rmn36.htm#fr_40.md) MARTIAL, xi. 105. R.
 Fletcher's Translation, 1656.
 
-<span id="fn_41"></span>[73:1](rmn36.htm#fr_41) M. de Senancour.
+<span id="fn_41"></span>[73:1](rmn36.htm#fr_41.md) M. de Senancour.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXVI: Mercury and Yphtima](rmn37)
+[Next: Plate XXXVI: Mercury and Yphtima](rmn37.md)

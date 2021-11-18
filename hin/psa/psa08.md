@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa07)  [Next](psa09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa07)  [Next](psa09.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ absolution, and that was the cause of the perfume coming from her body.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](psa09)
+[Next: Chapter VIII](psa09.md)

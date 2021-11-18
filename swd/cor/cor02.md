@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cor01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cor01.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ was situated in the middle portion of our entire globe: for on the front
 it looked towards Europe, on the left towards Africa, and on the hinder
 and right-hand side towards Asia. But after they came into that land,
 the precepts given by Moses were enriched by prophets, <span
-id="fr_1"></span>[52-1](#fn_1) then by their King David, and at length
+id="fr_1"></span>[52-1](#fn_1.md) then by their King David, and at length
 by Solomon after the building of the temple; as appears from the books
 of Judges, Samuel, and Kings. This, therefore, was the second state of
 this church, which was its progression into light, or day.
@@ -614,7 +614,7 @@ shall know My name in that day; for I am He that doth speak; Behold Me.
 How delightful upon the mountains are the feet of Him that evangelizeth,
 that causeth to hear peace, that evangelizeth good, that causes them to
 hear salvation, that saith unto Zion, Thy King <span
-id="fr_2"></span>[60-1](#fn_2) reigneth. They shall lift up the voice
+id="fr_2"></span>[60-1](#fn_2.md) reigneth. They shall lift up the voice
 and sing, when they shall see eye to eye that Jehovah is returned to
 Zion. He hath consoled His people, He hath redeemed Jerusalem. All the
 ends of the earth shall see the salvation of our God (Isa. 52:6-10). Say
@@ -706,8 +706,8 @@ generation and generation; and the heavens shall confess Thy wonders
 
 ### Footnotes
 
-<span id="fn_1"></span>[52-1](cor02.htm#fr_1) "Prophets" here means the
+<span id="fn_1"></span>[52-1](cor02.htm#fr_1.md) "Prophets" here means the
 early prophets. -Trans.
 
-<span id="fn_2"></span>[60-1](cor02.htm#fr_2) "King," the Hebrew word
+<span id="fn_2"></span>[60-1](cor02.htm#fr_2.md) "King," the Hebrew word
 means "God." Dr. Worcester has "God." \[The rest is missing.\]

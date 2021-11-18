@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar135) [Next](gbar137)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar135) [Next](gbar137.md)
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ thee all that thou askest."
 
 ------------------------------------------------------------------------
 
-[Next](gbar137)
+[Next](gbar137.md)

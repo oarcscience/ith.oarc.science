@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc35)  [Next](scc37) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc35)  [Next](scc37.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ country and talked Paleuyami dialect.
 
 ------------------------------------------------------------------------
 
-[Next: 35.--Yaudanchi Yokuts. The Visit To The Dead.](scc37)
+[Next: 35.--Yaudanchi Yokuts. The Visit To The Dead.](scc37.md)

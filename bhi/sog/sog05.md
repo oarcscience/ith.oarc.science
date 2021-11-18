@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Baha'i](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](sog04) 
-[Next](sog06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Baha'i](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](sog04.md) 
+[Next](sog06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Splendour of God*, by Eric Hammond, \[1909\], at Intangible Textual
 Heritage
 
@@ -202,13 +202,13 @@ time, but for year after year. Indeed it is noted that these
 persecutions continued down to the beginning of the new century.
 
 In 1901 "there were one hundred and seventy martyrs at one time in the
-city of Yeza." <span id="fr_0"></span>[1](#fn_0)
+city of Yeza." <span id="fr_0"></span>[1](#fn_0.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[24:1](sog05.htm#fr_0) "Their spirit of
+<span id="fn_0"></span>[24:1](sog05.htm#fr_0.md) "Their spirit of
 self-devotion and love is well exemplified in the manner in which Mirza
 Kurban Ali, one of seven executed together in Teheran in September 1850,
 met his death. When he was brought to the foot of the execution-pole,
@@ -223,6 +223,6 @@ Browne</span>, *A Traveller's Narrative*.
 
 ------------------------------------------------------------------------
 
-[Next: Baha'u'llah: The One Foretold](sog06)
+[Next: Baha'u'llah: The One Foretold](sog06.md)
 
 </div>

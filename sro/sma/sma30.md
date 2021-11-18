@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma29)  [Next](sma31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma29)  [Next](sma31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -32,11 +32,11 @@ may be elsewhere found.
 
 Fehm-tribunals were, in fact, as we have already observed, not peculiar
 to Westphalia. In a MS. life of Duke Julius of Celle, by Francis
-Algermann <span id="fr_125"></span>[\*](#fn_125), of the year 1608, we
+Algermann <span id="fr_125"></span>[\*](#fn_125.md), of the year 1608, we
 read the following description of a Fehm- court, which the author
 remembered to have seen holden at Celle in his youth:--
 
-"When the Fehm-law <span id="fr_126"></span>[†](#fn_126) was to be put
+"When the Fehm-law <span id="fr_126"></span>[†](#fn_126.md) was to be put
 in operation, all the inhabitants of the district who were above twelve
 years of age were obliged to appear, without fail, on a heath or some
 large open place, and sit down on the ground. Some tables were then set
@@ -142,7 +142,7 @@ and the court proceeded to judgment on it.
 The ideal Fehm-court beneath the castle of Baden must not be passed over
 without notice, as it seems to be the model after which our popular
 novelist described his Fehm-tribunal in Switzerland! A female writer in
-Germany <span id="fr_127"></span>[\*](#fn_127) informs us that beneath
+Germany <span id="fr_127"></span>[\*](#fn_127.md) informs us that beneath
 the
 
 <span id="page_381">p. 381</span>
@@ -196,7 +196,7 @@ appeal which was secured.
 
 The most remarkable resemblance to the Fehm-tribunals is (or was) to be
 found among the negroes on the west coast of Africa, as they are
-described by a French traveller <span id="fr_128"></span>[\*](#fn_128).
+described by a French traveller <span id="fr_128"></span>[\*](#fn_128.md).
 These are the Purrahs of the Foollahs, who dwell between Sierra Leone
 river and Cape Monte.
 
@@ -259,7 +259,7 @@ pretexts, that the Athenian democracy sought to reduce the power of
 their great citizens by condemning. them to build ships, give theatrical
 exhibitions, and otherwise spend their fortunes.
 
-Nothing can exceed the dread which the [Purrah](errata.htm#27) inspires.
+Nothing can exceed the dread which the [Purrah](errata.htm#27.md) inspires.
 The people speak of it with terror and awe, and look upon the members of
 it as enchanters who are in compact with the devil. The Purrah itself is
 solicitous to diffuse this notion as much as possible, esteeming it a
@@ -273,19 +273,19 @@ knowledge of the uninitiated.
 
 ### Footnotes
 
-<span id="fn_125"></span>[377:\*](sma30.htm#fr_125) Berck, p. 231, from
+<span id="fn_125"></span>[377:\*](sma30.htm#fr_125.md) Berck, p. 231, from
 Spittler's History of Hanover.
 
-<span id="fn_126"></span>[377:†](sma30.htm#fr_126) *Vimricht*, i.e.
+<span id="fn_126"></span>[377:†](sma30.htm#fr_126.md) *Vimricht*, i.e.
 *Fehm-law*, the German word, of which the author presently gives a
 childish etymology.
 
-<span id="fn_127"></span>[380:\*](sma30.htm#fr_127) Friederika Brun.
+<span id="fn_127"></span>[380:\*](sma30.htm#fr_127.md) Friederika Brun.
 Episoden aus Reisen durch das Südliche Deutschland, &c,
 
-<span id="fn_128"></span>[382:\*](sma30.htm#fr_128) Golberry, Voyage en
+<span id="fn_128"></span>[382:\*](sma30.htm#fr_128.md) Golberry, Voyage en
 Afrique, t. i. p,114, and seq.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](sma31)
+[Next: Chapter VI](sma31.md)

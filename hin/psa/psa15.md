@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa14)  [Next](psa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa14)  [Next](psa16.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Krishnù Chund having collected the calves, and taking his companions
 with him, proceeded on his road. Having gone some distance, standing
 under the shade of a kudum tree, playing on the flute, and calling all
 the cowherds' children, he said, "Brothers! this is a nice place, why
-need [we](errata.htm#0) go farther? let us sit down here and eat."
+need [we](errata.htm#0.md) go farther? let us sit down here and eat."
 
 On hearing this, they drove away the calves to graze, and having brought
 leaves of different trees, and made them into plates and cups, sweeping
@@ -87,4 +87,4 @@ formed into one.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](psa16)
+[Next: Chapter XV](psa16.md)

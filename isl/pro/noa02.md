@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](noa01)  [Next](noa03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](noa01)  [Next](noa03.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ sequence of the speech seems not coherent\]
 ------------------------------------------------------------------------
 
 [Next: A completion with the help of the Holy Quran for the case of
-Noah](noa03)
+Noah](noa03.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh09)  [Next](hloh11) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh09)  [Next](hloh11.md) 
 
 ------------------------------------------------------------------------
 
@@ -235,4 +235,4 @@ their subjects.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Mamala the Surf-Rider](hloh11)
+[Next: VII. Mamala the Surf-Rider](hloh11.md)

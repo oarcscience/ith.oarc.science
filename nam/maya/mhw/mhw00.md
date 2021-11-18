@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index)  [Next](mhw06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index)  [Next](mhw06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: The Long Count](mhw06)
+[Next: The Long Count](mhw06.md)

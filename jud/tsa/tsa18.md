@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa17)  [Next](tsa19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa17)  [Next](tsa19.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,11 +22,11 @@ connexion with his
 daughter-in-law, a male, or a beast; the woman who has criminal
 connexion with a beast; a blasphemer; an idolater; he who offers one of
 his children to Moloch; the *Ba‘al ‘Ob;* the *Yidd‘oni;* <span
-id="fr_296"></span>[1](tsa19.htm#fn_293) he who defiles the Sabbath; he
+id="fr_296"></span>[1](tsa19.htm#fn_293.md) he who defiles the Sabbath; he
 who curses his father or mother; he who has criminal connexion with a
 betrothed damsel; the beguiler to idolatry; he who leads a town astray;
 the sorcerer; and the stubborn and rebellious son.
 
 ------------------------------------------------------------------------
 
-[Next: 1-6. Those Guilty of Incestuous and Unnatural Crimes](tsa19)
+[Next: 1-6. Those Guilty of Incestuous and Unnatural Crimes](tsa19.md)

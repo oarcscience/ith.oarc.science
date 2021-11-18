@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm11)  [Next](pnm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm11)  [Next](pnm13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ changeable, and that the rest of the Elements are changed, as into this,
 so into one another successively. But it is the opinion of the subtler
 sort of Philosophers, that Earth is not changed, but relented and mixed
 with other Elements, which do dissolve it, and that it returns back into
-itself again. <span id="fr_2"></span>[\*](#fn_2) Now, every one of the
+itself again. <span id="fr_2"></span>[\*](#fn_2.md) Now, every one of the
 Elements hath two specifical qualities—the former whereof it
 
 <span id="page_43">p. 43</span>
@@ -44,7 +44,7 @@ Elements hath two specifical qualities—the former whereof it
 retains as proper to itself; in the other, as a mean, it agrees with
 that which comes next after it. For Fire is hot and dry, the Earth dry
 and cold, the Water cold and moist, the Air moist and hot. <span
-id="fr_3"></span>[\*](#fn_3) And so after this manner the Elements,
+id="fr_3"></span>[\*](#fn_3.md) And so after this manner the Elements,
 according to two contrary qualities, are contrary one to the other, as
 Fire to Water, and Earth to Air. Moreover, the Elements are upon another
 account opposite one to the other: For some are heavy, as Earth and
@@ -62,7 +62,7 @@ motion. But Fire is twice more thin than Air, thrice more movable, and
 four times more bright; and the Air is twice more bright, thrice more
 thin, and four times more movable than Water. Wherefore Water is twice
 more bright than Earth, thrice more thin, and four times more
-movable. <span id="fr_4"></span>[†](#fn_4) As therefore the Fire is to
+movable. <span id="fr_4"></span>[†](#fn_4.md) As therefore the Fire is to
 the Air,
 
 <span id="page_44">p. 44</span>
@@ -78,12 +78,12 @@ that are wonderful, and astonishing, and shall be perfect in Magic.
 
 ### Footnotes
 
-<span id="fn_2"></span>[42:\*](pnm12.htm#fr_2) Agrippa teaches here and
+<span id="fn_2"></span>[42:\*](pnm12.htm#fr_2.md) Agrippa teaches here and
 in the chapter following that matter, or substance, however much its
 elementary forms may change, is <span class="smallcaps">eternal</span>,
 thus denying the dogma that God "created" all things "out of nothing."
 
-<span id="fn_3"></span>[43:\*](pnm12.htm#fr_3) Tabularly stated:
+<span id="fn_3"></span>[43:\*](pnm12.htm#fr_3.md) Tabularly stated:
 
 <div align="center">
 
@@ -137,9 +137,9 @@ exposition of the "qualities" astrologers should note, for while the
 books give the same matter the "proper" and "mean" qualities are not
 given.
 
-<span id="fn_4"></span>[43:†](pnm12.htm#fr_4) The unity of the contrasts
+<span id="fn_4"></span>[43:†](pnm12.htm#fr_4.md) The unity of the contrasts
 between the four elements is here shown.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Of a Three-Fold Consideration of the Elements](pnm13)
+[Next: Chapter IV. Of a Three-Fold Consideration of the Elements](pnm13.md)

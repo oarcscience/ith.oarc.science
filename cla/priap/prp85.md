@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp84)  [Next](prp86) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp84)  [Next](prp86.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ hearth. If this be wanting, remember thou too art wooden.\[1\]
 ------------------------------------------------------------------------
 
 [Next: 86. Roses in spring in the autumn fruits and in summer they bring
-me](prp86)
+me](prp86.md)

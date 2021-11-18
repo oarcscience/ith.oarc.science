@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes01)  [Next](jes03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes01)  [Next](jes03.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ would have stoned her as they usually do while she did no sin.
 
 ------------------------------------------------------------------------
 
-[Next: The Table And The Mutation Among The Israelites](jes03)
+[Next: The Table And The Mutation Among The Israelites](jes03.md)

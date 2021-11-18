@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw02)  [Next](tnw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw02)  [Next](tnw04.md) 
 
 ------------------------------------------------------------------------
 
@@ -515,4 +515,4 @@ And love beats his soft wings against in vain.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Etymology: The Castle in the Air](tnw04)
+[Next: 3. Etymology: The Castle in the Air](tnw04.md)

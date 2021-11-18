@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma27)  [Next](oma29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma27)  [Next](oma29.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ could go alone. So she took a lunch and followed the other people. She
 came to where the people were camped; no one invited her in, so she
 camped alone. She passed the night and the next day went out picking
 piñons all alone. At noon suddenly someone met her. He was Oshach
-Paiyatiuma, Sun Youth, <span id="fr_197"></span>[1](#fn_197) spirit and
-ruler of the Sun ([pl. 1, center left](oma34.htm#img_pl01c)). He spoke
+Paiyatiuma, Sun Youth, <span id="fr_197"></span>[1](#fn_197.md) spirit and
+ruler of the Sun ([pl. 1, center left](oma34.htm#img_pl01c).md). He spoke
 to the girl saying, "Are you picking piñons?" (Such greeting is applied
 to what anyone is doing.) "Yes," she said, "but you frightened me." Sun
 said, "I will help you pick piñons, but I have brought you two piñons; I
@@ -73,7 +73,7 @@ using. She took the circular stick forming the rim of the basket and cut
 it in two. She tied sinew connecting each end of the two segments.
 Giving one of these bows to each boy she said, this is ostiaha, "bow."
 (She got the word from the rainbow.) <span
-id="fr_198"></span>[2](#fn_198)
+id="fr_198"></span>[2](#fn_198.md)
 
 The grandmother got some stirring sticks from a bundle for stirring
 corn. She took two of these sticks, giving one to each boy, saying, "You
@@ -87,7 +87,7 @@ grow fast and mature quickly. So he watched to see how they would use
 the bow and arrow. When they saw a rabbit they crawled up to it and shot
 at it. The arrow just touched the rabbit, but the rabbit fell. They ran
 up and caught the rabbit. It was by the power of the Sun that they had
-done this. <span id="fr_199"></span>[3](#fn_199) They took it home and
+done this. <span id="fr_199"></span>[3](#fn_199.md) They took it home and
 their grandmother and mother were much pleased. They were so pleased
 with their success they were anxious to do more hunting. Sometimes they
 played with other children, but they were mean to the other children and
@@ -103,7 +103,7 @@ back for their grandmother. She taught them to skin game with
 
 obsidian. Grandmother feared they would wander too far, so she tried to
 scare them by telling them the lions and bears, <span
-id="fr_200"></span>[4](#fn_200) would take them off. Instead of being
+id="fr_200"></span>[4](#fn_200.md) would take them off. Instead of being
 scared, each time she would name a new fierce animal, they would go out
 and look for it, after she described it for them. They kept their
 grandmother very busy making buckskin. Soon they began killing large
@@ -123,7 +123,7 @@ boys stood by and laughed. It was great fun for them. After they had
 laughed as much as they wanted, they killed the bear. They had learned
 from their grandmother that the chaianyi used bear paws, so they thought
 they would take them off as presents for the chaianyi. <span
-id="fr_201"></span>[5](#fn_201) (This is what Koshari would have done,
+id="fr_201"></span>[5](#fn_201.md) (This is what Koshari would have done,
 as paws for chaianyi may not be taken this way.)
 
 After they grew a little older they heard other children speak of their
@@ -212,7 +212,7 @@ been eaten, and reported, "No, they are playing with the lions." So they
 were brought out. The man said, "Put them in the west den where the
 wolves are--they are always hungry." They did so and nothing happened to
 them; they came out alive. They were then placed in the south den with
-the lynx, <span id="fr_202"></span>[6](#fn_202) with the same result.
+the lynx, <span id="fr_202"></span>[6](#fn_202.md) with the same result.
 Then they were placed in the east den with the bumblebees. The bees got
 all over them. One of the boys happened to open his mouth, one of the
 bees got in and he bit it, saying, "Oh, brother, they are good, they
@@ -222,13 +222,13 @@ out the honey.
 When the man came to see them he saw no harm had come to them and told
 them to come out. He reported the boys had killed a lot of their bees.
 They also had in the kiva a tsiwaimitiima <span
-id="fr_203"></span>[7](#fn_203) filled with hot coals. This is where the
+id="fr_203"></span>[7](#fn_203.md) filled with hot coals. This is where the
 sun got its heat. Other kivas have their altars in this place. They were
 going to give the boys a final test. They grabbed the two boys and throw
 them into these coals, instead of being burned the boys came out full
 grown men, as handsome as their father. Now everyone was convinced that
 they were really children of the Sun. <span
-id="fr_204"></span>[8](#fn_204) They said they would send them back the
+id="fr_204"></span>[8](#fn_204.md) They said they would send them back the
 next day, but in the meantime they would fix them up to be still more
 handsome. The boys had brought their bows and arrows. So the men took
 these and improved them. They put sinew backs on the bows and shaped
@@ -241,8 +241,8 @@ them they were going to be Country Chiefs. They put this staff in
 a special pocket in the quiver. They were told that with this staff they
 would be made strong and would be protected. (This is still a part of
 the quiver. It holds the quiver in shape.) This staff is called
-yapi <span id="fr_205"></span>[9](#fn_205) ([pl. 16, fig.
-1](oma49.htm#img_pl16a)).
+yapi <span id="fr_205"></span>[9](#fn_205.md) ([pl. 16, fig.
+1](oma49.htm#img_pl16a).md).
 
 They were told they were to be strong rulers as representatives of the
 Sun. So their father also made for them a curved rabbit stick. He told
@@ -254,7 +254,7 @@ life. Their father also made for them eight arrows, four in each bunch,
 pointing out the ones they were to use only in an emergency. The other
 four could be used for hunting. He told them they were to be allowed
 everywhere, in the North, South, West, and East, even in the most sacred
-places, <span id="fr_206"></span>[10](#fn_206) and they would be
+places, <span id="fr_206"></span>[10](#fn_206.md) and they would be
 listened to. "Whenever you want to come back to my house, the doors will
 be open to you." Then he said, "Now I will give you costumes which will
 make you handsome." So he gave them beaded moccasins, girdle, and sash
@@ -270,8 +270,8 @@ All of this time Spider was coaching them, telling them not to be afraid
 in the different tests. Their father also made for them a headdress
 called heyeashuni to hang on the back of their hair. They were made a
 pouch to be carried by a strap \[bandoleer\] over the shoulder ([pl. 16,
-fig. 2](oma49.htm#img_pl16b)). In this pouch Sun placed a number of
-fetishes. <span id="fr_207"></span>[11](#fn_207) They were always to
+fig. 2](oma49.htm#img_pl16b).md). In this pouch Sun placed a number of
+fetishes. <span id="fr_207"></span>[11](#fn_207.md) They were always to
 wear this. Finally Sun Youth looked them over and saw they appeared very
 handsome. "I have given you all that you need for bravery, good luck,
 and power," he said. He said they would stay overnight and go back the
@@ -310,49 +310,49 @@ and they continued to live as common people in the village.
 
 ### Footnotes
 
-<span id="fn_197"></span>[92:1](oma28.htm#fr_197) There are several of
+<span id="fn_197"></span>[92:1](oma28.htm#fr_197.md) There are several of
 these Ocatc Paiyatyamo, anthropomorphic sun gods, brothers, who live at
 Sunrise Place. Each day one of them takes the sun across the
 heavens.--L. A. W.
 
-<span id="fn_198"></span>[93:2](oma28.htm#fr_198) Ho·ctya·'ka (bow);
+<span id="fn_198"></span>[93:2](oma28.htm#fr_198) Ho·ctya·'ka (bow.md);
 k’acT<sup>y</sup>a·'tsi (rainbow).--L. A W.
 
-<span id="fn_199"></span>[93:3](oma28.htm#fr_199) Acoma hunters pray to
+<span id="fn_199"></span>[93:3](oma28.htm#fr_199.md) Acoma hunters pray to
 the Sun to help them (White, 1932, p. 102).
 
-<span id="fn_200"></span>[94:4](oma28.htm#fr_200) Variant: "There are
+<span id="fn_200"></span>[94:4](oma28.htm#fr_200.md) Variant: "There are
 lots of cko·yo \[giants\] roaming around this country," she would tell
 them, might catch you and eat you." "Oh, we're not afraid!" the boys
 would say.--L. A. W.
 
-<span id="fn_201"></span>[94:5](oma28.htm#fr_201) The war god twins in a
+<span id="fn_201"></span>[94:5](oma28.htm#fr_201.md) The war god twins in a
 Sia myth skinned a bear's paws (Stevenson, 1894, p. 47). See also White,
 1942, for an account of a medicine man skinning a bear.
 
-<span id="fn_202"></span>[96:6](oma28.htm#fr_202) Variant: In the west
+<span id="fn_202"></span>[96:6](oma28.htm#fr_202.md) Variant: In the west
 den were wolves that are always hungry, in the south den, snakes. some
 of them rattlesnakes. "The Twins made pets of the snakes, too. When the
 Paiyatyamos came back they found the rattlesnakes crawling around the
 boys' necks and faces and not hurting them at all.".--L. A. W.
 
-<span id="fn_203"></span>[96:7](oma28.htm#fr_203) See [p.
-19](oma07.htm#page_19).
+<span id="fn_203"></span>[96:7](oma28.htm#fr_203.md) See [p.
+19](oma07.htm#page_19.md).
 
-<span id="fn_204"></span>[96:8](oma28.htm#fr_204) Variant: When the
+<span id="fn_204"></span>[96:8](oma28.htm#fr_204.md) Variant: When the
 Twins stood up with their father the other "Sun Youths tried to pick
 their own brother out from among the three, but they looked so much
 alike they could not do it. Finally they said, "All right! These boys
 are your sons!"
 
-<span id="fn_205"></span>[97:9](oma28.htm#fr_205) Each officer in a
+<span id="fn_205"></span>[97:9](oma28.htm#fr_205.md) Each officer in a
 Keresan pueblo has a little staff, a stick or cane of office, called
 ya·'Bi (White, 1932, p. 129, 4, 4, c; 1935, pp. 38, 47).
 
-<span id="fn_206"></span>[97:10](oma28.htm#fr_206) The War chiefs are
+<span id="fn_206"></span>[97:10](oma28.htm#fr_206.md) The War chiefs are
 allowed anywhere, in any ceremony, in the pueblo.
 
-<span id="fn_207"></span>[97:11](oma28.htm#fr_207) Informant's note: The
+<span id="fn_207"></span>[97:11](oma28.htm#fr_207.md) Informant's note: The
 pouch (koskatuna) contains ant gravel and a few hairs from scalps. The
 gravel keeps away the disease and bad luck that the hair might carry. A
 fighting ant never goes back, and is very strong. (The Ant chaianyi uses
@@ -361,4 +361,4 @@ of the bat, then they grow wings and fly away.)
 
 ------------------------------------------------------------------------
 
-[Next: Selection of Officers](oma29)
+[Next: Selection of Officers](oma29.md)

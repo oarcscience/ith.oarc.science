@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](poe11)  [Next](poe13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](poe11)  [Next](poe13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NLGNQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NLGNQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Poetic Edda*, by Henry Adams Bellows, \[1936\], at Intangible
 Textual Heritage
 
@@ -417,4 +417,4 @@ turns them into stone, cf. stanza 16 and note. Line 5 may be spurious.\]
 
 ------------------------------------------------------------------------
 
-[Next: Baldrs Draumar](poe13)
+[Next: Baldrs Draumar](poe13.md)

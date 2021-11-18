@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto39) 
-[Next](aoto41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto39.md) 
+[Next](aoto41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -37,14 +37,14 @@ erudition.
 The objection is without sufficient foundation in its implied facts; for
 that the Phæacians were a real people who lived at a place bearing the
 name of Drepane (which is near enough to Drepanum for all practical
-purposes), <span id="fr_85"></span>[\*](#fn_85) has never been lost
+purposes), <span id="fr_85"></span>[\*](#fn_85.md) has never been lost
 sight of at all—except by those who find it convenient to lose sight of
 it. Thucydides (i. 25) tells us that the inhabitants of Corfu were the
 descendants of the Phæacians, and the rock into which their ship was
 turned as it was entering the harbour after having escorted Ulysses to
 Ithaca is still shown at Corfu—as an island 58 feet high with a
 monastery on the top of it. But the older name of Corfu was
-Drepane, <span id="fr_86"></span>[†](#fn_86) and when the Carthaginians
+Drepane, <span id="fr_86"></span>[†](#fn_86.md) and when the Carthaginians
 had established themselves at the Sicilian Drepanum, it would be an easy
 matter for the inhabitants of the Corfu Drepane to claim Phæacian
 descent, and—as they
@@ -105,11 +105,11 @@ The cross line of the A is not visible in the original, but no doubt is
 felt at the Museum about its having existed.
 
 There seems, however, to be more doubt whether the legend should be
-ΙΑΚΙΝ, or <span id="img_22700"></span> ![P](img/22700.jpg)IAKIN—<span
-id="img_22700"></span> ![P](img/22700.jpg) being the older form of Π.
+ΙΑΚΙΝ, or <span id="img_22700"></span> ![P](img/22700.jpg.md)IAKIN—<span
+id="img_22700"></span> ![P](img/22700.jpg.md) being the older form of Π.
 Possibly from a desire to be right in either case, the Museum catalogue
 gives it as ΙΑΚΙΝ in the illustration, and <span id="img_22700"></span>
-![P](img/22700.jpg)ΙΑΚΙΝ in the descriptive letterpress. The one reading
+![P](img/22700.jpg.md)ΙΑΚΙΝ in the descriptive letterpress. The one reading
 will do nearly as well as the other for my argument, which only requires
 that the coin should belong to the Eryx and Segesta group and be dated
 about 430 <span class="smallcaps">B.C.</span>—neither of which points
@@ -118,7 +118,7 @@ are doubted. I will, however, give the reasons that convince me that
 
 Firstly, neither I nor some artist friends of mine whose opinion is
 infinitely better worth having than my own, can find any trace of a
-<span id="img_22700"></span> ![P](img/22700.jpg) between the lowermost
+<span id="img_22700"></span> ![P](img/22700.jpg.md) between the lowermost
 boss and the neck. I am aware that some experts of the highest
 competence profess to be able to detect such traces, but the artist who
 figured the coin in the Museum Catalogue evidently could not do so, and
@@ -128,7 +128,7 @@ as to make him alter his drawing.
 Secondly, the composition is obviously and intentionally symmetrical. It
 would be abhorrent to the instincts of the man who could design so
 exquisite a coin to destroy its balance by crowding a <span
-id="img_22700"></span> ![P](img/22700.jpg) into the place which must be
+id="img_22700"></span> ![P](img/22700.jpg.md) into the place which must be
 assigned to it if it exists at all.
 
 Thirdly, Piacus, to which town the coin had been ascribed by the dealer
@@ -136,8 +136,8 @@ from whom the Museum bought it, is mentioned very briefly by Stephanus
 Byzantinus, but by no other writer, as a Sicilian city, and he expressly
 states that its citizens were called ΠΙΑΚΗΝΟΙ; so that the coin, if it
 was one of theirs, should bear the legend <span id="img_22700"></span>
-![P](img/22700.jpg)ΙΑΚΗΝ instead of the alleged <span
-id="img_22700"></span> ![P](img/22700.jpg)ΙΑΚΙΝ.
+![P](img/22700.jpg.md)ΙΑΚΗΝ instead of the alleged <span
+id="img_22700"></span> ![P](img/22700.jpg.md)ΙΑΚΙΝ.
 
 <span id="page_228">p. 228</span>
 
@@ -155,7 +155,7 @@ his coin, and sold it to the British Museum probably for a song as
 compared with the value which it now proves to have. Thus the Museum
 authorities having got it into part of their notes (for they seem to
 have got ΙΑΚΙΝ into another part) that the legend was <span
-id="img_22700"></span> ![P](img/22700.jpg)ΙΑΚΙΝ, have very naturally
+id="img_22700"></span> ![P](img/22700.jpg.md)ΙΑΚΙΝ, have very naturally
 been led to see more on the coin than those who have no notes will quite
 bear them out in seeing. But I will add no more. The legend is obviously
 ΙΑΚΙΝ.
@@ -273,14 +273,14 @@ leave plenty of time for them to have spread or migrated.
 
 ### Footnotes
 
-<span id="fn_85"></span>[225:\*](aoto40.htm#fr_85) Drepanum means a
+<span id="fn_85"></span>[225:\*](aoto40.htm#fr_85.md) Drepanum means a
 curved sword or scimitar. Drepane is a sickle.
 
-<span id="fn_86"></span>[225:†](aoto40.htm#fr_86) See Smith's Dictionary
+<span id="fn_86"></span>[225:†](aoto40.htm#fr_86.md) See Smith's Dictionary
 of Classical Geography, under Corcyra, where full references will be
 found.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. That the Iliad Which the Writer of the Odyssey Knew
-Was the Same As What We Now Have](aoto41)
+Was the Same As What We Now Have](aoto41.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp20)  [Next](potp22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp20)  [Next](potp22.md) 
 
 ------------------------------------------------------------------------
 
@@ -365,4 +365,4 @@ thousand feet. Imagine, if possible, the commotion produced.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Clouds, Fogs, and Vapors](potp22)
+[Next: Chapter XVIII. Clouds, Fogs, and Vapors](potp22.md)

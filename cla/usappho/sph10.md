@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph09)  [Next](sph11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph09)  [Next](sph11.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM9">9</span>
 
 Αἴθ᾽ ἔγο χρυσοστέφαν᾽ Ἀφρόδιτα,  
-τόνδε τὸν πάλον λαχόην. [\[transcription\]](xlatall.htm#13)
+τόνδε τὸν πάλον λαχόην. [\[transcription\]](xlatall.htm#13.md)
 
 May I win this prize, O golden-crowned Aphrodite.
 
@@ -16,4 +16,4 @@ Aphrodite, and this fragment contains one of them.
 
 ------------------------------------------------------------------------
 
-[Next: 10: Who made me gifts...](sph11)
+[Next: 10: Who made me gifts...](sph11.md)

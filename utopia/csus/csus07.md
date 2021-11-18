@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus06)  [Next](csus08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus06)  [Next](csus08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -469,19 +469,19 @@ in the congregation. At this time,
 <span id="img_05400"></span>
 
 [![CHURCH AT AMANA.](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 CHURCH AT AMANA.  
 
 <span id="img_05401"></span>
 
 [![INTERIOR VIEW OF CHURCH.](tn/05401.jpg)  
-Click to enlarge](img/05401.jpg)  
+Click to enlarge](img/05401.jpg.md)  
 INTERIOR VIEW OF CHURCH.  
 
 <span id="img_05402"></span>
 
 [![PLAN OF THE INSPIRATIONIST VILLAGES.](tn/05402.jpg)  
-Click to enlarge](img/05402.jpg)  
+Click to enlarge](img/05402.jpg.md)  
 PLAN OF THE INSPIRATIONIST VILLAGES.  
 
 <span id="page_55">p. 55</span>
@@ -659,4 +659,4 @@ wickedness. Also, *do not play with children of the other sex*."
 
 ------------------------------------------------------------------------
 
-[Next: I.—Economy In 1874](csus08)
+[Next: I.—Economy In 1874](csus08.md)

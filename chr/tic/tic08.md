@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic07)  [Next](tic09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic07)  [Next](tic09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Consolations and aridities*.
 1\. As for those who, by the mercy of God, have vanquished in these
 combats and persevered until they reached the third mansions, what can
 we say to them but 'Blessed is the man that feareth the Lord'? <span
-id="fr_85"></span>[1](#fn_85) It is no small favour from God that I
+id="fr_85"></span>[1](#fn_85.md) It is no small favour from God that I
 should be able to translate this verse into Spanish so as to explain its
 meaning, considering how dense I usually am in such matters. We may well
 call these souls blessed, for, as far as we can tell, unless they turn
@@ -59,7 +59,7 @@ existence? We could not desist from longing and begging Thee to take us
 from it, were it not for the hope of losing it for Thy sake or devoting
 it entirely to Thy service--and above all. because we know it is Thy
 will that we should live. Since it is so, 'Let us die with Thee!' <span
-id="fr_86"></span>[2](#fn_86) as St. Thomas said, for to be away from
+id="fr_86"></span>[2](#fn_86.md) as St. Thomas said, for to be away from
 Thee is but to die again and again, haunted as we are by the dread of
 losing Thee for ever!
 
@@ -70,7 +70,7 @@ God? Remember, many Saints have felt this as we do, and were even far
 more fervent, yet fell into grave sin, and we cannot be sure that God
 would stretch forth His hand to raise us from sin again to do such
 penance as they performed. This applies to extraordinary grace. <span
-id="fr_87"></span>[3](#fn_87) Truly, my
+id="fr_87"></span>[3](#fn_87.md) Truly, my
 
 <span id="page_72">p. 72</span>
 
@@ -106,14 +106,14 @@ character have brought no tarnish on the lustre of our holy Order.
 
 6\. Still I must give you one warning: be not too confident because you
 are nuns and the daughters of such a Mother. David was very holy, yet
-you know what Solomon became. <span id="fr_88"></span>[4](#fn_88)
+you know what Solomon became. <span id="fr_88"></span>[4](#fn_88.md)
 Therefore do not rely on your enclosure, on your penitential life, nor
 on your continual exercise of prayer and constant communion with God,
 nor trust in having left the world or in the idea that you hold its ways
 in horror. All this is good, but is not enough, as I have already said,
 to remove all fear; therefore meditate on this text and often recall it:
 'Blessed is the man that feareth the Lord.' <span
-id="fr_89"></span>[5](#fn_89)
+id="fr_89"></span>[5](#fn_89.md)
 
 7\. I do not recollect what I was saying, and have digressed very much:
 for when I think of myself my mind cannot soar to higher things but is
@@ -142,7 +142,7 @@ No; no one can! We all say we desire it, but there is need of more than
 that for the Lord to possess entire dominion over the soul. It is not
 enough to say so, any more than it was enough for the young man when our
 Lord told him what he must do if he desired to be perfect. <span
-id="fr_90"></span>[6](#fn_90) Since I began to speak of these
+id="fr_90"></span>[6](#fn_90.md) Since I began to speak of these
 dwelling-rooms I have him constantly before my mind, for we are exactly
 like him; this very frequently produces the great dryness we feel in
 prayer, though sometimes it proceeds from other causes as well. I am not
@@ -167,7 +167,7 @@ Enter then, enter, my daughters, into your interior; pass beyond the
 thought of your own petty works, which are no more, nor even as much, as
 Christians are bound to perform: let it suffice that you are God's
 servants, do not pursue so much as to catch nothing. <span
-id="fr_91"></span>[7](#fn_91) Think of the saints, who have entered the
+id="fr_91"></span>[7](#fn_91.md) Think of the saints, who have entered the
 Divine Presence, and you will see the difference between them and
 ourselves.
 
@@ -184,7 +184,7 @@ well how to do so (although we often pretend to misunderstand Him). We
 will now speak of these well-ordered souls. Let us consider what they do
 for God and we shall see at once what little right we have to murmur
 against His Majesty. If we turn our backs on Him and go away sorrowfully
-like the youth in the Gospel <span id="fr_92"></span>[8](#fn_92)
+like the youth in the Gospel <span id="fr_92"></span>[8](#fn_92.md)
 
 <span id="page_76">p. 76</span>
 
@@ -192,18 +192,18 @@ when He tells us what to do to be perfect, what can God do? for He must
 proportion the reward to our love for Him. This love, my daughters, must
 not be the fabric of our imagination; we must prove it by our works. Yet
 do not suppose that our Lord has need of any works of ours; He only
-expels us to manifest our goodwill. <span id="fr_93"></span>[9](#fn_93)
+expels us to manifest our goodwill. <span id="fr_93"></span>[9](#fn_93.md)
 
 13\. It seems to us we have done everything by taking the religious
 habit of our own will, and renouncing worldly things and all our
 possessions for God (although they may have been but the nets of St.
-Peter, <span id="fr_94"></span>[10](#fn_94) yet they seemed much to us,
+Peter, <span id="fr_94"></span>[10](#fn_94.md) yet they seemed much to us,
 for they were our all). This is an excellent disposition: if we continue
 in it and do not return, even in desire, to the company of the reptiles
 of the first rooms, doubtless, by persevering in this poverty and
 detachment of soul, we shall obtain all for which we strive. But, mark
 this--it must be on one condition--that we 'hold ourselves for
-unprofitable servants,' <span id="fr_95"></span>[11](#fn_95) as we are
+unprofitable servants,' <span id="fr_95"></span>[11](#fn_95.md) as we are
 told either by St. Paul or by Christ, and that we do not consider that
 our Lord is bound to grant us any favours, but that, as we have received
 more from Him, we are the deeper in His debt.
@@ -236,40 +236,40 @@ may know ourselves.
 
 ### Footnotes
 
-<span id="fn_85"></span>[70:1](tic08.htm#fr_85) Ps. cxi: 1. 'Beatus vir
+<span id="fn_85"></span>[70:1](tic08.htm#fr_85.md) Ps. cxi: 1. 'Beatus vir
 qui timet Dominum.'
 
-<span id="fn_86"></span>[71:2](tic08.htm#fr_86) St. John xi. 16: 'Eamus
+<span id="fn_86"></span>[71:2](tic08.htm#fr_86.md) St. John xi. 16: 'Eamus
 et nos ut moriamur cum eo.'
 
-<span id="fn_87"></span>[71:3](tic08.htm#fr_87) These last words, in the
+<span id="fn_87"></span>[71:3](tic08.htm#fr_87.md) These last words, in the
 margin, but in the handwriting of the Saint, were scored through by one
 of the censors, but Fr. Luis de Leon wrote <span id="page_72">p.
 72</span> underneath, (as he did in other cases) 'Nothing to be crossed
 out.'
 
-<span id="fn_88"></span>[73:4](tic08.htm#fr_88) St. Teresa wrote
+<span id="fn_88"></span>[73:4](tic08.htm#fr_88.md) St. Teresa wrote
 'Solomon'; Father Gracian corrected 'Absalom,' and Fr. Luis de Leon
 restored the original text.
 
-<span id="fn_89"></span>[73:5](tic08.htm#fr_89) Ps. cxi. 1.
+<span id="fn_89"></span>[73:5](tic08.htm#fr_89.md) Ps. cxi. 1.
 
-<span id="fn_90"></span>[74:6](tic08.htm#fr_90) Matt. xix. 21.
+<span id="fn_90"></span>[74:6](tic08.htm#fr_90.md) Matt. xix. 21.
 
-<span id="fn_91"></span>[75:7](tic08.htm#fr_91) Proverbially, like
+<span id="fn_91"></span>[75:7](tic08.htm#fr_91.md) Proverbially, like
 'having too many irons in the fire.'
 
-<span id="fn_92"></span>[75:8](tic08.htm#fr_92) St. Mark. x. 22. *Way of
+<span id="fn_92"></span>[75:8](tic08.htm#fr_92.md) St. Mark. x. 22. *Way of
 Perf*. ch. xvii. 5.
 
-<span id="fn_93"></span>[76:9](tic08.htm#fr_93) *Rel*. ix. 15.
+<span id="fn_93"></span>[76:9](tic08.htm#fr_93.md) *Rel*. ix. 15.
 
-<span id="fn_94"></span>[76:10](tic08.htm#fr_94) St. Matt. iv. 20:
+<span id="fn_94"></span>[76:10](tic08.htm#fr_94.md) St. Matt. iv. 20:
 'Relictis retibus secuti sunt eum.'
 
-<span id="fn_95"></span>[76:11](tic08.htm#fr_95) St. Luke xvii. 10:
+<span id="fn_95"></span>[76:11](tic08.htm#fr_95.md) St. Luke xvii. 10:
 'Servi inutiles sumus: quod debuimus facere fecimus.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Aridity in Prayer](tic09)
+[Next: Chapter II. Aridity in Prayer](tic09.md)

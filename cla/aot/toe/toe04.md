@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](toe03) 
-[Next](toe05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](toe03.md) 
+[Next](toe05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../laot/img/tease.jpg)](index)  
+[![](../laot/img/tease.jpg)](index.md)  
 *The Treatise of Eusebius Against the Life of Apollonius by
 Philostratus*, by Eusebius, tr. F.C. Conybeare, \[1912\], at Intangible
 Textual Heritage
@@ -415,4 +415,4 @@ a diviner manner than Pythagoras and Empedocles.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters XLI to XLII](toe05)
+[Next: Chapters XLI to XLII](toe05.md)

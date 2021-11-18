@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc057) 
-[Next](motc059) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc057.md) 
+[Next](motc059.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ and he will recover." And the Cherokee have kept the song to this day.
 
 ------------------------------------------------------------------------
 
-[Next: 59. The Smaller Reptiles--fishes And Insects](motc059)
+[Next: 59. The Smaller Reptiles--fishes And Insects](motc059.md)

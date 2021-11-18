@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK XVII CHAPTER XVIII
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK XVII](book16) 
-[Previous](mart423)  [Next](mart425) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK XVII](book16.md) 
+[Previous](mart423)  [Next](mart425.md) </span>
 
 ------------------------------------------------------------------------
 

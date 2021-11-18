@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo03)  [Next](beo05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo03)  [Next](beo05.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ harbor.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](beo05)
+[Next: Part IV](beo05.md)

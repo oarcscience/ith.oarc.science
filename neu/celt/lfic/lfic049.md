@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic048)  [Next](lfic050) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic048)  [Next](lfic050.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ struggles. Having sketched our scenery, we proceed with the legend of -
 
 ------------------------------------------------------------------------
 
-[Next: The Kiranelagh Spirit](lfic050)
+[Next: The Kiranelagh Spirit](lfic050.md)

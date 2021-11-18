@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod12)  [Next](hod14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod12)  [Next](hod14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ was retained in
 <span id="img_19400"></span> <span align="CENTER"> [![HADES.&lt;br&gt;
 (Greatly reduced from &lt;i&gt;Mon. Inst.&lt;/i&gt;, VIII.,
 9.)](tn/generic.jpg)  
-Click to view](img/19400.jpg)  
+Click to view](img/19400.jpg.md)  
 HADES.  
 (Greatly reduced from *Mon. Inst.*, VIII., 9.)  
 </span>
@@ -71,7 +71,7 @@ Christianity, where, however, it received a new significance when
 restated under the influence of Paul's message of the crucified, and
 therefore glorified, Saviour. Christ's death was now declared to be a
 sacrifice that would be sufficient for all the ages to come. <span
-id="fr_80"></span>[1](#fn_79)
+id="fr_80"></span>[1](#fn_79.md)
 
 The Greeks, equally with other nations, feared punishment after death as
 the greatest evil, and their belief in hell can be traced back to the
@@ -81,7 +81,7 @@ dawn of the history of Greece.
 AT THE FUNERAL PYRE OF PATROCLUS.&lt;br&gt; Wall picture of a tomb in
 Vulci.&lt;br&gt; (From Michaelis, &lt;i&gt;Handbuch der
 Kunstgeschichte&lt;/i&gt;, I., p. 235.)](tn/generic.jpg)  
-Click to view](img/19500.jpg)  
+Click to view](img/19500.jpg.md)  
 HUMAN SACRIFICES AT THE FUNERAL PYRE OF PATROCLUS.  
 Wall picture of a tomb in Vulci.  
 (From Michaelis, *Handbuch der Kunstgeschichte*, I., p. 235.)  
@@ -101,7 +101,7 @@ Pauperum&lt;/i&gt;. (Woodcut of the fifteenth century.)&lt;br&gt;
 &lt;br&gt; The immolation of Isaac shows Christ's death in its connexion
 with human sacrifice, and the story of the serpent lifted up in the
 wilderness exemplifies the healing power of faith.](tn/generic.jpg)  
-Click to view](img/19600.jpg)  
+Click to view](img/19600.jpg.md)  
 CHRIST'S DEATH ON THE CROSS AND ITS PROTOTYPES.  
 *Biblia Pauperum*. (Woodcut of the fifteenth century.)  
   
@@ -150,7 +150,7 @@ Inattentive One) weaving a rope of hay which is devoured by the donkey,
 and the daughters of Danaos endeavoring to fill the urn without a
 bottom.&lt;br&gt; (Frieze of a Roman well decoration.
 Vatican.)](tn/generic.jpg)  
-Click to view](img/19702.jpg)  
+Click to view](img/19702.jpg.md)  
 OKNOS AND THE DAUGHTERS OF DANAOS IN HADES.  
 Oknos (i. e., the Tardy or Inattentive One) weaving a rope of hay which
 is devoured by the donkey, and the daughters of Danaos endeavoring to
@@ -172,7 +172,7 @@ son-in-law of Zeus,
 
 <span id="img_19800"></span> <span align="CENTER"> [![IXION ON THE FIERY
 WHEEL.](tn/generic.jpg)  
-Click to view](img/19800.jpg)  
+Click to view](img/19800.jpg.md)  
 IXION ON THE FIERY WHEEL.  
 </span>
 
@@ -202,7 +202,7 @@ live in ease. There is
 <span id="img_19900"></span> <span align="CENTER"> [![GIGANTOMACHY; THE
 GIANTS STORMING HEAVEN.&lt;br&gt; Bas relief of an ancient sarcophagus.
 Now in the Museum of the Vatican.](tn/generic.jpg)  
-Click to view](img/19900.jpg)  
+Click to view](img/19900.jpg.md)  
 GIGANTOMACHY; THE GIANTS STORMING HEAVEN.  
 Bas relief of an ancient sarcophagus. Now in the Museum of the
 Vatican.  
@@ -216,7 +216,7 @@ The Egyptian origin of the belief in Elysion is
 <span id="img_19901"></span> <span align="CENTER"> [![ZEUS CONQUERING
 TYPHOEUS.&lt;br&gt; Picture on an antique water pitcher. (Baumeister,
 &lt;i&gt;Denkm. d. class. Alt.&lt;/i&gt;, p. 2135.)](tn/generic.jpg)  
-Click to view](img/19901.jpg)  
+Click to view](img/19901.jpg.md)  
 ZEUS CONQUERING TYPHOEUS.  
 Picture on an antique water pitcher. (Baumeister, *Denkm. d. class.
 Alt.*, p. 2135.)  
@@ -232,7 +232,7 @@ Christianity, the ancient pagan myths
 
 were not abandoned but transformed. Hesiod tells us in the Theogony of
 the terrible struggle between Zeus and the Titans; and St. Peter, <span
-id="fr_81"></span>[1](#fn_80) when speaking in his second letter of the
+id="fr_81"></span>[1](#fn_80.md) when speaking in his second letter of the
 revolution of the angels that sinned, says that "God hurled them down to
 Tartarus." The expression, however, is obliterated in the version of
 King James, for the word ταρώταρσας (having hurled them to Tartarus) is
@@ -240,7 +240,7 @@ translated "sent them down to hell."
 
 <span id="img_20000"></span> <span align="CENTER"> [![GIGANTOMACHY; THE
 GIANTS STORMING HEAVEN. An ancient Greek frieze.](tn/generic.jpg)  
-Click to view](img/20000.jpg)  
+Click to view](img/20000.jpg.md)  
 GIGANTOMACHY; THE GIANTS STORMING HEAVEN. An ancient Greek frieze.  
 </span>
 
@@ -263,7 +263,7 @@ and men quickly observed him.</span>
 <span id="img_20100"></span> <span align="CENTER"> [![WAR IN HEAVEN.
 After the Revelation of St. John. (By Albrecht
 Dürer.)](tn/generic.jpg)  
-Click to view](img/20100.jpg)  
+Click to view](img/20100.jpg.md)  
 WAR IN HEAVEN. After the Revelation of St. John. (By Albrecht Dürer.)  
 </span>
 
@@ -280,7 +280,7 @@ fell down lame, and Zeus hurled him into wide Tartarus."</span>
 
 <span id="img_20200"></span> <span align="CENTER"> [![CHIMÆRA OF AREZZO.
 The monster slain by Bellerophon. (Now at Florence.)](tn/generic.jpg)  
-Click to view](img/20200.jpg)  
+Click to view](img/20200.jpg.md)  
 CHIMÆRA OF AREZZO. The monster slain by Bellerophon. (Now at
 Florence.)  
 </span>
@@ -310,7 +310,7 @@ hand a scepter on the top of which sits the dismal owl as an
 &lt;i&gt;avis funebris&lt;/i&gt;, Persephone carries two
 cross-torches.&lt;br&gt; (From an Etruscan Vase. Baumeister,
 &lt;i&gt;Denkmäler des class. Altertums&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/20300.jpg)  
+Click to view](img/20300.jpg.md)  
 THESEUS AND PIRITHOUS.  
 Venturing down to Hades for the purpose of bringing up Persephone, the
 daughter of Ceres, they are made prisoners and bound by an Erinys.
@@ -321,7 +321,7 @@ Persephone carries two cross-torches.
 </span>
 
 The Greek idea of salvation is mirrored in the legends of Hercules,
-Bellerophon, Theseus, [Dionysius](errata.htm#1), and other myths, which
+Bellerophon, Theseus, [Dionysius](errata.htm#1.md), and other myths, which
 had become dear to the Greek mind through the tales of poets and the
 works of artists.
 
@@ -340,7 +340,7 @@ HEAD OF THE DECAPITATED MEDUSA.&lt;br&gt; The soul of the latter is
 represented as a small figure leaving the body and still trying to
 retain the head. (Terra cotta from Melos. Baumeister, Denkmäler des
 class. Altertums.)](tn/generic.jpg)  
-Click to view](img/20400.jpg)  
+Click to view](img/20400.jpg.md)  
 PERSEUS WITH THE HEAD OF THE DECAPITATED MEDUSA.  
 The soul of the latter is represented as a small figure leaving the body
 and still trying to retain the head. (Terra cotta from Melos.
@@ -355,19 +355,19 @@ idealising the hero.
 
 <span class="contnote">\[paragraph continues\]</span> Later Greek
 philosophers, such men as Xenophon and the sophist Prodicus, <span
-id="fr_82"></span>[1](#fn_81) regarded him as the realisation of divine
+id="fr_82"></span>[1](#fn_81.md) regarded him as the realisation of divine
 perfection, and now it became customary to look
 
 <span id="img_20500"></span> <span align="CENTER"> [![PERSEUS AND
 ANDROMEDA.&lt;br&gt; Picture of an ancient Amphora in Naples. (From
 Baumeister, D. d. cl. A., p. 1291.)](tn/generic.jpg)  
-Click to view](img/20500.jpg)  
+Click to view](img/20500.jpg.md)  
 PERSEUS AND ANDROMEDA.  
 Picture of an ancient Amphora in Naples. (From Baumeister, D. d. cl. A.,
 p. 1291.)  
 </span>
 
- <span id="fr_83"></span>[2](#fn_82)
+ <span id="fr_83"></span>[2](#fn_82.md)
 
 <span id="page_206">p. 206</span>
 
@@ -378,7 +378,7 @@ Epictetus, who speaks of Hercules as the saviour,
 MEDUSA-HEAD.&lt;br&gt; The use of the Triquetra (three legs) is frequent
 in the three-cornered island. The ears of wheat indicate the proverbial
 fertility of Sicily, the granary of Rome.](tn/generic.jpg)  
-Click to view](img/20600.jpg)  
+Click to view](img/20600.jpg.md)  
 SICILIAN COIN WITH MEDUSA-HEAD.  
 The use of the Triquetra (three legs) is frequent in the three-cornered
 island. The ears of wheat indicate the proverbial fertility of Sicily,
@@ -390,7 +390,7 @@ THE SHIELD OF PHIDIAS'S ATHENE.&lt;br&gt; The head of the Medusa is
 surrounded by scenes of a battle with Amazons. One of the fighters (the
 man with the bald head) is supposed to be a portrait of the artist
 Phidias.](tn/generic.jpg)  
-Click to view](img/20601.jpg)  
+Click to view](img/20601.jpg.md)  
 THE GORGONEION ON THE SHIELD OF PHIDIAS'S ATHENE.  
 The head of the Medusa is surrounded by scenes of a battle with Amazons.
 One of the fighters (the man with the bald head) is supposed to be a
@@ -404,14 +404,14 @@ Homer? "Hercules is called repeller of evil (ἀλεξίκακος), leader
 
 <span id="img_20700"></span> <span align="CENTER"> [![GORGONEION,
 ANCIENT FACE OF THE GORGON MEDUSA.](tn/generic.jpg)  
-Click to view](img/20700.jpg)  
+Click to view](img/20700.jpg.md)  
 GORGONEION, ANCIENT FACE OF THE GORGON MEDUSA.  
 </span>
 
 <span id="img_20701"></span> <span align="CENTER"> [![MEDUSA
 RONDANINI.&lt;br&gt; Beautiful yet ghastly. (Glyptothek,
 Munich.)](tn/generic.jpg)  
-Click to view](img/20701.jpg)  
+Click to view](img/20701.jpg.md)  
 MEDUSA RONDANINI.  
 Beautiful yet ghastly. (Glyptothek, Munich.)  
 </span>
@@ -419,7 +419,7 @@ Beautiful yet ghastly. (Glyptothek, Munich.)
 <span id="page_208">p. 208</span>
 
 in the fray (πρόμαχος), the brightly victorious (καλλίνικος), <span
-id="fr_84"></span>[1](#fn_83) the celestial (ὀλύμπιος), destroyer of
+id="fr_84"></span>[1](#fn_83) the celestial (ὀλύμπιος.md), destroyer of
 flies, vermin, and grasshoppers (μυίαργος, ἰπόκτονος, κορνοπίων). He,
 the solar hero, is identified with Apollo, the sun-god, in the names
 prophet (μάντις), and leader of the Muses (μουσαγέτης).
@@ -427,7 +427,7 @@ prophet (μάντις), and leader of the Muses (μουσαγέτης).
 <span id="img_20800"></span> <span align="CENTER"> [![BELLEROPHON
 SLAYING THE CHIMERA.&lt;br&gt; (A terra cotta statue of Melos, now at
 the British Museum.)](tn/generic.jpg)  
-Click to view](img/20800.jpg)  
+Click to view](img/20800.jpg.md)  
 BELLEROPHON SLAYING THE CHIMERA.  
 (A terra cotta statue of Melos, now at the British Museum.)  
 </span>
@@ -436,7 +436,7 @@ The legends of Perseus are in many respects similar to the tales of
 Hercules. Perseus, too, the Greek prototype of the Christian St. George,
 is a divine saviour. Assisted by Athene, he liberates Andromeda, the
 bride of Death, held captive by the horrible Medusa, a symbol of deadly
-fright. <span id="fr_85"></span>[2](#fn_84)
+fright. <span id="fr_85"></span>[2](#fn_84.md)
 
 <span id="page_209">p. 209</span>
 
@@ -444,17 +444,17 @@ As a symbol which destroys evil influences, the Medusa-head frequently
 appears on shields and coins.
 
 Bellerophon is another solar hero. He rides on Pegasus, a mythological
-representation of the thundercloud, <span id="fr_86"></span>[1](#fn_85)
+representation of the thundercloud, <span id="fr_86"></span>[1](#fn_85.md)
 and slays the Chimera, a monster half lion, half goat, representing
 barbarism and savagery, or some similar evils.
 
 <span id="img_20900"></span> <span align="CENTER"> [![THE LION-KILLING
 HERO OF KHORSABAD](tn/generic.jpg)  
-Click to view](img/20900.jpg)  
+Click to view](img/20900.jpg.md)  
 THE LION-KILLING HERO OF KHORSABAD  
 </span>
 
- <span id="fr_87"></span>[2](#fn_86)
+ <span id="fr_87"></span>[2](#fn_86.md)
 
 Some of the tales of divine saviours may be ultimately founded upon
 local Greek traditions, but many features of these religious myths
@@ -469,7 +469,7 @@ year. Phœnix-like, he dies by
 
 self-combustion and rises in a transfigured shape from the flames of the
 pyre. The Jews also appropriated the figure of this solar hero in the
-shape of [Samson](errata.htm#2) whose strength is conditioned by his
+shape of [Samson](errata.htm#2.md) whose strength is conditioned by his
 hair, as the power of the sun lies in his rays.
 
 In spite of the strong admixture of foreign mythology, Hercules has
@@ -481,7 +481,7 @@ beautifully worked out by Æschylus in a grand tragedy which represents
 ZEUS TO THE STAKE (OR CROSS) AND EXPOSED TO THE EAGLE; RESCUED By
 HERCULES.&lt;br&gt; (A vase found at Chiusi, now in Berlin. Baumeister,
 D. d. cl. A., p. 1410.)](tn/generic.jpg)  
-Click to view](img/21000.jpg)  
+Click to view](img/21000.jpg.md)  
 PROMETHEUS TIED BY ZEUS TO THE STAKE (OR CROSS) AND EXPOSED TO THE
 EAGLE; RESCUED By HERCULES.  
 (A vase found at Chiusi, now in Berlin. Baumeister, D. d. cl. A., p.
@@ -502,11 +502,11 @@ the older pictures, as for instance in the vase of
 
 <span id="page_211">p. 211</span>
 
-Chiusi (see illustration on [p. 210](#page_210)), Prometheus is not
+Chiusi (see illustration on [p. 210](#page_210).md), Prometheus is not
 chained to a rock but tied to a pole, i. e., to a σταυρός or cross, and
 Greek authors frequently use expressions such as the verb
 ἀνασκολοπίϩεσϑαι (Æschylus) and ἀνασταυ ροῦσϑαι, (Lucian) which mean "to
-be crucified." <span id="fr_88"></span>[1](#fn_87)
+be crucified." <span id="fr_88"></span>[1](#fn_87.md)
 
 Seneca speaks of Hercules as the ideal of the good man who lives
 exclusively for the welfare of mankind. Contrasting him to Alexander the
@@ -582,7 +582,7 @@ in
 <span id="img_21300"></span> <span align="CENTER"> [![THE TEMPTATIONS OF
 CHRIST.&lt;br&gt; (Seventh century. Mosaic in the cathedral of Monreale,
 Sicily.)](tn/generic.jpg)  
-Click to view](img/21300.jpg)  
+Click to view](img/21300.jpg.md)  
 THE TEMPTATIONS OF CHRIST.  
 (Seventh century. Mosaic in the cathedral of Monreale, Sicily.)  
 </span>
@@ -679,7 +679,7 @@ the epigrams of Callimachus, who says (No. XXIV):
 
 <div style="margin-left: 32px">
 
-<span class="small">"Cleombrot, <span id="fr_89"></span>[1](#fn_88) he
+<span class="small">"Cleombrot, <span id="fr_89"></span>[1](#fn_88.md) he
 of Ambracia, took leave of the sun in the heavens:  
     Leapt from a wall in the hope Sooner to reach the Beyond;  
 Not that he e'er had encountered an ill that made life to him hateful;  
@@ -745,7 +745,7 @@ tragic fate of
 <span id="page_218">p. 218</span>
 
 <span class="contnote">\[paragraph continues\]</span> Prometheus, <span
-id="fr_90"></span>[1](#fn_89) says of the perfect man who would rather
+id="fr_90"></span>[1](#fn_89.md) says of the perfect man who would rather
 be than appear just:
 
 <span class="small">"They will tell you that the just man who is thought
@@ -762,18 +762,18 @@ Alluding to Plato, Apollonius, a Christian martyr, declares:
 
 <span id="img_21800"></span> <span align="CENTER"> [![CHRISTIAN
 GEM](tn/generic.jpg)  
-Click to view](img/21800.jpg)  
+Click to view](img/21800.jpg.md)  
 CHRISTIAN GEM  
 </span>
 
- <span id="fr_91"></span>[2](#fn_90)
+ <span id="fr_91"></span>[2](#fn_90.md)
 
 <span class="small">One of the Greek Philosophers said: The just man
 shall be tortured, he shall be spat upon, and last of all be shall be
 crucified. just as the Athenians Passed an unjust sentence of death, and
 charged him falsely, because they yielded to the mob, so also our
 Saviour was at last sentenced to death by the lawless." <span
-id="fr_92"></span>[3](#fn_91)</span>
+id="fr_92"></span>[3](#fn_91.md)</span>
 
 In the days of Augustus and his successors the people were taught to
 expect salvation, the dispensation of justice, protection, peace, and
@@ -815,7 +815,7 @@ and conceptions
 
 <span id="img_22000"></span> <span align="CENTER"> [![MITHRAS MONUMENT
 OF OSTBURKEN.](tn/generic.jpg)  
-Click to view](img/22000.jpg)  
+Click to view](img/22000.jpg.md)  
 MITHRAS MONUMENT OF OSTBURKEN.  
 </span>
 
@@ -823,13 +823,13 @@ among non-Christians, they were puzzled and found no other explanation
 for such remarkable coincidences, than the guiles of Satan. Even the
 most peculiarly Christian sacrament, the Lord's Supper, was, according
 to the testimony of Justin Martyr, celebrated by the Persians in the
-same way as by the Christians; <span id="fr_93"></span>[1](#fn_92) and
+same way as by the Christians; <span id="fr_93"></span>[1](#fn_92.md) and
 Justin is ingenuous enough to attribute this coincidence without the
 slightest hesitation to the influence of evil spirits. Tertullian is
 also aware of many similarities between Church institutions and the
 pagan modes of Mithras worship, which observation prompted him to
 declare that "Satan imitates the sacraments of God." <span
-id="fr_94"></span>[2](#fn_93) The Devil appears to have been very
+id="fr_94"></span>[2](#fn_93.md) The Devil appears to have been very
 cunning in those days, for if he had not daring spies in heaven, he must
 himself have anticipated the Lord's plans; for the pagan institutions
 spoken of as Satanic imitations, such as the Persian haoma sacrifice,
@@ -837,11 +837,11 @@ the eating of consecrated cakes in commemoration
 
 <span id="img_22001"></span> <span align="CENTER"> [![MITHRAIC
 SYMBOLS.](tn/generic.jpg)  
-Click to view](img/22001.jpg)  
+Click to view](img/22001.jpg.md)  
 MITHRAIC SYMBOLS.  
 </span>
 
- <span id="fr_95"></span>[3](#fn_94)
+ <span id="fr_95"></span>[3](#fn_94.md)
 
 <span id="page_221">p. 221</span>
 
@@ -853,11 +853,11 @@ The competitors of Christianity which endeavored to
 <span id="img_22100"></span> <span align="CENTER"> [![MITHRAS THE
 SAVIOUR. (Borghesi Monument, now at the Louvre in
 Paris.)](tn/generic.jpg)  
-Click to view](img/22100.jpg)  
+Click to view](img/22100.jpg.md)  
 MITHRAS THE SAVIOUR. (Borghesi Monument, now at the Louvre in Paris.)  
 </span>
 
- <span id="fr_96"></span>[1](#fn_95)
+ <span id="fr_96"></span>[1](#fn_95.md)
 
 <span id="page_222">p. 222</span>
 
@@ -875,7 +875,7 @@ whom Mithras, the Egyptian Serapis, and Iao-Abraxas were the most
 celebrated.
 
 The influence of Mithras worship on Christianity is well
-established. <span id="fr_97"></span>[1](#fn_96) We mention especially
+established. <span id="fr_97"></span>[1](#fn_96.md) We mention especially
 the rites of baptism, the Eucharist, facing the Orient in prayer, the
 sanctification of the day of the sun, and the celebration of the winter
 solstice as the birthday of the Saviour. Concerning this latter
@@ -896,11 +896,11 @@ LIB. DUO PARATUS
 
 <span class="contnote">\[paragraph continues\]</span>
 
-ET HERMES DEDERUNT, <span id="fr_98"></span>[1](#fn_97) or ΗΑΙΩ ΜΙΘΡΑ
-ΑΝΙΚΗΤΩ <span id="fr_99"></span>[2](#fn_98) (Gruter, *Inscriptiones
+ET HERMES DEDERUNT, <span id="fr_98"></span>[1](#fn_97.md) or ΗΑΙΩ ΜΙΘΡΑ
+ΑΝΙΚΗΤΩ <span id="fr_99"></span>[2](#fn_98.md) (Gruter, *Inscriptiones
 Antiquae*, p. xxxiii). In the legend on the reverse of the copper coins
 of Constantine, SOLI INVICTO COMITI, <span
-id="fr_100"></span>[3](#fn_99) retained long after his conversion, there
+id="fr_100"></span>[3](#fn_99.md) retained long after his conversion, there
 is at once an idea of the ancient Sun-God, and of the new Sun of
 Righteousness.
 
@@ -913,7 +913,7 @@ sanctum hunc diem Natalis Domini *Solem novum* vulgus appellat, et tanta
 sui auctoritate id confirmat, ut Judaei etiam atque Gentiles in hanc
 vocem consentiant. Quod libenter amplectandum nobis est, quia oriente
 Salvatore, non solum humani generis salus, sed etiam solis ipsius
-claritas innovatur.' <span id="fr_101"></span>[4](#fn_100) (*Serm.* 6,
+claritas innovatur.' <span id="fr_101"></span>[4](#fn_100.md) (*Serm.* 6,
 *in Appendice*, p. 397, ed. Bened.)
 
 "In the Latin editions of Chrysostom is a homily, wrongly ascribed to
@@ -922,7 +922,7 @@ him, but probably written not long after his time, in which we read:
 Dominus noster, qui mortem subactam devicit? Vel quod dicunt Solis esse
 Natalem, ipse est Sol Justitiae, de quo Malachias propheta dixit,
 Orietur vobis timentibus nomen ipsius Sol Justitiae et sanitas est in
-pennis ejus.' <span id="fr_102"></span>[5](#fn_101) (*Sermo de
+pennis ejus.' <span id="fr_102"></span>[5](#fn_101.md) (*Sermo de
 Nativitate S. Joannis Baptistae*; vol. ii. 1113, ed. Paris, 1570.
 
 <span id="page_224">p. 224</span>
@@ -930,12 +930,12 @@ Nativitate S. Joannis Baptistae*; vol. ii. 1113, ed. Paris, 1570.
 "Leo the Great finds fault with the baneful persuasion of some 'quibus
 haec dies solemnitatis nostrae, non tam de Nativitate Christi, *quam de
 novi ut dicunt solis ortu, honorabilis videtur*.' <span
-id="fr_103"></span>[1](#fn_102) (*Serm*. 22, § 6, vol. i. p. 72, ed.
+id="fr_103"></span>[1](#fn_102.md) (*Serm*. 22, § 6, vol. i. p. 72, ed.
 Ballerini.) Again, the same father observes: 'Sed hanc adorandam in
 caelo et in terra Nativitatem nullus nobis dies magis quam hodiernus
 insinuat, et nova etiam in elementis luce radiante, coram (*al*. totam)
 sensibus nostris mirabilis sacramenti ingerit claritatem.' <span
-id="fr_104"></span>[2](#fn_103) (Serm. 26, § I, p. 87.)
+id="fr_104"></span>[2](#fn_103) (Serm. 26, § I, p. 87..md)
 
 "We may further cite one or two instances from ancient Christian poets:
 Prudentius, in his hymn *Ad Natalem Domini*, thus speaks
@@ -946,7 +946,7 @@ Prudentius, in his hymn *Ad Natalem Domini*, thus speaks
 <span class="small">'Quid est, quod arctum circulum sol jam recurrens
 deserit?  
 Christusne terris nascitur qui lucis auget tramitem?' <span
-id="fr_105"></span>[3](#fn_104)</span>
+id="fr_105"></span>[3](#fn_104.md)</span>
 
 </div>
 
@@ -959,7 +959,7 @@ ed. Muratori):</span>
 Sole novo gelidae mutavit tempora brumae,  
 Atque salutiferum praestans mortalibus ortum,  
 Procedente die, secum decrescere noctes  
-Jussit.' <span id="fr_106"></span>[4](#fn_105)</span>
+Jussit.' <span id="fr_106"></span>[4](#fn_105.md)</span>
 
 </div>
 
@@ -975,18 +975,18 @@ fixing of the day to the above cause; we are not disposed, however, to
 attach much weight to this last passage. More important for our purpose
 is the injunction of a council of Rome (743 A. D.): 'Ut nullus Kalendas
 Januarias et broma (= brumalia) colere praesumpserit' <span
-id="fr_107"></span>[1](#fn_106) (*can*. 9, Labbé vi. 1548), which shows
+id="fr_107"></span>[1](#fn_106) (*can*. 9, Labbé vi. 1548.md), which shows
 at any rate that for a long time after the fall of heathenism, many
 traces of heathen rites still remained."</span>
 
 <span id="img_22500"></span> <span align="CENTER"> [![ÆON OR ZRVAN
 AKARANA.&lt;br&gt; Unlimited Time.](tn/generic.jpg)  
-Click to view](img/22500.jpg)  
+Click to view](img/22500.jpg.md)  
 ÆON OR ZRVAN AKARANA.  
 Unlimited Time.  
 </span>
 
- <span id="fr_108"></span>[2](#fn_107)
+ <span id="fr_108"></span>[2](#fn_107.md)
 
 Æon, the lion faced, with key, torch, and measuring staff is a divinity
 of considerable importance in the religion of Mithras. He is the Zrvan
@@ -1029,7 +1029,7 @@ have sent it to some *lime-kiln to cure its dampness*, for it had been
 buried many and many a year."</span>
 
 Iao, the god with the adorable name (i. e., Abraxas), <span
-id="fr_109"></span>[1](#fn_108) bears the cock's head, which is the
+id="fr_109"></span>[1](#fn_108.md) bears the cock's head, which is the
 emblem of Æsculapius, the god of healing. When Socrates died he
 requested
 
@@ -1106,7 +1106,7 @@ the manner laid down by King Nechepsos." (De Simp. Med., IX.)</span>
 
 <span id="img_22800"></span> <span align="CENTER">
 [![](tn/generic.jpg)  
-Click to view](img/22800.jpg)</span>
+Click to view](img/22800.jpg.md)</span>
 
 To us who have grown up under the influence of Christian traditions, the
 idea of representing the Good God under the allegory of a serpent seems
@@ -1127,7 +1127,7 @@ Serapis, which is a Hellenised form of Osiris-Apis,
 
 was a religion which in many respects resembled Christianity. Their
 sacred symbol was the cross, as we know through Christian authors, <span
-id="fr_112"></span>[1](#fn_111) and Emperor Adrian (no mean authority in
+id="fr_112"></span>[1](#fn_111.md) and Emperor Adrian (no mean authority in
 such matters) speaks of Serapis worshippers as Christians, saying that
 those who consecrated themselves to Serapis called themselves "bishops
 of Christ." Even if a local blending of Christianity with the Serapis
@@ -1142,7 +1142,7 @@ traditions of Egypt to the Hellenic culture of Alexandria.
 
 <span id="img_22900"></span> <span align="CENTER"> [![SERAPIS
 GEM.](tn/generic.jpg)  
-Click to view](img/22900.jpg)  
+Click to view](img/22900.jpg.md)  
 SERAPIS GEM.  
 </span>
 
@@ -1154,7 +1154,7 @@ order. He is called "Ibis the Glorious," and "the Ibis who proceeded
 from Ptah." Osiris, the dying and resurrected God, is identified with
 him as "Osiris the Ibis, the Blessed One." Together with the moon god,
 Xunsu and Máut, he is worshipped in the trinity Xunsu-Máut-Tehuti as the
-"child ever being born again." <span id="fr_113"></span>[2](#fn_112)
+"child ever being born again." <span id="fr_113"></span>[2](#fn_112.md)
 
 <span id="page_230">p. 230</span>
 
@@ -1213,7 +1213,7 @@ ancient Egyptian traditions, compiled
 <span id="page_231">p. 231</span>
 
 in a book called the *Divine Pymander*, <span
-id="fr_114"></span>[1](#fn_113) which contains many beautiful sayings
+id="fr_114"></span>[1](#fn_113.md) which contains many beautiful sayings
 that remind us of Christian views; but the *Divine Pymander* (like other
 philosophical books) is addressed to the few not to the many, and its
 mysticism rendered it unfit to become the religion of mankind.
@@ -1378,22 +1378,22 @@ the sacred mark of two intersecting lines, a religious emblem of great
 antiquity, was identified with the cross of Golgotha. The figure of two
 intersecting lines was a mark of salvation among the Syrians and other
 nations, and the probability is that it represented the four quarters of
-the compass; <span id="fr_115"></span>[1](#fn_114) but now since is was
+the compass; <span id="fr_115"></span>[1](#fn_114.md) but now since is was
 called a cross, it recovered in a higher degree its traditional
 reputation as a powerful magic charm and was extensively used for
-exorcisms. <span id="fr_116"></span>[2](#fn_115) There is no doctrine on
+exorcisms. <span id="fr_116"></span>[2](#fn_115.md) There is no doctrine on
 which the Christian fathers so thoroughly agree as on the belief that
 the Devil is afraid of the cross.
 
 <span id="img_23500"></span> <span align="CENTER"> [![ARAMÆAN WARRIORS,
 WEARING THE CROSS AS AN AMULET FOR PROTECTION IN
 BATTLE.](tn/generic.jpg)  
-Click to view](img/23500.jpg)  
+Click to view](img/23500.jpg.md)  
 ARAMÆAN WARRIORS, WEARING THE CROSS AS AN AMULET FOR PROTECTION IN
 BATTLE.  
 </span>
 
- <span id="fr_117"></span>[3](#fn_116)
+ <span id="fr_117"></span>[3](#fn_116.md)
 
 The Greek gods were regarded as demons by the early Christians, but the
 ideas which found expression in the mythology of Greece, in the tales of
@@ -1434,7 +1434,7 @@ ST. GEORGE, THE PRINCESS, AND THE DRAGON.<br />
 
 </div>
 
-<span class="small">See pp. [239](#page_239)-[240](#page_240)</span>
+<span class="small">See pp. [239](#page_239)-[240](#page_240.md)</span>
 
 consecrated by religious sentiment and represented in struggling saints
 and angels.
@@ -1514,7 +1514,7 @@ ARCHANGEL MICHAEL HOLDING THE SCALES FOR WEIGHING SOULS.<br />
 
  
 
-known to God than to mankind." <span id="fr_119"></span>[2](#fn_118) It
+known to God than to mankind." <span id="fr_119"></span>[2](#fn_118.md) It
 is difficult to say whether His Holiness was conscious of the irony of
 this passage.
 
@@ -1545,7 +1545,7 @@ which consist of frightful struggles with the demons of his imagination,
 have been recorded by the good Bishop Athanasius, whose book on the
 subject is of special interest because it contains an essay written by
 St. Anthony himself, containing the gist of his wisdom and experience in
-struggling with evil spirits. <span id="fr_120"></span>[1](#fn_119) The
+struggling with evil spirits. <span id="fr_120"></span>[1](#fn_119.md) The
 artistic genius of Salvator Rosa gave a concrete plausibility to the
 story in a highly dramatic picture illustrating the combat in a critical
 
@@ -1553,7 +1553,7 @@ story in a highly dramatic picture illustrating the combat in a critical
 
 moment when only the cross saved the undaunted saint from defeat during
 a daring onslaught of the fiend in his most horrible shape. (See the
-illustration on page [236](#page_236).)
+illustration on page [236](#page_236)..md)
 
 There can scarcely be any doubt that the original doctrine of Jesus of
 Nazareth was an ethics of peace; not only peacefulness and gentleness of
@@ -1572,20 +1572,20 @@ their enemies, and in purity of morals.
 
 ### Footnotes
 
-<span id="fn_79"></span>[195:1](hod13.htm#fr_80) The Christian Church
+<span id="fn_79"></span>[195:1](hod13.htm#fr_80.md) The Christian Church
 never lost sight of the idea that a human sacrifice is indispensable for
 the expiation of sin, the atonement being procured by the mystic effects
 of faith. Hence the constant reference of Christ's death on the cross to
 both Abraham's offering of Isaac and the miraculous healing power of the
 brazen serpent in the desert.
 
-<span id="fn_80"></span>[200:1](hod13.htm#fr_81) Or rather the author of
+<span id="fn_80"></span>[200:1](hod13.htm#fr_81.md) Or rather the author of
 the second epistle of St. Peter, so called.
 
-<span id="fn_81"></span>[205:1](hod13.htm#fr_82) Xen., *Mem*., ii. I.
+<span id="fn_81"></span>[205:1](hod13.htm#fr_82.md) Xen., *Mem*., ii. I.
 Plato, *Symp*., 177 B.
 
-<span id="fn_82"></span>[205:2](hod13.htm#fr_83) Trendelenburg has
+<span id="fn_82"></span>[205:2](hod13.htm#fr_83.md) Trendelenburg has
 discovered a passage commenting on this or a similar picture in Achilles
 Tatius, and explains it as follows: Andromeda, adorned as the bride of
 death with girdle, crown, and veil, is tied to two poles. Above her
@@ -1598,55 +1598,55 @@ monster, which scene is witnessed by three Nereids, one riding on a
 sea-horse, one on a dolphin, and the third resembling the typical figure
 of Scylla. The monster differs here from the typical Medusa figure.
 
-<span id="fn_83"></span>[208:1](hod13.htm#fr_84) The Greek καλός is not
+<span id="fn_83"></span>[208:1](hod13.htm#fr_84.md) The Greek καλός is not
 limited to the definition of beautiful as we use the word.
 
-<span id="fn_84"></span>[208:2](hod13.htm#fr_85) The Medusa is mentioned
+<span id="fn_84"></span>[208:2](hod13.htm#fr_85.md) The Medusa is mentioned
 by Homer, λ 634, as a terrible monster of the Nether World; it was used
 as an amulet to avert evil, and became therefore a favorite device <span
 id="page_209">p. 209</span> on shields. The original of the upper
-illustration on [p. 207](#page_207) is colored,--which adds to the
+illustration on [p. 207](#page_207.md) is colored,--which adds to the
 frightful appearance of this picture found on the Acropolis at Athens.
 
-<span id="fn_85"></span>[209:1](hod13.htm#fr_86) The statue reproduced
-on [p. 208](#page_208) belongs to an older period of Greek art, and the
+<span id="fn_85"></span>[209:1](hod13.htm#fr_86.md) The statue reproduced
+on [p. 208](#page_208.md) belongs to an older period of Greek art, and the
 horse Pegasus is not as yet endowed with wings, which became very soon
 its never-missing attributes. The modern notion that Pegasus is the
 symbol of poetical enthusiasm only dates back to the fifteenth century
 of our era, and was foreign to the Greek.
 
-<span id="fn_86"></span>[209:2](hod13.htm#fr_87) Figures of the lion
+<span id="fn_86"></span>[209:2](hod13.htm#fr_87.md) Figures of the lion
 -killing saviour are also found on Asiatic coins and on Assyrian
 cylinders.
 
-<span id="fn_87"></span>[211:1](hod13.htm#fr_88) In the beautiful
-sarcophagus (see illustration on [p. 212](#page_212)) which represents
+<span id="fn_87"></span>[211:1](hod13.htm#fr_88.md) In the beautiful
+sarcophagus (see illustration on [p. 212](#page_212).md) which represents
 the Prometheus myth, the first design is apparently incomplete; for we
 should expect to see Prometheus represented as stealing the fire and
 offering it to Deukalion.
 
-<span id="fn_88"></span>[216:1](hod13.htm#fr_89) Cleombrotus may have
+<span id="fn_88"></span>[216:1](hod13.htm#fr_89.md) Cleombrotus may have
 been the same disciple of Socrates who is mentioned in Phaedo II-- p.
 59, c. This strange case of suicide is alluded to by St. Augustine in
 *de Civ. Dei*, I., 22--The verses are translated in the original metre.
 
-<span id="fn_89"></span>[218:1](hod13.htm#fr_90) See above, page
-[210](#page_210).
+<span id="fn_89"></span>[218:1](hod13.htm#fr_90.md) See above, page
+[210](#page_210.md).
 
-<span id="fn_90"></span>[218:2](hod13.htm#fr_91) This gem (a Christian
+<span id="fn_90"></span>[218:2](hod13.htm#fr_91.md) This gem (a Christian
 New Year's present) represents the death of a martyr. The letters A N F
 T mean *annum novum felicem tibi*.
 
-<span id="fn_91"></span>[218:3](hod13.htm#fr_92) The Apology and Acts of
+<span id="fn_91"></span>[218:3](hod13.htm#fr_92.md) The Apology and Acts of
 Apollonius, 40-41. Translated by F. C. Conybeare in *Monuments of Early
 Christianity*, p. 47.
 
-<span id="fn_92"></span>[220:1](hod13.htm#fr_93) *Apol*., 86.
+<span id="fn_92"></span>[220:1](hod13.htm#fr_93.md) *Apol*., 86.
 
-<span id="fn_93"></span>[220:2](hod13.htm#fr_94) Dei sacramenta Satanas
+<span id="fn_93"></span>[220:2](hod13.htm#fr_94.md) Dei sacramenta Satanas
 affectat. *De exh. cast.*, 13.
 
-<span id="fn_94"></span>[220:3](hod13.htm#fr_95) After Chiflet,
+<span id="fn_94"></span>[220:3](hod13.htm#fr_95.md) After Chiflet,
 reproduced from C. W. King. Two erect serpents stand like supporters, on
 both sides. Mithras, between the stars of the twins (the Dioscuri),
 holds the horses of the rising and of the setting sun, or of life and
@@ -1654,7 +1654,7 @@ death. Above his head, the raven; in the sky, the emblems of sun and
 moon. Underneath. the table with the consecrated bread and the cup of
 the Eucharist.
 
-<span id="fn_95"></span>[221:1](hod13.htm#fr_96) The Monument bears the
+<span id="fn_95"></span>[221:1](hod13.htm#fr_96.md) The Monument bears the
 inscription "Den Soli Invicto Mithrae." Mithras sacrifices in a cave a
 bull for the forgiveness of sins. A dog licks the dripping blood, called
 "nama sebesion" (the sacred fluid). A serpent crawls on the ground. A
@@ -1672,7 +1672,7 @@ Martyr, Apol., I., 66, and Tertullian, *Praescr. haeret.*, 40. The
 Mithras cult had many votaries among the Roman soldiery garrisoned in
 the northern provinces.
 
-<span id="fn_96"></span>[222:1](hod13.htm#fr_97) The mysteries of
+<span id="fn_96"></span>[222:1](hod13.htm#fr_97.md) The mysteries of
 Mithras were introduced into Greece at the time of Alexander. They
 gained more and more influence until they reached a climax in the second
 century of the Christian era, Most of the many monuments which the
@@ -1680,17 +1680,17 @@ Mithras worship left all over the Roman empire, especially in Gallia and
 Germany, date from this period when it had almost become a rival of
 Christianity.
 
-<span id="fn_97"></span>[223:1](hod13.htm#fr_98) "To the unconquerable
+<span id="fn_97"></span>[223:1](hod13.htm#fr_98.md) "To the unconquerable
 sun and the eternal moon this is given by P. and H., the two children of
 C. V. G."
 
-<span id="fn_98"></span>[223:2](hod13.htm#fr_99) I. e., Helios (or the
+<span id="fn_98"></span>[223:2](hod13.htm#fr_99.md) I. e., Helios (or the
 sun) Mithras the invincible.
 
-<span id="fn_99"></span>[223:3](hod13.htm#fr_100) "To the invincible
+<span id="fn_99"></span>[223:3](hod13.htm#fr_100.md) "To the invincible
 Sun, the protector."
 
-<span id="fn_100"></span>[223:4](hod13.htm#fr_101) "Well do the common
+<span id="fn_100"></span>[223:4](hod13.htm#fr_101.md) "Well do the common
 people call this somehow sacred day of the birth of the Lord 'a new
 sun,' and confirm it with so great an authority of theirs that Jews and
 Gentiles concur in this mode of speech. And this should willingly be
@@ -1698,7 +1698,7 @@ accepted by us, because with the birth of the Saviour there comes not
 only the salvation of mankind, but the brightness of the sun itself is
 renewed."
 
-<span id="fn_101"></span>[223:5](hod13.htm#fr_102) "But they call it the
+<span id="fn_101"></span>[223:5](hod13.htm#fr_102.md) "But they call it the
 birthday of the Invincible (i. e., Mithras). Who, however, is invincible
 if not our Lord, who has conquered death? Further, if they say 'it is
 the birthday of the sun,' He is the sun of righteousness, about whom the
@@ -1715,21 +1715,21 @@ Christ was lately fixed at Rome in order that whilst the heathen were
 busied with their profane ceremonies, the Christians might perform their
 holy rites undisturbed."
 
-<span id="fn_102"></span>[224:1](hod13.htm#fr_103) "Some to whom this
+<span id="fn_102"></span>[224:1](hod13.htm#fr_103.md) "Some to whom this
 day of our celebration is worthy of honor not so much on account of the
 birth of Christ as for the sake of the renewal of the sun."
 
-<span id="fn_103"></span>[224:2](hod13.htm#fr_104) "But no other day
+<span id="fn_103"></span>[224:2](hod13.htm#fr_104.md) "But no other day
 appears to us more appropriate than to-day for worshipping in heaven and
 earth the Feast of the Nativity, and while even in the material world
 (in the elements) a new light shines, He confers on us before our very
 senses, the brightness of His wonderful sacrament."
 
-<span id="fn_104"></span>[224:3](hod13.htm#fr_105) "Why does the sun
+<span id="fn_104"></span>[224:3](hod13.htm#fr_105.md) "Why does the sun
 already leave the circle of the arctic north?  
 Is not Christ born upon the earth who will the path of light increase?
 
-<span id="fn_105"></span>[224:4](hod13.htm#fr_106) "Truly, after the
+<span id="fn_105"></span>[224:4](hod13.htm#fr_106.md) "Truly, after the
 solstice, when Christ is born in the body,  
 With a new sun he will change the frigid days of the north wind.  
 While he is offering to mortals the birth that will bring them
@@ -1737,21 +1737,21 @@ salvation,
 Christ with the progress of days gives command that the nights be
 declining."
 
-<span id="fn_106"></span>[225:1](hod13.htm#fr_107) "No one shall
+<span id="fn_106"></span>[225:1](hod13.htm#fr_107.md) "No one shall
 celebrate the 1st of January and the Brumalia."
 
-<span id="fn_107"></span>[225:2](hod13.htm#fr_108) The statue here
+<span id="fn_107"></span>[225:2](hod13.htm#fr_108.md) The statue here
 reproduced was found in the Mithraeum of Ostia, where C. Valerius
 Heracles and his sons dedicated it in the year 190 A. D.; it was figured
 for the first time by Layard in his *Recherches sur Mithra*, Plate LXX.
 Similar statues are found in various Mithras caves.
 
-<span id="fn_108"></span>[226:1](hod13.htm#fr_109) Abrak is Egyptian,
+<span id="fn_108"></span>[226:1](hod13.htm#fr_109.md) Abrak is Egyptian,
 and means "bow down" or "adore." The word occurs in the Bible, Gen. 41,
 43. Sas (standing for *Sadshi*) means "name." Abraxas is the name to be
 adored. (See King, *The Gnostics*, p. 36.)
 
-<span id="fn_109"></span>[227:1](hod13.htm#fr_110) The inscription
+<span id="fn_109"></span>[227:1](hod13.htm#fr_110.md) The inscription
 reads, "Gabriel Sabaoth," i. e., The strong God Zebaoth. The second Ρ
 (i. e., *R*) is a mistake which the stone cutter made for Λ (i. e.,
 *L*).
@@ -1763,20 +1763,20 @@ which entwines another serpent. His head is crowned by a strange
 head-dress of four feathers (presumably of the Phœnikopteros) and
 surrounded by three stars.
 
-<span id="fn_110"></span>[227:2](hod13.htm#fr_111) From C. W. King. The
+<span id="fn_110"></span>[227:2](hod13.htm#fr_111.md) From C. W. King. The
 first line of the inscription is between Χ crosses; it is explained to
 mean "I am the Good Spirit, the Eternal Sun."
 
-<span id="fn_111"></span>[229:1](hod13.htm#fr_112) See Socrates, *Eccl.
+<span id="fn_111"></span>[229:1](hod13.htm#fr_112.md) See Socrates, *Eccl.
 Hist.*, 5, 17, which report is repeated by Sozomenes.
 
-<span id="fn_112"></span>[229:2](hod13.htm#fr_113) R. Pietschmann.
+<span id="fn_112"></span>[229:2](hod13.htm#fr_113.md) R. Pietschmann.
 Hermes Trismegistos, p. 7.
 
-<span id="fn_113"></span>[231:1](hod13.htm#fr_114) The term "Pymander"
+<span id="fn_113"></span>[231:1](hod13.htm#fr_114.md) The term "Pymander"
 is commonly explained to mean ποιμὴν ἀνδροῶν, i. e., shepherd of man."
 
-<span id="fn_114"></span>[235:1](hod13.htm#fr_115) The equilateral cross
+<span id="fn_114"></span>[235:1](hod13.htm#fr_115.md) The equilateral cross
 of Paganism is frequently, though not always, ornamented with four dots,
 one in each corner. We believe we are not mistaken when we interpret the
 dots as emblems of the sun in its four respective positions, in the
@@ -1785,27 +1785,27 @@ covered with this sacred symbol, (see e. g. Lenormant, *L'Hist. Anc. de
 l'Orient*, V., 183,) and it serves as a not uncommon pattern on the
 dresses of various Greek deities.
 
-<span id="fn_115"></span>[235:2](hod13.htm#fr_116) For further details
+<span id="fn_115"></span>[235:2](hod13.htm#fr_116.md) For further details
 see the author's articles on *The Cross, Its History and Significance*
 in *The Open Court*, 1899 and 1900. Their publication in book form is
 contemplated by The Open Court Publishing Co.
 
-<span id="fn_116"></span>[235:3](hod13.htm#fr_117) From Egyptian
+<span id="fn_116"></span>[235:3](hod13.htm#fr_117.md) From Egyptian
 monuments of the eighteenth dynasty. (After Wilkinson.) The same use of
 the cross, as an amulet worn round the neck, was made in Greece, as we
 know from ancient pictures, published by Gerhard.
 
-<span id="fn_117"></span>[238:1](hod13.htm#fr_118) Reproduced from
+<span id="fn_117"></span>[238:1](hod13.htm#fr_118.md) Reproduced from
 Scheible, *Das Kloster*.
 
-<span id="fn_118"></span>[238:2](hod13.htm#fr_119) *Qui Deo magis quam
+<span id="fn_118"></span>[238:2](hod13.htm#fr_119.md) *Qui Deo magis quam
 hominibus noti sunt*.
 
-<span id="fn_119"></span>[239:1](hod13.htm#fr_120) See the *Acta
+<span id="fn_119"></span>[239:1](hod13.htm#fr_120.md) See the *Acta
 Sanctorum* of the Bolandists for January 17, which is observed as St.
 Anthony's day. In addition there are several Latin translations of St.
 Anthony's letters extant in the *Biblioteca Patrum*.
 
 ------------------------------------------------------------------------
 
-[Next: The Demonology of Northern Europe](hod14)
+[Next: The Demonology of Northern Europe](hod14.md)

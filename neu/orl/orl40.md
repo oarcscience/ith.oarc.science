@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl39)  [Next](orl41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl39)  [Next](orl41.md) 
 
 ------------------------------------------------------------------------
 
@@ -940,4 +940,4 @@ My canto I defer to other time.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 41](orl41)
+[Next: Canto 41](orl41.md)

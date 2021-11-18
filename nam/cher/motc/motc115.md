@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc114) 
-[Next](motc116) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc114.md) 
+[Next](motc116.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ old man, and then they fought until each killed the other.
 
 ------------------------------------------------------------------------
 
-[Next: 116. The Star Feathers](motc116)
+[Next: 116. The Star Feathers](motc116.md)

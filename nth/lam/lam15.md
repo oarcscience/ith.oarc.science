@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam14)  [Next](lam16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam14)  [Next](lam16.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ land where there are no partings, no tears and no misunderstandings.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Questions and Answers](lam16)
+[Next: XIV. Questions and Answers](lam16.md)

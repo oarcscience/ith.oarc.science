@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb32)  [Next](gyfb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb32)  [Next](gyfb34.md) 
 
 </div>
 
@@ -269,6 +269,6 @@ the biter himself was bit.
 
 ------------------------------------------------------------------------
 
-[Next: The Ogre](gyfb34)
+[Next: The Ogre](gyfb34.md)
 
 </div>

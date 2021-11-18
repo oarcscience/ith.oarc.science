@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](uru_v135)  [Next](ufor2n12) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](uru_v135)  [Next](ufor2n12.md) 
 
 ### UFO roundup 12/22/1996
 
@@ -300,4 +300,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: UFO roundup 3/23/1997](ufor2n12)
+[Next: UFO roundup 3/23/1997](ufor2n12.md)

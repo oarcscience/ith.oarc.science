@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist034) 
-[Next](hist036) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist034.md) 
+[Next](hist036.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ city of Boulogne, with the honour due to so great a person.
 ------------------------------------------------------------------------
 
 [Next: XXXIV. How Ethelfrid, king of the Northumbrians, having
-vanquished the nations of the Scots,](hist036)
+vanquished the nations of the Scots,](hist036.md)

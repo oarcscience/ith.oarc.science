@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr64)  [Next](corr66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr64)  [Next](corr66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER LXVII. (LXV.)
 
-#### \* \* \* \* \* <span id="fr_71"></span>[1](#fn_70) TO SPINOZA.
+#### \* \* \* \* \* <span id="fr_71"></span>[1](#fn_70.md) TO SPINOZA.
 
 \[*A fresh inquiry as to whether there are two or more attributes of
 God*.\]
@@ -58,8 +58,8 @@ London, 12 Aug., 1675.
 
 ### Footnotes
 
-<span id="fn_70"></span>[400:1](corr65.htm#fr_71) Tschirnhausen.
+<span id="fn_70"></span>[400:1](corr65.htm#fr_71.md) Tschirnhausen.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXVIII. To Anon. \[Tschirnhausen\]](corr66)
+[Next: Letter LXVIII. To Anon. \[Tschirnhausen\]](corr66.md)

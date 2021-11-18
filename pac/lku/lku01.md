@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku00)  [Next](lku02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku00)  [Next](lku02.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ LILIUOKALANI, *of Hawaii*,       
 
 ------------------------------------------------------------------------
 
-[Next: The First Era](lku02)
+[Next: The First Era](lku02.md)

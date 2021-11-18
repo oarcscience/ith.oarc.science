@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb29)  [Next](yefb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb29)  [Next](yefb31.md) 
 
 </div>
 
@@ -556,6 +556,6 @@ you that he never again let the ring out of his possession.
 
 ------------------------------------------------------------------------
 
-[Next: The Flower Queen's Daughter](yefb31)
+[Next: The Flower Queen's Daughter](yefb31.md)
 
 </div>

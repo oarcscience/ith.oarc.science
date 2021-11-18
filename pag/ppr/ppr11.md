@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr10)  [Next](ppr12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr10)  [Next](ppr12.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ Sun, O Judge!
 
 ------------------------------------------------------------------------
 
-[Next: Chinese Liturgy](ppr12)
+[Next: Chinese Liturgy](ppr12.md)

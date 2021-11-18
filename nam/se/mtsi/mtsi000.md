@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Next](mtsi001) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Next](mtsi001.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Dr. C. G. ABBOT,
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mtsi001)
+[Next: Contents](mtsi001.md)

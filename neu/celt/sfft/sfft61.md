@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft60)  [Next](sfft62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft60)  [Next](sfft62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### NUCKELAVEE. <span id="fr_95"></span>[2](#fn_95)
+### NUCKELAVEE. <span id="fr_95"></span>[2](#fn_95.md)
 
 NUCKELAVEE, was a monster of unmixed malignity, never willingly resting
 from doing evil to mankind. He was a spirit in flesh. His home was the
@@ -110,9 +110,9 @@ water.
 
 ### Footnotes
 
-<span id="fn_95"></span>[197:2](sfft61.htm#fr_95) Mr. W. Traill Dennison
+<span id="fn_95"></span>[197:2](sfft61.htm#fr_95.md) Mr. W. Traill Dennison
 in the *Scottish Antiquary*.
 
 ------------------------------------------------------------------------
 
-[Next: The Two Shepherds](sfft62)
+[Next: The Two Shepherds](sfft62.md)

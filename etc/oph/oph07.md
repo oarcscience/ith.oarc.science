@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](oph06)  [Next](oph08) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](oph06)  [Next](oph08.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ gods. Bryant thinks that they were the same as the Thermuthis, or deadly
 asp. These creatures the Egyptians priests are said to have preserved by
 digging holes for them in the corners of their temples, and it was a
 part of their superstition to believe that whosoever was accidentally
-bitten by them was divinely favoured.  <span id="fr_5"></span>[1](#fn_5)
+bitten by them was divinely favoured.  <span id="fr_5"></span>[1](#fn_5.md)
 
 Deane further mentions that the serpent is sometimes found sculptured,
 and attached to the breasts of mummies; but whether with a view to
@@ -273,9 +273,9 @@ Tobit, whom the angel Gabriel drove into the utmost parts of Egypt."
 
 ### Footnotes
 
-<span id="fn_5"></span>[1](oph07.htm#fr_5) Gesner, Hist. Anim. p. 54,
+<span id="fn_5"></span>[1](oph07.htm#fr_5.md) Gesner, Hist. Anim. p. 54,
 citing Ælian.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](oph08)
+[Next: Chapter 8](oph08.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp15)  [Next](ptp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp15)  [Next](ptp17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -171,13 +171,13 @@ been today."
 
 <span id="img_23300"></span> <span align="CENTER"> [![Pope Julius
 II.](tn/23300.jpg)  
-Click to enlarge](img/23300.jpg)  
+Click to enlarge](img/23300.jpg.md)  
 Pope Julius II.  
 </span>
 
 <span class="small">This is the man who climbed up on the scaffolding to
-argue with Michael Angelo. See pages [229](#page_229) to
-[235](#page_235).</span>
+argue with Michael Angelo. See pages [229](#page_229.md) to
+[235](#page_235.md).</span>
 
 No details seem to miss the attention of this prodigious worker. The
 vexations and colossal labors of his martial campaigns and political
@@ -692,12 +692,12 @@ with spirit and the commander of the attacking forces was
 
 <span id="img_24800"></span> <span align="CENTER"> [![Pope Leo
 X.](tn/24800.jpg)  
-Click to enlarge](img/24800.jpg)  
+Click to enlarge](img/24800.jpg.md)  
 Pope Leo X.  
 </span>
 
 <span class="small">Machiavelli advised him: Luther defied him. See
-pages [235](#page_235) to [246](#page_246).</span>
+pages [235](#page_235) to [246](#page_246.md).</span>
 
 <span id="page_249">p. 249</span>
 
@@ -1213,12 +1213,12 @@ rules the universe with infinite wisdom, and,
 
 <span id="img_26500"></span> <span align="CENTER"> [![Pope Clement
 VII.](tn/26500.jpg)  
-Click to enlarge](img/26500.jpg)  
+Click to enlarge](img/26500.jpg.md)  
 Pope Clement VII.  
 </span>
 
 <span class="small">He excommunicated Henry VIII. See pages
-[247](#page_247) to [254](#page_254).</span>
+[247](#page_247) to [254](#page_254.md).</span>
 
 <span id="page_265">p. 265</span>
 
@@ -1532,4 +1532,4 @@ and the *Treaty of Lyons* between the latter nation and Savoy.
 
 ------------------------------------------------------------------------
 
-[Next: Seventeenth Century](ptp17)
+[Next: Seventeenth Century](ptp17.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,33 +23,33 @@ Larger Love* (1929); and *New Ideals in Love* (1926), a lecture
 delivered before the Workers' Forum of Los Angeles, California.
 
 This e-book has been prepared by
-[www.reuniting.info](https://www.reuniting.info/), a site that has a lot
+[www.reuniting.info](https://www.reuniting.info/.md), a site that has a lot
 of information closely related to the topic of this book.
 
 **For more on Lloyd, see ["The Soul-Blending
-Embrace"](https://www.reuniting.info/wisdom/lloyd_karezza_method).**
+Embrace"](https://www.reuniting.info/wisdom/lloyd_karezza_method.md).**
 
 ------------------------------------------------------------------------
 
-[Title Page](krz00)  
-[Contents](krz01)  
-[Preface](krz02)  
-[Soul Blending](krz03)  
-[What is Karezza?](krz04)  
-[Magnetation](krz05)  
-[Cleanness](krz06)  
-[Sex and Soul](krz07)  
-[When Sex Satisfies](krz08)  
-[Duality and Spirituality in Sex](krz09)  
-[Sex-Commerce and the Elixer of Life](krz10)  
-[The Wine of Sex](krz11)  
-[The Karezza Method](krz12)  
-[The Woman's Part in Karezza](krz13)  
-[The Woman's Time of Great Desire](krz14)  
-[Does the Woman Need the Orgasm?](krz15)  
-[The Woman's Shock](krz16)  
-[Psychic Impotence](krz17)  
-[Karezza the Beautifier](krz18)  
-[The Danger of Excess](krz19)  
-[Final Considerations](krz20)  
-[Appendix to the Karezza Method](krz21)  
+[Title Page](krz00.md)  
+[Contents](krz01.md)  
+[Preface](krz02.md)  
+[Soul Blending](krz03.md)  
+[What is Karezza?](krz04.md)  
+[Magnetation](krz05.md)  
+[Cleanness](krz06.md)  
+[Sex and Soul](krz07.md)  
+[When Sex Satisfies](krz08.md)  
+[Duality and Spirituality in Sex](krz09.md)  
+[Sex-Commerce and the Elixer of Life](krz10.md)  
+[The Wine of Sex](krz11.md)  
+[The Karezza Method](krz12.md)  
+[The Woman's Part in Karezza](krz13.md)  
+[The Woman's Time of Great Desire](krz14.md)  
+[Does the Woman Need the Orgasm?](krz15.md)  
+[The Woman's Shock](krz16.md)  
+[Psychic Impotence](krz17.md)  
+[Karezza the Beautifier](krz18.md)  
+[The Danger of Excess](krz19.md)  
+[Final Considerations](krz20.md)  
+[Appendix to the Karezza Method](krz21.md)  

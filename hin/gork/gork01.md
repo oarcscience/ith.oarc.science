@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork00)  [Next](gork02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork00)  [Next](gork02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ personal
 
 <span id="page_viii">p. viii</span>
 
-letter <span id="fr_0"></span>[\*](#fn_0) which Swâmi Vivekânanda wrote
+letter <span id="fr_0"></span>[\*](#fn_0.md) which Swâmi Vivekânanda wrote
 to him.
 
 At the request of "M" I have edited and remodelled the larger portion of
@@ -68,7 +68,7 @@ December 15, 1907.
 
 ### Footnotes
 
-<span id="fn_0"></span>[viii:\*](gork01.htm#fr_0) Swami Vivekânanda's
+<span id="fn_0"></span>[viii:\*](gork01.htm#fr_0.md) Swami Vivekânanda's
 letter to "M."
 
 (*True Copy*.)
@@ -104,4 +104,4 @@ accurately recorded by "M."
 
 ------------------------------------------------------------------------
 
-[Next: Contents](gork02)
+[Next: Contents](gork02.md)

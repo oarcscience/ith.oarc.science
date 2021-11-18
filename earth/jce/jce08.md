@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce07)  [Next](jce09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce07)  [Next](jce09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -236,7 +236,7 @@ was nothing to be said.
 
 "Well, I will tell you that true savants, amongst them Poisson, have
 demonstrated that if a heat of 360,000 degrees  <span
-id="fr_3"></span>[4](#fn_3) existed in the interior of the globe, the
+id="fr_3"></span>[4](#fn_3.md) existed in the interior of the globe, the
 fiery gases arising from the fused matter would acquire an elastic force
 which the crust of the earth would be unable to resist, and that it
 would explode like the plates of a bursting boiler."
@@ -332,10 +332,10 @@ before us in this design of discovering the centre of the earth."
 
 ### Footnotes
 
-<span id="fn_3"></span>[4](jce08.htm#fr_3) The degrees of temperature
+<span id="fn_3"></span>[4](jce08.htm#fr_3.md) The degrees of temperature
 are given by Jules Verne according to the centigrade system, for which
 we will in each case substitute the Fahrenheit measurement. (Tr.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. A Woman's Courage](jce09)
+[Next: Chapter VII. A Woman's Courage](jce09.md)

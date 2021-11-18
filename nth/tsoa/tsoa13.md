@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa12)  [Next](tsoa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa12)  [Next](tsoa14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -43,7 +43,7 @@ For this is what they say:
    In all the thousand men we've hired  
    Where shall we find a man?"  
                        —<span class="smallcaps">St. Clair
-Adams</span>. <span id="fr_1"></span>[\*](#fn_1)
+Adams</span>. <span id="fr_1"></span>[\*](#fn_1.md)
 
 </div>
 
@@ -200,7 +200,7 @@ Through your subconscious mind you can draw upon universal supply for
 anything you wish. The ideas of Universal Mind are as countless as the
 sands on the seashore. Use them. And use them lavishly, just as they are
 given. There is a little poem by Jessie B. Rittenhouse <span
-id="fr_2"></span>[\*](#fn_2) that so well describes
+id="fr_2"></span>[\*](#fn_2.md) that so well describes
 
 <span id="page_200">p. 200</span>
 
@@ -373,12 +373,12 @@ over all things.
 
 ### Footnotes
 
-<span id="fn_1"></span>[191:\*](tsoa13.htm#fr_1) From "It Can Be Done."
+<span id="fn_1"></span>[191:\*](tsoa13.htm#fr_1.md) From "It Can Be Done."
 Copyright 1921, George Sully & Company.
 
-<span id="fn_2"></span>[199:\*](tsoa13.htm#fr_2) From "The Door of
+<span id="fn_2"></span>[199:\*](tsoa13.htm#fr_2.md) From "The Door of
 Dreams," Houghten, Mifflin & Co., Boston.
 
 ------------------------------------------------------------------------
 
-[Next: VII. “As A Man Thinketh”](tsoa14)
+[Next: VII. “As A Man Thinketh”](tsoa14.md)

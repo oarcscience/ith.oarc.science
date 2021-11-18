@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sft06)  [Next](sft08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sft06)  [Next](sft08.md) 
 
 ------------------------------------------------------------------------
 
@@ -838,4 +838,4 @@ Robberies from Fairyland
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Supernatural Lapse of Time in Fairyland](sft08)
+[Next: Chapter VII: The Supernatural Lapse of Time in Fairyland](sft08.md)

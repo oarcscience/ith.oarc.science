@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll02)  [Previous](ecl01) 
-[Next](ecl03) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll02)  [Previous](ecl01.md) 
+[Next](ecl03.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ Alexis.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue III.--Palaemon](ecl03)
+[Next: Eclogue III.--Palaemon](ecl03.md)

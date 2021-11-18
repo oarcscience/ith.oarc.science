@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe10)  [Next](boe12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe10)  [Next](boe12.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ Creation begin--Heaven and Earth were
 Mut&lt;/i&gt; (XXX&lt;i&gt;th dynasty&lt;/i&gt;, &lt;i&gt;378-341
 B.C.&lt;/i&gt;)&lt;br&gt; (In the Metropolitan Museum of the City of New
 York)](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 PLATE IX THE SKY GODDESS NUT BENDING OVER THE EARTH  
 *From the Sarcophagus of Uresh-Nofer, Priest of the Goddess Mut* (XXX*th
 dynasty*, *378-341 B.C.*)  
@@ -96,7 +96,7 @@ separation from Nut without a struggle. He sought to rise, that he might
 fight and overcome the newly created god. But as he struggled, just
 roused from deep dreamless sleep, he was arrested and held in the
 curious position he has ever since maintained ([Plate X,
-B](boe12.htm#img_pl10b)), without power to change it. He has been veiled
+B](boe12.htm#img_pl10b).md), without power to change it. He has been veiled
 each spring with plants and herbs and grasses; and winter has wrapped
 him in ice an now; while along his back has passed the endless panorama
 of the generations of animals and men. Through him is given to them all
@@ -130,4 +130,4 @@ have inherited its qualities.
 
 ------------------------------------------------------------------------
 
-[Next: Earth-Moon Catastrophe](boe12)
+[Next: Earth-Moon Catastrophe](boe12.md)

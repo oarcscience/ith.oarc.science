@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf22)  [Next](fmf24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf22)  [Next](fmf24.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ MORAL: Anything to avoid dropping it in the Basket.
 ------------------------------------------------------------------------
 
 [Next: The Fable of How Grandma Shattered an Idol and Made It Easy for
-the Children](fmf24)
+the Children](fmf24.md)

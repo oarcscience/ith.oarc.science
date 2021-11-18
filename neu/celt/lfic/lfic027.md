@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic026)  [Next](lfic028) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic026)  [Next](lfic028.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ legend of the sea-dwellers:--
 
 ------------------------------------------------------------------------
 
-[Next: The Silkie Wife](lfic028)
+[Next: The Silkie Wife](lfic028.md)

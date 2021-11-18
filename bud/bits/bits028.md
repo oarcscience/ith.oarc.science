@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits027) [Next](bits029)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits027) [Next](bits029.md)
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ they are not pertinent in a discussion of rebirth.
 
 ------------------------------------------------------------------------
 
-[Next: § 29. Name and Form](bits029)
+[Next: § 29. Name and Form](bits029.md)
 
  
 

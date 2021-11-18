@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng14)  [Next](nblng16) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng14)  [Next](nblng16.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ folk'.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XIV: How The Queens Reviled Each Other.](nblng16)
+[Next: Adventure XIV: How The Queens Reviled Each Other.](nblng16.md)

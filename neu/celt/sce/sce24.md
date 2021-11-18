@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce23)  [Next](sce25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce23)  [Next](sce25.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ and the Croƒƒes over on the Ground, and ƒo vaniƒh to his Place.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15](sce25)
+[Next: Chapter 15](sce25.md)

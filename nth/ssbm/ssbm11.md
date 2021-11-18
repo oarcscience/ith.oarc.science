@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm10)  [Next](ssbm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm10)  [Next](ssbm12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -59,7 +59,7 @@ of seeing what had not yet happened, by the simple expedient of deciding
 that the past, present and future of time are all right here with us,
 but that we cannot see beyond the instant of the present when events
 become momentarily actualized. Like Ouspensky in his
-[*Tertium*](errata.htm#2) *Organum*, Mr. Dunn falls back on the idea of
+[*Tertium*](errata.htm#2.md) *Organum*, Mr. Dunn falls back on the idea of
 a "space-time complex," leaps from that to a fourth dimension, and ends
 with little more than a play on words.
 
@@ -420,7 +420,7 @@ they have tried to do so and failed dismally. The failure has been so
 frequent that it has caused Spiritualism to be looked upon with
 question.
 
-At spiritualistic seances as well as with the [Ouija](errata.htm#3)
+At spiritualistic seances as well as with the [Ouija](errata.htm#3.md)
 Board and similar mechanisms, the low self of a dead person, when it has
 been cut off from its middle self by some accident of dying, loves to
 communicate with the living. Being unable to use good reasoning powers
@@ -554,4 +554,4 @@ history.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Instant Healing Through the High Self. The Proofs and
-Methods](ssbm12)
+Methods](ssbm12.md)

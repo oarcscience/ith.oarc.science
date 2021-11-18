@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs20)  [Next](pifs22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs20)  [Next](pifs22.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,14 +9,14 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 # XVIII
 
-### THE MOQUI <span id="fr_71"></span>[1](#fn_71) BOY AND THE EAGLE
+### THE MOQUI <span id="fr_71"></span>[1](#fn_71.md) BOY AND THE EAGLE
 
 SOME of the folk-stories told in Isleta were evidently invented in other
 pueblos, whence the Tée-wahn have learned them in their trading-trips.
 There is even a story from the far-off towns of Moqui, three hundred
 miles west of here and ninety miles from the railroad. The Moquis live
 in northeast Arizona, in strange adobe towns, <span
-id="fr_72"></span>[2](#fn_72) perched upon impregnable islands of rock,
+id="fr_72"></span>[2](#fn_72.md) perched upon impregnable islands of rock,
 rising far above the bare, brown plain. They are seldom visited and
 little known by white men. All the other Pueblo towns and tribes have
 changed somewhat in the present era of American occupation; but the
@@ -105,7 +105,7 @@ ladder is set with sharp arrow-heads and knives of flint, so that if you
 tried to go up it, it would cut your legs off. But I will give you this
 sack of sacred herbs to help you. When you come to the ladder, you must
 chew some of the herbs and spit the juice on the ladder, which will at
-once become smooth for you." <span id="fr_73"></span>[1](#fn_73)
+once become smooth for you." <span id="fr_73"></span>[1](#fn_73.md)
 
 Tái-oh thanked the Spider-woman and started off with the sack. After
 awhile he came to the foot of a great ladder, which went away up out of
@@ -157,12 +157,12 @@ have all the Eagle-prisoners they can get.
 
 ### Footnotes
 
-<span id="fn_71"></span>[122:1](pifs21.htm#fr_71) Pronounced Móh-kee.
+<span id="fn_71"></span>[122:1](pifs21.htm#fr_71.md) Pronounced Móh-kee.
 
-<span id="fn_72"></span>[122:2](pifs21.htm#fr_72) See "Some Strange
+<span id="fn_72"></span>[122:2](pifs21.htm#fr_72.md) See "Some Strange
 Corners of Our Country." The Century Co., New York.
 
-<span id="fn_73"></span>[125:1](pifs21.htm#fr_73) This recalls a
+<span id="fn_73"></span>[125:1](pifs21.htm#fr_73.md) This recalls a
 superstition of the Peruvian mountain Indians, ancient and modern. The
 latter I have often seen throwing upon a stone at the crest of a
 mountain pass the quid of coca-leaves they had been chewing. They
@@ -173,4 +173,4 @@ for Tái-oh.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. The North Wind and the South Wind](pifs22)
+[Next: XIX. The North Wind and the South Wind](pifs22.md)

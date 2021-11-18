@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch29) 
-[Next](pch31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch29.md) 
+[Next](pch31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -44,7 +44,7 @@ Dr. Frazer's survey; and there are yet others which he has not
 ostensibly studied. Some of these are illuminated by the rite of human
 sacrifice among the Khonds. Their placing of the victim, for instance,
 either on a cross or in a cleft bough in such a way as to make a living
-cross, <span id="fr_478"></span>[3](#fn_478) wherein the God is as it
+cross, <span id="fr_478"></span>[3](#fn_478.md) wherein the God is as it
 were part of the living tree, is a singularly suggestive parallel. But
 no
 
@@ -59,12 +59,12 @@ Brahmans of Bombay. In their secret human sacrifice, described by Sir
 John Malcolm, the unsuspecting victim—often a stranger long hospitably
 entertained for the purpose—was drugged; and in his drugged state was
 led three times round the idol of the Goddess, whereafter his throat was
-cut. <span id="fr_479"></span>[1](#fn_479) Yet again, the same principle
+cut. <span id="fr_479"></span>[1](#fn_479.md) Yet again, the same principle
 is found so far away as Mexico, where, in one annual sacrifice to the
 Fire-God, the victims were painted red like the Khond *meriah*, and a
 narcotic powder was thrown in their faces. They too were subjected to
 special suffering, being thrown into the fire before being sacrificed
-with the knife in the usual way. <span id="fr_480"></span>[2](#fn_480)
+with the knife in the usual way. <span id="fr_480"></span>[2](#fn_480.md)
 And in the Mexican sacrifice, also, the God was expressly represented by
 a tree, stripped of bark and branches, but covered with painted paper.
 
@@ -85,11 +85,11 @@ sympathy, after the cry of Eli, Eli. In the first passage the text has
 evidently been tampered with; for the Vulgate and Ethiopic versions, the
 Sinaitic, Vatican, and Bezan codices, and many old MSS., read *wine* for
 vinegar, while the Arabic version reads *myrrh* for *gall*. <span
-id="fr_481"></span>[3](#fn_481) In Mark, more significantly, the first
+id="fr_481"></span>[3](#fn_481.md) In Mark, more significantly, the first
 drink becomes "wine spiced with myrrh," and is refused without tasting;
 and here the commentators recognise that the purpose was presumably to
 cause stupefaction, and so lighten the suffering. <span
-id="fr_482"></span>[4](#fn_482) In
+id="fr_482"></span>[4](#fn_482.md) In
 
 <span id="page_120">p. 120</span>
 
@@ -109,11 +109,11 @@ that it was intended to cause euthanasia, for he notes that it was
 refused. The divine victim must be a conscious sufferer. A later
 compiler ignores altogether this detail, and notes only that the slayers
 tormented the victim with a drink of vinegar. Both details alike are
-un-Roman, <span id="fr_483"></span>[1](#fn_483) for the torment was
+un-Roman, <span id="fr_483"></span>[1](#fn_483.md) for the torment was
 trivial, while the narcotic would be inconsistent with what was meant to
 be an exemplary punishment. The theologising fourth gospel, in turn,
 makes the victim accept the drink of vinegar as the last symbolic act of
-sufferance; <span id="fr_484"></span>[2](#fn_484) but then suddenly
+sufferance; <span id="fr_484"></span>[2](#fn_484.md) but then suddenly
 alludes to a detail not specified by the others—a *concluding* act of
 limb-breaking, from which the divine victim escapes for dogmatic
 reasons, the fact of his death being made certain by a lance-thrust in
@@ -122,7 +122,7 @@ certain circumstances, and that the writer or an interpolator of the
 fourth gospel saw need to make it clear that the bones of the Messiah
 remained unbroken. He being, according to the fourth gospel, the true
 paschal sacrifice, it was important that the law as to the Passover
-should in him be fulfilled. <span id="fr_485"></span>[3](#fn_485)
+should in him be fulfilled. <span id="fr_485"></span>[3](#fn_485.md)
 
 On what data, then, did the different evangelists proceed? What had they
 under notice? Not an original narrative: their dissidence is almost
@@ -135,7 +135,7 @@ to meet a Jewish demand, which in
 
 the synoptic narrative could not arise. Mere breaking of the legs,
 besides, would be at once a laborious and an inadequate way of making
-sure that the victims were dead; <span id="fr_486"></span>[1](#fn_486)
+sure that the victims were dead; <span id="fr_486"></span>[1](#fn_486.md)
 the spear-thrust would be the natural and the sufficient act; yet only
 one victim is speared. Only one hypothesis will meet the whole case. The
 different narratives testify to the existence of a *ritual* or *rituals*
@@ -148,7 +148,7 @@ dogmatic account. Their conflict is thus insoluble, and their testimony
 alike unhistorical. But we find the psychological clue in the hypothesis
 of a known ritual of a crucified Saviour-God, who had for
 universally-recognised reasons to appear to suffer as a willing
-victim. <span id="fr_487"></span>[2](#fn_487) Being crucified—that is,
+victim. <span id="fr_487"></span>[2](#fn_487.md) Being crucified—that is,
 hung by the hands or wrists to a tree or post, and supported not by his
 feet but by a bar between his thighs—he would tend to struggle (unlike
 the Khond victim, whose arms were free) chiefly with his legs; and if he
@@ -176,7 +176,7 @@ detail in a mystery-drama
 
 growing out of a ritual of human sacrifice. "Judas" in any case is
 presumably only a development from *Joudaios*, a Jew; <span
-id="fr_488"></span>[1](#fn_488) and the basis of the episode, thus
+id="fr_488"></span>[1](#fn_488.md) and the basis of the episode, thus
 understood, would be the Gentile imputation on the Jews of having sold
 the Lord as a human sacrifice. And the doctrine put in the mouth of
 Caiaphas in the fourth gospel (xi, 50-51) is a doctrine of human
@@ -186,21 +186,21 @@ sacrifice.
 
 ### Footnotes
 
-<span id="fn_478"></span>[118:3](pch30.htm#fr_478) This detail is
+<span id="fn_478"></span>[118:3](pch30.htm#fr_478.md) This detail is
 observed in a surrogate sacrifice of a pig in Polynesia, and in
 sacrifices of goats and human beings in Nigeria. See below, § 8.
 
-<span id="fn_479"></span>[119:1](pch30.htm#fr_479) Crooke, *Popular
+<span id="fn_479"></span>[119:1](pch30.htm#fr_479.md) Crooke, *Popular
 Religion and Folklore of Northern India*, 1896, ii, 170-1.
 
-<span id="fn_480"></span>[119:2](pch30.htm#fr_480) Clavigero, *History
+<span id="fn_480"></span>[119:2](pch30.htm#fr_480.md) Clavigero, *History
 of Mexico*, Eng. tr. ed. 1807, B. vi, § 34 (i. 306-7).
 
-<span id="fn_481"></span>[119:3](pch30.htm#fr_481) See Varior. Bible,
+<span id="fn_481"></span>[119:3](pch30.htm#fr_481.md) See Varior. Bible,
 Alford's Greek N.T., Blackader's N.T., McClellan's N.T., and Gill's
 Exposition on Mt. xxvii, 34.
 
-<span id="fn_482"></span>[119:4](pch30.htm#fr_482) According to several
+<span id="fn_482"></span>[119:4](pch30.htm#fr_482.md) According to several
 Talmudic passages, the Jews gave to any man about to be executed "a
 grain of frankincense in a cup of wine," and the tradition runs that the
 ladies of Jerusalem gave this to the doomed ones. Gill's Expos. on Mk.
@@ -214,7 +214,7 @@ suggestion that any drink was offered to the two thieves: here we are
 dealing with a sacrificial ritual in which only the central victim is a
 true sacrifice. See below, § 9.
 
-<span id="fn_483"></span>[120:1](pch30.htm#fr_483) Josephus indeed tells
+<span id="fn_483"></span>[120:1](pch30.htm#fr_483.md) Josephus indeed tells
 (*Wars*, V, 11, § 1) that during the siege of Jerusalem the Romans
 crucified vast multitudes of the Jews who sought to escape, first
 scourging them, and then torturing them in different ways; but this is
@@ -222,28 +222,28 @@ expressly declared to be an act at once of military vengeance and of
 terrorism, whereas the drink of vinegar was either a mere trifling
 insult or an act of relief.
 
-<span id="fn_484"></span>[120:2](pch30.htm#fr_484) Psalm lxix, 21, would
+<span id="fn_484"></span>[120:2](pch30.htm#fr_484.md) Psalm lxix, 21, would
 lead Judaists ignorant of old Jewish usage so to regard such a draught.
 
-<span id="fn_485"></span>[120:3](pch30.htm#fr_485) Exodus xii, 46; Num.
+<span id="fn_485"></span>[120:3](pch30.htm#fr_485.md) Exodus xii, 46; Num.
 ix, 12 (cp. Ps. xxxiv, 20, where "the righteous" would be held to apply
 to the Messiah). This very law points to memories of the act of
 limb-breaking in sacrifice.
 
-<span id="fn_486"></span>[121:1](pch30.htm#fr_486) The statement of
+<span id="fn_486"></span>[121:1](pch30.htm#fr_486.md) The statement of
 Lactantius (*Div. Inst.* iv, 26) that it was usual for the executioners
 to break the bones of those crucified is without foundation, and is
 confuted by the absence of the detail from the synoptics. The
 *crurifragium*, or punishment by limb-breaking, was quite a different
 thing.
 
-<span id="fn_487"></span>[121:2](pch30.htm#fr_487) "Even the sacrificial
+<span id="fn_487"></span>[121:2](pch30.htm#fr_487.md) "Even the sacrificial
 victims are required to be of a willing mind." Tertullian, *Ad
 Scapulam*, 2. Cp. Macrobius, *Sat*. iii, 5; Lucan, *Pharsalia*, i, 611.
 
-<span id="fn_488"></span>[122:1](pch30.htm#fr_488) Cp. *Christianity and
+<span id="fn_488"></span>[122:1](pch30.htm#fr_488.md) Cp. *Christianity and
 Mythology*, 2nd ed. p. 354.
 
 ------------------------------------------------------------------------
 
-[Next: § 4. Vogue of Human Sacrifice](pch31)
+[Next: § 4. Vogue of Human Sacrifice](pch31.md)

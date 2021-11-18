@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cc00)
+[Contents](#contents)    [Start Reading](cc00.md)
 
 ------------------------------------------------------------------------
 
@@ -93,45 +93,45 @@ what the heck is outside???
 
 ------------------------------------------------------------------------
 
-[Title Page](cc00)  
-[Table of Contents](cc01)  
-[Introduction](cc02)  
-[The Cellular Cosmogony](cc03)  
-[Optical Factors and Illusions](cc04)  
-[Koreshan Application of Geodesy](cc05)  
-[Laws Which Determine the Form and Function of the Universe](cc06)  
-[Universal Form and Function Are Persistent](cc07)  
-[Koreshan Principles of Optics](cc08)  
-[Koreshan Cosmogony in Contrast with Modern Astronomy](cc09)  
-[An Absolutely Indisputable Premise](cc10)  
-[Solving an Incalculable Problem](cc11)  
-[The Earth Is a Shell; the Sun Is the Center](cc12)  
+[Title Page](cc00.md)  
+[Table of Contents](cc01.md)  
+[Introduction](cc02.md)  
+[The Cellular Cosmogony](cc03.md)  
+[Optical Factors and Illusions](cc04.md)  
+[Koreshan Application of Geodesy](cc05.md)  
+[Laws Which Determine the Form and Function of the Universe](cc06.md)  
+[Universal Form and Function Are Persistent](cc07.md)  
+[Koreshan Principles of Optics](cc08.md)  
+[Koreshan Cosmogony in Contrast with Modern Astronomy](cc09.md)  
+[An Absolutely Indisputable Premise](cc10.md)  
+[Solving an Incalculable Problem](cc11.md)  
+[The Earth Is a Shell; the Sun Is the Center](cc12.md)  
 [Central and Circumferential Limitation. A Universe Within a
-Universe](cc13)  
+Universe](cc13.md)  
 [Life Develops and Matures in a Shell, Egg, or Womb; Hence We Are Inside
-of It](cc14)  
-[Forces and Factors Which Perpetuate Universe](cc15)  
-[The Only True Science Is Founded on a Demonstrated Premise](cc16)  
-[Plumbline Is First Step in Rational Demonstration](cc17)  
+of It](cc14.md)  
+[Forces and Factors Which Perpetuate Universe](cc15.md)  
+[The Only True Science Is Founded on a Demonstrated Premise](cc16.md)  
+[Plumbline Is First Step in Rational Demonstration](cc17.md)  
 [Telescopes more or less Imperfect at Best; Likewise the Lens of Every
-Human Eye](cc18)  
-[The Geodetic Survey](cc19)  
-[Tests That Cannot Be Ignored](cc20)  
-[Experiments on Lake Michigan](cc21)  
-[Objections by Illogical Critics](cc22)  
-[Preparations for the Geodetic Survey](cc23)  
-[Levels, Plumbs, Appurtenances, and Records](cc24)  
-[Results and Inevitable Conclusions](cc25)  
+Human Eye](cc18.md)  
+[The Geodetic Survey](cc19.md)  
+[Tests That Cannot Be Ignored](cc20.md)  
+[Experiments on Lake Michigan](cc21.md)  
+[Objections by Illogical Critics](cc22.md)  
+[Preparations for the Geodetic Survey](cc23.md)  
+[Levels, Plumbs, Appurtenances, and Records](cc24.md)  
+[Results and Inevitable Conclusions](cc25.md)  
 <span id="section_000"></span>
 
 ### Addenda
 
-[Cause of Variation of the Pendulum](cc26)  
-[The Wonderful Properties of Radium](cc27)  
-[Astronomical Mysteries and Hypotheses](cc28)  
-[Force of Vibration Applicable to Aerial Navigation](cc29)  
-[Synoptical Outline of the Universal Egg or Shell](cc30)  
-[Important Admissions](cc31)  
-[Principles of the New Geodesy](cc32)  
-[Copernican Hypothesis in the Schools](cc33)  
-[Advertisements](cc34)  
+[Cause of Variation of the Pendulum](cc26.md)  
+[The Wonderful Properties of Radium](cc27.md)  
+[Astronomical Mysteries and Hypotheses](cc28.md)  
+[Force of Vibration Applicable to Aerial Navigation](cc29.md)  
+[Synoptical Outline of the Universal Egg or Shell](cc30.md)  
+[Important Admissions](cc31.md)  
+[Principles of the New Geodesy](cc32.md)  
+[Copernican Hypothesis in the Schools](cc33.md)  
+[Advertisements](cc34.md)  

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm00)  [Next](amm02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm00)  [Next](amm02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -72,8 +72,8 @@ you know the new, you must search the old.'*
 
 *I have the pleasure of thanking friends who have helped me, especially
 Mr. Ernest Newton and Mr. E. S. Prior. The figures*
-[22](amm12.htm#img_fig22)*,* [24](amm12.htm#img_fig24)*, and*
-[30](amm15.htm#img_fig30) *are from sketches kindly lent me by Mr.
+[22](amm12.htm#img_fig22)*,* [24](amm12.htm#img_fig24.md)*, and*
+[30](amm15.htm#img_fig30.md) *are from sketches kindly lent me by Mr.
 Brindley, Mr. Schultz, and Mr. Barnsley*.
 
 2 *GRAY'S INN SQUARE*.
@@ -94,4 +94,4 @@ FERISHTA'S HISTORY OF INDIA.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](amm02)
+[Next: Contents](amm02.md)

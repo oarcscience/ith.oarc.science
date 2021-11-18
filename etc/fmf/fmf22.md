@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf21)  [Next](fmf23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf21)  [Next](fmf23.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ MORAL: Play Muggins, and then you will be glad to Quit at any time.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Good People Who Rallied to the Support of the
-Church](fmf23)
+Church](fmf23.md)

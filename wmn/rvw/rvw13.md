@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw12)  [Next](rvw14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw12)  [Next](rvw14.md) 
 
 ------------------------------------------------------------------------
 
@@ -577,4 +577,4 @@ whether provisions of this kind are constitutional.
 
 ------------------------------------------------------------------------
 
-[Next: Mr. Justice Stewart, concurring.](rvw14)
+[Next: Mr. Justice Stewart, concurring.](rvw14.md)

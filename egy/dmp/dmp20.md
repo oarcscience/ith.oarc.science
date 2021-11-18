@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp19)  [Next](dmp21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp19)  [Next](dmp21.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ flame with Boel, Aniel, and give strength to the eyes of Heu (*bis*).
 
 ------------------------------------------------------------------------
 
-[Next: Col. XVIII](dmp21)
+[Next: Col. XVIII](dmp21.md)

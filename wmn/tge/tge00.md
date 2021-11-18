@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](tge01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](tge01.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ of attribution is left intact.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](tge01)
+[Next: Introduction](tge01.md)

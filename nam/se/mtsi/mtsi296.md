@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi295)  [Next](mtsi297) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi295)  [Next](mtsi297.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ teller.
 
 ------------------------------------------------------------------------
 
-[Next: 32. The Wolf and the Rabbit](mtsi297)
+[Next: 32. The Wolf and the Rabbit](mtsi297.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio61)  [Next](dio63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio61)  [Next](dio63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ images, we shall thus be borne, by hierarchical contemplations, to its
 Oneness through its parts.
 
 <span id="iv.iii.iv-p3"></span><span id="iv.iii.iv-p3.1"></span>II.
-Mysterion of Initiation of Muron <span id="fr_258"></span>[259](#fn_258)
+Mysterion of Initiation of Muron <span id="fr_258"></span>[259](#fn_258.md)
 .
 
 <span id="iv.iii.iv-p4"></span>In the same way as in the Synaxis, the
@@ -74,11 +74,11 @@ substance; thus, to copyists who love the beautiful <span
 id="page_112">p. 112</span> <span id="iv.iii.iv-Page_112"></span>in
 mind, the persistent and unflinching contemplation of the sweet-savoured
 and hidden beauty will confer the unerring and most Godlike
-appearance <span id="fr_259"></span>[260](#fn_259) . Naturally, then,
+appearance <span id="fr_259"></span>[260](#fn_259.md) . Naturally, then,
 the divine copyists, who unflinchingly mould their own intellectual
 contemplation to the superessentially sweet and contemplated comeliness,
 do. none of their divinely imitated virtues "to be seen of men <span
-id="fr_260"></span>[261](#fn_260) , as the Divine text expresses it; but
+id="fr_260"></span>[261](#fn_260.md) , as the Divine text expresses it; but
 reverently gaze upon the most holy things of the Church, veiled in the
 Divine Muron as in a figure. Wherefore, these also, by religiously
 concealing that which is holy and most Divine in virtue within their
@@ -238,7 +238,7 @@ highest Essence and Order around God; the first and middle and last of
 its contemplative and Godlike powers are altogether elevating, free, and
 supermundane. Hence the most holy wisdom of the Oracles, when reverently
 describing the formation of the wings, places the wings around their
-heads <span id="fr_261"></span>[262](#fn_261) , and middle, and feet;
+heads <span id="fr_261"></span>[262](#fn_261.md) , and middle, and feet;
 suggesting their complete covering with wings, and their manifold
 faculty of leading to the Really Being.
 
@@ -348,23 +348,23 @@ id="iv.iii.iv-Page_123"></span>
 
 ### Footnotes
 
-<span id="fn_258"></span>[110:259](dio62.htm#fr_258) <span
+<span id="fn_258"></span>[110:259](dio62.htm#fr_258.md) <span
 id="iv.iii.iv-p3.2"></span>Ap. C. iii. s. 17; viii. s. 28. See note, p.
 68. The Greeks have two kinds of sacred oil or Unguent, one specially
 blessed or consecrated by the Bishop, and another not necessarily so.
 
-<span id="fn_259"></span>[112:260](dio62.htm#fr_259) <span
+<span id="fn_259"></span>[112:260](dio62.htm#fr_259.md) <span
 id="iv.iii.iv-p7.1"></span>Plato, Rep. i. 6, ii. 116.
 
-<span id="fn_260"></span>[112:261](dio62.htm#fr_260) <span
+<span id="fn_260"></span>[112:261](dio62.htm#fr_260.md) <span
 id="iv.iii.iv-p7.2"></span><span id="iv.iii.iv-p7.3"></span>[Matt.
-xxiii. 5](../../bib/kjv/mat023.htm#005)<span
+xxiii. 5](../../bib/kjv/mat023.htm#005.md)<span
 id="iv.iii.iv-p7.3"></span>.
 
-<span id="fn_261"></span>[118:262](dio62.htm#fr_261) <span
+<span id="fn_261"></span>[118:262](dio62.htm#fr_261.md) <span
 id="iv.iii.iv-p20.1"></span><span id="iv.iii.iv-p20.2"></span>[Isa. vi.
-2](../../bib/kjv/isa006.htm#002)<span id="iv.iii.iv-p20.2"></span>.
+2](../../bib/kjv/isa006.htm#002.md)<span id="iv.iii.iv-p20.2"></span>.
 
 ------------------------------------------------------------------------
 
-[Next: Caput V.](dio63)
+[Next: Caput V.](dio63.md)

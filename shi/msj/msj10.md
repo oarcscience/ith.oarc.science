@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj09) 
-[Next](msj11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj09.md) 
+[Next](msj11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ following probably has reference to his bereavement.
 
 Drive us toward the glistening shell-strewn sand,  
 I would descend from out my ship, O waves!  
-"Shell of forgetfulness" <span id="fr_2"></span>[\*](#fn_2) clasped in
+"Shell of forgetfulness" <span id="fr_2"></span>[\*](#fn_2.md) clasped in
 my hand,  
 Then shall my soul obtain the peace it craves—  
 Forgetfulness of all the longing vain  
@@ -163,13 +163,13 @@ But just a phantasy!
 
 ### Footnotes
 
-<span id="fn_2"></span>[57:\*](msj10.htm#fr_2) Wasure-gai, shell of
+<span id="fn_2"></span>[57:\*](msj10.htm#fr_2.md) Wasure-gai, shell of
 forgetfulness—name of a Japanese shell.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: VIII.](msj11)
+[Next: VIII.](msj11.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw44)  [Next](omw46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw44)  [Next](omw46.md) 
 
 ------------------------------------------------------------------------
 
@@ -386,4 +386,4 @@ From Cupid and Psyche was born a daughter whom men call Voluptas.
 
 ------------------------------------------------------------------------
 
-[Next: Midir and Etain](omw46)
+[Next: Midir and Etain](omw46.md)

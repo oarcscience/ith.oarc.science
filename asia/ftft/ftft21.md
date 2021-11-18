@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft20)  [Next](ftft22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft20)  [Next](ftft22.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_150">p. 150</span>
 
-<span id="img_15000"></span> ![The Bird of Sorrow](img/15000.jpg)
+<span id="img_15000"></span> ![The Bird of Sorrow](img/15000.jpg.md)
 
 <span id="img_iinit"></span>
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N very remote times there lived a Padishah whose daughter was so much
 attached to her governess that she scarcely ever left her side. <span
@@ -95,7 +95,7 @@ id="img_15200"></span>
 
 |                                               |
 |-----------------------------------------------|
-| ![The Master beat her soundly](img/15200.jpg) |
+| ![The Master beat her soundly](img/15200.jpg.md) |
 
 One day the son of a Padishah, when out hunting, espied the girl in the
 tree. Mistaking her for a bird, he shot an arrow at her, but it merely
@@ -122,7 +122,7 @@ becoming as lovely as its mother.<span id="img_15300"></span>
 
 |                                           |
 |-------------------------------------------|
-| ![The bird stole the baby](img/15300.jpg) |
+| ![The bird stole the baby](img/15300.jpg.md) |
 
 One midnight came the bird, stole the babe, and besmeared the mother's
 lips with blood. Then it woke the Princess, and said: "Behold, I am
@@ -180,7 +180,7 @@ tenderness.
 <span id="img_15500"></span>
 
 [![The Bird of Sorrow broke all the cups and saucers](tn/15500.jpg)  
-Click to enlarge](img/15500.jpg)  
+Click to enlarge](img/15500.jpg.md)  
 The Bird of Sorrow broke all the cups and saucers  
 
 <span id="page_156">p. 156</span>
@@ -200,7 +200,7 @@ How fared it with the Prince?<span id="img_15600"></span>
 
 |                                                       |
 |-------------------------------------------------------|
-| ![The Opium smoker picked up the rose](img/15600.jpg) |
+| ![The Opium smoker picked up the rose](img/15600.jpg.md) |
 
 Sorrowing for his children and for his beloved wife, whom he believed to
 have been put to death, he grew morose and melancholy, passing the time
@@ -290,4 +290,4 @@ that henceforth they would never be parted from each other.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Pomegranate Branch and the Beauty](ftft22)
+[Next: The Enchanted Pomegranate Branch and the Beauty](ftft22.md)

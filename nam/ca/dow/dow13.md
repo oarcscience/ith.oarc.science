@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow12)  [Next](dow14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow12)  [Next](dow14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -128,14 +128,14 @@ on the south, one on the east, and one on the west--and each group began
 to speak differently from the others, and also differently from the one
 in the middle. This is the way the speech of the people began to break
 up into five languages, and this is the way the five tribes <span
-id="fr_9"></span>[10](#fn_9) began--the people being driven apart by the
+id="fr_9"></span>[10](#fn_9.md) began--the people being driven apart by the
 selfishness of Coyote.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_9"></span>[64:10](dow13.htm#fr_9) The *Me'wah* knew only
+<span id="fn_9"></span>[64:10](dow13.htm#fr_9.md) The *Me'wah* knew only
 five tribes: their own; the people to the north, whom they call
 *Tam-moo-lek* or *Tah-mah-lā'-ko* (from *Tah'-mah*, north); those on the
 east, whom they call *Mo'-nok* or *He'-sah-duk* (from *He'-sum*, east);
@@ -146,4 +146,4 @@ valley).
 
 ------------------------------------------------------------------------
 
-[Next: The Birth of *Wek'-wek* and the Creation of Man](dow14)
+[Next: The Birth of *Wek'-wek* and the Creation of Man](dow14.md)

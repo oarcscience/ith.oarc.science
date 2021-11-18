@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc62)  [Next](mtc64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc62)  [Next](mtc64.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -32,6 +32,6 @@ When sleep comes, then close your eyes.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Ts‘ui Ying-Ying](mtc64)
+[Next: The Story of Ts‘ui Ying-Ying](mtc64.md)
 
 </div>

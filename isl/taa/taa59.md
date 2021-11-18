@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa58)  [Next](taa60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa58)  [Next](taa60.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 ### LVI
 
 1\. (My goal is) the corniced palace of Baghdád, not the corniced palace
-of Sindád, <span id="fr_30"></span>[1](#fn_30)
+of Sindád, <span id="fr_30"></span>[1](#fn_30.md)
 
 2\. The city set like a crown above the gardens, as though she were a
 bride who has been unveiled in the most fragrant chamber.
@@ -68,7 +68,7 @@ Divine contemplation.
 
 ### Footnotes
 
-<span id="fn_30"></span>[142:1](taa59.htm#fr_30) The second hemistich of
+<span id="fn_30"></span>[142:1](taa59.htm#fr_30.md) The second hemistich of
 this verse is borrowed from the verses of al-Aswad b. Ya‘fur
 (MufA.Dḍaliyyát, ed. by Thorbecke, p. 52, 8-9; Bakrí, ed. by Wüstenfeld,
 105):
@@ -81,6 +81,6 @@ Sindád was a palace of Ḥíra.
 
 ------------------------------------------------------------------------
 
-[Next: LVII](taa60)
+[Next: LVII](taa60.md)
 
 </div>

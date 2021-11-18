@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Hosea](hos)  [Amos](amo)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Hosea](hos)  [Amos](amo.md)
 
 ------------------------------------------------------------------------
 
@@ -9,10 +9,10 @@
 
 ------------------------------------------------------------------------
 
-[Joel 1](joe001)  
+[Joel 1](joe001.md)  
 
-[Joel 2](joe002)  
+[Joel 2](joe002.md)  
 
-[Joel 3](joe003)  
+[Joel 3](joe003.md)  
 
-[Joel 4](joe004)  
+[Joel 4](joe004.md)  

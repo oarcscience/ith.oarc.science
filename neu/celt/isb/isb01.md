@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb00)  [Next](isb02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb00)  [Next](isb02.md) 
 
 ------------------------------------------------------------------------
 
@@ -833,4 +833,4 @@ morning, and may take soda-water with advantage.--Probatum est.
 ------------------------------------------------------------------------
 
 [Next: A Country-house in Kildare--sketches of an Irish family and
-farm](isb02)
+farm](isb02.md)

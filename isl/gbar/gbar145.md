@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar144) [Next](gbar146)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar144) [Next](gbar146.md)
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ entered in here, because God hath mercy upon sinners.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar146)
+[Next](gbar146.md)

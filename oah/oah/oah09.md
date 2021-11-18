@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah08)  [Next](oah10) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah08)  [Next](oah10.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Which is now pronounced Jehovih, and is written thus:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah10)
+[Next: Chapter II](oah10.md)

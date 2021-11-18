@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc120)  [Next](ffcc122) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc120)  [Next](ffcc122.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -61,7 +61,7 @@ mountain-side, as
 have done so often, and ask the old man of the house if he ever heard of
 such things as fairies, and he will tell you that 'there is fairies in
 it surely. Didn't his own father see the "forth" <span
-id="fr_9"></span>[1](#fn_9) beyond full of them, and he passing by of a
+id="fr_9"></span>[1](#fn_9.md) beyond full of them, and he passing by of a
 moonlight night and a little piper among them, and he playing music that
 mortal man never heard the like?' or he'll tell you that 'he himself
 wouldn't say agin fairies for it's often he heard their music at the old
@@ -227,7 +227,7 @@ if I may so put it, they saw what they expected to see.
 
 Fin Bheara, the King of the Connacht Fairies in Cnoc Meadha (or
 Castlehacket) in the County Galway, his Queen Nuala, and all the
-beautiful forms seen by Mr. Wentz's seer-witness (pp. [60](#page_60)
+beautiful forms seen by Mr. Wentz's seer-witness (pp. [60](#page_60.md)
 *ff.*), all the banshees and all the human figures, white women, and so
 forth, who are seen in raths and moats and on hill-sides, are the direct
 descendants, so to speak, of the Tuatha De Danann or the *Sidhe*. Of
@@ -342,7 +342,7 @@ since the curses of Christian priests fell upon it, on the calm air of
 summer evenings, at the twilight hour, wondrous music still sounds over
 its slopes, and at night long, weird processions of silent spirits march
 round its grass-grown *raths* and *forts*. <span
-id="fr_10"></span>[1](#fn_10) It is only men who fear the curse of the
+id="fr_10"></span>[1](#fn_10.md) It is only men who fear the curse of the
 Christians; the fairy-folk regard it not.
 
 The Rev. Father Peter Kenney, of Kilmessan, had directed me to John
@@ -414,7 +414,7 @@ home before the advent of the fairy procession. One of the passes used
 by this procession happened to be between two mud-wall houses; and it is
 said that a man went out of one of these houses at the wrong time, for
 when found he was dead: the fairies had *taken* him because he
-interfered with their procession.' <span id="fr_11"></span>[1](#fn_11)
+interfered with their procession.' <span id="fr_11"></span>[1](#fn_11.md)
 
 Death through Cutting Fairy-Bushes.--'A man named Caffney cut as fuel to
 boil his pot of potatoes some of these undisturbed bushes round which
@@ -773,7 +773,7 @@ indebted for the following valuable summary of the fairy creed in that
 part of North Galway where Finvara rules:--
 
 Fairies of the Tuam Country.--'The whole of Knock Ma (*Cnoc
-Meadha* <span id="fr_12"></span>[1](#fn_12)), which probably means Hill
+Meadha* <span id="fr_12"></span>[1](#fn_12).md), which probably means Hill
 of the Plain, is said to be the palace of Finvara, king of the Connaught
 
 <span id="page_43">p. 43</span>
@@ -834,7 +834,7 @@ and he by knocking the fairies about turns the battle in case the side
 he is on is losing. It is always usual for the Munster fairy king to
 challenge Finvara, the Connaught fairy king.'
 
-### COUNTY SLIGO, AND THE TESTIMONY OF A PEASANT SEER <span id="fr_13"></span>[1](#fn_13)
+### COUNTY SLIGO, AND THE TESTIMONY OF A PEASANT SEER <span id="fr_13"></span>[1](#fn_13.md)
 
 The Ben Bulbin country in County Sligo is one of those rare places in
 Ireland where fairies are thought to be visible, and our first witness
@@ -873,7 +873,7 @@ were walking around Ben Bulbin, saw one of the *gentry* for the first
 time. I knew who it was, for I had heard the *gentry* described ever
 since I could remember; and this one was dressed in blue with a
 head-dress adorned with what seemed to be frills. <span
-id="fr_14"></span>[1](#fn_14) When he came up to us, he said to me in a
+id="fr_14"></span>[1](#fn_14.md) When he came up to us, he said to me in a
 sweet and silvery voice, "The seldomer you come to this mountain the
 better. A young lady here wants to take you away." Then he told us not
 to fire off our guns, because the *gentry* dislike being disturbed by
@@ -949,7 +949,7 @@ the *gentry*, who are a distinct class, there are bad spirits and
 ghosts, which are nothing like them. My mother once saw a leprechaun
 beside a bush hammering. He disappeared before she could get to him, but
 he also was unlike one of the *gentry*.' <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 <span id="page_48">p. 48</span>
 
@@ -968,7 +968,7 @@ Ireland to get him started. The Father left us then; and with the help
 of Hugh's sister as an interpreter I took down what he said:--
 
 The Flax-Seller's Return from Faerie.--'An old woman near Lough More,
-where Father Patrick was drowned, <span id="fr_16"></span>[1](#fn_16)
+where Father Patrick was drowned, <span id="fr_16"></span>[1](#fn_16.md)
 who used to make her living by selling flax at the market, was *taken*
 by the *gentry*, and often came back afterwards to her three children to
 comb their hair. One time she told a neighbour that the money she saved
@@ -1121,7 +1121,7 @@ nor flint, and had human shape. It was found in the centre of a big rock
 on Innis-na-Gore; and round this rock light used to appear at night. The
 man who owned the stone decided to blast it up, and he found at its
 centre the enchantment--just like a man, with head and legs and
-arms. <span id="fr_17"></span>[1](#fn_17) Father Healy took the
+arms. <span id="fr_17"></span>[1](#fn_17.md) Father Healy took the
 enchantment away, when he was here on a visit, and said that it was a
 Druid enchanted, and that to get out of the rock was one part of the
 releasement, and that there would be a second and complete releasement
@@ -1320,8 +1320,8 @@ An Ossianic Fragment.--'A man went away with the *good people* (or
 back riding on a horse of the *good people*, he saw some men in a quarry
 trying to move a big stone. He helped them with it, but his saddle-girth
 broke, and he fell to the ground. The horse ran away, and he was left
-there, an old man' <span id="fr_18"></span>[1](#fn_18) (cf. pp.
-[346](ffcc260.htm#page_346)-7).
+there, an old man' <span id="fr_18"></span>[1](#fn_18.md) (cf. pp.
+[346](ffcc260.htm#page_346)-7.md).
 
 <span id="page_58">p. 58</span>
 
@@ -1375,7 +1375,7 @@ Gods and Initiates now as it was when the Sacred Fires flashed from its
 purple, heather-covered mountain-tops and mysterious round towers, and
 the Greater Mysteries drew to its hallowed shrines neophytes from the
 West as well as from the East, from India and Egypt as well as from
-Atlantis; <span id="fr_19"></span>[1](#fn_19) and Erin's mystic-seeing
+Atlantis; <span id="fr_19"></span>[1](#fn_19.md) and Erin's mystic-seeing
 sons still watch and wait for the relighting of the Fires and the
 restoration of the old Druidic Mysteries. Herein I but imperfectly echo
 the mystic message Ireland's seers gave me, a pilgrim to their Sacred
@@ -1681,7 +1681,7 @@ having likewise had collective visions of *Sidhe* beings in Ireland.
 This is what Mr. William B. Yeats wrote to me, while this study was in
 progress, concerning the Celtic Fairy Kingdom:--'I am certain that it
 exists, and will some day be studied as it was studied by Kirk.' <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 ### INDEPENDENT EVIDENCE FROM THE *SIDHE* WORLD
 
@@ -1872,7 +1872,7 @@ and he was most perfectly formed, with a little mouth and eyes.' Nothing
 was told about the little fellow having a money-bag, although the woman
 said people told her afterwards that she would have been rich if she had
 only had sense enough to catch him when she had so good a chance. <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 The Death Coach.--The next tale the mother told was about the death
 coach which used to pass by the very house we were in. Every night until
@@ -2128,8 +2128,8 @@ light and running back and forth as fast as you could wink.
 <span id="page_78">p. 78</span>
 
 I thought the woman might be the spirit of Nancy Frink, but I was not
-sure.' (Cf. pp. [60](#page_60) ff., [83](#page_83),
-[155](ffcc124.htm#page_155), [215](ffcc126.htm#page_215).)
+sure.' (Cf. pp. [60](#page_60) ff., [83](#page_83.md),
+[155](ffcc124.htm#page_155), [215](ffcc126.htm#page_215)..md)
 
 ### EVIDENCE FROM LOUGH GUR, COUNTY LIMERICK
 
@@ -2152,12 +2152,12 @@ one that is fortunate enough to behold it. At such a time of
 disenchantment a Tree is seen growing up through the lake-bottom--a Tree
 like the strange World-Tree of Scandinavian myth. The Tree is covered
 with a Green Cloth, and under it sits the lake's guardian, a woman
-knitting. <span id="fr_22"></span>[1](#fn_22) The peasantry about Lough
+knitting. <span id="fr_22"></span>[1](#fn_22.md) The peasantry about Lough
 Gur still believe that beneath its waters there is one of the chief
 entrances in Ireland to *Tir-na-nog*, the 'Land of Youth', the Fairy
 Realm. And when a child is stolen by the Munster fairies, 'Lough Gur is
 conjectured to be the place of its unearthly transmutation from the
-human to the fairy state.' <span id="fr_23"></span>[1](#fn_22)
+human to the fairy state.' <span id="fr_23"></span>[1](#fn_22.md)
 
 <span id="page_79">p. 79</span>
 
@@ -2175,7 +2175,7 @@ of an ancient Irish goddess, derived from *an,* "bright." The other, the
 highest hill on the lake-shores, is called Knock Fennel or Hill of the
 Goddess Fennel, from *Finnen* or *Finnine* or *Fininne*, a form of
 *fin*, "white." The peasantry of the region call Aine one of the Good
-People; <span id="fr_24"></span>[1](#fn_23) and they say that
+People; <span id="fr_24"></span>[1](#fn_23.md) and they say that
 
 <span id="page_80">p. 80</span>
 
@@ -2205,14 +2205,14 @@ the women who steer which makes them visible.
 good habits, assures me that he also has seen this fairy boat-race, and
 that it can still be seen at the proper season.'
 
-The Bean-Tighe. <span id="fr_25"></span>[1](#fn_24)--'The *Bean-tighe*,
+The Bean-Tighe. <span id="fr_25"></span>[1](#fn_24.md)--'The *Bean-tighe*,
 the fairy housekeeper of the enchanted submerged castle of the Earl of
 Desmond, is supposed to appear sitting on art ancient earthen monument
 shaped like a great chair and hence called *Suidheachan,* the
 "Housekeeper's Little Seat," on Knock Adoon (Hill of the Fort), which
 juts out into the Lough. The *Bean-tighe,* as I have heard an old
 peasant tell the tale, was once asleep on her Seat, when the
-*Buachailleen* <span id="fr_26"></span>[2](#fn_25) or "Little Herd Boy"
+*Buachailleen* <span id="fr_26"></span>[2](#fn_25.md) or "Little Herd Boy"
 
 <span id="page_82">p. 82</span>
 
@@ -2220,7 +2220,7 @@ stole her golden comb. When the *Bean-tighe* awoke and saw what had
 happened, she cast a curse upon the cattle of the *Buachailleen,* and
 soon all of them were dead, and then the "Little Herd Boy" himself died,
 but before his death he ordered the golden comb to be cast into the
-Lough.' <span id="fr_27"></span>[1](#fn_26)
+Lough.' <span id="fr_27"></span>[1](#fn_26.md)
 
 Lough Gur Fairies in General.--'The peasantry in the Lough Gur region
 commonly speak of the *Good People* or of the *Kind People* or of the
@@ -2238,7 +2238,7 @@ continue the practice, for fear of "Them People" (the fairies). One
 evening in particular I was warned by her not to venture on the lake.
 She solemnly asserted that the" Powers of Darkness" were then abroad,
 and that it would be misfortune for me to be in their path. <span
-id="fr_28"></span>[2](#fn_27)
+id="fr_28"></span>[2](#fn_27.md)
 
 'Under ordinary circumstances, as a very close observer of the Lough Gur
 peasantry informs me, the old people will
@@ -2286,9 +2286,9 @@ no more of them. It was the first time we had ever seen such phenomena,
 and in our hurry to get home we were not wise enough to stop and make
 further examination. But ever since that night I have frequently seen,
 both in Ireland and in England, similar lights with spiritual beings in
-them.' (Cf. pp. [60](#page_60) ff., [77](#page_77),
-[133](ffcc123.htm#page_133), [155](ffcc124.htm#page_155),
-[215](ffcc126.htm#page_215), [483](ffcc411.htm#page_483).)
+them.' (Cf. pp. [60](#page_60) ff., [77](#page_77.md),
+[133](ffcc123.htm#page_133), [155](ffcc124.htm#page_155.md),
+[215](ffcc126.htm#page_215), [483](ffcc411.htm#page_483)..md)
 
 Reality of the Spiritual World.--'Like my companion, who saw all that I
 saw of the first three lights, I formerly had always been a sceptic as
@@ -2311,10 +2311,10 @@ beings.' (Recorded in Oxford, England, August 12, 1911.)
 
 ### Footnotes
 
-<span id="fn_9"></span>[24:1](ffcc121.htm#fr_9) Anglo-Irish for *rath*,
+<span id="fn_9"></span>[24:1](ffcc121.htm#fr_9.md) Anglo-Irish for *rath*,
 a circular earthen fort.
 
-<span id="fn_10"></span>[31:1](ffcc121.htm#fr_10) Throughout Ireland
+<span id="fn_10"></span>[31:1](ffcc121.htm#fr_10.md) Throughout Ireland
 there are many ancient, often prehistoric, earth-works or tumuli, which
 are popularly called *forts*, *raths*, or *duns*, and in folk-belief
 these are considered *fairy* hills or the abodes of various orders of
@@ -2325,18 +2325,18 @@ built the *forts*. As we proceed, we shall see how important and varied
 a part these earthworks play in the Irish Fairy-Faith (cf. chapter viii,
 on Archaeology).
 
-<span id="fn_11"></span>[33:1](ffcc121.htm#fr_11) An Irish mystic, and
+<span id="fn_11"></span>[33:1](ffcc121.htm#fr_11.md) An Irish mystic, and
 seer of great power, with whom I have often discussed the Fairy-Faith in
 its details, regards 'fairy paths' or 'fairy passes' as actual magnetic
 arteries, so to speak, through which circulates the earth's magnetism.
 
-<span id="fn_12"></span>[42:1](ffcc121.htm#fr_12) Irish scholars differ
+<span id="fn_12"></span>[42:1](ffcc121.htm#fr_12.md) Irish scholars differ
 as to the signification of *Meadha*. Some say that it is the genitive
 case of *Meadh*, the name of some ancient chieftain who was buried in
 the hill. *Knock Magh* is the spelling often used by writers who hold
 that the name means "Hill of the Plain".'--JOHN GLYNN.
 
-<span id="fn_13"></span>[44:1](ffcc121.htm#fr_13) On September 8, 1909,
+<span id="fn_13"></span>[44:1](ffcc121.htm#fr_13.md) On September 8, 1909,
 about a year after this testimony was given, Mr. ------, our
 seer-witness, at his own home near Grange, told to me again the same
 essential facts concerning his psychical experiences as during my first
@@ -2352,11 +2352,11 @@ this additional statement:--'The *gentry* do not tell all their secrets,
 and I do not understand many things about them, nor can I be sure that
 everything I tell concerning them is exact.'
 
-<span id="fn_14"></span>[45:1](ffcc121.htm#fr_14) A learned and more
+<span id="fn_14"></span>[45:1](ffcc121.htm#fr_14.md) A learned and more
 careful Irish seer thinks this head-dress should really be described as
 an aura.
 
-<span id="fn_15"></span>[47:1](ffcc121.htm#fr_15) I have been told by a
+<span id="fn_15"></span>[47:1](ffcc121.htm#fr_15.md) I have been told by a
 friend in California, who is a student of psychical sciences, that there
 exist in certain parts of that state, notably in the Yosemite Valley, as
 the Red Men seem to have known, according to their traditions, invisible
@@ -2364,7 +2364,7 @@ races exactly comparable to the 'gentry' of this Ben Bulbin country such
 as our seer-witness describes them and as other seers in Ireland have
 described them, and quite like the 'people of peace' as described by
 Kirk, the seventh son, in his *Secret Commonwealth* (see this study, [p.
-85](ffcc122.htm#page_85) n.). These California races are said to exist
+85](ffcc122.htm#page_85) n..md). These California races are said to exist
 now, as the Irish and Scotch invisible races are said to exist now, by
 seers who <span id="page_48">p. 48</span> can behold them; and, like the
 latter races, are described as a distinct order of beings who have never
@@ -2375,22 +2375,22 @@ with their Celtic relatives they are described as a warlike race with
 more than human powers over physical nature, and as able to subject or
 destroy men.
 
-<span id="fn_16"></span>[48:1](ffcc121.htm#fr_16) This refers to a tale
+<span id="fn_16"></span>[48:1](ffcc121.htm#fr_16.md) This refers to a tale
 told by Hugh Currid, in August, 1908, about Father Patrick and Father
 Dominick, which is here omitted because re-investigation during my
 second visit to Grange, in September, 1909, showed the tale to have been
 incorrectly reported. The same story, however, based upon facts,
 according to several reliable witnesses, was more accurately told by
 Patrick Waters at the time of my re-Investigation, and appears on page
-[51](#page_51).
+[51](#page_51.md).
 
-<span id="fn_17"></span>[52:1](ffcc121.htm#fr_17) It happened that I had
+<span id="fn_17"></span>[52:1](ffcc121.htm#fr_17.md) It happened that I had
 in my pocket a fossil, picked out of the neighbouring sea-cliff rocks,
 which are very rich in fossils. I showed this to Pat to ascertain if
 what he had had in his hand looked anything like it, and he at once said
 'No'.
 
-<span id="fn_18"></span>[57:1](ffcc121.htm#fr_18) After this Ossianic
+<span id="fn_18"></span>[57:1](ffcc121.htm#fr_18.md) After this Ossianic
 fragment, which has been handed down orally, I asked Pat if he had ever
 heard the old people talk about Dermot and Grania, and he replied;--'To
 be sure I have. Dermot and Grania used to <span id="page_58">p.
@@ -2402,14 +2402,14 @@ sand (the sea-shore); and when on the sand he would use the bunch of
 heather for a pillow, and say he had slept on the heather (the
 mountains). And so nobody ever caught him at all.'
 
-<span id="fn_19"></span>[59:1](ffcc121.htm#fr_19) As to probable proof
-that there was an Atlantis, see [p. 333](ffcc260.htm#page_333) n.
+<span id="fn_19"></span>[59:1](ffcc121.htm#fr_19.md) As to probable proof
+that there was an Atlantis, see [p. 333](ffcc260.htm#page_333.md) n.
 
-<span id="fn_20"></span>[66:1](ffcc121.htm#fr_20) This refers to Robert
+<span id="fn_20"></span>[66:1](ffcc121.htm#fr_20.md) This refers to Robert
 Kirk, minister of Aberfoyle, who wrote *The Secret Commonwealth* (see
-this study, [p. 85](ffcc122.htm#page_85) n.).
+this study, [p. 85](ffcc122.htm#page_85) n..md).
 
-<span id="fn_21"></span>[71:1](ffcc121.htm#fr_21) 'In going from East
+<span id="fn_21"></span>[71:1](ffcc121.htm#fr_21.md) 'In going from East
 Ireland to Galway, during the summer of 1908, I passed through the
 country near Mullingar, where there was then great excitement over a
 leprechaun which had been appearing to school-children and to many of
@@ -2427,7 +2427,7 @@ though it is likely one might get his gold if they got him cornered so
 he had no chance to run away. But the minute you wink or take your eyes
 off the little devil, sure enough he is gone.'
 
-<span id="fn_22"></span>[78:1](ffcc121.htm#fr_23) Cf. David Fitzgerald,
+<span id="fn_22"></span>[78:1](ffcc121.htm#fr_23.md) Cf. David Fitzgerald,
 *Popular Tales of Ireland*, in *Rev. Celt.*, iv. 185-92; and *All the
 Year Round*, New Series, iii. 'This woman guardian of the lake is called
 Toice Bhrean, "untidy" or "lazy wench". According to a local legend, she
@@ -2437,7 +2437,7 @@ corresponds to Liban, daughter of Eochaidh Finn, the guardian of the
 sacred well from which issued Lough Neagh, according to the
 *Dinnshenchas* and the tale of Eochaidh MacMairido.'--J. F. LYNCH.
 
-<span id="fn_23"></span>[79:1](ffcc121.htm#fr_24) It was on the bank of
+<span id="fn_23"></span>[79:1](ffcc121.htm#fr_24.md) It was on the bank of
 the little river Camóg, which flows near Lough Gur, that the Earl of
 Desmond one day saw Aine as she sat there combing her hair. Overcome
 with love for the fairy-goddess, he gained control over her through
@@ -2462,7 +2462,7 @@ Geróid, close to Garrod Island--so named from Geróid or 'Gerald'.
 
 Geróid lives there in the under-lake world to this day, awaiting the
 time of his normal return to the world of men (see our chapter on
-re-birth, [p. 386](ffcc270.htm#page_386)). But once in every seven
+re-birth, [p. 386](ffcc270.htm#page_386).md). But once in every seven
 years, on clear moonlight nights, he emerges temporarily, when the Lough
 Gur peasantry see him as a phantom mounted on a phantom white horse,
 leading a phantom or fairy cavalcade across the lake and land. A
@@ -2482,7 +2482,7 @@ bunches of straw and hay tied on poles used to march in procession from
 the hill and afterwards run through cultivated fields and amongst the
 cattle. The underlying purpose of this latter ceremony probably was--as
 is the case in the Isle of Man and in Brittany (see pp.
-[124](ffcc123.htm#page_124) n., [273](ffcc130.htm#page_273)), where
+[124](ffcc123.htm#page_124) n., [273](ffcc130.htm#page_273).md), where
 corresponding fire-ceremonies surviving from an ancient agricultural
 cult are still celebrated--to exorcise the land from all evil spirits
 and witches in order that there may be good harvests and rich increase
@@ -2503,7 +2503,7 @@ her account *'Aine cliach*, now Cnoc Aine, or Knockany'. In another
 passage we read that Manannan took Aine as his wife (ib., ii. 197). Also
 see in *Silva Gadelica*, ii, pp. 225, 576.
 
-<span id="fn_24"></span>[81:1](ffcc121.htm#fr_25) 'In some local tales
+<span id="fn_24"></span>[81:1](ffcc121.htm#fr_25.md) 'In some local tales
 the *Bean-tighe*, or *Bean a'tighe* is termed *Beansidhe* (Banshee), and
 *Bean Chaointe*, or "wailing woman ", and is identified with Aine. In an
 elegy by Ferriter on one of the Fitzgeralds, we read:--
@@ -2532,7 +2532,7 @@ returned.' Both sisters are on record as having distinctly heard the
 fairy music, and for a long time *(All the Year Round,* New Series, iii.
 496--7; London, 1870).
 
-<span id="fn_25"></span>[81:2](ffcc121.htm#fr_26) The *Buachailleen* is
+<span id="fn_25"></span>[81:2](ffcc121.htm#fr_26.md) The *Buachailleen* is
 most likely one of the many forms assumed by the shape-shifting Fer Fi,
 the Lough Gur Dwarf, who at Tara, according to the *Dinnshenchas* of
 Tuag Inbir (see *Folk-Lore,* iii; and A. Nutt, *Voyage of Bran*, i. 195
@@ -2549,16 +2549,16 @@ disrespectfully of the Dwarf to John Punch, an old man, and he said to
 me in a frightened whisper: "Whisht! he'll hear you." Edward Fitzgerald
 and other old men were very much afraid of the Dwarf.'--J. F. LYNCH.
 
-<span id="fn_26"></span>[82:1](ffcc121.htm#fr_27) 'Compare the tale of
+<span id="fn_26"></span>[82:1](ffcc121.htm#fr_27.md) 'Compare the tale of
 Excalibur, the Sword of King Arthur, which King Arthur before his death
 ordered Sir Bedivere to cast into the lake whence it had come. '--J. F.
 LYNCH.
 
-<span id="fn_27"></span>[82:2](ffcc121.htm#fr_28) 'It is commonly
+<span id="fn_27"></span>[82:2](ffcc121.htm#fr_28.md) 'It is commonly
 believed by young and old at Lough Gur that a human being is drowned in
 the Lake once every seven years, and that it is the *Bean Fhionn*, or
 "White Lady" who thus *takes* the person.'--J. F. LYNCH.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Taking of Evidence: III. In Scotland](ffcc122)
+[Next: Chapter II. Taking of Evidence: III. In Scotland](ffcc122.md)

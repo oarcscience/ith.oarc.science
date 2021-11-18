@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr01)  [Next](corr03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr01)  [Next](corr03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -76,7 +76,7 @@ When these points have been demonstrated, my distinguished questioner
 will readily perceive my drift, if he reflects at the same time on the
 definition of God. In order to prove them clearly and briefly, I can
 think of nothing better than to submit them to the bar of your judgment
-proved in the geometrical method. <span id="fr_3"></span>[1](#fn_3) I
+proved in the geometrical method. <span id="fr_3"></span>[1](#fn_3.md) I
 therefore enclose them separately and await your verdict upon them.
 
 Again, you ask me what errors I detect in the Cartesian and Baconian
@@ -115,7 +115,7 @@ may all be reduced to the
 one Cartesian principle, that the human will is free and more extensive
 than the intellect, or, as Verulam himself more confusedly puts it, that
 "the understanding is not a dry light, but receives infusion from the
-will." <span id="fr_4"></span>[1](#fn_4) (We may here observe that
+will." <span id="fr_4"></span>[1](#fn_4.md) (We may here observe that
 Verulam often employs "intellect" as synonymous with mind, differing in
 this respect from Descartes). This cause, then, leaving aside the others
 as unimportant, I shall show to be false; indeed its falsity would be
@@ -139,12 +139,12 @@ nowise by the will. This is what I undertook to prove.
 
 ### Footnotes
 
-<span id="fn_3"></span>[278:1](corr02.htm#fr_3) The allusion is to Eth.
+<span id="fn_3"></span>[278:1](corr02.htm#fr_3.md) The allusion is to Eth.
 I., Beginning—Prop. iv.
 
-<span id="fn_4"></span>[279:1](corr02.htm#fr_4) Bacon, Nov. Org. I. Aph.
+<span id="fn_4"></span>[279:1](corr02.htm#fr_4.md) Bacon, Nov. Org. I. Aph.
 49.
 
 ------------------------------------------------------------------------
 
-[Next: Letter III. From Oldenburg](corr03)
+[Next: Letter III. From Oldenburg](corr03.md)

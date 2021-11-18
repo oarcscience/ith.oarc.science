@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Next](aia01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Next](aia01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ attribution is included intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](aia01)
+[Next: Preface](aia01.md)

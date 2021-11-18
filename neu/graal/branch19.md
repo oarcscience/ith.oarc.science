@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch18) 
-[Next](branch20) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch18.md) 
+[Next](branch20.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -210,5 +210,5 @@ and to slay his men and to challenge his castles.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XX](branch20)  
+XX](branch20.md)  
 </span>

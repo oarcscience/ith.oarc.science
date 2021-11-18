@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam12)  [Next](adam14) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam12)  [Next](adam14.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ up to Him and no power except by Him.
 
 ------------------------------------------------------------------------
 
-[Next: The marriage of the children of Adam PUH](adam14)
+[Next: The marriage of the children of Adam PUH](adam14.md)

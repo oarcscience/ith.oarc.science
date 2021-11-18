@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic017)  [Next](lfic019) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic017)  [Next](lfic019.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ preserved.
 
 ------------------------------------------------------------------------
 
-[Next: The Palace in the Rath](lfic019)
+[Next: The Palace in the Rath](lfic019.md)

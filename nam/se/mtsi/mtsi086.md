@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi085)  [Next](mtsi087) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi085)  [Next](mtsi087.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ yourselves," said He, and ever since the women have worked the fields.
 
 ------------------------------------------------------------------------
 
-[Next: 85. The Devil's Tasks](mtsi087)
+[Next: 85. The Devil's Tasks](mtsi087.md)

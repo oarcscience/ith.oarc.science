@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla16)  [Next](mla18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla16)  [Next](mla18.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ the story of the disobedience and punishment of the wandering boys.
 ------------------------------------------------------------------------
 
 [Next: Mirragan, the Fisherman: A Tale of the Wollandilly River,
-Whambeyan and Jenolan Caves](mla18)
+Whambeyan and Jenolan Caves](mla18.md)

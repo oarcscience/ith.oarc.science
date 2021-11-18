@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg61)  [Next](btg63) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg61)  [Next](btg63.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ knew me not, even when I vanished away."
 
 ------------------------------------------------------------------------
 
-[Next: Parables & Stories](btg63)
+[Next: Parables & Stories](btg63.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](itp00)    [Page
-Index](pageidx)    [Text \[Zipped\]](itp.txt.gz)
+[Contents](#contents)    [Start Reading](itp00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](itp.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -47,28 +47,28 @@ very rarely dealt with by western writers.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](itp00)  
-[Note](itp01)  
-[Contents](itp02)  
-[Introduction](itp03)  
+<span id="contents"></span> [Title Page](itp00.md)  
+[Note](itp01.md)  
+[Contents](itp02.md)  
+[Introduction](itp03.md)  
 <span id="section_000"></span>
 
 ### Part I. The Intermediate in the Service of Religion
 
-[Chapter I. As Prophet or Priest](itp04)  
-[Chapter II. As Wizard or Witch](itp05)  
-[Chapter III. As Inventors of the Arts and Crafts](itp06)  
-[Chapter IV. Hermaphrodism among Gods and Mortals](itp07)  
+[Chapter I. As Prophet or Priest](itp04.md)  
+[Chapter II. As Wizard or Witch](itp05.md)  
+[Chapter III. As Inventors of the Arts and Crafts](itp06.md)  
+[Chapter IV. Hermaphrodism among Gods and Mortals](itp07.md)  
 <span id="section_001"></span>
 
 ### Part II. The Intermediate as Warrior
 
-[Chapter V. Military Comradeship among the Dorian Greeks](itp08)  
+[Chapter V. Military Comradeship among the Dorian Greeks](itp08.md)  
 [Chapter VI. The Dorian Comradeship in Relation to the Status of
-Woman](itp09)  
-[Chapter VII. Relation to Civic Life and Religion](itp10)  
-[Chapter VIII. The Samurai of Japan: and their Ideal](itp11)  
+Woman](itp09.md)  
+[Chapter VII. Relation to Civic Life and Religion](itp10.md)  
+[Chapter VIII. The Samurai of Japan: and their Ideal](itp11.md)  
 
  
 
-[Conclusion](itp12)  
+[Conclusion](itp12.md)  

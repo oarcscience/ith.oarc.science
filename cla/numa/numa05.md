@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](numa04)  [Next](numa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](numa04)  [Next](numa06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1048,4 +1048,4 @@ chapter.
 
 ------------------------------------------------------------------------
 
-[Next: The Decline of Faith](numa06)
+[Next: The Decline of Faith](numa06.md)

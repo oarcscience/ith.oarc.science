@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog25)  [Next](bog27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog25)  [Next](bog27.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ blessed with health, harmony and unfailing love. Blessed be."
 
 ------------------------------------------------------------------------
 
-[Next: Sixth Principle: Athena](bog27)
+[Next: Sixth Principle: Athena](bog27.md)

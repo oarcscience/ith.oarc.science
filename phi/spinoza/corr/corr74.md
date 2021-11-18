@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr73)  [Next](corr75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr73)  [Next](corr75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ At first I resolved to leave your letter unanswered, thinking that time
 and experience will assuredly be of more avail than reasoning, to
 restore you to yourself and your friends; not to mention other
 arguments, which won your approval formerly, when we were discussing the
-case of Steno, <span id="fr_86"></span>[1](#fn_85) in whose steps you
+case of Steno, <span id="fr_86"></span>[1](#fn_85.md) in whose steps you
 are now following. But some of my friends, who like myself had formed
 great hopes from your superior talents, strenuously urge me not to fail
 in the offices of a friend, but to consider what you lately were, rather
@@ -145,7 +145,7 @@ false. I myself knew
 <span id="page_418">p. 418</span>
 
 among others of a certain Judah called the faithful, <span
-id="fr_87"></span>[1](#fn_86) who in the midst of the flames, when he
+id="fr_87"></span>[1](#fn_86.md) who in the midst of the flames, when he
 was already thought to be dead, lifted his voice to sing the hymn
 beginning, "To Thee, O God, I offer up my soul," and so singing
 perished.
@@ -205,10 +205,10 @@ Farewell, &c.
 
 ### Footnotes
 
-<span id="fn_85"></span>[415:1](corr74.htm#fr_86) A Danish anatomist,
+<span id="fn_85"></span>[415:1](corr74.htm#fr_86.md) A Danish anatomist,
 who renounced Lutheranism for Catholicism at Florence in 1669.
 
-<span id="fn_86"></span>[418:1](corr74.htm#fr_87) "Don Lope de Vera y
+<span id="fn_86"></span>[418:1](corr74.htm#fr_87.md) "Don Lope de Vera y
 Alarcon de San Clemente, a Spanish nobleman who was converted to Judaism
 through the study of Hebrew, and was burnt at Valladolid on the 25th
 July, 1644."—<span class="smallcaps">Pollock's</span> *Spinoza*, chap.
@@ -220,4 +220,4 @@ certainly not, an eye-witness.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXXV. To Lambert Van Velthuysen](corr75)
+[Next: Letter LXXV. To Lambert Van Velthuysen](corr75.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi216)  [Next](mtsi218) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi216)  [Next](mtsi218.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ it turned into insects of all kinds which flew away.
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Obstacle Flight (Second Version)](mtsi218)
+[Next: 18. The Obstacle Flight (Second Version)](mtsi218.md)

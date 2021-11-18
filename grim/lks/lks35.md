@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks34)  [Next](lks36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks34)  [Next](lks36.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ Adonai, Amioran. Come! for I am Adonai who stir thee up.
 
 ------------------------------------------------------------------------
 
-[Next: Ye Potent Invocatioun Of Hys Kynge](lks36)
+[Next: Ye Potent Invocatioun Of Hys Kynge](lks36.md)

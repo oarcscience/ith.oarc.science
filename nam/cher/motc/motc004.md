@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc003) 
-[Next](motc005) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc003.md) 
+[Next](motc005.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ for a sick man the spirit of the plant tells him.
 
 ------------------------------------------------------------------------
 
-[Next: 5. The Daughter Of The Sun](motc005)
+[Next: 5. The Daughter Of The Sun](motc005.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray006)  [Next](pray008) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray006)  [Next](pray008.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,9 +34,9 @@ from all earthly cares and affections. The ceremony of lifting up our
 hands in prayer is designed to remind us that we are far removed from
 God, unless our thoughts rise upward: as it is said in the psalm, "Unto
 thee, O Lord, do I lift up my soul" (<span id="iii.v-p1.1"></span>[Psalm
-25:1](../../../bib/kjv/psa025.htm#001)<span id="iii.v-p1.1"></span><span
+25:1](../../../bib/kjv/psa025.htm#001.md)<span id="iii.v-p1.1"></span><span
 id="iii.v-p1.2"></span>[Psalm
-25:1](../../../bib/kjv/psa025.htm#001)<span id="iii.v-p1.2"></span>).
+25:1](../../../bib/kjv/psa025.htm#001)<span id="iii.v-p1.2"></span>.md).
 And Scripture repeatedly uses the expression to *raise our prayers*
 meaning that those who would be heard by God must not grovel in the
 mire. The sum is, that the more liberally God deals with us,
@@ -50,7 +50,7 @@ impediments, rise upward.
 <span id="iii.v-p2"></span>Our second proposition was, that we are to
 ask only in so far as God permits. For though he bids us pour out our
 hearts (<span id="iii.v-p2.1"></span>[Psalm
-62:8](../../../bib/kjv/psa062.htm#008)<span id="iii.v-p2.1"></span>), he
+62:8](../../../bib/kjv/psa062.htm#008)<span id="iii.v-p2.1"></span>.md), he
 does not indiscriminately give loose reins to foolish and depraved
 affections; and when he promises that he will grant believers their
 wish, his indulgence does not proceed so far as to submit to their
@@ -73,7 +73,7 @@ restraint of his authority. We must, therefore, attend to the
 observation of John: "This is the confidence that we have in him, that
 if we ask anything according to his will, he heareth us" (<span
 id="iii.v-p2.2"></span>[1 John
-5:14](../../../bib/kjv/jo1005.htm#014)<span id="iii.v-p2.2"></span>).
+5:14](../../../bib/kjv/jo1005.htm#014)<span id="iii.v-p2.2"></span>.md).
 
 <span id="iii.v-p3"></span>But as our faculties are far from being able
 to attain to such high perfection, we must seek for some means to assist
@@ -85,7 +85,7 @@ of the Spirit in our prayers to dictate what is right, and regulate our
 affections. For seeing "we know not what we should pray for as we
 ought," "the Spirit itself maketh intercession for us with groanings
 which cannot be uttered" (<span id="iii.v-p3.1"></span>[Romans
-8:26](../../../bib/kjv/rom008.htm#026)<span id="iii.v-p3.1"></span>) not
+8:26](../../../bib/kjv/rom008.htm#026)<span id="iii.v-p3.1"></span>.md) not
 that he actually prays or groans, but he excites in us sighs, and
 wishes, and confidence, which our natural powers are not at all able to
 conceive. Nor is it without cause Paul gives the name of *groanings
@@ -102,7 +102,7 @@ possession of our minds while otherwise occupied. Our meaning is, that,
 weary of our own heartlessness and sloth, we are to long for the aid of
 the Spirit. Nor, indeed, does Paul, when he enjoins us to pray *in the
 Spirit* (<span id="iii.v-p3.2"></span>[1 Corinthians
-14:15](../../../bib/kjv/co1014.htm#015)<span id="iii.v-p3.2"></span>),
+14:15](../../../bib/kjv/co1014.htm#015)<span id="iii.v-p3.2"></span>.md),
 cease to exhort us to vigilance, intimating, that while the inspiration
 of the Spirit is effectual to the formation of prayer, it by no means
 impedes or retards our own endeavours; since in this matter God is
@@ -110,4 +110,4 @@ pleased to try how efficiently faith influences our hearts.
 
 ------------------------------------------------------------------------
 
-[Next: 6.](pray008)
+[Next: 6.](pray008.md)

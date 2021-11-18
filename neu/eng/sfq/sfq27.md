@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq26)  [Next](sfq28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq26)  [Next](sfq28.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ all the guests in the castle betook themselves to rest.
 
 ------------------------------------------------------------------------
 
-[Next: Braggadochio](sfq28)
+[Next: Braggadochio](sfq28.md)

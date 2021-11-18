@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo52)  [Next](sdo54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo52)  [Next](sdo54.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ enjoyable day and an effective performance of a ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: Sicun](sdo54)
+[Next: Sicun](sdo54.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps50)  [Next](rps52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps50)  [Next](rps52.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ BLACK SUPREMACY. K.A.Q.O.K. O.K.S.J.W.A.B.C., L.L.D.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 48 a. Owner of the Zodiac](rps52)
+[Next: Chapter 48 a. Owner of the Zodiac](rps52.md)

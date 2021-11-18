@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi056)  [Next](mtsi058) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi056)  [Next](mtsi058.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ wondered how the Rabbit could stand such awful scenes.
 
 ------------------------------------------------------------------------
 
-[Next: 56. Terrapin Races](mtsi058)
+[Next: 56. Terrapin Races](mtsi058.md)

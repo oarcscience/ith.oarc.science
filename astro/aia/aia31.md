@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia30)  [Next](aia32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia30)  [Next](aia32.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 *If one shall have Children, yea or nay*?
 
 HEREIN generally consider whether the signs ascending and on the 5th
-house be fruitful; <span id="fr_88"></span>[1](#fn_88) whether the lord
+house be fruitful; <span id="fr_88"></span>[1](#fn_88.md) whether the lord
 of the ascendant, or the ☽ be in aspect with the lord of the 5th, and if
 so, whether the lord of the 5th be strong, and also the planet or
 planets in the 5th or in aspect with its lord. These are signs the
@@ -168,7 +168,7 @@ of the ascendant goes out of one sign into another; that is also a
 probable period for the birth. See, also, how far the lord of the 5th is
 from the cusp of the 5th, and give to every sign one month. Judge
 according to the majority of these testimonies. <span
-id="fr_89"></span>[1](#fn_89)
+id="fr_89"></span>[1](#fn_89.md)
 
 OF AMBASSADORS OR MESSENGERS.
 
@@ -239,7 +239,7 @@ to be in days, weeks, months, &c.
 <span id="img_fig10"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 10.](tn/fig10.jpg)  
-Click to enlarge](img/fig10.jpg)  
+Click to enlarge](img/fig10.jpg.md)  
 *Fig*. 10.  
 
 QUERY.--*If the Person asking the Question should ever have Children*?
@@ -270,7 +270,7 @@ have any children, according to the rules of the science.
 The ☽ being in ☐ to ♄, and ☿, lord of the 1st, applying to his ☍, the
 querent was very sickly, afflicted with wind and choke; ☋ in the
 ascendant, shewed great pain in the head; and ☿ in ♊, shewed the
-same. <span id="fr_90"></span>[1](#fn_90)
+same. <span id="fr_90"></span>[1](#fn_90.md)
 
 The querent's moles, &c. agreed exactly with the figure, viz. one mole
 close by the navel: one upon the right ancle; one towards the right
@@ -282,7 +282,7 @@ in ♐; and one on the outside of the right arm.
 <span id="img_fig11"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 11.](tn/fig11.jpg)  
-Click to enlarge](img/fig11.jpg)  
+Click to enlarge](img/fig11.jpg.md)  
 *Fig*. 11.  
 
 QUESTION.--*A Female being with Child, whether it were a Male or Female;
@@ -377,10 +377,10 @@ question.
 
 ### Footnotes
 
-<span id="fn_88"></span>[147:1](aia31.htm#fr_88) Fruitful signs are the
+<span id="fn_88"></span>[147:1](aia31.htm#fr_88.md) Fruitful signs are the
 watery triplicity ♋, ♏, ♓.
 
-<span id="fn_89"></span>[151:1](aia31.htm#fr_89) This is rather a
+<span id="fn_89"></span>[151:1](aia31.htm#fr_89.md) This is rather a
 difficult point to decide; and unless the querent have great anxiety on
 the subject, which in some cases may happen, we advise the student to
 avoid giving judgment, or at least till he has well satisfied himself,
@@ -388,9 +388,9 @@ by experience, of the right method. We believe it will generally be
 found, that at the time of the birth the ☉ is passing some aspect of the
 cusp of the 5th, or its lord.
 
-<span id="fn_90"></span>[155:1](aia31.htm#fr_90) See the Table of the
+<span id="fn_90"></span>[155:1](aia31.htm#fr_90.md) See the Table of the
 Parts in Man's Body the planets rule for each sign.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX. Of the Sixth House](aia32)
+[Next: Chapter XXIX. Of the Sixth House](aia32.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mom03)  [Next](mom05) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mom03)  [Next](mom05.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ the moon, and the planets, the worship of which was adopted by the
 Indo-Iranians "from a neighboring people, their superiors in the
 knowledge of the starry firmament," who could be none other than the
 Accadian or Semitic inhabitants of Babylonia. <span
-id="fr_2"></span>[1](#fn_2) But this hypothetical adoption, if it really
+id="fr_2"></span>[1](#fn_2.md) But this hypothetical adoption, if it really
 took place, must have occurred in a prehistoric epoch, and, without
 attempting to dissipate the obscurity of these primitive times, it will
 be sufficient for us to state that the tribes of Iran never ceased to
@@ -90,7 +90,7 @@ the puissant ally of the faithful in their warlike expeditions. The
 blows of their enemies "miss their mark, for Mithra, sore incensed,
 receives them"; and he assures victory unto them that "have had fit
 instruction in the Good, that honor him and offer him the sacrificial
-libations." <span id="fr_3"></span>[1](#fn_3)
+libations." <span id="fr_3"></span>[1](#fn_3.md)
 
 This character of god of hosts, which has been the predominating trait
 of Mithra from the days of the Achæmenides, undoubtedly became
@@ -159,16 +159,16 @@ things, it is likewise said
 that he made him just as great and worthy as himself. Mithra is indeed a
 yazata, but he is also the most potent and most glorious of the yazata.
 "Ahura-Mazda established him to maintain and watch over all this moving
-world." <span id="fr_4"></span>[1](#fn_4) It is through the agency of
+world." <span id="fr_4"></span>[1](#fn_4.md) It is through the agency of
 this ever-victorious warrior that the Supreme Being destroys the demons
 and causes even the Spirit of Evil, Ahriman himself, to tremble.
 
 Compare these texts with the celebrated passage in which Plutarch <span
-id="fr_5"></span>[2](#fn_5) expounds the dualistic doctrine of the
+id="fr_5"></span>[2](#fn_5.md) expounds the dualistic doctrine of the
 Persians: Oromazes dwells in the domain of eternal light "as far above
 the sun as the sun is distant from the earth"; Ahriman reigns in the
 realm of darkness, and Mithra occupies an intermediary place between
-them. The beginning of the Bundahish <span id="fr_6"></span>[3](#fn_6)
+them. The beginning of the Bundahish <span id="fr_6"></span>[3](#fn_6.md)
 expounds a quite similar theory, save that in place of Mithra it is the
 air (*Vayu*) that is placed between Ormazd and Ahriman. The
 contradiction is only one of terms, for according to Iranian ideas the
@@ -208,7 +208,7 @@ seventh month was
 
 dedicated to him and also doubtless the sixteenth day of each month. At
 the time of his festival, the king, if we may believe Ctesias, <span
-id="fr_7"></span>[1](#fn_7) was permitted to indulge in copious
+id="fr_7"></span>[1](#fn_7.md) was permitted to indulge in copious
 libations in his honor and to execute the sacred dances. Certainly this
 festival was the occasion of solemn sacrifices and stately ceremonies.
 The *Mithrakana* were famed throughout all Hither Asia, and in their
@@ -249,7 +249,7 @@ gives victory to the arms of warriors, and is the protector of kings.
 The transformation wrought by Semitic theories in the beliefs of the
 Persians was of so profound a character that, centuries after, in Rome,
 the original home of Mithra was not infrequently placed on the banks of
-the Euphrates. According to Ptolemæus, <span id="fr_8"></span>[1](#fn_8)
+the Euphrates. According to Ptolemæus, <span id="fr_8"></span>[1](#fn_8.md)
 this
 
 <span id="page_11">p. 11</span>
@@ -309,7 +309,7 @@ and enduring guaranty of their legitimate rights.
 This reverence for Persian customs, inherited from legendary ancestors,
 this idea that piety is the bulwark of the throne and the sole condition
 of success, is explicitly affirmed in the pompous inscription <span
-id="fr_9"></span>[1](#fn_9) engraved on the colossal tomb that Antiochus
+id="fr_9"></span>[1](#fn_9.md) engraved on the colossal tomb that Antiochus
 I., Epiphanes, of Commagene (69-34 B.C.), erected on a spur of the
 mountain-range Taurus, commanding a distant view of the valley of the
 Euphrates (Figure I). But, being a descendant by his mother of the
@@ -417,7 +417,7 @@ religions of these countries to determine the precise features which
 they respectively derived from Parseeism or imparted to it. That there
 was a reciprocal influence we definitely know, but its precise scope we
 are unable to ascertain. Still, however superficial it may have
-been, <span id="fr_10"></span>[1](#fn_10) it certainly
+been, <span id="fr_10"></span>[1](#fn_10.md) it certainly
 
 <span id="page_18">p. 18</span>
 
@@ -604,7 +604,7 @@ Boston.)
 
 group of Mithra Tauroctonos, to which universal custom thenceforward
 reserved the place of honor in the apse of the *spelæa*. <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 But not only did art employ its powers to soften the repulsive features
 which these rude
@@ -618,7 +618,7 @@ traditions the theories of the philosophic sects. None of these sects so
 readily lent itself to alliance with the popular devotion as that of the
 Stoa, and its influence on the formation of Mithraism was profound. An
 ancient myth sung by the Magi is quoted by Dion Chrysostomos <span
-id="fr_12"></span>[1](#fn_12) on account of its allegorical resemblance
+id="fr_12"></span>[1](#fn_12.md) on account of its allegorical resemblance
 to the Stoic cosmology; and many other Persian ideas were similarly
 modified by the pantheistic conceptions of the disciples of Zeno.
 Thinkers accustomed themselves more and more to discovering in the
@@ -682,20 +682,20 @@ robes of the
 
 <span id="page_28">p. 28</span>
 
-sectarians of Zoroaster. <span id="fr_13"></span>[1](#fn_13)
+sectarians of Zoroaster. <span id="fr_13"></span>[1](#fn_13.md)
 Furthermore, he taunted them with being ignorant even of Greek and with
 mumbling an incoherent and unintelligible gibberish. <span
-id="fr_14"></span>[2](#fn_14)
+id="fr_14"></span>[2](#fn_14.md)
 
 The conservative spirit of the Magi of Cappadocia, which bound them to
 the time-worn usages that had been handed down from generation to
 generation, abated not one jot of its power after the triumph of
-Christianity; and St. Basil <span id="fr_15"></span>[3](#fn_15) has
+Christianity; and St. Basil <span id="fr_15"></span>[3](#fn_15.md) has
 recorded the fact of its persistence as late as the end of the fourth
 century. Even in Italy it is certain that the Iranian Mysteries never
 ceased to retain a goodly proportion of the ritual forms that Mazdaism
 had observed in Asia Minor time out of mind. <span
-id="fr_16"></span>[4](#fn_16) The principal innovation consisted in
+id="fr_16"></span>[4](#fn_16.md) The principal innovation consisted in
 substituting for the Persian as the liturgic language, the Greek, and
 later perhaps the Latin. This reform presupposes the existence of sacred
 books, and it is probable that subsequently to the Alexandrian epoch the
@@ -775,7 +775,7 @@ flocking in from all parts of the Orient, disseminated the Iranian
 Mysteries among that nation of pirates that rose to power under the
 protecting shelter of the mountains of Cilicia. Mithra became firmly
 established in this country, in which Tarsus continued to worship him
-until the downfall of the empire (Figure [9](#img_9)). Supported by its
+until the downfall of the empire (Figure [9](#img_9).md). Supported by its
 bellicose religion, this republic of adventurers dared to dispute the
 supremacy of the seas with the Roman colossus. Doubtless they considered
 themselves the chosen
@@ -809,56 +809,56 @@ adoration.
 
 ### Footnotes
 
-<span id="fn_2"></span>[2:1](mom04.htm#fr_2) Oldenberg, Die Religion des
+<span id="fn_2"></span>[2:1](mom04.htm#fr_2.md) Oldenberg, Die Religion des
 Veda, 1894, p. 185.
 
-<span id="fn_3"></span>[4:1](mom04.htm#fr_3) *Zend-Avesta*, Yasht, X.,
+<span id="fn_3"></span>[4:1](mom04.htm#fr_3.md) *Zend-Avesta*, Yasht, X.,
 Passim.
 
-<span id="fn_4"></span>[7:1](mom04.htm#fr_4) *Yasht*, X., 103.
+<span id="fn_4"></span>[7:1](mom04.htm#fr_4.md) *Yasht*, X., 103.
 
-<span id="fn_5"></span>[7:2](mom04.htm#fr_5) Plutarch, *De Iside et
+<span id="fn_5"></span>[7:2](mom04.htm#fr_5.md) Plutarch, *De Iside et
 Osiride*, 46-47; *Textes et monuments*, Vol. II., p. 33.
 
-<span id="fn_6"></span>[7:3](mom04.htm#fr_6) West, *Pahlavi Texts*, I.
+<span id="fn_6"></span>[7:3](mom04.htm#fr_6.md) West, *Pahlavi Texts*, I.
 (also, *Sacred Books of the East*, V.), 1890, p. 3, *et seq.*
 
-<span id="fn_7"></span>[9:1](mom04.htm#fr_7) *Ctesias apud Athen*., X.,
+<span id="fn_7"></span>[9:1](mom04.htm#fr_7.md) *Ctesias apud Athen*., X.,
 45 (*Textes et monuments*, hereafter cited as "*T. et M.*," Vol. II., p.
 10).
 
-<span id="fn_8"></span>[10:1](mom04.htm#fr_8) Ptol., *Tetrabibl*., II.,
+<span id="fn_8"></span>[10:1](mom04.htm#fr_8.md) Ptol., *Tetrabibl*., II.,
 2.
 
-<span id="fn_9"></span>[13:1](mom04.htm#fr_9) Michel, *Recueil inscr.
+<span id="fn_9"></span>[13:1](mom04.htm#fr_9.md) Michel, *Recueil inscr.
 gr*., No. 735. Compare *T. et M.*, Vol. II., p. 89, No. 1.
 
-<span id="fn_10"></span>[17:1](mom04.htm#fr_10) M. Jean Réville (*Études
+<span id="fn_10"></span>[17:1](mom04.htm#fr_10.md) M. Jean Réville (*Études
 de théologie et d'hist. publ. en hommage à la faculté de Montauban*,
 Paris 1901, p. 336) is inclined to accord a considerable share in the
 formation of Mithraism to the religions of Asia; but it is impossible in
 the present state of our knowledge to form any estimate of the extent of
 this influence.
 
-<span id="fn_11"></span>[24:1](mom04.htm#fr_11) Compare the Chapter on
+<span id="fn_11"></span>[24:1](mom04.htm#fr_11.md) Compare the Chapter on
 ''Mithraic Art."
 
-<span id="fn_12"></span>[25:1](mom04.htm#fr_12) Dion Chrys., *Or.,
+<span id="fn_12"></span>[25:1](mom04.htm#fr_12.md) Dion Chrys., *Or.,
 XXXVI*., §39, *et seq.* (*T. et M.*, Vol. II., p. 60, No. 461).
 
-<span id="fn_13"></span>[28:1](mom04.htm#fr_13) Luc., *Menipp*., c. 6
+<span id="fn_13"></span>[28:1](mom04.htm#fr_13.md) Luc., *Menipp*., c. 6
 (*T. et M.*, Vol. II., p. 22).
 
-<span id="fn_14"></span>[28:2](mom04.htm#fr_14) Luc., *Deorum conc*., c.
+<span id="fn_14"></span>[28:2](mom04.htm#fr_14.md) Luc., *Deorum conc*., c.
 9, *Jup. Trag*., c. 8, c. 13 (*T. et M.*, *ibid.*)
 
-<span id="fn_15"></span>[28:3](mom04.htm#fr_15) Basil., *Epist. 238 ad
+<span id="fn_15"></span>[28:3](mom04.htm#fr_15.md) Basil., *Epist. 238 ad
 Epiph*. (*T. et M.*, Vol. I., p. 10, No. 3). Compare Priscus, fr. 31 (I.
 342 *Hist. min*., Dind.).
 
-<span id="fn_16"></span>[28:4](mom04.htm#fr_16) See the Chapter on
+<span id="fn_16"></span>[28:4](mom04.htm#fr_16.md) See the Chapter on
 "Liturgy, Clergy, &c."
 
 ------------------------------------------------------------------------
 
-[Next: The Dissemination of Mithraism in the Roman Empire](mom05)
+[Next: The Dissemination of Mithraism in the Roman Empire](mom05.md)

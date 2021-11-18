@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo14)  [Next](beo16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo14)  [Next](beo16.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ that battle-hand bloody from baneful foe.
 
 ------------------------------------------------------------------------
 
-[Next: Part XV](beo16)
+[Next: Part XV](beo16.md)

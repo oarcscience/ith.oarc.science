@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb23)  [Next](yefb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb23)  [Next](yefb25.md) 
 
 </div>
 
@@ -19,7 +19,7 @@ Heritage
 <span id="page_138">p. 138</span>
 
 THE BOY AND THE WOLVES, OR THE BROKEN PROMISE <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 Once upon a time an Indian hunter built himself a house in the middle of
 a great forest, far away from all his tribe; for his heart was gentle
@@ -114,13 +114,13 @@ promise till the end of his life.
 
 ### Footnotes
 
-<span id="fn_17"></span>[138:1](yefb24.htm#fr_17) A North American
+<span id="fn_17"></span>[138:1](yefb24.htm#fr_17.md) A North American
 Indian story.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Glass Axe](yefb25)
+[Next: The Glass Axe](yefb25.md)
 
 </div>

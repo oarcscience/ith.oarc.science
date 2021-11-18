@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Next](ipm01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Next](ipm01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -49,22 +49,22 @@ published prior to 1923.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER"> [![Verso and
 Inscription](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso and Inscription  
 </span>
 
 <span id="img_cover"></span> <span align="CENTER"> [![Cover and
 Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover and Spine  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ipm01)
+[Next: Contents](ipm01.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh25)  [Next](hloh27) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh25)  [Next](hloh27.md) 
 
 ------------------------------------------------------------------------
 
@@ -394,4 +394,4 @@ beloved by all. Thus he gained the honored name Kawelo-lei-makua
 
 ------------------------------------------------------------------------
 
-[Next: XXIII. Chief Man-Eater](hloh27)
+[Next: XXIII. Chief Man-Eater](hloh27.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot22)  [Next](lot24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot22)  [Next](lot24.md) 
 
 ------------------------------------------------------------------------
 
@@ -278,4 +278,4 @@ Lotus of the True Law.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 24](lot24)
+[Next: Chapter 24](lot24.md)

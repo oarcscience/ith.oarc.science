@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj26)  [Next](atfj28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj26)  [Next](atfj28.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_29"></span> <span align="CENTER"> [![29. Furuzuka Iga Cuts
 Off the Head of the Ex-Emperor Shutoku, Who is His Own Son](tn/29.jpg)  
-Click to enlarge](img/29.jpg)  
+Click to enlarge](img/29.jpg.md)  
 29. Furuzuka Iga Cuts Off the Head of the Ex-Emperor Shutoku, Who is His
 Own Son  
 </span>
@@ -233,6 +233,6 @@ favourite rock of Taro and the ex-Emperor. The rock is still known as
 
 ------------------------------------------------------------------------
 
-[Next: XXVI. How Masakuni Regained His Sight](atfj28)
+[Next: XXVI. How Masakuni Regained His Sight](atfj28.md)
 
 </div>

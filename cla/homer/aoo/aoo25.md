@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo24)  [Next](aoo26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo24)  [Next](aoo26.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ pity and his help.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](aoo26)
+[Next: Chapter III](aoo26.md)

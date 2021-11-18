@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft46.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_361">p. 361</span>
 
 <span id="img_36100"></span> ![Meaning of Turkish words used in the
-text](img/36100.jpg)
+text](img/36100.jpg.md)
 
 |                    |                                                                                                                                                                                              |
 |--------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

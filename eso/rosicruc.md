@@ -1,5 +1,5 @@
-<span class="small">[Intangible Textual Heritage](../index) 
-[Esoteric](index)  [Rosicrucian](ros/index) </span>
+<span class="small">[Intangible Textual Heritage](../index.md) 
+[Esoteric](index)  [Rosicrucian](ros/index.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 #### By William Wynn Westcott
 
 This HTML version © 2001, [Hermetic Order of the Golden
-Dawn](https://www.hermeticgoldendawn.org/Documents/Archives/Rosicrucian).
+Dawn](https://www.hermeticgoldendawn.org/Documents/Archives/Rosicrucian.md).
 Used by Permission. All rights reserved.
 
 It is well at certain times to consider our status as Rosicrucians, and

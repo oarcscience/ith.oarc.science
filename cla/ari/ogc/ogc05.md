@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc04)  [Next](ogc06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc04)  [Next](ogc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ persists.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](ogc06)
+[Next: Chapter 6](ogc06.md)

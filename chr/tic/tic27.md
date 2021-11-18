@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic26)  [Next](tic28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic26)  [Next](tic28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ which she appears to see within God Himself. This is no vision of the
 most sacred Humanity nor can I rightly say the soul 'sees,' for it sees
 nothing; this is no imaginary vision but a highly intellectual one,
 wherein is manifested how all things are beheld in God and how He
-contains them within Himself. <span id="fr_374"></span>[1](#fn_374) It
+contains them within Himself. <span id="fr_374"></span>[1](#fn_374.md) It
 is of great value, for although passing in an instant, it remains deeply
 engraved in the memory, producing a feeling of great shame in the mind
 which perceives more clearly the malice of offences against God, since
@@ -102,11 +102,11 @@ God also manifests that in Him there is a verity which makes all truth
 in creatures seem obscure. He convinces the soul that He alone is that
 Truth which cannot lie, thus demonstrating the meaning of David's words
 in the psalm: 'Every man is a liar,' <span
-id="fr_375"></span>[2](#fn_375) which could never be thus realized by
+id="fr_375"></span>[2](#fn_375.md) which could never be thus realized by
 any other means, however often we might hear that God is truth
 infallible. As I recall Pilate and how he besought our Lord in His
 Passion to answer his question: 'What is truth?' <span
-id="fr_376"></span>[3](#fn_376) I realize how little mortals know of
+id="fr_376"></span>[3](#fn_376.md) I realize how little mortals know of
 that sublime veracity.
 
 6\. I wish I could explain this better but am unable to do so. Let us
@@ -146,15 +146,15 @@ with them, therefore the soul may rest in perfect peace.
 
 ### Footnotes
 
-<span id="fn_374"></span>[248:1](tic27.htm#fr_374) *Life*, ch. xl.
+<span id="fn_374"></span>[248:1](tic27.htm#fr_374.md) *Life*, ch. xl.
 13-16.
 
-<span id="fn_375"></span>[250:2](tic27.htm#fr_375) Ps. cxv. 11. 'Omnis
+<span id="fn_375"></span>[250:2](tic27.htm#fr_375.md) Ps. cxv. 11. 'Omnis
 homo mendax.'
 
-<span id="fn_376"></span>[250:3](tic27.htm#fr_376) St. John xviii. 38:
+<span id="fn_376"></span>[250:3](tic27.htm#fr_376.md) St. John xviii. 38:
 Quid est veritas?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Dart of Love](tic28)
+[Next: Chapter XI. The Dart of Love](tic28.md)

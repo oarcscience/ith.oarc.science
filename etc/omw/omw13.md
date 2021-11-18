@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw12)  [Next](omw14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw12)  [Next](omw14.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ and embroidery. The story is popular in Japan as well as China.
 
 ------------------------------------------------------------------------
 
-[Next: Japanese](omw14)
+[Next: Japanese](omw14.md)

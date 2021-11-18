@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Next](htg01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Next](htg01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,9 +34,9 @@ of attribution is left intact in all copies.
 <span id="img_yantra"></span>
 
 [![Yantra (from cover)](tn/yantra.jpg)  
-Click to enlarge](img/yantra.jpg)  
+Click to enlarge](img/yantra.jpg.md)  
 Yantra (from cover)  
 
 ------------------------------------------------------------------------
 
-[Next: Preface](htg01)
+[Next: Preface](htg01.md)

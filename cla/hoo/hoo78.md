@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo77)  [Next](hoo79) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo77)  [Next](hoo79.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ And safe conduct them to their destin'd end.
 
 ------------------------------------------------------------------------
 
-[Next: LXXIV: To Palæmon](hoo79)
+[Next: LXXIV: To Palæmon](hoo79.md)

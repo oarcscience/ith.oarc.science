@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](ody12)  [Next](ody14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](ody12)  [Next](ody14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE798E/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Odyssey of Homer*, by Samuel Butler, \[1900\], at Intangible
 Textual Heritage
 
@@ -391,6 +391,6 @@ went straight to Lacedaemon to fetch Telemachus.
 
 ------------------------------------------------------------------------
 
-[Next: Book XIV.](ody14)
+[Next: Book XIV.](ody14.md)
 
 </div>

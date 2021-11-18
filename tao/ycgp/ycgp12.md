@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp11) [Next](ycgp13)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp11) [Next](ycgp13.md)
 
 ------------------------------------------------------------------------
 
@@ -6,11 +6,11 @@
 
 Y<span class="small">ANG</span> C<span class="small">HU</span> said:
 
-   "Po-chêng-tse-kao<span id="page_52_fr_1"></span>[1](#page_52_note_1)
+   "Po-chêng-tse-kao<span id="page_52_fr_1"></span>[1](#page_52_note_1.md)
 would not part with a hair of his body for the benefit of others. He
 quitted <span id="page_53">p. 53</span> his country and became a
 ploughman. The great Yü<span
-id="page_53_fr_1"></span>[1](#page_53_note_1) did not profit by his own
+id="page_53_fr_1"></span>[1](#page_53_note_1.md) did not profit by his own
 body, which grew quite emaciated.
 
    "If the ancients by injuring a single hair could have rendered a
@@ -65,7 +65,7 @@ composing the body, it is not to be disregarded."
    Ch’in-Tse replied:
 
    "I do not know how to answer you. If I were to ask Lao-tse and
-Kuan-Yin,<span id="page_54_fr_1"></span>[1](#page_54_note_1) your
+Kuan-Yin,<span id="page_54_fr_1"></span>[1](#page_54_note_1.md) your
 opinion would be found right, and so also if I were to consult great Yü
 and Me-ti."
 
@@ -74,7 +74,7 @@ something else.
 
 ------------------------------------------------------------------------
 
-[Next](ycgp13)
+[Next](ycgp13.md)
 
 ------------------------------------------------------------------------
 
@@ -82,18 +82,18 @@ something else.
 
 <span id="footnotes_page_52">p. 52</span>
 
-<span id="page_52_note_1"></span>[1](#page_52_fr_1) Po-chêng-tse-kao was
+<span id="page_52_note_1"></span>[1](#page_52_fr_1.md) Po-chêng-tse-kao was
 a Taoist of the time of Yao.
 
 <span id="footnotes_page_53">p. 53</span>
 
-<span id="page_53_note_1"></span>[1](#page_53_fr_1) The great Yü, the
+<span id="page_53_note_1"></span>[1](#page_53_fr_1.md) The great Yü, the
 controller of the great flood, which task so occupied him that he
 entirely forgot his own wants.
 
 <span id="footnotes_page_54">p. 54</span>
 
-<span id="page_54_note_1"></span>[1](#page_54_fr_1) The Taoist
+<span id="page_54_note_1"></span>[1](#page_54_fr_1.md) The Taoist
 philosopher.
 
  

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist039) 
-[Next](hist041) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist039.md) 
+[Next](hist041.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ memorial.
 
 [Next: V. How, after the death of the kings Ethelbert and Sabert, their
 successors restored idolatry; for which reason, both Mellitus and Justus
-departed out of Britain. \[616 A.D.\]](hist041)
+departed out of Britain. \[616 A.D.\]](hist041.md)

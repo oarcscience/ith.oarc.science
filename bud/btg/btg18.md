@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg17)  [Next](btg19) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg17)  [Next](btg19.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ Tathagata.
 
 ------------------------------------------------------------------------
 
-[Next: Yasa, The Youth Of Benares](btg19)
+[Next: Yasa, The Youth Of Benares](btg19.md)

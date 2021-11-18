@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss07)  [Next](oss09) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss07)  [Next](oss09.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
 
 ### DUAN I.
 
-ARGUMENT OF DUAN I.  <span id="fr_39"></span>[1](#fn_39)
+ARGUMENT OF DUAN I.  <span id="fr_39"></span>[1](#fn_39.md)
 
 Fingal when very young, making a voyage to the Orkney Islands, was
 driven by stress of weather into a bay of Scandinavia, near the
@@ -45,7 +45,7 @@ fiery soul! Do I forget that beam of light, the
 
 <span id="page_190">p. 190</span>
 
-white-handed daughter of kings?  <span id="fr_40"></span>[1](#fn_40) Go,
+white-handed daughter of kings?  <span id="fr_40"></span>[1](#fn_40.md) Go,
 son of Loda; his words are wind to Fingal: wind, that, to and fro drives
 the thistle in autumn's dusky vale. Duth-maruno, arm of death!
 Cromma-glas, of Iron shields! Struthmor, dweller of battle's wing!
@@ -65,7 +65,7 @@ Broad over them rose the moon!
 
 In his arms came tall Duth-maruno: he, from Croma of rocks, stern hunter
 of the boar! In his dark boat he rose on waves, when Crumthormo  <span
-id="fr_41"></span>[2](#fn_41) awaked its woods. In the chase he shone,
+id="fr_41"></span>[2](#fn_41.md) awaked its woods. In the chase he shone,
 among foes: No fear was thine, Duth-maruno!
 
 'O Son of daring Comhal, shall my steps be forward through night? From
@@ -166,7 +166,7 @@ that wanderer low," said Starno, in his pride. "Take the shield of thy
 father. It is a rock in war." Swaran threw his gleaming spear. It stood
 fixed in Loda's tree. Then came the foes forward with swords. They mixed
 their rattling steel. Through the thongs of Swaran's shield rushed the
-blade  <span id="fr_42"></span>[3](#fn_42) of Luno. The shield fell
+blade  <span id="fr_42"></span>[3](#fn_42.md) of Luno. The shield fell
 rolling on earth. Cleft, the helmet fell down. Fingal stopt the lifted
 steel. Wrathful stood Swaran, unarmed. He rolled his silent eyes; he
 threw his sword on earth. Then, slowly stalking over the stream, he
@@ -207,20 +207,20 @@ maid.
 
 ### Footnotes
 
-<span id="fn_39"></span>[189:1](oss08.htm#fr_39) The bards distinguished
+<span id="fn_39"></span>[189:1](oss08.htm#fr_39.md) The bards distinguished
 those compositions in which the narration is often interrupted by
 episodes and apostrophes, by the name of Duan.
 
-<span id="fn_40"></span>[190:1](oss08.htm#fr_40) Agandecca, the daughter
+<span id="fn_40"></span>[190:1](oss08.htm#fr_40.md) Agandecca, the daughter
 of Starno, whom her father killed, on account of her discovering to
 Fingal a plot laid against his life.
 
-<span id="fn_41"></span>[190:2](oss08.htm#fr_41) Crumthormoth, one of
+<span id="fn_41"></span>[190:2](oss08.htm#fr_41.md) Crumthormoth, one of
 the Orkney or Shetland Islands.
 
-<span id="fn_42"></span>[193:3](oss08.htm#fr_42) The sword of Fingal, so
+<span id="fn_42"></span>[193:3](oss08.htm#fr_42.md) The sword of Fingal, so
 called from its maker, Luno of Lochlin.
 
 ------------------------------------------------------------------------
 
-[Next: Duan II](oss09)
+[Next: Duan II](oss09.md)

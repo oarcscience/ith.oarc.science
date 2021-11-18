@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nbr04)  [Next](nbr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nbr04)  [Next](nbr06.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ Here she has no king, but lives in evil, her own mistress, with the
 <span id="page_103">p. 103</span>
 
 kings of the earth. Israel was an adulteress, <span
-id="fr_115"></span>[1](#fn_115) not Babylon, then.
+id="fr_115"></span>[1](#fn_115.md) not Babylon, then.
 
 *For this* she is judged, though other things and all worldly eclat
 might surround her, and give her influence over the minds of others.
@@ -67,7 +67,7 @@ The material feature here is, that Babylon is not the seat of earthly
 power, ruled over and headed at any time by him who exercises apostate
 royalty upon the earth, but an independent woman. So was Tyre in the
 world, as thus spoken of: and, where the Prince of Tyre <span
-id="fr_116"></span>[2](#fn_116) is spoken of, it is not in human earthly
+id="fr_116"></span>[2](#fn_116.md) is spoken of, it is not in human earthly
 language, but the highest character of apostasy, such as can be reached
 in its full character only by the great enemy, and, it would seem to me,
 connected with a church or religious standing--a character and apostasy
@@ -155,7 +155,7 @@ suffering the Church to be led astray.
 
 But there is that which is more distinctly noted, after all this is
 completed, and all that properly formed the beast in full--an eighth
-head <span id="fr_117"></span>[1](#fn_117) (which is the beast itself,
+head <span id="fr_117"></span>[1](#fn_117.md) (which is the beast itself,
 as arising directly from Satan's power and influence) arises, which is
 yet of the seven, which is connected with and takes its place among the
 other heads and forms of the Roman empire, but is also a distinct,
@@ -171,7 +171,7 @@ they would exist all the time along with the
 
 <span id="page_109">p. 109</span>
 
-beast, <span id="fr_118"></span>[1](#fn_118) but that they would not be
+beast, <span id="fr_118"></span>[1](#fn_118.md) but that they would not be
 a power supplanting or without connection with the beast, but that they
 would exist themselves, contemporaneously, and while the beast existed.
 They would give their power to the beast. I have no doubt that mainly
@@ -208,17 +208,17 @@ her with fire." It was not specifically with these kings she had
 committed fornication; that had been her general character with the
 kings of the earth. These ten kings, however, desolate her: the will at
 this time acts in them, not in the beast. <span
-id="fr_119"></span>[1](#fn_119) They are the prominent and existing
+id="fr_119"></span>[1](#fn_119.md) They are the prominent and existing
 actors, that they may give their power to the beast, whose final
 character and end we have already seen. This goes on "until the words of
 God shall be fulfilled." The woman, not the whore, is then designated as
 that great city which reigneth over the kings of the earth (the
 predominant associated power of the earth): <span
-id="fr_120"></span>[2](#fn_120) but if acting by corrupt religion, not
+id="fr_120"></span>[2](#fn_120.md) but if acting by corrupt religion, not
 doing so here as a false prophet, but as a city--a system in her
 secular, carnal, and worldly, and wealthy character; yet that secularity
 and wealth, the meretricious secularity <span
-id="fr_121"></span>[3](#fn_121)
+id="fr_121"></span>[3](#fn_121.md)
 
 <span id="page_111.">p. 111.</span>
 
@@ -258,7 +258,7 @@ judge her. She had already fallen from power, the seductive power of
 wealth and corruption. She still, it seems, said in her heart, she
 should be a queen and see no sorrow--still maintained her pride, though
 she was fallen; and the Church knew God was now judging her. <span
-id="fr_122"></span>[1](#fn_122) The desolation of all the temporal
+id="fr_122"></span>[1](#fn_122.md) The desolation of all the temporal
 prosperity of the great city is sorrow and trouble to the kings of the
 earth. This is a distinct thing from the ten horns hating her and
 burning her with fire. The kings of the earth are the royal rulers, not
@@ -272,7 +272,7 @@ ruling power for the time, perhaps.
 security of the settled and ordered earthly system--the kings of the
 earth, as the inhabitants of the earth--those who had been committing
 fornication with the great whore--these bewailed her burning. <span
-id="fr_123"></span>[1](#fn_123) The ten were a definite class, brought
+id="fr_123"></span>[1](#fn_123.md) The ten were a definite class, brought
 forward with the beast in his last actings against the Lamb, for the
 accomplishment of which God puts it into their heart to get rid of the
 great whore. The ten kings are never, as such, spoken of as committing
@@ -300,7 +300,7 @@ total manner of her
 
 <span id="page_114">p. 114</span>
 
-final destruction. <span id="fr_124"></span>[1](#fn_124) Her worldly
+final destruction. <span id="fr_124"></span>[1](#fn_124.md) Her worldly
 wealth, the power of riches, is marked as her great final character as
 thus judged and destroyed. And here she was like Babylon of old; and in
 her was found all the blood slain upon the earth--as in Jerusalem all
@@ -325,7 +325,7 @@ subsistence of apostasy.
 Thus, in Babylon we have wealth, corruption, sorceries, arts, luxuries,
 bodies and souls of men sold, fornication committed with the kings and
 dwellers upon earth, and they made drunk with it: <span
-id="fr_125"></span>[1](#fn_125) the principle of confederate will, but
+id="fr_125"></span>[1](#fn_125.md) the principle of confederate will, but
 the corruption (not the exercise) of royal secular power as of God,
 though it might, by seduction, rule and govern this power, and thus
 separate it from its divine source, and actually set aside and hinder
@@ -349,7 +349,7 @@ rate. And note, the act of *Christ's* power is on the *feet* and *toes*
 themselves. *God* judges *Babylon* as a great moral system denying His
 supremacy, not in open hostility to Christ's power.
 
-We have the *fall* <span id="fr_126"></span>[1](#fn_126) of Babylon
+We have the *fall* <span id="fr_126"></span>[1](#fn_126.md) of Babylon
 distinguished, I think, from the *destruction* of Babylon. Her fall
 includes moral degradation, and being the dwelling-place of unclean
 spirits. This is judgment on her; and she falls because of her making
@@ -377,7 +377,7 @@ character or those characters in which He dealt with the earth whether
 as God, Creator, Promiser, and Shield of His people while strangers, or
 the everlasting Accomplisher of all He had promised, Jehovah Elohim
 Shaddai. All these He took now in power and reigned. This time takes us
-back to chapter xi. 17: <span id="fr_127"></span>[1](#fn_127) we have
+back to chapter xi. 17: <span id="fr_127"></span>[1](#fn_127.md) we have
 had, in the interval, the source, character, and form of evil, and
 judgment of all but the beast, and open power against the Lamb, which is
 earthly. All secret or mere corrupt evil, all evil that had its place in
@@ -398,7 +398,7 @@ made ready. It is not here, then, children with the
 glory being come, the Lord God takes His power, judges and removes the
 evil worldly counterpart, and (the Lamb's wife made ready) the time for
 it is come: these, however, were heavenly things, <span
-id="fr_128"></span>[1](#fn_128) and they are passed by. The time, and
+id="fr_128"></span>[1](#fn_128.md) and they are passed by. The time, and
 readiness and nature of her robes only, are passingly mentioned as an
 important circumstantial characterizing the progress of events: and it
 closes with pronouncing blessing on those who are called to the marriage
@@ -409,7 +409,7 @@ in judgment.
 This closed the scene of what was properly heavenly, *i.e.*, the time
 during which the Lamb (and His followers) were not manifested upon
 earth. It closes with "these are the true sayings of God." The angel was
-his fellow servant <span id="fr_129"></span>[2](#fn_129) and the fellow
+his fellow servant <span id="fr_129"></span>[2](#fn_129.md) and the fellow
 servant of his brethren that had the testimony of Jesus; for the spirit
 of prophecy still testified of Jesus. God was to be worshipped; this was
 the great end of the book--to keep the Church in the holy simplicity of
@@ -428,14 +428,14 @@ blessing here with xiv. 12.
 
 there. It is not a sign there. It is not the temple opened to him there;
 but heaven is opened and One comes forth. <span
-id="fr_130"></span>[1](#fn_130) Heaven opened for the Holy Ghost to
+id="fr_130"></span>[1](#fn_130.md) Heaven opened for the Holy Ghost to
 descend on Jesus here. It opened for the angels of God to ascend and
 descend on the Son of man. It opened for the Church (to wit, in Stephen
 closing that period and scene) to see into heaven and be received there.
 It now was opened, that the King of kings and Lord of lords Himself
 should come forth thence to act on the earth--to judge and make war in
 righteousness. It was now the time that power was to be applied to
-righteousness <span id="fr_131"></span>[2](#fn_131) in the earth. He
+righteousness <span id="fr_131"></span>[2](#fn_131.md) in the earth. He
 came in the manifestation of faithfulness and truth; He came with
 scrutinizing and purging judgment; He came in the assemblage of many
 royalties; and in the secret of His own power, which none knew but
@@ -475,7 +475,7 @@ mouth: they died by that. The proper application of this is to those who
 were against Him, as coming from heaven to judge those who were directly
 under the influence and power of apostasy. Still, the *kings of the
 earth* is wider than the *ten kings*, <span
-id="fr_132"></span>[1](#fn_132) and left general. I doubt, however,
+id="fr_132"></span>[1](#fn_132.md) and left general. I doubt, however,
 whether it includes Gog, whose aim is against the land rather than the
 Lamb, or even the Prince of princes. With Gog, it is the gratification
 of covetousness, the lust of possessing. He goes against the land of
@@ -508,14 +508,14 @@ it will be found that the early commerce and colonization of the earth
 were most intimately connected with idolatry--the children of apostate
 though once rescued Ham. His first act was casting off or degrading
 authority as of God; and ere long we find, at the river of Cush, <span
-id="fr_133"></span>[1](#fn_133) idolatry in practice, and extending even
+id="fr_133"></span>[1](#fn_133.md) idolatry in practice, and extending even
 to the Shemitic race, whence Abraham was thence called out.
 
 The *former* state (*i.e.*, confederacy, trading, false religion)
 
 <span id="page_122">p. 122</span>
 
-is spoken of as a woman: <span id="fr_134"></span>[1](#fn_134) this may,
+is spoken of as a woman: <span id="fr_134"></span>[1](#fn_134.md) this may,
 as to part of the ideas, be subjected to Christ. Nebuchadnezzar may rule
 Babylon (the city of confusion); so the Lord Christ "the city of the
 great King," where God is well known; and Jerusalem may be the queen in
@@ -559,7 +559,7 @@ saints of the most High," so this is consequent upon His taking His
 power and reigning. They reign with Him the thousand years. What follows
 in the verse is an additional intimation that the others had lost
 nothing but the enmity of the world, <span
-id="fr_135"></span>[1](#fn_135) and of Satan even to death, or by their
+id="fr_135"></span>[1](#fn_135.md) and of Satan even to death, or by their
 refusal to worship the beast. Their souls were seen. There might have
 been power to kill the body, but they had never died to God, and now
 they enjoyed the fruit of it--"they reign in life by one."
@@ -661,7 +661,7 @@ dwelt upon (the chapter being properly the account of the session of
 judgment). From this we see the partakers of the first resurrection
 entirely exempt. Then Satan's actings, as introducing the millennial
 judgments are mentioned, and that judgment <span
-id="fr_136"></span>[1](#fn_136) itself. On the great white throne (for
+id="fr_136"></span>[1](#fn_136.md) itself. On the great white throne (for
 there were no thrones now) sat One from whose face heaven and earth fled
 away.
 
@@ -710,7 +710,7 @@ during the millennium, is, however, taken up in what follows, to
 complete the picture, and give the saints the joy of their own portion
 in it, which, in its own proper and intrinsic character, moreover is
 eternal. This account is from xxi. 9 to xxii. 5, 6. <span
-id="fr_137"></span>[1](#fn_137) On this I have but few remarks to make,
+id="fr_137"></span>[1](#fn_137.md) On this I have but few remarks to make,
 having so far prolonged this. It is not here the children in the
 Father's house; it is not dwelling in God as love (and thus, through
 Jesus, in whom all fulness dwells, filled with His fulness, we in Him,
@@ -775,7 +775,7 @@ ready to inherit his throne; and the bright and blessed witness of
 millennial day, and, in one sense, eternal day to the Church. This was
 the next thought to the Church on this failure. Accordingly, knowing it,
 the Church is only lifted up into better hopes, and the Spirit, <span
-id="fr_138"></span>[1](#fn_138) which, as Comforter, abides for ever,
+id="fr_138"></span>[1](#fn_138.md) which, as Comforter, abides for ever,
 takes the lead; and, in its character of Bride, abstracting itself from
 circumstances and earthly progress and associations, the Church joins
 its guiding Spirit and says, Come--calls on all who hear, whose ear is
@@ -813,7 +813,7 @@ millennial times)
 
 ### Footnotes
 
-<span id="fn_115"></span>[103:1](nbr05.htm#fr_115) Fornication seems to
+<span id="fn_115"></span>[103:1](nbr05.htm#fr_115.md) Fornication seems to
 consist in living in wealth and luxuries, through intercourse with
 others, not the cultivation of her own resources; therefore it is
 referred to union with, and dependence on, the world in the case of the
@@ -825,11 +825,11 @@ the power τοῦ αἰῶνος τοῦ κόσμου τούτου. Power nati
 distinct thing, though it may be abused: it is given of God, though it
 may end in open rebellion.
 
-<span id="fn_116"></span>[103:2](nbr05.htm#fr_116) The prince and king
+<span id="fn_116"></span>[103:2](nbr05.htm#fr_116.md) The prince and king
 of Tyre are, however, different. It is the king of whom the position is
 so astonishingly traced by the Divine hand.
 
-<span id="fn_117"></span>[108:1](nbr05.htm#fr_117) I feel that probably
+<span id="fn_117"></span>[108:1](nbr05.htm#fr_117.md) I feel that probably
 this has passed, if we take the protracted course, in Charlemagne; if
 the closing scene, in Buonaparte, because the Roman empire had been
 destroyed in its full character before Charlemagne; and his was a
@@ -837,16 +837,16 @@ renewal of what was not. Nominally it continued until Buonaparte, who,
 as the agent of the French republic, broke it to pieces and renewed the
 imperial power for a little season.
 
-<span id="fn_118"></span>[109:1](nbr05.htm#fr_118) \[It may have that
+<span id="fn_118"></span>[109:1](nbr05.htm#fr_118.md) \[It may have that
 force as to the last form of the beast out of the abyss.\]
 
-<span id="fn_119"></span>[110:1](nbr05.htm#fr_119) \[The better reading,
+<span id="fn_119"></span>[110:1](nbr05.htm#fr_119.md) \[The better reading,
 however, adds 'the beast.'\]
 
-<span id="fn_120"></span>[110:2](nbr05.htm#fr_120) Such as Rome, for
+<span id="fn_120"></span>[110:2](nbr05.htm#fr_120.md) Such as Rome, for
 example, before even imperial times.
 
-<span id="fn_121"></span>[110:3](nbr05.htm#fr_121) I know that many take
+<span id="fn_121"></span>[110:3](nbr05.htm#fr_121.md) I know that many take
 Babylon as merely a great worldly system. That it is a great worldly
 system is freely admitted. But the exclusion of the ecclesiastical
 character in this place seems to me a great error: it is the virus of
@@ -886,18 +886,18 @@ beast may be seeking to possess himself, as of old, of their territory,
 and may in part succeed. I allude here to Daniel xi., as may readily be
 seen.
 
-<span id="fn_122"></span>[112:1](nbr05.htm#fr_122) The full judgment
+<span id="fn_122"></span>[112:1](nbr05.htm#fr_122.md) The full judgment
 comes after God's people are come out of her. Her fall is a warning to
 them, these are rapidly brought together here at her judgment. \[I have
 left this statement as it is, though its full force may be questioned,
 because it is a very nice point of interpretation, and it was no harm to
 have this view before us.\]
 
-<span id="fn_123"></span>[113:1](nbr05.htm#fr_123) See Ezekiel xxvii.
+<span id="fn_123"></span>[113:1](nbr05.htm#fr_123.md) See Ezekiel xxvii.
 35, 36, and the previous verses. The prince of Tyre sits in the midst of
 the seas.
 
-<span id="fn_124"></span>[114:1](nbr05.htm#fr_124) There seems to me, an
+<span id="fn_124"></span>[114:1](nbr05.htm#fr_124.md) There seems to me, an
 intimate connection between the continuance of Babylon and the serpent
 being in heavenly places. He exercises his power thus as influence,
 secretly, as false worship. He is the object of false worship; and
@@ -927,7 +927,7 @@ strictly as the existence of Babylon. But I apprehend there will be a
 total change when Satan is cast down, perhaps practically prepared
 before. The principles, I have no doubt, are already at work.\]
 
-<span id="fn_125"></span>[115:1](nbr05.htm#fr_125) The character of
+<span id="fn_125"></span>[115:1](nbr05.htm#fr_125.md) The character of
 Babylon as whore seems lost by the enmity of the ten horns, because she
 cannot help it. The religious mischief is, after this, done by the false
 prophet, the other form of the two-horned beast. Thereon the character
@@ -935,13 +935,13 @@ of Babylon becomes more purely secular; but the devil dwells there, or
 it is the habitation of demons, and not therefore simply worldly
 interests.
 
-<span id="fn_126"></span>[116:1](nbr05.htm#fr_126) \[I have still left
+<span id="fn_126"></span>[116:1](nbr05.htm#fr_126.md) \[I have still left
 this, though it may be too precise as a system. Still both are spoken
 of. There is an excessive degradation; the fair form of ecclesiastical
 character is gone, and it is thorough demon wickedness. In this case,
 xviii. 4-8, and as above 21, would seem to coalesce with xvi. 19.\]
 
-<span id="fn_127"></span>[117:1](nbr05.htm#fr_127) When God takes to
+<span id="fn_127"></span>[117:1](nbr05.htm#fr_127.md) When God takes to
 Himself His power and reigns, and the worldly kingdom of our Lord and
 His anointed is come. It is taken up here on the actual judgment and
 removal out of the way of Babylon, as the earthly mystery opposed to the
@@ -949,39 +949,39 @@ heavenly bride of Christ: so that, as the Lord God Omnipotent takes His
 power, the Lamb thereupon takes His bride. Her fall, which seems more
 connected with the fall of Satan from heaven, is a previous thing.
 
-<span id="fn_128"></span>[118:1](nbr05.htm#fr_128) The marriage of the
+<span id="fn_128"></span>[118:1](nbr05.htm#fr_128.md) The marriage of the
 Lamb was not before the world; though, having espoused her in the
 heavens, He may then in the gladness of His heart bring her forth in
 glory.
 
-<span id="fn_129"></span>[118:2](nbr05.htm#fr_129) Note, sonship is not
+<span id="fn_129"></span>[118:2](nbr05.htm#fr_129.md) Note, sonship is not
 the point of this book, but dealings on earth: therefore the angel says,
 "fellow servant" to those who, in their higher character, are really
 sons and joint heirs.
 
-<span id="fn_130"></span>[119:1](nbr05.htm#fr_130) I have long felt, and
+<span id="fn_130"></span>[119:1](nbr05.htm#fr_130.md) I have long felt, and
 it is clear from this passage, that the Church is actually with Christ
 in heavenly places before this; for they come forth with Him. \[See
 Colossians iii. 1-4.\]
 
-<span id="fn_131"></span>[119:2](nbr05.htm#fr_131) "Judgment shall
+<span id="fn_131"></span>[119:2](nbr05.htm#fr_131.md) "Judgment shall
 return to righteousness; and all the upright in heart shall follow it."
 Psalm xciv. 15.
 
-<span id="fn_132"></span>[120:1](nbr05.htm#fr_132) \[Only that the kings
+<span id="fn_132"></span>[120:1](nbr05.htm#fr_132.md) \[Only that the kings
 of the earth compose the ideal completeness of the earth under the
 beast.\]
 
-<span id="fn_133"></span>[121:1](nbr05.htm#fr_133) Of this idolatrous
+<span id="fn_133"></span>[121:1](nbr05.htm#fr_133.md) Of this idolatrous
 and worldly power, Egypt, Babylon, and Tyre (from which last the worldly
 and apostate character is specially drawn) were the great centres
 mentioned in scripture. The last committed fornication with all the
 kingdoms of the earth (this in connection with her trade, &c.).
 
-<span id="fn_134"></span>[122:1](nbr05.htm#fr_134) As Babylon, or the
+<span id="fn_134"></span>[122:1](nbr05.htm#fr_134.md) As Babylon, or the
 great city, Tyre: adulterous Israel and idolatry.
 
-<span id="fn_135"></span>[123:1](nbr05.htm#fr_135) I think I see here an
+<span id="fn_135"></span>[123:1](nbr05.htm#fr_135.md) I think I see here an
 assertion of threefold presentation of those who shall occupy the
 thrones, or at least live and reign with Christ a thousand years. First,
 the general body of the saints of the heavenlies, including the
@@ -989,17 +989,17 @@ Church,--they sat on thrones; next, those beheaded for the testimony of
 Jesus and the word of God; thirdly, those who had not worshipped the
 beast. This is important as shewing the place of all these classes.
 
-<span id="fn_136"></span>[126:1](nbr05.htm#fr_136) If any ask what comes
+<span id="fn_136"></span>[126:1](nbr05.htm#fr_136.md) If any ask what comes
 of the living saints as to their change at the close of the millennium,
 the answer is--scripture says nothing, save that from other passages we
 know, on principle, they will have incorruptible natures in that scene
 when all things are made new.
 
-<span id="fn_137"></span>[128:1](nbr05.htm#fr_137) Chapter xxi. 8,
+<span id="fn_137"></span>[128:1](nbr05.htm#fr_137.md) Chapter xxi. 8,
 closes the historical statement: what follows is description, and that
 of the millennial effect of the city as well as of the city itself.
 
-<span id="fn_138"></span>[130:1](nbr05.htm#fr_138) The Spirit saying it
+<span id="fn_138"></span>[130:1](nbr05.htm#fr_138.md) The Spirit saying it
 slimed that it was not merely a holy though untaught desire, but the
 mind of the Spirit itself, in and to the Church, who, what He hears,
 speaks. It was the divine mind, but, so taught, all the bride's
@@ -1010,4 +1010,4 @@ Church, espoused as a chaste virgin unto Christ.
 
 ------------------------------------------------------------------------
 
-[Next: Charts](nbr06)
+[Next: Charts](nbr06.md)

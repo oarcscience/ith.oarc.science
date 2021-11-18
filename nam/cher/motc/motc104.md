@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc103) 
-[Next](motc105) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc103.md) 
+[Next](motc105.md) 
 
 ------------------------------------------------------------------------
 
@@ -205,4 +205,4 @@ Indian Tribes, III, pp. 293-4, 1853.
 
 ------------------------------------------------------------------------
 
-[Next: 105. The Southern And Western Tribes](motc105)
+[Next: 105. The Southern And Western Tribes](motc105.md)

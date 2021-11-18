@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa59)  [Next](psa61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa59)  [Next](psa61.md) 
 
 ------------------------------------------------------------------------
 
@@ -337,4 +337,4 @@ Jamwutee, Sutbhama, Kalindee, Mittrabinda, Sutya, Bhudra and Luchmuna.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LX](psa61)
+[Next: Chapter LX](psa61.md)

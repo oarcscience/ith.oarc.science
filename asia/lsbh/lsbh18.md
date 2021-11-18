@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh17)  [Next](lsbh19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh17)  [Next](lsbh19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ CCCCXXX\. While a certain miserly man was eating bread with his wife a
 man came to visit them, and they said unto him, "Command \[us\]." And he
 said unto them, "I am quite undone," that is to say, "I am exhausted."
 And when the miser heard these words he said to his wife, "Doth he mean
-to say 'I have had my meal <span id="fr_97"></span>[1](#fn_97),' that is
+to say 'I have had my meal <span id="fr_97"></span>[1](#fn_97.md),' that is
 to say, 'I have eaten,' but doth not know \[how to speak\] after the
 manner of books? "Let us not press him, then, lest he lay in food upon
 food, and he suffer pain and blame us for urging him \[to eat\]."
@@ -128,7 +128,7 @@ bread only."
 
 CCCCXLII\. A certain miserly woman was wrangling with a man who was
 selling flour to her, and she said, "I have taken from thee a
-*rîṭlâ* <span id="fr_98"></span>[1](#fn_98) of flour, and only ninety
+*rîṭlâ* <span id="fr_98"></span>[1](#fn_98.md) of flour, and only ninety
 bread-cakes can be made therefrom." The man said to her, "O woman, whose
 womanly character hath fled, if thou art wont to make every bread-cake
 of the size of a mill-stone, wherein have I offended?"
@@ -291,7 +291,7 @@ hast thou circulated! What a number of seas hast thou passed through!
 How very many rich men hast thou brought to poverty! How very many needy
 ones hast thou enriched! How very many virgins hast thou corrupted and
 brought to misery! And how very many daughters of noblemen <span
-id="fr_99"></span>[1](#fn_99) (?) hast thou called to wantonness!" And
+id="fr_99"></span>[1](#fn_99) (?.md) hast thou called to wantonness!" And
 as he threw the coin
 
 <span id="page_120">p. 120</span>
@@ -344,13 +344,13 @@ king whom she had found.
 
 ### Footnotes
 
-<span id="fn_97"></span>[111:1](lsbh18.htm#fr_97) The pun is, of course,
+<span id="fn_97"></span>[111:1](lsbh18.htm#fr_97.md) The pun is, of course,
 on the words \#\#\#, and \#\#\#.
 
-<span id="fn_98"></span>[114:1](lsbh18.htm#fr_98) The Arabic \#\#\#, a
+<span id="fn_98"></span>[114:1](lsbh18.htm#fr_98.md) The Arabic \#\#\#, a
 weight of about a pound.
 
-<span id="fn_99"></span>[119:1](lsbh18.htm#fr_99) The exact meaning of
+<span id="fn_99"></span>[119:1](lsbh18.htm#fr_99.md) The exact meaning of
 \#\#\# is unknown to me.
 
 <div class="filenav">
@@ -358,6 +358,6 @@ weight of about a pound.
 ------------------------------------------------------------------------
 
 [Next: The Fourteenth Chapter: Stories of Men Who Followed Despised
-Handicrafts](lsbh19)
+Handicrafts](lsbh19.md)
 
 </div>

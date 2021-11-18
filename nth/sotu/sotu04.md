@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sotu03)  [Next](sotu05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sotu03)  [Next](sotu05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Universe*, by Nathan R. Wood, \[1932\], at Intangible
 Textual Heritage
 
@@ -312,7 +312,7 @@ which the Bible presents*.
  
 
 Witness the argument from the older psychology, of intellect, affections
-and will, or mind, heart and will. It sounds [outmoded](errata.htm#0)
+and will, or mind, heart and will. It sounds [outmoded](errata.htm#0.md)
 now, but it has appealed to many in the past.
 
 But it is not certain that this is a necessary threeness,
@@ -944,4 +944,4 @@ God.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Demand of the Universe](sotu05)
+[Next: III. The Demand of the Universe](sotu05.md)

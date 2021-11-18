@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft17)  [Next](meft19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft17)  [Next](meft19.md) 
 
 ------------------------------------------------------------------------
 
 # The Three Cows
 
 <span id="img_019"></span> [![](tn/019.jpg)  
-Click to enlarge](img/019.jpg)
+Click to enlarge](img/019.jpg.md)
 
 THERE was a farmer, and he had three cows, fine fat beauties they were.
 One was called Facey, the other Diamond, and the third Beauty. One
@@ -69,4 +69,4 @@ and the farmer crept trembling to bed.
 
 ------------------------------------------------------------------------
 
-[Next: The Blinded Giant](meft19)
+[Next: The Blinded Giant](meft19.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat70)  [Next](jat72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat70)  [Next](jat72.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ parfleches. Coming back with it we camped at Rio Bonito.
 
 ------------------------------------------------------------------------
 
-[Next: 70. The Mescalero Beg For Meat](jat72)
+[Next: 70. The Mescalero Beg For Meat](jat72.md)

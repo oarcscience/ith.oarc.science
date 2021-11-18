@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw05)  [Next](tnw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw05)  [Next](tnw07.md) 
 
 ------------------------------------------------------------------------
 
@@ -303,4 +303,4 @@ And it is a house of cards.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Altruism: The Face in the Looking-Glass](tnw07)
+[Next: 6. Altruism: The Face in the Looking-Glass](tnw07.md)

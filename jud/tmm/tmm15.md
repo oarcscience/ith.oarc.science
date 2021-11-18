@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm14)  [Next](tmm16) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm14)  [Next](tmm16.md) 
 
 ------------------------------------------------------------------------
 
@@ -226,4 +226,4 @@ were punished with it (Lament. 1. 3), and comforted with it (Zech.
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Esther](tmm16)
+[Next: Midrash Esther](tmm16.md)

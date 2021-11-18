@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw12) [Next](scw14)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw12) [Next](scw14.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -455,4 +455,4 @@ My yearning as it needs must yearn?<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw14)
+[Next](scw14.md)

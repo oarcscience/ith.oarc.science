@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi41)  [Next](osi43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi41)  [Next](osi43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -51,7 +51,7 @@ walked quietly in. People of that class have the privilege of entering
 the presence of the highest personages in Hindustan at any time, without
 previous announcement, and although they seldom make use of the
 privilege in the case of Europeans, I had, in the beginning of our
-acquaintance, allowed [Covindasamy](errata.htm#10) to do as he pleased.
+acquaintance, allowed [Covindasamy](errata.htm#10.md) to do as he pleased.
 This, added to my knowledge of his native tongue, had made him very
 friendly.
 
@@ -166,4 +166,4 @@ me.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. The Stationary Table—A Shower Of Knocks—The Little
-Mill—Flying Feathers—The Harmoniflute](osi43)
+Mill—Flying Feathers—The Harmoniflute](osi43.md)

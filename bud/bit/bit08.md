@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit07)  [Next](bit09) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit07)  [Next](bit09.md) 
 
 ------------------------------------------------------------------------
 
@@ -525,4 +525,4 @@ Ratnakûta.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The System of Mysticism](bit09)
+[Next: Chapter VI. The System of Mysticism](bit09.md)

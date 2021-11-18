@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar65)  [Next](gar67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar65)  [Next](gar67.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 <span id="page_419">p. 419</span>
 
-A distinguishing feature of [Gnosticism](errata.htm#26) was the
+A distinguishing feature of [Gnosticism](errata.htm#26.md) was the
 profession of continence, at least as far as regards the propagation of
 the human species, which was denounced to the "spiritual" as the doing
 in the highest measure the will of the Demiurgus, and the perpetuating
@@ -88,4 +88,4 @@ faithfully observed as in the very springtide of their institution.
 
 ------------------------------------------------------------------------
 
-[Next: Mithraicism](gar67)
+[Next: Mithraicism](gar67.md)

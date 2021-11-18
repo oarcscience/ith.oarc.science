@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa23)  [Next](psa25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa23)  [Next](psa25.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ arrived near the Jumna.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV](psa25)
+[Next: Chapter XXIV](psa25.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng12)  [Next](vlsng14) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng12)  [Next](vlsng14.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ Sigmund. See Chapter 3.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII: Of the Shards of the Sword Gram, and how Hjordis
-went to King Alf.](vlsng14)
+went to King Alf.](vlsng14.md)

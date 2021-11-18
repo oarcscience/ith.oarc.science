@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft62)  [Next](sfft64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft62)  [Next](sfft64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_203">p. 203</span>
 
-### FATLIPS. <span id="fr_97"></span>[1](#fn_97)
+### FATLIPS. <span id="fr_97"></span>[1](#fn_97.md)
 
 ABOUT fifty years ago, an unfortunate female wanderer took up her
 residence in a dark vault, among the ruins of Dryburgh Abbey, which
@@ -51,9 +51,9 @@ neighbouring peasants dare enter it by night.
 
 ### Footnotes
 
-<span id="fn_97"></span>[203:1](sfft63.htm#fr_97) Sir Walter Scott,
+<span id="fn_97"></span>[203:1](sfft63.htm#fr_97.md) Sir Walter Scott,
 *Minstrelsy of the Scottish Border*.
 
 ------------------------------------------------------------------------
 
-[Next: The Silly Mutton](sfft64)
+[Next: The Silly Mutton](sfft64.md)

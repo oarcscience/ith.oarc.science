@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab19)  [Next](mab21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab19)  [Next](mab21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -22,11 +22,11 @@ Textual Heritage
 
 # PWYLL PRINCE OF DYVED
 
-Pwyll [339a](mab21.htm#xref_339a) Prince of
-Dyved [339b](mab21.htm#xref_339b) was lord of the seven Cantrevs of
+Pwyll [339a](mab21.htm#xref_339a.md) Prince of
+Dyved [339b](mab21.htm#xref_339b.md) was lord of the seven Cantrevs of
 Dyved; and once upon a time he was at Narberth his chief palace, and he
 was minded to go and hunt, and the part of his dominions in which it
-pleased him to hunt was Glyn Cuch [339c](mab21.htm#xref_339c). So he set
+pleased him to hunt was Glyn Cuch [339c](mab21.htm#xref_339c.md). So he set
 forth from Narbeth that night, and went as far as Llwyn Diarwyd. And
 that night he tarried there, and early on the morrow he rose and came to
 Glyn Cuch, when he let loose the dogs in the wood, and sounded the horn,
@@ -68,8 +68,8 @@ ill I will redeem thy friendship." "How wilt thou redeem it?" "According
 as thy dignity may be, but I know not who thou art?" "A crowned king am
 I in the land whence I come." "Lord," said he, "may the day prosper with
 thee, and from what land comest thou?" "From Annwvyn," answered he;
-"Arawn, a King of Annwvyn [340a](mab21.htm#xref_340a)
- [340b](mab21.htm#xref_340b), am I." "Lord," said he, "how may I gain
+"Arawn, a King of Annwvyn [340a](mab21.htm#xref_340a.md)
+ [340b](mab21.htm#xref_340b.md), am I." "Lord," said he, "how may I gain
 thy friendship?" "After this manner mayest thou," he said. "There is a
 man whose dominions are opposite to mine, who is ever warring against
 me, and he is Havgan, a King of Annwvyn, and by ridding me of this
@@ -213,7 +213,7 @@ Pwyll Chief of Annwvyn from that time forward.
 Once upon a time, Pwyll was at Narberth his chief palace, where a feast
 had been prepared for him, and with him was a great host of men. And
 after the first meal, Pwyll arose to walk, and he went to the top of a
-mound [344a](mab21.htm#xref_344a) that was above the palace, and was
+mound [344a](mab21.htm#xref_344a.md) that was above the palace, and was
 called Gorsedd Arberth. "Lord," said one of the Court, "it is peculiar
 to the mound that whosoever sits upon it cannot go thence, without
 either receiving wounds or blows, or else seeing a wonder." "I fear not
@@ -309,8 +309,8 @@ said, "wilt thou tell me aught concerning thy purpose?" "I will tell
 thee," said she. "My chief quest was to seek thee." "Behold," said
 Pwyll, "this is to me the most pleasing quest on which thou couldst have
 come; and wilt thou tell me who thou art?" "I will tell thee, Lord,"
-said she. "I am Rhiannon [347a](mab21.htm#xref_347a), the daughter of
-Heveydd Hên [347b](mab21.htm#xref_347b), and they sought to give me to a
+said she. "I am Rhiannon [347a](mab21.htm#xref_347a.md), the daughter of
+Heveydd Hên [347b](mab21.htm#xref_347b.md), and they sought to give me to a
 husband against my will. But no husband would I have, and that because
 of my love for thee, neither will I yet have one unless thou reject me.
 And hither have I come to hear thy answer." "By Heaven," said Pwyll,
@@ -566,7 +566,7 @@ back into the palace. But it rarely happened that any would permit. And
 thus did she spend part of the year.
 
 Now at that time Teirnyon Twryv Vliant was Lord of Gwent Is
-Coed [354a](mab21.htm#xref_354a), and he was the best man in the world.
+Coed [354a](mab21.htm#xref_354a.md), and he was the best man in the world.
 And unto his house there belonged a mare, than which neither mare nor
 horse in the kingdom was more beautiful. And on the night of every first
 of May she foaled, and no one ever knew what became of the colt. And one
@@ -608,7 +608,7 @@ unto me, and tell them that I have been pregnant." "I will readily grant
 thee to do this," he answered. And thus did they, and they caused the
 boy to be baptized, and the ceremony was performed there; and the name
 which they gave unto him was Gwri Wallt
-Euryn [355a](mab21.htm#xref_355a), because what hair was upon his head
+Euryn [355a](mab21.htm#xref_355a.md), because what hair was upon his head
 was as yellow as gold. And they had the boy nursed in the Court until he
 was a year old. And before the year was over he could walk stoutly. And
 he was larger than a boy of three years old, even one of great growth
@@ -683,8 +683,8 @@ there is none of this host who will not perceive that the boy is the son
 of Pwyll," said Teirnyon. "There is none," said they all, "who is not
 certain thereof." "I declare to Heaven," said Rhiannon, "that if this be
 true, there is indeed an end to my trouble." "Lady," said Pendaran
-Dyved [357a](mab21.htm#xref_357a), "well hast thou named thy son
-Pryderi, <span id="fr_188"></span>[1](#fn_187) and well becomes him the
+Dyved [357a](mab21.htm#xref_357a.md), "well hast thou named thy son
+Pryderi, <span id="fr_188"></span>[1](#fn_187.md) and well becomes him the
 name of Pryderi son of Pwyll Chief of Annwvyn." "Look you," said
 Rhiannon, "will not his own name become him better?" "What name has he?"
 asked Pendaran Dyved. "Gwri Wallt Euryn is the name that we gave him."
@@ -745,9 +745,9 @@ And thus ends this portion of the Mabinogion.
 
 ### Footnotes
 
-<span id="fn_187"></span>[357:1](mab20.htm#fr_188) The word "Pryder" or
+<span id="fn_187"></span>[357:1](mab20.htm#fr_188.md) The word "Pryder" or
 Pryderi" means anxiety.
 
 ------------------------------------------------------------------------
 
-[Next: Notes to Pwyll Prince of Dyved](mab21)
+[Next: Notes to Pwyll Prince of Dyved](mab21.md)

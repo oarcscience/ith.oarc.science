@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXVI) 
-[Previous](satl115)  [Next](satl117) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXVI.md) 
+[Previous](satl115)  [Next](satl117.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ lacerantur, aut corvi qui lacerant." &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXVII](satl117)
+[Next: CXVII](satl117.md)

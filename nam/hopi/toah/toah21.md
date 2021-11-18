@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah20)  [Next](toah22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah20)  [Next](toah22.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_111">p. 111</span>
 
-### THE LADDER DANCE AT OLD SHUNG-OPOVI <span id="fr_2"></span>[1](#fn_2)
+### THE LADDER DANCE AT OLD SHUNG-OPOVI <span id="fr_2"></span>[1](#fn_2.md)
 
 The present Hopi pueblo of Shung-opovi has occupied its present site
 since about 1700. Previous to that time, the pueblo straggled over the
@@ -17,9 +17,9 @@ spring that gave the name to the pueblo, and which went dry in the
 1870's at the time of a landslide which caused a local earthquake.
 
 About a hundred yards south of this spring stands a large boulder ([Fig.
-1](#img_11200)). On the top of this boulder can be observed three holes
+1](#img_11200).md). On the top of this boulder can be observed three holes
 in a row, each hole being about a foot in diameter and between a foot
-and two feet deep ([Fig. 2](#img_11300)). Hopi tradition associates
+and two feet deep ([Fig. 2](#img_11300).md). Hopi tradition associates
 these holes with a Hopi ceremony now extinct call the Ladder Dance.
 
 THERE WAS one kiva at old Shung-opovi known as the Ash Pile Kiva. They
@@ -163,9 +163,9 @@ the town was abandoned (between 1680 and 1700).
 
 ### Footnotes
 
-<span id="fn_2"></span>[111:1](toah21.htm#fr_2) Reprinted from M. N. A.,
+<span id="fn_2"></span>[111:1](toah21.htm#fr_2.md) Reprinted from M. N. A.,
 Museum Notes, Vol. 5, No. 2, Aug. 1932, p. 5.
 
 ------------------------------------------------------------------------
 
-[Next: The Ladder Dance At Pivahonkiapi](toah22)
+[Next: The Ladder Dance At Pivahonkiapi](toah22.md)

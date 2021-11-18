@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe233)  [Next](prwe235) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe233)  [Next](prwe235.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ lves: Correspondent.
 
 ------------------------------------------------------------------------
 
-[Next: Lady Lovell's Courtship](prwe235)
+[Next: Lady Lovell's Courtship](prwe235.md)

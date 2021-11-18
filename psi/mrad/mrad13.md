@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad12)  [Next](mrad14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad12)  [Next](mrad14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -48,9 +48,9 @@ can't draw it, but curls of some sort." At this time the convention that
 "curls" stood for smoke had not been established. But now, in the series
 drawn by my secretary, appeared a little house with smoking chimney, and
 you will see that my wife got the smoke better than the house ([figs.
-36, 36a](#img_fig036)):
+36, 36a](#img_fig036).md):
 
-<span id="img_fig036"></span> ![Fig. 36, Fig. 36a](img/fig036.jpg)
+<span id="img_fig036"></span> ![Fig. 36, Fig. 36a](img/fig036.jpg.md)
 
 This apparently established in her mind the association of curls with
 smoke. So when, in series six, I drew a pipe with smoke-curls, my wife
@@ -59,53 +59,53 @@ first drew an ellipse, and then wrote: "Now
 <span id="page_97">p. 97</span>
 
 it begins to spin, round and round, and is attached to a stick." She
-then drew ([figs. 37, 37a](#img_fig037)):
+then drew ([figs. 37, 37a](#img_fig037).md):
 
-<span id="img_fig037"></span> ![Fig. 37, Fig. 37a](img/fig037.jpg)
+<span id="img_fig037"></span> ![Fig. 37, Fig. 37a](img/fig037.jpg.md)
 
 In series eight I drew a sky-rocket going up. My first impulse had been
 to draw a bursting rocket, with a shower of stars, but I realized that
-would be difficult, so I drew this instead ([fig. 38](#img_fig038)):
+would be difficult, so I drew this instead ([fig. 38](#img_fig038).md):
 
-<span id="img_fig038"></span> ![Fig. 38](img/fig038.jpg)
+<span id="img_fig038"></span> ![Fig. 38](img/fig038.jpg.md)
 
 <span id="page_98">p. 98</span>
 
 My wife apparently took my first thought, rather than my drawing.
 Anyhow, she made half a dozen sketches of whirligigs and light ([figs.
-38a, 38b, 38c](#img_fig038a)):
+38a, 38b, 38c](#img_fig038a).md):
 
 <span id="img_fig038a"></span> ![Fig. 38a, Fig. 38b, Fig.
-38c](img/fig038a.jpg)
+38c](img/fig038a.jpg.md)
 
 And here in series twenty-two is a burning lamp ([figs. 39,
-39a](#img_fig039)):
+39a](#img_fig039).md):
 
-<span id="img_fig039"></span> ![Fig. 39, Fig. 39a](img/fig039.jpg)
+<span id="img_fig039"></span> ![Fig. 39, Fig. 39a](img/fig039.jpg.md)
 
 <span id="page_99">p. 99</span>
 
 And in series thirty-four another, with comment: "flame and sparks"
-([figs. 40, 40a](#img_fig040)):
+([figs. 40, 40a](#img_fig040).md):
 
-<span id="img_fig040"></span> ![Fig. 40, Fig. 40a](img/fig040.jpg)
+<span id="img_fig040"></span> ![Fig. 40, Fig. 40a](img/fig040.jpg.md)
 
 I drew another pipe in series twenty-two, with the usual curls of smoke;
 and Craig wrote: "Smoke stack." I drew another in series thirty-three
 with the result that, five drawings in advance of the correct one, Craig
 drew a pipe with smoke. Of course, this may have been a coincidence; but
 wait till you see how often such coincidences happen! ([figs. 41,
-41a](#img_fig041)):
+41a](#img_fig041).md):
 
-<span id="img_fig041"></span> ![Fig. 41, Fig. 41a](img/fig041.jpg)
+<span id="img_fig041"></span> ![Fig. 41, Fig. 41a](img/fig041.jpg.md)
 
 <span id="page_100">p. 100</span>
 
 In series twenty-one I drew a chimney, and Craig drew a chimney, and
 added smoke. In thirty-four I drew an old-fashioned trench-mortar; and
-here again she supplied the smoke ([figs. 42, 42a](#img_fig042)):
+here again she supplied the smoke ([figs. 42, 42a](#img_fig042).md):
 
-<span id="img_fig042"></span> ![Fig. 42, Fig. 42a](img/fig042.jpg)
+<span id="img_fig042"></span> ![Fig. 42, Fig. 42a](img/fig042.jpg.md)
 
 Cannons are especially horrible things to her, as you may note again and
 again in her published war-sonnets:
@@ -120,18 +120,18 @@ The sharpened steel whips round, the black guns blaze,
 So when, in series eleven, I drew the muzzle half of an old-style
 cannon, Craig's imagination got to work one drawing ahead of time. She
 wrote: "Fire and smoke—smoke—flame," and then drew as follows ([fig.
-43a](#img_fig043)):
+43a](#img_fig043).md):
 
 <span id="page_101">p. 101</span>
 
-<span id="img_fig043"></span> ![Fig. 43a](img/fig043.jpg)
+<span id="img_fig043"></span> ![Fig. 43a](img/fig043.jpg.md)
 
 The next drawing was the cannon, and I give it, along with the drawing
 Craig made to go with it. The comment she wrote was: "Half circle
 —double lines—light inside—light is fire busy whirling or flaming"
-([figs. 44, 44a](#img_fig044)):
+([figs. 44, 44a](#img_fig044).md):
 
-<span id="img_fig044"></span> ![Fig. 44, Fig. 44a](img/fig044.jpg)
+<span id="img_fig044"></span> ![Fig. 44, Fig. 44a](img/fig044.jpg.md)
 
 <span id="page_102">p. 102</span>
 
@@ -149,9 +149,9 @@ at the sight of a snake. All this, of course, strongly affected the
 child's early days, and now it is in her mental depths. So when I drew a
 hissing snake, just see the uproar I caused! She made no drawing, but
 wrote a little essay. I give my drawing, and her essay following ([fig.
-45](#img_fig045)):
+45](#img_fig045).md):
 
-<span id="img_fig045"></span> ![Fig. 45](img/fig045.jpg)
+<span id="img_fig045"></span> ![Fig. 45](img/fig045.jpg.md)
 
 <span id="page_103">p. 103</span>
 
@@ -171,4 +171,4 @@ down on her favorite pet kitten, and exploded it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](mrad14)
+[Next: Chapter XIII](mrad14.md)

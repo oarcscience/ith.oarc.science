@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#XI)  [Previous](satl010) 
-[Next](satl012) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#XI)  [Previous](satl010.md) 
+[Next](satl012.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ dividere cum fratre nolito." &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: XII](satl012)
+[Next: XII](satl012.md)

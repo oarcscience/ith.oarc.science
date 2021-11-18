@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil21)  [Next](egil23) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil21)  [Next](egil23.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ the firth, but that is a head-wind for those coasting northward.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXII. Death of Thorolf Kveldulfsson.](egil23)
+[Next: CHAPTER XXII. Death of Thorolf Kveldulfsson.](egil23.md)

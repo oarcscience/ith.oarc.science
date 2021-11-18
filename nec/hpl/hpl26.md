@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl25)  [Next](hpl27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl25)  [Next](hpl27.md) 
 
 ------------------------------------------------------------------------
 
@@ -306,4 +306,4 @@ been Denys Barry.
 
 ------------------------------------------------------------------------
 
-[Next: The Colour Out of Space (1927)](hpl27)
+[Next: The Colour Out of Space (1927)](hpl27.md)

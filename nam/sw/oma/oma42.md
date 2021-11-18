@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma41)  [Next](oma43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma41)  [Next](oma43.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl09a"></span>
 
 [![Plate 9, Figure 1](tn/pl09a.jpg)  
-Click to enlarge](img/pl09a.jpg)  
+Click to enlarge](img/pl09a.jpg.md)  
 Plate 9, Figure 1  
 
 FIGURE 1. Katsina prayer sticks. Made of willow (a "water" tree); the
@@ -29,7 +29,7 @@ mountain.
 <span id="img_pl09b"></span>
 
 [![Plate 9, Figure 2](tn/pl09b.jpg)  
-Click to enlarge](img/pl09b.jpg)  
+Click to enlarge](img/pl09b.jpg.md)  
 Plate 9, Figure 2  
 
 FIGURE 2. Fire society prayer sticks. Upper center: Basket ring
@@ -46,4 +46,4 @@ clothes).
 
 ------------------------------------------------------------------------
 
-[Next: Plate 10](oma43)
+[Next: Plate 10](oma43.md)

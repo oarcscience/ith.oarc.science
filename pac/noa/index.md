@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486248593/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486248593/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486248593/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](noa00)
+[Contents](#contents)    [Start Reading](noa00.md)
 
 ------------------------------------------------------------------------
 
@@ -46,14 +46,14 @@ This slight travelogue of an artists' journey into the heart of the
 primitive both enthralls and informs. Written as a potboiler after he
 returned to France, there are two distinct parts of this book. The first
 part is an extended narrative of Gauguin's entry into the slow rhythms
-of Polynesian village life. [Late in the book](noa01.htm#page_92) we hit
+of Polynesian village life. [Late in the book](noa01.htm#page_92.md) we hit
 folklore paydirt. In an extended passage, Gauguin's Tahitian
 child-concubine relates to him the Tahitian cosmogony, with a number of
 myths, legendary genealogies, ethnoastronomy, and a deluge story.
 Gauguin remarks on how advanced the Polynesian lore seems, particularly
 their belief in evolutionary processes and knowledge of the spherical
 nature of the Earth. This is consistent with the Hawaiian
-[Kumulipo](../ku/index). While not a scholarly dissertation by any
+[Kumulipo](../ku/index.md). While not a scholarly dissertation by any
 means, this portion is a well written discussion of Tahitian beliefs.
 
 The book ends with Gauguin sailing back to France. As foreshadowed here,
@@ -61,11 +61,11 @@ he returned to the South seas. He died and was buried in the Marquesas
 in 1903.
 
 This text is also available in the French original from [Project
-Gutenberg](https://www.gutenberg.org/etext/11646). Because the book has
+Gutenberg](https://www.gutenberg.org/etext/11646.md). Because the book has
 no chapter divisions and is comparatively small (140Kb) it has been
 posted as one big file.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](noa00)  
-[Noa Noa](noa01)  
+<span id="contents"></span> [Title Page](noa00.md)  
+[Noa Noa](noa01.md)  

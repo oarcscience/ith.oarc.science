@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou30)  [Next](hou32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou30)  [Next](hou32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ valleys of the Humboldt and Carson rivers, being, in fact, almost
 identical with the Frémont route of 1845. Notwithstanding its length, it
 was still preferred by travellers, as pasture and water were fairly
 plentiful, and only two small tracts of desert land were met with. <span
-id="fr_1327"></span>[1](#fn_1327) The central, better known to the
+id="fr_1327"></span>[1](#fn_1327.md) The central, better known to the
 settlers of Utah by the name of Egan's and to the California-bound
 emigrants as the Simpson route, though the two were by no means
 coincident, varied but a few miles from the fortieth parallel until
@@ -49,21 +49,21 @@ reaching the
 <span class="contnote">\[paragraph continues\]</span> Hastings pass in
 the Humboldt Mountains, where it branched off in a south-westerly
 direction toward Carson lake and river, and from Carson City south to
-Genoa. <span id="fr_1328"></span>[2](#fn_1328) The southern route was by
+Genoa. <span id="fr_1328"></span>[2](#fn_1328.md) The southern route was by
 way of the Sevier, Santa Clara, and Virgen rivers, striking the Frémont
 trail near Las Vegas, thence partly across desert tracts to the junction
 of Indian River and the Colorado, and from that point to San
-Bernardino. <span id="fr_1329"></span>[3](#fn_1329) On neither of the
+Bernardino. <span id="fr_1329"></span>[3](#fn_1329.md) On neither of the
 last two were grass and water abundant, but the southern route had the
 advantage of being rarely blocked with snow, except for the portion of
 it that lay between Salt Lake and the Rio Virgen.
 
     At the close of 1883 there were more than 3,000 miles of common
-roadway in Utah, <span id="fr_1330"></span>[4](#fn_1330) and 1,143 miles
+roadway in Utah, <span id="fr_1330"></span>[4](#fn_1330.md) and 1,143 miles
 
 <span id="page_753">p. 753</span>
 
-of railroad, <span id="fr_1331"></span>[5](#fn_1331) of which 297
+of railroad, <span id="fr_1331"></span>[5](#fn_1331.md) of which 297
 belonged to the Union Pacific, 150 to the Central Pacific, 386 to the
 Denver and Rio Grande, 280 to the Utah Central, and 30 to the Sanpete
 Valley.
@@ -71,7 +71,7 @@ Valley.
     In 1854, as we have seen, a memorial was addressed to congress by
 the territorial legislature, urging the construction of an overland
 railroad. In 1860 a second memorial was presented, to the same
-purport, <span id="fr_1332"></span>[6](#fn_1332) and though neither of
+purport, <span id="fr_1332"></span>[6](#fn_1332.md) and though neither of
 them was regarded, none rejoiced more heartily over the advent of the
 railroad than did the settlers of Utah. They felt now strong enough to
 have let in on them the advancing tide of civilization without being
@@ -95,7 +95,7 @@ point it entered the valley, there was much tunnelling, blasting, and
 mason-work to be done, including the heavy stone-work of the bridge
 abutments. The contract amounted to about $1,000,000, gave employment to
 500 or 600 men, and, according to its terms, <span
-id="fr_1333"></span>[7](#fn_1333) eighty per cent of the payments were
+id="fr_1333"></span>[7](#fn_1333.md) eighty per cent of the payments were
 to be made monthly as the work progressed, and the remainder when it was
 completed and accepted. As soon as the contract was closed, the
 superintendent urged that the work be commenced immediately, promising
@@ -114,7 +114,7 @@ as specified.
 executed, and it was acknowledged by all railroad men that nowhere on
 the line could the grading compare in completeness and finish with the
 work done by the people of Utah. Before the last tie was laid, <span
-id="fr_1334"></span>[8](#fn_1334) all the contracts with the Union and
+id="fr_1334"></span>[8](#fn_1334.md) all the contracts with the Union and
 
 <span id="page_755">p. 755</span>
 
@@ -124,7 +124,7 @@ completed and accepted; but on the 10th of May, 1869, it was claimed by
 the saints that the former company was indebted to them in the sum of
 $1,000,000, and the two companies about $1,250,000. Toward the close of
 the year John Taylor, Joseph A. Young, and John Sharp <span
-id="fr_1335"></span>[9](#fn_1335) went eastward, with a view to bringing
+id="fr_1335"></span>[9](#fn_1335.md) went eastward, with a view to bringing
 the
 
 <span id="page_756">p. 756</span>
@@ -136,7 +136,7 @@ value of $600,000 were assigned to them in payment.
     On the 17th of May, one week after the completion of the
 transcontinental railroad, ground was broken near the Weber River for a
 line between Ogden and Salt Lake City, to be named the Utah
-Central. <span id="fr_1336"></span>[10](#fn_1336) The road was built and
+Central. <span id="fr_1336"></span>[10](#fn_1336.md) The road was built and
 equipped mainly with the material and rolling stock transferred from the
 Union Pacific; for even at this date there was little money in Utah,
 mining and traffic being as yet undeveloped, and the entire floating
@@ -147,32 +147,32 @@ forms the main connecting link between the route of transcontinental
 traffic and the principal distributing point for the country.
 
     In May 1871 ground was broken at Salt Lake City for the Utah
-Southern, <span id="fr_1337"></span>[11](#fn_1337) the line being pushed
+Southern, <span id="fr_1337"></span>[11](#fn_1337.md) the line being pushed
 forward at intervals both north and south through some of the richest
 lands in Utah, until, in June 1879, its northern terminus was at
-Provo, <span id="fr_1338"></span>[12](#fn_1338) and its southern limit
+Provo, <span id="fr_1338"></span>[12](#fn_1338.md) and its southern limit
 at Juab, 105 miles south of the capital. <span
-id="fr_1339"></span>[13](#fn_1339) Later
+id="fr_1339"></span>[13](#fn_1339.md) Later
 
 <span id="page_757">p. 757</span>
 
 during this year the Utah Southern Extension was commenced at the latter
 point, completed during the following spring as far as Milford, <span
-id="fr_1340"></span>[14](#fn_1340) and a few weeks later to Frisco, the
+id="fr_1340"></span>[14](#fn_1340.md) and a few weeks later to Frisco, the
 location of the Horn Silver mine, its distance from Juab being 138
-miles. <span id="fr_1341"></span>[15](#fn_1341) In 1881 both these lines
+miles. <span id="fr_1341"></span>[15](#fn_1341.md) In 1881 both these lines
 were incorporated with the Utah Central. <span
-id="fr_1342"></span>[16](#fn_1342)
+id="fr_1342"></span>[16](#fn_1342.md)
 
     The Utah and Northern was organized in 1871, ground being broken at
 Brigham City in September of that year, and the road completed to Logan
 at the close of January 1873, and to Franklin, Idaho, by way of Ogden,
-early in the following year. <span id="fr_1343"></span>[17](#fn_1343)
+early in the following year. <span id="fr_1343"></span>[17](#fn_1343.md)
 The means for building this line were raised by the people of northern
 Utah with great difficulty, and after being maintained for years, first
 at a loss and then with meagre returns, it was sold to the Union Pacific
 for an insignificant sum, in February 1877, <span
-id="fr_1344"></span>[18](#fn_1344) extended through Idaho into western
+id="fr_1344"></span>[18](#fn_1344.md) extended through Idaho into western
 Montana, and in 1883 had become one of its most profitable branches.
 
     During Emery's administration a bill passed the legislature
@@ -193,7 +193,7 @@ a distance of twenty-five miles from Coalville. Soon afterward a
 parallel branch, named the Echo and Park City, was built by the Union
 Pacific, and in 1883 the control of the former, which was known as the
 Utah Eastern, fell into the hands of the latter. <span
-id="fr_1345"></span>[19](#fn_1345)
+id="fr_1345"></span>[19](#fn_1345.md)
 
     The Salt Lake and Western, fifty-seven miles in length, and later a
 branch of the Union Pacific, was built in 1874-5 from Lehi junction, a
@@ -201,7 +201,7 @@ mile north of Lehi City, to the Tintic mines. It was at first intended
 to push the line through to California, tapping some of the rich mining
 districts of Nevada; but this project was abandoned. In 1883 it was used
 mainly for hauling gold, silver, and iron ore. <span
-id="fr_1346"></span>[20](#fn_1346) the Utah and Nevada, first named the
+id="fr_1346"></span>[20](#fn_1346.md) the Utah and Nevada, first named the
 Salt Lake, Sevier Valley, and Pioche Railroad, was commenced in 1872,
 the intention being to build the line through the mining and
 agricultural lands of the Sevier Valley as far as Pioche, in
@@ -218,7 +218,7 @@ built in 1880, between Nephi, in Juab
 county, and Wales, in Sanpete county, its length being thirty miles, was
 constructed by an English company for the purpose of securing a market
 for the output of its coal mines. <span
-id="fr_1347"></span>[21](#fn_1347)
+id="fr_1347"></span>[21](#fn_1347.md)
 
     The Denver and Rio Grande Western, the Utah division of the Denver
 and Rio Grande system of railroads, first began work here in 1881, and
@@ -227,11 +227,11 @@ Salt Lake, Davis, and a portion of Weber counties, with branch lines
 named the Little Cottonwood and Bingham Cañon, the former running east
 into the Wasatch Mountains and the latter west into the Oquirrh Range,
 both being built solely to facilitate mining operations. <span
-id="fr_1348"></span>[22](#fn_1348) Ninety miles of the Denver and Rio
+id="fr_1348"></span>[22](#fn_1348.md) Ninety miles of the Denver and Rio
 Grande Western were built entirely by local enterprise, including fifty
 miles of the main line extending through Spanish Fork cañon, completed
 by the citizens of Springville, and first known as the Utah and Pleasant
-Valley Railroad. <span id="fr_1349"></span>[23](#fn_1349)
+Valley Railroad. <span id="fr_1349"></span>[23](#fn_1349.md)
 
     During the years immediately preceding the completion of the
 overland railroad, the imports of Utah seldom exceeded 12,000 tons,
@@ -244,7 +244,7 @@ who, together with the soldiery and the stage lines, furnished almost
 <span id="page_760">p. 760</span>
 
 the principal cash receipts of Utah. <span
-id="fr_1350"></span>[24](#fn_1350) In 1871 the volume of domestic
+id="fr_1350"></span>[24](#fn_1350.md) In 1871 the volume of domestic
 imports and exports had increased to 80,000 tons, and since that date
 has averaged about 125,000 tons, of which two thirds were imports, and
 nearly one half consisted of material needed for mining operations.
@@ -254,7 +254,7 @@ and of exports at $11,525,000, the chief items among the former being
 dry goods, groceries, clothing, lumber and other building material,
 agricultural implements, leather and leathern manufactures; among the
 latter, gold, silver, lead, copper matte, live-stock, beef, wool, hides,
-pelts, furs, and tallow, <span id="fr_1351"></span>[25](#fn_1351) the
+pelts, furs, and tallow, <span id="fr_1351"></span>[25](#fn_1351.md) the
 exports of metals alone amounting to $9,000,000. The shipment of iron
 ore and charcoal to Utah, which at one time were important factors in
 the imports, has now practically ceased; but the territory must always
@@ -279,7 +279,7 @@ experiment
 was first tried on a large scale in 1878, when a ship was laden at San
 Francisco with 64,000 bushels of Utah wheat, the cargo being sold before
 the vessel put to sea. A few months later a ship was chartered for
-England with 78,000 bushels, <span id="fr_1352"></span>[26](#fn_1352)
+England with 78,000 bushels, <span id="fr_1352"></span>[26](#fn_1352.md)
 but though a small profit was realized, it was not sufficient to
 encourage further operations.
 
@@ -289,7 +289,7 @@ which represents approximately the general business of Utah. It is
 worthy of note that while this large amount of business is transacted,
 the average number of failures for the eight years ending 1883 did not
 exceed fourteen, with liabilities averaging about $11,000. <span
-id="fr_1353"></span>[27](#fn_1353) The credit of Utah merchants is for
+id="fr_1353"></span>[27](#fn_1353.md) The credit of Utah merchants is for
 the most part exceptionally good; not that they are considered more
 upright than other merchants, but because a very large proportion of
 cash is now employed in their transactions; and while many import on a
@@ -311,7 +311,7 @@ over-anxiety to disburse
 <span id="page_762">p. 762</span>
 
 large dividends, it is probable that at least two thirds of the settlers
-patronize them at this day. <span id="fr_1354"></span>[28](#fn_1354)
+patronize them at this day. <span id="fr_1354"></span>[28](#fn_1354.md)
 
     The progress and development of trade in Utah froth the days of
 1848, when probably the entire cash capital of the community did not
@@ -322,12 +322,12 @@ their settlements, goods were exchanged with advantage to both sides. It
 was not until two years after the pioneers entered the valley that the
 first store was opened at an adobe house, in the seventeenth ward of
 Salt Lake City, by the firm of Livingston & Kinkead, <span
-id="fr_1355"></span>[29](#fn_1355) whose stock was worth some $20,000.
+id="fr_1355"></span>[29](#fn_1355.md) whose stock was worth some $20,000.
 In 1850 the firm of Holliday & Warner established a branch of their
 business in the capital, through their agent, William H. Hooper, who
 opened a store in a building erected for school purposes, on the block
 occupied by Brigham Young, thence removing to the structure later
-occupied by the museum. <span id="fr_1356"></span>[30](#fn_1356)
+occupied by the museum. <span id="fr_1356"></span>[30](#fn_1356.md)
 
     Soon the unerring scent of commerce discovered the direction which
 business must take, and Main
@@ -340,10 +340,10 @@ business quarter of the city, John and Enoch Reese, the third firm in
 historic date, building a store on the ground later occupied by the
 express office, and J M. Horner & Co., the fourth, occupying a portion
 of the premises of the *Deseret News*. <span
-id="fr_1357"></span>[31](#fn_1357) Among the men who had become
+id="fr_1357"></span>[31](#fn_1357.md) Among the men who had become
 prominent at the time of the Utah war were Gilbert & Gerrish and William
 Nixon, the latter being still termed the father of Utah merchants. <span
-id="fr_1358"></span>[32](#fn_1358)
+id="fr_1358"></span>[32](#fn_1358.md)
 
     Before the Utah war and for several years afterward, internal trade
 was conducted mainly by barter and the due-bill system. At this period
@@ -388,7 +388,7 @@ growth and development as that of any of the states on the Atlantic or
 Pacific seaboard. As early as 1864 there were several houses in Salt
 Lake City that purchased in New York, St Louis, or Chicago goods to the
 value of $250,000 or more at a time, among them being William
-Jennings, <span id="fr_1359"></span>[33](#fn_1359) Godbe & Mitchell, the
+Jennings, <span id="fr_1359"></span>[33](#fn_1359.md) Godbe & Mitchell, the
 Walker Brothers,
 
 <span id="page_765">p. 765</span>
@@ -398,7 +398,7 @@ States, outside, perhaps, of Boston, ranked higher as to commercial
 integrity. After the founding of Zion's Coöperative Mercantile
 Institution, mentioned elsewhere, and the development of its banking
 system, the trade and commerce of Utah assumed a more homogeneous
-character. <span id="fr_1360"></span>[34](#fn_1360)
+character. <span id="fr_1360"></span>[34](#fn_1360.md)
 
  
 
@@ -409,14 +409,14 @@ George, Richfield, Silver Reef, and Park City. Their aggregate paid-up
 capital was estimated at $1,000,000, their loans at $3,000,000, their
 deposits at $3,500,000, and the amount of their exchange business at
 from $12,000,000 to $15,000,000. <span
-id="fr_1361"></span>[35](#fn_1361)
+id="fr_1361"></span>[35](#fn_1361.md)
 
 <span id="page_766">p. 766</span>
 
     At this date there were some fifty insurance agencies having
 business with Salt Lake City and Ogden, their risks on buildings
 amounting to $500,000, and on merchandise in stock to $3,500,000. <span
-id="fr_1362"></span>[36](#fn_1362)
+id="fr_1362"></span>[36](#fn_1362.md)
 
     Thus with her 1,143 miles of railroad, her agricultural and
 stock-raising interests, now valued at $12,000,000 a year, her
@@ -431,28 +431,28 @@ free from debt, and nowhere is taxation lighter or more equitably
 adjusted. In 1865, as we have seen, the territorial and county taxes
 were not allowed in any case to exceed one per cent of the assessed
 value of property, while for school purposes they seldom exceeded one
-fourth of one per cent. <span id="fr_1363"></span>[37](#fn_1363) In 1883
+fourth of one per cent. <span id="fr_1363"></span>[37](#fn_1363.md) In 1883
 the rate was but six mills on the dollar for both territorial and school
-purposes, <span id="fr_1364"></span>[38](#fn_1364) counties being
+purposes, <span id="fr_1364"></span>[38](#fn_1364.md) counties being
 allowed discretion as to their rate of levy, provided that it should
 never exceed six mills on the dollar. <span
-id="fr_1365"></span>[39](#fn_1365) Cities were limited to five mills on
+id="fr_1365"></span>[39](#fn_1365.md) Cities were limited to five mills on
 the dollar for municipal expenses, and five mills for the making and
 repair of streets. The assessed value of all property in the territory
-was, in 1883, $30,834,425, <span id="fr_1366"></span>[40](#fn_1366) and
+was, in 1883, $30,834,425, <span id="fr_1366"></span>[40](#fn_1366.md) and
 this was considerably less than 50 per cent of the real value, the total
 revenue from territorial and school tax being $185,000, <span
-id="fr_1367"></span>[41](#fn_1367) or little more than $1 per capita of
+id="fr_1367"></span>[41](#fn_1367.md) or little more than $1 per capita of
 the population. That this sum was expended economically for the public
 benefit is shown by the number of public buildings, roads, bridges, and
 other improvements in the cities and counties of Utah. <span
-id="fr_1368"></span>[42](#fn_1368)
+id="fr_1368"></span>[42](#fn_1368.md)
 
 <span id="page_768">p. 768</span>
 
 <span class="contnote">\[paragraph continues\]</span> This amount does
 not of course include the income from tithes, which in 1880 was
-estimated at $458,000, <span id="fr_1369"></span>[43](#fn_1369) a sum
+estimated at $458,000, <span id="fr_1369"></span>[43](#fn_1369.md) a sum
 not larger in proportion to population than is expended for religious
 and charitable purposes in other states and territories of the union.
 
@@ -463,7 +463,7 @@ in the country, though 230,000 cigars and some 18,000 barrels of malt
 liquors made during the fiscal year ending June 30, 1883, yielded
 revenue to the amount of $18,097. Apart from these items, most of the
 internal revenue receipts were derived from license taxes. <span
-id="fr_1370"></span>[44](#fn_1370)
+id="fr_1370"></span>[44](#fn_1370.md)
 
  
 
@@ -474,7 +474,7 @@ the entire sum paid for lands disposed of by government. During this
 period 6,388 homestead entries were made, covering an area of 844,159
 acres, and 2,773 final proofs. The number of mineral-land entries was
 1,023, and their area 8,656 acres; of coal-land entries 72, with an area
-of 10,423 acres. <span id="fr_1371"></span>[45](#fn_1371)
+of 10,423 acres. <span id="fr_1371"></span>[45](#fn_1371.md)
 
 <span id="page_769">p. 769</span>
 
@@ -485,7 +485,7 @@ was established in March 1849, letters being usually delivered before
 that date at the conclusion of divine service on the sabbath at the
 several places of worship. Of mail contracts and services up to the
 close of 1856 mention has already been made. <span
-id="fr_1372"></span>[46](#fn_1372) At that date, it will be remembered,
+id="fr_1372"></span>[46](#fn_1372.md) At that date, it will be remembered,
 there was a monthly service, when not interrupted by severity of weather
 or unforeseen casualties, connecting eastward with Independence and
 westward with Sacramento. After the reopening of postal communication,
@@ -504,15 +504,15 @@ their grievances, improved matters considerably; and with the building
 of railroads, lines of postal route were of course established
 throughout the territory. In 1879 there were 109 routes, the subsidies
 for which amounted to nearly $200,000 <span
-id="fr_1373"></span>[47](#fn_1373) and about 200 postmasters, whose
+id="fr_1373"></span>[47](#fn_1373.md) and about 200 postmasters, whose
 compensation varied from 18 cents to $2,800 a year. <span
-id="fr_1374"></span>[48](#fn_1374)
+id="fr_1374"></span>[48](#fn_1374.md)
 
     On October 18, 1861, a message from Brigham Young was received by
 the president of the Pacific Telegraph Company at Cleveland, Ohio, of
 which the following is a portion: "Utah has not seceded, but is firm for
 the constitution and laws of our once happy country." <span
-id="fr_1375"></span>[49](#fn_1375) The message was courteously answered.
+id="fr_1375"></span>[49](#fn_1375.md) The message was courteously answered.
 the same day Secretary and Acting Governor Frank Fuller thus saluted
 President Lincoln: "Utah, whose citizens strenuously resist all
 imputations of disloyalty, congratulates the president upon the
@@ -524,11 +524,11 @@ speedily thrill with the quickened pulsations
 of the heart, as the parricide hand is palsied, treason is punished, and
 the entire sisterhood of states join hands in glad reunion around the
 national fireside." The president answered: "The government reciprocates
-your congratulations." <span id="fr_1376"></span>[50](#fn_1376) In the
+your congratulations." <span id="fr_1376"></span>[50](#fn_1376.md) In the
 autumn of this year the line was completed westward to California. <span
-id="fr_1377"></span>[51](#fn_1377) The charge for messages to New York
+id="fr_1377"></span>[51](#fn_1377.md) The charge for messages to New York
 was in 1861 at the rate of $7.50 for 10 words, as against $1.50 in
-1880. <span id="fr_1378"></span>[52](#fn_1378)
+1880. <span id="fr_1378"></span>[52](#fn_1378.md)
 
     At the former date Brigham had already resolved to connect the
 leading settlements of Utah by means of a home telegraph system. It was
@@ -540,9 +540,9 @@ opening for business in December 1866, connecting first with Ogden, and
 soon afterward with Brigham City and Logan, its northern terminus. In
 January 1867, 500 miles of wire had been laid, extending northward to
 Cache Valley and southward to St George, with a branch line running
-through Sanpete Valley. <span id="fr_1379"></span>[53](#fn_1379) During
+through Sanpete Valley. <span id="fr_1379"></span>[53](#fn_1379.md) During
 this month the company was organized under charter from the legislature,
-with a capital of $500,000. <span id="fr_1380"></span>[54](#fn_1380) The
+with a capital of $500,000. <span id="fr_1380"></span>[54](#fn_1380.md) The
 line was afterward continued
 
 <span id="page_772">p. 772</span>
@@ -557,11 +557,11 @@ Arizona in its route. At this date there were 955 miles of pole line,
 entirely by Mormons, and though much of the route lay through a sparsely
 settled country, where the expenses were out of all proportion to the
 receipts, the enterprise was self-supporting. <span
-id="fr_1381"></span>[55](#fn_1381)
+id="fr_1381"></span>[55](#fn_1381.md)
 
     In 1882 there were 2,647 miles of telegraph and 600 of telephone
 wire, with 560 instruments in Utah, <span
-id="fr_1382"></span>[56](#fn_1382) and communication with the adjacent
+id="fr_1382"></span>[56](#fn_1382.md) and communication with the adjacent
 states and territories was being rapidly pushed forward.
 
  
@@ -595,7 +595,7 @@ who compose this community, drawn for the most part from the lower
 strata of European society, have not been slow to learn the practical
 lessons which their church has taught them; to learn how to exercise
 forethought, frugality, and other qualities which lead to success in
-life. <span id="fr_1383"></span>[57](#fn_1383)
+life. <span id="fr_1383"></span>[57](#fn_1383.md)
 
 <span id="page_774">p. 774</span>
 
@@ -623,11 +623,11 @@ life. <span id="fr_1383"></span>[57](#fn_1383)
 
 ### Footnotes
 
-<span id="fn_1327"></span>[751:1](hou31.htm#fr_1327) For descriptions of
+<span id="fn_1327"></span>[751:1](hou31.htm#fr_1327.md) For descriptions of
 this route, see *Horn's Overl. Guide*; *Kelly's Excurs. to Cal*.,
 *Remy's Jour. to G. S. L. City*, passim.
 
-<span id="fn_1328"></span>[752:2](hou31.htm#fr_1328) In 1859 J. H.
+<span id="fn_1328"></span>[752:2](hou31.htm#fr_1328.md) In 1859 J. H.
 Simpson of the topographical engineers received instructions from Gen.
 Johnson to explore the great basin, with a view to find a direct wagon
 route from Camp Floyd to Genoa, in Carson Valley· An account of the
@@ -658,11 +658,11 @@ Provo City. For description of Provo cañon bridge in 1858, see *Deseret
 News*, Oct. 13, 1858; for condition of bridges and roads in 1859, *Id*.,
 July 6, 1859.
 
-<span id="fn_1329"></span>[752:3](hou31.htm#fr_1329) Portions of this
+<span id="fn_1329"></span>[752:3](hou31.htm#fr_1329.md) Portions of this
 route were traversed by Chandlees and Remy, by whom it is described in
 their respective works.
 
-<span id="fn_1330"></span>[752:4](hou31.htm#fr_1330) For reports of
+<span id="fn_1330"></span>[752:4](hou31.htm#fr_1330.md) For reports of
 commissioners, appropriations, work done, condition, and other matters
 relating to local roads, see *Utah Acts*, 1855-6, 44-6; *Utah Jour.
 Legisl*., 1859-60, 96-8; 1860-1, 58-9, 113-14, 149, 165, 168; 1861-2,
@@ -675,7 +675,7 @@ Legisl*., 1859-60, 96-8; 1860-1, 58-9, 113-14, 149, 165, 168; 1861-2,
 102-4; *Deseret News*, Nov. 23, 1859, Jan. 22, 1862; *Rae's Westward by
 Rail*, 99.
 
-<span id="fn_1331"></span>[753:5](hou31.htm#fr_1331) In 1860 there was a
+<span id="fn_1331"></span>[753:5](hou31.htm#fr_1331.md) In 1860 there was a
 weekly stage to S. L. City, conducted by Russell & Waddell, who during
 the same year started a pony express. In 1861 they were bought out by
 Ben Holliday, and in that or the following year a daily line was
@@ -697,17 +697,17 @@ Saints*; *Remy's Jour. to G. S. L. City*; *Chandler's Visit to S. Lake*;
 *Bowles’ Across the Continent*; *Dilke's Greater Britain*; *Greeley's
 Overl. Jour*.
 
-<span id="fn_1332"></span>[753:6](hou31.htm#fr_1332) See *Utah Acts*,
+<span id="fn_1332"></span>[753:6](hou31.htm#fr_1332.md) See *Utah Acts*,
 1858-9, 37-8; *House Misc. Doc*., 36th Cong. 2d Sess., 34.
 
-<span id="fn_1333"></span>[754:7](hou31.htm#fr_1333) Particulars will be
+<span id="fn_1333"></span>[754:7](hou31.htm#fr_1333.md) Particulars will be
 found in the *Deseret News*, May 27, 1868. See also *S. F. Call*, May
 22, 1868; *S. F. Times*, May 22, 1868. At this date it was yet uncertain
 where the junction between the U. P. and C. P. R. R. would be located.
 For act to fix the point of junction, see *House. Ex. Doc*., 46th Cong.
 3d Sess., 973.
 
-<span id="fn_1334"></span>[754:8](hou31.htm#fr_1334) For celebration at
+<span id="fn_1334"></span>[754:8](hou31.htm#fr_1334.md) For celebration at
 S. L. City on the completion of the railroad, see *Deseret News*, May
 12, 1866. On March 8th a railroad celebration was held at Ogden, an
 account of which is given in *Id*., March 8, 1869; *Tullidge's Mag*., i.
@@ -727,7 +727,7 @@ description of excursions on G. S. Lake in 1879, see *Marshall's Through
 Amer*., 191; for navigation on the Colorado in 1865, *Austin Reese River
 Reveillé*, June 27, 1865; in 1873, *Prescott Miner*, Jan. 18, 1873.
 
-<span id="fn_1335"></span>[755:9](hou31.htm#fr_1335) Bishop Sharp, known
+<span id="fn_1335"></span>[755:9](hou31.htm#fr_1335.md) Bishop Sharp, known
 in Utah also as the railroad bishop, was born in 1820 at the Devon
 iron-works, Scotland, and when eight years of age went to work in a
 coal-pit. In 1847, being then a coal-miner in Clackmannanshire, he was
@@ -769,7 +769,7 @@ says <span id="page_XXX">p. XXX</span> that for three months after that
 date no director or manager dare travel on the line without a
 body-guard. *Nichols' Mining Mach*., MS.
 
-<span id="fn_1336"></span>[756:10](hou31.htm#fr_1336) For act granting
+<span id="fn_1336"></span>[756:10](hou31.htm#fr_1336.md) For act granting
 right of way, see *House Ex. Doc*., 46th Cong. 3d Sess., xxvi. 974;
 *Cong. Globe*, 1870-1, p. 329; *Zabriskie's Land Laws*, 1877, suppl. 19;
 *Grant's Rights and Priv. Utah Cent. R. R. Co*., in which last are the
@@ -787,31 +787,31 @@ for ceremonies, etc., when the road was completed, *Deseret News*, Jan.
 12, 1870; *S. F. Abend Post*, Jan. 12, 1876; *Scientific Press*, Jan.
 15, 1870; *Tullidge's Life of Young*, 362-3.
 
-<span id="fn_1337"></span>[756:11](hou31.htm#fr_1337) *Deseret News*,
+<span id="fn_1337"></span>[756:11](hou31.htm#fr_1337.md) *Deseret News*,
 May 3, 1871.
 
-<span id="fn_1338"></span>[756:12](hou31.htm#fr_1338) For bill granting
+<span id="fn_1338"></span>[756:12](hou31.htm#fr_1338.md) For bill granting
 right of way, see *Cong. Globe*, 1874-5; for special privileges, *Provo
 City Revised Ordin*., 127-9.
 
-<span id="fn_1339"></span>[756:13](hou31.htm#fr_1339) For further items
+<span id="fn_1339"></span>[756:13](hou31.htm#fr_1339.md) For further items
 as to the Utah Southern, see *Williams’ Pac. Tourist*, 131-2; <span
 id="page_757">p. 757</span> *Deseret News*, Dec. 3, 1873, Jan. 27, 1875,
 Jan. 26, 1876; *S. L. C. Herald*, March 20, 1878; *S. F. Alta*, May 11,
 1872; *S. F. Post*, Nov. 11, 1873; *Prescott Miner*, Jan. 26, 1877.
 
-<span id="fn_1340"></span>[757:14](hou31.htm#fr_1340) The first train
+<span id="fn_1340"></span>[757:14](hou31.htm#fr_1340.md) The first train
 ran through to Milford in May. *S. L. Wkly Tribune*, May 22, 1880.
 
-<span id="fn_1341"></span>[757:15](hou31.htm#fr_1341) *Utah Gazetteer*,
+<span id="fn_1341"></span>[757:15](hou31.htm#fr_1341.md) *Utah Gazetteer*,
 1884, 108. See also *S. L. Herald*, Jan. 1, 1879; *S. L. C. Tribune*,
 July 8, 1879.
 
-<span id="fn_1342"></span>[757:16](hou31.htm#fr_1342) In the
+<span id="fn_1342"></span>[757:16](hou31.htm#fr_1342.md) In the
 *Contributor*, iv. 182, is a report of freights received and forwarded
 over the Utah Central for eleven and a half months in 1882.
 
-<span id="fn_1343"></span>[757:17](hou31.htm#fr_1343) The road from
+<span id="fn_1343"></span>[757:17](hou31.htm#fr_1343.md) The road from
 Ogden to Franklin was built entirely by the settlers. *Doddridge's U. &
 N. R. R*., MS. For act granting right of way through public lands of
 Utah, Idaho, and Montana in 1873, see *Zabriskie's Land Laws*, suppl.,
@@ -820,7 +820,7 @@ Utah, Idaho, and Montana in 1873, see *Zabriskie's Land Laws*, suppl.,
 and Montana road, which was to connect with the Utah and Northern.
 *Id*., 975.
 
-<span id="fn_1344"></span>[757:18](hou31.htm#fr_1344) During 1879 the
+<span id="fn_1344"></span>[757:18](hou31.htm#fr_1344.md) During 1879 the
 income had increased to about $80,000 a month. *Deseret News*, July 16,
 1879. For further items concerning the Utah and Northern, see *Id*.,
 Oct. 10, 1877; *S. L. C. Herald*, Nov. 21, 1877; *Portland Ev.
@@ -830,22 +830,22 @@ Circleville, O., came to Ogden in 1867, and though only 19 years of age,
 readily obtained employment on the U. P. R. R. In 1882 he was appointed
 to the charge of the Idaho division.
 
-<span id="fn_1345"></span>[758:19](hou31.htm#fr_1345) *S. L. C.
+<span id="fn_1345"></span>[758:19](hou31.htm#fr_1345.md) *S. L. C.
 Tribune*, Dec. 28, 1879.
 
-<span id="fn_1346"></span>[758:20](hou31.htm#fr_1346) *Williams’ Pac.
+<span id="fn_1346"></span>[758:20](hou31.htm#fr_1346.md) *Williams’ Pac.
 Tourist*, 147; *S. L. C. Tribune*, Dec. 19, 1874; *S. F. Bulletin*, July
 6, 1881; *Utah Gazetteer*, 1884, p. 110.
 
-<span id="fn_1347"></span>[759:21](hou31.htm#fr_1347) *S. L. C. Herald*,
+<span id="fn_1347"></span>[759:21](hou31.htm#fr_1347.md) *S. L. C. Herald*,
 June 17, 1880; *Utah Gazetteer*, 1884, 110.
 
-<span id="fn_1348"></span>[759:22](hou31.htm#fr_1348) Companies were
+<span id="fn_1348"></span>[759:22](hou31.htm#fr_1348.md) Companies were
 organized to build both these roads in 1872, and they were constructed
 by local enterprise, afterward becoming tributary to the Denver and Rio
 Grande.
 
-<span id="fn_1349"></span>[759:23](hou31.htm#fr_1349) In addition to the
+<span id="fn_1349"></span>[759:23](hou31.htm#fr_1349.md) In addition to the
 above roads, there were two short lines, formerly in operation, and
 known as the Summit County and American Fork. Both have been abandoned.
 For further particulars as to the Utah railroads, see *Hollister's Res.
@@ -859,25 +859,25 @@ of the Utah and Northern $972,000, of the Salt Lake and Western
 $1,080,000, of the Sanpete Valley, $750,000. The Utah and Nevada had no
 bonded debt.
 
-<span id="fn_1350"></span>[760:24](hou31.htm#fr_1350) Flour, meat, and
+<span id="fn_1350"></span>[760:24](hou31.htm#fr_1350.md) Flour, meat, and
 vegetables were also exchanged for groceries, clothing, etc. *Brown's
 Statement*, MS., 3. In 1849 the settlers were anxious to open a highway
 to San Diego, whence they intended to obtain supplies. In 1867 it was
 proposed to use the Colorado route for traffic. See *Hayes’ Scraps, San
 Diego*, ii. 171-93.
 
-<span id="fn_1351"></span>[760:25](hou31.htm#fr_1351) *Hollister's Res.
+<span id="fn_1351"></span>[760:25](hou31.htm#fr_1351.md) *Hollister's Res.
 and Attract. of Utah*, 67-8; *Utah Gazetteer*, 1884, 113, where are
 tables of imports and exports for 1882.
 
-<span id="fn_1352"></span>[761:26](hou31.htm#fr_1352) The names of the
+<span id="fn_1352"></span>[761:26](hou31.htm#fr_1352.md) The names of the
 vessels were the *Maulsden* and *Ivy*, both being chargered by S. W.
 Sears.
 
-<span id="fn_1353"></span>[761:27](hou31.htm#fr_1353) See reports of R.
+<span id="fn_1353"></span>[761:27](hou31.htm#fr_1353.md) See reports of R.
 G. Dun & Co.'s agency.
 
-<span id="fn_1354"></span>[762:28](hou31.htm#fr_1354) For further
+<span id="fn_1354"></span>[762:28](hou31.htm#fr_1354.md) For further
 details as to commerce in Utah, and the development of the coöperative
 system, see *Hollister's Res. and Attract. of Utah*, 48-52, 67-9;
 *Tullidge's Mag*., Apr. 1881, passim; *Contributor*, iv. 182; *Fabian's
@@ -886,7 +886,7 @@ Utah*, 11-13; *S. L. C. Tribune*, Jan. 4, 1872; *S. L. Herald*, in
 *S. F. Bulletin*, Feb. 22, 1872; *S. F. Chronicle*, Oct. 6, 1873; *S. F.
 Post*, Apr. 12, 1875; for commercial law, *Utah Gazetteer*, 1884, 273-7.
 
-<span id="fn_1355"></span>[762:29](hou31.htm#fr_1355) *Richards’
+<span id="fn_1355"></span>[762:29](hou31.htm#fr_1355.md) *Richards’
 Reminiscences*, MS., 31. At this date the firm occupied what was
 considered the most convenient house in the city. Later it was pulled
 down. In the *Deseret News* of Sept. 28, 1854, it is stated that Capt.
@@ -903,12 +903,12 @@ day their store was opened. As this amount then probably represented
 almost the entire floating capital of the Mormons, the statement must be
 taken for what it is worth.
 
-<span id="fn_1356"></span>[762:30](hou31.htm#fr_1356) In 1851 David
+<span id="fn_1356"></span>[762:30](hou31.htm#fr_1356.md) In 1851 David
 Smith and E. N. Cook, bound for Oregon with a large band of stock from
 St Joseph, stopped at Salt Lake City for three weeks, trading dry goods,
 etc., for additional cattle. *Clark's Sights*, MS., 11.
 
-<span id="fn_1357"></span>[763:31](hou31.htm#fr_1357) Horner & Co.
+<span id="fn_1357"></span>[763:31](hou31.htm#fr_1357.md) Horner & Co.
 reduced the price of sugar to three pounds for $1, whereupon Livingston
 & Kinkead sold it at 30 ccnts a pound, calico at 18 3/4 cents a yard,
 and marked all their goods 25 per cent below former prices, giving a
@@ -920,12 +920,12 @@ butter 36 to 40 cents. *Chandler's Visit to S. Lake*, 345. Horner & Co.
 continued but a short time in business, being succeeded by Hooper &
 Williams.
 
-<span id="fn_1358"></span>[763:32](hou31.htm#fr_1358) Gilbert & Gerrish
+<span id="fn_1358"></span>[763:32](hou31.htm#fr_1358.md) Gilbert & Gerrish
 were a gentile firm, and William Nixon was a Mormon of English descent,
 who began his commercial career at St Louis. Among his pupils were the
 Walker brothers.
 
-<span id="fn_1359"></span>[764:33](hou31.htm#fr_1359) Isaac, the father
+<span id="fn_1359"></span>[764:33](hou31.htm#fr_1359.md) Isaac, the father
 of William Jennings, a wealthy butcher of Yardley, Worcester, England,
 was better known to fame as one of the claimants in the Jennings
 chancery suit, in which millions of pounds were at stake; but though he
@@ -956,7 +956,7 @@ became vice-president, and succeeded Brigham as president of the Utah
 Southern. He was also one of the founders and directors of the Deseret
 National Bank, and a member of the legislature under Governor Doty.
 
-<span id="fn_1360"></span>[765:34](hou31.htm#fr_1360) Until the advent
+<span id="fn_1360"></span>[765:34](hou31.htm#fr_1360.md) Until the advent
 of the railroad, the prices of all commodities continued extremely high.
 At a convention held at the Bowery, S. L. City, Oct. 4, 1864, the price
 of flour was fixed at $12 her 100 lbs of wheat corn and beans at $5, $4,
@@ -966,7 +966,7 @@ Bowles says that in June of the following year lumber was worth $100 per
 thousand feet, sugar 75 to 85 cents, coffee $1 to $1.10 and tea 3.50 to
 $5 per lb. *Across the Continent*, 101-2. These prices were in currency.
 
-<span id="fn_1361"></span>[765:35](hou31.htm#fr_1361) *Utah Gazetteer*,
+<span id="fn_1361"></span>[765:35](hou31.htm#fr_1361.md) *Utah Gazetteer*,
 1884, 115. The firm of Hooper, Eldredge, & Co.—W. H. Hooper, H. S.
 Eldredge, and L. S. Hills—commenced business at S. L. City May 1, 1869,
 with a capital of $40,000. They were succeeded by the Bank of Deseret,
@@ -1021,30 +1021,30 @@ Aug. 27, 1873; *S. L. C. Tribune*, Jan. 11, 1873; *S. F. Post*, Aug. 9,
 Oct. 21, 1873; *S. F. Chronicle*, July 17, 1877; *Silver Reef Miner*,
 Jan. 21, 1883.
 
-<span id="fn_1362"></span>[766:36](hou31.htm#fr_1362) Alex. Daul of
+<span id="fn_1362"></span>[766:36](hou31.htm#fr_1362.md) Alex. Daul of
 Ogden opened the first fire-insurance agency in Utah. Mr Daul, a native
 of Germany, came to the U.S. in 1862, and on arriving at S. L. City was
 for the most part employed as a missionary until 1873.
 
-<span id="fn_1363"></span>[767:37](hou31.htm#fr_1363) See [p.
-608](hou25.htm#page_608), this vol.
+<span id="fn_1363"></span>[767:37](hou31.htm#fr_1363.md) See [p.
+608](hou25.htm#page_608.md), this vol.
 
-<span id="fn_1364"></span>[767:38](hou31.htm#fr_1364) A property tax,
+<span id="fn_1364"></span>[767:38](hou31.htm#fr_1364.md) A property tax,
 not exceeding two per cent, might be levied, however, for school
 buildings and improvements.
 
-<span id="fn_1365"></span>[767:39](hou31.htm#fr_1365) For amount of
+<span id="fn_1365"></span>[767:39](hou31.htm#fr_1365.md) For amount of
 property and taxes, and financial reports of the several counties at
 various dates, see *Utah Jour. Legisl*., 1859-60, 12-15; 1860-1, 19;
 1861-2, 29; 1862-3, 35; 1865-6, 24; 1866-7, 22-3; 1868, 20, 66-73, 135
 -6, 141-2; 1869, passim; 1876, 35-6, 45-6, 271-7; 1878, 51-2, 403-64;
 1880, 151-205; *Utah Fin. Repts of Cos*.; *Mess. of Gov*., 1870, 10.
 
-<span id="fn_1366"></span>[767:40](hou31.htm#fr_1366) As shown in the
+<span id="fn_1366"></span>[767:40](hou31.htm#fr_1366.md) As shown in the
 office of Auditor Clayton. *Utah Gazetteer*, 1884, 116. In *S. L. C.
 Contributor*, Feb. 1883, 183, it is given at $34,000,000.
 
-<span id="fn_1367"></span>[767:41](hou31.htm#fr_1367) Mines and mining
+<span id="fn_1367"></span>[767:41](hou31.htm#fr_1367.md) Mines and mining
 products were exempt, though machinery and improvements were liable to
 taxation. The county assessors were allowed to make their own standard,
 the result being that the tax was but 20 to 50 per cent of the cash
@@ -1054,7 +1054,7 @@ head. Roads bonded at $20,000 per mile were assessed at about $2,000,
 and others in the same proportion, the rate never exceeding one sixth of
 the indebtedness.
 
-<span id="fn_1368"></span>[767:42](hou31.htm#fr_1368) For governors',
+<span id="fn_1368"></span>[767:42](hou31.htm#fr_1368.md) For governors',
 auditors', and treasurers' reports and statements as to territorial
 revenue, expenditure, and appropriations, see *Utah Jour. Legisl*.
 1851-2 (joint sess.), 110-13; 1853-4 (joint sess.), 118-20; 1854-5, 94,
@@ -1069,11 +1069,11 @@ revenue, see *Utah Jour. Legisl*., 1860-1, 76-7, 83-8; 1870, 111-13;
 News*, Feb. 1, 1855, Feb. 13, 1856, Dec. 21, 1865; *Utah Directory*,
 1869, 67; *S. L. C. Directory*, 1869, 67.
 
-<span id="fn_1369"></span>[768:43](hou31.htm#fr_1369) *Utah Hand-Book of
+<span id="fn_1369"></span>[768:43](hou31.htm#fr_1369.md) *Utah Hand-Book of
 Mormonism*, 6, 40, where it is stated that the total income of the
 priesthood exceeded $1,000,000.
 
-<span id="fn_1370"></span>[768:44](hou31.htm#fr_1370) *Utah Gazetteer*,
+<span id="fn_1370"></span>[768:44](hou31.htm#fr_1370.md) *Utah Gazetteer*,
 1884, 117. For other matters relating to internal revenue, see *Rev.
 Rept Com*., 1863, 1804, passim; *Deseret News*, March 8, 1871. In 1862 a
 memorial was presented for a remission of direct federal taxation, for
@@ -1083,7 +1083,7 @@ presented to congress asking that a mint be established in S. L. City.
 issued a currency of their own. *S. F. Call*, Nov. 29, 1868; *Gold Hill
 News*, Nov. 14, 1868; *S. F. Bulletin*, April 12, 1872.
 
-<span id="fn_1371"></span>[768:45](hou31.htm#fr_1371) *Utah Gazetteer*,
+<span id="fn_1371"></span>[768:45](hou31.htm#fr_1371.md) *Utah Gazetteer*,
 1884, 117. For list of Utah land-offices in 1882, see *H. Ex. Doc*.,
 47th Cong. 2d Sess., x. 42. For patents issued to gentile as against
 Mormon applicants, see Sen. Dec., 46th Cong. 2d Sess., v., no. 181. The
@@ -1123,14 +1123,14 @@ Cong. 2d Sess., 1490, 1527-8; 41st Cong. 3d Sess., 603, 673; 42d Cong.
 1141-2; 45th Cong. 1st Sess., 168; 45th Cong. 2d Sess., 977-8, 990,
 1021; *H. Comm. Rept*, 45th Cong. 2d Sess., iv., no. 708, v., no. 949.
 
-<span id="fn_1372"></span>[769:46](hou31.htm#fr_1372) See pp.
-[500](hou21.htm#page_500)-502, this vol.
+<span id="fn_1372"></span>[769:46](hou31.htm#fr_1372.md) See pp.
+[500](hou21.htm#page_500.md)-502, this vol.
 
-<span id="fn_1373"></span>[770:47](hou31.htm#fr_1373) For list, with
+<span id="fn_1373"></span>[770:47](hou31.htm#fr_1373.md) For list, with
 annual payments to each, see *U. S. Off. Reg*., 1876, ii.; *P. O. Dept*,
 118-19.
 
-<span id="fn_1374"></span>[770:48](hou31.htm#fr_1374) Names of
+<span id="fn_1374"></span>[770:48](hou31.htm#fr_1374.md) Names of
 post-offices, postmasters, and the compensation paid to each will be
 found in *Id*., 351-2. For further items concerning mail services, see
 *Richards’ Incidents of Utah Hist*., MS., passim; for statistics, *House
@@ -1153,29 +1153,29 @@ routes, expenses, subsidies, etc., see *Postmaster-Gen. Rept*, 1858, pp.
 Sess., xxii., no. 93, pp. 255-7; *Id*., 48th Cong. 1st Sess., pt 4, no.
 2, pp. 252, 292, 612.
 
-<span id="fn_1375"></span>[770:49](hou31.htm#fr_1375) *Deseret News*,
+<span id="fn_1375"></span>[770:49](hou31.htm#fr_1375.md) *Deseret News*,
 Oct. 23, 1861.
 
-<span id="fn_1376"></span>[771:50](hou31.htm#fr_1376) *Id*. See also
+<span id="fn_1376"></span>[771:50](hou31.htm#fr_1376.md) *Id*. See also
 *Tullidge's Hist. S. L. City*, 249-51; *S. F. Bulletin*, Oct. 21, 1851;
 *Sac. Union*, Oct. 25, Nov. 2, 1861.
 
-<span id="fn_1377"></span>[771:51](hou31.htm#fr_1377) *Deseret Tel. of.
+<span id="fn_1377"></span>[771:51](hou31.htm#fr_1377.md) *Deseret Tel. of.
 Co. Mem*., in *Utah Jottings*, MS. In 1859 an act was passed to
 incorporate the Placerville, Humboldt, and S. L. C. Tel. Co. See *Utah
 Acts*, 1858-9, 26.
 
-<span id="fn_1378"></span>[771:52](hou31.htm#fr_1378) For day rate. The
+<span id="fn_1378"></span>[771:52](hou31.htm#fr_1378.md) For day rate. The
 night rate was 75 cents. *Deseret Tel. Co. Mem*., in *Utah Jottings*,
 MS.
 
-<span id="fn_1379"></span>[771:53](hou31.htm#fr_1379) *Id*. On this the
+<span id="fn_1379"></span>[771:53](hou31.htm#fr_1379.md) *Id*. On this the
 first circuit 320 pounds of wire were used per mile, the cost being 35
 cents per lb and $150 per mile. *Tullidge's Life of Brigham Young*,
 suppl. 67. In the *Deseret News* of Jan. 23, 1867, the line is termed
 the Deseret State Telegraph.
 
-<span id="fn_1380"></span>[771:54](hou31.htm#fr_1380) The officers were
+<span id="fn_1380"></span>[771:54](hou31.htm#fr_1380.md) The officers were
 Brigham Young president, Dan. H. Wells viee-president, Geo. Q. Cannon
 treasurer, and Wm Clayton secretary, the two first being ex officio
 members of the board; the remaining directors were Edward Hunter, Geo.
@@ -1195,7 +1195,7 @@ industries of the territory; he was also travelling agent of the church,
 assisted in emigration matters, temple building, the coöperative
 movement, and was, in brief, one of Brigham's most trustworthy agents.
 
-<span id="fn_1381"></span>[772:55](hou31.htm#fr_1381) In 1880 John
+<span id="fn_1381"></span>[772:55](hou31.htm#fr_1381.md) In 1880 John
 Taylor was president, Dan. H. Wells vice-president, Jas Jack treasurer,
 and W. B. Dougall secretary, all of them being directors. The other
 members of the board were John Sharp, F. Little, Ed. Hunter, H. P.
@@ -1204,10 +1204,10 @@ in 1876, Dougall was appointed in his stead. *Id*. In 1878 the wires
 were laid to the houses of many bishops of wards throughout the
 territory. Conyer's letters to *Boston Educ. Jour*.
 
-<span id="fn_1382"></span>[772:56](hou31.htm#fr_1382) *Contributor*, iv.
+<span id="fn_1382"></span>[772:56](hou31.htm#fr_1382.md) *Contributor*, iv.
 182. For list of telegraph offices, see *Utah Gazetteer*, 1884, 269.
 
-<span id="fn_1383"></span>[773:57](hou31.htm#fr_1383) I give herewith
+<span id="fn_1383"></span>[773:57](hou31.htm#fr_1383.md) I give herewith
 some further biographical notices. Orson Hyde, a native of Oxford,
 Conn., was born in 1805, commenced life by working in an iron-foundery
 for six dollars a month, afterward serving for a year or two as clerk to
@@ -1930,4 +1930,4 @@ Star and Herald,* Nov. 18, 1869, June 7, 1873, Apr. 1, 1875, Nov. 14,
 
 ------------------------------------------------------------------------
 
-[Next: Index](hou32)
+[Next: Index](hou32.md)

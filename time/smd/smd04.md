@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd03)  [Next](smd05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd03)  [Next](smd05.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ rays.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. March--The Month of Mars](smd05)
+[Next: Chapter III. March--The Month of Mars](smd05.md)

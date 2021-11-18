@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Next](ttt01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Next](ttt01.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Of Names--Montaigne. tr. Florio.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ttt01)
+[Next: Preface](ttt01.md)

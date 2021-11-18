@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap05)  [Next](chap07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap05)  [Next](chap07.md) 
 
 ------------------------------------------------------------------------
 
@@ -744,4 +744,4 @@ true-hearted man.
 ------------------------------------------------------------------------
 
 [Next: VII. Solomon in all His Glory--The Romantic Figure of
-Elijah](chap07)
+Elijah](chap07.md)

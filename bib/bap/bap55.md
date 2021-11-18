@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap54) 
-[Next](bap56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap54.md) 
+[Next](bap56.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ the prayer which Israel hath prayed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XL](bap56)
+[Next: Chapter XL](bap56.md)

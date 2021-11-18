@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo46)  [Next](hoo48) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo46)  [Next](hoo48.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ And make a novel mystic's life your care.
 
 ------------------------------------------------------------------------
 
-[Next: XLIII: To Semele](hoo48)
+[Next: XLIII: To Semele](hoo48.md)

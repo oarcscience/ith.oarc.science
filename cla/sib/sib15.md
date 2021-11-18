@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib14)  [Next](sib16) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib14)  [Next](sib16.md) 
 
 ------------------------------------------------------------------------
 
@@ -785,4 +785,4 @@ Staff of the Shepherd, a victorious sword.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](sib16)
+[Next: Bibliography](sib16.md)

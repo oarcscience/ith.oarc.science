@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh04)  [Next](msh06) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh04)  [Next](msh06.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ applied to the tradition of the Seventy Thousand Veils.
 
 ------------------------------------------------------------------------
 
-[Next: II. Mysteries Left Veiled In This Treatise](msh06)
+[Next: II. Mysteries Left Veiled In This Treatise](msh06.md)

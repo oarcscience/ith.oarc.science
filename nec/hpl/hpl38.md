@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl37)  [Next](hpl39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl37)  [Next](hpl39.md) 
 
 ------------------------------------------------------------------------
 
@@ -269,4 +269,4 @@ his own.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](hpl39)
+[Next: Chapter 5](hpl39.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](sum01)  [Next](sum03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](sum01)  [Next](sum03.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ East](../index)  [Index](index)  [Previous](sum01)  [Next](sum03) 
 
 The Sumerians were a non-Semitic, non-Indo-European people who
 flourished in southern Babylonia from the beginning of the fourth to the
-end of the third [millennium](errata.htm#0) B. C. During this long
+end of the third [millennium](errata.htm#0.md) B. C. During this long
 stretch of time the Sumerians, whose racial and linguistic affiliations
 are still unclassifiable, represented the dominant cultural group of the
 entire Near East. This cultural dominance manifested itself in three
@@ -32,8 +32,8 @@ civilized world.
 largely poetic in character, consisting of epics and myths, hymns and
 lamentations, proverbs and "words of wisdom." These compositions are
 inscribed in cuneiform script on clay tablets which date largely from
-approximately 1750 B. C. [a](sum11.htm#xref_a) In the course of the past
-hundred years, approximately five [b](sum11.htm#xref_b) thousand such
+approximately 1750 B. C. [a](sum11.htm#xref_a.md) In the course of the past
+hundred years, approximately five [b](sum11.htm#xref_b.md) thousand such
 literary pieces have been excavated in the mounds of ancient Sumer. Of
 this number, over two thousand, more than two-thirds of our source
 material, were excavated by the University of Pennsylvania in the mound
@@ -83,7 +83,7 @@ Orient. And largely with the help of a grant from the American
 Philosophical Society, the better part of the past three years has been
 devoted to the studying of the unpublished literary pieces in the Nippur
 collection of the University Museum; their copying has already
-begun. [c](sum11.htm#xref_c)
+begun. [c](sum11.htm#xref_c.md)
 
 It is the utilization of this vast quantity of unpublished Sumerian
 literary tablets and fragments in the University Museum, approximately
@@ -185,9 +185,9 @@ VII, X, XII, XIV, and XIX.
 ### NOTE TO THE REVISED EDITION
 
 References and Notes to the original edition will be found on page
-[104](sum10.htm#page_104). Supplementary Notes and Corrections will be
-found on page [120](sum11.htm#page_120).
+[104](sum10.htm#page_104.md). Supplementary Notes and Corrections will be
+found on page [120](sum11.htm#page_120.md).
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sum03)
+[Next: Contents](sum03.md)

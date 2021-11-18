@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/tgv)  [Previous](../tem/tem) 
-[Next](../tnk/tnk) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/tgv)  [Previous](../tem/tem.md) 
+[Next](../tnk/tnk.md) 
 
 ------------------------------------------------------------------------
 
@@ -3616,4 +3616,4 @@ Index](../index)  [First Folio](../ff/tgv)  [Previous](../tem/tem) 
 
 ------------------------------------------------------------------------
 
-[Next: Two Noble Kinsmen](../tnk/tnk) 
+[Next: Two Noble Kinsmen](../tnk/tnk.md) 

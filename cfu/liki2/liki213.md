@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki212)  [Next](liki214) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki212)  [Next](liki214.md) 
 
 ------------------------------------------------------------------------
 
@@ -697,6 +697,6 @@ wore for her (only) the five months' mourning\[1\].
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Tâ Kwân or The Great Treatise](liki214)
+[Next: XIV. Tâ Kwân or The Great Treatise](liki214.md)
 
   

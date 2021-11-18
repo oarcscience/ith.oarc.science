@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi140)  [Next](mtsi142) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi140)  [Next](mtsi142.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ human beings.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Another Fire Story](mtsi142)
+[Next: 6. Another Fire Story](mtsi142.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt45)  [Next](egt47) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt45)  [Next](egt47.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ the door of princes is as a sail in unskilled hands.
 
 ------------------------------------------------------------------------
 
-[Next: ON RENUNCIATION AND STRENUOUS ENDEAVOUR.](egt47)
+[Next: ON RENUNCIATION AND STRENUOUS ENDEAVOUR.](egt47.md)

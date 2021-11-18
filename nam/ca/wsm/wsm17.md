@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm16)  [Next](wsm18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm16)  [Next](wsm18.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ wouldn't be any people.
 ------------------------------------------------------------------------
 
 [Next: Coyote Learns to Fly; Coyote Becomes a Mother (Ash Meadows,
-Nevada. Shoshoni)](wsm18)
+Nevada. Shoshoni)](wsm18.md)

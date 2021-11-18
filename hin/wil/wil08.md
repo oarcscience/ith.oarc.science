@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil07)  [Next](wil09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil07)  [Next](wil09.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ in all directions. Higher standards of comfort are rapidly arising. The
 days when the little boys in the village school wrote on the floor in
 sand are long past. Even the palm-leaf manuscript is little more than a
 memory. Steel pen, instead of wooden stylus, cheap paper, smooth writing
-fluids are everywhere. Soap <span id="fr_5"></span>[\*](#fn_5) is
+fluids are everywhere. Soap <span id="fr_5"></span>[\*](#fn_5.md) is
 becoming a necessity. European utensils for cleaning, for cooking, and
 even for eating, are coming into use. Certain kinds of furniture are
 growing familiar. Kerosene and tin and modern glass are to be found in
@@ -489,7 +489,7 @@ the faiths.
 <span class="contnote">\[paragraph continues\]</span> Yet still the
 fencing is exhibited at the Mohurrum; still the weapons are carried in
 procession at the feast of Durga; still the great Kayasth <span
-id="fr_6"></span>[\*](#fn_6) families of Bengal and the Kshatriyas of
+id="fr_6"></span>[\*](#fn_6.md) families of Bengal and the Kshatriyas of
 Rajputana practise the annual Worship and Tribute of the Sword. And
 still the women throng to the temples with lighted candles on the eve of
 the Birth-feast of the War Lord in December, to make it the most
@@ -509,8 +509,8 @@ leader, was as passionate an offering to the despised and rejected as
 that of the Teacher of Galilee is represented to have been. Even here,
 then, the national consolidation sounds no new note in Hindu ears. Islam
 is nothing if not a great mission of fraternity. Guru Nanak in the
-North, <span id="fr_7"></span>[†](#fn_7) and Ramanuja in the
-South, <span id="fr_8"></span>[‡](#fn_8) have preached the same doctrine
+North, <span id="fr_7"></span>[†](#fn_7.md) and Ramanuja in the
+South, <span id="fr_8"></span>[‡](#fn_8.md) have preached the same doctrine
 in words and lives made ever memorable. And if once the mother-heart of
 India can
 
@@ -571,7 +571,7 @@ grievances?
 
 ### Footnotes
 
-<span id="fn_5"></span>[82:\*](wil08.htm#fr_5) Lest it should be thought
+<span id="fn_5"></span>[82:\*](wil08.htm#fr_5.md) Lest it should be thought
 that India had ever been a land of the unclean, let me point out here
 that the use of earths and oils for the bath has always been compulsory.
 There is, perhaps, no people in the world from whom the culture of the
@@ -579,19 +579,19 @@ skin receives so much attention, or where it is so successful. But
 manufactured soap, as producing a chemical change on the epidermis, is
 theoretically disapproved.
 
-<span id="fn_6"></span>[92:\*](wil08.htm#fr_6) Kayasth families.--The
+<span id="fn_6"></span>[92:\*](wil08.htm#fr_6.md) Kayasth families.--The
 Kayasths are the second caste of Bengal. They claim descent from the old
 Kshatriya, or military caste, but the authenticity of this genealogy is
 disputed.
 
-<span id="fn_7"></span>[92:†](wil08.htm#fr_7) Guru Nanak in the
+<span id="fn_7"></span>[92:†](wil08.htm#fr_7.md) Guru Nanak in the
 North.--Guru Nanak was the first of the ten leaders or Gurus who formed
 the Sikh nation--the people of the Punjab. He was born 1469.
 
-<span id="fn_8"></span>[92:‡](wil08.htm#fr_8) Ramanuja in the South.--A
+<span id="fn_8"></span>[92:‡](wil08.htm#fr_8.md) Ramanuja in the South.--A
 saint and teacher of marvellous love and mercy. He lived in the twelfth
 century.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Indian Sagas](wil09)
+[Next: Chapter VII. The Indian Sagas](wil09.md)

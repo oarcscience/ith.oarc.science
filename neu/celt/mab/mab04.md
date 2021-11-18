@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab03)  [Next](mab05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab03)  [Next](mab05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -161,7 +161,7 @@ and of the fourteenth century. This contains, besides poems, the prose
 romances known as Mabinogion. The Black Book of Caermarthen, preserved
 at Hengwrt, and considered not to be of later date than the twelfth
 century, is said to contain poems only. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_xvi">p. xvi</span>
 
@@ -314,7 +314,7 @@ DOWLAIS, *August* 29*th*, 1848.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xv:1](mab04.htm#fr_0) It is also stated, that
+<span id="fn_0"></span>[xv:1](mab04.htm#fr_0.md) It is also stated, that
 there is in the Hengwrt Library, a MS. containing the Graal in Welsh, as
 early as the time of Henry I. I had hoped to have added this to the
 present collection; but the death of Col. Vaughan, to whom I applied,
@@ -323,4 +323,4 @@ access to it.
 
 ------------------------------------------------------------------------
 
-[Next: The Lady of the Fountain](mab05)
+[Next: The Lady of the Fountain](mab05.md)

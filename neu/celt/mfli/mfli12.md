@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli11)  [Next](mfli13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli11)  [Next](mfli13.md) 
 
 ------------------------------------------------------------------------
 
@@ -442,4 +442,4 @@ of his forces and the first of the Fenians of Erin.
 ------------------------------------------------------------------------
 
 [Next: Fin MacCumhail and the Fenians of Erin in the Castle of Fear
-Dubh](mfli13)
+Dubh](mfli13.md)

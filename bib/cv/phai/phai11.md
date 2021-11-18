@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai10) 
-[Next](phai12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai10.md) 
+[Next](phai12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ plan of the narrative is not a matter of course, but a matter requiring
 explanation, and only to be explained on the ground of the literary
 dependence of one source on the other. The question how this relation of
 dependence is to be defined is thus a much more pressing one than is
-commonly assumed. <span id="fr_146"></span>[1](#fn_146)
+commonly assumed. <span id="fr_146"></span>[1](#fn_146.md)
 
 This, however, is not the place to attempt a history of the development
 of the Israelite legend. We are only to lay the foundation for such a
@@ -81,7 +81,7 @@ work, by comparing the narrative of the Priestly Code with the
 Jehovistic one. In doing so we shall see that Buttmann (*Mythologus*, i.
 p. 122 seq.) is right in asserting against de Wette (*Beiträge*, ii.),
 that, the Jehovistic form of the legend is the earlier of the two. <span
-id="fr_147"></span>[2](#fn_147)
+id="fr_147"></span>[2](#fn_147.md)
 
 <span id="page_297">p. 297</span>
 
@@ -188,7 +188,7 @@ natural objects, just as this is manifest in the attempts of Thales and
 his successors, which are also remarkable as beginnings of the theory of
 nature and of an objective interest in the things of the outer world,
 but further than this do not exactly rouse us to enthusiasm. <span
-id="fr_148"></span>[1](#fn_148)
+id="fr_148"></span>[1](#fn_148.md)
 
 The first sentence of the Jehovistic account of the beginning of the
 world's history has been cut off by the reviser. \[It was all a dry
@@ -327,7 +327,7 @@ distinctions: the phrase is only a comprehensive one for things
 generally, according to the contradictory attributes which constitute
 their interest to man, as they help or injure him: for, as said, he
 desires to know not what things are metaphysically, but what is the use
-of them. <span id="fr_149"></span>[1](#fn_149) Besides the lengthier
+of them. <span id="fr_149"></span>[1](#fn_149.md) Besides the lengthier
 expression we have the shorter one, knowledge, simply (iii. 6); and it
 must also be remarked that the phrase is not: know the good and the
 evil, but know good and evil.
@@ -356,7 +356,7 @@ tower of Babel, which is incomplete to all eternity, is the proper
 symbol for it. The strain is that strain of unsatisfied longing which is
 to be heard among all peoples. On attaining to civilisation they become
 aware of the value of those blessings which they have sacrificed for
-it. <span id="fr_150"></span>[1](#fn_150)
+it. <span id="fr_150"></span>[1](#fn_150.md)
 
 It was necessary to discuss the notion of knowledge at some length,
 because the misunderstanding of this point on the part of philosophers
@@ -534,7 +534,7 @@ explained partly by the growth of moral and religious cultivation, but
 partly also no doubt due to the convulsive efforts of later Judaism to
 deny that most firmly established of all the lessons of history, that
 the sons suffer for the sins of the fathers. <span
-id="fr_151"></span>[1](#fn_151)
+id="fr_151"></span>[1](#fn_151.md)
 
 What are generally cited as points of superiority in Gen. i. over Gen.
 ii. iii. are beyond doubt signs of progress in outward culture. The
@@ -556,7 +556,7 @@ manifest preference long shown by
 historic-critical theology for Gen. i. appears to lie in this, that
 scholars felt themselves responsible for what the Bible says, and
 therefore liked it to come as little as possible in conflict with
-general culture. <span id="fr_152"></span>[1](#fn_152)
+general culture. <span id="fr_152"></span>[1](#fn_152.md)
 
 2\. After the beginning of the world we have in Gen. i.-xi., both in the
 Priestly Code and in the Jehovist, the transition from Adam to Noah
@@ -576,13 +576,13 @@ These 2666 years represent 26⅔ generations of a hundred years each:
 namely, 1-20 Adam to Abraham, 21 Isaac, 22 Jacob, 23 Levi, 24 Kohath, 25
 Amram, 26 Aaron; the last ⅔ of a generation is Eleazar, who was a man of
 mature years at the time of the Exodus. <span
-id="fr_153"></span>[2](#fn_153)
+id="fr_153"></span>[2](#fn_153.md)
 
 Such a chronology is totally at variance with the simplicity
 
 <span id="page_309">p. 309</span>
 
-of the legend. <span id="fr_154"></span>[1](#fn_154) It is also evident,
+of the legend. <span id="fr_154"></span>[1](#fn_154.md) It is also evident,
 that if even in the case of the historical books the systematic
 chronology is no older than the period of the exile, that of the
 Pentateuch must be of still later origin. For the historical period
@@ -692,7 +692,7 @@ since; on the other hand, it is made the token of the covenant between
 Elohim and Noah, and the use of language in other passages, with the
 analogy of Gen. xvii., would point to the covenant described in ix. 1-7:
 the rainbow would then be the counterpart of circumcision. <span
-id="fr_155"></span>[1](#fn_155) The covenant, *i.e.*, the law of ch. ix.
+id="fr_155"></span>[1](#fn_155.md) The covenant, *i.e.*, the law of ch. ix.
 1-7, a modification
 
 <span id="page_312">p. 312</span>
@@ -710,7 +710,7 @@ man's blood, by man shall his blood be shed: for in the image of God
 made He man." Yet the religious notion of *humanity* underlying this
 sentence is not ancient with the Hebrews any more than with other
 nations; cf. Gen. iv. 15, 24, and Exod. xxi. 20 seq. <span
-id="fr_156"></span>[1](#fn_156)
+id="fr_156"></span>[1](#fn_156.md)
 
 The ark lands, according to Q, on Mount Ararat. In JE, as we have it, no
 landing-place is named. But this is not original, as mythic geography
@@ -848,7 +848,7 @@ ethnic legends at the entrance to his sacred legend, and perhaps
 selected them with a view to their forming an introduction to it; for
 they are all ethical and historical in their nature, and bear on the
 problems of the world of man, and not the world of nature. <span
-id="fr_157"></span>[1](#fn_157) But with the Jehovist justice was yet
+id="fr_157"></span>[1](#fn_157.md) But with the Jehovist justice was yet
 done to some extent to the individuality of the different narratives: in
 the Priestly Code their individuality is not only modified to suit the
 purpose of the whole, but completely destroyed. The connection leading
@@ -910,7 +910,7 @@ The fact is simply this, that the whole section of the flood (Gen.
 vi.-ix.) is an isolated piece without any connection with the rest of
 the narrative of the Jehovist. Another strange erratic boulder is the
 intercourse of the sons of God with the daughters of men (Gen. vi.
-1-4). <span id="fr_158"></span>[1](#fn_158) The connection between this
+1-4). <span id="fr_158"></span>[1](#fn_158.md) The connection between this
 piece and the story of the flood which follows it, is of the loosest;
 and it is in entire disagreement with the preceding part of the Jehovist
 narrative, as it tells of a second fall of man, with a point of view
@@ -1041,7 +1041,7 @@ is not to say that in such a connection as this we may regard him as a
 historical person; he might with more likelihood be regarded as a free
 creation of unconscious art. He is perhaps the youngest figure in the
 company, and it was probably at a comparatively late period that he was
-put before his son Isaac. <span id="fr_159"></span>[1](#fn_159)
+put before his son Isaac. <span id="fr_159"></span>[1](#fn_159.md)
 
 In the Jehovist this skeleton of ethnographic genealogy is found covered
 throughout with flesh and blood. The patriarchs, Abraham, Isaac, and
@@ -1081,7 +1081,7 @@ peaceful forms of the golden age in the past. We have also to consider
 that the peaceful shepherd life of the patriarchs is necessary to the
 idyllic form in which the early history of the people is cast; only
 peoples or tribes can make war, not single men. <span
-id="fr_160"></span>[1](#fn_160) This also must serve to explain why the
+id="fr_160"></span>[1](#fn_160.md) This also must serve to explain why the
 historical self-consciousness of the nation finds so little expression
 in the personal character of the patriarchs. It makes vent for itself
 only in the inserted prophecies of the future; in these we trace that
@@ -1161,7 +1161,7 @@ and not merely the free work of poetry, is based on much earlier events,
 from a time when the union was just being accomplished of the two
 sections which together became the people of Israel. The trait of his
 brother's jealousy of him points perhaps to later events. <span
-id="fr_161"></span>[1](#fn_161)
+id="fr_161"></span>[1](#fn_161.md)
 
 The historical associations which form the groundwork of the stories of
 the other sons of Jacob are also comparatively old. They afford us
@@ -1186,7 +1186,7 @@ Jehovist narratives about Reuben, Simeon, Levi, and Judah, are
 undoubtedly based on occurrences connected with the period of the
 conquest of the holy land; but this is not the place to trace the
 historical interpretation of the stories further. <span
-id="fr_162"></span>[1](#fn_162)
+id="fr_162"></span>[1](#fn_162.md)
 
 It may, however, be remarked, and it is important to do so, that even
 where true historic motives are indisputably present in the patriarchal
@@ -1204,7 +1204,7 @@ antipathies are everywhere at work, and the standpoint is throughout
 that of Northern Israel, as appears most evidently from the circumstance
 that Rachel is the fair and the beloved wife of Jacob, whom alone in
 fact he wished to marry, and Leah the ugly and despised one who was
-imposed on him by a trick. <span id="fr_163"></span>[2](#fn_163) On the
+imposed on him by a trick. <span id="fr_163"></span>[2](#fn_163.md) On the
 whole, the rivalries which really existed are
 
 <span id="page_325">p. 325</span>
@@ -1221,7 +1221,7 @@ which enter into them and attach them to this and that particular
 locality. In this aspect we have first of all to consider that the
 patriarchs are regarded as the founders of the popular worship at
 Shechem, Bethel, Beersheba, and Hebron, as we saw above, [p.
-30](phai04.htm#page_30). A whole series of stories about them are
+30](phai04.htm#page_30.md). A whole series of stories about them are
 cultus-myths; in these they discover by means of a theophany that a
 certain spot of earth is holy ground; there they erect an altar, and
 give it the name of the place. They dwell exclusively at places which
@@ -1245,7 +1245,7 @@ wife was turned was still pointed out in the days of Josephus; perhaps
 the smoke of the furnace which Abraham saw from the Jewish shore the
 morning after the catastrophe has some connection with the town of the
 same name which was situated there. <span
-id="fr_164"></span>[1](#fn_164) The origin of Mount Gilead is explained
+id="fr_164"></span>[1](#fn_164.md) The origin of Mount Gilead is explained
 from its historical
 
 <span id="page_326">p. 326</span>
@@ -1262,7 +1262,7 @@ called Beer Lahai Roi (he lives who sees me); it is between Kadesh and
 Berdan. According to Judges xv. 18-20, 2 Sam. xxiii. 11, a more correct
 interpretation of Lahai Roi would be "jawbone of the antelope"—this
 being the appearance presented by a series of rocky teeth standing close
-together there. <span id="fr_165"></span>[1](#fn_165)
+together there. <span id="fr_165"></span>[1](#fn_165.md)
 
 The original motive of the legend, however, as we have now indicated it,
 appears in the Jehovist always and everywhere covered over with the
@@ -1338,7 +1338,7 @@ able to bear them that they might dwell together, for their
 substance was great so that they could not dwell together. And they
 separated themselves the one from the other; Abram dwelled in the land
 of Canaan, and Lot dwelled in the cities of the Kikkar. <span
-id="fr_166"></span>[1](#fn_166) And it came to pass when God destroyed
+id="fr_166"></span>[1](#fn_166.md) And it came to pass when God destroyed
 the cities of the Kikkar, that God remembered Abram, and sent Lot out of
 the midst of the overthrow, when he overthrew the cities in which Lot
 dwelt. . . (xiii. 6, 11<sup>b</sup>, 12<sup>ab</sup>, xix. 29). And
@@ -1435,7 +1435,7 @@ Abraham and Isaac dwelt as strangers. And the days of Isaac were a
 hundred and eighty years. And Isaac gave up the ghost, and died, and was
 gathered unto his people, being old and full of days; and his sons Esau
 and Jacob buried him" (xxxv. 27-29.) Then follow the generations of Esau
-in chapter xxxvi. <span id="fr_167"></span>[1](#fn_167) "And Esau took
+in chapter xxxvi. <span id="fr_167"></span>[1](#fn_167.md) "And Esau took
 his wives, and his sons, and his daughters, and all the souls of his
 house, and his cattle, and all his beasts, and all his substance, which
 he had got in the land of Canaan, and went into the land of Seir from
@@ -1523,7 +1523,7 @@ Priestly Code shows a firmly jointed literary form; one remarkable
 feature of which is to be seen in the regular titles which stand at the
 head of the various sections. Each section begins with the words ‏אלה
 תולדות‎ (*hae sunt generationes*), from which Genesis derives its
-name. <span id="fr_168"></span>[1](#fn_168) In the rest of the
+name. <span id="fr_168"></span>[1](#fn_168.md) In the rest of the
 historical literature of the Old Testament nothing like this as yet
 appears. It is also characteristic that whenever the title occurs,
 introducing a new, section, the contents of the preceding section are
@@ -1543,7 +1543,7 @@ proportions
 and such systematic fashion as nowhere else. This has been regarded as a
 proof that Q belongs to an older stage of development of Hebrew
 historiography than JE. There can be no doubt, it is said, <span
-id="fr_169"></span>[1](#fn_169) that the oldest Hebrew, or indeed
+id="fr_169"></span>[1](#fn_169.md) that the oldest Hebrew, or indeed
 Oriental, history began with the historical notices and traditions
 inserted in the tribal or family catalogues. Yet we know positively that
 in the Books of Judges, Samuel, and Kings, there are no genealogical
@@ -1552,7 +1552,7 @@ full of them. We know also that songs such as those in Josh. x. 12, 13;
 Jud. v.; 2 Sam. i. 19 seq., iii. 33 seq. are the oldest historical
 monuments, and that a number of them are found in JE and not a single
 one in Q. Herder's theory of the development of history out of genealogy
-will not apply here, <span id="fr_170"></span>[2](#fn_170) but indeed
+will not apply here, <span id="fr_170"></span>[2](#fn_170.md) but indeed
 what we have to do with here is not history proper at all, but folklore.
 
 It is true that with the Jehovist also the genealogy underlies the
@@ -1603,7 +1603,7 @@ familiar to every child. The Priestly Code, moreover, strips the legends
 of the patriarchs of their local as well as their historical colour;
 they are kept at a distance from all the places of the sacredness of
 which the Jehovist makes them the founders. <span
-id="fr_171"></span>[1](#fn_171) No historical geography is needed in
+id="fr_171"></span>[1](#fn_171.md) No historical geography is needed in
 order to understand the narrative of the Priestly Code in Genesis: but
 that is only to say
 
@@ -1615,7 +1615,7 @@ theophanies nor dreams, and is destitute of all that many-coloured
 poetic charm which adorns the Jehovistic narratives. But this proves not
 its original simplicity but its neglect of the springs from which legend
 arises, and of its most essential elements. <span
-id="fr_172"></span>[1](#fn_172) What remains is anything but historical
+id="fr_172"></span>[1](#fn_172.md) What remains is anything but historical
 objectivity: it is the formula and nothing more.
 
 As with the legend of the beginnings of things, so with the legend of
@@ -1633,7 +1633,7 @@ which was the occasion of his change of name? Have we anything like the
 true history of Joseph in the Priestly Code? Can we regard it as the
 original history, when the destruction of Sodom and Gomorrah is
 dismissed in a subordinate clause, as is done in xix. 29? The remarkable
-admission has been made, <span id="fr_173"></span>[1](#fn_173) that it
+admission has been made, <span id="fr_173"></span>[1](#fn_173.md) that it
 is plain from the summary manner of reporting of the Priestly Code, that
 the author could have told his story at much greater length, had it been
 consistent with the plan of his work to do so, and that this certainly
@@ -1719,7 +1719,7 @@ Assyrian Empire is in existence, with the cities of Niniveh and Calah
 and Resen; that the Canaanites had once dwelt in Palestine, but had long
 been absorbed in the Israelites. The writer of the Priestly Code is very
 careful not to do anything like this. <span
-id="fr_174"></span>[1](#fn_174) He brushes up the legend and makes
+id="fr_174"></span>[1](#fn_174.md) He brushes up the legend and makes
 history of it according to the rules of art; he kills it as legend, and
 deprives it of all real value, such as it possesses, not indeed for the
 history of primitive times, but for that of the age of the kings.
@@ -1776,7 +1776,7 @@ name for the God of their fathers, to whom he directed his people,—and
 yet a theory which, from the correlation between Jehovah the God of
 Israel and Israel the people of Jehovah, readily suggests itself, and is
 not altogether peculiar to the author of the Priestly Code. <span
-id="fr_175"></span>[1](#fn_175) He had a pattern which suggested certain
+id="fr_175"></span>[1](#fn_175.md) He had a pattern which suggested certain
 lines, and these he traces strongly and with a system; and he even goes
 so far as to avoid the name of Jehovah even in his own narrative of the
 pre-Mosaic period. Even when speaking in his own person, he says Elohim,
@@ -1815,7 +1815,7 @@ which he is exposed, because he is not a blood-bridegroom, *i.e.*,
 because he has not submitted to circumcision before his marriage. In
 other words, the circumcision of male infants is here explained as a
 milder substitute for the original circumcision of young men before
-marriage. <span id="fr_176"></span>[1](#fn_176) Compare with this the
+marriage. <span id="fr_176"></span>[1](#fn_176.md) Compare with this the
 style in which in Gen. xvii. the Priestly Code institutes the
 circumcision of male children on the eighth day after birth. This
 institution completely throws into the shade and spoils the story out of
@@ -1852,7 +1852,7 @@ on the narrative is everywhere apparent.
 The attitude of Judaism to the old legend is on the whole negative, but
 it added some new elements. While the patriarchs are not allowed to
 sacrifice, only to slaughter, they have, on the other hand, the
-Sabbath <span id="fr_177"></span>[1](#fn_177) and circumcision. In this
+Sabbath <span id="fr_177"></span>[1](#fn_177.md) and circumcision. In this
 they are like the Jews in Babylon, who were deprived of the national
 cultus, and replaced it with these two symbols of religious membership
 and union, which were independent of the temple of Jerusalem. In the
@@ -1910,7 +1910,7 @@ merely a temporary
 <span id="page_343">p. 343</span>
 
 encampment, but their permanent seat of justice. <span
-id="fr_178"></span>[1](#fn_178) Hence the narratives which are told
+id="fr_178"></span>[1](#fn_178.md) Hence the narratives which are told
 before the arrival at Sinai are repeated after the departure from it,
 because the locality is the same before and after, namely, the
 wilderness of Kadesh, the true scene of the Mosaic history. The
@@ -1961,7 +1961,7 @@ warriors. According to the view of the poet of Deut. xxxiii. the
 Israelites did not go to Jehovah to Sinai, but the converse; He came to
 them from Sinai to Kadesh: "Jehovah came from Sinai and shone from Seir
 unto them; He lightened from Mount Paran and came to Meribath
-Kadesh." <span id="fr_179"></span>[1](#fn_179) But it is not difficult
+Kadesh." <span id="fr_179"></span>[1](#fn_179.md) But it is not difficult
 to see how it came to be thought more seemly that the Israelites should
 undertake the journey to Jehovah. This was at first put in the form that
 they appeared there before the face of Jehovah to worship Him and offer
@@ -1995,7 +1995,7 @@ cannot be asserted.
 
 As the Jehovistic work was originally a pure history-book, so
 Deuteronomy, when it was first discovered, was a pure law-book. <span
-id="fr_180"></span>[1](#fn_180) These two works, the historical and
+id="fr_180"></span>[1](#fn_180.md) These two works, the historical and
 legal, were at first quite independent of each other; only afterwards
 were they conjoined, perhaps that the new law might share in the
 popularity of the old people's book, and at the same time infuse into it
@@ -2019,7 +2019,7 @@ least involved in the nature of the case; on the contrary, it introduces
 the greatest amount of awkwardness. How it came about can only be
 explained in the way above described; an antecedent process of the same
 nature in literary history led the way and made the suggestion. <span
-id="fr_181"></span>[2](#fn_181)
+id="fr_181"></span>[2](#fn_181.md)
 
 As from the literary point of view, so also from the historical, the
 Moses of the Jehovist appears more original than the Moses of the
@@ -2033,7 +2033,7 @@ criticism of the conflicting historical views of Moses and his work in
 the two main sources of the Pentateuch. According to the Priestly Code
 Moses is a religious founder and legislator, as we are accustomed to
 think of him. He receives and promulgates the Torah, <span
-id="fr_182"></span>[1](#fn_182) perhaps not as a book—though, when we
+id="fr_182"></span>[1](#fn_182.md) perhaps not as a book—though, when we
 come to think of it, we can hardly represent the transaction to
 ourselves in any other way—but certainly fixed and finished as an
 elaborate and minutely organised system, which comprises the sacred
@@ -2110,7 +2110,7 @@ entitled to the
 <span id="page_348">p. 348</span>
 
 credit of having first torn the web asunder. <span
-id="fr_183"></span>[1](#fn_183) The boldness with which numbers and
+id="fr_183"></span>[1](#fn_183.md) The boldness with which numbers and
 names are stated, and the preciseness of the details about indifferent
 matters of furniture, do not prove them to be reliable: they are not
 drawn from contemporary records, but are the fruit solely of late Jewish
@@ -2222,8 +2222,8 @@ not forgetful of his religio-historical theory.
 By its taste for barren names and numbers and technical descriptions,
 the Priestly Code comes to stand on the same line with the Chronicles
 and the other literature of Judaism which labours at an artificial
-revival of the old tradition (p. [180](phai09.htm#page_180), seq.,
-[214](phai09.htm#page_214), seq., [226](phai09.htm#page_226)). Of a
+revival of the old tradition (p. [180](phai09.htm#page_180.md), seq.,
+[214](phai09.htm#page_214), seq., [226](phai09.htm#page_226).md). Of a
 piece with this tendency is an indescribable pedantry, belonging to the
 very being of the author of the Priestly Code. He has a very passion for
 classifying and drawing plans; if he has once dissected a genus into
@@ -2240,7 +2240,7 @@ over, what is of no importance is described with minuteness, his
 exhaustive clearness is such as with its numerous details to confuse our
 apprehension of what is in itself perfectly clear. This is what used to
 be described in the phraseology of historical criticism as epic
-breadth. <span id="fr_184"></span>[1](#fn_184)
+breadth. <span id="fr_184"></span>[1](#fn_184.md)
 
 2\. Having thus attempted to describe the general contrast of the
 Priestly Code and the Jehovist in the Mosaic period, it remains for us
@@ -2254,7 +2254,7 @@ only one statement of the month in which an event took place (1 Kings
 vi. 38), and in that case the day is not given. To the prophetic writers
 dates were of some importance, and the growth of the practice may to
 some extent be traced with them. Amos first came forward "two years
-before the earthquake." <span id="fr_185"></span>[2](#fn_185) The most
+before the earthquake." <span id="fr_185"></span>[2](#fn_185.md) The most
 precise date in Isaiah is "the year in which king Uzziah died." Numbers
 of years are first found in Jeremiah, "the thirteenth year of king
 Josiah," and a few more instances. All at once there was a change:
@@ -2288,8 +2288,8 @@ as a giving of thanks to Jehovah for having slain the firstborn of
 Egypt, but as instituted at the moment of the Exodus to induce Jehovah
 to spare the firstborn of Israel. How all this is to be understood and
 judged of we have discussed more at large in the chapter on the
-festivals (p. [87](phai06.htm#page_87), [100](phai06.htm#page_100),
-[102](phai06.htm#page_102).).
+festivals (p. [87](phai06.htm#page_87), [100](phai06.htm#page_100.md),
+[102](phai06.htm#page_102)..md).
 
 As to the accounts given in the two sources of the crossing of the Red
 Sea, all we can say is that that of the Jehovist (J) is the more
@@ -2303,7 +2303,7 @@ said: I will flee before Israel, for Jehovah fighteth for them against
 Egypt. But the sea turned back towards morning to its ordinary level,
 and the Egyptians fled against it, and Jehovah shook them into the midst
 of the sea" (Exod. xiv. 24, 25, 27). According to the Priestly
-Code <span id="fr_186"></span>[1](#fn_186) the waves meet over the
+Code <span id="fr_186"></span>[1](#fn_186.md) the waves meet over the
 pursuers, before they reach the further shore; the idea is much simpler,
 but poorer in incidental features.
 
@@ -2325,7 +2325,7 @@ thus presented to him in the construction, down below, of the real
 tabernacle. All further revelation takes place, even in Moses’ time, as
 far as possible in the tabernacle (Exod. xxv. 22). Even Sinai must not
 stand any longer than necessary by the side of the one legitimate seat
-of Deity. <span id="fr_187"></span>[1](#fn_187) The tables of the law,
+of Deity. <span id="fr_187"></span>[1](#fn_187.md) The tables of the law,
 it appears, are silently presupposed without being mentioned beforehand,
 it being of course assumed that the readers would know all about them
 from the old tradition. The outside of the ark, however, is furnished in
@@ -2382,7 +2382,7 @@ In the Jehovist Moses alone instructs the spies and receives their
 report on their return; in the Priestly Code Moses and Aaron do so. In
 the oldest source of the Jehovist (J) Aaron has not yet made his
 appearance; in the Priestly Code Moses must not do any public act
-without him. <span id="fr_188"></span>[1](#fn_188) Moses is still the
+without him. <span id="fr_188"></span>[1](#fn_188.md) Moses is still the
 moving spirit here as well as there, but Aaron is the representative of
 the theocracy, and pains are taken to secure that he shall never be
 absent where the representatives of the theocracy are brought face to
@@ -2426,7 +2426,7 @@ to be an insoluble enigma. The one arises out of the other in the direct
 line of descent: the metamorphoses took place under the influence of
 great historical changes which are well known to us; and in the light of
 Jewish history from Josiah downwards they are by no means
-unintelligible. <span id="fr_189"></span>[1](#fn_189)
+unintelligible. <span id="fr_189"></span>[1](#fn_189.md)
 
 We come to the migration of the Israelites to the land east of the
 Jordan. According to the Jehovist the neighbouring tribes place
@@ -2596,7 +2596,7 @@ territory of a tribe. It was also favoured no doubt by the tendency to
 compress a long development into its first great act; and as this
 tendency is carried out with the greatest thoroughness in the Priestly
 Code, that document stands furthest from the origin of the
-tradition. <span id="fr_190"></span>[1](#fn_190) The same conclusion is
+tradition. <span id="fr_190"></span>[1](#fn_190.md) The same conclusion is
 led up to by the circumstance that
 
 <span id="page_360">p. 360</span>
@@ -2615,7 +2615,7 @@ Joshua. The epic tradition certainly contains elements which cannot be
 explained on any other hypothesis than that there are historical facts
 underlying them; its source is in the period it deals with, while the
 patriarchal legend has no connection whatever with the times of the
-patriarchs. <span id="fr_191"></span>[1](#fn_191) This justifies the
+patriarchs. <span id="fr_191"></span>[1](#fn_191.md) This justifies the
 difference of treatment. Our last result is still the same: whether
 tried by the standard of poetry or by that of history, the Priestly Code
 stands both in value and in time far below the Jehovist.
@@ -2701,7 +2701,7 @@ longer period, and passed through various phases.
 
 ### Footnotes
 
-<span id="fn_146"></span>[296:1](phai11.htm#fr_146) The agreement
+<span id="fn_146"></span>[296:1](phai11.htm#fr_146.md) The agreement
 extends not only to the thread of the narrative, but also to
 particulars, and even to expressions. I do not speak of *mabbul*
 (flood), or *tebah* (ark), but the following examples have struck me:—In
@@ -2718,29 +2718,29 @@ of a slow tongue;* (Jehovah) *Aaron shall be to thee instead of a mouth,
 and thou shalt be to him instead of God*. Comp. Gen. xxvii. 46, with
 xxv: 22.
 
-<span id="fn_147"></span>[296:2](phai11.htm#fr_147) The line indicated
+<span id="fn_147"></span>[296:2](phai11.htm#fr_147.md) The line indicated
 by Buttmann was first taken up again by Th. Nöldeke in his Essay on the
 main-stock of the Pentateuch, which opened the way to a proper estimate
 of the narrative part of the work.
 
-<span id="fn_148"></span>[299:1](phai11.htm#fr_148) "There is nothing
+<span id="fn_148"></span>[299:1](phai11.htm#fr_148.md) "There is nothing
 whatever in the piece that merits the name of invention but the
 chronological order of the various creations." Buttmann, p. 133.
 
-<span id="fn_149"></span>[302:1](phai11.htm#fr_149) Sur. 20, 91. Hudh.
+<span id="fn_149"></span>[302:1](phai11.htm#fr_149.md) Sur. 20, 91. Hudh.
 22, 10 (Agh. xv. 105, 12). Hamasa, 292, 8 seq. Tabari i. 847, 18.
 
-<span id="fn_150"></span>[303:1](phai11.htm#fr_150) Dillmann thinks this
+<span id="fn_150"></span>[303:1](phai11.htm#fr_150.md) Dillmann thinks this
 idea insipid: *Genesis* (1882), p. 44.
 
-<span id="fn_151"></span>[307:1](phai11.htm#fr_151) A coarser
+<span id="fn_151"></span>[307:1](phai11.htm#fr_151.md) A coarser
 counterpart to Gen. ii. iii, is Gen. vi. 1-4. Here also there is a kind
 of fall of man in an attempt to overpass the boundary between the human
 race and the divine. In the priestly narrative (Q) the gulf between
 spirit, which is divine substance, and flesh, which is human substance,
 is bridged over by the doctrine of man's creation in the image of God.
 
-<span id="fn_152"></span>[308:1](phai11.htm#fr_152) I merely assert that
+<span id="fn_152"></span>[308:1](phai11.htm#fr_152.md) I merely assert that
 Gen. ii. iii. is prior to Gen. i.; I do not believe the story of
 Paradise and of the Fall to be very old with the Israelites. We are led
 to think so by the fact that the man and the woman stand at the head of
@@ -2764,15 +2764,15 @@ and Nod having preceded it; and the Hebrews probably derived the legend
 in the last instance from Babylon. But this does not prove that this or
 that parallel brought forward by Assyriologists is necessarily of value.
 
-<span id="fn_153"></span>[308:2](phai11.htm#fr_153) So Nöldeke in the
+<span id="fn_153"></span>[308:2](phai11.htm#fr_153.md) So Nöldeke in the
 *Jahrbb. für protest. Theol.*, 1875, p. 344. Genesis xv. 13-16 expressly
 states that the generation is reckoned as 100 years in this period.
 
-<span id="fn_154"></span>[309:1](phai11.htm#fr_154) "Exact chronological
+<span id="fn_154"></span>[309:1](phai11.htm#fr_154.md) "Exact chronological
 dates are a sure sign of later working up of old poetical legends."
 Buttmann, I. p. 181.
 
-<span id="fn_155"></span>[311:1](phai11.htm#fr_155) The celestial bow is
+<span id="fn_155"></span>[311:1](phai11.htm#fr_155.md) The celestial bow is
 originally the instrument of the arrow-darting God, and therefore a
 symbol of His hostility; but He lays it out of His hand to signify that
 He has laid aside His wrath, and it is a token of His reconciliation and
@@ -2787,18 +2787,18 @@ retained far into Christian times a remarkably near relation to the
 Deity. It is singular that the Edomites have a God named Kaus, as well
 as Kuzah.
 
-<span id="fn_156"></span>[312:1](phai11.htm#fr_156) De Wette,
+<span id="fn_156"></span>[312:1](phai11.htm#fr_156.md) De Wette,
 *Beiträge*, p. 57. The religious notion of the *people* is old.
 
-<span id="fn_157"></span>[315:1](phai11.htm#fr_157) Yet it is possible
+<span id="fn_157"></span>[315:1](phai11.htm#fr_157.md) Yet it is possible
 the selection presented him with no difficulty, since cosmological myths
 were not popular tales, but priestly speculations, with which he was
 quite unacquainted.
 
-<span id="fn_158"></span>[317:1](phai11.htm#fr_158) See [p.
-307](#page_307), note [1](#fn_151).
+<span id="fn_158"></span>[317:1](phai11.htm#fr_158.md) See [p.
+307](#page_307), note [1](#fn_151.md).
 
-<span id="fn_159"></span>[320:1](phai11.htm#fr_159) The stories about
+<span id="fn_159"></span>[320:1](phai11.htm#fr_159.md) The stories about
 Abraham and those about Isaac are so similar, that they cannot possibly
 be held to be independent of each other. The stories about Isaac,
 however, are more original, as may be seen in a striking way on
@@ -2828,7 +2828,7 @@ ordain, and have something to do with Ram (1 Chron. ii.). Abram may
 stand for Abiram, as Abner for Abiner and Ahab for Ahiab. The name Abu
 Ruham occurs in the *Hadith* as *nomen proprium viri*.
 
-<span id="fn_160"></span>[321:1](phai11.htm#fr_160) This consideration
+<span id="fn_160"></span>[321:1](phai11.htm#fr_160.md) This consideration
 is certainly less decisive than the foregoing one. Jacob is a peaceful
 shepherd, not only because of the idyllic form of the narrative, but in
 his own being and character. He forms the strongest contrast to his
@@ -2836,7 +2836,7 @@ brother Esau, who in spite of the idyllic form is a man of war. Such
 exceptions as Gen. xiv. and xlviii. 22 (chap. xxxiv.) only prove the
 rule.
 
-<span id="fn_161"></span>[323:1](phai11.htm#fr_161) It deserves to be
+<span id="fn_161"></span>[323:1](phai11.htm#fr_161.md) It deserves to be
 considered that at first Joseph is in Egypt alone, and that his brothers
 came after, at his request. When the notion of united Israel was
 transferred to the distant past, one consequence was that the fortunes
@@ -2847,7 +2847,7 @@ by Moses. Moses came from the peninsula of Sinai (Leah) to lead the
 Israelites there from Goshen (Joseph). The designation of Levite he
 could not receive in Joseph, only in Leah.
 
-<span id="fn_162"></span>[324:1](phai11.htm#fr_162) See "Israel," sec.
+<span id="fn_162"></span>[324:1](phai11.htm#fr_162.md) See "Israel," sec.
 2, *infra*. Gen. iv. 1-15 is a similar tribal history. The old tribe of
 Cain, the name of which is indicative of settlement and culture, appears
 to have been broken up and scattered to the four winds in very early
@@ -2855,40 +2855,40 @@ times (Jud. v. 24) in the same way as Levi, with which it appears to
 have divided the priesthood. We have already said that Gen. iv. 1-l5 can
 only have found its way into the primitive legend by interpolation.
 
-<span id="fn_163"></span>[324:2](phai11.htm#fr_163) This, however, only
+<span id="fn_163"></span>[324:2](phai11.htm#fr_163.md) This, however, only
 warrants us to conclude that these legends first arose in <span
 id="page_325">p. 325</span> Ephraim, not that they were written down
 there in the form in which we have them.
 
-<span id="fn_164"></span>[325:1](phai11.htm#fr_164) Joshua ‏הנבשן‎ xv.
+<span id="fn_164"></span>[325:1](phai11.htm#fr_164.md) Joshua ‏הנבשן‎ xv.
 62 is no doubt more correctly ‏הכבשן‎: the name, having the article
 prefixed to it, must be susceptible of a clear meaning.
 
-<span id="fn_165"></span>[326:1](phai11.htm#fr_165) Compare Onugnathos
+<span id="fn_165"></span>[326:1](phai11.htm#fr_165.md) Compare Onugnathos
 and the camel's jawbone in Vakidi, *op. cit.* p. 298, note 2: Jakut iv.
 353, 9 seq. ‏ראי‎ is an obsolete name of an animal. For ‏הלם‎, Gen. xvi.
 15, we should read ‏אלהים‎ (cf. 1 Sam. iii. 13), and before ‏אחרי‎ we
 should probably insert ‏ואחי‎.
 
-<span id="fn_166"></span>[328:1](phai11.htm#fr_166) Where the Dead Sea
+<span id="fn_166"></span>[328:1](phai11.htm#fr_166.md) Where the Dead Sea
 was afterwards.
 
-<span id="fn_167"></span>[330:1](phai11.htm#fr_167) Only part of this
+<span id="fn_167"></span>[330:1](phai11.htm#fr_167.md) Only part of this
 chapter, however, belongs to the Priestly Code.
 
-<span id="fn_168"></span>[332:1](phai11.htm#fr_168) Αὕτη ἡ βίβλος
+<span id="fn_168"></span>[332:1](phai11.htm#fr_168.md) Αὕτη ἡ βίβλος
 γενέσεως ii. 4 LXX. Hence Ewald's name for the Priestly Code, which is
 very appropriate for Genesis, or perhaps generally for the book of the
 four covenants—the Book of Origins.
 
-<span id="fn_169"></span>[333:1](phai11.htm#fr_169) Riehm, "die s.g.
+<span id="fn_169"></span>[333:1](phai11.htm#fr_169.md) Riehm, "die s.g.
 Grundschrift des Pentateuchs" in *Studien und Kritiken*, 1872, p. 296.
 
-<span id="fn_170"></span>[333:2](phai11.htm#fr_170) Nor in the case of
+<span id="fn_170"></span>[333:2](phai11.htm#fr_170.md) Nor in the case of
 the Arabs, as has been well shown by Sprenger against Caussin de
 Perceval (*Essai*, preface, p. ix.).
 
-<span id="fn_171"></span>[334:1](phai11.htm#fr_171) Hupfeld gives a
+<span id="fn_171"></span>[334:1](phai11.htm#fr_171.md) Hupfeld gives a
 curious turn to this, saying that in the Priestly Code Abraham, Isaac,
 and Jacob have much more permanent settlements. But it is this work that
 insists so often on the fact that the patriarchs were pilgrims and had
@@ -2906,7 +2906,7 @@ to represent them as wandering nomads, but serve to bring them in
 contact with all the sacred places with which they had special
 associations.
 
-<span id="fn_172"></span>[335:1](phai11.htm#fr_172) Riehm (*op. cit.* p.
+<span id="fn_172"></span>[335:1](phai11.htm#fr_172.md) Riehm (*op. cit.* p.
 302 seq.) thinks it is made out that the religious tradition of remote
 antiquity is distinguished by its "modest simplicity", and by a "style
 suited to its exalted subject." Only in the course of time was it
@@ -2919,7 +2919,7 @@ later prophets, as Ezekiel, Zechariah, Daniel, more frequently. It is
 difficult to sift out what is true and what is false in this confused
 argument. In the Priestly Code there are, it is true, no angels, but on
 the other hand we have Azazel and Seirim (2 Chron. xi. 15; Isa. xiii.
-21, xxxiv. 14, comp. *supra*, [p. 51](phai04.htm#page_51)), for where
+21, xxxiv. 14, comp. *supra*, [p. 51](phai04.htm#page_51).md), for where
 the gods are not, the ghosts have sway. In one of the two main sources
 of the Jehovist (J), we find chiefly the Mal’ak Jahve (message of
 Jehovah); that is Jehovah Himself in so far as He appears and manifests
@@ -2948,14 +2948,14 @@ which operates always with numbers and names and the childlike belief in
 angels. The former removes God to a distance, the latter brings Him
 near.
 
-<span id="fn_173"></span>[336:1](phai11.htm#fr_173) Riehm, *op. cit.* p.
+<span id="fn_173"></span>[336:1](phai11.htm#fr_173.md) Riehm, *op. cit.* p.
 292.
 
-<span id="fn_174"></span>[338:1](phai11.htm#fr_174) Hence also archaisms
+<span id="fn_174"></span>[338:1](phai11.htm#fr_174.md) Hence also archaisms
 such as Kirjath-Arba, Luz, Ephrath. Compare the antiquarian lore in
 Deuteronomy i.-iv. and in Gen. xiv.
 
-<span id="fn_175"></span>[339:1](phai11.htm#fr_175) Exod. vi. 2, 3 (Q) =
+<span id="fn_175"></span>[339:1](phai11.htm#fr_175) Exod. vi. 2, 3 (Q.md) =
 iii. 13, 14 (JE). The burning bush shows the theophany in the Jehovist
 to be the earlier. In the Priestly Code it almost loses the character of
 a theophany entirely. But this is also quite clear on a comparison of
@@ -2968,51 +2968,51 @@ way of thinking of the matter, Moses is a god for Aaron, not for
 Pharaoh. By the way: is there anything in the similarity between Sene
 and Sinai?
 
-<span id="fn_176"></span>[340:1](phai11.htm#fr_176) That this is in fact
+<span id="fn_176"></span>[340:1](phai11.htm#fr_176.md) That this is in fact
 the original custom is clear from the word ‏חתן‎, which signifies both
 circumcision and bridegroom (or in Arabic, son-in-law). This explains
 the meaning of ‏חתן דמים‎ in Exod. iv. 25. The original usage is still
 in force with some Arab tribes. In Gen. xxxiv. Shechem has to submit to
 circumcision before marriage.
 
-<span id="fn_177"></span>[341:1](phai11.htm#fr_177) The Sabbath is not a
+<span id="fn_177"></span>[341:1](phai11.htm#fr_177.md) The Sabbath is not a
 Mosaic institution according to the Priestly Code. But it is presupposed
 in Exod. xvi., and according to Gen. ii. 3, it was in force from the
 beginning of the world. With the old Israelites the Sabbath was much
 less important in relation to worship than the festivals: in Judaism the
 opposite was the case.
 
-<span id="fn_178"></span>[343:1](phai11.htm#fr_178) Kadesh is also
+<span id="fn_178"></span>[343:1](phai11.htm#fr_178.md) Kadesh is also
 called Meribah, the seat of justice, or Meribath Kadesh, the seat of
 justice at the holy spring. Meribah is in its meaning the same as
 Midian.
 
-<span id="fn_179"></span>[344:1](phai11.htm#fr_179) We do not know where
+<span id="fn_179"></span>[344:1](phai11.htm#fr_179.md) We do not know where
 Sinai was situated, and the Bible is scarcely at one on the subject.
 Only dilettanti care much for controversy on the matter. The Midian of
 Exod. ii. tells us most: it is probably Madian on the Arabic shore of
 the Ked sea. In our passage Sinai seems to be S.E. of Edom; the way from
 Sinai to Kadesh is by Seir and Paran.
 
-<span id="fn_180"></span>[345:1](phai11.htm#fr_180) Chap. xii.-xxvii.
+<span id="fn_180"></span>[345:1](phai11.htm#fr_180.md) Chap. xii.-xxvii.
 The two historical introductions, chap. i.-iv. and chap. v.-xi. were
 added later, as well as the appendices, chapter xxviii. seq.
 
-<span id="fn_181"></span>[345:2](phai11.htm#fr_181) That the author of
+<span id="fn_181"></span>[345:2](phai11.htm#fr_181.md) That the author of
 the Priestly Code had before him the combination of the Sinai
 legislation of the Jehovist and Deuteronomy is shown further by the
 circumstance that he has both a legislation at Mount Sinai and a
 legislation in the Arboth Moab, and in addition to these one in the
 wilderness of Sinai.
 
-<span id="fn_182"></span>[346:1](phai11.htm#fr_182) The law might
+<span id="fn_182"></span>[346:1](phai11.htm#fr_182.md) The law might
 accordingly be called Moses, as with the Ethiopians the Psalter is
 called David.
 
-<span id="fn_183"></span>[348:1](phai11.htm#fr_183) See Kuenen in the
+<span id="fn_183"></span>[348:1](phai11.htm#fr_183.md) See Kuenen in the
 *Theol. Tijdschrift*, 1870, p. 393-401.
 
-<span id="fn_184"></span>[351:1](phai11.htm#fr_184) Riehm, p. 292. "The
+<span id="fn_184"></span>[351:1](phai11.htm#fr_184.md) Riehm, p. 292. "The
 style is quiet, simple, free from all rhetorical and poetical ornament,
 and the expression in speaking of similar objects has an epic
 uniformity. Impressive as many pieces are, just from their unassuming
@@ -3021,7 +3021,7 @@ produce effect or to raise the interest of the reader by the resources
 of literary art." For an opposite opinion compare Lichtenberg, *Werke*,
 ii. 162.
 
-<span id="fn_185"></span>[351:2](phai11.htm#fr_185) Agh. xv. 11, 17:
+<span id="fn_185"></span>[351:2](phai11.htm#fr_185.md) Agh. xv. 11, 17:
 when al-Walid b. al-Mughira was dead, the Arabs dated after his death to
 the year of the elephant, which thereafter was made an epoch. According
 to others they reckoned nine years after the death of Hisham b.
@@ -3029,26 +3029,26 @@ al-Mughira, to the time when they built the Caaba, and then they dated
 from the building of the Caaba. Comp. the ‘Âm al Ramâda and the ‘Âm al
 Ru ‘âf.
 
-<span id="fn_186"></span>[352:1](phai11.htm#fr_186) And the younger
+<span id="fn_186"></span>[352:1](phai11.htm#fr_186.md) And the younger
 tradition generally: also according to the song Exod. xv., which apart
 from the beginning, which is old, is a psalm in the manner of the Psalms
 and has no similarity with the historical songs, Jud. v., 2 Sam. i.,
 Num. xxi.
 
-<span id="fn_187"></span>[353:1](phai11.htm#fr_187) Compare, however,
+<span id="fn_187"></span>[353:1](phai11.htm#fr_187.md) Compare, however,
 *Jahrbb. für Deutsche Theologie*, 1877, p. 453, note 1.
 
-<span id="fn_188"></span>[354:1](phai11.htm#fr_188) In the same way, in
+<span id="fn_188"></span>[354:1](phai11.htm#fr_188.md) In the same way, in
 the former source Joshua always acts alone; in the latter, he always has
 the priest Eleazar at his side. Compare notes on pp.
-[142](phai07.htm#page_142), [143](phai07.htm#page_143).
+[142](phai07.htm#page_142), [143](phai07.htm#page_143.md).
 
-<span id="fn_189"></span>[355:1](phai11.htm#fr_189) The details of the
+<span id="fn_189"></span>[355:1](phai11.htm#fr_189.md) The details of the
 demonstration will be found in the *Jahrbb. für Deutsche Theologie*,
 1776, p. 572 seq., 1877, p. 454, note, and in the Leyden *Theol.
 Tijdschrift*, 1878, p. 139 seq.
 
-<span id="fn_190"></span>[359:1](phai11.htm#fr_190) In the
+<span id="fn_190"></span>[359:1](phai11.htm#fr_190.md) In the
 Deuteronomistic revision (Josh. xxi, 43-45) there is still a trace of
 hesitation, a certain difficulty in parting with the old view altogether
 (Deut. vii. 22; <span id="page_360">p. 360</span> Judg. iii. 1, 2); and
@@ -3056,7 +3056,7 @@ besides the motives for the change are much plainer here: the Canaanites
 are extirpated to guard against the infection of the new settlers with
 their idolatry.
 
-<span id="fn_191"></span>[360:1](phai11.htm#fr_191) Some isolated
+<span id="fn_191"></span>[360:1](phai11.htm#fr_191.md) Some isolated
 statements there are here also to which the historical standard may be
 applied. We may call it a more accurate representation that Hebron was
 inhabited in the time of Abraham by the, Canaanites and Perizzites, than
@@ -3071,4 +3071,4 @@ the best part of the land.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Conclusion of the Criticism of the Law.](phai12)
+[Next: Chapter IX. Conclusion of the Criticism of the Law.](phai12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca03)  [Next](ntca05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca03)  [Next](ntca05.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ inter-marrying groups. When we find, for example, that amongst the
 Arunta natives a man calls a large number of men belonging to one
 particular group by the name “*Oknia*” (a term which includes our
 relationship of father), that he calls all the wives of these men by the
-common name of “*Mia*” (mother), <span id="fr_25"></span>[1](#fn_25) and
+common name of “*Mia*” (mother), <span id="fr_25"></span>[1](#fn_25.md) and
 that he calls all their sons by the name of “*Okilia*” (elder brother)
 or “*Itia*” (younger brother), as the case may be, we can come to no
 other conclusion than that this is expressive of his recognition of what
@@ -90,7 +90,7 @@ woman has a
 personal name by which he or she is freely addressed by others—that is,
 by any, except a member of the opposite sex who stands in the
 relationship of “*Mura*” to them, for such may only on very rare
-occasions speak to one another. <span id="fr_26"></span>[1](#fn_26)
+occasions speak to one another. <span id="fr_26"></span>[1](#fn_26.md)
 When, as has happened time after time to us, a native says, for example,
 “That man is Oriaka (a personal name), he is my *Okilia*,” and you
 cannot possibly tell without further inquiry whether he is the speaker's
@@ -118,7 +118,7 @@ sons of his father's brothers, and so on right through
 
 the whole system. To this it may be added that, if these be not terms of
 relationship, then the language of these tribes is absolutely devoid of
-any such. <span id="fr_27"></span>[1](#fn_27)
+any such. <span id="fr_27"></span>[1](#fn_27.md)
 
 A great part of the difficulty in understanding these terms lies in the
 fact that we have amongst ourselves no terms which convey the same idea
@@ -175,12 +175,12 @@ it is better to use the term class as applying to the two main exogamous
 intermarrying groups, each of which forms a moiety of the tribe, and the
 term sub-class as applying to the divisions of the class. We therefore
 use these terms with this significance. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 The Urabunna organisation appears to be, if not identical with, at least
 very closely similar to, that of the Dieri tribe, whose territory
 adjoins it on the south, and which has been dealt with previously by Mr.
-Howitt <span id="fr_29"></span>[2](#fn_29) The whole tribe is
+Howitt <span id="fr_29"></span>[2](#fn_29.md) The whole tribe is
 
 <span id="page_60">p. 60</span>
 
@@ -192,7 +192,7 @@ woman, and not only this, but a man of one totem must marry a woman of
 another totem, certain totems being confined to each of the exogamous
 classes. Thus a dingo marries a waterhen, a cicada a crow, an emu a rat,
 a wild turkey a cloud, a swan a pelican, and so on. <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 The organisation can be shown as represented in the following table,
 only a limited number of the totems being indicated:—
@@ -293,7 +293,7 @@ individual man has one or perhaps two of these *Nupa* women who are
 specially attached to himself and live with him in his own camp. In
 addition to them, however, each man has certain *Nupa* women, beyond the
 limited number just referred to, with whom he stands in the relationship
-of *Piraungaru*. <span id="fr_31"></span>[1](#fn_31) To women who are
+of *Piraungaru*. <span id="fr_31"></span>[1](#fn_31.md) To women who are
 the *Piraungaru* of a man (the term is a reciprocal one), the latter has
 access under certain conditions, so that they may be considered as
 accessory wives.
@@ -428,7 +428,7 @@ names
 
 which he applies to the other members of the group so as to include and
 illustrate all the various terms as used. <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 <div align="center">
 
@@ -497,11 +497,11 @@ individuals:—
 | Thunthi, to the individuals numbered                                     | a,  | 4,   | 55,  | 56\. |      |      |
 | Nia, to the individuals numbered                                         | 6,  | 7,   | 8,   | 18\. |      |      |
 | Kawkuka, to the individuals numbered                                     | 10, | 12,  | 16\. |      |      |      |
-| Luka, <span id="fr_33"></span>[1](#fn_33) to the individuals numbered    | 13, | 14\. |      |      |      |      |
+| Luka, <span id="fr_33"></span>[1](#fn_33.md) to the individuals numbered    | 13, | 14\. |      |      |      |      |
 | Namuma, to the individuals numbered                                      | 11, | 15\. |      |      |      |      |
 | Wittewa, to the individuals numbered                                     | 19, | 30,  | 32,  | 37,  | 40\. |      |
-| Apillia, <span id="fr_34"></span>[2](#fn_34) to the individuals numbered | 31, | 33,  | 39\. |      |      |      |
-| Nupa, <span id="fr_35"></span>[3](#fn_35) to the individuals numbered    | 20, | 36,  | 38\. |      |      |      |
+| Apillia, <span id="fr_34"></span>[2](#fn_34.md) to the individuals numbered | 31, | 33,  | 39\. |      |      |      |
+| Nupa, <span id="fr_35"></span>[3](#fn_35.md) to the individuals numbered    | 20, | 36,  | 38\. |      |      |      |
 | Kakua, to the individuals numbered                                       | 22, | 24\. |      |      |      |      |
 | Nuthie, to the individuals numbered                                      | 21, | 23\. |      |      |      |      |
 | Kupuka, to the individuals numbered                                      | 26, | 27,  | 28,  | 29,  | 34,  | 35\. |
@@ -648,7 +648,7 @@ marries a Bulthara woman and their children are Purula.
 
 This may be graphically expressed following Mr. Howitt's plan (as
 already done by Dr. Stirling) in the following way. <span
-id="fr_36"></span>[1](#fn_36)
+id="fr_36"></span>[1](#fn_36.md)
 
 <div align="center">
 
@@ -782,7 +782,7 @@ tribes, no restriction whatever, so far as the totems are concerned. It
 may therefore be, perhaps, a matter of doubt as to how far the totems of
 the Arunta are the exact equivalents of those yet described as existing
 amongst other Australian tribes. Every Arunta native thinks that his
-ancestor in the Alcheringa <span id="fr_37"></span>[1](#fn_37) was the
+ancestor in the Alcheringa <span id="fr_37"></span>[1](#fn_37.md) was the
 descendant of the animal or plant, or at least was immediately
 associated with the object the name of which he bears as his totemic
 name. In many Australian tribes it seems to be a general custom that a
@@ -996,10 +996,10 @@ individuals being numbered alike on both trees.
 |---------------------------------------------|---------------------------------------------------|-----------------------------------------------------------------|
 | TABLE OF RELATIONSHIP TERMS. KAITISH TRIBE. |                                                   |                                                                 |
 | *Native Terms*.                             | *Actual Relationship expressed in English Terms*. | *English Terms, included wholly or partly in the Native Terms*. |
-| Akaurli <span id="fr_38"></span>[1](#fn_38) | Father                                            | Father.                                                         |
+| Akaurli <span id="fr_38"></span>[1](#fn_38.md) | Father                                            | Father.                                                         |
 |                                             | Father's brothers, blood and tribal               | Uncle.                                                          |
 | Anillia                                     | Mother's brothers, blood and tribal               | Uncle.                                                          |
-| Arungwa <span id="fr_39"></span>[2](#fn_39) | Mother                                            | Mother.                                                         |
+| Arungwa <span id="fr_39"></span>[2](#fn_39.md) | Mother                                            | Mother.                                                         |
 |                                             | Mother's sisters, blood and tribal                | Aunt.                                                           |
 | Okulli                                      | Father's sister                                   | Aunt.                                                           |
 | Atumpirri                                   | Son                                               | Son.                                                            |
@@ -1048,10 +1048,10 @@ individuals being numbered alike on both trees.
 |                                                |                                       |                                 |
 |------------------------------------------------|---------------------------------------|---------------------------------|
 | TABLE OF RELATIONSHIP TERMS. WARRAMUNGA TRIBE. |                                       |                                 |
-| Gampatcha <span id="fr_40"></span>[1](#fn_40)  | Father                                | Father.                         |
+| Gampatcha <span id="fr_40"></span>[1](#fn_40.md)  | Father                                | Father.                         |
 |                                                | Father's brothers, blood and tribal   | Uncle.                          |
 | Namini                                         | Mother's brothers, blood and tribal   | Uncle.                          |
-| Kurnandi <span id="fr_41"></span>[2](#fn_41)   | Mother                                | Mother.                         |
+| Kurnandi <span id="fr_41"></span>[2](#fn_41.md)   | Mother                                | Mother.                         |
 |                                                | Mother's sisters, blood and tribal    | Aunt.                           |
 | Pinari                                         | Father's sisters, blood and tribal    | Aunt.                           |
 | Kartakitchi                                    | Sons                                  | Son.                            |
@@ -1322,7 +1322,7 @@ My own and my brother's children are *Allira* to me, and I am *Oknia* to
 them. My mother is Purula. She calls her elder sisters *Ungaraitcha* and
 her younger ones *Quitia*. I call them all *Mia*. That is, Purula women
 are *Mia* to Appungerta men. Her elder sisters I call *Mia apmarla*, and
-her younger sisters *Mia alkulla*. <span id="fr_42"></span>[1](#fn_42)
+her younger sisters *Mia alkulla*. <span id="fr_42"></span>[1](#fn_42.md)
 
 Speaking again as an Arunta man only recognising four sub-classes the
 women of the class to which my mother belongs are divided into two
@@ -1420,7 +1420,7 @@ to me.
 There is a special term *Tualcha* which is applied in the case of three
 particular relationships, or rather is added to the usual one in order
 to show the existence of a special connection between the individuals
-concerned. <span id="fr_43"></span>[1](#fn_43) Thus, every man calls the
+concerned. <span id="fr_43"></span>[1](#fn_43.md) Thus, every man calls the
 members of a particular group by the name of
 
 <span id="page_88">p. 88</span>
@@ -1552,12 +1552,12 @@ Upilla, and amongst the Bingongina as a Nala, and so on.
 
 ### Footnotes
 
-<span id="fn_25"></span>[56:1](ntca04.htm#fr_25) In using the English
+<span id="fn_25"></span>[56:1](ntca04.htm#fr_25.md) In using the English
 term we do not mean to imply that it is the equivalent of the native
 term, but simply that the latter includes the relationship indicated by
 the English term.
 
-<span id="fn_26"></span>[57:1](ntca04.htm#fr_26) A child is, at its
+<span id="fn_26"></span>[57:1](ntca04.htm#fr_26.md) A child is, at its
 birth, very often named after the place at which the mother imagines she
 conceived it—that is the spot at which she first becomes aware that she
 is, as the natives say, “*atnūnta*.” For instance, the child of a woman
@@ -1572,7 +1572,7 @@ his or her *churinga* or sacred emblem, and which is only known to the
 men of his or her own local totemic group. Details with regard to the
 names are given in Appendix A.
 
-<span id="fn_27"></span>[58:1](ntca04.htm#fr_27)To this may be added,
+<span id="fn_27"></span>[58:1](ntca04.htm#fr_27.md)To this may be added,
 still further, the fact that there do exist certain terms applied by men
 to certain particular individuals which are in the strict sense “terms
 of address.” A man, for example, addresses particular men who took part
@@ -1580,7 +1580,7 @@ in his initiation ceremonies by such terms as Tapunga, Urinthantima,
 &c., which express no relationship, and the significance of which is
 entirely distinct from the true terms of relationship now dealt with.
 
-<span id="fn_28"></span>[59:1](ntca04.htm#fr_28) Mr. Roth, in his work
+<span id="fn_28"></span>[59:1](ntca04.htm#fr_28.md) Mr. Roth, in his work
 on the North-West Central Queensland aborigines, has proposed a series
 of terms, Patronym, Gamomatronym, Paedomatronym, Autonym, &c. Apart from
 the fact that these appear to us to be too cumbersome, the termination
@@ -1590,13 +1590,13 @@ to us to be somewhat misleading. We shall merely use the terms class,
 sub-class, totem name, sacred name, terms of relationship, terms of
 address, personal name, status term.
 
-<span id="fn_29"></span>[59:2](ntca04.htm#fr_29) Cf. Howitt, “The Dieri
+<span id="fn_29"></span>[59:2](ntca04.htm#fr_29.md) Cf. Howitt, “The Dieri
 and other Kindred Tribes of Central Australia,” *Four. Anth. Inst.*,
 vol. xx. p. 30; see also Gason, *The Dieyerie Tribe of Australian
 Aborigines*. The classes Matthurie and Kirarawa of the Urabunna are the
 equivalents of the Matteri and Karara of the Dieri.
 
-<span id="fn_30"></span>[60:1](ntca04.htm#fr_30) The totemic systems of
+<span id="fn_30"></span>[60:1](ntca04.htm#fr_30.md) The totemic systems of
 the tribes inhabiting the area of country which centres in Lake Eyre and
 of which the Urabunna is one require further investigation. We have not
 been able to acquire such detailed information with regard to this tribe
@@ -1609,49 +1609,49 @@ will not affect the validity of the tables and genealogical tree now
 given. The fundamental fact is that men of one moiety of the tribe must
 marry women of the other.
 
-<span id="fn_31"></span>[62:1](ntca04.htm#fr_31) The exact equivalent of
+<span id="fn_31"></span>[62:1](ntca04.htm#fr_31.md) The exact equivalent of
 the Pirauru of the Dieri tribe. Cf. Howitt, *Trans. R. S. Vict*., vol.
 i., pt. ii., 1889, p. 96.
 
-<span id="fn_32"></span>[66:1](ntca04.htm#fr_32) In the table we have
+<span id="fn_32"></span>[66:1](ntca04.htm#fr_32.md) In the table we have
 only indicated the totemic name: it will be understood that every cicada
 man and woman belongs to the Matthurie class, and every crow to the
 Kirarawa.
 
-<span id="fn_33"></span>[67:1](ntca04.htm#fr_33) That is supposing 13 to
+<span id="fn_33"></span>[67:1](ntca04.htm#fr_33.md) That is supposing 13 to
 be an elder sister, and 11 and 15 younger sisters (blood or tribal) of
 14.
 
-<span id="fn_34"></span>[67:2](ntca04.htm#fr_34) That is if 39 be a
+<span id="fn_34"></span>[67:2](ntca04.htm#fr_34.md) That is if 39 be a
 daughter of a younger brother of 14.
 
-<span id="fn_35"></span>[67:3](ntca04.htm#fr_35) 36 is regarded as the
+<span id="fn_35"></span>[67:3](ntca04.htm#fr_35.md) 36 is regarded as the
 daughter of an elder sister of 14.
 
-<span id="fn_36"></span>[71:1](ntca04.htm#fr_36) An outline of the
+<span id="fn_36"></span>[71:1](ntca04.htm#fr_36.md) An outline of the
 organisation of the Arunta tribe has been given by Messrs. Stirling and
 Gillen in the *Report of the Horn Expedition to Central Australia*.
 
-<span id="fn_37"></span>[73:1](ntca04.htm#fr_37) The Alcheringa is the
+<span id="fn_37"></span>[73:1](ntca04.htm#fr_37.md) The Alcheringa is the
 name applied to the far distant past with which the earliest traditions
 of the tribe deal.
 
-<span id="fn_38"></span>[79:1](ntca04.htm#fr_38) Father's elder brothers
+<span id="fn_38"></span>[79:1](ntca04.htm#fr_38.md) Father's elder brothers
 are Akaurli aniaura, younger brothers are Akaurli maianinga.
 
-<span id="fn_39"></span>[79:2](ntca04.htm#fr_39) Mother's elder sisters
+<span id="fn_39"></span>[79:2](ntca04.htm#fr_39.md) Mother's elder sisters
 are Arungwa apmarla, younger sisters are Arungwa atchinali.
 
-<span id="fn_40"></span>[80:1](ntca04.htm#fr_40) Father's elder brothers
+<span id="fn_40"></span>[80:1](ntca04.htm#fr_40.md) Father's elder brothers
 are Gampatcha babati, younger brothers are Gampatcha kuka.
 
-<span id="fn_41"></span>[80:2](ntca04.htm#fr_41) Mother's elder sisters
+<span id="fn_41"></span>[80:2](ntca04.htm#fr_41.md) Mother's elder sisters
 are Kurnandi bithara, younger sisters are Kurnandi bilibili.
 
-<span id="fn_42"></span>[85:1](ntca04.htm#fr_42) In actual practice
+<span id="fn_42"></span>[85:1](ntca04.htm#fr_42.md) In actual practice
 these women are usually simply addressed as *Mia*.
 
-<span id="fn_43"></span>[87:1](ntca04.htm#fr_43) This existence of a
+<span id="fn_43"></span>[87:1](ntca04.htm#fr_43.md) This existence of a
 special term having regard to the father or mother of a husband and wife
 is probably very general in Australian tribes. It is interesting to note
 that in the tribes studied by Mr. Roth, in which descent is counted in
@@ -1664,4 +1664,4 @@ husband and the father of the wife.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Certain Ceremonies Concerned with Marriage Together
-with a Discussion Regarding the Same](ntca05)
+with a Discussion Regarding the Same](ntca05.md)

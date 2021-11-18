@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](efl02)  [Next](efl04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](efl02)  [Next](efl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ But though we know nothing about the period of
 
 the origin in Egypt of the belief in the existence of an almighty God
 who was One, the inscriptions show us that this Being was called by a
-name which was something like *Neter*, <span id="fr_0"></span>[1](#fn_0)
+name which was something like *Neter*, <span id="fr_0"></span>[1](#fn_0.md)
 the picture sign for which was an axe-head, made probably of stone, let
 into a long wooden handle. The coloured picture character shews that the
 axe-head was fastened into the handle by thongs of leather or string,
@@ -94,7 +94,7 @@ by seeking in that language for the root from which the word may be
 derived. But all such attempts have had no good result, because the word
 Nuti stands by itself, and instead of being derived from a Coptic root
 is itself the equivalent of the Egyptian *neter*, <span
-id="fr_1"></span>[1](#fn_1) and was taken over by the translators of the
+id="fr_1"></span>[1](#fn_1.md) and was taken over by the translators of the
 Holy Scriptures from that language to express the words "God" and
 "Lord." The Coptic root *nomti* cannot in any way be connected with
 *nuti*, and the attempt to prove that the two are related was only
@@ -114,7 +114,7 @@ to renew himself perpetually--or in other words, "self-existence." The
 late Dr. H. Brugsch partly accepted this view, for he defined *neter* as
 being "the active power which produces and creates things in regular
 recurrence; which bestows new life upon them, and gives back to them
-their youthful vigour." <span id="fr_2"></span>[1](#fn_2) There seems to
+their youthful vigour." <span id="fr_2"></span>[1](#fn_2.md) There seems to
 be no doubt that, inasmuch as it is impossible to find any one word
 which will render *neter* adequately and satisfactorily,
 "self-existence" and "possessing the power to renew life indefinitely,"
@@ -139,7 +139,7 @@ metaphorically in Egyptian as is \[the word\] 'divine' in French,
 without its being any more necessary to attribute to \[the word\]
 *neteri* the primitive meaning of 'strong,' than it is to attribute to
 \[the word\] 'divine' the primitive meaning of 'exquisite.'" <span
-id="fr_3"></span>[1](#fn_3) It may be, of course, that *neter* had
+id="fr_3"></span>[1](#fn_3.md) It may be, of course, that *neter* had
 another meaning which is now lost, but it seems that the great
 difference between God and his messengers and created things is that he
 is the Being who is self-existent and immortal, whilst they are not
@@ -187,7 +187,7 @@ nations of our time.
 
 We must now, however, see how the word for God, *neter*, is employed in
 religious texts and in works which contain moral precepts. In the text
-of Unas, <span id="fr_4"></span>[1](#fn_4) a king who reigned about B.C.
+of Unas, <span id="fr_4"></span>[1](#fn_4.md) a king who reigned about B.C.
 3300, we find the passage:--"That which is sent by thy *ka* cometh to
 thee, that which is sent by thy father cometh to thee, that which is
 sent by Râ cometh to thee, and it arriveth in the train of thy Râ. Thou
@@ -195,7 +195,7 @@ art pure, thy bones are the gods and the goddesses of heaven, thou
 existest at the side of God, thou art unfastened, thou comest forth
 towards thy soul, for every evil word (or thing) which hath been written
 in the name of Unas hath been done away." And, again, in the text of
-Teta, <span id="fr_5"></span>[2](#fn_5) in the passage which refers to
+Teta, <span id="fr_5"></span>[2](#fn_5.md) in the passage which refers to
 the place in the eastern part of heaven "where the gods give birth unto
 themselves, where that to which they give birth is born, and where they
 renew their youth," it is said of this king, "Teta standeth up in the
@@ -205,18 +205,18 @@ form of
 
 the star . . . he weigheth words (*or* trieth deeds), and behold God
 hearkeneth unto that which he saith." Elsewhere <span
-id="fr_6"></span>[1](#fn_6) in the same text we read, "Behold, Teta hath
+id="fr_6"></span>[1](#fn_6.md) in the same text we read, "Behold, Teta hath
 arrived in the height of heaven, and the *henmemet* beings have seen
-him; the Semketet <span id="fr_7"></span>[2](#fn_7) boat knoweth him,
+him; the Semketet <span id="fr_7"></span>[2](#fn_7.md) boat knoweth him,
 and it is Teta who saileth it, and the Mântchet <span
-id="fr_8"></span>[3](#fn_8) boat calleth unto him, and it is Teta who
+id="fr_8"></span>[3](#fn_8.md) boat calleth unto him, and it is Teta who
 bringeth it to a standstill. Teta hath seen his body in the Semketet
 boat, he knoweth the uraeus which is in the Mântchet boat, and God hath
 called him in his name . . . and hath taken him in to Râ' And
-again <span id="fr_9"></span>[4](#fn_9) we have: "Thou hast received the
+again <span id="fr_9"></span>[4](#fn_9.md) we have: "Thou hast received the
 form (or attribute) of God, and thou hast become great therewith before
 the gods"; and of Pepi I., who reigned about B.C. 3000, it is said,
-"This Pepi is God, the son of God." <span id="fr_10"></span>[5](#fn_10)
+"This Pepi is God, the son of God." <span id="fr_10"></span>[5](#fn_10.md)
 
 Now in these passages the allusion is to the supreme Being in the next
 world, the Being who has the power to invoke and to obtain a favourable
@@ -292,7 +292,7 @@ provided."
 8 "What is loved of God is obedience; God hateth disobedience."
 
 9\. "Verily a good son is of the gifts of God." <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 The same idea of God, but considerably amplified in some respects, may
 be found in the Maxims of *Khensit-hetep*, a work which was probably
@@ -301,7 +301,7 @@ detail by a number of eminent Egyptologists, and though considerable
 difference of opinion has existed among them in respect of details and
 grammatical niceties, the general sense of the maxims has been clearly
 established. To illustrate the use of the word *neter*, the following
-passages have been chosen from it: <span id="fr_12"></span>[2](#fn_12)--
+passages have been chosen from it: <span id="fr_12"></span>[2](#fn_12.md)--
 
 1\. "God magnifieth his name."
 
@@ -355,7 +355,7 @@ knowledge to attempt to enquire. According to Tiele, the religion of
 Egypt was at the beginning polytheistic, but developed in two opposite
 directions: in the one direction gods were multiplied by the addition of
 local gods, and in the other the Egyptians drew nearer and nearer to
-monotheism. <span id="fr_13"></span>[1](#fn_13) Dr. Wiedemann takes the
+monotheism. <span id="fr_13"></span>[1](#fn_13.md) Dr. Wiedemann takes the
 view that three main elements may be recognized in the Egyptian
 religion: (1) A solar monotheism, that is to say one god, the creator of
 the universe, who manifests his power especially in the sun and its
@@ -385,7 +385,7 @@ From the bas-relief at Philae.
 of animals and of various deities of vegetation; (3) A perception of an
 anthropomorphic divinity, the life of whom in this world and in the
 world beyond this was typical of the ideal life of man <span
-id="fr_14"></span>[1](#fn_14)--this last divinity being, of course,
+id="fr_14"></span>[1](#fn_14.md)--this last divinity being, of course,
 Osiris. But here again, as Dr. Wiedemann says, it is an unfortunate fact
 that all the texts which we possess are, in respect of the period of the
 origin of the Egyptian religion, comparatively late, and therefore in
@@ -424,7 +424,7 @@ one Diana. It is ail impious act to violate or break with the teeth a
 leek or an onion. O holy nations! whose gods grow for them in their
 gardens! Every table abstains from animals that have wool: it is a crime
 there to kill a kid. But human flesh is lawful food." <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 <span id="page_35">p. 35</span>
 
@@ -487,7 +487,7 @@ merely as a form of God. In another hymn, which was a favourite in the
 XVIIIth and XIXth dynasties, Hâpi is called "One," and is said to have
 created himself; but as he is later on in the text identified with Râ
 the epithets which belong to the Sun-god are applied to him. The late
-Dr. H. Brugsch collected <span id="fr_16"></span>[1](#fn_16) a number of
+Dr. H. Brugsch collected <span id="fr_16"></span>[1](#fn_16.md) a number of
 the epithets which are applied to the gods, from texts of all periods;
 and from these we may see that the ideas and beliefs of the Egyptians
 concerning God were almost identical with those of the Hebrews and
@@ -580,7 +580,7 @@ We have now to consider the visible emblem, and the type and symbol of
 God, namely the Sun-god Râ, who was worshipped in Egypt in prehistoric
 times. According to the writings of the Egyptians, there was a time when
 neither heaven nor earth existed, and when nothing had being except the
-boundless primeval <span id="fr_17"></span>[1](#fn_17) water, which was,
+boundless primeval <span id="fr_17"></span>[1](#fn_17.md) water, which was,
 however, shrouded with thick darkness. In this condition the primeval
 water remained for a considerable time, notwithstanding that it
 contained within it the germs of the things which afterwards
@@ -599,7 +599,7 @@ spirit.
 Such was the outline of creation as described by the late Dr. H.
 Brugsch, and it is curious to see how closely his views coincide with a
 chapter in the *Papyrus of Nesi Amsu* preserved in the British
-Museum. <span id="fr_18"></span>[1](#fn_18) In the third section of this
+Museum. <span id="fr_18"></span>[1](#fn_18.md) In the third section of this
 papyrus we find a work which was written with the sole object of
 overthrowing Âpep, the great enemy of Râ, and in the composition itself
 we find two versions of the chapter which describes the creation of the
@@ -660,7 +660,7 @@ Horus-khent-an-maa, Sut, Isis, and Nephthys at one birth."
 
 The fact of the existence of two versions of this remarkable Chapter
 proves that the composition -is much older than the papyrus <span
-id="fr_19"></span>[1](#fn_19) in which it is found, and the variant
+id="fr_19"></span>[1](#fn_19.md) in which it is found, and the variant
 readings which occur in each make it certain that the Egyptian scribes
 had difficulty in understanding what they were writing. It may be said
 that this version of the cosmogony is incomplete, because it does not
@@ -699,7 +699,7 @@ the offerings which the deceased would make to Râ, are actually
 presented to him by Osiris. At one time the Egyptian's greatest hope
 seems to have been that he might not only become "God, the son of God,"
 by adoption, but that Râ would become actually his father. For in the
-text of Pepi. I., <span id="fr_20"></span>[1](#fn_20) it is said: "Pepi
+text of Pepi. I., <span id="fr_20"></span>[1](#fn_20.md) it is said: "Pepi
 is the son of Râ who loveth him; and he goeth forth and raiseth himself
 
 <span id="page_47">p. 47</span>
@@ -715,7 +715,7 @@ make Aten the dominant god of Egypt by the so-called "Disk worshippers."
 The following good typical examples of Hymns to Râ are taken from the
 oldest copies of the Theban Recension of the Book of the Dead.
 
-I. FROM THE PAPYRUS OF ANI. <span id="fr_21"></span>[1](#fn_21)
+I. FROM THE PAPYRUS OF ANI. <span id="fr_21"></span>[1](#fn_21.md)
 
 Homage to thee, O thou who hast come as Khepera, Khepera the creator of
 the gods. Thou risest and thou shinest, and thou makest light to be in
@@ -723,11 +723,11 @@ thy mother Nut (*i.e.*, the sky); thou art crowned king of the gods. Thy
 mother Nut doeth an act of homage unto thee with both her hands. The
 land of Manu (*i.e.*, the land where the sun sets) receiveth thee with
 satisfaction, and the goddess Maât embraceth thee both at morn and at
-eve. <span id="fr_22"></span>[2](#fn_22) Hail, all ye gods of the
+eve. <span id="fr_22"></span>[2](#fn_22.md) Hail, all ye gods of the
 
 <span id="page_48">p. 48</span>
 
-Temple of tine Soul, <span id="fr_23"></span>[1](#fn_23) who weigh
+Temple of tine Soul, <span id="fr_23"></span>[1](#fn_23.md) who weigh
 heaven and earth in the balance, and who provide divine food in
 abundance! Hail, Tatunen, thou One, thou Creator of mankind and Maker of
 the substance of the gods of the south and of the north, of the west and
@@ -742,7 +742,7 @@ given over to the fire, the serpent-fiend Sebau hath fallen down
 headlong; his arms have been bound in chains, and thou hast hacked off
 his legs; and the sons of impotent revolt shall nevermore rise up
 against thee. The Temple of the Aged One <span
-id="fr_24"></span>[2](#fn_24) (*i.e.*, Râ) keepeth festival, and the
+id="fr_24"></span>[2](#fn_24) (*i.e.*, Râ.md) keepeth festival, and the
 voice of those who rejoice is in the mighty dwelling. The gods exult
 when they see thy rising, O Râ, and when thy beams flood the world with
 light. The Majesty of the holy god goeth forth and advanceth even unto
@@ -751,7 +751,7 @@ he journeyeth on to the place where he was yesterday."
 
 <span id="page_49">p. 49</span>
 
-II\. FROM THE PAPYRUS OF HUNEFER. <span id="fr_25"></span>[1](#fn_25)
+II\. FROM THE PAPYRUS OF HUNEFER. <span id="fr_25"></span>[1](#fn_25.md)
 
 "Homage to thee, O thou who art Râ when thou risest and Temu when thou
 settest. Thou risest, thou risest, thou shinest, thou shinest, O thou
@@ -767,8 +767,8 @@ field to come into being, thou hast made the heavens and the earth.
 Worshipped be thou whom the goddess Maât embraceth at morn and at eve.
 Thou dost travel across the sky with thy heart swelling with joy; the
 great deep of heaven is content thereat. The serpent-fiend Nak <span
-id="fr_26"></span>[2](#fn_26) hath fallen, and his arms are cut off. The
-Sektet <span id="fr_27"></span>[3](#fn_27) boat receiveth fair winds,
+id="fr_26"></span>[2](#fn_26.md) hath fallen, and his arms are cut off. The
+Sektet <span id="fr_27"></span>[3](#fn_27.md) boat receiveth fair winds,
 and the heart of him that is in the shrine thereof rejoiceth.
 
 "Thou art crowned Prince of heaven, and thou art
@@ -776,7 +776,7 @@ and the heart of him that is in the shrine thereof rejoiceth.
 <span id="page_50">p. 50</span>
 
 the One \[dowered with all sovereignty\] who appearest in the sky. Râ is
-he who is true of voice. <span id="fr_28"></span>[1](#fn_28) Hail, thou
+he who is true of voice. <span id="fr_28"></span>[1](#fn_28.md) Hail, thou
 divine youth, thou heir of everlastingness, thou self-begotten One!
 Hail, thou who didst give thyself birth! Hail, One, thou mighty being,
 of myriad forms and aspects, thou king of the world, prince of Annu
@@ -784,8 +784,8 @@ of myriad forms and aspects, thou king of the world, prince of Annu
 company of the gods rejoice when thou risest and dost sail across the
 sky, O thou who art exalted in the Sektet boat."
 
-Homage to thee, O Amen-Râ, <span id="fr_29"></span>[2](#fn_29) who dost
-rest upon Maât <span id="fr_30"></span>[3](#fn_30) thou passest over
+Homage to thee, O Amen-Râ, <span id="fr_29"></span>[2](#fn_29.md) who dost
+rest upon Maât <span id="fr_30"></span>[3](#fn_30.md) thou passest over
 heaven and every face seeth thee. Thou dost wax great as thy Majesty
 doth advance, and thy rays are upon all faces. Thou art unknown, and no
 tongue can declare thy likeness; thou thyself alone \[canst do this\].
@@ -804,7 +804,7 @@ peace, and thou steerest thy way across the watery abyss to the place
 which thou lovest; this thou doest in one little moment of time, and
 then thou dost sink down and dost make an end of the hours."
 
-III\. FROM THE PAPYRUS OF ANI. <span id="fr_31"></span>[1](#fn_31)
+III\. FROM THE PAPYRUS OF ANI. <span id="fr_31"></span>[1](#fn_31.md)
 
 The following beautiful composition, part hymn and part prayer, is of
 exceptional interest.
@@ -841,7 +841,7 @@ unto the everlasting land, for behold, O my lord, this hast thou
 ordained for me.'
 
 "'Homage to thee, O thou who risest in thy horizon as Râ, thou restest
-upon Maât. <span id="fr_32"></span>[1](#fn_32) Thou passest over the
+upon Maât. <span id="fr_32"></span>[1](#fn_32.md) Thou passest over the
 sky, and every face watcheth thee and thy course, for thou hast been
 hidden from their gaze. Thou dost show thyself at dawn and at eventide
 day by day. The Sektet boat, wherein is thy Majesty, goeth forth with
@@ -851,9 +851,9 @@ cannot be known, and thy
 <span id="page_53">p. 53</span>
 
 bright beams cannot be told. The lands of the gods and the eastern lands
-of Punt <span id="fr_33"></span>[1](#fn_33) must be seen ere that which
+of Punt <span id="fr_33"></span>[1](#fn_33.md) must be seen ere that which
 is hidden \[in thee\] may be measured. <span
-id="fr_34"></span>[2](#fn_34) Alone and by thyself thou dost manifest
+id="fr_34"></span>[2](#fn_34.md) Alone and by thyself thou dost manifest
 thyself \[when\] thou comest into being above Nu. May I advance, even as
 thou dost advance; may I never cease \[to go forward\], even as thy
 Majesty ceaseth not \[to go forward\], even though it be for a moment;
@@ -881,7 +881,7 @@ I be joined unto those shining beings, holy and perfect, who are in the
 underworld and may I come forth with them to behold thy beauties when
 thou shinest at eventide, and goest to thy mother Nut. Thou dost place
 thyself in the west, and my hands adore \[thee\] when thou settest as a
-living being. <span id="fr_35"></span>[1](#fn_35) Behold, thou art the
+living being. <span id="fr_35"></span>[1](#fn_35.md) Behold, thou art the
 everlasting creator, and thou art adored \[as such when\] thou settest
 in the heavens. I have given my heart to thee without wavering, O thou
 who art mightier than the gods.'
@@ -896,7 +896,7 @@ temples. Thou art glorious by reason of thy splendours, and thou makest
 strong thy KA (*i.e.* Double) with divine foods, O thou mighty one of
 victories, thou Power of Powers, who dost make strong thy throne against
 evil fiends-thou who art glorious in Majesty in the Sektet boat, and
-most mighty in the Âtet <span id="fr_36"></span>[2](#fn_36) boat!"
+most mighty in the Âtet <span id="fr_36"></span>[2](#fn_36.md) boat!"
 
 <span id="page_55">p. 55</span>
 
@@ -917,16 +917,16 @@ From a bas-relief at Philae.
 <span id="page_57">p. 57</span>
 
 This selection may be fittingly closed by a short hymn <span
-id="fr_37"></span>[1](#fn_37) which, though of a later date, reproduces
+id="fr_37"></span>[1](#fn_37.md) which, though of a later date, reproduces
 in a brief form all the essentials of the longer hymns of the XVIIIth
 dynasty (about B.C. 1700 to 1400).
 
 Homage to thee, O thou glorious Being, thou who art dowered \[with all
-sovereignty\]. O Temu-Harmachis, <span id="fr_38"></span>[2](#fn_38)
+sovereignty\]. O Temu-Harmachis, <span id="fr_38"></span>[2](#fn_38.md)
 when thou risest in the horizon of heaven, a cry of joy cometh forth to
 thee from the mouth of all peoples. O thou beautiful Being, thou dost
 renew thyself in thy season in the form of the Disk within thy mother
-Hathor; <span id="fr_39"></span>[3](#fn_39) therefore in every place
+Hathor; <span id="fr_39"></span>[3](#fn_39.md) therefore in every place
 every heart swelleth with joy at thy rising for ever. The regions of the
 North and South come to thee with homage, and send forth acclamations at
 thy rising in the horizon of heaven; thou illuminest the two lands with
@@ -1000,55 +1000,55 @@ One, self-begotten, and self-existent God whom the Egyptians worshipped.
 
 ### Footnotes
 
-<span id="fn_0"></span>[19:1](efl03.htm#fr_0) There is no *e* in
+<span id="fn_0"></span>[19:1](efl03.htm#fr_0.md) There is no *e* in
 Egyptian, and this vowel is added merely to make the word pronounceable.
 
-<span id="fn_1"></span>[20:1](efl03.htm#fr_1) The letter *r* has dropped
+<span id="fn_1"></span>[20:1](efl03.htm#fr_1.md) The letter *r* has dropped
 out in Coptic through phonetic decay.
 
-<span id="fn_2"></span>[21:1](efl03.htm#fr_2) *Religion und Mythologie*,
+<span id="fn_2"></span>[21:1](efl03.htm#fr_2.md) *Religion und Mythologie*,
 p. 93.
 
-<span id="fn_3"></span>[22:1](efl03.htm#fr_3) *La Mythologie
+<span id="fn_3"></span>[22:1](efl03.htm#fr_3.md) *La Mythologie
 Égyptienne*, p. 215.
 
-<span id="fn_4"></span>[24:1](efl03.htm#fr_4) Ed. Maspero, *Pyramides de
+<span id="fn_4"></span>[24:1](efl03.htm#fr_4.md) Ed. Maspero, *Pyramides de
 Saqqarah*, p. 25.
 
-<span id="fn_5"></span>[24:2](efl03.htm#fr_5) *Ibid.*, p. 113.
+<span id="fn_5"></span>[24:2](efl03.htm#fr_5.md) *Ibid.*, p. 113.
 
-<span id="fn_6"></span>[25:1](efl03.htm#fr_6) Ed. Maspero, *Pyramides de
+<span id="fn_6"></span>[25:1](efl03.htm#fr_6.md) Ed. Maspero, *Pyramides de
 Saqqarah*, p. 111.
 
-<span id="fn_7"></span>[25:2](efl03.htm#fr_7) The morning boat of the
+<span id="fn_7"></span>[25:2](efl03.htm#fr_7.md) The morning boat of the
 sun.
 
-<span id="fn_8"></span>[25:3](efl03.htm#fr_8) The evening boat of the
+<span id="fn_8"></span>[25:3](efl03.htm#fr_8.md) The evening boat of the
 sun.
 
-<span id="fn_9"></span>[25:4](efl03.htm#fr_9) *Ibid.*, p. 150.
+<span id="fn_9"></span>[25:4](efl03.htm#fr_9.md) *Ibid.*, p. 150.
 
-<span id="fn_10"></span>[25:5](efl03.htm#fr_10) *Ibid.*, p. 222.
+<span id="fn_10"></span>[25:5](efl03.htm#fr_10.md) *Ibid.*, p. 222.
 
-<span id="fn_11"></span>[28:1](efl03.htm#fr_11) The text was published
+<span id="fn_11"></span>[28:1](efl03.htm#fr_11.md) The text was published
 by *Prisse d'Avennes*, entitled Facsimile d'un papyrus *Égyptien en
 caractères hiératiques*, Paris, 1847. For a translation of the whole
 work, see Virey, *Attudes sur le Papyrus Prisse*, Paris, 1887.
 
-<span id="fn_12"></span>[28:2](efl03.htm#fr_12) They are given with
+<span id="fn_12"></span>[28:2](efl03.htm#fr_12.md) They are given with
 interlinear transliteration and translation in my *Papyrus of Ani*, p.
 lxxxv. ff., where references to the older literature on the subject will
 be found.
 
-<span id="fn_13"></span>[30:1](efl03.htm#fr_13) *Geschiedenis van den
+<span id="fn_13"></span>[30:1](efl03.htm#fr_13.md) *Geschiedenis van den
 Godsdienst in de Oudheid*, Amsterdam, 1893, p. 25. A number of valuable
 remarks on this subject are given by Lieblein in *Egyptian Religion*, p.
 10.
 
-<span id="fn_14"></span>[33:1](efl03.htm#fr_14) *Le Livre des Morts*
+<span id="fn_14"></span>[33:1](efl03.htm#fr_14.md) *Le Livre des Morts*
 (Review in *Muséon*, Tom. xiii. 1893).
 
-<span id="fn_15"></span>[34:1](efl03.htm#fr_15) Juvenal, Satire XV.
+<span id="fn_15"></span>[34:1](efl03.htm#fr_15.md) Juvenal, Satire XV.
 (Evans' translation in Bohn's Series, p. 180). Led astray by Juvenal,
 our own good George Herbert (*Church Militant*) wrote:--
 
@@ -1069,80 +1069,80 @@ Whose house is foul, while he adores his broom?
 The whole hymn has been published by Maspero in *Hymne au Nil*, Paris,
 1868.
 
-<span id="fn_16"></span>[37:1](efl03.htm#fr_16) Religion und Mythologie,
+<span id="fn_16"></span>[37:1](efl03.htm#fr_16.md) Religion und Mythologie,
 pp. 96-99.
 
-<span id="fn_17"></span>[40:1](efl03.htm#fr_17) See Brugsch, *Religion*,
+<span id="fn_17"></span>[40:1](efl03.htm#fr_17.md) See Brugsch, *Religion*,
 p. 101.
 
-<span id="fn_18"></span>[41:1](efl03.htm#fr_18) No. 10,188. See my
+<span id="fn_18"></span>[41:1](efl03.htm#fr_18.md) No. 10,188. See my
 transcript and translation of the whole papyrus in *Archæologia*, vol.
 52, London, 1891.
 
-<span id="fn_19"></span>[45:1](efl03.htm#fr_19) About B.C. 300.
+<span id="fn_19"></span>[45:1](efl03.htm#fr_19.md) About B.C. 300.
 
-<span id="fn_20"></span>[46:1](efl03.htm#fr_20) Ed. Maspero, line 576.
+<span id="fn_20"></span>[46:1](efl03.htm#fr_20.md) Ed. Maspero, line 576.
 
-<span id="fn_21"></span>[47:1](efl03.htm#fr_21) See *The Chapters of
+<span id="fn_21"></span>[47:1](efl03.htm#fr_21.md) See *The Chapters of
 Coming Forth by Day*, p. 3.
 
-<span id="fn_22"></span>[47:2](efl03.htm#fr_22) *I.e.*, Maât, the
+<span id="fn_22"></span>[47:2](efl03.htm#fr_22.md) *I.e.*, Maât, the
 goddess of law, order, regularity, and the like, maketh the sun to rise
 each day in his appointed place and at his appointed time with absolute
 and unfailing regularity.
 
-<span id="fn_23"></span>[48:1](efl03.htm#fr_23) *I.e.*, the soul
+<span id="fn_23"></span>[48:1](efl03.htm#fr_23.md) *I.e.*, the soul
 referred to above in the account of the creation.
 
-<span id="fn_24"></span>[48:2](efl03.htm#fr_24) *I.e.*, Râ of
+<span id="fn_24"></span>[48:2](efl03.htm#fr_24.md) *I.e.*, Râ of
 Heliopolis.
 
-<span id="fn_25"></span>[49:1](efl03.htm#fr_25) From the Papyrus of
+<span id="fn_25"></span>[49:1](efl03.htm#fr_25.md) From the Papyrus of
 Hunefer (Brit. Mus. No. 9901).
 
-<span id="fn_26"></span>[49:2](efl03.htm#fr_26) A name of the serpent of
+<span id="fn_26"></span>[49:2](efl03.htm#fr_26.md) A name of the serpent of
 darkness which Râ slew daily.
 
-<span id="fn_27"></span>[49:3](efl03.htm#fr_27) The boat in which Râ
+<span id="fn_27"></span>[49:3](efl03.htm#fr_27.md) The boat in which Râ
 sailed from noon to sunset.
 
-<span id="fn_28"></span>[50:1](efl03.htm#fr_28) *I.e.*, whatsoever Râ
+<span id="fn_28"></span>[50:1](efl03.htm#fr_28.md) *I.e.*, whatsoever Râ
 commandeth taketh place straightway; see the Chapter on the Judgment of
 the Dead.
 
-<span id="fn_29"></span>[50:2](efl03.htm#fr_29) On the god Amen, see the
+<span id="fn_29"></span>[50:2](efl03.htm#fr_29.md) On the god Amen, see the
 chapter, "The Gods of the Egyptians."
 
-<span id="fn_30"></span>[50:3](efl03.htm#fr_30) *I.e.* "thy existence,
+<span id="fn_30"></span>[50:3](efl03.htm#fr_30.md) *I.e.* "thy existence,
 and thy risings and settings are ordered and defined by fixed,
 unchanging, and unalterable law."
 
-<span id="fn_31"></span>[51:1](efl03.htm#fr_31) Plate 20.
+<span id="fn_31"></span>[51:1](efl03.htm#fr_31.md) Plate 20.
 
-<span id="fn_32"></span>[52:1](efl03.htm#fr_32) *I.e.*, unchanging and
+<span id="fn_32"></span>[52:1](efl03.htm#fr_32.md) *I.e.*, unchanging and
 unalterable law.
 
-<span id="fn_33"></span>[53:1](efl03.htm#fr_33) *I.e.*, the east and
+<span id="fn_33"></span>[53:1](efl03.htm#fr_33.md) *I.e.*, the east and
 west coasts of the Red Sea, and the north-east coast of Africa.
 
-<span id="fn_34"></span>[53:2](efl03.htm#fr_34) I am doubtful about the
+<span id="fn_34"></span>[53:2](efl03.htm#fr_34.md) I am doubtful about the
 meaning of this passage.
 
-<span id="fn_35"></span>[54:1](efl03.htm#fr_35) *I.e.*, "because when
+<span id="fn_35"></span>[54:1](efl03.htm#fr_35.md) *I.e.*, "because when
 thou settest thou dost not die."
 
-<span id="fn_36"></span>[54:2](efl03.htm#fr_36) The Sun's evening and
+<span id="fn_36"></span>[54:2](efl03.htm#fr_36.md) The Sun's evening and
 morning boats respectively.
 
-<span id="fn_37"></span>[57:1](efl03.htm#fr_37) From the Papyrus of
+<span id="fn_37"></span>[57:1](efl03.htm#fr_37.md) From the Papyrus of
 Nekht (Brit. Mus. No. 10,471).
 
-<span id="fn_38"></span>[57:2](efl03.htm#fr_38) The evening and morning
+<span id="fn_38"></span>[57:2](efl03.htm#fr_38.md) The evening and morning
 sun respectively.
 
-<span id="fn_39"></span>[57:3](efl03.htm#fr_39) Like Nut, a goddess of
+<span id="fn_39"></span>[57:3](efl03.htm#fr_39.md) Like Nut, a goddess of
 the sky, but particularly of that portion of it in which the sun rises.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Osiris the God of the Resurrection](efl04)
+[Next: Chapter II: Osiris the God of the Resurrection](efl04.md)

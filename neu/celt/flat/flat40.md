@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat39)  [Next](flat41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat39)  [Next](flat41.md) 
 
 ------------------------------------------------------------------------
 
@@ -293,4 +293,4 @@ flung the remaining drops from his glass upon the green sward.
 
 ------------------------------------------------------------------------
 
-[Next: Rent-Day](flat41)
+[Next: Rent-Day](flat41.md)

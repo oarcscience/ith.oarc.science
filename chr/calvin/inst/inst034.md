@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst033)  [Next](inst035) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst033)  [Next](inst035.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ to have merited the grace of God for us.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 1. - THROUGH THE FALL AND REVOLT OF ADAM, THE WHOLE HUMAN
-RACE MADE ACCURSED AND DEGENERATE. OF ORIGINAL SIN.](inst035)
+RACE MADE ACCURSED AND DEGENERATE. OF ORIGINAL SIN.](inst035.md)

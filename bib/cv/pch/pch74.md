@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch73) 
-[Next](pch75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch73.md) 
+[Next](pch75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -28,14 +28,14 @@ concerning a chair which ostensibly
 <span id="page_335">p. 335</span>
 
 bears representations of the signs of the zodiac, and the twelve labours
-of the Sun-God. <span id="fr_1738"></span>[1](#fn_1738) Peter, we are to
+of the Sun-God. <span id="fr_1738"></span>[1](#fn_1738.md) Peter, we are to
 suppose, having found his way to Rome, and established a Latin Church
 with the facility which belonged to inspiration and the gift of tongues,
 proceeded to commission a sculptor, Pagan or Christian, to carve him an
 episcopal chair, ornamented with the best-known symbols of the
 heathenism which Christians were supposed to be bent on overthrowing.
 Such a legend need not be discussed. <span
-id="fr_1739"></span>[2](#fn_1739)
+id="fr_1739"></span>[2](#fn_1739.md)
 
 We have already seen how at a variety of points the myth of Peter is a
 development of that of Jesus, and how, alike as leader of the twelve,
@@ -54,7 +54,7 @@ the Capitol, we know from monumental remains that Mithraic worship was
 conducted on the Vatican Mount, where also was a temple of the
 Mother-Goddess Cybelê, and where also dwelt the *Archi-Gallus*, or arch
 eunuch, the head of the cult of Cybelê and Attis. <span
-id="fr_1740"></span>[3](#fn_1740) As the ruling tendency of the later
+id="fr_1740"></span>[3](#fn_1740.md) As the ruling tendency of the later
 paganism was to combine or "syndicate" all the leading cults, and as
 Roman patricians were then wont to hold at once the priesthoods of
 various Gods, it is not surprising to find that in the year 376, under
@@ -62,7 +62,7 @@ the emperors Valens and Valentinian, one Sextilius Agesilaus Ædesius was
 *Pater Patrum Dei Solis Invicti Mithræ*, "born again for eternity
 through the *taurobolium* and the *criobolium*," and at the same time
 priest of Hecate and of Bacchus, as well as an adorer of the Mother of
-the Gods and Attis. <span id="fr_1741"></span>[4](#fn_1741) On the
+the Gods and Attis. <span id="fr_1741"></span>[4](#fn_1741.md) On the
 Vatican Mount, then, if anywhere, would be the seat of the pagan Pope
 who looked to the Sun-God as his Saviour, and worshipped the Mother of
 the Gods.
@@ -89,7 +89,7 @@ oak much worn, containing a number of inlaid panels of carved ivory in
 the classic style, representing the labours of Hercules; the whole
 structure, however, having been renewed by supports and cross-pieces of
 acacia-wood, of which the ornamentation is medieval. <span
-id="fr_1742"></span>[1](#fn_1742) In Rossi's opinion the older portions
+id="fr_1742"></span>[1](#fn_1742.md) In Rossi's opinion the older portions
 probably formed originally the curial chair of a senator; and it may be
 that the whole thing is thus a fortuitous importation, like so many
 other ecclesiastical relics. But there is an obvious possibility that it
@@ -119,18 +119,18 @@ Herakles was worshipped under the later pagan emperors by his Latin
 name, it does not appear that at Rome his cult was latterly flourishing.
 Tertullian indeed asserts that in his day there has been seen
 (*vidimus*) a man burnt alive as Hercules (= Herakles); <span
-id="fr_1743"></span>[1](#fn_1743) but though this was a ritual sacrifice
+id="fr_1743"></span>[1](#fn_1743.md) but though this was a ritual sacrifice
 its solitary celebration tells rather of a Roman show than of a cult.
 There were two shrines of Hercules Victor on the Capitoline Hill, and
 some three other *aedes* in other districts; <span
-id="fr_1744"></span>[2](#fn_1744) but the inscriptions of the period
+id="fr_1744"></span>[2](#fn_1744.md) but the inscriptions of the period
 show no such interest in his cult as in those of Mithra and other
 eastern deities. There was in fact no ritualistic worship of Hercules or
 Herakles at Rome; nothing to account for the use of such a chair;
 whereas the mysteries of Mithra were among the most elaborate then in
 existence, and the Mithraic priesthood one of the most august. Finally,
 we know from Porphyry, and from the monuments, <span
-id="fr_1745"></span>[3](#fn_1745) that Mithra was habitually represented
+id="fr_1745"></span>[3](#fn_1745.md) that Mithra was habitually represented
 in the midst of the zodiacal circle, so that the pretended Petrine chair
 is in every way congruous with his worship. The fact that, in the
 Mithraic monuments, the zodiac begins with Aquarius, who in ancient art
@@ -139,7 +139,7 @@ champions of Peter, whose ancient festival at Rome (Jan. 18) coincided
 with the sun's entering Aquarius in the calendar: and it is the historic
 fact that the Mithraic order of the zodiac, beginning on the right with
 Aquarius and ending on the left with Capricorn, was imitated in
-Christian art. <span id="fr_1746"></span>[4](#fn_1746)
+Christian art. <span id="fr_1746"></span>[4](#fn_1746.md)
 
 If, as we have surmised, an official substitution of Christism for
 Mithraism began under Jovian when the latter cult was discredited for
@@ -186,42 +186,42 @@ done their work, and were finally both incongruous and inconvenient.
 
 ### Footnotes
 
-<span id="fn_1738"></span>[335:1](pch74.htm#fr_1738) Bryce, *The Holy
+<span id="fn_1738"></span>[335:1](pch74.htm#fr_1738.md) Bryce, *The Holy
 Roman Empire*, 8th ed. p. 49, note.
 
-<span id="fn_1739"></span>[335:2](pch74.htm#fr_1739) It is now abandoned
+<span id="fn_1739"></span>[335:2](pch74.htm#fr_1739.md) It is now abandoned
 even by orthodox Catholic scholars (*e.g.*, Orazio Maruchhi, *S. Pietro
 e S. Paolo in Roma*, 1900, p. 99), though the chair is still officially
 cherished.
 
-<span id="fn_1740"></span>[335:3](pch74.htm#fr_1740) Beugnot, *Hist. de
+<span id="fn_1740"></span>[335:3](pch74.htm#fr_1740.md) Beugnot, *Hist. de
 la Destr. du Paganisme en Occident*, 1835, i, 159.
 
-<span id="fn_1741"></span>[335:4](pch74.htm#fr_1741) Beugnot, i, 334-5,
+<span id="fn_1741"></span>[335:4](pch74.htm#fr_1741.md) Beugnot, i, 334-5,
 citing the inscription from Gruter, p. 28, No. 2. Cp. the other, on p.
 334, also from Gruter, p. 1087, No. 4; also that on p. 335 from
 Muratori, p. 387, No. 2; and those cited on pp. 162-4.
 
-<span id="fn_1742"></span>[336:1](pch74.htm#fr_1742) *Guido di Roma e
+<span id="fn_1742"></span>[336:1](pch74.htm#fr_1742.md) *Guido di Roma e
 suoi dintorni*, ed. 11a, a cura del Prof. F. Porena, Torino, 1894. p.
 383. I am indebted for the extract and a photograph of the chair to the
 good offices of M. W. Lessevitch. See a copy in Marucchi's *S. Pietro e
 S. Paolo*, as cited.
 
-<span id="fn_1743"></span>[337:1](pch74.htm#fr_1743) Tertullian,
+<span id="fn_1743"></span>[337:1](pch74.htm#fr_1743.md) Tertullian,
 *Apolog*. c, 15.
 
-<span id="fn_1744"></span>[337:2](pch74.htm#fr_1744) Beugnot, i, 259-65.
+<span id="fn_1744"></span>[337:2](pch74.htm#fr_1744.md) Beugnot, i, 259-65.
 
-<span id="fn_1745"></span>[337:3](pch74.htm#fr_1745) See that found at
+<span id="fn_1745"></span>[337:3](pch74.htm#fr_1745.md) See that found at
 Housesteads and preserved in the Black Gate at Newcastle—represented in
 the local guide of the Society of Antiquaries, p. 11, and in Bishop
 Hicks’s *Mithras Worship*, p. 39; also the London monument. *ib*. p. 36.
 
-<span id="fn_1746"></span>[337:4](pch74.htm#fr_1746) See the admissions
+<span id="fn_1746"></span>[337:4](pch74.htm#fr_1746.md) See the admissions
 of Wellbeloved, *Eburacum*, 1842, p. 86, as to the zodiacal arch of the
 Church of St. Margaret's in Walmgate, York.
 
 ------------------------------------------------------------------------
 
-[Next: § 1. American Racial Origins](pch75)
+[Next: § 1. American Racial Origins](pch75.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng25)  [Next](vlsng27) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng25)  [Next](vlsng27.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ them awhile in great bliss.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV: Of the Dream of Gudrun, Giuki's daughter.](vlsng27)
+[Next: Chapter XXV: Of the Dream of Gudrun, Giuki's daughter.](vlsng27.md)

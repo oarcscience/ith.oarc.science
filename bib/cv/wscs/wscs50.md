@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs49) 
-[Next](wscs51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs49.md) 
+[Next](wscs51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ a brilliant light that Adjourna and the other disciples, unable to bear
 it, fell with their faces in the dust, and prayed the Lord (Chrishna) to
 pardon their unworthiness. He replied, 'Have you not faith in me? Know
 ye not, that whether present or absent in body, I will be ever present
-with you to guard and protect you?'" ([Baghavat](errata.htm#14) Gita.)
+with you to guard and protect you?'" ([Baghavat](errata.htm#14) Gita..md)
 How remarkable this to the story of Christ's transfiguration!
 
 4\. Some readers, perhaps, will be surprised to observe that we have
@@ -228,4 +228,4 @@ matter, see The Bible of Bibles, Chap. XIV.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](wscs51)
+[Next: Notes](wscs51.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/kh8)  [Previous](../kh63/kh63) 
-[Next](../kj/kj) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/kh8)  [Previous](../kh63/kh63.md) 
+[Next](../kj/kj.md) 
 
 ------------------------------------------------------------------------
 
@@ -4693,4 +4693,4 @@ Index](../index)  [First Folio](../ff/kh8)  [Previous](../kh63/kh63) 
 
 ------------------------------------------------------------------------
 
-[Next: King John](../kj/kj) 
+[Next: King John](../kj/kj.md) 

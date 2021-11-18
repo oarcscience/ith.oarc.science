@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe016)  [Next](prwe018) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe016)  [Next](prwe018.md) 
 
 ------------------------------------------------------------------------
 
@@ -302,4 +302,4 @@ Wellington."
 
 ------------------------------------------------------------------------
 
-[Next: The Giant of Morva](prwe018)
+[Next: The Giant of Morva](prwe018.md)

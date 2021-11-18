@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj11)  [Next](chj13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj11)  [Next](chj13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ for the consideration of the Mahāyāna itself in later chapters.
 Our most trustworthy guides for the dark period between As’oka and
 Christ are the remains of ancient Buddhist temples of the earlier or
 Persian period of Indian art. From these <span
-id="fr_114"></span>[1](#fn_113) we may gather that long before the dawn
+id="fr_114"></span>[1](#fn_113.md) we may gather that long before the dawn
 of the Christian era Buddhism had, for all practical intents and
 purposes, formulated for itself a demi-god in S’akyamuni, whom it
 worshipped with far more fervour than the Greeks worshipped Herakles,
@@ -52,7 +52,7 @@ rejoiced over by angels and testified to by an aged seer; as one who had
 been tempted by the Evil One and had overcome; as one whose life had
 been one of good deeds and holy teachings; as one who had passed into
 the unseen, leaving behind him a feeling of longing regret for him who
-had thus gone away. <span id="fr_115"></span>[1](#fn_114)
+had thus gone away. <span id="fr_115"></span>[1](#fn_114.md)
 
 Buddhism was also by this time provided with books, or at least with a
 body of doctrines orally embodied in set forms, and recited by the monks
@@ -60,15 +60,15 @@ with that verbal exactness for which the Indians have always been so
 famous. On one of his rock inscriptions, in the edict at Bairât in
 Rajputâna, As’oka mentions the names of seven such Sūtras, of which five
 have been identified as still existing in the Pali Sutta Pitakam, <span
-id="fr_116"></span>[2](#fn_115) while the sixth and seventh have been
+id="fr_116"></span>[2](#fn_115.md) while the sixth and seventh have been
 with considerable reason supposed to be, respectively, the germ of the
 Vinaya Pitakam, or books of Discipline, and the First Sermon delivered
 by Buddha after his Enlightenment. Shortly after As’oka's death, about
 B.C. 200 (and therefore before the accession of Pushyamitra), on the
-rail around the stupa of Barhut, <span id="fr_117"></span>[3](#fn_116)
+rail around the stupa of Barhut, <span id="fr_117"></span>[3](#fn_116.md)
 are inscribed the "names of pious Buddhists," who are described as
 "reciters," "versed in the Dialogues," "versed in the Baskets," and
-"versed in the Five Collections," <span id="fr_118"></span>[4](#fn_117)
+"versed in the Five Collections," <span id="fr_118"></span>[4](#fn_117.md)
 and
 
 <span id="page_87">p. 87</span>
@@ -84,7 +84,7 @@ still to be found in Ceylon and other Buddhist countries of the Southern
 School. It does not fall within the scope of this work to give an
 account of these doctrines. The student will find them admirably
 summarized in books like Hardy's "Manual of Buddhism," or Warren's
-"Buddhism in Translation." <span id="fr_119"></span>[1](#fn_118) But it
+"Buddhism in Translation." <span id="fr_119"></span>[1](#fn_118.md) But it
 is also certain that while the doctrinal standards had been faithfully
 handed down until the time came for them to be committed to writing,
 there had also been a steady downward tendency in the life of the
@@ -92,7 +92,7 @@ Buddhist Church, accompanied by a corresponding relaxation of the
 firmness with which the doctrines of Buddha were held. This downgrade
 movement has been graphically described for us in the "Ten Dreams of
 Kaśyapa," which may be taken as coming to us from the latter end of this
-period of Buddhist decay. <span id="fr_120"></span>[2](#fn_119)
+period of Buddhist decay. <span id="fr_120"></span>[2](#fn_119.md)
 
 According to that book, the great disciple Kaśyapa, who is reckoned by
 north and south alike as the first Patriarch of Buddhism after the death
@@ -110,7 +110,7 @@ when they are usually fierce and pugnacious, were driven away by a knot
 of little children. (7) A dirty monkey was seen covering another monkey
 with dirt. (8) A monkey was crowned and anointed as king. (9) A piece of
 cloth was torn into eighteen pieces. (10) A crowd of people were
-quarrelling in the streets. <span id="fr_121"></span>[1](#fn_120)
+quarrelling in the streets. <span id="fr_121"></span>[1](#fn_120.md)
 
 The dreams had their interpretations, and in those interpretations we
 may see the gradual decay of the institutions which S’akyamuni had
@@ -151,7 +151,7 @@ monasteries, till it came that the monkey was anointed as king. (9) Thus
 it came to pass that the Buddhist community, which, like Christ's
 garment, had once been a seamless vesture of whole cloth, had been torn
 and rent into eighteen pieces, corresponding to the eighteen sects <span
-id="fr_122"></span>[1](#fn_121)
+id="fr_122"></span>[1](#fn_121.md)
 
 <span id="page_90">p. 90</span>
 
@@ -171,7 +171,7 @@ death, and yet betrays no consciousness of the fact that it had already
 lasted beyond that period. We may take it, therefore, that the five
 centuries had not quite elapsed when the book was written, and may place
 the composition of it somewhere about the time "of the Flavian Emperors
-of Rome." <span id="fr_123"></span>[1](#fn_122)
+of Rome." <span id="fr_123"></span>[1](#fn_122.md)
 
 The book has been called the "Irenæus" of Buddhism. The Pali Pitakas are
 "immanent" in its pages, just "as the New Testament is immanent in the
@@ -181,7 +181,7 @@ better than any other book, enables us to see what was the state of
 Buddhist thought at the end of its first period, when the Age of the
 Upright Law (as it has since been called) was all but over, and the Age
 of Image Law was about to be introduced. <span
-id="fr_124"></span>[2](#fn_123)
+id="fr_124"></span>[2](#fn_123.md)
 
 The author of the book speaks of the period of Five Hundred years as
 being the duration of S’akyamuni's teachings in the world. The Five
@@ -202,7 +202,7 @@ already mixed with alien elements, was not of the same type as that of
 Magadha. If he came, he would not help the poor distracted Hīnayānist;
 if he only threatened to come, he was still a Buddhist and an alien
 enemy, and the patriotism of India was asserting itself by a return to
-the old Indian gods whom [As’oka](errata.htm#3) had persuaded it to lay
+the old Indian gods whom [As’oka](errata.htm#3.md) had persuaded it to lay
 aside. Go away he certainly would not. Is it to be wondered at that at
 such a time our monk should turn his thoughts to him that had "thus
 gone"? I have already, in a previous chapter, spoken of the change that
@@ -211,10 +211,10 @@ the Chinese word for the Tathāgata. I will now quote from another of the
 Pali Sūtras, one which surely referred not merely to the Buddha that
 once was and now had gone, but much more to him that was to come, and
 whose coming was to give new hope of life. <span
-id="fr_125"></span>[1](#fn_124)
+id="fr_125"></span>[1](#fn_124.md)
 
 "Ananda, the future Buddha, is mindful and conscious when he is born
-with the Tushita Body… . <span id="fr_126"></span>[2](#fn_125) (he) is
+with the Tushita Body… . <span id="fr_126"></span>[2](#fn_125) (he.md) is
 mindful and conscious when he vanishes from the Tushita Body and
 descends into his mother's womb… When he vanishes from the Tushita Body
 and descends into his
@@ -256,7 +256,7 @@ place
 
 which they themselves assign to him when they say, with their own poet,
 that the sole reason for S’akyamuni's appearance in the world was that
-he might point men to Amitābha. <span id="fr_127"></span>[1](#fn_126)
+he might point men to Amitābha. <span id="fr_127"></span>[1](#fn_126.md)
 
 <span id="page_95">p. 95</span>
 
@@ -264,39 +264,39 @@ he might point men to Amitābha. <span id="fr_127"></span>[1](#fn_126)
 
 ### Footnotes
 
-<span id="fn_113"></span>[85:1](chj12.htm#fr_114) *E.g.* those at
+<span id="fn_113"></span>[85:1](chj12.htm#fr_114.md) *E.g.* those at
 Amarâvati, Ajânta, Sanchi, Barhut, Gayā, Nalanda, etc. For a convenient
 summary reviewing all that has been written on the subject, see
 Grünwedel, "Buddhistische Kunst in Indien" (Museum für Völkerkunde,
 Berlin). Also Rhys Davids’ "Buddhist India."
 
-<span id="fn_114"></span>[86:1](chj12.htm#fr_115) See, *e.g.*, "Buddhist
+<span id="fn_114"></span>[86:1](chj12.htm#fr_115.md) See, *e.g.*, "Buddhist
 and Christian Gospels," by A. J. Edmunds. I have used the Tokyo (1905)
 edition with notes by M. Anesaki.
 
-<span id="fn_115"></span>[86:2](chj12.htm#fr_116) Edmunds and Anesaki,
-*l.c.*, p. 2. See above, [p. 42](chj06.htm#page_42).
+<span id="fn_115"></span>[86:2](chj12.htm#fr_116.md) Edmunds and Anesaki,
+*l.c.*, p. 2. See above, [p. 42](chj06.htm#page_42.md).
 
-<span id="fn_116"></span>[86:3](chj12.htm#fr_117) *Ibid*., p. 3. The
+<span id="fn_116"></span>[86:3](chj12.htm#fr_117.md) *Ibid*., p. 3. The
 writers also refer to Ferguson's "History of Indian and Eastern
 Architecture" (London, 1876), p. 5, and to Cunningham, "The Stupa of
 Barhut."
 
-<span id="fn_117"></span>[86:4](chj12.htm#fr_118) I.e. The Five Nikayas,
-or, as they are termed in the [Mahāyāna](errata.htm#2), the Five Agamas.
+<span id="fn_117"></span>[86:4](chj12.htm#fr_118.md) I.e. The Five Nikayas,
+or, as they are termed in the [Mahāyāna](errata.htm#2.md), the Five Agamas.
 Professor Anesaki has given the Asiatic Society of Japan an exhaustive
 comparative study of the Pali Nikayas and Sanskrit Agamas.
 
-<span id="fn_118"></span>[87:1](chj12.htm#fr_119) *Cf*. also Neumann's
+<span id="fn_118"></span>[87:1](chj12.htm#fr_119.md) *Cf*. also Neumann's
 "Die Reden Gotamo Buddhas." I have also learned very much from Léon
 Feer's Buddhist articles in the *Journal Asiatique*.
 
-<span id="fn_119"></span>[87:2](chj12.htm#fr_120) See *J.R.A.S* for
+<span id="fn_119"></span>[87:2](chj12.htm#fr_120.md) See *J.R.A.S* for
 1893, p. 512. The dreams are found in Thibetan; also in Nanjo's
 Catalogue, 543, 631, 632 (connected with Prasenajit). They have likewise
 made their way into Russian folklore.
 
-<span id="fn_120"></span>[88:1](chj12.htm#fr_121) It is a testimony to
+<span id="fn_120"></span>[88:1](chj12.htm#fr_121.md) It is a testimony to
 the early existence of a schism in Buddhism that the two lists of
 patriarchs of the Northern and Southern Schools respectively agree only
 in one name—that of Kaśyapa, the immediate successor of S’akyamuni. This
@@ -305,7 +305,7 @@ Kaśyapa's death, which occurred not long after that of S’akyamuni.
 As’oka possibly tried to effect a reunion, and may indeed have had some
 temporary success.
 
-<span id="fn_121"></span>[89:1](chj12.htm#fr_122) I here give the
+<span id="fn_121"></span>[89:1](chj12.htm#fr_122.md) I here give the
 eighteen Hīnayāna sects as found in Japanese books. There were two main
 divisions which were ṃade very early, some would have it as early as the
 Council of the Grotto immediately after S’akyamuni's death, others at
@@ -368,23 +368,23 @@ Minster (Mahāsanghikā), and when the two <span id="page_91">p. 91</span>
 were made harmonious, they established them. Then when they were
 established, they kept them up in Ceylon only."
 
-<span id="fn_122"></span>[91:1](chj12.htm#fr_123) Edmunds and Anesaki,
+<span id="fn_122"></span>[91:1](chj12.htm#fr_123.md) Edmunds and Anesaki,
 p. 4. The date coincides with the dawn of the new era in the religious
 history of the world.
 
-<span id="fn_123"></span>[91:2](chj12.htm#fr_124) This is the
+<span id="fn_123"></span>[91:2](chj12.htm#fr_124.md) This is the
 chronological theory adopted by Japanese Buddhism.
 
-<span id="fn_124"></span>[92:1](chj12.htm#fr_125) I quote from the
+<span id="fn_124"></span>[92:1](chj12.htm#fr_125.md) I quote from the
 "Dialogue on Wonders and Marvels," given by Edmunds and Anesaki, pp.
 54–60.
 
-<span id="fn_125"></span>[92:2](chj12.htm#fr_126) The Tushita Heaven,
+<span id="fn_125"></span>[92:2](chj12.htm#fr_126.md) The Tushita Heaven,
 one of the lower heavens in the Buddhist cosmology, is one in which
 beings with *form* can appear. The Highest Heaven is beyond form, and
 consequently beyond thought.
 
-<span id="fn_126"></span>[94:1](chj12.htm#fr_127) See my "Shinran and
+<span id="fn_126"></span>[94:1](chj12.htm#fr_127.md) See my "Shinran and
 His Work" (Tokyo, 1910), p. 47.
 
 A good instance of the moral bankruptcy of the Hīnayāna at this period
@@ -454,4 +454,4 @@ thing, and some another.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. As’vaghosha](chj13)
+[Next: Chapter XI. As’vaghosha](chj13.md)

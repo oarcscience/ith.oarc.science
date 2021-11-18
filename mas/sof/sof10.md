@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof09)  [Next](sof11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof09)  [Next](sof11.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head08.png"></span> ![Header Chapter
-VIII.](img/head08.png)
+VIII.](img/head08.png.md)
 
 ## VIII.
 
@@ -36,12 +36,12 @@ were called by the natives, or arrived of their own accord, to seek
 employment, they appeared headed by a chief surveyor, who governed the
 whole troop, and named one man out of every ten, under the name of
 warden, to overlook the nine others, set themselves to building
-temporary huts [35](sof37.htm#xref_35) for their habitation around the
+temporary huts [35](sof37.htm#xref_35.md) for their habitation around the
 spot where the work was to be carried on, regularly organized their
 different departments, fell to work, sent for fresh supplies of their
 brethren as the object demanded, and, when all was finished, again
 raised their encampment, and went elsewhere to undertake other jobs."
- [36](sof37.htm#xref_36)
+ [36](sof37.htm#xref_36.md)
 
 This society continued to preserve the commingled features of operative
 and speculative masonry, as they had been practised at the temple of
@@ -100,6 +100,6 @@ element which had prevailed in it anterior to that period.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Disseverance of the Operative Element](sof11)
+[Next: IX. Disseverance of the Operative Element](sof11.md)
 
 </div>

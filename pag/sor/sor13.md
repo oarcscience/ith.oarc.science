@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor12)  [Next](sor14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor12)  [Next](sor14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -24,7 +24,7 @@ Heritage
 WITCHES’ *Sabbaths*. We must use the plural, for it is obvious the word
 has denoted very different things at different epochs. Unfortunately, we
 possess detailed accounts of such scenes only of quite late date,—reign
-of Henri IV. <span id="fr_42"></span>[1](#fn_42) By that time it had
+of Henri IV. <span id="fr_42"></span>[1](#fn_42.md) By that time it had
 degenerated into little more than a huge carnival of lust, under
 pretence of magic rites. But even in these descriptions of an
 institution so far gone in decay are to be found certain marks of
@@ -68,7 +68,7 @@ life of Werewolf and Moonrakes, of the Wild Game of the Woods, as the
 cruel barons style it. These revolts may likely enough have often begun
 in such moonlight festivals. The Holy Sacraments of insurrection among
 serfs—drinking each other's blood, or eating earth by way of host <span
-id="fr_43"></span>[2](#fn_43)—were doubtless often celebrated at the
+id="fr_43"></span>[2](#fn_43.md)—were doubtless often celebrated at the
 Witches’ Sabbath. The *Marseillaise* of the period, sung more by night
 than by day, is perhaps a "Sabbatic chant:—
 
@@ -76,7 +76,7 @@ than by day, is perhaps a "Sabbatic chant:—
 
 Nous sommes hommes comme ils sont  
 Tout aussi grand cœur nous avons!  
-Tout autant souffrir nous pouvons! <span id="fr_44"></span>[3](#fn_44)
+Tout autant souffrir nous pouvons! <span id="fr_44"></span>[3](#fn_44.md)
 
 </div>
 
@@ -257,7 +257,7 @@ unmistakably proclaimed him Pan and Priapus. A darkling countenance,
 that each saw under a different aspect. While some beheld only an
 incarnate terror, others were moved by the haughty melancholy that
 seemed to enfold the Exile of Eternity. <span
-id="fr_45"></span>[4](#fn_45)
+id="fr_45"></span>[4](#fn_45.md)
 
  
 
@@ -344,7 +344,7 @@ woman incarnate. By her prostrate body and humiliated person, by the
 vast silken net of her hair, draggled in the dust, she (that proud
 Proserpine) offered up herself a sacrifice. On her loins a demon
 performed Mass, pronounced the *Credo*, deposited the offertory of the
-faithful. <span id="fr_46"></span>[5](#fn_46)
+faithful. <span id="fr_46"></span>[5](#fn_46.md)
 
 In later times all this was an exhibition of indecency. But in the
 fourteenth century, that period of calamity, the dread epoch of the
@@ -372,7 +372,7 @@ and offering were made for the harvest. Wheat was presented to the
 doubt from the woman's bosom—bore the *God of Liberty* the signs and
 supplications of the unhappy serfs. What was the boon they craved? That
 we, we their far-away descendants, might win enfranchisement. <span
-id="fr_47"></span>[6](#fn_47)
+id="fr_47"></span>[6](#fn_47.md)
 
 What was distributed by way of host at this strange eucharist? Not the
 burlesque and abominable stuff we shall find so used in Henri IV.'s day;
@@ -405,7 +405,7 @@ In ribald mockery of the words: *Agnus Dei*, etc., and the breaking of
 the wafer in the Christian Eucharist, she had a skinned toad brought to
 her which she then tore in pieces. With eyes rolling horribly and looks
 upturned to heaven, she decapitated the toad, repeating these strange
-words: "Ah! *Philip*, <span id="fr_48"></span>[7](#fn_48) if only I had
+words: "Ah! *Philip*, <span id="fr_48"></span>[7](#fn_48.md) if only I had
 you between my hands, I would treat you the same!"
 
  
@@ -431,7 +431,7 @@ training up the Sorceresses of the future.
 
 ### Footnotes
 
-<span id="fn_42"></span>[98:1](sor13.htm#fr_42) The least unsatisfactory
+<span id="fn_42"></span>[98:1](sor13.htm#fr_42.md) The least unsatisfactory
 is that given by Lancre. He is a man of wit and perspicacity, and being
 manifestly in relations with certain young witches, was in a position to
 know the whole truth. Unfortunately, his Sabbath is confused and
@@ -442,10 +442,10 @@ Del Rio are found an incredible number of platitudes and absurdities.
 Still, taking the thing as a whole, it contains some interesting and
 valuable traces of antiquity, which I have been able to turn to account.
 
-<span id="fn_43"></span>[99:2](sor13.htm#fr_43) At the battle of
+<span id="fn_43"></span>[99:2](sor13.htm#fr_43.md) At the battle of
 Courtrai. See also Grimm, and Michelet's *Origines*.
 
-<span id="fn_44"></span>[99:3](sor13.htm#fr_44)
+<span id="fn_44"></span>[99:3](sor13.htm#fr_44.md)
 
 <div style="margin-left: 32px">
 
@@ -455,12 +455,12 @@ Courtrai. See also Grimm, and Michelet's *Origines*.
 
 </div>
 
-<span id="fn_45"></span>[104:4](sor13.htm#fr_45) This comes from Del
+<span id="fn_45"></span>[104:4](sor13.htm#fr_45.md) This comes from Del
 Rio, but is not, I should suppose, exclusively Spanish. It is an antique
 trait and characteristic of primitive inspiration. Farcicalities come
 later.
 
-<span id="fn_46"></span>[106:5](sor13.htm#fr_46) This highly important
+<span id="fn_46"></span>[106:5](sor13.htm#fr_46.md) This highly important
 point, that woman was herself the altar, and that the office was
 performed on her, we know from the trial of La Voisin, published by M.
 Ravaisson, senior, among the other *Bastille Papers*. In these
@@ -471,12 +471,12 @@ Sabbath were reproduced, even in respect of a point such as this, where
 the ancient ceremonial may very likely have been discontinued during the
 intermediate period.
 
-<span id="fn_47"></span>[107:6](sor13.htm#fr_47) This charming offering
+<span id="fn_47"></span>[107:6](sor13.htm#fr_47.md) This charming offering
 of wheat and birds is peculiar to France (Jaquier, *Flagellans*, 57;
 Soldan, 225). In Lorraine, and no doubt in Germany also, black animals
 were offered up,—black cats, black goats, black bulls.
 
-<span id="fn_48"></span>[108:7](sor13.htm#fr_48) Lancre, 136. Why the
+<span id="fn_48"></span>[108:7](sor13.htm#fr_48.md) Lancre, 136. Why the
 name *Philip*, I have no idea. It is as impossible to give a reason as
 to say why Satan, when he names Jesus, calls him little John, or
 *Janicot*. Can it be she says *Philip* here, from the odious name of the
@@ -490,4 +490,4 @@ word of malediction.
 
 ------------------------------------------------------------------------
 
-[Next: 12. Black Mass Continued—Love and Death—Satan Disappears](sor14)
+[Next: 12. Black Mass Continued—Love and Death—Satan Disappears](sor14.md)

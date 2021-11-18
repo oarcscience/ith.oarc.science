@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc09)  [Next](ipc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc09)  [Next](ipc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ encroaching cultus is pure S’ivism and Nihilism.</span>
 
 <span class="smallcaps">Schlagintweit</span> tells us that
 Avalokitishwara brought Buddhism to Tibet in the seventh century A.
-D. <span id="fr_119"></span>[\*](#fn_118)
+D. <span id="fr_119"></span>[\*](#fn_118.md)
 
 We have seen that the Dalai Lama claims to be the head of the Buddhist
 Church with Avalokitishwara for divine guide. Was this a more ancient
@@ -38,9 +38,9 @@ claim?
 
 Certainly, there was a "High Priest of all the world" as early as the
 second convocation, according to the Mahâwanso, <span
-id="fr_120"></span>[†](#fn_119) and this Achârya, as he was also called,
+id="fr_120"></span>[†](#fn_119.md) and this Achârya, as he was also called,
 was always the pupil of his predecessor, as General Cunningham has
-pointed out. <span id="fr_121"></span>[‡](#fn_120)
+pointed out. <span id="fr_121"></span>[‡](#fn_120.md)
 
 Hiouen Thsiang throws some light on the status of the Achârya in his
 day. He gives him the same title as is given to him in the Mahâwanso. It
@@ -88,10 +88,10 @@ mango plantations still gave shade to the "Men of Pure Life." Inside, or
 attached to the convent, when Hiouen Thsiang visited it, were no less
 than ten thousand monks. Amongst the many convents in India, he adds,
 were none as rich and as grand as this. <span
-id="fr_122"></span>[\*](#fn_121)
+id="fr_122"></span>[\*](#fn_121.md)
 
 The Achârya was so respected that "nobody dared even mention his
-name." <span id="fr_123"></span>[†](#fn_122) He was alluded to as the
+name." <span id="fr_123"></span>[†](#fn_122.md) He was alluded to as the
 "Treasury of Dharma (Saddharmakośa)."
 
 Hitherto, in India, kings and monks had always paid their reverence to
@@ -107,7 +107,7 @@ of a disciple, and exhausted every token of homage. In obedience to the
 sacred regulations and the official etiquette, he (the Chinese pilgrim)
 moved forwards on his knees, supporting himself on his elbows. He struck
 the ground with his forehead, and made it resound with the tappings of
-his feet." <span id="fr_124"></span>[‡](#fn_123)
+his feet." <span id="fr_124"></span>[‡](#fn_123.md)
 
 The Convocation of Kanouj took place shortly after this, and its details
 were fixed by the High Priest of all the World.
@@ -122,17 +122,17 @@ of the Buddhists from that quarter, escaped to Tibet. The traditions
 that we possess, though scanty, seem to point to this conclusion. In
 1417, there was already a Grand Lâma in Tibet, one Tsonkhapa, a Buddhist
 from India. Like the earliest Âchâryas, he appointed his successor to
-the office, one Dharma Rancha. <span id="fr_125"></span>[\*](#fn_124) It
+the office, one Dharma Rancha. <span id="fr_125"></span>[\*](#fn_124.md) It
 is worthy of remark that the Lâma is recognised as the head of the
 Buddhist Church by the Chinese and Japanese. M. Abel de Rémusat, in his
 "Origines de l’Hiérarchie Lamaïque," cites the literature of the latter
 to show that it was conceived that at the death of Buddha he at once
 reappeared on earth in Bengal as a "teacher" of kings. That seems to be
 as the Achârya; and it is stated that Buddha as the Grand Lâma is always
-on earth. <span id="fr_126"></span>[†](#fn_125) Gengis Khan patronised
+on earth. <span id="fr_126"></span>[†](#fn_125.md) Gengis Khan patronised
 the Buddhists; and his grandson officially designated the "Master of
 Doctrine" in Tibet, the "Living God," the "Self-existent Buddha,"
-etc. <span id="fr_127"></span>[‡](#fn_126) Intolerant Mussulmans could
+etc. <span id="fr_127"></span>[‡](#fn_126.md) Intolerant Mussulmans could
 only have proceeded to such extremities on the supposition that a vast
 body of Buddhists in their dominions believed that the Grand Lâma was
 the Achârya, and that it was politic to conciliate them.
@@ -150,7 +150,7 @@ Court and a College of Cardinals. He makes a special note of
 
 the fact that these hierarchies are so solidly organised that they have
 everywhere lasted through centuries of change. <span
-id="fr_128"></span>[\*](#fn_127)
+id="fr_128"></span>[\*](#fn_127.md)
 
 Let us now consider the ritual of the Buddhist Churches to see if there
 is any trace of S’iva worship there.
@@ -158,19 +158,19 @@ is any trace of S’iva worship there.
 This is part of the litany in China:—
 
 "And thou ever-present Kwan-shi-Yin Bodhisatwa who hast perfected
-wondrous merit, and art [possessed](errata.htm#17) of great mercy, who
+wondrous merit, and art [possessed](errata.htm#17.md) of great mercy, who
 in virtue of thine infinite power and wisdom art manifested throughout
-the universe for the defence and [protection](errata.htm#18) of all
+the universe for the defence and [protection](errata.htm#18.md) of all
 creatures, and who leadest all to the attainment of boundless wisdom."
 
 Professor Beal gives us this as part of a Chinese ritual. He has
-explained to us before that [Kwan-shi](errata.htm#19) yin is
+explained to us before that [Kwan-shi](errata.htm#19.md) yin is
 Avalokitishwara, that is, "S’iva looking down."
 
 Let us now turn to Nepal.
 
 "I salute that 'Sangha,' who is Avalokitishwara." This is part of the
-solemn consecration of the novice. <span id="fr_129"></span>[†](#fn_128)
+solemn consecration of the novice. <span id="fr_129"></span>[†](#fn_128.md)
 
 Let us now turn to Tibet.
 
@@ -180,7 +180,7 @@ the two evil thoughts, and make us quickly obtain the perfection of
 Buddhahood. If we cannot obtain this perfection within a few life
 cycles, then grant us the highest heavenly and earthly happiness and all
 knowledge, and preserve us from evil spirits, plague, disease, untimely
-death, etc. <span id="fr_130"></span>[‡](#fn_129)
+death, etc. <span id="fr_130"></span>[‡](#fn_129.md)
 
 Here is portion of a hymn addressed to Durgâ as the "White Târâ (Star)."
 
@@ -220,7 +220,7 @@ this place, I beg you all now to depart!
 "O most powerful King of the Angry Deities, Strong Îśwara, and the host
 of Country Guardian Gods and the others that we invited to this place
 with all their retinues. I beg you all now to depart." <span
-id="fr_131"></span>[\*](#fn_130)
+id="fr_131"></span>[\*](#fn_130.md)
 
 It is here confessed that the Yakshas and female demons were "invited to
 the place;" does that mean summoned by black magic?
@@ -247,7 +247,7 @@ little model Lingam with his rosaries and begging bowl and other monkish
 necessaries, and is thus solemnly conjured:—
 
 "First of all devote yourself to the Worship of the Chaitya," <span
-id="fr_132"></span>[\*](#fn_131) the miniature Lingam.
+id="fr_132"></span>[\*](#fn_131.md) the miniature Lingam.
 
 \(5\) The worship of S’iva has invaded every ritual. "I salute that
 'Sangha,' who is Avalokitishwara, etc."
@@ -263,7 +263,7 @@ lasted seven days, and was in fact the Durgâ Pûjah.
 \(8\) The Bible of S’iva Buddhism is the Yoga S’âstra, the Bible of the
 deistic followers of S’iva.
 
-\(9\) The [philosophy](errata.htm#20) of S’iva Buddhism goes completely
+\(9\) The [philosophy](errata.htm#20.md) of S’iva Buddhism goes completely
 on the lines of the controversy between the two forms of the Sankhya
 philosophy—that which proclaims and that which denies a God.
 
@@ -280,10 +280,10 @@ craved after
 <span id="page_126">p. 126</span>
 
 their old gods and restored the ancient rites. <span
-id="fr_133"></span>[\*](#fn_132) Surgeon-Major Waddell believes that
+id="fr_133"></span>[\*](#fn_132.md) Surgeon-Major Waddell believes that
 "Tantrism" came into Buddhism in the seventh century A.D., and that the
 Buddhists of India brought in the worship of Durgâ in order to secure
-the support of the semi-origines, <span id="fr_134"></span>[†](#fn_133)
+the support of the semi-origines, <span id="fr_134"></span>[†](#fn_133.md)
 but, if so, why did they wait twelve hundred years for this desired
 assistance. In point of fact, the Buddhists had that support all along,
 for Buddhism was practically the religion of the yellow races and
@@ -334,7 +334,7 @@ Punjâb, Râjputâna, Guzerat, Scinde. Such a large Buddhist empire would
 require a strengthened discipline amongst the great army of monks.
 Magadha was not included in this empire, and the two leading monks of
 Kaniśka, Pârśvika, and Vasubandhu may have wished to
-[establish](errata.htm#21) an ecclesiastical authority independent of
+[establish](errata.htm#21.md) an ecclesiastical authority independent of
 the 'High Priest of all the World,' as the Âchârya of Magadha is called
 in the Mahâwanso. Perhaps the authority of the latter was ill-defined,
 and perhaps it had become weakened, now that Magadha was no longer the
@@ -356,11 +356,11 @@ opinions will be expressed, and we shall not have time to answer and
 refute them. Why compose S’âstras? The whole convocation is attached to
 this kingdom. Your realms are defended on all sides by high mountains
 under the guardianship of Yakshas.' <span
-id="fr_135"></span>[\*](#fn_134)
+id="fr_135"></span>[\*](#fn_134.md)
 
 "It is plain from this that the new creed was established in the teeth
 of the High Priest of Magadha in his head-quarters at Nalanda, but
-Magadha afterwards took it up." <span id="fr_136"></span>[†](#fn_135)
+Magadha afterwards took it up." <span id="fr_136"></span>[†](#fn_135.md)
 
 But the garrulous Chinese pilgrim lets in a great deal more light. He
 tells us what the early Buddhists said of the change:—
@@ -382,7 +382,7 @@ mendicant, who,
 
 <span id="img_pl09"></span> <span align="CENTER"> [![PLATE 9.&lt;br&gt;
 THE HEAD WITHOUT A JAW.](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 PLATE 9.  
 THE HEAD WITHOUT A JAW.  
 </span>
@@ -396,7 +396,7 @@ monk of the monastery of Ayodhyâ, a visionary named Asangha, who was
 miraculously transported one night to the Heaven Tuśita to the presence
 of Maitreya, the coming Buddha. From his sacred hand he received the
 Bible of the new creed, the Yoga S’âstra. <span
-id="fr_137"></span>[\*](#fn_136) Now this volume, of course, had been
+id="fr_137"></span>[\*](#fn_136.md) Now this volume, of course, had been
 the Bible of the followers of S’iva for hundreds of years, a fact that
 Asangha did not seem to know. Its alternative title is "Sesvara Sankyha"
 (The Treatise of S’iva, the Serpent Sesh), and one of the two chief
@@ -415,7 +415,7 @@ meant, and he was told that it represented S’îva. Now the word
 conclusion that the single head without the jaw was a simple expedient
 to accentuate his all-seeing eyes. I was soon able to collect ample
 evidence that this surmise was correct. I made some sketches, which I
-reproduce. ([Plate 9](#img_pl09)).
+reproduce. ([Plate 9](#img_pl09).md).
 
 No. 1 and No. 2 I drew from idols in the India Museum, South Kensington.
 No. 3 comes from Tibet.
@@ -447,62 +447,62 @@ earlier cultus.
 
 ### Footnotes
 
-<span id="fn_118"></span>[119:\*](ipc10.htm#fr_119) Schlagintweit,
+<span id="fn_118"></span>[119:\*](ipc10.htm#fr_119.md) Schlagintweit,
 "Buddhism in Tibet," p. 63.
 
-<span id="fn_119"></span>[119:†](ipc10.htm#fr_120) "Mahâwanso," p. 21.
+<span id="fn_119"></span>[119:†](ipc10.htm#fr_120.md) "Mahâwanso," p. 21.
 
-<span id="fn_120"></span>[119:‡](ipc10.htm#fr_121) "Bhilsa Topes," p.
+<span id="fn_120"></span>[119:‡](ipc10.htm#fr_121.md) "Bhilsa Topes," p.
 72.
 
-<span id="fn_121"></span>[121:\*](ipc10.htm#fr_122) "Hiouen Thsiang,"
+<span id="fn_121"></span>[121:\*](ipc10.htm#fr_122.md) "Hiouen Thsiang,"
 Vol. I., pp. 150, 151.
 
-<span id="fn_122"></span>[121:†](ipc10.htm#fr_123) See [p.
-144](ipc12.htm#page_144).
+<span id="fn_122"></span>[121:†](ipc10.htm#fr_123.md) See [p.
+144](ipc12.htm#page_144.md).
 
-<span id="fn_123"></span>[121:‡](ipc10.htm#fr_124) "Hiouen Thsang, "Vol.
+<span id="fn_123"></span>[121:‡](ipc10.htm#fr_124.md) "Hiouen Thsang, "Vol.
 I., p. 144.
 
-<span id="fn_124"></span>[122:\*](ipc10.htm#fr_125) Schlagintweit,
+<span id="fn_124"></span>[122:\*](ipc10.htm#fr_125.md) Schlagintweit,
 "Buddhism in Tibet," p. 153.
 
-<span id="fn_125"></span>[122:†](ipc10.htm#fr_126) See pp.
-[24](ipc04.htm#page_24), [25](ipc04.htm#page_25).
+<span id="fn_125"></span>[122:†](ipc10.htm#fr_126.md) See pp.
+[24](ipc04.htm#page_24), [25](ipc04.htm#page_25.md).
 
-<span id="fn_126"></span>[122:‡](ipc10.htm#fr_127) See pp.
-[27](ipc05.htm#page_27), [28](ipc05.htm#page_28),
-[29](ipc05.htm#page_29).
+<span id="fn_126"></span>[122:‡](ipc10.htm#fr_127.md) See pp.
+[27](ipc05.htm#page_27), [28](ipc05.htm#page_28.md),
+[29](ipc05.htm#page_29.md).
 
-<span id="fn_127"></span>[123:\*](ipc10.htm#fr_128) Bigandet "Legende de
+<span id="fn_127"></span>[123:\*](ipc10.htm#fr_128.md) Bigandet "Legende de
 Gaudama," p. 499.
 
-<span id="fn_128"></span>[123:†](ipc10.htm#fr_129) Hodgson "Buddhism in
+<span id="fn_128"></span>[123:†](ipc10.htm#fr_129.md) Hodgson "Buddhism in
 Nepal," p. 142.
 
-<span id="fn_129"></span>[123:‡](ipc10.htm#fr_130) Waddell, "Buddhism of
+<span id="fn_129"></span>[123:‡](ipc10.htm#fr_130.md) Waddell, "Buddhism of
 Tibet," p. 438.
 
-<span id="fn_130"></span>[124:\*](ipc10.htm#fr_131) Waddell, "Buddhism
+<span id="fn_130"></span>[124:\*](ipc10.htm#fr_131.md) Waddell, "Buddhism
 in Tibet," p. 443.
 
-<span id="fn_131"></span>[125:\*](ipc10.htm#fr_132) Major Waddell cites
+<span id="fn_131"></span>[125:\*](ipc10.htm#fr_132.md) Major Waddell cites
 the ritual at length and bears witness to its general application.
 
-<span id="fn_132"></span>[126:\*](ipc10.htm#fr_133) "Buddhism," p. 206.
+<span id="fn_132"></span>[126:\*](ipc10.htm#fr_133.md) "Buddhism," p. 206.
 
-<span id="fn_133"></span>[126:†](ipc10.htm#fr_134) Waddell, "Buddhism in
+<span id="fn_133"></span>[126:†](ipc10.htm#fr_134.md) Waddell, "Buddhism in
 Tibet," p. 27-129.
 
-<span id="fn_134"></span>[128:\*](ipc10.htm#fr_135) Hiouen Thsiang
+<span id="fn_134"></span>[128:\*](ipc10.htm#fr_135.md) Hiouen Thsiang
 "Memoirs" (Vol. I., p. 174), translated by Stanislaus Julien.
 
-<span id="fn_135"></span>[128:†](ipc10.htm#fr_136) Lillie's "Popular
+<span id="fn_135"></span>[128:†](ipc10.htm#fr_136.md) Lillie's "Popular
 Life of Buddha," pp. 175, 176.
 
-<span id="fn_136"></span>[129:\*](ipc10.htm#fr_137) Hiouen Thsiang,
+<span id="fn_136"></span>[129:\*](ipc10.htm#fr_137.md) Hiouen Thsiang,
 "Histoire," translated by Stanislaus Julien, p. 514 *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Cave Temple and its Mysteries](ipc11)
+[Next: Chapter VIII. The Cave Temple and its Mysteries](ipc11.md)

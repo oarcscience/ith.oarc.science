@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip06)  [Next](fip08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip06)  [Next](fip08.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ Save us all from Fairy thrall.
 ------------------------------------------------------------------------
 
 [Next: Teig O'Kane (Tadhg O Cáthán) and the Corpse, tr. by Douglas
-Hyde](fip08)
+Hyde](fip08.md)

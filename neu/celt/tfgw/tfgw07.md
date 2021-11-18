@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw06)  [Next](tfgw08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw06)  [Next](tfgw08.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ The Midwife of Listowel
 
 ------------------------------------------------------------------------
 
-[Next: Daniel Crowley and the Ghosts](tfgw08)
+[Next: Daniel Crowley and the Ghosts](tfgw08.md)

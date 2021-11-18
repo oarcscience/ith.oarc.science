@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ by W. R. S. Ralston
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](srp00)
+[Contents](#contents)    [Start Reading](srp00.md)
 
 ------------------------------------------------------------------------
 
@@ -32,18 +32,18 @@ in this book more than makes up for this deficiency.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](srp00)  
-[Preface](srp01)  
-[Preface to the Second Edition](srp02)  
-[Contents](srp03)  
-[Chapter I. Introductory](srp04)  
-[Chapter II: Section I.--The Old Gods](srp05)  
-[Section II.--Demigods and Fairies](srp06)  
-[Section III.--Storyland Beings](srp07)  
-[Chapter III: Mythic And Ritual Songs](srp08)  
-[Chapter IV: Marriage Songs](srp09)  
-[Chapter V: Funeral Songs](srp10)  
-[Chapter VI: Sorcery and Witchcraft](srp11)  
-[Appendix A: Bibliography](srp12)  
-[Appendix B](srp13)  
-[Index](srp14)  
+<span id="contents"></span> [Title Page](srp00.md)  
+[Preface](srp01.md)  
+[Preface to the Second Edition](srp02.md)  
+[Contents](srp03.md)  
+[Chapter I. Introductory](srp04.md)  
+[Chapter II: Section I.--The Old Gods](srp05.md)  
+[Section II.--Demigods and Fairies](srp06.md)  
+[Section III.--Storyland Beings](srp07.md)  
+[Chapter III: Mythic And Ritual Songs](srp08.md)  
+[Chapter IV: Marriage Songs](srp09.md)  
+[Chapter V: Funeral Songs](srp10.md)  
+[Chapter VI: Sorcery and Witchcraft](srp11.md)  
+[Appendix A: Bibliography](srp12.md)  
+[Appendix B](srp13.md)  
+[Index](srp14.md)  

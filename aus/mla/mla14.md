@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla13)  [Next](mla15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla13)  [Next](mla15.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ still has a very flat forehead as an everlasting sign of selfishness.
 ------------------------------------------------------------------------
 
 [Next: Why the Emu has Short Wings and the Native Companion a Harsh
-Voice](mla15)
+Voice](mla15.md)

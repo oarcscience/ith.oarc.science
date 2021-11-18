@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj23)  [Next](atfj25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj23)  [Next](atfj25.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_26"></span> <span align="CENTER"> [![26. They Monkeys
 Listen to the Priest's Sermon](tn/26.jpg)  
-Click to enlarge](img/26.jpg)  
+Click to enlarge](img/26.jpg.md)  
 26. They Monkeys Listen to the Priest's Sermon  
 </span>
 
@@ -80,7 +80,7 @@ When he had reached the end of the fifth volume
 
 <span id="img_27"></span> <span align="CENTER"> [![27. The Priest Writes
 the First Five Volumes](tn/27.jpg)  
-Click to enlarge](img/27.jpg)  
+Click to enlarge](img/27.jpg.md)  
 27. The Priest Writes the First Five Volumes  
 </span>
 
@@ -150,6 +150,6 @@ Temple of Kinoto, in Echigo, as its most sacred treasure.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII. The Diving-Woman of Oiso Bay](atfj25)
+[Next: XXIII. The Diving-Woman of Oiso Bay](atfj25.md)
 
 </div>

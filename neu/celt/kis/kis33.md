@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis32)  [Next](kis34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis32)  [Next](kis34.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ without giving them a single cross for wages.
 
 ------------------------------------------------------------------------
 
-[Next: Part XIII](kis34)
+[Next: Part XIII](kis34.md)

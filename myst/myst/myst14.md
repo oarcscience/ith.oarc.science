@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst13)  [Next](myst15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst13)  [Next](myst15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -78,7 +78,7 @@ to union with a larger self. It is fettered: it longs for freedom. Its
 every sense is attuned to illusion: it craves for harmony with the
 Absolute Truth. “God is the only Reality,” says Patmore, “and we are
 real only as far as we are in His order and He is in us.”  <span
-id="fr_391"></span>[392](#fn_391) Whatever form, then, the mystical
+id="fr_391"></span>[392](#fn_391.md) Whatever form, then, the mystical
 adventure may take it, must begin with a change in the attitude of the
 subject; a change which will introduce it into the order of Reality, and
 enable it to set up permanent relations with an Object which is not
@@ -98,7 +98,7 @@ openeth the inner eyes of the soul for to see this truth,” says Hilton,
 “with other circumstances that come withal then beginneth the soul for
 sooth to be vastly meek. For then by the sight of God it feeleth and
 seeth itself as it is, and then doth the soul forsake the beholding and
-leaning to itself.”  <span id="fr_392"></span>[393](#fn_392)
+leaning to itself.”  <span id="fr_392"></span>[393](#fn_392.md)
 
 <span id="an_iv.iii-p8"></span>So, with Dante, the first terrace of the
 Mount of Purgatory is devoted to the cleansing of pride and the
@@ -113,7 +113,7 @@ shouldst never go outside the knowledge of thyself; and by humbling
 thyself in the valley of humility thou wilt know Me and thyself, from
 which knowledge thou wilt draw all that is necessary. . . . In self
 knowledge, then, thou wilt humble thyself; seeing that, in thyself, thou
-dost not even exist.”  <span id="fr_393"></span>[394](#fn_393)
+dost not even exist.”  <span id="fr_393"></span>[394](#fn_393.md)
 
 <span id="an_iv.iii-p10"></span>The first thing that the self observes,
 when it turns back upon itself in that awful moment of lucidity—enters,
@@ -133,7 +133,7 @@ of his heart but of his body, is marvellously moved and shaken, and
 faints within itself, unable to endure it. And by this means, his
 interior aspect is made clear without any cloud, and conformable in its
 own measure to Him whom he seeks.”  <span
-id="fr_394"></span>[395](#fn_394)
+id="fr_394"></span>[395](#fn_394.md)
 
 <span id="an_iv.iii-p12"></span>The lives of the mystics abound in
 instances of the “vehemence of this showing”: of the deep-seated sense
@@ -159,7 +159,7 @@ that this conformity—this transcendence of the unreal—is possible and
 indeed normal which upholds the mystic during the terrible years of
 Purgation: so that “not only without heaviness, but with a joy
 unmeasured he casts back all thing that may him let.”  <span
-id="fr_395"></span>[396](#fn_395)
+id="fr_395"></span>[396](#fn_395.md)
 
 <span id="an_iv.iii-p14"></span>To the true lover of the Absolute,
 Purgation no less than Illumination is a privilege, a dreadful joy. It
@@ -172,14 +172,14 @@ act in which he turns to it is an act of loving desire, no less than an
 act of will. “Burning of love into a soul truly taken all vices purgeth:
 . . . for whilst the true lover with strong and fervent desire into God
 is borne, all things him displease that from the sight of God
-withdrawn.”  <span id="fr_396"></span>[397](#fn_396) His eyes once
+withdrawn.”  <span id="fr_396"></span>[397](#fn_396.md) His eyes once
 opened, he is eager for that costly ordering of his disordered loves
 which alone can establish his correspondences with Transcendental Life.
 “Teach me, my only joy,” cries Suso, “the way in which I may bear upon
 my body the marks of Thy Love.” “Come, my soul, depart from outward
 things and gather thyself together into a true interior silence, that
 thou mayst set out with all thy courage and bury and lose thyself in the
-desert of a deep contrition.”  <span id="fr_397"></span>[398](#fn_397)
+desert of a deep contrition.”  <span id="fr_397"></span>[398](#fn_397.md)
 
 <span id="an_iv.iii-p17"></span>It is in this torment of contrition,
 this acute consciousness of unworthiness, that we have the first swing
@@ -192,7 +192,7 @@ Divine Love,” did not surrender himself to the passive enjoyment of this
 first taste of Absolute Being, but was impelled by it to diligent and
 instant self-criticism. He was “seized with a hatred of his body, and
 inflicted on himself such hard mortifications that he fell ill.”  <span
-id="fr_398"></span>[399](#fn_398) It is useless for lovers of
+id="fr_398"></span>[399](#fn_398.md) It is useless for lovers of
 healthy-mindedness to resent this and similar examples of
 self-examination and penance: to label them morbid or mediaeval. The
 fact remains that only such bitter knowledge of wrongness of relation,
@@ -203,12 +203,12 @@ task of readjustment.
 Norwich, “that it behoveth needs to be that we should be in longing and
 in penance, until the time that we be led so deep into God that we
 verily and truly know our own soul.”  <span
-id="fr_399"></span>[400](#fn_399)
+id="fr_399"></span>[400](#fn_399.md)
 
 <span id="an_iv.iii-p21"></span>Dante’s whole journey up the Mount of
 Purgation is the dramatic presentation of this one truth. So, too, the
 celebrated description of Purgatory attributed to St. Catherine of Genoa
- <span id="fr_400"></span>[401](#fn_400) is obviously founded upon its
+ <span id="fr_400"></span>[401](#fn_400.md) is obviously founded upon its
 author’s inward experience of this Purgative Way. In it, she applies to
 the souls of the dead her personal consciousness of the necessity of
 purification; its place in the organic process of spiritual growth. It
@@ -233,12 +233,12 @@ id="page_203">p. 203</span> <span id="an_iv.iii-Page_203"></span> God
 develops itself, and goes on increasing through the fire of love which
 draws it to its end with such impetuosity and vehemence that any
 obstacle seems intolerable; and the more clear its vision, the more
-extreme its pain.”  <span id="fr_401"></span>[402](#fn_401)
+extreme its pain.”  <span id="fr_401"></span>[402](#fn_401.md)
 
 <span id="an_iv.iii-p24"></span><span
 id="an_iv.iii-p24.1"></span>“Mostratene la via di gire al monte!” cry
 the souls of the newly-dead in Dante’s vision,  <span
-id="fr_402"></span>[403](#fn_402) pushed by that “instinctive tendency”
+id="fr_402"></span>[403](#fn_402.md) pushed by that “instinctive tendency”
 towards the purifying flames. Such a tendency, such a passionate desire,
 the aspiring self must have. No cool, well-balanced knowledge of the
 need of new adjustments will avail to set it on the Purgative Way. This
@@ -258,7 +258,7 @@ our spiritual nature were not on fire with other and nobler passions we
 should never cast off the yoke of the senses, nor be able to enter on
 their night, neither should we have the courage to remain in the
 darkness of all things, and in denial of every desire.”  <span
-id="fr_403"></span>[404](#fn_403)
+id="fr_403"></span>[404](#fn_403.md)
 
 <span id="an_iv.iii-p28"></span>“We must be filled with a burning
 fervour full of anguish.” Only this deep and ardent passion for a
@@ -275,7 +275,7 @@ consummated on a plane where illusion and selfhood have no place.
 <span id="an_iv.iii-p29"></span>The inward voice says to him
 perpetually, at the least seasonable moments, <span
 id="an_iv.iii-p29.1"></span>“Dimitte omnia transitoria, quaere aeterna.”
- <span id="fr_404"></span>[405](#fn_404) Hence the purgation of the
+ <span id="fr_404"></span>[405](#fn_404.md) Hence the purgation of the
 senses, and of the character which they have helped to build is always
 placed first in order in the Mystic Way; though sporadic flashes of
 illumination and ecstasy may, and often <span id="page_204">p.
@@ -314,7 +314,7 @@ of temporal life are recognized and cast away.
 
 <span id="an_iv.iii-p33"></span>“No one,” says another authority in this
 matter, “can be enlightened unless he be first cleansed or purified and
-stripped.”  <span id="fr_405"></span>[406](#fn_405) Purgation, which is
+stripped.”  <span id="fr_405"></span>[406](#fn_405.md) Purgation, which is
 the remaking of character in conformity with perceived reality, consists
 in these two essential acts: the cleansing of that which is to remain,
 the stripping of that which is to be done away. It may best be studied,
@@ -379,7 +379,7 @@ id="page_206">p. 206</span> <span id="an_iv.iii-Page_206"></span> little
 can the pure soul bear anything in it, any stain on it, that comes
 between it and God. To it all creatures are pure to enjoy; for it
 enjoyeth all creatures in God, and God in all creatures.”  <span
-id="fr_406"></span>[407](#fn_406)
+id="fr_406"></span>[407](#fn_406.md)
 
 <span id="an_iv.iii-p40"></span>“To it all creatures are pure to enjoy!”
 This is hardly the popular concept of the mystic; which credits him, in
@@ -398,7 +398,7 @@ things, as veils and vessels of the divine, which results from seeing
 “all creatures in God and God in all creatures.” “Whoso knows and loves
 the nobleness of My Freedom,” said the voice of God to Mechthild of
 Magdeburg, “cannot bear to love Me alone, he must love also Me in the
-creatures.”  <span id="fr_407"></span>[408](#fn_407) That all-embracing
+creatures.”  <span id="fr_407"></span>[408](#fn_407.md) That all-embracing
 love is characteristic of the illumination which results from a faithful
 endurance of the Purgative Way; for the corollary of “blessed are the
 pure in heart” is not merely a poetic statement. The annals of mysticism
@@ -415,7 +415,7 @@ possess all things, seek to possess nothing. . . . In detachment the
 spirit finds quiet and repose, for coveting nothing, nothing wearies it
 by elation, and nothing oppresses it by dejection, because it stands in
 the centre of its own humility. For as soon as it covets anything, it is
-immediately fatigued thereby.”  <span id="fr_408"></span>[409](#fn_408)
+immediately fatigued thereby.”  <span id="fr_408"></span>[409](#fn_408.md)
 
 <span id="an_iv.iii-p44"></span>It is not love but lust—the possessive
 case, the very food of selfhood—which poisons the relation between the
@@ -429,14 +429,14 @@ from us and strip ourselves of them: we must refrain from claiming
 anything for our own. When we do this, we shall have the best, fullest,
 clearest, and noblest knowledge that a man can have, and also the
 noblest and purest love and desire.”  <span
-id="fr_409"></span>[410](#fn_409) “Some there are,” says Plotinus, “that
+id="fr_409"></span>[410](#fn_409.md) “Some there are,” says Plotinus, “that
 for all their effort have not attained the Vision. . . . They have
 received the authentic Light, all their soul has gleamed as they have
 drawn near, but they come with a load on their shoulders which holds
 them back from the place of Vision. They have not ascended in the pure
 integrity of their being, but are burdened with that which keeps them
 apart. They are not yet made one within.”  <span
-id="fr_410"></span>[411](#fn_410) Accept Poverty, however, demolish
+id="fr_410"></span>[411](#fn_410.md) Accept Poverty, however, demolish
 ownership, the verb “to have” in every mood and tense, and this downward
 drag is at an end. At once the Cosmos belongs to you, and you to it. You
 escape the heresy of separateness, are “made one,” and merged in “the
@@ -462,12 +462,12 @@ odes:—
 > Povertate è nulla avere  
 > e nulla cosa poi volere;  
 > ad omne cosa possedere  
-> en spirito de libertate.”  <span id="fr_411"></span>[412](#fn_411)  
+> en spirito de libertate.”  <span id="fr_411"></span>[412](#fn_411.md)  
 
 <span id="an_iv.iii-p51"></span><span id="page_208">p. 208</span> <span
 id="an_iv.iii-Page_208"></span> “My little sisters the birds,” said St.
 Francis, greatest adept of that high wisdom, “Brother Sun, Sister Water,
-Mother Earth.”  <span id="fr_412"></span>[413](#fn_412) Not my servants,
+Mother Earth.”  <span id="fr_412"></span>[413](#fn_412.md) Not my servants,
 but my kindred and fellow-citizens; who may safely be loved so long as
 they are not desired. So, in almost identical terms, the dying Hindu
 ascetic:—
@@ -490,7 +490,7 @@ treasure so high excelling and so divine that we be not worthy to lay it
 up in our vile vessels; since this is that celestial virtue whereby all
 earthly things and fleeting are trodden underfoot, and whereby all
 hindrances are lifted from the soul, so that freely she may join herself
-to God Eternal.”  <span id="fr_413"></span>[414](#fn_413)
+to God Eternal.”  <span id="fr_413"></span>[414](#fn_413.md)
 
 <span id="an_iv.iii-p55"></span>Poverty, then, prepares man’s spirit for
 that union with God to which it aspires. She strips off the clothing
@@ -499,7 +499,7 @@ and shows him things as they are. “There are,” says Eckhart, “four
 ascending degrees of such spiritual poverty. 1. The soul’s contempt of
 all things that are not God. 2. Contempt of herself and her own works.
 3. Utter self-abandonment. 4. Self-loss in the incomprehensible Being of
-God.”  <span id="fr_414"></span>[415](#fn_414) So, in the “Sacrum
+God.”  <span id="fr_414"></span>[415](#fn_414.md) So, in the “Sacrum
 Commercium,” when the friars, climbing “the steeps of the hill,” found
 Lady Poverty at the summit “enthroned only in her nakedness,” she
 “preventing them with the blessings of sweetness,” said, “Why hasten ye
@@ -507,7 +507,7 @@ so from the vale of tears to the mount of light? If, peradventure, it is
 me that ye seek, lo, I am but as you behold, a little poor one, stricken
 with storms and far from any consolation.” Whereto the brothers answer,
 “ *Only admit us to thy peace; and we shall be saved* .”  <span
-id="fr_415"></span>[416](#fn_415)
+id="fr_415"></span>[416](#fn_415.md)
 
 <span id="an_iv.iii-p58"></span>The same truth: the saving peace of
 utter detachment from everything but Divine Reality—a detachment which
@@ -516,7 +516,7 @@ id="an_iv.iii-Page_209"></span> who have it the citizens of the world,
 and enabled the friars to say to Lady Poverty as they showed her from
 the hill of Assisi the whole countryside at her feet, <span
 id="an_iv.iii-p58.1"></span>“Hoc est claustrum nostrum, Domina,”  <span
-id="fr_416"></span>[417](#fn_416) —is taught by Meister Eckhart in a
+id="fr_416"></span>[417](#fn_416.md) —is taught by Meister Eckhart in a
 more homely parable.
 
 <span id="an_iv.iii-p60"></span>“There was a learned man who, eight
@@ -596,14 +596,14 @@ you?’
 <span id="an_iv.iii-p81"></span>“‘My soul is my kingdom, for I can so
 rule my senses inward and outward, that all the desires and power of my
 soul are in subjection, and this kingdom is greater than a kingdom on
-earth.’  <span id="fr_417"></span>[418](#fn_417)
+earth.’  <span id="fr_417"></span>[418](#fn_417.md)
 
 <span id="an_iv.iii-p83"></span>“‘What brought you to this perfection?’
 
 <span id="an_iv.iii-p84"></span>“‘My silence, my high thoughts, and my
 union with God. For I could not rest in anything that was less than God.
 Now I have found God; and in God have eternal rest and peace.’”  <span
-id="fr_418"></span>[419](#fn_418)
+id="fr_418"></span>[419](#fn_418.md)
 
 <span id="an_iv.iii-p86"></span>Poverty, then, consists in a breaking
 down of man’s inveterate habit of trying to rest in, or take seriously,
@@ -625,7 +625,7 @@ its object the uprooting from the soul of all violent passions, the
 extirpation from it of vicious desires and evil qualities; so that the
 heart may become detached from all that is not God, and give itself for
 its only occupation meditation upon the Divine Being.”  <span
-id="fr_419"></span>[420](#fn_419)
+id="fr_419"></span>[420](#fn_419.md)
 
 <span id="an_iv.iii-p89"></span>All those who have felt themselves urged
 towards the attainment of this transcendental vision, have found that
@@ -639,7 +639,7 @@ sacrifice than the weekly visit of the dustman. “Having entirely
 surrendered my own free-will,” says Al Ghazzali of his personal
 experience,” my heart no longer felt any distress in renouncing fame,
 wealth, or the society of my children.”  <span
-id="fr_420"></span>[421](#fn_420)
+id="fr_420"></span>[421](#fn_420.md)
 
 <span id="an_iv.iii-p91"></span>Others have reconciled self-surrender
 with a more moderate abandonment of outward things; for possessions take
@@ -660,7 +660,7 @@ marvels untrowed. Not as some, that change their clothes and not their
 souls; riches soothly it seems these forsake, and vices innumerable they
 cease not to gather. . . . If thou truly all thing for God forsake, *see
 more what thou despised than what thou forsaketh.* ”  <span
-id="fr_421"></span>[422](#fn_421)
+id="fr_421"></span>[422](#fn_421.md)
 
 <span id="an_iv.iii-p93"></span>The Poverty of the mystics, then, is a
 mental rather than a material state. Detachment of the will from all
@@ -670,13 +670,13 @@ substance, who are to be spiritually blessed. “Let all things be
 forsaken of me,” says Gerlac Petersen, “so that being poor I may be able
 in great inward spaciousness, and without any hurt, to suffer want of
 all those things which the mind of man can desire; out of or excepting
-God Himself.”  <span id="fr_422"></span>[423](#fn_422)
+God Himself.”  <span id="fr_422"></span>[423](#fn_422.md)
 
 <span id="an_iv.iii-p95"></span>“The soul,” says St. John of the Cross,
 “is not empty, so long as the desire for sensible things remains. But
 the absence of this desire for things produces emptiness and liberty of
 soul; even when there is an abundance of possessions.”  <span
-id="fr_423"></span>[424](#fn_423)
+id="fr_423"></span>[424](#fn_423.md)
 
 <span id="an_iv.iii-p97"></span>Every person in whom the mystical
 instinct awakes soon discovers in himself certain tastes or qualities
@@ -693,7 +693,7 @@ Truth whereby he see into all things,” says Petersen again, “who is so
 busied in other things, not perhaps evil, which operate . . . upon his
 thoughts and imagination and confuse and enchain his mind . . . that his
 sight of that unique One in Whom all things are is overclouded?”  <span
-id="fr_424"></span>[425](#fn_424)
+id="fr_424"></span>[425](#fn_424.md)
 
 <span id="an_iv.iii-p99"></span>The nature of these distracting factors
 which “confuse and enchain the mind” will vary with almost every
@@ -708,7 +708,7 @@ attain to the liberty of the divine union, whatever virtues it may
 possess. Desires and attachments affect the soul as the remora is said
 to affect a ship; that is but a little fish, yet when it clings to the
 vessel it effectually hinders its progress.”  <span
-id="fr_425"></span>[426](#fn_425)
+id="fr_425"></span>[426](#fn_425.md)
 
 <span id="an_iv.iii-p101"></span>Thus each adventurer must discover and
 extirpate all those interests which nourish selfhood, however innocent
@@ -716,10 +716,10 @@ or even useful these interests may seem in the eyes of the world. The
 only rule is the ruthless abandonment of everything which is in the way.
 “When any man God perfectly desires to love, all things as well inward
 as outward that to God’s love are contrary and from His love do let, he
-studies to do away.”  <span id="fr_426"></span>[427](#fn_426) This may
+studies to do away.”  <span id="fr_426"></span>[427](#fn_426.md) This may
 mean the prompt and utter self-stripping of St. Francis of Assisi, who
 cast off his actual clothing in his relentless determination to have
-nothing of his own:  <span id="fr_427"></span>[428](#fn_427) the
+nothing of his own:  <span id="fr_427"></span>[428](#fn_427.md) the
 reluctant bit-by-bit renunciations which at last set his follower Angela
 of Foligno free, or the drastic proceedings of Antoinette Bourignan, who
 found that a penny was enough to keep her from God.
@@ -749,7 +749,7 @@ her chamber about Four in the Morning, taking nothing but one Penny to
 buy Bread for that Day and it being said to her in the going out, *Where
 is thy Faith? In a Penny?* she threw it away. . . . Thus she went away
 wholly delivered from the heavy burthen of the Cares and Good Things of
-this World.”  <span id="fr_428"></span>[429](#fn_428)
+this World.”  <span id="fr_428"></span>[429](#fn_428.md)
 
 <span id="an_iv.iii-p106"></span>An admirable example of the mystic’s
 attitude towards the soul-destroying division of interests, the natural
@@ -766,7 +766,7 @@ every inch of territory; resisted every demand made upon it by the
 growing spiritual self. Bit by bit it was conquered, the sphere of her
 deeper life enlarged; until the moment came in which she surrendered,
 once for all, to her true destiny.  <span
-id="fr_429"></span>[430](#fn_429) <span id="page_214">p. 214</span>
+id="fr_429"></span>[430](#fn_429.md) <span id="page_214">p. 214</span>
 <span id="an_iv.iii-Page_214"></span>
 
 <span id="an_iv.iii-p108"></span>During the years of inward stress, of
@@ -815,7 +815,7 @@ sweet intimacy with God; and in the same way when she retired to be with
 God, and commenced to speak with Him, <span id="page_215">p. 215</span>
 <span id="an_iv.iii-Page_215"></span> the affections and thoughts which
 she carried with her from the grating took possession of her.”  <span
-id="fr_430"></span>[431](#fn_430)
+id="fr_430"></span>[431](#fn_430.md)
 
 <span id="an_iv.iii-p111"></span>Compare with these violent oscillations
 between the superficial and mystical consciousness—characteristic of
@@ -839,7 +839,7 @@ stimulate in the self. “Absolute poverty is thine,” says Tauler, “when
 thou canst not remember whether anybody has ever owed thee or been
 indebted to thee for anything; just as all things will be forgotten by
 thee in the last journey of death.”  <span
-id="fr_431"></span>[432](#fn_431) Poverty, in this sense, may be
+id="fr_431"></span>[432](#fn_431.md) Poverty, in this sense, may be
 consistent with the habitual and automatic use of luxuries which the
 abstracted self never even perceives. Thus we are told that St. Bernard
 was reproached by his enemies with the inconsistency of preaching
@@ -847,25 +847,25 @@ evangelical poverty whilst making his journeys from place to place on a
 magnificently caparisoned mule, which had been lent to him by the
 Cluniac monks. He expressed great contrition: but said that he had never
 noticed what it was that he rode upon.  <span
-id="fr_432"></span>[433](#fn_432)
+id="fr_432"></span>[433](#fn_432.md)
 
 <span id="an_iv.iii-p115"></span>Sometimes, the very activity which one
 self has rejected as an impediment becomes for another the channel of
 spiritual perception. I have mentioned the Curé d’Ars, who, among other
 inhibitions, refused to allow himself to smell a rose. Yet St. Francis
-preached to the flowers,  <span id="fr_433"></span>[434](#fn_433) and
+preached to the flowers,  <span id="fr_433"></span>[434](#fn_433.md) and
 ordered a plot to be set aside for their cultivation when the convent
 garden was made, “in order that all who saw them might remember the
-Eternal Sweetness.”  <span id="fr_434"></span>[435](#fn_434) <span
+Eternal Sweetness.”  <span id="fr_434"></span>[435](#fn_434.md) <span
 id="page_216">p. 216</span> <span id="an_iv.iii-Page_216"></span> So,
 too, we are told of his spiritual daughter, St. Douceline, that “out of
 doors one day with her sisters, she heard a bird’s note. ‘What a lovely
 song!’ she said: and the song drew her straight way to God. Did they
 bring her a flower, *its* *beauty had a like effect* .”  <span
-id="fr_435"></span>[436](#fn_435) “To look on trees, water, and
+id="fr_435"></span>[436](#fn_435.md) “To look on trees, water, and
 flowers,” says St. Teresa of her own beginnings of contemplation,
 “helped her to recollect the Presence of God.”  <span
-id="fr_436"></span>[437](#fn_436) Here we are reminded of Plato. “The
+id="fr_436"></span>[437](#fn_436.md) Here we are reminded of Plato. “The
 true order of going is to use the beauties of Earth as steps along which
 one mounts upwards for the sake of that other Beauty.” This, too, is the
 true order of Holy Poverty: the selfless use, not the selfish abuse of
@@ -884,7 +884,7 @@ mother pass by: from the obedience which identifies the voice of the
 director with the voice of God; from detachment such as that exhibited
 by the Blessed Angela of Foligno, who, though a true mystic, viewed with
 almost murderous satisfaction the deaths of relatives who were
-“impediments.”  <span id="fr_437"></span>[438](#fn_437) The detachment
+“impediments.”  <span id="fr_437"></span>[438](#fn_437.md) The detachment
 of the mystic is just a restoration to the liberty in which the soul was
 made: it is a state of joyous humility in which he cries, “Nought I am,
 nought I have, nought I lack.” To have arrived at this is to have
@@ -913,7 +913,7 @@ Kempis, “than the unmortified affections of thy own heart? . . . if we
 were perfectly dead unto ourselves, and not entangled within our own
 breasts, then should we be able to taste Divine things, and to have some
 experience of heavenly contemplation.”  <span
-id="fr_438"></span>[439](#fn_438)
+id="fr_438"></span>[439](#fn_438.md)
 
 <span id="an_iv.iii-p124"></span>In psychological language, the process
 of mortification is the process of setting up “new paths of neural
@@ -942,7 +942,7 @@ production of health and strength, the health and strength of the human
 consciousness viewed <span id="an_iv.iii-p125.1"></span> *sub specie
 aeternitatis* . “In the truest death of all created things, the sweetest
 and most natural life is hidden.”  <span
-id="fr_439"></span>[440](#fn_439)
+id="fr_439"></span>[440](#fn_439.md)
 
 <span id="an_iv.iii-p127"></span>“This dying,” says Tauler again, “has
 many degrees, and so has this life. A man might die a thousand deaths in
@@ -963,7 +963,7 @@ reply to him who dies in earnest even in the least things, a life which
 strengthens him immediately to die a greater death; a death so long and
 strong, that it seems to him hereafter more joyful, good and pleasant to
 die than to live, for he finds life in death and light shining in
-darkness.”  <span id="fr_440"></span>[441](#fn_440)
+darkness.”  <span id="fr_440"></span>[441](#fn_440.md)
 
 <span id="an_iv.iii-p129"></span>No more than detachment, then, is
 mortification an end in itself. It is a process, an education directed
@@ -980,14 +980,14 @@ such crossing and afflicting of the body, self-love and self-will (the
 poison of our spirits) are abated, and in time in a sort destroyed; and
 instead of them there enter into the soul the Divine love and Divine
 will, and take possession thereof.”  <span
-id="fr_441"></span>[442](#fn_441) This transformation accomplished,
+id="fr_441"></span>[442](#fn_441.md) This transformation accomplished,
 mortification may end, and often does, with startling abruptness. After
 a martyrdom which lasted sixteen years, says Suso—speaking as usual in
 the third person—of his own experience, “On a certain Whitsun Day a
 heavenly messenger appeared to him, and ordered him in God’s name to
 continue it no more. He at once ceased, and threw all the instruments of
 his sufferings \[irons, nails, hair-shirt, etc.\] into a river.”  <span
-id="fr_442"></span>[443](#fn_442) From this time onward, austerities of
+id="fr_442"></span>[443](#fn_442.md) From this time onward, austerities of
 this sort had no part in Suso’s life.
 
 <span id="an_iv.iii-p132"></span>The Franco-Flemish mystic who wrote,
@@ -1024,7 +1024,7 @@ gladsome. . . . Then is she mistress and lady over the virtues, for she
 hath them all within herself. . . . And then this soul taketh leave of
 virtues, as of the thraldom and painful travail of them that she had
 before, and now she is lady and sovereign, and they be subjects.”  <span
-id="fr_443"></span>[444](#fn_443)
+id="fr_443"></span>[444](#fn_443.md)
 
 <span id="an_iv.iii-p135"></span>Jacopone da Todi speaks to the same
 effect:—
@@ -1032,7 +1032,7 @@ effect:—
 > <span id="an_iv.iii-p135.1"></span> “La guerra è terminata  
 > de le virtu battaglia,  
 > de la mente travaglia  
-> cosa nulla contende”.  <span id="fr_444"></span>[445](#fn_444)  
+> cosa nulla contende”.  <span id="fr_444"></span>[445](#fn_444.md)  
 
 <span id="an_iv.iii-p137"></span>Thus, St. Catherine of Genoa, after a
 penitential period of four years, during which she was haunted by a
@@ -1044,7 +1044,7 @@ to continue such mortifications, she would have been unable to do so . .
 . the sight of her sins was now taken from her mind, so that henceforth
 she did not catch a glimpse of them: it was as though they had all been
 cast into the depths of the sea.”  <span
-id="fr_445"></span>[446](#fn_445) In other words, the new and higher
+id="fr_445"></span>[446](#fn_445.md) In other words, the new and higher
 centre of consciousness, finally established, asserted itself and
 annihilated the old. <span id="an_iv.iii-p138.1"></span>“La guerra e
 teminata,”all the energy of a strong nature flows freely in the new
@@ -1064,7 +1064,7 @@ behoveth, to draw out his heart and his mind from the fleshly love and
 the liking of all earthly creatures, from vain thoughts and from fleshly
 imaginations, and out from the love and the vicious feeling of himself,
 that his soul should find no rest in no fleshly thought, nor earthly
-affection.”  <span id="fr_446"></span>[447](#fn_446) The rule of Poverty
+affection.”  <span id="fr_446"></span>[447](#fn_446.md) The rule of Poverty
 must be applied to the temper of normal consciousness as well as to the
 tastes and possessions of the self. Under this tonic influence, real
 life will thrive, unreal life will wither and die.
@@ -1081,18 +1081,18 @@ personality is to be achieved, and with it some share in the boundless
 life of the One. It is thanks to this wrong distribution of energy, this
 sedulous feeding of the cuckoo in the nest, that “in order to approach
 the Absolute, mystics must withdraw from everything, even themselves.”
- <span id="fr_447"></span>[448](#fn_447) “The soul is plunged in utter
+ <span id="fr_447"></span>[448](#fn_447.md) “The soul is plunged in utter
 <span id="page_221">p. 221</span> <span id="an_iv.iii-Page_221"></span>
 ignorance, when she supposes that she can attain to the high estate of
 union with God before she casts away the desire of all things, natural
 and supernatural, which she may possess,” says St. John of the Cross,
 “because the distance between them and that which takes place in the
 state of pure transformation in God is infinite.”  <span
-id="fr_448"></span>[449](#fn_448) Again, “until the desires be lulled to
+id="fr_448"></span>[449](#fn_448.md) Again, “until the desires be lulled to
 sleep by the mortification of sensuality, and sensuality itself be
 mortified in them, so that it shall war against the spirit no more, the
 soul cannot go forth in perfect liberty to union with the Beloved.”
- <span id="fr_449"></span>[450](#fn_449)
+ <span id="fr_449"></span>[450](#fn_449.md)
 
 <span id="an_iv.iii-p145"></span>The death of selfhood in its narrow
 individualistic sense is, then, the primary object of mortification. All
@@ -1115,7 +1115,7 @@ in the “Treatise” of St. Catherine of Genoa as its nearest equivalent.
 “As she, plunged in the divine furnace of purifying love, was united to
 the Object of her love, and satisfied with all he wrought in her, so she
 understood it to be with the souls in Purgatory.”  <span
-id="fr_450"></span>[451](#fn_450)
+id="fr_450"></span>[451](#fn_450.md)
 
 <span id="an_iv.iii-p147"></span>This “divine furnace of purifying love”
 demands from the ardent soul a complete self-surrender, and voluntary
@@ -1129,12 +1129,12 @@ token, timidly offered by the awakened spirit to that all-demanding
 Lover from Whom St. Catherine of Siena heard the terrible words “I,
 Fire, the Acceptor of sacrifices, ravishing <span id="page_222">p.
 222</span> <span id="an_iv.iii-Page_222"></span> away from them their
-darkness, give the light.”  <span id="fr_451"></span>[452](#fn_451)
+darkness, give the light.”  <span id="fr_451"></span>[452](#fn_451.md)
 “Suffering is the ancient law of love,” says the Eternal Wisdom to Suso,
 “there is no quest without pain, there is no lover who is not also a
 martyr. Hence it is inevitable that he who would love so high a thing as
 Wisdom should sometimes suffer hindrances and griefs.”  <span
-id="fr_452"></span>[453](#fn_452)
+id="fr_452"></span>[453](#fn_452.md)
 
 <span id="an_iv.iii-p150"></span>The mystics have a profound conviction
 that Creation, Becoming, Transcendence, is a painful process at the
@@ -1147,7 +1147,7 @@ endured in the spiritual as well as in the material world: that adequate
 training must always hurt the athlete. Hence the mystics’ quest of the
 Absolute drives them to an eager and heroic union with the reality of
 suffering, as well as with the reality of joy.  <span
-id="fr_453"></span>[454](#fn_453)
+id="fr_453"></span>[454](#fn_453.md)
 
 <span id="an_iv.iii-p152"></span>This divine necessity of pain, this
 necessary sharing in the travail of a World of Becoming, is beautifully
@@ -1172,7 +1172,7 @@ sea of My Godhead must also be deeply immersed in the deep sea of bitter
 sorrow. I am exalted far above all things, and work supernatural and
 wonderful works in Myself: the deeper and more supernaturally a man
 crushes himself beneath all things the more supernaturally will he be
-drawn far above all things.’”  <span id="fr_454"></span>[455](#fn_454)
+drawn far above all things.’”  <span id="fr_454"></span>[455](#fn_454.md)
 
 <span id="an_iv.iii-p154"></span>Pain, therefore, the mystics always
 welcome and often court: sometimes in the crudely physical form which
@@ -1223,7 +1223,7 @@ corruption the web of eternal life.
 whom the love of lovely things was always paramount, how he forced
 himself to visit the lepers whose sight and smell disgusted him: how he
 served them and even kissed them.  <span
-id="fr_455"></span>[456](#fn_455) “Then as he departed, in very truth
+id="fr_455"></span>[456](#fn_455.md) “Then as he departed, in very truth
 that which had aforetime been bitter unto him, to wit, the sight and
 touch of lepers, now changed into sweetness. For, as he confessed, the
 sight of lepers had been so grievous unto him that he had been minded to
@@ -1244,7 +1244,7 @@ have eaten that medley of various meats,” says the legend, “at first he
 shrank back, for that he had never been used willingly even to see, much
 less to eat, such scraps. At length, conquering himself, he began to
 eat; and it seemed to him that in eating no rich syrup had he ever
-tasted aught so delightsome.”  <span id="fr_456"></span>[457](#fn_456)
+tasted aught so delightsome.”  <span id="fr_456"></span>[457](#fn_456.md)
 
 <span id="an_iv.iii-p161"></span>The object, then, of this
 self-discipline is, like the object of all purgation, freedom: freedom
@@ -1259,12 +1259,12 @@ in the way for the love of our Lord, *which was all* <span
 id="page_225">p. 225</span> <span id="an_iv.iii-Page_225"></span>
 *contrary to her disposition* in the years of her youth and prosperity,
 for then she abhorred them most.”  <span
-id="fr_457"></span>[458](#fn_457)
+id="fr_457"></span>[458](#fn_457.md)
 
 <span id="an_iv.iii-p163"></span>I spare the sensitive reader a detailed
 account of the loathsome ordeals by which St. Catherine of Genoa and
 Madame Guyon strove to cure themselves of squeamishness and acquire this
-liberty of spirit.  <span id="fr_458"></span>[459](#fn_458) They, like
+liberty of spirit.  <span id="fr_458"></span>[459](#fn_458.md) They, like
 St. Francis, St. Elizabeth of Hungary, and countless other seekers for
 the Real, sought out and served with humility and love the sick and the
 unclean; deliberately associated themselves with life in its meanest
@@ -1285,7 +1285,7 @@ own.” . . . “And while she worked such and so many mortifications of all
 her senses it was several times asked of her ‘Why do you do this?’ And
 she answered ‘I do not know, but I feel myself drawn inwardly to do this
 . . . and I think it is God’s will.’”  <span
-id="fr_459"></span>[460](#fn_459)
+id="fr_459"></span>[460](#fn_459.md)
 
 <span id="an_iv.iii-p166"></span>St. Ignatius Loyola, in the world a
 highly bred Spanish gentleman of refined personal habits, found in those
@@ -1295,7 +1295,7 @@ and became him not ill, he allowed it to grow naturally, and neither
 combed it nor trimmed it nor wore any head covering by day or night. For
 the same reason he did not pare his finger or toe nails; for on these
 points he had been fastidious to an extreme.”  <span
-id="fr_460"></span>[461](#fn_460)
+id="fr_460"></span>[461](#fn_460.md)
 
 <span id="an_iv.iii-p168"></span>Madame Guyon, a delicate girl of the
 leisured class, accustomed to the ordinary comforts of her station,
@@ -1310,7 +1310,7 @@ to me, causing pain. I wore girdles of hair and of sharp iron, I often
 held wormwood in my mouth.” “If I walked, I put stones in my shoes.
 These things, my God, Thou didst first inspire me to do, in order that I
 might be deprived even of the most innocent satisfactions.”  <span
-id="fr_461"></span>[462](#fn_461)
+id="fr_461"></span>[462](#fn_461.md)
 
 <span id="an_iv.iii-p170"></span>In the earlier stages of their
 education, a constant *agere contra*, even in apparently indifferent
@@ -1328,7 +1328,7 @@ acquainted with the Purgative Way. All realize the first law of
 Spiritual Alchemy, that you must tame the Green Lion before you give him
 wings. Thus in ‘Attar’s allegory of the Valleys, the valley of
 self-stripping and renunciation comes first.  <span
-id="fr_462"></span>[463](#fn_462) So too Al Ghazzali, the Persian
+id="fr_462"></span>[463](#fn_462.md) So too Al Ghazzali, the Persian
 contemplative, says of the period immediately following his acceptance
 of the principles of Sufi ism and consequent renunciation of property,
 “I went to Syria, where I remained more than two years; without any
@@ -1338,7 +1338,7 @@ perfect my character, and to prepare my heart to meditate upon God.” At
 the end of this period of pure purgation circumstances forced him to
 return to the world; much to his regret, since he “had not yet attained
 to the perfect ecstatic state, unless it were in one or two isolated
-moments.”  <span id="fr_463"></span>[464](#fn_463)
+moments.”  <span id="fr_463"></span>[464](#fn_463.md)
 
 <span id="an_iv.iii-p173"></span>Such gleams of ecstatic vision,
 distributed through the later stages of purification, seem to be normal
@@ -1346,7 +1346,7 @@ features of mystical development. Increasing control of the lower
 centres, of the surface intelligence and its scattered desires, permits
 the emergence of the transcendental perceptions. We have seen that Fox
 in his early stages displayed just such an alternation between the light
-and shade of the mystic way.  <span id="fr_464"></span>[465](#fn_464) So
+and shade of the mystic way.  <span id="fr_464"></span>[465](#fn_464.md) So
 too did that least ascetic of visionaries, Jacob Boehme. “Finding within
 myself a <span id="page_227">p. 227</span> <span
 id="an_iv.iii-Page_227"></span> powerful contrarium, namely the desires
@@ -1360,14 +1360,14 @@ battling, being aided by God, a wonderful light arose within my soul. It
 was a light entirely foreign to my unruly nature, but in it I recognized
 the true nature of God and man, and the relation existing between them,
 a thing which heretofore I had never understood, and for which I would
-never have sought.”  <span id="fr_465"></span>[466](#fn_465)
+never have sought.”  <span id="fr_465"></span>[466](#fn_465.md)
 
 <span id="an_iv.iii-p176"></span>In these words Boehme bridges the gap
 between Purgation and Illumination: showing these two states or ways as
 coexisting and complementary one to another, the light and dark sides of
 a developing mystic consciousness. As a fact, they do often exist side
 by side in the individual experience:  <span
-id="fr_466"></span>[467](#fn_466) and any treatment which exhibits them
+id="fr_466"></span>[467](#fn_466.md) and any treatment which exhibits them
 as sharply and completely separated may be convenient for purposes of
 study, but becomes at best diagrammatic if considered as a
 representation of the mystic life. The mystical consciousness, as we
@@ -1387,8 +1387,8 @@ call it <span id="an_iv.iii-p178.1"></span> *Ludus Amoris* *,* the “Game
 of Love” which God plays with the desirous soul. It is the “game of
 chess,” says St. Teresa, “in which game Humility is the Queen without
 whom none can checkmate the Divine King.”  <span
-id="fr_467"></span>[468](#fn_467) “Here,” says Martensen, “God plays a
-blest game with the soul.”  <span id="fr_468"></span>[469](#fn_468) The
+id="fr_467"></span>[468](#fn_467.md) “Here,” says Martensen, “God plays a
+blest game with the soul.”  <span id="fr_468"></span>[469](#fn_468.md) The
 “Game of Love” is a reflection in consciousness of that state of
 struggle, oscillation and unrest which precedes the first unification of
 the self. It ceases when this has taken place and the new level of
@@ -1399,11 +1399,11 @@ have arrived at perfection, I play no more the Game of Love, which
 consists in leaving and returning again to the soul; though thou must
 understand that it is not, properly speaking, I, the immovable GOD, Who
 thus elude them, but rather the sentiment that My charity gives them of
-Me.”  <span id="fr_469"></span>[470](#fn_469) In other terms, it is the
+Me.”  <span id="fr_469"></span>[470](#fn_469.md) In other terms, it is the
 imperfectly developed spiritual perception which becomes tired and
 fails, throwing the self back into the darkness and aridity whence it
 has emerged. So we are told of Rulman Merswin  <span
-id="fr_470"></span>[471](#fn_470) that after the period of harsh
+id="fr_470"></span>[471](#fn_470.md) that after the period of harsh
 physical mortification which succeeded his conversion came a year of
 “delirious joy alternating with the most bitter physical and moral
 sufferings.” It is, he says, “the Game of Love which the Lord plays with
@@ -1423,7 +1423,7 @@ the rapture of supernatural grace.” In this intermittent style, torn by
 these constant fluctuations between depression and delight, did Merswin,
 in whom the psychic instability of the artistic and mystic types is
 present in excess, pass through the purgative and illuminated states.
- <span id="fr_471"></span>[472](#fn_471) They appear to have coexisted
+ <span id="fr_471"></span>[472](#fn_471.md) They appear to have coexisted
 in his consciousness, first one and then the other emerging and taking
 control. Hence he did not attain the peaceful condition which is
 characteristic of full illumination, and normally closes the “First
@@ -1481,12 +1481,12 @@ were opened for an instant: obtained, as it were, a dazzling and
 unforgettable glimpse of the Uncreated Light. They must learn to stay
 open: to look steadfastly into the eyes of Love: so that, in the
 beautiful imagery of the mystics, the “faithful servant” may become the
-“secret friend.”  <span id="fr_472"></span>[473](#fn_472) Then it is,
+“secret friend.”  <span id="fr_472"></span>[473](#fn_472.md) Then it is,
 says Boehme, that “the divine glimpse and <span id="page_230">p.
 230</span> <span id="an_iv.iii-Page_230"></span> beam of joy ariseth in
 the soul, being a new eye, in which the dark, fiery soul conceiveth the
 Ens and Essence of the divine light.”  <span
-id="fr_473"></span>[474](#fn_473) So hard an art is not at once acquired
+id="fr_473"></span>[474](#fn_473.md) So hard an art is not at once acquired
 in its perfection. It is in accordance with all that we know of the
 conditions of development that a partial achievement should come first;
 bewildering moments of lucidity, splendid glimpses, whose brevity is due
@@ -1496,7 +1496,7 @@ upon Time.” Such is that play of light and dark, of exaltation and
 contrition, which often bridges the gap between the Purgative and the
 Illuminative states. Each by turn takes the field and ousts the other;
 for “these two eyes of the soul of man cannot both perform their work at
-once.”  <span id="fr_474"></span>[475](#fn_474)
+once.”  <span id="fr_474"></span>[475](#fn_474.md)
 
 <span id="an_iv.iii-p194"></span>To use another and more domestic
 metaphor, that Divine Child which was, in the hour of the mystic
@@ -1541,7 +1541,7 @@ Bridegroom, for the consideration of the Reader, who perhaps hath not
 yet been in this wedding chamber. It may be he will be desirous to
 follow us, and to enter into the Inner Choir, where the Soul joineth
 hands and danceth with Sophia, or the Divine Wisdom.”  <span
-id="fr_475"></span>[476](#fn_475)
+id="fr_475"></span>[476](#fn_475.md)
 
 <span id="an_iv.iii-p197"></span><span id="page_232">p. 232</span> <span
 id="an_iv.iii-Page_232"></span>
@@ -1550,57 +1550,57 @@ id="an_iv.iii-Page_232"></span>
 
 ### Footnotes
 
-<span id="fn_391"></span>[199:392](myst14.htm#fr_391) <span
+<span id="fn_391"></span>[199:392](myst14.htm#fr_391.md) <span
 id="an_iv.iii-p4.1"></span>
 
 <span id="an_iv.iii-p5"></span> “The Rod, the Root, and the Flower,”
 “Magna Moralia,” xxii.
 
-<span id="fn_392"></span>[200:393](myst14.htm#fr_392) <span
+<span id="fn_392"></span>[200:393](myst14.htm#fr_392.md) <span
 id="an_iv.iii-p6.1"></span>
 
 <span id="an_iv.iii-p7"></span> “The Scale of Perfection,” bk. ii. cap.
 xxxvii.
 
-<span id="fn_393"></span>[200:394](myst14.htm#fr_393) <span
+<span id="fn_393"></span>[200:394](myst14.htm#fr_393.md) <span
 id="an_iv.iii-p8.1"></span>
 
 <span id="an_iv.iii-p9"></span> Dialogo, cap. iv.
 
-<span id="fn_394"></span>[200:395](myst14.htm#fr_394) <span
+<span id="fn_394"></span>[200:395](myst14.htm#fr_394.md) <span
 id="an_iv.iii-p10.1"></span>
 
 <span id="an_iv.iii-p11"></span> “Ignitum cum Deo Soliloquium.” cap. xi.
 
-<span id="fn_395"></span>[201:396](myst14.htm#fr_395) <span
+<span id="fn_395"></span>[201:396](myst14.htm#fr_395.md) <span
 id="an_iv.iii-p12.1"></span>
 
 <span id="an_iv.iii-p13"></span> Richard Rolle, “The Mending of Life,”
 cap. i.
 
-<span id="fn_396"></span>[201:397](myst14.htm#fr_396) <span
+<span id="fn_396"></span>[201:397](myst14.htm#fr_396.md) <span
 id="an_iv.iii-p14.1"></span>
 
 <span id="an_iv.iii-p15"></span> *Ibid* ., “The Fire of Love,” bk. i.
 cap, xxiii.
 
-<span id="fn_397"></span>[201:398](myst14.htm#fr_397) <span
+<span id="fn_397"></span>[201:398](myst14.htm#fr_397.md) <span
 id="an_iv.iii-p15.1"></span>
 
 <span id="an_iv.iii-p16"></span> “Buchlein von der ewigen Weisheit,”
 cap. v.
 
-<span id="fn_398"></span>[202:399](myst14.htm#fr_398) <span
+<span id="fn_398"></span>[202:399](myst14.htm#fr_398.md) <span
 id="an_iv.iii-p17.1"></span>
 
 <span id="an_iv.iii-p18"></span> Jundt, “Rulman Merswin,” p. 19.
 
-<span id="fn_399"></span>[202:400](myst14.htm#fr_399) <span
+<span id="fn_399"></span>[202:400](myst14.htm#fr_399.md) <span
 id="an_iv.iii-p19.1"></span>
 
 <span id="an_iv.iii-p20"></span> Revelations of Divine Love,” cap. lvi.
 
-<span id="fn_400"></span>[202:401](myst14.htm#fr_400) <span
+<span id="fn_400"></span>[202:401](myst14.htm#fr_400.md) <span
 id="an_iv.iii-p21.1"></span>
 
 <span id="an_iv.iii-p22"></span> I offer no opinion upon the question of
@@ -1609,63 +1609,63 @@ Element of Religion,” vol. i., Appendix. Whoever may be responsible for
 its present form, the Treatise is clearly founded upon first-hand mystic
 experience: which is all that our present purpose requires.
 
-<span id="fn_401"></span>[203:402](myst14.htm#fr_401) <span
+<span id="fn_401"></span>[203:402](myst14.htm#fr_401.md) <span
 id="an_iv.iii-p22.1"></span>
 
 <span id="an_iv.iii-p23"></span> “Trattato di Purgatorio,” caps. ii. and
 iii.
 
-<span id="fn_402"></span>[203:403](myst14.htm#fr_402) <span
+<span id="fn_402"></span>[203:403](myst14.htm#fr_402.md) <span
 id="an_iv.iii-p24.2"></span>
 
 <span id="an_iv.iii-p25"></span> Purg. ii., 60.
 
-<span id="fn_403"></span>[203:404](myst14.htm#fr_403) <span
+<span id="fn_403"></span>[203:404](myst14.htm#fr_403.md) <span
 id="an_iv.iii-p26.1"></span>
 
 <span id="an_iv.iii-p27"></span> “Subida del Monte Carmelo I. i. cap.
 xiv.
 
-<span id="fn_404"></span>[203:405](myst14.htm#fr_404) <span
+<span id="fn_404"></span>[203:405](myst14.htm#fr_404.md) <span
 id="an_iv.iii-p29.2"></span>
 
 <span id="an_iv.iii-p30"></span> “De Imitatione Christi,” I. iii. cap.
 i.
 
-<span id="fn_405"></span>[204:406](myst14.htm#fr_405) <span
+<span id="fn_405"></span>[204:406](myst14.htm#fr_405.md) <span
 id="an_iv.iii-p33.1"></span>
 
 <span id="an_iv.iii-p34"></span> “Theologia Germanica,” cap. xiv.
 
-<span id="fn_406"></span>[206:407](myst14.htm#fr_406) <span
+<span id="fn_406"></span>[206:407](myst14.htm#fr_406.md) <span
 id="an_iv.iii-p38.1"></span>
 
 <span id="an_iv.iii-p39"></span> Meister Eckhart, quoted by Wackernagel,
 “Altdeutsches Lesebuch,” p. 891.
 
-<span id="fn_407"></span>[206:408](myst14.htm#fr_407) <span
+<span id="fn_407"></span>[206:408](myst14.htm#fr_407.md) <span
 id="an_iv.iii-p40.1"></span>
 
 <span id="an_iv.iii-p41"></span> “Das Fliessende Licht der Gottheit.”
 pt. vi., cap. 4.
 
-<span id="fn_408"></span>[206:409](myst14.htm#fr_408) <span
+<span id="fn_408"></span>[206:409](myst14.htm#fr_408.md) <span
 id="an_iv.iii-p42.1"></span>
 
 <span id="an_iv.iii-p43"></span> St. John of the Cross, “Subida del
 Monte Carmelo,” bk. i. cap. xiii.
 
-<span id="fn_409"></span>[207:410](myst14.htm#fr_409) <span
+<span id="fn_409"></span>[207:410](myst14.htm#fr_409.md) <span
 id="an_iv.iii-p44.1"></span>
 
 <span id="an_iv.iii-p45"></span> “Theologia Germanica,” cap. v.
 
-<span id="fn_410"></span>[207:411](myst14.htm#fr_410) <span
+<span id="fn_410"></span>[207:411](myst14.htm#fr_410.md) <span
 id="an_iv.iii-p45.1"></span>
 
 <span id="an_iv.iii-p46"></span> Ennead vi. 9.
 
-<span id="fn_411"></span>[207:412](myst14.htm#fr_411) <span
+<span id="fn_411"></span>[207:412](myst14.htm#fr_411.md) <span
 id="an_iv.iii-p47.14"></span>
 
 <span id="an_iv.iii-p48"></span> “Oh Poverty, high wisdom! to be subject
@@ -1679,36 +1679,36 @@ Itself may lodge therein. . . .
 to desire: but all things to possess in the spirit of liberty.”—
 *Jacopone da Todi.* Lauda lix.
 
-<span id="fn_412"></span>[208:413](myst14.htm#fr_412) <span
+<span id="fn_412"></span>[208:413](myst14.htm#fr_412.md) <span
 id="an_iv.iii-p51.1"></span>
 
 <span id="an_iv.iii-p52"></span> “Fioretti,” cap. xvi., and “Speculum,”
 cap. cxx.
 
-<span id="fn_413"></span>[208:414](myst14.htm#fr_413) <span
+<span id="fn_413"></span>[208:414](myst14.htm#fr_413.md) <span
 id="an_iv.iii-p53.1"></span>
 
 <span id="an_iv.iii-p54"></span> *Ibid* ., cap. xiii. (Arnold’s
 translation).
 
-<span id="fn_414"></span>[208:415](myst14.htm#fr_414) <span
+<span id="fn_414"></span>[208:415](myst14.htm#fr_414.md) <span
 id="an_iv.iii-p55.1"></span>
 
 <span id="an_iv.iii-p56"></span> Pfeiffer, Tractato x. (Eng.
 translation., p, 348).
 
-<span id="fn_415"></span>[208:416](myst14.htm#fr_415) <span
+<span id="fn_415"></span>[208:416](myst14.htm#fr_415.md) <span
 id="an_iv.iii-p56.1"></span>
 
 <span id="an_iv.iii-p57"></span> “Sacrum Commercium Beati Francisci cum
 Domina Paupertate,” caps. iv. and v. (Rawnsley’s translation).
 
-<span id="fn_416"></span>[209:417](myst14.htm#fr_416) <span
+<span id="fn_416"></span>[209:417](myst14.htm#fr_416.md) <span
 id="an_iv.iii-p58.2"></span>
 
 <span id="an_iv.iii-p59"></span> *Op. cit* ., cap. xxii.
 
-<span id="fn_417"></span>[210:418](myst14.htm#fr_417) <span
+<span id="fn_417"></span>[210:418](myst14.htm#fr_417.md) <span
 id="an_iv.iii-p81.1"></span>
 
 <span id="an_iv.iii-p82"></span> So Ruysbroeck, “Freewill is the king of
@@ -1716,71 +1716,71 @@ the soul . . . he should dwell in the chief city of that kingdom: that
 is to say, the desirous power of the soul” (“De Ornatu Spiritalium
 Nuptiarum,” I. i. cap. xxiv.).
 
-<span id="fn_418"></span>[210:419](myst14.htm#fr_418) <span
+<span id="fn_418"></span>[210:419](myst14.htm#fr_418.md) <span
 id="an_iv.iii-p84.1"></span>
 
 <span id="an_iv.iii-p85"></span> Meister Eckhart. Quoted in Martensen’s
 monograph, p. 107.
 
-<span id="fn_419"></span>[210:420](myst14.htm#fr_419) <span
+<span id="fn_419"></span>[210:420](myst14.htm#fr_419.md) <span
 id="an_iv.iii-p87.1"></span>
 
 <span id="an_iv.iii-p88"></span> Schmölders, “Essai sur les Écoles
 Philosophiques chez les Arabes,” p. 54.
 
-<span id="fn_420"></span>[211:421](myst14.htm#fr_420) <span
+<span id="fn_420"></span>[211:421](myst14.htm#fr_420.md) <span
 id="an_iv.iii-p89.1"></span>
 
 <span id="an_iv.iii-p90"></span> Schmölders, “Essai sur les Écoles
 Philosophiques chez les Arabes,” *op. cit.,* p. 58.
 
-<span id="fn_421"></span>[211:422](myst14.htm#fr_421) <span
+<span id="fn_421"></span>[211:422](myst14.htm#fr_421.md) <span
 id="an_iv.iii-p91.1"></span>
 
 <span id="an_iv.iii-p92"></span> Richard Rolle, “The Mending of Life,”
 cap. iii.
 
-<span id="fn_422"></span>[211:423](myst14.htm#fr_422) <span
+<span id="fn_422"></span>[211:423](myst14.htm#fr_422.md) <span
 id="an_iv.iii-p93.1"></span>
 
 <span id="an_iv.iii-p94"></span> “Ignitum cum Deo Soliloquium,” cap. i.
 
-<span id="fn_423"></span>[211:424](myst14.htm#fr_423) <span
+<span id="fn_423"></span>[211:424](myst14.htm#fr_423.md) <span
 id="an_iv.iii-p95.1"></span>
 
 <span id="an_iv.iii-p96"></span> “Subida del Monte Carmelo,” I. i. cap.
 iii.
 
-<span id="fn_424"></span>[212:425](myst14.htm#fr_424) <span
+<span id="fn_424"></span>[212:425](myst14.htm#fr_424.md) <span
 id="an_iv.iii-p97.1"></span>
 
 <span id="an_iv.iii-p98"></span> Gerlac Petersen, *op. cit.,* cap. xi.
 
-<span id="fn_425"></span>[212:426](myst14.htm#fr_425) <span
+<span id="fn_425"></span>[212:426](myst14.htm#fr_425.md) <span
 id="an_iv.iii-p99.1"></span>
 
 <span id="an_iv.iii-p100"></span> St. John of the Cross, *op. cit* .,
 cap. xi.
 
-<span id="fn_426"></span>[212:427](myst14.htm#fr_426) <span
+<span id="fn_426"></span>[212:427](myst14.htm#fr_426.md) <span
 id="an_iv.iii-p101.1"></span>
 
 <span id="an_iv.iii-p102"></span> Richard Rolle, “The Fire of Love,” bk.
 i. cap. xix.
 
-<span id="fn_427"></span>[212:428](myst14.htm#fr_427) <span
+<span id="fn_427"></span>[212:428](myst14.htm#fr_427.md) <span
 id="an_iv.iii-p102.1"></span>
 
 <span id="an_iv.iii-p103"></span> Thomas of Celano, Legenda Prima, cap.
 vi.
 
-<span id="fn_428"></span>[213:429](myst14.htm#fr_428) <span
+<span id="fn_428"></span>[213:429](myst14.htm#fr_428.md) <span
 id="an_iv.iii-p104.1"></span>
 
 <span id="an_iv.iii-p105"></span> “An Apology for Mrs. Antoinette
 Bourignan,” pp. 269-70.
 
-<span id="fn_429"></span>[213:430](myst14.htm#fr_429) <span
+<span id="fn_429"></span>[213:430](myst14.htm#fr_429.md) <span
 id="an_iv.iii-p106.1"></span>
 
 <span id="an_iv.iii-p107"></span> St. Teresa’s mystic states are
@@ -1789,48 +1789,48 @@ struggles might be regarded as the preliminaries of conversion. She was,
 however, proficient in contemplation when they occurred, and I therefore
 think that my arrangement is the right one.
 
-<span id="fn_430"></span>[215:431](myst14.htm#fr_430) <span
+<span id="fn_430"></span>[215:431](myst14.htm#fr_430.md) <span
 id="an_iv.iii-p109.1"></span>
 
 <span id="an_iv.iii-p110"></span> Quoted by G. Cunninghame Graham,
 “Santa Teresa,” vol. i. p. 139. For St. Teresa’s own account, see Vida,
 caps. vii-ix.
 
-<span id="fn_431"></span>[215:432](myst14.htm#fr_431) <span
+<span id="fn_431"></span>[215:432](myst14.htm#fr_431.md) <span
 id="an_iv.iii-p112.1"></span>
 
 <span id="an_iv.iii-p113"></span> Sermon on St. Paul (“The Inner Way,”
 p. 113).
 
-<span id="fn_432"></span>[215:433](myst14.htm#fr_432) <span
+<span id="fn_432"></span>[215:433](myst14.htm#fr_432.md) <span
 id="an_iv.iii-p113.1"></span>
 
 <span id="an_iv.iii-p114"></span> Cotter Morison, “Life and Times of St.
 Bernard,” p. 68.
 
-<span id="fn_433"></span>[215:434](myst14.htm#fr_433) <span
+<span id="fn_433"></span>[215:434](myst14.htm#fr_433.md) <span
 id="an_iv.iii-p115.1"></span>
 
 <span id="an_iv.iii-p116"></span> Thomas of Celano, Legenda Prima, cap.
 xxix.
 
-<span id="fn_434"></span>[215:435](myst14.htm#fr_434) <span
+<span id="fn_434"></span>[215:435](myst14.htm#fr_434.md) <span
 id="an_iv.iii-p116.1"></span>
 
 <span id="an_iv.iii-p117"></span> *Ibid* ., Legenda Secunda, cap. cxxiv.
 
-<span id="fn_435"></span>[216:436](myst14.htm#fr_435) <span
+<span id="fn_435"></span>[216:436](myst14.htm#fr_435.md) <span
 id="an_iv.iii-p117.1"></span>
 
 <span id="an_iv.iii-p118"></span> Anne Macdonell, “St. Douceline,” p.
 30.
 
-<span id="fn_436"></span>[216:437](myst14.htm#fr_436) <span
+<span id="fn_436"></span>[216:437](myst14.htm#fr_436.md) <span
 id="an_iv.iii-p118.1"></span>
 
 <span id="an_iv.iii-p119"></span> Vida, cap. ix., p. 6.
 
-<span id="fn_437"></span>[216:438](myst14.htm#fr_437) <span
+<span id="fn_437"></span>[216:438](myst14.htm#fr_437.md) <span
 id="an_iv.iii-p120.1"></span>
 
 <span id="an_iv.iii-p121"></span> “In that time and by God’s will there
@@ -1841,93 +1841,93 @@ God that He would rid me of them, I had great consolation of their
 deaths. (Ste Angèle de Foligno: “Le Livre de l’Expérience des Vrais
 Fidèles.” Ed. M. J. Ferry p. 10.)
 
-<span id="fn_438"></span>[217:439](myst14.htm#fr_438) <span
+<span id="fn_438"></span>[217:439](myst14.htm#fr_438.md) <span
 id="an_iv.iii-p122.1"></span>
 
 <span id="an_iv.iii-p123"></span> “De Imitatione Christi,” I. i. caps.
 iii. and ix.
 
-<span id="fn_439"></span>[217:440](myst14.htm#fr_439) <span
+<span id="fn_439"></span>[217:440](myst14.htm#fr_439.md) <span
 id="an_iv.iii-p125.2"></span>
 
 <span id="an_iv.iii-p126"></span> Tauler, Sermon on St. Paul (“The Inner
 Way,” p. 114).
 
-<span id="fn_440"></span>[218:441](myst14.htm#fr_440) <span
+<span id="fn_440"></span>[218:441](myst14.htm#fr_440.md) <span
 id="an_iv.iii-p127.1"></span>
 
 <span id="an_iv.iii-p128"></span> Tauler, Second Sermon for Easter Day.
 (This is not included in either of the English collections.)
 
-<span id="fn_441"></span>[218:442](myst14.htm#fr_441) <span
+<span id="fn_441"></span>[218:442](myst14.htm#fr_441.md) <span
 id="an_iv.iii-p129.1"></span>
 
 <span id="an_iv.iii-p130"></span> Augustine Baker, “Holy Wisdom,”
 Treatise ii. Sect. i., cap. 3.
 
-<span id="fn_442"></span>[218:443](myst14.htm#fr_442) <span
+<span id="fn_442"></span>[218:443](myst14.htm#fr_442.md) <span
 id="an_iv.iii-p130.1"></span>
 
 <span id="an_iv.iii-p131"></span> Suso, Leben. cap. xvii.
 
-<span id="fn_443"></span>[219:444](myst14.htm#fr_443) <span
+<span id="fn_443"></span>[219:444](myst14.htm#fr_443.md) <span
 id="an_iv.iii-p133.1"></span>
 
 <span id="an_iv.iii-p134"></span> “The Mirror of Simple Souls,” edited
 by Clare Kirchberger, p. 12.
 
-<span id="fn_444"></span>[219:445](myst14.htm#fr_444) <span
+<span id="fn_444"></span>[219:445](myst14.htm#fr_444.md) <span
 id="an_iv.iii-p135.6"></span>
 
 <span id="an_iv.iii-p136"></span> “The war is at an end: in the battle
 of virtues, in travail of mind, there is no more striving” (Lauda xci.).
 
-<span id="fn_445"></span>[220:446](myst14.htm#fr_445) <span
+<span id="fn_445"></span>[220:446](myst14.htm#fr_445.md) <span
 id="an_iv.iii-p137.1"></span>
 
 <span id="an_iv.iii-p138"></span> “Vita e Dottrina,” cap. v.
 
-<span id="fn_446"></span>[220:447](myst14.htm#fr_446) <span
+<span id="fn_446"></span>[220:447](myst14.htm#fr_446.md) <span
 id="an_iv.iii-p139.1"></span>
 
 <span id="an_iv.iii-p140"></span> Walter Hilton “The Scale of
 Perfection,” bk. i. cap. 8, xlii.
 
-<span id="fn_447"></span>[220:448](myst14.htm#fr_447) <span
+<span id="fn_447"></span>[220:448](myst14.htm#fr_447.md) <span
 id="an_iv.iii-p141.1"></span>
 
 <span id="an_iv.iii-p142"></span> Récéjac, “Fondements de la
 Connaissance Mystique,” p. 78. This, however, is to be understood of the
 initial training of the mystic; not of his final state.
 
-<span id="fn_448"></span>[221:449](myst14.htm#fr_448) <span
+<span id="fn_448"></span>[221:449](myst14.htm#fr_448.md) <span
 id="an_iv.iii-p142.1"></span>
 
 <span id="an_iv.iii-p143"></span> “Subida del Monte Carmelo,” I. i. cap.
 v.
 
-<span id="fn_449"></span>[221:450](myst14.htm#fr_449) <span
+<span id="fn_449"></span>[221:450](myst14.htm#fr_449.md) <span
 id="an_iv.iii-p143.1"></span>
 
 <span id="an_iv.iii-p144"></span> *Op. cit.,* bk. i. cap. xv.
 
-<span id="fn_450"></span>[221:451](myst14.htm#fr_450) <span
+<span id="fn_450"></span>[221:451](myst14.htm#fr_450.md) <span
 id="an_iv.iii-p145.1"></span>
 
 <span id="an_iv.iii-p146"></span> S. Caterina di Genova, “Trattato di
 Purgatorio,” cap. i.
 
-<span id="fn_451"></span>[222:452](myst14.htm#fr_451) <span
+<span id="fn_451"></span>[222:452](myst14.htm#fr_451.md) <span
 id="an_iv.iii-p147.1"></span>
 
 <span id="an_iv.iii-p148"></span> Dialogo, cap. lxxxv.
 
-<span id="fn_452"></span>[222:453](myst14.htm#fr_452) <span
+<span id="fn_452"></span>[222:453](myst14.htm#fr_452.md) <span
 id="an_iv.iii-p148.1"></span>
 
 <span id="an_iv.iii-p149"></span> Leben, cap. iv.
 
-<span id="fn_453"></span>[222:454](myst14.htm#fr_453) <span
+<span id="fn_453"></span>[222:454](myst14.htm#fr_453.md) <span
 id="an_iv.iii-p150.1"></span>
 
 <span id="an_iv.iii-p151"></span> “This truth, of which she was the
@@ -1946,24 +1946,24 @@ there.’” (J. K. Huysmans, “Sainte Lydwine de Schiedam,” 3rd edition, p.
 225).Examples can be multiplied indefinitely from the lives and works of
 the mystics of all periods.
 
-<span id="fn_454"></span>[223:455](myst14.htm#fr_454) <span
+<span id="fn_454"></span>[223:455](myst14.htm#fr_454.md) <span
 id="an_iv.iii-p152.1"></span>
 
 <span id="an_iv.iii-p153"></span> Tauler, Sermon on St. Paul (“The Inner
 Way,” p. 114).
 
-<span id="fn_455"></span>[224:456](myst14.htm#fr_455) <span
+<span id="fn_455"></span>[224:456](myst14.htm#fr_455.md) <span
 id="an_iv.iii-p157.1"></span>
 
 <span id="an_iv.iii-p158"></span> Thomas of Celano, Legenda Prima, cap.
 vii.; 3 Soc. cap. iv.
 
-<span id="fn_456"></span>[224:457](myst14.htm#fr_456) <span
+<span id="fn_456"></span>[224:457](myst14.htm#fr_456.md) <span
 id="an_iv.iii-p159.1"></span>
 
 <span id="an_iv.iii-p160"></span> 3 Soc. cap. vii.
 
-<span id="fn_457"></span>[225:458](myst14.htm#fr_457) <span
+<span id="fn_457"></span>[225:458](myst14.htm#fr_457.md) <span
 id="an_iv.iii-p161.1"></span>
 
 <span id="an_iv.iii-p162"></span> “A Short Treatise of Contemplation
@@ -1971,79 +1971,79 @@ taken out of the boke of Margery Kempe ancresse of Lynne.” London, 1521.
 Reprinted and ed. by F. Gardner in “The Cell of Self-Knowledge,” 1910,
 p. 49.
 
-<span id="fn_458"></span>[225:459](myst14.htm#fr_458) <span
+<span id="fn_458"></span>[225:459](myst14.htm#fr_458.md) <span
 id="an_iv.iii-p163.1"></span>
 
 <span id="an_iv.iii-p164"></span> The curious are referred to the
 original authorities. For St. Catherine chapter viii. of the “Vita e
 Dottrina”: for Madame Guyon, Vie, pt. i. ch. x.
 
-<span id="fn_459"></span>[225:460](myst14.htm#fr_459) <span
+<span id="fn_459"></span>[225:460](myst14.htm#fr_459.md) <span
 id="an_iv.iii-p164.1"></span>
 
 <span id="an_iv.iii-p165"></span> “Vita e Dottrina,” cap. v.
 
-<span id="fn_460"></span>[225:461](myst14.htm#fr_460) <span
+<span id="fn_460"></span>[225:461](myst14.htm#fr_460.md) <span
 id="an_iv.iii-p166.1"></span>
 
 <span id="an_iv.iii-p167"></span> Testament, cap. ii. (Rix’s
 translation).
 
-<span id="fn_461"></span>[226:462](myst14.htm#fr_461) <span
+<span id="fn_461"></span>[226:462](myst14.htm#fr_461.md) <span
 id="an_iv.iii-p168.1"></span>
 
 <span id="an_iv.iii-p169"></span> Vie, pt. i. cap. x.
 
-<span id="fn_462"></span>[226:463](myst14.htm#fr_462) <span
+<span id="fn_462"></span>[226:463](myst14.htm#fr_462.md) <span
 id="an_iv.iii-p170.1"></span>
 
 <span id="an_iv.iii-p171"></span> *Supra* , p. 131.
 
-<span id="fn_463"></span>[226:464](myst14.htm#fr_463) <span
+<span id="fn_463"></span>[226:464](myst14.htm#fr_463.md) <span
 id="an_iv.iii-p171.1"></span>
 
 <span id="an_iv.iii-p172"></span> Schmölders, “Essay sur les Écoles
 Philosophiques chez les Arabes,” p. 59.
 
-<span id="fn_464"></span>[226:465](myst14.htm#fr_464) <span
+<span id="fn_464"></span>[226:465](myst14.htm#fr_464.md) <span
 id="an_iv.iii-p173.1"></span>
 
 <span id="an_iv.iii-p174"></span> *Supra* , p. 177.
 
-<span id="fn_465"></span>[227:466](myst14.htm#fr_465) <span
+<span id="fn_465"></span>[227:466](myst14.htm#fr_465.md) <span
 id="an_iv.iii-p174.1"></span>
 
 <span id="an_iv.iii-p175"></span> Hartmann, “Life and Doctrines of Jacob
 Boehme,” p. 50.
 
-<span id="fn_466"></span>[227:467](myst14.htm#fr_466) <span
+<span id="fn_466"></span>[227:467](myst14.htm#fr_466.md) <span
 id="an_iv.iii-p176.1"></span>
 
 <span id="an_iv.iii-p177"></span> Compare the case of St. Teresa already
 cited, *supra* , p. 213.
 
-<span id="fn_467"></span>[227:468](myst14.htm#fr_467) <span
+<span id="fn_467"></span>[227:468](myst14.htm#fr_467.md) <span
 id="an_iv.iii-p178.2"></span>
 
 <span id="an_iv.iii-p179"></span> “Camino de Perfeccion,” cap. xvii.
 
-<span id="fn_468"></span>[227:469](myst14.htm#fr_468) <span
+<span id="fn_468"></span>[227:469](myst14.htm#fr_468.md) <span
 id="an_iv.iii-p179.1"></span>
 
 <span id="an_iv.iii-p180"></span> Martensen, “Meister Eckhart,” p. 75.
 
-<span id="fn_469"></span>[228:470](myst14.htm#fr_469) <span
+<span id="fn_469"></span>[228:470](myst14.htm#fr_469.md) <span
 id="an_iv.iii-p180.1"></span>
 
 <span id="an_iv.iii-p181"></span> Dialogo, cap. lxxviii.
 
-<span id="fn_470"></span>[228:471](myst14.htm#fr_470) <span
+<span id="fn_470"></span>[228:471](myst14.htm#fr_470.md) <span
 id="an_iv.iii-p181.1"></span>
 
 <span id="an_iv.iii-p182"></span> Jundt, “Rulman Merswin,” pp. 10 and
 20.
 
-<span id="fn_471"></span>[228:472](myst14.htm#fr_471) <span
+<span id="fn_471"></span>[228:472](myst14.htm#fr_471.md) <span
 id="an_iv.iii-p182.1"></span>
 
 <span id="an_iv.iii-p183"></span> We recognize here the chief symptoms
@@ -2054,24 +2054,24 @@ taken into account when studying their experiences. For a technical
 description, see W. McDougall: “An Introduction to Abnormal Psychology,”
 caps. xxii and xxviii.
 
-<span id="fn_472"></span>[229:473](myst14.htm#fr_472) <span
+<span id="fn_472"></span>[229:473](myst14.htm#fr_472.md) <span
 id="an_iv.iii-p190.1"></span>
 
 <span id="an_iv.iii-p191"></span> See Ruysbroeck, “De Calculo,” cap.
 vii. The metaphor is an ancient one and occurs in many patristic and
 mediaeval writers.
 
-<span id="fn_473"></span>[230:474](myst14.htm#fr_473) <span
+<span id="fn_473"></span>[230:474](myst14.htm#fr_473.md) <span
 id="an_iv.iii-p191.1"></span>
 
 <span id="an_iv.iii-p192"></span> “The Epistles of Jacob Boehme,” p. 19.
 
-<span id="fn_474"></span>[230:475](myst14.htm#fr_474) <span
+<span id="fn_474"></span>[230:475](myst14.htm#fr_474.md) <span
 id="an_iv.iii-p192.1"></span>
 
 <span id="an_iv.iii-p193"></span> “Theologia Germanica,” cap. vii.
 
-<span id="fn_475"></span>[231:476](myst14.htm#fr_475) <span
+<span id="fn_475"></span>[231:476](myst14.htm#fr_475.md) <span
 id="an_iv.iii-p195.1"></span>
 
 <span id="an_iv.iii-p196"></span> Jacob Boehme, “The Way to Christ,” pt.
@@ -2082,6 +2082,6 @@ works).
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Illumination of the Self](myst15)
+[Next: IV. The Illumination of the Self](myst15.md)
 
 </div>

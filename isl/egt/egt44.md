@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt43)  [Next](egt45) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt43)  [Next](egt45.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ world of love and search by the Persian *water* and the Arabic *father*.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE DESIRE FOR GOD.](egt45)
+[Next: ON THE DESIRE FOR GOD.](egt45.md)

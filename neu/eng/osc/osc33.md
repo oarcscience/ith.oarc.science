@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc32)  [Next](osc34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc32)  [Next](osc34.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ social.
 
 ------------------------------------------------------------------------
 
-[Next: (2) Kissing the Bride](osc34)
+[Next: (2) Kissing the Bride](osc34.md)

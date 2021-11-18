@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb26)  [Next](isb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb26)  [Next](isb28.md) 
 
 ------------------------------------------------------------------------
 
@@ -456,4 +456,4 @@ and its politicians.
 
 ------------------------------------------------------------------------
 
-[Next: Belfast to the Causeway](isb28)
+[Next: Belfast to the Causeway](isb28.md)

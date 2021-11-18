@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs19)  [Next](abs21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs19)  [Next](abs21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -60,7 +60,7 @@ cairns. This brings us to the hoax theory.
 
 <span id="img_map13"></span> <span align="CENTER"> [![MAP XIII. THE OLD
 WORLD](tn/map13.jpg)  
-Click to enlarge](img/map13.jpg)  
+Click to enlarge](img/map13.jpg.md)  
 MAP XIII. THE OLD WORLD  
 </span>
 
@@ -206,7 +206,7 @@ restricted distributions. Third, this distribution is not in any way as
 haphazard as it at first appears to be, while apparent inconsistencies
 and complete illogicalities in it are not only perfectly logical if one
 particular aspect of geography is taken into consideration—that is the
-geography of vegetative forms (see [Map XVI](abs22.htm#img_map16) and
+geography of vegetative forms (see [Map XVI](abs22.htm#img_map16.md) and
 the explanation in Chapter 18)—but actually go far to confirming the
 validity of the whole business. A fourth point we should bear in mind is
 that size has nothing much to do with the matter, for the distinction
@@ -412,7 +412,7 @@ be, then the *Dwendi* might probably go into the same group. At the
 moment, and for reasons that I go into more fully in the next chapter,
 it is my opinion that the latter are just groups of Mayas or related
 peoples, some of whom are really almost pigmies (see [Fig.
-56](abs04.htm#img_pl56), the photograph of a Mayan mother, standing
+56](abs04.htm#img_pl56.md), the photograph of a Mayan mother, standing
 beside me, holding one of my godchildren).
 
 I have also omitted the *Muhalu* and the Tano River giant of Africa as,
@@ -724,7 +724,7 @@ whole gamut of the sciences. In this case, we have the added importance
 \[to us\] of evidence at the same time of a really very modern-type of
 man which, if some experts are now finally correct, could antedate quite
 a number of the so-called sub-humans, and sub-hominids. <span
-id="fr_48"></span>[\*](#fn_47)
+id="fr_48"></span>[\*](#fn_47.md)
 
 In our search for candidates for living ABSMs, therefore, we need not go
 dashing off into the remote past looking for bandy-legged, long-armed,
@@ -995,8 +995,8 @@ There remains then the *Meh-Teh—Golub-yavan* group of creatures, the
 original "Abominable Snowmen" which, as it now turns out seem to be the
 least "human" of all. Their distribution is odd but may be fully
 rationalized once again by referring to a map on which both topography
-and vegetation are shown (see Maps [XI](abs16.htm#img_map11) and
-[XVI](abs22.htm#img_map16)). The creature is obviously an inhabitant of
+and vegetation are shown (see Maps [XI](abs16.htm#img_map11.md) and
+[XVI](abs22.htm#img_map16).md). The creature is obviously an inhabitant of
 the upper montane forests, but of the temperate zones; not of the
 tropical, such as occur on the Indo-Chinese Massif. As is explained in
 Chapter 18 the various vegetational *belts* that girdle the earth are
@@ -1079,11 +1079,11 @@ as an early offshoot of the Pongids.
 
 ### Footnotes
 
-<span id="fn_47"></span>[365:\*](abs20.htm#fr_48) By "sub-human" I mean
+<span id="fn_47"></span>[365:\*](abs20.htm#fr_48.md) By "sub-human" I mean
 Hominids that are not evolved into a form we can call *Homo* *sapiens*:
 by "sub-hominid" I mean species of Hominids of *genera* other than
 *Homo*.
 
 ------------------------------------------------------------------------
 
-[Next: 17. In the Beginning …](abs21)
+[Next: 17. In the Beginning …](abs21.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag29)  [Next](rag31) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag29)  [Next](rag31.md) 
 
 ------------------------------------------------------------------------
 
@@ -484,4 +484,4 @@ mythologies?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Objections Considered](rag31)
+[Next: Chapter IV. Objections Considered](rag31.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](rufo17)  [Next](rufo19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](rufo17)  [Next](rufo19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Report on Unidentified Flying Objects*, by Edward J. Ruppelt,
 \[1956\], at Intangible Textual Heritage
 
@@ -969,4 +969,4 @@ continue to assume that the UFO's weren't interplanetary vehicles.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seventeen. What Are UFO's?](rufo19)
+[Next: Chapter Seventeen. What Are UFO's?](rufo19.md)

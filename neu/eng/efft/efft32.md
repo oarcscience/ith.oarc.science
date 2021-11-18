@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft31)  [Next](efft33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft31)  [Next](efft33.md) 
 
 ------------------------------------------------------------------------
 
-# THE GREEN CHILDREN.  <span id="fr_38"></span>[1](#fn_38)
+# THE GREEN CHILDREN.  <span id="fr_38"></span>[1](#fn_38.md)
 
 "ANOTHER wonderful thing," says Ralph of Coggeshall, "happened in
 Suffolk, at St. Mary's of the Wolf-pits. A boy and his sister were found
@@ -65,9 +65,9 @@ divided from it by a very broad river.
 
 ### Footnotes
 
-<span id="fn_38"></span>[1](efft32.htm#fr_38) T. Keightley, *The Fairy
+<span id="fn_38"></span>[1](efft32.htm#fr_38.md) T. Keightley, *The Fairy
 Mythology*, p. 281.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Banquet](efft33)
+[Next: The Fairy Banquet](efft33.md)

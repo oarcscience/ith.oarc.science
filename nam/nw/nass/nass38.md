@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass37)  [Next](nass39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass37)  [Next](nass39.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ children with food.
 
 ------------------------------------------------------------------------
 
-[Next: Little-Eagle](nass39)
+[Next: Little-Eagle](nass39.md)

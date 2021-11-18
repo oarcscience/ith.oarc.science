@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe294)  [Next](prwe296) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe294)  [Next](prwe296.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ foot with saliva.
 
 ------------------------------------------------------------------------
 
-[Next: The Horse-Shoe](prwe296)
+[Next: The Horse-Shoe](prwe296.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph06)  [Next](sph08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph06)  [Next](sph08.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
      ... Ἕλθε, Κύπρι,  
 Χπρυσίασιν ἐν κυλίκεσσιν ἄβραισ  
 συμμεμιγμένον θαλίαισι νέκταρ  
-     οἰνοχόεισα. [\[transcription\]](xlatall.htm#10)
+     οἰνοχόεισα. [\[transcription\]](xlatall.htm#10.md)
 
 Come, goddess of Cyprus, and in golden cups serve nectar delicately
 mixed with delights.
@@ -24,4 +24,4 @@ A.D. The fragment is apparently part of an invocation to Aphrodite.
 
 ------------------------------------------------------------------------
 
-[Next: 7: If thee, Cyprus or Paphos or Panormos...](sph08)
+[Next: 7: If thee, Cyprus or Paphos or Panormos...](sph08.md)

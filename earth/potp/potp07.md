@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp06)  [Next](potp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp06)  [Next](potp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ inclination or
 to show how the magnetic needle works in passing into the interior of
 the earth, and how the compass would lead explorers out again, they not
 knowing the earth was hollow.](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 THE WORKING OF THE COMPASS.  
 This illustration is presented to show how the magnetic needle works in
 passing into the interior of the earth, and how the compass would lead
@@ -208,4 +208,4 @@ Hence a weak or vacillating needle.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Around the Curve](potp08)
+[Next: Chapter IV. Around the Curve](potp08.md)

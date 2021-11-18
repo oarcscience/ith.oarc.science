@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](wov30)  [Next](wov32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](wov30)  [Next](wov32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddha's Way of Virtue*, by W.D.C Wagiswara and K.J. Saunders,
 \[1920\], at Intangible Textual Heritage
 
@@ -425,7 +425,7 @@ Arahats were said to possess this power *(jddhi)* of flying through the
 air, or "levitation." There are still Hindus who claim these powers: but
 southern Buddhism does not take them seriously. I asked several
 Buddhists if this power were now attainable. "Possibly in Thibet," they
-answered. <span id="fr_5"></span>[\*](#fn_5)
+answered. <span id="fr_5"></span>[\*](#fn_5.md)
 
 176*. Cf.* Jas. ii, 10: "Whosoever shall keep the whole
 
@@ -704,9 +704,9 @@ sense fixed creatures may be such things as molluscs.
 
 ### Footnotes
 
-<span id="fn_5"></span>[93:\*](wov31.htm#fr_5) "*The Buddhist,*" vol. i,
+<span id="fn_5"></span>[93:\*](wov31.htm#fr_5.md) "*The Buddhist,*" vol. i,
 No. 9, contains an account by an eye-witness of a self-levitated lāma.
 
 ------------------------------------------------------------------------
 
-[Next: Illustrative Sayings of the Disciples of the Buddha](wov32)
+[Next: Illustrative Sayings of the Disciples of the Buddha](wov32.md)

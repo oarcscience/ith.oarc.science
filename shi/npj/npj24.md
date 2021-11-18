@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj23) 
-[Next](npj25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj23.md) 
+[Next](npj25.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Suddenly the figure of a woman appeared at the bedside. "I have found
 you!" it cried. "What stranger is this that lies beside you? What
 treachery is this that you flaunt before my eyes?" And with these words
 the apparition stooped over the bed, and made as though to drag away the
-sleeping girl from Genji's side." <span id="fr_126"></span>[1](#fn_124)
+sleeping girl from Genji's side." <span id="fr_126"></span>[1](#fn_124.md)
 
 Before dawn Yūgao was dead, stricken by the "living phantom" of Rokujō,
 embodiment of her baleful jealousy.
@@ -45,7 +45,7 @@ though the Japanese word, *miko*, always has a feminine meaning. The
 "Romance of Genji" (*Genji Monogatari*) was written by Lady Murasaki
 Shikibu and was finished in the year 1004 A. D. Of its fifty-four
 chapters only seventeen have been translated. <span
-id="fr_127"></span>[2](#fn_125) It furnished the plots of many Nō plays,
+id="fr_127"></span>[2](#fn_125.md) It furnished the plots of many Nō plays,
 of which *Suma Genji* (Genji's exile
 
 <span id="page_144">p. 144</span>
@@ -68,12 +68,12 @@ Zenchiku.
 
 ### Footnotes
 
-<span id="fn_124"></span>[143:1](npj24.htm#fr_126) Genji Monogatari
+<span id="fn_124"></span>[143:1](npj24.htm#fr_126.md) Genji Monogatari
 (Romance of Genji), chap. iii., Hakubunkwan Edition, p. 87.
 
-<span id="fn_125"></span>[143:2](npj24.htm#fr_127) By Baron Suyematsu in
+<span id="fn_125"></span>[143:2](npj24.htm#fr_127.md) By Baron Suyematsu in
 1881.
 
 ------------------------------------------------------------------------
 
-[Next: Aoi no Uye (Princess Hollyhock)](npj25)
+[Next: Aoi no Uye (Princess Hollyhock)](npj25.md)

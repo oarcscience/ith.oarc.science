@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh09)  [Next](boh11) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh09)  [Next](boh11.md) 
 
 ------------------------------------------------------------------------
 
@@ -481,4 +481,4 @@ and games, songs and dances.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: In England and Man](boh11)
+[Next: Chapter IX: In England and Man](boh11.md)

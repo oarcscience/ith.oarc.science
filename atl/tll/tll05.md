@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll04)  [Next](tll06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll04)  [Next](tll06.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ to occult students.
 
 ------------------------------------------------------------------------
 
-[Next: Reptiles and Pine Forests](tll06)
+[Next: Reptiles and Pine Forests](tll06.md)

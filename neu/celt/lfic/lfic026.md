@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic025)  [Next](lfic027) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic025)  [Next](lfic027.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ between fingers and toes.
 
 ------------------------------------------------------------------------
 
-[Next: The Black Cattle of Durzy Island](lfic027)
+[Next: The Black Cattle of Durzy Island](lfic027.md)

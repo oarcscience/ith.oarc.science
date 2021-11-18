@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip10)  [Next](fip12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip10)  [Next](fip12.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ the lady--
 
 "Renounce your evil coorses," says she, "you villain, or you'll repint
 it too late; be a good man for the futhur, and go to your duty <span
-id="fr_4"></span>[1](#fn_4) reg'lar, and now," says she, "take me back
+id="fr_4"></span>[1](#fn_4.md) reg'lar, and now," says she, "take me back
 and put me into the river again, where you found me."
 
 "Oh, my lady," says the sojer, "how could I have the heart to drownd a
@@ -112,7 +112,7 @@ agin, and threw the throut into the river. The minit he did, the wather
 was as red as blood for a little while, by rayson av the cut, I suppose,
 until the sthrame washed the stain away; and to this day there's a
 little red mark an the throut's side, where it was cut. <span
-id="fr_5"></span>[2](#fn_5)
+id="fr_5"></span>[2](#fn_5.md)
 
 Well, sir, from that day out the sojer was an altered man, and reformed
 his ways, and went to his duty reg'lar, and fasted three times
@@ -136,12 +136,12 @@ the pious, who have done due penance.\]
 
 ### Footnotes
 
-<span id="fn_4"></span>[37:1](fip11.htm#fr_4) The Irish peasant calls
+<span id="fn_4"></span>[37:1](fip11.htm#fr_4.md) The Irish peasant calls
 his attendance at the confessional "going to his duty".
 
-<span id="fn_5"></span>[37:2](fip11.htm#fr_5) The fish has really a red
+<span id="fn_5"></span>[37:2](fip11.htm#fr_5.md) The fish has really a red
 spot on its side.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Thorn, An Ulster Ballad, by Sir Samuel Ferguson](fip12)
+[Next: The Fairy Thorn, An Ulster Ballad, by Sir Samuel Ferguson](fip12.md)

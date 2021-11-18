@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph48)  [Next](sph50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph48)  [Next](sph50.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 Δέδυκε μεν ἀ σελάννα  
 καὶ Πληΐαδεσ, μέσαι δὲ  
 νύκτεσ πάρα δ᾽ ἔρχετ᾽ ὤρα,  
-ἔγω δὲ μόνα κατεύδω. [\[transcription\]](xlatall.htm#70)
+ἔγω δὲ μόνα κατεύδω. [\[transcription\]](xlatall.htm#70.md)
 
 The moon has set, and the Pleiades; it is midnight, the time is going by
 and I recline alone.
@@ -32,4 +32,4 @@ of the Poems of Sappho to be printed in 1554.
 
 ------------------------------------------------------------------------
 
-[Next: 49: The moon rose full...](sph50)
+[Next: 49: The moon rose full...](sph50.md)

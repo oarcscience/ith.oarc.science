@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf16)  [Next](sbf18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf16)  [Next](sbf18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -54,6 +54,6 @@ other Texts", Cape Town, 1875.\]</span>
 
 ------------------------------------------------------------------------
 
-[Next: The Lion Jealous Of The Voice Of The Ostrich.](sbf18)
+[Next: The Lion Jealous Of The Voice Of The Ostrich.](sbf18.md)
 
 </div>

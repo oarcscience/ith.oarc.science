@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pfs00)  [Next](pfs02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pfs00)  [Next](pfs02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ and show the children the folly of belief in such fanciful tales.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](pfs02)
+[Next: Contents](pfs02.md)

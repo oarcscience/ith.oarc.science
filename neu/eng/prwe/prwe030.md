@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe029)  [Next](prwe031) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe029)  [Next](prwe031.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ deposits. Streamers" are the sinners who wash not the tin.
 
 ------------------------------------------------------------------------
 
-[Next: The Spriggans of Trencrom Hill](prwe031)
+[Next: The Spriggans of Trencrom Hill](prwe031.md)

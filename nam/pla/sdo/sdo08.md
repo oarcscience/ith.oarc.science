@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo07)  [Next](sdo09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo07)  [Next](sdo09.md) 
 
 ------------------------------------------------------------------------
 
@@ -711,4 +711,4 @@ association with other Shamans.
 
 ------------------------------------------------------------------------
 
-[Next: Regalia of the Candidate](sdo09)
+[Next: Regalia of the Candidate](sdo09.md)

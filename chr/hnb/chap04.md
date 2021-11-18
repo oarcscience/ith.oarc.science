@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap03)  [Next](chap05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap03)  [Next](chap05.md) 
 
 ------------------------------------------------------------------------
 
@@ -608,4 +608,4 @@ Benjamin secured wives is rude, violent, and decidedly interesting.
 
 ------------------------------------------------------------------------
 
-[Next: V. Ruth, Eli, Samuel, Jonathan and King Saul](chap05)
+[Next: V. Ruth, Eli, Samuel, Jonathan and King Saul](chap05.md)

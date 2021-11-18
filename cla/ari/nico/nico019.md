@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico018) 
-[Next](nico020) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico018.md) 
+[Next](nico020.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ and deficiency of a mean.
 ------------------------------------------------------------------------
 
 [Next: Chapter 7. This proposition illustrated by reference to the
-particular virtues](nico020)
+particular virtues](nico020.md)

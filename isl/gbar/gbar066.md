@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar065) [Next](gbar067)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar065) [Next](gbar067.md)
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ come to sacrifice believe that God eateth cooked flesh like unto a man.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar067)
+[Next](gbar067.md)

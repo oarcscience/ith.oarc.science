@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil90)  [Next](egil92) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil90)  [Next](egil92.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ in it was Egil laid with his weapons and his raiment.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XCI. Grim takes the Christian faith.](egil92)
+[Next: CHAPTER XCI. Grim takes the Christian faith.](egil92.md)

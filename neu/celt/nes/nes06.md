@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes05)  [Next](nes07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes05)  [Next](nes07.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,16 +33,16 @@ That, like thine earliest dew,<br />
 
 |                     |
 |---------------------|
-| ![B](img/binit.jpg) |
+| ![B](img/binit.jpg.md) |
 
 APTISM was administered as early as circumstances would permit, and for
 various reasons. Without this sacrament the child was peculiarly exposed
 to the danger of being carried off or changed by the fairies. <span
-id="fr_8"></span>[1](#fn_8) It could not be taken out of the house, at
+id="fr_8"></span>[1](#fn_8.md) It could not be taken out of the house, at
 least to any great distance, or into a neighbour's, till it was
 baptised. It could not be called by its name till after it was baptised.
 It was unlawful to pronounce the name, and no one would have dared to
-ask it. <span id="fr_9"></span>[2](#fn_9) At baptism the name was
+ask it. <span id="fr_9"></span>[2](#fn_9.md) At baptism the name was
 commonly written on a slip of paper, which was handed to the minister.
 Death might come and take away the young one, and if not baptised its
 name could not be written in the "Book of Life," and Heaven was closed
@@ -50,7 +50,7 @@ against it. Many a mother has been made unhappy by the death of her baby
 without baptism; and, if the child fell ill, there was no delay in
 sending for the minister to administer the holy rite, even although at a
 late hour at night. It was a common belief that in such cases the
-minister either "killed or cured." <span id="fr_10"></span>[3](#fn_10)
+minister either "killed or cured." <span id="fr_10"></span>[3](#fn_10.md)
 There was in undefinable sort of awe about unbaptised infants, as well
 as an idea of uncanniness in having them without baptism in the house.
 
@@ -97,7 +97,7 @@ When the water fell upon the child, unless it cried it was augured that
 it would be short-lived, and it is said that, if it did not cry, the
 woman who received it from the father handled it roughly, or even
 pinched it, to make it utter the desired cry. <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 The water was carefully kept for a time--at least eight days--and then
 reverentially poured below the foundation of the dwelling-house; or it
@@ -113,7 +113,7 @@ church to be baptised, the woman who carried the child carried also some
 bread and cheese, and another of the party was provided with a bottle of
 whisky and a *dram glass*. The person first met received bread and
 cheese and a *dram*, and usually turned, and walked a short
-distance. <span id="fr_12"></span>[1](#fn_12) If it was a woman that was
+distance. <span id="fr_12"></span>[1](#fn_12.md) If it was a woman that was
 first met, she carried the baby as far as she went. One of the cloths
 indispensable to a baby was also carried, and cast away by the road.
 
@@ -125,7 +125,7 @@ baptise the boy first, the girl was put forward, and when baptised first
 a gleam of satisfaction lighted up the faces of the girl's friends. This
 procedure was followed under the belief that, if the boy was baptised
 before the girl, he left his beard in the water, and the girl got
-it. <span id="fr_13"></span>[2](#fn_13)
+it. <span id="fr_13"></span>[2](#fn_13.md)
 
 If it happened that a girl was brought to church to be baptised, and
 returned without baptism, she died unmarried.
@@ -139,20 +139,20 @@ and a small portion was put into the child's month.
 
 ### Footnotes
 
-<span id="fn_8"></span>[11:1](nes06.htm#fr_8) Cf. Henderson, p. 16.
+<span id="fn_8"></span>[11:1](nes06.htm#fr_8.md) Cf. Henderson, p. 16.
 
-<span id="fn_9"></span>[11:2](nes06.htm#fr_9) Cf. *F. L. Record*, vol.
+<span id="fn_9"></span>[11:2](nes06.htm#fr_9.md) Cf. *F. L. Record*, vol.
 i, p. 11 (37).
 
-<span id="fn_10"></span>[11:3](nes06.htm#fr_10) Cf. Henderson, p. 15.
+<span id="fn_10"></span>[11:3](nes06.htm#fr_10.md) Cf. Henderson, p. 15.
 
-<span id="fn_11"></span>[12:1](nes06.htm#fr_11) Cf. Henderson, p. 16,
+<span id="fn_11"></span>[12:1](nes06.htm#fr_11.md) Cf. Henderson, p. 16,
 and *F. L. Record*, vol. i. p. 11 (39).
 
-<span id="fn_12"></span>[13:1](nes06.htm#fr_12) Cf. Henderson, p. 12.
+<span id="fn_12"></span>[13:1](nes06.htm#fr_12.md) Cf. Henderson, p. 12.
 
-<span id="fn_13"></span>[13:2](nes06.htm#fr_13) *Ibid*. p. 16.
+<span id="fn_13"></span>[13:2](nes06.htm#fr_13.md) *Ibid*. p. 16.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Nursery](nes07)
+[Next: Chapter IV. The Nursery](nes07.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Baha'i](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](sog06) 
-[Next](sog08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Baha'i](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](sog06.md) 
+[Next](sog08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Splendour of God*, by Eric Hammond, \[1909\], at Intangible Textual
 Heritage
 
@@ -28,7 +28,7 @@ Baha‘u‘llah, with unerring insight, recognised the undoubted fitness of
 his eldest son for the leadership of his fast-increasing flock.
 
 This son, known now as Abbas Effendi, was born on May 23, 1844; "the day
-on which The Bab began his ministry." <span id="fr_5"></span>[1](#fn_5)
+on which The Bab began his ministry." <span id="fr_5"></span>[1](#fn_5.md)
 
 Not only had he eagerly assimilated the instructions of The Bab; he had
 also perceived and rejoiced in the fulfilment, in his Father's person,
@@ -316,7 +316,7 @@ the holy ordinance.
 
 ### Footnotes
 
-<span id="fn_5"></span>[41:1](sog07.htm#fr_5) "From childhood his father
+<span id="fn_5"></span>[41:1](sog07.htm#fr_5.md) "From childhood his father
 fitted him and trained him to become the centre of the movement."—<span
 class="smallcaps">C. M. Rémey</span>.
 
@@ -324,6 +324,6 @@ class="smallcaps">C. M. Rémey</span>.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sog08)
+[Next: Introduction](sog08.md)
 
 </div>

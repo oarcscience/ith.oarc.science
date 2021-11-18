@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt01)  [Next](ettt03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt01)  [Next](ettt03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ id="page_3">p. 3</span>
 |--------------------|
 | ![](img/00300.jpg) |
 
-From the Treasury of Consciousness[1](ettt02.htm#an_n_1:1)<span
+From the Treasury of Consciousness[1](ettt02.htm#an_n_1:1.md)<span
 id="an_r_1:1"></span> of the Heavenly Dharma, and among the profound
 Teachings of the Whisper Succession, this is the Initiation of the
 Fierce Guru, the most secret of the secret, the Four Inner Teachings
@@ -46,10 +46,10 @@ Red in color, with one face and two arms.
 
 In his right hand, he holds a vajra,
 
-And in his left, he holds a scorpion[2](ettt02.htm#an_n_1:2)<span
+And in his left, he holds a scorpion[2](ettt02.htm#an_n_1:2.md)<span
 id="an_r_1:2"></span>.
 
-At the five parts of his body[3](ettt02.htm#an_n_1:3)<span
+At the five parts of his body[3](ettt02.htm#an_n_1:3.md)<span
 id="an_r_1:3"></span> stand the five deities in armor.
 
 Upon the crown of his head there is a Garuda bird, the king of all
@@ -60,7 +60,7 @@ His right arm embraces the Great Red Mother,
 And he sits on the cushion of the Sun-Lotus, which is covered with the
 corpse of a demon.
 
-From the three places[4](ettt02.htm#an_n_1:4)<span id="an_r_1:4"></span>
+From the three places[4](ettt02.htm#an_n_1:4.md)<span id="an_r_1:4"></span>
 of the Father and Mother Buddha Shine forth infinite rays of light,
 
 After they have shone on all sentient beings and blessed them,
@@ -71,7 +71,7 @@ They invite the Wisdom Buddha to come down from above,
 
 And all merge with him; thus the guru attains the Initiation.
 
-*Oṃ Ah Tsiga Nitsi Namobigawadi* <span id="fr_0"></span>[\*](#fn_0) *Hūṃ
+*Oṃ Ah Tsiga Nitsi Namobigawadi* <span id="fr_0"></span>[\*](#fn_0.md) *Hūṃ
 Au Hūṃ Pai!*
 
 The Front Arising Buddha \[so named because arising through the power of
@@ -85,7 +85,7 @@ In his right hand is the vajra, in his left the scorpion.
 All the wrathful adornments are complete on him.
 
 At the five places are fixed five Skull-Rosary Holders of the Fierce
-Buddha[5](ettt02.htm#an_n_1:5)<span id="an_r_1:5"></span>;
+Buddha[5](ettt02.htm#an_n_1:5.md)<span id="an_r_1:5"></span>;
 
 And in his heart-center stand the five gods with armor bright.
 
@@ -94,7 +94,7 @@ On the top of his head stands a Garuda bird, the king of all creatures.
 In his arms, he holds the Red Mother.
 
 He is the only director of the four
-inheritances[6](ettt02.htm#an_n_1:6)<span id="an_r_1:6"></span>, the
+inheritances[6](ettt02.htm#an_n_1:6.md)<span id="an_r_1:6"></span>, the
 wrathful one.
 
 In all the corners and directions stand the ten wrathful ones.
@@ -167,7 +167,7 @@ Ba-tsa Hūṃ Yagha Hūṃ Ragsha Hūṃ*.
 
 (Toward the Front Vase and Gtor-ma one should practice the initiation
 incantation, repeating as aforesaid. Perform the eight
-offerings[7](ettt02.htm#an_n_1:7)<span id="an_r_1:7"></span>.)
+offerings[7](ettt02.htm#an_n_1:7)<span id="an_r_1:7"></span>..md)
 
 *Oṃ Ah Hūṃ Guru Dasasariwa Ra Ahmarda Banemta Gagta Kahe Ah Gm*…
 
@@ -185,12 +185,12 @@ demon;
 To the scorpion holder, the Fierce Guru, I render obeisance and praise.
 
 (Then the disciples perform the Cleansing
-Ritual[8](ettt02.htm#an_n_1:8)<span id="an_r_1:8"></span> and the
+Ritual[8](ettt02.htm#an_n_1:8.md)<span id="an_r_1:8"></span> and the
 Mandala Offering.)
 
 Now, I am going to relate to you a brief history of this initiation. In
 the Pure Land of *A*og-min resided the Buddha
-All-Perfect[9](ettt02.htm#an_n_1:9)<span id="an_r_1:9"></span> with the
+All-Perfect[9](ettt02.htm#an_n_1:9.md)<span id="an_r_1:9"></span> with the
 five Divisional Buddhas and infinite Bodhisattvas encircling him. Before
 Bodhisattva Avalokiteshvara, Buddha All-Perfect urged Buddha Amida to
 preach the *Tantra of the Fierce Guru*, called the *Origin of the
@@ -210,7 +210,7 @@ powers."
 Thereupon the Lotus-Born transformed himself into the body of the Fierce
 Guru. (He cried:)
 
-"[*Śri!*](errata.htm#0) This is the roaring voice of the Great Powerful
+"[*Śri!*](errata.htm#0.md) This is the roaring voice of the Great Powerful
 One!  
  I now conquer you, the Eight-Divisional Demons!" \[i.e. the demons of
 the eight divisions of space.\]
@@ -239,7 +239,7 @@ double-sexed demons to pieces."
 After saying this, he ate all the hearts of the Eight Divisional Demons
 who had committed sinful deeds. At the time of eclipse, he collected all
 the sinful flesh and blood of the demons into a huge heap as a
-sacrificial food to benefit the scorpions[10](ettt02.htm#an_n_1:10)<span
+sacrificial food to benefit the scorpions[10](ettt02.htm#an_n_1:10.md)<span
 id="an_r_1:10"></span> and ate them all. Thereupon, the Eight-Divisional
 Demons called for help and begged for forgiveness. Then he agreed that
 at every eclipse time he would
@@ -249,7 +249,7 @@ at every eclipse time he would
 provide blood and flesh to the Eight-Divisional demons in the Three
 Regions, and thereby prohibited them from killing sentient beings. In
 order to prevent them from further slaughter, he gave them the Krum
-Ga[11](ettt02.htm#an_n_1:11)<span id="an_r_1:11"></span>, the Chief
+Ga[11](ettt02.htm#an_n_1:11.md)<span id="an_r_1:11"></span>, the Chief
 Mandala's food \[Note the personification of the mandala\]. Whoever
 among the demons should break the rules, he declared, would be punished
 and offered as sacrificial food to the numerous scorpions.
@@ -261,10 +261,10 @@ avail. They became frenzied and howled loudly; but they had no choice
 but to walk toward their destiny. The Eight-Divisional Demons then
 brought the moonlight, presented it to the fire by holding Dagiratsa
 fast, and then offered it to the Krum-Ga Principal Mandala as
-sacrificial food to the assembly[12](ettt02.htm#an_n_1:12)<span
+sacrificial food to the assembly[12](ettt02.htm#an_n_1:12.md)<span
 id="an_r_1:12"></span>.
 
-At the Four Relative Times[13](ettt02.htm#an_n_1:13)<span
+At the Four Relative Times[13](ettt02.htm#an_n_1:13.md)<span
 id="an_r_1:13"></span>, the Eight-Divisional Demons all assembled
 together by order of the Wrathful One. The Wrathful One then asked:
 
@@ -274,8 +274,8 @@ precepts? Who has violated my rules?"
 
 He then looked at the faces of the demons; those who had cheated him, he
 tore apart. He uttered the Main
-Incantation[14](ettt02.htm#an_n_1:14)<span id="an_r_1:14"></span> of
-Hayagriva[15](ettt02.htm#an_n_1:15)<span id="an_r_1:15"></span> and
+Incantation[14](ettt02.htm#an_n_1:14.md)<span id="an_r_1:14"></span> of
+Hayagriva[15](ettt02.htm#an_n_1:15.md)<span id="an_r_1:15"></span> and
 wielded his mental power of Thunderbolt Holder (Vajrahetu) to cut the
 demons into pieces and to put all the demons who had damaged the
 Buddhist religion into the Fire Sacrifice as an offering to be burned.
@@ -292,7 +292,7 @@ Demons. He bound them to the precepts, admonished them not to harm any
 Buddhist and not to incite any kind of trouble. He also ordered them to
 assist the servants of the temples: on the tenth of every month, they
 should come before the Fierce Guru and attend the Congregation of the
-Sacred Offering[16](ettt02.htm#an_n_1:16)<span id="an_r_1:16"></span>,
+Sacred Offering[16](ettt02.htm#an_n_1:16.md)<span id="an_r_1:16"></span>,
 help to set in motion the Wheel of Dharma; and for the benefit of
 sentient beings they should fight against those demons who make harm.
 
@@ -325,22 +325,22 @@ in the Black month of the Fowl year, he saw the Fierce Guru appear in
 the forest many times. The Fierce Guru himself conferred the Tantra
 instructions and practice, together with the various teachings necessary
 to the Incarnation of Buddha. Therefore this teaching has the advantage
-of being a near-succession one[17](ettt02.htm#an_n_1:17)<span
+of being a near-succession one[17](ettt02.htm#an_n_1:17.md)<span
 id="an_r_1:17"></span> and of possessing an unusual benevolent power
 (grace). In comparison with other teachings, the teaching of the Fierce
 Guru is an easier and faster way to attain the Siddhis (yogic
-accomplishments) and Signs[18](ettt02.htm#an_n_1:18)<span
+accomplishments) and Signs[18](ettt02.htm#an_n_1:18.md)<span
 id="an_r_1:18"></span>, as said in the *Tantra of the Fierce Act*
 (*Drag-b’o prang-lashi-rgyud*):
 
 "This teaching is greater than others; the Accomplishments and Signs are
 also greater. If one practices this teaching for seven days, no doubt he
 will attain both the Common and Superior
-Accomplishments[19](ettt02.htm#an_n_1:19)<span id="an_r_1:19"></span>."
+Accomplishments[19](ettt02.htm#an_n_1:19.md)<span id="an_r_1:19"></span>."
 
 If one recites ten thousand times the Main Incantations' Inner
 Narration, he will be immune from sickness; if one recites it only one
-hundred times, he will subdue the Ghost[20](ettt02.htm#an_n_1:20)<span
+hundred times, he will subdue the Ghost[20](ettt02.htm#an_n_1:20.md)<span
 id="an_r_1:20"></span>; if one recites it two hundred thousand times, he
 will become a gem-like *Brgyal-bseng*, enlightened Master. For those
 well-gifted ones, only one hundred recitations will bring all the Eight
@@ -357,7 +357,7 @@ Padmasambhava."
 
 In the Fierce Instruction, Padmasambhava said:
 
-"If one [continuously](errata.htm#1) recites the incantation, his sins
+"If one [continuously](errata.htm#1.md) recites the incantation, his sins
 will
 
 <span id="page_11">p. 11</span>
@@ -385,12 +385,12 @@ are many.
 
 "If one possesses this treasure, the devas and ghosts will offer him
 their lives and hearts. He will influence and charm people; his
-merits[21](ettt02.htm#an_n_1:21)<span id="an_r_1:21"></span> will become
+merits[21](ettt02.htm#an_n_1:21.md)<span id="an_r_1:21"></span> will become
 great; prosperity and good omens always follow him; all his wishes will
 be granted; the signs of Siddhis and
-performance[22](ettt02.htm#an_n_1:22)<span id="an_r_1:22"></span> will
+performance[22](ettt02.htm#an_n_1:22.md)<span id="an_r_1:22"></span> will
 come fast; his power will be as great as
-Herugas[23](ettt02.htm#an_n_1:23)<span id="an_r_1:23"></span>, great
+Herugas[23](ettt02.htm#an_n_1:23.md)<span id="an_r_1:23"></span>, great
 enough to subdue the male and female spirits. The accomplishment is
 easier and the incantation more effective. There is
 
@@ -399,7 +399,7 @@ easier and the incantation more effective. There is
 no question about the profoundness of this teaching; even those
 evil-possessed monks who practice this teaching will \[overcome
 themselves and attain the accomplishment of
-Mahamudra[24](ettt02.htm#an_n_1:24)<span id="an_r_1:24"></span>. Such a
+Mahamudra[24](ettt02.htm#an_n_1:24.md)<span id="an_r_1:24"></span>. Such a
 profound teaching one can hardly find anywhere else. If you do not
 believe what I say, you may look for yourself.
 
@@ -420,7 +420,7 @@ practice; and also for those people you should consider as brothers in
 Dharma, the protectors of the Treasury.
 
 "Yet you should spread this teaching with great caution. It should be
-kept secret from both sinful and Dam Med[25](ettt02.htm#an_n_1:25)<span
+kept secret from both sinful and Dam Med[25](ettt02.htm#an_n_1:25.md)<span
 id="an_r_1:25"></span> persons; from sophisticated and foulmouthed
 persons. This teaching should not be given to skeptical and defamatory
 persons; it should not be bestowed upon heretical and insincere persons.
@@ -431,14 +431,14 @@ persons is a
 <span id="page_13">p. 13</span>
 
 rule you should observe. You should not be idle but should cooperate
-with your brothers in the Vajrayana[26](ettt02.htm#an_n_1:26)<span
+with your brothers in the Vajrayana[26](ettt02.htm#an_n_1:26.md)<span
 id="an_r_1:26"></span>." So the Guru says.
 
 Now, to obtain this profound and solemn initiation, you disciples should
 follow me in reciting the following prayers three times:
 
 "I concentrate my mind and sincerely pray to the Three
-Pillars[27](ettt02.htm#an_n_1:27)<span id="an_r_1:27"></span> and all
+Pillars[27](ettt02.htm#an_n_1:27.md)<span id="an_r_1:27"></span> and all
 Buddhas. I pray to the Fierce Guru with his retinues. I pray that you
 grant me the profound initiation."
 
@@ -527,7 +527,7 @@ And falls upon the body of Padmasambhava, touching his heart.
 Instantaneously, from the heart of Padmasambhava springs a Fierce Guru
 
 With myriads of Outer, Inner, Secret, and Most Secret
-Buddhas[28](ettt02.htm#an_n_1:28)<span id="an_r_1:28"></span> around
+Buddhas[28](ettt02.htm#an_n_1:28.md)<span id="an_r_1:28"></span> around
 him;
 
 With great roars and sounds of thunder, they all descend here,
@@ -601,7 +601,7 @@ Thus the initiation of the Fierce Guru is attained by you.
 (Thereupon throw the flowers.)
 
 *Hūṃ!* The conqueror of the Three
-Kingdoms[29](ettt02.htm#an_n_1:29)<span id="an_r_1:29"></span> and
+Kingdoms[29](ettt02.htm#an_n_1:29.md)<span id="an_r_1:29"></span> and
 demons, the Lord of all Vajras!
 
 He is reddish-black, with his three fierce eyes wide open.
@@ -624,13 +624,13 @@ Initiation of Vase. The disciples are to recite the following prayers:
 
 This Vase, in its outer symbolic aspect, is made of invaluable gems; in
 its inner aspect it symbolizes the Beyond-Measure Palace made of
-*Gnam-lchags*[30](ettt02.htm#an_n_1:30)<span id="an_r_1:30"></span>; it
+*Gnam-lchags*[30](ettt02.htm#an_n_1:30.md)<span id="an_r_1:30"></span>; it
 is infinitely spacious. In this Beyond-Measure Palace sit numerous
 Outer, Inner, Secret, and Most Secret Fierce Buddhas. From their bodies
 flow out the streams of nectar which enter your body through the Divine
 Gate of the head. The Great Bliss-Wheel (Chakra) of the Head, the
 Dharma-Wheel of the Heart, the Transformation-Wheel of the Navel
-\[related respectively to the [Sambhogakaya](errata.htm#2), Dharmakaya,
+\[related respectively to the [Sambhogakaya](errata.htm#2.md), Dharmakaya,
 and Nirmanakaya, higher bodies of the buddha-state\], and all parts of
 the body from the crown of the head down to the soles of the feet are
 full of the blessing nectar. You should regard it thus \[as the
@@ -648,10 +648,10 @@ The Initiation of the Fierce Guru is thus given to you!
 *Oṃ Ah Guru Gorda Cuba Ahbi Ditsa Hūṃ!*
 
 Oh! by the force of this initiation, your four
-hindrances[31](ettt02.htm#an_n_1:31)<span id="an_r_1:31"></span> are
+hindrances[31](ettt02.htm#an_n_1:31.md)<span id="an_r_1:31"></span> are
 cleared and Four Initiations obtained; you also have attained the
 capability of practicing the Four Paths, the capacity of realizing the
-Four Bodies[32](ettt02.htm#an_n_1:32)<span id="an_r_1:32"></span>… The
+Four Bodies[32](ettt02.htm#an_n_1:32.md)<span id="an_r_1:32"></span>… The
 nectar continues to flow and enter your body, until the nectar is so
 overflowing that it gushes out of your head and becomes
 
@@ -701,7 +701,7 @@ Thus, you are given the Initiation of the Fierce Guru.
 (Thereupon the Guru holds the sword.)
 
 Now, I shall grant you the Initiation of the Symbol of the
-Wisdom-Sword[33](ettt02.htm#an_n_1:33)<span id="an_r_1:33"></span> of
+Wisdom-Sword[33](ettt02.htm#an_n_1:33.md)<span id="an_r_1:33"></span> of
 the Fierce Guru. This Wisdom
 
 <span id="page_19">p. 19</span>
@@ -723,9 +723,9 @@ Thus, to you is given the initiation of the Fierce Guru.
 
 Now another Hand Symbol of the Fierce Guru, the Gnam-lchags-made Curved
 Knife. This, the wild thunderbolt, symbolizes the Five
-Wisdoms[34](ettt02.htm#an_n_1:34)<span id="an_r_1:34"></span> of Buddha.
+Wisdoms[34](ettt02.htm#an_n_1:34.md)<span id="an_r_1:34"></span> of Buddha.
 It has a five-ribbed thunderbolt handle. Because the nature of being is
-away from playwords[35](ettt02.htm#an_n_1:35)<span
+away from playwords[35](ettt02.htm#an_n_1:35.md)<span
 id="an_r_1:35"></span> the center part of the knife is broad; to
 elucidate the sole oneness (of the absolute truth) it has one sharp
 blade. By merely attaining the Initiation of this Symbol, one is able to
@@ -778,7 +778,7 @@ skull) with the adorned metal cover (adornment) on it. This skull is
 filled with the cardinal heart-blood of the just-slaughtered Four
 Demons. By attaining this Initiation of Skull, you will be able to
 realize the truth of the Wisdom of Non-Existence; the Five
-Poisons[36](ettt02.htm#an_n_1:36)<span id="an_r_1:36"></span> will
+Poisons[36](ettt02.htm#an_n_1:36.md)<span id="an_r_1:36"></span> will
 naturally be dissolved into the universal essence (Dharmadatu); the
 blood-ocean of Saṃsara will thus be dried up. You should now think of
 these merits.
@@ -799,20 +799,20 @@ become
 
 <span id="page_21">p. 21</span>
 
-the nectar-like Bodhi Heart[37](ettt02.htm#an_n_1:37)<span
+the nectar-like Bodhi Heart[37](ettt02.htm#an_n_1:37.md)<span
 id="an_r_1:37"></span> (absorbed in you). By embracing this Ga-ba-la
 \[skull\] and touching it with your head you cause the nectar to flow
 out from it; the stream of nectar enters into your body from the divine
-head-opening[38](ettt02.htm#an_n_1:38)<span id="an_r_1:38"></span> until
+head-opening[38](ettt02.htm#an_n_1:38.md)<span id="an_r_1:38"></span> until
 the nectar fills every part of your body. By the power of this nectar, a
 burning-like blissful feeling and warmth is generated within you; thus
-the Initiation of Wisdom[39](ettt02.htm#an_n_1:39)<span
+the Initiation of Wisdom[39](ettt02.htm#an_n_1:39.md)<span
 id="an_r_1:39"></span> is attained by you. You should meditate on this
 teaching. Thus you will attain also the Precious Initiation of
 Longevity. (Thereupon, the Guru holds the Nectar \[in the skull\] in his
 hand.)
 
-*Hūṃ!* This is the Non-Outflow[40](ettt02.htm#an_n_1:40)<span
+*Hūṃ!* This is the Non-Outflow[40](ettt02.htm#an_n_1:40.md)<span
 id="an_r_1:40"></span> nectar!
 
 I now place it on your head;
@@ -911,7 +911,7 @@ profound yet symbolic one. Though it is not very clear in the
 distinction of the Four Successive Initiations, it has the implied
 meaning of the Four Initiations. Therefore you may consider that by it
 you have obtained all of the four
-initiations[41](ettt02.htm#an_n_1:41)<span id="an_r_1:41"></span>.
+initiations[41](ettt02.htm#an_n_1:41.md)<span id="an_r_1:41"></span>.
 
 The teaching of the Fierce Guru in other sects than this one is
 generally perilous, for, if one does not practice the
@@ -932,7 +932,7 @@ grace from Buddha and achieve the accomplishments fast, he should then
 practice the meditation of the Fierce Guru. I have all the merits that
 the Buddhas have. The outer and inner incantations of the Fierce Buddha,
 the blessing and siddhi of all male and female
-Sky-Travelers[42](ettt02.htm#an_n_1:42)<span id="an_r_1:42"></span>, the
+Sky-Travelers[42](ettt02.htm#an_n_1:42.md)<span id="an_r_1:42"></span>, the
 jewel-like virtues and benefits are all found in me. If one merely
 practices my meditation and prays to me, he will see all Buddhas and
 Bodhisattvas; he will achieve all the Outer and Inner accomplishments of
@@ -1010,7 +1010,7 @@ special occasion the Guru may put all four
 initiations into a condensed one. This teaching is revealed from the
 treasury after a well-prepared sacrificial ceremony.
 
-If <span id="fr_1"></span>[\*](#fn_1) there is any mistake or error in
+If <span id="fr_1"></span>[\*](#fn_1.md) there is any mistake or error in
 this work, I beg the forgiveness and pardon from the Guards and Deities.
 By the merits of carrying out this work, I hope that the tradition of
 the Treasury Finding will be growing, that the Treasury Finders will
@@ -1021,80 +1021,80 @@ and happiness.
 
 ##### NOTES
 
-[1](ettt02.htm#an_r_1:1)<span id="an_n_1:1"></span>. The treasures of
+[1](ettt02.htm#an_r_1:1.md)<span id="an_n_1:1"></span>. The treasures of
 Wisdom recorded in universal consciousness, to which access can be had
 by enlightened beings such as the original author of these texts,
 Mi-rgyur-rdor-rje.—*Ed*.
 
-[2](ettt02.htm#an_r_1:2)<span id="an_n_1:2"></span>. The scorpion
+[2](ettt02.htm#an_r_1:2.md)<span id="an_n_1:2"></span>. The scorpion
 represents both sin and the demonic forces which tried to prevent
 Padmasambhava from introducing the teachings of the true Dharma into
 Tibet. As the Fierce Guru grasping the scorpion, Padmasambhava manifests
 his power and triumph over both the immoral and irrational forces of the
 universe.
 
-[3](ettt02.htm#an_r_1:3)<span id="an_n_1:3"></span>. The five Chakras or
+[3](ettt02.htm#an_r_1:3.md)<span id="an_n_1:3"></span>. The five Chakras or
 psychic centers in the human body.
 
-[4](ettt02.htm#an_r_1:4)<span id="an_n_1:4"></span>. The psychic centers
+[4](ettt02.htm#an_r_1:4.md)<span id="an_n_1:4"></span>. The psychic centers
 in the forehead, throat, and heart.
 
-[5](ettt02.htm#an_r_1:5)<span id="an_n_1:5"></span>. Another name for
+[5](ettt02.htm#an_r_1:5.md)<span id="an_n_1:5"></span>. Another name for
 the Fierce Guru.
 
-[6](ettt02.htm#an_r_1:6)<span id="an_n_1:6"></span>. The reference is
+[6](ettt02.htm#an_r_1:6.md)<span id="an_n_1:6"></span>. The reference is
 not clear but probably refers to the four lineages of Buddhism: the
 Sravakayana, teachings for Gotama Buddha's direct disciples;
 Pratekayana, for those who realize the truths of Buddhism intuitively
 through their own efforts; Bodhisattva teachings, for those aspiring to
 Buddhahood; Tantricism, for those following the esoteric doctrines.
 
-[7](ettt02.htm#an_r_1:7)<span id="an_n_1:7"></span>. Eight Offerings:
+[7](ettt02.htm#an_r_1:7.md)<span id="an_n_1:7"></span>. Eight Offerings:
 incense for burning; powdered incense for rubbing the body; lights
 (candles); fruits; flowers; food; music; and water.
 
-[8](ettt02.htm#an_r_1:8)<span id="an_n_1:8"></span>. Cleansing Ritual: a
+[8](ettt02.htm#an_r_1:8.md)<span id="an_n_1:8"></span>. Cleansing Ritual: a
 special incantation which is used to purify the mandala.
 
-[9](ettt02.htm#an_r_1:9)<span id="an_n_1:9"></span>. Buddha All-Perfect;
+[9](ettt02.htm#an_r_1:9.md)<span id="an_n_1:9"></span>. Buddha All-Perfect;
 a reference to the Adi Buddha who, according to a tradition of the Red
 School, was the first human being to become enlightened (here, tradition
 diverges from the orthodox view of the Adi Buddha).
 
-[10](ettt02.htm#an_r_1:10)<span id="an_n_1:10"></span>. Scorpions;
+[10](ettt02.htm#an_r_1:10.md)<span id="an_n_1:10"></span>. Scorpions;
 swallowers of evil.
 
-[11](ettt02.htm#an_r_1:11)<span id="an_n_1:11"></span>. Krum-ka:
+[11](ettt02.htm#an_r_1:11.md)<span id="an_n_1:11"></span>. Krum-ka:
 transcendental sacrificial food.
 
-[12](ettt02.htm#an_r_1:12)<span id="an_n_1:12"></span>. This is an
+[12](ettt02.htm#an_r_1:12.md)<span id="an_n_1:12"></span>. This is an
 enigmatic statement; the text is not explicit.
 
-[13](ettt02.htm#an_r_1:13)<span id="an_n_1:13"></span>. The four seasons
+[13](ettt02.htm#an_r_1:13.md)<span id="an_n_1:13"></span>. The four seasons
 comprise the greater circle or wheel of time, while the divisions of
 sunrise, noon, sunset, and midnight form the lesser wheel. The meaning
 and observances connected with these times i4 highly important in the
 practice of Tantricism.
 
-[14](ettt02.htm#an_r_1:14)<span id="an_n_1:14"></span>. Before beginning
+[14](ettt02.htm#an_r_1:14.md)<span id="an_n_1:14"></span>. Before beginning
 any Tantric practice, it is customary to recite incantations to dispel
 any untoward influences.
 
 <span id="page_28">p. 28</span>
 
-[15](ettt02.htm#an_r_1:15)<span id="an_n_1:15"></span>. The Tibetan
+[15](ettt02.htm#an_r_1:15.md)<span id="an_n_1:15"></span>. The Tibetan
 transliterates the Sanskrit *v* as *w*, since the Tibetan alphabet does
 not possess a *v*. We have reinserted y as the correct spelling of this
 important name. *Ed*.\]
 
-[16](ettt02.htm#an_r_1:16)<span id="an_n_1:16"></span>. Congregation of
+[16](ettt02.htm#an_r_1:16.md)<span id="an_n_1:16"></span>. Congregation of
 the Sacred Offering: the 10th of the month, according to the lunar
 calendar, is considered a particularly auspicious time for those
 practicing Tantric yoga to congregate, make offerings to the angels and
 deities, and receive the grace-waves necessary for success in their
 practices.
 
-[17](ettt02.htm#an_r_1:17)<span id="an_n_1:17"></span>. An important
+[17](ettt02.htm#an_r_1:17.md)<span id="an_n_1:17"></span>. An important
 Tantric tradition is that an esoteric teaching should have a "warm" or
 "close" succession to be most effective. If the teaching is handled too
 long by humans it becomes "cold" losing its initial strength to transmit
@@ -1102,40 +1102,40 @@ power. This particular initiation ritual was revealed to the incarnation
 lama, Mi-rgyur-rdo-rje. A close disciple of his recorded it sometime
 later.
 
-[18](ettt02.htm#an_r_1:18)<span id="an_n_1:18"></span>. Evidence of
+[18](ettt02.htm#an_r_1:18.md)<span id="an_n_1:18"></span>. Evidence of
 mystical development.
 
-[19](ettt02.htm#an_r_1:19)<span id="an_n_1:19"></span>. Common =
+[19](ettt02.htm#an_r_1:19.md)<span id="an_n_1:19"></span>. Common =
 worldly; Superior = transcendental. See footnote 28, Chapter IV.
 
-[20](ettt02.htm#an_r_1:20)<span id="an_n_1:20"></span>. According to
-Tibetan [traditions](errata.htm#3), ghosts and demons manifest through
+[20](ettt02.htm#an_r_1:20.md)<span id="an_n_1:20"></span>. According to
+Tibetan [traditions](errata.htm#3.md), ghosts and demons manifest through
 the negative (Yin) aspect of universal forces while human beings belong
 to the positive (Yang) aspect of such forces. For this reason, ghosts
 and demons are much more likely to be seen in Tibet and other
 little-populated regions where their manifestation is not blotted out by
 the positive auras from large aggregations of human beings.
 
-[21](ettt02.htm#an_r_1:21)<span id="an_n_1:21"></span>. All virtues and
+[21](ettt02.htm#an_r_1:21.md)<span id="an_n_1:21"></span>. All virtues and
 fortunes.
 
-[22](ettt02.htm#an_r_1:22)<span id="an_n_1:22"></span>. Miracle powers.
+[22](ettt02.htm#an_r_1:22.md)<span id="an_n_1:22"></span>. Miracle powers.
 
-[23](ettt02.htm#an_r_1:23)<span id="an_n_1:23"></span>. Tantric Buddhas.
+[23](ettt02.htm#an_r_1:23.md)<span id="an_n_1:23"></span>. Tantric Buddhas.
 
-[24](ettt02.htm#an_r_1:24)<span id="an_n_1:24"></span>. Mahamudra (The
+[24](ettt02.htm#an_r_1:24.md)<span id="an_n_1:24"></span>. Mahamudra (The
 great Symbol): A Tibetan teaching, analogous to Chinese Zen, which seeks
 enlightenment directly through realization of the "pure essence of
 mind." \[A more correct meaning, without the intellectualistic flavor of
 "mind" would be given by "pure essence of consciousness."\]
 
-[25](ettt02.htm#an_r_1:25)<span id="an_n_1:25"></span>. Oath-breakers.
+[25](ettt02.htm#an_r_1:25.md)<span id="an_n_1:25"></span>. Oath-breakers.
 
-[26](ettt02.htm#an_r_1:26)<span id="an_n_1:26"></span>. The Tantric
-(esoteric) Brotherhood, [analogous](errata.htm#4) to the Sangha
+[26](ettt02.htm#an_r_1:26.md)<span id="an_n_1:26"></span>. The Tantric
+(esoteric) Brotherhood, [analogous](errata.htm#4.md) to the Sangha
 (exoteric) Brotherhood of general Buddhism.
 
-[27](ettt02.htm#an_r_1:27)<span id="an_n_1:27"></span>. Tibetan
+[27](ettt02.htm#an_r_1:27.md)<span id="an_n_1:27"></span>. Tibetan
 *Rtsa-wa-gsums;* can be translated as *Three Pillars* or *Three
 Foundations*. (1) Foundation of Blessing, from one's
 
@@ -1146,52 +1146,52 @@ yoga of a tutelary deity. (3) Foundation of Career, through appeals for
 guardianship and protection in wordly affairs from special "guardian
 deities" such as Mahakala.
 
-[28](ettt02.htm#an_r_1:28)<span id="an_n_1:28"></span>. The Buddhas of
+[28](ettt02.htm#an_r_1:28.md)<span id="an_n_1:28"></span>. The Buddhas of
 the four types of initiation.
 
-[29](ettt02.htm#an_r_1:29)<span id="an_n_1:29"></span>. Three Kingdoms:
+[29](ettt02.htm#an_r_1:29.md)<span id="an_n_1:29"></span>. Three Kingdoms:
 World of Desire, World of Form, World of the Formless.
 
-[30](ettt02.htm#an_r_1:30)<span id="an_n_1:30"></span>. Gnam-lchags;
+[30](ettt02.htm#an_r_1:30.md)<span id="an_n_1:30"></span>. Gnam-lchags;
 "falling from heaven" or "heaven-made." According to tradition certain
 ritual objects made of heavenly material are allowed to fall upon the
 earth, where they are discovered and venerated. The Vajra or thunderbolt
 of the Fierce Guru, referred to subsequently in the text, is one of
 these objects.
 
-[31](ettt02.htm#an_r_1:31)<span id="an_n_1:31"></span>. Sometimes called
+[31](ettt02.htm#an_r_1:31.md)<span id="an_n_1:31"></span>. Sometimes called
 the four devils: illness; interruptions; kleśas; death.
 
-[32](ettt02.htm#an_r_1:32)<span id="an_n_1:32"></span>. The Trikaya body
+[32](ettt02.htm#an_r_1:32.md)<span id="an_n_1:32"></span>. The Trikaya body
 of Buddha plus the Dharmadhatu (universal body).
 
-[33](ettt02.htm#an_r_1:33)<span id="an_n_1:33"></span>. The sword,
+[33](ettt02.htm#an_r_1:33.md)<span id="an_n_1:33"></span>. The sword,
 representing the sharp cutting power of discrimination, is always of
 Wisdom in the hands of Manjuśri.
 
-[34](ettt02.htm#an_r_1:34)<span id="an_n_1:34"></span>. Four of these
+[34](ettt02.htm#an_r_1:34.md)<span id="an_n_1:34"></span>. Four of these
 Wisdom Accomplishments of the Buddha are: Wisdom of Performance, of
 Observation, of Equanimity, of the Great Dharmadhatu Mirror. This fourth
 one has some bearing also on the Tantric.
 
-[35](ettt02.htm#an_r_1:35)<span id="an_n_1:35"></span>. *Playwords:* the
+[35](ettt02.htm#an_r_1:35.md)<span id="an_n_1:35"></span>. *Playwords:* the
 affirmative, arbitrary, limited notions of human beings which might be
 represented as a long, sharp-pointed knife. In contradistinction to
 these concepts, the all-inclusive enlightened view of reality is
 symbolized by a knife whose blade is broad and well-rounded (curved).
 
-[36](ettt02.htm#an_r_1:36)<span id="an_n_1:36"></span>. The Five
+[36](ettt02.htm#an_r_1:36.md)<span id="an_n_1:36"></span>. The Five
 Poisons: the five kleśas.
 
-[37](ettt02.htm#an_r_1:37)<span id="an_n_1:37"></span>. Tantricists
+[37](ettt02.htm#an_r_1:37.md)<span id="an_n_1:37"></span>. Tantricists
 borrow and adopt exoteric Buddhist terminology for their own purposes.
 Originally Bodhi-heart referred to a special quality of devoutness;
 here, however, in connection with the nectar, it means fluid or
 secretion—source of energy and compassion.
 
-[38](ettt02.htm#an_r_1:38)<span id="an_n_1:38"></span>. Crown of head.
+[38](ettt02.htm#an_r_1:38.md)<span id="an_n_1:38"></span>. Crown of head.
 
-[39](ettt02.htm#an_r_1:39)<span id="an_n_1:39"></span>. The third type
+[39](ettt02.htm#an_r_1:39.md)<span id="an_n_1:39"></span>. The third type
 of initiation; the first two being Initiation of
 
 <span id="page_30">p. 30</span>
@@ -1199,19 +1199,19 @@ of initiation; the first two being Initiation of
 <span class="contnote">\[paragraph continues\]</span> Vase and Inner
 (Secret) Initiation. The fourth initiation is that of Mahamudra.
 
-[40](ettt02.htm#an_r_1:40)<span id="an_n_1:40"></span>. The universal
+[40](ettt02.htm#an_r_1:40.md)<span id="an_n_1:40"></span>. The universal
 process in Saṃsara is a process of reciprocal interchange of energies in
 which nothing in the universe can maintain its energy very long but must
 lose it or have it renewed. In the world of Saṃsara everything
 "leaks"—is filled only to become empty again; there exists not stability
 or true "conservation of energy."
 
-[41](ettt02.htm#an_r_1:41)<span id="an_n_1:41"></span>. The translator
+[41](ettt02.htm#an_r_1:41.md)<span id="an_n_1:41"></span>. The translator
 is very skeptical and critical about this statement, unless the teaching
 of the third and fourth initiations are given separately in a secret
 manner.
 
-[42](ettt02.htm#an_r_1:42)<span id="an_n_1:42"></span>. *Sky Travelers:*
+[42](ettt02.htm#an_r_1:42.md)<span id="an_n_1:42"></span>. *Sky Travelers:*
 Tib. Db’a-wo or Mka-*a*gro. \[Usually Mka-*a*gro-ma. This term refers to
 goddesses or accomplished yogis who without effort can traditionally
 traverse whole mountain ranges and travel in both the physical skies and
@@ -1221,11 +1221,11 @@ the heights of consciousness. *Ed*.\]
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:\*](ettt02.htm#fr_0) "In the name of the
+<span id="fn_0"></span>[4:\*](ettt02.htm#fr_0.md) "In the name of the
 Lord." This expression, in varying states of orthographical corruption,
 occurs throughout the mantric liturgies of the MS. *Ed*.
 
-<span id="fn_1"></span>[26:\*](ettt02.htm#fr_1) From now to the end of
+<span id="fn_1"></span>[26:\*](ettt02.htm#fr_1.md) From now to the end of
 this concluding section it is the original compiler and amanuensis of
 the teachings of Mi-rgyur-rdo-rje who speaks to us personally. See pp.
 9-10. *Ed*.
@@ -1235,6 +1235,6 @@ the teachings of Mi-rgyur-rdo-rje who speaks to us personally. See pp.
 ------------------------------------------------------------------------
 
 [Next: Chapter Two: The Initiation Ritual of the Fierce Guru With
-Phurba](ettt03)
+Phurba](ettt03.md)
 
 </div>

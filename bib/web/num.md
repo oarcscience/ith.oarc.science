@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](lev)  [Next](deu) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](lev)  [Next](deu.md) 
 
 ------------------------------------------------------------------------
 
@@ -4850,4 +4850,4 @@ the plains of Moab by the Jordan at Jericho.
 
 ------------------------------------------------------------------------
 
-[Next: Deuteronomy](deu)
+[Next: Deuteronomy](deu.md)

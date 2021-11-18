@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc15)  [Next](tlc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc15)  [Next](tlc17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -559,4 +559,4 @@ agony of remembering would have snapped my brain-strings for always.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Again the Gods Make Change](tlc17)
+[Next: Chapter XIV. Again the Gods Make Change](tlc17.md)

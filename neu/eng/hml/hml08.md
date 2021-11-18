@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml07)  [Next](hml09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml07)  [Next](hml09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -273,13 +273,13 @@ him.
 
 [![They filled the great vessel of silver with pure
 water](tn/07000.jpg)  
-Click to enlarge](img/07000.jpg)  
+Click to enlarge](img/07000.jpg.md)  
 They filled the great vessel of silver with pure water  
 
 <span id="img_07100"></span>
 
 [![''Havelok sat up surprised''](tn/07100.jpg)  
-Click to enlarge](img/07100.jpg)  
+Click to enlarge](img/07100.jpg.md)  
 ''Havelok sat up surprised''  
 
  
@@ -328,4 +328,4 @@ Constantine was purified in body and soul.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Havelok the Dane](hml09)
+[Next: Chapter V: Havelok the Dane](hml09.md)

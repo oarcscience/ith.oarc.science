@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad06)  [Next](mrad08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad06)  [Next](mrad08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -73,9 +73,9 @@ just come in the mail, and to which my wife has paid no attention. She
 interrupts me with a question: "Are there any flowers in what you are
 reading?" I answer, "Yes," and she says: "I have been trying to
 concentrate, and I keep seeing flowers. I have drawn them." She hands me
-two drawings ([figs. 14a, 14b](#img_fig014)):
+two drawings ([figs. 14a, 14b](#img_fig014).md):
 
-<span id="img_fig014"></span> ![Fig. 14a, Fig. 14b](img/fig014.jpg)
+<span id="img_fig014"></span> ![Fig. 14a, Fig. 14b](img/fig014.jpg.md)
 
 The book was Mumford's "Herman Melville," and I was at page 346, a
 chapter entitled, "The Flowering Aloe." On this page are six lines from
@@ -84,7 +84,7 @@ is a discussion of the habits of this plant. While my wife was
 
 <span id="page_48">p. 48</span>
 
-making the left-hand drawing ([fig. 14a](#img_fig014)), I had been
+making the left-hand drawing ([fig. 14a](#img_fig014).md), I had been
 reading page 344: "the red clover had blushed through the fields about
 their house"; and "he would return home with a handful of clover
 blossoms."
@@ -95,13 +95,13 @@ narratives of dreams and telepathy, while my mind is on Sacco and
 Vanzetti, or the Socialist presidential campaign, or whatever it is.
 Sometimes the messages from the subconscious are complicated and take
 patience to disentangle. Consider, for example, a little drawing ([fig.
-15](#img_fig015))—one of nearly
+15](#img_fig015).md)—one of nearly
 
-<span id="img_fig015"></span> ![Fig. 15, Fig. 15a](img/fig015.jpg)
+<span id="img_fig015"></span> ![Fig. 15, Fig. 15a](img/fig015.jpg.md)
 
 three hundred which this long-suffering husband has made for his
 witch-wife to reproduce by telepathy: a football, you see, neatly laced
-up. In her drawing ([fig. 15a](#img_fig015)) Craig gets the general
+up. In her drawing ([fig. 15a](#img_fig015).md) Craig gets the general
 effect perfectly, but she puts it on a calf. Her written comment was:
 "Belly-band on calf."
 
@@ -225,4 +225,4 @@ steel-frame building.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](mrad08)
+[Next: Chapter VII](mrad08.md)

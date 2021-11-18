@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa13)  [Next](psa15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa13)  [Next](psa15.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ well saved us: otherwise, all would have perished--(or had perished,)"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](psa15)
+[Next: Chapter XIV](psa15.md)

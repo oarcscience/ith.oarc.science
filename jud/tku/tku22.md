@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku21)  [Next](tku23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku21)  [Next](tku23.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,12 +18,12 @@ you*) speak singly in his place (*in respect of the symbolism of the
 seven inferiors*); but as for myself, and Rabbi Eleazar my son, and
 Rabbi Abba, we (*three*) refer unto the highest and complete perfection
 (*of the whole decad*). Arise, Rabbi Chiya." <span
-id="fr_54"></span>[1](#fn_53)
+id="fr_54"></span>[1](#fn_53.md)
 
 <span id="page_150">p. 150</span>
 
 350\. Rabbi Chiya arose, and, commencing said, Jer. i. 6: "AHH ADNI
-IHVH." <span id="fr_55"></span>[1](#fn_54) *Ahah Adonai Tetragrammaton*!
+IHVH." <span id="fr_55"></span>[1](#fn_54.md) *Ahah Adonai Tetragrammaton*!
 'Ah, Lord Tetragrammaton! behold, I cannot speak, for I am a child.'
 
 351\. "Therefore, why was it that Jeremiah could not speak, seeing that
@@ -64,13 +64,13 @@ AMIRH, *Amirah*, the speech, and were greatly afraid.
 357\. "Also we have learned that through the first and second
 dispositions of the beard it is necessary to pass on to the third; like
 as it is written, Job xxxiii. 29: 'Behold, God worketh all this with man
-by three paths.' <span id="fr_56"></span>[1](#fn_55)
+by three paths.' <span id="fr_56"></span>[1](#fn_55.md)
 
 358\. "And come, behold! it is necessary through the two first
 conformations that thou pass on unto the third, because the third form
 is in the midst.
 
-359\. "For, under the nose, <span id="fr_57"></span>[2](#fn_56) beneath
+359\. "For, under the nose, <span id="fr_57"></span>[2](#fn_56.md) beneath
 the two nostrils, there issueth a certain path, and from that path the
 hairs are wanting.
 
@@ -101,7 +101,7 @@ over,' hath place; if, on the other hand, not so, the word 'PShO,
 
 365\. "What doth this phrase teach, 'passing over transgression'? ShPO,
 *Shephau*, influence, (*it teacheth*) if Sh (*in PShO*), be placed
-before the P. <span id="fr_58"></span>[1](#fn_57)
+before the P. <span id="fr_58"></span>[1](#fn_57.md)
 
 366\. "If they are not just, it remaineth (*i.e.*, the influence), and
 passeth not over into Microprosopus.
@@ -151,7 +151,7 @@ of them who openeth his mouth to do harm, because that path is
 manifested in due form.
 
 377 "Hence also he who toucheth that mouth, and adviseth it to keep
-silence, <span id="fr_59"></span>[1](#fn_58) pointeth out this path with
+silence, <span id="fr_59"></span>[1](#fn_58.md) pointeth out this path with
 his finger; and that is the symbol denoting the Holy Ancient One."
 (Others read: Because that path is the symbol of silence; hence he who
 looked at another, and adviseth him to be silent, toucheth this path,
@@ -161,7 +161,7 @@ which is the symbol, &c.)
 
 ### Footnotes
 
-<span id="fn_53"></span>[149:1](tku22.htm#fr_54) On a little
+<span id="fn_53"></span>[149:1](tku22.htm#fr_54.md) On a little
 consideration it will be seen that this meeting of ten of the principal
 Rabbis--viz., Schimeon. Eleazar, Abba, Yehuda, Yosi Ben Jacob, Isaac,
 Chisqiah Ben Rav, Chiya, Yosi, and Yisa--was intended to be symbolical
@@ -178,19 +178,19 @@ Rabbi Isaac, came in later than the others. These seven were Schimeon,
 Eleazar, Abba, Yehuda, Yosi Ben Jacob, Chiya, and Isaac. (Conf. "Idra
 Zuta," § 13.)
 
-<span id="fn_54"></span>[150:1](tku22.htm#fr_55) This is the Hebrew text
+<span id="fn_54"></span>[150:1](tku22.htm#fr_55.md) This is the Hebrew text
 of the Polyglot Bible, but in that of the "Idra Rabba," "AHH IHVH ALHIM,
 *Ahah Tetragrammaton Elohim*." is substituted for "*Adonai
 Tetragrammaton*."
 
-<span id="fn_55"></span>[151:1](tku22.htm#fr_56) The same word which is
+<span id="fn_55"></span>[151:1](tku22.htm#fr_56.md) The same word which is
 here rendered thus is translated in the ordinary version of the Bible,
 "oftentimes."
 
-<span id="fn_56"></span>[151:2](tku22.htm#fr_57) See § 217 of this book,
+<span id="fn_56"></span>[151:2](tku22.htm#fr_57.md) See § 217 of this book,
 and also the "Book of Concealed Mystery," ii. § 8.
 
-<span id="fn_57"></span>[152:1](tku22.htm#fr_58) This is simply a
+<span id="fn_57"></span>[152:1](tku22.htm#fr_58.md) This is simply a
 transposition of the two first letters of the word in question. Of
 course, the same letters being retained. though their relative places
 are changed, the numeration of the two words by Gematria will be
@@ -206,10 +206,10 @@ tree. In the midst thereof the great Adam is Tiphereth." (See
 Introduction.) Therefore the influence passing over into Microprosopus
 is also the serpent entering into the garden of Eden.
 
-<span id="fn_58"></span>[153:1](tku22.htm#fr_59) Meaning symbolically
+<span id="fn_58"></span>[153:1](tku22.htm#fr_59.md) Meaning symbolically
 the idea of judgment.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XV: Concerning the Fourth Part of the Beard of
-Macroprosopus](tku23)
+Macroprosopus](tku23.md)

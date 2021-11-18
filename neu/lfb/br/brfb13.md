@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb12)  [Next](brfb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb12)  [Next](brfb14.md) 
 
 </div>
 
@@ -263,6 +263,6 @@ mother.
 
 ------------------------------------------------------------------------
 
-[Next: The Sacred Milk of Koumongoe](brfb14)
+[Next: The Sacred Milk of Koumongoe](brfb14.md)
 
 </div>

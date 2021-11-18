@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof22)  [Next](sof24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof22)  [Next](sof24.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head21.png"></span> ![Header Chapter XXI.](img/head21.png)
+<span id="img_head21.png"></span> ![Header Chapter XXI.](img/head21.png.md)
 
 ## XXI.
 
@@ -94,7 +94,7 @@ of the south, saying, at the same time, "I follow the course of the
 sun," which he thus explains: "As the sun in his course moves round the
 world by the way of the south, so do I follow that luminary, to obtain
 the benefit arising from a journey round the earth by the way of the
-south."  [93](sof37.htm#xref_93)
+south."  [93](sof37.htm#xref_93.md)
 
 Lastly, I may refer to the preservation of this rite among the Druids,
 whose "mystical dance" around the *cairn*, or sacred stones, was nothing
@@ -102,7 +102,7 @@ more nor less than the rite of circumambulation. On these occasions the
 priest always made three circuits, from east to west, by the right hand,
 around the altar or cairn, accompanied by all the worshippers. And so
 sacred was the rite once considered, that we learn from
-Toland [94](sof37.htm#xref_94) that in the Scottish Isles, once a
+Toland [94](sof37.htm#xref_94.md) that in the Scottish Isles, once a
 principal seat of the Druidical religion, the people "never come to the
 ancient sacrificing and fire-hallowing *cairns*, but they walk three
 times around them, from east to west, according to the course of the
@@ -146,6 +146,6 @@ commenced--that the lodge is a symbol of the world.
 
 ------------------------------------------------------------------------
 
-[Next: XXII. The Rite of Intrusting, and the Symbolism of Light](sof24)
+[Next: XXII. The Rite of Intrusting, and the Symbolism of Light](sof24.md)
 
 </div>

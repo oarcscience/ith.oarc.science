@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst05)  [Next](myst07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst05)  [Next](myst07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -105,7 +105,7 @@ those angels who stand nearest God into the Seraphs who are aflame with
 perfect love, and the Cherubs who are filled with perfect knowledge, he
 only gave expression to the two most intense aspirations of the human
 soul, and described under an image the two-fold condition of that
-Beatific Vision which is her goal.  <span id="fr_56"></span>[57](#fn_56)
+Beatific Vision which is her goal.  <span id="fr_56"></span>[57](#fn_56.md)
 
 <span id="an_iii.iii-p8"></span>There is a sense in which it may be
 said, that the desire of knowledge is a part of the desire of perfect
@@ -115,7 +115,7 @@ adored. Love’s characteristic activity—for Love, all wings, is
 inherently active, and “cannot be lazy,” as the mystics say—is a quest,
 an outgoing towards an object desired, which only when possessed will be
 fully known, and only when fully known can be perfectly adored.  <span
-id="fr_57"></span>[58](#fn_57) Intimate communion, no less than worship,
+id="fr_57"></span>[58](#fn_57.md) Intimate communion, no less than worship,
 is of its essence. Joyous fruition is its proper end. This is true of
 all Love’s quests, whether the Beloved be human or divine—the bride, the
 Grail, the Mystic Rose, the Plenitude of God. But there is no sense in
@@ -162,7 +162,7 @@ same as that which Dante brought back from his pilgrimage; the supreme
 importance and harmonious movement of <span
 id="an_iii.iii-p11.1"></span> *il desiro* and *<span
 id="an_iii.iii-p11.2"></span> il velle. Si come rota ch’egualmente è
-mossa ,*  <span id="fr_58"></span>[59](#fn_58) these move together to
+mossa ,*  <span id="fr_58"></span>[59](#fn_58.md) these move together to
 fulfil the Cosmic Plan. In all human life, in so far as it is not merely
 a condition of passive “awareness,” the law which he found implicit in
 the universe is the law of the individual mind. Not logic, not “common
@@ -185,7 +185,7 @@ a friendly witness, is found to agree with the Fourth Evangelist that
 “Life, more life, a larger, richer, more satisfying life, is in the last
 analysis the end of <span id="page_48">p. 48</span> <span
 id="an_iii.iii-Page_48"></span> religion,”  <span
-id="fr_59"></span>[60](#fn_59) and we have seen that life, as we know
+id="fr_59"></span>[60](#fn_59.md) and we have seen that life, as we know
 it, has the character of a purposive striving, more directly dependent
 on will and feeling then on thought. Of this drive, this urge, thought
 indeed is but the servant; a skilled and often arrogant servant, with a
@@ -213,7 +213,7 @@ in regard to earthly matters, holds good also upon the supersensual
 plane. It was expressed once for all by the author of “The Cloud of
 Unknowing” when he said of God, “By love He may be gotten and holden,
 but by thought of understanding, never.”  <span
-id="fr_60"></span>[61](#fn_60) That exalted feeling, that “secret blind
+id="fr_60"></span>[61](#fn_60.md) That exalted feeling, that “secret blind
 love pressing,” not the neat deductions of logic, the apologist’s
 “proofs” of the existence of the Absolute, unseals the eyes to things
 unseen before. “Therefore,” says the same mystic “what time that thou
@@ -223,18 +223,18 @@ and mean God that made thee and bought thee, and that graciously hath
 called thee to thy degree and receive none other thought of God. And yet
 not all these but if thou list; for it sufficeth thee enough, a naked
 intent direct unto God without any other cause than Himself.”  <span
-id="fr_61"></span>[62](#fn_61) Here we see emotion at its proper work;
+id="fr_61"></span>[62](#fn_61.md) Here we see emotion at its proper work;
 the movement of desire passing over at once into the act of
 concentration, the gathering up of all the powers of the self into a
 state of determined attention, which is the business of the Will. “This
 driving and drawing,” says Ruysbroeck, “we feel in the heart and in the
 unity of all our bodily powers, and especially in the desirous powers.”
- <span id="fr_62"></span>[63](#fn_62) This act of perfect concentration,
+ <span id="fr_62"></span>[63](#fn_62.md) This act of perfect concentration,
 <span id="page_49">p. 49</span> <span id="an_iii.iii-Page_49"></span>
 the passionate focussing of the self upon one point, when it is applied
 “with a naked intent” to real and transcendental things, constitutes in
 the technical language of mysticism the state of recollection:  <span
-id="fr_63"></span>[64](#fn_63) a condition which is peculiarly
+id="fr_63"></span>[64](#fn_63.md) a condition which is peculiarly
 characteristic of the mystical consciousness, and is the necessary
 prelude of pure contemplation, that state in which the mystic enters
 into communion with Reality.
@@ -279,21 +279,21 @@ id="an_iii.iii-Page_50"></span> Plato as that consciousness which could
 apprehend the real world of the Ideas. Its development is the final
 object of that education which his “Republic” describes. It is called by
 Plotinus “Another intellect, different from that which reasons and is
-denominated rational.”  <span id="fr_64"></span>[65](#fn_64) Its
+denominated rational.”  <span id="fr_64"></span>[65](#fn_64.md) Its
 business, he says, is the perception of the supersensual—or, in
 Neoplatonic language, the *intelligible* world. It is the sense which,
 in the words of the “Theologia Germanica,” has “the power of seeing into
-eternity,”  <span id="fr_65"></span>[66](#fn_65) the “mysterious eye of
+eternity,”  <span id="fr_65"></span>[66](#fn_65.md) the “mysterious eye of
 the soul” by which St. Augustine saw “the light that never changes.”
- <span id="fr_66"></span>[67](#fn_66) It is, says Al Ghazzali, a Persian
+ <span id="fr_66"></span>[67](#fn_66.md) It is, says Al Ghazzali, a Persian
 mystic of the eleventh century, “like an immediate perception, as if one
 touched its object with one’s hand.”  <span
-id="fr_67"></span>[68](#fn_67) In the words of his great Christian
+id="fr_67"></span>[68](#fn_67.md) In the words of his great Christian
 successor, St. Bernard, “it may be defined as the soul’s true unerring
 intuition, the unhesitating apprehension of truth”:  <span
-id="fr_68"></span>[69](#fn_68) which “simple vision of truth,” says St.
+id="fr_68"></span>[69](#fn_68.md) which “simple vision of truth,” says St.
 Thomas Aquinas, “ends in a movement of desire.”  <span
-id="fr_69"></span>[70](#fn_69)
+id="fr_69"></span>[70](#fn_69.md)
 
 <span id="an_iii.iii-p29"></span>It is infused with burning love, for it
 seems to its possessors to be primarily a movement of the heart: with
@@ -330,7 +330,7 @@ heavy yoke of fleshly love from the soul and maketh it mighty and free
 through the gift of the holy ghostly love for to work gladly, softly,
 and delectably. . . . Therefore is it called an holy idleness and a rest
 most busy; and so is it in *stillness* from the great crying and the
-beastly noise of fleshly desires.”  <span id="fr_70"></span>[71](#fn_70)
+beastly noise of fleshly desires.”  <span id="fr_70"></span>[71](#fn_70.md)
 
 <span id="an_iii.iii-p33"></span>If those who have cultivated this
 latent power be correct in their statements, the self was mistaken in
@@ -344,7 +344,7 @@ can open as an anemone does, and *know* the ocean in which she is
 bathed. This act, this condition of consciousness, in which barriers are
 obliterated, the Absolute flows in on us, and we, rushing out to its
 embrace, “find and feel the Infinite above all reason and above all
-knowledge,”  <span id="fr_71"></span>[72](#fn_71) is the true “mystical
+knowledge,”  <span id="fr_71"></span>[72](#fn_71.md) is the true “mystical
 state.” The value of contemplation is that it tends to produce this
 state, release this transcendental sense; and so turns the “lower
 servitude” in which the natural man lives under the sway of his earthly
@@ -371,7 +371,7 @@ id="an_iii.iii-Page_52"></span> or as branches from the body of a tree.
 This depth is called the centre, the fund, or bottom, of the soul. This
 depth is the unity, the Eternity, I had almost said the infinity of thy
 soul, for it is so infinite that nothing can satisfy it, or give it any
-rest, but the infinity of God.”  <span id="fr_72"></span>[73](#fn_72)
+rest, but the infinity of God.”  <span id="fr_72"></span>[73](#fn_72.md)
 
 <span id="an_iii.iii-p38"></span>Since normal man is utterly unable to
 set up relations with spiritual reality by means of his feeling,
@@ -398,7 +398,7 @@ phenomena of religious and mystical experience to activities of the
 “unconscious,” seeking an oblique satisfaction of repressed desires.
 Where he undertakes the more dangerous duties of apologetic, he explains
 the same phenomena by saying that “God speaks to man in the
-subconsciousness,”  <span id="fr_73"></span>[74](#fn_73) by which he can
+subconsciousness,”  <span id="fr_73"></span>[74](#fn_73.md) by which he can
 only mean that our apprehensions of the eternal have the character of
 intuition rather than of thought. Yet the “unconscious” after all is
 merely a convenient name for the aggregate of those powers, parts, or
@@ -446,7 +446,7 @@ by them from the total personality, conscious or unconscious. It was
 something definite; a bit or spot of man which, belonging not to Time
 but to Eternity, was different in kind from the rest of his human
 nature, framed in all respects to meet the demands of the merely natural
-world.  <span id="fr_74"></span>[75](#fn_74) The business of the mystic
+world.  <span id="fr_74"></span>[75](#fn_74.md) The business of the mystic
 in the eyes of these old specialists was to remake, transmute, his total
 personality in the interest <span id="page_54">p. 54</span> <span
 id="an_iii.iii-Page_54"></span> of his spiritual self; to bring it out
@@ -458,7 +458,7 @@ contact between man’s life and the divine life in which it is immersed
 and sustained, has been given many names in course of the development of
 mystical doctrine. All clearly mean the same thing, though emphasizing
 different aspects of its life. Sometimes it is called the Synteresis,
- <span id="fr_75"></span>[76](#fn_75) the keeper or preserver of his
+ <span id="fr_75"></span>[76](#fn_75.md) the keeper or preserver of his
 being: sometimes the Spark of the Soul, the <span
 id="an_iii.iii-p44.1"></span> *Fünklein* of the German mystics:
 sometimes its Apex the point at which it touches the heavens. Then, with
@@ -475,7 +475,7 @@ because we judge spiritual things by the help of material things, since
 we know these better and they are more familiar to us, we call the
 highest of all forms of conception the summit, and the easier way of
 comprehending things the surface, of the understanding.”  <span
-id="fr_76"></span>[77](#fn_76)
+id="fr_76"></span>[77](#fn_76.md)
 
 <span id="an_iii.iii-p46"></span>Here at any rate, whatever name we may
 choose to give it, is the organ of man’s spiritual consciousness; the
@@ -488,7 +488,7 @@ the same writer, “that it is in Transcendental Feeling, manifested
 normally as Faith in the Value of Life, and ecstatically as sense of
 Timeless Being, and not in Thought proceeding by way of speculative
 construction, that Consciousness comes nearest to the object of
-metaphysics, Ultimate Reality.”  <span id="fr_77"></span>[78](#fn_77)
+metaphysics, Ultimate Reality.”  <span id="fr_77"></span>[78](#fn_77.md)
 <span id="page_55">p. 55</span> <span id="an_iii.iii-Page_55"></span>
 
 <span id="an_iii.iii-p48"></span>The existence of such a “sense,” such
@@ -505,7 +505,7 @@ which constitutes the underlying reality of things; this is the basis on
 which the whole mystic claim of possible union with God must rest. Here,
 they say, is our link with reality; and in this place alone can be
 celebrated the “marriage from which the Lord comes.”  <span
-id="fr_78"></span>[79](#fn_78)
+id="fr_78"></span>[79](#fn_78.md)
 
 <span id="an_iii.iii-p50"></span>To use another of their diagrams, it is
 thanks to the existence within him of this immortal spark from the
@@ -546,7 +546,7 @@ the left eye be fulfilling its office toward outward things, that is
 holding converse with time and the creatures; then must the right eye be
 hindered in its working; that is, in its contemplation. Therefore,
 whosoever will have the one must let the other go; for ‘no man can serve
-two masters.’“  <span id="fr_79"></span>[80](#fn_79)
+two masters.’“  <span id="fr_79"></span>[80](#fn_79.md)
 
 <span id="an_iii.iii-p54"></span>There is within us an immense capacity
 for perception, for the receiving of messages from outside; and a very
@@ -592,7 +592,7 @@ consists exclusively of those elements which are omitted from it. Thus
 in the classical case of Miss Beauchamp, the investigator, Dr. Morton
 Prince, called the three chief “personalities,” from their ruling
 characteristics, “the Saint,” “the Woman,” and “the Devil.”  <span
-id="fr_80"></span>[81](#fn_80) The totality of character which composed
+id="fr_80"></span>[81](#fn_80.md) The totality of character which composed
 the “real Miss Beauchamp” had split up into these contrasting types;
 each of which was excessive, because withdrawn from the control of the
 rest. When, voluntarily or involuntarily, the personality which had
@@ -649,17 +649,17 @@ inadvertently produced by purely physical means. Thus Jacob Boehme, the
 fixedly upon a burnished pewter dish which reflected the sunshine with
 great brilliance,” fell into an inward ecstasy, and it seemed to him as
 if he could look into the principles and deepest foundations of things.
- <span id="fr_81"></span>[82](#fn_81) The contemplation of running water
+ <span id="fr_81"></span>[82](#fn_81.md) The contemplation of running water
 had the same effect on St. Ignatius Loyola. Sitting on the bank of a
 river one day, and facing the stream, which was running deep, “the eyes
 of his mind were opened, not so as to see any kind of vision, but so as
 to understand and comprehend spiritual things . . . and this with such
 clearness that for him all these things were made new.”  <span
-id="fr_82"></span>[83](#fn_82) This method of attaining to mental
+id="fr_82"></span>[83](#fn_82.md) This method of attaining to mental
 lucidity by a narrowing and simplification of the conscious field, finds
 an apt parallel in the practice of Immanuel Kant, who “found that he
 could better engage in philosophical thought while *gazing steadily* at
-a neighbouring church steeple.”  <span id="fr_83"></span>[84](#fn_83)
+a neighbouring church steeple.”  <span id="fr_83"></span>[84](#fn_83.md)
 
 <span id="an_iii.iii-p63"></span>It need hardly be said that
 rationalistic writers, ignoring the parallels offered by the artistic
@@ -694,7 +694,7 @@ inclined to give that name to natural phenomena which we do not
 understand. Such instances of psycho-physical parallelism as the
 stigmatizations of the saints—and indeed of other suggestible subjects
 hardly to be ranked as saints—will occur to anyone.  <span
-id="fr_84"></span>[85](#fn_84) I here offer to the reader another less
+id="fr_84"></span>[85](#fn_84.md) I here offer to the reader another less
 discussed and more extraordinary example of the modifying influence of
 the spirit on the supposed “laws” of bodily life.
 
@@ -712,15 +712,15 @@ not live in any other way. Whilst fasting, they were well and active,
 capable of dealing with the innumerable responsibilities which filled
 their lives. But the attempt to eat even a few mouthfuls—and this
 attempt was constantly repeated, for, like all true saints, they
-detested eccentricity  <span id="fr_85"></span>[86](#fn_85) —at once
+detested eccentricity  <span id="fr_85"></span>[86](#fn_85.md) —at once
 made them ill and had to be abandoned as useless.  <span
-id="fr_86"></span>[87](#fn_86) <span id="page_60">p. 60</span> <span
+id="fr_86"></span>[87](#fn_86.md) <span id="page_60">p. 60</span> <span
 id="an_iii.iii-Page_60"></span>
 
 <span id="an_iii.iii-p69"></span>In spite of the researches of Murisier,
- <span id="fr_87"></span>[88](#fn_87) Janet,  <span
-id="fr_88"></span>[89](#fn_88) Ribot,  <span
-id="fr_89"></span>[90](#fn_89) and other psychologists, and their
+ <span id="fr_87"></span>[88](#fn_87.md) Janet,  <span
+id="fr_88"></span>[89](#fn_88.md) Ribot,  <span
+id="fr_89"></span>[90](#fn_89.md) and other psychologists, and their
 persevering attempts to find a pathological explanation which will fit
 all mystic facts, this and other marked physical peculiarities which
 accompany the mystical temperament belong as yet to the unsolved
@@ -736,7 +736,7 @@ Real—discredits art. “In such cases as Kant and Beethoven,” says Von
 Hügel justly, “a classifier of humanity according to its psycho-physical
 phenomena alone would put these great discoverers and creators, without
 hesitation, amongst hopeless and useless hypochondriacs.”  <span
-id="fr_90"></span>[91](#fn_90)
+id="fr_90"></span>[91](#fn_90.md)
 
 <span id="an_iii.iii-p74"></span>In the case of the mystics the disease
 of hysteria, with its astounding variety of mental symptoms, its strange
@@ -749,7 +749,7 @@ bodily movements. So too both mysticism and hysteria have to do with the
 domination of consciousness by one fixed and intense idea or intuition,
 which rules the life and is able to produce amazing physical and
 psychical results. In the hysteric patient this idea is often trivial or
-morbid  <span id="fr_91"></span>[92](#fn_91) but has become—thanks to
+morbid  <span id="fr_91"></span>[92](#fn_91.md) but has become—thanks to
 the self’s unstable mental condition—an obsession. In the mystic the
 dominant idea is a great one: so great in fact, that when it is received
 in its completeness by the human consciousness, almost of necessity it
@@ -775,12 +775,12 @@ inflict, as the mystics themselves acknowledge, the penalty of “mystical
 ill-health.” “Believe me, children,” says Tauler, “one who would know
 much about these high matters would often have to keep his bed, for his
 bodily frame could not support it.”  <span
-id="fr_92"></span>[93](#fn_92) “I cause thee extreme pain of body,” says
+id="fr_92"></span>[93](#fn_92.md) “I cause thee extreme pain of body,” says
 the voice of Love to Mechthild of Magdeburg. “If I gave myself to thee
 as often as thou wouldst have me, I should deprive myself of the sweet
 shelter I have of thee in this world, for a thousand bodies could not
 protect a loving soul from her desire. Therefore the higher the love the
-greater the pain.”  <span id="fr_93"></span>[94](#fn_93)
+greater the pain.”  <span id="fr_93"></span>[94](#fn_93.md)
 
 <span id="an_iii.iii-p80"></span>On the other hand the exalted
 personality of the mystic—his self-discipline, his heroic acceptance of
@@ -793,7 +793,7 @@ ecstasy is notoriously life-enhancing. In it a bracing contact with
 Reality seems to take place, and as a result the subject is himself more
 real. Often, says St. Teresa, even the sick come forth from ecstasy
 healthy and with new strength; for something great is then given to the
-soul.  <span id="fr_94"></span>[95](#fn_94) Contact has been set up with
+soul.  <span id="fr_94"></span>[95](#fn_94.md) Contact has been set up with
 levels of being which the daily routine of existence leaves untouched.
 Hence the extraordinary powers of endurance, and independence of
 external conditions, which the great ecstatics so often display.
@@ -813,7 +813,7 @@ at least permissible to look upon the strange “psycho-physical” state
 common amongst the mystics as just such a rebellion on the part of a
 normal nervous and vascular system against the exigencies of a way of
 life to which it has not yet adjusted itself.  <span
-id="fr_95"></span>[96](#fn_95)
+id="fr_95"></span>[96](#fn_95.md)
 
 <span id="an_iii.iii-p84"></span>In spite of such rebellion, and of the
 tortures to which it has subjected them, the mystics, oddly enough, are
@@ -847,7 +847,7 @@ genius—which is, in truth, their essential quality. . . . The great
 mystics, creators and inventors who have found a new form of life and
 have justified it . . . join, upon the highest summits of the human
 spirit, the great simplifiers of the world.”  <span
-id="fr_96"></span>[97](#fn_96)
+id="fr_96"></span>[97](#fn_96.md)
 
 <span id="an_iii.iii-p87"></span>The truth, then, so far as we know it
 at present, seems to be <span id="page_63">p. 63</span> <span
@@ -870,7 +870,7 @@ also shown thee the Bridge and the three general steps, placed there for
 the three powers of the soul; and I have told thee how no one can attain
 to the life of grace unless he has mounted all three steps, that is,
 gathered together all the three powers of the soul in My Name.”  <span
-id="fr_97"></span>[98](#fn_97)
+id="fr_97"></span>[98](#fn_97.md)
 
 <span id="an_iii.iii-p89"></span>In those abnormal types of personality
 to which we give the name of genius, we seem to detect a hint of the
@@ -906,29 +906,29 @@ been conscious of a richness of interpretation, an enjoyment of light, a
 most penetrating insight, a most manifest energy in all that was to be
 done; having such an effect on my mind as the clearest ocular
 demonstration would have on the eyes.”  <span
-id="fr_98"></span>[99](#fn_98) This is a true creative ecstasy, strictly
+id="fr_98"></span>[99](#fn_98.md) This is a true creative ecstasy, strictly
 parallel to the state in which the mystic performs his mighty works.
 
 <span id="an_iii.iii-p92"></span>To let oneself go, be quiet, receptive,
 appears to be the condition under which such contact with the Cosmic
 Life may be obtained. “I have noticed that when one paints one should
 think of nothing: everything then comes better,” says the young Raphael
-to Leonardo da Vinci.  <span id="fr_99"></span>[100](#fn_99) The
+to Leonardo da Vinci.  <span id="fr_99"></span>[100](#fn_99.md) The
 superficial self must here acknowledge its own insufficiency, must
 become the humble servant of a more profound and vital consciousness.
 The mystics are of the same opinion. “Let the will quietly and wisely
 understand,” says St. Teresa, “that it is not by dint of labour on our
 part that we can converse to any good purpose with God.”  <span
-id="fr_100"></span>[101](#fn_100) “The best and noblest way in which
+id="fr_100"></span>[101](#fn_100.md) “The best and noblest way in which
 thou mayst come into this Life,” says Eckhart, “is by keeping silence
 and letting God work and speak. Where all the powers are withdrawn from
 their work and images, there is this word spoken . . . the more thou
 canst draw in all thy powers and forget the creature the nearer art thou
 to this, and the more receptive.”  <span
-id="fr_101"></span>[102](#fn_101)
+id="fr_101"></span>[102](#fn_101.md)
 
 <span id="an_iii.iii-p96"></span>Thus Boehme says to the neophyte,
- <span id="fr_102"></span>[103](#fn_102) “When both thy intellect and
+ <span id="fr_102"></span>[103](#fn_102.md) “When both thy intellect and
 will are quiet and passive to the expressions of the eternal Word and
 Spirit, and when thy soul is winged up above that which is temporal, the
 outward senses and the imagination being locked up by holy abstraction,
@@ -941,7 +941,7 @@ present its reports. In the words of an older mystic, “The soul, leaving
 all things and forgetting herself, is immersed in the ocean <span
 id="page_65">p. 65</span> <span id="an_iii.iii-Page_65"></span> of
 Divine Splendour, and illuminated by the Sublime Abyss of the
-Unfathomable Wisdom.”  <span id="fr_103"></span>[104](#fn_103)
+Unfathomable Wisdom.”  <span id="fr_103"></span>[104](#fn_103.md)
 
 <span id="an_iii.iii-p99"></span>The “passivity” of contemplation, then,
 is a necessary preliminary of spiritual energy: an essential clearing of
@@ -949,7 +949,7 @@ the ground. It withdraws the tide of consciousness from the shores of
 sense, stops the “wheel of the imagination.” “The Soul,” says Eckhart
 again, “is created in a place between Time and Eternity: with its
 highest powers it touches Eternity, with its lower Time.”  <span
-id="fr_104"></span>[105](#fn_104) These, the worlds of Being and
+id="fr_104"></span>[105](#fn_104.md) These, the worlds of Being and
 Becoming, are the two “stages of reality” which meet in the spirit of
 man. By cutting us off from the temporal plane, the lower kind of
 reality, Contemplation gives the eternal plane, and the powers which can
@@ -998,18 +998,18 @@ one and a half days. “In writing I saw that I was writing of things
 which I had never seen: and during the time of this manifestation, I was
 given light to perceive that I had in me treasures of knowledge and
 understanding which I did not know that I possessed.”  <span
-id="fr_105"></span>[106](#fn_105)
+id="fr_105"></span>[106](#fn_105.md)
 
 <span id="an_iii.iii-p104"></span>Similar statements are made of St.
 Teresa, who declared that in writing her books she was powerless to set
 down anything but that which her Master put into her mind.  <span
-id="fr_106"></span>[107](#fn_106) So Blake said of “Milton” and
+id="fr_106"></span>[107](#fn_106.md) So Blake said of “Milton” and
 “Jerusalem,” “I have written the poems from immediate dictation, twelve
 or sometimes twenty or thirty lines at a time, without premeditation and
 even against my will. The time it has taken in writing was thus rendered
 non-existent, and an immense poem exists which seems to be the labour of
 a long life, all produced without labour or study.”  <span
-id="fr_107"></span>[108](#fn_107)
+id="fr_107"></span>[108](#fn_107.md)
 
 <span id="an_iii.iii-p107"></span>These are, of course, extreme forms of
 that strange power of automatic composition, in which words and
@@ -1065,7 +1065,7 @@ self—in man; a self which the circumstances of diurnal life usually keep
 “below the threshold” of his consciousness, and which thus becomes one
 of the factors of his “subliminal life.” This hidden self is the primary
 agent of mysticism, and lives a “substantial” life in touch with the
-real or transcendental world.  <span id="fr_108"></span>[109](#fn_108)
+real or transcendental world.  <span id="fr_108"></span>[109](#fn_108.md)
 
 <span id="an_iii.iii-p114"></span>(5) Certain processes, of which
 contemplation has been taken as a type, can so alter the state of
@@ -1104,7 +1104,7 @@ that “we are more verily in heaven than in earth,”—says the Lady Julian,
 in a passage which anticipates the classification of modern psychology,
 “cometh of the natural Love of our soul, and of the clear light of our
 Reason, and of the steadfast Mind.”  <span
-id="fr_109"></span>[110](#fn_109)
+id="fr_109"></span>[110](#fn_109.md)
 
 <span id="an_iii.iii-p118"></span>But what is the order of precedence
 which these three activities are to assume in the work which is *one*
@@ -1135,7 +1135,7 @@ destiny of the self depends on the partner which the will selects.
 
 ### Footnotes
 
-<span id="fn_56"></span>[46:57](myst06.htm#fr_56) <span
+<span id="fn_56"></span>[46:57](myst06.htm#fr_56.md) <span
 id="an_iii.iii-p6.1"></span>
 
 <span id="an_iii.iii-p7"></span> The wise Cherubs, according to the
@@ -1146,7 +1146,7 @@ characteristics, the characteristic of the Cherubs is receptiveness
 their power of absorbing the rays of the Supernal Light. (Dionysius the
 Areopagite, “De Caelesti Ierarchia,” vi. 2, and vii. 1.)
 
-<span id="fn_57"></span>[46:58](myst06.htm#fr_57) <span
+<span id="fn_57"></span>[46:58](myst06.htm#fr_57.md) <span
 id="an_iii.iii-p8.1"></span>
 
 <span id="an_iii.iii-p9"></span> So Récéjac says of the mystics, they
@@ -1155,83 +1155,83 @@ the principle of things in God, Who is the sum of them all, is founded
 on a feeling which is neither curiosity nor self-interest” (“Fondements
 de la Connaissance Mystique,” p. 50).
 
-<span id="fn_58"></span>[47:59](myst06.htm#fr_58) <span
+<span id="fn_58"></span>[47:59](myst06.htm#fr_58.md) <span
 id="an_iii.iii-p11.3"></span>
 
 <span id="an_iii.iii-p12"></span> Par. xxxiii. 143.
 
-<span id="fn_59"></span>[48:60](myst06.htm#fr_59) <span
+<span id="fn_59"></span>[48:60](myst06.htm#fr_59.md) <span
 id="an_iii.iii-p13.1"></span>
 
 <span id="an_iii.iii-p14"></span> The *Monist* , July, 1901, p. 572.
 
-<span id="fn_60"></span>[48:61](myst06.htm#fr_60) <span
+<span id="fn_60"></span>[48:61](myst06.htm#fr_60.md) <span
 id="an_iii.iii-p16.1"></span>
 
 <span id="an_iii.iii-p17"></span> “The Cloud of Unknowing,” cap. vi.
 
-<span id="fn_61"></span>[48:62](myst06.htm#fr_61) <span
+<span id="fn_61"></span>[48:62](myst06.htm#fr_61.md) <span
 id="an_iii.iii-p17.1"></span>
 
 <span id="an_iii.iii-p18"></span> *Op. cit.,* cap. vii.
 
-<span id="fn_62"></span>[48:63](myst06.htm#fr_62) <span
+<span id="fn_62"></span>[48:63](myst06.htm#fr_62.md) <span
 id="an_iii.iii-p18.1"></span>
 
 <span id="an_iii.iii-p19"></span> “De Ornatu Spiritalium Nuptiarum,” I.
 ii. cap. v.
 
-<span id="fn_63"></span>[49:64](myst06.htm#fr_63) <span
+<span id="fn_63"></span>[49:64](myst06.htm#fr_63.md) <span
 id="an_iii.iii-p19.1"></span>
 
 <span id="an_iii.iii-p20"></span> See below, Pt. II. Cap. VI.
 
-<span id="fn_64"></span>[50:65](myst06.htm#fr_64) <span
+<span id="fn_64"></span>[50:65](myst06.htm#fr_64.md) <span
 id="an_iii.iii-p22.1"></span>
 
 <span id="an_iii.iii-p23"></span> Plotinus, Ennead vi. 9.
 
-<span id="fn_65"></span>[50:66](myst06.htm#fr_65) <span
+<span id="fn_65"></span>[50:66](myst06.htm#fr_65.md) <span
 id="an_iii.iii-p23.1"></span>
 
 <span id="an_iii.iii-p24"></span> “Theologia Germanica,” cap. vii.
 (trans. Winkworth).
 
-<span id="fn_66"></span>[50:67](myst06.htm#fr_66) <span
+<span id="fn_66"></span>[50:67](myst06.htm#fr_66.md) <span
 id="an_iii.iii-p24.1"></span>
 
 <span id="an_iii.iii-p25"></span> Aug. Conf., bk. vii. cap. x.
 
-<span id="fn_67"></span>[50:68](myst06.htm#fr_67) <span
+<span id="fn_67"></span>[50:68](myst06.htm#fr_67.md) <span
 id="an_iii.iii-p25.1"></span>
 
 <span id="an_iii.iii-p26"></span> A. Schmölders, “Essai sur les Écoles
 Philosophique chez les Arabes,” p. 68.
 
-<span id="fn_68"></span>[50:69](myst06.htm#fr_68) <span
+<span id="fn_68"></span>[50:69](myst06.htm#fr_68.md) <span
 id="an_iii.iii-p26.1"></span>
 
 <span id="an_iii.iii-p27"></span> “De Consideration,” bk. ii. cap. ii.
 
-<span id="fn_69"></span>[50:70](myst06.htm#fr_69) <span
+<span id="fn_69"></span>[50:70](myst06.htm#fr_69.md) <span
 id="an_iii.iii-p27.1"></span>
 
 <span id="an_iii.iii-p28"></span> “Summa Theologica,” ii. ii. q. clxxx,
 art. 3. eds. 1 and 3.
 
-<span id="fn_70"></span>[51:71](myst06.htm#fr_70) <span
+<span id="fn_70"></span>[51:71](myst06.htm#fr_70.md) <span
 id="an_iii.iii-p31.1"></span>
 
 <span id="an_iii.iii-p32"></span> Walter Hilton, “The Scale of
 Perfection,” bk. ii. cap. xl.
 
-<span id="fn_71"></span>[51:72](myst06.htm#fr_71) <span
+<span id="fn_71"></span>[51:72](myst06.htm#fr_71.md) <span
 id="an_iii.iii-p33.1"></span>
 
 <span id="an_iii.iii-p34"></span> Ruysbroeck, “De Septem Gradibus
 Amoris,” cap. xiv.
 
-<span id="fn_72"></span>[52:73](myst06.htm#fr_72) <span
+<span id="fn_72"></span>[52:73](myst06.htm#fr_72.md) <span
 id="an_iii.iii-p36.1"></span>
 
 <span id="an_iii.iii-p37"></span> “The Spirit of Prayer” (“Liberal and
@@ -1240,7 +1240,7 @@ says: “This root is the depth of the spirit, *Mens* , which others call
 the Kingdom of God.” The same doctrine appears, under various symbols,
 in all the Christian Mystics.
 
-<span id="fn_73"></span>[52:74](myst06.htm#fr_73) <span
+<span id="fn_73"></span>[52:74](myst06.htm#fr_73.md) <span
 id="an_iii.iii-p39.1"></span>
 
 <span id="an_iii.iii-p40"></span> Cutten, “Psychological Phenomena of
@@ -1248,7 +1248,7 @@ Christianity,” p. 18. James, “Varieties of Religious Experience,” p.
 155. For a temperate and balanced discussion, see Pratt: “The Religious
 Consciousness.”
 
-<span id="fn_74"></span>[53:75](myst06.htm#fr_74) <span
+<span id="fn_74"></span>[53:75](myst06.htm#fr_74.md) <span
 id="an_iii.iii-p41.1"></span>
 
 <span id="an_iii.iii-p42"></span> *Note to the 12th Edition.* During the
@@ -1263,20 +1263,20 @@ capable of rational knowledge, and the deeper mind, organ of mystical
 knowledge, and operative in varying degrees in religion poetic, and
 Esthetic apprehensions.
 
-<span id="fn_75"></span>[54:76](myst06.htm#fr_75) <span
+<span id="fn_75"></span>[54:76](myst06.htm#fr_75.md) <span
 id="an_iii.iii-p43.1"></span>
 
 <span id="an_iii.iii-p44"></span> An interesting discussion of the term
 “Synteresis” will be found in Dr. Inge’s “Christian Mysticism,” Appendix
 C, pp. 359, 360.
 
-<span id="fn_76"></span>[54:77](myst06.htm#fr_76) <span
+<span id="fn_76"></span>[54:77](myst06.htm#fr_76.md) <span
 id="an_iii.iii-p44.2"></span>
 
 <span id="an_iii.iii-p45"></span> “La Pratique de la Vraye Theologie
 Mystique,” vol. 1. p. 204.
 
-<span id="fn_77"></span>[54:78](myst06.htm#fr_77) <span
+<span id="fn_77"></span>[54:78](myst06.htm#fr_77.md) <span
 id="an_iii.iii-p46.1"></span>
 
 <span id="an_iii.iii-p47"></span> J. A. Stewart, ‘\*The Myths of Plato,”
@@ -1285,47 +1285,47 @@ ultimate material alike of prayer and of poetry—has, like the mystic
 consciousness, a dual perception of Reality: static being and dynamic
 life. See above, p. 42.
 
-<span id="fn_78"></span>[55:79](myst06.htm#fr_78) <span
+<span id="fn_78"></span>[55:79](myst06.htm#fr_78.md) <span
 id="an_iii.iii-p48.1"></span>
 
 <span id="an_iii.iii-p49"></span> Tauler, Sermon on St. Augustine (“The
 Inner Way,” p. 162).
 
-<span id="fn_79"></span>[56:80](myst06.htm#fr_79) <span
+<span id="fn_79"></span>[56:80](myst06.htm#fr_79.md) <span
 id="an_iii.iii-p52.1"></span>
 
 <span id="an_iii.iii-p53"></span> “Theologia Germanica,” cap. vii.
 Compare “De Imitatione Christi,” 1. iii. cap. 38.
 
-<span id="fn_80"></span>[57:81](myst06.htm#fr_80) <span
+<span id="fn_80"></span>[57:81](myst06.htm#fr_80.md) <span
 id="an_iii.iii-p56.1"></span>
 
 <span id="an_iii.iii-p57"></span> Morton Prince, “The Dissociation of a
 Personality,” p. 16.
 
-<span id="fn_81"></span>[58:82](myst06.htm#fr_81) <span
+<span id="fn_81"></span>[58:82](myst06.htm#fr_81.md) <span
 id="an_iii.iii-p59.1"></span>
 
 <span id="an_iii.iii-p60"></span> Martensen, “Jacob Boehme,” p. 7.
 
-<span id="fn_82"></span>[58:83](myst06.htm#fr_82) <span
+<span id="fn_82"></span>[58:83](myst06.htm#fr_82.md) <span
 id="an_iii.iii-p60.1"></span>
 
 <span id="an_iii.iii-p61"></span> Testament, cap. iii.
 
-<span id="fn_83"></span>[58:84](myst06.htm#fr_83) <span
+<span id="fn_83"></span>[58:84](myst06.htm#fr_83.md) <span
 id="an_iii.iii-p61.1"></span>
 
 <span id="an_iii.iii-p62"></span> Starbuck, “The Psychology of
 Religion,” p. 388.
 
-<span id="fn_84"></span>[59:85](myst06.htm#fr_84) <span
+<span id="fn_84"></span>[59:85](myst06.htm#fr_84.md) <span
 id="an_iii.iii-p64.1"></span>
 
 <span id="an_iii.iii-p65"></span> See, for instances, Cutten, ‘The
 Psychological Phenomena of Christianity,” cap. viii.
 
-<span id="fn_85"></span>[59:86](myst06.htm#fr_85) <span
+<span id="fn_85"></span>[59:86](myst06.htm#fr_85.md) <span
 id="an_iii.iii-p66.1"></span>
 
 <span id="an_iii.iii-p67"></span> “Singularity,” says Gertrude More, “is
@@ -1333,59 +1333,59 @@ a vice which Thou extremely hatest.” (‘The Spiritual Exercises of the
 most vertuous and religious Dame Gertrude More,” p. 40). All the best
 and sanest of the mystics are of the same opinion.
 
-<span id="fn_86"></span>[59:87](myst06.htm#fr_86) <span
+<span id="fn_86"></span>[59:87](myst06.htm#fr_86.md) <span
 id="an_iii.iii-p67.1"></span>
 
 <span id="an_iii.iii-p68"></span> See E. Gardner, “St. Catherine of
 Siena,” pp. 12and 48; and E. von Hügel, “The Mystical Element of
 Religion,” vol. i. p. 135.
 
-<span id="fn_87"></span>[60:88](myst06.htm#fr_87) <span
+<span id="fn_87"></span>[60:88](myst06.htm#fr_87.md) <span
 id="an_iii.iii-p69.1"></span>
 
 <span id="an_iii.iii-p70"></span> “Les Maladies des Sentiments
 Religieux.”
 
-<span id="fn_88"></span>[60:89](myst06.htm#fr_88) <span
+<span id="fn_88"></span>[60:89](myst06.htm#fr_88.md) <span
 id="an_iii.iii-p70.1"></span>
 
 <span id="an_iii.iii-p71"></span> “L’État Mentale des Hysteriques,” and
 “Une Extatique” ( *Bulletin de l’Institut Psychologique* , 1901).
 
-<span id="fn_89"></span>[60:90](myst06.htm#fr_89) <span
+<span id="fn_89"></span>[60:90](myst06.htm#fr_89.md) <span
 id="an_iii.iii-p71.1"></span>
 
 <span id="an_iii.iii-p72"></span> “La Psychologie des Sentiment,” 1896.
 
-<span id="fn_90"></span>[60:91](myst06.htm#fr_90) <span
+<span id="fn_90"></span>[60:91](myst06.htm#fr_90.md) <span
 id="an_iii.iii-p72.1"></span>
 
 <span id="an_iii.iii-p73"></span> *Op. cit* ., vol. ii. p. 42.
 
-<span id="fn_91"></span>[60:92](myst06.htm#fr_91) <span
+<span id="fn_91"></span>[60:92](myst06.htm#fr_91.md) <span
 id="an_iii.iii-p74.1"></span>
 
 <span id="an_iii.iii-p75"></span> For examples consult Pierre Janet,
 *op. cit.*
 
-<span id="fn_92"></span>[61:93](myst06.htm#fr_92) <span
+<span id="fn_92"></span>[61:93](myst06.htm#fr_92.md) <span
 id="an_iii.iii-p77.1"></span>
 
 <span id="an_iii.iii-p78"></span> Sermon for First Sunday after Easter
 (Winkworth, p. 302).
 
-<span id="fn_93"></span>[61:94](myst06.htm#fr_93) <span
+<span id="fn_93"></span>[61:94](myst06.htm#fr_93.md) <span
 id="an_iii.iii-p78.1"></span>
 
 <span id="an_iii.iii-p79"></span> “Das Fliessende Licht der Gottheit,”
 pt. ii. cap. xxv.
 
-<span id="fn_94"></span>[61:95](myst06.htm#fr_94) <span
+<span id="fn_94"></span>[61:95](myst06.htm#fr_94.md) <span
 id="an_iii.iii-p80.1"></span>
 
 <span id="an_iii.iii-p81"></span> Vida, cap. xx. sect. 29.
 
-<span id="fn_95"></span>[62:96](myst06.htm#fr_95) <span
+<span id="fn_95"></span>[62:96](myst06.htm#fr_95.md) <span
 id="an_iii.iii-p82.1"></span>
 
 <span id="an_iii.iii-p83"></span> Boyce Gibson (“God with Us,” cap.
@@ -1396,54 +1396,54 @@ applicable to the drastic rearrangement of personality which takes place
 in the case of the mystic, whose spiritual life is more intense than
 that of other men.
 
-<span id="fn_96"></span>[62:97](myst06.htm#fr_96) <span
+<span id="fn_96"></span>[62:97](myst06.htm#fr_96.md) <span
 id="an_iii.iii-p85.1"></span>
 
 <span id="an_iii.iii-p86"></span> Delacroix, “Études sur le Mysticisme,”
 p. iii.
 
-<span id="fn_97"></span>[63:98](myst06.htm#fr_97) <span
+<span id="fn_97"></span>[63:98](myst06.htm#fr_97.md) <span
 id="an_iii.iii-p87.1"></span>
 
 <span id="an_iii.iii-p88"></span> Dialogo, cap. lxxxvi.
 
-<span id="fn_98"></span>[64:99](myst06.htm#fr_98) <span
+<span id="fn_98"></span>[64:99](myst06.htm#fr_98.md) <span
 id="an_iii.iii-p90.1"></span>
 
 <span id="an_iii.iii-p91"></span> Quoted by James (“Varieties of
 Religious Experience,” p. 481) from Clissold’s “The Prophetic Spirit in
 Genius and Madness,” p. 67.
 
-<span id="fn_99"></span>[64:100](myst06.htm#fr_99) <span
+<span id="fn_99"></span>[64:100](myst06.htm#fr_99.md) <span
 id="an_iii.iii-p92.1"></span>
 
 <span id="an_iii.iii-p93"></span> “Mérejkowsky, “Le Roman do Leonard de
 Vinci,” p. 638.
 
-<span id="fn_100"></span>[64:101](myst06.htm#fr_100) <span
+<span id="fn_100"></span>[64:101](myst06.htm#fr_100.md) <span
 id="an_iii.iii-p93.1"></span>
 
 <span id="an_iii.iii-p94"></span> Vida, cap. xv. 9.
 
-<span id="fn_101"></span>[64:102](myst06.htm#fr_101) <span
+<span id="fn_101"></span>[64:102](myst06.htm#fr_101.md) <span
 id="an_iii.iii-p94.1"></span>
 
 <span id="an_iii.iii-p95"></span> Meister Eckhart, Pred. i. (“Mystische
 Schriften,” p. 18).
 
-<span id="fn_102"></span>[64:103](myst06.htm#fr_102) <span
+<span id="fn_102"></span>[64:103](myst06.htm#fr_102.md) <span
 id="an_iii.iii-p96.1"></span>
 
 <span id="an_iii.iii-p97"></span> “Three Dialogues of the Supersensual
 Life,” p. 14.
 
-<span id="fn_103"></span>[65:104](myst06.htm#fr_103) <span
+<span id="fn_103"></span>[65:104](myst06.htm#fr_103.md) <span
 id="an_iii.iii-p97.1"></span>
 
 <span id="an_iii.iii-p98"></span> Dionysius the Areopagite, “De Divinis
 Nominibus,” vii. 3.
 
-<span id="fn_104"></span>[65:105](myst06.htm#fr_104) <span
+<span id="fn_104"></span>[65:105](myst06.htm#fr_104.md) <span
 id="an_iii.iii-p99.1"></span>
 
 <span id="an_iii.iii-p100"></span> Pred. xxiii. Eckhart obtained this
@@ -1451,7 +1451,7 @@ image from St. Thomas Aquinas, “Summa Contra Gentiles,” I. iii. cap.
 lxi. “The intellectual soul is created on the confines of eternity and
 time.”
 
-<span id="fn_105"></span>[66:106](myst06.htm#fr_105) <span
+<span id="fn_105"></span>[66:106](myst06.htm#fr_105.md) <span
 id="an_iii.iii-p102.1"></span>
 
 <span id="an_iii.iii-p103"></span> Vie, t. ii. pp. 120, 223, 229. It
@@ -1461,19 +1461,19 @@ This is true. Nevertheless she exhibit such a profusion of mystical
 phenomena and is so candid in her self-disclosures, that she provides
 much valuable material for the student.
 
-<span id="fn_106"></span>[66:107](myst06.htm#fr_106) <span
+<span id="fn_106"></span>[66:107](myst06.htm#fr_106.md) <span
 id="an_iii.iii-p104.1"></span>
 
 <span id="an_iii.iii-p105"></span> G. Cunninghame Graham, “Santa
 Teresa,” vol. i. p. 202.
 
-<span id="fn_107"></span>[66:108](myst06.htm#fr_107) <span
+<span id="fn_107"></span>[66:108](myst06.htm#fr_107.md) <span
 id="an_iii.iii-p105.1"></span>
 
 <span id="an_iii.iii-p106"></span> “Letters of William Blake,” April 25,
 1803.
 
-<span id="fn_108"></span>[67:109](myst06.htm#fr_108) <span
+<span id="fn_108"></span>[67:109](myst06.htm#fr_108.md) <span
 id="an_iii.iii-p112.1"></span>
 
 <span id="an_iii.iii-p113"></span> This insistence on the twofold
@@ -1485,7 +1485,7 @@ knowledge . . . the I, who feeds on notions and words, and enchants
 himself by doing so; the Me, who is united to realities” (Bremond
 “Prière et Poésie,” cap. xii.).
 
-<span id="fn_109"></span>[68:110](myst06.htm#fr_109) <span
+<span id="fn_109"></span>[68:110](myst06.htm#fr_109.md) <span
 id="an_iii.iii-p116.1"></span>
 
 <span id="an_iii.iii-p117"></span> Julian of Norwich, “Revelations of
@@ -1495,6 +1495,6 @@ Divine Love,” cap, lv.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Characteristics of Mysticism](myst07)
+[Next: IV. The Characteristics of Mysticism](myst07.md)
 
 </div>

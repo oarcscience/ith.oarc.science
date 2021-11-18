@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam04)  [Next](adam06) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam04)  [Next](adam06.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Adam (PUH) and so they did that on the surface of Kufa.
 
 ------------------------------------------------------------------------
 
-[Next: Some tales related to our research](adam06)
+[Next: Some tales related to our research](adam06.md)

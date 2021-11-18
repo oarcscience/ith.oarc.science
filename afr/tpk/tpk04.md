@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk03)  [Next](tpk05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk03)  [Next](tpk05.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Jesus and the woman of Samaria.
 
 ------------------------------------------------------------------------
 
-[Next: The Healing](tpk05)
+[Next: The Healing](tpk05.md)

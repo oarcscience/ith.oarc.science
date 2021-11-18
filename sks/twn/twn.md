@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/twn)  [Previous](../tos/tos) 
-[Next](../twt/twt) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/twn)  [Previous](../tos/tos.md) 
+[Next](../twt/twt.md) 
 
 ------------------------------------------------------------------------
 
@@ -4028,4 +4028,4 @@ Index](../index)  [First Folio](../ff/twn)  [Previous](../tos/tos) 
 
 ------------------------------------------------------------------------
 
-[Next: The Winter's Tale](../twt/twt) 
+[Next: The Winter's Tale](../twt/twt.md) 

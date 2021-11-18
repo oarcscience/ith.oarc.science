@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar10)  [Next](gar12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar10)  [Next](gar12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ in the various mysteries; possibly in the Eleusinian and the Phrygian.
 For universal tradition made the first founder of mysteries, Bacchus,
 bring them direct from India; and Jove's μῆρος, the fabled birth-place
 of the god, may have been no other than Mount *Meru*, the Olympus of the
-Hindoo Pantheon. <span id="fr_8"></span>[\*](#fn_8)
+Hindoo Pantheon. <span id="fr_8"></span>[\*](#fn_8.md)
 
 Certain Gnostic tenets concerning the duality of the Divine emanations,
 absorption into the god-head, asceticism, penance, and self-collection,
@@ -39,7 +39,7 @@ fitting place. But we are not left to mere conjecture on this point, for
 the actual circumstances of their importation from India are minutely
 detailed, in one case that doubtless had many parallels, by the
 laborious Epiphanius in his "Life of Manes," (Hæres. lxv.). <span
-id="fr_9"></span>[†](#fn_9)
+id="fr_9"></span>[†](#fn_9.md)
 
 This celebrated heresiarch, equally abhorrent to Zoroastrian and
 Christian orthodoxy, was by birth a Persian, named Cubricus; but who
@@ -106,7 +106,7 @@ detection, he assumed the name of *Buddas*, which signifies "Wise."
 his master had been gathering up in their Indian travels; and the truth
 lying at the bottom of this story seems to be that he gave himself out
 for a *fresh incarnation* of Buddha, of which there had been
-*seven* <span id="fr_10"></span>[\*](#fn_10) before his date.)
+*seven* <span id="fr_10"></span>[\*](#fn_10) before his date..md)
 
 "This Terminthus was himself a man of learning and conversant with his
 master's four treatises. He lodged in the house of a widow, where he
@@ -210,7 +210,7 @@ Constantine himself, before finally changing his religion, following the
 Apostolical precept "Try all things, hold fast that which is good,"
 carefully studied the Manichæan system under the guidance of the learned
 Musonianus, whom we must suppose to have been a great doctor of the
-sect. <span id="fr_11"></span>[\*](#fn_11) Nay more, this religion,
+sect. <span id="fr_11"></span>[\*](#fn_11.md) Nay more, this religion,
 after long seeming extinction from the pertinacious persecution of the
 Byzantine emperors, again blazed forth with extraordinary lustre in the
 Paulicianism of the Middle Ages.
@@ -240,7 +240,7 @@ St. Augustine); he also adopted the entire theory of Emanations, exactly
 as it was defined in the older Gnostic systems. St. Augustine's words
 are ('Confessions' iii. 10): "And I, not understanding this, used to
 mock at those holy servants and prophets of thine. <span
-id="fr_12"></span>[\*](#fn_12) And what was I doing when I mocked at
+id="fr_12"></span>[\*](#fn_12.md) And what was I doing when I mocked at
 them, except that I myself was mocked at by thee, being seduced gently
 and by degrees into such absurdities as to believe that the fig weeps
 when it is plucked, and likewise its parent tree, with tears of milk?
@@ -263,7 +263,7 @@ Manes invented a theory of salvation, so very whimsical that it ought to
 be inserted here, to recreate the wanderer in this dreary and dusky
 theological labyrinth. "When the Son came into the world to effect the
 redemption of mankind, he contrived a machine containing twelve bowls
-(cadi), <span id="fr_13"></span>[†](#fn_13) which being made to revolve
+(cadi), <span id="fr_13"></span>[†](#fn_13.md) which being made to revolve
 by the motion of the spheres, attracts into itself the souls of the
 dying. These the *Great Luminary* (the sun) takes and purifies with his
 rays, and then transfers to the moon; and this is the method whereby the
@@ -286,20 +286,20 @@ to be flayed alive.
 
 ### Footnotes
 
-<span id="fn_8"></span>[42:\*](gar11.htm#fr_8) The bearer of the phallus
+<span id="fn_8"></span>[42:\*](gar11.htm#fr_8.md) The bearer of the phallus
 (lingam) in the grand Dionysian procession celebrated by Ptolemy
 Philadelphus was blackened all over with soot, doubtless to indicate the
 native country of that very equivocal symbol.
 
-<span id="fn_9"></span>[42:†](gar11.htm#fr_9) The earliest authority,
+<span id="fn_9"></span>[42:†](gar11.htm#fr_9.md) The earliest authority,
 however, (drawn upon by Epiphanius also), is the "Disputation of
 Archelaus and Manes," held at Charrae in A.D. 275-9. This book was
 written in Syriac, but is only extant in a Latin version.
 
-<span id="fn_10"></span>[44:\*](gar11.htm#fr_10) The seventh having been
+<span id="fn_10"></span>[44:\*](gar11.htm#fr_10.md) The seventh having been
 that Sakyal who, from Benares, diffused Buddhism all over the peninsula.
 
-<span id="fn_11"></span>[47:\*](gar11.htm#fr_11) "Constantinus enim cum
+<span id="fn_11"></span>[47:\*](gar11.htm#fr_11.md) "Constantinus enim cum
 limatius superatitionum quæreret sectas, Manichæorum et similium, nec
 interpres inveniretur idoneus, hunc sibi commendatum ut sufficientem
 elegit; quem officio functum perite Musonianum voluit appellari ante
@@ -307,10 +307,10 @@ Strategium dictitatum." Ammianus xv. 6. The sainted Emperor's eulogists
 have carefully hushed up this trait of an inquiring spirit, anxious to
 weigh the relative merits of the existing rivals of Catholicism.
 
-<span id="fn_12"></span>[48:\*](gar11.htm#fr_12) Alluding to the
+<span id="fn_12"></span>[48:\*](gar11.htm#fr_12.md) Alluding to the
 Manichæan rejection of the Old Testament as a divine revelation.
 
-<span id="fn_13"></span>[48:†](gar11.htm#fr_13) In the notion of this
+<span id="fn_13"></span>[48:†](gar11.htm#fr_13.md) In the notion of this
 machine may be traced the influence of the study of Plato in the school
 of Palmyra, for it is unmistakably borrowed from the eight concentric
 basins set in motion, one inside the other, by the fingers of the Fates,
@@ -318,4 +318,4 @@ so minutely described in the Vision of Er the Pamphylian.
 
 ------------------------------------------------------------------------
 
-[Next: Buddhism](gar12)
+[Next: Buddhism](gar12.md)

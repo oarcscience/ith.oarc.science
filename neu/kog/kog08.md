@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog07)  [Next](kog09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog07)  [Next](kog09.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ other half too.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Three Doves](kog09)
+[Next: 6. Three Doves](kog09.md)

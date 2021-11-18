@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](wota12)  [Next](wota14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](wota12)  [Next](wota14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wisdom of the Ages*, by George A. Fuller, \[1916\], at Intangible
 Textual Heritage
 
@@ -93,4 +93,4 @@ things become the bright gems that stud the crowns of immortal spirits.
 
 ------------------------------------------------------------------------
 
-[Next: XIII](wota14)
+[Next: XIII](wota14.md)

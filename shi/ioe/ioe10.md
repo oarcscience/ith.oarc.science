@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe09) 
-[Next](ioe11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe09.md) 
+[Next](ioe11.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ attaining the result, so that this sect was sometimes called the True
 Word, or Shingon.
 
 Art and Nature were now regarded in a new light, for in every object
-alike was contained [Vairochana](errata.htm#1), the
+alike was contained [Vairochana](errata.htm#1.md), the
 Impersonal-Universal, a supreme realisation of which was to be the quest
 of the believer. Crime, from this point of view of transcendent
 one-ness, becomes as sacred as self-sacrifice, the lowest demon as
@@ -123,7 +123,7 @@ development. Architecture, sculpture, and the whole arrangement of
 the temple, were all made expressive of this idea of the universe.
 
 It was under this influence that Buddhism acquired its great masses of
-gods and [goddesses](errata.htm#2), alien to the faith itself, but made
+gods and [goddesses](errata.htm#2.md), alien to the faith itself, but made
 possible by the new teaching as manifestations of the supreme original
 Divinity. We find now a systematised pantheon, grouped around the idea
 of Vairochana, in four main subdivisions--first Fudo, second Hosho,
@@ -256,4 +256,4 @@ Buddhahood. This last phase is that known in India as jivan-mukti.
 
 ------------------------------------------------------------------------
 
-[Next: The Fujiwara Period: 900 to 1200 A.D.](ioe11)
+[Next: The Fujiwara Period: 900 to 1200 A.D.](ioe11.md)

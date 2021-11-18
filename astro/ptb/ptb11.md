@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb10)  [Next](ptb12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb10)  [Next](ptb12.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ arrive at their first station, are chiefly productive of moisture; from
 their first station until they rise at night, of heat; from their rising
 at night until their second station, of dryness; and from their second
 station until their occultation, they produce cold. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 But it is also sufficiently plain that they must likewise cause, by
 their intermixture with each other, many varieties of quality in the
@@ -37,7 +37,7 @@ power of the other heavenly bodies configurated with them.
 
 ### Footnotes
 
-<span id="fn_42"></span>[16:1](ptb11.htm#fr_42) Although all the
+<span id="fn_42"></span>[16:1](ptb11.htm#fr_42.md) Although all the
 positions mentioned in this paragraph are not applicable to Venus and
 Mercury, which can never rise at night, that is to say, at sunset, and
 although the author in the beginning of the chapter speaks only of the
@@ -52,4 +52,4 @@ planets) "begin to rise at night when in opposition to the Sun."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Influence of the Fixed Stars](ptb12)
+[Next: Chapter IX. The Influence of the Fixed Stars](ptb12.md)

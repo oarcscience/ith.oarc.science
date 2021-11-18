@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](epistle)  [Next](cen9eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](epistle)  [Next](cen9eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -608,6 +608,6 @@ to die of thirst through a great deficiency.
 
 ------------------------------------------------------------------------
 
-[Next: Century IX](cen9eng)
+[Next: Century IX](cen9eng.md)
 
   

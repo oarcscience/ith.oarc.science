@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](biob04)  [Next](biob06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](biob04)  [Next](biob06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Biography of the Bible*, by Ernest Sutherland Bates, \[1937\], at
 Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ monastery,
 
 <span id="img_07600"></span> <span align="CENTER"> [![Characteristic
 page from the Gutenberg Bible (1450–55)](tn/07600.jpg)  
-Click to enlarge](img/07600.jpg)  
+Click to enlarge](img/07600.jpg.md)  
 Characteristic page from the Gutenberg Bible (1450–55)  
 </span>
 
@@ -71,7 +71,7 @@ Characteristic page from the Gutenberg Bible (1450–55)
 
 <span id="img_07700"></span> <span align="CENTER"> [![Title page of the
 Coverdale Bible (1535)](tn/07700.jpg)  
-Click to enlarge](img/07700.jpg)  
+Click to enlarge](img/07700.jpg.md)  
 Title page of the Coverdale Bible (1535)  
 </span>
 
@@ -265,7 +265,7 @@ cries of "God Wills It!" was conducted in a manner that
 
 <span id="img_08400"></span> <span align="CENTER"> [![Title page of
 Tyndale's New Testament (1535)](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 Title page of Tyndale's New Testament (1535)  
 </span>
 
@@ -273,7 +273,7 @@ Title page of Tyndale's New Testament (1535)
 
 <span id="img_08500"></span> <span align="CENTER"> [![Title page of the
 Matthew Bible (1537)](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)  
+Click to enlarge](img/08500.jpg.md)  
 Title page of the Matthew Bible (1537)  
 </span>
 
@@ -595,4 +595,4 @@ half-gratified curiosity of the later Middle Ages.
 
 ------------------------------------------------------------------------
 
-[Next: Five. The Great Translations](biob06)
+[Next: Five. The Great Translations](biob06.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som10) 
-[Next](som12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som10.md) 
+[Next](som12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ the Spirit of God. We see what man does; but we do not see the doer.
 CHRIST, LOGOS.--The Word of God manifest in and through man. In a
 liberal sense the Christ means the Entire Manifestation of God and is,
 therefore, the Second Person of the Trinity. Christ is a Universal Idea,
-and each one "Puts on The Christ" <span id="fr_33"></span>[34](#fn_33)
+and each one "Puts on The Christ" <span id="fr_33"></span>[34](#fn_33.md)
 to the degree that he surrenders a limited sense of Life to the Divine
 Realization.
 
@@ -107,7 +107,7 @@ few feet around the individual and can be seen by many people.
 <span id="img_chart02a"></span>
 
 [![Lesson Two: Metaphysical Chart No. II-A.](tn/chart02a.jpg)  
-Click to enlarge](img/chart02a.jpg)  
+Click to enlarge](img/chart02a.jpg.md)  
 Lesson Two: Metaphysical Chart No. II-A.  
 
 This chart shows, first, the Universal Spirit; then the Universal Soul
@@ -174,7 +174,7 @@ CONDITIONS.--External things, the result of thought.
 <span id="img_chart02b"></span>
 
 [![Lesson Two: Metaphysical Chart No. II-B.](tn/chart02b.jpg)  
-Click to enlarge](img/chart02b.jpg)  
+Click to enlarge](img/chart02b.jpg.md)  
 Lesson Two: Metaphysical Chart No. II-B.  
 
 This chart shows how man reënacts the Whole and is subject to the law of
@@ -216,8 +216,8 @@ reason, but are always the result of some inner cause.
 
 ### Footnotes
 
-<span id="fn_33"></span>[97:34](som11.htm#fr_33) Gal. 3:27.
+<span id="fn_33"></span>[97:34](som11.htm#fr_33.md) Gal. 3:27.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson Two: The Nature of Man](som12)
+[Next: Lesson Two: The Nature of Man](som12.md)

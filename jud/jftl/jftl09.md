@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl08)  [Next](jftl10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl08)  [Next](jftl10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ of the king's magicians and astrologers, tell you it is an omen.
 <span id="img_08800"></span> <span align="CENTER"> [![''The big fellow
 here got angry, beat the others and smashed them to bits.''
 (&lt;i&gt;Page 95&lt;/i&gt;).](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 ''The big fellow here got angry, beat the others and smashed them to
 bits.'' (*Page 95*).  
 </span>
@@ -320,4 +320,4 @@ peace.
 
 ------------------------------------------------------------------------
 
-[Next: Abi Fressah's Feast](jftl10)
+[Next: Abi Fressah's Feast](jftl10.md)

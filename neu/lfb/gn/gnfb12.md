@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb11)  [Next](gnfb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb11)  [Next](gnfb13.md) 
 
 </div>
 
@@ -199,6 +199,6 @@ nearly these faults had brought them to an untimely end.
 
 ------------------------------------------------------------------------
 
-[Next: Heart of Ice](gnfb13)
+[Next: Heart of Ice](gnfb13.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](rtae11)  [Next](rtae13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](rtae11)  [Next](rtae13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Development of Religion and Thought in Ancient Egypt*, by James Henry
 Breasted, \[1912\], at Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ went on without heeding the eloquent silence and desolation that reigned
 on the pyramid plateau and in the cemeteries of the fathers. Even Ipuwer
 had said to the king: "It is, moreover, good when the hands of men build
 pyramids, lakes are dug, and groves of sycomores of the gods are
-planted." <span id="fr_702"></span>[1](#fn_702) In the opinion of the
+planted." <span id="fr_702"></span>[1](#fn_702.md) In the opinion of the
 prosperous official class the loss of the tomb was the direst possible
 consequence of unfaithfulness to the king, and a wise man said to his
 children:
@@ -48,7 +48,7 @@ children:
 
 <span class="small">"There is no tomb for one hostile to his majesty;  
  But his body shall be thrown to the waters." <span
-id="fr_703"></span>[1](#fn_703)</span>
+id="fr_703"></span>[1](#fn_703.md)</span>
 
 </div>
 
@@ -65,7 +65,7 @@ the lake which was dug reached the river, the gates, towering
 heavenward, were of limestone of Troja. Osiris, First of the Westerners,
 rejoiced over all the monuments of my lord (the king). I myself rejoiced
 and my heart was glad at that which I had executed." <span
-id="fr_704"></span>[2](#fn_704) The "eternal seat" is the king's tomb,
+id="fr_704"></span>[2](#fn_704.md) The "eternal seat" is the king's tomb,
 including, as the description shows, also the chapel or mortuary temple
 in front.
 
@@ -124,7 +124,7 @@ inscriptions on the inner wall of his tomb-chapel, and they furnish
 to-day a very suggestive picture of the calendar of feasts celebrated in
 this provincial city of which Hepzefi was lord—feasts in all of which
 living and dead alike participated. The bald data from these contracts
-will be found in a table below (pp. [268](#page_268)–9), and on the
+will be found in a table below (pp. [268](#page_268)–9.md), and on the
 basis of these the following imaginative reconstruction endeavors to
 correlate them with the life which they suggest. The most important
 celebrations were those which took place in connection with the new
@@ -141,7 +141,7 @@ they
 <span id="page_261">p. 261</span>
 
 entered the court of the Anubis temple, each deposited his loaf at the
-base of Hepzefi's statue. <span id="fr_705"></span>[1](#fn_705)
+base of Hepzefi's statue. <span id="fr_705"></span>[1](#fn_705.md)
 
 Five days later, as the day declined, the overseer of the necropolis,
 followed by the nine men of his staff, climbed down from the cliffs,
@@ -222,7 +222,7 @@ many a furtive glance at a false door in the rear wall of the chapel,
 through which they know Hepzefi may at any moment issue from the shadow
 world behind it, to re-enter this world and to celebrate with his
 surviving friends the festivities of New Year's Eve. <span
-id="fr_706"></span>[1](#fn_706)
+id="fr_706"></span>[1](#fn_706.md)
 
 The next day, the first day of the new year, is the greatest feast-day
 in the calendar. There is joyful exchange of gifts, and the people of
@@ -252,7 +252,7 @@ may share the joyous feast with them. It is, indeed, the earliest Feast
 of All-Souls. The necropolis guards hasten up to Hepzefi's chapel with
 their supplies, which they quickly deliver to his priest, and are off
 again to preserve order among the merry crowds now everywhere pushing up
-the cliff. <span id="fr_707"></span>[1](#fn_707)
+the cliff. <span id="fr_707"></span>[1](#fn_707.md)
 
 As the day wears on there are busy preparations for the evening
 celebration, for the illumination, and the "glorification of the
@@ -270,7 +270,7 @@ already carry, and the procession of guards and priests together moves
 slowly out of the temple court and across the sacred enclosure "to the
 northern corner of the temple," as the contract with Hepzefi prescribes,
 chanting the "glorification" of Hepzefi. <span
-id="fr_708"></span>[1](#fn_708) As they go the priests carry each a
+id="fr_708"></span>[1](#fn_708.md) As they go the priests carry each a
 large conical loaf of white bread, such as they had laid before the
 statue of Hepzefi in the temple of Anubis five days before. Arrived at
 the "northern corner of the temple," the priests turn back to their
@@ -293,7 +293,7 @@ and burial-places of their dead. The guards climb to Hepzefi's tomb as
 they had done the night before and deliver torches and white bread to
 Hepzefi's waiting priest. Thus the dead noble shares in the festivities
 of the New Year's celebration as his children and former subjects were
-doing. <span id="fr_709"></span>[1](#fn_709)
+doing. <span id="fr_709"></span>[1](#fn_709.md)
 
 Seventeen days later, on the eve of the Wag-feast, the "great priest of
 Anubis" brought forth a bale of torches, and, heading his colleagues,
@@ -307,12 +307,12 @@ desert patrol, or "overseer of the highland," where the necropolis was,
 just returning from the magazines in the town, having brought a jar of
 beer, a large loaf, five hundred flat cakes, and ten white loaves to be
 delivered to Hepzefi's priest at the tomb above. <span
-id="fr_710"></span>[2](#fn_710) The next day, the eighteenth of the
+id="fr_710"></span>[2](#fn_710.md) The next day, the eighteenth of the
 first month, the day of the Wag-feast, the priests of Upwawet in the
 town each presented the usual large white loaf at Hepzefi's statue in
 their temple, followed by an "illumination" and "glorification" as they
 marched in procession around the temple court. <span
-id="fr_711"></span>[3](#fn_711)
+id="fr_711"></span>[3](#fn_711.md)
 
 Besides these great feasts which were thus enjoyed by the dead lord, he
 was not forgotten on any of the periodic minor feasts which fell on the
@@ -322,15 +322,15 @@ first of every month and
 
 half-month, or on any "day of a procession." On these days he received a
 certain proportion of the meat and beer offered in the temple of
-Upwawet. <span id="fr_712"></span>[1](#fn_712) His daily needs were met
+Upwawet. <span id="fr_712"></span>[1](#fn_712.md) His daily needs were met
 by the laymen serving in successive shifts in the temple of Anubis. As
 this sanctuary was near the cemetery, these men, after completing their
 duties in the temple, went out every day with a portion of bread and a
 jar of beer, which they deposited before the statue of Hepzefi "which is
-on the lower stairs of his tomb." <span id="fr_713"></span>[2](#fn_713)
+on the lower stairs of his tomb." <span id="fr_713"></span>[2](#fn_713.md)
 There was, therefore, not a day in the year when Hepzefi failed to
 receive the food and drink necessary for his maintenance. <span
-id="fr_714"></span>[3](#fn_714)
+id="fr_714"></span>[3](#fn_714.md)
 
 Khnumhotep, the powerful baron of Benihasan, tells us more briefly of
 similar precautions which he took before his death. "I adorned the
@@ -500,9 +500,9 @@ class="smallcaps">Erman</span> (ÄZ, 1882, pp. 159–184).
 
 <span class="contnote">\[paragraph continues\]</span> Feasts; every
 feast of the happy living and of the dead. <span
-id="fr_715"></span>[1](#fn_715) Now, as for the mortuary priest, or any
+id="fr_715"></span>[1](#fn_715.md) Now, as for the mortuary priest, or any
 person who shall disturb them, he shall not survive, his son shall not
-survive in his place." <span id="fr_716"></span>[2](#fn_716) The
+survive in his place." <span id="fr_716"></span>[2](#fn_716.md) The
 apprehension of the noble is evident, and such apprehensions are common
 in documents of this nature. We have seen Hepzefi equally apprehensive.
 
@@ -516,7 +516,7 @@ his obligations in reminding them of theirs, and in seeing to it that
 these obligations were met. We find such an endowment surviving a change
 of dynasty (from the Fourth to the Fifth), and lasting at least some
 thirty or forty years, in the middle of the twenty-eighth century before
-[Christ](errata.htm#6). <span id="fr_717"></span>[3](#fn_717) In the
+[Christ](errata.htm#6). <span id="fr_717"></span>[3](#fn_717.md) In the
 Twelfth Dynasty, too, there was in Upper Egypt great respect for the
 ancestors of the Old Kingdom. The nomarchs of El-Bersheh, in the
 nineteenth and twentieth centuries before Christ, repaired the tombs of
@@ -531,13 +531,13 @@ promontory; restoring what was found
 in ruin and renewing what was found decayed, the ancestors who were
 before not having done it." We find the nobles of this province using
 this formula five times in the tombs of their ancestors. <span
-id="fr_718"></span>[1](#fn_718) In the same way, Intef, a baron of
+id="fr_718"></span>[1](#fn_718.md) In the same way, Intef, a baron of
 Hermonthis, says: "I found the chapel of the prince Nekhtyoker fallen to
 ruin, its walls were old, its statues were shattered, there was no one
 who cared for them. It was built up anew, its plan was extended, its
 statues were made anew, its doors were built of stone, that its place
 might excel beyond that of other august princes." <span
-id="fr_719"></span>[2](#fn_719) Such piety toward the departed fathers,
+id="fr_719"></span>[2](#fn_719.md) Such piety toward the departed fathers,
 however, was very rare, and even when shown could not do more than
 postpone the evil day. The marvel is that with their ancestors’ ruined
 tombs before them they nevertheless still went on to build for
@@ -550,7 +550,7 @@ English. The earliest of these scrawls is that of an Egyptian scribe who
 entered the tomb-chapel over three thousand years ago and wrote with
 reed pen and ink upon the wall these words: "The scribe Amenmose came to
 see the temple of Khufu and found it like the heavens when the sun rises
-therein." <span id="fr_720"></span>[3](#fn_720) The chapel was some
+therein." <span id="fr_720"></span>[3](#fn_720.md) The chapel was some
 seven hundred years old when this scribe entered it, and its owner,
 although one of the greatest lords of his time, was so completely
 forgotten that the visitor, finding the name of Khufu in a casual
@@ -598,20 +598,20 @@ such texts as he had available. It was all done with great carelessness
 and inaccuracy, the effort being to fill up the planks as fast as
 possible. They often wrote the same chapter over twice or three times in
 the same coffin, and in one instance a chapter is found no less than
-five times in the same coffin. <span id="fr_721"></span>[1](#fn_721)
+five times in the same coffin. <span id="fr_721"></span>[1](#fn_721.md)
 
 <span id="page_274">p. 274</span>
 
 In so far as these Coffin Texts are identical with the Pyramid Texts we
 are already familiar with their general function and content. <span
-id="fr_722"></span>[1](#fn_722) The hereafter to which these citizens of
+id="fr_722"></span>[1](#fn_722.md) The hereafter to which these citizens of
 the Feudal Age looked forward was, therefore, still largely celestial
 and Solar as in the Pyramid Age. But even these early chapters of the
 Book of the Dead disclose a surprising predominance of the celestial
 hereafter. There is the same identification with the Sun-god which we
 found in the Pyramid Texts. There is a chapter of "Becoming
-Re-Atum," <span id="fr_723"></span>[2](#fn_723) and several of "Becoming
-a Falcon." <span id="fr_724"></span>[3](#fn_724) The deceased, now no
+Re-Atum," <span id="fr_723"></span>[2](#fn_723.md) and several of "Becoming
+a Falcon." <span id="fr_724"></span>[3](#fn_724.md) The deceased, now no
 longer the king, as in the Pyramid Texts, says: "I am the soul of the
 god, self-generator. . . . I have become he. I am he before whom the sky
 is silent, I am he before whom the earth is ⌈. . . ⌉ . . . I have become
@@ -620,25 +620,25 @@ the limbs of the god, self-generator. He has made me into his heart
 ⌈breathed⌉ the form of him who fashioned me, the august god,
 self-generator, whose name the gods know not. . . . He has made me into
 his heart, he has fashioned me into his soul, I was not born with a
-birth." <span id="fr_725"></span>[4](#fn_725) This identification of the
+birth." <span id="fr_725"></span>[4](#fn_725.md) This identification of the
 deceased with the Sun-god alternates with old pictures of the Solar
 destiny, involving only association with the Sun-god. There is a chapter
 of "Ascending to the Sky to the Place where Re is," <span
-id="fr_726"></span>[5](#fn_726) another of "Embarking in
+id="fr_726"></span>[5](#fn_726.md) another of "Embarking in
 
 <span id="page_275">p. 275</span>
 
 the Ship of Re when he has Gone to his Ka; <span
-id="fr_727"></span>[1](#fn_727) and a "Chapter of Entering Into the West
+id="fr_727"></span>[1](#fn_727.md) and a "Chapter of Entering Into the West
 among the Followers of Re Every Day." <span
-id="fr_728"></span>[2](#fn_728) When once there the dead man finds among
+id="fr_728"></span>[2](#fn_728.md) When once there the dead man finds among
 his resources a chapter of "Being the Scribe of Re." <span
-id="fr_729"></span>[3](#fn_729) He also has a chapter of "Becoming One
-Revered by the King," <span id="fr_730"></span>[4](#fn_730) presumably
+id="fr_729"></span>[3](#fn_729.md) He also has a chapter of "Becoming One
+Revered by the King," <span id="fr_730"></span>[4](#fn_730.md) presumably
 meaning the Sun-god, as the chapter is a magical formulary for
 accomplishing the ascent to the sky. In the same way he may become an
 associate of the Sun-god by using a chapter of "Becoming One of ⌈the
-Great⌉ of Heliopolis." <span id="fr_731"></span>[5](#fn_731)
+Great⌉ of Heliopolis." <span id="fr_731"></span>[5](#fn_731.md)
 
 The famous seventeenth chapter of the Book of the Dead was already a
 favorite chapter in this age, and begins the texts on a number of
@@ -672,13 +672,13 @@ the words, "that is Osiris." The result of this Osirianization was the
 intrusion of the Osirian *subterranean* hereafter, even in Solar and
 celestial texts. Thus this seventeenth chapter was supplied with a title
 reading, "Chapter of Ascending by Day from the Nether World." <span
-id="fr_732"></span>[1](#fn_732) This title is not original, and is part
+id="fr_732"></span>[1](#fn_732.md) This title is not original, and is part
 of the Osirian editing, which involuntarily places the sojourn of the
 dead in the Nether World though it cannot eliminate all the old Solar
 texts. The titles now commonly appended to these texts frequently
 conclude with the words, "in the Nether World." We find a chapter for
 "The Advancement of a Man in the Nether World," <span
-id="fr_733"></span>[2](#fn_733) although it is devoted throughout to
+id="fr_733"></span>[2](#fn_733.md) although it is devoted throughout to
 Solar and celestial conceptions. In the Pyramid Texts, as we have seen,
 the intrusion of Osiris did not result in altering the essentially
 *celestial* character of the hereafter to which they are devoted. In the
@@ -698,17 +698,17 @@ the dead, functions entirely unknown in the Pyramid Texts. The old Solar
 idea that the dead might become the scribe of Re, we have already found
 in the Coffin Texts; but while the title is given as "Being the Scribe
 of Re," the text begins, "I am Kerkeru, scribe of Osiris." <span
-id="fr_734"></span>[1](#fn_734) We can hardly conceive a mass of
+id="fr_734"></span>[1](#fn_734.md) We can hardly conceive a mass of
 mortuary doctrine containing a "Chapter of Reaching Orion," <span
-id="fr_735"></span>[2](#fn_735) a fragment of ancient celestial belief,
+id="fr_735"></span>[2](#fn_735.md) a fragment of ancient celestial belief,
 side by side with such chapters as "Burial in the West," <span
-id="fr_736"></span>[3](#fn_736) "That the Beautiful West Rejoice at the
-Approach of a Man," <span id="fr_737"></span>[4](#fn_737) "Chapter of
-Becoming the Nile," <span id="fr_738"></span>[5](#fn_738) which is, of
+id="fr_736"></span>[3](#fn_736.md) "That the Beautiful West Rejoice at the
+Approach of a Man," <span id="fr_737"></span>[4](#fn_737.md) "Chapter of
+Becoming the Nile," <span id="fr_738"></span>[5](#fn_738.md) which is, of
 course, a purely Osirian title although the text of the chapter is
 Solar; or a chapter of "Becoming the Harvest-god (Neper)," in which the
 deceased is identified with Osiris and with barley, as well as with
-Neper, god of harvest and grain. <span id="fr_739"></span>[6](#fn_739)
+Neper, god of harvest and grain. <span id="fr_739"></span>[6](#fn_739.md)
 
 The Coffin Texts already display the tendency, carried so much further
 by the Book of the Dead, of enabling the deceased to transform himself
@@ -721,10 +721,10 @@ identification with Re, Osiris, and other gods,
 
 which, of course, involved belief in a transformation, the Coffin Texts
 also enable the deceased to "become the blazing Eye of Horus." <span
-id="fr_740"></span>[1](#fn_740) By the aid of another chapter he can
+id="fr_740"></span>[1](#fn_740.md) By the aid of another chapter he can
 accomplish the "transformation into an ekhet-bird" <span
-id="fr_741"></span>[2](#fn_741) or "into the servant at the table of
-Hathor." <span id="fr_742"></span>[3](#fn_742)
+id="fr_741"></span>[2](#fn_741.md) or "into the servant at the table of
+Hathor." <span id="fr_742"></span>[3](#fn_742.md)
 
 It is difficult to gain any coherent conception of the hereafter which
 the men of this age thus hoped to attain. There are the composite
@@ -751,14 +751,14 @@ repulsest the violent who comes in the night, the
 
 <span id="page_279">p. 279</span>
 
-robber of early morning. <span id="fr_743"></span>[1](#fn_743) . . .
+robber of early morning. <span id="fr_743"></span>[1](#fn_743.md) . . .
 Thou goest around the countries with Re; he lets thee see the pleasant
 places, thou findest the valleys filled with water for washing thee and
 for cooling thee, thou pluckest marsh-flowers and heni-blossoms, lilies
 and lotus-flowers. The bird-pools come to thee by thousands, lying in
 thy path; when thou hast hurled thy boomerang against them, it is a
 thousand that fall at the sound of the wind thereof. They are ro-geese,
-green-fronts, quails, and kunuset. <span id="fr_744"></span>[2](#fn_744)
+green-fronts, quails, and kunuset. <span id="fr_744"></span>[2](#fn_744.md)
 I cause that there be brought to thee the young gazelles, ⌈bullocks⌉ of
 white bulls; I cause that there be brought to thee males of goats and
 grain-fed males of sheep. There is fastened for thee a ladder to the
@@ -766,7 +766,7 @@ sky. Nut gives to thee her two arms. Thou sailest in the Lily-lake. Thou
 bearest the wind in an eight-ship. These two fathers (Re and Atum) of
 the Imperishable Stars and of the Unweariable Stars sail thee. They
 command thee, they tow thee through the district with their imperishable
-ropes." <span id="fr_745"></span>[3](#fn_745)
+ropes." <span id="fr_745"></span>[3](#fn_745.md)
 
 In another Solar-Osirian chapter, after the deceased is crowned,
 purified, and glorified, he enters upon the Solar voyage as in the
@@ -776,7 +776,7 @@ the rudders of thy ship. . . . It is said to thee, 'Come into the
 broad-hall,' by the Great who are in the temple. Bared to thee are the
 Four Pillars of the Sky, thou seest the secrets that are therein, thou
 stretchest out thy two legs upon the Pillars of the Sky and the wind is
-sweet to thy nose." <span id="fr_746"></span>[4](#fn_746)
+sweet to thy nose." <span id="fr_746"></span>[4](#fn_746.md)
 
 <span id="page_280">p. 280</span>
 
@@ -786,10 +786,10 @@ citizen which he longed to see continued in the hereafter is quite
 discernible, also in these Coffin Texts. As he lay in his coffin he
 could read a chapter which concerned "Building a house for a man in the
 Nether World, digging a pool and planting fruit-trees." <span
-id="fr_747"></span>[1](#fn_747) Once supplied with a house, surrounded
+id="fr_747"></span>[1](#fn_747.md) Once supplied with a house, surrounded
 by a garden with its pool and its shade-trees, the dead man must be
 assured that he shall be able to occupy it, and hence a "chapter of a
-man's being in his house." <span id="fr_748"></span>[2](#fn_748) The
+man's being in his house." <span id="fr_748"></span>[2](#fn_748.md) The
 lonely sojourn there without the companionship of family and friends was
 an intolerable thought, and hence a further chapter entitled "Sealing of
 a Decree concerning the Household, to give the Household \[to a man\] in
@@ -802,7 +802,7 @@ paragraph asserts that "Geb, hereditary prince of the gods, has said to
 release for me my household, ⌈my⌉ children, my brothers and sisters, my
 father, my mother, all my slaves, all my establishment at once, rescued
 from every god, from every goddess, from every death (or dead
-person)." <span id="fr_749"></span>[3](#fn_749) To assure the fulfilment
+person)." <span id="fr_749"></span>[3](#fn_749.md) To assure the fulfilment
 of this decree there was another chapter entitled "Uniting of the
 Household of a Man with Him in the Nether World," which effected the
 "union of the household, father, mother, children, friends,
@@ -811,21 +811,21 @@ Household of a Man with Him in the Nether World," which effected the
 <span id="page_281">p. 281</span>
 
 everything belonging to a man, with him in the Nether World." <span
-id="fr_750"></span>[1](#fn_750)
+id="fr_750"></span>[1](#fn_750.md)
 
 The rehabilitation of a man's home and household in the hereafter was a
 thought involving, more inevitably even than formerly, the old-time
 belief in the necessity of food. It reminds us of the Pyramid Texts when
 we find a chapter of "Causing that X Raise Himself Upon his Right
-Side." <span id="fr_751"></span>[2](#fn_751) The mummy lies upon the
+Side." <span id="fr_751"></span>[2](#fn_751.md) The mummy lies upon the
 left side, and he rises to the other side in order that he may partake
 of food. Hence, another "Chapter of Eating Bread in the Nether
-World," <span id="fr_752"></span>[3](#fn_752) or "Eating of Bread on the
+World," <span id="fr_752"></span>[3](#fn_752.md) or "Eating of Bread on the
 Table of Re, Giving of Plenty in Heliopolis." <span
-id="fr_753"></span>[4](#fn_753) The very next chapter shows us how "the
+id="fr_753"></span>[4](#fn_753.md) The very next chapter shows us how "the
 sitter sits to eat bread when Re sits to eat bread. . . . Give to me
 bread when I am hungry. Give to me beer when I am thirsty." <span
-id="fr_754"></span>[5](#fn_754)
+id="fr_754"></span>[5](#fn_754.md)
 
 A tendency which later came fully to its own in the Book of the Dead is
 already the dominant tendency in these Coffin Texts. It regards the
@@ -845,20 +845,20 @@ grave. There was, therefore, a chapter of
 <span class="contnote">\[paragraph continues\]</span> "Becoming a
 Magician," addressed to the august ones who are in the presence of Atum
 the Sun-god. It is, of course, itself a charm and concludes with the
-words, "I am a magician." <span id="fr_755"></span>[1](#fn_755) Lest the
+words, "I am a magician." <span id="fr_755"></span>[1](#fn_755.md) Lest the
 dead man should lose his magic power, there was a ceremony involving the
 "attachment of a charm so that the magical power of man may not be taken
 away from him in the Nether World." <span
-id="fr_756"></span>[2](#fn_756) The simplest of the dangers against
+id="fr_756"></span>[2](#fn_756.md) The simplest of the dangers against
 which these charms were supplied doubtless arose in the childish
 imagination of the common folk. They are frequently grotesque in the
 extreme. We find a chapter "preventing that the head of a man be taken
-from him." <span id="fr_757"></span>[3](#fn_757) There is the old charm
+from him." <span id="fr_757"></span>[3](#fn_757.md) There is the old charm
 found also in the Pyramid Texts to prevent a man from being obliged to
-eat his own foulness. <span id="fr_758"></span>[4](#fn_758) He is not
+eat his own foulness. <span id="fr_758"></span>[4](#fn_758.md) He is not
 safe from the decay of death; hence there are two chapters that "a man
 may not decay in the Nether World." <span
-id="fr_759"></span>[5](#fn_759) But the imagination of the priests, who
+id="fr_759"></span>[5](#fn_759.md) But the imagination of the priests, who
 could only gain by the issuance of ever new chapters, undoubtedly
 contributed much to heighten the popular dread of the dangers of the
 hereafter and spread the belief in the usefulness of such means for
@@ -866,7 +866,7 @@ meeting them. We should doubtless recognize the work of the priests in
 the figure of a mysterious scribe named Gebga, who is hostile to the
 dead, so that a charm was specially devised to enable the dead man to
 break the pens, smash the writing outfit, and tear up the rolls of the
-malicious Gebga. <span id="fr_760"></span>[6](#fn_760) That menacing
+malicious Gebga. <span id="fr_760"></span>[6](#fn_760.md) That menacing
 
 <span id="page_283">p. 283</span>
 
@@ -874,45 +874,45 @@ danger which was also feared in the Pyramid Texts, the assaults of
 venomous serpents, must likewise be met by the people of the Feudal Age.
 The dead man, therefore, finds in his roll charms for "Repulsing Apophis
 from the Barque of Re" and for "Repulsing the Serpent which ⌈Afflicts⌉
-the Kas," <span id="fr_761"></span>[1](#fn_761) not to mention also one
+the Kas," <span id="fr_761"></span>[1](#fn_761.md) not to mention also one
 for "Repulsing Serpents and Repulsing Crocodiles." <span
-id="fr_762"></span>[2](#fn_762) The way of the departed was furthermore
+id="fr_762"></span>[2](#fn_762.md) The way of the departed was furthermore
 beset with fire, and he would be lost without a charm for "Going Forth
-from the Fire," <span id="fr_763"></span>[3](#fn_763) or of "Going Forth
+from the Fire," <span id="fr_763"></span>[3](#fn_763.md) or of "Going Forth
 from the Fire Behind the Great God." <span
-id="fr_764"></span>[4](#fn_764) When he was actually obliged to enter
+id="fr_764"></span>[4](#fn_764.md) When he was actually obliged to enter
 the fire he might do so with safety by means of a "Chapter of Entering
 Into the Fire and of Coming Forth from the Fire Behind the Sky." <span
-id="fr_765"></span>[5](#fn_765) Indeed, the priests had devised a chart
+id="fr_765"></span>[5](#fn_765.md) Indeed, the priests had devised a chart
 of the journey awaiting the dead, guiding him through the gate of fire
 at the entrance and showing the two ways by which he might proceed, one
 by land and the other by water, with a lake of fire between them. This
 Book of the Two Ways, with its map of the journey, was likewise recorded
-in the coffin. <span id="fr_766"></span>[6](#fn_766) In spite of such
+in the coffin. <span id="fr_766"></span>[6](#fn_766.md) In spite of such
 guidance it might unluckily happen that the dead wander into the place
 of execution of the gods; but from this he was saved by a chapter of
 "Not Entering Into the Place of Execution of the Gods; <span
-id="fr_767"></span>[7](#fn_767) and lest he should suddenly find himself
+id="fr_767"></span>[7](#fn_767.md) and lest he should suddenly find himself
 condemned to walk head downward, he
 
 <span id="page_284">p. 284</span>
 
 was supplied with a "Chapter of Not Walking Head Downward." <span
-id="fr_768"></span>[1](#fn_768) These unhappy dead who were compelled to
+id="fr_768"></span>[1](#fn_768.md) These unhappy dead who were compelled to
 go head downward were the most malicious enemies in the hereafter.
 Protection against them was vitally necessary. It is said to the
 deceased: "Life comes to thee, but death comes not to thee. . . . They
 (Orion, Sothis, and the Morning Star) save thee from the wrath of the
 dead who go head downward. Thou art not among them. . . . Rise up for
 life, thou diest not; lift thee up for life, thou diest not." <span
-id="fr_769"></span>[2](#fn_769) The malice of the dead was a danger
+id="fr_769"></span>[2](#fn_769.md) The malice of the dead was a danger
 constantly threatening the newly arrived soul, who says: "He causes that
 I gain the power over my enemies. I have expelled them from their tombs.
 I have overthrown them in their (tomb-) chapels. I have expelled those
 who were in their places. I have opened their mummies, destroyed their
 kas. I have suppressed their souls. . . . An edict of the Self-Generator
 has been issued against my enemies among the dead, among the living,
-dwelling in sky and earth." <span id="fr_770"></span>[3](#fn_770) The
+dwelling in sky and earth." <span id="fr_770"></span>[3](#fn_770.md) The
 belief in the efficacy of magic as an infallible agent in the hand of
 the dead man was thus steadily growing, and we shall see it ultimately
 dominating the whole body of mortuary belief as it emerges a few
@@ -944,7 +944,7 @@ time come to be regarded as the tomb of Osiris. It rapidly became the
 Holy Sepulchre of Egypt, to which all classes pilgrimaged. The greatest
 of all blessings was to be buried in the vicinity of this sacred tomb,
 and more than one functionary took advantage of some official journey or
-errand to erect a tomb there. <span id="fr_771"></span>[1](#fn_771) If a
+errand to erect a tomb there. <span id="fr_771"></span>[1](#fn_771.md) If a
 real tomb was impossible, it was nevertheless beneficial to build at
 least a false tomb there bearing one's name and the names of one's
 family and relatives. Failing this, great numbers of pilgrims and
@@ -961,12 +961,12 @@ the West, (the place) to which all that is flees, for the sake of the
 benefit therein, in the midst of the followers of the Lord of Life, that
 I might eat his loaf and 'ascend by day'; that my soul might enjoy the
 ceremonies of people kind in heart toward my tomb and in hand toward my
-stela." <span id="fr_772"></span>[1](#fn_772) Another under Sesostris I
+stela." <span id="fr_772"></span>[1](#fn_772.md) Another under Sesostris I
 says: "I have made this tomb at the stairway of the Great God, in order
 that I may be among his followers, while the soldiers who follow his
 majesty give to my ka of his bread and his ⌈provision⌉, just as every
 royal messenger does who comes inspecting the boundaries of his
-majesty." <span id="fr_773"></span>[2](#fn_773) The enclosure and the
+majesty." <span id="fr_773"></span>[2](#fn_773.md) The enclosure and the
 approach to the temple of Osiris were filled with these memorials, which
 as they survive to-day form an important part of our documentary
 material for the history of this age. The body of a powerful baron might
@@ -980,13 +980,13 @@ towed northward, accompanied by priests and lectors. The inscription
 calls it the "voyage up-stream to know the things of Abydos." A pendent
 scene showing a voyage down-stream is accompanied by the words, "the
 return bringing the things of Abydos." <span
-id="fr_774"></span>[3](#fn_774) Just what these sacred
+id="fr_774"></span>[3](#fn_774.md) Just what these sacred
 
 <span id="page_287">p. 287</span>
 
 <span class="contnote">\[paragraph continues\]</span> "things of Abydos"
 may have been we have no means of knowing, <span
-id="fr_775"></span>[1](#fn_775) but it is evident that on this visit to
+id="fr_775"></span>[1](#fn_775.md) but it is evident that on this visit to
 the great god at Abydos, it was expected that the dead might personally
 present himself and thus ensure himself the favor of the god in the
 hereafter.
@@ -1068,7 +1068,7 @@ bore his beauty; I gladdened the heart of the eastern highlands; I
 \[put\] jubilation in the western highlands, when they saw the beauty of
 the Neshmet barque. It landed at Abydos and they brought \[Osiris, First
 of the Westerners, Lord\] of Abydos to his palace." <span
-id="fr_776"></span>[1](#fn_776)
+id="fr_776"></span>[1](#fn_776.md)
 
 It is evident that such popular festivals as these gained a great place
 in the affections of the people, and over and over again, on their
@@ -1141,7 +1141,7 @@ me.
 pain; out of onions, which harm thee; out of honey which is sweet to
 (living) men and bitter to those who are yonder (the dead); out of the
 evil (parts) of the Ebdu-fish; out of the jaw of the meret; out of the
-backbone of the perch." <span id="fr_777"></span>[1](#fn_777)
+backbone of the perch." <span id="fr_777"></span>[1](#fn_777.md)
 
 <span id="page_292">p. 292</span>
 
@@ -1162,14 +1162,14 @@ prevent a man's heart from being taken away in the Nether World. The
 dead man need only say: "Hast thou come to take away this my living
 heart? This my living heart is not given to thee;" whereupon the demon
 that would seize and flee with it must inevitably slink away. <span
-id="fr_778"></span>[1](#fn_778)
+id="fr_778"></span>[1](#fn_778.md)
 
 Thus the magic of daily life was more and more brought to bear on the
 hereafter and placed at the service of the dead. As the Empire rose in
 the sixteenth century B.C., we find this folk-charm among the mortuary
 texts inserted in the tomb. It is embodied in a charm now entitled
 "Chapter of Not Permitting a Man's Heart to be Taken Away from Him in
-the Nether World," <span id="fr_779"></span>[2](#fn_779) a chapter
+the Nether World," <span id="fr_779"></span>[2](#fn_779.md) a chapter
 
 <span id="page_293">p. 293</span>
 
@@ -1177,12 +1177,12 @@ which we found already in the Coffin Texts of the Middle Kingdom. These
 charms have now increased in number, and each has its title indicating
 just what it is intended to accomplish for the deceased. Combined with
 some of the old hymns of praise to Re and Osiris, some of which might be
-recited at the funeral, <span id="fr_780"></span>[1](#fn_780) and
+recited at the funeral, <span id="fr_780"></span>[1](#fn_780.md) and
 usually including also some account of the judgment, these mortuary
 texts were now written on a roll of papyrus and deposited with the dead
 in the tomb. It is these papyri which have now commonly come to be
 called the Book of the Dead. As a matter of fact, there was in the
-Empire no such book. <span id="fr_781"></span>[2](#fn_781) Each roll
+Empire no such book. <span id="fr_781"></span>[2](#fn_781.md) Each roll
 contained a random collection of such mortuary texts as the scribal
 copyist happened to have at hand, or those which he found enabled him
 best to sell his rolls; that is, such as enjoyed the greatest
@@ -1207,12 +1207,12 @@ now evident in the custom of prefixing to every chapter a title—a custom
 which had begun in the case of many chapters in the Coffin Texts. Groups
 of chapters forming the most common nucleus of the Book of the Dead were
 frequently called "Chapters of Ascending by Day," a designation also in
-use in the Coffin Texts (see [p. 276](#page_276)); but there was no
+use in the Coffin Texts (see [p. 276](#page_276).md); but there was no
 current title for a roll of the Book of the Dead as a whole.
 
 While a few scanty fragments of the Pyramid Texts have survived in the
 Book of the Dead, it may nevertheless be said that they have almost
-disappeared. <span id="fr_782"></span>[1](#fn_782) The Coffin Texts
+disappeared. <span id="fr_782"></span>[1](#fn_782.md) The Coffin Texts
 reappear, however, in increasing numbers and contribute largely to the
 various collections which make up the Book of the Dead. An innovation of
 which only indications are found in the Coffin Texts is the insertion in
@@ -1234,7 +1234,7 @@ part in the development which followed. To the luxurious nobles of the
 Empire, the old peasant vision of the hereafter where the dead man might
 plough and sow and reap in the happy fields, and where the grain grew to
 be seven cubits (about twelve feet) high, <span
-id="fr_783"></span>[1](#fn_783) did not appear an attractive prospect.
+id="fr_783"></span>[1](#fn_783.md) did not appear an attractive prospect.
 To be levied for labor and to be obliged to go forth and toil, even in
 the fields of the blessed, no longer appealed to the pampered grandees
 of an age of wealth and luxury. Already in the Middle Kingdom wooden
@@ -1243,13 +1243,13 @@ might labor for him in death as they had done in life. This idea was now
 carried somewhat further. Statuettes of the dead man bearing sack and
 hoe were fashioned, and a cunning charm was devised and written upon the
 breast of the figure: "O statuette, <span
-id="fr_784"></span>[2](#fn_784) counted for X (name of deceased), if I
+id="fr_784"></span>[2](#fn_784) counted for X (name of deceased.md), if I
 am called, if I am counted to do any work that is done in the Nether
 World, . . . thou shalt count thyself for me at all times, to cultivate
 the fields, to water the shores, to transport sand of the east to the
 west, and say, 'Here am I." This charm was placed among those in the
 roll, with the title, "Chapter of Causing that the Statuette Do the Work
-of a Man in the Nether World." <span id="fr_785"></span>[3](#fn_785) The
+of a Man in the Nether World." <span id="fr_785"></span>[3](#fn_785.md) The
 device was further elaborated by finally placing one such little figure
 of the dead in the tomb for each day in the year, and they have been
 found in the Egyptian cemeteries in such numbers that museums
@@ -1280,7 +1280,7 @@ desired.
 It is such productions as these which form by far the larger proportion
 of the mass of texts which we term the Book of the Dead. To call it the
 Bible of the Egyptians, then, is quite to mistake the function and
-content of these rolls. <span id="fr_786"></span>[1](#fn_786) The
+content of these rolls. <span id="fr_786"></span>[1](#fn_786.md) The
 tendency which brought forth this mass of "chapters" is also
 characteristically evident in two other books each of which was in
 itself a coherent and
@@ -1288,17 +1288,17 @@ itself a coherent and
 <span id="page_297">p. 297</span>
 
 connected composition. The Book of the Two Ways, as old, we remember, as
-the Middle Kingdom, <span id="fr_787"></span>[1](#fn_787) had already
+the Middle Kingdom, <span id="fr_787"></span>[1](#fn_787.md) had already
 contributed much to the Book of the Dead regarding the fiery gates
 through which the dead gained entrance to the world beyond and to the
 two ways by which he was to make his journey. <span
-id="fr_788"></span>[2](#fn_788) On the basis of such fancies as these,
+id="fr_788"></span>[2](#fn_788.md) On the basis of such fancies as these,
 the imagination of the priests now put forth a "Book of Him Who is in
 the Nether World," describing the subterranean journey of the sun during
 the night as he passed through twelve long cavernous galleries beneath
 the earth, each one representing a journey of an hour, the twelve
 caverns leading the sun at last to the point in the east where he
-rises. <span id="fr_789"></span>[3](#fn_789) The other book, commonly
+rises. <span id="fr_789"></span>[3](#fn_789.md) The other book, commonly
 called the "Book of the Gates, "represents each of the twelve caverns as
 entered by a gate and concerns itself with the passage of these gates.
 While these compositions never gained the popularity enjoyed by the Book
@@ -1321,7 +1321,7 @@ is to be followed. "A hearkener (to good counsel) is one whom the god
 loves. Who hearkens not is one whom the god hates. It is the heart
 (understanding) which makes its possessor a hearkener or one not
 hearkening. The life, prosperity, and health of a man is in his
-heart." <span id="fr_790"></span>[1](#fn_790) A court herald of Thutmose
+heart." <span id="fr_790"></span>[1](#fn_790.md) A court herald of Thutmose
 III in recounting his services likewise says: "It was my heart which
 caused that I should do them (his services for the king), by its
 guidance of my affairs. It was . . . as an excellent witness. I did not
@@ -1329,14 +1329,14 @@ disregard its speech, I feared to transgress its guidance. I prospered
 thereby greatly, I was successful by reason of that which it caused me
 to do, I was distinguished by its guidance. 'Lo, . . . ,' said the
 people, 'it is an oracle of God in every body. <span
-id="fr_791"></span>[2](#fn_791) Prosperous is he whom it has guided to
+id="fr_791"></span>[2](#fn_791.md) Prosperous is he whom it has guided to
 the good way of achievement, 'Lo, thus I was." <span
-id="fr_792"></span>[3](#fn_792) The relatives of Paheri, a prince of El
+id="fr_792"></span>[3](#fn_792.md) The relatives of Paheri, a prince of El
 Kab, addressing him after his death, pray, "Mayest thou spend eternity
 in gladness of heart, in the favor of the god that is in thee," <span
-id="fr_793"></span>[4](#fn_793) and another dead man similarly declares,
+id="fr_793"></span>[4](#fn_793.md) and another dead man similarly declares,
 "The heart of a man is his own god, and my heart was satisfied with my
-deeds." <span id="fr_794"></span>[5](#fn_794) To this inner voice of the
+deeds." <span id="fr_794"></span>[5](#fn_794.md) To this inner voice of the
 heart, which with surprising insight was even termed a man's god, the
 Egyptian was now more sensitive than ever before during the long course
 of the ethical evolution which we have been following. This
@@ -1347,21 +1347,21 @@ sensitiveness finds very full expression in the most important if not
 the longest section of the Book of the Dead. Whereas the judgment
 hereafter is mentioned as far back as the Pyramid Age, we now find a
 full account and description of it in the Book of the Dead. <span
-id="fr_795"></span>[1](#fn_795) Notwithstanding the prominence of the
+id="fr_795"></span>[1](#fn_795.md) Notwithstanding the prominence of the
 intruding Osiris in the judgment we shall clearly discern its Solar
 origin and character even as recounted in the Book of the Dead. Three
 different versions of the judgment, doubtless originally independent,
 have been combined in the fullest and best rolls. The first is entitled,
 "Chapter of Entering Into the Hall of Truth (or Righteousness)," <span
-id="fr_796"></span>[2](#fn_796) and it contains "that which is said on
+id="fr_796"></span>[2](#fn_796.md) and it contains "that which is said on
 reaching the Hall of Truth, when X (the deceased's name) is purged from
 all evil that he has done, and he beholds the face of the god. 'Hail to
-thee, great god, lord of Truth. <span id="fr_797"></span>[3](#fn_797) I
+thee, great god, lord of Truth. <span id="fr_797"></span>[3](#fn_797.md) I
 have come to thee, my lord, and I am led (thither) in order to see thy
 beauty. I know thy name, I know the names of the forty-two gods who are
 with thee in the Hall of Truth, who live on evil-doers and devour their
 blood, on that day of reckoning character before Wennofer
-(Osiris). <span id="fr_798"></span>[4](#fn_798) Behold, I come to thee,
+(Osiris). <span id="fr_798"></span>[4](#fn_798.md) Behold, I come to thee,
 I bring to thee righteousness and I expel for thee sin. I have committed
 no sin against people. . . . I have not done evil in the place of truth.
 I knew no wrong. I did no evil thing. . . . I did not do that which the
@@ -1377,18 +1377,18 @@ the offerings of the gods. I did not take away the food-offerings of the
 dead (literally "glorious"). I did not commit adultery. I did not commit
 self-pollution in the pure precinct of my city-god. I did not diminish
 the grain measure. I did not diminish the span. <span
-id="fr_799"></span>[1](#fn_799) I did not diminish the land measure. I
+id="fr_799"></span>[1](#fn_799.md) I did not diminish the land measure. I
 did not load the weight of the balances. I did not deflect the index of
 the scales. I did not take milk from the mouth of the child. I did not
 drive away the cattle from their pasturage. I did not snare the fowl of
 the gods. I did not catch the fish in their pools. I did not hold back
 the water in its time. I did not dam the running water. <span
-id="fr_800"></span>[2](#fn_800) I did not quench the fire in its
-time. <span id="fr_801"></span>[3](#fn_801) I did not withhold the herds
+id="fr_800"></span>[2](#fn_800.md) I did not quench the fire in its
+time. <span id="fr_801"></span>[3](#fn_801.md) I did not withhold the herds
 of the temple endowments. I did not interfere with the god in his
 payments. I am purified four times, I am pure as that great Phœnix is
 pure which is in Heracleopolis. For I am that nose of the Lord of Breath
-who keeps alive all the people.'" <span id="fr_802"></span>[4](#fn_802)
+who keeps alive all the people.'" <span id="fr_802"></span>[4](#fn_802.md)
 The address of the deceased now merges into obscure mythological
 allusions, and he concludes with the statement, "There arises no evil
 thing against me in this land, in the Hall of Truth, because I know the
@@ -1446,7 +1446,7 @@ there are several verbal repetitions, not to mention essential
 repetitions with slight changes in the wording. The crimes which may be
 called those of violence are these: "I did not slay men (5), I did not
 rob (2), I did not steal (4), I did not rob one crying for his
-possessions (18), <span id="fr_803"></span>[1](#fn_803) my fortune was
+possessions (18), <span id="fr_803"></span>[1](#fn_803.md) my fortune was
 not great but by my (own) property (41), I did not take away food (10),
 I did not stir up fear (21), I did not stir up strife (25)."
 Deceitfulness and other undesirable qualities of character are also
@@ -1470,7 +1470,7 @@ not blaspheme the god (38), I did not slay the divine bull (13), I did
 not steal temple endowment (8), I did not diminish food in the temple
 (15), I did not do an abomination of the gods (42)." These, with several
 repetitions and some that are unintelligible, make up the declaration of
-innocence. <span id="fr_804"></span>[1](#fn_804)
+innocence. <span id="fr_804"></span>[1](#fn_804.md)
 
 Having thus vindicated himself before the entire great court, the
 deceased confidently addresses them: "Hail to you, ye gods! I know you,
@@ -1481,8 +1481,8 @@ righteousness) in the land of Egypt. I did not revile the god. My case
 did not come before the king then reigning. Hail to you, ye gods who are
 in the Hall of Truth, in whose bodies are neither sin nor falsehood, who
 live on truth in Heliopolis . . . before Horus dwelling in his
-sun-disk. <span id="fr_805"></span>[2](#fn_805) Save ye me from
-Babi, <span id="fr_806"></span>[3](#fn_806) who lives on the entrails of
+sun-disk. <span id="fr_805"></span>[2](#fn_805.md) Save ye me from
+Babi, <span id="fr_806"></span>[3](#fn_806.md) who lives on the entrails of
 the great, on that day of the great reckoning. Behold, I come to you
 without sin, without evil, without wrong. . . . I live on righteousness,
 I feed on the righteousness of my heart. I have done that which men say,
@@ -1496,7 +1496,7 @@ divine offerings for the gods and food-offerings for
 the dead. Save ye me; protect ye me. Enter no complaint against me
 before the Great God. For I am one of pure mouth and pure hands, to whom
 was said 'Welcome, welcome' by those who saw him." <span
-id="fr_807"></span>[1](#fn_807) With these words the claims of the
+id="fr_807"></span>[1](#fn_807.md) With these words the claims of the
 deceased to moral worthiness merge into affirmations that he has
 observed all ceremonial requirements of the Osirian faith, and these
 form more than half of this concluding address to the gods of the court.
@@ -1505,15 +1505,15 @@ The third record of the judgment was doubtless the version which made
 the deepest impression upon the Egyptian. Like the drama of Osiris at
 Abydos, it is graphic and depicts the judgment as effected by the
 balances. In the sumptuously illustrated papyrus of Ani <span
-id="fr_808"></span>[2](#fn_808) we see Osiris sitting enthroned at one
+id="fr_808"></span>[2](#fn_808.md) we see Osiris sitting enthroned at one
 end of the judgment hall, with Isis and Nephthys standing behind him.
 Along one side of the hall are ranged the nine gods of the Heliopolitan
-Ennead, headed by the Sun-god. <span id="fr_809"></span>[3](#fn_809)
+Ennead, headed by the Sun-god. <span id="fr_809"></span>[3](#fn_809.md)
 *They* afterward announce the verdict, showing the originally Solar
 origin of this third scene of judgment, in which Osiris has now assumed
 the chief place. In the midst stand "the balances of Re wherewith he
 weighs truth," as we have seen them called in the Feudal Age; <span
-id="fr_810"></span>[4](#fn_810) but the judgment in which they figure
+id="fr_810"></span>[4](#fn_810.md) but the judgment in which they figure
 has now become Osirianized. The balances are manipulated by the ancient
 mortuary god Anubis, behind whom stands the divine scribe Thoth, who
 presides over the weighing, pen and writing palette
@@ -1546,7 +1546,7 @@ god."
 Evidently this appeal has proven effective, for Thoth, "envoy of the
 Great Ennead, that is in the presence of Osiris," at once says: "Hear ye
 this word in truth. I have judged the heart of Osiris \[Ani\] <span
-id="fr_811"></span>[1](#fn_811) His soul stands as a witness concerning
+id="fr_811"></span>[1](#fn_811.md) His soul stands as a witness concerning
 him, his character is just by the great
 
 <span id="page_306">p. 306</span>
@@ -1570,7 +1570,7 @@ like the Followers of Horus." With his hand in that of Horus, Ani then
 addresses Osiris: "Lo, I am before thee, Lord of the West. There is no
 sin in my body. I have not spoken a lie knowingly nor (if so) was there
 a second time. Let me be like the favorites who are in thy
-following." <span id="fr_812"></span>[1](#fn_812) Thereupon he kneels
+following." <span id="fr_812"></span>[1](#fn_812.md) Thereupon he kneels
 before the great god, and as he presents a table of offerings is
 received into his kingdom.
 
@@ -1632,7 +1632,7 @@ scarabeus, and placed over the heart as a mandate of magical potency
 preventing the heart from betraying the character of the deceased. The
 words of this charm became a chapter of the Book of the Dead, where they
 bore the title, "Chapter of Preventing that the Heart of a Man Oppose
-Him in the Nether World." <span id="fr_813"></span>[1](#fn_813) The
+Him in the Nether World." <span id="fr_813"></span>[1](#fn_813.md) The
 scenes of the judgment and the text of the Declaration of Innocence were
 multiplied on rolls by the scribes and sold to all the people. In these
 copies the places for the name of the deceased were left vacant, and the
@@ -1645,7 +1645,7 @@ before it was known who Blank would be. He might even obtain a formulary
 so mighty that the Sun-god, as the real power behind the judgment, would
 be cast down from heaven into the Nile, if he did not bring forth the
 deceased fully justified before his court. <span
-id="fr_814"></span>[2](#fn_814) Thus the earliest moral development
+id="fr_814"></span>[2](#fn_814.md) Thus the earliest moral development
 which
 
 <span id="page_309">p. 309</span>
@@ -1693,19 +1693,19 @@ of the architects of Amenhotep III, addressing a hymn of praise to the
 Sun-god, says: "I was a valiant leader among thy monuments, doing
 righteousness for thy heart. I know that thou art satisfied with
 righteousness. Thou makest great him who doeth it on earth. I did it and
-thou didst make me great." <span id="fr_815"></span>[1](#fn_815)
+thou didst make me great." <span id="fr_815"></span>[1](#fn_815.md)
 Similarly, when the Pharaoh made oath he swore, "As Re loves me, as my
 father Amon (long since identified with Re) favors me;" <span
-id="fr_816"></span>[2](#fn_816) and the conqueror Thutmose III in making
+id="fr_816"></span>[2](#fn_816.md) and the conqueror Thutmose III in making
 this oath to the truth of what he says, and affirming his respect for
 the truth in the sight of his god, refers to the Sun-god's presence
 thus: "For he knoweth heaven and he knoweth earth, he seeth the whole
-earth hourly." <span id="fr_817"></span>[3](#fn_817) While it is true
+earth hourly." <span id="fr_817"></span>[3](#fn_817.md) While it is true
 that the subterranean hereafter of the Osiris faith depicts the Sun-god
 as journeying from cavern to cavern beneath the earth, passing through
 the realm of Osiris and bringing light and joy to the dead who dwell
 there, this is a conception unknown to the early Solar theology as found
-in the Pyramid Texts. <span id="fr_818"></span>[4](#fn_818) In the
+in the Pyramid Texts. <span id="fr_818"></span>[4](#fn_818.md) In the
 Empire the Sun-god is preeminently a god of the world of living men, in
 whose affairs
 
@@ -1721,25 +1721,25 @@ these early Nile-dwellers the vision of the world-god.
 
 ### Footnotes
 
-<span id="fn_702"></span>[257:1](rtae12.htm#fr_702) Ipuwer, 13, 12–13.
+<span id="fn_702"></span>[257:1](rtae12.htm#fr_702.md) Ipuwer, 13, 12–13.
 
-<span id="fn_703"></span>[258:1](rtae12.htm#fr_703) Stela of Sehetepibre
+<span id="fn_703"></span>[258:1](rtae12.htm#fr_703.md) Stela of Sehetepibre
 at Abydos, BAR, I, 748. The Misanthrope refers to the similar fate of an
-abandoned body. See above, [p. 190](rtae10.htm#page_190).
+abandoned body. See above, [p. 190](rtae10.htm#page_190.md).
 
-<span id="fn_704"></span>[258:2](rtae12.htm#fr_704) Stela of Meri in the
+<span id="fn_704"></span>[258:2](rtae12.htm#fr_704.md) Stela of Meri in the
 Louvre (C 3), BAR, I, 509. The excavations of the Metropolitan Museum of
 New York have indeed revealed the unusually sumptuous character of the
 surroundings of this pyramid of Sesostris I at Lisht.
 
-<span id="fn_705"></span>[261:1](rtae12.htm#fr_705) Contract 1.
+<span id="fn_705"></span>[261:1](rtae12.htm#fr_705.md) Contract 1.
 
-<span id="fn_706"></span>[263:1](rtae12.htm#fr_706) Contracts 9, 5 and
+<span id="fn_706"></span>[263:1](rtae12.htm#fr_706.md) Contracts 9, 5 and
 7.
 
-<span id="fn_707"></span>[264:1](rtae12.htm#fr_707) Contract 9.
+<span id="fn_707"></span>[264:1](rtae12.htm#fr_707.md) Contract 9.
 
-<span id="fn_708"></span>[265:1](rtae12.htm#fr_708) The nature of this
+<span id="fn_708"></span>[265:1](rtae12.htm#fr_708.md) The nature of this
 ceremony, which was performed by the living, at the New Year's and other
 feasts, on behalf of their dead, while not clear in its details, must
 have been what its name technically defines it to have been. It means
@@ -1750,44 +1750,44 @@ ceremony for accomplishing the transformation of the deceased into a
 by an analogous ceremony performed by the living, a ceremony indeed
 which may have been much the same as that of glorification.
 
-<span id="fn_709"></span>[266:1](rtae12.htm#fr_709) Contracts 9, 2, 5
+<span id="fn_709"></span>[266:1](rtae12.htm#fr_709.md) Contracts 9, 2, 5
 and 7.
 
-<span id="fn_710"></span>[266:2](rtae12.htm#fr_710) Contracts 7, 8 and
+<span id="fn_710"></span>[266:2](rtae12.htm#fr_710.md) Contracts 7, 8 and
 10.
 
-<span id="fn_711"></span>[266:3](rtae12.htm#fr_711) Contract 4.
+<span id="fn_711"></span>[266:3](rtae12.htm#fr_711.md) Contract 4.
 
-<span id="fn_712"></span>[267:1](rtae12.htm#fr_712) Contract 6.
+<span id="fn_712"></span>[267:1](rtae12.htm#fr_712.md) Contract 6.
 
-<span id="fn_713"></span>[267:2](rtae12.htm#fr_713) Contract 8.
+<span id="fn_713"></span>[267:2](rtae12.htm#fr_713.md) Contract 8.
 
-<span id="fn_714"></span>[267:3](rtae12.htm#fr_714) The preceding
+<span id="fn_714"></span>[267:3](rtae12.htm#fr_714.md) The preceding
 account has attempted to indicate to some extent the place of the dead
 in the celebration of the calendar of feasts as they were in the life of
 the people. Perhaps imagination has been too liberally drawn upon. The
 bare data as furnished by the contracts of Hepzefi will be found in the
-table on pages [268](#page_268) and [269](#page_269); the contracts
+table on pages [268](#page_268) and [269](#page_269.md); the contracts
 themselves may be found translated in my Ancient Records, I, 535–593.
 
-<span id="fn_715"></span>[270:1](rtae12.htm#fr_715) Lit. "every feast of
+<span id="fn_715"></span>[270:1](rtae12.htm#fr_715.md) Lit. "every feast of
 the happy one in the (valley-) plain, and of the one on the mountain;"
 those who are on the plain still live, but those on the mountain are the
 dead in the cliff tombs.
 
-<span id="fn_716"></span>[270:2](rtae12.htm#fr_716) BAR, I, 630.
+<span id="fn_716"></span>[270:2](rtae12.htm#fr_716.md) BAR, I, 630.
 
-<span id="fn_717"></span>[270:3](rtae12.htm#fr_717) BAR, I, 213.
+<span id="fn_717"></span>[270:3](rtae12.htm#fr_717.md) BAR, I, 213.
 
-<span id="fn_718"></span>[271:1](rtae12.htm#fr_718) BAR, I, 688–9.
+<span id="fn_718"></span>[271:1](rtae12.htm#fr_718.md) BAR, I, 688–9.
 
-<span id="fn_719"></span>[271:2](rtae12.htm#fr_719) Berlin, 13272; <span
+<span id="fn_719"></span>[271:2](rtae12.htm#fr_719.md) Berlin, 13272; <span
 class="smallcaps">Erman</span>, Rel., pp. 143 *f*.
 
-<span id="fn_720"></span>[271:3](rtae12.htm#fr_720) <span
+<span id="fn_720"></span>[271:3](rtae12.htm#fr_720.md) <span
 class="smallcaps">Newberry</span>, Benihasan, I, pl. xxviii, 3.
 
-<span id="fn_721"></span>[273:1](rtae12.htm#fr_721) <span
+<span id="fn_721"></span>[273:1](rtae12.htm#fr_721.md) <span
 class="smallcaps">Lacau</span>, XXII, *Rec*. 29, 143, *ff*. These texts
 as a class are sometimes designated as the Book of the Dead. As about
 half of them are taken from the Pyramid Texts, and the Pyramid Texts are
@@ -1824,42 +1824,42 @@ id="page_274">p. 274</span> *général . . . du Musée du Caire*, Cairo,
 of mortuary texts is very much needed, and the work of <span
 class="smallcaps">Lacau</span> is a valuable contribution to this end.
 
-<span id="fn_722"></span>[274:1](rtae12.htm#fr_722) See above, pp.
-[84](rtae07.htm#page_84)–[141](rtae08.htm#page_141).
+<span id="fn_722"></span>[274:1](rtae12.htm#fr_722.md) See above, pp.
+[84](rtae07.htm#page_84)–[141](rtae08.htm#page_141.md).
 
-<span id="fn_723"></span>[274:2](rtae12.htm#fr_723) <span
+<span id="fn_723"></span>[274:2](rtae12.htm#fr_723.md) <span
 class="smallcaps">Lacau</span>, LII, *Rec*. 31, 10.
 
-<span id="fn_724"></span>[274:3](rtae12.htm#fr_724) A Solar symbol.
+<span id="fn_724"></span>[274:3](rtae12.htm#fr_724.md) A Solar symbol.
 <span class="smallcaps">Lacau</span>, XVI, *Rec*. 27, 54 *f*.; <span
 class="smallcaps">Lacau</span>, XXXVIII, *Rec*. 30, 189 *f*.; <span
 class="smallcaps">Lacau</span>, XVII, *Rec*. 27, 55 *f*. The last is
 largely Osirian, but Re-Atum is prominent.
 
-<span id="fn_725"></span>[274:4](rtae12.htm#fr_725) *Annales du
+<span id="fn_725"></span>[274:4](rtae12.htm#fr_725.md) *Annales du
 Service*, V, 235.
 
-<span id="fn_726"></span>[274:5](rtae12.htm#fr_726) <span
+<span id="fn_726"></span>[274:5](rtae12.htm#fr_726.md) <span
 class="smallcaps">Lacau</span>, VI, *Rec*. 26, 225.
 
-<span id="fn_727"></span>[275:1](rtae12.htm#fr_727) <span
+<span id="fn_727"></span>[275:1](rtae12.htm#fr_727.md) <span
 class="smallcaps">Lacau</span>, XXXII, *Rec*. 30, 185 *f*.
 
-<span id="fn_728"></span>[275:2](rtae12.htm#fr_728) <span
+<span id="fn_728"></span>[275:2](rtae12.htm#fr_728.md) <span
 class="smallcaps">Lacau</span>, XLI, *Rec*. 30, 191 *f*.
 
-<span id="fn_729"></span>[275:3](rtae12.htm#fr_729) <span
+<span id="fn_729"></span>[275:3](rtae12.htm#fr_729.md) <span
 class="smallcaps">Lacau</span>, LIII, *Rec*. 31, 10 *f*. But the text is
-Osirian; see below, [p. 277](#page_277).
+Osirian; see below, [p. 277](#page_277.md).
 
-<span id="fn_730"></span>[275:4](rtae12.htm#fr_730) <span
+<span id="fn_730"></span>[275:4](rtae12.htm#fr_730.md) <span
 class="smallcaps">Lacau</span>, XV, *Rec*. 27, 53 *f*.
 
-<span id="fn_731"></span>[275:5](rtae12.htm#fr_731) <span
+<span id="fn_731"></span>[275:5](rtae12.htm#fr_731.md) <span
 class="smallcaps">Lacau</span>, XL, *Rec*. 30, 191. *Cf*. Book of the
 Dead, chaps. LXXIX and LXXXII.
 
-<span id="fn_732"></span>[276:1](rtae12.htm#fr_732) The word which I
+<span id="fn_732"></span>[276:1](rtae12.htm#fr_732.md) The word which I
 have rendered "Ascending" is commonly rendered "going forth." A study of
 the use of the word (pr·t) in mortuary texts shows clearly that it means
 to ascend. The following are some decisive examples of its use in the
@@ -1873,112 +1873,112 @@ Ascending (pr·t) to the Sky to the Place where Re is" (*Rec*. 26, 225).
 These examples might be increased *ad infinitum*, and there can be no
 question regarding the rendering "Ascending."
 
-<span id="fn_733"></span>[276:2](rtae12.htm#fr_733) <span
+<span id="fn_733"></span>[276:2](rtae12.htm#fr_733.md) <span
 class="smallcaps">Lacau</span>, XIII, *Rec*. 26, 232 *ff*.
 
-<span id="fn_734"></span>[277:1](rtae12.htm#fr_734) <span
+<span id="fn_734"></span>[277:1](rtae12.htm#fr_734.md) <span
 class="smallcaps">Lacau</span>, LIII, *Rec*. 31, 10 *f*.
 
-<span id="fn_735"></span>[277:2](rtae12.htm#fr_735) <span
+<span id="fn_735"></span>[277:2](rtae12.htm#fr_735.md) <span
 class="smallcaps">Lacau</span>, XI, *Rec*. 26, 229.
 
-<span id="fn_736"></span>[277:3](rtae12.htm#fr_736) <span
+<span id="fn_736"></span>[277:3](rtae12.htm#fr_736.md) <span
 class="smallcaps">Lacau</span>, LXII, *Rec*. 31, 19.
 
-<span id="fn_737"></span>[277:4](rtae12.htm#fr_737) <span
+<span id="fn_737"></span>[277:4](rtae12.htm#fr_737.md) <span
 class="smallcaps">Lacau</span>, XLIII, *Rec*. 30, 192 *f*.
 
-<span id="fn_738"></span>[277:5](rtae12.htm#fr_738) <span
+<span id="fn_738"></span>[277:5](rtae12.htm#fr_738.md) <span
 class="smallcaps">Lacau</span>, XIX, *Rec*. 27, 217 *ff*.
 
-<span id="fn_739"></span>[277:6](rtae12.htm#fr_739) <span
+<span id="fn_739"></span>[277:6](rtae12.htm#fr_739.md) <span
 class="smallcaps">Lacau</span>, LVIII, *Rec*. 31, 15 *f*.
 
-<span id="fn_740"></span>[278:1](rtae12.htm#fr_740) <span
+<span id="fn_740"></span>[278:1](rtae12.htm#fr_740.md) <span
 class="smallcaps">Lacau</span>, LXXX, *Rec*. 31, 166.
 
-<span id="fn_741"></span>[278:2](rtae12.htm#fr_741) <span
+<span id="fn_741"></span>[278:2](rtae12.htm#fr_741.md) <span
 class="smallcaps">Lacau</span>, XXX, *Rec*. 30, 71.
 
-<span id="fn_742"></span>[278:3](rtae12.htm#fr_742) <span
+<span id="fn_742"></span>[278:3](rtae12.htm#fr_742.md) <span
 class="smallcaps">Lacau</span>, XXXI, *Rec*. 30, 72 f.
 
-<span id="fn_743"></span>[279:1](rtae12.htm#fr_743) Thus far the picture
+<span id="fn_743"></span>[279:1](rtae12.htm#fr_743.md) Thus far the picture
 is Osirian; it now becomes Solar.
 
-<span id="fn_744"></span>[279:2](rtae12.htm#fr_744) Varieties of wild
+<span id="fn_744"></span>[279:2](rtae12.htm#fr_744.md) Varieties of wild
 fowl.
 
-<span id="fn_745"></span>[279:3](rtae12.htm#fr_745) <span
+<span id="fn_745"></span>[279:3](rtae12.htm#fr_745.md) <span
 class="smallcaps">Lacau</span>, XXII, *Rec*. 29, 143 *f*.
 
-<span id="fn_746"></span>[279:4](rtae12.htm#fr_746) <span
+<span id="fn_746"></span>[279:4](rtae12.htm#fr_746.md) <span
 class="smallcaps">Lacau</span>, XX, *Rec*. 27, 221–6.
 
-<span id="fn_747"></span>[280:1](rtae12.htm#fr_747) <span
+<span id="fn_747"></span>[280:1](rtae12.htm#fr_747.md) <span
 class="smallcaps">Lacau</span>, LXVII, *Rec*. 31, 24 *f*.
 
-<span id="fn_748"></span>[280:2](rtae12.htm#fr_748) <span
+<span id="fn_748"></span>[280:2](rtae12.htm#fr_748.md) <span
 class="smallcaps">Lacau</span>, XXXIV, *Rec*. 30, 186 *f*.
 
-<span id="fn_749"></span>[280:3](rtae12.htm#fr_749) <span
+<span id="fn_749"></span>[280:3](rtae12.htm#fr_749.md) <span
 class="smallcaps">Lacau</span>, LXXII, *Rec*. 31, 26–29.
 
-<span id="fn_750"></span>[281:1](rtae12.htm#fr_750) <span
+<span id="fn_750"></span>[281:1](rtae12.htm#fr_750.md) <span
 class="smallcaps">Lacau</span>, II, *Rec*. 26, 67–73.
 
-<span id="fn_751"></span>[281:2](rtae12.htm#fr_751) <span
+<span id="fn_751"></span>[281:2](rtae12.htm#fr_751.md) <span
 class="smallcaps">Lacau</span>, XXXIX, *Rec*. 30, 190 *f*.
 
-<span id="fn_752"></span>[281:3](rtae12.htm#fr_752) <span
+<span id="fn_752"></span>[281:3](rtae12.htm#fr_752.md) <span
 class="smallcaps">Lacau</span>, XLV, *Rec*. 30, 193 *f*.
 
-<span id="fn_753"></span>[281:4](rtae12.htm#fr_753) <span
+<span id="fn_753"></span>[281:4](rtae12.htm#fr_753.md) <span
 class="smallcaps">Lacau</span>, III, *Rec*. 26, 73 *ff*.
 
-<span id="fn_754"></span>[281:5](rtae12.htm#fr_754) <span
+<span id="fn_754"></span>[281:5](rtae12.htm#fr_754.md) <span
 class="smallcaps">Lacau</span>, IV, *Rec*. 26, 76 *ff*.
 
-<span id="fn_755"></span>[282:1](rtae12.htm#fr_755) <span
+<span id="fn_755"></span>[282:1](rtae12.htm#fr_755.md) <span
 class="smallcaps">Lacau</span>, LXXVIII, *Rec*. 31,164 *ff*.
 
-<span id="fn_756"></span>[282:2](rtae12.htm#fr_756) <span
+<span id="fn_756"></span>[282:2](rtae12.htm#fr_756.md) <span
 class="smallcaps">Lacau</span>, VII, *Rec*. 26, 226.
 
-<span id="fn_757"></span>[282:3](rtae12.htm#fr_757) <span
+<span id="fn_757"></span>[282:3](rtae12.htm#fr_757.md) <span
 class="smallcaps">Lacau</span>, VIII, *Rec*. 26, 226–7; also Annales, V,
 241.
 
-<span id="fn_758"></span>[282:4](rtae12.htm#fr_758) <span
+<span id="fn_758"></span>[282:4](rtae12.htm#fr_758.md) <span
 class="smallcaps">Lacau</span>, XXII, *Rec*. 29, 150; XXIV, *Rec*. 29,
 156 *f*. Similar passages will be found in the Book of the Dead, LI,
 LIII, LXXXII, CII, CXVI, CXXIV, CLXXXIX. *Cf*. Pyr. §§ 127–8, and BD,
 CLXXVIII. References from <span class="smallcaps">Lacau</span>.
 
-<span id="fn_759"></span>[282:5](rtae12.htm#fr_759) <span
+<span id="fn_759"></span>[282:5](rtae12.htm#fr_759.md) <span
 class="smallcaps">Lacau</span>, XXV, XXVI, *Rec*. 29, 157–9.
 
-<span id="fn_760"></span>[282:6](rtae12.htm#fr_760) <span
+<span id="fn_760"></span>[282:6](rtae12.htm#fr_760.md) <span
 class="smallcaps">Lacau</span>, IX, X, *Rec*. 26, 227 *ff*. He occurs
 also in the tomb of Harhotep, *Mém. de la Miss. franç. au Caire*, I,
 166.
 
-<span id="fn_761"></span>[283:1](rtae12.htm#fr_761) <span
+<span id="fn_761"></span>[283:1](rtae12.htm#fr_761.md) <span
 class="smallcaps">Lacau</span>, XXXV, XXXVI, *Rec*. 30, 187–8.
 
-<span id="fn_762"></span>[283:2](rtae12.htm#fr_762) <span
+<span id="fn_762"></span>[283:2](rtae12.htm#fr_762.md) <span
 class="smallcaps">Lacau</span>, LXXIII, *Rec*. 31, 29.
 
-<span id="fn_763"></span>[283:3](rtae12.htm#fr_763) <span
+<span id="fn_763"></span>[283:3](rtae12.htm#fr_763.md) <span
 class="smallcaps">Lacau</span>, XXXVII, *Rec*. 30, 188 *f*.
 
-<span id="fn_764"></span>[283:4](rtae12.htm#fr_764) <span
+<span id="fn_764"></span>[283:4](rtae12.htm#fr_764.md) <span
 class="smallcaps">Lacau</span>, XLIX, *Rec*. 30, 198.
 
-<span id="fn_765"></span>[283:5](rtae12.htm#fr_765) <span
+<span id="fn_765"></span>[283:5](rtae12.htm#fr_765.md) <span
 class="smallcaps">Lacau</span>, XLVIII, *Rec*. 30, 197.
 
-<span id="fn_766"></span>[283:6](rtae12.htm#fr_766) Berlin Coffin, *Das
+<span id="fn_766"></span>[283:6](rtae12.htm#fr_766.md) Berlin Coffin, *Das
 Buch von den zwei Wegen des seligen Toten*, by H. <span
 class="smallcaps">Schack-Schackenburg</span>, Leipzig, 1903; also three
 coffins in Cairo, see <span class="smallcaps">Lacau</span>, *Sarcophages
@@ -1987,25 +1987,25 @@ lvi, lvii; vol. II, No. 28089. *Cf*. also <span
 class="smallcaps">Grapow</span>, *Zeitschr. für aegypt. Sprache*, 46, 77
 *ff*.
 
-<span id="fn_767"></span>[283:7](rtae12.htm#fr_767) <span
+<span id="fn_767"></span>[283:7](rtae12.htm#fr_767.md) <span
 class="smallcaps">Lacau</span>, LXIII, *Rec*. 31, 20.
 
-<span id="fn_768"></span>[284:1](rtae12.htm#fr_768) <span
+<span id="fn_768"></span>[284:1](rtae12.htm#fr_768.md) <span
 class="smallcaps">Lacau</span>, XLIV, *Rec*. 30,193.
 
-<span id="fn_769"></span>[284:2](rtae12.htm#fr_769) <span
+<span id="fn_769"></span>[284:2](rtae12.htm#fr_769.md) <span
 class="smallcaps">Lacau</span>, LXXXV, *Rec*. 32, 78.
 
-<span id="fn_770"></span>[284:3](rtae12.htm#fr_770) <span
+<span id="fn_770"></span>[284:3](rtae12.htm#fr_770.md) <span
 class="smallcaps">Lacau</span>, LXXXIV, *Rec*. 31, 175.
 
-<span id="fn_771"></span>[285:1](rtae12.htm#fr_771) BAR, I, 528 and 746.
+<span id="fn_771"></span>[285:1](rtae12.htm#fr_771.md) BAR, I, 528 and 746.
 
-<span id="fn_772"></span>[286:1](rtae12.htm#fr_772) BAR, I, 613.
+<span id="fn_772"></span>[286:1](rtae12.htm#fr_772.md) BAR, I, 613.
 
-<span id="fn_773"></span>[286:2](rtae12.htm#fr_773) BAR, I, 528.
+<span id="fn_773"></span>[286:2](rtae12.htm#fr_773.md) BAR, I, 528.
 
-<span id="fn_774"></span>[286:3](rtae12.htm#fr_774) <span
+<span id="fn_774"></span>[286:3](rtae12.htm#fr_774.md) <span
 class="smallcaps">Lepsius</span>, *Denkmaeler*, II, 126–7; <span
 class="smallcaps">Newberry</span>, *Benihasan*, I, pl. xxix, also p. 68,
 where both scenes are stated to depict the voyage *to* Abydos. It is
@@ -2019,12 +2019,12 @@ and from Abydos as they now stand on the tomb wall*. This device is not
 unknown elsewhere, *e.g.*, the ships of Hatshepsut, on the walls of the
 Der el-Bahri temple, face to and from Punt (BAR, II, 251 and p. 105).
 
-<span id="fn_775"></span>[287:1](rtae12.htm#fr_775) The word employed
+<span id="fn_775"></span>[287:1](rtae12.htm#fr_775.md) The word employed
 (ḫr·t) is one of the widest latitude in meaning. Its original meaning is
 "that which belongs to" (a thing or person), then his "being, state,
 concerns, needs," and the like.
 
-<span id="fn_776"></span>[289:1](rtae12.htm#fr_776) Stela of
+<span id="fn_776"></span>[289:1](rtae12.htm#fr_776.md) Stela of
 Ikhernofret, Berlin 1204, ll. 17–23. It was published by <span
 class="smallcaps">Lepsius</span>, *Denkmaeler*, II, 135 b, and much more
 carefully by <span class="smallcaps">Schaefer</span>, *Die Mysterien des
@@ -2033,24 +2033,24 @@ Osiris in Abydos* (<span class="smallcaps">Sethe</span>,
 Translation will also be found in BAR, I, 661–670 (some alterations
 above).
 
-<span id="fn_777"></span>[291:1](rtae12.htm#fr_777) Berlin Papyrus, P
+<span id="fn_777"></span>[291:1](rtae12.htm#fr_777.md) Berlin Papyrus, P
 3027 (I, 9 to II, 6). It belongs to the early Empire, or just before the
 Empire, about the sixteenth or <span id="page_292">p. 292</span>
 seventeenth century B.C. Published by <span
 class="smallcaps">Erman</span>, *Zaubersprueche für Mutter and Kind*
 (*Abhandl. der Kgl. Preuss. Akad. der Wiss. zu Berlin*, 1901).
 
-<span id="fn_778"></span>[292:1](rtae12.htm#fr_778) <span
+<span id="fn_778"></span>[292:1](rtae12.htm#fr_778.md) <span
 class="smallcaps">Erman</span>, *ibid.*, 14–15.
 
-<span id="fn_779"></span>[292:2](rtae12.htm#fr_779) British Museum
+<span id="fn_779"></span>[292:2](rtae12.htm#fr_779.md) British Museum
 Papyrus of Ani, pl. xv, chap. XXIX.
 
-<span id="fn_780"></span>[293:1](rtae12.htm#fr_780) See Papyrus of Ani.,
+<span id="fn_780"></span>[293:1](rtae12.htm#fr_780.md) See Papyrus of Ani.,
 pl. v, ll. 2–3, where the title of the section includes the words,
 "things said on the day of burial."
 
-<span id="fn_781"></span>[293:2](rtae12.htm#fr_781) The designation was
+<span id="fn_781"></span>[293:2](rtae12.htm#fr_781.md) The designation was
 first employed by <span class="smallcaps">Lepsius</span>, who, however,
 realized that these rolls were not fixed and constant in content. See
 his *Todtenbuch* (p. 4), which was the earliest publication of so large
@@ -2063,136 +2063,136 @@ of <span class="smallcaps">Budge</span> and of <span
 class="smallcaps">Le Page-Renouf</span>, continued by <span
 class="smallcaps">Naville</span>.
 
-<span id="fn_782"></span>[294:1](rtae12.htm#fr_782) Later, especially in
+<span id="fn_782"></span>[294:1](rtae12.htm#fr_782.md) Later, especially in
 the Saitic Age, they were revived.
 
-<span id="fn_783"></span>[295:1](rtae12.htm#fr_783) Book of the Dead,
+<span id="fn_783"></span>[295:1](rtae12.htm#fr_783.md) Book of the Dead,
 chap. CIX.
 
-<span id="fn_784"></span>[295:2](rtae12.htm#fr_784) The word used is
+<span id="fn_784"></span>[295:2](rtae12.htm#fr_784.md) The word used is
 that commonly rendered "Ushebti," and translated "respondent." It is,
 however, of very obscure origin and of uncertain meaning.
 
-<span id="fn_785"></span>[295:3](rtae12.htm#fr_785) Book of the Dead,
+<span id="fn_785"></span>[295:3](rtae12.htm#fr_785.md) Book of the Dead,
 chap. VI.
 
-<span id="fn_786"></span>[296:1](rtae12.htm#fr_786) The designation
+<span id="fn_786"></span>[296:1](rtae12.htm#fr_786.md) The designation
 "Bible of the old Egyptians" is at least as old as the report of the
 Committee of the Oriental Congress, which sat in London in 1874 and
 arranged for publishing the Book of the Dead. See <span
 class="smallcaps">Naville</span>, *Todtenbuch*, Einleitung, p. 5.
 
-<span id="fn_787"></span>[297:1](rtae12.htm#fr_787) See above, [p.
-283](#page_283).
+<span id="fn_787"></span>[297:1](rtae12.htm#fr_787.md) See above, [p.
+283](#page_283.md).
 
-<span id="fn_788"></span>[297:2](rtae12.htm#fr_788) See <span
+<span id="fn_788"></span>[297:2](rtae12.htm#fr_788.md) See <span
 class="smallcaps">Grapow</span>, *Zeitschr. für aegypt. Sprache*, 46, 77
 *ff*.
 
-<span id="fn_789"></span>[297:3](rtae12.htm#fr_789) See <span
+<span id="fn_789"></span>[297:3](rtae12.htm#fr_789.md) See <span
 class="smallcaps">Jéquier</span>, *Le livre de ce qu’il y a dans
 l’Hades*. Paris, 1894.
 
-<span id="fn_790"></span>[298:1](rtae12.htm#fr_790) See above, [p.
-236](rtae11.htm#page_236).
+<span id="fn_790"></span>[298:1](rtae12.htm#fr_790.md) See above, [p.
+236](rtae11.htm#page_236.md).
 
-<span id="fn_791"></span>[298:2](rtae12.htm#fr_791) Or "belly," meaning
+<span id="fn_791"></span>[298:2](rtae12.htm#fr_791.md) Or "belly," meaning
 the seat of the mind.
 
-<span id="fn_792"></span>[298:3](rtae12.htm#fr_792) Louvre stela, C. 26,
+<span id="fn_792"></span>[298:3](rtae12.htm#fr_792.md) Louvre stela, C. 26,
 ll. 22–24. *Zeitschr. für aegypt. Sprache*, 39, 47.
 
-<span id="fn_793"></span>[298:4](rtae12.htm#fr_793) *Egypt Expl. Fund,
+<span id="fn_793"></span>[298:4](rtae12.htm#fr_793.md) *Egypt Expl. Fund,
 Eleventh Mem.*, pl. ix, ll. 20–21. *Zeitschr. für aegypt. Sprache*, 39,
 48.
 
-<span id="fn_794"></span>[298:5](rtae12.htm#fr_794) <span
+<span id="fn_794"></span>[298:5](rtae12.htm#fr_794.md) <span
 class="smallcaps">Wreczinski</span>, *Wiener Inschriften*, 160, quoted
 by <span class="smallcaps">Erman</span>, *Rel*., p. 123.
 
-<span id="fn_795"></span>[299:1](rtae12.htm#fr_795) It is commonly known
+<span id="fn_795"></span>[299:1](rtae12.htm#fr_795.md) It is commonly known
 as chap. CXXV.
 
-<span id="fn_796"></span>[299:2](rtae12.htm#fr_796) The word "truth"
+<span id="fn_796"></span>[299:2](rtae12.htm#fr_796.md) The word "truth"
 here is commonly written in the dual, which grammatically equals "the
 two truths." This strange usage is perhaps merely an idiom of
 intensification, as "morning" is written in the dual for "early
 morning."
 
-<span id="fn_797"></span>[299:3](rtae12.htm#fr_797) I the dual as above,
+<span id="fn_797"></span>[299:3](rtae12.htm#fr_797.md) I the dual as above,
 and for the most part throughout this chapter.
 
-<span id="fn_798"></span>[299:4](rtae12.htm#fr_798) An important variant
+<span id="fn_798"></span>[299:4](rtae12.htm#fr_798.md) An important variant
 has, "Who live on righteousness (truth) and abominate sin." Some texts
 also insert here the name of Osiris, "Lo, the 'two beloved daughters,
 his two eyes of Truth' is thy name."
 
-<span id="fn_799"></span>[300:1](rtae12.htm#fr_799) A measure of length.
+<span id="fn_799"></span>[300:1](rtae12.htm#fr_799.md) A measure of length.
 
-<span id="fn_800"></span>[300:2](rtae12.htm#fr_800) This refers to
+<span id="fn_800"></span>[300:2](rtae12.htm#fr_800.md) This refers to
 diverting the waters of the irrigation canals at time of inundation at
 the expense of neighbors, still one of the commonest forms of corruption
 in Egypt.
 
-<span id="fn_801"></span>[300:3](rtae12.htm#fr_801) The text is clear,
+<span id="fn_801"></span>[300:3](rtae12.htm#fr_801.md) The text is clear,
 but the meaning is quite obscure.
 
-<span id="fn_802"></span>[300:4](rtae12.htm#fr_802) Book of the Dead,
+<span id="fn_802"></span>[300:4](rtae12.htm#fr_802.md) Book of the Dead,
 chap. CXXV; <span class="smallcaps">Naville</span>, *Todtenbuch*, I,
 CXXXIII, and II, 275–287.
 
-<span id="fn_803"></span>[302:1](rtae12.htm#fr_803) The variants
+<span id="fn_803"></span>[302:1](rtae12.htm#fr_803.md) The variants
 indicate "I did not ⌈take possession⌉ of my (own) property," or "I did
 not take ⌈possession⌉ except of just (or true) possessions."
 
-<span id="fn_804"></span>[303:1](rtae12.htm#fr_804) Book of the Dead,
+<span id="fn_804"></span>[303:1](rtae12.htm#fr_804.md) Book of the Dead,
 chap. CXXV; <span class="smallcaps">Naville</span>, *Todtenbuch*, I,
 CXXXIV–V; II, pp. 289–309.
 
-<span id="fn_805"></span>[303:2](rtae12.htm#fr_805) It should be noted
+<span id="fn_805"></span>[303:2](rtae12.htm#fr_805.md) It should be noted
 that this is another evidence of the Solar origin of this court.
 
-<span id="fn_806"></span>[303:3](rtae12.htm#fr_806) A hostile demon of
+<span id="fn_806"></span>[303:3](rtae12.htm#fr_806.md) A hostile demon of
 the Nether World.
 
-<span id="fn_807"></span>[304:1](rtae12.htm#fr_807) Book of the Dead,
+<span id="fn_807"></span>[304:1](rtae12.htm#fr_807.md) Book of the Dead,
 chap. CXXV; <span class="smallcaps">Naville</span>, *Todtenbuch*, I,
 CXXXVII, ll. 2–13; II, pp. 310–317.
 
-<span id="fn_808"></span>[304:2](rtae12.htm#fr_808) British Museum
+<span id="fn_808"></span>[304:2](rtae12.htm#fr_808.md) British Museum
 Papyrus 10470. See Fac-simile of the Papyrus of Ani, in the British
 Museum. Printed by order of the Trustees. London, 1894, pls. iii–iv.
 
-<span id="fn_809"></span>[304:3](rtae12.htm#fr_809) The number has been
+<span id="fn_809"></span>[304:3](rtae12.htm#fr_809.md) The number has been
 adjusted to the exclusion of Osiris, who sits as chief judge. Isis and
 Nephthys are placed together and counted as one.
 
-<span id="fn_810"></span>[304:4](rtae12.htm#fr_810) See above, [p.
-253](rtae11.htm#page_253).
+<span id="fn_810"></span>[304:4](rtae12.htm#fr_810.md) See above, [p.
+253](rtae11.htm#page_253.md).
 
-<span id="fn_811"></span>[305:1](rtae12.htm#fr_811) Omitted by the
+<span id="fn_811"></span>[305:1](rtae12.htm#fr_811.md) Omitted by the
 scribe.
 
-<span id="fn_812"></span>[306:1](rtae12.htm#fr_812) Papyrus of Ani, pl.
+<span id="fn_812"></span>[306:1](rtae12.htm#fr_812.md) Papyrus of Ani, pl.
 iv.
 
-<span id="fn_813"></span>[308:1](rtae12.htm#fr_813) Book of the Dead,
+<span id="fn_813"></span>[308:1](rtae12.htm#fr_813.md) Book of the Dead,
 chap. XXX.
 
-<span id="fn_814"></span>[308:2](rtae12.htm#fr_814) Book of the Dead,
+<span id="fn_814"></span>[308:2](rtae12.htm#fr_814.md) Book of the Dead,
 ed. <span class="smallcaps">Naville</span>, chap. LXV, ll. 10–16.
 
-<span id="fn_815"></span>[310:1](rtae12.htm#fr_815) British Museum
+<span id="fn_815"></span>[310:1](rtae12.htm#fr_815.md) British Museum
 Stela, No. 826, published by <span class="smallcaps">Birch</span>,
 *Transactions of the Soc. of Bib. Arch.*, VIII, 143; and in <span
 class="smallcaps">Pierret's</span> *Recueil*, I. I had also my own copy
 of the original.
 
-<span id="fn_816"></span>[310:2](rtae12.htm#fr_816) BAR, II, 318, 570.
+<span id="fn_816"></span>[310:2](rtae12.htm#fr_816.md) BAR, II, 318, 570.
 
-<span id="fn_817"></span>[310:3](rtae12.htm#fr_817) BAR, II, 570.
+<span id="fn_817"></span>[310:3](rtae12.htm#fr_817.md) BAR, II, 570.
 
-<span id="fn_818"></span>[310:4](rtae12.htm#fr_818) It is not likely
+<span id="fn_818"></span>[310:4](rtae12.htm#fr_818.md) It is not likely
 that the "caves" referred to in Pyr. § 852 have any connection with the
 subterranean caverns of the Osirian faith.
 
@@ -2200,4 +2200,4 @@ subterranean caverns of the Osirian faith.
 
 [Next: Lecture IX. The Imperial Age—The World-State Makes its Impression
 on Religion—Triumph of Re—Earliest Monotheism—Ikhnaton (Amenhotep
-IV)](rtae13)
+IV)](rtae13.md)

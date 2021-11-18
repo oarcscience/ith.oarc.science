@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic110)  [Next](lfic112) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic110)  [Next](lfic112.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ of morals. He died, universally regretted, AD. 659.
 
 ------------------------------------------------------------------------
 
-[Next: St Lateerin of Cullin](lfic112)
+[Next: St Lateerin of Cullin](lfic112.md)

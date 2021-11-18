@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst06)  [Next](myst08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst06)  [Next](myst08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -122,7 +122,7 @@ the ecstasies of the saints, to “menticulture” and sorcery, dreamy
 poetry and mediaeval art, to prayer and palmistry, the doctrinal
 excesses of Gnosticism, and the tepid speculations of the Cambridge
 Platonists—even, according to William James, to the higher branches of
-intoxication  <span id="fr_110"></span>[111](#fn_110) —soon ceases to
+intoxication  <span id="fr_110"></span>[111](#fn_110.md) —soon ceases to
 have any useful meaning. Its employment merely confuses the
 inexperienced student, who ends with a vague idea that every kind of
 supersensual theory and practice is somehow “mystical.” Hence the need
@@ -156,7 +156,7 @@ individual self and this Supreme Self, this Ultimate. In the mystic this
 union is conscious, personal, and complete. “He enjoys,” says St. John
 of the Cross, “a certain contact of the soul with the Divinity; and it
 is God Himself who is then felt and tasted.”  <span
-id="fr_111"></span>[112](#fn_111) More or less according to his measure,
+id="fr_111"></span>[112](#fn_111.md) More or less according to his measure,
 he has touched—or better, been touched by—the substantial Being of
 Deity, not merely its manifestation in life. This it is which
 distinguishes him from the best and most brilliant of other men, and
@@ -179,7 +179,7 @@ sees the landscape “touched with light divine,”—a charming phrase to
 those who have not seen it, but a scientific statement to the rest—he
 who falls in love with the Holy, or as we say “undergoes conversion”:
 all these have truly known for an instant something of the secret of the
-world.  <span id="fr_112"></span>[113](#fn_112)
+world.  <span id="fr_112"></span>[113](#fn_112.md)
 
 > <span id="an_iii.iv-p12.1"></span> “. . . Ever and anon a trumpet
 > sounds  
@@ -195,7 +195,7 @@ secret plan of the Universe. And what is that secret plan? The other
 ‘Part of the Soul’ indeed comprehends it in silence as it is, but can
 explain it to the Understanding only in the symbolical language of the
 interpreter, Imagination—in Vision.”  <span
-id="fr_113"></span>[114](#fn_113)
+id="fr_113"></span>[114](#fn_113.md)
 
 <span id="an_iii.iv-p15"></span>Here, in this spark or “part of the
 soul” where the spirit, as religion says, “rests in God who made it,” is
@@ -223,9 +223,9 @@ which was not to reproduce the illusions of ordinary men but to catch
 and translate for us something of that “secret plan,” that reality which
 the artistic consciousness is able, in a measure, to perceive. “Painting
 as well as music and poetry exists and exults in immortal thoughts,”
-says Blake.  <span id="fr_114"></span>[115](#fn_114) That
+says Blake.  <span id="fr_114"></span>[115](#fn_114.md) That
 “life-enhancing power” which has been recognized as the supreme quality
-of good painting,  <span id="fr_115"></span>[116](#fn_115) has its
+of good painting,  <span id="fr_115"></span>[116](#fn_115.md) has its
 origin in this contact of the artistic mind with the archetypal—or, if
 you like, the transcendental—world: the underlying verity of things.
 
@@ -239,12 +239,12 @@ living spirit of things with a clearer beauty and intenser power than
 the gross impediments of complex matter allow to be transmitted to, our
 senses in the visible world around us. A picture is conceived as a *sort
 of apparition from a more real world of essential life.”*  <span
-id="fr_116"></span>[117](#fn_116)
+id="fr_116"></span>[117](#fn_116.md)
 
 <span id="an_iii.iv-p21"></span>That “more real world of essential life”
 is the world in which the “free soul” of the great mystic dwells;
 hovering like the six-winged seraph before the face of the Absolute.
- <span id="fr_117"></span>[118](#fn_117) The artist too may cross its
+ <span id="fr_117"></span>[118](#fn_117.md) The artist too may cross its
 boundaries in his brief moments of creation: but he cannot stay. He
 comes back to us, bearing its tidings, with Dante’s cry upon his lips—
 
@@ -252,7 +252,7 @@ comes back to us, bearing its tidings, with Dante’s cry upon his lips—
 > penne  
 > se non che la mia mente fu percossa  
 > da un fulgore, in che sua voglia venne.”  <span
-> id="fr_118"></span>[119](#fn_118)  
+> id="fr_118"></span>[119](#fn_118.md)  
 
 <span id="an_iii.iv-p24"></span>The mystic may say—is indeed bound to
 say—with St. Bernard, “My secret to myself.” Try how he will, his
@@ -264,7 +264,7 @@ must be balanced by works. By means of veils and symbols he must
 interpret his free vision, his glimpse of the burning bush, to other
 men. He is the mediator between his brethren and the divine, for art is
 the link between appearance and reality.  <span
-id="fr_119"></span>[120](#fn_119)
+id="fr_119"></span>[120](#fn_119.md)
 
 <span id="an_iii.iv-p26"></span>But we do not call every one who has
 these partial and artistic intuitions of reality a mystic, any more than
@@ -328,7 +328,7 @@ response to the life-movement of the universe: brings us—we know not
 how—news of its exultant passions and its incomparable peace. <span
 id="page_77">p. 77</span> <span id="an_iii.iv-Page_77"></span> Beethoven
 heard the very voice of Reality, and little of it escaped when he
-translated it for our ears.  <span id="fr_120"></span>[121](#fn_120)
+translated it for our ears.  <span id="fr_120"></span>[121](#fn_120.md)
 
 <span id="an_iii.iv-p31"></span>The mediaeval mind, more naturally
 mystical than ours, and therefore more sharply aware of the part which
@@ -345,7 +345,7 @@ and the vicissitudes of light and darkness; another of the months and
 the waxing and waning of the moon; another of the years and the changes
 of spring, summer, autumn and winter. Of the music of humanity, one is
 of the body, another of the soul, another in the connexion that is
-between them.”  <span id="fr_121"></span>[122](#fn_121) Thus the life of
+between them.”  <span id="fr_121"></span>[122](#fn_121.md) Thus the life of
 the visible and invisible universe consists in a supernal fugue.
 
 <span id="an_iii.iv-p33"></span>One contemplative at least, Richard
@@ -360,19 +360,19 @@ The condition of joyous and awakened love to which the mystic passes
 when his purification is at an end is to him, above all else, the state
 of Song. He does not “see” the spiritual world: he “hears” it. For him,
 as for St. Francis of Assisi, it is a “heavenly melody, intolerably
-sweet.”  <span id="fr_122"></span>[123](#fn_122)
+sweet.”  <span id="fr_122"></span>[123](#fn_122.md)
 
 <span id="an_iii.iv-p35"></span>“Song I call,” he says, “when in a
 plenteous soul the sweetness of eternal love with burning is taken, and
 thought into song is turned, and the mind into full sweet sound is
-changed.”  <span id="fr_123"></span>[124](#fn_123) He who <span
+changed.”  <span id="fr_123"></span>[124](#fn_123.md) He who <span
 id="page_78">p. 78</span> <span id="an_iii.iv-Page_78"></span>
 experiences this joyous exaltation “says not his prayers like other
 righteous men” but “is taken into marvellous mirth: and, goodly sound
 being descended into him, as it were with notes his prayers he sings.”
- <span id="fr_124"></span>[125](#fn_124) So Gertrude More—“O lett me
+ <span id="fr_124"></span>[125](#fn_124.md) So Gertrude More—“O lett me
 sitt alone, silent to all the world and it to me, that I may learn the
-song of Love.”  <span id="fr_125"></span>[126](#fn_125)
+song of Love.”  <span id="fr_125"></span>[126](#fn_125.md)
 
 <span id="an_iii.iv-p39"></span>Rolle’s own experience of mystic joy
 seems actually to have come to him in this form: the perceptions of his
@@ -388,7 +388,7 @@ suddenly, in what manner I wot not, in me the sound of song I felt; and
 likeliest heavenly melody I took, with me dwelling in mind. Forsooth my
 thought continually to mirth of song was changed, and my meditation to
 praise turned; and my prayers and psalm-saying, in *sound* I showed.”
- <span id="fr_126"></span>[127](#fn_126)
+ <span id="fr_126"></span>[127](#fn_126.md)
 
 <span id="an_iii.iv-p41"></span>The song, however, is a mystic melody
 having little in common with its clumsy image, earthly music. Bodily
@@ -400,7 +400,7 @@ has an acceptable melody, and with marvel it is commended of them that
 have known it.” To others it is incommunicable. “Worldly lovers soothly
 words or ditties of our song may know, for the words they read: but the
 tone and sweetness of that song they may not learn.”  <span
-id="fr_127"></span>[128](#fn_127)
+id="fr_127"></span>[128](#fn_127.md)
 
 <span id="an_iii.iv-p46"></span>Such symbolism as this—a living
 symbolism of experience and action, as well as of statement—seems almost
@@ -431,7 +431,7 @@ again they tell us with Dionysius and Eckhart, that the Object of their
 contemplation “hath no image”: or with St. John of the Cross that “the
 soul can never attain to the height of the divine union, so far as it is
 possible in this life, through the medium of any forms or figures.”
- <span id="fr_128"></span>[129](#fn_128) Therefore the attempt which has
+ <span id="fr_128"></span>[129](#fn_128.md) Therefore the attempt which has
 sometimes been made to identify mysticism with such forms and
 figures—with visions, voices, “supernatural favours” and other abnormal
 phenomena—is clearly wrong.
@@ -441,7 +441,7 @@ which it is given us to see and to know,” says Dionysius the Areopagite
 plainly, “are but the symbolic language of things subordinate to Him who
 Himself transcendeth them all: through which things His incomprehensible
 Presence is shown, walking on those heights of His Holy Places which are
-perceived by the mind.  <span id="fr_129"></span>[130](#fn_129)
+perceived by the mind.  <span id="fr_129"></span>[130](#fn_129.md)
 
 <span id="an_iii.iv-p51"></span>The mystic, as a rule, cannot wholly do
 without symbol and image, inadequate to his vision though they must
@@ -464,7 +464,7 @@ law in some subjects that Baron von Hügel adopted the presence or
 absence of rhythm as a test whereby to distinguish the genuine
 utterances of St. Catherine of Genoa from those wrongly attributed to
 her by successive editors of her legend.  <span
-id="fr_130"></span>[131](#fn_130)
+id="fr_130"></span>[131](#fn_130.md)
 
 <span id="an_iii.iv-p53"></span>All kinds of symbolic language come
 naturally to the articulate mystic, who is often a literary artist as
@@ -507,7 +507,7 @@ id="an_iii.iv-Page_81"></span> if we can the characteristics of true
 mysticism, I think that we have already reached a point at which William
 James’s celebrated “four marks” of the mystic state, Ineffability,
 Noetic Quality, Transiency, and Passivity,  <span
-id="fr_131"></span>[132](#fn_131) will fail to satisfy us. In their
+id="fr_131"></span>[132](#fn_131.md) will fail to satisfy us. In their
 place I propose to set out, illustrate and, I hope, justify four other
 rules or notes which may be applied as tests to any given case which
 claims to take rank amongst the mystics.
@@ -565,7 +565,7 @@ goes on, it tends to abolish this opposition. . . . When it has reached
 its term the consciousness finds itself possessed by the sense of a
 Being at one and the same time greater than the Self and identical with
 it: great enough to be God, intimate enough to be me.”  <span
-id="fr_132"></span>[133](#fn_132)
+id="fr_132"></span>[133](#fn_132.md)
 
 <span id="an_iii.iv-p64"></span>This is that mystic union which is the
 only possible fulfilment of mystic love: since
@@ -575,7 +575,7 @@ only possible fulfilment of mystic love: since
 > And whoever in Love’s city  
 > Enters, finds but room for One  
 > And but in One-ness, Union.”  <span
-> id="fr_133"></span>[134](#fn_133)  
+> id="fr_133"></span>[134](#fn_133.md)  
 
 <span id="an_iii.iv-p66"></span>The history of mysticism is the history
 of the demonstration of this law upon the plane of reality.
@@ -597,11 +597,11 @@ Platonist upon religion.”
 <span id="an_iii.iv-p70"></span>The difference between such devout
 philosophers and the true mystic, is the difference which George Tyrrell
 held to distinguish revelation from theology.  <span
-id="fr_134"></span>[135](#fn_134) Mysticism, like revelation, is final
+id="fr_134"></span>[135](#fn_134.md) Mysticism, like revelation, is final
 and personal. It is not merely a beautiful and suggestive diagram but
 experience in its most intense form. That experience, in the words of
 Plotinus, is the soul’s solitary adventure: “the flight of the Alone to
-the Alone.”  <span id="fr_135"></span>[136](#fn_135) It provides the
+the Alone.”  <span id="fr_135"></span>[136](#fn_135.md) It provides the
 material, the substance, upon which mystical philosophy cogitates; as
 theologians cogitate upon the revelation which forms the basis of faith.
 Hence those whom we are to accept as mystics must have received, and
@@ -640,7 +640,7 @@ pilgrimage.
 > (O hapless, happy plight!)  
 > I *went* , none seeing me  
 > Forth from my house, where all things quiet be,”  <span
-> id="fr_136"></span>[137](#fn_136)  
+> id="fr_136"></span>[137](#fn_136.md)  
 
 <span id="an_iii.iv-p75"></span>said St. John of the Cross, in his poem
 of the mystic quest.
@@ -649,17 +649,17 @@ of the mystic quest.
 Ghazzali of his own search for mystic truth, “that the Sufis are men of
 intuition and not men of words. I recognized that I had learnt all that
 can be learnt of Sufiism by study, and that the rest could not be learnt
-by study or by speech.”  <span id="fr_137"></span>[138](#fn_137) “Let no
+by study or by speech.”  <span id="fr_137"></span>[138](#fn_137.md) “Let no
 one suppose,” says the “Theologia Germanica,” “that we may attain to
 this true light and perfect knowledge . . . by hearsay, or by reading
 and study, nor yet by high skill and great learning.”  <span
-id="fr_138"></span>[139](#fn_138) “It is not enough,” says Gerlac <span
+id="fr_138"></span>[139](#fn_138.md) “It is not enough,” says Gerlac <span
 id="page_84">p. 84</span> <span id="an_iii.iv-Page_84"></span> Petersen,
 “to know by estimation merely: but we must know by experience.”  <span
-id="fr_139"></span>[140](#fn_139) So Mechthild of Magdeburg says of her
+id="fr_139"></span>[140](#fn_139.md) So Mechthild of Magdeburg says of her
 revelations, “The writing of this book was seen, heard, and experienced
 in every limb. . . . I see it with the eyes of my soul, and hear it with
-the ears of my eternal spirit.”  <span id="fr_140"></span>[141](#fn_140)
+the ears of my eternal spirit.”  <span id="fr_140"></span>[141](#fn_140.md)
 
 <span id="an_iii.iv-p81"></span>Those who suppose mystical experience to
 be merely a pleasing consciousness of the Divine in the world, a sense
@@ -673,7 +673,7 @@ first and metaphysics the third of these processes. Only Mysticism can
 offer the middle term of the series; the essential link which binds the
 three in one. “Secrets,” says St. Catherine of Siena, “are revealed to a
 friend who has become one thing with his friend and not to a servant.”
- <span id="fr_141"></span>[142](#fn_141)
+ <span id="fr_141"></span>[142](#fn_141.md)
 
 <span id="an_iii.iv-p83"></span>(2) *Mysticism is an entirely Spiritual
 Activity.*
@@ -702,19 +702,19 @@ cask of strong wine. And thus the man’s spirit is so sunk in God in
 divine union, that he loses all sense of distinction . . . <span
 id="page_85">p. 85</span> <span id="an_iii.iv-Page_85"></span> and there
 remains a secret, still union, without cloud or colour.”  <span
-id="fr_142"></span>[143](#fn_142) “I wish not,” said St. Catherine of
+id="fr_142"></span>[143](#fn_142.md) “I wish not,” said St. Catherine of
 Genoa, “for anything that comes forth from Thee, but only for Thee, oh
-sweetest Love!”  <span id="fr_143"></span>[144](#fn_143) “Whatever share
+sweetest Love!”  <span id="fr_143"></span>[144](#fn_143.md) “Whatever share
 of this world,” says Rabi’a, “Thou dost bestow on me, bestow it on Thine
 enemies, and whatever share of the next world thou dost give me, give it
 to Thy friends. Thou art enough for me!”  <span
-id="fr_144"></span>[145](#fn_144) “The Soul,” says Plotinus in one of
+id="fr_144"></span>[145](#fn_144.md) “The Soul,” says Plotinus in one of
 his most profound passages, “having now arrived at the desired end, and
 participating of Deity, will know that the Supplier of true life is then
 present. She will likewise then require nothing farther; for, on the
 contrary it will be requisite to lay aside other things, to stop in this
 alone, amputating everything else with which she is surrounded.”  <span
-id="fr_145"></span>[146](#fn_145)
+id="fr_145"></span>[146](#fn_145.md)
 
 <span id="an_iii.iv-p89"></span>(3) *The business and method of
 Mysticism is Love.*
@@ -746,7 +746,7 @@ heart. He may not be known by reason, He may not be gotten by thought,
 nor concluded by understanding; but he may be loved and chosen with the
 true lovely will of thine heart. . . . Such a blind shot with the sharp
 dart of longing love may never fail of the prick, the which is God.”
- <span id="fr_146"></span>[147](#fn_146) <span id="page_86">p. 86</span>
+ <span id="fr_146"></span>[147](#fn_146.md) <span id="page_86">p. 86</span>
 <span id="an_iii.iv-Page_86"></span>
 
 <span id="an_iii.iv-p93"></span>“‘Come down quickly,’” says the
@@ -756,7 +756,7 @@ you to-day.’ And this hasty descent to which he is summoned by God is
 simply a descent by love and desire in to that abyss of the Godhead
 which the intellect cannot understand. But where intelligence must rest
 without, love and desire can enter in.”  <span
-id="fr_147"></span>[148](#fn_147)
+id="fr_147"></span>[148](#fn_147.md)
 
 <span id="an_iii.iv-p95"></span>Volumes of extracts might be compiled
 from the works of the mystics illustrative of this rule, which is indeed
@@ -764,7 +764,7 @@ their central principle. “Some there are,” says Plotinus, “that for all
 their effort have not attained the Vision; the soul in them has come to
 no sense of the splendour there. It has not taken warmth; it has not
 felt burning within itself the flame of love for what is there to know.”
- <span id="fr_148"></span>[149](#fn_148) “Love,” says Rolle, “truly
+ <span id="fr_148"></span>[149](#fn_148.md) “Love,” says Rolle, “truly
 suffers not a loving soul to bide in itself, but ravishes it out to the
 Lover, that the soul is more there where it loves, than where the body
 is that lives and feels it.” “Oh singular joy of love everlasting,” he
@@ -775,7 +775,7 @@ to joy above earthly is soon lifted! Thou makest men contemplative,
 heaven-gate thou openest, mouths of accusers thou dost shut, God thou
 makest to be seen and multitude of sins thou hidest. We praise thee, we
 preach thee, by thee the world we quickly overcome, by whom we joy and
-the heavenly ladder we ascend.”  <span id="fr_149"></span>[150](#fn_149)
+the heavenly ladder we ascend.”  <span id="fr_149"></span>[150](#fn_149.md)
 
 <span id="an_iii.iv-p98"></span>Love to the mystic, then, is (a) the
 active, conative, expression of his will and desire for the Absolute;
@@ -787,10 +787,10 @@ claims to be able to know the Unknowable without any help from
 dialectics; and believes that, by the way of love and will it reaches a
 point to which thought alone is unable to attain.” Again, “It is the
 heart and never the reason which leads us to the Absolute.”  <span
-id="fr_150"></span>[151](#fn_150) Hence in St. Catherine of Siena’s
+id="fr_150"></span>[151](#fn_150.md) Hence in St. Catherine of Siena’s
 exquisite allegory it is the feet of the soul’s affection which brings
 it first to the Bridge, “for the feet carry the body as affection
-carries the soul.”  <span id="fr_151"></span>[152](#fn_151)
+carries the soul.”  <span id="fr_151"></span>[152](#fn_151.md)
 
 <span id="an_iii.iv-p101"></span>The jewels of mystical literature glow
 with this intimate and impassioned love of the Absolute; which
@@ -827,7 +827,7 @@ all goods turns himself to the giver.
 <span id="an_iii.iv-p107"></span>“. . . He who loves knows the cry of
 this voice. For this burning affection of the soul is a loud cry in the
 ears of God when it saith ‘My God, My Love, Thou art all mine, and I am
-all Thine.’”  <span id="fr_152"></span>[153](#fn_152)
+all Thine.’”  <span id="fr_152"></span>[153](#fn_152.md)
 
 <span id="an_iii.iv-p109"></span>So much for the Christian. Now for the
 Persian mystic.
@@ -847,13 +847,13 @@ Persian mystic.
 > Take up your abode in heaven, oh bright full moon!  
 > Like the heavenly Scribe, He will open your heart’s book  
 > That he may reveal mysteries unto you.”  <span
-> id="fr_153"></span>[154](#fn_153)  
+> id="fr_153"></span>[154](#fn_153.md)  
 
 <span id="an_iii.iv-p111"></span>Well might Hilton say that “Perfect
 love maketh God and the soul to be as if they both together were but one
-thing,”  <span id="fr_154"></span>[155](#fn_154) and Tauler that “the
+thing,”  <span id="fr_154"></span>[155](#fn_154.md) and Tauler that “the
 well of life is love, and he who dwelleth not in love is dead.”  <span
-id="fr_155"></span>[156](#fn_155)
+id="fr_155"></span>[156](#fn_155.md)
 
 <span id="an_iii.iv-p114"></span>These, nevertheless, are objective and
 didactic utterances; though their substance may be—probably is—personal,
@@ -888,13 +888,13 @@ Devotions. Her only spiritual father and directour, Father Baker, styled
 them *Confessiones Amantis,* A Lover’s Confessions. <span
 id="an_iii.iv-p116.2"></span> *Amans Deum anima sub Deo despicit
 universa.* A soul that loveth God despiseth all things that be inferiour
-unto God.”  <span id="fr_156"></span>[157](#fn_156)
+unto God.”  <span id="fr_156"></span>[157](#fn_156.md)
 
 <span id="an_iii.iv-p118"></span>The spirit of her little book is summed
 up in two epigrams: epigrams of which her contemporary, Crashaw, might
 have been proud. “To give all for love is a most sweet bargain.”  <span
-id="fr_157"></span>[158](#fn_157) “O let me love, or not live!”  <span
-id="fr_158"></span>[159](#fn_158) Love indeed was her life: and she
+id="fr_157"></span>[158](#fn_157.md) “O let me love, or not live!”  <span
+id="fr_158"></span>[159](#fn_158.md) Love indeed was her life: and she
 writes of it with a rapture which recalls at one moment the exuberant
 poetry of Jacopene da Todi, at another the love songs of the Elizabethan
 poets.
@@ -922,17 +922,17 @@ ardent love, a pure love, a courageous love, a love of charity, an
 humble love, and a constant love, not worn out with labours, not daunted
 with any difficulties. . . . For that soul that hath set her whole love
 and desire on thee, can never find any true satisfaction, but only in
-thee.”  <span id="fr_159"></span>[160](#fn_159)
+thee.”  <span id="fr_159"></span>[160](#fn_159.md)
 
 <span id="an_iii.iv-p123"></span>Who will not see that we have here no
 literary exercise, but the fruits of an experience of peculiar
 intensity? It answers exactly to one of the best modern definitions of
 mysticism as “in essence, the concentration of all the forces of the
 soul upon a supernatural Object, conceived and loved as a living
-Person.“  <span id="fr_160"></span>[161](#fn_160) “Love and desire,”
+Person.“  <span id="fr_160"></span>[161](#fn_160.md) “Love and desire,”
 says the same critic, “are the fundamental necessities; and where they
 are absent man, even though he be a visionary, cannot be called a
-mystic.”  <span id="fr_161"></span>[162](#fn_161) Such a definition, of
+mystic.”  <span id="fr_161"></span>[162](#fn_161.md) Such a definition, of
 course, is not complete. It is valuable however, because it emphasizes
 the fact that all true mysticism is rooted in personality; and is
 therefore fundamentally a science of the heart.
@@ -951,7 +951,7 @@ are dealing with an ardour far more burning for an Object far more real.
 
 <span id="an_iii.iv-p127"></span>“This monk can give lessons to lovers!”
 exclaimed Arthur Symons in astonishment of St. John of the Cross.  <span
-id="fr_162"></span>[163](#fn_162) It would be strange if he could not;
+id="fr_162"></span>[163](#fn_162.md) It would be strange if he could not;
 since their finite passions are but the feeble images of his infinite
 one, their beloved the imperfect symbol of <span id="page_90">p.
 90</span> <span id="an_iii.iv-Page_90"></span> his First and only Fair.
@@ -984,10 +984,10 @@ thee know that my lady can no longer bear to live. If Thou wouldst flow
 forth to her, then might she swim: but the fish cannot long exist that
 is left stranded on the shore.’ ‘Go back,’ said the Lord, ‘I will not
 let thee in unless thou bring to me that hungry soul, for it is in this
-alone that I take delight.’”  <span id="fr_163"></span>[164](#fn_163)
+alone that I take delight.’”  <span id="fr_163"></span>[164](#fn_163.md)
 
 <span id="an_iii.iv-p133"></span>We have said  <span
-id="fr_164"></span>[165](#fn_164) that the full mystic consciousness is
+id="fr_164"></span>[165](#fn_164.md) that the full mystic consciousness is
 extended in two distinct directions. So too there are two distinct sides
 to the full mystical experience. (A) The vision or consciousness of
 Absolute Perfection. (B) The inward transmutation to which that Vision
@@ -997,7 +997,7 @@ Reality. He has seen the Perfect; he wants to be perfect too. The “third
 term,” the necessary bridge between the Absolute and the Self, can only,
 he feels, be moral and spiritual transcendence—in a word, *Sanctity—*
 for “the only means of attaining the Absolute lies in adapting ourselves
-to It.”  <span id="fr_165"></span>[166](#fn_165) The moral virtues are
+to It.”  <span id="fr_165"></span>[166](#fn_165.md) The moral virtues are
 for him, then, the obligatory “ornaments of the Spiritual Marriage” as
 Ruysbroeck called them: though far more than their presence is needed to
 bring that marriage about. Unless this impulse for moral perfection be
@@ -1037,14 +1037,14 @@ intellectual activity, is that educational discipline by which “the eye
 which looks upon Eternity” is able to come to its own. “One of the marks
 of the true mystic,” says Leuba—by no means a favourable witness—“is the
 tenacious and heroic energy with which he pursues a definite moral
-ideal.”  <span id="fr_166"></span>[167](#fn_166) “He is,” says Pacheu,
+ideal.”  <span id="fr_166"></span>[167](#fn_166.md) “He is,” says Pacheu,
 “the pilgrim of an inward Odyssey.”  <span
-id="fr_167"></span>[168](#fn_167) Though we may be amazed and delighted
+id="fr_167"></span>[168](#fn_167.md) Though we may be amazed and delighted
 by his adventures and discoveries on the way, to him the voyage and the
 end are all. “The road on which we enter is a royal road which leads to
 heaven,” says St. Teresa. “Is it strange that the conquest of such a
 treasure should cost us rather dear?”  <span
-id="fr_168"></span>[169](#fn_168)
+id="fr_168"></span>[169](#fn_168.md)
 
 <span id="an_iii.iv-p141"></span>It is one of the many indirect
 testimonies to the objective reality of mysticism that the stages of
@@ -1054,12 +1054,12 @@ us by different schools of contemplatives, always present practically
 the same sequence of states. The “school for saints” has never found it
 necessary to bring its curriculum up to date. The psychologist finds
 little difficulty, for instance, in reconciling the “Degrees of Orison”
-described by St. Teresa  <span id="fr_169"></span>[170](#fn_169)
+described by St. Teresa  <span id="fr_169"></span>[170](#fn_169.md)
 —Recollection, Quiet, Union, Ecstasy, Rapt, the “Pain of God,” and the
 Spiritual Marriage of the soul—with the four forms of contemplation
 enumerated by Hugh of St. Victor, or the Sufi’s “Seven Stages” of the
 soul’s ascent to God, which begin in adoration and end in spiritual
-marriage.  <span id="fr_170"></span>[171](#fn_170) Though each wayfarer
+marriage.  <span id="fr_170"></span>[171](#fn_170.md) Though each wayfarer
 may choose different landmarks, it is clear from their comparison that
 the road is one.
 
@@ -1073,9 +1073,9 @@ personal reward. That noblest of all passions, the passion for
 perfection for Love’s sake, far outweighs the desire for transcendental
 satisfaction. “O Love,” said St. Catherine of Genoa, “I do not wish to
 follow thee for sake of these delights, but solely from the motive of
-true love.”  <span id="fr_171"></span>[172](#fn_171) Those who do
+true love.”  <span id="fr_171"></span>[172](#fn_171.md) Those who do
 otherwise are only, in the plain words of St. John of the Cross,
-“spiritual gluttons”:  <span id="fr_172"></span>[173](#fn_172) or, in
+“spiritual gluttons”:  <span id="fr_172"></span>[173](#fn_172.md) or, in
 the milder metaphor here adopted, magicians of the more high-minded
 sort. The true mystic claims no promises and makes no demands. He goes
 because he must, as Galahad went towards the Grail: knowing that for
@@ -1083,11 +1083,11 @@ those who can live it, this alone is life. He never rests in that search
 for God which he holds to be the fulfilment of his highest duty; yet he
 seeks without any certainty of success. He holds with St. Bernard that
 “He alone is God who can never be sought in vain: not even when He
-cannot be found.”  <span id="fr_173"></span>[174](#fn_173) With
+cannot be found.”  <span id="fr_173"></span>[174](#fn_173.md) With
 Mechthild of Magdeburg, he hears the Absolute saying in his soul, “O
 soul, before the world was I longed for thee: and I still long for thee,
 and thou for Me. Therefore, when our two desires unite, Love shall be
-fulfilled.”  <span id="fr_174"></span>[175](#fn_174)
+fulfilled.”  <span id="fr_174"></span>[175](#fn_174.md)
 
 <span id="an_iii.iv-p149"></span>Like his type, the “devout lover” of
 romance, then, the mystic serves without hope of reward. By one of the
@@ -1097,7 +1097,7 @@ does not seek it; completes his personality because he gives it up.
 id="an_iii.iv-Page_93"></span> says Dionysius the Areopagite in words
 which are writ large on the annals of Christian ecstasy, “comes only by
 means of this sincere, spontaneous, and entire surrender of yourself and
-all things.”  <span id="fr_175"></span>[176](#fn_175) Only with the
+all things.”  <span id="fr_175"></span>[176](#fn_175.md) Only with the
 annihilation of selfhood comes the fulfilment of love. Were the mystic
 asked the cause of his often extraordinary behaviour, his austere and
 steadfast quest, it is unlikely that his reply would contain any
@@ -1107,7 +1107,7 @@ Boehme, “I am not come to this meaning, or to this work and knowledge
 through my own reason or through my own will and purpose; neither have I
 sought this knowledge, nor so much as to know anything concerning it. I
 sought only for the heart of God, therein to hide myself.”  <span
-id="fr_176"></span>[177](#fn_176)
+id="fr_176"></span>[177](#fn_176.md)
 
 <span id="an_iii.iv-p152"></span>“Whether we live or whether we die,”
 said St. Paul, “we are the Lord’s.” The mystic is a realist, to whom
@@ -1118,12 +1118,12 @@ entirely to this sovereign Object without belonging either to herself or
 to others; united to the Unknown by the most noble part of herself and
 because of her renouncement of knowledge; finally drawing from this
 absolute ignorance a knowledge which the understanding knows not how to
-attain.  <span id="fr_177"></span>[178](#fn_177) Mysticism, then, is
+attain.  <span id="fr_177"></span>[178](#fn_177.md) Mysticism, then, is
 seen as the “one way out” for the awakened spirit of man; healing that
 human incompleteness which is the origin of our divine unrest. “I am
 sure,” says Eckhart, “that if a soul knew the very least of all that
 Being means, it would never turn away from it.”  <span
-id="fr_178"></span>[179](#fn_178) The mystics have never turned away: to
+id="fr_178"></span>[179](#fn_178.md) The mystics have never turned away: to
 do so would have seemed to them a self-destructive act. Here, in this
 world of illusion, they say, we have no continuing city. This statement,
 to you a proposition, is to us the central fact of life. “Therefore, it
@@ -1131,7 +1131,7 @@ is necessary to hasten our departure from hence, and detach ourselves in
 so far as we may from the body to which we are fettered, in order that
 with the whole of our selves, we may fold ourselves about Divinity, and
 have no part void of contact with Him.”  <span
-id="fr_179"></span>[180](#fn_179)
+id="fr_179"></span>[180](#fn_179.md)
 
 <span id="an_iii.iv-p156"></span>To sum up. Mysticism is seen to be a
 highly specialized form of that search for reality, for heightened and
@@ -1155,7 +1155,7 @@ Leuba, “could by some miracle be all brought together in the same place,
 each in his habitual environment, there to live according to his manner,
 the world would soon perceive that they constitute one of the most
 amazing and profound variations of which the human race has yet been
-witness.”  <span id="fr_180"></span>[181](#fn_180)
+witness.”  <span id="fr_180"></span>[181](#fn_180.md)
 
 <span id="an_iii.iv-p158"></span>A discussion of mysticism, regarded as
 a form of human life, will therefore include two branches. First the
@@ -1189,59 +1189,59 @@ id="an_iii.iv-Page_95"></span>
 
 ### Footnotes
 
-<span id="fn_110"></span>[72:111](myst07.htm#fr_110) <span
+<span id="fn_110"></span>[72:111](myst07.htm#fr_110.md) <span
 id="an_iii.iv-p6.1"></span>
 
 <span id="an_iii.iv-p7"></span> See “Varieties of Religious Experience,”
 p. 387, “The Drunken Consciousness is a bit of the Mystic
 Consciousness.”
 
-<span id="fn_111"></span>[73:112](myst07.htm#fr_111) <span
+<span id="fn_111"></span>[73:112](myst07.htm#fr_111.md) <span
 id="an_iii.iv-p9.1"></span>
 
 <span id="an_iii.iv-p10"></span> Llama de Amor Viva, II. 26.
 
-<span id="fn_112"></span>[73:113](myst07.htm#fr_112) <span
+<span id="fn_112"></span>[73:113](myst07.htm#fr_112.md) <span
 id="an_iii.iv-p11.1"></span>
 
 <span id="an_iii.iv-p12"></span> Compare above, pp. 24, 26, 57.
 
-<span id="fn_113"></span>[74:114](myst07.htm#fr_113) <span
+<span id="fn_113"></span>[74:114](myst07.htm#fr_113.md) <span
 id="an_iii.iv-p13.1"></span>
 
 <span id="an_iii.iv-p14"></span> J. A. Stewart, “The Myths of Plato,” p.
 40.
 
-<span id="fn_114"></span>[74:115](myst07.htm#fr_114) <span
+<span id="fn_114"></span>[74:115](myst07.htm#fr_114.md) <span
 id="an_iii.iv-p16.1"></span>
 
 <span id="an_iii.iv-p17"></span> “Descriptive Catalogue.”
 
-<span id="fn_115"></span>[74:116](myst07.htm#fr_115) <span
+<span id="fn_115"></span>[74:116](myst07.htm#fr_115.md) <span
 id="an_iii.iv-p17.1"></span>
 
 <span id="an_iii.iv-p18"></span> See T. Rolleston, “Parallel Paths.”
 
-<span id="fn_116"></span>[75:117](myst07.htm#fr_116) <span
+<span id="fn_116"></span>[75:117](myst07.htm#fr_116.md) <span
 id="an_iii.iv-p19.1"></span>
 
 <span id="an_iii.iv-p20"></span> Laurence Binyon, “Painting in the Far
 East,” p. 9.
 
-<span id="fn_117"></span>[75:118](myst07.htm#fr_117) <span
+<span id="fn_117"></span>[75:118](myst07.htm#fr_117.md) <span
 id="an_iii.iv-p21.1"></span>
 
 <span id="an_iii.iv-p22"></span> “The Mirror of Simple Souls,” Pt. III,
 cap. 1.
 
-<span id="fn_118"></span>[75:119](myst07.htm#fr_118) <span
+<span id="fn_118"></span>[75:119](myst07.htm#fr_118.md) <span
 id="an_iii.iv-p22.5"></span>
 
 <span id="an_iii.iv-p23"></span> Par. xxxiii. 139. “Not for this were my
 wings fitted: save only that my mind was smitten by a lightning flash
 wherein came to it its desire.”
 
-<span id="fn_119"></span>[75:120](myst07.htm#fr_119) <span
+<span id="fn_119"></span>[75:120](myst07.htm#fr_119.md) <span
 id="an_iii.iv-p24.1"></span>
 
 <span id="an_iii.iv-p25"></span> In this connexion Godfernaux ( *Revue*
@@ -1250,7 +1250,7 @@ effect that romanticism represents the invasion of secular literature by
 mystic or religious emotion. It is, he says, the *secularization of the
 inner life.* Compare also Bremond, “Prière et Poesie.”
 
-<span id="fn_120"></span>[77:121](myst07.htm#fr_120) <span
+<span id="fn_120"></span>[77:121](myst07.htm#fr_120.md) <span
 id="an_iii.iv-p29.1"></span>
 
 <span id="an_iii.iv-p30"></span> I take from Hebert’s monograph “Le
@@ -1262,19 +1262,19 @@ Keats, speaks of contemplation and Love as “two heavenly pipes” which,
 blown upon by the Holy Spirit, play “ditties of no tone” ( *op. cit* .
 p. 29).
 
-<span id="fn_121"></span>[77:122](myst07.htm#fr_121) <span
+<span id="fn_121"></span>[77:122](myst07.htm#fr_121.md) <span
 id="an_iii.iv-p31.1"></span>
 
 <span id="an_iii.iv-p32"></span> Hugh of St. Victor, “Didascalicon de
 Studio Legendi.”
 
-<span id="fn_122"></span>[77:123](myst07.htm#fr_122) <span
+<span id="fn_122"></span>[77:123](myst07.htm#fr_122.md) <span
 id="an_iii.iv-p33.1"></span>
 
 <span id="an_iii.iv-p34"></span> “Fioretti.” Delle Istimati. (Arnold’s
 translation.)
 
-<span id="fn_123"></span>[77:124](myst07.htm#fr_123) <span
+<span id="fn_123"></span>[77:124](myst07.htm#fr_123.md) <span
 id="an_iii.iv-p35.1"></span>
 
 <span id="an_iii.iv-p36"></span> Richard Rolle, ‘The Fire of Love”
@@ -1284,23 +1284,23 @@ Misyn’s fifteenth-century translation; slightly modernizing the
 spelling, and, where necessary, correcting from the Latin his errors and
 obscurities.
 
-<span id="fn_124"></span>[78:125](myst07.htm#fr_124) <span
+<span id="fn_124"></span>[78:125](myst07.htm#fr_124.md) <span
 id="an_iii.iv-p36.1"></span>
 
 <span id="an_iii.iv-p37"></span> *Op. cit.,* bk. i. cap. xxiii. Compare
 bk. ii. caps. v. and vi.
 
-<span id="fn_125"></span>[78:126](myst07.htm#fr_125) <span
+<span id="fn_125"></span>[78:126](myst07.htm#fr_125.md) <span
 id="an_iii.iv-p37.1"></span>
 
 <span id="an_iii.iv-p38"></span> “Spiritual Exercises,” p. 30.
 
-<span id="fn_126"></span>[78:127](myst07.htm#fr_126) <span
+<span id="fn_126"></span>[78:127](myst07.htm#fr_126.md) <span
 id="an_iii.iv-p39.1"></span>
 
 <span id="an_iii.iv-p40"></span> *Op. cit.,* bk. i. cap. xv.
 
-<span id="fn_127"></span>[78:128](myst07.htm#fr_127) <span
+<span id="fn_127"></span>[78:128](myst07.htm#fr_127.md) <span
 id="an_iii.iv-p41.1"></span>
 
 <span id="an_iii.iv-p42"></span> *Op. cit.,* bk. ii. caps, iii. and xii.
@@ -1314,107 +1314,107 @@ lovers.”
 
 <span id="an_iii.iv-p45"></span>(“The Triumph of Life “)
 
-<span id="fn_128"></span>[79:129](myst07.htm#fr_128) <span
+<span id="fn_128"></span>[79:129](myst07.htm#fr_128.md) <span
 id="an_iii.iv-p47.1"></span>
 
 <span id="an_iii.iv-p48"></span> “Subida del Monte Carmelo,” I. ii. cap.
 xv.
 
-<span id="fn_129"></span>[79:130](myst07.htm#fr_129) <span
+<span id="fn_129"></span>[79:130](myst07.htm#fr_129.md) <span
 id="an_iii.iv-p49.1"></span>
 
 <span id="an_iii.iv-p50"></span> “De Mystica Theologia,” i. 3.
 
-<span id="fn_130"></span>[80:131](myst07.htm#fr_130) <span
+<span id="fn_130"></span>[80:131](myst07.htm#fr_130.md) <span
 id="an_iii.iv-p51.1"></span>
 
 <span id="an_iii.iv-p52"></span> Von Hügel, “The Mystical Element of
 Religion,” vol. i. p. 189.
 
-<span id="fn_131"></span>[81:132](myst07.htm#fr_131) <span
+<span id="fn_131"></span>[81:132](myst07.htm#fr_131.md) <span
 id="an_iii.iv-p55.1"></span>
 
 <span id="an_iii.iv-p56"></span> “Varieties of Religious Experience,” p.
 380.
 
-<span id="fn_132"></span>[82:133](myst07.htm#fr_132) <span
+<span id="fn_132"></span>[82:133](myst07.htm#fr_132.md) <span
 id="an_iii.iv-p62.1"></span>
 
 <span id="an_iii.iv-p63"></span> “Les Fondements de la Connaissance
 Mystique,” p. 45.
 
-<span id="fn_133"></span>[82:134](myst07.htm#fr_133) <span
+<span id="fn_133"></span>[82:134](myst07.htm#fr_133.md) <span
 id="an_iii.iv-p64.7"></span>
 
 <span id="an_iii.iv-p65"></span> Jámí. Quoted in “Jalalu ‘d Din” (Wisdom
 of the East Series), p. 25.
 
-<span id="fn_134"></span>[82:135](myst07.htm#fr_134) <span
+<span id="fn_134"></span>[82:135](myst07.htm#fr_134.md) <span
 id="an_iii.iv-p70.1"></span>
 
 <span id="an_iii.iv-p71"></span> “Through Scylla and Charybdis,” p. 264.
 
-<span id="fn_135"></span>[82:136](myst07.htm#fr_135) <span
+<span id="fn_135"></span>[82:136](myst07.htm#fr_135.md) <span
 id="an_iii.iv-p71.1"></span>
 
 <span id="an_iii.iv-p72"></span> Ennead vi. 9.
 
-<span id="fn_136"></span>[83:137](myst07.htm#fr_136) <span
+<span id="fn_136"></span>[83:137](myst07.htm#fr_136.md) <span
 id="an_iii.iv-p73.7"></span>
 
 <span id="an_iii.iv-p74"></span> “En una Noche Escura,” Stanza 1. I
 quote from Arthur Symons’s beautiful translation, which will be found in
 vol. ii. of his Collected Poems.
 
-<span id="fn_137"></span>[83:138](myst07.htm#fr_137) <span
+<span id="fn_137"></span>[83:138](myst07.htm#fr_137.md) <span
 id="an_iii.iv-p76.1"></span>
 
 <span id="an_iii.iv-p77"></span> Schmölders, “Les Écoles Philosophiques
 chez les Arabes,” p. 55.
 
-<span id="fn_138"></span>[83:139](myst07.htm#fr_138) <span
+<span id="fn_138"></span>[83:139](myst07.htm#fr_138.md) <span
 id="an_iii.iv-p77.1"></span>
 
 <span id="an_iii.iv-p78"></span> Cap. xix.
 
-<span id="fn_139"></span>[84:140](myst07.htm#fr_139) <span
+<span id="fn_139"></span>[84:140](myst07.htm#fr_139.md) <span
 id="an_iii.iv-p78.1"></span>
 
 <span id="an_iii.iv-p79"></span> “Ignitum cum Deo Soliloquium,” cap. xi.
 
-<span id="fn_140"></span>[84:141](myst07.htm#fr_140) <span
+<span id="fn_140"></span>[84:141](myst07.htm#fr_140.md) <span
 id="an_iii.iv-p79.1"></span>
 
 <span id="an_iii.iv-p80"></span> “Das Fliessende Licht der Gottheit,”
 pt. iv. cap, 13.
 
-<span id="fn_141"></span>[84:142](myst07.htm#fr_141) <span
+<span id="fn_141"></span>[84:142](myst07.htm#fr_141.md) <span
 id="an_iii.iv-p81.1"></span>
 
 <span id="an_iii.iv-p82"></span> Dialogo, cap. lx.
 
-<span id="fn_142"></span>[85:143](myst07.htm#fr_142) <span
+<span id="fn_142"></span>[85:143](myst07.htm#fr_142.md) <span
 id="an_iii.iv-p84.1"></span>
 
 <span id="an_iii.iv-p85"></span> Tauler, Sermon for Septuagesima Sunday
 (Winkworth’s translation, p. 253).
 
-<span id="fn_143"></span>[85:144](myst07.htm#fr_143) <span
+<span id="fn_143"></span>[85:144](myst07.htm#fr_143.md) <span
 id="an_iii.iv-p85.1"></span>
 
 <span id="an_iii.iv-p86"></span> Vita e Dottrina, cap. vi.
 
-<span id="fn_144"></span>[85:145](myst07.htm#fr_144) <span
+<span id="fn_144"></span>[85:145](myst07.htm#fr_144.md) <span
 id="an_iii.iv-p86.1"></span>
 
 <span id="an_iii.iv-p87"></span> M. Smith, “Rabi’a the Mystic,” p. 30.
 
-<span id="fn_145"></span>[85:146](myst07.htm#fr_145) <span
+<span id="fn_145"></span>[85:146](myst07.htm#fr_145.md) <span
 id="an_iii.iv-p87.1"></span>
 
 <span id="an_iii.iv-p88"></span> Ennead vi. 9.
 
-<span id="fn_146"></span>[85:147](myst07.htm#fr_146) <span
+<span id="fn_146"></span>[85:147](myst07.htm#fr_146.md) <span
 id="an_iii.iv-p91.1"></span>
 
 <span id="an_iii.iv-p92"></span> “An Epistle of Discretion.” This
@@ -1422,57 +1422,57 @@ beautiful old English tract, probably by the author of “The Cloud of
 Unknowing,” is printed by E. Gardner, ‘ The Cell of Self Knowledge,” p.
 108.
 
-<span id="fn_147"></span>[86:148](myst07.htm#fr_147) <span
+<span id="fn_147"></span>[86:148](myst07.htm#fr_147.md) <span
 id="an_iii.iv-p93.1"></span>
 
 <span id="an_iii.iv-p94"></span> Ruysbroeck, “De Ornatu Spiritalium
 Nuptiarum,” I. i. cap. xxvi.
 
-<span id="fn_148"></span>[86:149](myst07.htm#fr_148) <span
+<span id="fn_148"></span>[86:149](myst07.htm#fr_148.md) <span
 id="an_iii.iv-p95.1"></span>
 
 <span id="an_iii.iv-p96"></span> Ennead, vi. 9.
 
-<span id="fn_149"></span>[86:150](myst07.htm#fr_149) <span
+<span id="fn_149"></span>[86:150](myst07.htm#fr_149.md) <span
 id="an_iii.iv-p96.1"></span>
 
 <span id="an_iii.iv-p97"></span> “The Mending of Life,” cap. xi.
 
-<span id="fn_150"></span>[86:151](myst07.htm#fr_150) <span
+<span id="fn_150"></span>[86:151](myst07.htm#fr_150.md) <span
 id="an_iii.iv-p98.1"></span>
 
 <span id="an_iii.iv-p99"></span> “Fondements de la Connaissance
 Mystique,” p. 7.
 
-<span id="fn_151"></span>[86:152](myst07.htm#fr_151) <span
+<span id="fn_151"></span>[86:152](myst07.htm#fr_151.md) <span
 id="an_iii.iv-p99.1"></span>
 
 <span id="an_iii.iv-p100"></span> Dialogo, cap. xxvi.
 
-<span id="fn_152"></span>[87:153](myst07.htm#fr_152) <span
+<span id="fn_152"></span>[87:153](myst07.htm#fr_152.md) <span
 id="an_iii.iv-p107.1"></span>
 
 <span id="an_iii.iv-p108"></span> “De Imitatione Christi,” I. ii. cap.
 v.
 
-<span id="fn_153"></span>[87:154](myst07.htm#fr_153) <span
+<span id="fn_153"></span>[87:154](myst07.htm#fr_153.md) <span
 id="an_iii.iv-p109.16"></span>
 
 <span id="an_iii.iv-p110"></span> Jalalu ‘d Din (Wisdom of the East
 Series), p. 79.
 
-<span id="fn_154"></span>[87:155](myst07.htm#fr_154) <span
+<span id="fn_154"></span>[87:155](myst07.htm#fr_154.md) <span
 id="an_iii.iv-p111.1"></span>
 
 <span id="an_iii.iv-p112"></span> Treatise to a Devout Man, cap. viii.
 
-<span id="fn_155"></span>[87:156](myst07.htm#fr_155) <span
+<span id="fn_155"></span>[87:156](myst07.htm#fr_155.md) <span
 id="an_iii.iv-p112.1"></span>
 
 <span id="an_iii.iv-p113"></span> Sermon for Thursday in Easter Week
 (Winkworth’s translation, p. 294).
 
-<span id="fn_156"></span>[88:157](myst07.htm#fr_156) <span
+<span id="fn_156"></span>[88:157](myst07.htm#fr_156.md) <span
 id="an_iii.iv-p116.3"></span>
 
 <span id="an_iii.iv-p117"></span> They were printed in 1658, “At Paris
@@ -1480,130 +1480,130 @@ by Lewis de la Fosse in the Carme Street at the Signe of the Looking
 Glass,” and have lately been republished. I quote from the original
 edition.
 
-<span id="fn_157"></span>[88:158](myst07.htm#fr_157) <span
+<span id="fn_157"></span>[88:158](myst07.htm#fr_157.md) <span
 id="an_iii.iv-p118.1"></span>
 
 <span id="an_iii.iv-p119"></span> P. 138.
 
-<span id="fn_158"></span>[88:159](myst07.htm#fr_158) <span
+<span id="fn_158"></span>[88:159](myst07.htm#fr_158.md) <span
 id="an_iii.iv-p119.1"></span>
 
 <span id="an_iii.iv-p120"></span> P. 181.
 
-<span id="fn_159"></span>[89:160](myst07.htm#fr_159) <span
+<span id="fn_159"></span>[89:160](myst07.htm#fr_159.md) <span
 id="an_iii.iv-p121.1"></span>
 
 <span id="an_iii.iv-p122"></span> *Op. cit.* pp. 9, 16, 25, 35, 138,
 175.
 
-<span id="fn_160"></span>[89:161](myst07.htm#fr_160) <span
+<span id="fn_160"></span>[89:161](myst07.htm#fr_160.md) <span
 id="an_iii.iv-p123.1"></span>
 
 <span id="an_iii.iv-p124"></span> Berger, “William Blake,” p. 72.
 
-<span id="fn_161"></span>[89:162](myst07.htm#fr_161) <span
+<span id="fn_161"></span>[89:162](myst07.htm#fr_161.md) <span
 id="an_iii.iv-p124.1"></span>
 
 <span id="an_iii.iv-p125"></span> *Ibid* ., p. 74.
 
-<span id="fn_162"></span>[89:163](myst07.htm#fr_162) <span
+<span id="fn_162"></span>[89:163](myst07.htm#fr_162.md) <span
 id="an_iii.iv-p127.1"></span>
 
 <span id="an_iii.iv-p128"></span> *Contemporary Review,* April, 1899.
 
-<span id="fn_163"></span>[90:164](myst07.htm#fr_163) <span
+<span id="fn_163"></span>[90:164](myst07.htm#fr_163.md) <span
 id="an_iii.iv-p131.1"></span>
 
 <span id="an_iii.iv-p132"></span> “Das Fliessende Licht der Gottheit,”
 pt. iii. cap. 1.
 
-<span id="fn_164"></span>[90:165](myst07.htm#fr_164) <span
+<span id="fn_164"></span>[90:165](myst07.htm#fr_164.md) <span
 id="an_iii.iv-p133.1"></span>
 
 <span id="an_iii.iv-p134"></span> Supra. p. 35.
 
-<span id="fn_165"></span>[90:166](myst07.htm#fr_165) <span
+<span id="fn_165"></span>[90:166](myst07.htm#fr_165.md) <span
 id="an_iii.iv-p134.1"></span>
 
 <span id="an_iii.iv-p135"></span> Récéjac, *op. cit* ., p. 35.
 
-<span id="fn_166"></span>[91:167](myst07.htm#fr_166) <span
+<span id="fn_166"></span>[91:167](myst07.htm#fr_166.md) <span
 id="an_iii.iv-p137.1"></span>
 
 <span id="an_iii.iv-p138"></span> *Revue Philosophique,* July, 1902.
 
-<span id="fn_167"></span>[91:168](myst07.htm#fr_167) <span
+<span id="fn_167"></span>[91:168](myst07.htm#fr_167.md) <span
 id="an_iii.iv-p138.1"></span>
 
 <span id="an_iii.iv-p139"></span> “Psychologie des Mystiques Chrétiens,”
 p 14.
 
-<span id="fn_168"></span>[91:169](myst07.htm#fr_168) <span
+<span id="fn_168"></span>[91:169](myst07.htm#fr_168.md) <span
 id="an_iii.iv-p139.1"></span>
 
 <span id="an_iii.iv-p140"></span> “Camino de Perfeccion,” cap. xxiii.
 
-<span id="fn_169"></span>[92:170](myst07.htm#fr_169) <span
+<span id="fn_169"></span>[92:170](myst07.htm#fr_169.md) <span
 id="an_iii.iv-p141.1"></span>
 
 <span id="an_iii.iv-p142"></span> In “El Castillo Interior.”
 
-<span id="fn_170"></span>[92:171](myst07.htm#fr_170) <span
+<span id="fn_170"></span>[92:171](myst07.htm#fr_170.md) <span
 id="an_iii.iv-p142.1"></span>
 
 <span id="an_iii.iv-p143"></span> See Palmer, “Oriental Mysticism,” pt.
 v. ch. v.
 
-<span id="fn_171"></span>[92:172](myst07.htm#fr_171) <span
+<span id="fn_171"></span>[92:172](myst07.htm#fr_171.md) <span
 id="an_iii.iv-p144.1"></span>
 
 <span id="an_iii.iv-p145"></span> Vita, p. 8.
 
-<span id="fn_172"></span>[92:173](myst07.htm#fr_172) <span
+<span id="fn_172"></span>[92:173](myst07.htm#fr_172.md) <span
 id="an_iii.iv-p145.1"></span>
 
 <span id="an_iii.iv-p146"></span> “Subida del Monte Carmelo,” I. ii.
 cap. vii.
 
-<span id="fn_173"></span>[92:174](myst07.htm#fr_173) <span
+<span id="fn_173"></span>[92:174](myst07.htm#fr_173.md) <span
 id="an_iii.iv-p146.1"></span>
 
 <span id="an_iii.iv-p147"></span> “De Consideratione,” I. v. cap. xi.
 
-<span id="fn_174"></span>[92:175](myst07.htm#fr_174) <span
+<span id="fn_174"></span>[92:175](myst07.htm#fr_174.md) <span
 id="an_iii.iv-p147.1"></span>
 
 <span id="an_iii.iv-p148"></span> “Das Fliessende Light der Gottheit,”
 pt. vii. cap. 16.
 
-<span id="fn_175"></span>[93:176](myst07.htm#fr_175) <span
+<span id="fn_175"></span>[93:176](myst07.htm#fr_175.md) <span
 id="an_iii.iv-p149.1"></span>
 
 <span id="an_iii.iv-p150"></span> “De Mystica Theologia,” i. 1.
 
-<span id="fn_176"></span>[93:177](myst07.htm#fr_176) <span
+<span id="fn_176"></span>[93:177](myst07.htm#fr_176.md) <span
 id="an_iii.iv-p150.1"></span>
 
 <span id="an_iii.iv-p151"></span> “Aurora,” English translation, 1764,
 p. 237.
 
-<span id="fn_177"></span>[93:178](myst07.htm#fr_177) <span
+<span id="fn_177"></span>[93:178](myst07.htm#fr_177.md) <span
 id="an_iii.iv-p152.1"></span>
 
 <span id="an_iii.iv-p153"></span> Dionysius the Areopagite. “De Mystica
 Theologia,” i. 3.
 
-<span id="fn_178"></span>[93:179](myst07.htm#fr_178) <span
+<span id="fn_178"></span>[93:179](myst07.htm#fr_178.md) <span
 id="an_iii.iv-p153.1"></span>
 
 <span id="an_iii.iv-p154"></span> “Mystische Schriften,” p. 137.
 
-<span id="fn_179"></span>[93:180](myst07.htm#fr_179) <span
+<span id="fn_179"></span>[93:180](myst07.htm#fr_179.md) <span
 id="an_iii.iv-p154.1"></span>
 
 <span id="an_iii.iv-p155"></span> Plotinus, Ennead vi. 9.
 
-<span id="fn_180"></span>[94:181](myst07.htm#fr_180) <span
+<span id="fn_180"></span>[94:181](myst07.htm#fr_180.md) <span
 id="an_iii.iv-p156.1"></span>
 
 <span id="an_iii.iv-p157"></span> *Op. cit.*
@@ -1612,6 +1612,6 @@ id="an_iii.iv-p156.1"></span>
 
 ------------------------------------------------------------------------
 
-[Next: V. Mysticism and Theology](myst08)
+[Next: V. Mysticism and Theology](myst08.md)
 
 </div>

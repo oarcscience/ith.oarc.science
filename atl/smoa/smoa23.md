@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa22)  [Next](smoa24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa22)  [Next](smoa24.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -436,4 +436,4 @@ that army mocking us this morn."
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII. Death of the king of Atlantis on the day of the
-great sea-fight](smoa24)
+great sea-fight](smoa24.md)

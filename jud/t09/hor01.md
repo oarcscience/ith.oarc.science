@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](hor00)  [Next](hor02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](hor00)  [Next](hor02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -334,7 +334,7 @@ there is no difference whether one or seven? Come and hear: R. Jehudah
 said: If one tribe has acted in accordance with *its* court, it *alone*
 is liable, but if it acted according to the decision of the supreme
 court, all the other tribes are also liable. Said R. Ashi:
-[It](errata.htm#63) seems to be so also from our Mishna, which states,
+[It](errata.htm#63.md) seems to be so also from our Mishna, which states,
 "only this tribe is liable, while all the others are free"; to what
 purpose does it add, "while all the others," etc., after it states "only
 this tribe," etc? To teach us, thus: Only in the case of its own court,
@@ -401,4 +401,4 @@ the tabernacle? To honor the princes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](hor02)
+[Next: Chapter II](hor02.md)

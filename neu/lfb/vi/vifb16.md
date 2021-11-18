@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb15)  [Next](vifb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb15)  [Next](vifb17.md) 
 
 </div>
 
@@ -209,6 +209,6 @@ and spent the rest of his days in peace.
 
 ------------------------------------------------------------------------
 
-[Next: Two in a Sack](vifb17)
+[Next: Two in a Sack](vifb17.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe000)  [Next](prwe002) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe000)  [Next](prwe002.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ March 1881.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](prwe002)
+[Next: Introduction](prwe002.md)

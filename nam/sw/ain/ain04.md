@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain03)  [Next](ain05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain03)  [Next](ain05.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ up into the sky. But the first night his stars did not give light
 enough. So he took the Doctor-stone (diamond), the *tone-dum-haw-teh*,
 and smashed it up, and took the pieces and threw them into the sky to
 mix with the water in the stars, and then there was light enough. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 And now Juhwertamahkai, rubbed again on his breast, and from the
 substance he obtained there made two little dolls, and these he laid on
@@ -154,11 +154,11 @@ called older brother.
 
 ### Footnotes
 
-<span id="fn_0"></span>[29:1](ain04.htm#fr_0) Many doubt that the
+<span id="fn_0"></span>[29:1](ain04.htm#fr_0.md) Many doubt that the
 Indians of North America knew anything about the diamond, but my
 interpreter insisted that the Doctor-stone was the diamond, therefore I
 have taken his word for it. Perhaps it was crystal.
 
 ------------------------------------------------------------------------
 
-[Next: Juhwerta Mahkai's Song of Creation](ain05)
+[Next: Juhwerta Mahkai's Song of Creation](ain05.md)

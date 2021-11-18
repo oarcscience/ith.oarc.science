@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm49)  [Next](bnm51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm49)  [Next](bnm51.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ of looking up to the moon.
 
 ------------------------------------------------------------------------
 
-[Next: Why All Men Love The Moon.](bnm51)
+[Next: Why All Men Love The Moon.](bnm51.md)

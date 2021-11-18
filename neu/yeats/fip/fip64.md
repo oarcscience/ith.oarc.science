@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip63)  [Next](fip65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip63)  [Next](fip65.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
 
 # THE DEVIL.
 
-### THE DEMON CAT. <span id="fr_55"></span>[1](#fn_55)
+### THE DEMON CAT. <span id="fr_55"></span>[1](#fn_55.md)
 
 LADY WILDE.
 
@@ -77,9 +77,9 @@ of the evil one was broken, and the demon cat was seen no more.
 
 ### Footnotes
 
-<span id="fn_55"></span>[229:1](fip64.htm#fr_55) *Ancient Legends of
+<span id="fn_55"></span>[229:1](fip64.htm#fr_55.md) *Ancient Legends of
 Ireland*.
 
 ------------------------------------------------------------------------
 
-[Next: The Long Spoon, by Patrick Kennedy](fip65)
+[Next: The Long Spoon, by Patrick Kennedy](fip65.md)

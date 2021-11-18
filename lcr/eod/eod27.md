@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod26)  [Next](eod28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod26)  [Next](eod28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ influence or directly by Egypt.
 
 An account of the widespread influence of the ram-headed god of thunder
 in the Soudan and West Africa has been given by Frobenius. <span
-id="fr_229"></span>[1](#fn_229)
+id="fr_229"></span>[1](#fn_229.md)
 
 But the ram also became associated with Agni, the Indian fire-god, and
 the spiral as a head-appendage became the symbol of thunder throughout
@@ -62,9 +62,9 @@ discussion of them for my lecture on the history of the goddess.
 
 ### Footnotes
 
-<span id="fn_229"></span>[134:1](eod27.htm#fr_229) *Op. cit.*, vol. i.,
+<span id="fn_229"></span>[134:1](eod27.htm#fr_229.md) *Op. cit.*, vol. i.,
 pp. 212-27.
 
 ------------------------------------------------------------------------
 
-[Next: Certain Incidents in the Dragon Myth](eod28)
+[Next: Certain Incidents in the Dragon Myth](eod28.md)

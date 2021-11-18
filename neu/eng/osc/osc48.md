@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc47)  [Next](osc49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc47)  [Next](osc49.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ credulous crowd," worse than the superstitious nations of the past.
 
 ------------------------------------------------------------------------
 
-[Next: (8) Colour Superstitions](osc49)
+[Next: (8) Colour Superstitions](osc49.md)

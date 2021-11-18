@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](odpr00)  [Next](odpr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](odpr00)  [Next](odpr02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
 <span id="img_pl01"></span>
 
 [![PLATE I.](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 PLATE I.  
 
  
@@ -30,7 +30,7 @@ collection deposited in the library of Princeton University.
 <span id="img_pl02"></span>
 
 [![PLATE II.](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 PLATE II.  
 
 Photostatic reproduction of the first page of Ḥamzah's *al-Naqḍ
@@ -40,4 +40,4 @@ deposited in the library of Princeton University.
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](odpr02)
+[Next: Foreword](odpr02.md)

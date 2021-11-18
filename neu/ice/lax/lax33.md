@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax32)  [Next](lax34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax32)  [Next](lax34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -176,4 +176,4 @@ Then they rode on to the Thing, and it was an uneventful meeting.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIV: Gudrun's First Marriage, A.D. 989](lax34)
+[Next: Chapter XXXIV: Gudrun's First Marriage, A.D. 989](lax34.md)

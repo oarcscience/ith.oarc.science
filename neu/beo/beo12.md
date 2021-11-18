@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo11)  [Next](beo13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo11)  [Next](beo13.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ in that same day of this our life.
 
 ------------------------------------------------------------------------
 
-[Next: Part XII](beo13)
+[Next: Part XII](beo13.md)

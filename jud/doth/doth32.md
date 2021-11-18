@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth31)  [Next](doth33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth31)  [Next](doth33.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -25,14 +25,14 @@ activities, and when at rest; and what is in his heart and mind must not
 be the opposite to what is manifest about him; and all his actions must
 be well pondered and suitable, equal, equable, and constant, and must
 tend in the direction of humility and lowliness, both towards God and
-man . . . and our sages say, <span id="fr_11"></span>[\*](#fn_10) "Be
+man . . . and our sages say, <span id="fr_11"></span>[\*](#fn_10.md) "Be
 lowly of spirit in the presence of every man."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_10"></span>[37:\*](doth32.htm#fr_11) Wherever this phrase
+<span id="fn_10"></span>[37:\*](doth32.htm#fr_11.md) Wherever this phrase
 occurs it refers to the Rabbis whose sayings are preserved in the
 Talmud.
 
@@ -40,6 +40,6 @@ Talmud.
 
 ------------------------------------------------------------------------
 
-[Next: Where Humility is Sin](doth33)
+[Next: Where Humility is Sin](doth33.md)
 
 </div>

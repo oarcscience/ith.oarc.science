@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar43)  [Next](gar45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar43)  [Next](gar45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ predicted the future from them according to the rules of his art.
 Bellermann goes on to suppose that the figures on our talismans
 represent certain configurations of the lots, regarded as peculiarly
 lucky to the consulter. This explanation is supported by the Geomancy of
-the modern Arabs, <span id="fr_174"></span>[\*](#fn_173) where lines
+the modern Arabs, <span id="fr_174"></span>[\*](#fn_173.md) where lines
 drawn at haphazard on the sand by a stick held between the fingers are
 interpreted by persons professing that method of divination. Our own
 divination, by means of tea-grounds, is carried on upon the same
@@ -82,7 +82,7 @@ it unto them." These same divining-rods placed upon the altar are
 commonly represented upon the Magian signets, bearing for official type
 the Mobed at his devotions; and may therefore be supposed to have passed
 down to the talisman-makers of later times. <span
-id="fr_175"></span>[\*](#fn_174)
+id="fr_175"></span>[\*](#fn_174.md)
 
 That others amongst these angular forms are numerals is certain from the
 nature of the case, and from Horapollo's express declaration that the
@@ -97,7 +97,7 @@ ultimately became distinct symbols for the different days of the month,
 and out of these the Arab astrologers concocted their own system. This
 circumstance affords reason for another solution--that some of these
 siglæ indicate the particular days connected with the astrological
-intention of the talisman. <span id="fr_176"></span>[†](#fn_175)
+intention of the talisman. <span id="fr_176"></span>[†](#fn_175.md)
 
 And besides all these, there is every probability that these siglæ
 include actual cuneiform letters, belonging to the Assyrian alphabet,
@@ -141,7 +141,7 @@ Anahit; Tula, or Shula. The Pythagoreans had a symbolism of the same
 nature, denoting Minerva by an *equilateral triangle*, Apollo by
 *unity*; Strife, by the numeral *two;* Justice, by *three*, and the
 Supreme Being by *four* (Plat. De Is. et Os. 75). <span
-id="fr_177"></span>[\*](#fn_176) I find a very strong confirmation
+id="fr_177"></span>[\*](#fn_176.md) I find a very strong confirmation
 
 <span id="page_308">p. 308</span>
 
@@ -152,7 +152,7 @@ several of the siglæ under consideration. Now this legend (to be
 explained farther on) is, when written in full, always followed by the
 names of the Archangels, whence it may justly be inferred the same names
 are still here, but represented in their mystic form. <span
-id="fr_178"></span>[\*](#fn_177)
+id="fr_178"></span>[\*](#fn_177.md)
 
 "The Great Names" constitute the very essence of every Gnostic spell. To
 begin, therefore, with their consideration is obviously the most
@@ -164,7 +164,7 @@ meaning was unknown until the fortunate discovery of the grand
 Valentinian gospels. The Pistis-Sophia informed us (§ 361) that they are
 the holy Names of the Three Τριδύναμεις, who are **ΙΨΑΝΤΑΧΑΙΝΧΕΟϒΧ**, a
 Power emanating from whom resides in the planet Mars;
-**ΒΑΙΝΧΩΩΧ**, <span id="fr_179"></span>[†](#fn_178) in Mercury; and
+**ΒΑΙΝΧΩΩΧ**, <span id="fr_179"></span>[†](#fn_178.md) in Mercury; and
 **ΠΙCΤΙC CΟΦΙΑ**, in Venus. Above this Triad is one still higher, the
 "Three Unseen Gods," **ΑΓΡΑΜΜΑΧΑΜΑΡΕΓ**, **ΒΑΡΒΗΛΩ** (the Heavenly
 Mother of Jesus), and **ΒΔΕΛΛΗ** (§ 359).
@@ -266,12 +266,12 @@ To pass from the cyphers, where all is guess work, to the actual
 inscriptions, engraved legibly enough in the Greek character, but
 presenting us with what Jerome aptly terms mere "tormenta verborum."
 Many of the more common formula, Bellermann, by the aid of Hebrew,
-Coptic, and Syriac, <span id="fr_180"></span>[\*](#fn_179) has
+Coptic, and Syriac, <span id="fr_180"></span>[\*](#fn_179.md) has
 satisfactorily explained; of others his interpretations are manifestly
 absurd. **ΑΜΑΡΓΕΑ** seems to be the Chaldee *Amarchel*, a president.
 **ΑΝΟΧ ΧΟΛ ΧΝΟϒΒΙC**, "I am All the Good Spirit, or the Universal genius
 of good." **ΑΙΝ ΘΑΡΡΑΙ**, "The eye shall. behold." **ΑΔΟΝΑΙ ΛΑΝΤΑΛΑ**,
-"Lord! Thou art the Lamb." <span id="fr_181"></span>[†](#fn_180) **ΧΩCΑ
+"Lord! Thou art the Lamb." <span id="fr_181"></span>[†](#fn_180.md) **ΧΩCΑ
 ΜΙΛΑΩΘ** exactly represents the Hebrew words signifying "He hath seen
 the Pleroma."
 
@@ -298,7 +298,7 @@ magnificent Serapis head (Wood), which reads thus:
 <span class="contnote">\[paragraph continues\]</span> This will only be
 translatable if transposed as follows: **ΙΑΒΑΤΟΡ. ΘΟΝΑΤΗC. ΛΑΙΛΑΜ.
 ΑΡΒΑΘ. ΙΑΩ.** "Jehovah, the Pure Æther, the Fire, <span
-id="fr_182"></span>[\*](#fn_181) for ever, the Four, Iao," where "the
+id="fr_182"></span>[\*](#fn_181.md) for ever, the Four, Iao," where "the
 Four" signifies the Tetrad, so conspicuous in the Theogony of Marcus.
 This legend seems much of the same nature as the Greek one cut on a
 piece of copper (communicated to me by Prof. Ch. Babington): ὁ διὰ
@@ -307,7 +307,7 @@ the first legend not reducible to Hebrew is Θονατ, but it seems to
 correspond to the "Æther" of the copper piece, **ΑΡΛΑΝΑ ΘΑΜΑΚΑ ΣΑΛΒΑΝΑ
 ΧΑΜΚΙΜ**, "Our Light, let thy goodness grant unto us a full lap": whence
 the object of such a talisman would seem to be the procuring of
-fecundity. <span id="fr_183"></span>[†](#fn_182)
+fecundity. <span id="fr_183"></span>[†](#fn_182.md)
 
 **ΑΝΑΚΛΑ ΑΚΔΑΑΘΩΙΩΙ**, "Pursue then (my foes) unto destruction, O Lord,"
 is found very appropriately engraven on the reverse of a sphinx, the
@@ -358,10 +358,10 @@ jade (S. S. Lewis) is correct Hebrew for "With me," which gives an
 appropriate sense if understood as a prayer for the constant presence of
 the protecting Spirit.
 
-**ΜΕΣ ΧΑΝΑΛΩ**, <span id="fr_184"></span>[\*](#fn_183) "The Messiah be
+**ΜΕΣ ΧΑΝΑΛΩ**, <span id="fr_184"></span>[\*](#fn_183.md) "The Messiah be
 propitious unto me."
 
-**ΜΑΡΩΗΝΙ**, <span id="fr_185"></span>[\*](#fn_183) "Enlighten mine
+**ΜΑΡΩΗΝΙ**, <span id="fr_185"></span>[\*](#fn_183.md) "Enlighten mine
 eyes."
 
 **ΚΑϒΛΑΚΑϒ**. The Basilidan name for the Saviour is written by
@@ -386,7 +386,7 @@ Phœnician Cronos.
 **ΜΑΙ ΜϒΜ ϒΧΛϒΜ ΩΙ**, "Being, Fount, Salvation, Food, Iao": implying
 that Iao is the source, food, life, and salvation of the soul.
 
-**ΟΡΩΡΙΟϒΘ**, "Light of Light." <span id="fr_186"></span>[\*](#fn_184)
+**ΟΡΩΡΙΟϒΘ**, "Light of Light." <span id="fr_186"></span>[\*](#fn_184.md)
 
 **ΤΑΛΑ ΑΡΑΙΩ ΩΑΡΑΟΡΟ ΝΤΟΚΟ ΝΒΑΙ**, "Protector, Creator, rule, speak, O
 Lord," is a very common formula.
@@ -395,7 +395,7 @@ Lord," is a very common formula.
 the names of the great Angels, has been ingeniously deciphered by a
 learned Hebraist (Rev. R. Sinker) as representing the sound of "Shengab
 hor anje Jehevoh," "They that stand before the Mountain of God," that
-is, the Angels of the Presence. <span id="fr_187"></span>[†](#fn_185)
+is, the Angels of the Presence. <span id="fr_187"></span>[†](#fn_185.md)
 
 **ΧΑΙΑ**, "Life," is seen on a field of the Roman gem bearing two
 figures of *Providentia*, with the Sun and Moon on the field overhead
@@ -413,7 +413,7 @@ repeated
 <span id="page_315">p. 315</span>
 
 <span class="contnote">\[paragraph continues\]</span> **ΩΑΙΑΩ**, <span
-id="fr_188"></span>[\*](#fn_186) for the sake of obtaining the venerated
+id="fr_188"></span>[\*](#fn_186.md) for the sake of obtaining the venerated
 numeral, five. And, again, by introducing another vowel, **Η**, the Holy
 Name is repeated under five different forms, **ΗΑΙ . ΑΙΗ . ΗΙΩ . ΑΙΩ .
 ΙΑΩ**.
@@ -462,7 +462,7 @@ words written in this alphabet: thus
 
 <span id="img_31600"></span> ![qui tenet. / signum sat. / ejus sanat. /
 exorcista corpus. / facultates. / et vitam. / fiat!
-fiat!](img/31600.jpg)
+fiat!](img/31600.jpg.md)
 
 He also points out that the important word "Auth"=*sign* or token, is
 written in these legends in four different ways: **ΘVΟ**, **ΕVΟ**,
@@ -522,7 +522,7 @@ As for the etymology of the word, the most satisfactory yet offered is
 the compound of the Hebrew *Ha-Brachah*, "blessing," and Dobara,
 "speak"; meaning the "Blessing of the Mystic Name"--that is, utter the
 Tetragrammaton, invoke the Holy Name of Jehovah, itself the mightiest of
-charms. <span id="fr_189"></span>[\*](#fn_187)
+charms. <span id="fr_189"></span>[\*](#fn_187.md)
 
 It is very remarkable, considering its high repute, that no Gnostic
 stone bearing such an inscription should be known to exist. On the other
@@ -574,14 +574,14 @@ on a scroll.
 
 ### Footnotes
 
-<span id="fn_173"></span>[305:\*](gar44.htm#fr_174) "Each tribe either
+<span id="fn_173"></span>[305:\*](gar44.htm#fr_174.md) "Each tribe either
 found or introduced in the Caaba their domestic worship; the temple was
 adorned or defiled with 360 idols of men, eagles, lions, and antelopes;
 and most conspicuous was the statue of Hebal, of *red agate*, holding in
 his hand seven arrows, without heads or feathers, the instruments and
 symbols of profane divination."--Gibbon, chap. 42.)
 
-<span id="fn_174"></span>[306:\*](gar44.htm#fr_175) The ancient Teutons
+<span id="fn_174"></span>[306:\*](gar44.htm#fr_175.md) The ancient Teutons
 practised the same method of divining future events. A shoot of a fruit
 tree was cut into pieces, each being distinguished by certain marks,
 *notis quibusdam*, probably meaning "Runes." The consulter threw them
@@ -589,25 +589,25 @@ down at random on a white cloth, with eyes turned to heaven he took up
 three separately, and interpreted the response from the inscriptions
 upon them,--(Tacitus. Germ. x.)
 
-<span id="fn_175"></span>[306:†](gar44.htm#fr_176) Some of these siglæ
+<span id="fn_175"></span>[306:†](gar44.htm#fr_176.md) Some of these siglæ
 may be recognised in the inscriptions in an unknown character, cut in
 the hard sandstone rock, and very numerous about Silsilis, Upper Nubia,
 where they accompany figures of elephants, giraffes, and ostriches--all
 animals long since extinct in that country. Specimens were published by
 Greville Chester in the 'Archæological Journal' for 1861, p. 274.
 
-<span id="fn_176"></span>[307:\*](gar44.htm#fr_177) In the Egyptian
+<span id="fn_176"></span>[307:\*](gar44.htm#fr_177.md) In the Egyptian
 Ritual papyrus, Thoth is addressed as "the second Hermes by
-[his](errata.htm#21) *mystic name* of the god A."
+[his](errata.htm#21.md) *mystic name* of the god A."
 
-<span id="fn_177"></span>[308:\*](gar44.htm#fr_178) The Turks represent
+<span id="fn_177"></span>[308:\*](gar44.htm#fr_178.md) The Turks represent
 the Great Name *Allah* by an oval crossed with intersecting lines, which
 is often seen stamped on their old armour, for an amulet. Now this very
 mark occurs in the Gnostic set, and it is more than probable that its
 true meaning is preserved in the Turkish tradition.
 
-<span id="fn_178"></span>[308:†](gar44.htm#fr_179) In Goodwin's
-'[Magic](errata.htm#22) Papyrus' the Serapean Divination (No. 1) names
+<span id="fn_178"></span>[308:†](gar44.htm#fr_179.md) In Goodwin's
+'[Magic](errata.htm#22) Papyrus' the Serapean Divination (No. 1.md) names
 this Power: "Appear and give heed unto him who was manifested before
 Fire and Snow, Βαινχωωχ, for Thou art he that did make manifest Light
 and Snow, Terrible-eyed-thundering-and-lightning-swift-footed-one." This
@@ -620,7 +620,7 @@ edited the Brit. Museum specimen for the Cambridge Antiquarian Society
 in 1852, and enriched it with notes giving invaluable assistance to all
 who study Gnostic remains.
 
-<span id="fn_179"></span>[311:\*](gar44.htm#fr_180) Prof. Stiechel, in
+<span id="fn_179"></span>[311:\*](gar44.htm#fr_180.md) Prof. Stiechel, in
 his essay 'De Gemma Abraxea nondum edita,' Jenae, 1848, hay acutely and
 satisfactorily elucidated some very important formulæ, giving a key to
 the whole class. The necessity for employing Oriental languages in
@@ -628,7 +628,7 @@ spells is curiously illustrated by Hippolytus’ statement, that the
 magicians of his time used to write the answers to the questions
 proposed to their demons, partly in *Hebrew*, partly in Greek letters.
 
-<span id="fn_180"></span>[311:†](gar44.htm#fr_181) **ΑΡ ΩΡΙ**, followed
+<span id="fn_180"></span>[311:†](gar44.htm#fr_181.md) **ΑΡ ΩΡΙ**, followed
 by the Greek words **ΦΡΑCΙC**, **ΦΑCΙC**, **ΙΑCΙC**, "Declaration,"
 "Manifestation," "Healing," is always attached to a figure of Venus
 Anadyomene, and admits of the translation 'Mountain of Light." The Venus
@@ -637,17 +637,17 @@ high a place in the celestial hierarchy of the Pistis-Sophia. At any
 rate the sense of **ΑΡΩΡΙ**, "Mountain of Light," strongly favours this
 acceptation.
 
-<span id="fn_181"></span>[312:\*](gar44.htm#fr_182) **ΑΒΡΑΜ**, which
+<span id="fn_181"></span>[312:\*](gar44.htm#fr_182.md) **ΑΒΡΑΜ**, which
 often occurs in these legends, may perhaps refer to the Rabbinical
 "Seir-Anpen," the Primitive Man, made up of 213 numbers, the numerical
 value of the *Hebrew* letters in the name.
 
-<span id="fn_182"></span>[312:†](gar44.htm#fr_183) **ΗC** represents the
+<span id="fn_182"></span>[312:†](gar44.htm#fr_183.md) **ΗC** represents the
 Hebrew word for "Fire": and this explanation is confirmed by the **ΤΟ
 ΦΩC ΠΥΡ ΦΛΟΞ** accompanying a figure of Phre on a gem elucidated by
 Froehner in his 'Byrsa,' part i.
 
-<span id="fn_183"></span>[313:\*](gar44.htm#fr_185) The Syrian Alexander
+<span id="fn_183"></span>[313:\*](gar44.htm#fr_185.md) The Syrian Alexander
 Severus expresses his indignation at the sight of a certain notorious
 rogue, Arabianus, coming to Court, by exclaiming "O Marna, O Jupiter,"
 &c., where his native "Our Lord" he renders by "Jupiter," for the
@@ -657,10 +657,10 @@ the figure of the Cynocephalus, seems to be equivalent to the phrase in
 the text: and as that beast belongs to Thoth, god of *knowledge*, this
 interpretation has at least appropriateness in its favour.
 
-<span id="fn_184"></span>[314:\*](gar44.htm#fr_186) This legend always
+<span id="fn_184"></span>[314:\*](gar44.htm#fr_186.md) This legend always
 goes with the udder-shaped vase of the Isiac rites.
 
-<span id="fn_185"></span>[314:†](gar44.htm#fr_187) Γαβριηλ, Μιχαηλ,
+<span id="fn_185"></span>[314:†](gar44.htm#fr_187.md) Γαβριηλ, Μιχαηλ,
 Ραφαηλ σενγε(ν)β αρανγην Ιαω.
 
 ‏ג׳ מ׳ ר׳ שֶׁנֶּגֶב הַר עַנְגִין יְיָ‎
@@ -669,7 +669,7 @@ goes with the udder-shaped vase of the Isiac rites.
 
 ‏שׁנּגב הר ענג‎
 
-<span id="fn_186"></span>[315:\*](gar44.htm#fr_188) Stiechel has a very
+<span id="fn_186"></span>[315:\*](gar44.htm#fr_188.md) Stiechel has a very
 ingenious explanation of this permutation of vowels; he makes it express
 different tenses of the Hebrew verb *to exist*, thus--
 
@@ -681,10 +681,10 @@ different tenses of the Hebrew verb *to exist*, thus--
 
 **ΩΑΙΗΟΨΕ** = isque Iao.
 
-<span id="fn_187"></span>[317:\*](gar44.htm#fr_189) By the mere
+<span id="fn_187"></span>[317:\*](gar44.htm#fr_189.md) By the mere
 utterance whereof the philosopher Theosebins, though unacquainted with
 magic, was able to cast out devils from all who applied to him for aid.
 
 ------------------------------------------------------------------------
 
-[Next: The Name ΙΑΩ](gar45)
+[Next: The Name ΙΑΩ](gar45.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl72)  [Next](hpl74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl72)  [Next](hpl74.md) 
 
 ------------------------------------------------------------------------
 
@@ -488,4 +488,4 @@ endure the grey twilight of the abyss for hours.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](hpl74)
+[Next: Part III](hpl74.md)

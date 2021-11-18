@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws10)  [Next](cws12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws10)  [Next](cws12.md) 
 
 ------------------------------------------------------------------------
 
 ### No. VII
 
-#### CONCERNING THE FALL <span id="fr_57"></span>[1](#fn_57)
+#### CONCERNING THE FALL <span id="fr_57"></span>[1](#fn_57.md)
 
 THE friend with whom I was staying having asked me to obtain for her, if
 possible, while in her house a precise and practical instruction on this
@@ -14,7 +14,7 @@ subject, I found myself surrounded in my sleep by a group of spirits,
 who conversed together upon it evidently for my benefit. They began by
 saying that all the mistakes made about the Bible arise out of the
 mystic books being referred to times, places, persons, and things <span
-id="fr_58"></span>[2](#fn_58) material, instead of being regarded as
+id="fr_58"></span>[2](#fn_58.md) material, instead of being regarded as
 containing only eternal verities about things spiritual. The opening
 chapters of the sacred books, they said, exhibit the meaning and object
 of religion, and the method of salvation. They are an epitome of the
@@ -105,10 +105,10 @@ delight, thou becomest as God, and hast eternal life.
 
 ### Footnotes
 
-<span id="fn_57"></span>[17:1](cws11.htm#fr_57) Paris, July 29, 1880.
+<span id="fn_57"></span>[17:1](cws11.htm#fr_57.md) Paris, July 29, 1880.
 Referred to in *Life of Anna Kingsford*, vol. i, p. 369.
 
-<span id="fn_58"></span>[17:2](cws11.htm#fr_58) In the First Edition the
+<span id="fn_58"></span>[17:2](cws11.htm#fr_58.md) In the First Edition the
 word "things" was, inadvertently, omitted from the text, and the passage
 read: "places and persons material." This is confirmed by E. M.'s
 quotation from this Illumination in the *Life of Anna Kingsford* (vol.
@@ -116,4 +116,4 @@ i, p. 369), which includes the word "things."    S. H. H.
 
 ------------------------------------------------------------------------
 
-[Next: No. VIII: Concerning The Prophecy Of The Deluge](cws12)
+[Next: No. VIII: Concerning The Prophecy Of The Deluge](cws12.md)

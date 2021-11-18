@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly50)  [Next](lly52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly50)  [Next](lly52.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ which was held to be common hunting ground open to all the tribes.
 
 ------------------------------------------------------------------------
 
-[Next: Commerce](lly52)
+[Next: Commerce](lly52.md)

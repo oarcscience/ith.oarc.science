@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath06)  [Next](ath08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath06)  [Next](ath08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -315,9 +315,9 @@ after him, or followed the course of the philosophers and drift
 away from the traditional beliefs of Islam altogether. In the third
 place we have the Sufi movement, in which we find neo-Platonic elements
 mingled with others from the east, from India and Persia. The
-[Mu‘tazilites](errata.htm#15) proper come to an end with the fourth
+[Mu‘tazilites](errata.htm#15.md) proper come to an end with the fourth
 century A.H.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Eastern Philosophers](ath08)
+[Next: Chapter VI. The Eastern Philosophers](ath08.md)

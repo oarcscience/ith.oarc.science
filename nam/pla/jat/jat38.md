@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat37)  [Next](jat39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat37)  [Next](jat39.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,11 +26,11 @@ skin all worn from his hands.
 
 ### Footnotes
 
-<span id="fn_55"></span>[231:1](jat37.htm#fr_55) This statement lacks
+<span id="fn_55"></span>[231:1](jat37.htm#fr_55.md) This statement lacks
 connection. The full story explains the shortening of Wildcat's nose and
 the lengthening of Coyote's, the one operating on the other while
 sleeping.
 
 ------------------------------------------------------------------------
 
-[Next: 37. Coyote Apes His Hosts](jat39)
+[Next: 37. Coyote Apes His Hosts](jat39.md)

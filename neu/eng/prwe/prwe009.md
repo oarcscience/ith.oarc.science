@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe008)  [Next](prwe010) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe008)  [Next](prwe010.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ with, and, in fact, demonstrating the truth of each other."
 
 ------------------------------------------------------------------------
 
-[Next: Holibun of the Cairn](prwe010)
+[Next: Holibun of the Cairn](prwe010.md)

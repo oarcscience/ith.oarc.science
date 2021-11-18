@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft43)  [Next](meft45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft43)  [Next](meft45.md) 
 
 ------------------------------------------------------------------------
 
 # The Wise men of Gotham
 
 <span id="img_056"></span> [![](tn/056.jpg)  
-Click to enlarge](img/056.jpg)
+Click to enlarge](img/056.jpg.md)
 
  
 
@@ -77,7 +77,7 @@ Which was the wisest of these three persons, judge yourself.
 Of Hedging a Cuckoo
 
 <span id="img_057"></span> [![](tn/057.jpg)  
-Click to enlarge](img/057.jpg)
+Click to enlarge](img/057.jpg.md)
 
 Once upon a time the men of Gotham would have kept the Cuckoo so that
 she might sing all the year, and in the midst of their town they made a
@@ -162,7 +162,7 @@ have from us'; and they left the eel to drown.
 Of Sending Rent
 
 <span id="img_058"></span> [![](tn/058.jpg)  
-Click to enlarge](img/058.jpg)
+Click to enlarge](img/058.jpg.md)
 
 Once on a time the men of Gotham had forgotten to pay their landlord.
 One said to the other, 'Tomorrow is our pay-day, and what shall we find
@@ -224,4 +224,4 @@ neighbour.'
 
 ------------------------------------------------------------------------
 
-[Next: Princess of Canterbury](meft45)
+[Next: Princess of Canterbury](meft45.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob53) 
-[Next](tob55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob53.md) 
+[Next](tob55.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ The Inquirer will be in the centre of the figure.
 
 ------------------------------------------------------------------------
 
-[Next: Fifth Lesson. Fortune-Telling by the Tarot](tob55)
+[Next: Fifth Lesson. Fortune-Telling by the Tarot](tob55.md)

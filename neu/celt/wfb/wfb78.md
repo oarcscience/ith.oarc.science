@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb77)  [Next](wfb79) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb77)  [Next](wfb79.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ And this is how the Bad Man's Bridge came to be built.
 
 ------------------------------------------------------------------------
 
-[Next: The Martyred Hound](wfb79)
+[Next: The Martyred Hound](wfb79.md)

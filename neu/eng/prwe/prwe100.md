@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe099)  [Next](prwe101) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe099)  [Next](prwe101.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ with his whip, and up came a demon-groom to take charge of the steed.
 
 ------------------------------------------------------------------------
 
-[Next: Peter the Devil](prwe101)
+[Next: Peter the Devil](prwe101.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft09)  [Next](efft11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft09)  [Next](efft11.md) 
 
 ------------------------------------------------------------------------
 
-# THE LEGEND OF THE SONS OF THE CONQUEROR.  <span id="fr_11"></span>[1](#fn_11)
+# THE LEGEND OF THE SONS OF THE CONQUEROR.  <span id="fr_11"></span>[1](#fn_11.md)
 
 ONE day, it being observed that William was absorbed in deep thought,
 his courtiers ventured to inquire the cause of such profound
@@ -69,9 +69,9 @@ England, which in those times was the next dignity to that of king.
 
 ### Footnotes
 
-<span id="fn_11"></span>[1](efft10.htm#fr_11) Chambers's *Book of Days*,
+<span id="fn_11"></span>[1](efft10.htm#fr_11.md) Chambers's *Book of Days*,
 vol. ii. p. 328.
 
 ------------------------------------------------------------------------
 
-[Next: The Lgend of Becket's Parents](efft11)
+[Next: The Lgend of Becket's Parents](efft11.md)

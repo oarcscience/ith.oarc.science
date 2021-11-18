@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb22)  [Next](orfb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb22)  [Next](orfb24.md) 
 
 </div>
 
@@ -734,6 +734,6 @@ carried to a small island, where they had to work hard for their living.
 
 ------------------------------------------------------------------------
 
-[Next: The Girl-Fish](orfb24)
+[Next: The Girl-Fish](orfb24.md)
 
 </div>

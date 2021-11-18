@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb12)  [Next](pifb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb12)  [Next](pifb14.md) 
 
 </div>
 
@@ -86,6 +86,6 @@ were all laid in one grave.
 
 ------------------------------------------------------------------------
 
-[Next: The Snow-queen](pifb14)
+[Next: The Snow-queen](pifb14.md)
 
 </div>

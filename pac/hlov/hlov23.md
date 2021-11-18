@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov22)  [Next](hlov24) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov22)  [Next](hlov24.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ him the chief ruler.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. Destruction of Kamehameha's Fish-ponds](hlov24)
+[Next: XIX. Destruction of Kamehameha's Fish-ponds](hlov24.md)

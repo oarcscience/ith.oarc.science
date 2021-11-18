@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft30)  [Next](sfft32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft30)  [Next](sfft32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE LAIRD O' CO'. <span id="fr_49"></span>[1](#fn_49)
+### THE LAIRD O' CO'. <span id="fr_49"></span>[1](#fn_49.md)
 
 IN the days of yore, the proprietors of Colzean, in Ayrshire, were known
 in that county by the title of *Lairds o' Co'*, a name bestowed on
@@ -64,9 +64,9 @@ and vanished.
 
 ### Footnotes
 
-<span id="fn_49"></span>[113:1](sfft31.htm#fr_49) Chambers, *Popular
+<span id="fn_49"></span>[113:1](sfft31.htm#fr_49.md) Chambers, *Popular
 Rhymes of Scotland*.
 
 ------------------------------------------------------------------------
 
-[Next: Habitrot](sfft32)
+[Next: Habitrot](sfft32.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc15.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 # APPENDIX B.
 
-(SUPPLEMENTARY TO SECOND NOTE, PAGE [66](psc06.htm#page_66).)
+(SUPPLEMENTARY TO SECOND NOTE, PAGE [66](psc06.htm#page_66)..md)
 
 IT seems to us necessary, in explanation of this curious passage, to
 make the following extract from our "History of Amulets":

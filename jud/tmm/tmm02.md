@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm01)  [Next](tmm03) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm01)  [Next](tmm03.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ commit to writing. This Oral law had to be taught by word of mouth side
 by side with the Written law, and thus the former became an unfolding
 and sequel to the latter.
 
-This, says the Midrash, <span id="fr_0"></span>[1](#fn_0) is meant by
+This, says the Midrash, <span id="fr_0"></span>[1](#fn_0.md) is meant by
 the words: 'Only take heed to thyself and keep thy soul diligently lest
 thou forget the words--דברים meaning "words" as well as "things"--which
 thine eyes have seen, and lest they depart from thy heart all the days
@@ -40,7 +40,7 @@ inquiry--into the meaning of every sentence was made, with explanations
 drawn therefrom, based on the Oral law. Not only was this the case on
 Sabbaths and Festivals, but on week-days too, especially so on Mondays
 and Thursdays, when a small portion of the Torah was read, an
-institution ascribed to Ezra. <span id="fr_1"></span>[1](#fn_1) Later
+institution ascribed to Ezra. <span id="fr_1"></span>[1](#fn_1.md) Later
 on--probably in the time of the Maccabees--the reading of the prophets
 was also introduced.
 
@@ -60,7 +60,7 @@ of the twenty-four books.
 There is this line of demarcation betweenהלכה (Halacha) and אגדה
 (Agada), which in course of time were separated from one another, though
 the former contains now and then a little of the latter, and vice
-versâ. <span id="fr_2"></span>[2](#fn_2) Halacha, derived from הלך (to
+versâ. <span id="fr_2"></span>[2](#fn_2.md) Halacha, derived from הלך (to
 go, walk), is a term denoting laws regulating man's walk in life--the
 performance of his religious duties. The Aramaic translation of Onkeles
 (Exod. 21. 9) gives הלכה as an equivalent of משפט. Halacha, when decided
@@ -87,7 +87,7 @@ strong opposition to the Agada; but, on the other hand, it was very
 highly esteemed by most, and not every one was considered qualified to
 handle it. Even Rabbi Akiba received a mild rebuke when he tried to dive
 into the depths of this method of teaching. <span
-id="fr_3"></span>[1](#fn_3) There grew up in the course of time a
+id="fr_3"></span>[1](#fn_3.md) There grew up in the course of time a
 saying: 'If you desire to find the greatness of the Creator, study the
 Agada.' The names of the Agadic teachers were not always mentioned, yet
 certain rabbis were known to have possessed an enviable capacity for
@@ -116,7 +116,7 @@ this kind of teaching by the Scribes and priests. It formed the vital
 element in the nation's morality. When the Scribes took the place of the
 prophets, their interpretation and exposition of the Scriptures also
 took the place of prophetic utterances. In prosperity the people's
-favourite was the Halacha, <span id="fr_4"></span>[1](#fn_4) but in
+favourite was the Halacha, <span id="fr_4"></span>[1](#fn_4.md) but in
 adversity they preferred attending Agadic expositions, containing as
 they did--among much else--words of comfort and consolation, instilling
 faith in God and hope in His help and protection.
@@ -133,7 +133,7 @@ come to hear me instead of craving for your words. For do we not find
 this folly in almost every walk of life? Let a man offer cheap and
 flimsy finery for sale, and he will find far more buyers than he who
 offers choice pearls and precious stones.' <span
-id="fr_5"></span>[2](#fn_5) The Rabbis knew well how to make their
+id="fr_5"></span>[2](#fn_5.md) The Rabbis knew well how to make their
 
 <span id="page_5">p. 5</span>
 
@@ -143,7 +143,7 @@ was to use words of foreign languages, Latin, Greek, Persian, etc., in
 order to provoke questions and further interest, and so well was the
 Agada known for its foreign words, that if one found in the Mishna a
 word of doubtful meaning, recourse was had to the written Agada for its
-elucidation. <span id="fr_6"></span>[1](#fn_6)
+elucidation. <span id="fr_6"></span>[1](#fn_6.md)
 
 Rabbi Akiba, once finding his audience drowsy and inattentive, used the
 following device: 'What,' he asked, 'induced Esther to reign over 127
@@ -152,7 +152,7 @@ assembly, who expected some subtle arithmetical solution, with which the
 Rabbi had no intention of edifying them. But finding his device
 successful and attention awakened, he answered the question by saying
 that 'it was proper for the descendant of Sarah, who lived 127 years, to
-reign over 127 provinces.' <span id="fr_7"></span>[2](#fn_7)
+reign over 127 provinces.' <span id="fr_7"></span>[2](#fn_7.md)
 
 Rabbi Judah Hanasi, too, had recourse to enigmatical sayings: 'I know of
 a woman,' he said, 'who bore 600,000 children at one time.' This was
@@ -162,7 +162,7 @@ Hadrian. Seeing that the assembly was quite puzzled at such a wonderful
 event, Rabbi Ishmael b. José explained that that woman was no other than
 Jochabad, the mother of Moses, who was not only a host in himself, but
 also delivered 600,000 men from slavery. <span
-id="fr_8"></span>[3](#fn_8)
+id="fr_8"></span>[3](#fn_8.md)
 
 Some of the Rabbis wrote down their notes on Holy Writ as they occurred
 to them. Rabbi Meir, who was a skilful Scribe and wrote a scroll of the
@@ -177,7 +177,7 @@ Zakkai, the last pupil of Hillel, and to his friends as well as to
 Gamliel's descendants. This truly great load-star of the Jewish religion
 established his school there, and the place became a new Jerusalem and
 the new seat of a highly learned assembly. <span
-id="fr_9"></span>[1](#fn_9) Of the Midrashic writings of the period
+id="fr_9"></span>[1](#fn_9.md) Of the Midrashic writings of the period
 between the Hashmoneans and Hadrian, a period of some three hundred
 years, we possess but fragments, although that period may be said to
 have levelled the path from the Canon of the Bible to that of tradition.
@@ -226,30 +226,30 @@ left untouched.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](tmm02.htm#fr_0) Exod. Rabba, 46. 1-6 and
+<span id="fn_0"></span>[1:1](tmm02.htm#fr_0.md) Exod. Rabba, 46. 1-6 and
 12.
 
-<span id="fn_1"></span>[2:1](tmm02.htm#fr_1) Baba Kamma, 82.
+<span id="fn_1"></span>[2:1](tmm02.htm#fr_1.md) Baba Kamma, 82.
 
-<span id="fn_2"></span>[2:2](tmm02.htm#fr_2) In the Mechilta, Sifra and
+<span id="fn_2"></span>[2:2](tmm02.htm#fr_2.md) In the Mechilta, Sifra and
 Sifré, Halacha and Agada go together.
 
-<span id="fn_3"></span>[3:1](tmm02.htm#fr_3) Sanhedrin 16/11.
+<span id="fn_3"></span>[3:1](tmm02.htm#fr_3.md) Sanhedrin 16/11.
 
-<span id="fn_4"></span>[4:1](tmm02.htm#fr_4) Midrash Song of Songs 2/14.
+<span id="fn_4"></span>[4:1](tmm02.htm#fr_4.md) Midrash Song of Songs 2/14.
 
-<span id="fn_5"></span>[4:2](tmm02.htm#fr_5) Sota 40.
+<span id="fn_5"></span>[4:2](tmm02.htm#fr_5.md) Sota 40.
 
-<span id="fn_6"></span>[5:1](tmm02.htm#fr_6) Gen. Rabba 58. 3.
+<span id="fn_6"></span>[5:1](tmm02.htm#fr_6.md) Gen. Rabba 58. 3.
 
-<span id="fn_7"></span>[5:2](tmm02.htm#fr_7) Midr. Cantls. 1. 27.
+<span id="fn_7"></span>[5:2](tmm02.htm#fr_7.md) Midr. Cantls. 1. 27.
 
-<span id="fn_8"></span>[5:3](tmm02.htm#fr_8) Midrash Eccles. 4, and
+<span id="fn_8"></span>[5:3](tmm02.htm#fr_8.md) Midrash Eccles. 4, and
 Lamentations 1.
 
-<span id="fn_9"></span>[6:1](tmm02.htm#fr_9) See Dr. Yost's *Geschichte
+<span id="fn_9"></span>[6:1](tmm02.htm#fr_9.md) See Dr. Yost's *Geschichte
 des Judenthums und seine Sekten* vol. ii. pp. 13, etc.
 
 ------------------------------------------------------------------------
 
-[Next: Alexander of Macedon](tmm03)
+[Next: Alexander of Macedon](tmm03.md)

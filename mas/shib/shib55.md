@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib54)  [Next](shib56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib54)  [Next](shib56.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ to the Commander, so as to be easily governed at proper intervals.
 
 <span id="img_20500"></span> <span align="CENTER"> [![Templar
 Banquet](tn/20500.jpg)  
-Click to enlarge](img/20500.jpg)  
+Click to enlarge](img/20500.jpg.md)  
   
 </span>
 
@@ -61,4 +61,4 @@ Never permit smoking when ladies are present.
 
 ------------------------------------------------------------------------
 
-[Next: Index](shib56)
+[Next: Index](shib56.md)

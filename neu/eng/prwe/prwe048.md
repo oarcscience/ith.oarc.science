@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe047)  [Next](prwe049) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe047)  [Next](prwe049.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ wanted amusement.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures of Cherry of Zennor](prwe049)
+[Next: The Adventures of Cherry of Zennor](prwe049.md)

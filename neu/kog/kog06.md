@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog05)  [Next](kog07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog05)  [Next](kog07.md) 
 
 ------------------------------------------------------------------------
 
@@ -303,4 +303,4 @@ if they haven't died since, they are still alive enjoying their kingdom.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Silly Jura](kog07)
+[Next: 4. Silly Jura](kog07.md)

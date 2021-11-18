@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw06)  [Next](lodw08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw06)  [Next](lodw08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -192,7 +192,7 @@ for the affinity which he considers as existing between the Protestant
 and the sorcerer; he accuses the former of embracing the opinion of
 Wierus and other defenders of the devil (as he calls all who oppose his
 own opinions concerning witchcraft), thus fortifying the kingdom of
-Satan against that of the Church. <span id="fr_46"></span>[47](#fn_46)
+Satan against that of the Church. <span id="fr_46"></span>[47](#fn_46.md)
 
       A remarkable passage in Monstrelet puts in a clear view the point
 aimed, at by the Catholics in thus confusing and blending the doctrines
@@ -270,7 +270,7 @@ terrified at the horrible contents of the confessions which it has been
 our duty to hear. And the devil is accounted so good a master that we
 cannot commit so great a number of his laves to the flames but what
 there shall arise from their ashes a number sufficient to supply their
-place." <span id="fr_47"></span>[48](#fn_47)
+place." <span id="fr_47"></span>[48](#fn_47.md)
 
       This last statement, by which it appears that the most active and
 unsparing inquisition was taking place, corresponds with the historical
@@ -290,7 +290,7 @@ so forth.
 
       Dreadful were the consequences of this bull all over the
 Continent, especially in Italy, Germany, and France <span
-id="fr_48"></span>[49](#fn_48). About 1485 Cumanus burnt as witches
+id="fr_48"></span>[49](#fn_48.md). About 1485 Cumanus burnt as witches
 forty-one poor women in one year in, the county of Burlia. In the
 ensuing years he continued the prosecution with such unremitting zeal
 that many fled from the country.
@@ -310,7 +310,7 @@ choral dances around the witches' tree of rendezvous Several of their
 husbands and relatives swore that they we in bed and asleep during these
 pretended excursions Alciatus recommended gentle and temperate measures;
 an the minds of the country became at length composed. <span
-id="fr_49"></span>[50](#fn_49)
+id="fr_49"></span>[50](#fn_49.md)
 
       In 1488, the country four leagues around Constance was laid waste
 by lightning and tempest, and two women being, by fair means or foul,
@@ -326,7 +326,7 @@ inquisitor, Remigius, boasts that he put to death 900 people in fifteen
 years. As many were banished from that country, so that whole towns were
 on the point of becoming desolate. In 1524, 1,000 persons were put to
 death in one year at Como, in Italy, and about 100 every year after for
-several years. <span id="fr_50"></span>[51](#fn_50)
+several years. <span id="fr_50"></span>[51](#fn_50.md)
 
       In the beginning of the next century the persecution of witches
 broke out in France with a fury which was hardly conceivable, and
@@ -463,7 +463,7 @@ upon this signal, he proceeded to bury it the best way he could.
       Such was the general persecution under Messieurs Espiagnel and De
 Lancre. Many similar scenes occurred in France, till the edict of Louis
 XIV. discharging all future prosecutions for witchcraft, after which the
-crime itself was heard of no more. <span id="fr_51"></span>[52](#fn_51)
+crime itself was heard of no more. <span id="fr_51"></span>[52](#fn_51.md)
 
       While the spirit of superstition was working such horrors in
 France, it was not, we may believe, more idle in other countries of
@@ -590,7 +590,7 @@ transactions and accounts, how the children bewitched fel into fits and
 strange unusual postures, spread abroad in the kingdom, some fearful and
 credulous people, if they saw their children any way disordered, might
 think they were bewitched or ready to be carried away by imps." <span
-id="fr_52"></span>[53](#fn_52) The learned gentleman here stops short in
+id="fr_52"></span>[53](#fn_52.md) The learned gentleman here stops short in
 a train of reasoning, which, followed out, would have deprived the world
 of the benefit of his translation. For if it was possible that some of
 these unfortunate persons fell a sacrifice to the malice of their
@@ -705,28 +705,28 @@ degree more interesting to our present purpose.
 
 ### Footnotes
 
-<span id="fn_46"></span>[47](lodw07.htm#fr_46) Delrio, "De Magia." See
+<span id="fn_46"></span>[47](lodw07.htm#fr_46.md) Delrio, "De Magia." See
 the Preface.
 
-<span id="fn_47"></span>[48](lodw07.htm#fr_47) Florimond, "Concerning
+<span id="fn_47"></span>[48](lodw07.htm#fr_47.md) Florimond, "Concerning
 the Antichrist," cap. 7, n. 5, quoted by Delrio, "De Magia," p. 820.
 
-<span id="fn_48"></span>[49](lodw07.htm#fr_48) Dr. Hutchinson quotes "H.
+<span id="fn_48"></span>[49](lodw07.htm#fr_48.md) Dr. Hutchinson quotes "H.
 Institor," 105, 161.
 
-<span id="fn_49"></span>[50](lodw07.htm#fr_49) Alciat. "Parerg. Juris,"
+<span id="fn_49"></span>[50](lodw07.htm#fr_49.md) Alciat. "Parerg. Juris,"
 lib. viii. chap. 22.
 
-<span id="fn_50"></span>[51](lodw07.htm#fr_50) Bart. de Spina,
+<span id="fn_50"></span>[51](lodw07.htm#fr_50.md) Bart. de Spina,
 Strigilibus.
 
-<span id="fn_51"></span>[52](lodw07.htm#fr_51) The reader may sup full
+<span id="fn_51"></span>[52](lodw07.htm#fr_51.md) The reader may sup full
 on such wild horrors in the *causes célèbres*.
 
-<span id="fn_52"></span>[53](lodw07.htm#fr_52) Translator's preface to
+<span id="fn_52"></span>[53](lodw07.htm#fr_52.md) Translator's preface to
 Horneck's " Account of what happened in the Kingdom of Sweden." See
 appendix to Glanville's work.
 
 ------------------------------------------------------------------------
 
-[Next: Letter 8](lodw08)
+[Next: Letter 8](lodw08.md)

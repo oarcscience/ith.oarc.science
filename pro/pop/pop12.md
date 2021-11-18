@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop11)  [Next](pop13) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop11)  [Next](pop13.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ this time.'
 
 ------------------------------------------------------------------------
 
-[Next: The Eighth Figure](pop13)
+[Next: The Eighth Figure](pop13.md)

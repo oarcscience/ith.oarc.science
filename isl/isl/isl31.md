@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl30)  [Next](isl32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl30)  [Next](isl32.md) 
 
 ------------------------------------------------------------------------
 
@@ -360,16 +360,16 @@ them. Still, some of the people of the *Sunna* do prefer ‘Alī to
 satisfied with her, because her position was higher than the Prophet.
 Others have held that Fāṭima was nobler because ‘A’isha's rank was only
 raised due to her proximity to the Prophet--on whom be the benediction
-of God the Exalted, and peace! <span id="fr_138"></span>[3](#fn_138)
+of God the Exalted, and peace! <span id="fr_138"></span>[3](#fn_138.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_138"></span>[187:3](isl31.htm#fr_138) Arabic in *Islam
+<span id="fn_138"></span>[187:3](isl31.htm#fr_138.md) Arabic in *Islam
 Akaidine Dair Eski Metinler*, with Turkish paraphrase by Y. Z. Yörükän
 (Istanbul, 1953).
 
 ------------------------------------------------------------------------
 
-[Next: 3. Al-Ash‘arī](isl32)
+[Next: 3. Al-Ash‘arī](isl32.md)

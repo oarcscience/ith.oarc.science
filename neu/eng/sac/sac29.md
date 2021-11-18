@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac28)  [Next](sac30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac28)  [Next](sac30.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ by night.
 
 Of the sight-lines studied so far, those to and from the Longstone and
 the holed stones seem the most important. The Longstone, <span
-id="fr_116"></span>[1](#fn_116) 1½ miles to the N.E., is a monolith 10
+id="fr_116"></span>[1](#fn_116.md) 1½ miles to the N.E., is a monolith 10
 feet high on the western side of a
 
 <span id="page_279">p. 279</span>
@@ -84,7 +84,7 @@ feet high on the western side of a
 
 [![FIG. 54.—The Eastern Circle at Tregaseal.&lt;br&gt; &lt;i&gt;Photo by
 Lady Lockyer&lt;/i&gt;.](tn/fig54.jpg)  
-Click to enlarge](img/fig54.jpg)  
+Click to enlarge](img/fig54.jpg.md)  
 FIG. 54.—The Eastern Circle at Tregaseal.  
 *Photo by Lady Lockyer*.  
 
@@ -154,7 +154,7 @@ the following declinations:—
 
 [![FIG. 55.—Photograph of Ordnance Map, showing
 sight-lines](tn/fig55.jpg)  
-Click to enlarge](img/fig55.jpg)  
+Click to enlarge](img/fig55.jpg.md)  
 FIG. 55.—Photograph of Ordnance Map, showing sight-lines  
 
 <span id="page_282">p. 282</span>
@@ -199,7 +199,7 @@ disappeared,
 apparatus for observing the sunrise in May and August in one direction
 and the sunset in February and November in the other. Sun's declination,
 16° N. or S.](tn/fig56.jpg)  
-Click to enlarge](img/fig56.jpg)  
+Click to enlarge](img/fig56.jpg.md)  
 FIG 56.—Plan of the Mên-an-tol from Lukis, showing that it was an
 apparatus for observing the sunrise in May and August in one direction
 and the sunset in February and November in the other. Sun's declination,
@@ -220,7 +220,7 @@ alignment, holed stones to Longstone and Lanyon Quoit,
 
 [![FIG. 57.—The Mên-an-tol.&lt;br&gt; &lt;i&gt;Photo. by Lady
 Lockyer&lt;/i&gt;.](tn/fig57.jpg)  
-Click to enlarge](img/fig57.jpg)  
+Click to enlarge](img/fig57.jpg.md)  
 FIG. 57.—The Mên-an-tol.  
 *Photo. by Lady Lockyer*.  
 
@@ -246,7 +246,7 @@ before sacrifice,
 
 [![FIG. 58.—The Mên-an-tol. Front view and section, from
 Lukis.](tn/fig58.jpg)  
-Click to enlarge](img/fig58.jpg)  
+Click to enlarge](img/fig58.jpg.md)  
 FIG. 58.—The Mên-an-tol. Front view and section, from Lukis.  
 
 or in any other similar employment, were really sighting stones to
@@ -297,9 +297,9 @@ doubtless was used for the same purpose.
 
 ### Footnotes
 
-<span id="fn_116"></span>[278:1](sac29.htm#fr_116) In Cornwall this is
+<span id="fn_116"></span>[278:1](sac29.htm#fr_116.md) In Cornwall this is
 the name generally given to a monolith.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII. Some Other Cornish Monuments](sac30)
+[Next: Chapter XXVII. Some Other Cornish Monuments](sac30.md)

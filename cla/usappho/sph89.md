@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph88)  [Next](sph90) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph88)  [Next](sph90.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 γάμβροσ ἔρχεται ἶσοσ Ά᾽ρευϊ,  
      \[Υ᾽μήναον\]  
 ανδροσ μεγάλο πόλυ μείζων  
-     \[Υ᾽μήναον\] [\[transcription\]](xlatall.htm#112)
+     \[Υ᾽μήναον\] [\[transcription\]](xlatall.htm#112.md)
 
 Raise high the roof beams, Workmen!  
      Hymenaeus!  
@@ -27,4 +27,4 @@ Quoted by Hephaestion as an example of mes-hymnic poem.
 ------------------------------------------------------------------------
 
 [Next: 89: Towering like the singer of Lesbos among men of other
-lands.](sph90)
+lands.](sph90.md)

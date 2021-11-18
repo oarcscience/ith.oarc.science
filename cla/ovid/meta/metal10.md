@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)   
-[English](meta10)   
-[Previous](metal09)  [Next](metal11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index.md)   
+[English](meta10.md)   
+[Previous](metal09)  [Next](metal11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -760,4 +760,4 @@ excutiunt idem, qui praestant nomina, venti.'
 
 ------------------------------------------------------------------------
 
-[Next: Liber Undecimus](metal11)
+[Next: Liber Undecimus](metal11.md)

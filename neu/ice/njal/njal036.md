@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal035)  [Next](njal037) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal035)  [Next](njal037.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: 37. The Slaying Of Kol, Whom Atli Slew](njal037)
+[Next: 37. The Slaying Of Kol, Whom Atli Slew](njal037.md)

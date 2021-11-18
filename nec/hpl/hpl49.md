@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl48)  [Next](hpl50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl48)  [Next](hpl50.md) 
 
 ------------------------------------------------------------------------
 
@@ -312,4 +312,4 @@ vexed ith anomalous spoutings.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](hpl50)
+[Next: Chapter 3](hpl50.md)

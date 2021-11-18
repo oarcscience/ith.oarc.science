@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar162) [Next](gbar164)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar162) [Next](gbar164.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ mercy God shall sprinkle upon the faithful like rain.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar164)
+[Next](gbar164.md)

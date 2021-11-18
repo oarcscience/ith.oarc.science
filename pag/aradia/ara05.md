@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara04)  [Next](ara06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara04)  [Next](ara06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ who ruled the star-mice, the heaven and the rain.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV.The Charm of the Stones Consecrated to Diana](ara06)
+[Next: Chapter IV.The Charm of the Stones Consecrated to Diana](ara06.md)

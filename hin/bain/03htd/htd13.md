@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd12)  [Next](htd14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd12)  [Next](htd14.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ AND all night, he slept with the *Kadamba* flower on his bed of leaves:
 and in the morning he went out, and watched the fire-flies on the pool
 hastening to hide their lamps before they should be shamed by the coming
 of the Great Lamp of day. And presently the *chétí* came towards him,
-holding in her hand an amaranth <span id="fr_31"></span>[s](#fn_31). And
+holding in her hand an amaranth <span id="fr_31"></span>[s](#fn_31.md). And
 she looked like an incarnation of the essence of timidity, blushing at
 the recollection of the adventure of the day before. And she came up to
 the King, and said: O King, my mistress sends her lord, by these
@@ -54,7 +54,7 @@ elephants; and they fought in the pool, and struck their tusks into each
 other's sides, and their red blood streamed into the pool, and fell upon
 the lotus, and turned its petals red. So when the moon looked down into
 the pool, he exclaimed: Alas! it is only a red lotus, and not a bride
-for me <span id="fr_32"></span>[t](#fn_32). So he pined away in sorrow,
+for me <span id="fr_32"></span>[t](#fn_32.md). So he pined away in sorrow,
 and night after night he grew thinner and thinner, and at last his
 emaciation became such that he vanished altogether, and ceased to exist.
 And then on the dark night that precedes the new moon, the clouds
@@ -65,7 +65,7 @@ assembled in masses; and there fell a furious rain into the
 pool, and it washed the lotus clean. And when the new moon stole into
 the pool, lo! he saw to his delight a pure white lotus, with a rain-drop
 shining on its leaf, like a tear of joy at his approach <span
-id="fr_33"></span>[u](#fn_33).
+id="fr_33"></span>[u](#fn_33.md).
 
 Then the King said: O, that I were that moon, and thou my lotus: then
 would my nights pass like an instant of delight, and not hang over me,
@@ -82,16 +82,16 @@ the conflict of his honour with his love.
 
 ### Footnotes
 
-<span id="fn_31"></span>[49:s](htd13.htm#fr_31) *Kurabaka*: it has a
+<span id="fn_31"></span>[49:s](htd13.htm#fr_31.md) *Kurabaka*: it has a
 crimson flower.
 
-<span id="fn_32"></span>[51:t](htd13.htm#fr_32) The white lotus
+<span id="fn_32"></span>[51:t](htd13.htm#fr_32.md) The white lotus
 (*kumuda*) is the proper moon lotus, the others are apparently all
 devoted to the sun.
 
-<span id="fn_33"></span>[52:u](htd13.htm#fr_33) The King did not
+<span id="fn_33"></span>[52:u](htd13.htm#fr_33.md) The King did not
 understand her, for love is blind.
 
 ------------------------------------------------------------------------
 
-[Next: Ashóka](htd14)
+[Next: Ashóka](htd14.md)

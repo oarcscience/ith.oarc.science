@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -62,14 +62,14 @@ ever be found, and the calculations of our statesmen and reformers
 proceed upon the assumption that not only will the tide of population
 never actually turn from the large cities countryward, but that it will
 continue to flow in its present direction at a scarcely diminished rate
-for a long time to come. <span id="fr_35"></span>[1](#fn_35) Now it can
+for a long time to come. <span id="fr_35"></span>[1](#fn_35.md) Now it can
 hardly be supposed that any search made in the full belief that the
 remedy sought for will not be discovered is likely to be carried on with
 great zeal or thoroughness; and therefore, it is perhaps not surprising
 to find that though the late chairman of the London County Council (Lord
 Rosebery) declared that the growth of this huge city was fitly
 comparable to the growth of a tumour (see [p.
-42](gcot02.htm#page_42))—few venturing to deny the correctness of the
+42](gcot02.htm#page_42).md)—few venturing to deny the correctness of the
 analogy—yet the various members of that body, instead of bending their
 energies to reforming London by means of a reduction of its population,
 are boldly advocating a policy which involves the purchase of vast
@@ -242,7 +242,7 @@ a deserted one.
 But better counsels, let us hope, will prevail, and a new city rise on
 the ashes of the old. The task will indeed be difficult. Easy,
 comparatively, is it to lay out on virgin soil the plan of a magnificent
-city, such as represented on our [Diagram 5](gcot14.htm#img_diag05). Of
+city, such as represented on our [Diagram 5](gcot14.htm#img_diag05.md). Of
 far greater difficulty is the problem—even if all vested interests
 freely effaced themselves—of rebuilding a new city on an old site, and
 that site occupied by a huge population. But this, at
@@ -264,7 +264,7 @@ In 1883 the late Mr. William Westgarth offered the Society of Arts the
 sum of £1,200 to be awarded in prizes for essays on the best means of
 providing dwellings for the London poor, and on the reconstruction of
 Central London—an offer which brought forward several schemes of some
-boldness. <span id="fr_36"></span>[1](#fn_36) More recently a book by
+boldness. <span id="fr_36"></span>[1](#fn_36.md) More recently a book by
 Mr. Arthur Cawston, entitled *A Comprehensive Scheme for Street
 Improvements in London*, was published by Stanford, which contains in
 its introduction the following striking passage: 'The literature
@@ -317,7 +317,7 @@ THE END
 
 ### Footnotes
 
-<span id="fn_35"></span>[152:1](gcot15.htm#fr_35) It is scarcely
+<span id="fn_35"></span>[152:1](gcot15.htm#fr_35.md) It is scarcely
 necessary to give instances of what is meant; but one that occurs to my
 mind is that this assumption of the continued growth of London forms one
 of the fundamental premises of the Report of the Royal Commission on
@@ -328,7 +328,7 @@ the future growth of London, (see *Anticipations*, Chap. II), Read also
 Empire* (Fisher Unwin), and Paper by Mr. W. L. Madgen, M.I.E.E., on
 'Industrial Redistribution', *Society of Arts Journal*, February 1902.
 
-<span id="fn_36"></span>[158:1](gcot15.htm#fr_36) See *Reconstruction of
+<span id="fn_36"></span>[158:1](gcot15.htm#fr_36.md) See *Reconstruction of
 Central London* (George Bell and Sons).
 
  

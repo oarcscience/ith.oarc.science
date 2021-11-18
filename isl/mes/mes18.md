@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes17)  [Next](mes19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes17)  [Next](mes19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### III.
 
 <span id="img_m02500"></span> ![The Jewish King, Persecutor of the
-Christians.](img/m02500.jpg) <span id="fr_80"></span>[1](#fn_79)
+Christians.](img/m02500.jpg) <span id="fr_80"></span>[1](#fn_79.md)
 
 <span class="smallcaps">A certain</span> Jewish King, in savage, brutal
 scenes,  
@@ -35,7 +35,7 @@ A King and squint-eyed? Ah! that one the two should be!
 A master once a squint-eyed slave commanded so:  
 "Come here; that bottle from its shelf, go, fetch me; go."  
 The squint-eye straightway asked: "Which, master, of the two? <span
-id="fr_81"></span>[2](#fn_80)  
+id="fr_81"></span>[2](#fn_80.md)  
 The case explain; clear up the doubt, and truly show." <span
 class="margnote"><span id="an_5">5</span></span>  
 His master answered: "Two there's not; there is but one;  
@@ -98,7 +98,7 @@ Affected still to be, think, act, just as he bid.
 Suspicion crossed his mind; my secret he espied;  
 All I could plead for nothing went; he said I lied.  
 "Thy specious words," quoth he, "are needles in a loaf; <span
-id="fr_82"></span>[1](#fn_81)  
+id="fr_82"></span>[1](#fn_81.md)  
 My eye, as through a glass, sees all thy thoughts; thou oaf!  
 No curtain of thy trickeries can veil thy faith from me;  
 I'm proof against thy knaveries; thy cunning I can see." <span
@@ -115,7 +115,7 @@ Thanks be to God, to Jesus thanks, who me have made
 A teacher perfect of the faith so free from shade. <span
 class="margnote"><span id="an_35">35</span></span>  
 The Jew and Judaism I have forsworn in sooth;  
-About my loins the sacred cord <span id="fr_83"></span>[2](#fn_82) I
+About my loins the sacred cord <span id="fr_83"></span>[2](#fn_82.md) I
 wear; ’tis truth.  
 This age the age of Jesus is; O men, give ear!  
 His doctrine take to heart; nought else have you to fear."
@@ -176,9 +176,9 @@ First stop mouse-holes; make safe thy granary, O man!
 Thy wheat then garner safely; winter's at our van.
 
 Give ear to what he's said, the Lord's own Chief of Chiefs: <span
-id="fr_84"></span>[1](#fn_83)  
+id="fr_84"></span>[1](#fn_83.md)  
 "No perfect worship's needed, save in war's reliefs." <span
-id="fr_85"></span>[2](#fn_84)  
+id="fr_85"></span>[2](#fn_84.md)  
 If mice there be not to destroy our garnered meeds,  
 Where is our wheat, the fruit of fifty summers’ deeds? <span
 class="margnote"><span id="an_60">60</span></span>  
@@ -199,7 +199,7 @@ No thief can steal our peace of mind, our light of day.
 
 Each night Thou settest free the soul from trap of flesh,  
 To scan and learn the hidden records of Thy wish. <span
-id="fr_86"></span>[3](#fn_85)  
+id="fr_86"></span>[3](#fn_85.md)  
 Each night the soul is like a bird from cage set free,  
 To wander. Judge and judgment, then, it does not see.  
 By night the pris’ner loses sense of bars, of chains;  
@@ -211,10 +211,10 @@ The merchant counts no more, in sleep, his gains and loss;
 <span class="margnote"><span id="an_70">70</span></span> The prince and
 peasant, equal, on their couches toss.
 
-The Gnostic <span id="fr_87"></span>[1](#fn_86) is so e’en by day, when
+The Gnostic <span id="fr_87"></span>[1](#fn_86.md) is so e’en by day, when
 wide awake;  
 For God hath said: "Let quietude care of him take." <span
-id="fr_88"></span>[2](#fn_87)  
+id="fr_88"></span>[2](#fn_87.md)  
 Asleep to all the things of earth by night, by day,  
 As pen in writer's hand he doth his guide obey.  
 Whoever sees not in the lines the writer's hand,  
@@ -226,7 +226,7 @@ His spirit wanders in the groves of th’ absolute.
 easy; body, still, calm, quiet, mute.  
 The two absolved from greed, lust, sense, care, fear also;  
 Each, like a bird uncaged, is free; roams to and fro. <span
-id="fr_89"></span>[3](#fn_88)  
+id="fr_89"></span>[3](#fn_88.md)  
 Should he, bird-like, be whistled back to trap of sense,  
 Again he sinks, the slave of every vile pretence.
 
@@ -240,7 +240,7 @@ fraught with thoughts, and words, and deeds again.
 
 The soul turned loose, without the body's cares or ken,  
 Attests the truth: "Sleep is death's brother," <span
-id="fr_90"></span>[4](#fn_89) to all men.  
+id="fr_90"></span>[4](#fn_89.md) to all men.  
 But lest-it should escape, and not come back at call,  
 A tether to it's bound; it's not quite free withal.
 
@@ -249,14 +249,14 @@ A tether to it's bound; it's not quite free withal.
 It must come back by day from roaming where it wills,  
 The cares of life to bear;—a burthen that soon kills.  
 O! Would, O God, Thou’d keep my soul in Thy own hand,  
-As Sleepers in the Grotto; <span id="fr_91"></span>[1](#fn_90) Noah's
+As Sleepers in the Grotto; <span id="fr_91"></span>[1](#fn_90.md) Noah's
 ark once to land!  
 Then had I ’scaped the tempest waking thoughts aye raise;  
 My mind, eyes, ears, had rested; all my task Thy praise! <span
 class="margnote"><span id="an_85">85</span></span>  
 Sev’n Sleepers?—Many are there of them in this world,  
 Before, behind me, right and left; they're round me hurl’d!  
-My "Cave" <span id="fr_92"></span>[2](#fn_91) art Thou; my "Mate" art
+My "Cave" <span id="fr_92"></span>[2](#fn_91.md) art Thou; my "Mate" art
 Thou; O God, my friend!  
 Men's eyes and ears are sealed; they know not where they wend.
 
@@ -278,7 +278,7 @@ Asleep is he who's slave to every sordid wish;
 Who begs of fancy; parleys with it, even. Pish!
 
 A demon in his sleep he sees; an angel deems. <span
-id="fr_93"></span>[3](#fn_92)  
+id="fr_93"></span>[3](#fn_92.md)  
 Through lust he swoons with sensual pleasure as he dreams. <span
 class="margnote"><span id="an_95">95</span></span>
 
@@ -309,17 +309,17 @@ To their skirts cling; from them thy soul's nutrition seek.
 <span class="margnote"><span id="an_105">105</span></span> So may’st
 thou ’scape the perils of this scene's last week.  
 The holy text of: "How He stretcheth forth the shade!" <span
-id="fr_94"></span>[1](#fn_93)  
+id="fr_94"></span>[1](#fn_93.md)  
 Of saints gives notice. Them his glory doth pervade.  
 Without their guidance venture not to thread this maze;  
 Like Ab’ram answer: "Fading things do not me please!" <span
-id="fr_95"></span>[2](#fn_94)  
+id="fr_95"></span>[2](#fn_94.md)  
 In days of trouble, consolation's sun seek out.  
 The skirts of "Tebrīz’ Sun" will wipe out care, no doubt. <span
-id="fr_96"></span>[3](#fn_95)  
+id="fr_96"></span>[3](#fn_95.md)  
 Know'st not the road to that good man, and grief survene?  
 Inquire of his and my friend, great Husāmu-’d-Dīn. <span
-id="fr_97"></span>[4](#fn_96)
+id="fr_97"></span>[4](#fn_96.md)
 
 While on thy way, should envy seize thee by the throat,  
 <span class="margnote"><span id="an_110">110</span></span> Know, Satan's
@@ -336,7 +336,7 @@ These soil the soul; for envy's bane of mortal life.
 Should envy seek thy soul to kill, invoke the Lord,  
 The God of mercy thee can save, with His true Word.  
 "Make clean My house, ye two," did Ab’ram's God once say. <span
-id="fr_98"></span>[1](#fn_97)  
+id="fr_98"></span>[1](#fn_97.md)  
 His house our frame; a house of glory, though of clay. <span
 class="margnote"><span id="an_115">115</span></span>  
 Should envy fill thy breast ’gainst one that envies not,  
@@ -381,15 +381,15 @@ are dead and putrid; life cannot there brood.
 A man's an offset from a man, by nature's law,  
 As sure as cake of bread is bread, and not mere straw.
 
-God's Lion, <span id="fr_99"></span>[1](#fn_98) ‘Alī, saith: "All words
+God's Lion, <span id="fr_99"></span>[1](#fn_98.md) ‘Alī, saith: "All words
 in folly made,  
 As weeds on dunghills, crowd apace; as quickly fade." <span
-id="fr_100"></span>[2](#fn_99)  
+id="fr_100"></span>[2](#fn_99.md)  
 He who would rashly, thoughtlessly, repose thereon,  
 Begrimed will be, befouled, befooled, and spat upon.  
 He that gives vent to wind, mere wind, is bound to wash;  
 His worship else is vain; pollution doth it quash. <span
-id="fr_101"></span>[3](#fn_100)
+id="fr_101"></span>[3](#fn_100.md)
 
 The Vazīr's talk was all: "Be diligent in pray’r."  
 <span class="margnote"><span id="an_135">135</span></span> His acts
@@ -445,7 +445,7 @@ That charity, beneficence, was all in all.
 <span id="page_m36">p. 36</span>
 
 A third explained: "Thy fasting,—charity itself,-  
-Syntheism <span id="fr_102"></span>[1](#fn_101) is. With God, thou
+Syntheism <span id="fr_102"></span>[1](#fn_101.md) is. With God, thou
 deifiest thyself.  
 To trust with resignation ’s all religion's plan.  
 <span class="margnote"><span id="an_155">155</span></span> In weal and
@@ -549,7 +549,7 @@ What showers of bounty from God's outstretched hand
 seas with pearls of price to deck the strand!  
 What brilliant suns of brightest goodness must have shone,  
 Ere clouds and sea could have produced the matchless stone! <span
-id="fr_103"></span>[1](#fn_102)  
+id="fr_103"></span>[1](#fn_102.md)  
 What rays of wisdom poured on water and on land  
 Ere earth could nourish seed, yield corn to our demand!  
 The earth, a faithful trustee, gives back what we sow,  
@@ -607,13 +607,13 @@ wand were broken in th’ appointed night.
 And many sons of skill, for healing science famed,  
 By Jesu's curing halt, lame, blind, deaf, mad, were shamed.  
 How many poets, orators, great men of note,  
-By word of the Illiterate One <span id="fr_104"></span>[1](#fn_103) were
+By word of the Illiterate One <span id="fr_104"></span>[1](#fn_103.md) were
 shown to dote.  
 For love of our Almighty God, the Lord of all,  
 Who would not die, a stock, a block, we needs must call.  
 Dead heart of stone if He but touch with love's live coal,  
 A magnet straight becomes, no longer quits the pole. <span
-id="fr_105"></span>[2](#fn_104)  
+id="fr_105"></span>[2](#fn_104.md)  
 Plume not thyself as one endowed with cunning guile;  
 <span class="margnote"><span id="an_220">220</span></span> The meek more
 surely draw rich gifts from Heaven's smile.
@@ -625,7 +625,7 @@ What's the whole earth? A blade of grass, His might to dare?
 
 A woman, once, through foul adultery's sin estranged,  
 By God, in punishment, to Venus’ star was changed. <span
-id="fr_106"></span>[3](#fn_105)  
+id="fr_106"></span>[3](#fn_105.md)  
 From woman into Venus? Sure, that change was sad.  
 To dust and ashes turn. Less shame in this. Art mad?
 
@@ -641,7 +641,7 @@ That woman's change, compared with this, was joy, thou’lt find.
 
 To push ambition's course beyond the stars thou’st sought?  
 Refused hast thou first Adam to adore, as naught? <span
-id="fr_107"></span>[1](#fn_106)  
+id="fr_107"></span>[1](#fn_106.md)  
 But seed of Adam art thou, O degenerate man  
 Why wilt thou then as glory count dark shame's foul ban?  
 Why proudly vaunt thou’lt conquer all this teeming earth?  
@@ -658,7 +658,7 @@ As poisons by His power receive the gift to heal.
 What doubtful was, becomes confest, at His decree;  
 True love springs up, where hatred plotted was to be.  
 He safely carries through the fire His chosen friend; <span
-id="fr_108"></span>[2](#fn_107)  
+id="fr_108"></span>[2](#fn_107.md)  
 The fear of death He maketh peace of mind to lend. <span
 class="margnote"><span id="an_235">235</span></span>  
 Through Him are treasures hid beneath the ruin's waste;  
@@ -729,7 +729,7 @@ Our outer man's a barren wilderness, I ween;
 The inner man, ’tis, sounds the depths of the Unseen.  
 If all our life be spent in chase of mundane things,  
 Our paths must lead o’er wastes, o’er hills, o’er ocean springs.  
-The Fount of Life, <span id="fr_109"></span>[1](#fn_108) where shall we
+The Fount of Life, <span id="fr_109"></span>[1](#fn_108.md) where shall we
 find in such a course?  
 Death's billows how avoid, and how escape remorse?  
 The desert's moving sandhills are our schemes and plans.  
@@ -830,9 +830,9 @@ We have no hand to move; defend ourselves we can't.
 We have no breath, no speech to pray for aid in want."
 
 The Qur’ān ponder this my verse to understand. <span
-id="fr_110"></span>[1](#fn_109)  
+id="fr_110"></span>[1](#fn_109.md)  
 There God hath said: "Thou threwst not, when thou threwst" the
-sand. <span id="fr_111"></span>[2](#fn_110)  
+sand. <span id="fr_111"></span>[2](#fn_110.md)  
 Although we shoot an arrow swiftly to its mark,  
 The bow, the arrow, we ourselves, are from God's ark.  
 There's no compulsion here, though God can all compel.  
@@ -945,7 +945,7 @@ He named them each successor; made them so to feel.
 Whate’er he told to one, to each did he reveal.  
 He gave to each a volume, writ from end to end;  
 No two alike; each different, and hard to blend. <span
-id="fr_112"></span>[1](#fn_111)  
+id="fr_112"></span>[1](#fn_111.md)  
 Their doctrines various, of every changing hue;  
 Diverse in sense, as objects' forms exposed to view.  
 Their precepts and commands a very maze of guile,  
@@ -959,7 +959,7 @@ Around his corpse collected; eyes, ears, scarce believed.
 With many bitter moans to sorrow they gave vent;  
 Their breasts they beat, their hair they tore, their clothing rent.  
 To count their multitudes is in God's power alone;  
-Turks, Arabs, Kurds, and Romans, <span id="fr_113"></span>[2](#fn_112)
+Turks, Arabs, Kurds, and Romans, <span id="fr_113"></span>[2](#fn_112.md)
 men of every zone.  
 They scattered o’er their heads the dust from his last home;  
 To mourn for him was balm, all ills to overcome.  
@@ -1050,7 +1050,7 @@ Said he: "Behold! successor am I to the saint.
 In Jesu's stead I'm regent, by his own constraint.  
 You see this scroll. ’Tis evidence of what I say:  
 The dead Vazīr's successorship is mine to-day!" <span
-id="fr_114"></span>[1](#fn_113)  
+id="fr_114"></span>[1](#fn_113.md)  
 A second captain started up, as from ambush;  
 Contested all those words; his own claim then did push.
 
@@ -1080,11 +1080,11 @@ The sour and rotten cast away, worthless refuse.
 A word with sense and meaning's ever eloquent;  
 Bald nonsense is laughed down in scorn or merriment.  
 Thou fool, materialist! Think closer: look to sense. <span
-id="fr_115"></span>[1](#fn_114)  
+id="fr_115"></span>[1](#fn_114.md)  
 The spirit ’tis gives value; words are mere pretence.  
 Prefer the company of those who spirit seek.  
 <span class="margnote"><span id="an_400">400</span></span> So mayst thou
-grace attain,—"God's servant be," <span id="fr_116"></span>[2](#fn_115)
+grace attain,—"God's servant be," <span id="fr_116"></span>[2](#fn_115.md)
 and meek.  
 A life without a soul or spirit in our frame,  
 Like wooden sword in sheath, were but a senseless name.
@@ -1103,7 +1103,7 @@ Their converse is to thee a balm for all complaints. <span
 class="margnote"><span id="an_405">405</span></span>  
 The wise have ever said, with uniform accord:  
 "Most truly wise was he, 'the Mercy of the Lord.'" <span
-id="fr_117"></span>[1](#fn_116)
+id="fr_117"></span>[1](#fn_116.md)
 
 Dost buy a pomegranate? A burst fruit still elect.  
 The crack reveals its grains; thou seest they've no defect.  
@@ -1116,7 +1116,7 @@ So speech of worthy men may waft thee to truth's side. <span
 class="margnote"><span id="an_410">410</span></span>  
 Society with saints no doubt's of great avail;  
 To piety it leads; "God's fear shall never fail." <span
-id="fr_118"></span>[2](#fn_117)  
+id="fr_118"></span>[2](#fn_117.md)  
 Thou wast a very rock, a worthless pebble stone;  
 By saints’ communion fined, a pearl of price thou’st shone.  
 Then love the saints. Their love plant deeply in thy heart.  
@@ -1134,7 +1134,7 @@ Make haste! Seek means of grace from one who grace has found.
 Petition make! Seize hold upon the skirts of saints.  
 Through them thou’lt learn how God his favour grants.  
 The Gospel names the name of Ahmed; <span
-id="fr_119"></span>[1](#fn_118) he the last,  
+id="fr_119"></span>[1](#fn_118.md) he the last,  
 As chief of prophets;—purity's bright ocean, vast.  
 His lineaments, his virtues, ways of matchless good;  
 With notice of his wars, his fasts, and eke his food.  
@@ -1159,7 +1159,7 @@ Through those twelve lying volumes his deceit had penn’d.
 The name of Ahmed, thus, a friend is proved, of might;  
 Of light by day a pillar, shelt’ring cloud by night.  
 A castle inexpugnable, a stronghold safe,  
-As he himself was Trusty, <span id="fr_120"></span>[2](#fn_119) though
+As he himself was Trusty, <span id="fr_120"></span>[2](#fn_119.md) though
 his foes might chafe.  
 How fatal the disasters pictured here above,  
 <span class="margnote"><span id="an_430">430</span></span> The fruit of
@@ -1169,151 +1169,151 @@ foul duplicity's pretended love.
 
 ### Footnotes
 
-<span id="fn_79"></span>[m25:1](mes18.htm#fr_80) Who are intended by
+<span id="fn_79"></span>[m25:1](mes18.htm#fr_80.md) Who are intended by
 this Jewish squint-eyed king, and his self-sacrificing, treacherous
 Vazīr?
 
-<span id="fn_80"></span>[m25:2](mes18.htm#fr_81) It is a common belief
+<span id="fn_80"></span>[m25:2](mes18.htm#fr_81.md) It is a common belief
 in the East that squint-eyed people see double.
 
-<span id="fn_81"></span>[m27:1](mes18.htm#fr_82) Needles, or pins, are
+<span id="fn_81"></span>[m27:1](mes18.htm#fr_82.md) Needles, or pins, are
 hidden in bread that is given to a dog or other beast in order to
 destroy it.
 
-<span id="fn_82"></span>[m27:2](mes18.htm#fr_83) The rope worn by monks,
+<span id="fn_82"></span>[m27:2](mes18.htm#fr_83.md) The rope worn by monks,
 like the Brahmin's sacred thread, is supposed by Muslims to be worn by
 all Christians.
 
-<span id="fn_83"></span>[m29:1](mes18.htm#fr_84) Mohammed.
+<span id="fn_83"></span>[m29:1](mes18.htm#fr_84.md) Mohammed.
 
-<span id="fn_84"></span>[m29:2](mes18.htm#fr_85) In time of immediate
+<span id="fn_84"></span>[m29:2](mes18.htm#fr_85.md) In time of immediate
 danger during war the "Service of Fear" is enjoined instead of the usual
 form of worship.
 
-<span id="fn_85"></span>[m29:3](mes18.htm#fr_86) In visions.
+<span id="fn_85"></span>[m29:3](mes18.htm#fr_86.md) In visions.
 
-<span id="fn_86"></span>[m30:1](mes18.htm#fr_87) The original word,
+<span id="fn_86"></span>[m30:1](mes18.htm#fr_87.md) The original word,
 *conversant*, like our "Adept" and "*Illuminato*," is applied by the
 mystics to themselves. It is a trace of the old Gnosticism.
 
-<span id="fn_87"></span>[m30:2](mes18.htm#fr_88) Being given in Persian,
+<span id="fn_87"></span>[m30:2](mes18.htm#fr_88.md) Being given in Persian,
 I cannot quote chapter and verse for the original Arabic.
 
-<span id="fn_88"></span>[m30:3](mes18.htm#fr_89) Like lunatics, they are
+<span id="fn_88"></span>[m30:3](mes18.htm#fr_89.md) Like lunatics, they are
 supposed to be heedless of all things around them.
 
-<span id="fn_89"></span>[m30:4](mes18.htm#fr_90) *Sleep is Death's
+<span id="fn_89"></span>[m30:4](mes18.htm#fr_90.md) *Sleep is Death's
 brother* is an ancient Arabian proverb.
 
-<span id="fn_90"></span>[m31:1](mes18.htm#fr_91) The Seven Sleepers;
+<span id="fn_90"></span>[m31:1](mes18.htm#fr_91.md) The Seven Sleepers;
 mentioned in Qur’ān xviii. 8-25.
 
-<span id="fn_91"></span>[m31:2](mes18.htm#fr_92) Mohammed's "Cave-Mate"
+<span id="fn_91"></span>[m31:2](mes18.htm#fr_92.md) Mohammed's "Cave-Mate"
 was Abū-Bekr, who was his sole companion on quitting Mekka at the
 Emigration or "Flight." They concealed themselves in a cave; and
 Mohammed remarked: "God is the third in our little party." Hence the
 title of "Cave-Mate," applied to Abū-Bekr.
 
-<span id="fn_92"></span>[m31:3](mes18.htm#fr_93) A species of nightmare
+<span id="fn_92"></span>[m31:3](mes18.htm#fr_93.md) A species of nightmare
 in the form of a lascivious dream.
 
-<span id="fn_93"></span>[m32:1](mes18.htm#fr_94) Qur’ān xxv. 47.
+<span id="fn_93"></span>[m32:1](mes18.htm#fr_94.md) Qur’ān xxv. 47.
 
-<span id="fn_94"></span>[m32:2](mes18.htm#fr_95) Qur’ān vi. 76.
+<span id="fn_94"></span>[m32:2](mes18.htm#fr_95.md) Qur’ān vi. 76.
 
-<span id="fn_95"></span>[m32:3](mes18.htm#fr_96) See "Anecdotes," Chap.
+<span id="fn_95"></span>[m32:3](mes18.htm#fr_96.md) See "Anecdotes," Chap.
 iv.
 
-<span id="fn_96"></span>[m32:4](mes18.htm#fr_97) See his name as an
+<span id="fn_96"></span>[m32:4](mes18.htm#fr_97.md) See his name as an
 honorific title in a note to the author's preface; and in the
 "Anecdotes," Chap, vi.
 
-<span id="fn_97"></span>[m33:1](mes18.htm#fr_98) Qur’ān ii. 119.
+<span id="fn_97"></span>[m33:1](mes18.htm#fr_98.md) Qur’ān ii. 119.
 
-<span id="fn_98"></span>[m34:1](mes18.htm#fr_99) "*The Lion of God*," so
+<span id="fn_98"></span>[m34:1](mes18.htm#fr_99.md) "*The Lion of God*," so
 called from his courage and strength. Shīr-Ali, Hayder-Ali, are among
 the forms of the title.
 
-<span id="fn_99"></span>[m34:2](mes18.htm#fr_100) One of the sayings
+<span id="fn_99"></span>[m34:2](mes18.htm#fr_100.md) One of the sayings
 attributed to him and become proverbial.
 
-<span id="fn_100"></span>[m34:3](mes18.htm#fr_101) Persian, empty
+<span id="fn_100"></span>[m34:3](mes18.htm#fr_101.md) Persian, empty
 promises and boastings are also called "wind." Hence, the poet suggests
 ablution to cleanse from such;—mental ablution.
 
-<span id="fn_101"></span>[m36:1](mes18.htm#fr_102) "*Syntheism*" is the
+<span id="fn_101"></span>[m36:1](mes18.htm#fr_102.md) "*Syntheism*" is the
 correct rendering of the "*shirk*" of Islām. "*Polytheism*" is very
 incorrect. Dualists (Magians) and Trinitarians (Christians) are
 *Syntheists*, but they are not polytheists in a correct sense.
 
-<span id="fn_102"></span>[m38:1](mes18.htm#fr_103) An allusion to the
+<span id="fn_102"></span>[m38:1](mes18.htm#fr_103.md) An allusion to the
 idea that a pearl is a raindrop caught and nourished by an oyster.
 
-<span id="fn_103"></span>[m40:1](mes18.htm#fr_104) "The Illiterate
+<span id="fn_103"></span>[m40:1](mes18.htm#fr_104.md) "The Illiterate
 Prophet," or, rather, "the Gentile Prophet," reputed barbarous and
 illiterate by the Jews and Christians, is one of Muhammed's highest
 titles.
 
-<span id="fn_104"></span>[m40:2](mes18.htm#fr_105) The original here
+<span id="fn_104"></span>[m40:2](mes18.htm#fr_105.md) The original here
 uses the simile of a certain "*cunning bird*," known, also as the
 "*Truth-calling bird*," that hangs by a claw and calls all night: *haqq!
 haqq!* (Truth! Truth!).
 
-<span id="fn_105"></span>[m40:3](mes18.htm#fr_106) Such is an eastern
+<span id="fn_105"></span>[m40:3](mes18.htm#fr_106.md) Such is an eastern
 myth. Poets call the planet Venus the "*Harpist of the Spheres*."
 
-<span id="fn_106"></span>[m41:1](mes18.htm#fr_107) In Qur’ān ii. 32, God
+<span id="fn_106"></span>[m41:1](mes18.htm#fr_107.md) In Qur’ān ii. 32, God
 commands the angels to fall down in adoration to Adam, when first
 created. Iblīs, Satan, alone refused, through pride and envy.
 
-<span id="fn_107"></span>[m41:2](mes18.htm#fr_108) In Qur’ān iv. 124,
+<span id="fn_107"></span>[m41:2](mes18.htm#fr_108.md) In Qur’ān iv. 124,
 Abraham is called the *Chosen Friend* of God; and in xxi. 69, the story
 is mentioned of his being saved from the fire into which he was cast by
 Nimrod.
 
-<span id="fn_108"></span>[m43:1](mes18.htm#fr_109) The *Fountain of
+<span id="fn_108"></span>[m43:1](mes18.htm#fr_109.md) The *Fountain of
 Life*, or *Water of Life*, is imagined to take its rise in a
-[land](errata.htm#2) of darkness beyond the limits of the inhabited
+[land](errata.htm#2.md) of darkness beyond the limits of the inhabited
 earth.
 
-<span id="fn_109"></span>[m46:1](mes18.htm#fr_110) In the original I
+<span id="fn_109"></span>[m46:1](mes18.htm#fr_110.md) In the original I
 have not found it possible to feel sure where the break should be made
 from the remonstrance to the poet's reflections. Much of what precedes
 seems addressed to God; but Eastern hyperbole is wide.
 
-<span id="fn_110"></span>[m46:2](mes18.htm#fr_111) Qur’ān viii. 17.
+<span id="fn_110"></span>[m46:2](mes18.htm#fr_111.md) Qur’ān viii. 17.
 Muhammed cast sand at the foe in two battles, Badr and Hunayn.
 
-<span id="fn_111"></span>[m49:1](mes18.htm#fr_112) This account of the
+<span id="fn_111"></span>[m49:1](mes18.htm#fr_112.md) This account of the
 Vazīr's various forged books is an allusion to the various Gospels and
 Epistles, canonical and spurious, that sprang up in the early Christian
 Church.
 
-<span id="fn_112"></span>[m49:2](mes18.htm#fr_113) The Roman conquest of
+<span id="fn_112"></span>[m49:2](mes18.htm#fr_113.md) The Roman conquest of
 Greece, Asia Minor, and Syria completely effaced from the Eastern mind
 all recollection of previous actors on those scenes. Even "Alexander the
 Great" is to them "*Alexander the Roman*," like our Jelūlu-’d-Dīn,
 "*Er-Rūmī*."
 
-<span id="fn_113"></span>[m51:1](mes18.htm#fr_114) An allusion to the
+<span id="fn_113"></span>[m51:1](mes18.htm#fr_114.md) An allusion to the
 contests of the bishops of Rome, Constantinople, Alexandria, Antioch,
 Jerusalem, &c., &c.
 
-<span id="fn_114"></span>[m52:1](mes18.htm#fr_115) The mystics of Islam
+<span id="fn_114"></span>[m52:1](mes18.htm#fr_115.md) The mystics of Islam
 call God and the spirit *the sense*, of which material existences are
 the outward expression; as we say: "*The letter and the spirit*." The
 constant play of the original on these words is lost in the version.
 
-<span id="fn_115"></span>[m52:2](mes18.htm#fr_116) An allusion to Qur’ān
+<span id="fn_115"></span>[m52:2](mes18.htm#fr_116.md) An allusion to Qur’ān
 xviii. 12; not a verbal quotation.
 
-<span id="fn_116"></span>[m53:1](mes18.htm#fr_117) A grammatical variant
+<span id="fn_116"></span>[m53:1](mes18.htm#fr_117.md) A grammatical variant
 of Qur’ān xxi. 107. Muhammed is meant.
 
-<span id="fn_117"></span>[m53:2](mes18.htm#fr_118) An allusion to Qur’ān
+<span id="fn_117"></span>[m53:2](mes18.htm#fr_118.md) An allusion to Qur’ān
 xlix. 3; not a quotation.
 
-<span id="fn_118"></span>[m54:1](mes18.htm#fr_119) In Qur’ān lxi. 6, is
+<span id="fn_118"></span>[m54:1](mes18.htm#fr_119.md) In Qur’ān lxi. 6, is
 the assertion that Jesus, in the Gospel, foretold the advent of Muhammed
 by the name of Ahmed. This is generally explained as a translation of
 περικλιτός, misread for παράκλητος in John xiv. 26. The two words have
@@ -1321,11 +1321,11 @@ very much the same meaning: *much-praised, most laudable,
 laudatissimus*. Muhammed is mentioned by many names, forty, fifty,
 sixty; some say a thousand.
 
-<span id="fn_119"></span>[m54:2](mes18.htm#fr_120) Muhammed gained the
+<span id="fn_119"></span>[m54:2](mes18.htm#fr_120.md) Muhammed gained the
 name of Trusty, El-Emīn (Al-Amīn), long before he declared himself
 commissioned to call his countrymen to acknowledge the unity of God, the
 resurrection, judgment, and future life.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Another Jewish King, Persecutor of Christians](mes19)
+[Next: IV. Another Jewish King, Persecutor of Christians](mes19.md)

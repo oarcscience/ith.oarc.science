@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](rca01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](rca01.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ PROFESSOR AND MRS. CLARENCE HOFFMAN YOUNG
 
 ------------------------------------------------------------------------
 
-[Next: Contents](rca01)
+[Next: Contents](rca01.md)

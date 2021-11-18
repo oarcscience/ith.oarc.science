@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](coo17)  [Next](coo19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](coo17)  [Next](coo19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Children of Odin*, by Padraic Colum, \[1920\], at Intangible
 Textual Heritage
 
@@ -429,4 +429,4 @@ return now the Gods might not gainsay.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Foreboding in Asgard](coo19)
+[Next: 1. Foreboding in Asgard](coo19.md)

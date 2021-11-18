@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk21)  [Next](htk23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk21)  [Next](htk23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -28,13 +28,13 @@ at Intangible Textual Heritage
 ### VERSE 18
 
 HE who at night, when in union with his *Śakti*, <span
-id="fr_136"></span>[1](#fn_136) meditates with centred mind <span
-id="fr_137"></span>[2](#fn_137) on Thee, O Mother with gently smiling
+id="fr_136"></span>[1](#fn_136.md) meditates with centred mind <span
+id="fr_137"></span>[2](#fn_137.md) on Thee, O Mother with gently smiling
 face, as on the breast of the corpse-like Śiva, lying on a
-fifteen-angled yantra <span id="fr_138"></span>[3](#fn_138) deeply
+fifteen-angled yantra <span id="fr_138"></span>[3](#fn_138.md) deeply
 enlisted in sweet amorous play with Mahākāla, <span
-id="fr_139"></span>[4](#fn_139) himself becomes the destroyer of the God
-of Love. <span id="fr_140"></span>[5](#fn_140)
+id="fr_139"></span>[4](#fn_139.md) himself becomes the destroyer of the God
+of Love. <span id="fr_140"></span>[5](#fn_140.md)
 
 COMMENTARY
 
@@ -121,15 +121,15 @@ Paramātmā.
 
 ### Footnotes
 
-<span id="fn_136"></span>[86:1](htk22.htm#fr_136) <span id="page_88">p.
+<span id="fn_136"></span>[86:1](htk22.htm#fr_136.md) <span id="page_88">p.
 88</span> *Svayam api ratānandaniratah*, of which the meaning is as
 follows: *yadā sādhakah śaktyā saha maithunakriyāsakto bhavati, tadā sa
 ślokokta-dhyāna-prakārānusāreṇa deviṁ dhyāyati*.
 
-<span id="fn_137"></span>[86:2](htk22.htm#fr_137) *Samāsaktah*,
+<span id="fn_137"></span>[86:2](htk22.htm#fr_137.md) *Samāsaktah*,
 concentrated on Thee.
 
-<span id="fn_138"></span>[86:3](htk22.htm#fr_138) Kālīkalpalatā says it
+<span id="fn_138"></span>[86:3](htk22.htm#fr_138.md) Kālīkalpalatā says it
 is a kind of *yantra* (diagram).
 
 *Tripūñcāre pīthe*. The *Yantra*. The *Kāli-Tantra* says, 'First draw a
@@ -141,12 +141,12 @@ attached to the outer circle and *Bhūpura*. He who knows this great
 composed of the five *Bhūtas* (V). It is made with five triangles
 superimposed.
 
-<span id="fn_139"></span>[86:4](htk22.htm#fr_139)
+<span id="fn_139"></span>[86:4](htk22.htm#fr_139.md)
 *Mahākalenoccair-madana-rasa-lāvaṇya-niratāṁ*. *Mahākāla* is
 *Paramaśiva* (V). *Madana-rasa-lāvaṇya-niratāṁ* refers to *Viparītarati*
 (V).
 
-<span id="fn_140"></span>[86:5](htk22.htm#fr_140) *Smarahara*. The
+<span id="fn_140"></span>[86:5](htk22.htm#fr_140.md) *Smarahara*. The
 destroyer of *Kāma* is *Śiva* Himself (V).
 
 That is, he becomes *Śiva* Himself, who destroyed *Smara* the *Deva* of
@@ -158,6 +158,6 @@ excitation of desire (towards Pārvatī), sought to detract him from his
 
 ------------------------------------------------------------------------
 
-[Next: Verse 19](htk23)
+[Next: Verse 19](htk23.md)
 
 </div>

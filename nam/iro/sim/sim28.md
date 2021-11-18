@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim27)  [Next](sim29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim27)  [Next](sim29.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ HADJOQDJA, the Skin Man.
 
 ------------------------------------------------------------------------
 
-[Next: A Race Between Bear and Turtle](sim29)
+[Next: A Race Between Bear and Turtle](sim29.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat08.htm#XLVII) 
-[Previous](satl046)  [Next](satl048) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat08.htm#XLVII.md) 
+[Previous](satl046)  [Next](satl048.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ potentiae admonitum in culinam obsonium duxit.
 
 ------------------------------------------------------------------------
 
-[Next: XLVIII](satl048)
+[Next: XLVIII](satl048.md)

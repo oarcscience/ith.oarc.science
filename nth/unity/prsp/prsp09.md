@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](prsp08)  [Next](prsp10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](prsp08)  [Next](prsp10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Prosperity*, by Charles Fillmore, \[1936\], at Intangible Textual
 Heritage
 
@@ -435,4 +435,4 @@ And that I may fill their treasuries."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](prsp10)
+[Next: Chapter 8](prsp10.md)

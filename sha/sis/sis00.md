@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Next](sis01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Next](sis01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shamanism in Siberia*, by M.A. Czaplicka, \[1914\], at Intangible
 Textual Heritage
 
@@ -49,10 +49,10 @@ Textual Heritage
 
 <span id="img_sibmap"></span> <span align="CENTER"> [![Map of Aboriginal
 Siberia](tn/sibmap.jpg)  
-Click to enlarge](img/sibmap.jpg)  
+Click to enlarge](img/sibmap.jpg.md)  
 Map of Aboriginal Siberia  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Shamanism](sis01)
+[Next: Chapter VII. Shamanism](sis01.md)

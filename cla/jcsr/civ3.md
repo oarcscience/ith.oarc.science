@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](civ2)  [Next](alx) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](civ2)  [Next](alx.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140444335/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140444335/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ McDevitte and W.S. Bohn \[1869\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Alexandrian War](alx)
+[Next: Alexandrian War](alx.md)

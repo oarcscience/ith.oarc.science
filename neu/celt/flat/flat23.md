@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat22)  [Next](flat24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat22)  [Next](flat24.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ have good eyesight, without the help of spectacles.
 
 ------------------------------------------------------------------------
 
-[Next: Cormac and Mary](flat24)
+[Next: Cormac and Mary](flat24.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm02) 
-[Next](pdm04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm02.md) 
+[Next](pdm04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -178,7 +178,7 @@ macrocosm crowned by divine unity, itself a trinity. The Kosmos,
 controlled and penetrated by God, formed
 
 "The sacred Quaternion, the source of Nature; whose cause is
-eternal." <span id="fr_1"></span>[1](#fn_1)
+eternal." <span id="fr_1"></span>[1](#fn_1.md)
 
 Yes, here concealed in these geometrical lines was the key of the
 universe, the science of numbers,
@@ -254,7 +254,7 @@ trials and temptations, the soul-rending
 
 <span id="page_22">p. 22</span>
 
-dread and ecstatic joy [passed](errata.htm#0) through by Hermes, the
+dread and ecstatic joy [passed](errata.htm#0.md) through by Hermes, the
 initiate of Isis, even to the apparent, or cataleptic death of the adept
 and his resurrection in the light of Osiris, were experienced by
 Pythagoras, so that he now realized, not as a vain theory, but as
@@ -332,7 +332,7 @@ a most implacable destiny!
 
 Cambyses had Pythagoras taken to Babylon, with a portion of the Egyptian
 priesthood, and kept him within the gates. <span
-id="fr_2"></span>[1](#fn_2) This colossal city, which Aristotle compares
+id="fr_2"></span>[1](#fn_2.md) This colossal city, which Aristotle compares
 to a country surrounded by walls, offered at that time an immense field
 for observation. Ancient Babel, the great prostitute of the Hebrew
 prophets, was more than ever, after the Persian conquest, a pandemonium
@@ -393,7 +393,7 @@ they are magnetized with the worship of multitudes, and their power is
 
 <span id="page_28">p. 28</span>
 
-ineffable." <span id="fr_3"></span>[1](#fn_3) These evocations,
+ineffable." <span id="fr_3"></span>[1](#fn_3.md) These evocations,
 accompanied by prayer and purification, were, properly speaking, what
 was called at a later date, white magic.
 
@@ -479,16 +479,16 @@ and sophists, but men and women initiates, true mothers and pure heroes!
 
 ### Footnotes
 
-<span id="fn_1"></span>[18:1](pdm03.htm#fr_1) *The Golden Verses of
+<span id="fn_1"></span>[18:1](pdm03.htm#fr_1.md) *The Golden Verses of
 Pythagoras*.
 
-<span id="fn_2"></span>[25:1](pdm03.htm#fr_2) Iamblichus relates this
+<span id="fn_2"></span>[25:1](pdm03.htm#fr_2.md) Iamblichus relates this
 fact in his *Life of Pythagoras*.
 
-<span id="fn_3"></span>[28:1](pdm03.htm#fr_3) *The Oracles of
+<span id="fn_3"></span>[28:1](pdm03.htm#fr_3.md) *The Oracles of
 Zoroaster*, taken from the theurgy of Proclus.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Temple of Delphi—The Science of Apollo—Theory of
-Divination—The Pythoness Theoclea](pdm04)
+Divination—The Pythoness Theoclea](pdm04.md)

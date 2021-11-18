@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft28)  [Next](sfft30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft28)  [Next](sfft30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE FAIRY AND THE MILLER'S WIFE. <span id="fr_46"></span>[1](#fn_46)
+### THE FAIRY AND THE MILLER'S WIFE. <span id="fr_46"></span>[1](#fn_46.md)
 
 ONE day as a mother was sitting rocking her baby to sleep, she was
 surprised, on looking up, to see a lady of elegant and courtly
@@ -69,9 +69,9 @@ of fairies.
 
 ### Footnotes
 
-<span id="fn_46"></span>[110:1](sfft29.htm#fr_46) Campbell, *Tales of
+<span id="fn_46"></span>[110:1](sfft29.htm#fr_46.md) Campbell, *Tales of
 the West Highlands*.
 
 ------------------------------------------------------------------------
 
-[Next: Sir Godfrey Macculloch](sfft30)
+[Next: Sir Godfrey Macculloch](sfft30.md)

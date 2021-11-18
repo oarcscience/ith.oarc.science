@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm18)  [Next](tmm20) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm18)  [Next](tmm20.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ Samuel 23.
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Tanchumah Or Yelamdinu](tmm20)
+[Next: Midrash Tanchumah Or Yelamdinu](tmm20.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits051) [Next](bits053)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits051) [Next](bits053.md)
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ The Lion's-skin Birth-Story.
 
 ------------------------------------------------------------------------
 
-[Next: § 53. The Devoted Wife](bits053)
+[Next: § 53. The Devoted Wife](bits053.md)
 
  
 

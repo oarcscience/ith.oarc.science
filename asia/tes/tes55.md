@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes54)  [Next](tes56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes54)  [Next](tes56.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_111">p. 111</span>
 
-# IV. CHILDREN'S STORIES. <span id="fr_86"></span>[1](#fn_86)
+# IV. CHILDREN'S STORIES. <span id="fr_86"></span>[1](#fn_86.md)
 
 ### 1. STORY OF AN OLD WOMAN AND HER THREE DAUGHTERS.
 
@@ -44,7 +44,7 @@ village of Pokhotsk, the Kolyma country, winter of 1896.
 
 ### Footnotes
 
-<span id="fn_86"></span>[111:1](tes55.htm#fr_86) The children of Russian
+<span id="fn_86"></span>[111:1](tes55.htm#fr_86.md) The children of Russian
 creoles and Russianized natives (chiefly girls) in the Kolyma country
 have their own stories, which they relate to one another. These stories
 are mostly simple, short, full of reiteration. They consist partly of
@@ -62,4 +62,4 @@ country.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Story of Kundarik](tes56)
+[Next: 2. Story of Kundarik](tes56.md)

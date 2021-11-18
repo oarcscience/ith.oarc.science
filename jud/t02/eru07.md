@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru06)  [Next](eru08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru06)  [Next](eru08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -199,7 +199,7 @@ thou then certain that an Erub may be made with apples?" With apples it
 is not allowed? Have we not learned in a Mishna, that a quantity of
 mixed eatables equal to two eggs is sufficient to make the body of a man
 incapable of touching heave-offerings? <span
-id="fr_23"></span>[1](#fn_23) If there is sufficient of those mixed
+id="fr_23"></span>[1](#fn_23.md) If there is sufficient of those mixed
 eatables for two meals they maybe used for making an Erub. If there is a
 quantity of those mixed eatables equal to one egg, they arc subject to
 the defilement incidental to eatables. Why this question? 'Tis true that
@@ -233,8 +233,8 @@ the above Boraitha. This is the Mishna (mentioned above). Nothing less
 than a half a Kabh of wheat and a Kabh of barley should be given to a
 poor man by the owner of a barn. R. Meir, however, says a half a Kabh of
 barley and one Kabh and a half of Kusmin, <span
-id="fr_24"></span>[1](#fn_24) a Kabh of three or the weight of a
-maneh <span id="fr_25"></span>[2](#fn_25) of pressed figs; R. Aqiba said
+id="fr_24"></span>[1](#fn_24.md) a Kabh of three or the weight of a
+maneh <span id="fr_25"></span>[2](#fn_25.md) of pressed figs; R. Aqiba said
 a half of a maneh; and a half a lug of wine; R. Aqiba said a quarter of
 a lug; and a quarter of a lug of oil; R. Aqiba said an eighth of a lug.
 Concerning other fruits, however, said Abba Saul: A measure of fruit,
@@ -300,7 +300,7 @@ majority of the whole world?
 R. Hyya bar Ashi said in the name of Rabh: "An Erub may be made with raw
 meat." R. Simi bar Hyya said: "An Erub may be made with raw eggs." And
 how many should be used? Said R. Na'hman bar Itz'hak: "Sinai <span
-id="fr_26"></span>[1](#fn_26) said, two eggs should be used."
+id="fr_26"></span>[1](#fn_26.md) said, two eggs should be used."
 
 R. Huna in the name of Rabh said: If one vowed, that he would not eat
 this loaf of bread, an Erub may nevertheless be made for him with that
@@ -478,7 +478,7 @@ make use of a tree on the Sabbath and that is also prohibited? We must
 therefore assume, that the Mishna means that the tree was standing in
 public ground and it is according to Rabbi, who holds, that all
 rabbinical ordinances enacted on account of the
-[Sabbath](errata.htm#6)-rest (Shvuth) have no significance during
+[Sabbath](errata.htm#6)-rest (Shvuth.md) have no significance during
 twilight (before or after the Sabbath). Said R. Na'hman: "I thank ye,
 for so also did Samuel say." And they rejoined: "Was it so difficult for
 you to understand the Mishna, that you thank us for our opinion. \[Did
@@ -776,7 +776,7 @@ it shall be ordinary (*i.e.*, it shall be redeemed by a sum of money
 representing its value); nevertheless make me an Erub therewith?" "The
 Erub is not valid," was the answer. What is the difference between the
 two cases? Said R. Na'hman to Rabha: "If thou wilt measure a whole Kur
-of salt and present me with it, <span id="fr_27"></span>[1](#fn_27) I
+of salt and present me with it, <span id="fr_27"></span>[1](#fn_27.md) I
 shall tell thee the answer: If the loaf of bread was ordinary when it
 was deposited as an Erub, the fact, that at twilight it becomes
 doubtful, whether it is consecrated or not, does not destroy its
@@ -992,7 +992,7 @@ Eliezer, who says, that the two days have different degrees of
 sanctification; and the four old sages are: R. Simeon ben Gamaliel, R.
 Ishmael the son of R. Johanan ben Berokah, R. Elazar ben R. Simeon and
 R. Jose ben R. Jehudah. The last of these is generally quoted by Rabbi
-[anonymously](errata.htm#7) wherever his opinion seems to be justifiable
+[anonymously](errata.htm#7.md) wherever his opinion seems to be justifiable
 and according to another version, one of the four sages is R. Elazar ben
 Samua instead of R. Jose ben R. Jehudah. Rabh's information on this
 point was derived from a tradition, which was to the effect, that those
@@ -1054,7 +1054,7 @@ not agree with him.
 GEMARA: Who are the sages, that do not coincide with R, Jehudah? Said
 Rabh: That is R. Jose, as we have learned in a Boraitha: The sages agree
 with R. Eliezer that "if a man apprehend that the new year will be
-celebrated two days, <span id="fr_28"></span>[1](#fn_28) he
+celebrated two days, <span id="fr_28"></span>[1](#fn_28.md) he
 
 <span id="page_86">p. 86</span>
 
@@ -1085,7 +1085,7 @@ of the fruit in the one basket and call it heave-offering and eat the
 remainder in both baskets. R. Jose however prohibits this not only for
 the two days of the new year but for the two days of every other
 festival, which is celebrated in exile. <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 It happened that a stag was caught on the first day of a holiday (in
 exile) at the house of the Exilarch and on the second day it was
@@ -1187,7 +1187,7 @@ hold, that eight benedictions must be recited in the prayer and Beth
 Hillel only seven? This question is not decided.
 
 Rabba said: "When I was at the college of R. Huna the question arose,
-whether the benediction of the time <span id="fr_30"></span>[1](#fn_30)
+whether the benediction of the time <span id="fr_30"></span>[1](#fn_30.md)
 should be recited in the New Year and Day of Atonement prayers. Shall we
 say, that because these holy days only come from time to time, the
 benediction of time should be made, or, because the Bible does not
@@ -1330,26 +1330,26 @@ complete the fast until dusk.
 
 ### Footnotes
 
-<span id="fn_23"></span>[66:1](eru07.htm#fr_23) Vide appendix to Tract
+<span id="fn_23"></span>[66:1](eru07.htm#fr_23.md) Vide appendix to Tract
 Sabbath, Part II.
 
-<span id="fn_24"></span>[67:1](eru07.htm#fr_24) There is a difference of
+<span id="fn_24"></span>[67:1](eru07.htm#fr_24.md) There is a difference of
 opinion between the commentators of the Mishnas. Some maintain that it
 is a species of pease and is used as fodder for cattle, and some
 maintain that it is a species of grain. See Maimonides' commentary on
 the Mishna Sabbath, Chap. XX. See also Hamashbir, Vol. V., Note cxxiii.
 
-<span id="fn_25"></span>[67:2](eru07.htm#fr_25) Weight mentioned in
+<span id="fn_25"></span>[67:2](eru07.htm#fr_25.md) Weight mentioned in
 Bible, I Kings, chap. x. 17, and is equal to 100 drachms.
 
-<span id="fn_26"></span>[68:1](eru07.htm#fr_26) Sinai is another name
+<span id="fn_26"></span>[68:1](eru07.htm#fr_26.md) Sinai is another name
 for R. Joseph, who was well versed in Mishnas and Boraithas.
 
-<span id="fn_27"></span>[79:1](eru07.htm#fr_27) This expression is
+<span id="fn_27"></span>[79:1](eru07.htm#fr_27.md) This expression is
 generally used in a joking sense when the question is a difficult one to
 answer.
 
-<span id="fn_28"></span>[85:1](eru07.htm#fr_28) The Israelites living in
+<span id="fn_28"></span>[85:1](eru07.htm#fr_28.md) The Israelites living in
 exile were dependent for their information concerning the date of the
 New Year entirely upon the messengers sent out by the high court in
 Palestine, which in turn fixed the date upon the testimony of witnesses
@@ -1361,16 +1361,16 @@ were kept holy in consequence. For this reason the Mishna cites the
 ordinances referring to such as apprehend that the New Year will last
 two days.
 
-<span id="fn_29"></span>[86:1](eru07.htm#fr_29) In exile the Israelites
+<span id="fn_29"></span>[86:1](eru07.htm#fr_29.md) In exile the Israelites
 celebrated two days each for the holidays of Passover, Tabernacles, and
 Pentecost, besides the New Year, and these are called the holidays in
 exile.
 
-<span id="fn_30"></span>[89:1](eru07.htm#fr_30) The full text of this
+<span id="fn_30"></span>[89:1](eru07.htm#fr_30.md) The full text of this
 benediction reads: "Blessed art Thou, Lord our God, King of the
 Universe, who hast allowed us to live and hast preserved us and hast
 allowed us to reach this time."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Sabbath Travel](eru08)
+[Next: Chapter IV: Sabbath Travel](eru08.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb03)  [Next](mcb05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb03)  [Next](mcb05.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ shaky foundation. There are, however, I suppose many systems of thought
 not backed by real experiences, but such are never inspiring. They may
 be fine to look at but their power to move the readers is nil. Whatever
 knowledge the philosopher may have, it must come out of his experience,
-and this [experience](errata.htm#0) is seeing. Buddha has always
+and this [experience](errata.htm#0.md) is seeing. Buddha has always
 emphasized this. He couples knowing (*ñāṇa*, *jñāna*) with seeing
 (*passa*, *paśya*), for without seeing, knowing has no depths, cannot
 understand the realities of life. Therefore, the first item of the
@@ -81,7 +81,7 @@ that is, the doctrine of non-ego. Its argument begins with the idea: (1)
 that all things are transient as they are composites (*skandha* or
 *khandha*) and go on disintegrating all the time, that there is nothing
 permanent; and (2) that there is therefore nothing worth clinging to in
-[this](errata.htm#1) world where every one of us is made to undergo all
+[this](errata.htm#1.md) world where every one of us is made to undergo all
 kinds of sorrow and suffering. How do we escape from them? Or, how do we
 conquer them? For we cannot go on like this. We must somehow find the
 way out of this torture. It was this feeling of fear and insecurity
@@ -89,7 +89,7 @@ individually and collectively that made Buddha leave his home and wander
 about for six long years seeking for a way out not only for himself but
 for the whole world. He finally discovered it by hitting upon the idea
 of non-ego (*anattā*). The formula runs thus: <span
-id="fr_35"></span>[1](#fn_35)
+id="fr_35"></span>[1](#fn_35.md)
 
 All composite things (*sankhāra*) are impermanent. When a man by wisdom
 (*pañña*) realizes \[this,\], he heeds not \[this world of\] sorrow;
@@ -115,7 +115,7 @@ that seeing is not just an ordinary seeing by means of relative
 knowledge; it is the seeing by means of a *prajñā*-eye which is a
 special kind of intuition enabling us to penetrate right into the
 bedrock of Reality itself. I have elsewhere <span
-id="fr_36"></span>[2](#fn_36) given a somewhat detailed account of
+id="fr_36"></span>[2](#fn_36.md) given a somewhat detailed account of
 *prajñā* and its role in Buddhist teachings, especially in Zen Buddhism.
 
 The doctrine of non-ego not only repudiates the idea of an ego-substance
@@ -161,7 +161,7 @@ that "the love with which he \[God\] loves himself" is the same as the
 *prajñā*-intuition that sees into the ego itself. Eckhart tells us: "In
 giving us his love God has given us his Holy Ghost so that we can love
 him with the love wherewith he loves himself. We love God with his own
-love; awareness of it deifies us." <span id="fr_37"></span>[3](#fn_37)
+love; awareness of it deifies us." <span id="fr_37"></span>[3](#fn_37.md)
 The
 
 <span id="page_41">p. 41</span>
@@ -220,7 +220,7 @@ means going beyond the world of psychology, the opening of the
 on the other shore of the stream of *samsāra*, where all things are
 viewed in their state of suchness, in the way of purity. This is when a
 man finds his mind freed from everything (*sabbattha
-vimuttamānasa*), <span id="fr_38"></span>[4](#fn_38) not confounded by
+vimuttamānasa*), <span id="fr_38"></span>[4](#fn_38.md) not confounded by
 the notions of birth-and-death, of constant change, of before, behind,
 and middle. He is the "conqueror" to whom *The Dhammapada* (179) gives
 this qualification:
@@ -240,7 +240,7 @@ lives has no limiting boundaries, it is like a circle whose
 circumference is infinite, therefore with no center to which a path can
 lead. This is the one Zen describes as a man of *anābhogacaryā* ("an
 effortless, purposeless, useless man"). <span
-id="fr_39"></span>[5](#fn_39) This corresponds to Eckhart's man of
+id="fr_39"></span>[5](#fn_39.md) This corresponds to Eckhart's man of
 freedom who is defined as "one who clings to nothing and to whom nothing
 clings" (Evans, p. 146). While these statements are apt to suggest the
 doctrine of doing-nothing-ness we must remember that Buddhists are great
@@ -250,7 +250,7 @@ to which the reader is referred below.
 ### III
 
 When "the egolessness of all things seen with *prajñā*, <span
-id="fr_40"></span>[6](#fn_40) which makes us transcend sorrows and
+id="fr_40"></span>[6](#fn_40.md) which makes us transcend sorrows and
 sufferings and leads to "the path of purity," is understood in the sense
 herein elucidated, we find the way to the understanding of the lines
 known as "hymn of victory."
@@ -279,7 +279,7 @@ All thy rafters are broken,
 Thy ridge-pole is shattered;  
 The mind approaching the Eternal,  
 Has attained to the extinction of all desires. <span
-id="fr_41"></span>[7](#fn_41)
+id="fr_41"></span>[7](#fn_41.md)
 
 This is Irving Babbitt's translation, the lines of which were rearranged
 according to the original Pali. Incidentally, I wish to remark that
@@ -359,7 +359,7 @@ impossible without seeing; all knowledge has its origin in seeing.
 Knowing and seeing are thus found generally united in Buddha's teaching.
 Buddhist philosophy therefore ultimately points to seeing reality as it
 is. Seeing is experiencing enlightenment. The *Dharma* <span
-id="fr_42"></span>[8](#fn_42) is predicated as *ehipassika*, the
+id="fr_42"></span>[8](#fn_42.md) is predicated as *ehipassika*, the
 *Dharma* is something "you come and see." It is for this reason that
 *sammādassana* (*sammādiṭṭhi* in Sanskrit) is placed at the beginning of
 the Eightfold Noble Path.
@@ -413,7 +413,7 @@ function of the intellect consists in leading the mind to a higher field
 of consciousness by proposing all sorts of questions which are beyond
 itself. The mystery is solved by living it, by seeing into its working,
 by actually experiencing the significance of life, or by tasting the
-value of living. <span id="fr_43"></span>[9](#fn_43)
+value of living. <span id="fr_43"></span>[9](#fn_43.md)
 
 Tasting, seeing, experiencing, living-all these demonstrate that there
 is something common to enlightenment-experience and our
@@ -487,14 +487,14 @@ Renewal befalls all creatures under God; but for God there is no
 renewal, only all eternity. What is eternity?--It is characteristic of
 eternity that in it youth and being are the same, for eternity would not
 be eternal could it newly become and were not always. <span
-id="fr_44"></span>[10](#fn_44)
+id="fr_44"></span>[10](#fn_44.md)
 
 "Renewal" means "becoming" which is "transiency." What is eternal never
 knows "renewal," never grows old, remains forever "youthful," and
 transcends "demolition" or "annihilation" of all kinds. Enlightenment is
 to know what this "eternity" is, and this knowing consists in "knowing
 eternity-wise his \[God's\] is-ness free from becoming, and his nameless
-nothingness" <span id="fr_45"></span>[11](#fn_45) Eckhart is quite
+nothingness" <span id="fr_45"></span>[11](#fn_45.md) Eckhart is quite
 definite in giving us what kind of God he has in mind in this matter of
 knowing and not knowing:
 
@@ -509,7 +509,7 @@ of the unuttered God.--"What then shall I do?"--Thou shalt lose thy
 thy-ness and dissolve in his his-ness; thy thine shall be his mine, so
 utterly one mine that thou in him shalt know eternalwise his is-ness,
 free from becoming: his nameless nothingness. <span
-id="fr_46"></span>[12](#fn_46)
+id="fr_46"></span>[12](#fn_46.md)
 
 \[paragraph continues\] Eckhart's God of nameless nothingness is in
 Buddhist terms no other than the egolessness of all things, the
@@ -589,7 +589,7 @@ external objects with their multitudinous individual marks are
 non-existent, and only appear before us as something revealed out of
 Mind itself. Therefore, Mahāmati, you must try to keep yourself away
 from the various forms of word-discrimination. <span
-id="fr_47"></span>[13](#fn_47)
+id="fr_47"></span>[13](#fn_47.md)
 
 Word-discrimination belongs to the *samvṛitti*, to things of the
 relative world, and is not meant for communicating anything that goes
@@ -611,7 +611,7 @@ naught, it knows no yesterday or day before, no morrow or day after (for
 in eternity there is no yesterday or morrow): therein it is the present
 now; the happenings of the thousand years ago, a thousand years to come,
 are there in the present and the antipodes the same as here. <span
-id="fr_48"></span>[14](#fn_48)
+id="fr_48"></span>[14](#fn_48.md)
 
 The first two kinds apply to the world of senses and the intellect where
 language has its utmost usefulness. But when we try to use it in the
@@ -639,7 +639,7 @@ Nothing created is free. While there is aught above
 
 me, excepting God himself, it must constrain me, however \[great\]; even
 love and knowledge, so far as it is creature and not actually God,
-confines me with its limits. <span id="fr_49"></span>[15](#fn_49)
+confines me with its limits. <span id="fr_49"></span>[15](#fn_49.md)
 
 Let us first see what linguistics would say about this statement. Its
 reasoning may run something, like this: "When Eckhart expresses himself
@@ -660,7 +660,7 @@ I was thinking lately: that *I am a man* belongs to other men in common
 with myself; I see and hear and eat and drink like any other animal; but
 that *I am* belongs to no one but myself, not to man nor angel, no, nor
 yet to God excepting in so far as I am one with him. <span
-id="fr_50"></span>[16](#fn_50)
+id="fr_50"></span>[16](#fn_50.md)
 
 In the latter part of the same sermon, Eckhart adds: "*Ego*, the word
 'I,' is proper to none but to God himself in his sameness." This "I" is
@@ -675,7 +675,7 @@ spiritual light, anon I say it is a spark. But now I say: it is neither
 this nor that. Yet it is somewhat: somewhat more exalted over this and
 that than the heavens are above the earth. . . . It is of all names
 free, of all forms void: exempt and free as God is in himself. <span
-id="fr_51"></span>[17](#fn_51)
+id="fr_51"></span>[17](#fn_51.md)
 
 Our language is the product of a world of numbers and individuals of
 yesterdays and todays and tomorrows, and is most usefully applicable to
@@ -695,7 +695,7 @@ Let us see how impossible it is to bring a transcendental world or an
 
 There is something, transcending the soul's created nature, not
 accessible to creature, non-existent; no angel has gotten it for his is
-a clear <span id="fr_52"></span>[18](#fn_52) nature, and clear and overt
+a clear <span id="fr_52"></span>[18](#fn_52.md) nature, and clear and overt
 things have no concern with this. It is akin to Deity, intrinsically
 one, having naught in
 
@@ -707,19 +707,19 @@ naught thyself an instant, less than an instant, I should say, all that
 this is in itself would belong to thee. But while thou dost mind thyself
 at all thou knowest no more of God than my mouth does of colour or my
 eye of taste: so little thou knowest, thou discernest, what God
-is. <span id="fr_53"></span>[19](#fn_53)
+is. <span id="fr_53"></span>[19](#fn_53.md)
 
 What "a baffling thing" this "something" or "somewhat" is! But it is no
 doubt a light and if you can get a glimpse into it even "less than an
 instant" you will be master of yourself. Plato describes the light in
 the following words: It is "a light which is not in this world; not in
 the world and not out of the world; not in time nor in eternity; it has
-neither in nor out." <span id="fr_54"></span>[20](#fn_54) Linguistically
+neither in nor out." <span id="fr_54"></span>[20](#fn_54.md) Linguistically
 considered, how could a thing be said to be "neither in the world nor in
 out-of-the-world"? Nothing can be more absurd than this. But, as Eckhart
 says (Evans, p. 227), when we transcend time (*zit*), body
 (*liplicheit*), and multiplicity (*manicvaltikelt*), <span
-id="fr_55"></span>[21](#fn_55) we reach God, and these three things are
+id="fr_55"></span>[21](#fn_55.md) we reach God, and these three things are
 the very principle of linguistics. No wonder that when things of the
 *lokottara* try to find their expression through language, the latter
 shows every trace of its shortcomings. This is the reason why Zen
@@ -754,9 +754,9 @@ premeditated or deliberately schematized in his concept-filled mind.
 With one swing of the sword he cut asunder every obstacle that lay in
 our way, thereby releasing us from the fetters of linguistic
 discrimination. We are now no more to be troubled with right and wrong
-gain and loss." <span id="fr_56"></span>[22](#fn_56)
+gain and loss." <span id="fr_56"></span>[22](#fn_56.md)
 
-The following *mondo* <span id="fr_57"></span>[23](#fn_57) will
+The following *mondo* <span id="fr_57"></span>[23](#fn_57.md) will
 demonstrate how free Zen is in dealing, for instance, with the ultimate
 problem of being:
 
@@ -820,14 +820,14 @@ eternity. If time present (if it is not time) only cometh into
 existence, because it passeth into time past, how can we say that either
 this is, whose cause of being is, that it shall not be; so, namely, that
 we cannot truly say that time is, but because it is tending not to
-be? <span id="fr_58"></span>[24](#fn_58)
+be? <span id="fr_58"></span>[24](#fn_58.md)
 
 Time is really an eternally puzzling problem, especially when it is
 handled at the level of linguistics. As far as linguistics is concerned,
 the best way to approach the question will be as Eckhart suggests, to
 consider human beings born "between one and two. The one is eternity,
 ever alone and without variation. The two is time, changing and given to
-multiplication." <span id="fr_59"></span>[25](#fn_59) Following this
+multiplication." <span id="fr_59"></span>[25](#fn_59.md) Following this
 line of thought, Eckhart goes on to say in another sermon on "poverty":
 
 . . . therefore, I am my own first cause, both of my eternal being and
@@ -843,7 +843,7 @@ pass away. In my eternal birth, however, everything was begotten. I was
 my own first cause as well as the first cause of everything else. If I
 had willed it, neither I nor the world would have come to be! If I had
 not been, there would have been no god. There is, however, no need to
-understand this. <span id="fr_60"></span>[26](#fn_60)
+understand this. <span id="fr_60"></span>[26](#fn_60.md)
 
 Whatever Eckhart might have meant by the statement, "There is, however,
 no need to understand this," it is impossible from the purely linguistic
@@ -870,24 +870,24 @@ that God and I are both
 
 the same. Then I am what I was, I neither wax nor wane, for I am the
 motionless cause that is moving all things." <span
-id="fr_61"></span>[27](#fn_61)
+id="fr_61"></span>[27](#fn_61.md)
 
 When this--regarding my self--is understood, we shall also be led to
 understand what Augustine says about God: "God is doing today all that
 shall be done in the thousands upon thousands of years of the future--if
 the world is to last so long--and that God is still doing today all he
 ever did in the many thousands of years of past." <span
-id="fr_62"></span>[28](#fn_62)
+id="fr_62"></span>[28](#fn_62.md)
 
 Now, both Eckhart and Augustine ask, "What can I do about it if anyone
 does not understand that?" or "If these words are misconstrued, what can
 one who puts their right construction on them do about it?" <span
-id="fr_63"></span>[29](#fn_63) To this, Eckhart answers consolingly: "If
+id="fr_63"></span>[29](#fn_63.md) To this, Eckhart answers consolingly: "If
 anyone does not understand this discourse, let him not worry about that,
 for if he does not find this truth in himself he cannot understand what
 I have said--for it is a discovered truth <span
-id="fr_64"></span>[30](#fn_64) which comes immediately from the heart of
-God." <span id="fr_65"></span>[31](#fn_65) The only thing that is left
+id="fr_64"></span>[30](#fn_64.md) which comes immediately from the heart of
+God." <span id="fr_65"></span>[31](#fn_65.md) The only thing that is left
 for us to do will be to follow Eckhart's advice and pray to God: "That
 we all may so live as to experience it eternally, may God help us!
 Amen."
@@ -914,7 +914,7 @@ wish to punctuate?" (Refreshments are known in Chinese as *t’ien-hsin*
 or *ten-jin* in Japanese, meaning "punctuating the mind," hence the
 question.) Tokusan was altogether nonplused and did not know how to
 answer. He had to go without anything to eat. <span
-id="fr_66"></span>[32](#fn_66)
+id="fr_66"></span>[32](#fn_66.md)
 
 Taking refreshments takes place in time. Out of time there is no taking
 of anything. The old teahouse keeper now asks the traveling monk what
@@ -944,7 +944,7 @@ uttering any sound, it is acting of some kind. In Eckhart's term, the
 trick is to insert "the soul's day" into "God's day" (Blakney, p. 212).
 God's day is characterized as containing all time in the present
 now-moment \[*in eime gegenwürtigen nu*\]. <span
-id="fr_67"></span>[33](#fn_67) To God, "a day, whether six thousand
+id="fr_67"></span>[33](#fn_67.md) To God, "a day, whether six thousand
 years ago, is just as near to the present as yesterday." We, of another
 kind of day where yesterday is yesterday and one thousand years is one
 thousand times more than a year, either to the past or to the future,
@@ -955,7 +955,7 @@ current among existentially minded modern men. They must somehow have
 "the refreshment" served. To have and yet not to have must really be the
 cause for worry and anxiety.
 
-I will quote a Zen sermon <span id="fr_68"></span>[34](#fn_68) to show
+I will quote a Zen sermon <span id="fr_68"></span>[34](#fn_68.md) to show
 how it differs from those sermons given by Eckhart, though it treats the
 same subject of time and eternity and the basic ideas do not differ so
 widely as they superficially appear. The Zen sermon was given by Daitō
@@ -976,10 +976,10 @@ acquaintance with each other. Thus they stand in opposition all over the
 world. Is this the state of affairs we greet on all side?"
 
 The master said, "All over the universe." <span
-id="fr_69"></span>[35](#fn_69)
+id="fr_69"></span>[35](#fn_69.md)
 
 The monk continued, "When the world has not yet come into
-existence, <span id="fr_70"></span>[36](#fn_70) how do we find a passage
+existence, <span id="fr_70"></span>[36](#fn_70.md) how do we find a passage
 to it?"
 
 The master: "We fold the hands before the monastery gate."
@@ -989,7 +989,7 @@ The monk: "Anything further?"
 The master: "We burn incense at the Buddha Hall."
 
 The monk: "I understand that, anciently, Hokuzen roasted the big white
-bullock <span id="fr_71"></span>[37](#fn_71) that used to roam at the
+bullock <span id="fr_71"></span>[37](#fn_71.md) that used to roam at the
 monastery courtyard and gave a feast to his monks to celebrate this
 memorable occasion. I wonder what kind of feast we are going to get this
 New Year's Eve?"
@@ -1000,7 +1000,7 @@ The monk: "In this case we of the Brotherhood will appreciate your
 generosity."
 
 As the monk bowing began to step back the master said, "What a fine
-golden-haired lion!" <span id="fr_72"></span>[38](#fn_72)
+golden-haired lion!" <span id="fr_72"></span>[38](#fn_72.md)
 
 The master now gives his regular sermon: "The old year passes away this
 evening. Let things go that are to go and
@@ -1064,7 +1064,7 @@ in the *Vinaya* and the *Majjhima Nikāya* and elsewhere to be
 understood. In the *gāthā* already quoted above from *The Dhammapada*
 (vv. 153, 154), something similar to the one below is noticeable, but
 the positive and dynamic aspect comes forward more strongly and
-conspicuously in the following: <span id="fr_73"></span>[39](#fn_73)
+conspicuously in the following: <span id="fr_73"></span>[39](#fn_73.md)
 
 I have conquered and I know all, <span id="page_68">p. 68</span>  
 I am enlightened quite by myself and have none as teacher.  
@@ -1074,7 +1074,7 @@ I am the one who is really worth,
 I am the most supreme teacher.  
 I am the only one who is fully enlightened.  
 I am tranquillized.  
-I am now in Nirvana. <span id="fr_74"></span>[40](#fn_74)
+I am now in Nirvana. <span id="fr_74"></span>[40](#fn_74.md)
 
 This victory song is expressive of the supreme moment of the
 enlightenment-experience which Buddha had. In the first verse depicting
@@ -1180,7 +1180,7 @@ very much active, and creative. Eckhart voices this idea when he states:
 "In this sense thy unknowing is not a defect but thy chief perfection,
 and suffering thy highest activity. Kill thy activities and still thy
 faculties if thou wouldst realize this birth in thee." <span
-id="fr_75"></span>[41](#fn_75)
+id="fr_75"></span>[41](#fn_75.md)
 
 Another thing I should like to emphasize in this *gāthā* of conquest is
 that Buddha calls himself "all-conqueror" and also "all-knower,"
@@ -1203,14 +1203,14 @@ suffer them all and never utter a word of ill-will. Eckhart would
 declare the sands on the Ganges to be "just" (*gerecht*), because "the
 just have no will at all: whatever God wishes it is all one to them,
 however great the discomfort may be." <span
-id="fr_76"></span>[42](#fn_76)
+id="fr_76"></span>[42](#fn_76.md)
 
 The just are so firmly devoted to justice and so wholly selfless that
 whatever they do, they regard neither the pains of hell nor the joys of
 heaven. . . . To the Just person, nothing is so hard to bear or so
 painful as anything opposed to justice, that is to say, as not feeling
 impartially the same about everything that happens. <span
-id="fr_77"></span>[43](#fn_77)
+id="fr_77"></span>[43](#fn_77.md)
 
 "Justice" savors a great deal of legalism contrary to the idea of love.
 But when, as Eckhart interprets it, justice is considered from the
@@ -1327,7 +1327,7 @@ Teacher: "You beat me with your argument."
 
 Monk: "When one is genuinely sincere one has nothing to be ashamed of."
 
-Teacher: "There are many like you." <span id="fr_78"></span>[44](#fn_78)
+Teacher: "There are many like you." <span id="fr_78"></span>[44](#fn_78.md)
 
 Daitō the national teacher then gave a short sermon:
 
@@ -1343,118 +1343,118 @@ filth."
 
 ### Footnotes
 
-<span id="fn_35"></span>[38:1](mcb04.htm#fr_35) The *Dhammapada*,
+<span id="fn_35"></span>[38:1](mcb04.htm#fr_35.md) The *Dhammapada*,
 translated by S. Radhakrishnan (Oxford University Press, 1951), verses
 277-9, pp. 146-7. I do not, however, always follow him in my quotations
 in this book.
 
-<span id="fn_36"></span>[39:2](mcb04.htm#fr_36) *Studies in Zen*
+<span id="fn_36"></span>[39:2](mcb04.htm#fr_36.md) *Studies in Zen*
 (London: Rider and Company, 1955), pp. 85-128.
 
-<span id="fn_37"></span>[40:3](mcb04.htm#fr_37) Evans, pp. 147 ff.
+<span id="fn_37"></span>[40:3](mcb04.htm#fr_37.md) Evans, pp. 147 ff.
 
-<span id="fn_38"></span>[42:4](mcb04.htm#fr_38) The Dhammapada, verse
+<span id="fn_38"></span>[42:4](mcb04.htm#fr_38.md) The Dhammapada, verse
 348, p. 167.
 
-<span id="fn_39"></span>[43:5](mcb04.htm#fr_39) Studies in the
+<span id="fn_39"></span>[43:5](mcb04.htm#fr_39.md) Studies in the
 *Lankāvatāra Sūtra*, pp. 223 ff.
 
-<span id="fn_40"></span>[43:6](mcb04.htm#fr_40) "*Sabbe dhamma anattā’
+<span id="fn_40"></span>[43:6](mcb04.htm#fr_40.md) "*Sabbe dhamma anattā’
 ti yadā paññāya passati*."
 
-<span id="fn_41"></span>[44:7](mcb04.htm#fr_41) *The Dhammapada*, pp.
+<span id="fn_41"></span>[44:7](mcb04.htm#fr_41.md) *The Dhammapada*, pp.
 153-4. (Published by Oxford University Press, 1936.)
 
-<span id="fn_42"></span>[46:8](mcb04.htm#fr_42) *Dhamma* in Pali. It has
+<span id="fn_42"></span>[46:8](mcb04.htm#fr_42.md) *Dhamma* in Pali. It has
 a multiple meaning and is difficult to render it uniformly. Here it
 stands for Truth, Reality, Norm.
 
-<span id="fn_43"></span>[48:9](mcb04.htm#fr_43) "O taste and see that
+<span id="fn_43"></span>[48:9](mcb04.htm#fr_43.md) "O taste and see that
 the Lord is good; blessed is the man that trusteth in him." (Psalms,
 34:8.)
 
-<span id="fn_44"></span>[50:10](mcb04.htm#fr_44) Evans, p. 246.
+<span id="fn_44"></span>[50:10](mcb04.htm#fr_44.md) Evans, p. 246.
 
-<span id="fn_45"></span>[50:11](mcb04.htm#fr_45) Pfeiffer, p. 319. "*Du
+<span id="fn_45"></span>[50:11](mcb04.htm#fr_45.md) Pfeiffer, p. 319. "*Du
 mit ime verstandest ewicliche sine ungewordene istikeit under sine
 ungenanten nihtheit*."
 
-<span id="fn_46"></span>[51:12](mcb04.htm#fr_46) Evans, p. 246.
+<span id="fn_46"></span>[51:12](mcb04.htm#fr_46.md) Evans, p. 246.
 
-<span id="fn_47"></span>[53:13](mcb04.htm#fr_47) *Lankāvatāra Sūtra*,
+<span id="fn_47"></span>[53:13](mcb04.htm#fr_47.md) *Lankāvatāra Sūtra*,
 translated by D. T. Suzuki (London: George Routledge and Sons, Ltd.,
 1932), p. 77.
 
-<span id="fn_48"></span>[54:14](mcb04.htm#fr_48) Evans, p. 228.
+<span id="fn_48"></span>[54:14](mcb04.htm#fr_48.md) Evans, p. 228.
 
-<span id="fn_49"></span>[55:15](mcb04.htm#fr_49) *Ibid*., p. 204.
+<span id="fn_49"></span>[55:15](mcb04.htm#fr_49.md) *Ibid*., p. 204.
 
-<span id="fn_50"></span>[55:16](mcb04.htm#fr_50) *Ibid*., p, 204,
+<span id="fn_50"></span>[55:16](mcb04.htm#fr_50.md) *Ibid*., p, 204,
 
-<span id="fn_51"></span>[56:17](mcb04.htm#fr_51) *Ibid*., p. 37.
+<span id="fn_51"></span>[56:17](mcb04.htm#fr_51.md) *Ibid*., p. 37.
 
-<span id="fn_52"></span>[56:18](mcb04.htm#fr_52) "*Ein luter wesen*" in
+<span id="fn_52"></span>[56:18](mcb04.htm#fr_52.md) "*Ein luter wesen*" in
 German. *Luter* means "intellectually or analytically clear and
 distinct," opposed to what may be called "metaphysically indefinite."
 
-<span id="fn_53"></span>[57:19](mcb04.htm#fr_53) Evans, pp. 204-5.
+<span id="fn_53"></span>[57:19](mcb04.htm#fr_53.md) Evans, pp. 204-5.
 
-<span id="fn_54"></span>[57:20](mcb04.htm#fr_54) Quoted by Eckhart,
+<span id="fn_54"></span>[57:20](mcb04.htm#fr_54.md) Quoted by Eckhart,
 Evans, p. 205.
 
-<span id="fn_55"></span>[57:21](mcb04.htm#fr_55) Pfeiffer, p. 296.
+<span id="fn_55"></span>[57:21](mcb04.htm#fr_55.md) Pfeiffer, p. 296.
 
-<span id="fn_56"></span>[58:22](mcb04.htm#fr_56) A more or less
+<span id="fn_56"></span>[58:22](mcb04.htm#fr_56.md) A more or less
 modernized interpretation given to Yengo's terse and loosely knit
 Chinese.
 
-<span id="fn_57"></span>[58:23](mcb04.htm#fr_57) Literally, "question
+<span id="fn_57"></span>[58:23](mcb04.htm#fr_57.md) Literally, "question
 and answer."
 
-<span id="fn_58"></span>[60:24](mcb04.htm#fr_58) St. Augustine,
+<span id="fn_58"></span>[60:24](mcb04.htm#fr_58.md) St. Augustine,
 *Confessions*, Book XI, 14.
 
-<span id="fn_59"></span>[60:25](mcb04.htm#fr_59) Evans, p. 134.
+<span id="fn_59"></span>[60:25](mcb04.htm#fr_59.md) Evans, p. 134.
 
-<span id="fn_60"></span>[61:26](mcb04.htm#fr_60) Blakney, p. 231.
+<span id="fn_60"></span>[61:26](mcb04.htm#fr_60.md) Blakney, p. 231.
 
-<span id="fn_61"></span>[62:27](mcb04.htm#fr_61) Evans, p. 221.
+<span id="fn_61"></span>[62:27](mcb04.htm#fr_61.md) Evans, p. 221.
 
-<span id="fn_62"></span>[62:28](mcb04.htm#fr_62) Blakney, p. 72.
+<span id="fn_62"></span>[62:28](mcb04.htm#fr_62.md) Blakney, p. 72.
 
-<span id="fn_63"></span>[62:29](mcb04.htm#fr_63) *Ibid*., pp. 72, 73.
+<span id="fn_63"></span>[62:29](mcb04.htm#fr_63.md) *Ibid*., pp. 72, 73.
 
-<span id="fn_64"></span>[62:30](mcb04.htm#fr_64) "*Ein unbedahtiu
+<span id="fn_64"></span>[62:30](mcb04.htm#fr_64.md) "*Ein unbedahtiu
 warheit*" (Pfeiffer, p. 284), that is, a truth not premeditated but
 spontaneously coming to mind.
 
-<span id="fn_65"></span>[62:31](mcb04.htm#fr_65) Blakney, p. 232.
+<span id="fn_65"></span>[62:31](mcb04.htm#fr_65.md) Blakney, p. 232.
 
-<span id="fn_66"></span>[63:32](mcb04.htm#fr_66) *Studies in Zen*, p.
+<span id="fn_66"></span>[63:32](mcb04.htm#fr_66.md) *Studies in Zen*, p.
 126.
 
-<span id="fn_67"></span>[64:33](mcb04.htm#fr_67) Pfeiffer, p. 265.
+<span id="fn_67"></span>[64:33](mcb04.htm#fr_67.md) Pfeiffer, p. 265.
 
-<span id="fn_68"></span>[64:34](mcb04.htm#fr_68) From the *Sayings of
+<span id="fn_68"></span>[64:34](mcb04.htm#fr_68.md) From the *Sayings of
 Daitō Kokushi*.
 
-<span id="fn_69"></span>[65:35](mcb04.htm#fr_69) The original literally
+<span id="fn_69"></span>[65:35](mcb04.htm#fr_69.md) The original literally
 has, "The thirty-three heavens and the twenty-eight constellations."
 
-<span id="fn_70"></span>[65:36](mcb04.htm#fr_70) Literally, "When the
+<span id="fn_70"></span>[65:36](mcb04.htm#fr_70.md) Literally, "When the
 firework has not yet been cracked."
 
-<span id="fn_71"></span>[65:37](mcb04.htm#fr_71) "The white bullock" is
+<span id="fn_71"></span>[65:37](mcb04.htm#fr_71.md) "The white bullock" is
 the symbol for the Highest Reality.
 
-<span id="fn_72"></span>[65:38](mcb04.htm#fr_72) This is a more or less
+<span id="fn_72"></span>[65:38](mcb04.htm#fr_72.md) This is a more or less
 ironical remark on the part of the master.
 
-<span id="fn_73"></span>[67:39](mcb04.htm#fr_73) *The Vinaya*, I, p. 8.
+<span id="fn_73"></span>[67:39](mcb04.htm#fr_73.md) *The Vinaya*, I, p. 8.
 *The Majjhima Nikāya* (translated by Lord Chalmers, published by Oxford
 University Press), 26, p. 12.
 
-<span id="fn_74"></span>[68:40](mcb04.htm#fr_74) It will be interesting
+<span id="fn_74"></span>[68:40](mcb04.htm#fr_74.md) It will be interesting
 to note that we have another *gāthā* in *The Dhammapada*, v. 353, which
 also echoes the same sentiment as the one here quoted from another
 source. It is possible that they are from one and the same original
@@ -1465,19 +1465,19 @@ from taint. I have left all, and through the destruction of thirst I am
 free. Having by myself attained specific knowledge, to whom can I point
 as my teacher?
 
-<span id="fn_75"></span>[71:41](mcb04.htm#fr_75) Evans, p. 14. "This
+<span id="fn_75"></span>[71:41](mcb04.htm#fr_75.md) Evans, p. 14. "This
 birth" in this sermon means "the newborn Being" or "the child of man
 turned into the child of God." It also means "hearing of the Word" which
 is revealed to "one who knows aright in unknowing."
 
-<span id="fn_76"></span>[72:42](mcb04.htm#fr_76) Blakney, p. 179.
+<span id="fn_76"></span>[72:42](mcb04.htm#fr_76.md) Blakney, p. 179.
 
-<span id="fn_77"></span>[72:43](mcb04.htm#fr_77) *Ibid*.
+<span id="fn_77"></span>[72:43](mcb04.htm#fr_77.md) *Ibid*.
 
-<span id="fn_78"></span>[75:44](mcb04.htm#fr_78) These questions and
+<span id="fn_78"></span>[75:44](mcb04.htm#fr_78.md) These questions and
 answers may sound somewhat enigmatic to most of our readers. A full
 explanation will be given elsewhere on a more opportune occasion.
 
 ------------------------------------------------------------------------
 
-[Next: III. ''A Little Point'' and Satori](mcb05)
+[Next: III. ''A Little Point'' and Satori](mcb05.md)

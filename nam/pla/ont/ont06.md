@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont05)  [Next](ont07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont05)  [Next](ont07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -57,7 +57,7 @@ exasperating element in the
 
 <span id="img_03700"></span> <span align="CENTER">
 [![SUNRISE.](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)  
+Click to enlarge](img/03700.jpg.md)  
 SUNRISE.  
 </span>
 
@@ -78,7 +78,7 @@ imprecation), joined the outfit. Although he
 
 <span id="img_03800"></span> <span align="CENTER"> [![REPACKING
 (BAGGAGE) BUCK.](tn/03800.jpg)  
-Click to enlarge](img/03800.jpg)  
+Click to enlarge](img/03800.jpg.md)  
 REPACKING (BAGGAGE) BUCK.  
 </span>
 
@@ -130,7 +130,7 @@ Siksikakoan went
 
 <span id="img_04000"></span> <span align="CENTER"> [![A BLACKFOOT
 WARPATH.](tn/04000.jpg)  
-Click to enlarge](img/04000.jpg)  
+Click to enlarge](img/04000.jpg.md)  
 A BLACKFOOT WARPATH.  
 </span>
 
@@ -176,7 +176,7 @@ meadow, the pines standing tall and
 <span id="img_04200"></span> <span align="CENTER"> [![“AT THE UPPER END
 OF THE BASIN WAS A LAKE SURROUNDED BY AN UNBROKEN
 FOREST.”](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 “AT THE UPPER END OF THE BASIN WAS A LAKE SURROUNDED BY AN UNBROKEN
 FOREST.”  
 </span>
@@ -188,7 +188,7 @@ surrounded by an unbroken forest,
 
 <span id="img_04300"></span> <span align="CENTER"> [![TWO MEDICINE FALLS
 AND MOUNT RISING WOLF.](tn/04300.jpg)  
-Click to enlarge](img/04300.jpg)  
+Click to enlarge](img/04300.jpg.md)  
 TWO MEDICINE FALLS AND MOUNT RISING WOLF.  
 </span>
 
@@ -230,7 +230,7 @@ depression in the ground filled with long soft grass,
 
 <span id="img_04400"></span> <span align="CENTER"> [![HUNTING CAMP IN
 THE ROCKY MOUNTAINS](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)  
+Click to enlarge](img/04400.jpg.md)  
 HUNTING CAMP IN THE ROCKY MOUNTAINS  
 </span>
 
@@ -245,7 +245,7 @@ perfectly still. A grunting and snuffing, close by my head,
 
 <span id="img_04500"></span> <span align="CENTER"> [![“OUR LODGE WAS
 PITCHED AT THE EDGE OF THE FOREST.”](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)  
+Click to enlarge](img/04500.jpg.md)  
 “OUR LODGE WAS PITCHED AT THE EDGE OF THE FOREST.”  
 </span>
 
@@ -396,7 +396,7 @@ kitchen, tearing off the canvas covering from a mess of trout. Having
 safely passed through what I thought was the crisis of his visit, I
 actually began to take a friendly interest in the old grizzly's
 performances, and watched him from the doorway. He tore open the
-parfleches <span id="fr_12"></span>[1](#fn_8) containing flour and sugar
+parfleches <span id="fr_12"></span>[1](#fn_8.md) containing flour and sugar
 and smelled at the heavy iron "dutch-oven" containing a small piece of
 butter, my greatest delicacy, although not very fresh. He turned the
 oven over and over, but the lid held fast. Finally he gave it a heavy
@@ -471,7 +471,7 @@ a year that their
 
 <span id="page_53">p. 53</span>
 
-lodge poles were worn too short. <span id="fr_13"></span>[1](#fn_9)
+lodge poles were worn too short. <span id="fr_13"></span>[1](#fn_9.md)
 Every spring they went into the mountains to cut new poles and to dig
 camass roots.
 
@@ -623,12 +623,12 @@ band (clan of Grease Melters)."
 
 ### Footnotes
 
-<span id="fn_8"></span>[50:1](ont06.htm#fr_12) See
-[Appendix](ont44.htm#an_50).
+<span id="fn_8"></span>[50:1](ont06.htm#fr_12.md) See
+[Appendix](ont44.htm#an_50.md).
 
-<span id="fn_9"></span>[53:1](ont06.htm#fr_13) See
-[Appendix](ont44.htm#an_53).
+<span id="fn_9"></span>[53:1](ont06.htm#fr_13.md) See
+[Appendix](ont44.htm#an_53.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. A Rocky Mountain Blizzard](ont07)
+[Next: Chapter IV. A Rocky Mountain Blizzard](ont07.md)

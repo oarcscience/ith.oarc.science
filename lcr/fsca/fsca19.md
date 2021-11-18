@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca18)  [Next](fsca20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca18)  [Next](fsca20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -45,7 +45,7 @@ useless<span id="img_09300"></span>
 
 |                                                                       |
 |-----------------------------------------------------------------------|
-| ![Crest, a Dragon's Head erased collared and chained.](img/09300.jpg) |
+| ![Crest, a Dragon's Head erased collared and chained.](img/09300.jpg.md) |
 
 proportion, and most unlike his ancient prototype the crocodile. This
 error of our modern heraldic artists displays remarkable lack of proper
@@ -57,7 +57,7 @@ form is infinitely to be preferred as a work of symbolic art.
 <span id="page_94">p. 94</span>
 
 <span id="img_09400"></span> ![Arms of the City of
-London](img/09400.jpg)
+London](img/09400.jpg.md)
 
 <span class="smallcaps">Arms of the City of London</span>.—Two dragons
 are the supporters of the arms of the City of London, the crest a
@@ -72,7 +72,7 @@ The crest is *a dragon's sinister wing charged with a similar cross*.
 supporters two dragons, each holding an ostrich feather.
 
 Basingstoke, Linlithgow and Dumfries on the town seals have St. Michael
-overthrowing the dragon (*see* [p. 72](fsca15.htm#page_72)).
+overthrowing the dragon (*see* [p. 72](fsca15.htm#page_72).md).
 
 The dragon appears in various forms in the arms of many towns, and also
 in those of some peers.
@@ -85,7 +85,7 @@ id="img_09500"></span>
 
 |                                                                     |
 |---------------------------------------------------------------------|
-| ![Sinister supporter of the arms of Viscount Gough.](img/09500.jpg) |
+| ![Sinister supporter of the arms of Viscount Gough.](img/09500.jpg.md) |
 
 of the shield is a dragon (intended to represent the device upon a
 Chinese flag). *A dragon or, gorged with a mural crown sable, inscribed
@@ -114,4 +114,4 @@ consequence being diminished in its relative size.
 
 ------------------------------------------------------------------------
 
-[Next: The Hydra](fsca20)
+[Next: The Hydra](fsca20.md)

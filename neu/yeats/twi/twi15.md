@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi14)  [Next](twi16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi14)  [Next](twi16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ him also. In a moment he was corroborated by the girl, who said that
 bursts of laughter had begun to mingle with the music, the confused
 talking, and the noise of feet. She next saw a bright light streaming
 out of the cave, which seemed to have grown much deeper, and a quantity
-of little people, <span id="fr_5"></span>[1](#fn_5) in various coloured
+of little people, <span id="fr_5"></span>[1](#fn_5.md) in various coloured
 
 <span id="page_93">p. 93</span>
 
@@ -117,7 +117,7 @@ and let me see again the shadowy blossom of thy dim hair.
 
 ### Footnotes
 
-<span id="fn_5"></span>[92:1](twi15.htm#fr_5) The people and faeries in
+<span id="fn_5"></span>[92:1](twi15.htm#fr_5.md) The people and faeries in
 Ireland are sometimes as big as we are, sometimes bigger, and sometimes,
 as I have been told, about three feet high. The <span id="page_93">p.
 93</span> Old Mayo woman I so often quote, thinks that it is something
@@ -125,4 +125,4 @@ in our eyes that makes them seem big or little.
 
 ------------------------------------------------------------------------
 
-[Next: 'And Fair, Fierce Women'](twi16)
+[Next: 'And Fair, Fierce Women'](twi16.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc050) 
-[Next](motc052) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc050.md) 
+[Next](motc052.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ dye the cane splits for their baskets.
 
 ------------------------------------------------------------------------
 
-[Next: 52. The Red Man And The Uktena](motc052)
+[Next: 52. The Red Man And The Uktena](motc052.md)

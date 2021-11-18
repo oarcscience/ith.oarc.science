@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft05)  [Next](zft07) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft05)  [Next](zft07.md) 
 
 ------------------------------------------------------------------------
 
@@ -910,4 +910,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Serpent Of The Sea](zft07)
+[Next: The Serpent Of The Sea](zft07.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth00) 
-[Next](dth02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth00.md) 
+[Next](dth02.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ cannot fail in the long run if you will persist and persevere.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](dth02)
+[Next: Part I](dth02.md)

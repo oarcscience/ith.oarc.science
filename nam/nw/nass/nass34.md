@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass33)  [Next](nass35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass33)  [Next](nass35.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ boys feed each end with five seals and the canoe takes them home.
 
 ------------------------------------------------------------------------
 
-[Next: The Sealion Hunters](nass35)
+[Next: The Sealion Hunters](nass35.md)

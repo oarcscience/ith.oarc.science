@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](bow11)  [Next](bow13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](bow11)  [Next](bow13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Were-Wolves*, by Sabine Baring-Gould, \[1865\], at
 Intangible Textual Heritage
 
@@ -651,4 +651,4 @@ him who bad once been his close friend and adviser.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Maréchal de Retz.--II. The Trial](bow13)
+[Next: Chapter XII. The Maréchal de Retz.--II. The Trial](bow13.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977868/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977868/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977868/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](iq00)    [Page
-Index](pageidx)    [Text](iq.txt)
+[Contents](#contents)    [Start Reading](iq00.md)    [Page
+Index](pageidx)    [Text](iq.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -42,34 +42,34 @@ Iqbal is both the the intellectual founder of Pakistan, and its national
 poet. This poem was composed in Persian, using traditional Persian
 styles and tropes, and published in Lahore in 1915. The translator was
 the English orientalist [Reynold A.
-Nicholson](../../cat/srchauth.htm?search_str=nicholson). Nicholson later
+Nicholson](../../cat/srchauth.htm?search_str=nicholson.md). Nicholson later
 went on to produce the first full critical translation of Rumi's Masnavi
 into English.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](iq00)  
-[Contents](iq01)  
-[Introduction](iq02)  
-[Prologue](iq03)  
-[I. The System of the Universe Originates in the Self](iq04)  
-[II. The Life of the Self Comes From Forming Desires](iq05)  
-[III. The Self is Strengthened by Love](iq06)  
-[IV. The Self is Weakened by Asking](iq07)  
+<span id="contents"></span> [Title Page](iq00.md)  
+[Contents](iq01.md)  
+[Introduction](iq02.md)  
+[Prologue](iq03.md)  
+[I. The System of the Universe Originates in the Self](iq04.md)  
+[II. The Life of the Self Comes From Forming Desires](iq05.md)  
+[III. The Self is Strengthened by Love](iq06.md)  
+[IV. The Self is Weakened by Asking](iq07.md)  
 [V. Strengthened by Love it Gains Dominion Over the Forces of the
-Universe](iq08)  
-[VI. Negation of the Self](iq09)  
-[VII. We Must be on Guard Against Platonism](iq10)  
+Universe](iq08.md)  
+[VI. Negation of the Self](iq09.md)  
+[VII. We Must be on Guard Against Platonism](iq10.md)  
 [VIII. The True Nature of Poetry and the Reform of Islamic
-Literature](iq11)  
-[IX. The Three States in the Education of the Self](iq12)  
-[X. Inner Meanings of the Names of Ali](iq13)  
-[XI. The Young Man of Merv and Saint Ali Hujwírí](iq14)  
-[XII. The Bird that was Faint with Thirst](iq15)  
-[XIII. Story of the Diamond and the Coal](iq16)  
+Literature](iq11.md)  
+[IX. The Three States in the Education of the Self](iq12.md)  
+[X. Inner Meanings of the Names of Ali](iq13.md)  
+[XI. The Young Man of Merv and Saint Ali Hujwírí](iq14.md)  
+[XII. The Bird that was Faint with Thirst](iq15.md)  
+[XIII. Story of the Diamond and the Coal](iq16.md)  
 [XIV. The Sheikh and the Brahmin, and the Ganges and the
-Himalaya](iq17)  
-[XV. On Jihad](iq18)  
-[XVI. Precepts of Bábá Sahrá’í](iq19)  
-[XVII. Time is a Sword](iq20)  
-[XVIII. An Invocation](iq21)  
+Himalaya](iq17.md)  
+[XV. On Jihad](iq18.md)  
+[XVI. Precepts of Bábá Sahrá’í](iq19.md)  
+[XVII. Time is a Sword](iq20.md)  
+[XVIII. An Invocation](iq21.md)  

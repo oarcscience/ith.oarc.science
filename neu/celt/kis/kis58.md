@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis57)  [Next](kis59) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis57)  [Next](kis59.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ and watched until his eyes had no power to see any more.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](kis59)
+[Next: Part I](kis59.md)

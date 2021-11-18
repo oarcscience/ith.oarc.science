@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu18)  [Next](tmu20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu18)  [Next](tmu20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_124">p. 124</span>
 
-### ṬĀRASĀRA-UPANISHAḌ <span id="fr_86"></span>[1](#fn_86)
+### ṬĀRASĀRA-UPANISHAḌ <span id="fr_86"></span>[1](#fn_86.md)
 
 ### OF
 
@@ -32,10 +32,10 @@ which is called Kuruksheṭra is the place of the sacrifice of the Ḍevas
 and the spiritual seat of all beings. Therefore where should one go in
 order that he may cognize Kuruksheṭra, the place of the sacrifice of the
 Ḍevas and the spiritual seat of all beings?" (To which Yājñavalkya
-replied:) "Avimukṭa <span id="fr_87"></span>[2](#fn_87) is Kuruksheṭra,
+replied:) "Avimukṭa <span id="fr_87"></span>[2](#fn_87.md) is Kuruksheṭra,
 the place of the sacrifice of the Ḍevas and of the study of Brahman,
 because it is there that Ruḍra initiates one into the Ṭāraka <span
-id="fr_88"></span>[3](#fn_88) Brahman when prāṇa (life) goes out.
+id="fr_88"></span>[3](#fn_88) Brahman when prāṇa (life.md) goes out.
 Through this, one becomes immortal and the enjoyer of moksha. Therefore
 one should always be in the midst of that place avimukṭa, and should
 never leave, O reverend sir, avimukṭa." Thus said Yājñavalkya.
@@ -66,10 +66,10 @@ seventh; and that which is beyond these is the eighth. It is called
 Ṭāraka, because it enables one to cross this mundane existence. Know
 that Ṭāraka alone is Brahman and it alone should be worshipped." The
 (following) verses may be quoted here: "From the letter A came Brahmā
-named Jāmbavān (the bear <span id="fr_89"></span>[1](#fn_89)). From the
-letter U came Upenḍra <span id="fr_90"></span>[2](#fn_90), named Hari.
+named Jāmbavān (the bear <span id="fr_89"></span>[1](#fn_89).md). From the
+letter U came Upenḍra <span id="fr_90"></span>[2](#fn_90.md), named Hari.
 From the letter M came Śiva, known as Hanumān <span
-id="fr_91"></span>[3](#fn_91). Binḍu is named Īśvara and is Śaṭrughna,
+id="fr_91"></span>[3](#fn_91.md). Binḍu is named Īśvara and is Śaṭrughna,
 the Lord of the discus itself. Nāḍa should be known as the great Lord
 named Bharaṭa and the sound of the conch itself. From Kalā came the
 Purusha himself as Lakshmaṇa and the bearer of the earth. Kalāṭīṭa is
@@ -100,11 +100,11 @@ described by (the letter) M and is of the form of Śiva (or), Hanumān and
 Bhūḥ, Bhuvaḥ, and Suvaḥ: Salutation to Him.
 
 "(4th Manṭra:) Om. He who is Śri-Paramāṭmā, Nārāyaṇa, the Lord of
-Śaṭrughna <span id="fr_92"></span>[1](#fn_92) of the form of Binḍu and
+Śaṭrughna <span id="fr_92"></span>[1](#fn_92.md) of the form of Binḍu and
 the Bhūḥ, Bhuvaḥ, and Suvaḥ: Salutation to Him.
 
 "(5th Manṭra:) Om. He who is Śri-Paramāṭmā, Nārāyaṇa, and the Lord, and
-is Bharaṭa <span id="fr_93"></span>[1](#fn_92) of the form of Nāḍa and
+is Bharaṭa <span id="fr_93"></span>[1](#fn_92.md) of the form of Nāḍa and
 the Bhūḥ Bhuvaḥ, and Suvaḥ: Salutation to Him.
 
 "(6th Manṭra:) Om. He who is Śri-Paramāṭmā, Nārāyaṇa, and the Lord, and
@@ -147,25 +147,25 @@ third foot.
 
 ### Footnotes
 
-<span id="fn_86"></span>[124:1](tmu19.htm#fr_86) This Upanishaḍ treats
+<span id="fn_86"></span>[124:1](tmu19.htm#fr_86.md) This Upanishaḍ treats
 of the sāra (essence) for ṭāra (crossing).
 
-<span id="fn_87"></span>[124:2](tmu19.htm#fr_87) It is one of the many
+<span id="fn_87"></span>[124:2](tmu19.htm#fr_87.md) It is one of the many
 names given to Benares.
 
-<span id="fn_88"></span>[124:3](tmu19.htm#fr_88) Ṭāraka is Om—from *ṭṛ*,
+<span id="fn_88"></span>[124:3](tmu19.htm#fr_88.md) Ṭāraka is Om—from *ṭṛ*,
 to cross.
 
-<span id="fn_89"></span>[125:1](tmu19.htm#fr_89) As the bear, Brahmā,
+<span id="fn_89"></span>[125:1](tmu19.htm#fr_89.md) As the bear, Brahmā,
 incarnated according to the 'Rāmāyaṇa'.
 
-<span id="fn_90"></span>[125:2](tmu19.htm#fr_90) As Upenḍra, Vishṇu
+<span id="fn_90"></span>[125:2](tmu19.htm#fr_90.md) As Upenḍra, Vishṇu
 incarnates in the lower ṭala as well in the legs in man.
 
-<span id="fn_91"></span>[125:3](tmu19.htm#fr_91) Hanumān is the
+<span id="fn_91"></span>[125:3](tmu19.htm#fr_91.md) Hanumān is the
 incarnation of vāyu, one of the elements of Śiva.
 
-<span id="fn_92"></span>[126:1](tmu19.htm#fr_93) Bharaṭa is rather the
+<span id="fn_92"></span>[126:1](tmu19.htm#fr_93.md) Bharaṭa is rather the
 incarnation of discus or consciousness and Saṭrughna, that of
 conch—via., ākāsic sound.
 
@@ -173,6 +173,6 @@ conch—via., ākāsic sound.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Nārāyaṇa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu20)
+[Next: 18. Nārāyaṇa-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu20.md)
 
 </div>

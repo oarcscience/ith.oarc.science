@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had08)  [Next](had10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had08)  [Next](had10.md) 
 
 ------------------------------------------------------------------------
 
@@ -391,4 +391,4 @@ of a tribe in Yaman and Ziyād was a member of this tribe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Jamā'ah or Congregation](had10)
+[Next: Chapter VII: Jamā'ah or Congregation](had10.md)

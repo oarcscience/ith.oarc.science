@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mlcr03)  [Next](mlcr05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mlcr03)  [Next](mlcr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -1123,4 +1123,4 @@ fairy vengeance wrought on the great-grandson of Eochy the High King.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Tales of the Ultonian Cycle](mlcr05)
+[Next: Chapter V: Tales of the Ultonian Cycle](mlcr05.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos02)  [Next](flos04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos02)  [Next](flos04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -73,11 +73,11 @@ observed that well acquainted, from the rural habits of his early life,
 with the notions of the peasantry respecting these beings, he saw that
 they were capable of being applied to a production of a species of the
 wonderful. Hence, as Mr Halliwell Phillipps <span
-id="fr_0"></span>[1](#fn_0) has so aptly written, "he founded his elfin
+id="fr_0"></span>[1](#fn_0.md) has so aptly written, "he founded his elfin
 world on the prettiest of the people's traditions, and has clothed it in
 the ever-living flowers of his own exuberant fancy." Referring to the
 fairy mythology in the "Midsummer Night's Dream," it is described by Mr
-Keightley <span id="fr_1"></span>[2](#fn_1) as an attempt to blend "the
+Keightley <span id="fr_1"></span>[2](#fn_1.md) as an attempt to blend "the
 elves of the village with the fays of romance. His fairies agree with
 the former in their diminutive stature—diminished, indeed, to dimensions
 inappreciable by village gossips—in their fondness for dancing, their
@@ -142,22 +142,22 @@ Doubly supplide, in spousall and dominion."</span>
 </div>
 
 "Oboram, King of Fayeries," is one of the characters in Greene's "James
-the Fourth." <span id="fr_2"></span>[1](#fn_2)
+the Fourth." <span id="fr_2"></span>[1](#fn_2.md)
 
    The name Titania for the queen of the fairies appears to
 
 <span id="page_4">p. 4</span>
 
 have been the invention of Shakespeare, for, as Mr Ritson <span
-id="fr_3"></span>[1](#fn_3) remarks, she is not "so called by any other
+id="fr_3"></span>[1](#fn_3.md) remarks, she is not "so called by any other
 writer." Why, however, the poet designated her by this title, presents,
-according to Mr Keightley, <span id="fr_4"></span>[2](#fn_4) no
+according to Mr Keightley, <span id="fr_4"></span>[2](#fn_4.md) no
 difficulty—"It was," he says, "the belief of those days that the fairies
 were the same as the classic nymphs, the attendants of Diana. The Fairy
 Queen was therefore the same as Diana whom Ovid (Met. iii. 173) styles
 Titania." In Chaucer's "Merchant's Tale," Pluto is the King of Faerie,
 and his queen, Proserpina, "who danced and sang about the well under the
-laurel in January's garden." <span id="fr_5"></span>[3](#fn_5)
+laurel in January's garden." <span id="fr_5"></span>[3](#fn_5.md)
 
    In "Romeo and Juliet" (i. 4) she is known by the more familiar
 appellation, Queen Mab. "I dream’d a dream tonight," says Romeo,
@@ -170,7 +170,7 @@ whereupon Mercutio replies, in that well-known famous passage—
 </div>
 
 —this being the earliest instance in which Mab is used to designate the
-fairy queen. Mr Thoms <span id="fr_6"></span>[4](#fn_6) thinks that the
+fairy queen. Mr Thoms <span id="fr_6"></span>[4](#fn_6.md) thinks that the
 origin of this name is to be found in the Celtic, and that it contains a
 distinct allusion to the diminutive form of the elfin sovereign. *Mab*,
 both in Welsh and in the kindred dialects of Brittany, signifies a child
@@ -288,9 +288,9 @@ Worcestershire, too, we read how the peasantry are occasionally
 And, according to Grose's "Provincial Glossary," in Hampshire they give
 the name of Colt-pixey to a supposed spirit or fairy, which, in the
 shape of a horse, neighs, and misleads horses into bogs. The Irish,
-again, have their Pooka, <span id="fr_7"></span>[1](#fn_7) and the Welsh
+again, have their Pooka, <span id="fr_7"></span>[1](#fn_7.md) and the Welsh
 their Pwcca—both words derived from Pouke or Puck. Mr Keightley <span
-id="fr_8"></span>[2](#fn_8) thinks, also, that the Scottish *pawkey*,
+id="fr_8"></span>[2](#fn_8.md) thinks, also, that the Scottish *pawkey*,
 sly, knowing, may belong to the same list of words. It is evident, then,
 that the term Puck was in bygone years extensively applied to the
 fairy-race, an appellation still found in the west of England. Referring
@@ -299,7 +299,7 @@ Shakespeare received his knowledge of the Cambrian fairies from his
 friend Richard Price, son of Sir John Price, of the Priory of Brecon. It
 is even claimed that Cwm Pwcca, or Puck Valley, a part of the romantic
 glen of the Clydach, in Breconshire, is the original scene of the
-"Midsummer Night's Dream." <span id="fr_9"></span>[3](#fn_9)
+"Midsummer Night's Dream." <span id="fr_9"></span>[3](#fn_9.md)
 
    Another of Puck's names was Robin Goodfellow, and one of the most
 valuable illustrations we have of the "Midsummer
@@ -310,8 +310,8 @@ valuable illustrations we have of the "Midsummer
 a black-letter tract published in London, 1628, under the title of
 "Robin Goodfellow: His Mad Pranks, and Merry Jests," full of honest
 mirth, and is a fit medicine for melancholy." <span
-id="fr_10"></span>[1](#fn_10) Mr Halliwell Phillipps, <span
-id="fr_11"></span>[2](#fn_11) speaking of Robin Goodfellow, says, "there
+id="fr_10"></span>[1](#fn_10.md) Mr Halliwell Phillipps, <span
+id="fr_11"></span>[2](#fn_11.md) speaking of Robin Goodfellow, says, "there
 can be no doubt that in the time of Shakespeare the fairies held a more
 prominent position in our popular literature than can be now concluded
 from the pieces on the subject that have descended to us." The author of
@@ -325,7 +325,7 @@ leading us astray over massive volumes of antiquity in a delusive search
 after documents for ever lost; or rather, perhaps, it is his punishment
 for the useless journeys he has given our ancestors, misleading
 night-wanderers, "and laughing at their harm." <span
-id="fr_12"></span>[3](#fn_12) He is mentioned by Drayton in his
+id="fr_12"></span>[3](#fn_12.md) He is mentioned by Drayton in his
 "Nymphidia"—
 
 <div style="margin-left: 32px">
@@ -337,13 +337,13 @@ id="fr_12"></span>[3](#fn_12) He is mentioned by Drayton in his
 
 "hob being the familiar or diminutive form of Robert and Robin, so that
 Hobgoblin is equivalent to Robin the Goblin, *i.e.*, Robin
-Goodfellow." <span id="fr_13"></span>[4](#fn_13) Burton, in his "Anatomy
+Goodfellow." <span id="fr_13"></span>[4](#fn_13.md) Burton, in his "Anatomy
 of Melancholy," alludes to him thus, "A bigger kinde there is of them,
 called with us hobgoblins and Robin Goodfellows, that would, in
 superstitious times grinde corne for a mess of milk, cut wood, or do any
 manner of drudgery work." Under his name of Robin Goodfellow, Puck is
 well characterized in Jonson's "Masque of Love Restored." <span
-id="fr_14"></span>[5](#fn_14)
+id="fr_14"></span>[5](#fn_14.md)
 
 <span id="page_8">p. 8</span>
 
@@ -353,7 +353,7 @@ Night's Dream" (ii. 1), where he is addressed by the fairy as—
 <div style="margin-left: 32px">
 
 <span class="small">"Thou Lob of spirits." <span
-id="fr_15"></span>[1](#fn_15)</span>
+id="fr_15"></span>[1](#fn_15.md)</span>
 
 </div>
 
@@ -361,12 +361,12 @@ With this we may compare the "lubber-fiend" of Milton, and the following
 in Beaumont and Fletcher's "Knight of the Burning Pestle (iii. 4):"
 "There is a pretty tale of a witch that had the devil's mark about her,
 that had a giant to be her son, that was called Lob-lye-by-the-Fire."
-Grimm <span id="fr_16"></span>[2](#fn_16) mentions a spirit, named the
+Grimm <span id="fr_16"></span>[2](#fn_16.md) mentions a spirit, named the
 "Good Lubber," to whom the bones of animals used to be offered at
 Manseld in Germany. Once more, the phrase of "being in," or "getting
 into Lob's pound," is easy of explanation, presuming Lob to be a fairy
 epithet—the term being equivalent to Poake-ledden or Pixy-led. <span
-id="fr_17"></span>[3](#fn_17) In "Hudibras," this term is employed as a
+id="fr_17"></span>[3](#fn_17.md) In "Hudibras," this term is employed as a
 name for the stocks in which the knight puts Crowdero—
 
 <div style="margin-left: 32px">
@@ -429,7 +429,7 @@ All exercise on thee."</span>
 
    Mr Douce regards the word urchin, when used to designate a fairy, of
 Celtic origin, with which view Mr Thoms <span
-id="fr_18"></span>[1](#fn_18) compares the *urisks* of Highland fairies.
+id="fr_18"></span>[1](#fn_18.md) compares the *urisks* of Highland fairies.
 
    The term "ouphe," according to Grimm, is only another form of the
 cognate *elf*, which corresponds with the Middle High German ulf, in the
@@ -474,7 +474,7 @@ cave, Belarius exclaims:—
 <div style="margin-left: 32px">
 
 <span class="small">"But that it eats our victuals, I should think  
- Here was a fairy." <span id="fr_19"></span>[1](#fn_19)</span>
+ Here was a fairy." <span id="fr_19"></span>[1](#fn_19.md)</span>
 
 </div>
 
@@ -491,7 +491,7 @@ And he then adds—
    The fairies, as represented in many of our old legends and
 folk-tales, are generally noticeable for their beauty, the same being
 the case with all their surroundings. As Sir Walter Scott <span
-id="fr_20"></span>[2](#fn_20) too says, "Their pageants and court
+id="fr_20"></span>[2](#fn_20.md) too says, "Their pageants and court
 entertainments comprehended all that the imagination could conceive of
 what were accounted gallant and splendid. At their processions they
 paraded more beautiful steeds than those of mere earthly parentage. The
@@ -500,7 +500,7 @@ race. At their daily banquets, the board was set forth with a splendour
 which the proudest kings of the earth dared not aspire to, and the hall
 of their dancers echoed to the most exquisite music."
 
-   Mr Douce <span id="fr_21"></span>[3](#fn_21) quotes from the romance
+   Mr Douce <span id="fr_21"></span>[3](#fn_21.md) quotes from the romance
 of "Lancelot of the Lake," where the author, speaking of the days of
 King Arthur, says, "En celui temps estoient appellees faees toutes
 selles qui sentre-mettoient denchantemens et de charmes, et moult en
@@ -592,7 +592,7 @@ Puck relates how he was in the habit of taking all kinds
 
 of outlandish forms; and in the "Tempest," Shakespeare has bequeathed to
 us a graphic account of Ariel's eccentricities. "Besides," says Mr
-Spalding, <span id="fr_22"></span>[1](#fn_22) "appearing in his natural
+Spalding, <span id="fr_22"></span>[1](#fn_22.md) "appearing in his natural
 shape, and dividing into flames, and behaving in such a manner as to
 cause young Ferdinand to leap into the sea, crying, 'Hell is empty, and
 all the devils are here!' he assumes the forms of a water nymph (i. 2),
@@ -621,7 +621,7 @@ to allude (i. 4) is said to come
 <div style="margin-left: 32px">
 
 <span class="small">"In shape no bigger than an agate stone <span
-id="fr_23"></span>[2](#fn_23)  
+id="fr_23"></span>[2](#fn_23.md)  
  On the fore-finger of an alderman."</span>
 
 </div>
@@ -703,8 +703,8 @@ that—
 it is evident that in Shakespeare's day fairies were supposed to be of
 the size of children. The notion of their diminutiveness, too, it
 appears was not confined to this country, <span
-id="fr_24"></span>[1](#fn_24) but existed in Denmark, <span
-id="fr_25"></span>[2](#fn_25) for in the ballad of Eline of Villenskov
+id="fr_24"></span>[1](#fn_24.md) but existed in Denmark, <span
+id="fr_25"></span>[2](#fn_25.md) for in the ballad of Eline of Villenskov
 we read—
 
 <div style="margin-left: 32px">
@@ -721,7 +721,7 @@ we read—
    Again, various stories are current in Germany descriptive of the
 fairy dwarfs; one of the most noted being that relating to Elberich, who
 aided the emperor Otnit to gain the daughter of the Paynim Soldan of
-Syria. <span id="fr_26"></span>[1](#fn_26)
+Syria. <span id="fr_26"></span>[1](#fn_26.md)
 
    The haunts of the fairies on earth are generally supposed to be the
 most romantic and rural that can be selected; such a spot being the
@@ -767,7 +767,7 @@ groves,
 Their haunts, however, varied in different localities, but their
 favourite abode was in the interior of conical green hills, on the
 slopes of which they danced by moonlight. <span
-id="fr_27"></span>[2](#fn_27)\* Milton in the "Paradise Lost" (Book i.)
+id="fr_27"></span>[2](#fn_27)\* Milton in the "Paradise Lost" (Book i..md)
 speaks of—
 
 <div style="margin-left: 32px">
@@ -789,17 +789,17 @@ At once with joy and fear his heart rebounds."</span>
 known as tumuli or barrows, whilst some of the Scottish fairies took up
 their abode under the "door-stane" or threshold of some particular
 house, to the inmates of which they administered good offices. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
    The so-called fairy-rings in old pastures <span
-id="fr_29"></span>[2](#fn_29)—little circles of a brighter green, within
+id="fr_29"></span>[2](#fn_29.md)—little circles of a brighter green, within
 which it is supposed the fairies dance by night—are now known to result
 from the outspreading propagation of a particular mushroom, the
 fairy-ringed fungus, by which the ground is manured for a richer
 following vegetation. An immense deal of legendary lore, however, has
 clustered round this curious phenomenon, popular superstition
 attributing it to the merry roundelays of the moonlight fairies <span
-id="fr_30"></span>[3](#fn_30). In the "Tempest" (v. 1) Prospero invokes
+id="fr_30"></span>[3](#fn_30). In the "Tempest" (v. 1.md) Prospero invokes
 the fairies as the "demi-puppets" that
 
 <div style="margin-left: 32px">
@@ -881,13 +881,13 @@ left undisturbed such of it as they perceived on the fairy-rings,
 apprehensive that the fairies should in revenge destroy their beauty.
 Nor was it considered safe to put the foot within the rings, lest they
 should be liable to the fairies’ power. <span
-id="fr_31"></span>[1](#fn_31) The "Athenian Oracle" (i. 397) mentions a
+id="fr_31"></span>[1](#fn_31) The "Athenian Oracle" (i. 397.md) mentions a
 popular belief that "if a house be built upon the ground where fairy
 rings are, whoever shall inhabit therein does wonderfully prosper."
 
    Speaking of their dress, we are told that they constantly wore green
 vests, unless they had some reason for changing their attire. <span
-id="fr_32"></span>[2](#fn_32)\* In the "Merry Wives of Windsor" (iv. 4)
+id="fr_32"></span>[2](#fn_32)\* In the "Merry Wives of Windsor" (iv. 4.md)
 they are spoken of as:—
 
 <div style="margin-left: 32px">
@@ -946,7 +946,7 @@ taking a nap, she says to her attendants:—
 </div>
 
    The author of "Round About Our Coal Fire" <span
-id="fr_33"></span>[1](#fn_33) tells us that "they had fine musick always
+id="fr_33"></span>[1](#fn_33.md) tells us that "they had fine musick always
 among themselves, and danced in a moonshiny night, around, or in, a
 ring."
 
@@ -995,7 +995,7 @@ of cleanliness and propriety, for the observance of which they were
 frequently said to reward good servants, by dropping money into their
 shoes in the night; and on the other hand, they were reported to punish
 most severely the sluts and slovenly, by pinching them black and
-blue. <span id="fr_34"></span>[1](#fn_34) Thus, in "A Midsummer Night's
+blue. <span id="fr_34"></span>[1](#fn_34.md) Thus, in "A Midsummer Night's
 Dream" (v. i.), Puck says:—
 
 <div style="margin-left: 32px">
@@ -1028,7 +1028,7 @@ and the fairies who haunt the towers of Windsor are enjoined:—
 </div>
 
 In Ben Jonson's ballad of "Robin Goodfellow," <span
-id="fr_35"></span>[2](#fn_35) we have a further illustration of this
+id="fr_35"></span>[2](#fn_35.md) we have a further illustration of this
 notion
 
 <div style="margin-left: 32px">
@@ -1087,7 +1087,7 @@ Dream" (v. 1), Oberon says:—
 </div>
 
 the object of their blessing being to bring peace upon the house of
-Theseus. Mr Douce <span id="fr_36"></span>[1](#fn_36) remarks, that the
+Theseus. Mr Douce <span id="fr_36"></span>[1](#fn_36.md) remarks, that the
 great influence which the belief in fairies had on the popular mind,
 "gave so much offence to the holy monks and friars, that they determined
 to exert all their power to expel these imaginary beings from the minds
@@ -1184,7 +1184,7 @@ Tale" (iii. 3) the shepherd says:—"It was told
 <span id="page_21">p. 21</span>
 
 me I should be rich by the fairies; " <span
-id="fr_37"></span>[1](#fn_37) and in "Cymbeline" (v. 4), Posthumous, on
+id="fr_37"></span>[1](#fn_37) and in "Cymbeline" (v. 4.md), Posthumous, on
 waking and finding the mysterious paper, exclaims—
 
 <div style="margin-left: 32px">
@@ -1203,7 +1203,7 @@ We are lucky, boy; and to be so still requires nothing but secrecy."
 
    The necessity of secrecy in fairy transactions of this kind is
 illustrated in Massinger and Field's play of the "Fatal Dowry," 1632
-(iv. 1), <span id="fr_38"></span>[2](#fn_38) where Romont says—
+(iv. 1), <span id="fr_38"></span>[2](#fn_38.md) where Romont says—
 
 <div style="margin-left: 32px">
 
@@ -1214,14 +1214,14 @@ illustrated in Massinger and Field's play of the "Fatal Dowry," 1632
 
    Amongst the many other good qualities belonging to the fairy tribe,
 we are told that they were humanely attentive to the youthful
-dead. <span id="fr_39"></span>[3](#fn_39) Thus Guiderius in "Cymbeline,"
+dead. <span id="fr_39"></span>[3](#fn_39.md) Thus Guiderius in "Cymbeline,"
 thinking that Imogen is dead (iv. 2), says—
 
 <div style="margin-left: 32px">
 
 <span class="small">"With female fairies will his tomb be haunted,  
  And worms will not come to thee;" <span
-id="fr_40"></span>[4](#fn_40)</span>
+id="fr_40"></span>[4](#fn_40.md)</span>
 
 </div>
 
@@ -1251,11 +1251,11 @@ in "Cymbeline" (ii. 2), prays on going to sleep—
 <div style="margin-left: 32px">
 
 <span class="small">"From fairies and the tempters of the night,  
- Guard me, beseech ye," <span id="fr_41"></span>[1](#fn_41)</span>
+ Guard me, beseech ye," <span id="fr_41"></span>[1](#fn_41.md)</span>
 
 </div>
 
-it must have been, says Mr Ritson, <span id="fr_42"></span>[2](#fn_42)
+it must have been, says Mr Ritson, <span id="fr_42"></span>[2](#fn_42.md)
 the *incubus* she was so afraid of.
 
    Hamlet too notices this imputed malignity of the fairies (i. 1)—
@@ -1264,7 +1264,7 @@ the *incubus* she was so afraid of.
 
 <span class="small">                     "Then no planet strikes,  
 Nor fairy takes, nor witch hath power to charm." <span
-id="fr_43"></span>[3](#fn_43)</span>
+id="fr_43"></span>[3](#fn_43.md)</span>
 
 </div>
 
@@ -1319,7 +1319,7 @@ mischievous humour in her composition, which is described by Mercutio in
 
    Another reprehensible practice attributed to the fairies was that of
 carrying off and exchanging children, such being designated
-changelings. <span id="fr_44"></span>[1](#fn_44) The special agent in
+changelings. <span id="fr_44"></span>[1](#fn_44.md) The special agent in
 transactions of the sort was also Queen Mab, and hence Mercutio says—
 
 <div style="margin-left: 32px">
@@ -1340,79 +1340,79 @@ an idle brain."
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](flos03.htm#fr_0) "Illustrations of the
+<span id="fn_0"></span>[2:1](flos03.htm#fr_0.md) "Illustrations of the
 Fairy Mythology of 'A Midsummer Night's Dream,'" 1845, p. xiii.
 
-<span id="fn_1"></span>[2:2](flos03.htm#fr_1) "Fairy Mythology," p. 325.
+<span id="fn_1"></span>[2:2](flos03.htm#fr_1.md) "Fairy Mythology," p. 325.
 
-<span id="fn_2"></span>[3:1](flos03.htm#fr_2) Aldis Wright's "Midsummer
+<span id="fn_2"></span>[3:1](flos03.htm#fr_2.md) Aldis Wright's "Midsummer
 Night's Dream," 1877, Preface, pp. xv., xvi.; Ritson's "Fairy
 Mythology," 1875, pp. 22, 23.
 
-<span id="fn_3"></span>[4:1](flos03.htm#fr_3) Essay on Fairies in "Fairy
+<span id="fn_3"></span>[4:1](flos03.htm#fr_3.md) Essay on Fairies in "Fairy
 Mythology of Shakespeare," p. 23.
 
-<span id="fn_4"></span>[4:2](flos03.htm#fr_4) "Fairy Mythology," 1878,
+<span id="fn_4"></span>[4:2](flos03.htm#fr_4.md) "Fairy Mythology," 1878,
 p. 325.
 
-<span id="fn_5"></span>[4:3](flos03.htm#fr_5) Notes to "A Midsummer
+<span id="fn_5"></span>[4:3](flos03.htm#fr_5.md) Notes to "A Midsummer
 Night's Dream," by Aldis Wright, 1877. Preface, p. xvi.
 
-<span id="fn_6"></span>[4:4](flos03.htm#fr_6) "Three Notelets on
+<span id="fn_6"></span>[4:4](flos03.htm#fr_6.md) "Three Notelets on
 Shakespeare," pp. 100-107.
 
-<span id="fn_7"></span>[6:1](flos03.htm#fr_7) See Croker's "Fairy
+<span id="fn_7"></span>[6:1](flos03.htm#fr_7.md) See Croker's "Fairy
 Legends of South of Ireland," 1862, p. 135.
 
-<span id="fn_8"></span>[6:2](flos03.htm#fr_8) "Fairy Mythology," 1878,
+<span id="fn_8"></span>[6:2](flos03.htm#fr_8.md) "Fairy Mythology," 1878,
 p. 316.
 
-<span id="fn_9"></span>[6:3](flos03.htm#fr_9) Wirt Sikes’ "British
+<span id="fn_9"></span>[6:3](flos03.htm#fr_9.md) Wirt Sikes’ "British
 Goblins," 1880, p. 20.
 
-<span id="fn_10"></span>[7:1](flos03.htm#fr_10) This is reprinted in
+<span id="fn_10"></span>[7:1](flos03.htm#fr_10.md) This is reprinted in
 Hazlitt's "Fairy Tales, Legends, and Romances illustrating Shakespeare
 and other English Writers," 1875, p. 193.
 
-<span id="fn_11"></span>[7:2](flos03.htm#fr_11) "Illustrations of the
+<span id="fn_11"></span>[7:2](flos03.htm#fr_11.md) "Illustrations of the
 Fairy Mythology of the Midsummer Night's Dream," printed for the
 Shakespeare Society, p. viii.
 
-<span id="fn_12"></span>[7:3](flos03.htm#fr_12) See Brand's "Pop.
+<span id="fn_12"></span>[7:3](flos03.htm#fr_12.md) See Brand's "Pop.
 Antiq.," 3849, ii. pp. 508–512.
 
-<span id="fn_13"></span>[7:4](flos03.htm#fr_13) Thorns’ "Three Notelets
+<span id="fn_13"></span>[7:4](flos03.htm#fr_13.md) Thorns’ "Three Notelets
 on Shakespeare," p. 88.
 
-<span id="fn_14"></span>[7:5](flos03.htm#fr_14) See Nares’ Glossary, ii.
+<span id="fn_14"></span>[7:5](flos03.htm#fr_14.md) See Nares’ Glossary, ii.
 p. 695.
 
-<span id="fn_15"></span>[8:1](flos03.htm#fr_15) Mr Dyce considers that
+<span id="fn_15"></span>[8:1](flos03.htm#fr_15.md) Mr Dyce considers that
 lob is descriptive of the contrast between Puck's square figure and the
 airy shapes of the other fairies.
 
-<span id="fn_16"></span>[8:2](flos03.htm#fr_16) "Deutsche Mythologie,"
+<span id="fn_16"></span>[8:2](flos03.htm#fr_16.md) "Deutsche Mythologie,"
 p. 492.
 
-<span id="fn_17"></span>[8:3](flos03.htm#fr_17) See Keightley's "Fairy
+<span id="fn_17"></span>[8:3](flos03.htm#fr_17.md) See Keightley's "Fairy
 Mythology," pp. 318, 319.
 
-<span id="fn_18"></span>[9:1](flos03.htm#fr_18) "Three Notelets on
+<span id="fn_18"></span>[9:1](flos03.htm#fr_18.md) "Three Notelets on
 Shakespeare," pp. 79–82.
 
-<span id="fn_19"></span>[10:1](flos03.htm#fr_19) Showing, as Mr Ritson
+<span id="fn_19"></span>[10:1](flos03.htm#fr_19.md) Showing, as Mr Ritson
 says, that they never ate.
 
-<span id="fn_20"></span>[10:2](flos03.htm#fr_20) "Letters on Demonology
+<span id="fn_20"></span>[10:2](flos03.htm#fr_20.md) "Letters on Demonology
 and Witchcraft," 1831, p. 121.
 
-<span id="fn_21"></span>[10:3](flos03.htm#fr_21) "Illustrations of
+<span id="fn_21"></span>[10:3](flos03.htm#fr_21.md) "Illustrations of
 Shakespeare," p. 115.
 
-<span id="fn_22"></span>[12:1](flos03.htm#fr_22) "Elizabethan
+<span id="fn_22"></span>[12:1](flos03.htm#fr_22.md) "Elizabethan
 Demonology," p. 50.
 
-<span id="fn_23"></span>[12:2](flos03.htm#fr_23) Agate was used
+<span id="fn_23"></span>[12:2](flos03.htm#fr_23.md) Agate was used
 metaphorically for a very diminutive person, in allusion to the small
 figures cut in agate for rings. In 2 Henry IV. (i. 2) Falstaff says:—"I
 was never manned with an agate till now; but I will inset you neither in
@@ -1420,63 +1420,63 @@ gold nor silver, but in vile apparel, and send you back again to your
 master, for a jewel." In "Much Ado About Nothing" (iii. 1) Hero speaks
 of a man as being "low, an agate very vilely cut."
 
-<span id="fn_24"></span>[13:1](flos03.htm#fr_24) See Grimm's "Deutsche
+<span id="fn_24"></span>[13:1](flos03.htm#fr_24.md) See Grimm's "Deutsche
 Mythologie."
 
-<span id="fn_25"></span>[13:2](flos03.htm#fr_25) Thoms’ "Three Notelets
+<span id="fn_25"></span>[13:2](flos03.htm#fr_25.md) Thoms’ "Three Notelets
 on Shakespeare," 1865, pp. 38, 39.
 
-<span id="fn_26"></span>[14:1](flos03.htm#fr_26) See Keightley's "Fairy
+<span id="fn_26"></span>[14:1](flos03.htm#fr_26.md) See Keightley's "Fairy
 Mythology," 1878, p. 208.
 
-<span id="fn_27"></span>[14:2](flos03.htm#fr_27) See also Thorpe's
+<span id="fn_27"></span>[14:2](flos03.htm#fr_27.md) See also Thorpe's
 "Northern Mythology," 1852, iii. p. 32, &c.
 
-<span id="fn_28"></span>[15:1](flos03.htm#fr_28) Gunyon's "Illustrations
+<span id="fn_28"></span>[15:1](flos03.htm#fr_28.md) Gunyon's "Illustrations
 of Scottish History, Life, and Superstitions," p. 299.
 
-<span id="fn_29"></span>[15:2](flos03.htm#fr_29) Chambers's "Book of
+<span id="fn_29"></span>[15:2](flos03.htm#fr_29.md) Chambers's "Book of
 Days," i. p. 671.
 
-<span id="fn_30"></span>[15:3](flos03.htm#fr_30) Amongst the various
+<span id="fn_30"></span>[15:3](flos03.htm#fr_30.md) Amongst the various
 conjectures as to the cause of these verdant circles, some have ascribed
 them to lightning; others maintained that they are occasioned by ants.
 See Miss Baker's "Northamptonshire Glossary," i. p. 218; Brand's "Pop.
 Antiq.," 1849, ii. pp. 480–483, and also the "Phytologist," 1862, pp.
 236–8.
 
-<span id="fn_31"></span>[16:1](flos03.htm#fr_31) Douce's "Illustrations
+<span id="fn_31"></span>[16:1](flos03.htm#fr_31.md) Douce's "Illustrations
 of Shakspeare," p. 112.
 
-<span id="fn_32"></span>[16:2](flos03.htm#fr_32) Ritson's "Fairy
+<span id="fn_32"></span>[16:2](flos03.htm#fr_32.md) Ritson's "Fairy
 Mythology," 1878, pp. 26, 27.
 
-<span id="fn_33"></span>[17:1](flos03.htm#fr_33) Quoted by Brand, "Pop.
+<span id="fn_33"></span>[17:1](flos03.htm#fr_33.md) Quoted by Brand, "Pop.
 Antiq.," ii. p. 481.
 
-<span id="fn_34"></span>[18:1](flos03.htm#fr_34) Brand's "Pop. Antiq.,"
+<span id="fn_34"></span>[18:1](flos03.htm#fr_34.md) Brand's "Pop. Antiq.,"
 1849, ii. p. 483.
 
-<span id="fn_35"></span>[18:2](flos03.htm#fr_35) Halliwell-Phillipps’s
+<span id="fn_35"></span>[18:2](flos03.htm#fr_35.md) Halliwell-Phillipps’s
 "Illustrations of Fairy Mythology," p. 167; see Douce's "Illustrations
 of Shakespeare," pp. 122–123.
 
-<span id="fn_36"></span>[19:1](flos03.htm#fr_36) "Illustrations of
+<span id="fn_36"></span>[19:1](flos03.htm#fr_36.md) "Illustrations of
 Shakespeare," pp. 126–127.
 
-<span id="fn_37"></span>[21:1](flos03.htm#fr_37) See Croker's "Fairy
+<span id="fn_37"></span>[21:1](flos03.htm#fr_37.md) See Croker's "Fairy
 Legends and Traditions of the South of Ireland," p. 316.
 
-<span id="fn_38"></span>[21:2](flos03.htm#fr_38) See Brand's "Pop.
+<span id="fn_38"></span>[21:2](flos03.htm#fr_38.md) See Brand's "Pop.
 Antiq.," ii. p. 493.
 
-<span id="fn_39"></span>[21:3](flos03.htm#fr_39) Ritson's "Fairy
+<span id="fn_39"></span>[21:3](flos03.htm#fr_39.md) Ritson's "Fairy
 Mythology of Shakespeare," 1875, p. 29.
 
-<span id="fn_40"></span>[21:4](flos03.htm#fr_40) Some copies read
+<span id="fn_40"></span>[21:4](flos03.htm#fr_40.md) Some copies read
 *them*.
 
-<span id="fn_41"></span>[22:1](flos03.htm#fr_41) We may compare Banquo's
+<span id="fn_41"></span>[22:1](flos03.htm#fr_41.md) We may compare Banquo's
 words in "Macbeth" (ii. 1)—
 
 <div style="margin-left: 32px">
@@ -1486,10 +1486,10 @@ words in "Macbeth" (ii. 1)—
 
 </div>
 
-<span id="fn_42"></span>[22:2](flos03.htm#fr_42) "Fairy Mythology," pp.
+<span id="fn_42"></span>[22:2](flos03.htm#fr_42.md) "Fairy Mythology," pp.
 27–8.
 
-<span id="fn_43"></span>[22:3](flos03.htm#fr_43) In "Comedy of Errors"
+<span id="fn_43"></span>[22:3](flos03.htm#fr_43.md) In "Comedy of Errors"
 (iv. 2) some critics read—
 
 <div style="margin-left: 32px">
@@ -1498,9 +1498,9 @@ words in "Macbeth" (ii. 1)—
 
 </div>
 
-<span id="fn_44"></span>[23:1](flos03.htm#fr_44) This superstition is
+<span id="fn_44"></span>[23:1](flos03.htm#fr_44.md) This superstition is
 fully described in chapter on Birth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Witches](flos04)
+[Next: Chapter II. Witches](flos04.md)

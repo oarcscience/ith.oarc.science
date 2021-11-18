@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lgc07)  [Next](lgc09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lgc07)  [Next](lgc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Cuchulain of Muirthemne*, by Lady Augusta Gregory, \[1902\], at
 Intangible Textual Heritage
 
@@ -702,4 +702,4 @@ Ulster.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The High King of Ireland](lgc09)
+[Next: VI. The High King of Ireland](lgc09.md)

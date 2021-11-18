@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb30)  [Next](lifb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb30)  [Next](lifb32.md) 
 
 </div>
 
@@ -392,6 +392,6 @@ From the 'Mabinogion.'
 
 ------------------------------------------------------------------------
 
-[Next: The Believing Husbands](lifb32)
+[Next: The Believing Husbands](lifb32.md)
 
 </div>

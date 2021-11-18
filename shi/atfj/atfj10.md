@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj09)  [Next](atfj11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj09)  [Next](atfj11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@
 <span id="img_11"></span> <span align="CENTER"> [![11. Yamato-dake no
 Mikoto Destroys his Enemies and Saves Himself from Being Burned by the
 Aid of the Miraculous Sword](tn/11.jpg)  
-Click to enlarge](img/11.jpg)  
+Click to enlarge](img/11.jpg.md)  
 11. Yamato-dake no Mikoto Destroys his Enemies and Saves Himself from
 Being Burned by the Aid of the Miraculous Sword  
 </span>
@@ -29,7 +29,7 @@ Being Burned by the Aid of the Miraculous Sword
 ### A MIRACULOUS SWORD
 
 ABOUT the year 110 B.C. there lived a brave prince known in Japanese
-history as Yamato-dake no Mikoto. <span id="fr_21"></span>[1](#fn_21) He
+history as Yamato-dake no Mikoto. <span id="fr_21"></span>[1](#fn_21.md) He
 was a great warrior, as was his son, who is said to have been a husband
 to the Empress Jingo—I presume a second one, for it could not have been
 the Emperor who was assassinated before the Empress's conquest of Korea.
@@ -168,7 +168,7 @@ middle, has since then been called 'Azuma.'
 
 ### Footnotes
 
-<span id="fn_21"></span>[56:1](atfj10.htm#fr_21) Yamato-dake no Mikoto,
+<span id="fn_21"></span>[56:1](atfj10.htm#fr_21.md) Yamato-dake no Mikoto,
 one of the eighty children of the Emperor Keiko, was a great hero of the
 prehistoric age. While yet a stripling he was sent by his father to
 destroy the rebels of Western Japan. In order to accomplish this end he
@@ -185,6 +185,6 @@ held Court.
 
 ------------------------------------------------------------------------
 
-[Next: IX. 'The Procession of Ghosts'](atfj11)
+[Next: IX. 'The Procession of Ghosts'](atfj11.md)
 
 </div>

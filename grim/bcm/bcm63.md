@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm62)  [Next](bcm64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm62)  [Next](bcm64.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ fearlessly proceed to
  
 
 <span id="img_24400"></span> [![](tn/generic.jpg)  
-Click to view](img/24400.jpg)  
+Click to view](img/24400.jpg.md)  
 THE GRAND KABALISTIC CIRCLE
 
  
@@ -143,7 +143,7 @@ acceptable holocaust. Amen*.
  
 
 <span id="img_24500"></span> [![](tn/generic.jpg)  
-Click to view](img/24500.jpg)  
+Click to view](img/24500.jpg.md)  
 THE GREAT CIRCLE OF WHITE MAGIC
 
  
@@ -269,7 +269,7 @@ P. M. S. C. S. J. C. G. A. J. F. Z. &c.
  
 
 <span id="img_24900"></span> [![](tn/generic.jpg)  
-Click to view](img/24900.jpg)  
+Click to view](img/24900.jpg.md)  
 LUCIFUGE ROFOCALE
 
  
@@ -459,4 +459,4 @@ VALE
 ------------------------------------------------------------------------
 
 [Next: Section 2: Concerning the Genuine Sanctum Regnum, or the True
-Method of Making Pacts](bcm64)
+Method of Making Pacts](bcm64.md)

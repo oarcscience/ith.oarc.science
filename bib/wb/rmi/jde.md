@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jo3)  [Next](rev) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jo3)  [Next](rev.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ putiera, mai anglal sar sa le vriama, ai akana, ai sa data! Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Revelation](rev)
+[Next: Revelation](rev.md)

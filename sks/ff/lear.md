@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../lear/lear) 
-[Previous](ham)  [Next](oth) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../lear/lear.md) 
+[Previous](ham)  [Next](oth.md) 
 
 ------------------------------------------------------------------------
 
@@ -4295,4 +4295,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tragedie of Othello, the Moore of Venice](oth) 
+[Next: The Tragedie of Othello, the Moore of Venice](oth.md) 

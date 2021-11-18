@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Nostradamus Index](../index) 
-[Index](index)  [Next](nosmrg02) 
+[Sacred-Texts](../../index)  [Nostradamus Index](../index.md) 
+[Index](index)  [Next](nosmrg02.md) 
 
 ------------------------------------------------------------------------
 

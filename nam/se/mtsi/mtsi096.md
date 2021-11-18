@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi095)  [Next](mtsi097) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi095)  [Next](mtsi097.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ It has been told.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Boy and the Wizards](mtsi097)
+[Next: 4. The Boy and the Wizards](mtsi097.md)

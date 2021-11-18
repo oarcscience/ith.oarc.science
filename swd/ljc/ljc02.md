@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljc01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljc01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ conjugial love is a celestial love, which is without dominion.
 
 <span class="margnote"><span id="53.">53.</span></span>
 
- <span id="fr_2"></span>[53-1](#fn_2) In the days of the Last Judgment,
+ <span id="fr_2"></span>[53-1](#fn_2.md) In the days of the Last Judgment,
 I saw many thousands of that nation cast out of the cities there, and
 out of the villages and surrounding lands. They were those who when in
 the world had done nothing of good from any religion or conscience, but
@@ -124,7 +124,7 @@ therefore are the Papists. On this account, they always have some
 representative Pontiff set over them, whom they also adore with the same
 ceremony as in the world. Rarely does any Pope from the world act the
 Pontiff there; yet he who was Pope at Rome twenty years ago, <span
-id="fr_3"></span>[59-1](#fn_3) was appointed over the Papists, because
+id="fr_3"></span>[59-1](#fn_3.md) was appointed over the Papists, because
 he cherished in heart that the Word is more holy than is believed, and
 that the Lord ought to be worshiped. But, after filling the office of
 Pope for some years, he abdicated it, and betook himself to the Reformed
@@ -678,8 +678,8 @@ each other.
 
 ### Footnotes
 
-<span id="fn_2"></span>[53-1](ljc02.htm#fr_2) There is no number 52 in
+<span id="fn_2"></span>[53-1](ljc02.htm#fr_2.md) There is no number 52 in
 the original Latin.
 
-<span id="fn_3"></span>[59-1](ljc02.htm#fr_3) This was published in
+<span id="fn_3"></span>[59-1](ljc02.htm#fr_3.md) This was published in
 1763.

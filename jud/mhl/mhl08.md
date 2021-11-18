@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl07)  [Next](mhl09) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl07)  [Next](mhl09.md) 
 
 ------------------------------------------------------------------------
 
@@ -271,7 +271,7 @@ Unless one makes marked progress in his study and acquires very
 considerable knowledge within five years, he had better give up further
 attempts.
 
-The badger, <span id="fr_6"></span>[1](#fn_3) *thahash*, mentioned in
+The badger, <span id="fr_6"></span>[1](#fn_3.md) *thahash*, mentioned in
 Exod. xxxv. 23, was a unique creature with one born in its forehead, and
 it was unknown whether it belonged to the clean animals or the beasts of
 the field until Moses used its skin for the Mishkan, when it was known
@@ -632,11 +632,11 @@ were commanded to attack and smite.
 
 ### Footnotes
 
-<span id="fn_3"></span>[111:1](mhl08.htm#fr_6) This word has puzzled all
+<span id="fn_3"></span>[111:1](mhl08.htm#fr_6.md) This word has puzzled all
 modern readers. It is usually accepted as "badger," but the root has the
 meaning "to thrust," hence the dolphin, or even the unicorn, has been
 suggested as the creature intended.
 
 ------------------------------------------------------------------------
 
-[Next: Deuteronomy Rabba](mhl09)
+[Next: Deuteronomy Rabba](mhl09.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap02)  [Next](chap04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap02)  [Next](chap04.md) 
 
 ------------------------------------------------------------------------
 
@@ -774,4 +774,4 @@ satisfied.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Famous Fighters in Canaan](chap04)
+[Next: IV. Famous Fighters in Canaan](chap04.md)

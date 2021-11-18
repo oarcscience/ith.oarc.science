@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs06) 
-[Next](wscs08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs06.md) 
+[Next](wscs08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -142,4 +142,4 @@ practical history of modern spiritualism. (See Chapter XXXIV, section
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Prophecies by the Figure of a Serpent](wscs08)
+[Next: Chapter III: Prophecies by the Figure of a Serpent](wscs08.md)

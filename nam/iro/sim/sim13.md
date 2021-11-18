@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim12)  [Next](sim14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim12)  [Next](sim14.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ was a bear; the third was a bird like herself.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of Stories](sim14)
+[Next: The Origin of Stories](sim14.md)

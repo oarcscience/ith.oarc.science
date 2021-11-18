@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](mog10)  [Next](mog12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](mog10)  [Next](mog12.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Mysteries of Genesis*, by Charles Fillmore, \[1936\], at Intangible
 Textual Heritage
 
@@ -856,4 +856,4 @@ he invoked divine favor upon them and returned to his place.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](mog12)
+[Next: Chapter 10](mog12.md)

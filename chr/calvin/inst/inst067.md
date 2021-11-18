@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst066)  [Next](inst068) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst066)  [Next](inst068.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ by Paul; adultery, fornication, uncleanness, lasciviousness idolatry
 witchcraft, hatred, variance, emulation, wrath, strife, seditions,
 heresies, envyings, murders, drunkenness, revellings, and all kinds of
 pollution and abomination which it is possible to imagine.42  <span
-id="fr_417"></span>[418](#fn_417) Such, then, is the worth on which men
+id="fr_417"></span>[418](#fn_417.md) Such, then, is the worth on which men
 are to plume themselves. But if any among them possess an integrity of
 manners which presents some semblance of sanctity among men, yet because
 we know that God regards not the outward appearance, we must penetrate
@@ -151,7 +151,7 @@ as much brevity as I can.
 
 <span id="iv.iii.xv-p27"></span>2. First, then, I deny not, that
 whatever excellent endowments appear in unbelievers42  <span
-id="fr_418"></span>[419](#fn_418) are divine gifts. Nor do I set myself
+id="fr_418"></span>[419](#fn_418.md) are divine gifts. Nor do I set myself
 so much in opposition to common sense, as to contend that there was no
 difference between the justice, moderation, and equity of Titus and
 Trojan, and the rage, intemperance, and cruelty of Caligula, Nero, and
@@ -191,7 +191,7 @@ different tendency deservedly forfeits the name. Hence, as they have no
 regard to the end which the divine wisdom prescribes, although from the
 performance the act seems good, yet from the perverse motive it is sin.
 Augustine, therefore, concludes that all the Fabriciuses, the Scipios,
-and Catos,42  <span id="fr_419"></span>[420](#fn_419) in their
+and Catos,42  <span id="fr_419"></span>[420](#fn_419.md) in their
 illustrious deeds, sinned in this, that, wanting the light of faith,
 they did not refer them to the proper end, and that, therefore, there
 was no true righteousness in them, because duties are estimated not by
@@ -200,7 +200,7 @@ acts but by motives.
 <span id="iv.iii.xv-p31"></span>4. Besides, if it is true, as John says,
 that there is no life without the Son of God (<span
 id="iv.iii.xv-p31.1"></span>[1 John
-5:12](../../../bib/kjv/jo1005.htm#012)<span
+5:12](../../../bib/kjv/jo1005.htm#012.md)<span
 id="iv.iii.xv-p31.1"></span>), those who have no part in Christ, whoever
 they be, whatever they do or devise, are hastening on, during their
 whole career, to destruction and the judgment of eternal death. For this
@@ -210,7 +210,7 @@ which seem good are converted into sins,” (August. ad Bonif. Lib. 3, c.
 5). He finely expresses the same idea in another passage, when he
 compares the zeal of such men to those who in a race mistake the course
 (August. Præf in <span id="iv.iii.xv-p31.2"></span>[Ps.
-31](../../../bib/kjv/psa031.htm#000)<span id="iv.iii.xv-p31.2"></span>).
+31](../../../bib/kjv/psa031.htm#000)<span id="iv.iii.xv-p31.2"></span>.md).
 He who is off the course, the more swiftly he runs is the more distant
 from the goal and, therefore, the more unhappy. It is better to limp in
 the way than run out of the way. Lastly, as there is no sanctification
@@ -223,7 +223,7 @@ justification, but merits certain damnation. And why do we talk of this
 as if it were doubtful, when it has already been proved by the testimony
 of an apostle, that “without faith it is impossible to please God?”
 (<span id="iv.iii.xv-p31.3"></span>[Heb.
-11:6](../../../bib/kjv/heb011.htm#006)<span
+11:6](../../../bib/kjv/heb011.htm#006.md)<span
 id="iv.iii.xv-p31.3"></span>).
 
 <span id="iv.iii.xv-p32"></span>5. But the proof will be still clearer
@@ -234,35 +234,35 @@ liberality. What can a dead man do to obtain life? But when he
 enlightens us with the knowledge of himself, he is said to raise us from
 the dead, and make us new creatures (<span
 id="iv.iii.xv-p32.1"></span>[John
-5:25](../../../bib/kjv/joh005.htm#025)<span
+5:25](../../../bib/kjv/joh005.htm#025.md)<span
 id="iv.iii.xv-p32.1"></span>). On this ground we see that the kindness
 of God toward us is often commended, especially by the apostle: “God,”
 says he, “who is rich in mercy, for his great love wherewith he loved
 us, even when we were dead in sins, has quickened us together with
 Christ,” (<span id="iv.iii.xv-p32.2"></span>[Eph.
-2:4](../../../bib/kjv/eph002.htm#004)<span
+2:4](../../../bib/kjv/eph002.htm#004.md)<span
 id="iv.iii.xv-p32.2"></span>). In another passage, when treating of the
 general call of believers under the type of Abraham, he says, “God
 quickeneth the dead, and calleth those things which be not as though
 they were,” (<span id="iv.iii.xv-p32.3"></span>[Rom.
-4:17](../../../bib/kjv/rom004.htm#017)<span
+4:17](../../../bib/kjv/rom004.htm#017.md)<span
 id="iv.iii.xv-p32.3"></span>). If we are nothing, what, pray, can we do?
 Wherefore, in the Book of Job the Lord sternly represses all arrogance
 in these words, “Who has prevented me, that I should repay him?
 whatsoever is under the whole heaven is mine,” (<span
 id="iv.iii.xv-p32.4"></span>[Job
-41:11](../../../bib/kjv/job041.htm#011)<span
+41:11](../../../bib/kjv/job041.htm#011.md)<span
 id="iv.iii.xv-p32.4"></span>). Paul explaining this sentence applies it
 in this way,—Let us not imagine that we bring to the Lord any thing but
 the mere disgrace of want and destitution (<span
 id="iv.iii.xv-p32.5"></span>[Rom.
-11:35](../../../bib/kjv/rom011.htm#035)<span
+11:35](../../../bib/kjv/rom011.htm#035.md)<span
 id="iv.iii.xv-p32.5"></span>). Wherefore, in the passage above quoted,
 to prove that we attain to the hope of salvation, not by works but only
 by grace, he affirms that “we are his workmanship, created in Christ
 Jesus unto good works, which God has before ordained that we should walk
 in them,” (<span id="iv.iii.xv-p32.6"></span>[Eph.
-2:10](../../../bib/kjv/eph002.htm#010)<span
+2:10](../../../bib/kjv/eph002.htm#010.md)<span
 id="iv.iii.xv-p32.6"></span>); as if he had said, Who of us can boast of
 having challenged God by his righteousness, seeing our first power to
 act aright is derived from regeneration? For, as we are formed by
@@ -275,10 +275,10 @@ according to our works, but according to his own purpose and grace;” and
 works of righteousness which we have done, but according to his mercy he
 saved us;” that being justified by his grace, we might become the heirs
 of everlasting life (<span id="iv.iii.xv-p32.7"></span>[2 Tim.
-1:9](../../../bib/kjv/ti2001.htm#009)<span id="iv.iii.xv-p32.7"></span>;
+1:9](../../../bib/kjv/ti2001.htm#009.md)<span id="iv.iii.xv-p32.7"></span>;
 <span id="iv.iii.xv-p32.8"></span>[Titus
-3:4](../../../bib/kjv/tit003.htm#004),
-[5](../../../bib/kjv/tit003.htm#005)<span id="iv.iii.xv-p32.8"></span>).
+3:4](../../../bib/kjv/tit003.htm#004.md),
+[5](../../../bib/kjv/tit003.htm#005)<span id="iv.iii.xv-p32.8"></span>.md).
 By this confession we strip man of every particle of righteousness,
 until by mere mercy he is regenerated unto the hope of eternal life,
 since it is not true to say we are justified by grace, if works
@@ -286,11 +286,11 @@ contribute in any degree to our justification. The apostle undoubtedly
 had not forgotten himself in declaring that justification is gratuitous,
 seeing he argues in another place, that if works are of any avail,
 “grace is no more grace,” (<span id="iv.iii.xv-p32.9"></span>[Rom.
-11:6](../../../bib/kjv/rom011.htm#006)<span
+11:6](../../../bib/kjv/rom011.htm#006.md)<span
 id="iv.iii.xv-p32.9"></span>). And what else does our Lord mean, when he
 declares, “I am not come to call the righteous, but sinners to
 repentance?” (<span id="iv.iii.xv-p32.10"></span>[Mt.
-9:13](../../../bib/kjv/mat009.htm#013)<span
+9:13](../../../bib/kjv/mat009.htm#013.md)<span
 id="iv.iii.xv-p32.10"></span>). If sinners alone are admitted, why do we
 seek admission by means of fictitious righteousness?
 
@@ -307,8 +307,8 @@ there was no judgment. And he saw that there was no man, and wondered
 that there was no intercessor: therefore his arm brought salvation unto
 him; and his righteousness, it sustained him” (<span
 id="iv.iii.xv-p33.1"></span>[Isa.
-59:15](../../../bib/kjv/isa059.htm#015),
-[16](../../../bib/kjv/isa059.htm#016)<span
+59:15](../../../bib/kjv/isa059.htm#015.md),
+[16](../../../bib/kjv/isa059.htm#016.md)<span
 id="iv.iii.xv-p33.1"></span>). Where is our righteousness, if the
 prophet says truly, that no man in recovering salvation gives any
 assistance to the Lord? Thus another prophet, introducing the Lord as
@@ -317,8 +317,8 @@ thee unto me for ever; yea, I will betroth thee unto me in
 righteousness, and in judgment, and in loving-kindness, and in mercies.”
 “I will have mercy upon her that had not obtained mercy,” (<span
 id="iv.iii.xv-p33.2"></span>[Hos.
-2:19](../../../bib/kjv/hos002.htm#019),
-[23](../../../bib/kjv/hos002.htm#023)<span
+2:19](../../../bib/kjv/hos002.htm#019.md),
+[23](../../../bib/kjv/hos002.htm#023.md)<span
 id="iv.iii.xv-p33.2"></span>). If a covenant of this kind, evidently
 forming our first union with God, depends on mercy, there is no
 foundation left for our righteousness. And, indeed, I would fain know,
@@ -329,18 +329,18 @@ agreeable to God proceed from his enemies, whom he abominates with all
 their deeds? Truth declares that we are all the avowed and inveterate
 enemies of God until we are justified and admitted to his friendship
 (<span id="iv.iii.xv-p33.3"></span>[Rom.
-5:6](../../../bib/kjv/rom005.htm#006)<span id="iv.iii.xv-p33.3"></span>;
+5:6](../../../bib/kjv/rom005.htm#006.md)<span id="iv.iii.xv-p33.3"></span>;
 <span id="iv.iii.xv-p33.4"></span>[Col.
-1:21](../../../bib/kjv/col001.htm#021)<span
+1:21](../../../bib/kjv/col001.htm#021.md)<span
 id="iv.iii.xv-p33.4"></span>). If justification is the beginning of
 love, how can the righteousness of works precede it? Hence John, to put
 down the arrogant idea, carefully reminds us that God first loved us
 (<span id="iv.iii.xv-p33.5"></span>[1 John
-4:10](../../../bib/kjv/jo1004.htm#010)<span
+4:10](../../../bib/kjv/jo1004.htm#010.md)<span
 id="iv.iii.xv-p33.5"></span>). The Lord had formerly taught the same
 thing by his Prophet: “I will love them freely: for mine anger is turned
 away from him,” (<span id="iv.iii.xv-p33.6"></span>[Hosea
-14:4](../../../bib/kjv/hos014.htm#004)<span
+14:4](../../../bib/kjv/hos014.htm#004.md)<span
 id="iv.iii.xv-p33.6"></span>). Assuredly he is not influenced by works
 if his love turns to us spontaneously. But the rude and vulgar idea
 entertained is, that we did not merit the interposition of Christ for
@@ -351,12 +351,12 @@ Father, we are darkness, the heirs of death, and the enemies of God. For
 Paul declares that we are not purged and washed from our impurities by
 the blood of Christ until the Spirit accomplishes that cleansing in us
 (<span id="iv.iii.xv-p33.7"></span>[1 Cor.
-6:11](../../../bib/kjv/co1006.htm#011)<span
+6:11](../../../bib/kjv/co1006.htm#011.md)<span
 id="iv.iii.xv-p33.7"></span>). Peter, intending to say the same thing,
 declares that the sanctification of the Spirit avails “unto obedience
 and sprinkling of the blood of Jesus Christ,” (<span
 id="iv.iii.xv-p33.8"></span>[1 Pet.
-1:2](../../../bib/kjv/pe1001.htm#002)<span
+1:2](../../../bib/kjv/pe1001.htm#002.md)<span
 id="iv.iii.xv-p33.8"></span>). If the sprinkling of the blood of Christ
 by the Spirit gives us purification, let us not think that, previous to
 this sprinkling, we are anything but sinners without Christ. Let us,
@@ -364,7 +364,7 @@ therefore, hold it as certain, that the beginning of our salvation is as
 it were a resurrection from death unto life, because, when it is given
 us on behalf of Christ to believe on him (<span
 id="iv.iii.xv-p33.9"></span>[Phil.
-1:29](../../../bib/kjv/phi001.htm#029)<span
+1:29](../../../bib/kjv/phi001.htm#029.md)<span
 id="iv.iii.xv-p33.9"></span>), then only do we begin to pass from death
 unto life.
 
@@ -394,7 +394,7 @@ Then answered Haggai, and said, So is this people, and so is this nation
 before me, saith the Lord; and so is every work of their hands; and that
 which they offer there is unclean,” (<span
 id="iv.iii.xv-p34.1"></span>[Haggai
-2:11-14](../../../bib/kjv/hag002.htm#011)<span
+2:11-14](../../../bib/kjv/hag002.htm#011.md)<span
 id="iv.iii.xv-p34.1"></span>). I wish these sentiments could obtain full
 credit with us, and be deeply fixed on our memories. For there is no
 man, however flagitous the whole tenor of his life may be, who will
@@ -422,7 +422,7 @@ hands I will hide mine eyes from you; yea, when ye make many prayers, I
 will not hear: your hands are full of blood. Wash you, make you clean;
 put away the evil of your doings from before mine eyes,” (<span
 id="iv.iii.xv-p35.1"></span>[Isaiah
-1:13-16](../../../bib/kjv/isa001.htm#013)<span
+1:13-16](../../../bib/kjv/isa001.htm#013.md)<span
 id="iv.iii.xv-p35.1"></span>, compared with ch. 58) What is meant by the
 Lord thus nauseating the observance of his law? Nay, indeed, he does not
 repudiate any thing relating to the genuine observance of the law, the
@@ -434,7 +434,7 @@ under obligation by their works. In this way they will only offend him
 more and more. “The sacrifice of the wicked is an abomination to the
 Lord; but the prayer of the upright is his delight,” (<span
 id="iv.iii.xv-p35.2"></span>[Prov.
-15:8](../../../bib/kjv/pro015.htm#008)<span
+15:8](../../../bib/kjv/pro015.htm#008.md)<span
 id="iv.iii.xv-p35.2"></span>. ) We hold it, therefore, as indubitable,
 indeed it should be notorious to all tolerably verdant with Scriptures
 that the most splendid works performed by men, who are not yet truly
@@ -443,22 +443,22 @@ Lord, that he regards them as sins. And, therefore it is taught with
 perfect truth, that no man procures favor with God by means of works,
 but that, on the contrary, works are not pleasing to God unless the
 person has previously found favor in his sight.42  <span
-id="fr_420"></span>[421](#fn_420) Here we should carefully observe the
+id="fr_420"></span>[421](#fn_420.md) Here we should carefully observe the
 order which scripture sets before us. Moses says that “the Lord had
 respect unto Abel and to his offering,” (<span
 id="iv.iii.xv-p36.1"></span>[Gen.
-4:4](../../../bib/kjv/gen004.htm#004)<span
+4:4](../../../bib/kjv/gen004.htm#004.md)<span
 id="iv.iii.xv-p36.1"></span>). Observe how he says that the Lord was
 propitious (had respect) to Abel, before he had respect to his works.
 Wherefore, purification of heart ought to precede, in order that the
 works performed by us may be graciously accepted by God: for the saying
 of Jeremiah is always true, “O Lord, are not thine eyes upon the truth?”
 (<span id="iv.iii.xv-p36.2"></span>[Jer.
-5:3](../../../bib/kjv/jer005.htm#003)<span
+5:3](../../../bib/kjv/jer005.htm#003.md)<span
 id="iv.iii.xv-p36.2"></span>). Moreover the Holy Spirit declared by the
 mouth of Peter, that it is by faith alone the heart is purified (<span
 id="iv.iii.xv-p36.3"></span>[Acts
-15:9](../../../bib/kjv/act015.htm#009)<span
+15:9](../../../bib/kjv/act015.htm#009.md)<span
 id="iv.iii.xv-p36.3"></span>). Hence it is evident, that the primary
 foundation is in true and living faith.
 
@@ -478,7 +478,7 @@ Holy Spirit, lest we should become unduly elated, and forget ourselves,
 we have still remains of imperfection which serve to keep us humble:
 “There is no man that sinneth not,” saith Scripture (<span
 id="iv.iii.xv-p37.1"></span>[1 Kings
-8:46](../../../bib/kjv/kg1008.htm#046)<span
+8:46](../../../bib/kjv/kg1008.htm#046.md)<span
 id="iv.iii.xv-p37.1"></span>). What righteousness then can men obtain by
 their works? First, I say, that the best thing which can be produced by
 them is always tainted and corrupted by the impurity of the flesh, and
@@ -499,11 +499,11 @@ condemnation.
 perform works absolutely pure, yet one sin is sufficient to efface and
 extinguish all remembrance of former righteousness, as the prophet says
 (<span id="iv.iii.xv-p38.1"></span>[Ezek.
-18:24](../../../bib/kjv/eze018.htm#024)<span
+18:24](../../../bib/kjv/eze018.htm#024.md)<span
 id="iv.iii.xv-p38.1"></span>). With this James agrees, “Whosoever shall
 keep the whole law, and yet offend in one point, is guilty of all,”
 (<span id="iv.iii.xv-p38.2"></span>[James
-2:10](../../../bib/kjv/jam002.htm#010)<span
+2:10](../../../bib/kjv/jam002.htm#010.md)<span
 id="iv.iii.xv-p38.2"></span>). And since this mortal life is never
 entirely free from the taint of sin, whatever righteousness we could
 acquire would ever and anon be corrupted, overwhelmed, and destroyed, by
@@ -534,7 +534,7 @@ vitiated and polluted by the sins of which it is certain that the author
 of it is guilty, it is deprived of its merit. This is the cardinal point
 of the present discussion. There is no controversy between us and the
 sounder Schoolmen as to the beginning of justification.42  <span
-id="fr_421"></span>[422](#fn_421) They admit that the sinner, freely
+id="fr_421"></span>[422](#fn_421.md) They admit that the sinner, freely
 delivered from condemnation, obtains justification, and that by
 forgiveness of sins; but under the term justification they comprehend
 the renovation by which the Spirit forms us anew to the obedience of the
@@ -543,7 +543,7 @@ that being once reconciled to God by means of Christ, he is afterwards
 deemed righteous by his good works, and is accepted in consideration of
 them. The Lord, on the contrary, declares, that he imputed Abraham’s
 faith for righteousness (<span id="iv.iii.xv-p40.1"></span>[Rom.
-4:3](../../../bib/kjv/rom004.htm#003)<span
+4:3](../../../bib/kjv/rom004.htm#003.md)<span
 id="iv.iii.xv-p40.1"></span>), not at the time when he was still a
 worshipper of idols, but after he had been many years distinguished for
 holiness. Abraham had long served God with a pure heart, and performed
@@ -552,7 +552,7 @@ righteousness still consisted in faith. Hence we infer, according to the
 reasoning of Paul, that it was *not of works*. In like manners when the
 prophet says, “The just shall live by his faith,” (<span
 id="iv.iii.xv-p40.2"></span>[Hab.
-2:4](../../../bib/kjv/hab002.htm#004)<span
+2:4](../../../bib/kjv/hab002.htm#004.md)<span
 id="iv.iii.xv-p40.2"></span>), he is not speaking of the wicked and
 profane, whom the Lord justifies by converting them to the faith: his
 discourse is directed to believers, and life is promised to them by
@@ -560,7 +560,7 @@ faith. Paul also removes every doubt, when in confirmation of this
 sentiment he quotes the words of David, “Blessed is he whose
 transgression is forgiven, whose sin is covered,” (<span
 id="iv.iii.xv-p40.3"></span>[Ps.
-32:1](../../../bib/kjv/psa032.htm#001)<span
+32:1](../../../bib/kjv/psa032.htm#001.md)<span
 id="iv.iii.xv-p40.3"></span>). It is certain that David is not speaking
 of the ungodly but of believers such as he himself was, because he was
 giving utterance to the feelings of his own mind. Therefore we must have
@@ -568,8 +568,8 @@ this blessedness not once only, but must hold it fast during our whole
 lives. Moreover, the message of free reconciliation with God is not
 promulgated for one or two days, but is declared to be perpetual in the
 Church (<span id="iv.iii.xv-p40.4"></span>[2 Cor.
-5:18](../../../bib/kjv/co2005.htm#018),
-[19](../../../bib/kjv/co2005.htm#019)<span
+5:18](../../../bib/kjv/co2005.htm#018.md),
+[19](../../../bib/kjv/co2005.htm#019.md)<span
 id="iv.iii.xv-p40.4"></span>). Hence believers have not even to the end
 of life any other righteousness than that which is there described.
 Christ ever remains a Mediator to reconcile the Father to us, and there
@@ -578,8 +578,8 @@ expiation; in short, perfect obedience, by which all our iniquities are
 covered. In the Epistle to the Ephesians, Paul says not that the
 beginning of salvation is of grace, but “by grace are ye saved,” “not of
 works, lest any man should boast,” (<span
-id="iv.iii.xv-p40.5"></span>[Eph. 2:8](../../../bib/kjv/eph002.htm#008),
-[9](../../../bib/kjv/eph002.htm#009)<span id="iv.iii.xv-p40.5"></span>).
+id="iv.iii.xv-p40.5"></span>[Eph. 2:8](../../../bib/kjv/eph002.htm#008.md),
+[9](../../../bib/kjv/eph002.htm#009)<span id="iv.iii.xv-p40.5"></span>.md).
 
 <span id="iv.iii.xv-p41"></span>12. The subterfuges by which the
 Schoolmen here endeavor to escape will not disentangle them. They say
@@ -612,7 +612,7 @@ covered with the righteousness of Christ we thereby please him and
 obtain forgiveness of sins. God has not promised life as the reward of
 certain works, but only declares, “which if a man do, he shall live in
 them,” (<span id="iv.iii.xv-p42.1"></span>[Lev.
-18:5](../../../bib/kjv/lev018.htm#005)<span
+18:5](../../../bib/kjv/lev018.htm#005.md)<span
 id="iv.iii.xv-p42.1"></span>), denouncing the well-known curse against
 all who do not continue in all things that are written in the book of
 the Law to do them. In this way is completely refuted the fiction of a
@@ -648,8 +648,8 @@ satisfaction. Let us, therefore, after the example of the Apostle,
 things which are before,” “press toward the mark for the prize of the
 high calling of God in Jesus Christ,” (<span
 id="iv.iii.xv-p42.2"></span>[Phil.
-3:13](../../../bib/kjv/phi003.htm#013),
-[14](../../../bib/kjv/phi003.htm#014)<span
+3:13](../../../bib/kjv/phi003.htm#013.md),
+[14](../../../bib/kjv/phi003.htm#014.md)<span
 id="iv.iii.xv-p42.2"></span>).
 
 <span id="iv.iii.xv-p43"></span>14. How can boasting in works of
@@ -657,7 +657,7 @@ supererogation agree with the command given to us: “When ye shall have
 done all those things which are commanded you, say, We are unprofitable
 servants: we have done that which was our duty to do?” (<span
 id="iv.iii.xv-p43.1"></span>[Luke
-17:10](../../../bib/kjv/luk017.htm#010)<span
+17:10](../../../bib/kjv/luk017.htm#010.md)<span
 id="iv.iii.xv-p43.1"></span>). To say or speak in the presence of God is
 not to feign or lie, but to declare what we hold as certain. Our Lord,
 therefore, enjoins us sincerely to feel and consider with ourselves that
@@ -681,7 +681,7 @@ necessary obligation.
 allege the boast of Paul, that among the Corinthians he spontaneously
 renounced a right which, if he had otherwise chosen, he might have
 exercised (<span id="iv.iii.xv-p44.1"></span>[1 Cor.
-9:15](../../../bib/kjv/co1009.htm#015)<span
+9:15](../../../bib/kjv/co1009.htm#015.md)<span
 id="iv.iii.xv-p44.1"></span>); thus not only paying what he owed them in
 duty, but gratuitously bestowing upon them more than duty required. They
 ought to have attended to the reason there expressed, that his object
@@ -702,7 +702,7 @@ for he asks in regard to the master who, on return from his labour,
 requires his servant to gird himself and serve him, “Does he thank that
 servant because he did the things that were commanded him? I trow not,”
 (<span id="iv.iii.xv-p44.2"></span>[Luke
-17:9](../../../bib/kjv/luk017.htm#009)<span
+17:9](../../../bib/kjv/luk017.htm#009.md)<span
 id="iv.iii.xv-p44.2"></span>). But possibly the servant was more
 industrious than the master would have ventured to exact. Be it so:
 still he did nothing to which his condition as a servant did not bind
@@ -713,17 +713,17 @@ not, and will not accept when they come to give in their account. The
 only sense in which we admit works of supererogation is that expressed
 by the prophet, when he says, “Who has required this at your hand?”
 (<span id="iv.iii.xv-p44.3"></span>[Isaiah
-1:12](../../../bib/kjv/isa001.htm#012)<span
+1:12](../../../bib/kjv/isa001.htm#012.md)<span
 id="iv.iii.xv-p44.3"></span>). But let them remember what is elsewhere
 said of them: “Wherefore do ye spend money for that which is not bread?
 and your labour for that which satisfieth not?” (<span
 id="iv.iii.xv-p44.4"></span>[Isaiah
-55:2](../../../bib/kjv/isa055.htm#002)<span
+55:2](../../../bib/kjv/isa055.htm#002.md)<span
 id="iv.iii.xv-p44.4"></span>). It is, indeed, an easy matter for these
 indolent Rabbis to carry on such discussions sitting in their soft
 chairs under the shade, but when the Supreme Judge shall sit on his
 tribunal, all these blustering dogmas will behave to disappear.42  <span
-id="fr_422"></span>[423](#fn_422) This, this I say, was the true
+id="fr_422"></span>[423](#fn_422.md) This, this I say, was the true
 question: not what we can fable and talk in schools and corners, but
 what ground of defense we can produce at his judgment-seat.
 
@@ -738,11 +738,11 @@ sustained by his indulgent mercy. Accordingly, the only thing they leave
 to us is to deprecate our Judge with that confession of David: “Enter
 not into judgment with thy servant: for in thy sight shall no living be
 justified,” (<span id="iv.iii.xv-p46.1"></span>[Psalm
-143:2](../../../bib/kjv/psa143.htm#002)<span
+143:2](../../../bib/kjv/psa143.htm#002.md)<span
 id="iv.iii.xv-p46.1"></span>). And when Job says, “If I be wicked, woe
 unto me: and if I be righteous, yet will I not lift up my head,” (<span
 id="iv.iii.xv-p46.2"></span>[Job
-10:15](../../../bib/kjv/job010.htm#015)<span
+10:15](../../../bib/kjv/job010.htm#015.md)<span
 id="iv.iii.xv-p46.2"></span>). Although he refers to that spotless
 righteousness of God, before which even angels are not clean, he however
 shows, that when brought to the bar of Gods all that mortals can do is
@@ -756,11 +756,11 @@ giving confidence, only make us tremble in the presence of God? We must,
 therefore, come to what Isaiah invites us: “In the Lord shall all the
 seed of Israel be justified, and shall glory,” (<span
 id="iv.iii.xv-p46.3"></span>[Isaiah
-45:25](../../../bib/kjv/isa045.htm#025)<span
+45:25](../../../bib/kjv/isa045.htm#025.md)<span
 id="iv.iii.xv-p46.3"></span>); for it is most true, as he elsewhere
 says, that we are “the planting of the Lord, that he might be
 glorified,” (<span id="iv.iii.xv-p46.4"></span>[Isaiah
-61:3](../../../bib/kjv/isa061.htm#003)<span
+61:3](../../../bib/kjv/isa061.htm#003.md)<span
 id="iv.iii.xv-p46.4"></span>). Our soul, therefore, will not be duly
 purified until it ceases to have any confidence, or feel any exultation
 in works. Foolish men are puffed up to this false and lying confidence
@@ -777,15 +777,15 @@ instrumental cause be but faith? John includes the three in one sentence
 when he says, “God so loved the world, that he gave his only begotten
 Son, that whosoever believeth in him should not perish but have
 everlasting life,” (<span id="iv.iii.xv-p47.1"></span>[John
-3:16](../../../bib/kjv/joh003.htm#016)<span
+3:16](../../../bib/kjv/joh003.htm#016.md)<span
 id="iv.iii.xv-p47.1"></span>). The Apostle, moreover, declares that the
 final cause is the demonstration of the divine righteousness and the
 praise of his goodness. There also he distinctly mentions the other
 three causes; for he thus speaks to the Romans: “All have sinned, and
 come short of the glory of God, being justified freely by his grace,”
 (<span id="iv.iii.xv-p47.2"></span>[Rom.
-3:23](../../../bib/kjv/rom003.htm#023),
-[24](../../../bib/kjv/rom003.htm#024)<span
+3:23](../../../bib/kjv/rom003.htm#023.md),
+[24](../../../bib/kjv/rom003.htm#024.md)<span
 id="iv.iii.xv-p47.2"></span>). You have here the head and primary
 source—God has embraced us with free mercy. The next words are, “through
 the redemption that is in Christ Jesus;” this is as it were the material
@@ -850,16 +850,16 @@ sentiments of exultation, it is just because the fruits of their calling
 convince them that the Lord has admitted them to a place among his
 children. Accordingly, when Solomon says, “In the fear of the Lord is
 strong confidence,” (<span id="iv.iii.xv-p49.1"></span>[Prov.
-14:26](../../../bib/kjv/pro014.htm#026)<span
+14:26](../../../bib/kjv/pro014.htm#026.md)<span
 id="iv.iii.xv-p49.1"></span>), and when the saints sometimes beseech the
 Lord to hear them, because they walked before his face in simplicity and
 integrity (<span id="iv.iii.xv-p49.2"></span>[Gen.
-24:10](../../../bib/kjv/gen024.htm#010)<span
+24:10](../../../bib/kjv/gen024.htm#010.md)<span
 id="iv.iii.xv-p49.2"></span>; <span id="iv.iii.xv-p49.3"></span>[2 Kings
-20:3](../../../bib/kjv/kg2020.htm#003)<span
+20:3](../../../bib/kjv/kg2020.htm#003.md)<span
 id="iv.iii.xv-p49.3"></span>), these expressions apply not to laying the
 foundation of a firm conscience, but are of force only when taken *a
-posteriori*.43  <span id="fr_423"></span>[424](#fn_423) For there is no
+posteriori*.43  <span id="fr_423"></span>[424](#fn_423.md) For there is no
 where such a fear of God as can give full security, and the saints are
 always conscious that any integrity which they may possess is mingled
 with many remains of the flesh. But as the fruits of regeneration
@@ -875,7 +875,7 @@ imperfection, than his good-will by their incipient purity. In short,
 while proclaiming the mercies of the Lord, they never lose sight of his
 free favor, with all its “breadth and length, and depth and height,”
 testified by Paul (<span id="iv.iii.xv-p50.1"></span>[Eph.
-3:18](../../../bib/kjv/eph003.htm#018)<span
+3:18](../../../bib/kjv/eph003.htm#018.md)<span
 id="iv.iii.xv-p50.1"></span>); as if he had said, Whithersoever the
 believer turns, however loftily he climbs, however far and wide his
 thoughts extend, he must not go farther than the love of Christ, but
@@ -883,11 +883,11 @@ must be wholly occupied in meditating upon it, as including in itself
 all dimensions. Accordingly, he declares that it “passeth knowledge,”
 that “to know the love of Christ” is to “be filled with all the fulness
 of God,” (<span id="iv.iii.xv-p50.2"></span>[Eph.
-3:19](../../../bib/kjv/eph003.htm#019)<span
+3:19](../../../bib/kjv/eph003.htm#019.md)<span
 id="iv.iii.xv-p50.2"></span>). In another passage, where he glories that
 believers are victorious in every contest, he adds the reason, “through
 him that loved us,” (<span id="iv.iii.xv-p50.3"></span>[Rom.
-8:37](../../../bib/kjv/rom008.htm#037)<span
+8:37](../../../bib/kjv/rom008.htm#037.md)<span
 id="iv.iii.xv-p50.3"></span>).
 
 <span id="iv.iii.xv-p51"></span>20. We now see that believers have no
@@ -905,7 +905,7 @@ desire, Despise not the works of thy hands. See in me thy work, not
 mine. If thou sees mine, thou condemnest; if thou sees thine own, thou
 crownest. Whatever good works I have are of thee,” (August. in <span
 id="iv.iii.xv-p51.1"></span>[Ps.
-137](../../../bib/kjv/psa137.htm#000)<span
+137](../../../bib/kjv/psa137.htm#000.md)<span
 id="iv.iii.xv-p51.1"></span>). He gives two reasons for not venturing to
 boast of his works before God: first, that if he has any good works, he
 does not see in them any thing of his own; and, secondly, that these
@@ -931,14 +931,14 @@ called the cause of what follows. For this reason, he sometimes makes
 eternal life a consequent of works; not because it is to be ascribed to
 them, but because those whom he has elected he justifies, that he may at
 length glorify (<span id="iv.iii.xv-p52.1"></span>[Rom.
-8:30](../../../bib/kjv/rom008.htm#030)<span
+8:30](../../../bib/kjv/rom008.htm#030.md)<span
 id="iv.iii.xv-p52.1"></span>); he makes the prior grace to be a kind of
 cause, because it is a kind of step to that which follows. But whenever
 the true cause is to be assigned, he enjoins us not to take refuge in
 works, but to keep our thoughts entirely fixed on the mercy of God; “The
 wages of sin is death; but the gift of God is eternal life,” (<span
 id="iv.iii.xv-p52.2"></span>[Rom.
-6:23](../../../bib/kjv/rom006.htm#023)<span
+6:23](../../../bib/kjv/rom006.htm#023.md)<span
 id="iv.iii.xv-p52.2"></span>). Why, as he contrasts life with death,
 does he not also contrast righteousness with sin? Why, when setting down
 sin as the cause of death, does he not also set down righteousness as
@@ -947,7 +947,7 @@ somewhat marred by this variation; but the Apostle employed the
 comparison to express the fact, that death is due to the deserts of men,
 but that life was treasured up solely in the mercy of God. In short, by
 these expressions, the order rather than the cause is noted.43  <span
-id="fr_424"></span>[425](#fn_424) The Lord adding grace to grace, takes
+id="fr_424"></span>[425](#fn_424.md) The Lord adding grace to grace, takes
 occasion from a former to add a subsequent, so that he may omit no means
 of enriching his servants. Still, in following out his liberality, he
 would have us always look to free election as its source and beginning.
@@ -961,43 +961,43 @@ primary cause, as in no degree to detract from it.
 
 ### Footnotes
 
-<span id="fn_417"></span>[418](inst067.htm#fr_417) <span
+<span id="fn_417"></span>[418](inst067.htm#fr_417.md) <span
 id="iv.iii.xv-p25.1"></span>
 
 <span id="iv.iii.xv-p26"></span>24 424 <span
 id="iv.iii.xv-p26.1"></span>[Jer.
-17:9](../../../bib/kjv/jer017.htm#009)<span
+17:9](../../../bib/kjv/jer017.htm#009.md)<span
 id="iv.iii.xv-p26.1"></span>; <span id="iv.iii.xv-p26.2"></span>[Gen.
-7:21](../../../bib/kjv/gen007.htm#021)<span
+7:21](../../../bib/kjv/gen007.htm#021.md)<span
 id="iv.iii.xv-p26.2"></span>; <span id="iv.iii.xv-p26.3"></span>[Ps.
-94:11](../../../bib/kjv/psa094.htm#011)<span
+94:11](../../../bib/kjv/psa094.htm#011.md)<span
 id="iv.iii.xv-p26.3"></span>; 36:2; 14:2, 3; <span
 id="iv.iii.xv-p26.4"></span>[Gen.
-6:3](../../../bib/kjv/gen006.htm#003)<span id="iv.iii.xv-p26.4"></span>;
+6:3](../../../bib/kjv/gen006.htm#003.md)<span id="iv.iii.xv-p26.4"></span>;
 <span id="iv.iii.xv-p26.5"></span>[Gal.
-5:19](../../../bib/kjv/gal005.htm#019)<span id="iv.iii.xv-p26.5"></span>
+5:19](../../../bib/kjv/gal005.htm#019.md)<span id="iv.iii.xv-p26.5"></span>
 
-<span id="fn_418"></span>[419](inst067.htm#fr_418) <span
+<span id="fn_418"></span>[419](inst067.htm#fr_418.md) <span
 id="iv.iii.xv-p27.1"></span>
 
 <span id="iv.iii.xv-p28"></span>25 425 Latin, “in incredulis.” French,
 “en la vie des infideles et idolatres;”—in the life of infidels and
 idolaters.
 
-<span id="fn_419"></span>[420](inst067.htm#fr_419) <span
+<span id="fn_419"></span>[420](inst067.htm#fr_419.md) <span
 id="iv.iii.xv-p29.1"></span>
 
 <span id="iv.iii.xv-p30"></span>26 426 Latin, “omnes Fabricios,
 Scipiones, Catones.” French, “tous ceux qui ont esté prisez entre les
 Pagans;”—all those who have been prized among the Heathen.
 
-<span id="fn_420"></span>[421](inst067.htm#fr_420) <span
+<span id="fn_420"></span>[421](inst067.htm#fr_420.md) <span
 id="iv.iii.xv-p35.3"></span>
 
 <span id="iv.iii.xv-p36"></span>27 427 See August. Lib. de Pœnit., and
 Gregory, whose words are quoted, Sent. Lib. 3 Quæst. 7.
 
-<span id="fn_421"></span>[422](inst067.htm#fr_421) <span
+<span id="fn_421"></span>[422](inst067.htm#fr_421.md) <span
 id="iv.iii.xv-p39.1"></span>
 
 <span id="iv.iii.xv-p40"></span>28 428 The following sentence is added
@@ -1012,21 +1012,21 @@ blasphemy has commonly reigned both in sermons and schools, as it is
 still in the present day asserted by those who would maintain all the
 abominations of the Papacy.
 
-<span id="fn_422"></span>[423](inst067.htm#fr_422) <span
+<span id="fn_422"></span>[423](inst067.htm#fr_422.md) <span
 id="iv.iii.xv-p44.5"></span>
 
 <span id="iv.iii.xv-p45"></span>29 429 French, “Tout ce qu’ils auront
 determiné ne profitera gueres, ains s’evanouisra comme fumee;”—All their
 decisions will scarcely avail them, but will vanish like the smoke.
 
-<span id="fn_423"></span>[424](inst067.htm#fr_423) <span
+<span id="fn_423"></span>[424](inst067.htm#fr_423.md) <span
 id="iv.iii.xv-p49.4"></span>
 
 <span id="iv.iii.xv-p50"></span>30 430 Latin, “a posteriori;” French,
 “comme enseigne de la vocation de Dieu;”—as a sign of the calling of
 God.
 
-<span id="fn_424"></span>[425](inst067.htm#fr_424) <span
+<span id="fn_424"></span>[425](inst067.htm#fr_424.md) <span
 id="iv.iii.xv-p52.3"></span>
 
 <span id="iv.iii.xv-p53"></span>31 431 French, “Brief, en toutes ces
@@ -1041,4 +1041,4 @@ observes in it.
 
 [Next: CHAPTER 15. - THE BOASTED MERIT OF WORKS SUBVERSIVE BOTH OF THE
 GLORY OF GOD, IN BESTOWING RIGHTEOUSNESS, AND OF THE CERTAINTY OF
-SALVATION.](inst068)
+SALVATION.](inst068.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll06)  [Previous](ecl05) 
-[Next](ecl07) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll06)  [Previous](ecl05.md) 
+[Next](ecl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ the evening star came out in the unwilling heaven.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue VII.--Meliboeus](ecl07)
+[Next: Eclogue VII.--Meliboeus](ecl07.md)

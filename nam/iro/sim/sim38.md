@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim37)  [Next](sim39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim37)  [Next](sim39.md) 
 
 ------------------------------------------------------------------------
 
@@ -251,4 +251,4 @@ that spirits like him are still walking around in the world.
 
 ------------------------------------------------------------------------
 
-[Next: Stone Coat, Cold and Frost](sim39)
+[Next: Stone Coat, Cold and Frost](sim39.md)

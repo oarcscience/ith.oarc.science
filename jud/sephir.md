@@ -1,4 +1,4 @@
-[Sacred-Texts](../index)  [Judaism](index)
+[Sacred-Texts](../index)  [Judaism](index.md)
 
 ------------------------------------------------------------------------
 

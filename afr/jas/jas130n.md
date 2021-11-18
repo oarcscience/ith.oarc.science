@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas1289n)  [Next](jas131n)   
- \[[130. Clever Molly May.](jas130)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas1289n)  [Next](jas131n.md)   
+ \[[130. Clever Molly May.](jas130.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ introduced in the role of hero.
 
 ------------------------------------------------------------------------
 
-[Next: Note 131. Dancing to Anansi's Fiddle.](jas131n)
+[Next: Note 131. Dancing to Anansi's Fiddle.](jas131n.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](rufo14)  [Next](rufo16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](rufo14)  [Next](rufo16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Report on Unidentified Flying Objects*, by Edward J. Ruppelt,
 \[1956\], at Intangible Textual Heritage
 
@@ -702,4 +702,4 @@ come in and land on your desk at ATIC?"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fourteen. Digesting the Data](rufo16)
+[Next: Chapter Fourteen. Digesting the Data](rufo16.md)

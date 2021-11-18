@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Next](bcm01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Next](bcm01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ London
 
 ------------------------------------------------------------------------
 
-[Next: Contents](bcm01)
+[Next: Contents](bcm01.md)

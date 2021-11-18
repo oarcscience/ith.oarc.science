@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](vov01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](vov01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to Vemana](vov01)
+[Next: Preface to Vemana](vov01.md)

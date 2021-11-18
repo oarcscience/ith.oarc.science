@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](siim03)  [Next](siim05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](siim03)  [Next](siim05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Studies in Islamic Mysticism*, by Reynold A. Nicholson, \[1921\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ class="smallcaps">a.h.</span> 357 (December 7th, <span
 class="smallcaps">a.d.</span> 967). His father Abú ’l-Khayr, known in
 Mayhana as Bábú Bu ’l-Khayr, was a druggist, "a pious and religious man,
 well acquainted with the sacred law of Islam (*sharí‘a*) and with the
-Path of Ṣúfisim (*ṭaríqa*) <span id="fr_5"></span>[3](#fn_5)." He and
+Path of Ṣúfisim (*ṭaríqa*) <span id="fr_5"></span>[3](#fn_5.md)." He and
 other Ṣúfís were in the habit of meeting every night in the house of one
 of their number. Whenever a strange Ṣúfí arrived in the town, they would
 invite him to join them, and after partaking of food and finishing their
@@ -51,11 +51,11 @@ does it matter to you?" Afterwards, when Abú Sa‘íd had attained to a
 high spiritual degree, he used sometimes to say of his father, who was
 then dead, "I want Bábú Bu ’l-Khayr to-day, to tell him that he himself
 did not know the meaning of what he heard on that night <span
-id="fr_6"></span>[1](#fn_6)."
+id="fr_6"></span>[1](#fn_6.md)."
 
 Abú Sa‘íd was taught the first rudiments of Moslem education—to read the
 Koran—by Abú Muḥammad ‘Ayyárí, an eminent divine, who is buried at
-Nasá <span id="fr_7"></span>[2](#fn_7). He learned grammar from Abú
+Nasá <span id="fr_7"></span>[2](#fn_7.md). He learned grammar from Abú
 Sa‘íd ‘Ayyárí and the principles of Islam from Abú ’l-Qásim Bishr-i
 Yásín, both of Mayhana. The latter seems to have been a remarkable man.
 
@@ -63,7 +63,7 @@ I have already referred to the mystical quatrains which Abú Sa‘íd was
 fond of quoting in his discourses and which are commonly thought to be
 his own. Against this hypothesis we have his definite statement that
 these quatrains were composed by other Ṣúfís and that Bishr-i Yásín was
-the author of most of them <span id="fr_8"></span>[3](#fn_8). From
+the author of most of them <span id="fr_8"></span>[3](#fn_8.md). From
 Bishr, too, Abú Sa‘íd learned the doctrine of disinterested love, which
 is the basis of Ṣúfisim.
 
@@ -89,7 +89,7 @@ Perfect love proceeds from the lover who hopes naught for himself;
 What is there to desire in that which has a price?  
 Certainly the Giver is better for you than the gift:  
 How should you want the gift, when you possess the very Philosopher's
-Stone <span id="fr_9"></span>[1](#fn_9)?
+Stone <span id="fr_9"></span>[1](#fn_9.md)?
 
 On another occasion Bishr taught his young pupil how to practise
 "recollection" (*dhikr*). "Do you wish," he asked him, "to talk with
@@ -108,22 +108,22 @@ childhood." Bishr died in <span class="smallcaps">a.h.</span> 380 (<span
 class="smallcaps">a.d.</span> 990). Whenever Abú Sa‘íd went to the
 graveyard of Mayhana his first visit was always paid to the tomb of the
 venerated teacher who had given him his first lesson in Ṣúfism <span
-id="fr_10"></span>[2](#fn_10).
+id="fr_10"></span>[2](#fn_10.md).
 
 <span id="page_6">p. 6</span>
 
 If we can believe Abú Sa‘íd when he declares that in his youth he knew
 by heart 30,000 verses of pre-Islamic poetry, his knowledge of profane
-literature must have been extensive <span id="fr_11"></span>[1](#fn_12).
+literature must have been extensive <span id="fr_11"></span>[1](#fn_12.md).
 After completing this branch of education, he set out for Merv with the
 purpose of studying theology under Abú ‘Abdallah al-Ḥuṣrí, a pupil of
 the famous Sháfi‘ite doctor, Ibn Surayj. He read with al-Ḥuṣrí for five
 years, and with Abú Bakr al-Qaffál for five more <span
-id="fr_12"></span>[2](#fn_13). From Merv he moved to Sarakhs, where he
+id="fr_12"></span>[2](#fn_13.md). From Merv he moved to Sarakhs, where he
 attended the lectures of Abú ‘Alí Záhir <span
-id="fr_13"></span>[3](#fn_14) on Koranic exegesis (in the morning), on
+id="fr_13"></span>[3](#fn_14) on Koranic exegesis (in the morning.md), on
 systematic theology (at noon), and on the Traditions of the Prophet (in
-the afternoon) <span id="fr_14"></span>[4](#fn_15).
+the afternoon) <span id="fr_14"></span>[4](#fn_15.md).
 
 Abú Sa‘íd's birth and death are the only events of his life to which a
 precise date is attached. We know that he studied at Merv for ten years,
@@ -135,24 +135,24 @@ have relegated to the foot of the page, and distinguished by means of
 square brackets, certain passages that interrupt the narrative and did
 not form part of it originally.
 
-Abú Sa‘íd said as follows <span id="fr_15"></span>[5](#fn_16):
+Abú Sa‘íd said as follows <span id="fr_15"></span>[5](#fn_16.md):
 
 <span class="small">At the time when I was a student, I lived at Sarakhs
 and read with Abú ‘Alí, the doctor of divinity. One day, as I was going
 into the city, I saw Luqmán of Sarakhs seated on an ash-heap near the
 gate, sewing a patch on his gaberdine <span
-id="fr_16"></span>[a](#fn_11). I went up to him and</span>
+id="fr_16"></span>[a](#fn_11.md). I went up to him and</span>
 
 <span id="page_7">p. 7</span>
 
 <span class="small">stood looking at him, while he continued to
-sew <span id="fr_18"></span>[b](#fn_18). As soon as he had sewn the
+sew <span id="fr_18"></span>[b](#fn_18.md). As soon as he had sewn the
 patch on, he said, "O Abú Sa‘íd! I have sewn thee on this gaberdine
 along with the patch." Then he rose and took my hand, leading me to the
 convent (*khánaqáh*) of the Ṣúfís in Sarakhs, and shouted for Shaykh Abú
 ’l-Faḍl Ḥasan, who was within. When Abú ’l-Faḍl appeared, Luqmán placed
 my hand in his, saying, "O Abú ’l-Faḍl, watch over this young man, for
-he is one of you <span id="fr_19"></span>[c](#fn_19)." The Shaykh took
+he is one of you <span id="fr_19"></span>[c](#fn_19.md)." The Shaykh took
 my hand and led me into the convent. I sat down in the portico and the
 Shaykh picked up a volume and began to peruse it. As is the way of
 scholars, I could not help wondering what the book was. The Shaykh
@@ -166,7 +166,7 @@ became this word. They were made independent of the pronunciation of the
 word, they were released from the sound and the letters. Having
 understood the spiritual meaning of this word, they became so absorbed
 in it that they were no more conscious of their own non-existence <span
-id="fr_20"></span>[1](#fn_20)." This saying took hold of me</span>
+id="fr_20"></span>[1](#fn_20.md)." This saying took hold of me</span>
 
 <span id="page_8">p. 8</span>
 
@@ -174,7 +174,7 @@ and did not allow me to sleep that night. In the morning, when I had
 finished my prayers and devotions, I went to the Shaykh before sunrise
 and asked permission to attend Abú ‘Alí's lecture on Koranic exegesis.
 He began his lecture with the verse, *Say Allah! then leave them to
-amuse themselves in their folly* <span id="fr_21"></span>[1](#fn_21). At
+amuse themselves in their folly* <span id="fr_21"></span>[1](#fn_21.md). At
 the moment of hearing this word a door in my breast was opened, and I
 was rapt from myself. The Imám Abú ‘Alí observed the change in me and
 asked, "Where were you last night?" I said, "With Abú ’l-Faḍl Ḥasan." He
@@ -184,7 +184,7 @@ returned to the Shaykh, distraught and bewildered, for I had entirely
 lost myself in this word. When Abú ’l-Faḍl saw me, he said: "Abú Sa‘íd!
 
 *mastak shuda’í hamí nadání pas u písh* <span
-id="fr_22"></span>[2](#fn_22).
+id="fr_22"></span>[2](#fn_22.md).
 
 <span class="contnote">\[paragraph continues\]</span> Thou art drunk,
 poor youth! Thou know’st not head from tail."
@@ -194,7 +194,7 @@ said, "what is thy command?" He said, "Come in and sit down and devote
 thyself wholly to this word, for this word hath much work to do with
 thee." After I had stayed with him for a long time, duly performing all
 that was required by this word, he said to me one day, "O Abú Sa‘íd! the
-doors of the letters of this word <span id="fr_23"></span>[3](#fn_23)
+doors of the letters of this word <span id="fr_23"></span>[3](#fn_23.md)
 have been opened to thee. Now the hosts (of spiritual grace) will rush
 into thy breast, and thou wilt experience diverse kinds of self-culture
 (*adab*)." Then he exclaimed, "Thou hast been transported, transported,
@@ -206,7 +206,7 @@ I sat for seven years, saying continually, "Allah! Allah! Allah!"
 Whenever drowsiness or inattention arising from the weakness of human
 nature came over me, a soldier with a fiery spear—the most terrible and
 alarming figure that can possibly be imagined—appeared in front of the
-niche <span id="fr_24"></span>[4](#fn_24) and shouted at me, saying, "O
+niche <span id="fr_24"></span>[4](#fn_24.md) and shouted at me, saying, "O
 Abú Sa‘íd, say Allah!" The dread of that apparition used to keep me
 
 <span id="page_9">p. 9</span>
@@ -236,7 +236,7 @@ to turn them over and read them one after the other, I was never finding
 any peace. I prayed to God, saying, "O Lord, nothing is revealed to my
 heart by all this study and learning: it causes me to lose Thee, O God!
 Let me be able to do without it by giving me something in which I shall
-find Thee again <span id="fr_25"></span>[1](#fn_25)."</span>
+find Thee again <span id="fr_25"></span>[1](#fn_25.md)."</span>
 
 Here Abú Sa‘íd acknowledges that he sought spiritual peace, and that all
 his efforts to win it from intellectual proofs ended in failure. The
@@ -257,7 +257,7 @@ accordance with the rule that "if any one by means of asceticism and
 self-mortification shall have risen to an exalted degree of mystical
 experience, *without having a Pír to whose authority and example he
 submits himself*, the Ṣúfís do not regard him as belonging to their
-community <span id="fr_26"></span>[1](#fn_26)." In this way a continuous
+community <span id="fr_26"></span>[1](#fn_26.md)." In this way a continuous
 tradition of mystical doctrine is secured, beginning with the Prophet
 and carried down through a series of dead Pírs to the living director
 who forms the last link of the chain until he too dies and is succeeded
@@ -317,10 +317,10 @@ suggested by the statement, which occurs in the two oldest biographies,
 that his seclusion (*khalwat*) lasted for seven years. According to the
 *Ḥálát ú Sukhunán*, at the end of this period—Shaykh Abú ’l-Faḍl having
 died in the meanwhile—he journeyed to Ámul in order to visit Shaykh Abú
-’l-‘Abbás Qaṣṣáb <span id="fr_27"></span>[1](#fn_27). The *Asrár*,
+’l-‘Abbás Qaṣṣáb <span id="fr_27"></span>[1](#fn_27.md). The *Asrár*,
 however, mentions a second period during which he practised the most
 severe austerities, first at Sarakhs under the care of Shaykh Abú
-’l-Faḍl and then, for seven years <span id="fr_28"></span>[2](#fn_28),
+’l-Faḍl and then, for seven years <span id="fr_28"></span>[2](#fn_28.md),
 in the deserts and mountains of Mayhana, until at the age of 40 he
 attained to perfect saintship. These numbers can only be regarded as
 evidence of a desire to make him exemplify a theoretically symmetrical
@@ -333,13 +333,13 @@ after his conversion Abú Sa‘íd was painfully treading the *via
 purgativa*, which Ṣúfís call "the Path" (*ṭaríqa*). His biographers give
 an interesting account of his self-mortification (*mujáhada*). The
 details are derived either from his public discourses or from the
-testimony of eye-witnesses <span id="fr_29"></span>[1](#fn_29).
+testimony of eye-witnesses <span id="fr_29"></span>[1](#fn_29.md).
 
 The author of the *Asrár* relates that after seven years of solitary
 retirement Abú Sa‘íd came back to Shaykh Abú ’l-Faḍl, who gave him a
 cell opposite his own, in order that he might keep him always under
 observation, and prescribed such moral and ascetic discipline as was
-necessary <span id="fr_30"></span>[2](#fn_30). When some time had
+necessary <span id="fr_30"></span>[2](#fn_30.md). When some time had
 passed, he was transferred to the cell of Abú l-Fad' himself and
 subjected to still closer supervision (muráqabat-i aḥwál). We are not
 told how long he remained in the convent at Sarakhs. At last Abú ’l-Faḍl
@@ -347,9 +347,9 @@ bade him return to Mayhana and take care of his mother. Here he lived in
 a cell, apparently in his father's house, though he also frequented
 several cloisters in the neighbourhood, especially one known as "The Old
 Cloister" (*Ribáṭ-i Kuhan*) on the Merv road <span
-id="fr_31"></span>[3](#fn_31). Among the ascetic exercises in which he
+id="fr_31"></span>[3](#fn_31.md). Among the ascetic exercises in which he
 was now constantly engaged the following are recorded <span
-id="fr_32"></span>[4](#fn_32):
+id="fr_32"></span>[4](#fn_32.md):
 
 He showed excessive zeal in his religious ablutions, emptying a number
 of water-jugs for every single *wuḍú’*.
@@ -380,7 +380,7 @@ with recollection (*dhikr*), stuffing his ears with cotton-wool in order
 that no disturbing sound might reach him, and that his attention might
 remain concentrated. At the same time he never ceased to watch over his
 inmost self (*muráqabat-i sirr*), in order that no thought except of God
-might cross his mind <span id="fr_33"></span>[1](#fn_33).
+might cross his mind <span id="fr_33"></span>[1](#fn_33.md).
 
 After a while he became unable to bear the society or even the sight of
 men. He wandered alone in desert and mountainous places and would often
@@ -392,7 +392,7 @@ mountains and wildernesses, where he was sometimes seen roaming with a
 venerable old man clad in white raiment. Many years afterwards, when Abú
 Sa‘íd had risen to eminence, he declared to those who questioned him
 that this old man was the prophet Khaḍir <span
-id="fr_34"></span>[2](#fn_34).
+id="fr_34"></span>[2](#fn_34.md).
 
 Although he was carefully watched, Abú Sa‘íd contrived to escape from
 his father's house night after night. On one occasion his father (who
@@ -417,7 +417,7 @@ middle</span>
 
 <span class="small">of the *ribáṭ*. I descended from the roof, hastened
 home, and slept until he came in <span
-id="fr_35"></span>[1](#fn_35).</span>
+id="fr_35"></span>[1](#fn_35.md).</span>
 
 The following passage illustrates another side of Abú Sa‘íd's
 asceticism. He said,
@@ -438,7 +438,7 @@ with a number of dervishes, and there was nothing to be got for them.
 For their sake I parted with the turban I had on my head, then I sold
 one after the other my slippers, the lining of my *jubba*, the cloth of
 which it was made, and the cotton quilting <span
-id="fr_36"></span>[2](#fn_36).</span>
+id="fr_36"></span>[2](#fn_36.md).</span>
 
 During the period of ascetic discipline which he underwent at Mayhana,
 Abú Sa‘íd sometimes visited Sarakhs for the purpose of receiving
@@ -446,11 +446,11 @@ spiritual guidance from Shaykh Abú ’l-Faḍl. His biographer says that he
 travelled on his bare feet, but if we may trust ‘Abdu ’l-Ṣamad, one of
 his disciples, he usually flew through the air; it is added that this
 phenomenon was witnessed only by persons of mystical insight <span
-id="fr_37"></span>[3](#fn_37). According to the *Asrár*, he returned to
+id="fr_37"></span>[3](#fn_37.md). According to the *Asrár*, he returned to
 Abú ’l-Faḍl for another year's training and was then sent by him to Abú
 ‘Abú *al-Raḥmán* al-Sulamí, who invested him with the patched frock
 (*khirqa*) that proclaims the wearer to be a recognised member of the
-brotherhood of Ṣúfís <span id="fr_38"></span>[4](#fn_38). Al-Sulamí of
+brotherhood of Ṣúfís <span id="fr_38"></span>[4](#fn_38.md). Al-Sulamí of
 Níshápúr (*ob*. <span class="smallcaps">a.d.</span> 1021), a pupil of
 Abú ’l-Qásim al-Naṣrábádí, was a celebrated mystic.
 
@@ -469,7 +469,7 @@ his Director enjoined, but instead of contenting himself with Abú
 austerities and was more assiduous than ever in his devotions. In the
 following discourse he refers to the veneration which the people began
 to manifest towards him at this time <span
-id="fr_39"></span>[1](#fn_39).
+id="fr_39"></span>[1](#fn_39.md).
 
 <span class="small">When I was a novice, I bound myself to do eighteen
 things: I fasted continually; I abstained from unlawful food; I
@@ -505,10 +505,10 @@ shut the door behind her. Being left alone, I said, "O Lord! I do not
 want myself: let me escape from myself!" and I began a recitation of the
 whole Koran. When I came to the verse, *God shall suffice thee against
 them, for He heareth and knoweth all* <span
-id="fr_40"></span>[1](#fn_40), blood poured from my eyes and I was no
+id="fr_40"></span>[1](#fn_40.md), blood poured from my eyes and I was no
 longer conscious of myself. Then things changed. Ascetic experiences
 passed over me of a kind that can be described in words <span
-id="fr_41"></span>[2](#fn_41), and God strengthened and aided me
+id="fr_41"></span>[2](#fn_41.md), and God strengthened and aided me
 therein, but I fancied that all these acts were done by me. The grace of
 God became manifest and showed me that this was not so, and that these
 were the acts of divine favour and grace. I repented of my belief and
@@ -543,7 +543,7 @@ blessing, the people came and picked up the dung and smeared their heads
 and faces with it. After a time it was revealed to me that I was not the
 real object of their veneration. A voice cried from the corner of the
 mosque, *Is not thy Lord enough for thee* <span
-id="fr_42"></span>[3](#fn_42)?
+id="fr_42"></span>[3](#fn_42.md)?
 
 <span id="page_17">p. 17</span>
 
@@ -568,18 +568,18 @@ Lame foxes drive me from my forest-lair.
 transport was followed by a painful contraction (*qabḍ*). I opened the
 Koran, and my eye fell on the verse, *We will prove you with evil and
 with good, to try you; and unto Us shall ye return* <span
-id="fr_43"></span>[1](#fn_43), as though God said to me, "All this which
+id="fr_43"></span>[1](#fn_43.md), as though God said to me, "All this which
 I put in thy way is a trial. If it is good, it is a trial, and if it is
 evil, it is a trial. Do not stoop to good or to evil, but dwell with
 Me!" Once more my "self" vanished, and His grace was all in all <span
-id="fr_44"></span>[2](#fn_44).
+id="fr_44"></span>[2](#fn_44.md).
 
 After the death of his father and mother—which the biographer leaves
 undated, only observing, in the spirit of a true Ṣúfí, that these events
 removed the obstacle of filial affection from his path—Abú Sa‘íd is said
 to have roamed for seven years in the deserts between Mayhana and Báward
 (Abíward) and between Merv and Sarakhs <span
-id="fr_45"></span>[3](#fn_45). He then returned to Mayhana. By this time
+id="fr_45"></span>[3](#fn_45.md). He then returned to Mayhana. By this time
 Shaykh Abú ’l-Faḍl, to whom he had hitherto confided all his
 perplexities, was dead. Feeling that he required a spiritual Director,
 Abú Sa‘íd set out for Ámul in Ṭabaristán, whither many Ṣúfís were
@@ -587,8 +587,8 @@ flocking in consequence of the fame of Shaykh Abú ’l-‘Abbás Qaṣṣáb. H
 was accompanied by Aḥmad Najjár and Muḥammad Faḍl, his disciple and
 lifelong friend, who is buried at Sarakhs. They journeyed to Báward and
 thence along the Gaz valley (*Darra-i Gaz*) to Nasá <span
-id="fr_46"></span>[4](#fn_46). At Sháh Mayhana <span
-id="fr_47"></span>[5](#fn_47), a village in this
+id="fr_46"></span>[4](#fn_46.md). At Sháh Mayhana <span
+id="fr_47"></span>[5](#fn_47.md), a village in this
 
 <span id="page_18">p. 18</span>
 
@@ -613,14 +613,14 @@ until this bird left not a single millet-seed in the whole world, and
 that he would continue until then in this burning pain of love—I have
 been thinking, it would still be a thing soon ended!' The words of the
 old peasant (said Abú Sa‘íd) made all the mystery plain to me <span
-id="fr_48"></span>[1](#fn_48)."</span>
+id="fr_48"></span>[1](#fn_48.md)."</span>
 
 Nasá, which the travellers skirted but did not enter, was known amongst
 Ṣúfís by the name of "Little Syria" (*Shám-i kúchak*), because it
 boasted as many tombs of saints as Syria of prophets. The author of the
 *Asrár* says that in his time the cemetery overlooking the town
 contained 400 sepulchres of great Shaykhs and holy men <span
-id="fr_49"></span>[2](#fn_49). The prevailing belief that the sanctity
+id="fr_49"></span>[2](#fn_49.md). The prevailing belief that the sanctity
 of the place protected it from devastation he declares to have been
 verified by what he himself witnessed
 
@@ -635,7 +635,7 @@ continues), when religion in Khurásán is almost extinct and scarcely any
 vestige of Ṣúfisim is left, there are still in Nasá many excellent
 Shaykhs and Ṣúfís, richly endowed with inward experiences, as well as
 numerous hidden saints who exert a powerful and beneficent
-influence <span id="fr_50"></span>[1](#fn_50).</span>
+influence <span id="fr_50"></span>[1](#fn_50.md).</span>
 
 In the upper part of the town, adjoining the cemetery, stood a convent
 for Ṣúfís, the Khánaqáh-i Saráwí. It had recently been founded by the
@@ -646,15 +646,15 @@ him to build a house for Ṣúfís, and not only pointed out the site but
 also drew a line showing its dimensions. Next morning, when Abú ‘Alí
 went to the place indicated, he and all those who were with him saw a
 line distinctly marked on the ground; and upon this line the outer wall
-of the convent was raised <span id="fr_51"></span>[2](#fn_51). When Abú
-Sa‘íd arrived at Yaysama <span id="fr_52"></span>[3](#fn_52), a village
+of the convent was raised <span id="fr_51"></span>[2](#fn_51.md). When Abú
+Sa‘íd arrived at Yaysama <span id="fr_52"></span>[3](#fn_52.md), a village
 in the neighbourhood of Nasá, he went to visit the tomb of Aḥmad ‘Alí
-Nasawí <span id="fr_53"></span>[4](#fn_53). Meanwhile Shaykh Aḥmad
-Naṣr <span id="fr_54"></span>[5](#fn_54), who was then in charge of the
+Nasawí <span id="fr_53"></span>[4](#fn_53.md). Meanwhile Shaykh Aḥmad
+Naṣr <span id="fr_54"></span>[5](#fn_54.md), who was then in charge of the
 convent at Nasá, put out his head from his cell and said to the Ṣúfís
 seated in the portico, "The royal falcon of the mystic Way (*sháhbáz-i
 ṭaríqa*) is passing! Whoever wants to catch him must go to Yaysama <span
-id="fr_55"></span>[6](#fn_55)."
+id="fr_55"></span>[6](#fn_55.md)."
 
 While passing through the village, Abú Sa‘íd and his
 
@@ -675,10 +675,10 @@ labourer for hire?' I replied in terms of the religious law. He asked,
 exclaimed, 'Do not live with one whom thou hast divorced!' meaning that
 since I had discarded exoteric knowledge (*‘ilm-i ẓáhir*), I must not
 have any further dealings with it. Then he added, 'Until thou art free,
-thou wilt never be a slave <span id="fr_56"></span>[1](#fn_56), and
+thou wilt never be a slave <span id="fr_56"></span>[1](#fn_56.md), and
 until thou art an honest and sincere labourer, thou wilt never receive
 the wages of everlasting bliss.'" <span
-id="fr_57"></span>[2](#fn_57)</span>
+id="fr_57"></span>[2](#fn_57.md)</span>
 
 To digress a little, as the leisurely style of Oriental biography
 permits, it will be remembered that on his conversion to Ṣúfisim Abú
@@ -693,7 +693,7 @@ new-born children, or in order to lay them on their dead before
 interment. The author of the *Asrár*, who had often seen it and admired
 its beautiful foliage, says that it was destroyed, with other relics of
 the saint, during the invasion of Khurásán by the Ghuzz <span
-id="fr_58"></span>[3](#fn_58). When Abú Sa‘íd buried his books, it was
+id="fr_58"></span>[3](#fn_58.md). When Abú Sa‘íd buried his books, it was
 suggested that he might have done better to give them to some one who
 would
 
@@ -702,25 +702,25 @@ would
 profit by reading them. "I wished," he said, "that my heart should be
 entirely void of the consciousness of having conferred an obligation and
 of the recollection of having bestowed a gift <span
-id="fr_59"></span>[1](#fn_59)." Once he was heard wailing in his cell
+id="fr_59"></span>[1](#fn_59.md)." Once he was heard wailing in his cell
 the whole night long. Next morning he explained that he had been visited
 with a violent toothache as a punishment for having dipped into a tome
-which he took away from a student <span id="fr_60"></span>[2](#fn_60).
+which he took away from a student <span id="fr_60"></span>[2](#fn_60.md).
 
 Here are two more of his sayings on the same topic: "Books! ye are
 excellent guides, but it is absurd to trouble about a guide after the
 goal has been reached." "The first step in this affair (Ṣúfisim) is the
-breaking of ink-pots <span id="fr_61"></span>[3](#fn_61) and the
+breaking of ink-pots <span id="fr_61"></span>[3](#fn_61.md) and the
 tearing-up of books and the forgetting of all kinds of (intellectual)
-knowledge <span id="fr_62"></span>[4](#fn_62)."
+knowledge <span id="fr_62"></span>[4](#fn_62.md)."
 
 We left Abú Sa‘íd on his way to Ámul. He is said to have resided there
-for one year <span id="fr_63"></span>[5](#fn_63) in the convent of which
+for one year <span id="fr_63"></span>[5](#fn_63.md) in the convent of which
 Shaykh Abú ’l-‘Abbás Qaṣṣáb was the head. The Shaykh gave him a cell in
 the assembly-room (*jamá‘at-khána*), facing the oratory <span
-id="fr_64"></span>[6](#fn_64) reserved for himself, where he had sat for
+id="fr_64"></span>[6](#fn_64.md) reserved for himself, where he had sat for
 forty-one years in the midst of his disciples <span
-id="fr_65"></span>[7](#fn_65). It was the custom of Shaykh Abú
+id="fr_65"></span>[7](#fn_65.md). It was the custom of Shaykh Abú
 ’l-‘Abbás, when he saw a dervish performing supererogatory prayers at
 night, to say to him, "Sleep, my son! All the devotions of your Director
 are performed for your sake, for they are of no use to him and he does
@@ -736,7 +736,7 @@ oratory, Abú Sa‘íd, who was always on the watch to serve him, ran up to
 
 him, washed and bandaged his arm, and taking from him the soiled garment
 offered his own, which the Shaykh put on, while Abú Sa‘íd clad himself
-in a *khashan* <span id="fr_66"></span>[1](#fn_66) that he had. Then he
+in a *khashan* <span id="fr_66"></span>[1](#fn_66.md) that he had. Then he
 washed and cleaned the Shaykh's garment, hung it on the rope (*ḥabl*) to
 dry, rubbed and folded it, and brought it to the Shaykh. "It is thine,"
 said the Shaykh, "put it on!" "Nay," cried Abú Sa‘íd, "let the Shaykh
@@ -744,10 +744,10 @@ put it on me with his own blessed hand!"
 
 This was the second gaberdine (*khirqa*) with which Abú Sa‘íd was
 invested, for he had already received one from Abú ‘Abú *al-Raḥmán*
-al-Sulamí of Níshápúr <span id="fr_67"></span>[2](#fn_67).
+al-Sulamí of Níshápúr <span id="fr_67"></span>[2](#fn_67.md).
 
 Here the author of the *Asrár* introduces a disquisition on the meaning
-of such investiture <span id="fr_68"></span>[3](#fn_68), with the object
+of such investiture <span id="fr_68"></span>[3](#fn_68.md), with the object
 of refuting those who hold that a Súfí ought not to accept a *khirqa*
 from more than one Pír. In the first place, he describes the endowments
 in virtue of which the Pír is privileged to invest a disciple with the
@@ -773,19 +773,19 @@ law, the testimony of an
 honest witness and the sentence of an incorruptible judge. Accordingly,
 whenever an unknown dervish comes into a convent or wishes to join a
 company of Ṣúfís, they ask him, "Who was the Pír that taught thee <span
-id="fr_69"></span>[1](#fn_69)?" and "From whose hand didst thou receive
+id="fr_69"></span>[1](#fn_69.md)?" and "From whose hand didst thou receive
 the *khirqa*?" Ṣúfís recognise no relationship but these two, which they
 regard as all-important. They do not allow any one to associate with
 them, unless he can show to their satisfaction that he is lineally
 connected in both these ways with a fully accredited Pír.
 
 Having insisted that the whole Path of Ṣúfisim turns upon the Pír
-(*madár-i ṭaríqa bar pír ast* <span id="fr_70"></span>[2](#fn_70)), the
+(*madár-i ṭaríqa bar pír ast* <span id="fr_70"></span>[2](#fn_70).md), the
 author of the *Asrár* comes to the question in dispute—"Is it right to
 receive investiture from the hands of more than one <span
-id="fr_71"></span>[3](#fn_71)?" He answers, in effect, "Yes, it is
+id="fr_71"></span>[3](#fn_71.md)?" He answers, in effect, "Yes, it is
 right, provided that the second investiture is not accompanied with the
-intention of annulling the first <span id="fr_72"></span>[4](#fn_72)."
+intention of annulling the first <span id="fr_72"></span>[4](#fn_72.md)."
 His argument is a universal principle, which can be stated in a few
 words. Ultimately and essentially all things are one. Difference and
 duality are phenomena which disappear when unity is reached. The sayings
@@ -797,7 +797,7 @@ which the Pírs have transcended. In reality, all Ṣúfís, all Pírs, and
 all *khirqas* are one. Amidst these sublime truths it is rather a shock
 to meet with the remark that the novice who receives two *khirqas*
 resembles a man who calls two witnesses to attest his competence <span
-id="fr_73"></span>[5](#fn_73).
+id="fr_73"></span>[5](#fn_73.md).
 
 On his departure from Ámul, Abú Sa‘íd was directed by
 
@@ -805,7 +805,7 @@ On his departure from Ámul, Abú Sa‘íd was directed by
 
 <span class="contnote">\[paragraph continues\]</span> Shaykh Abú
 ’l-‘Abbás Qaṣṣáb to return once more to Mayhana <span
-id="fr_74"></span>[1](#fn_74). This event approximately coincides with
+id="fr_74"></span>[1](#fn_74.md). This event approximately coincides with
 the beginning of a new period in his spiritual history. The long
 discipline of the Path, broken by fleeting visions and ecstasies,
 brought him at last into the full and steady splendour of illumination.
@@ -820,14 +820,14 @@ same answer, whereupon he bowed his head as before. On being asked for
 the third time, Abú ‘Alí replied, "If it ever is permanent, it is
 extremely rare." Abú Sa‘íd clapped his hands joyfully and exclaimed
 several times, "This"—referring to his own case—"is one of these
-rarities <span id="fr_75"></span>[2](#fn_75)." Continuous though his
+rarities <span id="fr_75"></span>[2](#fn_75.md)." Continuous though his
 illumination may have been, it was not of uniform intensity, but was
 subject to the fluctuations which are described in the technical
 language of Ṣúfisim as contraction (*qabḍ*) and expansion (*basṭ*) <span
-id="fr_76"></span>[3](#fn_76). Often, when he fell into the former
+id="fr_76"></span>[3](#fn_76.md). Often, when he fell into the former
 state, he would go about asking questions of every one, in the hope of
 hearing some words that might relieve his oppression <span
-id="fr_77"></span>[4](#fn_77). When *qabḍ* was violent, he would visit
+id="fr_77"></span>[4](#fn_77.md). When *qabḍ* was violent, he would visit
 the tomb of Shaykh Abú ’l-Faḍl Ḥasan at Sarakhs. His eldest son, Abú
 Ṭáhir, relates that one day Abú Sa‘íd, while preaching, began to weep,
 and the whole congregation wept with him. Giving orders that his horse
@@ -852,15 +852,15 @@ restored, he said, "Mark the date of this day, for you will never see a
 day like this again." Afterwards he used to tell any of his disciples
 who thought of making the pilgrimage to Mecca that they must visit the
 tomb of Shaykh Abú ’l-Faḍl Ḥasan and perform seven circumambulations
-there <span id="fr_78"></span>[1](#fn_78).
+there <span id="fr_78"></span>[1](#fn_78.md).
 
 It is stated on the authority of Abú Sa‘íd's grandson, Shaykhu ’l-Islám
 Abú Sa‘íd, who was the grandfather of Muḥammad ibnu ’l-Munawwar, the
 compiler of the *Asrár*, that Abú Sa‘íd attained to perfect illumination
-at the age of forty <span id="fr_79"></span>[2](#fn_79). That statement
+at the age of forty <span id="fr_79"></span>[2](#fn_79.md). That statement
 may be approximately correct, though we cannot help regarding as
 suspicious its combination with the theory founded on a passage in the
-Koran <span id="fr_80"></span>[3](#fn_80), that no one under forty years
+Koran <span id="fr_80"></span>[3](#fn_80.md), that no one under forty years
 of age ever attained to the rank of prophecy or saintship, excepting
 only Yaḥyá ibn Zakariyyá (John the Baptist) and Jesus. At this point the
 biographer concludes the first chapter of his work, describing Abú
@@ -874,7 +874,7 @@ austerities. He took pains to conceal them, and all our information
 about them is derived from allusions in his public speeches or from the
 exhortations which he addressed to novices. According to his disciples,
 after becoming an adept there was no rule or practice of the Prophet
-that he left unperformed <span id="fr_81"></span>[4](#fn_81).
+that he left unperformed <span id="fr_81"></span>[4](#fn_81.md).
 
 From this time (*circa* <span class="smallcaps">a.h.</span> 400 = <span
 class="smallcaps">a.d.</span> 1009) until his death, which occurred in
@@ -892,7 +892,7 @@ we know nothing of importance beyond the following facts:
 considerable time.
 
 \(b\) Shortly before quitting Níshápúr he paid a visit to Abú ’l-Ḥasan
-Kharaqání at Kharaqán <span id="fr_82"></span>[1](#fn_82).
+Kharaqání at Kharaqán <span id="fr_82"></span>[1](#fn_82.md).
 
 \(c\) Finally, he returned from Níshápúr to Mayhana. The anecdotes in
 the second chapter of the *Asrár* form three groups in correspondence
@@ -906,7 +906,7 @@ with this local division:
 
 Various circumstances indicate that his residence in Níshápúr was a long
 one, probably extending over several years, but we find no precise
-statement <span id="fr_83"></span>[2](#fn_83), and the evidence that can
+statement <span id="fr_83"></span>[2](#fn_83.md), and the evidence that can
 be obtained from his reported meetings with famous contemporaries is
 insufficient, in my opinion, to serve as a basis for investigation. His
 visit to Kharaqán supplies a *terminus ad quem*, for Abú ’l-Ḥasan
@@ -939,7 +939,7 @@ the air and caught the child and placed it unhurt on the floor. The
 spectators raised a great cry and scenes of ecstasy ensued. "I swear,"
 says Sayyid Abú ‘Alí, who relates the story, "that I saw this with my
 own eyes. If I did not see it, may both my eyes become blind <span
-id="fr_84"></span>[1](#fn_84)!" At Ṭús Abú Sa‘íd is said to have passed
+id="fr_84"></span>[1](#fn_84.md)!" At Ṭús Abú Sa‘íd is said to have passed
 by a number of children standing together in the street of the
 Christians (*kúy-i tarsáyán*) and to have pointed out one of them to his
 companions, saying, "If you wish to look at the prime minister of the
@@ -947,17 +947,17 @@ world, there he is!" The boy, whose future eminence was thus
 miraculously foretold, and who, forty years afterwards, repeated those
 prophetic words to a great-grandson of Abú Sa‘íd, was the illustrious
 statesman Niẓámu ’l-Mulk (born <span class="smallcaps">a.d.</span>
-1018) <span id="fr_85"></span>[2](#fn_85).
+1018) <span id="fr_85"></span>[2](#fn_85.md).
 
 On entering Níshápúr Abú Sa‘íd was met by an influential patron of the
 Ṣúfís, Khwája Maḥmúd-i Muríd, who installed him and his disciples in the
 monastery (*khánaqáh*) of Abú ‘Alí Ṭarasúsí in the street of the
-carpet-beaters (?) <span id="fr_86"></span>[3](#fn_86), which seems to
+carpet-beaters (?) <span id="fr_86"></span>[3](#fn_86.md), which seems to
 have been his headquarters as long as he remained in Níshápúr <span
-id="fr_87"></span>[4](#fn_87). His preaching and, above all, the
+id="fr_87"></span>[4](#fn_87.md). His preaching and, above all, the
 extraordinary powers of telepathy which he displayed in public made many
 converts and brought in large sums of money <span
-id="fr_88"></span>[5](#fn_88). Ḥasan-i
+id="fr_88"></span>[5](#fn_88.md). Ḥasan-i
 
 <span id="page_28">p. 28</span>
 
@@ -992,12 +992,12 @@ went forward to the Shaykh and kissed his foot and offered my turban and
 my whole suit of clothes to the dervish. Every feeling of dislike and
 incredulity was gone. I became a Moslem anew, bestowed on the Shaykh all
 the money and wealth I possessed, and devoted myself to his
-service <span id="fr_89"></span>[1](#fn_89).</span>
+service <span id="fr_89"></span>[1](#fn_89.md).</span>
 
 While Abú Sa‘íd was enthusiastically welcomed by the Ṣúfís of Níshápúr,
 he met with formidable opposition from the parties adverse to them <span
-id="fr_90"></span>[2](#fn_90), namely, the Karrámís <span
-id="fr_91"></span>[3](#fn_91), whose
+id="fr_90"></span>[2](#fn_90.md), namely, the Karrámís <span
+id="fr_91"></span>[3](#fn_91.md), whose
 
 <span id="page_29">p. 29</span>
 
@@ -1009,7 +1009,7 @@ written charge against him, to the following effect:
 pretends to be a Ṣúfí. He preaches sermons in the course of which he
 recites poetry but does not quote the Traditions of the Prophet. He
 holds sumptuous feasts and music is played by his orders, whilst the
-young men dance and eat sweetmeats <span id="fr_92"></span>[1](#fn_92)
+young men dance and eat sweetmeats <span id="fr_92"></span>[1](#fn_92.md)
 and roasted fowls and all kinds of fruit. He declares that he is an
 ascetic, but this is neither asceticism nor Ṣúfisim. Multitudes have
 joined him and are being led astray. Unless measures be taken to repair
@@ -1134,7 +1134,7 @@ tried to subdue him, and that he has defeated all their armies with ten
 maunds of cake and raisins and has routed right wing, left wing, and
 centre. He is free to hold his religion, as we are free to hold ours.
 *Ye have your religion and I have my religion* <span
-id="fr_93"></span>[1](#fn_93)."
+id="fr_93"></span>[1](#fn_93.md)."
 
 I came back to the Shaykh (said Ḥasan-i Mu’addib) and told him all that
 had passed. He turned to his disciples and said, "Since yesterday ye
@@ -1153,7 +1153,7 @@ The *qawwál* sang and all the disciples began to shout and fling their
 gaberdines away.
 
 After that day no one in Níshápúr ventured to speak a word in
-disparagement of the Ṣúfís <span id="fr_94"></span>[2](#fn_94).
+disparagement of the Ṣúfís <span id="fr_94"></span>[2](#fn_94.md).
 
 The story may not be entirely fictitious. It shows, at any rate, that
 Moslems ascribe a miraculous character to telepathic powers, nor does it
@@ -1195,7 +1195,7 @@ men's thoughts?" Abú Sa‘íd at once paused in his discourse and fixing
 his eye on Qushayrí reminded him of a certain ritual irregularity of
 which he had been guilty in private on the preceding day. Qushayrí was
 dumbfounded. Abú Sa‘íd, as soon as he left the pulpit, approached him
-and they embraced each other <span id="fr_95"></span>[1](#fn_95). Their
+and they embraced each other <span id="fr_95"></span>[1](#fn_95.md). Their
 harmony, however, was not yet complete, for they
 
 <span id="page_34">p. 34</span>
@@ -1203,7 +1203,7 @@ harmony, however, was not yet complete, for they
 differed in the great controversy, which had long been raging, whether
 audition (*samá‘*) was permissible; in other words, "Did the religious
 law sanction the use of music, singing, and dancing as a means of
-stimulating ecstasy <span id="fr_96"></span>[1](#fn_96)?" One day
+stimulating ecstasy <span id="fr_96"></span>[1](#fn_96.md)?" One day
 Qushayrí, while passing Abú Sa‘íd's convent, looked in and saw him
 taking part with his disciples in an ecstatic dance. He thought to
 himself that, according to the Law, no one who dances like this is
@@ -1211,12 +1211,12 @@ accepted as a witness worthy of credit. Next day he met Abú Sa‘íd on his
 way to a feast. After they had exchanged salutations, Abú Sa‘íd said to
 him, "When have you seen me seated amongst the witnesses?" Qushayrí
 understood that this was the answer to his unspoken thought <span
-id="fr_97"></span>[2](#fn_97). He now dismissed from his mind all
+id="fr_97"></span>[2](#fn_97.md). He now dismissed from his mind all
 unfriendly feelings, and the two became so intimate that not a day
 passed without one of them visiting the other <span
-id="fr_98"></span>[3](#fn_98), while on Qushayrí's invitation Abú Sa‘íd
+id="fr_98"></span>[3](#fn_98.md), while on Qushayrí's invitation Abú Sa‘íd
 conducted a service once a week in the former's convent <span
-id="fr_99"></span>[4](#fn_99).
+id="fr_99"></span>[4](#fn_99.md).
 
 These anecdotes and others of the same tendency may be viewed, not as
 records of what happened, but rather as illustrations of the fact that
@@ -1251,7 +1251,7 @@ of a certain dish, but he could not reach it and was ashamed to ask for
 it. He felt extremely annoyed. The Shaykh turned to him and said,
 "Doctor, when food is offered, you refuse it, and when you want it, it
 is not offered." Qushayrí silently begged God to forgive him for what he
-had done <span id="fr_100"></span>[1](#fn_100).
+had done <span id="fr_100"></span>[1](#fn_100.md).
 
 One day Qushayrí unfrocked a dervish and severely censured him and
 ordered him to leave the city. The reason was that the dervish admired
@@ -1299,7 +1299,7 @@ years he has been devoted to my Abú Ṭáhir, and except on your account I
 should never have divulged his secret." Qushayrí rose and prayed God to
 forgive him and said, "I have done wrong. Every day I must learn from
 you a new lesson in Ṣúfisim." All the Ṣúfís rejoiced and there were
-manifestations of ecstasy <span id="fr_101"></span>[1](#fn_101).</span>
+manifestations of ecstasy <span id="fr_101"></span>[1](#fn_101.md).</span>
 
 Abú Sa‘íd's invariable success in conciliating his opponents is perhaps
 the greatest miracle that his biographers record, but their belief in it
@@ -1308,9 +1308,9 @@ by his own friends and followers, must have shocked Ṣúfís of the old
 school who had been taught to model themselves upon the saintly heroes
 of Moslem asceticism. What were they to think of a man whose visitors
 found him lolling on cushions, like a lord, and having his feet massaged
-by one of his dervishes <span id="fr_102"></span>[2](#fn_102)? A man who
+by one of his dervishes <span id="fr_102"></span>[2](#fn_102.md)? A man who
 prayed every night that God would give his disciples something nice to
-eat <span id="fr_103"></span>[3](#fn_103), and spent all the money he
+eat <span id="fr_103"></span>[3](#fn_103.md), and spent all the money he
 received on costly entertainments?
 
 <span id="page_37">p. 37</span>
@@ -1321,10 +1321,10 @@ the divine right of the saint—
 
 Thou art thus because thy lot is thus and thus,  
 I am so because my lot is so and so <span
-id="fr_104"></span>[1](#fn_104)—
+id="fr_104"></span>[1](#fn_104.md)—
 
 or by exhortations to regard the inward nature and disposition rather
-than the outward act <span id="fr_105"></span>[2](#fn_105)? From the
+than the outward act <span id="fr_105"></span>[2](#fn_105.md)? From the
 following anecdote it appears that such arguments did not always
 suffice.
 
@@ -1338,11 +1338,11 @@ saying, "I do this that my neighbours may enjoy its perfume with me." He
 also ordered a great number of candles to be lighted, though it was
 still day. Now, there was at that time in Níshápúr a very powerful
 inspector of police, who held rationalistic views <span
-id="fr_106"></span>[3](#fn_106) and detested the Ṣúfís. This man came
+id="fr_106"></span>[3](#fn_106.md) and detested the Ṣúfís. This man came
 into the monastery and said to the Shaykh, "What are you doing? What an
 unheard-of extravagance, to light candles in the daytime and burn a
 whole bundle of aloes-wood at once! It is against the law <span
-id="fr_107"></span>[4](#fn_107)." The Shaykh replied, "I did not know
+id="fr_107"></span>[4](#fn_107.md)." The Shaykh replied, "I did not know
 that it is against the law. Go and blow out these candles." The
 inspector went and puffed at them, but the flame flared over his face
 and hair and dress, and most of his body was scorched. "Did not you
@@ -1353,7 +1353,7 @@ That God hath lighted, his moustache gets burnt?"
 
 <span class="contnote">\[paragraph continues\]</span> The inspector fell
 at the Shaykh's feet and became a convert <span
-id="fr_108"></span>[5](#fn_108).
+id="fr_108"></span>[5](#fn_108.md).
 
 While the relations which Abú Sa‘íd established with the jurists and
 theologians of Níshápúr cannot have been friendly, it is likely enough
@@ -1419,7 +1419,7 @@ may satisfy his creditors and be freed from anxiety." On hearing these
 words, I was dumbfounded and immediately sent a servant to bring the
 remainder of the money for Ḥasan. Then I said to the Shaykh, "Accept
 me." He took my hand and said, "It is finished. Go in peace <span
-id="fr_109"></span>[1](#fn_109)."</span>
+id="fr_109"></span>[1](#fn_109.md)."</span>
 
 During Shaykh Abú Sa‘íd's stay in Níshápúr Ḥasan-i Mu’addib, his
 steward, had contracted many debts in order to provide the dervishes
@@ -1438,7 +1438,7 @@ and placed a purse of gold before the Shaykh, saying, "So-and-so has
 sent it and begs that you will pray for him." The Shaykh ordered Ḥasan
 to pay the creditors and the cake-boy. It was exactly the sum required,
 neither more nor less. The Shaykh said, "It came in consequence of the
-tears of this lad <span id="fr_110"></span>[2](#fn_110)."
+tears of this lad <span id="fr_110"></span>[2](#fn_110.md)."
 
 <span id="page_40">p. 40</span>
 
@@ -1499,7 +1499,7 @@ Abú Sa‘íd's methods of raising money are further illustrated by the
 story in which it is recorded that, while preaching in public, he held
 up a sash and declared that he must have three hundred dínárs in
 exchange for it, which sum was at once offered by an old woman in the
-congregation <span id="fr_111"></span>[1](#fn_111). On another occasion,
+congregation <span id="fr_111"></span>[1](#fn_111.md). On another occasion,
 being in debt to the amount of five hundred dínárs, he sent a message to
 a certain Abú ’l-Faḍl Furátí that he was about to visit him. Abú ’l-Faḍl
 entertained him sumptuously for three days, and on the fourth day
@@ -1512,7 +1512,7 @@ him spiritual power and peace." Abú Sa‘íd then said, "O God! do not let
 him be a prey to worldliness: make it a means of his spiritual
 advancement, not a plague!" In consequence of this prayer Abú ’l-Faḍl
 and his family prospered greatly and reached high positions in church
-and state <span id="fr_112"></span>[2](#fn_112). Apparently, Abú Sa‘íd
+and state <span id="fr_112"></span>[2](#fn_112.md). Apparently, Abú Sa‘íd
 did not scruple to employ threats when the prospective donor
 disappointed him. And his threats were not to be despised! For example,
 there was the Amír Mas‘úd who, after once paying the Shaykh's debts,
@@ -1535,33 +1535,33 @@ guarded by a number of huge Ghúrí dogs, kept in chains by day but
 allowed to roam at night, of such ferocity that they would tear to
 pieces any stranger who approached. They did not recognise their master,
 and before any one could answer his cries for help he was a mangled
-corpse <span id="fr_113"></span>[1](#fn_113).
+corpse <span id="fr_113"></span>[1](#fn_113.md).
 
 Stories of this type, showing the saint as a minister of divine wrath
 and vengeance, must have influenced many superstitious minds. The
 average Moslem's fatalism and belief in clairvoyance lead him to justify
 acts which to us seem desperately immoral. Abú Sa‘íd is said to have
 corresponded with his famous contemporary, Ibn Síná (Avicenna) <span
-id="fr_114"></span>[2](#fn_114). I cannot regard as historical the
+id="fr_114"></span>[2](#fn_114.md). I cannot regard as historical the
 account of their meeting in the monastery at Níshápúr, or the report
 that after they had conversed with each other for three days and nights
 the philosopher said to his pupils, "All that I know he sees," while the
 mystic declared, "All that I see he knows <span
-id="fr_115"></span>[3](#fn_115)." Even less probable is the statement
+id="fr_115"></span>[3](#fn_115.md)." Even less probable is the statement
 that Avicenna's mystical writings were the result of a miracle wrought
 by Abú Sa‘íd, which first opened his eyes to the reality of saintship
-and Ṣúfisim <span id="fr_116"></span>[4](#fn_116).
+and Ṣúfisim <span id="fr_116"></span>[4](#fn_116.md).
 
 Among the eminent Persian mystics of this epoch none was so nearly akin
 to Abú Sa‘íd in temperament and character as Abú ’l-Ḥasan of
-Kharaqán <span id="fr_117"></span>[5](#fn_117). Before leaving Níshápúr
+Kharaqán <span id="fr_117"></span>[5](#fn_117.md). Before leaving Níshápúr
 and
 
 <span id="page_43">p. 43</span>
 
 finally settling at Mayhana, Abú Sa‘íd paid him a visit, which is
 described with great particularity <span
-id="fr_118"></span>[1](#fn_118). A complete version would be tedious,
+id="fr_118"></span>[1](#fn_118.md). A complete version would be tedious,
 but I have translated the most interesting passages in full. When Abú
 Ṭáhir, the eldest son of Abú Sa‘íd, announced his intention of making
 the pilgrimage to Mecca, his father with a numerous following of Ṣúfís
@@ -1633,23 +1633,23 @@ The last years of Abú Sa‘íd's life were spent in retirement
 at Mayhana. We are told that his final departure from Níshápúr was
 deeply regretted by the inhabitants, and that the chief men of the city
 urged him in vain to alter his decision <span
-id="fr_119"></span>[1](#fn_119). With advancing years he may have felt
+id="fr_119"></span>[1](#fn_119.md). With advancing years he may have felt
 that the duties which devolved upon him as a director of souls (not to
 speak of bodies) were too heavy a burden: in his old age he could not
 rise without being helped by two disciples who took hold of his arms and
-lifted him from his seat <span id="fr_120"></span>[2](#fn_120). He left
+lifted him from his seat <span id="fr_120"></span>[2](#fn_120.md). He left
 no money in the convent, saying that God would send whatever was
 necessary for its upkeep. According to the biographer, this prediction
 was fulfilled, and although the convent never possessed a sure source of
 income (*ma‘lúm*), it attracted a, larger number of dervishes and
 received more spiritual and material blessings than any other religious
 house in Níshápúr, until it was destroyed by the invading Ghuzz <span
-id="fr_121"></span>[3](#fn_121).
+id="fr_121"></span>[3](#fn_121.md).
 
 Abú Sa‘íd lived 1000 months (83 years + 4 months). He died at Mayhana on
 the 4th of Sha‘bán, <span class="smallcaps">a.h.</span> 440 = 12th of
 January, <span class="smallcaps">a.d.</span> 1049, and was buried in the
-mosque opposite his house <span id="fr_122"></span>[4](#fn_122). His
+mosque opposite his house <span id="fr_122"></span>[4](#fn_122.md). His
 tomb bore the following lines in Arabic, which he himself had chosen for
 an epitaph:
 
@@ -1657,7 +1657,7 @@ I beg, nay, charge thee: Write on my gravestone,
 "This was love's bondsman," that when I am gone,  
 Some wretch well-versed in passion's ways may sigh  
 And give me greeting, as he passes by <span
-id="fr_123"></span>[5](#fn_123).
+id="fr_123"></span>[5](#fn_123.md).
 
 Apart from several allusions to his corpulence, the only description of
 Abú Sa‘íd's personal appearance that his biographers have preserved is
@@ -1669,7 +1669,7 @@ long beard falling to the navel; clad in a patched frock (*muraqqa‘*);
 in, his hands a staff and a ewer; a prayer-rug thrown over his shoulder,
 also a razor and toothpick; a Ṣúfí cap on his head, and on his feet
 shoes of cotton soled with linen-rags (*jumjum*); light was shining from
-his face <span id="fr_124"></span>[6](#fn_124).</span>
+his face <span id="fr_124"></span>[6](#fn_124.md).</span>
 
 <span id="page_46">p. 46</span>
 
@@ -1684,10 +1684,10 @@ the Koran on which it is based.
 
 I. Let them keep their garments clean and themselves always pure.
 
-II\. Let them not sit <span id="fr_125"></span>[1](#fn_125) in the
+II\. Let them not sit <span id="fr_125"></span>[1](#fn_125.md) in the
 mosque or in any holy place for the sake of gossiping.
 
-III\. In the first instance <span id="fr_126"></span>[2](#fn_126) let
+III\. In the first instance <span id="fr_126"></span>[2](#fn_126.md) let
 them perform their prayers in common.
 
 IV\. Let them pray much at night.
@@ -1712,7 +1712,7 @@ Furthermore, let them spend their hours of leisure in one of three
 things: either in the study of theology or in some devotional exercise
 (*wirdí*) or in bringing comfort to some one. Whosoever loves this
 community and helps them as much as he can is a sharer in their merit
-and future recompense <span id="fr_127"></span>[3](#fn_127).
+and future recompense <span id="fr_127"></span>[3](#fn_127.md).
 
 <span id="page_47">p. 47</span>
 
@@ -1737,7 +1737,7 @@ his head and looked at me and said, 'Because I wish to observe the Sunna
 and because I hope to win divine mercy. The Prophet has said, May God
 have mercy upon those of my people who use the toothpick in their
 ablutions and at their meals!' I was overcome with shame and began to
-weep <span id="fr_128"></span>[1](#fn_128)."</span>
+weep <span id="fr_128"></span>[1](#fn_128.md)."</span>
 
 Pír Ḥubbí was the Shaykh's tailor. One day he came in with a garment
 belonging to the Shaykh which he had mended. At that moment the Shaykh
@@ -1751,29 +1751,29 @@ Khwája Najjár, who said to the Shaykh, when he came out for afternoon
 prayers, "The young men lift their hands against the elders: what says
 the Shaykh?" The Shaykh replied, "Khwája ‘Abdu ’l-Karím's hand is my
 hand," and nothing more was said about it <span
-id="fr_129"></span>[2](#fn_129).
+id="fr_129"></span>[2](#fn_129.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_3"></span>[3:1](siim03.htm#fr_3) In referring to these two
+<span id="fn_3"></span>[3:1](siim03.htm#fr_3.md) In referring to these two
 works I shall use the abbreviations H = *Ḥálát* and A =*Asrár*. Since A
 includes almost the whole of H, I have usually given references to the
 former only.
 
-<span id="fn_4"></span>[3:2](siim03.htm#fr_4) The oldest notice of Abú
+<span id="fn_4"></span>[3:2](siim03.htm#fr_4.md) The oldest notice of Abú
 Sa‘íd occurs in the *Kashf al-Malḥjúb* of his contemporary, Hujwírí, who
 mentions him frequently in the course of that work. See especially pp.
 164-6 of the translation.
 
-<span id="fn_5"></span>[3:3](siim04.htm#fr_5) A 13, 4.
+<span id="fn_5"></span>[3:3](siim04.htm#fr_5.md) A 13, 4.
 
-<span id="fn_6"></span>[4:1](siim04.htm#fr_6) A 13, 9.
+<span id="fn_6"></span>[4:1](siim04.htm#fr_6.md) A 13, 9.
 
-<span id="fn_7"></span>[4:2](siim04.htm#fr_7) H 8, 10. A 14, 16.
+<span id="fn_7"></span>[4:2](siim04.htm#fr_7.md) H 8, 10. A 14, 16.
 
-<span id="fn_8"></span>[4:3](siim04.htm#fr_8) H 54, 3. The following is
+<span id="fn_8"></span>[4:3](siim04.htm#fr_8.md) H 54, 3. The following is
 a translation of the text as it stands in Zhukovski's edition: "Whenever
 I have addressed poetry to any one, that which falls from my lips is the
 composition of venerable Ṣúfís (*‘azízán*), and most of it is by Shaykh
@@ -1792,13 +1792,13 @@ expressly named as the author, H and A contain twenty-six which he is
 said to have quoted on different occasions. Of the latter, two occur in
 Ethé's collection (Nos. 35 and 68).
 
-<span id="fn_9"></span>[5:1](siim04.htm#fr_9) A 16, 9.
+<span id="fn_9"></span>[5:1](siim04.htm#fr_9.md) A 16, 9.
 
-<span id="fn_10"></span>[5:2](siim04.htm#fr_10) A 16, 20.
+<span id="fn_10"></span>[5:2](siim04.htm#fr_10.md) A 16, 20.
 
-<span id="fn_11"></span>[6:a](siim04.htm#fr_16) \[This Luqmán was one of
+<span id="fn_11"></span>[6:a](siim04.htm#fr_16.md) \[This Luqmán was one of
 the "intelligent madmen" (*‘uqalá’u ’l-majánín*) <span
-id="fr_17"></span>[6](#fn_17). At first he practised many austerities
+id="fr_17"></span>[6](#fn_17.md). At first he practised many austerities
 and was scrupulous in his devotions. Then of a sudden he experienced a
 revelation (*kashf*) that deprived him of his reason. Abú Sa‘íd said:
 "In the beginning Luqmán was a man learned <span id="page_7">p. 7</span>
@@ -1812,31 +1812,31 @@ sign of his freedom was that his reason was taken away from him. Abú
 Sa‘íd used often to say that Luqmán was one whom God had emancipated
 from his commandments.\]
 
-<span id="fn_12"></span>[6:1](siim04.htm#fr_11) H 8, 20. A 17, 16.
+<span id="fn_12"></span>[6:1](siim04.htm#fr_11.md) H 8, 20. A 17, 16.
 
-<span id="fn_13"></span>[6:2](siim04.htm#fr_12) H 9, 1. A 17, 18; 22, 6.
+<span id="fn_13"></span>[6:2](siim04.htm#fr_12.md) H 9, 1. A 17, 18; 22, 6.
 
-<span id="fn_14"></span>[6:3](siim04.htm#fr_13) Died <span
+<span id="fn_14"></span>[6:3](siim04.htm#fr_13.md) Died <span
 class="smallcaps">a.h.</span> 389 (<span class="smallcaps">a.d.</span>
 999). See Subkí, *Ṭabaqátu ’l-Sháfi‘iyya al-Kubrá*, Cairo, <span
 class="smallcaps">a.h.</span> 1324, II. 223. Yáqút, *Mu‘jamu ’l-Buldán*,
 IV. 72, 12.
 
-<span id="fn_15"></span>[6:4](siim04.htm#fr_14) A 22, 14.
+<span id="fn_15"></span>[6:4](siim04.htm#fr_14.md) A 22, 14.
 
-<span id="fn_16"></span>[6:5](siim04.htm#fr_15) H 10, 14-12, 7. A 23,
+<span id="fn_16"></span>[6:5](siim04.htm#fr_15.md) H 10, 14-12, 7. A 23,
 6-26, 50. There is not much to choose between the two versions. I have
 generally preferred the latter, which adds some interesting details,
 although it is not quite so tersely and simply written.
 
-<span id="fn_17"></span>[6:6](siim04.htm#fr_17) Concerning this numerous
+<span id="fn_17"></span>[6:6](siim04.htm#fr_17.md) Concerning this numerous
 class of Mohammedan mystics see Paul Loosen, *Die weisen Narren des
 Naisābūrī* (Strassburg, 1912).
 
-<span id="fn_18"></span>[7:b](siim04.htm#fr_18) \[Abú Sa‘íd was standing
+<span id="fn_18"></span>[7:b](siim04.htm#fr_18.md) \[Abú Sa‘íd was standing
 in such a position that his shadow fell on Luqmán's gaberdine.\]
 
-<span id="fn_19"></span>[7:c](siim04.htm#fr_19) \[Shaykh Abú ’l-Faḍl was
+<span id="fn_19"></span>[7:c](siim04.htm#fr_19.md) \[Shaykh Abú ’l-Faḍl was
 exceedingly venerable. When, after the death of Abú ’l-Faḍl, Abú Sa‘íd
 became an adept in mysticism, he was asked what was the cause of his
 having attained to such a degree of perfection. He answered, "The cause
@@ -1846,71 +1846,71 @@ stream, Shaykh Abú ’l-Faḍl approached from the opposite direction and
 looked at me out of the corner of his eye. From that day to this, all my
 spiritual possessions are the result of that look."\]
 
-<span id="fn_20"></span>[7:1](siim04.htm#fr_20) This rendering of Abú
+<span id="fn_20"></span>[7:1](siim04.htm#fr_20.md) This rendering of Abú
 ’l-Faḍl's admonition agrees with H II, 5 foll., where the text is given
 most fully.
 
-<span id="fn_21"></span>[8:1](siim04.htm#fr_21) Kor. 6, 91.
+<span id="fn_21"></span>[8:1](siim04.htm#fr_21.md) Kor. 6, 91.
 
-<span id="fn_22"></span>[8:2](siim04.htm#fr_22) Though printed as prose
+<span id="fn_22"></span>[8:2](siim04.htm#fr_22.md) Though printed as prose
 in both texts, this line appears to belong to a *rubá‘í*, since it is
 written in one of the metres peculiar to that form of verse.
 
-<span id="fn_23"></span>[8:3](siim04.htm#fr_23) According to H: "the
+<span id="fn_23"></span>[8:3](siim04.htm#fr_23.md) According to H: "the
 doors of the spiritual gifts (<span id="img_00800"></span>
 ![](img/00800.jpg)) of this word."
 
-<span id="fn_24"></span>[8:4](siim04.htm#fr_24) H has merely: "a
+<span id="fn_24"></span>[8:4](siim04.htm#fr_24.md) H has merely: "a
 terrible figure appeared in front of the niche."
 
-<span id="fn_25"></span>[9:1](siim04.htm#fr_25) A 50, 12.
+<span id="fn_25"></span>[9:1](siim04.htm#fr_25.md) A 50, 12.
 
-<span id="fn_26"></span>[10:1](siim04.htm#fr_26) A 55, 15.
+<span id="fn_26"></span>[10:1](siim04.htm#fr_26.md) A 55, 15.
 
-<span id="fn_27"></span>[11:1](siim04.htm#fr_27) H 12, 7.
+<span id="fn_27"></span>[11:1](siim04.htm#fr_27.md) H 12, 7.
 
-<span id="fn_28"></span>[11:2](siim04.htm#fr_28) A 41, 3.
+<span id="fn_28"></span>[11:2](siim04.htm#fr_28.md) A 41, 3.
 
-<span id="fn_29"></span>[12:1](siim04.htm#fr_29) H 18, 17. About 200 of
+<span id="fn_29"></span>[12:1](siim04.htm#fr_29.md) H 18, 17. About 200 of
 Abú Sa‘íd's discourses were in circulation when the *Ḥálát ú Sukhunán*
 was written (H 55, 21).
 
-<span id="fn_30"></span>[12:2](siim04.htm#fr_30) A 26, 10; 27, 2.
+<span id="fn_30"></span>[12:2](siim04.htm#fr_30.md) A 26, 10; 27, 2.
 
-<span id="fn_31"></span>[12:3](siim04.htm#fr_31) A 27, 17; 30, 7.
+<span id="fn_31"></span>[12:3](siim04.htm#fr_31.md) A 27, 17; 30, 7.
 
-<span id="fn_32"></span>[12:4](siim04.htm#fr_32) A 27, 18.
+<span id="fn_32"></span>[12:4](siim04.htm#fr_32.md) A 27, 18.
 
-<span id="fn_33"></span>[13:1](siim04.htm#fr_33) A 28, 8.
+<span id="fn_33"></span>[13:1](siim04.htm#fr_33.md) A 28, 8.
 
-<span id="fn_34"></span>[13:2](siim04.htm#fr_34) A 28, 15.
+<span id="fn_34"></span>[13:2](siim04.htm#fr_34.md) A 28, 15.
 
-<span id="fn_35"></span>[14:1](siim04.htm#fr_35) A 32, 4.
+<span id="fn_35"></span>[14:1](siim04.htm#fr_35.md) A 32, 4.
 
-<span id="fn_36"></span>[14:2](siim04.htm#fr_36) A 34, 5.
+<span id="fn_36"></span>[14:2](siim04.htm#fr_36.md) A 34, 5.
 
-<span id="fn_37"></span>[14:3](siim04.htm#fr_37) A 35, 4.
+<span id="fn_37"></span>[14:3](siim04.htm#fr_37.md) A 35, 4.
 
-<span id="fn_38"></span>[14:4](siim04.htm#fr_38) A 35, 25.
+<span id="fn_38"></span>[14:4](siim04.htm#fr_38.md) A 35, 25.
 
-<span id="fn_39"></span>[15:1](siim04.htm#fr_39) A 36, 8.
+<span id="fn_39"></span>[15:1](siim04.htm#fr_39.md) A 36, 8.
 
-<span id="fn_40"></span>[16:1](siim04.htm#fr_40) Kor. 2, 131.
+<span id="fn_40"></span>[16:1](siim04.htm#fr_40.md) Kor. 2, 131.
 
-<span id="fn_41"></span>[16:2](siim04.htm#fr_41) Reading <span
+<span id="fn_41"></span>[16:2](siim04.htm#fr_41.md) Reading <span
 id="img_01600"></span> ![](img/01600.jpg).
 
-<span id="fn_42"></span>[16:3](siim04.htm#fr_42) Kor. 41, 53.
+<span id="fn_42"></span>[16:3](siim04.htm#fr_42.md) Kor. 41, 53.
 
-<span id="fn_43"></span>[17:1](siim04.htm#fr_43) Kor. 21, 36.
+<span id="fn_43"></span>[17:1](siim04.htm#fr_43.md) Kor. 21, 36.
 
-<span id="fn_44"></span>[17:2](siim04.htm#fr_44) H 19, 6. A 37, 8.
+<span id="fn_44"></span>[17:2](siim04.htm#fr_44.md) H 19, 6. A 37, 8.
 
-<span id="fn_45"></span>[17:3](siim04.htm#fr_45) A 40, 19.
+<span id="fn_45"></span>[17:3](siim04.htm#fr_45.md) A 40, 19.
 
-<span id="fn_46"></span>[17:4](siim04.htm#fr_46) A 43, 9.
+<span id="fn_46"></span>[17:4](siim04.htm#fr_46.md) A 43, 9.
 
-<span id="fn_47"></span>[17:5](siim04.htm#fr_47) According to the
+<span id="fn_47"></span>[17:5](siim04.htm#fr_47.md) According to the
 *Asrár*, 44, 9, the inhabitants of Báward called the <span
 id="page_18">p. 18</span> village Shámína (<span id="img_01801"></span>
 ![](img/01801.jpg)) or Sháhína (<span id="img_01802"></span>
@@ -1926,20 +1926,20 @@ id="img_01807"></span> ![](img/01807.jpg), etc. Sam‘ání gives <span
 id="img_01808"></span> ![](img/01808.jpg) (Míhaní) as the pronunciation
 of the *nisba*.
 
-<span id="fn_48"></span>[18:1](siim04.htm#fr_48) A 44, 11.
+<span id="fn_48"></span>[18:1](siim04.htm#fr_48.md) A 44, 11.
 
-<span id="fn_49"></span>[18:2](siim04.htm#fr_49) A 46, 7.
+<span id="fn_49"></span>[18:2](siim04.htm#fr_49.md) A 46, 7.
 
-<span id="fn_50"></span>[19:1](siim04.htm#fr_50) A 46, 11.
+<span id="fn_50"></span>[19:1](siim04.htm#fr_50.md) A 46, 11.
 
-<span id="fn_51"></span>[19:2](siim04.htm#fr_51) A 45, 14.
+<span id="fn_51"></span>[19:2](siim04.htm#fr_51.md) A 45, 14.
 
-<span id="fn_52"></span>[19:3](siim04.htm#fr_52) In the *Nafaḥátu
+<span id="fn_52"></span>[19:3](siim04.htm#fr_52.md) In the *Nafaḥátu
 ’l-Uns* (ed. by Nassau Lees), p. 327, 2, where this passage is quoted,
 the name of the village is written <span id="img_01900"></span>
 ![](img/01900.jpg) (Basma).
 
-<span id="fn_53"></span>[19:4](siim04.htm#fr_53) A pupil of Abú ’Uthmán
+<span id="fn_53"></span>[19:4](siim04.htm#fr_53.md) A pupil of Abú ’Uthmán
 Ḥírí. It is stated in the *Asrár*, 48, 1, that his name is given by Abú
 ‘Abú al-Raḥmán al-Sulamí in the *Ṭabaqátu ’l-Ṣúfiyya* as Muḥammad
 ’Ulayyán al-Nasawí, but that in Nasá he is generally known by the name
@@ -1947,48 +1947,48 @@ of Aḥmad ‘Alí. According to the British Museum Ms. of the *Ṭabaqát*, f.
 96 *a*, his name is Muḥammad b. ‘Alí and he is generally known as
 Muḥammad b. ’Ulayyán.
 
-<span id="fn_54"></span>[19:5](siim04.htm#fr_54) Cf. *Nafaḥátu ’l-Uns*,
+<span id="fn_54"></span>[19:5](siim04.htm#fr_54.md) Cf. *Nafaḥátu ’l-Uns*,
 No. 357.
 
-<span id="fn_55"></span>[19:6](siim04.htm#fr_55) A 47, 10.
+<span id="fn_55"></span>[19:6](siim04.htm#fr_55.md) A 47, 10.
 
-<span id="fn_56"></span>[20:1](siim04.htm#fr_56) *I.e.*, thou wilt never
+<span id="fn_56"></span>[20:1](siim04.htm#fr_56.md) *I.e.*, thou wilt never
 serve God truly until thou art free from 'self.'
 
-<span id="fn_57"></span>[20:2](siim04.htm#fr_57) A 49, 4.
+<span id="fn_57"></span>[20:2](siim04.htm#fr_57.md) A 49, 4.
 
-<span id="fn_58"></span>[20:3](siim04.htm#fr_58) A 50, 1.
+<span id="fn_58"></span>[20:3](siim04.htm#fr_58.md) A 50, 1.
 
-<span id="fn_59"></span>[21:1](siim04.htm#fr_59) A 51, 18.
+<span id="fn_59"></span>[21:1](siim04.htm#fr_59.md) A 51, 18.
 
-<span id="fn_60"></span>[21:2](siim04.htm#fr_60) A 52, 7.
+<span id="fn_60"></span>[21:2](siim04.htm#fr_60.md) A 52, 7.
 
-<span id="fn_61"></span>[21:3](siim04.htm#fr_61) Reading <span
+<span id="fn_61"></span>[21:3](siim04.htm#fr_61.md) Reading <span
 id="img_02100"></span> ![](img/02100.jpg) for <span
 id="img_02101"></span> ![](img/02101.jpg).
 
-<span id="fn_62"></span>[21:4](siim04.htm#fr_62) A 51, 14.
+<span id="fn_62"></span>[21:4](siim04.htm#fr_62.md) A 51, 14.
 
-<span id="fn_63"></span>[21:5](siim04.htm#fr_63) Two and a half years,
+<span id="fn_63"></span>[21:5](siim04.htm#fr_63.md) Two and a half years,
 according to another tradition which has less authority (A 52, 17).
 
-<span id="fn_64"></span>[21:6](siim04.htm#fr_64) *Záwiya-gáh*. It seems
+<span id="fn_64"></span>[21:6](siim04.htm#fr_64.md) *Záwiya-gáh*. It seems
 to have been a place surrounded by a railing or lattice, since it is
 compared in the text to a penfold (*ḥaẓíra*).
 
-<span id="fn_65"></span>[21:7](siim04.htm#fr_65) A 53, 1.
+<span id="fn_65"></span>[21:7](siim04.htm#fr_65.md) A 53, 1.
 
-<span id="fn_66"></span>[22:1](siim04.htm#fr_66) *Khashan* is properly
+<span id="fn_66"></span>[22:1](siim04.htm#fr_66.md) *Khashan* is properly
 the name of a grass from which coarse garments are made.
 
-<span id="fn_67"></span>[22:2](siim04.htm#fr_67) See [p. 14](#page_14)
+<span id="fn_67"></span>[22:2](siim04.htm#fr_67) See [p. 14](#page_14.md)
 *supra*.
 
-<span id="fn_68"></span>[22:3](siim04.htm#fr_68) A 54, 6-59, 5. Cf. the
+<span id="fn_68"></span>[22:3](siim04.htm#fr_68.md) A 54, 6-59, 5. Cf. the
 fourth chapter of Hujwirí's *Kashf al-Maḥjúb*, pp. 45-47, in my
 translation.
 
-<span id="fn_69"></span>[23:1](siim04.htm#fr_69) *Pír-i ṣuḥbat*, *i.e.*,
+<span id="fn_69"></span>[23:1](siim04.htm#fr_69.md) *Pír-i ṣuḥbat*, *i.e.*,
 the Pír to whom one stands in the relation of disciple (*ṣáḥíb*). The
 *pír-i ṣuḥbat* of Abú Sa‘íd was Abú ’l-Faḍl Ḥasan of Sarakhs (A 26, 10).
 Abú Sa‘íd used to call him 'Pír,' while he spoke of Abú ’l-‘Abbás Qaṣṣáb
@@ -1996,171 +1996,171 @@ simply as 'the Shaykh' (A 43, 18). The second question implies that a
 Pír might confer the *khirqa* upon a novice whom he had not personally
 trained.
 
-<span id="fn_70"></span>[23:2](siim04.htm#fr_70) A 56, 1.
+<span id="fn_70"></span>[23:2](siim04.htm#fr_70.md) A 56, 1.
 
-<span id="fn_71"></span>[23:3](siim04.htm#fr_71) The *khirqa* with which
+<span id="fn_71"></span>[23:3](siim04.htm#fr_71.md) The *khirqa* with which
 the novice is invested by a Pír is named "the *khirqa* of origin"
 (*khirqa-i aṣl*) or "the *khirqa* of blessing" (*khirqa-i tabarruk*). A
 57, 7, where <span id="img_02300"></span> ![](img/02300.jpg) should be
 read in place of <span id="img_02301"></span> ![](img/02301.jpg).
 
-<span id="fn_72"></span>[23:4](siim04.htm#fr_72) A 59, 1.
+<span id="fn_72"></span>[23:4](siim04.htm#fr_72.md) A 59, 1.
 
-<span id="fn_73"></span>[23:5](siim04.htm#fr_73) A 57, 12.
+<span id="fn_73"></span>[23:5](siim04.htm#fr_73.md) A 57, 12.
 
-<span id="fn_74"></span>[24:1](siim04.htm#fr_74) A 59, 16.
+<span id="fn_74"></span>[24:1](siim04.htm#fr_74.md) A 59, 16.
 
-<span id="fn_75"></span>[24:2](siim04.htm#fr_75) A 62, 9.
+<span id="fn_75"></span>[24:2](siim04.htm#fr_75.md) A 62, 9.
 
-<span id="fn_76"></span>[24:3](siim04.htm#fr_76) Concerning these terms
+<span id="fn_76"></span>[24:3](siim04.htm#fr_76.md) Concerning these terms
 see my translation of the *Kashf al-Maḥjúb*, pp. 374-376.
 
-<span id="fn_77"></span>[24:4](siim04.htm#fr_77) A 62, 18.
+<span id="fn_77"></span>[24:4](siim04.htm#fr_77.md) A 62, 18.
 
-<span id="fn_78"></span>[25:1](siim04.htm#fr_78) A 64, 6.
+<span id="fn_78"></span>[25:1](siim04.htm#fr_78.md) A 64, 6.
 
-<span id="fn_79"></span>[25:2](siim04.htm#fr_79) A 61, 1.
+<span id="fn_79"></span>[25:2](siim04.htm#fr_79.md) A 61, 1.
 
-<span id="fn_80"></span>[25:3](siim04.htm#fr_80) Kor. 46, 14.
+<span id="fn_80"></span>[25:3](siim04.htm#fr_80.md) Kor. 46, 14.
 
-<span id="fn_81"></span>[25:4](siim04.htm#fr_81) A 65, 9.
+<span id="fn_81"></span>[25:4](siim04.htm#fr_81.md) A 65, 9.
 
-<span id="fn_82"></span>[26:1](siim04.htm#fr_82) A village near Bisṭám.
+<span id="fn_82"></span>[26:1](siim04.htm#fr_82.md) A village near Bisṭám.
 According to Sam‘ání and Yáqút, the correct pronunciation is Kharaqán.
 Khurqán, the spelling preferred by Mr Le Strange (*Eastern Caliphate*,
 pp. 23 and 366), has less authority.
 
-<span id="fn_83"></span>[26:2](siim04.htm#fr_83) The words "He was one
+<span id="fn_83"></span>[26:2](siim04.htm#fr_83.md) The words "He was one
 year in Níshápúr" (A 94, 4) refer, as the context makes plain, only to
 the first year of his stay in that city. Possibly the period of his
 residence there was not continuous. It is worth notice that, according
 to H 72, 17, he usually spent the winter at Mayhana and the summer at
 Níshápúr.
 
-<span id="fn_84"></span>[27:1](siim04.htm#fr_84) A 69, 14.
+<span id="fn_84"></span>[27:1](siim04.htm#fr_84.md) A 69, 14.
 
-<span id="fn_85"></span>[27:2](siim04.htm#fr_85) A 70, 8. Cf. A 115, 16.
+<span id="fn_85"></span>[27:2](siim04.htm#fr_85.md) A 70, 8. Cf. A 115, 16.
 According to another version (A 233, 5 foll.), the prophecy was made
 after Abú Sa‘íd's return from Níshápúr to Mayhana, where he was visited
 by Niẓámu ’l-Mulk, who was then a young student.
 
-<span id="fn_86"></span>[27:3](siim04.htm#fr_86) A 73, 4. The MSS. give
+<span id="fn_86"></span>[27:3](siim04.htm#fr_86.md) A 73, 4. The MSS. give
 the name of the street as <span id="img_02700"></span>
 ![](img/02700.jpg) or <span id="img_02701"></span> ![](img/02701.jpg) (A
 73, 14; 119, 15). Cf. <span id="img_02702"></span> ![](img/02702.jpg).
 (A 463, 9).
 
-<span id="fn_87"></span>[27:4](siim04.htm#fr_87) This convent was
+<span id="fn_87"></span>[27:4](siim04.htm#fr_87.md) This convent was
 destroyed by the Ghuzz who sacked Níshápúr in <span
 class="smallcaps">A.H.</span> 548 = <span class="smallcaps">a.d.</span>
 1154 (A 195, 11).
 
-<span id="fn_88"></span>[27:5](siim04.htm#fr_88) A 84, 10.
+<span id="fn_88"></span>[27:5](siim04.htm#fr_88.md) A 84, 10.
 
-<span id="fn_89"></span>[28:1](siim04.htm#fr_89) A 75, 12.
+<span id="fn_89"></span>[28:1](siim04.htm#fr_89.md) A 75, 12.
 
-<span id="fn_90"></span>[28:2](siim04.htm#fr_90) He compares his
+<span id="fn_90"></span>[28:2](siim04.htm#fr_90.md) He compares his
 reception to that of a dog who on entering a parish where he is unknown
 is set upon and mauled by all the dogs belonging to it (A 265, 12).
 
-<span id="fn_91"></span>[28:3](siim04.htm#fr_91) The Karrámís
+<span id="fn_91"></span>[28:3](siim04.htm#fr_91.md) The Karrámís
 interpreted the Koran in the most literal sense. See Macdonald, *Muslim
 Theology*, p. 170 foll.
 
-<span id="fn_92"></span>[29:1](siim04.htm#fr_92) *Lawzína* and
+<span id="fn_92"></span>[29:1](siim04.htm#fr_92.md) *Lawzína* and
 *gawzína*. For the former see Dozy. The latter is said to be a sweetmeat
 made of walnut kernels.
 
-<span id="fn_93"></span>[32:1](siim04.htm#fr_93) Kor. 109, 6.
+<span id="fn_93"></span>[32:1](siim04.htm#fr_93.md) Kor. 109, 6.
 
-<span id="fn_94"></span>[32:2](siim04.htm#fr_94) A 84, 10-91, 17.
+<span id="fn_94"></span>[32:2](siim04.htm#fr_94.md) A 84, 10-91, 17.
 
-<span id="fn_95"></span>[33:1](siim04.htm#fr_95) A 94, 3.
+<span id="fn_95"></span>[33:1](siim04.htm#fr_95.md) A 94, 3.
 
-<span id="fn_96"></span>[34:1](siim04.htm#fr_96) See, for example, my
+<span id="fn_96"></span>[34:1](siim04.htm#fr_96.md) See, for example, my
 abstract of the contents of the *Kitáb al-Luma‘*, 69 foll., and Hujwírí,
 *Kashf al-Maḥjúb*, 393 foll. It is certain that Qushayrí did not condemn
 *samá‘* outright. He seems to have held the view, which was favoured by
 many Ṣúfís that same is bad for novices, but good for adepts. Cf.
 Richard Hartmann, *Al-Ḳuschairîs Darstellung des Ṣûfîtums*, 134 foll.
 
-<span id="fn_97"></span>[34:2](siim04.htm#fr_97) A 95, 15.
+<span id="fn_97"></span>[34:2](siim04.htm#fr_97.md) A 95, 15.
 
-<span id="fn_98"></span>[34:3](siim04.htm#fr_98) A 97, 10.
+<span id="fn_98"></span>[34:3](siim04.htm#fr_98.md) A 97, 10.
 
-<span id="fn_99"></span>[34:4](siim04.htm#fr_99) A 106, 8.
+<span id="fn_99"></span>[34:4](siim04.htm#fr_99.md) A 106, 8.
 
-<span id="fn_100"></span>[35:1](siim04.htm#fr_100) A 102, 10.
+<span id="fn_100"></span>[35:1](siim04.htm#fr_100.md) A 102, 10.
 
-<span id="fn_101"></span>[36:1](siim04.htm#fr_101) A 103, 14.
+<span id="fn_101"></span>[36:1](siim04.htm#fr_101.md) A 103, 14.
 
-<span id="fn_102"></span>[36:2](siim04.htm#fr_102) A 109, 17; 179, 12.
+<span id="fn_102"></span>[36:2](siim04.htm#fr_102.md) A 109, 17; 179, 12.
 
-<span id="fn_103"></span>[36:3](siim04.htm#fr_103) A 294, 11.
+<span id="fn_103"></span>[36:3](siim04.htm#fr_103.md) A 294, 11.
 
-<span id="fn_104"></span>[37:1](siim04.htm#fr_104) A 117, 16.
+<span id="fn_104"></span>[37:1](siim04.htm#fr_104.md) A 117, 16.
 
-<span id="fn_105"></span>[37:2](siim04.htm#fr_105) A 110, 3.
+<span id="fn_105"></span>[37:2](siim04.htm#fr_105.md) A 110, 3.
 
-<span id="fn_106"></span>[37:3](siim04.htm#fr_106) <span
+<span id="fn_106"></span>[37:3](siim04.htm#fr_106.md) <span
 id="img_03700"></span> ![](img/03700.jpg).
 
-<span id="fn_107"></span>[37:4](siim04.htm#fr_107) Extravagance
+<span id="fn_107"></span>[37:4](siim04.htm#fr_107.md) Extravagance
 (*isráf*) is forbidden in the Koran, 6, 142; 7, 29, etc.
 
-<span id="fn_108"></span>[37:5](siim04.htm#fr_108) A 134, 9. In another
+<span id="fn_108"></span>[37:5](siim04.htm#fr_108.md) A 134, 9. In another
 version of this story (A 157, 11) the offender is smitten with
 paralysis.
 
-<span id="fn_109"></span>[39:1](siim04.htm#fr_109) A 113, 1.
+<span id="fn_109"></span>[39:1](siim04.htm#fr_109.md) A 113, 1.
 
-<span id="fn_110"></span>[39:2](siim04.htm#fr_110) A 123, 19.
+<span id="fn_110"></span>[39:2](siim04.htm#fr_110.md) A 123, 19.
 
-<span id="fn_111"></span>[41:1](siim04.htm#fr_111) A 280, 3.
+<span id="fn_111"></span>[41:1](siim04.htm#fr_111.md) A 280, 3.
 
-<span id="fn_112"></span>[41:2](siim04.htm#fr_112) A 299, 16.
+<span id="fn_112"></span>[41:2](siim04.htm#fr_112.md) A 299, 16.
 
-<span id="fn_113"></span>[42:1](siim04.htm#fr_113) A 236, 21.
+<span id="fn_113"></span>[42:1](siim04.htm#fr_113.md) A 236, 21.
 
-<span id="fn_114"></span>[42:2](siim04.htm#fr_114) The Arabic text of a
+<span id="fn_114"></span>[42:2](siim04.htm#fr_114.md) The Arabic text of a
 letter written by Avicenna in reply to one from Abú Sa‘íd is given in H
 65, 3.
 
-<span id="fn_115"></span>[42:3](siim04.htm#fr_115) A 251, 16.
+<span id="fn_115"></span>[42:3](siim04.htm#fr_115.md) A 251, 16.
 
-<span id="fn_116"></span>[42:4](siim04.htm#fr_116) A 252, 12.
+<span id="fn_116"></span>[42:4](siim04.htm#fr_116.md) A 252, 12.
 
-<span id="fn_117"></span>[42:5](siim04.htm#fr_117) See his biography in
+<span id="fn_117"></span>[42:5](siim04.htm#fr_117.md) See his biography in
 ‘Aṭṭár's *Tadhkiratu ’l-Awliyá*, 11. 201-255. Some of his sayings are
 translated in my *Mystics of Islam*, p. 133 foll.
 
-<span id="fn_118"></span>[43:1](siim04.htm#fr_118) A 175-191.
+<span id="fn_118"></span>[43:1](siim04.htm#fr_118.md) A 175-191.
 
-<span id="fn_119"></span>[45:1](siim04.htm#fr_119) A 193, 18.
+<span id="fn_119"></span>[45:1](siim04.htm#fr_119.md) A 193, 18.
 
-<span id="fn_120"></span>[45:2](siim04.htm#fr_120) A 110, 16.
+<span id="fn_120"></span>[45:2](siim04.htm#fr_120.md) A 110, 16.
 
-<span id="fn_121"></span>[45:3](siim04.htm#fr_121) A 195, 3.
+<span id="fn_121"></span>[45:3](siim04.htm#fr_121.md) A 195, 3.
 
-<span id="fn_122"></span>[45:4](siim04.htm#fr_122) A 67, 1.
+<span id="fn_122"></span>[45:4](siim04.htm#fr_122.md) A 67, 1.
 
-<span id="fn_123"></span>[45:5](siim04.htm#fr_123) H 78, 19. A 445, 12.
+<span id="fn_123"></span>[45:5](siim04.htm#fr_123.md) H 78, 19. A 445, 12.
 
-<span id="fn_124"></span>[45:6](siim04.htm#fr_124) A 80, 14.
+<span id="fn_124"></span>[45:6](siim04.htm#fr_124.md) A 80, 14.
 
-<span id="fn_125"></span>[46:1](siim04.htm#fr_125) Reading <span
+<span id="fn_125"></span>[46:1](siim04.htm#fr_125.md) Reading <span
 id="img_04600"></span> ![](img/04600.jpg).
 
-<span id="fn_126"></span>[46:2](siim04.htm#fr_126) <span
+<span id="fn_126"></span>[46:2](siim04.htm#fr_126.md) <span
 id="img_04601"></span> ![](img/04601.jpg), *i.e.*, I suppose, at the
 commencement of their monastic life.
 
-<span id="fn_127"></span>[46:3](siim04.htm#fr_127) A 416, 5.
+<span id="fn_127"></span>[46:3](siim04.htm#fr_127.md) A 416, 5.
 
-<span id="fn_128"></span>[47:1](siim04.htm#fr_128) A 146, 4.
+<span id="fn_128"></span>[47:1](siim04.htm#fr_128.md) A 146, 4.
 
-<span id="fn_129"></span>[47:2](siim04.htm#fr_129) A 271, 5.
+<span id="fn_129"></span>[47:2](siim04.htm#fr_129.md) A 271, 5.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](siim05)
+[Next: Part II](siim05.md)

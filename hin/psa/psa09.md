@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa08)  [Next](psa10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa08)  [Next](psa10.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ to Brahmins.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](psa10)
+[Next: Chapter IX](psa10.md)

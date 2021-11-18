@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa38)  [Next](psa40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa38)  [Next](psa40.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ the sacrificial goat is killed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIX](psa40)
+[Next: Chapter XXXIX](psa40.md)

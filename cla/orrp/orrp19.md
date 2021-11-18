@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp18)  [Next](orrp20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp18)  [Next](orrp20.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ setting forth the rules that obtained at the court of the Parthians:
 "Alle Ordnungen die mit wenigen Abminderungen bei den römischen Cæsaren
 wiederkehren und vielleicht zum Teil von diesen der älteren
 Grossherrschaft entlehnt sind."--Cf. also *infra*, ch. VIII, n.
- [8\_19](orrp21.htm#xref_8_19).
+ [8\_19](orrp21.htm#xref_8_19.md).
 
 <span id="xref_6_6">6\_6</span>. Friedländer, *loc. cit.*, p. 204; cf.
 p. 160.
@@ -118,7 +118,7 @@ Sassanid art in Syria is nevertheless certain; see Dussaud, *Les Arabes
 en Syrie avant l'Islam*, 1907, pp. 33, 51
 
 <span id="xref_6_13">6\_13</span>. Cf. *infra*, n.
- [6\_32](orrp19.htm#xref_6_32).
+ [6\_32](orrp19.htm#xref_6_32.md).
 
 <span id="xref_6_14">6\_14</span>. Plutarch, V. *Pompei*, 24:
 
@@ -174,8 +174,8 @@ already had this quality in Cappadocia; cf. *Mon. myst. Mithra*, II, p.
 worshiped in Cappadocia, see *Mon. myst. Mithra*, I, p. 132.
 
 <span id="xref_6_21">6\_21</span>. See *supra*, n.
- [6\_16](orrp19.htm#xref_6_16) and
- [6\_18](orrp19.htm#xref_6_18).--According to Grégoire, the bilingual
+ [6\_16](orrp19.htm#xref_6_16.md) and
+ [6\_18](orrp19.htm#xref_6_18.md).--According to Grégoire, the bilingual
 inscription of Farasha dates back to the first century, before or after
 Christ (*loc. cit.*, p. 445).
 
@@ -279,7 +279,7 @@ cf. Bidez, *Revue de Philologie*, XXIX, 1905, p. 319.
 <span id="xref_6_35">6\_35</span>. Plutarch, *De Iside*, 46 ff.; cf.
 Zeller, *Philos. der Griechen*, V, p. 188; Eisele, *Zur Demonologie des
 Plutarch* (*Archiv für Gesch. der Philos.*, XVII), 1903, p. 283 f.--Cf.
-*infra*, n.  [6\_40](orrp19.htm#xref_6_40).
+*infra*, n.  [6\_40](orrp19.htm#xref_6_40.md).
 
 <span id="page_266">p. 266</span>
 
@@ -303,7 +303,7 @@ magical papyri also knew of the existence of these deceiving spirits
 ἀληθινὸν δίχα τινὸς ἀντιθέου πλανοδαίμονος).
 
 <span id="xref_6_37">6\_37</span>. In a passage to which we shall return
-in note  [6\_39](orrp19.htm#xref_6_39), Porphyry (*De Abstin.*, II, 42),
+in note  [6\_39](orrp19.htm#xref_6_39), Porphyry (*De Abstin.*, II, 42.md),
 speaks of the demons in almost the same terms as Arnobius: Τὸ γὰρ φεῦδος
 τούτοις οἰκεῖον· Βούλονται γὰρ εῖ᾽ναι θεοὶ καὶ ἡ προσετῶσα αὐτῶν δύναμις
 δοκεῖν θεὸς εῖ᾽ναι ὁ μέγιοστος the *De philos. ex orac. hour.* (pp. 147
@@ -313,7 +313,7 @@ malevolent demons. There was bound to be a connection between the
 Egyptian god of the underworld and the Ahriman of the Persians at an
 early date.--A veiled allusion to this chief of demons may be contained
 in Lucan, VI, 742 ff., and Plutarch who, in *De Iside*, 46, called
-Ahriman Hades (*supra*, [p. 190](orrp11.htm#page_190); cf. *Mon. myst.
+Ahriman Hades (*supra*, [p. 190](orrp11.htm#page_190.md); cf. *Mon. myst.
 Mithra*, II, p. 131, No. 3), says elsewhere (*De latenter viv.*, 6, p.
 1130):Τὸν δὲ τῆς ἐναντίας κύριον μοίρας, εἴτε θεὸς εἴτε δαίμων ἐστίν,
 Ἄιδην ὀνομάζουσιν. Cf. Decharme, *Traditions religieuses chez les
@@ -347,9 +347,9 @@ doctrines of the magi, seems to appear immediately from the whole of
 Porphyry's exposition (one could almost give an endless commentary on it
 with the help of the Mazdean books) and in particular from the mention
 that is made of a power commanding the spirits of evil (see *supra*, n.
- [6\_37](orrp19.htm#xref_6_37)). This conclusion is confirmed by a
+ [6\_37](orrp19.htm#xref_6_37).md). This conclusion is confirmed by a
 comparison with the passage of Arnobius cited above (n.
- [6\_36](orrp19.htm#xref_6_36)), who attributes similar theories to the
+ [6\_36](orrp19.htm#xref_6_36).md), who attributes similar theories to the
 "magi," and with a chapter of the Ps.-Iamblichus (*De mysteriis*, III,
 31) which develops analogous beliefs as being those of "Chaldean
 prophets."--Porphyry also cites a "Chaldean" theologian in connection
@@ -359,7 +359,7 @@ Dei*, X, 9).
 I conjecture that the source of all this demonology is the book
 attributed to Hostanes which we find mentioned in the second century of
 our era by Minucius Felix, St. Cyprian (*supra*, n.
- [6\_38](orrp19.htm#xref_6_38)), etc.; cf. Wolff, *op. cit.*, p. 138;
+ [6\_38](orrp19.htm#xref_6_38).md), etc.; cf. Wolff, *op. cit.*, p. 138;
 *Mon. myst. Mithra*, I, p. 33. As a matter of fact it would be false
 logic to try to explain the evolution of demonology, which is above
 everything else religious, by the development of the philosophic
@@ -372,7 +372,7 @@ Stock and Glover: *Transactions of the Congress of* 
 ff.). The influence of the popular Hellenic or foreign ideas has always
 been preponderant here; and the Epinomis, which contains one of the
 oldest accounts of the theory of demons, as proved *supra*, n.
- [6\_34](orrp19.htm#xref_6_34), was influenced by the Semitic notions
+ [6\_34](orrp19.htm#xref_6_34.md), was influenced by the Semitic notions
 about genii, the ancestors of the *djinns* and the *wélys* of Islam.
 
 If, as we believe, the text of Porphyry really sets forth the theology
@@ -400,14 +400,14 @@ p. 415 A:
 <span id="xref_6_41">6\_41</span>. Cf. Minucius Felix, 26, § 11:
 "Hostanes daemonas prodidit terrenos vagos humanitatis inimicos." The
 pagan idea, that the air was peopled with evil spirits against whom man
-had to [struggle](errata.htm#10) perpetually, persisted among the
+had to [struggle](errata.htm#10.md) perpetually, persisted among the
 Christians; cf. *Ephes.*, ii. 2, vi. 12, see also Prudentius,
 *Hamartigenia*, 514 ff.
 
 <span id="xref_6_42">6\_42</span>. Cf. Minucius Felix, *loc. cit.*:
 "Magi non solum sciunt daemonas, sed quidquid miraculi ludunt, per
 daemonas faciunt," etc. Cf. Aug., *Civ. Dei*, X, 9 and *infra*, ch. VII,
-n.  [7\_76](orrp20.htm#xref_7_76).
+n.  [7\_76](orrp20.htm#xref_7_76.md).
 
 <span id="xref_6_43">6\_43</span>. *Mon. myst. Mithra*, I, pp. 139 ff.
 
@@ -424,7 +424,7 @@ Judentums im neutest. Zeitalter*, 1903, pp. 483 ff.
 the Lord.
 
 <span id="xref_6_47">6\_47</span>. Cf. *supra*, [p.
-36](orrp06.htm#page_36).
+36](orrp06.htm#page_36.md).
 
 <span id="xref_6_48">6\_48</span>. The remark is from Darmesteter,
 *Zend-Avesta*, II, p. 441.
@@ -437,17 +437,17 @@ the Lord.
 
 <span id="xref_6_51">6\_51</span>. Mithra is sanctus (*Mon. myst.
 Mithra*, II, p. 533), like the Syrian gods; cf. *supra*, ch. V, n.
- [5\_47](orrp18.htm#xref_5_47).
+ [5\_47](orrp18.htm#xref_5_47.md).
 
 <span id="xref_6_52">6\_52</span>. *Mon. myst. Mithra*, I, pp. 309 ff.
 The eschatology of orthodox Mazdaism has been expounded recently by
 Söderblom, *La vie future d'après le mazdéisme*, Paris, 1901.
 
 <span id="xref_6_53">6\_53</span>. Cf. *supra*, ch. IV, [p.
-100](orrp08.htm#page_100), ch. V, [p. 126](orrp09.htm#page_126).
+100](orrp08.htm#page_100), ch. V, [p. 126](orrp09.htm#page_126.md).
 
 <span id="xref_6_54">6\_54</span>. We have explained this theory above,
-[p. 125](orrp09.htm#page_125). It was foreign to the religion of
+[p. 125](orrp09.htm#page_125.md). It was foreign to the religion of
 Zoroaster and was introduced into the mysteries of Mithra with the
 Chaldean astrology. Moreover, ancient mythological ideas were always
 mixed with this learned theology. For instance, it was an old Oriental
@@ -494,4 +494,4 @@ d'osier*, p. 318. Cf. Reinach, *op. cit.* \[p. 260\], p. 232.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Astrology and Magic](orrp20)
+[Next: VII. Astrology and Magic](orrp20.md)

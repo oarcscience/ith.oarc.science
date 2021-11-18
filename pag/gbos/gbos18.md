@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos17)  [Next](gbos19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos17)  [Next](gbos19.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ ensue, it shall be that of brother and sister or parent and child. And
 it is for this reason that a man may only be taught by a woman and a
 woman by a man, and that man and man, and woman and woman, should never
 attempt these practices together. And may all the Curses of the Mighty
-Ones be on any who make the attempt. <span id="fr_1"></span>[2](#fn_1)
+Ones be on any who make the attempt. <span id="fr_1"></span>[2](#fn_1.md)
 
 \[6\] Remember, the Circle, properly constructed, is ever necessary to
 prevent the power released from being dissipated. It is also a barrier
@@ -93,9 +93,9 @@ and wish to bring a companion to this state of joy, ritual is best.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2](gbos18.htm#fr_1) Gardner appended this
+<span id="fn_1"></span>[2](gbos18.htm#fr_1.md) Gardner appended this
 paragraph to the Craft Laws in the early 1960s.
 
 ------------------------------------------------------------------------
 
-[Next: Power](gbos19)
+[Next: Power](gbos19.md)

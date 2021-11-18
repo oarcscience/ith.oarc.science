@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs05)  [Next](wcs07) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs05)  [Next](wcs07.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ priests had control of their souls, the lord, of their bodies. But it
 was not upon the male serfs that the greatest oppression fell. Although
 the tillage of the soil, the care of swine and cattle was theirs, the
 masters claiming half or more of everything, even to one-half of the
-wool shorn from the flock,<span id="fr_1"></span>[1](#fn_1) and all
+wool shorn from the flock,<span id="fr_1"></span>[1](#fn_1.md) and all
 exactions upon them were great while their sense of security was slight,
 it was upon their wives and daughters that the
 
@@ -33,7 +33,7 @@ it was upon their wives and daughters that the
 greatest outrages were inflicted. It was a pastime of the castle
 retainers to fall upon peaceful villages, to the consternation of the
 women, who were struck, tortured, and made the sport of ribald
-soldiers.<span id="fr_2"></span>[2](#fn_2) "Serfs of the body," they had
+soldiers.<span id="fr_2"></span>[2](#fn_2.md) "Serfs of the body," they had
 no protection. The vilest outrages were perpetrated by the feudal lords
 under the name of "rights." Women were taught by church and state alike
 that the feudal lord or seigneur had a right to them not only as against
@@ -42,13 +42,13 @@ known by a variety of names, but more modernly as "marchetta," or
 "marquette," compelled newly married women to a most dishonorable
 servitude. They were regarded as the rightful prey of the feudal lord
 for from one to three days after their marriage,<span
-id="fr_3"></span>[3](#fn_3) and from this custom, the oldest son of the
+id="fr_3"></span>[3](#fn_3.md) and from this custom, the oldest son of the
 serf was held as the son of the lord, "as perchance it was he who begot
 him."
 
     From this nefarious degradation of woman the custom of
 Borough-English arose, the youngest son becoming the heir<span
-id="fr_4"></span>[4](#fn_4): The original signification of the word
+id="fr_4"></span>[4](#fn_4.md): The original signification of the word
 borough, being *to make secure*, the peasant through Borough-English
 made secure the right of his own son to what inheritance he might leave,
 thus cutting
@@ -67,7 +67,7 @@ owed their origin among other causes to the enforcement of these claims
 by the lords upon the newly married wife. The Edicts of Marley securing
 the seigneural tenure in Lower Canada transplanted that claim to America
 when Canada was under the control of France.<span
-id="fr_5"></span>[5](#fn_5)
+id="fr_5"></span>[5](#fn_5.md)
 
     During the feudal period when chivalry held highest rank in the
 duties of the knight, women of the lower classes were absolutely
@@ -77,8 +77,8 @@ Most of the bishops and *chanonies* were also temporal lords. The Bishop
 of Amiens possessed this right against the women of his vassals and the
 peasants of his fiefs, of which he was dispossessed at the commencement
 of the fifteenth century, by an *arreet*, rendered at the solicitation
-of husbands.<span id="fr_6"></span>[6](#fn_6) Although the clergy,
-largely drawn from the nobility,<span id="fr_23"></span>[23](#fn_23)
+of husbands.<span id="fr_6"></span>[6](#fn_6.md) Although the clergy,
+largely drawn from the nobility,<span id="fr_23"></span>[23](#fn_23.md)
 whose portionless younger sons were thus easily provided for, sustained
 the corruptions of the lords temporal
 
@@ -97,7 +97,7 @@ custom. In several cantons of Piccardy, the cures imitated the bishops
 and anciently took the right of cuissage, but ultimately the peasants of
 this region refused to marry, and the priests gave up this practice
 which they had usurped when the bishop had become too old to take his
-right.<span id="fr_7"></span>[7](#fn_7) The resolution not to marry,
+right.<span id="fr_7"></span>[7](#fn_7.md) The resolution not to marry,
 surprised and confounded the lord "suzerains," who perceived it would
 cause the depopulation of their feifs. During the feudal period, bearing
 children was the duty pre-eminently taught women. Serf children
@@ -108,7 +108,7 @@ was taught that sensual submission to man, and the bearing of children,
 were the two reasons for her having been created, and that the woman who
 failed in either had no excuse for longer encumbering the earth. The
 language used from the Pulpit for the enforcement of these duties, will
-not bear reproduction.<span id="fr_8"></span>[8](#fn_8) The villeins
+not bear reproduction.<span id="fr_8"></span>[8](#fn_8.md) The villeins
 were not entirely
 
 <span id="page_156">p. 156</span>
@@ -116,13 +116,13 @@ were not entirely
 submissive under such great wrongs, frequently protesting against this
 right of their suzerains. At one time a number of Piedmont villages rose
 in united revolt, compelling the lords to relinquish some of their
-powers. Although<span id="fr_9"></span>[9](#fn_9) the concessions gained
+powers. Although<span id="fr_9"></span>[9](#fn_9.md) the concessions gained
 were but small, not putting an end to the lord's claim to the bride but
 merely lessening the time of his spoliation, the results were great in
 establishing the principle of serf rights.
 
     Marquette began to be abolished in France towards the end of the
-sixteenth century.<span id="fr_10"></span>[10](#fn_10) But an authority
+sixteenth century.<span id="fr_10"></span>[10](#fn_10.md) But an authority
 upon this question says that without doubt the usage still continued in
 certain countries, farther asserting that even in this century it
 existed in the county of Auvergene, and several vassals plead to their
@@ -130,10 +130,10 @@ lords against the continuance of this custom because of the great
 unhappiness it caused them. The lower orders of the clergy were very
 unwilling to relinquish this usage, vigorously protesting to their
 archbishops against the deprivation of the right, declaring they could
-not be dispossessed.<span id="fr_11"></span>[11](#fn_11) Bœms states
+not be dispossessed.<span id="fr_11"></span>[11](#fn_11.md) Bœms states
 that he was present at a spiritual council of the metropolitane of
 Bourges, and heard a priest claim the right upon ground of immemorial
-usage.<span id="fr_12"></span>[12](#fn_12)
+usage.<span id="fr_12"></span>[12](#fn_12.md)
 
     Although feudalism is generally considered the parent of this most
 infamous custom, some writers attribute its origin to an evangelical
@@ -143,7 +143,7 @@ council, or to precepts directly inculcated by the church," whose
 
 very highest dignitaries did not hesitate to avail themselves of the
 usage. In 1471, quite the latter part of the fifteenth century, Pope
-Sixtus IV<span id="fr_14"></span>[14](#fn_14) sought admission to the
+Sixtus IV<span id="fr_14"></span>[14](#fn_14.md) sought admission to the
 very illustrious Piedmont family, Della Rovere, which possessed the
 right of cuissage, allowing the lord absolute control of his vassals
 newly wedded bride for three days and nights; a cardinal of the family
@@ -156,10 +156,10 @@ Woman herself was powerless; the church, the state, the family, all
 possessed authority over her as against herself. Although eventually
 redemption through the payment of money, or property, was possible, yet
 a husband too poor or penurious to save her, aided in this debasement of
-his wife.<span id="fr_15"></span>[15](#fn_15) This inexpressible abuse
+his wife.<span id="fr_15"></span>[15](#fn_15.md) This inexpressible abuse
 and degradation of woman went under the name of pastime, nor were the
 courts to be depended upon for defense.<span
-id="fr_16"></span>[16](#fn_16) Their sympathies and decisions were with
+id="fr_16"></span>[16](#fn_16.md) Their sympathies and decisions were with
 the lord. Few except manorial courts existed. Even when freedom had been
 purchased for the bride, all feudal customs rendered it imperative upon
 her to bear the "wedding dish" to the castle. Accompanied by her
@@ -173,22 +173,22 @@ Babylon woman secured immunity by one service and payment to the temple,
 the claim of the lord to the peasant wife was not always confined to the
 marriage day, and refusal of the loan of his wife at later date brought
 most severe punishment upon the husband.<span
-id="fr_17"></span>[17](#fn_17)
+id="fr_17"></span>[17](#fn_17.md)
 
     Blessing the nuptial bed by the priest, often late at night, was
 also common, and accompanied by many abuses, until advancing
 civilization overpowered the darkness of the church and brought it to an
 end. When too poor to purchase the freedom of his bride, the husband was
 in one breath assailed by the most opprobrious names,<span
-id="fr_18"></span>[18](#fn_18) and in the next he was congratulated upon
+id="fr_18"></span>[18](#fn_18.md) and in the next he was congratulated upon
 the honor to be done him in that perchance his oldest child would be the
-son of a baron.<span id="fr_19"></span>[19](#fn_19) So great finally
+son of a baron.<span id="fr_19"></span>[19](#fn_19.md) So great finally
 became the reproach and infamy connected with the *droit de cuissage*,
 as this right was generally called in France<span
-id="fr_20"></span>[20](#fn_20) and so recalcitrant became the peasants
+id="fr_20"></span>[20](#fn_20.md) and so recalcitrant became the peasants
 over its nefarious exactions, that ultimately both lords spiritual and
 lords temporal fearing for their own safety, commenced to lessen their
-demands.<span id="fr_21"></span>[21](#fn_21) This custom had its origin
+demands.<span id="fr_21"></span>[21](#fn_21.md) This custom had its origin
 at the time the
 
 <span id="page_159">p. 159</span>
@@ -199,14 +199,14 @@ lower classes than for the blacks of our own country during the time of
 slavery. Under feudalism, the property, family ties, and even the lives
 of the serfs were under control of the suzerain, It was a system of
 slavery without the name; the right of the lord to all first fruits was
-universally admitted;<span id="fr_22"></span>[22](#fn_22) the best in
+universally admitted;<span id="fr_22"></span>[22](#fn_22.md) the best in
 possession of the serf, by feudal custom belonged to the lord. The
 feudal period was especially notable for the wrongs of women. War, the
 pastime of nobles and kings, brought an immense number of men into
 enforced idleness. Its rapine and carnage were regarded as occupations
 superior to the tillage of the soil or the arts of peace. Large numbers
 of men, retainers of every kind, hung about the castle dependent upon
-its lord, obedient to his commands.<span id="fr_23"></span>[23](#fn_23)
+its lord, obedient to his commands.<span id="fr_23"></span>[23](#fn_23.md)
 At an age when books were few and reading an accomplishment of still
 greater rarity, these men, apart from their families, or totally unbound
 by marriage, were in readiness for the grossest
@@ -223,15 +223,15 @@ of villeins and serfs into the mire of lechery was deemed a proper
 retribution for their attempted pure lives; they possessed no rights of
 person or morality against the feudal lord and his wild retainers. All
 christian Europe was plunged into the grossest immorality.<span
-id="fr_24"></span>[24](#fn_24) A mistress was looked upon as a necessary
-part of a monarch's state.<span id="fr_25"></span>[25](#fn_25) Popes,
+id="fr_24"></span>[24](#fn_24.md) A mistress was looked upon as a necessary
+part of a monarch's state.<span id="fr_25"></span>[25](#fn_25.md) Popes,
 cardinals, and priests of lesser degrees, down to the present century,
 still continued the unsavory reputation of their predecessors;"<span
-id="fr_26"></span>[26](#fn_26) "nephews," "nieces," and "sacrilegious"
+id="fr_26"></span>[26](#fn_26.md) "nephews," "nieces," and "sacrilegious"
 children are yet supported by the revenues of the Church, or left to
 poverty, starvation and crime. It was long the custom of christian
 municipalities to welcome visiting kings by deputations of naked
-women,<span id="fr_27"></span>[27](#fn_27) and as late as the eighteenth
+women,<span id="fr_27"></span>[27](#fn_27.md) and as late as the eighteenth
 century, a mistress whose
 
 <span id="page_161">p. 161</span>
@@ -253,7 +253,7 @@ by his czarina, son, daughter, and four hundred ladies in waiting, women
 of low condition, each of whom carried an elegantly dressed infant upon
 her arms. If asked in regard to the paternity of the child they
 invariably replied "my lord has done me the honor to make me its
-mother."<span id="fr_28"></span>[28](#fn_28)
+mother."<span id="fr_28"></span>[28](#fn_28.md)
 
     In no country has a temporal monarch under guise of a spiritual
 ruler been more revered than in Russia. Even amidst nihilism a belief
@@ -273,7 +273,7 @@ present century, was a system of feudalism in its oppression of women,
 although if possible even more gross. The sale of young peasant girls
 regularly took place, and the blood of the nobility of that country runs
 in the veins of its most degraded and ignorant population.<span
-id="fr_29"></span>[29](#fn_29) Although Italy the seat of the papal
+id="fr_29"></span>[29](#fn_29.md) Although Italy the seat of the papal
 power is noted for the ignorance, squalor, and superstition of its
 people, we no less find such a condition of affairs existing in Russia.
 Amid the starvation of its people, accompanied by "hunger-typhus" that
@@ -281,7 +281,7 @@ form of disease which in the Irish famine of 1848 was known as
 "ship-fever," the peasants will not accept aid from Count Tolstoi, whom
 they have been taught to regard as Anti-Christ, fearing that by so doing
 they will condemn themselves to eternal torment.<span
-id="fr_30"></span>[30](#fn_30) While the peasantry are thus suffering
+id="fr_30"></span>[30](#fn_30.md) While the peasantry are thus suffering
 wrongs of every nature, the priesthood and churches are as thriving as
 before.
 
@@ -311,17 +311,17 @@ posing as spiritual heads of their people have yet equally made use of
 their place and power for woman's degradation, and an indefinite
 fatherhood outside of marriage. Augustus of Saxony, King of Poland, is
 chiefly renowned in history as the father of three hundred illegitimate
-children.<span id="fr_31"></span>[31](#fn_31) Of Charles II. not alone
+children.<span id="fr_31"></span>[31](#fn_31.md) Of Charles II. not alone
 King of England, but also head of the Anglican Church, one of his
 subjects declared him to be the father of many of his people in the
 literal as well as in the spiritual sense. Four English dukes of the
 present day trace their lineage to this monarch., who left no legitimate
-descendants.<span id="fr_32"></span>[32](#fn_32)
+descendants.<span id="fr_32"></span>[32](#fn_32.md)
 
 <span id="page_164">p. 164</span>
 
     H. R. H. the present heir-apparent to the English throne bears an
-equally unsavory record.<span id="fr_33"></span>[33](#fn_33) To him and
+equally unsavory record.<span id="fr_33"></span>[33](#fn_33.md) To him and
 his aristocratic companions in guilt is due the support and protection
 of England's notorious and infamous purchase and sale, outrage, and
 exploitation of helpless young girls. An English clergyman writing the
@@ -330,7 +330,7 @@ Gazette," declared he had in his possession a list of the names of the
 royal princes, dukes, nobles, and leading men who had been the principal
 patrons and supporters of the "gilded hells" devoted to the ruin of the
 merest children, girls from the ages of nine to thirteen.<span
-id="fr_34"></span>[34](#fn_34) The reputation of the male members of the
+id="fr_34"></span>[34](#fn_34.md) The reputation of the male members of the
 Hanoverian dynasty has ever been bad. Trace as you will the path of
 either ecclesiastical or temporal rulers claiming authority by "divine
 right," and you will find the way marked with the remains of women and
@@ -432,12 +432,12 @@ outraged virtue, justice, and humanity paid the fine when the story
 reached the outer world.
 
     These iniquities have taken place in Christian lands<span
-id="fr_35"></span>[35](#fn_35) and these nefarious outrages upon women
+id="fr_35"></span>[35](#fn_35.md) and these nefarious outrages upon women
 have been enforced by the Christian laws of both church and state. The
 degradation and unhappiness of the husband at the infringement of the
 lord's spiritual and temporal upon his marital rights, has been depicted
 by many writers but history has been quite silent upon the despair and
-shame of the wife.<span id="fr_36"></span>[36](#fn_36) No hope appeared
+shame of the wife.<span id="fr_36"></span>[36](#fn_36.md) No hope appeared
 for woman anywhere. The Church which should have been the great
 conserver of morals dragged her to the lowest depths through the
 vileness of its teachings and its priestly customs. The State which
@@ -537,12 +537,12 @@ piece of merchandise, to be bought and sold at the whim of her masters
 who are the men of her own household and the lord of the manor. During
 the feudal period the power of the son was nearly absolute. For his own
 aggrandisement he did not hesitate to rob his sisters, or sell them into
-lechery.<span id="fr_38"></span>[38](#fn_38) Hopelessly despairing in
+lechery.<span id="fr_38"></span>[38](#fn_38.md) Hopelessly despairing in
 tone, this ballad gives us a clear picture of feudal times when chivalry
 was at its height, and the church had reached its ultimate of power.
 Woman's attitude to-day is the echo of that despair. At this period the
 condition of a woman was not even tolerable unless she was an heiress,
-with fiefs in possession.<span id="fr_29"></span>[29](#fn_29) Even then
+with fiefs in possession.<span id="fr_29"></span>[29](#fn_29.md) Even then
 she was deprived of her property in case of loss
 
 <span id="page_171">p. 171</span>
@@ -557,10 +557,10 @@ next heir for their treachery.
 discovered no traces of marquette in England, a reminiscence of that
 custom is to be found in the "fine" or "permit" known in that country as
 Redemption of Blood, and designated as *Merchetum Sanguinis*, by
-Fleta.<span id="fr_40"></span>[40](#fn_40) This was a customary payment
+Fleta.<span id="fr_40"></span>[40](#fn_40.md) This was a customary payment
 made by a tenant to his lard for license to give his daughter in
 marriage. Such redemption was considered a special mark of tenure in
-villeinage.<span id="fr_41"></span>[41](#fn_41) It was not exacted from
+villeinage.<span id="fr_41"></span>[41](#fn_41.md) It was not exacted from
 a free man, which is corroborative proof of its origin in the *Jus Primæ
 Noctis*, of the feudal lord. Of the free man this fine was not
 permissible, because of the privilege of free blood. Raepsaet, M.
@@ -571,7 +571,7 @@ feudal, but a spiritual authority, to guard the bride by enforcing a
 penitence of marital abstinence of one to three days after the nuptials.
 It is not to be doubted that under the peculiar teachings of the church
 in regard to the uncleanliness of marriage, such continence was at a
-certain period part of church law.<span id="fr_42"></span>[42](#fn_42)
+certain period part of church law.<span id="fr_42"></span>[42](#fn_42.md)
 Nevertheless this does not invalidate the fact that a widespread
 contrary custom
 
@@ -579,15 +579,15 @@ contrary custom
 
 existed in feudal times and at a still later period. The present usages
 of society point back to an age when right to the peasant's bride was
-enforced by the lord. A reminiscence<span id="fr_43"></span>[43](#fn_43)
+enforced by the lord. A reminiscence<span id="fr_43"></span>[43](#fn_43.md)
 of this period is to be found in charivari and the buying off of a party
 of this character with refreshments from the house, or with money for
 the purchase of cigars and liquor. Such occurrences constantly fall
 within our knowledge, personally or through the press.<span
-id="fr_44"></span>[44](#fn_44) The very fact of such persecution of the
+id="fr_44"></span>[44](#fn_44.md) The very fact of such persecution of the
 bridal pair is a symbol of that custom under which the retainers of the
 feudal lord jeered and flouted the bridegroom, throwing him into foul
-water,<span id="fr_45"></span>[45](#fn_45) and other most unseemly
+water,<span id="fr_45"></span>[45](#fn_45.md) and other most unseemly
 practices. To others outside of the charivari party this practice still
 affords amusement, few persons inclining to interfere or prohibit such
 pastimes. Society no longer as sharply defined as in the feudal period,
@@ -608,9 +608,9 @@ invariably accompanied entrance into the married state.
 not alone the daughters of villeins and serfs, but also of those of
 noble birth who were freed by payment of a ransom in silver known as the
 "Maiden Rents." Lands were even held under Maiden Redemption.<span
-id="fr_46"></span>[46](#fn_46) In Scotland this ransom became known as
+id="fr_46"></span>[46](#fn_46.md) In Scotland this ransom became known as
 "Marquette," Margaret wife of Malcolm Canmore, generally spoken of for
-her goodness as Saint Margaret,<span id="fr_47"></span>[47](#fn_47)
+her goodness as Saint Margaret,<span id="fr_47"></span>[47](#fn_47.md)
 exercising her royal influence in 1057 against this degradation of her
 sex. Numberless seditions having arisen from this claim upon the bride
 the king more willingly established a release upon the payment of a
@@ -624,20 +624,20 @@ directly to man's basest passions, his love of power, his profligacy
 
 human beast within him--that it continued in existence nearly seven
 hundred years after the royal edict in Scotland against its
-practice.<span id="fr_48"></span>[48](#fn_48) This vile power extended
+practice.<span id="fr_48"></span>[48](#fn_48.md) This vile power extended
 over all ranks of women; the king holding it over the daughters of the
 grand seigneur, the suzerain over the daughters of his vassals; the
 seigneur over the daughters of his serfs, even the judge or bailie
 enforcing this right upon all women who passed upon his road.<span
-id="fr_49"></span>[49](#fn_49)
+id="fr_49"></span>[49](#fn_49.md)
 
     The Church has ever been the bulwark of this base claim. Holding the
 powers of penance and of excommunication, such custom could neither have
 originated nor been sustained without the sanction of the church.<span
-id="fr_50"></span>[50](#fn_50) At this date the privileges of the lower
+id="fr_50"></span>[50](#fn_50.md) At this date the privileges of the lower
 clergy were extraordinary. Even in England they were not amenable to the
 common law; they ruled the laity with iron hand, but the laity possessed
-no power over the priesthood.<span id="fr_51"></span>[51](#fn_51) All
+no power over the priesthood.<span id="fr_51"></span>[51](#fn_51.md) All
 appointments were in priestly hands, the union of church and state
 complete.
 
@@ -654,13 +654,13 @@ most humble and ignorant as by the educated and refined, its effect more
 lasting because of the impossibility of redress. The power of the
 seigneur was nearly equal to that of the king himself. Manorial courts
 entirely local aided the seigneur in the enforcement of his traditional
-privileges<span id="fr_52"></span>[52](#fn_52) at the expense of the
+privileges<span id="fr_52"></span>[52](#fn_52.md) at the expense of the
 villeins. The crown possessed no jurisdiction over these courts. The
 lord held the right to make laws, render justice, lay imposts, declare
 war, coin money, dispose of the goods and lives of his subjects, and
 other prerogatives still more closely touching their personal rights,
 especially of the women living in his dominion.<span
-id="fr_53"></span>[53](#fn_53)
+id="fr_53"></span>[53](#fn_53.md)
 
     To persons not conversant with the history of feudalism and the
 church it will seem impossible that such foulness could ever have been
@@ -673,21 +673,21 @@ however severe a blow they strike our preconceived beliefs.
 
     The seigneural tenure of the feudal period was a law of Christian
 Europe more dishonorable than the worship of Astarte at Babylon.<span
-id="fr_54"></span>[54](#fn_54) In order to fully comprehend
+id="fr_54"></span>[54](#fn_54.md) In order to fully comprehend
 
 <span id="page_176">p. 176</span>
 
 the vileness of marquette, we must remember that it did not originate in
 a pagan country, many thousand years since; that it was not a heathen
 custom transplanted to Europe with many others adopted by the
-church,<span id="fr_55"></span>[55](#fn_55) but that it arose in
+church,<span id="fr_55"></span>[55](#fn_55.md) but that it arose in
 christian countries a thousand years after the origin of that religion,
 continuing in existence until within the last century.
 
     The attempt made by some modern authors to deny that the claim of
 the feudal lord to the person of his female serf upon her marriage ever
 existed, on the ground that statutes sustaining such a right have not
-been discovered, is extremely weak.<span id="fr_56"></span>[56](#fn_56)
+been discovered, is extremely weak.<span id="fr_56"></span>[56](#fn_56.md)
 The authority of custom or "unwritten law" is still almost absolute. A
 second objection that such customs are unchristian has been answered.
 The third plea in opposition, namely that those so outraged, so
@@ -730,9 +730,9 @@ worship of this emperor, and an order of
 
 <span id="page_178">p. 178</span>
 
-consecrated priests devoted to him.<span id="fr_57"></span>[57](#fn_57)
+consecrated priests devoted to him.<span id="fr_57"></span>[57](#fn_57.md)
 Higgins refers to this deification of Cæsar.<span
-id="fr_58"></span>[58](#fn_58) It is not alone proof of the low
+id="fr_58"></span>[58](#fn_58.md) It is not alone proof of the low
 condition of morality at this period, but also of the universal
 disbelief in woman's authority over, or right to herself, that so few
 writers upon feudal subjects have treated of the libidinous powers of
@@ -740,12 +740,12 @@ the lord over his female serfs. Even those presenting the evils of
 feudalism in other respects, have merely expressed a mild surprise that
 christian people should have admitted that right of the lord over his
 feminine vassals. The various names under which this right was known as
-jus primæ noctis,<span id="fr_59"></span>[59](#fn_59) droit de
-seigneur,<span id="fr_60"></span>[60](#fn_60) droit de jambage,<span
-id="fr_61"></span>[61](#fn_61) droit de cuissage,<span
-id="fr_62"></span>[62](#fn_62) droit d' afforage,<span
-id="fr_63"></span>[63](#fn_63) droit de marquette,<span
-id="fr_64"></span>[64](#fn_64) and many other terms too indelicate for
+jus primæ noctis,<span id="fr_59"></span>[59](#fn_59.md) droit de
+seigneur,<span id="fr_60"></span>[60](#fn_60.md) droit de jambage,<span
+id="fr_61"></span>[61](#fn_61.md) droit de cuissage,<span
+id="fr_62"></span>[62](#fn_62.md) droit d' afforage,<span
+id="fr_63"></span>[63](#fn_63.md) droit de marquette,<span
+id="fr_64"></span>[64](#fn_64.md) and many other terms too indelicate for
 repetition, indicating this right of the lord over all the women in his
 domain, is still another incontestable proof of the universality of the
 custom.
@@ -842,7 +842,7 @@ brought about the repeal of this law in England, it still continues in
 the British colonies, being forced upon the people in opposition to
 their own action. After the Cape Parliament of the Colony of Good Hope
 had repealed the law, Sir Bartle Frere re-introduced it by means of an
-edict.<span id="fr_65"></span>[65](#fn_65) When in London, 1882, Sir
+edict.<span id="fr_65"></span>[65](#fn_65.md) When in London, 1882, Sir
 John Pope Hennessey, Governor and Commander in Chief of British China,
 was waited upon by an influential deputation of members of parliament
 and others to whom he made known the practical workings of
@@ -892,13 +892,13 @@ christianity is declining in China. I think it is declining mainly on
 account of the treaties we have forced upon the Chinese; but I will
 frankly tell you, it is declining also because they see these girls
 registered in such houses for "Europeans" and made practically slaves
-under our flag."<span id="fr_66"></span>[66](#fn_66)
+under our flag."<span id="fr_66"></span>[66](#fn_66.md)
 
     Nor are the Cape of Good Hope, and China, the sole foreign countries
 in which this system of the legalized moral degradation of women has
 been carried by England, nearly one hundred places in India showing the
 same vice under license from the British Government, even to bearing the
-same name.<span id="fr_67"></span>[67](#fn_67) Nor have innumerable
+same name.<span id="fr_67"></span>[67](#fn_67.md) Nor have innumerable
 petitions and protests from native and foreign ladies, from zenana
 workers, from missionaries, and even from all ranks of the resident
 English civil service for immediate repeal of this vilest of all laws,
@@ -907,7 +907,7 @@ with contempt for womanhood, as not only to maintain these outrageous
 laws but also to cause fear in the minds of those women who for twenty
 years wrought for the repeal of these acts in Great Britain and Ireland,
 of their again being introduced under more insidious and dangerous
-form.<span id="fr_69"></span>[69](#fn_69) A memorial signed by a number
+form.<span id="fr_69"></span>[69](#fn_69.md) A memorial signed by a number
 of native born and English ladies was presented to the Viceroy praying
 that the age of protection for young girls be raised. While in India a
 man's dog, horse, elephant, and
@@ -941,7 +941,7 @@ accomplishment of their ends, by the advocates of legalizing vice. In
 legislature of the state of New York, in its favor, a society to this
 end was formed in the city of New York, incorporated as a "Voluntary
 Association;" borrowing the name used in England at time its women were
-most degraded by the state.<span id="fr_70"></span>[70](#fn_70) This
+most degraded by the state.<span id="fr_70"></span>[70](#fn_70.md) This
 society grants certificates to women presenting themselves for
 examination. And thus step by step under many forms more extended than
 even under feudal law, is woman's moral degradation made the effort of
@@ -955,7 +955,7 @@ demand of the State furnishes certificates of their having partaken of
 holy communion to those women securing license to lead vicious lives;
 the very symbol and body of him, whom the christian world worships as
 its saviour, thus becoming the key to unlock the doors of woman's moral
-degradation.<span id="fr_71"></span>[71](#fn_71)
+degradation.<span id="fr_71"></span>[71](#fn_71.md)
 
     The fact of governments lending their official aid to demoralization
 of woman by the registration system, shows an utter debasement of law.
@@ -1040,7 +1040,7 @@ least this great wrong be consummated, a wrong primarily against woman.
 In certain cities, as St. Louis, where such registration and license was
 for sometime demanded, the foulest injuries were perpetrated upon
 entirely innocent and reputable women, injuries for which they had no
-redress.<span id="fr_72"></span>[72](#fn_72) Under the legalized vice
+redress.<span id="fr_72"></span>[72](#fn_72.md) Under the legalized vice
 system, women are slaves, not possessing even the right of repudiating
 this kind of life.
 
@@ -1099,11 +1099,11 @@ spoil only upon the certificate of some reputable physician as to their
 innocence and previous uncontamination. Crime, vice, and cruelty, were
 never before so closely united in one infamous system; the purchase of
 young innocence by old iniquity under protection of law.<span
-id="fr_73"></span>[73](#fn_73) A bill was introduced into the English
+id="fr_73"></span>[73](#fn_73.md) A bill was introduced into the English
 parliament to check this business of girl destruction, accompanied by
 proof so direct, and proof of the necessity of immediate action so
 great, that it was not doubted that the bill would pass at once. Yet it
-encountered secret<span id="fr_74"></span>[74](#fn_74) and powerful
+encountered secret<span id="fr_74"></span>[74](#fn_74.md) and powerful
 opposition, was finally referred to a committee already so overburdened
 with work and so far behindhand that it was manifest that the bill could
 not be reached in years. Gilded vice laughed at this result, and the
@@ -1115,10 +1115,10 @@ proceeded as before. At that period the "Pall Mall Gazette" entered into
 an investigation whose results roused the whole civilized world. Even
 clergymen, ignoring the fact that christian teaching had brought this
 vice into being, joined the press in scathing reproof of patrician
-London iniquity.<span id="fr_75"></span>[75](#fn_75) Societies were
+London iniquity.<span id="fr_75"></span>[75](#fn_75.md) Societies were
 formed for the protection of young girls from the vice of men who used
 the power of wealth and station to corrupt the daughters of the
-poor.<span id="fr_76"></span>[76](#fn_76)
+poor.<span id="fr_76"></span>[76](#fn_76.md)
 
     Under English christian law it has never been a crime to morally
 destroy a girl of thirteen, because under that law she is held
@@ -1189,7 +1189,7 @@ character were found identified with it. The world of business and that
 of politics were equally as well known in the haunts of vice as in the
 outside world, but there were judged by a different standard and their
 relative importance was altogether changed.<span
-id="fr_78"></span>[78](#fn_78) It was a literal day of judgment, in
+id="fr_78"></span>[78](#fn_78.md) It was a literal day of judgment, in
 which evil character, deftly hidden during public life, was there
 unveiled.
 
@@ -1209,22 +1209,22 @@ than that of the victims of infant marriage in Syria, Egypt, India; the
 infant victims of christian lands are more fully destroyed, soon
 becoming mental, physical and moral wrecks; alternate imbecility and
 wild screaming being common among these child victims of vice.<span
-id="fr_79"></span>[79](#fn_79)
+id="fr_79"></span>[79](#fn_79.md)
 
     Christianity created the modern brothel, which as closely follows in
 the wake of evangelical work of the Moody and Sankey style, as did
 public women the ancient church councils.<span
-id="fr_80"></span>[80](#fn_80) While in the past the legal wrongs of
+id="fr_80"></span>[80](#fn_80.md) While in the past the legal wrongs of
 woman in the marriage relation, in which she is robbed of name,
 personality, earnings, children, had a tendency to drive her to live
 with man outside of the authority of church or state, the occupations
 recently opened to her whereby she can gain a reputable livelihood by
 her own exertions, has greatly increased the ranks of single women.<span
-id="fr_81"></span>[81](#fn_81) No longer compelled to marry for a home
+id="fr_81"></span>[81](#fn_81.md) No longer compelled to marry for a home
 or position, the number of young girls who voluntarily refrain from
 marriage, by choice living single, increases each year. No longer driven
 to immorality for bread, a great diminution has taken place in the ranks
-of "public women."<span id="fr_82"></span>[82](#fn_82) No longer forced
+of "public women."<span id="fr_82"></span>[82](#fn_82.md) No longer forced
 by want into this life, the lessening
 
 <span id="page_195">p. 195</span>
@@ -1235,7 +1235,7 @@ imprisonment, sale, and exportation of young girls; England and Germany
 most largely controlling this business, although Belgium, Holland and
 France, Switzerland, several counties of South America, Canada, and the
 United States are to some extent also engaged in this most infamous
-traffic.<span id="fr_83"></span>[83](#fn_83)
+traffic.<span id="fr_83"></span>[83](#fn_83.md)
 
     Foreign traffic in young English girls was known to exist long
 before the revelation of the "Pall Mall Gazette" made English people
@@ -1324,7 +1324,7 @@ of the Christian world;--where the raw-hide is used to compel drinking
 and dancing, and high stockades, bull-dogs and pistols prevent escape,
 until death,--happily of quick occurrence,--releases the victim. As
 elsewhere, men of wealth and high position, law-makers, are identified
-with this infamy.<span id="fr_84"></span>[84](#fn_84)
+with this infamy.<span id="fr_84"></span>[84](#fn_84.md)
 
     Among the notable facts due to an investigation of prostitution is
 that its support largely comes from married men, the "heads of
@@ -1468,7 +1468,7 @@ belief in woman as a mere instrument for man's pleasure produced more
 horrible results than in our own. Not to speak of the effort made in
 Congress a few years since to place all women of the country under
 suspect law, many cities, among them Washington, Philadelphia,
-Syracuse,<span id="fr_85"></span>[85](#fn_85) have at **different**
+Syracuse,<span id="fr_85"></span>[85](#fn_85.md) have at **different**
 periods taken initial steps towards a prohibition of a woman's appearing
 in the street un-accompanied by male escort, during the evening, even
 its earliest hours. Such ordinances, primarily directed against working
@@ -1480,7 +1480,7 @@ evening hours, and to that other rapidly increasing
 class of business women, **physicians** and others, whose vocation calls
 them out at all hours of day or night; places the liberty of woman at
 the option of every policeman, as though she were a criminal or a
-slave.<span id="fr_86"></span>[86](#fn_86) There is also proof of
+slave.<span id="fr_86"></span>[86](#fn_86.md) There is also proof of
 regularly organized kidnapping schemes and deportation of girls for the
 vilest purposes not only abroad, but to the pineries and lumber camps of
 Michigan and Wisconsin.
@@ -1490,7 +1490,7 @@ shot guns, prevents escape when attempted. In January, 1887,
 representative Breen appeared before the House judiciary Committee of
 the Michigan legislature, confirming the charge that a regular trade in
 young girls existed between Milwaukee, Chicago and the mining regions of
-the upper peninsula of that state.<span id="fr_87"></span>[87](#fn_87)
+the upper peninsula of that state.<span id="fr_87"></span>[87](#fn_87.md)
 In case of conviction, the punishment is totally inadequate to the crime
 of those men; the law giving only one year of imprisonment.
 
@@ -1504,13 +1504,13 @@ the theft, but robbed of themselves, enduring such brutal outrages that
 life continues only from two to twelve months, there have yet no laws of
 adequate punishment been passed. So little attention have legislators
 given, that policemen, judges and sheriffs are found aiding and abetting
-the proprietors of these dens.<span id="fr_88"></span>[88](#fn_88) Their
+the proprietors of these dens.<span id="fr_88"></span>[88](#fn_88.md) Their
 emissaries find young girls between thirteen and sixteen the easiest to
 kidnap, and when once in power of these men, their hair is cut in order
 that they may be known. A regular system of transfer of the girls exists
 between the many hundred such dens, where clubs, whips, and irons are
 the instruments to hold them in subjection.<span
-id="fr_89"></span>[89](#fn_89) "The New York World" sent a
+id="fr_89"></span>[89](#fn_89.md) "The New York World" sent a
 representative disguised as a woodman in order to investigate the truth
 of these statements. He found these houses surrounded by stockades
 thirty feet in height, the one door guarded night and day by a man with
@@ -1605,17 +1605,17 @@ another is under a well organized plan that seldom meets discovery,
 although a trader of this character is now serving a sentence in
 Sing Sing prison, N. Y., for sending girls to Panama. Three decoyed
 young girls found in Jamaica, were happily returned uninjured, to their
-parents.<span id="fr_90"></span>[90](#fn_90) From Canada, girls are
+parents.<span id="fr_90"></span>[90](#fn_90.md) From Canada, girls are
 imported to the large cities of the United States. The prices paid to
 agents depend upon a girl's youth and beauty, varying from $20 to $200
-each.<span id="fr_91"></span>[91](#fn_91) The traffic at Ottawa
+each.<span id="fr_91"></span>[91](#fn_91.md) The traffic at Ottawa
 resembled that of London in that prominent citizens, leading
 politicians,
 
 <span id="page_208">p. 208</span>
 
 and members of the government were implicated.<span
-id="fr_92"></span>[92](#fn_92) The number of women and girls constantly
+id="fr_92"></span>[92](#fn_92.md) The number of women and girls constantly
 reported "missing" is startling in its great extent. Stepping out on
 some household errand for a moment they vanish as though swallowed by
 the earth. A few years ago the "Chicago Herald" sent one of its
@@ -1676,20 +1676,20 @@ same senate afterwards unanimously voting
 <span id="page_210">p. 210</span>
 
 that a boy of sixteen years was not old enough to decide for himself in
-regard to smoking cigarettes.<span id="fr_93"></span>[93](#fn_93) It
+regard to smoking cigarettes.<span id="fr_93"></span>[93](#fn_93.md) It
 should be remembered that youth is the most impressible season of life
 as well as the most inexperienced. Young girls from thirteen to sixteen,
 mere children, are most easily decoyed, their youth and innocence
 causing them to fall the readiest prey; and scarcely a large city but
 proves the existence of men of mature years whose aim is the destruction
-of such young girls.<span id="fr_94"></span>[94](#fn_94) The state of
+of such young girls.<span id="fr_94"></span>[94](#fn_94.md) The state of
 Delaware yet more infamous, still retaining seven years as the "age of
 consent." Seven short years of baby life in that state is legally held
 to transform a girl-infant into a being with capacity to consent to an
 act of which she neither knows the name nor the consequences, her
 "consent" freeing from responsibility or punishment, the villain,
 youthful or aged, who chooses to assault such baby victim of man-made
-laws.<span id="fr_95"></span>[95](#fn_95) While the doors of
+laws.<span id="fr_95"></span>[95](#fn_95.md) While the doors of
 irresponsible vice are legally thrown open to men of all ages with girl
 victims as their prey, the restrictions against marriage with a minor
 without the parents' consent are in most states very severe. That the
@@ -1702,7 +1702,7 @@ Instances have also
 <span id="page_211">p. 211</span>
 
 occurred where the wife has been punished by him for thus daring to
-marry.<span id="fr_96"></span>[96](#fn_96) Both the husband and the
+marry.<span id="fr_96"></span>[96](#fn_96.md) Both the husband and the
 officiating clergyman are also held amenable, the former under charge of
 abduction, the latter as an accessory in performing the marriage
 ceremony.
@@ -1750,14 +1750,14 @@ those fitly-spoken words, the women of many countries combined in the
 work of man's reformation in an organization known as the "White Cross
 Society" founded in 1886, by Miss Ellice Hopkins of England, and now
 possessing branches in every part of the civilized world.<span
-id="fr_97"></span>[97](#fn_97) To this society, men alone belong; its
+id="fr_97"></span>[97](#fn_97.md) To this society, men alone belong; its
 work is of a still broader character than mere reformation of the
 vicious; it seeks to train young men and boys to a proper respect for
 woman and for themselves.
 
     As the world is indebted to Christine of Pisa for the first public
 protest against the immorality of christendom, so to Mrs. Josephine
-Butler,<span id="fr_98"></span>[98](#fn_98) Madam Venturi, and Miss
+Butler,<span id="fr_98"></span>[98](#fn_98.md) Madam Venturi, and Miss
 Ellice Hopkins are due the inauguration
 
 <span id="page_213">p. 213</span>
@@ -1766,7 +1766,7 @@ of a new moral standard for man whose results must be of incalculable
 value to the world. The "White Cross" is a simply organized society
 without an admission fee, but requiring adherence to a fivefold
 obligation binding its members to purity of thought and action,<span
-id="fr_99"></span>[99](#fn_99) and maintaining that the law of chastity
+id="fr_99"></span>[99](#fn_99.md) and maintaining that the law of chastity
 is equally binding on men and women. The International Federation, a
 union existing in several European countries, its chief object, work
 against state protection of vice, roused public thought in this
@@ -1819,20 +1819,20 @@ church arose from the protest of women against this indignity,
 <span id="page_215">p. 215</span>
 
 their demand to be allowed to baptize those of their own sex, and the
-opposition of men to this demand.<span id="fr_100"></span>[100](#fn_100)
+opposition of men to this demand.<span id="fr_100"></span>[100](#fn_100.md)
 
     The early bishops of the church **strenuously** used their influence
 against the baptism of nude women by elders of their own sex. Women were
 sometimes brought entirely nude upon the stage at Rome, but it was in
 connection with religious representation, the theater at that period
 being an element of religious teaching. Lecky speaks of the undisguised
-sensuality of this practice.<span id="fr_101"></span>[101](#fn_101) What
+sensuality of this practice.<span id="fr_101"></span>[101](#fn_101.md) What
 must be our conception of a Christian custom that placed nude maidens
 and wives in the very hands of men, not alone for baptism but also for
 anointing with oil? Nude baptism is still practiced when converts are
 received into the Greek church, no position or station in life excusing
 from it, Catharine, the first wife of Peter the Great being baptized in
-this primitive Christian manner.<span id="fr_102"></span>[102](#fn_102)
+this primitive Christian manner.<span id="fr_102"></span>[102](#fn_102.md)
 As
 
     The converts were first exorcised of the evil spirits that were
@@ -1857,7 +1857,7 @@ of their sins.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Witchcraft.](wcs07)
+[Next: Chapter V. Witchcraft.](wcs07.md)
 
 ------------------------------------------------------------------------
 
@@ -1865,18 +1865,18 @@ of their sins.
 
 <span id="fn_page_152">p. 152</span>  
 
-<span id="fn_1"></span>[1.](#fr_1)  in the dominion of the Count de
+<span id="fn_1"></span>[1.](#fr_1.md)  in the dominion of the Count de
 Foix, the lord had right once in his lifetime to take, without payment,
 a certain quantity of goods from the stores of each tenant. Cesar
 Cantu.--*Histoire Universelle*.
 
 <span id="fn_page_153">p. 153</span>  
 
-<span id="fn_2"></span>[2.](#fr_2)  Two women seized by German soldiers
+<span id="fn_2"></span>[2.](#fr_2.md)  Two women seized by German soldiers
 were covered with tar, rolled in leathers, and exhibited in the camp as
 a new species of bird.
 
-<span id="fn_3"></span>[3.](#fr_3)  Among the privileges always claimed,
+<span id="fn_3"></span>[3.](#fr_3.md)  Among the privileges always claimed,
 and frequently enforced by the feudalry, was the custom of the lord of
 the manor to lie the first night with the bride of his
 tenant.--*Sketches of Feudalism*, p. 109.
@@ -1889,23 +1889,23 @@ and we read that these feudal lords thought it was no worse thus to levy
 on a young bride than to demand half the wool of each flock of sheep,
 *Article on Relation of the Sexes*.--Westminster Review.
 
-<span id="fn_4"></span>[4.](#fr_4)  The custom of Borough-English is
+<span id="fn_4"></span>[4.](#fr_4.md)  The custom of Borough-English is
 said to have arisen out of the Marchetta or plebeian's first born son
 being considered his lord's progeny.--*Dr. Tusler*.
 
 <span id="fn_page_154">p. 154</span>  
 
-<span id="fn_5"></span>[5.](#fr_5)  "It is not very likely that Louis
+<span id="fn_5"></span>[5.](#fr_5.md)  "It is not very likely that Louis
 XIV. thought the time would ever come when the peasant's bride might not
 be claimed in the chamber of his seigneur on her bridal night. Those
 base laws, their revocation has been written in the blood of successive
 generations."
 
-<span id="fn_6"></span>[6.](#fr_6)  See *Feudal Dictionary*.
+<span id="fn_6"></span>[6.](#fr_6.md)  See *Feudal Dictionary*.
 
 <span id="fn_page_155">p. 155</span>  
 
-<span id="fn_7"></span>[7.](#fr_7)  The interests of ecclesiastics as
+<span id="fn_7"></span>[7.](#fr_7.md)  The interests of ecclesiastics as
 feudal nobles were in some respects identical with those of the barons,
 but the clergy also constituted a party with interests of its own.
 
@@ -1914,32 +1914,32 @@ subject.
 
 <span id="fn_page_156">p. 156</span>  
 
-<span id="fn_9"></span>[9.](#fr_9)  Par example, dans quelques
+<span id="fn_9"></span>[9.](#fr_9.md)  Par example, dans quelques
 seigneuries, on le seigneur passent trois nuits avec les nouvelles
 marriées, il fut convenu qu'il n'eu passant qu'une. Dans d'autres, on le
 seigneur avant le premiere nuit seulment, ou ne lui accordes plus qu'une
 heure.
 
-<span id="fn_10"></span>[10.](#fr_10)  *Calling de Plancy*.
+<span id="fn_10"></span>[10.](#fr_10.md)  *Calling de Plancy*.
 
-<span id="fn_11"></span>[11.](#fr_11)  *Feudal Dictionary*, p. 179.
+<span id="fn_11"></span>[11.](#fr_11.md)  *Feudal Dictionary*, p. 179.
 
-<span id="fn_12"></span>[12.](#fr_12)  Claiming the right of the first
+<span id="fn_12"></span>[12.](#fr_12.md)  Claiming the right of the first
 night with each new spouse.--*Bœms Decisions* 297, 1-17.
 
-<span id="fn_13"></span>[13.](#fr_13)  *Raepsaet*. p. 179.
+<span id="fn_13"></span>[13.](#fr_13.md)  *Raepsaet*. p. 179.
 
 <span id="fn_page_157">p. 157</span>  
 
-<span id="fn_14"></span>[14.](#fr_14)  The popes anciently had universal
+<span id="fn_14"></span>[14.](#fr_14.md)  The popes anciently had universal
 power over the pleasures of marriage.--*Feudal Dictionary*, 174.
 
-<span id="fn_15"></span>[15.](#fr_15)  In the transaction the
+<span id="fn_15"></span>[15.](#fr_15.md)  In the transaction the
 alternative was with the husband; it was he who might submit, or pay the
 fine, as he preferred or could afford. *Relation of the
 Sexes*.--Westminster Review.
 
-<span id="fn_16"></span>[16.](#fr_16)  These (courts) powerfully
+<span id="fn_16"></span>[16.](#fr_16)  These (courts.md) powerfully
 assisted the seigneur to enforce his traditional Privileges at the
 expense of the villeins.--*H. S. Maine*.
 
@@ -1947,28 +1947,28 @@ The courts of Bearn openly maintained that this right grew up naturally.
 
 <span id="fn_page_158">p. 158</span>  
 
-<span id="fn_17"></span>[17.](#fr_17)  Sometimes the contumacious
+<span id="fn_17"></span>[17.](#fr_17.md)  Sometimes the contumacious
 husband was harnessed by the side of a horse or an ox, compelled to do a
 brute's work and to herd with the cattle.
 
-<span id="fn_18"></span>[18.](#fr_18)  He is followed by bursts of
+<span id="fn_18"></span>[18.](#fr_18.md)  He is followed by bursts of
 laughter, and the noisy rabble down to the lowest scullion give chase to
 the "cuckold."--Michelet.
 
-<span id="fn_19"></span>[19.](#fr_19)  The oldest born of the peasant is
+<span id="fn_19"></span>[19.](#fr_19.md)  The oldest born of the peasant is
 accounted the son of his lord, for he, perchance it was, that begat him.
 When the guests have retired, the newly wedded husband shall permit his
 lord to enter the bed of his wife, unless he shall have redeemed her for
 five shillings and four pence.--*Grimm*.
 
-<span id="fn_20"></span>[20.](#fr_20)  Droit de cuissage c'est le droit
+<span id="fn_20"></span>[20.](#fr_20.md)  Droit de cuissage c'est le droit
 de mettre une cuisse dans le lit d'une autra, on de coucher avec le
 femme d'une vassal on d'une serf.
 
 So much scandal was caused that finally the archbishop of Bourges
 abolished this right in his diocese.--*Feudal Dictionary*.
 
-<span id="fn_21"></span>[21.](#fr_21)  A yoke of cattle and a measure of
+<span id="fn_21"></span>[21.](#fr_21.md)  A yoke of cattle and a measure of
 wheat was afterwards substituted for a money ransom, but even this
 redemption was in most cases entirely beyond the power of the serf.
 <span id="fn_page_159">p. 159</span>
@@ -1992,33 +1992,33 @@ Bebel.--*Woman in the Past, Present and Future*.
 
 <span id="fn_page_159">p. 159</span>  
 
-<span id="fn_22"></span>[22.](#fr_22)  In a parish outside Bourges the
+<span id="fn_22"></span>[22.](#fr_22.md)  In a parish outside Bourges the
 parson as being a lord especially claimed the first fruits of the bride,
 but was willing to sell his rights to the husband.
 
-<span id="fn_23"></span>[23.](#fr_23)  The Infamous noble who
+<span id="fn_23"></span>[23.](#fr_23.md)  The Infamous noble who
 accompanied a certain notorious actress to this country in the fall of
 1886, possessed forty livings in his gift.
 
 <span id="fn_page_160">p. 160</span>  
 
-<span id="fn_24"></span>[24.](#fr_24)  No greater proof of this
+<span id="fn_24"></span>[24.](#fr_24.md)  No greater proof of this
 statement is needed than the rapidity with which the disease brought by
 the sailors of Columbus spread over Europe; infecting the king on his
 throne, the peasant in the field, the priest at the altar, the monk and
 nun in the cloister.
 
-<span id="fn_25"></span>[25.](#fr_25)  In deference to that public
+<span id="fn_25"></span>[25.](#fr_25.md)  In deference to that public
 sentiment which required the ruler to pose before the world as a
 libertine, Friedrich Wilhelm I., of Prussia (1713-1740), although old
 and in feeble health, kept up the pretense of a **liaison** with the
 wife of one of his generals, the intimacy consisting of an hour's daily
 walk it, the castle yard.--*August Bebel*.
 
-<span id="fn_26"></span>[26.](#fr_26)  Down to Pius IX. See *The Woman,
+<span id="fn_26"></span>[26.](#fr_26.md)  Down to Pius IX. See *The Woman,
 the Priest and the Confessional*.
 
-<span id="fn_27"></span>[27.](#fr_27)  When the Emperor Charles II.
+<span id="fn_27"></span>[27.](#fr_27.md)  When the Emperor Charles II.
 entered Bourges, he was saluted by a deputation of perfectly naked
 women. At the entrance of King Ladislaus into Vienna, 1452, the
 municipal government sent a deputation of public women to meet him, the
@@ -2028,12 +2028,12 @@ Past, Present and Future*.
 
 <span id="fn_page_161">p. 161</span>  
 
-<span id="fn_28"></span>[28.](#fr_28)  *Memoirs of the Princess of
+<span id="fn_28"></span>[28.](#fr_28.md)  *Memoirs of the Princess of
 Bareith*, a sister of Frederick the Great.
 
 <span id="fn_page_162">p. 162</span>  
 
-<span id="fn_29"></span>[29.](#fr_29)  In Russia the nobles have such
+<span id="fn_29"></span>[29.](#fr_29.md)  In Russia the nobles have such
 rights by law over the women of their lands that the population scarcely
 resent the sale by auction of all the young peasants of their village.
 These nobles, a race once proud and mean, extravagant and covetous, full
@@ -2043,7 +2043,7 @@ masses the number of individuals, already very considerable, to whom
 they have transmitted their genius with their blood.--*A. R. Craig,
 M.A.*
 
-<span id="fn_30"></span>[30.](#fr_30)  LONDON, February 1.--The Odessa
+<span id="fn_30"></span>[30.](#fr_30.md)  LONDON, February 1.--The Odessa
 correspondent of "The Daily News" says: Hunger typhus is spreading
 alarmingly. In large towns in this region all the hospitals are filled,
 and private buildings are being converted into hospitals. This is the
@@ -2055,26 +2055,26 @@ perdition.
 
 <span id="fn_page_163">p. 163</span>  
 
-<span id="fn_31"></span>[31.](#fr_31)  Two celebrated women, Augusta, of
+<span id="fn_31"></span>[31.](#fr_31.md)  Two celebrated women, Augusta, of
 Koningsmark, and Madame Dudevant (George Sand), traced their descent to
 this king.--Letters to "New York Tribune."
 
-<span id="fn_32"></span>[32.](#fr_32)  Adam Badeau.--*Aristocracy in
+<span id="fn_32"></span>[32.](#fr_32.md)  Adam Badeau.--*Aristocracy in
 England*.
 
 <span id="fn_page_164">p. 164</span>  
 
-<span id="fn_33"></span>[33.](#fr_33)  The at one time famous "Alexandra
+<span id="fn_33"></span>[33.](#fr_33.md)  The at one time famous "Alexandra
 Limp," affecting the princess of Wales, and copied in walk by
 ultra-fashionable women, was said to be due to the effects of an
 infamous disease contracted by the princess from her husband.
 
-<span id="fn_34"></span>[34.](#fr_34)  Rev. Dr. Varley.--"New York Sun,"
+<span id="fn_34"></span>[34.](#fr_34.md)  Rev. Dr. Varley.--"New York Sun,"
 July, 1883.
 
 <span id="fn_page_167">p. 167</span>  
 
-<span id="fn_35"></span>[35.](#fr_35)  At the beginning of the Christian
+<span id="fn_35"></span>[35.](#fr_35.md)  At the beginning of the Christian
 era, Corinth possessed a thousand women who were devoted to the service
 of its idol, the Corinthian Venus. "To Corinthianize" came to express
 the utmost lewdness, but Corinth, as sunken as she was in sensual
@@ -2082,7 +2082,7 @@ pleasure, was not under the pale of Christianity. She was a heathen
 city, outside of that light which, coming into the world, is held to
 enlighten every man that accepts it.
 
-<span id="fn_36"></span>[36.](#fr_36)  Les Cuisiniers et les marmitons
+<span id="fn_36"></span>[36.](#fr_36.md)  Les Cuisiniers et les marmitons
 de l'archeveques de Vienne avaient imposé un tribut sur les mariages; on
 croit que certains feuditaires exigeaient un droit obscène de leur
 vassaux qui se mariaient, quel fut transformé ensuite en droit de
@@ -2094,17 +2094,17 @@ Vol. IX, p. 202-3.
 
 <span id="fn_page_168">p. 168</span>  
 
-<span id="fn_37"></span>[37.](#fr_37)  Moral History of Women.
+<span id="fn_37"></span>[37.](#fr_37.md)  Moral History of Women.
 
 <span id="fn_page_170">p. 170</span>  
 
-<span id="fn_38"></span>[38.](#fr_38)  There are those who to enrich
+<span id="fn_38"></span>[38.](#fr_38.md)  There are those who to enrich
 themselves would not only rob their sisters of their portion, but would
 sell for money the honor of those who bear their name. The authority of
 the son during the feudal period was so absolute that the father and
 mother themselves often winked at this hideous traffic.--*Ibid*, p. 46.
 
-<span id="fn_39"></span>[39.](#fr_39)  Unless an heiress, woman
+<span id="fn_39"></span>[39.](#fr_39.md)  Unless an heiress, woman
 possessed no social importance; unless an in mate of a religious house,
 no religious position. There are some records of her in this last
 position, showing what constant effort and strength of intellect were
@@ -2113,19 +2113,19 @@ monks.--*Sketches of Fontervault*.
 
 <span id="fn_page_171">p. 171</span>  
 
-<span id="fn_40"></span>[40.](#fr_40)  See page 193.--*Fleta*.
+<span id="fn_40"></span>[40.](#fr_40.md)  See page 193.--*Fleta*.
 
-<span id="fn_41"></span>[41.](#fr_41)  *Bracton*, 26. 195, 208.
+<span id="fn_41"></span>[41.](#fr_41.md)  *Bracton*, 26. 195, 208.
 *Littleton's Tenures*, 55, 174, 209.
 
-<span id="fn_42"></span>[42.](#fr_42)  Gratian, Canon for Spain in 633,
+<span id="fn_42"></span>[42.](#fr_42.md)  Gratian, Canon for Spain in 633,
 says the nuptial robe was garnished with white and purple ribbons as a
 sign of the continence to which young married people devoted themselves
 for a time.
 
 <span id="fn_page_172">p. 172</span>  
 
-<span id="fn_43"></span>[43.](#fr_43)  Eight young men, living in the
+<span id="fn_43"></span>[43.](#fr_43.md)  Eight young men, living in the
 vicinity of North Rose, Wayne County, have been held to await the action
 of the grand jury for rioting. A young married couple named Garlic were
 about to retire for the night when they were startled by the appearance
@@ -2144,23 +2144,23 @@ yells as they departed. The eight young men were arrested a few days
 later on suspicion of being in the horning party.--*Press Report*, Jan.
 14, 1887.
 
-<span id="fn_44"></span>[44.](#fr_44)  Whenever we discover symbolized
+<span id="fn_44"></span>[44.](#fr_44.md)  Whenever we discover symbolized
 forms, we are justified in inferring that in the past life of the people
 employing them there were corresponding realities. McLennon.--*Studies
 in Ancient History*, p, 6.
 
-<span id="fn_45"></span>[45.](#fr_45)  He was thrown into the moat to
+<span id="fn_45"></span>[45.](#fr_45.md)  He was thrown into the moat to
 cool his ardor, pelted with stones, derided as a proud and envious
 wretch.--*Michelet*.
 
 <span id="fn_page_173">p. 173</span>  
 
-<span id="fn_46"></span>[46.](#fr_46)  The maids redeeme their
+<span id="fn_46"></span>[46.](#fr_46.md)  The maids redeeme their
 virginities with a certain piece of money, and by that Terme their lands
 are held to this day. Heywoode.--*History of Women*, London, 1624; Lib.
 7, 339.
 
-<span id="fn_47"></span>[47.](#fr_47)  Margaret was canonized in 1251,
+<span id="fn_47"></span>[47.](#fr_47.md)  Margaret was canonized in 1251,
 and made the Patron Saint of Scotland in 1673. Several of the Scotch
 feudalry, despite royal protestation, kept up the infamous practice
 until a late date. One of the earls of Crawford, a truculent and lustful
@@ -2170,15 +2170,15 @@ literal translation of *droit de jambage*.--*Sketches of Feudalism*.
 
 <span id="fn_page_174">p. 174</span>  
 
-<span id="fn_48"></span>[48.](#fr_48)  The feeling is common in the
+<span id="fn_48"></span>[48.](#fr_48.md)  The feeling is common in the
 north that a laird, or chieftain, getting a vassal's or clansmen's wife
 or daughter with child, is doing her a great honor. Burke.--*Letters
 from an English Gentleman*, about 1730.
 
-<span id="fn_49"></span>[49.](#fr_49)  *Pres de cet étang, et devant sa
+<span id="fn_49"></span>[49.](#fr_49.md)  *Pres de cet étang, et devant sa
 maison*.
 
-<span id="fn_50"></span>[50.](#fr_50)  In days to come people will be
+<span id="fn_50"></span>[50.](#fr_50.md)  In days to come people will be
 slow to believe that the law among Christian nations went beyond
 anything decreed concerning the olden slavery; that it wrote down as an
 actual right the most grievous outrage that could ever wound man's
@@ -2188,7 +2188,7 @@ bride, but was willing to sell his rights to the husband. The courts of
 Berne openly maintain that this right grew up naturally. Michelet--*La
 Sorciere*. p, 62.
 
-<span id="fn_51"></span>[51.](#fr_51)  Among the rights asserted by the
+<span id="fn_51"></span>[51.](#fr_51.md)  Among the rights asserted by the
 Protestant clergy in the middle ages, and which caused much dispute, was
 exemption from lay jurisdiction even in cases of felony.
 
@@ -2197,12 +2197,12 @@ church. Froude.--*Times of Erasmus and Luther*.
 
 <span id="fn_page_175">p. 175</span>  
 
-<span id="fn_52"></span>[52.](#fr_52)  Among these de coucher avec leur
+<span id="fn_52"></span>[52.](#fr_52.md)  Among these de coucher avec leur
 femmes, d'enlever les prémices de leurs filles.
 
-<span id="fn_53"></span>[53.](#fr_53)  H. S. Maine.
+<span id="fn_53"></span>[53.](#fr_53.md)  H. S. Maine.
 
-<span id="fn_54"></span>[54.](#fr_54)  In Babylon every young woman was
+<span id="fn_54"></span>[54.](#fr_54.md)  In Babylon every young woman was
 obliged once in her life to <span id="fn_page_176">p. 176</span> offer
 her person for sale, nor was she permitted to leave the temple, where
 she sat with a cord about her waist, until some stranger taking it in
@@ -2213,24 +2213,24 @@ until such sale had been consummated."
 
 <span id="fn_page_176">p. 176</span>  
 
-<span id="fn_55"></span>[55.](#fr_55)  Although a similar custom is said
+<span id="fn_55"></span>[55.](#fr_55.md)  Although a similar custom is said
 to have prevailed in India under Brahaminical rule, it must be
 remembered that wherever found it is an accompaniment of the
 Patriarchate, and under some form of religion where the feminine is no
 longer considered a portion of the divinity, or woman allowed in the
 priesthood.
 
-<span id="fn_56"></span>[56.](#fr_56)  It has been too readily believed
+<span id="fn_56"></span>[56.](#fr_56.md)  It has been too readily believed
 that the wrong was formal, not real. But the price laid down in certain
 countries exceeded the means of almost every peasant. In Scotland, for
 instance, the demand was for several cows, a price immense, impossible.
 
 <span id="fn_page_178">p. 178</span>  
 
-<span id="fn_57"></span>[57.](#fr_57)  *Christian History, First
+<span id="fn_57"></span>[57.](#fr_57.md)  *Christian History, First
 Period*, by Joseph Henry Allen.
 
-<span id="fn_58"></span>[58.](#fr_58)  In the history of Julius Caesar
+<span id="fn_58"></span>[58.](#fr_58.md)  In the history of Julius Caesar
 there is something peculiarly curious and mythical. Cæsar had all the
 honors paid to him as to a divine person. At the end of five years a
 festival was instituted to his honor, as to a person of divine
@@ -2239,43 +2239,43 @@ instituted for the occasion. A day was dedicated to him, and he had the
 title also of Julian love, and a temple was erected to
 him.-*Anacalypsis*, I, 611.
 
-<span id="fn_59"></span>[59.](#fr_59)  Law of the first night.
+<span id="fn_59"></span>[59.](#fr_59.md)  Law of the first night.
 
-<span id="fn_60"></span>[60.](#fr_60)  The lord's right.
+<span id="fn_60"></span>[60.](#fr_60.md)  The lord's right.
 
-<span id="fn_61"></span>[61.](#fr_61)  Leg right--the right to place a
+<span id="fn_61"></span>[61.](#fr_61.md)  Leg right--the right to place a
 naked leg in bed with the bride.
 
-<span id="fn_62"></span>[62.](#fr_62)  Droit de cuissage, c'est le droit
+<span id="fn_62"></span>[62.](#fr_62.md)  Droit de cuissage, c'est le droit
 de mettre une cuisse dans le lit d'une autre, ou de coucher avec le
 femme d'un vassal, ou d'un serf.
 
-<span id="fn_63"></span>[63.](#fr_63)  Droit d'afforge, the right to
+<span id="fn_63"></span>[63.](#fr_63.md)  Droit d'afforge, the right to
 prey upon the bride.
 
-<span id="fn_64"></span>[64.](#fr_64)  Droit de marquette, took its name
+<span id="fn_64"></span>[64.](#fr_64.md)  Droit de marquette, took its name
 in Scotland from the redemption piece of money, a demi-mark, marquette,
 or little mark, a weight of gold or silver used in Great Britain and
 many other European countries.
 
 <span id="fn_page_181">p. 181</span>  
 
-<span id="fn_65"></span>[65.](#fr_65)  Mrs. Josephine Butler. so
+<span id="fn_65"></span>[65.](#fr_65.md)  Mrs. Josephine Butler. so
 stating.
 
 <span id="fn_page_183">p. 183</span>  
 
-<span id="fn_66"></span>[66.](#fr_66)  A government license reads:
+<span id="fn_66"></span>[66.](#fr_66.md)  A government license reads:
 "Chinese women for the use of Europeans only."
 
-<span id="fn_67"></span>[67.](#fr_67)  *Contagious Disease Acts*.
+<span id="fn_67"></span>[67.](#fr_67.md)  *Contagious Disease Acts*.
 
-<span id="fn_68"></span>[68.](#fr_68)  *The Emancipation of Women*,
+<span id="fn_68"></span>[68.](#fr_68.md)  *The Emancipation of Women*,
 January, 1888.
 
 <span id="fn_page_184">p. 184</span>  
 
-<span id="fn_69"></span>[69.](#fr_69)  The penal code provides for the
+<span id="fn_69"></span>[69.](#fr_69.md)  The penal code provides for the
 punishment of a man who commits mischief by injuring an animal of the
 value of ten rupees or upwards, with imprisonment for a term which may
 extend to two years, or with fine, or with both. If the animal be worth
@@ -2292,10 +2292,10 @@ resisted her seducer."
 
 <span id="fn_page_185">p. 185</span>  
 
-<span id="fn_70"></span>[70.](#fr_70)  The New York Society for the
+<span id="fn_70"></span>[70.](#fr_70.md)  The New York Society for the
 "Prevention of Diseases."
 
-<span id="fn_71"></span>[71.](#fr_71)  Of Berlin, August Bebel says:
+<span id="fn_71"></span>[71.](#fr_71.md)  Of Berlin, August Bebel says:
 "Now things are neither better nor worse in Berlin than in any other
 large town. It would be difficult to decide which most resembled ancient
 Babylon; orthodox Greek St. Petersburg, Catholic Rome Christian Germanic
@@ -2304,7 +2304,7 @@ Past, Present and Future*.
 
 <span id="fn_page_188">p. 188</span>  
 
-<span id="fn_72"></span>[72.](#fr_72)  The latest attempt for licensing
+<span id="fn_72"></span>[72.](#fr_72.md)  The latest attempt for licensing
 vice in the United States was made in New Orleans, 1892, in the form of
 an ordinance proposing to grant to Dr. Wm. Harnon the privilege of
 levying an inspection tax upon those known as "Public Women" of $0.50 a
@@ -2343,7 +2343,7 @@ work of Mrs. Elizabeth Lyle Saxon.
 
 <span id="fn_page_190">p. 190</span>  
 
-<span id="fn_73"></span>[73.](#fr_73)  The reporter, while the committee
+<span id="fn_73"></span>[73.](#fr_73.md)  The reporter, while the committee
 was still in session, went to a procuress and ordered a pretty girl, 14
 years of age, certified by a physician to be good, to be delivered to
 his order as "*agent for gentleman of 60*." The madame accepted the
@@ -2354,7 +2354,7 @@ old black frock. Having completed the purchase of the girl, the reporter
 hastened to arrange for her delivery anywhere and to any person
 designated by the committee.
 
-<span id="fn_74"></span>[74.](#fr_74)  A committee composed of Cardinal
+<span id="fn_74"></span>[74.](#fr_74.md)  A committee composed of Cardinal
 Manning, the Archbishop of Canterbury, Bishop of London and two laymen,
 examined the evidence respecting criminal vice in London, becoming
 satisfied that the statements made by the "Pall Mall Gazette" were
@@ -2362,12 +2362,12 @@ substantially true.
 
 <span id="fn_page_191">p. 191</span>  
 
-<span id="fn_75"></span>[75.](#fr_75)  The Rev. Mr. Spurgeon preached a
+<span id="fn_75"></span>[75.](#fr_75.md)  The Rev. Mr. Spurgeon preached a
 powerful sermon upon the patrician iniquity of London, comparing it to
 the worst sins of ancient nations, one sure, Sooner or later, to bring
 destruction upon both individual and nation.
 
-<span id="fn_76"></span>[76.](#fr_76)  When you see a girl on the street
+<span id="fn_76"></span>[76.](#fr_76.md)  When you see a girl on the street
 you can never say without inquiry whether she is one of the
 most-to-be-condemned or the most-to-be-pitied of her Sex. Many of them
 find themselves where they are because of a too trusting disposition;
@@ -2376,13 +2376,13 @@ stabbed or maimed by the dagger of the assassin. \* \* \* These women
 constitute a large **standing** army, whose numbers no one can
 calculate. Gen. Booth.--*Darkest England*, 51-56.
 
-<span id="fn_77"></span>[77.](#fr_77)  Children as they go to and from
+<span id="fn_77"></span>[77.](#fr_77.md)  Children as they go to and from
 school are waited for and watched until the time has come for running
 them down.--*Report of the Secret Commission*.
 
 <span id="fn_page_193">p. 193</span>  
 
-<span id="fn_78"></span>[78.](#fr_78)  It seemed a strange inverted
+<span id="fn_78"></span>[78.](#fr_78.md)  It seemed a strange inverted
 world, that in which I lived those terrible weeks, the world of the
 streets and brothel. It was the same, and yet not the same as the world
 of business and the world of politics. I heard of much the same people
@@ -2393,32 +2393,32 @@ Gazette."
 
 <span id="fn_page_194">p. 194</span>  
 
-<span id="fn_79"></span>[79.](#fr_79)  *Report of Secret Commission*.
+<span id="fn_79"></span>[79.](#fr_79.md)  *Report of Secret Commission*.
 
-<span id="fn_80"></span>[80.](#fr_80)  An immense number of public women
+<span id="fn_80"></span>[80.](#fr_80.md)  An immense number of public women
 congregated at Nice during the time of its Historic Council, which
 settled the genuineness of the books of the Bible.
 
-<span id="fn_81"></span>[81.](#fr_81)  So fast has this class of
+<span id="fn_81"></span>[81.](#fr_81.md)  So fast has this class of
 pecuniarily independent single women increased within the past two and a
 half decades. women who prefer a single life with its personal
 independence, to a married life with its legal dependence and
 restrictions, as to call from the "London Times" the designation of
 "Third Sex."
 
-<span id="fn_82"></span>[82.](#fr_82)  The statistics of prostitution
+<span id="fn_82"></span>[82.](#fr_82.md)  The statistics of prostitution
 show that the great proportion of those who have fallen into it have
 been impelled by the most extreme poverty, in many instances verging
 upon starvation.--*Hist. European Morals*, 2, 203.
 
 <span id="fn_page_195">p. 195</span>  
 
-<span id="fn_83"></span>[83.](#fr_83)  Belgium and Holland entered into
+<span id="fn_83"></span>[83.](#fr_83.md)  Belgium and Holland entered into
 an agreement a few years since for its suppression.
 
 <span id="fn_page_198">p. 198</span>  
 
-<span id="fn_84"></span>[84.](#fr_84)  When Hon. Henry Blair presented a
+<span id="fn_84"></span>[84.](#fr_84.md)  When Hon. Henry Blair presented a
 petition, asking for the better protection of girls, he said: "Our
 civilization seems to have developed an almost unknown phase of crime in
 the annals of the race, and to-day the traffic in girls and young women
@@ -2429,14 +2429,14 @@ This Christianity of ours has much to answer for.--*Woman's Tribune*.
 
 <span id="fn_page_202">p. 202</span>  
 
-<span id="fn_85"></span>[85.](#fr_85)  It was at one time proposed to
+<span id="fn_85"></span>[85.](#fr_85.md)  It was at one time proposed to
 arrest all women out alone in the city of Syracuse, N. Y., after 9
 o'clock in the evening. Had the ordinance been enacted, a lady of mature
 years and position was prepared to test its legality.
 
 <span id="fn_page_203">p. 203</span>  
 
-<span id="fn_86"></span>[86.](#fr_86)  Eighteen women were arrested on
+<span id="fn_86"></span>[86.](#fr_86.md)  Eighteen women were arrested on
 Monday night in the fifteenth and twenty-ninth police precincts, and
 after being held in confinement over night, were taken before justice
 Duffy at the Jefferson Market Police Court Tuesday morning.
@@ -2451,7 +2451,7 @@ Duffy at the Jefferson Market Police Court Tuesday morning.
 when we find them loitering on the streets."-New York "Sunday Sun," June
 28, 1885.
 
-<span id="fn_87"></span>[87.](#fr_87)  Mr. Breen said the horrors of the
+<span id="fn_87"></span>[87.](#fr_87.md)  Mr. Breen said the horrors of the
 camps into which these girls are inveigled cannot be adequately
 described. There is no escape for these poor creatures. In one case a
 girl escaped after being shot in the leg, and took refuge in a swamp.
@@ -2467,7 +2467,7 @@ amend it.--*Telegraphic Report*.
 
 <span id="fn_page_204">p. 204</span>  
 
-<span id="fn_88"></span>[88.](#fr_88)  Tales of a horrible character
+<span id="fn_88"></span>[88.](#fr_88.md)  Tales of a horrible character
 reach as from Michigan and other northern lumber districts of the manner
 in which girls are enticed to these places on the promise of high wages,
 and then subjected to brutal outrages past description. Some three
@@ -2477,7 +2477,7 @@ another (we beg pardon of all brutes), all escape guarded against by
 ferocious bloodhounds. The maximum of life is two months.--"Union Labor
 journal."
 
-<span id="fn_89"></span>[89.](#fr_89)  Tony Harden used to keep dives in
+<span id="fn_89"></span>[89.](#fr_89.md)  Tony Harden used to keep dives in
 Norway and Quinnesic, and it is said of him that after paying a
 constable $12 to bring a girl back who had tried to escape, he beat her
 with a revolver until he was tired, and was about to turn a bull-dog
@@ -2486,12 +2486,12 @@ Harden was elected justice of the peace.--"Woman's Standard."
 
 <span id="fn_page_207">p. 207</span>  
 
-<span id="fn_90"></span>[90.](#fr_90)  The Rev. Mr. Kerr, of the
+<span id="fn_90"></span>[90.](#fr_90.md)  The Rev. Mr. Kerr, of the
 Protestant Church, Colon, recently discovered three young girls brought
 to the Isthmus for improper purposes. He took the children away, and
 with the assistance of others returned them to their parents in Jamaica.
 
-<span id="fn_91"></span>[91.](#fr_91)  QUEBEC, April 11.--Wholesale
+<span id="fn_91"></span>[91.](#fr_91.md)  QUEBEC, April 11.--Wholesale
 trading in young and innocent girls for purposes of prostitution has
 come to the notice of the authorities. Disreputable houses in Chicago,
 New York, Boston and other cities in the United States have agents here,
@@ -2504,7 +2504,7 @@ sent to one Chicago house within a year.--"Daily Press."
 
 <span id="fn_page_208">p. 208</span>  
 
-<span id="fn_92"></span>[92.](#fr_92)  The startling revelations within
+<span id="fn_92"></span>[92.](#fr_92.md)  The startling revelations within
 the past few days as to the traffic at Ottawa in young girls of from 12
 to 14, in which a number of prominent citizens as well as several
 leading politicians are implicated, have caused the greatest
@@ -2519,22 +2519,22 @@ Press."
 
 <span id="fn_page_210">p. 210</span>  
 
-<span id="fn_93"></span>[93.](#fr_93)  "Topeka Leader."
+<span id="fn_93"></span>[93.](#fr_93.md)  "Topeka Leader."
 
-<span id="fn_94"></span>[94.](#fr_94)  In Troy, N. Y., in the fall of
+<span id="fn_94"></span>[94.](#fr_94.md)  In Troy, N. Y., in the fall of
 1891, discovery was made of an organized plan to ravish little girls. It
 numbered in its ranks married men, members of the police force, and men
 well known in business and church circles. With this discovery came the
 statement from other cities that like offenders were common.--"The Daily
 Press."
 
-<span id="fn_95"></span>[95.](#fr_95)  Persistent effort has been made
+<span id="fn_95"></span>[95.](#fr_95.md)  Persistent effort has been made
 by women to stop these great wrongs, but having no power in legislation,
 her prayers and petitions have met with but scant success.
 
 <span id="fn_page_211">p. 211</span>  
 
-<span id="fn_96"></span>[96.](#fr_96)  MARRIED AT THIRTEEN YEARS.--Maud
+<span id="fn_96"></span>[96.](#fr_96.md)  MARRIED AT THIRTEEN YEARS.--Maud
 Pearl Johnson, a thirteen-year-old girl of Fulton, who was married to
 Franklin Foster of that place on Monday, has been placed in the State
 industrial School in Rochester under sentence by Police Justice Spencer
@@ -2545,16 +2545,16 @@ vagrancy.
 
 <span id="fn_page_212">p. 212</span>  
 
-<span id="fn_97"></span>[97.](#fr_97)  Africa, Australia, India, Canada
+<span id="fn_97"></span>[97.](#fr_97.md)  Africa, Australia, India, Canada
 the United States among the number.
 
-<span id="fn_98"></span>[98.](#fr_98)  Who gave seventeen years of her
+<span id="fn_98"></span>[98.](#fr_98.md)  Who gave seventeen years of her
 life to work for the overthrow of government legislation of vice in
 England.
 
 <span id="fn_page_213">p. 213</span>  
 
-<span id="fn_99"></span>[99.](#fr_99) --1. To treat all women with
+<span id="fn_99"></span>[99.](#fr_99.md) --1. To treat all women with
 respect, and endeavor to protect them from wrong and degradation.
 
 2\. To endeavor to put down all indecent language and coarse jests.
@@ -2569,7 +2569,7 @@ Pure."
 
 <span id="fn_page_215">p. 215</span>  
 
-<span id="fn_100"></span>[100.](#fr_100)  The women claimed the right to
+<span id="fn_100"></span>[100.](#fr_100.md)  The women claimed the right to
 baptize their own sex. But the bishops and presbyters did not care to be
 released from the pleasant duty of baptizing the female converts.
 Waite.--*Hist. of Christian Religion to A. D. 700*, p. 23.
@@ -2579,13 +2579,13 @@ been established about the year 200, required the applicant for baptism
 to be divested of clothing, and after the ordinance had been
 administered, to be anointed with oil.--*Ibid*, p. 384-5.
 
-<span id="fn_101"></span>[101.](#fr_101)  Undisguised sensuality reached
+<span id="fn_101"></span>[101.](#fr_101.md)  Undisguised sensuality reached
 a point we can scarcely conceive. Women were sometimes brought naked
 upon the stage. By a curious association of ideas the theater was still
 intimately connected with religious observance. *Rationalism in Europe*,
 2-288.
 
-<span id="fn_102"></span>[102.](#fr_102)  Catharine, the first wife of
+<span id="fn_102"></span>[102.](#fr_102.md)  Catharine, the first wife of
 Peter the Great, was received into the Greek Church by a rite nearly
 approaching the primitive customs of the Christian Church. New converts
 to that church are plunged three times naked in a river <span

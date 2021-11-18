@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste56)  [Next](ste58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste56)  [Next](ste58.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@
 <span id="img_title5"></span>
 
 [![A Review of the Theory of the Earth: Title Page](tn/title5.jpg)  
-Click to enlarge](img/title5.jpg)  
+Click to enlarge](img/title5.jpg.md)  
 A Review of the Theory of the Earth: Title Page  
 
 There are no chapters in this section of the book: the chapter breaks
@@ -45,4 +45,4 @@ There are no chapters in this section of the book: the chapter breaks
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](ste58)
+[Next: Chapter I](ste58.md)

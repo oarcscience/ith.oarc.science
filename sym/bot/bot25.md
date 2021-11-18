@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot24) 
-[Next](bot26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot24.md) 
+[Next](bot26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ slightly longer.
 The Sun occupies this House until January 19th approximately, and as its
 Latin name, *Capricornus*, signifies, is symbolised by a Goat, as
 illustrated in No. 10 of the coloured
-[Frontispiece](bot00.htm#img_front). Saturn is the
+[Frontispiece](bot00.htm#img_front.md). Saturn is the
 
 <span id="page_246">p. 246</span>
 
@@ -89,7 +89,7 @@ Pan taking the form of a fish for the lower half of his body,
 and the head, shoulders, and forelegs of a goat for the other half.
 
 The symbol of the Goat climbing a rocky eminence (as shown in the
-[illustration](bot00.htm#img_front)), is very appropriate to
+[illustration](bot00.htm#img_front).md), is very appropriate to
 well-developed subjects born under the influence of Capricorn who seem
 for ever persistently and patiently climbing upwards, and who are
 capable of great resistance in overcoming obstacles in the way, their
@@ -339,6 +339,6 @@ birth map.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Aquarius—The Water-Bearer](bot26)
+[Next: Chapter XI. Aquarius—The Water-Bearer](bot26.md)
 
 </div>

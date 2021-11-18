@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst092)  [Next](inst094) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst092)  [Next](inst094.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,7 +130,7 @@ sported with their gods. Would that Christians had not imitated them in
 this their audacity! Nothing, indeed, could be less becoming; but it is
 obvious that for some ages nothing has been more usual than this
 misconduct—the whole body of the people everywhere despising the Law of
-God,58  <span id="fr_599"></span>[600](#fn_599) and burning with an
+God,58  <span id="fr_599"></span>[600](#fn_599.md) and burning with an
 insane zeal of vowing according to any dreaming notion which they had
 formed. I have no wish to exaggerate invidiously, or particularise the
 many grievous sins which have here been committed; but it seemed right
@@ -144,7 +144,7 @@ it; and, lastly, with what intention we make it. In regard in the first,
 we should consider that we have to do with God, whom our obedience so
 delights, that he abominates all will-worship, how specious and splendid
 soever it be in the eyes of men (<span id="iv.iv.xiv-p27.1"></span>[Col.
-2:23](../../../bib/kjv/col002.htm#023)<span
+2:23](../../../bib/kjv/col002.htm#023.md)<span
 id="iv.iv.xiv-p27.1"></span>). If all will-worship, which we devise
 without authority, is abomination to God, it follows that no worship can
 be acceptable to him save that which is approved by his word. Therefore,
@@ -152,7 +152,7 @@ we must not arrogate such licence to ourselves as to presume to vow
 anything to God without evidence of the estimation in which he holds it.
 For the doctrine of Paul, that whatsoever is not of faith is sin (<span
 id="iv.iv.xiv-p27.2"></span>[Rom.
-14:23](../../../bib/kjv/rom014.htm#023)<span
+14:23](../../../bib/kjv/rom014.htm#023.md)<span
 id="iv.iv.xiv-p27.2"></span>), while it extends to all actions of every
 kind, certainly applies with peculiar force in the case where the
 thought is immediately turned towards God. Nay, if in the minutest
@@ -181,9 +181,9 @@ merely his gifts. But seeing that some things are given to us by the
 goodness of God, and others withheld by his justice, every man should
 have respect to the measure of grace bestowed on him, as Paul enjoins
 (<span id="iv.iv.xiv-p28.1"></span>[Rom.
-12:3](../../../bib/kjv/rom012.htm#003)<span
+12:3](../../../bib/kjv/rom012.htm#003.md)<span
 id="iv.iv.xiv-p28.1"></span>; <span id="iv.iv.xiv-p28.2"></span>[1 Cor.
-12:11](../../../bib/kjv/co1012.htm#011)<span
+12:11](../../../bib/kjv/co1012.htm#011.md)<span
 id="iv.iv.xiv-p28.2"></span>). All then I mean here is, that your vows
 should be adapted to the measure which God by his gifts prescribes to
 you, lest by attempting more than he permits, you arrogate too much to
@@ -191,22 +191,22 @@ yourself, and fall headlong. For example, when the assassins, of whom
 mention is made in the Acts, vowed “that they would neither eat nor
 drink till they had killed Paul” (<span
 id="iv.iv.xiv-p28.3"></span>[Acts
-23:12](../../../bib/kjv/act023.htm#012)<span
+23:12](../../../bib/kjv/act023.htm#012.md)<span
 id="iv.iv.xiv-p28.3"></span>), though it had not been an impious
 conspiracy, it would still have been intolerably presumptuous, as
 subjecting the life and death of a man to their own power. Thus Jephthah
 suffered for his folly, when with precipitate fervour he made a rash vow
 (<span id="iv.iv.xiv-p28.4"></span>[Judges
-11:30](../../../bib/kjv/jdg011.htm#030)<span
+11:30](../../../bib/kjv/jdg011.htm#030.md)<span
 id="iv.iv.xiv-p28.4"></span>). Of this class, the first place of insane
 audacity belongs to celibacy. Priests, monks, and nuns, forgetful of
 their infirmity, are confident of their fitness for celibacy.58  <span
-id="fr_600"></span>[601](#fn_600) But by what oracle have they been
+id="fr_600"></span>[601](#fn_600.md) But by what oracle have they been
 instructed, that the chastity which they vow to the end of life, they
 will be able through life to maintain? They hear the voice of God
 concerning the universal condition of mankind, “It is not good that the
 man should be alone” (<span id="iv.iv.xiv-p29.1"></span>[Gen.
-2:18](../../../bib/kjv/gen002.htm#018)<span
+2:18](../../../bib/kjv/gen002.htm#018.md)<span
 id="iv.iv.xiv-p29.1"></span>). They understand, and I wish they did not
 feel that the sin remaining in us is armed with the sharpest stings. How
 can they presume to shake off the common feelings of their nature for a
@@ -215,7 +215,7 @@ certain time as occasion requires? In such perverse conduct they must
 not expect God to be their helper; let them rather remember the words,
 “Ye shall not tempt the Lord your God” (<span
 id="iv.iv.xiv-p29.2"></span>[Deut.
-6:16](../../../bib/kjv/deu006.htm#016)<span
+6:16](../../../bib/kjv/deu006.htm#016.md)<span
 id="iv.iv.xiv-p29.2"></span>). But it is to tempt the Lord to strive
 against the nature implanted by him, and to spurn his present gifts as
 if they did not appertain to us. This they not only do, but marriage,
@@ -228,7 +228,7 @@ did not furnish a clear proof that celibacy is one thing and chastity
 another. This life, however, they most impudently style angelical,
 thereby offering no slight insult to the angels of God, to whom they
 compare whoremongers and adulterers, and something much worse and fouler
-still.58  <span id="fr_601"></span>[602](#fn_601) And, indeed, there is
+still.58  <span id="fr_601"></span>[602](#fn_601.md) And, indeed, there is
 here very little occasion for argument, since they are abundantly
 refuted by fact. For we plainly see the fearful punishments with which
 the Lord avenges this arrogance and contempt of his gifts from
@@ -267,7 +267,7 @@ inflict punishment on ourselves for faults committed. The former, let us
 if you please call acts of thanksgiving; the latter, acts of repentance.
 Of the former class, we have an example in the tithes which Jacob vowed
 (<span id="iv.iv.xiv-p31.1"></span>[Gen.
-28:20](../../../bib/kjv/gen028.htm#020)<span
+28:20](../../../bib/kjv/gen028.htm#020.md)<span
 id="iv.iv.xiv-p31.1"></span>), if the Lord would conduct him safely home
 from exile; and also in the ancient peace-offerings which pious kings
 and commanders, when about to engage in a just war, vowed that they
@@ -275,7 +275,7 @@ would give if they were victorious, or, at least, if the Lord would
 deliver them when pressed by some greater difficulty. Thus are to be
 understood all the passages in the Psalms which speak of vows (<span
 id="iv.iv.xiv-p31.2"></span>[Ps.
-22:26](../../../bib/kjv/psa022.htm#026)<span
+22:26](../../../bib/kjv/psa022.htm#026.md)<span
 id="iv.iv.xiv-p31.2"></span>; 56:13; 116:14, 18). Similar vows may also
 be used by us in the present day, whenever the Lord has rescued us from
 some disaster or dangerous disease, or other peril. For it is not
@@ -315,7 +315,7 @@ are limited to the measure of grace bestowed upon us.
 <span id="iv.iv.xiv-p33"></span>6. It is not now difficult to infer what
 view on the whole ought to be taken of vows. There is one vow common to
 all believers, which taken in baptism we confirm, and as it were
-sanction, by our Catechism,58  <span id="fr_602"></span>[603](#fn_602)
+sanction, by our Catechism,58  <span id="fr_602"></span>[603](#fn_602.md)
 and partaking of the Lord’s Supper. For the sacraments are a kind of
 mutual contracts by which the Lord conveys his mercy to us, and by it
 eternal life, while we in our turn promise him obedience. The formula,
@@ -390,7 +390,7 @@ elation, nor reject it from the blandishment of sloth, but with meek
 hearts obey God. You will not prefer your own ease to the necessities of
 the Church. Had no good men been willing to minister to her when in
 travail, it would have been impossible for you to be born”58  <span
-id="fr_603"></span>[604](#fn_603) (August. <span
+id="fr_603"></span>[604](#fn_603.md) (August. <span
 id="iv.iv.xiv-p37.1"></span>Ep. 82<span id="iv.iv.xiv-p37.1"></span>).
 He is speaking of the ministry by which believers are spiritually born
 again. In like manner, he says to Aurelius (<span
@@ -457,13 +457,13 @@ obliged to do what he declines, nor condemned by the others, whom he
 acknowledges himself too weak to imitate. For they remember how greatly
 charity is commended: they remember that to the pure all things are pure
 (<span id="iv.iv.xiv-p38.1"></span>[Tit.
-1:15](../../../bib/kjv/tit001.htm#015)<span
+1:15](../../../bib/kjv/tit001.htm#015.md)<span
 id="iv.iv.xiv-p38.1"></span>). Wherefore, all their vigilance is
 employed, not in rejecting kinds of food as polluted, but in subduing
 concupiscence, and maintaining brotherly love. They remember, ‘Meats for
 the belly, and the belly for meats,’ &c. (<span
 id="iv.iv.xiv-p38.2"></span>[1 Cor.
-6:13](../../../bib/kjv/co1006.htm#013)<span
+6:13](../../../bib/kjv/co1006.htm#013.md)<span
 id="iv.iv.xiv-p38.2"></span>). Many, however strong, abstain because of
 the weak. In many this is not the cause of action; they take pleasure in
 sustaining themselves on the meanest and least expensive food. Hence the
@@ -519,7 +519,7 @@ aspiring to which they are more perfect than all other men.
 <span id="iv.iv.xiv-p40"></span>11. If they deny this, I should like to
 know why they honour their own order only with the title of perfection,
 and deny it to all other divine callings.58  <span
-id="fr_604"></span>[605](#fn_604) I am not unaware of the sophistical
+id="fr_604"></span>[605](#fn_604.md) I am not unaware of the sophistical
 solution that their order is not so called because it contains
 perfection in itself, but because it is the best of all for acquiring
 perfection. When they would extol themselves to the people; when they
@@ -532,7 +532,7 @@ perfection, but that they are in a state in which they aspire to it more
 than others; meanwhile, the people continue to admire as if the monastic
 life alone were angelic, perfect, and purified from every vice. Under
 this pretence they ply a most gainful traffic, while their moderation
-lies buried in a few volumes.59  <span id="fr_605"></span>[606](#fn_605)
+lies buried in a few volumes.59  <span id="fr_605"></span>[606](#fn_605.md)
 Who sees not that this is intolerable trifling? But let us treat with
 them as if they ascribed nothing more to their profession than to call
 it a state for acquiring perfection. Surely by giving it this name, they
@@ -569,14 +569,14 @@ for their perfection, and deem it invincible. Our Lord said to the young
 man who put a question to him concerning the perfection of
 righteousness, “If thou wilt be perfect, go and sell that thou hast, and
 give to the poor” (<span id="iv.iv.xiv-p44.1"></span>[Mt.
-19:21](../../../bib/kjv/mat019.htm#021)<span
+19:21](../../../bib/kjv/mat019.htm#021.md)<span
 id="iv.iv.xiv-p44.1"></span>). Whether they do so, I do not now dispute.
 Let us grant for the present that they do. They boast, then, that they
 have become perfect by abandoning their all. If the sum off perfection
 consists in this, what is the meaning of Paul’s doctrine, that though a
 man should give all his goods to feed the poor, and have not charity, he
 is nothing? (<span id="iv.iv.xiv-p44.2"></span>[1 Cor.
-13:3](../../../bib/kjv/co1013.htm#003)<span
+13:3](../../../bib/kjv/co1013.htm#003.md)<span
 id="iv.iv.xiv-p44.2"></span>). What kind of perfection is that which, if
 charity be wanting, is with the individual himself reduced to nothing?
 Here they must of necessity answer that it is indeed the highest, but is
@@ -584,7 +584,7 @@ not the only work of perfection. But here again Paul interposes; and
 hesitates not to declare that charity, without any renunciation of that
 sort, is the “bond of perfectness” (<span
 id="iv.iv.xiv-p44.3"></span>[Col.
-3:14](../../../bib/kjv/col003.htm#014)<span
+3:14](../../../bib/kjv/col003.htm#014.md)<span
 id="iv.iv.xiv-p44.3"></span>). If it is certain that there is no
 disagreement between the scholar and the master, and the latter clearly
 denies that the perfection of a man consists in renouncing all his
@@ -594,7 +594,7 @@ it, we must see in what sense we should understand the words of Christ,
 not be the least obscurity in the meaning if we consider (this ought to
 be attended to in all our Saviour’s discourses) to whom the words are
 addressed (<span id="iv.iv.xiv-p44.4"></span>[Luke
-10:25](../../../bib/kjv/luk010.htm#025)<span
+10:25](../../../bib/kjv/luk010.htm#025.md)<span
 id="iv.iv.xiv-p44.4"></span>). A young man asks by what works he shall
 enter into eternal life. Christ, as he was asked concerning works,
 refers him to the law. And justly; for, considered in itself, it is the
@@ -622,7 +622,7 @@ have gone away sorrowful on hearing these words. For he who loves God
 with his whole heart, not only regards everything which wars with his
 love as dross, but hates it as destruction (<span
 id="iv.iv.xiv-p44.5"></span>[Phil.
-3:8](../../../bib/kjv/phi003.htm#008)<span
+3:8](../../../bib/kjv/phi003.htm#008.md)<span
 id="iv.iv.xiv-p44.5"></span>). Therefore, when Christ orders a rich
 miser to leave all that he has, it is the same as if he had ordered the
 ambitious to renounce all his honours, the voluptuous all his luxuries,
@@ -636,7 +636,7 @@ youth who was out of measure satisfied with himself to feel his sore,
 and so understand that he was still at a great distance from that
 perfect obedience of the law which he falsely ascribed to himself. I
 admit that this passage was ill understood by some of the Fathers;59
- <span id="fr_606"></span>[607](#fn_606) and hence arose an affectation
+ <span id="fr_606"></span>[607](#fn_606.md) and hence arose an affectation
 of voluntary poverty, those only being thought blest who abandoned all
 earthly goods, and in a state of destitution devoted themselves to
 Christ. But I am confident that, after my exposition, no good and
@@ -676,8 +676,8 @@ Paul so execrates, that he is unable to express his detestation too
 strongly. Unless, indeed, we suppose that Christ was not divided by the
 Corinthians, when one teacher set himself above another (<span
 id="iv.iv.xiv-p46.1"></span>[1 Cor.
-1:12](../../../bib/kjv/co1001.htm#012),
-[13](../../../bib/kjv/co1001.htm#013)<span id="iv.iv.xiv-p46.1"></span>;
+1:12](../../../bib/kjv/co1001.htm#012.md),
+[13](../../../bib/kjv/co1001.htm#013.md)<span id="iv.iv.xiv-p46.1"></span>;
 3:4); and that now no injury is done to Christ when, instead of
 Christians, we hear some called Benedictines, others Franciscans, others
 Dominicans, and so called, that while they affect to be distinguished
@@ -691,7 +691,7 @@ have spoken of monachism rather than of monks; and marked, not the vices
 which cleave to a few, but vices which are inseparable from the very
 mode of life. In regard to manners, of what use is it to particularise
 and show how great the difference? This much is certain,59  <span
-id="fr_607"></span>[608](#fn_607) that there is no order of men more
+id="fr_607"></span>[608](#fn_607.md) that there is no order of men more
 polluted by all kinds of vicious turpitude; nowhere do faction, hatred,
 party-spirit, and intrigue, more prevail. In a few monasteries, indeed,
 they live chastely, if we are to call it chastity, where lust is so far
@@ -755,16 +755,16 @@ pleasure, without any regard to the calling of God, or to his
 approbation, the attempt is rash and unlawful; because their conscience
 has no ground on which it can support itself before God; and “whatsoever
 is not of faith is sin” (<span id="iv.iv.xiv-p50.1"></span>[Rom.
-14:23](../../../bib/kjv/rom014.htm#023)<span
+14:23](../../../bib/kjv/rom014.htm#023.md)<span
 id="iv.iv.xiv-p50.1"></span>). Moreover, I maintain that in astricting
 themselves to many perverse and impious modes of worship, such as are
 exhibited in modern monasticism, they consecrate themselves not to God
 but to the devil. For why should the prophets have been permitted to say
 that the Israelites sacrificed their sons to devils and not to God
 (<span id="iv.iv.xiv-p50.2"></span>[Deut.
-32:17](../../../bib/kjv/deu032.htm#017)<span
+32:17](../../../bib/kjv/deu032.htm#017.md)<span
 id="iv.iv.xiv-p50.2"></span>; <span id="iv.iv.xiv-p50.3"></span>[Ps.
-106:37](../../../bib/kjv/psa106.htm#037)<span
+106:37](../../../bib/kjv/psa106.htm#037.md)<span
 id="iv.iv.xiv-p50.3"></span>), merely because they had corrupted the
 true worship of God by profane ceremonies; and we not be permitted to
 say the same thing of monks who, along with the cowl, cover themselves
@@ -775,7 +775,7 @@ necessity of marriage. They cannot allege that they make this vow
 trusting entirely to the grace of God; for, seeing he declares this to
 be a special gift not given to all (<span
 id="iv.iv.xiv-p50.4"></span>[Mt.
-19:11](../../../bib/kjv/mat019.htm#011)<span
+19:11](../../../bib/kjv/mat019.htm#011.md)<span
 id="iv.iv.xiv-p50.4"></span>), no man has a right to assume that the
 gift will be his. Let those who have it use it; and if at any time they
 feel the infirmity of the flesh, let them have recourse to the aid of
@@ -787,7 +787,7 @@ pure from fornication, but that by which the mind keeps its chastity
 untainted. For Paul enjoins caution not only against external
 lasciviousness, but also burning of mind (<span
 id="iv.iv.xiv-p50.5"></span>[1 Cor.
-7:9](../../../bib/kjv/co1007.htm#009)<span
+7:9](../../../bib/kjv/co1007.htm#009.md)<span
 id="iv.iv.xiv-p50.5"></span>). It has been the practice (they say) from
 the remotest period, for those who wished to devote themselves entirely
 to God, to bind themselves by a vow of continence. I confess that the
@@ -812,7 +812,7 @@ whoredom.
 show that this vow was used in the days of the apostles, because Paul
 says that widows who marry after having once undertaken a public office,
 “cast off their first faith” (<span id="iv.iv.xiv-p51.1"></span>[1 Tim.
-5:12](../../../bib/kjv/ti1005.htm#012)<span
+5:12](../../../bib/kjv/ti1005.htm#012.md)<span
 id="iv.iv.xiv-p51.1"></span>). I by no means deny that widows who
 dedicated themselves and their labours to the Church, at the same time
 came under an obligation of perpetual celibacy, not because they
@@ -895,7 +895,7 @@ all require of us, especially since our works can only be right when
 they please God, and have the testimony of our consciences that they do
 please him. For it always remains fixed, that “whatsoever is not of
 faith is sin” (<span id="iv.iv.xiv-p53.1"></span>[Rom.
-14:23](../../../bib/kjv/rom014.htm#023)<span
+14:23](../../../bib/kjv/rom014.htm#023.md)<span
 id="iv.iv.xiv-p53.1"></span>). By this Paul means, that any work
 undertaken in doubt is vicious, because at the root of all good works
 lies faith, which assures us that they are acceptable to God. Therefore,
@@ -953,19 +953,19 @@ it?
 
 ### Footnotes
 
-<span id="fn_599"></span>[600](inst093.htm#fr_599) <span
+<span id="fn_599"></span>[600](inst093.htm#fr_599.md) <span
 id="iv.iv.xiv-p25.1"></span>
 
 <span id="iv.iv.xiv-p26"></span>84 584 See <span
 id="iv.iv.xiv-p26.1"></span>[Ps.
-119:106](../../../bib/kjv/psa119.htm#106)<span
+119:106](../../../bib/kjv/psa119.htm#106.md)<span
 id="iv.iv.xiv-p26.1"></span>. “I have sworn, and I will perform it, that
 I will keep thy righteous judgments.” Calvin observes on these words,
 that the vow and oath to keep the law cannot be charged with rashness,
 because it trusted to the promises of God concerning the forgiveness of
 sins, and to the spirit of regeneration.
 
-<span id="fn_600"></span>[601](inst093.htm#fr_600) <span
+<span id="fn_600"></span>[601](inst093.htm#fr_600.md) <span
 id="iv.iv.xiv-p28.5"></span>
 
 <span id="iv.iv.xiv-p29"></span>85 585 On the vow of celibacy. see Calv.
@@ -973,7 +973,7 @@ de Fugiend. Micit. sacris, Adv. Theolog. Paris. De Necessit. Reform.
 Eccl.; Præfat. Antidoti ad Concil. Trident.; Vera Eccles. Reform. Ratio;
 De Scandalis.
 
-<span id="fn_601"></span>[602](inst093.htm#fr_601) <span
+<span id="fn_601"></span>[602](inst093.htm#fr_601.md) <span
 id="iv.iv.xiv-p29.3"></span>
 
 <span id="iv.iv.xiv-p30"></span>86 586 Bernard, de Convers. ad Clericos,
@@ -984,13 +984,13 @@ to conceal from the multitude, or seek not to do it. They abstain from
 the remedy of marriage, and thereafter give themselves up to all
 wickedness.”
 
-<span id="fn_602"></span>[603](inst093.htm#fr_602) <span
+<span id="fn_602"></span>[603](inst093.htm#fr_602.md) <span
 id="iv.iv.xiv-p33.1"></span>
 
 <span id="iv.iv.xiv-p34"></span>87 587 Latin, “Catechism.”—French, “En
 faisant protestation de notre foy;”—in making profession of our faith.
 
-<span id="fn_603"></span>[604](inst093.htm#fr_603) <span
+<span id="fn_603"></span>[604](inst093.htm#fr_603.md) <span
 id="iv.iv.xiv-p36.1"></span>
 
 <span id="iv.iv.xiv-p37"></span>88 588 At the same place, he admirably
@@ -998,7 +998,7 @@ says, “Dearly beloved, love ease, but with the view of restraining from
 all worldly delight, and remember that there is no place where he who
 dreads our return to God is not able to lay his snares.”
 
-<span id="fn_604"></span>[605](inst093.htm#fr_604) <span
+<span id="fn_604"></span>[605](inst093.htm#fr_604.md) <span
 id="iv.iv.xiv-p40.1"></span>
 
 <span id="iv.iv.xiv-p41"></span>89 589 Laurentius, defending his written
@@ -1007,7 +1007,7 @@ profession they merited more than others, admirably concludes, “There is
 no safer, no better way than that taught by Christ, and in it no
 profession is enjoined.”
 
-<span id="fn_605"></span>[606](inst093.htm#fr_605) <span
+<span id="fn_605"></span>[606](inst093.htm#fr_605.md) <span
 id="iv.iv.xiv-p41.1"></span>
 
 <span id="iv.iv.xiv-p42"></span>90 590 French, “,Par ce moyen ils
@@ -1017,7 +1017,7 @@ livres;”—by this means they bring grist to their mill, and sell their
 holiness very dear; meanwhile, the gloss is concealed, and is, as it
 were, buried in a few books.
 
-<span id="fn_606"></span>[607](inst093.htm#fr_606) <span
+<span id="fn_606"></span>[607](inst093.htm#fr_606.md) <span
 id="iv.iv.xiv-p44.6"></span>
 
 <span id="iv.iv.xiv-p45"></span>91 591 Chrysostom, in his Homily on the
@@ -1025,7 +1025,7 @@ words of Paul, “Salute Prisca,” &c., says, “All who retire to
 monasteries separate themselves from the Church, seeing they plainly
 assert that their monasticism is the form of a second baptism.”
 
-<span id="fn_607"></span>[608](inst093.htm#fr_607) <span
+<span id="fn_607"></span>[608](inst093.htm#fr_607.md) <span
 id="iv.iv.xiv-p47.1"></span>
 
 <span id="iv.iv.xiv-p48"></span>92 592 See Bernard. ad Guliel. Abbat..
@@ -1035,4 +1035,4 @@ Monach. in fin
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 14. - OF THE SACRAMENTS.](inst094)
+[Next: CHAPTER 14. - OF THE SACRAMENTS.](inst094.md)

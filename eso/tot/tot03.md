@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tot02)  [Next](tot04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tot02)  [Next](tot04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977574/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977574/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -329,4 +329,4 @@ should be dedicated."
 
 ------------------------------------------------------------------------
 
-[Next: II. A Past Life](tot04)
+[Next: II. A Past Life](tot04.md)

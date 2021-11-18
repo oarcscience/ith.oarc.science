@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Celtic
-Fairies](../../celt/index.htm#fairies)  [Index](index) 
-[Previous](cof05)  [Next](cof07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md)  [Celtic
+Fairies](../../celt/index.htm#fairies)  [Index](index.md) 
+[Previous](cof05)  [Next](cof07.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ track, two or three miles from Bingley. Here is a small village called
 Cottingley, almost hidden in a break in the upland, through which
 tumbles a tiny stream, known as Cottingley Beck, on its way to the Aire,
 less than a mile away. The "heroine" of Sir Conan Doyle's story is Miss
-Elsie Wright, <span id="fr_0"></span>[1](#fn_0) who resides with her
+Elsie Wright, <span id="fr_0"></span>[1](#fn_0.md) who resides with her
 parents at 31 Lynwood Terrace. The little stream runs past the back of
 the house, and the photographs were taken not more than a hundred yards
 away. When Miss Wright made the acquaintance of the fairies she was
@@ -136,7 +136,7 @@ that Elsie had always been a truthful girl, and there were
 
 [![ELSIE SEATED ON THE BANK ON WHICH THE FAIRIES WERE DANCING IN 1917
 (PHOTO 1920)](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 ELSIE SEATED ON THE BANK ON WHICH THE FAIRIES WERE DANCING IN 1917
 (PHOTO 1920)  
 
@@ -144,13 +144,13 @@ ELSIE SEATED ON THE BANK ON WHICH THE FAIRIES WERE DANCING IN 1917
 
 [![THE FALL OF WATER JUST ABOVE THE SITE OF LAST
 PHOTOGRAPH](tn/06401.jpg)  
-Click to enlarge](img/06401.jpg)  
+Click to enlarge](img/06401.jpg.md)  
 THE FALL OF WATER JUST ABOVE THE SITE OF LAST PHOTOGRAPH  
 
 <span id="img_06500"></span>
 
 [![C. FRANCES AND THE LEAPING FAIRY](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 C. FRANCES AND THE LEAPING FAIRY  
 
 Photograph taken by Elsie in August, 1920. "Cameo" camera. Distance, 3
@@ -523,7 +523,7 @@ Nature without
 <span id="img_08000"></span>
 
 [![D. FAIRY OFFERING POSY OF HARE-BELLS TO ELSIE](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 D. FAIRY OFFERING POSY OF HARE-BELLS TO ELSIE  
 
 The fairy is standing almost still, poised on the bush leaves. The wings
@@ -532,7 +532,7 @@ are shot with yellow, and upper part of dress is very pale pink.
 <span id="img_08100"></span>
 
 [![E. FAIRIES AND THEIR SUN-BATH](tn/08100.jpg)  
-Click to enlarge](img/08100.jpg)  
+Click to enlarge](img/08100.jpg.md)  
 E. FAIRIES AND THEIR SUN-BATH  
 
 This contains a feature that was quite unknown to the girls. The sheath
@@ -802,10 +802,10 @@ were always beautifully fine and unbroken.
 
 ### Footnotes
 
-<span id="fn_0"></span>[62:1](cof06.htm#fr_0) From this time onwards the
+<span id="fn_0"></span>[62:1](cof06.htm#fr_0.md) From this time onwards the
 real name Wright is used instead of Carpenter as in the original
 article--the family having withdrawn their objection.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Second Series](cof07)
+[Next: Chapter IV. The Second Series](cof07.md)

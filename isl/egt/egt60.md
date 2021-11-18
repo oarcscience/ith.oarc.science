@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt59)  [Next](egt61) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt59)  [Next](egt61.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ is not the soul a sufficient reward for thee in exchange for thyself.?
 
 ------------------------------------------------------------------------
 
-[Next: THE PARABLE OF THE SCHOOLBOYS.](egt61)
+[Next: THE PARABLE OF THE SCHOOLBOYS.](egt61.md)

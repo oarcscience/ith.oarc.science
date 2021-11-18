@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa37)  [Next](psa39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa37)  [Next](psa39.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,12 +51,12 @@ person would wring wet clothes. At length, the bull fell down, and its
 life ebbed out.
 
 At this time, the gods seated in their chariots, were so rejoiced, that
-they began to rain down flowers; and the [cowherdesses](errata.htm#3)
+they began to rain down flowers; and the [cowherdesses](errata.htm#3.md)
 and cowherds, to celebrate with songs the great renown of Krishnù. In
 the mean while Shree Radhika Jee came and said to Huri, "O great king!
 you have committed a crime in having killed any being in the form of a
 bull. For this reason go and bathe in some place of holy pilgrimage,
-then you may touch other persons." [Krishnù](errata.htm#4) replied, "I
+then you may touch other persons." [Krishnù](errata.htm#4.md) replied, "I
 will summon all the places of pilgrimage to Bruj." Having thus said, he
 went near the hill Goberdhun, and caused two deep pits to be dug. And
 the places of pilgrimage came there in bodily shape; and having
@@ -215,4 +215,4 @@ permission of Kuns to depart, came to his own house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVIII](psa39)
+[Next: Chapter XXXVIII](psa39.md)

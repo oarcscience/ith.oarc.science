@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc41)  [Next](osc43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc41)  [Next](osc43.md) 
 
 ------------------------------------------------------------------------
 
@@ -437,4 +437,4 @@ our own experiences.
 
 ------------------------------------------------------------------------
 
-[Next: (2) Witchcraft](osc43)
+[Next: (2) Witchcraft](osc43.md)

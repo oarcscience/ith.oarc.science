@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Next](lrs01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Next](lrs01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ for any non-commercial purpose with this notice intact.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](lrs01)
+[Next: Preface](lrs01.md)

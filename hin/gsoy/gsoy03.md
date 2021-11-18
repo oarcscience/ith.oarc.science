@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy02) 
-[Next](gsoy04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy02.md) 
+[Next](gsoy04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -251,4 +251,4 @@ best.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two. Patanjali's Raja Yoga](gsoy04)
+[Next: Chapter Two. Patanjali's Raja Yoga](gsoy04.md)

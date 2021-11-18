@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](eze)  [Next](hos) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](eze)  [Next](hos.md) 
 
 ------------------------------------------------------------------------
 
@@ -1495,4 +1495,4 @@ kuphumla, uvuke, uye eqashisweni lakho ekupheleni kwemihla.
 
 ------------------------------------------------------------------------
 
-[Next: Hosea](hos)
+[Next: Hosea](hos.md)

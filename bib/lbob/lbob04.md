@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob03)  [Next](lbob05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob03)  [Next](lbob05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -23,7 +23,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
 <span id="img_01300"></span> <span align="CENTER"> [![THE EMPEROR
 CONSTANTINE PRESENTING THE LABORS OF THE COUNCIL OF NICE TO CHRIST FOR
 HIS BLESSING. FROM AN EARLY GREEK MANUSCRIPT.](tn/01300.jpg)  
-Click to enlarge](img/01300.jpg)  
+Click to enlarge](img/01300.jpg.md)  
 THE EMPEROR CONSTANTINE PRESENTING THE LABORS OF THE COUNCIL OF NICE TO
 CHRIST FOR HIS BLESSING. FROM AN EARLY GREEK MANUSCRIPT.  
 </span>
@@ -109,6 +109,6 @@ New York, January 1, 1926.
 
 ------------------------------------------------------------------------
 
-[Next: The Gospel of the Birth of Mary](lbob05)
+[Next: The Gospel of the Birth of Mary](lbob05.md)
 
 </div>

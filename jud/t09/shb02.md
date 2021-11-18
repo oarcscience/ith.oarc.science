@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shb01)  [Next](shb03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shb01)  [Next](shb03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -253,7 +253,7 @@ toucheth an unclean thing becomes defiled). Said R. Papa to him:
 According to this theory, how can we find a case in which he was unaware
 before? And he answered: It may be found with him who was captured by
 heathens while he was still an infant, and was brought up by them. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 "*Originally cognisant*." The rabbis taught: Whence do we know that the
 verse speaks of the defilement of the temple and its holy offerings?
@@ -272,7 +272,7 @@ to which the liability of a sin-offering attaches, when done
 unintentionally. However, such is the case with a special offering; but
 let him bring a rich and poor offering which is to be brought for
 utterance or witness oath? It reads \[Lev. v. 3\]: *Boh*, literally *in
-it* <span id="fr_1"></span>[1](#fn_1) to exclude all other things. But
+it* <span id="fr_1"></span>[1](#fn_1.md) to exclude all other things. But
 perhaps it means to exclude the sanctuary to which a rich or poor
 offering does not suffice, and only a special is needed? Said Rabha: I
 apply to Rabbi the saying, "He draws water from very deep wells," as we
@@ -403,7 +403,7 @@ it may be said that as the latter atones only for bodily defilement, so
 also the he-goat in question does. And lest one say that as the golden
 plate of the high-priest atones only for such things which come on the
 altar, so also should the he-goat in question; it reads here, "the
-iniquity of the congregation," <span id="fr_2"></span>[1](#fn_2) but not
+iniquity of the congregation," <span id="fr_2"></span>[1](#fn_2.md) but not
 of the things of the altar.
 
 "*R. Meier says: All goat-sacrifices are equivalent*," etc. Said R. Hama
@@ -422,7 +422,7 @@ said elsewhere: The month of Thamuz in the year when the temple was
 destroyed, was a full month of thirty days, as it reads \[Lament. i.
 15\]: "He hath called an assembly (*moëd*)," which *moëd* means
 literally festival (and the thirtieth day of the month is
-new-moon). <span id="fr_3"></span>[2](#fn_3)
+new-moon). <span id="fr_3"></span>[2](#fn_3.md)
 
 R. Johanan said: R. Mair admits that the interior he-goat does not atone
 for what all other he-goats do, nor do the latter atone for what it
@@ -542,7 +542,7 @@ intentional act, whence it might atone also for non-repenters, therefore
 it reads \[Lev. xxiii. 27\]: "But . . . it," which excludes
 non-repenters. Now, this Boraitha is found in Siphrah, and according to
 tradition all the anonymous Boraithas of Siphrah are in accordance with
-R. Jehudah. <span id="fr_4"></span>[1](#fn_4)
+R. Jehudah. <span id="fr_4"></span>[1](#fn_4.md)
 
 "*No difference between an Israelite*," etc. Does not the Mishna
 contradict itself by saying here there is no difference, etc., and
@@ -597,23 +597,23 @@ the wicked and not that the wicked atone for another wicked.
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:1](shb02.htm#fr_0) The text repeats here what
+<span id="fn_0"></span>[8:1](shb02.htm#fr_0.md) The text repeats here what
 is already translated in tract Sabbath about carrying on Sabbath which
 is two divided into four, and also about leprosy, therefore we omit it.
 
-<span id="fn_1"></span>[9:1](shb02.htm#fr_1) [Leeser's](errata.htm#41)
+<span id="fn_1"></span>[9:1](shb02.htm#fr_1) [Leeser's](errata.htm#41.md)
 translation does not correspond.
 
-<span id="fn_2"></span>[12:1](shb02.htm#fr_2) The text discusses again,
+<span id="fn_2"></span>[12:1](shb02.htm#fr_2.md) The text discusses again,
 why should not the golden plate atone also for that which the he-goat
 does, and *vice versa*? and as it is almost the same which was said
 above, we omit it.
 
-<span id="fn_3"></span>[12:2](shb02.htm#fr_3) See Taanith, p. 86.
+<span id="fn_3"></span>[12:2](shb02.htm#fr_3.md) See Taanith, p. 86.
 
-<span id="fn_4"></span>[15:1](shb02.htm#fr_4) There is a contradiction
+<span id="fn_4"></span>[15:1](shb02.htm#fr_4.md) There is a contradiction
 in the Boraithas of Siphrah, which will be treated of in Tract Krithoth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](shb03)
+[Next: Chapter II](shb03.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](kymf10)  [Next](kymf12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](kymf10)  [Next](kymf12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0787309923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ body was now closed and had started to fill in.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eleven. Rheumatic Fever Nerves](kymf12)
+[Next: Chapter Eleven. Rheumatic Fever Nerves](kymf12.md)

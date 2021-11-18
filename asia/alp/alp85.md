@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp84) 
-[Next](alp86) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp84.md) 
+[Next](alp86.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ give very succinct accounts of the Persian and Mongol invasions, and
 throw fresh light on the state of the East during the Middle Ages. As
 these works lie outside our present subject, we cannot here even name
 their authors. Those who wish to investigate them are referred to what
-we have written elsewhere. <span id="fr_37"></span>[1](#fn_37)
+we have written elsewhere. <span id="fr_37"></span>[1](#fn_37.md)
 
 What is most remarkable is that, at the very beginning of the
 intellectual movement, when the alphabet had just been formed, the
@@ -143,17 +143,17 @@ secular affairs. Thus the Christian National Church has been one of the
 chief factors of the unity and the national consciousness which exists
 among Armenians even up to the present day, and this is the reason why
 the battle of Vardan is regarded as a national triumph and is still
-annually commemorated. <span id="fr_38"></span>[1](alp86.htm#fn_38)
+annually commemorated. <span id="fr_38"></span>[1](alp86.htm#fn_38.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_37"></span>[154:1](alp85.htm#fr_37) See *Travel and
+<span id="fn_37"></span>[154:1](alp85.htm#fr_37.md) See *Travel and
 Politics in Armenia*, by Noel Buxton, MP., and Rev. Harold Buxton; with
 Introduction by Viscount Bryce and a Contribution on Armenian History
 and Culture by Aram Raffi. Smith, Elder & Co. 1914.
 
 ------------------------------------------------------------------------
 
-[Next: Middle Ages](alp86)
+[Next: Middle Ages](alp86.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh03)  [Next](seh05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh03)  [Next](seh05.md) 
 
 ------------------------------------------------------------------------
 
@@ -297,4 +297,4 @@ the people of India for so long a time.
 
 ------------------------------------------------------------------------
 
-[Next: Books by Sister Nivedita](seh05)
+[Next: Books by Sister Nivedita](seh05.md)

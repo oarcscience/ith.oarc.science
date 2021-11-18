@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu05)  [Next](kmu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu05)  [Next](kmu07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -144,7 +144,7 @@ the actual condition of the tissues being simply the resultant of these
 two coexistent or concurrent activities.
 
 "In the mind or experience also this polarisation or polarity is patent
-to reflection. In my own writings <span id="fr_0"></span>[\*](#fn_0) I
+to reflection. In my own writings <span id="fr_0"></span>[\*](#fn_0.md) I
 have constantly urged:
 
 <span id="page_26">p. 26</span>
@@ -199,7 +199,7 @@ dark, is the static background of pure Chit, white and inert
 (Shavarupa), because pure Chit is in itself Svaprakasha (self manifest)
 and Nishkriya (actionless). At the same time, apart from and beyond
 Consciousness there can be nothing—no power or
-[Shakti](errata.htm#4)—hence the Divine Mother stands on the bosom of
+[Shakti](errata.htm#4.md)—hence the Divine Mother stands on the bosom of
 the Divine Father. The Mother Herself is all activity and Gunamayi (in
 Her aspect as Prakriti composed of the Gunas). Her nakedness means that,
 though She encompasses all, there is nothing to encompass Herself; her
@@ -217,7 +217,7 @@ well as Gunamaya (whose substance is Gunas); Nirguna (attributeless) as
 well as Saguna (with attribute), as said in a well-known passage of the
 Chandi.
 
-"Your suggestive hint <span id="fr_1"></span>[2](#fn_1) makes the nature
+"Your suggestive hint <span id="fr_1"></span>[2](#fn_1.md) makes the nature
 of the Kundali Shakti rather clear to me. You are quite right, perhaps,
 in saying that the cosmic Shakti is the Samashti (collectivity) in
 relation to which the Kundali in the bodies is only the Vyashti
@@ -236,7 +236,7 @@ the static pole in relation to the rest of the body, which is dynamic;
 <span id="page_30">p. 30</span>
 
 the working the body necessarily presupposes and finds such a static
-support, hence perhaps <span id="fr_2"></span>[3](#fn_2) the name
+support, hence perhaps <span id="fr_2"></span>[3](#fn_2.md) the name
 Muladhara, the fundamental support. In one sense, the static Shakti at
 the Muladhara is necessarily coexistent with the creating and evolving
 Shakti of the body, because the dynamic aspect or pole can never be
@@ -258,8 +258,8 @@ it the Kundali
 <span class="contnote">\[paragraph continues\]</span> Shakti is already
 presented in its two polar aspects: the ovum, which the mother-element
 represents, one pole (possibly the static), and the
-[spermatozoon](errata.htm#5), which is the father-element, represents
-the other (possibly the dynamic). <span id="fr_3"></span>[4](#fn_3) From
+[spermatozoon](errata.htm#5.md), which is the father-element, represents
+the other (possibly the dynamic). <span id="fr_3"></span>[4](#fn_3.md) From
 their fusion proceed those processes which the biologist calls
 differentiation and integration; but in all this process of creation the
 cycle can be fairly easily traced. Shakti flows out of the germinal cell
@@ -270,7 +270,7 @@ this we have the cycle. Seizing upon foreign matter is an outwardly
 directed activity, assimilation is an inwardly directed activity or
 return current; cell division and multiplication is an outwardly
 directed operation, co-ordination is inwardly directed; <span
-id="fr_4"></span>[5](#fn_4) and so on. The force in the germ-cell is
+id="fr_4"></span>[5](#fn_4.md) and so on. The force in the germ-cell is
 overflowing, but also continuously it is flowing back into itself, the
 two operations presupposing and sustaining each other, as in every
 circuit.
@@ -295,7 +295,7 @@ to be reconciled.
 "1. We start with a force in the germ-cell which is statical at first
 (though, like a dicotyledon seed, or even a modern atom, it involves
 within itself both a statical and a dynamical pole; otherwise, from pure
-rest, involving no possibility of motion, no [motion](errata.htm#6)
+rest, involving no possibility of motion, no [motion](errata.htm#6.md)
 could ever arise). Let this be the Kundali coiled.
 
 <span id="page_33">p. 33</span>
@@ -332,7 +332,7 @@ of Shiva at the highest or seventh centre. Thus, while this 'ethereal
 double' or, self-ejection of the coiled power at the Muladhara ascends
 the Sushumna, the coiled power itself does not and need not stir from
 its place. It is like a spark given from an over saturated <span
-id="fr_5"></span>[6](#fn_5) electro-magnetic machine; or, rather, it is
+id="fr_5"></span>[6](#fn_5.md) electro-magnetic machine; or, rather, it is
 like the emanations of radium which do not sensibly detract from the
 energy contained in it. This last, perhaps, is the closest physical
 parallel of the case that we are trying to understand. As a well-known
@@ -460,12 +460,12 @@ relation to a particular form of existence has now wholly given way,
 according to our hypothesis. But Mahakundali remains; hence individual
 Mukti (liberation) need not mean dissolution of Samsara (transmigrating
 worlds) itself. Commonly, however, as the Tantra says, 'Pitva pitva
-punah pitva,' etc. <span id="fr_6"></span>[7](#fn_6)
+punah pitva,' etc. <span id="fr_6"></span>[7](#fn_6.md)
 
 "(b) The other explanation is suggested by the law of induction. Take an
 electromagnetic machine: 'if a suitable substance be placed near it,
 will induce in it an equivalent and opposite kind of
-electro-magnetism <span id="fr_7"></span>[8](#fn_7)
+electro-magnetism <span id="fr_7"></span>[8](#fn_7.md)
 
 <span id="page_41">p. 41</span>
 
@@ -477,7 +477,7 @@ equivalent and opposite in kind to the inducing energy. Thus a positive
 charge will induce an equivalent negative charge in a neighbouring
 object. Now, shall we suppose that the Muladhara, when it becomes
 over-saturated, induces in the neighbouring centre (say, Svadhishthana)
-a dynamic (not static) equivalent? <span id="fr_8"></span>[9](#fn_8) Is
+a dynamic (not static) equivalent? <span id="fr_8"></span>[9](#fn_8.md) Is
 this what the rise of the Serpent Power really means? The explanation, I
 am tempted to think, is not perhaps altogether fantastic."
 
@@ -485,34 +485,34 @@ am tempted to think, is not perhaps altogether fantastic."
 
 ### Footnotes
 
-<span id="fn_0"></span>[25:\*](kmu06.htm#fr_0) "Approaches to Truth",
+<span id="fn_0"></span>[25:\*](kmu06.htm#fr_0.md) "Approaches to Truth",
 "The Patent Wonder", valuable presentments in modern terms of the
 ancient Vedantic teaching.
 
-<span id="fn_1"></span>[29:2](kmu06.htm#fr_1) That Kundalini in the
+<span id="fn_1"></span>[29:2](kmu06.htm#fr_1.md) That Kundalini in the
 static Shakti.
 
-<span id="fn_2"></span>[30:3](kmu06.htm#fr_2) Certainly.
+<span id="fn_2"></span>[30:3](kmu06.htm#fr_2.md) Certainly.
 
-<span id="fn_3"></span>[31:4](kmu06.htm#fr_3) The process of
+<span id="fn_3"></span>[31:4](kmu06.htm#fr_3.md) The process of
 fertilisation is dealt with in the Matrikabheda Tantra.
 
-<span id="fn_4"></span>[31:5](kmu06.htm#fr_4) This outflow and inflow is
+<span id="fn_4"></span>[31:5](kmu06.htm#fr_4.md) This outflow and inflow is
 a common Tantrik notion.
 
-<span id="fn_5"></span>[34:6](kmu06.htm#fr_5). Overcharged.
+<span id="fn_5"></span>[34:6](kmu06.htm#fr_5.md). Overcharged.
 
-<span id="fn_6"></span>[40:7](kmu06.htm#fr_6) "Having drunk, having
+<span id="fn_6"></span>[40:7](kmu06.htm#fr_6.md) "Having drunk, having
 drunk, having again drunk", a passage in the Kularnava Tantra signifying
 not actual drinking (as some suppose), but repeated raising of
 Kundalini.
 
-<span id="fn_7"></span>[40:8](kmu06.htm#fr_7) We may say "Take a magnet"
+<span id="fn_7"></span>[40:8](kmu06.htm#fr_7.md) We may say "Take a magnet"
 and "magnetism".
 
-<span id="fn_8"></span>[41:9](kmu06.htm#fr_8) Here is the seat of the
+<span id="fn_8"></span>[41:9](kmu06.htm#fr_8.md) Here is the seat of the
 first moving, or Pashyanti Shabda.
 
 ------------------------------------------------------------------------
 
-[Next: Asanas and Mudras](kmu07)
+[Next: Asanas and Mudras](kmu07.md)

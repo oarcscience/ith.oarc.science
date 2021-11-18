@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift22) 
-[Next](ift24) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift22.md) 
+[Next](ift24.md) 
 
 ------------------------------------------------------------------------
 
 # The Boy who had a Moon on his Forehead and a Star on his Chin
 
 <span id="img_64"></span> [![](tn/64.jpg)  
-Click to enlarge](img/64.jpg)
+Click to enlarge](img/64.jpg.md)
 
 <span id="img_62"></span> ![](img/62.jpg)a country were seven daughters
 of poor parents, who used to come daily to play under the shady trees in
@@ -230,7 +230,7 @@ took up his stand with them; and he said he would himself shoot any one
 who let his horse escape.
 
 <span id="img_63"></span> [![](tn/63.jpg)  
-Click to enlarge](img/63.jpg)
+Click to enlarge](img/63.jpg.md)
 
 Meanwhile the horse had overheard all these orders. So he brought up the
 child and said to him, "Go into that little room that leads out of the
@@ -660,4 +660,4 @@ young prince, and never left him.
 
 ------------------------------------------------------------------------
 
-[Next: The Prince and the Fakir](ift24)
+[Next: The Prince and the Fakir](ift24.md)

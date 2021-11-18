@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp27)  [Next](dtp29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp27)  [Next](dtp29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -152,7 +152,7 @@ An attendant, hearing this exclamation, but seeing only the sovereign,
 hastily went to him enquiring his pleasure. As he approached he passed
 directly through the form which Gwauxln had addressed by my name!
 Neither the human shape nor the attendant seemed aware of the remarkable
-[occurrence](errata.htm#13), but the Form, smiling, in reply said:
+[occurrence](errata.htm#13.md), but the Form, smiling, in reply said:
 
 "Aye, Zo Rai; I am Zailm, but not dead, except in that I am free of
 earthly restraint."
@@ -179,7 +179,7 @@ dissolved,
 <span id="page_225">p. 225</span>
 
 is "dust to dust." The exalted or egoic state is one of isolation. As
-spoken in Biblical records, <span id="fr_16"></span>[1](#fn_16) a medium
+spoken in Biblical records, <span id="fr_16"></span>[1](#fn_16.md) a medium
 can go to it, but the ego, after a little while, cannot return to earth,
 nor know anything earthly save those extremely tense mental-spiritual
 states of one or many individuals who reach out for the things of God.
@@ -231,7 +231,7 @@ assimilates the fruits of active earth-life. Right here is the
 explanation of the written Word of God: "Whatsoever thy hand findeth to
 do, do it with thy might; for there is no work, no device, nor
 knowledge, nor wisdom, in the grave, whither thou goest." <span
-id="fr_17"></span>[1](#fn_17) True it is that in the grave is nothing
+id="fr_17"></span>[1](#fn_17.md) True it is that in the grave is nothing
 done. In the following pages much will seem to indicate my "doings"
 between the grave and the cradle. But observe that the whole of earth
 was become a perfect blank to me. The soul can not return save it
@@ -614,7 +614,7 @@ devachan, the seed, like tares with the wheat, is ready to grow a
 harvest of sorrow along with the growing life of the new incarnated one;
 and until some good action shall atone for evil done, this evil will
 continue to grow. Fortunately, man hath an eternity in which to make
-repayment, <span id="fr_18"></span>[1](#fn_18) and though following
+repayment, <span id="fr_18"></span>[1](#fn_18.md) and though following
 God's laws and being true to right, whatever its source, the tares are
 little by little uprooted. A good act is the erasure of a bad, and once
 performed
@@ -801,11 +801,11 @@ End of Book First
 
 ### Footnotes
 
-<span id="fn_16"></span>[225:1](dtp28.htm#fr_16) II Samuel, xii, 28.
+<span id="fn_16"></span>[225:1](dtp28.htm#fr_16.md) II Samuel, xii, 28.
 
-<span id="fn_17"></span>[226:1](dtp28.htm#fr_17) Eccl. ix, 10.
+<span id="fn_17"></span>[226:1](dtp28.htm#fr_17.md) Eccl. ix, 10.
 
-<span id="fn_18"></span>[236:1](dtp28.htm#fr_18) Do not confuse
+<span id="fn_18"></span>[236:1](dtp28.htm#fr_18.md) Do not confuse
 "repayment" with "atonement." Jesus makes atonement for us with God. We
 can only begin to repay, when, having obtained forgiveness through
 Jesus, we try to Live Him. Until we consecrate ourselves to Christ, we
@@ -825,4 +825,4 @@ which in within.
 
 ------------------------------------------------------------------------
 
-[Next: I](dtp29)
+[Next: I](dtp29.md)

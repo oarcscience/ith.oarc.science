@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](trs04)  [Next](trs06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](trs04)  [Next](trs06.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ which Champollion recovered the greater part of the Egyptian alphabet is
 as follows. It will be remembered that, on account of breakages, the
 only name found on the Rosetta Stone is that of Ptolemy. Shortly before
 Champollion published his letter to M. Dacier, he had published an
-account of an obelisk, <span id="fr_68"></span>[2](#fn_68) recently
+account of an obelisk, <span id="fr_68"></span>[2](#fn_68.md) recently
 brought to London, which was inscribed with the name of a Ptolemy,
 written with the same characters as that on the Rosetta Stone, and also
 contained within a cartouche. It was followed by a second cartouche,
@@ -45,11 +45,11 @@ hieroglyphics are as follows:—
 
 No. 1, PTOLEMY.
 
-<span id="img_14500"></span> ![Cartouche of Ptolemy](img/14500.jpg)
+<span id="img_14500"></span> ![Cartouche of Ptolemy](img/14500.jpg.md)
 
 No. 2, CLEOPATRA.
 
-<span id="img_14501"></span> ![Cartouche of Cleopatra](img/14501.jpg)
+<span id="img_14501"></span> ![Cartouche of Cleopatra](img/14501.jpg.md)
 
 <span class="margnote">Recovery of the Egyptian alphabet.</span>Now in
 No. 2 cartouche, sign No. 1, which must represent K, is not found in
@@ -86,7 +86,7 @@ Alexander.</span>reads:—
 
 No. 3.
 
-<span id="img_14600"></span> ![Cartouche of Alexander](img/14600.jpg)
+<span id="img_14600"></span> ![Cartouche of Alexander](img/14600.jpg.md)
 
 Now signs Nos. 1, 2, 4, 5, 7, and 8, we know from cartouches Nos. 1 and
 2, and we may write down their values thus:
@@ -105,7 +105,7 @@ S, and have determined the value of fifteen in all.
 
 Again, let us take the cartouche of another lady:—
 
-<span id="img_14604"></span> ![Cartouche of Berenice](img/14604.jpg)
+<span id="img_14604"></span> ![Cartouche of Berenice](img/14604.jpg.md)
 
 Now signs Nos. 2, 3, 4, 6, and 7 we know, and we may write them down
 thus:—
@@ -121,8 +121,8 @@ the values B and K respectively. Thus we have gained two more signs.
 
 If we take two other cartouches, viz.:—
 
-<span id="img_14700"></span> ![Cartouche of Caesar](img/14700.jpg) and
-<span id="img_14701"></span> ![Cartouche of Autokrator](img/14701.jpg)
+<span id="img_14700"></span> ![Cartouche of Caesar](img/14700.jpg.md) and
+<span id="img_14701"></span> ![Cartouche of Autokrator](img/14701.jpg.md)
 
 we find that we are able to read the first at once KAISRS, which is
 clearly Καισαρος or Caesar; in the second the only sign we do not know
@@ -134,21 +134,21 @@ and eventually succeeded in making out the value of one hundred and
 eleven signs. At the foot of Plate I., in his *Lettre à Monsieur
 Dacier*, he writes his own name in hieroglyphics thus:—
 
-<span id="img_14703"></span> ![Cartouche of Champollion](img/14703.jpg)
+<span id="img_14703"></span> ![Cartouche of Champollion](img/14703.jpg.md)
 
 The following are the letters of the Egyptian alphabet with their values
 as now accepted by Egyptologists:—
 
-<span id="img_14704"></span> ![Egyptian Alphabet](img/14704.jpg)
+<span id="img_14704"></span> ![Egyptian Alphabet](img/14704.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_68"></span>[144:2](trs05.htm#fr_68) *Observations sur
+<span id="fn_68"></span>[144:2](trs05.htm#fr_68.md) *Observations sur
 l’Obélisque Egyptien de l’île de Philæ*, in *Revue encyclopédique*,
 Mars, 1822.
 
 ------------------------------------------------------------------------
 
-[Next: Opinions of Egyptologists on Young and Champollion](trs06)
+[Next: Opinions of Egyptologists on Young and Champollion](trs06.md)

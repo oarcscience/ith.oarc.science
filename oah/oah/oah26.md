@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah25)  [Next](oah27) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah25)  [Next](oah27.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ Jehovih!
 10\. Thus they conversed and journeyed forth till they reached the
 throne and place of the Lord. And here they made fast their ships, and
 they descended down to the city of Ong'oo, in upper middle of the
-continent of Vohu. <span id="fr_5"></span>[\*](#fn_5)
+continent of Vohu. <span id="fr_5"></span>[\*](#fn_5.md)
 
 11\. And the Lord now sent messengers to all the ashars in his
 dominions, appointing ten days of rest, and time for feasting and music,
@@ -85,8 +85,8 @@ Jehovih.
 
 ### Footnotes
 
-<span id="fn_5"></span>[29:\*](oah26.htm#fr_5) Africa
+<span id="fn_5"></span>[29:\*](oah26.htm#fr_5.md) Africa
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](oah27)
+[Next: Chapter XI](oah27.md)

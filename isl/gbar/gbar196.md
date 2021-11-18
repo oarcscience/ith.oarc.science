@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar195) [Next](gbar197)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar195) [Next](gbar197.md)
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ might learn to know themselves and their creator?'
 
 ------------------------------------------------------------------------
 
-[Next](gbar197)
+[Next](gbar197.md)

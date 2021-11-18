@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal036)  [Next](njal038) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal036)  [Next](njal038.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ that, and so they sat for that year, and nothing noteworthy happened.
 
 ------------------------------------------------------------------------
 
-[Next: 38. The Killing Of Atli The Thrall](njal038)
+[Next: 38. The Killing Of Atli The Thrall](njal038.md)

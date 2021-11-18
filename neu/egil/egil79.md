@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil78)  [Next](egil80) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil78)  [Next](egil80.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ terms.'
 ------------------------------------------------------------------------
 
 [Next: CHAPTER LXXIX. Egil comes to Thorfinn's. The harrying of king
-Hacon.](egil80)
+Hacon.](egil80.md)

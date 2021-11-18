@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd13)  [Next](htd15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd13)  [Next](htd15.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ that were tipped with the colour of the dawn: till he saw the *chétí*
 coming towards him with twinkling feet, holding an *ashóka* flower in
 her hand. And she seemed in his eyes *like a draught of the nectar of
 love longing incarnate in a feminine form* <span
-id="fr_34"></span>[x](#fn_34). And she came up to the King and said: My
+id="fr_34"></span>[x](#fn_34.md). And she came up to the King and said: My
 mistress sends her lord, by these unworthy hands, a flower, and if his
 slumbers have been sweet, it is well with her.
 
@@ -83,7 +83,7 @@ the *ashóka* in his hand, and the image of Madhupamanjarí in his heart.
 
 ### Footnotes
 
-<span id="fn_34"></span>[53:x](htd14.htm#fr_34) These are the
+<span id="fn_34"></span>[53:x](htd14.htm#fr_34.md) These are the
 expressions that are the despair of the translator. So simple, so
 beautiful, so pithy in the original: so roundabout and clumsy in a
 language whose genius is altogether different
@@ -91,4 +91,4 @@ language whose genius is altogether different
 
 ------------------------------------------------------------------------
 
-[Next: Palásha](htd15)
+[Next: Palásha](htd15.md)

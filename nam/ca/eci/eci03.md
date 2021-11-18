@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](eci02)  [Next](eci04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](eci02)  [Next](eci04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -86,16 +86,16 @@ some respects by contact with the Yuman tribes of the Colorado.
 
 ### Footnotes
 
-<span id="fn_8"></span>[39:8](eci02.htm#fr_8) Present series, II, 143.
+<span id="fn_8"></span>[39:8](eci02.htm#fr_8.md) Present series, II, 143.
 Salt is añor in Gabrielino, eñla in Luiseño. The locative ending -bit or
 -pit is Serrano.
 
-<span id="fn_9"></span>[39:9](eci02.htm#fr_9) "Because of a large river
+<span id="fn_9"></span>[39:9](eci02.htm#fr_9.md) "Because of a large river
 there." Cahuilla wanic, Serrano wanut∙, stream.
 
-<span id="fn_10"></span>[39:10](eci02.htm#fr_11) As cited, transcribed,
+<span id="fn_10"></span>[39:10](eci02.htm#fr_11.md) As cited, transcribed,
 in the present series, II, 142.
 
 ------------------------------------------------------------------------
 
-[Next: Basketry](eci04)
+[Next: Basketry](eci04.md)

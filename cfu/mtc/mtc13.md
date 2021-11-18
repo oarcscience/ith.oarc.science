@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc12)  [Next](mtc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc12)  [Next](mtc14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -42,6 +42,6 @@ Day by day my thoughts go back to the hills.
 
 ------------------------------------------------------------------------
 
-[Next: In Early Summer Lodging in a Temple to Enjoy the Midnight](mtc14)
+[Next: In Early Summer Lodging in a Temple to Enjoy the Midnight](mtc14.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm27)  [Next](bcm29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm27)  [Next](bcm29.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ ITAR, for earthquakes; (5) HISPEN, TROMADOR, for hurricanes and storms;
 
 ------------------------------------------------------------------------
 
-[Next: Talismans of the Sage of the Pyramids: VIII](bcm29)
+[Next: Talismans of the Sage of the Pyramids: VIII](bcm29.md)

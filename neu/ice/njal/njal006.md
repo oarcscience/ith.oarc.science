@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal005)  [Next](njal007) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal005)  [Next](njal007.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ about it. So Hrut went away west to the Firths.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Unna Separates From Hrut](njal007)
+[Next: 7. Unna Separates From Hrut](njal007.md)

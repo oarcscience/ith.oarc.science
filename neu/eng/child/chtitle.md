@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Next](chpref) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Next](chpref.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ Sagas](../../index)  [England](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Preface](chpref)
+[Next: Preface](chpref.md)

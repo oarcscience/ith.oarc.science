@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl151)  [Next](cohl153) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl151)  [Next](cohl153.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ You have promised to hear us whenever the drum sounds, Even as far away
 as a seven days' journey.  
 Now all of you receive tobacco. \[Throws tobacco.\] You well know the
 members of this society,  
-So let this <span id="fr_110"></span>[1](#fn_110) cease. You are the
+So let this <span id="fr_110"></span>[1](#fn_110.md) cease. You are the
 cause of a person, a member, becoming ill.  
 Henceforth give good fortune for she (or he) has fulfilled her duty and
 given you tobacco.  
@@ -115,9 +115,9 @@ So now it is done.
 
 ### Footnotes
 
-<span id="fn_110"></span>[121:1](cohl152.htm#fr_110) The malific
+<span id="fn_110"></span>[121:1](cohl152.htm#fr_110.md) The malific
 influence causing sickness.
 
 ------------------------------------------------------------------------
 
-[Next: The Society of Otters](cohl153)
+[Next: The Society of Otters](cohl153.md)

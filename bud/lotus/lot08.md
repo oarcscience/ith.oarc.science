@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot07)  [Next](lot09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot07)  [Next](lot09.md) 
 
 ------------------------------------------------------------------------
 
@@ -359,4 +359,4 @@ prediction (we shall have to make to each other) in regular succession.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](lot09)
+[Next: Chapter 9](lot09.md)

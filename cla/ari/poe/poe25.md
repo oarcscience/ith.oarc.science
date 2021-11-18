@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe24)  [Next](poe26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe24)  [Next](poe26.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ brilliant.
 ------------------------------------------------------------------------
 
 [Next: XXV. Critical Objections brought against Poetry, and the
-principles on which they are to be answered](poe26)
+principles on which they are to be answered](poe26.md)

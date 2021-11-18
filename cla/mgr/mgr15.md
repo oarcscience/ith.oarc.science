@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mgr14)  [Next](mgr16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mgr14)  [Next](mgr16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ burning flame. The beauty and the thrill of it!
 
 ------------------------------------------------------------------------
 
-[Next: Eros](mgr16)
+[Next: Eros](mgr16.md)

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft36)  [Next](meft38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft36)  [Next](meft38.md) 
 
 ------------------------------------------------------------------------
 
 # The Little Bull-Calf
 
 <span id="img_052"></span> [![](tn/052.jpg)  
-Click to enlarge](img/052.jpg)
+Click to enlarge](img/052.jpg.md)
 
 CENTURIES of years ago, when almost all this part of the country was
 wilderness, there was a little boy, who lived in a poor bit of property
@@ -128,4 +128,4 @@ know such a man.
 
 ------------------------------------------------------------------------
 
-[Next: The Wee, Wee Mannie](meft38)
+[Next: The Wee, Wee Mannie](meft38.md)

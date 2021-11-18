@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj52) 
-[Next](npj54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj52.md) 
+[Next](npj54.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_250">p. 250</span>
 
-### MAI-GURUMA <span id="fr_214"></span>[1](#fn_212)
+### MAI-GURUMA <span id="fr_214"></span>[1](#fn_212.md)
 
 ### (THE DANCE WAGGONS)
 
@@ -41,7 +41,7 @@ month.
 
 "When I lived in the world foul tongues slandered me. I am come to
 destroy my enemies with thunder. Only the Home of Meditation <span
-id="fr_215"></span>[2](#fn_213) shall be spared. But if you will make me
+id="fr_215"></span>[2](#fn_213.md) shall be spared. But if you will make me
 one promise, I will not harm you. Swear that you will go no more to
 Court!'
 
@@ -93,7 +93,7 @@ reference: those in which a mother seeks for her lost child. Mrs. Stopes
 has translated *Sumidagawa*, and Mr Sansom, *Sakuragawa*. Another
 well-known play of this kind is Miidera, a description of which will be
 found in an appendix at the end of this book ([p.
-265](npj56.htm#page_265)).
+265](npj56.htm#page_265).md).
 
 A few other plays, such as *Nishikigi*, *Motomezuka* and *Kinuta*, I
 have omitted for lack of space and because it did not seem to me that I
@@ -103,12 +103,12 @@ could in any important way improve on existing versions of them.
 
 ### Footnotes
 
-<span id="fn_212"></span>[250:1](npj53.htm#fr_214) Sometimes called
+<span id="fn_212"></span>[250:1](npj53.htm#fr_214.md) Sometimes called
 *Bijin-zoroye* or *Bijin-zoroi*.
 
-<span id="fn_213"></span>[250:2](npj53.htm#fr_215) The cell of the Zen
+<span id="fn_213"></span>[250:2](npj53.htm#fr_215.md) The cell of the Zen
 priest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Kyōgen (Farcical Interlude)](npj54)
+[Next: Chapter VIII: Kyōgen (Farcical Interlude)](npj54.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](log03)  [Next](log05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](log03)  [Next](log05.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ story-tellers. These popular story-tellers, familiar with old songs and
 legends, wandered about the country, and were probably to be found
 regularly at the popular festivals.
 
-We have already seen (page [38](#page_38)) that the transmitted prose
+We have already seen (page [38](#page_38).md) that the transmitted prose
 narrative was perhaps preceded by a narrative in regular rhythmical form
 and intended for singing. In the case of these songs the circumstances
 of their presentation may have been different. From the precedent of the
@@ -149,7 +149,7 @@ Babylonian poem of the creation, which in its form is an Easter hymn in
 praise of Marduk, we may infer that the legends regarding forms of
 worship go back to hymns for the sanctuary which were perhaps sung by
 the priest at the sacred festivals and on the sacred ground ([p.
-33](log03.htm#page_33)). But however this may be, the legends regarding
+33](log03.htm#page_33).md). But however this may be, the legends regarding
 
 <span id="page_42">p. 42</span>
 
@@ -188,7 +188,7 @@ of critical importance that this question be clearly met and correctly
 answered. Hitherto investigators have seemed to regard it as a matter of
 course that the original sources were the constituent units, though the
 true view has not been without witnesses. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 Popular legends in their very nature exist in the form of individual
 legends; not until later do compilers put several such legends together,
@@ -233,7 +233,7 @@ struck are permitted to die away. Any one, for instance, who has
 followed the story of Isaac sympathetically, feels at the close the need
 of repose in which to recover from the emotion aroused. Those stories
 especially which aim to give a reason for some present condition (Cp.
-pp. [17](log03.htm#page_17), and [25](log03.htm#page_25)-36) require a
+pp. [17](log03.htm#page_17), and [25](log03.htm#page_25)-36.md) require a
 pause at the close so that the hearer may compare the prophecy and its
 present fulfilment; as evidence of this consider the close of the story
 of Eden, of the Flood, or of the drunkenness of Noah.
@@ -563,7 +563,7 @@ migration and in chap. xxii. is the type of the pious and obedient man.
 A number of figures are the types of the races which are said to be
 descended from them: the shameless Canaan, the generous but stupid Esau,
 the crafty Laban, the still more crafty Jacob (cp. [p.
-23](log03.htm#page_23)).
+23](log03.htm#page_23).md).
 
 Doubtless it is another sign of the lack of creative grasp when the
 legends thus present to our eyes species instead of individuals; but the
@@ -1123,7 +1123,7 @@ And where this intense interest is wholly lacking, where there is no
 complication of interests, there we have no real legend. Thus the
 account of creation in Genesis i. is scarcely to be called a story; and
 yet, from v. 2 and 26, as well as from the poetic versions referred to
-on pp. [10](log02.htm#page_10)-12 and [25](log03.htm#page_25)-26, we can
+on pp. [10](log02.htm#page_10)-12 and [25](log03.htm#page_25.md)-26, we can
 conjecture a form of the account in which more personages appear and in
 which the world is created after a conflict of God with Chaos. In like
 manner, the accounts of Abraham's migration and of his league with
@@ -1279,7 +1279,7 @@ the story of the migration of Abraham, a thought of the value of faith,
 and in the story of Hebron, the thought of the reward of hospitality.
 But we must not imagine that these narratives aimed primarily at these
 truths; they do not aim to teach moral truths. With myths, as has been
-shown on pages [15](log03.htm#page_15)-17, this is different, for they
+shown on pages [15](log03.htm#page_15.md)-17, this is different, for they
 aim to answer questions of a general nature.
 
 ### AN EARLY ISRAELITISH ROMANCE
@@ -1516,7 +1516,7 @@ narratives preserved to us in these styles.
 
 ### Footnotes
 
-<span id="fn_3"></span>[43:1](log04.htm#fr_3) Reuss, AT III., p. 73:
+<span id="fn_3"></span>[43:1](log04.htm#fr_3.md) Reuss, AT III., p. 73:
 "Originally the legends of the patriarchs arose individually without
 connexion and independently of one another."--Wellhausen, Composition 2,
 p. 9: "Tradition in the popular mouth knows only individual legends."
@@ -1524,4 +1524,4 @@ p. 9: "Tradition in the popular mouth knows only individual legends."
 ------------------------------------------------------------------------
 
 [Next: IV. History of the Development of the Legends of Genesis in Oral
-Tradition](log05)
+Tradition](log05.md)

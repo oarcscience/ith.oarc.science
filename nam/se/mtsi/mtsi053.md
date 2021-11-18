@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi052)  [Next](mtsi054) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi052)  [Next](mtsi054.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ So the Rabbit went to the pool and drank his fill.
 ------------------------------------------------------------------------
 
 [Next: 52. Rabbit Engineers a Tug of War Between Tie-Snake And
-Man-eater](mtsi054)
+Man-eater](mtsi054.md)

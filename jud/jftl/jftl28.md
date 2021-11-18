@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl27)  [Next](jftl29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl27)  [Next](jftl29.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_27600"></span> <span align="CENTER"> [![Then the door
 slowly opened and a figure in white stood in the entry. (&lt;i&gt;Page
 286&lt;/i&gt;).](tn/27600.jpg)  
-Click to enlarge](img/27600.jpg)  
+Click to enlarge](img/27600.jpg.md)  
 Then the door slowly opened and a figure in white stood in the entry.
 (*Page 286*).  
 </span>
@@ -170,4 +170,4 @@ forth on his adventures.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Land of Darkness and the Gate of Paradise](jftl29)
+[Next: II. The Land of Darkness and the Gate of Paradise](jftl29.md)

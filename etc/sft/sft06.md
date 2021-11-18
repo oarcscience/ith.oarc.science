@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](sft05)  [Next](sft07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](sft05)  [Next](sft07.md) 
 
 ------------------------------------------------------------------------
 
@@ -1787,4 +1787,4 @@ becomes socially organized for him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The History of Fairy Tales](sft07)
+[Next: Chapter IV. The History of Fairy Tales](sft07.md)

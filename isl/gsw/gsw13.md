@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw12)  [Next](gsw14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw12)  [Next](gsw14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_138">p. 138</span>
 
-<span id="img_13800"></span> ![FROM A CARPET](img/13800.jpg)
+<span id="img_13800"></span> ![FROM A CARPET](img/13800.jpg.md)
 
 ### CHAPTER IX
 
@@ -88,7 +88,7 @@ doubt whatever that the latter is much finer than the former.
 <span id="img_14000"></span> <span align="CENTER"> [![THE DERVISH AT NO
 RUZ&lt;br&gt; &lt;i&gt;Major J. W. Watson,
 phot&lt;/i&gt;.](tn/14000.jpg)  
-Click to enlarge](img/14000.jpg)  
+Click to enlarge](img/14000.jpg.md)  
 THE DERVISH AT NO RUZ  
 *Major J. W. Watson, phot*.  
 </span>
@@ -287,7 +287,7 @@ beautifully:
 
 It is the New Year's Day. O *Saki*, hand the cup round;  
 Do not heed the turn of the wheel and the revolution of the heavens.  
-O Turk, the *sin* <span id="fr_48"></span>[1](#fn_48) of the cup is
+O Turk, the *sin* <span id="fr_48"></span>[1](#fn_48.md) of the cup is
 enough for me on the New Year's day:  
 I do not care for the seven *sin*, as the dregs of wine suffice for
 me.  
@@ -299,7 +299,7 @@ Every one holds silver and grains of wheat in his hands;
 But I prefer the grain of the mole on thy silvery face.  
 Pistachios and almonds are the relish of the festival for others:  
 But, with thy lips and eyes, I do not want pistachios and almonds.  
-Men burn *Ud* <span id="fr_49"></span>[2](#fn_49) on New Year's day, and
+Men burn *Ud* <span id="fr_49"></span>[2](#fn_49.md) on New Year's day, and
 I am lamenting like an *Ud* <span id="page_148">p. 148</span>  
 For one who, with her black mole, will spoil Islam.  
 People kiss each other and I am dying of grief;  
@@ -439,7 +439,7 @@ indeed was the wrestling school, the pillars of which were
 
 <span id="img_15300"></span> <span align="CENTER"> [![THE SHAH'S
 WRESTLER](tn/15300.jpg)  
-Click to enlarge](img/15300.jpg)  
+Click to enlarge](img/15300.jpg.md)  
 THE SHAH'S WRESTLER  
 </span>
 
@@ -487,7 +487,7 @@ Puriavali said that the quarry is in my lasso,
 And that by the help of David my fortune is high.  
 If however thou thirstest for grace, learn humility,  
 Because land which is high can never receive water. <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 <span class="contnote">\[paragraph continues\]</span> Then he broke into
 reciting the "Flower of Wrestling," beginning,
@@ -598,7 +598,7 @@ That the names of Rustam and Sohrab were forgotten.
  
 
 <span id="img_16000"></span> ![DETAIL FROM A KERMAN
-CARPET](img/16000.jpg)
+CARPET](img/16000.jpg.md)
 
  
 
@@ -608,15 +608,15 @@ CARPET](img/16000.jpg)
 
 ### Footnotes
 
-<span id="fn_48"></span>[147:1](gsw13.htm#fr_48) *Sin* is the letter "S"
+<span id="fn_48"></span>[147:1](gsw13.htm#fr_48.md) *Sin* is the letter "S"
 as previously explained.
 
-<span id="fn_49"></span>[147:2](gsw13.htm#fr_49) *Ud* is aloes wood; and
+<span id="fn_49"></span>[147:2](gsw13.htm#fr_49.md) *Ud* is aloes wood; and
 the word also means a musical instrument.
 
-<span id="fn_50"></span>[156:1](gsw13.htm#fr_50) This refers to land
+<span id="fn_50"></span>[156:1](gsw13.htm#fr_50.md) This refers to land
 cultivated by means of irrigation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Pilgrimage Is Vowed](gsw14)
+[Next: Chapter X. The Pilgrimage Is Vowed](gsw14.md)

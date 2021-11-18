@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar42)  [Next](gar44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar42)  [Next](gar44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -382,7 +382,7 @@ acanthus-root, having been left there by her nurse.
 
 As the branches grew up, they encompassed the basket until, arriving at
 the tile, they met with an obstruction, and bent downwards. CALLIMACHUS,
-struck with the object, set [about](errata.htm#4) imitating the figure;
+struck with the object, set [about](errata.htm#4.md) imitating the figure;
 the vase of the capital he made to represent the basket; the abacus, the
 tile; and the volutes, the bending leaves.
 
@@ -419,4 +419,4 @@ ancient, are most esteemed by Masons.
 
 ------------------------------------------------------------------------
 
-[Next: The Five Senses of Human Nature](gar44)
+[Next: The Five Senses of Human Nature](gar44.md)

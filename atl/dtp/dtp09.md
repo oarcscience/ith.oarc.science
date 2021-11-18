@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp08)  [Next](dtp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp08)  [Next](dtp10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ freedom, that I found myself obliged to follow some scheme which would
 afford me needed exercise.
 
 After some thought, together with fortuitous information which I gained,
-I went to the District [Superintendent](errata.htm#4) of the Department
+I went to the District [Superintendent](errata.htm#4.md) of the Department
 of Soils and Tillage, and requested that official to show me some piece
 of land which I might cultivate, not necessarily for profit, but for
 exercise, telling him that I was a student.
@@ -666,4 +666,4 @@ ever proven most patent in this world of trials and temptations.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: No Good Thing Can Ever Perish](dtp10)
+[Next: Chapter VI: No Good Thing Can Ever Perish](dtp10.md)

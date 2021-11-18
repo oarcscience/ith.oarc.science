@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl01)  [Next](orl03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl01)  [Next](orl03.md) 
 
 ------------------------------------------------------------------------
 
@@ -874,4 +874,4 @@ As the ensuing canto will display.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 3](orl03)
+[Next: Canto 3](orl03.md)

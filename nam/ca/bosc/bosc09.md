@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc08)  [Next](bosc10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc08)  [Next](bosc10.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ not tell, as they possessed no idea, whatever, of chronology.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. On Their Mode of Life and Occupation](bosc10)
+[Next: Chapter VIII. On Their Mode of Life and Occupation](bosc10.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg10)  [Next](csg12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg10)  [Next](csg12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1293,4 +1293,4 @@ Maréchal de Belle-Isle with regard to the Comte de St. Germain. . . ."
 
 ------------------------------------------------------------------------
 
-[Next: Appendix III. From the Papers of Sieur Bentinck Van Rhoon](csg12)
+[Next: Appendix III. From the Papers of Sieur Bentinck Van Rhoon](csg12.md)

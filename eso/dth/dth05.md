@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth04) 
-[Next](dth06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth04.md) 
+[Next](dth06.md) 
 
 ------------------------------------------------------------------------
 
@@ -191,7 +191,7 @@ that which is in your mind. Your world also is really nothing more than
 a ref action of your own mind and what is in your own mind. It is
 because of this that two people in precisely the same circumstances will
 each find life and the world very different. One will see In life great
-joy and much cause for [thankfulness](errata.htm#12),
+joy and much cause for [thankfulness](errata.htm#12.md),
 
 <span id="page_83">p. 83</span>
 
@@ -570,4 +570,4 @@ solves my every problem."
 
 ------------------------------------------------------------------------
 
-[Next: Part V](dth06)
+[Next: Part V](dth06.md)

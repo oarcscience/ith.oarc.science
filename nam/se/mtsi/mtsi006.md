@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi005)  [Next](mtsi007) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi005)  [Next](mtsi007.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ saw him destroy the entire town. After that they returned home.
 
 ------------------------------------------------------------------------
 
-[Next: 5. The Origin of Corn](mtsi007)
+[Next: 5. The Origin of Corn](mtsi007.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pots18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pots18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -198,7 +198,7 @@ is, I would save you from it. Your
 <span id="img_22600"></span>
 
 [![SU-YE SAI-PI CLUNG TO HIM](tn/22600.jpg)  
-Click to enlarge](img/22600.jpg)  
+Click to enlarge](img/22600.jpg.md)  
 “SU-YE SAI-PI CLUNG TO HIM”  
 
 <span id="page_227">p. 227</span>
@@ -294,7 +294,7 @@ dried meat, not forgetting to give him
 <span id="img_23000"></span>
 
 [![OH, LITTLE WOLF! SHE CRIED](tn/23000.jpg)  
-Click to enlarge](img/23000.jpg)  
+Click to enlarge](img/23000.jpg.md)  
 “‘OH, LITTLE WOLF!’ SHE CRIED”  
 
 <span id="page_231">p. 231</span>

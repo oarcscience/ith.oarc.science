@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](tago18)  [Next](tago20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](tago18)  [Next](tago20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T6JE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T6JE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Time and the Gods*, by Lord Dunsany, \[1905\], at Intangible Textual
 Heritage
 
@@ -198,6 +198,6 @@ Sarnidac.
 
 ------------------------------------------------------------------------
 
-[Next: The Jest of the Gods](tago20)
+[Next: The Jest of the Gods](tago20.md)
 
 </div>

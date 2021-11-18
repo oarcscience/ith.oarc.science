@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm33)  [Next](wsm35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm33)  [Next](wsm35.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [California](../index)  [Index](index) 
 (Elko, Nevada, Shoshoni)
 
 Night Owl (Munibitc) lived with his wife and boy who was 6 or 7 years
-old. His wife, Takadoa, <span id="fr_36"></span>[37](#fn_36) carried the
+old. His wife, Takadoa, <span id="fr_36"></span>[37](#fn_36.md) carried the
 boy around on her back.
 
 Night Owl went hunting for rabbits. While he was stamping his feet in
@@ -74,10 +74,10 @@ Kăngwasi gweak: (Woodrat's tail, pulled off).
 
 ### Footnotes
 
-<span id="fn_36"></span>[296:37](wsm34.htm#fr_36) A black-headed bird
+<span id="fn_36"></span>[296:37](wsm34.htm#fr_36.md) A black-headed bird
 that comes in the spring time.
 
 ------------------------------------------------------------------------
 
 [Next: Coyote Liberates Game Animals; Wolf is Killed and Restored
-(Winnemucca, Nevada. Northern Paiute)](wsm35)
+(Winnemucca, Nevada. Northern Paiute)](wsm35.md)

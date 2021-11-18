@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](wosf15)  [Next](wosf17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](wosf15)  [Next](wosf17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ was drawn.
 
 The letter was first published in its present form by M. Sabatier in
 1900 from a fourteenth century MS. in the Guarnacci library at
-Volterra. <span id="fr_512"></span>[1](#fn_512) The Quaracchi text is
+Volterra. <span id="fr_512"></span>[1](#fn_512.md) The Quaracchi text is
 also based on this codex, than which no other version of the letter is
 known to exist. Internal arguments might, however, be adduced to
 establish the authenticity of the letter, which is as follows:—
@@ -41,7 +41,7 @@ establish the authenticity of the letter, which is as follows:—
 To all the custodes of the Brothers Minor to whom this letter shall
 come, Brother Francis, your servant and little one in the Lord God,
 sends greeting with new signs of heaven and earth <span
-id="fr_513"></span>[2](#fn_513) which on the part of the Lord are great
+id="fr_513"></span>[2](#fn_513.md) which on the part of the Lord are great
 and most excellent and which are accounted least of all by many
 religious and by other men.
 
@@ -52,7 +52,7 @@ I entreat you more than if it were a question
 of myself that, when it is becoming and it may seem to be expedient, you
 humbly beseech the clerics to venerate above all the most holy Body and
 Blood of our Lord Jesus Christ and His Holy Name and written words which
-sanctify the body. <span id="fr_514"></span>[1](#fn_514) They ought to
+sanctify the body. <span id="fr_514"></span>[1](#fn_514.md) They ought to
 hold as precious the chalices, corporals, ornaments of the altar, and
 all that pertain to the Sacrifice. And if the most holy Body of the Lord
 be lodged very poorly in any place, let It according to the command of
@@ -64,7 +64,7 @@ ought to be put in a proper place.
 
 And in all the preaching you do, admonish the people concerning penance
 and that no one can be saved except he that receives the most sacred
-Body and Blood of the Lord. <span id="fr_515"></span>[2](#fn_515) And
+Body and Blood of the Lord. <span id="fr_515"></span>[2](#fn_515.md) And
 while It is being sacrificed by the priest on the altar and It is being
 carried to any place, let all the people on bended knees render praise,
 honor, and glory to the Lord God Living and True.
@@ -86,17 +86,17 @@ And let these be for them through true and holy obedience.
 
 ### Footnotes
 
-<span id="fn_512"></span>[127:1](wosf16.htm#fr_512) Cod. 225, mentioned
-above ([p. 110](wosf13.htm#page_110)). See Sabatier's Bartholi, p. 135.
+<span id="fn_512"></span>[127:1](wosf16.htm#fr_512.md) Cod. 225, mentioned
+above ([p. 110](wosf13.htm#page_110).md). See Sabatier's Bartholi, p. 135.
 
-<span id="fn_513"></span>[127:2](wosf16.htm#fr_513) Seemingly an
+<span id="fn_513"></span>[127:2](wosf16.htm#fr_513.md) Seemingly an
 allusion to the mysteries of the Eucharist.
 
-<span id="fn_514"></span>[128:1](wosf16.htm#fr_514) An obvious reference
+<span id="fn_514"></span>[128:1](wosf16.htm#fr_514.md) An obvious reference
 to the formula of consecration.
 
-<span id="fn_515"></span>[128:2](wosf16.htm#fr_515) See John 6: 54.
+<span id="fn_515"></span>[128:2](wosf16.htm#fr_515.md) See John 6: 54.
 
 ------------------------------------------------------------------------
 
-[Next: VI. To Brother Leo](wosf17)
+[Next: VI. To Brother Leo](wosf17.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc47)  [Next](sfoc49) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc47)  [Next](sfoc49.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ important deities.
 
 ------------------------------------------------------------------------
 
-[Next: To Shorten a Night-Goer on this Side](sfoc49)
+[Next: To Shorten a Night-Goer on this Side](sfoc49.md)

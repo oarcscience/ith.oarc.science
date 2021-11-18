@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt12)  [Next](egt14) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt12)  [Next](egt14.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ for thy ascent to God.
 
 ------------------------------------------------------------------------
 
-[Next: ON PURITY OF HEART.](egt14)
+[Next: ON PURITY OF HEART.](egt14.md)

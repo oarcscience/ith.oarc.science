@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico016) 
-[Next](nico018) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico016.md) 
+[Next](nico018.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ made well in soul by such a course of philosophy.
 ------------------------------------------------------------------------
 
 [Next: Chapter 5. Moral virtue's genus: it is a state of character, not
-a passion nor a faculty](nico018)
+a passion nor a faculty](nico018.md)

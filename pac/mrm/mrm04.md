@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](mrm03)  [Next](mrm05) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](mrm03)  [Next](mrm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -686,4 +686,4 @@ thunder-clap.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Religious Rites of the Maori](mrm05)
+[Next: Chapter III. Religious Rites of the Maori](mrm05.md)

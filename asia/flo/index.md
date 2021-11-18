@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](flo00)    [Page
-Index](pageidx)    [Text \[Zipped\]](flotxt.zip)   
+[Contents](#contents)    [Start Reading](flo00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](flotxt.zip.md)   
 
 ------------------------------------------------------------------------
 
@@ -59,38 +59,38 @@ below the title.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](flo00)  
-[Prefatory Note](flo01)  
-[Contents](flo02)  
-[The Cobbler Astrologer](flo03)  
+<span id="contents"></span> [Title Page](flo00.md)  
+[Prefatory Note](flo01.md)  
+[Contents](flo02.md)  
+[The Cobbler Astrologer](flo03.md)  
 [The Legend of the Terrestrial Paradise of Sheddád, The Son Of
-’A’d](flo04)  
-[The Tomb Of Noosheerwân](flo05)  
-[Ameen and the Ghool](flo06)  
+’A’d](flo04.md)  
+[The Tomb Of Noosheerwân](flo05.md)  
+[Ameen and the Ghool](flo06.md)  
 <span id="section_000"></span>
 
 ### The Relations of Ssidi Kur
 
-[The Relations of Ssidi Kur](flo07)  
-[The Adventures of the Rich Youth](flo08)  
-[The Adventures of the Beggar's Son](flo09)  
-[The Adventures of Massang](flo10)  
-[The Magician with the Swine's Head](flo11)  
-[The History of Sunshine and His Brother](flo12)  
-[The Wonderful Man Who Overcame the Chan](flo13)  
-[The Bird-Man](flo14)  
-[The Painter and the Wood-Carver](flo15)  
-[The Stealing of the Heart](flo16)  
-[The Man and His Wife](flo17)  
-[Of the Maiden Ssuwarandari](flo18)  
+[The Relations of Ssidi Kur](flo07.md)  
+[The Adventures of the Rich Youth](flo08.md)  
+[The Adventures of the Beggar's Son](flo09.md)  
+[The Adventures of Massang](flo10.md)  
+[The Magician with the Swine's Head](flo11.md)  
+[The History of Sunshine and His Brother](flo12.md)  
+[The Wonderful Man Who Overcame the Chan](flo13.md)  
+[The Bird-Man](flo14.md)  
+[The Painter and the Wood-Carver](flo15.md)  
+[The Stealing of the Heart](flo16.md)  
+[The Man and His Wife](flo17.md)  
+[Of the Maiden Ssuwarandari](flo18.md)  
 
  
 
-[The Two Cats](flo19)  
-[Legend of Dhurrumnath](flo20)  
-[The Traveller's Adventure](flo21)  
-[The Seven Stages of Roostem](flo22)  
-[The Man Who Never Laughed](flo23)  
-[The Fox and the Wolf](flo24)  
-[The Shepherd and the Jogie](flo25)  
-[The Perfidious Vizier](flo26)  
+[The Two Cats](flo19.md)  
+[Legend of Dhurrumnath](flo20.md)  
+[The Traveller's Adventure](flo21.md)  
+[The Seven Stages of Roostem](flo22.md)  
+[The Man Who Never Laughed](flo23.md)  
+[The Fox and the Wolf](flo24.md)  
+[The Shepherd and the Jogie](flo25.md)  
+[The Perfidious Vizier](flo26.md)  

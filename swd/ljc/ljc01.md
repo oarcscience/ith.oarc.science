@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljc00)  [Next](ljc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljc00)  [Next](ljc02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ concerning the state of souls after death that he would think are these:
 That man would then be like an exhalation, or like wind, or like ether;
 either that he would be floating in the air, or not abiding in any
 place, but in a somewhere, which they call Pu; <span
-id="fr_0"></span>[4-1](#fn_0) and that he would see nothing, because he
+id="fr_0"></span>[4-1](#fn_0.md) and that he would see nothing, because he
 had no eyes; hear nothing, because he had no ears; speak nothing,
 because he had no mouth; and would therefore be blind, deaf, and dumb;
 and continually in the expectation, which could not but be sad, of
@@ -114,7 +114,7 @@ But if afterwards you relapse into the idea, that the soul is an
 exhalation, and has no sensitive life until after the Last Judgment, can
 you help being distracted when you think, What and where shall I be in
 the meantime? Shall I float in the air, or remain in Pu? <span
-id="fr_1"></span>[6-1](#fn_1) Yet the preacher teaches me that after
+id="fr_1"></span>[6-1](#fn_1.md) Yet the preacher teaches me that after
 death I shall come among the happy, if I have believed well and lived
 well. You may believe then, as the truth is, that you are a man after
 death as well as before it, with only the difference that there is
@@ -892,10 +892,10 @@ and of fine linen.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4-1](ljc01.htm#fr_0) From the Greek pou = where.
+<span id="fn_0"></span>[4-1](ljc01.htm#fr_0.md) From the Greek pou = where.
 
-<span id="fn_1"></span>[6-1](ljc01.htm#fr_1) From the Greek pou = where.
+<span id="fn_1"></span>[6-1](ljc01.htm#fr_1.md) From the Greek pou = where.
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](ljc02)
+[Next: 51-100](ljc02.md)

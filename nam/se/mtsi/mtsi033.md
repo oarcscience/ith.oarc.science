@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi032)  [Next](mtsi034) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi032)  [Next](mtsi034.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ built a pen of logs, caught him, and burned him up.
 
 ------------------------------------------------------------------------
 
-[Next: 32. The Big Rock Man](mtsi034)
+[Next: 32. The Big Rock Man](mtsi034.md)

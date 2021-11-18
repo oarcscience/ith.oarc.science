@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa05)  [Next](toa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa05)  [Next](toa07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -46,7 +46,7 @@ night I hope to reach Apara. Here it comes!"
 They shrank against the mighty bole as the gale swept through the
 forest, the roar of the wind intensified by the crackling of trees that
 were literally up-rotted and tossed by the tempest as if they had been
-so many wisps of straw. Two [sturdy](errata.htm#5) trunks crashed down
+so many wisps of straw. Two [sturdy](errata.htm#5.md) trunks crashed down
 close to their feet, and only the giant spread of mighty bough above
 them saved them from destruction. In the intermittent pauses of the
 storm the shrieks of monkeys and the screeching of parrots and herons
@@ -360,6 +360,6 @@ with the descending sun.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V—Kiron](toa07)
+[Next: Chapter V—Kiron](toa07.md)
 
 </div>

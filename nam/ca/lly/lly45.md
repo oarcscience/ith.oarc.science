@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly44)  [Next](lly46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly44)  [Next](lly46.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ used as clothing when traveling in cold weather.
 
 ------------------------------------------------------------------------
 
-[Next: Sweat-Houses](lly46)
+[Next: Sweat-Houses](lly46.md)

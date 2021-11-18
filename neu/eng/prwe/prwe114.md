@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe113)  [Next](prwe115) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe113)  [Next](prwe115.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ died in the house; and 'twas he, they said, that used to come back."
 
 ------------------------------------------------------------------------
 
-[Next: The Warning](prwe115)
+[Next: The Warning](prwe115.md)

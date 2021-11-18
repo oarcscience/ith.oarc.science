@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Next](itb01)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Next](itb01.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ University of Utah
 
 ------------------------------------------------------------------------
 
-[Next](itb01)
+[Next](itb01.md)
 
  
 

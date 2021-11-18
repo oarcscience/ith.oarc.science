@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim11)  [Next](mim13) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim11)  [Next](mim13.md) 
 
 ------------------------------------------------------------------------
 
@@ -276,4 +276,4 @@ Skunk skinned the deer.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Valley Quail's Adventures](mim13)
+[Next: 11. Valley Quail's Adventures](mim13.md)

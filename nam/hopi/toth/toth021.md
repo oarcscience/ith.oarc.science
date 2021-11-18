@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth020)  [Next](toth022) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth020)  [Next](toth022.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 18. THE TWO WAR GODS AND THE TWO MAIDENS. <span id="fr_58"></span>[1](#fn_57)
+## 18. THE TWO WAR GODS AND THE TWO MAIDENS. <span id="fr_58"></span>[1](#fn_57.md)
 
 A long time ago Pöokónghoya and his little brother Balö'ngahoya lived
 north of the village at the shrine of the Achámali. One day they heard
@@ -65,9 +65,9 @@ their home north of Oraíbi.
 
 ### Footnotes
 
-<span id="fn_57"></span>[81:1](toth021.htm#fr_58) Told by Qöyáwainia
+<span id="fn_57"></span>[81:1](toth021.htm#fr_58.md) Told by Qöyáwainia
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 19. The Pöokónghoyas and the Cannibal Monster](toth022)
+[Next: 19. The Pöokónghoyas and the Cannibal Monster](toth022.md)

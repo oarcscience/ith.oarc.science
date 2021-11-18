@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia24)  [Next](aia26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia24)  [Next](aia26.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ judge that the querent will not be long-lived, or else subject to many
 calamities; and this I know by many verified examples. This knowledge
 will be useful to those who will use their reason to avoid those
 casualties their nature or inclinations would run them into. <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 <span id="page_86">p. 86</span>
 
@@ -113,7 +113,7 @@ especially if ⊕ and ☽ be free from combustion and be strong. If ♃ or ♀
 be lords of the 8th, 12th, or 6th houses, you must avoid them; and avoid
 that quarter wherein the evil planets are, unless they be essentially
 strong, and lords of the 1st, 2d, 10th, or 11th houses, when they may
-prove friendly. <span id="fr_58"></span>[1](#fn_58)
+prove friendly. <span id="fr_58"></span>[1](#fn_58.md)
 
 If the querent desire to live where he may most enjoy *health*, look to
 the quarter of the lord of the ascendant, or ☽; and whichever is
@@ -156,7 +156,7 @@ happen.
 <span id="img_fig02"></span>
 
 [![Fig. 2](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
 Fig. 2  
 
 *An* ASTROLOGICAL JUDGMENT *concerning these Demands by the Querent*.
@@ -179,7 +179,7 @@ happened to him already?
 The stature of the querent is shewn by ♌, the sign ascending; a fixed
 star of the 1st magnitude, of the nature of ♂ and ♃, called *Cor* ♌, the
 lion's heart, is near the cusp of the 1st house, in ♌ 24° 34'; <span
-id="fr_59"></span>[1](#fn_59) both the cusp of the 1st house and the
+id="fr_59"></span>[1](#fn_59.md) both the cusp of the 1st house and the
 degree wherein ☉ lord of the ascendant is, are the terms of ♃; the ☽ is
 in △ aspect to both ♃ and ♀, and they in the 10th house; so that the
 form and stature of the querent were decent. He was of middle stature,
@@ -187,7 +187,7 @@ strongly compacted, neither fat nor fleshy, but comely and graceful, a
 fair visage, reddish hair, clear skin, some cuts on his right cheek (he
 was a soldier), and certainly the presence of the fixed star in the
 ascendant, which represents the face, occasioned those hurts or
-scars. <span id="fr_60"></span>[2](#fn_60)
+scars. <span id="fr_60"></span>[2](#fn_60.md)
 
 As the sign ascending, and its lord, were in the *fiery* triplicity, and
 by nature hot and dry, so was this gentleman's temper and condition,
@@ -196,7 +196,7 @@ for ☉ is in his exaltation; yet ☽ being in △ to the two fortunes, he was
 sober, modest, and excellently educated, thereby having great command of
 his passion; but as ☽ was in ☍ to ☿, he had his times of anger and
 folly, whereby he pinch prejudiced his affairs. <span
-id="fr_61"></span>[3](#fn_61)
+id="fr_61"></span>[3](#fn_61.md)
 
 1st QUERY.--*If live long, &c*.?
 
@@ -283,7 +283,7 @@ sign of the 7th fixed, all which shews her to be a woman not willing to
 be curbed or to submit. (*This was confessed*.)
 
 Lastly, as ☉ was lately in ✶ to ♃ and ♃ in the 10th, I told him that
-some great lawyer or courtier <span id="fr_62"></span>[1](#fn_62) had
+some great lawyer or courtier <span id="fr_62"></span>[1](#fn_62.md) had
 endeavoured to reconcile the differences between them; and ☉ and ♄ did
 now apply to △ aspect, there seemed, at present, a willingness in both
 parties to be reconciled. Nor did I see any obstruction in the matter,
@@ -373,7 +373,7 @@ months, because the signs signify somewhat more; but proportion a *mean*
 between both: the time limited in this way will amount to about three
 years and three quarters ere the ☍ of ♂ to ☽ should take effect. But as
 this query was general, I might have allowed for every degree one
-year. <span id="fr_63"></span>[1](#fn_63) After, or about which time, he
+year. <span id="fr_63"></span>[1](#fn_63.md) After, or about which time, he
 was in several actions, both dangerous to his person and fortune; and
 since that time till the present, he has had his intervals of good and
 ill, but is now under the frown of fortune, &c.
@@ -381,7 +381,7 @@ ill, but is now under the frown of fortune, &c.
 As the ☉ at the time of the question was strong, he did overcome all
 manner of difficulties for many years, and has, in our unlucky
 differences, had honourable employment on his Majesty's part. But as
-☽ <span id="fr_64"></span>[2](#fn_64) is in ☍ to ♂, so it was not
+☽ <span id="fr_64"></span>[2](#fn_64.md) is in ☍ to ♂, so it was not
 without the general outcry and exclamations of the people; nor was it
 his fortune, though in great command, ever to do his Majesty any notable
 piece of service. And he is now for
@@ -391,7 +391,7 @@ piece of service. And he is now for
 ever, by just sentence of the Parliament, deprived of the happiness of
 ending his days in England; which might, in some measure, have been
 foreseen by the ☍ of ☽ to ♂, he being lord of the 4th, the end of all
-things. <span id="fr_65"></span>[1](#fn_65)
+things. <span id="fr_65"></span>[1](#fn_65.md)
 
 N.B. All young beginners should at first write down their judgments on
 each figure at full length, and afterwards contract their opinions into
@@ -405,7 +405,7 @@ future judgments.
 
 ### Footnotes
 
-<span id="fn_57"></span>[85:1](aia25.htm#fr_57) The student will
+<span id="fn_57"></span>[85:1](aia25.htm#fr_57.md) The student will
 perceive, by this observation of the author, how false is the assertion,
 that astrology teaches or upholds fatality. On the contrary, it
 expressly teaches that the worst influence may be overcome by the use of
@@ -413,13 +413,13 @@ reason, which, of course, implies by the assistance also of God's
 blessing, which both reason and revelation inform us we should pray for
 when we perceive any impending evil.--ZADKIEL.
 
-<span id="fn_58"></span>[86:1](aia25.htm#fr_58) I should not myself
+<span id="fn_58"></span>[86:1](aia25.htm#fr_58.md) I should not myself
 choose the directions of the infortunes in any case.--ZADKIEL.
 
-<span id="fn_59"></span>[89:1](aia25.htm#fr_59) This star has now
+<span id="fn_59"></span>[89:1](aia25.htm#fr_59.md) This star has now
 advanced to about 27° 30' of the sign Leo.
 
-<span id="fn_60"></span>[89:2](aia25.htm#fr_60) I differ from the author
+<span id="fn_60"></span>[89:2](aia25.htm#fr_60.md) I differ from the author
 on this point, and believe that the lord of the ascendant being in ♈,
 which rules the head, shewed them; it being a *masculine* sign, caused
 them to be on the right side; and, being *above the earth*, they were in
@@ -427,24 +427,24 @@ front of the head, or in the face. The ☉ being afflicted by the ☌ of ♂,
 caused them to be scars or wounds: if he had been alone, they would have
 been merely *moles*.--ZADKIEL.
 
-<span id="fn_61"></span>[89:3](aia25.htm#fr_61) The ☉ in ☌ with ♂ would
+<span id="fn_61"></span>[89:3](aia25.htm#fr_61.md) The ☉ in ☌ with ♂ would
 render him very fiery, and at the same time very brave and fortunate, as
 a soldier.
 
-<span id="fn_62"></span>[92:1](aia25.htm#fr_62) it was the *Lord
+<span id="fn_62"></span>[92:1](aia25.htm#fr_62.md) it was the *Lord
 Coventry*.
 
-<span id="fn_63"></span>[94:1](aia25.htm#fr_63) I should certainly
+<span id="fn_63"></span>[94:1](aia25.htm#fr_63.md) I should certainly
 always do so.--ZAD.
 
-<span id="fn_64"></span>[94:2](aia25.htm#fr_64) In all questions ☽
+<span id="fn_64"></span>[94:2](aia25.htm#fr_64.md) In all questions ☽
 signifies the people, where they are at all concerned.
 
-<span id="fn_65"></span>[95:1](aia25.htm#fr_65) I should say also, by ♄
+<span id="fn_65"></span>[95:1](aia25.htm#fr_65.md) I should say also, by ♄
 being in the 4th house and retrograde, for such a position ever denotes
 a final catastrophe.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXIII. If One Shall Find the Party at Home he Would Speak
-with?](aia26)
+with?](aia26.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt68)  [Next](egt70) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt68)  [Next](egt70.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ then mayst thou see thy soul engaged, as angels are, in prayer.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE PARTICIPATION OF THE HEART IN PRAYER.](egt70)
+[Next: ON THE PARTICIPATION OF THE HEART IN PRAYER.](egt70.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Next](nico001) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Next](nico001.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@
 ------------------------------------------------------------------------
 
 [Next: Chapter 1. All human activities aim at some good: some goods
-subordinate to others](nico001)
+subordinate to others](nico001.md)

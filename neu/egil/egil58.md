@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil57)  [Next](egil59) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil57)  [Next](egil59.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ steered, soon outstripped the rest. Then Egil sang a stave:
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LVIII. Of king Eric and Egil.](egil59)
+[Next: CHAPTER LVIII. Of king Eric and Egil.](egil59.md)

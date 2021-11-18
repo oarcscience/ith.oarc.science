@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj42) 
-[Next](npj44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj42.md) 
+[Next](npj44.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,11 +29,11 @@ has lain round me for thirteen years!
 
 Then Fusazaki prayed for his mother's soul and she appeared before him
 born again as a Blessed Dragon Lady of Paradise, carrying in her hand
-the scroll of the *Hokkekyō* (see [Plate II](npj42.htm#img_23400)), and
+the scroll of the *Hokkekyō* (see [Plate II](npj42.htm#img_23400).md), and
 danced the *Hayamai*, the "swift dance," of thirteen movements. On the
 Kongō stage the Dragon Lady is dressed as a man; for women have no place
 in Paradise.
 
 ------------------------------------------------------------------------
 
-[Next: Take no Yuki (Snow on the Bamboos)](npj44)
+[Next: Take no Yuki (Snow on the Bamboos)](npj44.md)

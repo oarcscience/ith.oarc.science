@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc07)  [Next](pcc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc07)  [Next](pcc09.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ individuals are hardly aware of its existence. Their gaze turned
 outwards is held and riveted by the gigantic figures and processions
 passing across their sky; they are unaware that the latter are only
 shadows--silhouettes of the forms inhabiting their own minds. <span
-id="fr_117"></span>[1](#fn_117) The vast majority of people have never
+id="fr_117"></span>[1](#fn_117.md) The vast majority of people have never
 observed their own minds; their own mental forms. They have only
 observed the reflections cast by these. Thus it may be said, in this
 matter, that there are three degrees of reality. There are the mere
@@ -174,13 +174,13 @@ mentioned some cases connected with the sowing of the corn. The Bible is
 full of such things, from the intended sacrifice of Isaac by his father
 Abraham, to the actual crucifixion of Jesus by the Jews. The first-born
 sons were claimed by a god who called himself "jealous" and were only to
-be redeemed by a substitute. <span id="fr_118"></span>[1](#fn_118) Of
+be redeemed by a substitute. <span id="fr_118"></span>[1](#fn_118.md) Of
 the Canaanites it was said that "even their daughters they have *burnt*
-in the fire to their gods"; <span id="fr_119"></span>[2](#fn_119) and of
+in the fire to their gods"; <span id="fr_119"></span>[2](#fn_119.md) and of
 the King of Moab, that hen he saw his army in danger of defeat, "he took
 his eldest son that should have reigned in his stead and offered him for
-a burnt-offering on the wall!" <span id="fr_120"></span>[3](#fn_120) Dr.
-Frazer <span id="fr_121"></span>[4](#fn_121) mentions the similar case
+a burnt-offering on the wall!" <span id="fr_120"></span>[3](#fn_120.md) Dr.
+Frazer <span id="fr_121"></span>[4](#fn_121.md) mentions the similar case
 of the Carthaginians (about B.C. 300) sacrificing two hundred children
 of good family as a propitiation to Baal and to save their beloved city
 from the assaults of the Sicilian tyrant Agathocles. And even so we hear
@@ -201,10 +201,10 @@ children, who had previously been borne in triumphal state on litters
 over the crowd and decorated with every ornamental device of feathers
 and flowers and wings, were placed one by one on the vast hands and
 *rolled down* into the flames--as if the god were himself offering
-them. <span id="fr_122"></span>[1](#fn_122) As the procession approached
+them. <span id="fr_122"></span>[1](#fn_122.md) As the procession approached
 the temple, the members of it wept and danced and sang, and here again
 the abundance of tears was taken for a good augury of rain. <span
-id="fr_123"></span>[2](#fn_123)
+id="fr_123"></span>[2](#fn_123.md)
 
 Bernal Diaz describes how he saw one of these monstrous figures--that of
 Huitzilopochtli, the god of war, all inlaid with gold and precious
@@ -245,11 +245,11 @@ connection in the general mind between the gift of food (by the gods)
 and the sacrifice of precious blood (by the people).\] More than once
 Sahagun mentions that the victims in these Mexican ceremonials not
 infrequently offered *themselves* as a voluntary sacrifice; and Prescott
-says <span id="fr_124"></span>[1](#fn_124) that the offering of one's
+says <span id="fr_124"></span>[1](#fn_124.md) that the offering of one's
 life to the gods was "sometimes voluntarily embraced, as a most glorious
 death opening a sure passage into Paradise."
 
-Dr. Frazer describes <span id="fr_125"></span>[2](#fn_125) the far-back
+Dr. Frazer describes <span id="fr_125"></span>[2](#fn_125.md) the far-back
 Babylonian festival of the Sacaea in which "a prisoner, condemned to
 death, was dressed in the king's robes, seated on the king's throne,
 allowed to issue whatever commands he pleased, to eat, drink and enjoy
@@ -272,7 +272,7 @@ Sahagun, and summarizes his conclusions in the following passage: "The
 general theory of worship was the adoration of a deity, first by
 innumerable human sacrifices, next by the special sacrifice of a *man*
 for the male gods, of a *woman* for each goddess. <span
-id="fr_126"></span>[1](#fn_126) The latter victims were regarded as the
+id="fr_126"></span>[1](#fn_126.md) The latter victims were regarded as the
 living images or incarnations of the divinities in, each case; for no
 system of worship carried farther the identification of the god with the
 sacrifice \[? victim\], and of both with the officiating priest. The
@@ -281,7 +281,7 @@ of the victims--just as in Greece, Egypt and Assyria, the fawn-skin or
 bull-hide or goat-skin or fish-skin of the victims is worn by the
 celebrants. Finally, an image of the god was made out of paste, and this
 was divided into morsels and eaten in a hideous sacrament by those who
-communicated." <span id="fr_127"></span>[2](#fn_127)
+communicated." <span id="fr_127"></span>[2](#fn_127.md)
 
 Revolting as this whole picture is, it represents as we know a mere
 thumbnail sketch of the awful practices of human sacrifice all over the
@@ -300,7 +300,7 @@ And yet Augustine was a great and noble man, with some by no means
 unworthy conceptions of the greatness of his God. In the same way the
 Aztecs were in many respects a refined and artistic people, and their
 religion was not all superstition and bloodshed. Prescott says of
-them <span id="fr_128"></span>[1](#fn_128) that they believed in a
+them <span id="fr_128"></span>[1](#fn_128.md) that they believed in a
 supreme Creator and Lord "omnipresent, knowing all thoughts, giving all
 gifts, without whom Man is as nothing--invisible, incorporeal, one God,
 of perfect perfection and purity, under whose wings we find repose and a
@@ -424,7 +424,7 @@ an image (often itself carved out of pinewood) of the young Attis was
 placed. Could any symbolism express more tenderly the idea that the
 glorious youth--who represented Spring, too soon slain by the rude tusk
 of Winter--was himself the very human soul of the pine-tree? <span
-id="fr_129"></span>[1](#fn_129) At
+id="fr_129"></span>[1](#fn_129.md) At
 
 <span id="page_113">p. 113</span>
 
@@ -533,21 +533,21 @@ anterior to all recorded history.
 
 ### Footnotes
 
-<span id="fn_117"></span>[101:1](pcc08.htm#fr_117) See, in the same
+<span id="fn_117"></span>[101:1](pcc08.htm#fr_117.md) See, in the same
 connection, Plato's allegory of the Cave, *Republic*, Book vii.
 
-<span id="fn_118"></span>[105:1](pcc08.htm#fr_118) Exodus xxxiv. 20
+<span id="fn_118"></span>[105:1](pcc08.htm#fr_118.md) Exodus xxxiv. 20
 
-<span id="fn_119"></span>[105:2](pcc08.htm#fr_119) Deut. xii. 31.
+<span id="fn_119"></span>[105:2](pcc08.htm#fr_119.md) Deut. xii. 31.
 
-<span id="fn_120"></span>[105:3](pcc08.htm#fr_120) 2 Kings iii. 27.
+<span id="fn_120"></span>[105:3](pcc08.htm#fr_120.md) 2 Kings iii. 27.
 
-<span id="fn_121"></span>[105:4](pcc08.htm#fr_121) *The Golden Bough*,
+<span id="fn_121"></span>[105:4](pcc08.htm#fr_121.md) *The Golden Bough*,
 vol. "The Dying God," p. 167.
 
-<span id="fn_122"></span>[106:1](pcc08.htm#fr_122)
+<span id="fn_122"></span>[106:1](pcc08.htm#fr_122.md)
 
-<span id="fn_123"></span>[106:2](pcc08.htm#fr_123) "A los niños que
+<span id="fn_123"></span>[106:2](pcc08.htm#fr_123.md) "A los niños que
 mataban, componianlos en muchos atavios para llevarlos al sacrificio, y
 llevábanlos en unas literas sobre los hombros, estas literas iban
 adornadas con plumages y con flores: iban tañendo, cantando y bailando
@@ -556,14 +556,14 @@ echaban muchos lagrimas, alegrabansi los que los llevában porque tomaban
 pronostico de que habian de tener muchas aguas en aquel año." Sahagun,
 *Historia Nueva España*, Bk. II, ch. i.
 
-<span id="fn_124"></span>[107:1](pcc08.htm#fr_124) *Conquest of Mexico*,
+<span id="fn_124"></span>[107:1](pcc08.htm#fr_124.md) *Conquest of Mexico*,
 Bk. I, ch. 3.
 
-<span id="fn_125"></span>[107:2](pcc08.htm#fr_125) *Golden Bough*, "The
+<span id="fn_125"></span>[107:2](pcc08.htm#fr_125.md) *Golden Bough*, "The
 Dying God," p. 114. See also S. Reinach, *Cults, Myths and Religion*, p.
 94) on the martyrdom of St. Dasius.
 
-<span id="fn_126"></span>[108:1](pcc08.htm#fr_126) Compare the festival
+<span id="fn_126"></span>[108:1](pcc08.htm#fr_126.md) Compare the festival
 of *Thargelia* at Athens, originally connected with the ripening of the
 crops. A procession was formed and the first fruits of the year offered
 to Apollo, Artemis and the Horae. It was an expiatory feast, to purify
@@ -573,13 +573,13 @@ led about with a garland of figs \[fertility\] round their necks, to the
 sound of flutes and singing. They were then scourged, sacrificed, and
 their bodies burned by the seashore. (Nettleship and Sandys.)
 
-<span id="fn_127"></span>[108:2](pcc08.htm#fr_127) A Lang, *Myth, Ritual
+<span id="fn_127"></span>[108:2](pcc08.htm#fr_127.md) A Lang, *Myth, Ritual
 and Religion*, vol. ii, p. 97.
 
-<span id="fn_128"></span>[109:1](pcc08.htm#fr_128) *Conquest of Mexico*,
+<span id="fn_128"></span>[109:1](pcc08.htm#fr_128.md) *Conquest of Mexico*,
 Bk. I, ch. 3.
 
-<span id="fn_129"></span>[112:1](pcc08.htm#fr_129) See Julius Firmicus,
+<span id="fn_129"></span>[112:1](pcc08.htm#fr_129.md) See Julius Firmicus,
 who says (*De Errore*, c. 28): "in sacris Phrygiis, quæ Matris deum
 dicunt, per annos singulos arbor pinea <span id="page_113">p. 113</span>
 caeditur, et in media arbore simulacrum uvenis subligatur. In Isiacis
@@ -591,4 +591,4 @@ noctibus plangitur, quadragesima vero nocte comburitur."
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Pagan Initiations and the Second Birth](pcc09)
+[Next: VIII. Pagan Initiations and the Second Birth](pcc09.md)

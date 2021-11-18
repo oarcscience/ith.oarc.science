@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi15)  [Next](rpdi17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi15)  [Next](rpdi17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -15,13 +15,13 @@ American](../../index)  [California](../index)  [Index](index) 
 
 The Eagle dance or ceremony, expa ima, is a mourning ceremony held on
 the anniversary of the death of a kwaipai, or leader of the
-dances. <span id="fr_97"></span>[90](#fn_97)
+dances. <span id="fr_97"></span>[90](#fn_97.md)
 
 An Eagle dance which was observed by the writer at Mesa Grande, occurred
 at the end of a three-day festival. During each of the first two days
 the people in holiday attire loitered about the fiesta grounds, busying
 themselves in a general way with the usual "fiesta" events. A peon
-gambling game <span id="fr_98"></span>[90a](#fn_98) was running during
+gambling game <span id="fr_98"></span>[90a](#fn_98.md) was running during
 most of the time; and in the afternoons and
 
 <span id="page_315">p. 315</span>
@@ -47,7 +47,7 @@ class="sc">r</span><span class="sc">l</span>oi. The final part of the
 dance was, however, omitted. The dance-circle was then cleared, and one
 of the oldest men announced: "All will sit down and smoke tobacco."
 After some time an old man, said to be called the kaponai<span
-class="sc">l</span>, <span id="fr_99"></span>[91](#fn_99) who sat on a
+class="sc">l</span>, <span id="fr_99"></span>[91](#fn_99.md) who sat on a
 stool to one side, exclaimed "mwau." Several others then went to the
 middle of the dance-circle and motioned upward three times, grunting as
 they did so. Then a so-called "capitan" made a long and very emphatic
@@ -101,13 +101,13 @@ my eagle <span id="fr_101"></span><a href="#fn_101">93</a></span></p></td>
 
 After this song had been repeated a number of times, there was a
 ceremonial pause or rest, during which the eagle was passed to another
-old man. <span id="fr_102"></span>[93a](#fn_102) During these pauses
+old man. <span id="fr_102"></span>[93a](#fn_102.md) During these pauses
 there was a general wailing. The dancing continued in this way without
 change until seven songs in all had been sung. They were obtained as
 phonograph records on the day following the ceremony, the order being
 established by notes and texts taken down at the time of singing.
 Although the arrangement was afterwards learned to be fortuitous, <span
-id="fr_103"></span>[94](#fn_103) the reader can see that these songs
+id="fr_103"></span>[94](#fn_103.md) the reader can see that these songs
 seem to outline a myth or story.
 
 <div align="center">
@@ -189,16 +189,16 @@ In the pauses between several of these songs, one man held the eagle
 aloft while another took his stand some distance away and pointed a
 small stick at the bird. He aimed this stick as a man aims a rifle,
 twisting it over and over, however, with his thumb and forefinger. At
-[the](errata.htm#3) same time he exclaimed "ahahaha! ahahaha!" Some of
+[the](errata.htm#3.md) same time he exclaimed "ahahaha! ahahaha!" Some of
 the dancers dipped the end of the stick in the fire before they pointed
 it at the eagle. In this way death is supposed to be conveyed through
 the stick. Following this action a second man always approached the
 eagle and waved his feather tuft in front of it. Then he brushed or
-"dusted" its head three times <span id="fr_110"></span>[101](#fn_110)
+"dusted" its head three times <span id="fr_110"></span>[101](#fn_110.md)
 with the plume. At the same time they blew or made a laughing sound.
 Several of the old men at various times blew tobacco smoke over the
 bird. All this was done "to brush away death, so they could tell him
-more." <span id="fr_111"></span>[101a](#fn_111)
+more." <span id="fr_111"></span>[101a](#fn_111.md)
 
 At the conclusion of the last song above, several people, relatives of
 the dead kwaipai, approached the eagle and threw new calico over it,
@@ -376,7 +376,7 @@ kiyi kiyi</span></p></td>
 At the end of three repetitions of this song, they all expelled their
 breath very forcibly three times. The whole was then repeated three
 times. Then the leader exclaimed "tca," and all said together, in deep
-[guttural](errata.htm#4) tones, "hi u hi," or something to which these
+[guttural](errata.htm#4.md) tones, "hi u hi," or something to which these
 sounds are an approximation. The eagle was then put in the hole and the
 dirt pushed in from all sides. Another piece of red calico was thrown in
 the air by the daughter of the dead leader.
@@ -425,77 +425,77 @@ peon game which was then progressing. The Eagle dance was over.
 
 ### Footnotes
 
-<span id="fn_97"></span>[314:90](rpdi16.htm#fr_97) Luiseño accounts in
+<span id="fn_97"></span>[314:90](rpdi16.htm#fr_97.md) Luiseño accounts in
 the present series, VIII, pp. 7, 113, 114, 182, 227; Am. Anthr., n.s.
 VII, 625, 1905. An early reference is in the present series, VIII, 1-27,
 1908, A. L. Kroeber, "A Mission Record of the California Indians," in
 which see p. 4.
 
-<span id="fn_98"></span>[314:90a](rpdi16.htm#fr_98) See below.
+<span id="fn_98"></span>[314:90a](rpdi16.htm#fr_98.md) See below.
 
-<span id="fn_99"></span>[315:91](rpdi16.htm#fr_99) Cf. preceding, [p.
-294](rpdi07.htm#page_294).
+<span id="fn_99"></span>[315:91](rpdi16.htm#fr_99.md) Cf. preceding, [p.
+294](rpdi07.htm#page_294.md).
 
-<span id="fn_100"></span>[316:92](rpdi16.htm#fr_100) Said of a bird
+<span id="fn_100"></span>[316:92](rpdi16.htm#fr_100.md) Said of a bird
 hopping along on the ground before he launches himself into the air.
 
-<span id="fn_101"></span>[316:93](rpdi16.htm#fr_101) University of
+<span id="fn_101"></span>[316:93](rpdi16.htm#fr_101.md) University of
 California phonograph record 707(<sup>2</sup>).
 
-<span id="fn_102"></span>[316:93a](rpdi16.htm#fr_102) These brief but
+<span id="fn_102"></span>[316:93a](rpdi16.htm#fr_102.md) These brief but
 frequent intermissions are characteristic of all Diegueño ceremonies.
 
-<span id="fn_103"></span>[316:94](rpdi16.htm#fr_103) The leader
+<span id="fn_103"></span>[316:94](rpdi16.htm#fr_103.md) The leader
 explained that he had not heard the songs for years, and sung them just
 as he could remember them.
 
-<span id="fn_104"></span>[316:95](rpdi16.htm#fr_104) University of
+<span id="fn_104"></span>[316:95](rpdi16.htm#fr_104.md) University of
 California phonograph record 711(<sup>1</sup>).
 
-<span id="fn_105"></span>[316:96](rpdi16.htm#fr_105) *Ibid*.,
+<span id="fn_105"></span>[316:96](rpdi16.htm#fr_105.md) *Ibid*.,
 712(<sup>2</sup>).
 
-<span id="fn_106"></span>[317:97](rpdi16.htm#fr_106) *Ibid*., 713(1).
+<span id="fn_106"></span>[317:97](rpdi16.htm#fr_106) *Ibid*., 713(1.md).
 The song refers to the young eaglets in the nest.
 
-<span id="fn_107"></span>[317:98](rpdi16.htm#fr_107) *Ibid*., 713(2).
+<span id="fn_107"></span>[317:98](rpdi16.htm#fr_107) *Ibid*., 713(2.md).
 The song is to explain that "Eagle and Chickenhawk once were friends".
 
-<span id="fn_108"></span>[317:99](rpdi16.htm#fr_108) *Ibid*., 709(1).
+<span id="fn_108"></span>[317:99](rpdi16.htm#fr_108) *Ibid*., 709(1.md).
 
-<span id="fn_109"></span>[317:100](rpdi16.htm#fr_109) *Ibid*., 712(1).
+<span id="fn_109"></span>[317:100](rpdi16.htm#fr_109) *Ibid*., 712(1.md).
 
-<span id="fn_110"></span>[317:101](rpdi16.htm#fr_110) One man did it
+<span id="fn_110"></span>[317:101](rpdi16.htm#fr_110.md) One man did it
 four times instead of three.
 
-<span id="fn_111"></span>[317:101a](rpdi16.htm#fr_111) More messages for
+<span id="fn_111"></span>[317:101a](rpdi16.htm#fr_111.md) More messages for
 the deceased kwapai?
 
-<span id="fn_112"></span>[318:102](rpdi16.htm#fr_112) University of
+<span id="fn_112"></span>[318:102](rpdi16.htm#fr_112.md) University of
 California phonograph record 703.
 
-<span id="fn_113"></span>[318:103](rpdi16.htm#fr_113) *Ibid*.,
+<span id="fn_113"></span>[318:103](rpdi16.htm#fr_113.md) *Ibid*.,
 705(<sup>2</sup>). The waves say this to the eagle.
 
-<span id="fn_114"></span>[318:104](rpdi16.htm#fr_114) *Ibid*.,
+<span id="fn_114"></span>[318:104](rpdi16.htm#fr_114.md) *Ibid*.,
 706(<sup>1</sup>).
 
-<span id="fn_115"></span>[318:105](rpdi16.htm#fr_115) University of
+<span id="fn_115"></span>[318:105](rpdi16.htm#fr_115.md) University of
 California phonograph record 706(<sup>2</sup>). The eagle says this as
 he walks in the edge of the surf.
 
-<span id="fn_116"></span>[318:106](rpdi16.htm#fr_116) *Ibid*.,
+<span id="fn_116"></span>[318:106](rpdi16.htm#fr_116.md) *Ibid*.,
 706(<sup>3</sup>).
 
-<span id="fn_117"></span>[318:107](rpdi16.htm#fr_117) *Ibid*.,
+<span id="fn_117"></span>[318:107](rpdi16.htm#fr_117.md) *Ibid*.,
 707(<sup>1</sup>).
 
-<span id="fn_118"></span>[318:108](rpdi16.htm#fr_118) *Ibid*.,
+<span id="fn_118"></span>[318:108](rpdi16.htm#fr_118.md) *Ibid*.,
 708(<sup>1</sup>).
 
-<span id="fn_119"></span>[318:109](rpdi16.htm#fr_119) *Ibid*.,
+<span id="fn_119"></span>[318:109](rpdi16.htm#fr_119.md) *Ibid*.,
 708(<sup>3</sup>). Sung as they wept for the eagle.
 
 ------------------------------------------------------------------------
 
-[Next: The “War” Dance](rpdi17)
+[Next: The “War” Dance](rpdi17.md)

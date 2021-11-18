@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe267)  [Next](prwe269) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe267)  [Next](prwe269.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ production.
 
 ------------------------------------------------------------------------
 
-[Next: The Floating Grindstone](prwe269)
+[Next: The Floating Grindstone](prwe269.md)

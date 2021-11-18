@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa07)  [Next](soa09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa07)  [Next](soa09.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ naturally group themselves.
 
 ------------------------------------------------------------------------
 
-[Next: First Map Period](soa09)
+[Next: First Map Period](soa09.md)

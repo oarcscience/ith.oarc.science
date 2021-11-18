@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass42)  [Next](nass44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass42)  [Next](nass44.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ chief in heaven, who makes them lose their club.
 
 ------------------------------------------------------------------------
 
-[Next: Asi-hwî'l](nass44)
+[Next: Asi-hwî'l](nass44.md)

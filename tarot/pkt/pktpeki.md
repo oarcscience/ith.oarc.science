@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktswac)  [Next](pktpequ) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktswac)  [Next](pktpequ.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### King
 
 <span id="img_peki"></span> <span align="CENTER"> [![](tn/peki.jpg)  
-Click to enlarge](img/peki.jpg)</span>
+Click to enlarge](img/peki.jpg.md)</span>
 
 The figure calls for no special description the face is rather dark,
 suggesting also courage, but somewhat lethargic in tendency. The bull's
@@ -40,4 +40,4 @@ corruption, peril.
 
 ------------------------------------------------------------------------
 
-[Next: Queen of Pentacles](pktpequ)
+[Next: Queen of Pentacles](pktpequ.md)

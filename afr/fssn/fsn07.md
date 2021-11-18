@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fsn06)  [Next](fsn08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fsn06)  [Next](fsn08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Stories From Southern Nigeria*, by Elphinstone Dayrell, \[1910\],
 at Intangible Textual Heritage
 
@@ -113,6 +113,6 @@ and dogs doing scavenger in the market-places even at the present time.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Of the Pretty Stranger who Killed the King](fsn08)
+[Next: VI. Of the Pretty Stranger who Killed the King](fsn08.md)
 
 </div>

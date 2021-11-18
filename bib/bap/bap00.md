@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Next](bap01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Next](bap01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Contents](bap01)
+[Next: Contents](bap01.md)

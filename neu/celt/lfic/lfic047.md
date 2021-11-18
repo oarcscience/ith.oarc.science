@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic046)  [Next](lfic048) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic046)  [Next](lfic048.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ attempt at a ball in the big house.
 
 ------------------------------------------------------------------------
 
-[Next: The Ghost in Graigue](lfic048)
+[Next: The Ghost in Graigue](lfic048.md)

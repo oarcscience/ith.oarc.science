@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](wov18)  [Next](wov20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](wov18)  [Next](wov20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddha's Way of Virtue*, by W.D.C Wagiswara and K.J. Saunders,
 \[1920\], at Intangible Textual Heritage
 
@@ -63,4 +63,4 @@ a one, the wise and prudent, as the moon follows the path of the stars.
 
 ------------------------------------------------------------------------
 
-[Next: § XVI: Affection](wov20)
+[Next: § XVI: Affection](wov20.md)

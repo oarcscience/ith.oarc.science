@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes47)  [Next](tes49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes47)  [Next](tes49.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ My uncle told me one time how his "grandfather" saved him from an
 
 <span id="page_103">p. 103</span>
 
-evil spirit. <span id="fr_79"></span>[1](tes49.htm#fn_79) One summer my
+evil spirit. <span id="fr_79"></span>[1](tes49.htm#fn_79.md) One summer my
 uncle went in a wooden canoe down the river to inspect his deadfalls. He
 came to his autumn fishing place, where he had a hut with racks for
 drying fish. He wanted to get some fishing nets from there. When he was
@@ -80,4 +80,4 @@ of Omolon, in the Kolyma country, summer of 1900.
 
 ------------------------------------------------------------------------
 
-[Next: 28. A Story of Machekur](tes49)
+[Next: 28. A Story of Machekur](tes49.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ctdi01)  [Next](ctdi03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ctdi01)  [Next](ctdi03.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ of the dance. "Hup!"
 
 For the next half-dozen songs he gives the translation in Diegueño. They
 relate to two brothers whose father is Homatimilya. <span
-id="fr_2"></span>[3](#fn_2) The names are all in the Mohave
-language. <span id="fr_3"></span>[4](#fn_3)
+id="fr_2"></span>[3](#fn_2.md) The names are all in the Mohave
+language. <span id="fr_3"></span>[4](#fn_3.md)
 
 Another song with varied tones ending in "Hup!" The meaning of the song:
 "They are going along. All is dim and hazy before them."
@@ -68,7 +68,7 @@ from. They came forth from the earth."
 Song: "Let us build a house. It is going to rain." A hill at Jacumba is
 the house they built covered with earth. There is a hot-spring at the
 south of the hill, and this is the door of the house. <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 Song: They were in the house at night and it began to rain on them.
 
@@ -118,7 +118,7 @@ their wives. They run with balls, kicking the ball with their foot,
 running after it, throwing it again with the foot. With three bounds of
 the ball they reach the ocean where the girls are. But they do not stay.
 They turn and go back home, their hair flying in the wind, the east
-wind. <span id="fr_5"></span>[1](#fn_5)
+wind. <span id="fr_5"></span>[1](#fn_5.md)
 
 Song: The girls get to thinking why the boys came.
 
@@ -172,28 +172,28 @@ Song: He goes on towards the desert, and sees a band of mountain-sheep,
 which he frightens, and they run away from him. He is talking to them.
 
 Last song: He goes to the Maricopa Indians. <span
-id="fr_6"></span>[1](ctdi03.htm#fn_6)
+id="fr_6"></span>[1](ctdi03.htm#fn_6.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_2"></span>[228:3](ctdi02.htm#fr_2) Evidently the Mohave
+<span id="fn_2"></span>[228:3](ctdi02.htm#fr_2.md) Evidently the Mohave
 Matevilye.
 
-<span id="fn_3"></span>[228:4](ctdi02.htm#fr_3) One of these songs was
+<span id="fn_3"></span>[228:4](ctdi02.htm#fr_3.md) One of these songs was
 obtained on a phonograph record (American Museum of Natural History, no.
 1017), described in the paper now in press at the University of
 California.
 
-<span id="fn_4"></span>[229:1](ctdi02.htm#fr_4) The primitive houses of
+<span id="fn_4"></span>[229:1](ctdi02.htm#fr_4.md) The primitive houses of
 the Luiseños and Diegueños were made of uprights and rafters of solid
 timbers, joined by wattled brush, the whole covered with earth, with an
 opening in front for a door, and a hole in the roof to permit the egress
 of smoke and the entrance of light, the house looking at a distance like
 a hillock of sand.
 
-<span id="fn_5"></span>[230:1](ctdi02.htm#fr_5) This and the following
+<span id="fn_5"></span>[230:1](ctdi02.htm#fr_5.md) This and the following
 songs recall similar incidents in the Cuyahomarr story, which would seem
 to be merged with the history of the two gods; or by some omitted
 connection, the two stories may both be celebrated in this dance. As the
@@ -202,4 +202,4 @@ than a portion of it.
 
 ------------------------------------------------------------------------
 
-[Next: Awikunchi, A Fair-Weather-Making Ceremony](ctdi03)
+[Next: Awikunchi, A Fair-Weather-Making Ceremony](ctdi03.md)

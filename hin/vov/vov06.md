@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov05)  [Next](vov07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov05)  [Next](vov07.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,19 +66,19 @@ Brahmin, twice born. What hath he who has attained to do with learning.
 409
 
 Taking fire in their hands yet scoffiing at God, the Brahmins have
-become [debased](errata.htm#67); wandering in many diverse paths, all
+become [debased](errata.htm#67.md); wandering in many diverse paths, all
 the Brahmins are ruined.
 
 410
 
 The leaf platters of Brahmins are the share of dogs of the street and
-the platters of [pariahs](errata.htm#68) alone are honoured. The
+the platters of [pariahs](errata.htm#68.md) alone are honoured. The
 platters thus honoured become the share of Brahmins.
 
 411
 
 A Brahmin will eat bone-food in which pounded skeleton is mingled. A
-married woman becomes a pēratālu. [These](errata.htm#69) give up their
+married woman becomes a pēratālu. [These](errata.htm#69.md) give up their
 caste and character through excess of avarice.
 
 412
@@ -103,9 +103,9 @@ hard men).
 
 415
 
-By birth a soodra--how can he become perfect ([the](errata.htm#70) best
+By birth a soodra--how can he become perfect ([the](errata.htm#70.md) best
 of the good)? The soodra state to a woman in every
-[respect](errata.htm#71)--his mother being a soodra how is he a Brahmin?
+[respect](errata.htm#71.md)--his mother being a soodra how is he a Brahmin?
 
 416
 
@@ -187,7 +187,7 @@ in worldly pursuits? This book shall release thee.
 <span id="page_109">p. 109</span>
 
 The verses of Vemana well considered admit of [a
-thousand](errata.htm#72) interpretations. If thou think on these, this
+thousand](errata.htm#72.md) interpretations. If thou think on these, this
 shall produce refined wisdom in thee.
 
 429
@@ -239,12 +239,12 @@ mounts the vessel and goes about. This is tatwa.
 
 436
 
-Fairly establishing the house built on one [pillar](errata.htm#73) with
+Fairly establishing the house built on one [pillar](errata.htm#73.md) with
 its six stores, how shall one make himself lord of that mansion.
 
 437
 
-To be united with six [passions](errata.htm#74), grief at the last; to
+To be united with six [passions](errata.htm#74.md), grief at the last; to
 be united with the seven becometh a cause of weeping. To slay in unison
 of these (for these to perish) is wisdom.
 
@@ -321,7 +321,7 @@ one leg and is all to match he shines and talks in the courts of kings.
 
 448
 
-When acquainted with the path of great [construction](errata.htm#75) of
+When acquainted with the path of great [construction](errata.htm#75.md) of
 the body (acunchana) if at any time thou disregard the *moola bandhana*
 all the old men in the world shall become youths. (This mystic fooling
 signifies that what is apparently the meanest is of the first
@@ -330,7 +330,7 @@ consequence)
 449
 
 If fixing thy understanding thou look and behold the light of the moon
-(i.e.. breast)...([incomplete](errata.htm#76)).
+(i.e.. breast)...([incomplete](errata.htm#76).md).
 
 450
 
@@ -342,7 +342,7 @@ the world. Behold, she is gold, but such as cannot be plundered
 
 Brahma became a horse Siva (Bhava) became the saddle; *Adi* Vishnu
 became the stirrup. He that mounts on this stud is either
-[female](errata.htm#77) or male. I know not which.
+[female](errata.htm#77.md) or male. I know not which.
 
 <span id="page_114">p. 114</span>
 
@@ -353,7 +353,7 @@ crows on one side, the nine large tomcats (animal senses) on one side;
 the nine large paths, being restrained, the light (the soul) departed to
 the external, the tiger (ignorance), the fox (delusion) rose up and
 gazed; the dog (mind) perished--the men of the woods
-([apes](errata.htm#78)) cried out, the soul has become Him, Him.
+([apes](errata.htm#78).md) cried out, the soul has become Him, Him.
 
 453
 
@@ -402,7 +402,7 @@ them O Vema.
 
 What is the mystery of a fly that screamed out and swallowed a bed? How
 was a mace produced in jasmine blossoms? Amazing, on a (marri)neem tree
-(ignorance) [plantain](errata.htm#79) fruits (wisdom) were produced; how
+(ignorance) [plantain](errata.htm#79) fruits (wisdom.md) were produced; how
 was this? What is that dancing that the flower bodied woman knows. How
 did the five coloured parrots have power to swallow five mountains. Thus
 have the wise of old taught, listen O Vema.
@@ -411,7 +411,7 @@ have the wise of old taught, listen O Vema.
 
 <span id="page_117">p. 117</span>
 
-He who comprehends the [preceding](errata.htm#80) three verses and can
+He who comprehends the [preceding](errata.htm#80.md) three verses and can
 explain them truly he shall see Siva. What is there unknown to thee?
 
 459
@@ -421,7 +421,7 @@ thus far, to the last what these are, that man is Vemana.
 
 460
 
-If they [do](errata.htm#81) not [hesitate](errata.htm#82) in 1006 ways
+If they [do](errata.htm#81) not [hesitate](errata.htm#82.md) in 1006 ways
 water courses well turn as men turn. But a thousand ways are
 insufficient to teach the chief (root) wisdom to a piece of wood.
 
@@ -433,7 +433,7 @@ externally daub yourselves and fall into the hands of Fate!
 
 462
 
-In the eye flowing from [moisture](errata.htm#83), in a boil flowing
+In the eye flowing from [moisture](errata.htm#83.md), in a boil flowing
 with matter, in a house the thatch of which is damaged, in a whirlwind,
 
 <span id="page_118">p. 118</span>
@@ -506,7 +506,7 @@ it with lime of steel--surely then lime is not the source of all purity.
 473
 
 He who eats lime (of stone or shells) possesses the philosopher's stone,
-chunam that exceeds in the touch [of](errata.htm#84) gold, is better to
+chunam that exceeds in the touch [of](errata.htm#84.md) gold, is better to
 Brahma and the rest.
 
 474
@@ -675,4 +675,4 @@ of knowledge (*tatwa*).
 
 ------------------------------------------------------------------------
 
-[Next: 500-599](vov07)
+[Next: 500-599](vov07.md)

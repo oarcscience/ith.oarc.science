@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lasi02)  [Next](lasi04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lasi02)  [Next](lasi04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBUI6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBUI6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Legends and Stories of Ireland*, by Samuel Lover, \[1831, 1834\], at
 Intangible Textual Heritage
 
@@ -396,4 +396,4 @@ betoken, he *said mass for his sowl, and tuk* *care av his goose.*"
 
 ------------------------------------------------------------------------
 
-[Next: Lough Corrib](lasi04)
+[Next: Lough Corrib](lasi04.md)

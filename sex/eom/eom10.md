@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](eom09)  [Next](eom11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](eom09)  [Next](eom11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -415,4 +415,4 @@ as an emblem of purity and truth.
 
 ------------------------------------------------------------------------
 
-[Next: Chap. 9: Procreation of Thought](eom11)
+[Next: Chap. 9: Procreation of Thought](eom11.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai00)  [Next](kwai02) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai00)  [Next](kwai02.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ HORAI
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](kwai02)
+[Next: Introduction](kwai02.md)

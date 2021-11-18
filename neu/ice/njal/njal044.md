@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal043)  [Next](njal045) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal043)  [Next](njal045.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: 45. The Slaying Of Sigmund And Skiolld](njal045)
+[Next: 45. The Slaying Of Sigmund And Skiolld](njal045.md)

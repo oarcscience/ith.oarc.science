@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks04)  [Next](lks06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks04)  [Next](lks06.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 # SHEMHAMPHORASH.
 
-(1.) <span id="img_fig001"></span> [![](tn/generic.jpg)](img/fig001.jpg)
+(1.) <span id="img_fig001"></span> [![](tn/generic.jpg)](img/fig001.jpg.md)
 BAEL.--The First Principal Spirit is a King ruling in the East, called
 Bael. He maketh thee to go Invisible. He ruleth over 66 Legions of
 Infernal Spirits. He appeareth in divers shapes, sometimes like a Cat,
@@ -17,7 +17,7 @@ forms at once. He speaketh hoarsely. This is his character which is used
 to be worn as a Lamen before him who calleth him forth, or else he will
 not do thee homage.
 
-(2.) <span id="img_fig002"></span> [![](tn/generic.jpg)](img/fig002.jpg)
+(2.) <span id="img_fig002"></span> [![](tn/generic.jpg)](img/fig002.jpg.md)
 AGARES.--The Second Spirit is a Duke called Agreas, or Agares. He is
 under the Power of the East, and cometh up in the form of an old fair
 Man, riding upon a Crocodile, carrying a Goshawk upon his fist, and yet
@@ -28,14 +28,14 @@ Earthquakes. He was of the Order of Virtues. He hath under his
 government 31 Legions of Spirits. And this is his Seal or Character
 which thou shalt wear as a Lamen before thee.
 
-(3.) <span id="img_fig003"></span> [![](tn/generic.jpg)](img/fig003.jpg)
+(3.) <span id="img_fig003"></span> [![](tn/generic.jpg)](img/fig003.jpg.md)
 VASSAGO.--The Third Spirit is a Mighty Prince, being of the same nature
 as Agares. He is called Vassago. This Spirit is of a Good Nature, and
 his office is to declare things Past and to Come, and to discover all
 things Hid or Lost. And he governeth 26 Legions of Spirits, and this is
 his Seal.
 
-(4.) <span id="img_fig004"></span> [![](tn/generic.jpg)](img/fig004.jpg)
+(4.) <span id="img_fig004"></span> [![](tn/generic.jpg)](img/fig004.jpg.md)
 SAMIGINA, or GAMIGM.--The Fourth Spirit is Samigina, a Great Marquis. He
 appeareth in the form
 
@@ -47,7 +47,7 @@ He ruleth over 30 Legions of Inferiors. He teaches all Liberal Sciences,
 and giveth account of Dead Souls that died in sin. And his Seal is this,
 which is to be worn before the Magician when he is Invocator, etc.
 
-(5.) <span id="img_fig005"></span> [![](tn/generic.jpg)](img/fig005.jpg)
+(5.) <span id="img_fig005"></span> [![](tn/generic.jpg)](img/fig005.jpg.md)
 MARBAS.--The fifth Spirit is Marbas. He is a Great President, and
 appeareth at first in the form of a Great Lion, but afterwards, at the
 request of the Master, he putteth on Human Shape. He answereth truly of
@@ -56,14 +56,14 @@ giveth great Wisdom and Knowledge in Mechanical Arts; and can change men
 into other shapes. He governeth 36 Legions of Spirits. And his Seal is
 this, which is to be worn as aforesaid.
 
-(6.) <span id="img_fig006"></span> [![](tn/generic.jpg)](img/fig006.jpg)
+(6.) <span id="img_fig006"></span> [![](tn/generic.jpg)](img/fig006.jpg.md)
 VALEFOR.--The Sixth Spirit is Valefor. He is a mighty Duke, and
 appeareth in the shape of a Lion with an Ass's Head, bellowing. He is a
 good Familiar, but tempteth them he is a familiar of to steal. He
 governeth 10 Legions of Spirits. His Seal is this, which is to be worn,
 whether thou wilt have him for a Familiar, or not.
 
-(7.) <span id="img_fig007"></span> [![](tn/generic.jpg)](img/fig007.jpg)
+(7.) <span id="img_fig007"></span> [![](tn/generic.jpg)](img/fig007.jpg.md)
 AMON.--The Seventh Spirit is Amon. He is a Marquis great in power, and
 most stern. He appeareth like a Wolf with a Serpents tail, vomiting out
 of his mouth flames of fire; but at the command of the Magician he
@@ -73,7 +73,7 @@ things Past and to Come. He procureth feuds and reconcileth
 controversies between friends. He governeth 40 Legions of Spirits. His
 Seal is this which is to be worn as aforesaid, etc.
 
-(8.) <span id="img_fig008"></span> [![](tn/generic.jpg)](img/fig008.jpg)
+(8.) <span id="img_fig008"></span> [![](tn/generic.jpg)](img/fig008.jpg.md)
 BARBATOS.--The Eighth Spirit is Barbatos. He is a Great Duke, and
 appeareth when the Sun is in Sagittary,
 
@@ -89,8 +89,8 @@ in Power. He ruleth over 30 Legions of Spirits. His Seal of Obedience is
 this, the which wear before thee as aforesaid.
 
 \(9\) <span id="img_fig009"></span>
-[![](tn/generic.jpg)](img/fig009.jpg) <span id="img_fig010"></span>
-[![](tn/generic.jpg)](img/fig010.jpg) PAIMON.--The Ninth Spirit in this
+[![](tn/generic.jpg)](img/fig009.jpg.md) <span id="img_fig010"></span>
+[![](tn/generic.jpg)](img/fig010.jpg.md) PAIMON.--The Ninth Spirit in this
 Order is Paimon, a Great King, and very obedient unto LUCIFER. He
 appeareth in the form of a Man sitting upon a Dromedary with a Crown
 most glorious upon his head. There goeth before him also an Host of
@@ -104,7 +104,7 @@ where it is; or any other thing thou mayest desire to know. He giveth
 Dignity, and confirmeth the same. He bindeth or maketh any man subject
 unto the Magician if he so desire it. He giveth good Familiars, and such
 as can teach all Arts. He is to be observed towards the West. He is of
-the Order of Dominations. <span id="fr_12"></span>[1](#fn_12) He hath
+the Order of Dominations. <span id="fr_12"></span>[1](#fn_12.md) He hath
 under him 200 Legions of Spirits, and part of them are of the Order of
 Angels, and the other part of Potentates. Now if thou callest this
 Spirit Paimon alone, thou must make him some offering; and
@@ -118,7 +118,7 @@ unless the Magician do compel them. His Character is this which must be
 worn as a Lamen before thee, etc.
 
 (10.) <span id="img_fig011"></span>
-[![](tn/generic.jpg)](img/fig011.jpg) BUER.--The Tenth Spirit is Buer, a
+[![](tn/generic.jpg)](img/fig011.jpg.md) BUER.--The Tenth Spirit is Buer, a
 Great President. He appeareth in Sagittary, and that is his shape when
 the Sun is there. He teaches Philosophy, both Moral and Natural, and the
 Logic Art, and also the Virtues of all Herbs and Plants. He healeth all
@@ -127,7 +127,7 @@ Spirits, and his Character of obedience is this, which thou must wear
 when thou callest him forth unto appearance.
 
 (11.) <span id="img_fig012"></span>
-[![](tn/generic.jpg)](img/fig012.jpg) GUSION.--The Eleventh Spirit in
+[![](tn/generic.jpg)](img/fig012.jpg.md) GUSION.--The Eleventh Spirit in
 order is a great and strong Duke, called Gusion. He appeareth like a
 Xenopilus. He telleth all things, Past, Present, and to Come, and
 showeth the meaning and resolution of all questions thou mayest ask. He
@@ -136,7 +136,7 @@ unto any. He ruleth over 40 Legions of Spirits. His Seal is this, the
 which wear thou as aforesaid.
 
 (12.) <span id="img_fig013"></span>
-[![](tn/generic.jpg)](img/fig013.jpg) SITRI.--The Twelfth Spirit is
+[![](tn/generic.jpg)](img/fig013.jpg.md) SITRI.--The Twelfth Spirit is
 Sitri. He is a Great Prince and appeareth at first with a Leopard's head
 and the Wings of a Gryphon, but after the command of the Master of the
 Exorcism he putteth on Human shape, and that very beautiful. He
@@ -146,8 +146,8 @@ Legions of Spirits. His Seal is this, to be worn as a Lamen before thee,
 etc.
 
 (13.) <span id="img_fig014"></span>
-[![](tn/generic.jpg)](img/fig014.jpg) <span id="img_fig015"></span>
-[![](tn/generic.jpg)](img/fig015.jpg) BELETH.--The Thirteenth Spirit is
+[![](tn/generic.jpg)](img/fig014.jpg.md) <span id="img_fig015"></span>
+[![](tn/generic.jpg)](img/fig015.jpg.md) BELETH.--The Thirteenth Spirit is
 called Beleth
 
 <span id="page_26">p. 26</span>
@@ -165,15 +165,15 @@ and do what he is commanded by the Exorcist. Yet he must receive him
 courteously because he is a Great King, and do homage unto him, as the
 Kings and Princes do that attend upon him. And thou must have always a
 Silver Ring on the middle finger of the left hand held against thy
-face, <span id="fr_13"></span>[1](#fn_13) as they do yet before AMAYMON.
+face, <span id="fr_13"></span>[1](#fn_13.md) as they do yet before AMAYMON.
 This Great King Beleth causeth all the love that may be, both of Men and
 of Women, until the Master Exorcist hath had his desire fulfilled. He is
 of the Order of Powers, and he governeth 85 Legions of Spirits. His
 Noble Seal is this, which is to be worn before thee at working.
 
 (14.) <span id="img_fig016"></span>
-[![](tn/generic.jpg)](img/fig016.jpg) <span id="img_fig017"></span>
-[![](tn/generic.jpg)](img/fig017.jpg) LERAJE, or LERAIKHA.--The
+[![](tn/generic.jpg)](img/fig016.jpg.md) <span id="img_fig017"></span>
+[![](tn/generic.jpg)](img/fig017.jpg.md) LERAJE, or LERAIKHA.--The
 Fourteenth Spirit is called Leraje (or Leraie). He is a Marquis Great in
 Power, showing himself in the likeness of an Archer clad in Green, and
 carrying a Bow and Quiver. He causeth all great Battles and Contests;
@@ -184,7 +184,7 @@ is his Seal, etc.
 <span id="page_27">p. 27</span>
 
 (15.) <span id="img_fig018"></span>
-[![](tn/generic.jpg)](img/fig018.jpg) ELIGOS.--The Fifteenth Spirit in
+[![](tn/generic.jpg)](img/fig018.jpg.md) ELIGOS.--The Fifteenth Spirit in
 Order is Eligos, a Great Duke, and appeareth in the form of a goodly
 Knight, carrying a Lance, an Ensign, and a Serpent. He discovereth
 hidden things, and knoweth things to come; and of Wars, and how the
@@ -192,7 +192,7 @@ Soldiers will or shall meet. He causeth the Love of Lords and Great
 Persons. He governeth 60 Legions of Spirits. His Seal is this, etc.
 
 (16.) <span id="img_fig019"></span>
-[![](tn/generic.jpg)](img/fig019.jpg) ZEPAR.--The Sixteenth Spirit is
+[![](tn/generic.jpg)](img/fig019.jpg.md) ZEPAR.--The Sixteenth Spirit is
 Zepar. He is a Great Duke, and appeareth in Red Apparel and Armour, like
 a Soldier. His office is to cause Women to love Men, and to bring them
 together in love. He also maketh them barren. He governeth 26 Legions of
@@ -200,7 +200,7 @@ Inferior Spirits, and his Seal is this, which he obeyeth when he seeth
 it.
 
 (17.) <span id="img_fig020"></span>
-[![](tn/generic.jpg)](img/fig020.jpg) BOTIS.--The Seventeenth Spirit is
+[![](tn/generic.jpg)](img/fig020.jpg.md) BOTIS.--The Seventeenth Spirit is
 Botis, a Great President, and an Earl. He appeareth at the first show in
 the form of an ugly Viper, then at the command of the Magician he
 putteth on a Human shape with Great Teeth, and two Horns, carrying a
@@ -209,8 +209,8 @@ Come, and reconcileth Friends and Foes. He ruleth over 60 Legions of
 Spirits, and this is his Seal, etc.
 
 (18.) <span id="img_fig021"></span>
-[![](tn/generic.jpg)](img/fig021.jpg) <span id="img_fig022"></span>
-[![](tn/generic.jpg)](img/fig022.jpg) BATHIN.--The Eighteenth Spirit is
+[![](tn/generic.jpg)](img/fig021.jpg.md) <span id="img_fig022"></span>
+[![](tn/generic.jpg)](img/fig022.jpg.md) BATHIN.--The Eighteenth Spirit is
 Bathin. He is a Mighty and Strong Duke, and appeareth like a Strong Man
 with the tail of a Serpent, sitting upon a Pale-Coloured Horse. He
 knoweth the Virtues of Herbs and Precious Stones, and can transport men
@@ -218,7 +218,7 @@ suddenly from one country to another. He ruleth over 30 Legions of
 Spirits. His Seal is this which is to be worn as aforesaid.
 
 (19.) <span id="img_fig023"></span>
-[![](tn/generic.jpg)](img/fig023.jpg) SALLOS.--The Nineteenth Spirit is
+[![](tn/generic.jpg)](img/fig023.jpg.md) SALLOS.--The Nineteenth Spirit is
 Sallos (or Saleos). He is a Great and Mighty Duke, and appeareth in the
 form of a gallant Soldier riding on a Crocodile, with a Ducal Crown on
 his head, but peaceably. He
@@ -229,7 +229,7 @@ causeth the Love of Women to Men, and of Men to Women; and governeth 30
 Legions of Spirits. His Seal is this, etc.
 
 (20.) <span id="img_fig024"></span>
-[![](tn/generic.jpg)](img/fig024.jpg) PURSON.--The Twentieth Spirit is
+[![](tn/generic.jpg)](img/fig024.jpg.md) PURSON.--The Twentieth Spirit is
 Purson, a Great King. His appearance is comely, like a Man with a Lion's
 face, carrying a cruel Viper in his hand, and riding upon a Bear. Going
 before him are many Trumpets sounding. He knoweth all things hidden, and
@@ -242,8 +242,8 @@ Order of Thrones. His Mark, Seal, or Character is this, unto the which
 he oweth obedience, and which thou shalt wear in time of action, etc.
 
 (21.) <span id="img_fig025"></span>
-[![](tn/generic.jpg)](img/fig025.jpg) MARAX.--The Twenty-first Spirit is
-Marax. <span id="fr_14"></span>[1](#fn_14) He is a Great Earl and
+[![](tn/generic.jpg)](img/fig025.jpg.md) MARAX.--The Twenty-first Spirit is
+Marax. <span id="fr_14"></span>[1](#fn_14.md) He is a Great Earl and
 President. He appeareth like a great Bull with a Man's face. His office
 is to make Men very knowing in Astronomy, and all other Liberal
 Sciences; also he can give good Familiars, and wise, knowing the virtues
@@ -252,7 +252,7 @@ Spirits, and his Seal is this, which must be made and worn as aforesaid,
 etc.
 
 (22.) <span id="img_fig026"></span>
-[![](tn/generic.jpg)](img/fig026.jpg) IPOS.--The Twenty-second Spirit is
+[![](tn/generic.jpg)](img/fig026.jpg.md) IPOS.--The Twenty-second Spirit is
 Ipos. He is an Earl, and a Mighty Prince, and appeareth in the form of
 an Angel with a Lion's Head, and a Goose's Foot, and Hare's Tail. He
 knoweth all things Past, Present, and to Come. He maketh men witty and
@@ -264,7 +264,7 @@ He governeth 36 Legions of Spirits. His Seal is this, which thou shalt
 wear, etc.
 
 (23.) <span id="img_fig027"></span>
-[![](tn/generic.jpg)](img/fig027.jpg) AIM.--The Twenty-third Spirit is
+[![](tn/generic.jpg)](img/fig027.jpg.md) AIM.--The Twenty-third Spirit is
 Aim. He is a Great Strong Duke. He appeareth in the form of a very
 handsome Man in body, but with three Heads; the first, like a Serpent,
 the second like a Man having two Stars on his Forehead, the third like a
@@ -275,7 +275,7 @@ matters. He governeth 26 Legions of Inferior Spirits; and his Seal is
 this, which wear thou as aforesaid, etc.
 
 (24.) <span id="img_fig028"></span>
-[![](tn/generic.jpg)](img/fig028.jpg) NABERIUS.--The Twenty-fourth
+[![](tn/generic.jpg)](img/fig028.jpg.md) NABERIUS.--The Twenty-fourth
 Spirit is Naberius. He is a most valiant Marquis, and showeth in the
 form of a Black Crane, fluttering about the Circle, and when he speaketh
 it is with a hoarse voice. He maketh men cunning in all Arts and
@@ -284,7 +284,7 @@ Dignities and Honours. He governeth 19 Legions of Spirits. His Seal is
 this, which is to be worn, etc.
 
 (25.) <span id="img_fig029"></span>
-[![](tn/generic.jpg)](img/fig029.jpg) GLASYA-LABOLAS.--The Twenty-fifth
+[![](tn/generic.jpg)](img/fig029.jpg.md) GLASYA-LABOLAS.--The Twenty-fifth
 Spirit is Glasya-Labolas. He is a Mighty President and Earl, and showeth
 himself in the form of a Dog with Wings like a Gryphon. He teacheth all
 Arts and Sciences in an instant, and is an Author of Bloodshed and
@@ -294,8 +294,8 @@ Invisible. And he hath under his command 36 Legions of Spirits. His Seal
 is this, to be, etc.
 
 (26.) <span id="img_fig030"></span>
-[![](tn/generic.jpg)](img/fig030.jpg) <span id="img_fig031"></span>
-[![](tn/generic.jpg)](img/fig031.jpg) BUNE, or BIMÉ.--The Twenty-sixth
+[![](tn/generic.jpg)](img/fig030.jpg.md) <span id="img_fig031"></span>
+[![](tn/generic.jpg)](img/fig031.jpg.md) BUNE, or BIMÉ.--The Twenty-sixth
 Spirit is Buné (or Bim). He is a Strong, Great and Mighty Duke. He
 appeareth in the form of a Dragon with
 
@@ -308,18 +308,18 @@ your Sepulchres. He giveth Riches unto a Man, and maketh him Wise and
 Eloquent. He giveth true Answers unto Demands. And he governeth 30
 Legions of Spirits. His Seal is this, unto the which he oweth Obedience.
 He hath another Seal (which is the first of these, <span
-id="fr_15"></span>[1](#fn_15) but the last is the best) <span
-id="fr_16"></span>[2](#fn_16)
+id="fr_15"></span>[1](#fn_15) but the last is the best.md) <span
+id="fr_16"></span>[2](#fn_16.md)
 
 (27.) <span id="img_fig032"></span>
-[![](tn/generic.jpg)](img/fig032.jpg) RONOVÉ.--The Twenty-seventh Spirit
+[![](tn/generic.jpg)](img/fig032.jpg.md) RONOVÉ.--The Twenty-seventh Spirit
 is Ronové. He appeareth in the Form of a Monster. He teacheth the Art of
 Rhetoric very well and giveth Good Servants, Knowledge of Tongues, and
 Favours with Friends or Foes. He is a Marquis and Great Earl; and there
 be under his command 19 Legions of Spirits. His Seal is this, etc.
 
 (28.) <span id="img_fig033"></span>
-[![](tn/generic.jpg)](img/fig033.jpg) BERITH.--The Twenty-eighth Spirit
+[![](tn/generic.jpg)](img/fig033.jpg.md) BERITH.--The Twenty-eighth Spirit
 in Order, as Solomon bound them, is named Berith. He is a Mighty, Great,
 and Terrible Duke. He hath two other Names given unto him by men of
 later times, viz.: BEALE, or BEAL, and BOFRY or BOLFRY. He appeareth in
@@ -327,13 +327,13 @@ the Form of a Soldier with Red Clothing, riding upon a Red Horse, and
 having a Crown of Gold upon his head. He giveth true answers, Past,
 Present, and to Come. Thou must make use of a Ring in calling him forth,
 as is before spoken of regarding Beleth. <span
-id="fr_17"></span>[3](#fn_17) He can turn all metals into Gold. He can
+id="fr_17"></span>[3](#fn_17.md) He can turn all metals into Gold. He can
 give Dignities, and can confirm them unto Man. He speaketh with a very
 clear and subtle Voice. He governeth 26 Legions of Spirits. His Seal is
 this, etc.
 
 (29.) <span id="img_fig034"></span>
-[![](tn/generic.jpg)](img/fig034.jpg) ASTAROTH.--The Twenty.--ninth
+[![](tn/generic.jpg)](img/fig034.jpg.md) ASTAROTH.--The Twenty.--ninth
 Spirit is Astaroth. He is a Mighty, Strong Duke, and appeareth in
 
 <span id="page_31">p. 31</span>
@@ -350,7 +350,7 @@ ruleth 40 Legions of Spirits. His Seal is this, which wear thou as a
 Lamen before thee, or else he will not appear nor yet obey thee, etc.
 
 (30.) <span id="img_fig035"></span>
-[![](tn/generic.jpg)](img/fig035.jpg) FORNEUS.--The Thirtieth Spirit is
+[![](tn/generic.jpg)](img/fig035.jpg.md) FORNEUS.--The Thirtieth Spirit is
 Forneus. He is a Mighty and Great Marquis, and appeareth in the Form of
 a Great Sea-Monster. He teacheth, and maketh men wonderfully knowing in
 the Art of Rhetoric. He causeth men to have a Good Name, and to have the
@@ -360,12 +360,12 @@ partly of the Order of Thrones, and partly of that of Angels. His Seal
 is this, which wear thou, etc.
 
 (31.) <span id="img_fig036"></span>
-[![](tn/generic.jpg)](img/fig036.jpg) FORAS.--The Thirty-first Spirit is
+[![](tn/generic.jpg)](img/fig036.jpg.md) FORAS.--The Thirty-first Spirit is
 Foras. He is a Mighty President, and appeareth in the Form of a Strong
 Man in Human Shape. He can give the understanding to Men how they may
 know the Virtues of all Herbs and Precious Stones. He teacheth the Arts
 of Logic and Ethics in all their parts. If desired he maketh men
-invisible, <span id="fr_18"></span>[1](#fn_18) and to live long, and to
+invisible, <span id="fr_18"></span>[1](#fn_18.md) and to live long, and to
 be eloquent. He
 
 <span id="page_32">p. 32</span>
@@ -374,7 +374,7 @@ can discover Treasures and recover things Lost. He ruleth over 29
 Legions of Spirits, and his Seal is this, which wear thou, etc.
 
 (32.) <span id="img_fig037"></span>
-[![](tn/generic.jpg)](img/fig037.jpg) ASMODAY.--The Thirty-second Spirit
+[![](tn/generic.jpg)](img/fig037.jpg.md) ASMODAY.--The Thirty-second Spirit
 is Asmoday, or Asmodai. He is a Great King, Strong, and Powerful. He
 appeareth with Three Heads, whereof the first is like a Bull, the second
 like a Man, and the third like a Ram; he bath also the tail of a
@@ -396,7 +396,7 @@ Legions of Spirits Inferior. His Seal is this which thou must wear as a
 Lamen upon thy breast, etc.
 
 (33.) <span id="img_fig038"></span>
-[![](tn/generic.jpg)](img/fig038.jpg) GAAP.--The Thirty-third Spirit is
+[![](tn/generic.jpg)](img/fig038.jpg.md) GAAP.--The Thirty-third Spirit is
 Gaap. He is a Great President and a Mighty Prince. He appeareth when the
 Sun is in some of the Southern Signs, in a Human Shape, going before
 Four Great and Mighty Kings, as if he were a Guide to conduct them along
@@ -416,7 +416,7 @@ Potentates. His Seal is this to be made and to be worn as aforesaid,
 etc.
 
 (34.) <span id="img_fig039"></span>
-[![](tn/generic.jpg)](img/fig039.jpg) FURFUR.--The Thirty-fourth Spirit
+[![](tn/generic.jpg)](img/fig039.jpg.md) FURFUR.--The Thirty-fourth Spirit
 is Furfur. He is a Great and Mighty Earl, appearing in the Form of an
 Hart with a Fiery Tail. He never speaketh truth unless he be compelled,
 or brought up within a triangle, △. Being therein, he will take upon
@@ -427,9 +427,9 @@ he giveth True Answers both of Things Secret and Divine, if commanded.
 He ruleth over 26 Legions of Spirits. And his Seal is this, etc.
 
 (35.) <span id="img_fig040"></span>
-[![](tn/generic.jpg)](img/fig040.jpg) MARCHOSIAS.--The Thirty-fifth
+[![](tn/generic.jpg)](img/fig040.jpg.md) MARCHOSIAS.--The Thirty-fifth
 Spirit is Marchosias. He is a Great and Mighty Marquis, appearing at
-first in the Form of a Wolf <span id="fr_19"></span>[1](#fn_19) having
+first in the Form of a Wolf <span id="fr_19"></span>[1](#fn_19.md) having
 Gryphon's Wings, and a Serpent's Tail, and Vomiting Fire out of his
 mouth. But after a time, at the command of the Exorcist he putteth on
 the Shape of a Man. And be is a strong fighter. He was of the Order of
@@ -442,7 +442,7 @@ Seventh Throne. And his Seal is this, to be made and worn as a Lamen,
 etc.
 
 (36.) <span id="img_fig041"></span>
-[![](tn/generic.jpg)](img/fig041.jpg) STOLAS, OR STOLOS.--The
+[![](tn/generic.jpg)](img/fig041.jpg.md) STOLAS, OR STOLOS.--The
 Thirty-sixth Spirit is Stolas, or Stolos. He is a Great and Powerful
 Prince, appearing in the Shape of a Mighty Raven at first before the
 Exorcist; but after he taketh the image of a Man. He teacheth the Art of
@@ -450,7 +450,7 @@ Astronomy, and the Virtues of Herbs and Precious Stones. He governeth 26
 Legions of Spirits; and his Seal is this, which is, etc.
 
 (37.) <span id="img_fig042"></span>
-[![](tn/generic.jpg)](img/fig042.jpg) PHENEX.--The Thirty-Seventh Spirit
+[![](tn/generic.jpg)](img/fig042.jpg.md) PHENEX.--The Thirty-Seventh Spirit
 is Phenex (or Pheynix). He is a great Marquis, and appeareth like the
 Bird Phoenix, having the Voice of a Child. He singeth many sweet notes
 before the Exorcist, which he must not regard, but by-and-by he must bid
@@ -462,16 +462,16 @@ governeth 20 Legions of Spirits. And his Seal is this, which wear thou,
 etc.
 
 (38.) <span id="img_fig043"></span>
-[![](tn/generic.jpg)](img/fig043.jpg) HALPHAS, or MALTHUS.--The
+[![](tn/generic.jpg)](img/fig043.jpg.md) HALPHAS, or MALTHUS.--The
 Thirty-eighth Spirit is Halphas, or Malthous (or Malthas). He is a Great
 Earl, and appeareth in the Form of a Stock-Dove. He speaketh with a
 hoarse Voice. His Office is to build up Towers, and to furnish them with
 Ammunition and Weapons, and to send Men-of-War <span
-id="fr_20"></span>[1](#fn_20) to places appointed. He ruleth over 26
+id="fr_20"></span>[1](#fn_20.md) to places appointed. He ruleth over 26
 Legions of Spirits, and his Seal is this, etc.
 
 (39.) <span id="img_fig044"></span>
-[![](tn/generic.jpg)](img/fig044.jpg) MALPHAS.--The Thirty-ninth Spirit
+[![](tn/generic.jpg)](img/fig044.jpg.md) MALPHAS.--The Thirty-ninth Spirit
 is Malphas. He appeareth at first like a Crow, but after he will put on
 Human Shape at the request of the Exorcist, and
 
@@ -485,7 +485,7 @@ and willingly, but he will deceive him that doth it. He governeth 40
 Legions of Spirits, and his Seal is this, etc.
 
 (40.) <span id="img_fig045"></span>
-[![](tn/generic.jpg)](img/fig045.jpg) RAUM.--The Fortieth Spirit is
+[![](tn/generic.jpg)](img/fig045.jpg.md) RAUM.--The Fortieth Spirit is
 Räum. He is a Great Earl; and appeareth at first in the Form of a Crow,
 but after the Command of the Exorcist he putteth on Human Shape. His
 office is to steal Treasures out King's Houses, and to carry it whither
@@ -496,7 +496,7 @@ between Friends and Foes. He was of the Order of Thrones. He governeth
 aforesaid.
 
 (41.) <span id="img_fig046"></span>
-[![](tn/generic.jpg)](img/fig046.jpg) FOCALOR.--The Forty-first Spirit
+[![](tn/generic.jpg)](img/fig046.jpg.md) FOCALOR.--The Forty-first Spirit
 is Focalor, or Forcalor, or Furcalor. He is a Mighty Duke and Strong. He
 appeareth in the Form of a Man with Gryphon's Wings. His office is to
 slay Men, and to drown them in the Waters, and to overthrow Ships of
@@ -506,8 +506,8 @@ also hath hopes to return to the Seventh Throne after 1,000 years. He
 governeth 30 Legions of Spirits, and his Seal is this, etc.
 
 (42.) <span id="img_fig047"></span>
-[![](tn/generic.jpg)](img/fig047.jpg) <span id="img_fig048"></span>
-[![](tn/generic.jpg)](img/fig048.jpg) VEPAR.--The Forty-second Spirit is
+[![](tn/generic.jpg)](img/fig047.jpg.md) <span id="img_fig048"></span>
+[![](tn/generic.jpg)](img/fig048.jpg.md) VEPAR.--The Forty-second Spirit is
 Vepar, or Vephar. He is a Duke Great and Strong and appeareth like a
 Mermaid. His office is to govern the Waters, and to guide Ships laden
 with Arms, Armour, and Ammunition, etc., thereon. And at the request of
@@ -520,7 +520,7 @@ Wounds or Sores, and causing Worms to breed in them. He governeth 29
 Legions of Spirits, and his Seal is this, etc.
 
 (43.) <span id="img_fig049"></span>
-[![](tn/generic.jpg)](img/fig049.jpg) SABNOCK.--The Forty-third Spirit,
+[![](tn/generic.jpg)](img/fig049.jpg.md) SABNOCK.--The Forty-third Spirit,
 as King Solomon commanded them into the Vessel of Brass, is called
 Sabnock, or Savnok. He is a Marquis, Mighty, Great and Strong, appearing
 in the Form of an Armed Soldier with a Lion's Head, riding on a
@@ -531,7 +531,7 @@ giveth Good Familiars at the request of the Exorcist. He commandeth 50
 Legions of Spirits; and his Seal is this, etc.
 
 (44.) <span id="img_fig050"></span>
-[![](tn/generic.jpg)](img/fig050.jpg) SHAN.--The Forty-fourth Spirit is
+[![](tn/generic.jpg)](img/fig050.jpg.md) SHAN.--The Forty-fourth Spirit is
 Shax, or Shaz (or Shass). He is a Great Marquis and appeareth in the
 Form of a Stock-Dove, speaking with a voice hoarse, but yet subtle. His
 Office is to take away the Sight, Hearing, or Understanding of any Man
@@ -545,9 +545,9 @@ sometimes. He governeth 30 Legions of Spirits, and his Seal is this,
 etc.
 
 (45.) <span id="img_fig051"></span>
-[![](tn/generic.jpg)](img/fig051.jpg) VINÉ.--The Forty-fifth Spirit is
+[![](tn/generic.jpg)](img/fig051.jpg.md) VINÉ.--The Forty-fifth Spirit is
 Viné, or Vinea. He is a Great King, and an Earl; and appeareth in the
-Form of a Lion, <span id="fr_21"></span>[1](#fn_21) riding upon a Black
+Form of a Lion, <span id="fr_21"></span>[1](#fn_21.md) riding upon a Black
 Horse, and bearing
 
 <span id="page_37">p. 37</span>
@@ -559,7 +559,7 @@ the Waters rough with Storms. He governeth 36 Legions of Spirits. And
 his Seal is this, which wear thou, as aforesaid, etc.
 
 (46.) <span id="img_fig052"></span>
-[![](tn/generic.jpg)](img/fig052.jpg) BIFRONS.--The Forty-sixth Spirit
+[![](tn/generic.jpg)](img/fig052.jpg.md) BIFRONS.--The Forty-sixth Spirit
 is called Bifrons, or Bifröus, or Bifrovs. He is an Earl, and appeareth
 in the Form of a Monster; but after a while, at the Command of the
 Exorcist, he putteth on the shape of a Man. His Office is to make one
@@ -570,13 +570,13 @@ Graves of the Dead. He hath under his Command 6 Legions of Spirits. His
 Seal is this, which he will own and submit unto, etc.
 
 (47.) <span id="img_fig053"></span>
-[![](tn/generic.jpg)](img/fig053.jpg) <span id="img_fig054"></span>
-[![](tn/generic.jpg)](img/fig054.jpg) UVALL, VUAL, or VOVAL.--The
+[![](tn/generic.jpg)](img/fig053.jpg.md) <span id="img_fig054"></span>
+[![](tn/generic.jpg)](img/fig054.jpg.md) UVALL, VUAL, or VOVAL.--The
 Forty-seventh Spirit Uvall, or Vual, or Voval. He is a Duke, Great,
 Mighty, and Strong; and appeareth in the Form of a Mighty Dromedary at
 the first, but after a while at the Command of the Exorcist he putteth
 on Human Shape, and speaketh the Egyptian Tongue, but not
-perfectly. <span id="fr_22"></span>[1](#fn_22) His Office is to procure
+perfectly. <span id="fr_22"></span>[1](#fn_22.md) His Office is to procure
 the Love of Woman, and to tell Things Past, Present, and to Come. He
 also procureth Friendship between Friends and Foes. He was of the Order
 of Potestates or Powers. He governeth 37 Legions of Spirits, and his
@@ -585,7 +585,7 @@ Seal is this, to be made and worn before thee, etc.
 <span id="page_38">p. 38</span>
 
 (48.) <span id="img_fig055"></span>
-[![](tn/generic.jpg)](img/fig055.jpg) HAAGENTI.--The Forty-eighth Spirit
+[![](tn/generic.jpg)](img/fig055.jpg.md) HAAGENTI.--The Forty-eighth Spirit
 is Haagenti. He is a President, appearing in the Form of a Mighty Bull
 with Gryphon's Wings. This is at first, but after, at the Command of the
 Exorcist he putteth on Human Shape. His Office is to make Men wise, and
@@ -594,7 +594,7 @@ Gold; and to change Wine into Water, and Water into Wine. He governeth
 33 Legions of Spirits, and his Seal is this, etc.
 
 (49.) <span id="img_fig056"></span>
-[![](tn/generic.jpg)](img/fig056.jpg) CROCELL.--The Forty-ninth Spirit
+[![](tn/generic.jpg)](img/fig056.jpg.md) CROCELL.--The Forty-ninth Spirit
 is Crocell, or Crokel. He appeareth in the Form of an Angel. He is a
 Duke Great and Strong, speaking something Mystically of Hidden Things.
 He teacheth the Art of Geometry and the Liberal Sciences. He, at the
@@ -605,7 +605,7 @@ he declared unto the King Solomon. He governeth 48 Legions of Spirits.
 His Seal is this, the which wear thou as aforesaid.
 
 (50.) <span id="img_fig057"></span>
-[![](tn/generic.jpg)](img/fig057.jpg) FURCAS.--The Fiftieth Spirit is
+[![](tn/generic.jpg)](img/fig057.jpg.md) FURCAS.--The Fiftieth Spirit is
 Furcas. He is a Knight, and appeareth in the Form of a Cruel Old Man
 with a long Beard and a hoary Head, riding upon a pale-coloured Horse,
 with a Sharp Weapon in his hand. His Office is to teach the Arts of
@@ -614,7 +614,7 @@ all their parts, and perfectly. He hath under his Power 20 Legions of
 Spirits. His Seal, or Mark, is thus made, etc.
 
 (51.) <span id="img_fig058"></span>
-[![](tn/generic.jpg)](img/fig058.jpg) BALAM.--The Fifty-first Spirit is
+[![](tn/generic.jpg)](img/fig058.jpg.md) BALAM.--The Fifty-first Spirit is
 Balam or Balaam. He is a Terrible, Great, and Powerful King. He
 appeareth with three Heads: the first is like that of a Bull; the second
 is like that of a Man; the third is like that of a Ram. He hath the Tail
@@ -628,18 +628,18 @@ to go Invisible, and also to be Witty. He governeth 40 Legions of
 Spirits. His Seal is this, etc.
 
 (52.) <span id="img_fig059"></span>
-[![](tn/generic.jpg)](img/fig059.jpg) ALLOCES.--The Fifty-second Spirit
+[![](tn/generic.jpg)](img/fig059.jpg.md) ALLOCES.--The Fifty-second Spirit
 is Alloces, or Alocas. He is a Duke, Great, Mighty, and Strong,
-appearing in the Form of a Soldier <span id="fr_23"></span>[1](#fn_23)
+appearing in the Form of a Soldier <span id="fr_23"></span>[1](#fn_23.md)
 riding upon a Great Horse. His Face is like that of a Lion, very Red,
 and having Flaming Eyes. His Speech is hoarse and very big. <span
-id="fr_24"></span>[2](#fn_24) His Office is to teach the Art of
+id="fr_24"></span>[2](#fn_24.md) His Office is to teach the Art of
 Astronomy, and all the Liberal Sciences. He bringeth unto thee Good
 Familiars; also he ruleth over 36 Legions of Spirits. His Seal is this,
 which, etc.
 
 (53.) <span id="img_fig060"></span>
-[![](tn/generic.jpg)](img/fig060.jpg) CAMIO or CAIM.--The Fifty-third
+[![](tn/generic.jpg)](img/fig060.jpg.md) CAMIO or CAIM.--The Fifty-third
 Spirit is Camio, or Caim. He is a Great President, and appeareth in the
 Form of the Bird called a Thrush at first, but afterwards he putteth on
 the Shape of a Man carrying in his Hand a Sharp Sword. He seemeth to
@@ -651,7 +651,7 @@ Order of Angels, but now ruleth over 30 Legions of Spirits Infernal. His
 Seal is this, which wear thou, etc.
 
 (54.) <span id="img_fig061"></span>
-[![](tn/generic.jpg)](img/fig061.jpg) MURMUR, or MURMUS.--The
+[![](tn/generic.jpg)](img/fig061.jpg.md) MURMUR, or MURMUS.--The
 Fifty-fourth Spirit is called Murmur, or Murmus, or Murmux. He is a
 Great Duke, and an Earl; and appeareth in the Form of a Warrior riding
 upon a Gryphon, with a Ducal Crown upon his Head. There do go before him
@@ -666,7 +666,7 @@ He was partly of the Order of Thrones, and partly of that of Angels. He
 now ruleth 30 Legions of Spirits. And his Seal is this, etc.
 
 (55.) <span id="img_fig062"></span>
-[![](tn/generic.jpg)](img/fig062.jpg) OROBAS.--The Fifty-fifth Spirit is
+[![](tn/generic.jpg)](img/fig062.jpg.md) OROBAS.--The Fifty-fifth Spirit is
 Orobas. He is a great and Mighty Prince, appearing at first like a
 Horse; but after the command of the Exorcist he putteth on the Image of
 a Man. His Office is to discover all things Past, Present, and to Come;
@@ -677,7 +677,7 @@ be tempted of any Spirit. He governeth 20 Legions of Spirits. His Seal
 is this, etc.
 
 \(56\) <span id="img_fig063"></span>
-[![](tn/generic.jpg)](img/fig063.jpg) GREMORY, or GAMORI.--The
+[![](tn/generic.jpg)](img/fig063.jpg.md) GREMORY, or GAMORI.--The
 Fifty-sixth Spirit is Gremory, or Gamori. He is a Duke Strong and
 Powerful, and appeareth in the Form of a Beautiful Woman, with a
 Duchess's Crown tied about her waist, and riding on a Great Camel. His
@@ -687,7 +687,7 @@ both Young and Old. He governeth 26 Legions of Spirits, and his Seal is
 this, etc.
 
 (57.) <span id="img_fig064"></span>
-[![](tn/generic.jpg)](img/fig064.jpg) OSÉ, or VOSO.--The Fifty-seventh
+[![](tn/generic.jpg)](img/fig064.jpg.md) OSÉ, or VOSO.--The Fifty-seventh
 Spirit is Oso, Osé, or Voso. He is a Great President, and appeareth like
 a Leopard at the first, but after a little time he putteth on the Shape
 of a Man. His Office is to make one cunning in the Liberal Sciences, and
@@ -698,24 +698,24 @@ into any Shape that the Exorcist pleaseth, so that
 
 he that is so changed will not think any other thing than that he is in
 verity that Creature or Thing he is changed into. He governeth 30  <span
-id="fr_25"></span>[1](#fn_25) Legions of Spirits, and this is his Seal,
+id="fr_25"></span>[1](#fn_25.md) Legions of Spirits, and this is his Seal,
 etc.
 
 (58.) <span id="img_fig065"></span>
-[![](tn/generic.jpg)](img/fig065.jpg) AMY, or AVNAS.--The Fifty-eighth
+[![](tn/generic.jpg)](img/fig065.jpg.md) AMY, or AVNAS.--The Fifty-eighth
 Spirit is Amy, or Avnas. He is a Great President, and appeareth at first
 in the Form of a Flaming Fire; but after a while he putteth on the Shape
 of a Man. His office is to make one Wonderful Knowing <span
-id="fr_26"></span>[2](#fn_26) in Astrology and all the Liberal Sciences.
+id="fr_26"></span>[2](#fn_26.md) in Astrology and all the Liberal Sciences.
 He giveth Good Familiars, and can bewray Treasure that is kept by
 Spirits. He governeth 36 Legions of Spirits, and his Seal is this, etc.
 
 (59.) <span id="img_fig066"></span>
-[![](tn/generic.jpg)](img/fig066.jpg) ORIAX, or ORIAS.--The Fifty-ninth
+[![](tn/generic.jpg)](img/fig066.jpg.md) ORIAX, or ORIAS.--The Fifty-ninth
 Spirit is Oriax, or Orias. He is a Great Marquis, and appeareth in the
-Form of a Lion, <span id="fr_27"></span>[3](#fn_27) riding upon a Horse
+Form of a Lion, <span id="fr_27"></span>[3](#fn_27.md) riding upon a Horse
 Mighty and Strong, with a Serpent's Tail; <span
-id="fr_28"></span>[4](#fn_28) and he holdeth in his Right Hand two Great
+id="fr_28"></span>[4](#fn_28.md) and he holdeth in his Right Hand two Great
 Serpents hissing. His Office is to teach the Virtues of the Stars, and
 to know the Mansions of the Planets, and how to understand their
 Virtues. He also transformeth Men, and he giveth Dignities, Prelacies,
@@ -723,7 +723,7 @@ and Confirmation thereof; also Favour with Friends and with Foes. He
 doth govern 30 Legions of Spirits; and his Seal is this, etc.
 
 (60.) <span id="img_fig067"></span>
-[![](tn/generic.jpg)](img/fig067.jpg) VAPULA, or NAPHULA.--The Sixtieth
+[![](tn/generic.jpg)](img/fig067.jpg.md) VAPULA, or NAPHULA.--The Sixtieth
 Spirit is Vapula, or Naphula. He is a Duke Great, Mighty, and Strong;
 appearing in the Form of a Lion with Gryphon's Wings. His Office is to
 make Men Knowing in all Handcrafts and Professions, also in Philosophy,
@@ -735,7 +735,7 @@ his Seal or Character is thus made, and thou shalt wear it as aforesaid,
 etc.
 
 (61.) <span id="img_fig068"></span>
-[![](tn/generic.jpg)](img/fig068.jpg) ZAGAN.--The Sixty-first Spirit is
+[![](tn/generic.jpg)](img/fig068.jpg.md) ZAGAN.--The Sixty-first Spirit is
 Zagan. He is a Great King and President, appearing at first in the Form
 of a Bull with Gryphon's Wings; but after a while he putteth on Human
 Shape. He maketh Men Witty. He can turn Wine into Water, and Blood into
@@ -744,7 +744,7 @@ Dominion that Metal is of. He can even make Fools wise. He governeth 33
 Legions of Spirits, and his Seal is this, etc.
 
 (62.) <span id="img_fig069"></span>
-[![](tn/generic.jpg)](img/fig069.jpg) VOLAC, or VALAX, or VALU, or
+[![](tn/generic.jpg)](img/fig069.jpg.md) VOLAC, or VALAX, or VALU, or
 UALAC.--The Sixty-second Spirit is Volac, or Valak, or Valu. He is a
 President Mighty and Great, and appeareth like a Child with Angel's
 Wings, riding on a Two-headed Dragon. His Office is to give True Answers
@@ -753,7 +753,7 @@ he will bring unto the Exorciser without any Force or Strength being by
 him employed. He governeth 38 Legions of Spirits, and his Seal is thus.
 
 (63.) <span id="img_fig070"></span>
-[![](tn/generic.jpg)](img/fig070.jpg) ANDRAS.--The Sixty-third Spirit is
+[![](tn/generic.jpg)](img/fig070.jpg.md) ANDRAS.--The Sixty-third Spirit is
 Andras. He is a Great Marquis, appearing in the Form of an Angel with a
 Head like a Black Night Raven, riding upon a strong Black Wolf, and
 having a Sharp and Bright Sword flourished aloft in his hand. His Office
@@ -762,7 +762,7 @@ him and his fellows. He governeth 30 Legions of Spirits, and this is his
 Seal, etc.
 
 (64.) <span id="img_fig071"></span>
-[![](tn/generic.jpg)](img/fig071.jpg) HAURES, or HAURAS, or HAVRES, or
+[![](tn/generic.jpg)](img/fig071.jpg.md) HAURES, or HAURAS, or HAVRES, or
 FLAUROS.--The Sixty-fourth Spirit is Haures, or Hauras, or Havres, or
 Flauros. He is a Great Duke, and appeareth at first like a Leopard,
 Mighty, Terrible, and Strong, but after a while, at the Command of the
@@ -781,7 +781,7 @@ tempted by any other Spirit or otherwise. He governeth 36 Legions of
 Spirits, and his Seal is this, to be worn as a Lamen, etc.
 
 (65.) <span id="img_fig072"></span>
-[![](tn/generic.jpg)](img/fig072.jpg) ANDREALPHUS.--The Sixty-fifth
+[![](tn/generic.jpg)](img/fig072.jpg.md) ANDREALPHUS.--The Sixty-fifth
 Spirit is Andrealphus. He is a Mighty Marquis, appearing at first in the
 form of a Peacock, with great Noises. But after a time he putteth on
 Human shape. He can teach Geometry perfectly. He maketh Men very subtle
@@ -790,7 +790,7 @@ can transform a Man into the Likeness of a Bird. He governeth 30 Legions
 of Infernal Spirits, and his Seal is this, etc.
 
 (66.) <span id="img_fig073"></span>
-[![](tn/generic.jpg)](img/fig073.jpg) CIMEJES, or CIMEIES, or
+[![](tn/generic.jpg)](img/fig073.jpg.md) CIMEJES, or CIMEIES, or
 KIMARIS.--The Sixty-sixth Spirit is Cimejes, or Cimeies, or Kimaris. He
 is a Marquis, Mighty, Great, Strong and Powerful, appearing like a
 Valiant Warrior riding upon a goodly Black Horse. He ruleth over all
@@ -800,7 +800,7 @@ Treasures. He governeth 20 Legions of Infernals; and his Seal is this,
 etc.
 
 (67.) <span id="img_fig074"></span>
-[![](tn/generic.jpg)](img/fig074.jpg) AMDUSIAS, or AMDUKIAS.--The
+[![](tn/generic.jpg)](img/fig074.jpg.md) AMDUSIAS, or AMDUKIAS.--The
 Sixty-seventh Spirit is Amdusias, or Amdukias. He is a Duke Great and
 Strong, appearing at first like a Unicorn, but at the request of the
 Exorcist he standeth before him in Human
@@ -814,7 +814,7 @@ giveth Excellent Familiars. He governeth 29 Legions of Spirits. And his
 Seal is this, etc.
 
 (68.) <span id="img_fig075"></span>
-[![](tn/generic.jpg)](img/fig075.jpg) BELIAL.--The Sixty-eighth Spirit
+[![](tn/generic.jpg)](img/fig075.jpg.md) BELIAL.--The Sixty-eighth Spirit
 is Belial. He is a Mighty and a Powerful King, and was created next
 after LUCIFER. He appeareth in the Form of Two Beautiful Angels sitting
 in a Chariot of Fire. He speaketh with a Comely Voice, and declareth
@@ -829,7 +829,7 @@ hour in the Truth, unless he be con. strained by Divine Power. And his
 Seal is this, which is to be worn as aforesaid, etc.
 
 (69.) <span id="img_fig076"></span>
-[![](tn/generic.jpg)](img/fig076.jpg) DECARABIA.--The Sixty-ninth Spirit
+[![](tn/generic.jpg)](img/fig076.jpg.md) DECARABIA.--The Sixty-ninth Spirit
 is Decarabia. He appeareth in the Form of a Star in a Pentacle, at
 first; but after, at the command of the Exorcist, he putteth on the
 image of a Man. His Office is to discover the Virtues of Birds and
@@ -839,8 +839,8 @@ governeth 30 Legions of Spirits, being himself a Great Marquis. And this
 is his Seal, which is to be worn, etc.
 
 (70.) <span id="img_fig077"></span>
-[![](tn/generic.jpg)](img/fig077.jpg) <span id="img_fig078"></span>
-[![](tn/generic.jpg)](img/fig078.jpg) SEERE, SEAR, or SEIR.--The
+[![](tn/generic.jpg)](img/fig077.jpg.md) <span id="img_fig078"></span>
+[![](tn/generic.jpg)](img/fig078.jpg.md) SEERE, SEAR, or SEIR.--The
 Seventieth Spirit is Seere, Sear, or Seir. He is a Mighty Prince, and
 Powerful, under AMAYMON, King of the East. He appeareth
 
@@ -857,7 +857,7 @@ Exorcist desireth. He governeth 26 Legions of Spirits. And this his Seal
 is to be worn, etc.
 
 (71.) <span id="img_fig079"></span>
-[![](tn/generic.jpg)](img/fig079.jpg) DANTALION.--The Seventy-first
+[![](tn/generic.jpg)](img/fig079.jpg.md) DANTALION.--The Seventy-first
 Spirit is Dantalion. He is a Duke Great and Mighty, appearing in the
 Form of a Man with many Countenances, all Men's and Women's Faces; and
 he hath a Book in his right hand. His Office is to teach all Arts and
@@ -869,7 +869,7 @@ He governeth 36 Legions of Spirits; and this is his Seal, which wear
 thou, etc.
 
 (72.) <span id="img_fig080"></span>
-[![](tn/generic.jpg)](img/fig080.jpg) ANDROMALIUS.--The Seventy-second
+[![](tn/generic.jpg)](img/fig080.jpg.md) ANDROMALIUS.--The Seventy-second
 Spirit in Order is named Andromalius. He is an Earl, Great and Mighty,
 appearing in the Form of a Man holding a Great Serpent in his Hand. His
 Office is to bring back both a Thief, and the Goods which be stolen; and
@@ -900,60 +900,60 @@ Sacrifices unto him, and did worship the Image as their God, etc.
 
 ### Footnotes
 
-<span id="fn_12"></span>[24:1](lks05.htm#fr_12) Or Dominions, as they
+<span id="fn_12"></span>[24:1](lks05.htm#fr_12.md) Or Dominions, as they
 are usually termed.
 
-<span id="fn_13"></span>[26:1](lks05.htm#fr_13) To protect him from the
+<span id="fn_13"></span>[26:1](lks05.htm#fr_13.md) To protect him from the
 flaming breath of the enraged Spirit; the design is given at the end of
 the instructions for the Magical Circle, etc., later on in the Goetia.
 
-<span id="fn_14"></span>[28:1](lks05.htm#fr_14) In some Codices written
+<span id="fn_14"></span>[28:1](lks05.htm#fr_14.md) In some Codices written
 Morax, but I consider the above the correct orthography.
 
-<span id="fn_15"></span>[30:1](lks05.htm#fr_15) Figure 30.
+<span id="fn_15"></span>[30:1](lks05.htm#fr_15.md) Figure 30.
 
-<span id="fn_16"></span>[30:2](lks05.htm#fr_16) Figure 31.
+<span id="fn_16"></span>[30:2](lks05.htm#fr_16.md) Figure 31.
 
-<span id="fn_17"></span>[30:3](lks05.htm#fr_17) See *ante*, Spirit No.
+<span id="fn_17"></span>[30:3](lks05.htm#fr_17.md) See *ante*, Spirit No.
 13.
 
-<span id="fn_18"></span>[31:1](lks05.htm#fr_18) One or two Codices have
+<span id="fn_18"></span>[31:1](lks05.htm#fr_18.md) One or two Codices have
 "invincible," but "invisible" is given in the majority. Yet the form of
 appearance of Foras as a strong man might warrant the former, though
 from the nature of his offices the invincibility would probably be
 rather on the mental than on the physical plane.
 
-<span id="fn_19"></span>[33:1](lks05.htm#fr_19) On one Codex of the
+<span id="fn_19"></span>[33:1](lks05.htm#fr_19.md) On one Codex of the
 seventeenth century, very badly written, it might be read "Ox" instead
 of "Wolf."---TRANS. \[For me he appeared always like an ox, and very
 dazed.--ED.\]
 
-<span id="fn_20"></span>[34:1](lks05.htm#fr_20) Or Warriors, or
+<span id="fn_20"></span>[34:1](lks05.htm#fr_20.md) Or Warriors, or
 Men-at-Arms.
 
-<span id="fn_21"></span>[36:1](lks05.htm#fr_21) Or with the Head of a
+<span id="fn_21"></span>[36:1](lks05.htm#fr_21.md) Or with the Head of a
 Lion, or having a Lion's Head, in some Codices.
 
-<span id="fn_22"></span>[37:1](lks05.htm#fr_22) He can nowadays converse
+<span id="fn_22"></span>[37:1](lks05.htm#fr_22.md) He can nowadays converse
 in sound though colloquial Coptic.--ED.
 
-<span id="fn_23"></span>[39:1](lks05.htm#fr_23) Or Warrior.
+<span id="fn_23"></span>[39:1](lks05.htm#fr_23.md) Or Warrior.
 
-<span id="fn_24"></span>[39:2](lks05.htm#fr_24) Thus expressed in the
+<span id="fn_24"></span>[39:2](lks05.htm#fr_24.md) Thus expressed in the
 Codices.
 
-<span id="fn_25"></span>[41:1](lks05.htm#fr_25) Should be 30. For these
+<span id="fn_25"></span>[41:1](lks05.htm#fr_25.md) Should be 30. For these
 72 Great Spirits of the Book Goetia are all Princes and Leaders of
 numbers.
 
-<span id="fn_26"></span>[41:2](lks05.htm#fr_26) Thus in the actual Text.
+<span id="fn_26"></span>[41:2](lks05.htm#fr_26.md) Thus in the actual Text.
 
-<span id="fn_27"></span>[41:3](lks05.htm#fr_27) Or "with the Face of a
+<span id="fn_27"></span>[41:3](lks05.htm#fr_27.md) Or "with the Face of a
 Lion."
 
-<span id="fn_28"></span>[41:4](lks05.htm#fr_28) The horse, or the
+<span id="fn_28"></span>[41:4](lks05.htm#fr_28.md) The horse, or the
 Markist?--ED.
 
 ------------------------------------------------------------------------
 
-[Next: Observations](lks06)
+[Next: Observations](lks06.md)

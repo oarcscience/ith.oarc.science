@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu06)  [Next](cwiu08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu06)  [Next](cwiu08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -24,14 +24,14 @@ SPACE
 
 *Galileo & Descartes*
 
-I have already mentioned the *Sidereus Nuncius*[1](cwiu16.htm#an_4_1) of
+I have already mentioned the *Sidereus Nuncius*[1](cwiu16.htm#an_4_1.md) of
 Galileo Galilei, a work of which the influence—and the importance—cannot
 be overestimated, a work which announced a series of discoveries more
 strange and more significant than any that had ever been made before.
 Reading it today we can no longer, of course, experience the impact of
 the unheard-of message; yet we can still feel the excitement and pride
 glowing beneath the cool and sober wording of Galileo's
-report:[2](cwiu16.htm#an_4_2)
+report:[2](cwiu16.htm#an_4_2.md)
 
 <div class="iq">
 
@@ -106,7 +106,7 @@ description of an astonishing invention, that of an instrument—the first
 scientific instrument—the *perspicillum*, which made all these
 discoveries possible and enabled Galileo to transcend the limitation
 imposed by nature—or by God—on human senses and human
-knowledge.[3](cwiu16.htm#an_4_3)
+knowledge.[3](cwiu16.htm#an_4_3.md)
 
 No wonder that the *Message of the Stars* was, at first, received with
 misgivings and incredulity, and that it played a decisive part in the
@@ -155,7 +155,7 @@ when they are seen at dawn, stars, even of the first magnitude, appear
 quite small; and even Venus, if seen by daylight, is hardly larger than
 a star of the last magnitude. Daylight, so to say, cuts off their
 luminous fringes; and not only light, but diaphanous clouds or black
-veils and colored glass have the same effect.[5](cwiu16.htm#an_4_5)
+veils and colored glass have the same effect.[5](cwiu16.htm#an_4_5.md)
 
 <div class="iq">
 
@@ -178,7 +178,7 @@ world-system were true—should be as big, nay much bigger, than the whole
 reduces their visible diameter from 2 minutes to 5 seconds and thus
 disposes of the necessity to increase the size of the fixed stars beyond
 that of the sun. Yet the decrease in size is more than compensated by an
-increase in number:[6](cwiu16.htm#an_4_6)
+increase in number:[6](cwiu16.htm#an_4_6.md)
 
 <div class="iq">
 
@@ -209,7 +209,7 @@ out two star-pictures, so that
 &lt;i&gt;Galileo's star-picture of the shield and sword of
 Orion&lt;/i&gt;&lt;br&gt; (from the &lt;i&gt;Sidereus Nuncius&lt;/i&gt;,
 1610)](tn/09300.jpg)  
-Click to enlarge](img/09300.jpg)  
+Click to enlarge](img/09300.jpg.md)  
 FIGURE 4  
 *Galileo's star-picture of the shield and sword of Orion*  
 (from the *Sidereus Nuncius*, 1610)  
@@ -256,11 +256,11 @@ interpretation and adopted the second.
 There is no doubt whatever that Galileo adopted it too, though he very
 seldom asserts it. As a matter of fact he does it only once, in a
 curious passage of his *Letter to Ingoli* where he tells the latter
-that:[7](cwiu16.htm#an_4_7)
+that:[7](cwiu16.htm#an_4_7.md)
 
 <div class="iq">
 
-If it is true, as is commonly held,[8](cwiu16.htm#an_4_8) that the
+If it is true, as is commonly held,[8](cwiu16.htm#an_4_8.md) that the
 highest parts of the universe are reserved for the habitation of
 substances more pure and perfect \[than ourselves\] they \[the fixed
 stars\] will be no less lucid and resplendent than the sun; and yet
@@ -281,7 +281,7 @@ towards infinity, to consider the question as being insoluble. He does
 not hide, of course, that in contradistinction to Ptolemy, Copernicus
 and Kepler, he does not admit the limitation of the world or its
 enclosure by a real *sphere* of fixed stars. Thus in the letter to
-Ingoli already quoted he tells him:[9](cwiu16.htm#an_4_9)
+Ingoli already quoted he tells him:[9](cwiu16.htm#an_4_9.md)
 
 <div class="iq">
 
@@ -303,7 +303,7 @@ from whichever point of the universe you may want to choose.
 
 <span class="contnote">\[paragraph continues\]</span> And, what is more,
 not only is it not proved that they are arranged in a sphere but neither
-Ingoli himself,[10](cwiu16.htm#an_4_10)
+Ingoli himself,[10](cwiu16.htm#an_4_10.md)
 
 <div class="iq">
 
@@ -322,7 +322,7 @@ know where to find or whether it exists at all." He even tells us that
 the Two Greatest World-Systems* from which the last two quotations are
 taken, discussing *ex professo* the distribution of the fixed stars in
 the universe, he does not assert that the stars are scattered in space
-without end:[11](cwiu16.htm#an_4_11)
+without end:[11](cwiu16.htm#an_4_11.md)
 
 <div class="iq">
 
@@ -370,7 +370,7 @@ infinity of space in the *Dialogue*—which had to pass the censorship of
 the Church—and to oppose to it the passage of the letter to Ingoli where
 its possibility is just as strongly asserted. In the *Dialogue*, indeed,
 Galileo tells us, just as Kepler does, that it
-is:[12](cwiu16.htm#an_4_12)
+is:[12](cwiu16.htm#an_4_12.md)
 
 <div class="iq">
 
@@ -380,7 +380,7 @@ and if there were, the star there situated would be imperceptible to us.
 
 </div>
 
-Whereas in the *Letter to Ingoli* he writes:[13](cwiu16.htm#an_4_13)
+Whereas in the *Letter to Ingoli* he writes:[13](cwiu16.htm#an_4_13.md)
 
 <div class="iq">
 
@@ -405,7 +405,7 @@ smaller than a grain of millet in respect to it?
 forget, however, that in the selfsame *Dialogue* where he so
 energetically denied the infinity of space, he makes Salviati tell
 Simplicio—just as he himself had told
-Ingoli—that:[14](cwiu16.htm#an_4_14)
+Ingoli—that:[14](cwiu16.htm#an_4_14.md)
 
 <div class="iq">
 
@@ -417,7 +417,7 @@ and figurate or else infinite and interminate.
 <span class="contnote">\[paragraph continues\]</span> Moreover, we
 cannot reject the testimony of Galileo's *Letter to Liceti*, where,
 coming back to the problem of the finiteness and the infinity of the
-world, he writes:[15](cwiu16.htm#an_4_15)
+world, he writes:[15](cwiu16.htm#an_4_15.md)
 
 <div class="iq">
 
@@ -510,7 +510,7 @@ nothing else but extension and motion.
 The famous Cartesian identification of extension and matter (that is,
 the assertion that "it is not heaviness, or hardness, or color which
 constitutes the nature of body but only
-extension,"[16](cwiu16.htm#an_4_16) in other words, that "nature of
+extension,"[16](cwiu16.htm#an_4_16.md) in other words, that "nature of
 body, taken generally, does not consist in the fact that it is a hard,
 or a heavy, or a colored thing, or a thing that touches our senses in
 any other manner, but only in that it is a *substance* extended in
@@ -548,7 +548,7 @@ farther and denies that there is such a thing at all as "space," an
 entity distinct from "matter" that "fills" it. Matter and space are
 identical and can be distinguished only by abstraction. Bodies are not
 *in space*, but only among other bodies; the space that they "occupy" is
-not anything different from themselves:[17](cwiu16.htm#an_4_17)
+not anything different from themselves:[17](cwiu16.htm#an_4_17.md)
 
 <div class="iq">
 
@@ -571,7 +571,7 @@ of which we determine it.
 <span id="page_103">p. 103</span>
 
 <span class="contnote">\[paragraph continues\]</span> But that, of
-course, is an error. And,[18](cwiu16.htm#an_4_18)
+course, is an error. And,[18](cwiu16.htm#an_4_18.md)
 
 <div class="iq">
 
@@ -584,7 +584,7 @@ or of the species differs from the nature of the individual.
 
 <span class="contnote">\[paragraph continues\]</span> We can, indeed,
 divest and deprive any given body of all its sensible qualities
-and[19](cwiu16.htm#an_4_19)
+and[19](cwiu16.htm#an_4_19.md)
 
 <div class="iq">
 
@@ -597,7 +597,7 @@ one which is called void.
 </div>
 
 <span class="contnote">\[paragraph continues\]</span>
-Thus,[20](cwiu16.htm#an_4_20)
+Thus,[20](cwiu16.htm#an_4_20.md)
 
 <div class="iq">
 
@@ -608,7 +608,7 @@ situated among other bodies.
 
 </div>
 
-Consequently,[21](cwiu16.htm#an_4_21)
+Consequently,[21](cwiu16.htm#an_4_21.md)
 
 <div class="iq">
 
@@ -643,7 +643,7 @@ infinite, or rather—Descartes, indeed, refuses to use this term in
 connection with the world—*indefinite*.
 
 It is clear, of course, that we cannot limit Euclidean space. Thus
-Descartes is perfectly right in pursuing:[22](cwiu16.htm#an_4_22)
+Descartes is perfectly right in pursuing:[22](cwiu16.htm#an_4_22.md)
 
 <div class="iq">
 
@@ -676,7 +676,7 @@ Copernican revolution, but persisted as the opposition of the moving
 world of the sun and the planets to the motionless, fixed stars,
 disappears without trace. The unification and the uniformization of the
 universe in its contents and laws becomes a self-evident
-fact[23](cwiu16.htm#an_4_23)—"The matter of the sky and of the earth is
+fact[23](cwiu16.htm#an_4_23.md)—"The matter of the sky and of the earth is
 one and the same; and there cannot be a plurality of worlds"—at least if
 we take the term "world" in its full sense, in which it was used by
 Greek and mediaeval tradition, as meaning a complete and self-centered
@@ -686,7 +686,7 @@ universe of Giordano Bruno (it is a pity that Descartes does not use
 Bruno's terminology)—there are an infinite number of subordinate and
 interconnected systems, such as our system with its sun and planets,
 immense vortices of matter everywhere identical joining and limiting
-each other in boundless space.[24](cwiu16.htm#an_4_24)
+each other in boundless space.[24](cwiu16.htm#an_4_24.md)
 
 <div class="iq">
 
@@ -733,7 +733,7 @@ the level of our finite understanding that we can neither comprehend nor
 even analyse it completely. Descartes thus rejects as perfectly
 worthless all the discussions about the infinite, especially those *de
 compositione continui*, so popular in the late Middle Ages, and also in
-the xviith century. He tells us that:[25](cwiu16.htm#an_4_25)
+the xviith century. He tells us that:[25](cwiu16.htm#an_4_25.md)
 
 <div class="iq">
 
@@ -774,7 +774,7 @@ absurdity of an actually infinite distance between ourselves and a given
 star, and also the theological objections against the possibility of an
 actually infinite creature. We shall restrict ourselves to the assertion
 that, just as in the series of numbers, so in world-extension we can
-always go on without ever coming to an end:[28](cwiu16.htm#an_4_28)
+always go on without ever coming to an end:[28](cwiu16.htm#an_4_28.md)
 
 <div class="iq">
 
@@ -805,7 +805,7 @@ not, in spite of the fact that we do not understand it in a positive
 way, simply because there are none? Descartes, it is true, tells us that
 God alone is clearly understood by us to be infinite and infinitely,
 that is absolutely, perfect. As for other
-things:[27](cwiu16.htm#an_4_27)
+things:[27](cwiu16.htm#an_4_27.md)
 
 <div class="iq">
 
@@ -829,7 +829,7 @@ from which
 <span id="page_109">p. 109</span>
 
 the passages we have quoted are taken, we find Descartes telling us that
-in order to avoid error,[28](cwiu16.htm#an_4_28)
+in order to avoid error,[28](cwiu16.htm#an_4_28.md)
 
 <div class="iq">
 
@@ -843,7 +843,7 @@ or limits of which we have certain knowledge.
 </div>
 
 The second of these necessary precautions is
-that,[29](cwiu16.htm#an_4_29)
+that,[29](cwiu16.htm#an_4_29.md)
 
 <div class="iq">
 
@@ -870,4 +870,4 @@ and friend of Newton, was to tell him.
 
 ------------------------------------------------------------------------
 
-[Next: V. Indefinite Extension or Infinite Space](cwiu08)
+[Next: V. Indefinite Extension or Infinite Space](cwiu08.md)

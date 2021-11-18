@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc100) 
-[Next](motc102) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc100.md) 
+[Next](motc102.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ equipments, returned to their own country.
 
 ------------------------------------------------------------------------
 
-[Next: 102. The False Warriors Of Chilhowee](motc102)
+[Next: 102. The False Warriors Of Chilhowee](motc102.md)

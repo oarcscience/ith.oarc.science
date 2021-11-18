@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof20)  [Next](sof22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof20)  [Next](sof22.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head19.png"></span> ![Header Chapter XIX.](img/head19.png)
+<span id="img_head19.png"></span> ![Header Chapter XIX.](img/head19.png.md)
 
 ## XIX.
 
@@ -179,6 +179,6 @@ qualifications in all who would participate in its sacred mysteries.
 
 ------------------------------------------------------------------------
 
-[Next: XX. The Symbolism of the Gloves](sof22)
+[Next: XX. The Symbolism of the Gloves](sof22.md)
 
 </div>

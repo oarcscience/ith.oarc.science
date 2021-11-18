@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov07)  [Next](vov09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov07)  [Next](vov09.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ compare a village cur with a sage (or saint, yogee).
 
 603
 
-To the liberal man, the vessels of the [mundane](errata.htm#91) egg will
+To the liberal man, the vessels of the [mundane](errata.htm#91.md) egg will
 fall into his hand. The demigods will become his dependants. Liberality
 becomes the residence of all modes of knowledge. Through liberality no
 grief can befall us in the world.
@@ -62,7 +62,7 @@ should be checked just enough to render it harmless.)
 608
 
 A degraded caste is a caste that has set aside all
-[distinctions](errata.htm#92); the tribe sustains all creatures. Those
+[distinctions](errata.htm#92.md); the tribe sustains all creatures. Those
 who are of such a caste both here and in the next world are the
 Universal prop. (the farmer tribe)
 
@@ -83,14 +83,14 @@ that the sins of the prince fall not on the people?
 
 611
 
-[Would](errata.htm#93) thou you were to look on a cow with affection
+[Would](errata.htm#93.md) thou you were to look on a cow with affection
 like the affection with which you view a woman. The man is so much drawn
-by merit as by [pleasure](errata.htm#94). What can we think of the
+by merit as by [pleasure](errata.htm#94.md). What can we think of the
 conduct of a sinner.
 
 612
 
-All the [excommunication](errata.htm#95) of a Brahmin departs by the
+All the [excommunication](errata.htm#95.md) of a Brahmin departs by the
 (*amrita*) products of the cow (panchagavyam). The faults of a servant
 are removed only by punishment. The impurity (menstrual) of the
 *Lingayath* is all removed by mere smearing with ashes.
@@ -137,7 +137,7 @@ shall be the portion of cruel plunderers.
 
 619
 
-He who the [worthless](errata.htm#96) wretch who after daily exciting at
+He who the [worthless](errata.htm#96.md) wretch who after daily exciting at
 hopes last says I cannot give it, his life is like to a radish. At last
 he loses all power and waits for the favour of others.
 
@@ -145,11 +145,11 @@ he loses all power and waits for the favour of others.
 
 They who compare the breasts of an young woman to balls of flowers--the
 worthless wretches who are captivated in this earth. There is [a
-lump](errata.htm#97) of flesh there--what else is there?
+lump](errata.htm#97.md) of flesh there--what else is there?
 
 621
 
-He who lives after losing his [character](errata.htm#98) be he who he
+He who lives after losing his [character](errata.htm#98.md) be he who he
 may, can he have any distinction? What dog will not lick a dirty dish
 (spittle leaf)?
 
@@ -237,7 +237,7 @@ abode--it is enough.
 
 Unknowing the path of thy future life (transmigrations) and if thou
 consider all thy enjoyments as permanent thou shall be
-[separated](errata.htm#99) like a fish from the water. In the end none
+[separated](errata.htm#99.md) like a fish from the water. In the end none
 but this shall be thy fate; thou shalt melt and perish.
 
 635
@@ -263,7 +263,7 @@ if ye have full faith, thou shalt attain it and not otherwise.
 638
 
 When snakes are performing coition, you may catch them cleverly
-(unrivalled) and in a wonderful [manner](errata.htm#100). But you cannot
+(unrivalled) and in a wonderful [manner](errata.htm#100.md). But you cannot
 get the obstinate together and seize them with a prepared heart.
 
 638
@@ -328,14 +328,14 @@ when he dies shall dwell in heaven.
 
 <span id="page_160">p. 160</span>
 
-The woman who [holds](errata.htm#101) her [husband's](errata.htm#102)
-words [as](errata.htm#103) the chief good and who loves her lord with
+The woman who [holds](errata.htm#101) her [husband's](errata.htm#102.md)
+words [as](errata.htm#103.md) the chief good and who loves her lord with
 affection shall by burning her body fully inherit heaven.
 
 649
 
-Those senseless [corpses](errata.htm#104) who give alms to the re-born
-who have [separated](errata.htm#105) themselves from dung and urine,
+Those senseless [corpses](errata.htm#104.md) who give alms to the re-born
+who have [separated](errata.htm#105.md) themselves from dung and urine,
 these shall be produced again weeping and in sin nor released from
 transmigration. (Spurious)
 
@@ -358,7 +358,7 @@ are void of shame and of manhood. (Spurious)
 The whole race of man is in possession of twelve fruits. (that is, men
 receive in the next birth twelve percent on the sums they bestow in
 alms). But whatever they bestow on Brahmins shall return to them with
-[thirty six](errata.htm#106) percent. (evidently apocryphal)
+[thirty six](errata.htm#106) percent. (evidently apocryphal.md)
 
 653
 
@@ -368,7 +368,7 @@ such an act.
 
 654
 
-If the [possessor](errata.htm#107) loses his possession, this is no
+If the [possessor](errata.htm#107.md) loses his possession, this is no
 fault of the bestower. If the holder enjoys the gift, the giver hence
 derives stability.
 
@@ -395,7 +395,7 @@ ruined if he begins to covet it.
 658
 
 They who recognize (pity not) the nature of the
-[irrational](errata.htm#108) (uneducated) animals and contrive how to
+[irrational](errata.htm#108) (uneducated.md) animals and contrive how to
 take mortgages from them, these are themselves the most brutish in the
 earth.
 
@@ -423,7 +423,7 @@ why should we contract marriage in this fleeting life?
 
 What wisdom can he have who knoweth not knowledge? The fool never shall
 know God. What is the chief God (tatwa) to know the wisdom that is
-[within](errata.htm#109) wisdom?
+[within](errata.htm#109.md) wisdom?
 
 663
 
@@ -535,8 +535,8 @@ know him.
 
 What has palm toddy to do with gentle behaviour; why all this care about
 appearances that are merely with a view to gaining bread? To what end is
-this body, which is [destined](errata.htm#110) to the earth of the
-[cemetery](errata.htm#111).
+this body, which is [destined](errata.htm#110.md) to the earth of the
+[cemetery](errata.htm#111.md).
 
 681
 
@@ -561,7 +561,7 @@ also a drug that quelleth fever.
 <span id="page_168">p. 168</span>
 
 Cattle that fall down in the staggers if they are fired and thus come to
-life again. Shall the milk of fired [buffalo](errata.htm#112) be held
+life again. Shall the milk of fired [buffalo](errata.htm#112.md) be held
 vile.
 
 685
@@ -574,12 +574,12 @@ blood acknowledge the noble?
 
 Numerous as creeds be they are not permanent in the earth. Truth is but
 one in the earth. It consists in leaving every creed and
-[beholding](errata.htm#113) the very deity.
+[beholding](errata.htm#113.md) the very deity.
 
 687
 
 In the real composition (lit. rising) of a cloud within the cloud there
-is thunder [and](errata.htm#114) thunderbolts in abundance. Then to
+is thunder [and](errata.htm#114.md) thunderbolts in abundance. Then to
 understand what "cloud" implies and the might embodied in it is great
 task (revise).
 
@@ -595,11 +595,11 @@ grows. Then surely the seed alone is Viswakarma, the creator.
 Though you hear of him, be not thou ever united to him, If thou see and
 unite with him, your desires will unite in affection. If from merely
 hearing of him thou be united to him, your love will depart. Such is
-love that originates in [hearsay](errata.htm#115) and sight.
+love that originates in [hearsay](errata.htm#115.md) and sight.
 
-[690](errata.htm#116)
+[690](errata.htm#116.md)
 
-The [humility](errata.htm#117) of a mad man is great. The widow when
+The [humility](errata.htm#117.md) of a mad man is great. The widow when
 ruined veils herself, and the son of a prostitute performs the rites
 very duly.
 
@@ -658,8 +658,8 @@ chief thing in the world.
 
 What our own history will be and what those of our connections will be,
 if we wish to hear or see this futurity, the Gods
-[themselves](errata.htm#118) know it not.
+[themselves](errata.htm#118.md) know it not.
 
 ------------------------------------------------------------------------
 
-[Next: 700-799](vov09)
+[Next: 700-799](vov09.md)

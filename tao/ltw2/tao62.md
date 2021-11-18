@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao62)   
-[Previous](tao61)  [Next](tao63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao62.md)   
+[Previous](tao61)  [Next](tao63.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ That is why TAO is honored by all the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 63](tao63)
+[Next: Chapter 63](tao63.md)

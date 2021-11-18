@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap04) [Next](chap06)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap04) [Next](chap06.md)
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ are represented, each holding a key in his hand.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](chap06)
+[Next: Chapter 6](chap06.md)

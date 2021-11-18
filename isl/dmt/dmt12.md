@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt11)  [Next](dmt13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt11)  [Next](dmt13.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,7 +204,7 @@ and their methods as his last words.
 <span id="page_193">p. 193</span>
 
 A few words only need be given to al-Mataridi. The creed of an-Nasafi in
-the Appendix of Creeds, pp. [308](dmt22.htm#page_308)-315 belongs to his
+the Appendix of Creeds, pp. [308](dmt22.htm#page_308.md)-315 belongs to his
 school. He and at-Tahawi were followers of the broad-minded Abu Hanifa,
 who was more than suspected of Mu‘tazilite and Murji’ite leanings.
 Muslim theologians usually reckon, up some thirteen points of difference
@@ -822,4 +822,4 @@ new element, and who was to be its champion?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](dmt13)
+[Next: Chapter IV](dmt13.md)

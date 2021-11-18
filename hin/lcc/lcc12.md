@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc11)  [Next](lcc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc11)  [Next](lcc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -211,7 +211,7 @@ side-door.
 \[*Exit*.
 
 *Vasantasenā*. \[*Feels her right eye twitch* <span
-id="fr_67"></span>[1](#fn_67) *as she enters the cart*.\]
+id="fr_67"></span>[1](#fn_67.md) *as she enters the cart*.\]
 
 <span id="page_97">p. 97</span>
 
@@ -347,7 +347,7 @@ Who was born when the sun in his eighth mansion stood,
 Or the moon in her fourth, or when Jupiter could  
 Be seen in his sixth, or when Saturn was resting  
 In his ninth, in her sixth house when Venus was nesting,  
-Or Mars in his fifth? <span id="fr_68"></span>[1](#fn_68) Who will dare
+Or Mars in his fifth? <span id="fr_68"></span>[1](#fn_68.md) Who will dare
 to be giving  
 The herdsman protection, while I am still living?<span
 class="margnote">9, 10</span>
@@ -625,7 +625,7 @@ Aryaka a sword*.\]
 <div style="margin-left: 32px">
 
 A sword, a sword! My right eye twitches fast. <span
-id="fr_69"></span>[1](#fn_69)  
+id="fr_69"></span>[1](#fn_69.md)  
 Now all is well, and I am safe at last.<span class="margnote">24</span>
 
 </div>
@@ -673,16 +673,16 @@ with all my sons and brothers.
 
 ### Footnotes
 
-<span id="fn_67"></span>[96:1](lcc12.htm#fr_67) A bad omen, in the case
+<span id="fn_67"></span>[96:1](lcc12.htm#fr_67.md) A bad omen, in the case
 of a woman.
 
-<span id="fn_68"></span>[99:1](lcc12.htm#fr_68) Lallādīkshita says that
+<span id="fn_68"></span>[99:1](lcc12.htm#fr_68.md) Lallādīkshita says that
 these horoscopes indicate respectively distress, colic, stupidity,
 poverty, sorrow, destruction.
 
-<span id="fn_69"></span>[104:1](lcc12.htm#fr_69) A good omen, in the
+<span id="fn_69"></span>[104:1](lcc12.htm#fr_69.md) A good omen, in the
 case of a man.
 
 ------------------------------------------------------------------------
 
-[Next: Act the Seventh: Aryaka's Escape](lcc13)
+[Next: Act the Seventh: Aryaka's Escape](lcc13.md)

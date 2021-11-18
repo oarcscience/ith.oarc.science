@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei17)  [Next](jei19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei17)  [Next](jei19.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ and we must suppose that for long ages, ever
 
 <span id="page_294">p. 294</span>
 
-since they began [to](errata.htm#76) fit themselves for their life along
+since they began [to](errata.htm#76.md) fit themselves for their life along
 the frozen shores, they have lived apart, separated from others, perhaps
 for a long time as a small tribe. They all belong to the same race; the
 cerebral formation, for instance, of all real Eskimos, from Alaska to
@@ -126,7 +126,7 @@ First, however, let us note that Nansen lists quite a number of
 scientists all holding "various views as to the origin of the Eskimo",
 which, however, are all different from the idea set forth by Nansen that
 they must have come from a milder climate than their present one. Nansen
-notes that on the [American](errata.htm#77) Arctic islands the Eskimos
+notes that on the [American](errata.htm#77.md) Arctic islands the Eskimos
 no longer live as far north as they once did--as where older traces of
 them are found. It is evident in this case that they began north and
 gradually made their way south. But that beginning was not only north
@@ -154,7 +154,7 @@ peoples. It would be of special interest here if we could form any
 opinion as to the date of their immigration into Greenland. It has
 become almost an historical dogma that this immigration on a larger
 scale did not take place until long after the Norwegian Icelanders had
-[settled](errata.htm#78) in the country, and that it was chiefly the
+[settled](errata.htm#78.md) in the country, and that it was chiefly the
 hordes of Eskimos coming from the north that put an end, first to the
 Western Settlement and then to the Eastern. But this is in every respect
 misleading, and conflicts with what may be concluded with certainty from
@@ -336,7 +336,7 @@ various countries, the latter meaning soon became general. Of this
 Moltke Moe gives a remarkable example from the Welshman, Walter Mapes
 (latter half of the twelfth century) who in his curious collection of
 anecdotes, etc., (called 'De Nugis Curialium'), has a tale of a
-prehistoric king of the [Britons](errata.htm#79) called Herla. . ."
+prehistoric king of the [Britons](errata.htm#79.md) called Herla. . ."
 
 ### EARLY NORWEGIAN LEGENDS
 
@@ -539,7 +539,7 @@ side of that great natural obstacle.
 
 It is also interesting to note that when the Eskimo first saw Peary's
 effort to get further north than the great ice-cap of Greenland beyond
-which they themselves had no ambition to explore--[they](errata.htm#80)
+which they themselves had no ambition to explore--[they](errata.htm#80.md)
 immediately thought that the reason for his trying to get further north
 was to get into communication with other tribes there. That idea would
 hardly have occurred to them if it were not for the fact that they had
@@ -560,4 +560,4 @@ more to those who go properly equipped to seek it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Evidence in the Antarctic](jei19)
+[Next: Chapter XVI. Evidence in the Antarctic](jei19.md)

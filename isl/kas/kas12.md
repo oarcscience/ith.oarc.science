@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](kas11)  [Next](kas13) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](kas11)  [Next](kas13.md) 
 
 ------------------------------------------------------------------------
 
@@ -690,4 +690,4 @@ Which cannot alter.
 
 ------------------------------------------------------------------------
 
-[Next: Note II](kas13)
+[Next: Note II](kas13.md)

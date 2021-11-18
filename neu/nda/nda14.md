@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda13)  [Next](nda15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda13)  [Next](nda15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -191,7 +191,7 @@ So long as the colonization continued, the extent of the island secured
 internal peace; the Landnamsmen, as the first settlers were called, had
 few disputes amongst themselves, for every one was taken up with his own
 affairs and although it might sometimes happen, that a quarrelsome
-individual by single combat (Holmgang <span id="fr_4"></span>[1](#fn_4))
+individual by single combat (Holmgang <span id="fr_4"></span>[1](#fn_4).md)
 or the threat of personal encounter, would drive another from his farm,
 disputes and contests were of rare occurrence. Another local
 circumstances of no inconsiderable importance as connected with the
@@ -260,7 +260,7 @@ genealogy; but the more numerous were those in which all the
 achievements of a hero were specifically enumerated.
 
 These compositions bore little evidence of Brage's <span
-id="fr_5"></span>[1](#fn_5) favour. Under the jingle of rude rhymes and
+id="fr_5"></span>[1](#fn_5.md) favour. Under the jingle of rude rhymes and
 alliteration a pictorial expression was given to sword-cuts and
 slaughter, which brought to remembrance the order in which the several
 achievements had succeeded each other. The poetical form is more visible
@@ -270,7 +270,7 @@ in the earlier songs, such as: Hornklove's
 
 <span class="contnote">\[paragraph continues\]</span> Ode on Harald
 Haarfager, particularly his description of the battle of
-Hafursfjord <span id="fr_6"></span>[1](#fn_6) than in the later, such as
+Hafursfjord <span id="fr_6"></span>[1](#fn_6.md) than in the later, such as
 Ottar Svartes Ode on the combats of Olaf the Saint; and those
 compositions have still more poetical worth in which, like Eyvind
 Skialdespilders Ode in praise of the fallen king Hakon Adelsteen, the
@@ -281,7 +281,7 @@ themselves in the courts of heroes, were committed to memory, and that
 at a time when this was the only means of recording their achievements
 such verses would pass orally through many generations. The memory was
 also sometimes aided by carving the verses in Runic letters <span
-id="fr_7"></span>[2](#fn_7) upon a staff. The dying Halmund is
+id="fr_7"></span>[2](#fn_7.md) upon a staff. The dying Halmund is
 introduced in Gretter's Saga, saying to his daughter:--"Thou shalt now
 listen whilst I relate my deeds, and sing thereof a song, which thou
 shalt afterwards cut upon a staff." In Egil's Saga, also, Thorgerd,
@@ -320,7 +320,7 @@ character had been formed, their memories sharpened; and a knowledge of
 the past was necessary for the acquisition of those mythic and
 historical allusions which were considered indispensable to poetical
 expression. An instance of their historical knowledge is thus mentioned
-in the Landnamabok: <span id="fr_8"></span>[1](#fn_8) when King Harald
+in the Landnamabok: <span id="fr_8"></span>[1](#fn_8.md) when King Harald
 
 <span id="page_159">p. 159</span>
 
@@ -416,26 +416,26 @@ earlier period there than in the neighbouring kingdom.
 
 ### Footnotes
 
-<span id="fn_4"></span>[154:1](nda14.htm#fr_4) From *holm*, a small
+<span id="fn_4"></span>[154:1](nda14.htm#fr_4.md) From *holm*, a small
 island. So called in consequence of these duels generally taking place
 upon one of the small neighbouring islands, from whence the combatants
 could not so easily escape.
 
-<span id="fn_5"></span>[156:1](nda14.htm#fr_5) Brage, the fourth son of
+<span id="fn_5"></span>[156:1](nda14.htm#fr_5.md) Brage, the fourth son of
 Odin and Frigga, was the Apollo of the Northern Mythology; he chaunted
 the exploits of the Gods and heroes to the tones of a golden harp, and
 was represented by the figure of an old man with a snow-white beard.
 
-<span id="fn_6"></span>[157:1](nda14.htm#fr_6) The famous naval
+<span id="fn_6"></span>[157:1](nda14.htm#fr_6.md) The famous naval
 engagement In the Bay of Hafursfjord, now called Stavangerfiord. (A. D.
 875), made Harald Haarfager master of the entire kingdom of Norway.
 
-<span id="fn_7"></span>[157:2](nda14.htm#fr_7) The word Rune is said to
+<span id="fn_7"></span>[157:2](nda14.htm#fr_7.md) The word Rune is said to
 be derived from *ryn* a furrow or channel; the invention is attributed
 to Odin and his Aser, or Gods; the alphabet consists of sixteen letters,
 which, like the Hiberno-Celtic, claims Phœnician origin.
 
-<span id="fn_8"></span>[158:1](nda14.htm#fr_8) The Landnamabok or Book
+<span id="fn_8"></span>[158:1](nda14.htm#fr_8.md) The Landnamabok or Book
 of the first Norwegian settlers in Iceland, is the most complete
 national record that has, perhaps, ever been compiled. It contains the
 names of about 3000 persons, and 1400 places, and forms a minute
@@ -451,4 +451,4 @@ the present volume.
 
 ------------------------------------------------------------------------
 
-[Next: Second Period](nda15)
+[Next: Second Period](nda15.md)

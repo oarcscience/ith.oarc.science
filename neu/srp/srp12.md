@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp11)  [Next](srp13) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp11)  [Next](srp13.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ P. N. Ruibnikof Edited by P. A. Bezsonof, etc.\] 4 vols. Moscow,
 1861-67. 8vo.
 
 SAKHAROF. *Skazaniya Russkago Naroda*. \[Utterances of the Russian
-People. Third edition.\] 2 vols. <span id="fr_338"></span>[1](#fn_338)
+People. Third edition.\] 2 vols. <span id="fr_338"></span>[1](#fn_338.md)
 St. Petersburg, 1841. Royal 8vo.
 
 ---- *Pyesni Russkago Naroda*. \[Songs of the Russian People\]. 5 vols.
@@ -98,25 +98,25 @@ SNEGIREF. *Russkie v svoikh Poslovitsakh*. \[The Russians in their
 Proverbs.\] 4 vols. Moscow, 1832. 12mo.
 
 SOLOVIEF. *Istoriya Rossii*. \[History of Russia. <span
-id="fr_339"></span>[2](#fn_339)\] Fourth edition. Moscow, 1856, etc.
+id="fr_339"></span>[2](#fn_339.md)\] Fourth edition. Moscow, 1856, etc.
 8vo.
 
 TERESHCHENKO. *Buit Russkago Naroda*. \[Manners and Customs of the
 Russian People.\] 7 vols. St. Petersburg, 1848. 8vo. <span
-id="fr_340"></span>[3](#fn_340)
+id="fr_340"></span>[3](#fn_340.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_338"></span>[438:1](srp12.htm#fr_338) I possess,
+<span id="fn_338"></span>[438:1](srp12.htm#fr_338.md) I possess,
 unfortunately, only the first volume. The second I have never even so
 much as seen, so rare has the book become.
 
-<span id="fn_339"></span>[439:2](srp12.htm#fr_339) In progress; only
+<span id="fn_339"></span>[439:2](srp12.htm#fr_339.md) In progress; only
 about twenty-one volumes have as yet been published.
 
-<span id="fn_340"></span>[439:3](srp12.htm#fr_340) Students who wish to
+<span id="fn_340"></span>[439:3](srp12.htm#fr_340.md) Students who wish to
 compare the Folk-songs of the Russians with those of the other Slavonic
 peoples will find the following books of great service. To avoid
 typographical difficulties I have translated their titles:--
@@ -138,4 +138,4 @@ ZEGOTA PAULI. "Songs of the Ruthenians in Galicia." 2 vols. Lwow,
 
 ------------------------------------------------------------------------
 
-[Next: Appendix B](srp13)
+[Next: Appendix B](srp13.md)

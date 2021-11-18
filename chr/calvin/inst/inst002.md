@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst001)  [Next](inst003) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst001)  [Next](inst003.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ this new addition and that it will aid you in your studies.
 
 ------------------------------------------------------------------------
 
-[Next: INTRODUCTION](inst003)
+[Next: INTRODUCTION](inst003.md)

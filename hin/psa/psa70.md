@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa69)  [Next](psa71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa69)  [Next](psa71.md) 
 
 ------------------------------------------------------------------------
 
@@ -168,4 +168,4 @@ with Hustinapoor.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXX](psa71)
+[Next: Chapter LXX](psa71.md)

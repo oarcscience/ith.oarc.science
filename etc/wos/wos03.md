@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos02)  [Next](wos04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos02)  [Next](wos04.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,14 +24,14 @@ we look into *ourselves* or into *them*, we read the same writing,
 <span id="page_2">p. 2</span>
 
 indited by the same Spirit: "*There is not a just man upon earth, that
-doeth good and sinneth not* <span id="fr_1"></span>[1](#fn_1)."
+doeth good and sinneth not* <span id="fr_1"></span>[1](#fn_1.md)."
 
 Whence then this corruption, so great, so universal? Whence this
 unsparing and appalling ruin? "*By* ONE MAN *sin entered into the world,
-and death by sin* <span id="fr_2"></span>[2](#fn_2)." "*By the offence
+and death by sin* <span id="fr_2"></span>[2](#fn_2.md)." "*By the offence
 of* ONE, *judgment came upon* ALL MEN *to condemnation* <span
-id="fr_3"></span>[3](#fn_3)." "*By* ONE MAN'S *disobedience*, MANKIND
-(οἱ πολλοι) *were made sinners* <span id="fr_4"></span>[4](#fn_4)."
+id="fr_3"></span>[3](#fn_3.md)." "*By* ONE MAN'S *disobedience*, MANKIND
+(οἱ πολλοι) *were made sinners* <span id="fr_4"></span>[4](#fn_4.md)."
 
 But consequences so ruinous as the corruption of the body and soul of
 all his posterity,--the dissolution of the one, and the eternal
@@ -69,15 +69,15 @@ Apocalypse "*that old serpent called the Devil and*
 <span id="page_4">p. 4</span>
 
 \[paragraph continues\] *Satan, that deceiveth the whole world* <span
-id="fr_5"></span>[1](#fn_5)." The author of the Book of Wisdom
+id="fr_5"></span>[1](#fn_5.md)." The author of the Book of Wisdom
 attributes the fall of man to the agency of the Devil: "God created man
 to be immortal, and made him to be an image of his own eternity; but
 *through envy of the Devil came death into the world* <span
-id="fr_6"></span>[2](#fn_6)." St. Paul, alluding to the same event,
+id="fr_6"></span>[2](#fn_6.md)." St. Paul, alluding to the same event,
 ascribes it to the serpent:--"But I fear lest by any means, as *the
 serpent* beguiled Eve through his subtilty, so your minds should be
 corrupted from the simplicity that is in Christ <span
-id="fr_7"></span>[3](#fn_7)."
+id="fr_7"></span>[3](#fn_7.md)."
 
 These incidental allusions to the agency of the Devil under the form of
 a serpent, are perhaps more valuable in corroborating the account of
@@ -94,9 +94,9 @@ the metaphor
 
 under which the enemies of God and the wicked are described. These are
 represented under the image of "*a serpent* <span
-id="fr_8"></span>[1](#fn_8)," "*a dragon* <span
-id="fr_9"></span>[2](#fn_9)," "*a leviathan, a crooked serpent* <span
-id="fr_10"></span>[3](#fn_10)," &c.; expressions which are strong
+id="fr_8"></span>[1](#fn_8.md)," "*a dragon* <span
+id="fr_9"></span>[2](#fn_9.md)," "*a leviathan, a crooked serpent* <span
+id="fr_10"></span>[3](#fn_10.md)," &c.; expressions which are strong
 presumptive evidences of the intimate connexion between the SERPENT and
 the EVIL SPIRIT.
 
@@ -118,10 +118,10 @@ Satan.
 First then, let us consider THE SIN; and secondly, THE TEMPTER.
 
 "*The Lord God said unto the woman, what is this that thou hast
-done* <span id="fr_11"></span>[1](#fn_11)?"--The offence of which she
+done* <span id="fr_11"></span>[1](#fn_11.md)?"--The offence of which she
 had been guilty was the eating of a tree, of which GOD had said, "*Thou
 shalt not eat of it; for in the day that thou eatest thereof, thou shalt
-surely die* <span id="fr_12"></span>[2](#fn_12)."
+surely die* <span id="fr_12"></span>[2](#fn_12.md)."
 
 Here we perceive, amidst a general indulgence, *one particular
 restriction*, and a penalty attached to the violation of it. It is
@@ -155,7 +155,7 @@ and Eve?* We apprehend *not*. The injunction would have been so far
 unreasonable and unworthy of God, as the violation of it was
 *impossible* on the part of Adam and Eve. For being themselves the
 *immediate* work of the Creator, and maintaining with him a continual
-and direct communion <span id="fr_13"></span>[1](#fn_13), is it possible
+and direct communion <span id="fr_13"></span>[1](#fn_13.md), is it possible
 that they could have worshipped any strange gods or idols--taken the
 name of GOD in vain--or by any act of irreverence profaned the Sabbath?
 Commandments which would restrict them from such sins as these, would
@@ -234,7 +234,7 @@ truth which was afterwards revealed to the children
 of disobedience, that "GOD is not a man, that he should lie; neither the
 son of man, that he should repent: hath he said, and shall he not do it?
 or hath he spoken, and shall he not make it good <span
-id="fr_14"></span>[1](#fn_14)?"
+id="fr_14"></span>[1](#fn_14.md)?"
 
 We see, then, that neither was the prohibition of the tree of knowledge
 of good and evil an unworthy condition on the part of Gm) to make with
@@ -288,7 +288,7 @@ consequences, before his eyes, and with the power to choose either.
 Being a free agent, it was necessary that he should be placed in *a
 state of trial*. For his free agency consisting in a capability of
 choice between obedience and disobedience, his happiness would consist
-in a wise employment of this power <span id="fr_15"></span>[1](#fn_15).
+in a wise employment of this power <span id="fr_15"></span>[1](#fn_15.md).
 And since real happiness is inseparable from holiness, Adam, to be
 happy, must have been holy. But holy or obedient (for it is the same
 thing,) he could not be, unless something were enjoined to which he
@@ -324,7 +324,7 @@ he contends, the original will allow--the text will become, "and the
 tree *which is the test* of good and evil:" that is, "the tree by which
 God would *try* them, and by which it should appear whether or no they
 would own the sovereignty of their Maker, and obey or disobey his
-commands <span id="fr_16"></span>[1](#fn_16)." Notwithstanding this
+commands <span id="fr_16"></span>[1](#fn_16.md)." Notwithstanding this
 ingenious, and not unsatisfactory, explanation, I prefer the received
 version, because it is more in accordance with the context. The effect
 produced upon the guilty pair is described under the metaphor, "their
@@ -339,7 +339,7 @@ her husband with her, and *he did*
 
 <span id="page_16">p. 16</span>
 
-*eat: And their eyes were opened* <span id="fr_17"></span>[1](#fn_17)."
+*eat: And their eyes were opened* <span id="fr_17"></span>[1](#fn_17.md)."
 Between the action, "*they did eat*," and the effect, "*their eyes were
 opened*," there is no room for interpolating any other cause for the
 illumination, than the eating the fruit of the tree of knowledge. The
@@ -363,7 +363,7 @@ knowledge, and plucked
 <span id="page_17">p. 17</span>
 
 its fruit; and in an instant appeared gifted with the powers of reason
-and of speech <span id="fr_18"></span>[1](#fn_18). He spoke to her;
+and of speech <span id="fr_18"></span>[1](#fn_18.md). He spoke to her;
 desired her to taste the same fruit which had opened *his mind*; and
 when, at length, having overcome her first astonishment, she refused, on
 the plea that God had forbidden her to touch it, he said unto her,
@@ -395,14 +395,14 @@ Patrick. He was of opinion that the tempter assumed the form of a
 beautiful winged serpent, whose bright golden colour made him, when
 flying, to be resplendent like fire. Of this kind, he informs us, were
 the serpents in the wilderness which destroyed the rebellious
-Israelites <span id="fr_19"></span>[1](#fn_19). They are called
+Israelites <span id="fr_19"></span>[1](#fn_19.md). They are called
 *seraphim*, from a root which signifies "*to burn*." "The angels of the
 presence" were also called *seraphim*, from a similar glorious
-appearance <span id="fr_20"></span>[2](#fn_20). The advocates of this
+appearance <span id="fr_20"></span>[2](#fn_20.md). The advocates of this
 opinion suppose that Eve took the serpent-tempter for one of these
 heavenly messengers, come down to enlighten her; "for she was not so
 simple as to think that beasts could speak <span
-id="fr_21"></span>[3](#fn_21)." This opinion is
+id="fr_21"></span>[3](#fn_21.md)." This opinion is
 
 <span id="page_19">p. 19</span>
 
@@ -443,7 +443,7 @@ observes: "This is the secret (or mystery) of the holy language, that a
 *serpent* is called *saraph*, as an *angel* is called *saraph*;" and
 "hence the Scriptures called serpents seraphim (Numb. xxi. 6-8), because
 they were the offspring of this old *saraph* <span
-id="fr_22"></span>[1](#fn_22)." The *seraphim* of the wilderness are
+id="fr_22"></span>[1](#fn_22.md)." The *seraphim* of the wilderness are
 proved by Bochart to have been the same as those called in Isaiah (xix.
 29. and xxx. 6), "fiery *flying* serpents." Whether the epithet
 "*flying*" was a metaphor for *velocity*, or whether it meant that these
@@ -513,7 +513,7 @@ the subsequent pages.
 mankind. So closely do his ideas on this subject approach the truth,
 that Bishop Stillingfleet has not scrupled to affirm, "he must have
 known more of the lapse of mankind than he would openly discover <span
-id="fr_23"></span>[1](#fn_23):" and
+id="fr_23"></span>[1](#fn_23.md):" and
 
 <span id="page_24">p. 24</span>
 
@@ -532,31 +532,31 @@ Among other striking passages in the writings of that philosopher, is
 the following:--"*These causes of our wickedness are derived from our
 parents, and from our constitutions, rather than from ourselves; for
 while we recoil from the works of our ancestors they are not idle* <span
-id="fr_24"></span>[1](#fn_24):" as much as to say, that there is within
+id="fr_24"></span>[1](#fn_24.md):" as much as to say, that there is within
 us, by inheritance, a principle of sin, continually at war with the
 principle of righteousness; "a law in our members warring against the
 law of our minds, and bringing us into captivity to the law of sin,
 
 <span id="page_25">p. 25</span>
 
-which is in our members <span id="fr_25"></span>[1](#fn_25)." This
+which is in our members <span id="fr_25"></span>[1](#fn_25.md)." This
 notion is very nearly allied to the dogma of the Persians concerning the
 two innate principles, the good and the evil, of which we read in the
 very interesting story of Araspes and Panthea, related by Xenophon <span
-id="fr_26"></span>[2](#fn_26).
+id="fr_26"></span>[2](#fn_26.md).
 
 This state of the soul the philosopher terms "*a moral or spiritual
 death*;" and upon the authority of "*wise men*," by whom Gale
 conjectures that he must have meant "Jewish priests:" more probably,
 perhaps, Egyptian, with whom he is known to have conversed
 familiarly.--"*I have heard from wise men, that we are now dead, and
-that the body is our sepulchre* <span id="fr_27"></span>[3](#fn_27)."
+that the body is our sepulchre* <span id="fr_27"></span>[3](#fn_27.md)."
 
 The change of nature which ensued immediately after the fall of man, may
 be alluded to by the same philosopher in his discourse of the imaginary
 island of Atlantis, which, upon the division of the earth between the
 gods, fell to the lot of Vulcan and Minerva <span
-id="fr_28"></span>[4](#fn_28). There they created mortals of a superior
+id="fr_28"></span>[4](#fn_28.md). There they created mortals of a superior
 mould, who lived in the unbounded enjoyment of happiness and
 peace.--"For many ages, as long as they were *under the influence of
 this divine nature*, they were
@@ -599,7 +599,7 @@ understanding he describes under the allegory of a person who, from his
 infancy, lay, neck and heels together, in a dark dungeon, where he could
 only see some imperfect shadows, by means of a fire kindled at the top."
 Whence he concludes that "*the eye of the soul is immersed in the
-barbaric gulf of ignorance* <span id="fr_29"></span>[1](#fn_29)."
+barbaric gulf of ignorance* <span id="fr_29"></span>[1](#fn_29.md)."
 
 2\. To the testimony of Plato may be added that of Hierocles, a disciple
 of the Platonic school, whose Commentary on the Golden Verses of
@@ -612,7 +612,7 @@ the influence of their passions; and, from their propensity to earth,
 are grown impotent of mind. But this evil they have brought upon
 themselves by their *wilful apostasy from God*, and *by withdrawing
 themselves from that communion with him, which they once enjoyed in pure
-light* <span id="fr_30"></span>[1](#fn_30)."
+light* <span id="fr_30"></span>[1](#fn_30.md)."
 
 3\. If we ascend to authority of more remote date, we shall find in "the
 Golden Verses" themselves this remarkable sentiment: "*Men are grown
@@ -627,7 +627,7 @@ Golden Age" we shall recognize a clear trace of the original purity of
 man, whose fall and corruption may be as clearly traced in the
 subsequent ages of deterioration. The opinion of Homer, that "*few
 children are like their fathers, the majority worse* <span
-id="fr_31"></span>[2](#fn_31)," illustrates the poetical conceit so
+id="fr_31"></span>[2](#fn_31.md)," illustrates the poetical conceit so
 beautifully imagined by
 
 <span id="page_29">p. 29</span>
@@ -636,7 +636,7 @@ beautifully imagined by
 degenerate from the virtues of the first. They were men of violence;
 they had no pleasure in worshipping the immortal gods; they experienced
 no delight in offering up to them those sacrifices which duty
-required <span id="fr_32"></span>[1](#fn_32)."
+required <span id="fr_32"></span>[1](#fn_32.md)."
 
 So clearly did the mind of Hesiod apprehend the real state of mankind,
 that, in his fable of Pandora, he seems but to paraphrase the story of
@@ -685,7 +685,7 @@ whose religion is not altogether unintelligible. It was the belief of
 the Celts and Druids; and "the Brahmins of Hindostan have an entire
 Purana on the subject: the story is there told as related by Moses; the
 facts uniformly correspond, and the consequences are equally
-tremendous <span id="fr_33"></span>[1](#fn_33)." It was the belief of
+tremendous <span id="fr_33"></span>[1](#fn_33.md)." It was the belief of
 all the nations surrounding Syria; it penetrated into the remote regions
 of the Persian monarchy; and it may be recognized in the mythology of
 Egypt. Of these I shall adduce proofs in the sequel. But if there were
@@ -694,7 +694,7 @@ prevalence of EXPIATORY SACRIFICES would declare it. "For unless an idea
 of lost integrity had pervaded the whole world, and unless the doctrine
 of such an aberration had been handed down from the most remote
 antiquity, it is impossible to account for the universal establishment
-of so very peculiar an ordinance <span id="fr_34"></span>[2](#fn_34)."
+of so very peculiar an ordinance <span id="fr_34"></span>[2](#fn_34.md)."
 
 It is not only to the existence of a natural
 
@@ -724,7 +724,7 @@ might be more surely confounded and debased. Among other
 devices, that of elevating himself into an object of adoration, has ever
 been the most cherished. It was this which he proposed to OUR LORD: "All
 these things will I give thee, if thou wilt fall down and *worship
-me* <span id="fr_35"></span>[1](#fn_35)." We cannot therefore wonder
+me* <span id="fr_35"></span>[1](#fn_35.md)." We cannot therefore wonder
 that the same being who had the presumption to make such a proposal to
 the Son of Gov, should have had the address to insinuate himself into
 the worship of the children of men. In this he was, unhappily, but too
@@ -799,82 +799,82 @@ adoration of the serpent he should continue to fall.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2:1](wos03.htm#fr_1) Eccl. vii. 20.
+<span id="fn_1"></span>[2:1](wos03.htm#fr_1.md) Eccl. vii. 20.
 
-<span id="fn_2"></span>[2:2](wos03.htm#fr_2) Rom. v. 12.
+<span id="fn_2"></span>[2:2](wos03.htm#fr_2.md) Rom. v. 12.
 
-<span id="fn_3"></span>[2:3](wos03.htm#fr_3) Rom. v. 18.
+<span id="fn_3"></span>[2:3](wos03.htm#fr_3.md) Rom. v. 18.
 
-<span id="fn_4"></span>[2:4](wos03.htm#fr_4) Rom. v. 19.
+<span id="fn_4"></span>[2:4](wos03.htm#fr_4.md) Rom. v. 19.
 
-<span id="fn_5"></span>[4:1](wos03.htm#fr_5) Rev. xii. 9.
+<span id="fn_5"></span>[4:1](wos03.htm#fr_5.md) Rev. xii. 9.
 
-<span id="fn_6"></span>[4:2](wos03.htm#fr_6) Wisd. ii. 23-24.
+<span id="fn_6"></span>[4:2](wos03.htm#fr_6.md) Wisd. ii. 23-24.
 
-<span id="fn_7"></span>[4:3](wos03.htm#fr_7) 2 Cor. xi. 3.
+<span id="fn_7"></span>[4:3](wos03.htm#fr_7.md) 2 Cor. xi. 3.
 
-<span id="fn_8"></span>[5:1](wos03.htm#fr_8) Isaiah xiv. 29.
+<span id="fn_8"></span>[5:1](wos03.htm#fr_8.md) Isaiah xiv. 29.
 
-<span id="fn_9"></span>[5:2](wos03.htm#fr_9) Isaiah xxvii. 1.
+<span id="fn_9"></span>[5:2](wos03.htm#fr_9.md) Isaiah xxvii. 1.
 
-<span id="fn_10"></span>[5:3](wos03.htm#fr_10) Isaiah xxvii. 1.
+<span id="fn_10"></span>[5:3](wos03.htm#fr_10.md) Isaiah xxvii. 1.
 
-<span id="fn_11"></span>[6:1](wos03.htm#fr_11) Gen. 13.
+<span id="fn_11"></span>[6:1](wos03.htm#fr_11.md) Gen. 13.
 
-<span id="fn_12"></span>[6:2](wos03.htm#fr_12) Gen. ii. 17.
+<span id="fn_12"></span>[6:2](wos03.htm#fr_12.md) Gen. ii. 17.
 
-<span id="fn_13"></span>[7:1](wos03.htm#fr_13) Gen. iii. 8.
+<span id="fn_13"></span>[7:1](wos03.htm#fr_13.md) Gen. iii. 8.
 
-<span id="fn_14"></span>[11:1](wos03.htm#fr_14) Num. xxiii. 19.
+<span id="fn_14"></span>[11:1](wos03.htm#fr_14.md) Num. xxiii. 19.
 
-<span id="fn_15"></span>[13:1](wos03.htm#fr_15) Kennicot., *Dissert. on
+<span id="fn_15"></span>[13:1](wos03.htm#fr_15.md) Kennicot., *Dissert. on
 the Tree of Life*, 33.
 
-<span id="fn_16"></span>[15:1](wos03.htm#fr_16) Dissert. on the Tree of
+<span id="fn_16"></span>[15:1](wos03.htm#fr_16.md) Dissert. on the Tree of
 Life, p. 36.
 
-<span id="fn_17"></span>[16:1](wos03.htm#fr_17) Gen. iii. 6, 7.
+<span id="fn_17"></span>[16:1](wos03.htm#fr_17.md) Gen. iii. 6, 7.
 
-<span id="fn_18"></span>[17:1](wos03.htm#fr_18) Delany, "*Revel.
+<span id="fn_18"></span>[17:1](wos03.htm#fr_18.md) Delany, "*Revel.
 Examined*."
 
-<span id="fn_19"></span>[18:1](wos03.htm#fr_19) Numb. xxi. 6-8.
+<span id="fn_19"></span>[18:1](wos03.htm#fr_19.md) Numb. xxi. 6-8.
 
-<span id="fn_20"></span>[18:2](wos03.htm#fr_20) Isaiah vi. 2-6.
+<span id="fn_20"></span>[18:2](wos03.htm#fr_20.md) Isaiah vi. 2-6.
 
-<span id="fn_21"></span>[18:3](wos03.htm#fr_21) Bishop Patrick.
+<span id="fn_21"></span>[18:3](wos03.htm#fr_21.md) Bishop Patrick.
 
-<span id="fn_22"></span>[20:1](wos03.htm#fr_22) Bishop Patrick *in loc*.
+<span id="fn_22"></span>[20:1](wos03.htm#fr_22.md) Bishop Patrick *in loc*.
 
-<span id="fn_23"></span>[23:1](wos03.htm#fr_23) Orig. Sacr. l. 3. c. 3.
+<span id="fn_23"></span>[23:1](wos03.htm#fr_23.md) Orig. Sacr. l. 3. c. 3.
 
-<span id="fn_24"></span>[24:1](wos03.htm#fr_24) Timæus, 103.
+<span id="fn_24"></span>[24:1](wos03.htm#fr_24.md) Timæus, 103.
 
-<span id="fn_25"></span>[25:1](wos03.htm#fr_25) Rom. vii. 23.
+<span id="fn_25"></span>[25:1](wos03.htm#fr_25.md) Rom. vii. 23.
 
-<span id="fn_26"></span>[25:2](wos03.htm#fr_26) Cyrop. lib. 8.
+<span id="fn_26"></span>[25:2](wos03.htm#fr_26.md) Cyrop. lib. 8.
 
-<span id="fn_27"></span>[25:3](wos03.htm#fr_27) Georgias, 493.
+<span id="fn_27"></span>[25:3](wos03.htm#fr_27.md) Georgias, 493.
 
-<span id="fn_28"></span>[25:4](wos03.htm#fr_28) Critias.
+<span id="fn_28"></span>[25:4](wos03.htm#fr_28.md) Critias.
 
-<span id="fn_29"></span>[27:1](wos03.htm#fr_29) Gale. *Court of the
+<span id="fn_29"></span>[27:1](wos03.htm#fr_29.md) Gale. *Court of the
 Gentiles*, l. 3. 63.
 
-<span id="fn_30"></span>[28:1](wos03.htm#fr_30) Cited by Stillingfleet.
+<span id="fn_30"></span>[28:1](wos03.htm#fr_30.md) Cited by Stillingfleet.
 Orig. Sac. book iii. c. 3. s. 15.
 
-<span id="fn_31"></span>[28:2](wos03.htm#fr_31) Odyss. ii. 276.
+<span id="fn_31"></span>[28:2](wos03.htm#fr_31.md) Odyss. ii. 276.
 
-<span id="fn_32"></span>[29:1](wos03.htm#fr_32) Oper. et Dier. i. 126.
+<span id="fn_32"></span>[29:1](wos03.htm#fr_32.md) Oper. et Dier. i. 126.
 
-<span id="fn_33"></span>[31:1](wos03.htm#fr_33) Faber. Hor. Mos. i. 66,
+<span id="fn_33"></span>[31:1](wos03.htm#fr_33.md) Faber. Hor. Mos. i. 66,
 citing Maurice Ind. Antiq.
 
-<span id="fn_34"></span>[31:2](wos03.htm#fr_34) Faber. Hor. Mos. i. 59.
+<span id="fn_34"></span>[31:2](wos03.htm#fr_34.md) Faber. Hor. Mos. i. 59.
 
-<span id="fn_35"></span>[33:1](wos03.htm#fr_35) Matt. iv. 9.
+<span id="fn_35"></span>[33:1](wos03.htm#fr_35.md) Matt. iv. 9.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Serpent-Worship in Asia](wos04)
+[Next: Chapter I. Serpent-Worship in Asia](wos04.md)

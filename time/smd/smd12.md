@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd11)  [Next](smd13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd11)  [Next](smd13.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ moon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. November--The Ninth Month](smd13)
+[Next: Chapter XI. November--The Ninth Month](smd13.md)

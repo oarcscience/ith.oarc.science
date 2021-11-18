@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai04)  [Next](tai06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai04)  [Next](tai06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ great mountains nor any natural frontiers, and medieval Russia in
 particular was an undefined land, open to aggression from all sides,
 
 On the South she was cut off from the Black Sea and the estuary of the
-Dněpr at Čerkásy, <span id="fr_1"></span>[†](#fn_1) one hundred miles
+Dněpr at Čerkásy, <span id="fr_1"></span>[†](#fn_1.md) one hundred miles
 south of Pereyáslavl’.
 
 From Čerkásy the Russian frontier ran more or less parallel with the
@@ -139,9 +139,9 @@ This history must now be reviewed in brief outline.
 
 ### Footnotes
 
-<span id="fn_1"></span>[v:†](tai05.htm#fr_1) about 150 miles from the
+<span id="fn_1"></span>[v:†](tai05.htm#fr_1.md) about 150 miles from the
 sea coast: and 300 by the Dněpr.
 
 ------------------------------------------------------------------------
 
-[Next: The Old Tradition](tai06)
+[Next: The Old Tradition](tai06.md)

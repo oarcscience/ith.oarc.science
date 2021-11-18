@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb18)  [Next](gnfb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb18)  [Next](gnfb20.md) 
 
 </div>
 
@@ -166,6 +166,6 @@ Sebillot.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Snake](gnfb20)
+[Next: The Enchanted Snake](gnfb20.md)
 
 </div>

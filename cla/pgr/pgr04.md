@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pgr03)  [Next](pgr05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pgr03)  [Next](pgr05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691015147/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The First Two Chapters of *Prolegomena to the Study of Greek Religion*,
 by Jane Ellen Harrison, \[1922\], at Intangible Textual Heritage
 
@@ -37,27 +37,27 @@ significance will be yet more plainly apparent if we examine another,
 gives its name to the first spring month Anthesterion.
 
 If we know little about the Diasia; about the Anthesteria <span
-id="fr_54"></span>[1](#fn_54) we know much. Apollodorus, quoted by
+id="fr_54"></span>[1](#fn_54.md) we know much. Apollodorus, quoted by
 Harpocration, tells us that the whole festival collectively was called
 *Anthesteria*, that it was celebrated in honour of Dionysos, and that
 its several parts, i.e. its successive days, were known as Pithoigia
 (cask-opening), Choes (cups), Chytroi (pots). The exact date of the
 festival is fixed, the three successive days falling from the 11th to
-the 13th of Anthesterion <span id="fr_55"></span>[2](#fn_55).
+the 13th of Anthesterion <span id="fr_55"></span>[2](#fn_55.md).
 
 <span id="page_33">p. 33</span>
 
 On the first day, the 11th of Anthesterion, i.e. the Pithoigia,
-Plutarch <span id="fr_56"></span>[1](#fn_56)' tells us 'they broached
+Plutarch <span id="fr_56"></span>[1](#fn_56.md)' tells us 'they broached
 the new wine at Athens. It was an ancient custom,' he adds, 'to offer
 some of it as a libation before they drank it, praying at the same time
 that the use of the drug (φαρμάκου might be rendered harmless and
 beneficial to them.' This is a clear case of the offering of
-first-fruits <span id="fr_57"></span>[2](#fn_57). Among his own people,
+first-fruits <span id="fr_57"></span>[2](#fn_57.md). Among his own people,
 the Boeotians, Plutarch adds, 'the day was called the day of the Good
-Spirit <span id="fr_58"></span>[3](#fn_58), the Agathos Daimon, and to
+Spirit <span id="fr_58"></span>[3](#fn_58.md), the Agathos Daimon, and to
 him they made offerings. The month itself was known as Prostaterios.'
-The scholiast to Hesiod <span id="fr_59"></span>[4](#fn_59) tells us
+The scholiast to Hesiod <span id="fr_59"></span>[4](#fn_59.md) tells us
 that the festival was an ancestral one (ἐν τοῖς πατρίοις), and that it
 was not allowable to hinder either household slaves or hired servants
 from partaking of the wine.
@@ -79,12 +79,12 @@ wreath in keeping of the priestess of the sanctuary of Dionysos in the
 Marshes. On the day of the *Cups* takes place the august ceremony of the
 wedding of the wife of the King Archon to the god Dionysos. On that day
 alone in all the year the temple of Dionysos is opened <span
-id="fr_60"></span>[5](#fn_60).
+id="fr_60"></span>[5](#fn_60.md).
 
 On the third day, the *Chytroi* or Pots, there was a dramatic
-contest <span id="fr_61"></span>[6](#fn_61) known as Χύτρινοι,
+contest <span id="fr_61"></span>[6](#fn_61.md) known as Χύτρινοι,
 Pot-contests. During this third day the revel went on;
-Aristophanes <span id="fr_62"></span>[7](#fn_62) has left us the
+Aristophanes <span id="fr_62"></span>[7](#fn_62.md) has left us the
 
 <span id="page_34">p. 34</span>
 
@@ -106,7 +106,7 @@ picture of the drunken mob thronging the streets at the holy Pot-Feast:
 
 </div>
 
-The scholiast on the *Acharnians* <span id="fr_63"></span>[1](#fn_63), a
+The scholiast on the *Acharnians* <span id="fr_63"></span>[1](#fn_63.md), a
 play which gives us a lively picture of the festival, says that the
 Choes and the Chytroi were celebrated on one day. The different days and
 acts of the whole Anthesteria were doubtless not sharply divided, and if
@@ -117,12 +117,12 @@ arise.
 
 So far a cursory inspection clearly shows that the Anthesteria was a
 wine-festival in honour of Dionysos. Moreover we have the definite
-statement of Thucydides <span id="fr_64"></span>[2](#fn_64) that 'the
+statement of Thucydides <span id="fr_64"></span>[2](#fn_64.md) that 'the
 more ancient Dionysia were celebrated on the 12th day of the month
 Anthesterion in the temple of Dionysos in the Marshes.' The reference
 can only be to the Choes, so that the festival of the Choes seems
 actually to have borne the name Dionysia. Harpocration <span
-id="fr_65"></span>[3](#fn_65) goes even further; he says, quoting
+id="fr_65"></span>[3](#fn_65.md) goes even further; he says, quoting
 Apollodorus, that 'the whole month was sacred to Dionysos.'
 
 A more searching examination of the sources reveals beneath the surface
@@ -143,7 +143,7 @@ a piece of ritual performed on the last day, the *Chytroi*. The Greeks
 had a proverbial expression spoken, we are told, of those who 'on all
 occasions demand a repetition of favours received.' It ran as follows:
 'Out of the doors! ye Keres; it is no longer Anthesteria.' Suidas <span
-id="fr_66"></span>[1](#fn_66) has preserved for us its true
+id="fr_66"></span>[1](#fn_66.md) has preserved for us its true
 signification; it was spoken, he says, 'implying that in the Anthesteria
 the ghosts are going about in the city.' From this fragmentary statement
 the mandate, it is clear, must have been spoken at the close of the
@@ -153,7 +153,7 @@ Chytroi.
 The statement of Suidas in itself makes the significance of the words
 abundantly clear, but close parallels are not wanting in the ritual of
 other races. The Lemuria at Rome is a case in point. According to
-Ovid <span id="fr_67"></span>[2](#fn_67) each father of a family as the
+Ovid <span id="fr_67"></span>[2](#fn_67.md) each father of a family as the
 festival came round had to lay the ghosts of his house after a curious
 and complex fashion. When midnight was come and all was still, he arose
 and standing with bare feet he made a special sign with his fingers and
@@ -175,11 +175,11 @@ Lemuria took place not in the spring but in the early summer, May--a
 time at which ceremonies of purification were much needed.
 
 A second striking parallel is recorded by Mr Tylor <span
-id="fr_68"></span>[1](#fn_68). He says of a like Sclavonic custom, 'when
+id="fr_68"></span>[1](#fn_68.md). He says of a like Sclavonic custom, 'when
 the meal was over the priest rose from the table and hunted out the
 souls of the dead like fleas with these words: "Ye have eaten and drunk,
 souls, now go, now go".' Dr Oldenberg <span
-id="fr_69"></span>[2](#fn_69) calls attention to another analogy. In
+id="fr_69"></span>[2](#fn_69.md) calls attention to another analogy. In
 sacrifices in India to the dead the souls of ancestors are first
 invoked, then bidden to depart, and even invited to return again after
 the prescribed lapse of a month.
@@ -196,7 +196,7 @@ and after significant fashion.
 
  
 
-The scholiast on Aristophanes <span id="fr_70"></span>[3](#fn_70)
+The scholiast on Aristophanes <span id="fr_70"></span>[3](#fn_70.md)
 commenting on the words τοῖς ἱεροῖσι Χύτροισι, 'at the holy Pot-feast,'
 explains the ceremonies as follows: 'The Chytroi is a feast among the
 Athenians; the cause on account of which it is celebrated is explained
@@ -209,7 +209,7 @@ of the pot which all the citizens cook none of the priests tastes,
 
 they do this on the (13th) day"; and again: "Those present appease
 Hermes on behalf of the dead".' The scholiast on another passage in
-Aristophanes <span id="fr_71"></span>[1](#fn_71) says substantially the
+Aristophanes <span id="fr_71"></span>[1](#fn_71.md) says substantially the
 same, but adds, again on the authority of Theopompos, that the practice
 of cooking the dish of seeds was observed by those who were saved from
 the deluge on behalf of those who perished. The deluge is of course
@@ -225,19 +225,19 @@ was dead men's food, a supper for the souls.
 
 Before we leave the χύτρα it is necessary to examine more precisely the
 name of the day, Chytroi. August Mommsen <span
-id="fr_72"></span>[2](#fn_72) has emphasized the fact, too much
+id="fr_72"></span>[2](#fn_72.md) has emphasized the fact, too much
 neglected, that the name of the festival is masculine, οἱ χύτροι not αἱ
 χύτραι. The feminine form χύτραι means pots artificially made; the
 masculine form χύτροι, which occurs far less frequently, means in
 ordinary parlance natural pots, i.e. holes in the ground.
-Pausanias <span id="fr_73"></span>[3](#fn_73) speaks of a certain
+Pausanias <span id="fr_73"></span>[3](#fn_73.md) speaks of a certain
 natural bath at Thermopylae which the country people called 'the Chytroi
-of the women'; and Herodotos <span id="fr_74"></span>[4](#fn_74)
+of the women'; and Herodotos <span id="fr_74"></span>[4](#fn_74.md)
 describes it in the same terms. Theophrastos <span
-id="fr_75"></span>[5](#fn_75) in his *History of Plants* speaks of a
+id="fr_75"></span>[5](#fn_75.md) in his *History of Plants* speaks of a
 certain plant as growing in a place between the Kephisos and the Melas,
 the place being called Pelekania, i.e. certain hollows in the marsh, the
-so-called Pot-holes.' Hesychius <span id="fr_76"></span>[6](#fn_76),
+so-called Pot-holes.' Hesychius <span id="fr_76"></span>[6](#fn_76.md),
 interpreting οἱ χύτρινοι, says they are 'the hollow places of the earth
 through which springs come up.' The word κολυμβήθρα itself, in classical
 Greek a natural pool, became in mediaeval Greek a font, and it may be
@@ -254,8 +254,8 @@ great earthen jars (πίθοι). Such holes may have been used for graves,
 and were in many parts of Greece regarded as the constant haunt of
 ghosts going up and down. They were perhaps the prototypes of the
 'chasms in the earth' seen in the vision of Er <span
-id="fr_77"></span>[1](#fn_77). Near akin were the megara or chasms of
-Demeter at Potniae <span id="fr_78"></span>[2](#fn_78), and the clefts
+id="fr_77"></span>[1](#fn_77.md). Near akin were the megara or chasms of
+Demeter at Potniae <span id="fr_78"></span>[2](#fn_78.md), and the clefts
 on and about the Pnyx where the women celebrated the Thesmophoria ().
 Such chasms would be the natural sanctuaries of a Ge and ghost cult.
 
@@ -263,17 +263,17 @@ It is obvious that the two forms χύτροι and χύτραι would easily pa
 over into each other, and it is hard to say which came first. It is also
 to be noted that, though the masculine form more often means natural
 hole, it is also used for artificial pot. Pollux <span
-id="fr_79"></span>[3](#fn_79), in discussing 'the vessels used by
+id="fr_79"></span>[3](#fn_79.md), in discussing 'the vessels used by
 cooks,' says that when Delphilos speaks of the big pot (χύτρον μέγαν) at
 the cook's, he clearly means the χύτρα, not the foot-pan (χυτρόμοδα).
 Though the form χύτροι ultimately established itself, the associations
 of χύτρα, artificial pot, seem to have prevailed, and these associations
 are important and must be noted.
 
-Hesychius <span id="fr_80"></span>[4](#fn_80) says that by φαρμακή is
+Hesychius <span id="fr_80"></span>[4](#fn_80.md) says that by φαρμακή is
 meant the χύτρα which they prepared for those who cleansed the cities.
 From the scholiast on the *Choephoroi* of Aeschylus <span
-id="fr_81"></span>[5](#fn_81) we learn that the Athenians purified their
+id="fr_81"></span>[5](#fn_81.md) we learn that the Athenians purified their
 houses with a censer made of a pot; 'this they threw away at the meeting
 of three ways and went away without turning back: Here we have of course
 the origin of 'Hecate's suppers.' These were primarily not feasts for
@@ -282,12 +282,12 @@ taste them, it was supposed an infernal goddess partook. The day of the
 Chytroi was a day of such purifications. From some such notion arose the
 Aristophanic word ἐγχυτρίζειν, 'to pot,' i.e. to utterly ruin and
 destroy, to make away with. The scholiast <span
-id="fr_82"></span>[6](#fn_82) explains it as
+id="fr_82"></span>[6](#fn_82.md) explains it as
 
 <span id="page_39">p. 39</span>
 
 referring to the practice of exposing children, but Suidas <span
-id="fr_83"></span>[1](#fn_83) knows of another meaning; he says the
+id="fr_83"></span>[1](#fn_83.md) knows of another meaning; he says the
 ἐγχυτρίστριαι were those 'women who purified the unclean, pouring upon
 them the blood of the victim,' and also those who 'poured libations to
 the dead,' those in a word who performed ceremonies of placation and
@@ -305,7 +305,7 @@ Choes, literary testimony is explicit. Spite of the drinking contest,
 the flower-wreathed cups and the wedding of Dionysos, all joyful
 elements of the service of the wine-god, the Choes was a *dies
 nefastus*, an unlucky day, a day to be observed with apotropaic
-precautions. Photius <span id="fr_84"></span>[2](#fn_84), in explaining
+precautions. Photius <span id="fr_84"></span>[2](#fn_84.md), in explaining
 the words μιαρὰ ἡμέρα, 'day of pollution,' says such a day occurred 'in
 the Choes in the month of Anthesterion, in which (i.e. during the Choes)
 they believed that the spirits of the dead rose up again. From early
@@ -321,7 +321,7 @@ this rather as a means of ejecting the bad spirits than to obtain
 inspiration from the good. Fasting is a substantial safe-guard, but
 purgation more drastically effective. The prophylactic properties of
 *rhamnus*, buckthorn, were well known to the ancients. Dioscorides <span
-id="fr_85"></span>[3](#fn_85) in his *Materia Medica* 
+id="fr_85"></span>[3](#fn_85.md) in his *Materia Medica* 
 
 <span id="page_40">p. 40</span>
 
@@ -331,7 +331,7 @@ to the chewing of buckthorn, branches of it were fastened to doors at
 the festival of the Choes, and served the same purpose as the pitch.
 Pitch, Photius tells us in commenting on *rhamnus*, was on account of
 its special purity used also to drive away sprites at the birth of a
-child--always a perilous moment <span id="fr_86"></span>[1](#fn_86)
+child--always a perilous moment <span id="fr_86"></span>[1](#fn_86.md)
 
 It is not easy to imagine an enlightened citizen of the Athens of the
 fifth century B.C., an Aeschylus, a Pericles, chewing buckthorn from
@@ -350,7 +350,7 @@ Chytroi, there *may* have been a confusion between approximate forms;
 the two words χοή, funeral libation, and χοῦς, cup, have a common stem
 χοϝ. May not χόες have superimposed itself on χοαί, wine-cups upon
 funeral libations? A scholiast on Aristophanes <span
-id="fr_87"></span>[2](#fn_87) seems to indicate some such a
+id="fr_87"></span>[2](#fn_87.md) seems to indicate some such a
 *contaminatio*. In explaining the word χοάς, he says the meaning is
 'pourings forth, offerings to the dead or libations. An oracle was
 issued that they must offer libations (χοάς) yearly to those of the
@@ -365,10 +365,10 @@ there was some confusion as to the two analogous forms.
 If we view the Choes as Χοαί, the Cups as *Libations*, the anomalous
 and, as it stands, artificial connection of Orestes with the festival
 becomes at once clear. At the drinking bout of the Choes, we learn from
-Athenaeus <span id="fr_88"></span>[1](#fn_88) and other authorities, the
+Athenaeus <span id="fr_88"></span>[1](#fn_88.md) and other authorities, the
 singular custom prevailed that each man should drink by himself. A
 mythological reason was sought to account for this, and the story was
-told <span id="fr_89"></span>[2](#fn_89) that Orestes, polluted by the
+told <span id="fr_89"></span>[2](#fn_89.md) that Orestes, polluted by the
 blood of his mother, came to Athens at the time of the celebration of
 the Choes. The reigning king, variously called Pandion and Phanodemus,
 wished to show him hospitality, but religious scruple forbade him to let
@@ -382,7 +382,7 @@ own cup, and so bring them to the priestess at the precinct of the
 Limnae. That done, they were to perform the remaining sacrifices in the
 Sanctuary. From this, Athenaeus adds, the festival got the name of
 *Cups*. The mad Orestes in the *Iphigenia in Tauris* <span
-id="fr_90"></span>[3](#fn_90) tells the same tale and naïvely states
+id="fr_90"></span>[3](#fn_90.md) tells the same tale and naïvely states
 that, though he was hurt by the procedure, he dare not ask the reason,
 knowing it all too well.
 
@@ -408,13 +408,13 @@ Orestes is polluted by the guilt (ἄγος) of his
 <span id="page_42">p. 42</span>
 
 mother's blood, he finds the people in the Limnae <span
-id="fr_91"></span>[1](#fn_91), close to the Areopagos, celebrating the
+id="fr_91"></span>[1](#fn_91.md), close to the Areopagos, celebrating the
 Χοαί, the libations to the dead; till he is purified from kindred blood
 he cannot join: all is simple and clear.
 
 If the Choes were in intent χοαί, the Cups *Libations*, the ceremony has
 an interesting parallel in a rite performed at the Eleusinian mysteries.
-Athenaeus <span id="fr_92"></span>[2](#fn_92), in discussing various
+Athenaeus <span id="fr_92"></span>[2](#fn_92.md), in discussing various
 shapes of cups says: 'The plemochoë is an earthen vessel shaped like a
 top that stands fairly steady; some call it, Pamphilos tells us, the
 cotyliscus. And they use it at Eleusis on the last day of the mysteries,
@@ -442,9 +442,9 @@ Pithoigia? Surely this day is all revel and jollity, all for Dionysus?
 
 Had we been dependent on literature alone, such would have been our
 inevitable conclusion. In Plutarch's account of the Pithoigia ([p.
-33](#page_33)), the earliest and fullest we possess, there is no hint of
+33](#page_33).md), the earliest and fullest we possess, there is no hint of
 any worship other than that of the wine-god, no hint of possible gloom.
-Eustathius <span id="fr_93"></span>[3](#fn_93) indeed tells of a
+Eustathius <span id="fr_93"></span>[3](#fn_93.md) indeed tells of a
 Pithoigia or Jar-opening which was 'not of a festal character, but in
 every respect unlucky,' but this is the Pithoigia, the Jar-opening, of
 Pandora. Here we have a hint that a Pithoigia need not be an opening of
@@ -454,8 +454,8 @@ would have escaped us.
 
 <span id="page_43">p. 43</span>
 
-In the vase-painting in [fig. 7](#img_007) from a lekythos in the
-University Museum of Jena <span id="fr_94"></span>[1](#fn_94) we see a
+In the vase-painting in [fig. 7](#img_007.md) from a lekythos in the
+University Museum of Jena <span id="fr_94"></span>[1](#fn_94.md) we see a
 Pithoigia<span id="img_007"></span>
 
 <table data-align="RIGHT">
@@ -477,11 +477,11 @@ into the ground. It has served as a grave. In primitive days many a man,
 Diogenes-like, lived the ' life of the jar' ζωὴ πίθου), but not from
 philosophy, rather from dire necessity. During the Peloponnesian war,
 when the city was crowded with refugees, a jar (πιθάκνη) was a welcome
-shelter <span id="fr_95"></span>[2](#fn_95). A man's home during his
+shelter <span id="fr_95"></span>[2](#fn_95.md). A man's home during his
 life is apt to be his grave in death. In the Dipylon Cemetery at Athens,
-at Aphidna <span id="fr_96"></span>[3](#fn_96), at Corfu, at Thoricus,
+at Aphidna <span id="fr_96"></span>[3](#fn_96.md), at Corfu, at Thoricus,
 and in many another burying place, such grave *pithoi* have come to
-light. From the grave-jar in [fig. 7](#img_007) the lid has been
+light. From the grave-jar in [fig. 7](#img_007.md) the lid has been
 removed; out of it have escaped, fluttering upward, two winged Keres or
 souls, a third soul is in the act of emerging, a fourth is diving
 headlong back into the jar. Hermes Psychopompos, with his magic staff in
@@ -491,7 +491,7 @@ doors! ye souls; it is no longer Anthesteria!' The Pithoigia of the
 Anthesteria is the primitive Pithoigia of the *grave*-jars, later
 overlaid by the Pithoigia of the wine-jars.
 
-The vase-painting in [fig. 7](#img_007) must not be regarded as an
+The vase-painting in [fig. 7](#img_007.md) must not be regarded as an
 actual conscious representation of the Athenian rite performed on the
 first day of the *Anthesteria*. It is more general in content; it is in
 fact simply a representation of ideas familiar to every Greek, that the
@@ -522,7 +522,7 @@ equally as a wine-cellar or a granary or a cemetery.
 
  
 
-The attributes of Hermes in the vase-painting in [fig. 7](#img_007)are
+The attributes of Hermes in the vase-painting in [fig. 7](#img_007.md)are
 noticeable. In one hand he holds his familiar herald's staff, the
 kerykeion. But, and this is the interesting point, he is not using it;
 it is held in the left hand, inert; it is merely attributive, present
@@ -538,7 +538,7 @@ supported; the *rhabdos* is a simple rod, even a pliable twig, a thing
 not by which you are supported but with which you sway others. It is in
 a word the enchanter's wand.
 
-It is with a rhabdos that Circe <span id="fr_97"></span>[1](#fn_97)
+It is with a rhabdos that Circe <span id="fr_97"></span>[1](#fn_97.md)
 transforms the comrades of
 
 <span id="page_45">p. 45</span>
@@ -553,7 +553,7 @@ them in the sties.'</span>
 
 </div>
 
-With the rhabdos Hermes <span id="fr_98"></span>[1](#fn_98) led the
+With the rhabdos Hermes <span id="fr_98"></span>[1](#fn_98.md) led the
 ghosts of the slain suitors to Hades. He held in his hand
 
 <div style="margin-left: 32px">
@@ -569,7 +569,7 @@ doom
 
 This magic wand became the attribute of all who hold sway over the dead.
 It is the wand, not the sceptre, that is the token of life or death, as
-Pindar <span id="fr_99"></span>[2](#fn_99) shows:
+Pindar <span id="fr_99"></span>[2](#fn_99.md) shows:
 
 <div style="margin-left: 32px">
 
@@ -585,7 +585,7 @@ The rhabdos as magic wand was πεισίβροτος, *enchanter* of the dead,
 before it became as sceptre πεισίβροτος, *ruler* of mortals.
 
 Eustathius tells us in the passage already discussed <span
-id="fr_100"></span>[3](#fn_100), that the kerykeion was also called
+id="fr_100"></span>[3](#fn_100.md), that the kerykeion was also called
 πομπός, conductor, and that it was carried in the hands of those who
 performed ceremonies of purification. He is trying, it will be
 remembered, to derive the words διοπομπεῖν and ἀποδιοπομπεῖν. When an
@@ -605,7 +605,7 @@ hold in their hands the *pompos* (i.e. conductor), which they say is the
 kerykeion, the attribute of Hermes.' The object of the whole ceremony is
 'to send out polluted things.' It is, I think, significant that the
 kerykeion, or rather to be strictly accurate the rhabdos <span
-id="fr_101"></span>[1](#fn_101), was carried in apotropaic ceremonies,
+id="fr_101"></span>[1](#fn_101.md), was carried in apotropaic ceremonies,
 presumably with a view to exorcise bad spirits, which as will appear
 later were regarded as the source of all impurities. It is the other
 face of revocation; the rhabdos is used either for the raising or the
@@ -613,13 +613,13 @@ laying of ghosts, for the induction (ἐπαγωγή) of good spirits, for the
 exorcism (ἀποτροπή) of bad.
 
 In discussing the Anthesteria on a previous occasion <span
-id="fr_102"></span>[2](#fn_102), I felt confident that in the opening of
+id="fr_102"></span>[2](#fn_102.md), I felt confident that in the opening of
 the grave-jars we had the complete solution of the difficulty of the
 unlucky character of the day Pithoigia. It seems to me now in the light
 of further investigation that another ritual element may have gone to
 its determination.
 
-Plutarch <span id="fr_103"></span>[3](#fn_103), in discussing the nature
+Plutarch <span id="fr_103"></span>[3](#fn_103.md), in discussing the nature
 of the sacred objects committed to the care of the Vestal Virgins, makes
 the following notable statement: 'Those who pretend to have most special
 knowledge about them (i.e. the Vestal Virgins) assert that there are set
@@ -630,7 +630,7 @@ and that the idea arose from the fact that the maidens then placed most
 of their sacred things in two jars, and hid them underground below the
 temple of Quirinus, and that the place even now is called from that by
 the title *Pithisci* (Doliola).' We have two other notices of these
-Doliola. Varro <span id="fr_104"></span>[4](#fn_104) says: 'The place
+Doliola. Varro <span id="fr_104"></span>[4](#fn_104.md) says: 'The place
 which is called Doliola is at the Cloaca Maxuma, where people are not
 allowed to spit. It is so called from the jars beneath the earth. Two
 accounts are given of these jars: some
@@ -639,14 +639,14 @@ accounts are given of these jars: some
 
 say they contain the bones of dead bodies, others that after the death
 of Numa Pompilius certain sacred objects (religiosa quaedam) were buried
-there.' Festus <span id="fr_105"></span>[1](#fn_105) gives substantially
+there.' Festus <span id="fr_105"></span>[1](#fn_105.md) gives substantially
 the same account, but he says that the sacred objects were buried there
 when the Gauls invaded the city.
 
 Of jars containing 'sacra' we have in Greece no knowledge, but it is
 significant to find that Zeus, who was the heir to so much antique
 ritual, had on his threshold in Olympus two jars, one containing good
-the other evil <span id="fr_106"></span>[2](#fn_106):
+the other evil <span id="fr_106"></span>[2](#fn_106.md):
 
 <div style="margin-left: 32px">
 
@@ -657,10 +657,10 @@ the other evil <span id="fr_106"></span>[2](#fn_106):
 
 With some such notion as that of the Pithoigia must have been connected
 the ceremony of the opening of the *mundus* or round pit on the
-Palatine. Festus <span id="fr_107"></span>[3](#fn_107) tells us that on
+Palatine. Festus <span id="fr_107"></span>[3](#fn_107.md) tells us that on
 three days in the year, August 24, October 5, November 6, the *lapis
 manalis* that covered it was removed. Varro, quoted by Macrobius <span
-id="fr_108"></span>[4](#fn_108), adds: 'when the *mundus* is open, the
+id="fr_108"></span>[4](#fn_108.md), adds: 'when the *mundus* is open, the
 gate of the doleful underworld gods is open.'
 
  
@@ -674,8 +674,8 @@ The ancients sought and found what was to them a satisfactory etymology.
 Istros, writing in the third century B.C. and quoted by Harpocration,
 says that Anthesterion is the blossoming month because then 'the most of
 the things that spring from the earth blossom forth <span
-id="fr_109"></span>[5](#fn_109).' The *Etymologicon Magnum* <span
-id="fr_110"></span>[6](#fn_110) offers an easy-going alternative: feast
+id="fr_109"></span>[5](#fn_109.md).' The *Etymologicon Magnum* <span
+id="fr_110"></span>[6](#fn_110.md) offers an easy-going alternative: feast
 and month bear their names either because the earth then began to
 blossom, or because they offered flowers at the festival.
 
@@ -691,7 +691,7 @@ scholars really content with an etymology that makes of the Anthesteria
 the festival of those who 'did the flowers'?
 
 In a recent paper in the *Hellenic Journal* <span
-id="fr_111"></span>[1](#fn_111) Dr A. W. Verrall has faced the
+id="fr_111"></span>[1](#fn_111.md) Dr A. W. Verrall has faced the
 difficulty and offered a new solution. The names of festivals, he points
 out, are no exception to the rule that nouns in τηριο are normally
 formed from verb-stems through the 'noun of the agent' in τηρ, and take
@@ -711,7 +711,7 @@ possible origin in the preposition ἀν- (ἀνά), of which so many examples
 meaning which would perhaps in any case have suggested itself first, and
 which now seems especially attractive, is that which appears in the
 archaic verb θέσασθαι or θέσσασάθαι *to pray* or *pray for* <span
-id="fr_112"></span>[2](#fn_112), and in the adjectives πολύθεστος and
+id="fr_112"></span>[2](#fn_112.md), and in the adjectives πολύθεστος and
 ἀπόθστος. Prayers and invocations addressed to the dead were a regular
 part of the proceedings by which they were brought back to the world of
 the living. The compound would, after the analogy of άνακαλεῖν and the
@@ -719,7 +719,7 @@ like, bear the sense to *raise by prayer* or *to recall by prayer*,
 literally "to pray up " or "pray back." And ἀνθεστήρια, derived from
 ἀναθέσσασθαι, would be the *feast of revocation*, the name, as usual,
 signifying the action in which the ceremony consisted and which was the
-object of it <span id="fr_113"></span>[3](#fn_113).'
+object of it <span id="fr_113"></span>[3](#fn_113.md).'
 
 In connection with this new and illuminating etymology, it is
 interesting to note that even in their misguided derivation from
@@ -728,10 +728,10 @@ interesting to note that even in their misguided derivation from
 
 <span class="contnote">\[paragraph continues\]</span> the ancients
 themselves lay stress not so much on the flowers as on the rising
-up <span id="fr_114"></span>[1](#fn_114), the ἀνθεῖν ἐκ τῆς γῆς. Under
+up <span id="fr_114"></span>[1](#fn_114.md), the ἀνθεῖν ἐκ τῆς γῆς. Under
 the word Ἄνθεια the *Etymologicon Magnum* says 'a title of Hera when she
 sends up (ἀνίησι) fruits,' where there seems a haunting of the true
-meaning though none of the *form* <span id="fr_115"></span>[2](#fn_115).
+meaning though none of the *form* <span id="fr_115"></span>[2](#fn_115.md).
 
 Dr Verrall declines to assert positively the derivation of *Anthesteria*
 he propounds, but a second philological argument brings certain
@@ -752,7 +752,7 @@ ritual of the month of February.
 The general analogy between the months of Anthesterion and February, and
 the fact that both alike were unlucky and given over to the service of
 the dead, was clear to the ancients themselves. The scholiast on
-Lucian's Timon <span id="fr_116"></span>[3](#fn_116), commenting on the
+Lucian's Timon <span id="fr_116"></span>[3](#fn_116.md), commenting on the
 word *Diasia*, says: 'The day is unlucky . . . there were among the
 Greeks certain days which brought with them complete idleness
 
@@ -773,17 +773,17 @@ been effectively overlaid by the wine-god and his flower garlands, but
 with the Romans there was no such superposition and consequently no
 misunderstanding. They clearly realized two things, that February was
 the month of the dead, and that it was the month of purification.
-Plutarch in his *Roman Questions* <span id="fr_117"></span>[1](#fn_117)
+Plutarch in his *Roman Questions* <span id="fr_117"></span>[1](#fn_117.md)
 asks 'Why was Decimus Brutus wont to sacrifice to the dead in December,
 whereas all other Romans offered libations and sacrifices to the dead in
 the month of February?' In his twenty-fifth Question <span
-id="fr_118"></span>[2](#fn_118), while discussing the reasons why the
+id="fr_118"></span>[2](#fn_118.md), while discussing the reasons why the
 days following respectively the Calends, Nones and Ides of each month
 were unlucky, he tells us that the Romans 'used to consecrate the first
 month of the year to the Olympian gods, but the second to the gods of
 the earth, arid in this second month (February) they were wont to
 practise certain purifications and to sacrifice to the dead.'
-Athenaeus <span id="fr_119"></span>[3](#fn_119) states that 'Juba the
+Athenaeus <span id="fr_119"></span>[3](#fn_119.md) states that 'Juba the
 Mauretanian said that the month of February was so called from the
 terrors of the lower world, with regard to means taken for riddance from
 such alarms at the time when the winter is at its height, and it is the
@@ -801,7 +801,7 @@ this particular month.
 
 Ovid is of all witnesses the most weighty because his testimony is in
 part unconscious. In the opening words of the second book of the
-*Fasti* <span id="fr_120"></span>[1](#fn_120), after an invocation to
+*Fasti* <span id="fr_120"></span>[1](#fn_120.md), after an invocation to
 Janus, he goes straight to the question of what the Romans meant by the
 word *februum*; he notes that the term was applied to many things, wool,
 a branch from a pine-tree, grain roasted with salt, and finally
@@ -838,7 +838,7 @@ significantly the same naturally he does not guess. Still less could he
 conjecture that etymologically February and Anthesterion are in
 substance one.
 
-The two great February festivals <span id="fr_121"></span>[2](#fn_121)
+The two great February festivals <span id="fr_121"></span>[2](#fn_121.md)
 to which Ovid alludes are of course the Feralia and the Lupercalia,
 celebrated respectively on the 21st and 15th of February.
 
@@ -872,7 +872,7 @@ fertility charms.
  To touch Calpurnia, for our elders say  
  The barren touchèd in this holy chase  
  Shake off their sterile curses <span
-id="fr_122"></span>[1](#fn_122).'</span>
+id="fr_122"></span>[1](#fn_122.md).'</span>
 
 </div>
 
@@ -891,7 +891,7 @@ to exorcise evil? The peasant mother of to-day may beat her boy partly
 with a view to stirring his dormant moral impulses, but it is also, as
 she is careful to explain, with intent to 'beat the mischief out of
 him.' In the third Mime of Herondas <span
-id="fr_123"></span>[2](#fn_123) the mother is explicit as to the
+id="fr_123"></span>[2](#fn_123.md) the mother is explicit as to the
 expulsive virtue of beating. Her boy is a gambler and a dunce, so she
 begs the schoolmaster to
 
@@ -908,7 +908,7 @@ She is in the usual primitive dilemma: his spirit is bad but it is his
 life; it is kill and cure.
 
 The strips of goat-skin were *februa* <span
-id="fr_124"></span>[1](#fn_124), purifying, and thereby fertility
+id="fr_124"></span>[1](#fn_124.md), purifying, and thereby fertility
 charms. As such they cast sudden illumination on the 'magic fleece'
 already discussed. The animal sacrificed, be it sheep or goat or dog, is
 itself a placation to ghosts or underworld powers; hence its skin
@@ -977,8 +977,8 @@ anointing with pitch, the mandate to depart, were feared as evil
 influences to be averted; but there is curious evidence to show that at
 the time of the Anthesteria the coming of the ghosts was regarded as a
 direct promotion of fertility. Athenaeus <span
-id="fr_125"></span>[1](#fn_125), quoting the Commentaries of
-Hegesander <span id="fr_126"></span>[2](#fn_126), tells us of a curious
+id="fr_125"></span>[1](#fn_125.md), quoting the Commentaries of
+Hegesander <span id="fr_126"></span>[2](#fn_126.md), tells us of a curious
 tradition among the natives of Apollonia in Chalkis. 'Around Apollonia
 of Chalkidike there flow two rivers, the Ammites and the Olynthiacus and
 both fall into the lake Bolbe. And on the river Olynthiacus stands a
@@ -1002,7 +1002,7 @@ cheerful, hopeful ceremonial of 'tendance.'
 <span id="page_55">p. 55</span>
 
 To resume, the Anthesteria was primarily a Feast of All Souls: it
-later <span id="fr_127"></span>[1](#fn_127) became a revel of Dionysos,
+later <span id="fr_127"></span>[1](#fn_127.md) became a revel of Dionysos,
 and at the revel men wreathed their cups with flowers, but, save for a
 vague and unscientific etymology, we have no particle of evidence that
 the Anthesteria was ever a Feast of Flowers. The transition from the
@@ -1047,7 +1047,7 @@ that the one almost implied the other; the ἱερεῖον, the animal victim,
 was the material for the κρεοδαισία, the flesh feast. So prominent in
 the Homeric mind was the element of feasting the worshipper that the
 feast is sometimes the only stated object. Thus Odysseus <span
-id="fr_128"></span>[1](#fn_128) gives command to Telemachus and his
+id="fr_128"></span>[1](#fn_128.md) gives command to Telemachus and his
 thralls:
 
 <div style="margin-left: 32px">
@@ -1076,10 +1076,10 @@ Before we leave the ἱερεῖον, the animal sacrificed and eaten, one word
 of caution is necessary. It is sometimes argued that animal sacrifice,
 as contrasted with the simpler offerings of grain and fruits, is the
 mark of a later and more luxurious social state. Such was the view of
-Porphyry <span id="fr_129"></span>[2](#fn_129) the vegetarian.
+Porphyry <span id="fr_129"></span>[2](#fn_129.md) the vegetarian.
 Flesh-eating and flesh sacrifice is to him the mark of a cruel and
 barbarous licence. Such too was the view of Eustathius <span
-id="fr_130"></span>[3](#fn_130). In commenting on the of οὐλοχύται, the
+id="fr_130"></span>[3](#fn_130.md). In commenting on the of οὐλοχύται, the
 barley grain scattered, he says, 'after the offering of barley grain
 came sacrifices and the eating of meat at sacrifices, because after the
 discovery of necessary foods the luxury of a meat diet and imported
@@ -1094,8 +1094,8 @@ broadly true. The primitive
 dwellers in Greece and round the Mediterranean generally lived mainly on
 vegetarian diet, diversified by fish, and the custom of flesh-eating in
 large quantities was an innovation brought from without <span
-id="fr_131"></span>[1](#fn_131) (ἐπείσακτον). Athenaeus <span
-id="fr_132"></span>[2](#fn_132) in his first book discusses the various
+id="fr_131"></span>[1](#fn_131) (ἐπείσακτον.md). Athenaeus <span
+id="fr_132"></span>[2](#fn_132.md) in his first book discusses the various
 kinds of food, and dwells with constant astonishment on the flesh-eating
 habits of the Achaean heroes of Homer. He quotes the comic poet Eubulos
 as asking
@@ -1129,7 +1129,7 @@ First it is necessary to establish the fact that in usage the terms
 θύειν and ἐναγίζειν are clearly distinguished. A passage in Pausanias is
 for this purpose of capital importance. Pausanias is visiting a
 sanctuary of Herakles at Sicyon. He makes the following
-observations <span id="fr_133"></span>[3](#fn_133): 'In the matter of
+observations <span id="fr_133"></span>[3](#fn_133.md): 'In the matter of
 sacrifice they are accustomed
 
 <span id="page_58">p. 58</span>
@@ -1154,7 +1154,7 @@ of that portion no man eats.
 A second passage from Pausanias adds a further element of
 differentiation. At Megalopolis, Pausanias visited a sanctuary of the
 Eumenides. Of their ritual he speaks as follows <span
-id="fr_134"></span>[1](#fn_134): 'They say that when these goddesses
+id="fr_134"></span>[1](#fn_134.md): 'They say that when these goddesses
 would drive Orestes mad they appeared to him black, but that after he
 had bitten off his finger they seemed to him white, and his senses
 returned to him, and therefore he made over an offering to the black
@@ -1182,7 +1182,7 @@ The word ἐναγίζειν can only mean the making of or dealing
 with something that is of the nature of an ἄγος, or, as the word
 sometimes appears, a ἅγος. It did not escape that acute observer of man
 and his language, Archbishop Eustathius <span
-id="fr_135"></span>[1](#fn_135), that this word and its cognate ἅγιος,
+id="fr_135"></span>[1](#fn_135.md), that this word and its cognate ἅγιος,
 holy, had in ancient days a double significance, that holy was not only
 pure but also polluted; this, he says, 'is on account of the double
 meaning of ἅγος' To put the matter into modern phraseology, ἅγος is the
@@ -1199,10 +1199,10 @@ fact may well remind us that we have lost not only the word but the
 thought, and must be at some pains to recover it. In the discussion that
 follows no translation of ἐναγίζειν will be attempted: I shall frankly
 use the Greek word and thereby avoid all danger from misleading modern
-connotations <span id="fr_136"></span>[2](#fn_136).
+connotations <span id="fr_136"></span>[2](#fn_136.md).
 
 Quite accidentally, in the middle of a discourse on the various sorts of
-soap and washing basins, Athenaeus <span id="fr_137"></span>[3](#fn_137)
+soap and washing basins, Athenaeus <span id="fr_137"></span>[3](#fn_137.md)
 has preserved for us a record of the exact ritual of ἐναγισμοί. After
 stating that the word ἀπόνιπτρον, washing off, is applied alike to the
 water in which either feet or hands are washed, he goes on to note that
@@ -1256,13 +1256,13 @@ suppliant, the blood is put upon him that he may be identified with the
 victim, the ghost is deceived and placated. The ghost demands blood, not
 to satisfy a physical but so to speak a spiritual thirst, the thirst for
 vengeance. This thirst can only be quenched by the water polluted, the
-'offscourings' <span id="fr_138"></span>[1](#fn_138) of the suppliant.
+'offscourings' <span id="fr_138"></span>[1](#fn_138.md) of the suppliant.
 
 The suppliant for purification in the ritual just described was
 identified with the victim, or rather perhaps we should say the victim
 with the suppliant, by pouring over the suppliant the victim's blood.
 There were other means of identification. It has already been seen ([p.
-27](pgr03.htm#page_27)) that the suppliant sometimes put on the whole
+27](pgr03.htm#page_27).md) that the suppliant sometimes put on the whole
 skin of the victim, sometimes merely stood with his foot on the fleece.
 Another and more attenuated form of identification was the wearing of
 fillets, i.e. strands of wool confined at intervals by knots to make
@@ -1275,15 +1275,15 @@ their significance was forgotten, and they became mere symbols of
 office. The omphalos at Delphi, itself a mantic tomb, was covered with a
 net-work of wool-fillets, renewed no doubt at first with the offering of
 each new victim, later copied in stone <span
-id="fr_139"></span>[2](#fn_139), but always the symbol of recurring
+id="fr_139"></span>[2](#fn_139.md), but always the symbol of recurring
 sacrifice.
 
 The dread ceremonial of ἐναγισμός in its crudest, most barbarous form,
-is very clearly shown on the vase-painting in [fig. 8](#img_008), from a
+is very clearly shown on the vase-painting in [fig. 8](#img_008.md), from a
 'Tyrrhenian' amphora now in the British Museum <span
-id="fr_140"></span>[3](#fn_140). The scene depicted is the sacrifice of
+id="fr_140"></span>[3](#fn_140.md). The scene depicted is the sacrifice of
 Polyxena on the tomb of Achilles. In the *Hecuba* of Euripides <span
-id="fr_141"></span>[4](#fn_141), Neoptolemos takes Polyxena by the hand
+id="fr_141"></span>[4](#fn_141.md), Neoptolemos takes Polyxena by the hand
 and leads her to the top of the
 
 <span id="page_62">p. 62</span>
@@ -1298,13 +1298,13 @@ Black and unmixed.'</span>
 
 </div>
 
-In the centre of the design in [fig. 8](#img_008) is the omphalos-shaped
-grave <span id="fr_142"></span>[1](#fn_142), which is in fact the altar.
+In the centre of the design in [fig. 8](#img_008.md) is the omphalos-shaped
+grave <span id="fr_142"></span>[1](#fn_142.md), which is in fact the altar.
 Right over it the sacrifice takes
 
 <span id="img_008"></span> <span align="CENTER"> [![FIG.
 8.](tn/008.jpg)  
-Click to enlarge](img/008.jpg)  
+Click to enlarge](img/008.jpg.md)  
 FIG. 8.  
 </span>
 
@@ -1316,8 +1316,8 @@ the army is purged.
 
 The blood only is offered to the ghost--the blood is the life, and it is
 vengeance, not food, the ghost cries for. It is so with the Erinyes, who
-are but angry ghosts <span id="fr_143"></span>[2](#fn_143); when they
-hunt Orestes they cry <span id="fr_144"></span>[3](#fn_144),
+are but angry ghosts <span id="fr_143"></span>[2](#fn_143.md); when they
+hunt Orestes they cry <span id="fr_144"></span>[3](#fn_144.md),
 
 <div style="margin-left: 32px">
 
@@ -1331,7 +1331,7 @@ drunk a mother's blood, and they in turn
 <div style="margin-left: 32px">
 
 <span class="small">'Will gulp the living gore red from his limbs <span
-id="fr_145"></span>[4](#fn_145).'</span>
+id="fr_145"></span>[4](#fn_145.md).'</span>
 
 </div>
 
@@ -1346,18 +1346,18 @@ sacrifice without feast. It will be burnt on the low-lying *eschara* or
 portable hearth that stands on the grave. The *eschara* was by the
 ancients clearly distinguished from the altar proper, the βωμός. The
 *eschara*, says the scholiast on the *Phoenissae* <span
-id="fr_146"></span>[1](#fn_146) of Euripides, is 'accurately speaking
+id="fr_146"></span>[1](#fn_146.md) of Euripides, is 'accurately speaking
 the trench in the earth where they offer ἐναγισμοί to those who are gone
 below; the altar is that on which they sacrifice to the heavenly gods.'
 
-Porphyry <span id="fr_147"></span>[2](#fn_147), who is learned in ritual
+Porphyry <span id="fr_147"></span>[2](#fn_147.md), who is learned in ritual
 matters, draws the same distinction. 'To the Olympian gods they set up
 temples and shrines and altars, but to the Earth-gods and to heroes,
 escharas, while for those below the earth there are trenches and
 megara.'
 
 It is on an *eschara* that Clytaemnestra does her infernal service to
-the Erinyes <span id="fr_148"></span>[3](#fn_148). She cries to them in
+the Erinyes <span id="fr_148"></span>[3](#fn_148.md). She cries to them in
 bitter reproach:
 
 <div style="margin-left: 32px">
@@ -1376,13 +1376,13 @@ The eschara on which the holocaust to the underworld gods is burnt lies
 low upon the ground; the βωμός, the altar of the Olympians, rises higher
 and higher heavenwards. There is the like symbolism in the actual manner
 of the slaying of the victim. Eustathius <span
-id="fr_149"></span>[4](#fn_149), in commenting on the sacrifice of
+id="fr_149"></span>[4](#fn_149.md), in commenting on the sacrifice of
 Chryses to Phoebus Apollo, when they 'drew back the victims’ heads,'
 says 'according to the custom of the Greeks, for if they are sacrificing
 to those above they bend back the neck of the sacrificial animal so that
 it may look away towards the sky, but if to heroes or to the dead in
 general the victim is sacrificed looking downwards.' Eustathius <span
-id="fr_150"></span>[5](#fn_150) again says of the prayer of Achilles,
+id="fr_150"></span>[5](#fn_150.md) again says of the prayer of Achilles,
 'by looking heavenwards he expresses vividly whither the prayer is
 directed, for Achilles is not praying to Zeus of the underworld, but to
 Zeus of the sky.' The Christian of to-day, though he believes his God is
@@ -1393,7 +1393,7 @@ everywhere, yet
 uplifts his hands to pray. For the like reason the victim for the dead
 was black and that for the Olympians frequently white; that for the dead
 sacrificed at the setting of the sun, that for the Ouranians at the
-dawn <span id="fr_151"></span>[1](#fn_151). Upon certain holocausts, as
+dawn <span id="fr_151"></span>[1](#fn_151.md). Upon certain holocausts, as
 has already been seen, the sun might not look.
 
 The ritual of the ἐναγισμοί is then of *purgation by placation of the
@@ -1424,7 +1424,7 @@ sacrifice burnt, not the sacred thing killed and carved for a meal, but
 simply the victim hacked and hewn to pieces. Such a victim was not even
 necessarily skinned. Of what use to carefully flay a thing doomed to
 utter destruction? In the Electra of Euripides <span
-id="fr_152"></span>[2](#fn_152) the old man describes such a σφάγιον:
+id="fr_152"></span>[2](#fn_152.md) the old man describes such a σφάγιον:
 
 <div style="margin-left: 32px">
 
@@ -1440,7 +1440,7 @@ always used of human victims, and of such animals as
 
 were in use as surrogates. The term is applied to all the famous
 maiden-sacrifices of mythology. Ion <span
-id="fr_153"></span>[1](#fn_153) asks Creousa:
+id="fr_153"></span>[1](#fn_153.md) asks Creousa:
 
 <div style="margin-left: 32px">
 
@@ -1458,7 +1458,7 @@ land.'</span>
 
 </div>
 
-As a σφάγιον Polyxena <span id="fr_154"></span>[2](#fn_154) is slain on
+As a σφάγιον Polyxena <span id="fr_154"></span>[2](#fn_154.md) is slain on
 the tomb of Achilles; she dies as an atonement, a propitiation, as
 'medicine of salvation.'
 
@@ -1467,7 +1467,7 @@ The normal and most frequent use of σφάγιαwas, as in the case of
 emergency, of pestilence, of famine, and throughout historical times at
 the moment before a battle, σφάγιαwere regularly offered. They seem to
 have been carried round or through the person or object to be purified.
-Athenaeus <span id="fr_155"></span>[3](#fn_155) records an instructive
+Athenaeus <span id="fr_155"></span>[3](#fn_155.md) records an instructive
 instance. The inhabitants of Kynaetho, a village in Arcadia, neglected
 the civilizing influences of dancing and feasting, and became so savage
 and impious that they never met except for the purpose of quarrelling.
@@ -1481,7 +1481,7 @@ As purifications the use of σφάγια needs no further comment. It is less
 obvious at first why σφάγια were always employed in the taking of oaths.
 The expression τέμνειν σφάγια is the equivalent of the familiar τέμνειν
 ὅρκια. In the Suppliants of Euripides <span
-id="fr_156"></span>[4](#fn_156) Athene says to Theseus:
+id="fr_156"></span>[4](#fn_156.md) Athene says to Theseus:
 
 <div style="margin-left: 32px">
 
@@ -1499,16 +1499,16 @@ the oaths and the blood.
 
 In the ordinary ritual of the taking of oaths, the oath-taker actually
 stood upon the pieces of the slaughtered animal. Pausanias <span
-id="fr_157"></span>[1](#fn_157), on the road between Sparta and Arcadia,
+id="fr_157"></span>[1](#fn_157.md), on the road between Sparta and Arcadia,
 came to a place called 'Horse's Tomb.' There Tyndareus sacrificed a
 horse and made Helen's suitors take an oath, causing them to stand on
 the cut-up pieces of the horse,--having made them take the oath, he
-buried the horse. At Stenyclerum <span id="fr_158"></span>[2](#fn_158)
+buried the horse. At Stenyclerum <span id="fr_158"></span>[2](#fn_158.md)
 in Messenia was another monument, called 'Boar's Monument,' where it was
 said Herakles had given an oath to the sons of Neleus on the cut pieces
 of a boar. Nor is the custom of swearing on the cut pieces recorded only
 by mythology. In the Bouleuterion at Elis was an image of Zeus, of all
-others,' says Pausanias <span id="fr_159"></span>[3](#fn_159), 'best
+others,' says Pausanias <span id="fr_159"></span>[3](#fn_159.md), 'best
 fitted to strike terror into evildoers.' Its surname was Horkios, He of
 the Oath. Near this image the athletes, their fathers, brothers, and
 trainers had to swear on the cut pieces of a boar that they would be
@@ -1527,7 +1527,7 @@ being cast by the herald into the sea:
  The boar's throat, and the boar Talthybios whirled,  
  And in the great wash of the hoary sea  
  He cast it to the fish for food <span
-id="fr_160"></span>[4](#fn_160)."</span>
+id="fr_160"></span>[4](#fn_160.md)."</span>
 
 </div>
 
@@ -1551,7 +1551,7 @@ have taken the form of σφάγια rather than ἱερεῖα. At first sight t
 winds would appear to be if anything Ouranian powers of the upper air,
 yet it seems that sacrifices to the winds were buried, not burnt.
 
-What astonished Pausanias <span id="fr_161"></span>[1](#fn_161) more
+What astonished Pausanias <span id="fr_161"></span>[1](#fn_161.md) more
 than anything else he saw at Methana in Troezen was a ceremony for
 averting the winds. 'A wind called Lips, which rushes down from the
 Saronic gulf, dries up the tender shoots of the vine. When the squall is
@@ -1568,7 +1568,7 @@ pharmakos ceremonies, to be considered later, rather than a sacrifice
 proper. For a σφάγιον we should expect the cock to be black, but on the
 principle of sympathetic magic it is in this case white. The normal
 sacrifice to a wind was a black animal. When in the Frogs <span
-id="fr_162"></span>[2](#fn_162) a storm is brewing between Aeschylus and
+id="fr_162"></span>[2](#fn_162.md) a storm is brewing between Aeschylus and
 Euripides, and threatens to burst, Dionysos calls out:
 
 <div style="margin-left: 32px">
@@ -1582,7 +1582,7 @@ Winds were underworld gods, but when propitious they had a strong and
 natural tendency to become Ouranian, and the white sacrifices with
 intent to compel their beneficence would help this out. They are an
 exact parallel to the black and white Eumenides already noted.
-Virgil <span id="fr_163"></span>[3](#fn_163) says:
+Virgil <span id="fr_163"></span>[3](#fn_163.md) says:
 
 <div style="margin-left: 32px">
 
@@ -1594,7 +1594,7 @@ West.'</span>
 <span id="page_68">p. 68</span>
 
 Equally instructive is the account given by Pausanias <span
-id="fr_164"></span>[1](#fn_164) of the ceremonies performed at Titane to
+id="fr_164"></span>[1](#fn_164.md) of the ceremonies performed at Titane to
 soothe the winds, though with his customary vagueness Pausanias
 describes them by the word θύειν when they are really ἐναγισμοί. They
 are performed on one night in each year, and Pausanias adds, the priest
@@ -1604,7 +1604,7 @@ four winds dwelt, it is clear, as a chthonic power, in a pit; his
 sacrifice was after the fashion of heroes and ghosts. It is possible,
 indeed probable, that the pits were in connection with the tomb of some
 hero or heroine. The sacrifice of Iphigeneia was παυσάνεμος <span
-id="fr_165"></span>[2](#fn_165), with power to stay the winds; that of
+id="fr_165"></span>[2](#fn_165.md), with power to stay the winds; that of
 Polyxena at the tomb of Achilles bad the like virtue. Be that as it may,
 it will be seen when we come to demonology that the winds were regarded
 as ghosts, as breaths: as such their cult was necessarily chthonic.
@@ -1617,8 +1617,8 @@ purposes of divination. Used as they were for purification in any great
 emergency, mere economy may have suggested that they should be further
 utilized for oracular purposes. The greater solemnity of σφάγια would
 lend to the omens taken from them a specially portentous virtue <span
-id="fr_166"></span>[3](#fn_166). It is amusing to find that even
-Porphyry <span id="fr_167"></span>[4](#fn_167), averse though he is to
+id="fr_166"></span>[3](#fn_166.md). It is amusing to find that even
+Porphyry <span id="fr_167"></span>[4](#fn_167.md), averse though he is to
 human sacrifice, still seems to feel a dim possibility that for mantic
 purposes human entrails may have special virtue. 'But it will be urged,'
 he says, as though stating a possible and reasonable argument, 'that the
@@ -1626,14 +1626,14 @@ future may be more clearly' divined from the vitals of a man.'
 
 Precise authors who know about ritual always distinguish between the
 omens taken from ordinary animal sacrifice and those from σφάγια. Thus
-Xenophon <span id="fr_168"></span>[5](#fn_168) in the *Anabasis* says,
+Xenophon <span id="fr_168"></span>[5](#fn_168.md) in the *Anabasis* says,
 The sacrifices (ἱερεῖα) are propitious to us, the omens favourable, the
 σφάγια most propitious.' The practice of using σφάγια for omens
 
 <span id="page_69">p. 69</span>
 
 before a battle would seem to have been uniform. When women, says
-Eteocles <span id="fr_169"></span>[1](#fn_169), are wailing and making a
+Eteocles <span id="fr_169"></span>[1](#fn_169.md), are wailing and making a
 commotion, it is the part of men
 
 <div style="margin-left: 32px">
@@ -1647,13 +1647,13 @@ It is probably to this oracular function of σφάγια that we owe the very
 frequent use of the middle σφαγιάζεσθαι, as in the parallel case of
 θύειν, the sacrifice by fire. For θύειν, and θύεσθαι the distinction is
 familiar, and expressly stated by Ammonius <span
-id="fr_170"></span>[2](#fn_170): 'of those who simply sacrifice (active)
+id="fr_170"></span>[2](#fn_170): 'of those who simply sacrifice (active.md)
 the victims the word θύουσι is used, of those who take omens from the
 entrails θύονται.' The active is of the nature of thanksgiving, the
 middle partakes of prayer and impulsion. In the case of σφάγια the
 active is very rarely in use, and naturally, for the sacrifice of σφάγια
 has in it no element of thanksgiving <span
-id="fr_171"></span>[3](#fn_171).
+id="fr_171"></span>[3](#fn_171.md).
 
 The ritual then of σφάγια and of ἐναγισμοί, of slaughter and of
 purification, is based on the fear of ghosts, of ghosts and their action
@@ -1667,7 +1667,7 @@ Nowhere perhaps is this instinct of aversion so clearly seen, seen in a
 form where the instinct has not yet chilled and crystallized into
 definite ritual, as in the account of the murder of Absyrtos by Jason
 and Medea as given by Apollonius Rhodius <span
-id="fr_172"></span>[4](#fn_172). The murder was by a treacherous
+id="fr_172"></span>[4](#fn_172.md). The murder was by a treacherous
 ambuscade set for Absyrtos at the threshold
 
 <span id="page_70">p. 70</span>
@@ -1698,11 +1698,11 @@ Apollonius tries to make a ritual of the awful instinct of physical
 fear. The body is mangled that the angry ghost may be maimed, the blood
 actually licked up that the murderer may spit it forth and rid himself
 of the fell pollution. Only then can the corpse be safely buried <span
-id="fr_173"></span>[1](#fn_173). But it is too late, for Absyrtos has
+id="fr_173"></span>[1](#fn_173.md). But it is too late, for Absyrtos has
 put the blood upon Medea.
 
 Clytaemnestra, when she murdered Agamemnon, followed the same horrid
-practice of 'aversion.' Sophocles <span id="fr_174"></span>[2](#fn_174)
+practice of 'aversion.' Sophocles <span id="fr_174"></span>[2](#fn_174.md)
 makes Electra say:
 
 <div style="margin-left: 32px">
@@ -1721,8 +1721,8 @@ than mainly the means of maiming
 
 <span id="page_71">p. 71</span>
 
-him <span id="fr_175"></span>[1](#fn_175). But the scholiast <span
-id="fr_176"></span>[2](#fn_176) on the *Electra* clearly explains the
+him <span id="fr_175"></span>[1](#fn_175.md). But the scholiast <span
+id="fr_176"></span>[2](#fn_176.md) on the *Electra* clearly explains the
 gist of the ceremonial. He says these things were done 'as taking away
 the force of the dead so that later they may suffer nothing fearful from
 them.'
@@ -1735,14 +1735,14 @@ by direct appeal to the ghost itself lived on.
 
 The case of Pausanias gives curious evidence as to the procedure of an
 educated murderer of the fifth century B.C. Pausanias <span
-id="fr_177"></span>[3](#fn_177) the traveller tells how his namesake
+id="fr_177"></span>[3](#fn_177.md) the traveller tells how his namesake
 sought protection from the Goddess of the Brazen House, but failed
 because he was defiled by blood. This pollution he tried by every
 possible means to expiate: he had recourse to purifications of all
 kinds, he made supplication to Zeus Phyxios, a being obviously akin to
 Meilichios--and he resorted to the Psychagogi, the Ghost-Compellers of
 Phigalia. They seem to have failed, for Plutarch <span
-id="fr_178"></span>[4](#fn_178) tells us he sent to Italy for experts,
+id="fr_178"></span>[4](#fn_178.md) tells us he sent to Italy for experts,
 and they, after they had done sacrifice, *wrenched the ghost out of the
 sanctuary*.
 
@@ -1752,7 +1752,7 @@ would behave were he yet living--pursue him for vengeance; the ghost is
 an actual, almost physical reality. It needed a Euripides to see that
 this ghost was a purely subjective horror, a disordered conscience. He
 makes Menelaos ask the mad Orestes <span
-id="fr_179"></span>[5](#fn_179):
+id="fr_179"></span>[5](#fn_179.md):
 
 <div style="margin-left: 32px">
 
@@ -1787,7 +1787,7 @@ complete confidence in their rightness. Then he tries by a cheat to
 reconcile his new view and his old custom. Religion, which once inspired
 the best in him, lags behind, expressing the worst.
 
-Suidas <span id="fr_180"></span>[1](#fn_180) tells a story which
+Suidas <span id="fr_180"></span>[1](#fn_180.md) tells a story which
 curiously expresses this state of transition, this cheating of the god
 to save the conscience of the worshipper. The Greeks had a proverb,
 Ἔμβαρός εἰμι, 'I am Embaros,' which they used, according to Suidas, of a
@@ -1813,7 +1813,7 @@ who cried for human blood. In moments of great peril
 
 this belief in the vindictiveness of ghosts, a belief kept in check by
 reason in the day-time, might surge up in a man's mind and haunt his
-dreams by night. Plutarch <span id="fr_181"></span>[1](#fn_181) tells an
+dreams by night. Plutarch <span id="fr_181"></span>[1](#fn_181.md) tells an
 instructive story about a dream that came to Pelopidas before the battle
 of Leuctra. Near the field of battle was a field where were the tombs of
 the daughters of Scedasos, a local hero. The maidens, who were obviously
@@ -1865,16 +1865,16 @@ man's whole activity is not bounded by revenge, ghosts have other and
 simpler needs than that of vengeance. The service of the underworld is
 not all aversion, there is also some element of tendance.
 
-In the vase-painting in [fig. 9](#img_009), a design from a rather late
+In the vase-painting in [fig. 9](#img_009.md), a design from a rather late
 
 <span id="img_009"></span> <span align="CENTER"> [![FIG.
 9.](tn/009.jpg)  
-Click to enlarge](img/009.jpg)  
+Click to enlarge](img/009.jpg.md)  
 FIG. 9.  
 </span>
 
 red-figured krater in the Bibliothèque Nationale <span
-id="fr_182"></span>[1](#fn_182) in Paris, we have a representation of a
+id="fr_182"></span>[1](#fn_182.md) in Paris, we have a representation of a
 familiar scene, the raising of the ghost of
 
 <span id="page_75">p. 75</span>
@@ -1883,7 +1883,7 @@ familiar scene, the raising of the ghost of
 Odysseus, as described in the *Nekuia*. Vase-paintings of this date tend
 to be rather illustrations than independent conceptions, but they
 sometimes serve the purpose of vivid presentation. Odysseus <span
-id="fr_183"></span>[1](#fn_183) has dug the trench, he has poured the
+id="fr_183"></span>[1](#fn_183.md) has dug the trench, he has poured the
 drink-offering of mead and sweet wine and water, and sprinkled the white
 meal, and he has slain the sheep; the head and feet of one of them,
 seemingly a black ram, are visible above the trench. He has sat him down
@@ -1892,7 +1892,7 @@ comrades wait the up-rising of Teiresias. Out of the very trench is seen
 emerging the bald ghost-like head of the seer. This is a clear case, not
 of deprecation but of invocation. Teiresias by the strength of the black
 blood returns to life. There is a clear reminiscence of the
-ghost-raising <span id="fr_184"></span>[2](#fn_184) that went on at many
+ghost-raising <span id="fr_184"></span>[2](#fn_184.md) that went on at many
 a hero's tomb, for, as will later be seen in the discussion of
 hero-worship, every hero was apt to be credited with mantic powers. The
 victims slain are in a sense, as Homer calls them, ἱερήια; they are
@@ -1906,7 +1906,7 @@ Olympians; it is no grim atonement, but at worst a bloody banquet, at
 best a human feast, too human, too universal to need detailed
 elucidation. It is a ritual founded on a belief deep-rooted and
 long-lived; with the Greeks it was alive in Lucian's <span
-id="fr_185"></span>[3](#fn_185) days. Charon asks Hermes why men dig a
+id="fr_185"></span>[3](#fn_185.md) days. Charon asks Hermes why men dig a
 trench, and burn expensive feasts, and pour wine and honey into a
 trench. Hermes answers that he cannot think what good it can do to those
 in Hades, but 'anyhow people believe that the dead are summoned up from
@@ -1918,7 +1918,7 @@ the same.
 <span id="page_76">p. 76</span>
 
 The Anthesteria was a festival of ghosts, overlaid by a festival of
-Dionysos <span id="fr_186"></span>[1](#fn_186), and so far the
+Dionysos <span id="fr_186"></span>[1](#fn_186.md), and so far the
 *riddance* of ghosts by means of placation has been shown to be an
 important element in ancient sacrifice and in the ancient notion of
 purification. But placation of ghosts does not exhaust the content even
@@ -1929,41 +1929,41 @@ early summer that has next to be considered, the *Thargelia*.
 
 ### Footnotes
 
-<span id="fn_54"></span>[32:1](pgr04.htm#fr_54) The sources for the
+<span id="fn_54"></span>[32:1](pgr04.htm#fr_54.md) The sources for the
 Anthesteria are collected and discussed in the Lexicons of Pauly-Wissowa
 and of Daremberg and Saglio and more completely in Dr Martin Nilsson's
 *Studia de Dionysus Attici*s (Lundae, 1900), which has been of great
 service to me.
 
-<span id="fn_55"></span>[32:2](pgr04.htm#fr_55) Harpocrat. s.v.
+<span id="fn_55"></span>[32:2](pgr04.htm#fr_55.md) Harpocrat. s.v.
 
-<span id="fn_56"></span>[33:1](pgr04.htm#fr_56) Plut. *Q. Symp*. III. 7.
+<span id="fn_56"></span>[33:1](pgr04.htm#fr_56.md) Plut. *Q. Symp*. III. 7.
 1.
 
-<span id="fn_57"></span>[33:2](pgr04.htm#fr_57) The gist of such
+<span id="fn_57"></span>[33:2](pgr04.htm#fr_57.md) The gist of such
 offerings will be considered under the Thargelia.
 
-<span id="fn_58"></span>[33:3](pgr04.htm#fr_58) Plut. *Q. Symp*. VIII.
+<span id="fn_58"></span>[33:3](pgr04.htm#fr_58.md) Plut. *Q. Symp*. VIII.
 3.
 
-<span id="fn_59"></span>[33:4](pgr04.htm#fr_59) *Op*. 368.
+<span id="fn_59"></span>[33:4](pgr04.htm#fr_59.md) *Op*. 368.
 
-<span id="fn_60"></span>[33:5](pgr04.htm#fr_60) Discussed in relation to
+<span id="fn_60"></span>[33:5](pgr04.htm#fr_60.md) Discussed in relation to
 Dionysos, see infra, Chapter VIII.
 
-<span id="fn_61"></span>[33:6](pgr04.htm#fr_61) See [p. 76](#page_76).
+<span id="fn_61"></span>[33:6](pgr04.htm#fr_61) See [p. 76](#page_76.md).
 
-<span id="fn_62"></span>[33:7](pgr04.htm#fr_62) Ar. *Ran*. 212, trans.
+<span id="fn_62"></span>[33:7](pgr04.htm#fr_62.md) Ar. *Ran*. 212, trans.
 Mr Gilbert Murray.
 
-<span id="fn_63"></span>[34:1](pgr04.htm#fr_63) Aristoph. *Ach*. 1076,
+<span id="fn_63"></span>[34:1](pgr04.htm#fr_63.md) Aristoph. *Ach*. 1076,
 schol. ad loc.
 
-<span id="fn_64"></span>[34:2](pgr04.htm#fr_64) Thucyd. II. 15.
+<span id="fn_64"></span>[34:2](pgr04.htm#fr_64.md) Thucyd. II. 15.
 
-<span id="fn_65"></span>[34:3](pgr04.htm#fr_65) Harpocrat. s.v. Χόες.
+<span id="fn_65"></span>[34:3](pgr04.htm#fr_65.md) Harpocrat. s.v. Χόες.
 
-<span id="fn_66"></span>[35:1](pgr04.htm#fr_66) Suidas s.v. θύραζε· ...
+<span id="fn_66"></span>[35:1](pgr04.htm#fr_66.md) Suidas s.v. θύραζε· ...
 Photius s.v. substantially identical.
 
 To the information here given Zenobius (*Cent. Paroimiogr*.) adds: ....
@@ -1977,51 +1977,51 @@ because 'Gespenstern zeigt man nicht die Thür wie einem Bettler,' a
 difficulty that will scarcely be felt by any one acquainted with
 primitive customs.
 
-<span id="fn_67"></span>[35:2](pgr04.htm#fr_67) Ovid, *Fasti* v. 443.
+<span id="fn_67"></span>[35:2](pgr04.htm#fr_67.md) Ovid, *Fasti* v. 443.
 
-<span id="fn_68"></span>[36:1](pgr04.htm#fr_68) *Primitive Culture* II.
+<span id="fn_68"></span>[36:1](pgr04.htm#fr_68.md) *Primitive Culture* II.
 p. 40.
 
-<span id="fn_69"></span>[36:2](pgr04.htm#fr_69) *Religion des Vedas*, p.
+<span id="fn_69"></span>[36:2](pgr04.htm#fr_69.md) *Religion des Vedas*, p.
 553.
 
-<span id="fn_70"></span>[36:3](pgr04.htm#fr_70) Schol. ad Ar. *Ran*.
+<span id="fn_70"></span>[36:3](pgr04.htm#fr_70.md) Schol. ad Ar. *Ran*.
 218: ... whichever be followed, the mandate of not tasting is clear.
 
-<span id="fn_71"></span>[37:1](pgr04.htm#fr_71) Schol. ad Ar. *Ach*.
+<span id="fn_71"></span>[37:1](pgr04.htm#fr_71.md) Schol. ad Ar. *Ach*.
 ....
 
-<span id="fn_72"></span>[37:2](pgr04.htm#fr_72) *Feste der Stadt Athen*,
+<span id="fn_72"></span>[37:2](pgr04.htm#fr_72.md) *Feste der Stadt Athen*,
 p. 385.
 
-<span id="fn_73"></span>[37:3](pgr04.htm#fr_73) P. iv. 35. 9 ....
+<span id="fn_73"></span>[37:3](pgr04.htm#fr_73.md) P. iv. 35. 9 ....
 
-<span id="fn_74"></span>[37:4](pgr04.htm#fr_74) Herod. VIII. 176.
+<span id="fn_74"></span>[37:4](pgr04.htm#fr_74.md) Herod. VIII. 176.
 
-<span id="fn_75"></span>[37:5](pgr04.htm#fr_75) Theoph. *Hist. Plant*.
+<span id="fn_75"></span>[37:5](pgr04.htm#fr_75.md) Theoph. *Hist. Plant*.
 IV. ll. 8 ....
 
-<span id="fn_76"></span>[37:6](pgr04.htm#fr_76) Hesych. s.v. οἰ
+<span id="fn_76"></span>[37:6](pgr04.htm#fr_76.md) Hesych. s.v. οἰ
 χύτρινοι.
 
-<span id="fn_77"></span>[38:1](pgr04.htm#fr_77) Plato, *Rep*. 614 C.
+<span id="fn_77"></span>[38:1](pgr04.htm#fr_77.md) Plato, *Rep*. 614 C.
 
-<span id="fn_78"></span>[38:2](pgr04.htm#fr_78) P. IX. 8.
+<span id="fn_78"></span>[38:2](pgr04.htm#fr_78.md) P. IX. 8.
 
-<span id="fn_79"></span>[38:3](pgr04.htm#fr_79) *On*. X. 99.
+<span id="fn_79"></span>[38:3](pgr04.htm#fr_79.md) *On*. X. 99.
 
-<span id="fn_80"></span>[38:4](pgr04.htm#fr_80) Hesych. s.v. .
+<span id="fn_80"></span>[38:4](pgr04.htm#fr_80.md) Hesych. s.v. .
 
-<span id="fn_81"></span>[38:5](pgr04.htm#fr_81) *v*. 96.
+<span id="fn_81"></span>[38:5](pgr04.htm#fr_81.md) *v*. 96.
 
-<span id="fn_82"></span>[38:6](pgr04.htm#fr_82) Schol. ad Ar. *Vesp*.
+<span id="fn_82"></span>[38:6](pgr04.htm#fr_82.md) Schol. ad Ar. *Vesp*.
 289.
 
-<span id="fn_83"></span>[39:1](pgr04.htm#fr_83) Suidas s.v. ....
+<span id="fn_83"></span>[39:1](pgr04.htm#fr_83.md) Suidas s.v. ....
 
-<span id="fn_84"></span>[39:2](pgr04.htm#fr_84) Photius s.v. ....
+<span id="fn_84"></span>[39:2](pgr04.htm#fr_84.md) Photius s.v. ....
 
-<span id="fn_85"></span>[39:3](pgr04.htm#fr_85) Diosc. *De mat. med*. I.
+<span id="fn_85"></span>[39:3](pgr04.htm#fr_85.md) Diosc. *De mat. med*. I.
 119 .... For this reference I am indebted to the kindness of Dr Frazer,
 who also notes that in Ovid *spina alba*, white thorn, is <span
 id="page_40">p. 40</span> placed in a window to keep off *tristes noxas*
@@ -2033,44 +2033,44 @@ in the Abruzzi, "that the witches may not come to torment our children"
 (noi mangiamo la ruta affinche le streghe non vengano a tormentare le
 creature nostre); see A. De Nino, *Usi Abruzzesi* I. p. 168.
 
-<span id="fn_86"></span>[40:1](pgr04.htm#fr_86) Phot. s.v. ....
+<span id="fn_86"></span>[40:1](pgr04.htm#fr_86.md) Phot. s.v. ....
 
-<span id="fn_87"></span>[40:2](pgr04.htm#fr_87) Schol. ad Ar. *Ach*. 961
+<span id="fn_87"></span>[40:2](pgr04.htm#fr_87.md) Schol. ad Ar. *Ach*. 961
 ....
 
-<span id="fn_88"></span>[41:1](pgr04.htm#fr_88) Athen. VII. 2, p. 276.
+<span id="fn_88"></span>[41:1](pgr04.htm#fr_88.md) Athen. VII. 2, p. 276.
 
-<span id="fn_89"></span>[41:2](pgr04.htm#fr_89) Athen. x. 49, p. 437 and
+<span id="fn_89"></span>[41:2](pgr04.htm#fr_89.md) Athen. x. 49, p. 437 and
 Suidas s.v. Χόες.
 
-<span id="fn_90"></span>[41:3](pgr04.htm#fr_90) Eur. *Iph. in T*. 953
+<span id="fn_90"></span>[41:3](pgr04.htm#fr_90.md) Eur. *Iph. in T*. 953
 seq.
 
-<span id="fn_91"></span>[42:1](pgr04.htm#fr_91) For the topographical
+<span id="fn_91"></span>[42:1](pgr04.htm#fr_91.md) For the topographical
 question see my *Primitive Athens*, p. 83.
 
-<span id="fn_92"></span>[42:2](pgr04.htm#fr_92) Athen. XI. 93, p. 496.
+<span id="fn_92"></span>[42:2](pgr04.htm#fr_92.md) Athen. XI. 93, p. 496.
 
-<span id="fn_93"></span>[42:3](pgr04.htm#fr_93) Eustath. ad *Il*. XXIV.
+<span id="fn_93"></span>[42:3](pgr04.htm#fr_93.md) Eustath. ad *Il*. XXIV.
 526, p. 1363. 26 οὐχ ἑορτάσιμος...ἀλλ᾽ ἐς τὸ πᾶν ἁποφράς.
 
-<span id="fn_94"></span>[43:1](pgr04.htm#fr_94) First published by Dr
+<span id="fn_94"></span>[43:1](pgr04.htm#fr_94.md) First published by Dr
 Paul Schadow, *Eine Attische Grablehythos*, Inaugural-Dissertation
 (Jena, 1897), reproduced and discussed by the present writer *J.H.S.*
 XX. p. 101.
 
-<span id="fn_95"></span>[43:2](pgr04.htm#fr_95) Ar. *Eq*. 792. Mr R. A.
+<span id="fn_95"></span>[43:2](pgr04.htm#fr_95.md) Ar. *Eq*. 792. Mr R. A.
 Neil ad loc. points out that πίθος answers to *fidelia* in etymology, to
 *dolium* in meaning.
 
-<span id="fn_96"></span>[43:3](pgr04.htm#fr_96) Dr Sam. Wide, 'Aphidna
+<span id="fn_96"></span>[43:3](pgr04.htm#fr_96.md) Dr Sam. Wide, 'Aphidna
 in Nord-Attica,' *A. Mitt*. 1896, p. 398.
 
-<span id="fn_97"></span>[44:1](pgr04.htm#fr_97) Od. x. 236.
+<span id="fn_97"></span>[44:1](pgr04.htm#fr_97.md) Od. x. 236.
 
-<span id="fn_98"></span>[45:1](pgr04.htm#fr_98) *Od*. xxiv. 1-9.
+<span id="fn_98"></span>[45:1](pgr04.htm#fr_98.md) *Od*. xxiv. 1-9.
 
-<span id="fn_99"></span>[45:2](pgr04.htm#fr_99) Pind. *Ol*. IX. 33. ...
+<span id="fn_99"></span>[45:2](pgr04.htm#fr_99.md) Pind. *Ol*. IX. 33. ...
 
 ἀκινήταν is usually rendered 'unraised' as though the sceptre were
 lifted in token of kingly power. I translate by 'wave' because I believe
@@ -2080,10 +2080,10 @@ wand-waving. κινέω is used in Homer (loc. cit.) τῇ δ᾽ ἄγε κιν
 Pindar's time the wand and the sceptre were fused, but he is haunted by
 the old connotation of magic.
 
-<span id="fn_100"></span>[45:3](pgr04.htm#fr_100) For text, see [p.
-24](pgr03.htm#page_24), note [2](pgr03.htm#fn_47).
+<span id="fn_100"></span>[45:3](pgr04.htm#fr_100.md) For text, see [p.
+24](pgr03.htm#page_24), note [2](pgr03.htm#fn_47.md).
 
-<span id="fn_101"></span>[46:1](pgr04.htm#fr_101) Space forbids the
+<span id="fn_101"></span>[46:1](pgr04.htm#fr_101.md) Space forbids the
 discussion of the whole evolution of the kerykeion. It contains elements
 drawn from both sceptre and rhabdos. The rhabdos is sometimes, forked
 like a divining rod: the forks were entwined in various shapes. Round
@@ -2094,38 +2094,38 @@ snakes. In like fashion the frayed fringe of the leather aegis of Athene
 is misunderstood and rendered as snakes. By the time of Eustathius,
 kerykeion and rhabdos are not clearly differentiated.
 
-<span id="fn_102"></span>[46:2](pgr04.htm#fr_102) *J.H.S.* XX. p. 101.
+<span id="fn_102"></span>[46:2](pgr04.htm#fr_102.md) *J.H.S.* XX. p. 101.
 
-<span id="fn_103"></span>[46:3](pgr04.htm#fr_103) Plut. *Vit. Cam*. XX.
+<span id="fn_103"></span>[46:3](pgr04.htm#fr_103.md) Plut. *Vit. Cam*. XX.
 
-<span id="fn_104"></span>[46:4](pgr04.htm#fr_104) *Ling. Lat*. 5 § 157.
+<span id="fn_104"></span>[46:4](pgr04.htm#fr_104.md) *Ling. Lat*. 5 § 157.
 
-<span id="fn_105"></span>[47:1](pgr04.htm#fr_105) *Pauli excerpta ex
+<span id="fn_105"></span>[47:1](pgr04.htm#fr_105.md) *Pauli excerpta ex
 Lib. Pomp*. Fest. s.v. doliola.
 
-<span id="fn_106"></span>[47:2](pgr04.htm#fr_106) *Iliad* xxiv. 527.
+<span id="fn_106"></span>[47:2](pgr04.htm#fr_106.md) *Iliad* xxiv. 527.
 ....
 
-<span id="fn_107"></span>[47:3](pgr04.htm#fr_107) Fest. 154.
+<span id="fn_107"></span>[47:3](pgr04.htm#fr_107.md) Fest. 154.
 
-<span id="fn_108"></span>[47:4](pgr04.htm#fr_108) Macr. *Sat*. I. 16.
+<span id="fn_108"></span>[47:4](pgr04.htm#fr_108.md) Macr. *Sat*. I. 16.
 18.
 
-<span id="fn_109"></span>[47:5](pgr04.htm#fr_109) Harpocrat. s.v. ....
+<span id="fn_109"></span>[47:5](pgr04.htm#fr_109.md) Harpocrat. s.v. ....
 
-<span id="fn_110"></span>[47:6](pgr04.htm#fr_110) *Etym. Mag*. s.v.
+<span id="fn_110"></span>[47:6](pgr04.htm#fr_110.md) *Etym. Mag*. s.v.
 Ανθεστήρια.
 
-<span id="fn_111"></span>[48:1](pgr04.htm#fr_111) *J.H.S.* xx. 115.
+<span id="fn_111"></span>[48:1](pgr04.htm#fr_111.md) *J.H.S.* xx. 115.
 
-<span id="fn_112"></span>[48:2](pgr04.htm#fr_112) *Od*. x. 526.
+<span id="fn_112"></span>[48:2](pgr04.htm#fr_112.md) *Od*. x. 526.
 
-<span id="fn_113"></span>[48:3](pgr04.htm#fr_113) My view of the
+<span id="fn_113"></span>[48:3](pgr04.htm#fr_113.md) My view of the
 primitive significance of the root θεσ, which is perhaps primarily
 rather *to conjure* than *to pray*, will appear more clearly when we
 come to the discussion of the Thesmophoria.
 
-<span id="fn_114"></span>[49:1](pgr04.htm#fr_114) Dr Wuensch in his
+<span id="fn_114"></span>[49:1](pgr04.htm#fr_114.md) Dr Wuensch in his
 instructive pamphlet *Ein Frühlingsfest auf Malta* (Leipzig, 1902)
 discusses a spring festival of the flowering of beans which he believes
 to be analogous to the *Anthesteria*, but the rites practised are wholly
@@ -2136,73 +2136,73 @@ festival of the 'Anthesteria' was celebrated on Thera, as indeed
 wherever there was a primitive population, and *Anthister* must have
 borrowed rather than lent his name.
 
-<span id="fn_115"></span>[49:2](pgr04.htm#fr_115) Archbishop Eustathius
+<span id="fn_115"></span>[49:2](pgr04.htm#fr_115.md) Archbishop Eustathius
 may have had a dim consciousness of the separable ἀνα when he says ....
 
-<span id="fn_116"></span>[49:3](pgr04.htm#fr_116) Schol. ad Luc. *Tim*.
+<span id="fn_116"></span>[49:3](pgr04.htm#fr_116.md) Schol. ad Luc. *Tim*.
 43 ....
 
-<span id="fn_117"></span>[50:1](pgr04.htm#fr_117) Plut. Q. R. XXXIV.
+<span id="fn_117"></span>[50:1](pgr04.htm#fr_117.md) Plut. Q. R. XXXIV.
 ....
 
-<span id="fn_118"></span>[50:2](pgr04.htm#fr_118) Plut. Q. R. XXV. ....
+<span id="fn_118"></span>[50:2](pgr04.htm#fr_118.md) Plut. Q. R. XXV. ....
 
-<span id="fn_119"></span>[50:3](pgr04.htm#fr_119) Athen. III. 53 p.98
+<span id="fn_119"></span>[50:3](pgr04.htm#fr_119.md) Athen. III. 53 p.98
 ....
 
-<span id="fn_120"></span>[51:1](pgr04.htm#fr_120) Ovid, Fasti II. 19.
+<span id="fn_120"></span>[51:1](pgr04.htm#fr_120.md) Ovid, Fasti II. 19.
 
-<span id="fn_121"></span>[51:2](pgr04.htm#fr_121) The ceremonies of the
+<span id="fn_121"></span>[51:2](pgr04.htm#fr_121.md) The ceremonies of the
 Lupercalia have been fully discussed by Warde-Fowler, *The Roman
 Festivals*, p. 310, and very fully by Mannhardt, *Mythologische
 Forschungen*, p. 72.
 
-<span id="fn_122"></span>[52:1](pgr04.htm#fr_122) *Julius Caesar*, Act
+<span id="fn_122"></span>[52:1](pgr04.htm#fr_122.md) *Julius Caesar*, Act
 I. Sc. 2, *v*. 6.
 
-<span id="fn_123"></span>[52:2](pgr04.htm#fr_123) Herond. *Mim*. III. 3.
+<span id="fn_123"></span>[52:2](pgr04.htm#fr_123.md) Herond. *Mim*. III. 3.
 
-<span id="fn_124"></span>[53:1](pgr04.htm#fr_124) Serv. ad Verg. *Aen*.
+<span id="fn_124"></span>[53:1](pgr04.htm#fr_124.md) Serv. ad Verg. *Aen*.
 VIII. 343 nam pellem ipsam capri veteres *februum* vocabant. Varro
 (*Ling. Lat.* VI. 13) says that *februum* was Sabine for *purgameatem*.
 
-<span id="fn_125"></span>[54:1](pgr04.htm#fr_125) Athen. VIII. 11 p. 334
+<span id="fn_125"></span>[54:1](pgr04.htm#fr_125.md) Athen. VIII. 11 p. 334
 F.
 
-<span id="fn_126"></span>[54:2](pgr04.htm#fr_126) 3rd cent. B.C.
+<span id="fn_126"></span>[54:2](pgr04.htm#fr_126.md) 3rd cent. B.C.
 
-<span id="fn_127"></span>[55:1](pgr04.htm#fr_127) That the religion of
+<span id="fn_127"></span>[55:1](pgr04.htm#fr_127.md) That the religion of
 Dionysos came to Greece at a comparatively late date will be shown in
 Chapter VIII.
 
-<span id="fn_128"></span>[56:1](pgr04.htm#fr_128) Od. XXIV. 215 ...
+<span id="fn_128"></span>[56:1](pgr04.htm#fr_128.md) Od. XXIV. 215 ...
 
-<span id="fn_129"></span>[56:2](pgr04.htm#fr_129) Porph. *de Abst*. II.
+<span id="fn_129"></span>[56:2](pgr04.htm#fr_129.md) Porph. *de Abst*. II.
 passim.
 
-<span id="fn_130"></span>[56:3](pgr04.htm#fr_130) Eust. ad *Il*. I. 449
+<span id="fn_130"></span>[56:3](pgr04.htm#fr_130.md) Eust. ad *Il*. I. 449
 § 132 ....
 
-<span id="fn_131"></span>[57:1](pgr04.htm#fr_131) Prof. Ridgeway (*Early
+<span id="fn_131"></span>[57:1](pgr04.htm#fr_131.md) Prof. Ridgeway (*Early
 Age of Greece*, vol. I. p. 524) has shown (to me conclusively) that
 these Homeric Achaeans were of Celtic origin and brought with them from
 central Europe the flesh-roasting and flesh-eating habits of their
 northern ancestors.
 
-<span id="fn_132"></span>[57:2](pgr04.htm#fr_132) Athen. I. 46 p. 25.
+<span id="fn_132"></span>[57:2](pgr04.htm#fr_132.md) Athen. I. 46 p. 25.
 
-<span id="fn_133"></span>[57:3](pgr04.htm#fr_133) P. u. 10. 1 .... That
+<span id="fn_133"></span>[57:3](pgr04.htm#fr_133.md) P. u. 10. 1 .... That
 the distinction between θύεινand ἐναγίζειν is no late invention of
 Pausanias is shown by the fact that Herodotos (II. 43) uses the same
 words and draws the same distinction though with less explicit detail.
 Speaking of Herakles as god and hero, he says: ....
 
-<span id="fn_134"></span>[58:1](pgr04.htm#fr_134) P. VIII. 34. 3 ....
+<span id="fn_134"></span>[58:1](pgr04.htm#fr_134.md) P. VIII. 34. 3 ....
 
-<span id="fn_135"></span>[59:1](pgr04.htm#fr_135) Eust. ad *Il*. XXIII.
+<span id="fn_135"></span>[59:1](pgr04.htm#fr_135.md) Eust. ad *Il*. XXIII.
 429, 1357. 59 ....
 
-<span id="fn_136"></span>[59:2](pgr04.htm#fr_136) I do not deny that the
+<span id="fn_136"></span>[59:2](pgr04.htm#fr_136.md) I do not deny that the
 word can be translated if we are content to vary our rendering in each
 various case. In the passages already discussed 'devote' is perhaps a
 fair equivalent, because the contrast emphasized is with a sacrifice
@@ -2211,66 +2211,66 @@ dead', sometimes 'purificatory sacrifice', sometimes 'expiatory
 sacrifice'. No one word covers the whole field. It is this lost union of
 many diverse elements that has to be recovered and is nameless.
 
-<span id="fn_137"></span>[59:3](pgr04.htm#fr_137) Athen. IX. 78 p. 409 E
+<span id="fn_137"></span>[59:3](pgr04.htm#fr_137.md) Athen. IX. 78 p. 409 E
 ff. ....
 
-<span id="fn_138"></span>[61:1](pgr04.htm#fr_138) Hesych. λουτρόν· τὸ
+<span id="fn_138"></span>[61:1](pgr04.htm#fr_138.md) Hesych. λουτρόν· τὸ
 ῥύπαρον ὕδωρ ἤγουν ἀπόνιμμα.
 
-<span id="fn_139"></span>[61:2](pgr04.htm#fr_139) Bull. de Corr. Hell.
+<span id="fn_139"></span>[61:2](pgr04.htm#fr_139.md) Bull. de Corr. Hell.
 xxiv. p. 258.
 
-<span id="fn_140"></span>[61:3](pgr04.htm#fr_140) Published by Mr H. B.
+<span id="fn_140"></span>[61:3](pgr04.htm#fr_140.md) Published by Mr H. B.
 Walters, *J.H.S.* XVIII. 1898, p. 281, pl. XV. The class of vases known
 sometimes as 'Tyrrhenian,' sometimes as Corintho-Attic, all belong to
 the same period, about the middle of the sixth century B.C., and are
 apparently from the same workshop.
 
-<span id="fn_141"></span>[61:4](pgr04.htm#fr_141) Eur. Hec. 535.
+<span id="fn_141"></span>[61:4](pgr04.htm#fr_141.md) Eur. Hec. 535.
 
-<span id="fn_142"></span>[62:1](pgr04.htm#fr_142) Omphalos and tomb are
+<span id="fn_142"></span>[62:1](pgr04.htm#fr_142.md) Omphalos and tomb are
 in intent the same, see *J.H.S.* XIX. p. 225.
 
-<span id="fn_143"></span>[62:2](pgr04.htm#fr_143) The genesis of the
+<span id="fn_143"></span>[62:2](pgr04.htm#fr_143.md) The genesis of the
 Erinys is discussed later, in Chapter V.
 
-<span id="fn_144"></span>[62:3](pgr04.htm#fr_144) Aesch. *Eum*. 253.
+<span id="fn_144"></span>[62:3](pgr04.htm#fr_144.md) Aesch. *Eum*. 253.
 
-<span id="fn_145"></span>[62:4](pgr04.htm#fr_145) Aesch. *Eum*. 264.
+<span id="fn_145"></span>[62:4](pgr04.htm#fr_145.md) Aesch. *Eum*. 264.
 
-<span id="fn_146"></span>[63:1](pgr04.htm#fr_146) Schol. ad Eur.
+<span id="fn_146"></span>[63:1](pgr04.htm#fr_146.md) Schol. ad Eur.
 *Phoen*. 284 ....
 
-<span id="fn_147"></span>[63:2](pgr04.htm#fr_147) Porph. *de antr.
+<span id="fn_147"></span>[63:2](pgr04.htm#fr_147.md) Porph. *de antr.
 nymph*. 3.... The *megara* will be discussed later ().
 
-<span id="fn_148"></span>[63:3](pgr04.htm#fr_148) Aesch. *Eum*. 106.
+<span id="fn_148"></span>[63:3](pgr04.htm#fr_148.md) Aesch. *Eum*. 106.
 
-<span id="fn_149"></span>[63:4](pgr04.htm#fr_149) Eustath. ad *Il*. I.
+<span id="fn_149"></span>[63:4](pgr04.htm#fr_149.md) Eustath. ad *Il*. I.
 459 § 134.
 
-<span id="fn_150"></span>[63:5](pgr04.htm#fr_150) Eustath. § 1057, 37.
+<span id="fn_150"></span>[63:5](pgr04.htm#fr_150.md) Eustath. § 1057, 37.
 
-<span id="fn_151"></span>[64:1](pgr04.htm#fr_151) Schol. ad Apoll. Rhod.
+<span id="fn_151"></span>[64:1](pgr04.htm#fr_151.md) Schol. ad Apoll. Rhod.
 I. 587 ...
 
-<span id="fn_152"></span>[64:2](pgr04.htm#fr_152) Eur. *El*. 514.
+<span id="fn_152"></span>[64:2](pgr04.htm#fr_152.md) Eur. *El*. 514.
 
-<span id="fn_153"></span>[65:1](pgr04.htm#fr_153) Eur. Ion 277 ....
+<span id="fn_153"></span>[65:1](pgr04.htm#fr_153.md) Eur. Ion 277 ....
 
-<span id="fn_154"></span>[65:2](pgr04.htm#fr_154) Eur. Her. τύμβῳ
+<span id="fn_154"></span>[65:2](pgr04.htm#fr_154.md) Eur. Her. τύμβῳ
 σφάγιον.
 
-<span id="fn_155"></span>[65:3](pgr04.htm#fr_155) Athen. XIV. 22, p. 626
+<span id="fn_155"></span>[65:3](pgr04.htm#fr_155.md) Athen. XIV. 22, p. 626
 ....
 
-<span id="fn_156"></span>[65:4](pgr04.htm#fr_156) Eur. Supp. 1296 ....
+<span id="fn_156"></span>[65:4](pgr04.htm#fr_156.md) Eur. Supp. 1296 ....
 
-<span id="fn_157"></span>[66:1](pgr04.htm#fr_157) P. III. 20. 9.
+<span id="fn_157"></span>[66:1](pgr04.htm#fr_157.md) P. III. 20. 9.
 
-<span id="fn_158"></span>[66:2](pgr04.htm#fr_158) P. IV. 15. 8.
+<span id="fn_158"></span>[66:2](pgr04.htm#fr_158.md) P. IV. 15. 8.
 
-<span id="fn_159"></span>[66:3](pgr04.htm#fr_159) P. v. 24. 10 ....
+<span id="fn_159"></span>[66:3](pgr04.htm#fr_159.md) P. v. 24. 10 ....
 Strictly speaking Pausanias ought to have written ἐπὶ σφαγίῳ, but his
 meaning is sufficiently clear. τόμια are actually σφάγια, not ἱερεῖα.
 Eustathius, in discussing the sacrifice of Odysseus to the ghosts in the
@@ -2280,36 +2280,36 @@ correct. He makes a sort of climax of confusion when, in describing the
 ritual of the hero Amphiaraos, he says (t. 34. 5): ἐστὶ καθάρσιον τῷ θεῳ
 θύειν, when he should have said τῷ ηρωι σφαγιάζεσθαι.
 
-<span id="fn_160"></span>[66:4](pgr04.htm#fr_160) *Il*. XIX. 265.
+<span id="fn_160"></span>[66:4](pgr04.htm#fr_160.md) *Il*. XIX. 265.
 
-<span id="fn_161"></span>[67:1](pgr04.htm#fr_161) P. II. 34. 3.
+<span id="fn_161"></span>[67:1](pgr04.htm#fr_161.md) P. II. 34. 3.
 
-<span id="fn_162"></span>[67:2](pgr04.htm#fr_162) Ar. *Ran*. 847.
+<span id="fn_162"></span>[67:2](pgr04.htm#fr_162.md) Ar. *Ran*. 847.
 
-<span id="fn_163"></span>[67:3](pgr04.htm#fr_163) Virg. *Aen*. iii. 120.
+<span id="fn_163"></span>[67:3](pgr04.htm#fr_163.md) Virg. *Aen*. iii. 120.
 
-<span id="fn_164"></span>[68:1](pgr04.htm#fr_164) P. II. 12. 1.
+<span id="fn_164"></span>[68:1](pgr04.htm#fr_164.md) P. II. 12. 1.
 
-<span id="fn_165"></span>[68:2](pgr04.htm#fr_165) Aesch. *Agam*. 214.
+<span id="fn_165"></span>[68:2](pgr04.htm#fr_165.md) Aesch. *Agam*. 214.
 
-<span id="fn_166"></span>[68:3](pgr04.htm#fr_166) The full and somewhat
+<span id="fn_166"></span>[68:3](pgr04.htm#fr_166.md) The full and somewhat
 revolting details as to how omens were taken from σφάγια do not concern
 us here; they are given in full by the scholiast on Eur. *Phoenissae*
 1255; see P. Stengel, *Hermes*, 1899, xxxiv. p. 642.
 
-<span id="fn_167"></span>[68:4](pgr04.htm#fr_167) Porph. *de Abst*. II.
+<span id="fn_167"></span>[68:4](pgr04.htm#fr_167.md) Porph. *de Abst*. II.
 51.
 
-<span id="fn_168"></span>[68:5](pgr04.htm#fr_168) Xen. *Anab*. VI. 5.
+<span id="fn_168"></span>[68:5](pgr04.htm#fr_168.md) Xen. *Anab*. VI. 5.
 21.
 
-<span id="fn_169"></span>[69:1](pgr04.htm#fr_169) Aesch. *Sept*. 230
+<span id="fn_169"></span>[69:1](pgr04.htm#fr_169.md) Aesch. *Sept*. 230
 ....
 
-<span id="fn_170"></span>[69:2](pgr04.htm#fr_170) Ammon. p. 72 Valck.
+<span id="fn_170"></span>[69:2](pgr04.htm#fr_170.md) Ammon. p. 72 Valck.
 ....
 
-<span id="fn_171"></span>[69:3](pgr04.htm#fr_171) The question of σφάγια
+<span id="fn_171"></span>[69:3](pgr04.htm#fr_171.md) The question of σφάγια
 has been very fully discussed by Dr Paul Stengel in four papers as
 follows: 'Σφάγια,' *Hermes*, 1886, xxi. p. 307; 'Miscellen,' xxv. p.
 321; Prophezeiung aus der Σφάγια,' xxxi. p. 479 and xxxiv. p. 642. To
@@ -2323,10 +2323,10 @@ Altertumswissenschaft*, Band v. Abt. 3) seem to me to be vitiated by the
 assumption that ceremonies of purification are late and foreign
 importations.
 
-<span id="fn_172"></span>[69:4](pgr04.htm#fr_172) Apoll. Rhod. iv. 470,
+<span id="fn_172"></span>[69:4](pgr04.htm#fr_172.md) Apoll. Rhod. iv. 470,
 trans. by Mr Gilbert Murray.
 
-<span id="fn_173"></span>[70:1](pgr04.htm#fr_173) Since the above was
+<span id="fn_173"></span>[70:1](pgr04.htm#fr_173.md) Since the above was
 written my attention has been called to Dr J. G. Frazer's paper 'On
 certain Burial Customs as illustrations of the primitive theory of the
 soul' (*Journal of Anthropological Institute*, vol. xv. 1885-6). After a
@@ -2341,39 +2341,39 @@ conceptions of pollution and purification are merely the fictions of a
 later age invented to explain the purpose of a ceremony of which the
 original intention was forgotten.'
 
-<span id="fn_174"></span>[70:2](pgr04.htm#fr_174) Soph. *El*. 445.
+<span id="fn_174"></span>[70:2](pgr04.htm#fr_174.md) Soph. *El*. 445.
 
-<span id="fn_175"></span>[71:1](pgr04.htm#fr_175) The details described
+<span id="fn_175"></span>[71:1](pgr04.htm#fr_175.md) The details described
 by Suidas s.v. ἐμασχαλίσθη have a somewhat apocryphal air and are
 probably due to etymology.
 
-<span id="fn_176"></span>[71:2](pgr04.htm#fr_176) Schol. ad Soph. *El*.
+<span id="fn_176"></span>[71:2](pgr04.htm#fr_176.md) Schol. ad Soph. *El*.
 445.
 
-<span id="fn_177"></span>[71:3](pgr04.htm#fr_177) P. III. 17. 7.
+<span id="fn_177"></span>[71:3](pgr04.htm#fr_177.md) P. III. 17. 7.
 
-<span id="fn_178"></span>[71:4](pgr04.htm#fr_178) Plut. *de ser. num.
+<span id="fn_178"></span>[71:4](pgr04.htm#fr_178.md) Plut. *de ser. num.
 vind*. XVIII. ....
 
-<span id="fn_179"></span>[71:5](pgr04.htm#fr_179) Eur. *Or*. 395 ...
+<span id="fn_179"></span>[71:5](pgr04.htm#fr_179.md) Eur. *Or*. 395 ...
 
-<span id="fn_180"></span>[72:1](pgr04.htm#fr_180) Suidas s.v. Ἔμβαρός
+<span id="fn_180"></span>[72:1](pgr04.htm#fr_180.md) Suidas s.v. Ἔμβαρός
 εἰμι, *Paroimiograph*. I. 402, App. Cent. and Eustath. ad *Il*. II. 732
 § 331.
 
-<span id="fn_181"></span>[73:1](pgr04.htm#fr_181) Plut. Vit. *Pelop*.
+<span id="fn_181"></span>[73:1](pgr04.htm#fr_181.md) Plut. Vit. *Pelop*.
 xxi.
 
-<span id="fn_182"></span>[74:1](pgr04.htm#fr_182) Cat. 422.
+<span id="fn_182"></span>[74:1](pgr04.htm#fr_182.md) Cat. 422.
 
-<span id="fn_183"></span>[75:1](pgr04.htm#fr_183) *Od*. XI. 23 ff.
+<span id="fn_183"></span>[75:1](pgr04.htm#fr_183.md) *Od*. XI. 23 ff.
 
-<span id="fn_184"></span>[75:2](pgr04.htm#fr_184) For the ceremonials of
+<span id="fn_184"></span>[75:2](pgr04.htm#fr_184.md) For the ceremonials of
 ghost-raising, see Dr W. G. Headlam, *Classical Review*, 1902, p. 52.
 
-<span id="fn_185"></span>[75:3](pgr04.htm#fr_185) Luc. *Char*. 22.
+<span id="fn_185"></span>[75:3](pgr04.htm#fr_185.md) Luc. *Char*. 22.
 
-<span id="fn_186"></span>[76:1](pgr04.htm#fr_186) According to Prof.
+<span id="fn_186"></span>[76:1](pgr04.htm#fr_186.md) According to Prof.
 Ridgeway's recent theory (*J.H.S.* xx. 115) the drama of Dionysos took
 its rise from mimetic dances at the tombs of local heroes and save for
 the one element of the Satyric play was not Dionysiac. The festival of
@@ -2387,4 +2387,4 @@ Religionswissenschaft*, 1906, p. 286. For my own view see my
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Harvest Festivals](pgr05)
+[Next: Chapter III. Harvest Festivals](pgr05.md)

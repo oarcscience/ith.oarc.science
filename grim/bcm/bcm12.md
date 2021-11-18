@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm11)  [Next](bcm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm11)  [Next](bcm13.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ hyperbolical in its promises, while these from the
  
 
 <span id="img_05500"></span> [![](tn/generic.jpg)  
-Click to view](img/05500.jpg)  
+Click to view](img/05500.jpg.md)  
 PLATE IV  
 MYSTIC FIGURES OF THE ENCHIRIDION
 
@@ -55,9 +55,9 @@ Transcendental Magic is that there are no Transcendental Rituals, and
 that the truth is not in them.
 
 <span id="img_05700"></span> [![](tn/generic.jpg)  
-Click to view](img/05700.jpg)  
+Click to view](img/05700.jpg.md)  
 FROM ST. GEORGE V. THE DRAGON. FLEMISH SCHOOL, LATE FIFTEENTH CENTURY
 
 ------------------------------------------------------------------------
 
-[Next: Section 1: The Key of Solomon the King](bcm13)
+[Next: Section 1: The Key of Solomon the King](bcm13.md)

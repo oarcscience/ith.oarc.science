@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain35)  [Next](ain37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain35)  [Next](ain37.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ superstition concerning the effect of a man's smoking upon his unborn
 child.
 
 Another superstition appears in the idea that the killing of an Apache
-and throwing up of his [accoutrements](errata.htm#28) or scalp would
+and throwing up of his [accoutrements](errata.htm#28.md) or scalp would
 cause rain.
 
 I have a boy's bow and arrows just like those described in this story,
@@ -41,4 +41,4 @@ and often alkaline and none too cool.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Gambler's War](ain37)
+[Next: The Story of the Gambler's War](ain37.md)

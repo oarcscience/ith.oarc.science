@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl140)  [Next](cohl142) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl140)  [Next](cohl142.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ him to hear his message he said, "I will soon go to
 
 <span id="page_80">p. 80</span>
 
-my new home. <span id="fr_96"></span>[1](#fn_96) Soon I will step into
+my new home. <span id="fr_96"></span>[1](#fn_96.md) Soon I will step into
 the new world for there is a plain pathway before me leading there.
 Whoever follows my teachings will follow in my footsteps and I will look
 back upon him with outstretched arms inviting him into the new world of
@@ -40,7 +40,7 @@ Sosondowa
 
 ### Footnotes
 
-<span id="fn_96"></span>[80:1](cohl141.htm#fr_96) Handsome Lake died
+<span id="fn_96"></span>[80:1](cohl141.htm#fr_96.md) Handsome Lake died
 August 10, 1815, at Onondaga. His last moments were spent in a small
 cabin near the creek that runs into Onondaga creek at the foot of the
 terrace. Three persons attended him and swore to keep all details
@@ -49,4 +49,4 @@ reach him.
 
 ------------------------------------------------------------------------
 
-[Next: Gänä?yasta\`](cohl142)
+[Next: Gänä?yasta\`](cohl142.md)

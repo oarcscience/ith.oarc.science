@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Shinn](../index)  [Index](index) 
-[Previous](sds12)  [Next](sds14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Shinn](../index)  [Index](index.md) 
+[Previous](sds12)  [Next](sds14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875166105/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -186,4 +186,4 @@ intuitive leads,) and the eyes which see the open road of fulfillment.
 
 ------------------------------------------------------------------------
 
-[Next: The Inner Meaning of Snow White and the Seven Dwarfs](sds14)
+[Next: The Inner Meaning of Snow White and the Seven Dwarfs](sds14.md)

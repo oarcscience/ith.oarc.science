@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg90)  [Next](hchg92) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg90)  [Next](hchg92.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -659,10 +659,10 @@ Gwalchmai saw it.
 
 <span id="img_colophon"></span> ![The colophon of this book wishes
 Godspeed to all whom it may concern on the Great
-Quest](img/colophon.jpg)
+Quest](img/colophon.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Part I. The Texts](hchg92)
+[Next: Part I. The Texts](hchg92.md)

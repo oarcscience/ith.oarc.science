@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal105)  [Next](njal107) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal105)  [Next](njal107.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ breathed his last, and he was laid in a cairn by Hof.
 
 ------------------------------------------------------------------------
 
-[Next: 107. Of Mord And Njal's Sons](njal107)
+[Next: 107. Of Mord And Njal's Sons](njal107.md)

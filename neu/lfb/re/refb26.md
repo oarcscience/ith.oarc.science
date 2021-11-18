@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb25)  [Next](refb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb25)  [Next](refb27.md) 
 
 </div>
 
@@ -434,6 +434,6 @@ long on their way thither.\[20\]
 
 ------------------------------------------------------------------------
 
-[Next: The Enchanted Canary](refb27)
+[Next: The Enchanted Canary](refb27.md)
 
 </div>

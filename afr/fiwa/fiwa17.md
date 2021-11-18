@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa16)  [Next](fiwa18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa16)  [Next](fiwa18.md) 
 
 ------------------------------------------------------------------------
 
@@ -1339,4 +1339,4 @@ council of speaking animals.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Tales of Fetich Based on Fact](fiwa18)
+[Next: Chapter XVI: Tales of Fetich Based on Fact](fiwa18.md)

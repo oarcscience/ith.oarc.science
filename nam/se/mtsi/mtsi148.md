@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi147)  [Next](mtsi149) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi147)  [Next](mtsi149.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ woman got up, seized a stick, and struck it. She broke the pot in
 pieces.
 
 Next day the youth went out with his bow and arrows. He shot forty
-parrakeets, <span id="fr_32"></span>[1](#fn_32) roasted them, tied them
+parrakeets, <span id="fr_32"></span>[1](#fn_32.md) roasted them, tied them
 together, and, took them with him. He went to the shore of the ocean
 with them and began calling out. He called to the different creatures in
 the ocean to come to him. The alligator came out of the water first, but
@@ -121,9 +121,9 @@ to their grandmother.
 
 ### Footnotes
 
-<span id="fn_32"></span>[127:1](mtsi148.htm#fr_32) The identity of these
+<span id="fn_32"></span>[127:1](mtsi148.htm#fr_32.md) The identity of these
 birds is somewhat uncertain.
 
 ------------------------------------------------------------------------
 
-[Next: 13. Big Man-eater and the Persimmon Tree](mtsi149)
+[Next: 13. Big Man-eater and the Persimmon Tree](mtsi149.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst004)  [Next](inst006) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst004)  [Next](inst006.md) 
 
 ------------------------------------------------------------------------
 
@@ -198,4 +198,4 @@ great profit thereby, and I shall think my labour very well employed.
 
 [Next: PREFATORY ADDRESS TO HIS MOST CHRISTIAN MAJESTY, THE MOST MIGHTY
 AND ILLUSTRIOUS MONARCH, FRANCIS, KING OF THE FRENCH, HIS
-SOVEREIGN](inst006)
+SOVEREIGN](inst006.md)

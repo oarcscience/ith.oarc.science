@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](wcweapp3)  [Next](wcweapp5) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](wcweapp3)  [Next](wcweapp5.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISAIM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Witch-Cult in Western Europe*, by Margaret Alice Murray, \[1921\],
 at Intangible Textual Heritage
 
@@ -365,4 +365,4 @@ of the fraternity.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix V. Flying Ointments](wcweapp5)
+[Next: Appendix V. Flying Ointments](wcweapp5.md)

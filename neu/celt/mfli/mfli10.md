@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli09)  [Next](mfli11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli09)  [Next](mfli11.md) 
 
 ------------------------------------------------------------------------
 
@@ -286,4 +286,4 @@ well.
 
 ------------------------------------------------------------------------
 
-[Next: Shaking-Head](mfli11)
+[Next: Shaking-Head](mfli11.md)

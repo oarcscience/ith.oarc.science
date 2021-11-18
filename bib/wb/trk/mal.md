@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](zac)  [Next](mat) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](zac)  [Next](mat.md) 
 
 ------------------------------------------------------------------------
 
@@ -209,4 +209,4 @@ Tanrı'ya kulluk edenle etmeyen arasındaki ayrımı yine göreceksiniz.››
 
 ------------------------------------------------------------------------
 
-[Next: Matthew](mat)
+[Next: Matthew](mat.md)

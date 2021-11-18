@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-11tx) [Next](dob-12tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-11tx) [Next](dob-12tx.md)
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ Muir in the 'Indian Antiquary,' 1874.}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: XII. Lohi*kk*a Sutta](dob-12tx)
+[Return to top](#top)   [Next: XII. Lohi*kk*a Sutta](dob-12tx.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib25)  [Next](shib27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib25)  [Next](shib27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -104,4 +104,4 @@ captivity. God caused their wrath to praise him.
 
 ------------------------------------------------------------------------
 
-[Next: The So-Called Vision of Constantine](shib27)
+[Next: The So-Called Vision of Constantine](shib27.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim76)  [Next](sim78) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim76)  [Next](sim78.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ by the bear.
 
 ------------------------------------------------------------------------
 
-[Next: Child Fed and Cared for by a Porcupine and a Bear](sim78)
+[Next: Child Fed and Cared for by a Porcupine and a Bear](sim78.md)

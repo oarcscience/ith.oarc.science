@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar167) [Next](gbar169)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar167) [Next](gbar169.md)
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Said Peter: 'Is there written therein the glory of paradise?'
 
 ------------------------------------------------------------------------
 
-[Next](gbar169)
+[Next](gbar169.md)

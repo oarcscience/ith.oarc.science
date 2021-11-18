@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai35)  [Next](tai37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai35)  [Next](tai37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,11 +23,11 @@ HOUSE OF SUZDAL & MOSCOW.
 
 [![Table IX. House of Suzdal & Moscow \[Eight Generations from
 Rurik\]](tn/tab09.jpg)  
-Click to enlarge](img/tab09.jpg)  
+Click to enlarge](img/tab09.jpg.md)  
   
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Table X. The House of Moscow](tai37)
+[Next: Table X. The House of Moscow](tai37.md)

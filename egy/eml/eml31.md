@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml30)  [Next](eml32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml30)  [Next](eml32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -204,7 +204,7 @@ those sudden and violent migrations of wholesale character which
 occurred during prolonged periods of drought. The Hyksos conquest of
 Egypt is associated with one of these "dry cycles".
 
-In an earlier chapter <span id="fr_124"></span>[1](#fn_124) we have
+In an earlier chapter <span id="fr_124"></span>[1](#fn_124.md) we have
 referred to the gradual expansion from North Africa of the early
 Mediterranean "long heads", who spread themselves over the unoccupied or
 sparsely populated valleys and shores of Palestine, Asia Minor, and
@@ -272,7 +272,7 @@ fertility and the male principle. As Tark or Tarku he is depicted
 carrying in one hand a hammer and in the other three wriggling flashes
 of lightning, suggesting the Teutonic Thor. He is also shown grasping a
 mace and trident or a double battleaxe. As Ramman <span
-id="fr_125"></span>[1](#fn_125) with double horns, and bearing his axe
+id="fr_125"></span>[1](#fn_125.md) with double horns, and bearing his axe
 and three thunderbolts, he received adoption in Babylonia after the
 Hittite conquest.
 
@@ -537,9 +537,9 @@ in Egypt.
 
 ### Footnotes
 
-<span id="fn_124"></span>[257:1](eml31.htm#fr_124) Chapter III.
+<span id="fn_124"></span>[257:1](eml31.htm#fr_124.md) Chapter III.
 
-<span id="fn_125"></span>[259:1](eml31.htm#fr_125) "When I bow down
+<span id="fn_125"></span>[259:1](eml31.htm#fr_125.md) "When I bow down
 myself in the house of Riminon, the Lord pardon thy servant in this
 thing."--2 *Kings*, V, 18.
 
@@ -547,6 +547,6 @@ thing."--2 *Kings*, V, 18.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI: Joseph and the Exodus](eml32)
+[Next: Chapter XXI: Joseph and the Exodus](eml32.md)
 
 </div>

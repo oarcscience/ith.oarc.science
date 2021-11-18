@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar024) [Next](gbar026)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar024) [Next](gbar026.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ that there is enmity between these cities. Understand ye?'
 
 ------------------------------------------------------------------------
 
-[Next](gbar026)
+[Next](gbar026.md)
 
  
 

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mog13)  [Next](mog15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mog13)  [Next](mog15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ reasons briefly. In the Homeric poems as they are known to us Dr.
 Finsler sees a thorough-going remodeling of the conception of the State
 of the Gods; in fact, he thinks it possible to find and to demonstrate
 the origin of this idea in our Homeric corpus. In his exposition of the
-Homeric religion <span id="fr_417"></span>[1](#fn_417) he makes a
+Homeric religion <span id="fr_417"></span>[1](#fn_417.md) he makes a
 distinction based on differing
 
 <span id="page_224">p. 224</span>
@@ -134,7 +134,7 @@ Dr. Finsler is a pupil of Professor Wilamowitz and has in this as in
 some other cases taken up ideas suggested by this great scholar.
 Professor Wilamowitz points to the different conceptions of the gods in
 different parts of Homer and emphasizes the value of this difference for
-the analysis of the poems. <span id="fr_418"></span>[2](#fn_418) He
+the analysis of the poems. <span id="fr_418"></span>[2](#fn_418.md) He
 says, e.g., that the poet of the first book and the parts connected with
 this book depicts "an ideal world of immortal men, fond of enjoyments
 and not troubled by moral considerations, with the magical colors of a
@@ -146,19 +146,19 @@ Space forbids a full discussion and I am only able to select some
 important and characteristic instances. Such instances are offered
 especially by the lay of Diomedes; i.e., the fifth book, which Professor
 Wilamowitz thinks to be the oldest in our Iliad. <span
-id="fr_419"></span>[3](#fn_419) Our first observation is that the
+id="fr_419"></span>[3](#fn_419.md) Our first observation is that the
 Olympian scenes fill a large part of this very book. And Dr. Finsler
 must according to his principles detach precisely these as being due to
 a late poet. The fifth book begins by telling that Athena, alleging the
 wrath of Zeus, removes Ares from the scene. <span
-id="fr_420"></span>[4](#fn_420) When Diomedes inflicts a wound on
+id="fr_420"></span>[4](#fn_420.md) When Diomedes inflicts a wound on
 Aphrodite, we hear that the Charites wove her mantle and that her blood
 is called *ichor*; and an explanation is added that
 
 <span id="page_226">p. 226</span>
 
 the gods are immortal, not eating bread and drinking wine like mortal
-men. <span id="fr_421"></span>[5](#fn_421) Then the scene follows in
+men. <span id="fr_421"></span>[5](#fn_421.md) Then the scene follows in
 which Aphrodite asks Ares to bring her to Olympus, the seat of the
 Immortal ones. Iris unharnesses the horses and gives them ambrosia as
 food. Then Dione comforts her daughter and in her speech the most
@@ -167,29 +167,29 @@ likewise the God of the Underworld, Hades, who had to go to Olympus in
 order to be healed by the doctor of the gods, Paieon. After this,
 Aphrodite is compelled to hear the derisory words of Hera and Athena and
 the somewhat kinder exhortations of Zeus. <span
-id="fr_422"></span>[6](#fn_422) The next Olympian scene is that in which
+id="fr_422"></span>[6](#fn_422.md) The next Olympian scene is that in which
 Iris harnesses the horses for Hera, and Athena takes the weapons "on the
 threshold of her father Zeus." The Horae open the gates of Olympus when
 she drives off in her chariot. The two goddesses first make a visit to
 Zeus, who is seated on the highest peak of Olympus, in order to ask
 leave to partake in the fight against Ares. <span
-id="fr_423"></span>[7](#fn_423) At last Ares is wounded by Diomedes with
+id="fr_423"></span>[7](#fn_423.md) At last Ares is wounded by Diomedes with
 the help of Athena, and goes to "the wide heavens" or to "the steep
 Olympus," and has to listen to the reproofs of Zeus before he is healed
 by Paieon. Hebe washes him and he takes his place at the side of Zeus.
 Finally Hera and Athena make their return to the house of Zeus. <span
-id="fr_424"></span>[8](#fn_424)
+id="fr_424"></span>[8](#fn_424.md)
 
 There are in this book passages which seem to be late because older
 conceptions are remodeled so as to be misunderstood. Ares leans his
-spear against a cloud, <span id="fr_425"></span>[9](#fn_425) while a
+spear against a cloud, <span id="fr_425"></span>[9](#fn_425.md) while a
 cloud elsewhere appears as a means
 
 <span id="page_227">p. 227</span>
 
 of concealing gods and men; and Apollo creates an image of the wounded
 Aeneas around which the battle goes on while Aeneas himself is carried
-to Pergamon by the god. <span id="fr_426"></span>[10](#fn_426) But on
+to Pergamon by the god. <span id="fr_426"></span>[10](#fn_426.md) But on
 the whole the scenes referred to above are too numerous and too
 extensive to be considered, generally speaking, as later additions, as
 Dr. Finsler thinks them. If they are taken away, not much remains. In
@@ -201,7 +201,7 @@ kernel is the duels between Diomedes and the two heroes Pandarus and
 Aeneas respectively.
 
 Professor Wilamowitz has still another opinion. <span
-id="fr_427"></span>[11](#fn_427) He deprecates the idea that the
+id="fr_427"></span>[11](#fn_427.md) He deprecates the idea that the
 conception of the gods conspicuous in the fifth book should be in
 general ascribed to Homer and explains its peculiarity as due to the
 national antagonism between the Ionians and the Asiatics in the eighth
@@ -235,7 +235,7 @@ Olympus is mentioned, we shall make the following observations. There
 are only two passages in which Olympus is the dwelling place of Zeus
 alone; in all other passages it appears that other gods also dwell there
 together with Zeus. In the two passages referred to <span
-id="fr_428"></span>[12](#fn_428) it is said that Zeus hurls the
+id="fr_428"></span>[12](#fn_428.md) it is said that Zeus hurls the
 thunderbolt or sends a storm. The passages mentioning Olympus as the
 seat of the gods are, except for the scenes actually enacted on Olympus,
 distributed rather uniformly; they do not occur in the sixth, ninth,
@@ -248,11 +248,11 @@ accidental. The conception has taken form in fixed, often repeated
 phrases and verses: "the seat of Olympus," "he went downward from the
 peaks of Olympus," "so many gods as there are on Olympus," "the gods, or
 the immortal ones who possess the Olympian houses." <span
-id="fr_429"></span>[13](#fn_429) Four times as introduction to an
+id="fr_429"></span>[13](#fn_429.md) Four times as introduction to an
 important section the verse occurs:
 
 "Say now, ye Muses, who on Olympus dwell." <span
-id="fr_430"></span>[14](#fn_430)
+id="fr_430"></span>[14](#fn_430.md)
 
 It is also to be observed that the phrase "the Olympians" occurs twice
 in the sense of "the gods." Somewhat more frequently the gods are called
@@ -263,12 +263,12 @@ sharply between the Olympian and the Chthonian gods and forgets that in
 the Iliad Hades himself once is reckoned among the Olympian gods.
 Olympus and the Heavens appear as identical. It is, e.g., said of Athena
 that she arose to the great heavens and Olympus. <span
-id="fr_431"></span>[15](#fn_431) It is, however, more important that
+id="fr_431"></span>[15](#fn_431.md) It is, however, more important that
 this identity appears in the cult; that is, in prayer. People pray to
 Zeus looking upward toward the heavens. <span
-id="fr_432"></span>[16](#fn_432) Nestor prays to the Olympian Zeus
+id="fr_432"></span>[16](#fn_432.md) Nestor prays to the Olympian Zeus
 stretching his hand toward the starry heavens. <span
-id="fr_433"></span>[17](#fn_433) Of course a man who prays may also turn
+id="fr_433"></span>[17](#fn_433.md) Of course a man who prays may also turn
 toward
 
 <span id="page_230">p. 230</span>
@@ -282,7 +282,7 @@ Olympians or the Heavenly ones; consequently they dwell on Olympus or in
 the heavens, but no single god is called an Olympian except Zeus. To
 this rule there is only one exception; namely, that the Muses in the
 introduction to the Catalogue of Ships are called the Olympian
-Muses, <span id="fr_434"></span>[18](#fn_434) a condensation of the
+Muses, <span id="fr_434"></span>[18](#fn_434.md) a condensation of the
 verse quoted above in which they are said to possess the Olympian
 houses.
 
@@ -293,9 +293,9 @@ green meadows. Athena is of course settled on a hill, but that is the
 acropolis of a city on which the dwellings of men also are erected. Only
 Zeus dwells originally on Olympus, because he is the weather-god, the
 cloud-gatherer, the sender of rain and lightning. He hurls the
-thunderbolt from Olympus. <span id="fr_435"></span>[19](#fn_435) When he
+thunderbolt from Olympus. <span id="fr_435"></span>[19](#fn_435.md) When he
 sends a squall, a cloud sails from Olympus, from the radiant aether
-upward into the heavens. <span id="fr_436"></span>[20](#fn_436) This
+upward into the heavens. <span id="fr_436"></span>[20](#fn_436.md) This
 concrete conception of the mountain peak surrounded by clouds from which
 rainstorm and thunder come shows the nature of Zeus, the weather-god,
 and in this quality he dwells on Mount Olympus; he is the Olympian one.
@@ -305,9 +305,9 @@ clouds which are
 
 <span id="page_231">p. 231</span>
 
-opened and shut by the Horae. <span id="fr_437"></span>[21](#fn_437)
+opened and shut by the Horae. <span id="fr_437"></span>[21](#fn_437.md)
 Hence the other gods, as well as Zeus himself, are often concealed
-beneath clouds. <span id="fr_438"></span>[22](#fn_438) But mountain peak
+beneath clouds. <span id="fr_438"></span>[22](#fn_438.md) But mountain peak
 and heavens are identical because lightning and rain come down from the
 heavens as well as from the mountain peak around which the clouds
 gather.
@@ -374,7 +374,7 @@ considered as almost self-evident, but even they ought to be subjected
 to an inquiry. I commence with the political conditions of Thessaly. Our
 knowledge of these is regrettably slight and opinions differ markedly.
 Professor Hiller von Gaertringen published long ago a valuable
-paper <span id="fr_439"></span>[23](#fn_439) in which he proved that in
+paper <span id="fr_439"></span>[23](#fn_439.md) in which he proved that in
 the sixth and fifth centuries B.C. there were at the same time several
 kingly houses in Thessaly, each possessing a limited district. This fact
 is recognized, but he proceeds to assume that neither a ruler of all
@@ -382,9 +382,9 @@ Thessaly nor a state comprising all Thessaly existed before the year 460
 B.C., that common enterprises brought about only an occasional union;
 and that the tradition of the overlordship, the *tageia*, goes back only
 to the rule of Iason of Pherae in the fourth century B.C. <span
-id="fr_440"></span>[24](#fn_440) These conclusions are, however, hardly
+id="fr_440"></span>[24](#fn_440.md) These conclusions are, however, hardly
 warranted, and the *tageia*, the overlordship over all Thessaly, is
-probably of older origin; <span id="fr_441"></span>[25](#fn_441) but it
+probably of older origin; <span id="fr_441"></span>[25](#fn_441.md) but it
 was no kingship in the real sense and has evidently nothing to do with
 that kingship which was inherited from olden times. The name is not that
 always carried by Greek kings whose kingship was handed
@@ -392,10 +392,10 @@ always carried by Greek kings whose kingship was handed
 <span id="page_234">p. 234</span>
 
 down from olden times, *basileus*, <span
-id="fr_442"></span>[26](#fn_442) but another, *tagos*. If the list of
+id="fr_442"></span>[26](#fn_442.md) but another, *tagos*. If the list of
 the *tagoi* is made up, we see that these rulers were taken from
 different families belonging to different towns. <span
-id="fr_443"></span>[27](#fn_443) Their position was not due to any
+id="fr_443"></span>[27](#fn_443.md) Their position was not due to any
 hereditary principle but to election and they were elected only in case
 of need. A *tagos* was elected for his lifetime; although there were
 periods without any *tagos*.
@@ -414,7 +414,7 @@ is, however, the fact that the mountain of the gods, Olympus, the
 mightiest mountain of Greece, the peaks of which rise high into the sky,
 is situated on the northern boundary of that province. It is certain
 that Homer has the Thessalian Olympus in mind. This appears clearly in a
-passage <span id="fr_444"></span>[28](#fn_444) where Hera, in order to
+passage <span id="fr_444"></span>[28](#fn_444.md) where Hera, in order to
 entice Zeus
 
 <span id="page_235">p. 235</span>
@@ -426,8 +426,8 @@ Hypnus. Here the poet obviously refers to the Thessalian Olympus. But if
 argument on such minute points is permissible, there is at least one
 passage in which this mountain cannot be referred to, even if we except
 the two passages where Olympus may be whatever mountain you like. <span
-id="fr_445"></span>[29](#fn_445) At the beginning of the second book of
-the Iliad <span id="fr_446"></span>[30](#fn_446) we hear that Eos
+id="fr_445"></span>[29](#fn_445.md) At the beginning of the second book of
+the Iliad <span id="fr_446"></span>[30](#fn_446.md) we hear that Eos
 ascended the great Olympus in order to let the light appear for Zeus and
 the other gods. If we in these words should recognize the concrete view
 of the rosy dawn breaking forth over the peaks of Mount Olympus, the
@@ -439,15 +439,15 @@ Olympus, but the last-mentioned passage may raise the question whether
 this was so always and originally.
 
 There exist a fair number of mountains called Olympus. <span
-id="fr_447"></span>[31](#fn_447) Mount Lykaion in Arcadia and a hill
+id="fr_447"></span>[31](#fn_447.md) Mount Lykaion in Arcadia and a hill
 near Sellasia had this name; Pisa was situated between two hills,
 Olympus and Ossa, and there was another Olympus in Elis. <span
-id="fr_448"></span>[32](#fn_448) It is not clear which
+id="fr_448"></span>[32](#fn_448.md) It is not clear which
 
 <span id="page_236">p. 236</span>
 
 <span class="contnote">\[paragraph continues\]</span> Olympus Diodor has
-in mind. <span id="fr_449"></span>[33](#fn_449) I pass over the
+in mind. <span id="fr_449"></span>[33](#fn_449.md) I pass over the
 mountains which in modern times have this name, on Euboea, near Laurium,
 and on the island of Scyros. The name is still more frequent in Asia
 Minor, where Mount Olympus is found in Lydia, Mysia, Bithynia, Galatia,
@@ -464,7 +464,7 @@ Hera seems to be older in this place than Zeus.
 
 The name Olympus is certainly one of the many pre-Greek words which the
 Greek language took over from the earlier inhabitants of the
-country. <span id="fr_450"></span>[34](#fn_450) All attempts to find a
+country. <span id="fr_450"></span>[34](#fn_450.md) All attempts to find a
 probable etymology in connection with Greek words or stems have been
 vain. Its very form seems to make its pre-Greek origin probable and its
 widespread occurrence in western Asia Minor fits in admirably with this
@@ -494,7 +494,7 @@ improbable that two creations of such a thorough-going importance for
 Greek literature and religion as the Homeric epics and the Olympian
 State of the Gods should have originated in a province which never had
 the least importance in the spiritual life of the Greeks nor was
-penetrated by either the Mycenaean or [the](errata.htm#3) historical
+penetrated by either the Mycenaean or [the](errata.htm#3.md) historical
 Greek culture except at a late date and superficially. It seems to be
 much more likely on general grounds, and I have tried to prove it with
 specific arguments, that the conception of the mountain of the gods and
@@ -528,7 +528,7 @@ of Mycenae a pharaonic power has been ascribed to the kings of Mycenae.
 This opinion is understandable but it is not correct. With the aid of
 Homer it is possible to get at a closer and better understanding of the
 Mycenaean kingship. I have tried to do that in another place. <span
-id="fr_451"></span>[35](#fn_451) It ought, however,
+id="fr_451"></span>[35](#fn_451.md) It ought, however,
 
 <span id="page_239">p. 239</span>
 
@@ -554,14 +554,14 @@ the Nile about 1200 B.C. With this series of events the great Achaean
 kingdom, comprising Greece and parts of Asia Minor, would fit in
 admirably. Although its existence, which Dr. Forrer believed he had
 discovered, is denied, it is but what we should expect under the given
-conditions. <span id="fr_452"></span>[36](#fn_452)
+conditions. <span id="fr_452"></span>[36](#fn_452.md)
 
 Many scholars are inclined to think that these migrations were
 disconnected raids of small bands of
 
 <span id="page_240">p. 240</span>
 
-freebooters and adventurers, <span id="fr_453"></span>[37](#fn_453) but
+freebooters and adventurers, <span id="fr_453"></span>[37](#fn_453.md) but
 that is an idea in which I cannot possibly concur. Such disconnected
 raids and small bands would have been dissolved and have vanished
 without having such immense consequences as resulted, history proves,
@@ -583,7 +583,7 @@ The Teutonic kingship offers a precious analogy to the Greek kingship.
 It was hereditary in a certain family. It preserved so much of its
 religious origin that the king was held responsible for the luck and
 good fortune of his people. (There is a trace of this same idea in
-Homer. <span id="fr_454"></span>[38](#fn_454)) The king was in the first
+Homer. <span id="fr_454"></span>[38](#fn_454).md) The king was in the first
 place a war-king, leader of the military expeditions; he had at his side
 a council of chiefs and the
 
@@ -599,7 +599,7 @@ The Homeric kingship is of the same kind also. Agamemnon is in the first
 place a war-king; more over, his kingship is hereditary and invested
 with a rather full power. We see that especially in the famous passage
 in the second book which is generally recognized as reflecting early
-conditions. <span id="fr_455"></span>[39](#fn_455) The king appears in
+conditions. <span id="fr_455"></span>[39](#fn_455.md) The king appears in
 the popular assembly carrying the scepter which Zeus gave to his
 ancestor Pelops and which had been handed down through the generations
 of the kingly family until Thyestes gave it to Agamemnon to rule over
@@ -608,7 +608,7 @@ recognized that Agamemnon was a Great King who held sway over many
 vassals. Although the vassals are very obstinate and inclined to quarrel
 and to extend their independence, this respect for the king is
 ingrained. Old Nestor gives the good counsel to avoid strife with the
-king who carries the scepter. <span id="fr_456"></span>[40](#fn_456)
+king who carries the scepter. <span id="fr_456"></span>[40](#fn_456.md)
 
 At the side of the king we find the assembly of the army, which is
 convoked to discuss important matters. The members give voice to their
@@ -620,7 +620,7 @@ opinion of the assembly, as
 
 <span class="contnote">\[paragraph continues\]</span> Agamemnon does in
 refusing to let Chryses ransom his daughter in spite of the Achaeans'
-approval of Chryses' request. <span id="fr_457"></span>[41](#fn_457)
+approval of Chryses' request. <span id="fr_457"></span>[41](#fn_457.md)
 
 The chiefs appear throughout as the king's vassals, although their
 stubbornness and endeavors to guard and to extend their independence are
@@ -636,7 +636,7 @@ to the gods and to the king (they were called *temenos*), and parcels
 were divided among the men of the people by allotment; hence they were
 called lots (*kleroi*). Certain passages of the Iliad prove that the
 king possessed towns which he was able to give over to others. <span
-id="fr_458"></span>[42](#fn_458) These towns belonged of course to his
+id="fr_458"></span>[42](#fn_458.md) These towns belonged of course to his
 part of the booty and he could dispose of them only by giving them to
 men whom he trusted and who possessed them as his vassals. The vassals
 strove to guard their interests and to enlarge their independence. The
@@ -691,37 +691,37 @@ exception in Greece. Due regard ought to be given to these features
 also; they are earlier and were partly obliterated by later ideas. When
 Zeus enters among the gods gathered on Olympus, nobody dares to remain
 on his seat; but they all rise to greet him. <span
-id="fr_459"></span>[43](#fn_459) They recognize his rule as a
+id="fr_459"></span>[43](#fn_459.md) They recognize his rule as a
 self-evident fact, saying: "Thou rulest among the Immortal ones." <span
-id="fr_460"></span>[44](#fn_460) There are occasions where the gods obey
+id="fr_460"></span>[44](#fn_460.md) There are occasions where the gods obey
 his orders without any idea of opposition. Thetis does so when Zeus bids
 her go to Achilles and tell him to give over the corpse of Hector to
-Priam, <span id="fr_461"></span>[45](#fn_461) and Hera when she brings
+Priam, <span id="fr_461"></span>[45](#fn_461.md) and Hera when she brings
 to Poseidon the order of Zeus to desist from fighting; that, however,
 was after she had enticed Zeus into love in order to divert his
 attention from
 
 <span id="page_245">p. 245</span>
 
-the battle. <span id="fr_462"></span>[46](#fn_462) Once when Athena and
+the battle. <span id="fr_462"></span>[46](#fn_462.md) Once when Athena and
 Hera are on their way to the battle they go back at the command of
-Zeus; <span id="fr_463"></span>[47](#fn_463) in another chant they make
+Zeus; <span id="fr_463"></span>[47](#fn_463.md) in another chant they make
 a visit to Zeus in order to gain permission to take the field against
-Ares; <span id="fr_464"></span>[48](#fn_464) and later they hold Ares
+Ares; <span id="fr_464"></span>[48](#fn_464.md) and later they hold Ares
 back from throwing himself into the fight. <span
-id="fr_465"></span>[49](#fn_465) We hear often how highly the gods fear
+id="fr_465"></span>[49](#fn_465.md) We hear often how highly the gods fear
 and respect Zeus.
 
 It is frequently stated that the reason for this overwhelming power is
 the strength of Zeus, and Zeus himself illustrates this by coarse
 instances, e.g. the punishment of Hera <span
-id="fr_466"></span>[50](#fn_466) and the tug of war. <span
-id="fr_467"></span>[51](#fn_467) Poseidon tells in plain words why he
+id="fr_466"></span>[50](#fn_466.md) and the tug of war. <span
+id="fr_467"></span>[51](#fn_467.md) Poseidon tells in plain words why he
 obeys: Zeus is much stronger than he. <span
-id="fr_468"></span>[52](#fn_468) But this superior strength is not the
+id="fr_468"></span>[52](#fn_468.md) But this superior strength is not the
 only reason. When Zeus sends the command to Poseidon to desist from
 helping the Greeks, he claims not only superior strength but also his
-right as the elder brother. <span id="fr_469"></span>[53](#fn_469)
+right as the elder brother. <span id="fr_469"></span>[53](#fn_469.md)
 
 The following passage is illuminating. We hear that the sons of Cronus
 took possession of their inheritance and divided it; each got his part,
@@ -766,7 +766,7 @@ of the eldest brother, was superseded
 
 by a current folk-tale motif, which made Zeus the youngest son of
 Cronus, and Hesiod had already made the gods elect Zeus their king after
-the victory over the Titans. <span id="fr_470"></span>[54](#fn_470) The
+the victory over the Titans. <span id="fr_470"></span>[54](#fn_470.md) The
 forms of Greek political life diverged ever more from those of the State
 of the Gods. In the Heavens monarchy prevailed, on the earth the
 republic. The attempt of Hesiod to make the State of the Gods follow the
@@ -806,7 +806,7 @@ tales. Zeus possessed himself of his kingship by an act of violence
 against his father, and other gods made the attempt to deprive him of
 it. The myth that Hera, Poseidon, and Athena tried to fetter him but
 that Thetis injected fear into them, fetching the hundred-armed
-Briareos, <span id="fr_471"></span>[55](#fn_471) resembles strikingly,
+Briareos, <span id="fr_471"></span>[55](#fn_471.md) resembles strikingly,
 if the mythical color is disregarded, a story telling of an attempted
 revolt in a kingly family, which was quelled by calling upon foreign
 aid.
@@ -815,11 +815,11 @@ The other gods appear as the retainers of Zeus whom he summons to
 counsel or to meals just as Agamemnon summons the elders. Just as the
 war-king summons the army assembly, Zeus summons twice an assembly of
 the gods in which even the lesser gods take part. <span
-id="fr_472"></span>[56](#fn_472) The rivers, and the nymphs of the
+id="fr_472"></span>[56](#fn_472.md) The rivers, and the nymphs of the
 springs and of the meadows are mentioned especially. This may be thought
 to be a later invention, but it is very noticeable that Poseidon once
 does his brother the service of unharnessing his horses; <span
-id="fr_473"></span>[57](#fn_473) i.e., his relation to Zeus is that of a
+id="fr_473"></span>[57](#fn_473.md) i.e., his relation to Zeus is that of a
 "friend"
 
 <span id="page_249">p. 249</span>
@@ -835,7 +835,7 @@ corresponded to the subject of the Iliad, the war about Troy, in which
 the gods also took part. This conception agreed also with the
 inclination of epic poetry to favor the vassals in opposition to their
 suzerain. A very common motif of epic poetry is wrath or strife between
-two heroes. <span id="fr_474"></span>[58](#fn_474) The famous Olympian
+two heroes. <span id="fr_474"></span>[58](#fn_474.md) The famous Olympian
 scenes are due to this predilection of the minstrels.
 
 The Olympian scenes as they are depicted in detail wear of course partly
@@ -864,7 +864,7 @@ were transferred to Olympus as subjects of Zeus. A later age took the
 picture to be natural and embellished it further. In a well-known
 passage of the Odyssey the features of the description are taken from
 the Minoan idea of the fields of the Blest. <span
-id="fr_475"></span>[59](#fn_475)
+id="fr_475"></span>[59](#fn_475.md)
 
 Opinions may differ in regard to this and other details, but that is
 unimportant if only the chief outlines are recognized. I conclude my
@@ -902,183 +902,183 @@ originates in the Mycenaean age.
 
 ### Footnotes
 
-<span id="fn_417"></span>[223:1](mog14.htm#fr_417) G. Finsler, *Homer*
+<span id="fn_417"></span>[223:1](mog14.htm#fr_417.md) G. Finsler, *Homer*
 (ed. 3; 1924), p. 220 *et seq*., and "Die olympischen Szenen in der
 Ilias," *Program*, Bern (1906).
 
-<span id="fn_418"></span>[225:2](mog14.htm#fr_418) Wilamowitz, *Die
+<span id="fn_418"></span>[225:2](mog14.htm#fr_418.md) Wilamowitz, *Die
 Ilias and Homer* (1916), p. 316, cp. p. 284.
 
-<span id="fn_419"></span>[225:3](mog14.htm#fr_419) *Loc. cit.*, p. 339.
+<span id="fn_419"></span>[225:3](mog14.htm#fr_419.md) *Loc. cit.*, p. 339.
 
-<span id="fn_420"></span>[225:4](mog14.htm#fr_420) *Il*. v. v. 29 *et
+<span id="fn_420"></span>[225:4](mog14.htm#fr_420.md) *Il*. v. v. 29 *et
 seq*.
 
-<span id="fn_421"></span>[226:5](mog14.htm#fr_421) *Il*. v. v. 338 *et
+<span id="fn_421"></span>[226:5](mog14.htm#fr_421.md) *Il*. v. v. 338 *et
 seq*.
 
-<span id="fn_422"></span>[226:6](mog14.htm#fr_422) *Il*. v. v. 355 *et
+<span id="fn_422"></span>[226:6](mog14.htm#fr_422.md) *Il*. v. v. 355 *et
 seq*. 8
 
-<span id="fn_423"></span>[226:7](mog14.htm#fr_423) *Il*. v. v. 711 *et
+<span id="fn_423"></span>[226:7](mog14.htm#fr_423.md) *Il*. v. v. 711 *et
 seq*.
 
-<span id="fn_424"></span>[226:8](mog14.htm#fr_424) *Il*. v. v. 850 *et
+<span id="fn_424"></span>[226:8](mog14.htm#fr_424.md) *Il*. v. v. 850 *et
 seq*.
 
-<span id="fn_425"></span>[226:9](mog14.htm#fr_425) *Il*. v. v. 356.
+<span id="fn_425"></span>[226:9](mog14.htm#fr_425.md) *Il*. v. v. 356.
 
-<span id="fn_426"></span>[227:10](mog14.htm#fr_426) *Il*. v. v. 449.
+<span id="fn_426"></span>[227:10](mog14.htm#fr_426.md) *Il*. v. v. 449.
 
-<span id="fn_427"></span>[227:11](mog14.htm#fr_427) Wilamowitz, *loc.
+<span id="fn_427"></span>[227:11](mog14.htm#fr_427.md) Wilamowitz, *loc.
 cit.*, p. 339.
 
-<span id="fn_428"></span>[228:12](mog14.htm#fr_428) *Il*. xiii. v. 243,
+<span id="fn_428"></span>[228:12](mog14.htm#fr_428.md) *Il*. xiii. v. 243,
 and xvi. v. 364.
 
-<span id="fn_429"></span>[229:13](mog14.htm#fr_429) ἕδος Οὐλύμποιο; βῆ
+<span id="fn_429"></span>[229:13](mog14.htm#fr_429.md) ἕδος Οὐλύμποιο; βῆ
 δὲ κατ᾽ Οὐλύμποιο καρήνων; ὅσοι θεοί εἰσ᾽ ἑν Ὀλύμπῳ; θεοὶ, ἀθάνατοι
 Ὀλύμπια δώματ᾽ ἔχοντες.
 
-<span id="fn_430"></span>[229:14](mog14.htm#fr_430) ἔσπετε νύν μοι,
+<span id="fn_430"></span>[229:14](mog14.htm#fr_430.md) ἔσπετε νύν μοι,
 Μοῦσαι Ὀλύμπια δώματ᾽ ἔχουσαι, *Il*. ii. v. 484; xi. v. 218; vi. v. 218;
 xiv. v. 508; xvi. v. 112. ii. v. 491 in the beginning the Catalogue of
 the Ships, Ὀλυμπιάδες Μοῦσαι.
 
-<span id="fn_431"></span>[229:15](mog14.htm#fr_431) *Il*. i. v. 497.
+<span id="fn_431"></span>[229:15](mog14.htm#fr_431.md) *Il*. i. v. 497.
 
-<span id="fn_432"></span>[229:16](mog14.htm#fr_432) *Il*. iii. v. 364;
+<span id="fn_432"></span>[229:16](mog14.htm#fr_432.md) *Il*. iii. v. 364;
 vii. v. 178.
 
-<span id="fn_433"></span>[229:17](mog14.htm#fr_433) *Il*. xv. v. 371.
+<span id="fn_433"></span>[229:17](mog14.htm#fr_433.md) *Il*. xv. v. 371.
 
-<span id="fn_434"></span>[230:18](mog14.htm#fr_434) *Il*. ii. v. 491.
+<span id="fn_434"></span>[230:18](mog14.htm#fr_434.md) *Il*. ii. v. 491.
 
-<span id="fn_435"></span>[230:19](mog14.htm#fr_435) *Il*. xii. v. 240.
+<span id="fn_435"></span>[230:19](mog14.htm#fr_435.md) *Il*. xii. v. 240.
 
-<span id="fn_436"></span>[230:20](mog14.htm#fr_436) *Il*. xvi. v. 364.
+<span id="fn_436"></span>[230:20](mog14.htm#fr_436.md) *Il*. xvi. v. 364.
 
-<span id="fn_437"></span>[231:21](mog14.htm#fr_437) *Il*. v. v.749.
+<span id="fn_437"></span>[231:21](mog14.htm#fr_437.md) *Il*. v. v.749.
 
-<span id="fn_438"></span>[231:22](mog14.htm#fr_438) *Il*. xiv. v. 350;
+<span id="fn_438"></span>[231:22](mog14.htm#fr_438.md) *Il*. xiv. v. 350;
 xv. v. 153; xx. v. 150, etc., etc.
 
-<span id="fn_439"></span>[233:23](mog14.htm#fr_439) F. Hiller von
+<span id="fn_439"></span>[233:23](mog14.htm#fr_439.md) F. Hiller von
 Gaertringen, "Das Königtum bei den Thessalern" in the volume *Aus der
 Anomia* (1890), p. 1 *et seq*.
 
-<span id="fn_440"></span>[233:24](mog14.htm#fr_440) With this view O.
+<span id="fn_440"></span>[233:24](mog14.htm#fr_440.md) With this view O.
 Kern agrees in his paper "Die Landschaft Thessalien and die griechische
 Geschichte," *Neue Jahrbücher für die klass. Altertumswissenschaft*,
 XIII (1904), p. 219 *et seq*.
 
-<span id="fn_441"></span>[233:25](mog14.htm#fr_441) See Ed. Meyer,
+<span id="fn_441"></span>[233:25](mog14.htm#fr_441.md) See Ed. Meyer,
 *Theopomps Hellenika* (1909), p. 12 *et seq*.
 
-<span id="fn_442"></span>[234:26](mog14.htm#fr_442) The gods are never
+<span id="fn_442"></span>[234:26](mog14.htm#fr_442.md) The gods are never
 called βασιλεύς, only ἄναξ. Βασιλεύςis probably a pre-Greek word, and
 this is of a certain importance in corroborating my view concerning the
 Mycenaean kingship. See J. Wackernagel, *Sprachliche Untersuchungen zu
 Homer* (1916), p. 211 *et seq*.
 
-<span id="fn_443"></span>[234:27](mog14.htm#fr_443) They are registered
+<span id="fn_443"></span>[234:27](mog14.htm#fr_443.md) They are registered
 by K. J. Beloch, *Griech. Geschichte*, (ed. 2), I: 2, p. 197.
 
-<span id="fn_444"></span>[234:28](mog14.htm#fr_444) *Il*. xiv. v. 225
+<span id="fn_444"></span>[234:28](mog14.htm#fr_444.md) *Il*. xiv. v. 225
 *et seq*.; cp. *Od*. v. v. 50.
 
-<span id="fn_445"></span>[235:29](mog14.htm#fr_445) Above p. 218, n. 12.
+<span id="fn_445"></span>[235:29](mog14.htm#fr_445.md) Above p. 218, n. 12.
 
-<span id="fn_446"></span>[235:30](mog14.htm#fr_446) *Il*. ii. v. 48 *et
+<span id="fn_446"></span>[235:30](mog14.htm#fr_446.md) *Il*. ii. v. 48 *et
 seq*.
 
-<span id="fn_447"></span>[235:31](mog14.htm#fr_447) They are enumerated
+<span id="fn_447"></span>[235:31](mog14.htm#fr_447.md) They are enumerated
 in Roscher's *Lexikon der Mythologie*, *s.v.* Olympus; and in A. B.
 Cook, *Zeus*, I, p. 100.
 
-<span id="fn_448"></span>[235:32](mog14.htm#fr_448) *Schol. Apollon.
+<span id="fn_448"></span>[235:32](mog14.htm#fr_448.md) *Schol. Apollon.
 Rhod.* i. v. 599.
 
-<span id="fn_449"></span>[236:33](mog14.htm#fr_449) Diodorus, v. 80.
+<span id="fn_449"></span>[236:33](mog14.htm#fr_449.md) Diodorus, v. 80.
 
-<span id="fn_450"></span>[236:34](mog14.htm#fr_450) Theander in the
+<span id="fn_450"></span>[236:34](mog14.htm#fr_450.md) Theander in the
 periodical *Eranos*, XV (1916), p. 127 *et seq*.
 
-<span id="fn_451"></span>[238:35](mog14.htm#fr_451) In my paper "Das
+<span id="fn_451"></span>[238:35](mog14.htm#fr_451.md) In my paper "Das
 homerische Königtum," *Sitzungsberichte der preuss. Akademie der
 Wissenschaften*, 1927, p. 23 *et seq*.
 
-<span id="fn_452"></span>[239:36](mog14.htm#fr_452) Cp. above [p.
-60](mog04.htm#page_60).
+<span id="fn_452"></span>[239:36](mog14.htm#fr_452.md) Cp. above [p.
+60](mog04.htm#page_60.md).
 
-<span id="fn_453"></span>[240:37](mog14.htm#fr_453) E.g. G. Murray, *The
+<span id="fn_453"></span>[240:37](mog14.htm#fr_453.md) E.g. G. Murray, *The
 Rise of the Greek Epic*s (ed. 3), p. 127 *et seq*.
 
-<span id="fn_454"></span>[240:38](mog14.htm#fr_454) *Od*. xix. v. 109
+<span id="fn_454"></span>[240:38](mog14.htm#fr_454.md) *Od*. xix. v. 109
 *et seq*.
 
-<span id="fn_455"></span>[241:39](mog14.htm#fr_455) *Il*. ii. v. 100 *et
-seq*.; cp. above [p. 43](mog04.htm#page_43) *et seq*.
+<span id="fn_455"></span>[241:39](mog14.htm#fr_455.md) *Il*. ii. v. 100 *et
+seq*.; cp. above [p. 43](mog04.htm#page_43.md) *et seq*.
 
-<span id="fn_456"></span>[241:40](mog14.htm#fr_456) *Il*. i. v. 277 *et
+<span id="fn_456"></span>[241:40](mog14.htm#fr_456.md) *Il*. i. v. 277 *et
 seq*.; ix. v. 37 *et seq*.; cp. iv. v. 402.
 
-<span id="fn_457"></span>[242:41](mog14.htm#fr_457) *Il*. i. v. 22 *et
+<span id="fn_457"></span>[242:41](mog14.htm#fr_457.md) *Il*. i. v. 22 *et
 seq*.
 
-<span id="fn_458"></span>[242:42](mog14.htm#fr_458) Agamemnon promises
+<span id="fn_458"></span>[242:42](mog14.htm#fr_458.md) Agamemnon promises
 to give seven towns in Messenia to Achilles *Il*. ix. v. 144 *et seq*.
-(cp. above [p. 84](mog06.htm#page_84) *et seq*.). Menelaus expresses the
+(cp. above [p. 84](mog06.htm#page_84) *et seq*..md). Menelaus expresses the
 wish to evacuate a town in order to settle Odysseus there with his
 people, *Od*. iv. v. 174 *et seq*. Peleus settles the fugitive Phoenix
 in the extremity of Phthia as ruler of the Dolopes, *Il*. ix. v. 480 *et
 seq*.
 
-<span id="fn_459"></span>[244:43](mog14.htm#fr_459) *Il*. i. v. 534.
+<span id="fn_459"></span>[244:43](mog14.htm#fr_459.md) *Il*. i. v. 534.
 
-<span id="fn_460"></span>[244:44](mog14.htm#fr_460) *Il*. xviii. v. 366.
+<span id="fn_460"></span>[244:44](mog14.htm#fr_460.md) *Il*. xviii. v. 366.
 
-<span id="fn_461"></span>[244:45](mog14.htm#fr_461) *Il*. xxiv. v. 90
+<span id="fn_461"></span>[244:45](mog14.htm#fr_461.md) *Il*. xxiv. v. 90
 *et seq*.
 
-<span id="fn_462"></span>[245:46](mog14.htm#fr_462) *Il*. xv. v. 78.
+<span id="fn_462"></span>[245:46](mog14.htm#fr_462.md) *Il*. xv. v. 78.
 
-<span id="fn_463"></span>[245:47](mog14.htm#fr_463) *Il*. viii. v. 432.
+<span id="fn_463"></span>[245:47](mog14.htm#fr_463.md) *Il*. viii. v. 432.
 
-<span id="fn_464"></span>[245:48](mog14.htm#fr_464) *Il*. v. v. 753 *et
+<span id="fn_464"></span>[245:48](mog14.htm#fr_464.md) *Il*. v. v. 753 *et
 seq*.
 
-<span id="fn_465"></span>[245:49](mog14.htm#fr_465) *Il*. xvi. v.21.
+<span id="fn_465"></span>[245:49](mog14.htm#fr_465.md) *Il*. xvi. v.21.
 
-<span id="fn_466"></span>[245:50](mog14.htm#fr_466) *Il*. xv. v. 127.
+<span id="fn_466"></span>[245:50](mog14.htm#fr_466.md) *Il*. xv. v. 127.
 
-<span id="fn_467"></span>[245:51](mog14.htm#fr_467) *Il*. viii. v. 19
+<span id="fn_467"></span>[245:51](mog14.htm#fr_467.md) *Il*. viii. v. 19
 *et seq*.
 
-<span id="fn_468"></span>[245:52](mog14.htm#fr_468) *Il* viii v.
+<span id="fn_468"></span>[245:52](mog14.htm#fr_468.md) *Il* viii v.
 209:ἐπεὶ ἦ πολὺ φέρτερός ἐστι; cp. xv. v. 108.
 
-<span id="fn_469"></span>[245:53](mog14.htm#fr_469) *Il*. xv. v. 165: εὔ
+<span id="fn_469"></span>[245:53](mog14.htm#fr_469.md) *Il*. xv. v. 165: εὔ
 φημι βίῃ πολὺ φέρτερος καὶ γενεῇ πρότερος.
 
-<span id="fn_470"></span>[247:54](mog14.htm#fr_470) Hesiod, *Theogony*,
+<span id="fn_470"></span>[247:54](mog14.htm#fr_470.md) Hesiod, *Theogony*,
 v. 881.
 
-<span id="fn_471"></span>[248:55](mog14.htm#fr_471) *Il*. i. v. 400 *et
+<span id="fn_471"></span>[248:55](mog14.htm#fr_471.md) *Il*. i. v. 400 *et
 seq*.
 
-<span id="fn_472"></span>[248:56](mog14.htm#fr_472) In the beginning of
+<span id="fn_472"></span>[248:56](mog14.htm#fr_472.md) In the beginning of
 the eighth and the twentieth books.
 
-<span id="fn_473"></span>[248:57](mog14.htm#fr_473) *Il*. viii. v. 440.
+<span id="fn_473"></span>[248:57](mog14.htm#fr_473.md) *Il*. viii. v. 440.
 
-<span id="fn_474"></span>[249:58](mog14.htm#fr_474) Cp. my paper "Götter
+<span id="fn_474"></span>[249:58](mog14.htm#fr_474.md) Cp. my paper "Götter
 and Psychologie bei Homer," *Archiv fur Religionswissenschaft*, XXII
 (1923-24), p. 364.
 
-<span id="fn_475"></span>[250:59](mog14.htm#fr_475) *Od*. vi. v. 42 *et
+<span id="fn_475"></span>[250:59](mog14.htm#fr_475.md) *Od*. vi. v. 42 *et
 seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Index](mog15)
+[Next: Index](mog15.md)

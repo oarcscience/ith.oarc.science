@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku70)  [Next](tku72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku70)  [Next](tku72.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ the place of fragrance.
 645\. The beautiful arrangement of this beard is divided into nine
 parts. But when the most holy oil of dignity of the Most Holy Ancient
 One sendeth down rays into this beard, its parts are found to be
-twenty-two. <span id="fr_290"></span>[1](#fn_287)
+twenty-two. <span id="fr_290"></span>[1](#fn_287.md)
 
 646\. And then all things exist in benediction, and thence Israel the
 patriarch (*i.e., Jacob*) took his blessing. And the symbol of this is
@@ -42,7 +42,7 @@ the parts of the beard of the Most Holy Ancient One.
 
 649\. Six there are; nine they are called. For the first conformation
 goeth forth through that Spark of the most refulgent light-bearer, <span
-id="fr_291"></span>[2](#fn_288) and goeth down beneath the hair of the
+id="fr_291"></span>[2](#fn_288.md) and goeth down beneath the hair of the
 head, assuredly beneath those locks which overhang the ears.
 
 650\. And it descendeth before the opening of the ears unto the
@@ -57,7 +57,7 @@ dependeth
 
 from Him, and when Aima, the Mother, ariseth, and is included in that
 subtle ether, then She, Aima, assumeth that white brilliance. <span
-id="fr_292"></span>[1](#fn_289)
+id="fr_292"></span>[1](#fn_289.md)
 
 652\. And the Scintilla entereth and departeth, and together mutually
 are They bound, and thence cometh the One Form.
@@ -97,7 +97,7 @@ therefore I will not fear."
 <span id="page_327">p. 327</span>
 
 662\. But that which we have already laid down in the Conclave of the
-[Assembly](errata.htm#10) concerning these words, "In my trouble I
+[Assembly](errata.htm#10.md) concerning these words, "In my trouble I
 invoked IH, *Yah*," that this is to be referred to that place where the
 beard beginneth to be extended, which place is more remote, and before
 the ears, is also correct.
@@ -178,18 +178,18 @@ Aaron."
 
 ### Footnotes
 
-<span id="fn_286"></span>[324:1](tku70.htm#fr_289) *I.e.*. The various
+<span id="fn_286"></span>[324:1](tku70.htm#fr_289.md) *I.e.*. The various
 degrees of the whiteness.
 
-<span id="fn_287"></span>[325:1](tku71.htm#fr_290) Answering to the
+<span id="fn_287"></span>[325:1](tku71.htm#fr_290.md) Answering to the
 number of the letters of the Hebrew alphabet, which together with the
 ten Sephiroth form the thirty-two paths of wisdom of the "Sepher
 Yetzirah."
 
-<span id="fn_288"></span>[325:2](tku71.htm#fr_291) See, "Book of
+<span id="fn_288"></span>[325:2](tku71.htm#fr_291.md) See, "Book of
 Concealed Mystery." ch. ii. § 31. 40. &c.
 
-<span id="fn_289"></span>[326:1](tku71.htm#fr_292) In the "Book of
+<span id="fn_289"></span>[326:1](tku71.htm#fr_292.md) In the "Book of
 Concealed Mystery," ch i. § 31. HVA and ALHIM are shown to be
 interchangeable, and they both are FEMININE. And now we come to the
 "Three Mothers," of the "Sepher Yetzirah," the Great Supernal Feminine
@@ -200,4 +200,4 @@ meditate on § 651, for there the indicible Arcanum is shadowed.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX: Concerning the Lips and Mouth of
-Microprosopus](tku72)
+Microprosopus](tku72.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](som02)  [Next](som04) 
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](som02)  [Next](som04.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ This structure was destroyed by fire, but the temple-building spirit was
 not to be quenched, and in the vales of Utah today are four magnificent
 temple edifices. The last completed, which was the first begun, is
 situated in Salt Lake City, and is one of the wonders and beauties of
-that city by the great salt sea. <span id="fr_1"></span>[2](#fn_1)
+that city by the great salt sea. <span id="fr_1"></span>[2](#fn_1.md)
 
 To the fervent Latter-day Saint, a temple is not simply a church
 building, a house for religious assembly. Indeed the "Mormon" temples
@@ -273,10 +273,10 @@ property.
 
 ### Footnotes
 
-<span id="fn_1"></span>[:2](som03.htm#fr_1) For a detailed account of
+<span id="fn_1"></span>[:2](som03.htm#fr_1.md) For a detailed account of
 modern temples, with numerous pictorial views, see "The House of the
 Lord," by the present author; Salt Lake City, Utah, 1912.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](som04)
+[Next: Chapter III](som04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis19)  [Next](kis21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis19)  [Next](kis21.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ Ashes cried after them.
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](kis21)
+[Next: Part VI](kis21.md)

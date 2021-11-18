@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](tawo16)  [Next](tawo18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](tawo16)  [Next](tawo18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales of Wonder*, by Lord Dunsany, \[1916\], at Intangible Textual
 Heritage
 
@@ -125,6 +125,6 @@ mist, he silently moved to his tower and up its broken steps.
 
 ------------------------------------------------------------------------
 
-[Next: How Plash-Goo Came to the Land of None's Desire](tawo18)
+[Next: How Plash-Goo Came to the Land of None's Desire](tawo18.md)
 
 </div>

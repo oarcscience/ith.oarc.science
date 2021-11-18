@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb15)  [Next](boeb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb15)  [Next](boeb17.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ And he did frisk it over the plain,
  
 
 <span id="img_10001"></span> [![](tn/10001.jpg)  
-Click to enlarge](img/10001.jpg)
+Click to enlarge](img/10001.jpg.md)
 
  
 
@@ -144,7 +144,7 @@ They shall be three times asked in the church,
  
 
 <span id="img_10400"></span> [![](tn/10400.jpg)  
-Click to enlarge](img/10400.jpg)
+Click to enlarge](img/10400.jpg.md)
 
  
 
@@ -176,4 +176,4 @@ And so they returned to the merry greenwood,
 
 ------------------------------------------------------------------------
 
-[Next: Robin Hood and Guy of Gisborne](boeb17)
+[Next: Robin Hood and Guy of Gisborne](boeb17.md)

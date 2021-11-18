@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp09)  [Next](esp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp09)  [Next](esp11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -37,7 +37,7 @@ skip these fuller chapters may do so by going on from the end of this
 one to Chapter 9.
 
 Following upon our experimental interest in the telepathic horse,
-Lady, <span id="fr_67"></span>[1](#fn_67) during 1928 and 1929,
+Lady, <span id="fr_67"></span>[1](#fn_67.md) during 1928 and 1929,
 considerable effort was made to find other infra-human telepathic
 subjects but this was in vain. In the summer of 1930, then, I turned to
 the task of trying to find human subjects. I began by giving "guessing
@@ -88,7 +88,7 @@ therefore be thrown together. All are somewhat above the chance
 expectation but only slightly. The best groups, in which numbers from 0
 to 9 were used as symbols, totalled 530 trials and yielded 65 right as
 against 53 expected on chance. This positive deviation of 12 is only 2.6
-times the probable error (±4.66) <span id="fr_68"></span>[1](#fn_68). It
+times the probable error (±4.66) <span id="fr_68"></span>[1](#fn_68.md). It
 might be said that, had we continued these tests for as many more trials
 with equal results, the data would have approximated the point of
 significance. But the procedure was slow and we discovered that such
@@ -102,7 +102,7 @@ results. They were never high but seemed to favor the positive side to
 an interesting degree. These were mostly carried out on the basis of
 symbols suggested chiefly by Dr. Zener, five in number; namely: circle,
 rectangle, plus, star and wavy lines (<span id="img_03600"></span>
-![Zener Card Symbols](img/03600.jpg)). We early began to use them in
+![Zener Card Symbols](img/03600.jpg).md). We early began to use them in
 packs of five each, 25 in all. The subject usually called the top card,
 as the pack lay face down on the table before him. A series of 25 trials
 without any extra-sensory perception would yield, on the average, about
@@ -414,7 +414,7 @@ our Department, Miss May Frances Turner and Miss June Bailey. All three
 have since done dependably high scoring over long series.
 
 Miss Bailey was first encouraged to try the tests because she had had
-parapsychical experiences in her [childhood](errata.htm#3). She has now
+parapsychical experiences in her [childhood](errata.htm#3.md). She has now
 made 3,900
 
 <span id="page_43">p. 43</span>
@@ -594,14 +594,14 @@ long do so now.
 
 ### Footnotes
 
-<span id="fn_67"></span>[35:1](esp10.htm#fr_67) Rhine, J. B. and Rhine,
+<span id="fn_67"></span>[35:1](esp10.htm#fr_67.md) Rhine, J. B. and Rhine,
 Louisa E. An investigation of a "mind-reading" horse. *Jour. Abn. and
 Soc. Psy.* 23: pp. 449-466, 1929, and the sequel "Second Report on
 Lady", same journal, 24: pp. 289-292, 1929.
 
-<span id="fn_68"></span>[36:1](esp10.htm#fr_68) See Appendix to Chapter
+<span id="fn_68"></span>[36:1](esp10.htm#fr_68.md) See Appendix to Chapter
 2, page 32.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Earlier and Minor Experiments](esp11)
+[Next: Chapter IV. Earlier and Minor Experiments](esp11.md)

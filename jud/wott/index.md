@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wott00)    [Page
-Index](pageidx)    [Text \[Zipped\]](wott.txt.gz)
+[Contents](#contents)    [Start Reading](wott00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](wott.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,16 +45,16 @@ class="small">--J.B. Hare, 1/3/2009.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wott00)  
-[Table of Contents](wott01)  
-[Introduction](wott02)  
-[The Talmud as Literature](wott03)  
-[The Forerunners of the Talmud](wott04)  
-[The Talmud in its Historical Setting](wott05)  
-[The Theological Elements in the Talmud](wott06)  
-[Social Ethics in the Talmud](wott07)  
-[Personal Morality in the Talmud](wott08)  
-[The Jurisprudence of the Talmud](wott09)  
-[Human Wisdom in the Talmud](wott10)  
-[Notes](wott11)  
-[Index](wott12)  
+<span id="contents"></span> [Title Page](wott00.md)  
+[Table of Contents](wott01.md)  
+[Introduction](wott02.md)  
+[The Talmud as Literature](wott03.md)  
+[The Forerunners of the Talmud](wott04.md)  
+[The Talmud in its Historical Setting](wott05.md)  
+[The Theological Elements in the Talmud](wott06.md)  
+[Social Ethics in the Talmud](wott07.md)  
+[Personal Morality in the Talmud](wott08.md)  
+[The Jurisprudence of the Talmud](wott09.md)  
+[Human Wisdom in the Talmud](wott10.md)  
+[Notes](wott11.md)  
+[Index](wott12.md)  

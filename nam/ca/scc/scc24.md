@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc23)  [Next](scc25) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc23)  [Next](scc25.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ and blood turned the ground white and red.
 
 ------------------------------------------------------------------------
 
-[Next: 23.--Tachi Yokuts. The Thunder Twins.](scc25)
+[Next: 23.--Tachi Yokuts. The Thunder Twins.](scc25.md)

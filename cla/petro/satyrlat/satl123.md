@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXXIII) 
-[Previous](satl122)  [Next](satl124) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXXIII.md) 
+[Previous](satl122)  [Next](satl124.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ ut Fortuna levis Magni quoque terga videret.
 
 ------------------------------------------------------------------------
 
-[Next: CXXIV](satl124)
+[Next: CXXIV](satl124.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr11)  [Next](ppr13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr11)  [Next](ppr13.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Come to us while we recite these divine sentences.
 
 ------------------------------------------------------------------------
 
-[Next: Chinese Prayer](ppr13)
+[Next: Chinese Prayer](ppr13.md)

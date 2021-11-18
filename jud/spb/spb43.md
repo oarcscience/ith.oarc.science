@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb42)  [Next](spb44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb42)  [Next](spb44.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -110,7 +110,7 @@ wherewith thou dost constantly feed and sustain us on every day, in
 every season, at every hour.
 
 *On Chanukah and Purim add, "We thank thee also for the miracles," etc.,
-pp. [63](spb05.htm#page_63), [64](spb05.htm#page_64)*.
+pp. [63](spb05.htm#page_63), [64](spb05.htm#page_64.md)*.
 
 For all this, O Lord our God, we thank and bless thee, blessed be thy
 name by the mouth of all living continually and for ever, even as it is
@@ -252,12 +252,12 @@ the life of the world to come.
 *On Week-days:—*
 
 Great salvation giveth he to his king. <span
-id="fr_55"></span>[\*](#fn_50)
+id="fr_55"></span>[\*](#fn_50.md)
 
 *On Sabbaths, Festivals, and New Moons:—*
 
 He is a tower of salvation to his king; <span
-id="fr_56"></span>[\*](#fn_50)
+id="fr_56"></span>[\*](#fn_50.md)
 
 And showeth lovingkindness to his anointed, to David and to his seed,
 for evermore. He who maketh peace in his high places, may he make peace
@@ -277,7 +277,7 @@ will bless his people with peace.
 
 ### Footnotes
 
-<span id="fn_50"></span>[431:\*](spb43.htm#fr_56) These changes are
+<span id="fn_50"></span>[431:\*](spb43.htm#fr_56.md) These changes are
 based upon the two readings of this verse in Psalm xviii. 51, and 2 Sam.
 xxii. 51 respectively.
 
@@ -285,6 +285,6 @@ xxii. 51 respectively.
 
 ------------------------------------------------------------------------
 
-[Next: Blessings on Various Occasions](spb44)
+[Next: Blessings on Various Occasions](spb44.md)
 
 </div>

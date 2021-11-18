@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp35)  [Next](prp37) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp35)  [Next](prp37.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ better-hung mentule!
 
 ------------------------------------------------------------------------
 
-[Next: 37. Why on memorial tablet do they limn](prp37)
+[Next: 37. Why on memorial tablet do they limn](prp37.md)

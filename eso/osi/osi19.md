@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi18)  [Next](osi20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi18)  [Next](osi20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ Textual Heritage
 \[From the twenty-third dialogue of the Second Book of the
 Agrouchada-Parikchai.\]
 
-<span class="small">VATU</span> <span id="fr_8"></span>[1](#fn_8) (the
+<span class="small">VATU</span> <span id="fr_8"></span>[1](#fn_8.md) (the
 Disciple).
 
 Our ablutions have been performed, as prescribed. The regular sacrifices
@@ -172,10 +172,10 @@ initiated upon each of these matters.
 
 ### Footnotes
 
-<span id="fn_8"></span>[113:1](osi19.htm#fr_8) This word in Sanscrit
+<span id="fn_8"></span>[113:1](osi19.htm#fr_8.md) This word in Sanscrit
 signifies novice or pupil; it is applied to any one, no matter what his
 age may be, who studies under the direction of a Guru.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. A Text From the Vedas](osi20)
+[Next: Chapter VIII. A Text From the Vedas](osi20.md)

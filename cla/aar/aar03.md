@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aar02)  [Next](aar04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aar02)  [Next](aar04.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ Passing through the entrance-gate to the theatre on the south side of
 the Acropolis, our Athenian citizen will find himself at once on holy
 ground. He is within a *temenos* or precinct, a place "cut off" from the
 common land and dedicated to a god. He will pass to the left ([Fig. 2,
-p. 144](aar07.htm#img_fig02)) two temples standing near to each other,
+p. 144](aar07.htm#img_fig02).md) two temples standing near to each other,
 one of earlier, the other of later date, for a temple, once built, was
 so sacred that it would only be reluctantly destroyed. As he enters the
 actual theatre he will pay nothing for his seat; his attendance is an
@@ -195,7 +195,7 @@ Choiak, in which effigies of the god made of earth and corn were buried.
 When these effigies were taken up it would be found that the corn had
 sprouted actually from the body of the god, and this sprouting of the
 grain would, as Dr. Frazer says, be "hailed as an omen, or rather as the
-cause of the growth of the crops." <span id="fr_0"></span>[1](#fn_0)
+cause of the growth of the crops." <span id="fr_0"></span>[1](#fn_0.md)
 
 Even more vividly is the resurrection set forth in the bas-reliefs that
 accompany the great Osiris inscription at Denderah. Here the god is
@@ -257,7 +257,7 @@ fleet was setting sail on its ill-omened voyage to Syracuse, the streets
 of Athens were thronged with funeral processions, everywhere was seen
 the image of the dead god, and the air was full of the lamentations of
 weeping women. Thucydides does not so much as mention the coincidence,
-but Plutarch <span id="fr_1"></span>[1](#fn_1) tells us those who took
+but Plutarch <span id="fr_1"></span>[1](#fn_1.md) tells us those who took
 account of omens were full of concern for the fate of their countrymen.
 To start an expedition on the day of the funeral rites of Adonis, the
 Canaanitish "Lord," was no luckier than to set sail on a Friday, the
@@ -288,7 +288,7 @@ and also in somewhat greater detail what we mean by ritual.
 
  
 
-Art, Plato <span id="fr_2"></span>[1](#fn_2) tells us in a famous
+Art, Plato <span id="fr_2"></span>[1](#fn_2.md) tells us in a famous
 passage of the Republic, is imitation; the artist imitates natural
 objects, which are themselves in his philosophy but copies of higher
 realities. All the artist can do is to make a copy of a copy, to hold up
@@ -344,7 +344,7 @@ hesitate to call it art at
 all, and it is in these inchoate efforts that we are able to track the
 secret motive springs that move the artist now as then.
 
-Among the Huichol Indians, <span id="fr_3"></span>[1](#fn_3) if the
+Among the Huichol Indians, <span id="fr_3"></span>[1](#fn_3.md) if the
 people fear a drought from the extreme heat of the sun, they take a clay
 disk, and on one side of it they paint the "face" of Father Sun, a
 circular space surrounded by rays of red and blue and yellow which are
@@ -388,7 +388,7 @@ Ritual then involves *imitation*; but does
 
 not arise out of it. It desires to recreate an emotion, not to reproduce
 an object. A rite is, indeed, we shall later see ([p.
-42](aar04.htm#page_42)), a sort of stereotyped action, not really
+42](aar04.htm#page_42).md), a sort of stereotyped action, not really
 practical, but yet not wholly cut loose from practice, a reminiscence or
 an anticipation of actual practical doing; it is fitly, though not quite
 correctly, called by the Greeks a *dromenon*, "a thing done."
@@ -454,17 +454,17 @@ to, we hope, throw light on the relation between ritual and art.
 
 ### Footnotes
 
-<span id="fn_0"></span>[17:1](aar03.htm#fr_0) *Adonis, Allis,
+<span id="fn_0"></span>[17:1](aar03.htm#fr_0.md) *Adonis, Allis,
 Osiris*,<sup>2</sup> p. 324.
 
-<span id="fn_1"></span>[20:1](aar03.htm#fr_1) *Vit. Nik.*, 13.
+<span id="fn_1"></span>[20:1](aar03.htm#fr_1.md) *Vit. Nik.*, 13.
 
-<span id="fn_2"></span>[21:1](aar03.htm#fr_2) *Rep.* X, 596-9.
+<span id="fn_2"></span>[21:1](aar03.htm#fr_2.md) *Rep.* X, 596-9.
 
-<span id="fn_3"></span>[24:1](aar03.htm#fr_3) C. H. Lumholtz, *Symbolism
+<span id="fn_3"></span>[24:1](aar03.htm#fr_3.md) C. H. Lumholtz, *Symbolism
 of the Huichol Indians*, in *Mem. of the Am. Mus. of Nat. Hist.*, Vol.
 III, "Anthropology." (1900.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Primitive Ritual: Pantomimic Dances](aar04)
+[Next: Chapter II. Primitive Ritual: Pantomimic Dances](aar04.md)

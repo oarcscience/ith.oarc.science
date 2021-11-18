@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml32)  [Next](yml34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml32)  [Next](yml34.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ be no end." JV
 
 ------------------------------------------------------------------------
 
-[Next: San Pedro and Cristo](yml34)
+[Next: San Pedro and Cristo](yml34.md)

@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn2) [Next](udn4)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn2) [Next](udn4.md)
 
 ------------------------------------------------------------------------
 
@@ -97,11 +97,11 @@ as if a strong man should outstretch his bent arm or draw back his
 outstretched arm, even thus he vanished from the Jetavana and reappeared
 in the heaven of the "Great Thirty-Three"<span
 id="page_29_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_29_note_1).
+class="small">1</span></sup>](#page_29_note_1.md).
 
    Now at that time some 500 pink-footed<span
 id="page_29_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_29_note_2) celestial nymphs had
+class="small">2</span></sup>](#page_29_note_2.md) celestial nymphs had
 arrived to minister to Sakka the king of the gods.
 
    Then the Blessed One called the venerable Nanda to him and said: "Do
@@ -152,7 +152,7 @@ himself and realizing the higher knowledge, attained, in this very
 existence, to the supreme consummation <span id="page_31">p. 31</span>
 of a holy life. He knew that rebirth<span
 id="page_31_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_31_note_1) was at an end, the
+class="small">1</span></sup>](#page_31_note_1.md) was at an end, the
 religious life had been lived, that which ought to he done had been
 done: "I have finished with this world."
 
@@ -278,7 +278,7 @@ thoughts of those Bhikkhus, called the venerable Ananda to him and said;
 "It seems to me, Ananda, as if this quarter of the earth had become
 illuminated, had become radiant with light, it occurs to me as an
 agreeable idea to go<span id="page_34_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_34_note_1) to where those Bhikkhus
+class="small">1</span></sup>](#page_34_note_1.md) to where those Bhikkhus
 live on the banks of the Vaggumuda. Send, Ananda, a messenger to those
 Bhikkhus on the banks of the Vaggumuda; 'the Master sends for the
 reverend brethren, the Master desires to see the reverend brethren'."
@@ -331,7 +331,7 @@ exchange courtesies with the newly arrived Bhikkhus."
    A second time, the Blessed One remained silent. A third time the
 venerable Ananda, as the last watch of the advancing night was passing,
 and the dawn arising<span id="page_36_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_36_note_1), and the night far spent,
+class="small">1</span></sup>](#page_36_note_1.md), and the night far spent,
 got up from his seat and placing his tunic upon one shoulder only, went
 to where the Blessed One was, and stretching forth his hands, said to
 the Blessed One: "Sire, the night is advancing, the last watch is
@@ -342,7 +342,7 @@ courtesies with the newly arrived Bhikkhus."
    And the Blessed One arising from that state of trance, called the
 venerable Ananda to him and said: "If, Ananda, you know, you should not
 reply<span id="page_36_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_36_note_2) to them: I and all these
+class="small">2</span></sup>](#page_36_note_2.md) to them: I and all these
 500 Bhikkhus have sat in a state of motionless trance."
 
    And the Blessed One, in this connection, on that occasion, breathed
@@ -512,7 +512,7 @@ forenoon, and taking his alms-bowl and tunic, entered Râjagaha for alms.
 the venerable Mahakassapa took upon himself <span id="page_40">p.
 40</span> the form of a weaver and wove. Sujâtâ Asurakanna filled,
 etc.<span id="page_40_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_40_note_1).
+class="small">1</span></sup>](#page_40_note_1.md).
 
    And the venerable Mahakassapa, wandering from house to house in
 search of alms, drew near to the dwelling place of Sakka, King of the
@@ -713,7 +713,7 @@ forth this solemn utterance:--
 
 ------------------------------------------------------------------------
 
-[Next](udn4)
+[Next](udn4.md)
 
 ------------------------------------------------------------------------
 
@@ -721,34 +721,34 @@ forth this solemn utterance:--
 
 <span id="footnotes_page_29">p. 29</span>
 
-<span id="page_29_note_1"></span>[1](#page_29_fr_1) The suite of thirty
+<span id="page_29_note_1"></span>[1](#page_29_fr_1.md) The suite of thirty
 three superior angels of whom the Archangel Sakka is the
 first--(Childers).
 
-<span id="page_29_note_2"></span>[2](#page_29_fr_2) Lit.: Dove-footed
+<span id="page_29_note_2"></span>[2](#page_29_fr_2.md) Lit.: Dove-footed
 i.e. with feet pink as those of doves.
 
 <span id="footnotes_page_31">p. 31</span>
 
-<span id="page_31_note_1"></span>[1](#page_31_fr_1) *Not to be reborn*,
+<span id="page_31_note_1"></span>[1](#page_31_fr_1.md) *Not to be reborn*,
 implies the attainment of that supreme saintship which does not shed
 influences conducive to a clinging to existence.
 
 <span id="footnotes_page_34">p. 34</span>
 
-<span id="page_34_note_1"></span>[1](#page_34_fr_1) Text readings differ
+<span id="page_34_note_1"></span>[1](#page_34_fr_1.md) Text readings differ
 here. 'To go' omitted in one MS.
 
 <span id="footnotes_page_36">p. 36</span>
 
-<span id="page_36_note_1"></span>[1](#page_36_fr_1) Nandi-Mukhiyâ. See
+<span id="page_36_note_1"></span>[1](#page_36_fr_1.md) Nandi-Mukhiyâ. See
 Note 2. p. 211. Sacred Books of the East. Vol. XVII.
 
-<span id="page_36_note_2"></span>[2](#page_36_fr_2) Text obscure.
+<span id="page_36_note_2"></span>[2](#page_36_fr_2.md) Text obscure.
 
 <span id="footnotes_page_40">p. 40</span>
 
-<span id="page_40_note_1"></span>[1](#page_40_fr_1) Text obscure.
+<span id="page_40_note_1"></span>[1](#page_40_fr_1.md) Text obscure.
 
  
 

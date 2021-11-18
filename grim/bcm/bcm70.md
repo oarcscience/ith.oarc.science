@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm69)  [Next](bcm71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm69)  [Next](bcm71.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ This experience is commonly performed in the circle between eleven and
 twelve o'clock, or between three and four.
 
 <span id="img_28600"></span> [![](tn/generic.jpg)  
-Click to view](img/28600.jpg)
+Click to view](img/28600.jpg.md)
 
 \[paragraph continues\] Requisites: coal, and consecrated chalk to
 compose the circle, about which these words must be written: *I forbid
@@ -20,7 +20,7 @@ thee, Lucifer, in the name of the Most Holy Trinity, to enter within
 this circle*. A mouse must be provided to give him; the master must have
 a stole and holy water, an alb also and a surplice. He must recite the
 Conjuration in a lively manner, commanding sharply and shortly, as a
-lord should address his servant, <span id="fr_266"></span>[1](#fn_265)
+lord should address his servant, <span id="fr_266"></span>[1](#fn_265.md)
 with all kinds of menaces: SATAN, RANTAM, PALLANTRE, LUTAIS,
 
 <span id="page_287">p. 287</span>
@@ -46,7 +46,7 @@ comely and human form, in no wise repulsive, that he may answer in real
 truth whatsoever I shall ask him, being also powerless to hurt me, or
 any person whomsoever, either in body or soul*.
 
-For Tuesday, to Frimost <span id="fr_267"></span>[1](#fn_266)
+For Tuesday, to Frimost <span id="fr_267"></span>[1](#fn_266.md)
 
 This experience is performed in its proper circle at night from nine to
 ten o'clock, and the first stone found is given to him. He is to be
@@ -71,7 +71,7 @@ submit to all that I shall command, being Powerless to harm me, or those
 who accompany me, either in body or soul*.
 
 <span id="img_28800"></span> [![](tn/generic.jpg)  
-Click to view](img/28800.jpg)
+Click to view](img/28800.jpg.md)
 
 For Wednesday, to Astaroth
 
@@ -94,7 +94,7 @@ name of the glorious Virgin Mary and of the Most Holy Trinity, in Whose
 honour do all the Archangels, Thrones, Dominations, Powers, Patriarchs,
 
 <span id="img_28900"></span> [![](tn/generic.jpg)  
-Click to view](img/28900.jpg)
+Click to view](img/28900.jpg.md)
 
 Prophets, Apostles and Evangelists sing without end; Hosannah, Hosannah.
 Hosannah, Lord God of Hosts, Who art, Who wast, Who art to come, as a
@@ -115,7 +115,7 @@ must be given him when he is required to depart; he renders man happy
 and also discovers treasures.
 
 <span id="img_29000"></span> [![](tn/generic.jpg)  
-Click to view](img/29000.jpg)
+Click to view](img/29000.jpg.md)
 
 Write about the circle as follows:
 
@@ -140,7 +140,7 @@ For Friday, to Bechard
 This experience is performed at night from eleven to twelve
 
 <span id="img_29100"></span> [![](tn/generic.jpg)  
-Click to view](img/29100.jpg)
+Click to view](img/29100.jpg.md)
 
 o'clock, and a nut must be given to him. Write within the circle:
 *Come*, BECHARD! *Come*, BECHARD! *Come*, BECHARD!
@@ -160,14 +160,14 @@ to come without any delay, to do and perform all my biddings*,
 without any prejudice to my body or soul, without harming my book or
 doing injury to those that accompany me.
 
-For Saturday, to Guland <span id="fr_268"></span>[1](#fn_267)
+For Saturday, to Guland <span id="fr_268"></span>[1](#fn_267.md)
 
 This experience is performed at night from eleven to twelve o'clock, and
 so soon as he appears burnt bread must be given him. Ask him anything
 that you will, and he will obey you
 
 <span id="img_29200"></span> [![](tn/generic.jpg)  
-Click to view](img/29200.jpg)
+Click to view](img/29200.jpg.md)
 
 on the spot. Write in his circle: *Enter not*, GULAND! *Enter not*,
 GULAND! *Enter not*, GULAND!
@@ -191,12 +191,12 @@ wanting which, he whom thou shalt send me, if indeed thou comest not
 thyself, shall in no wise depart, nor until he hath in all things
 fulfilled my desire*.
 
-For Sunday, to Surgat <span id="fr_269"></span>[1](#fn_268)
+For Sunday, to Surgat <span id="fr_269"></span>[1](#fn_268.md)
 
 This experience is performed at night from eleven to one
 
 <span id="img_29300"></span> [![](tn/generic.jpg)  
-Click to view](img/29300.jpg)
+Click to view](img/29300.jpg.md)
 
 o'clock. He will demand a hair of your head, but give him one of a fox,
 and see that he takes it. His office is to discover and transport all
@@ -287,32 +287,32 @@ pledge therefore thine obedience, swearing by the said last dreadful day
 of judgment and by Him Who hath created all things by His word, Whom all
 creatures obey. P. per sedem Baldarey et per gratiam et diligentiam tuam
 habuisti ab eo hanc nalatimanamilam*, as I command thee*. <span
-id="fr_270"></span>[1](#fn_269)
+id="fr_270"></span>[1](#fn_269.md)
 
 <span id="img_29600"></span> [![](tn/generic.jpg)  
-Click to view](img/29600.jpg)  
+Click to view](img/29600.jpg.md)  
 HORUS-RA, WEARING THE SOLAR DISC AND URÆUS.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_265"></span>[286:1](bcm70.htm#fr_266) This is in opposition
+<span id="fn_265"></span>[286:1](bcm70.htm#fr_266.md) This is in opposition
 to the higher counsels of the averse art, which enjoins a certain
 reverence in addressing the lost angels, presumably on account of what
 they were.
 
-<span id="fn_266"></span>[287:1](bcm70.htm#fr_267) Otherwise,
+<span id="fn_266"></span>[287:1](bcm70.htm#fr_267.md) Otherwise,
 *Nambroth*.
 
-<span id="fn_267"></span>[292:1](bcm70.htm#fr_268) Otherwise, *Nabam*.
+<span id="fn_267"></span>[292:1](bcm70.htm#fr_268.md) Otherwise, *Nabam*.
 
-<span id="fn_268"></span>[293:1](bcm70.htm#fr_269) Otherwise, *Aquiel*.
+<span id="fn_268"></span>[293:1](bcm70.htm#fr_269.md) Otherwise, *Aquiel*.
 
-<span id="fn_269"></span>[296:1](bcm70.htm#fr_270) It is impossible to
+<span id="fn_269"></span>[296:1](bcm70.htm#fr_270.md) It is impossible to
 restore the Latin so that it shall possess an intelligible and
 constructive sense.
 
 ------------------------------------------------------------------------
 
-[Next: Section 1: Concerning Works of Hatred and Destruction](bcm71)
+[Next: Section 1: Concerning Works of Hatred and Destruction](bcm71.md)

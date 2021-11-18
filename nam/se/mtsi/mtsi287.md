@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi286)  [Next](mtsi288) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi286)  [Next](mtsi288.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ its tail.
 
 ------------------------------------------------------------------------
 
-[Next: 23. The Wolves and the Fawn](mtsi288)
+[Next: 23. The Wolves and the Fawn](mtsi288.md)

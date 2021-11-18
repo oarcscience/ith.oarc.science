@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim65)  [Next](sim67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim65)  [Next](sim67.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ carried home. The animal was never seen again.
 
 ------------------------------------------------------------------------
 
-[Next: The Deserted Village](sim67)
+[Next: The Deserted Village](sim67.md)

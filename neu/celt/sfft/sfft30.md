@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft29)  [Next](sfft31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft29)  [Next](sfft31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### SIR GODFREY MACCULLOCH. <span id="fr_47"></span>[1](#fn_47)
+### SIR GODFREY MACCULLOCH. <span id="fr_47"></span>[1](#fn_47.md)
 
 THE Scottish Fairies, in like manner, sometimes reside in subterranean
 abodes, in the vicinity of human habitations, or, according to the
@@ -34,7 +34,7 @@ and mounted upon a white palfrey. After mutual salutation, the old man
 gave Sir Godfrey to understand that he resided under his habitation, and
 that he had great reason to complain of the direction of a drain, or
 common sewer, which emptied itself directly into his chamber of
-daïs <span id="fr_48"></span>[2](#fn_48). Sir Godfrey Macculloch was
+daïs <span id="fr_48"></span>[2](#fn_48.md). Sir Godfrey Macculloch was
 
 <span id="page_113">p. 113</span>
 
@@ -55,11 +55,11 @@ was ever again seen.
 
 ### Footnotes
 
-<span id="fn_47"></span>[112:1](sfft30.htm#fr_47) Sir Walter Scott,
+<span id="fn_47"></span>[112:1](sfft30.htm#fr_47.md) Sir Walter Scott,
 *Minstrelsy of the Scottish Border*.
 
-<span id="fn_48"></span>[112:2](sfft30.htm#fr_48) Or, best room.
+<span id="fn_48"></span>[112:2](sfft30.htm#fr_48.md) Or, best room.
 
 ------------------------------------------------------------------------
 
-[Next: The Laird O' Co'](sfft31)
+[Next: The Laird O' Co'](sfft31.md)

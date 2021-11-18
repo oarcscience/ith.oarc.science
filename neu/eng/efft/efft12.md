@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft11)  [Next](efft13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft11)  [Next](efft13.md) 
 
 ------------------------------------------------------------------------
 
-# THE FAUSE FABLE OF THE LORD LATHOM.  <span id="fr_13"></span>[1](#fn_13)
+# THE FAUSE FABLE OF THE LORD LATHOM.  <span id="fr_13"></span>[1](#fn_13.md)
 
 ### A FAYNED TALE.
 
@@ -74,10 +74,10 @@ the child in their arms.
 
 ### Footnotes
 
-<span id="fn_13"></span>[1](efft12.htm#fr_13) *Journal of the British
+<span id="fn_13"></span>[1](efft12.htm#fr_13.md) *Journal of the British
 Archaeological Association*, vol vii., from Hare's MSS., vol. ii;
 reprinted in Harland and Wilkinson's *Lancashire Legends*, p. 259.
 
 ------------------------------------------------------------------------
 
-[Next: Whittington and his Cat](efft13)
+[Next: Whittington and his Cat](efft13.md)

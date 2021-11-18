@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp07)  [Next](potp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp07)  [Next](potp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ only when passing up from there.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Mysteries of the Polar Regions](potp09)
+[Next: Chapter V. Mysteries of the Polar Regions](potp09.md)

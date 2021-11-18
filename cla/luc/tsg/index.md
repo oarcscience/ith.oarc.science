@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tsg00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tsg.txt.gz)
+[Contents](#contents)    [Start Reading](tsg00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tsg.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,13 +43,13 @@ at one time a paramount Goddess was worshipped in regions of the Ancient
 Near East, it goes into details of the practices of her devotees which
 later generations considered reprehensible. Nonetheless De Dea played an
 important role in the development of modern
-[Neopaganism](../../../pag/index); Robert Graves cited it as one of the
+[Neopaganism](../../../pag/index.md); Robert Graves cited it as one of the
 few actual accounts of ancient Goddess-worship.
 
 Lucian recounts his personal observations of the worship of the Goddess
 Atargatis (a form of Isthar or Astarte) at the temple of Hierapolis, in
 what is today Turkey. Lucian writes in the style of
-[Herodotus](../../hh/index), and, remarkably, in Herodotus' dialect of
+[Herodotus](../../hh/index.md), and, remarkably, in Herodotus' dialect of
 Greek, which at that time was over five hundred years old. Lucian
 describes huge phalliform idols, cross-dressing priests who castrated
 themselves, ritual prostitution of female worshippers, and occasional
@@ -59,11 +59,11 @@ Strong and Garstang claim that this was largely a historically valid
 description, supported by other ancient writers, texts, and archaeology.
 Among other passages of interest, there is a variant account of the
 Greek flood myth of Deucalion which is here blended with pre-biblical
-[Ancient Near Eastern](../../../ane/index) deluge accounts.
+[Ancient Near Eastern](../../../ane/index.md) deluge accounts.
 
 Victorian and early 20th century scholars found this text difficult to
 process. It is conspicuously absent from the expurgated [Fowler and
-Fowler translation of Lucian's Works](../fowl/index) of 1905. While A.M.
+Fowler translation of Lucian's Works](../fowl/index.md) of 1905. While A.M.
 Harmon included De Dea in volume four of the Loeb Classics Library
 Lucian in 1925, he rendered it in middle English! Harmon's rationale was
 that Lucian wrote De Dea in an archaic dialect of Greek, so this was an
@@ -79,7 +79,7 @@ apparatus, which gives the appearance of a scholarly distancing tactic.
 This tendency has continued into the 21st century: a recent academic
 edition ran to 600 pages--all for a text about the length of a short
 magazine article. ([Lucian, On the Syrian
-Goddess](https://www.amazon.com/exec/obidos/ASIN/019925138X/internetsacredte),
+Goddess](https://www.amazon.com/exec/obidos/ASIN/019925138X/internetsacredte.md),
 J.L. Lightfoot, Oxford University Press \[2003\])
 
 Lucian's authorship of De Dea has been questioned. One issue is the
@@ -95,15 +95,15 @@ piece.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](tsg00)  
-[Editor's Preface](tsg01)  
-[Summary of Contents](tsg02)  
-[List of Illustrations](tsg03)  
-[Introduction](tsg04)  
-[Life Of Lucian](tsg05)  
-[Analysis of the Subject-Matter](tsg06)  
-[Translation and Notes](tsg07)  
-[Appendix](tsg08)  
-[Bibliography](tsg09)  
-[Index](tsg10)  
-[Advertisement: The Land of the Hittites](tsg11)  
+<span id="contents"></span> [Title Page and Front Matter](tsg00.md)  
+[Editor's Preface](tsg01.md)  
+[Summary of Contents](tsg02.md)  
+[List of Illustrations](tsg03.md)  
+[Introduction](tsg04.md)  
+[Life Of Lucian](tsg05.md)  
+[Analysis of the Subject-Matter](tsg06.md)  
+[Translation and Notes](tsg07.md)  
+[Appendix](tsg08.md)  
+[Bibliography](tsg09.md)  
+[Index](tsg10.md)  
+[Advertisement: The Land of the Hittites](tsg11.md)  

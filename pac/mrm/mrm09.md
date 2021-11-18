@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](mrm08)  [Next](mrm10) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](mrm08)  [Next](mrm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -540,4 +540,4 @@ into a long and expensive war to avenge his own private quarrel.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix.](mrm10)
+[Next: Appendix.](mrm10.md)

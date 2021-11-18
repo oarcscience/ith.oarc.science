@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao32)   
-[Previous](tao31)  [Next](tao33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao32.md)   
+[Previous](tao31)  [Next](tao33.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ little streams of the valleys.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 33](tao33)
+[Next: Chapter 33](tao33.md)

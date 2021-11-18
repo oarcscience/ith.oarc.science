@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tgr19)  [Next](tgr21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tgr19)  [Next](tgr21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Think and Grow Rich*, by Napoleon Hill \[1938\], at Intangible Textual
 Heritage
 
@@ -825,7 +825,7 @@ The general symptoms of this fear are:
 OLD MAN WORRY
 
 Worry is a state of mind based upon fear. It works slowly, but
-persistently. It is [insidious](errata.htm#3) and subtle. Step by step
+persistently. It is [insidious](errata.htm#3.md) and subtle. Step by step
 it "digs itself in" until it paralyzes one's reasoning faculty, destroys
 self-confidence and initiative. Worry is a form of sustained fear caused
 by indecision therefore it is a state of mind which can be controlled.
@@ -1517,4 +1517,4 @@ THE END
 
 ------------------------------------------------------------------------
 
-[Next: This Standing Army...](tgr21)
+[Next: This Standing Army...](tgr21.md)

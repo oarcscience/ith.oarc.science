@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb09)  [Next](lrb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb09)  [Next](lrb11.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 "THE legend," says Gomme, in a passage most memorable for students of
 folk-lore as containing his acute and precise definition of the several
 classes of tradition, "belongs to an historical personage, locality, or
-event," <span id="fr_39"></span>[1](#fn_39) and it is in this general
+event," <span id="fr_39"></span>[1](#fn_39.md) and it is in this general
 sense that the term is employed in regard to the contents of this
 chapter, unless where mythic or folklore matter is introduced for the
 sake of analogy or illustration. There is, however, a broad, popular
@@ -190,7 +190,7 @@ on from day to day with
 
 [![THE DEVIL IN THE FORM OF A LEOPARD APPEARS BEFORE THE
 ALCHEMIST](tn/17800.jpg)  
-Click to enlarge](img/17800.jpg)  
+Click to enlarge](img/17800.jpg.md)  
 THE DEVIL IN THE FORM OF A LEOPARD APPEARS BEFORE THE ALCHEMIST  
 
  
@@ -236,7 +236,7 @@ dungeons unassoiled . . . may at similar times be seen flitting backward
 and forward, in numerous groups, across the space enclosed by the ruined
 wall, with more than mortal speed, or glancing hurriedly from window to
 window of the fabric, as still seeking to escape from its hateful
-confinement." <span id="fr_40"></span>[1](#fn_40)
+confinement." <span id="fr_40"></span>[1](#fn_40.md)
 
 ### Comorre the Cursed
 
@@ -386,7 +386,7 @@ romantic and imaginative effort of Breton popular legend. Who has not
 heard of the submerged bells of Ys, and who has not heard them ring in
 the echoes of his own imagination?
 
-This picturesque legend <span id="fr_41"></span>[1](#fn_41) tells us
+This picturesque legend <span id="fr_41"></span>[1](#fn_41.md) tells us
 that in the early days
 
 <span id="page_185">p. 185</span>
@@ -456,7 +456,7 @@ hair in the midday sun
 
 [![THE ESCAPE OF KING GRADLON FROM THE FLOODED CITY OF
 YS](tn/18600.jpg)  
-Click to enlarge](img/18600.jpg)  
+Click to enlarge](img/18600.jpg.md)  
 THE ESCAPE OF KING GRADLON FROM THE FLOODED CITY OF YS  
 
  
@@ -548,7 +548,7 @@ Gradlon was a Breton Bacchus? There are notices of Celtic goddesses in
 whose honour Bacchic rites were held, and the place of these was
 sometimes taken by a corn god. Later the festival in its memorial aspect
 appears to have been associated with different kings <span
-id="fr_42"></span>[1](#fn_42) in the various parts of the Celtic world,
+id="fr_42"></span>[1](#fn_42.md) in the various parts of the Celtic world,
 and it seems likely that Gradlon was such a monarch who had taken the
 place of a vanished deity. It must be left to Celtic scholars to
 determine whether the name Gradlon possesses any deific significance
@@ -564,7 +564,7 @@ Rohan, married in the year 1236 Matthew,
 \[paragraph continues\] Seigneur of Beauvau, son of René, Constable of
 Naples. Breton popular poetry has in many ballads recounted the
 adventures of Jeanne and her husband, one of which is as follows <span
-id="fr_43"></span>[1](#fn_43):
+id="fr_43"></span>[1](#fn_43.md):
 
 At the age of thirteen Jeanne consented to be married, but she desired
 that she herself should be allowed to choose her husband. Accordingly
@@ -799,7 +799,7 @@ at once brought into the country on the demise of her husband) and the
 <span id="img_19600"></span>
 
 [![A PEASANT INSURRECTION](tn/19600.jpg)  
-Click to enlarge](img/19600.jpg)  
+Click to enlarge](img/19600.jpg.md)  
 A PEASANT INSURRECTION  
 
  
@@ -881,7 +881,7 @@ pious mother, who, whenever he sallied forth upon adventure bent, rang
 the bell of the château, to give the alarm to the surrounding peasantry.
 The ballad which tells of the infamous deeds of this titled ruffian, and
 which was composed by one Tugdual Salaün, a peasant of Plouber, <span
-id="fr_44"></span>[1](#fn_44) opens upon a scene of touching domestic
+id="fr_44"></span>[1](#fn_44.md) opens upon a scene of touching domestic
 happiness. The Clerk of Garlon was on a visit to the family of his
 betrothed.
 
@@ -1263,29 +1263,29 @@ fascination.
 
 ### Footnotes
 
-<span id="fn_39"></span>[173:1](lrb10.htm#fr_39) *Folk-lore as an
+<span id="fn_39"></span>[173:1](lrb10.htm#fr_39.md) *Folk-lore as an
 Historical Science*, p. 129.
 
-<span id="fn_40"></span>[180:1](lrb10.htm#fr_40) *Western: France*, vol.
+<span id="fn_40"></span>[180:1](lrb10.htm#fr_40.md) *Western: France*, vol.
 ii.
 
-<span id="fn_41"></span>[184:1](lrb10.htm#fr_41) See Le Braz, *La
+<span id="fn_41"></span>[184:1](lrb10.htm#fr_41.md) See Le Braz, *La
 Légende de la Mort*, t. i, p. 39, t. ii, pp. 37 ff.; Albert Le Grand,
 *Vies des Saints de la Bretagne*, p. 63; Villemarqué, *Chants
 populaires*, pp. 38 ff.
 
-<span id="fn_42"></span>[189:1](lrb10.htm#fr_42) MacCulloch, *op. cit.*,
+<span id="fn_42"></span>[189:1](lrb10.htm#fr_42.md) MacCulloch, *op. cit.*,
 p. 274.
 
-<span id="fn_43"></span>[190:1](lrb10.htm#fr_43) Villemarqué avouches
+<span id="fn_43"></span>[190:1](lrb10.htm#fr_43.md) Villemarqué avouches
 that this version was taken down by his mother from the lips of an old
 peasant woman of the parish of Névez. It bears the stamp of ballad
 poetry, and as it has parallels in the folk-verse of other countries I
 see no reason to question its genuineness.
 
-<span id="fn_44"></span>[199:1](lrb10.htm#fr_44) See "Maro Markiz
+<span id="fn_44"></span>[199:1](lrb10.htm#fr_44.md) See "Maro Markiz
 Gwerrand," in the *Bulletin de la Société Académique de Brest*, 1865.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Hero-Tales of Brittany](lrb11)
+[Next: Chapter VIII: Hero-Tales of Brittany](lrb11.md)

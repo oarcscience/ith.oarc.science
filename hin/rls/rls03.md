@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls02)  [Next](rls04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls02)  [Next](rls04.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ and does not love anything.'
 
 ------------------------------------------------------------------------
 
-[Next: The Four Stages of Life](rls04)
+[Next: The Four Stages of Life](rls04.md)

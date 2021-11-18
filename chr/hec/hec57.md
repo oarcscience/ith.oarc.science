@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec56)  [Next](hec58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec56)  [Next](hec58.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -26,7 +26,7 @@ Constantinople. Sent as legate from Pope Paschal to Michael the
 Stammerer, he was imprisoned by that prince in a close cell, and there
 passed nine years, on account of his resolute defence of Icons. Having
 been scourged for the same cause, by the Emperor Theophilus, he made his
-[escape](errata.htm#2) from prison; and when peace was restored to the
+[escape](errata.htm#2.md) from prison; and when peace was restored to the
 Church was raised to the throne of Constantinople. His first care was to
 assemble a Synod for the restoration of Icons; and it is, properly
 speaking, that Synod
@@ -73,4 +73,4 @@ That sweet hope, I cannot perish!
 
 ------------------------------------------------------------------------
 
-[Next: S. Joseph of the Studium](hec58)
+[Next: S. Joseph of the Studium](hec58.md)

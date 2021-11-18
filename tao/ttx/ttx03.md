@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx02) [Next](ttx04)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx02) [Next](ttx04.md)
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ grasping that, that the limit can be reached.
 flourish.*
 
    There is no benefit intended towards man when the Five Atmospheric
-Influences<span id="page_50_fr_*"></span>[\*](#page_50_note_*) are set
+Influences<span id="page_50_fr_*"></span>[\*](#page_50_note_*.md) are set
 in motion; how, then, can there be any intentional injury to things?
 Observing the nourishing and beneficial results of these Influences, men
 call it virtue; observing the injury and ruin they cause, men call it
@@ -82,7 +82,7 @@ Afflatus of the East is antagonistic to the Centre; the Afflatus of the
 Centre is antagonistic to the North; the Afflatus of the North is
 antagonistic to the South; the Afflatus of the South is antagonistic to
 the West; the Afflatus of the West is antagonistic to the East.<span
-id="page_50_fr_dagger"></span>[†](#page_50_note_dagger) When these Five
+id="page_50_fr_dagger"></span>[†](#page_50_note_dagger.md) When these Five
 Afflati promote the growth of one another, they move freely; but the
 very ease with which they flow leads to their exhaustion. When they act
 in antagonism to each other, their motion is arrested; but if such
@@ -118,20 +118,20 @@ incompatible with them, they cannot be said to constitute the true mind
 belonging to that body; and \[the man himself\], being thus placed in a
 position unconsonant with Heaven, cannot be regarded as constituting
 Heaven's true Nature.<span
-id="page_51_fr_*"></span>[\*](#page_51_note_*) The Principle of Heaven
+id="page_51_fr_*"></span>[\*](#page_51_note_*.md) The Principle of Heaven
 being established, the destiny of man is fixed.
 
    *When Heaven sends forth its engines of destruction, the stars are
 moved out of their places and the constellations metamorphosed. When
 Earth sends forth its engines of destruction, dragons and snakes appear
 on the dry land.*<span
-id="page_51_fr_dagger"></span>[†](#page_51_note_dagger) *When Man puts
+id="page_51_fr_dagger"></span>[†](#page_51_note_dagger.md) *When Man puts
 forth his faculties of destruction, Heaven falls and Earth is
 overthrown. When Heaven and Man do so in concert, all the disorganised
 phenomena are re-established on a new basis.*
 
    The stars and constellations are the countenance of Heaven. In like
-manner,<span id="page_51_fr_ddagger"></span>[‡](#page_51_note_ddagger)
+manner,<span id="page_51_fr_ddagger"></span>[‡](#page_51_note_ddagger.md)
 when a man is angry, his countenance will surely change. Dragons and
 serpents are the breath and blood \[the hidden agencies\] of earth. In
 like manner, when a man is sick, his breath and blood will surge up, or
@@ -146,7 +146,7 @@ completion. If any one such affair be uncompleted, even the Sage will be
 unable to undertake its achievement; but when it is perfected—*q.d.*, in
 such a forward state as to be prepared for the co-operation or
 assistance of Heaven—the response of Heaven will come, as in former
-cases.<span id="page_52_fr_*"></span>[\*](#page_52_note_*) This may be
+cases.<span id="page_52_fr_*"></span>[\*](#page_52_note_*.md) This may be
 compared to the capture of Wu by the Prince of Yueh.
 
    *The Five Despoilers pertain to the Heart; but their operation is
@@ -157,7 +157,7 @@ transmutations take their rise from the body.*
 acting as thieves, they are perceived, their depredations are put an end
 to. The antagonism which exists between Water and Fire is turned to
 advantage when brought into contact with matter, and eventual welfare is
-the result.<span id="page_52_fr_dagger"></span>[†](#page_52_note_dagger)
+the result.<span id="page_52_fr_dagger"></span>[†](#page_52_note_dagger.md)
 The Five Despoilers of Heaven are identical with the Five Despoilers of
 men. These Five Despoilers residing in the human heart, their agency is
 diffused far and wide; but is Heaven within the range of my—*i.e.*, any
@@ -183,7 +183,7 @@ characterised by pretended stupidity, the real sagacity of the man will
 have free scope for action. This amounts to a mutual concealment, by the
 two qualities, of each other. Therefore genuineness consists in
 homogeneity, while duplicity is the result of dualism. These two are the
-outcome<span id="page_52_fr_ddagger"></span>[‡](#page_52_note_ddagger)
+outcome<span id="page_52_fr_ddagger"></span>[‡](#page_52_note_ddagger.md)
 of the principles of Truth and Falsehood respectively; they may
 therefore be put into practice *ad infinitum*.
 
@@ -248,7 +248,7 @@ conferred; for which reason Heaven and Earth are the plunderers of All
 Things. Man is supported or nurtured by All Things, and yet incurs
 actual danger from them; for which reason All Things are the plunderers
 of Man. Man makes All Things,<span
-id="page_54_fr_*"></span>[\*](#page_54_note_*) and then lays them under
+id="page_54_fr_*"></span>[\*](#page_54_note_*.md) and then lays them under
 contribution for his food and clothing; and thus he is the plunderer of
 All Things. These plunderers are such by reason of their ignorance that
 what they do is plunder. If each one sees only the life-giving process,
@@ -263,7 +263,7 @@ on undisturbed.*
 
    When men lay violent hands on matter, the most honourable use they
 make of so doing is in offering food in sacrifice;<span
-id="page_54_fr_dagger"></span>[†](#page_54_note_dagger) when Heaven and
+id="page_54_fr_dagger"></span>[†](#page_54_note_dagger.md) when Heaven and
 Earth act as the plunderers of All Things, the most honourable use they
 make of so doing is in influencing and rectifying their springs of
 action. When the Three Plunderers are all prevented from overstepping
@@ -278,7 +278,7 @@ the Sage fixes a certain period \[for the ceremony\]. Bodies have their
 respective measures, or capacities; in pursuance of which the Sage
 establishes a regular standard, assigning the different degrees in which
 things may be used in the morning and evening respectively,<span
-id="page_54_fr_ddagger"></span>[‡](#page_54_note_ddagger) and regulating
+id="page_54_fr_ddagger"></span>[‡](#page_54_note_ddagger.md) and regulating
 the respective capacities of the breath and blood. When, in the world,
 the recurring intervals of sacrifices are estimated with precision, and
 things are employed with a due regard to their compatibility to the
@@ -309,7 +309,7 @@ removed from them.
 
    *The blind are quick of hearing; the deaf are quick of sight. If all
 advantages be concentrated into a single source,*<span
-id="page_55_fr_*"></span>[\*](#page_55_note_*) *you will have ten times
+id="page_55_fr_*"></span>[\*](#page_55_note_*.md) *you will have ten times
 as many soldiers under your command as you would otherwise; and after
 the revolution of three days and nights you will have ten thousand times
 as many.*
@@ -324,7 +324,7 @@ of vision. How do we know that this participation takes place? Thus—that
 the blind are quick of hearing, and the deaf quick of sight; that is how
 we know it. If, of these two things, one be discarded, the remaining one
 will obtain just so much the more power;<span
-id="page_55_fr_dagger"></span>[†](#page_55_note_dagger) and thus we may
+id="page_55_fr_dagger"></span>[†](#page_55_note_dagger.md) and thus we may
 know that, if anything be divided between two, both will have but
 little. Thus if one particular advantage be made exclusive use of, and
 gathered into a single source, the force at your command will be
@@ -337,13 +337,13 @@ perceptive faculties or in that of soldiery.
 
    *The Mind is produced from matter and dies with matter; the working
 faculty resides in the Eye.*<span
-id="page_56_fr_*"></span>[\*](#page_56_note_*)
+id="page_56_fr_*"></span>[\*](#page_56_note_*.md)
 
    Man has no Mind \[as existing apart from his body\]; his Eye is his
 mind. What the eye sees, the mind acquires; what the eye cannot see the
 mind does not obtain. What the eye sees is matter; what the mind knows
 is simply whatever object is seen with the eye.<span
-id="page_56_fr_dagger"></span>[†](#page_56_note_dagger) How, then, can
+id="page_56_fr_dagger"></span>[†](#page_56_note_dagger.md) How, then, can
 those who are born blind acquire knowledge? They acquire knowledge by
 depending on the eyes of others.
 
@@ -374,7 +374,7 @@ differently; which seems partial in the extreme. But these differences
 are equalized, or harmonised, by virtue of their very
 differentiation,—or, harmony is evolved from these very inequalities;
 and thus their treatment on the part of Heaven is, in reality, most
-just.<span id="page_56_fr_ddagger"></span>[‡](#page_56_note_ddagger)
+just.<span id="page_56_fr_ddagger"></span>[‡](#page_56_note_ddagger.md)
 
    It is on account of this apparent partiality that things attain
 perfection; for although they are treated unequally, such treatment is
@@ -388,7 +388,7 @@ refining \[of the power thus cultivated\]. Now all beings have their own
 special vitality, which is exercised by this refined or subtle faculty;
 thus individuality becomes lost,—\[*i.e.*, the body is as though it were
 not, being reduced to a mere passive instrument\].<span
-id="page_57_fr_*"></span>[\*](#page_57_note_*) Individuality cannot be a
+id="page_57_fr_*"></span>[\*](#page_57_note_*.md) Individuality cannot be a
 factor in the equitable; what a man loses himself, another cannot make
 up to him. Great as is the Earth, there are yet men everywhere;
 wherefore the rain and dew descend, and overspread it. Earth gives birth
@@ -406,7 +406,7 @@ external to itself; in its exercise—or dealing with such things—it is
 sparing of its most subtle agencies and parsimonious of its vitalizing
 influences; it is only its superfluities that it dispenses abroad. It is
 for this reason that it is able to act without limit.<span
-id="page_57_fr_dagger"></span>[†](#page_57_note_dagger) The partiality
+id="page_57_fr_dagger"></span>[†](#page_57_note_dagger.md) The partiality
 of Heaven is far greater than that of the Earth, but its equity is also
 far greater than the equity of the Earth; for if Heaven were not
 avaricious of its own, its resources would in time be exhausted, and how
@@ -418,7 +418,7 @@ partiality proves to be the height of justice.
 Vital Fluid.*
 
    All things in the world confer vitality<span
-id="page_57_fr_ddagger"></span>[‡](#page_57_note_ddagger) upon each
+id="page_57_fr_ddagger"></span>[‡](#page_57_note_ddagger.md) upon each
 other; and when the use made of the material form \[thus produced\] is
 great, the injury is small. When all things use their refined and subtle
 essence in competing <span id="page_58">p. 58</span> with each other,
@@ -473,11 +473,11 @@ they will come to an untimely end.
 <span id="page_59">p. 59</span>
 
    *The Principle of Spontaneity*<span
-id="page_59_fr_*"></span>[\*](#page_59_note_*) *is quiescent; and from
+id="page_59_fr_*"></span>[\*](#page_59_note_*.md) *is quiescent; and from
 it Heaven, Earth, and All Things are produced.*
 
    Spontaneity acts, yet acts not;<span
-id="page_59_fr_dagger"></span>[†](#page_59_note_dagger) its force, or
+id="page_59_fr_dagger"></span>[†](#page_59_note_dagger.md) its force, or
 influence, is silent. If we observe the growth of vegetation, we see
 that the process takes place secretly in the dead of night; when we rise
 next day we find suddenly that there is augmentation. By this it may be
@@ -517,7 +517,7 @@ the motive principles of Heaven.
 gradualness be brought into play, the opposition between the two will be
 forgotten. The Yang is entered from the Yin, and the Yin from the Yang;
 for both are the same fundamentally.<span
-id="page_59_fr_ddagger"></span>[‡](#page_59_note_ddagger) And how is
+id="page_59_fr_ddagger"></span>[‡](#page_59_note_ddagger.md) And how is
 this? It results from that Circularity to which Heaven conforms its
 external shape. Heaven is circular; circularity is the condition of its
 stability; and all <span id="page_60">p. 60</span> things thus revolving
@@ -532,7 +532,7 @@ universal order\]?
    *Seeing that the Principle of Quiescence cannot be brought under the
 control of calendrical computations, it needs be that there is a
 mysterious Receptacle* \[*in Nature*\]*;*<span
-id="page_60_fr_*"></span>[\*](#page_60_note_*) *and from this have
+id="page_60_fr_*"></span>[\*](#page_60_note_*.md) *and from this have
 sprung the Myriad Simulacra, the Eight Diagrams, the Sexagenary Cycle,
 the potent faculties of Spirits, and the invisibility of Demons. The
 mystery of the antagonism between the Yin and the Yang is clearly
@@ -546,9 +546,9 @@ and this active phase being placed on record, the quiescent element
 becomes more absolutely hidden than ever. Wherefore quiescence is the
 mysterious Receptacle of Heaven; quiescence produces transmutation and
 change, and it is through this that Vital Force and Destiny exist.<span
-id="page_60_fr_dagger"></span>[†](#page_60_note_dagger) Destiny takes
+id="page_60_fr_dagger"></span>[†](#page_60_note_dagger.md) Destiny takes
 its rise from the two constellations Emptiness and Danger;<span
-id="page_60_fr_ddagger"></span>[‡](#page_60_note_ddagger) and from it
+id="page_60_fr_ddagger"></span>[‡](#page_60_note_ddagger.md) and from it
 proceeds the Sexagenary Cycle. Days, months, years, and hours are all
 dated from the first stem of the Cycle, and the first of each is named
 Chia Tsze accordingly. The Chia Tsze being once established, the full
@@ -604,7 +604,7 @@ deceptive and far-fetched? The myriad changes and transformations which
 take place in the world are all included under one law; wherefore the
 *Yî Ching* deals with all existing simulacra as they are pourtrayed in
 the *Ho-t‘u* and the *Lo-shu*.<span
-id="page_61_fr_*"></span>[\*](#page_61_note_*) If a small portion \[of
+id="page_61_fr_*"></span>[\*](#page_61_note_*.md) If a small portion \[of
 this principle\] be applied, or brought into coincidence, with created
 things, it is not that this will environ or comprehend them all equally;
 it is that <span id="page_62">p. 62</span> all things are really one
@@ -635,7 +635,7 @@ Unseen.'
 
 ------------------------------------------------------------------------
 
-[Next](ttx04)
+[Next](ttx04.md)
 
 ------------------------------------------------------------------------
 
@@ -643,15 +643,15 @@ Unseen.'
 
 <span id="footnotes_page_50">p. 50</span>
 
-<span id="page_50_note_*"></span>[\*](#page_50_fr_*) Rain—which is the
+<span id="page_50_note_*"></span>[\*](#page_50_fr_*.md) Rain—which is the
 influence of the element *Wood*: Fine Weather—the influence of the
 element *Metal*: Heat—the influence of the element *Fire*: Cold—the
 influence of the element *Water*: and Wind—the influence of the element
 Earth.
 
-<span id="page_50_note_dagger"></span>[†](#page_50_fr_dagger) The Five
+<span id="page_50_note_dagger"></span>[†](#page_50_fr_dagger.md) The Five
 Breaths or Afflati represent, in the order in which they stand, the Five
-so-called Elements of Nature—see above, [Note.\*](#page_50_note_*) Thus
+so-called Elements of Nature—see above, [Note.\*](#page_50_note_*.md) Thus
 Earth, or that which is in the Centre, may be injured by Wood.—*q.d.*,
 implements of husbandry; Water by Earth—the solid and fluid being
 mutually opposed; Fire by Water—the latter extinguishing the former;
@@ -660,15 +660,15 @@ spoiled by Metal.
 
 <span id="footnotes_page_51">p. 51</span>
 
-<span id="page_51_note_*"></span>[\*](#page_51_fr_*) Referring to the
+<span id="page_51_note_*"></span>[\*](#page_51_fr_*.md) Referring to the
 theory put forward in the italicised text, that Man is the Moral Nature
 of Heaven. I think I may claim to have translated this most enigmatical
 passage correctly. The Chinese runs as follows: \#\#\#.
 
-<span id="page_51_note_dagger"></span>[†](#page_51_fr_dagger) Invisible
+<span id="page_51_note_dagger"></span>[†](#page_51_fr_dagger.md) Invisible
 agents become supernaturally visible.
 
-<span id="page_51_note_ddagger"></span>[‡](#page_51_fr_ddagger) That is,
+<span id="page_51_note_ddagger"></span>[‡](#page_51_fr_ddagger.md) That is,
 the stars and constellations, which are the countenance of Heaven, are
 all disturbed and thrown into confusion when Heaven is angry; just as
 the face of a man becomes distorted when the man is in a rage. Each of
@@ -676,50 +676,50 @@ these short sections is simply an amplification of its heading.
 
 <span id="footnotes_page_52">p. 52</span>
 
-<span id="page_52_note_*"></span>[\*](#page_52_fr_*) According to the
+<span id="page_52_note_*"></span>[\*](#page_52_fr_*.md) According to the
 English proverb that Heaven only helps those who help themselves.
 
-<span id="page_52_note_dagger"></span>[†](#page_52_fr_dagger) For
+<span id="page_52_note_dagger"></span>[†](#page_52_fr_dagger.md) For
 instance, the antagonism of water to fire is of great use to matter in
 the case of a conflagration; and matter thus reaps the benefit.
 
-<span id="page_52_note_ddagger"></span>[‡](#page_52_fr_ddagger) The idea
+<span id="page_52_note_ddagger"></span>[‡](#page_52_fr_ddagger.md) The idea
 evidently is that \#\#\# and \#\#\# are the \#\#\# of which \#\#\# and
 \#\#\# are respectively the \#\#\#.
 
 <span id="footnotes_page_54">p. 54</span>
 
-<span id="page_54_note_*"></span>[\*](#page_54_fr_*) Possibly referring
+<span id="page_54_note_*"></span>[\*](#page_54_fr_*.md) Possibly referring
 to the Holy or Ideal Man, who is said in some mystic sense to be the
 creator of the world. Or it may mean that many things owe their
 existence to the energies of man, as vegetable productions, which are
 sown and reared by human Instrumentality.
 
-<span id="page_54_note_dagger"></span>[†](#page_54_fr_dagger) The
+<span id="page_54_note_dagger"></span>[†](#page_54_fr_dagger.md) The
 Chinese idiom is here puzzling in the extreme: \#\#\#.
 
-<span id="page_54_note_ddagger"></span>[‡](#page_54_fr_ddagger) Here
+<span id="page_54_note_ddagger"></span>[‡](#page_54_fr_ddagger.md) Here
 again the text is most difficult to make anything of. It runs \#\#\#.
 
 <span id="footnotes_page_55">p. 55</span>
 
-<span id="page_55_note_*"></span>[\*](#page_55_fr_*) This is the
+<span id="page_55_note_*"></span>[\*](#page_55_fr_*.md) This is the
 translation of a very obscure idiom in the original: \#\#\#. It occurs
 in the \#\#\# of Huang T‘ing-chien, where it is followed by the phrase
 \#\#\#.
 
-<span id="page_55_note_dagger"></span>[†](#page_55_fr_dagger) This
+<span id="page_55_note_dagger"></span>[†](#page_55_fr_dagger.md) This
 reminds us of a scene in the *Malade Imaginaire*, where Toinette
 recommends Argan to poke out one of his eyes in order that he may see
 better with the other.
 
 <span id="footnotes_page_56">p. 56</span>
 
-<span id="page_56_note_*"></span>[\*](#page_56_fr_*) This short section
+<span id="page_56_note_*"></span>[\*](#page_56_fr_*.md) This short section
 is peculiarly interesting as embodying a bold denial of any future life
 or the existence of spirit apart from matter.
 
-<span id="page_56_note_dagger"></span>[†](#page_56_fr_dagger) All
+<span id="page_56_note_dagger"></span>[†](#page_56_fr_dagger.md) All
 knowledge is objective; the mind has no subjective existence or
 perceptions. It is as it were, created by the object perceived, just as
 colour is produced by the rays of light which are thrown back from the
@@ -731,7 +731,7 @@ affirmed that a road has no actual objective existence; it is the *act
 of walking* which produces the road, and if no one walked the road would
 not exist.
 
-<span id="page_56_note_ddagger"></span>[‡](#page_56_fr_ddagger) In other
+<span id="page_56_note_ddagger"></span>[‡](#page_56_fr_ddagger.md) In other
 words, a law of compensation runs through the whole economy of Nature;
 the rigour of northern climates being accompanied by a plentiful supply
 of fur for the protection of the inhabitants—and so on. See the first
@@ -739,44 +739,44 @@ chapter of Huai-nan Tsze, where this idea is gone into at some length.
 
 <span id="footnotes_page_57">p. 57</span>
 
-<span id="page_57_note_*"></span>[\*](#page_57_fr_*) This passage runs
+<span id="page_57_note_*"></span>[\*](#page_57_fr_*.md) This passage runs
 as follows: \#\#\#. It seems capable of another and less abstract
 rendering, in which would be synonymous with \#\#\#; but although I do
 not claim more than an approximation to accuracy for the translation
 given above, I hesitate to adopt the physiological interpretation, as
 irrelevant to the context.
 
-<span id="page_57_note_dagger"></span>[†](#page_57_fr_dagger) Its
+<span id="page_57_note_dagger"></span>[†](#page_57_fr_dagger.md) Its
 resources are never exhausted because always carefully husbanded;
 therefore the apparent parsimony of Heaven is really just and wise.
 
-<span id="page_57_note_ddagger"></span>[‡](#page_57_fr_ddagger)
+<span id="page_57_note_ddagger"></span>[‡](#page_57_fr_ddagger.md)
 Literally, the *coarse*; that is, the \#\#\#, in opposition to the
 \#\#\# or subtle essence.
 
 <span id="footnotes_page_59">p. 59</span>
 
-<span id="page_59_note_*"></span>[\*](#page_59_fr_*) Including both
+<span id="page_59_note_*"></span>[\*](#page_59_fr_*.md) Including both
 self-existence and spontaneous or natural action. The phrase in the
 original is \#\#\#.
 
-<span id="page_59_note_dagger"></span>[†](#page_59_fr_dagger) Or,
+<span id="page_59_note_dagger"></span>[†](#page_59_fr_dagger.md) Or,
 accomplishes ends by not acting. Or again, acts as though not acting.
 
-<span id="page_59_note_ddagger"></span>[‡](#page_59_fr_ddagger) In the
+<span id="page_59_note_ddagger"></span>[‡](#page_59_fr_ddagger.md) In the
 text, "both belong to the same category or order."
 
 <span id="footnotes_page_60">p. 60</span>
 
-<span id="page_60_note_*"></span>[\*](#page_60_fr_*) Compare *Tao Tê
+<span id="page_60_note_*"></span>[\*](#page_60_fr_*.md) Compare *Tao Tê
 Ching*, chap. LXII.
 
-<span id="page_60_note_dagger"></span>[†](#page_60_fr_dagger) For an
+<span id="page_60_note_dagger"></span>[†](#page_60_fr_dagger.md) For an
 example of the character \#\#\# being used in the sense of destiny, see
 the *Shu Ching*, where Yao addresses Shun, saying, \#\#\#. It means the
 appointment of Heaven, the unavoidabe lot.
 
-<span id="page_60_note_ddagger"></span>[‡](#page_60_fr_ddagger) Two of
+<span id="page_60_note_ddagger"></span>[‡](#page_60_fr_ddagger.md) Two of
 the Twenty-eight Constellations or Stellar Mansions. "Emptiness" \#\#\#
 consists of two stars in a straight line, *viz.*, *Beta* in the left
 shoulder of Aquarius and *Alpha* in the forehead of Equuleus. 'Danger'
@@ -786,7 +786,7 @@ shoulder of Aquarius and *Alpha* in the forehead of Equuleus. 'Danger'
 
 <span id="footnotes_page_61">p. 61</span>
 
-<span id="page_61_note_*"></span>[\*](#page_61_fr_*) The mystic scrolls
+<span id="page_61_note_*"></span>[\*](#page_61_fr_*.md) The mystic scrolls
 presented to Fu Hsi by the river-dragon in the guise of a tortoise. The
 sentence in question might perhaps be translated with considerable
 amplification, thus: "Wherefore the *Yî Ching* comprehends, under this

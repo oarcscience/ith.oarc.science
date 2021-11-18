@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia21)  [Next](aia23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia21)  [Next](aia23.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 ALL the ancients that have written of questions do give warning to the
 astrologer, that before he delivers judgment he well consider whether
-the figure is radical <span id="fr_55"></span>[1](#fn_55) and capable of
+the figure is radical <span id="fr_55"></span>[1](#fn_55.md) and capable of
 judgment: the question then shall not be taken for radical: 1st, when
 either the first or second degrees of a sign ascend, (especially in
 signs of short ascensions, viz., ♑, ♒, ♓, ♈, ♉, ♊). You may not then
@@ -59,7 +59,7 @@ however, defer your opinion till another question better inform you.
 
 ### Footnotes
 
-<span id="fn_55"></span>[74:1](aia22.htm#fr_55) This term signifies,
+<span id="fn_55"></span>[74:1](aia22.htm#fr_55.md) This term signifies,
 like the *radix* or root, the figure of birth; for when a person asks
 his first question of an astrologer, it will generally be found that the
 same sign, and often the same degree, will ascend that ascended at his
@@ -68,4 +68,4 @@ birth.
 ------------------------------------------------------------------------
 
 [Next: Chapter XX. What Significator, Querent, and Quesited, are; and an
-Introduction to the Judgment of a Question.](aia23)
+Introduction to the Judgment of a Question.](aia23.md)

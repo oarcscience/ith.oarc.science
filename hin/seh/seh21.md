@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh20)  [Next](seh22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh20)  [Next](seh22.md) 
 
 ------------------------------------------------------------------------
 
@@ -298,4 +298,4 @@ court of Dala, the king of Ayodhya.
 
 ------------------------------------------------------------------------
 
-[Next: Gopaler-Ma: The Mother of the Christ-Child](seh22)
+[Next: Gopaler-Ma: The Mother of the Christ-Child](seh22.md)

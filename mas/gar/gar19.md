@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar18)  [Next](gar20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar18)  [Next](gar20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -83,7 +83,7 @@ architecture, teaching him ever to walk uprightly before Clod and man.
 
 ### Footnotes
 
-<span id="fn_9"></span>[67:\*](gar18.htm#fr_9) The Order of the Garter
+<span id="fn_9"></span>[67:\*](gar18.htm#fr_9.md) The Order of the Garter
 was instituted by King EDWARD M. In 1344; and though not the most
 ancient, is one of the most famous of the military orders of Europe.
 SELDEN says that it "exceeds—in majesty, honor, and fame—all chivalrous
@@ -92,4 +92,4 @@ upon and worn by a Knight.
 
 ------------------------------------------------------------------------
 
-[Next: The North-East Corner](gar20)
+[Next: The North-East Corner](gar20.md)

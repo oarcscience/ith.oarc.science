@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk02)  [Next](tpk04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk02)  [Next](tpk04.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ every enemy is vanquished.
 
 ------------------------------------------------------------------------
 
-[Next: Ethopia's Kingdom](tpk04)
+[Next: Ethopia's Kingdom](tpk04.md)

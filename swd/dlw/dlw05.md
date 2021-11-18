@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dlw04)  [Next](dlw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dlw04)  [Next](dlw06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -973,4 +973,4 @@ beast.
 
 ------------------------------------------------------------------------
 
-[Next: 251-300](dlw06)
+[Next: 251-300](dlw06.md)

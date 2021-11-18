@@ -1,25 +1,25 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tdp04)  [Next](tdp06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tdp04)  [Next](tdp06.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_141">p. 141</span>
 
-<span id="img_14100"></span> ![DERVAIL NAN CIAR](img/14100.jpg)
+<span id="img_14100"></span> ![DERVAIL NAN CIAR](img/14100.jpg.md)
 
 <span id="page_142">p. 142</span>
 
 <span id="img_14200"></span>
 
 [![March of Battles (Eleventh Century): Sheet-music](tn/14200.jpg)  
-Click to enlarge](img/14200.jpg)  
+Click to enlarge](img/14200.jpg.md)  
   
 
 <span id="page_143">p. 143</span>
 
-<span id="img_14300"></span> ![DERVAIL NAN CIAR](img/14300.jpg)
+<span id="img_14300"></span> ![DERVAIL NAN CIAR](img/14300.jpg.md)
 
 # DERVAIL NAN CIAR
 
@@ -29,7 +29,7 @@ Click to enlarge](img/14200.jpg)
 
 |                      |
 |----------------------|
-| ![A](img/a2init.jpg) |
+| ![A](img/a2init.jpg.md) |
 
 RDAN, the fosterling of Donough O’Carroll, King of Orielle, watched with
 longing the carving of the stone as leaf, and bud, and traceries grew
@@ -73,7 +73,7 @@ O Cormac!"
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE white snow of the past night lay, rose-tinted, under the path of the
 early sun, and, singing low to himself, Ardan began to gather the
@@ -128,7 +128,7 @@ in king's palace or monastery walls.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N the shadow of the wall he made his snow form--that the rays of gold of
 the sun not melt the white of it; and Donough O’Carroll of Orielle, and
@@ -363,7 +363,7 @@ own thoughts.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 T the angle where the path narrowed to the portal, Donough, in courtesy
 to his overlord, stepped a pace aside and behind. A sound came to him of
@@ -398,7 +398,7 @@ the telling."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE coming of Kieran Dail was at the nightfall, and the O’Carroll had a
 day of fever and fuming with his overlord who had moods of haste for the
@@ -435,7 +435,7 @@ hers by a dower of fear. Of that you should know somewhat, O’Donough, as
 you should know why the wife of Murtagh has fear of her and would give
 all wealth of the valley of the Boyne rather than have her under the
 roof of Meath. What new thing can a hermit of the caves have for your
-worldly knowing, [O’Donough](errata.htm#1), prince of Orielle?" said
+worldly knowing, [O’Donough](errata.htm#1.md), prince of Orielle?" said
 Kieran Dail.
 
 "It is not of the new I would hear--it is of the ancient old. It is of
@@ -818,7 +818,7 @@ bent head of Erinn!"
 
 |                     |
 |---------------------|
-| ![K](img/kinit.jpg) |
+| ![K](img/kinit.jpg.md) |
 
 IERAN was led to rest by a servant of the castle, and was not told that
 Diarmod the king had been a listener to the tale of the rune.
@@ -894,7 +894,7 @@ winds, and the very name of her sounds temptation to Diarmod!"
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 T was in the mist of the gray dawn when Ardan crept like a thief down
 the turret stairs, and to the castle wall on which the grianan of the
@@ -1111,7 +1111,7 @@ fair thing to sing about."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 THUS it was the friendship began between Diarmod the king, and Ardan,
 the fosterling of King Donough of Orielle, and thus it was that they
@@ -1250,7 +1250,7 @@ veil.
 
 |                     |
 |---------------------|
-| ![W](img/winit.jpg) |
+| ![W](img/winit.jpg.md) |
 
 HAT is your will for the day's hunt?" asked Donough at last, and
 Leinster swung on him as if to find vent to his humor.
@@ -1287,7 +1287,7 @@ their runes to hell."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 WO years Ardan lived between the castle of Diarmod and the Culdees of
 Saint Hilary's cloisters, and then, with Diarmod's sanction and help, he
@@ -1362,7 +1362,7 @@ and the bogs between!"
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 FTER that, Diarmod said no more, but left guests and tale tellers and
 singers to have their own cheer of the night--and went to his own
@@ -1389,7 +1389,7 @@ true, find her and bring me word of her need."
 
 |                     |
 |---------------------|
-| ![S](img/sinit.jpg) |
+| ![S](img/sinit.jpg.md) |
 
 O it happened that Ardan had crossed the Shannon at Ath-Luin when the
 wandering bard from the north found the way to the castle of Diarmod,
@@ -1401,7 +1401,7 @@ and craving audience, knelt and offered a ring.
 
 |                        |
 |------------------------|
-| ![''T](img/qtinit.jpg) |
+| ![''T](img/qtinit.jpg.md) |
 
 HIS from her who calls herself Regina," he said.
 
@@ -1438,7 +1438,7 @@ got her was his enemy!
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 WO days Diarmod fumed over the thought, and then rode with his spearmen
 and bowmen to council with King Donough. "Is it in silence the men of
@@ -1518,7 +1518,7 @@ are crossing the wide land."
 
 |                     |
 |---------------------|
-| ![D](img/dinit.jpg) |
+| ![D](img/dinit.jpg.md) |
 
 ONOUGH O'CARROLL was not easy in his mind after that speech. He had
 remembrance of the words of Malachi, son of Murtagh of Meath. He also
@@ -1559,7 +1559,7 @@ life for having her before me!"
 
 |                     |
 |---------------------|
-| ![D](img/dinit.jpg) |
+| ![D](img/dinit.jpg.md) |
 
 IARMOD had never forgotten her words of admiring when she greeted him as
 "Ard-Ri of Erinn." It was but a tiny seed let fall from her rose-leaf
@@ -1586,7 +1586,7 @@ was desired--the beautiful part!
 
 |                     |
 |---------------------|
-| ![Y](img/yinit.jpg) |
+| ![Y](img/yinit.jpg.md) |
 
 ET Diarmod of Leinster did consider the words of King Donough, and did
 join shields with Turlough against the men of O'Brian to the west, and
@@ -1629,7 +1629,7 @@ heard the feet of his men and the feet of his warhorse marching to it!
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 ND the young maker of the song? His travels abroad made the wandering
 north-ward an easy path. He slept at monasteries, and was known only as
@@ -1868,7 +1868,7 @@ the moor."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HREE days they were speaking like that before princes and chiefs, and
 three nights he was led by Kauth, her woman, to Kauth's own curtained
@@ -2154,7 +2154,7 @@ forgotten."
 
 |                     |
 |---------------------|
-| ![K](img/kinit.jpg) |
+| ![K](img/kinit.jpg.md) |
 
 AUTH, who had been lay sister of Clonard, was given higher place than
 the place of a serving-woman in the castle of O’Ruarc, and her dress
@@ -2535,7 +2535,7 @@ rode forward in pride.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE harvest of the year was not yet garnered when the pearl of Dervail
 went south to Diarmod of Leinster by the hand of Duffagan.
@@ -2604,7 +2604,7 @@ drink."
 
 |                     |
 |---------------------|
-| ![M](img/minit.jpg) |
+| ![M](img/minit.jpg.md) |
 
 URTAGH, King of Meath, knew nought of the hosting until the spears of
 Leinster were north of Ath-Luain, and there was none for comfort but
@@ -2672,7 +2672,7 @@ land, and all kings and all clans of Erinn!
 
 |                     |
 |---------------------|
-| ![G](img/ginit.jpg) |
+| ![G](img/ginit.jpg.md) |
 
 REAT wealth had been taken out of Breffni by Leinster--not only her own
 dower wealth, but rich plunderings of Clonard, and the droves of cattle
@@ -2710,7 +2710,7 @@ Turlough and Breffni have crossed the Shannon."
 
 |                     |
 |---------------------|
-| ![R](img/rinit.jpg) |
+| ![R](img/rinit.jpg.md) |
 
 HUDRI of O’Faelain came riding a foaming steed, and stumbled, dazed and
 spent, before Diarmod. "My plea is to serve you in some other way," he
@@ -2795,7 +2795,7 @@ He arose, frowning, and with set jaws.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 RDAN was first at the castle of O’Faelain, and there was sickness on his
 soul for what he met in that place.
@@ -3237,7 +3237,7 @@ tribute of blood," for Dervail of the Shadow!
 
 |                     |
 |---------------------|
-| ![M](img/minit.jpg) |
+| ![M](img/minit.jpg.md) |
 
 ANY souls were sent for judgment in the slaughter done by Diarmod--and
 done against him in his revenges for the shame of losing her again to
@@ -3309,7 +3309,7 @@ would sink in death, while she alone survived--and it was so.
 
 |                     |
 |---------------------|
-| ![B](img/binit.jpg) |
+| ![B](img/binit.jpg.md) |
 
 UT a monk whispered her name in the sunny walk of the garden one day in
 spring, and she looked again into the dark eyes of Ardan, who should be
@@ -3374,4 +3374,4 @@ Dervail."
 
 ------------------------------------------------------------------------
 
-[Next: Randuff of Cumanac](tdp06)
+[Next: Randuff of Cumanac](tdp06.md)

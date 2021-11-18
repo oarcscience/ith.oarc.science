@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](title)  [Next](chap01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](title)  [Next](chap01.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ Tuesday, 22 *August,* 1922.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Creation and the Flood](chap01)
+[Next: I. The Creation and the Flood](chap01.md)

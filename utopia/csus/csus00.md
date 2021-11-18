@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Next](csus01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Next](csus01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,9 +35,9 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
 <span id="img_front"></span>
 
 [![VIEWS IN ZOAR](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 VIEWS IN ZOAR  
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](csus01)
+[Next: Table of Contents](csus01.md)

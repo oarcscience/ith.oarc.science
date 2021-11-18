@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes38)  [Next](tes40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes38)  [Next](tes40.md) 
 
 ------------------------------------------------------------------------
 
-### 17. A HUNTING TALE. <span id="fr_57"></span>[1](#fn_57)
+### 17. A HUNTING TALE. <span id="fr_57"></span>[1](#fn_57.md)
 
 Three men lived together. I cannot tell to what tribe or clan they may
 have belonged,--whether they were peasants or cossacks, or Yakut or
@@ -141,7 +141,7 @@ in the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_57"></span>[78:1](tes39.htm#fr_57) This tale seems to be
+<span id="fn_57"></span>[78:1](tes39.htm#fr_57.md) This tale seems to be
 composed of mixed elements, Russian and native. The sables that play so
 prominent a rôle in it, were quite abundant in the Kolyma country a
 century ago, but since the sixties of the nineteenth century, not a
@@ -151,4 +151,4 @@ to the south.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Story about the Bad Merchant](tes40)
+[Next: 18. Story about the Bad Merchant](tes40.md)

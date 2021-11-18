@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw203)  [Next](ataw205) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw203)  [Next](ataw205.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -454,7 +454,7 @@ Mohammed's coffin in the old story. The accompanying illustration
 
 <span id="page_96">p. 96</span>
 
-([page 95](#img_09500)) represents the earth surrounded by the ocean,
+([page 95](#img_09500).md) represents the earth surrounded by the ocean,
 and beyond this ocean was "the land where men dwelt before the Deluge."
 
 He then gives us a more accurate map, in detail, of the known world of
@@ -510,4 +510,4 @@ THE MOUNTAIN THE SUN GOES BEHIND AT NIGHT.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: The Deluge Legends of America.](ataw205)
+[Next: Chapter V: The Deluge Legends of America.](ataw205.md)

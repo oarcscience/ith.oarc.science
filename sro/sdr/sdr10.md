@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr09)  [Next](sdr11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr09)  [Next](sdr11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ the Gods once more is resolved into Pure Spirit, which
 
 <span id="img_fig12"></span> <span align="CENTER"> [![Figure 12. Symbol
 of the Sevenfold Soul](tn/fig12.jpg)  
-Click to enlarge](img/fig12.jpg)  
+Click to enlarge](img/fig12.jpg.md)  
 Figure 12. Symbol of the Sevenfold Soul  
 </span>
 
@@ -153,7 +153,7 @@ Soul embodied in the Mineral or Chemical Substance of which the Physical
 Body is composed. The concept sought to be expressed is the physical
 body of man considered merely in its aspect of mineral or chemical
 substance and their atoms—rather than in its aspect of
-[protoplasmic](errata.htm#17), **living** substance (using the term
+[protoplasmic](errata.htm#17.md), **living** substance (using the term
 "living" in its popular, rather than in its esoteric sense).
 
 The term "Mineral" of course means "inorganic substances having a
@@ -506,7 +506,7 @@ state of mind, and he has never been the same man afterward. Although
 the keenness of the recollection has worn off, there remains a certain
 memory which long afterward proves a source of comfort and strength to
 him, especially when he feels faint of faith and is shaken like a reed
-by the winds of [conflicting](errata.htm#18) opinions and speculations.
+by the winds of [conflicting](errata.htm#18.md) opinions and speculations.
 The memory of such an experience is a source of renewed strength—a haven
 of refuge to
 
@@ -527,7 +527,7 @@ instruments of the semi-barbarous races, or the finished instruments of
 the talented musician of today, its strains are plainly recognized. From
 Old Egypt comes the song—from India of all ages—from Ancient Greece and
 Rome—from the early Christian saint—from the Quaker Friend—from the
-Catholic [monasteries](errata.htm#19)—from the Mohammedan Mosque—from
+Catholic [monasteries](errata.htm#19.md)—from the Mohammedan Mosque—from
 the Chinese Philosopher—from the legends of the American Indian
 hero-prophet—it is always the same strain, and it is swelling louder and
 louder, as many more are taking it up and adding their voices or the
@@ -663,4 +663,4 @@ Seven-fold Veil."
 
 ------------------------------------------------------------------------
 
-[Next: Part X. Metempsychosis](sdr11)
+[Next: Part X. Metempsychosis](sdr11.md)

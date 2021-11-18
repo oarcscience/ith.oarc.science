@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr10) 
-[Next](frr12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr10.md) 
+[Next](frr12.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ a large number of the surviving 'Fertility' ceremonies, and to the fact,
 noted by other writers, that even where an active share is no longer
 assigned to the character, he still appears among the *dramatis
 personae* of these Folk-plays and processions <span
-id="fr_134"></span>[1](#fn_134). We will now examine more closely the
+id="fr_134"></span>[1](#fn_134.md). We will now examine more closely the
 *rôle* allotted to this mysterious personage; we shall find it to be of
 extreme antiquity and remarkable significance.
 
@@ -24,7 +24,7 @@ In the interesting and important work by Professor von Schroeder, to
 which I have already often referred, we find the translation of a
 curious poem (*Rig-Veda*, 10. 97), a monologue placed in the mouth of a
 Doctor, or Medicine Man, who vaunts the virtue of his herbs, and their
-power to cure human ills <span id="fr_135"></span>[2](#fn_135). From the
+power to cure human ills <span id="fr_135"></span>[2](#fn_135.md). From the
 references made to a special sick man von Schroeder infers that this
 poem, like others in the collection, was intended to be acted, as well
 as recited, and that the personage to be healed, evidently present on
@@ -104,7 +104,7 @@ which the heavenly drink is brewed which is to be understood as the
 first of all herbs and the curer of all ills, and the reference to Soma
 as King of the herbs seems to bear out this suggestion.
 
-In a previous chapter <span id="fr_136"></span>[1](#fn_136) I have
+In a previous chapter <span id="fr_136"></span>[1](#fn_136.md) I have
 referred to a curious little poem, also found in the *Rig-Veda*, and
 translated by von Schroeder under the title *A Folk-Procession at a
 Soma-Feast*, the *dramatis personae* of the poem offering, as I pointed
@@ -136,7 +136,7 @@ the Vegetation Spirit.
 This presumption gains additional support from the fact that it is in
 this character that the Doctor appears in Greek Classical Drama. Von
 Schroeder refers to the fact that the Doctor was a stock figure in the
-Greek 'Mimus <span id="fr_137"></span>[1](#fn_137)' and in Mr Cornford's
+Greek 'Mimus <span id="fr_137"></span>[1](#fn_137.md)' and in Mr Cornford's
 interesting volume entitled *The Origin of Attic Comedy*, the author
 reckons the Doctor among the stock Masks of the early Greek Theatre, and
 assigns to this character the precise *rôle* which later survivals have
@@ -149,14 +149,14 @@ Fertility Spirit, his Pathos, and Theophany," he contends that a similar
 origin may be postulated for Attic Comedy--that the stock Masks
 (characters) agree with a theory of derivation of such Comedy from a
 ritual performance celebrating the renewal of the seasons <span
-id="fr_138"></span>[2](#fn_138). "They were at first serious, and even
+id="fr_138"></span>[2](#fn_138.md). "They were at first serious, and even
 awful, figures in a Religious Mystery, the God who
 
 <span id="page_100">p. 100</span>
 
 every year is born, and dies, and rises again; his Mother and his Bride;
 the Antagonist who kills him; the Medicine Man who restores him to
-life <span id="fr_139"></span>[1](#fn_139)."
+life <span id="fr_139"></span>[1](#fn_139.md)."
 
 I would submit that the presence of such a character in the original
 ritual drama of Revival which, on my theory, underlies the romantic form
@@ -183,7 +183,7 @@ wounded knight by the roadside, proceeds to treat him:
 Plus que nuls homs de garir plaie;  
 Une herbe voit en une haie  
 Trop bonne pour douleur tolir  
-De plaie, et il la va cueillir <span id="fr_140"></span>[2](#fn_140)."
+De plaie, et il la va cueillir <span id="fr_140"></span>[2](#fn_140.md)."
 
  
 
@@ -198,32 +198,32 @@ Qu'il connoissoit lonc temps avoit
 Que son mestre apris li avoit  
 Enseigniee et bien moustree,  
 Et il l'avoit bien esgardee  
-Si l'a molt bien reconneue <span id="fr_141"></span>[1](#fn_141)."
+Si l'a molt bien reconneue <span id="fr_141"></span>[1](#fn_141.md)."
 
 We find reference to Gawain's possession of medical knowledge elsewhere.
 In the poem entitled *Lancelot et le cerf au pied blanc*, Gawain,
 finding his friend desperately wounded, carries him to a physician whom
 he instructs as to the proper treatment <span
-id="fr_142"></span>[2](#fn_142).
+id="fr_142"></span>[2](#fn_142.md).
 
 "Ende Walewein wiesde den Ersatere mere  
 Ene const, die daertoe halp wel sere <span
-id="fr_143"></span>[3](#fn_143)."
+id="fr_143"></span>[3](#fn_143.md)."
 
 In the parallel adventure related in *Morien* Gawain heals Lancelot
-without the aid of any physician <span id="fr_144"></span>[4](#fn_144):
+without the aid of any physician <span id="fr_144"></span>[4](#fn_144.md):
 
 "Doe was Walewein harde blide  
 Ende bant hem sine wonden ten tide  
 Met selken crude die daer dochten  
-Dat si niet bloden mochten <span id="fr_145"></span>[5](#fn_145)."
+Dat si niet bloden mochten <span id="fr_145"></span>[5](#fn_145.md)."
 
 They ride to an anchorite's cell:
 
 "Si waren doe in dire gedochten  
 Mochten sie daer comen tier stont  
 Datten Walewein soude maken gesont <span
-id="fr_146"></span>[6](#fn_146)."
+id="fr_146"></span>[6](#fn_146.md)."
 
 The Dutch *Lancelot* has numerous references to Gawain's skill in
 healing. Of course the advocates of the originality of Chrétien de
@@ -237,10 +237,10 @@ French originals of an undetermined date, are one and all loans from the
 more famous poem. This, however, can hardly be contended of the Welsh
 *Triads*; there we find Gwalchmai, the Welsh Gawain, cited as one of the
 three men "To whom the nature of every object was known <span
-id="fr_147"></span>[1](#fn_147)," an accomplishment exceedingly
+id="fr_147"></span>[1](#fn_147.md)," an accomplishment exceedingly
 necessary for a 'Medicine Man,' but not at first sight especially
 needful for the equipment of a knight <span
-id="fr_148"></span>[2](#fn_148). This persistent attribution of healing
+id="fr_148"></span>[2](#fn_148.md). This persistent attribution of healing
 skill is not, so far as my acquaintance with medieval Romance goes,
 paralleled in the case of any other knight; even Tristan, who is
 probably the most accomplished of heroes of romance, the most thoroughly
@@ -269,7 +269,7 @@ omitted to make a note of it, or entered it in a book which, with sundry
 others, went mysteriously astray in the process of moving furniture. In
 any case, though I have searched diligently I have failed to recover the
 passage, but I note it here in the hope that one of my reader may be
-more fortunate.\[Refer to [Malory Book IV, Chapter V](../mart/mart065)--
+more fortunate.\[Refer to [Malory Book IV, Chapter V](../mart/mart065.md)--
 jbh\]
 
 It is perhaps not without significance that a mention of Peredur
@@ -342,7 +342,7 @@ literature to the curious parallel between the *Rig-Veda* poem of the
 of an audience, in each case the speaker is one who vaunts his skill in
 the use of herbs, in each case he has in view the ultimate gain to
 himself. Here are the opening lines of the Medieval poem <span
-id="fr_149"></span>[1](#fn_149):
+id="fr_149"></span>[1](#fn_149.md):
 
 "Seignor qui ci estes venu  
 Petit et grant, jone et chenu,  
@@ -382,28 +382,28 @@ hearers, drawn from all ranks, some credulous, some amused. There seems
 very little doubt that both poems are specimens, and very good
 specimens, of a *genre* the popularity and vitality of which are
 commensurate with the antiquity of its origin <span
-id="fr_150"></span>[1](#fn_150).
+id="fr_150"></span>[1](#fn_150.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_134"></span>[96:1](frr11.htm#fr_134) Cf. *supra*, Chap. 5,
-pp. [52](frr08.htm#page_52), [54](frr08.htm#page_54); Chap. 7, pp.
-[90](frr10.htm#page_90), [91](frr10.htm#page_91).
+<span id="fn_134"></span>[96:1](frr11.htm#fr_134.md) Cf. *supra*, Chap. 5,
+pp. [52](frr08.htm#page_52), [54](frr08.htm#page_54.md); Chap. 7, pp.
+[90](frr10.htm#page_90), [91](frr10.htm#page_91.md).
 
-<span id="fn_135"></span>[96:2](frr11.htm#fr_135) *Mysterium und Mimus*,
+<span id="fn_135"></span>[96:2](frr11.htm#fr_135.md) *Mysterium und Mimus*,
 p. 369, *Der Mimus des Medizinmannes*.
 
-<span id="fn_136"></span>[98:1](frr11.htm#fr_136) Cf. Chap. 5, pp.
-[53](frr08.htm#page_53), [54](frr08.htm#page_54).
+<span id="fn_136"></span>[98:1](frr11.htm#fr_136.md) Cf. Chap. 5, pp.
+[53](frr08.htm#page_53), [54](frr08.htm#page_54.md).
 
-<span id="fn_137"></span>[99:1](frr11.htm#fr_137) *Op. cit*. p. 371.
+<span id="fn_137"></span>[99:1](frr11.htm#fr_137.md) *Op. cit*. p. 371.
 
-<span id="fn_138"></span>[99:2](frr11.htm#fr_138) *Op. cit*. pp. 78 *et
+<span id="fn_138"></span>[99:2](frr11.htm#fr_138.md) *Op. cit*. pp. 78 *et
 seq*.
 
-<span id="fn_139"></span>[100:1](frr11.htm#fr_139) I would draw
+<span id="fn_139"></span>[100:1](frr11.htm#fr_139.md) I would draw
 attention to the fact that while scholars are now coming to the
 conclusion that Classic Drama, whether Tragedy or Comedy, reposes for
 its origin upon this ancient ritual, others have pointed out that Modern
@@ -416,45 +416,45 @@ Play, contain a scene between the Maries and the 'Unguentarius' from
 whom they purchase spices for the embalmment of Our Lord. Can this be a
 survival of the Medicine Man? (Cf. *op. cit.* Vol. II. p. 33.)
 
-<span id="fn_140"></span>[100:2](frr11.htm#fr_140) Bibl. Nat., fonds
+<span id="fn_140"></span>[100:2](frr11.htm#fr_140.md) Bibl. Nat., fonds
 Français, 12577, fo. 40.
 
-<span id="fn_141"></span>[101:1](frr11.htm#fr_141) Bibl. Nat., f. F.
+<span id="fn_141"></span>[101:1](frr11.htm#fr_141.md) Bibl. Nat., f. F.
 1453, fo. 49. *Parzival*, Bk. X. ll. 413-22.
 
-<span id="fn_142"></span>[101:2](frr11.htm#fr_142) *Lanceloet*,
+<span id="fn_142"></span>[101:2](frr11.htm#fr_142.md) *Lanceloet*,
 Jonckbloet, Vol. II. ll. 22271-23126.
 
-<span id="fn_143"></span>[101:3](frr11.htm#fr_143) *Op. cit.* ll.
+<span id="fn_143"></span>[101:3](frr11.htm#fr_143.md) *Op. cit.* ll.
 22825-26.
 
-<span id="fn_144"></span>[101:4](frr11.htm#fr_144) *Op. cit.* Vol. I.
+<span id="fn_144"></span>[101:4](frr11.htm#fr_144.md) *Op. cit.* Vol. I.
 ll. 42540-47262.
 
-<span id="fn_145"></span>[101:5](frr11.htm#fr_145) *Op. cit.* ll.
+<span id="fn_145"></span>[101:5](frr11.htm#fr_145.md) *Op. cit.* ll.
 46671-74.
 
-<span id="fn_146"></span>[101:6](frr11.htm#fr_146) *Op. cit.* ll.
+<span id="fn_146"></span>[101:6](frr11.htm#fr_146.md) *Op. cit.* ll.
 46678-80.
 
-<span id="fn_147"></span>[102:1](frr11.htm#fr_147) Cf. Loth, *Les
+<span id="fn_147"></span>[102:1](frr11.htm#fr_147.md) Cf. Loth, *Les
 Mabinogion*, Vol. II. p. 230, and note. The other two are Riwallawn
 Walth Banhadlen, and Llacheu son of Arthur.
 
-<span id="fn_148"></span>[102:2](frr11.htm#fr_148) The only instance in
+<span id="fn_148"></span>[102:2](frr11.htm#fr_148.md) The only instance in
 which I have found medicine directly connected with the knightly order
 is in the case of the warrior clan of the Samurai, in Japan, where
 members, physically unfitted for the task of a warrior, were trained as
 Royal Doctors, the Folk Doctors being recruited from a class below the
 Samurai. Cf. *Medizin der Natur-Völker*, Bartels, p. 65.
 
-<span id="fn_149"></span>[105:1](frr11.htm#fr_149) Cf. *Œuvres de
+<span id="fn_149"></span>[105:1](frr11.htm#fr_149.md) Cf. *Œuvres de
 Rutebœuf*, Kressner, p. 115.
 
-<span id="fn_150"></span>[106:1](frr11.htm#fr_150) My attention was
+<span id="fn_150"></span>[106:1](frr11.htm#fr_150.md) My attention was
 drawn to the poem by references to it in *The Mediaeval Stage*,
 Chambers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Fisher King](frr12)
+[Next: Chapter IX. The Fisher King](frr12.md)

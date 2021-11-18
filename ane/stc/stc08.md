@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](stc07)  [Next](stc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](stc07)  [Next](stc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Intangible Textual Heritage
 5\. After he had \[...\] the days of the year \[...\] images,
 
 6\. He founded the station of Nibir <span
-id="fr_151"></span>[1](#fn_151)to determine their bounds;
+id="fr_151"></span>[1](#fn_151.md)to determine their bounds;
 
 7\. That none might err or go astray,
 
@@ -151,7 +151,7 @@ are taken from the reverse of K. 11,641 and from the reverse of K.
 \(133\) \[...\] the gods spake,
 
 \(134\) \[...\] the heavens \[...\]: <span
-id="fr_152"></span>[1](#fn_152)
+id="fr_152"></span>[1](#fn_152.md)
 
 \(135\) "\[... your\] son \[...\]"
 
@@ -169,9 +169,9 @@ id="fr_152"></span>[1](#fn_152)
 
 ### Footnotes
 
-<span id="fn_151"></span>[79:1](stc08.htm#fr_151) Jupiter
+<span id="fn_151"></span>[79:1](stc08.htm#fr_151.md) Jupiter
 
-<span id="fn_152"></span>[85:1](stc08.htm#fr_152) In the speech that
+<span id="fn_152"></span>[85:1](stc08.htm#fr_152.md) In the speech that
 follows it may be conjectured that the gods complained that, although
 Marduk had endowed the heavens with splendour and had caused plants to
 live upon the earth, yet there were no shrines built in honour of the
@@ -180,4 +180,4 @@ p. 88, note 1
 
 ------------------------------------------------------------------------
 
-[Next: The Sixth Tablet](stc09)
+[Next: The Sixth Tablet](stc09.md)

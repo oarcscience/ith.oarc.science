@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe022)  [Next](prwe024) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe022)  [Next](prwe024.md) 
 
 ------------------------------------------------------------------------
 
@@ -221,4 +221,4 @@ happened--*Drew and Hitchins' History of Cornwall*, p. 97
 
 ------------------------------------------------------------------------
 
-[Next: Nursing a Fairy](prwe024)
+[Next: Nursing a Fairy](prwe024.md)

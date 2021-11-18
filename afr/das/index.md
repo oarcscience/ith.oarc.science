@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
 
 </div>
 
@@ -26,8 +26,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](das00)    [Page
-Index](pageidx)    [Text \[Zipped\]](das.txt.gz)
+[Contents](#contents)    [Start Reading](das00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](das.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -60,33 +60,33 @@ potent and long-dead voices come to life.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](das00)  
-[Acknowledgments](das01)  
-[Contents](das02)  
-[Foreword](das03)  
-[Notes to the Reader](das04)  
-[Introduction](das05)  
-[Old Fort](das06)  
-[Tin City](das07)  
-[Yamacraw](das08)  
-[Frogtown and Currytown](das09)  
-[Springfield](das10)  
-[Brownville](das11)  
-[Tatemville](das12)  
-[White Bluff](das13)  
-[Pin Point](das14)  
-[Sandfly](das15)  
-[Grimball's Point](das16)  
-[Wilmington Island](das17)  
-[Sunbury](das18)  
-[Harris Neck](das19)  
-[Pine Barren Near Eulonia](das20)  
-[Possum Point](das21)  
-[Darien](das22)  
-[Sapelo Island](das23)  
-[St. Simons Island](das24)  
-[St. Marys](das25)  
-[Appendix](das26)  
-[Glossary](das27)  
-[Informants](das28)  
-[Bibliography](das29)  
+<span id="contents"></span> [Title Page](das00.md)  
+[Acknowledgments](das01.md)  
+[Contents](das02.md)  
+[Foreword](das03.md)  
+[Notes to the Reader](das04.md)  
+[Introduction](das05.md)  
+[Old Fort](das06.md)  
+[Tin City](das07.md)  
+[Yamacraw](das08.md)  
+[Frogtown and Currytown](das09.md)  
+[Springfield](das10.md)  
+[Brownville](das11.md)  
+[Tatemville](das12.md)  
+[White Bluff](das13.md)  
+[Pin Point](das14.md)  
+[Sandfly](das15.md)  
+[Grimball's Point](das16.md)  
+[Wilmington Island](das17.md)  
+[Sunbury](das18.md)  
+[Harris Neck](das19.md)  
+[Pine Barren Near Eulonia](das20.md)  
+[Possum Point](das21.md)  
+[Darien](das22.md)  
+[Sapelo Island](das23.md)  
+[St. Simons Island](das24.md)  
+[St. Marys](das25.md)  
+[Appendix](das26.md)  
+[Glossary](das27.md)  
+[Informants](das28.md)  
+[Bibliography](das29.md)  

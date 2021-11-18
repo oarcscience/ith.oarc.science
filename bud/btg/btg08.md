@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg07)  [Next](btg09) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg07)  [Next](btg09.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ heavens.
 
 ------------------------------------------------------------------------
 
-[Next: King Bimbisara](btg09)
+[Next: King Bimbisara](btg09.md)

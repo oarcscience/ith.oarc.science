@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](pol04)  [Next](pol06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](pol04)  [Next](pol06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1337,4 +1337,4 @@ of either of them.
 
 ------------------------------------------------------------------------
 
-[Next: Book VI](pol06)
+[Next: Book VI](pol06.md)

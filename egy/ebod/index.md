@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 ------------------------------------------------------------------------
 
-[Introduction](#intro)  [Translation](#translation)
+[Introduction](#intro)  [Translation](#translation.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ version of the text widely posted on the Internet did not seem to match
 the Dover reprint of the 1895 version.
 
 According to John Mark Ockerbloom, the proprietor of the excellent
-[Online Books Page](https://digital.library.upenn.edu/books/), the
+[Online Books Page](https://digital.library.upenn.edu/books/.md), the
 version circulating on the Internet is a highly edited version of Budge
 from a much later date (1913). He writes:
 
@@ -60,52 +60,52 @@ this text.
 
 ------------------------------------------------------------------------
 
-[Title Page](ebod00)  
-[Preface](ebod01)  
-[Contents](ebod02)  
+[Title Page](ebod00.md)  
+[Preface](ebod01.md)  
+[Contents](ebod02.md)  
 
 ### <span id="intro">Introduction</span>
 
-[The Versions Of The Book Of The Dead.](ebod03)  
-[The Legend Of Osiris.](ebod04)  
-[The Doctrine Of Eternal Life.](ebod05)  
-[The Egyptians' Ideas Of God.](ebod06)  
-[The Legend Of Ra And Isis.](ebod07)  
-[The Abode Of The Blessed.](ebod08)  
-[The Gods Of The Book Of The Dead.](ebod09)  
+[The Versions Of The Book Of The Dead.](ebod03.md)  
+[The Legend Of Osiris.](ebod04.md)  
+[The Doctrine Of Eternal Life.](ebod05.md)  
+[The Egyptians' Ideas Of God.](ebod06.md)  
+[The Legend Of Ra And Isis.](ebod07.md)  
+[The Abode Of The Blessed.](ebod08.md)  
+[The Gods Of The Book Of The Dead.](ebod09.md)  
 [The Principal Geographical And Mythological Places In The Book Of The
-Dead.](ebod10)  
-[Funeral Ceremonies.](ebod11)  
-[The Papyrus Of Ani.](ebod12)  
+Dead.](ebod10.md)  
+[Funeral Ceremonies.](ebod11.md)  
+[The Papyrus Of Ani.](ebod12.md)  
 
 ### <span id="translation">Translation</span>
 
-[Plate I.](ebod13)  
-[Plate II.](ebod14)  
-[Plate III.](ebod15)  
-[Plate IV.](ebod16)  
-[Plates V. and VI.](ebod17)  
-[Plates VII.-X.](ebod18)  
-[Plates XI. and XII.](ebod19)  
-[Plate XIII.](ebod20)  
-[Plate XIV.](ebod21)  
-[Plate XV.](ebod22)  
-[Plate XVI.](ebod23)  
-[Plate XVII.](ebod24)  
-[Plate XVIII.](ebod25)  
-[Plate XIX.](ebod26)  
-[Plate XX.](ebod27)  
-[Plate XXI.](ebod28)  
-[Plate XXII.](ebod29)  
-[Plate XXIII. and Plate XXIV.](ebod30)  
-[Plate XXV.](ebod31)  
-[Plate XXVI.](ebod32)  
-[Plate XXVII.](ebod33)  
-[Plate XXVIII.](ebod34)  
-[Plates XXIX. and XXX.](ebod35)  
-[Plates XXXI. and XXXII.](ebod36)  
-[Plate XXXII.](ebod37)  
-[Plate XXXIII.](ebod38)  
-[Plates XXXIII and XXXIV.](ebod39)  
-[Plates XXXV. and XXXVI.](ebod40)  
-[Plate XXXVII.](ebod41)  
+[Plate I.](ebod13.md)  
+[Plate II.](ebod14.md)  
+[Plate III.](ebod15.md)  
+[Plate IV.](ebod16.md)  
+[Plates V. and VI.](ebod17.md)  
+[Plates VII.-X.](ebod18.md)  
+[Plates XI. and XII.](ebod19.md)  
+[Plate XIII.](ebod20.md)  
+[Plate XIV.](ebod21.md)  
+[Plate XV.](ebod22.md)  
+[Plate XVI.](ebod23.md)  
+[Plate XVII.](ebod24.md)  
+[Plate XVIII.](ebod25.md)  
+[Plate XIX.](ebod26.md)  
+[Plate XX.](ebod27.md)  
+[Plate XXI.](ebod28.md)  
+[Plate XXII.](ebod29.md)  
+[Plate XXIII. and Plate XXIV.](ebod30.md)  
+[Plate XXV.](ebod31.md)  
+[Plate XXVI.](ebod32.md)  
+[Plate XXVII.](ebod33.md)  
+[Plate XXVIII.](ebod34.md)  
+[Plates XXIX. and XXX.](ebod35.md)  
+[Plates XXXI. and XXXII.](ebod36.md)  
+[Plate XXXII.](ebod37.md)  
+[Plate XXXIII.](ebod38.md)  
+[Plates XXXIII and XXXIV.](ebod39.md)  
+[Plates XXXV. and XXXVI.](ebod40.md)  
+[Plate XXXVII.](ebod41.md)  

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio01)  [Next](rio03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio01)  [Next](rio03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ THE AUTHOR.     
 
 ------------------------------------------------------------------------
 
-[Next: I. Introductory](rio03)
+[Next: I. Introductory](rio03.md)

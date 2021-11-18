@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa06)  [Next](toa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa06)  [Next](toa08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -181,7 +181,7 @@ neck craning from a ruff of dirty white feathers, its eyes regarding
 them curiously but unafraid. Laidlaw raised his rifle.
 
 "Better wait till he lights and make sure of him," said Morse. "And look
-out for a[ricochets](errata.htm#6)."
+out for a[ricochets](errata.htm#6.md)."
 
 "I'll leave it to you," said Laidlaw. "You're the better shot. But don't
 leave that poor devil down there in suspense, tortured like a modern
@@ -604,6 +604,6 @@ carrion to the birds."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI—The Gates of Dor](toa08)
+[Next: Chapter VI—The Gates of Dor](toa08.md)
 
 </div>

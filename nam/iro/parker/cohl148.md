@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl147)  [Next](cohl149) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl147)  [Next](cohl149.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_107">p. 107</span>
 
-### THE FUNERAL ADDRESS <span id="fr_103"></span>[1](#fn_103)
+### THE FUNERAL ADDRESS <span id="fr_103"></span>[1](#fn_103.md)
 
 Awe:yondo? Gawen'notgä'o
 
@@ -162,9 +162,9 @@ us. So it is done.
 
 ### Footnotes
 
-<span id="fn_103"></span>[107:1](cohl148.htm#fr_103) Related by Skidmore
+<span id="fn_103"></span>[107:1](cohl148.htm#fr_103.md) Related by Skidmore
 Lay, Cattaraugus chief, March 1906.
 
 ------------------------------------------------------------------------
 
-[Next: The Death Feast](cohl149)
+[Next: The Death Feast](cohl149.md)

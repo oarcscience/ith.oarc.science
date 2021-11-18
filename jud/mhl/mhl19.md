@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl18)  [Next](mhl20) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl18)  [Next](mhl20.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ wrote to him as follows:
 
 "A man shall be commended according to his wisdom," etc. All the letters
 of the worthy scholar and excellent sage R. Samuel, son of the learned
-R. Jehuda ibn Tibbon, <span id="fr_14"></span>[1](#fn_11) the Sephardi,
+R. Jehuda ibn Tibbon, <span id="fr_14"></span>[1](#fn_11.md) the Sephardi,
 have duly reached me, Moses the son of Maimun, the Sephardi. Already
 many years ago the fame of the honored prince, the wise R. Jehuda, your
 father, had reached me, I had heard of his great learning and the
@@ -74,7 +74,7 @@ displayed
 <span id="page_377">p. 377</span>
 
 by one who has been born among "stammerers." <span
-id="fr_15"></span>[2](#fn_12) I also admired your being so well versed
+id="fr_15"></span>[2](#fn_12.md) I also admired your being so well versed
 in the niceties of that language in abstruse subjects; this is, indeed,
 like "a tender plant springing out of a dry ground." May the Lord
 enlighten your eyes with the light of his law, so that you may be of
@@ -127,8 +127,8 @@ voyage, for beyond seeing me, and doing all I could to honor you, you
 would not derive any advantage from your visit. Do not expect to be able
 to confer with me on any scientific subject for even one hour, either by
 day or night, for the following is my daily occupation: I dwell in Mizr
-(Fostat), <span id="fr_16"></span>[3](#fn_13) and the Sultan <span
-id="fr_17"></span>[4](#fn_14) resides at Kahira (Cairo); these two
+(Fostat), <span id="fr_16"></span>[3](#fn_13.md) and the Sultan <span
+id="fr_17"></span>[4](#fn_14) resides at Kahira (Cairo.md); these two
 places are two Sabbath days' journeys (about one mile and a half)
 distant from each other. My duties to the Sultan are very heavy. I am
 obliged to visit him every day, early in the morning; and when he or any
@@ -186,13 +186,13 @@ I have now indicated to you the works you should study, and to which you
 should devote your intellect. May your happiness, my son and pupil,
 increase, and salvation be granted to our afflicted people. Written by
 Moses, the son of Maimun, the Sephardi, on the 8th of Tishri, 1511,
-according to the Seleucide era. <span id="fr_18"></span>[5](#fn_15)
+according to the Seleucide era. <span id="fr_18"></span>[5](#fn_15.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_11"></span>[375:1](mhl19.htm#fr_14) Jehuda ben Saul ibn
+<span id="fn_11"></span>[375:1](mhl19.htm#fr_14.md) Jehuda ben Saul ibn
 Tibbon (1120-1190) was born in Granada, whence he emigrated to Lunel on
 account of persecutions. He was a distinguished physician, and a
 diligent translator from Arabic into Hebrew. He translated "Duties of
@@ -201,15 +201,15 @@ Grammar and Dictionary of Ibn Ganach and other important philosophical
 works. For a more detailed account of the two Ibn Tibbons, see Gratz,
 "*Geschichte der Juden*," vi., pp. 241-2.
 
-<span id="fn_12"></span>[377:2](mhl19.htm#fr_15) The author probably
+<span id="fn_12"></span>[377:2](mhl19.htm#fr_15.md) The author probably
 refers to the circumstance that the Jews of Provence spoke and wrote
 Arabic incorrectly.
 
-<span id="fn_13"></span>[578:3](mhl19.htm#fr_16) Founded by the Calif
+<span id="fn_13"></span>[578:3](mhl19.htm#fr_16.md) Founded by the Calif
 conquerors upon the eastern bank of the Nile, a few miles north of
 Memphis. See "*La Geographie d'Aboulfeda*," pp. 162-4.
 
-<span id="fn_14"></span>[578:4](mhl19.htm#fr_17) It would seem from the
+<span id="fn_14"></span>[578:4](mhl19.htm#fr_17.md) It would seem from the
 term that the Sultan Saladin, to whom Maimonides was attached as
 body-physician, is here meant, but Gratz (vi, pp. 355, 385) is of
 opinion that it refers to Alfadhal, the grand vizier, as the Sultan was
@@ -219,9 +219,9 @@ was anxious to appoint Maimonides his physician, but that he declined
 the honor. See the authority for statement, quoted by Gratz (ibid., p.
 358).
 
-<span id="fn_15"></span>[380:5](mhl19.htm#fr_18) Corresponding to
+<span id="fn_15"></span>[380:5](mhl19.htm#fr_18.md) Corresponding to
 September 30th, 1199.
 
 ------------------------------------------------------------------------
 
-[Next: The Travels of Benjamin of Tudela](mhl20)
+[Next: The Travels of Benjamin of Tudela](mhl20.md)

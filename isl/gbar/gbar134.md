@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar133) [Next](gbar135)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar133) [Next](gbar135.md)
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ good reproofs, in order that he may cease to sin.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar135)
+[Next](gbar135.md)

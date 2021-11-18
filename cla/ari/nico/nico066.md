@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico065) 
-[Next](nico067) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico065.md) 
+[Next](nico067.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ to be practically wise without being good.
 ------------------------------------------------------------------------
 
 [Next: Chapter 13. Relation of practical wisdom to natural virtue, moral
-virtue, and the right rule](nico067)
+virtue, and the right rule](nico067.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof16)  [Next](sof18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof16)  [Next](sof18.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head15.png"></span> ![Header Chapter XV.](img/head15.png)
+<span id="img_head15.png"></span> ![Header Chapter XV.](img/head15.png.md)
 
 ## XV.
 
@@ -37,7 +37,7 @@ sun-worship, which prevailed to a great extent among the nations of
 antiquity.
 
 The Phallus was a sculptured representation of the *membrum virile*, or
-male organ of generation, [76](sof37.htm#xref_76) and the worship of it
+male organ of generation, [76](sof37.htm#xref_76.md) and the worship of it
 is said to have originated in Egypt, where, after the murder of Osiris
 by Typhon, which is symbolically to be explained as the destruction or
 deprivation of the sun's light by night, Isis, his wife, or the symbol
@@ -46,11 +46,11 @@ all the parts except the organs of generation, which myth is simply
 symbolic of the fact, that the sun having set, its fecundating and
 invigorating power had ceased. The Phallus, therefore, as the symbol of
 the male generative principle, was very universally venerated among the
-ancients, [77](sof37.htm#xref_77) and that too as a religious rite,
+ancients, [77](sof37.htm#xref_77.md) and that too as a religious rite,
 without the slightest reference to any impure or lascivious
-application. [78](sof37.htm#xref_78) He is supposed, by some
+application. [78](sof37.htm#xref_78.md) He is supposed, by some
 commentators, to be the god mentioned under the name of Baal-peor, in
-the Book of Numbers, [79](sof37.htm#xref_79) as having been worshipped
+the Book of Numbers, [79](sof37.htm#xref_79.md) as having been worshipped
 by the idolatrous Moabites. Among the eastern nations of India the same
 symbol was prevalent, under the name of "Lingam." But the Phallus or
 Lingam was a representation of the male principle only. To perfect the
@@ -74,7 +74,7 @@ Believing that the procreative and productive powers of nature might be
 conceived to exist in the same individual, they made the older of their
 deities hermaphrodite, and used the term ἀῤῥενοθέλυς, or *man-virgin*,
 to denote the union of the two sexes in the same divine
-person. [80](sof37.htm#xref_80)
+person. [80](sof37.htm#xref_80.md)
 
 Thus, in one of the Orphic Hymns, we find this line:--
 
@@ -89,7 +89,7 @@ another intelligence, the Creator of the World."
 Now, this hermaphrodism of the Supreme Divinity was again supposed to be
 represented by the sun, which was the male generative energy, and by
 nature, or the universe, which was the female prolific
-principle. [81](sof37.htm#xref_81) And this union was symbolized in
+principle. [81](sof37.htm#xref_81.md) And this union was symbolized in
 different ways, but principally by *the point within the circle*, the
 point indicating the sun, and the circle the universe, invigorated and
 fertilized by his generative rays. And in some of the Indian
@@ -129,6 +129,6 @@ been placed by the church near those days.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. The Covering of the Lodge](sof18)
+[Next: XVI. The Covering of the Lodge](sof18.md)
 
 </div>

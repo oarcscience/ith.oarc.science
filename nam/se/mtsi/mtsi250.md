@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi249)  [Next](mtsi251) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi249)  [Next](mtsi251.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ strike my head against the sky."
 
 ------------------------------------------------------------------------
 
-[Next: 51. Locust and Ant](mtsi251)
+[Next: 51. Locust and Ant](mtsi251.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv11)  [Next](rsv13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv11)  [Next](rsv13.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,7 +155,7 @@ beaked-bag.
 
 The Executive Body is the third major body of the Cao Dai
 administration. This body has three agencies-the Administrative Agency,
-the Agency for the [Propagation](errata.htm#21) of the Faith and the
+the Agency for the [Propagation](errata.htm#21.md) of the Faith and the
 Charity Agency. Each Agency has three institutes, each carrying on a
 specific task. The Charity Agency has the duty of caring for the sick by
 operating hospitals, aiding the needy, including orphans, the physically
@@ -398,9 +398,9 @@ The eye within a triangle is a symbol of the CAO DAI faith. This window is at th
 <span id="img_05200"></span>
 
 [![Map of Cao Dai Concentration in South Vietnam](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)  
+Click to enlarge](img/05200.jpg.md)  
   
 
 ------------------------------------------------------------------------
 
-[Next: X. Phat Giao Hoa Hao](rsv13)
+[Next: X. Phat Giao Hoa Hao](rsv13.md)

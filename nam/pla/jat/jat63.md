@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat62)  [Next](jat64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat62)  [Next](jat64.md) 
 
 ------------------------------------------------------------------------
 
-## 61. AN UNSUCCESSFUL EXPEDITION LED BY MAXWELL. <span id="fr_77"></span>[2](#fn_77)
+## 61. AN UNSUCCESSFUL EXPEDITION LED BY MAXWELL. <span id="fr_77"></span>[2](#fn_77.md)
 
 Fourteen men, Apache, went from there on horseback to a place called,
 Tcîcgedjinye, where they slept. The next morning they started off on
@@ -31,7 +31,7 @@ there was another lake. There too, a good many of the enemy had been
 camping. They found where the enemy had killed a horse by the edge of
 the water. A woman had died here and they had placed her below a ridge
 of rocks and piled up stones above her. <span
-id="fr_78"></span>[1](#fn_78) A Mexican who climbed up there took the
+id="fr_78"></span>[1](#fn_78.md) A Mexican who climbed up there took the
 body from the grave and then began to shout. The other Mexicans ran to
 the place. They took away all the clothes and began to shout. They also
 took many bracelets which were on her.
@@ -51,16 +51,16 @@ Cimarron not having seen the enemy.
 
 ### Footnotes
 
-<span id="fn_77"></span>[250:2](jat63.htm#fr_77) Lucien B. Maxwell who
+<span id="fn_77"></span>[250:2](jat63.htm#fr_77.md) Lucien B. Maxwell who
 controlled about 2,000,000 acres of land in northern New Mexico on which
 many Ute and Jicarilla Apache lived. Cf. Inman, Col. Henry, "The Old
 Santa Fé Trail," pp. 373-388.
 
-<span id="fn_78"></span>[251:1](jat63.htm#fr_78) There was no timber
+<span id="fn_78"></span>[251:1](jat63.htm#fr_78.md) There was no timber
 with which a platform could be built on which the body might be placed,
 as was usual with the enemy. The horse had been killed because of the
 woman's death.
 
 ------------------------------------------------------------------------
 
-[Next: 62. The Apache Meet a Texan](jat64)
+[Next: 62. The Apache Meet a Texan](jat64.md)

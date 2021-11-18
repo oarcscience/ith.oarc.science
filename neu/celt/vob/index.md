@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,24 +52,24 @@ readers.
 
 ------------------------------------------------------------------------
 
-[Title Page](vob00)  
-[Introduction](vob01)  
-[The Voyage of Bran](vob02)  
-[Notes](vob03)  
+[Title Page](vob00.md)  
+[Introduction](vob01.md)  
+[The Voyage of Bran](vob02.md)  
+[Notes](vob03.md)  
 <span id="section_000"></span>
 
 ### Appendix
 
-[I. The Conception of Mongán](vob04)  
+[I. The Conception of Mongán](vob04.md)  
 [II. A Story from which it is inferred that Mongán was Find mac Cumaill,
-and the cause of the death of Fothad Airgdech](vob05)  
-[III. A Story of Mongán](vob06)  
+and the cause of the death of Fothad Airgdech](vob05.md)  
+[III. A Story of Mongán](vob06.md)  
 [IV. These are the events that brought about the telling of 'Mongán's
-Frenzy.'](vob07)  
-[V. The Conception of Mongán and Dub-Lacha's Love for Mongán](vob08)  
-[VI. From the Annals](vob09)  
-[VII. Irische Texte iii. page 8](vob10)  
-[VIII. Irische Texte iii. p. 87](vob11)  
-[IX. From Gilla Modutu's poem Senchas Ban...](vob12)  
-[X. From Ms. Laud 613, p. 21](vob13)  
-[XI. From MS. Laud 615, p. 18.](vob14)  
+Frenzy.'](vob07.md)  
+[V. The Conception of Mongán and Dub-Lacha's Love for Mongán](vob08.md)  
+[VI. From the Annals](vob09.md)  
+[VII. Irische Texte iii. page 8](vob10.md)  
+[VIII. Irische Texte iii. p. 87](vob11.md)  
+[IX. From Gilla Modutu's poem Senchas Ban...](vob12.md)  
+[X. From Ms. Laud 613, p. 21](vob13.md)  
+[XI. From MS. Laud 615, p. 18.](vob14.md)  

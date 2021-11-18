@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](nah)  [Next](zep) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](nah)  [Next](zep.md) 
 
 ------------------------------------------------------------------------
 
@@ -216,4 +216,4 @@ the music director, on my stringed instruments.
 
 ------------------------------------------------------------------------
 
-[Next: Zephaniah](zep)
+[Next: Zephaniah](zep.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll00)  [Next](ecl01) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll00)  [Next](ecl01.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue I.--Tityrus](ecl01)
+[Next: Eclogue I.--Tityrus](ecl01.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap63) 
-[Next](bap65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap63.md) 
+[Next](bap65.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ tears. 3. And her husband saw
 
 her and said: *Wherefore art thou sad, and eatest not, and why is thy
 heart within thee cast down*? Is not thy behaviour <span
-id="fr_146"></span>[1](#fn_145) better than the ten sons of Phenenna?
+id="fr_146"></span>[1](#fn_145.md) better than the ten sons of Phenenna?
 And Anna hearkened to him and
 
 |            |
@@ -114,9 +114,9 @@ prayed.
 
 ### Footnotes
 
-<span id="fn_145"></span>[215:1](bap64.htm#fr_146) L. 3. *thy
+<span id="fn_145"></span>[215:1](bap64.htm#fr_146.md) L. 3. *thy
 behaviour*: *mores lui*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LI](bap65)
+[Next: Chapter LI](bap65.md)

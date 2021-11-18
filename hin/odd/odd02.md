@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd01)  [Next](odd03) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd01)  [Next](odd03.md) 
 
 ------------------------------------------------------------------------
 
@@ -219,7 +219,7 @@ Next to the Rakshas, the Cobra, or deadly hooded snake, plays the most
 important part in these legends as a supernatural personage. This is one
 only of the many traces still extant of that serpent-worship formerly so
 general in Western India. As Mr. Fergusson, in his work on Buddhist
-antiquities,  <span id="fr_0"></span>[1](#fn_0) has thrown much light on
+antiquities,  <span id="fr_0"></span>[1](#fn_0.md) has thrown much light on
 this curious subject, I will only now observe that the serpent-worship
 as it still exists is something more active than a mere popular
 superstition. The Cobra, unless disturbed, rarely goes far from home,
@@ -243,9 +243,9 @@ found in the Proceedings of the Asiatic Society of Bengal for February
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](odd02.htm#fr_0) Fergusson's *Tree and Serpent
+<span id="fn_0"></span>[1](odd02.htm#fr_0.md) Fergusson's *Tree and Serpent
 Worship -: Mythology and Art in India*.
 
 ------------------------------------------------------------------------
 
-[Next: The Collector's Apology](odd03)
+[Next: The Collector's Apology](odd03.md)

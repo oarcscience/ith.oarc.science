@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft35)  [Next](pft37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft35)  [Next](pft37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### MAGBANGAL  <span id="fr_116"></span>[117](pft68.htm#fn_116)
+### MAGBANGAL  <span id="fr_116"></span>[117](pft68.htm#fn_116.md)
 
 *Bukidnon* (*Mindanao*)
 
@@ -39,7 +39,7 @@ called him to come and eat, but he said:
 must have it ready for me."
 
 Then he gathered up his ten hatchets and bolos,  <span
-id="fr_117"></span>[118](pft68.htm#fn_117) a sharpening stone, and a
+id="fr_117"></span>[118](pft68.htm#fn_117.md) a sharpening stone, and a
 bamboo tube for water, and started for the hill. Upon reaching his land
 he cut some small trees to make a bench. When it was finished, he sat
 down on it and said to the bolos, "You bolos must sharpen yourselves on
@@ -86,4 +86,4 @@ know that it is time to plant their rice.
 
 ------------------------------------------------------------------------
 
-[Next: How Children Became Monkeys](pft37)
+[Next: How Children Became Monkeys](pft37.md)

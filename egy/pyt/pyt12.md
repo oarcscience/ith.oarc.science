@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt11)  [Next](pyt13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt11)  [Next](pyt13.md) 
 
 ------------------------------------------------------------------------
 
@@ -422,4 +422,4 @@ place) upon the great throne at the side of the god.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Deceased King in Heaven, Utterances 272-274.](pyt13)
+[Next: 10. The Deceased King in Heaven, Utterances 272-274.](pyt13.md)

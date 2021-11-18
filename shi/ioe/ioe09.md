@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe08) 
-[Next](ioe10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe08.md) 
+[Next](ioe10.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ when Brahmagupta uses his highly-developed algebra and makes
 astronomical observations; the twelfth, brilliant with the glory of
 Bhaskaracharya and his famous daughter, down to the nineteenth and
 twentieth centuries themselves, with Ham Chandra the mathematician, and
-Jagadis Chunder Bose the physicist. <span id="fr_0"></span>[1](#fn_0)
+Jagadis Chunder Bose the physicist. <span id="fr_0"></span>[1](#fn_0.md)
 
 In the era which we are considering, beginning with Asangha and
 Vasubandhu, the whole energy of Buddhism is thrown upon this scientific
@@ -371,9 +371,9 @@ treasure is preserved as if almost a thing of yesterday.
 
 ### Footnotes
 
-<span id="fn_0"></span>[110:1](ioe09.htm#fr_0) Author of "Response in
+<span id="fn_0"></span>[110:1](ioe09.htm#fr_0.md) Author of "Response in
 the Living and Non-Living." Longmans, 1902.
 
 ------------------------------------------------------------------------
 
-[Next: The Heian Period: 800 to 900 A.D.](ioe10)
+[Next: The Heian Period: 800 to 900 A.D.](ioe10.md)

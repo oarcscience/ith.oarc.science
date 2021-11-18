@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas015n)  [Next](jas017n)   
- \[[16. Shut up in the Pot.](jas016)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas015n)  [Next](jas017n.md)   
+ \[[16. Shut up in the Pot.](jas016.md)\]
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ magic means instead of the magician's person.
 
 ------------------------------------------------------------------------
 
-[Next: Note 17. House in the Air.](jas017n)
+[Next: Note 17. House in the Air.](jas017n.md)

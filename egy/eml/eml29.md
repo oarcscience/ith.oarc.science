@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml28)  [Next](eml30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml28)  [Next](eml30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -49,7 +49,7 @@ being set at defiance.
 Senusert II had a favourite wife called Nefert, "the beautiful", who
 appears to have been a Hittite. Her son, Senusert III, and her grandson,
 Amenemhet III, have been referred to as "new types". <span
-id="fr_115"></span>[1](#fn_115) Their faces, as is shown plainly in the
+id="fr_115"></span>[1](#fn_115.md) Their faces, as is shown plainly in the
 statuary, have distinct non-Egyptian and non-Semitic characteristics;
 they are long
 
@@ -102,10 +102,10 @@ of Egypt. Some Indian tribes of the present day worship snakes, and do
 everything they can to protect even the most deadly specimens. In Egypt
 the crocodile was similarly protected in particular localities, while in
 others it was hunted down by sportsmen. <span
-id="fr_116"></span>[1](#fn_116) We also find that in religious
+id="fr_116"></span>[1](#fn_116.md) We also find that in religious
 literature the reptile is now referred to as the friend and now as the
 enemy of the good Osiris. He brings ashore the dead body of the god to
-Isis in one legend, <span id="fr_117"></span>[2](#fn_117) and in another
+Isis in one legend, <span id="fr_117"></span>[2](#fn_117.md) and in another
 he is identified with his murderers. In the "Winged Disk" story the
 followers of Set are crocodiles and hippopotami, and are slain by Horus
 because they are "the enemies of Ra". Yet Sebek was in the revolutionary
@@ -141,7 +141,7 @@ crocodile's head, and he sometimes wears Amon plumes with the sun disk;
 he is also shown simply as a crocodile. He was familiar to the Greeks as
 Sukhos. Strabo, who visited Egypt in the Roman period, relates that he
 saw a sacred crocodile in an artificial lake at Crocodilopolis in the
-Fayum. It was quite tame <span id="fr_118"></span>[1](#fn_118) and was
+Fayum. It was quite tame <span id="fr_118"></span>[1](#fn_118.md) and was
 decorated with gold ear-rings, set with crystal, and wore bracelets on
 its fore paws. The priests opened its jaws and fed it with cakes, flesh,
 and honey wine. When the animal leapt into the water and came up at the
@@ -165,7 +165,7 @@ associated, therefore, with Sebek worship, because Sebek was the son of
 an earth goddess. He rose from Nu, the primordial deep, as the crocodile
 rose from Lake Mœris, the waters of which nourished the "earth mother",
 and caused green verdure to spring up where formerly there was but sandy
-desert. <span id="fr_119"></span>[1](#fn_119) Sebek was thus in a new
+desert. <span id="fr_119"></span>[1](#fn_119.md) Sebek was thus in a new
 sense a form of Ra, and a "radiant green sun disk". His association with
 Set was probably due to Asiatic influence, and the foreign strain in the
 royal house may have come from a district where Set was worshipped as
@@ -224,7 +224,7 @@ foreign wife, at Dashur. One is a mass of little gold flowers connected
 by gold wires, which recall the reference, in *Exodus*, xxxlx, 3, to the
 artisans who "did beat the gold into thin plates, and cut it into
 wires". The design is strengthened by large "Maltese crosses" set with
-gems. <span id="fr_120"></span>[1](#fn_120) Other pieces of
+gems. <span id="fr_120"></span>[1](#fn_120.md) Other pieces of
 Twelfth-Dynasty jewellery are similarly "innovations", and of the
 character which, long centuries afterwards, became known as Etruscan.
 But they could not have come from Europe at this period. They resemble
@@ -232,7 +232,7 @@ the work for which the Hittites were famous.
 
 The great sphinx may have also owed its origin to the influence
 exercised by the Hittites, whose emblem of power was a lion. Certain
-Egyptologists <span id="fr_121"></span>[2](#fn_121) are quite convinced
+Egyptologists <span id="fr_121"></span>[2](#fn_121.md) are quite convinced
 that it was sculptured during the reign of Amenemhet III, whose face
 they consider it resembles. Nilotic gods had animal heads with human
 bodies. The sphinx, therefore, could not have been a god of Egypt.
@@ -511,36 +511,36 @@ Yea, none returns again when he goes hence.
 
 ### Footnotes
 
-<span id="fn_115"></span>[234:1](eml29.htm#fr_115) Newberry and
+<span id="fn_115"></span>[234:1](eml29.htm#fr_115.md) Newberry and
 Garstang, and Petrie.
 
-<span id="fn_116"></span>[236:1](eml29.htm#fr_116) Herodotus says:
+<span id="fn_116"></span>[236:1](eml29.htm#fr_116.md) Herodotus says:
 "Those who live near Thebes, and the Lake Mœris, hold the crocodile in
 religious veneration. . . . Those who live in or near Elephantine make
 the beasts an article of food."
 
-<span id="fn_117"></span>[236:2](eml29.htm#fr_117) This is of special
+<span id="fn_117"></span>[236:2](eml29.htm#fr_117.md) This is of special
 interest, because Hittite gods appear upon the backs of animals.
 
-<span id="fn_118"></span>[237:1](eml29.htm#fr_118) The god was not
+<span id="fn_118"></span>[237:1](eml29.htm#fr_118.md) The god was not
 feared. It had been propitiated and became the friend of man.
 
-<span id="fn_119"></span>[238:1](eml29.htm#fr_119) When the Nile rises
+<span id="fn_119"></span>[238:1](eml29.htm#fr_119.md) When the Nile rises
 it runs, for a period, green and foul, after running red with clay. The
 crocodile may have been associated with the green water also.
 
-<span id="fn_120"></span>[239:1](eml29.htm#fr_120) The Maltese cross is
+<span id="fn_120"></span>[239:1](eml29.htm#fr_120.md) The Maltese cross is
 believed to be of Elamite origin. It is first met with in Babylon on
 seals of the Kassite period. It appears on the neolithic pottery of
 Susa.
 
-<span id="fn_121"></span>[239:2](eml29.htm#fr_121) Newberry and
+<span id="fn_121"></span>[239:2](eml29.htm#fr_121.md) Newberry and
 Garstang.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX: The Island of Enchantment](eml30)
+[Next: Chapter XIX: The Island of Enchantment](eml30.md)
 
 </div>

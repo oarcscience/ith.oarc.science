@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../twt/twt) 
-[Previous](twn)  [Next](kj) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../twt/twt.md) 
+[Previous](twn)  [Next](kj.md) 
 
 ------------------------------------------------------------------------
 
@@ -4086,4 +4086,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The life and death of King John](kj) 
+[Next: The life and death of King John](kj.md) 

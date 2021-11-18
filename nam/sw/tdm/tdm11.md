@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm10)  [Next](tdm12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm10)  [Next](tdm12.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ sights of nature, except from the stand-point. of strictest and plainest
 utilitarianism. The rainbow fascinated the boy, not through its
 brilliancy and the perfection of the arch, but because the rainbow was
 in his conception Shiuana, and a messenger from Those Above. <span
-id="fr_9"></span>[1](#fn_9) Where the ends of the luminous arch appear
+id="fr_9"></span>[1](#fn_9.md) Where the ends of the luminous arch appear
 to rest, a message from heaven is said to be deposited. No more
 favourable token could have greeted him, for although
 
@@ -1028,11 +1028,11 @@ night.
 
 ### Footnotes
 
-<span id="fn_9"></span>[195:1](tdm11.htm#fr_9) In the symbolical
+<span id="fn_9"></span>[195:1](tdm11.htm#fr_9.md) In the symbolical
 paintings of the Pueblos, the rainbow is represented usually as a
 tri-coloured arch with a head and arms at one end and with feet at the
 other. It is a female deity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](tdm12)
+[Next: Chapter X](tdm12.md)

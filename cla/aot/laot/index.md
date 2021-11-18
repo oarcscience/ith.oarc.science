@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,13 +28,13 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](laot00)    [Page
-Index](pageidx)    [Text \[Zipped\]](laottxt.zip)
+[Contents](#contents)    [Start Reading](laot00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](laottxt.zip.md)
 
 ------------------------------------------------------------------------
 
-**Philostratus** \|  [Epistles of Apollonius](../eoa/index) \| 
-[Eusebius](../toe/index)
+**Philostratus** \|  [Epistles of Apollonius](../eoa/index.md) \| 
+[Eusebius](../toe/index.md)
 
 ------------------------------------------------------------------------
 
@@ -64,14 +64,14 @@ wisdom...
 
 Apollonius was both an historical figure who is cross-referenced in
 contemporary documents, and a legendary '[Pagan
-Christ](../../../bib/cv/pch/pch61)' with all the trimmings. The 3rd
+Christ](../../../bib/cv/pch/pch61.md)' with all the trimmings. The 3rd
 century Emperor Alexander Severus revered Apollonius of Tyana, Christ,
 Abraham, Orpheus, and Alexander the Great in his private shrine. Later
 Christian writers reviled him as a sorcerer, up until the Enlightenment.
 
 There were two extra texts in the Loeb edition of Philostratus: [The
-Epistles of Apollonius of Tyana](../eoa/index), and [Eusebius' critique
-of Philostratus](../toe/index).
+Epistles of Apollonius of Tyana](../eoa/index.md), and [Eusebius' critique
+of Philostratus](../toe/index.md).
 
 ------------------------------------------------------------------------
 
@@ -79,84 +79,84 @@ of Philostratus](../toe/index).
 
 ### Volume I
 
-[Title Page](laot00)  
-[Contents](laot01)  
-[Introduction](laot02)  
+[Title Page](laot00.md)  
+[Contents](laot01.md)  
+[Introduction](laot02.md)  
 <span id="section_001"></span>
 
 ### Book I
 
-[Chapters 1-10](laot03)  
-[Chapters 11-20](laot04)  
-[Chapters 21-30](laot05)  
-[Chapters 31-40](laot06)  
+[Chapters 1-10](laot03.md)  
+[Chapters 11-20](laot04.md)  
+[Chapters 21-30](laot05.md)  
+[Chapters 31-40](laot06.md)  
 <span id="section_002"></span>
 
 ### Book II
 
-[Chapters 1-10](laot07)  
-[Chapters 11-20](laot08)  
-[Chapters 21-30](laot09)  
-[Chapters 31-40](laot10)  
-[Chapters 41-43](laot11)  
+[Chapters 1-10](laot07.md)  
+[Chapters 11-20](laot08.md)  
+[Chapters 21-30](laot09.md)  
+[Chapters 31-40](laot10.md)  
+[Chapters 41-43](laot11.md)  
 <span id="section_003"></span>
 
 ### Book III
 
-[Chapters 1-10](laot12)  
-[Chapters 11-20](laot13)  
-[Chapters 21-30](laot14)  
-[Chapters 31-40](laot15)  
-[Chapters 41-50](laot16)  
-[Chapters 51-58](laot17)  
+[Chapters 1-10](laot12.md)  
+[Chapters 11-20](laot13.md)  
+[Chapters 21-30](laot14.md)  
+[Chapters 31-40](laot15.md)  
+[Chapters 41-50](laot16.md)  
+[Chapters 51-58](laot17.md)  
 <span id="section_004"></span>
 
 ### Book IV
 
-[Chapters 1-10](laot18)  
-[Chapters 11-20](laot19)  
-[Chapters 21-30](laot20)  
-[Chapters 31-40](laot21)  
-[Chapters 41-47](laot22)  
+[Chapters 1-10](laot18.md)  
+[Chapters 11-20](laot19.md)  
+[Chapters 21-30](laot20.md)  
+[Chapters 31-40](laot21.md)  
+[Chapters 41-47](laot22.md)  
 <span id="section_005"></span>
 
 ### Book V
 
-[Chapters 1-10](laot23)  
-[Chapters 11-20](laot24)  
-[Chapters 21-30](laot25)  
-[Chapters 31-40](laot26)  
-[Chapters 41-43](laot27)  
+[Chapters 1-10](laot23.md)  
+[Chapters 11-20](laot24.md)  
+[Chapters 21-30](laot25.md)  
+[Chapters 31-40](laot26.md)  
+[Chapters 41-43](laot27.md)  
 <span id="section_006"></span>
 
 ### Volume II
 
-[Title Page](laot28)  
-[Contents](laot29)  
+[Title Page](laot28.md)  
+[Contents](laot29.md)  
 <span id="section_007"></span>
 
 ### Book VI
 
-[Chapters 1-10](laot30)  
-[Chapters 11-20](laot31)  
-[Chapters 21-30](laot32)  
-[Chapters 31-40](laot33)  
-[Chapters 41-43](laot34)  
+[Chapters 1-10](laot30.md)  
+[Chapters 11-20](laot31.md)  
+[Chapters 21-30](laot32.md)  
+[Chapters 31-40](laot33.md)  
+[Chapters 41-43](laot34.md)  
 <span id="section_008"></span>
 
 ### Book VII
 
-[Chapters 1-10](laot35)  
-[Chapters 11-20](laot36)  
-[Chapters 21-30](laot37)  
-[Chapters 31-40](laot38)  
-[Chapters 41-42](laot39)  
+[Chapters 1-10](laot35.md)  
+[Chapters 11-20](laot36.md)  
+[Chapters 21-30](laot37.md)  
+[Chapters 31-40](laot38.md)  
+[Chapters 41-42](laot39.md)  
 <span id="section_009"></span>
 
 ### Book VIII
 
-[Chapters 1-6](laot40)  
-[Chapter 7](laot41)  
-[Chapters 8-10](laot42)  
-[Chapters 11-20](laot43)  
-[Chapters 21-31](laot44)  
+[Chapters 1-6](laot40.md)  
+[Chapter 7](laot41.md)  
+[Chapters 8-10](laot42.md)  
+[Chapters 11-20](laot43.md)  
+[Chapters 21-31](laot44.md)  

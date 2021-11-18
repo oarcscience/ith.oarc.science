@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu23)  [Next](cbu25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu23)  [Next](cbu25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -23,7 +23,7 @@ Heritage
 
 <span class="small">The "Ekashloka Shastra," translated from the
 Chinese, with an analysis and notes. <span
-id="fr_117"></span>[1](#fn_117)</span>
+id="fr_117"></span>[1](#fn_117.md)</span>
 
 THE author of the original work, of which a translation is here given
 from the Chinese version, was the patriarch "Nagarjuna" (or *Lung-shu*),
@@ -195,7 +195,7 @@ refers to that which is born and acts, and which is, therefore, called
 'my body.' He who has made advancement in right perception, being in the
 midst of this acting, thinks out for himself that this is the body (or
 takes it to be the body). This acting commences in the region of the
-physical and mental operations. <span id="fr_118"></span>[1](#fn_118) In
+physical and mental operations. <span id="fr_118"></span>[1](#fn_118.md) In
 it are involved also the *Sheng-wen* and *Yuen-kioh*, who wander
 circuitously (in this lower region). Thus, when we speak of bodies, as
 one, two, or several; or of men, as one, two, or several; each is
@@ -277,7 +277,7 @@ the same in meaning. Whichever of these we speak of, the only difference
 between them is in the word *yeu*, 'to be.'
 
 "This word *yeu* is, in the original language, *subhava*. <span
-id="fr_119"></span>[1](#fn_119) It
+id="fr_119"></span>[1](#fn_119.md) It
 
 <span id="page_309">p. 309</span>
 
@@ -323,7 +323,7 @@ the Chinese translations.
 
 <span class="contnote">\[paragraph continues\]</span> The rhythmical
 parts are called "*Gâtha*," *Kiè*; in the old Chinese
-[pronunciation](errata.htm#4), *Gat*.
+[pronunciation](errata.htm#4.md), *Gat*.
 
 The author lays down as his order of procedure, that he will first
 unfold his meaning, then attack the upholders of opposite views, and
@@ -458,7 +458,7 @@ into the error of Kapila and other heretical teachers.
 Kapila, here referred to, was a remarkable personage, perhaps the most
 noted of the Indian philosophers. He founded the Sankhya school. "This
 system," says Cousin, in his *History of Modern Philosophy*, <span
-id="fr_120"></span>[1](#fn_120) "is at once a system of physics,
+id="fr_120"></span>[1](#fn_120.md) "is at once a system of physics,
 psychology, dialectics, and metaphysics. It is a universal system, a
 complete philosophy." Cousin says of Kapila that he advocated
 sensualism, and that "one of the ideas which are most opposed to
@@ -496,7 +496,7 @@ period in which he lived.
 
 Lung-shu proceeds to say that he did not write for the purpose of
 confuting such philosophers as Kapila and Uluka, <span
-id="fr_121"></span>[1](#fn_121) but for the sake of correcting and
+id="fr_121"></span>[1](#fn_121.md) but for the sake of correcting and
 confirming the views of the disciples of Buddhism.
 
 The philosopher, Uluka, I have not found mentioned by Colebrooke or
@@ -507,7 +507,7 @@ for the production of events from causes, where he asserts that the
 present proceeds from causes, and therefore the future does also, being
 in all respects similar to the present in its nature. He does not first
 make plain that the present proceeds from cause. <span
-id="fr_122"></span>[2](#fn_122)
+id="fr_122"></span>[2](#fn_122.md)
 
 <span id="page_314">p. 314</span>
 
@@ -639,7 +639,7 @@ gives substance to itself," "without action and with action," and "the
 nature which has no nature of its own."
 
 *Bhawo*, says Gogerly in his *Essay on Buddhism*, <span
-id="fr_123"></span>[1](#fn_123) is twofold, consisting of moral
+id="fr_123"></span>[1](#fn_123.md) is twofold, consisting of moral
 causative acts and the state of being. Of these, he adds, *kamma-bhawo*,
 or "moral causative acts," are merit, demerit, and all those actions
 which lead to existence. The various worlds of the Buddhist universe are
@@ -670,34 +670,34 @@ that these two things can be reconciled.
 
 ### Footnotes
 
-<span id="fn_117"></span>[302:1](cbu24.htm#fr_117) Read before the
+<span id="fn_117"></span>[302:1](cbu24.htm#fr_117.md) Read before the
 Shanghai Literary and Scientific Society, 17th November 1857.
 
-<span id="fn_118"></span>[306:1](cbu24.htm#fr_118) The "human operations
+<span id="fn_118"></span>[306:1](cbu24.htm#fr_118.md) The "human operations
 are five," wu-yin—namely, *shè*, "vision;" *sheu*, "reception;" *siang*,
-"thinking;" *hing*, "doing;" *shï*, “perception.[”](errata.htm#3)
+"thinking;" *hing*, "doing;" *shï*, “perception.[”](errata.htm#3.md)
 
-<span id="fn_119"></span>[308:1](cbu24.htm#fr_119) This word is a
+<span id="fn_119"></span>[308:1](cbu24.htm#fr_119.md) This word is a
 compound of *su*, "good," and *bháva*, one of the twelve causes "being."
 By Colebrooke and Professor Wilson it is variously translated,
 "dispositions," "sentiments," "conditions of being." *Abháva* is
 "privation" or "negation." *Prágabháva* is "present negation of what
 will be." *Anubháva* is "notion."
 
-<span id="fn_120"></span>[312:1](cbu24.htm#fr_120) Translated by O. W.
+<span id="fn_120"></span>[312:1](cbu24.htm#fr_120.md) Translated by O. W.
 Wight, vol. 1.
 
-<span id="fn_121"></span>[313:1](cbu24.htm#fr_121) *Kiai-pi-lo;* in the
+<span id="fn_121"></span>[313:1](cbu24.htm#fr_121.md) *Kiai-pi-lo;* in the
 old pronunciation, *Ka-pi-la*. *Yeu-leu-kia* (*U-lu-ka*).
 
-<span id="fn_122"></span>[313:2](cbu24.htm#fr_122) A friend has,
+<span id="fn_122"></span>[313:2](cbu24.htm#fr_122.md) A friend has,
 however, suggested to me, that he may regard this as obvious, being what
 consciousness is ever teaching us.
 
-<span id="fn_123"></span>[317:1](cbu24.htm#fr_123) Quoted in Hardy's
+<span id="fn_123"></span>[317:1](cbu24.htm#fr_123.md) Quoted in Hardy's
 *Eastern Monachism*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XX. Effect of Buddhism on the Philosophy of the Sung
-Dynasty](cbu25)
+Dynasty](cbu25.md)

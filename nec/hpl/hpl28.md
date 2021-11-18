@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl27)  [Next](hpl29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl27)  [Next](hpl29.md) 
 
 ------------------------------------------------------------------------
 
@@ -799,4 +799,4 @@ Mormo, thousand-faced moon, look favourably on our sacrifices!*
 
 ------------------------------------------------------------------------
 
-[Next: Pickman's Model (Weird Tales, 1927)](hpl29)
+[Next: Pickman's Model (Weird Tales, 1927)](hpl29.md)

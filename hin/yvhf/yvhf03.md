@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf02)  [Next](yvhf04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf02)  [Next](yvhf04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -336,7 +336,7 @@ or without power, the Trinity (Brahma—Creator, Vishnu—Preserver and
 Rudra—Destroyer) will be absorbed up to the highest reality. Brahma who
 creates by His will and along with its law, comes to an end; all the
 Akasa (matter) and the Macrocosm merge into the
-[Paramesuara](errata.htm#0) \[i.e., Parameshwara—JBH.\] (non-dual; the
+[Paramesuara](errata.htm#0.md) \[i.e., Parameshwara—JBH.\] (non-dual; the
 highest God), that which is the liberator from the delusion of illusions
 . Ono reality, above thought or speech, is the pure wisdom. People are
 always anxious to engage in such thoughts as: "This is the time for good
@@ -385,4 +385,4 @@ Thus Ram ended his story of misery and darkness, and asked for light.
 
 ------------------------------------------------------------------------
 
-[Next: How the Wise Ought to Live](yvhf04)
+[Next: How the Wise Ought to Live](yvhf04.md)

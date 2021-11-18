@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio07)  [Next](dio09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio07)  [Next](dio09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ providences.
 do we affirm that Life is superior to Being, and Wisdom to Life? Things
 with life no doubt are above things that merely exist--things sensible
 above those which merely live,--and things rational above these,--and
-the Minds <span id="fr_43"></span>[44](#fn_43) above the rational, and
+the Minds <span id="fr_43"></span>[44](#fn_43.md) above the rational, and
 are around God, and are more near to Him. Yet, things which partake of
 greater gifts from God, must needs be <span id="page_75">p. 75</span>
 <span id="ii.ii.ii.v-Page_75"></span> better and superior to the rest.
@@ -157,7 +157,7 @@ monad, every number preexists in the form of a unit, and the monad holds
 every number in itself singly. And every number is united in the monad,
 but so far as it advances from the monad, so far it is distributed and
 multiplied. And in a centre, all the lines <span
-id="fr_44"></span>[45](#fn_44) of the circle coexist within one union,
+id="fr_44"></span>[45](#fn_44.md) of the circle coexist within one union,
 and the point holds all the straight lines in itself, uniformly united,
 both to each other, and to the one source from which they proceeded, and
 in the centre itself they are completely united; but standing slightly
@@ -189,7 +189,7 @@ things being.
 <span id="ii.ii.ii.v-p16"></span>SECTION VIII.
 
 <span id="ii.ii.ii.v-p17"></span>And from the same Cause of all, are the
-higher and lower intellectual <span id="fr_45"></span>[46](#fn_45)
+higher and lower intellectual <span id="fr_45"></span>[46](#fn_45.md)
 essences of the godlike angels; and those of the souls; and the natures
 of the whole Cosmos; all things whatsoever said to be either in others,
 or by reflection. Yea, even the all holy and most honoured Powers
@@ -292,15 +292,15 @@ occasion.
 
 ### Footnotes
 
-<span id="fn_43"></span>[74:44](dio08.htm#fr_43) <span
+<span id="fn_43"></span>[74:44](dio08.htm#fr_43.md) <span
 id="ii.ii.ii.v-p7.1"></span>Angels.
 
-<span id="fn_44"></span>[78:45](dio08.htm#fr_44) <span
+<span id="fn_44"></span>[78:45](dio08.htm#fr_44.md) <span
 id="ii.ii.ii.v-p13.1"></span>i.e. the radii.
 
-<span id="fn_45"></span>[79:46](dio08.htm#fr_45) <span
+<span id="fn_45"></span>[79:46](dio08.htm#fr_45.md) <span
 id="ii.ii.ii.v-p17.1"></span>Maximus, *Scholia,* cap. 4, sec. i.
 
 ------------------------------------------------------------------------
 
-[Next: Caput VI.](dio09)
+[Next: Caput VI.](dio09.md)

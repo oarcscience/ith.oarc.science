@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku55)  [Next](tku57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku55)  [Next](tku57.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ for all truth, and the whole system of truer faith, is found therein
 
 97\. And it behoveth man to prepare the table, that he may eat in the
 three feasts of true faith, and rejoice in them. <span
-id="fr_224"></span>[1](#fn_222)
+id="fr_224"></span>[1](#fn_222.md)
 
 98\. Rabbi Schimeon said: "I attest concerning myself, before all these
 who are here present, that through all my days I have not omitted these
@@ -59,7 +59,7 @@ these (*feasts*) is the adept of perfect truth.
 
 100\. "The first feast is that of the Great Mother; the second that of
 the Holy King; and the third that of the Most Holy Ancient One, the
-Concealed with all Concealments. <span id="fr_225"></span>[2](#fn_223)
+Concealed with all Concealments. <span id="fr_225"></span>[2](#fn_223.md)
 
 101\. "And in this world, who can thoroughly follow out, through them,
 those paths?
@@ -82,7 +82,7 @@ concealed with all occultations.
 is expanded on every side.
 
 107\. "Therefore is it extended into Eden, or another Paradise, <span
-id="fr_226"></span>[1](#fn_224) and from this is Eden or Paradise formed
+id="fr_226"></span>[1](#fn_224.md) and from this is Eden or Paradise formed
 forth.
 
 108\. "And when this Head, which is concealed in the Head of the Ancient
@@ -108,19 +108,19 @@ behold It, and are turned aside."
 
 ### Footnotes
 
-<span id="fn_222"></span>[268:1](tku56.htm#fr_224) In many of the
+<span id="fn_222"></span>[268:1](tku56.htm#fr_224.md) In many of the
 ancient mysteries a *feast* was part of the ceremony, analogous to our
 Eucharist. *Verbum sapientibus*.
 
-<span id="fn_223"></span>[268:2](tku56.htm#fr_225) That is. the greatest
+<span id="fn_223"></span>[268:2](tku56.htm#fr_225.md) That is. the greatest
 triad of the Sephiroth. the Crown, King, and Queen; which finds a
 parallel in the Osiris, Isis, and Horus; the Axieros, Axiochersos, and
 Axiochersa of Lemnos and Samothrace, &c., &c.
 
-<span id="fn_224"></span>[270:1](tku56.htm#fr_226) Described in other
+<span id="fn_224"></span>[270:1](tku56.htm#fr_226.md) Described in other
 places as the Supernal Eden and the Inferior Eden.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV: Concerning the Eyes of the Most Holy Ancient
-One](tku57)
+One](tku57.md)

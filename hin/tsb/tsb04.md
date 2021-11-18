@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tsb03)  [Next](tsb05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tsb03)  [Next](tsb05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ adaptations from those in the French source.
 
 ------------------------------------------------------------------------
 
-[Next: Translation by Thoreau](tsb05)
+[Next: Translation by Thoreau](tsb05.md)

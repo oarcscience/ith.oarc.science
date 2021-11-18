@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](neh)  [Next](job) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](neh)  [Next](job.md) 
 
 ------------------------------------------------------------------------
 
@@ -727,4 +727,4 @@ mange brødre; han søkte sitt folks vel og talte til beste for hele sin
 
 ------------------------------------------------------------------------
 
-[Next: Job](job)
+[Next: Job](job.md)

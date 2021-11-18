@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)   
-[English](meta14)   
-[Previous](metal13)  [Next](metal15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index.md)   
+[English](meta14.md)   
+[Previous](metal13)  [Next](metal15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1853267902/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -873,4 +873,4 @@ mutat Horamque vocat, quae nunc dea iuncta Quirino est.
 
 ------------------------------------------------------------------------
 
-[Next: Liber Quintus Deciums](metal15)
+[Next: Liber Quintus Deciums](metal15.md)

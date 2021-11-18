@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim36)  [Next](sim38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim36)  [Next](sim38.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ The stranger wakened the old man, and said, "Come with me!"
 
 Taking their bows and arrows the old man and the boy followed the
 stranger, who led them to a long house. <span
-id="fr_4"></span>[1](#fn_4) There were many persons inside, some asleep,
+id="fr_4"></span>[1](#fn_4.md) There were many persons inside, some asleep,
 some awake. When the old man of the house met them he said to their
 guide, "Oh, you have brought them?"
 
@@ -201,8 +201,8 @@ is all we have to give," and we thank him for rain.
 
 ### Footnotes
 
-<span id="fn_4"></span>[207:1](sim37.htm#fr_4) The Indian council house.
+<span id="fn_4"></span>[207:1](sim37.htm#fr_4.md) The Indian council house.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures Of Haníshéonon](sim38)
+[Next: The Adventures Of Haníshéonon](sim38.md)

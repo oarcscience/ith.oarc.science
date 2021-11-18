@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo47)  [Next](lboo49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo47)  [Next](lboo49.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -152,4 +152,4 @@ at tibi pro meritis, opto, non candide torrens,<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy VII: The Poet Reproaches Himself For Having Failed In His
-Duty Towards His Mistress.](lboo49)
+Duty Towards His Mistress.](lboo49.md)

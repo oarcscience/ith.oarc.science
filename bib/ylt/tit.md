@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](ti2)  [Next](plm) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](ti2)  [Next](plm.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ those loving us in faith; the grace \[is\] with you all!
 
 ------------------------------------------------------------------------
 
-[Next: Philemon](plm)
+[Next: Philemon](plm.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh12)  [Next](seh14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh12)  [Next](seh14.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ Mother!"
 
 ------------------------------------------------------------------------
 
-[Next: The Festival of Ras](seh14)
+[Next: The Festival of Ras](seh14.md)

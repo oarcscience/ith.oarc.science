@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](cair08)  [Next](cair10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](cair08)  [Next](cair10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Confucianism and Its Rivals*, by Herbert A. Giles, \[1915\], at
 Intangible Textual Heritage
 
@@ -308,7 +308,7 @@ death, crossing a range of mountains *en route* for India, and holding a
 sandal in his hand; his tomb was therefore opened, and in his coffin was
 found nothing except the other sandal. His favourite theme was that true
 religion could not be learnt from books, but that man should seek and
-find the Buddha in his own heart (see [p. 240](cair10.htm#page_240)). He
+find the Buddha in his own heart (see [p. 240](cair10.htm#page_240).md). He
 had been the twenty-eighth western Patriarch; he is
 
 <span id="page_207">p. 207</span>
@@ -792,7 +792,7 @@ religion. They were not mentioned in the edict of 845, which proved such
 a blow to Buddhism and Nestorian Christianity; perhaps because they were
 less obtrusive in the propagation of their religion, a policy aided by
 the absence of anything like a commercial spirit in religious
-matters. <span id="fr_8"></span>[1](#fn_8)
+matters. <span id="fr_8"></span>[1](#fn_8.md)
 
 In 960 China was once again a united empire under the House of Sung. The
 House of T‘ang, with its three hundred years of rule (618-906), stands
@@ -919,9 +919,9 @@ greatest of all His prophets.
 
 ### Footnotes
 
-<span id="fn_8"></span>[224:1](cair09.htm#fr_8) *See Recherches sur les
+<span id="fn_8"></span>[224:1](cair09.htm#fr_8.md) *See Recherches sur les
 Musulmans Chinois*, by Prof. A. Vissière.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture VIII. A.D. 1000-1915](cair10)
+[Next: Lecture VIII. A.D. 1000-1915](cair10.md)

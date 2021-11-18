@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil47)  [Next](egil49) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil47)  [Next](egil49.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ they went down to their ships.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XLVIII. Of the banquet at earl Arnfid's.](egil49)
+[Next: CHAPTER XLVIII. Of the banquet at earl Arnfid's.](egil49.md)

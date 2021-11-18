@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc48)  [Next](sfoc50) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc48)  [Next](sfoc50.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ mysterious illness and before seven clays elapse is dead.
 
 ------------------------------------------------------------------------
 
-[Next: I Have Lost Something](sfoc50)
+[Next: I Have Lost Something](sfoc50.md)

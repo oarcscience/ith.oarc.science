@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath02)  [Next](ath04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath02)  [Next](ath04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -265,7 +265,7 @@ appears in Indian philosophy as *māyā*, and the re-incarnation of souls
 which is *avatar*. The tendency of native Greek thought, as seen in
 Democritus and other genuinely Greek thinkers, was distinctly
 materialistic, but Plato apparently incorporates some alien matter,
-probably Indian, perhaps some [Egyptian](errata.htm#0) ideas as well. We
+probably Indian, perhaps some [Egyptian](errata.htm#0.md) ideas as well. We
 know there was a transmission of oriental thought influencing Hellenism,
 but very little is known of the details. Certainly Plotinus and the
 neo-Platonists were eclectic thinkers and drew freely from oriental
@@ -284,7 +284,7 @@ understanding.
 <span class="contnote">\[paragraph continues\]</span> The knowledge that
 is suited to our situation and powers, the whole compass of moral,
 natural, and mathematical science, was neglected by the new
-[Platonists](errata.htm#1); whilst they exhausted their strength in the
+[Platonists](errata.htm#1.md); whilst they exhausted their strength in the
 verbal disputes of metaphysics, attempted to explore the secrets of the
 invisible world, and studied to reconcile Aristotle with Plato, on
 subjects of which both these philosophers were as ignorant as the rest
@@ -318,7 +318,7 @@ in with the Old Testament but does not naturally proceed from it. The
 doctrine of an Absolute Reality as the necessary cause of all that is
 variable, something like the fulcrum which Archimedes needed to move the
 world, was one to which all philosophy, and especially the
-[Platonic](errata.htm#2) school, was tending. But, as causation to some
+[Platonic](errata.htm#2.md) school, was tending. But, as causation to some
 extent implies change, this First Cause could not be regarded as
 directly creating the world, but only as the eternal source of an
 eternally proceeding emanation by means of which the power of the First
@@ -388,7 +388,7 @@ A.D. 198-211. His extant works include commentaries
 <span id="page_15">p. 15</span>
 
 on the first book of the Analytica Priora, on the Topica,
-[Meteorology](errata.htm#3), *de sensu*, the first five books of the
+[Meteorology](errata.htm#3.md), *de sensu*, the first five books of the
 Metaphysics and an abridgment of the other books of the Metaphysics, as
 well as treatises on the soul, etc. Over and over again his treatise on
 the soul and his commentaries are translated into Arabic, paraphrased,
@@ -503,7 +503,7 @@ natural meaning and draws an unwarrantable deduction from the two
 sentences "these differences must be present in the soul," and "this
 alone is immortal and eternal." It seems, however, that Alexander's
 interpretation played an important part in the formation of
-neo-[Platonic](errata.htm#4) theory, and it certainly is the key to the
+neo-[Platonic](errata.htm#4.md) theory, and it certainly is the key to the
 history of Muslim philosophy, and is not without its importance in the
 development of Christian mysticism.
 
@@ -686,7 +686,7 @@ word in scientific enquiry and
 
 <span id="page_26">p. 26</span>
 
-where the Aristotelian metaphysics and [psychology](errata.htm#5) were
+where the Aristotelian metaphysics and [psychology](errata.htm#5.md) were
 assumed as an established and unquestionable basis of knowledge. It was
 impossible for churchmen, educated in this atmosphere, to do otherwise
 than accept these principles, just as it is impossible for us to admit
@@ -1307,7 +1307,7 @@ Addit. 12154.
 
 *George*, who became "bishop of the Arabs" in 686, was himself a pupil
 of Athanasius of Balad and translated the whole logical Organon of
-Aristotle, of which his versions of the [*Categories*](errata.htm#6),
+Aristotle, of which his versions of the [*Categories*](errata.htm#6.md),
 *Hermeneutica*, and *Analytica Priora* appear in Brit. Mus. Addit.
 14659, each furnished with an introduction and commentary.
 
@@ -1475,4 +1475,4 @@ largely into Muslim hands.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Arab Period](ath04)
+[Next: Chapter II. The Arab Period](ath04.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf02)  [Next](tsf04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf02)  [Next](tsf04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -206,7 +206,7 @@ nod assent to the sign often seen on the windows of missions: "God is
 Love."
 
 <span id="img_00800"></span> ![Phallic symbols in ancient
-art](img/00800.jpg)  
+art](img/00800.jpg.md)  
 Phallic symbols in ancient art
 
 <span id="page_9">p. 9</span>
@@ -258,4 +258,4 @@ beautiful.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Primitive Man in Love and Faith](tsf04)
+[Next: Chapter II. Primitive Man in Love and Faith](tsf04.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife1) [Next](ife3)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife1) [Next](ife3.md)
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ all the above names.
 
 ------------------------------------------------------------------------
 
-[Next](ife3)
+[Next](ife3.md)

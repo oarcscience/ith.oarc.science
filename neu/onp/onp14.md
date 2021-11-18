@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp13) [Next](onp15)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp13) [Next](onp15.md)
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp13) [N
 ## THE SONG OF THE VALKYRIES <span class="small">\[DARRA THARLIOTH\]</span>
 
 “O<span class="small">N</span> Good Friday it happened in Caithness<span
-id="fr_1"></span>[1](#note_1) that a man called Dorroth went out of
+id="fr_1"></span>[1](#note_1.md) that a man called Dorroth went out of
 doors. He saw twelve persons ride toward a (stone) hut. There they were
 lost to his sight. When he came up to the hut and looked through a chink
 in the wall he saw that some women were inside and had set up a web.
@@ -23,7 +23,7 @@ horses and rode away—six to the south and six to the north.”
 for one of the most striking poems of Norse antiquity. Down to Walter
 Scott’s days it was recited in the Norn tongue by the inhabitants of
 North Ronaldsha (*Rinansey*), the northernmost of the Orkney
-Islands.<span id="fr_2"></span>[2](#note_2)
+Islands.<span id="fr_2"></span>[2](#note_2.md)
 
  As we have it, the lay is darkly prophetic of the outcome of the great
 battle of Clontarf (1014) in which some of the actors in the saga took
@@ -60,7 +60,7 @@ on wild horses to join the fray.
  The lay—which is in regular *fornyrthislag*—is handed down in the four
 main MSS of the *Niáls saga,* dating from the fourteenth to the
 seventeenth century, but seems incomplete, for all that, and is in poor
-shape.<span id="fr_3"></span>[3](#note_3) In this case it is not
+shape.<span id="fr_3"></span>[3](#note_3.md) In this case it is not
 altogether unlikely that the author was an inhabitant of the Northern
 Isles. At any rate it is well to remember that still another poetic
 prophecy—a genre more Celtic than Germanic in inspiration—viz., the
@@ -173,7 +173,7 @@ hence to battle with brandished swords!<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp15)
+[Next](onp15.md)
 
 ------------------------------------------------------------------------
 
@@ -181,10 +181,10 @@ hence to battle with brandished swords!<br />
 
 <span id="footnotes_page_72">p. 72</span>
 
-<span id="note_1"></span>[1](#fr_1) The northeasternmost district of
+<span id="note_1"></span>[1](#fr_1.md) The northeasternmost district of
 Scotland.
 
-<span id="note_2"></span>[2](#fr_2) The poem had struck the imagination
+<span id="note_2"></span>[2](#fr_2.md) The poem had struck the imagination
 of Thomas Gray, who in 1768 made a free version of it which he entitled
 *The Fatal Sisters*. In 1814, when Scott was on his voyage among the
 northern islands of Great Britain, he heard a gentleman tell that when
@@ -198,24 +198,24 @@ Enchantress” (Lockhart, *Memoirs of the Life of Sir Walter Scott,* IV,
 
 <span id="footnotes_page_73">p. 73</span>
 
-<span id="note_3"></span>[3](#fr_3) In order not to overload the
+<span id="note_3"></span>[3](#fr_3.md) In order not to overload the
 footnotes I have tacitly essayed an approximation in the translation of
 the first and second stanzas as well as in numerous other doubtful
 passages.
 
 <span id="footnotes_page_74">p. 74</span>
 
-<span id="note_4"></span>[4](#fr_4) Kenning for “battle.” The same
+<span id="note_4"></span>[4](#fr_4.md) Kenning for “battle.” The same
 conception, growing out of the interweaving of darts and arrows in the
 air, is found in the Anglo-Saxon *wīgspēda gewiofu,* “the web of
 battle-luck” (*Bēowulf* 697). The two parts of this difficult stanza are
 parallel: a web is set up, the “web-of-battle,” which is all stained
 with blood.
 
-<span id="note_5"></span>[5](#fr_5) Another kenning for “battle.” (Thing
+<span id="note_5"></span>[5](#fr_5.md) Another kenning for “battle.” (Thing
 = “meeting.”)
 
-<span id="note_6"></span>[6](#fr_6) The whole line, probably, a kenning
+<span id="note_6"></span>[6](#fr_6.md) The whole line, probably, a kenning
 for “blood.” Randvér’s banesman was Bikki, the evil counselor of
 Iormunrekk (cf. *Guthrúnarhvot,* Prose, and note 8), in whom—as in Gizur
 (*Battle of the Huns*)—we may detect Óthin, the instigator of strife
@@ -223,14 +223,14 @@ between men. “Fill” is here, probably, used in the sense of completing
 the web with woof and weft. But it might also mean “to saturate” and so,
 “to color.”
 
-<span id="note_7"></span>[7](#fr_7) The batten is the instrument used to
+<span id="note_7"></span>[7](#fr_7.md) The batten is the instrument used to
 beat home the yarn. Much also in this stanza is doubtful.
 
-<span id="note_8"></span>[8](#fr_8) The names of valkyries.
+<span id="note_8"></span>[8](#fr_8.md) The names of valkyries.
 
-<span id="note_9"></span>[9](#fr_9) Kenning for “battle-axe.”
+<span id="note_9"></span>[9](#fr_9.md) Kenning for “battle-axe.”
 
-<span id="note_10"></span>[10](#fr_10) Granting that “the web-of-darts”
+<span id="note_10"></span>[10](#fr_10.md) Granting that “the web-of-darts”
 is a kenning for “battle” (from the cloud, or web, of missiles flying
 overhead), the meaning of this uncertain line is that the <span
 id="footnotes_page_75">p. 75</span> valkyries are urging each other on
@@ -240,15 +240,15 @@ had before. Cf. Eiríkr Magnússon, *Old-lore Miscellany of Orkney* III,
 
 <span id="footnotes_page_75">p. 75</span>
 
-<span id="note_11"></span>[11](#fr_11) It is for the valkyries to decide
+<span id="note_11"></span>[11](#fr_11.md) It is for the valkyries to decide
 the fate of battle and to choose the slain: they have no need of his
 life.
 
-<span id="note_12"></span>[12](#fr_12) *I.e.,* King Brian, who was set
+<span id="note_12"></span>[12](#fr_12.md) *I.e.,* King Brian, who was set
 upon at the very end of the battle. The earl, Sigurth Hlothversson, had
 fallen earlier.
 
-<span id="note_13"></span>[13](#fr_13) A hint to the listener outside.
+<span id="note_13"></span>[13](#fr_13.md) A hint to the listener outside.
 
  
 

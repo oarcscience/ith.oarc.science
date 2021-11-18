@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp22)  [Next](shp24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp22)  [Next](shp24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ Quaestorship.
 ------------------------------------------------------------------------
 
 [Next: XXI. The Sky Tax, the Selling of All Offices, and How Border
-Armies Were Forbidden to Punish Invading Barbarians](shp24)
+Armies Were Forbidden to Punish Invading Barbarians](shp24.md)

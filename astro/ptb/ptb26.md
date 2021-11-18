@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb25)  [Next](ptb27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb25)  [Next](ptb27.md) 
 
 ------------------------------------------------------------------------
 
 ### CHAPTER XXIII
 
-### THE DISPOSITION OF THE TERMS <span id="fr_65"></span>[1](#fn_65)
+### THE DISPOSITION OF THE TERMS <span id="fr_65"></span>[1](#fn_65.md)
 
 THERE are two methods of disposing the terms of the planets, in
 reference to the dominion of the triplicities; one is Ægyptian, the
@@ -40,7 +40,7 @@ allotted by the Ægyptians to the several terms of the planets. For it is
 by no means a proper nor sufficient demonstration of accuracy that the
 aggregate sum of all the numbers of every single planet amounts to the
 precise total requiring to be divided into portions of time; <span
-id="fr_66"></span>[2](#fn_66) since, even if it be admitted that this
+id="fr_66"></span>[2](#fn_66.md) since, even if it be admitted that this
 total, collected from every single star, is correctly asserted by the
 Ægyptians, it may still be objected that the same total, so collected by
 them, may be found in many other ways by
@@ -54,9 +54,9 @@ place, these persons are guided by the vulgar opinion of the plane
 heights of ascension, which is totally foreign to truth, and according
 to which, in the parallel of Lower Ægypt, the signs of Virgo and Libra
 would ascend each in thirty-eight degrees and a third, <span
-id="fr_67"></span>[1](#fn_67) and Leo and Scorpio each in thirty-five
+id="fr_67"></span>[1](#fn_67.md) and Leo and Scorpio each in thirty-five
 degrees; when it is, on the contrary, shown by the Tables, <span
-id="fr_68"></span>[2](#fn_68) that the latter two signs occupy in their
+id="fr_68"></span>[2](#fn_68.md) that the latter two signs occupy in their
 several ascensions more than thirty-five degrees each, but Virgo and
 Libra less. It should further be observed, that those who support this
 opinion seem (by so doing) not only to dispute the quantity of the terms
@@ -155,7 +155,7 @@ chapter.
 
 ### Footnotes
 
-<span id="fn_65"></span>[32:1](ptb26.htm#fr_65) In reference to the
+<span id="fn_65"></span>[32:1](ptb26.htm#fr_65.md) In reference to the
 terms of the planets, Placidus has these words (according to Cooper's
 translation): "The dignity of the planets in the signs and their parts,
 which are called the bounds and terminations" (*quasi*, terms), "have a
@@ -166,17 +166,17 @@ in the philosophy of the heavens, these are found to agree so well with
 the Ægyptian boundaries" (terms), "that they are highly deserving of
 admiration."
 
-<span id="fn_66"></span>[32:2](ptb26.htm#fr_66) This total is the 360
+<span id="fn_66"></span>[32:2](ptb26.htm#fr_66.md) This total is the 360
 degrees of the zodiac, requiring to be divided according to
 correspondent portions of the equator; by which all time is reckoned.
 
-<span id="fn_67"></span>[33:1](ptb26.htm#fr_67) The degrees here
+<span id="fn_67"></span>[33:1](ptb26.htm#fr_67.md) The degrees here
 mentioned are degrees of the equator.
 
-<span id="fn_68"></span>[33:2](ptb26.htm#fr_68) See, in the Appendix, an
+<span id="fn_68"></span>[33:2](ptb26.htm#fr_68.md) See, in the Appendix, an
 extract from these tables; the whole of which are to be found in the
 Almagest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. The Terms According to Ptolemy](ptb27)
+[Next: Chapter XXIV. The Terms According to Ptolemy](ptb27.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp91)  [Next](prp93) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp91)  [Next](prp93.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Cilician stole Priapus himself.
 
 ------------------------------------------------------------------------
 
-[Next: 93. Carved me no rustic boor his artless sickle a-plying](prp93)
+[Next: 93. Carved me no rustic boor his artless sickle a-plying](prp93.md)

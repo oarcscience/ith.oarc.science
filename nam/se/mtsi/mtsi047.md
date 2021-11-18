@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi046)  [Next](mtsi048) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi046)  [Next](mtsi048.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Rabbit's back and jerked the skin from his body.
 
 ------------------------------------------------------------------------
 
-[Next: 46. Rabbit Gets a Turkey For Wildcat](mtsi048)
+[Next: 46. Rabbit Gets a Turkey For Wildcat](mtsi048.md)

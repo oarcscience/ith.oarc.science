@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad13)  [Next](mrad15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad13)  [Next](mrad15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -23,9 +23,9 @@ Heritage
 process of psychoanalysis has a strong color sense, and wanted to be a
 painter. So we note that she "gets" colors and names them correctly.
 Here is my drawing of what I meant to be a bouquet of pink roses ([figs.
-46, 46a](#img_fig046)):
+46, 46a](#img_fig046).md):
 
-<span id="img_fig046"></span> ![Fig. 46, Fig, 46a](img/fig046.jpg)
+<span id="img_fig046"></span> ![Fig. 46, Fig, 46a](img/fig046.jpg.md)
 
 Or take this case of a lobster. Craig's comment was: "Gorgeous colors,
 red and greenish tinges." Apparently I had failed to decide whether I
@@ -39,22 +39,22 @@ she sees this about to be made public, she is embarrassed by her bad
 spelling; but she says: "Please do not overlook the fact that a
 chameleon is a reptile—and so is a lobster." I dutifully quote her, even
 though her zoology is even worse than her spelling! ([figs. 47,
-47a](#img_fig047)):
+47a](#img_fig047).md):
 
-<span id="img_fig047"></span> ![Fig. 47, Fig. 47a](img/fig047.jpg)
+<span id="img_fig047"></span> ![Fig. 47, Fig. 47a](img/fig047.jpg.md)
 
 While we are on the "reptiles," I include this menacing crab, which may
 have got hold of little Mary Craig's toe on the beach of the Mississippi
-Sound ([fig. 48](#img_fig048)):
+Sound ([fig. 48](#img_fig048).md):
 
-<span id="img_fig048"></span> ![Fig. 48](img/fig048.jpg)
+<span id="img_fig048"></span> ![Fig. 48](img/fig048.jpg.md)
 
 <span id="page_106">p. 106</span>
 
 For the crab, Craig made two drawings, on opposite sides of the paper
-([figs. 48a, 48b](#img_fig048a)):
+([figs. 48a, 48b](#img_fig048a).md):
 
-<span id="img_fig048a"></span> ![Fig. 48a, Fig. 48b](img/fig048a.jpg)
+<span id="img_fig048a"></span> ![Fig. 48a, Fig. 48b](img/fig048a.jpg.md)
 
 The comments on the above read: "Wings, or fingers—wing effect, but no
 feathers, things like fingers instead of feathers. Then many little dots
@@ -76,30 +76,30 @@ We shall note several other cases of this sort of intrusion of things I
 did not draw, but which I had before me while drawing.
 
 Also anything with metal or shine seems to stand a good chance of being
-"got." For example, these nose-glasses ([figs. 49, 49a](#img_fig049)):
+"got." For example, these nose-glasses ([figs. 49, 49a](#img_fig049).md):
 
-<span id="img_fig049"></span> ![Fig. 49, Fig. 49a](img/fig049.jpg)
+<span id="img_fig049"></span> ![Fig. 49, Fig. 49a](img/fig049.jpg.md)
 
 The comment reads: "Opalescent shine or gleam. Also peafowl."
 
 Or again, a belt-buckle; my wife writes the word "shines" ([figs. 50,
-50a](#img_fig050)):
+50a](#img_fig050).md):
 
-<span id="img_fig050"></span> ![Fig. 50, Fig. 50a](img/fig050.jpg)
+<span id="img_fig050"></span> ![Fig. 50, Fig. 50a](img/fig050.jpg.md)
 
 <span id="page_108">p. 108</span>
 
 Or this very busy alarm clock—she writes the same word "shines" ([figs.
-51, 51a](#img_fig051)):
+51, 51a](#img_fig051).md):
 
-<span id="img_fig051"></span> ![Fig. 51, Fig. 51a](img/fig051.jpg)
+<span id="img_fig051"></span> ![Fig. 51, Fig. 51a](img/fig051.jpg.md)
 
 She has got at least part of a watch whenever one has been presented.
-You remember the one Bob drew ([fig. 17](mrad08.htm#img_fig017)). There
+You remember the one Bob drew ([fig. 17](mrad08.htm#img_fig017).md). There
 was another in series thirty-three; Craig made a crude drawing and
-added: "Shines, glass or metal" ([figs. 52, 52a](#img_fig052)):
+added: "Shines, glass or metal" ([figs. 52, 52a](#img_fig052).md):
 
-<span id="img_fig052"></span> ![Fig. 52, Fig. 52a](img/fig052.jpg)
+<span id="img_fig052"></span> ![Fig. 52, Fig. 52a](img/fig052.jpg.md)
 
 Also, on the automobile ride to Pasadena, series three, there was a
 watch-face among the drawings, and Craig drew the angle of the hands,
@@ -117,9 +117,9 @@ to be the watch, and it was."
 
 And here is a fountain. You see that it appears to be in a tub, and is
 so drawn by Craig. But you note that the "shine" has been got. "These
-shine!" ([figs. 53, 53a](#img_fig053)):
+shine!" ([figs. 53, 53a](#img_fig053).md):
 
-<span id="img_fig053"></span> ![Fig. 53, Fig. 53a](img/fig053.jpg)
+<span id="img_fig053"></span> ![Fig. 53, Fig. 53a](img/fig053.jpg.md)
 
 <span id="page_110">p. 110</span>
 
@@ -127,9 +127,9 @@ Another instance, even more vivid. I made a poor attempt to draw a bass
 tuba, as one sees them on the stage—a lot of jazz musicians dressed up
 in white duck, and a row of big brass and nickel horns, polished to
 blind your eyes. See what Craig drew, and also what she wrote ([figs.
-54, 54a](#img_fig054)):
+54, 54a](#img_fig054).md):
 
-<span id="img_fig054"></span> ![Fig. 54, Fig 54a](img/fig054.jpg)  
+<span id="img_fig054"></span> ![Fig. 54, Fig 54a](img/fig054.jpg.md)  
 Fig. 54, Fig 54a
 
 The comments, continued on the other side of the sheet, are: "Dull gold
@@ -146,18 +146,18 @@ which she describes as "Egyptian." I don't know if my pillar is real
 
 <span class="contnote">\[paragraph continues\]</span> Egyptian, but it
 seems so to me, and evidently to my wife, for you note all the artistry
-it inspired ([figs. 55, 55a](#img_fig055)):
+it inspired ([figs. 55, 55a](#img_fig055).md):
 
-<span id="img_fig055"></span> ![Fig. 55, Fig. 55a](img/fig055.jpg)
+<span id="img_fig055"></span> ![Fig. 55, Fig. 55a](img/fig055.jpg.md)
 
 Sometimes Craig will embody the feeling in some new form of her own
 invention; as for example, when I draw an old-fashioned cannon on
 wheels, and she writes: "Black Napoleon hat and red military coat." I
 draw a running fox —well drawn, because I copy it from a picture; she
 rises to the occasion with two crossed guns, and a hunting horn with a
-lot of musical notes coming out of it ([figs. 56, 56a](#img_fig056)):
+lot of musical notes coming out of it ([figs. 56, 56a](#img_fig056).md):
 
-<span id="img_fig056"></span> ![Fig. 56, Fig. 56a](img/fig056.jpg)
+<span id="img_fig056"></span> ![Fig. 56, Fig. 56a](img/fig056.jpg.md)
 
 I draw an auto, and she replies with the hub and spokes of a wheel. Not
 satisfied with this,
@@ -167,10 +167,10 @@ satisfied with this,
 she sets it aside, and tries again a little later—without looking at the
 original drawing—and this time she produces a horn, with indication of a
 noise. I give both her drawings, which are on two sides of the same slip
-of paper ([figs. 57a, 57b](#img_fig057)):
+of paper ([figs. 57a, 57b](#img_fig057).md):
 
-<span id="img_fig057"></span> ![Fig. 57a, Fig. 57b](img/fig057.jpg)
+<span id="img_fig057"></span> ![Fig. 57a, Fig. 57b](img/fig057.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](mrad15)
+[Next: Chapter XIV](mrad15.md)

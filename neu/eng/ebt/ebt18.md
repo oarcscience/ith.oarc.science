@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt17)  [Next](ebt19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt17)  [Next](ebt19.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ sighting mound.
 
 ------------------------------------------------------------------------
 
-[Next: Traders' Roads](ebt19)
+[Next: Traders' Roads](ebt19.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](sws04)  [Next](sws06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](sws04)  [Next](sws06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -47,25 +47,25 @@ is dug out of the earth about five feet
 
 <span id="img_00601"></span> <span align="CENTER"> [![BEN HOLDS SPOT IN
 FRONTOF MARIA ANTONIA'S SHADE](tn/00601.jpg)  
-Click to enlarge](img/00601.jpg)  
+Click to enlarge](img/00601.jpg.md)  
 BEN HOLDS SPOT IN FRONTOF MARIA ANTONIA'S SHADE  
 </span>
 
 <span id="img_00601"></span> <span align="CENTER"> [![MY
 HOUSE](tn/00601.jpg)  
-Click to enlarge](img/00601.jpg)  
+Click to enlarge](img/00601.jpg.md)  
 MY HOUSE  
 </span>
 
 <span id="img_00700"></span> <span align="CENTER"> [![MARIE AND ATLNABA
 RIG THE WARP-FRAME](tn/00700.jpg)  
-Click to enlarge](img/00700.jpg)  
+Click to enlarge](img/00700.jpg.md)  
 MARIE AND ATLNABA RIG THE WARP-FRAME  
 </span>
 
 <span id="img_00701"></span> <span align="CENTER"> [![ATLNABA STRINGS
 WARP](tn/00701.jpg)  
-Click to enlarge](img/00701.jpg)  
+Click to enlarge](img/00701.jpg.md)  
 ATLNABA STRINGS WARP  
 </span>
 
@@ -345,4 +345,4 @@ With beauty all around me I lie down.*
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Tension](sws06)
+[Next: Chapter III: Tension](sws06.md)

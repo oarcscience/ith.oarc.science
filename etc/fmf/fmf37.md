@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf36)  [Next](fmf38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf36)  [Next](fmf38.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ MORAL: To insure Peace of Mind, ignore the Rules and Regulations.
 
 ------------------------------------------------------------------------
 
-[Next: The Fable of The Low-Down Expert on the Subject of Babies](fmf38)
+[Next: The Fable of The Low-Down Expert on the Subject of Babies](fmf38.md)

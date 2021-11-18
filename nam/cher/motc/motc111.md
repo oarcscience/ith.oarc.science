@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc110) 
-[Next](motc112) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc110.md) 
+[Next](motc112.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ All the old things are gone now and the Indians are different.
 
 ------------------------------------------------------------------------
 
-[Next: 112. The Ignorant Housekeeper](motc112)
+[Next: 112. The Ignorant Housekeeper](motc112.md)

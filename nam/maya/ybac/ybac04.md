@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac03)  [Next](ybac05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac03)  [Next](ybac05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Gates, \[1937\], at Intangible Textual Heritage
 <span id="img_map"></span>
 
 [![](tn/map.jpg)  
-Click to enlarge](img/map.jpg)
+Click to enlarge](img/map.jpg.md)
 
 **Key to above Map**
 
@@ -54,4 +54,4 @@ Pánuco.
 
 ------------------------------------------------------------------------
 
-[Next: I. Description of Yucatan. Variety of Seasons](ybac05)
+[Next: I. Description of Yucatan. Variety of Seasons](ybac05.md)

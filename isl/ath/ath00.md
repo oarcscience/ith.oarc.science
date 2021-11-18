@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](ath01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](ath01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -30,4 +30,4 @@ purpose.
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](ath01)
+[Next: Foreword](ath01.md)

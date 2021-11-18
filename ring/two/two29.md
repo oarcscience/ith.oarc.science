@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two28)  [Next](two30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two28)  [Next](two30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -254,7 +254,7 @@ and the fault on't not in fortune but in ourselves, that could not frame
 ourselves to our fortune"; that at last with heavy hearts they consented
 to do her bidding.
 
-Without more ado, was a parley called, [Mevrian](errata.htm#1) speaking
+Without more ado, was a parley called, [Mevrian](errata.htm#1.md) speaking
 for herself from a high window opening on the court and Gro for
 Corinius. In which parley it was articled that she should render up the
 tower; and that the fighting men which were within should have peace and
@@ -276,4 +276,4 @@ Krothering. So, under Mevrian's strait commands, they departed.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV. A King in Krothering](two30)
+[Next: XXIV. A King in Krothering](two30.md)

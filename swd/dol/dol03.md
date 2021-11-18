@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dol02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dol02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402179510/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402179510/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ be reformed, for without them he cannot perform repentance, he cannot
 fight against evils, and afterwards bring forth fruits worthy of
 repentance. Now as it is from the Lord that man possesses freedom and
 reason, and as man acts from them, it follows that he does not act from
-himself, but as from himself. <span id="fr_3"></span>[101-1](#fn_3)
+himself, but as from himself. <span id="fr_3"></span>[101-1](#fn_3.md)
 
 <span class="margnote"><span id="102.">102.</span></span>
 
@@ -211,7 +211,7 @@ charity, but are either its signs, its benefactions, or its obligations.
 
 ### Footnotes
 
-<span id="fn_3"></span>[101-1](dol03.htm#fr_3) That man has freedom from
+<span id="fn_3"></span>[101-1](dol03.htm#fr_3.md) That man has freedom from
 the Lord, see above (n. 19, 20); and in the work on Heaven and Hell (n.
 589-596, and n. 597-603). What freedom is, see the Doctrine of the New
 Jerusalem, published in London in 1758 (n. 141-149).

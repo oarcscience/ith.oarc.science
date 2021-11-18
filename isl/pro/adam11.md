@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam10)  [Next](adam12) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam10)  [Next](adam12.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ guide"(Al-Ra'd: 33)
 
 ------------------------------------------------------------------------
 
-[Next: Of what was the dog created](adam12)
+[Next: Of what was the dog created](adam12.md)

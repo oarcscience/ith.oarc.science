@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt39)  [Next](blt41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt39)  [Next](blt41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -338,7 +338,7 @@ id="img_26500"></span>
 
 |                                   |
 |-----------------------------------|
-| ![MEDICINE LODGE.](img/26500.jpg) |
+| ![MEDICINE LODGE.](img/26500.jpg.md) |
 
 the rising sun. Two stand in front of the Medicine Lodge, and two behind
 it. The two nearest the Medicine Lodge are built one day, and the others
@@ -464,7 +464,7 @@ Before the coming of the whites, the Blackfeet used to smoke the leaves
 of a plant which they call *na-wuh'-to-ski*, and which is said to have
 been received long, long ago from a medicine beaver. It was used unmixed
 with any other plant. The story of how this came to the tribe is told
-elsewhere. <span id="fr_34"></span>[1](#fn_34) This tobacco is no longer
+elsewhere. <span id="fr_34"></span>[1](#fn_34.md) This tobacco is no longer
 planted by the Piegans, nor by the Bloods, though it is said that an old
 Blackfoot each year still goes through the ceremony, and raises a
 little. The plant grows about ten inches high and has a long seed stalk
@@ -643,7 +643,7 @@ sandy country called the Sand Hills, and there all the shadows of the
 deceased good Blackfeet are congregated. The shadows of those who in
 this world led wicked lives are not allowed to go there. After death,
 these wicked persons take the shape of ghosts (*Sta-au´* <span
-id="fr_35"></span>[1](#fn_35)), and are compelled ever after to remain
+id="fr_35"></span>[1](#fn_35).md), and are compelled ever after to remain
 near the place where they died. Unhappy themselves, they envy those who
 are happy, and continually prowl about the lodges of the living, seeking
 to do them some injury. Sometimes they tap on the lodge skins and
@@ -693,7 +693,7 @@ example of this is
 
 <span id="page_275">p. 275</span>
 
-seen in the story of E-kūs´-kini, [p. 90](blt14.htm#page_90). Owls are
+seen in the story of E-kūs´-kini, [p. 90](blt14.htm#page_90.md). Owls are
 thought to be the ghosts of medicine men.
 
 The Blackfeet do not consider the Sand Hills a happy hunting ground.
@@ -717,12 +717,12 @@ tranquilly, quietly pass away.
 
 ### Footnotes
 
-<span id="fn_34"></span>[268:1](blt40.htm#fr_34) The Beaver Medicine, p.
+<span id="fn_34"></span>[268:1](blt40.htm#fr_34.md) The Beaver Medicine, p.
 117.
 
-<span id="fn_35"></span>[273:1](blt40.htm#fr_35) The human skeleton is
+<span id="fn_35"></span>[273:1](blt40.htm#fr_35.md) The human skeleton is
 also called *Sta-au´, i.e.* ghost. Compare Cheyenne *Mis-tai´*, ghost.
 
 ------------------------------------------------------------------------
 
-[Next: Medicine Pipes And Healing](blt41)
+[Next: Medicine Pipes And Healing](blt41.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes18)  [Next](mes20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes18)  [Next](mes20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,14 +21,14 @@ Textual Heritage
 ### IV.
 
 <span id="img_m05500"></span> ![Another Jewish King, Persecutor of
-Christians.](img/m05500.jpg)
+Christians.](img/m05500.jpg.md)
 
 <span class="smallcaps">A second</span> Jewish king, descendant of the
 first,  
 To persecute the Christians showed hate's fiercest thirst.  
 If information's sought about this wicked king,  
 That chapter of the Qur’ān read: "Heaven's Girdle-Ring." <span
-id="fr_121"></span>[1](#fn_120)  
+id="fr_121"></span>[1](#fn_120.md)  
 A sorry rite it was the first had introduced;  
 With cruel zeal this wicked rite the last abused.
 
@@ -43,8 +43,8 @@ Are cursed as soon as born; no lot more full of gloom.
 How many springs burst forth, one salt, the other sweet;  
 Their savour changes, while the days and nights compete.  
 The good are promised their inheritance aloft,  
-Of waters sweet; <span id="fr_122"></span>[2](#fn_121) in Scripture
-mentioned oft and oft. <span id="fr_123"></span>[3](#fn_122)  
+Of waters sweet; <span id="fr_122"></span>[2](#fn_121.md) in Scripture
+mentioned oft and oft. <span id="fr_123"></span>[3](#fn_122.md)  
 The seeker's wish, if rightly we consider it,  
 A scintillation is of flame from holy writ.
 
@@ -97,7 +97,7 @@ Stains,—moral, or as dyes,—from gross impurities.
 
 "*God's Baptism*" is the name of all that's good in man;  
 "*The curse of God*," of all that's evil in our plan. <span
-id="fr_124"></span>[1](#fn_123)  
+id="fr_124"></span>[1](#fn_123.md)  
 In which of these two seas our streamlets may subside,  
 They but return into the source from whence their tide.  
 From mountain-tops, swift torrents rushing down apace.  
@@ -108,7 +108,7 @@ Beside a fire a hideous idol he did make, <span class="margnote"><span
 id="an_30">30</span></span>  
 And proclamation ran: "Whoever ’d save his soul,  
 This idol worships; or in fire he's burnt to coal." <span
-id="fr_125"></span>[2](#fn_124)  
+id="fr_125"></span>[2](#fn_124.md)  
 Thus having made his hate an idol to himself,  
 A second idol straightway he invents, this elf.
 
@@ -147,7 +147,7 @@ Not easy to root out the flesh; too hard, I fear.
 Would see the picture of the flesh, inquiring youths?  
 <span class="margnote"><span id="an_45">45</span></span> Description
 read of hell, with seven yawning mouths. <span
-id="fr_126"></span>[1](#fn_125)
+id="fr_126"></span>[1](#fn_125.md)
 
 From each soul's flesh comes forth a special mode of guile.  
 Each guile, a whirlpool ready Pharaoh's hosts to spoil.  
@@ -155,7 +155,7 @@ In Moses, and in Moses’ God, seek refuge then.
 Abandon not God's faith for Pharaohs and their men.  
 The one true God adore; in Ahmed's faith believe.  
 Thy soul and body save,—from Abū-Dahl retrieve. <span
-id="fr_127"></span>[2](#fn_126)  
+id="fr_127"></span>[2](#fn_126.md)  
 The Jew a Christian mother to that idol brought.  
 An infant in her arms; the fire with blazes fraught.  
 "Fall down and worship;" cried he, "senseless stock adore;  
@@ -181,7 +181,7 @@ Thou’lt here perceive how saints hold converse with the Lord.
 Come in; and witness water blazing high, as fire.  
 This is a world where flame like water is;—not dire.  
 Come. Look on miracles for blessed Abr’am wrought; <span
-id="fr_128"></span>[1](#fn_127)  
+id="fr_128"></span>[1](#fn_127.md)  
 Whose furnace changed to gardens, out of firewood brought.  
 Death then I underwent, when I was born of thee.  
 The fear of death swept o’er me, ere my eyes could see.  
@@ -209,7 +209,7 @@ The Great King here His bounteous table's spread for me.
 <span id="page_m60">p. 60</span>
 
 Come in; come in! All of you, saints of God, elect!  
-Resigned ones! <span id="fr_129"></span>[1](#fn_128) Faith's cup of
+Resigned ones! <span id="fr_129"></span>[1](#fn_128.md) Faith's cup of
 martyrdom select!  
 Come in! Flock in; in crowds; as moths around a light!  
 <span class="margnote"><span id="an_70">70</span></span> This year has
@@ -261,7 +261,7 @@ The latter end of all things man should scan awhile.
 Wherever water flows, the fields are fresh and green.  
 Tears followed are by grace;—as all the prophets ween.  
 Then imitate the water-wheel, that groans and weeps. <span
-id="fr_130"></span>[1](#fn_129)  
+id="fr_130"></span>[1](#fn_129.md)  
 By prayers, and moans, and tears, a man his heart pure keeps.  
 Wouldst thou shed tears? Feel pity, when thou meetest woe.  
 Wouldst mercy find? Show mercy, when men bow them low. <span
@@ -275,7 +275,7 @@ Thou sparest not thy worshippers, the Magian race.
 Whence comes it; these who spurn thee, Christians, meet with grace?  
 Thou never wast, O fire, for patience noted here.  
 Why burn’st thou not? What is there? Hast thou lost thy power?  
-Is this eye-binding? <span id="fr_131"></span>[2](#fn_130) Is it,
+Is this eye-binding? <span id="fr_131"></span>[2](#fn_130.md) Is it,
 rather, reason's blind?  
 How is’t thy flames consume not all their hated kind? <span
 class="margnote"><span id="an_95">95</span></span>
@@ -348,7 +348,7 @@ Thou’lt see, my son, are both from God. Look well, forsooth. <span
 class="margnote"><span id="an_120">120</span></span>  
 Were not the wind aware of God's almighty power,  
 How had it ever blown the blast of ‘Ad's <span
-id="fr_132"></span>[1](#fn_131) last hour?  
+id="fr_132"></span>[1](#fn_131.md) last hour?  
 Around his Muslims Hal a saving circle drew.  
 The wind within that mystic circuit softly blew.  
 While all that were beyond were dashed to pieces soon.  
@@ -378,16 +378,16 @@ The Red Sea waves, all raging by divine command,
 The host of Israel knew; but Pharaoh's armies drown’d.  
 The earth, again, wide gaping at Jehovah's word,  
 Did Korah and his wealth devour; but Moses spared. <span
-id="fr_133"></span>[1](#fn_132)
+id="fr_133"></span>[1](#fn_132.md)
 
 In Jesu's hand, warmed with his breath, the fictile clay  
 As living birds arose, spread wing, and flew away. <span
-id="fr_134"></span>[2](#fn_133)  
+id="fr_134"></span>[2](#fn_133.md)  
 Thy lauds and praises, too, breath from thy frame account.  
 Sincerity them vivifies; to heaven they mount.
 
 The rock of Sion danced at sight of Moses’ God <span
-id="fr_135"></span>[3](#fn_134)  
+id="fr_135"></span>[3](#fn_134.md)  
 <span class="margnote"><span id="an_135">135</span></span> As perfect
 cenobite; its faults were all removed.  
 What wonder if a hill should dance and saint become?  
@@ -477,66 +477,66 @@ Delusion will thee plunge headlong into hell's pit.
 
 ### Footnotes
 
-<span id="fn_120"></span>[m55:1](mes19.htm#fr_121) Qur’ān, chap. lxxxv.,
+<span id="fn_120"></span>[m55:1](mes19.htm#fr_121.md) Qur’ān, chap. lxxxv.,
 the name of which literally means "*the Towers*," but is also applied to
 the *Signs of the Zodiac*. These Christians were the people of Nejrān in
 south-western Arabia; their persecutor Dhū-Nuwās, a Jew, king of Yaman,
 some time before Muhammad.
 
-<span id="fn_121"></span>[m55:2](mes19.htm#fr_122) "Gardens beneath
+<span id="fn_121"></span>[m55:2](mes19.htm#fr_122.md) "Gardens beneath
 which rivers flow" is a frequently recurring expression in the Qur’ān.
 Some have special names.
 
-<span id="fn_122"></span>[m55:3](mes19.htm#fr_123) See Qur’ān xxxv. 29:
+<span id="fn_122"></span>[m55:3](mes19.htm#fr_123.md) See Qur’ān xxxv. 29:
 "Then we caused" thee "to inherit the Scripture."
 
-<span id="fn_123"></span>[m57:1](mes19.htm#fr_124) In Qur’ān ii. 132,
+<span id="fn_123"></span>[m57:1](mes19.htm#fr_124.md) In Qur’ān ii. 132,
 Islām is termed "*God's Baptism*." In ii. 156, and again in vii. 42, and
 xi. 21, "God's curse" is invoked on sinners.
 
-<span id="fn_124"></span>[m57:2](mes19.htm#fr_125) This is the story
+<span id="fn_124"></span>[m57:2](mes19.htm#fr_125.md) This is the story
 alluded to in Qur’ān lxxxv., quoted above. In traditions, Dhū-Nuwās was
 the name of the Jewish king of Yaman, who burnt the Christians of Nejrān
 in a fiery trench on their refusing to forsake their faith. The idol is
 imaginary; from Nebuchadnezzar.
 
-<span id="fn_125"></span>[m58:1](mes19.htm#fr_126) Qur’ān xvi. 45;
+<span id="fn_125"></span>[m58:1](mes19.htm#fr_126.md) Qur’ān xvi. 45;
 xxxvii. 72; xl. 76; speaks of the "Gates of Hell;" and a commentary to
 she last says they are held to be seven.
 
-<span id="fn_126"></span>[m58:2](mes19.htm#fr_127) Abū-Jahl was a
+<span id="fn_126"></span>[m58:2](mes19.htm#fr_127.md) Abū-Jahl was a
 surname given by Muhammed to one of his most inveterate enemies of the
 Quraysh, killed at Badr. The word means: "*Father of Ignorance*," and
 here indicates *fleshly pride*. He had formerly borne the surname of
 Abū-’l-Hakem, which means: *Father of the Arbitrator*.
 
-<span id="fn_127"></span>[m59:1](mes19.htm#fr_128) In Qur’ān xxi. 69, is
+<span id="fn_127"></span>[m59:1](mes19.htm#fr_128.md) In Qur’ān xxi. 69, is
 related the miracle by which Abraham was saved from the fire into which
 he was cast by Nimrod for his refusal to worship an image.
 
-<span id="fn_128"></span>[m60:1](mes19.htm#fr_129) The word "*Muslim*,"
+<span id="fn_128"></span>[m60:1](mes19.htm#fr_129.md) The word "*Muslim*,"
 whence the corruption *Moslem*, means, in Arabic, "*one who acquiesces
 in the truth and will of God*." As such, Muslims have existed under
 every dispensation.
 
-<span id="fn_129"></span>[m61:1](mes19.htm#fr_130) The creaking, leaky
+<span id="fn_129"></span>[m61:1](mes19.htm#fr_130.md) The creaking, leaky
 water-wheel, the Persian wheel, is well known in the East.
 
-<span id="fn_130"></span>[m61:2](mes19.htm#fr_131) "Eye-binding" is a
+<span id="fn_130"></span>[m61:2](mes19.htm#fr_131.md) "Eye-binding" is a
 name for sorcery. The spectator is supposed to have his sight
 spell-bound, so as not to see what is really done.
 
-<span id="fn_131"></span>[m63:1](mes19.htm#fr_132) ‘Ad, a pre-Semitic,
+<span id="fn_131"></span>[m63:1](mes19.htm#fr_132.md) ‘Ad, a pre-Semitic,
 perhaps Turanian, people in south-eastern Arabia, often mentioned in the
 Qur’ān. They refused to believe the prophet Hūd (supposed to be
 *Heber*), and were destroyed, lxix. 6-7, by an eight days’ tempest.
 
-<span id="fn_132"></span>[m64:1](mes19.htm#fr_133) Qur’ān xxiii. 76, &c.
+<span id="fn_132"></span>[m64:1](mes19.htm#fr_133.md) Qur’ān xxiii. 76, &c.
 
-<span id="fn_133"></span>[m64:2](mes19.htm#fr_134) Qur’ān iii. 43.
+<span id="fn_133"></span>[m64:2](mes19.htm#fr_134.md) Qur’ān iii. 43.
 
-<span id="fn_134"></span>[m64:3](mes19.htm#fr_135) Qur’ān vii. 139.
+<span id="fn_134"></span>[m64:3](mes19.htm#fr_135.md) Qur’ān vii. 139.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Lion and the Beasts](mes20)
+[Next: V. The Lion and the Beasts](mes20.md)

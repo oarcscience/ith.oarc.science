@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb08)  [Next](ftb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb08)  [Next](ftb10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -28,20 +28,20 @@ Textual Heritage
 
 <span id="img_08600"></span> <span align="CENTER"> [![The waves rose
 swiftly higher](tn/08600.jpg)  
-Click to enlarge](img/08600.jpg)  
+Click to enlarge](img/08600.jpg.md)  
 The waves rose swiftly higher  
 </span>
 
 <span id="page_87">p. 87</span>
 
 <span id="img_08700"></span> ![Princess Ahez and the Lost
-City](img/08700.jpg)
+City](img/08700.jpg.md)
 
 <span id="img_08701"></span>
 
 |                     |
 |---------------------|
-| ![I](img/08701.jpg) |
+| ![I](img/08701.jpg.md) |
 
 N olden times there lived, in South Brittany, a powerful king named
 Grallon. He was an upright ruler who welcomed to his court all people of
@@ -258,4 +258,4 @@ bearded stranger triumphantly shaking the silver keys.
 
 ------------------------------------------------------------------------
 
-[Next: The Changeling](ftb10)
+[Next: The Changeling](ftb10.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico099) 
-[Next](nico101) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico099.md) 
+[Next](nico101.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ case of competitors in a contest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6. Relation of friendship to unanimity](nico101)
+[Next: Chapter 6. Relation of friendship to unanimity](nico101.md)

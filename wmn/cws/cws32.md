@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws31)  [Next](cws33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws31)  [Next](cws33.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXVIII
 
-#### CONCERNING THE "BLOOD OF CHRIST" <span id="fr_119"></span>[2](#fn_119)
+#### CONCERNING THE "BLOOD OF CHRIST" <span id="fr_119"></span>[2](#fn_119.md)
 
 BEING asleep I saw myself in a large room like a library, for it had in
 it a great many shelves filled with books; and there were several
@@ -15,7 +15,7 @@ mission, and part in the history of mankind. And I spoke much of Jesus,
 representing that the doctrine of his immaculate conception was to be
 understood only in a mystic sense, and that all the story we have of his
 birth refers solely to his initiation, <span
-id="fr_120"></span>[3](#fn_120) which is the true birth of the Son of
+id="fr_120"></span>[3](#fn_120.md) which is the true birth of the Son of
 God. And I proved this by many texts and passages from the gospels
 themselves and other writings. And I spoke also of the origin of Jesus,
 and how he had been made perfect through suffering. Of this suffering we
@@ -102,14 +102,14 @@ Reverence.    E. M.
 
 ### Footnotes
 
-<span id="fn_119"></span>[71:2](cws32.htm#fr_119) Paris, October 17,
+<span id="fn_119"></span>[71:2](cws32.htm#fr_119.md) Paris, October 17,
 1879. Referred to in *Life of Anna Kingsford*, vol. i, pp. 315-317.
 
-<span id="fn_120"></span>[71:3](cws32.htm#fr_120) Initiation does not
+<span id="fn_120"></span>[71:3](cws32.htm#fr_120.md) Initiation does not
 necessarily involve the agency of any human institution. The true
 initiator is in every case the Divine Spirit in the aspirant
 himself.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXIX: Concerning Vicarious Atonement](cws33)
+[Next: No. XXIX: Concerning Vicarious Atonement](cws33.md)

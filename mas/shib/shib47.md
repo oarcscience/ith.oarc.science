@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib46)  [Next](shib48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib46)  [Next](shib48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -90,7 +90,7 @@ reception of the Grand Master:
 
 <span id="img_16800"></span> <span align="CENTER"> [![Diagram
 1.](tn/16800.jpg)  
-Click to enlarge](img/16800.jpg)  
+Click to enlarge](img/16800.jpg.md)  
 Diagram 1.  
 </span>
 
@@ -98,7 +98,7 @@ Diagram 1.
 
 <span id="img_16900"></span> <span align="CENTER"> [![Diagram
 2.](tn/16900.jpg)  
-Click to enlarge](img/16900.jpg)  
+Click to enlarge](img/16900.jpg.md)  
 Diagram 2.  
 </span>
 
@@ -156,4 +156,4 @@ The Eminent Commander will welcome the visitor and assign him a seat.
 
 ------------------------------------------------------------------------
 
-[Next: Hints to Eminent Commanders](shib48)
+[Next: Hints to Eminent Commanders](shib48.md)

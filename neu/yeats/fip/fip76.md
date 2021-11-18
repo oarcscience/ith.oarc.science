@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip75)  [Next](fip77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip75)  [Next](fip77.md) 
 
 ------------------------------------------------------------------------
 
 ### DONALD AND HIS NEIGHBOURS.
 
-From Hibernian Tales. <span id="fr_69"></span>[1](#fn_69)
+From Hibernian Tales. <span id="fr_69"></span>[1](#fn_69.md)
 
 Hudden and Dudden and Donald O'Nery were near neighbours in the barony
 of Balinconlig, and ploughed with three bullocks; but the two former,
@@ -140,9 +140,9 @@ drowned along with Hudden, and this was the end of Hudden and Dudden.
 
 ### Footnotes
 
-<span id="fn_69"></span>[299:1](fip76.htm#fr_69) A chap-book mentioned
+<span id="fn_69"></span>[299:1](fip76.htm#fr_69.md) A chap-book mentioned
 by Thackeray in his *Irish Sketch Book*.
 
 ------------------------------------------------------------------------
 
-[Next: The Jackdaw](fip77)
+[Next: The Jackdaw](fip77.md)

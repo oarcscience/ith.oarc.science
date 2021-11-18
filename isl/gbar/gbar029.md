@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar028) [Next](gbar030)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar028) [Next](gbar030.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ honour and glory, O God. So be it!'
 
 ------------------------------------------------------------------------
 
-[Next](gbar030)
+[Next](gbar030.md)
 
  
 

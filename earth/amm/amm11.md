@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm10)  [Next](amm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm10)  [Next](amm12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ over the door is a figure of Horus bearing the sun disc.
 <span id="img_fig17"></span>
 
 [![Figure 17. Door Lintel, Ebba, Carthage](tn/fig17.jpg)  
-Click to enlarge](img/fig17.jpg)  
+Click to enlarge](img/fig17.jpg.md)  
   
 
 An inscription of Rameses II. on the temple of Ptah, at Memphis, might
@@ -236,7 +236,7 @@ front face is a large sculptured disc.
 <span id="img_fig18"></span>
 
 [![Figure 18. Syrian Tomb Door, Galilee](tn/fig18.jpg)  
-Click to enlarge](img/fig18.jpg)  
+Click to enlarge](img/fig18.jpg.md)  
   
 
 The cornice or arch of the door was at times only charged with a
@@ -289,7 +289,7 @@ Sometimes they are sculptured figures, at others merely nine bosses.
 <span id="img_fig19"></span>
 
 [![Figure 19. East Toran, Sanchi Tope](tn/fig19.jpg)  
-Click to enlarge](img/fig19.jpg)  
+Click to enlarge](img/fig19.jpg.md)  
   
 
 It is impossible not to compare the great Buddhist gateways, with their
@@ -392,7 +392,7 @@ figure, probably representing the sun' (Clements Markham).
 <span id="img_fig21"></span>
 
 [![Figure 21. Chinese Tomb Door, Canton](tn/fig21.jpg)  
-Click to enlarge](img/fig21.jpg)  
+Click to enlarge](img/fig21.jpg.md)  
   
 
 In China it is the same. A tomb doorway at Canton, figured by Dresser,
@@ -437,7 +437,7 @@ conviction in Japan that architectural forms come, more or less, from
 hazy recollections of some ancient symbolism.'
 
 The suggestion that the torii were primarily roosts either in purpose or
-by [etymology](errata.htm#4) is certainly not well founded, although it
+by [etymology](errata.htm#4.md) is certainly not well founded, although it
 was made by Mr Satow. They were doubtless derived with Buddhism from the
 gates to the Indian topes there called torana, 'Celestial gates.'
 
@@ -913,4 +913,4 @@ Baal has entered into his temple.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Pavements Like the Sea](amm12)
+[Next: Chapter IX. Pavements Like the Sea](amm12.md)

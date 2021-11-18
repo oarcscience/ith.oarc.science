@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe011)  [Next](prwe013) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe011)  [Next](prwe013.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ cave.
 ------------------------------------------------------------------------
 
 [Next: The Lord of Pengerswick and the Giant of St. Michael's
-Mount](prwe013)
+Mount](prwe013.md)

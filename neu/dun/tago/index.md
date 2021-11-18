@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T6JE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T6JE/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T6JE/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tago00)    [Text
-\[Zipped\]](tago.txt.gz)
+[Contents](#contents)    [Start Reading](tago00.md)    [Text
+\[Zipped\]](tago.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,44 +39,44 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T6JE/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](tago00)  
-[Contents](tago01)  
-[Preface](tago02)  
+<span id="contents"></span> [Title Page](tago00.md)  
+[Contents](tago01.md)  
+[Preface](tago02.md)  
 <span id="section_000"></span>
 
 ### Part I. Time and the Gods
 
-[Time and the Gods](tago03)  
-[The Coming of the Sea](tago04)  
-[A Legend of the Dawn](tago05)  
-[The Vengeance of Men](tago06)  
-[When The Gods Slept](tago07)  
-[The King that Was Not](tago08)  
-[The Cave of Kai](tago09)  
-[The Sorrow of Search](tago10)  
-[The Men of Yarnith](tago11)  
-[For the Honour of the Gods](tago12)  
-[Night and Morning](tago13)  
-[Usury](tago14)  
-[Mlideen](tago15)  
-[The Secret of the Gods](tago16)  
-[The South Wind](tago17)  
-[In The Land of Time](tago18)  
-[The Relenting of Sarnidac](tago19)  
-[The Jest of the Gods](tago20)  
-[The Dreams of the Prophet](tago21)  
+[Time and the Gods](tago03.md)  
+[The Coming of the Sea](tago04.md)  
+[A Legend of the Dawn](tago05.md)  
+[The Vengeance of Men](tago06.md)  
+[When The Gods Slept](tago07.md)  
+[The King that Was Not](tago08.md)  
+[The Cave of Kai](tago09.md)  
+[The Sorrow of Search](tago10.md)  
+[The Men of Yarnith](tago11.md)  
+[For the Honour of the Gods](tago12.md)  
+[Night and Morning](tago13.md)  
+[Usury](tago14.md)  
+[Mlideen](tago15.md)  
+[The Secret of the Gods](tago16.md)  
+[The South Wind](tago17.md)  
+[In The Land of Time](tago18.md)  
+[The Relenting of Sarnidac](tago19.md)  
+[The Jest of the Gods](tago20.md)  
+[The Dreams of the Prophet](tago21.md)  
 <span id="section_001"></span>
 
 ### Part II. The Journey of the King
 
-[I](tago22)  
-[II](tago23)  
-[III](tago24)  
-[IV](tago25)  
-[V](tago26)  
-[VI](tago27)  
-[VII](tago28)  
-[VIII](tago29)  
-[IX](tago30)  
-[X](tago31)  
-[XI](tago32)  
+[I](tago22.md)  
+[II](tago23.md)  
+[III](tago24.md)  
+[IV](tago25.md)  
+[V](tago26.md)  
+[VI](tago27.md)  
+[VII](tago28.md)  
+[VIII](tago29.md)  
+[IX](tago30.md)  
+[X](tago31.md)  
+[XI](tago32.md)  

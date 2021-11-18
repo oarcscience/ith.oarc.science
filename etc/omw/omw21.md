@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw20)  [Next](omw22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw20)  [Next](omw22.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_00300"></span>
 
 [![Osiris and Isis](tn/00300.jpg)  
-Click to enlarge](img/00300.jpg)  
+Click to enlarge](img/00300.jpg.md)  
 Osiris and Isis  
 
 # EGYPTIAN
@@ -208,4 +208,4 @@ to be the avenger of his father.
 
 ------------------------------------------------------------------------
 
-[Next: Rê, His Going-Down and Uprising](omw22)
+[Next: Rê, His Going-Down and Uprising](omw22.md)

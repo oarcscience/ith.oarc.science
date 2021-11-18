@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi131)  [Next](mtsi133) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi131)  [Next](mtsi133.md) 
 
 ------------------------------------------------------------------------
 
-### 39. RABBIT AND THE OLD MAN <span id="fr_29"></span>[1](#fn_29)
+### 39. RABBIT AND THE OLD MAN <span id="fr_29"></span>[1](#fn_29.md)
 
 A man had two daughters whom Rabbit wanted. At that time the old man's
 many hogs were disappearing and he did not know what caused it. Then
@@ -47,10 +47,10 @@ That is how it is told.
 
 ### Footnotes
 
-<span id="fn_29"></span>[114:1](mtsi132.htm#fr_29) Stith Thompson,
+<span id="fn_29"></span>[114:1](mtsi132.htm#fr_29.md) Stith Thompson,
 European Tales among the North American Indian, pp. 419-426, Story XIX
 G.
 
 ------------------------------------------------------------------------
 
-[Next: 40. A War Story](mtsi133)
+[Next: 40. A War Story](mtsi133.md)

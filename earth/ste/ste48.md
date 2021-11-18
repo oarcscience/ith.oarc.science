@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste47)  [Next](ste49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste47)  [Next](ste49.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ own accord, into two Regions.
 <span id="img_32300"></span>
 
 [![Fig. 1](tn/32300.jpg)  
-Click to enlarge](img/32300.jpg)  
+Click to enlarge](img/32300.jpg.md)  
 Fig. 1  
 
 \[paragraph continues\] What is dissolv’d and melted, being the
@@ -188,7 +188,7 @@ New Earth*.
 
 From what hath been said in this and the precedent Chapter, it will not
 be hard to interpret what St. *Paul* meant by his *Habitable Earth to
-come:* <span id="fr_16"></span>[1](#fn_16) which is to be subjected to
+come:* <span id="fr_16"></span>[1](#fn_16.md) which is to be subjected to
 our Saviour and not to the Angels. In the second chapter to the
 *Hebrews*, ver. 5. he says, *For unto the Angels hath he not put in
 subjection the WORLD TO COME:* So we read it, but, according to the
@@ -249,9 +249,9 @@ and the New Earth.
 
 ### Footnotes
 
-<span id="fn_16"></span>[326:1](ste48.htm#fr_16) Τὴν οἰκουμένην τ῎
+<span id="fn_16"></span>[326:1](ste48.htm#fr_16.md) Τὴν οἰκουμένην τ῎
 μέλλουσαν πατὴρ τοῦ μέλλονος ἀιῶνος *Isa*. 9. 6.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](ste49)
+[Next: Chapter III](ste49.md)

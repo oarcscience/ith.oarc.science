@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr12)  [Next](wnr14) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr12)  [Next](wnr14.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ contraceptives which are both certain and harmless.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Will Birth Control Help The Cause Of Labor?](wnr14)
+[Next: XII. Will Birth Control Help The Cause Of Labor?](wnr14.md)

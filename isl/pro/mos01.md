@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos00)  [Next](mos02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos00)  [Next](mos02.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ in the land, thou wouldst not be of the reformers(Al-Qasas:19).
 
 ------------------------------------------------------------------------
 
-[Next: Going Out of Egypt to Midian](mos02)
+[Next: Going Out of Egypt to Midian](mos02.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](listofil) [Next](chap01)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](listofil) [Next](chap01.md)
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ the only changes made are in the names of some of the characters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Going West in 1874](chap01)
+[Next: Chapter I: Going West in 1874](chap01.md)

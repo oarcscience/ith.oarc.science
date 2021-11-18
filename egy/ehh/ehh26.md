@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh25)  [Next](ehh27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh25)  [Next](ehh27.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ can continue his journey in peace.
 ------------------------------------------------------------------------
 
 [Next: Eleventh Division of the Tuat. II. Kingdom of Temu-Khepera-Ra
-According to the Book of Gates](ehh27)
+According to the Book of Gates](ehh27.md)

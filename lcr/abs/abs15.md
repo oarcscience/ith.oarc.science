@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs14)  [Next](abs16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs14)  [Next](abs16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -35,7 +35,7 @@ We now turn northward and start climbing, and we are going to need maps
 as we never needed them before. The area of the world which we are now
 approaching is perhaps the most puzzling and, to us, seemingly the most
 mixed-up in the world. The political situation is bad enough (see [Map
-IX](#img_map09)) but the topography is frankly awful, so that even a
+IX](#img_map09).md) but the topography is frankly awful, so that even a
 physical map is utterly confusing. This confusion, moreover, is worse
 confounded by our use of "feet" for measuring altitude. In this area
 they just aren't big enough, and maps showing the usual contour changes
@@ -43,10 +43,10 @@ of color at 600, 1500, 3000, 12,000, and 18,000 foot levels end up as
 one glorious mishmash in which the main and basic features of the land
 are obscured. If, however, we do our measuring (and coloring) in meters,
 matters become much clearer. I have therefore constructed the map
-showing this province ([Map X](#img_map10)) on the 500 and 5000 meter
+showing this province ([Map X](#img_map10).md) on the 500 and 5000 meter
 contours, with a special shading for one particular area (Tibet) for
 reasons that will be explained later (see also [Map
-XI](abs16.htm#img_map11)) . This device brings out at a glance more or
+XI](abs16.htm#img_map11).md) . This device brings out at a glance more or
 less all that we want to know, and makes it possible to attempt a more
 detailed explanation of the more difficult parts. We are now approaching
 the summit of our interests and we will have to take our cue from the
@@ -60,7 +60,7 @@ The first and most basic of these is to attempt to get rid of
 
 <span id="img_map09"></span> <span align="CENTER"> [![MAP IX. NORTHERN
 ORIENTALIA (POLITICAL)](tn/map09.jpg)  
-Click to enlarge](img/map09.jpg)  
+Click to enlarge](img/map09.jpg.md)  
 MAP IX. NORTHERN ORIENTALIA (POLITICAL)  
 </span>
 
@@ -124,7 +124,7 @@ forests that run up almost to the snow line all over them—is quite
 unlike that of Tibet but has relationships with that of the Indo-Chinese
 Massif. And this brings us to our third problem.
 
-It will be seen from [Maps X](#img_map10) and [XI](abs16.htm#img_map11),
+It will be seen from [Maps X](#img_map10) and [XI](abs16.htm#img_map11.md),
 that this Indo-Chinese block terminates abruptly to the north against a
 monumental barrier of towering mountain ranges that are confluent with
 Tibet. These actually form a small "peninsula" of Eurasia that sticks
@@ -145,7 +145,7 @@ the other. To the northeast, affairs are quite different.
 
 Here, there is first, to the north, a small enclave of comparatively
 modest uplands running down from the Tibet plateau to the Red Basin of
-Szechwan (see [Map X](#img_map10)). These have a Chinese flora and
+Szechwan (see [Map X](#img_map10).md). These have a Chinese flora and
 fauna. Then, south of these, the Indo-Chinese
 
 <span id="page_239">p. 239</span>
@@ -287,11 +287,11 @@ the great rhinoceros which is now found only in this wild corner of
 Burma near the Siamese Border. And more exciting even than these was the
 report of a creature, the *Kung-Lu* (or Mouth-Man), which had terrified
 the people for centuries. The *Kung-Lu*, according to Thunderface, <span
-id="fr_31"></span>[\*](#fn_30) was a monster that resembled a gorilla, a
+id="fr_31"></span>[\*](#fn_30.md) was a monster that resembled a gorilla, a
 miniature King Kong, about 20 feet tall. It lived on the highest
 mountains, where its trail of broken trees was often seen, and descended
 into the villages only when it wanted meat, human meat. We were told
-also that no one in Kensi <span id="fr_32"></span>[†](#fn_31) had been
+also that no one in Kensi <span id="fr_32"></span>[†](#fn_31.md) had been
 eaten by the *Kung-Lu* for more years than the eldest could remember.
 
 </div>
@@ -713,7 +713,7 @@ for the Amerinds and some others who often walk
 
 <span id="img_map10"></span> <span align="CENTER"> [![MAP X. EAST AND
 SOUTH ORIENTALIA](tn/map10.jpg)  
-Click to enlarge](img/map10.jpg)  
+Click to enlarge](img/map10.jpg.md)  
 MAP X. EAST AND SOUTH ORIENTALIA  
 </span>
 
@@ -790,17 +790,17 @@ the mountains between Tibet, China, and Burma.
 
 ### Footnotes
 
-<span id="fn_30"></span>[242:\*](abs15.htm#fr_31) This "Thunderface"
+<span id="fn_30"></span>[242:\*](abs15.htm#fr_31.md) This "Thunderface"
 turned out to be a North American "Indian" by the name of Chief Michael
 Joseph Thunderface, a graduate of the California Mission College, of
 19211 He had gone to the Orient as part owner of a small circus that had
 disbanded, and he had settled down in this Burmese village and in time
 been elected chief.
 
-<span id="fn_31"></span>[242:†](abs15.htm#fr_32) The village of Kensi is
+<span id="fn_31"></span>[242:†](abs15.htm#fr_32.md) The village of Kensi is
 now called Kawmyo and is near the Thai border. It is noted for its Naga
 (the King Cobra snake) worship attended only by priestesses.
 
 ------------------------------------------------------------------------
 
-[Next: 12. Anyone for Everest?](abs16)
+[Next: 12. Anyone for Everest?](abs16.md)

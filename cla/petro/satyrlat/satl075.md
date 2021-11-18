@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXXV) 
-[Previous](satl074)  [Next](satl076) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXXV.md) 
+[Previous](satl074)  [Next](satl076.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ faciebam. Scitis quid dicam: taceo, quia non sum de gloriosis.
 
 ------------------------------------------------------------------------
 
-[Next: LXXVI](satl076)
+[Next: LXXVI](satl076.md)

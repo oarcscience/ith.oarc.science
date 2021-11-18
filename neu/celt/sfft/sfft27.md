@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft26)  [Next](sfft28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft26)  [Next](sfft28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -70,10 +70,10 @@ This made the town-clerk very angry, and he got
  
 
 <span id="img_10000"></span> <span align="CENTER"> [![](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)</span>  
+Click to enlarge](img/10000.jpg.md)</span>  
 They all ran around, getting very giddy and banging their heads
 together.  
-Page [101](#page_101). *Scottish Fairy Tales*.
+Page [101](#page_101.md). *Scottish Fairy Tales*.
 
  
 
@@ -269,4 +269,4 @@ TOM CAT.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairies of Scotland](sfft28)
+[Next: The Fairies of Scotland](sfft28.md)

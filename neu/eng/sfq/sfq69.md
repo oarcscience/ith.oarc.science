@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq68)  [Next](sfq70) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq68)  [Next](sfq70.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ sorrow, she too departed, to appease her anguish in travel.
 ------------------------------------------------------------------------
 
 [Next: The Adventure of the Damsel, the Two Knights, and the Sultan's
-Horses](sfq70)
+Horses](sfq70.md)

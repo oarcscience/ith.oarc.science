@@ -640,4 +640,4 @@ civilians reported seeing or hearing anything."
 ---
 ------------------------------------------------------------------------
 
-[Next: Operation Majority](mj12_03)
+[Next: Operation Majority](mj12_03.md)

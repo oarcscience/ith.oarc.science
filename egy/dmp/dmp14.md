@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp13)  [Next](dmp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp13)  [Next](dmp15.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ of King \[Dariu\]s (?); there is no better than it.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XII](dmp15)
+[Next: Col. XII](dmp15.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb02)  [Next](orfb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb02)  [Next](orfb04.md) 
 
 </div>
 
@@ -309,6 +309,6 @@ invisible to the people of the Earth, and were no more seen among them.
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Mirror From the Senna](orfb04)
+[Next: The Magic Mirror From the Senna](orfb04.md)
 
 </div>

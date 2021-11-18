@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](htg00)
+[Contents](#contents)    [Start Reading](htg00.md)
 
 ------------------------------------------------------------------------
 
@@ -33,70 +33,70 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-<span id="contents"></span> [Title Page](htg00)  
-[Preface](htg01)  
-[Contents](htg02)  
-[Introduction](htg03)  
+<span id="contents"></span> [Title Page](htg00.md)  
+[Preface](htg01.md)  
+[Contents](htg02.md)  
+[Introduction](htg03.md)  
 
  
 
-[Hymn To Kālabhairava by Śankarācārya](htg04)  
-[Kālabhairava (Kālabhairavāṣṭaka)](htg05)  
+[Hymn To Kālabhairava by Śankarācārya](htg04.md)  
+[Kālabhairava (Kālabhairavāṣṭaka)](htg05.md)  
 <span id="section_000"></span>
 
 ### From Tantra
 
-[Hymns to the Devī from Tantra](htg06)  
-[Bhairavī (Bhairavīstotra) from the Tantrasāra](htg07)  
-[Bhuvaneśvari, from the Tantrasāra](htg08)  
-[Ādyakālī (Ādyākālīsvarūpastotra), from the Mahānirvāṇa Tantra](htg09)  
-[Lakṣmī (Laksmīstotram) From The Tantrasāra](htg10)  
-[Tārā (Tārāsṭakam) from the Nīla Tantra](htg11)  
-[Mahiṣāmardinī (Mahiṣāmardinīstotra) from the Tantrasāra](htg12)  
-[Annapūrṇa (Annapūrṇāstotra) from the Tantrasāra](htg13)  
-[Sarasvatī (Sarasvatīstotra) from the Tantrasāra](htg14)  
-[Durgā (Durgāśatanāma Stotra) from the Viśvasāra Tantra](htg15)  
-[Tripuṭā (Tripuṭāstotram) from the Tantrasāra](htg16)  
+[Hymns to the Devī from Tantra](htg06.md)  
+[Bhairavī (Bhairavīstotra) from the Tantrasāra](htg07.md)  
+[Bhuvaneśvari, from the Tantrasāra](htg08.md)  
+[Ādyakālī (Ādyākālīsvarūpastotra), from the Mahānirvāṇa Tantra](htg09.md)  
+[Lakṣmī (Laksmīstotram) From The Tantrasāra](htg10.md)  
+[Tārā (Tārāsṭakam) from the Nīla Tantra](htg11.md)  
+[Mahiṣāmardinī (Mahiṣāmardinīstotra) from the Tantrasāra](htg12.md)  
+[Annapūrṇa (Annapūrṇāstotra) from the Tantrasāra](htg13.md)  
+[Sarasvatī (Sarasvatīstotra) from the Tantrasāra](htg14.md)  
+[Durgā (Durgāśatanāma Stotra) from the Viśvasāra Tantra](htg15.md)  
+[Tripuṭā (Tripuṭāstotram) from the Tantrasāra](htg16.md)  
 <span id="section_001"></span>
 
 ### From Purāṇa
 
-[Hymns to the Devī from Purāṇa](htg17)  
+[Hymns to the Devī from Purāṇa](htg17.md)  
 [Mother of the Whole Universe (Sarvaviśvajananī) From The
-Devībhāgavata](htg18)  
-[Ambikā (Eleventh Māhātmya of Caṇḍī)](htg19)  
-[Caṇḍikā, from the Fourth or Shakrādi Mahātmya of Caṇḍī](htg20)  
-[Mahādevī (from the Fifth Mahātmya of Caṇḍī)](htg21)  
-[Jagadambikā, from the Devībhāgavata Purāṇa](htg22)  
+Devībhāgavata](htg18.md)  
+[Ambikā (Eleventh Māhātmya of Caṇḍī)](htg19.md)  
+[Caṇḍikā, from the Fourth or Shakrādi Mahātmya of Caṇḍī](htg20.md)  
+[Mahādevī (from the Fifth Mahātmya of Caṇḍī)](htg21.md)  
+[Jagadambikā, from the Devībhāgavata Purāṇa](htg22.md)  
 <span id="section_002"></span>
 
 ### From Mahābhārata
 
-[Durgā (Mahābhārata Virāṭa Parvan)](htg23)  
-[Āryā, from the Harivamśā](htg24)  
-[Durgā, from the Mahābhārata](htg25)  
+[Durgā (Mahābhārata Virāṭa Parvan)](htg23.md)  
+[Āryā, from the Harivamśā](htg24.md)  
+[Durgā, from the Mahābhārata](htg25.md)  
 <span id="section_003"></span>
 
 ### From Śankarācārya
 
-[Hymns to the Devī from Śankarācārya](htg26)  
-[Tripurasundarī (Tripurasundarīstotra)](htg27)  
-[Gangā (Gangāṣṭakam)](htg28)  
-[Waves of Bliss (Ānandalaharī)](htg29)  
-[Yamuna (Yamunāṣṭakam)](htg30)  
+[Hymns to the Devī from Śankarācārya](htg26.md)  
+[Tripurasundarī (Tripurasundarīstotra)](htg27.md)  
+[Gangā (Gangāṣṭakam)](htg28.md)  
+[Waves of Bliss (Ānandalaharī)](htg29.md)  
+[Yamuna (Yamunāṣṭakam)](htg30.md)  
 [''May the Devi Grant Me Pardon'' (Devi Aparāda Kṣamāpana
-Stotra)](htg31)  
-[Maṇikarṇikā (Maṇikarṇikāstotra)](htg32)  
-[Gangā (Gangāstotra)](htg33)  
-[Narmadā (Narmadāsṭakastotram)](htg34)  
-[Annapūrṇā (Annapūrṇāstotra)](htg35)  
+Stotra)](htg31.md)  
+[Maṇikarṇikā (Maṇikarṇikāstotra)](htg32.md)  
+[Gangā (Gangāstotra)](htg33.md)  
+[Narmadā (Narmadāsṭakastotram)](htg34.md)  
+[Annapūrṇā (Annapūrṇāstotra)](htg35.md)  
 <span id="section_004"></span>
 
 ### From Vālmīki
 
-[Gangā (Gangāstotra) by Vālmīki](htg36)  
+[Gangā (Gangāstotra) by Vālmīki](htg36.md)  
 <span id="section_005"></span>
 
 ### From Indra
 
-[Mahālakṣmī (Mahālakṣmīstotra) by Indra](htg37)  
+[Mahālakṣmī (Mahālakṣmīstotra) by Indra](htg37.md)  

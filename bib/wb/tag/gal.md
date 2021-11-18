@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](co2)  [Next](eph) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](co2)  [Next](eph.md) 
 
 ------------------------------------------------------------------------
 
@@ -594,4 +594,4 @@ Panginoong Jesucristo ay sumainyo nawang espiritu. Siya nawa.
 
 ------------------------------------------------------------------------
 
-[Next: Ephesians](eph)
+[Next: Ephesians](eph.md)

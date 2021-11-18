@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index)  [Index](index)  [Previous](eaha09) 
-[Next](eaha11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index)  [Index](index)  [Previous](eaha09.md) 
+[Next](eaha11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Euripides and His Age*, by Gilbert Murray, \[1913\], at Intangible
 Textual Heritage
 
@@ -301,7 +301,7 @@ same kind which occurs in the *Medea* and has, until very lately, been
 utterly condemned and misunderstood. It is an effect rather reminding
 one of the Greek fable of a human wrong so terrible that it shook the
 very Sun out of his course. It is like the human cry in the *Electra*
-([p. 155](eaha07.htm#page_155)), which shook the eternal peace of the
+([p. 155](eaha07.htm#page_155).md), which shook the eternal peace of the
 gods in
 
 <span id="page_238">p. 238</span>
@@ -455,4 +455,4 @@ the most tragic of poets."
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](eaha11)
+[Next: Bibliography](eaha11.md)

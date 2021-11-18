@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft43)  [Next](pft45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft43)  [Next](pft45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ pieces and scattered him over the whole sky just as a woman scatters
 rice, and ever since there have been many stars.
 
 Another child of the Sun and Moon was a gigantic crab.  <span
-id="fr_134"></span>[135](pft68.htm#fn_134) He still lives and is so
+id="fr_134"></span>[135](pft68.htm#fn_134.md) He still lives and is so
 powerful that every time he opens and closes his eyes there is a flash
 of lightning. Most of the time the crab lives in a large hole in the
 bottom of the sea, and when he is there we have high tide; but when he
@@ -39,11 +39,11 @@ about also causes great waves on the surface of the sea.
 
 The crab is quarrelsome like his father; and he sometimes becomes so
 angry with his mother, the Moon, that he tries to swallow her.  <span
-id="fr_135"></span>[136](pft68.htm#fn_135) When the people on earth, who
+id="fr_135"></span>[136](pft68.htm#fn_135.md) When the people on earth, who
 are fond of the Moon, see the crab near her, they run out of doors and
 shout and beat on gongs until he is frightened away, and thus the Moon
 is saved.
 
 ------------------------------------------------------------------------
 
-[Next: The Widow's Son](pft45)
+[Next: The Widow's Son](pft45.md)

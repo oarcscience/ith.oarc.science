@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast04)  [Next](dast06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast04)  [Next](dast06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -221,7 +221,7 @@ are one with Siva. Because Jivas are endued with
 the powers of Isvara, we may conclude that they are (identical with)
 Isvara.
 
-<span class="small">Intelligence [and](errata.htm#11) activity, *jnana*
+<span class="small">Intelligence [and](errata.htm#11.md) activity, *jnana*
 and *kriya*, are found associated with Jivas because these are identical
 with Siva, the Paramatman who alone has the power of knowing and acting
 quite independently of all. A mass of iron is said to burn only when
@@ -328,4 +328,4 @@ expounding the meaning of the Hymn to the Blessed Dakshinâmûrti.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Atman as the First Cause](dast06)
+[Next: Chapter II. Atman as the First Cause](dast06.md)

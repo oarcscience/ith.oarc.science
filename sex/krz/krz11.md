@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz10)  [Next](krz12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz10)  [Next](krz12.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ inspiration and poetic happiness.
 
 ------------------------------------------------------------------------
 
-[Next: The Karezza Method](krz12)
+[Next: The Karezza Method](krz12.md)

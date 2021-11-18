@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl157)  [Next](cohl159) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl157)  [Next](cohl159.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ dispelled by the ceremony. The chief officer is a woman.
 
 ------------------------------------------------------------------------
 
-[Next: The Woman's Society](cohl159)
+[Next: The Woman's Society](cohl159.md)

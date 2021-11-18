@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 7th Aethyr,  
-Which is Called DEO**[**1**](#1)
+Which is Called DEO**[**1**](#1.md)
 
 The stone is divided, the left half dark, the right half light, and at
 the bottom thereof is a certain blackness, of three divergent columns.
@@ -23,9 +23,9 @@ five and the six are balanced in the word Abrahadabra, and therein is
 the mystery disclosed. But the key unto this gate is the balance of the
 seven and the four; and of this thou hast not even the first letter. Now
 there is a word of four letters that containeth in itself all the
-mystery of the Tetragrammaton[**2**](#2), and there is a word of seven
-letters which it concealeth[**3**](#3), and that again concealeth the
-holy word that is the key of the abyss[**4**](#4). And this thou shalt
+mystery of the Tetragrammaton[**2**](#2.md), and there is a word of seven
+letters which it concealeth[**3**](#3.md), and that again concealeth the
+holy word that is the key of the abyss[**4**](#4.md). And this thou shalt
 find, revolving it in thy mind.
 
 Hide therefore thine eyes. And I will set my key in the lock, and open
@@ -64,17 +64,17 @@ forms, and each goddess of love is but a letter of the alphabet of love.
 Now, there is a mystery in the word Logos, that containeth the three
 letters whose analogy hath been shown in the lower heavens, Samech, and
 Lamed, and Gimel, that are 93, which is thrice 31, and in them are set
-the two eyes of Horus[**5**](#5). (Ayin means an eye.) For, if it were
+the two eyes of Horus[**5**](#5). (Ayin means an eye..md) For, if it were
 not so, the arrow could not pierce the rainbow, and there could be no
 poise in the balance, and the Great Book should never be unsealed. But
 this is she that poureth the Water of Life upon her head, whence it
-floweth to fructify the earth[**6**](#6). But now the whole Aethyr is
+floweth to fructify the earth[**6**](#6.md). But now the whole Aethyr is
 the most brilliant peacock blue. It *is* the Universal Peacock that I
 behold.
 
 And there is a voice: Is not this bird the bird of Juno, that is an
-hundred, and thirty, and six[**7**](#7)? And therefore is she the mate
-of Jupiter[**8**](#8).
+hundred, and thirty, and six[**7**](#7.md)? And therefore is she the mate
+of Jupiter[**8**](#8.md).
 
 And now the peacock's head is again changed into a woman's head
 sparkling and coruscating with its own light of gems.
@@ -87,7 +87,7 @@ Qabalah, and so could not describe it.
 
 Oh, I see vast plains beneath her feet, enormous deserts studded with
 great rocks; and I see little lonely souls, running helplessly about,
-minute black creatures like men[**9**](#9). And they keep up a very
+minute black creatures like men[**9**](#9.md). And they keep up a very
 curious howling, that I can compare to nothing that I have ever heard;
 yet it is strangely human.
 
@@ -109,7 +109,7 @@ power, which hath destroyed the primordial equilibrium.
 
 And the garden is the supernal Eden, where is Ayin, 70, the Eye of the
 Concealed One, and the creative Lingam; and Daleth, love; and Nun the
-serpent[**10**](#10). And therefore this constitution was implicitly in
+serpent[**10**](#10.md). And therefore this constitution was implicitly in
 the nature of Eden (cf. *Liber L*., I., 29, 30), so that the call of the
 Aethyrs could not have been any other call than that which it is.
 
@@ -128,7 +128,7 @@ brass. And the plumes are set alight, and are whirled round and round
 until the whole heaven is blackness with these flying sparks therein.
 
 Now it is all branching streams of golden fire tipped with scarlet at
-the edges[**11**](#11).
+the edges[**11**](#11.md).
 
 And now She cometh forth again, riding upon a dolphin. Now again I see
 those wandering souls, that have sought restricted love, and have not
@@ -162,12 +162,12 @@ crowneth thee with a crown of seven roses. Behold! She is seated upon
 the throne of turquoise and lapis lazuli, and she is like a flawless
 emerald, and upon the pillars that support the canopy of her throne are
 sculptured the Ram, and the Sparrow, and the Cat, and a strange
-fish[**12**](#12). Behold! How she shineth! Behold! How her glances have
+fish[**12**](#12.md). Behold! How she shineth! Behold! How her glances have
 kindled all these fires that have blown about the heavens! Yet remember
 that in every one there goeth forth for a witness the justice of the
 Most High. Is not Libra the House of Venus? And there goeth forth a
 sickle that shall reap every flower. Is not Saturn exalted in Libra?
-Daleth, Lamed, Tau[**13**](#13).
+Daleth, Lamed, Tau[**13**](#13.md).
 
 And therefore was he a fool who uttered her name in his heart, for the
 root of evil is the root of breath, and the speech in the silence was a
@@ -175,7 +175,7 @@ lie.
 
 Thus is it seen from below by them that understand not. But from above
 he rejoiceth, for the joy of dissolution is ten thousand, and the pang
-of birth but a little[**14**](#14).
+of birth but a little[**14**](#14.md).
 
 And now thou shalt go forth from the Aethyr, for the voice of the Aethyr
 is hidden and concealed from thee because thou hadst not the key of the

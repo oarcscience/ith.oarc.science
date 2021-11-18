@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb39)  [Next](olb41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb39)  [Next](olb41.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -89,9 +89,9 @@ outside there was nothing but mud and marsh. The old houses were all
 smashed together. People bought cattle and sheep from the upper lands,
 and in the great houses where formerly the maidens were established
 cloth and felt were made for a livelihood. This happened 1888 years
-after the submersion of Atland <span id="fr_62"></span>[\*](#fn_62).
+after the submersion of Atland <span id="fr_62"></span>[\*](#fn_62.md).
 
-For 282 <span id="fr_63"></span>[†](#fn_63) years we had not had an
+For 282 <span id="fr_63"></span>[†](#fn_63.md) years we had not had an
 Eeremoeder, and now, when everything seemed lost, they set about
 choosing one. The lot fell upon Gosa, surnamed Makonta. She was
 Burgtmaagd at Fryasburgt, in Texland. She had a clear head and strong
@@ -125,14 +125,14 @@ Flyland in order to preserve their lives.
 
 ### Footnotes
 
-<span id="fn_62"></span>[161:\*](olb40.htm#fr_62) 2193-1888 is 305
+<span id="fn_62"></span>[161:\*](olb40.htm#fr_62.md) 2193-1888 is 305
 before Christ.
 
-<span id="fn_63"></span>[161:†](olb40.htm#fr_63) Since 587 before
-Christ. See pages [110](olb31.htm#page_110) and
-[112](olb31.htm#page_112).
+<span id="fn_63"></span>[161:†](olb40.htm#fr_63.md) Since 587 before
+Christ. See pages [110](olb31.htm#page_110.md) and
+[112](olb31.htm#page_112.md).
 
 ------------------------------------------------------------------------
 
 [Next: Now I will relate how the Geertman and many followers of Hellenia
-came back](olb41)
+came back](olb41.md)

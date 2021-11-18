@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam03)  [Next](kam05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam03)  [Next](kam05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 6: Tracts Baba Kama (First Gate), Part II and
 Baba Metzia (Middle Gate)*, tr. by Michael L. Rodkinson, \[1918\], at
 Intangible Textual Heritage
@@ -240,7 +240,7 @@ meant only it should be returned as it was at the time it was stolen),
 and the case here held when it was customary in the country to take
 cattle for improvement for the reward of half, third, or a quarter.
 According to R. Simeon, the robber gets only the customary reward, but
-[according](errata.htm#13) to R. Jehudah the whole improvement belongs
+[according](errata.htm#13.md) to R. Jehudah the whole improvement belongs
 to him. There is a Boraitha which states plainly as R. Papa explained.
 Said R. Ashi: When we were in the college of R. Kahana, we were in doubt
 regarding R. Simeon's theory as to the payment of half, etc., for
@@ -336,7 +336,7 @@ he rejoined: After all, it is no more than a robbery of which the rule
 is, "It shall be returned as it is." He answered again: Did I not tell
 you that when I am sitting in the court you shall say nothing to me; for
 Huna, my colleague, has said that I and the King Sabura are brothers in
-regard to court cases. <span id="fr_2"></span>[1](#fn_2) This man is
+regard to court cases. <span id="fr_2"></span>[1](#fn_2.md) This man is
 known as an old robber and I want to fine him.
 
 <span id="page_219">p. 219</span>
@@ -347,7 +347,7 @@ Concerning slaves he may say: "Yours are before you." If he has stolen a
 coin and it broke, fruits and they became rotten, wine and it became
 sour, it is to be paid as at the time robbed; a coin which afterward
 became invalid, heave-offering and it became unclean, <span
-id="fr_3"></span>[1](#fn_3) or leaven which was in the hand of the one
+id="fr_3"></span>[1](#fn_3.md) or leaven which was in the hand of the one
 robbed during Passover, a cow and it was used for sodomy, or it: became
 invalid for the altar or it was condemned to be stoned, he may say:
 "Yours is before you."
@@ -476,7 +476,7 @@ questioned R. Hisda: If one has given credit, to be paid with a certain
 coin, and in the mean time the coins increased in weight, what is the
 law? And he answered: He must give him coins which are used at the time
 of payment. And he questioned again: Even if there is a large increase
-in size and weight? <span id="fr_4"></span>[1](#fn_4) And he said: Yea.
+in size and weight? <span id="fr_4"></span>[1](#fn_4.md) And he said: Yea.
 But on account of the larger coins, the fruits become cheaper (as we get
 more produce for a larger coin than a smaller one, and so it would look
 like usury). Said R. Ashi: It must be discovered whether the fruits
@@ -497,7 +497,7 @@ pushed another's hand, and a coin fell down from his hand into the sea,
 he is free, as he may say: I did it unintentionally, and the coin is
 before you; you may take it. This is the case only when the water is so
 clear that the coin is to be seen, but not otherwise. <span
-id="fr_5"></span>[1](#fn_5) Rabha objected from the following Mishna:
+id="fr_5"></span>[1](#fn_5.md) Rabha objected from the following Mishna:
 The second tithe cannot be charged upon money which is not under one's
 control at the time, *e.g.*, when he placed his money in custody or in
 the king's treasury (which he cannot reach without great difficulty), or
@@ -1174,7 +1174,7 @@ said: "He said it to make the witness free from a trespass offering."
 Samuel, however, said: "To make him liable." And these two Amoraim
 differ in the same as the Tanaim of a Boraitha elsewhere differ, and the
 point of their difference is whether a germon is to be considered as
-pecuniary damage or not. (Explained above, [p. 224](#page_224).)
+pecuniary damage or not. (Explained above, [p. 224](#page_224)..md)
 
 R. Shesheth says: "One who denies a deposit trusted to him is considered
 as a robber of it, and is liable even for an accident." And this can be
@@ -1255,7 +1255,7 @@ payment which cannot be paid without a legal oath, and yet he must pay."
 Rabha therefore said: "In case of a confession, no matter if he claims
 it was lost or stolen, he must always add the fifth part and trespass
 offering, even in accord with Rabh, for he cannot deny the verse. 'And
-he confessed <span id="fr_6"></span>[1](#fn_6) what he has sinned'
+he confessed <span id="fr_6"></span>[1](#fn_6.md) what he has sinned'
 \[Lev. v. 5\]; and also if he claims it was stolen, and witnesses are
 against him, he must pay the double amount even in accord with Rabh, as
 this is also written plainly in the Scripture. His theory, then, is only
@@ -1305,7 +1305,7 @@ as soon as he has made use of it, he is free; and the reason is because
 the Scripture reads \[Ex. xxii. 2\]: "Then shall the master of the house
 be brought unto the judges (to swear) that he had not stretched out his
 hand"; from which it is to be deduced that if he *had made* use of it,
-he is free (from the double amount). <span id="fr_7"></span>[1](#fn_7)
+he is free (from the double amount). <span id="fr_7"></span>[1](#fn_7.md)
 Said R. Na'hman to him: "Is not the three oaths: first, that I have done
 all my duty in taking care of it; second, that I did not make use of it;
 and third, that it is not under my control? Now, is it not to be assumed
@@ -1369,7 +1369,7 @@ Scripture is particular only that two different kinds of fines should
 not be paid in one and the same case, and here it is only one kind; or
 perhaps the Scripture is particular that no two fines shall take place
 in the case? Come and hear. Rabha said \[Lev. v.\]: "And the fifth parts
-thereof." <span id="fr_8"></span>[1](#fn_8) Hence we see that the
+thereof." <span id="fr_8"></span>[1](#fn_8.md) Hence we see that the
 Scripture has added many fifth parts to one principal. Infer from this.
 
 "If a gratuitous bailee swore it was 'stolen,' and nevertheless he paid
@@ -1379,7 +1379,7 @@ did not pay until he was summoned and ordered by the court to pay or
 swear, although he did both, the owner did not pass the title of the
 double amount to him." Rabha, however, says, "To the bailee who has paid
 the amount, no matter before or after swearing." <span
-id="fr_9"></span>[2](#fn_9) If the bailee was summoned, and he has sworn
+id="fr_9"></span>[2](#fn_9.md) If the bailee was summoned, and he has sworn
 and then thief was found, and when he was asked by the bailee he
 confessed; when, however, the thief was summoned by the owner he denied,
 but witnesses testified to the theft. Should the thief be absolved from
@@ -1406,7 +1406,7 @@ of a bailee he was. The prosecution of the thief is always upon the
 bailee (and for his trouble he collects the double amount, but no oath
 is to be ordered)."
 
-Rabba Zuti <span id="fr_10"></span>[1](#fn_10) questioned thus: "If it
+Rabba Zuti <span id="fr_10"></span>[1](#fn_10.md) questioned thus: "If it
 was stolen by accident and the thief had returned it to the bailee, and
 then it dies in his house by negligence, what is the law? Shall we
 assume that from the moment it was stolen by accident he ceased to be
@@ -1438,7 +1438,7 @@ after his death, then he does not inherit. He may, however, transfer his
 part to his sons or brothers, but if he has nothing to eat, he may
 borrow from his friends, and they will collect it from the inheritance.
 
-GEMARA: <span id="fr_11"></span>[1](#fn_11) Whence do we deduce all
+GEMARA: <span id="fr_11"></span>[1](#fn_11.md) Whence do we deduce all
 this? From what the rabbis taught. It is written \[Ex. xxii. 6\]: "If
 the thief be found." The verse here treats of one who claims that it was
 stolen from him. Thou sayest so, but perhaps the verse treats of the
@@ -1629,7 +1629,7 @@ the first is correct.
 
 ### Footnotes
 
-<span id="fn_2"></span>[218:1](kam04.htm#fr_2) Rashi says: "It means
+<span id="fn_2"></span>[218:1](kam04.htm#fr_2.md) Rashi says: "It means
 Samuel, who was the greatest authority in court cases." Abraham
 Krochmal, however, maintains that R. Na'hman meant to say that Huna the
 Exilarch had granted him the power to impose fines as he thought
@@ -1639,10 +1639,10 @@ he had done it according to the law, but only as a fine; and if this
 Seburmalka meant Samuel, then it shows nothing. See Krochmal's remarks
 on the Talmud (p. 263).
 
-<span id="fn_3"></span>[219:1](kam04.htm#fr_3) Which according to the
+<span id="fn_3"></span>[219:1](kam04.htm#fr_3.md) Which according to the
 law, has no more any value. See Appendix to Tract Sabbath.
 
-<span id="fn_4"></span>[222:1](kam04.htm#fr_4) The text reads "Khi
+<span id="fn_4"></span>[222:1](kam04.htm#fr_4.md) The text reads "Khi
 Naphia" and "Khi Tratia." The dictionaries translate the former
 expression as "a sieve" and the second as "a third of the weight or
 size." It seems to us, however, that the translation of the former is
@@ -1652,37 +1652,37 @@ was still larger than Naphia, and according to the dictionaries the
 first would be larger than the second. We have therefore given the real
 meaning, omitting the Chaldean expressions, which are not known to us.
 
-<span id="fn_5"></span>[223:1](kam04.htm#fr_5) All this applies when the
+<span id="fn_5"></span>[223:1](kam04.htm#fr_5.md) All this applies when the
 coin was dropped from the owner's hand by one unintentionally pushing
 the same; but if he took it out of his own hand and dropped it, it is a
 robbery, and must be returned.
 
-<span id="fn_6"></span>[241:1](kam04.htm#fr_6) Leeser translates "he
+<span id="fn_6"></span>[241:1](kam04.htm#fr_6.md) Leeser translates "he
 shall confess"; the Talmud, however, takes it literally.
 
-<span id="fn_7"></span>[242:1](kam04.htm#fr_7) Because he is guilty of a
+<span id="fn_7"></span>[242:1](kam04.htm#fr_7.md) Because he is guilty of a
 falsehood.
 
-<span id="fn_8"></span>[244:1](kam04.htm#fr_8) In the Bible it is
+<span id="fn_8"></span>[244:1](kam04.htm#fr_8.md) In the Bible it is
 written in the plural, which the Talmud takes literally.
 
-<span id="fn_9"></span>[244:2](kam04.htm#fr_9) The Gemara explains that
+<span id="fn_9"></span>[244:2](kam04.htm#fr_9.md) The Gemara explains that
 both Amaraim made their conclusion from a Mishna in the Middle Gate,
 which each of them explains according to his theory, one of the first
 part of the Mishna and one of the second part, and as it is both too
 complicated and not of great importance, we have omitted it.
 
-<span id="fn_10"></span>[245:1](kam04.htm#fr_10) He was a contemporary
+<span id="fn_10"></span>[245:1](kam04.htm#fr_10.md) He was a contemporary
 of R. Ashi, many generations after Abba bar Na'hmany, who is generally
 named "Rabba." The name, however, of the former is unknown. Some
 maintain that his name was Zuti, and Rabba was only his title, and some
 say that Zuti means "little," and he was so named to distinguish him
 from the former.
 
-<span id="fn_11"></span>[246:1](kam04.htm#fr_11) Transferred from the
+<span id="fn_11"></span>[246:1](kam04.htm#fr_11.md) Transferred from the
 seventh chapter of this tract from the Gemara belonging to the First
 Mishna there. The proper place is, however, here.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](kam05)
+[Next: Chapter X](kam05.md)

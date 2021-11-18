@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp13)  [Next](flwp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp13)  [Next](flwp15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ arrangement. But if these are opposed as habit and privation, and there
 is a mutation from privation to habit, much more is there a mutation
 from habit to privation; for the former is much more impossible than the
 latter, because certain privations cannot be changed into habits. <span
-id="fr_41"></span>[\*](#fn_41) If, therefore, that which is more
+id="fr_41"></span>[\*](#fn_41.md) If, therefore, that which is more
 impossible to be generated was generated, in a much greater degree will
 that be which is more possible; and that which has an orderly
 arrangement will be changed into that which is without arrangement, and
@@ -79,7 +79,7 @@ which is arranged.
 
 ### Footnotes
 
-<span id="fn_41"></span>[48:\*](flwp14.htm#fr_41) The original here is
+<span id="fn_41"></span>[48:\*](flwp14.htm#fr_41.md) The original here is
 erroneous, for it is διοτι στερησις εστιν, αι δε στερησεις εις εξιν
 αμεταϐλητοι. Instead of whirl i, it is requisite to read διοτι τινες
 στερησεις εις εξιν εισιν αμεταϐλητοι. Conformably to this, the version
@@ -88,4 +88,4 @@ immutabiles."
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Ninth](flwp15)
+[Next: Argument the Ninth](flwp15.md)

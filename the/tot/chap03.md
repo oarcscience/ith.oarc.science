@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Previous](chap02) [Next](chap04)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Previous](chap02) [Next](chap04.md)
 
 ------------------------------------------------------------------------
 
@@ -256,4 +256,4 @@ Theosophical literature the buddhic plane.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Evolution of Life](chap04)
+[Next: Chapter IV: The Evolution of Life](chap04.md)

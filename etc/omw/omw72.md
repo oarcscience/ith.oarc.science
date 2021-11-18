@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw71)  [Next](omw73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw71)  [Next](omw73.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ since death and separation in the world.
 
 ------------------------------------------------------------------------
 
-[Next: In the Beginning](omw73)
+[Next: In the Beginning](omw73.md)

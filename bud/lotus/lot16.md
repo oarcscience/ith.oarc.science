@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot15)  [Next](lot17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot15)  [Next](lot17.md) 
 
 ------------------------------------------------------------------------
 
@@ -417,4 +417,4 @@ has stayed, there I am.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 17](lot17)
+[Next: Chapter 17](lot17.md)

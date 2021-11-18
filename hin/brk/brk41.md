@@ -1,31 +1,31 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk40)  [Next](brk42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk40)  [Next](brk42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### XIII. <span class="smallcaps">Light And Darkness</span> <span id="fr_48"></span>[1](#fn_48)
+#### XIII. <span class="smallcaps">Light And Darkness</span> <span id="fr_48"></span>[1](#fn_48.md)
 
 In the Lord is to be veiled this universe, whatsoever stirs in the
-world. With renunciation thereof <span id="fr_49"></span>[2](#fn_49)
+world. With renunciation thereof <span id="fr_49"></span>[2](#fn_49.md)
 thou mayst enjoy; lust thou after the wealth of none.
 
 <span id="page_89">p. 89</span>
 
 One may seek to live a hundred years doing works here. So it is with
 thee, not otherwise; his work defiles not man. <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 Dæmonic are in sooth these worlds, veiled in blind darkness; into them
 pass after death whatsoever folk slay their own souls.
@@ -49,7 +49,7 @@ self-existent, he has duly assigned purposes for all time.
 
 Into blind darkness pass they who worship Ignorance; into still greater
 dark they who are content with Knowledge. <span
-id="fr_51"></span>[2](#fn_51)
+id="fr_51"></span>[2](#fn_51.md)
 
 It is neither what comes by Knowledge, they
 
@@ -59,23 +59,23 @@ say, nor what comes by Ignorance; thus have we heard from the sages who
 taught us this lore.
 
 He who understands both Knowledge and Ignorance <span
-id="fr_52"></span>[1](#fn_52) passes by Ignorance over death and by
+id="fr_52"></span>[1](#fn_52.md) passes by Ignorance over death and by
 Knowledge enjoys deathlessness.
 
 Into blind darkness pass they who worship Change-into-naught; into still
 greater dark they who worship Change-into-aught. <span
-id="fr_53"></span>[2](#fn_53)
+id="fr_53"></span>[2](#fn_53.md)
 
 It is neither what comes by Change-into-aught, they say, nor what comes
 by Change-into-naught; thus have we heard from the sages who taught us
 this lore.
 
-He who understands <span id="fr_54"></span>[3](#fn_54) both
+He who understands <span id="fr_54"></span>[3](#fn_54.md) both
 Change-into-aught and Destruction passes by Destruction over death and
 by Change-into-aught enjoys deathlessness.
 
 The face of truth is covered with a golden bowl. O Pūshan, remove it,
-that the keeper of truths may see. <span id="fr_55"></span>[4](#fn_55)
+that the keeper of truths may see. <span id="fr_55"></span>[4](#fn_55.md)
 
 O Pūshan, sole seer, O Yama, Sun, child of
 
@@ -91,38 +91,38 @@ Om! remember, O my spirit, remember the work! remember, O my spirit,
 remember the work! O Fire, lead us by good ways to riches, thou god who
 knowest all courses; keep far from us crooked sin, and we will offer to
 thee exceeding homage and praise. <span
-id="fr_56"></span>[1](brk42.htm#fn_56)
+id="fr_56"></span>[1](brk42.htm#fn_56.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_48"></span>[88:1](brk41.htm#fr_48) The Īśāvāsya or
+<span id="fn_48"></span>[88:1](brk41.htm#fr_48.md) The Īśāvāsya or
 Vājasaneyi-saṃhitā Upanishad.
 
-<span id="fn_49"></span>[88:2](brk41.htm#fr_49)Viz. of the phenomenal
+<span id="fn_49"></span>[88:2](brk41.htm#fr_49.md)Viz. of the phenomenal
 world of sense-perception.
 
-<span id="fn_50"></span>[89:1](brk41.htm#fr_50) Provided he has
+<span id="fn_50"></span>[89:1](brk41.htm#fr_50.md) Provided he has
 knowledge of Brahma.
 
-<span id="fn_51"></span>[89:2](brk41.htm#fr_51) "Ignorance" probably
+<span id="fn_51"></span>[89:2](brk41.htm#fr_51.md) "Ignorance" probably
 means the conception of the phenomenal world as really existent in
 itself; "Knowledge," the attempt to trace the universe back to a first
 principle different from the Self.
 
-<span id="fn_52"></span>[90:1](brk41.htm#fr_52) Viz. he who knows both
+<span id="fn_52"></span>[90:1](brk41.htm#fr_52.md) Viz. he who knows both
 these forms of knowledge to be delusive.
 
-<span id="fn_53"></span>[90:2](brk41.htm#fr_53) The author here attacks
+<span id="fn_53"></span>[90:2](brk41.htm#fr_53.md) The author here attacks
 those who believe that Being undergoes change either into non-being or
 into a different phase of being. His cardinal principle is that Being is
 one and changeless.
 
-<span id="fn_54"></span>[90:3](brk41.htm#fr_54) I.e., he who knows both
+<span id="fn_54"></span>[90:3](brk41.htm#fr_54.md) I.e., he who knows both
 ideas to be false.
 
-<span id="fn_55"></span>[90:4](brk41.htm#fr_55) This and the following
+<span id="fn_55"></span>[90:4](brk41.htm#fr_55.md) This and the following
 verses (a death-bed prayer, according to tradition) are a prayer to the
 Sun-god to reveal the figure of the *Purusha* in the sun (corresponding
 to the figure in the human eye, and symbolic of Brahma; see p. 16). The
@@ -132,4 +132,4 @@ as a teacher of philosophic lore.
 
 ------------------------------------------------------------------------
 
-[Next: XIV: The False and the True](brk42)
+[Next: XIV: The False and the True](brk42.md)

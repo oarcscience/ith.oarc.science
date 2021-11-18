@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl059)  [Next](cohl061) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl059)  [Next](cohl061.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ he calls upon my name, Hodiänok'doo<sup>n</sup> Hêd'iohe? our Creator.
 So also whosoever speaks the name of the evil one must say, Segoewa'tha,
 The Tormentor. Then will the evil one know that you have discovered who
 he is, for it is he who will punish the wicked when they depart from
-this world.'" <span id="fr_51"></span>[1](#fn_51)
+this world.'" <span id="fr_51"></span>[1](#fn_51.md)
 
 So they said and he said. Eniaiehuk.
 
@@ -62,11 +62,11 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_51"></span>[48:1](cohl060.htm#fr_51) A typical example of
+<span id="fn_51"></span>[48:1](cohl060.htm#fr_51.md) A typical example of
 Iroquois philosophy. The Iroquois were fond of devising stories of this
 character and many of them reveal the subtle reasoning powers of the
 Indian in a striking manner.
 
 ------------------------------------------------------------------------
 
-[Next: Section 50](cohl061)
+[Next: Section 50](cohl061.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig31) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig31.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ the Holmgang might naturally be resorted to. In the second place,
 moreover, we learn that it was in like manner abolished in Norway, in
 1012, by Eric, the son of Hakon, without any such supplementary court
 being instituted to supply its place.  <span
-id="fr_29"></span>[1](#fn_29) I am more inclined to think that the
+id="fr_29"></span>[1](#fn_29.md) I am more inclined to think that the
 influence of Christianity, and a gradual change in the manners of the
 people led to an alteration in both countries, and that the same feeling
 showed the necessity of additional judicial facilities in Iceland. Of
@@ -161,5 +161,5 @@ THE END.
 
 ### Footnotes
 
-<span id="fn_29"></span>[1](vig32.htm#fr_29) See Grettir’s Saga, chap.
+<span id="fn_29"></span>[1](vig32.htm#fr_29.md) See Grettir’s Saga, chap.
 xix.

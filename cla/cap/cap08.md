@@ -1,10 +1,10 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](cap07)  [Next](cap09) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](cap07)  [Next](cap09.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_09"></span> [![](tn/09.jpg)  
-Click to enlarge](img/09.jpg)  
+Click to enlarge](img/09.jpg.md)  
 Psyche Awakened
 
 # Part VII.
@@ -54,4 +54,4 @@ just, lawful, and legitimate by the law civil."
 
 ------------------------------------------------------------------------
 
-[Next: Part VIII](cap09)
+[Next: Part VIII](cap09.md)

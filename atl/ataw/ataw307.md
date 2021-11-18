@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw306)  [Next](ataw308) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw306)  [Next](ataw308.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -204,7 +204,7 @@ the original forms received from the Colhuas.
  
 
 <span id="img_21900"></span> <span align="CENTER"> [![](tn/21900.jpg)  
-Click to enlarge](img/21900.jpg)</span>  
+Click to enlarge](img/21900.jpg.md)</span>  
 The Alphabet.
 
  
@@ -1044,4 +1044,4 @@ world."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: The Bronze Age in Europe.](ataw308)
+[Next: Chapter VIII: The Bronze Age in Europe.](ataw308.md)

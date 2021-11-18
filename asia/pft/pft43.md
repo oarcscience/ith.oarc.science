@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft42)  [Next](pft44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft42)  [Next](pft44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,13 +14,13 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE CHILDREN OF THE LIMOKON  <span id="fr_132"></span>[133](pft68.htm#fn_132)
+### THE CHILDREN OF THE LIMOKON  <span id="fr_132"></span>[133](pft68.htm#fn_132.md)
 
 *Mandaya* (*Mindanao*)
 
 In the very early days before there were any people on the earth, the
 limokon (a kind of dove)  <span
-id="fr_133"></span>[134](pft68.htm#fn_133) were very powerful and could
+id="fr_133"></span>[134](pft68.htm#fn_133.md) were very powerful and could
 talk like men though they looked like birds. One limokon laid two eggs,
 one at the mouth of the Mayo River and one farther up its course. After
 some time these eggs hatched, and the one at the mouth of the river
@@ -40,4 +40,4 @@ living along the Mayo River.
 
 ------------------------------------------------------------------------
 
-[Next: The Sun and the Moon](pft44)
+[Next: The Sun and the Moon](pft44.md)

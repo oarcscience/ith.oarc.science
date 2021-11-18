@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd02)  [Next](odd04) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd02)  [Next](odd04.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ should be made to appear so great, and, as a rule, exerted wholly for
 good; and that, in a land where despotism has such a firm hold on the
 hearts of the people, the liberties of the subject should be so boldly
 asserted as by the old Milk-woman to the Rajah in 'Little Surya
-Bai, <span id="fr_1"></span>[1](#fn_1) or the Malee to the Rajah in
+Bai, <span id="fr_1"></span>[1](#fn_1.md) or the Malee to the Rajah in
 'Truth's Triumph'; and few, probably, would have expected to find the
 Hindoos owning such a romance as 'Brave Seventee Bai'; or to meet with
 such stories as 'The Valiant Chatteemaker,' and 'The Blind Man, the Deaf
@@ -79,10 +79,10 @@ M. F.
 
 ### Footnotes
 
-<span id="fn_1"></span>[1](odd03.htm#fr_1) Was this narrative of
+<span id="fn_1"></span>[1](odd03.htm#fr_1.md) Was this narrative of
 feminine sagacity invented by some old woman, who felt aggrieved at the
 general contempt entertained for her sex?
 
 ------------------------------------------------------------------------
 
-[Next: The Narrator's Narrative](odd04)
+[Next: The Narrator's Narrative](odd04.md)

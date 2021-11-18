@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das15)  [Next](das17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das15)  [Next](das17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ employed on the old Wiley place, is given the respect
 
 of all the settlers as one who can read signs and interpret dreams.
 
-Solomon Gibson's wife, Mary Liza, <span id="fr_108"></span>[1](#fn_108)
+Solomon Gibson's wife, Mary Liza, <span id="fr_108"></span>[1](#fn_108.md)
 a slender black woman of about forty, came to the island from Skidaway
 upon her marriage. She was an amiable person, not at all disinclined to
 an interview.
@@ -56,10 +56,10 @@ an interview.
 house," she said. "Yes, I belieb in many signs. Yuh musn sweep out duh
 doe aftuh dahk an it bad luck tuh split a tree wen yuh's walkin. Deah's
 two signs uh det. Ef duh dog holluhs aw a owl
-hoffuhs, [44b](das26.htm#xref_44b) somebody is gonuh die. I lun all dis
+hoffuhs, [44b](das26.htm#xref_44b.md) somebody is gonuh die. I lun all dis
 frum duh ole people an I know it's true."
 
-Bruurs Butler, <span id="fr_109"></span>[2](#fn_109) well past three
+Bruurs Butler, <span id="fr_109"></span>[2](#fn_109.md) well past three
 score and ten, worked for "Capm Wiley" for nearly thirty years and is
 still an able field hand. He owns his small house, which is equipped
 with electricity and a radio.
@@ -74,18 +74,18 @@ old days and he nodded.
 
 "Use tuh be many 'Golla' people roun yuh but dey all died out. Dey tell
 me them people could do all kine uh curious tings. Dey could make fahm
-tools wuk fuh um jis by talkin tuh um. [39a](das26.htm#xref_39a) An," he
+tools wuk fuh um jis by talkin tuh um. [39a](das26.htm#xref_39a.md) An," he
 added soberly, "some of um could disappeah at
-will. [69c](das26.htm#xref_69c) Wist! And dey'd be done gone.
+will. [69c](das26.htm#xref_69c.md) Wist! And dey'd be done gone.
 
 "Yuh askin me bout signs? Well," he appeared amused, "yuh'll fine that
 ef yuh believe sumpm is bad luck an yuh look fuh bad luck, yuh gonuh
 fine bad luck. Deah's some signs that come frum Gawd, though, and these
 is unfailin. Lak dreams an foewahnin not tuh do dis aw
-dat." [22a](das26.htm#xref_22a)
+dat." [22a](das26.htm#xref_22a.md)
 
 One of the oldest of the residents is white-haired F. J. Jackson <span
-id="fr_110"></span>[3](#fn_110) who remembers his childhood days on
+id="fr_110"></span>[3](#fn_110.md) who remembers his childhood days on
 "Massuh George Wiley plantation" when many freed Negroes stayed on to
 work in the cotton fields. Years have weakened his
 
@@ -119,7 +119,7 @@ Deah wuz plenty uh deahs roun yuh.
 "I use tuh go back tuh duh fahm on Satdy night fuh duh big times. Dey
 hab wut yuh call shouts. Wut kine uh music did us hab?" Jackson's aged
 eyes twinkled. "We use drum an fife an we made duh drum frum holluh
-beehive lawg. [25b](das26.htm#xref_25b) I tell yuh how we done it. Yuh
+beehive lawg. [25b](das26.htm#xref_25b.md) I tell yuh how we done it. Yuh
 cut duh lawg an tak a deah hide an stretch obuh duh hole. Den yuh cut a
 hoop ban dat could lock roun duh lawg. Den yuh cut strips uh deah hide
 an make bans tuh hole duh head cuvvuh tight. How yuh make duh fife?
@@ -139,21 +139,21 @@ this time, greeted us, and sat down to listen.
 dat foetell wut comin. Wen yuh see duh hawgs bring straw in deah mouf,
 it's a sho sign wintuh goin tuh be cole. Ef duh roostuh come in duh doe
 an crow an den go out, it's sho sign uh sorruh in dat house. Duh owl is
-a true messenjuh uh det, [44](das26.htm#xref_44) an wen yuh see a bunch
+a true messenjuh uh det, [44](das26.htm#xref_44.md) an wen yuh see a bunch
 uh crows flock up, yuh jis watch out fuh a fewnul. Deah's many signs an
 wunduhs. Duh Bible tell us so. I had a buckeye fuh many yeahs dat keep
 off bad luck. I use tuh have a hawse shoe ovuh duh doe uh duh ole house
-wut bun down, [11a](das26.htm#xref_11a) but I ain put one on dis un yet.
+wut bun down, [11a](das26.htm#xref_11a.md) but I ain put one on dis un yet.
 
 "Rootn?" he shook his head disdainfully. "I seen duh root man say he tak
 wuhrums an pins an tings out uh people, but belieb it's some trick. I
 ain got no fait in dat stuff."
 
-"But I have," put in his wife. <span id="fr_111"></span>[1](#fn_111)
-"Muh brothuh-in-law wuz fixed by his wife. [15](das26.htm#xref_15) Not
+"But I have," put in his wife. <span id="fr_111"></span>[1](#fn_111.md)
+"Muh brothuh-in-law wuz fixed by his wife. [15](das26.htm#xref_15.md) Not
 muh sistuh but anothuh woman. He tun intuh a invalid an laid down
 helpless fuh twenny-five yeahs. None uh the medical doctuhs couldn hep
-im, an sevral root doctuhs wuz called in. [48a](das26.htm#xref_48a) One
+im, an sevral root doctuhs wuz called in. [48a](das26.htm#xref_48a.md) One
 of um said nuthin couldn be done fuh im cuz the pusson that put im in
 this fix wuz dead an theah wuzn nobody tuh throw it back tuh. So he had
 tuh linguh on till finally it reached his haht an he died."
@@ -161,7 +161,7 @@ tuh linguh on till finally it reached his haht an he died."
 Jackson scratched his bristly chin and smiled sheepishly. "I do belieb
 in some room," he said, "but uh didn wannuh talk too fas. I seen a root
 man tak is bag an in it wuz needles an pins an grabeyahd dut an sulphuh
-an rusty nails, an he made it crawl. [48e](das26.htm#xref_48e)
+an rusty nails, an he made it crawl. [48e](das26.htm#xref_48e.md)
 
 "But nuttn evuh done me hahm," he went on in his gentle voice. "I alluz
 got wut I want all deze yeahs. Cuz yuh know wy? I hab a black cat bone."
@@ -190,22 +190,22 @@ bone an nuttn ebuh do me no ebil."
 
 ### Footnotes
 
-<span id="fn_108"></span>[92:1](das16.htm#fr_108) Mary Liza Gibson,
+<span id="fn_108"></span>[92:1](das16.htm#fr_108.md) Mary Liza Gibson,
 Grimball's Point.
 
-<span id="fn_109"></span>[92:2](das16.htm#fr_109) Bruurs Butler,
+<span id="fn_109"></span>[92:2](das16.htm#fr_109.md) Bruurs Butler,
 Grimball's Point.
 
-<span id="fn_110"></span>[92:3](das16.htm#fr_110) F. J. Jackson,
+<span id="fn_110"></span>[92:3](das16.htm#fr_110.md) F. J. Jackson,
 Grimball's Point. Deceased July, 1940.
 
-<span id="fn_111"></span>[94:1](das16.htm#fr_111) Della Jackson,
+<span id="fn_111"></span>[94:1](das16.htm#fr_111.md) Della Jackson,
 Grimball's Point.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Wilmington Island](das17)
+[Next: Wilmington Island](das17.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib15)  [Next](sib17) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib15)  [Next](sib17.md) 
 
 ------------------------------------------------------------------------
 
@@ -492,4 +492,4 @@ Daniel, pp. 140-172. Basel, 1861.
 
 ------------------------------------------------------------------------
 
-[Next: Index](sib17)
+[Next: Index](sib17.md)

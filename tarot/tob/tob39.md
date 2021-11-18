@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob38) 
-[Next](tob40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob38.md) 
+[Next](tob40.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob38) 
 
 <span id="img_wiar21"></span>
 
-![THE FOOL.](img/wiar21.jpg)  
+![THE FOOL.](img/wiar21.jpg.md)  
 THE FOOL.
 
    <span id="img_msar21"></span>
 
-![THE MATE.](img/msar21.jpg)  
+![THE MATE.](img/msar21.jpg.md)  
 THE MATE.
 
 21\. סה
@@ -23,7 +23,7 @@ THE MATE.
 
 ORIGIN OF THE SYMBOLISM OF THE UNNUMBERED CARD OF THE TAROT.
 
-The Shin <span id="fr_63"></span>[1](#fn_63) expresses the same
+The Shin <span id="fr_63"></span>[1](#fn_63.md) expresses the same
 hieroglyphic meaning as the Zain (7th arcanum) and the Samech (15th):
 this is an arrow, an object directed to an aim. But the movement which
 was direct in the Zain (ז) and which became circular in the Samech (ס),
@@ -57,7 +57,7 @@ this symbol--
 Malheur au paresseux qui dort sur le chemin;  
 La douleur, comme un chien, mord les talons du lâche,  
 Qui, d'un seul jour perdu, surcharge un lendemain." <span
-id="fr_64"></span>[1](#fn_64)
+id="fr_64"></span>[1](#fn_64.md)
 
 1\. More rapid return to the Divine World. Personality asserts itself--
 
@@ -111,12 +111,12 @@ The Foolish Man.
 
 ### Footnotes
 
-<span id="fn_63"></span>[185:1](tob39.htm#fr_63) This letter is derived
+<span id="fn_63"></span>[185:1](tob39.htm#fr_63.md) This letter is derived
 from its vocal י (Yod), become a consonant; and it adds to its original
 meaning the respective significations of the letters ז (Zain) and ס
 (Samech).--FABRE D'OLIVET.
 
-<span id="fn_64"></span>[186:1](tob39.htm#fr_64)
+<span id="fn_64"></span>[186:1](tob39.htm#fr_64.md)
 
 "Sorrow lessens in work, in fulfilling a task,  
 Woe to the sluggard who sleeps on his way;  
@@ -125,4 +125,4 @@ If he leave for to-morrow the work of to-day."
 
 ------------------------------------------------------------------------
 
-[Next: 22. The World](tob40)
+[Next: 22. The World](tob40.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn74)  [Next](ptn76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn74)  [Next](ptn76.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -89,8 +89,8 @@ found her dead, he declared they had killed her, and that he must have
 the twelve men; to this the townsmen said no, not supposing that all the
 men had killed her, but the men confessed that they had each given her a
 blow—so he would not be satisfied with less than the twelve, and he
-carried them off to the King, and [delivered](errata.htm#3) them up.
+carried them off to the King, and [delivered](errata.htm#3.md) them up.
 
 ------------------------------------------------------------------------
 
-[Next: The King and the Ant's Tree](ptn76)
+[Next: The King and the Ant's Tree](ptn76.md)

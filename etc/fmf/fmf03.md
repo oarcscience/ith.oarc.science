@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf02)  [Next](fmf04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf02)  [Next](fmf04.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ MORAL: Home is where the Heart is.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Knowing Friend Who Tipped off Her Star
-Recipe](fmf04)
+Recipe](fmf04.md)

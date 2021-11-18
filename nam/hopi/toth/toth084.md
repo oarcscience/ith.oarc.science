@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth083)  [Next](toth085) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth083)  [Next](toth085.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_215">p. 215</span>
 
-## 81. HOW THE COYOTES HAD A KATCINA DANCE. <span id="fr_158"></span>[1](#fn_156)
+## 81. HOW THE COYOTES HAD A KATCINA DANCE. <span id="fr_158"></span>[1](#fn_156.md)
 
 At Squash Seed Point (Batángvoc Toika), lived the Hâ'ââ Katcina. North
 of there lived the Hotóto Katcina. At Pûtátokaovi lived the
@@ -75,9 +75,9 @@ happy over their successful hunt.
 
 ### Footnotes
 
-<span id="fn_156"></span>[215:1](toth084.htm#fr_158) Told by Kwáyeshva
+<span id="fn_156"></span>[215:1](toth084.htm#fr_158.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 82. The Coyote and His Prey](toth085)
+[Next: 82. The Coyote and His Prey](toth085.md)

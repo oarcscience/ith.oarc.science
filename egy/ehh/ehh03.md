@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh02)  [Next](ehh04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh02)  [Next](ehh04.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,7 +199,7 @@ unviolated by the members of the Commission which was appointed to
 inquire into the condition of the royal tombs, after the robberies which
 had taken place in them about the period of the rule of the priest-kings
 of Thebes, B.C. 1,000. The remains of the tomb of Menthu-hetep III. have
-been recently discovered, <span id="fr_0"></span>[1](#fn_0) and though
+been recently discovered, <span id="fr_0"></span>[1](#fn_0.md) and though
 at the time of writing it has not been completely excavated, sufficient
 has been done to show that it is a very remarkable building. It is clear
 that the lower part of it is rectangular, and that it was surrounded by
@@ -266,7 +266,7 @@ themselves and the members of their families in the hills, and to cause
 their bodies to be buried in elaborately inscribed or painted wooden
 coffins. Of coffins of this period, one of the oldest examples is that
 of AMAMU which was purchased by the Trustees of the British Museum so
-long ago as 1834. <span id="fr_1"></span>[1](#fn_1) On the inside of
+long ago as 1834. <span id="fr_1"></span>[1](#fn_1.md) On the inside of
 this coffin is inscribed in black ink in the hieratic character a series
 of texts which are extracts from the Heliopolitan Recension of the Book
 of the Dead; these are enclosed within a coloured border, formed of
@@ -303,7 +303,7 @@ intended to reflect the more popular and more materialistic religious
 views and beliefs. Among such books must be mentioned the "Book of Two
 Ways," or the "Two Ways of the Blessed Dead," of which a version
 inscribed on a coffin in the Berlin Museum has been recently
-published. <span id="fr_2"></span>[1](#fn_2) The rubrical directions of
+published. <span id="fr_2"></span>[1](#fn_2.md) The rubrical directions of
 this work show that it was compiled when implicit belief existed in the
 minds of the Egyptians as to the efficacy of
 
@@ -315,14 +315,14 @@ to produce very material results. Thus concerning one passage a rubric
 says, "Whosoever knoweth this Chapter may have union with women by night
 or by day, and the heart (or, desire) of the woman shall come to him
 whensoever he would enjoy her." This rubric follows a text <span
-id="fr_3"></span>[1](#fn_3) in which the deceased is made to pray for
+id="fr_3"></span>[1](#fn_3.md) in which the deceased is made to pray for
 power of generation similar to that possessed by the god Beba, and for
 the will and opportunity of overcoming women, and it was to be written
 on a bandlet which was to be attached to the right arm. Moreover, the
 soul which had knowledge of certain sections of the work would "live
 among the living ones," and would "see Osiris every day," and would have
 "air in his nostrils, and death would never draw nigh unto him." <span
-id="fr_4"></span>[2](#fn_4) The illustrations which accompany the texts
+id="fr_4"></span>[2](#fn_4.md) The illustrations which accompany the texts
 on the coffins from Al-Barsha make it evident that under the XIth
 Dynasty the Egyptian theologian had not only divided the Under-world in
 his mind into sections, with doors, &c., but that he was prepared to
@@ -414,9 +414,9 @@ when the first sanctuary of
 
 this god was built at Thebes, but the discovery of the large collection
 of 457 votive statues of kings and officials and other objects, made by
-M. Legrain <span id="fr_5"></span>[1](#fn_5) in 1901-2, indicates that
+M. Legrain <span id="fr_5"></span>[1](#fn_5.md) in 1901-2, indicates that
 the foundation of the sanctuary of Amen dates from a very early period
-of Dynastic History. <span id="fr_6"></span>[2](#fn_6) Be this as it
+of Dynastic History. <span id="fr_6"></span>[2](#fn_6.md) Be this as it
 may, the god Amen seems to have enjoyed no special importance or
 popularity in Egypt until the XIIth Dynasty, when his sanctuary appears
 to have been rebuilt and enlarged; but so long as his priests were
@@ -581,7 +581,7 @@ from several Chapters of that work were inscribed. Seti I. went a good
 deal further, for although fully illustrated copies of Divisions I.-XI.
 of the Book "Am-Tuat" were painted on the walls of his tomb, he took
 care to have a complete copy of the Book of Gates, <span
-id="fr_7"></span>[1](#fn_7) with full illustrations, and copies of the
+id="fr_7"></span>[1](#fn_7.md) with full illustrations, and copies of the
 LXXIInd and LXXXIXth Chapters of the Book of Coming Forth by Day cut on
 his alabaster sarcophagus.
 
@@ -664,32 +664,32 @@ Underworld.
 
 ### Footnotes
 
-<span id="fn_0"></span>[8:1](ehh03.htm#fr_0) See a letter in the *Times*
+<span id="fn_0"></span>[8:1](ehh03.htm#fr_0.md) See a letter in the *Times*
 of June 22nd, 1905 (p. 4), on the "Most Ancient Temple at Thebes," by
 Prof. E. Naville and Mr. If. R. Hall.
 
-<span id="fn_1"></span>[11:1](ehh03.htm#fr_1) See Birch, *Ancient
+<span id="fn_1"></span>[11:1](ehh03.htm#fr_1.md) See Birch, *Ancient
 Egyptian Texts front the Coffin of Amamu in the British Museum*, London,
 1886.
 
-<span id="fn_2"></span>[12:1](ehh03.htm#fr_2) Schack-Schackenburg, *Das
+<span id="fn_2"></span>[12:1](ehh03.htm#fr_2.md) Schack-Schackenburg, *Das
 Buch von den Zwei Wegen des Seligen Toten*, Leipzig, 1903.
 
-<span id="fn_3"></span>[13:1](ehh03.htm#fr_3) See page 49, l. 9-p. 51,
+<span id="fn_3"></span>[13:1](ehh03.htm#fr_3.md) See page 49, l. 9-p. 51,
 l. 11.
 
-<span id="fn_4"></span>[13:2](ehh03.htm#fr_4) See page 49, ll. 4-9.
+<span id="fn_4"></span>[13:2](ehh03.htm#fr_4.md) See page 49, ll. 4-9.
 
-<span id="fn_5"></span>[17:1](ehh03.htm#fr_5) See Maspero's *Recueil de
+<span id="fn_5"></span>[17:1](ehh03.htm#fr_5.md) See Maspero's *Recueil de
 Travaux*, tom. xxvii., p. 67.
 
-<span id="fn_6"></span>[17:2](ehh03.htm#fr_6) According to M. Legrain,
+<span id="fn_6"></span>[17:2](ehh03.htm#fr_6.md) According to M. Legrain,
 the IIIrd Dynasty (*Recueil*, tom. xxvii., p. 67).
 
-<span id="fn_7"></span>[23:1](ehh03.htm#fr_7) See within, Chapter IV.,
-[p. 85](ehh06.htm#page_85).
+<span id="fn_7"></span>[23:1](ehh03.htm#fr_7.md) See within, Chapter IV.,
+[p. 85](ehh06.htm#page_85.md).
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The Earliest Egyptian Conception of the Other
-World.](ehh04)
+World.](ehh04.md)

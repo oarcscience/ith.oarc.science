@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](salt04)  [Next](salt06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](salt04)  [Next](salt06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sayings of Lao-Tzu*, Lionel Giles translation \[1905\], at
 Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ Perfect Virtue does nothing, yet there is nothing which it does not
 effect. Perfect Charity operates without the need of anything to evoke
 it. Perfect Duty to one's neighbour operates, but always needs to be
 evoked. Perfect Ceremony operates, and calls for no outward response;
-nevertheless it induces respect. <span id="fr_2"></span>[\*](#fn_2)
+nevertheless it induces respect. <span id="fr_2"></span>[\*](#fn_2.md)
 
 Ceremonies are the outward expression of inward feelings.
 
@@ -172,7 +172,7 @@ bound to be left behind. How
 <span id="page_29">p. 29</span>
 
 can this be made good? Therefore, having entered into an agreement, the
-Sage adheres to his obligations, <span id="fr_3"></span>[\*](#fn_3) but
+Sage adheres to his obligations, <span id="fr_3"></span>[\*](#fn_3.md) but
 does not exact fulfilment from others. The man who has Virtue attends to
 the spirit of the compact; the man without Virtue attends only to his
 claims.
@@ -189,12 +189,12 @@ conformity with Nature.
 
 ### Footnotes
 
-<span id="fn_2"></span>[25:\*](salt05.htm#fr_2) Han Fei Tzŭ explains the
+<span id="fn_2"></span>[25:\*](salt05.htm#fr_2.md) Han Fei Tzŭ explains the
 passage by pointing out that "Virtue is the achievement of Tao; Charity
 is the glory of Virtue; Duty is the translation into action of Charity;
 and Ceremony is the ornamental part of Duty."
 
-<span id="fn_3"></span>[29:\*](salt05.htm#fr_3) Literally, "he holds the
+<span id="fn_3"></span>[29:\*](salt05.htm#fr_3.md) Literally, "he holds the
 left-hand portion of the agreement." In olden times, the terms of a
 contract were inscribed on a wooden tablet, the debit or obligations
 being on the left, and the credit or dues on the right; it was then
@@ -204,4 +204,4 @@ by fitting the two halves together.
 
 ------------------------------------------------------------------------
 
-[Next: The Doctrine of Inaction](salt06)
+[Next: The Doctrine of Inaction](salt06.md)

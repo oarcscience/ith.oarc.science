@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Next](meft01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Next](meft01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Sagas](../../index)  [English Folklore](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Preface](meft01)
+[Next: Preface](meft01.md)

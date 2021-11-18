@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf15)  [Next](taf17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf15)  [Next](taf17.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 # DISCOURSE.
 
 FOR the purpose of awakening in all beings a pure faith in the
-Mahâyâna, <span id="fr_60"></span>[1](#fn_60) of destroying their doubts
+Mahâyâna, <span id="fr_60"></span>[1](#fn_60.md) of destroying their doubts
 and attachment to false doctrines, and of affording them an
 uninterrupted inheritance of Buddha-seeds, I write this Discourse.
 
@@ -34,7 +34,7 @@ V. Benefits \[derived therefrom\].
 
 ### Footnotes
 
-<span id="fn_60"></span>[48:1](taf16.htm#fr_60) The term Mahâyâna here
+<span id="fn_60"></span>[48:1](taf16.htm#fr_60.md) The term Mahâyâna here
 seems not to have been used as it usually is in contrast to the
 Hînayâna. Açvaghosha adopts it simply to denote the greatness of
 suchness (*bhûtalathatâ*) as well as to prove its being the safest and
@@ -55,4 +55,4 @@ brought to maturity.
 
 ------------------------------------------------------------------------
 
-[Next: I. Introductory](taf17)
+[Next: I. Introductory](taf17.md)

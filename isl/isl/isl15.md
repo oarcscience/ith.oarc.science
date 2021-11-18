@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl14)  [Next](isl16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl14)  [Next](isl16.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,16 +135,16 @@ one. At this time one is concerned with correcting the principal written
 works and fixing the accuracy of their transmission. . . .
 
 Al-Bukhārī s Ṡaḥīḥ occupies the chief place among them <span
-id="fr_48"></span>[42](#fn_48)
+id="fr_48"></span>[42](#fn_48.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_48"></span>[91:42](isl15.htm#fr_48) Ibn Khaldūn, *The
+<span id="fn_48"></span>[91:42](isl15.htm#fr_48.md) Ibn Khaldūn, *The
 Muqaddimah* (New York, 1958), translated by Franz Rosenthal, Vol. II,
 pp. 447-457, *passim*.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](isl16)
+[Next: Introduction](isl16.md)

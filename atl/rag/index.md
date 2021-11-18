@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 ### \[1883\]
 
-[Jump to index](#toc)  [Start reading](rag03)
+[Jump to index](#toc)  [Start reading](rag03.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@
 ###### {Introduction © J.B. Hare, 2001, All Rights Reserved}
 
 This companion book to Donnelly's [Atlantis, the Antediluvian
-World](../ataw/index), published one year later, is less well known
+World](../ataw/index.md), published one year later, is less well known
 today. Ragnarok is out of print except through specialty print-on-demand
 publishers, while Atlantis, the Antediluvian World is in print and
 fairly easy to obtain. Ragnarok, The Age of Fire and Gravel, proposes
@@ -57,9 +57,9 @@ past, for instance the Permian extinction before the age of the
 dinosaurs which also wiped out nearly all life on earth. This growing
 knowledge of the risk of impact events to our civilization was
 popularized recently in a pair of big-budget disaster movies: [Deep
-Impact](https://www.amazon.com/exec/obidos/ASIN/6305232660/internetsacredte)
+Impact](https://www.amazon.com/exec/obidos/ASIN/6305232660/internetsacredte.md)
 and
-[Armageddon](https://www.amazon.com/exec/obidos/ASIN/B00000G3PA/internetsacredte).
+[Armageddon](https://www.amazon.com/exec/obidos/ASIN/B00000G3PA/internetsacredte.md).
 However, the theory that such an event occurred in the recent geological
 or even historical past is still considered speculative.
 
@@ -85,7 +85,7 @@ by 100 to 240 degrees Kelvin worldwide, depending on the latitude, which
 obviously would have led to the extinction of life on earth.
 
 More recently the book [When the Earth Nearly
-Died](https://www.amazon.com/exec/obidos/ASIN/1879181428/internetsacredte)
+Died](https://www.amazon.com/exec/obidos/ASIN/1879181428/internetsacredte.md)
 When the Earth Nearly Died by D.S. Allan and J.B. Delair \[1995\]
 (reissued as Cataclysm: Compelling Evidence of a Cosmic Catastrophe in
 9500 B.C.), brought together a mass of evidence that a catastrophic
@@ -105,13 +105,13 @@ The truth of this hypothesis has yet to be determined. However, if even
 a 'moderate' impact event occurred in 9,500 B.C. and destroyed an
 unknown prehistoric civilization it would explain a great deal--for
 instance the radical fluctuations in climate and sealevel at that time;
-the [Piri Reis map](../../piri/index) as well as other anomolous maps,
+the [Piri Reis map](../../piri/index.md) as well as other anomolous maps,
 not to mention many otherwise mystifying myths such as the Icelandic
-[Voluspa](../../neu/poe/poe03) and the Zoroastrian
-[Vendidad](../../zor/sbe04/index). Other texts worth examining can be
+[Voluspa](../../neu/poe/poe03.md) and the Zoroastrian
+[Vendidad](../../zor/sbe04/index.md). Other texts worth examining can be
 found elsewhere at this site including the [Ancient Near
-East](../../ane/index) myths of war in heaven, and [Native
-American](../../nam/index) stories of emergence from the underworld.
+East](../../ane/index.md) myths of war in heaven, and [Native
+American](../../nam/index.md) stories of emergence from the underworld.
 
 While Donnelly quoted from Zoroastrian scriptures as supporting
 evidence, there is one item that he missed which has taken on additional
@@ -188,75 +188,75 @@ As always, the reader is invited to make up their own mind.
 
 ------------------------------------------------------------------------
 
-[Title Page](rag00)
+[Title Page](rag00.md)
 
-[Contents](rag01)
+[Contents](rag01.md)
 
-[List Of Illustrations](rag02)
+[List Of Illustrations](rag02.md)
 
-[Part I. The Drift.--Chapter I. The Characteristics Of the Drift](rag03)
+[Part I. The Drift.--Chapter I. The Characteristics Of the Drift](rag03.md)
 
-[Chapter II. The Origin Of The Drift Not Known](rag04)
+[Chapter II. The Origin Of The Drift Not Known](rag04.md)
 
-[Chapter III. The Action Of Waves](rag05)
+[Chapter III. The Action Of Waves](rag05.md)
 
-[Chapter IV. Was It Caused By Icebergs?](rag06)
+[Chapter IV. Was It Caused By Icebergs?](rag06.md)
 
-[Chapter V. Was It Caused By Glaciers?](rag07)
+[Chapter V. Was It Caused By Glaciers?](rag07.md)
 
-[Chapter VI. Was It Caused By Continental Ice-Sheets?](rag08)
+[Chapter VI. Was It Caused By Continental Ice-Sheets?](rag08.md)
 
-[Chapter VII. The Drift A Gigantic Catastrophe](rag09)
+[Chapter VII. The Drift A Gigantic Catastrophe](rag09.md)
 
-[Chapter VIII. Great Heat A Prerequisite](rag10)
+[Chapter VIII. Great Heat A Prerequisite](rag10.md)
 
-[Part II. The Comet.--Chapter I. A Comet Caused the Drift](rag11)
+[Part II. The Comet.--Chapter I. A Comet Caused the Drift](rag11.md)
 
-[Chapter II. What Is A Comet?](rag12)
+[Chapter II. What Is A Comet?](rag12.md)
 
-[Chapter III. Could A Comet Strike The Earth?](rag13)
+[Chapter III. Could A Comet Strike The Earth?](rag13.md)
 
-[Chapter IV. The Consequences To The Earth](rag14)
+[Chapter IV. The Consequences To The Earth](rag14.md)
 
-[Part III. The Legends.--Chapter I. The Nature Of Myths](rag15)
+[Part III. The Legends.--Chapter I. The Nature Of Myths](rag15.md)
 
-[Chapter II. Did Man Exist Before The Drift?](rag16)
+[Chapter II. Did Man Exist Before The Drift?](rag16.md)
 
-[Chapter III. Legends Of The Coming Of The Comet](rag17)
+[Chapter III. Legends Of The Coming Of The Comet](rag17.md)
 
-[Chapter IV. Ragnarok](rag18)
+[Chapter IV. Ragnarok](rag18.md)
 
-[Chapter V. The Conflagration Of Phaëton](rag19)
+[Chapter V. The Conflagration Of Phaëton](rag19.md)
 
-[Chapter VI. Other Legends Of The Conflagration](rag20)
+[Chapter VI. Other Legends Of The Conflagration](rag20.md)
 
-[Chapter VII. Legends Of The Cave-Life](rag21)
+[Chapter VII. Legends Of The Cave-Life](rag21.md)
 
-[Chapter VIII. Legends Of The Age Of Darkness](rag22)
+[Chapter VIII. Legends Of The Age Of Darkness](rag22.md)
 
-[Chapter IX. The Triumph Of The Sun](rag23)
+[Chapter IX. The Triumph Of The Sun](rag23.md)
 
-[Chapter X. The Fall Of The Clay And Gravel](rag24)
+[Chapter X. The Fall Of The Clay And Gravel](rag24.md)
 
-[Chapter XI. The Arabian Myths](rag25)
+[Chapter XI. The Arabian Myths](rag25.md)
 
-[Chapter XII. The Book Of Job](rag26)
+[Chapter XII. The Book Of Job](rag26.md)
 
-[Chapter XIII. Genesis Read By The Light Of The Comet](rag27)
+[Chapter XIII. Genesis Read By The Light Of The Comet](rag27.md)
 
 [Part IV. Conclusions.--Chapter I. Was Pre-Glacial Man
-Civilized?](rag28)
+Civilized?](rag28.md)
 
-[Chapter II. The Scene Of Man's Survival](rag29)
+[Chapter II. The Scene Of Man's Survival](rag29.md)
 
-[Chapter III. The Bridge](rag30)
+[Chapter III. The Bridge](rag30.md)
 
-[Chapter IV. Objections Considered](rag31)
+[Chapter IV. Objections Considered](rag31.md)
 
-[Chapter V. Biela's Comet](rag32)
+[Chapter V. Biela's Comet](rag32.md)
 
-[Chapter VI. The Universal Belief Of Mankind](rag33)
+[Chapter VI. The Universal Belief Of Mankind](rag33.md)
 
-[Chapter VII. The Earth Struck By Comets Many Times](rag34)
+[Chapter VII. The Earth Struck By Comets Many Times](rag34.md)
 
-[Chapter VIII. The After-Word](rag35)
+[Chapter VIII. The After-Word](rag35.md)

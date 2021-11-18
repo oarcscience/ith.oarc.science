@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm06)  [Next](bcm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm06)  [Next](bcm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ unaccountably escaped publication, will be found in the third chapter of
 this part. Sloane 3648 is another manuscript of the *Lemegeton*, also in
 English, together with the *Ars Notoria*, a book of invocations and
 prayers attributed to Solomon, of which there are many examples extant
-in England and on the Continent. <span id="fr_8"></span>[1](#fn_8) It is
+in England and on the Continent. <span id="fr_8"></span>[1](#fn_8.md) It is
 a work which connects with Magic
 
 <span id="page_22">p. 22</span>
@@ -162,7 +162,7 @@ relation to the Key or Clavicle as the *Enchiridion of Pope Leo* to the
 Archidoxies* of Paracelsus, but the version seems to be quite distinct
 from the treatise so entitled in the Geneva folio, containing the
 collected writings of the German adept. <span
-id="fr_9"></span>[1](#fn_9) In either case, it is not a work of
+id="fr_9"></span>[1](#fn_9.md) In either case, it is not a work of
 Ceremonial Magic, its title notwithstanding. Sloane 3805 is a quarto
 MS., chiefly alchemical and medical, comprising a translation of the
 forged epistles of Sendivogius, and towards the end the *Lemegeton*,
@@ -209,17 +209,17 @@ deserves particular mention, as this again seems unknown to students.
 Its attribution notwithstanding, it is the work of a Catholic writer.
 
 <span id="img_02300"></span> [![](tn/generic.jpg)  
-Click to view](img/02300.jpg)  
+Click to view](img/02300.jpg.md)  
 THE SACRED URÆUS OR BASILISK
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_8"></span>[21:1](bcm07.htm#fr_8) The printed English
+<span id="fn_8"></span>[21:1](bcm07.htm#fr_8.md) The printed English
 translation of Robert Turner is well known to collectors.
 
-<span id="fn_9"></span>[22:1](bcm07.htm#fr_9) The genuine *Archidoxies*
+<span id="fn_9"></span>[22:1](bcm07.htm#fr_9.md) The genuine *Archidoxies*
 are concerned with the alchemical separation of elements, with
 transcendental Medicine and the Quintessence, with Magisteries and
 Elixirs. The first complete rendering is in *The Hermetic and Alchemical
@@ -227,4 +227,4 @@ Writings of Paracelsus*, edited by myself, 2 vols. 4to 1894.
 
 ------------------------------------------------------------------------
 
-[Next: Section 1: The Arbatel of Magic](bcm08)
+[Next: Section 1: The Arbatel of Magic](bcm08.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](vob06)  [Next](vob08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](vob06)  [Next](vob08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014043268X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1096,4 +1096,4 @@ Governor.—R. T. Pritchett, 1880.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](vob08)
+[Next: Chapter VI](vob08.md)

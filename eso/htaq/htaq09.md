@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](htaq08)  [Next](htaq10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](htaq08)  [Next](htaq10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hidden Treasures of the Ancient Qabalah*, by Elias Gewurz, \[1918\], at
 Intangible Textual Heritage
 
@@ -192,4 +192,4 @@ any brother or sister of mine."
 
 ------------------------------------------------------------------------
 
-[Next: VIII. On the Threshold of the Sanctuary](htaq10)
+[Next: VIII. On the Threshold of the Sanctuary](htaq10.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe153)  [Next](prwe155) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe153)  [Next](prwe155.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ for the purpose of preserving it.
 
 ------------------------------------------------------------------------
 
-[Next: Redruth Well](prwe155)
+[Next: Redruth Well](prwe155.md)

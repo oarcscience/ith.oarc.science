@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](aa2)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](aa2.md)
 
 ------------------------------------------------------------------------
 
@@ -156,4 +156,4 @@ mentioned father, the priest Joseph.
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md)

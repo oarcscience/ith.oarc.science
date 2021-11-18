@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](alex0) [Next](alex2)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](alex0) [Next](alex2.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Angelus Silesius' couplets.
 
 ------------------------------------------------------------------------
 
-[Next](alex2)
+[Next](alex2.md)

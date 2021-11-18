@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,8 +22,8 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](coli00)    [Page
-Index](pageidx)    [Text \[Zipped\]](colitxt.zip)
+[Contents](#contents)    [Start Reading](coli00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](colitxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Index](pageidx)    [Text \[Zipped\]](colitxt.zip)
 believe this you will grow old. And you will see your sons and
 daughters, and you will counsel them in this manner, when you reach your
 old age.*--Lecture given to initiated boys. [p.
-223](coli23.htm#page_223)
+223](coli23.htm#page_223.md)
 
 This monograph is a posthumous publication; the author died in 1907.
 Sparkman spent years studying the Luiseño people, who resided in the
@@ -45,30 +45,30 @@ description of their use by Native Californians.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](coli00)  
-[Contents](coli01)  
-[Editor's Note](coli02)  
-[Introduction](coli03)  
-[Vegetable Food](coli04)  
-[Flesh and Hunting](coli05)  
-[Fishing](coli06)  
-[Clothing](coli07)  
-[Pottery](coli08)  
-[Articles Made of Plant Fibers](coli09)  
-[Bows and Arrows](coli10)  
-[Stone Implements](coli11)  
-[Feather Objects](coli12)  
-[Fire Making](coli13)  
-[Gums, Dyes, and Paint](coli14)  
-[Miscellaneous Arts](coli15)  
-[Games](coli16)  
-[Houses](coli17)  
-[Marriage](coli18)  
-[Government](coli19)  
-[Shamanism](coli20)  
-[Changichnish, The Raven](coli21)  
-[Spirits and Monsters](coli22)  
-[Boys’ Puberty Ceremonies](coli23)  
-[Girls’ Puberty Ceremonies](coli24)  
-[Mourning Ceremonies and Mourning](coli25)  
-[Appendix: Plants Used by the Luiseños](coli26)  
+<span id="contents"></span> [Title Page](coli00.md)  
+[Contents](coli01.md)  
+[Editor's Note](coli02.md)  
+[Introduction](coli03.md)  
+[Vegetable Food](coli04.md)  
+[Flesh and Hunting](coli05.md)  
+[Fishing](coli06.md)  
+[Clothing](coli07.md)  
+[Pottery](coli08.md)  
+[Articles Made of Plant Fibers](coli09.md)  
+[Bows and Arrows](coli10.md)  
+[Stone Implements](coli11.md)  
+[Feather Objects](coli12.md)  
+[Fire Making](coli13.md)  
+[Gums, Dyes, and Paint](coli14.md)  
+[Miscellaneous Arts](coli15.md)  
+[Games](coli16.md)  
+[Houses](coli17.md)  
+[Marriage](coli18.md)  
+[Government](coli19.md)  
+[Shamanism](coli20.md)  
+[Changichnish, The Raven](coli21.md)  
+[Spirits and Monsters](coli22.md)  
+[Boys’ Puberty Ceremonies](coli23.md)  
+[Girls’ Puberty Ceremonies](coli24.md)  
+[Mourning Ceremonies and Mourning](coli25.md)  
+[Appendix: Plants Used by the Luiseños](coli26.md)  

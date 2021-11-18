@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Chinese
-Articles](../../cfu/etc/index) [Christian Articles](../../chr/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Chinese
+Articles](../../cfu/etc/index) [Christian Articles](../../chr/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -84,19 +84,19 @@ true dignity, appeared in the world as a man; angelic powers promulgated
 the glad tidings, a virgin gave birth to the Holy One in Syria; a bright
 star announced the felicitous event, and Persians<span
 id="page_36_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_36_note_1) observing the splendor
+class="small">1</span></sup>](#page_36_note_1.md) observing the splendor
 came to present tribute; the ancient dispensation, as declared by the
 twenty-four holy men,<span id="page_36_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_36_note_2) was then fulfilled, and
+class="small">2</span></sup>](#page_36_note_2.md) was then fulfilled, and
 he laid down great principles for the government of families and
 kingdoms; he established the new religion of the silent operation of the
 pure spirit of the Triune; he rendered virtue subservient to direct
 faith; he fixed the extent of the eight boundaries,<span
 id="page_36_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_36_note_3) thus completing the truth
+class="small">3</span></sup>](#page_36_note_3.md) thus completing the truth
 and freeing it from dross; he opened the gate of the three constant
 principles,<span id="page_36_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_36_note_4) introducing life and
+class="small">4</span></sup>](#page_36_note_4.md) introducing life and
 destroying death; he suspended the bright sun to invade the chambers of
 darkness, and the falsehoods of the devil were thereupon defeated; he
 set in motion the vessel of mercy by which to ascend to the bright
@@ -104,7 +104,7 @@ mansions, whereupon rational beings were then released, having thus
 completed the manifestation of his power, in clear day he ascended to
 his true station. Twenty-seven sacred books<span
 id="page_36_fr_5"></span>[<sup><span
-class="small">5</span></sup>](#page_36_note_5) have been left, which
+class="small">5</span></sup>](#page_36_note_5.md) have been left, which
 disseminate intelligence by unfolding the original transforming
 principles. By the rule for admission, it is the custom to apply the
 water of baptism; to wash away all superficial show and to cleanse and
@@ -187,7 +187,7 @@ channel, the State became enriched and tranquility abounded. Every city
 was full of churches, and the royal family enjoyed lustre and happiness.
 In the year A.D. 699 the Buddhists, gaining power, raised their voices
 in the eastern metropolis;<span id="page_38_fr_6"></span>[<sup><span
-class="small">6</span></sup>](#page_38_note_6) in the year A.D. 713,
+class="small">6</span></sup>](#page_38_note_6.md) in the year A.D. 713,
 some low fellows excited ridicule and spread slanders, in the western
 capital. At that time there was the chief priest Lo-han, the
 Greatly-virtuous Kie-leih, and others of noble estate frorn the golden
@@ -209,7 +209,7 @@ Although the dragon's beard was then remote, their bows and swords were
 still within reach; while the solar horns sent forth their rays, and
 celestial visages seemed close at hand.<span
 id="page_39_fr_7"></span>[<sup><span
-class="small">7</span></sup>](#page_39_note_7)
+class="small">7</span></sup>](#page_39_note_7.md)
 
    In 744 the priest Kih-ho, in the kingdom of Syria, looking toward the
 star (of China), was attracted by its transforming influence, and
@@ -261,13 +261,13 @@ Illustrious Religion are laboring to attain.
 
    Our great benefactor, the Imperially-conferred-purple-gown
 priest,<span id="page_40_fr_8"></span>[<sup><span
-class="small">8</span></sup>](#page_40_note_8) I-sz', titular Great
+class="small">8</span></sup>](#page_40_note_8.md) I-sz', titular Great
 Statesman of the Banqueting-house, Associated Secondary Military
 Commissioner for the Northern Region, and Examination-palace Overseer,
 was naturally mild and graciously disposed; his mind susceptible of
 sound doctrine, he was diligent in the performance; from the distant
 city of Râjagriha,<span id="page_40_fr_9"></span>[<sup><span
-class="small">9</span></sup>](#page_40_note_9) he came to visit China;
+class="small">9</span></sup>](#page_40_note_9.md) he came to visit China;
 his principles more lofty than those of the three dynasties, his
 practice was perfect in every department; at first he applied himself to
 dulies pertaining to the palace, eventually his name was inscribed on
@@ -430,8 +430,8 @@ sixty-seven priests, and sixty-one are given in Chinese.\]</span>
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Chinese Articles](../../cfu/etc/index) [Christian
-Articles](../../chr/etc/index)
+[Journals](../index) [Chinese Articles](../../cfu/etc/index.md) [Christian
+Articles](../../chr/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -439,7 +439,7 @@ Articles](../../chr/etc/index)
 
 <span id="footnotes_page_36">p. 36</span>
 
-<span id="page_36_note_1"></span>[1](#page_36_fr_1) *Po-sz'*,
+<span id="page_36_note_1"></span>[1](#page_36_fr_1.md) *Po-sz'*,
 "Persians." This name was well known to the Chinese at that time, being
 the designation of an extensive sect then located in the Empire, and the
 name of a nation with which they had held commercial and political
@@ -448,28 +448,28 @@ harmony with the general tradition of the early Church, that the Magi or
 wise men mentioned in Matthew's Gospel were no other than philosophers
 of the Parsee sect.
 
-<span id="page_36_note_2"></span>[2](#page_36_fr_2) The "holy men"
+<span id="page_36_note_2"></span>[2](#page_36_fr_2.md) The "holy men"
 denote the writers of the books of the Old Testament.
 
-<span id="page_36_note_3"></span>[3](#page_36_fr_3) The "eight
+<span id="page_36_note_3"></span>[3](#page_36_fr_3.md) The "eight
 boundaries" are inexplicable; some refer them to the beatitudes.
 
-<span id="page_36_note_4"></span>[4](#page_36_fr_4) The "three constant
+<span id="page_36_note_4"></span>[4](#page_36_fr_4.md) The "three constant
 principles" may perhaps mean faith, hope, and charity.
 
-<span id="page_36_note_5"></span>[5](#page_36_fr_5) Exactly the number
+<span id="page_36_note_5"></span>[5](#page_36_fr_5.md) Exactly the number
 we have in the New Testament.
 
 <span id="footnotes_page_38">p. 38</span>
 
-<span id="page_38_note_6"></span>[6](#page_38_fr_6) "Eastern metropolis"
+<span id="page_38_note_6"></span>[6](#page_38_fr_6.md) "Eastern metropolis"
 is *Tung Chau*, literally "Eastern Chau." The Empire was at this time
 under the government of the Empress Wu Tsih-tien, who had removed her
 residence from Chang-an to Lohyang in Honan.
 
 <span id="footnotes_page_39">p. 39</span>
 
-<span id="page_39_note_7"></span>[7](#page_39_fr_7) These personages are
+<span id="page_39_note_7"></span>[7](#page_39_fr_7.md) These personages are
 the first five emperors of the Tang dynasty, Hiuen-tsung's predecessors.
 Their portraits were so admirably painted that they seemed to be
 present, their arms could almost be handled, and their foreheads. or
@@ -477,7 +477,7 @@ present, their arms could almost be handled, and their foreheads. or
 
 <span id="footnotes_page_40">p. 40</span>
 
-<span id="page_40_note_8"></span>[8](#page_40_fr_8) It was no rare
+<span id="page_40_note_8"></span>[8](#page_40_fr_8.md) It was no rare
 occurrence for priests to occupy civil and military offices in the State
 during the Tang and preceding dynasties. Of the three titles here given,
 the first is merely an indication of rank, by which the bearer is
@@ -486,7 +486,7 @@ as an officer actively engaged in the imperial service; and the third is
 an honorary title, which gives to the possessor a certain status in the
 capital, without any duties or emolument connected therewith.
 
-<span id="page_40_note_9"></span>[9](#page_40_fr_9) *Wang-shih*,
+<span id="page_40_note_9"></span>[9](#page_40_fr_9.md) *Wang-shih*,
 literally "Royal residence," which is also the translation of the
 Sanskrit word Râjagriha, is the name of a city on the banks of the
 Ganges, which occurs in several Buddhist works. As this was one of the

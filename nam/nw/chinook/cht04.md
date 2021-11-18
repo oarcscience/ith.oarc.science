@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht03)  [Next](cht05) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht03)  [Next](cht05.md) 
 
 ------------------------------------------------------------------------
 
@@ -170,7 +170,7 @@ people shall always catch flounders."
 Now they went on. They met a person who always made waâ'waâ'! "What are
 you doing?" "I shoot the rain." "Stay here!" Now they took his house,
 threw it away, and made a good house for him. <span
-id="fr_0"></span>[1](#fn_0) They said: "Stay here; henceforth people
+id="fr_0"></span>[1](#fn_0.md) They said: "Stay here; henceforth people
 will not shoot the rain."
 
 Then they went on. They found a country. There they bathed. Then they
@@ -230,9 +230,9 @@ legs\].
 
 ### Footnotes
 
-<span id="fn_0"></span>[20:1](cht04.htm#fr_0) His house had no roof, and
+<span id="fn_0"></span>[20:1](cht04.htm#fr_0.md) His house had no roof, and
 he protected himself by shooting at the rain.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Okulâ'm](cht05)
+[Next: 2. Okulâ'm](cht05.md)

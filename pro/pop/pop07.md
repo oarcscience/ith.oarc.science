@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop06)  [Next](pop08) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop06)  [Next](pop08.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ but thou has overlooked it, thine own wisdom hath seduced thee.'
 
 ------------------------------------------------------------------------
 
-[Next: The Third Figure](pop08)
+[Next: The Third Figure](pop08.md)

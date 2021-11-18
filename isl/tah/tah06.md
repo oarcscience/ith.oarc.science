@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah05)  [Next](tah07) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah05)  [Next](tah07.md) 
 
 ------------------------------------------------------------------------
 
@@ -315,4 +315,4 @@ they are His servants.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Knowledge Of This World](tah07)
+[Next: Chapter III: The Knowledge Of This World](tah07.md)

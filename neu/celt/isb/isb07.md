@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb06)  [Next](isb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb06)  [Next](isb08.md) 
 
 ------------------------------------------------------------------------
 
@@ -482,4 +482,4 @@ in a plate!
 ------------------------------------------------------------------------
 
 [Next: From Cork to Bantry; with an account of the city of
-Skibbereen](isb08)
+Skibbereen](isb08.md)

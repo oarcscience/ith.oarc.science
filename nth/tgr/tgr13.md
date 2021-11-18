@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tgr12)  [Next](tgr14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tgr12)  [Next](tgr14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Think and Grow Rich*, by Napoleon Hill \[1938\], at Intangible Textual
 Heritage
 
@@ -447,7 +447,7 @@ with Great Britain, which was sure to follow.
 The document was drawn, and on June 28, the original draft was read
 before the Congress. For several days it was discussed, altered, and
 made ready. On July 4, 1776, Thomas Jefferson stood before the Assembly,
-and fearlessly read the most [momentous](errata.htm#0) DECISION ever
+and fearlessly read the most [momentous](errata.htm#0.md) DECISION ever
 placed upon paper.
 
 "When in the course of human events it is necessary for one people to
@@ -558,4 +558,4 @@ of action.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9. Persistence (The Eighth Step toward Riches)](tgr14)
+[Next: Chapter 9. Persistence (The Eighth Step toward Riches)](tgr14.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Navajo](index) 
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Navajo](index.md) 
 
 ------------------------------------------------------------------------
 

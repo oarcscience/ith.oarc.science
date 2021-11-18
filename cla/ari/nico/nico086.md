@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico085) 
-[Next](nico087) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico085.md) 
+[Next](nico087.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ good.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6. Various relations between the three kinds](nico087)
+[Next: Chapter 6. Various relations between the three kinds](nico087.md)

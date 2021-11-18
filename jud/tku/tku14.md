@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku13)  [Next](tku15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku13)  [Next](tku15.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ science of the Ancient One, and His brain is calm and concealed.
 
 62\. And that membrane hath an outlet towards Microprosopus, and on that
 account is His brain extended, and goeth forth by thirty and two
-paths. <span id="fr_19"></span>[1](tku15.htm#fn_18)
+paths. <span id="fr_19"></span>[1](tku15.htm#fn_18.md)
 
 63\. This is that same thing which is written: "And a river went forth
 out of Eden" (Gen. ii. 7). But for what reason? Because the membrane is
@@ -44,8 +44,8 @@ good wine upon its lees.
 
 ### Footnotes
 
-<span id="fn_17"></span>[118:1](tku13.htm#fr_18) Macroprosopus.
+<span id="fn_17"></span>[118:1](tku13.htm#fr_18.md) Macroprosopus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Concerning the Hair of Macroprosopus](tku15)
+[Next: Chapter VII: Concerning the Hair of Macroprosopus](tku15.md)

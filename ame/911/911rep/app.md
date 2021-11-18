@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Americana](../../index) 
-[9/11](../index)  [Index](index)  [Previous](ch13)  [Next](notes) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Americana](../../index.md) 
+[9/11](../index)  [Index](index)  [Previous](ch13)  [Next](notes.md) 
 
 ------------------------------------------------------------------------
 
@@ -1009,4 +1009,4 @@ Control, Federal Aviation Administration
 
 ------------------------------------------------------------------------
 
-[Next: Notes](notes)
+[Next: Notes](notes.md)

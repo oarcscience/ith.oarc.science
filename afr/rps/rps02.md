@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps01)  [Next](rps03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps01)  [Next](rps03.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ A.B.C. Post Graduates
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. The Ethiopian Western Philosophy](rps03)
+[Next: Chapter 1. The Ethiopian Western Philosophy](rps03.md)

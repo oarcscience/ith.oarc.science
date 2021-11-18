@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp38) 
-[Next](alp40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp38.md) 
+[Next](alp40.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ How hope is dead within my heart--
 
 ------------------------------------------------------------------------
 
-[Next: Artashes and Satenik](alp40)
+[Next: Artashes and Satenik](alp40.md)

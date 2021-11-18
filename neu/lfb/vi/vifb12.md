@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb11)  [Next](vifb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb11)  [Next](vifb13.md) 
 
 </div>
 
@@ -334,6 +334,6 @@ the end of their days.
 
 ------------------------------------------------------------------------
 
-[Next: Stan Bolovan](vifb13)
+[Next: Stan Bolovan](vifb13.md)
 
 </div>

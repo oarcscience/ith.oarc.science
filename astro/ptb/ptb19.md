@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb18)  [Next](ptb20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb18)  [Next](ptb20.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 ### MUTUAL CONFIGURATIONS OF THE SIGNS
 
 THERE are certain familiarities or connections between different parts
-of the [zodiac](errata.htm#4); and the chief of these is that which
+of the [zodiac](errata.htm#4.md); and the chief of these is that which
 exists between such parts as are configurated with each other.
 
 This mutual configuration attaches to all parts diametrically distant
@@ -25,7 +25,7 @@ sixty
 
 <span id="page_25">p. 25</span>
 
-degrees <span id="fr_54"></span>[1](#fn_54) These several distances are
+degrees <span id="fr_54"></span>[1](#fn_54.md) These several distances are
 taken for the following reasons: the distance by diameter, however, is
 in itself sufficiently clear, and requires no further explanation; but,
 as to the rest, after the diametrical points have been connected by a
@@ -57,13 +57,13 @@ harmonious, because they are constituted between signs of the same kind;
 being formed between either all feminine or all masculine signs. The
 opposition and quartile are considered to be discordant, because they
 are configurations made between signs not of the same kind, but of
-different natures and sexes <span id="fr_55"></span>[1](#fn_55).
+different natures and sexes <span id="fr_55"></span>[1](#fn_55.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_54"></span>[25:1](ptb19.htm#fr_54) Whalley, in his note
+<span id="fn_54"></span>[25:1](ptb19.htm#fr_54.md) Whalley, in his note
 upon this chapter, seems to have been surprised that no mention is made
 here by Ptolemy of the *conjunction*; but he overlooked the fact that
 the chapter treats only of parts of the zodiac configurated *with each
@@ -73,7 +73,7 @@ wonderful that the conjunction is not inserted here along with the rest
 of the aspects; although it is frequently adverted to in subsequent
 chapters, and its efficacy particularly described.
 
-<span id="fn_55"></span>[26:1](ptb19.htm#fr_55) From the tenor of this
+<span id="fn_55"></span>[26:1](ptb19.htm#fr_55.md) From the tenor of this
 chapter it was formerly doubted whether the author intended to admit in
 his theory only zodiacal aspects, and to reject those which are called
 mundane; but Placidus has referred to the 4th Chapter of the 8th Book of
@@ -89,4 +89,4 @@ certainly seems to be applicable to mundane aspects in particular.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Signs Commanding and Obeying](ptb20)
+[Next: Chapter XVII. Signs Commanding and Obeying](ptb20.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog21)  [Next](kog23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog21)  [Next](kog23.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ until they died, in poverty just as before.
 
 ------------------------------------------------------------------------
 
-[Next: 20. Francis and Martin](kog23)
+[Next: 20. Francis and Martin](kog23.md)

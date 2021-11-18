@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq31)  [Next](sfq33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq31)  [Next](sfq33.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ badly with, and debases the true heroic spirit
 <span id="img_12900"></span>
 
 [![](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)
+Click to enlarge](img/12900.jpg.md)
 
 which joys in fighting for crowns and kingdoms. Fair shields, gay
 steeds, bright armour are my delight. These are the riches fit for a
@@ -141,4 +141,4 @@ him.
 
 ------------------------------------------------------------------------
 
-[Next: The Cave of Mammon](sfq33)
+[Next: The Cave of Mammon](sfq33.md)

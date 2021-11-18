@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob06) 
-[Next](tob08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob06.md) 
+[Next](tob08.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ The ace, two, three, four, five, six, seven, eight, nine, and ten.
  
 
 <span id="img_03600"></span> [![](tn/03600.jpg)  
-Click to enlarge](img/03600.jpg)
+Click to enlarge](img/03600.jpg.md)
 
  
 
@@ -416,7 +416,7 @@ Of reproductive organs:
 (Knave---10)
 
 Each of these parts can subdivide itself into three others, as the
-numbers indicate. <span id="fr_24"></span>[1](#fn_24)
+numbers indicate. <span id="fr_24"></span>[1](#fn_24.md)
 
 Ut us, however, return to our deduction, and by summing up the results
 obtained, we shall find--
@@ -455,13 +455,13 @@ The 10
 
 <span id="img_04200"></span>
 
-![FIGURATION OF ONE COLOR](img/04200.jpg)  
+![FIGURATION OF ONE COLOR](img/04200.jpg.md)  
 FIGURATION OF ONE COLOR
 
  
 
 <span id="img_04201"></span> [![](tn/04201.jpg)  
-Click to enlarge](img/04201.jpg)
+Click to enlarge](img/04201.jpg.md)
 
  
 
@@ -507,8 +507,8 @@ Lastly, the Pentacles represent the second He.
 
 The authors who have philosophically studied the Tarot are all unanimous
 in asserting the analogy that exists between the tetragrammaton and the
-four colours. Guillaume Postel, <span id="fr_25"></span>[1](#fn_25) and
-above all Eliphas Levi, <span id="fr_26"></span>[2](#fn_26) have
+four colours. Guillaume Postel, <span id="fr_25"></span>[1](#fn_25.md) and
+above all Eliphas Levi, <span id="fr_26"></span>[2](#fn_26.md) have
 developed these studies with great results, and they show us the four
 letters of the tetragrammaton applied in the symbolism of every cultus.
 
@@ -527,7 +527,7 @@ to the Supernatural world.
  
 
 <span id="img_04400"></span> [![](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)
+Click to enlarge](img/04400.jpg.md)
 
  
 
@@ -650,7 +650,7 @@ The 4 Nines
 
 <span id="img_04700"></span> [![GENERAL FIGURE OF THE MINOR
 ARCANA.--Disposition of Series.](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)  
+Click to enlarge](img/04700.jpg.md)  
 GENERAL FIGURE OF THE MINOR ARCANA.--Disposition of Series.  
 
  
@@ -671,10 +671,10 @@ The 4 Sixes
  
 
 <span id="img_04800"></span> [![](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)
+Click to enlarge](img/04800.jpg.md)
 
 <span id="img_04801"></span> [![](tn/04801.jpg)  
-Click to enlarge](img/04801.jpg)
+Click to enlarge](img/04801.jpg.md)
 
  
 
@@ -715,7 +715,7 @@ that the applications of it are varied.
 It is the same law by which the cells that form the human being group
 themselves to constitute *organs*, the organs group themselves to form
 *members*, and the grouping of the latter produces the
-*individual*. <span id="fr_27"></span>[1](#fn_27)
+*individual*. <span id="fr_27"></span>[1](#fn_27.md)
 
 We have drawn the following conclusion from all that we have already
 stated--
@@ -730,19 +730,19 @@ Between the *minor and major arcana*.
 
 ### Footnotes
 
-<span id="fn_24"></span>[41:1](tob07.htm#fr_24) We wished to make this
+<span id="fn_24"></span>[41:1](tob07.htm#fr_24.md) We wished to make this
 application of the Tarot in order to show Initiates what results might
 be expected from the laws explained by studying it.
 
-<span id="fn_25"></span>[44:1](tob07.htm#fr_25) *Clavis abscunditarum
+<span id="fn_25"></span>[44:1](tob07.htm#fr_25.md) *Clavis abscunditarum
 reram*.
 
-<span id="fn_26"></span>[44:2](tob07.htm#fr_26) Eliphas Levi, *Dogme et
+<span id="fn_26"></span>[44:2](tob07.htm#fr_26.md) Eliphas Levi, *Dogme et
 Rituel de la Haute Magie*.
 
-<span id="fn_27"></span>[49:1](tob07.htm#fr_27) See the *Traité
+<span id="fn_27"></span>[49:1](tob07.htm#fr_27.md) See the *Traité
 Élémentaire de Science Occulte*, chap. iii.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: The Key to the Major Arcana](tob08)
+[Next: Chapter VI: The Key to the Major Arcana](tob08.md)

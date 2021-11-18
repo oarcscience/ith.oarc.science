@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo57)  [Next](hoo59) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo57)  [Next](hoo59.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Head of the Bacchic Nymphs, who ivy bear.
 With all thy Satyrs on our incense shine,  
 Dæmons wild form'd, and bless the rites divine; 10  
 Come, rouse to sacred Joy thy pupil kin,  <span
-id="fr_113"></span>[\*](#fn_113)  
+id="fr_113"></span>[\*](#fn_113.md)  
 And Brumal Nymphs with rites Lenæan bring;  
 Our orgies shining thro' the night inspire,  
 And bless triumphant pow'r the sacred choir.
@@ -31,9 +31,9 @@ And bless triumphant pow'r the sacred choir.
 
 ### Footnotes
 
-<span id="fn_113"></span>[185:\*](hoo58.htm#fr_113) Because he was the
+<span id="fn_113"></span>[185:\*](hoo58.htm#fr_113.md) Because he was the
 nurse of Bacchus.
 
 ------------------------------------------------------------------------
 
-[Next: LIV: To Venus](hoo59)
+[Next: LIV: To Venus](hoo59.md)

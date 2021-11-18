@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat10)  [Next](sat12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat10)  [Next](sat12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -53,7 +53,7 @@ according to the saturnine property, was thereby elevated, and got the
 dominion, as a cold poison, which arises in the impression of death,
 from whence the darkness was generated in the oil, and Adam died to the
 divine light; to which the devil persuaded <span
-id="fr_88"></span>[1](#fn_88) him by <span id="fr_89"></span>[2](#fn_89)
+id="fr_88"></span>[1](#fn_88) him by <span id="fr_89"></span>[2](#fn_89.md)
 the serpent, that is, by the essence and property of the serpent; for
 the kingdom of wrath, and also the outward kingdom was manifest in the
 serpent; for it was more subtle than any beast of the field, and this
@@ -89,11 +89,11 @@ life.
 6\. Let the reader attend to the sense and meaning; for we have not the
 ability to give this into his hands; that only belongs to God; but the
 gates shall stand open for him, if he will enter in; if not,
-flattery <span id="fr_90"></span>[1](#fn_90) avails him not.
+flattery <span id="fr_90"></span>[1](#fn_90.md) avails him not.
 
 7\. The devil was a fair angel, and the serpent the subtle beast, and
 man the likeness of the Deity; now all three were corrupted <span
-id="fr_91"></span>[2](#fn_91) by imagination and pride, and got the
+id="fr_91"></span>[2](#fn_91.md) by imagination and pride, and got the
 curse of God for their false lust \[or cunning\].
 
 8\. All whatever is eternal proceeds originally from one ground, as
@@ -113,7 +113,7 @@ arises, or is begotten with the beginning of the
 <span id="page_58">p. 58</span>
 
 creature in the creature, goes out of itself, <span
-id="fr_92"></span>[1](#fn_92) that is, out of the eternal into time,
+id="fr_92"></span>[1](#fn_92.md) that is, out of the eternal into time,
 viz. into the beginning of the creature; it desires its own self, that
 is, the beginning; and will be its own, or of a selfish property, and
 forsakes the eternity, into which it should be wholly confined, and
@@ -143,7 +143,7 @@ according to his property \[or kind\], then came forth beasts out of
 every property of nature, as it was manifest in the separation, when God
 moved himself to the creation; for the devil would domineer over the
 love and meekness of God, and put his desire also into the anger, <span
-id="fr_93"></span>[2](#fn_93) that is, into the austere might, where the
+id="fr_93"></span>[2](#fn_93.md) that is, into the austere might, where the
 poison-life arises, viz. into the fiat of the wrathful property, out of
 which form are proceeded vipers, serpents, toads, and other venomous
 worms; not that the devil has made them, that he cannot; only as the
@@ -153,8 +153,8 @@ the evil and good.
 12\. For in the impression of the fiat, in the original of the outward
 Mercury, viz. of the life, which is manifest to itself internally, was
 the separation, where God and the world separate, viz. God
-inwardly, <span id="fr_94"></span>[3](#fn_94) the world outwardly, <span
-id="fr_95"></span>[4](#fn_95) as a similitude
+inwardly, <span id="fr_94"></span>[3](#fn_94.md) the world outwardly, <span
+id="fr_95"></span>[4](#fn_95.md) as a similitude
 
 <span id="page_59">p. 59</span>
 
@@ -167,14 +167,14 @@ eternal manifestation, and gives in itself into the desire, and turns
 the wrath of the desire into joyfulness.
 
 13\. Thus it is also with the serpent's craft: <span
-id="fr_96"></span>[1](#fn_96) In the highest Mercury is the highest
+id="fr_96"></span>[1](#fn_96.md) In the highest Mercury is the highest
 sharpest proof of all things; the more poisonful a thing is, the more
 sharply it proves a thing; for the sharpest <span
-id="fr_97"></span>[2](#fn_97) taste and smell consists in the great
+id="fr_97"></span>[2](#fn_97.md) taste and smell consists in the great
 poison, viz. in a dying source.
 
 14\. And the eternal light is generated <span
-id="fr_98"></span>[3](#fn_98) out of the Father's sharpness, that it
+id="fr_98"></span>[3](#fn_98.md) out of the Father's sharpness, that it
 attains the shining, and goes forth with its own source through the
 sharpness out of the anguish-source again into the liberty, viz. into
 the nothing, where the light, by reason of the fire's-source and
@@ -184,12 +184,12 @@ understanding of eternity, or deity, is rightly considered and named:
 And this efflux from the fire (understand from the eternal magical
 spiritual fire) is a procreation, viz. of the word of the power,
 colours, and virtue: And this desire of the same mercury, or word, does
-also modelise <span id="fr_99"></span>[4](#fn_99) the power into its own
+also modelise <span id="fr_99"></span>[4](#fn_99.md) the power into its own
 desire, and makes it essential; which is the meekness and the love,
 which quenches the wrath of the Eternal Father, viz. of the eternal
 nature's desire with love, and changes it into joyfulness, where the
 name of God has its original from eternity. This immassed essentiality
-causes <span id="fr_100"></span>[5](#fn_100) two properties, viz. one
+causes <span id="fr_100"></span>[5](#fn_100.md) two properties, viz. one
 oleous, which is heavenly essence, a cause of the shining of the light;
 and also a powerful \[property\] from the motion of the eternal
 impression, or desire of the Father after the birth of the Son; from
@@ -199,7 +199,7 @@ proceeds forth out of this love-fire, which is the Spirit of God.
 15\. In like manner know this, that the eternal love (understand the
 essence, viz. the heavenly essentiality) has given itself forth into the
 creation with the verbum fiat, to set <span
-id="fr_101"></span>[6](#fn_101) the Father's anger, viz. the form of the
+id="fr_101"></span>[6](#fn_101.md) the Father's anger, viz. the form of the
 eternal nature, into the highest joyfulness, and to set forth the
 likeness of the eternal
 
@@ -208,11 +208,11 @@ likeness of the eternal
 generation; and where the nature of the wrath was most elevated through
 the fiat, there also the desire did most incline itself towards the
 liberty, to be free from the wrath, and to bring it into the kingdom of
-joy, <span id="fr_102"></span>[1](#fn_102) from whence the great and
+joy, <span id="fr_102"></span>[1](#fn_102.md) from whence the great and
 deep knowledge is arisen, and also the most precious and highest
 tincture; understand the desire of the wrathful hunger received that
 into itself after which it hungered, <span
-id="fr_103"></span>[2](#fn_103) viz. the liberty; for all things were
+id="fr_103"></span>[2](#fn_103.md) viz. the liberty; for all things were
 created good in the beginning; also the devil was good while he was an
 angel; so also the serpent \[was good in its creation before the
 curse\].
@@ -223,7 +223,7 @@ candle; and afterwards he lived according to his own desire.
 
 17\. But seeing he knew that there was such a tincture in the serpent,
 and the serpent being created out of the beginning of time, therefore he
-insinuated <span id="fr_104"></span>[3](#fn_104) with his desire into
+insinuated <span id="fr_104"></span>[3](#fn_104.md) with his desire into
 the serpent, and took possession of the serpent's tincture, and wrought
 forth his desire through the serpent against man, to introduce him to
 long after the serpent's property: For the serpent's tincture was from
@@ -243,7 +243,7 @@ oil, that is, in the heavenly essentiality.
 19\. Even then the divine light, which shined out of the divine body of
 the heavenly essentiality, was extinct to him; for the curse seized upon
 the soul. Now God's cursing is a withdrawing, <span
-id="fr_105"></span>[4](#fn_105) viz. the divine power, which was in the
+id="fr_105"></span>[4](#fn_105.md) viz. the divine power, which was in the
 body, departed into its own principle; and his holy oil (wherein the
 power of God dwelt, and had made a kingdom of joy, viz. the paradise)
 became a poison.
@@ -269,7 +269,7 @@ dwelt in the outward world's-source, and penetrated it, as the sun the
 water, or the fire an iron, then the outward world was a paradise, and
 the divine essence sprang forth and budded through the earthly, the
 eternal life through the mortal; but when God cursed it for man's sake,
-the mortal \[life <span id="fr_106"></span>[1](#fn_106)\] was manifest
+the mortal \[life <span id="fr_106"></span>[1](#fn_106.md)\] was manifest
 in man, and also in the fruit of which man should eat, which property
 before was only manifest in the "tree of the knowledge of good and
 evil," on which Adam and his wife were tempted, whether their desire
@@ -281,13 +281,13 @@ soul's spirit would live, that is, burn.
 and the anger-source set open, and so \[the heavenly body\] lies still
 shut up: But seeing man by the eternal mercury, that is, by the word of
 divine power, was in one part formed out of eternity into body and soul,
-none could disclose <span id="fr_107"></span>[2](#fn_107) the
+none could disclose <span id="fr_107"></span>[2](#fn_107.md) the
 poison-death, and destroy the mortal mercury, and change it again into
 the light's-source, viz. into the source of the divine joyfulness, but
 only the very divine Mercury, viz. the power and the word of life
 itself: For the serpent's poisonful earthly property was manifest and
 stirred up in man; therefore when God's word did pity the corruption of
-man, and did again embrace him, <span id="fr_108"></span>[3](#fn_108) he
+man, and did again embrace him, <span id="fr_108"></span>[3](#fn_108.md) he
 said, "The seed of the woman shall bruise the serpent's head," and thou
 (understand the serpent's poison or fire) shalt sting him in the heel.
 
@@ -299,7 +299,7 @@ essence temporally and eternally; the sting of
 
 the serpent is God's anger-fire, and the woman's seed is God's
 love-fire, which must be again awakened, and illustrate <span
-id="fr_109"></span>[1](#fn_109) the anger, and deprive the wrath of its
+id="fr_109"></span>[1](#fn_109.md) the anger, and deprive the wrath of its
 might, and put it into the divine joyfulness, and then the dead soul,
 which lay immersed in God's curse, does arise: When the poisonful
 Mercury, which resembles God's anger, is tinctured with love, then the
@@ -313,7 +313,7 @@ darkness swallowed up in itself, and yet the darkness is in it, but not
 manifest in the light; as God dwells in time, and the time comprehends
 him not, unless it be translated and wrapped up into eternity, that the
 divine light does again shine in its source, and then the time is
-manifest with its wonders <span id="fr_110"></span>[2](#fn_110) in the
+manifest with its wonders <span id="fr_110"></span>[2](#fn_110.md) in the
 eternity.
 
 24\. In this manner also is the process of the wise men with the
@@ -333,10 +333,10 @@ and manifestly made known and shewn to us in the mercurial life.
 
 25\. Now observe the process, and meditate on it, ye dear children of
 wisdom, and then you shall have enough temporally and eternally; <span
-id="fr_111"></span>[3](#fn_111) do not as Babel does, which amuses and
+id="fr_111"></span>[3](#fn_111.md) do not as Babel does, which amuses and
 comforts itself with the philosopher's stone, and boasts of it, but
 keeps only a gross mason's stone shut up in poison and death, instead of
-the precious philosopher's stone: <span id="fr_112"></span>[4](#fn_112)
+the precious philosopher's stone: <span id="fr_112"></span>[4](#fn_112.md)
 What is it for Babel to have the stone, when it lies wholly shut up in
 Babel? It is as if a
 
@@ -373,7 +373,7 @@ love-desire.
 
 29\. Thus observe it; the free lubet's property is here in the fire's
 property called Christ, which signifies in the language of nature a
-potent champion, <span id="fr_113"></span>[1](#fn_113) depriving the
+potent champion, <span id="fr_113"></span>[1](#fn_113.md) depriving the
 wrath of its power, a shining of the light in the darkness, a
 transmutation, where the love-lubet rules over the fire-lubet, viz. over
 the wrath, the light over the darkness: Here the seed of the woman
@@ -382,7 +382,7 @@ head of the wrath of the eternal nature, viz. of the eternal desire; for
 the fire's property is rightly called the head, for it is the cause of
 the eternal life; and the liberty, viz. the free lubet, or the nothing,
 is rightly called the woman; for in the nothing, viz. in the liberty of
-all source, <span id="fr_114"></span>[2](#fn_114) consists the birth of
+all source, <span id="fr_114"></span>[2](#fn_114.md) consists the birth of
 the Holy Trinity of the Deity.
 
 30\. Now the fire gives life, and the free lubet gives essence into the
@@ -392,7 +392,7 @@ eternal ground, begets his essence, viz. his heart out
 <span id="page_64">p. 64</span>
 
 of the abyss in himself, that is, out of the abyss in himself into a
-byss; the Son is <span id="fr_115"></span>[1](#fn_115) the Father's
+byss; the Son is <span id="fr_115"></span>[1](#fn_115.md) the Father's
 byss: Thus the Father remains in himself, as touching his own property
 only, the byss of the eternal nature; and the Son remains in the Father,
 the byss of the power and kingdom of joy; a resemblance whereof you see
@@ -403,19 +403,19 @@ but a sound or voice of the manifestation of the eternity.
 
 31\. Thus, dear philosophers, observe here the ground how you should
 tincture; seek not the Son without the Father to tincture therewith: It
-must be one body; <span id="fr_116"></span>[2](#fn_116) the
+must be one body; <span id="fr_116"></span>[2](#fn_116.md) the
 serpent-bruiser lies therein beforehand; for the seed of the woman has
 not bruised the serpent's head without the humanity, but in the
 humanity: The source of the divine lubet (understand of the love)
 manifested itself through a resurrection <span
-id="fr_117"></span>[3](#fn_117) in the human essence, and became
+id="fr_117"></span>[3](#fn_117.md) in the human essence, and became
 manifest in the human life, and tinctured the wrath of death with the
 blood of the divine tincture, and there the wrath of death was changed
 into a source of divine love and joyfulness: Thus the love bruised the
 head of the anger and the oleous poison in Mercury, and deprived the
 wrath of its dominion, and sublimed the wrath into the highest
 joyfulness; even there the anger, and the astringent cold death, were
-made open shew of <span id="fr_118"></span>[4](#fn_118) in a fiery love:
+made open shew of <span id="fr_118"></span>[4](#fn_118.md) in a fiery love:
 Then it was said, "Death, where is thy sting? Hell, where is thy
 victory? God be thanked who has given us victory."
 
@@ -426,7 +426,7 @@ Feast of Pentecost with the joyful spirit, wherewith he may tincture,
 cure, and heal whatever is broken and destroyed: We declare it in the
 ground of truth, as we have highly known it; for the rose in the time of
 the lily shall blossom in May when the winter is past, <span
-id="fr_119"></span>[5](#fn_119) for blindness to the wicked, and for
+id="fr_119"></span>[5](#fn_119.md) for blindness to the wicked, and for
 light to the seeing.
 
 33\. God be for ever praised, who has granted us eyes to see through the
@@ -439,7 +439,7 @@ whatever Adam lost.
 eternity into time, and out of time into eternity, and bring again the
 wonders of time into eternity, and openly set forth the pearl, for
 honour unto Christ, and scorn to the devil; he that sleeps is blind, but
-he that wakes sees what the May <span id="fr_120"></span>[1](#fn_120)
+he that wakes sees what the May <span id="fr_120"></span>[1](#fn_120.md)
 brings.
 
 35\. Christ said, "Seek, and you shall find; knock, and it shall be
@@ -496,7 +496,7 @@ day, for the day is the tincture, and yet the day and night lie in each
 other as one essence.
 
 39\. Now says reason, How may I begin to do it? <span
-id="fr_121"></span>[1](#fn_121) Look upon the process, how God began
+id="fr_121"></span>[1](#fn_121.md) Look upon the process, how God began
 with the humanity, when he would tincture the same.
 
 40\. Christ came into this world in the shut-up human form, and brought
@@ -546,7 +546,7 @@ love-desire, viz. into the nothing out of all source.
 If .he will do wonders with Christ, and tincture the corrupt body to the
 new-birth, he must first be baptized, and then he gets an hunger after
 God's bread, and this hunger has in it the verbum fiat, viz. the
-*archeus* <span id="fr_122"></span>[1](#fn_122) to the new generation,
+*archeus* <span id="fr_122"></span>[1](#fn_122.md) to the new generation,
 that is, the Mercury: But I do not speak here of a priest's baptism; the
 artist must understand it magically; God and man must first come
 together ere thou baptizest, as it came to pass in Christ: The Deity
@@ -574,7 +574,7 @@ wicked, who is not worthy of it: Observe
 only the baptism, that thou baptizest the dead Mercury, which lies in
 the heavenly essentiality, enclosed and shut up in impotency with its
 own baptism, \[and mark\] of what essence he is in a thing; <span
-id="fr_123"></span>[1](#fn_123) but thou must have this divine water,
+id="fr_123"></span>[1](#fn_123.md) but thou must have this divine water,
 and also the earthly; for the earthly Mercury cannot else receive the
 divine \[Being\] except the divine Mercury receives of its power,
 whereupon it stirs and hungers: Then the heavenly \[Mercury\] seeks, but
@@ -608,7 +608,7 @@ persecute and plague him, and give him no rest; for so the right Mercury
 becomes working and active; and when he has shewn all his wonders
 through the old Adam, then thou must cast the old and new man into God's
 great anger, and slay the old man, ventilate him, and hang him
-naked <span id="fr_124"></span>[2](#fn_124) on the cross, and again take
+naked <span id="fr_124"></span>[2](#fn_124.md) on the cross, and again take
 him thence, and lay him into the putrefaction, viz. into the grave.
 
 48\. And then Christ will arise from death, and appear; but
@@ -663,7 +663,7 @@ for he is their foe and friend, that so they both in their marriage bed
 of love might lift up their desire to God, and so with their desire
 God's essence may be pregnant in their desire, and then in their
 copulation they shall beget such a child, which they <span
-id="fr_125"></span>[1](#fn_125) (understand the mother, viz. the female)
+id="fr_125"></span>[1](#fn_125) (understand the mother, viz. the female.md)
 shall nourish in their belly, till it be ripe.
 
 52\. In the meantime let the mother take heed she bear no love to any
@@ -685,7 +685,7 @@ appears and shews itself in its red and white coat.
 is born, then the new soul casts away the vegetable life of the parents
 (which is propagated and inherited to the body from the parents’
 *vegitta*, wherein the body of the child congealed <span
-id="fr_126"></span>[2](#fn_126) and grew till the time of the soul), and
+id="fr_126"></span>[2](#fn_126) and grew till the time of the soul.md), and
 the life of the four elements dies, and the life in the one element
 arises; the child is hidden in the dark death, and the artist supposes
 it to be dead, but he must have patience till the child be born.
@@ -827,7 +827,7 @@ of the desert, and let the bridegroom eat again his own food, and
 dismiss the devil, that he may no longer plague him, and then Christ
 will do many wonders and signs, at which the artist will wonder and
 rejoice: Then he has nothing to do, the bride is in the bridegroom, they
-are already married, <span id="fr_127"></span>[1](#fn_127) he need only
+are already married, <span id="fr_127"></span>[1](#fn_127.md) he need only
 make their bed ready, they will warm it well enough themselves; the
 bridegroom embraces the bride, and the bride the bridegroom; and this is
 their food and pastime till they beget a child.
@@ -860,7 +860,7 @@ not so much room and propriety in Saturn as to lay his head: He goes as
 a stranger, as if he were not there at home.
 
 70\. After this the moon takes it, and then the heavenly and earthly
-properties are mixed, <span id="fr_128"></span>[1](#fn_128) and the
+properties are mixed, <span id="fr_128"></span>[1](#fn_128.md) and the
 vegetative life arises, and then the artist rejoices; but he is yet in
 danger.
 
@@ -929,101 +929,101 @@ and chosen by God.
 
 ### Footnotes
 
-<span id="fn_88"></span>[56:1](sat11.htm#fr_88) Or led.
+<span id="fn_88"></span>[56:1](sat11.htm#fr_88.md) Or led.
 
-<span id="fn_89"></span>[56:2](sat11.htm#fr_89) Or through.
+<span id="fn_89"></span>[56:2](sat11.htm#fr_89.md) Or through.
 
-<span id="fn_90"></span>[57:1](sat11.htm#fr_90) Or the riddle.
+<span id="fn_90"></span>[57:1](sat11.htm#fr_90.md) Or the riddle.
 
-<span id="fn_91"></span>[57:2](sat11.htm#fr_91) Spoiled, undone.
+<span id="fn_91"></span>[57:2](sat11.htm#fr_91.md) Spoiled, undone.
 
-<span id="fn_92"></span>[58:1](sat11.htm#fr_92) Or outwards.
+<span id="fn_92"></span>[58:1](sat11.htm#fr_92.md) Or outwards.
 
-<span id="fn_93"></span>[58:2](sat11.htm#fr_93) Or set his desire upon
+<span id="fn_93"></span>[58:2](sat11.htm#fr_93.md) Or set his desire upon
 the anger.
 
-<span id="fn_94"></span>[58:3](sat11.htm#fr_94) Text, into himself.
+<span id="fn_94"></span>[58:3](sat11.htm#fr_94.md) Text, into himself.
 
-<span id="fn_95"></span>[58:4](sat11.htm#fr_95) Out of itself.
+<span id="fn_95"></span>[58:4](sat11.htm#fr_95.md) Out of itself.
 
-<span id="fn_96"></span>[59:1](sat11.htm#fr_96) Or wit, or subtlety.
+<span id="fn_96"></span>[59:1](sat11.htm#fr_96.md) Or wit, or subtlety.
 
-<span id="fn_97"></span>[59:2](sat11.htm#fr_97) Quickest, keenest.
+<span id="fn_97"></span>[59:2](sat11.htm#fr_97.md) Quickest, keenest.
 
-<span id="fn_98"></span>[59:3](sat11.htm#fr_98) Or begets itself.
+<span id="fn_98"></span>[59:3](sat11.htm#fr_98.md) Or begets itself.
 
-<span id="fn_99"></span>[59:4](sat11.htm#fr_99) Or form, or immass.
+<span id="fn_99"></span>[59:4](sat11.htm#fr_99.md) Or form, or immass.
 
-<span id="fn_100"></span>[59:5](sat11.htm#fr_100) Affords, yields,
+<span id="fn_100"></span>[59:5](sat11.htm#fr_100.md) Affords, yields,
 produces
 
-<span id="fn_101"></span>[59:6](sat11.htm#fr_101) Bring, turn, or
+<span id="fn_101"></span>[59:6](sat11.htm#fr_101.md) Bring, turn, or
 sublime.
 
-<span id="fn_102"></span>[60:1](sat11.htm#fr_102) Or joyfulness.
+<span id="fn_102"></span>[60:1](sat11.htm#fr_102.md) Or joyfulness.
 
-<span id="fn_103"></span>[60:2](sat11.htm#fr_103) Or receives that which
+<span id="fn_103"></span>[60:2](sat11.htm#fr_103.md) Or receives that which
 it hungers after.
 
-<span id="fn_104"></span>[60:3](sat11.htm#fr_104) Crept.
+<span id="fn_104"></span>[60:3](sat11.htm#fr_104.md) Crept.
 
-<span id="fn_105"></span>[60:4](sat11.htm#fr_105) Or is a banishing.
+<span id="fn_105"></span>[60:4](sat11.htm#fr_105.md) Or is a banishing.
 
-<span id="fn_106"></span>[61:1](sat11.htm#fr_106) Part or property.
+<span id="fn_106"></span>[61:1](sat11.htm#fr_106.md) Part or property.
 
-<span id="fn_107"></span>[61:2](sat11.htm#fr_107) Open, or exclude.
+<span id="fn_107"></span>[61:2](sat11.htm#fr_107.md) Open, or exclude.
 
-<span id="fn_108"></span>[61:3](sat11.htm#fr_108) Or took his part.
+<span id="fn_108"></span>[61:3](sat11.htm#fr_108.md) Or took his part.
 
-<span id="fn_109"></span>[62:1](sat11.htm#fr_109) Shine through,
+<span id="fn_109"></span>[62:1](sat11.htm#fr_109.md) Shine through,
 irradiate.
 
-<span id="fn_110"></span>[62:2](sat11.htm#fr_110) Or works and effects.
+<span id="fn_110"></span>[62:2](sat11.htm#fr_110.md) Or works and effects.
 
-<span id="fn_111"></span>[62:3](sat11.htm#fr_111) Here and for ever.
+<span id="fn_111"></span>[62:3](sat11.htm#fr_111.md) Here and for ever.
 
-<span id="fn_112"></span>[62:4](sat11.htm#fr_112) Or noble stone of the
+<span id="fn_112"></span>[62:4](sat11.htm#fr_112.md) Or noble stone of the
 wise men.
 
-<span id="fn_113"></span>[63:1](sat11.htm#fr_113) One that breaks
+<span id="fn_113"></span>[63:1](sat11.htm#fr_113.md) One that breaks
 through irresistibly.
 
-<span id="fn_114"></span>[63:2](sat11.htm#fr_114) Or void of all source.
+<span id="fn_114"></span>[63:2](sat11.htm#fr_114.md) Or void of all source.
 
-<span id="fn_115"></span>[64:1](sat11.htm#fr_115) Or becomes.
+<span id="fn_115"></span>[64:1](sat11.htm#fr_115.md) Or becomes.
 
-<span id="fn_116"></span>[64:2](sat11.htm#fr_116) Corpus.
+<span id="fn_116"></span>[64:2](sat11.htm#fr_116.md) Corpus.
 
-<span id="fn_117"></span>[64:3](sat11.htm#fr_117) Or awakening, or
+<span id="fn_117"></span>[64:3](sat11.htm#fr_117.md) Or awakening, or
 stirring itself up.
 
-<span id="fn_118"></span>[64:4](sat11.htm#fr_118) Or victoriously
+<span id="fn_118"></span>[64:4](sat11.htm#fr_118.md) Or victoriously
 triumphed over.
 
-<span id="fn_119"></span>[64:5](sat11.htm#fr_119) Or the blooming spring
+<span id="fn_119"></span>[64:5](sat11.htm#fr_119.md) Or the blooming spring
 of the paradisical new-birth in man.
 
-<span id="fn_120"></span>[65:1](sat11.htm#fr_120) Or pleasant spring.
+<span id="fn_120"></span>[65:1](sat11.htm#fr_120.md) Or pleasant spring.
 
-<span id="fn_121"></span>[66:1](sat11.htm#fr_121) Or what shall I first
+<span id="fn_121"></span>[66:1](sat11.htm#fr_121.md) Or what shall I first
 do to effect it?
 
-<span id="fn_122"></span>[67:1](sat11.htm#fr_122) Work-master, or faber.
+<span id="fn_122"></span>[67:1](sat11.htm#fr_122.md) Work-master, or faber.
 
-<span id="fn_123"></span>[68:1](sat11.htm#fr_123) Or whose essence is in
+<span id="fn_123"></span>[68:1](sat11.htm#fr_123.md) Or whose essence is in
 everything.
 
-<span id="fn_124"></span>[68:2](sat11.htm#fr_124) Or openly. Text, in
+<span id="fn_124"></span>[68:2](sat11.htm#fr_124.md) Or openly. Text, in
 the air.
 
-<span id="fn_125"></span>[70:1](sat11.htm#fr_125) Or she shall.
+<span id="fn_125"></span>[70:1](sat11.htm#fr_125.md) Or she shall.
 
-<span id="fn_126"></span>[70:2](sat11.htm#fr_126) Curdled.
+<span id="fn_126"></span>[70:2](sat11.htm#fr_126.md) Curdled.
 
-<span id="fn_127"></span>[73:1](sat11.htm#fr_127) Or in wedlock.
+<span id="fn_127"></span>[73:1](sat11.htm#fr_127.md) Or in wedlock.
 
-<span id="fn_128"></span>[74:1](sat11.htm#fr_128) Blended.
+<span id="fn_128"></span>[74:1](sat11.htm#fr_128.md) Blended.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](sat12)
+[Next: Chapter VIII](sat12.md)

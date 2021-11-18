@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn25)  [Next](rmn27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn25)  [Next](rmn27.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Another votive phallus, with wings and the feet of a quadruped.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXVI: Votive Phalli](rmn27)
+[Next: Plate XXVI: Votive Phalli](rmn27.md)

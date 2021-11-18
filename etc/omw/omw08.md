@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw07)  [Next](omw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw07)  [Next](omw09.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ translation which Walter Pater gives in his "Marius the Epicurean."
 
 ------------------------------------------------------------------------
 
-[Next: Celtic](omw09)
+[Next: Celtic](omw09.md)

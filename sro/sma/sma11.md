@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma10)  [Next](sma12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma10)  [Next](sma12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -128,7 +128,7 @@ what he had been able to learn respecting the Assassins. As what we have
 previously related of them has been exclusively drawn from eastern
 sources, it will not be useless to insert in this place the accounts of
 them given by the Cardinal de Vitry, who has followed and enlarged the
-sketch of the archbishop <span id="fr_49"></span>[\*](#fn_49).
+sketch of the archbishop <span id="fr_49"></span>[\*](#fn_49.md).
 
 "In the province of Phœnicia, near the borders of the Antaradensian town
 which is now called Tortosa, dwells a certain people, shut in on all
@@ -137,7 +137,7 @@ impregnable, by reason of the narrow ways and inaccessible rocks, with
 their suburbs and the valleys, which are most fruitful in all species of
 fruits and corn, and most delightful for their amenity. The number of
 these men, who are called Assassins, is said to exceed 40,000 <span
-id="fr_50"></span>[†](#fn_50). They set a captain over
+id="fr_50"></span>[†](#fn_50.md). They set a captain over
 
 <span id="page_118">p. 118</span>
 
@@ -292,7 +292,7 @@ spread to the disadvantage of the English king at the time he was a
 prisoner in Austria, did not hesitate to accuse him of the murder of the
 marquis; but, as has been justly observed, these, as well as the
 preceding, were either partial or at a distance <span
-id="fr_51"></span>[\*](#fn_51).
+id="fr_51"></span>[\*](#fn_51.md).
 
 In opposition to these assertions, we have the unanimous testimony of
 all the English writers, such as Vinisauf (the companion and historian
@@ -331,7 +331,7 @@ exalted, curse him! A Batinee, or Assassin (in one copy Batinees),
 <span id="page_124">p. 124</span>
 
 who had entered Soor in the disguise of a monk, slew him <span
-id="fr_52"></span>[\*](#fn_52)."
+id="fr_52"></span>[\*](#fn_52.md)."
 
 We thus see that the evidence in favour of the King of England greatly
 preponderates, not a single writer who was on the spot laying the murder
@@ -446,7 +446,7 @@ was Sinan, who some years before had offered to become a Christian, and
 who does not seem at all to have adopted the innovations of Hassan the
 Illuminator. Sinan might easily have been induced by the friends of the
 King of England, one of the most steady of whom was Henry of
-Champagne <span id="fr_53"></span>[\*](#fn_53), who succeeded Conrad of
+Champagne <span id="fr_53"></span>[\*](#fn_53.md), who succeeded Conrad of
 Montferrat in the kingdom, to write those letters in his justification,
 and it is very probable that the translations were made in Syria, where
 the Arabic language was of course better understood than in Europe, and
@@ -468,7 +468,7 @@ simple, innocent sort of person. It might further be doubted
 if a European forger would venture to represent the prince of the
 Assassins--the formidable Old M a n of the Mountain--in such a
 respectable light as he appears in these two epistles <span
-id="fr_54"></span>[\*](#fn_54).
+id="fr_54"></span>[\*](#fn_54.md).
 
 But there is another account of the death of the Marquis of Montferrat,
 which is probably much better known to the generality of readers than
@@ -513,10 +513,10 @@ but the very year before his death, being in the flower of his age,
 rambling alone through the desert, like an errant knight, singing hymns
 to the Devil, and coming disguised as a physician to the Christian camp,
 to cure the malady of the English monarch, whom he never, in reality,
-did or would see <span id="fr_55"></span>[\*](#fn_55)? We might
+did or would see <span id="fr_55"></span>[\*](#fn_55.md)? We might
 enumerate many additional instances of the violation of every kind of
 unity and propriety in this single tale <span
-id="fr_56"></span>[†](#fn_56).
+id="fr_56"></span>[†](#fn_56.md).
 
 Let not any deem it superfluous thus to point out the errors of an
 illustrious writer. The impressions made by his splendid pages on the
@@ -551,27 +551,27 @@ successors are equally applicable to all parts of it.
 
 ### Footnotes
 
-<span id="fn_49"></span>[117:\*](sma11.htm#fr_49) Gesta Dei per Francos,
+<span id="fn_49"></span>[117:\*](sma11.htm#fr_49.md) Gesta Dei per Francos,
 vol. i. pp. 994, 1062.
 
-<span id="fn_50"></span>[117:†](sma11.htm#fr_50) William of Tyre makes
+<span id="fn_50"></span>[117:†](sma11.htm#fr_50.md) William of Tyre makes
 their number 60,000. He declares his inability to give the origin of the
 name Assassins.
 
-<span id="fn_51"></span>[122:\*](sma11.htm#fr_51) Raumer, Geschichte der
+<span id="fn_51"></span>[122:\*](sma11.htm#fr_51.md) Raumer, Geschichte der
 Hohenstauffen, ii., p. 490. Wilken, Geschichte der Kreuzzüge, iv., 489.
 
-<span id="fn_52"></span>[124:\*](sma11.htm#fr_52) Annales Muslemici,
+<span id="fn_52"></span>[124:\*](sma11.htm#fr_52.md) Annales Muslemici,
 tom. iv., pp. 122, 123. Hafniae, 1792.
 
-<span id="fn_53"></span>[127:\*](sma11.htm#fr_53) An instance of Henry's
+<span id="fn_53"></span>[127:\*](sma11.htm#fr_53.md) An instance of Henry's
 intimacy with the Assassins has been given in [p.
-81](sma07.htm#page_81).
+81](sma07.htm#page_81.md).
 
-<span id="fn_54"></span>[128:\*](sma11.htm#fr_54) Sir J. Mackintosh
+<span id="fn_54"></span>[128:\*](sma11.htm#fr_54.md) Sir J. Mackintosh
 (History of England, i. 187) seems to regard the letters as genuine.
 
-<span id="fn_55"></span>[129:\*](sma11.htm#fr_55) May it not be said
+<span id="fn_55"></span>[129:\*](sma11.htm#fr_55.md) May it not be said
 that real historic characters should not be misrepresented? Sir W. Scott
 was at full liberty to make his Varneys and his Bois Gilberts as
 accomplished villains as he pleased; he might do as he pleased with his
@@ -579,7 +579,7 @@ own; but what warrant had he from history for painting Conrad of
 Montferrat and the then Master of the Templars under such odious colours
 as he does?
 
-<span id="fn_56"></span>[129:†](sma11.htm#fr_56) The author invariably
+<span id="fn_56"></span>[129:†](sma11.htm#fr_56.md) The author invariably
 writes Montserrat for Montferrat. The former is in Spain, and never was
 a marquisate. As it were to show that it was no error of the press, it
 is said, "The shield of the marquis bore, in reference to his title, a
@@ -589,4 +589,4 @@ liquid substance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](sma12)
+[Next: Chapter X](sma12.md)

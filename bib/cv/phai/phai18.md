@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai17) 
-[Next](phai19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai17.md) 
+[Next](phai19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ three places, and indeed in every place where a house of God was found.
 So far as the religious and intellectual life of the nation was
 concerned, there was no substantial difference between the two kingdoms,
 except indeed in so far as new displays of vigorous initiative generally
-proceeded from Israel. <span id="fr_251"></span>[1](#fn_251)
+proceeded from Israel. <span id="fr_251"></span>[1](#fn_251.md)
 
 Rehoboam did not readily accept the situation; he sought to reduce the
 revolt by force of arms, with what degree of success is shown by the
@@ -79,12 +79,12 @@ that word, in Israel, and as the second founder of the kingdom itself,
 to which he gave a permanent capital in Samaria. The Bible has hardly
 anything to tell us about him, but his importance is evident from the
 fact that among the Assyrians "the kingdom of Omri" <span
-id="fr_252"></span>[1](#fn_252) was the ordinary name of Israel.
+id="fr_252"></span>[1](#fn_252.md) was the ordinary name of Israel.
 According to the inscription of Mesha, it was he who again subjugated
 Moab, which had become independent at the death of David or of Solomon.
 He was not so successful against the Damascenes, to whom he had to
 concede certain privileges in his own capital (1 Kings xx. 34) <span
-id="fr_253"></span>[2](#fn_253)
+id="fr_253"></span>[2](#fn_253.md)
 
 Ahab, who succeeded Omri his father, seems during the greater part of
 his reign to have in some sort acknowledged Syrian suzerainty. In no
@@ -147,7 +147,7 @@ in 1 Kings xx.
 The Moabites took advantage of an accession under such critical
 circumstances to shake off the yoke imposed by Omri forty years before;
 an accurate account of their success, obviously written while the
-impression of it was still fresh, <span id="fr_254"></span>[1](#fn_254)
+impression of it was still fresh, <span id="fr_254"></span>[1](#fn_254.md)
 has come down to us in the famous inscription of King Mesha. Ahaziah,
 Ahab's immediate successor, was obliged to accept the situation; after
 his early death a futile attempt again to subjugate them was made by his
@@ -224,7 +224,7 @@ new with the old lay. After Jehovah, acting more immediately within the
 political sphere, had established the nation and kingdom, he now began
 in the spiritual sphere to operate against the foreign elements, the
 infusion of which previously had been permitted to go on almost
-unchecked. <span id="fr_255"></span>[1](#fn_255) The Rechabites, who
+unchecked. <span id="fr_255"></span>[1](#fn_255.md) The Rechabites, who
 arose at that time, protested in their zeal for Jehovah altogether
 against all civilisation which presupposes agriculture, and in their
 fundamental principles aimed at a recurrence to the primitive nomadic
@@ -300,7 +300,7 @@ vi. 14), and northward to Hamath.
 
 ### Footnotes
 
-<span id="fn_251"></span>[458:1](phai18.htm#fr_251) Even in the
+<span id="fn_251"></span>[458:1](phai18.htm#fr_251.md) Even in the
 Deuteronomic redaction of the Book of Kings indeed, and still more by
 the Chronicler, the political rebellion of Israel is regarded as having
 been ecclesiastical and religious in its character. The Book of
@@ -308,21 +308,21 @@ Chronicles regards Samaria as a heathen kingdom, and recognises Judah
 alone as Israel. But in point of fact Judah takes up the history of
 Israel only after the fall of Samaria; see §§ 6, 7.
 
-<span id="fn_252"></span>[459:1](phai18.htm#fr_252) Bit Humri, like
+<span id="fn_252"></span>[459:1](phai18.htm#fr_252.md) Bit Humri, like
 οἶκος Λυσανίου, and similar territorial names in Syriac.
 
-<span id="fn_253"></span>[459:2](phai18.htm#fr_253) Omri's accession is
+<span id="fn_253"></span>[459:2](phai18.htm#fr_253.md) Omri's accession is
 to be placed somewhere about 900 B.C. It is a date, and the first, that
 can be determined with some precision, if we place the battle of Karkar
 (854) near the end of Ahab's reign, and take the servitude of Moab,
 which lasted forty years and ended with Ahab's death, to begin in Omri's
 first decade
 
-<span id="fn_254"></span>[460:1](phai18.htm#fr_254) It is obvious that
+<span id="fn_254"></span>[460:1](phai18.htm#fr_254.md) It is obvious that
 Mesha's narrative is to be taken with 2 Kings i. 1, and not with 2 Kings
 iii.
 
-<span id="fn_255"></span>[462:1](phai18.htm#fr_255) It is worth noticing
+<span id="fn_255"></span>[462:1](phai18.htm#fr_255.md) It is worth noticing
 how much more frequent from this period onwards proper names compounded
 with the word Jehovah become. Among the names of the judges and of the
 kings before Ahab in Israel and Asa in Judah, not a single instance
@@ -330,4 +330,4 @@ occurs; thenceforward they become the rule.
 
 ------------------------------------------------------------------------
 
-[Next: 5. God, the World, and the Life of Men in Old Israel.](phai19)
+[Next: 5. God, the World, and the Life of Men in Old Israel.](phai19.md)

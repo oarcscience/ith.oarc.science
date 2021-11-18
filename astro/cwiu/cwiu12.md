@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu11)  [Next](cwiu13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu11)  [Next](cwiu13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ include among the additional ones two rather long and extremely
 important and interesting papers which, in contradistinction to the
 purely technical *Queries* of the first English edition, deal, not with
 optical, but with methodological, epistemological and metaphysical
-problems.[1](cwiu16.htm#an_9_1)
+problems.[1](cwiu16.htm#an_9_1.md)
 
 The publication of Raphson's book could not have been the motive: the
 *De spatio reali* was published in 1702, the Latin translation of the
@@ -44,7 +44,7 @@ Dr. George Cheyne's *Philosophical* 
 
 <span class="contnote">\[paragraph continues\]</span> *Principles of
 Natural Religion* that gave Newton the incentive, usually lacking, to
-come into the open.[2](cwiu16.htm#an_9_2)
+come into the open.[2](cwiu16.htm#an_9_2.md)
 
 Now, be this as it may, it is these *Queries* (which, curiously enough,
 seem to have been ignored by Berkeley) which build the subject of the
@@ -69,7 +69,7 @@ density can be made as small as we wish (is not our air "at the height
 of 70, 140, 210 miles 100,000, 100,000,000,000 or 100,000,000,000,000
 times rarer, and so on" than on the earth?), which implies the granular
 structure of this ether, the existence of a *vacuum* and the rejection
-of a continuous medium, and concludes:[3](cwiu16.htm#an_9_3)
+of a continuous medium, and concludes:[3](cwiu16.htm#an_9_3.md)
 
 <span id="page_208">p. 208</span>
 
@@ -157,7 +157,7 @@ unknown to me. I use
 <div class="iq">
 
 that Word here to signify only in general any Force by which Bodies tend
-towards one another, [whatsoever](errata.htm#4) be the Cause. For we
+towards one another, [whatsoever](errata.htm#4.md) be the Cause. For we
 must learn from the Phaenomena of Nature what Bodies attract one
 another, and what are the Laws and Properties of the Attraction, before
 we enquire the Cause by which the Attraction is perform’d. The
@@ -175,7 +175,7 @@ the existence of bodies, that is, of the sticking together of the
 material particles that compose them; a purely materialistic pattern of
 nature is utterly impossible (and a purely materialistic or mechanistic
 physics, such as that of Lucretius or of Descartes, is impossible,
-too):[6](cwiu16.htm#an_9_6)
+too):[6](cwiu16.htm#an_9_6.md)
 
 <div class="iq">
 
@@ -213,7 +213,7 @@ very quickly come to a stop? Should we not, in order to avoid these
 difficulties, discard completely the atomic conception and admit, for
 instance, that matter is infinitely divisible or that its "last"
 components are not hard atoms but soft, or elastic, particles, or even
-"physical monads"? Newton, therefore, continues[7](cwiu16.htm#an_9_7)
+"physical monads"? Newton, therefore, continues[7](cwiu16.htm#an_9_7.md)
 
 <div class="iq">
 
@@ -264,7 +264,7 @@ ultra-ultra-ether, and so on.
 
 <span class="contnote">\[paragraph continues\]</span> Forces of
 attraction, and also of repulsion are therefore fundamental, though
-non-material, elements of nature:[8](cwiu16.htm#an_9_8)
+non-material, elements of nature:[8](cwiu16.htm#an_9_8.md)
 
 <div class="iq">
 
@@ -289,7 +289,7 @@ explain everything by matter and motion. As for Newton himself, he is so
 deeply convinced of the reality of these immaterial, and, in this sense,
 transphysical forces, that this conviction enables him to devise a most
 extraordinary and truly prophetic picture of the general structure of
-material beings:[9](cwiu16.htm#an_9_9)
+material beings:[9](cwiu16.htm#an_9_9.md)
 
 <div class="iq">
 
@@ -325,7 +325,7 @@ particles according to strict mathematical laws—or to express it in a
 more modern way: the admission of the existence of different fields of
 forces connected with bodies and particles—enables us, and that is an
 invaluable advantage, to superimpose them one upon the other, and even
-to transform them into their contraries. Indeed,[10](cwiu16.htm#an_9_10)
+to transform them into their contraries. Indeed,[10](cwiu16.htm#an_9_10.md)
 
 <div class="iq">
 
@@ -373,7 +373,7 @@ not be any Nature to philosophize about, because there would be no
 cohesion, no unity and no motion; or if there were, at the beginning, it
 would have ceased long ago. On the contrary, if we admit the double,
 material as well as immaterial, structure of
-Nature,[11](cwiu16.htm#an_9_11)
+Nature,[11](cwiu16.htm#an_9_11.md)
 
 <span id="page_216">p. 216</span>
 
@@ -399,7 +399,7 @@ Motion; the Sum of the Motions of the two Globes, as often as the Globes
 are in the right Line described by their common Center of Gravity, will
 be bigger than the Sum of their Motions, when they are in a Line
 perpendicular to that right Line. By this Instance it appears that
-Motion may be got or lost.[11a](cwiu16.htm#an_9_11a) But by reason of
+Motion may be got or lost.[11a](cwiu16.htm#an_9_11a.md) But by reason of
 the Tenacity of Fluids, and Attrition of their Parts, and the Weakness
 of Elasticity in Solids, Motion is much more apt to be lost than got,
 and is always upon the Decay. For Bodies which are either absolutely
@@ -417,7 +417,7 @@ Yet, even if they be elastic, they cannot be absolutely elastic, and
 thus, by each and every impact, some motion (that is, momentum) will be
 lost. And if the world were full, as the Cartesians want it to be, then
 the "vortical" motion assumed by Descartes would cease very quickly,
-because[12](cwiu16.htm#an_9_12)
+because[12](cwiu16.htm#an_9_12.md)
 
 <div class="iq">
 
@@ -432,7 +432,7 @@ and recruiting it by active Principles,
 
 that is, in the last analysis by the constant action in the world of the
 Omnipresent and All-powerful God. Newton therefore
-continues:[13](cwiu16.htm#an_9_13)
+continues:[13](cwiu16.htm#an_9_13.md)
 
 <div class="iq">
 
@@ -477,7 +477,7 @@ structure and order, and it is this structure and order that enables us
 to recognize that the world is an effect of choice, and not chance or
 necessity. Natural philosophy—at least the good one, that is, the
 Newtonian and not the Cartesian—thus transcends itself and leads us to
-God:[14](cwiu16.htm#an_9_14)
+God:[14](cwiu16.htm#an_9_14.md)
 
 <div class="iq">
 
@@ -507,7 +507,7 @@ Effect of Choice. And so must the Uniformity in the Bodies of Animals. .
 
 </div>
 
-All that, and much more besides,[15](cwiu16.htm#an_9_15)
+All that, and much more besides,[15](cwiu16.htm#an_9_15.md)
 
 <div class="iq">
 
@@ -553,4 +553,4 @@ transcendent God.
 ------------------------------------------------------------------------
 
 [Next: X. Absolute Space and Absolute Time: God's Frame of
-Action](cwiu13)
+Action](cwiu13.md)

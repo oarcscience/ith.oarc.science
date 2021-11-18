@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc042) 
-[Next](motc044) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc042.md) 
+[Next](motc044.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ ugly fellow as the Crane for a husband, so she stayed single.
 
 ------------------------------------------------------------------------
 
-[Next: 44. The Owl Gets Married](motc044)
+[Next: 44. The Owl Gets Married](motc044.md)

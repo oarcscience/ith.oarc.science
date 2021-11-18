@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](coo13)  [Next](coo15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](coo13)  [Next](coo15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Children of Odin*, by Padraic Colum, \[1920\], at Intangible
 Textual Heritage
 
@@ -87,4 +87,4 @@ offered them.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Thor and Loki in the Giants' City](coo15)
+[Next: 5. Thor and Loki in the Giants' City](coo15.md)

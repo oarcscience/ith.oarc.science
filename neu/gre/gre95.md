@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre94)  [Next](gre96) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre94)  [Next](gre96.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ and in all onsets showed himself the stoutest of hearts.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XCI: Of the doings of Thorstein and the Lady Spes](gre96)
+[Next: Chapter XCI: Of the doings of Thorstein and the Lady Spes](gre96.md)

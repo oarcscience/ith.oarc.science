@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,8 +20,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dast00)    [Page
-Index](pageidx)    [Text \[Zipped\]](dast.txt.gz)
+[Contents](#contents)    [Start Reading](dast00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](dast.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,32 +39,32 @@ concerning the nature of reality.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](dast00)  
-[Preface to the First Edition](dast01)  
-[Preface to the Second Edition](dast02)  
-[Contents](dast03)  
-[Introduction](dast04)  
+<span id="contents"></span> [Title Page](dast00.md)  
+[Preface to the First Edition](dast01.md)  
+[Preface to the Second Edition](dast02.md)  
+[Contents](dast03.md)  
+[Introduction](dast04.md)  
 <span id="section_000"></span>
 
 ### Dakshinamurti Stotra
 
-[Chapter I. Atman as the Ego](dast05)  
-[Chapter II. Atman as the First Cause](dast06)  
-[Chapter III. Unity of Atman](dast07)  
-[Chapter IV. Atman the One Existence and Light](dast08)  
-[Chapter V. False Personations of Atman](dast09)  
-[Chapter VI. Atman the Eternal Existence](dast10)  
-[Chapter VII. Atman, the Eternal Light](dast11)  
-[Chapter VIII. Maya](dast12)  
-[Chapter IX. Devotion to Isvara](dast13)  
-[Chapter X. Perfection](dast14)  
+[Chapter I. Atman as the Ego](dast05.md)  
+[Chapter II. Atman as the First Cause](dast06.md)  
+[Chapter III. Unity of Atman](dast07.md)  
+[Chapter IV. Atman the One Existence and Light](dast08.md)  
+[Chapter V. False Personations of Atman](dast09.md)  
+[Chapter VI. Atman the Eternal Existence](dast10.md)  
+[Chapter VII. Atman, the Eternal Light](dast11.md)  
+[Chapter VIII. Maya](dast12.md)  
+[Chapter IX. Devotion to Isvara](dast13.md)  
+[Chapter X. Perfection](dast14.md)  
 <span id="section_001"></span>
 
 ### II. Suresvaracharya's Pranava-Vartika
 
-[Pranava-Vartika](dast15)  
+[Pranava-Vartika](dast15.md)  
 <span id="section_002"></span>
 
 ### III. Daksinamurti-Upanishad
 
-[Daksinamurti-Upanishad](dast16)  
+[Daksinamurti-Upanishad](dast16.md)  

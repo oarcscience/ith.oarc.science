@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck06)  [Next](peck08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck06)  [Next](peck08.md) 
 
 ------------------------------------------------------------------------
 
@@ -362,4 +362,4 @@ to bring down another flood.
 
 ------------------------------------------------------------------------
 
-[Next: How The Waratah Got Its Honey](peck08)
+[Next: How The Waratah Got Its Honey](peck08.md)

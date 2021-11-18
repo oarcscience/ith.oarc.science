@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot31) 
-[Next](laot33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot31.md) 
+[Next](laot33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -254,7 +254,7 @@ is many times greater than the earlier ones,
 
 and the echo which leaps up therefrom against the mountains render it
 impossible to hear what your companion tells you about the river <span
-id="fr_18"></span>[1](#fn_18). But the further road which leads up to
+id="fr_18"></span>[1](#fn_18.md). But the further road which leads up to
 the first springs of the river was impracticable, they tell us, and
 impossible to think of; for they tell many stories of the demons which
 haunt it, stories similar to those which Pindar in his wisdom puts into
@@ -309,7 +309,7 @@ nonsense is stopped for ever." Such was
 
 this exploit of Apollonius, and, by heavens, we may call it not an
 incidental work in passing, but a masterwork of his passing by <span
-id="fr_19"></span>[1](#fn_19); and if you read the sage's epistle, in
+id="fr_19"></span>[1](#fn_19.md); and if you read the sage's epistle, in
 which he wrote to an insolent young man that he had sobered even a satyr
 demon in Ethiopia, you will perforce call to mind the above story. But
 we must not disbelieve that satyrs both exist and are susceptible to the
@@ -389,12 +389,12 @@ gain in strength and youth in discipline."
 
 ### Footnotes
 
-<span id="fn_18"></span>[2:107:1](laot32.htm#fr_18) *Or* "render
+<span id="fn_18"></span>[2:107:1](laot32.htm#fr_18.md) *Or* "render
 investigation of the stream a trial to the ears."
 
-<span id="fn_19"></span>[2:111:1](laot32.htm#fr_19) I try to render the
+<span id="fn_19"></span>[2:111:1](laot32.htm#fr_19.md) I try to render the
 pun of the original.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 31-40](laot33)
+[Next: Chapters 31-40](laot33.md)

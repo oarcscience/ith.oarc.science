@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](salt07)  [Next](salt09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](salt07)  [Next](salt09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sayings of Lao-Tzu*, Lionel Giles translation \[1905\], at
 Intangible Textual Heritage
 
@@ -75,7 +75,7 @@ uprightness becomes rare, and goodness becomes strange. Verily, mankind
 have been under delusion for many a day!
 
 Govern a great nation as you would cook a small fish. <span
-id="fr_4"></span>[\*](#fn_4)
+id="fr_4"></span>[\*](#fn_4.md)
 
 <span id="page_39">p. 39</span>
 
@@ -129,7 +129,7 @@ to distant countries. Though they might possess boats and carriages,
 they should have no occasion to ride in them. Though they might own
 weapons and armour, they should have no need to use them. I would make
 the people return to the use of knotted cords. <span
-id="fr_5"></span>[\*](#fn_5) They should find their plain food sweet,
+id="fr_5"></span>[\*](#fn_5.md) They should find their plain food sweet,
 their rough garments fine. They should be content with their homes, and
 happy in their simple ways. If a neighbouring State was within sight of
 mine--nay, if we were close enough to hear the crowing of each other's
@@ -140,11 +140,11 @@ old and die without there ever having been any mutual intercourse.
 
 ### Footnotes
 
-<span id="fn_4"></span>[38:\*](salt08.htm#fr_4) *Q.d.*, Don't overdo it.
+<span id="fn_4"></span>[38:\*](salt08.htm#fr_4.md) *Q.d.*, Don't overdo it.
 
-<span id="fn_5"></span>[40:\*](salt08.htm#fr_5) The old *quipo* method
+<span id="fn_5"></span>[40:\*](salt08.htm#fr_5.md) The old *quipo* method
 of recording events, before the invention of writing.
 
 ------------------------------------------------------------------------
 
-[Next: War](salt09)
+[Next: War](salt09.md)

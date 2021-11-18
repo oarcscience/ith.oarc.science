@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio23)  [Next](dio25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio23)  [Next](dio25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ Aristides, who presented his "Apology" to the Emperor Hadrian. The
 conversion of Statonice, the wife of Apollophanes, was the cause of St.
 Paul’s being cast into chains at Philippi, where the messengers from
 Corinth found him, through whom he sent the Epistle recently brought to
-light <span id="fr_60"></span>[61](#fn_60) .
+light <span id="fr_60"></span>[61](#fn_60.md) .
 
 <span id="ii.iv.i-p3"></span>CANNES,  
 *Circumcision,* 1897.
@@ -63,10 +63,10 @@ light <span id="fr_60"></span>[61](#fn_60) .
 
 ### Footnotes
 
-<span id="fn_60"></span>[p140:61](dio24.htm#fr_60) <span
+<span id="fn_60"></span>[p140:61](dio24.htm#fr_60.md) <span
 id="ii.iv.i-p2.1"></span>See "Correspondence of St, Paul," Carrière et
 Berger, p. 20. Fishbacher, Paris.
 
 ------------------------------------------------------------------------
 
-[Next: Letter I. To Gaius Therapeutes.](dio25)
+[Next: Letter I. To Gaius Therapeutes.](dio25.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos08)  [Next](pos10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos08)  [Next](pos10.md) 
 
 ------------------------------------------------------------------------
 
 ## <span id="C-IV">CANTO IV PSALMS OF FOUR VERSES</span>
 
-### <span id="XXXVII">XXXVII Bhaddā of the Kapilas.</span> [<sup>184</sup>](pos09.htm#47-1)
+### <span id="XXXVII">XXXVII Bhaddā of the Kapilas.</span> [<sup>184</sup>](pos09.htm#47-1.md)
 
 N<span class="small">OW</span> she was born in the time of Padumuttara
 Buddha, in a clansman's house at Haŋsavatī. Come to years of discretion,
@@ -39,21 +39,21 @@ ministering to Silent Buddhas. When they passed away she was greatly
 troubled, and left the world for ascetic practices. Dwelling in groves,
 she practised Jhana, and was reborn in the Brahma heavens, and thence
 into the family of a brahmin of the Kosiya clan at
-Sāgala.[<sup>185</sup>](pos09.htm#48-1) Reared in great state, she was
+Sāgala.[<sup>185</sup>](pos09.htm#48-1.md) Reared in great state, she was
 wedded to the young noble Pippali at the village of Mahā-tittha. When he
 renounced the world she handed over her great wealth to her kinsfolk
 that she too might go forth; and she dwelt five years in the Sophists'
-Grove,[<sup>186</sup>](pos09.htm#48-2) after which she was ordained by
+Grove,[<sup>186</sup>](pos09.htm#48-2.md) after which she was ordained by
 Great Pajāpatī the Gotamid. Establishing insight, she soon won
 Arahantship.
 
 And she became an expert in knowledge of her past lives, through the
 surplus force of her resolve (made in past ages), and was herein ranked
 first by the Master when, seated in the Jeta Grove among the company of
-Ariyans,[<sup>187</sup>](pos09.htm#48-3) he classified the Bhikkhunīs.
+Ariyans,[<sup>187</sup>](pos09.htm#48-3.md) he classified the Bhikkhunīs.
 One day she broke forth in a Psalm, recounting all that she had wrought,
 accompanied by a eulogy of the virtues of the great Elder Kassapa,
-[<sup>188</sup>](pos09.htm#49-1) thus:
+[<sup>188</sup>](pos09.htm#49-1.md) thus:
 
 <table data-align="center">
 <colgroup>
@@ -90,7 +90,7 @@ Cool are we both, ours is Nibbana now! (66)</span></p></td>
 
 > <sup>184</sup> Dr. Neumann translates Kapilāni by 'the Blonde'
 > (*kapilo* is auburn, reddish), as if in keeping with the soubriquet of
-> the other Bhaddā ([Ps. xlvi.](pos10.htm#XLVI)). I have not done so
+> the other Bhaddā ([Ps. xlvi.](pos10.htm#XLVI).md). I have not done so
 > because elsewhere a soubriquet is always explicitly accounted for in
 > the Commentary, and here nothing is said. Moreover, and this is fairly
 > conclusive, the Apadãna chronicle, quoted in the Commentary, makes
@@ -103,7 +103,7 @@ Cool are we both, ours is Nibbana now! (66)</span></p></td>
 
 > <sup>185</sup> On the three Sāgalas, see Rhys Davids, *Buddhist
 > India,* p. 38. According to the Apadāna this was the capital of the
-> Maddas (*cf.* [Ps. lii.](pos11.htm#LII)). Mahātittha, the 'great
+> Maddas (*cf.* [Ps. lii.](pos11.htm#LII).md). Mahātittha, the 'great
 > ford,' was a brahmin village in Magadha.
 
 <span id="48-2"></span>
@@ -129,8 +129,8 @@ Cool are we both, ours is Nibbana now! (66)</span></p></td>
 <span id="49-2"></span>
 
 > <sup>189</sup> The metaphor is not Buddhist. The Pali reads 'by these
-> three wisdoms' (*etāhi tīhi vijjāhi*). See Ps. [xxii](pos07.htm#XXII).
-> [26](pos07.htm#26). The case of Bhaddā is noteworthy as being the only
+> three wisdoms' (*etāhi tīhi vijjāhi*). See Ps. [xxii](pos07.htm#XXII.md).
+> [26](pos07.htm#26.md). The case of Bhaddā is noteworthy as being the only
 > one where wife and husband–united for so many ages–act in harmony up
 > to the day when, having aided each other in donning the religious
 > dress, they leave the world together, then part on their several ways
@@ -143,4 +143,4 @@ Cool are we both, ours is Nibbana now! (66)</span></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto V. Psalms of Five Verses](pos10)
+[Next: Canto V. Psalms of Five Verses](pos10.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](htaq05)  [Next](htaq07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](htaq05)  [Next](htaq07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hidden Treasures of the Ancient Qabalah*, by Elias Gewurz, \[1918\], at
 Intangible Textual Heritage
 
@@ -227,4 +227,4 @@ by the expression of love pure and undefiled.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Mystery of Time and Space](htaq07)
+[Next: V. The Mystery of Time and Space](htaq07.md)

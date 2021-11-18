@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb27)  [Next](vifb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb27)  [Next](vifb29.md) 
 
 </div>
 
@@ -306,6 +306,6 @@ happily and prosperously to the end of his days.
 
 ------------------------------------------------------------------------
 
-[Next: The Young Man Who Would Have His Eyes Opened](vifb29)
+[Next: The Young Man Who Would Have His Eyes Opened](vifb29.md)
 
 </div>

@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt12)  [Next](ebt14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt12)  [Next](ebt14.md) 
 
 ------------------------------------------------------------------------
 
 ### MARK STONES.
 
-These ([Plate IX](ebt19.htm#img_pl09).) were used to mark the way. They
+These ([Plate IX](ebt19.htm#img_pl09)..md) were used to mark the way. They
 were of all sizes, from the Whetstone on Hargest Ridge to a small stone
 not
 
@@ -29,7 +29,7 @@ They mark the Palace Ford, and a ley from Castle Hill to Hunderton. They
 are of the same peculiar stone (not "old red") as at Madley, Colwall,
 etc.
 
-Wergin's Stone ([Plate X](ebt19.htm#img_pl10).) is a late type of mark
+Wergin's Stone ([Plate X](ebt19.htm#img_pl10)..md) is a late type of mark
 stone which was the prototype of the churchyard and wayside crosses, all
 of which I think are on the sites of original mark stones, as I find
 leys passing through them.
@@ -56,4 +56,4 @@ of England are crowned on is certainly a mark stone.
 
 ------------------------------------------------------------------------
 
-[Next: Sighting Stones](ebt14)
+[Next: Sighting Stones](ebt14.md)

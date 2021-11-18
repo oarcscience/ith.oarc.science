@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl24)  [Next](orl26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl24)  [Next](orl26.md) 
 
 ------------------------------------------------------------------------
 
@@ -1052,4 +1052,4 @@ I find myself arrived, and crave repose.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 26](orl26)
+[Next: Canto 26](orl26.md)

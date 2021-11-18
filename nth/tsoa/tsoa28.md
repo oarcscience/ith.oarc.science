@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa27)  [Next](tsoa29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa27)  [Next](tsoa29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ Textual Heritage
  Yet Fame hath crowned with her success  
  The selfsame gifts that you possess."  
                         —<span class="smallcaps">Edgar A.
-Guest.</span> <span id="fr_10"></span>[\*](#fn_10)
+Guest.</span> <span id="fr_10"></span>[\*](#fn_10.md)
 
 </div>
 
@@ -83,7 +83,7 @@ world.
 
 As Bruce Barton has it in "The Man Whom Nobody Knows"—
 
-"Somewhere, at some [unforgettable](errata.htm#11) hour, the daring
+"Somewhere, at some [unforgettable](errata.htm#11.md) hour, the daring
 filled His (Jesus) heart. He knew that He was bigger than Nazareth."
 
 Again in speaking of Abraham Lincoln, Barton says—"Inside himself he
@@ -165,10 +165,10 @@ found the key to the solution of every problem of life.
 
 ### Footnotes
 
-<span id="fn_10"></span>[427:\*](tsoa28.htm#fr_10) Published by
+<span id="fn_10"></span>[427:\*](tsoa28.htm#fr_10.md) Published by
 permission of The International Magazine Co. (Cosmopolitan Magazine).
 Copyright, 1921.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. This One Thing I Do](tsoa29)
+[Next: XVIII. This One Thing I Do](tsoa29.md)

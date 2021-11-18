@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Islamic
-Articles](../../isl/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Islamic
+Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -299,7 +299,7 @@ Its many sparks illuminate our hearts!</td>
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Islamic Articles](../../isl/etc/index)
+[Journals](../index) [Islamic Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -307,19 +307,19 @@ Its many sparks illuminate our hearts!</td>
 
 <span id="footnotes_page_305">p. 305</span>
 
-<span id="page_305_note_*"></span>[\*](#page_305_fr_*) Water and meadows
+<span id="page_305_note_*"></span>[\*](#page_305_fr_*.md) Water and meadows
 produce nourishment for animals and men; part of this vegetable and
 animal food becomes sperm, from which the body of man is produced.
 
-<span id="page_305_note_dagger"></span>[†](#page_305_fr_dagger) *Qorán*,
+<span id="page_305_note_dagger"></span>[†](#page_305_fr_dagger.md) *Qorán*,
 V. 59.
 
 <span id="footnotes_page_306">p. 306</span>
 
-<span id="page_306_note_*"></span>[\*](#page_306_fr_*) Hopeful =
+<span id="page_306_note_*"></span>[\*](#page_306_fr_*.md) Hopeful =
 immortal, hopeless = mortal; *i.e.* spiritual and material.
 
-<span id="page_306_note_dagger"></span>[†](#page_306_fr_dagger) This is
+<span id="page_306_note_dagger"></span>[†](#page_306_fr_dagger.md) This is
 the literal translation of the Persian word for *amber*, which, together
 with *Lover* in the simile, stands for God, and straws for man, to
 express the attraction exerted by the Creator on the creature. There

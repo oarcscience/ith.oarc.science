@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu07)  [Next](kmu09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu07)  [Next](kmu09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -143,7 +143,7 @@ and spiritually, upon which to draw.
 
 "This will make your life natural and peaceful, free from nervous
 exhaustion and worry, because it will enable you to keep your vital
-force of life ever renewed and [reinforced](errata.htm#7). It will
+force of life ever renewed and [reinforced](errata.htm#7.md). It will
 enable you to charge your battery, to electrify it every day. Today you
 resemble a small boat tossing on the waves of a stormy life without
 oars, at the mercy of wind and wave, always in danger of rocks and
@@ -156,4 +156,4 @@ Four.
 
 ------------------------------------------------------------------------
 
-[Next: The Power of Dharana, Dhiyana, and Samyama Yoga](kmu09)
+[Next: The Power of Dharana, Dhiyana, and Samyama Yoga](kmu09.md)

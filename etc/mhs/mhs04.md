@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs03)  [Next](mhs05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs03)  [Next](mhs05.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ slowly.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Horse-shoe As A Safeguard](mhs05)
+[Next: II. The Horse-shoe As A Safeguard](mhs05.md)

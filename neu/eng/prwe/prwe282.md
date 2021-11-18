@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe281)  [Next](prwe283) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe281)  [Next](prwe283.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ your hat to it; this will turnaway the anger.
 
 ------------------------------------------------------------------------
 
-[Next: The Month of May Unlucky](prwe283)
+[Next: The Month of May Unlucky](prwe283.md)

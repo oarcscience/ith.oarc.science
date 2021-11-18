@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas137n)  [Next](jas139n) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas137n)  [Next](jas139n.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ note; by Espinosa, JAFL 27:222-227.
 
 ------------------------------------------------------------------------
 
-[Next: Note 139. The Fifer.](jas139n)
+[Next: Note 139. The Fifer.](jas139n.md)

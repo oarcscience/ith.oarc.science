@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm21)  [Next](bnm23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm21)  [Next](bnm23.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ whenever he thought of the bear he laughed.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Wren Flies Close To The Earth.](bnm23)
+[Next: Why The Wren Flies Close To The Earth.](bnm23.md)

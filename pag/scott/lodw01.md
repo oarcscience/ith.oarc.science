@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw00)  [Next](lodw02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw00)  [Next](lodw02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -366,7 +366,7 @@ locks) the guns had, and their length and wideness, and what handles the
 swords had, whether small or three-barr'd, or Highland guards, and the
 closing knots of the bonnets, black or blue; and those who did see them
 there, whenever they went abroad, saw a bonnet and a sword drop in the
-way." <span id="fr_0"></span>[1](#fn_0)
+way." <span id="fr_0"></span>[1](#fn_0.md)
 
      This singular phenomenon, in which a multitude believed, although
 only two-thirds of them saw what must, if real, have been equally
@@ -873,7 +873,7 @@ Berlin, and respected as a man of an habitually serious, simple, and
 tranquil character.
 
       A short time after the death of Maupertuis, <span
-id="fr_1"></span>[2](#fn_1) M. Gleditsch being obliged to traverse the
+id="fr_1"></span>[2](#fn_1.md) M. Gleditsch being obliged to traverse the
 hall in which the Academy held its sittings, having some arrangements to
 make in the cabinet of natural history, which was under his charge, and
 being willing to complete them on the Thursday before the meeting, he
@@ -1077,7 +1077,7 @@ Nor knows, o'erawed and trembling as he stands,
 To what or whom he owes his idle fear --  
 To ghost, to witch, to fairy, or to fiend,  
 But wonders, and no end of wondering finds." <span
-id="fr_2"></span>[3](#fn_2)  
+id="fr_2"></span>[3](#fn_2.md)  
 
       It must also be remembered, that to the auricular deceptions
 practised by the means of ventriloquism or otherwise, may be traced
@@ -1159,7 +1159,7 @@ for imposture. If, as a general opinion assures us, which is not
 positively discountenanced 'by Dr. Hibbert, by the inhalation of certain
 gases or poisonous "herbs, necromancers can dispose a person to believe
 he sees phantoms, it is likely that the nostrils are made to inhale such
-suffumigation as well as the mouth. <span id="fr_3"></span>[4](#fn_3)
+suffumigation as well as the mouth. <span id="fr_3"></span>[4](#fn_3.md)
 
       I have now arrived, by a devious path, at the conclusion of this
 letter, the object of which is to show from what attributes of our
@@ -1215,19 +1215,19 @@ next letter.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](lodw01.htm#fr_0) Walker's "Lives," Edinburgh,
+<span id="fn_0"></span>[1](lodw01.htm#fr_0.md) Walker's "Lives," Edinburgh,
 1827, vol. i. p. xxxvi. It is evident that honest Peter believed in the
 apparition of this martial gear on the principle of Partridge's terror
 for the ghost of Hamlet -- not that he was afraid himself, but because
 Garrick showed such evident marks of terror.
 
-<span id="fn_1"></span>[2](lodw01.htm#fr_1) Long the president of the
+<span id="fn_1"></span>[2](lodw01.htm#fr_1.md) Long the president of the
 Berlin Academy, and much favoured by Frederick II., till be was
 overwhelmed by the ridicule of Voltaire. He retired, in a species of
 disgrace, to his native country of Switzerland, and died there shortly
 afterwards.
 
-<span id="fn_2"></span>[3](lodw01.htm#fr_2) The poem of "Albania" is, in
+<span id="fn_2"></span>[3](lodw01.htm#fr_2.md) The poem of "Albania" is, in
 its original folio edition, so extremely scarce that I have only seen a
 copy belonging to the amiable and ingenious Dr. Beattie, besides the one
 which I myself possess, printed in the earlier part of last century. It
@@ -1235,7 +1235,7 @@ was reprinted by my late friend Dr. Leyden in a small volume entitled "
 Scottish Descriptive Poems." " Albania" contains the above, and many
 other poetical passages of the highest merit.
 
-<span id="fn_3"></span>[4](lodw01.htm#fr_3) Most ancient authors, who
+<span id="fn_3"></span>[4](lodw01.htm#fr_3.md) Most ancient authors, who
 pretend to treat of the wonders of natural magic, give receipts for
 calling up phantoms. The lighting lamps fed by peculiar kinds of
 medicated oil, and the use of suffumigations, of strong and deleterious
@@ -1247,4 +1247,4 @@ to suppose he saw phantoms. -- See " Hibbert on Apparitions," p. 120.
 
 ------------------------------------------------------------------------
 
-[Next: Letter 2](lodw02)
+[Next: Letter 2](lodw02.md)

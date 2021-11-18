@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb15)  [Next](gyfb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb15)  [Next](gyfb17.md) 
 
 </div>
 
@@ -272,6 +272,6 @@ mischief, the Fairies took all her power away for a punishment.
 
 ------------------------------------------------------------------------
 
-[Next: Udea and Her Seven Brothers](gyfb17)
+[Next: Udea and Her Seven Brothers](gyfb17.md)
 
 </div>

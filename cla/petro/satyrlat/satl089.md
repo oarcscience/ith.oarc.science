@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXXIX) 
-[Previous](satl088)  [Next](satl090) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXXIX.md) 
+[Previous](satl088)  [Next](satl090.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ contraque Troas invocat Troiae sacra."
 
 ------------------------------------------------------------------------
 
-[Next: XC](satl090)
+[Next: XC](satl090.md)

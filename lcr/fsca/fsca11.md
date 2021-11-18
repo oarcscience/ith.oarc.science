@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca10)  [Next](fsca12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca10)  [Next](fsca12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ infant between a pair<span id="img_04400"></span>
 
 |                                   |
 |-----------------------------------|
-| ![Cherubs' Heads.](img/04400.jpg) |
+| ![Cherubs' Heads.](img/04400.jpg.md) |
 
 of wings, usually termed a "cherub's head."
 
@@ -49,7 +49,7 @@ of wings;<span id="img_04401"></span>
 
 |                                    |
 |------------------------------------|
-| ![A Seraph's Head.](img/04401.jpg) |
+| ![A Seraph's Head.](img/04401.jpg.md) |
 
 the two uppermost and the two lowermost are contrarily crossed, or in
 saltire; the two middle-most are displayed.
@@ -70,7 +70,7 @@ cannot be borne by any<span id="img_04500"></span>
 
 |                                                                                         |
 |-----------------------------------------------------------------------------------------|
-| ![Arms—Azure a chevron argent between three cherubs’ heads of the last.](img/04500.jpg) |
+| ![Arms—Azure a chevron argent between three cherubs’ heads of the last.](img/04500.jpg.md) |
 
 woman, sovereign princesses only excepted.
 
@@ -140,4 +140,4 @@ as they were termed and as we now understand them.
 
 ------------------------------------------------------------------------
 
-[Next: Cherubim & Seraphim of Scripture](fsca12)
+[Next: Cherubim & Seraphim of Scripture](fsca12.md)

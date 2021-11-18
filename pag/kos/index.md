@@ -1,1 +1,1 @@
-[Updated file!](../../grim/kos/index)
+[Updated file!](../../grim/kos/index.md)

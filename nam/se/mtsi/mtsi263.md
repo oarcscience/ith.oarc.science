@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi262)  [Next](mtsi264) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi262)  [Next](mtsi264.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ awoke, began to buck, and ran away with Wildcat sticking on his back.
 
 ------------------------------------------------------------------------
 
-[Next: 64. The Flight to the Tree](mtsi264)
+[Next: 64. The Flight to the Tree](mtsi264.md)

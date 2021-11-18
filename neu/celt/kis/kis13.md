@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis12)  [Next](kis14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis12)  [Next](kis14.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ Passed away as a shade.
 
 ------------------------------------------------------------------------
 
-[Next: Part XIV](kis14)
+[Next: Part XIV](kis14.md)

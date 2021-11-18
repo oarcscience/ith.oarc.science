@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bof03)  [Next](bof05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bof03)  [Next](bof05.md) 
 
 ------------------------------------------------------------------------
 
@@ -531,4 +531,4 @@ The Ancient Divinities
 
 ------------------------------------------------------------------------
 
-[Next: Sacrifice](bof05)
+[Next: Sacrifice](bof05.md)

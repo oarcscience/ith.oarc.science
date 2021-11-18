@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth003)  [Next](toth005) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth003)  [Next](toth005.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_10">p. 10</span>
 
-## 3. COMING OF THE HOPI FROM THE UNDER-WORLD. <span id="fr_5"></span>[1](#fn_5)
+## 3. COMING OF THE HOPI FROM THE UNDER-WORLD. <span id="fr_5"></span>[1](#fn_5.md)
 
 A long time ago the people were living below. There were a great many of
 them, but they were often quarreling with one another. Some of them were
@@ -32,7 +32,7 @@ returned without having been successful. They then sent the Mocking-bird
 Returning, he reported this to the chiefs.
 
 In the meanwhile the chiefs had caused a great flood. Many
-Bálölölkongwuus <span id="fr_6"></span>[2](#fn_6) came out of the ground
+Bálölölkongwuus <span id="fr_6"></span>[2](#fn_6.md) came out of the ground
 with the water, and a great portion of the people were destroyed. When
 the Mocking-bird had made his report to the chiefs the latter said: "All
 right, that is good. We are going away from here.'' They then announced
@@ -107,7 +107,7 @@ upward to a great height, the people all standing and watching. <span
 id="page_12">p. 12</span> When it came down it fell upon the head of
 some one and was shattered. "Ishohí! so you are the one," the chief said
 to him. But as it happened this was the chief's nephew (his younger
-sister's son). <span id="fr_7"></span>[1](#fn_7) "My nephew, so you are
+sister's son). <span id="fr_7"></span>[1](#fn_7.md) "My nephew, so you are
 núkpana (dangerous); why have you come out with us? We did not want any
 bad ones here, and now you have come with us. I am going to throw you
 back again." So he grabbed him in order to throw him back. "Wait," he
@@ -173,7 +173,7 @@ not make a sun as they had had it in the underworld, but they did not
 just know how to do it. So they finally took a piece of dressed buffalo
 hide (hâkwávu), which they cut in a round shape, stretched it over a
 wooden ring, and then painted it with white dû'ma (kaoline). They then
-pulverized some black paint (tóho) <span id="fr_8"></span>[1](#fn_8)
+pulverized some black paint (tóho) <span id="fr_8"></span>[1](#fn_8.md)
 with which they drew a picture of the moon around the edge of this disk,
 sprinkling the center of the disk with the same black color. They then
 attached a stick to this disk. Hereupon they stretched a large piece of
@@ -206,7 +206,7 @@ cut out a round piece, stretched it over a ring, but this time painted
 it with oxide of copper (cákwa). They painted eyes and a mouth on the
 disk, and decorated the forehead of what this was to resemble in yellow,
 red, and other colors. They put a ring of corn-husks around it, which
-were worked in a zigzag fashion. <span id="fr_9"></span>[1](#fn_9)
+were worked in a zigzag fashion. <span id="fr_9"></span>[1](#fn_9.md)
 Around this they tied a táwahona, that is, a string of red horse-hair,
 finally thrusting a number of eagle-tail feathers into a corn-husk ring,
 fastened to the back of the disk. In fact, they prepared a sun symbol as
@@ -214,7 +214,7 @@ it is still worn on the back of the flute players in the Flute ceremony.
 To the forehead of the face painted on the disk they tied an abalone
 shell. Finally the chief made nakwákwosis of the feathers of a small
 yellowish bird, called iráhoya, which resembles a fly-catcher, but has
-some red hair on top of the head. <span id="fr_10"></span>[2](#fn_10)
+some red hair on top of the head. <span id="fr_10"></span>[2](#fn_10.md)
 
 Of these nakwákwosis the chief tied one to the point of each eagle-tail
 feather on the sun symbol. They then placed this symbol on the white
@@ -223,7 +223,7 @@ the moon, they swung the cloth with its contents into the air, where it
 kept twirling upward and upward towards the east. Soon they again saw a
 light rise in the east. It became brighter and brighter and warmer. That
 proved to be the sun, and it had not come up very high when the Hopi
-already felt its warmth. <span id="fr_11"></span>[3](#fn_11) After
+already felt its warmth. <span id="fr_11"></span>[3](#fn_11.md) After
 
 <span id="page_15">p. 15</span>
 
@@ -269,27 +269,27 @@ come and help them.
 
 ### Footnotes
 
-<span id="fn_5"></span>[10:1](toth004.htm#fr_5) Told by Lomávântiwa
+<span id="fn_5"></span>[10:1](toth004.htm#fr_5.md) Told by Lomávântiwa
 (Shupaúlavi).
 
-<span id="fn_6"></span>[10:2](toth004.htm#fr_6) Great water serpent.
+<span id="fn_6"></span>[10:2](toth004.htm#fr_6.md) Great water serpent.
 
-<span id="fn_7"></span>[12:1](toth004.htm#fr_7) According to others it
+<span id="fn_7"></span>[12:1](toth004.htm#fr_7.md) According to others it
 was a maiden.
 
-<span id="fn_8"></span>[13:1](toth004.htm#fr_8) These paints are still
+<span id="fn_8"></span>[13:1](toth004.htm#fr_8.md) These paints are still
 universally used in their ceremonies.
 
-<span id="fn_9"></span>[14:1](toth004.htm#fr_9) Lamávântiva says that
+<span id="fn_9"></span>[14:1](toth004.htm#fr_9.md) Lamávântiva says that
 the Hopi are very secretive about making this zigzag ring. They do not
 want any one to witness the manufacturing of this peculiar object.
 
-<span id="fn_10"></span>[14:2](toth004.htm#fr_10) The Hopi say that this
+<span id="fn_10"></span>[14:2](toth004.htm#fr_10.md) The Hopi say that this
 red spot resembles fire, and hence the feathers of this bird are very
 much prized for prayer-offerings, whose object it is to produce warm
 weather.
 
-<span id="fn_11"></span>[14:3](toth004.htm#fr_11) Which is said to come
+<span id="fn_11"></span>[14:3](toth004.htm#fr_11.md) Which is said to come
 partly from those small nakwákwosis and partly from the glittering shell
 which is said to also contain heat. As the shell glitters the light is
 said to proceed from the sun on account of that shell. The man that was
@@ -306,4 +306,4 @@ was created.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Wanderings of the Hopi.](toth005)
+[Next: 4. The Wanderings of the Hopi.](toth005.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks01)  [Next](mks03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks01)  [Next](mks03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -395,7 +395,7 @@ nature and just the opposite of the law of attraction. A little
 reflection will convince you that all of the great laws of nature
 operate in silence and that the underlying principle is the law of
 attraction. It is only destructive processes such as earthquakes and
-[catastrophes](errata.htm#0), that employ force. Nothing good is ever
+[catastrophes](errata.htm#0.md), that employ force. Nothing good is ever
 accomplished in that way.
 
 To be successful, attention must invariably be directed to the creative
@@ -879,4 +879,4 @@ the Master Key has an inconceivable advantage over the multitude.
 
 ------------------------------------------------------------------------
 
-[Next: The Master Key Psychological Chart](mks03)
+[Next: The Master Key Psychological Chart](mks03.md)

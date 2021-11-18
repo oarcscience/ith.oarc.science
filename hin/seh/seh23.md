@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh22)  [Next](seh24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh22)  [Next](seh24.md) 
 
 ------------------------------------------------------------------------
 
@@ -288,4 +288,4 @@ already in the forests of the Dekkan, in this the Palæolithic Age.
 
 ------------------------------------------------------------------------
 
-[Next: The Dread Seven](seh24)
+[Next: The Dread Seven](seh24.md)

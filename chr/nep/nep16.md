@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep15)  [Next](nep17) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep15)  [Next](nep17.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ Whate'er you would not take again
 
 ------------------------------------------------------------------------
 
-[Next: Choice Sentences](nep17)
+[Next: Choice Sentences](nep17.md)

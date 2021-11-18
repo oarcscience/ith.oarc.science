@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw05)  [Next](sahw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw05)  [Next](sahw07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -30,7 +30,7 @@ Inshin, nothing seems to be known. The second, Zenran, had a son,
 Nyoshin, who was appointed to succeed his grandfather in the headship of
 the sect, and is therefore reckoned as the second Patriarch. With him
 Zenran's line seems to have died out. But Shinran had also a
-[daughter](errata.htm#2), Kakushin-ni, who had devotedly attended on her
+[daughter](errata.htm#2.md), Kakushin-ni, who had devotedly attended on her
 father during his last illness, and through whom the succession of
 Shinran's line was continued. Her grandson, Kakunyo, was the third head
 of the Shinshu, and the succession then passed to Kakunyo's son Zennyo
@@ -54,7 +54,7 @@ Founder, and a desire to exalt the dignity of some particular Temple in
 which Shinran himself had laboured. I purpose giving a short account of
 these sub-sects, which are occasionally interesting for the light they
 throw on the subsequent experiences of the sect. <span
-id="fr_30"></span>[\*](#fn_30)
+id="fr_30"></span>[\*](#fn_30.md)
 
 I.—The *Bukkōji* ("temple of Buddha's Light") originally called Kōshōji
 (temple of the restoration of the right"—possibly in reference to
@@ -108,7 +108,7 @@ been their idea to counterbalance the power of the great temporal lords,
 as also of the great monasteries, by the creation of a kind of spiritual
 peers, whose secular position and spiritual influence would, it was
 hoped, have great and beneficial weight in the State at large. <span
-id="fr_31"></span>[\*](#fn_31)
+id="fr_31"></span>[\*](#fn_31.md)
 
 IV\. V.—We have already spoken about the Hongwanji, the headship of
 which remained in the direct line of Shinran's descendants. The
@@ -143,7 +143,7 @@ Iyeyasu understood quite well the principle of *divide et impera*.
 VI\. VII.—Neither the *Kōshōji-ha*, nor the *Izumoji-ha*, call for any
 special notice.
 
-VIII\. IX.—The [*Seishōji-ha*](errata.htm#3) has its influence mainly in
+VIII\. IX.—The [*Seishōji-ha*](errata.htm#3.md) has its influence mainly in
 the province of Echizen. It originated during the period of Shinran's
 exile to Echigo. On his road to his place of exile, he stopped one
 evening at a small farm-house in the village of Uyeno. After supper he
@@ -241,10 +241,10 @@ will give Shinran an opportunity of speaking for himself.
 
 ### Footnotes
 
-<span id="fn_30"></span>[28:\*](sahw06.htm#fr_30) § 24. I have also
+<span id="fn_30"></span>[28:\*](sahw06.htm#fr_30.md) § 24. I have also
 consulted *Bukkyōkakushe Kōyō*.
 
-<span id="fn_31"></span>[30:\*](sahw06.htm#fr_31) These hereditary
+<span id="fn_31"></span>[30:\*](sahw06.htm#fr_31.md) These hereditary
 Bishoprics (in the case of the Hongwanji it might almost be called a
 hereditary Papacy) have not always been ideal, the bad intermingling
 curiously with the good. It is interesting to note that the Shinshu
@@ -255,4 +255,4 @@ cassock to a "Bishop" (*daisō-jō*) of the Zen sect.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Shōshinge](sahw07)
+[Next: Chapter V. The Shōshinge](sahw07.md)

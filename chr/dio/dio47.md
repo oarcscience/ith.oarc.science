@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio46)  [Next](dio48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio46)  [Next](dio48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,26 +67,26 @@ pre-eminently worthy of the appellation Angelic, on the ground that the
 supremely Divine illumination comes to them at first hand, and, through
 them, there pass to us manifestations above us. Thus, then, the Law, as
 the Word of God affirms, was given to us through the ministration of
-Angels <span id="fr_205"></span>[206](#fn_205) ; and Angels led our
-illustrious fathers <span id="fr_206"></span>[207](#fn_206) before the
+Angels <span id="fr_205"></span>[206](#fn_205.md) ; and Angels led our
+illustrious fathers <span id="fr_206"></span>[207](#fn_206.md) before the
 Law, and after the Law, to the Divine Being, either by leading <span
-id="fr_207"></span>[208](#fn_207) them to what was to be done, and by
+id="fr_207"></span>[208](#fn_207.md) them to what was to be done, and by
 converting them from error, and an unholy life, to the straight way of
-truth <span id="fr_208"></span>[209](#fn_208) , or by making known to
-them sacred ordinances <span id="fr_209"></span>[210](#fn_209) , or
+truth <span id="fr_208"></span>[209](#fn_208.md) , or by making known to
+them sacred ordinances <span id="fr_209"></span>[210](#fn_209.md) , or
 hidden visions, or supermundane mysteries <span
-id="fr_210"></span>[211](#fn_210) , or certain Divine predictions
-through the Prophets <span id="fr_211"></span>[212](#fn_211) .
+id="fr_210"></span>[211](#fn_210.md) , or certain Divine predictions
+through the Prophets <span id="fr_211"></span>[212](#fn_211.md) .
 
 <span id="iv.ii.iv-p6"></span>Section III.
 
 <span id="iv.ii.iv-p7"></span>But if any one should say that Divine
 manifestations were made directly and immediately to some holy men <span
-id="fr_212"></span>[213](#fn_212) , let him learn, and that distinctly,
+id="fr_212"></span>[213](#fn_212.md) , let him learn, and that distinctly,
 from the most Holy Oracles, that no one hath seen, nor <span
 id="page_19">p. 19</span> <span id="iv.ii.iv-Page_19"></span>ever shall
 see, the "hidden" <span id="iv.ii.iv-p7.3"></span>τὸ κρύφιον of Almighty
-God as it is in itself <span id="fr_213"></span>[214](#fn_213) . Now
+God as it is in itself <span id="fr_213"></span>[214](#fn_213.md) . Now
 Divine manifestations were made to the pious as befits revelations of
 God, that is to say, through certain holy visions analogous to those who
 see them. Now the all-wise Word of God (Theologia) naturally calls
@@ -147,47 +147,47 @@ Angel, "Whatsoever He heard from the Father, He announced to us."
 
 ### Footnotes
 
-<span id="fn_205"></span>[18:206](dio47.htm#fr_205) <span
+<span id="fn_205"></span>[18:206](dio47.htm#fr_205.md) <span
 id="iv.ii.iv-p5.1"></span><span id="iv.ii.iv-p5.2"></span>[Gal. iii.
-18](../../bib/kjv/gal003.htm#018)<span id="iv.ii.iv-p5.2"></span>.
+18](../../bib/kjv/gal003.htm#018.md)<span id="iv.ii.iv-p5.2"></span>.
 
-<span id="fn_206"></span>[18:207](dio47.htm#fr_206) <span
+<span id="fn_206"></span>[18:207](dio47.htm#fr_206.md) <span
 id="iv.ii.iv-p5.3"></span><span id="iv.ii.iv-p5.4"></span>[Acts vii.
-53](../../bib/kjv/act007.htm#053)<span id="iv.ii.iv-p5.4"></span>.
+53](../../bib/kjv/act007.htm#053.md)<span id="iv.ii.iv-p5.4"></span>.
 
-<span id="fn_207"></span>[18:208](dio47.htm#fr_207) <span
+<span id="fn_207"></span>[18:208](dio47.htm#fr_207.md) <span
 id="iv.ii.iv-p5.5"></span><span id="iv.ii.iv-p5.6"></span>[Gen. xxii.
-12](../../bib/kjv/gen022.htm#012)<span id="iv.ii.iv-p5.6"></span>.
+12](../../bib/kjv/gen022.htm#012.md)<span id="iv.ii.iv-p5.6"></span>.
 
-<span id="fn_208"></span>[18:209](dio47.htm#fr_208) <span
+<span id="fn_208"></span>[18:209](dio47.htm#fr_208.md) <span
 id="iv.ii.iv-p5.7"></span><span id="iv.ii.iv-p5.8"></span>[Acts x.
-3](../../bib/kjv/act010.htm#003)<span id="iv.ii.iv-p5.8"></span>.
+3](../../bib/kjv/act010.htm#003.md)<span id="iv.ii.iv-p5.8"></span>.
 
-<span id="fn_209"></span>[18:210](dio47.htm#fr_209) <span
+<span id="fn_209"></span>[18:210](dio47.htm#fr_209.md) <span
 id="iv.ii.iv-p5.9"></span><span id="iv.ii.iv-p5.10"></span>[Dan. vii.
-16](../../bib/kjv/dan007.htm#016)<span id="iv.ii.iv-p5.10"></span>.
+16](../../bib/kjv/dan007.htm#016.md)<span id="iv.ii.iv-p5.10"></span>.
 
-<span id="fn_210"></span>[18:211](dio47.htm#fr_210) <span
+<span id="fn_210"></span>[18:211](dio47.htm#fr_210.md) <span
 id="iv.ii.iv-p5.11"></span><span id="iv.ii.iv-p5.12"></span>[Daniel
-7:10](../../bib/kjv/dan007.htm#010)<span id="iv.ii.iv-p5.12"></span>.
+7:10](../../bib/kjv/dan007.htm#010.md)<span id="iv.ii.iv-p5.12"></span>.
 
-<span id="fn_211"></span>[18:212](dio47.htm#fr_211) <span
+<span id="fn_211"></span>[18:212](dio47.htm#fr_211.md) <span
 id="iv.ii.iv-p5.13"></span><span
 id="iv.ii.iv-p5.14"></span>[2Corinthians
-12:2](../../bib/kjv/co2012.htm#002)<span id="iv.ii.iv-p5.14"></span>.
+12:2](../../bib/kjv/co2012.htm#002.md)<span id="iv.ii.iv-p5.14"></span>.
 
-<span id="fn_212"></span>[18:213](dio47.htm#fr_212) <span
+<span id="fn_212"></span>[18:213](dio47.htm#fr_212.md) <span
 id="iv.ii.iv-p7.1"></span><span id="iv.ii.iv-p7.2"></span>[Matt. ii.
-13](../../bib/kjv/mat002.htm#013)<span id="iv.ii.iv-p7.2"></span>.
+13](../../bib/kjv/mat002.htm#013.md)<span id="iv.ii.iv-p7.2"></span>.
 
-<span id="fn_213"></span>[19:214](dio47.htm#fr_213) <span
+<span id="fn_213"></span>[19:214](dio47.htm#fr_213.md) <span
 id="iv.ii.iv-p7.4"></span><span id="iv.ii.iv-p7.5"></span>[John i.
-18](../../bib/kjv/joh001.htm#018)<span id="iv.ii.iv-p7.5"></span>; <span
+18](../../bib/kjv/joh001.htm#018.md)<span id="iv.ii.iv-p7.5"></span>; <span
 id="iv.ii.iv-p7.6"></span>[1John
-4:12](../../bib/kjv/jo1004.htm#012)<span id="iv.ii.iv-p7.6"></span>;
+4:12](../../bib/kjv/jo1004.htm#012.md)<span id="iv.ii.iv-p7.6"></span>;
 <span id="iv.ii.iv-p7.7"></span>[1Timothy
-6:16](../../bib/kjv/ti1006.htm#016)<span id="iv.ii.iv-p7.7"></span>.
+6:16](../../bib/kjv/ti1006.htm#016.md)<span id="iv.ii.iv-p7.7"></span>.
 
 ------------------------------------------------------------------------
 
-[Next: Caput V.](dio48)
+[Next: Caput V.](dio48.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp15)  [Next](lbp17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp15)  [Next](lbp17.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,14 +12,14 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 [![HURCA MENDI&lt;BR&gt; ''And wrenching off the splendid crown which
 encircled its brow he precipitately ran out of the
 church.''](tn/24700.jpg)  
-Click to enlarge](img/24700.jpg)  
+Click to enlarge](img/24700.jpg.md)  
 HURCA MENDI  
 ''And wrenching off the splendid crown which encircled its brow he
 precipitately ran out of the church.''  
 
 <span id="img_24701"></span> ![](img/24701.jpg)
 
-### HURCA-MENDI. <span id="fr_64"></span>[1](#fn_64)
+### HURCA-MENDI. <span id="fr_64"></span>[1](#fn_64.md)
 
 <span id="img_24702"></span>
 
@@ -45,14 +45,14 @@ and your heart is agitated like the tempest when it rages amid the
 woods. You suffer and weep! Down among the chestnuts of Artadi is
 likewise seen a maiden, sweet like hope, beautiful as bliss, and she
 sighs sadly on murmuring your name. Iranzu! Iranzu! why did you go to
-the *Gara-paita* <span id="fr_65"></span>[1](#fn_65) of Artadi if your
+the *Gara-paita* <span id="fr_65"></span>[1](#fn_65.md) of Artadi if your
 life was passing calmly and happily dwelling in the ancient homestead of
 your elders? Have you not heard, at times, that shadows of sadness and
 mourning obscured the fate of your child?
 
 One day, when that lovely child, a babe, still in her cradle, was placed
 beneath the oak tree which shaded the doorway, an aged *Astiya* <span
-id="fr_66"></span>[2](#fn_66) passed by, and stayed to gaze upon that
+id="fr_66"></span>[2](#fn_66.md) passed by, and stayed to gaze upon that
 child with deep emotion.
 
 Suddenly her eyes were filled with tears, and her tremulous lips
@@ -82,7 +82,7 @@ been for you had you encountered on the mountains of Otoso a herd of
 famished wolves, than have met the blue eyes of the maiden of Artadi!
 How could you dream of obtaining the hand of that rich heiress, you,
 poor cadet of Biscay, who has for his only heirloom *a tile, a tree, and
-coat of mail*? <span id="fr_67"></span>[1](#fn_67) Fly from her, Iranzu!
+coat of mail*? <span id="fr_67"></span>[1](#fn_67.md) Fly from her, Iranzu!
 Forget that perchance she is waiting for you at her window, listening
 with beating heart for the sound of your footsteps!
 
@@ -93,7 +93,7 @@ he have to leap across the
 <span id="page_250">p. 250</span>
 
 black mouth of the chasm of Aitz-belz, <span
-id="fr_68"></span>[1](#fn_68) which descends, down to the bottomless
+id="fr_68"></span>[1](#fn_68.md) which descends, down to the bottomless
 pit. He runs, runs, and at length he reaches Artadi. Oh, how his heart
 beats on quitting the shades of the trees which overshadow her window!
 Oh, how he trembles and shudders as by the light or the moon he
@@ -138,7 +138,7 @@ heart and my life. I will win for you riches and a name!"
 "Silence!" cried at this moment the aged Artadi, as he showed himself at
 the window. "By the love which my daughter bears towards you, I will
 give you a further term; but do not forget that if within fifteen days
-you do not bring your *millares*, <span id="fr_69"></span>[1](#fn_69)
+you do not bring your *millares*, <span id="fr_69"></span>[1](#fn_69.md)
 the maiden of Artadi will be the bride of the Eche-jaun of Igueldo. May
 heaven assist you!"
 
@@ -226,7 +226,7 @@ queen of the angels. The youth trembled, yet he continued on the altar.
 Suddenly throughout the wide vaulted dome of the temple resounded the
 prolonged echoes of a far distant discharge of guns, and then another
 and another, until they numbered twenty-one. <span
-id="fr_70"></span>[1](#fn_70)
+id="fr_70"></span>[1](#fn_70.md)
 
 It was the tender, respectful salute which from the far distant ocean
 some brave sailor was directing to Our Lady of Iciar, the Star of the
@@ -374,26 +374,26 @@ doleful sighs of his spirit as it wanders among the woods.
 
 ### Footnotes
 
-<span id="fn_64"></span>[247:1](lbp16.htm#fr_64) *Hurca-Mendi*. See
+<span id="fn_64"></span>[247:1](lbp16.htm#fr_64.md) *Hurca-Mendi*. See
 Glossary.
 
-<span id="fn_65"></span>[248:1](lbp16.htm#fr_65) *Gara-paita*. See
+<span id="fn_65"></span>[248:1](lbp16.htm#fr_65.md) *Gara-paita*. See
 Glossary.
 
-<span id="fn_66"></span>[248:2](lbp16.htm#fr_66) *Astiya*. See Glossary.
+<span id="fn_66"></span>[248:2](lbp16.htm#fr_66.md) *Astiya*. See Glossary.
 
-<span id="fn_67"></span>[249:1](lbp16.htm#fr_67) *A tile, a tree*, &.c.
+<span id="fn_67"></span>[249:1](lbp16.htm#fr_67.md) *A tile, a tree*, &.c.
 See Glossary.
 
-<span id="fn_68"></span>[250:1](lbp16.htm#fr_68) *Aitz-belz*. See
+<span id="fn_68"></span>[250:1](lbp16.htm#fr_68.md) *Aitz-belz*. See
 Glossary.
 
-<span id="fn_69"></span>[251:1](lbp16.htm#fr_69) *Millares*. See
+<span id="fn_69"></span>[251:1](lbp16.htm#fr_69.md) *Millares*. See
 Glossary.
 
-<span id="fn_70"></span>[254:1](lbp16.htm#fr_70) *Twenty-one*. See
+<span id="fn_70"></span>[254:1](lbp16.htm#fr_70.md) *Twenty-one*. See
 Glossary.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary](lbp17)
+[Next: Glossary](lbp17.md)

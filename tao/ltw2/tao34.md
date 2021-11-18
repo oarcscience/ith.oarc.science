@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao34)   
-[Previous](tao33)  [Next](tao35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao34.md)   
+[Previous](tao33)  [Next](tao35.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Greatness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 35](tao35)
+[Next: Chapter 35](tao35.md)

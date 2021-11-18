@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index.md) 
 
 </div>
 
@@ -26,8 +26,8 @@ East](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](phc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](phc.txt.gz)
+[Contents](#contents)    [Start Reading](phc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](phc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -68,31 +68,31 @@ J.B. Hare, October 1st, 2009.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](phc00)  
-[Preface](phc01)  
-[Contents](phc02)  
-[Chapter I. The Origin of the Philistines](phc03)  
+<span id="contents"></span> [Title Page](phc00.md)  
+[Preface](phc01.md)  
+[Contents](phc02.md)  
+[Chapter I. The Origin of the Philistines](phc03.md)  
 <span id="section_000"></span>
 
 ### Chapter II. The History of the Philistines
 
-[I. The Adventures of Wen-Amon among them](phc04)  
-[II. Their Struggle with the Hebrews](phc05)  
-[III. Their Decline and Disappearance](phc06)  
+[I. The Adventures of Wen-Amon among them](phc04.md)  
+[II. Their Struggle with the Hebrews](phc05.md)  
+[III. Their Decline and Disappearance](phc06.md)  
 
  
 
-[Chapter III: The Land of the Philistines](phc07)  
+[Chapter III: The Land of the Philistines](phc07.md)  
 <span id="section_001"></span>
 
 ### Chapter IV. The Culture of the Philistines
 
-[I. Their Language](phc08)  
-[II. Their Organization](phc09)  
-[III. Their Religion](phc10)  
-[IV. Their Place in History and Civilization](phc11)  
+[I. Their Language](phc08.md)  
+[II. Their Organization](phc09.md)  
+[III. Their Religion](phc10.md)  
+[IV. Their Place in History and Civilization](phc11.md)  
 
  
 
-[Index](phc12)  
-[Index of Scriptural References](phc13)  
+[Index](phc12.md)  
+[Index of Scriptural References](phc13.md)  

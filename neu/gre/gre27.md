@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre26)  [Next](gre28) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre26)  [Next](gre28.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ for he knew that Hiarandi lay in wait for his life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII: The Slaying of Hiarandi](gre28)
+[Next: Chapter XXIII: The Slaying of Hiarandi](gre28.md)

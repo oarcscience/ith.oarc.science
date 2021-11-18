@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow27)  [Next](fow29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow27)  [Next](fow29.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ In a dream of love melted way."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII: My Lady's Walk](fow29)
+[Next: Chapter XXVII: My Lady's Walk](fow29.md)

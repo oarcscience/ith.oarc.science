@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta36)  [Next](sta38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta36)  [Next](sta38.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ still preserved intact.
 <span id="img_15300"></span>
 
 [![THE LEAVES OF HERMES' SACRED TREE.](tn/15300.jpg)  
-Click to enlarge](img/15300.jpg)  
+Click to enlarge](img/15300.jpg.md)  
 THE LEAVES OF HERMES' SACRED TREE.  
 
 Redrawn from an original manuscript dated 1577.
@@ -511,7 +511,7 @@ creature of four parts?
 <span id="img_15500"></span>
 
 [![ A TABLE OF MEDIÆVAL ALCHEMICAL SYMBOLS.](tn/15500.jpg)  
-Click to enlarge](img/15500.jpg)  
+Click to enlarge](img/15500.jpg.md)  
 A TABLE OF MEDIÆVAL ALCHEMICAL SYMBOLS.  
 
 From Valentine's *The Last Will and Testament*.
@@ -730,4 +730,4 @@ greater length.
 
 ------------------------------------------------------------------------
 
-[Next: The Theory and Practice of Alchemy: Part Two](sta38)
+[Next: The Theory and Practice of Alchemy: Part Two](sta38.md)

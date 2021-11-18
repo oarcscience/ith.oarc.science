@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK VII CHAPTER XII
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK VII](book06) 
-[Previous](mart129)  [Next](mart131) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK VII](book06.md) 
+[Previous](mart129)  [Next](mart131.md) </span>
 
 ------------------------------------------------------------------------
 

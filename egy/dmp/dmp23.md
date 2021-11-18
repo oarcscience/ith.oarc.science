@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp22)  [Next](dmp24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp22)  [Next](dmp24.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ thou causest the woman (*sic*) to drink it.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XXI](dmp24)
+[Next: Col. XXI](dmp24.md)

@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos01)  [Next](eos03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos01)  [Next](eos03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
@@ -65,7 +65,7 @@ others, to´ṛnaṛaks and the deceased; still others were calling the
 sea-gods. Thus they were calling, — one this being, one that.
 
    A young shaman, though having no "living voices," <span
-id="fr_0"></span>[1](#fn_0) still a very great
+id="fr_0"></span>[1](#fn_0.md) still a very great
 
 <span id="page_420">p. 420</span> shaman, was sitting there silent. The
 old man asked him to practise also. "I am grieving deeply for my dead
@@ -97,8 +97,8 @@ Indian Point, May, 1901.
 
 ### Footnotes
 
-<span id="fn_0"></span>[419:1](eos02.htm#fr_0) Ventriloquistic ability.
+<span id="fn_0"></span>[419:1](eos02.htm#fr_0.md) Ventriloquistic ability.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Carrier of Seaweed.](eos03)
+[Next: 2. The Carrier of Seaweed.](eos03.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu30)  [Next](cbu32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu30)  [Next](cbu32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -30,12 +30,12 @@ and article on Nirvâna.</span>
 
 AMONG these works may be mentioned the translation of *Foĕ* *kouĕ ki*,
 or "Relation of the Buddhist Kingdoms," by Abel Remusat <span
-id="fr_142"></span>[1](#fn_142). This work is very fully annotated by
+id="fr_142"></span>[1](#fn_142.md). This work is very fully annotated by
 Remusat, Klaproth, and Landresse.
 
 The same interesting book of Chinese travels has been rendered into
-English by the Rev. S. Beal, <span id="fr_143"></span>[2](#fn_143) and
-also by Mr. H. A. Giles. <span id="fr_144"></span>[3](#fn_144) These two
+English by the Rev. S. Beal, <span id="fr_143"></span>[2](#fn_143.md) and
+also by Mr. H. A. Giles. <span id="fr_144"></span>[3](#fn_144.md) These two
 translations have not the advantage of abundant annotations.
 
 The works of Professor Stanislas Julien on Chinese Buddhism are—(1)
@@ -93,7 +93,7 @@ this time, and ought now to change their course to the north-west, and
 make for the coast.
 
 In twelve days and nights they reached Lau-shan, <span
-id="fr_145"></span>[1](#fn_145) on the south shore of the Shan-tung
+id="fr_145"></span>[1](#fn_145.md) on the south shore of the Shan-tung
 promontory, and found there good water and beans. After so dangerous a
 voyage, with such fatigues and so many fears, they arrived at last at
 this unknown shore. On seeing a plant called *Li-ho-ts‘ai*, they were
@@ -165,7 +165,7 @@ describes the subsequent philosophical development of Buddhism. These
 <span id="page_412">p. 412</span>
 
 The *Hand-book for the Student of Chinese Buddhism*, by Dr. E. J.
-Eitel, <span id="fr_146"></span>[1](#fn_146) is a dictionary of proper
+Eitel, <span id="fr_146"></span>[1](#fn_146.md) is a dictionary of proper
 names, dogmas, and Buddhist terms generally, arranged alphabetically.
 The student of Buddhism obtains in this work an important help to his
 studies. The author has devoted great attention to this subject, and
@@ -320,10 +320,10 @@ afterwards the Sanscrit. In the Han dynasty, under Ming-ti,
 Kashiapmadanga, who came from Magadha, the modern Bahar, used the
 dialect of that country, which differed from the Pali among other things
 in retaining from Sanscrit the letter *sh*. <span
-id="fr_147"></span>[1](#fn_147) If Kashiapmadanga, the most ancient of
+id="fr_147"></span>[1](#fn_147.md) If Kashiapmadanga, the most ancient of
 the translators, had chosen Chinese words whose initial was *s* to write
 the Sanscrit *Shramana* and *Kashiapa*, it might be said that he used
-the Pali. <span id="fr_148"></span>[2](#fn_148) In the "Sutra of
+the Pali. <span id="fr_148"></span>[2](#fn_148.md) In the "Sutra of
 Forty-two Sections" he used *Sha-men*, and thus originated that name, to
 be used ever after as the designation of the members of the Buddhist
 community in China. For Kashiapa he wrote *Ka-shiap*.
@@ -475,29 +475,29 @@ which Christianity has done for mankind.
 
 ### Footnotes
 
-<span id="fn_142"></span>[408:1](cbu31.htm#fr_142) *Foĕ* *kouĕ ki, ou
+<span id="fn_142"></span>[408:1](cbu31.htm#fr_142.md) *Foĕ* *kouĕ ki, ou
 Relation des Royaumes Bouddhiques; par Chy Fa-hian*.
 
-<span id="fn_143"></span>[408:2](cbu31.htm#fr_143) *Travels of Fa-hian
+<span id="fn_143"></span>[408:2](cbu31.htm#fr_143.md) *Travels of Fa-hian
 and Sung-yun, Buddhist Pilgrims, from China to India*.
 
-<span id="fn_144"></span>[408:3](cbu31.htm#fr_144) *Records of
+<span id="fn_144"></span>[408:3](cbu31.htm#fr_144.md) *Records of
 Buddhistic Kingdoms*.
 
-<span id="fn_145"></span>[410:1](cbu31.htm#fr_145) Lau-shan is near
+<span id="fn_145"></span>[410:1](cbu31.htm#fr_145.md) Lau-shan is near
 Kiau-cheu, latitude 36°, east longitude 5° 25´. The port of Kiau-cheu
 exports felt hats, umbrellas, fruit, and cabbages to Shanghai.
 
-<span id="fn_146"></span>[412:1](cbu31.htm#fr_146) This account of Dr.
+<span id="fn_146"></span>[412:1](cbu31.htm#fr_146.md) This account of Dr.
 Eitel's book is reprinted from the Chinese Recorder, where it appeared
 in 1871 as a review.
 
-<span id="fn_147"></span>[416:1](cbu31.htm#fr_147) See Burnouf and
+<span id="fn_147"></span>[416:1](cbu31.htm#fr_147.md) See Burnouf and
 Lassen's *Essai sur le Pali*.
 
-<span id="fn_148"></span>[416:2](cbu31.htm#fr_148) The Pali forms are
+<span id="fn_148"></span>[416:2](cbu31.htm#fr_148.md) The Pali forms are
 *Samana*, *Kassapa*.
 
 ------------------------------------------------------------------------
 
-[Next: A-E](cbu32)
+[Next: A-E](cbu32.md)

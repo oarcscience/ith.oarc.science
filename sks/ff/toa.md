@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../toa/toa) 
-[Previous](raj)  [Next](jc) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../toa/toa.md) 
+[Previous](raj)  [Next](jc.md) 
 
 ------------------------------------------------------------------------
 
@@ -3407,4 +3407,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tragedie of Julius Caesar](jc) 
+[Next: The Tragedie of Julius Caesar](jc.md) 

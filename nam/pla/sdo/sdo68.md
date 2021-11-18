@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo67)  [Next](sdo69) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo67)  [Next](sdo69.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ the present time.
 
 ------------------------------------------------------------------------
 
-[Next: The Wars Of The Winds](sdo69)
+[Next: The Wars Of The Winds](sdo69.md)

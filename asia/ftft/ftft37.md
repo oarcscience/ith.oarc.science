@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft36)  [Next](ftft38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft36)  [Next](ftft38.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_286">p. 286</span>
 
-<span id="img_28600"></span> ![The Liver](img/28600.jpg)
+<span id="img_28600"></span> ![The Liver](img/28600.jpg.md)
 
 <span id="img_ainit"></span>
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 N old woman once fancied some liver to eat, so she gave her daughter a
 few paras with which to buy a portion. "Wash it in the pond and bring it
@@ -50,7 +50,7 @@ avail.<span id="img_28700"></span>
 
 |                                                                |
 |----------------------------------------------------------------|
-| ![''Merchant, give me incense,'' said the girl](img/28700.jpg) |
+| ![''Merchant, give me incense,'' said the girl](img/28700.jpg.md) |
 
 So the girl went to the merchant and said: "Merchant, give me incense,
 that I may burn it before Allah, who will send rain to the farmer, who
@@ -82,7 +82,7 @@ may take it to my mother."
 
 |                                                                      |
 |----------------------------------------------------------------------|
-| ![''Bring me a hide from an ox'' answered the Tanner](img/28800.jpg) |
+| ![''Bring me a hide from an ox'' answered the Tanner](img/28800.jpg.md) |
 
 "Bring me a hide from an ox and I will give thee leather," answered the
 tanner. So the girl went to the ox and said: "Ox, give me a hide, that I
@@ -125,4 +125,4 @@ who cooked it, and they ate it up.
 
 ------------------------------------------------------------------------
 
-[Next: The Fortune Teller](ftft38)
+[Next: The Fortune Teller](ftft38.md)

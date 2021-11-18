@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-02in) [Next](dob-03in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-02in) [Next](dob-03in.md)
 
 ------------------------------------------------------------------------
 
@@ -997,7 +997,7 @@ calls up from this body another body, having form;
 S. IV, 83; *G*ât. I, 146, &c.) The words for erasion, abrasion, are
 cunningly chosen (u*kkh*âdana, parimaddana). They are also familiar
 technical terms of the Indian shampooer, and are so used above ([p.
-7](dob-01tx.htm#p.%2013), § 16 of the text). The double meaning must
+7](dob-01tx.htm#p.%2013), § 16 of the text.md). The double meaning must
 have been clearly present to the Indian hearer, and the words are,
 therefore. really untranslatable.
 
@@ -1233,7 +1233,7 @@ the possession of the Heavenly Eye was not a necessary consequence of
 Arahatship. Buddhaghosa adds (p. 224) that the sphere of vision of the
 Heavenly Eye did not extend to the Formless Worlds. On the
 Dhamma-*k*akkhu, 'the Eye for the Truth,' see below, [p.
-110](dob-03tx.htm#text%20p.%20110), § 21 of the text.
+110](dob-03tx.htm#text%20p.%20110.md), § 21 of the text.
 
 2\. Vîtisa*ñk*arante is Buddhaghosa's reading. The Siamese has Vithi*m*.
 Compare M. I, 279.
@@ -1365,11 +1365,11 @@ Sâma*ññ*a-phala Sutta is ended.
 <span class="small">{1. The Dhamma-*k*akkhu (Eye for the Truth) is a
 technical term for conversion, for entering on the Path that ends in
 Arahatship. It is higher than the Heavenly Eye (dibba-*k*akkhu, above,
-[p. 82](#text%20p.%2082) of the text, § 95) which sees other people's
+[p. 82](#text%20p.%2082) of the text, § 95.md) which sees other people's
 previous births, and below the Eye of Wisdom (pa*ññ*â-*k*akkhu) which is
 the wisdom of the Arahat (Itivuttaka, p. 52, § 61).}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Amba*tth*a
-Sutta](dob-03in)
+[Return to top](#top.md)   [Next: Introduction to the Amba*tth*a
+Sutta](dob-03in.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](zar03)  [Next](zar05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](zar03)  [Next](zar05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ BOUGHT FROM THEM.
 
 MISHNA *I*.: Cattle must not be placed in the inns of the heathens
 because they are suspicious of having sexual intercourse with
-them. <span id="fr_23"></span>[1](#fn_23) And for the same reason a
+them. <span id="fr_23"></span>[1](#fn_23.md) And for the same reason a
 female must not stay alone with them, because they are suspected of
 insult; nor should a male stay with them alone, because they are
 suspected of bloodshed.
@@ -115,7 +115,7 @@ So taught R. Papa. R. Zebid, however, reverses the order of Abayi R.
 Joseph, adding that both quoted the verse of Zeph.
 
 It reads \[I Sam. vi. 12\]: "And the cows went straight forward," <span
-id="fr_24"></span>[1](#fn_24) etc. What does this expression mean? Said
+id="fr_24"></span>[1](#fn_24.md) etc. What does this expression mean? Said
 R. Johanan in the name of R. Mair: They sang a song. And R. Zuthra b.
 Tubiah, in the name of Rabh: They have straightened their faces to look
 upon the ark, and sang a song. What song was it? R. Johanan in the name
@@ -1179,7 +1179,7 @@ Samuel: Then allow me to send this message to him (Simlayi), and Rabh
 became confused. Thereupon he said: If they have not given proper
 attention to that which is written concerning Daniel in the Scripture,
 should we do the same? Does it not read \[Daniel, i. 8\]: "Nor the wine
-of his banquets." <span id="fr_25"></span>[1](#fn_25) Hence we see that
+of his banquets." <span id="fr_25"></span>[1](#fn_25.md) Hence we see that
 the Scripture speaks of two banquets, one of wine and one of oil.
 However, he differs with Samuel in the explanation of "resolved in his
 heart," as according to him (Rabh) "he resolved in his heart, and
@@ -1211,7 +1211,7 @@ accepted by the majority, therefore, adhere to the rule declared
 
 by R. Simeon b. Gamaliel and R. Eliezer b. Zadok, that a court must not
 enact anything which the majority of the congregation could not possibly
-follow. <span id="fr_26"></span>[1](#fn_26)
+follow. <span id="fr_26"></span>[1](#fn_26.md)
 
 R. Jehudah the second leaned upon the shoulder of R. Simlayi when
 walking in the street, and said: Simlayi, you were not in college
@@ -1225,7 +1225,7 @@ answered: I have already permitted another thing concerning the validity
 a divorce attains after twelve months had elapsed before the husband
 returns; and it happened that before the elapse of such period the man
 died, and I have permitted the woman to remarry. <span
-id="fr_27"></span>[2](#fn_27)
+id="fr_27"></span>[2](#fn_27.md)
 
 "*Cooked*," etc. Whence is this deduced? Said R. Hyia b. Aba in the name
 of R. Johanan, from \[Deut. ii. 28\]: "Food shalt thou sell me for
@@ -1254,7 +1254,7 @@ second, it is permissible.
 R. Assi said in the name of Rabh: To small salt fish cooking of a
 heathen does not apply. Said R. Joseph: If the heathen roasted it, an
 Israelite may rely upon it for aneb tabshilin. <span
-id="fr_28"></span>[1](#fn_28) But if he has prepared from this a mush of
+id="fr_28"></span>[1](#fn_28.md) But if he has prepared from this a mush of
 harsana (a dish of small fish with flour) it is forbidden. Is this not
 self-evident? Lest one say that the fish is the main thing of this dish,
 it comes to teach us that the flour is the main thing. R. Johanan said:
@@ -1277,7 +1277,7 @@ be taken into consideration, he teaches us that it is not so.
 
 But did not R. Assi say in the name of R. Johanan that, when the food
 has been cooked to the extent that Ben Drusai <span
-id="fr_29"></span>[2](#fn_29) habitually eats it, the heathen may then
+id="fr_29"></span>[2](#fn_29.md) habitually eats it, the heathen may then
 complete its cooking, but not otherwise, and should not the
 above-mentioned fried meat be accordingly prohibited? This quotation
 intends to say as follows: If the meat was put into the pot by the
@@ -1493,7 +1493,7 @@ trustworthy as ever before; this, however, is but R. Meir's view, while
 R. Jehuda finds the oath necessary also in this second case. R. Simeon
 b. Elazar said: I knew a woman who would aid her husband, who was a
 scholar, to put on his Tephilis; upon his death she married a
-contractor, <span id="fr_30"></span>[1](#fn_30) whom she would aid in
+contractor, <span id="fr_30"></span>[1](#fn_30.md) whom she would aid in
 putting on his amulet. Rabh said: Fat, meat, wine, and blue wool for
 *tzitzes* should when sealed with only one seal, never be forwarded
 through a heathen; but Chilthith, bread, muries and cheese may be
@@ -1523,7 +1523,7 @@ mixing something forbidden into the said articles. However, if an
 Israelite is visiting such a tradesman in Syria, he is allowed to eat
 everything served at the host's table, for in the house nothing
 forbidden is used there. This corroborates what R. Jehoshua b. Levis
-[said](errata.htm#56)--viz.: An Israelite may accept one of the
+[said](errata.htm#56.md)--viz.: An Israelite may accept one of the
 foregoing articles as a present from a Syrian tradesman, provided he
 gives it from his household stock, because in the house nothing unclean
 is used there. What is salcondrit salt mentioned above? R. Jehudah said
@@ -1685,7 +1685,7 @@ the unclean order. If the yolk of the egg is on the surface and the
 white in the middle, it is a sign of uncleanness; the converse is a sign
 of cleanness. If, however, the yolk and white are intermingled, it is a
 sign that it comes from reptiles, and is therefore unclean. Rabha said
-that Rabh's view must be thus [interpreted](errata.htm#57): If the
+that Rabh's view must be thus [interpreted](errata.htm#57.md): If the
 fish-rye is entirely squeezed so that the said signs are no longer
 discernible.
 
@@ -1747,7 +1747,7 @@ thereabout, deprive him of everything.
 
 ### Footnotes
 
-<span id="fn_23"></span>[41:1](zar04.htm#fr_23) Voltaire makes rather an
+<span id="fn_23"></span>[41:1](zar04.htm#fr_23.md) Voltaire makes rather an
 exhibit of his ignorance when he mocks the ancient Jews, saying (in his
 Philos. Diction, vol. ii., p. 102) that they were the only nation given
 to this offence, since otherwise the prohibition thereof would have been
@@ -1758,30 +1758,30 @@ when the prohibition of the Scripture was established. The attention of
 the reader is called to the eye-witnesses reported in the following
 Gemara.
 
-<span id="fn_24"></span>[43:1](zar04.htm#fr_24) The term in Hebrew is
+<span id="fn_24"></span>[43:1](zar04.htm#fr_24.md) The term in Hebrew is
 *vaysharnha*, and song in Hebrew is *shira*.
 
-<span id="fn_25"></span>[68:1](zar04.htm#fr_25) Leeser translates "which
+<span id="fn_25"></span>[68:1](zar04.htm#fr_25.md) Leeser translates "which
 he drank"; the Talmud, however, takes it literally. as the term "mishte"
 in Hebrew means banquet.
 
-<span id="fn_26"></span>[69:1](zar04.htm#fr_26) The text here treats of
+<span id="fn_26"></span>[69:1](zar04.htm#fr_26.md) The text here treats of
 the eighteen decrees mentioned in \[Sabbath page 24\] which we have
 omitted. We also call the attention of the reader to the appendix at the
 end of same tract.
 
-<span id="fn_27"></span>[69:2](zar04.htm#fr_27) The text discusses here
+<span id="fn_27"></span>[69:2](zar04.htm#fr_27.md) The text discusses here
 the three things which Josh b. Joezer testified in the cited Mishna,
 Idioth, which will be found there in the proper place.
 
-<span id="fn_28"></span>[70:1](zar04.htm#fr_28) See Erubin.
+<span id="fn_28"></span>[70:1](zar04.htm#fr_28.md) See Erubin.
 
-<span id="fn_29"></span>[70:2](zar04.htm#fr_29) Ben-Drusai, a certain
+<span id="fn_29"></span>[70:2](zar04.htm#fr_29.md) Ben-Drusai, a certain
 robber who used to eat meat only one-third cooked.
 
-<span id="fn_30"></span>[75:1](zar04.htm#fr_30) This is explained in our
+<span id="fn_30"></span>[75:1](zar04.htm#fr_30.md) This is explained in our
 "History of Amulets, Charms and Talismans." See there.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](zar05)
+[Next: Chapter III](zar05.md)

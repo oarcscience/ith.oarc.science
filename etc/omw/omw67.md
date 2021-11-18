@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw66)  [Next](omw68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw66)  [Next](omw68.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ noble choice she had made.
 
 ------------------------------------------------------------------------
 
-[Next: Gotama's Attainment](omw68)
+[Next: Gotama's Attainment](omw68.md)

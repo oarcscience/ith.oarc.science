@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb31)  [Next](orfb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb31)  [Next](orfb33.md) 
 
 </div>
 
@@ -293,6 +293,6 @@ all Lapland.
 
 ------------------------------------------------------------------------
 
-[Next: Andras Baive](orfb33)
+[Next: Andras Baive](orfb33.md)
 
 </div>

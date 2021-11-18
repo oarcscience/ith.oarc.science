@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq32)  [Next](sfq34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq32)  [Next](sfq34.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ light, and began to breathe the fresh air, he fainted away.
 
 ------------------------------------------------------------------------
 
-[Next: The Champion of Chivalry](sfq34)
+[Next: The Champion of Chivalry](sfq34.md)

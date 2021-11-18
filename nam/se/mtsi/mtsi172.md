@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi171)  [Next](mtsi173) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi171)  [Next](mtsi173.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ wives and said he wanted to be a good deer hunter.
 
 ------------------------------------------------------------------------
 
-[Next: 37. The Man and the Alligator](mtsi173)
+[Next: 37. The Man and the Alligator](mtsi173.md)

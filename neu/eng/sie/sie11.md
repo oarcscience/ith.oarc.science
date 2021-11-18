@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sie10)  [Next](sie12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sie10)  [Next](sie12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of Innocence and of Experience*, by William Blake, \[1789-1794\],
 at Intangible Textual Heritage
 
@@ -34,4 +34,4 @@ Her little boy weeping sought.
 
 ------------------------------------------------------------------------
 
-[Next: Laughing Song](sie12)
+[Next: Laughing Song](sie12.md)

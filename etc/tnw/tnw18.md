@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw17)  [Next](tnw19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw17)  [Next](tnw19.md) 
 
 ------------------------------------------------------------------------
 
@@ -457,4 +457,4 @@ to that end.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Pathology: The Pyramid](tnw19)
+[Next: 18. Pathology: The Pyramid](tnw19.md)

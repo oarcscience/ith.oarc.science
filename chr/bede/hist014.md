@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist013) 
-[Next](hist015) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist013.md) 
+[Next](hist015.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ could be procured in the chase.
 [Next: XIII. How in the reign of Theodosius the younger, in whose time
 Palladius was sent to the Scots that believed in Christ, the Britons
 begging assistance of Aetius, the consul, could not obtain it. \[446
-A.D.\]](hist015)
+A.D.\]](hist015.md)

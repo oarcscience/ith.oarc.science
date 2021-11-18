@@ -1,17 +1,17 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
@@ -35,8 +35,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](slaa00)    [Page
-Index](pageidx)    [Text \[Zipped\]](slaa.txt.gz)
+[Contents](#contents)    [Start Reading](slaa00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](slaa.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -57,19 +57,19 @@ browsing.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](slaa00)  
-[Introduction](slaa01)  
-[Contents](slaa02)  
-[Chapter I. Solar Creation Myths](slaa03)  
-[Chapter II. Ancient Ideas of the Sun and the Moon](slaa04)  
-[Chapter III. Solar Mythology](slaa05)  
-[Chapter IV. Solar Mythology (*Continued*)](slaa06)  
-[Chapter V. Solar Folk-Lore](slaa07)  
-[Chapter VI. Sun Worship](slaa08)  
-[Chapter VII. Sun Worship (*Continued*)](slaa09)  
-[Chapter VIII. Sun-Catcher Myths](slaa10)  
-[Chapter IX. Solar Festivals](slaa11)  
-[Chapter X. Solar Omens, Traditions, and Superstitions](slaa12)  
+<span id="contents"></span> [Title Page](slaa00.md)  
+[Introduction](slaa01.md)  
+[Contents](slaa02.md)  
+[Chapter I. Solar Creation Myths](slaa03.md)  
+[Chapter II. Ancient Ideas of the Sun and the Moon](slaa04.md)  
+[Chapter III. Solar Mythology](slaa05.md)  
+[Chapter IV. Solar Mythology (*Continued*)](slaa06.md)  
+[Chapter V. Solar Folk-Lore](slaa07.md)  
+[Chapter VI. Sun Worship](slaa08.md)  
+[Chapter VII. Sun Worship (*Continued*)](slaa09.md)  
+[Chapter VIII. Sun-Catcher Myths](slaa10.md)  
+[Chapter IX. Solar Festivals](slaa11.md)  
+[Chapter X. Solar Omens, Traditions, and Superstitions](slaa12.md)  
 [Chapter XI. Solar Significance of Burial Customs.
-Orientation](slaa13)  
-[Chapter XII. Emblematic and Symbolic Forms of the Sun](slaa14)  
+Orientation](slaa13.md)  
+[Chapter XII. Emblematic and Symbolic Forms of the Sun](slaa14.md)  

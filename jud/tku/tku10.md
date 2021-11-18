@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku09)  [Next](tku11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku09)  [Next](tku11.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ Himself before them (in diminished light).
 ------------------------------------------------------------------------
 
 [Next: Chapter III: Concerning the Ancient One, or Macroprosopus, and
-Concerning His Parts, and Especially Concerning His Skull](tku11)
+Concerning His Parts, and Especially Concerning His Skull](tku11.md)

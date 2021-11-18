@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb11)  [Next](lrb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb11)  [Next](lrb13.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ severe study and discipline were entailed upon the neophytes, whose
 principal business was to commit to memory countless verses enshrining
 Druidic knowledge and tradition. That this instruction was astrological
 and magical we have the fullest proof. <span
-id="fr_48"></span>[1](#fn_48)
+id="fr_48"></span>[1](#fn_48.md)
 
 The Druids were magi as they were priests in the same sense that the
 American Indian shaman is both magus and priest. That is, they were
@@ -185,7 +185,7 @@ Certain primitive ritual, too, is still carried out in the vicinity of
 some megalithic structures in Celtic areas, as at Dungiven, in Ireland,
 where pilgrims wash before a great stone in the river Roe and then walk
 round it, and in many parts of Brittany. <span
-id="fr_49"></span>[1](#fn_49)
+id="fr_49"></span>[1](#fn_49.md)
 
 In pronouncing incantations the usual method employed was to stand upon
 one leg and to point with the forefinger to the person or object on
@@ -203,7 +203,7 @@ Etruscan spells, and thus go to strengthen the hypothesis often put
 forward with more or less plausibility that Druidism had an Eastern
 origin. At all magical rites spells were uttered. Druids often
 accompanied an army, to assist by their magical arts in confounding the
-enemy. <span id="fr_50"></span>[1](#fn_50)
+enemy. <span id="fr_50"></span>[1](#fn_50.md)
 
 There is some proof that in Celtic areas survivals of a Druidic
 priesthood have descended to our own time in a more or less debased
@@ -293,7 +293,7 @@ similar absorbing passion, which resulted in their
 <span id="img_25000"></span>
 
 [![HÉLOÏSE AS SORCERESS](tn/25000.jpg)  
-Click to enlarge](img/25000.jpg)  
+Click to enlarge](img/25000.jpg.md)  
 HÉLOÏSE AS SORCERESS  
 
  
@@ -424,7 +424,7 @@ by the inhabitants of the city even as late as the middle of the
 fourteenth century, for we find a bishop of the diocese at that period
 obtaining a bull of excommunication against the local sorcerers, and
 condemning them to the eternal fires with bell, book, and candle. <span
-id="fr_51"></span>[1](#fn_51)
+id="fr_51"></span>[1](#fn_51.md)
 
 The poet, it is plain, has confounded poor Héloïse with the dark
 sisterhood of the island of the Loire. The learning she received from
@@ -438,18 +438,18 @@ of the pit.
 
 ### Footnotes
 
-<span id="fn_48"></span>[245:1](lrb12.htm#fr_48) Rice Holmes, *Cæsar's
+<span id="fn_48"></span>[245:1](lrb12.htm#fr_48.md) Rice Holmes, *Cæsar's
 Conquest*, pp. 532-536.
 
-<span id="fn_49"></span>[246:1](lrb12.htm#fr_49) See Rolleston, *Myths
+<span id="fn_49"></span>[246:1](lrb12.htm#fr_49.md) See Rolleston, *Myths
 and Legends of the Celtic Race*, p. 66.
 
-<span id="fn_50"></span>[247:1](lrb12.htm#fr_50) See Gomme, *Ethnology
+<span id="fn_50"></span>[247:1](lrb12.htm#fr_50.md) See Gomme, *Ethnology
 in Folk-lore*, p. 94.
 
-<span id="fn_51"></span>[253:1](lrb12.htm#fr_51) it is of interest to
+<span id="fn_51"></span>[253:1](lrb12.htm#fr_51.md) it is of interest to
 recall the fact that Abélard was born near Nantes, in 1079.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Arthurian Romance in Brittany](lrb13)
+[Next: Chapter X: Arthurian Romance in Brittany](lrb13.md)

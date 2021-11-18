@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob05)  [Next](lbob07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob05)  [Next](lbob07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -49,7 +49,7 @@ forty nights*.</span>
 
 IN the history of the twelve tribes of Israel we read there was a
 certain person called Joachim, who being very rich, made double <span
-id="fr_18"></span>[1](#fn_18) offerings to the Lord God, having made
+id="fr_18"></span>[1](#fn_18.md) offerings to the Lord God, having made
 this resolution:
 
 <span id="page_25">p. 25</span>
@@ -57,7 +57,7 @@ this resolution:
 <span id="img_02500"></span> <span align="CENTER"> [![ELIZABETH
 RECEIVING THE VISIT OF MARY. FROM A GREEK DIPTYCHON OF THE THIRTEENTH OR
 FOURTEENTH CENTURY.](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)  
+Click to enlarge](img/02500.jpg.md)  
 ELIZABETH RECEIVING THE VISIT OF MARY. FROM A GREEK DIPTYCHON OF THE
 THIRTEENTH OR FOURTEENTH CENTURY.  
 </span>
@@ -86,7 +86,7 @@ forty days and forty nights, saying to himself,
 
 7 I will not go down either to eat or drink, till the Lord my God shall
 look down upon me, but prayer shall be my meat and drink. <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 #### CHAP. II.
 
@@ -126,7 +126,7 @@ saying,
 
 10 O God of my fathers, bless me and regard my prayer as thou didst
 bless the womb of Sarah, and gavest her a son Isaac. <span
-id="fr_20"></span>[2](#fn_20)
+id="fr_20"></span>[2](#fn_20.md)
 
 #### CHAP. III.
 
@@ -214,7 +214,7 @@ AND Joachim abode the first day in his house, but on the morrow he
 brought his offerings and said,
 
 2 If the Lord be propitious to me let the plate which is on the priest's
-forehead <span id="fr_21"></span>[1](#fn_21) make it manifest.
+forehead <span id="fr_21"></span>[1](#fn_21.md) make it manifest.
 
 3 And he consulted the plate which the priest wore, and saw it, and
 behold sin was not found in him.
@@ -269,7 +269,7 @@ blessed her, saying, O most high God, regard this girl, and bless her
 with an everlasting blessing.
 
 7 Upon this her mother took her up, and gave her the breast, and sung
-the following song to the Lord. <span id="fr_22"></span>[2](#fn_22)
+the following song to the Lord. <span id="fr_22"></span>[2](#fn_22.md)
 
 8 I will sing a new song unto the Lord my God, for he hath visited me,
 and taken away from me the reproach of mine enemies, and hath given me
@@ -341,7 +341,7 @@ concerning her, and whatsoever the Lord shall manifest unto you, that
 do.
 
 5 Then the high-priest entered into the Holy of Holies, and taking away
-with him the breastplate of judgment <span id="fr_23"></span>[1](#fn_23)
+with him the breastplate of judgment <span id="fr_23"></span>[1](#fn_23.md)
 made prayers concerning her;
 
 6 And behold the angel of the Lord came to him, and said, Zacharias,
@@ -417,7 +417,7 @@ was placed in his room till Zacharias spoke again.
 
 7 ¶ And she took a pot, and went out to draw water, and heard a voice
 saying unto her, Hail thou who art full of grace, <span
-id="fr_24"></span>[1](#fn_24) the Lord is with thee; thou art blessed
+id="fr_24"></span>[1](#fn_24.md) the Lord is with thee; thou art blessed
 among women.
 
 8 And she looked round to the right and to the left (to see) whence that
@@ -428,7 +428,7 @@ water-pot she took the purple, and sat down in her seat to work it.
 
 9 And behold the angel of the Lord stood by her, and said, Fear not,
 Mary, for thou hast found favour in the sight of God; <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 10 Which when she heard, she reasoned with herself what that sort of
 salutation meant.
@@ -526,7 +526,7 @@ known no man.
 
 13 ¶ Then Joseph was exceedingly afraid, and went away from her,
 considering what he should do with her; and he thus reasoned with
-himself: <span id="fr_26"></span>[1](#fn_26)
+himself: <span id="fr_26"></span>[1](#fn_26.md)
 
 14 If I conceal her crime, I shall be found guilty by the law of the
 Lord;
@@ -610,7 +610,7 @@ be blessed.
 the Lord the Virgin which you took thence.
 
 17 But he wept bitterly, and the priest added, I will cause you both to
-drink the water of the Lord, <span id="fr_27"></span>[1](#fn_27) which
+drink the water of the Lord, <span id="fr_27"></span>[1](#fn_27.md) which
 is for trial, and so your iniquity shall be laid open before you.
 
 18 Then the priest took the water, and made Joseph drink, and sent him
@@ -637,7 +637,7 @@ rejoicing,* 10 *the delivery being near, he takes her from the ass, and
 places her in a cave*.</span>
 
 AND it came to pass, that there went forth a decree <span
-id="fr_28"></span>[2](#fn_28) from the Emperor Augustus, that all the
+id="fr_28"></span>[2](#fn_28.md) from the Emperor Augustus, that all the
 Jews should be taxed, who were of Bethlehem in Judæa:
 
 2 And Joseph said, I will take care that my children be taxed: but what
@@ -667,7 +667,7 @@ laughter and joy in thy countenance?
 <span id="img_03300"></span> <span align="CENTER"> [![THE BIRTH OF
 CHRIST. FROM A ''BOOK OF THE EVANGELISTS.'' GREEK MANUSCRIPT OF THE
 TWELFTH CENTURY](tn/03300.jpg)  
-Click to enlarge](img/03300.jpg)  
+Click to enlarge](img/03300.jpg.md)  
 THE BIRTH OF CHRIST. FROM A ''BOOK OF THE EVANGELISTS.'' GREEK
 MANUSCRIPT OF THE TWELFTH CENTURY  
 </span>
@@ -828,7 +828,7 @@ way*.</span>
 
 THEN Joseph was preparing to go away, because there arose a great
 disorder in Bethlehem by the coming of <span
-id="fr_29"></span>[1](#fn_29) some wise men from the east,
+id="fr_29"></span>[1](#fn_29.md) some wise men from the east,
 
 <span id="page_35">p. 35</span>
 
@@ -880,14 +880,14 @@ Zacharias to be murdered at the altar,* 23 *the roofs of the temple
 rent, the body miraculously conveyed, and the blood petrified.* 25
 *Israel mourns for him.* 27 *Simeon chosen his successor by lot*.</span>
 
-THEN Herod <span id="fr_30"></span>[1](#fn_30) perceiving that e he was
+THEN Herod <span id="fr_30"></span>[1](#fn_30.md) perceiving that e he was
 mocked by the wise men, and being very angry, commanded certain men to
 go and to kill all the children that were in Bethlehem, from two years
 old and under.
 
 2 But Mary hearing that the children were to be killed, being under much
 fear, took the child, and wrapped him up in swaddling clothes, and laid
-him in an ox-manger, <span id="fr_31"></span>[2](#fn_31) because there
+him in an ox-manger, <span id="fr_31"></span>[2](#fn_31.md) because there
 was no room for them in the inn.
 
 3 Elizabeth also, hearing that her son John was about to be searched
@@ -956,7 +956,7 @@ stone.
 
 25 And they went awry, and told the people, that Zacharias was murdered,
 and all the tribes of Israel heard thereof, and mourned for him, and
-lamented three days. <span id="fr_32"></span>[1](#fn_32)
+lamented three days. <span id="fr_32"></span>[1](#fn_32.md)
 
 <span id="page_37">p. 37</span>
 
@@ -968,7 +968,7 @@ Simeon.
 
 28 For he had been assured by the Holy Spirit, that he should not die,
 till he had seen Christ come in the flesh. <span
-id="fr_33"></span>[1](#fn_33)
+id="fr_33"></span>[1](#fn_33.md)
 
 ¶ *I James wrote this History in Jerusalem: and when the disturbance was
 I retired into a desert place, until the death of Herod. And the
@@ -981,43 +981,43 @@ for ever and ever, Amen*.
 
 ### Footnotes
 
-<span id="fn_18"></span>[24:1](lbob06.htm#fr_18) That is, gave as much
+<span id="fn_18"></span>[24:1](lbob06.htm#fr_18.md) That is, gave as much
 more as he was obliged to give.
 
-<span id="fn_19"></span>[25:1](lbob06.htm#fr_19) In imitation of the
+<span id="fn_19"></span>[25:1](lbob06.htm#fr_19.md) In imitation of the
 forty days and nights fast of Moses, recorded Exod. xxiv. 11, xxxiv. 28;
 Deut. ix. 9; of Elijah, 1 Kings xix. 8; and Christ's, Matt. iv. 2.
 
-<span id="fn_20"></span>[25:2](lbob06.htm#fr_20) Gen. xxi. 2.
+<span id="fn_20"></span>[25:2](lbob06.htm#fr_20.md) Gen. xxi. 2.
 
-<span id="fn_21"></span>[27:1](lbob06.htm#fr_21) Such an instrument God
+<span id="fn_21"></span>[27:1](lbob06.htm#fr_21.md) Such an instrument God
 had appointed the high-priest to wear for such discoveries. See Exod.
 xxviii. 36, &c., and Spencer de Urim et Thummim.
 
-<span id="fn_22"></span>[27:2](lbob06.htm#fr_22) Compare 1 Sam. ii.,
+<span id="fn_22"></span>[27:2](lbob06.htm#fr_22.md) Compare 1 Sam. ii.,
 &c., with Luke i. 46.
 
-<span id="fn_23"></span>[28:1](lbob06.htm#fr_23) See Exod. xxviii. 22,
+<span id="fn_23"></span>[28:1](lbob06.htm#fr_23.md) See Exod. xxviii. 22,
 &c.
 
-<span id="fn_24"></span>[29:1](lbob06.htm#fr_24) Luke i. 28, &c.
+<span id="fn_24"></span>[29:1](lbob06.htm#fr_24.md) Luke i. 28, &c.
 
-<span id="fn_25"></span>[30:1](lbob06.htm#fr_25) Luke ii. 39, &c.
+<span id="fn_25"></span>[30:1](lbob06.htm#fr_25.md) Luke ii. 39, &c.
 
-<span id="fn_26"></span>[31:1](lbob06.htm#fr_26) See Matt. i. 18.
+<span id="fn_26"></span>[31:1](lbob06.htm#fr_26.md) See Matt. i. 18.
 
-<span id="fn_27"></span>[32:1](lbob06.htm#fr_27) Num. v. 18.
+<span id="fn_27"></span>[32:1](lbob06.htm#fr_27.md) Num. v. 18.
 
-<span id="fn_28"></span>[32:2](lbob06.htm#fr_28) Luke ii. 1.
+<span id="fn_28"></span>[32:2](lbob06.htm#fr_28.md) Luke ii. 1.
 
-<span id="fn_29"></span>[34:1](lbob06.htm#fr_29) Matt. ii. 1, &c.
+<span id="fn_29"></span>[34:1](lbob06.htm#fr_29.md) Matt. ii. 1, &c.
 
-<span id="fn_30"></span>[35:1](lbob06.htm#fr_30) Matt. ii. 16.
+<span id="fn_30"></span>[35:1](lbob06.htm#fr_30.md) Matt. ii. 16.
 
-<span id="fn_31"></span>[35:2](lbob06.htm#fr_31) Luke ii. 7 is alluded
+<span id="fn_31"></span>[35:2](lbob06.htm#fr_31.md) Luke ii. 7 is alluded
 to, though misapplied as to time.
 
-<span id="fn_32"></span>[36:1](lbob06.htm#fr_32) There is a story both
+<span id="fn_32"></span>[36:1](lbob06.htm#fr_32.md) There is a story both
 in the Jerusalem and Babylonish Talmud very similar to this. It is cited
 by Dr. Lightfoot, *Talmud, Hierosol, in Taannith*, fol. 69; and *Talmud,
 Babyl. in Sanhedr*., fol. 96. "Rabbi Jochanan said Eighty thousand
@@ -1056,12 +1056,12 @@ Zacharias, Zacharias, thou hast occasioned the death of the chief of thy
 countrymen; shall I slay them all? then the blood ceased, and did bubble
 no more."
 
-<span id="fn_33"></span>[37:1](lbob06.htm#fr_33) Luke ii. 26.
+<span id="fn_33"></span>[37:1](lbob06.htm#fr_33.md) Luke ii. 26.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The First Gospel of the Infancy of Jesus Christ](lbob07)
+[Next: The First Gospel of the Infancy of Jesus Christ](lbob07.md)
 
 </div>

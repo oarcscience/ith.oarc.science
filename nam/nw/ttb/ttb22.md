@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb21)  [Next](ttb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb21)  [Next](ttb23.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 <span id="page_35">p. 35</span>
 
 <span id="img_03500"></span> ![Pi-Chikamin, The Gift
-Copper](img/03500.jpg)
+Copper](img/03500.jpg.md)
 
 ### Pi-Chikamin, THE GIFT COPPER
 
@@ -54,4 +54,4 @@ bringing luck to its owner and warding off evil spirits.
 
 ------------------------------------------------------------------------
 
-[Next: Property Woman, or Great Grandmother](ttb23)
+[Next: Property Woman, or Great Grandmother](ttb23.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma17)  [Next](cma19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma17)  [Next](cma19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -223,4 +223,4 @@ every one had fire in all parts of the country.
 
 ------------------------------------------------------------------------
 
-[Next: Haka Kaina](cma19)
+[Next: Haka Kaina](cma19.md)

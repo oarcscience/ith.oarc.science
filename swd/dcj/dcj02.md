@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dcj01)  [Next](dcj03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dcj01)  [Next](dcj03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877850542/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877850542/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -544,4 +544,4 @@ those members, because they have conjugial love.
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](dcj03)
+[Next: 101-150](dcj03.md)

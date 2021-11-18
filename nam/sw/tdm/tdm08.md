@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm07)  [Next](tdm09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm07)  [Next](tdm09.md) 
 
 ------------------------------------------------------------------------
 
@@ -324,7 +324,7 @@ goblins become quiescent. Then? What then?
 The feathers lay buried in the earthen floor of the inner room. Their
 removal must be accomplished with great care, in such a manner as to
 leave no signs of the earth having been recently disturbed. <span
-id="fr_6"></span>[1](#fn_6) There was no choice; they must be removed at
+id="fr_6"></span>[1](#fn_6.md) There was no choice; they must be removed at
 all hazards. There would be ample time if she could only afterward
 obliterate all traces of her work. Luckily the kitchen was very dark,
 and the hearth covered with ashes. Water was there also, but she dare
@@ -722,7 +722,7 @@ This is the signification of the ayash tyucotz when performed about the
 time of the summer solstice. However clumsy and meaningless it may seem,
 it is still a solemn performance. It gives public expression, under very
 strange forms, to the idea that has found its most perfect utterance in
-the German philosopher's <span id="fr_7"></span>[1](#fn_7) definition of
+the German philosopher's <span id="fr_7"></span>[1](#fn_7.md) definition of
 "abject reliance upon God;" whereas in its lowest form it is still "a
 vague and awful feeling about unity in the powers of nature, an
 
@@ -905,7 +905,7 @@ house, who feels with every loving and praying heart.
 
 ### Footnotes
 
-<span id="fn_6"></span>[138:1](tdm08.htm#fr_6) It was natural for her to
+<span id="fn_6"></span>[138:1](tdm08.htm#fr_6.md) It was natural for her to
 think of removing the feathers, as they would in all probability be
 looked for just where she had put them; that is, under the floor. Such
 was the case at Nambé in March, 1855, when owl's feathers were found
@@ -913,8 +913,8 @@ buried at several places in the Pueblo. The result of the discovery at
 Nambé was the slaughter of three men and one woman for alleged
 witchcraft by the infuriated mob of Indians.
 
-<span id="fn_7"></span>[149:1](tdm08.htm#fr_7) Schleiermacher.
+<span id="fn_7"></span>[149:1](tdm08.htm#fr_7.md) Schleiermacher.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](tdm09)
+[Next: Chapter VII](tdm09.md)

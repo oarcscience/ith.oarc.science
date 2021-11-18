@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav13)  [Next](vav15) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav13)  [Next](vav15.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ bundle and placed him on his shoulder, carried him away.
 
 ------------------------------------------------------------------------
 
-[Next: The Vampire's Eleventh Story. Which Puzzles Raja Vikram.](vav15)
+[Next: The Vampire's Eleventh Story. Which Puzzles Raja Vikram.](vav15.md)

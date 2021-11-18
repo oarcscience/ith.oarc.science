@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes14)  [Next](tes16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes14)  [Next](tes16.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ the Kolyma country, summer of 1895.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Story of an Arctic Fox](tes16)
+[Next: 5. Story of an Arctic Fox](tes16.md)

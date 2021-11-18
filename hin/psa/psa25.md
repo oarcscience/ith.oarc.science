@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa24)  [Next](psa26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa24)  [Next](psa26.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ not obtained any thing to eat: what shall we do now?" Shree Krishnù Jee
 said, "Go and ask their wives: they are very kind and virtuous. Observe
 their affection: on seeing you, they will give you food with the utmost
 respect and deference." Having heard this, the cowherds went to the
-place, where the wives were cooking, and [said to them](errata.htm#2),
+place, where the wives were cooking, and [said to them](errata.htm#2.md),
 "Shree Krishnù has become hungry, while pasturing cows in the jungle,
 and has sent us to you--if you have any thing to eat, give it us." They
 were delighted on hearing these words from the cowherds, and ran off and
@@ -140,4 +140,4 @@ been most propitious."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV](psa26)
+[Next: Chapter XXV](psa26.md)

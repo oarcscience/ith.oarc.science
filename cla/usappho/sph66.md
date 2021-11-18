@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph65)  [Next](sph67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph65)  [Next](sph67.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 ἔσσετ᾽ οὔτε τότ᾽ οὔτ᾽ ύ᾽στερον. οὐ γὰρ πεδέχεισ βρόδοων  
 τῶν ἐκ Πιερίασ ἀλλ᾽ ἀφάνησ κἠν᾽ ᾽Αῖδα δόμοισ  
 φοιτάσεισ πεδ᾽ ἀμαύρων νέκυων
-ἐκπεποταμένα. [\[transcription\]](xlatall.htm#87)
+ἐκπεποταμένα. [\[transcription\]](xlatall.htm#87.md)
 
 But thou shalt ever lie dead nor shall there be any remembrance of thee
 then or ever, for thou hast none of the roses of Pieria; but thou shalt
@@ -30,4 +30,4 @@ same words to some uneducated woman.
 
 ------------------------------------------------------------------------
 
-[Next: 66: No maiden, I think, more wise than thou...](sph67)
+[Next: 66: No maiden, I think, more wise than thou...](sph67.md)

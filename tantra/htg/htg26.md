@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htg25)  [Next](htg27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htg25)  [Next](htg27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Tripurasundarī (Tripurasundarīstotra)](htg27)
+[Next: Tripurasundarī (Tripurasundarīstotra)](htg27.md)

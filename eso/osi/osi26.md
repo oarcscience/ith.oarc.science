@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi25)  [Next](osi27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi25)  [Next](osi27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -70,7 +70,7 @@ the secrets of the divine nature, as well as of the creation, wrapped
 themselves up in silence and mystery like initiates in the Indian
 temples. At distant intervals, says the illustrious Franck, in his
 admirable book upon this mystic philosophy, <span
-id="fr_10"></span>[1](#fn_10) with innumerable precautions they partly
+id="fr_10"></span>[1](#fn_10.md) with innumerable precautions they partly
 opened the doors of the sanctuary to some new adept, who was always
 chosen among those particularly eminent for their intellectual ability,
 and whose advanced age offered an additional proof of their wisdom and
@@ -190,10 +190,10 @@ of our main subject.
 
 ### Footnotes
 
-<span id="fn_10"></span>[159:1](osi26.htm#fr_10) The Cabala, or
+<span id="fn_10"></span>[159:1](osi26.htm#fr_10.md) The Cabala, or
 Religious Philosophy of the Jews.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. How the Sacred Books are to be Interpreted According
-to the Jewish Cabalists](osi27)
+to the Jewish Cabalists](osi27.md)

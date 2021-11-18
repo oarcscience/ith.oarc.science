@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo31)  [Next](aoo33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo31)  [Next](aoo33.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ swineherd saw no change in his guest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](aoo33)
+[Next: Chapter X](aoo33.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq13)  [Next](sfq15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq13)  [Next](sfq15.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ to work her some further mischief.
 
 ------------------------------------------------------------------------
 
-[Next: Giant Pride](sfq15)
+[Next: Giant Pride](sfq15.md)

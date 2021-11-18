@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy22)  [Next](omy24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy22)  [Next](omy24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -177,7 +177,7 @@ state of limbo, *barzakh* (cf. Sale's Corán, chap. XXIII. note u).
 A. *khalá-ik*. Tempers. Peoples. God's attribute of Power.
 
 P. *kham i zulf*. A twisting curl. Joy of the heart at knowing God <span
-id="fr_32"></span>[1](#fn_32).
+id="fr_32"></span>[1](#fn_32.md).
 
 P. *kh’áhar*. Sister. Revelation.
 
@@ -334,7 +334,7 @@ P. *lab lab*. Brimful. Drinking in the Light of God and having the gaze
 riveted upon Him,
 
 P.A. *lab i lá’l*. A ruby lip. The unheard but understood words of
-God <span id="fr_33"></span>[1](#fn_33). Conscience.
+God <span id="fr_33"></span>[1](#fn_33.md). Conscience.
 
 A. *mádar*. Mother. The tablets on which the Corán is said to have been
 inscribed from all eternity; called by the Arabs <span
@@ -414,11 +414,11 @@ the heart man.
 
 ### Footnotes
 
-<span id="fn_32"></span>[74:1](omy23.htm#fr_32) Tholuck in his SUFISMUS
+<span id="fn_32"></span>[74:1](omy23.htm#fr_32.md) Tholuck in his SUFISMUS
 (Berolini, MDCCCXXI), p. 105, explains this as follows: "*Cincinnorum
 circuli*, Sic divina dicunt mysteria, nemini præter Deum ipsum nota."
 This, however, is the interpretation of *zulf* (tresses), not *khan i
-zulf*. The verse quoted above, in page [41](omy15.htm#page_41),
+zulf*. The verse quoted above, in page [41](omy15.htm#page_41.md),
 
 <div style="margin-left: 32px">
 
@@ -436,7 +436,7 @@ affords a good illustration of this. The words of the original being
 
 </div>
 
-<span id="fn_33"></span>[79:1](omy23.htm#fr_33) Cf. the answer of the
+<span id="fn_33"></span>[79:1](omy23.htm#fr_33.md) Cf. the answer of the
 Delphic oracle to Crœsus, Herod. I. 47. 4:
 
 <div style="margin-left: 32px">
@@ -447,4 +447,4 @@ Delphic oracle to Crœsus, Herod. I. 47. 4:
 
 ------------------------------------------------------------------------
 
-[Next: Index](omy24)
+[Next: Index](omy24.md)

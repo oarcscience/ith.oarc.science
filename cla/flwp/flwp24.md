@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp23)  [Next](flwp25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp23)  [Next](flwp25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ no other consequences besides these. For the extremes are, to be always
 efficient, and to be always non-efficient. But the media are, for the
 efficient cause to produce that afterwards which it did not produce
 before; or, on the contrary, not to produce again that which it had once
-produced. <span id="fr_76"></span>[\*](#fn_76) It is, however,
+produced. <span id="fr_76"></span>[\*](#fn_76.md) It is, however,
 impossible that the Demiurgus
 
 <span id="page_84">p. 84</span>
@@ -85,7 +85,7 @@ that if Plato clearly asserts this \[of the Demiurgus\], the world also,
 according to him, is unbegotten and incorruptible.
 
 If, therefore, Plato says, in the Politicus and the Timæus, <span
-id="fr_77"></span>[\*](#fn_77) that God is absent. from the world, and
+id="fr_77"></span>[\*](#fn_77.md) that God is absent. from the world, and
 again is present with it, being first absent from, and afterwards
 present with it, (for after this manner, says he, the universe
 subsisted, as it was likely it should, when Divinity was not present
@@ -126,7 +126,7 @@ truly a divine contrivance of the wisdom of Plato, by which he infers,
 from the eternal energy of Divinity, that the world is at one and the
 same time unbegotten and incorruptible; and assigns the absence and
 presence of Divinity as the cause of the order and disorder of the
-world. <span id="fr_78"></span>[\*](#fn_78) For, if Divinity alone is
+world. <span id="fr_78"></span>[\*](#fn_78.md) For, if Divinity alone is
 the cause of the alternate order and disorder of the world, and it is
 impossible for him not to subsist, because it is impossible for Divinity
 to subsist differently at different times, it is also absurd to conceive
@@ -186,14 +186,14 @@ conception
 
 <span id="page_90">p. 90</span>
 
-only,\] the universe is at one time <span id="fr_79"></span>[\*](#fn_79)
+only,\] the universe is at one time <span id="fr_79"></span>[\*](#fn_79.md)
 arranged, and at another without arrangement, by a much greater
 priority, Divinity will in *reality* be at one time present with, and at
 another absent from the universe. For it will not follow \[absolutely\],
 from the world being arranged, or being without arrangement, that
 Divinity is either absent from or present with it; but the contrary will
 take place: so that the prior assertion will be true, to which this is
-necessarily consequent. <span id="fr_80"></span>[†](#fn_80) If,
+necessarily consequent. <span id="fr_80"></span>[†](#fn_80.md) If,
 therefore, this is impossible, because Divinity subsists eternally with
 invariable sameness, it is also impossible that the world should at one
 time be without arrangement, and at another be arranged. For that which
@@ -212,7 +212,7 @@ arranged, and Divinity is always present with the world. And neither was
 the world arranged from a prior disorderly state of subsistence: for
 neither was Divinity once absent, and afterwards present; nor will the
 world, from being arranged, afterwards be without arrangement. For the
-maker of it was not once <span id="fr_81"></span>[\*](#fn_81) present
+maker of it was not once <span id="fr_81"></span>[\*](#fn_81.md) present
 with, and afterwards wilt be absent from it. And, according to Plato, if
 the world is necessarily generable and corruptible, there is an equal
 necessity that the Demiurgus of the world should not rank among the most
@@ -236,14 +236,14 @@ rest.
 
 ### Footnotes
 
-<span id="fn_76"></span>[83:\*](flwp24.htm#fr_76) For that which
+<span id="fn_76"></span>[83:\*](flwp24.htm#fr_76.md) For that which
 produces afterwards what it did not before, so far as it produces,
 unites with that extreme, which is always efficient. And that which does
 not produce again what it had once produced, so far as it does not
 produce, unites with the other extreme, which is always non-efficient.
 They are therefore media between these two extremes.
 
-<span id="fn_77"></span>[85:\*](flwp24.htm#fr_77) In the Politicus Plato
+<span id="fn_77"></span>[85:\*](flwp24.htm#fr_77.md) In the Politicus Plato
 says, "that the universe at one time is conducted by another divine
 cause, receiving again an externally acquired life, and a renewed
 immortality from the Demiurgus; but that at another time, when he remits
@@ -258,28 +258,28 @@ true elements, but were in every respect so constituted as it is likely
 any thing will be from which Deity is absent." See vol. ii. of my
 Translation of Plato.
 
-<span id="fn_78"></span>[87:\*](flwp24.htm#fr_78) Plato does not mean to
+<span id="fn_78"></span>[87:\*](flwp24.htm#fr_78.md) Plato does not mean to
 insinuate by this, that Divinity is actually at one time present with,
 and at another absent from, the world, for he is eternally present with
 it, and in a manner invariably the same; but in thus speaking, he only
 indicates what would be the necessary consequence of his being
 alternately present with and absent from the universe.
 
-<span id="fn_79"></span>[90:\*](flwp24.htm#fr_79) In the original, ποτε
+<span id="fn_79"></span>[90:\*](flwp24.htm#fr_79.md) In the original, ποτε
 is erroneously omitted, as is evident both from the sense of the
 passage, and the version of Mahotius.
 
-<span id="fn_80"></span>[90:†](flwp24.htm#fr_80) By the prior assertion,
+<span id="fn_80"></span>[90:†](flwp24.htm#fr_80.md) By the prior assertion,
 Proclus means this, that the world, in conception only, is at one time
 arranged, and at another without arrangement, in consequence of the
 maker of it being, in conception only, at one time present with, and at
 another absent from it.
 
-<span id="fn_81"></span>[91:\*](flwp24.htm#fr_81) In the original, ουτε
+<span id="fn_81"></span>[91:\*](flwp24.htm#fr_81.md) In the original, ουτε
 γαρ εκεινος ου παρων αυθις ου παρεστι. But for ου παρων, it is requisite
 to read ποτε παρων. The version of Mahotius also is, conformably to this
 emendation, "Non enim ille *ante* præsens, postea non præsens erit."
 
 ------------------------------------------------------------------------
 
-[Next: Concerning Place](flwp25)
+[Next: Concerning Place](flwp25.md)

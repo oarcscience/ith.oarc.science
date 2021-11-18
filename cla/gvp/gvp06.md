@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp05)  [Next](gvp07) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp05)  [Next](gvp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ whom he was sent; for he alone is heard by Divinity, who is not burdened
 with foreign concerns.
 
 9\. It is impossible to receive from Divinity any gift greater than
-virtue. <span id="fr_0"></span>[1](#fn_0)
+virtue. <span id="fr_0"></span>[1](#fn_0.md)
 
 10\. Gifts and victims confer no honour on Divinity, nor is he adorned
 with offerings suspended in temples; but a soul divinely inspired
@@ -83,7 +83,7 @@ sufficient to the enjoyment of a blessed life.
 17\. True goods are never produced by indolent habits.
 
 18\. Esteem that to be eminently good, which, communicated to another,
-will be increased to yourself. <span id="fr_1"></span>[1](#fn_1)
+will be increased to yourself. <span id="fr_1"></span>[1](#fn_1.md)
 
 19\. Esteem those to be eminently your friends, who assist your soul
 rather than your body.
@@ -198,13 +198,13 @@ than a pure and holy soul.
 
 ### Footnotes
 
-<span id="fn_0"></span>[31:1](gvp06.htm#fr_0) Because virtue is the
+<span id="fn_0"></span>[31:1](gvp06.htm#fr_0.md) Because virtue is the
 perfection of life, and the proper perfection of any being is the
 felicity of that being.
 
-<span id="fn_1"></span>[32:1](gvp06.htm#fr_1) And this is the case with
+<span id="fn_1"></span>[32:1](gvp06.htm#fr_1.md) And this is the case with
 intellectual good.
 
 ------------------------------------------------------------------------
 
-[Next: The Similitudes of Demophilus](gvp07)
+[Next: The Similitudes of Demophilus](gvp07.md)

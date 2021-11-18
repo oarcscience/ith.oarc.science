@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal121)  [Next](njal123) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal121)  [Next](njal123.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ Then men went home to their booths.
 
 ------------------------------------------------------------------------
 
-[Next: 123. An Attack Planned On Njal And His Sons](njal123)
+[Next: 123. An Attack Planned On Njal And His Sons](njal123.md)

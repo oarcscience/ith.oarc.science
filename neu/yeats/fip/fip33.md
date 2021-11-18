@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip32)  [Next](fip34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip32)  [Next](fip34.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ Or was but the night-wind sweeping
 
 ------------------------------------------------------------------------
 
-[Next: The Banshee of the Mac Carthys, by T. Crofton Croker](fip34)
+[Next: The Banshee of the Mac Carthys, by T. Crofton Croker](fip34.md)

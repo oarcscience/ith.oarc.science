@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas130n)  [Next](jas132n)   
- \[[131. Dancing to Anansi's Fiddle.](jas131)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas130n)  [Next](jas132n.md)   
+ \[[131. Dancing to Anansi's Fiddle.](jas131.md)\]
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ compare Bundy, JAFL 32:412-413.
 
 ------------------------------------------------------------------------
 
-[Next: Note 132. Anansi Claims the Dinner.](jas132n)
+[Next: Note 132. Anansi Claims the Dinner.](jas132n.md)

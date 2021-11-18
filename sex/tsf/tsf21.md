@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf20)  [Next](tsf22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf20)  [Next](tsf22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ sinks into the abyss of darkness, the stronger and purer is the light of
 the spirit within it. Consequently, indulgence in sex is a
 
 <span id="img_33900"></span> ![The Evil Spirit tempting the soul of a
-pagan idol](img/33900.jpg)  
+pagan idol](img/33900.jpg.md)  
 The Evil Spirit tempting the soul of a pagan idol
 
 way of purifying the soul by soiling the body. In this respect, their
@@ -179,10 +179,10 @@ and half serpent.
 
 [![When the devil was a god&lt;br&gt; (From an old English
 ballad)](tn/34100.jpg)  
-Click to enlarge](img/34100.jpg)  
+Click to enlarge](img/34100.jpg.md)  
 When the devil was a god  
 (From an old English ballad)  
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Revolt Against Man](tsf22)
+[Next: Chapter V. The Revolt Against Man](tsf22.md)

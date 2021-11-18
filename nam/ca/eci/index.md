@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,8 +22,8 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](eci00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ecitxt.zip)
+[Contents](#contents)    [Start Reading](eci00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ecitxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -41,16 +41,16 @@ ordinary shooting stars (*ngamngam*), which just deepens *that* mystery.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](eci00)  
-[Contents](eci01)  
-[Geography](eci02)  
-[Culture](eci03)  
-[Basketry](eci04)  
-[Stone Implements](eci05)  
-[Pottery](eci06)  
-[Implements of Wood and Fibre](eci07)  
-[Ceremonial Objects and Beads](eci08)  
-[Houses](eci09)  
-[Social and Religious Life](eci10)  
-[Catalogue Numbers of Specimens Shown in Plates](eci11)  
-[Plates](eci12)  
+<span id="contents"></span> [Title Page](eci00.md)  
+[Contents](eci01.md)  
+[Geography](eci02.md)  
+[Culture](eci03.md)  
+[Basketry](eci04.md)  
+[Stone Implements](eci05.md)  
+[Pottery](eci06.md)  
+[Implements of Wood and Fibre](eci07.md)  
+[Ceremonial Objects and Beads](eci08.md)  
+[Houses](eci09.md)  
+[Social and Religious Life](eci10.md)  
+[Catalogue Numbers of Specimens Shown in Plates](eci11.md)  
+[Plates](eci12.md)  

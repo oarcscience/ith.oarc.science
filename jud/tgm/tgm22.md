@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm21)  [Next](tgm23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm21)  [Next](tgm23.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ home. By that time the sun
 <span id="img_10700"></span>
 
 [![](tn/10700.jpg)  
-Click to enlarge](img/10700.jpg)
+Click to enlarge](img/10700.jpg.md)
 
  
 
@@ -99,4 +99,4 @@ The children all clapped their hands and laughed heartily.
 
 ------------------------------------------------------------------------
 
-[Next: 20. As Faithful As That](tgm23)
+[Next: 20. As Faithful As That](tgm23.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Previous](chap01) [Next](chap03)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Previous](chap01) [Next](chap03.md)
 
 ------------------------------------------------------------------------
 
@@ -533,4 +533,4 @@ still no passage there for "body and soul and sin."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Grace Abounding](chap03)
+[Next: Chapter III. Grace Abounding](chap03.md)

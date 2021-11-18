@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe330)  [Next](prwe332) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe330)  [Next](prwe332.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ knives, spear-heads, axes, and hammers speak of an ancient race; and
 
 ------------------------------------------------------------------------
 
-[Next: Shara and Sheela](prwe332)
+[Next: Shara and Sheela](prwe332.md)

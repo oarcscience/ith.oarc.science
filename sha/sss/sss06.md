@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss05)  [Next](sss07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss05)  [Next](sss07.md) 
 
 ------------------------------------------------------------------------
 
@@ -338,4 +338,4 @@ The name o thy father, thy mother, and of thy child.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Soul of Things](sss07)
+[Next: V. The Soul of Things](sss07.md)

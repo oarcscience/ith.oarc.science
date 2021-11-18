@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip37)  [Next](fip39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip37)  [Next](fip39.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ He lies in his cot, there's a fire on the hearth;
 To Eily and Eddy 'tis heaven on earth,  
 For mother's deft fingers have been everywhere;  
 She lulls them to rest in the low *suggaun* <span
-id="fr_16"></span>[1](#fn_16) chair.
+id="fr_16"></span>[1](#fn_16.md) chair.
 
 They gaze open-eyed, then the eyes gently close,  
 As petals fold into the heart of a rose,  
@@ -63,9 +63,9 @@ An angel in heaven, a mother on earth.
 
 ### Footnotes
 
-<span id="fn_16"></span>[133:1](fip38.htm#fr_16) Chair made of twisted
+<span id="fn_16"></span>[133:1](fip38.htm#fr_16.md) Chair made of twisted
 straw ropes.
 
 ------------------------------------------------------------------------
 
-[Next: The Black Lamb, by Lady Wilde](fip39)
+[Next: The Black Lamb, by Lady Wilde](fip39.md)

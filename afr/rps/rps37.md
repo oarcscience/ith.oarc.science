@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps36)  [Next](rps38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps36)  [Next](rps38.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ know Our Professions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 36. The Eternal Come Back](rps38)
+[Next: Chapter 36. The Eternal Come Back](rps38.md)

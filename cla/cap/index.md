@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,16 +16,16 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](cap00)  
-[Introductory Note](cap01)  
+[Title Page](cap00.md)  
+[Introductory Note](cap01.md)  
 
 ### Cupid and Psyche
 
-[Part I](cap02)  
-[Part II](cap03)  
-[Part III](cap04)  
-[Part IV](cap05)  
-[Part V](cap06)  
-[Part VI](cap07)  
-[Part VII](cap08)  
-[Part VIII](cap09)  
+[Part I](cap02.md)  
+[Part II](cap03.md)  
+[Part III](cap04.md)  
+[Part IV](cap05.md)  
+[Part V](cap06.md)  
+[Part VI](cap07.md)  
+[Part VII](cap08.md)  
+[Part VIII](cap09.md)  

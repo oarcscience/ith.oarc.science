@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta30)  [Next](sta32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta30)  [Next](sta32.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ Wisdom thus far has not met with any great
 <span id="img_12900"></span>
 
 [![EARLY PORTUGUESE CARDS.](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)  
+Click to enlarge](img/12900.jpg.md)  
 EARLY PORTUGUESE CARDS.  
 
 From Chatto's *Origin and History of Playing Cards*.
@@ -409,7 +409,7 @@ would be destroyed like the tiny flame of a lamp unprotected from the
 storm. Man's bodies form a cloak through which his divine nature is
 faintly visible like the flame of the partly covered lantern. Through
 renunciation--the Hermetic life--man attains depth of character and
-[tranquility](errata.htm#10) of spirit.
+[tranquility](errata.htm#10.md) of spirit.
 
 The tenth numbered major trump is called *La Roue de Fortune*, the Wheel
 of Fortune, and portrays a mysterious wheel with eight spokes--the
@@ -592,7 +592,7 @@ pool of water from which emerges a crawfish. Between the towers a path
 <span id="img_13100"></span>
 
 [![A CARD FROM THE MANTEGNA PACK.](tn/13100.jpg)  
-Click to enlarge](img/13100.jpg)  
+Click to enlarge](img/13100.jpg.md)  
 A CARD FROM THE MANTEGNA PACK.  
 
 From Taylor's *The History of Playing Cards*.
@@ -814,4 +814,4 @@ it cannot escape.
 
 ------------------------------------------------------------------------
 
-[Next: The Tabernacle in the Wilderness](sta32)
+[Next: The Tabernacle in the Wilderness](sta32.md)

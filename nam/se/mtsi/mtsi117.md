@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi116)  [Next](mtsi118) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi116)  [Next](mtsi118.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Rabbit distributed the fire to all people.
 
 ------------------------------------------------------------------------
 
-[Next: 25. The Theft of Fire (Second Version)](mtsi118)
+[Next: 25. The Theft of Fire (Second Version)](mtsi118.md)

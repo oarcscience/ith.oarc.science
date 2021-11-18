@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](idtc10)  [Next](idtc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](idtc10)  [Next](idtc12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Days To Come*, by Ashtar (Ethel P. Hill), \[1957\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ attuned to high vibrational frequencies. Such an one must be constantly
 safe-guarded against these infringing constituents of the very air they
 must breathe to sustain life. Not alone the air but the seldom
 recognized subversive thought streams, betimes
-[well-nigh](errata.htm#11) flood the mental atmosphere and drown out the
+[well-nigh](errata.htm#11.md) flood the mental atmosphere and drown out the
 more sensitive upward-reaching ten-drills of hope and faith.
 
 <span id="page_56">p. 56</span>
@@ -150,7 +150,7 @@ principles and utilize the essential etheric properties contained in the
 super-charged magnetic orbit which surrounds our home planet. An absurd
 theory exists in the minds of some earth people we have observed that
 the type of existence we have attained must be slightly insipid and
-[monotonous](errata.htm#12). Nothing could be farther from the truth!
+[monotonous](errata.htm#12.md). Nothing could be farther from the truth!
 Our lives are fairly teeming with ever-expanding interest and
 activities! You have a trifling example of my meaning in the constant
 improvements made in your automobiles and household appliances. Even
@@ -189,4 +189,4 @@ you and give you our love!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](idtc12)
+[Next: Chapter X](idtc12.md)

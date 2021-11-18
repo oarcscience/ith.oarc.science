@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron09) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron09.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,12 +49,12 @@ Woglinde
 Hark! That is his horn!
 
 <span id="img_16000"></span> [![](tn/16000.jpg)  
-Click to enlarge](img/16000.jpg)
+Click to enlarge](img/16000.jpg.md)
 
 "O wife betrayed,  
 I will avenge  
 Thy trust deceived"  
-           See [p. 154](ron09.htm#page_154)
+           See [p. 154](ron09.htm#page_154.md)
 
  
 
@@ -211,13 +211,13 @@ Why endure their scorn?
 Did they return
 
 <span id="img_16200"></span> [![](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)
+Click to enlarge](img/16200.jpg.md)
 
 "Though gaily ye may laugh,  
 In grief ye shall be left,  
 For, mocking maids, this ring  
 Ye ask shall never be yours"  
-                    See [p. 162](#page_162)
+                    See [p. 162](#page_162.md)
 
  
 
@@ -320,12 +320,12 @@ The ring ye never shall gain.
 My limbs and my life--
 
 <span id="img_16400"></span> [![](tn/16400.jpg)  
-Click to enlarge](img/16400.jpg)
+Click to enlarge](img/16400.jpg.md)
 
 "Siegfried! Siegfried!  
 Our warning is true:  
 Flee, oh, flee from the curse!"  
-                     See [p. 164](#page_164)
+                     See [p. 164](#page_164.md)
 
  
 
@@ -442,7 +442,7 @@ Of Siegfried and his hunting
 That chased the game from us.
 
 <span id="img_16600"></span> [![](tn/16600.jpg)  
-Click to enlarge](img/16600.jpg)
+Click to enlarge](img/16600.jpg.md)
 
 Siegfried's death  
       See <span id="page_172">p. 172</span>
@@ -1222,11 +1222,11 @@ Give thy lord greeting!
 \[*She has swung herself on to the horse, and urges it forward*.\]
 
 <span id="img_18100"></span> [![](tn/18100.jpg)  
-Click to enlarge](img/18100.jpg)
+Click to enlarge](img/18100.jpg.md)
 
 Brünnhilde on Grane leaps on to the funeral pyre of Siegfried  
                                                       See [p.
-182](#page_182)
+182](#page_182.md)
 
  
 
@@ -1265,12 +1265,12 @@ completely hidden by the flames the curtain falls*.\]
 <span id="img_twocrows"></span> ![](img/twocrows.jpg)
 
 <span id="img_18200"></span> [![](tn/18200.jpg)  
-Click to enlarge](img/18200.jpg)
+Click to enlarge](img/18200.jpg.md)
 
 The Rhine-Maidens obtain possession of the ring and bear it off in
 triumph  
                                                             See [p.
-182](#page_182)
+182](#page_182.md)
 
  
 

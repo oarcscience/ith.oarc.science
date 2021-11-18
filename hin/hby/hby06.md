@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby05)  [Next](hby07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby05)  [Next](hby07.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,7 +182,7 @@ The second step includes austerities, forbearance, contentment, faith in
 the Supreme Being, charity, study, and self-surrender to the Divine
 will. All the physical exercises necessary for keeping the body in
 perfect condition are to be found in the third step. <span
-id="fr_1"></span>[1](#fn_1) Health is essential to the attainment of the
+id="fr_1"></span>[1](#fn_1.md) Health is essential to the attainment of the
 highest knowledge. Those who are suffering from disease cannot
 
 <span id="page_74">p. 74</span>
@@ -233,7 +233,7 @@ extraordinary. Those, however, who have not practiced the introductory
 steps will find this one extremely difficult, for the ground must be
 prepared before good results can be gained.
 
-Meditation is the seventh stage, <span id="fr_2"></span>[1](#fn_2) and
+Meditation is the seventh stage, <span id="fr_2"></span>[1](#fn_2.md) and
 through it one passes into Samâdhi or the state of superconsciousness,
 which is the
 
@@ -280,7 +280,7 @@ concentration, falling away from the state once attained, irregular
 breathing, etc. They can be easily avoided by regular practice under the
 guidance of a Yogi teacher. If a student try to practice by himself any
 of the exercises as given in Râja Yoga, <span
-id="fr_3"></span>[1](#fn_3) he may have some unpleasant experiences
+id="fr_3"></span>[1](#fn_3.md) he may have some unpleasant experiences
 which may disturb his mind or nervous system; but if he have an
 experienced Râja Yogi to direct him, then he will have no difficulty in
 conquering all the obstacles and dangers, and in reaching the right
@@ -321,16 +321,16 @@ existence, knowledge, and bliss absolute."
 
 ### Footnotes
 
-<span id="fn_1"></span>[73:1](hby06.htm#fr_1) It is called *Asâna* in
+<span id="fn_1"></span>[73:1](hby06.htm#fr_1.md) It is called *Asâna* in
 Sanskrit. It has been described more fully in the chapter on Hatha Yoga.
 
-<span id="fn_2"></span>[76:1](hby06.htm#fr_2) For further explanations
+<span id="fn_2"></span>[76:1](hby06.htm#fr_2.md) For further explanations
 concerning concentration and meditation, see "Spiritual Unfoldment," by
 the same author.
 
-<span id="fn_3"></span>[79:1](hby06.htm#fr_3) See "Râja Yoga," by Swâmi
+<span id="fn_3"></span>[79:1](hby06.htm#fr_3.md) See "Râja Yoga," by Swâmi
 Vivekananda. Published by The Baker and Taylor Co., New York.
 
 ------------------------------------------------------------------------
 
-[Next: Karma Yoga](hby07)
+[Next: Karma Yoga](hby07.md)

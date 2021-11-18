@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre88)  [Next](gre90) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre88)  [Next](gre90.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Then many laid evil things to his charge for his ill faith, and beat him
 till he was well-nigh past booting for, and let him lie there; but they
 went up to the hut and smote mightily on the door.
 
-"Pied-belly <span id="fr_18"></span>[\*](#fn_18) is knocking hard at the
+"Pied-belly <span id="fr_18"></span>[\*](#fn_18.md) is knocking hard at the
 door, brother," says Illugi.
 
 "Yea, yea, hard, and over hard," says Grettir; and therewithal the door
@@ -189,10 +189,10 @@ foresee, though he might do nought to meet them.
 
 ### Footnotes
 
-<span id="fn_18"></span>[240:\*](gre89.htm#fr_18) 'Pied-belly,' the name
+<span id="fn_18"></span>[240:\*](gre89.htm#fr_18.md) 'Pied-belly,' the name
 of the tame ram told of before.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXXV: How Thorbiorn Angle claimed Grettir's
-Head-money](gre90)
+Head-money](gre90.md)

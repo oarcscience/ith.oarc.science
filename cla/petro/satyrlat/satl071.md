@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXXI) 
-[Previous](satl070)  [Next](satl072) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXXI.md) 
+[Previous](satl070)  [Next](satl072.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ ET TV "
 
 ------------------------------------------------------------------------
 
-[Next: LXXII](satl072)
+[Next: LXXII](satl072.md)

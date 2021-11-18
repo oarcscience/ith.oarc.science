@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp06)  [Next](twp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp06)  [Next](twp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -525,4 +525,4 @@ But I must pass on.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](twp08)
+[Next: Chapter VI](twp08.md)

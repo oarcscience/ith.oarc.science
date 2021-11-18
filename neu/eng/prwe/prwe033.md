@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe032)  [Next](prwe034) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe032)  [Next](prwe034.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ by George E. J. Powell and Erikur Magmisson." Bentley, 1864.
 
 ------------------------------------------------------------------------
 
-[Next: The Piskies' Changeling](prwe034)
+[Next: The Piskies' Changeling](prwe034.md)

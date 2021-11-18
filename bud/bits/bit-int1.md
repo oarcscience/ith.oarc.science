@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-gint) [Next](bits001)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-gint) [Next](bits001.md)
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ beginning its detailed discussion.
 
 ------------------------------------------------------------------------
 
-[Next: § 1. The Story of Sumedha](bits001)
+[Next: § 1. The Story of Sumedha](bits001.md)
 
  
 

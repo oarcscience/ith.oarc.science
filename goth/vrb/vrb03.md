@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb02)  [Next](vrb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb02)  [Next](vrb04.md) 
 
 ------------------------------------------------------------------------
 
@@ -249,4 +249,4 @@ vampires.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two: Ritual and Sacred Space](vrb04)
+[Next: Chapter Two: Ritual and Sacred Space](vrb04.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ath02)  [Next](ath04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ath02)  [Next](ath04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -478,4 +478,4 @@ God.
 
 ------------------------------------------------------------------------
 
-[Next: 151-200](ath04)
+[Next: 151-200](ath04.md)

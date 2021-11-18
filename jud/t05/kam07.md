@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam06)  [Next](kam08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam06)  [Next](kam08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -21,7 +21,7 @@ OXEN OF ORPHANS AND GUARDIANS AND WHAT IS CONSIDERED "GUARDED."
 MISHNA *I*.: An ox that gores four or five oxen one after another, the
 last of them must be paid from the body of the goring ox (if he was yet
 considered non-vicious., *e.g.*, when the goring was not in
-succession <span id="fr_21"></span>[1](#fn_21)), and from the balance of
+succession <span id="fr_21"></span>[1](#fn_21).md), and from the balance of
 the half body the last but one must be paid, and if there was still a
 balance left the last but two must be paid, so that the later the more
 privileged. Such is the dictum of R. Meir. R. Simeon, however, says that
@@ -61,7 +61,7 @@ go to the owner of the ox (for all the gorings subsequent to the first
 one were made while the ox was not under his control). Said Rabhina: The
 statement in question means that if after the last one was paid from the
 body of the ox, there still remained a balance, the same must be paid
-over to the preceding one. <span id="fr_22"></span>[1](#fn_22) And so
+over to the preceding one. <span id="fr_22"></span>[1](#fn_22.md) And so
 when Rabhin came from Palestine he said in the name of R. Johanan that
 the Mishna is to be explained in the same sense that Rabha did; that is,
 that the Mishna treats only about the negligence of the plaintiffs who
@@ -81,7 +81,7 @@ the last part in accordance with R. Aqiba. The Schoolmen said: Yea, so
 it is, for Samuel said to R. Jehudah (concerning this Mishna): "Genius,
 leave alone the explanation of the Mishna and agree with me that the
 first part is according to R. Ishmael and the last part according to R.
-Aqiba." <span id="fr_23"></span>[1](#fn_23)
+Aqiba." <span id="fr_23"></span>[1](#fn_23.md)
 
 MISHNA *II*.: An ox that is vicious towards his own species, but not
 towards other species, or towards human beings but not towards animals,
@@ -169,7 +169,7 @@ vicious toward oxen only but not toward other species of cattle, or
 shall we count the last ox with the ass and camel, so that he gored
 three times in succession three different species of cattle, and he is
 then considered vicious toward all species of cattle? This question
-remains unanswered. <span id="fr_24"></span>[1](#fn_24)
+remains unanswered. <span id="fr_24"></span>[1](#fn_24.md)
 
 Rabha said: "If an ox gored three times, each time upon hearing the
 blowing of a horn, he is considered vicious when hearing the sound of a
@@ -181,7 +181,7 @@ MISHNA *III*.: An ox belonging to an Israelite that gored an ox
 belonging to the sanctuary, or of the sanctuary that gored one of a
 commoner, there is no liability, for it is written \[Ex. xxi. 31\]: "The
 ox of *another*" (man), but not of sanctuary. <span
-id="fr_25"></span>[2](#fn_25)
+id="fr_25"></span>[2](#fn_25.md)
 
 GEMARA: This Mishna is not in accordance with R. Simeon b. Menassia of
 the following Boraitha: "An ox of a commoner that gored an ox of the
@@ -268,7 +268,7 @@ they were known to be goring oxen the court appoints a guardian, and the
 witnesses are examined in the presence of the guardian and the ox is
 declared vicious, so that if he subsequently gores again the damage is
 collected from the best estates. From whose best estates? R. Johanan
-said: From those of the orphans. <span id="fr_26"></span>[1](#fn_26) R.
+said: From those of the orphans. <span id="fr_26"></span>[1](#fn_26.md) R.
 Jose b. Hanina said: From those of the guardian.
 
 Did R. Johanan, indeed, say so? Did not R. Jehudah say in the name of R.
@@ -428,7 +428,7 @@ free;" hence we see that the change of control changes his status, and
 from the first part it is to be inferred that it does not change the
 status, as the whole damage is to be paid if he gored while under the
 control of the borrower. Said R. Johanan: Break <span
-id="fr_27"></span>[1](#fn_27) this Boraitha: the Tana who taught the
+id="fr_27"></span>[1](#fn_27.md) this Boraitha: the Tana who taught the
 first part did not teach the last one. Rabba, however, says: The
 Boraitha cannot be broken, as in the first part it is declared that
 change of control does not change the status, the same must be the case
@@ -471,7 +471,7 @@ death, when the first two also died, and therefore he is considered
 vicious as to the third to pay the atonement money. R. Zbid, however,
 says: By "vicious one" is meant simply that he has killed three animals,
 and an ox that is considered vicious as to animals is considered so also
-as to human beings. <span id="fr_28"></span>[1](#fn_28)
+as to human beings. <span id="fr_28"></span>[1](#fn_28.md)
 
 "*Both of them*," etc. The rabbis taught: "From \[Ex. xxi. 28\]: 'Then
 shall the ox be surely stoned'; is it not self-evident that he became a
@@ -552,7 +552,7 @@ from liability for hurting children, but non-vicious oxen should be
 liable. Therefore comes the other verse, "The owner of the ox shall be
 quit," to teach that even in such a case there is no liability. Said
 Rabha: Shall the native remain on earth and the stranger be lifted up to
-the highest heaven? <span id="fr_29"></span>[1](#fn_29) (*i.e.*, how can
+the highest heaven? <span id="fr_29"></span>[1](#fn_29.md) (*i.e.*, how can
 it enter the mind that a vicious ox shall be free and a non-vicious
 shall be liable?) Therefore said R. Ada b. A'hba: (This verse alone
 would not be sufficient, for) in case of men they are liable for the
@@ -705,7 +705,7 @@ should be distinguished from an ox when done unintentionally, as both
 are his property? This remains unanswered. When R. Dimi came from
 Palestine he said in the name of R. Johanan thus: It could be written:
 "Shall be laid on him a sum of money in atonement." Why is the word
-"if" <span id="fr_30"></span>[1](#fn_30) added? To teach that the
+"if" <span id="fr_30"></span>[1](#fn_30.md) added? To teach that the
 atonement money shall be paid when done unintentionally as well as if
 done intentionally. Said Abayi to him: According to your theory, why
 should we not say the same of a bondman, where it is also written
@@ -778,7 +778,7 @@ atonement money. Rabh, however, says that he is free from both. But why
 shall atonement money be paid? Is he then not non-vicious? (Is it not
 said that he was rubbing against the wall, in which case he is surely
 non-vicious, at least in this case?) As Rabha explained this (*post*,
-page [112](kam08.htm#page_112)), that it was vicious in this respect as
+page [112](kam08.htm#page_112).md), that it was vicious in this respect as
 to fall into pits, so also here that
 
 <span id="page_101">p. 101</span>
@@ -990,14 +990,14 @@ xxii. 8\]: "That thou bring not blood upon thy house."
 
 ### Footnotes
 
-<span id="fn_21"></span>[82:1](kam07.htm#fr_21) Rashi explains this as
+<span id="fn_21"></span>[82:1](kam07.htm#fr_21.md) Rashi explains this as
 follows: After the first goring he saw another ox and did not gore and
 after the second goring he saw two or three other oxen and did not gore
 them, and so after the third and fourth gorings in which case he is not
 considered vicious even in alternate order, as explained further on in
 the text.
 
-<span id="fn_22"></span>[83:1](kam07.htm#fr_22) This is very
+<span id="fn_22"></span>[83:1](kam07.htm#fr_22.md) This is very
 complicated, and the commentaries differ as to the explanation and
 illustration thereof. Rashi maintains that if the value of the fifth one
 was only fifty zuz, the carcass being of no value, he collects from the
@@ -1021,15 +1021,15 @@ collect his full half. See the objection of Samuel Eidlis (Marsha) to
 these remarks of Tosphath and the answer of Sabbati Kohen in his
 commentary on the Schulchan Aruch, §401, and their illustrations.
 
-<span id="fn_23"></span>[84:1](kam07.htm#fr_23) Here is an omission
+<span id="fn_23"></span>[84:1](kam07.htm#fr_23.md) Here is an omission
 which will be supplied in the eighth chapter of this tract, as there is
 the proper place for it.
 
-<span id="fn_24"></span>[86:1](kam07.htm#fr_24) Here follow several
+<span id="fn_24"></span>[86:1](kam07.htm#fr_24.md) Here follow several
 similar questions, all remaining unanswered, and they are of no
 importance.
 
-<span id="fn_25"></span>[86:2](kam07.htm#fr_25) For the first time in
+<span id="fn_25"></span>[86:2](kam07.htm#fr_25.md) For the first time in
 our translation we omit here a statement of the Mishna regarding the
 goring of an ox belonging to an idolater, for it seems to us that it was
 inserted here not by the editors of the Mishna; the evidence for this we
@@ -1037,24 +1037,24 @@ have set forth in a long article in Hebrew in the monthly "Ner
 Hamarabi." We will probably explain this to our English readers in an
 appendix to the "third gate" of this section.
 
-<span id="fn_26"></span>[88:1](kam07.htm#fr_26) *I.e.*, those three
+<span id="fn_26"></span>[88:1](kam07.htm#fr_26.md) *I.e.*, those three
 named in the Mishna.
 
-<span id="fn_27"></span>[92:1](kam07.htm#fr_27) This form of expression
+<span id="fn_27"></span>[92:1](kam07.htm#fr_27.md) This form of expression
 is often used in the Talmud.
 
-<span id="fn_28"></span>[93:1](kam07.htm#fr_28) In the Gemara this last
+<span id="fn_28"></span>[93:1](kam07.htm#fr_28.md) In the Gemara this last
 sentence is put as a question, and there are many answers to it which we
 deem of no importance to be translated. The law, however, prevails as we
 have translated in our text.
 
-<span id="fn_29"></span>[91:1](kam07.htm#fr_29) See explanation of this
+<span id="fn_29"></span>[91:1](kam07.htm#fr_29.md) See explanation of this
 expression in Tract Erubin, p. 16, footnote.
 
-<span id="fn_30"></span>[90:1](kam07.htm#fr_30) The text reads "Im,"
+<span id="fn_30"></span>[90:1](kam07.htm#fr_30.md) The text reads "Im,"
 which literally means "if"; Leeser, however, translates it "but,"
 according to the sense of the verse.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V.](kam08)
+[Next: Chapter V.](kam08.md)

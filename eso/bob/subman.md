@@ -1,11 +1,11 @@
-[Sacred-Texts](../../index)  [Esoteric and Occult
-(Erisian)](../index.htm#eris) 
+[Sacred-Texts](../../index.md)  [Esoteric and Occult
+(Erisian)](../index.htm#eris.md) 
 
 ------------------------------------------------------------------------
 
 # SubGenius Manifesto
 
-[![](bob.gif)](https://www.subgenius.com/)  
+[![](bob.gif)](https://www.subgenius.com/.md)  
 THE CHURCH OF THE SUBGENIUS  
 ONLINE PAMPHLET  
 DISTRIBUTE FREELY  
@@ -50,7 +50,7 @@ Then...
 
 |                                                           |
 |-----------------------------------------------------------|
-| [THE CHURCH OF THE SUBGENIUS](https://www.subgenius.com/) |
+| [THE CHURCH OF THE SUBGENIUS](https://www.subgenius.com/.md) |
 
 could \*save your sanity!\*
 

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb09)  [Next](gyfb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb09)  [Next](gyfb11.md) 
 
 </div>
 
@@ -230,6 +230,6 @@ the truth.
 
 ------------------------------------------------------------------------
 
-[Next: What Came of Picking Flowers](gyfb11)
+[Next: What Came of Picking Flowers](gyfb11.md)
 
 </div>

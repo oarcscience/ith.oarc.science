@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl01)  [Next](vrl03) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl01)  [Next](vrl03.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ and careless.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER IV](vrl03)
+[Next: CHAPTER IV](vrl03.md)

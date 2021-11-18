@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt10)  [Next](egt12) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt10)  [Next](egt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ majesty and glory of His essence, attain to a knowledge of Him?
 
 ------------------------------------------------------------------------
 
-[Next: ON THE ASSERTION OF THE UNITY.](egt12)
+[Next: ON THE ASSERTION OF THE UNITY.](egt12.md)

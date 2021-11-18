@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt44)  [Next](egt46) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt44)  [Next](egt46.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ art, thy reason no longer endures.
 
 ------------------------------------------------------------------------
 
-[Next: ON AFFECTION AND ISOLATION.](egt46)
+[Next: ON AFFECTION AND ISOLATION.](egt46.md)

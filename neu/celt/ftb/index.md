@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ftb00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ftb.txt.gz)
+[Contents](#contents)    [Start Reading](ftb00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ftb.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ the latter. For some reason the Breton fairies seem to have a more
 hostile, darker edge, than elsewhere in the Celtic region...
 
 This book was true find. I had ordered a copy of [Legends and Romances
-of Brittany](../lrb/index), by Lewis Spence, the only readily available
+of Brittany](../lrb/index.md), by Lewis Spence, the only readily available
 Enlish language source on this topic in the public domain that I could
 locate. The same day that the Spence book arrived, this one showed up at
 a local used bookstore--not the first time this kind of serendipity has
@@ -54,22 +54,22 @@ occurred.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ftb00)  
-[Foreword](ftb01)  
-[Contents](ftb02)  
-[Illustrations](ftb03)  
-[The Castle of Comorre](ftb04)  
-[The Basin of Gold and The Diamond Lance](ftb05)  
-[Lady Yolanda's Thimble](ftb06)  
-[The Witch of Lok Island](ftb07)  
-[Little White-Thorn and the Talking Bird](ftb08)  
-[Princess Ahez and the Lost City](ftb09)  
-[The Changeling](ftb10)  
-[The Foster Brother](ftb11)  
-[The Hunchback and the Elves](ftb12)  
-[The Four Gifts](ftb13)  
-[The Magic Rocks and the Beggar](ftb14)  
-[The Country Bumpkin and the Hobgoblin](ftb15)  
-[The Wasp, the Winged Needle and the Spider](ftb16)  
-[Yannik, the Fairy Child](ftb17)  
-[The Hazel Scepter](ftb18)  
+<span id="contents"></span> [Title Page](ftb00.md)  
+[Foreword](ftb01.md)  
+[Contents](ftb02.md)  
+[Illustrations](ftb03.md)  
+[The Castle of Comorre](ftb04.md)  
+[The Basin of Gold and The Diamond Lance](ftb05.md)  
+[Lady Yolanda's Thimble](ftb06.md)  
+[The Witch of Lok Island](ftb07.md)  
+[Little White-Thorn and the Talking Bird](ftb08.md)  
+[Princess Ahez and the Lost City](ftb09.md)  
+[The Changeling](ftb10.md)  
+[The Foster Brother](ftb11.md)  
+[The Hunchback and the Elves](ftb12.md)  
+[The Four Gifts](ftb13.md)  
+[The Magic Rocks and the Beggar](ftb14.md)  
+[The Country Bumpkin and the Hobgoblin](ftb15.md)  
+[The Wasp, the Winged Needle and the Spider](ftb16.md)  
+[Yannik, the Fairy Child](ftb17.md)  
+[The Hazel Scepter](ftb18.md)  

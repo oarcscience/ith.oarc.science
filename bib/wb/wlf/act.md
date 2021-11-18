@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](joh)  [Next](rom) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](joh)  [Next](rom.md) 
 
 ------------------------------------------------------------------------
 
@@ -3514,4 +3514,4 @@ mbirum Boroom bi Yeesu Kirist ak fit wu dëgër, te kenn terewu ko ko.
 
 ------------------------------------------------------------------------
 
-[Next: Romans](rom)
+[Next: Romans](rom.md)

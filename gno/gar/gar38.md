@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar37)  [Next](gar39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar37)  [Next](gar39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ xli. 43), where Pharaoh commands that Joseph shall ride in his own
 chariot, and that they shall cry before him *Abrak*, "kneel down!" where
 the Coptic word is actually retained in the Hebrew text, and not
 rendered by an equivalent in that language. <span
-id="fr_145"></span>[\*](#fn_144) A precedent for expressing a sacred
+id="fr_145"></span>[\*](#fn_144.md) A precedent for expressing a sacred
 title in an unknown tongue is furnished by St. John (Rev. xix. 12): "His
 eyes were as a flame of fire, and upon his head were many crowns, and he
 had a *name* written (upon them) that *no man knew* but himself: and he
@@ -96,11 +96,11 @@ was their joy."
 
 ### Footnotes
 
-<span id="fn_144"></span>[252:\*](gar38.htm#fr_145) Sharpe, however,
+<span id="fn_144"></span>[252:\*](gar38.htm#fr_145.md) Sharpe, however,
 makes *Abrasax* a pure Egyptian phrase, signifying "Hurt me not," as
 addressed to the deity represented on the gem.--('Egypt. Mythol.' p.
 xii.)
 
 ------------------------------------------------------------------------
 
-[Next: VI. Abraxas--Its Numerical Force](gar39)
+[Next: VI. Abraxas--Its Numerical Force](gar39.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth06) 
-[Next](dth08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth06.md) 
+[Next](dth08.md) 
 
 ------------------------------------------------------------------------
 
@@ -299,7 +299,7 @@ prosperity and plenty, then first deny poverty and want, so as to get
 the mind ready for the affirmation "I am success; prosperity and plenty
 are already mine."
 
-But, you [exclaim](errata.htm#13), how can I truthfully affirm that I am
+But, you [exclaim](errata.htm#13.md), how can I truthfully affirm that I am
 that which I know myself not to be? The answer is: There are two YOUS.
 There is the finite, outside, surface, material YOU, and there is the
 great
@@ -489,4 +489,4 @@ conviction.
 
 ------------------------------------------------------------------------
 
-[Next: Part VII](dth08)
+[Next: Part VII](dth08.md)

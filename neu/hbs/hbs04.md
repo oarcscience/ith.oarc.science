@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs03) [Next](hbs05)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs03) [Next](hbs05.md)
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Sagas](../index) [Index](index) [Previous](hbs03) [Next](hbs05)
 position, in the ballad literature of Europe. Of them Jacob Grimm wrote:
 “They would, if well known, astonish Europe,” and “in them breathes a
 clear and inborn poetry such as can scarcely be found among any other
-modern people.”<span id="page_1_fr_1"></span>[1](#page_1_note_1) The
+modern people.”<span id="page_1_fr_1"></span>[1](#page_1_note_1.md) The
 origin of this popular literature goes back to a period of which no
 written record exists; its known history dates from the fourteenth
 century, since which time it is absolutely continuous. And in Servia,
@@ -37,7 +37,7 @@ the popular mind by its heroic exploits than by its piety in founding
 churches and monasteries (cf. p. 28). The surviving ballads of the
 cycle, which are few in number, are represented in this volume by *Urosh
 and the Sons of Marnyáva*<span
-id="page_2_fr_1"></span>[1](#page_2_note_1) and *The Building of
+id="page_2_fr_1"></span>[1](#page_2_note_1.md) and *The Building of
 Skadar*. After the death of the great tsar Stepan Dushan in 1356, his
 son, the weak Urosh, came to the throne, but was unable to preserve his
 authority intact. The leader of the revolting chieftains was King
@@ -64,7 +64,7 @@ tongues as wishing to betray him.” An anonymous Italian writer (about
 wishing to betray him, and how Milosh replied that the event would prove
 his truth or treason; the same source states that on the battlefield
 there was a report of the treachery of a voývoda<span
-id="page_3_fr_1"></span>[1](#page_3_note_1) named Drágoslav Príbishich.
+id="page_3_fr_1"></span>[1](#page_3_note_1.md) named Drágoslav Príbishich.
 Finally Mauro Orbini in his *Regno de gli Slavi* (1601) for the first
 time ascribes the betrayal of Lazar to his son-in-law Vuk Bránkovich,
 whose fair fame is thus wrongfully besmirched. Orbini makes Milosh, like
@@ -72,7 +72,7 @@ Vuk, the son-in-law of Lazar, and tells of the origin of the enmity of
 the two men in a quarrel between their wives Mara and Vúkosava; in other
 words, he gives the Kósovo legend in practically its complete form, as
 it is found in the ballads here printed.<span
-id="page_3_fr_2"></span>[2](#page_3_note_2) It is, however, probably the
+id="page_3_fr_2"></span>[2](#page_3_note_2.md) It is, however, probably the
 product of popular <span id="page_4">p. 4</span> tradition, not of
 Orbini and his predecessors.
 
@@ -83,7 +83,7 @@ represent varying traditions; thus the accounts of Lazar’s church in
 consistent with each other. They depart widely from historical truth,
 making Vukáshin, for example, who died in 1871, and Ertseg Stepan, who
 belongs to a later period, both take part in the battle of Kósovo.<span
-id="page_4_fr_1"></span>[1](#page_4_note_1)
+id="page_4_fr_1"></span>[1](#page_4_note_1.md)
 
  These Kósovo songs are emphatically not fragments of a primitive epic,
 but ballads dealing with detached episodes. The attempts that have been
@@ -131,7 +131,7 @@ inhabitants fled to Dalmatia and Klis \[near Salona\], and after the
 fall of Klis (1537) they went to Zengg \[Senye in the ballads\] on the
 Croatian seacoast, in order, as hired soldiers of the emperor, to defend
 the country from Turkish marauding bands: these are the
-*fugitives*.”<span id="page_6_fr_1"></span>[1](#page_6_note_1) A special
+*fugitives*.”<span id="page_6_fr_1"></span>[1](#page_6_note_1.md) A special
 cycle of ballads glorifies these “fugitives,” of whom Ivo of Senye, who
 lived about 1600, is the chief hero. With this cycle may be grouped the
 ballads of the “seacoast heroes,” who, however, are not in the strict
@@ -152,7 +152,7 @@ sing in a realistic fashion <span id="page_7">p. 7</span> the wars of
 the Montenegrins with the Turks; they celebrate only real persons, and
 when they mention even unimportant actors, always preserve the
 topography of their doings accurately and consistently. In them women
-play no part.”<span id="page_7_fr_1"></span>[1](#page_7_note_1)
+play no part.”<span id="page_7_fr_1"></span>[1](#page_7_note_1.md)
 
  The ballads lacking historical foundation are of the most varied sort.
 Thus *The Serpent Bridegroom* and *Sister and Brother* are versified
@@ -185,7 +185,7 @@ Yă kād tākŏ svādbŭ urēdĭshĕ.<br />
 
 When the ballads are *sung*, the prose accents are set aside, and the
 lines become regular trochaic pentameter.<span
-id="page_7_fr_2"></span>[2](#page_7_note_2)
+id="page_7_fr_2"></span>[2](#page_7_note_2.md)
 
 <span id="page_8">p. 8</span>
 
@@ -227,7 +227,7 @@ and with most zest in Bosnia, Herzegovina, Montenegro, and the southern,
 mountainous regions of <span id="page_9">p. 9</span> Servia. In these
 places even to-day almost every house has its gusle, and it is hard to
 find a man who does not know how to play it, and many women and girls
-know how.”<span id="page_9_fr_1"></span>[1](#page_9_note_1) In the lower
+know how.”<span id="page_9_fr_1"></span>[1](#page_9_note_1.md) In the lower
 regions the gusle grows less common, until it finally becomes the
 peculiar possession of blind beggars, who sing the songs at fairs and
 church festivals.
@@ -255,14 +255,14 @@ not brought from elsewhere, but arose on the spot from an event of a few
 days ago; but when even a year has passed since the event and the
 ballad, or when a ballad is heard of an event of yesterday, but of a
 distant locality, no one even thinks of asking about its origin.”<span
-id="page_10_fr_1"></span>[1](#page_10_note_1)
+id="page_10_fr_1"></span>[1](#page_10_note_1.md)
 
  
 
  A few words are due the memory of the great collector of the Servian
 national songs, Vuk Stefánovich Karájich (1787-1864), from whose work
 all but one of the ballads in the present volume have been
-translated.<span id="page_10_fr_2"></span>[2](#page_10_note_2) Born of a
+translated.<span id="page_10_fr_2"></span>[2](#page_10_note_2.md) Born of a
 peasant family, under Turkish rule, Vuk early learned to read and write,
 and while still a boy served as a scribe to Black George, the leader of
 the Servian revolt. Owing to an illness he became a cripple and was
@@ -324,7 +324,7 @@ secondary accents.
 
 ------------------------------------------------------------------------
 
-[Next](hbs05)
+[Next](hbs05.md)
 
 ------------------------------------------------------------------------
 
@@ -332,55 +332,55 @@ secondary accents.
 
 <span id="footnotes_page_1">p. 1</span>
 
-<span id="page_1_note_1"></span>[1](#page_1_fr_1) Quoted by Vogl, *Marko
+<span id="page_1_note_1"></span>[1](#page_1_fr_1.md) Quoted by Vogl, *Marko
 Kraljevits*, p. iii.
 
 <span id="footnotes_page_2">p. 2</span>
 
-<span id="page_2_note_1"></span>[1](#page_2_fr_1) This ballad is here
+<span id="page_2_note_1"></span>[1](#page_2_fr_1.md) This ballad is here
 printed as the first of those dealing with Prince Marko, with which also
 it may be classed.
 
 <span id="footnotes_page_3">p. 3</span>
 
-<span id="page_3_note_1"></span>[1](#page_3_fr_1) Duke, lord.
+<span id="page_3_note_1"></span>[1](#page_3_fr_1.md) Duke, lord.
 
-<span id="page_3_note_2"></span>[2](#page_3_fr_2) The story of the
+<span id="page_3_note_2"></span>[2](#page_3_fr_2.md) The story of the
 quarrel of Mara and Vúkosava is not, however, included in this volume.
 
 <span id="footnotes_page_4">p. 4</span>
 
-<span id="page_4_note_1"></span>[1](#page_4_fr_1) This topic is
+<span id="page_4_note_1"></span>[1](#page_4_fr_1.md) This topic is
 discussed by H. Munro Chadwick, *The Heroic Age* (Cambridge, 1912), pp.
 818-819.
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="page_6_note_1"></span>[1](#page_6_fr_1) Quoted by Pópovich
+<span id="page_6_note_1"></span>[1](#page_6_fr_1.md) Quoted by Pópovich
 without indication of source.
 
 <span id="footnotes_page_7">p. 7</span>
 
-<span id="page_7_note_1"></span>[1](#page_7_fr_1) Pópovich.
+<span id="page_7_note_1"></span>[1](#page_7_fr_1.md) Pópovich.
 
-<span id="page_7_note_2"></span>[2](#page_7_fr_2) Karájich, Preface to
+<span id="page_7_note_2"></span>[2](#page_7_fr_2.md) Karájich, Preface to
 second edition of *Servian National Songs*, 1824 (in government edition,
 1891).
 
 <span id="footnotes_page_9">p. 9</span>
 
-<span id="page_9_note_1"></span>[1](#page_9_fr_1) *Ibid*.
+<span id="page_9_note_1"></span>[1](#page_9_fr_1.md) *Ibid*.
 
 <span id="footnotes_page_10">p. 10</span>
 
-<span id="page_10_note_1"></span>[1](#page_10_fr_1) *Ibid*. Acquaintance
+<span id="page_10_note_1"></span>[1](#page_10_fr_1.md) *Ibid*. Acquaintance
 with these simple statements by Karájich as to conditions with which he
 was familiar, in a country where ballads are still a living force, might
 have saved writers on English balladry from much empty theorizing.
 Despite the prevailing anonymity, the authorship of some of the modern
 ballads is known with reasonable certainty: see p. 225, note.
 
-<span id="page_10_note_2"></span>[2](#page_10_fr_2) The one exception is
+<span id="page_10_note_2"></span>[2](#page_10_fr_2.md) The one exception is
 the ballad *How Milosh Killed the Sultan Murad*, which is from a small
 volume, *Boj na Kosovu*, published at Allegheny, Pennsylvania, no date.
 

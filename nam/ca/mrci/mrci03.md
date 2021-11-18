@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mrci02)  [Next](mrci04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mrci02)  [Next](mrci04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Mission Record of the California Indians*, by A.L. Kroeber, \[1908\],
 at Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ at Intangible Textual Heritage
 #### *San Luis Rey*.
 
 The language of this mission is called Lamancus. <span
-id="fr_14"></span>[15](#fn_14)
+id="fr_14"></span>[15](#fn_14.md)
 
 Fights arise over any sort of trifle, and they readily kill one another.
 
@@ -27,7 +27,7 @@ burn their dead.
 
 We have not observed any other idolatry among these Indians than that
 connected with certain birds which they call azuts, which really are a
-kind of very large vulture. <span id="fr_15"></span>[16](#fn_15) At the
+kind of very large vulture. <span id="fr_15"></span>[16](#fn_15.md) At the
 right time, while still small, they take them from the nest (according
 to what they say there are never more than two), and he who has captured
 them presents them with many carabanas to the chief of the village. The
@@ -66,11 +66,11 @@ extract anything else than that thus their ancestors made it.
 
 In order to win in their games of obligations (empeño) they drink a
 liquid which they call mani, made from the root of toloache pounded and
-mixed with water. <span id="fr_16"></span>[17](#fn_16) This drink
+mixed with water. <span id="fr_16"></span>[17](#fn_16.md) This drink
 renders them inebriated, and at times they give forth what they have in
 the stomach. In the state of intelligence, from which they depart with
 this nonsense, they say that because the other fasted and drank
-more. <span id="fr_17"></span>[18](#fn_17)
+more. <span id="fr_17"></span>[18](#fn_17.md)
 
  
 
@@ -86,7 +86,7 @@ loud outcries, making noises by clapping their hands and in other ways.
 On being asked the reason, they have always answered us that they
 believe that an animal was trying to eat the sun or the moon, and that
 they did these extreme things in order to frighten him, thinking that if
-he ate them they would all perish. <span id="fr_18"></span>[19](#fn_18)
+he ate them they would all perish. <span id="fr_18"></span>[19](#fn_18.md)
 
  
 
@@ -119,7 +119,7 @@ Castile, husla; of wild
 <span id="page_10">p. 10</span>
 
 cane, hiquix; and of the plant called hial. <span
-id="fr_19"></span>[20](#fn_19) They say that these drinks are all
+id="fr_19"></span>[20](#fn_19.md) They say that these drinks are all
 purgatives, and the root of the mangle also very provocative to
 vomiting. They do not make use of blood-letting. They have certain
 doctors (curanderos), who suck the sick person wherever he feels most
@@ -145,28 +145,28 @@ more than what they cannot deny.
 
 They have an idea of a rational soul, which they call chamson, and
 believe that when they die this goes below to tolmar, <span
-id="fr_20"></span>[21](#fn_20) where all come together and live forever
+id="fr_20"></span>[21](#fn_20.md) where all come together and live forever
 in much happiness. With this they have, however, no idea of reward or
-punishment. <span id="fr_21"></span>[22](#fn_21)
+punishment. <span id="fr_21"></span>[22](#fn_21.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_14"></span>[6:15](mrci03.htm#fr_14) With San Luis Rey we
+<span id="fn_14"></span>[6:15](mrci03.htm#fr_14.md) With San Luis Rey we
 enter Shoshonean territory, in which the three following missions were
 also situated. The Luiseño are the only group of California Indians
 besides the Diegueño to have been brought under mission control and to
 survive in any numbers. The account here given is probably from the pen
 of Father Antonio Peyri, who was for many years identified with San Luis
 Rey. Father Geronimo Boscana, author of the important account of the
-religion and customs of the neighboring San [Juan](errata.htm#0)
+religion and customs of the neighboring San [Juan](errata.htm#0.md)
 Capistrano Indians (in A. Robinson, Life in California, 1846), was at
 San Luis Rey from 1812 to 1813. The name Lamancus is not known. The only
 native name ordinarily given for this language, or the allied dialect of
 San Juan Capistrano, is Ne-tela, my speech, or Cham-tela, our speech.
 
-<span id="fn_15"></span>[7:16](mrci03.htm#fr_15) Azuts are really not
+<span id="fn_15"></span>[7:16](mrci03.htm#fr_15.md) Azuts are really not
 vultures, that is, condors, but eagles. Ashwut is Luiseño for eagle,
 yungavaiwot for condor. The author's Luiseño and Diegueño informants
 always mentioned the eagle as the bird connected with this ceremony.
@@ -183,7 +183,7 @@ remembrance of a chief, in which one man wearing the palat dances alone,
 is called Morahash. The boys here described as wearing the eagle-feather
 skirt were probably initiates of the puberty ceremonials.
 
-<span id="fn_16"></span>[8:17](mrci03.htm#fr_16) The drinking of *Datura
+<span id="fn_16"></span>[8:17](mrci03.htm#fr_16.md) The drinking of *Datura
 meteloides*, the common jimson-weed, Spanish toloache, is the most
 important act of an initiation ceremony for boys, held formerly by
 probably all the Indians of California that today are known as Mission
@@ -206,24 +206,24 @@ successful in worldly matters. The plant is called mani, manit, or
 manich by all the Shoshoneans of Southern California, except the
 Cahuilla, who name it kiksawal.
 
-<span id="fn_17"></span>[8:18](mrci03.htm#fr_17) The manuscript reading
+<span id="fn_17"></span>[8:18](mrci03.htm#fr_17.md) The manuscript reading
 is confused here, apparently through an omission: cuya bevida los pone
 ebrios y veces provocan quanto tienen en el estomago, en la
 inteligencia, que se con este disparate pierden, dicen que porque el
 otro ayunó y bevió mas.
 
-<span id="fn_18"></span>[9:19](mrci03.htm#fr_18) Compare the same
+<span id="fn_18"></span>[9:19](mrci03.htm#fr_18.md) Compare the same
 statement below regarding the San Juan Capistrano Indians, and what
 Boscana says on page 298. Compare also the prayer or formula sung by the
 Tachi Yokuts at an eclipse of the sun, present series, II, 374.
 
-<span id="fn_19"></span>[10:20](mrci03.htm#fr_19) The Luiseño dictionary
+<span id="fn_19"></span>[10:20](mrci03.htm#fr_19.md) The Luiseño dictionary
 of P. S. Sparkman gives pivut, a rush, *Juncus mertensianus;* kashil,
 white sage; navut, prickly pear; enwish, chilicothe, *Echinocystis
 macrocarpa;* kutpat, elder; ushla, wild rose; huikish, *Elymus
 condensatus*, a species of cane used for arrows.
 
-<span id="fn_20"></span>[10:21](mrci03.htm#fr_20) Chamson means "our
+<span id="fn_20"></span>[10:21](mrci03.htm#fr_20.md) Chamson means "our
 heart," from cham-, the possessive prefix of the first person plural,
 and -sun or -shun, heart. The analogous term nu-shun was given the
 writer by a Luiseño informant as meaning my soul, "alma mia." Boscana,
@@ -231,9 +231,9 @@ writer by a Luiseño informant as meaning my soul, "alma mia." Boscana,
 The Sparkman Luiseño dictionary translates tolmal as a place in the
 center of the earth where some people go after death.
 
-<span id="fn_21"></span>[10:22](mrci03.htm#fr_21) In which they agree
+<span id="fn_21"></span>[10:22](mrci03.htm#fr_21.md) In which they agree
 with almost all Indians.
 
 ------------------------------------------------------------------------
 
-[Next: San Juan Capistrano](mrci04)
+[Next: San Juan Capistrano](mrci04.md)

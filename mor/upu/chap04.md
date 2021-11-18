@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap03) [Next](chap05)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap03) [Next](chap05.md)
 
 ------------------------------------------------------------------------
 
@@ -390,4 +390,4 @@ said, sincerely: "Not my will, O Lord, but Thine, be done!"
 
 ------------------------------------------------------------------------
 
-[Next: V On the Road to Freedom](chap05)
+[Next: V On the Road to Freedom](chap05.md)

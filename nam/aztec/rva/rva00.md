@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Next](rva01) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Next](rva01.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,30 +68,30 @@ investigators.
 |                                                     |      |
 |-----------------------------------------------------|------|
 |                                                     | PAGE |
-| [PREFACE](#pref)                                    | iii  |
-| [INTRODUCTION](#intro)                              | ix   |
-| [I. HYMN OF HUITZILOPOCHTLI](rva01)                 | 15   |
-| [II. WAR SONG OF THE HUITZNAHUAC](rva02)            | 19   |
-| [III. HYMN OF TLALOC](rva03)                        | 22   |
-| [IV. HYMN TO THE ALL-MOTHER](rva04)                 | 27   |
-| [V. HYMN TO THE VIRGIN MOTHER](rva05)               | 31   |
-| [VI. HYMN TO THE GOD OF FIRE](rva06)                | 33   |
-| [VII. HYMN OF MIXCOATL](rva07)                      | 36   |
-| [VIII. HYMN TO THE GOD OF FLOWERS](rva08)           | 39   |
-| [IX. HYMN TO THE GODDESS OF ARTISTS](rva09)         | 41   |
-| [X. HYMN TO THE GOD OF FISHING](rva10)              | 43   |
-| [XI. HYMN OF THE OTOMI LEADER](rva11)               | 45   |
-| [XII. HYMN TO THE GODDESS OF CHILDBIRTH](rva12)     | 47   |
-| [XIII. HYMN TO THE MOTHER OF MORTALS](rva13)        | 49   |
-| [XIV. HYMN SUNG AT A FAST EVERY EIGHT YEARS](rva14) | 52   |
-| [XV. HYMN TO A NIGHT GOD](rva15)                    | 56   |
-| [XVI. HYMN TO THE GODDESS OF FOOD](rva16)           | 59   |
-| [XVII. HYMN TO THE GODS OF WINE](rva17)             | 61   |
-| [XVIII. HYMN TO THE MASTER OF WATERS](rva18)        | 63   |
-| [XIX. HYMN TO THE GOD OF FLOWERS](rva19)            | 65   |
-| [XX. HYMN TO THE GOD OF MERCHANTS](rva20)           | 67   |
-| [GLOSSARY](rvagloss)                                | 69   |
-| [INDEX](rvaidx)                                     | 89   |
+| [PREFACE](#pref.md)                                    | iii  |
+| [INTRODUCTION](#intro.md)                              | ix   |
+| [I. HYMN OF HUITZILOPOCHTLI](rva01.md)                 | 15   |
+| [II. WAR SONG OF THE HUITZNAHUAC](rva02.md)            | 19   |
+| [III. HYMN OF TLALOC](rva03.md)                        | 22   |
+| [IV. HYMN TO THE ALL-MOTHER](rva04.md)                 | 27   |
+| [V. HYMN TO THE VIRGIN MOTHER](rva05.md)               | 31   |
+| [VI. HYMN TO THE GOD OF FIRE](rva06.md)                | 33   |
+| [VII. HYMN OF MIXCOATL](rva07.md)                      | 36   |
+| [VIII. HYMN TO THE GOD OF FLOWERS](rva08.md)           | 39   |
+| [IX. HYMN TO THE GODDESS OF ARTISTS](rva09.md)         | 41   |
+| [X. HYMN TO THE GOD OF FISHING](rva10.md)              | 43   |
+| [XI. HYMN OF THE OTOMI LEADER](rva11.md)               | 45   |
+| [XII. HYMN TO THE GODDESS OF CHILDBIRTH](rva12.md)     | 47   |
+| [XIII. HYMN TO THE MOTHER OF MORTALS](rva13.md)        | 49   |
+| [XIV. HYMN SUNG AT A FAST EVERY EIGHT YEARS](rva14.md) | 52   |
+| [XV. HYMN TO A NIGHT GOD](rva15.md)                    | 56   |
+| [XVI. HYMN TO THE GODDESS OF FOOD](rva16.md)           | 59   |
+| [XVII. HYMN TO THE GODS OF WINE](rva17.md)             | 61   |
+| [XVIII. HYMN TO THE MASTER OF WATERS](rva18.md)        | 63   |
+| [XIX. HYMN TO THE GOD OF FLOWERS](rva19.md)            | 65   |
+| [XX. HYMN TO THE GOD OF MERCHANTS](rva20.md)           | 67   |
+| [GLOSSARY](rvagloss.md)                                | 69   |
+| [INDEX](rvaidx.md)                                     | 89   |
 
 {p. vii}
 
@@ -99,11 +99,11 @@ investigators.
 
 |                                                                    |              |
 |--------------------------------------------------------------------|--------------|
-| [XIPPE TOTEC, GOD OF SILVERSMITHS, IN FULL COSTUME](rva00.jpg)     | FRONTISPIECE |
-| [PRIEST OF XIPPE TOTEC, DRINKING AND PLAYING ON A DRUM](rva01.jpg) | HYMN XV      |
-| [CHICOMECOATL, GODDESS OF FOOD AND DRINK](rva02.jpg)               | HYMN XVI     |
-| [TOTOCHTIN, THE RABBITS, GODS OF THE DRUNKARDS](rva03.jpg)         | HYMN XVII    |
-| [ATLAUA, SINGING AND DANCING HYMN](rva04.jpg)                      | XVIII        |
+| [XIPPE TOTEC, GOD OF SILVERSMITHS, IN FULL COSTUME](rva00.jpg.md)     | FRONTISPIECE |
+| [PRIEST OF XIPPE TOTEC, DRINKING AND PLAYING ON A DRUM](rva01.jpg.md) | HYMN XV      |
+| [CHICOMECOATL, GODDESS OF FOOD AND DRINK](rva02.jpg.md)               | HYMN XVI     |
+| [TOTOCHTIN, THE RABBITS, GODS OF THE DRUNKARDS](rva03.jpg.md)         | HYMN XVII    |
+| [ATLAUA, SINGING AND DANCING HYMN](rva04.jpg.md)                      | XVIII        |
 
 {p. ix}
 
@@ -208,4 +208,4 @@ to unravel its manifold difficulties.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Hymn of Huitzilopochtli.](rva01) 
+[Next: I. The Hymn of Huitzilopochtli.](rva01.md) 

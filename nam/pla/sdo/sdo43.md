@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo42)  [Next](sdo44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo42)  [Next](sdo44.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ She will provide us with all things."
 
 ------------------------------------------------------------------------
 
-[Next: Rites of the Ear of Corn](sdo44)
+[Next: Rites of the Ear of Corn](sdo44.md)

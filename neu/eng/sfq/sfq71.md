@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq70)  [Next](sfq72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq70)  [Next](sfq72.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ the fate which the wretched Duessa had brought on herself.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventure of the Tyrant Grantorto](sfq72)
+[Next: The Adventure of the Tyrant Grantorto](sfq72.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl155)  [Next](cohl157) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl155)  [Next](cohl157.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ drum and horn rattles. All Seneca dances are counterclockwise.
 
 ------------------------------------------------------------------------
 
-[Next: The Buffalo Society](cohl157)
+[Next: The Buffalo Society](cohl157.md)

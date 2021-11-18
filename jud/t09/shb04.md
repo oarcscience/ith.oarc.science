@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shb03)  [Next](shb05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shb03)  [Next](shb05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -49,7 +49,7 @@ meat; and then again: This fish be equal to this bread. In
 <span id="page_28">p. 28</span>
 
 such a case if swearing by *comparing* one object to another is an oath,
-each thing is prohibited). <span id="fr_8"></span>[1](#fn_8)
+each thing is prohibited). <span id="fr_8"></span>[1](#fn_8.md)
 
 But whence do we know that the expression *Mib'ta* is an oath? From
 \[Lev. v. 4\]: "Or if any person swear, by pronouncing with his lips
@@ -117,7 +117,7 @@ signification as above; as there is a Boraitha: *Zachor*, ye shall
 remember (in the first ten commandments) and *Shamar*, ye shall observe
 the Sabbath (in the last ten commandments) were uttered by the Lord in
 one word, which transcends the power of the human mouth and ear. <span
-id="fr_9"></span>[1](#fn_9) But what does this Boraitha teach us
+id="fr_9"></span>[1](#fn_9.md) But what does this Boraitha teach us
 thereby? The following: just as stripes are applied to a false, so they
 are also to a vain oath. But is not this self-evident, as both are
 negatives? Lest one say that it is as R. Papa- said to Abayi (further
@@ -155,7 +155,7 @@ deliberated as to how should be the case? If one swears, I will not eat
 and did eat, then there is an act done, hence it is in the category of
 negatives with manual act; again, if he swears, I will eat but did not
 eat, it is a case to which stripes do not apply according to both R.
-Johanan and Resh Lakish? (above [p. 25](shb03.htm#page_25)). Upon due
+Johanan and Resh Lakish? (above [p. 25](shb03.htm#page_25).md). Upon due
 deliberation, however, R. Abuhu decided that it means an oath referring
 to the past, *e.g.*, I swear that I have eaten, and be did not eat, or
 *vice versa*; and though there is no manual labor here stripes apply, as
@@ -250,7 +250,7 @@ Scripture that the expression eat includes also drinking--viz.: in
 \[Deut. xiv. 16\]: "In cattle, sheep, wine . . . and thou shalt eat
 these." But perhaps it means there an *aino garum* (a dish in which wine
 is mixed)? The verse says further *Shechor* <span
-id="fr_10"></span>[1](#fn_10) (old wine), which means an intoxicating
+id="fr_10"></span>[1](#fn_10) (old wine.md), which means an intoxicating
 beverage. Neither can it here be spoken of a date of the City of
 Kehilla, which when eaten intoxicates and regarding which a Boraitha
 says that one who had eaten it and then entered the sanctuary is
@@ -366,7 +366,7 @@ resting upon the grapes, rests again upon the figs, too. But is not this
 self-evident? Lest one say that this theory applies only to prohibitions
 in themselves, and not to such made by man upon himself, he comes to
 teach us that there is no difference between the two cases. <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 MISHNA *III*.: It is immaterial whether the things sworn off concern
 himself or others; whether they are or are not of some essential nature.
@@ -448,7 +448,7 @@ is fit to testify, knows the case, and nevertheless denied it before the
 court, he is liable twice, for the witness-oath and for an uttered
 oath). Said Abayi to them: It is impossible to make one liable twice, as
 it reads plainly \[Lev. v. 4\]: "That he hath incurred guilt by
-*one* <span id="fr_12"></span>[1](#fn_12) of these," which means, he can
+*one* <span id="fr_12"></span>[1](#fn_12.md) of these," which means, he can
 be punished once but not twice. But, then, to what other purpose have
 the witness-oaths been excluded, according to Abayi? To what we have
 learned in the following: Concerning all oaths it reads "escaped his
@@ -597,11 +597,11 @@ have learned elsewhere, a sin-offering applies only to such a case where
 he would abstain from eating if he recollected his oath, but not
 otherwise; while here, being, as he is, impelled by hunger, he would not
 abstain, it cannot be considered unintentional. <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
 Samuel said: It is not sufficient that one make up his mind, he must
 pronounce it with his lips, as it reads "By pronouncing with his
-lips." <span id="fr_14"></span>[2](#fn_14)
+lips." <span id="fr_14"></span>[2](#fn_14.md)
 
 <span id="page_41">p. 41</span>
 
@@ -657,13 +657,13 @@ light of these considerations, this expression cannot treat of voluntary
 acts, either, where good and evil means to do good and evil unto one's
 self respectively, hence, here, too, good would in some respects be evil
 (as, *e.g.*, the oath not to eat a harmful thing) and *vice
-versa*? <span id="fr_15"></span>[1](#fn_15) Therefore we must say that,
+versa*? <span id="fr_15"></span>[1](#fn_15.md) Therefore we must say that,
 because it was needful to the Scripture to use the disjunction "or" in
 order to indicate doing good to others, it must treat of voluntary acts;
 since if it treated of commandments, the "or" would not be necessary, as
 it would be self-evident, for as the doing evil to others is included
 here, so much the more the doing good!  <span
-id="fr_16"></span>[2](#fn_16)
+id="fr_16"></span>[2](#fn_16.md)
 
 "*R. Jehudah b. Bathira*," etc. Is not the argument of the rabbis
 against R. Jehudah b. Bathira correct? He may say thus: Let us see; was
@@ -714,7 +714,7 @@ place.
 
 Rabba said: If one says, I swear not to eat *this* bread in case I eat
 the other, and it happened that he ate the first <span
-id="fr_17"></span>[1](#fn_17) (1) erroneously and the second
+id="fr_17"></span>[1](#fn_17) (1.md) erroneously and the second
 intentionally, he is free (2); if *vice versa*, he is culpable (3);
 furthermore, if he ate both unintentionally, he is free (4); if both
 intentionally, it depends on the following: if he had eaten the
@@ -792,7 +792,7 @@ this pillar was of stone.
 negative and not a positive expression? Said Abayi: Read it in the
 positive, if you prefer. Rabha, however, said: It speaks thus: If he
 says, all the fruit in the world be forbidden to me, if I have
-not, <span id="fr_18"></span>[1](#fn_18) etc.
+not, <span id="fr_18"></span>[1](#fn_18.md) etc.
 
 "*I will eat, I will not eat*," etc. Let us see: since he is liable for
 the uttered oath, shall he not be liable for the vain one? He *has*
@@ -823,7 +823,7 @@ are a Mishna and a Boraitha which seem to teach the same. The Mishna is
 the next following (viii.): The witness-oath . . . unless they deny
 before the court; such is R. Mair's view. Then the illustration in the
 Boraitha: If one said to the witnesses, Come and testify for me, and
-they answer: We swear that we know of [no testimony](errata.htm#42) for
+they answer: We swear that we know of [no testimony](errata.htm#42.md) for
 you, or, We do not know any testimony, whereto he says, I adjure you,
 and they answered: Amen, they are liable when they deny it, immaterial
 in the presence or absence of the court; so R. Mair. Hence, the Boraitha
@@ -846,36 +846,36 @@ others, he must also utter with his lips Amen.
 
 ### Footnotes
 
-<span id="fn_8"></span>[28:1](shb04.htm#fr_8) This illustration is taken
+<span id="fn_8"></span>[28:1](shb04.htm#fr_8.md) This illustration is taken
 from 'Hanannel, as Rashi's illustration here is too complicated.
 
-<span id="fn_9"></span>[29:1](shb04.htm#fr_9) The continuation of this
+<span id="fn_9"></span>[29:1](shb04.htm#fr_9.md) The continuation of this
 will be translated in Tract Benedictions.
 
-<span id="fn_10"></span>[32:1](shb04.htm#fr_10) *Shechor* is old wine
+<span id="fn_10"></span>[32:1](shb04.htm#fr_10.md) *Shechor* is old wine
 and *Shiccor* from the same stem means intoxicated.
 
-<span id="fn_11"></span>[35:1](shb04.htm#fr_11) The discussion following
+<span id="fn_11"></span>[35:1](shb04.htm#fr_11.md) The discussion following
 here, being but repeated from its proper place, is here omitted.
 
-<span id="fn_12"></span>[37:1](shb04.htm#fr_12) Here the word *l'achath*
+<span id="fn_12"></span>[37:1](shb04.htm#fr_12.md) Here the word *l'achath*
 (to one) is taken by the text literally: one; while further on it is
 explained to mean 'to anyone'.
 
-<span id="fn_13"></span>[40:1](shb04.htm#fr_13) The explanation here is
+<span id="fn_13"></span>[40:1](shb04.htm#fr_13.md) The explanation here is
 that of Hanannell's second version, Rashi not being clear on the point.
 
-<span id="fn_14"></span>[40:2](shb04.htm#fr_14) This statement is
+<span id="fn_14"></span>[40:2](shb04.htm#fr_14.md) This statement is
 objected to by many, but the objections are overthrown; and as all this
 discussion is both complicated and unimportant, we omit it.
 
-<span id="fn_15"></span>[42:1](shb04.htm#fr_15) The commentaries on the
+<span id="fn_15"></span>[42:1](shb04.htm#fr_15.md) The commentaries on the
 point are in great perplexity.
 
-<span id="fn_16"></span>[42:2](shb04.htm#fr_16) The discussion here on
+<span id="fn_16"></span>[42:2](shb04.htm#fr_16.md) The discussion here on
 the disjunction "or" is omitted, for it is already given in Sanhedrin.
 
-<span id="fn_17"></span>[43:1](shb04.htm#fr_17) (1) The first, *i.e.*
+<span id="fn_17"></span>[43:1](shb04.htm#fr_17) (1.md) The first, *i.e.*
 the conditioned *A*, the second, *i.e.* the conditioning one *B*. (2)
 Because when he eats *A* he forgot all about *B* and the oath has not
 yet rested upon him, since
@@ -893,9 +893,9 @@ liability to stripes is originally attached only to *B*, hence the
 warning does not effect. (8) Because one of the breads was necessarily
 consumed intentionally.
 
-<span id="fn_18"></span>[45:1](shb04.htm#fr_18) The further development
+<span id="fn_18"></span>[45:1](shb04.htm#fr_18.md) The further development
 of this discussion will appear in its place in N'dairm.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](shb05)
+[Next: Chapter IV](shb05.md)

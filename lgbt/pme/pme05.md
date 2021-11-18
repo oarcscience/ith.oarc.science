@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme04)  [Next](pme06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme04)  [Next](pme06.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ enactments of Constantine: Adultery was first declared to be a capital
 offence the same penalties were inflicted on the passive and active
 guilt of pæderasty; and all criminals, of free or servile condition,
 were either drowned, or beheaded, or cast alive into the, avenging
-flames." <span id="fr_0"></span>[1](#fn_0) Then, without further
+flames." <span id="fr_0"></span>[1](#fn_0.md) Then, without further
 comment, he observes: "The adulterers were spared by the common sympathy
 of mankind; but the lovers of their own sex were pursued by general and
 pious indignation." "Justinian relaxed the punishment at least
@@ -75,7 +75,7 @@ matter, which, like Gibbon, they "touch with reluctance and despatch
 with impatience." Those who are obliged to do so find to their surprise
 that "among the men who are subject to this deplorable vice there are
 even quite intelligent, talented, and highly-placed persons, of
-excellent and even noble character." <span id="fr_1"></span>[1](#fn_1)
+excellent and even noble character." <span id="fr_1"></span>[1](#fn_1.md)
 The
 
 <span id="page_12">p. 12</span>
@@ -91,7 +91,7 @@ of the actor, the tights of the athlete, the gown of the academician.
 It is the common belief that one, and only one, unmentionable act is
 what the lovers seek as the source of their unnatural gratification, and
 that this produces spinal disease, epilepsy, consumption, dropsy, and
-the like.  <span id="fr_2"></span>[1](#fn_2)
+the like.  <span id="fr_2"></span>[1](#fn_2.md)
 
 Nothing can be more mistaken, as the scientifically
 
@@ -100,7 +100,7 @@ Nothing can be more mistaken, as the scientifically
 reported cases of avowed and adult sinners amply demonstrate. Neither do
 they invariably or even usually prefer the *aversa Venus*; nor, when
 this happens, do they exhibit peculiar signs of suffering in
-health. <span id="fr_3"></span>[1](#fn_3) Excess in any venereal
+health. <span id="fr_3"></span>[1](#fn_3.md) Excess in any venereal
 pleasure will produce diseases of nervous exhaustion and imperfect
 nutrition. But the indulgence of inverted sexual instincts within due
 limits, cannot be proved to be especially pernicious. Were it so, the
@@ -113,14 +113,14 @@ inverted passion has to be indulged furtively, spasmodically,
 hysterically; that the repression of it through fear and shame
 frequently leads to habits of self-abuse; and that its unconquerable
 solicitations sometimes convert it from a healthy outlet of the sexual
-nature into a morbid monomania. <span id="fr_4"></span>[2](#fn_4) It is
+nature into a morbid monomania. <span id="fr_4"></span>[2](#fn_4.md) It is
 also true that professional male
 
 <span id="page_14">p. 14</span>
 
 prostitutes, like their female counterparts, suffer from local and
 constitutional disorders, as is only natural. <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 It is the common belief that boys under age are specially liable to
 corruption. This error need not be confuted here. Anyone who chooses to
@@ -167,9 +167,9 @@ seen walking with soldiers.
 
 ### Footnotes
 
-<span id="fn_0"></span>[9:1](pme05.htm#fr_0) Vindices Flammæ.
+<span id="fn_0"></span>[9:1](pme05.htm#fr_0.md) Vindices Flammæ.
 
-<span id="fn_1"></span>[11:1](pme05.htm#fr_1) Stieber, "Practisches
+<span id="fn_1"></span>[11:1](pme05.htm#fr_1.md) Stieber, "Practisches
 Lehrbuch der Criminal-Polizei," 1860, cap. 19, quoted by Ulrichs,
 "Araxes," p. 9. It is not necessary to multiply evidences upon a point
 so patent to every man of the world. But I will nevertheless translate a
@@ -188,13 +188,13 @@ lifetime were, as Dante says, "d'un medesmo peccato al mondo lerci."
 Many belonging to the past are notorious; and no good could come of
 mentioning the names of the living.
 
-<span id="fn_2"></span>[12:1](pme05.htm#fr_2) This accusation against
+<span id="fn_2"></span>[12:1](pme05.htm#fr_2.md) This accusation against
 men who feel a sexual inclination fur males loses some of its
 significance when we consider how common the practice of *Venus aversa*
 is among libertines who love women. Parent-Duchatelet asserts that no
 prostitute after a certain age has escaped it. Coffignon, in his book
 on, "La Corruption à Paris" (p. 324), says: "Chaque année, il passe en
-traîtement à l'hôpital de Lourcine une [certaine](errata.htm#0) de
+traîtement à l'hôpital de Lourcine une [certaine](errata.htm#0.md) de
 femmes sodomistes. . . . Je suis persuadé qu'à l’hôpital de St. Lazare
 la proportion des sodomistes est encore beaucoup plus grande. . . . Les
 maîtresses de maison, professant cet odieux principe que la clientèle
@@ -203,10 +203,10 @@ acte de sodomie." Tardieu (Attentats, &c., p. 198) observes: "Chose
 singulière! c'est principalement des rapports conjugaux que se sont
 produits les faits de cette nature."
 
-<span id="fn_3"></span>[13:1](pme05.htm#fr_3) See Casper-Liman, vol. i.,
+<span id="fn_3"></span>[13:1](pme05.htm#fr_3.md) See Casper-Liman, vol. i.,
 p. 182, at the end of Case 71.
 
-<span id="fn_4"></span>[13:2](pme05.htm#fr_4) While studying what
+<span id="fn_4"></span>[13:2](pme05.htm#fr_4.md) While studying what
 Germans call the *Casuistik* of this question in medical, forensic, and
 anthropological works, we often meet with cases where inverted sexuality
 exhibits extraordinary symptoms of apparent craziness--strange
@@ -239,9 +239,9 @@ peculiarly repulsive class of fashionable libertines in Paris called
 of a "gentile ufficiale francese" (Gli amore degli uomini, vol. i. p.
 117).
 
-<span id="fn_5"></span>[14:1](pme05.htm#fr_5) See upon this point
+<span id="fn_5"></span>[14:1](pme05.htm#fr_5.md) See upon this point
 Tardieu, "Attentats aux Mœurs," Rosenbaum, "Die Lustseuche."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Literature--Descriptive](pme06)
+[Next: Chapter III. Literature--Descriptive](pme06.md)

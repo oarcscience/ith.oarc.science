@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto40) 
-[Next](aoto42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto40.md) 
+[Next](aoto42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ The first passage that I will call attention to is "Iliad" <span
 class="smallcaps">I</span>. 455-485, which is as follows:—
 
 <span id="img_23300"></span> ![Extended quote from Iliad (&lt;span
-style=](img/23300.jpg)
+style=](img/23300.jpg.md)
 
 I should perhaps tell the reader that the first Book of the "Iliad" is
 one of the few which modern criticism allows to remain in the possession
@@ -72,7 +72,7 @@ The second of the two passages above referred to is "Iliad" <span
 class="smallcaps">XXIV</span>. 621-651, which runs:—
 
 <span id="img_23400"></span> ![Extended quote from Iliad (&lt;span
-style=](img/23400.jpg)
+style=](img/23400.jpg.md)
 
 Professor Jebb is disposed to attribute "Il." <span
 class="smallcaps">XXIV</span>. to the writer of "Il." <span
@@ -181,7 +181,7 @@ prepared in Nestor's speech (n. 360-368); Homer almost tells us that he
 has had assistance in compiling it, for he invokes the Muse, as he does
 more than once in later Books, and declares that he knows nothing of his
 own knowledge, but depends entirely upon what has been told him <span
-id="fr_87"></span>[\*](#fn_87); the lines quoted or alluded to in the
+id="fr_87"></span>[\*](#fn_87.md); the lines quoted or alluded to in the
 "Odyssey" are far too marked to allow of our doubting that the writer
 knew both catalogues familiarly; I cannot within my limits give them,
 but would call the reader's attention to "Il." <span
@@ -871,10 +871,10 @@ at such length in the foregoing Chapter.
 
 ### Footnotes
 
-<span id="fn_87"></span>[237:\*](aoto41.htm#fr_87) ἡμεῖς δέ κλέος οἶον
+<span id="fn_87"></span>[237:\*](aoto41.htm#fr_87.md) ἡμεῖς δέ κλέος οἶον
 ἀκούομεν, οὐδέ τι ἴδμεν, "Il." ii. 486.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XV. Relation to other Poems of the Trojan Cycle and its
-Development by the Authoress](aoto42)
+Development by the Authoress](aoto42.md)

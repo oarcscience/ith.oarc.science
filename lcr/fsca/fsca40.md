@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca39)  [Next](fsca41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca39)  [Next](fsca41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ at Intangible Textual Heritage
 
 <span id="page_179">p. 179</span>
 
-<span id="img_17900"></span> ![A Harpy, wings disclosed.](img/17900.jpg)
+<span id="img_17900"></span> ![A Harpy, wings disclosed.](img/17900.jpg.md)
 
 ### The Harpy
 
@@ -51,7 +51,7 @@ insatiable hunger." They are<span id="img_18000"></span>
 
 |                                               |
 |-----------------------------------------------|
-| ![The Harpy, Greek sculpture.](img/18000.jpg) |
+| ![The Harpy, Greek sculpture.](img/18000.jpg.md) |
 
 best known from the story of the Argonauts, where they appear as the
 tormentors of the blind king Phineus, whose table they robbed of its
@@ -89,7 +89,7 @@ monsters were impersonations of whirlwinds and storms. The names were:
 
 |                                                                  |
 |------------------------------------------------------------------|
-| ![A Harpy displayed and crowned. German version.](img/18100.jpg) |
+| ![A Harpy displayed and crowned. German version.](img/18100.jpg.md) |
 
 *Azure, a harpy with her wings disclosed, her hair flotant, or, armed of
 the same*. This coat existed in Huntingdon Church in Guillam's time.
@@ -102,7 +102,7 @@ In German heraldry it is termed *jungfraundler*.
 
 |                                        |
 |----------------------------------------|
-| ![Shield of Nüremberg.](img/18101.jpg) |
+| ![Shield of Nüremberg.](img/18101.jpg.md) |
 
 A creature very similar to the harpy (a combination of several badges),
 was one of the favourite devices of Richard III., viz., a falcon with
@@ -110,4 +110,4 @@ the head of a maiden holding the white rose of York.
 
 ------------------------------------------------------------------------
 
-[Next: The Heraldic Pelican](fsca41)
+[Next: The Heraldic Pelican](fsca41.md)

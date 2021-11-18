@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp15) [Next](ycgp17)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp15) [Next](ycgp17.md)
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 Y<span class="small">ANG</span> C<span class="small">HU</span> said:
 
    "Men resemble heaven and earth in that they cherish five
-principles.<span id="page_60_fr_1"></span>[1](#page_60_note_1) Of all
+principles.<span id="page_60_fr_1"></span>[1](#page_60_note_1.md) Of all
 creatures, man is the most skilful. His nails and teeth do not suffice
 to procure him maintenance and shelter. His skin and sinews do not
 suffice to defend him; though running he cannot attain profit nor escape
@@ -37,7 +37,7 @@ universe and the things of the of the universe is a perfect man.
 
 ------------------------------------------------------------------------
 
-[Next](ycgp17)
+[Next](ycgp17.md)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ universe and the things of the of the universe is a perfect man.
 
 <span id="footnotes_page_60">p. 60</span>
 
-<span id="page_60_note_1"></span>[1](#page_60_fr_1) The moral life of
+<span id="page_60_note_1"></span>[1](#page_60_fr_1.md) The moral life of
 men is based on five principles (virtues), benvolence, uprightness,
 propriety, knowledge, and good faith.
 

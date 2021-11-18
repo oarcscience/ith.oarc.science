@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](tpol03)  [Next](tpol05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](tpol03)  [Next](tpol05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path of Light*, by L.D. Barnett, \[1909\], at Intangible Textual
 Heritage
 
@@ -91,6 +91,6 @@ refuge.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Confession of Sin](tpol05)
+[Next: Chapter II. The Confession of Sin](tpol05.md)
 
 </div>

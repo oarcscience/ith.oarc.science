@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](cab07)  [Next](cab09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](cab07)  [Next](cab09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cabala*, by Bernhard Pick, \[1913\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -43,7 +43,7 @@ The Cabalists compared the Talmud to a hard, unfruitful rock, which when
 smitten yields only scanty drops that in the end become a cause of
 controversy; whereas the study of the Cabala is like a fresh gushing
 spring, which one needs only to address to cause it to pour out its
-refreshing contents. <span id="fr_71"></span>[1](#fn_71)
+refreshing contents. <span id="fr_71"></span>[1](#fn_71.md)
 
 And as the Cabalists treated the Talmud, they likewise treated
 philosophy, which defined religious ideas and vindicated religious
@@ -75,7 +75,7 @@ prays, God shakes his head, changes at once his decrees, and abolishes
 heavy judgments. The magical names of God can even deliver the condemned
 and free them from their torments in their place of punishment. In this
 respect we even meet with the doctrine of the Catholic mass for the
-souls. <span id="fr_72"></span>[2](#fn_72) The Book of Psalms with its
+souls. <span id="fr_72"></span>[2](#fn_72.md) The Book of Psalms with its
 songs and prayers was especially considered as a means of producing all
 manner of miracles and magic, as may be seen from the *Sepher Shimmush
 Thehillim* (literally,
@@ -87,9 +87,9 @@ Cabalistic Application of the Psalms"), a fragment of the practical
 Cabala, translated by Gottfried Selig, Berlin, 1788.
 
 This sketch of Professor Wünsche is by no means exaggerated. <span
-id="fr_73"></span>[3](#fn_73) *Mutatis mutandis* we find the cabalistic
+id="fr_73"></span>[3](#fn_73.md) *Mutatis mutandis* we find the cabalistic
 notions among the Chasidim, a sect founded in 1740 by a certain Rabbi
-Israel ben Eliezer Baalshem, <span id="fr_74"></span>[4](#fn_74) also
+Israel ben Eliezer Baalshem, <span id="fr_74"></span>[4](#fn_74.md) also
 called Besht. Baal-Shem made his public appearance about 1740 in Tlusti,
 in the district of Czartkow, from whence he subsequently removed to
 Medziboze, in Podolia. The miraculous cures and prophecies attracted
@@ -105,7 +105,7 @@ youth, he had victoriously struggled with evil spirits, etc.--all of
 
 which may be found in the Book *Shibche ha-Besht*, published in 1815 by
 the grandson of Baal-Shem, Rabbi Bar Linz. Baal-Shem <span
-id="fr_75"></span>[5](#fn_75) and his successors received the name
+id="fr_75"></span>[5](#fn_75.md) and his successors received the name
 *Tsaddik*, "Saint," and his fame attracted multitudes of Jews from all
 parts of Poland, who submitted themselves to his guidance. As long as he
 lived, the sect formed one great whole, of which he was the head. After
@@ -113,7 +113,7 @@ his death, which took place in 1780, it was divided into separate
 congregations, each of which had its own Rabbi or Tsaddik or Saint,
 unreserved devotion to whom is the most important of all the principles
 of the sect. In a word, before Pius IX was declared infallible, the
-Chasidim <span id="fr_76"></span>[6](#fn_76) already had their
+Chasidim <span id="fr_76"></span>[6](#fn_76.md) already had their
 infallible popes, whose number is still very large in Poland, Wallachia,
 Moldavia, Galicia, and Palestine. Of these popes of the Chasidim, a
 modern Jewish writer, the late David Cassel (died 1893), says: "To the
@@ -154,7 +154,7 @@ author of *Iggeret ha-Sodot* or *Epistola Secretorum*, treating of the
 divinity, death, and resurrection of the Messiah, which has been
 ascribed to a certain Nechunjah ben-ha-Kanah, who lived towards the end
 of the second Temple. Another convert was Paul Ricci, <span
-id="fr_77"></span>[7](#fn_77) of the sixteenth century, the friend of
+id="fr_77"></span>[7](#fn_77.md) of the sixteenth century, the friend of
 Erasmus, and physician to the Emperor Maximilian I; Julius Conrad Otto,
 author of the "Unveiled Secrets," consisting of extracts from the Talmud
 and the Zohar, to prove the validity of the Christian doctrine
@@ -165,7 +165,7 @@ Mirandola (born in 1463), author of *LXXII conclusiones cabbalisticae*,
 Rome, 1486; more especially John Reuchlin (Capnio), 1455-1522. Reuchlin,
 the first German scholar who studied the Cabala, wrote two cabalistic
 treaties, entitled *De Verbo Mirifico* (Basel, 1494), and *De Arte
-cabbalistica* (Hagenau, 1516). <span id="fr_78"></span>[8](#fn_78)
+cabbalistica* (Hagenau, 1516). <span id="fr_78"></span>[8](#fn_78.md)
 
 The first treatise is written in the form of a
 
@@ -208,7 +208,7 @@ volumes, the first of which was printed in Sulzbach, 1677-78, the second
 at Frankfort-on-the-Main, 1864, giving a Latin translation of the
 Introduction to and the following portion of the Sohar: the Book of
 Mysteries; the Great Assembly; the Small Assembly; <span
-id="fr_79"></span>[9](#fn_79) Joseph Gikatilla's Gate of Light (*shaar
+id="fr_79"></span>[9](#fn_79.md) Joseph Gikatilla's Gate of Light (*shaar
 orah*); Vital's Doctrine of Metempsychosis (*hagilgulim*), and the Tree
 of Life (*etz chayim*); Cordovero's Garden of Pomegranates (*pardes
 rim-monim*); Abraham Herera's Gate of Heaven (*sha-ar ha shamayim*);
@@ -217,7 +217,7 @@ Cohen's Vision of the Priest (*maré Kohen*) etc., etc., with elaborate
 annotations, glossaries and indices. Knorr von Rosenroth has also
 collected all the passages of the New Testament which contain similar
 doctrines to those propounded by the Cabala. In spite of its many
-drawbacks <span id="fr_80"></span>[10](#fn_80) the
+drawbacks <span id="fr_80"></span>[10](#fn_80.md) the
 
 <span id="page_104">p. 104</span>
 
@@ -251,14 +251,14 @@ a God-Son; or when we are told (Zohar, III, 262*a*; comp. 67*a*) that
 "there are two, and one is connected with them, and they are three; but
 in being three, they are one," this does not coincide in the least with
 the Christian doctrine of the Trinity. <span
-id="fr_81"></span>[11](#fn_81)
+id="fr_81"></span>[11](#fn_81.md)
 
 In one codex of the Zohar we read on the words "Holy, holy, holy is the
 Lord of hosts" (Is. vi. 3): "the first 'holy' refers to the Holy Father;
 the second to the Holy Son; and the third to the Holy Ghost"; but this
 passage is now omitted from the present recensions of the Zohar, and has
 been regarded by some Jewish writers as an interpolation. <span
-id="fr_82"></span>[12](#fn_82)
+id="fr_82"></span>[12](#fn_82.md)
 
 As to the doctrine of Christ, the God incarnate--it cannot be paralleled
 with the confused doctrine of Adam Kadmon, the primordial man. According
@@ -309,13 +309,13 @@ written--'Surely he hath borne our griefs and carried our sorrows,' etc.
 the Holy Land they removed all those sufferings and afflictions from the
 world by their prayers and sacrifices, but now the Messiah removes them
 from the world." (Zohar, II, 212*b*). With reference to these
-passages <span id="fr_83"></span>[13](#fn_83) which speak of the
+passages <span id="fr_83"></span>[13](#fn_83.md) which speak of the
 
 <span id="page_108">p. 108</span>
 
 atonement of the Messiah for the sins of the people, which are given in
 the Zohar as the explanation of the fifty-third chapter of Isaiah,
-Professor Dalman <span id="fr_84"></span>[14](#fn_84) remarks that the
+Professor Dalman <span id="fr_84"></span>[14](#fn_84.md) remarks that the
 Jews reject and object to cabalistic statements as something foreign to
 genuine Judaism. The theosophic speculations of the Cabala are at least
 just as Jewish as the religious philosophical statements of Bachja or
@@ -338,14 +338,14 @@ them.
 
 What are we to think of the Cabala? That there is a relationship between
 it and neo-Platonism is obvious. Erich Bischoff <span
-id="fr_85"></span>[15](#fn_85) thinks that the Cabala represents a
+id="fr_85"></span>[15](#fn_85.md) thinks that the Cabala represents a
 peculiar monism, which in some degree has influenced modern philosophy.
 In ethical respects it contains many fruitful and sublime thoughts,
 often indeed in fanciful wording. But as magic it has been of great
 influence on all kinds of superstitions and even on occultistic
 tendencies. It offers a highly interesting object of study whose closer
 investigation is rendered more difficult on account of the
-[abstruse](errata.htm#2) manner of representation and the many magic and
+[abstruse](errata.htm#2.md) manner of representation and the many magic and
 mystic accessories. But that which is valuable is sufficient to insure
 for it a lasting interest.
 
@@ -353,81 +353,81 @@ for it a lasting interest.
 
 ### Footnotes
 
-<span id="fn_71"></span>[96:1](cab08.htm#fr_71) A collection of passages
+<span id="fn_71"></span>[96:1](cab08.htm#fr_71.md) A collection of passages
 abusing the Talmud is given by Landauer in the *Orient*, 1845, pp.
 571-574; see also Rubin, *Heidenthum und Kabbala*, Vienna, 1893, pp. 13
 f.; also his *Kabbala and Agada*, *ibid*., 1895, p. S, where we read
 that according to Abulafia the Cabalists only were genuine men, and the
 Talmudists monkeys.
 
-<span id="fn_72"></span>[97:2](cab08.htm#fr_72) Wünsche, whom we have
+<span id="fn_72"></span>[97:2](cab08.htm#fr_72.md) Wünsche, whom we have
 followed, evidently refers to the prayer called Kaddish, for which see
 my article *s.v.* in McClintock and Strong, vol. XII. A very interesting
 article on "Jüdische Seelenmesse and Totenanrufung" is given by Dalman
 in *Saat auf Hoffnung* (Leipsic, 1890), pp. 169-225.
 
-<span id="fn_73"></span>[98:3](cab08.htm#fr_73) Orelli in his article
+<span id="fn_73"></span>[98:3](cab08.htm#fr_73.md) Orelli in his article
 "Zauberei" in *Realencyklopädie für protest*. *Theologie and Kirche*,
 vol. XXI, 1908, p. 618, remarks: "The Jewish Cabala has promoted the
 magic degeneration of the religion; to a great extent it furnished
 profound expressions and formulas for the exercise of superstitious
 arts."
 
-<span id="fn_74"></span>[98:4](cab08.htm#fr_74) "Lord of the name" =
+<span id="fn_74"></span>[98:4](cab08.htm#fr_74.md) "Lord of the name" =
 θεοῦργος, a man who by words of conjuration and other formulas knows how
 to exercise a power over the visible and invisible world.
 
-<span id="fn_75"></span>[99:5](cab08.htm#fr_75) Compare Kahana, *Rabbi
+<span id="fn_75"></span>[99:5](cab08.htm#fr_75.md) Compare Kahana, *Rabbi
 Israel Baal Schem-Tob, sein Leben, kabbalistisches System and Wirken*,
 Sitomir, 1900.
 
-<span id="fn_76"></span>[99:6](cab08.htm#fr_76) Compare Perl, *Megalleh
+<span id="fn_76"></span>[99:6](cab08.htm#fr_76.md) Compare Perl, *Megalleh
 temirin*, or *Die enthüllten Geheimnisse der Chassidim*, Lemberg, 1879;
 Ch. Bogratschoff, *Entstehung, Entwicklung and Prinzipien des
 Chassidismus*, Berlin, 1908.
 
-<span id="fn_77"></span>[101:7](cab08.htm#fr_77) See my article *s.v.*
+<span id="fn_77"></span>[101:7](cab08.htm#fr_77.md) See my article *s.v.*
 in McClintock and Strong.
 
-<span id="fn_78"></span>[101:8](cab08.htm#fr_78) These and some other
+<span id="fn_78"></span>[101:8](cab08.htm#fr_78.md) These and some other
 treatises of the same kind are collected by Pistorius in a collection
 entitled *Artis cabbalisticae scriptores*, Basel, 1587.
 
-<span id="fn_79"></span>[103:9](cab08.htm#fr_79) These three parts are
+<span id="fn_79"></span>[103:9](cab08.htm#fr_79.md) These three parts are
 Englished by Mathers.
 
-<span id="fn_80"></span>[103:10](cab08.htm#fr_80) Buddeus in Introductio
+<span id="fn_80"></span>[103:10](cab08.htm#fr_80.md) Buddeus in Introductio
 in *Historiam Philosophiae* <span id="page_104">p. 104</span>
 *Hebraeorum* (Halle 1702) calls Knorr von Rosenroth's work "confusum et
 obscurum opus, in quo necessaria cum non necessariis utilia cum
 inutilibus, confusa sunt, et in unam velut chaos conjecta." Knorr von
 Rosenroth has also written a number of hymns.
 
-<span id="fn_81"></span>[105:11](cab08.htm#fr_81) Compare also Bischoff,
+<span id="fn_81"></span>[105:11](cab08.htm#fr_81.md) Compare also Bischoff,
 *Die Kabbalah,* p. 26.
 
-<span id="fn_82"></span>[105:12](cab08.htm#fr_82) Compare Joel, *Die
+<span id="fn_82"></span>[105:12](cab08.htm#fr_82.md) Compare Joel, *Die
 Religionsphilosophie des Sohar*, Leipsic, 1849, pp. 240 ff.--The Zoharic
 passages referring to the Trinity are given in the original with a
 German translation in *Auszüge aus dem Buche Sohar* (by Tholuck; revised
 by Biesenthal), Berlin, 1857; 4th ed., 1876; also by Pauli, *The Great
 Mystery; or How Can Three Be One*, London, 1863.
 
-<span id="fn_83"></span>[107:13](cab08.htm#fr_83) A collection of the
+<span id="fn_83"></span>[107:13](cab08.htm#fr_83.md) A collection of the
 passages referring to the atoning work of the Messiah is given in
 *Auszüge aus dem* <span id="page_108">p. 108</span> *Buche Sohar*, pp.
 35 f., more especially in Wünsche, Die Leiden des Messias, Leipsic,
 1870, pp. 95-105; and by Dalman, "Das Kommen des Messias nach dem Sohar"
 (in *Saat auf Hoffnung*), Leipsic, 1888, pp. 148-160.
 
-<span id="fn_84"></span>[108:14](cab08.htm#fr_84) In his *Jesaja 53, das
+<span id="fn_84"></span>[108:14](cab08.htm#fr_84.md) In his *Jesaja 53, das
 Prophetenwort von Sühnleiden des Heilandes mit besonderer
 Berücksichtigung der synagogalen Literatur*, Leipsic, 1890.
 
-<span id="fn_85"></span>[109:15](cab08.htm#fr_85) The author of *Die
+<span id="fn_85"></span>[109:15](cab08.htm#fr_85.md) The author of *Die
 Kabbalah*. *Einführung in die jüdische Mystik and Geheimwissenschaft*,
 Leipsic, 1903.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](cab09)
+[Next: Bibliography](cab09.md)

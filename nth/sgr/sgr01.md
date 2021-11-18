@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sgr00)  [Next](sgr02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sgr00)  [Next](sgr02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte.md)
 
 </div>
 
@@ -70,6 +70,6 @@ read this book and do exactly as it tells you to do.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. The Right To Be Rich](sgr02)
+[Next: Chapter 1. The Right To Be Rich](sgr02.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp08)  [Next](srp10) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp08)  [Next](srp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,24 +51,24 @@ DRAMATIS PERSONÆ
 
 The *Knyaz* \[Prince\], i. e. The Bridegroom.
 
-The *Knyazhná*, or *Knyagínya* <span id="fr_204"></span>[1](#fn_204)
+The *Knyazhná*, or *Knyagínya* <span id="fr_204"></span>[1](#fn_204.md)
 \[Princess\], i. e. The Bride.
 
-The *Tuísyatsky* <span id="fr_205"></span>[2](#fn_205) \[Captain or
+The *Tuísyatsky* <span id="fr_205"></span>[2](#fn_205.md) \[Captain or
 Chief\], i. e. The chief of the Bridegroom's party.
 
 The *Druzkhi* \[*drug* = friend\], i. e. The Groomsmen.
 
 <span id="page_264">p. 264</span>
 
-The *Boyáre* <span id="fr_206"></span>[3](#fn_206) \[Lords\], i.e. The
+The *Boyáre* <span id="fr_206"></span>[3](#fn_206.md) \[Lords\], i.e. The
 male members of the bridal cortége, called also *Poyezzhane* \[*Poyezd*
 = cortége\].
 
 The *Boyáruini* \[Ladies\], i. e. The female members of the cortége,
 called also *Bryudgi*.
 
-The *Voplénitsa* <span id="fr_207"></span>[4](#fn_207) \[Wailer\], i.e.
+The *Voplénitsa* <span id="fr_207"></span>[4](#fn_207.md) \[Wailer\], i.e.
 The mistress of ceremonies, who directs the whole course of the wedding,
 so far as what takes place in the bride's house is concerned.
 
@@ -97,7 +97,7 @@ admission. *Milosti prosim*, "Do us the favour," is the ordinary reply.
 When they have come in they are asked to sit down, but they refuse. "We
 have not come," they say, "to sit down, nor to feast, but to ask in
 marriage. We have a *Dóbry Molodéts* <span
-id="fr_208"></span>[5](#fn_208), a brave youth; you have a *Krásnaya
+id="fr_208"></span>[5](#fn_208.md), a brave youth; you have a *Krásnaya
 Dyevítsa*, a fair maiden. Might not the two be brought together?" The
 parents of the bride return thanks for the compliment, on which the
 visitors take off their caps and sit down to a meal. When it is over the
@@ -127,7 +127,7 @@ They have lighted candles of pure wax
 Before the wonder-working picture,  
 And have crossed their bright eyes,  
 And have struck hand upon hand . . .  <span
-id="fr_209"></span>[6](#fn_209).
+id="fr_209"></span>[6](#fn_209.md).
 
 In the districts of which Tereshchenko speaks, the *Svátanie* is
 performed somewhat differently. Very often it is the girl's family which
@@ -161,7 +161,7 @@ the maiden--Luka Ivánovich, without any settled purpose, came to Efim's
 house, and then saw the fair Prascovia Andreevna, and, having seen her,
 
 Part from her he cannot,  
-But wed her he will <span id="fr_210"></span>[7](#fn_210).
+But wed her he will <span id="fr_210"></span>[7](#fn_210.md).
 
 Two days after the hand-striking, continues Ruibnikof, begins the
 ceremony of *poruchénie*, elsewhere called *obruchénie*, or betrothal.
@@ -184,7 +184,7 @@ cloth and provided with bread and salt.
 
 Meanwhile the bride has been adorned in wedding apparel, with a *fatá*,
 a sort of veil, on her head and covering her face. When she is ready her
-friends form a [procession](errata.htm#3), and bring her in state to the
+friends form a [procession](errata.htm#3.md), and bring her in state to the
 table at which the guests are seated. In front, together with the
 *Bozhatka*, or Godmother, go the *Peredovshchiki* and
 *Peredovshchitsui*, the "Foremen" and "Forewomen" \[*pered* or *pred* =
@@ -306,7 +306,7 @@ which she will have to adopt. After a time they take off the bride's
 veil, and begin combing her "ruddy tresses." Unmarried Russian girls
 wear their back hair hanging in a long, single plait, adorned with
 ribbons and sometimes, especially in Little-Russia, with flowers. This
-plait, called *kosá* <span id="fr_211"></span>[8](#fn_211) is a maiden's
+plait, called *kosá* <span id="fr_211"></span>[8](#fn_211.md) is a maiden's
 chief ornament, the cherished object of her care, the principal source
 of her girlish pride. Its unplaiting is a sign of the change which is
 coming upon her, for married women do not wear the *kosá*. Their back
@@ -350,7 +350,7 @@ While the *kosá* is being replaited the chorus sings,--
 
 O thou my dear, my ruddy *kosá*!  
 O thou my dear, my silken *kosník* <span
-id="fr_212"></span>[9](#fn_212)!  
+id="fr_212"></span>[9](#fn_212.md)!  
 Do thou plait, O my bride,  
 Plait thy braid, ever so finely,  
 Tie the knots, ever so tightly!
@@ -446,7 +446,7 @@ The darling one will be lapped in ease.
 A mother of her own has  
   A father of her own;  
 Brothers has she, bright falcons.  
-  Fair swans are their wives <span id="fr_213"></span>[1](#fn_213).
+  Fair swans are their wives <span id="fr_213"></span>[1](#fn_213.md).
 
 <span id="page_276">p. 276</span>
 
@@ -499,7 +499,7 @@ time, amid much wailing song. When the operation has been performed, the
 bride is arrayed in wedding attire. Meantime, in some places, the
 bridegroom and his friends--or the friends only, the bridegroom having
 gone on to the church--have come to the house, and are waiting in the
-*Syeni* <span id="fr_214"></span>[2](#fn_214) at the open doors. They
+*Syeni* <span id="fr_214"></span>[2](#fn_214.md) at the open doors. They
 beg that the bride maybe brought to them, and at last, after their
 request has been many times repeated, the "Princess" appears, attended
 by her relatives and attendants, but stops short at the door. Again the
@@ -550,7 +550,7 @@ Sudáruinya! now they are mounting the steps!"
 "My child, do not fear, we will not give thee up;  
 My darling, fear not, we will not give thee up."
 
-"Mátushka! into the house <span id="fr_215"></span>[3](#fn_215) have
+"Mátushka! into the house <span id="fr_215"></span>[3](#fn_215.md) have
 they gone!  
 Sudáruinya! into the house have they gone!"  
 "My child, do not fear, we will not give thee up;  
@@ -561,7 +561,7 @@ Sudáruinya! at the oak table they sit."
 "My child, do not fear, we will not give thee up;  
 My darling, fear not, we will not give thee up."
 
-"Mátushka! down has the picture <span id="fr_216"></span>[4](#fn_216)
+"Mátushka! down has the picture <span id="fr_216"></span>[4](#fn_216.md)
 been taken!  
 Sudáruinya! down has the picture been taken!"  
 "My child, do not fear, we will not give thee up;  
@@ -571,7 +571,7 @@ My darling, fear not, we will not give thee up."
 Sudáruinya! see, they are blessing me now!"  
 "My child! may the Lord be ever with thee!  
 My darling! may God be ever with thee <span
-id="fr_217"></span>[5](#fn_217)!"
+id="fr_217"></span>[5](#fn_217.md)!"
 
 As soon as the young couple arrive in the church, says Tereshchenko, the
 priest begins the wedding service. Over the heads of the bride and
@@ -591,7 +591,7 @@ When the nuptial benediction is pronounced the priest puts the wedding
 rings on their fingers, and then, having joined their hands with a piece
 of white linen, he leads them round the reading-desk. Afterwards he
 three times gives them red wine to drink, and tells them to kiss each
-other. The ceremony is over <span id="fr_218"></span>[6](#fn_218).
+other. The ceremony is over <span id="fr_218"></span>[6](#fn_218.md).
 
 The bridegroom now leads his bride, says Ruibnikof, to his home. On the
 top of the, steps leading into the house his father and mother meet the
@@ -738,7 +738,7 @@ neighbourhood of the Dniester.
 There were the Drevlyane, he says, who were unacquainted with marriage,
 but who "carried off girls at this water," probably taking advantage of
 their coming out to the river for water <span
-id="fr_219"></span>[7](#fn_219). Among several other tribes, he remarks,
+id="fr_219"></span>[7](#fn_219.md). Among several other tribes, he remarks,
 such as the Syeveryane, for instance, a milder custom prevailed. Their
 young men were in the habit of carrying off their brides, it is true,
 seizing upon them: during the religious festivals
@@ -788,7 +788,7 @@ Then they sing alternately,
 On this one of the girls in the second choir goes over to the first, the
 two sides singing, respectively, "Our band has lost," and "Our band has
 gained." The game lasts until all the girls have gone over from one side
-to the other <span id="fr_220"></span>[8](#fn_220). In a corresponding
+to the other <span id="fr_220"></span>[8](#fn_220.md). In a corresponding
 Servian song the winning side says in plain terms, "If ye will not give
 us a maiden, we will take one by force."
 
@@ -820,7 +820,7 @@ with all her might, and even to fling her cap angrily on the ground.
 Then the groomsmen, at the cry of "Boyars, to your swords!" pretend to
 seize their knives and make a dash at the bride, who is thereupon
 surrounded by her friends who come rushing to the rescue <span
-id="fr_221"></span>[9](#fn_221).
+id="fr_221"></span>[9](#fn_221.md).
 
 In some parts of Russia, on the eve of the marriage, all the doors of
 the house and the gates of the yard are closely shut, and when the
@@ -861,7 +861,7 @@ For that sweet green wine,
 For those small wine cups.  
 Ruinously did they drink away their possessions,  
 And squandered my freedom on debauchery <span
-id="fr_222"></span>[1](#fn_222).
+id="fr_222"></span>[1](#fn_222.md).
 
 <span id="page_287">p. 287</span>
 
@@ -898,7 +898,7 @@ And having borne me, laid me in the cradle,
   The next time, alas 1  
     To an unknown father.  
   The third time, alas!  
-    To an unknown mother <span id="fr_223"></span>[2](#fn_223).
+    To an unknown mother <span id="fr_223"></span>[2](#fn_223.md).
 
 But it grieves her to have to leave her old home, to give up her maiden
 liberty for a wife's state of subjection, and to pass from among kindly
@@ -924,7 +924,7 @@ I shall have to comb you, O ruddy tresses,
 I shall have to wash you, O ruddy tresses,  
   In the wave of my bitter tears.  
 I shall have to dry you, O ruddy tresses  
-  In the longing of my grief <span id="fr_224"></span>[3](#fn_224).
+  In the longing of my grief <span id="fr_224"></span>[3](#fn_224.md).
 
 <span id="page_289">p. 289</span>
 
@@ -951,7 +951,7 @@ My sisters-in-law cry,
   "Here comes a do-nothing!"  
 My brothers-in-law exclaim,  
   "Here comes a mischief-maker!"  
-Oh! oh! oh! oh dear me <span id="fr_225"></span>[4](#fn_225)!
+Oh! oh! oh! oh dear me <span id="fr_225"></span>[4](#fn_225.md)!
 
 She complains bitterly of the conduct of her father and mother. In a
 Siberian song a daughter says that her parents have "locked up their
@@ -1006,7 +1006,7 @@ companions sing while the bargaining with the brother is going on:--
     But my beauty is beyond appraising.  
   Enter Boyars!  
   Enter Boyars!  
-Long have we expected you <span id="fr_226"></span>[5](#fn_226).
+Long have we expected you <span id="fr_226"></span>[5](#fn_226.md).
 
 While the trading is going on, the bridegroom, in many districts, stands
 outside the door, even if it be in the depth of winter, and must not
@@ -1034,7 +1034,7 @@ house for the *Dyevichnik*, or girls' party, of which a description has
 been given. Among the numerous songs sung on that occasion, bewailing
 the approaching loss of the bride's "maiden freedom," and the "beauty"
 with which that freedom is associated, is one <span
-id="fr_227"></span>[6](#fn_227) in which a being called the, "White
+id="fr_227"></span>[6](#fn_227.md) in which a being called the, "White
 Kika" threatens to destroy the bride's maiden beauty, the *Kika* being
 here most likely a type of married life, for that word means some sort
 of head-covering in many Slavonian dialects.
@@ -1077,7 +1077,7 @@ Say farewell, and give me thy blessing!
     .    .    .    .    .    .    .  
 I am borne away by my own, my brothers,  
 Give me thy blessing, father, bátyushka <span
-id="fr_228"></span>[7](#fn_228).
+id="fr_228"></span>[7](#fn_228.md).
 
 In one of the Little-Russian songs a dead mother transforms herself into
 a rain-cloud, and pours a fruitful shower over the village in which her
@@ -1108,7 +1108,7 @@ survivals from a period of sterner domestic relations.
 
 The following account of how her mother counselled Máryushka Efímovna
 \[Mary, the daughter of Euthymus\] may be taken as a specimen of the
-nuptial songs which refer to the [brides'](errata.htm#4) right of
+nuptial songs which refer to the [brides'](errata.htm#4.md) right of
 selection, and which are more in accordance with modern sentiment than
 most of the marriage poems:--
 
@@ -1144,7 +1144,7 @@ The falcon bright in the open field,
   She has brought him to her mother.  
   "Mother mine, Gosudáruinya,  
   I have caught the falcon bright <span
-id="fr_229"></span>[8](#fn_229)."
+id="fr_229"></span>[8](#fn_229.md)."
 
 In another song her mother leads Máryushka from the terem, or women's
 chamber, into the room in which the guests are sitting, "the young men
@@ -1165,7 +1165,7 @@ fallen, ending with the words,
 
 With him, dear mother, will I lead my life,  
 But thee, my mother dear, I never will forget <span
-id="fr_230"></span>[9](#fn_230).
+id="fr_230"></span>[9](#fn_230.md).
 
 Sometimes a girl who is awaiting her lover's visit, sings thus:--
 
@@ -1183,7 +1183,7 @@ Nor wander in the forest lost,
 So that no evil men on him may fall,  
   No savage dogs may drive him far away.  
 Away from him my life is weary,  
-Away from him my life is sad <span id="fr_231"></span>[1](#fn_231).
+Away from him my life is sad <span id="fr_231"></span>[1](#fn_231.md).
 
 When her lover leaves her for a time he gives her a golden ring
 \[*pérsten'*, a signet-ring, or one set with gems, from *perst*, a
@@ -1217,7 +1217,7 @@ And while exchanging gifts thus has he spoken,
   The golden circlet will unclasp:  
   Should'st thou to another suitor yield,  
   From the ring the diamond will fall <span
-id="fr_232"></span>[2](#fn_232).
+id="fr_232"></span>[2](#fn_232.md).
 
 Sometimes she tells her companions that their turn will come, and lovers
 even better than her own will be theirs, but that she shall not envy
@@ -1245,7 +1245,7 @@ Samuska sends messengers after her.
 "To thee will I come, Samuska, to drink water.  
 With thee to drink water, to me is beauty;  
 Without thee to weave wreaths, to me is drought <span
-id="fr_233"></span>[3](#fn_233)."
+id="fr_233"></span>[3](#fn_233.md)."
 
 In a number of Little-Russian songs, indeed, she finds her lover far
 kinder than her parents, for they refuse to help her when she is
@@ -1322,7 +1322,7 @@ a general rule, terminates in a marriage.
 <span id="page_301">p. 301</span>
 
 Of the numerous songs referring to such love-matches one specimen has
-been given at [p. 31](srp04.htm#page_31). Here is another of the same
+been given at [p. 31](srp04.htm#page_31.md). Here is another of the same
 kind. It is supposed to be sung by a chorus of girls, in honour of a
 bridegroom who rejoices in the name of Andrei Polikarpovich, the bride's
 name being Aydótya Nikoláevna.
@@ -1368,7 +1368,7 @@ Oh! how dear he is to my heart!
 Oh! how I can never be tired of looking at him!  
 Oh! how I can never gaze at him enough  
 Oh! bow I never want to part with him <span
-id="fr_234"></span>[5](#fn_234)!"
+id="fr_234"></span>[5](#fn_234.md)!"
 
 The right of choosing their husbands, which is at least partially
 enjoyed by Russian peasant girls, is claimed by their sisters in other
@@ -1461,7 +1461,7 @@ From her far-off home, strange folk among."
 "Come, come, sister,  
 Into our chamber come.  
 Tell us about your sorrows,  
-Ask us about ours <span id="fr_235"></span>[5](#fn_235)."
+Ask us about ours <span id="fr_235"></span>[5](#fn_235.md)."
 
 It must not be supposed that all the Russian marriage songs are of this
 mournful cast of thought. Here, for instance, is one of happier tone,
@@ -1486,7 +1486,7 @@ Is Iván with his sons,
 Dear Ivánovich with his falcons.  
 The red sun with its rays  
 Is Anna with her daughters  
-Dear Ivánovna with her swans <span id="fr_236"></span>[6](#fn_236).
+Dear Ivánovna with her swans <span id="fr_236"></span>[6](#fn_236.md).
 
 <span id="page_306">p. 306</span>
 
@@ -1505,7 +1505,7 @@ positions of husband and wife:--
   The cypress tree--that is I who am thine,  
   The sugar-sweet tree--that is thou who art mine:  
 And the boughs on the tree are the children who are ours,  
-Our children, children dear <span id="fr_237"></span>[7](#fn_237)."
+Our children, children dear <span id="fr_237"></span>[7](#fn_237.md)."
 
  
 
@@ -1515,7 +1515,7 @@ In the olden time the celestial divinities were supposed to be favourers
 and protectors of marriage, and the first nuptial crown was attributed
 to that heavenly framer of all manner of implements who forged the first
 plough for man. And so in some of the songs--one of which has been
-quoted \[[p. 198](srp08.htm#page_198)\]--a prayer is offered up to a
+quoted \[[p. 198](srp08.htm#page_198.md)\]--a prayer is offered up to a
 mysterious smith, beseeching him to construct a golden nuptial crown,
 and out of the fragments of it to make a wedding-ring, and a pin with
 which to fasten the bridal veil.
@@ -1551,7 +1551,7 @@ Has gone Khvatei with Alinya.
 He takes her by the right hand,  
 And leads her to the court of God,  
 To the court of God; to the wedding <span
-id="fr_238"></span>[8](#fn_238).
+id="fr_238"></span>[8](#fn_238.md).
 
 Thus do Christian and heathen names still clash in the wedding songs of
 the Russian peasantry, just as, in the funeral songs to which we are now
@@ -1561,73 +1561,73 @@ about
 
 to direct our attention, ideas founded on the Christianity of the
 present will be found strangely confused with those belonging to the
-heathenism of the past. <span id="fr_239"></span>[9](#fn_239)
+heathenism of the past. <span id="fr_239"></span>[9](#fn_239.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_204"></span>[263:1](srp09.htm#fr_204) In Russian an
+<span id="fn_204"></span>[263:1](srp09.htm#fr_204.md) In Russian an
 unmarried princess is called *Knyazhná*, a married one *Knyagínya*.
 
-<span id="fn_205"></span>[263:2](srp09.htm#fr_205) *Tuísyacha* = 1000.
+<span id="fn_205"></span>[263:2](srp09.htm#fr_205.md) *Tuísyacha* = 1000.
 
-<span id="fn_206"></span>[264:3](srp09.htm#fr_206) This term is also
+<span id="fn_206"></span>[264:3](srp09.htm#fr_206.md) This term is also
 applied to all the members of the bridal party.
 
-<span id="fn_207"></span>[264:4](srp09.htm#fr_207) *Vopit'* = to wail or
+<span id="fn_207"></span>[264:4](srp09.htm#fr_207.md) *Vopit'* = to wail or
 sob. She is also called the *Plakalshchitsa*, (*plakat'* = to cry). More
 will be said about her in the next chapter.
 
-<span id="fn_208"></span>[265:5](srp09.htm#fr_208) This is the
+<span id="fn_208"></span>[265:5](srp09.htm#fr_208.md) This is the
 stereotyped term in the songs for their heroes. Dóbry = good; Molodéts =
 (1) a youth; (2) a young bachelor; (3) a gay, daring, brave young spark
 or springald: in this sense the word is often accentuated--*Mólodets*.
 
-<span id="fn_209"></span>[266:6](srp09.htm#fr_209) Ruibnikof, III. 350.
+<span id="fn_209"></span>[266:6](srp09.htm#fr_209.md) Ruibnikof, III. 350.
 
-<span id="fn_210"></span>[267:7](srp09.htm#fr_210) Tereshchenko, II.
+<span id="fn_210"></span>[267:7](srp09.htm#fr_210.md) Tereshchenko, II.
 117-124.
 
-<span id="fn_211"></span>[272:8](srp09.htm#fr_211) *Kosoi* = slanting,
+<span id="fn_211"></span>[272:8](srp09.htm#fr_211.md) *Kosoi* = slanting,
 bent. *Kosá* has several meanings, signifying, for instance, a scythe, a
 curved spit of land, etc.
 
-<span id="fn_212"></span>[273:9](srp09.htm#fr_212) The *kosník* is the
+<span id="fn_212"></span>[273:9](srp09.htm#fr_212.md) The *kosník* is the
 bunch of ribbons at the end of the kosá.
 
-<span id="fn_213"></span>[275:1](srp09.htm#fr_213) Tereshchenko, II.
+<span id="fn_213"></span>[275:1](srp09.htm#fr_213.md) Tereshchenko, II.
 323.
 
-<span id="fn_214"></span>[277:2](srp09.htm#fr_214) This word is a very
+<span id="fn_214"></span>[277:2](srp09.htm#fr_214.md) This word is a very
 difficult one to translate. In the houses of the "gentry" it means the
 antechambers, or rooms through which admission is gained to the
 reception-rooms. In a peasant's house it represents the space not
 devoted to the "keeping-rooms," I have sometimes translated it by "the
 passages."
 
-<span id="fn_215"></span>[279:3](srp09.htm#fr_215) The *novaya
+<span id="fn_215"></span>[279:3](srp09.htm#fr_215.md) The *novaya
 gornitsa*, literally, "the new apartment," but the epithet has no real
 meaning.
 
-<span id="fn_216"></span>[279:4](srp09.htm#fr_216) The *obraz*, or
+<span id="fn_216"></span>[279:4](srp09.htm#fr_216.md) The *obraz*, or
 icona--the sacred picture--taken down from the wall, in order to be used
 in the maternal benediction.
 
-<span id="fn_217"></span>[279:5](srp09.htm#fr_217) Tereshchenko, II.
+<span id="fn_217"></span>[279:5](srp09.htm#fr_217.md) Tereshchenko, II.
 134.
 
-<span id="fn_218"></span>[280:6](srp09.htm#fr_218) Tereshchenko, II.
+<span id="fn_218"></span>[280:6](srp09.htm#fr_218.md) Tereshchenko, II.
 136-137.
 
-<span id="fn_219"></span>[282:7](srp09.htm#fr_219) Solovief thinks that
+<span id="fn_219"></span>[282:7](srp09.htm#fr_219.md) Solovief thinks that
 the words "among them there was no marriage," merely mean that the
 Drevlyane paid no attention to the wishes of the families from which
 they took their wives.--*Ist. Ross*. I. 74.
 
-<span id="fn_220"></span>[284:8](srp09.htm#fr_220) Sakharof, I. iii. 27.
+<span id="fn_220"></span>[284:8](srp09.htm#fr_220.md) Sakharof, I. iii. 27.
 
-<span id="fn_221"></span>[285:9](srp09.htm#fr_221) "The hurling of old
+<span id="fn_221"></span>[285:9](srp09.htm#fr_221.md) "The hurling of old
 shoes after the bridegroom among ourselves may be a relic of a similar
 custom. It is a sham assault on the person carrying off the lady, and in
 default of any more plausible explanation, and we know of none such, it
@@ -1637,58 +1637,58 @@ origin of the form of capture in marriage ceremonies," see the erudite
 book from which this somewhat doubtful suggestion is taken, Mr. J. F.
 McLennan's "Primitive Marriage." Edinburgh, 1865, 8vo.
 
-<span id="fn_222"></span>[286:1](srp09.htm#fr_222) Ruibnikof, III.
+<span id="fn_222"></span>[286:1](srp09.htm#fr_222.md) Ruibnikof, III.
 353-354.
 
-<span id="fn_223"></span>[288:2](srp09.htm#fr_223) Orest Miller,
+<span id="fn_223"></span>[288:2](srp09.htm#fr_223.md) Orest Miller,
 *Chrestomathy*, I. 20. Quoted from a Pskof collection.
 
-<span id="fn_224"></span>[288:3](srp09.htm#fr_224) Orest Miller,
+<span id="fn_224"></span>[288:3](srp09.htm#fr_224.md) Orest Miller,
 *Chrest*. I. 21. Quoted from a Perm collection. I have taken the liberty
 of turning the kosá into "tresses."
 
-<span id="fn_225"></span>[289:4](srp09.htm#fr_225) Shein, I. 331.
+<span id="fn_225"></span>[289:4](srp09.htm#fr_225.md) Shein, I. 331.
 
-<span id="fn_226"></span>[291:5](srp09.htm#fr_226) Tereshchenko, II.
+<span id="fn_226"></span>[291:5](srp09.htm#fr_226.md) Tereshchenko, II.
 344.
 
-<span id="fn_227"></span>[292:6](srp09.htm#fr_227) A Vologda song.
+<span id="fn_227"></span>[292:6](srp09.htm#fr_227.md) A Vologda song.
 
-<span id="fn_228"></span>[293:7](srp09.htm#fr_228) Ruibnikof, III. 363.
+<span id="fn_228"></span>[293:7](srp09.htm#fr_228.md) Ruibnikof, III. 363.
 
-<span id="fn_229"></span>[295:8](srp09.htm#fr_229) Sakharof, I. iii.
+<span id="fn_229"></span>[295:8](srp09.htm#fr_229.md) Sakharof, I. iii.
 124.
 
-<span id="fn_230"></span>[296:9](srp09.htm#fr_230) Sakharof, I. iii.
+<span id="fn_230"></span>[296:9](srp09.htm#fr_230.md) Sakharof, I. iii.
 125.
 
-<span id="fn_231"></span>[296:1](srp09.htm#fr_231) Sakharof, I. iii.
+<span id="fn_231"></span>[296:1](srp09.htm#fr_231.md) Sakharof, I. iii.
 123.
 
-<span id="fn_232"></span>[297:2](srp09.htm#fr_232) Shein, I. 303.
+<span id="fn_232"></span>[297:2](srp09.htm#fr_232.md) Shein, I. 303.
 
-<span id="fn_233"></span>[298:3](srp09.htm#fr_233) A White-Russian song.
+<span id="fn_233"></span>[298:3](srp09.htm#fr_233.md) A White-Russian song.
 Tereshchenko, II. 561.
 
-<span id="fn_234"></span>[302:5](srp09.htm#fr_234) Sakharof, I. iii.
+<span id="fn_234"></span>[302:5](srp09.htm#fr_234.md) Sakharof, I. iii.
 122.
 
-<span id="fn_235"></span>[305:5](srp09.htm#fr_235) Shein, I. 339. In
+<span id="fn_235"></span>[305:5](srp09.htm#fr_235.md) Shein, I. 339. In
 another version of the same song it is not her brothers who make such
 harsh observations, but her sister-in-law, while her "born sister" comes
 to her aid.
 
-<span id="fn_236"></span>[305:6](srp09.htm#fr_236) Quoted from a Perm
+<span id="fn_236"></span>[305:6](srp09.htm#fr_236.md) Quoted from a Perm
 collection by Orest Miller, *Chrest*. I. 27. X
 
-<span id="fn_237"></span>[306:7](srp09.htm#fr_237) O. Miller, *Chrest*.
+<span id="fn_237"></span>[306:7](srp09.htm#fr_237.md) O. Miller, *Chrest*.
 I. 29, from the Perm collection.
 
-<span id="fn_238"></span>[307:8](srp09.htm#fr_238) From the
+<span id="fn_238"></span>[307:8](srp09.htm#fr_238.md) From the
 "Ethnographical Collection" published by the Russian Geographical
 Society. Pt. vi. *Bibliog. Ukaz*. 13.
 
-<span id="fn_239"></span>[308:9](srp09.htm#fr_239) Kavelin thinks that
+<span id="fn_239"></span>[308:9](srp09.htm#fr_239.md) Kavelin thinks that
 many of the wedding songs now preserved among the common people were, in
 all probability, originally composed for and sung at the weddings of
 Princes and Nobles. Many of the allusions in the songs seem to him to
@@ -1715,4 +1715,4 @@ among not only strangers but enemies.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Funeral Songs](srp10)
+[Next: Chapter V: Funeral Songs](srp10.md)

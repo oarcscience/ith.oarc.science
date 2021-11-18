@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos11)  [Next](gbos13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos11)  [Next](gbos13.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ mind.
 
 ------------------------------------------------------------------------
 
-[Next: The Scourge and the Kiss](gbos13)
+[Next: The Scourge and the Kiss](gbos13.md)

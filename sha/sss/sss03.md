@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss02)  [Next](sss04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss02)  [Next](sss04.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ retained a footing until the advent of Islam.
 
 ------------------------------------------------------------------------
 
-[Next: II. Gods, Spirits and Ghosts](sss04)
+[Next: II. Gods, Spirits and Ghosts](sss04.md)

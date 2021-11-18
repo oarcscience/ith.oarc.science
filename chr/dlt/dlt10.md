@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt09)  [Next](dlt11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt09)  [Next](dlt11.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ exhaustively the history of this title, some little detail will,
 nevertheless, be necessary.
 
 We must first of all deal with the seventh chapter of the book of
-Daniel; <span id="fr_64"></span>[1](#fn_64)' in verses 13, 14 of this
+Daniel; <span id="fr_64"></span>[1](#fn_64.md)' in verses 13, 14 of this
 chapter we read as follows:
 
 <span id="page_148">p. 148</span>
@@ -81,11 +81,11 @@ before the beginning of the world: "At that hour that Son of Man was
 named before the Lord of Spirits, and his name before the Ancient of
 Days. Before the sun and the signs (of the Zodiac) were created, before
 the stars of Heaven were made his name was uttered before the Lord of
-Spirits. <span id="fr_65"></span>[1](#fn_65) He shall be a staff for the
+Spirits. <span id="fr_65"></span>[1](#fn_65.md) He shall be a staff for the
 righteous and for the holy ones, that they may rest on him and not fall;
 he shall be the light of the Gentiles, <span
-id="fr_66"></span>[2](#fn_66) and the hope of those who are sad at
-heart. <span id="fr_67"></span>[3](#fn_67) . . . For this reason hath he
+id="fr_66"></span>[2](#fn_66.md) and the hope of those who are sad at
+heart. <span id="fr_67"></span>[3](#fn_67.md) . . . For this reason hath he
 been chosen and hidden before Him (*i.e.*, God) before the world was
 created, and unto eternity (he shall be) before Him. And the wisdom of
 the Lord of Spirits hath revealed him to the holy and righteous . . ."
@@ -107,7 +107,7 @@ emphasised by the fact that the Son of Man is described as sitting upon
 the throne of God Almighty: "And the Chosen One shall sit upon My throne
 in those days, and all the secrets of wisdom will come forth from the
 thoughts of his mouth; for the Lord of Spirits hath given it to him, and
-hath glorified him." <span id="fr_68"></span>[1](#fn_68) One other
+hath glorified him." <span id="fr_68"></span>[1](#fn_68.md) One other
 point, which is of especial importance for our present purpose, is that
 this Son of Man is described as coming to judge the world: "He (the Son
 of Man) sat himself upon the throne of his glory, and the sum of
@@ -171,7 +171,7 @@ That in both the book of Daniel and in the *Similitudes* of Enoch the
 title, "The Son of Man," is used in reference to the Messiah does not
 require formal proof; it is only necessary to read the passages in
 question in order to see that the fact is obvious; the Messiah and "The
-Son of Man" are identical. <span id="fr_69"></span>[1](#fn_69)
+Son of Man" are identical. <span id="fr_69"></span>[1](#fn_69.md)
 
 Now we have next to consider the title of "The Son of Man" in the
 Gospels. The first point to notice, and it is a highly significant one,
@@ -191,10 +191,10 @@ says: *Behold, I see the heavens opened, and the Son of Man standing on
 the right hand of God*; but these words, spoken before the Sanhedrin,
 are in reality a quotation of words of similar import which our Lord
 Himself had used before the same assembly: <span
-id="fr_70"></span>[1](#fn_70) *But from henceforth shall the Son of Man
+id="fr_70"></span>[1](#fn_70.md) *But from henceforth shall the Son of Man
 be seated at the right hand of the power of God* (Luke xxii. 69); so
 that in this case, too, the title is only used in a quotation of our
-Lord's own words concerning Himself. <span id="fr_71"></span>[2](#fn_71)
+Lord's own words concerning Himself. <span id="fr_71"></span>[2](#fn_71.md)
 
 Next, we must see in what connection our Lord uses the title; and here
 we shall have to notice that there are two entirely different sets of
@@ -323,7 +323,7 @@ of sinful men, and be crucified, and the third day rise again.
 
 John iii. 13, 14, 15: And no man hath ascended into heaven, but he that
 descended out of heaven, even the Son of Man \[which is in
-Heaven\]. <span id="fr_72"></span>[1](#fn_72) And as Moses lifted up the
+Heaven\]. <span id="fr_72"></span>[1](#fn_72.md) And as Moses lifted up the
 serpent in the wilderness, even so must the Son of Man be lifted up;
 that whosoever believeth in him may have eternal life.
 
@@ -513,7 +513,7 @@ in that day all the kings and the mighty, the exalted, and they that
 possess the land; they shall see and know him when he sits upon the
 throne of his glory, and righteous judgement shall there be in his
 presence, and no lie shall be spoken before him" (*Eth. Enoch* lii.
-3). <span id="fr_73"></span>[1](#fn_73)
+3). <span id="fr_73"></span>[1](#fn_73.md)
 
 As in days of old, so now: "We believe that Thou shalt come to be our
 Judge"; but as in days of old, so now: "We pray Thee, therefore, help
@@ -540,39 +540,39 @@ Apocalyptic literature.
 
 ### Footnotes
 
-<span id="fn_64"></span>[147:1](dlt10.htm#fr_64) The phrase "son of man"
+<span id="fn_64"></span>[147:1](dlt10.htm#fr_64.md) The phrase "son of man"
 which occurs frequently in the book of Ezekiel, is merely a mode of
 address, and has nothing to do with the present subject.
 
-<span id="fn_65"></span>[150:1](dlt10.htm#fr_65) *Cf.* further Kautzsch,
+<span id="fn_65"></span>[150:1](dlt10.htm#fr_65.md) *Cf.* further Kautzsch,
 *Die Apokryphen und Pseudepigraphen des AT*. I. 264, note.
 
-<span id="fn_66"></span>[150:2](dlt10.htm#fr_66) See Isa. xlii. 6; xlix.
+<span id="fn_66"></span>[150:2](dlt10.htm#fr_66.md) See Isa. xlii. 6; xlix.
 6; John viii. 12.
 
-<span id="fn_67"></span>[150:3](dlt10.htm#fr_67) *Cf.* Matt. xi. 28.
+<span id="fn_67"></span>[150:3](dlt10.htm#fr_67.md) *Cf.* Matt. xi. 28.
 
-<span id="fn_68"></span>[151:1](dlt10.htm#fr_68) See John xvii. 1, 5.
+<span id="fn_68"></span>[151:1](dlt10.htm#fr_68.md) See John xvii. 1, 5.
 
-<span id="fn_69"></span>[154:1](dlt10.htm#fr_69) For a very valuable
+<span id="fn_69"></span>[154:1](dlt10.htm#fr_69.md) For a very valuable
 contribution to the history of the title Son of Man in pre-Christian
 literature, see Dalman, *Die Worte Jesu*, pp. 191-219.
 
-<span id="fn_70"></span>[155:1](dlt10.htm#fr_70) *Cf.* Dalman, *Die
+<span id="fn_70"></span>[155:1](dlt10.htm#fr_70.md) *Cf.* Dalman, *Die
 Worte Jesu*, p. 206.
 
-<span id="fn_71"></span>[155:2](dlt10.htm#fr_71) The phrase which occurs
+<span id="fn_71"></span>[155:2](dlt10.htm#fr_71.md) The phrase which occurs
 in Rev. i. 13, xiv. 14, is used in the same sense as in the book of
 Ezekiel; while in Heb. ii. 6 it refers only to one who is of the human
 race; *i.e.*, in the one case it is a mode of address, in the other a
 way of describing one born of a woman.
 
-<span id="fn_72"></span>[160:1](dlt10.htm#fr_72) The words in square
+<span id="fn_72"></span>[160:1](dlt10.htm#fr_72.md) The words in square
 brackets are not well attested.
 
-<span id="fn_73"></span>[167:1](dlt10.htm#fr_73) These are only a very
+<span id="fn_73"></span>[167:1](dlt10.htm#fr_73.md) These are only a very
 few of the appropriate passages which could he cited.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Gospel Teaching of the Second Advent.](dlt11)
+[Next: Chapter IX. The Gospel Teaching of the Second Advent.](dlt11.md)

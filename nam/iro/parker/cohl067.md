@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl066)  [Next](cohl068) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl066)  [Next](cohl068.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 "'Now another message.
 
 "This happened when Gai'wiio\` was new. It was the time when he dwelt at
-Diono<sup>n</sup>?'sodegê\`. <span id="fr_60"></span>[1](#fn_60)
+Diono<sup>n</sup>?'sodegê\`. <span id="fr_60"></span>[1](#fn_60.md)
 
 "A father and son appeared in Diono<sup>n</sup>?'sodegê\`. Now the name
 of the son was Gani'seoñ. They were on a hunting journey and came from
-Gadäges'käo<sup>n</sup> <span id="fr_61"></span>[2](#fn_61) with a horse
+Gadäges'käo<sup>n</sup> <span id="fr_61"></span>[2](#fn_61.md) with a horse
 and cart. Now they tarried in Diono<sup>n</sup>?'sodegê\` for several
 nights before again taking up their journey.
 
@@ -39,8 +39,8 @@ articles upon it. Then they gathered around it and watched, and as they
 watched he spoke and the bullet moved. Thus it happened. Then spoke
 Ganio\`dai'io\`, 'This brings the confirmation of the rumor. Truly the
 youth has murdered his father, and furthermore I say that the crime was
-committed between Ga:nos' <span id="fr_62"></span>[3](#fn_62) and
-Hanênk'gaek. <span id="fr_63"></span>[4](#fn_63) On the south side of a
+committed between Ga:nos' <span id="fr_62"></span>[3](#fn_62.md) and
+Hanênk'gaek. <span id="fr_63"></span>[4](#fn_63.md) On the south side of a
 mountain, where half way up an elm is broken, leaning over on the
 downhill side to the west lies the body buried in the leaves of the top
 branches. He, the father, is buried in the leaves.' So he said when he
@@ -56,15 +56,15 @@ father and brought it back with them." Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_60"></span>[52:1](cohl067.htm#fr_60) Cornplanter village.
+<span id="fn_60"></span>[52:1](cohl067.htm#fr_60.md) Cornplanter village.
 
-<span id="fn_61"></span>[52:2](cohl067.htm#fr_61) Cattaraugus village,
+<span id="fn_61"></span>[52:2](cohl067.htm#fr_61.md) Cattaraugus village,
 the principal town of the Cattaraugus region.
 
-<span id="fn_62"></span>[52:3](cohl067.htm#fr_62) Franklin, Pa.
+<span id="fn_62"></span>[52:3](cohl067.htm#fr_62.md) Franklin, Pa.
 
-<span id="fn_63"></span>[52:4](cohl067.htm#fr_63) Oil City, Pa.
+<span id="fn_63"></span>[52:4](cohl067.htm#fr_63.md) Oil City, Pa.
 
 ------------------------------------------------------------------------
 
-[Next: Section 57](cohl068)
+[Next: Section 57](cohl068.md)

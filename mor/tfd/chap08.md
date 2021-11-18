@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap07) [Next](chap09)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap07) [Next](chap09.md)
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ broken up for fuel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Opposition to the Liberal Schools](chap09)
+[Next: Chapter IX: Opposition to the Liberal Schools](chap09.md)

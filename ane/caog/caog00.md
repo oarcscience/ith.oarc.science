@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Next](caog01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Next](caog01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -54,31 +54,31 @@ because it was published prior to 1923.
 
 <span id="img_front"></span> <span align="CENTER"> [![FIGHT BETWEEN
 MERODACH (BEL) AND THE DRAGON.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 FIGHT BETWEEN MERODACH (BEL) AND THE DRAGON.  
 </span>
 
 <span id="img_front2"></span> <span align="CENTER">
 [![Frontispiece](tn/front2.jpg)  
-Click to enlarge](img/front2.jpg)  
+Click to enlarge](img/front2.jpg.md)  
 Frontispiece  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title page  
 </span>
 
 <span id="img_front3"></span> <span align="CENTER"> [![EAGLE-HEADED MAN.
 FROM NIMROUD SCULPTURE.](tn/front3.jpg)  
-Click to enlarge](img/front3.jpg)  
+Click to enlarge](img/front3.jpg.md)  
 EAGLE-HEADED MAN. FROM NIMROUD SCULPTURE.  
 </span>
 
 <span id="img_front4"></span> <span align="CENTER"> [![IZDUBAR
 STRANGLING A LION. FROM KHORSABAD SCULPTURE.](tn/front4.jpg)  
-Click to enlarge](img/front4.jpg)  
+Click to enlarge](img/front4.jpg.md)  
 IZDUBAR STRANGLING A LION. FROM KHORSABAD SCULPTURE.  
 </span>
 
@@ -86,6 +86,6 @@ IZDUBAR STRANGLING A LION. FROM KHORSABAD SCULPTURE.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](caog01)
+[Next: Introduction](caog01.md)
 
 </div>

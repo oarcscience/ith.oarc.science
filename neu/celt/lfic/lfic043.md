@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic042)  [Next](lfic044) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic042)  [Next](lfic044.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ illustration of the system, we subjoin the very old legend of:
 
 ------------------------------------------------------------------------
 
-[Next: Illan Eachtach and the Lianan](lfic044)
+[Next: Illan Eachtach and the Lianan](lfic044.md)

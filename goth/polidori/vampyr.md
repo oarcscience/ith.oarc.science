@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
 
 ------------------------------------------------------------------------
 

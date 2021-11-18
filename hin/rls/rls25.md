@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls24)  [Next](rls26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls24)  [Next](rls26.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 #### THE
 
-# SAYINGS OF RÂMAK*RI*SH*N*A <span id="fr_14"></span>[1](#fn_14).
+# SAYINGS OF RÂMAK*RI*SH*N*A <span id="fr_14"></span>[1](#fn_14.md).
 
 ### 1-99
 
@@ -690,10 +690,10 @@ Divine, and that I am Her son.'
 
 ### Footnotes
 
-<span id="fn_14"></span>[98:1](rls25.htm#fr_14) Some more of
+<span id="fn_14"></span>[98:1](rls25.htm#fr_14.md) Some more of
 Râmak*ri*sh*n*a's sayings have been sent to me lately, but their
 publication will have to wait for another opportunity
 
 ------------------------------------------------------------------------
 
-[Next: The Sayings of Râmak*ri*sh*n*a: 100-199](rls26)
+[Next: The Sayings of Râmak*ri*sh*n*a: 100-199](rls26.md)

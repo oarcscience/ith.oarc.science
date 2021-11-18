@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jon00)  [Next](zjo01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jon00)  [Next](zjo01.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ nothing like them in the field of serving God, the Exalted.
 
 ------------------------------------------------------------------------
 
-[Next: The Death Zacharias and John](zjo01)
+[Next: The Death Zacharias and John](zjo01.md)

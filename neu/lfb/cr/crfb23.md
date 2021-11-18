@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb22)  [Next](crfb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb22)  [Next](crfb24.md) 
 
 </div>
 
@@ -294,6 +294,6 @@ of all foxes.
 
 ------------------------------------------------------------------------
 
-[Next: How the Beggar Boy Turned Into Count Piro](crfb24)
+[Next: How the Beggar Boy Turned Into Count Piro](crfb24.md)
 
 </div>

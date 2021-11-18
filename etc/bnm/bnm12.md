@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm11)  [Next](bnm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm11)  [Next](bnm13.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ that has no tail."
 
 ------------------------------------------------------------------------
 
-[Next: How The Quail Became A Snipe.](bnm13)
+[Next: How The Quail Became A Snipe.](bnm13.md)

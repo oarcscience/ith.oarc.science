@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl20)  [Next](hhl22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl20)  [Next](hhl22.md) 
 
 ------------------------------------------------------------------------
 
@@ -311,7 +311,7 @@ for the large assembly. The Hilo people were separated from
 
 [![HAWAIIAN GRASS HOUSES&lt;br&gt; &lt;i&gt;By courtesy Paradise of the
 Pacific&lt;/i&gt;.](tn/17200.jpg)  
-Click to enlarge](img/17200.jpg)  
+Click to enlarge](img/17200.jpg.md)  
 HAWAIIAN GRASS HOUSES  
 *By courtesy Paradise of the Pacific*.  
 
@@ -385,4 +385,4 @@ conscience to a sense of just dealing between the strong and the weak.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. Last of the Tabu](hhl22)
+[Next: XVIII. Last of the Tabu](hhl22.md)

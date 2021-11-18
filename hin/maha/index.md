@@ -23,7 +23,7 @@ proofed at Intangible Textual Heritage by John Bruno Hare. Books 8-11
 and 16-18 were scanned and proofed by Mantra Caitanya.
 
 <span class="c_da"></span> <span class="c_da"></span> <span
-class="c_dd"></span> [The Mahabharata in Sanskrit](../mbs/index)  
+class="c_dd"></span> [The Mahabharata in Sanskrit](../mbs/index.md)  
 (*Parallel Devanagari and Romanization*)  
 The Ganguli English translation is also cross-linked on a book-by-book
 basis with the Sanskrit text.
@@ -31,53 +31,53 @@ basis with the Sanskrit text.
 ------------------------------------------------------------------------
 
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 1: Adi
-Parva](../m01/index)</span>   \[[Sanskrit](../mbs/mbsi01)\] </span>  
+Parva](../m01/index)</span>   \[[Sanskrit](../mbs/mbsi01.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 2: Sabha
-Parva](../m02/index)</span>   \[[Sanskrit](../mbs/mbsi02)\] </span>  
+Parva](../m02/index)</span>   \[[Sanskrit](../mbs/mbsi02.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 3: Vana
-Parva](../m03/index)</span>   \[[Sanskrit](../mbs/mbsi03)\] </span>  
+Parva](../m03/index)</span>   \[[Sanskrit](../mbs/mbsi03.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 4: Virata
-Parva](../m04/index)</span>   \[[Sanskrit](../mbs/mbsi04)\] </span>  
+Parva](../m04/index)</span>   \[[Sanskrit](../mbs/mbsi04.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 5: Udyoga
-Parva](../m05/index)</span>   \[[Sanskrit](../mbs/mbsi05)\] </span>  
+Parva](../m05/index)</span>   \[[Sanskrit](../mbs/mbsi05.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 6: Bhishma
-Parva](../m06/index)</span>   \[[Sanskrit](../mbs/mbsi06)\] </span>  
+Parva](../m06/index)</span>   \[[Sanskrit](../mbs/mbsi06.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 7: Drona
-Parva](../m07/index)</span>   \[[Sanskrit](../mbs/mbsi07)\] </span>  
+Parva](../m07/index)</span>   \[[Sanskrit](../mbs/mbsi07.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 8: Karna
-Parva](../m08/index)</span>   \[[Sanskrit](../mbs/mbsi08)\] </span>  
+Parva](../m08/index)</span>   \[[Sanskrit](../mbs/mbsi08.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 9: Shalya
-Parva](../m09/index)</span>   \[[Sanskrit](../mbs/mbsi09)\] </span>  
+Parva](../m09/index)</span>   \[[Sanskrit](../mbs/mbsi09.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 10: Sauptika
-Parva](../m10/index)</span>   \[[Sanskrit](../mbs/mbsi10)\] </span>  
+Parva](../m10/index)</span>   \[[Sanskrit](../mbs/mbsi10.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 11: Stri
-Parva](../m11/index)</span>   \[[Sanskrit](../mbs/mbsi11)\] </span>  
+Parva](../m11/index)</span>   \[[Sanskrit](../mbs/mbsi11.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 12: Santi
-Parva](../m12/index)</span>   \[[Sanskrit](../mbs/mbsi12)\] </span>  
+Parva](../m12/index)</span>   \[[Sanskrit](../mbs/mbsi12.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 13:
-Anusasana Parva](../m13/index)</span>   \[[Sanskrit](../mbs/mbsi13)\]
+Anusasana Parva](../m13/index)</span>   \[[Sanskrit](../mbs/mbsi13.md)\]
 </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 14:
-Aswamedha Parva](../m14/index)</span>   \[[Sanskrit](../mbs/mbsi14)\]
+Aswamedha Parva](../m14/index)</span>   \[[Sanskrit](../mbs/mbsi14.md)\]
 </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 15:
-Asramavasika Parva](../m15/index)</span>   \[[Sanskrit](../mbs/mbsi15)\]
+Asramavasika Parva](../m15/index)</span>   \[[Sanskrit](../mbs/mbsi15.md)\]
 </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 16: Mausala
-Parva](../m16/index)</span>   \[[Sanskrit](../mbs/mbsi16)\] </span>  
+Parva](../m16/index)</span>   \[[Sanskrit](../mbs/mbsi16.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 17:
-Mahaprasthanika Parva](../m17/index)</span>
-  \[[Sanskrit](../mbs/mbsi17)\] </span>  
+Mahaprasthanika Parva](../m17/index.md)</span>
+  \[[Sanskrit](../mbs/mbsi17.md)\] </span>  
 <span class="c_e"> <span class="c_t">[The Mahabharata, Book 18:
-Svargarohanika Parva](../m18/index)</span>
-  \[[Sanskrit](../mbs/mbsi18)\] </span>  
+Svargarohanika Parva](../m18/index.md)</span>
+  \[[Sanskrit](../mbs/mbsi18.md)\] </span>  
 
 <span class="c_da"></span> <span class="c_da"></span> <span
 class="c_dd"></span>
 
 ------------------------------------------------------------------------
 
-[Download the Mahabharata in text format](mahatxt.zip) *mahatxt.zip* \[5
+[Download the Mahabharata in text format](mahatxt.zip.md) *mahatxt.zip* \[5
 Mb (5,248,645 bytes)\]. This includes all of the Mahabharata files.
 Updated 1/22/2005.
 

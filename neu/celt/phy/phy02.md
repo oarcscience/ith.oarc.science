@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy01)  [Next](phy03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy01)  [Next](phy03.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Mona's Isle](phy03)
+[Next: Mona's Isle](phy03.md)

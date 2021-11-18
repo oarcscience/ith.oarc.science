@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss12)  [Next](jss14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss12)  [Next](jss14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -97,19 +97,19 @@ Then he holds them in one hand, sways
 
 <span id="img_10600"></span> <span align="CENTER"> [![TEA FROM CHINA,
 COMING FROM KIAKHTA TO THE RAILROAD IN IRKUTSK.](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 TEA FROM CHINA, COMING FROM KIAKHTA TO THE RAILROAD IN IRKUTSK.  
 </span>
 
-*Page* [20](jss06.htm#page_20)
+*Page* [20](jss06.htm#page_20.md)
 
 <span id="img_10601"></span> <span align="CENTER"> [![BURIAT WATCH
 DOG.](tn/10601.jpg)  
-Click to enlarge](img/10601.jpg)  
+Click to enlarge](img/10601.jpg.md)  
 BURIAT WATCH DOG.  
 </span>
 
-*Page* [27](jss06.htm#page_27)
+*Page* [27](jss06.htm#page_27.md)
 
  
 
@@ -523,7 +523,7 @@ certain groves. No tree can be felled, twig broken, or grass cut in such
 a grove. In passing the grove offerings are made of tarasun or tobacco.
 
 Not far from the village of Usturdi, where I spent several weeks, there
-is a sacred grove of a Bumal [Burkan](errata.htm#2). Some years ago
+is a sacred grove of a Bumal [Burkan](errata.htm#2.md). Some years ago
 three or four Buriats who had lost faith in their ancient religion
 decided to measure the land and cut the grass around the grove. Shamans
 warned them that not only the grove, but the land to the extent of some
@@ -580,4 +580,4 @@ died.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Gods of the Buriats](jss14)
+[Next: Chapter X. The Gods of the Buriats](jss14.md)

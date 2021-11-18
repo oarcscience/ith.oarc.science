@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama505) 
-[Next](kama600) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama505.md) 
+[Next](kama600.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ her coming to some particular place he should conceal himself there, and
 at the appointed time should enter along with her as one of the guards.
 He may also go in and out, concealed in a folded bed, or bed covering,
 or with his body made invisible, <span
-id="fr_67"></span>[1](kama101.htm#fn_0) by means of external
+id="fr_67"></span>[1](kama101.htm#fn_0.md) by means of external
 applications, a receipt for one of which is as follows:
 
 The heart of an ichneumon, the fruit of the long gourd (tumbi), and the
@@ -152,9 +152,9 @@ cause other persons to enter the harem, and therefore Gonikaputra says
 that kings should place such men in the harem as may have had their
 freedom from carnal desires, their fears, and their avarice well tested.
 Lastly Vatsyayana says that under the influence of Dharma <span
-id="fr_68"></span>[2](kama101.htm#fn_1) people might be admitted, and
+id="fr_68"></span>[2](kama101.htm#fn_1.md) people might be admitted, and
 therefore men should be selected who are free from carnal desires, fear,
-avarice, and Dharma. <span id="fr_69"></span>[3](kama101.htm#fn_2)
+avarice, and Dharma. <span id="fr_69"></span>[3](kama101.htm#fn_2.md)
 
 The followers of Babhravya say that a man should cause his wife to
 associate with a young woman who would tell him the secrets of other
@@ -190,21 +190,21 @@ over the wives of others.'
 
 ### Footnotes
 
-<span id="fn_67"></span>[1](#fr_-1) The way to make oneself invisible,
+<span id="fn_67"></span>[1](#fr_-1.md) The way to make oneself invisible,
 the knowledge of the art of transmigration, or changing ourselves or
 others into any shape or form by the use of charms and spells, the power
 of being in two places at once, and other occult sciences are frequently
 referred to in all Oriental literature.
 
-<span id="fn_68"></span>[2](#fr_-1) This may be considered as meaning
+<span id="fn_68"></span>[2](#fr_-1.md) This may be considered as meaning
 religious influence, and alludes to persons who may be gained over by
 that means.
 
-<span id="fn_69"></span>[3](#fr_-1) It will be noted from the above
+<span id="fn_69"></span>[3](#fr_-1.md) It will be noted from the above
 remarks that eunuchs do nob appear to have been employed in the king's
 harem in those days, though they seem to have been employed for other
 purposes. See Part II, Chapter II.
 
 ------------------------------------------------------------------------
 
-[Next: Introductory Remarks](kama600)
+[Next: Introductory Remarks](kama600.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat64)  [Next](jat66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat64)  [Next](jat66.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ them back with them. They danced with the scalp.
 
 ------------------------------------------------------------------------
 
-[Next: 64. Pesita Is Shot](jat66)
+[Next: 64. Pesita Is Shot](jat66.md)

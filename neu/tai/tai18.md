@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai17)  [Next](tai19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai17)  [Next](tai19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ people, and these Asiatics were allowed to settle on Russian soil. The
 remnants of the Pečenegs, the Torks, the Beréndiči, and other similar
 tribes were collectively called Black-caps \[черные клобуки\] and used
 as auxiliaries of the Prince of Kíev. In like manner Černígov <span
-id="fr_4"></span>[†](#fn_4) and Galicia drew on other barbarian peoples
+id="fr_4"></span>[†](#fn_4.md) and Galicia drew on other barbarian peoples
 as mercenaries.
 
 These ruralized Turanians became the natural allies of the Russians in
@@ -219,8 +219,8 @@ the ancient Eastern Empire, and to occupy the impregnable Dardanelles.
 
 ### Footnotes
 
-<span id="fn_4"></span>[xxv:†](tai18.htm#fr_4) e.g. the Куи or Ковун.
+<span id="fn_4"></span>[xxv:†](tai18.htm#fr_4.md) e.g. the Куи or Ковун.
 
 ------------------------------------------------------------------------
 
-[Next: The Historical References to Ígoŕ Svyatoslávic](tai19)
+[Next: The Historical References to Ígoŕ Svyatoslávic](tai19.md)

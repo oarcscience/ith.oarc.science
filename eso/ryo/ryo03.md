@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo02) 
-[Next](ryo04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo02.md) 
+[Next](ryo04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Raja Yoga*, by Yogi Ramacharaka (William Walker Atkinson), \[1906\], at
 Intangible Textual Heritage
 
@@ -408,7 +408,7 @@ who are its centre.
 It will not be necessary for you to argue out this matter, or to
 convince yourself of its truth by intellectual reasoning. The knowledge
 does not come in that way. It comes in the shape of a realization of the
-truth gradually dawning upon your [consciousness](errata.htm#0) through
+truth gradually dawning upon your [consciousness](errata.htm#0.md) through
 meditation and concentration. Carry this thought of yourself as a
 "Centre of Consciousness—
 
@@ -685,8 +685,8 @@ Body.
 "I" am Immortal and cannot be Destroyed. "I" am Invincible and cannot be
 Injured.
 
-<span id="img_02200"></span> ![I](img/02200.jpg)
+<span id="img_02200"></span> ![I](img/02200.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Lesson II. The Ego's Mental Tools](ryo04)
+[Next: Lesson II. The Ego's Mental Tools](ryo04.md)

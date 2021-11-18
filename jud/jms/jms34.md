@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms33)  [Next](jms35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms33)  [Next](jms35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -136,7 +136,7 @@ Moses*, p. xiii, 11. 2, 21; Thorndike, I, 730, IV, 129; Elworthy, 401.
 <span id="an_13_18">18</span>. *Sheb.* 15b; *Yore Deah* 179:8, g; ms.
 *S. Gematriaot*, 47a, 49a, 54b, 63a; *Shimmush Tehillim*, Ps. 3, 6, 49,
 119; Grunwald, *MJV*, XIX (1906), 116; cf. also pp.
-[105](jms10.htm#page_105) f. above.
+[105](jms10.htm#page_105.md) f. above.
 
 <span id="an_13_19">19</span>. Strack, 19; Blau, 161 f.; *Rabiah*, I,
 330; *Mordecai*, *Shab.* §523, p. 12e; Güd. I, 216; *Kol Bo*, §31, p.
@@ -192,4 +192,4 @@ See also I. Löw, *Die Flora der Juden*, IV, 341 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](jms35)
+[Next: Chapter XIV](jms35.md)

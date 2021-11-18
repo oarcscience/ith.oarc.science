@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh00)  [Next](seh02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh00)  [Next](seh02.md) 
 
 ------------------------------------------------------------------------
 
 This advertisement preceded the title page in the original book. It is
 included for completeness. A bibliography can be found on page
-[xliv](seh05.htm#page_xliv)--JBH.
+[xliv](seh05.htm#page_xliv.md)--JBH.
 
 <div align="center">
 
@@ -36,4 +36,4 @@ included for completeness. A bibliography can be found on page
 
 ------------------------------------------------------------------------
 
-[Next: Contents](seh02)
+[Next: Contents](seh02.md)

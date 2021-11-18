@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](fsar15)  [Next](fsar17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](fsar15)  [Next](fsar17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9IO12/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9IO12/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Flying Saucers Are Real*, by Donald Keyhoe, \[1950\], at Intangible
 Textual Heritage
 
@@ -156,4 +156,4 @@ But if it weren't done right, we might be opening a Pandora's box.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](fsar17)
+[Next: Chapter XVI](fsar17.md)

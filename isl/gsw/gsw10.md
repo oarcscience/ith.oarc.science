@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw09)  [Next](gsw11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw09)  [Next](gsw11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_83">p. 83</span>
 
-<span id="img_08300"></span> ![FROM AN OLD BRASS TRAY](img/08300.jpg)
+<span id="img_08300"></span> ![FROM AN OLD BRASS TRAY](img/08300.jpg.md)
 
 ### CHAPTER VI
 
@@ -107,13 +107,13 @@ be a rival to that at the capital, but Allah knows if this be true.
 
 No account, however, of the residence of the Governor-General would be
 complete without a reference to the Drum House. From the days of
-Jamshid, <span id="fr_39"></span>[1](#fn_39) who built the palaces still
+Jamshid, <span id="fr_39"></span>[1](#fn_39.md) who built the palaces still
 called by
 
 <span id="img_08600"></span> <span align="CENTER"> [![THE FORT OF
 ARDESHIR&lt;br&gt; &lt;i&gt;E. C. Sykes,
 phot&lt;/i&gt;.](tn/08600.jpg)  
-Click to enlarge](img/08600.jpg)  
+Click to enlarge](img/08600.jpg.md)  
 THE FORT OF ARDESHIR  
 *E. C. Sykes, phot*.  
 </span>
@@ -129,7 +129,7 @@ size, pipes, and long trumpets quite six
 <span id="img_08700"></span> <span align="CENTER"> [![A PARSI
 GARDENER&lt;br&gt; &lt;i&gt;H. R. Sykes,
 phot&lt;/i&gt;.](tn/08700.jpg)  
-Click to enlarge](img/08700.jpg)  
+Click to enlarge](img/08700.jpg.md)  
 A PARSI GARDENER  
 *H. R. Sykes, phot*.  
 </span>
@@ -143,13 +143,13 @@ of the Drum House.
 
 <span id="img_08900"></span> <span align="CENTER"> [![A PERSIAN
 BAND](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 A PERSIAN BAND  
 </span>
 
 Our city, compared to which Shiraz is little more than a village, is
 surrounded by lovely gardens, many of which are owned by the
-Gabrs, <span id="fr_40"></span>[1](#fn_40)
+Gabrs, <span id="fr_40"></span>[1](#fn_40.md)
 
 <span id="page_90">p. 90</span>
 
@@ -181,7 +181,7 @@ and running streams; and we spent the summer
 
 <span id="img_09100"></span> <span align="CENTER"> [![A KERMAN CARPET
 AND ITS OWNER](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)  
+Click to enlarge](img/09100.jpg.md)  
 A KERMAN CARPET AND ITS OWNER  
 </span>
 
@@ -247,7 +247,7 @@ fool, and what I know, I know.
 Once, our Governor-General sent one of his sons to Europe with plenty of
 money, and with instructions to study history, law, geography, all
 sciences and languages, and above all, Parliament. <span
-id="fr_41"></span>[1](#fn_41) Well, Fazal Ullah Khan spent several years
+id="fr_41"></span>[1](#fn_41.md) Well, Fazal Ullah Khan spent several years
 and much money in London, and wrote to his father such accounts of his
 learning and of the attentions paid to him by its Viziers, who,
 according to him, vied with one another in honouring him, that the
@@ -414,12 +414,12 @@ He died while giving a lecture to his eager
 
 <span id="img_10100"></span> <span align="CENTER"> [![PLAN OF THE MESHED
 SHRINE.](tn/10100.jpg)  
-Click to enlarge](img/10100.jpg)  
+Click to enlarge](img/10100.jpg.md)  
 PLAN OF THE MESHED SHRINE.  
 </span>
 
 disciples on the love of Allah, murmuring 'Hu, Hu, Hu.' <span
-id="fr_42"></span>[1](#fn_42) In truth he was a holy man. May Allah
+id="fr_42"></span>[1](#fn_42.md) In truth he was a holy man. May Allah
 forgive him!
 
 I have referred to this question, for Allah knows there be enough
@@ -439,7 +439,7 @@ Kerman is the heart of the world, and we are men of heart.
  
 
 <span id="img_10101"></span> ![DESIGN FROM AN OLD BRASS
-TRAY](img/10101.jpg)
+TRAY](img/10101.jpg.md)
 
  
 
@@ -449,21 +449,21 @@ TRAY](img/10101.jpg)
 
 ### Footnotes
 
-<span id="fn_39"></span>[86:1](gsw10.htm#fr_39) Persepolis is termed
+<span id="fn_39"></span>[86:1](gsw10.htm#fr_39.md) Persepolis is termed
 "The Throne of Jamshid" by the Persians.
 
-<span id="fn_40"></span>[89:1](gsw10.htm#fr_40) The Gabrs, or Parsis, as
+<span id="fn_40"></span>[89:1](gsw10.htm#fr_40.md) The Gabrs, or Parsis, as
 we term them, sometimes identify Zoroaster with Abraham. As a matter of
 fact, when given a chance, as in India, they prove themselves to be a
 very fine race. In Persia, too, they are noted for their integrity.
 
-<span id="fn_41"></span>[95:1](gsw10.htm#fr_41) The strength of the
+<span id="fn_41"></span>[95:1](gsw10.htm#fr_41.md) The strength of the
 British nation is held to be derived from this word, which was formerly
 believed to be magical.
 
-<span id="fn_42"></span>[101:1](gsw10.htm#fr_42) *Sc*. He, meaning
+<span id="fn_42"></span>[101:1](gsw10.htm#fr_42.md) *Sc*. He, meaning
 thereby God.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Death of *Mirza* Hasan Khan, *Mustaufi*](gsw11)
+[Next: Chapter VII. The Death of *Mirza* Hasan Khan, *Mustaufi*](gsw11.md)

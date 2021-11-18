@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw01)  [Next](tnw03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw01)  [Next](tnw03.md) 
 
 ------------------------------------------------------------------------
 
@@ -510,7 +510,7 @@ therefore may be addressed
 <span id="page_26">p. 26</span>
 
 without impertinence by any counsel interested in the case. <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 I lay these imperfect suggestions before the public in the hope that
 they may be found of some interest, apart from their exciting cause; and
@@ -533,8 +533,8 @@ as a wreath upon his tomb.
 
 ### Footnotes
 
-<span id="fn_0"></span>[26:\*](tnw02.htm#fr_0) See introductory note.
+<span id="fn_0"></span>[26:\*](tnw02.htm#fr_0.md) See introductory note.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Psychology: The Personal Equation](tnw03)
+[Next: 2. Psychology: The Personal Equation](tnw03.md)

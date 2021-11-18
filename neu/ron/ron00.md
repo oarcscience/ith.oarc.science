@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Next](ron01) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Next](ron01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Sagas](../index)  [Index](index)  [Next](ron01) 
 ###### Scanned at sacred-text.com, March 2003. J. B. Hare, redactor. This text is in the public domain. These files may be used for any non-commercial purpose provided this notice of attribution is left intact.
 
 <span id="img_front"></span> [![](tn/front.jpg)  
-Click to enlarge](img/front.jpg)
+Click to enlarge](img/front.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](ron01)
+[Next: List of Illustrations](ron01.md)

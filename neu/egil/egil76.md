@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil75)  [Next](egil77) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil75)  [Next](egil77.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ needful.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXVI. Egil comes to landowner Alf.](egil77)
+[Next: CHAPTER LXXVI. Egil comes to landowner Alf.](egil77.md)

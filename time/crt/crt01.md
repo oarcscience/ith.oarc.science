@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt00)  [Next](crt02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt00)  [Next](crt02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,8 +23,8 @@ Nativity.
 
 In Part I. I have dealt with the festival on its distinctively Christian
 side. The book has, however, been so planned that readers not interested
-in this aspect of Christmas may pass over  [II](crt05.htm#Chapter_II),
-and proceed at once from the Introduction to  [II](crt10.htm#Part_II),
+in this aspect of Christmas may pass over  [II](crt05.htm#Chapter_II.md),
+and proceed at once from the Introduction to  [II](crt10.htm#Part_II.md),
 which treats of pagan survivals.
 
 The book has been written primarily for the general reader, but I
@@ -76,4 +76,4 @@ portions of my MS., and for some valuable suggestions.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](crt02)
+[Next: Contents](crt02.md)

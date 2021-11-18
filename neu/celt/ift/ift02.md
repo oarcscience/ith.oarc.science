@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ift01)  [Next](ift03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ift01)  [Next](ift03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1496,4 +1496,4 @@ his submission.
 
 ------------------------------------------------------------------------
 
-[Next: The Birth of Bran](ift03)
+[Next: The Birth of Bran](ift03.md)

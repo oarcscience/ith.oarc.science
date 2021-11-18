@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
-[Index](index)  [Previous](vao06)  [Next](vao08) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
+[Index](index)  [Previous](vao06)  [Next](vao08.md) 
 
 ------------------------------------------------------------------------
 
@@ -2817,4 +2817,4 @@ Obeah man secures the duppy who acts as his 'familiar' or 'control.'"\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Conclusion](vao08)
+[Next: Chapter VI: Conclusion](vao08.md)

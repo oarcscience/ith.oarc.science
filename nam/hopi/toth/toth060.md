@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth059)  [Next](toth061) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth059)  [Next](toth061.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 57. THE LOCUST THAT CAME TO LIFE WHILE BEING ROASTED. <span id="fr_125"></span>[1](#fn_123)
+## 57. THE LOCUST THAT CAME TO LIFE WHILE BEING ROASTED. <span id="fr_125"></span>[1](#fn_123.md)
 
 Halíksai! In Oraíbi they were living. In the summer there were many
 locusts in the valleys around the village, and the boys and girls used
@@ -62,9 +62,9 @@ hissing sound.
 
 ### Footnotes
 
-<span id="fn_123"></span>[181:1](toth060.htm#fr_125) Told by,
+<span id="fn_123"></span>[181:1](toth060.htm#fr_125.md) Told by,
 Tangákhoyoma (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 58. The Coyote and the Turtles](toth061)
+[Next: 58. The Coyote and the Turtles](toth061.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sikhism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](rosi02) 
-[Next](rosi04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sikhism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](rosi02.md) 
+[Next](rosi04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Sikhs*, by Dorothy Field, \[1914\], at Intangible
 Textual Heritage
 
@@ -40,6 +40,6 @@ S. A. KAPADIA.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Sikh Gurus](rosi04)
+[Next: Chapter I. The Sikh Gurus](rosi04.md)
 
 </div>

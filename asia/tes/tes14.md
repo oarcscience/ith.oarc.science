@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes13)  [Next](tes15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes13)  [Next](tes15.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,11 +61,11 @@ in the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_16"></span>[29:1](tes13.htm#fr_16) Among the Tungus and the
+<span id="fn_16"></span>[29:1](tes13.htm#fr_16.md) Among the Tungus and the
 Lamut, cradles of small children are so constructed that they may form
 one half of the usual pack load of a pack reindeer so they may be
 carried along with infants on the reindeer back.
 
 ------------------------------------------------------------------------
 
-[Next: 4. A Tale About Stingy Reindeer-Owners](tes15)
+[Next: 4. A Tale About Stingy Reindeer-Owners](tes15.md)

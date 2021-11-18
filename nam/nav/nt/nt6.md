@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index) [Index](index) [Previous](nt5) [Next](nt7)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index) [Index](index) [Previous](nt5) [Next](nt7.md)
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ the abalone and jet baskets many are black.
 
 ------------------------------------------------------------------------
 
-[Next](nt7)
+[Next](nt7.md)
 
  
 

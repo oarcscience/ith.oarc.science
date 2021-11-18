@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp38)  [Next](prp40) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp38)  [Next](prp40.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ rather have that for herself than all the former gods.
 
 ------------------------------------------------------------------------
 
-[Next: 40. Yon Telethusa befamed amid the damsels Suburran](prp40)
+[Next: 40. Yon Telethusa befamed amid the damsels Suburran](prp40.md)

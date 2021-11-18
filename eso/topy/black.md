@@ -1,5 +1,5 @@
-[TOPY](https://www.topy.net/topy/) \[External Site\] 
-[Sacred-Texts](../../index)  [Esoteric](../index) 
+[TOPY](https://www.topy.net/topy/.md) \[External Site\] 
+[Sacred-Texts](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@
 
 <img src="topylogo.gif" height="128" />
 
-[Introduction](black1)  
-[One](black2)  
-[Two](black3)  
-[Three](black4)  
-[Four](black5)  
-[Five](black6)  
-[Six](black7)  
-[Seven](black8)  
+[Introduction](black1.md)  
+[One](black2.md)  
+[Two](black3.md)  
+[Three](black4.md)  
+[Four](black5.md)  
+[Five](black6.md)  
+[Six](black7.md)  
+[Seven](black8.md)  

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff39)  [Next](fff41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff39)  [Next](fff41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -159,7 +159,7 @@ being from the original treatise as follows.
 nor simplicity, nor impossibility-of-composition, nor inconceptibility,
 nor imperceptibility, neither man, nor angel, nor god; in fine, neither
 anything at all for which man has ever found a name, nor any operation
-which falls within the range either of his [perception](errata.htm#31)
+which falls within the range either of his [perception](errata.htm#31.md)
 or conception. Such, or rather far more removed from the power of man's
 comprehension, was the state of non-being, when \[if we can speak of
 'when' in a state beyond time and space\] the Deity beyond being,
@@ -308,7 +308,7 @@ locus is the moon's track.
 <span class="margnote">The Great Ruler.</span>"After this, from the
 universal Seed and conglomeration of seed-mixture there burst forth and
 came into existence the Great Ruler, the head of the sensible universe,
-a beauty and magnitude and potency that [naught](errata.htm#32) can
+a beauty and magnitude and potency that [naught](errata.htm#32.md) can
 destroy." This is the demiurge; but let no mortal think that he can
 comprehend so great a being, "for he is more ineffable than ineffables,
 more potent than potencies,
@@ -858,7 +858,7 @@ reflected on the surface of
 
 <span id="page_281">p. 281</span>
 
-the earth's "atmosphere" or envelope, which [extended](errata.htm#33) as
+the earth's "atmosphere" or envelope, which [extended](errata.htm#33.md) as
 far as the moon.
 
 Now it is curious to notice that in the *Pistis Sophia* treatise the
@@ -954,4 +954,4 @@ doctrines.
 
 ------------------------------------------------------------------------
 
-[Next: The Valentinian Movement](fff41)
+[Next: The Valentinian Movement](fff41.md)

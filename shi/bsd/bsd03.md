@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd02)  [Next](bsd04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd02)  [Next](bsd04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -42,7 +42,7 @@ prevail in Japan.
 
 In my attempts to give satisfactory replies to M. de Laveleye and to my
 wife, I found that without understanding feudalism and Bushido, <span
-id="fr_0"></span>[1](#fn_0) the moral ideas of present Japan are a
+id="fr_0"></span>[1](#fn_0.md) the moral ideas of present Japan are a
 sealed volume.
 
 Taking advantage of enforced idleness on account of long illness, I put
@@ -94,11 +94,11 @@ I. N.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xii:1](bsd03.htm#fr_0) Pronounced Boóshee-doh'.
+<span id="fn_0"></span>[xii:1](bsd03.htm#fr_0.md) Pronounced Boóshee-doh'.
 In putting Japanese words and names into English, Hepburn's rule is
 followed, that the vowels should be used as in European languages, and
 the consonants as in English.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](bsd04)
+[Next: Introduction](bsd04.md)

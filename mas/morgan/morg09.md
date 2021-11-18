@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg08)  [Next](morg10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg08)  [Next](morg10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -43,7 +43,7 @@ drawers; his right breast bare; his left foot in a slipper, his right
 bare; a cable-tow twice around his neck; semi-hood-winked; in which
 situation he is conducted to the door of the lodge, where he gives two
 knocks, when the Senior Deacon rises and says: "Worshipful, while we are
-[peaceably](errata.htm#4) at work on the second degree of Masonry, under
+[peaceably](errata.htm#4.md) at work on the second degree of Masonry, under
 the influence of faith, hope, and charity, the door of the lodge is
 alarmed." Master to Senior Deacon, "Enquire the cause of that alarm."
 \[In many lodges they come to the door, knock, are answered by the
@@ -229,7 +229,7 @@ due-guard is given by raising the left arm until that part of it between
 the elbow and shoulder is perfectly horizontal, and raising the rest of
 the arm in a vertical position, so that that part of the arm below the
 elbow and that part above it form a square. This is called
-[the](errata.htm#5) due-guard of a Fellow Craft Mason. The two given
+[the](errata.htm#5.md) due-guard of a Fellow Craft Mason. The two given
 together, are called the signs and due-guard of a Fellow Craft Mason,
 and they are never given separately; they would not be recognized by a
 Mason if given separately. The Master, by the time he gives his steps,
@@ -574,7 +574,7 @@ morality. Your past behavior and regular deportment have merited the
 honor which we have now conferred; and in your new character it is
 expected that you will conform to the principles of the order by
 steadily persevering in the practice of every commendable
-[virtue](errata.htm#6). Such is the nature of your engagements as a
+[virtue](errata.htm#6.md). Such is the nature of your engagements as a
 Fellow Craft, and to these
 
 <span id="page_62">p. 62</span>
@@ -586,4 +586,4 @@ two sections.
 
 ------------------------------------------------------------------------
 
-[Next: First Section of the Fellow Craft Mason Lecture](morg10)
+[Next: First Section of the Fellow Craft Mason Lecture](morg10.md)

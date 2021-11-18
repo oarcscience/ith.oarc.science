@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm70)  [Next](bcm72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm70)  [Next](bcm72.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ Deposit the image in some place perfumed with evil odours, especially
 those of Mars, such as sulphur and *assafoetida*. Let it remain there
 for one night, having duly asperged it, observing the proper hour and
 time. Do likewise when the experiment is performed with characters and
-names, by touching the lovers <span id="fr_271"></span>[1](#fn_270) with
+names, by touching the lovers <span id="fr_271"></span>[1](#fn_270.md) with
 words, or by whatsoever other manner. But when the experiment is made by
 giving something to be eaten, the same must be performed on the day and
 hour proper to this work. All things being prepared, place them before
@@ -91,11 +91,11 @@ such experiments.
 
 ### Footnotes
 
-<span id="fn_270"></span>[299:1](bcm71.htm#fr_271) This means that the
+<span id="fn_270"></span>[299:1](bcm71.htm#fr_271.md) This means that the
 experiment is for the occult consolation of a rival. It will be seen,
 however, that there is a certain confusion, as the adjuration which
 follows will exhibit.
 
 ------------------------------------------------------------------------
 
-[Next: Section 2: Concerning Venereal Experiments](bcm72)
+[Next: Section 2: Concerning Venereal Experiments](bcm72.md)

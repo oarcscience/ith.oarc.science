@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor04)  [Next](sor06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor04)  [Next](sor06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -78,7 +78,7 @@ lodgement.
 
 She is an owner now, possesses something of her very own. *Distaff*,
 *bed*, *chest* is all the household has, as the old song says. <span
-id="fr_17"></span>[1](#fn_17) But soon a table will be added, a bench,
+id="fr_17"></span>[1](#fn_17.md) But soon a table will be added, a bench,
 or a couple of stools. . . . A poorly appointed house! but its furniture
 includes a living soul. The firelight heartens it; the consecrated bush
 of box guards the bed, to which is often added a pretty bunch of
@@ -131,7 +131,7 @@ the Gauls, proud and fantastic princesses, at the coming of Christ and
 His apostles, were wickedly impertinent and turned their backs. In
 Brittany they were dancing at the time, and never stopped. Hence their
 cruel sentence; they are doomed to live on till the Day of
-Judgment. <span id="fr_18"></span>[2](#fn_18) Many of them are reduced
+Judgment. <span id="fr_18"></span>[2](#fn_18.md) Many of them are reduced
 to the tiny dimensions of a rabbit or a mouse; for instance, the
 kowrig-gwans (fairy dwarfs), who at night-time, at the foot of old
 Druidical stones, ring you round with their elvish dances; or to take
@@ -243,7 +243,7 @@ hallucination, dreamy reverie, and the gift of tears.
 All innocence as the woman is, still she has a secret—we have said so
 before—a secret she never, never confesses at church. She carries shut
 within her breast a fond remembrance of the poor ancient gods, <span
-id="fr_19"></span>[3](#fn_19) now fallen to the estate of spirits, and a
+id="fr_19"></span>[3](#fn_19.md) now fallen to the estate of spirits, and a
 feeling of compassion for them. For do not for an instant suppose,
 because they are gods, they are exempt from pain and suffering. Lodged
 in rocks, in the trunks of oaks, they are very unhappy in winter. They
@@ -290,7 +290,7 @@ is hardly in full sympathy with such a case. Whispering low, the anxious
 wife prefers to address her prayer to some old-world deity, adored as a
 rustic god of yore, and whom such-and-such a church has been
 good-natured enough to make into a saint. <span
-id="fr_20"></span>[4](#fn_20) Thus bed and cradle, the tenderest
+id="fr_20"></span>[4](#fn_20.md) Thus bed and cradle, the tenderest
 mysteries a chaste and fond soul broods over, all this is still the
 province of the gods of ancient days.
 
@@ -321,7 +321,7 @@ he is never far from her. He rubs against her skirt, she can hear the
 rustle he makes. He is for ever on the move about her, and evidently
 cannot quit her side. If she goes to the stable, there he is again. And
 she is almost sure, the other day, he was in the butter-firkin. <span
-id="fr_21"></span>[5](#fn_21)
+id="fr_21"></span>[5](#fn_21.md)
 
 What a pity she cannot catch him and have a good look at him! Once, all
 of a sudden, when she stirred the live embers, she thought she saw him
@@ -391,7 +391,7 @@ their home.
 
 ### Footnotes
 
-<span id="fn_17"></span>[22:1](sor05.htm#fr_17)
+<span id="fn_17"></span>[22:1](sor05.htm#fr_17.md)
 
 <div style="margin-left: 32px">
 
@@ -408,12 +408,12 @@ Et trois pas, revenez ici.
 
 </div>
 
-<span id="fn_18"></span>[24:2](sor05.htm#fr_18) The authorities of all
+<span id="fn_18"></span>[24:2](sor05.htm#fr_18.md) The authorities of all
 dates have been brought together in M. Alfred Maury's two learned books,
 *Les Fées*, 1843, and *La Magie*, 1860. Consult also, for the North,
 Grimm's *Mythologie*.
 
-<span id="fn_19"></span>[27:3](sor05.htm#fr_19) Nothing can be more
+<span id="fn_19"></span>[27:3](sor05.htm#fr_19.md) Nothing can be more
 touching than this fidelity to the old faith. In spite of persecution,
 in the fifth century, the peasants used still to carry in procession,
 under the form of poor little dolls of linen and flour, the deities of
@@ -428,9 +428,9 @@ unavailing. In 1389 the Sorbonne once more condemns the remaining traces
 of Paganism, and about 1400 Gerson (*Contra Astrol.*) mentions Astrology
 as an actual superstition still obstinately surviving.
 
-<span id="fn_20"></span>[28:4](sor05.htm#fr_20) A. Maury, *Magie*, 159.
+<span id="fn_20"></span>[28:4](sor05.htm#fr_20.md) A. Maury, *Magie*, 159.
 
-<span id="fn_21"></span>[29:5](sor05.htm#fr_21) This is one of the
+<span id="fn_21"></span>[29:5](sor05.htm#fr_21.md) This is one of the
 little glutton's favourite hiding-places. The Swiss, who know his
 likings, to this day make him presents of milk. Their name for him is
 *troll;* among the Germans he is called *kobold*, *nix;* among the
@@ -440,4 +440,4 @@ pinching them black and blue to wake them in the mornings.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Temptations](sor06)
+[Next: 4. Temptations](sor06.md)

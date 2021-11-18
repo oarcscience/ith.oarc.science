@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes56)  [Next](tes58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes56)  [Next](tes58.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ bed. Then they heard Yaghishna coming. They were frightened, and ran
 <span id="page_113">p. 113</span>
 
 off, leaving the girl behind. Yaghishna came in shuffling over the floor
-with her bristle-soled frozen boots. <span id="fr_88"></span>[1](#fn_88)
+with her bristle-soled frozen boots. <span id="fr_88"></span>[1](#fn_88.md)
 She seized the old man and the old woman, but forgot to take the girl.
 Then she came back and felt with her bands on the bed. She found the
 girl, put her into the corner behind the chimney, and covered her with a
@@ -98,13 +98,13 @@ Pokhotsk, the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_87"></span>[112:1](tes56.htm#fr_87) Kundarik or Kundirik
+<span id="fn_87"></span>[112:1](tes56.htm#fr_87.md) Kundarik or Kundirik
 (in the Anadyr), a small bird (*Acanthis exilipes*) (cf. [p.
-139](tes76.htm#page_139)).--W. B.
+139](tes76.htm#page_139).md).--W. B.
 
-<span id="fn_88"></span>[113:1](tes57.htm#fr_88) Cf. Bogoras, "The
+<span id="fn_88"></span>[113:1](tes57.htm#fr_88.md) Cf. Bogoras, "The
 Chukchee", 239--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Story of Hungry Children](tes58)
+[Next: 4. Story of Hungry Children](tes58.md)

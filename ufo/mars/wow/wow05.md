@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow04)  [Next](wow06) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow04)  [Next](wow06.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ from the pit about the cylinder and strike me down.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six: The Heat-Ray In The Chobham Road](wow06)
+[Next: Chapter Six: The Heat-Ray In The Chobham Road](wow06.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot12)  [Next](gcot14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot12)  [Next](gcot14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ question of division: it was a question of production.' As an instance
 of the second point of view, take the following: 'The absurdity of the
 notion of raising the poor without, to a corresponding degree,
 depressing the rich will be obvious.' <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 <span id="page_131">p. 131</span>
 
@@ -192,7 +192,7 @@ shall shortly discover, present itself in a somewhat startling fashion?
 
 A similar inconsistency is to be noticed in a little book which has had
 an enormous and well-deserved sale, *Merrie England*. The author,
-'Nunquam', <span id="fr_30"></span>[1](#fn_30) remarks at the outset:
+'Nunquam', <span id="fr_30"></span>[1](#fn_30.md) remarks at the outset:
 'The problem we have to consider is: Given a country and a people, find
 how the people may make the best of the country and themselves.' He then
 proceeds to vigorously condemn our cities, with their houses ugly and
@@ -317,7 +317,7 @@ created by his tenants, and he will embrace it to-morrow. If then, the
 average man is a potential landlord, to attack landlords as individuals
 is very like a nation drawing up an indictment against itself, and then
 making a scape-goat of a particular class. <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 But to endeavour to change our land system is a very different matter
 from attacking those individuals who represent it. But how is this
@@ -345,15 +345,15 @@ and this we can best do in another chapter.
 
 ### Footnotes
 
-<span id="fn_29"></span>[130:1](gcot13.htm#fr_29) Frank Fairman,
+<span id="fn_29"></span>[130:1](gcot13.htm#fr_29.md) Frank Fairman,
 *Principles of Socialism made plain* (London, 1888).
 
-<span id="fn_30"></span>[133:1](gcot13.htm#fr_30) Robert Blatchford.
+<span id="fn_30"></span>[133:1](gcot13.htm#fr_30.md) Robert Blatchford.
 
-<span id="fn_31"></span>[136:1](gcot13.htm#fr_31) I hope it is not
+<span id="fn_31"></span>[136:1](gcot13.htm#fr_31.md) I hope it is not
 ungrateful in one who has derived much inspiration from *Progress and
 Poverty* to write thus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Twelve. Social Cities](gcot14)
+[Next: Chapter Twelve. Social Cities](gcot14.md)

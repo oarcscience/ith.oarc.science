@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ajp09)  [Next](ajp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ajp09)  [Next](ajp11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Jewish Proverbs*, by Abraham Cohen, \[1911\], at Intangible
 Textual Heritage
 
@@ -408,4 +408,4 @@ Same as preceding.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Vagaries of Fortune](ajp11)
+[Next: Chapter VII: Vagaries of Fortune](ajp11.md)

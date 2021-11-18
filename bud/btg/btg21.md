@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg20)  [Next](btg22) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg20)  [Next](btg22.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ virtue were sown.
 
 ------------------------------------------------------------------------
 
-[Next: The King's Gift](btg22)
+[Next: The King's Gift](btg22.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic023)  [Next](lfic025) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic023)  [Next](lfic025.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ knoc, and there, sure enough, they were found. Heaven be his bed!
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Cure](lfic025)
+[Next: The Fairy Cure](lfic025.md)

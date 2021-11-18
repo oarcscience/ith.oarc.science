@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp33)  [Next](hmvp35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp33)  [Next](hmvp35.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -60,9 +60,9 @@ resplendent, Umā Haimavati. To her he said: 'What is this apparition?'
 She said, It is Brahmā; in this victory of Brahmā exult.' By this he
 knew that it was Brahmā. The commentators on this passage declare that
 Umā means 'knowledge,' and speak of Umā as the impersonation of 'divine
-knowledge.'" <span id="fr_257"></span>[\*](#fn_257)
+knowledge.'" <span id="fr_257"></span>[\*](#fn_257.md)
 
-Professor Weber <span id="fr_258"></span>[†](#fn_258) says: "As in Siva,
+Professor Weber <span id="fr_258"></span>[†](#fn_258.md) says: "As in Siva,
 first of all two gods, Agni and Rudra are combined, so too his wife is
 to be regarded as a compound of several divine forms; and this becomes
 quite evident as we look over the mass of her epithets. While one set of
@@ -81,7 +81,7 @@ explanation is certainly necessary when we see that Kāli is said to be
 the same with Umā, the embodiment of 'heavenly wisdom.'"
 
 In the following passage from the Rāmāyana, <span
-id="fr_259"></span>[\*](#fn_259) Umā is said to be the daughter of
+id="fr_259"></span>[\*](#fn_259.md) Umā is said to be the daughter of
 Himavat and Mena; the two forms of lima and Pārvati being confounded in
 the writer's mind. "To Himavat, the chief of mountains, the great mine
 of metal, two daughters were born in beauty unequalled upon earth. The
@@ -95,7 +95,7 @@ matchless Rudra. These were the two daughters of the King of the
 Mountains: Gangā, the most eminent of rivers, and Umā the most excellent
 of goddesses."
 
-"The Harivansa <span id="fr_260"></span>[†](#fn_260) mentions three
+"The Harivansa <span id="fr_260"></span>[†](#fn_260.md) mentions three
 daughters of Himavat and Mena, but Gangā is not amongst them. "Their
 (the Pitris) mental daughter was Mena, the eminent wife of the great
 mountain Himavat. The King of the Mountains begat three daughters upon
@@ -125,7 +125,7 @@ did not refer to Siva's wife. Umā, as we have already seen, was
 Taittiriya Āranyaka is an epithet of the sacrificial flame; and Kāli, a
 word which occurs in the Mandaka Upanishad, is the name of one of the
 seven flickering tongues of Agni, the god of fire." <span
-id="fr_261"></span>[\*](#fn_261)
+id="fr_261"></span>[\*](#fn_261.md)
 
 Umā is called the mother of Kartikeya, and in a certain sense of Ganesa
 too; but it is not at all clear whether it was really as Umā or in her
@@ -133,7 +133,7 @@ succeeding birth as Pārvati that she had these children.
 
 <span id="page_289">p. 289</span>
 
-The "Kurmā Purāna" <span id="fr_262"></span>[\*](#fn_262) has an account
+The "Kurmā Purāna" <span id="fr_262"></span>[\*](#fn_262.md) has an account
 of Umā's creation which takes us back, a stage anterior to her birth as
 a daughter of Daksha. "When Brahmā was angry with his sons for adopting
 an ascetic life \[and refusing to perpetuate the human race\], a form
@@ -167,16 +167,16 @@ her that she left him for a time, and, repairing to a deep forest,
 performed a most severe course of austerities, until Brahmā granted her
 as a boon that her complexion should be golden, and from this
 circumstance she is known as Gauri. <span
-id="fr_263"></span>[\*](#fn_263)
+id="fr_263"></span>[\*](#fn_263.md)
 
 <span id="img_29000"></span> <span align="CENTER"> [![SIVA AND
 PĀRVATI.](tn/29000.jpg)  
-Click to enlarge](img/29000.jpg)  
+Click to enlarge](img/29000.jpg.md)  
 SIVA AND PĀRVATI.  
 </span>
 
 The following legend from the "Vāraha Purāna" <span
-id="fr_264"></span>[†](#fn_264) describes her origin. Brahmā when on a
+id="fr_264"></span>[†](#fn_264.md) describes her origin. Brahmā when on a
 visit to Siva
 
 <span id="page_291">p. 291</span>
@@ -206,7 +206,7 @@ preserves the universe; the black was Pārvati, endowed with many
 qualities and the energy of Siva." In the preceding legend it was
 narrated how Pārvati, originally black, became golden-coloured.
 
-The "Vaivarta Purāna" <span id="fr_265"></span>[\*](#fn_265) relates the
+The "Vaivarta Purāna" <span id="fr_265"></span>[\*](#fn_265.md) relates the
 circumstance
 
 <span id="page_292">p. 292</span>
@@ -275,7 +275,7 @@ on account of
 our separation.' Having thus consoled Siva, Sati disappeared."
 
 In another chapter of the same Purāna we have an account of their
-reunion. <span id="fr_266"></span>[\*](#fn_266) " Sati soon obtained
+reunion. <span id="fr_266"></span>[\*](#fn_266.md) " Sati soon obtained
 another birth in the womb of Himavat's wife; and Siva, collecting the
 bones and ashes from her funeral pile, made a necklace of the bones and
 covered his body with the ashes, and thus preserved them as memorials of
@@ -283,7 +283,7 @@ his
 
 <span id="img_29400"></span> <span align="CENTER"> [![PĀRVATI
 WORSHIPPING THE LINGA.](tn/29400.jpg)  
-Click to enlarge](img/29400.jpg)  
+Click to enlarge](img/29400.jpg.md)  
 PĀRVATI WORSHIPPING THE LINGA.  
 </span>
 
@@ -351,7 +351,7 @@ obnoxious to gods and men.
 
 She obtained the name Durgā because she slew an asura named Durgā, the
 name of the goddess being the feminine form of the demon's name. The "
-Skanda Purāna" <span id="fr_267"></span>[\*](#fn_267) gives the
+Skanda Purāna" <span id="fr_267"></span>[\*](#fn_267.md) gives the
 following account of this occurrence. Kartikeya, being asked by Agastya,
 the sage, why his mother was called Durgā, says: "A giant named Durgā,
 the son of Ruru, having performed penance in favour of Brahmā, obtained
@@ -417,7 +417,7 @@ whereupon blood issued from his mouth in streams, and he died. The gods
 were delighted at the result, and soon regained their former splendour.
 
 Still another account of the origin of Durgā is found in the Chandi, a
-part of the "Mārkandeya Purāna." <span id="fr_268"></span>[\*](#fn_268)
+part of the "Mārkandeya Purāna." <span id="fr_268"></span>[\*](#fn_268.md)
 Mahisha, king of the giants, at one time overcame the
 
 <span id="page_299">p. 299</span>
@@ -435,7 +435,7 @@ with a frightful scream ascended into the air, slew the giant, and gave
 redress to the gods.
 
 The account, as found in the "Vāmana Purāna," <span
-id="fr_269"></span>[\*](#fn_269) differs in some details. When the gods
+id="fr_269"></span>[\*](#fn_269.md) differs in some details. When the gods
 had sought Vishnu in their distress, he, and at his command Sankara
 (Siva), Brahmā, and the other gods, emitted such flames from their eyes
 and countenances that a mountain of effulgence was formed, from which
@@ -494,7 +494,7 @@ Durgā is said to have assumed ten forms for the
 
 <span id="img_30100"></span> <span align="CENTER">
 [![DASABHUJĀ.](tn/30100.jpg)  
-Click to enlarge](img/30100.jpg)  
+Click to enlarge](img/30100.jpg.md)  
 DASABHUJĀ.  
 </span>
 
@@ -514,11 +514,11 @@ the armies of the giants; (8) As Tāra (the saviour) she slew Sumbha in
 his own proper shape; (9) As Chinnamustaka (the headless) she killed
 Nisumbha; (10) As Jagadgauri (the golden-coloured lady renowned through
 the world) she received the praises and thanks of the gods. <span
-id="fr_270"></span>[\*](#fn_270)
+id="fr_270"></span>[\*](#fn_270.md)
 
 The great conflict for success in which Durgā assumed so many forms is
 described as follows in the "Mārkandeya Purāna." <span
-id="fr_271"></span>[†](#fn_271) At the close of the Treta Age, two
+id="fr_271"></span>[†](#fn_271.md) At the close of the Treta Age, two
 giants, named Sumbha and Nisumbha, performed religious austerities for
 10,000 years, the merit of which brought Siva from heaven, who
 discovered that by this extraordinary devotion, they sought to obtain
@@ -655,7 +655,7 @@ It appears a reasonable hypothesis that Kāli was originally altogether
 distinct from Umā or Pārvati.
 
 In the following hymn of Arjuna to Durgā in the Mahābhārata, <span
-id="fr_272"></span>[\*](#fn_272) her many names are
+id="fr_272"></span>[\*](#fn_272.md) her many names are
 mentioned:—"Reverence be to thee, Siddha-Senāni (generaless of the
 Siddhas), the noble, the dweller on Mandara, Kumāri (Princess), Kāli,
 Kapāli, Kapilā, Krishnapingalā. Reverence to thee, Bhadrakāli; reverence
@@ -686,7 +686,7 @@ eternal place in the sky, be installed by Indra amongst the gods, obtain
 a perpetual abode on the Vindhya mountains, where meditating upon him
 (Vishnu) she would kill two demons, Sumbha and Nisumbha, and would be
 worshipped with animal sacrifices." <span
-id="fr_273"></span>[\*](#fn_273)
+id="fr_273"></span>[\*](#fn_273.md)
 
 ##### THE CHIEF FORMS OF DURGĀ.
 
@@ -696,7 +696,7 @@ rapturously of her to their lords that Sumbha sent her an offer of
 marriage by Sugriva.
 
 2\. <span class="smallcaps">Dasabhujā</span>, <span
-id="fr_274"></span>[†](#fn_274) the ten-handed, destroyed Sumbha's army
+id="fr_274"></span>[†](#fn_274.md) the ten-handed, destroyed Sumbha's army
 under the commander-in-chief Dhumlochana. Of these troops only a few
 fugitives escaped to carry the news of their defeat to their master.
 
@@ -712,7 +712,7 @@ had eight or, according to other accounts, ten arms.
 
 <span id="img_30800"></span> <span align="CENTER">
 [![JAGADDHĀTRI.](tn/30800.jpg)  
-Click to enlarge](img/30800.jpg)  
+Click to enlarge](img/30800.jpg.md)  
 JAGADDHĀTRI.  
 </span>
 
@@ -759,8 +759,8 @@ had shown him.
 
 <span id="page_310">p. 310</span>
 
-In the "Adhyatma <span id="fr_275"></span>[\*](#fn_275) Rāmāyana," <span
-id="fr_276"></span>[†](#fn_276) is a legend giving quite a different
+In the "Adhyatma <span id="fr_275"></span>[\*](#fn_275.md) Rāmāyana," <span
+id="fr_276"></span>[†](#fn_276.md) is a legend giving quite a different
 origin of Kāli; the object of the writer evidently being to enhance the
 glory of Sita, by showing that Kāli was but a form that she had assumed.
 On Rāma's return from the destruction of Rāvana, he was boasting of his
@@ -769,7 +769,7 @@ Havana with ten
 
 <span id="img_31000"></span> <span align="CENTER">
 [![KALI.](tn/31000.jpg)  
-Click to enlarge](img/31000.jpg)  
+Click to enlarge](img/31000.jpg.md)  
 KALI.  
 </span>
 
@@ -787,7 +787,7 @@ children.
 
 <span id="img_31100"></span> <span align="CENTER"> [![KĀLI DANCING ON
 SIVA.](tn/31100.jpg)  
-Click to enlarge](img/31100.jpg)  
+Click to enlarge](img/31100.jpg.md)  
 KĀLI DANCING ON SIVA.  
 </span>
 
@@ -808,7 +808,7 @@ the disrespect she was showing him, could she be prevailed upon to
 desist. Thus Siva saved the universe; and Sita, assuming her proper
 form, went home with Rāma and his brothers.
 
-The "Skanda Purāna" <span id="fr_277"></span>[\*](#fn_277) explains that
+The "Skanda Purāna" <span id="fr_277"></span>[\*](#fn_277.md) explains that
 Chandi, who came to the rescue and assisted Kāli in the destruction of
 Raktavija, was a form of Devi, assumed on another occasion for the
 destruction of Chanda. It is interesting to see that these leaders of
@@ -835,7 +835,7 @@ enabled to destroy them that I seek thy protection." Siva promises his
 help, and sends her in the guise of a messenger to challenge them to
 fight. They accept the challenge, and are slain by Siva.
 
-The "Linga Purāna" <span id="fr_278"></span>[\*](#fn_278) seems to teach
+The "Linga Purāna" <span id="fr_278"></span>[\*](#fn_278.md) seems to teach
 that Kāli, though produced by Durgā, was yet distinct from her. Formerly
 a female asura named Dārukā had through devotion obtained such power
 that she consumed like fire the gods and Brāhmans. But as she was
@@ -852,7 +852,7 @@ darkness, the gods retreated in alarm. Pārvati then created innumerable
 ghosts, goblins, and demons; attended by these, Kāli, in obedience to
 her order, attacked and destroyed Dārukā.
 
-Maurice <span id="fr_279"></span>[†](#fn_279) gives another account of
+Maurice <span id="fr_279"></span>[†](#fn_279.md) gives another account of
 Kāli: "The origin of this singular deity is perfectly in union with her
 life and history. Arrayed in complete armour, she sprang from the eye of
 the dreadful war-bred goddess Durgā, the vanquisher of demons and
@@ -864,7 +864,7 @@ that she was sinking under their united assaults. Kāli joining her
 extraordinary powers to those of her parent, they renew the combat and
 rout their foes with great slaughter."
 
-The "Mārkandeya Purāna" <span id="fr_280"></span>[\*](#fn_280) makes
+The "Mārkandeya Purāna" <span id="fr_280"></span>[\*](#fn_280.md) makes
 Kāli a production of Lakshmi. The origin of all things is Mahā Lakshmi,
 who visibly or invisibly pervades and dwells in all that is. Separating
 from herself the quality of darkness, she gave origin to a form black as
@@ -895,7 +895,7 @@ There can be no doubt that human sacrifices were
 formerly offered to Kāli, though now they are forbidden both by British
 law and the Hindu scriptures; the prohibition in Hindu books, however,
 is in a more recent class of books than those in which they were
-ordained. In the "Kālika Purāna," <span id="fr_281"></span>[\*](#fn_281)
+ordained. In the "Kālika Purāna," <span id="fr_281"></span>[\*](#fn_281.md)
 from which the following extracts are made, nothing could be clearer
 than the instruction regarding this cruel practice. Siva is addressing
 his sons the Bhairavas, initiating them in these terrible mysteries.
@@ -966,7 +966,7 @@ they first sacrificed to Kāli to obtain her blessing; and, on their
 return, paid a portion of the spoils as an offering for her help.
 
 7\. <span class="smallcaps">Muktakesi</span> <span
-id="fr_282"></span>[\*](#fn_282) (having flowing hair) destroyed another
+id="fr_282"></span>[\*](#fn_282) (having flowing hair.md) destroyed another
 part of the giant's forces. In appearance there is little to distinguish
 her from Kāli: she has four arms; holds a sword and a helmet in her left
 hands, and with her right she is bestowing a blessing and dispelling
@@ -1017,7 +1017,7 @@ for stirring rice when it is being boiled. Siva, as a mendicant, is
 receiving alms from her. She is the guardian deity of many Hindus, who
 have a proverb to the effect that a sincere disciple of this deity will
 never want rice. It is in connection with this form of Durgā that the
-"Linga Purāna" <span id="fr_283"></span>[\*](#fn_283) gives a legend
+"Linga Purāna" <span id="fr_283"></span>[\*](#fn_283.md) gives a legend
 explaining an image called Ardhanārishwara, which represents Siva and
 Durgā as together forming one body. Siva as a mendicant supported his
 wife and children by begging; but on one occasion,
@@ -1030,7 +1030,7 @@ day's contributions they had eaten; Ganesa's rat and Kartikeya's peacock
 
 <span id="img_31900"></span> <span align="CENTER">
 [![ANNAPURNĀ](tn/31900.jpg)  
-Click to enlarge](img/31900.jpg)  
+Click to enlarge](img/31900.jpg.md)  
 ANNAPURNĀ  
 </span>
 
@@ -1127,78 +1127,78 @@ teaching is in harmony with, or a legitimate development of them.
 
 ### Footnotes
 
-<span id="fn_257"></span>[286:\*](hmvp34.htm#fr_257) Muir, O. S. T., iv.
+<span id="fn_257"></span>[286:\*](hmvp34.htm#fr_257.md) Muir, O. S. T., iv.
 420.
 
-<span id="fn_258"></span>[286:†](hmvp34.htm#fr_258) Ibid., iv. 425.
+<span id="fn_258"></span>[286:†](hmvp34.htm#fr_258.md) Ibid., iv. 425.
 
-<span id="fn_259"></span>[287:\*](hmvp34.htm#fr_259) Muir, O. S. T., iv.
+<span id="fn_259"></span>[287:\*](hmvp34.htm#fr_259.md) Muir, O. S. T., iv.
 430.
 
-<span id="fn_260"></span>[287:†](hmvp34.htm#fr_260) Ibid., iv. 432.
+<span id="fn_260"></span>[287:†](hmvp34.htm#fr_260.md) Ibid., iv. 432.
 
-<span id="fn_261"></span>[288:\*](hmvp34.htm#fr_261) Goldstücker,
+<span id="fn_261"></span>[288:\*](hmvp34.htm#fr_261.md) Goldstücker,
 Chambers's Cyclopædia, *s.v.* "Umā."
 
-<span id="fn_262"></span>[289:\*](hmvp34.htm#fr_262) Kennedy, "Hindu
+<span id="fn_262"></span>[289:\*](hmvp34.htm#fr_262.md) Kennedy, "Hindu
 Mythology," p. 329.
 
-<span id="fn_263"></span>[290:\*](hmvp34.htm#fr_263) Kennedy, "Hindu
+<span id="fn_263"></span>[290:\*](hmvp34.htm#fr_263.md) Kennedy, "Hindu
 Mythology," p. 334.
 
-<span id="fn_264"></span>[290:†](hmvp34.htm#fr_264) Ibid., p. 209.
+<span id="fn_264"></span>[290:†](hmvp34.htm#fr_264.md) Ibid., p. 209.
 
-<span id="fn_265"></span>[291:\*](hmvp34.htm#fr_265) Kennedy, "Hindu
+<span id="fn_265"></span>[291:\*](hmvp34.htm#fr_265.md) Kennedy, "Hindu
 Mythology," p. 331.
 
-<span id="fn_266"></span>[294:\*](hmvp34.htm#fr_266) Kennedy, "Hindu
+<span id="fn_266"></span>[294:\*](hmvp34.htm#fr_266.md) Kennedy, "Hindu
 Mythology," p. 334.
 
-<span id="fn_267"></span>[296:\*](hmvp34.htm#fr_267) Ward, ii. 83.
+<span id="fn_267"></span>[296:\*](hmvp34.htm#fr_267.md) Ward, ii. 83.
 
-<span id="fn_268"></span>[298:\*](hmvp34.htm#fr_268) Ward, ii. 88.
+<span id="fn_268"></span>[298:\*](hmvp34.htm#fr_268.md) Ward, ii. 88.
 
-<span id="fn_269"></span>[299:\*](hmvp34.htm#fr_269) Kennedy, "Hindu
+<span id="fn_269"></span>[299:\*](hmvp34.htm#fr_269.md) Kennedy, "Hindu
 Mythology," p. 335.
 
-<span id="fn_270"></span>[302:\*](hmvp34.htm#fr_270) Ward, ii. 101.
+<span id="fn_270"></span>[302:\*](hmvp34.htm#fr_270.md) Ward, ii. 101.
 
-<span id="fn_271"></span>[302:†](hmvp34.htm#fr_271) Ibid., p. 98.
+<span id="fn_271"></span>[302:†](hmvp34.htm#fr_271.md) Ibid., p. 98.
 
-<span id="fn_272"></span>[306:\*](hmvp34.htm#fr_272) Muir, O. S. T., iv.
+<span id="fn_272"></span>[306:\*](hmvp34.htm#fr_272.md) Muir, O. S. T., iv.
 432.
 
-<span id="fn_273"></span>[307:\*](hmvp34.htm#fr_273) Muir, O. S. T., iv.
+<span id="fn_273"></span>[307:\*](hmvp34.htm#fr_273.md) Muir, O. S. T., iv.
 34.
 
-<span id="fn_274"></span>[307:†](hmvp34.htm#fr_274) See illustration,
-[p. 301](#img_30100).
+<span id="fn_274"></span>[307:†](hmvp34.htm#fr_274.md) See illustration,
+[p. 301](#img_30100.md).
 
-<span id="fn_275"></span>[310:\*](hmvp34.htm#fr_275) There are four
+<span id="fn_275"></span>[310:\*](hmvp34.htm#fr_275.md) There are four
 recensions of the Rāmāyana: Valmiki's, Vyasadeva's, the Adhuta, and the
 Adhyatma.
 
-<span id="fn_276"></span>[310:†](hmvp34.htm#fr_276) Ward, ii. 116.
+<span id="fn_276"></span>[310:†](hmvp34.htm#fr_276.md) Ward, ii. 116.
 
-<span id="fn_277"></span>[312:\*](hmvp34.htm#fr_277) Kennedy, "Hindu
+<span id="fn_277"></span>[312:\*](hmvp34.htm#fr_277.md) Kennedy, "Hindu
 Mythology," p. 338.
 
-<span id="fn_278"></span>[313:\*](hmvp34.htm#fr_278) Kennedy, "Hindu
+<span id="fn_278"></span>[313:\*](hmvp34.htm#fr_278.md) Kennedy, "Hindu
 Mythology," p. 337.
 
-<span id="fn_279"></span>[313:†](hmvp34.htm#fr_279) "Indian
+<span id="fn_279"></span>[313:†](hmvp34.htm#fr_279.md) "Indian
 Antiquities," ii. 184.
 
-<span id="fn_280"></span>[314:\*](hmvp34.htm#fr_280) Kennedy, "Hindu
+<span id="fn_280"></span>[314:\*](hmvp34.htm#fr_280.md) Kennedy, "Hindu
 Mythology," p. 210.
 
-<span id="fn_281"></span>[315:\*](hmvp34.htm#fr_281) Moor's " Hindu
+<span id="fn_281"></span>[315:\*](hmvp34.htm#fr_281.md) Moor's " Hindu
 Pantheon," 144 ff.
 
-<span id="fn_282"></span>[317:\*](hmvp34.htm#fr_282) Ward, ii. 101-117.
+<span id="fn_282"></span>[317:\*](hmvp34.htm#fr_282.md) Ward, ii. 101-117.
 
-<span id="fn_283"></span>[318:\*](hmvp34.htm#fr_283) Ward, ii. 187.
+<span id="fn_283"></span>[318:\*](hmvp34.htm#fr_283.md) Ward, ii. 187.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Sons of Siva and Pārvati](hmvp35)
+[Next: Chapter VIII. Sons of Siva and Pārvati](hmvp35.md)

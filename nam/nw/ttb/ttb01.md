@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb00)  [Next](ttb02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb00)  [Next](ttb02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="img_00400"></span> <span align="CENTER"> [![The Spider Lady
 and Thunder Bird and His Four Sons](tn/00400.jpg)  
-Click to enlarge](img/00400.jpg)  
+Click to enlarge](img/00400.jpg.md)  
 The Spider Lady and Thunder Bird and His Four Sons  
 </span>
 
@@ -34,7 +34,7 @@ and privileges by imbuing them with thoughts and ideals of their own.
 
 It is also hoped they will stir within, and unfold, their artistic
 talents, expand and develop their abilities, enabling them to
-[acquire](errata.htm#0) a greater and wider mode of life.
+[acquire](errata.htm#0.md) a greater and wider mode of life.
 
 Throughout these stories an effort has been made to tell how the Indian
 Tribes lived, their hospitality and friendliness; the philosophical
@@ -42,11 +42,11 @@ ideas of a heroic race of nature-loving people.
 
 It is expected that the legends will be criticised by the Indians
 themselves as well as by others who have a greater knowledge than the
-writer has [acquired](errata.htm#1), but he nevertheless hopes that they
+writer has [acquired](errata.htm#1.md), but he nevertheless hopes that they
 will be accepted in the spirit in which they are dedicated.
 
 THE AUTHOR
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](ttb02)
+[Next: Foreword](ttb02.md)

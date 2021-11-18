@@ -1,11 +1,11 @@
-[Sacred-Texts](../../index)  [Hinduism](../index)   
-[Edwin Arnold translation](index)  [SBE vol. 8
-translation](../sbe08/index)
+[Sacred-Texts](../../index)  [Hinduism](../index.md)   
+[Edwin Arnold translation](index.md)  [SBE vol. 8
+translation](../sbe08/index.md)
 
 ------------------------------------------------------------------------
 
 **Visit American/International Gita Society Webpage:**
-[**www.gita-society.com/gita3rd.htm**](https://www.gita-society.com/gita3rd)
+[**www.gita-society.com/gita3rd.htm**](https://www.gita-society.com/gita3rd.md)
 
 **For Gita in Hindi with Sanskrit verses, and comprehensive study of the
 Gita in English**
@@ -3253,7 +3253,7 @@ Gita Bhavan
 C-3 Khapara Mohal, Kanpur 208 004, **INDIA**
 
  **Visit American/International Gita Society Webpage:**
-[**www.gita-society.com/gita3rd.htm**](https://www.gita-society.com/gita3rd)
+[**www.gita-society.com/gita3rd.htm**](https://www.gita-society.com/gita3rd.md)
 
 **For Gita in Hindi with Sanskrit verses, and comprehensive study of the
 Gita in English**

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal146)  [Next](njal148) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal146)  [Next](njal148.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ So that story was spread over all the country.
 
 ------------------------------------------------------------------------
 
-[Next: 148. Of Flosi And The Burners](njal148)
+[Next: 148. Of Flosi And The Burners](njal148.md)

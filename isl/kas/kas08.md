@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](kas07)  [Next](kas09) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](kas07)  [Next](kas09.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ who knows not also how to 'unknow.
 
 ------------------------------------------------------------------------
 
-[Next: VII](kas09)
+[Next: VII](kas09.md)

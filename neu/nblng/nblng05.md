@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng04)  [Next](nblng06) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng04)  [Next](nblng06.md) 
 
 ------------------------------------------------------------------------
 
@@ -383,4 +383,4 @@ twelve men.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure IV: How He Fought with the Saxons.](nblng06)
+[Next: Adventure IV: How He Fought with the Saxons.](nblng06.md)

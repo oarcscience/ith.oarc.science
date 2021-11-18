@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm08)  [Next](tsm10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm08)  [Next](tsm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ heroes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Story of Finlay and the Giants](tsm10)
+[Next: Chapter VII. Story of Finlay and the Giants](tsm10.md)

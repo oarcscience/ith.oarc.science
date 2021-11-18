@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](eom06)  [Next](eom08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](eom06)  [Next](eom08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -101,13 +101,13 @@ unsystematic temperance in the physical relation. A fruitful union
 frequently follows long separation of husband and wife, even though they
 have never had children. One may expect more certain results if the
 relation conforms to scientific principles. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[55:1](eom07.htm#fr_0) Since penning the above a
+<span id="fn_0"></span>[55:1](eom07.htm#fr_0.md) Since penning the above a
 lady called, aged 39, who had been married thirteen years, without
 children. At last, however, her mother heart throbbed with happy
 anticipations. In conversation the fact was developed that conception
@@ -118,4 +118,4 @@ heart's longing for children be gratified.
 
 ------------------------------------------------------------------------
 
-[Next: Chap. 6: Control of Procreative Powers](eom08)
+[Next: Chap. 6: Control of Procreative Powers](eom08.md)

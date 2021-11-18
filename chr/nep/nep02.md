@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep01)  [Next](nep03) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep01)  [Next](nep03.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,4 +171,4 @@ WORDS OF FIVE SYLLABLES
 
 ------------------------------------------------------------------------
 
-[Next: The Creed](nep03)
+[Next: The Creed](nep03.md)

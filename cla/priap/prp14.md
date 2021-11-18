@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp13)  [Next](prp15) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp13)  [Next](prp15.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ and, by a play upon words, large testicles.\]
 ------------------------------------------------------------------------
 
 [Next: 15. Rare as those apples wherewith Hippomenes Schoeneïs
-ravished](prp15)
+ravished](prp15.md)

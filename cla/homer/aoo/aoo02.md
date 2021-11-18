@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo01)  [Next](aoo03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo01)  [Next](aoo03.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ than the goddess Athene who had been his father’s friend.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](aoo03)
+[Next: Chapter III](aoo03.md)

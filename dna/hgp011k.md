@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../index)   [Paleolithic](../nel/index)  
-[I Ching](../ich/index)   [Index](index)   [Attribution](hgpattr)  
+[Intangible Textual Heritage](../index)   [Paleolithic](../nel/index.md)  
+[I Ching](../ich/index)   [Index](index)   [Attribution](hgpattr.md)  
 
 ------------------------------------------------------------------------
 

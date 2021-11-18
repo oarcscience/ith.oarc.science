@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot12) 
-[Next](bot14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot12.md) 
+[Next](bot14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -80,7 +80,7 @@ of children or
 
 attached to the part of the body to be protected from the Evil Eye. A
 hand with thumb and fingers outstretched, known as the Hand of the Lady
-Fatima (see Illustration No. 111, [Plate VIII](bot12.htm#img_pl08)), is
+Fatima (see Illustration No. 111, [Plate VIII](bot12.htm#img_pl08).md), is
 still regarded as a powerful charm amongst all Moslems, and is made in
 all metals, often very crude in execution, its material and detail
 varying according to the wealth and position of its wearer. This Hand is
@@ -106,7 +106,7 @@ A form of Mussulman Talisman is
 <span class="smallcaps">The Zufur Tukiah</span>, or sacred crutch,
 single and double, which is formed of a combination of letters making
 the name of a saint or holy man, of which three examples are shown on
-[Plate VIII](bot12.htm#img_pl08). Illustration No. 114 is formed in the
+[Plate VIII](bot12.htm#img_pl08.md). Illustration No. 114 is formed in the
 shape of the letters that compose the name <span
 class="smallcaps">Nasiree</span>, or the Preserver, one of the names of
 God; No. 115 is a double crutch forming the letters that compose the
@@ -176,7 +176,7 @@ One of the oldest Talismans of this kind is
 <span class="smallcaps">The Fish</span>, said to have been adopted
 because its Greek name ΙΧΘΥΣ formed the initials of the sentence "Jesus
 Christ, Son of God, Saviour." The form of the Fish is very similar to
-that used by the Egyptians and is illustrated on [Plate IX](#img_pl09),
+that used by the Egyptians and is illustrated on [Plate IX](#img_pl09.md),
 No. 120.
 
 Another explanation of its use is that in the Talmud the Messiah is
@@ -192,27 +192,27 @@ triangle, a very popular ornament in mediæval architecture.
 Talisman used to symbolise triumph over sin and temptation; this
 undoubtedly was adapted from the pagan mythology, in which the Palm
 represented the Sun, and was also a token of victory and success. In
-Illustration No. 122, [Plate IX](#img_pl09), it is shown surrounding the
+Illustration No. 122, [Plate IX](#img_pl09.md), it is shown surrounding the
 Greek name for Fish.
 
 Stones were also frequently used, and although valuable gems were in
 use, semi-precious stones such as the Carnelian, Sardonyx, and Jasper
-were the most general, the device illustrated on [Plate IX](#img_pl09),
+were the most general, the device illustrated on [Plate IX](#img_pl09.md),
 No. 126, being cut *in* a Sapphire, the usual method of treatment in
 those days being very seldom to cut *in relief*, as in more modern
 times.
 
 A favourite gift was a ring with the name of the recipient cut *in* the
 stone with some appropriate motto, as in Illustration No. 124, [Plate
-IX](#img_pl09): "Rogate, Vivas in Deo" (Rogatus, Live in God). Bronze
+IX](#img_pl09): "Rogate, Vivas in Deo" (Rogatus, Live in God.md). Bronze
 and silver rings were freely used for this purpose.
 
 <span class="smallcaps">The Ship</span> (Illustration No. 127, [Plate
-IX](#img_pl09)) was a symbol universally used to represent the Church,
+IX](#img_pl09).md) was a symbol universally used to represent the Church,
 and signified the belief of its wearers in their salvation and safety
 from temptations of the flesh. It was frequently used in combination
 with other symbols, as shown in Illustration No. 127, [Plate
-IX](#img_pl09),
+IX](#img_pl09.md),
 
 <span id="page_104">p. 104</span>
 
@@ -240,7 +240,7 @@ whether they could write or riot, regarding it as a
 
 <span id="img_pl09"></span> <span align="CENTER"> [![PLATE 9. EARLY
 CHRISTIAN AND MEDIÆVAL TALISMANS.](tn/pl09.jpg)  
-Click to enlarge](img/pl09.jpg)  
+Click to enlarge](img/pl09.jpg.md)  
 PLATE 9. EARLY CHRISTIAN AND MEDIÆVAL TALISMANS.  
 </span>
 
@@ -256,7 +256,7 @@ called by the natives the 'Water Cross,' and when they needed rain they
 set the cross up, and when sufficient had fallen, they laid it flat upon
 the ground."
 
-Illustrated on [Plate IX](#img_pl09) (No. 121) is a Cross with Greek
+Illustrated on [Plate IX](#img_pl09) (No. 121.md) is a Cross with Greek
 inscription for Life and Health, which is made in the form of a mould,
 or stamp; a household Talisman, in all probability used for making an
 impression upon bread, or cakes, its size being three and a half inches
@@ -293,6 +293,6 @@ The Irish Cross is also a type of the Wheel Cross.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](bot14)
+[Next: Chapter XI](bot14.md)
 
 </div>

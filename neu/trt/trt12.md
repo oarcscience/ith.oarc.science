@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt11)  [Next](trt13) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt11)  [Next](trt13.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ divers more adventures returned to his Court.
 
 ------------------------------------------------------------------------
 
-[Next: II: The Coming of the Holy Graal](trt13)
+[Next: II: The Coming of the Holy Graal](trt13.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cov03)  [Next](cov05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cov03)  [Next](cov05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q2IE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q2IE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Candle of Vision*, by AE (George William Russell), \[1918\], at
 Intangible Textual Heritage
 
@@ -105,4 +105,4 @@ close upon me and leave me more hopeless than before.
 
 ------------------------------------------------------------------------
 
-[Next: The Slave of the Lamp](cov05)
+[Next: The Slave of the Lamp](cov05.md)

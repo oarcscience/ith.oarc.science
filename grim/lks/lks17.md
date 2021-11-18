@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks16)  [Next](lks18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks16)  [Next](lks18.md) 
 
 ------------------------------------------------------------------------
 
 ### THE CONJURATION TO CALL FORTH ANY OF THE AFORESAID SPIRITS.
 
 I DO invocate and conjure thee, O Spirit, N. <span
-id="fr_32"></span>[1](#fn_32); and being with power armed from the
+id="fr_32"></span>[1](#fn_32.md); and being with power armed from the
 SUPREME MAJESTY, I do strongly command thee, by BERALANENSIS,
 BALDACHIENSIS, PAUMACHIA, and APOLOGIAE SEDES; by the most Powerful
 Princes, Genii, Liachidæ, and Ministers of the Tartarean Abode; and by
@@ -49,7 +49,7 @@ come not yet, say as followeth:
 
 ### Footnotes
 
-<span id="fn_32"></span>[56:1](lks17.htm#fr_32) Here interpolate the
+<span id="fn_32"></span>[56:1](lks17.htm#fr_32.md) Here interpolate the
 name of the Spirit desired to be invocated. In some of the Codices there
 are faint variations in the form of wording of the conjurations, but not
 sufficient to change the sense, e. g., "Tartarean abode" for "Tartarean
@@ -57,4 +57,4 @@ seat," etc.
 
 ------------------------------------------------------------------------
 
-[Next: The Second Conjuration](lks18)
+[Next: The Second Conjuration](lks18.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma04)  [Next](sma06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma04)  [Next](sma06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ and employed the strongest asseverations to convince the governor of the
 province, a rigid Soonite, of his orthodoxy, and finally retired into a
 monastery to pass the remainder of his days in meditation. As a further
 means of clearing himself from the charge of heresy he sent his only son
-Hassan Sabah <span id="fr_21"></span>[\*](#fn_21) to Nishaboor to be
+Hassan Sabah <span id="fr_21"></span>[\*](#fn_21.md) to Nishaboor to be
 instructed by the celebrated imam Mowafek, who resided at that place.
 What lessons he may have given the young Hassan previously to parting
 with him, and what communication he may have afterwards kept up with
@@ -48,7 +48,7 @@ currently believed that those
 <span id="page_44">p. 44</span>
 
 who had the good fortune to study the Koran and the Soonna <span
-id="fr_22"></span>[\*](#fn_22) under him were secure of their fortune in
+id="fr_22"></span>[\*](#fn_22.md) under him were secure of their fortune in
 after-life. His school was consequently thronged by youths ambitious of
 knowledge and future distinction; and here Hassan met, and formed a
 strict intimacy with, Omar Khiam, afterwards so distinguished as a poet
@@ -171,13 +171,13 @@ precipitation.
 
 Nizam-al-Moolk determined to keep no measures with a man who had thus
 sought his ruin, and he resolved to destroy him. Hassan fled to Rei,
-but, not thinking [himself](errata.htm#2) safe there, he went further
+but, not thinking [himself](errata.htm#2.md) safe there, he went further
 south,
 
 <span id="page_48">p. 48</span>
 
 and took refuge with his friend the reis <span
-id="fr_23"></span>[\*](#fn_23) Aboo-’l-Fazl (Father of Excellence), at
+id="fr_23"></span>[\*](#fn_23) Aboo-’l-Fazl (Father of Excellence.md), at
 Isfahan. What his plans may have hitherto been is uncertain; but now
 they seem to have assumed a definite form, and he unceasingly meditated
 on the means of avenging himself on the sultan and his minister. In
@@ -254,7 +254,7 @@ intercourse learned to know me, my behaviour was pleasing unto him, and
 he bestowed on me the office of a dai. He said unto me, 'Thou must go
 unto Egypt, to be a sharer in the felicity of serving the imam
 Mostander.' When the sheikh Abd-al-Melik went from Rei to Isfahan I set
-forth for Egypt <span id="fr_24"></span>[\*](#fn_24)."
+forth for Egypt <span id="fr_24"></span>[\*](#fn_24.md)."
 
 There is something highly interesting in this account of his thoughts
 and feelings given by Hassan Sabah, particularly when we recollect that
@@ -359,7 +359,7 @@ among his people, expelled those who had embraced it, but afterwards
 permitted them to return. Sure of the aid of a strong party within the
 fort, Hassan is said to have employed against the governor the same
 artifice by which Dido is related to have deceived the Lybians <span
-id="fr_25"></span>[\*](#fn_25). He
+id="fr_25"></span>[\*](#fn_25.md). He
 
 <span id="page_54">p. 54</span>
 
@@ -398,7 +398,7 @@ west established their empire in the Holy Land.
 
 <span id="img_05500"></span> <span align="CENTER"> [![Hill
 Fort.](tn/05500.jpg)  
-Click to enlarge](img/05500.jpg)  
+Click to enlarge](img/05500.jpg.md)  
 Hill Fort.  
 </span>
 
@@ -408,15 +408,15 @@ Hill Fort.
 
 ### Footnotes
 
-<span id="fn_21"></span>[43:\*](sma05.htm#fr_21) Or Hassan-ben-Sabah
+<span id="fn_21"></span>[43:\*](sma05.htm#fr_21.md) Or Hassan-ben-Sabah
 (*son of Sabah*), so named from Sabah Homairi, one of his pretended
 Arabian ancestors.
 
-<span id="fn_22"></span>[44:\*](sma05.htm#fr_22) The Soonna is the body
+<span id="fn_22"></span>[44:\*](sma05.htm#fr_22.md) The Soonna is the body
 of traditions, answering to the Mishna of the Jews, held by the orthodox
 Mussulmans.
 
-<span id="fn_23"></span>[48:\*](sma05.htm#fr_23) *Reis*, from the Arabic
+<span id="fn_23"></span>[48:\*](sma05.htm#fr_23.md) *Reis*, from the Arabic
 Râs (*the head*), answers in some respects to captain, a word of similar
 origin. Thus the master of a ship is called the Reis. Sir John Malcolm
 says, "it is equivalent to *esquire*, as it was originally understood.
@@ -424,9 +424,9 @@ It implies in Persia the possession of landed estates and some
 magisterial power. The reis is in general the hereditary head of a
 village."
 
-<span id="fn_24"></span>[50:\*](sma05.htm#fr_24) Mirkhond.
+<span id="fn_24"></span>[50:\*](sma05.htm#fr_24.md) Mirkhond.
 
-<span id="fn_25"></span>[53:\*](sma05.htm#fr_25) Sir J. Malcolm says
+<span id="fn_25"></span>[53:\*](sma05.htm#fr_25.md) Sir J. Malcolm says
 that the person with whom he read this portion of history in Persia
 observed to him that the English were well acquainted with this
 stratagem, as it was by means of it that they got Calcutta from the poor
@@ -434,4 +434,4 @@ Emperor of Delhi.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](sma06)
+[Next: Chapter IV](sma06.md)

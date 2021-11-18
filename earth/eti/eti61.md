@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti60)  [Next](eti62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti60)  [Next](eti62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -32,13 +32,13 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
 
 <span id="img_36900"></span> <span align="CENTER"> [![PROF. DANIEL
 VAUGHN.](tn/36900.jpg)  
-Click to enlarge](img/36900.jpg)  
+Click to enlarge](img/36900.jpg.md)  
 PROF. DANIEL VAUGHN.  
 </span>
 
 <span id="page_370">p. 370</span> <span id="page_371">p. 371</span>
 
-### Story of the Life of Prof. Daniel Vaughn. <span id="fr_16"></span>[\*](#fn_16)
+### Story of the Life of Prof. Daniel Vaughn. <span id="fr_16"></span>[\*](#fn_16.md)
 
 #### BY PROF. RICHARD NELSON.
 
@@ -583,7 +583,7 @@ no concern.
 On more than one occasion the writer, at the request of men of wealth
 and influence, proposed to retire him on an annuity, but he modestly but
 firmly declined to accept, and it was not until after the
-[announcement](errata.htm#2) of his last course that he consented. Then
+[announcement](errata.htm#2.md) of his last course that he consented. Then
 the proposition was to pay his expenses at a hotel of his choice and
 advance him money for his personal expenses, for which he was to lecture
 when and where he might choose. The gentlemen most active in this
@@ -614,7 +614,7 @@ him in his last moments.—J. U. L.\]
 
 "MY DEAR MR. LLOYD:—
 
-"Concerning the foot-note on page [160](eti31.htm#page_160) of
+"Concerning the foot-note on page [160](eti31.htm#page_160.md) of
 Etidorhpa. The description of Daniel Vaughn is correct. The story of his
 privations is quite true. He was so absorbed in science as to be
 self-neglectful. Moreover, he was grossly neglected by those *who made
@@ -635,9 +635,9 @@ life."—<span class="smallcaps">Eugene Brady, S. J.</span>
 
 ### Footnotes
 
-<span id="fn_16"></span>[371:\*](eti61.htm#fr_16) Reprinted from the
+<span id="fn_16"></span>[371:\*](eti61.htm#fr_16.md) Reprinted from the
 Cincinnati Tribune.
 
 ------------------------------------------------------------------------
 
-[Next: To the Recipients of the Author's Edition of Etidorhpa](eti62)
+[Next: To the Recipients of the Author's Edition of Etidorhpa](eti62.md)

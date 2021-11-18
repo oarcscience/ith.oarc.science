@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd02) 
-[Next](iwd04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd02.md) 
+[Next](iwd04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Irish Witchcraft and Demonology*, by St. John D. Seymour, \[1913\], at
 Intangible Textual Heritage
 
@@ -239,7 +239,7 @@ of her confederates were subsequently arrested, some of them being
 apparently in a very humble condition of life, and were committed to
 prison. Their names were: Robert of Bristol, a clerk, John Galrussyn,
 Ellen Galrussyn, Syssok Galrussyn, William Payn de Boly, Petronilla of
-Meath, her daughter Sarah, <span id="fr_4"></span>[1](#fn_4) Alice the
+Meath, her daughter Sarah, <span id="fr_4"></span>[1](#fn_4.md) Alice the
 wife of Henry Faber, Annota Lange, and Eva de Brownestown. When the
 Bishop arrived in Kilkenny from Dublin he went direct to the prison, and
 interviewed the unfortunates mentioned above. They all immediately
@@ -311,7 +311,7 @@ much as she, for he was privy to their sorceries, and for a year and
 
 <span id="page_39">p. 39</span>
 
-a day had worn the devil's girdle <span id="fr_5"></span>[1](#fn_5)
+a day had worn the devil's girdle <span id="fr_5"></span>[1](#fn_5.md)
 round his body. When rifling Dame Alice's house there was found "a wafer
 of sacramental bread, having the devil's name stamped thereon instead of
 Jesus Christ, and a pipe of ointment wherewith she greased a staffe,
@@ -427,7 +427,7 @@ says of certain persons that "they sacrifice to demons and adore them.
 making or causing to be made images, rings, &c., with which they draw
 the evil spirits by their magical art, obtain responses from them, and
 demand their help in performing their evil designs." <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 Heresy and sorcery were now identified, and the punishment for the
 former was the
@@ -453,16 +453,16 @@ history of Ireland.
 
 ### Footnotes
 
-<span id="fn_4"></span>[35:1](iwd03.htm#fr_4) Elsewhere given as
+<span id="fn_4"></span>[35:1](iwd03.htm#fr_4.md) Elsewhere given as
 Basilia.
 
-<span id="fn_5"></span>[39:1](iwd03.htm#fr_5) Magical girdles were used
+<span id="fn_5"></span>[39:1](iwd03.htm#fr_5.md) Magical girdles were used
 for various purposes. Bosc in his *Glossaire* will have them to be the
 origin of the magnetic belts, &c. that are so freely advertised at the
 present day.
 
-<span id="fn_6"></span>[44:1](iwd03.htm#fr_6) Français, *op. cit*.
+<span id="fn_6"></span>[44:1](iwd03.htm#fr_6.md) Français, *op. cit*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: A.D. 1223-1583](iwd04)
+[Next: Chapter III: A.D. 1223-1583](iwd04.md)

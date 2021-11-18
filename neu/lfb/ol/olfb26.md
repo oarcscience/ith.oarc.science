@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb25)  [Next](olfb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb25)  [Next](olfb27.md) 
 
 </div>
 
@@ -117,6 +117,6 @@ sometimes cleverer even than ministers!'
 
 ------------------------------------------------------------------------
 
-[Next: The Boy Who Found Fear At Last](olfb27)
+[Next: The Boy Who Found Fear At Last](olfb27.md)
 
 </div>

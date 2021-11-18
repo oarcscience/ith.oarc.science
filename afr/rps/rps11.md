@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps10)  [Next](rps12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps10)  [Next](rps12.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ City, as a City, must be Built on a RIVER, Like Egypt The NILE RIVER.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10. Perfect Baptism Under Water](rps12)
+[Next: Chapter 10. Perfect Baptism Under Water](rps12.md)

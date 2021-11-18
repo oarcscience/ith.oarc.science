@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram04)  [Next](ram06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram04)  [Next](ram06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -104,7 +104,7 @@ pretext, to enter where the builders are at work and then measure his
 shadow by stealth. This measure placed under the foundation-stone, gives
 the house absolute stability. The person whose shadow was measured "dies
 within a year," but that is a secondary matter with the
-contractor. <span id="fr_38"></span>[\*](#fn_38) This is beyond doubt a
+contractor. <span id="fr_38"></span>[\*](#fn_38.md) This is beyond doubt a
 survival of an ancient custom, and a belief that a man's soul and his
 shadow were identical, or in any case indissolubly bound to one another.
 I remember hearing my father tell of an old Highland tradition that
@@ -156,7 +156,7 @@ frequently leave their haunts and assume animal form, as baboon, wolf,
 wild dog, snake, or lizard. This is always for pure mischief, and their
 malevolent designs can only be averted by the use of charm s prepared by
 a magician, and sacrifice. Moremo, the god of the Bechuanas, was
-malicious and cunning. <span id="fr_39"></span>[\*](#fn_39) They never
+malicious and cunning. <span id="fr_39"></span>[\*](#fn_39.md) They never
 hesitated to express their indignation when he disappointed them, by
 bitter invective and cursing. This same method was suggested to Job by
 his wife: "Curse God and die," said that virago. When they had good
@@ -181,7 +181,7 @@ significance. And this is consistent with savage
 
 thought, which always connects the most insignificant action that is
 unusual with what is supernatural, as a cock crowing in the
-evening <span id="fr_40"></span>[\*](#fn_40) or a crane alighting on a
+evening <span id="fr_40"></span>[\*](#fn_40.md) or a crane alighting on a
 house-top. Actions done by individuals may influence the whole policy of
 a tribe for generations either for good or evil. For example, the
 natives of Senjero, Abyssinia, sell only female slaves, never men or
@@ -195,7 +195,7 @@ alive. She was next sent for and told what had happened, after which she
 was asked to slay her husband and bring a piece of his flesh to the
 king. This the ungrateful woman did, and ever since then a Senjero man
 may sell his daughter, or even his wife, but a man never. <span
-id="fr_41"></span>[†](#fn_41) Human sacrifices to their divinities are
+id="fr_41"></span>[†](#fn_41.md) Human sacrifices to their divinities are
 common among the people of Senjero. This, so runs the legend, was
 introduced long ago, when the seasons got confused, summer and winter
 being so mixed up that no crops ripened. The priests "ordered many
@@ -207,7 +207,7 @@ raze a huge iron pillar which stood outside the gate. The base
 of the pillar, like "the stump of the roots" of the tree in
 Nebuchadnezzar's vision, was to be left, and it and the throne to be
 sprinkled with the blood of the victims. After this was done the seasons
-resumed their normal course; <span id="fr_42"></span>[\*](#fn_42) but in
+resumed their normal course; <span id="fr_42"></span>[\*](#fn_42.md) but in
 memory of the event, and to prevent its recurrence, the sacrifices are
 observed annually, and both throne and the spot where the pillar stood
 sprinkled with blood. This myth, the iron pillar apart, is probably a
@@ -218,7 +218,7 @@ it. The confusion of the seasons and their readjustment by sacrifice has
 undoubtedly a close connection with the worship of the spirit of growth.
 Another curious custom in Senjero is the throwing of a slave into Lake
 Umo by dealers in men when setting out on a raiding expedition. <span
-id="fr_43"></span>[†](#fn_43) The sacrifice is to the deity of the lake,
+id="fr_43"></span>[†](#fn_43.md) The sacrifice is to the deity of the lake,
 in order that he may, from the victim given as a seed-corn, give a
 plentiful crop.
 
@@ -236,11 +236,11 @@ The
 <span class="contnote">\[paragraph continues\]</span> Galla priest will
 sacrifice only under the woda-tree. In it, spirit, "even a higher
 spirit," dwells, and no man dare fell a woda-tree. If he does so, he
-forfeits his life. <span id="fr_44"></span>[\*](#fn_44) The tree itself
+forfeits his life. <span id="fr_44"></span>[\*](#fn_44.md) The tree itself
 is sacred, and so too is the woda-mabi, or groves where it grows by the
 River Hawash where the great yearly festivals are held. At these
 gatherings the tree spirit is worshipped by offerings and
-sacrifice. <span id="fr_45"></span>[†](#fn_45) Nor is the worship of
+sacrifice. <span id="fr_45"></span>[†](#fn_45.md) Nor is the worship of
 tree spirits peculiar to the Gallas. We meet with it in Lithuania, in
 Bavaria, and in Southern Europe. The Ovaons of Bengal have a festival in
 spring, while the sál-trees are in blossom, because they think that at
@@ -251,13 +251,13 @@ goddess is supposed to dwell. Next day the priest visits each house
 carrying the flowers with him. The women as he approaches bring out
 water to wash his feet and do him obeisance. Then he dances with them,
 placing flowers in their hair, after which they drench him with
-water. <span id="fr_46"></span>[‡](#fn_46) This ceremony is supposed to
+water. <span id="fr_46"></span>[‡](#fn_46.md) This ceremony is supposed to
 have an influence upon the course of the weather, especially the
 rainfall, and the spirit of the sacred sál-tree is represented by both
 the flowers and the priest who brings them, introducing us to the double
 representation of the spirit of vegetation, by a person and object, as
 that survives in the Grass king of Sommerberg or the May Bride of
-Altmark. <span id="fr_47"></span>[§](#fn_47)
+Altmark. <span id="fr_47"></span>[§](#fn_47.md)
 
 <span id="page_42">p. 42</span>
 
@@ -270,7 +270,7 @@ cows are sacrificed in June and July, and his consort Atetie, whose
 offerings are made in September, and may consist of animals or fruits.
 She is the goddess of fecundity, and women are her principal votaries;
 but as she can also make the earth "prolific," offerings are made to her
-for that purpose. <span id="fr_48"></span>[\*](#fn_48) These divinities
+for that purpose. <span id="fr_48"></span>[\*](#fn_48.md) These divinities
 represent the creative and fructifying powers of nature, and this
 nature-worship meets us under different forms in all parts of the
 Continent. Even the Gold Coast moon-dance is an act of homage done to
@@ -291,7 +291,7 @@ the spirit or essence of the earth's fruits: the life-blood of nature.
 Of this earth divinity the visible representative is the Muansa. This is
 simply a log of wood, hollowed out in a particular manner, so that when
 rubbed it emits sounds resembling the roaring and bellowing of wild
-animals. <span id="fr_49"></span>[\*](#fn_49) It is carried about in
+animals. <span id="fr_49"></span>[\*](#fn_49.md) It is carried about in
 solemn procession at all great festivals, for in it the god resides. If
 at such times it were seen by women or children they would fall down
 dead. Should a woman, after seeing the Muansa, survive, she would become
@@ -420,7 +420,7 @@ originated it is impossible to determine, but there are indications
 which seem to point back to its beginnings as a separate religious
 system. Among many African tribes it is common to preserve bones, and
 especially skulls, of ancestors as relics of the dead. <span
-id="fr_50"></span>[\*](#fn_50) These were supposed to be the
+id="fr_50"></span>[\*](#fn_50.md) These were supposed to be the
 
 <span id="page_48">p. 48</span>
 
@@ -467,9 +467,9 @@ lake, a sharp pinnacle of rock, a stone above water in a river, a human
 bone, a carved image, a ram's horn, or even a man's weapons, may be
 fetish and have spirits dwelling in them. Fetish brings victory in war,
 success in fishing, hunting, or trading. It cures all ailments from
-insanity to sterility. <span id="fr_51"></span>[\*](#fn_51) It preserves
+insanity to sterility. <span id="fr_51"></span>[\*](#fn_51.md) It preserves
 life or destroys it, according to the intention of the votary and the
-nature of the offering. <span id="fr_52"></span>[†](#fn_52) Its uses are
+nature of the offering. <span id="fr_52"></span>[†](#fn_52.md) Its uses are
 as wide as are the necessities of man, and it can be adapted to every
 circumstance of life.
 
@@ -484,7 +484,7 @@ or even an earlier and pre-Aryan period. On Toad-day people resort to a
 "wise man," or in other words a wizard, to purchase a charm or fetish
 which is to protect them and theirs from injury for a year. This charm
 consists of a leg torn from a living toad, which the purchaser devoutly
-wears about his person. <span id="fr_53"></span>[\*](#fn_53) In Scotland
+wears about his person. <span id="fr_53"></span>[\*](#fn_53.md) In Scotland
 "wise women" cure rheumatism by giving the patient a potato which he
 must carry in his trousers pocket. While it is in his possession, and
 carried according to prescription, he is exempt from attack. I once
@@ -501,10 +501,10 @@ may only occupy the position of an influence, as when an African says
 when he escapes from danger, "The soul of my father saved me." This
 tends to become pantheism—a deification of all nature. Such is the root
 idea of Mlungu of the Zulus; the father of the race of men among the
-Sillocks on the Nile; <span id="fr_54"></span>[†](#fn_54) Loma of the
-Bongo; <span id="fr_55"></span>[‡](#fn_55) heaven fire or lightning of
-the Mitto, <span id="fr_56"></span>[§](#fn_56) and the Lubare of the
-Lake region. <span id="fr_57"></span>[\*\*](#fn_57) This is a
+Sillocks on the Nile; <span id="fr_54"></span>[†](#fn_54.md) Loma of the
+Bongo; <span id="fr_55"></span>[‡](#fn_55.md) heaven fire or lightning of
+the Mitto, <span id="fr_56"></span>[§](#fn_56.md) and the Lubare of the
+Lake region. <span id="fr_57"></span>[\*\*](#fn_57.md) This is a
 comparatively late
 
 <span id="page_51">p. 51</span>
@@ -545,7 +545,7 @@ years. Their children were, however, doomed as victims from infancy, as
 were also children of a free woman by a male Meriah. Even free people,
 Khonds themselves, at times sold their children as victims. To sell a
 son or daughter was the highest virtue, as "the child died that all the
-world might live." <span id="fr_58"></span>[\*](#fn_58) These ghastly
+world might live." <span id="fr_58"></span>[\*](#fn_58.md) These ghastly
 sacrifices were offered by tribes and sub-tribes, and were so arranged
 that each householder got a shred of flesh to sow in his fields about
 the time when the crop was laid down, or as the corn already in the
@@ -629,7 +629,7 @@ filled up. The other portion of flesh the priest divided among heads of
 families,. who wrapped up each his share in green leaves and proceeded
 at once to bury it in their corn-fields. "For three days no house was
 swept, and silence was generally observed." <span
-id="fr_59"></span>[\*](#fn_59) In three days corn sown sprouts; so, too,
+id="fr_59"></span>[\*](#fn_59.md) In three days corn sown sprouts; so, too,
 by inference, the spirit of corn represented by the Meriah. The head and
 entrails of the victim, which, as we have seen, had been left intact,
 were watched by the priests for a night, and next day burned with a
@@ -679,7 +679,7 @@ is told with great amplification of
 circumstance. Its very minuteness suggests that it belongs to that class
 of myths which are invented to explain ritual; for a myth is never so
 graphic as when it is a transcript of what the narrator has seen. <span
-id="fr_60"></span>[\*](#fn_60) The main incidents are: first, the
+id="fr_60"></span>[\*](#fn_60.md) The main incidents are: first, the
 pulling of the mistletoe; and secondly, the death and burning of the
 god. Both these incidents appear to have formed an essential part of
 Celtic observances, as cut flowers and the death of the Meriah did of
@@ -695,7 +695,7 @@ thousands of years have elapsed since the reasons which gave them birth
 have passed away from the public mind. In Caithness, within the last
 seventy years, each family in the neighbourhood of Watten carried bread
 and cheese, before sunrise on May morning, to the top of a hill called
-Heathercow, and left it there. <span id="fr_61"></span>[†](#fn_61) After
+Heathercow, and left it there. <span id="fr_61"></span>[†](#fn_61.md) After
 sunrise the cowherds might take away the spoil for their own use. No one
 could explain the origin of the practice; it was unlucky to neglect it,
 that was all. Here we have a survival of an offering to the earth
@@ -729,7 +729,7 @@ their ale, and spent the remainder of the
 
 <span id="page_59">p. 59</span>
 
-night in dancing, singing, &c." <span id="fr_62"></span>[\*](#fn_62) One
+night in dancing, singing, &c." <span id="fr_62"></span>[\*](#fn_62.md) One
 would very much like to know what the worthy chronicler meant to convey
 by "&c.," and whether here, as in savagedom generally, the worship of
 Venus formed an essential part of the ceremony as performed at that
@@ -750,7 +750,7 @@ trees and twine them about the child till only his shoes peep out from
 the leafy mantle. Singing and dancing, they take him from house to house
 asking for gifts of food. Lastly, they sprinkle the Leaf Man with water,
 after which they feast on the food they have collected." <span
-id="fr_63"></span>[†](#fn_63) A somewhat similar custom is observed in
+id="fr_63"></span>[†](#fn_63.md) A somewhat similar custom is observed in
 England, where a chimney-sweep walks about encased in holly and ivy, and
 accompanied by his
 
@@ -784,66 +784,66 @@ sacrifices, substitutionary and propitiatory.
 
 ### Footnotes
 
-<span id="fn_38"></span>[36:\*](ram05.htm#fr_38) J. G. Frazer, Golden
+<span id="fn_38"></span>[36:\*](ram05.htm#fr_38.md) J. G. Frazer, Golden
 Bough.
 
-<span id="fn_39"></span>[38:\*](ram05.htm#fr_39) Livingstone.
+<span id="fn_39"></span>[38:\*](ram05.htm#fr_39.md) Livingstone.
 
-<span id="fn_40"></span>[39:\*](ram05.htm#fr_40) A lady living in the
+<span id="fn_40"></span>[39:\*](ram05.htm#fr_40.md) A lady living in the
 highlands of Scotland a few years ago had a cock that crowed in the
 evening. Her peasant neighbours urged her to kill it. She consulted a
 local gentleman, who replied to her question: "No, no, Mrs. Brown, there
 is no harm in the creature, none whatever: but I will tell you what, if
 I were in your place I would wring that cock's neck."
 
-<span id="fn_41"></span>[39:†](ram05.htm#fr_41) Krapf.
+<span id="fn_41"></span>[39:†](ram05.htm#fr_41.md) Krapf.
 
-<span id="fn_42"></span>[40:\*](ram05.htm#fr_42) Krapf.
+<span id="fn_42"></span>[40:\*](ram05.htm#fr_42.md) Krapf.
 
-<span id="fn_43"></span>[40:†](ram05.htm#fr_43) *Ibid*.
+<span id="fn_43"></span>[40:†](ram05.htm#fr_43.md) *Ibid*.
 
-<span id="fn_44"></span>[41:\*](ram05.htm#fr_44) Krapf.
+<span id="fn_44"></span>[41:\*](ram05.htm#fr_44.md) Krapf.
 
-<span id="fn_45"></span>[41:†](ram05.htm#fr_45) *Ibid*.
+<span id="fn_45"></span>[41:†](ram05.htm#fr_45.md) *Ibid*.
 
-<span id="fn_46"></span>[41:‡](ram05.htm#fr_46) Dalton.
+<span id="fn_46"></span>[41:‡](ram05.htm#fr_46.md) Dalton.
 
-<span id="fn_47"></span>[41:§](ram05.htm#fr_47) Monnier.
+<span id="fn_47"></span>[41:§](ram05.htm#fr_47.md) Monnier.
 
-<span id="fn_48"></span>[42:\*](ram05.htm#fr_48) Krapf.
+<span id="fn_48"></span>[42:\*](ram05.htm#fr_48.md) Krapf.
 
-<span id="fn_49"></span>[43:\*](ram05.htm#fr_49) Krapf.
+<span id="fn_49"></span>[43:\*](ram05.htm#fr_49.md) Krapf.
 
-<span id="fn_50"></span>[47:\*](ram05.htm#fr_50) Rowley, *Africa
+<span id="fn_50"></span>[47:\*](ram05.htm#fr_50.md) Rowley, *Africa
 Unveiled*.
 
-<span id="fn_51"></span>[49:\*](ram05.htm#fr_51) Rowley.
+<span id="fn_51"></span>[49:\*](ram05.htm#fr_51.md) Rowley.
 
-<span id="fn_52"></span>[49:†](ram05.htm#fr_52) Winterbotham.
+<span id="fn_52"></span>[49:†](ram05.htm#fr_52.md) Winterbotham.
 
-<span id="fn_53"></span>[50:\*](ram05.htm#fr_53) Rowley.
+<span id="fn_53"></span>[50:\*](ram05.htm#fr_53.md) Rowley.
 
-<span id="fn_54"></span>[50:†](ram05.htm#fr_54) Schweinfurth.
+<span id="fn_54"></span>[50:†](ram05.htm#fr_54.md) Schweinfurth.
 
-<span id="fn_55"></span>[50:‡](ram05.htm#fr_55) *Ibid*.
+<span id="fn_55"></span>[50:‡](ram05.htm#fr_55.md) *Ibid*.
 
-<span id="fn_56"></span>[50:§](ram05.htm#fr_56) *Ibid*.
+<span id="fn_56"></span>[50:§](ram05.htm#fr_56.md) *Ibid*.
 
-<span id="fn_57"></span>[50:\*\*](ram05.htm#fr_57) Mackay.
+<span id="fn_57"></span>[50:\*\*](ram05.htm#fr_57.md) Mackay.
 
-<span id="fn_58"></span>[52:\*](ram05.htm#fr_58) MacPherson.
+<span id="fn_58"></span>[52:\*](ram05.htm#fr_58.md) MacPherson.
 
-<span id="fn_59"></span>[55:\*](ram05.htm#fr_59) Campbell.
+<span id="fn_59"></span>[55:\*](ram05.htm#fr_59.md) Campbell.
 
-<span id="fn_60"></span>[57:\*](ram05.htm#fr_60) J. G. Frazer.
+<span id="fn_60"></span>[57:\*](ram05.htm#fr_60.md) J. G. Frazer.
 
-<span id="fn_61"></span>[57:†](ram05.htm#fr_61) Rev. A. Gunn, MS. Notes.
+<span id="fn_61"></span>[57:†](ram05.htm#fr_61.md) Rev. A. Gunn, MS. Notes.
 
-<span id="fn_62"></span>[59:\*](ram05.htm#fr_62) Martin.
+<span id="fn_62"></span>[59:\*](ram05.htm#fr_62.md) Martin.
 
-<span id="fn_63"></span>[59:†](ram05.htm#fr_63) J. G. Frazer, quoting
+<span id="fn_63"></span>[59:†](ram05.htm#fr_63.md) J. G. Frazer, quoting
 Mannhardt.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Sacrifice](ram06)
+[Next: Chapter IV. Sacrifice](ram06.md)

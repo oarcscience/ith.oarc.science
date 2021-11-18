@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf10) [Next](bulf12) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf10) [Next](bulf12.md) 
 
 # CHAPTER XII.
 
@@ -238,4 +238,4 @@ borrowed their details from him.
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XIII. Nisus And Scylla- Echo And Narcissus- Clytie- Hero
-And Leander.](bulf12)
+And Leander.](bulf12.md)

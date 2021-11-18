@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe232)  [Next](prwe234) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe232)  [Next](prwe234.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ guise-dancing, or geese-dancing, by corruption.
 
 ------------------------------------------------------------------------
 
-[Next: Christmas at St Ives](prwe234)
+[Next: Christmas at St Ives](prwe234.md)

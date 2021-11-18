@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby23)  [Next](piby25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby23)  [Next](piby25.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ boiled in oil, for I shall have no mercy upon them."
 ------------------------------------------------------------------------
 
 [Next: Chapter 1. A Buggy from Tokio to Los Angeles, A Bicycle from
-London to Anguilla](piby25)
+London to Anguilla](piby25.md)

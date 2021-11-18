@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp00)  [Next](twp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp00)  [Next](twp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ The Way of Stars</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Preface](twp02)
+[Next: Preface](twp02.md)

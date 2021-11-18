@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](arw04)  [Next](arw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](arw04)  [Next](arw06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabian Wisdom*, by John Wortabet, \[1913\], at Intangible Textual
 Heritage
 
@@ -40,7 +40,7 @@ men.
 
 ### Footnotes
 
-<span id="fn_3"></span>[15:1](arw04.htm#fr_3) This opening chapter of
+<span id="fn_3"></span>[15:1](arw04.htm#fr_3.md) This opening chapter of
 the Koran—very short as it is—contains the fundamental principles of the
 whole book—the doctrine of God, His infinite mercy, the immortality of
 the soul, the rewards and punishments of the world to come, and the duty
@@ -50,4 +50,4 @@ is as frequently repeated by them as the Lord's Prayer is by Christians.
 
 ------------------------------------------------------------------------
 
-[Next: A Sinner's Cry unto God](arw06)
+[Next: A Sinner's Cry unto God](arw06.md)

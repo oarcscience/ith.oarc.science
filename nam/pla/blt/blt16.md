@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt15)  [Next](blt17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt15)  [Next](blt17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="page_104">p. 104</span>
 
-### ORIGIN OF THE I-KUN-UH´-KAH-TSI <span id="fr_18"></span>[1](#fn_18)
+### ORIGIN OF THE I-KUN-UH´-KAH-TSI <span id="fr_18"></span>[1](#fn_18.md)
 
 #### I
 
@@ -125,7 +125,7 @@ people's medicine is very
 <span id="page_107">p. 107</span>
 
 strong. Now, before you go, we will teach you our dance and our song.
-You must not forget them." <span id="fr_19"></span>[1](#fn_19) When the
+You must not forget them." <span id="fr_19"></span>[1](#fn_19.md) When the
 dance was over, the bull said: "Go now to your home, and do not forget
 what you have seen. Teach it to the people. The medicine shall be a
 bull's head and a robe. All the persons who are to be 'Bulls' shall wear
@@ -163,7 +163,7 @@ young man entered.
 sitting-place.
 
 They looked at this person with surprise and fear, for there was a black
-wind <span id="fr_20"></span>[1](#fn_20) which had melted the snow, and
+wind <span id="fr_20"></span>[1](#fn_20.md) which had melted the snow, and
 covered the prairie with water, yet this person's leggings and moccasins
 were dry. They sat in silence a long time.
 
@@ -185,7 +185,7 @@ As soon as he went out, they began to talk about this strange person.
 They were very much afraid of him, and did not know what to do. The
 children began to cry, and the women were trying to quiet them, when the
 young man returned, bringing some meat and three *pis-tsi-ko'-an.* <span
-id="fr_21"></span>[2](#fn_21)
+id="fr_21"></span>[2](#fn_21.md)
 
 "*Kyi!*" said he. "To-morrow move over to our lodges. Do not be afraid.
 No matter what strange things you see, do not fear. All will be your
@@ -239,7 +239,7 @@ went to the lodge.
 
 Within, the fire burned brightly, and many men were already there, the
 old and wise of the Raven band. Hanging behind the seats were the
-writings <span id="fr_22"></span>[1](#fn_22) of many deeds. Food was
+writings <span id="fr_22"></span>[1](#fn_22.md) of many deeds. Food was
 placed before them,—pemmican of berries and dried back fat; and when
 they had eaten, a pipe was lighted. Then spoke the Raven chief: "Now,
 Wolf, I am going to give our new friend a present. What say you?"
@@ -301,7 +301,7 @@ again they heard the feast shout from the far end of camp. In this lodge
 the men were painted with streaks of red and their hair was all brushed
 to one side. After the feast the chief said: "We are different from all
 the others here. We are called the *Mŭt´-siks* <span
-id="fr_23"></span>[1](#fn_23) We are death. We know not fear. Even if
+id="fr_23"></span>[1](#fn_23.md) We are death. We know not fear. Even if
 our enemies are in number like
 
 <span id="page_112">p. 112</span>
@@ -332,25 +332,25 @@ them the songs and dances, and gave each band their medicine.
 
 ### Footnotes
 
-<span id="fn_18"></span>[104:1](blt16.htm#fr_18) An account of the
+<span id="fn_18"></span>[104:1](blt16.htm#fr_18.md) An account of the
 *I-kun-uh´-kah-tsi*, with a list of its different bands or societies and
 their duties, will be found in the chapter on Social Organization.
 
-<span id="fn_19"></span>[107:1](blt16.htm#fr_19) Here the narrator
+<span id="fn_19"></span>[107:1](blt16.htm#fr_19.md) Here the narrator
 repeated the song and showed the dance. As is fitting to the dance of
 such great beasts, the air is slow and solemn, and the step ponderous
 and deliberate.
 
-<span id="fn_20"></span>[108:1](blt16.htm#fr_20) The "Chinook."
+<span id="fn_20"></span>[108:1](blt16.htm#fr_20.md) The "Chinook."
 
-<span id="fn_21"></span>[108:2](blt16.htm#fr_21) Unborn buffalo calves.
+<span id="fn_21"></span>[108:2](blt16.htm#fr_21.md) Unborn buffalo calves.
 
-<span id="fn_22"></span>[110:1](blt16.htm#fr_22) That is, the painting
+<span id="fn_22"></span>[110:1](blt16.htm#fr_22.md) That is, the painting
 on cowskin of the various battles and adventures in which the owner of
 the lodge had taken part.
 
-<span id="fn_23"></span>[111:1](blt16.htm#fr_23) Brave, courageous.
+<span id="fn_23"></span>[111:1](blt16.htm#fr_23.md) Brave, courageous.
 
 ------------------------------------------------------------------------
 
-[Next: Origin Of The Medicine Pipe](blt17)
+[Next: Origin Of The Medicine Pipe](blt17.md)

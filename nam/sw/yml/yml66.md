@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml65)  [Next](yml67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml65)  [Next](yml67.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Now when Yaquis pass by that place they turn their heads away.
 
 ------------------------------------------------------------------------
 
-[Next: References](yml67)
+[Next: References](yml67.md)

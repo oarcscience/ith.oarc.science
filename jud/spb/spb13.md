@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb12)  [Next](spb14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb12)  [Next](spb14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -18,8 +18,8 @@ Intangible Textual Heritage
 
 *On Weekdays, if the Evening Service is read after nightfall, commence
 here. At the termination of the Sabbath say Psalms cxliv. and lxvii., p.
-[298](spb24.htm#page_298), [299](spb24.htm#page_299); then continue,
-"And he being merciful," [p. 129](#page_129). On Weekdays, if the
+[298](spb24.htm#page_298), [299](spb24.htm#page_299.md); then continue,
+"And he being merciful," [p. 129](#page_129.md). On Weekdays, if the
 Evening Service is read before nightfall, commence, "And he being
 merciful."*
 
@@ -278,7 +278,7 @@ he be high above all the blessings and hymns, praises and consolations,
 which are uttered in the world; and say ye, Amen.
 
 *The following prayer (Amidah) to "as in ancient years," [p.
-148](#page_148), is to be said standing*.
+148](#page_148.md), is to be said standing*.
 
 <span class="small">O Lord, open thou my lips, and my mouth shall
 declare thy praise.</span>
@@ -375,7 +375,7 @@ art thou, O Lord, who healest the sick of thy people Israel.
 Bless this year unto us, O Lord our God, together with every kind of the
 produce thereof, for our welfare; give a blessing
 
-*During the Winter Season <span id="fr_15"></span>[\*](#fn_13)
+*During the Winter Season <span id="fr_15"></span>[\*](#fn_13.md)
 substitute for the last sentence:—*
 
 <span class="small">Give dew and rain for a blessing upon the face of
@@ -488,7 +488,7 @@ lovingkindnesses never cease, we have ever hoped in thee.
 *On Chanukah and Purim say:—*
 
 <span class="small">We thank thee, etc., [p.
-63](spb05.htm#page_63).</span>
+63](spb05.htm#page_63.md).</span>
 
 For all these things thy name, O our King, shall be continually blessed
 and exalted for ever and ever.
@@ -633,13 +633,13 @@ us and for all Israel; and say ye, Amen.
 
 ### Footnotes
 
-<span id="fn_13"></span>[142:\*](spb13.htm#fr_15) From the 4th December
+<span id="fn_13"></span>[142:\*](spb13.htm#fr_15.md) From the 4th December
 until the First Day of Passover.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Inauguration of the Sabbath](spb14)
+[Next: Inauguration of the Sabbath](spb14.md)
 
 </div>

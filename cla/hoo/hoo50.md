@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo49)  [Next](hoo51) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo49)  [Next](hoo51.md) 
 
 ------------------------------------------------------------------------
 
 ###### XLV.
 
-### TO LIKNITUS <span id="fr_107"></span>[+](#fn_107) BACCHUS.
+### TO LIKNITUS <span id="fr_107"></span>[+](#fn_107.md) BACCHUS.
 
 ###### The FUMIGATION from MANNA.
 
@@ -27,7 +27,7 @@ Propitious come, and in these rites rejoice. 10
 
 ### Footnotes
 
-<span id="fn_107"></span>[178:+](hoo50.htm#fr_107) XLV. + Or the
+<span id="fn_107"></span>[178:+](hoo50.htm#fr_107.md) XLV. + Or the
 Fan-bearer.
 
 Concerning Liknitus and the following Bacchuses, see the last section of
@@ -35,4 +35,4 @@ the Dissertation.
 
 ------------------------------------------------------------------------
 
-[Next: XLVI: To Bacchus Pericionius](hoo51)
+[Next: XLVI: To Bacchus Pericionius](hoo51.md)

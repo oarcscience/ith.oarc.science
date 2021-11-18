@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg42)  [Next](leg44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg42)  [Next](leg44.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ Greek name Athenais.
 
 ------------------------------------------------------------------------
 
-[Next: Section XVI.](leg44)
+[Next: Section XVI.](leg44.md)

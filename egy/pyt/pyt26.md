@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt25)  [Next](pyt27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt25)  [Next](pyt27.md) 
 
 ------------------------------------------------------------------------
 
@@ -261,4 +261,4 @@ himself in, one who will lock himself in is there.
 ------------------------------------------------------------------------
 
 [Next: 24. A Series of Reed-Floats and Ferryman Texts, Utterances
-503-522](pyt27)
+503-522](pyt27.md)

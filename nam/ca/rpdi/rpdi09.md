@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi08)  [Next](rpdi10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi08)  [Next](rpdi10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ figure representing a man has been fashioned out of netting made of
 nettle fibre, aho<span class="sc">r</span><span class="sc">l</span>.
 This figure, minyu, is five or six feet long. It seems to correspond
 exactly with the Luiseño "wanal wanawut." <span
-id="fr_75"></span>[70](#fn_75) The Diegueño figure, besides having arms
+id="fr_75"></span>[70](#fn_75.md) The Diegueño figure, besides having arms
 and legs, is represented as having a long tail. A pit is dug, large
 enough to accommodate the figure when stretched out at full length, and
 from eighteen inches to three feet deep. The long axis of this pit
@@ -48,23 +48,23 @@ the whole company then "grunt" three times. At the third, the boys and
 their sponsors push the dirt in from all sides, filling the trench and
 burying the netting figure. If any of the dust rises from this "grave"
 and gets in a boy's nostrils, he will die. <span
-id="fr_76"></span>[71](#fn_76) As it is almost dark by this time, they
+id="fr_76"></span>[71](#fn_76.md) As it is almost dark by this time, they
 begin the war dance at once, on top of the grave where the figure is
 buried. They dance all night, and at daybreak dance the fire out. <span
-id="fr_77"></span>[72](#fn_77) This ends the ceremony.
+id="fr_77"></span>[72](#fn_77.md) This ends the ceremony.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_75"></span>[304:70](rpdi09.htm#fr_75) DuBois, p. 85.
+<span id="fn_75"></span>[304:70](rpdi09.htm#fr_75.md) DuBois, p. 85.
 
-<span id="fn_76"></span>[305:71](rpdi09.htm#fr_76) Cf. the Chaup Myth by
+<span id="fn_76"></span>[305:71](rpdi09.htm#fr_76.md) Cf. the Chaup Myth by
 Miss DuBois, Journ. Am. Folk-Lore, XIX, 163, 1906.
 
-<span id="fn_77"></span>[305:72](rpdi09.htm#fr_77) See the account of
+<span id="fn_77"></span>[305:72](rpdi09.htm#fr_77.md) See the account of
 the Fire ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: Mourning Ceremonies](rpdi10)
+[Next: Mourning Ceremonies](rpdi10.md)

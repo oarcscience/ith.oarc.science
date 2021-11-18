@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb14)  [Next](wfb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb14)  [Next](wfb16.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ it is from this that the lake acquired its name.
 
 ------------------------------------------------------------------------
 
-[Next: Einion and the Lady of the Greenwood](wfb16)
+[Next: Einion and the Lady of the Greenwood](wfb16.md)

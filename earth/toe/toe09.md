@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe08)  [Next](toe10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe08)  [Next](toe10.md) 
 
 ------------------------------------------------------------------------
 
@@ -242,7 +242,7 @@ towards the general receptacle of that fluid. The heights of our land
 are thus levelled with the shores; our fertile plains are formed from
 the ruins of the mountains; and those travelling materials are still
 pursued by the moving water, and propelled along the inclined surface of
-the earth <span id="fr_8"></span>[1](#fn_8) These moveable materials,
+the earth <span id="fr_8"></span>[1](#fn_8.md) These moveable materials,
 delivered into the sea, cannot, for a long continuance, rest upon the
 shore; for, by the agitation of the winds, the tides and currents, every
 moveable thing is carried farther and farther along the shelving bottom
@@ -415,7 +415,7 @@ facts:
 1*st*, There are few beds of marble or limestone, in which may not be
 found some of those objects which indicate the marine origin of the
 mass. If, for example, in a mass of marble, taken from a quarry upon the
-top of the Alps or Andes <span id="fr_9"></span>[2](#fn_9), there shall
+top of the Alps or Andes <span id="fr_9"></span>[2](#fn_9.md), there shall
 be found one cockle-shell, or piece of coral, it must be concluded, that
 this bed of stone had been originally formed at the bottom of the sea,
 as much as another bed which is evidently composed almost altogether of
@@ -456,7 +456,7 @@ consolidation of the strata, it does not appear, that the sparry masses,
 in which no figured body is formed, have been originally different from
 other masses, which, being only crystallised in part, and in part still
 retaining their original form, leave ample evidence of their marine
-origin <span id="fr_10"></span>[3](#fn_10).
+origin <span id="fr_10"></span>[3](#fn_10.md).
 
 We are led, in this manner, to conclude, that all the strata of the
 earth, not only those consisting of such calcareous masses, but others
@@ -549,7 +549,7 @@ our immediate observation, will appear from the following truth: All the
 consolidated masses, of which we now inquire into the cause, are, upon
 the surface of the earth, in a state of general decay, although the
 various natures of those bodies admit of that dissolution in very
-different degrees <span id="fr_11"></span>[4](#fn_11)
+different degrees <span id="fr_11"></span>[4](#fn_11.md)
 
 From every view of the subject, therefore, we are directed to look into
 those consolidated masses themselves, in order to find principles from
@@ -577,7 +577,7 @@ amounting to a demonstration.
 
 ### Footnotes
 
-<span id="fn_8"></span>[v1:1](toe09.htm#fr_8) M. de Luc, in his second
+<span id="fn_8"></span>[v1:1](toe09.htm#fr_8.md) M. de Luc, in his second
 letter to me, published in the Monthly Review for 1790, says, "You ought
 to have proved that both gravel and sand are carried from our continents
 to the sea; which, on the contrary, I shall prove not to be the case."
@@ -592,7 +592,7 @@ land, and are thus carried into the sea—at last. This is all that my
 theory requires, and this is what I believe will be admitted, without
 any farther proof on my part.
 
-<span id="fn_9"></span>[v1:2](toe09.htm#fr_9) "Cette sommité élevée de
+<span id="fn_9"></span>[v1:2](toe09.htm#fr_9.md) "Cette sommité élevée de
 984 toises au dessus de notre lac, et par conséquent de 1172 au dessus
 de la mer, est remarquable en ce que l'on y voit des fragmens d'huîtres
 pétrifiés.—Cette montagne est dominée par un rocher escarpé, qui s'il
@@ -603,14 +603,14 @@ détachent, et que l'on rencontre en montant à la Croix de fer, sont
 remplis de *turbinites* de différentes espèces." M. DE SAUSSURE, *Voyage
 dans les Alpes*, p. 394.
 
-<span id="fn_10"></span>[v1:3](toe09.htm#fr_10) M. de Saussure,
+<span id="fn_10"></span>[v1:3](toe09.htm#fr_10.md) M. de Saussure,
 describing the marble of Aigle, says, "Les tables polies de ce marbre
 présentent fréquemment des coquillages, dont la plupart sont des peignes
 striés, et de très-beaux madrépores. Tous ces corps marins on pris
 entierement la nature et le grain même du marbre, on n'y voit presque
 jamais la coquille sous sa forme originaire."
 
-<span id="fn_11"></span>[v1:4](toe09.htm#fr_11) Stalactical and certain
+<span id="fn_11"></span>[v1:4](toe09.htm#fr_11.md) Stalactical and certain
 ferruginous concretions may seem to form an exception to the generality
 of this proposition. But an objection of this kind could only arise from
 a partial view of things; for the concretion here is only temporary; it
@@ -620,4 +620,4 @@ dissolution, which will be treated of in its proper place.
 ------------------------------------------------------------------------
 
 [Next: Section II. An Investigation of the Natural Operations employed
-in consolidating the Strata of the Globe](toe10)
+in consolidating the Strata of the Globe](toe10.md)

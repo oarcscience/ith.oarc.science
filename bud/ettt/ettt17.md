@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt16)  [Next](ettt18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt16)  [Next](ettt18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ sleeping state.
 This Light Yoga practiced in the daytime refers to the general or common
 Light (in contrast to the unique Tantric Light practice), which is the
 fundamental Dharma-essence apart from the realistic and nihilistic
-extremes[95](ettt22.htm#an_n_nar:95)<span id="an_r_nar:95"></span>. This
+extremes[95](ettt22.htm#an_n_nar:95.md)<span id="an_r_nar:95"></span>. This
 is the (so-called) Light-of-Object; the understanding or realization of
 which is (called) the Light-of-Object (literally, the
 Light-of-Comprehending-the-Object). This teaching is found in both
@@ -226,7 +226,7 @@ any general Dhyana one may induce a certain sleeping samadhi with the
 capability of contemplating on the Soleness and the Light of the general
 Paths (Hinayana and Mahayana Path), that is by no means the Light as
 taught by the teaching of Anuttara Tantra <span
-id="fr_16"></span>[\*](#fn_16).
+id="fr_16"></span>[\*](#fn_16.md).
 
 Recognizing the Light through the prana power by concentrating on the
 Heart Center will cause the Four Voidnesses to successively arise; the
@@ -287,7 +287,7 @@ are seen as clearly (by the enlightened beings) as one sees his own
 palm.
 
 The teaching of the identity of Bliss and Void of the
-Unparalled-Vehicle[96](ettt22.htm#an_n_nar:96)<span
+Unparalled-Vehicle[96](ettt22.htm#an_n_nar:96.md)<span
 id="an_r_nar:96"></span> is to meditate on the View of the Soleness
 together with the produced Bliss, as mentioned before. Although this
 term, the Identity-of-Bliss-Void, is claimed by many, there are numerous
@@ -303,13 +303,13 @@ Rngog-pa School; nevertheless, it is clearly stated in the book of
 *Spyod-bsdus* (*Collective Instructions on Performances*—commentary of
 Gsun-*a*dus), which says:
 
-"The [skandhas](errata.htm#57) then enter into the subtle elements, the
+"The [skandhas](errata.htm#57.md) then enter into the subtle elements, the
 subtle elements into the consciousness, the consciousness
 
 <span id="page_247">p. 247</span>
 
 into the subtle-consciousness (Sattva), the subtle-consciousness into
-the Blindness. <span id="fr_17"></span>[\*](#fn_17) Following this
+the Blindness. <span id="fr_17"></span>[\*](#fn_17.md) Following this
 proceeding and coordinating with it, the sleeping procedure is reversed.
 At the time the 'Entering-process' of consciousness, of subtle
 consciousness, and of the great Blindness takes place, in a split second
@@ -325,10 +325,10 @@ Having fully understood the secret meaning of the books of the
 accomplished one, I have given the explanations on the Four Voidnesses
 and the (practical) instructions on holding the Light. These
 instructions cannot be found anywhere
-else[97](ettt22.htm#an_n_nar:97)<span id="an_r_nar:97"></span>; one
+else[97](ettt22.htm#an_n_nar:97.md)<span id="an_r_nar:97"></span>; one
 should try to understand them properly and follow them.
 
-In the above quotation, "the [skandhas](errata.htm#58)" means the crude
+In the above quotation, "the [skandhas](errata.htm#58.md)" means the crude
 visions; "the subtle elements" implies the time when the elements enter
 into the prana—that is, the time when the earth, water, and fire
 elements successively subside from one to another until the fire
@@ -347,7 +347,7 @@ himself with the Three Voidnesses at the time of sleep.
 In short, this quotation from the "Collective Instruction on
 Performance" is the essence summarized from Ye-shes-rdo-rje. "This time"
 means the time of sleep. The "entering-process of the three
-consciousnesses[98](ettt22.htm#an_n_nar:98)<span
+consciousnesses[98](ettt22.htm#an_n_nar:98.md)<span
 id="an_r_nar:98"></span>" means that former consciousnesses successively
 enter into the later consciousnesses, and at the time of the third stage
 of the third consciousness the mind becomes dim. "Later" implies the
@@ -357,7 +357,7 @@ non-thought consciousness in the deeply slumbering state—the experience
 is like beholding the clear sky at dawn. During this time no other
 visions (or thoughts) come to pass. "If \[there is\] liberation \[from
 forgetfulness *Ed*.\], the prana *arouses* the
-essence[99](ettt22.htm#an_n_nar:99)<span id="an_r_nar:99"></span>."
+essence[99](ettt22.htm#an_n_nar:99.md)<span id="an_r_nar:99"></span>."
 Before the various dreams come in sight, one should try to concentrate
 on the Light as long as possible. Here, the "liberation" implies the
 Light Samadhi; if the Samadhi becomes dim or weakened and the yogi is
@@ -396,13 +396,13 @@ hold it dear as most valuable instruction.
 If one has tried his best to remain in the Light, but, because of the
 drifting prana is unable to hold on, one may then resort to the special
 teaching on dream-arisings given in the pith-instruction of
-[*Gsun-*a*dus*](errata.htm#59) of the Marpa School.
+[*Gsun-*a*dus*](errata.htm#59.md) of the Marpa School.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_16"></span>[244:\*](ettt17.htm#fr_16) It is clear that
+<span id="fn_16"></span>[244:\*](ettt17.htm#fr_16.md) It is clear that
 throughout the text Tsong Khapa is referring to a practical yoga-type
 discipline, very different from the very philosophical and verbal
 context of the Anuttara Tantra as presented in most of the occidentally
@@ -410,14 +410,14 @@ accessible texts, e.g. in the Vow of Mahamudra, for example. That
 practical teaching and the realization it brings is the true heart of
 the Anuttara Tantra.—*Ed*.
 
-<span id="fn_17"></span>[247:\*](ettt17.htm#fr_17) Here is the "entering
+<span id="fn_17"></span>[247:\*](ettt17.htm#fr_17.md) Here is the "entering
 process of the three consciousnesses" mentioned below. See note
-[98](ettt22.htm#an_n_nar:98). *Ed*.
+[98](ettt22.htm#an_n_nar:98.md). *Ed*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Nine: The Transformation Yoga](ettt18)
+[Next: Chapter Nine: The Transformation Yoga](ettt18.md)
 
 </div>

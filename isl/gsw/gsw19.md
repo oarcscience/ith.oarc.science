@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw18)  [Next](gsw20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw18)  [Next](gsw20.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_258">p. 258</span>
 
-<span id="img_25800"></span> ![FROM A METAL LANTERN](img/25800.jpg)
+<span id="img_25800"></span> ![FROM A METAL LANTERN](img/25800.jpg.md)
 
 ### CHAPTER XV
 
@@ -53,7 +53,7 @@ I had heard of
 
 <span id="img_25900"></span> <span align="CENTER"> [![MIRZA HASAN ALI,
 THE POET](tn/25900.jpg)  
-Click to enlarge](img/25900.jpg)  
+Click to enlarge](img/25900.jpg.md)  
 MIRZA HASAN ALI, THE POET  
 </span>
 
@@ -120,7 +120,7 @@ refused to sell it at any price,
 <span id="img_26300"></span> <span align="CENTER"> [![THE MOSQUE OF
 GAUHAR SHAH AGA&lt;br&gt; &lt;i&gt;A. Wright,
 phot&lt;/i&gt;.](tn/26300.jpg)  
-Click to enlarge](img/26300.jpg)  
+Click to enlarge](img/26300.jpg.md)  
 THE MOSQUE OF GAUHAR SHAH AGA  
 *A. Wright, phot*.  
 </span>
@@ -301,7 +301,7 @@ This poem will pass through many cycles:
 And all those who possess wisdom will read it.  
 I have undergone many hardships during thirty years,  
 But have brought Persia back to life with my Persian <span
-id="fr_70"></span>[1](#fn_68) poetry.
+id="fr_70"></span>[1](#fn_68.md) poetry.
 
 At length, wearied out by the journey and my emotions, I fell asleep,
 and, in a dream, I beheld Firdausi writing his poem. Looking more
@@ -344,7 +344,7 @@ My last visit to the Shrine was at night, and, upon the whole, I was
 pleased that it was lighted with the electric light, which is, at any
 rate, free from objectionable matters, foreign candles being, they say,
 made of even the fat of the unclean animal. <span
-id="fr_71"></span>[1](#fn_69)
+id="fr_71"></span>[1](#fn_69.md)
 
 But yet I yearned to be back in the days of *Shah* Abbas, who, after
 having performed the entire journey from Isfahan on foot, undertook the
@@ -360,7 +360,7 @@ O’er the candles lighted in this Paradise-like tomb:
 <span id="img_27300"></span> <span align="CENTER"> [![IN THE KUHPAIA
 DISTRICT&lt;br&gt; &lt;i&gt;Major Sykes,
 phot&lt;/i&gt;.](tn/27300.jpg)  
-Click to enlarge](img/27300.jpg)  
+Click to enlarge](img/27300.jpg.md)  
 IN THE KUHPAIA DISTRICT  
 *Major Sykes, phot*.  
 </span>
@@ -453,17 +453,17 @@ perfect and infinite, filled my soul.
 <span class="smallcaps">Tamam Shud</span>,
 
 <span id="img_27700"></span> ![FROM AN EARTHENWARE WATER
-PIPE](img/27700.jpg)
+PIPE](img/27700.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_68"></span>[271:1](gsw19.htm#fr_70) The poet here boasts
+<span id="fn_68"></span>[271:1](gsw19.htm#fr_70.md) The poet here boasts
 that he avoided the use of Arabic words.
 
-<span id="fn_69"></span>[272:1](gsw19.htm#fr_71) *I.e.* the pig.
+<span id="fn_69"></span>[272:1](gsw19.htm#fr_71.md) *I.e.* the pig.
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](gsw20)
+[Next: Epilogue](gsw20.md)

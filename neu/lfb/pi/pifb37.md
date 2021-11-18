@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb36)  [Next](pifb38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb36)  [Next](pifb38.md) 
 
 </div>
 
@@ -168,6 +168,6 @@ best.
 
 ------------------------------------------------------------------------
 
-[Next: King Lindorm](pifb38)
+[Next: King Lindorm](pifb38.md)
 
 </div>

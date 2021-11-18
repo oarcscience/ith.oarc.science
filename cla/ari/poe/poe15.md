@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe14)  [Next](poe16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe14)  [Next](poe16.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ the right kind of plot.
 
 ------------------------------------------------------------------------
 
-[Next: XV. The element of Character in Tragedy](poe16)
+[Next: XV. The element of Character in Tragedy](poe16.md)

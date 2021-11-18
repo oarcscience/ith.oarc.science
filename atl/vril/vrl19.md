@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl18)  [Next](vrl20) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl18)  [Next](vrl20.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ may still be his companion, Zee, for you can suspend your own."
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXI](vrl20)
+[Next: CHAPTER XXI](vrl20.md)

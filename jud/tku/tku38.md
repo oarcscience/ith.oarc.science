@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku37)  [Next](tku39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku37)  [Next](tku39.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ under judgment.
 590\. Save in that time when the prayers of the Israelites ascend before
 the Ancient of Days, and entreat mercy for His children; then is
 uncovered the forehead of the benevolence of benevolences, <span
-id="fr_105"></span>[1](#fn_104) and it shineth down upon this
+id="fr_105"></span>[1](#fn_104.md) and it shineth down upon this
 (*forehead*) of Microprosopus, and judgment is quieted.
 
 591\. Over this forehead there goeth forth a certain
@@ -69,7 +69,7 @@ neighbouring
 
 <span id="page_185">p. 185</span>
 
-letters <span id="fr_106"></span>[1](#fn_105) (*M and N in NTzChIM*),
+letters <span id="fr_106"></span>[1](#fn_105) (*M and N in NTzChIM*.md),
 being permuted, (*we obtain NTzChIN singular*), MTzCh, *Metzach*
 (*meaning*) forehead.
 
@@ -109,12 +109,12 @@ in the other parts of the body (*of Macroprosopus*).
 
 ### Footnotes
 
-<span id="fn_104"></span>[183:1](tku38.htm#fr_105) Namely, that of
+<span id="fn_104"></span>[183:1](tku38.htm#fr_105.md) Namely, that of
 Macroprosopus.
 
-<span id="fn_105"></span>[185:1](tku38.htm#fr_106) *I.e.*, in their
+<span id="fn_105"></span>[185:1](tku38.htm#fr_106.md) *I.e.*, in their
 usual place in the order of the alphabet.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXI: Concerning the Eyes of Microprosopus](tku39)
+[Next: Chapter XXXI: Concerning the Eyes of Microprosopus](tku39.md)

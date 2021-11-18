@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre64)  [Next](gre66) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre64)  [Next](gre66.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ Now that place where they fought is called Grettir's point to-day.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXI: How Grettir left Fairwoodfell, and of his abiding in
-Thorir's-dale](gre66)
+Thorir's-dale](gre66.md)

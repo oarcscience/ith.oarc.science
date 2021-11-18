@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm39)  [Next](tgm41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm39)  [Next](tgm41.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ will not be able to take us to court either." And they were very happy.
 <span id="img_21800"></span>
 
 [![](tn/21800.jpg)  
-Click to enlarge](img/21800.jpg)
+Click to enlarge](img/21800.jpg.md)
 
  
 
@@ -151,4 +151,4 @@ religion!
 
 ------------------------------------------------------------------------
 
-[Next: 38. Whither--Now?](tgm41)
+[Next: 38. Whither--Now?](tgm41.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil30)  [Next](seil32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil30)  [Next](seil32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ some profit.
 
 **Fourth Point**. The fourth, to consider that which Christ our Lord is
 suffering in His Humanity, <span
-id="fr_18"></span>[19](seil83.htm#fn_18) or wants to suffer, according
+id="fr_18"></span>[19](seil83.htm#fn_18.md) or wants to suffer, according
 to the passage which is being contemplated, and here to commence with
 much vehemence and to force myself to grieve, be sad and weep, and so to
 labor through the other points which follow.
@@ -86,4 +86,4 @@ follows THE PAIRS.
 
 ------------------------------------------------------------------------
 
-[Next: Second Contemplation](seil32)
+[Next: Second Contemplation](seil32.md)

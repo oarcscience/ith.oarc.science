@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/raj)  [Previous](../ppt/ppt) 
-[Next](../rol/rol) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/raj)  [Previous](../ppt/ppt.md) 
+[Next](../rol/rol.md) 
 
 ------------------------------------------------------------------------
 
@@ -4777,4 +4777,4 @@ Index](../index)  [First Folio](../ff/raj)  [Previous](../ppt/ppt) 
 
 ------------------------------------------------------------------------
 
-[Next: Rape of Lucrece](../rol/rol) 
+[Next: Rape of Lucrece](../rol/rol.md) 

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml23)  [Next](cml25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml23)  [Next](cml25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,15 +19,15 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 The powers of light were, however, by no means invariably successful in
 their struggles with the powers of darkness. Even Gwydion son of Dôn had
 to serve his apprenticeship to misfortune. As-sailing Caer
-Sidi--Hades <span id="fr_346"></span>[1](#fn_346) under one of its many
+Sidi--Hades <span id="fr_346"></span>[1](#fn_346.md) under one of its many
 titles,--he was caught by Pwyll and Pryderi, and endured a long
-imprisonment. <span id="fr_347"></span>[2](#fn_347) The sufferings he
+imprisonment. <span id="fr_347"></span>[2](#fn_347.md) The sufferings he
 underwent made him a bard--an ancient Celtic idea which one can still
 see surviving in the popular tradition that whoever dares to spend a
 night alone either upon the chair of the Giant Idris (the summit of
 Cader Idris, in Merionethshire), or under the haunted Black Stone of
 Arddu, upon the Llanberis side of Snowdon, will be found in the morning
-either inspired or mad. <span id="fr_348"></span>[3](#fn_348) How he
+either inspired or mad. <span id="fr_348"></span>[3](#fn_348.md) How he
 escaped we are not told; but the episode does not seem to have quenched
 his ardour against the natural enemies of his kind.
 
@@ -56,7 +56,7 @@ this occasion; and the bard Taliesin adds his testimony:
 "I have been in the battle of Godeu, with Lieu and Gwydion,  
 They changed the forms of the elementary trees and sedges".
 
-In a poem devoted to it <span id="fr_349"></span>[1](#fn_349) he
+In a poem devoted to it <span id="fr_349"></span>[1](#fn_349.md) he
 describes in detail what happened. The trees and grasses, he tells us,
 hurried to the fight: the alders led the van, but the willows and the
 quickens came late, and the birch, though courageous, took long in
@@ -87,7 +87,7 @@ weird battle between the arrayed magics of heaven and hell.
 It was magic that decided its fate. There was a fighter in the ranks of
 Hades who could not be overcome unless his antagonist guessed his
 name--a peculiarity of the terrene gods, remarks Professor Rhys, <span
-id="fr_350"></span>[1](#fn_350) which has been preserved in our popular
+id="fr_350"></span>[1](#fn_350.md) which has been preserved in our popular
 
 <span id="page_308">p. 308</span>
 
@@ -100,7 +100,7 @@ The high sprigs of alder are on thy shield;
 "Sure-hoofed is my steed in the day of battle:  
 The high sprigs of alder are on thy hand:  
 *Brân* . . . by the branch thou bearest  
-Has Amaethon the Good prevailed!" <span id="fr_351"></span>[1](#fn_351)
+Has Amaethon the Good prevailed!" <span id="fr_351"></span>[1](#fn_351.md)
 
 Thus the power of the dark gods was broken, and the sons of Dôn retained
 for the use of men the deer, the dog, and the lapwing, stolen from that
@@ -109,7 +109,7 @@ underworld, whence all good gifts came.
 It was always to obtain some practical benefit that the gods of light
 fought against the gods of darkness. The last and greatest of Gwydion's
 raids upon Hades was undertaken to procure--pork! <span
-id="fr_352"></span>[2](#fn_352)
+id="fr_352"></span>[2](#fn_352.md)
 
 Gwydion had heard that there had come to Dyfed some strange beasts, such
 as had never been seen before. They were called "pigs" or "swine", and
@@ -118,12 +118,12 @@ They were small animals, and their flesh was said to be better than the
 flesh of oxen. He thought it would be a good thing to get them, either
 by force or fraud, from the dark powers. Mâth son of Mâthonwy, who ruled
 the children of Dôn from his Olympus of Caer Dathyl <span
-id="fr_353"></span>[3](#fn_353), gave his consent, and Gwydion set off,
+id="fr_353"></span>[3](#fn_353.md), gave his consent, and Gwydion set off,
 with eleven
 
 <span id="page_309">p. 309</span>
 
-others, to Pryderi's palace <span id="fr_354"></span>[1](#fn_354). They
+others, to Pryderi's palace <span id="fr_354"></span>[1](#fn_354.md). They
 disguised themselves as bards, so as to be received by Pryderi, and
 Gwydion, who was "the best teller of tales in the world", entertained
 the Prince of Dyfed and his court more than they had ever been
@@ -185,7 +185,7 @@ Gwydion agreed, and the champions of light and
 
 [![GWYDION CONQUERS PRYDERI&lt;br&gt; &lt;i&gt;From the Drawing by E.
 Wallcousins&lt;/i&gt;.](tn/31000.jpg)  
-Click to enlarge](img/31000.jpg)  
+Click to enlarge](img/31000.jpg.md)  
 GWYDION CONQUERS PRYDERI  
 *From the Drawing by E. Wallcousins*.  
 
@@ -197,8 +197,8 @@ darkness met face to face. But Pryderi was the waning power, and he fell
 before the strength and magic of Gwydion. "And at Maen Tyriawc, above
 Melenryd, was he buried, and there is his grave", says the Mabinogi,
 though the ancient Welsh poem, called the "Verses of the Graves of the
-Warriors" <span id="fr_355"></span>[1](#fn_355), assigns him a different
-resting-place. <span id="fr_356"></span>[2](#fn_356)
+Warriors" <span id="fr_355"></span>[1](#fn_355.md), assigns him a different
+resting-place. <span id="fr_356"></span>[2](#fn_356.md)
 
 This decisive victory over Hades and its kings was the end of the
 struggle, until it was renewed, with still more complete success, by one
@@ -208,48 +208,48 @@ greater than Gwydion--the invincible Arthur.
 
 ### Footnotes
 
-<span id="fn_346"></span>[305:1](cml24.htm#fr_346) Or the Celtic
+<span id="fn_346"></span>[305:1](cml24.htm#fr_346.md) Or the Celtic
 Elysium, "a mythical country beneath the waves of the sea".
 
-<span id="fn_347"></span>[305:2](cml24.htm#fr_347) See the *Spoiling of
-Annwn*, quoted in [chap. XXI](cml25.htm#ch-21)--"The Mythological
+<span id="fn_347"></span>[305:2](cml24.htm#fr_347.md) See the *Spoiling of
+Annwn*, quoted in [chap. XXI](cml25.htm#ch-21.md)--"The Mythological
 'Coming of Arthur'".
 
-<span id="fn_348"></span>[305:3](cml24.htm#fr_348) Rhys: *Hibbert
+<span id="fn_348"></span>[305:3](cml24.htm#fr_348.md) Rhys: *Hibbert
 Lectures*, pp. 250-251.
 
-<span id="fn_349"></span>[306:1](cml24.htm#fr_349) *Book of Taliesin
+<span id="fn_349"></span>[306:1](cml24.htm#fr_349.md) *Book of Taliesin
 VIII*, Vol. I, p. 276, of Skene. I have followed Skene's translation,
 with the especial exception of the curious line referring to the bean,
 so translated in D. W. Nash's *Taliesin*. If a correct rendering of the
 Welsh original, it offers an interesting parallel to certain
 superstitions of the Greeks concerning this vegetable.
 
-<span id="fn_350"></span>[307:1](cml24.htm#fr_350) Rhys: *Hibbert
+<span id="fn_350"></span>[307:1](cml24.htm#fr_350.md) Rhys: *Hibbert
 Lectures*, note to p. 245.
 
-<span id="fn_351"></span>[308:1](cml24.htm#fr_351) Lady Guest's
+<span id="fn_351"></span>[308:1](cml24.htm#fr_351.md) Lady Guest's
 translation in her notes to *Kulhwch and Olwen*.
 
-<span id="fn_352"></span>[308:2](cml24.htm#fr_352) The following episode
+<span id="fn_352"></span>[308:2](cml24.htm#fr_352.md) The following episode
 is retold from Lady Guest's translation of the Mabinogi of *Mâth, Son of
 Mathonwy*.
 
-<span id="fn_353"></span>[308:3](cml24.htm#fr_353) Now called Pen y
+<span id="fn_353"></span>[308:3](cml24.htm#fr_353.md) Now called Pen y
 Gaer. It is on the summit of a hill half-way between Llanrwst and
 Conway, and about a mile from the station of Llanbedr.
 
-<span id="fn_354"></span>[309:1](cml24.htm#fr_354) Said to have been at
+<span id="fn_354"></span>[309:1](cml24.htm#fr_354.md) Said to have been at
 Rhuddlan Teivi, which is, perhaps, Glan Teivy, near Cardigan Bridge.
 
-<span id="fn_355"></span>[311:1](cml24.htm#fr_355) Poem XIX in the
+<span id="fn_355"></span>[311:1](cml24.htm#fr_355.md) Poem XIX in the
 *Black Book of Caermarthen*, Vol. I, p. 309, of Skene.
 
-<span id="fn_356"></span>[311:2](cml24.htm#fr_356)
+<span id="fn_356"></span>[311:2](cml24.htm#fr_356.md)
 
 "In Aber Gwenoli is the grave of Pryderi,  
 Where the waves beat against the land."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. The Mythological ''Coming of Arthur''](cml25)
+[Next: Chapter XXI. The Mythological ''Coming of Arthur''](cml25.md)

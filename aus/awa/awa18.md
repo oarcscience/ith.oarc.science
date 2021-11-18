@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa17)  [Next](awa19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa17)  [Next](awa19.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ It cannot be denied that the Englishman had the worst of the argument.
 
 ------------------------------------------------------------------------
 
-[Next: Protection of Aborigines](awa19)
+[Next: Protection of Aborigines](awa19.md)

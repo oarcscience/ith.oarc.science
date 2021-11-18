@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq06)  [Next](sfq08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq06)  [Next](sfq08.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ and had seized this moment to escape.
 <span id="img_01300"></span>
 
 [![](tn/01300.jpg)  
-Click to enlarge](img/01300.jpg)
+Click to enlarge](img/01300.jpg.md)
 
 \[paragraph continues\] He forgot all her real sweetness and goodness
 and beauty; he only thought how false and unkind she was. He was filled
@@ -99,4 +99,4 @@ have thought it was St. George himself.
 ------------------------------------------------------------------------
 
 [Next: Holiness fights Faithless, and makes Friends with False
-Religion](sfq08)
+Religion](sfq08.md)

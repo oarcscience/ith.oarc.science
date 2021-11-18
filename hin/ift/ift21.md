@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift20) 
-[Next](ift22) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift20.md) 
+[Next](ift22.md) 
 
 ------------------------------------------------------------------------
 
 # The Ass in the Lion's Skin
 
 <span id="img_58"></span> [![](tn/58.jpg)  
-Click to enlarge](img/58.jpg)
+Click to enlarge](img/58.jpg.md)
 
 <span id="img_59"></span> ![](img/59.jpg)T the same time, when
 Brahma-datta was reigning in Benares, the future Buddha was born one of
@@ -52,4 +52,4 @@ And even whilst he was yet speaking the ass died on the spot!
 
 ------------------------------------------------------------------------
 
-[Next: The Farmer and the Money-Lender](ift22)
+[Next: The Farmer and the Money-Lender](ift22.md)

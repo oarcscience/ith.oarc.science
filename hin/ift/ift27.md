@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift26) 
-[Next](ift28) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift26.md) 
+[Next](ift28.md) 
 
 ------------------------------------------------------------------------
 
 # The Ivory City and its Fairy Princess
 
 <span id="img_72"></span> [![](tn/72.jpg)  
-Click to enlarge](img/72.jpg)
+Click to enlarge](img/72.jpg.md)
 
 <span id="img_73"></span> ![](img/73.jpg)NE day a young prince was out
 practicing archery with the son of his father's chief vizier, when one
@@ -569,4 +569,4 @@ country for many, many years in peace and happiness.
 
 ------------------------------------------------------------------------
 
-[Next: Sun, Moon, and Wind go out to Dinner](ift28)
+[Next: Sun, Moon, and Wind go out to Dinner](ift28.md)

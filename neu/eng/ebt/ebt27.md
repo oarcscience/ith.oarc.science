@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt26)  [Next](ebt28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt26)  [Next](ebt28.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ present wheel tracks."
 
 ------------------------------------------------------------------------
 
-[Next: A Few Leys](ebt28)
+[Next: A Few Leys](ebt28.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc14)  [Next](moc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc14)  [Next](moc16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ THE influence of Ægean culture, which assumed its specific character in
 Crete, extended as far distant as Troad, that strip of north-western
 Anatolian coastland which came under the sway of the Trojans. "In the
 Early Minoan period 'Crete'", writes Mr. and Mrs. Hawes. <span
-id="fr_271"></span>[1](#fn_271) "was in contact with Egypt on the one
+id="fr_271"></span>[1](#fn_271.md) "was in contact with Egypt on the one
 hand and with Hissarlik (Troy) and the Cyclades on the other--pupil of
 the former, teacher of the latter." It is possible that Troy's earliest
 connection with Crete goes back to the Neolithic Period, for finds have
@@ -141,9 +141,9 @@ that copper was worked in the Isle of Cyprus before it was used in Egypt
 and Crete. . . . The word Cyprus comes from the name of the plant
 κύπρο?&lt;υ?&gt;σ?&lt;?/υ?&gt; {Greek *kúpro<u>s</u>*}, which is the
 henna (*Lawsonia inermis*), used for dyeing the nails red." <span
-id="fr_272"></span>[1](#fn_272) Cypriote copper blades are of later date
+id="fr_272"></span>[1](#fn_272.md) Cypriote copper blades are of later date
 than those found in Crete, and the earliest flat axe of copper is of
-Egyptian Neolithic form. <span id="fr_273"></span>[2](#fn_273)
+Egyptian Neolithic form. <span id="fr_273"></span>[2](#fn_273.md)
 
 There can be no doubt that Cyprus had a Copper Age before the Age of
 Bronze. The same cannot be said with certainty, however, regarding
@@ -156,14 +156,14 @@ bronze is as old in Crete as copper. The island of Minos "shows",
 <span id="page_220">p. 220</span>
 
 <span class="contnote">\[paragraph continues\]</span> Mrs. Hawes says,
-"the same phenomenon as Hissarlik, <span id="fr_274"></span>[1](#fn_274)
+"the same phenomenon as Hissarlik, <span id="fr_274"></span>[1](#fn_274.md)
 the sudden appearance of bronze at a date not later than 2500 B.C. On
 the evidence at present available no Copper Age can be predicated for
 the island. . . . The natural conclusion is that Crete knew nothing of
 copper until it knew tin also and the superiority of the alloy. This
 knowledge must have come through the extension of trade relations., not
 by conquest, for no country shows more independence in its metal series
-than Crete." <span id="fr_275"></span>[2](#fn_275)
+than Crete." <span id="fr_275"></span>[2](#fn_275.md)
 
 Whence was the bronze obtained by the Cretans? Was it from Egypt or
 Anatolia? Both Crete and Troy were able soon after the dawn of their
@@ -220,12 +220,12 @@ stage in the history and evolution of the working of copper", he holds,
 "is represented in Egypt, and is preserved under circumstances that
 enable us to appreciate in some measure the motives which led the
 Egyptians on, step by step, to the full realization of the immensity of
-the power they had thus acquired." <span id="fr_276"></span>[1](#fn_276)
+the power they had thus acquired." <span id="fr_276"></span>[1](#fn_276.md)
 Professor Elliot Smith follows Dr. Reisner in this connection. <span
-id="fr_277"></span>[2](#fn_277)
+id="fr_277"></span>[2](#fn_277.md)
 
 Others hold that copper was first worked in Asia. Professor Myers, as we
-have indicated, favours Cyprus. <span id="fr_278"></span>[3](#fn_278)
+have indicated, favours Cyprus. <span id="fr_278"></span>[3](#fn_278.md)
 Mr. Hall, who supports the view that the knowledge of corn passed from
 Palestine to Egypt and Babylonia, thinks that the knowledge of metal may
 have come from the same quarter, Sinai, Syria and Cyprus being "the
@@ -235,14 +235,14 @@ Egyptians towards the end of the predynastic age. And they must have
 obtained this knowledge of it from the Northerners." Mr. Hall adds: "Dr.
 Reisner considers the Egyptian evidence alone. and not in connection
 with that from the rest of the Levant". <span
-id="fr_279"></span>[4](#fn_279)
+id="fr_279"></span>[4](#fn_279.md)
 
 It is also contended that the manufacture of bronze was not an Egyptian
 invention, and that Troy and Crete were probably in touch with the
 centre where copper was first hardened by tin and antimony. Mr. Hall
 suggests that this art "came from the Middle East, where tin is found,
 to Greece, as well as Babylonia and, eventually, to Egypt". <span
-id="fr_280"></span>[5](#fn_280) Babylonia, like Cyprus, had a long
+id="fr_280"></span>[5](#fn_280.md) Babylonia, like Cyprus, had a long
 Copper Age.
 
 No direct proof has yet been forthcoming, however, that Egypt imported
@@ -256,7 +256,7 @@ bronze was manufactured elsewhere prior to 3000 B.C. A few objects of
 bronze have been found in First Dynasty tombs. Maspero gave Angelo Mosso
 a piece of metal plate from an Abydos tomb to analyse. The test showed
 "copper 96.00 and tin 3.75 per cent". <span
-id="fr_281"></span>[1](#fn_281) Another important relic is the famous
+id="fr_281"></span>[1](#fn_281.md) Another important relic is the famous
 "bronze rod of Medum", which belongs to the Third Dynasty period. It was
 found embedded in the fillings of a mastaba associated with the pyramid
 of King Sneferu. Pure copper was also used extensively throughout Egypt
@@ -267,13 +267,13 @@ significance.
 
 The Egyptians may have received their earliest supplies of copper from
 Sinai, which they visited to obtain turquoise in the Neolithic
-Age. <span id="fr_282"></span>[2](#fn_282) We know that expeditions were
+Age. <span id="fr_282"></span>[2](#fn_282.md) We know that expeditions were
 sent to work in the copper mines in that region at a later period (Third
 Dynasty). Whence was the tin obtained to harden the copper? A possible
 source of supply is North-western Arabia. That it could be found there
 is suggested by the Biblical reference to the spoils taken by Moses from
 the Midianites, which included "the gold and the silver, the brass, the
-iron, the tin and the lead". <span id="fr_283"></span>[3](#fn_283)
+iron, the tin and the lead". <span id="fr_283"></span>[3](#fn_283.md)
 Another possible source is Anatolia, where tin is said to exist. The
 raiders against whom Pharaoh Sneferu of the Third Dynasty waged war on
 the Delta frontier may have come down an ancient trade route, having
@@ -303,7 +303,7 @@ After the mariners of Crete began to bring home supplies of bronze, its
 traders no doubt did their utmost to acquire the secret of how to
 manufacture it. It may be that, like Solomon, who sent Hiram of Tyre
 annual supplies of wheat and oil in return for timber from Lebanon and
-skilled workers in metal, <span id="fr_284"></span>[1](#fn_284) a Cretan
+skilled workers in metal, <span id="fr_284"></span>[1](#fn_284.md) a Cretan
 monarch made arrangements with an Egyptian or Anatolian Hiram to send
 him artisans who were skilled in the manufacture of bronze.
 
@@ -329,7 +329,7 @@ times.
 Smelting operations were carried on near the entrance of the cave, as is
 indicated by a piece of crucible found by Dr. Hazzidaki. Inside, pieces
 of scoria were picked up. The copper appears to have been entirely
-worked out. <span id="fr_285"></span>[1](#fn_285) Specimens of rock
+worked out. <span id="fr_285"></span>[1](#fn_285.md) Specimens of rock
 taken from a cliff in the vicinity have yielded a small percentage of
 copper.
 
@@ -339,13 +339,13 @@ crucible pot for carrying a charge of metal, and by numerous stone
 moulds, into which the molten metal was run for making knives, nails,
 awls and chisels". Copper was used for the manufacture of bowls, jars,
 and other utensils, but "weapons were of bronze, containing as much as
-ten per cent alloy with copper". <span id="fr_286"></span>[2](#fn_286)
+ten per cent alloy with copper". <span id="fr_286"></span>[2](#fn_286.md)
 Copper daggers with an extremely small percentage of tin have also been
 found.
 
 But although copper could be found in Crete, the tin, as has been
 indicated, had to be imported. "By the beginning of the Bronze
-Age", <span id="fr_287"></span>[3](#fn_287) writes Dr. Mackenzie in this
+Age", <span id="fr_287"></span>[3](#fn_287.md) writes Dr. Mackenzie in this
 connection, "the valley of the Rhone must have played a dominant role of
 communication between the
 
@@ -358,7 +358,7 @@ supplies came from England. "We know the road", he says, "followed by
 the caravans bringing English tin through France to the mouth of the
 Rhone at the end of the Neolithic period, while no trace of any trade in
 tin has so far been discovered in the East." <span
-id="fr_288"></span>[1](#fn_288) Mosso's reference to the "East" applies
+id="fr_288"></span>[1](#fn_288.md) Mosso's reference to the "East" applies
 to "the mountains of China where tin is found".
 
 Mrs. Hawes, who favours a Nearer Eastern source, writes as follows:
@@ -392,10 +392,10 @@ overland through Asia Minor, and also by way of Transcaucasia and the
 Black Sea from distant Khorassan, Strabo's Drangiana, where its presence
 has been confirmed. Excavations at Elizabethpol in Transcaucasia have
 revealed a culture in early contact with the Ægean." <span
-id="fr_289"></span>[1](#fn_289) She thinks that carriers "not unlike the
+id="fr_289"></span>[1](#fn_289.md) She thinks that carriers "not unlike the
 swift Scythians of Herodotus, frequented both the tin-producing region
 south-east of the Caspian and the copper region of the Danube at an
-early date". <span id="fr_290"></span>[2](#fn_290)
+early date". <span id="fr_290"></span>[2](#fn_290.md)
 
 Troy was a probable "clearing house" of the early tin and bronze trade.
 We should therefore visit it before dealing with Ægean commercial
@@ -489,7 +489,7 @@ English translation.
 
                                 Rearing high  
 His crested wave, to Simœis thus he <span
-id="fr_291"></span>[1](#fn_291) cried:  
+id="fr_291"></span>[1](#fn_291.md) cried:  
 "Dear brother, aid me with united force  
 This mortal's course to check; he, unrestrained,  
 Will royal Priam's city soon destroy.  
@@ -498,7 +498,7 @@ Haste to the rescue then, and from their source
 Fill all thy stream, and all thy channels swell;  
 Rouse thy big waves, and roll a torrent down  
 Of logs and stones, to whelm this man of might." <span
-id="fr_292"></span>[2](#fn_292)
+id="fr_292"></span>[2](#fn_292.md)
 
 We reach Hissarlik and ascend it to survey a maze of ruins. The fields
 around us were tilled and irrigated aforetime, when there were watchmen
@@ -642,7 +642,7 @@ To thunder-bearer Jove (Zeus) . . .
                          When, at length,  
 All had libation made, and were sufficed,  
 Departing to his house, each sought repose. <span
-id="fr_293"></span>[1](#fn_293)
+id="fr_293"></span>[1](#fn_293.md)
 
 Food and drinking vessels may have been dedicated to deities as well as
 the potter's wheel, which, as has been indicated, was credited to the
@@ -707,7 +707,7 @@ eyebrows and eye symbols. As the latter appear on standing-stones of the
 Marne and Gard valleys in France, and on early Bronze Age vessels in
 Spain, it may be that the chalk drums are interesting survivals of
 racial or cultural influence which reached these islands across the
-English Channel by way of Spain. <span id="fr_294"></span>[1](#fn_294)
+English Channel by way of Spain. <span id="fr_294"></span>[1](#fn_294.md)
 
 The second stratum of Troy is remarkable for its treasure hoards.
 Schliemann found no fewer than seventeen of these. The most famous is
@@ -786,7 +786,7 @@ a natural harbour much frequented by the earliest mariners.
 The hoard included gold diadems, rings, pendants, hairpins, and fine
 chains, "as beautifully wrought", Sir Arthur Evans has remarked, "as the
 best Alexandrian fabrics of the beginning of our era". <span
-id="fr_295"></span>[1](#fn_295) There were no spiral designs as at Troy,
+id="fr_295"></span>[1](#fn_295.md) There were no spiral designs as at Troy,
 but wonderful artificial leaves and flowers. Of special interest are the
 gold bands "with engraved repoussé eyes for the protective blind-folding
 of the dead". These, Sir Arthur suggests, were "the distant
@@ -801,7 +801,7 @@ were of exquisite workmanship.
 
 GROUP OF JEWELS FROM THE HOARD DISCOVERED IN THE ISLAND OF MOCHLOS
 
-(See page [238](#page_238))
+(See page [238](#page_238).md)
 
  
 
@@ -826,7 +826,7 @@ writes Professor Breasted, "almost nothing has survived, but the reliefs
 in the tomb chapels often depict the goldsmith at his work) and his
 descendants in the Middle Kingdom have left works which show that the
 taste and cunning of the first dynasty had developed without cessation
-in the Old Kingdom." <span id="fr_296"></span>[1](#fn_296) The Cretan
+in the Old Kingdom." <span id="fr_296"></span>[1](#fn_296.md) The Cretan
 ornaments have distinct local characteristics. Like the painters and
 potters, the goldsmiths showed a distinct feeling for nature, as in
 their leaf and flower designs; one notable ornament is the Cretan
@@ -852,14 +852,14 @@ with geometric ornamentation. Sir Arthur Evans discovered several silver
 bowls of the Middle Minoan Age at Knossos. Among the finds of the
 American archæologists at Gournia is a shapely silver cup with handles,
 from a house tomb, which recalls Homer's reference to "a silver cup, the
-work of the Sidonians". <span id="fr_297"></span>[1](#fn_297) It is,
+work of the Sidonians". <span id="fr_297"></span>[1](#fn_297.md) It is,
 however, of much greater antiquity than anything which can be credited
 to the Phœnicians. Perhaps it was won by the individual in whose grave
 it lay for displaying skill as a boxer. A double silver cup was awarded
 to the Homeric athlete Epeius, who "knocked out" Euryalus at the funeral
 games that followed the burning of Patroclos. <span
-id="fr_298"></span>[2](#fn_298) Joseph, <span
-id="fr_299"></span>[3](#fn_299) who was so greatly honoured by the
+id="fr_298"></span>[2](#fn_298.md) Joseph, <span
+id="fr_299"></span>[3](#fn_299.md) who was so greatly honoured by the
 Pharaoh, was the possessor of a silver cup, and must therefore have been
 wealthy as well as influential.
 
@@ -878,7 +878,7 @@ island mariners at primitive commercial centres at or near Miletus,
 Ephesus, or Pitane. But of this there is no direct proof. The remarkable
 fact has to be given recognition in this connection that no traces of
 early Ægean trade have been found at any of these points. <span
-id="fr_300"></span>[1](#fn_300) Even the islands of Samos, Chios, and
+id="fr_300"></span>[1](#fn_300.md) Even the islands of Samos, Chios, and
 Mitylene have failed to yield any indications of commercial connections
 with Crete and the Cyclades during the Early Bronze Age. "Except for
 their north-western corner", writes Mr. Hogarth, "the Asiatic coasts of
@@ -935,7 +935,7 @@ Mysia. The vases of the latter site, where there is a cemetery of the
 earliest Bronze Age, show close analogies with Cypriote forms, and
 suggest that the earliest migrants from Europe spread sporadically far
 down through the peninsula to the Levant." <span
-id="fr_301"></span>[1](#fn_301)
+id="fr_301"></span>[1](#fn_301.md)
 
 Like Anatolia, the Danubian area was a melting-pot of races. In addition
 to the Armenoids of Hatti type who invariably clung to an upland
@@ -972,14 +972,14 @@ generally that these jade artifacts were imported into Europe from the
 borders of China, and Professor Fischer expressed the wish "that before
 the end of his life the fortune might be allotted to him of finding out
 what people brought them to Europe". <span
-id="fr_302"></span>[1](#fn_302) Professor Max Müller believed that the
+id="fr_302"></span>[1](#fn_302.md) Professor Max Müller believed that the
 jade-carrying immigrants were the Aryans. "If", he wrote, "the Aryan
 settlers could carry with them into Europe so ponderous a tool as their
 language, without chipping or clipping a single facet, there is nothing
 so very surprising in their having carried along, and carefully
 preserved from generation to generation, so handy and so valuable an
 instrument as a scraper or a knife, made of a substance which is *aere
-perennius*." <span id="fr_303"></span>[2](#fn_303)
+perennius*." <span id="fr_303"></span>[2](#fn_303.md)
 
 It is not now believed, however, that all the jade objects found in
 Europe came from "a common far-distant home in the Kuen Luen Mountains".
@@ -1018,7 +1018,7 @@ appears to have penetrated Thrace. Evidence has been forthcoming that
 two main trade-routes crossed Germany, one from the head of the
 Adriatic, and the other from the lower Danube valley. It has been
 suggested that some of the amber found in Crete came down these trade
-routes from the Baltic. <span id="fr_304"></span>[1](#fn_304) France was
+routes from the Baltic. <span id="fr_304"></span>[1](#fn_304.md) France was
 similarly crossed by the Rhone valley trade-route, down which, in time,
 tin from Cornwall was carried. That the Cretans were the earliest
 seafarers to come into direct touch with these routes is suggested by
@@ -1046,17 +1046,17 @@ suppose that the pre-Dynastic Egyptians had relations with the west
 which enabled them to procure cassiterite, which when mixed with copper
 rendered it harder. . . . We hope", he adds, "that new discoveries may
 throw light on the relations of Egypt with England." <span
-id="fr_305"></span>[1](#fn_305)
+id="fr_305"></span>[1](#fn_305.md)
 
 There can be little doubt that the Cretan mariners sailed westward as
 far as the coast of Spain, although the precise period at which they
 first undertook voyages in this direction may remain uncertain. Spain
 could supply silver, copper, and other metals. The brothers Siret <span
-id="fr_306"></span>[2](#fn_306) are of opinion that this country was the
+id="fr_306"></span>[2](#fn_306.md) are of opinion that this country was the
 source of the earliest supplies of silver, the metal having been taken
 from the silver-bearing veins before the discovery was made how to
 extract it from lead as described by Pliny. <span
-id="fr_307"></span>[3](#fn_307)
+id="fr_307"></span>[3](#fn_307.md)
 
 <span id="page_247">p. 247</span>
 
@@ -1064,7 +1064,7 @@ id="fr_307"></span>[3](#fn_307)
 view that the silver articles found in Crete were made from silver
 carried from Spain by the early mariners who sailed westward to fetch
 tin from the Cassiterides Islands. He makes no reference to the Cilician
-mines. <span id="fr_308"></span>[1](#fn_308)
+mines. <span id="fr_308"></span>[1](#fn_308.md)
 
 It is difficult to fix the movements of the early traders in
 chronological order. We cannot therefore ascertain from the
@@ -1104,9 +1104,9 @@ have been introduced along the trade-routes.
 
 "The developed spiral", writes Mr. Hall, "appears suddenly in Egyptian
 art on seals and (rarely) in painting, at the beginning of the Twelfth
-Dynasty, <span id="fr_309"></span>[1](#fn_309) or shortly before," that
+Dynasty, <span id="fr_309"></span>[1](#fn_309.md) or shortly before," that
 is, "at the end of the Third Early Minoan, or beginning of the First
-Middle Minoan Period in Crete." <span id="fr_310"></span>[2](#fn_310) It
+Middle Minoan Period in Crete." <span id="fr_310"></span>[2](#fn_310.md) It
 appears to have been introduced into Egypt from Crete, for it occurs on
 objects of Early Minoan II and III date. There are spirals on the Trojan
 gold pins of "Priam's treasure". Mr. Hall favours the view of Much, the
@@ -1117,7 +1117,7 @@ Crete transferred to pottery and to the designs of button seals, and as
 a seal design came to Egypt, where it was promptly adopted as the
 characteristic decoration of the new form of seal that had as suddenly
 become popular in the Nile land, the scarab". <span
-id="fr_311"></span>[3](#fn_311)
+id="fr_311"></span>[3](#fn_311.md)
 
 The spiral ornament travelled along the trade-routes through Europe.
 Rings made of silver wire twisted in a spiral have been found by the
@@ -1181,7 +1181,7 @@ came at length to Carystus. The Carystians took them
 <span id="page_250">p. 250</span>
 
 over to Tenos, without stopping at Andros; and the Tenians brought them
-finally to Delos." <span id="fr_312"></span>[1](#fn_312)
+finally to Delos." <span id="fr_312"></span>[1](#fn_312.md)
 
 Reference has been made to the engraving of a ship on a ring from the
 Mochlos hoard. It is shown sailing from the shrine of the
@@ -1194,7 +1194,7 @@ extend over a couple of months.
 Other seal engravings show vessels with one, two, or even three masts.
 Some have complex riggings and well-braced yards. A seal from Mirabello
 shows a one-masted vessel with a square sail. <span
-id="fr_313"></span>[2](#fn_313) An ivory model of a ship found by Sir
+id="fr_313"></span>[2](#fn_313.md) An ivory model of a ship found by Sir
 Arthur Evans in a tomb at Knossos has a hatch over its hold to protect
 the cargo. Terra-cotta and alabaster models were discovered at Aghia
 Triadha, near Phæstos, by the Italian archæologists. A terra-cotta model
@@ -1203,7 +1203,7 @@ from Palaikastro belongs to the Early Minoan Age.
 "The modern vessels of the Cretan fishermen, and especially those of the
 fishers for sponges from the Isle of Kalimnos, differ little", writes
 Angelo Mosso, "from the ships of antiquity." <span
-id="fr_314"></span>[3](#fn_314) Occasionally Maltese boats are found to
+id="fr_314"></span>[3](#fn_314.md) Occasionally Maltese boats are found to
 have the Horus eye on the prow, like the ancient Egyptian boats of the
 dead found in tombs. Beside the eye a flag is sometimes painted. There
 were ensigns on the prows of pre-Dynastic Nilotic vessels. Neolithic
@@ -1227,90 +1227,90 @@ eastward towards Cyprus and the Syrian coast.
 
 ### Footnotes
 
-<span id="fn_271"></span>[216:1](moc15.htm#fr_271) *Crete, the
+<span id="fn_271"></span>[216:1](moc15.htm#fr_271.md) *Crete, the
 Forerunner of Greece*, p. 19.
 
-<span id="fn_272"></span>[219:1](moc15.htm#fr_272) *Dawn of
+<span id="fn_272"></span>[219:1](moc15.htm#fr_272.md) *Dawn of
 Mediterranean Civilization*, pp. 299 *et seq*.
 
-<span id="fn_273"></span>[219:2](moc15.htm#fr_273) Those who favour the
+<span id="fn_273"></span>[219:2](moc15.htm#fr_273.md) Those who favour the
 Cypriote origin of copper-working urge that the earliest Egyptian copper
 artifacts are copies of those of Cyprus. It can be shown, on the other
 hand, that some of the Egyptian copper artifacts are copies of Neolithic
 forms.
 
-<span id="fn_274"></span>[220:1](moc15.htm#fr_274) Schliemann was wrong
+<span id="fn_274"></span>[220:1](moc15.htm#fr_274.md) Schliemann was wrong
 in asserting that Hissarlik (Troy) had a Copper Age.
 
-<span id="fn_275"></span>[220:2](moc15.htm#fr_275) *Gournia*, Mrs. Hawes
+<span id="fn_275"></span>[220:2](moc15.htm#fr_275.md) *Gournia*, Mrs. Hawes
 and Others, p. 33. (American Exploration Society, Philadelphia, 1908.)
 
-<span id="fn_276"></span>[222:1](moc15.htm#fr_276) *The Ancient
+<span id="fn_276"></span>[222:1](moc15.htm#fr_276.md) *The Ancient
 Egyptians*, pp. 3 et seq.
 
-<span id="fn_277"></span>[222:2](moc15.htm#fr_277) *Prehistoric
+<span id="fn_277"></span>[222:2](moc15.htm#fr_277.md) *Prehistoric
 Cemeteries of Naga-ed-Der*, Vol. I, p. 134.
 
-<span id="fn_278"></span>[222:3](moc15.htm#fr_278) *Science Progress*,
+<span id="fn_278"></span>[222:3](moc15.htm#fr_278.md) *Science Progress*,
 1896, p. 347.
 
-<span id="fn_279"></span>[222:4](moc15.htm#fr_279) *The Ancient History
+<span id="fn_279"></span>[222:4](moc15.htm#fr_279.md) *The Ancient History
 of the Near East*, pp. 89 *et seq*. (1913.)
 
-<span id="fn_280"></span>[222:5](moc15.htm#fr_280) *Ibid*., p. 33.
+<span id="fn_280"></span>[222:5](moc15.htm#fr_280.md) *Ibid*., p. 33.
 
-<span id="fn_281"></span>[223:1](moc15.htm#fr_281) *Dawn of
+<span id="fn_281"></span>[223:1](moc15.htm#fr_281.md) *Dawn of
 Mediterranean Civilization*, p. 57.
 
-<span id="fn_282"></span>[223:2](moc15.htm#fr_282) *Ibid*., p. 59.
+<span id="fn_282"></span>[223:2](moc15.htm#fr_282.md) *Ibid*., p. 59.
 
-<span id="fn_283"></span>[223:3](moc15.htm#fr_283) *Numbers*, xxxi, 22.
+<span id="fn_283"></span>[223:3](moc15.htm#fr_283.md) *Numbers*, xxxi, 22.
 
-<span id="fn_284"></span>[224:1](moc15.htm#fr_284) *I Kings*, v, 1-12,
+<span id="fn_284"></span>[224:1](moc15.htm#fr_284.md) *I Kings*, v, 1-12,
 and vii, 14. *et seq*.
 
-<span id="fn_285"></span>[225:1](moc15.htm#fr_285) *The Dawn of
+<span id="fn_285"></span>[225:1](moc15.htm#fr_285.md) *The Dawn of
 Mediterranean Civilization*, pp. 289-91.
 
-<span id="fn_286"></span>[225:2](moc15.htm#fr_286) *Crete the Forerunner
+<span id="fn_286"></span>[225:2](moc15.htm#fr_286.md) *Crete the Forerunner
 of Greece*, pp. 289-91.
 
-<span id="fn_287"></span>[225:3](moc15.htm#fr_287) *C.* 2800 B.C.
+<span id="fn_287"></span>[225:3](moc15.htm#fr_287.md) *C.* 2800 B.C.
 
-<span id="fn_288"></span>[226:1](moc15.htm#fr_288) *The Dawn of
+<span id="fn_288"></span>[226:1](moc15.htm#fr_288.md) *The Dawn of
 Mediterranean Civilization*, pp. 62-3.
 
-<span id="fn_289"></span>[227:1](moc15.htm#fr_289) Mrs. Hawes refers in
+<span id="fn_289"></span>[227:1](moc15.htm#fr_289.md) Mrs. Hawes refers in
 this connection to E. Rössler, *Zeits. f. Ethnol*., XXXVII, 1905, pp.
 114 *et seq*.
 
-<span id="fn_290"></span>[227:2](moc15.htm#fr_290) *Gournia*, p. 33.
+<span id="fn_290"></span>[227:2](moc15.htm#fr_290.md) *Gournia*, p. 33.
 
-<span id="fn_291"></span>[230:1](moc15.htm#fr_291) *Scamander*.
+<span id="fn_291"></span>[230:1](moc15.htm#fr_291.md) *Scamander*.
 
-<span id="fn_292"></span>[230:2](moc15.htm#fr_292) *Iliad*, Book XXI
+<span id="fn_292"></span>[230:2](moc15.htm#fr_292.md) *Iliad*, Book XXI
 (Derby's translation), 340 *et seq*.
 
-<span id="fn_293"></span>[234:1](moc15.htm#fr_293) Book VII (Cowper's
+<span id="fn_293"></span>[234:1](moc15.htm#fr_293.md) Book VII (Cowper's
 translation).
 
-<span id="fn_294"></span>[236:1](moc15.htm#fr_294) *British Museum
+<span id="fn_294"></span>[236:1](moc15.htm#fr_294.md) *British Museum
 Bronze Age Guide*, pp. 89-91.
 
-<span id="fn_295"></span>[238:1](moc15.htm#fr_295) *Times*, 27th August,
+<span id="fn_295"></span>[238:1](moc15.htm#fr_295.md) *Times*, 27th August,
 1908.
 
-<span id="fn_296"></span>[239:1](moc15.htm#fr_296) *A History Of Egypt*.
+<span id="fn_296"></span>[239:1](moc15.htm#fr_296.md) *A History Of Egypt*.
 p. 94
 
-<span id="fn_297"></span>[240:1](moc15.htm#fr_297) *Odyssey*, IV, 618.
+<span id="fn_297"></span>[240:1](moc15.htm#fr_297.md) *Odyssey*, IV, 618.
 
-<span id="fn_298"></span>[240:2](moc15.htm#fr_298) *Iliad*, XXIII, 741
+<span id="fn_298"></span>[240:2](moc15.htm#fr_298.md) *Iliad*, XXIII, 741
 et seq.
 
-<span id="fn_299"></span>[240:3](moc15.htm#fr_299) *Genesis*, xliv. 2.
+<span id="fn_299"></span>[240:3](moc15.htm#fr_299.md) *Genesis*, xliv. 2.
 
-<span id="fn_300"></span>[241:1](moc15.htm#fr_300) Mrs. Hawes suggests
+<span id="fn_300"></span>[241:1](moc15.htm#fr_300.md) Mrs. Hawes suggests
 that "the objects given in exchange by the Cretans for European products
 were of as inferior and ephemeral character as those with which modern
 traders dupe the native; hence the phenomenon noted by Burrows (*The
@@ -1321,46 +1321,46 @@ Pharaoh Meneptah of the XIX Dynasty sent shiploads of grain to the
 Hittites in time of famine (*A History of Egypt*, Professor Breasted, p.
 465).
 
-<span id="fn_301"></span>[243:1](moc15.htm#fr_301) *Ionia and the East*,
+<span id="fn_301"></span>[243:1](moc15.htm#fr_301.md) *Ionia and the East*,
 p. 58.
 
-<span id="fn_302"></span>[244:1](moc15.htm#fr_302) Schliemann's *Ilios*,
+<span id="fn_302"></span>[244:1](moc15.htm#fr_302.md) Schliemann's *Ilios*,
 p. 242.
 
-<span id="fn_303"></span>[244:2](moc15.htm#fr_303) *Letter to Times*,
+<span id="fn_303"></span>[244:2](moc15.htm#fr_303.md) *Letter to Times*,
 Dec. 18th, 1879.
 
-<span id="fn_304"></span>[245:1](moc15.htm#fr_304) Much of the Cretan
+<span id="fn_304"></span>[245:1](moc15.htm#fr_304.md) Much of the Cretan
 amber is evidently from the Adriatic.
 
-<span id="fn_305"></span>[246:1](moc15.htm#fr_305) *The Dawn of
+<span id="fn_305"></span>[246:1](moc15.htm#fr_305.md) *The Dawn of
 Mediterranean Civilization*, p. 62.
 
-<span id="fn_306"></span>[246:2](moc15.htm#fr_306) *Les premiers ages du
+<span id="fn_306"></span>[246:2](moc15.htm#fr_306.md) *Les premiers ages du
 metal*, H. & L. Siret, p. 227.
 
-<span id="fn_307"></span>[246:3](moc15.htm#fr_307) *Nat. History*,
+<span id="fn_307"></span>[246:3](moc15.htm#fr_307.md) *Nat. History*,
 XXXIII, 31.
 
-<span id="fn_308"></span>[247:1](moc15.htm#fr_308) *Dawn of
+<span id="fn_308"></span>[247:1](moc15.htm#fr_308.md) *Dawn of
 Mediterranean Civilization*, pp. 372-3.
 
-<span id="fn_309"></span>[248:1](moc15.htm#fr_309) *C*. 2000 B.C.
+<span id="fn_309"></span>[248:1](moc15.htm#fr_309.md) *C*. 2000 B.C.
 
-<span id="fn_310"></span>[248:2](moc15.htm#fr_310) Or Middle Minoan II,
+<span id="fn_310"></span>[248:2](moc15.htm#fr_310.md) Or Middle Minoan II,
 according to Hawes.
 
-<span id="fn_311"></span>[248:3](moc15.htm#fr_311) The Journal of
+<span id="fn_311"></span>[248:3](moc15.htm#fr_311.md) The Journal of
 Egyptian Archæology, Part II, pp. 115, 116.
 
-<span id="fn_312"></span>[250:1](moc15.htm#fr_312) *Herodotus*, IV, 33.
+<span id="fn_312"></span>[250:1](moc15.htm#fr_312.md) *Herodotus*, IV, 33.
 
-<span id="fn_313"></span>[250:2](moc15.htm#fr_313) Probably "white sails
+<span id="fn_313"></span>[250:2](moc15.htm#fr_313.md) Probably "white sails
 and twisted ropes of ox-hide" (Odyssey, II 425-6).
 
-<span id="fn_314"></span>[250:3](moc15.htm#fr_314) *Dawn of
+<span id="fn_314"></span>[250:3](moc15.htm#fr_314.md) *Dawn of
 Mediterranean Civilization*, p. 280.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Life in the Little Towns](moc16)
+[Next: Chapter XI. Life in the Little Towns](moc16.md)

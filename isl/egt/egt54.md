@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt53)  [Next](egt55) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt53)  [Next](egt55.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ subsistence.
 
 ------------------------------------------------------------------------
 
-[Next: ON DREAMS OF VESSELS AND GARMENTS.](egt55)
+[Next: ON DREAMS OF VESSELS AND GARMENTS.](egt55.md)

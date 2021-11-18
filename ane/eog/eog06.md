@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog05)  [Next](eog07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog05)  [Next](eog07.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ connected the heroes have reached the Gate of the Forest*).
 (*Enkidu addresses the Gate*).
 
 <span class="margnote">36.</span> <span
-id="fr_68"></span>[1](#fn_62)Enkidu lifted \[his eyes\] . . . and spake
+id="fr_68"></span>[1](#fn_62.md)Enkidu lifted \[his eyes\] . . . and spake
 with the Gate as \[’t were human(?)\]:  
 "O thou Gate of the Forest without understanding(? . . .  
 Sentience which thou hast not, . . . .
@@ -35,7 +35,7 @@ thy \[wonderful\] timber,
 (O but) thy wood hath no peer (in the country) . . .  
 Six *gar* thy height, and two *gar* thy breadth . . .  
 <span class="margnote">45.</span>(Sooth, but) thy stanchion (?), thy
-socket (?), <span id="fr_69"></span>[1](#fn_63) thy pivot (?), thy lock
+socket (?), <span id="fr_69"></span>[1](#fn_63) thy pivot (?.md), thy lock
 (?), and thy shutter (?),  
 \[(All of them) must have been fashion’d for thee\] in the City of
 Nippur!  
@@ -76,9 +76,9 @@ Cried to the Guard of the Forest: "Up (?) . . . !
 
 "Trouble (?) \[I foresee(?)\] wherever I go . . . .  
 <span class="margnote">5.</span>O my friend, I have \[seen\] <span
-id="fr_70"></span>[2](#fn_64) a dream which un- . . . ."  
+id="fr_70"></span>[2](#fn_64.md) a dream which un- . . . ."  
 The day of the dream he had seen fulfilled . . . . <span
-id="fr_71"></span>[3](#fn_65)
+id="fr_71"></span>[3](#fn_65.md)
 
 <span id="page_28">p. 28</span>
 
@@ -134,16 +134,16 @@ stopping.
 
 ### Footnotes
 
-<span id="fn_62"></span>[26:1](eog06.htm#fr_68) Assyrian Version.
+<span id="fn_62"></span>[26:1](eog06.htm#fr_68.md) Assyrian Version.
 
-<span id="fn_63"></span>[27:1](eog06.htm#fr_69) Text has "and".
+<span id="fn_63"></span>[27:1](eog06.htm#fr_69.md) Text has "and".
 
-<span id="fn_64"></span>[27:2](eog06.htm#fr_70) Or "the dream will be
+<span id="fn_64"></span>[27:2](eog06.htm#fr_70.md) Or "the dream will be
 \[fulfill’d\]."
 
-<span id="fn_65"></span>[27:3](eog06.htm#fr_71) One text adds a
+<span id="fn_65"></span>[27:3](eog06.htm#fr_71.md) One text adds a
 horizontal line here.
 
 ------------------------------------------------------------------------
 
-[Next: The Fifth Tablet: Of the Fight with Humbaba](eog07)
+[Next: The Fifth Tablet: Of the Fight with Humbaba](eog07.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](grp03)  [Next](dav00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](grp03)  [Next](dav00.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ until he died, and his age when he died was ninety five.
 
 ------------------------------------------------------------------------
 
-[Next: David (PUH)](dav00)
+[Next: David (PUH)](dav00.md)

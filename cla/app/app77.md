@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app76)  [Next](app78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app76)  [Next](app78.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ hardihood to say that nothing whatever exists*).
 
 2\. (<span class="smallcaps">Olympiodorus</span>: *Gorgias wrote a
 treatise 'On Nature', not without skill, in the* 84*th Olympiad*). <span
-id="fr_104"></span>[1](#fn_97)
+id="fr_104"></span>[1](#fn_97.md)
 
 3\. (<span class="smallcaps">Sextus</span>, from '*On Being*' or '*On
 Nature*'):
@@ -221,7 +221,7 @@ of Hellas!
 
 8\. Our struggle demands two virtues, courage and wisdom: to courage
 belongs endurance of danger, and to wisdom, the knowledge of (*the right
-way to tackle it*). <span id="fr_105"></span>[1](#fn_98)
+way to tackle it*). <span id="fr_105"></span>[1](#fn_98.md)
 
 <span id="page_131">p. 131</span>
 
@@ -366,7 +366,7 @@ speech as an Encomium on Helen and an amusement for myself.
 <span id="page_134">p. 134</span>
 
 11a. (*The 'Defence of Palamêdês': summary*). <span
-id="fr_106"></span>[1](#fn_99)
+id="fr_106"></span>[1](#fn_99.md)
 
 \(1\) This trial is concerned not with death, which comes to all, but
 with honour: whether I am to die justly or unjustly, under a load of
@@ -634,15 +634,15 @@ the water-clock.
 
 ### Footnotes
 
-<span id="fn_97"></span>[128:1](app77.htm#fr_104) 444-441 B.C.
+<span id="fn_97"></span>[128:1](app77.htm#fr_104.md) 444-441 B.C.
 
-<span id="fn_98"></span>[130:1](app77.htm#fr_105) πλίγμα 'hold in
+<span id="fn_98"></span>[130:1](app77.htm#fr_105.md) πλίγμα 'hold in
 wrestling', emendation of Diels from MSS. αἴνιγμα, 'riddle'.
 
-<span id="fn_99"></span>[134:1](app77.htm#fr_106) This speech has at
+<span id="fn_99"></span>[134:1](app77.htm#fr_106.md) This speech has at
 first sight little philosophical interest; but its influence on forensic
 oratory, and therefore doubtless on education, cannot be over-estimated.
 
 ------------------------------------------------------------------------
 
-[Next: 83. Lycophrôn 'The Sophist'](app78)
+[Next: 83. Lycophrôn 'The Sophist'](app78.md)

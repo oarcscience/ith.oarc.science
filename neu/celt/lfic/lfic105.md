@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic104)  [Next](lfic106) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic104)  [Next](lfic106.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ and the remainder of the voyage was pleasantly effected.
 
 ------------------------------------------------------------------------
 
-[Next: St Brendain's Voyage](lfic106)
+[Next: St Brendain's Voyage](lfic106.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg08)  [Next](csg10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg08)  [Next](csg10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ magnetism?'
 
 "'It was the man who has just left me, who in a fatherly way has guided
 my ideas in this channel. He is the celebrated astronomer Hell." <span
-id="fr_72"></span>[1](#fn_72)
+id="fr_72"></span>[1](#fn_72.md)
 
 "'I know it.'
 
@@ -76,11 +76,11 @@ series of permutations.
 "The conference lasted three hours. . . .
 
 "They arranged a further meeting in Paris. Then they parted." <span
-id="fr_73"></span>[2](#fn_73)
+id="fr_73"></span>[2](#fn_73.md)
 
 That St. Germain and Mesmer were connected in the mystical work of the
 last century we know from other sources, <span
-id="fr_74"></span>[3](#fn_74) and that they again met and worked
+id="fr_74"></span>[3](#fn_74.md) and that they again met and worked
 together in Paris, is verified by
 
 <span id="page_140">p. 140</span>
@@ -231,7 +231,7 @@ June 15th, 1843.
 
 "Further, I make this remark, that these events have not been hitherto
 reported. So herewith do I take my leave." <span
-id="fr_75"></span>[1](#fn_75)
+id="fr_75"></span>[1](#fn_75.md)
 
 The curious character of Franz Gräffer's sketches is striking. From
 other sources it can be learned that both of these Gräffers were
@@ -244,7 +244,7 @@ is given of the interview here recorded, we can deduce it approximately
 from another article in the same volume, where it is said: "St. Germain
 was in the year ’88, or ’89, or ’90, in Vienna, where we had the
 never-to-be-forgotten honour of meeting him." <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 That the Comte de St. Germain was also a Rosicrucian there is no doubt.
 Constantly, in the Masonic and Mystic literature of the last century the
@@ -256,7 +256,7 @@ of its Heads were entrusted--the same message from the one Great Lodge
 which guides the spiritual evolution of the human race. Traces of this
 teaching, as given by our mystic, are clearly found, and are quoted by
 Madame Blavatsky, who mentions a "Cypher Rosicrucian Manuscript" <span
-id="fr_77"></span>[2](#fn_77) as being in his possession. She emphasises
+id="fr_77"></span>[2](#fn_77.md) as being in his possession. She emphasises
 also the entirely Eastern tone of the views held by M. de St. Germain.
 
 The fact that M. de St. Germain possessed this rare work shows the
@@ -264,7 +264,7 @@ position held by him. Turning
 
 <span id="page_147">p. 147</span>
 
-again to *The Secret Doctrine*, <span id="fr_78"></span>[1](#fn_78) we
+again to *The Secret Doctrine*, <span id="fr_78"></span>[1](#fn_78.md) we
 find his teaching on "Numbers" and their values, and this important
 passage links him again with the Pythagorean School, whose tenets were
 purely Eastern. Such passages are of deep interest to the student, for
@@ -292,13 +292,13 @@ there Lord Cavendish and the Comte de St. Germain; they had come from
 Lausanne, and were travelling to Cassel and Berlin.
 
 We had made the acquaintance of these gentlemen in Lausanne at the house
-of Broglio." <span id="fr_79"></span>[1](#fn_79)
+of Broglio." <span id="fr_79"></span>[1](#fn_79.md)
 
 This is a most interesting statement, for it shows also the continued
 intercourse of M. de St. Germain with the Bentinck family, with whom he
 had so much intercourse in 1760 at the Hague.
 
-A Masonic friend <span id="fr_80"></span>[2](#fn_80) sends me the
+A Masonic friend <span id="fr_80"></span>[2](#fn_80.md) sends me the
 following information and extracts of letters, drawn from Masonic
 sources in the Royal Library in Wolfenbüttel. He says:--
 
@@ -383,14 +383,14 @@ Sepulcro,
 to England. . . . M. de St. Germain chiefly on my account has come to
 Dresden. If he does not disguise himself in an extraordinary manner,
 then he will not suit us, altho’ he is a very wise man." <span
-id="fr_81"></span>[1](#fn_81)
+id="fr_81"></span>[1](#fn_81.md)
 
 Evidently a visit was expected which had to be disguised; this gives a
 clue to the reason why M. de St. Germain was travelling in Leipzig and
 Dresden under that name of Comte Weldon. According to Cadet de
 Gassicourt, he was travelling member for the "Templars," going from
 Lodge to Lodge to establish communication between them. M. de St.
-Germain is said <span id="fr_82"></span>[2](#fn_82) to have done this
+Germain is said <span id="fr_82"></span>[2](#fn_82.md) to have done this
 work for the Paris Chapter of the "Knights Templar." Investigation
 proves him to have been connected with the "Asiatische Brüder," or the
 "Knights of St. John the Evangelist from the East in Europe," also with
@@ -414,7 +414,7 @@ Observance'--the regeneration of the Order of Freemasons in the
 aristocratic mind--for which you also so earnestly interest yourself."
 
 A summarised account from the "Gartenlaube " <span
-id="fr_83"></span>[1](#fn_83) fits in here; the letters are said to be
+id="fr_83"></span>[1](#fn_83.md) fits in here; the letters are said to be
 authentic; and from internal evidence there is little doubt about it;
 for the information has to do with the Masonic work on which the Comte
 de St. Germain was engaged:--
@@ -505,7 +505,7 @@ later on.
 "'In the present moment I have promised to visit Hanau, to meet the
 Landgrave Karl at his brother's and work out with him the system of the
 "Strict Observance"--the regeneration of the order of freemasons in an
-[aristocratic](errata.htm#2) sense--which interests you too so much.
+[aristocratic](errata.htm#2.md) sense--which interests you too so much.
 
 "'The Landgrave is to me a dear and sympathetic protector, and if not a
 prince regnant, his position in Schleswig attached to Danish service, is
@@ -599,7 +599,7 @@ gold kitchen where the eccentric fraternity endeavoured to make gold. It
 is certain that the Comte de St. Germain has been in Vienna in the year
 1735, and also later. The arrival of the Count (who enjoyed at that time
 a great prestige) at once created a great sensation in the initiated
-circles." <span id="fr_84"></span>[1](#fn_84)
+circles." <span id="fr_84"></span>[1](#fn_84.md)
 
 The following is a list of some of the societies, more or less connected
 with Masonry, which had "Unknown Heads." Translated they are as follows:
@@ -611,7 +611,7 @@ The Canons of the Holy Temple of Jerusalem.
 The Beneficent Knights of the Holy City.
 
 The Clergy of Nicosia in the Island of Cyprus. <span
-id="fr_85"></span>[2](#fn_85)
+id="fr_85"></span>[2](#fn_85.md)
 
 The Clergy of Auvergne.
 
@@ -653,18 +653,18 @@ burden in the last century with gratitude profound.
 
 ### Footnotes
 
-<span id="fn_72"></span>[139:1](csg09.htm#fr_72) Maximilian Hell
+<span id="fn_72"></span>[139:1](csg09.htm#fr_72.md) Maximilian Hell
 (Imperial Court Astronomer). To this highly respected scholar are due
 thanks for having given the impulse to take up magnetism scientifically
 and practically. See *Oesterr. National Encyclopädie*, art. "Mesmer."
 
-<span id="fn_73"></span>[139:2](csg09.htm#fr_73) *Kleine Wiener
+<span id="fn_73"></span>[139:2](csg09.htm#fr_73.md) *Kleine Wiener
 Memoiren*, i., 81. Wien, 1846.
 
-<span id="fn_74"></span>[139:3](csg09.htm#fr_74) H. P. BLAVATSKY,
+<span id="fn_74"></span>[139:3](csg09.htm#fr_74.md) H. P. BLAVATSKY,
 *Theos. Gloss.*, p. 214. London, 1892.
 
-<span id="fn_75"></span>[145:1](csg09.htm#fr_75) *Op. cit.*, ii., pp.
+<span id="fn_75"></span>[145:1](csg09.htm#fr_75.md) *Op. cit.*, ii., pp.
 136-162. It is to be regretted that Gräffer's florid account opens the
 door to a slight suspicion of charlatanry in the mind of the modern
 student of occultism. It is probably, however, his way of looking at the
@@ -672,37 +672,37 @@ matter which is at fault. A more experienced student would probably have
 described the interview far otherwise, although he might have testified
 as strongly to precisely the same facts.
 
-<span id="fn_76"></span>[146:1](csg09.htm#fr_76) *Op. cit.*, iii., p.
+<span id="fn_76"></span>[146:1](csg09.htm#fr_76.md) *Op. cit.*, iii., p.
 89.
 
-<span id="fn_77"></span>[146:2](csg09.htm#fr_77) The Secret Doctrine,
+<span id="fn_77"></span>[146:2](csg09.htm#fr_77.md) The Secret Doctrine,
 ii., p. 212, 3rd ed.
 
-<span id="fn_78"></span>[147:1](csg09.htm#fr_78) ii., pp. 616, 617.
+<span id="fn_78"></span>[147:1](csg09.htm#fr_78.md) ii., pp. 616, 617.
 
-<span id="fn_79"></span>[148:1](csg09.htm#fr_79) BJÖRNSTAHL, J. J.
+<span id="fn_79"></span>[148:1](csg09.htm#fr_79.md) BJÖRNSTAHL, J. J.
 *Reise in Europa in* 1774, vol. v., PP. 229, 237.
 
-<span id="fn_80"></span>[148:2](csg09.htm#fr_80) LANGVELD, L. A.--The
+<span id="fn_80"></span>[148:2](csg09.htm#fr_80.md) LANGVELD, L. A.--The
 Hague.
 
-<span id="fn_81"></span>[151:1](csg09.htm#fr_81) Der Signatstern, oder
+<span id="fn_81"></span>[151:1](csg09.htm#fr_81.md) Der Signatstern, oder
 die enthüllten sämmtlichen sieben Grade der mystischen Freimaurerei,
 iii., pt. s. Berlin, 1804.
 
-<span id="fn_82"></span>[151:2](csg09.htm#fr_82) CADET DE GASSICOURT,
+<span id="fn_82"></span>[151:2](csg09.htm#fr_82.md) CADET DE GASSICOURT,
 *Le Tombeau de Jacques de Molay*, p. 34. Paris, 1795.
 
-<span id="fn_83"></span>[152:1](csg09.htm#fr_83) *Brause Jahre Bilder*
+<span id="fn_83"></span>[152:1](csg09.htm#fr_83.md) *Brause Jahre Bilder*
 in Gartenlaube, 1884, n. 38, 39.
 
-<span id="fn_84"></span>[159:1](csg09.htm#fr_84) MAILLY, A. de--Der
+<span id="fn_84"></span>[159:1](csg09.htm#fr_84.md) MAILLY, A. de--Der
 Zirkel, March 1st, 1908.
 
-<span id="fn_85"></span>[159:2](csg09.htm#fr_85) This is the Society
+<span id="fn_85"></span>[159:2](csg09.htm#fr_85.md) This is the Society
 mentioned by the Minister Wurmb in the letter quoted.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix I. Documents Concerning the Apartment in
-Chambord...](csg10)
+Chambord...](csg10.md)

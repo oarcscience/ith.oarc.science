@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim30)  [Next](sim32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim30)  [Next](sim32.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ The homely man who went to the end of the world was Mud-turtle.
 
 ------------------------------------------------------------------------
 
-[Next: The Boy Who Learned the Songs of Birds](sim32)
+[Next: The Boy Who Learned the Songs of Birds](sim32.md)

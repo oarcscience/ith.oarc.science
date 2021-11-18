@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd18)  [Next](odd20) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd18)  [Next](odd20.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ flew away with it.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. The Valiant Chattee-Maker](odd20)
+[Next: XVI. The Valiant Chattee-Maker](odd20.md)

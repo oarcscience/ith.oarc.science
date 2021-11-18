@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate27.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Khepera. The text which refers to these reads:
  
 
 <span id="img_30200"></span> [![](tn/generic.jpg)  
-Click to view](img/30200.jpg)  
+Click to view](img/30200.jpg.md)  
 (*Left*) The Gate Tesert-Baiu. (*Right*) The doors of Sebi and Reri.
 
  
@@ -41,7 +41,7 @@ Click to view](img/30200.jpg)
  
 
 <span id="img_30300"></span> [![](tn/generic.jpg)  
-Click to view](img/30300.jpg)  
+Click to view](img/30300.jpg.md)  
 The Sun-god under the form of Khepera with his Disk, in his Boat,
 supported by Nu and received by Nut.
 

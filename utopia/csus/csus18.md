@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus17)  [Next](csus19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus17)  [Next](csus19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,13 +35,13 @@ same source. There are, however,
 <span id="img_21400"></span>
 
 [![A SHAKER SCHOOL.](tn/21400.jpg)  
-Click to enlarge](img/21400.jpg)  
+Click to enlarge](img/21400.jpg.md)  
 A SHAKER SCHOOL.  
 
 <span id="img_21401"></span>
 
 [![SHAKER MUSIC HALL.](tn/21401.jpg)  
-Click to enlarge](img/21401.jpg)  
+Click to enlarge](img/21401.jpg.md)  
 SHAKER MUSIC HALL.  
 
 <span id="page_215">p. 215</span>
@@ -323,7 +323,7 @@ lines:
   And not hunt the kitchen to find out the best.
 
   "We'll strictly observe what our good parents teach:  
-  Not pull the green apple, nor hog <span id="fr_22"></span>[\*](#fn_22)
+  Not pull the green apple, nor hog <span id="fr_22"></span>[\*](#fn_22.md)
 in the peach;  
   We'll starve the old glutton, and send him adrift;  
   Then like good Believers we'll eat in a gift."
@@ -1833,7 +1833,7 @@ laborers, not members, it employs:
 <span id="img_25600"></span>
 
 [![](tn/25600.jpg)  
-Click to enlarge](img/25600.jpg)
+Click to enlarge](img/25600.jpg.md)
 
 The returns of land include, for the most part, only the home farms; and
 several of the societies own considerable quantities of real estate in
@@ -1843,8 +1843,8 @@ distant states, of which I could get no precise returns.
 
 ### Footnotes
 
-<span id="fn_22"></span>[221:\*](csus18.htm#fr_22) To eat like a hog.
+<span id="fn_22"></span>[221:\*](csus18.htm#fr_22.md) To eat like a hog.
 
 ------------------------------------------------------------------------
 
-[Next: I.—Historical](csus19)
+[Next: I.—Historical](csus19.md)

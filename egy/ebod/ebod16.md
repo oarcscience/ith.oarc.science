@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod15)  [Next](ebod17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod15)  [Next](ebod17.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ boat; on the left stands Isis, and on the right Nephthys (Nos. 7857,
 
 ------------------------------------------------------------------------
 
-[Next: Plates V. and VI.](ebod17)
+[Next: Plates V. and VI.](ebod17.md)

@@ -8,7 +8,7 @@ titleh1: "The Dramas of Aeschylus"
 ---
 Aeschylus, called "the father of tragedy," was one of the three greatest
 tragic dramatists of the ancient world, along with
-[Euripides](../eurip/index) and [Sophocles](../soph/index). Born at
+[Euripides](../eurip/index) and [Sophocles](../soph/index.md). Born at
 Eleusis in 525 B.C.E. to a noble family, Aeschylus fought at Marathon
 and other battles of the Persian war. He introduced the concept of the
 dramatic trilogy (so he could also be called the "father of the
@@ -23,30 +23,30 @@ the Eumenides. He died in 456 B.C.E.
 
 ### THE ORESTEIA
 
-<span class="c_e"> <span class="c_t">[Agamemnon](agamem)</span>  
+<span class="c_e"> <span class="c_t">[Agamemnon](agamem.md)</span>  
 translated by <span class="c_a">Edmund Doidge Anderson Morshead</span>
 \[<span class="c_d">1881</span>\] </span>  
 <span class="c_e"> <span class="c_t">[The Choephori (Libation
-Bearers)](choeph)</span>  
+Bearers)](choeph.md)</span>  
 translated by <span class="c_a">Edmund Doidge Anderson Morshead</span>
 \[<span class="c_d">1881</span>\] </span>  
-<span class="c_t">[Eumenides](eumend)</span>  
+<span class="c_t">[Eumenides](eumend.md)</span>  
 translated by <span class="c_a">Edmund Doidge Anderson Morshead</span>
 \[<span class="c_d">1881</span>\]  
 
 ### Other Plays
 
-<span class="c_e"> <span class="c_t">[Prometheus Bound](promet)</span>  
+<span class="c_e"> <span class="c_t">[Prometheus Bound](promet.md)</span>  
 translated by <span class="c_a">Edmund Doidge Anderson Morshead</span>
 \[<span class="c_d">1881</span>\] </span>  
 <span class="c_e"> <span class="c_t">[The Seven Against
-Thebes](sevent)</span>  
+Thebes](sevent.md)</span>  
 translated by <span class="c_a">Edmund Doidge Anderson Morshead</span>
 \[<span class="c_d">1881</span>\] </span>  
-<span class="c_e"> <span class="c_t">[The Suppliants](suppli)</span>  
+<span class="c_e"> <span class="c_t">[The Suppliants](suppli.md)</span>  
 translated by <span class="c_a">Edmund Doidge Anderson Morshead</span>
 \[<span class="c_d">1881</span>\] </span>  
-<span class="c_e"> <span class="c_t">[The Persians](persia)</span>  
+<span class="c_e"> <span class="c_t">[The Persians](persia.md)</span>  
 translated by <span class="c_a">Robert Potter</span> \[<span
 class="c_d">1809</span>\] </span>  
 <span class="c_da"></span>

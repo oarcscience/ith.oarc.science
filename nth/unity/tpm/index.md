@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,26 +19,26 @@ Thought](../../index)  [Unity](../index) 
 
 ------------------------------------------------------------------------
 
-[Start Reading](tpm00)    [Page Index](pageidx)    [Text
-\[Zipped\]](tpmtxt.zip)
+[Start Reading](tpm00)    [Page Index](pageidx.md)    [Text
+\[Zipped\]](tpmtxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](tpm00)  
-[Introduction](tpm01)  
-[Contents](tpm02)  
-[Chapter 1](tpm03)  
-[Chapter 2](tpm04)  
-[Chapter 3](tpm05)  
-[Chapter 4](tpm06)  
-[Chapter 5](tpm07)  
-[Chapter 6](tpm08)  
-[Chapter 7](tpm09)  
-[Chapter 8](tpm10)  
-[Chapter 9](tpm11)  
-[Chapter 10](tpm12)  
-[Chapter 11](tpm13)  
-[Chapter 12](tpm14)  
-[Chapter 13](tpm15)  
-[Question Helps](tpm16)  
-[Index](tpm17)  
+[Title Page](tpm00.md)  
+[Introduction](tpm01.md)  
+[Contents](tpm02.md)  
+[Chapter 1](tpm03.md)  
+[Chapter 2](tpm04.md)  
+[Chapter 3](tpm05.md)  
+[Chapter 4](tpm06.md)  
+[Chapter 5](tpm07.md)  
+[Chapter 6](tpm08.md)  
+[Chapter 7](tpm09.md)  
+[Chapter 8](tpm10.md)  
+[Chapter 9](tpm11.md)  
+[Chapter 10](tpm12.md)  
+[Chapter 11](tpm13.md)  
+[Chapter 12](tpm14.md)  
+[Chapter 13](tpm15.md)  
+[Question Helps](tpm16.md)  
+[Index](tpm17.md)  

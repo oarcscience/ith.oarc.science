@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph13)  [Next](rph15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph13)  [Next](rph15.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ this so, we could even nowadays frame a law which would deserve higher
 praise. Were it our desire to find nothing but simple words, we should
 have nothing to do but to turn to the legislators of the earth, among
 whom more grandeur is frequently found. <span
-id="fr_248"></span>[1](#fn_248) It would be sufficient to imitate them,
+id="fr_248"></span>[1](#fn_248.md) It would be sufficient to imitate them,
 and to make a law according to their words and to their example. But it
 is not so; every word of the law holds an exalted meaning and a sublime
 mystery.
@@ -44,7 +44,7 @@ this law."
 
 "There are foolish people who, when they see a man covered with fine
 clothes, look no further than the garment, and yet it is the body that
-lends value to the clothes; <span id="fr_249"></span>[2](#fn_249) and
+lends value to the clothes; <span id="fr_249"></span>[2](#fn_249.md) and
 still more precious is the soul. The law also has its body. There are
 commandments that may be called the body of the law, and the ordinary
 recitals which are mingled with them are the clothes which cover the
@@ -56,7 +56,7 @@ the Supreme King, they who dwell upon the heights of Sinai, think of the
 soul only, which is the foundation of all the rest, and which is the law
 itself, and in time to come they will be prepared to contemplate the
 spirit of that spirit which breathes in the law." <span
-id="fr_250"></span>[3](#fn_250)
+id="fr_250"></span>[3](#fn_250.md)
 
 Thus, by the sincere or insincere supposition of a mysterious meaning,
 unknown to the profane, the Kabbalists first placed themselves above the
@@ -72,11 +72,11 @@ remarkable in the following lines: "If the law consisted of nothing but
 ordinary words and recitals, like the words of Esau, of Hagar, of Laban,
 of Balaam's ass, and of Balaam himself, why should it have been called
 the law of truth, the perfect law, the faithful testimony of God? Why
-should the wise man <span id="fr_251"></span>[4](#fn_251) deem it more
+should the wise man <span id="fr_251"></span>[4](#fn_251.md) deem it more
 precious than gold and pearls? But it is not so. Every word hides a very
 high meaning; every recital contains more than events it seems to
 contain. And that higher and more holy law is the true law." <span
-id="fr_252"></span>[5](#fn_252)
+id="fr_252"></span>[5](#fn_252.md)
 
 It is of some interest to find similar views and similar expressions in
 the works of a father of the church. "Were we obliged," says Origen, "to
@@ -85,7 +85,7 @@ law as the Jews and the people understand it, I should blush to tell
 aloud that it is God who gave us such laws; I should find, then, more
 grandeur, and more reason in the laws of man, as for instance, in the
 laws of Athens, of Rome, or of Lacedemonia. . . ." <span
-id="fr_253"></span>[6](#fn_253)
+id="fr_253"></span>[6](#fn_253.md)
 
 "What sensible man, pray," says the same author, "could be made to
 believe that the first, the second and the third days of the creation,
@@ -100,18 +100,18 @@ the garden of Eden, situated toward the East; that one of the trees was
 the tree of life, and that another tree could give the knowledge of good
 and evil? I think that no one could hesitate to regard these things as
 parables under which are hidden mysteries." <span
-id="fr_254"></span>[7](#fn_254)
+id="fr_254"></span>[7](#fn_254.md)
 
 Finally, he also admits the differentiation between an historical, a
 legislative or moral meaning, and a mystical meaning; but instead of
 using the clothes that cover us as a simile, he compares the first to
 the body, the second to the soul, and the last to the spirit. <span
-id="fr_255"></span>[8](#fn_255) In order to establish, at least, certain
+id="fr_255"></span>[8](#fn_255.md) In order to establish, at least, certain
 apparent relations between the sacred word and these arbitrary
 interpretations, the ancient Kabbalists sometimes resorted to artificial
 means very rarely met with in the Zohar, but which have taken up
 considerable space and authority with the modern Kabbalists. <span
-id="fr_256"></span>[9](#fn_256) As these means are, by their very
+id="fr_256"></span>[9](#fn_256.md) As these means are, by their very
 nature, unworthy of all interest, as they never serve as basis to any
 important idea, and as they have been discussed by a great many, we pass
 them in silence that we may more quickly come to the essential subject
@@ -135,12 +135,12 @@ of the system imposes it upon us.
 
 ### Footnotes
 
-<span id="fn_248"></span>[140:1](rph14.htm#fr_248) ‏אי לאהזאה מלי דעלמא
+<span id="fn_248"></span>[140:1](rph14.htm#fr_248.md) ‏אי לאהזאה מלי דעלמא
 אפילו איגון קפסירי דעלמא אית בינייהו מילין עלאין יתיר אי הכי ניזיל
 אבתרייהן ונעביד מנייהו אורייתא.‎ (As the text was too long to be quoted
 in its entirety, a selection has been made.)
 
-<span id="fn_249"></span>[141:2](rph14.htm#fr_249) In this edition the
+<span id="fn_249"></span>[141:2](rph14.htm#fr_249.md) In this edition the
 author deviates slightly from the original text and follows the
 interpretation of Dr. Jellinek. In the first edition the translation
 reads: "There are foolish people, who, when they see a man covered with
@@ -155,25 +155,25 @@ verb, into the noun ‏השיבות‎, and have the sentence refer not to the
 foolish people, but make it exclamatory of the Zohar itself. This
 conjecture is supported by the following ‏השיבות דנופא נשמתא‎."--Transl.
 
-<span id="fn_250"></span>[141:3](rph14.htm#fr_250) Zohar, part III, fol.
+<span id="fn_250"></span>[141:3](rph14.htm#fr_250.md) Zohar, part III, fol.
 152a, sec. ‏בהעלותךּ‎ (B’haleth-ho).
 
-<span id="fn_251"></span>[142:4](rph14.htm#fr_251) Refers to David and
+<span id="fn_251"></span>[142:4](rph14.htm#fr_251.md) Refers to David and
 to Psalms, XIX, 11. "They are those which are to be desired more than
 gold, and much fine gold . . ." The author mistook the word is ‏פז‎
 (Poz);--fine gold, for ‏פינים‎ (P’ninim)--pearls.--Transl.
 
-<span id="fn_252"></span>[142:5](rph14.htm#fr_252) ‏אלא ודאי אוריתא
+<span id="fn_252"></span>[142:5](rph14.htm#fr_252.md) ‏אלא ודאי אוריתא
 קרישא עלאה איהי אוריתא דקשוט תורת ה׳ תמימה.‎--Part III, Fol. 149b.
 
-<span id="fn_253"></span>[142:6](rph14.htm#fr_253) Si absideamus
+<span id="fn_253"></span>[142:6](rph14.htm#fr_253.md) Si absideamus
 litterae et secundum hoc vel quod Judaeis, vel quad vulgo videtur,
 accipiamus quae in lege scripta sunt, erubesco dicere et confiteri quia
 tales leges dederit Deus; videbunter enim magis elegantes et
 rationabiles hominum leges, verbi gratia, vel Romanorum, vel
 Atheniensium, vel Lacedaemoniorum."--Homil. 7, in Levit.
 
-<span id="fn_254"></span>[143:7](rph14.htm#fr_254) Cuinam quaeso sensum
+<span id="fn_254"></span>[143:7](rph14.htm#fr_254.md) Cuinam quaeso sensum
 habenti convenienter videbitur dictum quod dies prima, et secunda et
 tertia, in quibus et vespera nominatur et mane, fuerint sine sole, et
 sine luna, et sine stellis: prima autem dies sine coelo? Quis vero ita
@@ -183,12 +183,12 @@ vitae plantasse in eo, ita ut manducans quis ex ea arbore vitam
 percipiat? et rursus ex alia manducans arbore, boni et mali scientiam
 capiat? etc., περὶ ἀρχῶν, liv. IV, ch. II, Huet, Origeniana, p. 167.
 
-<span id="fn_255"></span>[143:8](rph14.htm#fr_255) "Triplicem in
+<span id="fn_255"></span>[143:8](rph14.htm#fr_255.md) "Triplicem in
 Scripturis divinis intelligentiae modum, historicum, moralem, et
 mysticum: unde et corpus finesse et animam ac spiritum
 intelleximus."--Hamil. 5, in Levit.
 
-<span id="fn_256"></span>[143:9](rph14.htm#fr_256) Those names are three
+<span id="fn_256"></span>[143:9](rph14.htm#fr_256.md) Those names are three
 in number: one, ‏גימטריא‎ (Gematria), consists in setting one word in
 place of another word which has the same numerical value; the other,
 ‏נוטריקין‎ (Notarikon), makes each letter of a word the initial of
@@ -201,4 +201,4 @@ des Juifs, etc., etc.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Analysis of the Zohar. The Kabbalists' Conception of
-the Nature of God](rph15)
+the Nature of God](rph15.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec13)  [Next](aec15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec13)  [Next](aec15.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Textual Heritage
 
 </div>
 
-The world faces its greatest famine. <span id="fr_0"></span>[\*](#fn_0)
+The world faces its greatest famine. <span id="fr_0"></span>[\*](#fn_0.md)
 Millions of people in Western Europe have already perished of hunger,
 and millions more will experience a similar fate unless definite action
 is taken soon. One would think that the countries which devastated their
@@ -294,8 +294,8 @@ good works and not goods that will follow us."
 
 ### Footnotes
 
-<span id="fn_0"></span>[103:\*](aec14.htm#fr_0) October, 1946.
+<span id="fn_0"></span>[103:\*](aec14.htm#fr_0.md) October, 1946.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Preparation](aec15)
+[Next: XII. Preparation](aec15.md)

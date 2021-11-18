@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb06)  [Next](lifb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb06)  [Next](lifb08.md) 
 
 </div>
 
@@ -150,6 +150,6 @@ she never saw a glimmer after with that one till the day of her death.
 
 ------------------------------------------------------------------------
 
-[Next: A Lost Paradise](lifb08)
+[Next: A Lost Paradise](lifb08.md)
 
 </div>

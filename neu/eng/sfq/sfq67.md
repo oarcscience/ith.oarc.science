@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq66)  [Next](sfq68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq66)  [Next](sfq68.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ such power that he shattered the other
 <span id="img_32000"></span>
 
 [![](tn/32000.jpg)  
-Click to enlarge](img/32000.jpg)
+Click to enlarge](img/32000.jpg.md)
 
 half of her shield, and then he smote on her helmet so that she sank
 senseless on the grassy field.
@@ -143,4 +143,4 @@ won him in fight.
 
 ------------------------------------------------------------------------
 
-[Next: The House of Guile](sfq68)
+[Next: The House of Guile](sfq68.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws48)  [Next](cws50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws48)  [Next](cws50.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XLV
 
-#### CONCERNING PSYCHE <span id="fr_175"></span>[2](#fn_175)
+#### CONCERNING PSYCHE <span id="fr_175"></span>[2](#fn_175.md)
 
 (Continued from No. XLIII)
 
@@ -16,7 +16,7 @@ together. Thou knowest already the nature of the planet and the
 divisions of its Ego into four parts or regions. Of these thou knowest
 that the soul or Psyche is in man, the human superior reason. Now there
 appertains to the planet besides all these four regions, an atmosphere
-of a magnetic nature. <span id="fr_176"></span>[3](#fn_176) This
+of a magnetic nature. <span id="fr_176"></span>[3](#fn_176.md) This
 atmosphere is well known to thee. It is the astral or sideral soul of
 the planet, the *anima mundi* or picture-world. Therein are stored up
 all the memories of the world: its past life, its history, its
@@ -24,7 +24,7 @@ affections and recollections of physical things. The adept may
 interrogate this phantom world, and it shall speak for him. It is the
 cast-off vestment of the planet; yet it is living and palpitating, for
 its very fabric is spun of psychic substance, and its entire
-*parenchyma* <span id="fr_177"></span>[4](#fn_177) is magnetic. And
+*parenchyma* <span id="fr_177"></span>[4](#fn_177.md) is magnetic. And
 forasmuch as the planet is an entity ever being born and ever dying, so
 this astral counterpart of itself is ever in process of increase--the
 mirror of the globe, a world encompassing a world. But the Divine
@@ -93,19 +93,19 @@ Order is the first word of analysis, and the alphabet of synthesis.
 
 ### Footnotes
 
-<span id="fn_175"></span>[111:2](cws49.htm#fr_175) Paris, January 6,
+<span id="fn_175"></span>[111:2](cws49.htm#fr_175.md) Paris, January 6,
 1883.
 
-<span id="fn_176"></span>[111:3](cws49.htm#fr_176) Not another element,
+<span id="fn_176"></span>[111:3](cws49.htm#fr_176.md) Not another element,
 but another mode of the astral: that in which it represents its past as
 distinguished from its present condition, which co-exist-the latter
 continually passing into the former.    E. M.
 
-<span id="fn_177"></span>[111:4](cws49.htm#fr_177) Anatomically, the
+<span id="fn_177"></span>[111:4](cws49.htm#fr_177.md) Anatomically, the
 mass of a glandular or similar organ. Botanically, the soft cellular
 tissue of plants.    E. M.
 
 ------------------------------------------------------------------------
 
 [Next: No. XLVI: Concerning Consciousness And Memory In Relation To
-Personality](cws50)
+Personality](cws50.md)

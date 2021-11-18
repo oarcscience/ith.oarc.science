@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck16)  [Next](peck18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck16)  [Next](peck18.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ a waratah if they were in flower at the time of the quarrel.
 
 ------------------------------------------------------------------------
 
-[Next: What Makes The Waves](peck18)
+[Next: What Makes The Waves](peck18.md)

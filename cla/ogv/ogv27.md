@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv26)  [Next](ogv28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv26)  [Next](ogv28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,22 +29,22 @@ source of the astrological science of the ancients. Doubtless he is not
 ignorant of what an extended influence this science exercised already
 upon the face of the globe. The Egyptians, Chaldeans, Phœnicians, did
 not separate it from that which regulated the cult of the gods. <span
-id="fr_428"></span>[a](#fn_427) Their temples were but an abridged image
+id="fr_428"></span>[a](#fn_427.md) Their temples were but an abridged image
 of the Universe, and the tower which served as an observatory was raised
 at the side of the sacrificial altar. The Peruvians followed, in this
 respect, the same usages as the Greeks and Romans. <span
-id="fr_429"></span>[b](#fn_428) Everywhere the grand Pontiff
+id="fr_429"></span>[b](#fn_428.md) Everywhere the grand Pontiff
 
 <span id="page_183">p. 183</span>
 
 united the science of genethlialogy or astrology with the priesthood,
 and concealed with care the principles of this science within the
-precincts of the sanctuary. <span id="fr_430"></span>[a](#fn_429) It was
+precincts of the sanctuary. <span id="fr_430"></span>[a](#fn_429.md) It was
 a Secret of State among the Etruscans and at Rome, <span
-id="fr_431"></span>[b](#fn_430) as it still is in China and Japan. <span
-id="fr_432"></span>[c](#fn_431) The Brahmans did not confide its
+id="fr_431"></span>[b](#fn_430.md) as it still is in China and Japan. <span
+id="fr_432"></span>[c](#fn_431.md) The Brahmans did not confide its
 elements except to those whom they deemed worthy to be initiated. <span
-id="fr_433"></span>[d](#fn_432) For one need only lay aside an instant
+id="fr_433"></span>[d](#fn_432.md) For one need only lay aside an instant
 the bandage of prejudice to see that an Universal science, linked
 throughout to what men recognize as the most holy, can not be the
 product of folly and stupidity, as has been reiterated a hundred times
@@ -71,14 +71,14 @@ and the providential laws which rule him. Such is
 <span id="page_184">p. 184</span>
 
 the doctrine of Pythagoras as I have already revealed. <span
-id="fr_434"></span>[a](#fn_433) It was that of the mysteries and of all
+id="fr_434"></span>[a](#fn_433.md) It was that of the mysteries and of all
 the sages of antiquity. Origen, who has opposed it, attributes it to the
 Egyptians, to the Pythagoreans, and to the disciples of Plato. It was
 contained in the sacred books of the Chaldeans, cited by Syncellus,
 under the title of *livres géniques*. <span
-id="fr_435"></span>[b](#fn_434) Seneca and Synesius have supported it as
+id="fr_435"></span>[b](#fn_434.md) Seneca and Synesius have supported it as
 wholly in accordance with the spirit of the initiations. <span
-id="fr_436"></span>[c](#fn_435) What the ancients called the *great
+id="fr_436"></span>[c](#fn_435.md) What the ancients called the *great
 year*, was a consequence of this doctrine; for it was taught in the
 mysteries, that the Universe itself traversed, after a sequence of
 incalculable centuries, the same revolutions that it had already
@@ -89,10 +89,10 @@ nature of each being, immense for the Universal Man, is limited in the
 individual to what is called infancy, youth, manhood, and old age, and
 is represented on the earth by the fleeting seasons of spring, summer,
 autumn, and winter. This great year, thus conceived, has been common to
-all the peoples of the earth. <span id="fr_437"></span>[d](#fn_436)
+all the peoples of the earth. <span id="fr_437"></span>[d](#fn_436.md)
 Cicero has plainly seen that it constituted the veritable basis of
 genethlialogy or the astrological science. <span
-id="fr_438"></span>[e](#fn_437) Indeed if the future is composed of the
+id="fr_438"></span>[e](#fn_437.md) Indeed if the future is composed of the
 past—that is, a thing already made, upon which the present is gradually
 unfolded as upon the circumference of a circle which has neither
 beginning nor end, it is evident that one can succeed, up to a certain
@@ -109,21 +109,21 @@ possible aspects and of all corresponding effects, as Cicero supposes,
 is able, by observations made and set down in the genethliatic archives,
 to foresee, at the second revolution, the return of the events which
 were already linked there and which must be reproduced? <span
-id="fr_439"></span>[a](#fn_438) Plato exacts, for the perfection of this
+id="fr_439"></span>[a](#fn_438.md) Plato exacts, for the perfection of this
 great year, that the movement of the fixed stars, which constitutes what
 we call the precession of the equinoxes, should coincide with the
 particular movement of the celestial bodies, so as to bring back the
 heavens to the fixed point of its primitive position. <span
-id="fr_440"></span>[b](#fn_439) The Brahmans carry the greatest duration
+id="fr_440"></span>[b](#fn_439.md) The Brahmans carry the greatest duration
 of this immense period, which they name *Kalpa*, to 4,320,000,000 of
 years, and its mean duration, which they name *Maha-Youg*, to
-4,320,000. <span id="fr_441"></span>[c](#fn_440) The Chinese appear to
-restrict it to 432,000 years, <span id="fr_442"></span>[d](#fn_441) and
+4,320,000. <span id="fr_441"></span>[c](#fn_440.md) The Chinese appear to
+restrict it to 432,000 years, <span id="fr_442"></span>[d](#fn_441.md) and
 in this they agree with the Chaldeans; but when one reduces it again to
 a twelfth of this number, with the Egyptians, that is, to the sole
 revolution of the fixed stars, which they made, according to Hipparchus,
 36,000 years, and which we make no more than 25,867, according to modern
-calculations, <span id="fr_443"></span>[e](#fn_442) we feel indeed that
+calculations, <span id="fr_443"></span>[e](#fn_442.md) we feel indeed that
 we would be still very far from having a series of observations capable
 of making us foresee the return of the same events, and that we could
 not conceive even, how men could ever attain to its mastery. As to the
@@ -149,12 +149,12 @@ not only the Great All, but the innumerable worlds which are like its
 members, the heavens and the heaven of heavens, the stars and all the
 beings who people them even to the plants and metals, are penetrated by
 the same Soul and moved by the same Spirit. <span
-id="fr_444"></span>[a](#fn_443) Stanley attributes this dogma to the
-Chaldeans, <span id="fr_445"></span>[b](#fn_444) Kircher to the
-Egyptians, <span id="fr_446"></span>[c](#fn_445) and the wise Rabbi
+id="fr_444"></span>[a](#fn_443.md) Stanley attributes this dogma to the
+Chaldeans, <span id="fr_445"></span>[b](#fn_444.md) Kircher to the
+Egyptians, <span id="fr_446"></span>[c](#fn_445.md) and the wise Rabbi
 Maimonides traces it back to the Sabæans. <span
-id="fr_447"></span>[d](#fn_446) Saumaise has attributed to them the
-origin of astrological science, <span id="fr_448"></span>[e](#fn_447)
+id="fr_447"></span>[d](#fn_446.md) Saumaise has attributed to them the
+origin of astrological science, <span id="fr_448"></span>[e](#fn_447.md)
 and he is correct in one point. But of what use is it to consider the
 movement of the heavens and the respective position of the stars
 belonging to the same sphere as the earth, in order to form the
@@ -208,10 +208,10 @@ form was not, and that such an imminent event could be suspended,
 evaded, or changed by a coöperation of the acts of the will,
 inaccessible to all prevision. This is what was said with such
 profoundness by Tiresias, the most famous hierophant of Greece and whom
-Homer called the only sage, <span id="fr_449"></span>[a](#fn_448) these
+Homer called the only sage, <span id="fr_449"></span>[a](#fn_448.md) these
 words so often quoted and so little understood: "Whatever I may see will
 come to pass, or it will not come to pass" <span
-id="fr_450"></span>[b](#fn_449); that is to say, The event that I see is
+id="fr_450"></span>[b](#fn_449.md); that is to say, The event that I see is
 in the necessity of Destiny and it will come to pass, unless it is
 changed by the power of the Will; in which case it will not come to
 pass.
@@ -220,85 +220,85 @@ pass.
 
 ### Footnotes
 
-<span id="fn_427"></span>[182:a](ogv27.htm#fr_428) Hermes, *In
+<span id="fn_427"></span>[182:a](ogv27.htm#fr_428.md) Hermes, *In
 Asclepio;* Porphyr., *De Antr. Nymph.*, p. 106; Origen, *Contr. Cels.*,
 l. vi., p. 298; Hyd., *De Vet. Pers. Relig.*, p. 16; Jamblic., *De
 Myster-Egypt.*, c. 37.
 
-<span id="fn_428"></span>[182:b](ogv27.htm#fr_429) *Hist. des Voyag.*,
+<span id="fn_428"></span>[182:b](ogv27.htm#fr_429.md) *Hist. des Voyag.*,
 t. lii., p. 72; Divd., l. iv., c. 79; Plutar., *In Vitâ Num.*
 
-<span id="fn_429"></span>[183:a](ogv27.htm#fr_430) Boulanger, *Antiq.
+<span id="fn_429"></span>[183:a](ogv27.htm#fr_430.md) Boulanger, *Antiq.
 dévoil.*, l. iii., ch. 5, § 3.
 
-<span id="fn_430"></span>[183:b](ogv27.htm#fr_431) *Mém. de l’Acad. des
+<span id="fn_430"></span>[183:b](ogv27.htm#fr_431.md) *Mém. de l’Acad. des
 Insc.*, t. i., p. 67; Tit.-Liv., *Decad*., i, l. ix.; Aul. Gell., l.
 vi., c. 9.
 
-<span id="fn_431"></span>[183:c](ogv27.htm#fr_432) Duhald., t. ii., p.
+<span id="fn_431"></span>[183:c](ogv27.htm#fr_432.md) Duhald., t. ii., p.
 578; t. iii., p. 336, 342; Const. d’Orville, t. i., p. 3.
 
-<span id="fn_432"></span>[183:d](ogv27.htm#fr_433) Philostr., *In Vitâ
+<span id="fn_432"></span>[183:d](ogv27.htm#fr_433.md) Philostr., *In Vitâ
 Apoll.*, l. iii., c. 13.
 
-<span id="fn_433"></span>[184:a](ogv27.htm#fr_434) Dans mon
+<span id="fn_433"></span>[184:a](ogv27.htm#fr_434.md) Dans mon
 21<sup>e</sup> Examen, où j’ai cité particulièrement Diogène Laërce, l.
 viii., § 4.
 
-<span id="fn_434"></span>[184:b](ogv27.htm#fr_435) Syncell., p. 35.
+<span id="fn_434"></span>[184:b](ogv27.htm#fr_435.md) Syncell., p. 35.
 
-<span id="fn_435"></span>[184:c](ogv27.htm#fr_436) Senec., *Quæst.
+<span id="fn_435"></span>[184:c](ogv27.htm#fr_436.md) Senec., *Quæst.
 Nat.*, l. iii., c. 30; Synes., *De Provid.*, l. ii., *sub fin*.
 
-<span id="fn_436"></span>[184:d](ogv27.htm#fr_437) Plato, *In Tim.*;
+<span id="fn_436"></span>[184:d](ogv27.htm#fr_437.md) Plato, *In Tim.*;
 Ovid, *Metam*., l. xv., fab. v.; Senec., *Epist*., 35; Macrob., In
 *Somn. Scip.*, l. ii., c. 2; *Hist. des Voyages*, t. xii., p. 529;
 Dupuis, *Orig. des Cultes*, l. v., in 12, p. 474; Bailly, *Hist. de
 l’Astr. Anc.*, l. ix., § 15.
 
-<span id="fn_437"></span>[184:e](ogv27.htm#fr_438) Ciceron, *De Divin.*,
+<span id="fn_437"></span>[184:e](ogv27.htm#fr_438.md) Ciceron, *De Divin.*,
 l. ii., c. 97.
 
-<span id="fn_438"></span>[185:a](ogv27.htm#fr_439) Cicer., *De Natur.
+<span id="fn_438"></span>[185:a](ogv27.htm#fr_439.md) Cicer., *De Natur.
 Deor.*, l. ii., c. 20; *ibid*., *De Divin.*, l. ii., c. 97.
 
-<span id="fn_439"></span>[185:b](ogv27.htm#fr_440) Plato, *In Tim.*
+<span id="fn_439"></span>[185:b](ogv27.htm#fr_440.md) Plato, *In Tim.*
 
-<span id="fn_440"></span>[185:c](ogv27.htm#fr_441) *Souryâ-Siddhanta*.
+<span id="fn_440"></span>[185:c](ogv27.htm#fr_441.md) *Souryâ-Siddhanta*.
 
-<span id="fn_441"></span>[185:d](ogv27.htm#fr_442) *Asiat. Research.*,
+<span id="fn_441"></span>[185:d](ogv27.htm#fr_442.md) *Asiat. Research.*,
 t. ii., p. 378.
 
-<span id="fn_442"></span>[185:e](ogv27.htm#fr_443) Biot., *Astr. Phys.*,
+<span id="fn_442"></span>[185:e](ogv27.htm#fr_443.md) Biot., *Astr. Phys.*,
 ch. xiv., p. 291.
 
-<span id="fn_443"></span>[186:a](ogv27.htm#fr_444) *Vitâ Pythag.*;
+<span id="fn_443"></span>[186:a](ogv27.htm#fr_444.md) *Vitâ Pythag.*;
 Phot., Bibl. *Cod.*, 259; Plato, *In Tim.*; Macrob., In *Somn. Scip.*;
 Virg., *Æneid*, l. vi., v. 724; Sevius, *Comm.*, *ibid*.; Cicer., *De
 Nat. Deor.*, l. i., c. 5, 11, 14, et 15; Diog. Laërt., *In Zon.*;
 Batteux, *Causes premières*, t. ii., p. 116; Beausob., *Hist. du
 Manich.*, t. ii., l. vi., c. 6, § 14.
 
-<span id="fn_444"></span>[186:b](ogv27.htm#fr_445) Stanley, *De Phil.
+<span id="fn_444"></span>[186:b](ogv27.htm#fr_445.md) Stanley, *De Phil.
 Chald.*, p. 1123.
 
-<span id="fn_445"></span>[186:c](ogv27.htm#fr_446) Kircher, *Ædip.*, t.
+<span id="fn_445"></span>[186:c](ogv27.htm#fr_446.md) Kircher, *Ædip.*, t.
 i., p. 172, et t. ii., p. 200.
 
-<span id="fn_446"></span>[186:d](ogv27.htm#fr_447) Maimon., *More
+<span id="fn_446"></span>[186:d](ogv27.htm#fr_447.md) Maimon., *More
 Nevoch.*, i., part., c. 70.
 
-<span id="fn_447"></span>[186:e](ogv27.htm#fr_448) Salmas, *Ann.
+<span id="fn_447"></span>[186:e](ogv27.htm#fr_448.md) Salmas, *Ann.
 Climat.*, *Præf*., p. 32.
 
-<span id="fn_448"></span>[188:a](ogv27.htm#fr_449) Homer, *Odyss.*, K.
+<span id="fn_448"></span>[188:a](ogv27.htm#fr_449.md) Homer, *Odyss.*, K.
 V. 494; Diodor. Sic., l. v., C. 6; Plin., l. vii., C. 56; Plutar., *De
 Oracul. Defect.*, p. 434.
 
-<span id="fn_449"></span>[188:b](ogv27.htm#fr_450) Horat., S*at*., v.,
+<span id="fn_449"></span>[188:b](ogv27.htm#fr_450.md) Horat., S*at*., v.,
 l. ii., v. 59.
 
 ------------------------------------------------------------------------
 
 [Next: 17. That which thou dost not know, pretend not that thou dost.
-Instruct thyself: for time and patience favour all.](ogv28)
+Instruct thyself: for time and patience favour all.](ogv28.md)

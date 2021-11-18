@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh13)  [Next](lsbh15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh13)  [Next](lsbh15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -261,7 +261,7 @@ burnt bread." And the physician said unto him, "Paint thine eyes with
 stibium or with something that will sharpen thy vision." And the man
 said, "I did not ask thee about mine eyes, but about my belly;" and the
 physician said to him, "I know that, but I say unto thee, Paint thine
-eyes <span id="fr_87"></span>[1](#fn_87) with something that will
+eyes <span id="fr_87"></span>[1](#fn_87.md) with something that will
 sharpen thy vision, in order that thou mayest observe the bread which is
 burnt and mayest not eat of it."
 
@@ -320,7 +320,7 @@ going to send down thine head to the oven to be baked?"
 
 ### Footnotes
 
-<span id="fn_87"></span>[87:1](lsbh14.htm#fr_87) For \#\#\#, read
+<span id="fn_87"></span>[87:1](lsbh14.htm#fr_87.md) For \#\#\#, read
 \#\#\#.
 
 <div class="filenav">
@@ -328,6 +328,6 @@ going to send down thine head to the oven to be baked?"
 ------------------------------------------------------------------------
 
 [Next: The Tenth Chapter: Choice Stories of the Speech of Irrational
-Beasts](lsbh15)
+Beasts](lsbh15.md)
 
 </div>

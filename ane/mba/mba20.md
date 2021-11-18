@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba19)  [Next](mba21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba19)  [Next](mba21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -70,8 +70,8 @@ tribal rather than a geographical significance.
 If the view is accepted that Ashur is Anshar, it can be urged that he
 was imported from Sumeria. "Out of that land (Shinar)", according to the
 Biblical reference, "went forth Asshur, and builded Nineveh." <span
-id="fr_356"></span>[1](#fn_354) Asshur, or Ashur (identical, Delitzsch
-and Jastrow believe, with Ashir), <span id="fr_357"></span>[2](#fn_355)
+id="fr_356"></span>[1](#fn_354.md) Asshur, or Ashur (identical, Delitzsch
+and Jastrow believe, with Ashir), <span id="fr_357"></span>[2](#fn_355.md)
 may have been an eponymous hero--a deified king like Etana, or
 Gilgamesh, who was regarded as an incarnation of an ancient god. As
 Anshar was an astral or early form of Anu, the Sumerian city of origin
@@ -83,7 +83,7 @@ where the worship of the mother goddess was also given prominence.
 
 Damascius rendered Anshar's name as "Assōros", a fact usually cited to
 establish Ashur's connection with that deity. This writer stated that
-the Babylonians passed over "Sige, <span id="fr_358"></span>[1](#fn_356)
+the Babylonians passed over "Sige, <span id="fr_358"></span>[1](#fn_356.md)
 the mother, that has begotten heaven and earth", and made two--Apason
 (Apsu), the husband, and Tauthe (Tiawath or Tiamat), whose son was
 Moymis (Mummu). From these another progeny came forth--Lache and Lachos
@@ -91,7 +91,7 @@ Moymis (Mummu). From these another progeny came forth--Lache and Lachos
 Assōros (Kishar and Anshar), "from which were produced Anos (Anu),
 Illillos (Enlil) and Aos (Ea). And of Aos and Dauke (Dawkina or Damkina)
 was born Belos (Bel Merodach), whom they say is the Demiurge" <span
-id="fr_359"></span>[2](#fn_357) (the world artisan who carried out the
+id="fr_359"></span>[2](#fn_357.md) (the world artisan who carried out the
 decrees of a higher being).
 
 Lachmu and Lachamu, like the second pair of the ancient group of
@@ -120,7 +120,7 @@ and his consort are the fourth pair. When Amon was fused with the
 specialized sun god Ra, he was placed at the head of the Ennead as the
 Creator. "We have traces", says Jastrow, "of an Assyrian myth of
 Creation in which the sphere of creator is given to Ashur." <span
-id="fr_360"></span>[1](#fn_358)
+id="fr_360"></span>[1](#fn_358.md)
 
 Before a single act of creation was conceived of, however, the early
 peoples recognized the eternity of matter, which was permeated by the
@@ -168,7 +168,7 @@ There is no fellow in the firmament.
 The skies are painted with unnumbered sparks;  
 They are all fire, and every one doth shine;  
 But there's but one in all doth hold his place. <span
-id="fr_361"></span>[1](#fn_359)</span>
+id="fr_361"></span>[1](#fn_359.md)</span>
 
 </div>
 
@@ -209,7 +209,7 @@ thou hast said in thine heart, I will ascend unto heaven, I will exalt
 my throne above the stars of God; I will sit also upon the mount of the
 congregation, *in the sides of the north*; I will ascend above the
 heights of the clouds; I will be like the most High." <span
-id="fr_362"></span>[1](#fn_360) The king is identified with Lucifer as
+id="fr_362"></span>[1](#fn_360.md) The king is identified with Lucifer as
 the deity of fire and the morning star; he is the younger god who
 aspired to occupy the
 
@@ -224,13 +224,13 @@ back. In India this hill is Mount Meru, the "world spine", which
 "sustains the earth"; it is surmounted by Indra's Valhal, or "the great
 city of Brahma". In Teutonic mythology the heavens revolve round the
 Polar Star, which is called "Veraldar nagli", <span
-id="fr_363"></span>[1](#fn_361) the "world spike"; while the earth is
+id="fr_363"></span>[1](#fn_361.md) the "world spike"; while the earth is
 sustained by the "world tree". The "ded" amulet of Egypt symbolized the
 backbone of Osiris as a world god: "ded" means "firm",
-"established"; <span id="fr_364"></span>[2](#fn_362) while at burial
+"established"; <span id="fr_364"></span>[2](#fn_362.md) while at burial
 ceremonies the coffin was set up on end, inside the tomb, "on a small
 sandhill intended to represent the Mountain of the West--the realm of
-the dead". <span id="fr_365"></span>[3](#fn_363) The Babylonian temple
+the dead". <span id="fr_365"></span>[3](#fn_363.md) The Babylonian temple
 towers were apparently symbols of the "world hill". At Babylon, the
 Du-azaga, "holy mound", was Merodach's temple E-sagila, "the Temple of
 the High Head". E-kur, rendered "the house or temple of the Mountain",
@@ -240,12 +240,12 @@ Anu, derived from "ana", "heaven". Ishtar was "Queen of heaven".
 
 Now Polaris, situated at the summit of the celestial mountain, was
 identified with the sacred goat, "the highest of the flock of
-night". <span id="fr_366"></span>[4](#fn_364) Ursa Minor (the "Little
+night". <span id="fr_366"></span>[4](#fn_364.md) Ursa Minor (the "Little
 Bear" constellation) may have been "the goat with six heads",
 
 <span id="page_333">p. 333</span>
 
-referred to by Professor Sayce. <span id="fr_367"></span>[1](#fn_365)
+referred to by Professor Sayce. <span id="fr_367"></span>[1](#fn_365.md)
 The six astral goats or goat-men were supposed to be dancing round the
 chief goat-man or Satyr (Anshar). Even in the dialogues of Plato the
 immemorial belief was perpetuated that the constellations were "moving
@@ -255,7 +255,7 @@ heavens by the constellations, whose movements were rhythmical. No
 doubt, Isaiah had in mind the belief of the Babylonians regarding the
 dance of their goat-gods when he foretold: "Their houses shall be full
 of doleful creatures; and owls (ghosts) shall dwell there, and *satyrs
-shall dance there*". <span id="fr_368"></span>[2](#fn_366) In other
+shall dance there*". <span id="fr_368"></span>[2](#fn_366.md) In other
 words, there would be no people left to perform religious dances beside
 the "desolate houses"; the stars only would be seen dancing round
 Polaris.
@@ -311,16 +311,16 @@ rays fall down from either
 
 <span id="img_33400"></span> <span align="CENTER"> [![ASHUR
 SYMBOLS](tn/33400.jpg)  
-Click to enlarge](img/33400.jpg)  
+Click to enlarge](img/33400.jpg.md)  
 ASHUR SYMBOLS  
 </span>
 
 <span class="small"><span class="contnote">\[paragraph
 continues\]</span> The two symbols with feather-robed archers, shown on
-the left, are described on page [335](#page_335). The winged disk on the
+the left, are described on page [335](#page_335.md). The winged disk on the
 right appears on a Babylonian "boundary stone" which dates from the
-reign of Marduk-balatsu-ikbi. (See pages [415](mba23.htm#page_415),
-[416](mba23.htm#page_416).)  
+reign of Marduk-balatsu-ikbi. (See pages [415](mba23.htm#page_415.md),
+[416](mba23.htm#page_416)..md)  
 Photos. Mansell</span>
 
  
@@ -346,7 +346,7 @@ Jastrow regards the winged disc as "the purer and more genuine symbol of
 Ashur as a solar deity". He calls it "a sun disc with protruding rays",
 and says: "To this symbol the warrior with the bow and arrow was
 added--a despiritualization that reflects the martial spirit of the
-Assyrian empire". <span id="fr_369"></span>[1](#fn_367)
+Assyrian empire". <span id="fr_369"></span>[1](#fn_367.md)
 
 The sun symbol on the sun boat of Ra encloses similarly a human figure,
 which was apparently regarded as the soul of the sun: the life of the
@@ -359,12 +359,12 @@ forth then that man dies; whence they say of him who has passed
 <span id="page_336">p. 336</span>
 
 away, 'he has been cut off (his life or life string has been
-severed)'." <span id="fr_370"></span>[1](#fn_368) The human figure did
+severed)'." <span id="fr_370"></span>[1](#fn_368.md) The human figure did
 not indicate a process of "despiritualization" either in Egypt or in
 India. The Horus "winged disc" was besides a symbol of destruction and
 battle, as well as of light and fertility. Horus assumed that form in
 one legend to destroy Set and his followers. <span
-id="fr_371"></span>[2](#fn_369) But, of course, the same symbols may not
+id="fr_371"></span>[2](#fn_369.md) But, of course, the same symbols may not
 have conveyed the same ideas to all peoples. As Blake put it:
 
 <div style="margin-left: 32px">
@@ -388,7 +388,7 @@ therefore, to find that Ashur, like Merodach, resembled, in one of his
 phases, Hercules, or rather his prototype Gilgamesh. One of Gilgamesh's
 mythical feats was the slaying of three demon birds. These may be
 identical with the birds of prey which Hercules, in performing his sixth
-labour, hunted out of Stymphalus. <span id="fr_372"></span>[3](#fn_370)
+labour, hunted out of Stymphalus. <span id="fr_372"></span>[3](#fn_370.md)
 In the Greek Hipparcho-Ptolemy star list Hercules was the constellation
 of the "Kneeler", and in Babylonian-Assyrian astronomy he was (as
 Gilgamesh or Merodach) "Sarru", "the king". The astral "Arrow"
@@ -404,7 +404,7 @@ mythologies the arrow is associated with the sun, the moon, and the
 atmospheric deities, and is a symbol of lightning, rain, and fertility,
 as well as of famine, disease, war, and death. The green-faced goddess
 Neith of Libya, compared by the Greeks to Minerva, carries in one hand
-two arrows and a bow. <span id="fr_373"></span>[1](#fn_371) If we knew
+two arrows and a bow. <span id="fr_373"></span>[1](#fn_371.md) If we knew
 as little of Athena (Minerva), who was armed with a lance, a breastplate
 made of the skin of a goat, a shield, and helmet, as we do of Ashur, it
 might be held that she was simply a goddess of war. The archer in the
@@ -445,7 +445,7 @@ Brahmanism. They established themselves in Madhyadesa, "the Middle
 Country", "the land where the Brahmanas and the later Samhitas were
 produced". From this centre went forth missionaries, who accomplished
 the Brahmanization of the rest of India. <span
-id="fr_374"></span>[1](#fn_372)
+id="fr_374"></span>[1](#fn_372.md)
 
 It may be, therefore, that the cult of Ashur was influenced in its
 development by the doctrines of advanced teachers from Babylonia, and
@@ -480,7 +480,7 @@ greatness, in the length of his branches; for his root was by great
 waters. The cedars in the garden of God could not hide him: the fir
 trees were not like his boughs, and the chestnut trees were not like his
 branches; nor any tree in the garden of God was like unto him in his
-beauty." <span id="fr_375"></span>[1](#fn_373)
+beauty." <span id="fr_375"></span>[1](#fn_373.md)
 
 Asshur, the ancient capital, was famous for its merchants. It is
 referred to in the Bible as one of the cities which traded with Tyre "in
@@ -489,24 +489,24 @@ all sorts of things, in blue
 <span id="page_340">p. 340</span>
 
 clothes, and broidered work, and in chests of rich apparel, bound with
-cords, and made of cedar". <span id="fr_376"></span>[1](#fn_374)
+cords, and made of cedar". <span id="fr_376"></span>[1](#fn_374.md)
 
 As a military power, Assyria's name was dreaded. "Behold," Isaiah said,
 addressing King Hezekiah, "thou hast heard what the kings of Assyria
 have done to all lands by destroying them utterly." <span
-id="fr_377"></span>[2](#fn_375) The same prophet, when foretelling how
+id="fr_377"></span>[2](#fn_375.md) The same prophet, when foretelling how
 Israel would suffer, exclaimed: "O Assyrian, the rod of mine anger, and
 the staff in their hand is mine indignation. I will send him against an
 hypocritical nation, and against the people of my wrath will I give him
 a charge, to take the spoil, and to take the prey, and to tread them
 down like the mire of the streets." <span
-id="fr_378"></span>[3](#fn_376)
+id="fr_378"></span>[3](#fn_376.md)
 
 We expect to find Ashur reflected in these three phases of Assyrian
 civilization. If we recognize him in the first place as a god of
 fertility, his other attributes are at once included. A god of fertility
 is a corn god and a water god. The river as a river was a "creator" ([p.
-29](mba08.htm#page_29)), and Ashur was therefore closely associated with
+29](mba08.htm#page_29).md), and Ashur was therefore closely associated with
 the "watery place", with the canals or "rivers running round about his
 plants". The rippling water-rays, or fertilizing tears, appear on the
 solar discs. As a corn god, he was a god of war. Tammuz's first act was
@@ -526,7 +526,7 @@ mythological reference. The Hebrew
 KNEELING BESIDE A SACRED TREE&lt;br&gt; &lt;i&gt;Marble Slab from N.W.
 Palace of Nimrod: now in British Museum&lt;/i&gt;.&lt;br&gt; Photo.
 Manell](tn/34000.jpg)  
-Click to enlarge](img/34000.jpg)  
+Click to enlarge](img/34000.jpg.md)  
 WINGED DEITIES KNEELING BESIDE A SACRED TREE  
 *Marble Slab from N.W. Palace of Nimrod: now in British Museum*.  
 Photo. Manell  
@@ -561,7 +561,7 @@ As Layard pointed out many years ago, the Assyrians had a sacred tree
 which became conventionalized. It was "an elegant device, in which
 curved branches, springing from a kind of scroll work, terminated in
 flowers of graceful form. As one of the figures last described <span
-id="fr_379"></span>[1](#fn_377) was turned, as if in act of adoration,
+id="fr_379"></span>[1](#fn_377.md) was turned, as if in act of adoration,
 towards this device, it was evidently a sacred emblem; and I recognized
 in it the holy tree, or tree of life, so universally adored at the
 remotest period in the East, and which was preserved in the religious
@@ -570,7 +570,7 @@ systems of the Persians to the final overthrow
 <span id="page_342">p. 342</span>
 
 of their Empire. . . . The flowers were formed by seven petals." <span
-id="fr_380"></span>[1](#fn_378)
+id="fr_380"></span>[1](#fn_378.md)
 
 This tree looks like a pillar, and is thrice crossed by conventionalized
 bull's horns tipped with ring symbols which may be stars, the highest
@@ -581,7 +581,7 @@ evidently the Assyrian tree which was called "the rod" or "staff".
 
 What mythical animals did this tree shelter? Layard found that "the four
 creatures continually introduced on the sculptured walls", were "a man,
-a lion, an ox, and an eagle". <span id="fr_381"></span>[2](#fn_379)
+a lion, an ox, and an eagle". <span id="fr_381"></span>[2](#fn_379.md)
 
 In Sumeria the gods were given human form, but before this stage was
 reached the bull symbolized Nannar (Sin), the moon god, Ninip (Saturn,
@@ -608,19 +608,19 @@ lion's head, human body, and eagle's legs with claws, and also as a
 deity with eagle's head and feather headdress, a human body, wings, and
 feather-fringed robe, carrying in one hand a metal basket on which two
 winged men adored the holy tree, and in the other a fir cone. <span
-id="fr_382"></span>[1](#fn_380)
+id="fr_382"></span>[1](#fn_380.md)
 
 Layard suggested that the latter deity, with eagle's head, was Nisroch,
 "the word Nisr signifying, in all Semitic languages, an eagle". <span
-id="fr_383"></span>[2](#fn_381) This deity is referred to in the Bible:
+id="fr_383"></span>[2](#fn_381.md) This deity is referred to in the Bible:
 "Sennacherib, king of Assyria, . . . was worshipping in the house of
-Nisroch, his god". <span id="fr_384"></span>[3](#fn_382) Professor
+Nisroch, his god". <span id="fr_384"></span>[3](#fn_382.md) Professor
 Pinches is certain that Nisroch is Ashur, but considers that the "ni"
 was attached to "Ashur" (Ashuraku or Ashurachu), as it was to "Marad"
 (Merodach) to give the reading Ni-Marad = Nimrod. The names of heathen
 deities were thus made "unrecognizable, and in all probability
 ridiculous as well. . . . Pious and orthodox lips could pronounce them
-without fear of defilement." <span id="fr_385"></span>[4](#fn_383) At
+without fear of defilement." <span id="fr_385"></span>[4](#fn_383.md) At
 the same time the "Nisr" theory is probable: it may represent another
 phase of this process. The names of heathen gods were not all treated in
 like manner by the Hebrew teachers. Abed-*nebo*, for instance, became
@@ -636,7 +636,7 @@ protruding
 <span id="page_344">p. 344</span>
 
 rays, seems rather far-fetched, because eclipses were disasters and
-indications of divine wrath; <span id="fr_386"></span>[1](#fn_384) it
+indications of divine wrath; <span id="fr_386"></span>[1](#fn_384.md) it
 certainly does not explain why the "rays" should only stretch out
 sideways, like wings, and downward like a tail, why the "rays" should be
 double, like the double wings of cherubs, bulls, &c., and divided into
@@ -663,7 +663,7 @@ man under their wings, . . . their wings were joined one to another; . .
 one to another. . . . Their appearance was like burning coals of fire
 and like the appearance of lamps. . . . The living creatures ran and
 returned as the appearance of a flash of lightning." <span
-id="fr_387"></span>[2](#fn_385)
+id="fr_387"></span>[2](#fn_385.md)
 
 Elsewhere, referring to the sisters, Aholah and Aholibah, who had been
 in Egypt and had adopted unmoral ways of
@@ -673,7 +673,7 @@ in Egypt and had adopted unmoral ways of
 <span id="img_34400"></span> <span align="CENTER"> [![EAGLE-HEADED
 WINGED DEITY (ASHUR)&lt;br&gt; &lt;i&gt;Marble Slab, British
 Museum&lt;/i&gt;.&lt;br&gt; Photo. Mansell](tn/34400.jpg)  
-Click to enlarge](img/34400.jpg)  
+Click to enlarge](img/34400.jpg.md)  
 EAGLE-HEADED WINGED DEITY (ASHUR)  
 *Marble Slab, British Museum*.  
 Photo. Mansell  
@@ -686,7 +686,7 @@ Photo. Mansell
 life, Ezekiel tells that when Aholibah "doted upon the Assyrians" she
 "saw men pourtrayed upon the wall, the images of the Chaldeans
 pourtrayed with vermilion, girded with girdles upon their loins". <span
-id="fr_388"></span>[1](#fn_386) Traces of the red colour on the walls of
+id="fr_388"></span>[1](#fn_386.md) Traces of the red colour on the walls of
 Assyrian temples and palaces have been observed by excavators. The
 winged gods "like burning coals" were probably painted in vermilion.
 
@@ -701,13 +701,13 @@ creatures went, the wheels went by them; and when the living creatures
 were lifted up from the earth, the wheels were lifted up. Whithersoever
 the spirit was to go, they went, thither was their spirit to go; and the
 wheels were lifted up over against them; *for the spirit of the living
-creature was in the wheels*. <span id="fr_389"></span>[2](#fn_387) . . .
+creature was in the wheels*. <span id="fr_389"></span>[2](#fn_387.md) . . .
 And the likeness of the firmament upon the heads of the living creature
 was as the colour of terrible crystal, stretched forth over their heads
 above. . . . And when they went I heard the noise of their wings, like
 the noise of great waters, as the voice of the Almighty, the voice of
 speech, as the noise of an host; when they stood they let down their
-wings. . . ." <span id="fr_390"></span>[3](#fn_388)
+wings. . . ." <span id="fr_390"></span>[3](#fn_388.md)
 
 Another description of the cherubs states: "Their whole body, and their
 backs, and their hands, and their wings, and the wheels, were full of
@@ -719,7 +719,7 @@ about, even the wheels that they four had. As for the wheels, it was
 cried unto them in my hearing, O wheel!"--or, according to a marginal
 rendering, "they were called in my hearing, wheel, or Gilgal," i.e. move
 round. . . . "And the cherubims were lifted up." <span
-id="fr_391"></span>[1](#fn_389)
+id="fr_391"></span>[1](#fn_389.md)
 
 It would appear that the wheel (or hoop, a variant rendering) was a
 symbol of life, and that the Assyrian feather-robed figure which it
@@ -732,10 +732,10 @@ waters". Their bodies were "like burning coals of fire". Fertility gods
 were associated with fire, lightning, and water. Agni of India, Sandan
 of Asia Minor, and Melkarth of Phoenicia were highly developed fire gods
 of fertility. The fire cult was also represented in Sumeria (pp.
-[49](mba09.htm#page_49)-51).
+[49](mba09.htm#page_49)-51.md).
 
 In the Indian epic, the *Mahàbhàrata*, the revolving ring or wheel
-protects the Soma <span id="fr_392"></span>[2](#fn_390) (ambrosia) of
+protects the Soma <span id="fr_392"></span>[2](#fn_390) (ambrosia.md) of
 the gods, on which their existence depends. The eagle giant Garuda sets
 forth to steal it. The gods, fully armed, gather round to protect the
 life-giving drink. Garuda approaches "darkening the worlds by the dust
@@ -762,7 +762,7 @@ Garuda becomes the vehicle of the god Vishnu, who carries the discus,
 another fiery wheel which revolves and returns to the thrower like
 lightning. "And he (Vishnu) made the bird sit on the flagstaff of his
 car, saying: 'Even thus thou shalt stay above me'." <span
-id="fr_393"></span>[1](#fn_391)
+id="fr_393"></span>[1](#fn_391.md)
 
 The Persian god Ahura Mazda hovers above the king in sculptured
 representations of that high dignitary, enclosed in a winged wheel, or
@@ -790,21 +790,21 @@ object below. Above, two dots follow the name of Sandes, and a human arm
 bent 'in adoration' is by the side. . . ." Professor Garstang is here
 dealing with sacred places "on rocky points or hilltops, bearing out the
 suggestion of the sculptures near Boghaz-Keui <span
-id="fr_394"></span>[1](#fn_392), in which there may be reasonably
+id="fr_394"></span>[1](#fn_392.md), in which there may be reasonably
 suspected the surviving traces of mountain cults, or cults of mountain
 deities, underlying the newer religious symbolism". Who the deity is it
 is impossible to say, but "he was identified at some time or other with
-Sandes". <span id="fr_395"></span>[2](#fn_393) It would appear, too,
+Sandes". <span id="fr_395"></span>[2](#fn_393.md) It would appear, too,
 that the god may have been "called by a name which was that used also by
 the priest". Perhaps the priest king was believed to be an incarnation
 of the deity.
 
 Sandes or Sandan was identical with Sandon of Tarsus, "the prototype of
-Attis", <span id="fr_396"></span>[3](#fn_394) who links with the
+Attis", <span id="fr_396"></span>[3](#fn_394.md) who links with the
 Babylonian Tammuz. Sandon's animal symbol was the lion, and he carried
 the "double axe" symbol of the god of fertility and thunder. As
 Professor Frazer has shown in *The Golden Bough*, he links with Hercules
-and Melkarth. <span id="fr_397"></span>[4](#fn_395)
+and Melkarth. <span id="fr_397"></span>[4](#fn_395.md)
 
 All the younger gods, who displaced the elder gods as one year displaces
 another, were deities of fertility, battle, lightning, fire, and the
@@ -834,11 +834,11 @@ of Babylonia", namely, "Shadrach, Meshach, and Abed-nego", refused to
 adore the idol. They were punished by being thrown into "a burning fiery
 furnace", which was heated "seven times more than it was wont to be
 heated". They came forth uninjured. <span
-id="fr_398"></span>[1](#fn_396)
+id="fr_398"></span>[1](#fn_396.md)
 
 In the Koran it is related that Abraham destroyed the images of Chaldean
 gods; he "brake them all in pieces except the biggest of them; that they
-might lay the blame on that". <span id="fr_399"></span>[2](#fn_397)
+might lay the blame on that". <span id="fr_399"></span>[2](#fn_397.md)
 According to the commentators the Chaldæans were at the time "abroad in
 the fields, celebrating a great festival". To punish the offender Nimrod
 had a great pyre erected at Cuthah. "Then they bound Abraham, and
@@ -851,7 +851,7 @@ calendar the
 
 <span class="contnote">\[paragraph continues\]</span> 25th of January to
 commemorate Abraham's escape from Nimrod's pyre. <span
-id="fr_400"></span>[1](#fn_398)
+id="fr_400"></span>[1](#fn_398.md)
 
 It is evident that the Babylonian fire ceremony was observed in the
 spring season, and that human beings were sacrificed to the sun god. A
@@ -866,14 +866,14 @@ and harps: and in battles of shaking will he fight with it. For Tophet
 is ordained of old; yea, for the king it is prepared: he hath made it
 deep and large: the pile thereof is fire and much wood: the breath of
 the Lord, like a stream of brimstone, doth kindle it." <span
-id="fr_401"></span>[2](#fn_399) When Nineveh was about to fall, and with
+id="fr_401"></span>[2](#fn_399.md) When Nineveh was about to fall, and with
 it the Assyrian Empire, the legendary king, Sardanapalus, who was
 reputed to have founded Tarsus, burned himself, with his wives,
 concubines, and eunuchs, on a pyre in his palace. Zimri, who reigned
 over Israel for seven days, "burnt the king's house over him with
-fire" <span id="fr_402"></span>[3](#fn_400). Saul, another fallen king,
+fire" <span id="fr_402"></span>[3](#fn_400.md). Saul, another fallen king,
 was burned after death, and his bones were buried "under the oak in
-Jabesh". <span id="fr_403"></span>[4](#fn_401) In Europe the oak was
+Jabesh". <span id="fr_403"></span>[4](#fn_401.md) In Europe the oak was
 associated with gods of fertility and lightning, including Jupiter and
 Thor. The ceremony of burning Saul is of special interest. Asa, the
 orthodox king of Judah, was, after death, "laid in the bed which was
@@ -968,7 +968,7 @@ upon his head, (saying) thus: 'Thou shalt go and capture the lands in
 the midst'. (He we)nt, he captured the land of Egypt. The rest of the
 lands not submitting (?) to Assur (Ashur) and Sin, the king, the lord of
 kings, shall capture (them)." <span
-id="fr_404"></span>[1](#fn_402)</span>
+id="fr_404"></span>[1](#fn_402.md)</span>
 
 Ashur and Sin are here linked as equals. Associated with them is Nusku,
 the messenger of the gods, who was given prominence in Assyria. The
@@ -985,7 +985,7 @@ of the moon also. Professor
 
 <span class="contnote">\[paragraph continues\]</span> Pinches adds that
 in one inscription "he is identified with Nirig or En-reshtu" (Nin-Girsu
-= Tammuz). <span id="fr_405"></span>[1](#fn_403)The Babylonians and
+= Tammuz). <span id="fr_405"></span>[1](#fn_403.md)The Babylonians and
 Assyrians associated fire and light with moisture and fertility.
 
 The astral phase of the character of Ashur is highly probable. As has
@@ -996,14 +996,14 @@ century B.C. "Linguistically", he says, "the change of Ashir to Ashur
 can be accounted for, but not the transformation of An-shar to Ashur or
 Ashir; so that we must assume the 'etymology' of Ashur, proposed by some
 learned scribe, to be the nature of a play upon the name." <span
-id="fr_406"></span>[2](#fn_404) On the other hand, it is possible that
+id="fr_406"></span>[2](#fn_404.md) On the other hand, it is possible that
 what appears arbitrary to us may have been justified in ancient Assyria
 on perfectly reasonable, or at any rate traditional, grounds. Professor
 Pinches points out that as a sun god, and "at the same time not
 Shamash", Ashur resembled Merodach. "His identification with Merodach,
 if that was ever accepted, may have been due to the likeness of the word
 to Asari, one of the deities' names." <span
-id="fr_407"></span>[3](#fn_405) As Asari, Merodach has been compared to
+id="fr_407"></span>[3](#fn_405.md) As Asari, Merodach has been compared to
 the Egyptian Osiris, who, as the Nile god, was Asar-Hapi. Osiris
 resembles Tammuz and was similarly a corn deity and a ruler of the
 living and the dead, associated with sun, moon, stars, water, and
@@ -1038,9 +1038,9 @@ god of Asshur.
 
 ### Footnotes
 
-<span id="fn_354"></span>[327:1](mba20.htm#fr_356) *Genesis*, x, 11.
+<span id="fn_354"></span>[327:1](mba20.htm#fr_356.md) *Genesis*, x, 11.
 
-<span id="fn_355"></span>[327:2](mba20.htm#fr_357) "A number of tablets
+<span id="fn_355"></span>[327:2](mba20.htm#fr_357.md) "A number of tablets
 have been found in Cappadocia of the time of the Second Dynasty of Ur
 which show marked affinities with Assyria. The divine name Ashir, as in
 early Assyrian texts, the institution of eponyms and many personal names
@@ -1049,157 +1049,157 @@ kinship of peoples. But whether they witness to a settlement in
 Cappadocia from Assyria, or vice versa, is not yet clear." *Ancient
 Assyria*, C. H. W. Johns (Cambridge, 1912), pp. 12-13.
 
-<span id="fn_356"></span>[328:1](mba20.htm#fr_358) Sumerian Ziku,
+<span id="fn_356"></span>[328:1](mba20.htm#fr_358.md) Sumerian Ziku,
 apparently derived from Zi, the spiritual essence of life, the "self
 power" of the Universe.
 
-<span id="fn_357"></span>[328:2](mba20.htm#fr_359) *Peri Archon*, cxxv.
+<span id="fn_357"></span>[328:2](mba20.htm#fr_359.md) *Peri Archon*, cxxv.
 
-<span id="fn_358"></span>[329:1](mba20.htm#fr_360) *Religion of
+<span id="fn_358"></span>[329:1](mba20.htm#fr_360.md) *Religion of
 Babylonia and Assyria*, p. 197 *et seq*.
 
-<span id="fn_359"></span>[330:1](mba20.htm#fr_361) *Julius Cæsar*, act
+<span id="fn_359"></span>[330:1](mba20.htm#fr_361.md) *Julius Cæsar*, act
 iii, scene 1.
 
-<span id="fn_360"></span>[331:1](mba20.htm#fr_362) *Isaiah*, xiv, 4-14.
+<span id="fn_360"></span>[331:1](mba20.htm#fr_362.md) *Isaiah*, xiv, 4-14.
 
-<span id="fn_361"></span>[332:1](mba20.htm#fr_363) *Eddubrott*, ii.
+<span id="fn_361"></span>[332:1](mba20.htm#fr_363.md) *Eddubrott*, ii.
 
-<span id="fn_362"></span>[332:2](mba20.htm#fr_364) *Religion of the
+<span id="fn_362"></span>[332:2](mba20.htm#fr_364.md) *Religion of the
 Ancient Egyptians*, A. Wiedemann, pp. 289-90.
 
-<span id="fn_363"></span>[332:3](mba20.htm#fr_365) *Ibid*., p. 236.
+<span id="fn_363"></span>[332:3](mba20.htm#fr_365.md) *Ibid*., p. 236.
 Atlas was also believed to be in the west.
 
-<span id="fn_364"></span>[332:4](mba20.htm#fr_366) *Primitive
+<span id="fn_364"></span>[332:4](mba20.htm#fr_366.md) *Primitive
 Constellations*, vol. ii, p. 184.
 
-<span id="fn_365"></span>[333:1](mba20.htm#fr_367) *Cuneiform
+<span id="fn_365"></span>[333:1](mba20.htm#fr_367.md) *Cuneiform
 Inscriptions of Western Asia*, xxx, 11.
 
-<span id="fn_366"></span>[333:2](mba20.htm#fr_368) *Isaiah*, xiii, 21.
+<span id="fn_366"></span>[333:2](mba20.htm#fr_368.md) *Isaiah*, xiii, 21.
 For "Satyrs" the Revised Version gives the alternative translation, "or
 he-goats".
 
-<span id="fn_367"></span>[335:1](mba20.htm#fr_369) *Aspects of Religious
+<span id="fn_367"></span>[335:1](mba20.htm#fr_369.md) *Aspects of Religious
 Belief and Practice in Babylonia and Assyria*, p. 120, plate 18 and
 note.
 
-<span id="fn_368"></span>[336:1](mba20.htm#fr_370) *Satapatha Brahmana*,
+<span id="fn_368"></span>[336:1](mba20.htm#fr_370.md) *Satapatha Brahmana*,
 translated by Professor Eggeling, part iv, 1897, p. 371. (*Sacred Books
 of the East*.)
 
-<span id="fn_369"></span>[336:2](mba20.htm#fr_371) *Egyptian Myth and
+<span id="fn_369"></span>[336:2](mba20.htm#fr_371.md) *Egyptian Myth and
 Legend*, pp. 165 *et seq*.
 
-<span id="fn_370"></span>[336:3](mba20.htm#fr_372) *Classic Myth and
+<span id="fn_370"></span>[336:3](mba20.htm#fr_372.md) *Classic Myth and
 Legend*, p. 105. The birds were called "Stymphalides".
 
-<span id="fn_371"></span>[337:1](mba20.htm#fr_373) The so-called
+<span id="fn_371"></span>[337:1](mba20.htm#fr_373.md) The so-called
 "shuttle" of Neith may be a thunderbolt. Scotland's archaic thunder
 deity is a goddess. The bow and arrows suggest a lightning goddess who
 was a deity of war because she was a deity of fertility.
 
-<span id="fn_372"></span>[338:1](mba20.htm#fr_374) *Vedic Index*,
+<span id="fn_372"></span>[338:1](mba20.htm#fr_374.md) *Vedic Index*,
 Macdonell & Keith, vol. ii, pp. 125-6, and vol. i, 168-9.
 
-<span id="fn_373"></span>[339:1](mba20.htm#fr_375) *Ezekiel*, xxxi, 3-8.
+<span id="fn_373"></span>[339:1](mba20.htm#fr_375.md) *Ezekiel*, xxxi, 3-8.
 
-<span id="fn_374"></span>[340:1](mba20.htm#fr_376) *Ezekiel*, xxvii, 23,
+<span id="fn_374"></span>[340:1](mba20.htm#fr_376.md) *Ezekiel*, xxvii, 23,
 24.
 
-<span id="fn_375"></span>[340:2](mba20.htm#fr_377) *Isaiah*, xxxvii, 11.
+<span id="fn_375"></span>[340:2](mba20.htm#fr_377.md) *Isaiah*, xxxvii, 11.
 
-<span id="fn_376"></span>[340:3](mba20.htm#fr_378) *Ibid*., x, 5, 6.
+<span id="fn_376"></span>[340:3](mba20.htm#fr_378.md) *Ibid*., x, 5, 6.
 
-<span id="fn_377"></span>[341:1](mba20.htm#fr_379) A winged human
+<span id="fn_377"></span>[341:1](mba20.htm#fr_379.md) A winged human
 figure, carrying in one hand a basket and in another a fir cone.
 
-<span id="fn_378"></span>[342:1](mba20.htm#fr_380) Layard's *Nineveh*
+<span id="fn_378"></span>[342:1](mba20.htm#fr_380.md) Layard's *Nineveh*
 (1856), p. 44.
 
-<span id="fn_379"></span>[342:2](mba20.htm#fr_381) *Ibid*., p. 309.
+<span id="fn_379"></span>[342:2](mba20.htm#fr_381.md) *Ibid*., p. 309.
 
-<span id="fn_380"></span>[343:1](mba20.htm#fr_382) The fir cone was
+<span id="fn_380"></span>[343:1](mba20.htm#fr_382.md) The fir cone was
 offered to Attis and Mithra. Its association with Ashur suggests that
 the great Assyrian deity resembled the gods of corn and trees and
 fertility.
 
-<span id="fn_381"></span>[343:2](mba20.htm#fr_383) *Nineveh*, p. 47.
+<span id="fn_381"></span>[343:2](mba20.htm#fr_383.md) *Nineveh*, p. 47.
 
-<span id="fn_382"></span>[343:3](mba20.htm#fr_384) *Isaiah*, xxxvii,
+<span id="fn_382"></span>[343:3](mba20.htm#fr_384.md) *Isaiah*, xxxvii,
 37-8.
 
-<span id="fn_383"></span>[343:4](mba20.htm#fr_385) *The Old Testament in
+<span id="fn_383"></span>[343:4](mba20.htm#fr_385.md) *The Old Testament in
 the Light of the Historical Records and Legends of Assyria and
 Babylonia*, pp. 129-30.
 
-<span id="fn_384"></span>[344:1](mba20.htm#fr_386) An eclipse of the sun
+<span id="fn_384"></span>[344:1](mba20.htm#fr_386.md) An eclipse of the sun
 in Assyria on June 15, 763 B.C., was followed by an outbreak of civil
 war.
 
-<span id="fn_385"></span>[344:2](mba20.htm#fr_387) *Ezekiel*, i, 4-14
+<span id="fn_385"></span>[344:2](mba20.htm#fr_387.md) *Ezekiel*, i, 4-14
 
-<span id="fn_386"></span>[345:1](mba20.htm#fr_388) *Ezekiel*, xxiii,
+<span id="fn_386"></span>[345:1](mba20.htm#fr_388.md) *Ezekiel*, xxiii,
 1-15.
 
-<span id="fn_387"></span>[345:2](mba20.htm#fr_389) As the soul of the
+<span id="fn_387"></span>[345:2](mba20.htm#fr_389.md) As the soul of the
 Egyptian god was in the sun disk or sun egg.
 
-<span id="fn_388"></span>[345:3](mba20.htm#fr_390) *Ezekiel*, i, 15-28.
+<span id="fn_388"></span>[345:3](mba20.htm#fr_390.md) *Ezekiel*, i, 15-28.
 
-<span id="fn_389"></span>[346:1](mba20.htm#fr_391) *Ezekiel*, x, 11-5.
+<span id="fn_389"></span>[346:1](mba20.htm#fr_391.md) *Ezekiel*, x, 11-5.
 
-<span id="fn_390"></span>[346:2](mba20.htm#fr_392) Also called "Amrita".
+<span id="fn_390"></span>[346:2](mba20.htm#fr_392.md) Also called "Amrita".
 
-<span id="fn_391"></span>[347:1](mba20.htm#fr_393) The *Mahàbhàrata*
+<span id="fn_391"></span>[347:1](mba20.htm#fr_393.md) The *Mahàbhàrata*
 (*Adi Parva*), Sections xxxiii-iv.
 
-<span id="fn_392"></span>[348:1](mba20.htm#fr_394) Another way of
+<span id="fn_392"></span>[348:1](mba20.htm#fr_394.md) Another way of
 spelling the Turkish name which signifies "village of the pass". The
 deep "gh" guttural is not usually attempted by English speakers. A
 common rendering is "Bog-haz´ Kay-ee", a slight "oo" sound being given
 to the "a" in "Kay"; the "z" sound is hard and hissing.
 
-<span id="fn_393"></span>[348:2](mba20.htm#fr_395) *The Land of the
+<span id="fn_393"></span>[348:2](mba20.htm#fr_395.md) *The Land of the
 Hittites*, J. Garstang, pp. 178 *et seq*.
 
-<span id="fn_394"></span>[348:3](mba20.htm#fr_396) *Ibid*., p. 173.
+<span id="fn_394"></span>[348:3](mba20.htm#fr_396.md) *Ibid*., p. 173.
 
-<span id="fn_395"></span>[348:4](mba20.htm#fr_397) *Adonis, Attis,
+<span id="fn_395"></span>[348:4](mba20.htm#fr_397.md) *Adonis, Attis,
 Osiris*, chaps. v and vi.
 
-<span id="fn_396"></span>[349:1](mba20.htm#fr_398) *Daniel*, iii, 1-26.
+<span id="fn_396"></span>[349:1](mba20.htm#fr_398.md) *Daniel*, iii, 1-26.
 
-<span id="fn_397"></span>[349:2](mba20.htm#fr_399) The story that
+<span id="fn_397"></span>[349:2](mba20.htm#fr_399.md) The story that
 Abraham hung an axe round the neck of Baal after destroying the other
 idols is of Jewish origin.
 
-<span id="fn_398"></span>[350:1](mba20.htm#fr_400) *The Koran*, George
+<span id="fn_398"></span>[350:1](mba20.htm#fr_400.md) *The Koran*, George
 Sale, pp. 245-6.
 
-<span id="fn_399"></span>[350:2](mba20.htm#fr_401) *Isaiah*, xxx, 31-3.
+<span id="fn_399"></span>[350:2](mba20.htm#fr_401.md) *Isaiah*, xxx, 31-3.
 See also for Tophet customs *2 Kings*, xxiii, 10; *Jeremiah*, vii, 31,
 32 and xix, 5-12.
 
-<span id="fn_400"></span>[350:3](mba20.htm#fr_402) *2 Kings*, xvi, 18.
+<span id="fn_400"></span>[350:3](mba20.htm#fr_402.md) *2 Kings*, xvi, 18.
 
-<span id="fn_401"></span>[350:4](mba20.htm#fr_403) *1 Samuel*, xxxi, 12,
+<span id="fn_401"></span>[350:4](mba20.htm#fr_403.md) *1 Samuel*, xxxi, 12,
 13 and *1 Chronicles*, x, 11, 12.
 
-<span id="fn_402"></span>[353:1](mba20.htm#fr_404) *The Old Testament in
+<span id="fn_402"></span>[353:1](mba20.htm#fr_404.md) *The Old Testament in
 the Light of the Historical Records and Legends of Assyria and
 Babylonia*, pp. 201-2.
 
-<span id="fn_403"></span>[354:1](mba20.htm#fr_405) *Babylonian and
+<span id="fn_403"></span>[354:1](mba20.htm#fr_405.md) *Babylonian and
 Assyrian Religion*, pp. 57-8,
 
-<span id="fn_404"></span>[354:2](mba20.htm#fr_406) *Aspects of Religious
+<span id="fn_404"></span>[354:2](mba20.htm#fr_406.md) *Aspects of Religious
 Belief and Practice in Babylonia and Assyria*, p.121.
 
-<span id="fn_405"></span>[354:3](mba20.htm#fr_407) *Babylonian and
+<span id="fn_405"></span>[354:3](mba20.htm#fr_407.md) *Babylonian and
 Assyrian Religion*, p. 86.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Conflicts for Trade and Supremacy](mba21)
+[Next: Chapter XV. Conflicts for Trade and Supremacy](mba21.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl056)  [Next](cohl058) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl056)  [Next](cohl058.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 occurred at this time. The prophecy was then new.
 
 "At that time a woman and her daughter administered a witch-powder <span
-id="fr_48"></span>[1](#fn_48) to a man and he lost his mind. He wandered
+id="fr_48"></span>[1](#fn_48.md) to a man and he lost his mind. He wandered
 off alone and died and thus a great crime was committed.
 
 "Now at that time it was said among the head men, 'We will punish the
@@ -36,11 +36,11 @@ men to punish each other." Eniaiehuk. \[See plate 12.\]
 
 ### Footnotes
 
-<span id="fn_48"></span>[46:1](cohl057.htm#fr_48) Witch-powders were
+<span id="fn_48"></span>[46:1](cohl057.htm#fr_48.md) Witch-powders were
 used for various purposes but generally as poisons or love charms. Their
 use is condemned in section 3 and the punishment of those who use them
 in section 104.
 
 ------------------------------------------------------------------------
 
-[Next: Section 47](cohl058)
+[Next: Section 47](cohl058.md)

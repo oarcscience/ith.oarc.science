@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo47)  [Next](hoo49) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo47)  [Next](hoo49.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ To bless these rites with countenance serene.
 
 ------------------------------------------------------------------------
 
-[Next: XLIV: To Dionysius Bassareus Triennalis](hoo49)
+[Next: XLIV: To Dionysius Bassareus Triennalis](hoo49.md)

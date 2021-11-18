@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn26)  [Next](rmn28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn26)  [Next](rmn28.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,16 +36,16 @@ We will, however, add that, according to Larcher, the phalluses had not
 always the indecent aspect they here bear. They were sometimes
 represented in the form of a cross surmounted with a ring, such as is
 seen on the Isiac Table in the collection of Egyptian Antiquities <span
-id="fr_29"></span>[1](#fn_29) of Caylus. The triple phallus was also
+id="fr_29"></span>[1](#fn_29.md) of Caylus. The triple phallus was also
 represented by a triple cross surmounted with a ring.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_29"></span>[54:1](rmn27.htm#fr_29) *Recueil des Antiquites
+<span id="fn_29"></span>[54:1](rmn27.htm#fr_29.md) *Recueil des Antiquites
 Egyptiennes*.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXVII: Votive Phallus](rmn28)
+[Next: Plate XXVII: Votive Phallus](rmn28.md)

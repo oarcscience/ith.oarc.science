@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl058)  [Next](cohl060) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl058)  [Next](cohl060.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,12 +20,12 @@ take care not to be alone. Be cautious and move secretly.'
 
 "Then the messengers told me that my life journey would be in three
 stages and when I entered the third I would enter into the eternity of
-the New World, <span id="fr_49"></span>[1](#fn_49) the land of our
+the New World, <span id="fr_49"></span>[1](#fn_49.md) the land of our
 Creator. So they said." Eniaiehuk.
 
 2 "The day was bright when I went into the planted field and alone I
 wandered in the planted field and it was the time of the second hoeing.
-Suddenly a damsel <span id="fr_50"></span>[2](#fn_50) appeared and threw
+Suddenly a damsel <span id="fr_50"></span>[2](#fn_50.md) appeared and threw
 her arms about my neck and as she clasped me she spoke saying, 'When you
 leave this earth for the new world above, it is our wish to follow you.'
 I looked for the damsel but saw only the long leaves of corn twining
@@ -40,14 +40,14 @@ only in its beginning.'" Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_49"></span>[47:1](cohl059.htm#fr_49) The heaven described
+<span id="fn_49"></span>[47:1](cohl059.htm#fr_49.md) The heaven described
 by Ganiodai'io\` was called the New World because it had not been
 previously known. The generations before had not gone there, not having
 known the will of the Creator as revealed by the prophet.
 
-<span id="fn_50"></span>[47:2](cohl059.htm#fr_50) See plate 13, the
+<span id="fn_50"></span>[47:2](cohl059.htm#fr_50.md) See plate 13, the
 Spirit of the Corn.
 
 ------------------------------------------------------------------------
 
-[Next: Section 49](cohl060)
+[Next: Section 49](cohl060.md)

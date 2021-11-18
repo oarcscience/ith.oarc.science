@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba14)  [Next](mba16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba14)  [Next](mba16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ governor. Ea, the wise lord, sat also with them. In their hearts the
 gods agreed together to send a great deluge.
 
 "Thereafter Ea made known the purpose of the divine rulers in the hut of
-reeds, saying: <span id="fr_224"></span>[1](#fn_223) 'O hut of
+reeds, saying: <span id="fr_224"></span>[1](#fn_223.md) 'O hut of
 
 <span id="page_191">p. 191</span>
 
@@ -68,7 +68,7 @@ Shurippak, so I must depart unto the domain of Ea and dwell with him . .
 . Unto you will Bel send abundance of rain, so that you may obtain birds
 and fishes in plenty and have a rich harvest. But Shamash hath appointed
 a time for Ramman to pour down destruction from the heavens*.'" <span
-id="fr_225"></span>[1](#fn_224)
+id="fr_225"></span>[1](#fn_224.md)
 
 Ea then gave instructions to Pir-napishtim how to build the ship in
 which he should find refuge. So far as can be gathered from the
@@ -121,7 +121,7 @@ the rising
 <span id="img_19200"></span> <span align="CENTER"> [![THE BABYLONIAN
 DELUGE&lt;br&gt; &lt;i&gt;From the Painting by E.
 Wallcousins&lt;/i&gt;.](tn/19200.jpg)  
-Click to enlarge](img/19200.jpg)  
+Click to enlarge](img/19200.jpg.md)  
 THE BABYLONIAN DELUGE  
 *From the Painting by E. Wallcousins*.  
 </span>
@@ -232,7 +232,7 @@ springs of heaven, and it rained for forty days and forty nights
 continually". The Bronze folk perished: not even those who fled to the
 hilltops could escape. The ark rested on Parnassus, and when the waters
 ebbed the old couple descended the mountain and took up their abode in a
-cave. <span id="fr_226"></span>[1](#fn_225)
+cave. <span id="fr_226"></span>[1](#fn_225.md)
 
 <span id="page_196">p. 196</span>
 
@@ -240,27 +240,27 @@ In Indian mythology the world is destroyed by a flood at the end of each
 Age of the Universe. There are four ages: the Krita or Perfect Age, the
 Treta Age, the Dwapara Age, and the Kali or Wicked Age. These correspond
 closely to the Greek and Celtic ages. <span
-id="fr_227"></span>[1](#fn_226) There are also references in Sanskrit
+id="fr_227"></span>[1](#fn_226.md) There are also references in Sanskrit
 literature to the destruction of the world because too many human beings
 lived upon it. "When the increase of population had been so frightful,"
 a sage related, "the Earth, oppressed with the excessive burden, sank
 down for a hundred Yojanas. Suffering pain in all her limbs, and being
 deprived of her senses by excessive pressure, the Earth in distress
 sought the protection of Narayana, the foremost of the gods." <span
-id="fr_228"></span>[2](#fn_227)
+id="fr_228"></span>[2](#fn_227.md)
 
 Manu's account of the flood has been already referred to ([Chapter
-II](mba08.htm#an_ch-02)). The god in fish shape informed him: "The time
+II](mba08.htm#an_ch-02).md). The god in fish shape informed him: "The time
 is ripe for purging the world. . . . Build a strong and massive ark, and
 furnish it with a long rope. . . ." When the waters rose the horned fish
 towed the ark over the roaring sea, until it grounded on the highest
 peak of the Himavat, which is still called Naubandha (the harbour). Manu
-was accompanied by seven rishis. <span id="fr_229"></span>[3](#fn_228)
+was accompanied by seven rishis. <span id="fr_229"></span>[3](#fn_228.md)
 
 In the Celtic (Irish) account of the flood, Cessair, granddaughter of
 Noah, was refused a chamber for herself in the ark, and fled to the
 western borders of the world as advised by her idol. <span
-id="fr_230"></span>[4](#fn_229) Her fleet consisted of three ships, but
+id="fr_230"></span>[4](#fn_229.md) Her fleet consisted of three ships, but
 two foundered before Ireland was reached. The survivors in addition to
 Cessair were, her father Bith, two other men, Fintan and Ladru, and
 fifty women. All of these perished on the hills except Fintan, who slept
@@ -285,7 +285,7 @@ of corn beer mixed with herbs and human blood. This drink was poured out
 during the night. "And the goddess came in the morning; she found the
 fields inundated, she rejoiced thereat, she drank thereof; her heart was
 rejoiced, she went about drunken and took no more cognizance of
-men." <span id="fr_231"></span>[1](#fn_230)
+men." <span id="fr_231"></span>[1](#fn_230.md)
 
 It is obvious that the Egyptian myth refers to the annual inundation of
 the Nile, the "human blood" in the "beer" being the blood of the slain
@@ -328,7 +328,7 @@ deluge myths were widespread in the "New World".
 The American belief that the first beings who were created were unable
 to live on earth was shared by the Babylonians. According to Berosus the
 first creation was a failure, because the animals could not bear the
-light and they all died. <span id="fr_232"></span>[1](#fn_231) Here we
+light and they all died. <span id="fr_232"></span>[1](#fn_231.md) Here we
 meet with the germs of the Doctrine of the World's Ages, which reached
 its highest development in Indian, Greek, and Celtic (Irish)
 mythologies.
@@ -340,7 +340,7 @@ says Professor Pinches, "a good subject for
 
 comparison with the Babylonian account, with which it agrees so closely
 in all the main points, and from which it differs so much in many
-essential details." <span id="fr_233"></span>[1](#fn_232)
+essential details." <span id="fr_233"></span>[1](#fn_232.md)
 
 The drift of Babylonian culture was not only directed westward towards
 the coast of Palestine, and from thence to Greece during the Phœnician
@@ -368,7 +368,7 @@ calculated in India resembles closely an
 
 astronomical system which obtained in Babylonia, where apparently the
 theory of cosmic periods had origin. <span
-id="fr_234"></span>[1](#fn_233)
+id="fr_234"></span>[1](#fn_233.md)
 
 The various alien peoples, however, who came under the spell of
 Babylonian modes of thought did not remain in a state of intellectual
@@ -385,7 +385,7 @@ Paradise. He is lauded in the Vedic hymns as the explorer of "the path"
 or "way" to the "Land of the Pitris" (Fathers), the Paradise to which
 the Indian uncremated dead walked on foot. Yama never lost his original
 character. He is a traveller in the Epics as in the Vedas. <span
-id="fr_235"></span>[2](#fn_234)
+id="fr_235"></span>[2](#fn_234.md)
 
 <div style="margin-left: 32px">
 
@@ -394,14 +394,14 @@ Him who searched and spied the path for many,
 Son of Vivasvat, gatherer of the people,  
 Yama, the King, with sacrifices worship.  
                                          *Rigveda*, x, 14, 1. <span
-id="fr_236"></span>[3](#fn_235)
+id="fr_236"></span>[3](#fn_235.md)
 
 To Yama, mighty King, be gifts and homage paid,  
 He was the first of men that died, the first to brave  
 Death's rapid rushing stream, the first to point the road  
 To heaven, and welcome others to that bright abode.  
                             *Sir M. Monier Williams' Translation*. <span
-id="fr_237"></span>[4](#fn_236)
+id="fr_237"></span>[4](#fn_236.md)
 
 </div>
 
@@ -412,14 +412,14 @@ Yama and his sister Yamí were the first human pair.
 <span class="contnote">\[paragraph continues\]</span> They are identical
 with the Persian Celestial twins, Yima and Yimeh. Yima resembles Mitra
 (Mithra); Varuna, the twin brother of Mitra, in fact, carries the noose
-associated with the god of death. <span id="fr_238"></span>[1](#fn_237)
+associated with the god of death. <span id="fr_238"></span>[1](#fn_237.md)
 
 The Indian Yama, who was also called Pitripati, "lord of the fathers",
 takes Mitra's place in the Paradise of Ancestors beside Varuna, god of
 the sky and the deep. He sits below a tree, playing on a flute and
 drinking the Soma drink which gives immortality. When the descendants of
 Yama reached Paradise they assumed shining forms "refined and from all
-taint set free". <span id="fr_239"></span>[2](#fn_238)
+taint set free". <span id="fr_239"></span>[2](#fn_238.md)
 
 In Persian mythology "Yima", says Professor Moulton, "reigns over a
 community which may well have been composed of his own descendants, for
@@ -459,7 +459,7 @@ thereafter cloven with a golden arrow. Yima then built a refuge in which
 mankind and the domesticated animals might find shelter during a
 terrible winter. "The picture", says Professor Moulton, "strongly tempts
 us to recognize the influence of the Babylonian Flood Legend." <span
-id="fr_240"></span>[1](#fn_239) The "Fimbul winter" of Germanic
+id="fr_240"></span>[1](#fn_239.md) The "Fimbul winter" of Germanic
 mythology is also recalled. Odin asks in one of the Icelandic Eddic
 poems:
 
@@ -467,7 +467,7 @@ poems:
 
 <span class="small">What beings shall live when the long dread winter  
    Comes o’er the people of earth? <span
-id="fr_241"></span>[2](#fn_240)</span>
+id="fr_241"></span>[2](#fn_240.md)</span>
 
 </div>
 
@@ -499,7 +499,7 @@ great world serpent" (Tiamat). The fields will be sown and "Balder will
 
 <span id="page_203">p. 203</span>
 
-come" <span id="fr_242"></span>[1](#fn_241)--apparently as Tammuz came.
+come" <span id="fr_242"></span>[1](#fn_241.md)--apparently as Tammuz came.
 The association of Balder with corn suggests that, like Nata of the
 Nahua tribes, he was a harvest spirit, among other things.
 
@@ -512,7 +512,7 @@ Pir-napishtim, who escaped destruction at the Flood, resides in an
 Island Paradise, which resembles the Greek "Islands of the Blessed", and
 the Irish "Tir nan og" or "Land of the Young", situated in the western
 ocean, and identical with the British <span
-id="fr_243"></span>[2](#fn_242)
+id="fr_243"></span>[2](#fn_242.md)
 
 <div style="margin-left: 32px">
 
@@ -522,7 +522,7 @@ Where falls not hail, or rain, or any snow,
 Nor ever wind blows loudly, but it lies  
 Deep meadow’d, happy, fair with orchard lawns  
 And bowery hollows crowned with summer sea. <span
-id="fr_244"></span>[3](#fn_243)</span>
+id="fr_244"></span>[3](#fn_243.md)</span>
 
 </div>
 
@@ -535,7 +535,7 @@ Babylonian dead. All mankind were doomed to enter the gloomy Hades of
 the Underworld, "the land of darkness and the shadow of death; a land of
 darkness, as darkness itself; and of the shadow of death, without any
 order, and where the light is darkness", as Job exclaimed in the hour of
-despair, lamenting his fate. <span id="fr_245"></span>[4](#fn_244)
+despair, lamenting his fate. <span id="fr_245"></span>[4](#fn_244.md)
 
 <span id="page_204">p. 204</span>
 
@@ -564,12 +564,12 @@ Thou shalt weeping have in the stead of joy,
   And sore burden bear with tears. . . .  
 May madness and shrieking, bondage and yearning  
   Burden thee with bondage and tears. <span
-id="fr_246"></span>[1](#fn_245)</span>
+id="fr_246"></span>[1](#fn_245.md)</span>
 
 </div>
 
 In like manner, too, the inhabitants of the Indian Hell suffered endless
-and complicated tortures. <span id="fr_247"></span>[2](#fn_246)
+and complicated tortures. <span id="fr_247"></span>[2](#fn_246.md)
 
 The Persephone of the Babylonian Underworld was Eresh-ki-gal, who was
 also called Allatu. A myth, which was found among the Egyptian
@@ -655,7 +655,7 @@ Among the ancient Romans the primitive belief survived that the spirit
 of the dead "just sank into the earth where it rested, and returned from
 time to time to the upper world through certain openings in the ground
 (mundi), whose solemn uncovering was one of the regular observances of
-the festal calendar". <span id="fr_248"></span>[1](#fn_247)
+the festal calendar". <span id="fr_248"></span>[1](#fn_247.md)
 
 According to Babylonian belief, the dead who were not properly buried
 roamed through the streets searching for food, eating refuse and
@@ -695,7 +695,7 @@ desire this more than the lust for food and meat which all men have:
 this is our life and manner of living in the darkness of our tombs.'"
 When Alexander desired to make a gift to these Brahmans, and asked them
 what they desired most, their answer was, "Give us immortality". <span
-id="fr_249"></span>[1](#fn_248)
+id="fr_249"></span>[1](#fn_248.md)
 
 In the Gilgamesh epic the only ray of hope which relieves the gloomy
 closing passages is Ea-bani's suggestion that the sufferings endured by
@@ -712,7 +712,7 @@ His shade has no rest in the earth
 Whose shade no one cares for . . .  
 What is left over in the pot, remains of rood  
 That are thrown in the street, he eats." <span
-id="fr_250"></span>[2](#fn_249)  
+id="fr_250"></span>[2](#fn_249.md)  
                                                 *Gilgamesh Epic*.</span>
 
 </div>
@@ -749,7 +749,7 @@ enjoyable articles", and also "sweet, juicy, agreeable and delicious
 edibles . . . floral wreaths of the most delicious fragrance, and trees
 that yield fruits that are desired of them". Thither go "all sinners
 among human beings, as also (those) that have died during the winter
-solstice" <span id="fr_251"></span>[1](#fn_250)--a suggestion that this
+solstice" <span id="fr_251"></span>[1](#fn_250.md)--a suggestion that this
 
 <span id="page_210">p. 210</span>
 
@@ -792,7 +792,7 @@ hundred and twenty loaves of bread, one hundred and twenty measures of
 corn, a garment, a kid, a bed, and a seat." The reformer reduced the
 perquisites to "three urns of wine, eighty loaves of bread, a bed, and a
 kid, while the fee of his (the priest's) assistant was cut down from
-sixty to thirty measures of corn". <span id="fr_252"></span>[1](#fn_251)
+sixty to thirty measures of corn". <span id="fr_252"></span>[1](#fn_251.md)
 
 The conservative element in Babylonian religion is reflected by the
 burial customs. These did not change greatly after the Neolithic period.
@@ -810,7 +810,7 @@ dead. This charm-wearing custom was condemned by the Hebrew teachers. On
 one occasion Jacob commanded his household to "put away the strange gods
 which were in their hand, and all the ear-rings which were in their
 ears; and Jacob buried them under the oak which was by Shechem". <span
-id="fr_253"></span>[2](#fn_252) To Jacob, personal ornaments had quite
+id="fr_253"></span>[2](#fn_252.md) To Jacob, personal ornaments had quite
 evidently an idolatrous significance.
 
 "A very typical class of grave furniture", writes Mr.
@@ -829,12 +829,12 @@ similarly adorned with charms. In the course of the daily service in the
 Egyptian temples an important ceremony was "dressing the god with white,
 green, bright-red, and dark-red sashes, and supplying two kinds of
 ointment and black and green eye paint". <span
-id="fr_254"></span>[1](#fn_253) In the word-picture of the Aryo-Indian
+id="fr_254"></span>[1](#fn_253.md) In the word-picture of the Aryo-Indian
 Varuna's heaven in the *Mahàbhàrata* the deity is depicted "attired in
 celestial robes and decked with celestial ornaments and jewels". His
 attendants, the Adityas, appear "adorned with celestial garlands and
 perfumed with celestial scents and besmeared with paste of celestial
-fragrance". <span id="fr_255"></span>[2](#fn_254) Apparently the
+fragrance". <span id="fr_255"></span>[2](#fn_254.md) Apparently the
 "paste", like the face paint of the Babylonians and Egyptians, had
 protective qualities. The Picts of Scotland may have similarly painted
 themselves to charm their bodies against magical influences and the
@@ -869,22 +869,22 @@ they resolved to send a flood, by addressing the reed hut in which
 Pir-napishtim lay asleep. Possibly it was believed that the dead might
 also have visions in their dreams which would reveal the "purpose" of
 demons who were preparing to attack them. In Syria it was customary to
-wrap the dead in a sheep skin. <span id="fr_256"></span>[1](#fn_255) As
+wrap the dead in a sheep skin. <span id="fr_256"></span>[1](#fn_255.md) As
 priests and gods were clad in the skins of animals from which their
 powers were derived, it is probable that the dead were similarly
 supposed to receive inspiration in their skin coverings. The Highland
 seer was wrapped in a bull's skin and left all night beside a stream so
 as to obtain knowledge of the future. This was a form of the Taghairm
 ceremony, which is referred to by Scott in his "Lady of the Lake". <span
-id="fr_257"></span>[2](#fn_256) The belief in the magical influence of
+id="fr_257"></span>[2](#fn_256.md) The belief in the magical influence of
 sacred clothing gave origin to the priestly robes. When David desired to
 ascertain what Saul intended to do he said, "Bring hither the ephod".
 
 <span id="page_214">p. 214</span>
 
 Then he came to know that his enemy had resolved to attack Keilah. <span
-id="fr_258"></span>[1](#fn_257) Elisha became a prophet when he received
-Elijah's mantle. <span id="fr_259"></span>[2](#fn_258)
+id="fr_258"></span>[1](#fn_257.md) Elisha became a prophet when he received
+Elijah's mantle. <span id="fr_259"></span>[2](#fn_258.md)
 
 Sometimes the bodies of the Sumerians were placed in sarcophagi of clay.
 The earlier type was of "bath-tub" shape, round and flat-bottomed, with
@@ -894,7 +894,7 @@ was ornamented with charms. There is a close resemblance between the
 shape found in Third and Fourth Dynasty tombs in rock chambers near
 Nuerat. Certain designs on wooden coffins, and tombs as early as the
 First Dynasty, have direct analogies in Babylonia. <span
-id="fr_260"></span>[3](#fn_259)
+id="fr_260"></span>[3](#fn_259.md)
 
 No great tombs were erected in Sumeria. The coffins were usually laid in
 brick vaults below dwellings, or below temples, or in trenches outside
@@ -905,7 +905,7 @@ is a specimen of mound burial.
 
 According to Herodotus the Babylonians "buried their dead in honey, and
 had funeral lamentations like the Egyptians". <span
-id="fr_261"></span>[4](#fn_260) The custom of preserving the body in
+id="fr_261"></span>[4](#fn_260.md) The custom of preserving the body in
 this manner does not appear to have been an ancient one, and may have
 resulted from cultural contact with the Nile valley during the late
 Assyrian period. So long as the bones were undisturbed, the spirit was
@@ -918,7 +918,7 @@ grave in Stratford church:
 <span id="img_21400"></span> <span align="CENTER"> [![SLIPPER-SHAPED
 COFFIN MADE OF GLAZED EARTHENWARE&lt;br&gt; (&lt;i&gt;British
 Museum&lt;/i&gt;)&lt;br&gt; Photo. Mansell](tn/21400.jpg)  
-Click to enlarge](img/21400.jpg)  
+Click to enlarge](img/21400.jpg.md)  
 SLIPPER-SHAPED COFFIN MADE OF GLAZED EARTHENWARE  
 (*British Museum*)  
 Photo. Mansell  
@@ -951,9 +951,9 @@ left for birds and beasts of prey to devour.
 
 The demons that plagued the dead might also attack the living. A
 fragmentary narrative, which used to be referred to as the "Cuthean
-Legend of Creation", <span id="fr_262"></span>[1](#fn_261) and has been
+Legend of Creation", <span id="fr_262"></span>[1](#fn_261.md) and has been
 shown by Mr. L. W. King to have no connection with the struggle between
-Merodach and the dragon, <span id="fr_263"></span>[2](#fn_262) deals
+Merodach and the dragon, <span id="fr_263"></span>[2](#fn_262.md) deals
 with a war waged by an ancient king against a horde of evil spirits, led
 by "the lord of heights, lord of the Anunaki (earth spirits)". Some of
 the supernatural warriors had bodies like birds; others had "raven
@@ -981,85 +981,85 @@ seasonal attacks against the living.
 
 ### Footnotes
 
-<span id="fn_223"></span>[190:1](mba15.htm#fr_224) Ea addresses the hut
+<span id="fn_223"></span>[190:1](mba15.htm#fr_224.md) Ea addresses the hut
 in which his human favourite, Pir-napishtim, slept. His message was
 conveyed to this man in a dream.
 
-<span id="fn_224"></span>[191:1](mba15.htm#fr_225) The second sentence
+<span id="fn_224"></span>[191:1](mba15.htm#fr_225.md) The second sentence
 of Ea's speech is conjectural, as the lines are mutilated.
 
-<span id="fn_225"></span>[195:1](mba15.htm#fr_226) *The Muses' Pageant*,
+<span id="fn_225"></span>[195:1](mba15.htm#fr_226.md) *The Muses' Pageant*,
 W. M. L. Hutchinson, pp. 5 *et seq*.
 
-<span id="fn_226"></span>[196:1](mba15.htm#fr_227) Indian Myth and
+<span id="fn_226"></span>[196:1](mba15.htm#fr_227.md) Indian Myth and
 Legend, pp. 107 *et seq*.
 
-<span id="fn_227"></span>[196:2](mba15.htm#fr_228) *Vana Parva* section
+<span id="fn_227"></span>[196:2](mba15.htm#fr_228.md) *Vana Parva* section
 of the *Mahàbhàrata* (Roy's trans.), p. 425.
 
-<span id="fn_228"></span>[196:3](mba15.htm#fr_229) *Indian Myth and
+<span id="fn_228"></span>[196:3](mba15.htm#fr_229.md) *Indian Myth and
 Legend*, p. 141.
 
-<span id="fn_229"></span>[196:4](mba15.htm#fr_230) *Book of Leinster*,
+<span id="fn_229"></span>[196:4](mba15.htm#fr_230.md) *Book of Leinster*,
 and Keating's *History of Ireland*, p. 150 (1811 ed.).
 
-<span id="fn_230"></span>[197:1](mba15.htm#fr_231) *Religion of the
+<span id="fn_230"></span>[197:1](mba15.htm#fr_231.md) *Religion of the
 Ancient Egyptians*, H. Wiedemann, pp. 58 *et seq*.
 
-<span id="fn_231"></span>[198:1](mba15.htm#fr_232) Pinches' *The
+<span id="fn_231"></span>[198:1](mba15.htm#fr_232.md) Pinches' *The
 Religion of Babylonia and Assyria*, p. 42.
 
-<span id="fn_232"></span>[199:1](mba15.htm#fr_233) The problems involved
+<span id="fn_232"></span>[199:1](mba15.htm#fr_233.md) The problems involved
 are discussed from different points of view by Mr. L. W. King in
 *Babylonian Religion* (Books on Egypt and Chaldæa, vol. iv), Professor
 Pinches in *The Old Testament in the Light of the Historical Records and
 Legends of Assyria and Babylonia*, and other vols.
 
-<span id="fn_233"></span>[200:1](mba15.htm#fr_234) *Primitive
+<span id="fn_233"></span>[200:1](mba15.htm#fr_234.md) *Primitive
 Constellations*, vol. i, pp. 334-5.
 
-<span id="fn_234"></span>[200:2](mba15.htm#fr_235) *Indian Myth and
+<span id="fn_234"></span>[200:2](mba15.htm#fr_235.md) *Indian Myth and
 Legend*, chap. iii.
 
-<span id="fn_235"></span>[200:3](mba15.htm#fr_236) Professor Macdonell's
+<span id="fn_235"></span>[200:3](mba15.htm#fr_236.md) Professor Macdonell's
 translation.
 
-<span id="fn_236"></span>[200:4](mba15.htm#fr_237) *Indian Wisdom*.
+<span id="fn_236"></span>[200:4](mba15.htm#fr_237.md) *Indian Wisdom*.
 
-<span id="fn_237"></span>[201:1](mba15.htm#fr_238) "Varuna, the deity
+<span id="fn_237"></span>[201:1](mba15.htm#fr_238.md) "Varuna, the deity
 bearing the noose as his weapon", *Sabha Parva* section of the
 *Mahàbhàrata* (Roy's trans.), p. 29.
 
-<span id="fn_238"></span>[201:2](mba15.htm#fr_239) Indian Myth and
+<span id="fn_238"></span>[201:2](mba15.htm#fr_239.md) Indian Myth and
 Legend, pp. 38-42.
 
-<span id="fn_239"></span>[202:1](mba15.htm#fr_240) *Early Religious
+<span id="fn_239"></span>[202:1](mba15.htm#fr_240.md) *Early Religious
 Poetry of Persia*, J. H. Moulton, pp. 41 *et seq*. and 154 *et seq*.
 
-<span id="fn_240"></span>[202:2](mba15.htm#fr_241) *The Elder Edd*a, O.
+<span id="fn_240"></span>[202:2](mba15.htm#fr_241.md) *The Elder Edd*a, O.
 Bray, p. 55.
 
-<span id="fn_241"></span>[203:1](mba15.htm#fr_242) *The Elder Edda*, O.
+<span id="fn_241"></span>[203:1](mba15.htm#fr_242.md) *The Elder Edda*, O.
 Bray, pp. 291 *et seq*.
 
-<span id="fn_242"></span>[203:2](mba15.htm#fr_243) *Celtic Myth and
+<span id="fn_242"></span>[203:2](mba15.htm#fr_243.md) *Celtic Myth and
 Legend*, pp. 133 *et seq*.
 
-<span id="fn_243"></span>[203:3](mba15.htm#fr_244) Tennyson's *The
+<span id="fn_243"></span>[203:3](mba15.htm#fr_244.md) Tennyson's *The
 Passing of Arthur*.
 
-<span id="fn_244"></span>[203:4](mba15.htm#fr_245) *Job*, x, 1-22.
+<span id="fn_244"></span>[203:4](mba15.htm#fr_245.md) *Job*, x, 1-22.
 
-<span id="fn_245"></span>[204:1](mba15.htm#fr_246) *The Elder Edda*, O.
+<span id="fn_245"></span>[204:1](mba15.htm#fr_246.md) *The Elder Edda*, O.
 Bray, pp. 150-1.
 
-<span id="fn_246"></span>[204:2](mba15.htm#fr_247) *Indian Myth and
+<span id="fn_246"></span>[204:2](mba15.htm#fr_247.md) *Indian Myth and
 Legend*, p. 326.
 
-<span id="fn_247"></span>[207:1](mba15.htm#fr_248) *The Religion of
+<span id="fn_247"></span>[207:1](mba15.htm#fr_248.md) *The Religion of
 Ancient Rome*, Cyril Bailey, p. 50.
 
-<span id="fn_248"></span>[208:1](mba15.htm#fr_249) *The Life and
+<span id="fn_248"></span>[208:1](mba15.htm#fr_249.md) *The Life and
 Exploits of Alexander the Great* (Ethiopic version of the Pseudo
 Callisthenes), pp. 133-4. The conversation possibly never took place,
 but it is of interest in so far as it reflects beliefs which were
@@ -1067,28 +1067,28 @@ familiar to the author of this ancient work. His Brahmans evidently
 believed that immortality was denied to ordinary men, and reserved only
 for the king, who was the representative of the deity, of course.
 
-<span id="fn_249"></span>[208:2](mba15.htm#fr_250) *Aspects of Religious
+<span id="fn_249"></span>[208:2](mba15.htm#fr_250.md) *Aspects of Religious
 Belief and Practice in Babylonia and Assyria*, Morris Jastrow, pp.
 358-9.
 
-<span id="fn_250"></span>[209:1](mba15.htm#fr_251) The *Mahàbhàrata*
+<span id="fn_250"></span>[209:1](mba15.htm#fr_251.md) The *Mahàbhàrata*
 (*Sabha Parva* section), Roy 's translation, pp. 25-7.
 
-<span id="fn_251"></span>[211:1](mba15.htm#fr_252) *A History of Sumer
+<span id="fn_251"></span>[211:1](mba15.htm#fr_252.md) *A History of Sumer
 and Akkad*, L. W. King, pp. 181-2.
 
-<span id="fn_252"></span>[211:2](mba15.htm#fr_253) *Genesis*, xxxv, 2-4.
+<span id="fn_252"></span>[211:2](mba15.htm#fr_253.md) *Genesis*, xxxv, 2-4.
 
-<span id="fn_253"></span>[212:1](mba15.htm#fr_254) *The Religion of
+<span id="fn_253"></span>[212:1](mba15.htm#fr_254.md) *The Religion of
 Ancient Egypt*, W. M. Flinders Petrie, p. 72.
 
-<span id="fn_254"></span>[212:2](mba15.htm#fr_255) *Sabha Parva* section
+<span id="fn_254"></span>[212:2](mba15.htm#fr_255.md) *Sabha Parva* section
 of the *Mahàbhàrata* (Roy's trans.), p. 29.
 
-<span id="fn_255"></span>[213:1](mba15.htm#fr_256) *Egyptian Myth and
+<span id="fn_255"></span>[213:1](mba15.htm#fr_256.md) *Egyptian Myth and
 Legend*, p. 214.
 
-<span id="fn_256"></span>[213:2](mba15.htm#fr_257) Canto iv:--
+<span id="fn_256"></span>[213:2](mba15.htm#fr_257.md) Canto iv:--
 
 <div style="margin-left: 32px">
 
@@ -1100,25 +1100,25 @@ Duncraggan's milk-white bull they slew. . .</span>
 
 </div>
 
-<span id="fn_257"></span>[214:1](mba15.htm#fr_258) *1 Samuel*, xxiii,
+<span id="fn_257"></span>[214:1](mba15.htm#fr_258.md) *1 Samuel*, xxiii,
 9-11.
 
-<span id="fn_258"></span>[214:2](mba15.htm#fr_259) *1 Kings*, xix, 19
+<span id="fn_258"></span>[214:2](mba15.htm#fr_259.md) *1 Kings*, xix, 19
 and *2 Kings*, ii, 13-15.
 
-<span id="fn_259"></span>[214:3](mba15.htm#fr_260) *The Burial Customs
+<span id="fn_259"></span>[214:3](mba15.htm#fr_260.md) *The Burial Customs
 of Ancient Egypt*, John Garstang, pp. 28, 29 (London, 1907).
 
-<span id="fn_260"></span>[214:4](mba15.htm#fr_261) *Herod*., book i,
+<span id="fn_260"></span>[214:4](mba15.htm#fr_261.md) *Herod*., book i,
 198.
 
-<span id="fn_261"></span>[215:1](mba15.htm#fr_262) *Records of the Past*
+<span id="fn_261"></span>[215:1](mba15.htm#fr_262.md) *Records of the Past*
 (old series), xi, pp. 109 *et seq*., and (new series), vol. i, pp. 149
 *et seq*.
 
-<span id="fn_262"></span>[215:2](mba15.htm#fr_263) L. W. King's *The
+<span id="fn_262"></span>[215:2](mba15.htm#fr_263.md) L. W. King's *The
 Seven Tablets of Creation*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Buildings and Laws and Customs of Babylon](mba16)
+[Next: Chapter X. Buildings and Laws and Customs of Babylon](mba16.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgln1) [Next](tgln3)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](tgln1) [Next](tgln3.md)
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------------------
 
-<span id="1"></span>**The Cosmic Spirit. [Dissertation 1](tgl1.htm#dis).
+<span id="1"></span>**The Cosmic Spirit. [Dissertation 1](tgl1.htm#dis.md).
 Pp. 2-30**
 
 *Epitome.*
@@ -34,12 +34,12 @@ importance. Spirit, material substances, volition and mind are elemental
 conditions. Splendid examples are given of those who are governed by the
 Cosmic Spirit and those who are under the domination of the Senses.
 
-{[return to text](tgl1.htm#dis)}
+{[return to text](tgl1.htm#dis.md)}
 
 ------------------------------------------------------------------------
 
 <span id="2"></span>**Beginning and Reality. [Dissertation
-2](tgl2.htm#dis). Pp. 32-58**
+2](tgl2.htm#dis.md). Pp. 32-58**
 
 \(i\) *Epitome*.
 
@@ -205,11 +205,11 @@ breathings of life, on every hand. It was possible to feel, grasp and
 see, and to follow outward phenomena. They could be distinguished and
 counted.
 
-{[return to text](tgl2.htm#dis)}
+{[return to text](tgl2.htm#dis.md)}
 
 ------------------------------------------------------------------------
 
-<span id="3"></span>**Life and Soul. [Dissertation 3](tgl3.htm#dis). Pp.
+<span id="3"></span>**Life and Soul. [Dissertation 3](tgl3.htm#dis.md). Pp.
 58-78**
 
 \(i\) *Elucidation*.
@@ -341,11 +341,11 @@ real happiness and the true knowledge.
    21. The warning is—get at the root of things. Don't bother with
 etiquette and ceremonies. These cut the wrong way.
 
-{[return to text](tgl3.htm#dis)}
+{[return to text](tgl3.htm#dis.md)}
 
 ------------------------------------------------------------------------
 
-<span id="4"></span>**Natural Law. [Dissertation 4](tgl4.htm#dis). Pp.
+<span id="4"></span>**Natural Law. [Dissertation 4](tgl4.htm#dis.md). Pp.
 79-100**
 
 \(i\) *Elucidation*.
@@ -472,12 +472,12 @@ and the modern. The original purpose of all the above was constructive
 and not destructive, helpful and joyful to the community, rather than
 the contrary.
 
-{[return to text](tgl4.htm#dis)}
+{[return to text](tgl4.htm#dis.md)}
 
 ------------------------------------------------------------------------
 
 <span id="6"></span>**Influence of the Cosmic Spirit. [Dissertation
-6](tgl6.htm#dis). Pp. 143-180.**
+6](tgl6.htm#dis.md). Pp. 143-180.**
 
 *Epitome and Analysis.*
 
@@ -551,11 +551,11 @@ or, in the words of the classic, "they have a scale for themselves."
    The conclusion is that nations and individuals, whether they belong
 to the nobility or the commons, must follow the Tao as the law of life.
 
-{[return to text](tgl6.htm#dis)}
+{[return to text](tgl6.htm#dis.md)}
 
 ------------------------------------------------------------------------
 
-<span id="7"></span>**Generalship. [Dissertation 7](tgl7.htm#dis). Pp.
+<span id="7"></span>**Generalship. [Dissertation 7](tgl7.htm#dis.md). Pp.
 182-218.**
 
 *Summary.*
@@ -674,12 +674,12 @@ the men. And this comradeship is of incalculable value in war. They
 should be well-educated and cultivate the habit of a healthy life, both
 physical and moral.
 
-{[return to text](tgl7.htm#dis)}
+{[return to text](tgl7.htm#dis.md)}
 
 ------------------------------------------------------------------------
 
 <span id="8"></span>**Endeavour and Duty. [Dissertation
-8](tgl8.htm#dis). Pp. 219-242.**
+8](tgl8.htm#dis.md). Pp. 219-242.**
 
 *Epitome.*
 
@@ -755,11 +755,11 @@ exercise. Here follow illustrations of the powers of education. If
 progress is slow, there must be no discouragement. In the end, if there
 is no stopping half way in education, there will be results.
 
-{[return to text](tgl8.htm#dis)}
+{[return to text](tgl8.htm#dis.md)}
 
 ------------------------------------------------------------------------
 
-[Next](tgln3)
+[Next](tgln3.md)
 
  
 

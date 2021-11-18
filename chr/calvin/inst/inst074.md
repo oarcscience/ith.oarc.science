@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst073)  [Next](inst075) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst073)  [Next](inst075.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ grace. And if by grace, then it is no more of works: otherwise grace is
 no more grace. But if it be of works, then it is no more grace:
 otherwise work is no more work,” (<span
 id="iv.iii.xxii-p11.1"></span>[Rom.
-11:6](../../../bib/kjv/rom011.htm#006)<span
+11:6](../../../bib/kjv/rom011.htm#006.md)<span
 id="iv.iii.xxii-p11.1"></span>). If to make it appear that our salvation
 flows entirely from the good mercy of God, we must be carried back to
 the origin of election, then those who would extinguish it, wickedly do
@@ -106,7 +106,7 @@ confidence. This we say on the authority of Christ, who, to deliver us
 from all fear, and render us invincible amid our many dangers, snares
 and mortal conflicts, promises safety to all that the Father has taken
 under his protection (<span id="iv.iii.xxii-p11.2"></span>[John
-10:26](../../../bib/kjv/joh010.htm#026)<span
+10:26](../../../bib/kjv/joh010.htm#026.md)<span
 id="iv.iii.xxii-p11.2"></span>). From this we infer, that all who know
 not that they are the peculiar people of God, must be wretched from
 perpetual trepidation, and that those therefore, who, by overlooking the
@@ -131,7 +131,7 @@ matter. First, then, when they inquire into predestination, let then
 remember that they are penetrating into the recesses of the divine
 wisdom, where he who rushes forward securely and confidently, instead of
 satisfying his curiosity will enter in inextricable labyrinth.49  <span
-id="fr_489"></span>[490](#fn_489) For it is not right that man should
+id="fr_489"></span>[490](#fn_489.md) For it is not right that man should
 with impunity pry into things which the Lord has been pleased to conceal
 within himself, and scan that sublime eternal wisdom which it is his
 pleasure that we should not apprehend but adore, that therein also his
@@ -146,7 +146,7 @@ and knowledge. For our Lord Jesus Christ did not speak invidiously to
 his great and most select disciples when he said, ‘I have yet many
 things to say unto you, but ye cannot bear them now,’ (<span
 id="iv.iii.xxii-p14.1"></span>[John
-16:12](../../../bib/kjv/joh016.htm#012)<span
+16:12](../../../bib/kjv/joh016.htm#012.md)<span
 id="iv.iii.xxii-p14.1"></span>). We must walk, advance, increase, that
 our hearts may be able to comprehend those things which they cannot now
 comprehend. But if the last day shall find us making progress, we shall
@@ -168,7 +168,7 @@ even fatal to aspire. If an unrestrained imagination urges us, our
 proper course is to oppose it with these words, “It is not good to eat
 much honey: so for men to search their own glory is not glory,” (<span
 id="iv.iii.xxii-p14.2"></span>[Prov.
-25:27](../../../bib/kjv/pro025.htm#027)<span
+25:27](../../../bib/kjv/pro025.htm#027.md)<span
 id="iv.iii.xxii-p14.2"></span>). There is good reason to dread a
 presumption which can only plunge us headlong into ruin.
 
@@ -198,7 +198,7 @@ The danger which they dread is not so great that we ought on account of
 it to turn away our minds from the oracles of God. There is a celebrated
 saying of Solomon, “It is the glory of God to conceal a thing,” (<span
 id="iv.iii.xxii-p15.1"></span>[Prov.
-25:2](../../../bib/kjv/pro025.htm#002)<span
+25:2](../../../bib/kjv/pro025.htm#002.md)<span
 id="iv.iii.xxii-p15.1"></span>). But since both piety and common sense
 dictate that this is not to be understood of every thing, we must look
 for a distinction, lest under the pretence of modesty and sobriety we be
@@ -206,7 +206,7 @@ satisfied with a brutish ignorance. This is clearly expressed by Moses
 in a few words, “The secret things belong unto the Lord our God: but
 those things which are revealed belong unto us, and to our children for
 ever,” (<span id="iv.iii.xxii-p15.2"></span>[Deut.
-29:29](../../../bib/kjv/deu029.htm#029)<span
+29:29](../../../bib/kjv/deu029.htm#029.md)<span
 id="iv.iii.xxii-p15.2"></span>). We see how he exhorts the people to
 study the doctrine of the law in accordance with a heavenly decree,
 because God has been pleased to promulgate it, while he at the same time
@@ -282,8 +282,8 @@ separated the sons of Adam, he set the bounds of the people according to
 the number of the children of Israel. For the Lord’s portion is his
 people; Jacob is the lot of his inheritance,” (<span
 id="iv.iii.xxii-p17.1"></span>[Deut.
-32:8](../../../bib/kjv/deu032.htm#008),
-[9](../../../bib/kjv/deu032.htm#009)<span
+32:8](../../../bib/kjv/deu032.htm#008.md),
+[9](../../../bib/kjv/deu032.htm#009.md)<span
 id="iv.iii.xxii-p17.1"></span>). The separation is before the eyes of
 all; in the person of Abraham, as in a withered stock, one people is
 specially chosen, while the others are rejected; but the cause does not
@@ -292,30 +292,30 @@ glorying, tells them that their superiority was owing entirely to the
 free love of God. The cause which he assigns for their deliverance is,
 “Because he loved thy fathers, therefore he chose their seed after
 them,” (<span id="iv.iii.xxii-p17.2"></span>[Deut.
-4:37](../../../bib/kjv/deu004.htm#037)<span
+4:37](../../../bib/kjv/deu004.htm#037.md)<span
 id="iv.iii.xxii-p17.2"></span>); or more explicitly in another chapter,
 “The Lord did not set his love upon you, nor choose you, because you
 were more in number than any people: for ye were the fewest of all
 people: but because the Lord loved you,” (<span
 id="iv.iii.xxii-p17.3"></span>[Deut.
-7:7](../../../bib/kjv/deu007.htm#007),
-[8](../../../bib/kjv/deu007.htm#008)<span
+7:7](../../../bib/kjv/deu007.htm#007.md),
+[8](../../../bib/kjv/deu007.htm#008.md)<span
 id="iv.iii.xxii-p17.3"></span>). He repeatedly makes the same
 intimations, “Behold, the heaven, and the heaven of heavens is the
 Lord’s thy God, the earth also, with all that therein is. Only the Lord
 had a delight in thy fathers to love them, and he chose their seed after
 them,” (<span id="iv.iii.xxii-p17.4"></span>[Deut.
-10:14](../../../bib/kjv/deu010.htm#014),
-[15](../../../bib/kjv/deu010.htm#015)<span
+10:14](../../../bib/kjv/deu010.htm#014.md),
+[15](../../../bib/kjv/deu010.htm#015.md)<span
 id="iv.iii.xxii-p17.4"></span>). Again, in another passage, holiness is
 enjoined upon them, because they have been chosen to be a peculiar
 people; while in another, love is declared to be the cause of their
 protection (<span id="iv.iii.xxii-p17.5"></span>[Deut.
-23:5](../../../bib/kjv/deu023.htm#005)<span
+23:5](../../../bib/kjv/deu023.htm#005.md)<span
 id="iv.iii.xxii-p17.5"></span>). This, too, believers with one voice
 proclaim, “He shall choose our inheritance for us, the excellency of
 Jacob, whom he loved,” (<span id="iv.iii.xxii-p17.6"></span>[Ps.
-47:4](../../../bib/kjv/psa047.htm#004)<span
+47:4](../../../bib/kjv/psa047.htm#004.md)<span
 id="iv.iii.xxii-p17.6"></span>). The endowments with which God had
 adorned them, they all ascribe to gratuitous love, not only because they
 knew that they had not obtained them by any merit, but that not even was
@@ -324,7 +324,7 @@ distinguished honor for himself and his posterity. And the more
 completely to crush all pride, he upbraids them with having merited
 nothing of the kind, seeing they were a rebellious and stiff-necked
 people (<span id="iv.iii.xxii-p17.7"></span>[Deut.
-9:6](../../../bib/kjv/deu009.htm#006)<span
+9:6](../../../bib/kjv/deu009.htm#006.md)<span
 id="iv.iii.xxii-p17.7"></span>). Often, also, do the prophets remind the
 Jews of this election by way of disparagement and opprobrium, because
 they had shamefully revolted from it. Be this as it may, let those who
@@ -341,7 +341,7 @@ recalled whenever thanks are to be returned to God, or their hopes of
 the future to be animated. “The Lord he is God,” says the Psalmist; “it
 is he that has made us, and not we ourselves: we are his people, and the
 sheep of his pasture,” (<span id="iv.iii.xxii-p17.8"></span>[Ps.
-100:3](../../../bib/kjv/psa100.htm#003)<span
+100:3](../../../bib/kjv/psa100.htm#003.md)<span
 id="iv.iii.xxii-p17.8"></span>; 95:7). The negation which is added, “not
 we ourselves,” is not superfluous, to teach us that God is not only the
 author of all the good qualities in which men excel, but that they
@@ -350,7 +350,7 @@ honor. In the following words also they are enjoined to rest satisfied
 with the mere good pleasure of God: “O ye seed of Abraham, his servant;
 ye children of Jacob, his chosen,” (<span
 id="iv.iii.xxii-p17.9"></span>[Ps.
-105:6](../../../bib/kjv/psa105.htm#006)<span
+105:6](../../../bib/kjv/psa105.htm#006.md)<span
 id="iv.iii.xxii-p17.9"></span>). And after an enumeration of the
 continual mercies of God as fruits of election, the conclusion is, that
 he acted thus kindly because he remembered his covenant. With this
@@ -359,37 +359,37 @@ possession by their own sword, neither did their own arm save them; but
 thy right hand, and thine arm, and the light of thy countenance, because
 thou hadst a favor unto them,” (<span
 id="iv.iii.xxii-p17.10"></span>[Ps.
-44:3](../../../bib/kjv/psa044.htm#003)<span
+44:3](../../../bib/kjv/psa044.htm#003.md)<span
 id="iv.iii.xxii-p17.10"></span>). It is to be observed, that when the
 land is mentioned, it is a visible symbol of the secret election in
 which adoption is comprehended. To like gratitude David elsewhere
 exhorts the people, “Blessed is the nation whose God is the Lord, and
 the people whom he has chosen for his own inheritance,” (<span
 id="iv.iii.xxii-p17.11"></span>[Ps.
-33:12](../../../bib/kjv/psa033.htm#012)<span
+33:12](../../../bib/kjv/psa033.htm#012.md)<span
 id="iv.iii.xxii-p17.11"></span>). Samuel thus animates their hopes, “The
 Lord will not forsake his people for his great name’s sake: because it
 has pleased the Lord to make you his people,” (<span
 id="iv.iii.xxii-p17.12"></span>[1 Sam.
-12:22](../../../bib/kjv/sa1012.htm#022)<span
+12:22](../../../bib/kjv/sa1012.htm#022.md)<span
 id="iv.iii.xxii-p17.12"></span>). And when David’s faith is assailed,
 how does he arm himself for the battle? “Blessed is the man whom thou
 choosest, and causes to approach unto thee, that he may dwell in thy
 courts,” (<span id="iv.iii.xxii-p17.13"></span>[Ps.
-65:4](../../../bib/kjv/psa065.htm#004)<span
+65:4](../../../bib/kjv/psa065.htm#004.md)<span
 id="iv.iii.xxii-p17.13"></span>). But as the hidden election of God was
 confirmed both by a first and second election, and by other intermediate
 mercies, Isaiah thus applies the terms “The Lord will have mercy on
 Jacob, and will yet choose Israel,” (<span
 id="iv.iii.xxii-p17.14"></span>[Isa.
-14:1](../../../bib/kjv/isa014.htm#001)<span
+14:1](../../../bib/kjv/isa014.htm#001.md)<span
 id="iv.iii.xxii-p17.14"></span>). Referring to a future period, the
 gathering together of the dispersion, who seemed to have been abandoned,
 he says, that it will be a sign of a firm and stable election,
 notwithstanding of the apparent abandonment. When it is elsewhere said,
 “I have chosen thee, and not cast thee away,” (<span
 id="iv.iii.xxii-p17.15"></span>[Isa.
-41:9](../../../bib/kjv/isa041.htm#009)<span
+41:9](../../../bib/kjv/isa041.htm#009.md)<span
 id="iv.iii.xxii-p17.15"></span>), the continual course of his great
 liberality is ascribed to paternal kindness. This is stated more
 explicitly in Zechariah by the angel, the Lord “shall choose Jerusalem
@@ -411,8 +411,8 @@ similar example in the rejection of Saul. This is also celebrated in the
 psalm, “Moreover he refused the tabernacle of Joseph, and chose not the
 tribe of Ephraim: but chose the tribe of Judah,” (<span
 id="iv.iii.xxii-p18.1"></span>[Ps.
-78:67](../../../bib/kjv/psa078.htm#067),
-[68](../../../bib/kjv/psa078.htm#068)<span
+78:67](../../../bib/kjv/psa078.htm#067.md),
+[68](../../../bib/kjv/psa078.htm#068.md)<span
 id="iv.iii.xxii-p18.1"></span>). This the sacred history sometimes
 repeats that the secret grace of God may be more admirably displayed in
 that change. I admit that it was by their own fault Ishmael, Esau, and
@@ -423,7 +423,7 @@ this, that he had been pleased to prefer them to other nations; as it is
 said in the psalm, “He has not dealt so with any nation: and as for his
 judgments, they have not known them,” (<span
 id="iv.iii.xxii-p18.2"></span>[Ps.
-147:20](../../../bib/kjv/psa147.htm#020)<span
+147:20](../../../bib/kjv/psa147.htm#020.md)<span
 id="iv.iii.xxii-p18.2"></span>). But I had good reason for saying that
 two steps are here to be observed; for in the election of the whole
 nation, God had already shown that in the exercise of his mere
@@ -435,8 +435,8 @@ human race, but set peculiarly apart from a sacred household; they
 perfidiously and impiously spurn God their beneficent parent. “Was not
 Esau Jacob’s brother? saith the Lord: yet I loved Jacob, and I hated
 Esau,” (<span id="iv.iii.xxii-p18.3"></span>[Mal.
-1:2](../../../bib/kjv/mal001.htm#002),
-[3](../../../bib/kjv/mal001.htm#003)<span
+1:2](../../../bib/kjv/mal001.htm#002.md),
+[3](../../../bib/kjv/mal001.htm#003.md)<span
 id="iv.iii.xxii-p18.3"></span>). For God takes it for granted, that as
 both were the sons of a holy father, and successors of the covenant, in
 short, branches from a sacred root, the sons of Jacob were under no
@@ -451,13 +451,13 @@ rejects others, his gratuitous election has only been partially
 explained until we come to the case of single individuals, to whom God
 not only offers salvation, but so assigns it, that the certainty of the
 result remains not dubious or suspended.49  <span
-id="fr_490"></span>[491](#fn_490) These are considered as belonging to
+id="fr_490"></span>[491](#fn_490.md) These are considered as belonging to
 that one seed of which Paul makes mention (<span
 id="iv.iii.xxii-p20.3"></span>[Rom.
-9:8](../../../bib/kjv/rom009.htm#008)<span
+9:8](../../../bib/kjv/rom009.htm#008.md)<span
 id="iv.iii.xxii-p20.3"></span>; <span
 id="iv.iii.xxii-p20.4"></span>[Gal.
-3:16](../../../bib/kjv/gal003.htm#016)<span
+3:16](../../../bib/kjv/gal003.htm#016.md)<span
 id="iv.iii.xxii-p20.4"></span>, &c). For although adoption was deposited
 in the hand of Abraham, yet as many of his posterity were cut off as
 rotten members, in order that election may stand and be effectual, it is
@@ -469,10 +469,10 @@ in the members of Christ there is a far more excellent display of grace,
 because those ingrafted into him as their head never fail to obtain
 salvation. Hence Paul skillfully argues from the passage of Malachi
 which I quoted (<span id="iv.iii.xxii-p20.5"></span>[Rom.
-9:13](../../../bib/kjv/rom009.htm#013)<span
+9:13](../../../bib/kjv/rom009.htm#013.md)<span
 id="iv.iii.xxii-p20.5"></span>; <span
 id="iv.iii.xxii-p20.6"></span>[Mal.
-1:2](../../../bib/kjv/mal001.htm#002)<span
+1:2](../../../bib/kjv/mal001.htm#002.md)<span
 id="iv.iii.xxii-p20.6"></span>), that when God, after making a covenant
 of eternal life, invites any people to himself, a special mode of
 election is in part understood, so that he does not with promiscuous
@@ -483,7 +483,7 @@ to the fact, that in the person of one man is set before us a specimen
 of election, which cannot fail of accomplishing its object. It is not
 without cause Paul observes, that these are called *a remnant* (<span
 id="iv.iii.xxii-p20.7"></span>[Rom.
-9:27](../../../bib/kjv/rom009.htm#027)<span
+9:27](../../../bib/kjv/rom009.htm#027.md)<span
 id="iv.iii.xxii-p20.7"></span>; 11:5); because experience shows that of
 the general body many fall away and are lost, so that often a small
 portion only remains. The reason why the general election of the people
@@ -539,26 +539,26 @@ God.
 
 ### Footnotes
 
-<span id="fn_489"></span>[490](inst074.htm#fr_489) <span
+<span id="fn_489"></span>[490](inst074.htm#fr_489.md) <span
 id="iv.iii.xxii-p12.1"></span>
 
 <span id="iv.iii.xxii-p13"></span>96 496 Thus Eck boasts that he had
 written of predestination to exercise his youthful spirits.
 
-<span id="fn_490"></span>[491](inst074.htm#fr_490) <span
+<span id="fn_490"></span>[491](inst074.htm#fr_490.md) <span
 id="iv.iii.xxii-p19.1"></span>
 
 <span id="iv.iii.xxii-p20"></span>97 497 On predestination, see the
 pious and very learned obsesrvations of Luther, tom. 1 p. 86, fin., and
 p. 87, fin. Tom. 3 ad <span id="iv.iii.xxii-p20.1"></span>[Psal.
-22:8](../../../bib/kjv/psa022.htm#008)<span
+22:8](../../../bib/kjv/psa022.htm#008.md)<span
 id="iv.iii.xxii-p20.1"></span>. Tom. 5 in Joann. 117. Also his Prefatio
 in Epist. ad Rom. and Adv. Erasmum de Servo Arbitrio, p. 429, sqq. 452,
 463. Also in <span id="iv.iii.xxii-p20.2"></span>[Psal.
-139](../../../bib/kjv/psa139.htm#000)<span
+139](../../../bib/kjv/psa139.htm#000.md)<span
 id="iv.iii.xxii-p20.2"></span>.
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 22. - THIS DOCTRINE CONFIRMED BY PROOFS FROM
-SCRIPTURE.](inst075)
+SCRIPTURE.](inst075.md)

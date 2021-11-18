@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss20)  [Next](oss22) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss20)  [Next](oss22.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ came, like the sound of winds, to Cluba's woody vale.
 "Darkness dwells in Cluba of harps! the race of kings is distant far: in
 battle is my father Conmor; and Lormar, my brother, king of streams. Nor
 darkening alone are they; a beam from other lands is nigh; the friend of
-strangers  <span id="fr_60"></span>[1](#fn_60) in Atha, the troubler of
+strangers  <span id="fr_60"></span>[1](#fn_60.md) in Atha, the troubler of
 the field. High from their misty hills looks forth the blue eyes of
 Erin, for he is far away, young dweller of their souls! Nor harmless,
 white hands of Erin! is Cathmor
@@ -163,9 +163,9 @@ Come from the watching night Malvina, lonely beam!
 
 ### Footnotes
 
-<span id="fn_60"></span>[276:1](oss21.htm#fr_60) The friend of
+<span id="fn_60"></span>[276:1](oss21.htm#fr_60.md) The friend of
 strangers: Cathmor, the son of Borbar-duthol.
 
 ------------------------------------------------------------------------
 
-[Next: The War of Inis-thona](oss22)
+[Next: The War of Inis-thona](oss22.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shb02)  [Next](shb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shb02)  [Next](shb04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -90,7 +90,7 @@ Hyye, from \[Exod. xxv. 9\]: "In accordance with all that I show thee,
 the pattern of the tabernacle, and the pattern of all the instruments
 thereof, even so shall ye make it," which last phrase means for the
 future generations (otherwise this phrase would be superfluous). <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 "*When two thanks-offerings*," etc. There is a Boraitha that
 
@@ -168,7 +168,7 @@ going to bed. But this seems hardly credible, as he himself said
 somewhere that none should cure one's self with the verses of the Torah.
 The answer is that protecting and curing are two different things, and
 he prohibited to say such verses over a wound. <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 "*Followed by the two thanks-offerings*," etc. Shall we assume that the
 thanks-offerings follow the court, when we read \[Ne'hem. xii. 31, 32\]:
@@ -435,20 +435,20 @@ a *doubtful* case and hence he should not be liable? Said R. Johanan:
 Here the Tana regards the doubtful cognition as a certain one. Resh
 Lakish, however, said: This Boraitha is in accordance with R. Ismael,
 who holds that antecedent cognition is not requisite. <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_5"></span>[18:1](shb03.htm#fr_5) Rabha's objection thereto
+<span id="fn_5"></span>[18:1](shb03.htm#fr_5.md) Rabha's objection thereto
 is already translated in Sanhedrim.
 
-<span id="fn_6"></span>[20:1](shb03.htm#fr_6) See Sanhedrim.
+<span id="fn_6"></span>[20:1](shb03.htm#fr_6.md) See Sanhedrim.
 
-<span id="fn_7"></span>[26:1](shb03.htm#fr_7) The further discussion
+<span id="fn_7"></span>[26:1](shb03.htm#fr_7.md) The further discussion
 will appear in Tract Kerithoth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](shb04)
+[Next: Chapter III](shb04.md)

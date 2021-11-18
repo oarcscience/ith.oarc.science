@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](arw03)  [Next](arw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](arw03)  [Next](arw05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabian Wisdom*, by John Wortabet, \[1913\], at Intangible Textual
 Heritage
 
@@ -25,8 +25,8 @@ the Sovereign of the day of judgment. Thee alone we worship, and from
 Thee alone we seek help. Guide us to the right path—the path of them to
 whom Thou hast been gracious—not of them with whom Thou art angry, nor
 of them who have gone astray. Amen. <span
-id="fr_3"></span>[1](arw05.htm#fn_3)
+id="fr_3"></span>[1](arw05.htm#fn_3.md)
 
 ------------------------------------------------------------------------
 
-[Next: Repentance, and God's Forgiving Mercy](arw05)
+[Next: Repentance, and God's Forgiving Mercy](arw05.md)

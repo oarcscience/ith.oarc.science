@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva00)  [Next](rva02) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva00)  [Next](rva02.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### I. Vitzilopochtli icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Vitzilopuchi, yaquetlaya, yyaconay, ynohuihuihuia: anenicuic,
 toçiquemitla, yya, ayya, yya y ya uia, queyanoca, oya tonaqui, yyaya,
@@ -196,4 +196,4 @@ description.
 
 ------------------------------------------------------------------------
 
-[Next: II. War Song of the Huitznahuac](rva02) 
+[Next: II. War Song of the Huitznahuac](rva02.md) 

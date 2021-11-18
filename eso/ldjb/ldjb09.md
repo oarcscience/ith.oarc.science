@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb08)  [Next](ldjb10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb08)  [Next](ldjb10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ the heat became imprisoned in corporeity and could no
 longer generate its own life. From this cause death then entered into
 nature, and nature degenerated. Consequently another creation of light
 had to be inaugurated, and without that the earth would have had to
-remain in eternal death." <span id="fr_20"></span>[1](#fn_20) (*Aurora*,
+remain in eternal death." <span id="fr_20"></span>[1](#fn_20.md) (*Aurora*,
 xvii. 2; iv. 15.)
 
 Everything in nature was to bloom out and become newly-born, as may be
@@ -61,19 +61,19 @@ to extract from them at the end of this time their heart and kernel, and
 to separate them from the wrath and death, and then that which had thus
 been regenerated was to bloom eternally, and to bear again celestial
 fruits outside of and beyond the locality of this world." <span
-id="fr_21"></span>[2](#fn_21) (*Aurora*, xxiv. 2 5.)
+id="fr_21"></span>[2](#fn_21) (*Aurora*, xxiv. 2 5..md)
 
 "The same *sal-nitre*" (the material basis or foundation), "which at the
 time of the ignition of the wrath perished in death, has at the time of
 regeneration been raised in the flash of fire. It has not become
 anything new, but merely another form of corporeity, which is now in a
 state of death" (existing relatively to us as gross matter). <span
-id="fr_22"></span>[3](#fn_22) (*Aurora*, xxii. 80.)
+id="fr_22"></span>[3](#fn_22) (*Aurora*, xxii. 80..md)
 
 The outcast spirits, having produced in nature a state of ignition, God
 gathered together the essence of that nature, and thereby He withdrew it
 from the reach of those powers, putting a stop to their insolence by
-means of water. <span id="fr_23"></span>[4](#fn_23)
+means of water. <span id="fr_23"></span>[4](#fn_23.md)
 
 <span id="page_124">p. 124</span>
 
@@ -106,7 +106,7 @@ power, God permitted that the prince of this world ignited those five
 kingdoms with fire and sulphur. But while the devil imagined to be lord
 in that place, and to have there his dwelling, God thought of breaking
 his pride; He caused water to come there, and thus He extinguished his
-glory." <span id="fr_24"></span>[1](#fn_24) (*Threefold Life*, viii.
+glory." <span id="fr_24"></span>[1](#fn_24.md) (*Threefold Life*, viii.
 24.)
 
 <span id="page_125">p. 125</span>
@@ -130,14 +130,14 @@ substance of the earth, and within the whole depth of this world; and in
 the substance of light, the light of nature from heaven—*i.e.*, out of
 the fifth essence, arose that whereof the constellation was created.
 This essence is everywhere, in the earth and above the earth." <span
-id="fr_25"></span>[1](#fn_25) (*Aurora*, xii. 15.)
+id="fr_25"></span>[1](#fn_25) (*Aurora*, xii. 15..md)
 
  
 
 By means of this new creation of the light, the new life had begun to
 stir everywhere; but this creation, in accordance with the number of the
 divine spirits which were active thereby, arrived at a state of
-perfection only on the seventh day. <span id="fr_26"></span>[2](#fn_26)
+perfection only on the seventh day. <span id="fr_26"></span>[2](#fn_26.md)
 
 "When God spoke the word, Let there be light, the essence, the being
 within the quality of the light, stirred not only within the earth, but
@@ -160,7 +160,7 @@ in that time six times within the great wheel." (*Aurora*, xxi. 123.)
 the actual regiment, but the seventh, or the essentiality, is that
 wherein the others are resting; for these qualities have been spoken out
 by God and rendered visible." (*Mysterium*, xii. 2.) <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
  
 
@@ -227,7 +227,7 @@ were born grasses and
 <span id="page_128">p. 128</span>
 
 herbs and trees, and at the same time there were also formed gold and
-silver and ores of various kinds. <span id="fr_28"></span>[1](#fn_28)
+silver and ores of various kinds. <span id="fr_28"></span>[1](#fn_28.md)
 
 "On the second day God separated the watery and the fiery mercury from
 each other, and called the fiery one the firmament of heaven. Then in
@@ -344,7 +344,7 @@ to go to God. Of this foundation it is said (*Hiob*. xiv. 15) that
 <span id="page_131">p. 131</span>
 
 even the heavens are not pure before God, but on the day of judgment the
-wrath shall be swept therefrom." <span id="fr_29"></span>[1](#fn_29)
+wrath shall be swept therefrom." <span id="fr_29"></span>[1](#fn_29.md)
 (*Aurora*, xx. 41.)
 
 "At the time of creation another light, the sun, was awakened in this
@@ -418,7 +418,7 @@ puts his power into them, and this power constitutes their heart."
 
 Especially have the seven planets become objective by means of the sun,
 and in accordance with and corresponding to the seven forms of
-nature. <span id="fr_30"></span>[1](#fn_30)
+nature. <span id="fr_30"></span>[1](#fn_30.md)
 
 <span id="page_133">p. 133</span>
 
@@ -477,7 +477,7 @@ life, such as animals and men, birds, fishes, and worms." (*Aurora*, xx.
 produced creatures in all the four elements, such as birds in the
 constellation of the air, fishes in the constellation of the water,
 animals and four-legged beings in the constellation of earth, and
-spirits in that of the fire." <span id="fr_31"></span>[1](#fn_31)
+spirits in that of the fire." <span id="fr_31"></span>[1](#fn_31.md)
 (*Mysterium*, xliv. 1.)
 
  
@@ -504,7 +504,7 @@ The matrix of the earth gave the body, and the stars the spirit."
 power of its longing, became mixed with the watery one, there resulted
 two senses from one and the same essence. The one, the male, in a fiery,
 and the other, the female, in a watery shape (state)." <span
-id="fr_32"></span>[1](#fn_32) (*Three Principles*, viii. 43.)
+id="fr_32"></span>[1](#fn_32) (*Three Principles*, viii. 43..md)
 
  
 
@@ -517,7 +517,7 @@ to generate out of his own body creatures of his own kind; but in the
 midst of the time there was to be born out of the body of a man the King
 of all men, and He was to take possession of the new kingdom as a ruler
 over these created beings, in the place of the degenerated and outcast
-Lucifer." <span id="fr_33"></span>[2](#fn_33) (*Aurora*, xxiv. 18.)
+Lucifer." <span id="fr_33"></span>[2](#fn_33) (*Aurora*, xxiv. 18..md)
 
 Man, however, was to surpass the angels (in perfection), for he was to
 be a complete image of divine glory, while the angels have been created
@@ -539,7 +539,7 @@ i. 263.)
 surpass them in celestial wisdom. They are fire-flames, illumined by the
 light of God, but we attain the great fountain of meekness and love
 which is welling up within the holy essentiality of God." <span
-id="fr_34"></span>[1](#fn_34) (*Menschwerdung*, i. 5.)
+id="fr_34"></span>[1](#fn_34) (*Menschwerdung*, i. 5..md)
 
  
 
@@ -569,7 +569,7 @@ body grows, is the third principle." (*Three Principles*, vii. 26.)
 "The *soul*, or the first principle, is founded on the fire of eternal
 nature; the *spirit*, or the second principle, roots in the light; and
 the *body* is the third principle, or the substantiality of the visible
-world." <span id="fr_35"></span>[1](#fn_35) (*Tabulæ Principiæ*, 65.)
+world." <span id="fr_35"></span>[1](#fn_35) (*Tabulæ Principiæ*, 65..md)
 
  
 
@@ -583,7 +583,7 @@ external being, are that external world. You are a little world formed
 out of the large one, and your external light is a *chaos* of the sun
 and the constellation of stars. If this were not so, you would not be
 able to see by means of the light of the sun." <span
-id="fr_36"></span>[2](#fn_36) (*Mysterium*, ii. 5.)
+id="fr_36"></span>[2](#fn_36) (*Mysterium*, ii. 5..md)
 
 "If man, as the image of God, is to rule over the fishes and fowls, the
 animals, and the whole of the earth, as well as over the essence of all
@@ -632,7 +632,7 @@ the essences from the pure element." (*Three Principles*, xxii. 15.)
 The expression that God created man from a clod of clay is not to be
 taken in any other sense than that God, by means of desire, drew
 together all the terrestrial qualities. <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
 <span id="page_139">p. 139</span>
 
@@ -650,7 +650,7 @@ elements." (*Grace*, v. 27.)
 
 But the essence of the soul, being rooted in that whole, did not become
 manifest in man before God awakened it by the breath of His word. <span
-id="fr_38"></span>[1](#fn_38)
+id="fr_38"></span>[1](#fn_38.md)
 
 "The sourcive spirits within the whole could not become immediately
 ignited by the soul, for the soul was only as a seed within the whole,
@@ -669,53 +669,53 @@ stir within the depths.
 
 ### Footnotes
 
-<span id="fn_20"></span>[123:1](ldjb09.htm#fr_20) "Lucifer" is to be
+<span id="fn_20"></span>[123:1](ldjb09.htm#fr_20.md) "Lucifer" is to be
 regarded not as a separate being within this world, but as a power
 penetrating the whole of the visible universe, in the same sense as that
 universe may now be regarded as being the body of universal spiritual
 man.
 
-<span id="fn_21"></span>[123:2](ldjb09.htm#fr_21) In other words, the
+<span id="fn_21"></span>[123:2](ldjb09.htm#fr_21.md) In other words, the
 tendency of the spiritual principle is to spiritualise and illumine
 everything by becoming active therein.
 
-<span id="fn_22"></span>[123:3](ldjb09.htm#fr_22) In the same sense the
+<span id="fn_22"></span>[123:3](ldjb09.htm#fr_22.md) In the same sense the
 power of a seed to develop into a tree may remain latent for many years
 until the conditions present themselves for its manifestation.
 
-<span id="fn_23"></span>[123:4](ldjb09.htm#fr_23) Thus the fire of
+<span id="fn_23"></span>[123:4](ldjb09.htm#fr_23.md) Thus the fire of
 passion is subdued in man by the "water" of eternal life distilled from
 humility, which baptizes the soul and tranquillises the turbulent
 elements.
 
-<span id="fn_24"></span>[124:1](ldjb09.htm#fr_24) This goes to show the
+<span id="fn_24"></span>[124:1](ldjb09.htm#fr_24.md) This goes to show the
 intimate relations existing between the spiritual and the material
 worlds. There is a "spiritual" and a "material" water, both of which are
 merely manifestations of the one element.
 
-<span id="fn_25"></span>[125:1](ldjb09.htm#fr_25) The same takes place
+<span id="fn_25"></span>[125:1](ldjb09.htm#fr_25.md) The same takes place
 within the heart of man when his mind becomes illumined by the light of
 divine wisdom that arises from the divine centre in him.
 
-<span id="fn_26"></span>[125:2](ldjb09.htm#fr_26) The seventh "day" for
+<span id="fn_26"></span>[125:2](ldjb09.htm#fr_26.md) The seventh "day" for
 our planet is always and nevertheless it has not yet arrived, because
 the six days belong to time and the seventh to eternity.
 
-<span id="fn_27"></span>[126:1](ldjb09.htm#fr_27) The six "days" are the
+<span id="fn_27"></span>[126:1](ldjb09.htm#fr_27.md) The six "days" are the
 activities of the seven forms of eternal nature, the seventh is their
 centre or rest, or the "temperature." In the seventh, "God" appears as
 the "Christ." (See *Grace*, iii. 39.)
 
-<span id="fn_28"></span>[128:1](ldjb09.htm#fr_28) Three is the number of
+<span id="fn_28"></span>[128:1](ldjb09.htm#fr_28.md) Three is the number of
 form, and therefore on the third "day," and by means of the third
 principle, three dimensional forms (there can be no other) came (and
 continue to come) into objective existence.
 
-<span id="fn_29"></span>[131:1](ldjb09.htm#fr_29) Man judges himself.
+<span id="fn_29"></span>[131:1](ldjb09.htm#fr_29.md) Man judges himself.
 According to his conscience will turn the scales of the balance. The
 judgment-day appears when the judging spirits awaken in him.
 
-<span id="fn_30"></span>[132:1](ldjb09.htm#fr_30) All the illumined
+<span id="fn_30"></span>[132:1](ldjb09.htm#fr_30.md) All the illumined
 philosophers of the past speak of only seven planets, and if we accept
 the possibility of spiritual perception and agree that this <span
 id="page_133">p. 133</span> perception was true, then there can be no
@@ -724,14 +724,14 @@ two may be looked upon as excrescences, or shadows, as would also appear
 from the maleficent influence of at least one of these, which is known
 to astrologers.
 
-<span id="fn_31"></span>[134:1](ldjb09.htm#fr_31) For explicit details
+<span id="fn_31"></span>[134:1](ldjb09.htm#fr_31.md) For explicit details
 regarding the inhabitants of the elemental world see Paracelsus. The
 existence of such beings will become more comprehensible if we remember
 that the universe is an organised unity, and that each form therein,
 whether it is visible or invisible to us, is nothing but a relative
 expanse of manifestation of the consciousness that resides in the All.
 
-<span id="fn_32"></span>[135:1](ldjb09.htm#fr_32) All this refers not
+<span id="fn_32"></span>[135:1](ldjb09.htm#fr_32.md) All this refers not
 only to beings such as are visible to us, but likewise to such that
 exist on other planes of creation, and which can therefore not be seen
 with our eyes. There are male and female elemental beings, *moll* and
@@ -740,7 +740,7 @@ of nature, from the spiritual down to the most material plane. In all
 creatures the will is the executing and female, corporifying, and the
 imagination the superintending, directing, male element.
 
-<span id="fn_33"></span>[135:2](ldjb09.htm#fr_33) In regard to the
+<span id="fn_33"></span>[135:2](ldjb09.htm#fr_33.md) In regard to the
 "stuff out of which man is made," *Theophrastus Paracelsus* says: "It is
 an extract of all beings that exist in heaven and upon the earth, of the
 souls of all things, all creatures, spirits, elements, and minds,
@@ -753,7 +753,7 @@ universe, active or latent. His terrestrial substance is from the earth,
 his mental faculties from the universal mind, his worldly wisdom is from
 the light of nature; but the divine wisdom in him belongs to God."
 
-<span id="fn_34"></span>[136:1](ldjb09.htm#fr_34) In studying the
+<span id="fn_34"></span>[136:1](ldjb09.htm#fr_34.md) In studying the
 "anatomy" and "physiology" of the inner man, it will be necessary to
 remember that, in dealing with anthropology and cosmology from a
 spiritual point of view, we must be able to discard from our mind all
@@ -763,26 +763,26 @@ upon all things as being manifestations of an universal consciousness,
 acting upon internal or external planes of existence, while the visible
 form is nothing but a passing apparition.
 
-<span id="fn_35"></span>[137:1](ldjb09.htm#fr_35) Man is made out of
+<span id="fn_35"></span>[137:1](ldjb09.htm#fr_35.md) Man is made out of
 will and imagination; in other words, "fire" and "light." The
 manifestation of fire and light (thought) produces that which appears to
 us as "substance" or "form."
 
-<span id="fn_36"></span>[137:2](ldjb09.htm#fr_36) It is not "man" in the
+<span id="fn_36"></span>[137:2](ldjb09.htm#fr_36.md) It is not "man" in the
 abstract who recognises anything. It is always a certain principle,
 having become active in him, that recognises its own counterpart in
 external nature, when it comes in contact with it. Only he in whom is
 light can see the light; only the element of love can feel love; only
 the divinity in man can know God in and through man.
 
-<span id="fn_37"></span>[138:1](ldjb09.htm#fr_37) Therefore
+<span id="fn_37"></span>[138:1](ldjb09.htm#fr_37.md) Therefore
 *Theophrastus Paracelsus* says: "Natural man is made out of the world,
 and not the world out of him. He is a child of nature, and has all of
 his mother's qualities in himself, neither more nor less. But the true
 spiritual man is a son of God. Natural wisdom is not divine, but divine
 wisdom is above all."
 
-<span id="fn_38"></span>[139:1](ldjb09.htm#fr_38) And thus at this very
+<span id="fn_38"></span>[139:1](ldjb09.htm#fr_38.md) And thus at this very
 day each person who has not yet begun to be regenerated in the spirit is
 in the same condition in which Adam was before the Spirit of God
 breathed in him. Man's soul resembles a seed containing the potency of
@@ -794,6 +794,6 @@ attains the self-consciousness of his own immortality.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Man](ldjb10)
+[Next: Chapter VII. Man](ldjb10.md)
 
 </div>

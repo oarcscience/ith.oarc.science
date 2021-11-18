@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi120)  [Next](mtsi122) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi120)  [Next](mtsi122.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ caught and ate it and has continued to do so ever since.
 
 ------------------------------------------------------------------------
 
-[Next: 29. Rabbit and Wolf](mtsi122)
+[Next: 29. Rabbit and Wolf](mtsi122.md)

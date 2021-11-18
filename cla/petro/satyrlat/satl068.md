@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXVIII) 
-[Previous](satl067)  [Next](satl069) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXVIII.md) 
+[Previous](satl067)  [Next](satl069.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ emi trecentis denariis. . ."
 
 ------------------------------------------------------------------------
 
-[Next: LXIX](satl069)
+[Next: LXIX](satl069.md)

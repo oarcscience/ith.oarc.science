@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq75)  [Next](sfq77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq75)  [Next](sfq77.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ flocks which they had stolen from Melibee he restored to Coridon.
 
 ------------------------------------------------------------------------
 
-[Next: The Beast with a Thousand Tongues](sfq77)
+[Next: The Beast with a Thousand Tongues](sfq77.md)

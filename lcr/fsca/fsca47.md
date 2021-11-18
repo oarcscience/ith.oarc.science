@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca46)  [Next](fsca48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca46)  [Next](fsca48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ id="img_19500"></span>
 
 |                                      |
 |--------------------------------------|
-| ![A Leopard passant.](img/19500.jpg) |
+| ![A Leopard passant.](img/19500.jpg.md) |
 
 are indiscriminately so termed—were thus borne, it is said, upon the
 standard of William the Conqueror, and by his descendants. A third lion
@@ -87,7 +87,7 @@ disappeared from<span id="img_19600"></span>
 
 |                                                     |
 |-----------------------------------------------------|
-| ![A Leopard's Face, jessant-de-lis.](img/19600.jpg) |
+| ![A Leopard's Face, jessant-de-lis.](img/19600.jpg.md) |
 
 English heraldry, the face and head only retaining their place in modern
 coats.
@@ -145,7 +145,7 @@ The supporters of the Earl of Northesk are *two leopards reguardant*.
 <span id="page_198">p. 198</span>
 
 The leopard or panther, says Dr. P. M. Duncan, F.R.S., <span
-id="fr_21"></span>[\*](#fn_21) was the only one of the greater feline
+id="fr_21"></span>[\*](#fn_21.md) was the only one of the greater feline
 animals, except the lion and tiger, which seems to have been known to
 the ancients. It is always represented as drawing the chariot of
 Bacchus, and the forlorn Ariadne is sculptured as riding on one of the
@@ -196,9 +196,9 @@ aspect and perpetual growl."
 
 ### Footnotes
 
-<span id="fn_21"></span>[198:\*](fsca47.htm#fr_21) "Cassell's Natural
+<span id="fn_21"></span>[198:\*](fsca47.htm#fr_21.md) "Cassell's Natural
 History."
 
 ------------------------------------------------------------------------
 
-[Next: The Panther Incensed](fsca48)
+[Next: The Panther Incensed](fsca48.md)

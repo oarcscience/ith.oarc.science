@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah07)  [Next](sah09) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah07)  [Next](sah09.md) 
 
 ------------------------------------------------------------------------
 
@@ -1992,4 +1992,4 @@ guest of God.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX - Creation](sah09) 
+[Next: Chapter IX - Creation](sah09.md) 

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Thelema](../../index) 
-[Frater Achad](../index)  [Index](index)  [Next](inri01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Thelema](../../index.md) 
+[Frater Achad](../index)  [Index](index)  [Next](inri01.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Heritage
 <span id="img_rosecrss"></span>
 
 [![The Complete Symbol of the Rose and Cross](tn/rosecrss.jpg)  
-Click to enlarge](img/rosecrss.jpg)  
+Click to enlarge](img/rosecrss.jpg.md)  
 The Complete Symbol of the Rose and Cross  
 
 # I.N.R.I.
@@ -47,4 +47,4 @@ retained in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: I.N.R.I.: De Mysteriis Rosæ Rubeæ et Aureæ Crucis](inri01)
+[Next: I.N.R.I.: De Mysteriis Rosæ Rubeæ et Aureæ Crucis](inri01.md)

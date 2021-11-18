@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre14)  [Next](gre16) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre14)  [Next](gre16.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Deep-minded, as is told in the story of the Laxdale men.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](gre16)
+[Next: Chapter XI](gre16.md)

@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc06)  [Next](busc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc06)  [Next](busc08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -61,7 +61,7 @@ Whose husband is such as he.</span>
 hearing it, thought, "Thus she spoke; on her seeing such a form a
 mother's heart wins Nirvana, a father's heart wins Nirvana, a wife's
 heart wins Nirvana. Now on what being extinguished <span
-id="fr_1"></span>[1](#fn_1) does the heart attain Nirvana?" And with
+id="fr_1"></span>[1](#fn_1.md) does the heart attain Nirvana?" And with
 aversion in his mind for the passions he thought, "When the fire of lust
 is extinguished Nirvana is won; when the fire of hate, the fire of
 delusion are extinguished, Nirvana is won; when pride, false views, and
@@ -149,7 +149,7 @@ city. (*Jāt. Introd.* I. 60 f.)
 
 ### Footnotes
 
-<span id="fn_1"></span>[33:1](busc07.htm#fr_1) The word is *nibbuta*. It
+<span id="fn_1"></span>[33:1](busc07.htm#fr_1.md) The word is *nibbuta*. It
 is the same word that is translated "happy" in the utterance of
 Kisāgotamī. Gotama plays on the other meaning of the word, and makes her
 saying an argument for renunciation.
@@ -158,6 +158,6 @@ saying an argument for renunciation.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Chain of Causation](busc08)
+[Next: V. The Chain of Causation](busc08.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre58)  [Next](gre60) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre58)  [Next](gre60.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ Where the waters fall
 From the great ice-wall;  
 If thou hast mind  
 There mayest thou find  
-With little stone <span id="fr_16"></span>[\*](#fn_16)  
+With little stone <span id="fr_16"></span>[\*](#fn_16.md)  
 Fist's land alone."
 
 Grettir said, "It is of no avail to seek after thine abode if thou
@@ -131,7 +131,7 @@ him fare north to Fishwater lakes on Ernewaterheath; and thus did he.
 
 ### Footnotes
 
-<span id="fn_16"></span>[161:\*](gre59.htm#fr_16) Hall, a stone: mund, a
+<span id="fn_16"></span>[161:\*](gre59.htm#fr_16.md) Hall, a stone: mund, a
 hand, and by periphrasis, 'land of a fist'; so that Hallmund is meant by
 this couplet, and that was the real name of "Air," who is not a mere
 man, but a friendly spirit of the mountains.
@@ -139,4 +139,4 @@ man, but a friendly spirit of the mountains.
 ------------------------------------------------------------------------
 
 [Next: Chapter LV: Of Grettir on Ernewaterheath, and his dealings with
-Grim there](gre60)
+Grim there](gre60.md)

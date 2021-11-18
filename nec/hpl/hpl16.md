@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl15)  [Next](hpl17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl15)  [Next](hpl17.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ the far-off days of his unremembered youth.
 
 ------------------------------------------------------------------------
 
-[Next: The Tree (1921)](hpl17)
+[Next: The Tree (1921)](hpl17.md)

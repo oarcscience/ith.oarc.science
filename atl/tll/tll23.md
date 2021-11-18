@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll22)  [Next](tll24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll22)  [Next](tll24.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ stated--namely, that there existed in Lemuria a Lodge of Initiation.
 
 ------------------------------------------------------------------------
 
-[Next: A Lodge of Initiation](tll24)
+[Next: A Lodge of Initiation](tll24.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim70)  [Next](sim72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim70)  [Next](sim72.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ And so it proved.
 
 ------------------------------------------------------------------------
 
-[Next: Two Seneca Women Escape From Cherokee Captivity](sim72)
+[Next: Two Seneca Women Escape From Cherokee Captivity](sim72.md)

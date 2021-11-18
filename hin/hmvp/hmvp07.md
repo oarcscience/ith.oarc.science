@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp06)  [Next](hmvp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp06)  [Next](hmvp08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 (Heaven) and Prithivi (Earth) is that they are amongst the most ancient
 of the Aryan deities, hence they are spoken of in the hymns of the
 Rig-Veda as the parents of the other gods. <span
-id="fr_8"></span>[\*](#fn_8) They are described as "great, wise and
+id="fr_8"></span>[\*](#fn_8.md) They are described as "great, wise and
 energetic;" those who "promote righteousness, and lavish gifts upon
 their worshippers." And in another place they are said to have "made all
 creatures," and through their favour "immortality is conferred upon
@@ -44,7 +44,7 @@ settlement in India. As the praises of the newer god were sung, the
 older one was forgotten; and in the present day, whilst Dyaus is almost
 unknown, Indra is still worshipped, though in the Vedas both are called
 the god of heaven. The following statement of Professor Benfey <span
-id="fr_9"></span>[\*](#fn_9) gives a natural explanation of this. "It
+id="fr_9"></span>[\*](#fn_9.md) gives a natural explanation of this. "It
 may be distinctly shown that Indra took the place of the god of heaven,
 who, in the Vedas, is invoked in the vocative as Dyauspitar
 (Heaven-father). This is proved by the fact that this phrase is exactly
@@ -66,7 +66,7 @@ Indra." The opinion that Indra has taken the place of Dyaus is now
 pretty generally believed, and the above explanation appears natural.
 
 Of Prithivi we hear again. The "Vishnu Purāna" <span
-id="fr_10"></span>[†](#fn_10)
+id="fr_10"></span>[†](#fn_10.md)
 
 <span id="page_15">p. 15</span>
 
@@ -115,7 +115,7 @@ upon which people now subsist. By granting life to the Earth, Prithu was
 as her father, and she thence derived the patronymic appellation
 Prithivi."
 
-In a note Professor Wilson adds, <span id="fr_11"></span>[\*](#fn_11)
+In a note Professor Wilson adds, <span id="fr_11"></span>[\*](#fn_11.md)
 the commentator observes that "by the 'calf,' or Manu in that character,
 is typified the promoter of the multiplication of progeny;" Manu, as
 will be seen in the account of the Creation, being regarded by some of
@@ -135,15 +135,15 @@ said to have sprung from the foot of Vishnu.
 
 ### Footnotes
 
-<span id="fn_8"></span>[13:\*](hmvp07.htm#fr_8) Muir, O. S. T., v. 23.
+<span id="fn_8"></span>[13:\*](hmvp07.htm#fr_8.md) Muir, O. S. T., v. 23.
 
-<span id="fn_9"></span>[14:\*](hmvp07.htm#fr_9) Muir, O. S. T., v. 18.
+<span id="fn_9"></span>[14:\*](hmvp07.htm#fr_9.md) Muir, O. S. T., v. 18.
 
-<span id="fn_10"></span>[14:†](hmvp07.htm#fr_10) Page 103.
+<span id="fn_10"></span>[14:†](hmvp07.htm#fr_10.md) Page 103.
 
-<span id="fn_11"></span>[16:\*](hmvp07.htm#fr_11) "Vishnu Purāna," p.
+<span id="fn_11"></span>[16:\*](hmvp07.htm#fr_11.md) "Vishnu Purāna," p.
 104.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Aditi, and the Ādityas](hmvp08)
+[Next: Chapter IV. Aditi, and the Ādityas](hmvp08.md)

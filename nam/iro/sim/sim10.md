@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim09)  [Next](sim11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim09)  [Next](sim11.md) 
 
 ------------------------------------------------------------------------
 
@@ -301,4 +301,4 @@ at last conquered her was Winter.
 
 ------------------------------------------------------------------------
 
-[Next: Géha, The Friend of a Deserted Boy](sim11)
+[Next: Géha, The Friend of a Deserted Boy](sim11.md)

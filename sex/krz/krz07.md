@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz06)  [Next](krz08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz06)  [Next](krz08.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ sex.
 
 ------------------------------------------------------------------------
 
-[Next: When Sex Satisfies](krz08)
+[Next: When Sex Satisfies](krz08.md)

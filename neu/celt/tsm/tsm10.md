@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm09)  [Next](tsm11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm09)  [Next](tsm11.md) 
 
 ------------------------------------------------------------------------
 
@@ -503,4 +503,4 @@ grew up and became mighty warriors.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Heroes on the Green Isle](tsm11)
+[Next: Chapter VIII. Heroes on the Green Isle](tsm11.md)

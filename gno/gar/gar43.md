@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar42)  [Next](gar44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar42)  [Next](gar44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -69,7 +69,7 @@ given me a ring made out of the nail from a cross, and taught me the
 spell composed of many *Names*." The last remark is valuable for our
 purpose: it proves that the legends in an unknown tongue on our
 talismans are sometimes to be explained from the Arabic, <span
-id="fr_160"></span>[\*](#fn_159) and also may consist of strings of
+id="fr_160"></span>[\*](#fn_159.md) and also may consist of strings of
 titles of the one deity invoked. Virgil's--
 
                         "Crines effusa sacerdos  
@@ -222,7 +222,7 @@ loaves of bread, according to the number of his disciples in the middle
 between the cups. He set likewise a cup of water behind the loaves. And
 Jesus, standing before the offering, made all the disciples to stand
 behind him, being all clothed in linen garments, having all of them in
-their *hands the number* <span id="fr_161"></span>[\*](#fn_160) *of the
+their *hands the number* <span id="fr_161"></span>[\*](#fn_160.md) *of the
 Name* of the Father of the Treasury of Light. And he cried aloud,
 saying, Hear me, O Father, Father of all fatherships, Boundless Light,
 Ιαω Ιουω Ιαω αωι ωια ψινωθερ θερινωψ νωψιθερ νεφθομαραχθα ιηαναμεναμαν
@@ -251,7 +251,7 @@ seen nor named, in a female form because the world would have been
 unable to bear their appearing in a male figure, and revealed to me the
 generation of the universe, untold before either to gods or men. When
 first the Father, the Inconceivable, Beingless, <span
-id="fr_162"></span>[\*](#fn_161) sexless, began to be in labour he
+id="fr_162"></span>[\*](#fn_161.md) sexless, began to be in labour he
 desired that his Ineffable should be born, and his invisible should be
 clothed with form. He therefore opened his mouth and uttered the Word
 like unto himself. This word standing before him showed that he was
@@ -273,7 +273,7 @@ inasmuch
 <span id="page_287">p. 287</span>
 
 as none of them singly is competent to utter the entire Name." <span
-id="fr_163"></span>[\*](#fn_162)
+id="fr_163"></span>[\*](#fn_162.md)
 
 The substance of the revelation brought down to Marcus by Truth is to be
 found in the Kabbala, which makes the mystic names of God to consist of
@@ -291,7 +291,7 @@ when they forced the generations to the required number by omitting
 vowels that evidently have some deep purpose in occurring without
 consonants on so many talismans of the age of Marcus, we should, I
 expect, often find it tally with that of one or the other of these Holy
-Names. <span id="fr_164"></span>[†](#fn_163)
+Names. <span id="fr_164"></span>[†](#fn_163.md)
 
 A subsequent revelation of the same Tetrad to Marcus, serves to account
 for the frequent appearance of the naked woman, the Venus Anadyomene of
@@ -311,7 +311,7 @@ chest Ε and ϒ, at her back Ζ and Τ, at her belly Π and Σ, at her thighs
 letters, this the character of the writing. Whereupon Truth looked upon
 me (Marcus) and opened her mouth, and uttered a word, and that word
 became a Name, a name which we know and speak--Christ Jesus: and having
-named him she held her peace." <span id="fr_165"></span>[\*](#fn_164)
+named him she held her peace." <span id="fr_165"></span>[\*](#fn_164.md)
 
 This "figure of Truth" is made up, it will be perceived, by taking
 successive *pairs* of letters from each extremity of the alphabet;
@@ -341,7 +341,7 @@ To come now to the actual remains of Gnostic manufacture, which preserve
 to us formulæ of the nature just considered, the most important, to
 judge from its frequent occurrence, and the evident care bestowed upon
 its engraving, is the one here transcribed. My copy is taken from an
-example formerly in the State collection, [probably](errata.htm#18) the
+example formerly in the State collection, [probably](errata.htm#18.md) the
 finest talisman known. It is a thick plaque, somewhat heart-shaped, of
 dark garnet, 2¾ x 1½ inches in its greatest dimensions, bearing on the
 one side 14 lines, on the other 11, neatly cut in the Greek character in
@@ -399,7 +399,7 @@ discovered, engraved on a much more minute scale than any of the
 preceding (Whelan's copy).
 
 <span id="img_29000"></span> ![Dark red agate, 1 x 7/9 in.: sent me by
-Mr. Whelan, Nov. 25, 1881.](img/29000.jpg)  
+Mr. Whelan, Nov. 25, 1881.](img/29000.jpg.md)  
 Dark red agate, 1 x 7/9 in.: sent me by Mr. Whelan, Nov. 25, 1881.
 
 Doubtless such immense and overcharged pieces of mystery served in their
@@ -512,7 +512,7 @@ torches and daggers; styled on the reverse
 **ΠΕΡΑ**--**ΑΜΒΟ**--**ΥΒΑΚΑ**--**ΚΞΙΚ**--**ΥΚ**. In another (Nelthropp)
 the Cat-headed goddess, Taf-Neith stands lotus-crowned, and is addressed
 as **ΚVΧΒΑ**--**ΚΥΧΒΑ** <span
-id="fr_167"></span>[\*](#fn_166)--**ΚΑΧΥΑ**--**ΒΑΖΑΚΑΧ**--**ΚΧ**. Again
+id="fr_167"></span>[\*](#fn_166.md)--**ΚΑΧΥΑ**--**ΒΑΖΑΚΑΧ**--**ΚΧ**. Again
 Anubis with the superadded heads of Pan (*Mendes*) and a cock (*Phre*),
 with arms outstretched in the form of a cross; his body supported upon
 the legs of an ibis, has over the heads respectively written the
@@ -581,7 +581,7 @@ id="img_29500"></span> ![](img/29500.jpg). The quatrefoil is originally
 the symbol of Sitala, the Tenth Trithakoor, or deified Jaina saint;
 whence it found its way along with the other Buddhistic machinery, into
 Mediæval symbolism, in which it resembles an angel. <span
-id="fr_168"></span>[\*](#fn_167)
+id="fr_168"></span>[\*](#fn_167.md)
 
 Very remarkable on account of its adjuncts, is a green jasper (Praun)
 bearing a long neatly-cut legend, the central portion of which is
@@ -595,7 +595,7 @@ subserved by the similar contrivance on our talisman. The Ogham is
 was used as late as the Civil War by Lord Glamorgan in his
 correspondence with Charles I. It is, however, very possible that the
 monks carried this simple stenography from Rome to their Celtic
-mission. <span id="fr_169"></span>[†](#fn_168)
+mission. <span id="fr_169"></span>[†](#fn_168.md)
 
 <span id="img_29501"></span> ![](img/29501.jpg)
 
@@ -720,7 +720,7 @@ Cleopatra, upon whose modals, struck in Asia Minor, the lunar-shaped
 <span id="img_e"></span> ![](img/e.jpg) is first observable.
 
 In the earliest dawn of Grecian philosophy we find Pythagoras <span
-id="fr_170"></span>[\*](#fn_169) building his whole system upon the
+id="fr_170"></span>[\*](#fn_169.md) building his whole system upon the
 mystic properties of
 
 <span id="page_299">p. 299</span>
@@ -737,7 +737,7 @@ well-known beverage, by reason of the *five* ingredients that go to its
 concoction--perhaps too, because its brewing was the inevitable result
 of the coming together of the same number of Englishmen in the times
 when our language was enriched by so many loans from the
-Hindostanee. <span id="fr_171"></span>[\*](#fn_170)
+Hindostanee. <span id="fr_171"></span>[\*](#fn_170.md)
 
 A remarkable feature in the theogony of Valentinus is curiously
 illustrated by a Praun Calcedony, elegantly engraved, and mounted in a
@@ -785,13 +785,13 @@ one quite out of doubt.
 
 The "circle of the sun" means the *navel*, which marks the natural
 position of the organ concerned, for the navel in the microcosm was
-supposed to [coincide](errata.htm#19) with the sun in the universe. This
+supposed to [coincide](errata.htm#19.md) with the sun in the universe. This
 idea produced the far-famed hallucination of the Byzantine anchorites,
 respecting the mystical Light of Tabor, which shone upon the devotee in
 virtue of long-continued fasting, and. unintermitted fixing of the eyes
 upon the region of the navel, whence at length it streamed forth, as
 from a focus, the "true creation of an empty brain and an empty
-stomach." <span id="fr_172"></span>[\*](#fn_171)
+stomach." <span id="fr_172"></span>[\*](#fn_171.md)
 
 <span id="page_301">p. 301</span>
 
@@ -806,7 +806,7 @@ both sexes, the *lingam* and *yoni* of the Hindoos. Their Isis, Parvati,
 who in this character takes the name of *Deva* "the goddess"
 pre-eminently, bears in her hand for distinctive badge the yoni, or
 bhaga, often a precious stone carved into that shape. Similarly her
-consort, Siva, carries the [lingam](errata.htm#20) or phallus. For
+consort, Siva, carries the [lingam](errata.htm#20.md) or phallus. For
 example, the Nizam's diamond, the largest stone of its kind known
 *certainly* to exist, exhibits evident traces of the native lapidary's
 clumsy endeavours to reduce the native crystal to the proper shape for
@@ -828,7 +828,7 @@ attributes borne singly by her many-handed Indian prototype.
 A singular union of two contrary deities in one body, is presented by a
 hematite (Praun), representing Anubis, who, besides his proper jackal's
 head, is equipped with another, maned on the neck, and unmistakably that
-of an ass; as Typhon, <span id="fr_173"></span>[\*](#fn_172) the evil
+of an ass; as Typhon, <span id="fr_173"></span>[\*](#fn_172.md) the evil
 one, was depicted; moreover, one of the feet,
 
 <span id="page_302">p. 302</span>
@@ -846,10 +846,10 @@ the Coptic name of the god,
 
  
 
-<span id="img_fig13"></span> ![FIG. 13](img/fig13.jpg)  
+<span id="img_fig13"></span> ![FIG. 13](img/fig13.jpg.md)  
 FIG. 13
 
-[(\*)](gar71.htm#an_fig13)
+[(\*)](gar71.htm#an_fig13.md)
 
  
 
@@ -857,7 +857,7 @@ FIG. 13
 
 ### Footnotes
 
-<span id="fn_159"></span>[281:\*](gar43.htm#fr_160) In fact, the
+<span id="fn_159"></span>[281:\*](gar43.htm#fr_160.md) In fact, the
 "unknown characters" sometimes occurring in the field of these talismans
 are unmistakeably Himyaritic letters, belonging to that primitive
 alphabet of Arabia. Osiander and Levy have published gems bearing
@@ -867,12 +867,12 @@ character is perfectly vertical, handsome, and well defined in its
 differences; it is a modification of the Palmyrene, and the parent of
 the modern Ethiopic.
 
-<span id="fn_160"></span>[285:\*](gar43.htm#fr_161) Meaning, perhaps,
+<span id="fn_160"></span>[285:\*](gar43.htm#fr_161.md) Meaning, perhaps,
 having their fingers arranged so as to express this number; for Pliny
 mentions a very *old* statue of Janus displaying the fingers in such
 manner as to indicate his own *numeral*, that of the days in the year.
 
-<span id="fn_161"></span>[286:\*](gar43.htm#fr_162) The Kabbalistic
+<span id="fn_161"></span>[286:\*](gar43.htm#fr_162.md) The Kabbalistic
 "En-Soph." In this *boundlessness*, or as the En-Soph, God cannot be
 *comprehended* by the intellect, nor described by words, for there is
 nothing that can grasp or define Him to us; and as such He is a certain
@@ -884,7 +884,7 @@ Creator, for he has neither will, intention, desire, thought, language,
 nor action, as these properly imply *limit*, and belong to finite
 beings, whereas the En-Soph is Boundless."
 
-<span id="fn_162"></span>[287:\*](gar43.htm#fr_163) This is a regular
+<span id="fn_162"></span>[287:\*](gar43.htm#fr_163.md) This is a regular
 Talmudic notion as the Rabbins propound. "At first the Name of *twelve
 letters* was communicated to every one; but when the profane multiplied
 it was only communicated to the most pious of the priests, and these
@@ -899,12 +899,12 @@ who knows that name and preserves it in purity, is beloved above,
 cherished below, respected by every creature, and is new to both
 worlds."--(Babylon. Mid. 71 a.).
 
-<span id="fn_163"></span>[287:†](gar43.htm#fr_164) This explains the
+<span id="fn_163"></span>[287:†](gar43.htm#fr_164.md) This explains the
 Σενγα Βαρφαρανγες, "those who stand before the Mount" so commonly
 following angelic names upon our talismans; where also the long strings
 of letters may be designed to express their Æon unbegotten.
 
-<span id="fn_164"></span>[288:\*](gar43.htm#fr_165) Similarly in the
+<span id="fn_164"></span>[288:\*](gar43.htm#fr_165.md) Similarly in the
 Kabbalistic diagram of the Sephiroth, the *Crown* is the head; Wisdom,
 the brain; Intelligence, the heart; Love, the right arm; Gentleness, the
 left arm; Beauty, the chest; Firmness, the right leg; Splendour, the
@@ -913,35 +913,35 @@ the whole body. The Venus Anadyomene so often seen on our talismans was
 probably adopted by the Gnostics in this spiritualised sense; and
 thereby still continues to personify, the virtue, *Truth*.
 
-<span id="fn_165"></span>[289:\*](gar43.htm#fr_166) Probably meant
+<span id="fn_165"></span>[289:\*](gar43.htm#fr_166.md) Probably meant
 ἀλεζετέ με "Defend me!"--of exactly similar sound in the spoken
 language.
 
-<span id="fn_166"></span>[293:\*](gar43.htm#fr_167) Chaldee, "The Star,
+<span id="fn_166"></span>[293:\*](gar43.htm#fr_167.md) Chaldee, "The Star,
 the Star."
 
-<span id="fn_167"></span>[295:\*](gar43.htm#fr_168) One of the heaviest
+<span id="fn_167"></span>[295:\*](gar43.htm#fr_168.md) One of the heaviest
 charges against the mediæval Manichæans was the adoration of an
 *Octagon*, as the figure of God.
 
-<span id="fn_168"></span>[295:†](gar43.htm#fr_169) The talisman-makers
+<span id="fn_168"></span>[295:†](gar43.htm#fr_169.md) The talisman-makers
 loved to press into their service all the strange characters that came
 to their knowledge. Even the Runic of the farthest north added its
 virtue to the Praun hepatic amulet to be fully noticed in its proper
 section.
 
-<span id="fn_169"></span>[298:\*](gar43.htm#fr_170) Who is constantly
+<span id="fn_169"></span>[298:\*](gar43.htm#fr_170.md) Who is constantly
 affirmed to have visited India, Apuleius stating of him, Sed nec his
 artibus animi expletum mox Chaldæas, inde Brachmanas, eorum ergo
 Brachmanum Gymnosophistas adiisse."--('Florida.')
 
-<span id="fn_170"></span>[299:\*](gar43.htm#fr_171) For example *caste*
+<span id="fn_170"></span>[299:\*](gar43.htm#fr_171.md) For example *caste*
 and *dam*. The latter is the probable source of the common English
 expression that emphasises the small value of a thing, which ignorance
 softens into *curse*. Similarly used is *rap*, the smallest of the Swiss
 money.
 
-<span id="fn_171"></span>[300:\*](gar43.htm#fr_172) A neatly engraved
+<span id="fn_171"></span>[300:\*](gar43.htm#fr_172.md) A neatly engraved
 ring-stone, hæmatite, lately communicated to me, has a line of several
 of the common *siglae*, followed by two more containing **ΙΑΩ ΑΡΙΗΛ
 ΒΙΚΤΟΡΙΝΑ**, "Jehovah, Lion of God (protect) Victorina!" When proper
@@ -949,7 +949,7 @@ names can be deciphered on these talismans they are always those of
 women. A Praun gem, similarly opening with a line of *siglae* and the
 names Iao and Gabriel, was made for a certain Sabinia Quinta.
 
-<span id="fn_172"></span>[301:\*](gar43.htm#fr_173) The ass was sacred
+<span id="fn_172"></span>[301:\*](gar43.htm#fr_173.md) The ass was sacred
 to Typhon. Plutarch (De Iside, 31) quotes an Egyptian legend that this
 deity fled from the "Battle of the Gods" upon <span id="page_302">p.
 302</span> the back of an ass for over seven days’ space without
@@ -960,4 +960,4 @@ sculptures.
 
 ------------------------------------------------------------------------
 
-[Next: Gnostic Siglæ, Symbols, Legends Explained](gar44)
+[Next: Gnostic Siglæ, Symbols, Legends Explained](gar44.md)

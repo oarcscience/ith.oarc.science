@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl02) [Next](safl04)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl02) [Next](safl04.md)
 
 ------------------------------------------------------------------------
 
 ## III.—AN AINU LEGEND OF THE LARGE TROUT.
 
 P<span class="small">IU-HAM-PIU</span>.<span
-id="page_121_fr_*"></span>[\*](#page_121_note_*)
+id="page_121_fr_*"></span>[\*](#page_121_note_*.md)
 
 1\.
 
@@ -66,7 +66,7 @@ say that every now and again one of these monster <span id="page_123">p.
 destructive work of swallowing animals and human beings. Only a few
 hundred years ago, say they, one of these awful fish was found dead upon
 the shores of the *Shikot<span id="page_123_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_123_note_1) to* (Chitose lake). This
+class="small">1</span></sup>](#page_123_note_1) to* (Chitose lake.md). This
 monster had swallowed a large deer, horns and all, but the horns caused
 a severe attack of indigestion to come on, which the fish could not get
 over; nay, the horns were so long that they protruded from its stomach
@@ -83,7 +83,7 @@ the world."
 
 ------------------------------------------------------------------------
 
-[Next](safl04)
+[Next](safl04.md)
 
 ------------------------------------------------------------------------
 
@@ -91,12 +91,12 @@ the world."
 
 <span id="footnotes_page_121">p. 121</span>
 
-<span id="page_121_note_*"></span>[\*](#page_121_fr_*) *Piu-ham-piu* is
+<span id="page_121_note_*"></span>[\*](#page_121_fr_*.md) *Piu-ham-piu* is
 the name of the tune or tone of voice in which this legend is recited.
 
 <span id="footnotes_page_123">p. 123</span>
 
-<span id="page_123_note_1"></span>[1](#page_123_fr_1) *A propos* the
+<span id="page_123_note_1"></span>[1](#page_123_fr_1.md) *A propos* the
 *Shikot* or *Chitose* lake, it may perhaps be worth recording that the
 Ainu say the sea used to come up to its very borders, so that large
 junks from Japan formerly anchored there; and that the present lake is

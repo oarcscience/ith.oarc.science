@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](osgp01)  [Next](osgp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](osgp01)  [Next](osgp03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Origin and Significance of the Great Pyramid*, by C. Staniland
 Wake, \[1882\], at Intangible Textual Heritage
 
@@ -243,11 +243,11 @@ APPENDIX II.</p></td>
 <span id="img__00800"></span> <span align="CENTER"> [![Human skulls
 unearthed during the excavations of the Temple of the Second Pyramid of
 Gizeh.](tn/_00800.jpg)  
-Click to enlarge](img/_00800.jpg)  
+Click to enlarge](img/_00800.jpg.md)  
 Human skulls unearthed during the excavations of the Temple of the
 Second Pyramid of Gizeh.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Astronomical Theory](osgp03)
+[Next: Chapter I. The Astronomical Theory](osgp03.md)

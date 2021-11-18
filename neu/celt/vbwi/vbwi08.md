@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi07)  [Next](vbwi09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi07)  [Next](vbwi09.md) 
 
 ------------------------------------------------------------------------
 
@@ -414,4 +414,4 @@ the old Irish families, but she'll follow them even as far as Dublin.
 
 ------------------------------------------------------------------------
 
-[Next: In the Way](vbwi09)
+[Next: In the Way](vbwi09.md)

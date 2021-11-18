@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx08)  [Next](ppx10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx08)  [Next](ppx10.md) 
 
 ------------------------------------------------------------------------
 
 # The Lady of the Silver Bell
 
 <span id="img_08"></span> [![](tn/08.jpg)  
-Click to enlarge](img/08.jpg)  
+Click to enlarge](img/08.jpg.md)  
 THE LADY OF THE SILVER BELL
 
 I HAVE already told you, my young friends, a story in connexion with
@@ -485,4 +485,4 @@ any more to be found.
 
 ------------------------------------------------------------------------
 
-[Next: The Belfry Rock, or, The Pixies' Revenge](ppx10)
+[Next: The Belfry Rock, or, The Pixies' Revenge](ppx10.md)

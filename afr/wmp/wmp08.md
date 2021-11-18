@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp07)  [Next](wmp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp07)  [Next](wmp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -250,7 +250,7 @@ from a cord round the neck of each dangled a live white chicken, feebly
 fluttering against the bare brown breast of its bearer. It may be
 noticed that in the Efik ceremony on the death of a great chief, each of
 the women is said to wear a similar decoration. <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 The round brown limbs were painted over with elaborate patterns, in
 black pigment, made either from the fruit of one of the many Randias
@@ -642,13 +642,13 @@ price promised by the former, becomes quite comprehensible.
 
 ### Footnotes
 
-<span id="fn_19"></span>[83:1](wmp08.htm#fr_19) Journal of the African
+<span id="fn_19"></span>[83:1](wmp08.htm#fr_19.md) Journal of the African
 Society, April, 1914, p. 248.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7: Wedded Life And Motherhood](wmp09)
+[Next: Chapter 7: Wedded Life And Motherhood](wmp09.md)
 
 </div>

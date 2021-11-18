@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi200)  [Next](mtsi202) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi200)  [Next](mtsi202.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ for he took. The Horse said, "I will pull heavy things for people." The
 Cow said, "I am going to raise children for people." And the summer was
 made. Winter, spring, and summer were made together. Winter said, "Man
 is going to roast his leg around me." <span
-id="fr_50"></span>[1](#fn_50) When it was summer the Humming Bird said,
+id="fr_50"></span>[1](#fn_50.md) When it was summer the Humming Bird said,
 "I will stay about and kiss the flowers." When summer was too hot and it
 was not good to work, the luminaries changed places, the sun and moon.
 The sun turned into the moon.
@@ -35,9 +35,9 @@ The sun turned into the moon.
 
 ### Footnotes
 
-<span id="fn_50"></span>[166:1](mtsi201.htm#fr_50) Meaning that in
+<span id="fn_50"></span>[166:1](mtsi201.htm#fr_50.md) Meaning that in
 winter people keep close to the fires.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Pleiades](mtsi202)
+[Next: 2. The Pleiades](mtsi202.md)

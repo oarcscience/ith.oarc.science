@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp06)  [Next](itp08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp06)  [Next](itp08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ IN chapter ii. above, reference is made by one of the writers quoted to
 on America." That there are such numerous stories is quite correct.
 Jacobus Le Moyne, who travelled as artist with a French Expedition to
 Florida in 1564, left some very interesting drawings <span
-id="fr_33"></span>[1](#fn_33) representing the Indians of that region
+id="fr_33"></span>[1](#fn_33.md) representing the Indians of that region
 and their customs; and among them one representing the
 "Hermaphrodites"--tall and powerful men, beardless, but with long and
 abundant hair, and naked except for a loin-cloth, engaged in carrying
@@ -45,8 +45,8 @@ appointed places, and nursed and cared for by them, until they may be
 restored to full health."
 
 Similar stories are told by Charlevoix, <span
-id="fr_34"></span>[1](#fn_34) de Pauw, <span
-id="fr_35"></span>[2](#fn_35) and others; and one seems to get a glimpse
+id="fr_34"></span>[1](#fn_34.md) de Pauw, <span
+id="fr_35"></span>[2](#fn_35.md) and others; and one seems to get a glimpse
 in them of an intermediate class of human beings who made themselves
 useful to the community not only by their muscular strength, but by
 their ability and willingness to act as nurses and attendants on the
@@ -73,8 +73,8 @@ hermaphrodites!
 In 1889, a certain Dr. A. B. Holder, anxious to settle positively the
 existence or non-existence of hermaphrodites, made some investigations
 among the Crow-Indians of Montana--among whom the Bardaches were called
-"Boté." <span id="fr_36"></span>[1](#fn_36) And Dr. Karsch, summarising
-his report, says <span id="fr_37"></span>[2](#fn_37):--"This word,
+"Boté." <span id="fr_36"></span>[1](#fn_36.md) And Dr. Karsch, summarising
+his report, says <span id="fr_37"></span>[2](#fn_37.md):--"This word,
 bo-té, means literally 'not man, not woman.' A corresponding
 Tulalip-word which the Indians of the Washington region make use of is,
 according to Holder, 'burdash,' which means 'half man, half woman'--and
@@ -158,7 +158,7 @@ wished for the existence of another, and at once he became
 <span id="page_72">p. 72</span>
 
 such, as male and female embraced (united). He caused this his one self
-to fall in twain." <span id="fr_38"></span>[1](#fn_38) Siva, also, the
+to fall in twain." <span id="fr_38"></span>[1](#fn_38.md) Siva, also, the
 most popular of the Hindu divinities, is originally bi-sexual. In the
 interior of the great rockhewn Temple at Elephanta the career of Siva is
 carved in successive panels. And on the first he appears as a complete
@@ -169,10 +169,10 @@ the centre (though now much defaced) the organs of both sexes. In the
 second panel, however, his evolution or differentiation is complete, and
 he is portrayed as complete male with his consort Sakti or Parvati
 standing as perfect female beside him. <span
-id="fr_39"></span>[2](#fn_39) There are many such illustrations in Hindu
+id="fr_39"></span>[2](#fn_39.md) There are many such illustrations in Hindu
 literature and art, representing the gods in their double or bi-sexual
 role--*e.g.*, as Brahma Ardhanarisa, Siva Ardhanarisa (half male and
-half female). <span id="fr_40"></span>[3](#fn_40) And these again are
+half female). <span id="fr_40"></span>[3](#fn_40.md) And these again are
 interesting in connection with the account of Elohim in the 1st chapter
 of Genesis, and the supposition that he was such an androgynous
 
@@ -191,10 +191,10 @@ double being, and taking one half (Eve), gave her to the other half
 up, explained that when "God took one of Adam's ribs to make Eve with,"
 it should rather be rendered "one of his sides"--that is, that he
 divided the double Adam, and one half was Eve. <span
-id="fr_41"></span>[1](#fn_41)
+id="fr_41"></span>[1](#fn_41.md)
 
 In the Brihadaranyaka Upanishad (I Adhyaya, 4th Brahmana) the evolution
-of Brahm is thus described <span id="fr_42"></span>[2](#fn_42)t--"In the
+of Brahm is thus described <span id="fr_42"></span>[2](#fn_42.md)t--"In the
 beginning of this \[world\] was Self alone, in the shape of a person. .
 . . But he
 
@@ -214,7 +214,7 @@ words of which Jehovah is composed make up the original idea of
 male-female of the birth-originator. For the Hebrew letter Jod (or J)
 was the *membrum virile*, and Hovah was Eve, the mother of all living,
 or the procreatrix Earth and Nature." <span
-id="fr_43"></span>[1](#fn_43)
+id="fr_43"></span>[1](#fn_43.md)
 
 The tradition that mankind was anciently hermaphrodite is world-old. It
 is referred to in Plato's *Banquet*, where Aristophanes
@@ -238,9 +238,9 @@ I have mentioned the Syrian Baal as being sometimes represented as
 double-sexed (apparently in combination with Astarte). In the Septuagint
 (Hos. ii. 8, and Zeph. i. 4) he is called ἡ Baal (feminine) and Arnobius
 tells us that his worshippers invoked him thus <span
-id="fr_44"></span>[1](#fn_44) "Hear us, Baal! whether thou be a god or
+id="fr_44"></span>[1](#fn_44.md) "Hear us, Baal! whether thou be a god or
 goddess." Similarly Bel and other Babylonian gods were often represented
-as androgyne. <span id="fr_45"></span>[2](#fn_45) Mithras among the
+as androgyne. <span id="fr_45"></span>[2](#fn_45.md) Mithras among the
 Persians is spoken of by the Christian controversialist Firmicus as
 two-sexed, and by Herodotus (Bk. i., c. 131) as identified with a
 goddess, while there are innumerable Mithraic
@@ -248,7 +248,7 @@ goddess, while there are innumerable Mithraic
 <span id="page_76">p. 76</span>
 
 monuments on which appear the symbols of two deities, male and female
-combined. <span id="fr_46"></span>[1](#fn_46) Even Venus or Aphrodite
+combined. <span id="fr_46"></span>[1](#fn_46.md) Even Venus or Aphrodite
 was sometimes worshipped in the double form. "In Cyprus," says Dr.
 Frazer in his *Adonis, etc*. (p. 432, note), "there was a bearded and
 masculine image of Venus (probably Astarte) in female attire: according
@@ -256,7 +256,7 @@ to Philochorus the deity thus represented was the moon, and sacrifices
 were offered to him or her by men clad as women, and by women clad as
 men (see Macrobius *Saturn* iii. 7, 2)." This bearded female deity is
 sometimes also spoken of as Aphroditus, or as Venus Mylitta. Richard
-Burton says <span id="fr_47"></span>[2](#fn_47):--"The Phoenicians
+Burton says <span id="fr_47"></span>[2](#fn_47.md):--"The Phoenicians
 spread their androgynic worship over Greece. We find the consecrated
 servants and votaries of Corinthian Aphrodite called Hierodouloi
 (Strabo, viii. 6), who aided the 10,000 courtesans in gracing the
@@ -271,11 +271,11 @@ in Egypt also a representation of a bearded Isis has been found,--with
 
 <span id="page_77">p. 77</span>
 
-infant Horus in her lap; <span id="fr_48"></span>[1](#fn_48) while again
+infant Horus in her lap; <span id="fr_48"></span>[1](#fn_48.md) while again
 there are a number of representations (from papyri) of the goddess Neith
 in androgyne form, with a male member (erected). And again, curiously
 enough, the Norse Freya, or Friga, corresponding to Venus, was similarly
-figured. Dr. von Römer says: <span id="fr_49"></span>[2](#fn_49)--"just
+figured. Dr. von Römer says: <span id="fr_49"></span>[2](#fn_49.md)--"just
 as the Greeks had their Aphroditos as well as Aphrodite so the
 Scandinavians had their Friggo as well as their Friga. This divinity,
 too, was androgyne. Friga, to whom the sixth day of the week was
@@ -303,7 +303,7 @@ Photius) writes:--"They
 <span id="page_78">p. 78</span>
 
 say that the androgyne Adonis fulfilled the part of a man for Aphrodite,
-but for Apollo the part of a wife." <span id="fr_50"></span>[1](#fn_50)
+but for Apollo the part of a wife." <span id="fr_50"></span>[1](#fn_50.md)
 
 Dionysus, one of the most remarkable figures in the Greek Mythology, is
 frequently represented as androgyne. Euripides in his *Bacchae* calls
@@ -316,7 +316,7 @@ young man, and among men a beardless youth overflowing with vitality."
 In the museum at Naples there is a very fine sculptured head of
 Dionysus, which though bearded has a very feminine expression, and is
 remindful of the traditional head of Christ. "In legend and art," says
-Dr. Frazer, <span id="fr_51"></span>[2](#fn_51) "there are clear traces
+Dr. Frazer, <span id="fr_51"></span>[2](#fn_51.md) "there are clear traces
 of an effeminate Dionysus, and in some of his rites and processions men
 wore female attire. Similar things are reported of Bacchus, who was, of
 course, another form of Dionysus. Even Hercules, that most masculine
@@ -326,7 +326,7 @@ which he was the
 <span id="page_79">p. 79</span>
 
 slave of Omphale, queen of Lydia. "If we suppose," says Dr.
-Frazer, <span id="fr_52"></span>[1](#fn_52)" that queen Omphale, like
+Frazer, <span id="fr_52"></span>[1](#fn_52.md)" that queen Omphale, like
 queen Semiramis, was nothing but the great Asiatic goddess, or one of
 her Avatars, it becomes probable that the story of the womanish Hercules
 of Lydia preserves a reminiscence of a line or college of effeminate
@@ -402,7 +402,7 @@ deep-rooted and anything but fanciful. One reason, it seems to me, is
 the psychological fact that in the deeps of human nature (as represented
 by Brahm and Siva in the Hindu philosophy, by Zeus in the Orphic Hymns,
 by Mithra in the Zend-avesta, etc.) the sex-temperament *is*
-undifferentiated; <span id="fr_53"></span>[1](#fn_53) and it is only in
+undifferentiated; <span id="fr_53"></span>[1](#fn_53.md) and it is only in
 its later and more external and partial manifestations that it branches
 decidedly into male and female; and that, therefore, in endeavoring
 through religion to represent the root facts of life, there was always a
@@ -419,7 +419,7 @@ go back to the Persian Bâb
 
 <span id="page_83">p. 83</span>
 
-of the last century <span id="fr_54"></span>[1](#fn_54) or to a St.
+of the last century <span id="fr_54"></span>[1](#fn_54.md) or to a St.
 Francis or even to a Jesus of Nazareth, to find the same traits present
 in founders and leaders of religious movements in historical times. And
 it becomes easy to suppose the same again of those early figures--who
@@ -434,75 +434,75 @@ and argument of this paper.
 
 ### Footnotes
 
-<span id="fn_33"></span>[66:1](itp07.htm#fr_33) *Indorum Floridam
+<span id="fn_33"></span>[66:1](itp07.htm#fr_33.md) *Indorum Floridam
 provinciam inhabitantium eicones*, etc. (Frankfurt, 1591). Also
 translation of the same with heliotypes of the engravings (Boston, J. R.
 Osgood & Co., 1875.)
 
-<span id="fn_34"></span>[67:1](itp07.htm#fr_34) P. F. X. de Charlevoix,
+<span id="fn_34"></span>[67:1](itp07.htm#fr_34.md) P. F. X. de Charlevoix,
 *La Nouvelle France*, 2 vols. (Paris, 1744).
 
-<span id="fn_35"></span>[67:2](itp07.htm#fr_35) De Pauw, *Recherches sur
+<span id="fn_35"></span>[67:2](itp07.htm#fr_35.md) De Pauw, *Recherches sur
 les Américains*, 2 vols. (Berlin, 1768).
 
-<span id="fn_36"></span>[68:1](itp07.htm#fr_36) See for his Report, *The
+<span id="fn_36"></span>[68:1](itp07.htm#fr_36.md) See for his Report, *The
 New York Medical Journal*, Vol. L., No. 23 (7th Dec., 1889).
 
-<span id="fn_37"></span>[68:2](itp07.htm#fr_37) *Jahrbuch für s.Z.*,
+<span id="fn_37"></span>[68:2](itp07.htm#fr_37.md) *Jahrbuch für s.Z.*,
 Vol. iii., p, 138.
 
-<span id="fn_38"></span>[72:1](itp07.htm#fr_38) Quoted from the
+<span id="fn_38"></span>[72:1](itp07.htm#fr_38.md) Quoted from the
 Yajur-Veda. See *Bible Folk-lore*: a study in Comp. Mythology (London,
 1884), p. 104.
 
-<span id="fn_39"></span>[72:2](itp07.htm#fr_39) See *Adam's Peak to
+<span id="fn_39"></span>[72:2](itp07.htm#fr_39.md) See *Adam's Peak to
 Elephanta*, by E. Carpenter (1903), p. 308.
 
-<span id="fn_40"></span>[72:3](itp07.htm#fr_40) See drawings in *Ancient
+<span id="fn_40"></span>[72:3](itp07.htm#fr_40.md) See drawings in *Ancient
 Pagan and Modern Christian Symbolism*, by Thomas Inman (London, 1874).
 
-<span id="fn_41"></span>[73:1](itp07.htm#fr_41) These and some other
+<span id="fn_41"></span>[73:1](itp07.htm#fr_41.md) These and some other
 references are taken from the learned and careful study "Ueber die
 androgynische Idee des Lebens," by Dr. von Römer, of Amsterdam, which is
 to be found in vol. v. of the *Jahrbuch für Sexuelle Zwischenstufen*
 (Leipzig, 1903).
 
-<span id="fn_42"></span>[73:2](itp07.htm#fr_42) *Sacred Books of the
+<span id="fn_42"></span>[73:2](itp07.htm#fr_42.md) *Sacred Books of the
 East*, vol. xv., p. 85.
 
-<span id="fn_43"></span>[74:1](itp07.htm#fr_43) See H. p. Blavatsky,
+<span id="fn_43"></span>[74:1](itp07.htm#fr_43.md) See H. p. Blavatsky,
 *Secret Doctrine*, vol. ii., p. 132, quoted in vol. v., *Jahrbuch für S.
 Z.*, p. 76.
 
-<span id="fn_44"></span>[75:1](itp07.htm#fr_44) Inman's *Ancient Pagan
+<span id="fn_44"></span>[75:1](itp07.htm#fr_44.md) Inman's *Ancient Pagan
 and Modern Christian Symbolism* (Trubner, 1874), p. 119.
 
-<span id="fn_45"></span>[75:2](itp07.htm#fr_45) *Pagan Christs*, by John
+<span id="fn_45"></span>[75:2](itp07.htm#fr_45.md) *Pagan Christs*, by John
 M. Robertson (1908), p. 308.
 
-<span id="fn_46"></span>[76:1](itp07.htm#fr_46) *Ibid*., p. 307.
+<span id="fn_46"></span>[76:1](itp07.htm#fr_46.md) *Ibid*., p. 307.
 
-<span id="fn_47"></span>[76:2](itp07.htm#fr_47) *The Thousand Nights and
+<span id="fn_47"></span>[76:2](itp07.htm#fr_47.md) *The Thousand Nights and
 a Night* (1886), vol. x., p. 231.
 
-<span id="fn_48"></span>[77:1](itp07.htm#fr_48) See illustration,
+<span id="fn_48"></span>[77:1](itp07.htm#fr_48.md) See illustration,
 *Jahrbuch für S.Z.*, vol. v., p. 732.
 
-<span id="fn_49"></span>[77:2](itp07.htm#fr_49) See his study already
+<span id="fn_49"></span>[77:2](itp07.htm#fr_49.md) See his study already
 quoted, *Jahrbuch*, pp. 735-744.
 
-<span id="fn_50"></span>[78:1](itp07.htm#fr_50) See *Jahrbuch*, as
+<span id="fn_50"></span>[78:1](itp07.htm#fr_50.md) See *Jahrbuch*, as
 above, pp. 806, 807 and 809.
 
-<span id="fn_51"></span>[78:2](itp07.htm#fr_51) *Adonis*, etc., p. 432
+<span id="fn_51"></span>[78:2](itp07.htm#fr_51.md) *Adonis*, etc., p. 432
 
-<span id="fn_52"></span>[79:1](itp07.htm#fr_52) *Ibid*., p. 431.
+<span id="fn_52"></span>[79:1](itp07.htm#fr_52.md) *Ibid*., p. 431.
 
-<span id="fn_53"></span>[82:1](itp07.htm#fr_53) Compare the
+<span id="fn_53"></span>[82:1](itp07.htm#fr_53.md) Compare the
 undifferentiated sex-tendencies of boys and girls at puberty and shortly
 after.
 
-<span id="fn_54"></span>[83:1](itp07.htm#fr_54) Ali Muhammed, who called
+<span id="fn_54"></span>[83:1](itp07.htm#fr_54.md) Ali Muhammed, who called
 himself the Bâb (or Gate), was born at Shiraz in 1820. In 1844 he
 commenced preaching his gospel, which was very like that of Jesus, and
 which now has an immense following. In 1850 he was shot, at Tabriz, as a
@@ -511,4 +511,4 @@ leave him, was shot with him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Military Comradeship among the Dorian Greeks](itp08)
+[Next: Chapter V. Military Comradeship among the Dorian Greeks](itp08.md)

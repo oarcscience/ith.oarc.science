@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale27)  [Next](tale29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale27)  [Next](tale29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ contains and bring it to me."
 <span id="img_29700"></span>
 
 [![THE SLAVE OF THE RING APPEARS TO ALADDIN](tn/29700.jpg)  
-Click to enlarge](img/29700.jpg)  
+Click to enlarge](img/29700.jpg.md)  
 THE SLAVE OF THE RING APPEARS TO ALADDIN  
 
 <span id="page_298">p. 298</span>
@@ -304,7 +304,7 @@ deal more than that for the princess."
 
 [![ALADDIN'S MOTHER BRINGS THE SLAVES WITH THE FORTY BASINS OF GOLD
 BEFORE THE SULTAN](tn/30300.jpg)  
-Click to enlarge](img/30300.jpg)  
+Click to enlarge](img/30300.jpg.md)  
 ALADDIN'S MOTHER BRINGS THE SLAVES WITH THE FORTY BASINS OF GOLD BEFORE
 THE SULTAN  
 
@@ -477,7 +477,7 @@ instant the vizir, who saw that the crowd had
 <span id="img_30900"></span>
 
 [![THE AFRICAN MAGICIAN GETS THE LAMP FROM THE SLAVE](tn/30900.jpg)  
-Click to enlarge](img/30900.jpg)  
+Click to enlarge](img/30900.jpg.md)  
 THE AFRICAN MAGICIAN GETS THE LAMP FROM THE SLAVE  
 
 forced their way into the courtyard and were scaling the walls to rescue
@@ -614,7 +614,7 @@ travelled to China to avenge his brother's death,
 <span id="img_31300"></span>
 
 [![THE DEATH OF THE AFRICAN MAGICIAN](tn/31300.jpg)  
-Click to enlarge](img/31300.jpg)  
+Click to enlarge](img/31300.jpg.md)  
 THE DEATH OF THE AFRICAN MAGICIAN  
 
 and went to visit a pious woman called Fatima, thinking she might be of
@@ -686,4 +686,4 @@ of kings.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventures of Haroun-al-Raschid, Caliph of Bagdad](tale29)
+[Next: The Adventures of Haroun-al-Raschid, Caliph of Bagdad](tale29.md)

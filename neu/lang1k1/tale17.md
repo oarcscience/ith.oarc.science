@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale16)  [Next](tale18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale16)  [Next](tale18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ blows from its powerful beak, and seizing it up rose into
 <span id="img_13300"></span>
 
 [![SINDBAD CARRIED OFF BY THE ROC](tn/13300.jpg)  
-Click to enlarge](img/13300.jpg)  
+Click to enlarge](img/13300.jpg.md)  
 SINDBAD CARRIED OFF BY THE ROC  
 
 <span id="page_134">p. 134</span> <span id="page_135">p. 135</span>
@@ -161,7 +161,7 @@ best for you
 <span id="img_13700"></span>
 
 [![SINDBAD IN THE VALLEY OF SERPENTS](tn/13700.jpg)  
-Click to enlarge](img/13700.jpg)  
+Click to enlarge](img/13700.jpg.md)  
 SINDBAD IN THE VALLEY OF SERPENTS  
 
 <span id="page_138">p. 138</span> <span id="page_139">p. 139</span>
@@ -220,4 +220,4 @@ began the account of his third voyage.
 
 ------------------------------------------------------------------------
 
-[Next: Third Voyage](tale18)
+[Next: Third Voyage](tale18.md)

@@ -24,7 +24,7 @@ books is normally the equivalent of a college-level seminar on the
 subject. It can only broaden your understanding of other viewpoints.
 
 If you are stumped as to where to begin, there is a whole list of books
-which we'd like to see transcribed [on the wishlist page](wishlist).
+which we'd like to see transcribed [on the wishlist page](wishlist.md).
 This only scratches the surface, however.
 
 ##### Submitting original material
@@ -342,7 +342,7 @@ during a hard crash. Technically, it truncates the dictionary file to a
 zero length file. The files aren't that large, so backing it is no
 problem.
 
-Now we are ready to proof. We generally mark-up (see [STML](#stml)) the
+Now we are ready to proof. We generally mark-up (see [STML](#stml).md) the
 file at the same time as proofing, but for the purpose of exposition,
 the proofing process is discussed separately in this document.
 

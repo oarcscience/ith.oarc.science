@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb26)  [Next](boeb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb26)  [Next](boeb28.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ Till even in at the Jew's window
  
 
 <span id="img_17700"></span> [![](tn/17700.jpg)  
-Click to enlarge](img/17700.jpg)
+Click to enlarge](img/17700.jpg.md)
 
  
 
@@ -116,4 +116,4 @@ Never was such a burial
 
 ------------------------------------------------------------------------
 
-[Next: Sir Patrick Spens](boeb28)
+[Next: Sir Patrick Spens](boeb28.md)

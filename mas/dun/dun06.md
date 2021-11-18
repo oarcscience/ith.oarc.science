@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](dun05)  [Next](dun07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](dun05)  [Next](dun07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Duncan's Masoic Ritual and Monitor*, by Malcom C. Duncan, \[1866\], at
 Intangible Textual Heritage
 
@@ -36,10 +36,10 @@ The Past Master's Lodge consists of seven officers, as follows:--
 
 1\. Right Worshipful Master; 2. Senior Warden; 1. Junior Warden; 4.
 Secretary; 5. Treasurer; 6. Senior Deacon; 7. Junior Deacon. <span
-id="fr_61"></span>[1](#fn_61)
+id="fr_61"></span>[1](#fn_61.md)
 
 The interior arrangement is the same as in the first degree, and the
-officers are similarly seated. (See [p. 8](dun02.htm#page_8).)
+officers are similarly seated. (See [p. 8](dun02.htm#page_8)..md)
 
 <span id="page_185">p. 185</span>
 
@@ -344,12 +344,12 @@ his right foot at the toe of the left, so as to bring the two feet at
 right angles, and make them the right angle of a square. He then gives
 the sign, placing the thumb of his right hand (fingers clinched) upon
 his lips. It alludes to the penalty of having his tongue split from tip
-to root. (See [Fig. 25](#img_18900), [p. 189](#page_189).)
+to root. (See [Fig. 25](#img_18900), [p. 189](#page_189)..md)
 
 The Master then gives a second sign by placing his right hand upon the
 left side of his neck, and drawing it edgewise down-ward toward the
 right side, so as to cross the three former penalties. (See [Fig.
-26](#img_18901), [p. 189](#page_189).)
+26](#img_18901), [p. 189](#page_189)..md)
 
 <span id="page_191">p. 191</span>
 
@@ -358,16 +358,16 @@ the *oriental chair* of King Solomon. (Places a large cocked hat on his
 head, and seats him in a chair in front of the Master's chair ) That
 wise king, when old and decrepit, was attended by his two friends,
 Hiram, King of Tyre, and Hiram Abiff, who raised and seated him in his
-chair by means of the Past Master's grip. (See [Fig. 27](#img_19000).)
+chair by means of the Past Master's grip. (See [Fig. 27](#img_19000)..md)
 
 The Master and Senior Warden now take the candidate by this grip, and
 raise him on his feet several times, each time letting him sit back in
 the chair again. The Senior Warden then goes back to his seat, the
 candidate rises, and the Right Worshipful Master instructs him in the
 grip and word of a Past Master Mason. They first take each other by the
-Master Mason's grip (see [Fig. 17](dun04.htm#img_12000), [p.
-120](dun04.htm#page_120)), and, putting the insides of their feet
-together, the Master whispers GIBLEM <span id="fr_62"></span>[1](#fn_62)
+Master Mason's grip (see [Fig. 17](dun04.htm#img_12000.md), [p.
+120](dun04.htm#page_120).md), and, putting the insides of their feet
+together, the Master whispers GIBLEM <span id="fr_62"></span>[1](#fn_62.md)
 in the ear of the candidate. At that moment they slip their right hands
 so as to catch each other just above the wrist of the left arm, and
 raise their left hands, catching each other's right elbow, the Master
@@ -376,7 +376,7 @@ a grip to a span, from a span to a grip," afterward (almost at the same
 instant) letting the left hand slip up the right arm to the back of each
 other, the Master saying, "A threefold cord is strong," and the
 candidate (prompted) replying. "A fourfold cord is not easily broken."
-(See [Fig. 27](#img_19000).)
+(See [Fig. 27](#img_19000)..md)
 
 The Right Worshipful Master seats the candidate in the Master's chair,
 places a hat on his head, and then comes down in front, and says:
@@ -518,7 +518,7 @@ ceremony observed at the dedication of Masonic Halls. The fifth, of the
 ceremony observed at funerals, according to the ancient custom, with the
 service used on the occasion. The lecture is usually read from a
 Monitor, which is kept in every Lodge. (See Lecture, page
-[197](#page_197).)
+[197](#page_197)..md)
 
 The foregoing includes all the ceremonies ever used in confer-ring the
 Degree of Past Master; but the ceremonies are frequently shortened by
@@ -617,11 +617,11 @@ With this brief explanation of the reason why this Degree is now
 conferred upon you, and why you have been permitted to occupy the chair,
 you will retire, and suffer yourself to be prepared for those further
 and profounder researches into Masonry, which can only be consummated in
-the Royal Arch Degree. <span id="fr_63"></span>[1](#fn_63)
+the Royal Arch Degree. <span id="fr_63"></span>[1](#fn_63.md)
 
 If there is no further business, the lecture is delivered by the Right
 Worshipful Master, and the Lodge closed with the following prayer: <span
-id="fr_64"></span>[2](#fn_64)
+id="fr_64"></span>[2](#fn_64.md)
 
 <span id="page_197">p. 197</span>
 
@@ -638,7 +638,7 @@ perfection of every virtue. May we so practise Thy precepts that we may
 finally obtain Thy promises, and find an entrance through the gates into
 the temple and city of our God. So mote it be. Amen.
 
-### LECTURE ON THE FIFTH, OR PAST MASTER'S DEGREE.--PART OF THE SECOND SECTION <span id="fr_65"></span>[1](#fn_65)
+### LECTURE ON THE FIFTH, OR PAST MASTER'S DEGREE.--PART OF THE SECOND SECTION <span id="fr_65"></span>[1](#fn_65.md)
 
 *Question*. Are you a Past Master?
 
@@ -756,7 +756,7 @@ of the secretary.
 
 Q. What were you next presented with?
 
-A. I, as Master should be covered; <span id="fr_66"></span>[1](#fn_66)
+A. I, as Master should be covered; <span id="fr_66"></span>[1](#fn_66.md)
 while the rest of the brethren remained uncovered.
 
 Q. What were you next presented with?
@@ -785,7 +785,7 @@ installations; at the laying of corner stones of public edifices;
 presiding at funeral obsequies, and all other duties corresponding
 thereunto and connected therewith.
 
-<span id="img_19900"></span> ![PAST MASTER'S JEWEL.](img/19900.jpg)  
+<span id="img_19900"></span> ![PAST MASTER'S JEWEL.](img/19900.jpg.md)  
 PAST MASTER'S JEWEL.
 
  
@@ -794,7 +794,7 @@ PAST MASTER'S JEWEL.
 
 ### Footnotes
 
-<span id="fn_61"></span>[184:1](dun06.htm#fr_61) The regular officers of
+<span id="fn_61"></span>[184:1](dun06.htm#fr_61.md) The regular officers of
 a Past Masters' Lodge correspond exactly with those of a Lodge of Master
 Masons.
 
@@ -805,7 +805,7 @@ corresponding stations; the Principal Sojourner as Senior Deacon; the
 Royal Arch Captain as Junior Deacon, and the Tyler at his proper
 station.
 
-<span id="fn_62"></span>[191:1](dun06.htm#fr_62) The Giblemites, or, as
+<span id="fn_62"></span>[191:1](dun06.htm#fr_62.md) The Giblemites, or, as
 they are called in Scripture, the *Giblim*, were inhabitants of the city
 and district of Gebal, in Phoenicia, near Mount Lebanon, and were.
 therefore, under the dominion of the King of Tyre. The Phœnician word
@@ -824,10 +824,10 @@ called the "Master of the Ghiblim." The Giblim, or the Giblimites, were,
 therefore, stone-squarers or Master Masons.--*Book of the Chapter*, p.
 56.
 
-<span id="fn_63"></span>[196:1](dun06.htm#fr_63) See Mackey's "Book of
+<span id="fn_63"></span>[196:1](dun06.htm#fr_63.md) See Mackey's "Book of
 the Chapter."
 
-<span id="fn_64"></span>[196:2](dun06.htm#fr_64) The chief object of
+<span id="fn_64"></span>[196:2](dun06.htm#fr_64.md) The chief object of
 this Degree In the United States is to exemplify the necessity of
 government, and to enforce upon the minds of those who are called to
 govern, the importance of qualifying themselves for the skilful and
@@ -859,13 +859,13 @@ properly conferred, inculcate a lesson of diffidence in assuming the
 responsibilities of an office without a due preparation for the
 performance of its duties.--*Lexicon*.
 
-<span id="fn_65"></span>[197:1](dun06.htm#fr_65) This portion of the
+<span id="fn_65"></span>[197:1](dun06.htm#fr_65.md) This portion of the
 second section of the Lecture on the Fifth Degree relates to the
 induction of candidates, and is not given in the Monitors. With the
 exception of this, the Lecture may be found in "Webb's Monitor."
 
-<span id="fn_66"></span>[199:1](dun06.htm#fr_66) A hat.
+<span id="fn_66"></span>[199:1](dun06.htm#fr_66.md) A hat.
 
 ------------------------------------------------------------------------
 
-[Next: Most Excellent Master, or Sixth Degree](dun07)
+[Next: Most Excellent Master, or Sixth Degree](dun07.md)

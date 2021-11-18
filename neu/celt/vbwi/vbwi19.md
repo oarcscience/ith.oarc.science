@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi18)  [Next](vbwi20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi18)  [Next](vbwi20.md) 
 
 ------------------------------------------------------------------------
 
@@ -1138,4 +1138,4 @@ Patrick,* to be delivered from the spells of smiths and women.
 
 ------------------------------------------------------------------------
 
-[Next: Witches and Wizards and Irish Folk-Lore (W.B. Yeats)](vbwi20)
+[Next: Witches and Wizards and Irish Folk-Lore (W.B. Yeats)](vbwi20.md)

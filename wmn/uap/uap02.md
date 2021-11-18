@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](uap01) 
-[Next](uap03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](uap01.md) 
+[Next](uap03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -468,4 +468,4 @@ Gyro.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. A Woman](uap03)
+[Next: Chapter 2. A Woman](uap03.md)

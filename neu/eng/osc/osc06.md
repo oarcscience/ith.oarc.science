@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc05)  [Next](osc07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc05)  [Next](osc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ occasions in countries further south.
 
 ------------------------------------------------------------------------
 
-[Next: (4) Maunday Thursday (Or Shere Thursday)](osc07)
+[Next: (4) Maunday Thursday (Or Shere Thursday)](osc07.md)

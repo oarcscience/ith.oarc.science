@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index)  [Index](index) 
-[Previous](acc05)  [Next](acc07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index)  [Index](index.md) 
+[Previous](acc05)  [Next](acc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1580495796/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -750,7 +750,7 @@ For the first time the hand appeared to shake.
 
 <span id="img_15000"></span> <span align="CENTER"> [![The Last of the
 Spirits](tn/15000.jpg)  
-Click to enlarge](img/15000.jpg)  
+Click to enlarge](img/15000.jpg.md)  
 The Last of the Spirits  
 </span>
 
@@ -776,4 +776,4 @@ and dwindled down into a bedpost.
 
 ------------------------------------------------------------------------
 
-[Next: Stave Five. The End of It](acc07)
+[Next: Stave Five. The End of It](acc07.md)

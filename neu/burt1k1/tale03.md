@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale02)  [Next](tale04) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale02)  [Next](tale04.md) 
 
 ------------------------------------------------------------------------
 
@@ -351,4 +351,4 @@ and his daughters wived with the Kings until death came to them.
 
   And yet, O King! this is not more wondrous than the story of  
 
-(*Next*) [THE PORTER AND THE THREE LADIES OF BAGHDAD](tale04)  
+(*Next*) [THE PORTER AND THE THREE LADIES OF BAGHDAD](tale04.md)  

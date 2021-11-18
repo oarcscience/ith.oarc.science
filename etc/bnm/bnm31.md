@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm30)  [Next](bnm32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm30)  [Next](bnm32.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ manito.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Diamonds.](bnm32)
+[Next: The Story Of The First Diamonds.](bnm32.md)

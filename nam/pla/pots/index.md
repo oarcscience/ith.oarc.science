@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pots00)    [Text](pots.txt)
+[Contents](#contents)    [Start Reading](pots00)    [Text](pots.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -36,23 +36,23 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pots00)  
-[Contents](pots01)  
-[Illustrations](pots02)  
-[The Stories and the Story-Tellers](pots03)  
-[The Bluejay Stories](pots04)  
-[The Punishment of the Stingy](pots05)  
-[Bluejay, the Imitator](pots06)  
-[Bluejay Visits the Ghosts](pots07)  
-[The Girl Who Was the Ring](pots08)  
-[The First Corn](pots09)  
-[The Star Boy](pots10)  
-[The Grizzly Bear's Medicine](pots11)  
-[The First Medicine Lodge](pots12)  
-[Thunder Maker and Cold Maker](pots13)  
-[The Blindness of Pi-wap´-ōk](pots14)  
-[Ragged Head](pots15)  
-[Nothing Child](pots16)  
-[Shield Quiver's Wife](pots17)  
-[The Beaver Stick](pots18)  
-[Little Friend Coyote](pots19)  
+<span id="contents"></span> [Title Page](pots00.md)  
+[Contents](pots01.md)  
+[Illustrations](pots02.md)  
+[The Stories and the Story-Tellers](pots03.md)  
+[The Bluejay Stories](pots04.md)  
+[The Punishment of the Stingy](pots05.md)  
+[Bluejay, the Imitator](pots06.md)  
+[Bluejay Visits the Ghosts](pots07.md)  
+[The Girl Who Was the Ring](pots08.md)  
+[The First Corn](pots09.md)  
+[The Star Boy](pots10.md)  
+[The Grizzly Bear's Medicine](pots11.md)  
+[The First Medicine Lodge](pots12.md)  
+[Thunder Maker and Cold Maker](pots13.md)  
+[The Blindness of Pi-wap´-ōk](pots14.md)  
+[Ragged Head](pots15.md)  
+[Nothing Child](pots16.md)  
+[Shield Quiver's Wife](pots17.md)  
+[The Beaver Stick](pots18.md)  
+[Little Friend Coyote](pots19.md)  

@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift21) 
-[Next](ift23) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift21.md) 
+[Next](ift23.md) 
 
 ------------------------------------------------------------------------
 
 # The Farmer and the Money-lender
 
 <span id="img_61"></span> [![](tn/61.jpg)  
-Click to enlarge](img/61.jpg)
+Click to enlarge](img/61.jpg.md)
 
 <span id="img_60"></span> ![](img/60.jpg)HERE was once a farmer who
 suffered much at the hands of a money-lender. Good harvests, or bad, the
@@ -98,4 +98,4 @@ money-lender--but only by losing one of his eyes.
 ------------------------------------------------------------------------
 
 [Next: The Boy who had a Moon on his Forehead and a Star on his
-Chin](ift23)
+Chin](ift23.md)

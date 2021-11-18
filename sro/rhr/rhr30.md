@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr29)  [Next](rhr31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr29)  [Next](rhr31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ that "Freemasonry is neither more nor less than Rosicrucianism as
 modified by those who transplanted it into England." His elegant and
 interesting hypothesis rests on a microscopical foundation of actual
 fact. A passage in Fludd's rejoinder to the "Exercitatio Epistolæ" of
-Gassendi states that the [*Fratres*](errata.htm#5) *R. C.* are
+Gassendi states that the [*Fratres*](errata.htm#5.md) *R. C.* are
 thenceforth to be called *sapientes* or *sophos*. The German critic's
 discriminating commentary on this statement is that the old name was
 abolished, but as yet a new one had not been conferred, and that the
@@ -39,7 +39,7 @@ corroborating passages, and discovers in the "Summum Bonum," which Fludd
 disowned, as we have seen, that Jesus was the *lapis angularis* of the
 human temple in which men are stones, and that the author calls upon his
 students to be transformed from dead into living philosophical
-stones. <span id="fr_112"></span>[1](#fn_112) "Transmutemini,
+stones. <span id="fr_112"></span>[1](#fn_112.md) "Transmutemini,
 transmutemini,
 
 <span id="page_403">p. 403</span>
@@ -138,7 +138,7 @@ eighteenth century, though the
 <span id="page_406">p. 406</span>
 
 <span class="contnote">\[paragraph continues\]</span> "Dictionnaire
-Maçonnique" <span id="fr_113"></span>[1](#fn_113) declares that it was
+Maçonnique" <span id="fr_113"></span>[1](#fn_113.md) declares that it was
 created in Palestine by Godfrey de Bouillon in the year 1100, and that
 the Rose was emblematic of secrecy and the Cross of immortality. It
 professes to deal with the spiritual side of alchemy, and to seek that
@@ -180,7 +180,7 @@ wounding its breast to feed its young, which are in a nest surrounding
 it; while on the other side of the jewel is the figure of an eagle, with
 wings displayed. On the arc of the circle the P.·. W.·. of the degree is
 engraved in the cipher of the Order." <span
-id="fr_114"></span>[1](#fn_114) A triple crown surmounts the head of the
+id="fr_114"></span>[1](#fn_114.md) A triple crown surmounts the head of the
 Order. This symbolism is undoubtedly borrowed from the Rosicrucians,
 which is the whole extent of the connection supposed to subsist between
 the two Orders. The Rose-Cross degree in Freemasonry is admitted to be
@@ -193,18 +193,18 @@ Countries."
 
 ### Footnotes
 
-<span id="fn_112"></span>[402:1](rhr30.htm#fr_112) This passage happens
+<span id="fn_112"></span>[402:1](rhr30.htm#fr_112.md) This passage happens
 to occur in the Epistle from the Rosicrucian Society to a German
 neophyte, which was printed in the "Summum Bonum," but for which neither
 Fludd nor the unknown Joachim Fritz are responsible.
 
-<span id="fn_113"></span>[406:1](rhr30.htm#fr_113) "Dictionnaire
+<span id="fn_113"></span>[406:1](rhr30.htm#fr_113.md) "Dictionnaire
 Maçonnique, ou Recueil d’Esquisses de toutes les parties de l’edifice
 connu sous le nom de Maçonnerie." A Paris: 5825, 8vo.
 
-<span id="fn_114"></span>[407:1](rhr30.htm#fr_114) Mackey's "Lexicon of
+<span id="fn_114"></span>[407:1](rhr30.htm#fr_114.md) Mackey's "Lexicon of
 Freemasonry," p. 289.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Modern Rosicrucian Societies](rhr31)
+[Next: Chapter XVI. Modern Rosicrucian Societies](rhr31.md)

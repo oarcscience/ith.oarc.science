@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat17.htm#CXXXIII) 
-[Previous](satl132)  [Next](satl134) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat17.htm#CXXXIII.md) 
+[Previous](satl132)  [Next](satl134.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ iniecta manu duxit. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXXXIV](satl134)
+[Next: CXXXIV](satl134.md)

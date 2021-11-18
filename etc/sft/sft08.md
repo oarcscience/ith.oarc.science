@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](sft07)  [Next](sft09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](sft07)  [Next](sft09.md) 
 
 ------------------------------------------------------------------------
 
@@ -1009,4 +1009,4 @@ the child's psychology and to present the child's philosophy of life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Sources of Material for Fairy Tales](sft09)
+[Next: Chapter VI. Sources of Material for Fairy Tales](sft09.md)

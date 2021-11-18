@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg76)  [Next](btg78) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg76)  [Next](btg78.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ throne."
 
 ------------------------------------------------------------------------
 
-[Next: The Peacemaker](btg78)
+[Next: The Peacemaker](btg78.md)

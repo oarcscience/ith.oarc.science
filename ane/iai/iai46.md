@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai45)  [Next](iai47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai45)  [Next](iai47.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ I saw him on the ship! Is it in view?
 A speck! Ah, yes! He comes! he comes to me  
 My son from Erech comes across the sea!"  
 Back to his palace goes the holy seer,  
-And Mua <span id="fr_280"></span>[1](#fn_277) sends, who now the shore
+And Mua <span id="fr_280"></span>[1](#fn_277.md) sends, who now the shore
 doth near;  
 As beautiful as Waters of the Dawn,  
 Comes Mua here, as graceful as a fawn.
@@ -132,10 +132,10 @@ With dreams of happiness alone is blest.
 
 ### Footnotes
 
-<span id="fn_277"></span>[146:1](iai46.htm#fr_280) "Mua," the waters of
+<span id="fn_277"></span>[146:1](iai46.htm#fr_280.md) "Mua," the waters of
 the dawn, the daughter of Khasisadra.
 
 ------------------------------------------------------------------------
 
 [Next: Column IV. The King is Cured and Made Immortal by
-Khasisadra](iai47)
+Khasisadra](iai47.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc38)  [Next](osc40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc38)  [Next](osc40.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ prevailed at Whichenover, and it has been traced in Brittany.
 
 ------------------------------------------------------------------------
 
-[Next: (8) Selling Wives](osc40)
+[Next: (8) Selling Wives](osc40.md)

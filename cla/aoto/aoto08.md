@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto07) 
-[Next](aoto09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto07.md) 
+[Next](aoto09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -25,14 +25,14 @@ and all the Pylians celebrating the feast of Neptune. They were
 cordially received, especially by Nestor's son Pisistratus, and were at
 once invited to join the festivities. After dinner Nestor asked them who
 they were, and Telemachus, emboldened by Minerva, explained that they
-came from Ithaca under Neritum, <span id="fr_12"></span>[\*](#fn_12) and
+came from Ithaca under Neritum, <span id="fr_12"></span>[\*](#fn_12.md) and
 that he was seeking news of the death of his father Ulysses.
 
 When he heard this, Nestor told him all about his own <span
 class="margnote"><span id="an_3:102">102</span></span> adventures on his
 way home from Troy, but could give him no news of Ulysses. He touched,
 however, on the murder of Agamemnon by Ægisthus, and the revenge taken
-by Orestes. <span id="fr_13"></span>[†](#fn_13)
+by Orestes. <span id="fr_13"></span>[†](#fn_13.md)
 
 Telemachus said he wished he might be able to take a like <span
 class="margnote"><span id="an_3:201">201</span></span> revenge on the
@@ -88,10 +88,10 @@ morning, after passing a night in the house of Diodes at Pheræ.
 
 ### Footnotes
 
-<span id="fn_12"></span>[23:\*](aoto08.htm#fr_12) Reading ὑπονηρίρτου
+<span id="fn_12"></span>[23:\*](aoto08.htm#fr_12.md) Reading ὑπονηρίρτου
 for ὑπονηίου, *cf*. i. 186 and also xiii. 351.
 
-<span id="fn_13"></span>[23:†](aoto08.htm#fr_13) The reader will note
+<span id="fn_13"></span>[23:†](aoto08.htm#fr_13.md) The reader will note
 that the fact of Orestes having also killed his mother is not expressly
 stated here, nor in any of the three other passages in which the revenge
 taken by Orestes is referred to—doubtless as being too horrible. The
@@ -100,4 +100,4 @@ xi. 408, &c.
 
 ------------------------------------------------------------------------
 
-[Next: Book IV. Telemachus at the House of Menelaus](aoto09)
+[Next: Book IV. Telemachus at the House of Menelaus](aoto09.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd01) 
-[Next](iwd03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd01.md) 
+[Next](iwd03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Irish Witchcraft and Demonology*, by St. John D. Seymour, \[1913\], at
 Intangible Textual Heritage
 
@@ -292,7 +292,7 @@ country, the tremendous upheaval of the Cromwellian confiscations, and
 the various difficulties and dangers experienced by the new settlers
 would largely account for this immunity.
 
-Dr. Notestein <span id="fr_0"></span>[1](#fn_0) shows that the tales of
+Dr. Notestein <span id="fr_0"></span>[1](#fn_0.md) shows that the tales of
 apparitions and devils, of knockings and strange noises, with which
 English popular literature of the period is filled, are indications of a
 very overwrought public mind; of similar stories in Ireland, also
@@ -401,7 +401,7 @@ and probably the student who undertakes the investigation will find that
 this terrible and illogical method of extracting the truth (!) was very
 seldom utilised. Nor is it at all clear that torture was employed in
 England in similar trials. Dr. Notestein <span
-id="fr_1"></span>[1](#fn_1) thinks that there are some traces of it,
+id="fr_1"></span>[1](#fn_1.md) thinks that there are some traces of it,
 which cannot however be certainly proved, except in one particular
 instance towards the end of the reign of James I, though this was for
 the exceptional crime of practising sorcery (and therefore high treason)
@@ -442,7 +442,7 @@ at Como. Between 1615 and 1635 more than six thousand sorcerers were
 burnt in the diocese of Strasburg, while, if we can credit the figures
 of Bartholomew de Spina, in Lombardy a thousand sorcerers a year were
 put to death *for the space of twenty-five years*. <span
-id="fr_2"></span>[1](#fn_2) The total number of persons executed in
+id="fr_2"></span>[1](#fn_2.md) The total number of persons executed in
 various ways for this crime has, according to the *Encyclopædia
 Britannica*, been variously estimated at from one hundred thousand to
 several millions; if the latter figure be too high undoubtedly the
@@ -470,7 +470,7 @@ ladies, bishops, clergy--none were immune from accusation and
 condemnation. Nay, even a saint once fell under suspicion; in 1595 S.
 Francis de Sales was accused of having been present at a sorcerers'
 sabbath, and narrowly escaped being burnt by the populace. <span
-id="fr_3"></span>[1](#fn_3) Much more might be written in the same
+id="fr_3"></span>[1](#fn_3.md) Much more might be written in the same
 strain, but
 
 <span id="page_23">p. 23</span>
@@ -506,17 +506,17 @@ Nourry, 1910).
 
 ### Footnotes
 
-<span id="fn_0"></span>[14:1](iwd02.htm#fr_0) In his *History of
+<span id="fn_0"></span>[14:1](iwd02.htm#fr_0.md) In his *History of
 Witchcraft in England*.
 
-<span id="fn_1"></span>[19:1](iwd02.htm#fr_1) Notestein, 10. *op. cit*.
+<span id="fn_1"></span>[19:1](iwd02.htm#fr_1.md) Notestein, 10. *op. cit*.
 
-<span id="fn_2"></span>[21:1](iwd02.htm#fr_2) Français, *L'église et la
+<span id="fn_2"></span>[21:1](iwd02.htm#fr_2.md) Français, *L'église et la
 Sorcellerie*.
 
-<span id="fn_3"></span>[22:1](iwd02.htm#fr_3) Français, *op. cit.*
+<span id="fn_3"></span>[22:1](iwd02.htm#fr_3.md) Français, *op. cit.*
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II: A.D. 1324: Dame Alice Kyteler, The Sorceress of
-Kilkenny](iwd03)
+Kilkenny](iwd03.md)

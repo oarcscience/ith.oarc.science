@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb03)  [Next](pifb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb03)  [Next](pifb05.md) 
 
 </div>
 
@@ -165,6 +165,6 @@ nobody knows.
 
 ------------------------------------------------------------------------
 
-[Next: The Goblin and the Grocer](pifb05)
+[Next: The Goblin and the Grocer](pifb05.md)
 
 </div>

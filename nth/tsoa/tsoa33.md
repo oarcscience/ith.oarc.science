@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa32)  [Next](tsoa34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa32)  [Next](tsoa34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -47,7 +47,7 @@ billy-goat behind. And any man who still has health may with the winners
 stack, and have a chance at fame and wealth—for has-beens do come back."
 
 —<span class="smallcaps">Walt Mason</span>. <span
-id="fr_12"></span>[\*](#fn_12)
+id="fr_12"></span>[\*](#fn_12.md)
 
 </div>
 
@@ -316,9 +316,9 @@ thing whereto I sent it."—Isaiah.
 
 ### Footnotes
 
-<span id="fn_12"></span>[473:\*](tsoa33.htm#fr_12) From "Walt Mason—His
+<span id="fn_12"></span>[473:\*](tsoa33.htm#fr_12.md) From "Walt Mason—His
 Book." Barse & Hopkins, Newark, N. J.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. The Sculptor and the Clay](tsoa34)
+[Next: XXI. The Sculptor and the Clay](tsoa34.md)

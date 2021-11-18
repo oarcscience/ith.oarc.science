@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen11) 
-[Previous](aenl10)  [Next](aenl12) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen11.md) 
+[Previous](aenl10)  [Next](aenl12.md) 
 
 ------------------------------------------------------------------------
 
@@ -953,4 +953,4 @@ considunt castris ante urbem et moenia uallant.
 
 ------------------------------------------------------------------------
 
-[Next: Book XII](aenl12)
+[Next: Book XII](aenl12.md)

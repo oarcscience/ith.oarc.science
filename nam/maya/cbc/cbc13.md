@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc12)  [Next](cbc14) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc12)  [Next](cbc14.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,10 +8,10 @@ American](../../index)  [Maya](../index)  [Index](index) 
 
 ### \[p. 26 C\] (NOTES ON ASTRONOMY)
 
-(Small picture of a cross.) <span id="fr_231"></span>[3](#fn_230)
+(Small picture of a cross.) <span id="fr_231"></span>[3](#fn_230.md)
 
 When the eleventh day of June shall come, it will be the longest
-day. <span id="fr_232"></span>[4](#fn_231) When the thirteenth day of
+day. <span id="fr_232"></span>[4](#fn_231.md) When the thirteenth day of
 September comes, this day and night are precisely
 
 <span id="page_87">p. 87</span>
@@ -42,7 +42,7 @@ black one. Thus its movement is uniform, and this is its course here on
 earth also. On the ground it is thus manifested plainly all over the
 earth also. The progress of the sun is truly great as it takes its
 course to enter into the great *Oro* <span
-id="fr_233"></span>[1](#fn_232) extended over the world. &lt;This is&gt;
+id="fr_233"></span>[1](#fn_232.md) extended over the world. &lt;This is&gt;
 the record &lt;of the motion&gt; of the sun as it is known here on
 earth. /
 
@@ -53,14 +53,14 @@ earth. /
  
 
 <span id="img_fig08"></span> [![](tn/generic.jpg)  
-Click to view](img/fig08.jpg)  
+Click to view](img/fig08.jpg.md)  
 FIG. 8--Diagram representing an eclipse of the sun  
 (Chumayel MS.).
 
  
 
 To the people on the sides of this half-section as pictured, the sun is
-not eclipsed; <span id="fr_234"></span>[2](#fn_233) but for anyone who
+not eclipsed; <span id="fr_234"></span>[2](#fn_233.md) but for anyone who
 is in the middle it is eclipsed. It is in conjunction with the moon when
 it is eclipsed. It travels in its course before it is eclipsed. It
 arrives in its course to the north, very great. It is all the same with
@@ -73,7 +73,7 @@ happens to the sun and to the Moon.
  
 
 <span id="img_fig09"></span> [![](tn/generic.jpg)  
-Click to view](img/fig09.jpg)  
+Click to view](img/fig09.jpg.md)  
 FIG. 9--Diagram explaining the cause of solar and lunar eclipses
 (Chumayel MS.). / \[p. 28 C\]
 
@@ -83,19 +83,19 @@ FIG. 9--Diagram explaining the cause of solar and lunar eclipses
 
 ### Footnotes
 
-<span id="fn_230"></span>[86:3](cbc13.htm#fr_231) The cross probably
+<span id="fn_230"></span>[86:3](cbc13.htm#fr_231.md) The cross probably
 indicates that this is Christian teaching.
 
-<span id="fn_231"></span>[86:4](cbc13.htm#fr_232) This date for the
+<span id="fn_231"></span>[86:4](cbc13.htm#fr_232.md) This date for the
 summer solstice indicates that the passage was originally written at a
 time when the Julian calendar was still current in Yucatan.
 
-<span id="fn_232"></span>[87:1](cbc13.htm#fr_233) The translator does
+<span id="fn_232"></span>[87:1](cbc13.htm#fr_233.md) The translator does
 not know the word *Oro* as an astronomical term. It is the name of the
 gold disk which takes the place of the diamond on Spanish playing-cards
 and may refer to sunlight in general.
 
-<span id="fn_233"></span>[87:2](cbc13.htm#fr_234) *Chibil*, the Maya
+<span id="fn_233"></span>[87:2](cbc13.htm#fr_234.md) *Chibil*, the Maya
 word for an eclipse, also means eaten. Aguilar tells us that the Maya
 believed that certain ants called *xulab* ate the sun or moon at the
 time of an eclipse (Aguilar 1921, p. 304). This passage in the Chumayel
@@ -120,4 +120,4 @@ Thompson 1930, p. 63.
 
 ------------------------------------------------------------------------
 
-[Next: IX: The Interrogation of the Chiefs](cbc14)
+[Next: IX: The Interrogation of the Chiefs](cbc14.md)

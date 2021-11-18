@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy17)  [Next](phy19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy17)  [Next](phy19.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![P](img/09201.jpg) |
+| ![P](img/09201.jpg.md) |
 
 EEL Harbour once cleared, all sail was set on to the vessel, and as the
 evening closed in she was well away from the land of Mona, making a fair
@@ -240,7 +240,7 @@ visitor that he knew of a very eligible spot for the intended church, as
 <span id="img_09800"></span>
 
 [![BRODAR MERUNE RESTORING THE MONEY](tn/09800.jpg)  
-Click to enlarge](img/09800.jpg)  
+Click to enlarge](img/09800.jpg.md)  
 BRODAR MERUNE RESTORING THE MONEY  
 
  
@@ -265,4 +265,4 @@ was soon fixed and agreed upon for the jewels and also for the land.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](phy19)
+[Next: Chapter III](phy19.md)

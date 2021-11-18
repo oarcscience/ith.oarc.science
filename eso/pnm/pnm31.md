@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm30)  [Next](pnm32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm30)  [Next](pnm32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -78,7 +78,7 @@ stomach, liver and back; Virgo, the bowels and bottom of the stomach;
 Libra, the kidneys, thighs and buttocks; Scorpius, the secrets;
 Sagittarius, the thighs and groins; Capricornus, the knees; Aquarius,
 the legs and shins; Pisces, the feet. <span
-id="fr_18"></span>[\*](#fn_18) And as the triplicities of these Signs
+id="fr_18"></span>[\*](#fn_18.md) And as the triplicities of these Signs
 answer one the other, and agree in celestials, so also they agree in the
 members; which is sufficiently manifest by experience, because with the
 coldness of the feet the belly and breast are affected, which members
@@ -98,7 +98,7 @@ heart, by reason of the Sun and Aries and Leo. So
 
 doth ribwort, the herb of Mars, help the head and secrets by reason of
 Aries and Scorpio; and so of the rest. <span
-id="fr_19"></span>[\*](#fn_19) Also all things under Saturn conduce to
+id="fr_19"></span>[\*](#fn_19.md) Also all things under Saturn conduce to
 sadness and melancholy; those under Jupiter to mirth and honor; those
 under Mars to boldness, contention and anger; those under the Sun to
 glory, victory and courage; those under Venus to love, lust and
@@ -121,14 +121,14 @@ described in the books of Astrologers.
 
 ### Footnotes
 
-<span id="fn_18"></span>[93:\*](pnm31.htm#fr_18) The several parts of
+<span id="fn_18"></span>[93:\*](pnm31.htm#fr_18.md) The several parts of
 the physical body, it will be seen, run in order from the head to the
 feet in their correspondence with the twelve Signs or Houses of the
 Zodiac, from Aries, the first house, to Pisces, the twelfth and last.
 The Zodiac, as a whole, in symbolizing all parts of a complete man,
 typifies a perfect celestial being known as the Grand Solar Man.
 
-<span id="fn_19"></span>[94:\*](pnm31.htm#fr_19) <span
+<span id="fn_19"></span>[94:\*](pnm31.htm#fr_19.md) <span
 class="smallcaps">Note on Punctuation</span>: We find all semicolons
 used in this sentence in the English edition of 1651. Mr. Henry Morley,
 in his "Life of Cornelius Agrippa" (London, 1856), Vol. I., page 140, in
@@ -163,4 +163,4 @@ give prominence and pith thereto.
 
 [Next: Chapter XXIII. How We Shall Know What Stars Natural Things Are
 Under, and What Things Are Under the Sun, Which Are Called
-Solary](pnm32)
+Solary](pnm32.md)

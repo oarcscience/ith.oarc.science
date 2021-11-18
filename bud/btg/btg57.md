@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg56)  [Next](btg58) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg56)  [Next](btg58.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ forthwith he sanctified his life by earnest exertions.
 
 ------------------------------------------------------------------------
 
-[Next: The Sermon On Abuse](btg58)
+[Next: The Sermon On Abuse](btg58.md)

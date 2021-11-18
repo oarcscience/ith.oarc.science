@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt76)  [Next](egt78) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt76)  [Next](egt78.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ the essence of error; it made both \`Azâzîl and Bal\`âm infamous.
 
 ------------------------------------------------------------------------
 
-[Next: ON DEVOTION TO GOD.](egt78)
+[Next: ON DEVOTION TO GOD.](egt78.md)

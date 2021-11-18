@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb11)  [Next](yefb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb11)  [Next](yefb13.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="an_f10"></span>
 
-THE SEVEN-HEADED SERPENT <span id="fr_8"></span>[1](#fn_8)
+THE SEVEN-HEADED SERPENT <span id="fr_8"></span>[1](#fn_8.md)
 
 Once upon a time there was a king who determined to take a long voyage. 
 He assembled his fleet and all the seamen, and set out.  They went
@@ -101,7 +101,7 @@ children.'
 <span id="page_62">p. 62</span>
 
 'Is that what vexes you?' said the old woman.  'Listen to me.  I am a
-nun from the *Spinning Convent*, <span id="fr_9"></span>[1](#fn_9) and
+nun from the *Spinning Convent*, <span id="fr_9"></span>[1](#fn_9.md) and
 my mother when she died left me this apple.  Whoever eats this apple
 shall have a child.'
 
@@ -170,15 +170,15 @@ safety.  Thus he freed his country from this terrible oppression.
 
 ### Footnotes
 
-<span id="fn_8"></span>[60:1](yefb12.htm#fr_8) 'Die Siebenköpfige
+<span id="fn_8"></span>[60:1](yefb12.htm#fr_8.md) 'Die Siebenköpfige
 Schlange,' from Schmidt's *Griechische* *Mährchen*.
 
-<span id="fn_9"></span>[62:1](yefb12.htm#fr_9) Convent Gnothi.
+<span id="fn_9"></span>[62:1](yefb12.htm#fr_9.md) Convent Gnothi.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Grateful Beasts](yefb13)
+[Next: The Grateful Beasts](yefb13.md)
 
 </div>

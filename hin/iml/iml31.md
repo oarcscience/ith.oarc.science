@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml30)  [Next](iml32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml30)  [Next](iml32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ Kabandha, the Gandharva, who had been placed under spells. He spake and
 said: "Ravana dwells in the island of Lanka; he is the King of
 Rakshasas. If thou wouldst fain overcome him, thou must seek the aid of
 the ape chief, Sugriva, King of the Vanars, who dwells on Rishyamukha
-mountain." <span id="fr_343"></span>[1](#fn_342)
+mountain." <span id="fr_343"></span>[1](#fn_342.md)
 
 When the brethren went towards this mountain,
 
@@ -133,7 +133,7 @@ upon the jewels of Sita or not.
 Sugriva, who was the son of Surya, the sun god, desired to aid Rama, but
 he told that his bride and his kingdom had been taken from him by his
 half-brother Bali, son of Indra, whom he feared. <span
-id="fr_344"></span>[1](#fn_343) Then Rama promised to slay Bali and
+id="fr_344"></span>[1](#fn_343.md) Then Rama promised to slay Bali and
 restore the kingdom to Sugriva. And as he promised so did he do. Sugriva
 challenged his brother to single combat, and Rama discharged an arrow
 which pierced the heart of the usurper. All the apes rejoiced greatly
@@ -323,7 +323,7 @@ seizeth his prey. Make peace with him now, lest many perish in battle."
 Ravana was made angry, and cried: "Alas! for the love of my near
 relatives, who sorrow at my fame and smile at my peril; they are ever
 jealous and full of guile, because they hate me in their secret hearts.
-. . . Evil is thy speech, O [Bibhishana](errata.htm#3). Depart from me,
+. . . Evil is thy speech, O [Bibhishana](errata.htm#3.md). Depart from me,
 false prince, and carry thy treason to our enemies. . . . If thou wert
 not my brother I would slay thee even now."
 
@@ -355,7 +355,7 @@ Nala was immediately called upon to give his aid. Assisted by his
 workmen, this wonderful Vanar, whose body was green, constructed a
 causeway of rocky islands between the mainland and Lanka (Ceylon), and
 to this day it is called "Rama's Bridge." <span
-id="fr_345"></span>[1](#fn_344)
+id="fr_345"></span>[1](#fn_344.md)
 
 Rama meanwhile set up the Linga symbol of the god Shiva, and worshipped
 it on that holy island which hath since been called Ramisseram.
@@ -543,7 +543,7 @@ trembled and the ocean shook with fear.
 
 Suddenly Rama darted forward. He drew his bow and shot a swift arrow,
 which smote off one of Ravana's ten heads, but immediately another
-appeared in its place. <span id="fr_346"></span>[1](#fn_345) Then the
+appeared in its place. <span id="fr_346"></span>[1](#fn_345.md) Then the
 hero seized the flaming weapon which Brahma had created for the
 protection of the gods; with unerring aim he discharged it in flaming
 splendour; it struck the demon; it cleft in twain his heart of iron.
@@ -594,7 +594,7 @@ Witness of our sins and virtues, may this fire protect my fame!
 <span id="img_42400"></span>
 
 [![THE CORONATION OF RAMA AND SITA](tn/42400.jpg)  
-Click to enlarge](img/42400.jpg)  
+Click to enlarge](img/42400.jpg.md)  
 THE CORONATION OF RAMA AND SITA  
 
  
@@ -717,21 +717,21 @@ So endeth the story of Rama, whose fame can never die.
 
 ### Footnotes
 
-<span id="fn_342"></span>[410:1](iml31.htm#fr_343) Among the Nilgiri
+<span id="fn_342"></span>[410:1](iml31.htm#fr_343.md) Among the Nilgiri
 mountains.
 
-<span id="fn_343"></span>[411:1](iml31.htm#fr_344) These apes are the
+<span id="fn_343"></span>[411:1](iml31.htm#fr_344.md) These apes are the
 incarnations of the Vedic deities who sojourned on earth according to
 Vishnu's command.
 
-<span id="fn_344"></span>[418:1](iml31.htm#fr_345) Also "Adam's Bridge".
+<span id="fn_344"></span>[418:1](iml31.htm#fr_345.md) Also "Adam's Bridge".
 The green Celtic fairies are similarly credited with making island
 chains and long jutting promontories which stretch out from opposite
 shores of arms of the sea.
 
-<span id="fn_345"></span>[423:1](iml31.htm#fr_346) Like Hydra against
+<span id="fn_345"></span>[423:1](iml31.htm#fr_346.md) Like Hydra against
 which Hercules fought.
 
 ------------------------------------------------------------------------
 
-[Next: A-C](iml32)
+[Next: A-C](iml32.md)

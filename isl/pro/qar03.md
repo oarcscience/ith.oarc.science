@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](qar02)  [Next](job00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](qar02)  [Next](job00.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ Household, and thanks be for God.
 
 ------------------------------------------------------------------------
 
-[Next: Ayub (Job) The Prophet (PUH)](job00)
+[Next: Ayub (Job) The Prophet (PUH)](job00.md)

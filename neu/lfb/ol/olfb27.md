@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb26)  [Next](olfb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb26)  [Next](olfb28.md) 
 
 </div>
 
@@ -286,6 +286,6 @@ Brill, Leiden.)
 
 ------------------------------------------------------------------------
 
-[Next: He Wins Who Waits](olfb28)
+[Next: He Wins Who Waits](olfb28.md)
 
 </div>

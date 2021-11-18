@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Next](cota01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Next](cota01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Consciousness of the Atom*, by Alice A. Bailey, \[1922\], at
 Intangible Textual Heritage
 
@@ -49,22 +49,22 @@ was published prior to 1923.
 
 <span id="img_cover"></span> <span align="CENTER">
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 </span>
 
 <span id="img_cnote"></span> <span align="CENTER"> [![Copyright
 Notice](tn/cnote.jpg)  
-Click to enlarge](img/cnote.jpg)  
+Click to enlarge](img/cnote.jpg.md)  
 Copyright Notice  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](cota01)
+[Next: Table of Contents](cota01.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe217)  [Next](prwe219) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe217)  [Next](prwe219.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ which the body was found.
 
 ------------------------------------------------------------------------
 
-[Next: The Hand of a Suicide](prwe219)
+[Next: The Hand of a Suicide](prwe219.md)

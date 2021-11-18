@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ colour is rare, even though the patient may be suffering from nausea and
 vomiting, pointing to the fact that the gastric disturbance is not so
 dependent upon local derangement as upon some more general influence.
 
-[Case 70](tha10.htm#case70) is an instance somewhat analogous to stomach
+[Case 70](tha10.htm#case70.md) is an instance somewhat analogous to stomach
 troubles during pregnancy. Should, however, a woman have been suffering
 from some definite gastric trouble previous to gestation the above
 statement will, of course, not hold good. No further assistance can be
@@ -219,7 +219,7 @@ disclosed the fact ti at there was physiological activity going on in
 the breasts, and under that part of the abdomen near the pubes. There
 was no doubt about the case being one of gestation.
 
-The lady, whose aura was described in [case 49](tha08.htm#case49),
+The lady, whose aura was described in [case 49](tha08.htm#case49.md),
 believed herself to be pregnant after missing two monthly periods. When
 examined a third was nearly due. However, there was no alteration in the
 haze in front of the right breast, nor any increase by the lower part of
@@ -279,7 +279,7 @@ instance of the inner aura growing larger and subsequently diminishing,
 as it resumes its natural size after parturition.
 
 With the c.c. bands the whole of the breasts, except the
-[areolæ](errata.htm#19) and nipples, will usually appear lighter than
+[areolæ](errata.htm#19.md) and nipples, will usually appear lighter than
 the neighbouring parts of the body, in whatever position the patient may
 be placed.
 
@@ -296,7 +296,7 @@ with enlargement and definition of the inner aura, indicates the
 probability that some alteration in the aura itself has taken place, and
 is a good example of the statement that "a change in the texture of the
 aura is a sufficient cause to produce an alteration in the tint of the
-c.c. band." (Vide [chapter vi](tha05.htm#chap04).) The following is a
+c.c. band." (Vide [chapter vi](tha05.htm#chap04)..md) The following is a
 very interesting and instructive case.
 
 <span id="page_299">p. 299</span>

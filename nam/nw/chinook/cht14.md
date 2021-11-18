@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht13)  [Next](cht15) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht13)  [Next](cht15.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,4 +200,4 @@ on them.
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Skunk](cht15)
+[Next: 12. The Skunk](cht15.md)

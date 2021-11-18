@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp49) 
-[Next](alp51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp49.md) 
+[Next](alp51.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 <span id="page_67">p. 67</span>
 
-### CHARM VERSES <span id="fr_7"></span>[1](#fn_7)
+### CHARM VERSES <span id="fr_7"></span>[1](#fn_7.md)
 
 ##### FOLK SONGS
 
@@ -103,7 +103,7 @@ I'll be coy, and will not care!
 
 ### Footnotes
 
-<span id="fn_7"></span>[67:1](alp50.htm#fr_7) A great number of these
+<span id="fn_7"></span>[67:1](alp50.htm#fr_7.md) A great number of these
 little poems exist. They are traditional, and are used for
 fortune-telling. On the Eve of Ascension Day all those who wish to have
 their fortunes told place some little trinket into a bowl containing
@@ -115,4 +115,4 @@ preceding its being brought out as his or her fortune.
 
 ------------------------------------------------------------------------
 
-[Next: The Tears of Araxes](alp51)
+[Next: The Tears of Araxes](alp51.md)

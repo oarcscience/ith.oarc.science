@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo14)  [Next](hoo16) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo14)  [Next](hoo16.md) 
 
 ------------------------------------------------------------------------
 
 ###### X.
 
-### TO PAN  <span id="fr_63"></span>[\*](#fn_63)
+### TO PAN  <span id="fr_63"></span>[\*](#fn_63.md)
 
 ###### The FUMIGATION from VARIOUS ODORS
 
@@ -28,20 +28,20 @@ In thee a refuge from our fears we find,
 Those fears peculiar to the human kind.  
 Thee shepherds, streams of water, goats rejoice, 15  
 Thou. lov'st the chace, and Echo's secret voice:  <span
-id="fr_64"></span>[16](#fn_64)  
+id="fr_64"></span>[16](#fn_64.md)  
 The sportive nymphs, thy ev'ry step attend,  <span
-id="fr_65"></span>[17](#fn_65)  
+id="fr_65"></span>[17](#fn_65.md)  
 And all thy works fulfill their destin'd end.  
 O all-producing pow'r, much-fam'd, divine,  
 The world's great ruler, rich increase is thine. 20  
 All-fertile Pæan, heav'nly splendor pure,  
 In fruits rejoicing, and in caves obscure. <span
-id="fr_66"></span>[22](#fn_66)
+id="fr_66"></span>[22](#fn_66.md)
 
 <span id="page_132">p. 132</span>
 
 True serpent-horned Jove, whose dreadful rage  <span
-id="fr_67"></span>[23](#fn_67)  
+id="fr_67"></span>[23](#fn_67.md)  
 When rous'd, 'tis hard for mortals to asswage.  
 By thee the earth wide-bosom'd deep and long, 25  
 Stands on a basis permanent and strong.  
@@ -73,7 +73,7 @@ From human kind, to earth's remotest bound.
 
 ### Footnotes
 
-<span id="fn_63"></span>[130:\*](hoo15.htm#fr_63) Pan, it is well known,
+<span id="fn_63"></span>[130:\*](hoo15.htm#fr_63.md) Pan, it is well known,
 is the same with the Universe, and is called by Orpheus προτογονοσ
 (Protogonos), as we are informed by Damascius περὶ ἀρχῶν. Now Jupiter in
 the Orphic theology, is the demiurgus of the universe, or the first
@@ -86,17 +86,17 @@ universe, Protogonus or Jupiter is there celebrated as being all things;
 and is represented under the symbol of a divine body, whole members are
 the various parts of the world.
 
-<span id="fn_64"></span>[131:16](hoo15.htm#fr_64) Ver. 16\] *Echo's
+<span id="fn_64"></span>[131:16](hoo15.htm#fr_64.md) Ver. 16\] *Echo's
 secret voice*. Phurnutus informs us, that Pan is reported to dwell in
 solitary places, for the purpose of evincing his unity. For the World is
 one, and only-begotten. Opusc. Mythol. p. 203.
 
-<span id="fn_65"></span>[131:17](hoo15.htm#fr_65) Ver. 17\] *The
+<span id="fn_65"></span>[131:17](hoo15.htm#fr_65.md) Ver. 17\] *The
 sportive nymphs*. This is because Pan rejoices in the exhalations
 produced from humid substances; without which the world cannot subsist.
 *Phurnutus*.
 
-<span id="fn_66"></span>[131:22](hoo15.htm#fr_66) Ver. 22.\] *In caves
+<span id="fn_66"></span>[131:22](hoo15.htm#fr_66.md) Ver. 22.\] *In caves
 obscure*. A cave, as we learn from Porphyry, de Antro Nympharum, is an
 apt symbol of the material world; since it is agreeable at its first
 entrance on account of <span id="page_132">p. 132</span> its
@@ -105,7 +105,7 @@ intellectual eye, which endeavours to discern its dark foundation. So
 that, like a cave, its exterior and superficial parts are pleasant; but
 its interior parts are obscure, and its very bottom, darkness itself.
 
-<span id="fn_67"></span>[132:23](hoo15.htm#fr_67) Ver 23.\] *True
+<span id="fn_67"></span>[132:23](hoo15.htm#fr_67.md) Ver 23.\] *True
 serpent-horned Jove*. The reason why Pan is horned, is, because Jove is
 the mingler of all things, according to Orpheus, as we learn from Jo.
 Diac. Allegor. in Hesiod. p. 305; and the word κερασήσ is as Gesner
@@ -119,4 +119,4 @@ mundane soul.
 
 ------------------------------------------------------------------------
 
-[Next: XI: To Hercules](hoo16)
+[Next: XI: To Hercules](hoo16.md)

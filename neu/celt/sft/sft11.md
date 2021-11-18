@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sft10)  [Next](sft12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sft10)  [Next](sft12.md) 
 
 ------------------------------------------------------------------------
 
@@ -890,4 +890,4 @@ Swan Maidens
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Swan Maidens contd.](sft12)
+[Next: Chapter XI: Swan Maidens contd.](sft12.md)

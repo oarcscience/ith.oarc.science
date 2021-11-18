@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai06)  [Next](tai08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai06)  [Next](tai08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,9 +39,9 @@ rulers in 1478.
 
 ### Footnotes
 
-<span id="fn_2"></span>[vii:†](tai06.htm#fr_2) a river on which Kíev
+<span id="fn_2"></span>[vii:†](tai06.htm#fr_2.md) a river on which Kíev
 lies.
 
 ------------------------------------------------------------------------
 
-[Next: The Slav State](tai08)
+[Next: The Slav State](tai08.md)

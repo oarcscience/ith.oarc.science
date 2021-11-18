@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac20)  [Next](ybac22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac20)  [Next](ybac22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ masters, wanted everything directed to their own profit and
 tributes, as well as on the part of the Indians who wanted to persist in
 their idolatries and debaucheries. Especially was the labor heavy
 because of the Indians being scattered through the forests. <span
-id="fr_17"></span>[\*](#fn_17)
+id="fr_17"></span>[\*](#fn_17.md)
 
 The Spaniards took it ill that the friars built monasteries; they drove
 the young Indians from their domains that they might not come to
@@ -85,13 +85,13 @@ further envy against the friars on the
 part of the Spaniards, who declared they did all this to get the
 government of the Indies in their own hands and themselves enjoy all the
 things they had deprived the Spaniards of. <span
-id="fr_18"></span>[\*](#fn_18)
+id="fr_18"></span>[\*](#fn_18.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_17"></span>[28:\*](ybac21.htm#fr_17) This grammar and
+<span id="fn_17"></span>[28:\*](ybac21.htm#fr_17.md) This grammar and
 '*doctrina*' was then apparently reformed by Landa, then made the basis
 of that by Coronel, as printed in 1620. The grammar, of which only one
 copy has survived, in the present writer's collection, was then enlarged
@@ -105,11 +105,11 @@ eight years of his conversion activities and travels, between his
 arrival in 1544 and his death at some time between 1551 and 1553; as
 given by Cogolludo.
 
-<span id="fn_18"></span>[29:\*](ybac21.htm#fr_18) As to this whole
+<span id="fn_18"></span>[29:\*](ybac21.htm#fr_18.md) As to this whole
 chapter see the Appendix to this volume.
 
 ------------------------------------------------------------------------
 
 [Next: XVIII. Vices of the Indians. Studies of the Friars in the
 Language of the Country. Their Teachings to the Indians. Conversions.
-Punishments of Apostates](ybac22)
+Punishments of Apostates](ybac22.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](chaup00)  
-[The Story of the Chaup](chaup01)  
-[The Story of the Eagles](chaup02)  
-[The Story of the Chaup (Continued)](chaup03)  
+[Title Page](chaup00.md)  
+[The Story of the Chaup](chaup01.md)  
+[The Story of the Eagles](chaup02.md)  
+[The Story of the Chaup (Continued)](chaup03.md)  

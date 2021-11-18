@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa05)  [Next](slaa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa05)  [Next](slaa07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -42,7 +42,7 @@ Thor rules in the clouds. He is identified as a Sun-God, and, like
 Hercules, distinguished himself as the enemy of the powers of cold and
 darkness. He conquers the frost giants. Heimdal's realm is the rainbow,
 and Balder rules the realm of light, but the sun affects them all. "It
-is," says Anderson, <span id="fr_25"></span>[1](#fn_25) "Odin's eye,
+is," says Anderson, <span id="fr_25"></span>[1](#fn_25.md) "Odin's eye,
 Balder's countenance; Heimdal needs it for his rainbow, and still the
 sun itself rides as a beaming maid with her horses from morning until
 evening."
@@ -129,7 +129,7 @@ grew to such a size that a strong young wolf running
 <span id="page_95">p. 95</span>
 
 constantly died of old age ere he reached its limits. He was also like
-Nimrod a mighty hunter. <span id="fr_26"></span>[1](#fn_26) One of his
+Nimrod a mighty hunter. <span id="fr_26"></span>[1](#fn_26.md) One of his
 footsteps measured eight leagues. The Great Lakes were the beaver dams
 he built, and when the cataracts impeded his progress, he tore them away
 with his hands. Sometimes he was said to dwell in the skies with his
@@ -204,7 +204,7 @@ so that she would stop crying. They danced before the Sun and sang their
 best songs, but for a long time she kept her face covered and paid no
 attention until at last the drummer suddenly changed the song, when she
 lifted up her face and was so pleased at the sight that she forgot her
-grief and smiled." <span id="fr_27"></span>[1](#fn_27)
+grief and smiled." <span id="fr_27"></span>[1](#fn_27.md)
 
 It is a significant fact that we find here a legend in respect to the
 propitiation of the sun identical with the Japanese myth related above,
@@ -247,7 +247,7 @@ village, but, like Rip Van Winkle, no one knew them save an old woman.
 
 One of the most beautiful of the solar myths of the Indians is the
 Algonquin "Legend of the Red Swan" which is as follows: <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 <span id="page_100">p. 100</span>
 
@@ -317,7 +317,7 @@ Peruvians, rose from the bosom of Lake Titicaca, and journeying westward
 overcame all the foes that opposed him, and disappeared at length into
 the western sea, thus portraying his true solar character.
 
-Faber <span id="fr_29"></span>[1](#fn_29) tells us that the ancient
+Faber <span id="fr_29"></span>[1](#fn_29.md) tells us that the ancient
 Mexicans believed that the world was made by the gods, but professed
 ignorance as to the precise mode in which it was formed. "They imagined
 that since the creation four suns had successively appeared and
@@ -398,7 +398,7 @@ the several details of a myth than they are here. Great-Woman-Night who
 dwells on the horizon is the New Zealand Hades. The birds are to keep
 silence as the sun enters night, but may sing when he comes forth from
 her mouth, the mouth of Hades. The tiwakawaka describes the cry of the
-bird which is only heard at sunset." <span id="fr_30"></span>[1](#fn_30)
+bird which is only heard at sunset." <span id="fr_30"></span>[1](#fn_30.md)
 
  
 
@@ -426,7 +426,7 @@ bride, and this gracious act on her part freed the frog from a magic
 spell, and he was transformed into a handsome youth.
 
 "This tale," says Professor Max Müller, <span
-id="fr_31"></span>[1](#fn_31) "is solar in its character, and but
+id="fr_31"></span>[1](#fn_31.md) "is solar in its character, and but
 another version of the Sanscrit story of Bhekî the frog who became the
 wife of a king only to vanish at the sight of a glass of water, a legend
 that grew out of a phrase which was possibly, 'the sun dies at the sight
@@ -486,7 +486,7 @@ island there was a temple dedicated to the sun, as there was on the
 island of Chemmis, the Egyptian island, and the Greek island Delos.
 These islands were considered holy places.
 
-Faber <span id="fr_32"></span>[1](#fn_32) tells us: "The sun is further
+Faber <span id="fr_32"></span>[1](#fn_32.md) tells us: "The sun is further
 represented
 
 <span id="page_109">p. 109</span>
@@ -556,7 +556,7 @@ and won a game played for a beautiful wife. The Druid sent her to his
 house the next morning before he was out of bed, and his servants came
 knocking at the door and crying, 'Wake up, wake up, Master Sculloge,
 there's a young lady here to see you.' 'Bedad, it's the vanithee <span
-id="fr_33"></span>[1](#fn_33) herself,' said Sculloge; and getting up in
+id="fr_33"></span>[1](#fn_33.md) herself,' said Sculloge; and getting up in
 a hurry, he spent three-quarters of an hour in dressing himself. At last
 he went downstairs, and there on the sofa was the prettiest lady ever
 seen in Ireland. Naturally, Sculloge's heart beat fast and his voice
@@ -662,39 +662,39 @@ more sombre pages of the early history of man.
 
 ### Footnotes
 
-<span id="fn_25"></span>[91:1](slaa06.htm#fr_25) *Norse Mythology*, R.
+<span id="fn_25"></span>[91:1](slaa06.htm#fr_25.md) *Norse Mythology*, R.
 B. Anderson.
 
-<span id="fn_26"></span>[95:1](slaa06.htm#fr_26) In this connection it
+<span id="fn_26"></span>[95:1](slaa06.htm#fr_26.md) In this connection it
 is interesting to note the unexplained association of Orion, the
 personification of Nimrod, the mighty hunter, and the timid hare. In the
 constellations we find Orion and Lepus contiguous. That they were
 designed to be thus closely associated in the heavens cannot be doubted.
 
-<span id="fn_27"></span>[98:1](slaa06.htm#fr_27) From the 19th Report of
+<span id="fn_27"></span>[98:1](slaa06.htm#fr_27.md) From the 19th Report of
 the Bureau of Ethnology.
 
-<span id="fn_28"></span>[99:1](slaa06.htm#fr_28) *Primitive Culture*,
+<span id="fn_28"></span>[99:1](slaa06.htm#fr_28.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_29"></span>[102:1](slaa06.htm#fr_29) *The Origin of Pagan
+<span id="fn_29"></span>[102:1](slaa06.htm#fr_29.md) *The Origin of Pagan
 Idolatry*, George Stanley Faber.
 
-<span id="fn_30"></span>[105:1](slaa06.htm#fr_30) *Primitive Culture*,
+<span id="fn_30"></span>[105:1](slaa06.htm#fr_30.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_31"></span>[106:1](slaa06.htm#fr_31) *Chips from a German
+<span id="fn_31"></span>[106:1](slaa06.htm#fr_31.md) *Chips from a German
 Workshop*, Professor Max Müller.
 
-<span id="fn_32"></span>[108:1](slaa06.htm#fr_32) *The Origin of Pagan
+<span id="fn_32"></span>[108:1](slaa06.htm#fr_32.md) *The Origin of Pagan
 Idolatry*, G. S. Faber.
 
-<span id="fn_33"></span>[111:1](slaa06.htm#fr_33) Lady of the house.
+<span id="fn_33"></span>[111:1](slaa06.htm#fr_33.md) Lady of the house.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Solar Folk-Lore](slaa07)
+[Next: Chapter V. Solar Folk-Lore](slaa07.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl52)  [Next](hpl54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl52)  [Next](hpl54.md) 
 
 ------------------------------------------------------------------------
 
@@ -391,4 +391,4 @@ well-remembered incline to the depths below.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](hpl54)
+[Next: Chapter 7](hpl54.md)

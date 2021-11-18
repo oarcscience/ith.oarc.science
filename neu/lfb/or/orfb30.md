@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb29)  [Next](orfb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb29)  [Next](orfb31.md) 
 
 </div>
 
@@ -178,6 +178,6 @@ another forest.
 
 ------------------------------------------------------------------------
 
-[Next: Adventures of an Indian Brave](orfb31)
+[Next: Adventures of an Indian Brave](orfb31.md)
 
 </div>

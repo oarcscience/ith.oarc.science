@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip42)  [Next](fip44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip42)  [Next](fip44.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ fiction and a caprice.
 
 ------------------------------------------------------------------------
 
-[Next: Bewitched Butter (Donegal), by Letitia Maclintock](fip44)
+[Next: Bewitched Butter (Donegal), by Letitia Maclintock](fip44.md)

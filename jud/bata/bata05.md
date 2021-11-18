@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](bata04)  [Next](bata06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](bata04)  [Next](bata06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Talmud in Selection*, by Leo Auerbach, \[1944\], at
 Intangible Textual Heritage
 
@@ -750,6 +750,6 @@ locust would be blind.
 
 ------------------------------------------------------------------------
 
-[Next: Passover (Tractate Pessahim)](bata06)
+[Next: Passover (Tractate Pessahim)](bata06.md)
 
 </div>

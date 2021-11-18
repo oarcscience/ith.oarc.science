@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sikhism](../index)  [Wisdom
-of the East](../../woe/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sikhism](../index.md)  [Wisdom
+of the East](../../woe/index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ of the East](../../woe/index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rosi00)    [Page
-Index](pageidx)    [Text \[Zipped\]](rosi.txt.gz)
+[Contents](#contents)    [Start Reading](rosi00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rosi.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,13 +40,13 @@ religion and people.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rosi00)  
-[Acknowledgement](rosi01)  
-[Contents](rosi02)  
-[Editorial Note](rosi03)  
-[Chapter I. The Sikh Gurus](rosi04)  
+<span id="contents"></span> [Title Page](rosi00.md)  
+[Acknowledgement](rosi01.md)  
+[Contents](rosi02.md)  
+[Editorial Note](rosi03.md)  
+[Chapter I. The Sikh Gurus](rosi04.md)  
 [Chapter II. The Religious Origins of Sikhism——Hindu Monotheism and
-Connection with Islām](rosi05)  
-[Chapter III. The Doctrines of the Sikhs](rosi06)  
+Connection with Islām](rosi05.md)  
+[Chapter III. The Doctrines of the Sikhs](rosi06.md)  
 [Chapter IV. Hymns from the Granth Sāhib, and from the Granth of the
-Tenth Guru](rosi07)  
+Tenth Guru](rosi07.md)  

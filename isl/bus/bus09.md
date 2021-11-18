@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus08)  [Next](bus10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus08)  [Next](bus10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -141,7 +141,7 @@ fortunate, like them?"
 
 The man replied: "I am incapable of aught; quarrel not with Fate. I have
 not been endowed with the power to make myself a Bakhtyar."
-[25](bus15.htm#an_25)
+[25](bus15.htm#an_25.md)
 
 #### STORY OF A DARWESH AND HIS WIFE
 
@@ -239,4 +239,4 @@ one is seen and the other is hidden.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Concerning Contentment](bus10)
+[Next: Chapter VI. Concerning Contentment](bus10.md)

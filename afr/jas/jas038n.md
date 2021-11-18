@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas037n)  [Next](jas039n)   
- \[[38. Curing the Sick.](jas038)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas037n)  [Next](jas039n.md)   
+ \[[38. Curing the Sick.](jas038.md)\]
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ vengeance; Dog himself is swallowed by Crocodile.
 
 ------------------------------------------------------------------------
 
-[Next: Note 39. Anansi, White-belly and Fish.](jas039n)
+[Next: Note 39. Anansi, White-belly and Fish.](jas039n.md)

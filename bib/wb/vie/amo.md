@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](joe)  [Next](oba) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](joe)  [Next](oba.md) 
 
 ------------------------------------------------------------------------
 
@@ -588,4 +588,4 @@ Giê-hô-va là Ðức Chúa Trời ngươi phán vậy.
 
 ------------------------------------------------------------------------
 
-[Next: Obadiah](oba)
+[Next: Obadiah](oba.md)

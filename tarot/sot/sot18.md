@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot17) 
-[Next](sot19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot17.md) 
+[Next](sot19.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ patriarch".
 
 ------------------------------------------------------------------------
 
-[Next: Card XIV. Time (Temperance)](sot19)
+[Next: Card XIV. Time (Temperance)](sot19.md)

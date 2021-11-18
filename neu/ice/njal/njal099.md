@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal098)  [Next](njal100) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal098)  [Next](njal100.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ that ship Thangbrand fared abroad, and Gudleif with him.
 
 ------------------------------------------------------------------------
 
-[Next: 100. Of Gizur The White And Hjallti](njal100)
+[Next: 100. Of Gizur The White And Hjallti](njal100.md)

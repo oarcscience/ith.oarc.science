@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog16)  [Next](bog18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog16)  [Next](bog18.md) 
 
 ------------------------------------------------------------------------
 
@@ -426,4 +426,4 @@ Mary, Mother of Universes.
 
 ------------------------------------------------------------------------
 
-[Next: Aphrodite](bog18)
+[Next: Aphrodite](bog18.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw15)  [Next](cjw17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw15)  [Next](cjw17.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,4 +285,4 @@ all-knowing, entering the All, becomes immortal.
 
 ------------------------------------------------------------------------
 
-[Next: The Awakening to Reality](cjw17)
+[Next: The Awakening to Reality](cjw17.md)

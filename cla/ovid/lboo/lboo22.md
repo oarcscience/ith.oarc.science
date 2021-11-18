@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo21)  [Next](lboo23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo21)  [Next](lboo23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ BOOK II</h1></td>
 ------------------------------------------------------------------------
 
 [Next: Elegy I: He Tells Wherefore, Instead Of The Wars Of The Giants,
-Which He Had Commenced, He Is Constrained To Sing Of Love.](lboo23)
+Which He Had Commenced, He Is Constrained To Sing Of Love.](lboo23.md)

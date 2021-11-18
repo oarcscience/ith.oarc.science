@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist079) 
-[Next](hist081) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist079.md) 
+[Next](hist081.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ the Mercian nation.
 ------------------------------------------------------------------------
 
 [Next: XXV. How the question arose about the due time of keeping Easter,
-with those that came out of Scotland. \[664 A.D.\]](hist081)
+with those that came out of Scotland. \[664 A.D.\]](hist081.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi13)  [Next](hpi15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi13)  [Next](hpi15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 # IV. THE NEO-PLATONIC ARISTOTELIANS OF THE EAST.
 
-### 1. KINDI. <span id="fr_14"></span>[1](#fn_14)
+### 1. KINDI. <span id="fr_14"></span>[1](#fn_14.md)
 
 1\. Kindi is related in various ways to the Mutazilite Dialecticians and
 the Neo-Pythagorean Natural-Philosophers of his time, and we might
@@ -83,7 +83,7 @@ make out the prolongation, for about 450 years, of the State's
 existence, menaced though it was by a planetary conjunction. His
 princely patron might well be satisfied; and history conformed to the
 time predicted, to within half-a-century. <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 2\. Kindi was a man of extraordinary erudition, a Polyhistor: he had
 absorbed the whole learning and culture of his time. But although he may
@@ -195,7 +195,7 @@ subjective requirement of intellectual culture is brought conspicuously
 to the front.
 
 Kindi has a fourfold division of the Spirit <span
-id="fr_16"></span>[1](#fn_16): first the Spirit which is ever real,--the
+id="fr_16"></span>[1](#fn_16.md): first the Spirit which is ever real,--the
 Cause and the Essence of all that is spiritual in the world,--thus
 without doubt God or the First Spirit produced; second, Spirit as the
 Reasoning capacity or Potentiality of the human soul; third, as the
@@ -295,17 +295,17 @@ be determined, in the present state of our knowledge.
 
 ### Footnotes
 
-<span id="fn_14"></span>[97:1](hpi14.htm#fr_14) Cf. my Article "On Kindi
+<span id="fn_14"></span>[97:1](hpi14.htm#fr_14.md) Cf. my Article "On Kindi
 and his School" in Stein's 'Archiv für Geschichte der Philosophie XIII',
 p. 153 *sqq*., from which I have taken over, without much alteration,
 not a little that appears in this chapter.
 
-<span id="fn_15"></span>[99:1](hpi14.htm#fr_15) \[*Translator's
+<span id="fn_15"></span>[99:1](hpi14.htm#fr_15.md) \[*Translator's
 note*.--The Bagdad Caliphate lasted up to the death of Mustassim (A.H.
 656 or A.D. 1258), *i.e.* for 400 Mohammedan years after A.H. 256 or
 A.D. 870\].
 
-<span id="fn_16"></span>[103:1](hpi14.htm#fr_16) The Arabic *‘aql*
+<span id="fn_16"></span>[103:1](hpi14.htm#fr_16.md) The Arabic *‘aql*
 (νοῦς) is usually translated by Reason and Intelligence (Lat.
 *intellectus* and *intelligentia*). I prefer however the rendering,
 *Geist*, Spirit or Mind, because the expression includes God and the
@@ -315,4 +315,4 @@ thinkers.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Farabi](hpi15)
+[Next: 2. Farabi](hpi15.md)

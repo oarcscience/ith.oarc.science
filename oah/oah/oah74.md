@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah73)  [Next](oah75) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah73)  [Next](oah75.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ END OF BOOK OF APH, SON OF JEHOVIH.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah75)
+[Next: Chapter I](oah75.md)

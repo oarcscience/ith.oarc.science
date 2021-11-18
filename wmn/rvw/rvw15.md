@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw14.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,7 +124,7 @@ state law dealing directly with abortion was enacted by the Connecticut
 Legislature. Conn. Stat., Tit. 22, 14, 16. By the time of the adoption
 of the Fourteenth \[410 U.S. 113, 175\] Amendment in 1868, there were at
 least 36 laws enacted by state or territorial legislatures limiting
-abortion. [1b](rvw15.htm#xref_1b) While many States have amended or
+abortion. [1b](rvw15.htm#xref_1b.md) While many States have amended or
 updated \[410 U.S. 113, 176\] their laws, 21 of the laws on the books in
 1868 remain in effect today.<span id="xref_2b">2b</span> Indeed, the
 Texas statute struck down today was, as the majority notes, first

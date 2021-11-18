@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](qrtp)  [Next](qrded) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](qrtp)  [Next](qrded.md) 
 
 </div>
 
@@ -49,7 +49,7 @@ the Koran is regarded by the orthodox as nothing less than the eternal
 utterance of Allah. The eulogy pronounced by Carlyle on Muhammed in
 Heroes and Hero Worship will probably be endorsed by not a few at the
 present day. The extreme contrary opinion, which in a fresh form has
-recently been revived <span id="fr_0"></span>[1](#fn_0) by an able
+recently been revived <span id="fr_0"></span>[1](#fn_0.md) by an able
 writer, is hardly likely to find much lasting support. The correct view
 very probably lies between the two extremes. The relative value of any
 given system of religious thought must depend on the amount of truth
@@ -209,13 +209,13 @@ Syriac Influence on the Style of the Kur’ân, 1927.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](qrintro.htm#fr_0) Mahommed and the Rise of
+<span id="fn_0"></span>[1](qrintro.htm#fr_0.md) Mahommed and the Rise of
 Islam, in “Heroes of Nations” series.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Dedication](qrded)
+[Next: Dedication](qrded.md)
 
 </div>

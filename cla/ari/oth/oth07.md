@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth06)  [Next](oth08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth06)  [Next](oth08.md) 
 
 ------------------------------------------------------------------------
 
@@ -152,4 +152,4 @@ of the universe is not infinite.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](oth08)
+[Next: Chapter 8](oth08.md)

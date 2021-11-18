@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg03)  [Next](ttg05) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg03)  [Next](ttg05.md) 
 
 ------------------------------------------------------------------------
 
@@ -213,4 +213,4 @@ king tried again to catch him.
 ------------------------------------------------------------------------
 
 [Next: Fourth Goblin: King Shudraka and Hero's Family. Which of the five
-deserves the most honour?](ttg05)
+deserves the most honour?](ttg05.md)

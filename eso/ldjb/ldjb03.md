@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb02)  [Next](ldjb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb02)  [Next](ldjb04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -1168,6 +1168,6 @@ literature.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introduction](ldjb04)
+[Next: Chapter I. Introduction](ldjb04.md)
 
 </div>

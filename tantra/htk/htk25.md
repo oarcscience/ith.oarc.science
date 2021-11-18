@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk24)  [Next](htk26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk24)  [Next](htk26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -28,11 +28,11 @@ at Intangible Textual Heritage
 ### VERSE 21
 
 O MOTHER, this Hymn of Thine is the source from whence originates Thy
-*mantra*. <span id="fr_157"></span>[1](#fn_157) It sings of Thy real
+*mantra*. <span id="fr_157"></span>[1](#fn_157.md) It sings of Thy real
 self, and contains injunctions for the worship of Thy two lotus Feet. He
 who reads it at midnight or at time of worship <span
-id="fr_158"></span>[2](#fn_158) even his random talk <span
-id="fr_159"></span>[3](#fn_159) becomes the nectar juice of poesy.
+id="fr_158"></span>[2](#fn_158.md) even his random talk <span
+id="fr_159"></span>[3](#fn_159.md) becomes the nectar juice of poesy.
 
 COMMENTARY
 
@@ -57,21 +57,21 @@ and poetry.'
 
 ### Footnotes
 
-<span id="fn_157"></span>[93:1](htk25.htm#fr_157)
+<span id="fn_157"></span>[93:1](htk25.htm#fr_157.md)
 *Manusamuddharaṇajanuh*—that is, cause of *mantroddhāra*: formation of
 Mantra of Devī. The *mantra* is made known, and then impressed with the
 life and consciousness (*caitanya*) of the *sādhaka*
 (*mantra-caitanya*).
 
-<span id="fn_158"></span>[93:2](htk25.htm#fr_158) *Pūjā*.
+<span id="fn_158"></span>[93:2](htk25.htm#fr_158.md) *Pūjā*.
 
-<span id="fn_159"></span>[93:3](htk25.htm#fr_159) That is, even his
+<span id="fn_159"></span>[93:3](htk25.htm#fr_159.md) That is, even his
 meaningless delirious talk, as in fever or madness, etc. (K.13.).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Verse 22](htk26)
+[Next: Verse 22](htk26.md)
 
 </div>

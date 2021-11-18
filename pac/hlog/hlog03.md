@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog02)  [Next](hlog04) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog02)  [Next](hlog04.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ THE AUTHOR.
 
 ------------------------------------------------------------------------
 
-[Next: Pronunciation](hlog04)
+[Next: Pronunciation](hlog04.md)

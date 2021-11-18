@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf33)  [Next](sunf35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf33)  [Next](sunf35.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -189,6 +189,6 @@ saw them never again.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII. Osberne Seeks Tidings of Elfhild](sunf35)
+[Next: Chapter XXXIII. Osberne Seeks Tidings of Elfhild](sunf35.md)
 
 </div>

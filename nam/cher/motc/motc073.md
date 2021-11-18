@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc072) 
-[Next](motc074) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc072.md) 
+[Next](motc074.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ he had stayed with the panthers he would have lived.
 
 ------------------------------------------------------------------------
 
-[Next: 74. The Tsundige'wï](motc074)
+[Next: 74. The Tsundige'wï](motc074.md)

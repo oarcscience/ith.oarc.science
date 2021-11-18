@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp12)  [Next](ptp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp12)  [Next](ptp14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -186,7 +186,7 @@ of the Emperor's temper was his statement: "That the world has been
 deceived by three impostors: Jesus Christ, Moses and Mahomet; that two
 of these died in honor; the third, Jesus Christ, was hanged on a tree;
 that those are fools who aver that God, the omnipotent
-[Creator](errata.htm#6) of the world, was born of a virgin; and that man
+[Creator](errata.htm#6.md) of the world, was born of a virgin; and that man
 ought to believe nothing but what he can understand and prove by
 reason!"
 
@@ -355,7 +355,7 @@ Conrad's brother, Manfred, an illegitimate son of Frederick who was of a
 nature not content to accept the limitations of his birth. The high
 drama took another turn with the death of Conrad who left as heir his
 infant son, Conradin, and who on his deathbed made a bold diplomatic
-gesture in naming Innocent, [rejecter](errata.htm#7) of his claims, as
+gesture in naming Innocent, [rejecter](errata.htm#7.md) of his claims, as
 guardian of his son. Out of the tangle wrought by this latest
 circumstance loomed one
 
@@ -525,12 +525,12 @@ Michael VIII Palaeologus,
 
 <span id="img_16800"></span> <span align="CENTER"> [![Pope Boniface
 VIII.](tn/16800.jpg)  
-Click to enlarge](img/16800.jpg)  
+Click to enlarge](img/16800.jpg.md)  
 Pope Boniface VIII.  
 </span>
 
-<span class="small">See pages [177](#page_177) to
-[181](ptp14.htm#page_181). Philip of France called him, "Your Supreme
+<span class="small">See pages [177](#page_177.md) to
+[181](ptp14.htm#page_181.md). Philip of France called him, "Your Supreme
 Foolishness."</span>
 
 <span id="page_169">p. 169</span>
@@ -815,4 +815,4 @@ IX, Gregory VI, and Gregory XII.)
 
 ------------------------------------------------------------------------
 
-[Next: Fourteenth Century](ptp14)
+[Next: Fourteenth Century](ptp14.md)

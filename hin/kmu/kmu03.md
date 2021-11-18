@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu02)  [Next](kmu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu02)  [Next](kmu04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -96,7 +96,7 @@ Sri Krishna,
 <span id="page_12">p. 12</span>
 
 <span class="contnote">\[paragraph continues\]</span> King Janak,
-[Yajnavalkya](errata.htm#1), Guru [Nanak](errata.htm#2), Buddha and
+[Yajnavalkya](errata.htm#1), Guru [Nanak](errata.htm#2.md), Buddha and
 countless others. The present day we have Saint Mahatma Gandhi.
 
 Why does the Kundalini choose India? To perfect her being and for the
@@ -160,4 +160,4 @@ spiritual motives." (From Sir Woodroffe's book—"Is India Civilized?")
 
 ------------------------------------------------------------------------
 
-[Next: The Yoga and its Object](kmu04)
+[Next: The Yoga and its Object](kmu04.md)

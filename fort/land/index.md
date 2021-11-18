@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](land00)    [Page
-Index](pageidx)    [Text \[Zipped\]](land.txt.gz)
+[Contents](#contents)    [Start Reading](land00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](land.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ one local sky do indicate, if they do not indicate fixed origins in the
 sky. And if such occurrences, supported by many data in other fields, do
 not indicate the stationariness of this earth, with new lands not far
 away--tell me what it is all about. The falling stones of Chico--new
-lands in the sky--or what?--p. [535](land38.htm#page_535)</span>
+lands in the sky--or what?--p. [535](land38.htm#page_535.md)</span>
 
 The focus of this book, the second which Fort published, is to tweak the
 nose of the mainstream astronomers. Fort's slightly tongue-in-cheek
@@ -70,50 +70,50 @@ dismiss these reports in similar terms for a long time...
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](land00)  
+<span id="contents"></span> [Title Page](land00.md)  
 <span id="section_000"></span>
 
 ### Part I
 
-[1](land01)  
-[2](land02)  
-[3](land03)  
-[4](land04)  
-[5](land05)  
-[6](land06)  
-[7](land07)  
-[8](land08)  
-[9](land09)  
-[10](land10)  
-[11](land11)  
-[12](land12)  
+[1](land01.md)  
+[2](land02.md)  
+[3](land03.md)  
+[4](land04.md)  
+[5](land05.md)  
+[6](land06.md)  
+[7](land07.md)  
+[8](land08.md)  
+[9](land09.md)  
+[10](land10.md)  
+[11](land11.md)  
+[12](land12.md)  
 <span id="section_001"></span>
 
 ### Part II
 
-[13](land13)  
-[14](land14)  
-[15](land15)  
-[16](land16)  
-[17](land17)  
-[18](land18)  
-[19](land19)  
-[20](land20)  
-[21](land21)  
-[22](land22)  
-[23](land23)  
-[24](land24)  
-[25](land25)  
-[26](land26)  
-[27](land27)  
-[28](land28)  
-[29](land29)  
-[30](land30)  
-[31](land31)  
-[32](land32)  
-[33](land33)  
-[34](land34)  
-[35](land35)  
-[36](land36)  
-[37](land37)  
-[38](land38)  
+[13](land13.md)  
+[14](land14.md)  
+[15](land15.md)  
+[16](land16.md)  
+[17](land17.md)  
+[18](land18.md)  
+[19](land19.md)  
+[20](land20.md)  
+[21](land21.md)  
+[22](land22.md)  
+[23](land23.md)  
+[24](land24.md)  
+[25](land25.md)  
+[26](land26.md)  
+[27](land27.md)  
+[28](land28.md)  
+[29](land29.md)  
+[30](land30.md)  
+[31](land31.md)  
+[32](land32.md)  
+[33](land33.md)  
+[34](land34.md)  
+[35](land35.md)  
+[36](land36.md)  
+[37](land37.md)  
+[38](land38.md)  

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft21)  [Next](eft23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft21)  [Next](eft23.md) 
 
 ------------------------------------------------------------------------
 
 # Childe Rowland
 
 <span id="img_022"></span> [![](tn/022.jpg)  
-Click to enlarge](img/022.jpg)
+Click to enlarge](img/022.jpg.md)
 
  
 
@@ -216,4 +216,4 @@ church 'widershins' again.
 
 ------------------------------------------------------------------------
 
-[Next: Molly Whuppie](eft23)
+[Next: Molly Whuppie](eft23.md)

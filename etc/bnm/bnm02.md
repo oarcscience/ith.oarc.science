@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm01)  [Next](bnm03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm01)  [Next](bnm03.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ THE BOOK OF NATURE MYTHS.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Hummingbird.](bnm03)
+[Next: The Story Of The First Hummingbird.](bnm03.md)

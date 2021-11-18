@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -29,9 +29,9 @@ they leave off any further opposition to it, by the persuasion of
 Joazar, who was the son of Beethus, and high priest; so they, being
 over-pesuaded by Joazar's words, gave an account of their estates,
 without any dispute about it. Yet was there one Judas, a Gaulonite,
-<span id="EndNote Ant 18.1a"></span>[(1)](#EndNote%20Ant%2018.1b) of a
+<span id="EndNote Ant 18.1a"></span>[(1)](#EndNote%20Ant%2018.1b.md) of a
 city whose name was Gamala, who, taking with him Sadduc, <span
-id="EndNote Ant 18.2a"></span>[(2)](#EndNote%20Ant%2018.2b) a Pharisee,
+id="EndNote Ant 18.2a"></span>[(2)](#EndNote%20Ant%2018.2b.md) a Pharisee,
 became zealous to draw them to a revolt, who both said that this
 taxation was no better than an introduction to slavery, and exhorted the
 nation to assert their liberty; as if they could procure them happiness
@@ -109,7 +109,7 @@ ascribed to God. They teach the immortality of souls, and esteem that
 the rewards of righteousness are to be earnestly striven for; and when
 they send what they have dedicated to God into the temple, they do not
 offer sacrifices <span
-id="EndNote Ant 18.3a"></span>[(3)](#EndNote%20Ant%2018.3b) because they
+id="EndNote Ant 18.3a"></span>[(3)](#EndNote%20Ant%2018.3b.md) because they
 have more pure lustrations of their own; on which account they are
 excluded from the common court of the temple, but offer their sacrifices
 themselves; yet is their course of life better than that of other men;
@@ -131,7 +131,7 @@ are good men and priests, who are to get their corn and their food ready
 for them. They none of them differ from others of the Essens in their
 way of living, but do the most resemble those Dacae who are called
 Polistae <span
-id="EndNote Ant 18.4a"></span>[(4)](#EndNote%20Ant%2018.4b) \[dwellers
+id="EndNote Ant 18.4a"></span>[(4)](#EndNote%20Ant%2018.4b.md) \[dwellers
 in cities\].
 
 6\. But of the fourth sect of Jewish philosophy, Judas the Galilean was
@@ -220,9 +220,9 @@ at his own expenses, and by giving them land also; for he was sensible,
 that to make this place a habitation was to transgress the Jewish
 ancient laws, because many sepulchers were to be here taken away, in
 order to make room for the city Tiberias <span
-id="EndNote Ant 18.5a"></span>[(5)](#EndNote%20Ant%2018.5b) whereas our
+id="EndNote Ant 18.5a"></span>[(5)](#EndNote%20Ant%2018.5b.md) whereas our
 laws pronounce that such inhabitants are unclean for seven days. <span
-id="EndNote Ant 18.6a"></span>[(6)](#EndNote%20Ant%2018.6b)
+id="EndNote Ant 18.6a"></span>[(6)](#EndNote%20Ant%2018.6b.md)
 
 4\. About this time died Phraates, king of the Parthians, by the
 treachery of Phraataces his son, upon the occasion following: When
@@ -304,7 +304,7 @@ affairs of the East, fortune hereby taking a proper opportunity for
 depriving him of his life; for when he had been in the East, and settled
 all affairs there, his life was taken away by the poison which Piso gave
 him, as hath been related elsewhere. <span
-id="EndNote Ant 18.7a"></span>[(7)](#EndNote%20Ant%2018.7b)
+id="EndNote Ant 18.7a"></span>[(7)](#EndNote%20Ant%2018.7b.md)
 
 CHAPTER 3.
 
@@ -340,7 +340,7 @@ commanded the images to be carried back from Jerusalem to Cesarea.
 2\. But Pilate undertook to bring a current of water to Jerusalem, and
 did it with the sacred money, and derived the origin of the stream from
 the distance of two hundred furlongs. However, the Jews <span
-id="EndNote Ant 18.8a"></span>[(8)](#EndNote%20Ant%2018.8b) were not
+id="EndNote Ant 18.8a"></span>[(8)](#EndNote%20Ant%2018.8b.md) were not
 pleased with what had been done about this water; and many ten thousands
 of the people got together, and made a clamor against him, and insisted
 that he should leave off that design. Some of them also used reproaches,
@@ -362,10 +362,10 @@ men as receive the truth with pleasure. He drew over to him both many of
 the Jews and many of the Gentiles. He was \[the\] Christ. And when
 Pilate, at the suggestion of the principal men amongst us, had condemned
 him to the cross, <span
-id="EndNote Ant 18.9a"></span>[(9)](#EndNote%20Ant%2018.9b) those that
+id="EndNote Ant 18.9a"></span>[(9)](#EndNote%20Ant%2018.9b.md) those that
 loved him at the first did not forsake him; for he appeared to them
 alive again the third day; <span
-id="EndNote Ant 18.10a"></span>[(10)](#EndNote%20Ant%2018.10b) as the
+id="EndNote Ant 18.10a"></span>[(10)](#EndNote%20Ant%2018.10b.md) as the
 divine prophets had foretold these and ten thousand other wonderful
 things concerning him. And the tribe of Christians, so named from him,
 are not extinct at this day.
@@ -470,7 +470,7 @@ of Rome; at which time the consuls listed four thousand men out of them,
 and sent them to the island Sardinia; but punished a greater number of
 them, who were unwilling to become soldiers, on account of keeping the
 laws of their forefathers. <span
-id="EndNote Ant 18.11a"></span>[(11)](#EndNote%20Ant%2018.11b) Thus were
+id="EndNote Ant 18.11a"></span>[(11)](#EndNote%20Ant%2018.11b.md) Thus were
 these Jews banished out of the city by the wickedness of four men.
 
 CHAPTER 4.
@@ -486,7 +486,7 @@ be pleased; so he bid them to get together upon Mount Gerizzim, which is
 by them looked upon as the most holy of all mountains, and assured them,
 that when they were come thither, he would show them those sacred
 vessels which were laid under that place, because Moses put them there
-<span id="EndNote Ant 18.12a"></span>[(12)](#EndNote%20Ant%2018.12b) So
+<span id="EndNote Ant 18.12a"></span>[(12)](#EndNote%20Ant%2018.12b.md) So
 they came thither armed, and thought the discourse of the man probable;
 and as they abode at a certain village, which was called Tirathaba, they
 got the rest together to them, and desired to go up the mountain in a
@@ -536,7 +536,7 @@ these vestments of the high priest, and had them reposited in a
 stone-chamber, under the seal of the priests, and of the keepers of the
 temple, the captain of the guard lighting a lamp there every day; and
 seven days before a festival <span
-id="EndNote Ant 18.13a"></span>[(13)](#EndNote%20Ant%2018.13b) they were
+id="EndNote Ant 18.13a"></span>[(13)](#EndNote%20Ant%2018.13b.md) they were
 delivered to them by the captain of the guard, when the high priest
 having purified them, and made use of them, laid them up again in the
 same chamber where they had been laid up before, and this the very next
@@ -602,7 +602,7 @@ taken the government.
 
 6\. About this time it was that Philip, Herod's ' brother, departed this
 life, in the twentieth year of the reign of Tiberius, <span
-id="EndNote Ant 18.14a"></span>[(14)](#EndNote%20Ant%2018.14b) after he
+id="EndNote Ant 18.14a"></span>[(14)](#EndNote%20Ant%2018.14b.md) after he
 had been tetrarch of Trachonitis and Gaulanitis, and of the nation of
 the Bataneans also, thirty-seven years. He had showed himself a person
 of moderation and quietness in the conduct of his life and government;
@@ -631,7 +631,7 @@ AND OF THE POSTERITY OF HEROD THE GREAT.**
 quarrel on the account following: Herod the tetrarch had, married the
 daughter of Aretas, and had lived with her a great while; but when he
 was once at Rome, he lodged with Herod, <span
-id="EndNote Ant 18.15a"></span>[(15)](#EndNote%20Ant%2018.15b) who was
+id="EndNote Ant 18.15a"></span>[(15)](#EndNote%20Ant%2018.15b.md) who was
 his brother indeed, but not by the same mother; for this Herod was the
 son of the high priest Sireoh's daughter. However, he fell in love with
 Herodias, this last Herod's wife, who was the daughter of Aristobulus
@@ -729,7 +729,7 @@ upon, besides those acts of piety which are done towards God; for it
 happened, that, within the revolution of a hundred years, the posterity
 of Herod, which were a great many in number, were, excepting a few,
 utterly destroyed. <span
-id="EndNote Ant 18.16a"></span>[(16)](#EndNote%20Ant%2018.16b) One may
+id="EndNote Ant 18.16a"></span>[(16)](#EndNote%20Ant%2018.16b.md) One may
 well apply this for the instruction of mankind, and learn thence how
 unhappy they were: it will also show us the history of Agrippa, who, as
 he was a person most worthy of admiration, so was he from a private man,
@@ -781,7 +781,7 @@ Archelaus, king of Cappadocia. Tigranes, who was king of Armenia, was
 accused at Rome, and died childless; Alexander had ason of the same name
 with his brother Tigranes, and was sent to take possession of the
 kingdom of Armenia by Nero; he had a son, Alexander, who married Jotape,
-<span id="EndNote Ant 18.17a"></span>[(17)](#EndNote%20Ant%2018.17b) the
+<span id="EndNote Ant 18.17a"></span>[(17)](#EndNote%20Ant%2018.17b.md) the
 daughter of Antiochus, the king of Commagena; Vespasian made him king of
 an island in Cilicia. But these descendants of Alexander, soon after
 their birth, deserted the Jewish religion, and went over to that of the
@@ -870,7 +870,7 @@ Antonia, to lend so much upon Agrippa's own bond and security; but he
 accused Agrippa of having defrauded him of certain sums of money, and so
 obliged Marsyas, when he made the bond of twenty thousand Attic
 drachmae, to accept of twenty-five hundred drachma as <span
-id="EndNote Ant 18.18a"></span>[(18)](#EndNote%20Ant%2018.18b) less than
+id="EndNote Ant 18.18a"></span>[(18)](#EndNote%20Ant%2018.18b.md) less than
 what he desired, which the other allowed of, because he could not help
 it. Upon the receipt of this money, Agrippa came to Anthedon, and took
 shipping, and was going to set sail; but Herennius Capito, who was the
@@ -880,7 +880,7 @@ treasury while he was at Rome, and so forced him to stay. He then
 pretended that he would do as he bid him; but when night came on, he cut
 his cables, and went off, and sailed to Alexandria, where he desired
 Alexander the alabarch <span
-id="EndNote Ant 18.19a"></span>[(19)](#EndNote%20Ant%2018.19b) to lend
+id="EndNote Ant 18.19a"></span>[(19)](#EndNote%20Ant%2018.19b.md) to lend
 him two hundred thousand drachmae; but he said he would not lend it to
 him, but would not refuse it to Cypros, as greatly astonished at her
 affection to her husband, and at the other instances of her virtue; so
@@ -915,7 +915,7 @@ to his and Claudius's education together, she lent him the money; and,
 upon the payment of this debt, there was nothing to hinder Tiberius's
 friendship to him. After this, Tiberius Caesar recommended to him his
 grandson, <span
-id="EndNote Ant 18.20a"></span>[(20)](#EndNote%20Ant%2018.20b) and
+id="EndNote Ant 18.20a"></span>[(20)](#EndNote%20Ant%2018.20b.md) and
 ordered that he should always accompany him when he went abroad. But
 upon Agrippa's kind reception by Antonia, he betook him to pay his
 respects to Caius, who was her grandson, and in very high reputation by
@@ -999,7 +999,7 @@ Eutychus, let the matter whereof he accused him prove what it would. Now
 Antonia was greatly esteemed by Tiberius on all accounts, from the
 dignity of her relation to him, who had been his brother Drusus's wife,
 and from her eminent chastity; <span
-id="EndNote Ant 18.21a"></span>[(21)](#EndNote%20Ant%2018.21b) for
+id="EndNote Ant 18.21a"></span>[(21)](#EndNote%20Ant%2018.21b.md) for
 though she was still a young woman, she continued in her widowhood, and
 refused all other matches, although Augustus had enjoined her to be
 married to somebody else; yet did she all along preserve her reputation
@@ -1082,7 +1082,7 @@ German by nation, saw him, and asked a soldier who that man in purple
 was; and when he was informed that his name was Agrippa, and that he was
 by nation a Jew, and one of the principal men of that nation, he asked
 leave of the soldier to whom he was bound, <span
-id="EndNote Ant 18.22a"></span>[(22)](#EndNote%20Ant%2018.22b) to let
+id="EndNote Ant 18.22a"></span>[(22)](#EndNote%20Ant%2018.22b.md) to let
 him come nearer to him, to speak with him; for that he had a mind to
 inquire of him about some things relating to his country; which liberty,
 when he had obtained, and as he stood near him, he said thus to him by
@@ -1132,13 +1132,13 @@ months' time, and in this case were his affairs.
 his distemper was but gentle; but as that distemper increased upon him,
 he had small or no hopes of recovery. Hereupon he bid Euodus, who was
 that freed-man whom he most of all respected, to bring the children
-<span id="EndNote Ant 18.23a"></span>[(23)](#EndNote%20Ant%2018.23b) to
+<span id="EndNote Ant 18.23a"></span>[(23)](#EndNote%20Ant%2018.23b.md) to
 him, for that he wanted to talk to them before he died. Now he had at
 present no sons of his own alive for Drusus, who was his only son, was
 dead; but Drusus's son Tiberius was still living, whose additional name
 was Gemellus: there was also living Caius, the son of Germanicus, who
 was the son <span
-id="EndNote Ant 18.24a"></span>[(24)](#EndNote%20Ant%2018.24b) of his
+id="EndNote Ant 18.24a"></span>[(24)](#EndNote%20Ant%2018.24b.md) of his
 brother \[Drusus\]. He was now grown up, and had a liberal education,
 and was well improved by it, and was in esteem and favor with the
 people, on account of the excellent character of his father Germanicus,
@@ -1191,7 +1191,7 @@ being next to the empire, and partly on account of his perpetually
 contriving to get the government, both in order to preserve himself, and
 to be at the head of affairs also. Now Tiberius had been very much given
 to astrology, <span
-id="EndNote Ant 18.25a"></span>[(25)](#EndNote%20Ant%2020.25b) and the
+id="EndNote Ant 18.25a"></span>[(25)](#EndNote%20Ant%2020.25b.md) and the
 calculation of nativities, and had spent his life in the esteem of what
 predictions had proved true, more than those whose profession it was.
 Accordingly, when he once saw Galba coming in to him, he said to his
@@ -1251,7 +1251,7 @@ their hopes proved ill-grounded. Now Marsyas, Agrippa's freed-man, as
 soon as he heard of Tiberius's death, came running to tell Agrippa the
 news; and finding him going out to the bath, he gave him a nod, and
 said, in the Hebrew tongue, "The lion <span
-id="EndNote Ant 18.26a"></span>[(26)](#EndNote%20Ant%2018.26b) is dead;"
+id="EndNote Ant 18.26a"></span>[(26)](#EndNote%20Ant%2018.26b.md) is dead;"
 who, understanding his meaning, and being ovejoyed at the news, "Nay,"
 said he, "but all sorts of thanks and happiness attend thee for this
 news of thine; only I wish that what thou sayest may prove true." Now
@@ -1294,7 +1294,7 @@ However, there did not many days pass ere he sent for him to his house,
 and had him shaved, and made him change his raiment; after which he put
 a diadem upon his head, and appointed him to be king of the tetrarchy of
 Philip. He also gave him the tetrarchy of Lysanias, <span
-id="EndNote Ant 18.27a"></span>[(27)](#EndNote%20Ant%2018.27b) and
+id="EndNote Ant 18.27a"></span>[(27)](#EndNote%20Ant%2018.27b.md) and
 changed his iron chain for a golden one of equal weight. He also sent
 Marullus to be procurator of Judea.
 
@@ -1412,7 +1412,7 @@ RECEIVE HIS STATUE.**
 inhabitants and the Greeks; and three ambassadors were chosen out of
 each party that were at variance, who came to Caius. Now one of these
 ambassadors from the people of Alexandria was Apion, <span
-id="EndNote Ant 18.29a"></span>[(29)](#EndNote%20Ant%2018.29b) who
+id="EndNote Ant 18.29a"></span>[(29)](#EndNote%20Ant%2018.29b.md) who
 uttered many blasphemies against the Jews; and, among other things that
 he said, he charged them with neglecting the honors that belonged to
 Caesar; for that while all who were subject to the Roman empire built
@@ -1423,7 +1423,7 @@ to swear by his name. Many of these severe things were said by Apion, by
 which he hoped to provoke Caius to anger at the Jews, as he was likely
 to be. But Philo, the principal of the Jewish embassage, a man eminent
 on all accounts, brother to Alexander the alabarch, <span
-id="EndNote Ant 18.30a"></span>[(30)](#EndNote%20Ant%2018.30b) and one
+id="EndNote Ant 18.30a"></span>[(30)](#EndNote%20Ant%2018.30b.md) and one
 not unskillful in philosophy, was ready to betake himself to make his
 defense against those accusations; but Caius prohibited him, and bid him
 begone; he was also in such a rage, that it openly appeared he was about
@@ -1494,7 +1494,7 @@ stretched out their throats, and said they were ready to be slain; and
 this they did for forty days together, and in the mean time left off the
 tilling of their ground, and that while the season of the year required
 them to sow it. <span
-id="EndNote Ant 18.31a"></span>[(31)](#EndNote%20Ant%2018.31b) Thus they
+id="EndNote Ant 18.31a"></span>[(31)](#EndNote%20Ant%2018.31b.md) Thus they
 continued firm in their resolution, and proposed to themselves to die
 willingly, rather than to see the dedication of the statue.
 
@@ -1515,7 +1515,7 @@ think of destroying the nation: that if he continues inflexible in his
 former opinion to bring a war upon them, he may then set about it
 himself. And thus did Aristobulus, and the rest with him, supplicate
 Petronius. So Petronius, <span
-id="EndNote Ant 18.32a"></span>[(32)](#EndNote%20Ant%2018.32b) partly on
+id="EndNote Ant 18.32a"></span>[(32)](#EndNote%20Ant%2018.32b.md) partly on
 account of the pressing instances which Aristobulus and the rest with
 him made, and because of the great consequence of what they desired, and
 the earnestness wherewith they made their supplication, — partly on
@@ -1570,7 +1570,7 @@ again. And now did God show his presence to Petronius, and signify to
 him that he would afford him his assistance in his whole design; for he
 had no sooner finished the speech that he made to the Jews, but God sent
 down great showers of rain, contrary to human expectation; <span
-id="EndNote Ant 18.33a"></span>[(33)](#EndNote%20Ant%2018.33b) for that
+id="EndNote Ant 18.33a"></span>[(33)](#EndNote%20Ant%2018.33b.md) for that
 day was a clear day, and gave no sign, by the appearance of the sky, of
 any rain; nay, the whole year had been subject to a great drought, and
 made men despair of any water from above, even when at any time they saw
@@ -1614,7 +1614,7 @@ have been formerly deficient; for all that I have bestowed on thee, that
 may be called my gifts, is but little. Everything that may contribute to
 thy happiness shall be at thy service, and that cheerfully, and so far
 as my ability will reach." <span
-id="EndNote Ant 18.34a"></span>[(34)](#EndNote%20Ant%2018.34b) And this
+id="EndNote Ant 18.34a"></span>[(34)](#EndNote%20Ant%2018.34b.md) And this
 was what Caius said to Agrippa, thinking be would ask for some large
 country, or the revenues of certain cities. But although he had prepared
 beforehand what he would ask, yet had he not discovered his intentions,
@@ -1794,7 +1794,7 @@ guards to say thus to them: "That king Artsbanus, although he had been
 unjustly treated by you, who have made an attempt against his
 government, yet hath he more regard to your courageous behavior, than to
 the anger he bears to you, and hath sent me to give you his right hand
-<span id="EndNote Ant 18.35a"></span>[(35)](#EndNote%20Ant%2018.35b) and
+<span id="EndNote Ant 18.35a"></span>[(35)](#EndNote%20Ant%2018.35b.md) and
 security; and he permits you to come to him safely, and without any
 violence upon the road; and he wants to have you address yourselves to
 him as friends, without meaning any guile or deceit to you. He also
@@ -1884,7 +1884,7 @@ brought great mischiefs upon them on the occasion following. Since she
 was led away captive, upon the death of her husband, she concealed the
 images of those gods which were their country gods, common to her
 husband and to herself: now it was the custom <span
-id="EndNote Ant 18.36a"></span>[(36)](#EndNote%20Ant%2018.36b) of that
+id="EndNote Ant 18.36a"></span>[(36)](#EndNote%20Ant%2018.36b.md) of that
 country for all to have the idols they worship in their own houses, and
 to carry them along with them when they go into a foreign land;
 agreeable to which custom of theirs she carried her idols with her. Now
@@ -1956,7 +1956,7 @@ Parthians while they were unaprrized what they should do; so he fell
 upon them about the fourth watch of the night, and some of them he slew
 while they were asleep, and others he put to flight, and took
 Mithridates alive, and set him naked upon an ass <span
-id="EndNote Ant 18.37a"></span>[(37)](#EndNote%20Ant%2018.37b) which,
+id="EndNote Ant 18.37a"></span>[(37)](#EndNote%20Ant%2018.37b.md) which,
 among the Parthians, is esteemed the greatest reproach possible. And
 when he had brought him into a wood with such a resolution, and his
 friends desired him to kill Mithridates, he soon told them his own mind
@@ -2370,4 +2370,4 @@ against the Christians, the Turks will not suffer them to hire horses,
 but asses only, when they go abroad to see the country, as Mr. Maundrell
 assures us, p. 128.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

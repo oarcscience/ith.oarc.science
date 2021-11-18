@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](aar01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](aar01.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ PROF. JULIAN S. HUXLEY, M.A.
 
 ------------------------------------------------------------------------
 
-[Next: Prefatory Note](aar01)
+[Next: Prefatory Note](aar01.md)

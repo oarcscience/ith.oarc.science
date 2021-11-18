@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb14)  [Next](ldjb16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb14)  [Next](ldjb16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -49,12 +49,12 @@ Christ (the Truth, the Life, and the Light) should become active in him,
 and by rendering man truthful, self-conscious, and living within the
 light, reinstate him in his former position which he occupied in the
 macrocosmos before he sank into materiality and degradation <span
-id="fr_189"></span>[1](#fn_189).
+id="fr_189"></span>[1](#fn_189.md).
 
 <span id="page_243">p. 243</span>
 
 "The spirit of this world has captured the body <span
-id="fr_190"></span>[1](#fn_190) and rendered it earthly, so as to cause
+id="fr_190"></span>[1](#fn_190.md) and rendered it earthly, so as to cause
 body and soul to be corrupted. Thus we are no longer in possession of
 the pure element necessary for the formation of a (pure) body, but au
 outgrowth of the four elements in combination with the influence of the
@@ -76,7 +76,7 @@ this life we may enter into a new birth and penetrate unto God."
 torment of anguish and enter into the region of heaven, and therefore
 God had to come again into humanity and aid the human spirit in bursting
 the doors of the darkness, so that it may enter within them (clothed) in
-divine power." <span id="fr_191"></span>[2](#fn_191) (*Threefold Life*,
+divine power." <span id="fr_191"></span>[2](#fn_191.md) (*Threefold Life*,
 xxi. 21.)
 
 <span id="page_244">p. 244</span>
@@ -93,7 +93,7 @@ falsehood, (that is to say) to kill the (selfish) terrestrial will."
 To effect this reconstitution the direct action of God upon humanity
 would not have been sufficient. Without the incarnation a real union of
 God and man, and a resurrection of the latter from death, would not have
-been possible. <span id="fr_192"></span>[1](#fn_192)
+been possible. <span id="fr_192"></span>[1](#fn_192.md)
 
 "It was the will of God to transmute humanity, after it had become
 earthly, again into the celestial quality, to turn the human earth
@@ -121,7 +121,7 @@ that she could stand the test before the Father in the fire; but not
 (the test) in the love and delight before the light of the Holy Trinity.
 A rising from the tomb was not thus to be accomplished. If man was to be
 raised from the tomb, the Word had first to become man." <span
-id="fr_193"></span>[1](#fn_193) (*Three Principles*, xvi. 35.)
+id="fr_193"></span>[1](#fn_193) (*Three Principles*, xvi. 35..md)
 
 "The pious have clothed themselves in Christ before His incarnation in
 the covenant of promise, not in substance, but merely in power; not in
@@ -132,7 +132,7 @@ the flesh, but merely in the spirit." (*Stiefel*, ii. 442.)
 In consequence of sin the power of death had become a ruler, and
 therefore the Redeemer entered Himself into death for the purpose of
 conquering it, and to obtain for us again the fulness of divine
-life. <span id="fr_194"></span>[2](#fn_194)
+life. <span id="fr_194"></span>[2](#fn_194.md)
 
 "In consequence of the sin there was no salvation for man; if the
 eternal Word and heart of God had not become human and entered into the
@@ -198,7 +198,7 @@ The conquest of the power of death took place, in a certain sense,
 already at the time of the overcoming of the temptation of the Redeemer,
 which, like that of Adam, was caused by the envy of the devil, but in
 which the devil was conquered by the Lord. <span
-id="fr_195"></span>[1](#fn_195)
+id="fr_195"></span>[1](#fn_195.md)
 
 "Adam was to take possession of the kingly throne of Lucifer, because
 the latter had turned away from God. From this results the great envy
@@ -231,7 +231,7 @@ both, death and the fiery sword." (*Mysterium*, xxiv. 24.)
 
 The first factor in the temptation was that Christ was requested to take
 earthly food instead of celestial nutriment, and that He should thereby
-gratify the desire of His body. <span id="fr_196"></span>[1](#fn_196)
+gratify the desire of His body. <span id="fr_196"></span>[1](#fn_196.md)
 
 "After the Spirit of God had led Christ into the wilderness, then was
 the devil permitted to approach Him in the kingdom of wrath and to tempt
@@ -261,7 +261,7 @@ soul)." (*Three Principles*, xxii. 100–105.)
 
 Furthermore, the devil thought of turning the Redeemer away from the
 divine will by exciting the spirit of vanity. <span
-id="fr_197"></span>[1](#fn_197)
+id="fr_197"></span>[1](#fn_197.md)
 
 "After the soul of Christ had received the heavenly bread, it was to be
 seen whether she would now arise in the power of the fire of vanity, or,
@@ -280,7 +280,7 @@ celestial Father." (*Three Principles*, xxii. 108.)
 
 Finally, he offered to the Saviour the rule over the external world; but
 the Lord did not accept it from the hands of the devil, but from His
-celestial Father. <span id="fr_198"></span>[1](#fn_198)
+celestial Father. <span id="fr_198"></span>[1](#fn_198.md)
 
 "After the devil had thus failed twice, he came forward with the last
 powerful temptation (saying) that he would give to Him the whole world
@@ -295,7 +295,7 @@ devil, 'Depart from me, Satan! for it is written, Thou shalt worship the
 Lord thy God, and serve Him alone!' Thus the valiant warrior conquered,
 and the devil had to depart; and thus all that is earthly has been
 overcome by the Christ. Now the Lord is higher than the moon, <span
-id="fr_199"></span>[2](#fn_199) and takes all the power in heaven and
+id="fr_199"></span>[2](#fn_199.md) and takes all the power in heaven and
 hell, and is Master over death and life. He now began His sacerdotal
 kingdom with signs and miracles. He changed water into wine, made whole
 the sick, the blind seeing, and enabled the lame to walk, and even
@@ -311,7 +311,7 @@ of mankind. To that
 <span id="page_251">p. 251</span>
 
 end the complete transmutation, consequently the (bodily) death of the
-Lord, had to take place. <span id="fr_200"></span>[1](#fn_200)
+Lord, had to take place. <span id="fr_200"></span>[1](#fn_200.md)
 
 "When Christ was born the heaven existed within the earth—*of man;* but
 this was not sufficient. The two worlds were to wrestle with each other.
@@ -331,7 +331,7 @@ Cross." (*Signature*, ii. 12–17.)
 The physical death as well as the temptation of the Redeemer was caused
 by Satan, who for that purpose excited the animosity of the mundane and
 clerical authorities against the Lord. <span
-id="fr_201"></span>[2](#fn_201)
+id="fr_201"></span>[2](#fn_201.md)
 
 "Christ said that He was a king of love and Son of God, having come to
 save His people from sin. The devil then thought that he would lose his
@@ -353,7 +353,7 @@ kingdom of love.'" (*Signature*, x. 78.)
 
 By means of His corporeal death, the wrath, or that which was in
 antagonism to celestial magnificence, was to be taken away from the
-external being of the Redeemer. <span id="fr_202"></span>[1](#fn_202)
+external being of the Redeemer. <span id="fr_202"></span>[1](#fn_202.md)
 
 "The human fire-life exists in the blood, and therein rules the wrath of
 God. Therefore another kind of blood, one that was born from the
@@ -396,7 +396,7 @@ or annihilated." (*Stiefel*, ii. 205.)
 By means of this spiritual death the Lord was to sacrifice entirely to
 His celestial Father not only the human self-will (this having been
 already accomplished at the temptation), but also His holy
-love-will. <span id="fr_203"></span>[1](#fn_203)
+love-will. <span id="fr_203"></span>[1](#fn_203.md)
 
 "When the speaking Word of God in human quality arrested itself in the
 Redeemer, then the essentiality which had died in Adam, but became alive
@@ -426,7 +426,7 @@ all." (*Signature*, xi. 87.)
 In consequence of this sacrifice of the whole of His will, the human
 soul-life of the Redeemer did not become annihilated, but it entered
 thereby entirely into the divine will. <span
-id="fr_204"></span>[1](#fn_204)
+id="fr_204"></span>[1](#fn_204.md)
 
 "The humanity of Christ gave itself up as a sacrifice to the wrath of
 the Father, entering entirely into His fire-essence; but the love-spirit
@@ -457,7 +457,7 @@ xii. 1.)
 
 Neither did the external being of the Redeemer become lost by His
 corporeal death, but it entered thereby into its true and exalted
-substantiality. <span id="fr_205"></span>[1](#fn_205)
+substantiality. <span id="fr_205"></span>[1](#fn_205.md)
 
 "When Christ died He did not throw away the body which had been in His
 possession while upon the earth, or left it to be consumed by the four
@@ -504,7 +504,7 @@ position which had been lost by Adam, and entered again into Paradise."
 
 The earthly being of the Redeemer was sanctified by His celestial blood,
 and thereby it was prepared for the resurrection. <span
-id="fr_206"></span>[1](#fn_206)
+id="fr_206"></span>[1](#fn_206.md)
 
 "When Christ poured out His celestial blood, then the fiery desire
 kindled in humanity became transformed into a love-desire, and out of
@@ -520,14 +520,14 @@ flesh, soul, and spirit, which He took upon Himself, become sanctified
 and transformed into love. Thus the enmity ceased then and there, and
 God became *Immanuel;* that is to say, man with God and God with man.
 Then the flesh of Adam became tinctured and prepared for the
-resurrection." <span id="fr_207"></span>[1](#fn_207) (*Stiefel*, ii.
+resurrection." <span id="fr_207"></span>[1](#fn_207.md) (*Stiefel*, ii.
 209.)
 
  
 
 By the power of the glorification at which the Redeemer arrived through
 His entering into death He overcame the power of hell, so that now the
-life again issued from death. <span id="fr_208"></span>[2](#fn_208)
+life again issued from death. <span id="fr_208"></span>[2](#fn_208.md)
 
 "It is erroneous to suppose that the soul of Christ had left the body
 and had travelled down to hell, and that it had there, in divine power,
@@ -567,7 +567,7 @@ terror and shame." (*Three Principles*, xxv. 79.)
 
 Thus, in consequence of the bodily death of Christ, the holy ones of
 olden times who had longed for His coming attained resurrection. <span
-id="fr_209"></span>[1](#fn_209)
+id="fr_209"></span>[1](#fn_209.md)
 
 "The holy ones, having put their faith into the Messiah, received now
 the pure element for a new body, according to the promise. For, as the
@@ -597,7 +597,7 @@ seen at Jerusalem, in testimony that they had been raised up in Christ."
 
 This conquest of hell and death was accompanied by certain phenomena
 upon the earth, indicating the approaching destruction of the whole
-terrestrial world. <span id="fr_210"></span>[1](#fn_210)
+terrestrial world. <span id="fr_210"></span>[1](#fn_210.md)
 
 "As the prisons of the dark world were to be destroyed in the death of
 Christ, the earth trembled and the sun became darkened, which symbolised
@@ -634,7 +634,7 @@ The body in which Christ Himself arose from the dead was paradisiacal
 and divine, and could not be apprehended by anything of an earthly
 nature; but as the terrestrial body was absorbed therein, therefore the
 Lord could make Himself visible to His disciples. <span
-id="fr_211"></span>[1](#fn_211)
+id="fr_211"></span>[1](#fn_211.md)
 
 "The body in which Christ became raised from the dead could not be
 stopped or arrested by rocks or stones. It passes through all things
@@ -660,7 +660,7 @@ it had the power to represent again." (*Three Principles*, xxiv. 97.)
 The heaven wherein the Redeemer has entered after His resurrection is
 the fulness of divine power, by means of which He is Lord over the
 terrestrial world and over the world of hell. <span
-id="fr_212"></span>[1](#fn_212)
+id="fr_212"></span>[1](#fn_212.md)
 
 "The internal foundation of this world, whereof the four elements have
 originated, is heaven, and in this internal power Christ rules as true
@@ -713,13 +713,13 @@ darkness." (*Signature*, vii. 3 2.)
 
 To "love Christ" means simply to love the divine light of wisdom and
 truth, and is practised by being obedient to divine law. <span
-id="fr_213"></span>[1](#fn_213)
+id="fr_213"></span>[1](#fn_213.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_189"></span>[242:1](ldjb15.htm#fr_189) If we take of the
+<span id="fn_189"></span>[242:1](ldjb15.htm#fr_189.md) If we take of the
 history of redemption the ordinary theological view, and regard it as
 the work of an extracosmic God, getting offended and <span
 id="page_243">p. 243</span> angry, and becoming reconciled by having his
@@ -732,34 +732,34 @@ humanity should be saved by the awakening of the divine will in man, and
 the same process takes place even now in the organism of every
 individual on entering from spiritual darkness into light.
 
-<span id="fn_190"></span>[243:1](ldjb15.htm#fr_190) The term "body," as
+<span id="fn_190"></span>[243:1](ldjb15.htm#fr_190.md) The term "body," as
 a matter of course, does not refer to the visible form of earth, which
 is merely an instrument for its inner inhabitant, but to that principle
 of which that form is an external expression.
 
-<span id="fn_191"></span>[243:2](ldjb15.htm#fr_191) In other words,
+<span id="fn_191"></span>[243:2](ldjb15.htm#fr_191.md) In other words,
 there is no other way of restoring the order except by means of its
 restoration.
 
-<span id="fn_192"></span>[244:1](ldjb15.htm#fr_192) If the light shines
+<span id="fn_192"></span>[244:1](ldjb15.htm#fr_192.md) If the light shines
 merely upon the surface, it then does not penetrate into the depths. The
 will had to become active within the flesh. This divine will is love,
 which is substantial and not a mere dream.
 
-<span id="fn_193"></span>[245:1](ldjb15.htm#fr_193) The tombs from which
+<span id="fn_193"></span>[245:1](ldjb15.htm#fr_193.md) The tombs from which
 man must arise are error, passions, and temptations.
 
-<span id="fn_194"></span>[245:2](ldjb15.htm#fr_194) The light could not
+<span id="fn_194"></span>[245:2](ldjb15.htm#fr_194.md) The light could not
 have redeemed the darkness in any other way than by entering therein;
 neither could anything entirely spiritual and unsubstantial have acted
 upon matter.
 
-<span id="fn_195"></span>[247:1](ldjb15.htm#fr_195) Little would it
+<span id="fn_195"></span>[247:1](ldjb15.htm#fr_195.md) Little would it
 benefit man to believe that another person overcame his temptations,
 while he himself would succumb to his own. He who conquers that which is
 mortal in him conquers death.
 
-<span id="fn_196"></span>[248:1](ldjb15.htm#fr_196) The first temptation
+<span id="fn_196"></span>[248:1](ldjb15.htm#fr_196.md) The first temptation
 which meets every one on the road to regeneration is the hunger of the
 lower qualities in him.
 
@@ -778,7 +778,7 @@ desires to become another creature. He puts before her the kingdom
 wherein she exists and wherein she has her foundation." (*Letters*,
 xliii. 3.)
 
-<span id="fn_197"></span>[249:1](ldjb15.htm#fr_197) The second
+<span id="fn_197"></span>[249:1](ldjb15.htm#fr_197.md) The second
 temptation for the regenerated is spiritual pride.
 
 "The second temptation is, that the soul, after having tasted of divine
@@ -794,32 +794,32 @@ upon her by nature and die in the divine will; and she imagines the
 light of grace, which acts without such a fierce power, to be a false
 light." (*Letters*, xliii.)
 
-<span id="fn_198"></span>[250:1](ldjb15.htm#fr_198) In the regenerating
+<span id="fn_198"></span>[250:1](ldjb15.htm#fr_198.md) In the regenerating
 man the third temptation is, that the soul thinks of employing the
 spiritual powers which she has acquired for purposes which are not
 divine, namely, for awakening the sourcive spirits of the lower
 qualities, and thus of raising her head higher than God, as was the case
 with Lucifer.
 
-<span id="fn_199"></span>[250:2](ldjb15.htm#fr_199) The sun of wisdom is
+<span id="fn_199"></span>[250:2](ldjb15.htm#fr_199.md) The sun of wisdom is
 higher than the moon of imagination.
 
-<span id="fn_200"></span>[251:1](ldjb15.htm#fr_200) Thus in each
+<span id="fn_200"></span>[251:1](ldjb15.htm#fr_200.md) Thus in each
 individual man the overcoming of the temptations on this or that
 occasion is not sufficient for permanent salvation; for as long as the
 germ of evil exists, it may sprout again. Final safety is attained only
 after the battle, when the root of the evil is torn out of the heart.
 
-<span id="fn_201"></span>[251:2](ldjb15.htm#fr_201) A more modern way of
+<span id="fn_201"></span>[251:2](ldjb15.htm#fr_201.md) A more modern way of
 expressing it would be: When the disciple becomes an accepted "*Chela*,"
 his evil *Karma* begins to assert itself. In other words, the awakening
 of a new life in an organism stimulates also the lower qualities
 therein, whether it be a man, a people, or a whole world.
 
-<span id="fn_202"></span>[252:1](ldjb15.htm#fr_202) When that which is
+<span id="fn_202"></span>[252:1](ldjb15.htm#fr_202.md) When that which is
 mortal in man dies, that which is immortal in him returns to freedom.
 
-<span id="fn_203"></span>[253:1](ldjb15.htm#fr_203) Thus every one
+<span id="fn_203"></span>[253:1](ldjb15.htm#fr_203.md) Thus every one
 should sacrifice to God all of his actions, his thoughts, and will; he
 should not do anything out of his own power, but out of the power of God
 (after he once knows that power). As the physical body, except in a
@@ -830,18 +830,18 @@ sinful man cannot perform anything really good by his own power; to
 attempt it would be a presumption and arrogance; for all that is good
 belongs to God; man is merely an instrument for divine power.
 
-<span id="fn_204"></span>[254:1](ldjb15.htm#fr_204) If the self-will is
+<span id="fn_204"></span>[254:1](ldjb15.htm#fr_204.md) If the self-will is
 entirely sacrificed to the divine will in man, then does man's will not
 thereby become annihilated, but is itself rendered divine.
 
-<span id="fn_205"></span>[255:1](ldjb15.htm#fr_205) However gratifying
+<span id="fn_205"></span>[255:1](ldjb15.htm#fr_205.md) However gratifying
 it may be for the curious seeker in history to know whether or when such
 an event has actually occurred in the history of the Jewish nation, such
 a historical belief would be of little benefit to him if he could not
 realise within his own inner consciousness that the death of his mortal
 nature cannot cause any loss to that which is immortal in him.
 
-<span id="fn_206"></span>[256:1](ldjb15.htm#fr_206) The earthly body is
+<span id="fn_206"></span>[256:1](ldjb15.htm#fr_206.md) The earthly body is
 those elements in the terrestrial man the ultimate expression of which
 is his visible form.
 
@@ -849,30 +849,30 @@ is his visible form.
 inwardly, and the natural life acts in an outward direction." (*Text*.
 v. 1.)
 
-<span id="fn_207"></span>[257:1](ldjb15.htm#fr_207) The "flesh of Adam"
+<span id="fn_207"></span>[257:1](ldjb15.htm#fr_207.md) The "flesh of Adam"
 is as invisible to us as the spiritual body of Christ. That which we see
 with our external eyes is merely an appearance.
 
-<span id="fn_208"></span>[257:2](ldjb15.htm#fr_208) Whenever the light
+<span id="fn_208"></span>[257:2](ldjb15.htm#fr_208.md) Whenever the light
 of Christ in the soul of man penetrates within the interior foundation
 of his fiery will, then is that will changed into sweet love, and the
 soul enters into freedom from the bondage of self.
 
-<span id="fn_209"></span>[258:1](ldjb15.htm#fr_209) If the purified soul
+<span id="fn_209"></span>[258:1](ldjb15.htm#fr_209.md) If the purified soul
 of man enters into the divine fountain from which she originated,
 bringing with her the light which she has gathered unto herself during
 her terrestrial existence, then will this be like adding new fuel to the
 fire, and a new effulgence of light and glory will take place in the
 soul of the world.
 
-<span id="fn_210"></span>[259:1](ldjb15.htm#fr_210) Likewise in each
+<span id="fn_210"></span>[259:1](ldjb15.htm#fr_210.md) Likewise in each
 individual man will the terrestrial light disappear from his view when
 the Christ has arisen in him; for the Christ Himself is the Light, and
 surpasses the light of external nature. If that divine light arises in
 man, then will the celestial spirits that have been dormant in his soul
 arise and move and rejoice.
 
-<span id="fn_211"></span>[260:1](ldjb15.htm#fr_211) Neither will any
+<span id="fn_211"></span>[260:1](ldjb15.htm#fr_211.md) Neither will any
 one's physical body, wherein the inner man is imprisoned as in a tomb,
 offer any obstacles for the prisoner to escape, after the latter has
 been raised from the darkness of ignorance into the light of spiritual
@@ -880,13 +880,13 @@ self-knowledge. Then will the inner sight of the soul be opened and the
 rock be rolled away. Then may the inner man go out and visit his
 disciples.
 
-<span id="fn_212"></span>[261:1](ldjb15.htm#fr_212) Man, having become
+<span id="fn_212"></span>[261:1](ldjb15.htm#fr_212.md) Man, having become
 one with the Christ in Humanity, will necessarily partake of His powers
 in Divinity. The will of the Father is then his own, and in the Son he
 rules as a Lord over the spiritual kingdom, and through the inner world
 over the external one.
 
-<span id="fn_213"></span>[262:1](ldjb15.htm#fr_213) "Why does the soul
+<span id="fn_213"></span>[262:1](ldjb15.htm#fr_213.md) "Why does the soul
 torment herself and strive in her own power and will, thus augmenting
 her torture? The more anxious she is, the greater will be her pain, and
 she acquires no rest. A dying plant does not begin to sprout and obtain
@@ -901,6 +901,6 @@ in Jesus Christ." (*Illumined Soul*, 46.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Regeneration](ldjb16)
+[Next: Chapter XIII. Regeneration](ldjb16.md)
 
 </div>

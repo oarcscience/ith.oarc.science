@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal111)  [Next](njal113) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal111)  [Next](njal113.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ Fridgerda, a daughter of Kjarval, the Erse King.
 
 ------------------------------------------------------------------------
 
-[Next: 113. Of Snorri The Priest, And His Stock](njal113)
+[Next: 113. Of Snorri The Priest, And His Stock](njal113.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](coo14)  [Next](coo16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](coo14)  [Next](coo16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Children of Odin*, by Padraic Colum, \[1920\], at Intangible
 Textual Heritage
 
@@ -438,4 +438,4 @@ with him for the seven weeks that they journeyed through Jötunheim.
 
 ------------------------------------------------------------------------
 
-[Next: 6. How Thor and Loki Befooled Thrym the Giant](coo16)
+[Next: 6. How Thor and Loki Befooled Thrym the Giant](coo16.md)

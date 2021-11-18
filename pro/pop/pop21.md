@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop20)  [Next](pop22) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop20)  [Next](pop22.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ fall upon thee that will tear thee to shreds.'
 
 ------------------------------------------------------------------------
 
-[Next: The Seventeenth Figure](pop22)
+[Next: The Seventeenth Figure](pop22.md)

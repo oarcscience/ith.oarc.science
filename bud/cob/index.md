@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cob00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cob.txt.gz)
+[Contents](#contents)    [Start Reading](cob00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cob.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,15 +42,15 @@ interpretation is thought-provoking.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cob00)  
-[Preface](cob01)  
-[Contents](cob02)  
-[Chapter I. East and West](cob03)  
-[Chapter II. The Wisdom of the East](cob04)  
-[Chapter III. The Path of Life](cob05)  
-[Chapter IV. The Teaching of Buddha](cob06)  
-[Chapter V. A Misreading of Buddha](cob07)  
-[Chapter VI. The Silence of Buddha](cob08)  
-[Chapter VII. The Secret of Buddha](cob09)  
-[Chapter VIII. The Bankruptcy of Western Thought](cob10)  
-[Chapter IX. Light From the East](cob11)  
+<span id="contents"></span> [Title Page](cob00.md)  
+[Preface](cob01.md)  
+[Contents](cob02.md)  
+[Chapter I. East and West](cob03.md)  
+[Chapter II. The Wisdom of the East](cob04.md)  
+[Chapter III. The Path of Life](cob05.md)  
+[Chapter IV. The Teaching of Buddha](cob06.md)  
+[Chapter V. A Misreading of Buddha](cob07.md)  
+[Chapter VI. The Silence of Buddha](cob08.md)  
+[Chapter VII. The Secret of Buddha](cob09.md)  
+[Chapter VIII. The Bankruptcy of Western Thought](cob10.md)  
+[Chapter IX. Light From the East](cob11.md)  

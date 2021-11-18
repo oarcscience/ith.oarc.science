@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma15)  [Next](oma17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma15)  [Next](oma17.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ without being noticed, back of the crowd, and watched them play and
 heard them talk and sing. One of the gamblers got more fresh and started
 to sing a song which grew more and more disrespectful, and some men
 started to dance like katsina. They burlesqued the dances and they
-mocked <span id="fr_125"></span>[26](#fn_125) the peculiarities of some
+mocked <span id="fr_125"></span>[26](#fn_125.md) the peculiarities of some
 of the katsina (some were bow-legged, some had off-set lips). Finally
 one said, "Is this the way the clouds look?"
 
@@ -64,7 +64,7 @@ before sun-up.
 
 When be came the second time they saw that he had clubs and hunting
 sticks in his hands. Antelope Man (head chaianyi <span
-id="fr_126"></span>[27](#fn_126) and Father of the katsina) painted
+id="fr_126"></span>[27](#fn_126) and Father of the katsina.md) painted
 himself up and put on the full costume in which he had always met the
 katsina. The Country Chief and his officers did likewise, and went forth
 to meet Gomaiowish. Antelope Man said to Gomaiowish, "Have you come, my
@@ -195,7 +195,7 @@ we will always be waiting for you there. You have received presents of
 the costume of the katsina. From now on you are going to imitate us. In
 that way we will help you from Wenimats. You have seen how we, are
 painted up, you have seen how we are dressed ([pl. 12, fig.
-2](oma45.htm#img_pl12b)). You know how to make our prayer sticks. Go
+2](oma45.htm#img_pl12b).md). You know how to make our prayer sticks. Go
 through the ceremony like this and we will help you spiritually. When
 you have picked out the costume of the katsina you are to represent, his
 power will come to you and attach itself while you represent him."
@@ -216,7 +216,7 @@ and the people brought prayer sticks to the katsina and both sides
 confessed their wrongdoing and said prayers for each other. Then the
 katsina left. When they got back to Wenimats, they all died again. For
 these 30 days they were just alive enough to be able to realize their
-punishment. <span id="fr_127"></span>[28](#fn_127) Tsitsanits took care
+punishment. <span id="fr_127"></span>[28](#fn_127.md) Tsitsanits took care
 of them during this time.
 
 <span id="page_55">p. 55</span>
@@ -225,7 +225,7 @@ Country Chief asked Masewi and Oyoyewi if they could bring the people
 alive, and they said, "Yes, we can." So all the bodies were brought into
 the plaza. They did with them as they had done with the katsina, but
 none of them came to life. The Twins had also made a mistake. Their
-father had seen what they had done and had [taken](errata.htm#2) away
+father had seen what they had done and had [taken](errata.htm#2.md) away
 all the power of their medicine staff and arrowhead after they had
 finished with the katsina. And the hunting sticks had no more power.
 This is why they could not bring any of the people back to life. So
@@ -234,28 +234,28 @@ Country Chief and the chaianyi said that it had been laid down that, if
 anything like this happened, certain rules were to be followed. "Iatiku
 said that at some time we would come to the end of life. Maybe this is
 what has happened." So the medicine men said that they would take care
-of that. So they painted ([pl. 15, fig. 2](oma48.htm#img_pl15b), *a*)
+of that. So they painted ([pl. 15, fig. 2](oma48.htm#img_pl15b), *a*.md)
 the faces of the men and the women <span
-id="fr_128"></span>[29](#fn_128) \[i. e., the medicine men  <span
-id="fr_129"></span>[30](#fn_129) prepared the dead for burial which was
+id="fr_128"></span>[29](#fn_128.md) \[i. e., the medicine men  <span
+id="fr_129"></span>[30](#fn_129.md) prepared the dead for burial which was
 to take place the day after death, thus inaugurating the funeral
-ritual, <span id="fr_130"></span>[31](#fn_130) part of which is
+ritual, <span id="fr_130"></span>[31](#fn_130.md) part of which is
 described at this point in the narrative, as follows.\] Before the
 chaianyi leaves, as many different kinds of food as possible are
 procured and offered. A fire stick (poker) and an arrow point are placed
 on the floor and for 4 days after death the soul of the dead person is
 fed a little after each meal. After 4 days a medicine man is called in
 to put the family through the forgetting <span
-id="fr_131"></span>[32](#fn_131) ceremony
+id="fr_131"></span>[32](#fn_131.md) ceremony
 
 <span id="page_56">p. 56</span>
 
-([pl. 15, fig. 2](oma48.htm#img_pl15b), *b*). <span
-id="fr_132"></span>[33](oma17.htm#fn_132) He is given prayer sticks by
+([pl. 15, fig. 2](oma48.htm#img_pl15b), *b*.md). <span
+id="fr_132"></span>[33](oma17.htm#fn_132.md) He is given prayer sticks by
 the family. He sweeps up the sand painting, and takes out the fire stick
 and the arrow point and buries them, <span
-id="fr_133"></span>[34](oma17.htm#fn_133) so the breath <span
-id="fr_134"></span>[35](oma17.htm#fn_134) of the dead person is removed
+id="fr_133"></span>[34](oma17.htm#fn_133.md) so the breath <span
+id="fr_134"></span>[35](oma17.htm#fn_134.md) of the dead person is removed
 from the house.
 
 The medicine men remembered how Iatiku had showed them the sand painting
@@ -270,11 +270,11 @@ burials.
 
 ### Footnotes
 
-<span id="fn_123"></span>[50:24](oma15.htm#fr_123) At Santo Domingo,
+<span id="fn_123"></span>[50:24](oma15.htm#fr_123.md) At Santo Domingo,
 spectators are not allowed to leave the plaza during a masked dance for
 any reason. (White, 1942 ).
 
-<span id="fn_124"></span>[50:25](oma15.htm#fr_124) This is not my
+<span id="fn_124"></span>[50:25](oma15.htm#fr_124.md) This is not my
 impression. Although it is true that officers and priests are not
 infrequently pictured in myths as powerless to bring rain, or wicked,
 and although it is not infrequently a "common man" who saves the day *in
@@ -283,19 +283,19 @@ place their trust in their priests and officers and their fetishes. If
 they can do nothing, there is little that a sicti (common person) can
 do.--L. A. W.
 
-<span id="fn_125"></span>[50:26](oma16.htm#fr_125) See White, 1932, pp.
+<span id="fn_125"></span>[50:26](oma16.htm#fr_125.md) See White, 1932, pp.
 148-50.
 
-<span id="fn_126"></span>[51:27](oma16.htm#fr_126) This is the first
+<span id="fn_126"></span>[51:27](oma16.htm#fr_126.md) This is the first
 statement that Antelope chief was a medicine man. The cacique (Antelope
 chief) at Acoma recently was not a medicine man (While, 1932, pp. 41-42)
 
-<span id="fn_127"></span>[54:28](oma16.htm#fr_127) A hint here of
+<span id="fn_127"></span>[54:28](oma16.htm#fr_127.md) A hint here of
 purgatory; the whole paragraph has a Catholic tone: punishment, penance,
 confession, prayer for somebody. Nor is "soul" (see below) a term
 generally used by Pueblos.
 
-<span id="fn_128"></span>[55:29](oma16.htm#fr_128) Cf. White 1932, p.
+<span id="fn_128"></span>[55:29](oma16.htm#fr_128.md) Cf. White 1932, p.
 137; also White, 1942. At Laguna the deceased had their faces painted
 with their respective clan designs (Parsons, 1923, p. 216); the shaman
 "will make \[the deceased\] so that he may be recognized" (Boas, 1928,
@@ -309,7 +309,7 @@ painting at San Felipe (White, 1932 a, pp. 60-61).
 Apparently face painting of common people at death is practiced only at
 Laguna and Acoma.
 
-<span id="fn_129"></span>[55:30](oma16.htm#fr_129) Informant's note:
+<span id="fn_129"></span>[55:30](oma16.htm#fr_129.md) Informant's note:
 Women have their hair cut like Iatiku with hair parted to represent the
 Milky Way over the forehead, and cut with four corners to represent the
 ceremonial 4-day period. This is done so Iatiku will recognize them. The
@@ -339,18 +339,18 @@ Acorns and possibly the dead wear sparrow, hawk feathers to indicate
 that they are to become katsina. On First Mesa and at the Laguna colony
 at Isleta deceased adult males are arrayed as katsina.--E. C. P.)
 
-<span id="fn_130"></span>[55:31](oma16.htm#fr_130) Cf. Acoma (White,
+<span id="fn_130"></span>[55:31](oma16.htm#fr_130.md) Cf. Acoma (White,
 1932, pp. 137-38; Parsons, 1918, pp. 176-180; White, 1942 ). Laguna
 (Parsons, 1920, pp. 128-29; 1923, pp. 216-19; Boas, 1928, pt. 1, pp.
 203-204). Santo Domingo (White, 1935, pp. 83-87). San Felipe (White,
 1932 a, pp. 60-61). Sia (Stevenson, 1894, pp. 143-46). Cochiti
 (Dumarest, 1919, pp. 166-170; Goldfrank, 1922, pp. 65-66).
 
-<span id="fn_131"></span>[55:32](oma16.htm#fr_131) Here and elsewhere,
+<span id="fn_131"></span>[55:32](oma16.htm#fr_131.md) Here and elsewhere,
 the informant appears to use the term "forget" where the ethnologist
 would say "exorcise" or "cleanse," or, as Spanish Indians elsewhere
 would say, "limpiarse."
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part VIII](oma17)
+[Next: Wanderings, Part VIII](oma17.md)

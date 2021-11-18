@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram09)  [Next](ram11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram09)  [Next](ram11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -45,7 +45,7 @@ and the rind made ready for use
 <span id="page_137">p. 137</span>
 
 as a vessel. It is then presented to the chief with much ceremony. <span
-id="fr_136"></span>[\*](#fn_136) The first-fruits are now brought
+id="fr_136"></span>[\*](#fn_136.md) The first-fruits are now brought
 forward, and a sacrifice, generally a young bull, is offered, after
 which the feast commences. The chief issues certain orders for the
 conduct of the proceedings, tastes the fruits which are served in the
@@ -84,7 +84,7 @@ kingly functions. He calls the bravest of his braves before him, who is
 immediately clothed and decorated with skins of animals suggestive of
 courage and strategy. He performs a dance amid the frenzied shouting of
 the multitude, after which the chief declares the 'festival at an end
-and harvest commenced. <span id="fr_137"></span>[\*](#fn_137)
+and harvest commenced. <span id="fr_137"></span>[\*](#fn_137.md)
 
 The facts deserving of special notice here are the sacrifice, the
 fighting of the bulls, and the honour done to the reproductive powers of
@@ -102,7 +102,7 @@ to let off steam by allowing
 <span id="page_139">p. 139</span>
 
 for a time full vent to their passions. <span
-id="fr_138"></span>[\*](#fn_138) For the time they give themselves up to
+id="fr_138"></span>[\*](#fn_138.md) For the time they give themselves up to
 feasting, drinking, and debauchery. The men lose all respect for the
 women and for themselves, and the women all notions of modesty. Usually
 the Hos are a quiet, reserved, and well-behaved moral people, but at the
@@ -118,13 +118,13 @@ savage; differing not in kind, but only in the manner of conducting
 them; thus showing to us, that they are among the most ancient and
 primitive of man's ritual and customs. For example. The Peruvians
 believe that all useful plants are animated by a divine being, that is
-spirit, who causes their growth. <span id="fr_139"></span>[†](#fn_139)
+spirit, who causes their growth. <span id="fr_139"></span>[†](#fn_139.md)
 These divine beings are named after the particular plant, as the Maize
 mother, the Rice mother, or the Potato mother. Figures of these mothers
 made from the stalks of the respective plants, and dressed in women's
 clothes, are worshipped. As the mother, these figures had power of
 giving birth to or producing much rice, maize, or potatoes, as the case
-might be, <span id="fr_140"></span>[‡](#fn_140) and in this acted
+might be, <span id="fr_140"></span>[‡](#fn_140.md) and in this acted
 according as they were treated. The Peruvian mother of the Maize was
 kept a whole year, and burned at the time of harvest:
 
@@ -152,7 +152,7 @@ Aberdeenshire, Scotland, the last sheaf cut, or "maiden," is carried
 home in merry procession by the harvesters. It is then presented to the
 mistress of the house, who dresses it up to be preserved till the first
 mare foals. The maiden is then taken down and presented to the mare as
-its first food. <span id="fr_141"></span>[\*](#fn_141) The neglect of
+its first food. <span id="fr_141"></span>[\*](#fn_141.md) The neglect of
 this would have untoward effects upon the foal, and disastrous
 consequences
 
@@ -173,7 +173,7 @@ cry three times in chorus, "Brüd is come, Brüd is welcome." This is done
 just before they retire to rest, and in the morning they examine the
 ashes; expecting to find among them the mark of Brüd's club. If they do,
 it is an indication of a prosperous year and good crops; if not, the
-opposite. <span id="fr_142"></span>[\*](#fn_142)
+opposite. <span id="fr_142"></span>[\*](#fn_142.md)
 
 In the district of Lochaber, where dancing and merry-making on the last
 night of harvest used to be universal, and is still generally observed,
@@ -274,24 +274,24 @@ times.
 
 ### Footnotes
 
-<span id="fn_136"></span>[137:\*](ram10.htm#fr_136) J. Sutton, MS.
+<span id="fn_136"></span>[137:\*](ram10.htm#fr_136.md) J. Sutton, MS.
 notes.
 
-<span id="fn_137"></span>[138:\*](ram10.htm#fr_137) J. Sutton, MS.
+<span id="fn_137"></span>[138:\*](ram10.htm#fr_137.md) J. Sutton, MS.
 notes.
 
-<span id="fn_138"></span>[139:\*](ram10.htm#fr_138) Dalton, "Ethnology
+<span id="fn_138"></span>[139:\*](ram10.htm#fr_138.md) Dalton, "Ethnology
 of Bengal," quoted by J. G. Frazer.
 
-<span id="fn_139"></span>[139:†](ram10.htm#fr_139) J. G. Frazer.
+<span id="fn_139"></span>[139:†](ram10.htm#fr_139.md) J. G. Frazer.
 
-<span id="fn_140"></span>[139:‡](ram10.htm#fr_140) Mannhardt.
+<span id="fn_140"></span>[139:‡](ram10.htm#fr_140.md) Mannhardt.
 
-<span id="fn_141"></span>[140:\*](ram10.htm#fr_141) Miss J. Ligertwood,
+<span id="fn_141"></span>[140:\*](ram10.htm#fr_141.md) Miss J. Ligertwood,
 MS. notes.
 
-<span id="fn_142"></span>[141:\*](ram10.htm#fr_142) Martin.
+<span id="fn_142"></span>[141:\*](ram10.htm#fr_142.md) Martin.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Prophecy](ram11)
+[Next: Chapter IX. Prophecy](ram11.md)

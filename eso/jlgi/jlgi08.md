@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi07) 
-[Next](jlgi09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi07.md) 
+[Next](jlgi09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus, the Last Great Initiate*, by Edouard Schuré, \[1908\], at
 Intangible Textual Heritage
 
@@ -131,7 +131,7 @@ their seats therein as judges of Israel around the Messiah, the crowned
 priest-king. Jesus turned, facing the temple. and said: "See ye not all
 these things? Verily I say unto you, there shall not be left here one
 stone upon another, that shall not be thrown down." <span
-id="fr_29"></span>[1](#fn_29) He was judging the duration of the temple
+id="fr_29"></span>[1](#fn_29.md) He was judging the duration of the temple
 of Jehovah by the moral worth of those who ruled therein. He meant that
 fanaticism, intolerance, and hatred were not sufficient arms against the
 battle-axes and battering-rams of the Roman Cæsar. With the insight of
@@ -208,14 +208,14 @@ expounded this doctrine, with reference to Jesus’ conversation with
 Nicodemus. On the Mount of Olives he says to his disciples: "Take heed
 to yourselves, lest at any time your hearts be overcharged with
 surfeiting, and drunkenness, and cares of this life, and so that day
-come upon you unawares.'' <span id="fr_30"></span>[1](#fn_30) And again:
+come upon you unawares.'' <span id="fr_30"></span>[1](#fn_30.md) And again:
 "Be ye also ready: for in such an hour as ye think not, the Son of man
-cometh." <span id="fr_31"></span>[2](#fn_31)
+cometh." <span id="fr_31"></span>[2](#fn_31.md)
 
 2\. *The destruction of the temple and the end of Israel*. "Nation shall
 rise against nation.… They shall deliver you up to be afflicted.… Verily
 I say unto you, This generation shall not pass till all these things be
-fulfilled." <span id="fr_32"></span>[3](#fn_32)
+fulfilled." <span id="fr_32"></span>[3](#fn_32.md)
 
 3\. *The terrestrial aim of humanity*, which is not fixed at some
 definite epoch, but must be reached by a graduated series of successive
@@ -226,7 +226,7 @@ had already foretold this distant epoch in a splendid vision beginning
 with the words: "For I know their works and their thoughts; it shall
 come that I will gather all nations and tongues; and they shall come and
 see my glory. And I will set a sign among them," &c., &c. <span
-id="fr_33"></span>[4](#fn_33) Jesus completing this prophecy explains to
+id="fr_33"></span>[4](#fn_33.md) Jesus completing this prophecy explains to
 his disciples what this sign shall be; the complete unveiling of the
 mysteries or the coming of the Holy Ghost, whom he also calls the
 Comforter or "the spirit of Truth
@@ -234,12 +234,12 @@ Comforter or "the spirit of Truth
 <span id="page_95">p. 95</span>
 
 which shall lead you into all truth." <span
-id="fr_34"></span>[1](#fn_34) The apostles shall have this revelation
+id="fr_34"></span>[1](#fn_34.md) The apostles shall have this revelation
 beforehand, the mass of humanity in the course of time. But whenever it
 takes place in an individual consciousness or among a group of men, it
 pierces through and through. "For as the lightning cometh out of the
 east and shineth even unto the west, so shall also the coming of the son
-of man be." <span id="fr_35"></span>[2](#fn_35) Thus, when the central
+of man be." <span id="fr_35"></span>[2](#fn_35.md) Thus, when the central
 and spiritual truth is kindled it illumines all other truths throughout
 creation.
 
@@ -256,7 +256,7 @@ by their own passions symbolized by the fire of Gehenna and gnashing of
 teeth. "Then shall appear the sign of the Son of man in heaven … they
 shall see the Son of man coming in the clouds.… He shall send his angels
 with a great sound of a trumpet, and they shall gather together his
-elect from the four winds." <span id="fr_36"></span>[3](#fn_36) The *Son
+elect from the four winds." <span id="fr_36"></span>[3](#fn_36.md) The *Son
 of Man*, a generic term, here signifies humanity in its perfect
 representation, *i. e.* the small number of those who have raised
 themselves to the rank
@@ -310,7 +310,7 @@ Iscariot had already promised to deliver his master into their hands. It
 was not sordid avarice, but rather ambition and wounded pride which
 occasioned this black treachery. Judas, a type of cold egoism and
 absolute positivism, incapable of the faintest idealism, had become a
-disciple of the Christ merely from a spirit of [worldly](errata.htm#11)
+disciple of the Christ merely from a spirit of [worldly](errata.htm#11.md)
 speculation. He was relying on the earthly and immediate triumph of the
 prophet, and on his own consequent gain. The Master's profound words: He
 who wishes to save his life shall lose it, and he who is willing to lose
@@ -366,7 +366,7 @@ lent by the friend had been brought into the room, and the vases filled
 with wine, Jesus, seated between John and Peter, said: "With desire I
 have desired to eat this passover with you before I suffer: For I say
 unto you, I will not any more eat thereof, until it be fulfilled in the
-kingdom of God." <span id="fr_37"></span>[1](#fn_37) Thereupon their
+kingdom of God." <span id="fr_37"></span>[1](#fn_37.md) Thereupon their
 countenances became overshadowed: silence filled the air. "The disciple
 whom Jesus loved," who alone divined everything, bowed his head on the
 Master's breast. As was usual among the Jews at the Easter meal, not a
@@ -375,7 +375,7 @@ them. Finally Jesus took bread, and after giving thanks, he brake it and
 distributed unto them, saying: "This is my body which is given for you:
 this do in remembrance of me." He also took the cup, saying: "This cup
 is the new testament in my blood, which is shed for you." <span
-id="fr_38"></span>[2](#fn_38)
+id="fr_38"></span>[2](#fn_38.md)
 
 Such is the institution of the Supper in all its simplicity. It has a
 far wider signification than is generally granted or known, for not only
@@ -829,7 +829,7 @@ It would be possible with Celsus, Strauss, and M. Renan to refuse all
 objective value to the resurrection, and consider it as a phenomenon
 resulting from pure hallucination. If so, one is obliged to found the
 greatest religious revolution of humanity on an aberration of the senses
-and a mere delusion of the mind. <span id="fr_39"></span>[1](#fn_39)
+and a mere delusion of the mind. <span id="fr_39"></span>[1](#fn_39.md)
 There can be no denying that faith in the resurrection is the basis of
 historical Christianity. But for this confirmation of Jesus’ teaching by
 a dazzling fact, his religion would not even have had a beginning.
@@ -897,7 +897,7 @@ are in reality, they fatally manifest themselves under the form and
 color of their essence dark and hideous if they are evil; radiant and
 beautiful if they are good. Such is the doctrine given by Paul in the
 Epistle to the Corinthians, where he formally says: "There is an animal
-body and there is a spiritual body." <span id="fr_40"></span>[1](#fn_40)
+body and there is a spiritual body." <span id="fr_40"></span>[1](#fn_40.md)
 Jesus states this symbolically but with greater profundity for those who
 can read between the lines in the secret conversation with Nicodemus.
 Now, the more a soul is spiritualized, the farther will it be from the
@@ -1014,37 +1014,37 @@ this and to attain thereto, prove it here below by deeds of love."
 
 ### Footnotes
 
-<span id="fn_29"></span>[91:1](jlgi08.htm#fr_29) Matthew xxiv. 2.
+<span id="fn_29"></span>[91:1](jlgi08.htm#fr_29.md) Matthew xxiv. 2.
 
-<span id="fn_30"></span>[94:1](jlgi08.htm#fr_30) Luke xxi. 34.
+<span id="fn_30"></span>[94:1](jlgi08.htm#fr_30.md) Luke xxi. 34.
 
-<span id="fn_31"></span>[94:2](jlgi08.htm#fr_31) Matthew xxiv. 44.
+<span id="fn_31"></span>[94:2](jlgi08.htm#fr_31.md) Matthew xxiv. 44.
 
-<span id="fn_32"></span>[94:3](jlgi08.htm#fr_32) Matthew xxiv. 4-34.
+<span id="fn_32"></span>[94:3](jlgi08.htm#fr_32.md) Matthew xxiv. 4-34.
 
-<span id="fn_33"></span>[94:4](jlgi08.htm#fr_33) Isaiah lxvi. 18, &c.
+<span id="fn_33"></span>[94:4](jlgi08.htm#fr_33.md) Isaiah lxvi. 18, &c.
 
-<span id="fn_34"></span>[95:1](jlgi08.htm#fr_34) John xiv. 16-17.
+<span id="fn_34"></span>[95:1](jlgi08.htm#fr_34.md) John xiv. 16-17.
 
-<span id="fn_35"></span>[95:2](jlgi08.htm#fr_35) Matthew xxiv. 27.
+<span id="fn_35"></span>[95:2](jlgi08.htm#fr_35.md) Matthew xxiv. 27.
 
-<span id="fn_36"></span>[95:3](jlgi08.htm#fr_36) Matthew xxiv. 30, 31.
+<span id="fn_36"></span>[95:3](jlgi08.htm#fr_36.md) Matthew xxiv. 30, 31.
 
-<span id="fn_37"></span>[99:1](jlgi08.htm#fr_37) Luke xxii. 15, 16.
+<span id="fn_37"></span>[99:1](jlgi08.htm#fr_37.md) Luke xxii. 15, 16.
 
-<span id="fn_38"></span>[99:2](jlgi08.htm#fr_38) Luke xxii. 19.
+<span id="fn_38"></span>[99:2](jlgi08.htm#fr_38.md) Luke xxii. 19.
 
-<span id="fn_39"></span>[114:1](jlgi08.htm#fr_39) Strauss says: "The
+<span id="fn_39"></span>[114:1](jlgi08.htm#fr_39.md) Strauss says: "The
 fact of the resurrection is explicable only as 'ein welthistorischer
 humbug.'" The expression is rather cynical than witty, and does not
 explain the visions of the apostles and of Paul.
 
-<span id="fn_40"></span>[116:1](jlgi08.htm#fr_40) 1 Cor. xv. 39-46.
+<span id="fn_40"></span>[116:1](jlgi08.htm#fr_40.md) 1 Cor. xv. 39-46.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Promise and Its Fulfilment—The Temple](jlgi09)
+[Next: Chapter VII. The Promise and Its Fulfilment—The Temple](jlgi09.md)
 
 </div>

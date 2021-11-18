@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](zar04)  [Next](zar06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](zar04)  [Next](zar06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -650,7 +650,7 @@ thereby become more spacious! Said R. 'Hanina of Sura: This space should
 be made a toilet-room, or a hedge of thorns be fenced between the idol
 and the vacant space.
 
-[MISHNA](errata.htm#58) *VIII*.: There are three kinds of houses: (i) a
+[MISHNA](errata.htm#58) *VIII*.: There are three kinds of houses: (i.md) a
 house originally built for idol worship is prohibited; (2) if
 calcimined, repaired or somewhat renewed for idol-worship, then it -is
 necessary to take off it only the new additions; (3) a house into which
@@ -935,4 +935,4 @@ soon as it loses its shape.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](zar06)
+[Next: Chapter IV](zar06.md)

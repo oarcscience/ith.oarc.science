@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt09)  [Next](blt11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt09)  [Next](blt11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 #### I
 
 It was in the valley of "It fell on them" <span
-id="fr_9"></span>[1](#fn_9) Creek, near the mountains, that the Pikŭn´i
+id="fr_9"></span>[1](#fn_9.md) Creek, near the mountains, that the Pikŭn´i
 were camped when Mik-a´pi went to war. It was far back, in the days of
 stone knives, long before the white people had come. This was the way it
 happened.
@@ -55,7 +55,7 @@ the mountain, and were lost to sight.
 
 Now Fox-eye had two wives, and their father and mother and all their
 near relations were dead. All Fox-eye's relatives, too, had long since
-gone to the Sand Hills <span id="fr_10"></span>[1](#fn_10). So these
+gone to the Sand Hills <span id="fr_10"></span>[1](#fn_10.md). So these
 poor widows had no one to avenge them, and they mourned deeply for the
 husband so suddenly taken from them. Through the long days they sat on a
 near hill and mourned, and their mourning was very sad.
@@ -135,7 +135,7 @@ Now in his dream he fought with a strange people, and was wounded. He
 felt blood trickling from his wounds, and when he awoke, he knew that he
 had been warned to turn back. The signs also were bad. He saw an eagle
 rising with a snake, which dropped from its claws and escaped. The
-setting sun, too, was painted <span id="fr_11"></span>[1](#fn_11),—a
+setting sun, too, was painted <span id="fr_11"></span>[1](#fn_11.md),—a
 sure warning to people that danger is near. But, in spite of all these
 things, Mik-a´pi determined to go on. He thought of the poor widows
 mourning and waiting for revenge. He thought of the glad welcome of the
@@ -191,7 +191,7 @@ saw a movement of a bush. There was a Snake. Could he kill him and yet
 escape? He was close to him now. So he sat and waited, considering how
 to act. For a long time he sat there waiting. The moon rose and
 travelled high in the sky. The Seven Persons <span
-id="fr_12"></span>[1](#fn_12) slowly swung around, and pointed downward.
+id="fr_12"></span>[1](#fn_12.md) slowly swung around, and pointed downward.
 It was the middle of the night. Then the person in the bush stood up and
 stretched out his arms and yawned, for he was tired of watching, and
 thought that no danger was near; but as he stood thus, an arrow pierced
@@ -255,7 +255,7 @@ brother, for I will help you, and you shall survive."
 
 When he had said this, he lifted Mik-a´pi and carried him to a place of
 thick mud; and here he took great handfuls <span
-id="fr_13"></span>[1](#fn_13) of the mud and plastered the wounds, and
+id="fr_13"></span>[1](#fn_13.md) of the mud and plastered the wounds, and
 he sung a medicine song while putting on the mud. Then he carried
 Mik-a´pi to a place where were many sarvis berries, and broke off great
 branches of the fruit, and gave them to him, saying, "Eat, my brother,
@@ -309,24 +309,24 @@ from those fearful and unknown persons.
 
 ### Footnotes
 
-<span id="fn_9"></span>[61:1](blt10.htm#fr_9) Armells Creek in Northern
+<span id="fn_9"></span>[61:1](blt10.htm#fr_9.md) Armells Creek in Northern
 Montana is called *Et-tsis-ki-ots-op*, "It fell on them." A longtime ago
 a number of Blackfeet women were digging in a bank near this creek for
 the red clay which they use for paint, when the bank gave way and fell
 on them, burying and killing them.
 
-<span id="fn_10"></span>[62:1](blt10.htm#fr_10) Sand Hills: the shadow
+<span id="fn_10"></span>[62:1](blt10.htm#fr_10.md) Sand Hills: the shadow
 land; place of ghosts; the Blackfoot future world.
 
-<span id="fn_11"></span>[64:1](blt10.htm#fr_11) Sun dogs.
+<span id="fn_11"></span>[64:1](blt10.htm#fr_11.md) Sun dogs.
 
-<span id="fn_12"></span>[66:1](blt10.htm#fr_12) The constellation of the
+<span id="fn_12"></span>[66:1](blt10.htm#fr_12.md) The constellation of the
 Great Bear.
 
-<span id="fn_13"></span>[68:1](blt10.htm#fr_13) The bear's paws are
+<span id="fn_13"></span>[68:1](blt10.htm#fr_13.md) The bear's paws are
 called *O-kits-iks,* the term also for a person's hands. The animal
 itself is regarded as almost human.
 
 ------------------------------------------------------------------------
 
-[Next: Heavy Collar And The Ghost Woman](blt11)
+[Next: Heavy Collar And The Ghost Woman](blt11.md)

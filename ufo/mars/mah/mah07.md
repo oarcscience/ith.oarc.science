@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah06)  [Next](mah08) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah06)  [Next](mah08.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ righteousness, and all these things shall be added unto you."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Property And Property Rights](mah08)
+[Next: Chapter V: Property And Property Rights](mah08.md)

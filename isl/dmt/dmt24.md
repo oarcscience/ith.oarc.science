@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt23)  [Next](dmt25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt23)  [Next](dmt25.md) 
 
 ------------------------------------------------------------------------
 
 ### VII
 
-### ANALYSIS OF THE *Taqrib* OF ABU SHUJA AL-ISPAHANI <span id="fr_6"></span>[1](#fn_6)
+### ANALYSIS OF THE *Taqrib* OF ABU SHUJA AL-ISPAHANI <span id="fr_6"></span>[1](#fn_6.md)
 
 *Book I*. *Of Ceremonial Purity* (*Tahara*)
 
@@ -344,7 +344,7 @@ to another and of her children.
 
 ### Footnotes
 
-<span id="fn_6"></span>[351:1](dmt24.htm#fr_6) See in bibliography, S.
+<span id="fn_6"></span>[351:1](dmt24.htm#fr_6.md) See in bibliography, S.
 Keijzer, *Précis*, *etc*. Much help as to details of religious ritual
 and law will be found in Hughes's *Dictionary of Islam*, Sachau's
 *Muhammedanisches Recht*, Lane's *Modern Egyptians*, and commentary to
@@ -353,4 +353,4 @@ Sell's *Faith of Islam*.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](dmt25)
+[Next: Contents](dmt25.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma40)  [Next](oma42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma40)  [Next](oma42.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,11 +10,11 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl08a"></span>
 
 [![Plate 8, Figure 1](tn/pl08a.jpg)  
-Click to enlarge](img/pl08a.jpg)  
+Click to enlarge](img/pl08a.jpg.md)  
 Plate 8, Figure 1  
 
 FIGURE 1. Hunters' society altar. Five honani (see footnote
- [80](oma11.htm#fn_79), p. 31); two lightnings (right, yellow; left,
+ [80](oma11.htm#fn_79), p. 31.md); two lightnings (right, yellow; left,
 red) (the power for killing game: yellow, north lightning; red, south
 lightning); fetiches of carnivorous animals; down the center is the
 hiamuni (corn meal road) which the animals follow to go out; two pairs
@@ -28,7 +28,7 @@ heading.
 <span id="img_pl08b"></span>
 
 [![Plate 8, Figure 2](tn/pl08b.jpg)  
-Click to enlarge](img/pl08b.jpg)  
+Click to enlarge](img/pl08b.jpg.md)  
 Plate 8, Figure 2  
 
 FIGURE 2. Fire society altar. The frame (green), ichini, is the house of
@@ -49,7 +49,7 @@ girls, clan mothers, the first to be born after Iatiku.) The feathers
 Clouds (white, rims red fringed with black, feathers white) the lines
 and the suspended feathers (white, black-tipped) also represent rain; at
 each end, lightning (red); the five corn fetishes at the bottom are
-honani (Iatiku) (see footnote  [80](oma11.htm#fn_79), p. 31); in front,
+honani (Iatiku) (see footnote  [80](oma11.htm#fn_79), p. 31.md); in front,
 the medicine bowl (white with tan design; inside white with yellow
 border); on each side, left paws of bears (black) and stone points
 (gray, brown) used for killing; in front, stone fetishes (black, gray,
@@ -57,4 +57,4 @@ brown) of Bear, Lion, Wolf. etc.
 
 ------------------------------------------------------------------------
 
-[Next: Plate 9](oma42)
+[Next: Plate 9](oma42.md)

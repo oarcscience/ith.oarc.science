@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis28)  [Next](kis30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis28)  [Next](kis30.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ him and make him give the Egg back to us."
 
 ------------------------------------------------------------------------
 
-[Next: Part IX](kis30)
+[Next: Part IX](kis30.md)

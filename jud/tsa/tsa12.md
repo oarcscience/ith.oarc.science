@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa11)  [Next](tsa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa11)  [Next](tsa13.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,9 +26,9 @@ that of the second. And for the third row one of the assembled audience
 was chosen. He did not sit in the place just vacated, but in a place for
 which he was suited.
 
-**T**. VII. 8. When the "Prince" <span id="fr_249"></span>[1](#fn_247)
+**T**. VII. 8. When the "Prince" <span id="fr_249"></span>[1](#fn_247.md)
 enters, all the people stand, and do not sit until he bids them do so.
-When the "father of the court" <span id="fr_250"></span>[1](#fn_247)
+When the "father of the court" <span id="fr_250"></span>[1](#fn_247.md)
 enters, they stand up on either side to make a passage for him, until he
 has come in and taken his place. When a member of the court enters, one
 after another stands up to make room for him until he has come in and
@@ -57,10 +57,10 @@ the court occupied in some legal discussion, he may not break in upon
 their talk until he has sat down and discovered what is the subject with
 which they are occupied. If he should do so, it is of such a one that it
 is said: "There are seven marks of the clod, and seven of the wise
-man," <span id="fr_251"></span>[1](#fn_248) etc.
+man," <span id="fr_251"></span>[1](#fn_248.md) etc.
 
 11\. Seven rules of interpretation did the elder Hillel <span
-id="fr_252"></span>[2](#fn_249) expound before the elders of Bethyra:
+id="fr_252"></span>[2](#fn_249.md) expound before the elders of Bethyra:
 the argument *a fortiori*, the analogy of expressions, the
 
 <span id="page_77">p. 77</span>
@@ -79,7 +79,7 @@ three, it is an average assembly; if four, a wise one.
 The Sanhedrin was arranged in the form of a semicircle, so that they
 might all see each other. The Prince sat in the middle with the elders
 on his right and left. R. Eleazar, the son of Zadok, said: "When Rabban
-Gamaliel <span id="fr_253"></span>[1](#fn_250) sat in Jabne, my father
+Gamaliel <span id="fr_253"></span>[1](#fn_250.md) sat in Jabne, my father
 and another sat on his right, and the other elders on his left." And why
 does one sit in accordance with age on the right? Because of the
 reverence due to age.
@@ -98,17 +98,17 @@ defendant, since he was always stationed next to the chief witness.
 
 ### Footnotes
 
-<span id="fn_247"></span>[75:1](tsa12.htm#fr_250) Except for the
+<span id="fn_247"></span>[75:1](tsa12.htm#fr_250.md) Except for the
 isolated passage, Hagiga 2. 2, there is no mention in the *Mishnah* of
 these two, the Nasi and *Ab beth din*. They probably did not exist till
 the Jabne period, *i.e.* after the destruction of Jerusalem.
 
-<span id="fn_248"></span>[76:1](tsa12.htm#fr_251) *Pirke Aboth*, V. 10.
+<span id="fn_248"></span>[76:1](tsa12.htm#fr_251.md) *Pirke Aboth*, V. 10.
 The quotation continues: "The wise man speaks not before one who is
 greater than he in wisdom, and does not interrupt the words of his
 companion."
 
-<span id="fn_249"></span>[76:2](tsa12.htm#fr_252) The great Jewish
+<span id="fn_249"></span>[76:2](tsa12.htm#fr_252.md) The great Jewish
 teacher of the period immediately preceding the birth of Jesus, and the
 first of the great family which included the two Gamaliels. His life is
 estimated to have covered the period 70 B.C. to 10 A.D. He was a pupil
@@ -123,7 +123,7 @@ seven rules were afterwards increased to thirteen by R, Ishmael b.
 Shamua at the end of the first century A.D. (See Singer, *Authorised
 Daily Jewish Prayer Book*, p. 13.)
 
-<span id="fn_250"></span>[77:1](tsa12.htm#fr_253) Rabban Gamaliel (the
+<span id="fn_250"></span>[77:1](tsa12.htm#fr_253.md) Rabban Gamaliel (the
 Second), was grandson of the Gamaliel referred to in Acts v. 34. He
 succeeded Jochanan b. Zakkai as President of the Jabne Sanhedrin, and
 aimed at a policy of interpretation which should reconcile the opposing
@@ -134,4 +134,4 @@ revolt of 135 A.D.
 
 ------------------------------------------------------------------------
 
-[Next: The Method of admonishing Witnesses in Capital Cases](tsa13)
+[Next: The Method of admonishing Witnesses in Capital Cases](tsa13.md)

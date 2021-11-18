@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta20)  [Next](sta22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta20)  [Next](sta22.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ and the mystic Dove was regarded as a symbol
 <span id="img_08900"></span>
 
 [![THE PHNIX ON ITS NEST OF FLAMES.](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 THE PHŒNIX ON ITS NEST OF FLAMES.  
 
 From Lycosthenes' Prodigiorum, ac Ostentorum Chronicon.
@@ -282,7 +282,7 @@ tendency towards the use of this emblematic bird.
 <span id="img_09000"></span>
 
 [![PHNIX OR EAGLE, WHICH?](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)  
+Click to enlarge](img/09000.jpg.md)  
 PHŒNIX OR EAGLE, WHICH?  
 
 On the left is the bird's head from the first Great Seal of the United
@@ -301,7 +301,7 @@ not a bird of good moral character!
 <span id="img_09001"></span>
 
 [![AN EGYPTIAN PHNIX.](tn/09001.jpg)  
-Click to enlarge](img/09001.jpg)  
+Click to enlarge](img/09001.jpg.md)  
 AN EGYPTIAN PHŒNIX.  
 
 From Wilkinson's *Manners and Customs of the Ancient Egyptians*.
@@ -318,7 +318,7 @@ apparently well understood by the ancient priestcraft.
 
 [![THE OBVERSE AND REVERSE OF THE GREAT SEAL OF THE UNITED STATES OF
 AMERICA.](tn/09002.jpg)  
-Click to enlarge](img/09002.jpg)  
+Click to enlarge](img/09002.jpg.md)  
 THE OBVERSE AND REVERSE OF THE GREAT SEAL OF THE UNITED STATES OF
 AMERICA.  
 
@@ -604,7 +604,7 @@ Hermes standing upon the prostrate form of Typhon. The early Christians
 were accused of worshiping the head of an ass. A most curious animal
 symbol is the hog or sow, sacred to Diana, and frequently employed in
 the Mysteries as an emblem of the occult art. The wild boar which
-[gored](errata.htm#5) Atys shows the use of this animal in the
+[gored](errata.htm#5.md) Atys shows the use of this animal in the
 Mysteries.
 
 According to the Mysteries, the monkey represents the condition of man
@@ -651,7 +651,7 @@ doctrine--the Greek army under the command of Agamemnon.
 <span id="img_09200"></span>
 
 [![ÆNEAS AND THE HARPIES.](tn/09200.jpg)  
-Click to enlarge](img/09200.jpg)  
+Click to enlarge](img/09200.jpg.md)  
 ÆNEAS AND THE HARPIES.  
 
 From Virgil's *Æneid*. (Dryden's translation.)
@@ -669,4 +669,4 @@ bring dire calamity to the Trojans.
 
 ------------------------------------------------------------------------
 
-[Next: Flowers, Plants, Fruits, and Trees](sta22)
+[Next: Flowers, Plants, Fruits, and Trees](sta22.md)

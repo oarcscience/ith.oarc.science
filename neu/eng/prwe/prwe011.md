@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe010)  [Next](prwe012) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe010)  [Next](prwe012.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ giant is noteworthy as the only one recorded who lived in a house.
 
 ------------------------------------------------------------------------
 
-[Next: Trebiggan the Giant](prwe012)
+[Next: Trebiggan the Giant](prwe012.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft03)  [Next](efft05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft03)  [Next](efft05.md) 
 
 ------------------------------------------------------------------------
 
-# MR. FOX  <span id="fr_3"></span>[1](#fn_3)
+# MR. FOX  <span id="fr_3"></span>[1](#fn_3.md)
 
 ONCE upon a time there was a young lady called Lady Mary, who had two
 brothers. One summer they all three went to a country seat of theirs,
@@ -62,7 +62,7 @@ story, till she came to the circumstance of his cutting off the young
 lady's hand, when, upon his saying, as usual--
 
 "It is not so, nor it was not so,  
-And God forbid it should be so  <span id="fr_4"></span>[2](#fn_4)  
+And God forbid it should be so  <span id="fr_4"></span>[2](#fn_4.md)  
 Lady Mary retorts by saying--  
 "But it is so, and it was so,  
 And here the hand I have to show!"--
@@ -75,10 +75,10 @@ thousand pieces.
 
 ### Footnotes
 
-<span id="fn_3"></span>[1](efft04.htm#fr_3) Malone's Skakspeare (1821),
+<span id="fn_3"></span>[1](efft04.htm#fr_3) Malone's Skakspeare (1821.md),
 vol. vii. p. 163. See note at end of story.
 
-<span id="fn_4"></span>[2](efft04.htm#fr_4) This story was contributed
+<span id="fn_4"></span>[2](efft04.htm#fr_4.md) This story was contributed
 to Malone's *Shakespeare* by Blakeway, in elucidation of Benedict's
 speech in "Much Ado about Nothing," Act i., Scene 1--." Like the old
 tale, my Lord: it is not so, nor 'twas not so; but indeed, God forbid it
@@ -88,4 +88,4 @@ by a great-aunts in childhood."
 
 ------------------------------------------------------------------------
 
-[Next: Tom Tit Tot](efft05)
+[Next: Tom Tit Tot](efft05.md)

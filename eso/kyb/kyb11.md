@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](kyb10)  [Next](kyb12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](kyb10)  [Next](kyb12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NHRC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NHRC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kybalion*, by Three Initiates, \[1912\], at Intangible Textual
 Heritage
 
@@ -192,4 +192,4 @@ the Principle of Vibration, has grasped the scepter of Power."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Polarity](kyb12)
+[Next: Chapter X. Polarity](kyb12.md)

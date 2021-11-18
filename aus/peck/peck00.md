@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Next](peck01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Next](peck01.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ All Australia it entrances,
 
 ------------------------------------------------------------------------
 
-[Next: Contents](peck01)
+[Next: Contents](peck01.md)

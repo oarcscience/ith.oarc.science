@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod40)  [Next](eod42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod40)  [Next](eod42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ Textual Heritage
 It was the similarity of the periodic phases of the moon and of
 womankind that originally suggested the identification of the Great
 Mother with the moon, and originated the belief that the moon was the
-regulator of human beings. <span id="fr_398"></span>[1](#fn_398) This
+regulator of human beings. <span id="fr_398"></span>[1](#fn_398.md) This
 was the starting-point of the system of astrology and the belief in
 Fates. The goddess of birth and death controlled and measured the lives
 of mankind.
@@ -39,28 +39,28 @@ and setting directed men's attention to the east and the west as
 cardinal points intimately associated with the daily birth and death of
 the sun. We have no certain clue as to the factors which first brought
 the north and the south into prominence. But it seems probable that the
-direction of the river Nile, <span id="fr_399"></span>[2](#fn_399) which
+direction of the river Nile, <span id="fr_399"></span>[2](#fn_399.md) which
 was the guide to the orientation of the corpse in its grave, may have
 been responsible for giving special sanctity to these other cardinal
 points. The association of the direction of the deceased's head with the
 position of the original homeland and the eventual home of the dead
 would have made the south a "divine" region in Predynastic times. For
 similar reasons the north may have acquired special significance in the
-Early Dynastic period. <span id="fr_400"></span>[3](#fn_400)
+Early Dynastic period. <span id="fr_400"></span>[3](#fn_400.md)
 
 When the north and the south were added to the other two cardinal points
 the intimate association of the east and the west with the measurement
 of time would be extended to include all the four cardinal points. <span
-id="fr_401"></span>[4](#fn_401) Four became a sacred number associated
+id="fr_401"></span>[4](#fn_401.md) Four became a sacred number associated
 with time-measurement, and especially with the sun. <span
-id="fr_402"></span>[5](#fn_402)
+id="fr_402"></span>[5](#fn_402.md)
 
 Many other factors played a part in the establishment of the
 
 <span id="page_207">p. 207</span>
 
 sanctity of the number four. Professor Lethaby has suggested <span
-id="fr_403"></span>[1](#fn_403) that the four-sided building was
+id="fr_403"></span>[1](#fn_403.md) that the four-sided building was
 determined by certain practical factors, such as the desirability of
 fashioning a room to accommodate a woven mat, which was necessarily of a
 square or oblong form. But the study of the evolution of the early
@@ -96,7 +96,7 @@ prominent part in the Story of the Flood. In Babylonia the sanctity of
 the number received special recognition. When the goddess became the
 destroyer of mankind, the device seems to have been adopted of
 intensifying her powers of destruction by representing her at times as
-seven demons. <span id="fr_404"></span>[2](#fn_404)
+seven demons. <span id="fr_404"></span>[2](#fn_404.md)
 
 <span id="page_208">p. 208</span>
 
@@ -109,7 +109,7 @@ year; but the exact measurement of that period and the fixing of an
 arbitrary commencement, a New Year's day, were due to other reasons. In
 the Story of the Destruction of Mankind it is recorded that the incident
 of the soothing of Hathor by means of the blood-coloured beer (which, as
-I have explained elsewhere, <span id="fr_405"></span>[1](#fn_405) is a
+I have explained elsewhere, <span id="fr_405"></span>[1](#fn_405.md) is a
 reference to the annual Nile flood) was celebrated annually on New
 Year's day.
 
@@ -122,7 +122,7 @@ story was reputed to be "the tears of Isis".
 Hathor's day was in fact the date of the commencement of the inundation
 and of the year; and the former event marked the beginning-of the year
 and enabled men for the first time to measure its duration. Thus
-Hathor <span id="fr_406"></span>[2](#fn_406) was the measurer of the
+Hathor <span id="fr_406"></span>[2](#fn_406.md) was the measurer of the
 year, the month, and the week; while her son Horus (Chronus) was the
 day-measurer.
 
@@ -137,10 +137,10 @@ Fountain of Life in the dark south-western regions of the earth" (p.
 353).
 
 The star Sothis rose heliacally on the first day of the Egyptian New
-Year. <span id="fr_407"></span>[1](#fn_407) Hence it became "the second
+Year. <span id="fr_407"></span>[1](#fn_407.md) Hence it became "the second
 sun in heaven," and was identified with the goddess of the New Year's
 Day. The identification of Hathor with this second sun" <span
-id="fr_408"></span>[2](#fn_408) may explain why the goddess is said to
+id="fr_408"></span>[2](#fn_408.md) may explain why the goddess is said to
 have entered Re's boat. She took her place as a crown upon his forehead,
 which afterwards was assumed by her surrogate, the fire-spitting
 uræus-serpent. When Horus took his mother's place in the myth, he also
@@ -171,7 +171,7 @@ a New Year's celebration in Egypt.
 
 In the celebration of these anniversaries the priestesses of Aphrodite
 worked themselves up in a wild state of frenzy; and the term
-ὑστήρια <span id="fr_409"></span>[1](#fn_409) became identified with the
+ὑστήρια <span id="fr_409"></span>[1](#fn_409.md) became identified with the
 state of emotional derangement associated with such orgies. The common
 belief that the term "hysteria" is derived directly from the Greek word
 for uterus is certainly erroneous. The word ὑστήρια was used in the same
@@ -180,11 +180,11 @@ goddess. The "hysteria" was the name for the orgy in celebration of the
 goddess on New Year's day: then it was applied to the condition produced
 by these excesses; and ultimately it was adopted in medicine to apply to
 similar emotional disturbances. Thus both the terms "hysteria" and
-"lunacy" <span id="fr_410"></span>[2](#fn_410) are intimately associated
+"lunacy" <span id="fr_410"></span>[2](#fn_410.md) are intimately associated
 with the earliest phases in the moon-goddess's history; and their
 survival in modern medicine is a striking tribute to the strong hold of
 effete superstition in this branch of the diagnosis and treatment of
-disease. <span id="fr_411"></span>[3](#fn_411)
+disease. <span id="fr_411"></span>[3](#fn_411.md)
 
 I have already referred to the association of Artemis with the portal of
 birth and rebirth. As the guardian of the door her Roman representative
@@ -206,7 +206,7 @@ the early story involved the destruction of mankind, it became necessary
 to provide some explanation of the continued existence of man upon the
 earth. This difficulty was got rid of by creating a new race of men from
 the fragments of the old or from the clay into which they had been
-transformed (*supra*, [p. 196](eod40.htm#page_196)). In course of time
+transformed (*supra*, [p. 196](eod40.htm#page_196).md). In course of time
 this *secondary* creation became the basis of the familiar story of the
 *original* creation of mankind. But the story also became transformed in
 other ways. Different versions of the process of destruction were
@@ -245,28 +245,28 @@ from the same original source.
 
 ### Footnotes
 
-<span id="fn_398"></span>[206:1](eod41.htm#fr_398) The Greek Chronus was
+<span id="fn_398"></span>[206:1](eod41.htm#fr_398.md) The Greek Chronus was
 the son of Selene.
 
-<span id="fn_399"></span>[206:2](eod41.htm#fr_399) Or possibly the
+<span id="fn_399"></span>[206:2](eod41.htm#fr_399.md) Or possibly the
 situations of Upper and Lower Egypt.
 
-<span id="fn_400"></span>[206:3](eod41.htm#fr_400) See G. Elliot Smith,
+<span id="fn_400"></span>[206:3](eod41.htm#fr_400.md) See G. Elliot Smith,
 "The Ancient Egyptians".
 
-<span id="fn_401"></span>[206:4](eod41.htm#fr_401) The association of
+<span id="fn_401"></span>[206:4](eod41.htm#fr_401.md) The association of
 north and south with the primary subdivision of the state probably led
 to the inclusion of the other two cardinal points to make the
 subdivision four-fold.
 
-<span id="fn_402"></span>[206:5](eod41.htm#fr_402) The number four was
+<span id="fn_402"></span>[206:5](eod41.htm#fr_402.md) The number four was
 associated with the sun-god. There were four "children of Horus" and
 four spokes to the wheel of the sun.
 
-<span id="fn_403"></span>[207:1](eod41.htm#fr_403) "Architecture," p.
+<span id="fn_403"></span>[207:1](eod41.htm#fr_403.md) "Architecture," p.
 24.
 
-<span id="fn_404"></span>[207:2](eod41.htm#fr_404) See the chapter on
+<span id="fn_404"></span>[207:2](eod41.htm#fr_404.md) See the chapter on
 "Magic" in Jevons, "Comparative Religion". In his article "Magic
 (Egyptian)," in Hastings’ *Encyclopædia of Religion and Ethics* (p.
 266), Dr. Alan Gardiner makes the following statement: <span
@@ -282,10 +282,10 @@ hawks who are in front of the barque of Re'."
 Are the seven daughters of Re the seven days of the week, or the
 representatives of Hathor corresponding to the seven days?
 
-<span id="fn_405"></span>[208:1](eod41.htm#fr_405) Chapter II, [p.
-118](eod24.htm#page_118).
+<span id="fn_405"></span>[208:1](eod41.htm#fr_405.md) Chapter II, [p.
+118](eod24.htm#page_118.md).
 
-<span id="fn_406"></span>[208:2](eod41.htm#fr_406) We have already seen
+<span id="fn_406"></span>[208:2](eod41.htm#fr_406.md) We have already seen
 that the primitive aspect of life-giving that played an essential part
 in the development of the story we are considering was the search for
 the means by which youth could be restored. It is significant that
@@ -295,27 +295,27 @@ she is said "to turn back the years from King Teti," so that they pass
 over him without increasing his age (Breasted, "Thought and Religion in
 Ancient Egypt," p. 124).
 
-<span id="fn_407"></span>[209:1](eod41.htm#fr_407) Breasted ("Religion
+<span id="fn_407"></span>[209:1](eod41.htm#fr_407.md) Breasted ("Religion
 and Thought in Ancient Egypt," p. 22) states that as the inundation
 began at the rising of Sothis, the star of Isis, sister of Osiris, they
 said to him \[*i.e.* Osiris\]: "The beloved daughter, Sothis, makes thy
 fruits (rnpwt) in her name of 'Year' (rnpt)".
 
-<span id="fn_408"></span>[209:2](eod41.htm#fr_408) The Great Mother was
+<span id="fn_408"></span>[209:2](eod41.htm#fr_408.md) The Great Mother was
 identified with the moon, but when she became specialized, her
 representative adopted Sothis or Venus as her star.
 
-<span id="fn_409"></span>[210:1](eod41.htm#fr_409) "At Argos the
+<span id="fn_409"></span>[210:1](eod41.htm#fr_409.md) "At Argos the
 principal fête of Aphrodite was called ὑστήρια because they offered
 sacrifices of pigs ("Athen." III, 49, 96; "Clem. Alex. Protr."
 33)"—Article "Aphrodisia," *Dict. des Antiquités*, p. 308. The Greek
 word for pig had the double significance of "pig" and "female organs of
 reproduction".
 
-<span id="fn_410"></span>[210:2](eod41.htm#fr_410) Aphrodite sends
+<span id="fn_410"></span>[210:2](eod41.htm#fr_410.md) Aphrodite sends
 Aphrodisiac "mania" (see Tümpel, *op. cit.*, pp. 394 and 395).
 
-<span id="fn_411"></span>[210:3](eod41.htm#fr_411) There is still widely
+<span id="fn_411"></span>[210:3](eod41.htm#fr_411.md) There is still widely
 prevalent the belief in the possibility of being "moonstruck," and many
 people, even medical men who ought to know better, solemnly expound to
 their students the influence of the moon in producing "lunacy". If it
@@ -327,4 +327,4 @@ treatment of mental disease in this country.
 
 ------------------------------------------------------------------------
 
-[Next: The Seven-Headed Dragon](eod42)
+[Next: The Seven-Headed Dragon](eod42.md)

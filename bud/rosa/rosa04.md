@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](rosa03)  [Next](rosa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](rosa03)  [Next](rosa05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH64/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH64/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Samurai*, by Kaiten Nukariya, \[1913\], at
 Intangible Textual Heritage
 
@@ -842,4 +842,4 @@ connected with Bushido teaches us.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Universe is the Scripture of Zen](rosa05)
+[Next: Chapter III: The Universe is the Scripture of Zen](rosa05.md)

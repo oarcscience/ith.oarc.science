@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat25)  [Next](jat27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat25)  [Next](jat27.md) 
 
 ------------------------------------------------------------------------
 
-### 24. THE SUPERNATURAL PERSON IN THE LAKE. <span id="fr_43"></span>[2](#fn_43)
+### 24. THE SUPERNATURAL PERSON IN THE LAKE. <span id="fr_43"></span>[2](#fn_43.md)
 
 Long ago, an old woman gave her boy a present that he might become a
-medicineman. <span id="fr_44"></span>[3](#fn_44) They were camping
+medicineman. <span id="fr_44"></span>[3](#fn_44.md) They were camping
 through the plains with nothing to eat, but roots and wild seeds. They
 were all hungry. The woman came to her son and said, "My boy, I am
 hungry. Have not you anything?" Go home, and to-morrow you will have
@@ -69,16 +69,16 @@ remainder of the band.
 
 ### Footnotes
 
-<span id="fn_43"></span>[220:2](jat26.htm#fr_43) This lake, probably
+<span id="fn_43"></span>[220:2](jat26.htm#fr_43.md) This lake, probably
 situated somewhere at the western edge of the plains, was a regular
 place of offering. The Jicarilla used to throw beads and other property
 into this lake as they passed it on their way to the buffalo hunting
 grounds.
 
-<span id="fn_44"></span>[220:3](jat26.htm#fr_44) When the services of a
+<span id="fn_44"></span>[220:3](jat26.htm#fr_44.md) When the services of a
 medicineman are required, eagle feathers and turquoise are placed on his
 right foot. If he takes them up he accepts the engagement.
 
 ------------------------------------------------------------------------
 
-[Next: 25. The Man Who Traveled With the Buffalo](jat27)
+[Next: 25. The Man Who Traveled With the Buffalo](jat27.md)

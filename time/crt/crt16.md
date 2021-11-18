@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt15)  [Next](crt17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt15)  [Next](crt17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,10 +30,10 @@ Intangible Textual Heritage
 In the mind of the average sensual Englishman perhaps the most vivid
 images called up by the word Christmas are those connected with eating
 and drinking. “Ha più da fare che i forni di Natale in
-Inghilterra,”﻿ [108](crt24.htm#Footnote_108)<span
+Inghilterra,”﻿ [108](crt24.htm#Footnote_108.md)<span
 id="FNanchor_108"></span> an Italian proverb used of a very busy person,
 sufficiently suggests the character of our
-Christmas.﻿ [109](crt24.htm#Footnote_109)<span id="FNanchor_109"></span>
+Christmas.﻿ [109](crt24.htm#Footnote_109.md)<span id="FNanchor_109"></span>
 It may be that the Christmas dinner looms larger among the English than
 among most other peoples, but in every country a distinctive meal of
 some kind is associated with the season. We have already seen how this
@@ -53,7 +53,7 @@ hallowed by Christ's birth. The show of slaughtered beasts, adorned with
 green garlands, in an English town just before Christmas, reminds one
 strongly of the old November killing. In displays of this kind the pig's
 head is specially conspicuous, and points to the time when the swine was
-a favourite sacrificial animal.﻿ [13-1](crt22.htm#Note_13-1)<span
+a favourite sacrificial animal.﻿ [13-1](crt22.htm#Note_13-1.md)<span
 id="Nanchor_13-1"></span> We may recall here the traditional carol sung
 at Queen's College, Oxford, as the boar's head is solemnly brought in at
 Christmas, and found elsewhere in other forms:﻿—
@@ -68,7 +68,7 @@ Christmas, and found elsewhere in other forms:﻿—
 <span class="i3">*Quot estis in convivio.*</span>  
 <span class="i3">*Caput apri defero,*</span>  
 <span class="i3">*Reddens laudes
-Domino.* ”﻿ [13-2](crt22.htm#Note_13-2)<span id="Nanchor_13-2"></span>
+Domino.* ”﻿ [13-2](crt22.htm#Note_13-2.md)<span id="Nanchor_13-2"></span>
 </span>  
 
 </div>
@@ -79,7 +79,7 @@ The Christmas bird provided by the familiar “goose club” may be compared
 with the German Martinmas goose. The more luxurious turkey must be
 relatively an innovation, for that bird seems not to have been
 introduced into England until the sixteenth
-century.﻿ [13-3](crt22.htm#Note_13-3)<span id="Nanchor_13-3"></span>
+century.﻿ [13-3](crt22.htm#Note_13-3.md)<span id="Nanchor_13-3"></span>
 
 Cakes and pies, partly or wholly of vegetable origin, are, of course, as
 conspicuous at the English Christmas as animal food. The peculiar
@@ -89,7 +89,7 @@ one suspect some more serious original purpose than mere gratification
 of the appetite. A sacrificial or sacramental origin is probable, at
 least in certain cases; a cake made of flour, for instance, may well
 have been regarded as embodying the spirit immanent in the
-corn.﻿ [13-4](crt22.htm#Note_13-4)<span id="Nanchor_13-4"></span>
+corn.﻿ [13-4](crt22.htm#Note_13-4.md)<span id="Nanchor_13-4"></span>
 Whether any mystic significance ever belonged to the plum-pudding it is
 hard to say, though the sprig of holly stuck into its <span
 id="page_285">p. 285</span> <span id="Page_285"></span>top recalls the
@@ -100,12 +100,12 @@ brandy.
 A dish once prominent at Christmas was “frumenty” or “furmety”
 (variously spelt, and derived from the Latin *frumentum*, corn). It was
 made of hulled wheat boiled in milk and seasoned with cinnamon, sugar,
-&c.﻿ [13-5](crt22.htm#Note_13-5)<span id="Nanchor_13-5"></span> This too
+&c.﻿ [13-5](crt22.htm#Note_13-5.md)<span id="Nanchor_13-5"></span> This too
 may have been a cereal sacrament. In Yorkshire it was the first thing
 eaten on Christmas morning, just as ale posset was the last thing drunk
 on Christmas Eve. Ale posset was a mixture of beer and milk, and each
 member of the family in turn had to take a “sup,” as also a piece of a
-large apple-pie.﻿ [13-6](crt22.htm#Note_13-6)<span
+large apple-pie.﻿ [13-6](crt22.htm#Note_13-6.md)<span
 id="Nanchor_13-6"></span>
 
 In the Highlands of Scotland, among those who observed Christmas, a
@@ -113,29 +113,29 @@ characteristic dish was new sowens (the husks and siftings of oatmeal),
 given to the family early on Christmas Day in their beds. They were
 boiled into the consistence of molasses and were poured into as many
 bickers as there were people to partake of them. Everyone on despatching
-his bicker jumped out of bed.﻿ [13-7](crt22.htm#Note_13-7)<span
+his bicker jumped out of bed.﻿ [13-7](crt22.htm#Note_13-7.md)<span
 id="Nanchor_13-7"></span> Here, as in the case of the Yorkshire
 frumenty, the eating has a distinctly ceremonial character.
 
 In the East Riding of Yorkshire a special Yule cake was eaten on
 Christmas Eve, “made of flour, barm, large cooking raisins, currants,
 lemon-peel, and nutmeg,” and about as large as a
-dinner-plate.﻿ [13-8](crt22.htm#Note_13-8)<span
+dinner-plate.﻿ [13-8](crt22.htm#Note_13-8.md)<span
 id="Nanchor_13-8"></span> In Shropshire “wigs” or caraway buns dipped in
-ale were eaten on Christmas Eve.﻿ [13-9](crt22.htm#Note_13-9)<span
+ale were eaten on Christmas Eve.﻿ [13-9](crt22.htm#Note_13-9.md)<span
 id="Nanchor_13-9"></span> Again elsewhere there were Yule Doughs or
 Dows, little images of paste, presented by bakers to their
-customers.﻿ [13-10](crt22.htm#Note_13-10)<span
+customers.﻿ [13-10](crt22.htm#Note_13-10.md)<span
 id="Nanchor_13-10"></span> We shall see plenty of parallels to these on
 the Continent. When they are in animal or even human form they may in
 some cases have taken the place of actual sacrificial
-victims.﻿ [13-11](crt22.htm#Note_13-11)<span id="Nanchor_13-11"></span>
+victims.﻿ [13-11](crt22.htm#Note_13-11.md)<span id="Nanchor_13-11"></span>
 
 In Nottinghamshire the Christmas cake was associated with the
 wassail-bowl in a manner which may be compared with the Macedonian
 custom described later; it was broken up and put into the bowl, hot ale
 was poured over it, and so it was
-eaten.﻿ [13-12](crt22.htm#Note_13-12)<span id="Nanchor_13-12"></span>
+eaten.﻿ [13-12](crt22.htm#Note_13-12.md)<span id="Nanchor_13-12"></span>
 
 The wassail-bowl﻿—one cannot leave the subject of English Yuletide
 feasting without a few words upon this beloved beaker of hot spiced ale
@@ -150,13 +150,13 @@ a rite that could be performed for the welfare of another person. Apart
 from such speculations, we may note the frequent mention of wassailing
 in old English carols of the less ecclesiastical type; the singers
 carried with them a bowl or cup which they expected their wealthier
-neighbours to fill with drink.﻿ [13-13](crt22.htm#Note_13-13)<span
+neighbours to fill with drink.﻿ [13-13](crt22.htm#Note_13-13.md)<span
 id="Nanchor_13-13"></span> Sometimes the bowl was adorned with ribbons
-and had a golden apple at the top,﻿ [13-14](crt22.htm#Note_13-14)<span
+and had a golden apple at the top,﻿ [13-14](crt22.htm#Note_13-14.md)<span
 id="Nanchor_13-14"></span> and it is a noteworthy fact that the box with
 the Christmas images, mentioned in Chapter IV. (p.
- [118](crt07.htm#Page_118)), is sometimes called “the Vessel \[Wassail\]
-Cup.”﻿ [13-15](crt22.htm#Note_13-15)<span id="Nanchor_13-15"></span>
+ [118](crt07.htm#Page_118).md), is sometimes called “the Vessel \[Wassail\]
+Cup.”﻿ [13-15](crt22.htm#Note_13-15.md)<span id="Nanchor_13-15"></span>
 
 The various Christmas dishes of Europe would form an interesting subject
 for exhaustive study. To suggest a religious origin for each would be
@@ -167,33 +167,33 @@ relics of sacrifices or sacraments.
 The pig is a favourite food animal at Christmas in other countries than
 our own, a fact probably connected with sacrificial customs. In Denmark
 and Sweden a pig's head was one of the principal articles of the great
-Christmas Eve repast.﻿ [13-16](crt22.htm#Note_13-16)<span
+Christmas Eve repast.﻿ [13-16](crt22.htm#Note_13-16.md)<span
 id="Nanchor_13-16"></span> In Germany it is a fairly widespread custom
 to kill a pig shortly before Christmas and partake of it on Christmas
 Day; its entrails and bones and the straw which has been in contact with
 it are supposed to have fertilizing
-powers.﻿ [13-17](crt22.htm#Note_13-17)<span id="Nanchor_13-17"></span>
+powers.﻿ [13-17](crt22.htm#Note_13-17.md)<span id="Nanchor_13-17"></span>
 In Roumania a pig is the Christmas animal *par
-excellence*,﻿ [13-18](crt22.htm#Note_13-18)<span
+excellence*,﻿ [13-18](crt22.htm#Note_13-18.md)<span
 id="Nanchor_13-18"></span> in Russia pigs’ trotters are a favourite dish
-at the New Year,﻿ [13-19](crt22.htm#Note_13-19)<span
+at the New Year,﻿ [13-19](crt22.htm#Note_13-19.md)<span
 id="Nanchor_13-19"></span> and in every Servian house roast pig is the
-principal Christmas dish.﻿ [13-20](crt22.htm#Note_13-20)<span
+principal Christmas dish.﻿ [13-20](crt22.htm#Note_13-20.md)<span
 id="Nanchor_13-20"></span>
 
 In Upper Bavaria there is a custom which almost certainly has at its
 root a sacrifice: a number of poor people club together at
 Christmas-time and buy a cow to be killed and eaten at a common
-feast.﻿ [13-21](crt22.htm#Note_13-21)<span id="Nanchor_13-21"></span>
+feast.﻿ [13-21](crt22.htm#Note_13-21.md)<span id="Nanchor_13-21"></span>
 
 More doubtful is the sacrificial origin of the dishes of certain <span
 id="page_287">p. 287</span> <span id="Page_287"></span>special kinds of
 fish on Christmas Eve. In Saxony and Thuringia herring salad is
 eaten﻿—he who bakes it will have money all the year﻿—and in many parts
 of Germany and also in Styria carp is then
-consumed.﻿ [13-22](crt22.htm#Note_13-22)<span id="Nanchor_13-22"></span>
+consumed.﻿ [13-22](crt22.htm#Note_13-22.md)<span id="Nanchor_13-22"></span>
 Round Ercé in Brittany the family dish is
-cod.﻿ [13-23](crt22.htm#Note_13-23)<span id="Nanchor_13-23"></span> In
+cod.﻿ [13-23](crt22.htm#Note_13-23.md)<span id="Nanchor_13-23"></span> In
 Italy the *cenone* or great supper held on Christmas Eve has fish for
 its animal basis, and stewed eels are particularly popular. It is to be
 remembered that in Catholic countries the Vigil of the Nativity is a
@@ -213,7 +213,7 @@ in the shape of two crescents back to back, or else long and narrow in
 form and with a crescent at either end. In some parts of France the
 *cornabœux* are known as *hôlais*, and ploughmen give to the poor as
 many of these loaves as they possess oxen and
-horses.﻿ [13-24](crt22.htm#Note_13-24)<span id="Nanchor_13-24"></span>
+horses.﻿ [13-24](crt22.htm#Note_13-24.md)<span id="Nanchor_13-24"></span>
 These horns may be substitutes for a sacrifice of oxen.
 
 Sometimes the French Christmas cakes have the form of complete oxen or
@@ -223,11 +223,11 @@ century at La Châtre (Indre). In the neighbourhood of Chartres there are
 called *naulets* are sold by French bakers, and actually represent the
 Holy Child. With them may be compared the *coignoles* of French
 Flanders, cakes of oblong form adorned with the figure of the infant
-Jesus in sugar.﻿ [13-25](crt22.htm#Note_13-25)<span
+Jesus in sugar.﻿ [13-25](crt22.htm#Note_13-25.md)<span
 id="Nanchor_13-25"></span> Sometimes the Christmas loaf or cake in
 France has healing properties; a certain kind of cake in Berry and
 Limousin is kept all through the year, and a piece eaten in sickness has
-marvellous powers.﻿ [13-26](crt22.htm#Note_13-26)<span
+marvellous powers.﻿ [13-26](crt22.htm#Note_13-26.md)<span
 id="Nanchor_13-26"></span>
 
 Cortet gives an extraordinary account of a French custom <span
@@ -238,7 +238,7 @@ best. They were called the “De fructu,” and when at Vespers the verse
 “De fructu ventris tui ponam super sedem tuam” was reached, all the
 congregation made a rush for these refreshments, contended for them, and
 carried them off with singing and
-shouting.﻿ [13-27](crt22.htm#Note_13-27)<span id="Nanchor_13-27"></span>
+shouting.﻿ [13-27](crt22.htm#Note_13-27.md)<span id="Nanchor_13-27"></span>
 
 The most remarkable of Christmas cakes or loaves is the Swedish and
 Danish “Yule Boar,” a loaf in the form of a boar-pig, which stands on
@@ -252,7 +252,7 @@ of the Esthonian island of Oesel the cake has not the form of a boar,
 but bears the same name, and on New Year's Day is given to the cattle.
 In other parts of the island the “Yule Boar” is actually a little pig,
 roasted on Christmas Eve and set up on the
-table.﻿ [13-28](crt22.htm#Note_13-28)<span id="Nanchor_13-28"></span>
+table.﻿ [13-28](crt22.htm#Note_13-28.md)<span id="Nanchor_13-28"></span>
 
 In Germany, besides *stollen*﻿—a sort of plum-loaf﻿—biscuits, often of
 animal or human shape, are very conspicuous on Christmas Eve. Any one
@@ -265,7 +265,7 @@ sacrificial origin. An admirable and exhaustive study of Teutonic
 Christmas cakes and biscuits has been made, with infinite pains, by an
 Austrian professor, Dr. Höfler, who reproduces some curious old
 biscuits, stamped with highly artistic patterns, preserved in
-museums.﻿ [13-29](crt22.htm#Note_13-29)<span id="Nanchor_13-29"></span>
+museums.﻿ [13-29](crt22.htm#Note_13-29.md)<span id="Nanchor_13-29"></span>
 
 Among unsophisticated German peasants there is a belief in magical
 powers possessed by bread baked at Christmas, particularly when
@@ -275,7 +275,7 @@ perhaps on account of the words “Rorate, coeli, <span id="page_289">p.
 Masses.) In Franconia such bread, thrown into a dangerous fire, stills
 the flames; in the north of Germany, if put during the Twelve Days into
 the fodder of the cattle, it makes them prolific and healthy throughout
-the year.﻿ [13-30](crt22.htm#Note_13-30)<span id="Nanchor_13-30"></span>
+the year.﻿ [13-30](crt22.htm#Note_13-30.md)<span id="Nanchor_13-30"></span>
 
 It is pleasant to note that animals are often specially cared for at
 Christmas. Up till the early nineteenth century the cattle in Shropshire
@@ -283,13 +283,13 @@ were always better fed at Christmas than at other times, and Miss Burne
 tells of an old gentleman in Cheshire who used then to give his poultry
 a double portion of grain, for, he said, “all creation should rejoice at
 Christmas, and the dumb creatures had no other manner of doing
-so.”﻿ [13-31](crt22.htm#Note_13-31)<span id="Nanchor_13-31"></span> The
+so.”﻿ [13-31](crt22.htm#Note_13-31.md)<span id="Nanchor_13-31"></span> The
 saying reminds one of that lover of Christmas and the animals, St.
 Francis of Assisi. It will be remembered how he wished that oxen and
 asses should have extra corn and hay at Christmas, “for reverence of the
 Son of God, whom on such a night the most Blessed Virgin Mary did lay
 down in the stall betwixt the ox and the
-ass.”﻿ [13-32](crt22.htm#Note_13-32)<span id="Nanchor_13-32"></span> It
+ass.”﻿ [13-32](crt22.htm#Note_13-32.md)<span id="Nanchor_13-32"></span> It
 was a gracious thought, and no doubt with St. Francis, as with the old
 Cheshireman, it was a purely Christian one; very possibly, however, the
 original object of such attention to the dumb creatures was to bring to
@@ -299,20 +299,20 @@ fertility.
 In Silesia on Christmas night all the beasts are given wheat to make
 them thrive, and it is believed that if wheat be kept in the pocket
 during the Christmas service and then given to fowls, it will make them
-grow fat and lay many eggs.﻿ [13-33](crt22.htm#Note_13-33)<span
+grow fat and lay many eggs.﻿ [13-33](crt22.htm#Note_13-33.md)<span
 id="Nanchor_13-33"></span> In Sweden on Christmas Eve the cattle are
 given the best forage the house can afford, and afterwards a mess of all
 the viands of which their masters have partaken; the horses are given
 the choicest hay and, later on, ale; and the other animals are treated
-to good things.﻿ [13-34](crt22.htm#Note_13-34)<span
+to good things.﻿ [13-34](crt22.htm#Note_13-34.md)<span
 id="Nanchor_13-34"></span>
 
 At Loblang in Hungary the last sheaf at harvest is kept, and given on
 New Year's morning to the wild
-birds.﻿ [13-35](crt22.htm#Note_13-35)<span id="Nanchor_13-35"></span> In
+birds.﻿ [13-35](crt22.htm#Note_13-35.md)<span id="Nanchor_13-35"></span> In
 southern Germany corn is put on the roof for them on Christmas Eve,
-or,﻿ [13-36](crt22.htm#Note_13-36)<span id="Nanchor_13-36"></span> as
-also in Sweden,﻿ [13-37](crt22.htm#Note_13-37)<span
+or,﻿ [13-36](crt22.htm#Note_13-36.md)<span id="Nanchor_13-36"></span> as
+also in Sweden,﻿ [13-37](crt22.htm#Note_13-37.md)<span
 id="Nanchor_13-37"></span> an unthreshed sheaf is set on a pole. In
 these cases it is possible that the food was originally an offering to
 ancestral or other spirits.
@@ -330,15 +330,15 @@ ceremonial early in the morning, are solemnly broken by the house-father
 on Christmas Day, and a small piece is eaten by each member of the
 family. In some places one is fixed on the horn of the “eldest ox,” and
 if he throws it off it is a good
-sign.﻿ [13-38](crt22.htm#Note_13-38)<span id="Nanchor_13-38"></span> The
+sign.﻿ [13-38](crt22.htm#Note_13-38.md)<span id="Nanchor_13-38"></span> The
 last practice may be compared with a Herefordshire custom which we shall
-meet with on Twelfth Night (p.  [346](crt20.htm#Page_346)).
+meet with on Twelfth Night (p.  [346](crt20.htm#Page_346).md).
 
 In southern Greece a special kind of flat loaves with a cross on the top
 is made on Christmas Eve. The name given is “Christ's Loaves.” “The
 cloth is not removed from the table; but everything is left as it is in
 the belief that ‘Christ will come and eat’ during the
-night.”﻿ [13-39](crt22.htm#Note_13-39)<span id="Nanchor_13-39"></span>
+night.”﻿ [13-39](crt22.htm#Note_13-39.md)<span id="Nanchor_13-39"></span>
 Probably Christ has here taken the place of ancestral spirits.
 
 In Tyrol peasants eat at Christmastide the so-called *zelten*, a kind of
@@ -357,14 +357,14 @@ them their *zelten*. A young man who wishes to be engaged to a maid
 should offer to carry her pie for her. This is his declaration of love,
 and if she accepts the offer she signifies her approval of him. To him
 falls the duty or privilege of cutting the
-*zelten*.﻿ [13-40](crt22.htm#Note_13-40)<span id="Nanchor_13-40"></span>
+*zelten*.﻿ [13-40](crt22.htm#Note_13-40.md)<span id="Nanchor_13-40"></span>
 
 <span id="page_291">p. 291</span> <span id="Page_291"></span>Other cake
 customs are associated with the Epiphany, and will be considered in
 connection with that festival. We may here in conclusion notice a few
 further articles of Christmas good cheer.
 
-In Italy and Spain﻿ [13-41](crt22.htm#Note_13-41)<span
+In Italy and Spain﻿ [13-41](crt22.htm#Note_13-41.md)<span
 id="Nanchor_13-41"></span> a sort of nougat known as *torrone* or
 *turron* is eaten at Christmas. You may buy it even in London in the
 Italian quarter; in Eyre Street Hill it is sold on Christmas Eve on
@@ -381,14 +381,14 @@ porridge is put in, which is like putting straw in the manger; then each
 person helps himself to honey and fruit, and that symbolizes the Babe. A
 place is made in the porridge, and then the honey and fruit are poured
 in; the fruit stands for the body, the honey for the spirit or the
-blood.﻿ [13-42](crt22.htm#Note_13-42)<span id="Nanchor_13-42"></span>
+blood.﻿ [13-42](crt22.htm#Note_13-42.md)<span id="Nanchor_13-42"></span>
 
 Something like this is the special dish eaten in every Roumanian peasant
 household on Christmas Eve﻿—the *turte*. It is made up of a pile of thin
 dry leaves of dough, with melted sugar or honey, or powdered walnut, or
 the juice of the hemp-seed. The *turte* are traditionally said to
 represent the swaddling clothes of the Holy
-Child.﻿ [13-43](crt22.htm#Note_13-43)<span id="Nanchor_13-43"></span>
+Child.﻿ [13-43](crt22.htm#Note_13-43.md)<span id="Nanchor_13-43"></span>
 
 In Poland a few weeks before Christmas monks bring round small packages
 of wafers made of flour and water, blessed by a priest, and with figures
@@ -398,7 +398,7 @@ When the first star appears on Christmas Eve the whole family, beginning
 with the eldest member, break one of these wafers between themselves, at
 the same time exchanging good wishes. Afterwards the master and mistress
 go to the servants’ quarters to divide the wafer
-there.﻿ [13-44](crt22.htm#Note_13-44)<span id="Nanchor_13-44"></span>
+there.﻿ [13-44](crt22.htm#Note_13-44.md)<span id="Nanchor_13-44"></span>
 
 ### <span id="page_292">p. 292</span> <span id="Page_292"></span><span class="smcap">Relics of Sacrifice.</span>
 
@@ -412,7 +412,7 @@ cattle are watered, a dog is thrown into their drinking water, in order
 that they may not suffer from the mange. In the Uckermark a cat may be
 substituted for the dog. In Bohemia a black cat is caught, boiled, and
 buried by night under a tree, to keep evil spirits from injuring the
-fields.﻿ [13-45](crt22.htm#Note_13-45)<span id="Nanchor_13-45"></span>
+fields.﻿ [13-45](crt22.htm#Note_13-45.md)<span id="Nanchor_13-45"></span>
 
 A strange Christmas custom is the “hunting of the wren,” once widespread
 in England and France and still practised in Ireland. In the Isle of Man
@@ -443,27 +443,27 @@ in the centre of two hoops crossing one another at right angles and
 decorated with evergreens and ribbons. In exchange for a small coin they
 would give a feather of the wren, which was carefully kept as a
 preservative against shipwreck during the
-year.﻿ [110](crt24.htm#Footnote_110)<span
-id="FNanchor_110"></span>﻿ [13-46](crt22.htm#Note_13-46)<span
+year.﻿ [110](crt24.htm#Footnote_110.md)<span
+id="FNanchor_110"></span>﻿ [13-46](crt22.htm#Note_13-46.md)<span
 id="Nanchor_13-46"></span> <span id="page_293">p. 293</span> <span
 id="Page_293"></span>There are also traces of a Manx custom of boiling
-and eating the bird.﻿ [13-48](crt22.htm#Note_13-48)<span
+and eating the bird.﻿ [13-48](crt22.htm#Note_13-48.md)<span
 id="Nanchor_13-48"></span>
 
 The wren is popularly called “the king of birds,” and it is supposed to
 be highly unlucky to kill one at ordinary times. Probably it was once
 regarded as sacred, and the Christmas “hunting” is the survival of an
 annual custom of slaying the divine animal, such as is found among
-primitive peoples.﻿ [13-49](crt22.htm#Note_13-49)<span
+primitive peoples.﻿ [13-49](crt22.htm#Note_13-49.md)<span
 id="Nanchor_13-49"></span> The carrying of its body from door to door is
 apparently intended to convey to each house a portion of its virtues,
 while the actual eating of the bird would be a sort of communion feast.
 Perhaps the custom, in a Cornish village, of eating blackbird pie on
 Twelfth Day should be explained in the same
-way.﻿ [13-50](crt22.htm#Note_13-50)<span id="Nanchor_13-50"></span>
+way.﻿ [13-50](crt22.htm#Note_13-50.md)<span id="Nanchor_13-50"></span>
 
 I can here hardly do more than allude to the many
-games﻿ [13-51](crt22.htm#Note_13-51)<span id="Nanchor_13-51"></span>
+games﻿ [13-51](crt22.htm#Note_13-51.md)<span id="Nanchor_13-51"></span>
 that were traditional in England at Christmas﻿—hoodman-blind, shoe the
 wild mare, hot cockles, steal the white loaf, snap-dragon, and the rest.
 To attempt to describe and explain them would lead me too far, but it is
@@ -486,23 +486,23 @@ the game is known in some cases as the ‘blinde Mumm,’ or blind mask....
 The player who is ‘it’ seems to be the sacrificer; he bears the same
 name as the victim, just as in agricultural customs the reaper of the
 last corn bears the same name as the last
-sheaf.”﻿ [13-52](crt22.htm#Note_13-52)<span id="Nanchor_13-52"></span>
+sheaf.”﻿ [13-52](crt22.htm#Note_13-52.md)<span id="Nanchor_13-52"></span>
 
 The Scandinavian countries are very rich in Christmas games and
-dances,﻿ [13-53](crt22.htm#Note_13-53)<span id="Nanchor_13-53"></span>
+dances,﻿ [13-53](crt22.htm#Note_13-53.md)<span id="Nanchor_13-53"></span>
 of which it would be interesting to attempt explanations if space
 allowed. One Swedish song and dance game﻿—it <span id="page_294">p.
 294</span> <span id="Page_294"></span>may be related to the sword-dance
-(see  [XIII](crt17.htm#Chapter_XIII))﻿—is obviously sacrificial. Several
+(see  [XIII](crt17.htm#Chapter_XIII).md)﻿—is obviously sacrificial. Several
 youths, with blackened faces and persons disguised, are the performers.
 One of them is put to death with a knife by a woman in hideous attire.
 Afterwards, with gross gestures, she dances with the
-victim.﻿ [13-54](crt22.htm#Note_13-54)<span id="Nanchor_13-54"></span>
+victim.﻿ [13-54](crt22.htm#Note_13-54.md)<span id="Nanchor_13-54"></span>
 According to another account, from Gothland, the victim sits clad in a
 skin, holding in his mouth a wisp of straw cut sharp at the ends and
 standing out. It has been conjectured that this is meant to resemble a
 swine's bristles, and that the man represents a hog sacrificed to
-Frey.﻿ [13-55](crt22.htm#Note_13-55)<span id="Nanchor_13-55"></span>
+Frey.﻿ [13-55](crt22.htm#Note_13-55.md)<span id="Nanchor_13-55"></span>
 
 Lastly a Russian game may be mentioned, though it has no sacrificial
 suggestion. During the Christmas season girls play at what is called
@@ -511,7 +511,7 @@ the centre, and pass from hand to hand a gold ring, which the maiden
 inside tries to detect. Meanwhile a song is sung, “Gold I bury, gold I
 bury.” Some imaginative mythologists interpret the ring as representing
 the sun, buried by the clouds of
-winter.﻿ [13-56](crt22.htm#Note_13-56)<span id="Nanchor_13-56"></span>
+winter.﻿ [13-56](crt22.htm#Note_13-56.md)<span id="Nanchor_13-56"></span>
 
 <span id="page_295">p. 295</span> <span id="Page_295"></span><span
 id="page_296">p. 296</span> <span id="Page_296"></span><span
@@ -522,4 +522,4 @@ id="page_297">p. 297</span> <span id="Page_297"></span>
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. Masking, the Mummers' Play, the Feast of Fools, and
-the Boy Bishop](crt17)
+the Boy Bishop](crt17.md)

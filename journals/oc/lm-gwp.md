@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Zoroastrian
-Articles](../../zor/etc/index)
+Heritage](../../index) [Journals](../index.md) [Zoroastrian
+Articles](../../zor/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -170,10 +170,10 @@ poultry of the barn-door;—they even attracted the attention of our Lord.
 See too a keen bitch with her litter; she shows her sharp teeth at
 once;—devotion is a part of nature;—"attraction as the square of the
 distance";<span id="page_219_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_219_note_1) see above.
+class="small">1</span></sup>](#page_219_note_1.md) see above.
 
    And what is order<span id="page_219_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_219_note_2) but a something akin to
+class="small">2</span></sup>](#page_219_note_2.md) but a something akin to
 chemical distribution; like crystallization; see above. The chief bull
 leads the herd;—look at the ants again. Order is everywhere (attempted),
 and so is genius. The very mould of the world seems to out-fold itself
@@ -349,7 +349,7 @@ either fatuity or fraud.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Zoroastrian Articles](../../zor/etc/index)
+[Journals](../index) [Zoroastrian Articles](../../zor/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -357,10 +357,10 @@ either fatuity or fraud.
 
 <span id="footnotes_page_219">p. 219</span>
 
-<span id="page_219_note_1"></span>[1](#page_219_fr_1) Vohumanah. See
+<span id="page_219_note_1"></span>[1](#page_219_fr_1.md) Vohumanah. See
 "God and His Immortals," *The Open Court*, Jan., 1906.
 
-<span id="page_219_note_2"></span>[2](#page_219_fr_2) Khshathra. See
+<span id="page_219_note_2"></span>[2](#page_219_fr_2.md) Khshathra. See
 *ibid*.
 
  

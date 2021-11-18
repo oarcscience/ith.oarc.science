@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](syma56)  [Next](syma58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](syma56)  [Next](syma58.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HE6I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symbolical Masonry*, by H.L. Haywood, \[1923\], at Intangible Textual
 Heritage
 
@@ -86,7 +86,7 @@ end erect a vertical three inches high; connect the ends of these two
 lines and the figure is drawn; this is not the strictly scientific way
 of going about it but it will serve. The point of this procedure is that
 whenever the vertical is three and the base is four, the
-[hypotenuse](errata.htm#2), or long side, will be five; and the angle at
+[hypotenuse](errata.htm#2.md), or long side, will be five; and the angle at
 the juncture of the base and the vertical will always be a right angle.
 After this manner a man can always prove a right angle with no
 mathematical instruments whatever. What this meant to the ancient
@@ -112,7 +112,7 @@ Problem is in this view a symbol of Brotherhood.
 
 The Egyptians made the base line to represent Osiris, the male
 principle; the vertical, Isis, or female principle; the
-[hypotenuse](errata.htm#3) represented Horus, the product of the two.
+[hypotenuse](errata.htm#3.md) represented Horus, the product of the two.
 Suppose we follow such a method and let the base represent our earthly
 nature; the vertical our spiritual
 
@@ -144,4 +144,4 @@ Anderson said, "the foundation of all Masonry if duly observed."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIV. Conclusion](syma58)
+[Next: Chapter LIV. Conclusion](syma58.md)

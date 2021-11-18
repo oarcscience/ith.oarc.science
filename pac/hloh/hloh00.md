@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Next](hloh01) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Next](hloh01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Boston, G.H. Ellis Press \[1915\]
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](hloh01)
+[Next: Foreword](hloh01.md)

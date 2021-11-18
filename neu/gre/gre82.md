@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre81)  [Next](gre83) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre81)  [Next](gre83.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ prayed them be good to him, and abide awhile.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXVIII: Of Hæring at Drangey, and the end of him](gre83)
+[Next: Chapter LXXVIII: Of Hæring at Drangey, and the end of him](gre83.md)

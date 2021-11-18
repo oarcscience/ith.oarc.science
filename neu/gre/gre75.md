@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre74)  [Next](gre76) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre74)  [Next](gre76.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ largest share, because they were the richest men.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXI: How those of Skagafirth found Grettir on
-Drangey](gre76)
+Drangey](gre76.md)

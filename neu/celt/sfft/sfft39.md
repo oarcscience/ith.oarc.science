@@ -1,26 +1,26 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft38)  [Next](sfft40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft38)  [Next](sfft40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE FAIRY BOY OF LEITH. <span id="fr_58"></span>[1](#fn_58)
+### THE FAIRY BOY OF LEITH. <span id="fr_58"></span>[1](#fn_58.md)
 
 THE worthy Captain George Burton communicated to Richard Bovet,
 gentleman, author of the interesting work entitled *Pandæmonium, or the
-Devil's Cloister Opened*, <span id="fr_59"></span>[2](#fn_59) the
+Devil's Cloister Opened*, <span id="fr_59"></span>[2](#fn_59.md) the
 following singular account of a lad called the Fairy Boy of Leith, who,
 it seems, acted as a drummer to the elves, who weekly held rendezvous in
 the Calton Hill, near Edinburgh.
@@ -97,11 +97,11 @@ him.
 
 ### Footnotes
 
-<span id="fn_58"></span>[128:1](sfft39.htm#fr_58) Sir Walter Scott,
+<span id="fn_58"></span>[128:1](sfft39.htm#fr_58.md) Sir Walter Scott,
 *Minstrelsy of the Scottish Border*.
 
-<span id="fn_59"></span>[128:2](sfft39.htm#fr_59) London, 1684.
+<span id="fn_59"></span>[128:2](sfft39.htm#fr_59.md) London, 1684.
 
 ------------------------------------------------------------------------
 
-[Next: Mind the Crooked Finger](sfft40)
+[Next: Mind the Crooked Finger](sfft40.md)

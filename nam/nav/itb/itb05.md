@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb04) [Next](itb06)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb04) [Next](itb06.md)
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ sheep, who cared for them and where they came from.
 
 ------------------------------------------------------------------------
 
-[Next](itb06)
+[Next](itb06.md)
 
  
 

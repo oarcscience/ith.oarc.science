@@ -1,8 +1,8 @@
-[Previous: 4 Nephi](book11)
+[Previous: 4 Nephi](book11.md)
 
-[Next: Ether](book13)
+[Next: Ether](book13.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -1396,4 +1396,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Ether](book13)
+[Next: Ether](book13.md)

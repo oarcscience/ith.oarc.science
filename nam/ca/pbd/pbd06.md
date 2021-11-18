@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd05)  [Next](pbd07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd05)  [Next](pbd07.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ forbidden to partake of food or water on the morning of the
 
 day he wore the bear costume, he usually ate and drank heartily the
 night before, and repaired to his hiding place before daybreak. To lend
-color to his excuses, he [usually](errata.htm#0) brought home some game
+color to his excuses, he [usually](errata.htm#0.md) brought home some game
 or berries. As a rule these were not handled at all while wearing the
 bear suit, although apparently it was believed that no penalty was
 attached to doing so.
@@ -50,4 +50,4 @@ about as a clue.
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Suit](pbd07)
+[Next: The Magic Suit](pbd07.md)

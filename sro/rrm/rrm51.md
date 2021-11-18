@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm50)  [Next](rrm52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm50)  [Next](rrm52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ or the mythical 'Ezekiel’s wheel', to which we have referred
 ------------------------------------------------------------------------
 
 [Next: Chapter XXII: Alchemy. The Power of Producing Gold and Silver,
-Through Artificial Means. Doctrine of the Rosicrucians](rrm52)
+Through Artificial Means. Doctrine of the Rosicrucians](rrm52.md)

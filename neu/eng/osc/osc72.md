@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc71)  [Next](osc73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc71)  [Next](osc73.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ feathers.
 
 ------------------------------------------------------------------------
 
-[Next: (7) Drinking Customs: Toasts](osc73)
+[Next: (7) Drinking Customs: Toasts](osc73.md)

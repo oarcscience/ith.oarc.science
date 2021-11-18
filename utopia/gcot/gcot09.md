@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot08)  [Next](gcot10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot08)  [Next](gcot10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ business, offering to the community adequate rate-rents.
 <span id="page_98">p. 98</span>
 
 \(2\) Prevent the absurd and wasteful multiplication of shops referred
-to in the note at the foot of page [1](#fn_15).
+to in the note at the foot of page [1](#fn_15.md).
 
 \(3\) Secure the advantages usually gained (or supposed to be) by
 competition—such as low prices, wide range of choice, fair dealing,
@@ -163,7 +163,7 @@ enters the field, then A. can only sell *milk and water* at 4d. a quart
 if he is to continue to pay his way. Thus the competition of shopkeepers
 absolutely tends not only to ruin the competitors, but to maintain and
 even to raise prices, and so to lower real wages. <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 <span id="page_100">p. 100</span>
 
@@ -205,7 +205,7 @@ other
 hand, if the example were set of profit-sharing, this might grow into a
 custom, and the distinction between master and servant would be
 gradually lost in the simple process of all becoming co-operators. <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 This system of local option as applied to shopkeeping is not only
 business-like, but it affords an opportunity for the expression of that
@@ -272,7 +272,7 @@ revenue of a community should be so derived, and, therefore, it might be
 better that the profits should be entirely applied to purposes which
 would compete with the traffic, or in minimizing its evil effects by
 establishing asylums for those affected with alcoholism. <span
-id="fr_17"></span>[1](#fn_17) On this subject, as on all points
+id="fr_17"></span>[1](#fn_17.md) On this subject, as on all points
 involved, I earnestly invite correspondence from those who have
 practical suggestions to offer; and, although the town is but a small
 one, it would perhaps not be impracticable to test various promising
@@ -282,7 +282,7 @@ suggestions in the different wards.
 
 ### Footnotes
 
-<span id="fn_15"></span>[99:1](gcot09.htm#fr_15) 'It has been calculated
+<span id="fn_15"></span>[99:1](gcot09.htm#fr_15.md) 'It has been calculated
 by Mr. Neale' (*Economics of Co-operation*) 'that there are 41,735
 separate establishments for twenty-two of the principal retail trades in
 London. If for each of these trades there were 648 shops—that is nine to
@@ -295,7 +295,7 @@ capital and labour that are now wastefully employed in the retail trade
 are set free for other work.' A. and M. P. Marshall, *Economics of
 Industry*, Chap. ix, sec. 10.
 
-<span id="fn_16"></span>[101:1](gcot09.htm#fr_16) This principle of
+<span id="fn_16"></span>[101:1](gcot09.htm#fr_16.md) This principle of
 local option, which is chiefly applicable to distributive callings, is
 perhaps applicable to production in some of its branches. Thus bakeries
 and laundries, which would largely depend upon the trade of the
@@ -307,7 +307,7 @@ municipal laundries, and it is evident that the control of an industry
 by the community is a halfway house to its assumption of it, should this
 prove desirable and practicable.
 
-<span id="fn_17"></span>[103:1](gcot09.htm#fr_17) Since *To-morrow* was
+<span id="fn_17"></span>[103:1](gcot09.htm#fr_17.md) Since *To-morrow* was
 published, various companies have been formed with the object of
 carrying on the trade on principles advocated by the Bishop of Chester.
 A limited dividend is fixed; all profits beyond are expended in useful
@@ -325,4 +325,4 @@ conducted'.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight. Pro-Municipal Work](gcot10)
+[Next: Chapter Eight. Pro-Municipal Work](gcot10.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat41)  [Next](jat43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat41)  [Next](jat43.md) 
 
 ------------------------------------------------------------------------
 
-### 40. COYOTE INSULTS THE ROCK. <span id="fr_62"></span>[1](jat43.htm#fn_62)
+### 40. COYOTE INSULTS THE ROCK. <span id="fr_62"></span>[1](jat43.htm#fn_62.md)
 
 Coyote ran off from there and came where a rock was rolling around under
 a cliff. "I am going to roll over you," the rock said. "I run fast. You
@@ -20,4 +20,4 @@ clean it," said Coyote. Then he licked it clean and started off again.
 
 ------------------------------------------------------------------------
 
-[Next: 41. Coyote Marries Under False Pretences](jat43)
+[Next: 41. Coyote Marries Under False Pretences](jat43.md)

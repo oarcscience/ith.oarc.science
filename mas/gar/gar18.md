@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar17)  [Next](gar19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar17)  [Next](gar19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -126,16 +126,16 @@ by intemperance or excess, but so regulated that pleasure and profit may
 be shared by all.
 
 That ancient and spotless ensign of Masonry, the LAMBSKIN, or WHITE
-APRON, <span id="fr_6"></span>[\*](#fn_6) is presented in behalf of the
+APRON, <span id="fr_6"></span>[\*](#fn_6.md) is presented in behalf of the
 Lodge and the Fraternity in general.
 
 It is an emblem of innocence, and the badge of a Mason; more ancient
-than the Golden Fleece <span id="fr_7"></span>[†](#fn_7) or Roman
-Eagle; <span id="fr_8"></span>[‡](#fn_8) more honorable than
+than the Golden Fleece <span id="fr_7"></span>[†](#fn_7.md) or Roman
+Eagle; <span id="fr_8"></span>[‡](#fn_8.md) more honorable than
 
 <span id="page_67">p. 67</span>
 
-the Star and Garter, <span id="fr_9"></span>[\*](gar19.htm#fn_9) or any
+the Star and Garter, <span id="fr_9"></span>[\*](gar19.htm#fn_9.md) or any
 other Order that can be conferred upon the candidate at the time of his
 initiation, or at any future period, by king, prince, potentate, or any
 other person, except he be a Mason \* \* \* \* \*. It is hoped you will
@@ -163,24 +163,24 @@ concludes with a moral application.
 
 ### Footnotes
 
-<span id="fn_6"></span>[66:\*](gar18.htm#fr_6) An Entered Apprentice's
+<span id="fn_6"></span>[66:\*](gar18.htm#fr_6.md) An Entered Apprentice's
 Apron should be a pure white lambskin, from fourteen to sixteen inches
 wide, and from twelve to fourteen inches deep, with a fall about five
 inches deep; square at the bottom, with sharp angular corners, and
 without device or ornament of any kind.
 
-<span id="fn_7"></span>[66:†](gar18.htm#fr_7) The Order of the Golden
+<span id="fn_7"></span>[66:†](gar18.htm#fr_7.md) The Order of the Golden
 Fleece has ever been ranked among the most illustrious and distinguished
 Orders of Knighthood in Europe. It was instituted on the 10th of
 January, 1429, at Bruges, by PHILIP III. Duke of Burgundy, the most
 puissant prince of his age, on the occasion of his marriage with
 ISABELLA, daughter of King JOHN I. of Portugal.
 
-<span id="fn_8"></span>[66:‡](gar18.htm#fr_8) There is no such Order as
+<span id="fn_8"></span>[66:‡](gar18.htm#fr_8.md) There is no such Order as
 the Knights of the Roman Eagle. The expression (which is an unhappy one)
 probably refers to the fact that the Eagle was the standard of the
 ancient Roman empire.
 
 ------------------------------------------------------------------------
 
-[Next: Charity the Chief Social Value](gar19)
+[Next: Charity the Chief Social Value](gar19.md)

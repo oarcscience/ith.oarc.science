@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb25)  [Next](boeb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb25)  [Next](boeb27.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_171">p. 171</span>
 
 <span id="img_17100"></span> [![](tn/17100.jpg)  
-Click to enlarge](img/17100.jpg)
+Click to enlarge](img/17100.jpg.md)
 
 <span id="img_17101"></span> ![](img/17101.jpg)
 
@@ -121,4 +121,4 @@ And there wi' grief her heart did break,
 
 ------------------------------------------------------------------------
 
-[Next: Hugh of Lincoln](boeb27)
+[Next: Hugh of Lincoln](boeb27.md)

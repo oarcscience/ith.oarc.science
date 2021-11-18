@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico100) 
-[Next](nico102) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico100.md) 
+[Next](nico102.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ but unwilling themselves to do what is just.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7. The pleasure of beneficence](nico102)
+[Next: Chapter 7. The pleasure of beneficence](nico102.md)

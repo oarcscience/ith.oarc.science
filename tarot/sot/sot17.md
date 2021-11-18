@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot16) 
-[Next](sot18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot16.md) 
+[Next](sot18.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ lies, because I am the most monstrous production of human lies".
 
 ------------------------------------------------------------------------
 
-[Next: Card IX. The Hermit](sot18)
+[Next: Card IX. The Hermit](sot18.md)

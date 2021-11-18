@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre14)  [Next](vre16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre14)  [Next](vre16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ formulas, just as they need fellowship in worship. I spoke, therefore,
 too contemptuously of the pragmatic uselessness of the famous scholastic
 list of attributes of the deity, for they have one use which I neglected
 to consider. The eloquent passage in which Newman enumerates them <span
-id="fr_297"></span>[1](#fn_297) puts us on the track of it. Intoning
+id="fr_297"></span>[1](#fn_297.md) puts us on the track of it. Intoning
 them as he would intone a cathedral service, he shows how high is their
 æsthetic value. It enriches our bare piety to carry these exalted and
 mysterious verbal additions just as it enriches a church to have an
@@ -51,7 +51,7 @@ Epithets lend an atmosphere
 and overtones to our devotion. They are like a hymn of praise and
 service of glory, and may sound the more sublime for being
 incomprehensible. Minds like Newman's <span
-id="fr_298"></span>[1](#fn_298) grow as jealous of their credit as
+id="fr_298"></span>[1](#fn_298.md) grow as jealous of their credit as
 heathen priests are of that of the jewelry and ornaments that blaze upon
 their idols.
 
@@ -62,7 +62,7 @@ allowed, however, to put in a word at this point on the way in which
 their satisfaction of certain æsthetic needs contributes to their hold
 on human nature. Although some persons aim most at intellectual purity
 and simplification, for others *richness* is the supreme imaginative
-requirement. <span id="fr_299"></span>[2](#fn_299) When one's mind is
+requirement. <span id="fr_299"></span>[2](#fn_299.md) When one's mind is
 strongly of this type, an individual religion will hardly serve the
 purpose. The inner need is rather of something institutional and
 complex, majestic in the hierarchic interrelatedness of
@@ -81,7 +81,7 @@ however humble, is insignificant, because so many august institutions
 hold it in its place, how flat does evangelical Protestantism appear,
 how bare the atmosphere of those isolated religious lives whose boast it
 is that "man in the bush with God may meet." <span
-id="fr_300"></span>[1](#fn_300) What a pulverization and leveling of
+id="fr_300"></span>[1](#fn_300.md) What a pulverization and leveling of
 what a gloriously piled-up structure! To an imagination used to the
 perspectives of dignity and glory, the naked gospel scheme seems to
 offer an almshouse for a palace.
@@ -120,7 +120,7 @@ He appears to the latter as morose as if he were some hard-eyed, numb,
 monotonous kind of reptile. The two will never understand each
 other—their centres of emotional energy are too different. Rigorous
 truth and human nature's intricacies are always in need of a mutual
-interpreter. <span id="fr_301"></span>[1](#fn_301) So much for the
+interpreter. <span id="fr_301"></span>[1](#fn_301.md) So much for the
 æsthetic diversities in the religious consciousness.
 
 In most books on religion, three things are represented as its most
@@ -142,7 +142,7 @@ Christianity encourage we see how indestructible is the idea that
 sacrifice of some sort is a religious exercise. In lecturing on
 asceticism I spoke of its significance as symbolic of the sacrifices
 which life, whenever it is taken strenuously, calls for. <span
-id="fr_302"></span>[1](#fn_302) But, as I said my say about those, and
+id="fr_302"></span>[1](#fn_302.md) But, as I said my say about those, and
 as these lectures expressly avoid earlier religious usages and questions
 of derivation, I will pass from the subject of Sacrifice altogether and
 turn to that of Confession.
@@ -172,7 +172,7 @@ utilitarian reasons, has substituted auricular confession to one priest
 for the more radical act of public confession. We English-speaking
 Protestants, in the general self-reliance and unsociability of our
 nature, seem to find it enough if we take God alone into our
-confidence. <span id="fr_303"></span>[1](#fn_303)
+confidence. <span id="fr_303"></span>[1](#fn_303.md)
 
  
 
@@ -185,7 +185,7 @@ contribute to recovery, and should be encouraged as a therapeutic
 measure. Being a normal factor of moral health in the person, its
 omission would be deleterious. The case of the weather is different.
 Notwithstanding the recency of the opposite belief, <span
-id="fr_304"></span>[2](#fn_304) every one now knows that droughts and
+id="fr_304"></span>[2](#fn_304.md) every one now knows that droughts and
 storms follow from physical antecedents, and that moral appeals cannot
 avert them. But petitional prayer is only one department of prayer; and
 if we take the word in the wider
@@ -221,7 +221,7 @@ no return of man to God. At bottom this pretended religion is only a
 philosophy. Born at epochs of rationalism, of critical investigations,
 it never was anything but an abstraction. An artificial and dead
 creation, it reveals to its examiner hardly one of the characters proper
-to religion." <span id="fr_305"></span>[1](#fn_305)
+to religion." <span id="fr_305"></span>[1](#fn_305.md)
 
 <span id="page_455">p. 455</span>
 
@@ -325,7 +325,7 @@ establishment of schools in which over a hundred and twenty-one thousand
 youthful and adult pupils were taught. In the course of this work Mr.
 Müller received and administered nearly a million and a half of pounds
 sterling, and traveled over two hundred thousand miles of sea and
-land. <span id="fr_306"></span>[1](#fn_306) During the sixty-eight years
+land. <span id="fr_306"></span>[1](#fn_306.md) During the sixty-eight years
 of his ministry, he never owned any property except his clothes and
 furniture, and cash in
 
@@ -378,14 +378,14 @@ greatest need, I am enabled in peace to go about my other work. Indeed,
 did not the Lord give me this, which is the result of trusting in him, I
 should scarcely be able to work at all; for it is now comparatively a
 rare thing that a day comes when I am not in need for one or another
-part of the work." <span id="fr_307"></span>[1](#fn_307)
+part of the work." <span id="fr_307"></span>[1](#fn_307.md)
 
 In building his orphanages simply by prayer and faith, Müller affirms
 that his prime motive was "to have something to point to as a visible
 proof that our God and Father is the same faithful God that he ever
 was—as willing as ever to prove himself the living God, in our day as
 formerly, to all that put their trust in him." <span
-id="fr_308"></span>[2](#fn_308) For this reason he refused to borrow
+id="fr_308"></span>[2](#fn_308.md) For this reason he refused to borrow
 money for any of his enterprises. "How does it work when we thus
 anticipate God by going our own way? We certainly weaken faith instead
 of increasing it; and each time we work thus a deliverance of our own we
@@ -397,7 +397,7 @@ seasons of prayer it may be, how sweet it is, and what a present
 recompense! Dear Christian reader, if you have never walked in this path
 of obedience before, do so now, and you will then know experimentally
 the sweetness of the joy which results from it." <span
-id="fr_309"></span>[3](#fn_309)
+id="fr_309"></span>[3](#fn_309.md)
 
 When the supplies came in but slowly, Müller always considered that this
 was for the trial of his faith and patience When his faith and patience
@@ -414,7 +414,7 @@ prayers. *I believe that God hears me*. Yet my heart was so full of joy
 that I could only SIT before God, and admire him, like David in 2 Samuel
 vii. At last I cast myself flat down upon my face and burst forth in
 thanksgiving to God and in surrendering my heart afresh to him for his
-blessed service." <span id="fr_310"></span>[1](#fn_310)</span>
+blessed service." <span id="fr_310"></span>[1](#fn_310.md)</span>
 
 George Müller's is a case extreme in every respect, and in no respect
 more so than in the extraordinary narrowness of the man's intellectual
@@ -427,7 +427,7 @@ ideal attributes with which the human imagination elsewhere has invested
 him. Müller, in short, was absolutely unphilosophical. His intensely
 private and practical conception of his relations with the Deity
 continued the traditions of the most primitive human thought. <span
-id="fr_311"></span>[2](#fn_311) When we
+id="fr_311"></span>[2](#fn_311.md) When we
 
 <span id="page_461">p. 461</span>
 
@@ -437,7 +437,7 @@ covers.
 
 There is an immense literature relating to answers to petitional prayer.
 The evangelical journals are filled with such answers, and books are
-devoted to the subject, <span id="fr_312"></span>[1](#fn_312) but for us
+devoted to the subject, <span id="fr_312"></span>[1](#fn_312.md) but for us
 Müller's case will suffice.
 
  
@@ -511,7 +511,7 @@ differently from what would otherwise be possible.
 experience of them; and of which the most speaking examples could be
 brought forward. The highest resources of worldly wisdom are unable to
 attain that which, under divine leading, comes to us of its own
-accord." <span id="fr_313"></span>[1](#fn_313)
+accord." <span id="fr_313"></span>[1](#fn_313.md)
 
 Such accounts as this shade away into others where the belief is, not
 that particular events are tempered more towardly to us by a
@@ -533,7 +533,7 @@ were opened, and all paths freshly smoothed. We meet a new world when we
 meet the old world in the spirit which this kind of prayer infuses.
 
 Such a spirit was that of Marcus Aurelius and Epictetus. <span
-id="fr_314"></span>[1](#fn_314) It is that of mind-curers, of the
+id="fr_314"></span>[1](#fn_314.md) It is that of mind-curers, of the
 transcendentalists, and of the so-called "liberal" Christians. As an
 expression of it, I will quote a page from one of Martineau's sermons:—
 
@@ -565,7 +565,7 @@ first dawn in Paradise. It is no outward change, no shifting in time or
 place; but only the loving meditation of the pure in heart, that can
 reawaken the Eternal from the sleep within our souls: that can render
 him a reality again, and reassert for him once more his ancient name of
-'the Living God.'" <span id="fr_315"></span>[1](#fn_315)
+'the Living God.'" <span id="fr_315"></span>[1](#fn_315.md)
 
 When we see all things in God, and refer all things to him, we read in
 common matters superior expressions of meaning. The deadness with which
@@ -603,7 +603,7 @@ more clearness or richness, than were in this drumming. Ideal desire
 could go no farther in that direction. I was enchanted and consoled; the
 perfection of this wretched act did me good. Good is at least possible,
 I said. since the ideal can thus sometimes get embodied." <span
-id="fr_316"></span>[1](#fn_316)</span>
+id="fr_316"></span>[1](#fn_316.md)</span>
 
 In Sénancour's novel of Obermann a similar transient lifting of the veil
 is recorded. In Paris streets, on a March day, he comes across a flower
@@ -618,11 +618,11 @@ relation it was that made me see in this flower a limitless beauty. . .
 . I shall never inclose in a conception this power, this immensity that
 nothing will express; this form that nothing will contain; this ideal of
 a better world which one feels, but which, it seems, nature has not made
-actual." <span id="fr_317"></span>[2](#fn_317)</span>
+actual." <span id="fr_317"></span>[2](#fn_317.md)</span>
 
 We heard in previous lectures of the vivified face of the world as it
 may appear to converts after their awakening. <span
-id="fr_318"></span>[3](#fn_318) As a rule, religious persons generally
+id="fr_318"></span>[3](#fn_318.md) As a rule, religious persons generally
 assume that whatever
 
 <span id="page_467">p. 467</span>
@@ -648,7 +648,7 @@ the core of religion, we must return to it in the next lecture.
 The last aspect of the religious life which remains for me to touch upon
 is the fact that its manifestations so frequently connect themselves
 with the subconscious part of our existence. You may remember what I
-said in my opening lecture <span id="fr_319"></span>[1](#fn_319) about
+said in my opening lecture <span id="fr_319"></span>[1](#fn_319.md) about
 the prevalence of the psychopathic temperament in religious biography.
 You will in point of fact hardly find a religious leader of any kind in
 whose life there is no record of automatisms. I speak not merely of
@@ -674,7 +674,7 @@ or hear their Saviour reach the acme of assurance. Motor automatisms,
 though rarer, are, if possible, even more convincing than sensations.
 The subjects here actually feel themselves played upon by powers beyond
 their will. The evidence is dynamic; the God or spirit moves the very
-organs of their body. <span id="fr_320"></span>[1](#fn_320)
+organs of their body. <span id="fr_320"></span>[1](#fn_320.md)
 
 The great field for this sense of being the instrument of a higher power
 is of course "inspiration." It is easy to discriminate between the
@@ -727,7 +727,7 @@ were speaking. As in Isaiah: 'Hearken unto me, O Jacob, and Israel my
 called; I am He, I am the First, I also am the last,'—and so on. The
 personality of the prophet sinks entirely into the background; he feels
 himself for the time being the mouthpiece of the Almighty." <span
-id="fr_321"></span>[1](#fn_321)
+id="fr_321"></span>[1](#fn_321.md)
 
 "We need to remember that prophecy was a profession, and that the
 prophets formed a professional class. There were schools of the
@@ -741,7 +741,7 @@ acquiring more than a very small share in the gift which they sought. It
 was clearly possible to 'counterfeit' prophecy. Sometimes this was done
 deliberately. . . . But it by no means follows that in all cases where a
 false message was given, the giver of it was altogether conscious of
-what he was doing. <span id="fr_322"></span>[2](#fn_322)
+what he was doing. <span id="fr_322"></span>[2](#fn_322.md)
 
 Here, to take another Jewish case, is the way in which Philo of
 Alexandria describes his inspiration:—
@@ -759,7 +759,7 @@ myself, nor what I was</span>
 conscious of a richness of interpretation, an enjoyment of light, a most
 penetrating insight, a most manifest energy in all that was to be done;
 having such effect on my mind as the clearest ocular demonstration would
-have on the eyes." <span id="fr_323"></span>[1](#fn_323)</span>
+have on the eyes." <span id="fr_323"></span>[1](#fn_323.md)</span>
 
 If we turn to Islam, we find that Mohammed's revelations all came from
 the subconscious sphere. To the question in what way he got them—
@@ -780,7 +780,7 @@ personâ (only twice), 6, revelation in heaven, 7, God appearing in
 person, but veiled, 8, God revealing himself immediately without veil.
 Others add two other stages, namely: 1, Gabriel in the form of still
 another man, 2, God showing himself personally in dream." <span
-id="fr_324"></span>[2](#fn_324)</span>
+id="fr_324"></span>[2](#fn_324.md)</span>
 
 In none of these cases is the revelation distinctly motor. In the case
 of Joseph Smith (who had prophetic revelations innumerable in addition
@@ -795,7 +795,7 @@ predominantly sensorial. He began his translation by the aid of the
 gold plates—apparently a case of "crystal gazing." For some of the other
 revelations he used the peep-stones, but seems generally to have asked
 the Lord for more direct instruction. <span
-id="fr_325"></span>[1](#fn_325)
+id="fr_325"></span>[1](#fn_325.md)
 
 Other revelations are described as "openings"—Fox's, for example, were
 evidently of the kind known in spiritistic circles of to-day as
@@ -858,10 +858,10 @@ material may suggest.
 
 ### Footnotes
 
-<span id="fn_297"></span>[448:1](vre15.htm#fr_297) Idea of a University,
+<span id="fn_297"></span>[448:1](vre15.htm#fr_297.md) Idea of a University,
 Discourse III. Section 7.
 
-<span id="fn_298"></span>[449:1](vre15.htm#fr_298) Newman's imagination
+<span id="fn_298"></span>[449:1](vre15.htm#fr_298.md) Newman's imagination
 so innately craved an ecclesiastical system that he can write: "From the
 age of fifteen, dogma has been the fundamental principle of my religion:
 I know no other religion; I cannot enter into the idea of any other sort
@@ -869,11 +869,11 @@ of religion." And again speaking of himself about the age of thirty, he
 writes: "I loved to act as feeling myself in my Bishop's sight, as if it
 were the sight of God." Apologia, 1897, pp. 48, 50.
 
-<span id="fn_299"></span>[449:2](vre15.htm#fr_299) The intellectual
+<span id="fn_299"></span>[449:2](vre15.htm#fr_299.md) The intellectual
 difference is quite on a par in practical importance with the analogous
 difference in character. We saw, under the head of Saintliness, how some
 characters resent confusion and must live in purity, consistency,
-simplicity (above, [p. 275](vre11.htm#page_275) ff.). For others, on the
+simplicity (above, [p. 275](vre11.htm#page_275) ff..md). For others, on the
 contrary, superabundance, over-pressure, stimulation, lots of
 superficial relations, are indispensable. There are men who would suffer
 a very syncope if you should pay all their debts, bring it about that
@@ -885,12 +885,12 @@ them appalling. So with ease, elegance, tributes of affection, social
 recognitions—some of us require amounts of these things which to others
 would appear a mass of lying and sophistication.
 
-<span id="fn_300"></span>[450:1](vre15.htm#fr_300) In Newman's Lectures
+<span id="fn_300"></span>[450:1](vre15.htm#fr_300.md) In Newman's Lectures
 on Justification Lecture VIII. § 6, there is a splendid passage
 expressive of this æsthetic way of feeling the Christian scheme. It is
 unfortunately too long to quote.
 
-<span id="fn_301"></span>[451:1](vre15.htm#fr_301) Compare the
+<span id="fn_301"></span>[451:1](vre15.htm#fr_301.md) Compare the
 informality of Protestantism, where the "meek lover of the good," alone
 with his God, visits the sick, etc., for their own sakes, with the
 elaborate "business" that goes on in Catholic devotion, and carries with
@@ -902,15 +902,15 @@ drawing his attention as a professional *devote*, her definite
 "exercises," and her definitely recognized social *pose* in the
 organization.
 
-<span id="fn_302"></span>[452:1](vre15.htm#fr_302) Above, [p.
-354](vre12.htm#page_354) ff.
+<span id="fn_302"></span>[452:1](vre15.htm#fr_302.md) Above, [p.
+354](vre12.htm#page_354.md) ff.
 
-<span id="fn_303"></span>[453:1](vre15.htm#fr_303) A fuller discussion
+<span id="fn_303"></span>[453:1](vre15.htm#fr_303.md) A fuller discussion
 of confession is contained in the excellent work by <span
 class="smallcaps">Frank Granger</span>: The Soul of a Christian, London,
 1900, ch. xii.
 
-<span id="fn_304"></span>[453:2](vre15.htm#fr_304) Example: "The
+<span id="fn_304"></span>[453:2](vre15.htm#fr_304.md) Example: "The
 minister at Sudbury, being at the Thursday lecture in Boston, heard the
 officiating clergyman praying for rain. As soon as the service was over,
 he went to the petitioner and said 'You Boston ministers, as soon as a
@@ -918,26 +918,26 @@ tulip wilts under your windows, go to church and pray for rain, until
 all Concord and Sudbury are under water.'" <span class="smallcaps">R. W.
 Emerson</span>: Lectures and Biographical Sketches, p. 363.
 
-<span id="fn_305"></span>[454:1](vre15.htm#fr_305) <span
+<span id="fn_305"></span>[454:1](vre15.htm#fr_305.md) <span
 class="smallcaps">Auguste Sabatier</span>: Esquisse d’une Philosophie de
 la Religion. 2me éd., 1897, pp. 24-26, abridged.
 
-<span id="fn_306"></span>[457:1](vre15.htm#fr_306) My authority for
+<span id="fn_306"></span>[457:1](vre15.htm#fr_306.md) My authority for
 these statistics is the little work on Müller, by <span
 class="smallcaps">Frederic G. Warne</span>, New York, 1898.
 
-<span id="fn_307"></span>[459:1](vre15.htm#fr_307) The Life of Trust;
+<span id="fn_307"></span>[459:1](vre15.htm#fr_307.md) The Life of Trust;
 Being a Narrative of the Lord's Dealings with George Müller, New
 American edition, N. Y., Crowell, pp. 228, 194, 219.
 
-<span id="fn_308"></span>[459:2](vre15.htm#fr_308) Ibid., p. 126.
+<span id="fn_308"></span>[459:2](vre15.htm#fr_308.md) Ibid., p. 126.
 
-<span id="fn_309"></span>[459:3](vre15.htm#fr_309) Op. cit., p. 383,
+<span id="fn_309"></span>[459:3](vre15.htm#fr_309.md) Op. cit., p. 383,
 abridged.
 
-<span id="fn_310"></span>[460:1](vre15.htm#fr_310) Ibid., p. 323.
+<span id="fn_310"></span>[460:1](vre15.htm#fr_310.md) Ibid., p. 323.
 
-<span id="fn_311"></span>[460:2](vre15.htm#fr_311) I cannot resist the
+<span id="fn_311"></span>[460:2](vre15.htm#fr_311.md) I cannot resist the
 temptation of quoting an expression of an even more primitive style of
 religious thought, which I find in Arber's English Garland, vol. vii. p.
 440. Robert Lyde, an English sailor, along with an English boy, being
@@ -973,18 +973,18 @@ man's throat with it that had his back to my breast: and he immediately
 dropt down, and scarce ever stirred after."—I have slightly abridged
 Lyde's narrative.
 
-<span id="fn_312"></span>[461:1](vre15.htm#fr_312) As, for instance, In
+<span id="fn_312"></span>[461:1](vre15.htm#fr_312.md) As, for instance, In
 Answer to Prayer, by the <span class="smallcaps">Bishop of Ripon</span>
 and others, London, 1898; Touching Incidents and Remarkable Answers to
 Prayer, Harrisburg, Pa., 1898 (?); <span class="smallcaps">H. L.
 Hastings</span>: The Guiding Hand, or Providential Direction,
 illustrated by Authentic Instances, Boston, 1898(?).
 
-<span id="fn_313"></span>[463:1](vre15.htm#fr_313) <span
+<span id="fn_313"></span>[463:1](vre15.htm#fr_313.md) <span
 class="smallcaps">C. Hilty</span>: Glück, Dritter Theil, 1900, pp. 92
 ff.
 
-<span id="fn_314"></span>[464:1](vre15.htm#fr_314) "Good Heaven!" says
+<span id="fn_314"></span>[464:1](vre15.htm#fr_314.md) "Good Heaven!" says
 Epictetus, "any one thing in the creation is sufficient to demonstrate a
 Providence, to a humble and grateful mind. The mere possibility of
 producing milk from grass, cheese from milk, and wool from skins; who
@@ -1002,26 +1002,26 @@ praise God . . . and I call on you to join the same song." Works, book
 i. ch. xvi., <span class="smallcaps">Carter-Higginson</span>
 (translation) abridged.
 
-<span id="fn_315"></span>[465:1](vre15.htm#fr_315) <span
+<span id="fn_315"></span>[465:1](vre15.htm#fr_315.md) <span
 class="smallcaps">James Martineau</span>: end of the sermon "Help Thou
 Mine Unbelief," in Endeavours after a Christian Life, 2d series. Compare
-with this page the extract from Voysey on [p. 270](vre11.htm#page_270),
+with this page the extract from Voysey on [p. 270](vre11.htm#page_270.md),
 above, and those from Pascal and Madame Guyon on [p.
-281](vre11.htm#page_281).
+281](vre11.htm#page_281.md).
 
-<span id="fn_316"></span>[466:1](vre15.htm#fr_316) Souvenirs de ma
+<span id="fn_316"></span>[466:1](vre15.htm#fr_316.md) Souvenirs de ma
 Jeunesse, 1897, p. 122.
 
-<span id="fn_317"></span>[466:2](vre15.htm#fr_317) Op. cit., Letter XXX.
+<span id="fn_317"></span>[466:2](vre15.htm#fr_317.md) Op. cit., Letter XXX.
 
-<span id="fn_318"></span>[466:3](vre15.htm#fr_318) Above, [p.
-243](vre10.htm#page_243) ff. Compare the withdrawal of expression from
-the world, in Melancholiacs, [p. 148](vre07.htm#page_148).
+<span id="fn_318"></span>[466:3](vre15.htm#fr_318.md) Above, [p.
+243](vre10.htm#page_243.md) ff. Compare the withdrawal of expression from
+the world, in Melancholiacs, [p. 148](vre07.htm#page_148.md).
 
-<span id="fn_319"></span>[467:1](vre15.htm#fr_319) Above, pp.
-[25](vre03.htm#page_25), [26](vre03.htm#page_26).
+<span id="fn_319"></span>[467:1](vre15.htm#fr_319.md) Above, pp.
+[25](vre03.htm#page_25), [26](vre03.htm#page_26.md).
 
-<span id="fn_320"></span>[468:1](vre15.htm#fr_320) A friend of mine, a
+<span id="fn_320"></span>[468:1](vre15.htm#fr_320.md) A friend of mine, a
 first-rate psychologist, who is a subject of graphic automatism, tells
 me that the appearance of independent actuation in the movements of his
 arm, when he writes automatically, is so distinct that it obliges him to
@@ -1044,26 +1044,26 @@ Mexico. The latest automatically written book which has come under my
 notice is "Zertoulem's Wisdom of the Ages," by <span
 class="smallcaps">George A. Fuller</span>, Boston, 1901.
 
-<span id="fn_321"></span>[470:1](vre15.htm#fr_321) <span
+<span id="fn_321"></span>[470:1](vre15.htm#fr_321.md) <span
 class="smallcaps">W. Sanday</span>: The Oracles of God, London, 1892,
 pp. 49-56, abridged.
 
-<span id="fn_322"></span>[470:2](vre15.htm#fr_322) Op. cit., p. 91. This
+<span id="fn_322"></span>[470:2](vre15.htm#fr_322.md) Op. cit., p. 91. This
 author also cites Moses's and Isaiah's commissions, as given in Exodus,
 chaps. iii. and iv., and Isaiah, chap. vi.
 
-<span id="fn_323"></span>[471:1](vre15.htm#fr_323) Quoted by <span
+<span id="fn_323"></span>[471:1](vre15.htm#fr_323.md) Quoted by <span
 class="smallcaps">Augustus Clissold</span>: The Prophetic Spirit in
 Genius and Madness, 1870, p. 67. Mr. Clissold is a Swedenborgian.
 Swedenborg's case is of course the palmary one of *audita et visa*,
 serving as a basis of religious revelation.
 
-<span id="fn_324"></span>[471:2](vre15.htm#fr_324) <span
+<span id="fn_324"></span>[471:2](vre15.htm#fr_324.md) <span
 class="smallcaps">Nöldeke</span>, Geschichte des Qorâns, 1860, p. 16.
 Compare the fuller account in <span class="smallcaps">Sir William
 Muir's</span>: Life of Mahomet, 3d ed., 1894, ch. iii.
 
-<span id="fn_325"></span>[472:1](vre15.htm#fr_325) The Mormon theocracy
+<span id="fn_325"></span>[472:1](vre15.htm#fr_325.md) The Mormon theocracy
 has always been governed by direct revelations accorded to the President
 of the Church and its Apostles. From an obliging letter written to me in
 1899 by an eminent Mormon, I quote the following extract:—
@@ -1083,4 +1083,4 @@ person and spoken to our prophet and revelator."
 
 ------------------------------------------------------------------------
 
-[Next: Lecture XX. Conclusions](vre16)
+[Next: Lecture XX. Conclusions](vre16.md)

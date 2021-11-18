@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha06)  [Next](sha08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha06)  [Next](sha08.md) 
 
 ------------------------------------------------------------------------
 
@@ -692,4 +692,4 @@ Flesh-eating demons stalk, like red cloud-masses,
 
 ------------------------------------------------------------------------
 
-[Next: Act IV. Shakuntala's Departure](sha08)
+[Next: Act IV. Shakuntala's Departure](sha08.md)

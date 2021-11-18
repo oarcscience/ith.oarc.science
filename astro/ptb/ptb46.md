@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb45)  [Next](ptb47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb45)  [Next](ptb47.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ acquires
 numerous qualities which it would not possess while in the womb, and
 which are proper to human nature alone; "such, for instance, as the
 particular action of the senses and the movement of the body and
-limbs." <span id="fr_121"></span>[1](#fn_121) Besides, even if the
+limbs." <span id="fr_121"></span>[1](#fn_121.md) Besides, even if the
 position of the Ambient, actually existing at the birth, cannot be
 considered to assist in forming and engendering the particular shape and
 qualities of the infant, it is nevertheless still auxiliary to the
@@ -104,9 +104,9 @@ dispensed and imbibed at the time of conception.
 
 ### Footnotes
 
-<span id="fn_121"></span>[73:1](ptb46.htm#fr_121) The words, thus marked
+<span id="fn_121"></span>[73:1](ptb46.htm#fr_121.md) The words, thus marked
 " ", are not in the Greek, but in two Latin translations.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Degree Ascending](ptb47)
+[Next: Chapter III. The Degree Ascending](ptb47.md)

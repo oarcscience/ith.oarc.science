@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn08)  [Next](ptn10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn08)  [Next](ptn10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -42,13 +42,13 @@ is loaded with patchouli and *mille fleurs*. We miss the song of birds,
 the modest odour of wild-flowers, and the balmy fragrance of the pine
 forest. The Swedes are more stiff, and their style is more like that of
 a chronicle than a tale. The Germans are simple, hearty, and rather
-comic than humorous; and M. Moe <span id="fr_78"></span>[1](#fn_78) has
+comic than humorous; and M. Moe <span id="fr_78"></span>[1](#fn_78.md) has
 well said, that as we read them it is as if we sat and listened to some
 elderly woman of the middle class, who recites them with a clear, full,
 deep voice. In Scotland the few that have been collected by Mr. Robert
-Chambers <span id="fr_79"></span>[2](#fn_79) are as good in tone and
+Chambers <span id="fr_79"></span>[2](#fn_79.md) are as good in tone and
 keeping as anything of the kind in the whole range of such popular
-collections. <span id="fr_80"></span>[3](#fn_80) The wonderful
+collections. <span id="fr_80"></span>[3](#fn_80.md) The wonderful
 
 <span id="page_clxiii">p. clxiii</span>
 
@@ -90,7 +90,7 @@ general tone so chaste, are the great principles of morality better
 worked out, and right and wrong kept so steadily in sight. The general
 view of human nature is good and kindly. The happiness of married life
 was never more prettily told than in "Gudbrand on the Hillside," [p.
-149](ptn30.htm#page_149), where the tenderness of the wife for her
+149](ptn30.htm#page_149.md), where the tenderness of the wife for her
 husband weighs down all other considerations; and we all agree with M.
 Moe that it would be well if there were many wives like Gudbrand's. The
 balance, too, is very evenly kept between the sexes;
@@ -98,9 +98,9 @@ balance, too, is very evenly kept between the sexes;
 <span id="page_clxix">p. clxix</span>
 
 for if any wife should point with indignation at such a tale as "Not a
-Pin to choose between them," [p. 173](ptn34.htm#page_173), where wives
+Pin to choose between them," [p. 173](ptn34.htm#page_173.md), where wives
 suffer; she will be amply avenged when she reads "The Husband who was to
-mind the House," [p. 269](ptn48.htm#page_269), where the husband has
+mind the House," [p. 269](ptn48.htm#page_269.md), where the husband has
 decidedly the worst of the bargain, and is punished as he deserves.
 
 Of particular characters, one occurs repeatedly. This is that which we
@@ -112,7 +112,7 @@ also dignified him with the term here used. In Norse he is called
 
 <span id="page_clxx">p. clxx</span>
 
-is called "*Askepot*," <span id="fr_81"></span>[1](#fn_81) a Danish word
+is called "*Askepot*," <span id="fr_81"></span>[1](#fn_81.md) a Danish word
 which the readers of Grimm's Tales will see at once is own brother to
 *Aschenpüttel*. The meaning of the word is "one who pokes about the
 ashes and blows up the fire"; one who does dirty work, in short; and in
@@ -121,7 +121,7 @@ the youngest son of the family. He is Cinderella's brother, in fact; and
 just as she had all the dirty work put upon her by her sisters, he meets
 with the same fate from his brothers. He is generally the youngest of
 three, whose names are often Peter and Paul, as in No. XLII. ([p.
-295](ptn51.htm#page_295)), and who despise, cry down, and mock him. But
+295](ptn51.htm#page_295).md), and who despise, cry down, and mock him. But
 he has in him that deep strength of character and natural power upon
 which the good powers always smile. He is the man whom Heaven helps,
 because he can help himself; and so, after his brothers try and fail, he
@@ -148,21 +148,21 @@ its thought, reflect the image and personification of a great moral
 truth, that modesty, endurance, and ability will sooner or later reap
 their reward, however much they may be degraded, scoffed at, and
 despised by the proud, the worthless, and the overbearing. <span
-id="fr_82"></span>[1](#fn_82)
+id="fr_82"></span>[1](#fn_82.md)
 
 As a general rule, the women are less strongly marked than the men; for
 these Tales, as is well said, are uttered "with a manly mouth;" <span
-id="fr_83"></span>[2](#fn_83) and none of the female characters, except
+id="fr_83"></span>[2](#fn_83.md) and none of the female characters, except
 perhaps "The Mastermaid," and "Tatterhood," can compare in strength with
 "The Master-Smith," "The Master-Thief," "Shortshanks," or "Boots." Still
 the true womanly type comes out in full play in such tales as "The Two
-Step-sisters." [p. 113](ptn26.htm#page_113); East o' the Sun and West
+Step-sisters." [p. 113](ptn26.htm#page_113.md); East o' the Sun and West
 
 <span id="page_clxxii">p. clxxii</span>
 
-o' the Moon," [p. 22](ptn13.htm#page_22); "Bushy Bride," [p.
-322](ptn54.htm#page_322), and "The Twelve Wild Ducks," [p.
-51](ptn18.htm#page_51). In all these the lassie is bright, and good, and
+o' the Moon," [p. 22](ptn13.htm#page_22.md); "Bushy Bride," [p.
+322](ptn54.htm#page_322.md), and "The Twelve Wild Ducks," [p.
+51](ptn18.htm#page_51.md). In all these the lassie is bright, and good, and
 helpful; she forgets herself in her eagerness to help others. When she
 goes down the well after the unequal match against her step-sister in
 spinning bristles against flax; she steps tenderly over the hedge, milks
@@ -177,7 +177,7 @@ profit by what the little birds say; she knows how to choose the right
 casket. And at last, after many trials, all at once the scene changes,
 and she receives a glorious reward, while the wicked stepmother and her
 ugly daughter meet with a just fate. Nor is another female character
-less tenderly drawn in "Hacon Grizzlebeard," [p. 39](ptn16.htm#page_39),
+less tenderly drawn in "Hacon Grizzlebeard," [p. 39](ptn16.htm#page_39.md),
 where we see the proud, haughty princess subdued and tamed by natural
 affection into a faithful, loving wife. We sympathise with her more than
 with the "Patient Grizzel" of the poets, who is in reality too good, for
@@ -196,26 +196,26 @@ babe, and so let the cabin burn away."
 Nor is it unprofitable here to remark how the professions fare when they
 appear in these tales. The Church cannot be said to be treated with
 respect, for "Father Lawrence" is ludicrously deceived and scurvily
-treated by the Master Thief, [p. 232](ptn44.htm#page_232); nor does the
+treated by the Master Thief, [p. 232](ptn44.htm#page_232.md); nor does the
 priest come off any better in "Goosey Grizzel," [p.
-221](ptn42.htm#page_221), where he is thrown by the Farmer into the wet
+221](ptn42.htm#page_221.md), where he is thrown by the Farmer into the wet
 moss. Indeed it seems as if the popular mind were determined to revenge
 itself when left to itself, for the superstition of Rome on the one
 hand, and the severity of strict Lutheranism on the other. It has little
 to say of either of them, but when it does speak, its accents are not
 those of reverence and love. The Law, too, as represented by those awful
 personages, the Constable, the Attorney, and the Sheriff in "The
-Mastermaid," [p. 71](ptn21.htm#page_71), is held up to ridicule, and
+Mastermaid," [p. 71](ptn21.htm#page_71.md), is held up to ridicule, and
 treated with anything but tenderness. But there is one profession for
 which a good word is said, a single word, but enough to shew the feeling
-of the people. In "The Twelve Wild Ducks," [p. 51](ptn18.htm#page_51),
+of the people. In "The Twelve Wild Ducks," [p. 51](ptn18.htm#page_51.md),
 the king is "as soft and kind" to Snow-white and Rosey-red "as a
 doctor,"—a doctor, alas! not of laws, but of medicine; and thus this
 profession, so often despised, but in reality the noblest, has homage
 paid to it in that single sentence, which neither the Church with all
 its dignity, nor the Law with all its cunning, have been able to extort
 from the popular mind. Yet even this profession has a hard word uttered
-against it in "Katie Woodencloak," [p. 357](ptn60.htm#page_357), where
+against it in "Katie Woodencloak," [p. 357](ptn60.htm#page_357.md), where
 the doctor takes a great fee from the wicked queen to say she will never
 be well unless she has some of the Dun Bull's flesh to eat.
 
@@ -333,14 +333,14 @@ and the tales to themselves.
 
 ### Footnotes
 
-<span id="fn_78"></span>[clxii:1](ptn09.htm#fr_78) M. Moe, *Introd.
+<span id="fn_78"></span>[clxii:1](ptn09.htm#fr_78.md) M. Moe, *Introd.
 Norsk. Event.*, Christiania, 1851, 2d ed., to which the writer is
 largely indebted.
 
-<span id="fn_79"></span>[clxii:2](ptn09.htm#fr_79) *Popular Rhymes of
+<span id="fn_79"></span>[clxii:2](ptn09.htm#fr_79.md) *Popular Rhymes of
 Scotland*, ed. 1847.
 
-<span id="fn_80"></span>[clxii:3](ptn09.htm#fr_80) The following list,
+<span id="fn_80"></span>[clxii:3](ptn09.htm#fr_80.md) The following list,
 which only selects the more prominent collections, will suffice to shew
 that Popular Tales have a literature of their own:—Sanscrit: The
 *Pantcha-Tantra*, "The Five Books," a collection of fables of which only
@@ -506,7 +506,7 @@ not least, are to be reckoned the Scottish stories collected by Mr.
 Robert Chambers, of the merit of which we have already expressed our
 opinion in the text.
 
-<span id="fn_81"></span>[clxx:1](ptn09.htm#fr_81) After all, there is,
+<span id="fn_81"></span>[clxx:1](ptn09.htm#fr_81.md) After all, there is,
 it seems, a Scottish word which answers to *Askepot* to a hair. See
 Jamieson's Dictionary where the reader will find *Ashiepattle* as used
 in Shetland for "a neglected child"; and not in Shetland alone, but in
@@ -518,14 +518,14 @@ was gone to bed, and nobody to let me in, dripping wet as I was, but an
 So again *Assiepet*, substantive, "a dirty little creature, one that is
 constantly soiled with *ass* or ashes."
 
-<span id="fn_82"></span>[clxxi:1](ptn09.htm#fr_82) The Sagas contain
+<span id="fn_82"></span>[clxxi:1](ptn09.htm#fr_82.md) The Sagas contain
 many instances of Norsemen who sat thus idly over the fire, and were
 thence called *Kolbitr*, *coalbiters*, but who afterwards became mighty
 men.
 
-<span id="fn_83"></span>[clxxi:2](ptn09.htm#fr_83) Moe: *Introd. Norsk.
+<span id="fn_83"></span>[clxxi:2](ptn09.htm#fr_83.md) Moe: *Introd. Norsk.
 Event*.
 
 ------------------------------------------------------------------------
 
-[Next: Extracts From Press Notices](ptn10)
+[Next: Extracts From Press Notices](ptn10.md)

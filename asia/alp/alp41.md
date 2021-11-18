@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp40) 
-[Next](alp42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp40.md) 
+[Next](alp42.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ Ah, then believe that I am dead!
 
 ------------------------------------------------------------------------
 
-[Next: The Eagle's Love](alp42)
+[Next: The Eagle's Love](alp42.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg59)  [Next](btg61) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg59)  [Next](btg61.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ this generation to the other shore."
 
 ------------------------------------------------------------------------
 
-[Next: Amitabha, The Unbounded Light](btg61)
+[Next: Amitabha, The Unbounded Light](btg61.md)

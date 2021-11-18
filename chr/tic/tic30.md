@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic29)  [Next](tic31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic29)  [Next](tic31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,12 +41,12 @@ understand and realize the sovereign gift it is
 receiving. He may manifest Himself in a different way to other people;
 the person I mentioned, after having received Holy Communion beheld our
 Lord, full of splendour, beauty, and majesty, as He was after His
-resurrection. <span id="fr_402"></span>[1](#fn_402) He told her that
+resurrection. <span id="fr_402"></span>[1](#fn_402.md) He told her that
 henceforth she was to care for His affairs as though they were her own
 and He would care for hers: He spoke other words which she understood
 better than she can repeat them. This may seem nothing new, for our Lord
 had thus revealed Himself to her at other times; <span
-id="fr_403"></span>[2](#fn_403) yet this was so different that it left
+id="fr_403"></span>[2](#fn_403.md) yet this was so different that it left
 her bewildered and amazed, both on account of the vividness of what she
 saw and of the words heard at the time, also because it took place in
 the interior of the soul where, with the exception of the one last
@@ -56,7 +56,7 @@ mentioned, no other vision had been seen.
 former mansions there is a vast difference; there is the same
 distinction between spiritual espousals and spiritual marriage as
 between people who are only betrothed and others who are united for ever
-in holy matrimony. I have told you <span id="fr_404"></span>[3](#fn_404)
+in holy matrimony. I have told you <span id="fr_404"></span>[3](#fn_404.md)
 that though I make this comparison because there is none more suitable,
 yet this betrothal is no more related to our corporal condition than if
 the soul were a disembodied spirit. This is even more true of the
@@ -72,7 +72,7 @@ Humanity, but what passes in the union of the spiritual nuptials is very
 different. Here God appears in the soul's centre, not by an imaginary
 but by an intellectual vision far more mystic than those seen before,
 just as He appeared to the Apostles without having entered through the
-door when He said: 'Pax vobis.' <span id="fr_405"></span>[4](#fn_405)
+door when He said: 'Pax vobis.' <span id="fr_405"></span>[4](#fn_405.md)
 
 3\. So mysterious is the secret and so sublime the favour that God thus
 bestows instantaneously on the soul, that it feels a supreme delight,
@@ -80,7 +80,7 @@ only to be described by saying that our Lord vouchsafes for the moment
 to reveal to it His own heavenly glory in a far more subtle way than by
 any vision or spiritual delight. As far as can be understood, the soul,
 I mean the spirit of this soul, is made one with God <span
-id="fr_406"></span>[5](#fn_406) Who is Himself a spirit, and Who has
+id="fr_406"></span>[5](#fn_406.md) Who is Himself a spirit, and Who has
 been pleased to show certain persons how far His love for us extends in
 order that we may praise His greatness. He has thus deigned to unite
 Himself to His creature: He has bound Himself to her as firmly as two
@@ -110,10 +110,10 @@ two windows--though divided when it enters, the light becomes one and
 the same.
 
 6\. Perhaps when St. Paul said, 'He who is joined to the Lord is one
-spirit,' <span id="fr_407"></span>[6](#fn_407) he meant this sovereign
+spirit,' <span id="fr_407"></span>[6](#fn_407.md) he meant this sovereign
 marriage, which presupposes His Majesty's having been joined to the soul
 by union. The same Apostle says: 'To me, to live is Christ and to die is
-gain.' <span id="fr_408"></span>[7](#fn_408) This, I think, might here
+gain.' <span id="fr_408"></span>[7](#fn_408.md) This, I think, might here
 be uttered by the soul, for now the little butterfly of which I spoke
 dies with supreme joy, for Christ is her life.
 
@@ -127,7 +127,7 @@ impossible to describe. These produce such over-
 mastering feelings that the person experiencing them cannot refrain from
 amorous exclamations, such as: 'O Life of my life, and Power which doth
 uphold me!' with other aspirations of the same kind. <span
-id="fr_409"></span>[8](#fn_409) For from the bosom of the Divinity,
+id="fr_409"></span>[8](#fn_409.md) For from the bosom of the Divinity,
 where God seems ever to hold this soul fast clasped, issue streams of
 milk, which solace the servants of the castle. I think He wishes them to
 share, in some way, the riches the soul enjoys; therefore from the
@@ -145,15 +145,15 @@ spirit to its faculties.
 
 9\. The soul itself, as I said, never moves from this centre, nor loses
 the peace He can give Who gave it to the Apostles when they were
-assembled together. <span id="fr_410"></span>[9](#fn_410) I think this
+assembled together. <span id="fr_410"></span>[9](#fn_410.md) I think this
 salutation of our Lord contains far deeper meaning than the words
 convey, as
 
 <span id="page_274">p. 274</span>
 
 also His bidding the glorious Magdalen to 'go in peace.' <span
-id="fr_411"></span>[10](#fn_411) Our Lord's words *act* within us, <span
-id="fr_412"></span>[11](#fn_412) and in these cases they must have
+id="fr_411"></span>[10](#fn_411.md) Our Lord's words *act* within us, <span
+id="fr_412"></span>[11](#fn_412.md) and in these cases they must have
 wrought their effect in the souls already disposed to banish from within
 themselves all that is corporal and to retain only what is spiritual, in
 order to be joined in this celestial union with the uncreated Spirit.
@@ -164,12 +164,12 @@ will fill us with Himself.
 10\. Our Lord Jesus Christ, praying for His Apostles, (I cannot remember
 the reference),asked that they might be made one with the Father and
 with Himself; as Jesus Christ our Lord is in the Father and the Father
-in Him! <span id="fr_413"></span>[12](#fn_413) I do not know how love
+in Him! <span id="fr_413"></span>[12](#fn_413.md) I do not know how love
 could be greater than this! Let none draw back from entering here, for
 His Majesty also said: 'Not only for them do I pray, but for them also
 who through their word shall believe in Me'; <span
-id="fr_414"></span>[13](#fn_414) and He declared: 'I am in them.' <span
-id="fr_415"></span>[14](#fn_415)
+id="fr_414"></span>[13](#fn_414.md) and He declared: 'I am in them.' <span
+id="fr_415"></span>[14](#fn_415.md)
 
 11\. God help me! how true these words are, and how clearly are they
 understood by the soul which in this state of prayer finds them
@@ -181,7 +181,7 @@ obstruct this light,
 <span id="page_275">p. 275</span>
 
 so that we do not behold ourselves in this mirror wherein our image is
-engraved. <span id="fr_416"></span>[15](#fn_416)
+engraved. <span id="fr_416"></span>[15](#fn_416.md)
 
 12\. To return to what I was saying. God places the soul in His own
 mansion which is in the very centre of the soul itself. They say the
@@ -192,7 +192,7 @@ its peace.
 
 13\. Do I seem to imply that after God has brought the soul thus far it
 is certain to be saved and cannot fall into sin again? <span
-id="fr_417"></span>[16](#fn_417) I do not mean this: whenever
+id="fr_417"></span>[16](#fn_417.md) I do not mean this: whenever
 
 <span id="page_276">p. 276</span>
 
@@ -211,7 +211,7 @@ deprived by God of health and strength to perform any. I told you
 elsewhere what keen pain this caused her, but now it grieves her far
 more. This must be because she is like a tree grafted on a stock growing
 near a stream which makes it greener and more fruitful. <span
-id="fr_418"></span>[17](#fn_418) Why marvel at the longings of this soul
+id="fr_418"></span>[17](#fn_418.md) Why marvel at the longings of this soul
 whose spirit has truly become one with the celestial water I described?
 
 14\. To return to what I wrote about. It is not intended that the
@@ -245,26 +245,26 @@ you will about it--I have told you the truth.
 
 ### Footnotes
 
-<span id="fn_402"></span>[270:1](tic30.htm#fr_402) *Rel*. iii. 20; ix. 8
+<span id="fn_402"></span>[270:1](tic30.htm#fr_402.md) *Rel*. iii. 20; ix. 8
 and 25.
 
-<span id="fn_403"></span>[270:2](tic30.htm#fr_403) *Life*, ch. xxxix.
+<span id="fn_403"></span>[270:2](tic30.htm#fr_403.md) *Life*, ch. xxxix.
 29.
 
-<span id="fn_404"></span>[270:3](tic30.htm#fr_404) *Castle*, M. v. ch.
+<span id="fn_404"></span>[270:3](tic30.htm#fr_404.md) *Castle*, M. v. ch.
 iv. 1.
 
-<span id="fn_405"></span>[271:4](tic30.htm#fr_405) St. John xx. 19.
+<span id="fn_405"></span>[271:4](tic30.htm#fr_405.md) St. John xx. 19.
 
-<span id="fn_406"></span>[271:5](tic30.htm#fr_406) *Rel*. xi. 1. *sqq*.
+<span id="fn_406"></span>[271:5](tic30.htm#fr_406.md) *Rel*. xi. 1. *sqq*.
 
-<span id="fn_407"></span>[272:6](tic30.htm#fr_407) 1 Cor. vi. 17: 'Qui
+<span id="fn_407"></span>[272:6](tic30.htm#fr_407.md) 1 Cor. vi. 17: 'Qui
 adhæret Domino unus spiritus est.'
 
-<span id="fn_408"></span>[272:7](tic30.htm#fr_408) Philip. i. 21: 'Mihi
+<span id="fn_408"></span>[272:7](tic30.htm#fr_408.md) Philip. i. 21: 'Mihi
 vivere Christus est, et mori lucrum.'
 
-<span id="fn_409"></span>[273:8](tic30.htm#fr_409) Such exclamations, in
+<span id="fn_409"></span>[273:8](tic30.htm#fr_409.md) Such exclamations, in
 considerable number, form the *Book of Exclamations* published by Fray
 Luis de Leon. De Fuente thinks it was written in 1569, but as St.
 Teresa's spiritual betrothal took place on November 18, 1572, it seems,
@@ -273,25 +273,25 @@ placed between the aforementioned year and May 1575, but it is not
 possible to ascertain the exact date. (For the *Exclamations*, see
 *Minor Works*).
 
-<span id="fn_410"></span>[273:9](tic30.htm#fr_410) St. John xx. 19.
+<span id="fn_410"></span>[273:9](tic30.htm#fr_410.md) St. John xx. 19.
 
-<span id="fn_411"></span>[274:10](tic30.htm#fr_411) St. Luke vii. 50.
+<span id="fn_411"></span>[274:10](tic30.htm#fr_411.md) St. Luke vii. 50.
 
-<span id="fn_412"></span>[274:11](tic30.htm#fr_412) *Supra*, M. vi. ch.
+<span id="fn_412"></span>[274:11](tic30.htm#fr_412.md) *Supra*, M. vi. ch.
 iii. 6. *Life*, ch. xxv. 5.
 
-<span id="fn_413"></span>[274:12](tic30.htm#fr_413) St. John xvii. 2 I:
+<span id="fn_413"></span>[274:12](tic30.htm#fr_413.md) St. John xvii. 2 I:
 'Ut omnes unum sint, sicut tu Pater in me, et ego in te, ut et ipsi in
 nobis unum sint.'
 
-<span id="fn_414"></span>[274:13](tic30.htm#fr_414) St. John xvii. 20:
+<span id="fn_414"></span>[274:13](tic30.htm#fr_414.md) St. John xvii. 20:
 'Non pro eis autem rogo tantum, sed et pro eis, qui credituri sunt per
 verbum eorum in me.'
 
-<span id="fn_415"></span>[274:14](tic30.htm#fr_415) St. John xvii. 2 3:
+<span id="fn_415"></span>[274:14](tic30.htm#fr_415.md) St. John xvii. 2 3:
 'Ego in eis.'
 
-<span id="fn_416"></span>[275:15](tic30.htm#fr_416) This idea is
+<span id="fn_416"></span>[275:15](tic30.htm#fr_416.md) This idea is
 expressed in St. Teresa's poem: Alma, buscarte has en Mi' (Poem 10,
 *Minor Works*).
 
@@ -310,7 +310,7 @@ Soul, seek thyself in Me.
 
 </div>
 
-<span id="fn_417"></span>[275:16](tic30.htm#fr_417) In a letter dated
+<span id="fn_417"></span>[275:16](tic30.htm#fr_417.md) In a letter dated
 May 1581, addressed to Don Alonso Velasquez, then bishop of Osma, St.
 Teresa writes as follows:
 
@@ -331,10 +331,10 @@ such a pledge.' St. John of the Cross, in treating of this subject
 confirmed in grace in it.' See also Ribera, in the *Acta Ss*. p. 554,
 *circa finem*.
 
-<span id="fn_418"></span>[276:17](tic30.htm#fr_418) Ps. i. 3: 'Et erit
+<span id="fn_418"></span>[276:17](tic30.htm#fr_418.md) Ps. i. 3: 'Et erit
 tamquam lignum quod plantatum est secus decursus aquarum, quod fructum
 suum dabit in tempore suo.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Its Effects](tic31)
+[Next: Chapter III. Its Effects](tic31.md)

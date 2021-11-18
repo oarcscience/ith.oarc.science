@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](twp01)  [Next](twp03) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](twp01)  [Next](twp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ Christendom.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Theory of Witch-Persecution.](twp03)
+[Next: I. The Theory of Witch-Persecution.](twp03.md)

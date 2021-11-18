@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt13)  [Next](pyt15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt13)  [Next](pyt15.md) 
 
 ------------------------------------------------------------------------
 
@@ -282,4 +282,4 @@ his refuge is the refuge of N.
 ------------------------------------------------------------------------
 
 [Next: 12. The Ferryman and the Deceased King's Ascension, Utterances
-300-311](pyt15)
+300-311](pyt15.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq72)  [Next](sfq74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq72)  [Next](sfq74.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_36000"></span>
 
 [![](tn/36000.jpg)  
-Click to enlarge](img/36000.jpg)
+Click to enlarge](img/36000.jpg.md)
 
 # Sir Calidore, Knight of Courtesy
 
@@ -265,4 +265,4 @@ on his first quest.
 
 ------------------------------------------------------------------------
 
-[Next: The Proud Discourteous Knight](sfq74)
+[Next: The Proud Discourteous Knight](sfq74.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe286)  [Next](prwe288) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe286)  [Next](prwe288.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ to-morrow; if two blows are required, on the second day,--and so on.
 
 ------------------------------------------------------------------------
 
-[Next: The Blue Vein](prwe288)
+[Next: The Blue Vein](prwe288.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca06) 
-[Next](lca08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca06.md) 
+[Next](lca08.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,7 +141,7 @@ to be able to distinguish a passing sex-spell from a true comradeship
 and devotion is no doubt a very sapient remark; but since it is a thing
 which mature folk often fail to do, how young things with no experience
 of their own or hint from others should be expected to do it is not easy
-to understand. The search for a fitting mate [77](lca15.htm#xref_77),
+to understand. The search for a fitting mate [77](lca15.htm#xref_77.md),
 especially among the more sensitive and highly-organised types of
 mankind, is a very complex affair; and it is really monstrous that the
 girl or youth should have to, set out--as they mostly have to do
@@ -166,7 +166,7 @@ and embraces, and determines itself more slowly towards the reproductive
 system. Impatient, he injures and horrifies his partner, and
 unconsciously perhaps aggravates the very hysterical tendency which
 marriage might and should have allayed. <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 Among the middle and well-to-do classes
 
@@ -174,7 +174,7 @@ Among the middle and well-to-do classes
 
 especially, the conditions of high civilisation, by inducing an overfed
 masculinity in the males and a nervous and hysterical tendency in the
-females, <span id="fr_13"></span>[1](#fn_13) increase the difficulties
+females, <span id="fr_13"></span>[1](#fn_13.md) increase the difficulties
 mentioned; and it is among the 'classes' too that the special evils
 exist of sex-starvation and sex-ignorance on the one hand, and of mere
 licentiousness on the other.
@@ -270,7 +270,7 @@ caprice of
 their lords; and in this serf-life their very natures have been blunted;
 they have lost--what indeed should be the very glory and crown of
 woman's being--the perfect freedom and the purity of their love. <span
-id="fr_14"></span>[1](#fn_14) [83](lca15.htm#xref_83)
+id="fr_14"></span>[1](#fn_14) [83](lca15.htm#xref_83.md)
 
 At this whole spectacle of woman's degradation the human male has looked
 on with stupid and open-mouthed indifference--as an ox might look on at
@@ -456,22 +456,22 @@ changes going to be? and, Of what kind do we wish them to be?
 
 ### Footnotes
 
-<span id="fn_12"></span>[78:1](lca07.htm#fr_12) It must be remembered
+<span id="fn_12"></span>[78:1](lca07.htm#fr_12.md) It must be remembered
 too that to many women (though of course by no means a majority) the
 thought of Sex brings but little sense of pleasure, and the fulfilment
 of its duties constitutes a real, even though a willing, sacrifice.
-*See* Appendix.  [78](lca15.htm#xref_78)
+*See* Appendix.  [78](lca15.htm#xref_78.md)
 
-<span id="fn_13"></span>[79:1](lca07.htm#fr_13) Thus Bebel in his book
+<span id="fn_13"></span>[79:1](lca07.htm#fr_13.md) Thus Bebel in his book
 on *Woman* speaks of the idle and luxurious life of so many women in the
 upper classes, the nervous stimulant afforded by exquisite perfumes, the
 overdosing with poetry, music, the stage--which is regarded as the chief
 means of education, and is the chief occupation, of a sex already
 suffering from hypertrophy of nerves and sensibility."
 
-<span id="fn_14"></span>[83:1](lca07.htm#fr_14) *See*
-Appendix. [83](lca15.htm#xref_83)
+<span id="fn_14"></span>[83:1](lca07.htm#fr_14.md) *See*
+Appendix. [83](lca15.htm#xref_83.md)
 
 ------------------------------------------------------------------------
 
-[Next: Marriage, A Forecast](lca08)
+[Next: Marriage, A Forecast](lca08.md)

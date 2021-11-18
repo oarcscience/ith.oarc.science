@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa01) [Next](rsa03)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa01) [Next](rsa03.md)
 
 ------------------------------------------------------------------------
 
@@ -6,7 +6,7 @@
 
 ### APPENDIX. ADDITIONAL NOTES.
 
-<span id="note_11"></span>[Page 4, Note 11](rsa01.htm#page_4_note_11).
+<span id="note_11"></span>[Page 4, Note 11](rsa01.htm#page_4_note_11.md).
 
  There is an interesting version of this legend given by Casalis as
 existing among the Basutos:—
@@ -49,7 +49,7 @@ health, that she returned to the hole, carrying with her the precious
 medicine; in consequence of which diseases and death came into the
 world, and prevail in it to this day." (*Op. cit. Vol. I., p.* 306.)
 
-<span id="note_27"></span>[Page 65, Note 27.](rsa01.htm#page_65_note_27)
+<span id="note_27"></span>[Page 65, Note 27.](rsa01.htm#page_65_note_27.md)
 
  The following extract from the Sire de Joinville's *Saint Louis, King
 of France*, is added as an interesting illustration of the existence of
@@ -249,7 +249,7 @@ could have got each of them to relate a version of the tradition.
 
  And Udingezi added, without my asking—"Udhlamini is the name of him who
 divided the tribes."<span
-id="page_103_fr_75"></span>[75](#page_103_note_75)
+id="page_103_fr_75"></span>[75](#page_103_note_75.md)
 
 <span id="page_104">p. 104</span>
 
@@ -267,7 +267,7 @@ Unkulunkulu:—
  This last I have been accustomed to call, for the sake of distinction,
 Unkulunkulu the First, and the others, Secondary Onkulunkulu. Dr. Bleek
 feels the need of a distinctive epithet, and says, the Unkulunkulu *par
-excellence*.<span id="page_104_fr_76"></span>[76](#page_104_note_76) We
+excellence*.<span id="page_104_fr_76"></span>[76](#page_104_note_76.md) We
 find a native making the distinction of his own accord, by saying the
 Unkulunkulu *of all men*. We have also the separate testimony of several
 natives that Ukulukulu is all one with Unkulunkulu, and that the former
@@ -288,7 +288,7 @@ founded on the Word of God.—H. C.
 
 ------------------------------------------------------------------------
 
-[Next](rsa03)
+[Next](rsa03.md)
 
 ------------------------------------------------------------------------
 
@@ -296,7 +296,7 @@ founded on the Word of God.—H. C.
 
 <span id="footnotes_page_103">p. 103</span>
 
- <span id="page_103_note_75"></span>[75](#page_103_fr_75) We have met
+ <span id="page_103_note_75"></span>[75](#page_103_fr_75.md) We have met
 with this saying frequently in the previous pages. It has been
 understood to mean that *Unkulunkulu created the nations*. But it has no
 such meaning, and does not even allude to creation at all, as will be
@@ -325,9 +325,9 @@ clear from the following explanation of the words:—
 > Umahhaule broke off from the Abambo, and Unjan also, and Umunyu, and
 > Ungangezwe. All these came from Uzithlanthlo, their great chief.
 
- <span id="page_104_note_76"></span>[76](#page_104_fr_76) Usithlanu
+ <span id="page_104_note_76"></span>[76](#page_104_fr_76.md) Usithlanu
 calls him "Unkulunkulu wamandulo," The most ancient Unkulunkulu, see [p.
-89](rsa01.htm#page_89).
+89](rsa01.htm#page_89.md).
 
  
 

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](nah)  [Next](zep) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](nah)  [Next](zep.md) 
 
 ------------------------------------------------------------------------
 
@@ -231,4 +231,4 @@ hoogten. Voor den opperzangmeester op mijn Neginoth.
 
 ------------------------------------------------------------------------
 
-[Next: Zephaniah](zep)
+[Next: Zephaniah](zep.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](wsl08)  [Next](wsl10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](wsl08)  [Next](wsl10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Wanderer in the Sprit Lands*, by Franchezzo (A. Farnese), \[1896\],
 at Intangible Textual Heritage
 
@@ -177,4 +177,4 @@ the chances of war may bring together or separate at any time.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII.--Temptation](wsl10)
+[Next: Chapter VIII.--Temptation](wsl10.md)

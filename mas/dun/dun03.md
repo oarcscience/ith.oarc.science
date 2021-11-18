@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](dun02)  [Next](dun04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](dun02)  [Next](dun04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV4ZS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Duncan's Masoic Ritual and Monitor*, by Malcom C. Duncan, \[1866\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 <span id="page_58">p. 58</span>
 
 <span id="img_05800"></span> ![Altar and compass of the second
-degree](img/05800.jpg)
+degree](img/05800.jpg.md)
 
 # FELLOW CRAFT, OR SECOND DEGREE.
 
@@ -43,7 +43,7 @@ clearly to the reader. Five are required by Masonic law to make a legal
 Lodge of Fellow Crafts, viz.: Worshipful Master, Senior and Junior
 Wardens, Senior and .Junior Deacons; yet seven, besides the Tyler,
 generally officiate, and take their seats as in the Entered Apprentice
-Degree. (See [Plate](dun02.htm#img_00800), page [8](dun02.htm#page_8).)
+Degree. (See [Plate](dun02.htm#img_00800), page [8](dun02.htm#page_8)..md)
 
 When the Lodge is opened on the Fellow Craft Degree, the altar is
 arranged as represented in the accompanying engraving.
@@ -63,8 +63,8 @@ prepared, make it known by the usual sign.
 The Junior Deacon, with the two Stewards accompanying him, steps to the
 centre of the Lodge, makes the duegard and sign of a Fellow Craft, and
 passes out of the Lodge into the ante-room. (For duegard and sign see
-Figs. [3](dun02.htm#img_01701) and [4](dun02.htm#img_01702), page
-[17](dun02.htm#page_17).)
+Figs. [3](dun02.htm#img_01701) and [4](dun02.htm#img_01702.md), page
+[17](dun02.htm#page_17)..md)
 
 J. D.--Well, Brother Gabe, you will have to be prepared for this Degree
 as all have been before you. You, of course, can have no serious
@@ -94,7 +94,7 @@ particular points.
 The right foot and knee of the candidate are made bare by rolling up the
 drawers, and a slipper should be put on his left foot. This being
 accomplished, the candidate is duly and truly prepared. (See
-[engraving](#img_05900).)
+[engraving](#img_05900)..md)
 
 The Deacon now takes the candidate by the arm, and leads him forward to
 the door of the Lodge; and upon arriving there he gives three raps, when
@@ -341,7 +341,7 @@ Brother, you will first step off one full step with your left foot,
 bringing the heel of your right in the hollow of your left foot, now you
 will step off with your right foot, bringing the heel of your left in
 the hollow of your right. ([Steps 1 and 2, Fig. 14, p.
-93](dun04.htm#img_09300).)
+93](dun04.htm#img_09300)..md)
 
 The candidate is now within kneeling distance of the altar, and the
 Senior Warden makes the following report to the Master:--
@@ -356,9 +356,9 @@ The Senior Warden, with the assistance of the Senior Deacon, now causes
 the candidate to kneel on his naked right knee, before the altar, making
 his left knee form a square. His left arm, as far as the elbow, should
 be held in a horizontal position, and the rest of the arm in a
-[vertical](errata.htm#1) position, forming another square--his arm
+[vertical](errata.htm#1.md) position, forming another square--his arm
 supported by the square, held under his elbow, and his right hand
-resting on the open Bible. (See [Fig. 10](#img_06400).)
+resting on the open Bible. (See [Fig. 10](#img_06400)..md)
 
 W. M.--Brother Gabe, you are kneeling for the second time at the sacred
 altar of Masonry, to take upon yourself the solemn
@@ -373,7 +373,7 @@ your family, country, neighbor, or self. Are you willing to take it?
  
 
 <span id="img_06400"></span> ![FIG. 10. CANDIDATE TAKING THE OATH OF A
-FELLOW CRAFT.](img/06400.jpg)  
+FELLOW CRAFT.](img/06400.jpg.md)  
 FIG. 10. CANDIDATE TAKING THE OATH OF A FELLOW CRAFT.
 
 (left to right: Master. Altar and Lights. Candidate. Conductor.)
@@ -398,7 +398,7 @@ Almighty God, and this worshipful Lodge, erected to Him, and
 
 <span id="page_65">p. 65</span>
 
-dedicated to the holy STS. JOHN, <span id="fr_23"></span>[1](#fn_23) do
+dedicated to the holy STS. JOHN, <span id="fr_23"></span>[1](#fn_23.md) do
 hereby and hereon (Master presses candidate's hand with the gavel), most
 solemnly and sincerely promise and swear that I will always hail, and
 ever conceal, and never reveal any of the secret arts, parts, or points
@@ -427,8 +427,8 @@ All this I most solemnly promise and swear with a firm and steadfast
 resolution to perform the same, without any hesitation, mental
 reservation, or self-evasion of mind whatever, binding myself under no
 less penalty than of having my breast torn open <span
-id="fr_24"></span>[2](#fn_24) ( see sign of Fellow Craft, [Fig. 4, p.
-17](dun02.htm#img_01702)) my heart <span id="fr_25"></span>[3](#fn_25)
+id="fr_24"></span>[2](#fn_24.md) ( see sign of Fellow Craft, [Fig. 4, p.
+17](dun02.htm#img_01702)) my heart <span id="fr_25"></span>[3](#fn_25.md)
 plucked out, and placed on the highest pinnacle of the temple (some say,
 My heart and vitals taken from thence, and thrown over my left shoulder,
 and carried into the valley of Jehoshaphat, &c., &c.), there to be
@@ -453,7 +453,7 @@ W. M.--Brethren, you will stretch forth your hands, and assist me in
 bringing our brother to light.
 
 Here all the brethren place their hands in the form of the duegard of a
-Fellow Craft. (See [Fig. 3, p. 17](dun02.htm#img_01701).)
+Fellow Craft. (See [Fig. 3, p. 17](dun02.htm#img_01701)..md)
 
 W. M.--Let the brother receive light.
 
@@ -464,7 +464,7 @@ take their seats. The Master then says to the candidate:
 
 W. M.--My brother, on being brought to light in this Degree, you behold
 one point of the compasses elevated above the square (see [altar and
-compasses in this Degree, p. 58](#img_05800)), which is to signify that
+compasses in this Degree, p. 58](#img_05800).md), which is to signify that
 you have received light in Masonry by points.
 
 Then, stepping back a few feet from the altar, the Worshipful Master
@@ -472,8 +472,8 @@ continues:
 
 W. M.--Brother, you discover me approaching you from the east, under the
 duegard (here he makes the duegard) and sign (here he makes the sign of
-a Fellow Craft, see Figs. [3](dun02.htm#img_01701),
-[4](dun02.htm#img_01702), [p. 17](dun02.htm#page_17)); and In token of
+a Fellow Craft, see Figs. [3](dun02.htm#img_01701.md),
+[4](dun02.htm#img_01702), [p. 17](dun02.htm#page_17).md); and In token of
 the continuance of brotherly love and favor, I present you with my right
 hand (takes candidate by the right hand), and with it the pass, token,
 token of the pass, grip, and word of a Fellow Craft. As you are yet
@@ -481,7 +481,7 @@ uninformed, your conductor will answer for you.
 
 The Worshipful Master now takes the candidate by the Entered
 Apprentice's grip (see Entered Apprentice's grip, [Fig.
-9](dun02.htm#img_03600), [p. 36](dun02.htm#page_36)), and says to his
+9](dun02.htm#img_03600), [p. 36](dun02.htm#page_36).md), and says to his
 conductor, the S. .D., while holding the candidate by this grip:
 
 <span id="img_06600"></span>
@@ -513,7 +513,7 @@ W. M.--Pass.
 
 Here the candidate is requested to pass his thumb from the first joint
 to the space between the first and second joints, which is the pass grip
-of a Fellow Craft. (See [Fig. 11](#img_06600).)
+of a Fellow Craft. (See [Fig. 11](#img_06600)..md)
 
 W. M.--What is that?
 
@@ -612,7 +612,7 @@ Conductor--By signs and tokens.
 J. W.--Give me a sign.
 
 Conductor gives the duegard of a Fellow Craft (see [Fig.
-3](dun02.htm#img_01701), [p. 17](dun02.htm#page_17)), and makes the
+3](dun02.htm#img_01701), [p. 17](dun02.htm#page_17).md), and makes the
 candidate or candidates--if there are more than one--do likewise.
 
 J. W.--What is that?
@@ -627,7 +627,7 @@ placed when I took upon myself the solemn oath of a Fellow Craft.
 J. W.--Have you any other sign?
 
 Conductor--I have. (At the same time he makes the sign of a Fellow
-Craft, see [Fig. 4](dun02.htm#img_01702), [p. 17](dun02.htm#page_17),
+Craft, see [Fig. 4](dun02.htm#img_01702), [p. 17](dun02.htm#page_17.md),
 and the candidate does the same.)
 
 J. W.--What is that?
@@ -647,7 +647,7 @@ J. W.--Advance, and give me the pass.
 
 Warden takes hold of candidate by the right hand, and places his thumb
 on the first joint of candidate's hand (see Entered Apprentice grip,
-[Fig. 9](dun02.htm#img_03600), [p. 36](dun02.htm#page_36)), and says to
+[Fig. 9](dun02.htm#img_03600), [p. 36](dun02.htm#page_36).md), and says to
 the conductor:
 
 J. W.--Will you be off or from?
@@ -657,7 +657,7 @@ Conductor--From.
 J. W.--From what, and to what?
 
 Conductor--From the real grip of an Entered Apprentice to the pass grip
-of a Fellow Craft. (See [Fig. 11](#img_06600), [p. 66](#page_66).)
+of a Fellow Craft. (See [Fig. 11](#img_06600), [p. 66](#page_66)..md)
 
 J. W.--Pass. (They move their thumbs, as already described.)
 
@@ -685,7 +685,7 @@ Conductor--From the pass grip of a Fellow Craft, to the real grip of the
 same.
 
 J. W.--Pass. (They pass the thumbs, as before described. See [Fig.
-12](#img_06700), [p. 67](#page_67).)
+12](#img_06700), [p. 67](#page_67)..md)
 
 J. W.--What is that?
 
@@ -771,7 +771,7 @@ made of rosewood .or ebony, and kept for these occasions on the Master's
 desk.
 
 <span id="img_07001"></span> ![WORKING TOOLS OF A FELLOW
-CRAFT.](img/07001.jpg)  
+CRAFT.](img/07001.jpg.md)  
 WORKING TOOLS OF A FELLOW CRAFT.
 
 W. M.--The plumb is an instrument made use of by operative masons to
@@ -803,7 +803,7 @@ board, of a rectangular
 <span id="img_07100"></span> <span align="CENTER"> [![REPRESENTATION OF
 THE CRAFTSMAN'S ROAD TO THE MIDDLE CHAMBER OF KING SOLOMON'S
 TEMPLE.](tn/07100.jpg)  
-Click to enlarge](img/07100.jpg)  
+Click to enlarge](img/07100.jpg.md)  
 REPRESENTATION OF THE CRAFTSMAN'S ROAD TO THE MIDDLE CHAMBER OF KING
 SOLOMON'S TEMPLE.  
 </span>
@@ -817,13 +817,13 @@ form, are arranged upon the carpet so as to represent three, five, and
 seven steps, or stairs. Some Lodges, especially those in the large
 cities, employ real steps, but in most country Lodges the painted boards
 are used. For a more definite idea of this arrangement, the reader is
-referred to [Fig. 13](#img_07100).
+referred to [Fig. 13](#img_07100.md).
 
 After the candidate is dressed, the conductor ties upon him a white
 apron, with the flap turned down, as worn by Fellow Crafts. The
 conductor then opens the Lodge-door, and, taking the candidate by the
 left arm, he leads him forward through the door in front of the pillars.
-For the first position of the parties see [Fig. 13](#img_07100), the two
+For the first position of the parties see [Fig. 13](#img_07100.md), the two
 stars representing the conductor (*i.e.* S. D.) and the candidate.
 
 Conductor--Brother Gabe, we are now about to make an ascent through a
@@ -873,7 +873,7 @@ of the one on the left hand is Boaz, and signifies strength; the name of
 the one on the right is Jachin, and denotes establishment; they,
 collectively, denote establishment and strength, and allude to a passage
 in Scripture: "In strength shall this house be established." <span
-id="fr_26"></span>[1](#fn_26) These are representations of the two
+id="fr_26"></span>[1](#fn_26.md) These are representations of the two
 pillars erected at the outer porch of King Solomon's Temple. They are
 said to have been in height thirty-five (35) (Morgan, Richardson,
 Bernard, and Allyn say only eighteen) cubits, twelve in circumference,
@@ -993,7 +993,7 @@ S. D.--Plenty.
 T. W.--How is it represented?
 
 S. D.--By ears of corn hanging near a water-ford. <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
 J. W.--Why originated this word as a pass?
 
@@ -1014,7 +1014,7 @@ Jordan,
 and commanded, if the Ephraimites passed that way, Say ye *Shibboleth*;
 but they, being of a different tribe, could not frame to pronounce it
 aright, and pronounced it *Sibboleth*; <span
-id="fr_28"></span>[1](#fn_28) which trifling defect proved them to be
+id="fr_28"></span>[1](#fn_28.md) which trifling defect proved them to be
 spies, and cost them their lives; and there fell at that time, at the
 different passes on the banks of the river Jordan, forty and two
 thousand. This word was also used by our ancient brethren to distinguish
@@ -1043,7 +1043,7 @@ S. W.--How do you expect to gain admission?
 S. D.--By the grip and word of a Fellow Craft.
 
 S. W.--Give me the grip (here give the real grip of a Fellow
-Craft--[Fig. 12](#img_06700), [p. 67](#page_67)).
+Craft--[Fig. 12](#img_06700), [p. 67](#page_67).md).
 
 S. W.--What is that?
 
@@ -1584,7 +1584,7 @@ Q. Why originated this word as a pass?
 
 A. In consequence of a quarrel which had long existed between Jephthah,
 Judge of Israel, and the Ephraimites, &c., &c. (for the balance, see
-page [75](#page_75)).
+page [75](#page_75).md).
 
 Q. What did you next discover?
 
@@ -1635,7 +1635,7 @@ who presides in the east, with reverence most devoutly and humbly bow.
 <span id="page_86">p. 86</span>
 
 This is the end of the Fellow Craft Degree, or Second Degree in
-Masonry. <span id="fr_29"></span>[1](#fn_29)
+Masonry. <span id="fr_29"></span>[1](#fn_29.md)
 
 <span id="img_08600"></span> ![](img/08600.jpg)
 
@@ -1643,7 +1643,7 @@ Masonry. <span id="fr_29"></span>[1](#fn_29)
 
 ### Footnotes
 
-<span id="fn_23"></span>[65:1](dun03.htm#fr_23) We are challenged by our
+<span id="fn_23"></span>[65:1](dun03.htm#fr_23.md) We are challenged by our
 opponents to prove that St. John was a Freemason. The thing is incapable
 of direct proof. Calmet positively asserts that he was an Essene, which
 was the secret society of the day, that conveyed moral truths under
@@ -1651,11 +1651,11 @@ symbolical figures, and may. therefore, be termed Freemasonry, retaining
 the same form, but practised under another name.--*Historical
 Landmarks*, vol. i. p. 167.
 
-<span id="fn_24"></span>[65:2](dun03.htm#fr_24) Gives candidate a rake
+<span id="fn_24"></span>[65:2](dun03.htm#fr_24.md) Gives candidate a rake
 across his breast with the hand; this is to draw candidate's attention
 to the penalty.
 
-<span id="fn_25"></span>[65:3](dun03.htm#fr_25) The *breast* being the
+<span id="fn_25"></span>[65:3](dun03.htm#fr_25.md) The *breast* being the
 abode of fortitude, we are taught by the second sign to *suppress the
 risings* of apprehension and discontent; and to endure with patience the
 attacks of adversity, or distress, pain, or disappointment, rather than
@@ -1665,7 +1665,7 @@ which must inevitably result from a *betrayal of secrets* with which we
 have been intrusted on the faith of a *solemn obligation*.--*Theo.
 Phil*., p. 289
 
-<span id="fn_26"></span>[73:1](dun03.htm#fr_26) One of the rules of the
+<span id="fn_26"></span>[73:1](dun03.htm#fr_26.md) One of the rules of the
 Jewish Cabala is called Transposition, and is used by finding an
 appropriate meaning to a word formed anagrammatically from any other
 word. Acting on this rule. Brother Rosenberg, an eminent Jewish Mason,
@@ -1677,7 +1677,7 @@ the moment when the young neophyte is about to receive the physical
 light, he should also prepare himself to receive the moral light. he
 word *prepared* in Hebrew is NIKAJ."--*Historical Landmarks*, vol. i.
 
-<span id="fn_27"></span>[75:1](dun03.htm#fr_27) SHIBBOLETH. The word in
+<span id="fn_27"></span>[75:1](dun03.htm#fr_27.md) SHIBBOLETH. The word in
 Hebrew has two signification: 1. An ear of grain, and, 2. A stream of
 water.--*Lexicon*.
 
@@ -1685,7 +1685,7 @@ The symbolical interpretation of each floor cloth increases in interest
 as we gradually advance through *the field of corn by the
 river-side*.--*Theo.* p. 174.
 
-<span id="fn_28"></span>[76:1](dun03.htm#fr_28) Shibboleth signifies
+<span id="fn_28"></span>[76:1](dun03.htm#fr_28.md) Shibboleth signifies
 *waters*. Thus, when the Ephraimites. prayed the men of Gilead to allow
 them to pass over, and were asked, in return--To pass over what? they
 could not answer Shibboleth, or *the waters*, without betraying
@@ -1697,7 +1697,7 @@ produced this defect. A native of the continent of Europe experiences
 great difficulty in articulating the English *th*. In countries adjacent
 to Palestine the same defect prevails.--*Historical Landmarks*.
 
-<span id="fn_29"></span>[86:1](dun03.htm#fr_29) LECTURE. In the Fellow
+<span id="fn_29"></span>[86:1](dun03.htm#fr_29.md) LECTURE. In the Fellow
 Crafts' Degree, the first section recapitulates the ceremonies of
 passing a candidate. The second section gives an account of the ancient
 division of our institution into operative and speculative Masons, and
@@ -1716,4 +1716,4 @@ unlimited confidence.--*Theo. Phil.*, p. 199.
 
 ------------------------------------------------------------------------
 
-[Next: Master Mason, or Third Degree](dun04)
+[Next: Master Mason, or Third Degree](dun04.md)

@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index) [Index](gppt0) [Previous](gppt4) [Next](gppt6)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index) [Index](gppt0) [Previous](gppt4) [Next](gppt6.md)
 
 ------------------------------------------------------------------------
 
@@ -53,13 +53,13 @@ EDMUNDS.</span>
 
 <span class="small">(Fifth Series.)</span><span
 id="page_43_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_43_note_1)
+class="small">1</span></sup>](#page_43_note_1.md)
 
  
 
 APOSTOLIC SUCCESSION.
 
-> <span class="small">[Matthew xvi. 17-19](../../bib/kjv/mat.htm#16:17).
+> <span class="small">[Matthew xvi. 17-19](../../bib/kjv/mat.htm#16:17.md).
 > And Jesus answered and said unto him, Blessed art thou, Simon
 > Bar-Jonah: for flesh and blood hath not revealed it unto thee, but my
 > Father which is in heaven. And I also say unto thee, that thou art
@@ -152,11 +152,11 @@ Sâriputto keeps rolling,<br />
 
 SAVING POWER OF BELIEF.
 
-> <span class="small">[Mark ix. 23](../../bib/kjv/mar.htm#9:23). Jesus
+> <span class="small">[Mark ix. 23](../../bib/kjv/mar.htm#9:23.md). Jesus
 > said unto him, If thou canst! All things are possible to him that
 > believeth.</span>
 
-> <span class="small">Cf. [John iii. 18](../../bib/kjv/joh.htm#3:18),
+> <span class="small">Cf. [John iii. 18](../../bib/kjv/joh.htm#3:18.md),
 > and the New Testament throughout.</span>
 
 <span id="pp_5"></span>{5} <span class="small">NUMERICAL COLLECTION I.
@@ -175,7 +175,7 @@ destruction and hell.
 the dissolution of the body after death, rise again in the world of weal
 and paradise, to be compared, O monks, with Right Belief.<span
 id="page_44_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_44_note_1)
+class="small">1</span></sup>](#page_44_note_1.md)
 
 <span id="page_45">p. 45</span>
 
@@ -187,7 +187,7 @@ the body after death, rise again in the world of paradise.
 THE LOGIA.
 
    JESUS SAITH is the formula in the Egyptian Logia-fragment found in
-1897 {Greek fragments of [The Gospel of Thomas](../../chr/thomas)}, and
+1897 {Greek fragments of [The Gospel of Thomas](../../chr/thomas.md)}, and
 of frequent occurrence in the Gospels. The ancient Christian Logia-Book,
 or primitive Gospel of Matthew mentioned by Papas (Eusebius, H. E. iii.
 39) is lost; but the Buddhists are more fortunate in having their
@@ -219,7 +219,7 @@ borne out by the fact that the suttas increase in length towards the
 end. Moreover, the suttas borrowed from the Numerical Collection all
 occur after No. 80, where the formulæ cease to be regular.<span
 id="page_45_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_45_note_1)
+class="small">1</span></sup>](#page_45_note_1.md)
 
    The earlier part of the Itivuttaka appears to be of great antiquity.
 Its themes are found all through the Canon in a more developed form, but
@@ -228,7 +228,7 @@ deposition in each case that Buddha spoke them.
 
 ------------------------------------------------------------------------
 
-[Next](gppt6)
+[Next](gppt6.md)
 
 ------------------------------------------------------------------------
 
@@ -236,19 +236,19 @@ deposition in each case that Buddha spoke them.
 
 <span id="footnotes_page_43">p. 43</span>
 
-<span id="page_43_note_1"></span>[1](#page_43_fr_1). Counting *The
+<span id="page_43_note_1"></span>[1](#page_43_fr_1.md). Counting *The
 Penitent Thief* (October) as the Fourth Series.
 
 <span id="footnotes_page_44">p. 44</span>
 
-<span id="page_44_note_1"></span>[1](#page_44_fr_1). The first step in
+<span id="page_44_note_1"></span>[1](#page_44_fr_1.md). The first step in
 the Noble Eightfold Path of Gotamo's famous Sermon in the Deer Park near
 Benâres. The doctrine of the saving power of Belief is thus fundamental
 in Buddhism. <span id="footnotes_page_45">p. 45</span> See also
 Itivuttaka, 32, 33. The word *Belief* is literally *Sight* and can also
 be rendered *View* or *Speculation*.
 
-<span id="page_45_note_1"></span>[1](#page_45_fr_1). If it be said that
+<span id="page_45_note_1"></span>[1](#page_45_fr_1.md). If it be said that
 the Anguttara borrowed certain suttas because they were numerical, the
 fact confronts us that Nos, 108 and 110 to 112 are not numerical; while
 Nos, 1-6, which are not borrowed at all, one would expect to find in the

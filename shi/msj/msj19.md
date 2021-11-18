@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj18) 
-[Next](msj20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj18.md) 
+[Next](msj20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -138,7 +138,7 @@ But twilight autumnal!
 ### THE DRAGON-FLY
 
 <span class="smallcaps">By Chiyo</span> <span
-id="fr_5"></span>[\*](#fn_5)
+id="fr_5"></span>[\*](#fn_5.md)
 
 (*Written after the Death of her little Son*)
 
@@ -187,13 +187,13 @@ Suckles it, murmuring softly
 
 ### Footnotes
 
-<span id="fn_5"></span>[99:\*](msj19.htm#fr_5) Chiyo was a famous woman
+<span id="fn_5"></span>[99:\*](msj19.htm#fr_5.md) Chiyo was a famous woman
 Hokku-writer of Kaga.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XIX.](msj20)
+[Next: XIX.](msj20.md)
 
 </div>

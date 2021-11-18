@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas042n)  [Next](jas044n)   
- \[[43. Quit-quit and Anansi.](jas043)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas042n)  [Next](jas044n.md)   
+ \[[43. Quit-quit and Anansi.](jas043.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ collection.
 
 ------------------------------------------------------------------------
 
-[Next: Note 44. Spider Marries Monkey's Daughter.](jas044n)
+[Next: Note 44. Spider Marries Monkey's Daughter.](jas044n.md)

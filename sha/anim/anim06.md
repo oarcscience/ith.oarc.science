@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim05)  [Next](anim07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim05)  [Next](anim07.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ may mean death to the other.\[18\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Parity of Being](anim07)
+[Next: Chapter V. Parity of Being](anim07.md)

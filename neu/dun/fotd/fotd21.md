@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lord Dunsany](../index)  [Index](index) 
-[Previous](fotd20)  [Next](fotd22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lord Dunsany](../index)  [Index](index.md) 
+[Previous](fotd20)  [Next](fotd22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SWBC/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fifty-one Tales*, by Lord Dunsany, \[1915\], at Intangible Textual
 Heritage
 
@@ -53,6 +53,6 @@ poppy's sleepy petals murmured "Remember not. Remember not."
 
 ------------------------------------------------------------------------
 
-[Next: Roses](fotd22)
+[Next: Roses](fotd22.md)
 
 </div>

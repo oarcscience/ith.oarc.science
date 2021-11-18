@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah11)  [Next](toah13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah11)  [Next](toah13.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,14 +51,14 @@ him come.
 <span id="page_51">p. 51</span>
 
 Well, finally they heard that the Bahana was at Tsehotso (Navajo for
-Fort Defiance) [30](toah24.htm#xref_30) which means "range of
+Fort Defiance) [30](toah24.htm#xref_30.md) which means "range of
 sharp-pointed rocks." He was calling for the Hopi chiefs to come to that
 place to meet him. Now at that time all the tribes were on hostile terms
 with one another and it was dangerous. The Hopi wanted to go and see
 what this Bahana looked like. The chiefs from all the villages went
 there and they told him if he was the true Bahana they would shake hands
 and lay down their weapons, for they had a "theory" that when the Bahana
-came there would be peace forever. [31](toah24.htm#xref_31) Well, at
+came there would be peace forever. [31](toah24.htm#xref_31.md) Well, at
 this place they were given cloth of different kinds, flour and sugar and
 a few tools like axes and knives. That was the first time that they had
 ever tasted sugar. When they brought these things back home this caused
@@ -90,4 +90,4 @@ what a great wrong they had done.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. How The Hopi Marked the Boundary Line Between Their
-Country and That of the Navajo](toah13)
+Country and That of the Navajo](toah13.md)

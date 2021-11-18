@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc03)  [Next](blc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc03)  [Next](blc05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ version of the Legend already referred to the great god of creation was
 Enlil, or Marduk, or Ashur, we know that in the Legend of Gilgamish
 (Second Tablet) it was the goddess Aruru who created Enkidu (Eabani)
 from a piece of clay moistened with her own spittle. And in the
-so-called "bilingual" version <span id="fr_2"></span>[3](blc17.htm#fn_2)
+so-called "bilingual" version <span id="fr_2"></span>[3](blc17.htm#fn_2.md)
 of the Legend, we find that this goddess assisted Marduk as an equal in
 the work of creating the seed of mankind. This version, although Marduk
 holds the position of pre-eminence, differs in many particulars from
@@ -29,4 +29,4 @@ earth, a rendering of it is here given.
 
 ------------------------------------------------------------------------
 
-[Next: The Bilingual Version of the Creation Legend](blc05)
+[Next: The Bilingual Version of the Creation Legend](blc05.md)

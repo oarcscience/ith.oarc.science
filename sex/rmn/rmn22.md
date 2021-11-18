@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn21)  [Next](rmn23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn21)  [Next](rmn23.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ image of Priapus as many times as the god had satisfied their desires.
 she require any reward that he did not bring of his own free will. When
 day returned, the conqueress dedicated four-and-twenty wreaths of rose
 and myrtle to Priapus, Marsyas, and other mirthful deities: each being a
-thank-offering for a victory." <span id="fr_27"></span>[1](#fn_27)
+thank-offering for a victory." <span id="fr_27"></span>[1](#fn_27.md)
 
 Were it not for the undeniable monuments that antiquity has bequeathed
 to us, we should be led to believe that civilized nations have at all
@@ -116,8 +116,8 @@ that this piece comes from Egypt.
 
 ### Footnotes
 
-<span id="fn_27"></span>[45:1](rmn22.htm#fr_27) *Joannes Meursius*.
+<span id="fn_27"></span>[45:1](rmn22.htm#fr_27.md) *Joannes Meursius*.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXII: A Votive Phallus](rmn23)
+[Next: Plate XXII: A Votive Phallus](rmn23.md)

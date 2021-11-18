@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos40)  [Next](kos42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos40)  [Next](kos42.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ solemnities.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Of the Garments And Shoes of the Art](kos42)
+[Next: Chapter VI. Of the Garments And Shoes of the Art](kos42.md)

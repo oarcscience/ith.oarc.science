@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap15) 
-[Next](bap17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap15.md) 
+[Next](bap17.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ angle brackets (above) are transcribed as double angle brackets..
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I.](bap17)
+[Next: Chapter I.](bap17.md)

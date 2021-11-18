@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr13)  [Next](ibr15) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr13)  [Next](ibr15.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ high in authority, and whose exceeding valor, worth, and power are
 admitted by all." These insignia of rank are, he adds, only worn on
 special and rare occasions, as in meeting embassies, or at warlike
 parades or other public festivals, or sometimes when a chief sees fit to
-lead a war-party to battle. <span id="fr_66"></span>[1](#fn_66) The
+lead a war-party to battle. <span id="fr_66"></span>[1](#fn_66.md) The
 origin of the custom is readily understood. The sight, frequent enough
 in former days, of an antlered stag leading a herd of deer would be
 quite sufficient to suggest to the quick apprehension of the Indian this
@@ -184,7 +184,7 @@ existence of these comprehensive words in an Indian language, or any
 other, is an evidence of deficiency in analytic power, is a fallacy
 which was long ago exposed by the clear and penetrative reasoning of
 Duponceau, the true father of American philology. <span
-id="fr_67"></span>[1](#fn_67) As he has well explained, analysis must
+id="fr_67"></span>[1](#fn_67.md) As he has well explained, analysis must
 precede synthesis. In fact, the power of what may be termed analytic
 synthesis,--the mental power which first resolves words or things into
 their elements, and then puts them together in new forms,--Is a creative
@@ -242,12 +242,12 @@ councillor.
 23\. *Aghsonh denyakokwanentonghsaeke*, etc., "as soon as he is dead"
 (or, according to another rendering, "when he is just dying") the horns
 shall be taken off. The purport and object of this law are set forth in
-the Introduction, [p. 67](ibr07.htm#page_67).
+the Introduction, [p. 67](ibr07.htm#page_67.md).
 
 24\. *Ne nayakoghstonde ne nayeghnyasakenradake*, "by reason of the neck
 being white." The law prescribed in this section to govern the
 proceedings of the Council in the case of homicide has been explained in
-the Introduction, [p. 63](ibr06.htm#page_63). The words now quoted,
+the Introduction, [p. 63](ibr06.htm#page_63.md). The words now quoted,
 however, introduce a perplexity which cannot be satisfactorily cleared
 up. The aged chief, John S. Johnson, when asked their meaning, was only
 able to say that neither he nor his fellow-councillors fully understood
@@ -272,7 +272,7 @@ sense.
 
 27\. *Enjonkwanekheren*, "we shall lose some one," or, more literally,
 we shall fail to know some person. This law, which is fully explained in
-the Introduction, [p. 70](ibr07.htm#page_70), will be found aptly
+the Introduction, [p. 70](ibr07.htm#page_70.md), will be found aptly
 exemplified in the Onondaga portion of the text, where the speeches of
 the "younger brothers" are evidently framed in strict compliance with
 the injunctions here given.
@@ -290,7 +290,7 @@ might fairly enough be rendered "prince."
 
 Kanonghsyonny, in modern orthography, *Kanonsionni*. For the origin and
 meaning of this word, and an explanation of the following section, see
-the Introduction, [p. 75](ibr08.htm#page_75).
+the Introduction, [p. 75](ibr08.htm#page_75.md).
 
 Yejodenaghstahhere kanaghsdajikowah, lit., "they added frame-poles to
 the great framework." Each of these com pounds comprises the word
@@ -390,7 +390,7 @@ Hebrew chants.
 30\. *Dekarihaokenh*, or *Tehkarihhoken*. In John Buck's MS. the list of
 chiefs is preceded by the words "*Nene Tehadirihoken*," meaning the
 Caniengas, or, literally, "the Tekarihokens." For an explanation of this
-idiom and name, see ante, [p. 77](ibr08.htm#page_77).
+idiom and name, see ante, [p. 77](ibr08.htm#page_77.md).
 
 Ayonhwahtha, or *Hayenwatha*. This name, which, as Hiawatha, is now
 familiar to us as a household word, is rendered "He who seeks the wampum
@@ -398,14 +398,14 @@ belt." Chief George Johnson thought it was derived from *oyonwa*,
 wampum-belt, and *ratiehwatha*, to look for something, or, rather, to
 seem to seek something which we know where to find. M. Cuoq refers the
 latter part of the word to the verb *katha*, to make. <span
-id="fr_68"></span>[1](#fn_68) The termination *atha* is, in this sense,
+id="fr_68"></span>[1](#fn_68.md) The termination *atha* is, in this sense,
 of frequent occurrence in Iroquois compounds. The name would then mean
 "He who makes the wampum-belt," and would account for the story which
 ascribes to Hiawatha the invention of wampum. The Senecas, in whose
 language the word *oyonwa* has ceased to exist, have corrupted the name
 to *Hayowentha*, which they render "he who combs." This form of the name
 has also produced its legend, which is referred to elsewhere ([p.
-87](ibr09.htm#page_87)). Hiawatha "combed the snakes out of Atotarho's
+87](ibr09.htm#page_87).md). Hiawatha "combed the snakes out of Atotarho's
 head," when he brought that redoubted chief into the confederacy.
 
 Shatekariwate, "two equal statements," or "two things equal." This name
@@ -417,7 +417,7 @@ class. These words, or the similar form, *etho natehadinhne*, "this was
 their number," indicate apparently that the roll of chiefs belonging to
 a particular class or clan is completed. They are followed by three
 other words which have been already explained (*ante*, pages
-[33](ibr03.htm#page_33) and [80](ibr08.htm#page_80)),
+[33](ibr03.htm#page_33) and [80](ibr08.htm#page_80).md),
 *sewaterihwakhaonghkwe*, *sewarihwisaanonghkwe*, *kayanerenhkowa*; In
 the written litany these three words are omitted toward the
 close,--probably to save the penman the labor of transcription; but in
@@ -707,7 +707,7 @@ from their northern foes.
 
 "They chose for their envoy," continues the historian, Scandawati, a man
 of renown, sixty years of age, joining with him two colleagues. <span
-id="fr_69"></span>[1](#fn_69) The old Onondaga entered on his mission
+id="fr_69"></span>[1](#fn_69.md) The old Onondaga entered on his mission
 with a troubled mind. His anxiety was not so much for his life as for
 his honor and dignity; for, while the Oneidas and the Cayugas were
 acting in concurrence with the Onondagas, the Senecas had refused any
@@ -753,7 +753,7 @@ his son." The Cayuga nation was politically the son of the Onondaga
 nation.
 
 Tekahenyonk (Onon., *Hakaenyonk*), "he looks both ways," or, "he
-examines warily." In section 28 (*ante* [p. 126](ibr12.htm#page_126))
+examines warily." In section 28 (*ante* [p. 126](ibr12.htm#page_126).md)
 this name is spelt *Akahenyonh*. The prefixed *te* is the duplicative
 particle, and gives the meaning of "spying on both sides." This and the
 following chief belong, in Canada, to the Deer clan, and constitute the
@@ -798,10 +798,10 @@ brother of the Onondaga, is, of course, the uncle of the Cayuga nation.
 
 Skanyadariyo (Onon., *Kanyataio*), "beautiful lake; originally, perhaps,
 "great lake." (See Appendix, Note B.) This name is spelt in Section 28
-(*ante*, [p. 128](ibr12.htm#page_128)) *Kanyadariyu*. The prefixed *s*
+(*ante*, [p. 128](ibr12.htm#page_128).md) *Kanyadariyu*. The prefixed *s*
 is the sign of the reiterative form, and when joined to proper names is
 regarded as a token of nobility, like the French *de*, or the German
-*von* <span id="fr_70"></span>[1](#fn_70). *Kanyadariyo*, was one of the
+*von* <span id="fr_70"></span>[1](#fn_70.md). *Kanyadariyo*, was one of the
 two leading chiefs of the Senecas at the formation of the confederacy.
 The title belongs to the Wolf clan.
 
@@ -943,7 +943,7 @@ men, and not in their capacity of nobles--just as an English peer might
 serve as an officer in the army or as an embassador. The only exceptions
 recognized by the Iroquois constitution seem to have been in the cases
 of Tekarihoken and Skanawati, who were at once nobles and war-chiefs.
-(See *ante*, pages [78](ibr08.htm#page_78) and [159](#page_159).) The
+(See *ante*, pages [78](ibr08.htm#page_78) and [159](#page_159)..md) The
 two great Seneca chiefs would therefore find it necessary to make over
 their military functions to their assistants or war-chiefs. This may
 explain the statement made by Morgan ("League of the Iroquois," p. 74)
@@ -986,23 +986,23 @@ are much more likely to vary than the words of ordinary speech.
 
 ### Footnotes
 
-<span id="fn_66"></span>[147:1](ibr14.htm#fr_66) Letters and Notes on
+<span id="fn_66"></span>[147:1](ibr14.htm#fr_66.md) Letters and Notes on
 the Manners, Customs, and Condition of the North American Indians. By
 George Catlin; p. 172.
 
-<span id="fn_67"></span>[150:1](ibr14.htm#fr_67) See the admirable
+<span id="fn_67"></span>[150:1](ibr14.htm#fr_67.md) See the admirable
 Preface to his translation of Zeisberger's Delaware Grammar, p. 94.
 
-<span id="fn_68"></span>[154:1](ibr14.htm#fr_68) Lexique de la Langue
+<span id="fn_68"></span>[154:1](ibr14.htm#fr_68.md) Lexique de la Langue
 Iroquois, p. 161.
 
-<span id="fn_69"></span>[160:1](ibr14.htm#fr_69) *Scandawati* is the
+<span id="fn_69"></span>[160:1](ibr14.htm#fr_69.md) *Scandawati* is the
 Huron--and probably the original Onondaga pronunciation of the name.
 
-<span id="fn_70"></span>[162:1](ibr14.htm#fr_70) See J. A. Cuoq:
+<span id="fn_70"></span>[162:1](ibr14.htm#fr_70.md) See J. A. Cuoq:
 *Jugement Erroné*, etc., p. 57, "Le reiteratif est comme un signe de
 noblesse dans les noms propres."
 
 ------------------------------------------------------------------------
 
-[Next: Notes On The Onondaga Book](ibr15)
+[Next: Notes On The Onondaga Book](ibr15.md)

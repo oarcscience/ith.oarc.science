@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa02)  [Next](zfa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa02)  [Next](zfa04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,19 +21,19 @@ Heritage
 
 <span id="page_3">p. 3</span>
 
-# THE SUTRA OF FORTY-TWO CHAPTERS <span id="fr_0"></span>[1](#fn_0)
+# THE SUTRA OF FORTY-TWO CHAPTERS <span id="fr_0"></span>[1](#fn_0.md)
 
 HAVING attained Buddhahood, the World-honored One thought thus: "To be
 free from the passions and to be calm, this is the most excellent Way."
 
 <span id="page_4">p. 4</span>
 
-He was absorbed in Great Meditation, <span id="fr_1"></span>[1](#fn_1)
+He was absorbed in Great Meditation, <span id="fr_1"></span>[1](#fn_1.md)
 subdued all evil ones, and in Deer Park <span
-id="fr_2"></span>[2](#fn_2) caused to revolve the Wheel of Dharma, which
-was the Fourfold Truth, <span id="fr_3"></span>[3](#fn_3) and converted
-the five Bhikshus, <span id="fr_4"></span>[4](#fn_4) Kaudinya, etc.,
-inducing them to attain Enlightenment. <span id="fr_5"></span>[5](#fn_5)
+id="fr_2"></span>[2](#fn_2.md) caused to revolve the Wheel of Dharma, which
+was the Fourfold Truth, <span id="fr_3"></span>[3](#fn_3.md) and converted
+the five Bhikshus, <span id="fr_4"></span>[4](#fn_4.md) Kaudinya, etc.,
+inducing them to attain Enlightenment. <span id="fr_5"></span>[5](#fn_5.md)
 
 Again, there were other Bhikshus who implored the Buddha to remove their
 doubts which they had concerning his doctrine. The World-honored One
@@ -47,23 +47,23 @@ instructions.
 
 \(1\) The Buddha said: "Those who leave their parents, go out of the
 home, understand the mind, reach the source, and comprehend the
-immaterial, are called Çramana. <span id="fr_6"></span>[1](#fn_6)
+immaterial, are called Çramana. <span id="fr_6"></span>[1](#fn_6.md)
 
 "Those who observe the two hundred and fifty precepts <span
-id="fr_7"></span>[2](#fn_7) of morality, who are pure and spotless in
+id="fr_7"></span>[2](#fn_7.md) of morality, who are pure and spotless in
 their behavior, and who exert themselves for the attainment of the four
-fruits of saintship, <span id="fr_8"></span>[3](#fn_8) are called
+fruits of saintship, <span id="fr_8"></span>[3](#fn_8.md) are called
 Arhats.
 
 "The Arhat is able to fly through space and assume different forms; his
 life is eternal, and there are times when he causes heaven and earth to
-quake. <span id="fr_9"></span>[4](#fn_9)
+quake. <span id="fr_9"></span>[4](#fn_9.md)
 
-"Next is the Anâgâmin. <span id="fr_10"></span>[5](#fn_10) At the end of
+"Next is the Anâgâmin. <span id="fr_10"></span>[5](#fn_10.md) At the end of
 his life, the spirit of the Anâgâmin ascends to the nineteenth heaven
 and obtains Arhatship.
 
-"Next is the Skridâgâmin. <span id="fr_11"></span>[6](#fn_11) The
+"Next is the Skridâgâmin. <span id="fr_11"></span>[6](#fn_11.md) The
 Skridâgâmin
 
 <span id="page_6">p. 6</span>
@@ -71,7 +71,7 @@ Skridâgâmin
 ascends to the heavens \[after his death\], comes back to the earth once
 more, and then attains Arhatship.
 
-"Next is the Srotaâpanna. <span id="fr_12"></span>[1](#fn_12) The
+"Next is the Srotaâpanna. <span id="fr_12"></span>[1](#fn_12.md) The
 Srotaâpanna dies seven times and is born seven times, when he finally
 attains Arhatship.
 
@@ -90,7 +90,7 @@ of all honors in itself,--this is called the Way."
 \(3\) The Buddha said: "Those who shaving their heads and faces become
 Çramanas and who receive instruction in the Way, should surrender all
 worldly possessions and be contented with whatever they obtain by
-begging. <span id="fr_13"></span>[2](#fn_13) One meal a day and one
+begging. <span id="fr_13"></span>[2](#fn_13.md) One meal a day and one
 lodging under a tree, and neither should be repeated. For what makes one
 stupid and irrational is attachments and the passions.
 
@@ -171,14 +171,14 @@ one of the Buddhas, either of the present, or of the past, or of the
 future, than to feed ten billions of Pratyekabuddhas. It is better to
 feed one who is above knowledge, onesidedness, discipline, and
 enlightenment than to feed one hundred billions of Buddhas of the past,
-present, or future." <span id="fr_14"></span>[1](#fn_14)
+present, or future." <span id="fr_14"></span>[1](#fn_14.md)
 
 <span id="page_10">p. 10</span>
 
 \(12\) The Buddha said: "There are twenty difficult things to attain
 \[or to accomplish\] in this world: (1) It is difficult for the poor to
 practise charity; (2) It is difficult for the strong and rich to observe
-the Way; <span id="fr_15"></span>[1](#fn_15) (3) It is difficult to
+the Way; <span id="fr_15"></span>[1](#fn_15) (3.md) It is difficult to
 disregard life and go to certain death; (4) It is only a favored few
 that get acquainted with a Buddhist sutra; (5) It is by rare opportunity
 that a person is born in the age of Buddha; (6) It is difficult to
@@ -191,7 +191,7 @@ learning and exhaustive in investigation; (12) It is difficult to subdue
 selfish pride; (13) It is difficult not to feel contempt toward the
 unlearned; (14) It is difficult to be one in knowledge and practice;
 (15) It is difficult not to express an opinion about others; <span
-id="fr_16"></span>[2](#fn_16) (16) It is by rare opportunity that one
+id="fr_16"></span>[2](#fn_16) (16.md) It is by rare opportunity that one
 
 <span id="page_11">p. 11</span>
 
@@ -217,7 +217,7 @@ Great is the heart that is in accord with the Way."
 illuminating?" The Buddha said: "Meekness is most powerful, for it
 harbors no evil thoughts, and, moreover, it is restful and full of
 strength. As it is free from evils, it is sure to be honored by
-all. <span id="fr_17"></span>[1](#fn_17)
+all. <span id="fr_17"></span>[1](#fn_17.md)
 
 "The most illuminating is a mind which is
 
@@ -261,10 +261,10 @@ enlightenment, you shall then find wisdom. The knowledge thus attained
 leads you anon to the Way."
 
 \(20\) The Buddha said: "You should think of the four elements <span
-id="fr_18"></span>[1](#fn_18) of which the body is composed. Each of
+id="fr_18"></span>[1](#fn_18.md) of which the body is composed. Each of
 them has its own name, and there is no such thing there known as ego. As
 there is really no ego, it is like unto a mirage." <span
-id="fr_19"></span>[2](#fn_19)
+id="fr_19"></span>[2](#fn_19.md)
 
 \(21\) The Buddha said: "Moved by their selfish desires, people seek
 after fame and glory. But when they have acquired it, they are already
@@ -327,7 +327,7 @@ leads to the path of evil. Your own will becomes trustworthy only when
 you have attained Arhatship."
 
 \(29\) The Buddha said: "O monks, you should not see women. <span
-id="fr_20"></span>[1](#fn_20) \[If you should have to see them\],
+id="fr_20"></span>[1](#fn_20.md) \[If you should have to see them\],
 refrain from talking to them. \[If you should have to talk\], you should
 reflect in a right spirit: 'I am now a homeless mendicant. In the world
 of sin, I must behave myself like unto
@@ -344,7 +344,7 @@ sensualism as those who carry hay would avoid coming near the fire."
 
 \(31\) The Buddha said: "There was once a man who, being in despair over
 his inability to control his passions, wished to mutilate himself. <span
-id="fr_21"></span>[1](#fn_21) The Buddha said to him: 'Better destroy
+id="fr_21"></span>[1](#fn_21.md) The Buddha said to him: 'Better destroy
 your own evil thoughts than do harm to your own person. The mind is
 lord. When the lord himself is calmed the servants will of themselves be
 yielding. If your mind is not cleansed of evil passions, what avails it
@@ -406,7 +406,7 @@ the dirt of evil passion, and your conduct will be unimpeachable."
 \(36\) The Buddha said: "Even if one escapes from the evil creations, it
 is one's rare fortune to be born as a human being. Even if one be born
 as human, it is one's rare fortune to be born as a man and not a
-woman. <span id="fr_22"></span>[1](#fn_22) Even if one be born a man, it
+woman. <span id="fr_22"></span>[1](#fn_22.md) Even if one be born a man, it
 is one's rare fortune to be perfect in all the six senses. Even if he be
 perfect in all the six senses, it is his rare fortune to be born in the
 middle kingdom. Even if he be born in the middle kingdom, it is his rare
@@ -485,7 +485,7 @@ as like the plants in the four seasons."
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](zfa03.htm#fr_0) This is the first Buddhist
+<span id="fn_0"></span>[3:1](zfa03.htm#fr_0.md) This is the first Buddhist
 literature ever translated into the Chinese language. It was brought
 into China by the first missionaries from Central India, A. D. 67, who
 were specially invited by the Emperor Ming of the Han Dynasty. Though
@@ -522,53 +522,53 @@ not through an exact reproduction of the original texts. The present
 sutra is undoubtedly the result of these considerations, and on this
 account it must be said to be well suited for popular reading.
 
-<span id="fn_1"></span>[4:1](zfa03.htm#fr_1) Cf. "The Practice of
-Dhyâna." ([p. 146](zfa16.htm#page_146).)
+<span id="fn_1"></span>[4:1](zfa03.htm#fr_1.md) Cf. "The Practice of
+Dhyâna." ([p. 146](zfa16.htm#page_146)..md)
 
-<span id="fn_2"></span>[4:2](zfa03.htm#fr_2) "The Story of Deer Park" is
-told elsewhere. ([p. 182](zfa19.htm#page_182).)
+<span id="fn_2"></span>[4:2](zfa03.htm#fr_2.md) "The Story of Deer Park" is
+told elsewhere. ([p. 182](zfa19.htm#page_182)..md)
 
-<span id="fn_3"></span>[4:3](zfa03.htm#fr_3) This is explained in the
+<span id="fn_3"></span>[4:3](zfa03.htm#fr_3.md) This is explained in the
 article entitled "The Wheel of the Good Law." ([p.
-101](zfa11.htm#page_101).)
+101](zfa11.htm#page_101)..md)
 
-<span id="fn_4"></span>[4:4](zfa03.htm#fr_4) Buddhist monks are called
+<span id="fn_4"></span>[4:4](zfa03.htm#fr_4.md) Buddhist monks are called
 Bhikshus, literally "beggars."
 
-<span id="fn_5"></span>[4:5](zfa03.htm#fr_5) What the Buddhists
+<span id="fn_5"></span>[4:5](zfa03.htm#fr_5.md) What the Buddhists
 understand by Enlightenment is explained in the sermons. (See [p.
-132](zfa15.htm#page_132).)
+132](zfa15.htm#page_132)..md)
 
-<span id="fn_6"></span>[5:1](zfa03.htm#fr_6) Or Çramanera, from the root
+<span id="fn_6"></span>[5:1](zfa03.htm#fr_6.md) Or Çramanera, from the root
 *çram*, "to exert oneself," "to make effort."
 
-<span id="fn_7"></span>[5:2](zfa03.htm#fr_7) This is fully explained in
+<span id="fn_7"></span>[5:2](zfa03.htm#fr_7.md) This is fully explained in
 the Vinaya texts in the *Sacred Books of the East*, Vols. XIII, XVII,
 XX.
 
-<span id="fn_8"></span>[5:3](zfa03.htm#fr_8) The Arhats, the Anâgâmins,
+<span id="fn_8"></span>[5:3](zfa03.htm#fr_8.md) The Arhats, the Anâgâmins,
 the Skridâgâmins, the Srotâpannas. These are explained below.
 
-<span id="fn_9"></span>[5:4](zfa03.htm#fr_9) This and the following
+<span id="fn_9"></span>[5:4](zfa03.htm#fr_9.md) This and the following
 three passages seem to be a gloss, incorporated in the text later by a
 copyist. Arhat, according to the traditional Chinese interpretation,
 means "one who kills robbers," that is, the robbers of passion and
 prejudice.
 
-<span id="fn_10"></span>[5:5](zfa03.htm#fr_10) Anâgâmin means "one who
+<span id="fn_10"></span>[5:5](zfa03.htm#fr_10.md) Anâgâmin means "one who
 never returns." The nineteenth heaven is called Akanishtha, the highest
 in the world of form (*rûpaloka*).
 
-<span id="fn_11"></span>[5:6](zfa03.htm#fr_11) Skridâgâmin means "one
+<span id="fn_11"></span>[5:6](zfa03.htm#fr_11.md) Skridâgâmin means "one
 who comes back."
 
-<span id="fn_12"></span>[6:1](zfa03.htm#fr_12) Srotaâpanna means "one
+<span id="fn_12"></span>[6:1](zfa03.htm#fr_12.md) Srotaâpanna means "one
 who gets in the stream."
 
-<span id="fn_13"></span>[6:2](zfa03.htm#fr_13) Cf. Luke, Xii, 33 *et
+<span id="fn_13"></span>[6:2](zfa03.htm#fr_13.md) Cf. Luke, Xii, 33 *et
 seq*.
 
-<span id="fn_14"></span>[9:1](zfa03.htm#fr_14) This seems to be a very
+<span id="fn_14"></span>[9:1](zfa03.htm#fr_14.md) This seems to be a very
 sweeping assertion on the part of the Buddha, but the principle remains
 ever true. The <span id="page_10">p. 10</span> fundamental fact of the
 religious life is purity of heart. If there is a dark corner in your
@@ -578,16 +578,16 @@ have converted so many souls, I have copied so many sacred sutras; now
 what does Your Holiness think my merit will be?" To this, Bodhidharma
 made a curt response, "No merit whatever."
 
-<span id="fn_15"></span>[10:1](zfa03.htm#fr_15) Cf. Matt. xix, 24.
+<span id="fn_15"></span>[10:1](zfa03.htm#fr_15.md) Cf. Matt. xix, 24.
 
-<span id="fn_16"></span>[10:2](zfa03.htm#fr_16) Cf. Matt. vii, 1, 2.
+<span id="fn_16"></span>[10:2](zfa03.htm#fr_16.md) Cf. Matt. vii, 1, 2.
 
-<span id="fn_17"></span>[11:1](zfa03.htm#fr_17) Matt. V, 5
+<span id="fn_17"></span>[11:1](zfa03.htm#fr_17.md) Matt. V, 5
 
-<span id="fn_18"></span>[13:1](zfa03.htm#fr_18) Earth, water, fire, and
+<span id="fn_18"></span>[13:1](zfa03.htm#fr_18.md) Earth, water, fire, and
 air.
 
-<span id="fn_19"></span>[13:2](zfa03.htm#fr_19) A Japanese poet sings:
+<span id="fn_19"></span>[13:2](zfa03.htm#fr_19.md) A Japanese poet sings:
 
 <div style="margin-left: 32px">
 
@@ -599,13 +599,13 @@ And we have the wilderness eternal."
 
 </div>
 
-<span id="fn_20"></span>[15:1](zfa03.htm#fr_20) Matt. v, 28.
+<span id="fn_20"></span>[15:1](zfa03.htm#fr_20.md) Matt. v, 28.
 
-<span id="fn_21"></span>[16:1](zfa03.htm#fr_21) Matt. V, 29 and 30.
+<span id="fn_21"></span>[16:1](zfa03.htm#fr_21.md) Matt. V, 29 and 30.
 
-<span id="fn_22"></span>[18:1](zfa03.htm#fr_22) Cf. I Cor. xi, 3, 7, 8,
+<span id="fn_22"></span>[18:1](zfa03.htm#fr_22.md) Cf. I Cor. xi, 3, 7, 8,
 9.
 
 ------------------------------------------------------------------------
 
-[Next: The God-Conception of Buddhism](zfa04)
+[Next: The God-Conception of Buddhism](zfa04.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar29)  [Next](gar31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar29)  [Next](gar31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -82,7 +82,7 @@ letters, and in *eight* lines. This number was certainly not the result
 of chance, but of deep design, for it was mystic in the highest degree,
 representing--so taught the profoundest doctor of the Gnosis,
 Marcus--the divine Ogdoad, which was the daughter of the Pythagorean
-Tetrad, the mother of all creation. <span id="fr_99"></span>[\*](#fn_98)
+Tetrad, the mother of all creation. <span id="fr_99"></span>[\*](#fn_98.md)
 The lines 2, 4, 5, consist of Greek letters used as *numerals*,
 intermixed with *siglæ*, which, from their constant occurrence upon
 monuments of a like nature, are supposed, with good reason, to be
@@ -93,19 +93,19 @@ had a *number* of his own, and which often stands instead of his proper
 
 <span id="page_199">p. 199</span>
 
-name in dedicatory inscriptions. <span id="fr_100"></span>[\*](#fn_99)
+name in dedicatory inscriptions. <span id="fr_100"></span>[\*](#fn_99.md)
 Thus, the number of Hoa (Neptune), was 40; of Ana (Pluto), 60; of Bel
 (Jupiter), 50; of the Sun, 20; of the moon, 30; of the Air, 10; of
 Nergal (Mars), 12; &e.
 
-A fragment of the *Pistis-Sophia* <span id="fr_101"></span>[†](#fn_102)
+A fragment of the *Pistis-Sophia* <span id="fr_101"></span>[†](#fn_102.md)
 supplied the "spiritual man" with a key to the right interpretation of
 similar stenography in his own creed. "These be the *Names* which I will
 give unto thee, even from the Infinite One downwards. Write the same
 with a sign (cypher), so that the sons of God may manifest (understand?)
 them out of this place. This is the name of the Immortal One, <span
-id="img_19900"></span> ![AAA OOO](img/19900.jpg). <span
-id="fr_102"></span>[‡](#fn_100) And this is the name of the Voice
+id="img_19900"></span> ![AAA OOO](img/19900.jpg.md). <span
+id="fr_102"></span>[‡](#fn_100.md) And this is the name of the Voice
 whereby the Perfect Man is moved, **ῙῙῙ**. These likewise be the
 interpretations of the names of the Mysteries. The first is **ΑΑΑ**, and
 the interpretation thereof is **ΦΦΦ**. The second, which is **ΜΜΜ**, or
@@ -118,9 +118,9 @@ interpretation thereof is **ΑΑΑ**, the which is above the throne of
 
 Lines 7, 8, are made up of vowels, variously combined, and shrouding
 from profane eyes the *Ineffable Name* <span id="img_19901"></span>
-![IAO](img/19901.jpg) which, as we are informed by many authorities (the
+![IAO](img/19901.jpg.md) which, as we are informed by many authorities (the
 most ancient and trustworthy being Diodorus Siculus), <span
-id="fr_103"></span>[§](#fn_101) was the name of the God of the Jews;
+id="fr_103"></span>[§](#fn_101.md) was the name of the God of the Jews;
 meaning thereby their mode of writing "Jehovah" in Greek characters.
 
 Line 3 consists of the seven vowels placed in their natural order. This
@@ -134,7 +134,7 @@ if we accept the statement of the writer "On Interpretations,"
 
 that the Egyptians expressed the name of the Supreme God by the seven
 vowels thus arranged--**ΙΕΗΩΟΥΑ**. <span
-id="fr_104"></span>[\*](#fn_103) But this single mystery was soon
+id="fr_104"></span>[\*](#fn_103.md) But this single mystery was soon
 refined upon, and made the basis of other and infinitely deeper
 mysteries. In an inscription found at Miletus (published by Montfaucon),
 the Holy **ΙΕΟΥΑΗΩΑΕΙΟΥΩ** is besought "to protect the city of Miletus
@@ -147,17 +147,17 @@ time the semi-Pythagorean, Marcus, had it revealed unto him that the
 seven heavens in their revelation sounded each one vowel which, all
 combined together, formed a single doxology, "the sound whereof being
 carried down to earth becomes the creator and parent of all things that
-be on earth." <span id="fr_105"></span>[†](#fn_104)
+be on earth." <span id="fr_105"></span>[†](#fn_104.md)
 
 The Greek language has but one word for *vowel* and *voice*; when
 therefore, "the seven thunders uttered their voices," the seven vowels,
 it is meant, echoed through the vault of heaven, and composed that
 mystic utterance which the sainted seer was forbidden to reveal unto
 mortals. "Seal up those things which the seven thunders uttered, and
-write them not." <span id="fr_106"></span>[‡](#fn_105) With the best
+write them not." <span id="fr_106"></span>[‡](#fn_105.md) With the best
 reason, then, is the formula inscribed on a talisman of the first class,
 for hear what the *Pistis-Sophia* delivers touching its potency. <span
-id="fr_107"></span>[§](#fn_106) "After these things his disciples said
+id="fr_107"></span>[§](#fn_106.md) "After these things his disciples said
 again unto him, Rabbi, reveal unto us the mysteries of the Light of thy
 Father, forasmuch as we have heard thee saying that there is another
 baptism of smoke, and another baptism of the Spirit of Holy Light, and
@@ -176,11 +176,11 @@ place but Light, everlasting, not to be uttered. Nothing therefore is
 more excellent than the mysteries which ye seek after, saving only the
 *mystery of the Seven Vowels and their forty and nine Powers*, and the
 numbers thereof. And no name is more excellent than all these
-(Vowels), <span id="fr_108"></span>[\*](#fn_107) a Name wherein be
+(Vowels), <span id="fr_108"></span>[\*](#fn_107.md) a Name wherein be
 contained all Names and all Lights and all Powers. Knowing therefore
 this Name, if a man shall have departed out of this body of Matter, no
 smoke (of the bottomless pit), neither any darkness, nor Ruler of the
-Sphere of Fate, <span id="fr_109"></span>[†](#fn_108) nor Angel, nor
+Sphere of Fate, <span id="fr_109"></span>[†](#fn_108.md) nor Angel, nor
 Power, shall be able to hold back the soul that knoweth that Name. But
 and if, after he shall have departed out of this world, he shall utter
 that Name unto the fire, it shall be quenched, and the darkness shall
@@ -190,7 +190,7 @@ their flame shall blaze up, so that they shall cry aloud 'Thou art holy,
 thou art holy, O Holy One of all holies!' And if he shall utter that
 Name unto the Takers-away for condemnation, and their Authorities, and
 all their Powers, nay, even unto Barbelo, <span
-id="fr_110"></span>[‡](#fn_109) and the Invisible God, and the three
+id="fr_110"></span>[‡](#fn_109.md) and the Invisible God, and the three
 Triple-powered Gods, so soon as he shall have uttered that Name in those
 places, they shall all be shaken and thrown one upon the other, so that
 they shall be ready to melt away and perish, and shall cry aloud, 'O
@@ -232,7 +232,7 @@ seat of the manufacture of vases in rock crystal. This trade served to
 keep alive the expiring Glyptic art for the only purpose for which its
 productions continued to be demanded--the manufacture of talismans,
 consignments of which must have been regularly shipped, together with
-the crystal-ware, <span id="fr_111"></span>[\*](#fn_110) to Rome, and
+the crystal-ware, <span id="fr_111"></span>[\*](#fn_110.md) to Rome, and
 equally to the other important cities of the empire.
 
 The primitive Egyptians, like the early Chaldeans, used stone in the
@@ -243,8 +243,8 @@ the regular employment of
 <span id="page_203">p. 203</span>
 
 the "Ethiopian stone" sharpened, for a dissecting-knife <span
-id="fr_112"></span>[\*](#fn_111) in the process of embalming, and
-similarly for pointing the arrows <span id="fr_113"></span>[†](#fn_112)
+id="fr_112"></span>[\*](#fn_111.md) in the process of embalming, and
+similarly for pointing the arrows <span id="fr_113"></span>[†](#fn_112.md)
 carried by the contingent of the same nation in the army of Xerxes. The
 Alexandrian citizen, half-Jew half-Greek, who had the good fortune to
 pick up this primæval implement, doubtless rejoiced in the belief that
@@ -254,7 +254,7 @@ by making it the *medium* of his most accredited spells--nay, more, by
 inventing a new formula of unusual complication and profundity whereby
 to animate its inherent powers. As regards its *substance*, the stone
 probably passed then for a *smaragdus* of exceptional magnitude, and
-that gem, as Pliny records, <span id="fr_114"></span>[‡](#fn_113) was
+that gem, as Pliny records, <span id="fr_114"></span>[‡](#fn_113.md) was
 recommended by the magi as the proper material for a talisman of
 prodigious efficacy, which, duly engraved, should baffle witchcraft,
 give success at court, avert hailstorms, and much more of like nature.
@@ -267,7 +267,7 @@ class being the green jasper and the plasma.
 Again, as regards *figure*, this celt offered in its *triangular*
 outline, that most sacred of all emblems, the mystic Delta, the form
 that signified maternity, and was the hieroglyph of the moon. This
-belief is mentioned by Plutarch, <span id="fr_115"></span>[§](#fn_114)
+belief is mentioned by Plutarch, <span id="fr_115"></span>[§](#fn_114.md)
 and explains why the triangle so often accompanies the figure of the
 sacred baboon, Luna's special attribute, on monuments, where also it is
 sometimes displayed elevated upon a column with that animal standing
@@ -292,7 +292,7 @@ It is in accordance with this notion that I have designated this celt a
 adduce my reasons for giving it what must appear to most people so
 unaccountable and highly inappropriate an appellation. *Sotacus*, who is
 quoted elsewhere by Pliny "as one of the most ancient writers on
-mineralogy," is cited by him <span id="fr_116"></span>[\*](#fn_115) "as
+mineralogy," is cited by him <span id="fr_116"></span>[\*](#fn_115.md) "as
 making two other kinds of the ceraunia, the black and the red,
 resembling *axe-heads* in shape. Of these, such as be black and round
 are sacred things; towns and fleets can be captured by their
@@ -307,12 +307,12 @@ it not been for the popular superstition that has prevailed in Germany
 from time immemorial to the present day, and of which full particulars
 are given by Anselmus Boëtius in his invaluable repertory of mediæval
 lore upon all such matters, written at the beginning of the seventeenth
-century. <span id="fr_117"></span>[†](#fn_116)
+century. <span id="fr_117"></span>[†](#fn_116.md)
 
 Under the popular names of "Strahl-hammer," "Donner-pfeil,"
 "Donner-keil," "Strahl-pfeil," "Strahl-keil" (lightning-hammer,
 thunder-arrow or club, lightning-arrow, &c.), and the Italian
-"Sagitta," <span id="fr_118"></span>[‡](#fn_117) he figures stone celts
+"Sagitta," <span id="fr_118"></span>[‡](#fn_117.md) he figures stone celts
 and hammers of five
 
 <span id="page_205">p. 205</span>
@@ -343,7 +343,7 @@ a proportionally sublime order, extending no further than to the
 prevention or the cure of ruptures in children, if placed upon their
 cradles; and also to the procuring of sleep in the case of adults. In
 our own times Justinus Kerner mentions <span
-id="fr_119"></span>[\*](#fn_118) the same names for stone celts as
+id="fr_119"></span>[\*](#fn_118.md) the same names for stone celts as
 universally popular amongst the German boors; but they are now chiefly
 valued for their efficacy in preserving cattle from the murrain, and
 consequently the finders can seldom be induced to part with them.
@@ -358,7 +358,7 @@ lived "apud Regem," that is, at the court of the King of Persia, very
 probably in the capacity of royal physician, like his countrymen
 Democedes and Ctesias. In that region he had ample opportunities of
 seeing stone celts, for Rawlinson observes <span
-id="fr_120"></span>[\*](#fn_119) that flint axes and other implements,
+id="fr_120"></span>[\*](#fn_119.md) that flint axes and other implements,
 exactly identical with the European in workmanship, are *common* in all
 the most ancient mounds of Chaldæa, those sites of primæval cities. Such
 elevations above the dead level of those interminable plains were
@@ -411,7 +411,7 @@ Signatures."
 The *Cerauniæ* of Sotacus, however, comprised, besides these primitive
 manufactures of man, other substances, it is hard to say whether
 meteorites or fossils; the nature of which remains to be discussed.
-Photius, <span id="fr_121"></span>[\*](#fn_120) after quoting the
+Photius, <span id="fr_121"></span>[\*](#fn_120.md) after quoting the
 paragraph, "I beheld the *Bætylus* moving through the air, and sometimes
 wrapped up in vestments, sometimes carried in the hands of the
 ministers," proceeds to give a summary of the wondrous tale told by the
@@ -432,7 +432,7 @@ Eusebius thereupon ran home with his prize, a distance of 210 stadia (26
 miles), without once stopping, being quite unable to control the impetus
 of the stone! He described it as "of a whitish colour, a perfect sphere,
 a span in diameter, but sometimes assuming a purple <span
-id="fr_122"></span>[\*](#fn_121) shade, and also expanding and
+id="fr_122"></span>[\*](#fn_121.md) shade, and also expanding and
 contracting its dimensions, and having letters painted on it in
 cinnabar, of which he gave the interpretation. The stone, likewise, if
 struck against the wall, returned answers to consultors in a low
@@ -441,7 +441,7 @@ obviously enough the fact that Eusebius, having had the good fortune to
 witness the descent of a meteorite, and to get possession of the same,
 told all these fables about it in order to increase the credit of the
 oracular stone (which doubtless brought him in many fees) amongst his
-credulous townsfolk. Damascius <span id="fr_123"></span>[†](#fn_122)
+credulous townsfolk. Damascius <span id="fr_123"></span>[†](#fn_122.md)
 (whose Life of Isidorus Photius is here being epitomised) adds, that
 this philosopher was of opinion that the stone was the abode of a
 spirit, though not one of the mischievous or unclean sort, nor yet one
@@ -457,14 +457,14 @@ new-born Jove, cannot be considered much more satisfactory than
 Bochart's, who, like a sound divine, discovers in it a reminiscence of
 the stone pillar which Jacob set up at Bethel, and piously endeavours to
 force Sanconiathon, who speaks of the "living" stones, the
-bæthylia, <span id="fr_124"></span>[‡](#fn_123)
+bæthylia, <span id="fr_124"></span>[‡](#fn_123.md)
 
 <span id="page_209">p. 209</span>
 
 to confirm his interpretation by correcting his text into "anointed."
 
 But this last *bætylus* is beyond all question the same thing with that
-described by the Pseudo-Orpheus, <span id="fr_125"></span>[\*](#fn_124)
+described by the Pseudo-Orpheus, <span id="fr_125"></span>[\*](#fn_124.md)
 under the names of Siderites, and the *animated Orites*, "round, black,
 ponderous, and surrounded with deeply-graven furrows." In the first of
 these epithets may easily be recognized the *ferruginous* character
@@ -509,7 +509,7 @@ pyrites. Their being found in abundance in one particular locality,
 precludes the idea of these at least being meteorites, which latter,
 besides, never assume any regular form, but look like mere fragments of
 iron slag. This explanation is strongly supported by the drawings
-Boetius gives <span id="fr_126"></span>[\*](#fn_125) of what was then
+Boetius gives <span id="fr_126"></span>[\*](#fn_125.md) of what was then
 called the "Donner-stein," or "Wetter-stein," (thunder, or storm-stone,)
 and which he very plausibly identifies with Pliny's *Brontias* "that got
 into the head of the tortoise during thunder-storms," and which is
@@ -583,7 +583,7 @@ Mr. Rolfe, of Sandwich, and subsequently in the possession of Mr. Joseph
 Mayer. This relic is now in the precious museum bestowed by his generous
 encouragement of archæological science on the town of Liverpool. The
 interpretation given in the latter instance is as follows,--I eke
-victory to great deeds. <span id="fr_127"></span>[\*](#fn_126)
+victory to great deeds. <span id="fr_127"></span>[\*](#fn_126.md)
 
 "There was another explanation given of the characters on the Danish
 stone axe. It was read--LUTHER. O.--Ludr owns namely, the weapon thus
@@ -617,61 +617,61 @@ recognised as of Carib origin, and not European.
 
 ### Footnotes
 
-<span id="fn_98"></span>[198:\*](gar30.htm#fr_99) St. Hippolytus, Refut.
+<span id="fn_98"></span>[198:\*](gar30.htm#fr_99.md) St. Hippolytus, Refut.
 Om. Hæres. vi. 50.
 
-<span id="fn_99"></span>[199:\*](gar30.htm#fr_100) On this curious
+<span id="fn_99"></span>[199:\*](gar30.htm#fr_100.md) On this curious
 subject, see Rawlinson's 'Ancient Monarchies,' iii. p. 466.
 
-<span id="fn_100"></span>[199:‡](gar30.htm#fr_102) That is, 1000 and 800
+<span id="fn_100"></span>[199:‡](gar30.htm#fr_102.md) That is, 1000 and 800
 tripled. The next numbers are 10,000 tripled, and so on.
 
-<span id="fn_101"></span>[199:§](gar30.htm#fr_103) 'Bibliotheca
+<span id="fn_101"></span>[199:§](gar30.htm#fr_103.md) 'Bibliotheca
 Historica,' i. 94.
 
-<span id="fn_102"></span>[199:†](gar30.htm#fr_101) Cap. 125.
+<span id="fn_102"></span>[199:†](gar30.htm#fr_101.md) Cap. 125.
 
-<span id="fn_103"></span>[200:\*](gar30.htm#fr_104) This is in fact a
+<span id="fn_103"></span>[200:\*](gar30.htm#fr_104.md) This is in fact a
 very correct representation, if we give each vowel its true Greek sound,
 of the Hebrew pronunciation of the word Jehovah.
 
-<span id="fn_104"></span>[200:†](gar30.htm#fr_105) Hippolytus, vi. 48.
+<span id="fn_104"></span>[200:†](gar30.htm#fr_105.md) Hippolytus, vi. 48.
 
-<span id="fn_105"></span>[200:‡](gar30.htm#fr_106) Rev. x. 4.
+<span id="fn_105"></span>[200:‡](gar30.htm#fr_106.md) Rev. x. 4.
 
-<span id="fn_106"></span>[200:§](gar30.htm#fr_107) Pistis-Sophia, cap.
+<span id="fn_106"></span>[200:§](gar30.htm#fr_107.md) Pistis-Sophia, cap.
 378.
 
-<span id="fn_107"></span>[201:\*](gar30.htm#fr_108) Evidently alluding
+<span id="fn_107"></span>[201:\*](gar30.htm#fr_108.md) Evidently alluding
 to the collocation of the vowels on our talisman.
 
-<span id="fn_108"></span>[201:†](gar30.htm#fr_109) The twelve Æons of
+<span id="fn_108"></span>[201:†](gar30.htm#fr_109.md) The twelve Æons of
 the Zodiac, the creators of the human soul, which they eagerly seek to
 catch when released from the body in which they have imprisoned it.
 
-<span id="fn_109"></span>[201:‡](gar30.htm#fr_110) The divine mother of
+<span id="fn_109"></span>[201:‡](gar30.htm#fr_110.md) The divine mother of
 the Saviour, and one of the three "Invisible Gods," cap. 359.
 
-<span id="fn_110"></span>[202:\*](gar30.htm#fr_111) "Dum tibi Niliacus
+<span id="fn_110"></span>[202:\*](gar30.htm#fr_111.md) "Dum tibi Niliacus
 portat crystalla cataplus."--Mart. xii. 72.
 
-<span id="fn_111"></span>[203:\*](gar30.htm#fr_112) ii. 86.
+<span id="fn_111"></span>[203:\*](gar30.htm#fr_112.md) ii. 86.
 
-<span id="fn_112"></span>[203:†](gar30.htm#fr_113) vii. 69.
+<span id="fn_112"></span>[203:†](gar30.htm#fr_113.md) vii. 69.
 
-<span id="fn_113"></span>[203:‡](gar30.htm#fr_114) xxxvii. 40.
+<span id="fn_113"></span>[203:‡](gar30.htm#fr_114.md) xxxvii. 40.
 
-<span id="fn_114"></span>[203:§](gar30.htm#fr_115) 'De Fide et Osiride,'
+<span id="fn_114"></span>[203:§](gar30.htm#fr_115.md) 'De Fide et Osiride,'
 cap. 75. He adds that the Pythagoreans called the equilateral triangle
 "Athene"--a curious confirmation of the tradition quoted by Aristotle,
 that the Attic goddess was one and the same with the Moon.
 
-<span id="fn_115"></span>[204:\*](gar30.htm#fr_116) xxxvii. 51.
+<span id="fn_115"></span>[204:\*](gar30.htm#fr_116.md) xxxvii. 51.
 
-<span id="fn_116"></span>[204:†](gar30.htm#fr_117) 'Gem. et Lapid.
+<span id="fn_116"></span>[204:†](gar30.htm#fr_117.md) 'Gem. et Lapid.
 Hist.' ii. cap. 261.
 
-<span id="fn_117"></span>[204:‡](gar30.htm#fr_118) "Saetta" (a vulgar
+<span id="fn_117"></span>[204:‡](gar30.htm#fr_118.md) "Saetta" (a vulgar
 Italian execration), is now restricted to the lightning-missile, the
 archer's shaft being expressed by the Teutonic "freccia," in accordance
 with the genius of the language which reserves the old Latin terms for
@@ -681,29 +681,29 @@ arrow-heads found in the *terra marna* of the primæval Umbrian towns,
 are believed by the peasantry to have this celestial origin, and are
 highly valued as portable "light-conductors."
 
-<span id="fn_118"></span>[205:\*](gar30.htm#fr_119) In his little
+<span id="fn_118"></span>[205:\*](gar30.htm#fr_119.md) In his little
 treatise on Amulets.
 
-<span id="fn_119"></span>[206:\*](gar30.htm#fr_120) 'Ancient
+<span id="fn_119"></span>[206:\*](gar30.htm#fr_120.md) 'Ancient
 Monarchies,' i. p. 120.
 
-<span id="fn_120"></span>[207:\*](gar30.htm#fr_121) 'Bibliotheca,' 1063,
+<span id="fn_120"></span>[207:\*](gar30.htm#fr_121.md) 'Bibliotheca,' 1063,
 R.
 
-<span id="fn_121"></span>[208:\*](gar30.htm#fr_122) The Greek purple
+<span id="fn_121"></span>[208:\*](gar30.htm#fr_122.md) The Greek purple
 included every shade from crimson to violet.
 
-<span id="fn_122"></span>[208:†](gar30.htm#fr_123) A stoic philosopher
+<span id="fn_122"></span>[208:†](gar30.htm#fr_123.md) A stoic philosopher
 under Justinian.
 
-<span id="fn_123"></span>[208:‡](gar30.htm#fr_124) "Moreover the god
+<span id="fn_123"></span>[208:‡](gar30.htm#fr_124.md) "Moreover the god
 Uranus devised *bæthylia*, contriving stones that moved as having life."
 
-<span id="fn_124"></span>[209:\*](gar30.htm#fr_125) Λιθικά, 355.
+<span id="fn_124"></span>[209:\*](gar30.htm#fr_125.md) Λιθικά, 355.
 
-<span id="fn_125"></span>[210:\*](gar30.htm#fr_126) ii. cap. 264.
+<span id="fn_125"></span>[210:\*](gar30.htm#fr_126.md) ii. cap. 264.
 
-<span id="fn_126"></span>[212:\*](gar30.htm#fr_127) 'Archæologia,' vol.
+<span id="fn_126"></span>[212:\*](gar30.htm#fr_127.md) 'Archæologia,' vol.
 xxxii. p. 321. A spear-head inscribed with Runes is noticed, 'Journ.
 Brit. Arch. Ass.,' vol. xxiii. p. 387. There exist certain massive rings
 of metal inscribed with Runes, that may have been, as some antiquaries
@@ -713,4 +713,4 @@ near that city.
 
 ------------------------------------------------------------------------
 
-[Next: The Agathodæmon Worship](gar31)
+[Next: The Agathodæmon Worship](gar31.md)

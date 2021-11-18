@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks18)  [Next](lks20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks18)  [Next](lks20.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,16 +44,16 @@ and thou still hast a desire to call him even from thence, thou must
 rehearse the general curse which is called the Spirits' Chain.
 
 Here followeth, therefore, the Invocation of the King: <span
-id="fr_34"></span>[1](#fn_34)
+id="fr_34"></span>[1](#fn_34.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_34"></span>[60:1](lks19.htm#fr_34) It will depend on the
+<span id="fn_34"></span>[60:1](lks19.htm#fr_34.md) It will depend on the
 quarter to which the Spirit is attributed, which of the four chief kings
 are to be invoked.
 
 ------------------------------------------------------------------------
 
-[Next: The Invocation Of The King](lks20)
+[Next: The Invocation Of The King](lks20.md)

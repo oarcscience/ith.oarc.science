@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre31)  [Next](gre33) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre31)  [Next](gre33.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ blood, as matters showed after.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII: Grettir comes out to Iceland again.](gre33)
+[Next: Chapter XXVIII: Grettir comes out to Iceland again.](gre33.md)

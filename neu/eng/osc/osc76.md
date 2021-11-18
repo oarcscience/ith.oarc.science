@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc75)  [Next](osc77) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc75)  [Next](osc77.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ semblance of the old ceremony.
 
 ------------------------------------------------------------------------
 
-[Next: (11) Horseshoe Tributes in Oakham Castle](osc77)
+[Next: (11) Horseshoe Tributes in Oakham Castle](osc77.md)

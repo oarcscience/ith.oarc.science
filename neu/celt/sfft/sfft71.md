@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft70)  [Next](sfft72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft70)  [Next](sfft72.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### LAIRD HARRY GILLES. <span id="fr_109"></span>[1](#fn_109)
+### LAIRD HARRY GILLES. <span id="fr_109"></span>[1](#fn_109.md)
 
 THE Laird Harry Gilles of Littledean was extremely fond of hunting. One
 day, as his dogs were chasing a hare, they suddenly stopped, and gave up
@@ -45,9 +45,9 @@ for witchcraft the same day in the well, by the young men of Maxton.
 
 ### Footnotes
 
-<span id="fn_109"></span>[234:1](sfft71.htm#fr_109) W. Henderson,
+<span id="fn_109"></span>[234:1](sfft71.htm#fr_109.md) W. Henderson,
 *Folk-Lore of the Northern Counties*.
 
 ------------------------------------------------------------------------
 
-[Next: The Missing Web](sfft72)
+[Next: The Missing Web](sfft72.md)

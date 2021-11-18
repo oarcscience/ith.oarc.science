@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ont00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ont.txt.gz)
+[Contents](#contents)    [Start Reading](ont00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ont.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -55,55 +55,55 @@ book in its entirety.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ont00)  
-[Preface](ont01)  
-[Contents](ont02)  
-[Introduction](ont03)  
-[Chapter I. My Introduction to the Blackfeet](ont04)  
-[Chapter II. My Adoption By Mad Wolf](ont05)  
-[Chapter III. Hunting in the Rocky Mountains](ont06)  
-[Chapter IV. A Rocky Mountain Blizzard](ont07)  
-[Chapter V. Mad Wolf Gives the Beaver Medicine Ceremonial](ont08)  
-[Chapter VI. Legend of the Beaver Medicine](ont09)  
-[Chapter VII. My Rocky Mountain Goat Hunt](ont10)  
-[Chapter VIII. Winter On the Plains](ont11)  
-[Chapter IX. Ghost Stories](ont12)  
-[Chapter X. Reminiscences of Father De Smet](ont13)  
-[Chapter XI. Sun Worship](ont14)  
-[Chapter XII. Beginning of the Sun-Dance](ont15)  
-[Chapter XIII. Marriage Customs](ont16)  
-[Chapter XIV. Forming the Sun-Dance Camp](ont17)  
-[Chapter XV. Painted Tipis](ont18)  
-[Chapter XVI. The Sun-Dance Camp](ont19)  
-[Chapter XVII. Evening Scenes in the Camp](ont20)  
-[Chapter XVIII. An Initiation Into the Medicine Pipe Society](ont21)  
-[Chapter XIX. Ceremonial Transferring the Medicine Pipe](ont22)  
-[Chapter XX. Dance of the Kisapa Society](ont23)  
-[Chapter XXI. Ceremonial of the Sun-Dance](ont24)  
-[Chapter XXII. Raising the Centre Pole](ont25)  
-[Chapter XXIII. Inside the Sun-Lodge](ont26)  
-[Chapter XXIV. Along the Old North Trail](ont27)  
-[Chapter XXV. Spotted Eagle's Mythical Stories of Old Man](ont28)  
-[Chapter XXVI. Onesta And The Bear Spear](ont29)  
-[Chapter XXVII. Camp of the Bloods](ont30)  
-[Chapter XXVIII. Camp of Brings-down-the-Sun](ont31)  
-[Chapter XXIX. Proper Names](ont32)  
-[Chapter XXX. Onesta Gives the Crow Beaver Ceremonial](ont33)  
-[Chapter XXXI. The Rival Leaders](ont34)  
-[Chapter XXXII. Events in the Life of Brings-down-the-Sun](ont35)  
-[Chapter XXXIII. The Old North Trail](ont36)  
-[Chapter XXXIV. Blackfeet Societies](ont37)  
-[Chapter XXXV. The Mutsaix (Society of Brave Dogs)](ont38)  
+<span id="contents"></span> [Title Page](ont00.md)  
+[Preface](ont01.md)  
+[Contents](ont02.md)  
+[Introduction](ont03.md)  
+[Chapter I. My Introduction to the Blackfeet](ont04.md)  
+[Chapter II. My Adoption By Mad Wolf](ont05.md)  
+[Chapter III. Hunting in the Rocky Mountains](ont06.md)  
+[Chapter IV. A Rocky Mountain Blizzard](ont07.md)  
+[Chapter V. Mad Wolf Gives the Beaver Medicine Ceremonial](ont08.md)  
+[Chapter VI. Legend of the Beaver Medicine](ont09.md)  
+[Chapter VII. My Rocky Mountain Goat Hunt](ont10.md)  
+[Chapter VIII. Winter On the Plains](ont11.md)  
+[Chapter IX. Ghost Stories](ont12.md)  
+[Chapter X. Reminiscences of Father De Smet](ont13.md)  
+[Chapter XI. Sun Worship](ont14.md)  
+[Chapter XII. Beginning of the Sun-Dance](ont15.md)  
+[Chapter XIII. Marriage Customs](ont16.md)  
+[Chapter XIV. Forming the Sun-Dance Camp](ont17.md)  
+[Chapter XV. Painted Tipis](ont18.md)  
+[Chapter XVI. The Sun-Dance Camp](ont19.md)  
+[Chapter XVII. Evening Scenes in the Camp](ont20.md)  
+[Chapter XVIII. An Initiation Into the Medicine Pipe Society](ont21.md)  
+[Chapter XIX. Ceremonial Transferring the Medicine Pipe](ont22.md)  
+[Chapter XX. Dance of the Kisapa Society](ont23.md)  
+[Chapter XXI. Ceremonial of the Sun-Dance](ont24.md)  
+[Chapter XXII. Raising the Centre Pole](ont25.md)  
+[Chapter XXIII. Inside the Sun-Lodge](ont26.md)  
+[Chapter XXIV. Along the Old North Trail](ont27.md)  
+[Chapter XXV. Spotted Eagle's Mythical Stories of Old Man](ont28.md)  
+[Chapter XXVI. Onesta And The Bear Spear](ont29.md)  
+[Chapter XXVII. Camp of the Bloods](ont30.md)  
+[Chapter XXVIII. Camp of Brings-down-the-Sun](ont31.md)  
+[Chapter XXIX. Proper Names](ont32.md)  
+[Chapter XXX. Onesta Gives the Crow Beaver Ceremonial](ont33.md)  
+[Chapter XXXI. The Rival Leaders](ont34.md)  
+[Chapter XXXII. Events in the Life of Brings-down-the-Sun](ont35.md)  
+[Chapter XXXIII. The Old North Trail](ont36.md)  
+[Chapter XXXIV. Blackfeet Societies](ont37.md)  
+[Chapter XXXV. The Mutsaix (Society of Brave Dogs)](ont38.md)  
 [Chapter XXXVI. Legends of the Friendly Medicine Grizzly and the
-Friendly Medicine Wolf](ont39)  
+Friendly Medicine Wolf](ont39.md)  
 [Chapter XXXVII. Brings-down-the-Sun Talks About Birds And The
-Stars](ont40)  
+Stars](ont40.md)  
 [Chapter XXXVIII. Legend of Poïa, the Christ Story of the
-Blackfeet](ont41)  
-[Chapter XXXIX. The Present and Future of the Blackfeet](ont42)  
-[Appendix I. Black Feet Indian Songs](ont43)  
-[Appendix II. Notes](ont44)  
-[Appendix II (continued): Catalog of Botanical Collection](ont45)  
+Blackfeet](ont41.md)  
+[Chapter XXXIX. The Present and Future of the Blackfeet](ont42.md)  
+[Appendix I. Black Feet Indian Songs](ont43.md)  
+[Appendix II. Notes](ont44.md)  
+[Appendix II (continued): Catalog of Botanical Collection](ont45.md)  
 [Appendix II (continued): Genealogical Table of Brings-down-the-Sun's
-Family](ont46)  
-[Index](ont47)  
+Family](ont46.md)  
+[Index](ont47.md)  

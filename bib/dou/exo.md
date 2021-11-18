@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](gen)  [Next](lev) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](gen)  [Next](lev.md) 
 
 ------------------------------------------------------------------------
 
@@ -4559,4 +4559,4 @@ of Israel throughout all their mansions.
 
 ------------------------------------------------------------------------
 
-[Next: Leviticus](lev)
+[Next: Leviticus](lev.md)

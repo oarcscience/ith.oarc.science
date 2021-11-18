@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal04)  [Next](goal06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal04)  [Next](goal06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -47,7 +47,7 @@ because it was without sufficient
 brain-power correctly to define the mental impulses from the cause-side.
 It was not until a comparatively advanced stage of racial progress that
 the higher light of intuition appeared. <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 Because mind always turns toward its source, consciousness toward its
 origin, man has always been a religious being; but before the reasoning
@@ -306,7 +306,7 @@ spiritual nature into a well-rounded and complete manhood.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:\*](goal05.htm#fr_0) As the terms "instinct"
+<span id="fn_0"></span>[2:\*](goal05.htm#fr_0.md) As the terms "instinct"
 and "intuition" have been confused, it may be well to state briefly
 their relative meanings. Instinct is the impulse produced upon an
 organism by the Universal Mind. It becomes intuition when the
@@ -316,4 +316,4 @@ the act which is the result of the impulse.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Existence of Higher Faculties](goal06)
+[Next: Chapter II. The Existence of Higher Faculties](goal06.md)

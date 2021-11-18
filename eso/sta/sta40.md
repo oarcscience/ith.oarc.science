@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta39)  [Next](sta41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta39)  [Next](sta41.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ however, suddenly ceased at the sound of
 
 [![TITLE PAGE OF 1616 EDITION OF CHYMISCHE HOCHZEIT: CHRISTIAN
 ROSENCREUTZ.](tn/16100.jpg)  
-Click to enlarge](img/16100.jpg)  
+Click to enlarge](img/16100.jpg.md)  
 TITLE PAGE OF 1616 EDITION OF CHYMISCHE HOCHZEIT: CHRISTIAN
 ROSENCREUTZ.  
 
@@ -287,7 +287,7 @@ the winding stairs to the great hall.
 <span id="img_16200"></span>
 
 [![KEY TO THE GREAT PHILOSOPHICAL SECRET.](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)  
+Click to enlarge](img/16200.jpg.md)  
 KEY TO THE GREAT PHILOSOPHICAL SECRET.  
 
 From Ashmole's *Theatrum Chemicum Britannicum*.
@@ -449,7 +449,7 @@ The guests, having ascended through another trap door, found
 
 [![THE UNIVERSE CREATED BY THE DUAL PRINCIPLE OF LIGHT AND
 DARKNESS.](tn/16300.jpg)  
-Click to enlarge](img/16300.jpg)  
+Click to enlarge](img/16300.jpg.md)  
 THE UNIVERSE CREATED BY THE DUAL PRINCIPLE OF LIGHT AND DARKNESS.  
 
 From Fludd's *Philosophia Mosaica*.
@@ -648,4 +648,4 @@ the Divine Source of his own nature consummates the *Hermetic Marriage*.
 
 ------------------------------------------------------------------------
 
-[Next: Bacon, Shakspere, and the Rosicrucians](sta41)
+[Next: Bacon, Shakspere, and the Rosicrucians](sta41.md)

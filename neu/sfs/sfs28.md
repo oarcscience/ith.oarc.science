@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs27)  [Next](sfs29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs27)  [Next](sfs29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ accompanying the songs a sound of tambourines and fifes. He listened, in
 no small astonishment, that, when death was raging around, people were
 rejoicing there so merrily. The noise that he heard kept continually
 approaching, and the terrified Podolian <span
-id="fr_7"></span>[\*](#fn_7) espied a swarming multitude advancing along
+id="fr_7"></span>[\*](#fn_7.md) espied a swarming multitude advancing along
 a wide road. It was a troop of strange-looking spectres that circled
 round a carriage; the carriage was black and elevated, and in it sat the
 Plague. At every step the frightful company kept increasing; for on the
@@ -60,9 +60,9 @@ shelter and food.
 
 ### Footnotes
 
-<span id="fn_7"></span>[127:\*](sfs28.htm#fr_7) A Ruthenian by
+<span id="fn_7"></span>[127:\*](sfs28.htm#fr_7.md) A Ruthenian by
 nationality, a Podolian by locality.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sfs29)
+[Next: Introduction](sfs29.md)

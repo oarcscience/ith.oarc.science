@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly61)  [Next](lly63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly61)  [Next](lly63.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ along such lines as they themselves may choose.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Retrospection and Prophecy](lly63)
+[Next: Chapter IX. Retrospection and Prophecy](lly63.md)

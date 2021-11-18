@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had27)  [Next](had29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had27)  [Next](had29.md) 
 
 ------------------------------------------------------------------------
 
@@ -298,4 +298,4 @@ no transaction can be carried on without payment of interest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI: Gifts (Hibah and Waqf)](had29)
+[Next: Chapter XXVI: Gifts (Hibah and Waqf)](had29.md)

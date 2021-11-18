@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd05)  [Next](kjd07) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd05)  [Next](kjd07.md) 
 
 ------------------------------------------------------------------------
 
@@ -796,4 +796,4 @@ FINIS.
 
 ------------------------------------------------------------------------
 
-[Next: Errata](kjd07)
+[Next: Errata](kjd07.md)

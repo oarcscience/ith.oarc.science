@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo69)  [Next](hoo71) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo69)  [Next](hoo71.md) 
 
 ------------------------------------------------------------------------
 
 ###### LXV.
 
-### TO VULCAN <span id="fr_119"></span>[\*](#fn_119)
+### TO VULCAN <span id="fr_119"></span>[\*](#fn_119.md)
 
 ###### The FUMIGATION from FRANKINCENSE and MANNA.
 
@@ -31,7 +31,7 @@ And still preserve our nature's vital flame.
 
 ### Footnotes
 
-<span id="fn_119"></span>[197:\*](hoo70.htm#fr_119) This deity,
+<span id="fn_119"></span>[197:\*](hoo70.htm#fr_119.md) This deity,
 according to Proclus, in Repub. p. 385. adorns by his artifice, the
 sensible machine of the universe, which he fills with certain reasons,
 proportions, and powers of Nature. But he requires the assistance of
@@ -40,4 +40,4 @@ means cause the pulchritude of the world.
 
 ------------------------------------------------------------------------
 
-[Next: LXVI: To Esculapius](hoo71)
+[Next: LXVI: To Esculapius](hoo71.md)

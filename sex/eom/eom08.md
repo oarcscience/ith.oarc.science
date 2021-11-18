@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](eom07)  [Next](eom09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](eom07)  [Next](eom09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -212,4 +212,4 @@ will bless the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chap. 7: Free Motherhood](eom09)
+[Next: Chap. 7: Free Motherhood](eom09.md)

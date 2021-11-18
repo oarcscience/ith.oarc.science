@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766149455/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766149455/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766149455/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](za00)    [Page
-Index](pageidx)    [Text \[Zipped\]](zatxt.zip)  
+[Contents](#contents)    [Start Reading](za00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](zatxt.zip.md)  
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ What we call the North Pole is in the center of the earth.
 
 The polar projection of the flat earth creates obvious discrepancies
 with known geography, particularly the farther south you go. [Figure
-54](img/fig54.jpg) inadvertantly illustrates this problem. The Zetetic
+54](img/fig54.jpg.md) inadvertantly illustrates this problem. The Zetetic
 map has a severly squashed South America and Africa, and Australia and
 New Zealand in the middle of the Pacific. I think that by the 19th
 century people would have noticed if Australia and Africa were thousands
@@ -94,7 +94,7 @@ circular reasoning (*e.g.*, the earth is flat, hence we can see distant
 lighthouses, hence the earth is flat).
 
 Zetetic Astronomy is a key work of flat-earth thought, just as
-Donnelly's [Atlantis, the Antediluvian World](../../atl/ataw/index) is
+Donnelly's [Atlantis, the Antediluvian World](../../atl/ataw/index.md) is
 still considered required reading on the subject of Atlantis. If you
 ever have to debate the flat earth *pro* or *con*, this book is a
 complete agenda of each point that you'll have to argue.
@@ -103,93 +103,93 @@ complete agenda of each point that you'll have to argue.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](za00)  
-[Preface to the Second Edition](za01)  
-[Contents](za02)  
-[List of Diagrams](za03)  
-[Chapter I. Zetetic and Theoretic Defined and Compared](za04)  
+<span id="contents"></span> [Title Page](za00.md)  
+[Preface to the Second Edition](za01.md)  
+[Contents](za02.md)  
+[List of Diagrams](za03.md)  
+[Chapter I. Zetetic and Theoretic Defined and Compared](za04.md)  
 <span id="section_000"></span>
 
 ### Chapter II. Experiments Demonstrating the True Form of Standing Water, and Proving the Earth to be a Plane
 
-[Introduction](za05)  
-[Experiment 1](za06)  
-[Experiment 2](za07)  
-[Experiment 3](za08)  
-[Experiment 4](za09)  
-[Experiment 5](za10)  
-[Experiment 6](za11)  
-[Experiment 7](za12)  
-[Experiment 8](za13)  
-[Experiment 9](za14)  
-[Experiment 10](za15)  
-[Experiment 11](za16)  
-[Experiment 12](za17)  
-[Experiment 13](za18)  
-[Experiment 14](za19)  
-[Experiment 15](za20)  
+[Introduction](za05.md)  
+[Experiment 1](za06.md)  
+[Experiment 2](za07.md)  
+[Experiment 3](za08.md)  
+[Experiment 4](za09.md)  
+[Experiment 5](za10.md)  
+[Experiment 6](za11.md)  
+[Experiment 7](za12.md)  
+[Experiment 8](za13.md)  
+[Experiment 9](za14.md)  
+[Experiment 10](za15.md)  
+[Experiment 11](za16.md)  
+[Experiment 12](za17.md)  
+[Experiment 13](za18.md)  
+[Experiment 14](za19.md)  
+[Experiment 15](za20.md)  
 
  
 
-[Chapter III. The Earth No Axial or Orbital Motion](za21)  
-[Chapter IV. The True Form and Magnitude of the Earth](za22)  
-[Chapter V. The True Distance of the Sun](za23)  
-[Chapter VI. The Sun's Motion, Concentric With the Polar Centre](za24)  
+[Chapter III. The Earth No Axial or Orbital Motion](za21.md)  
+[Chapter IV. The True Form and Magnitude of the Earth](za22.md)  
+[Chapter V. The True Distance of the Sun](za23.md)  
+[Chapter VI. The Sun's Motion, Concentric With the Polar Centre](za24.md)  
 [Chapter VII. The Sun's Path Expands and Contracts Daily for Six Months
-Alternately](za25)  
+Alternately](za25.md)  
 [Chapter VIII. Cause of Day and Night, Winter and Summer; and the Long
-Alternations of Light and Darkness at the Northern Centre](za26)  
-[Chapter IX. Cause Of Sunrise And Sunset.](za27)  
+Alternations of Light and Darkness at the Northern Centre](za26.md)  
+[Chapter IX. Cause Of Sunrise And Sunset.](za27.md)  
 [Chapter X. Cause of Sun Appearing Larger When Rising and Setting Than
-at Noonday](za28)  
-[Chapter XI. Cause of Solar and Lunar Eclipses](za29)  
-[Chapter XII. The Cause of Tides](za30)  
+at Noonday](za28.md)  
+[Chapter XI. Cause of Solar and Lunar Eclipses](za29.md)  
+[Chapter XII. The Cause of Tides](za30.md)  
 [Chapter XIII. The Earth's True Position in the Universe; Comparatively
 Recent Formation; Present Chemical Condition; and Approaching
-Destruction by Fire](za31)  
+Destruction by Fire](za31.md)  
 <span id="section_001"></span>
 
 ### Chapter XIV. Examination of the So-Called ''Proofs'' of the Earth's Rotundity
 
-[Why a Ship's Hull Disappears Before the Mast-Head](za32)  
-[Perspective on the Sea](za33)  
-[On the Dimensions of Ocean Waves](za34)  
-[How The Earth Is Circumnavigated](za35)  
-[Loss of Time on Sailing Westward](za36)  
-[Declination of the Pole Star](za37)  
-[The ''Dip Sector.''](za38)  
-[Variability of Pendulum Vibrations](za39)  
-[Arcs of the Meridian](za40)  
-[Sphericity Inevitable From Semi-Fluidity](za41)  
-[Degrees of Longitude](za42)  
-[''Spherical Excess''](za43)  
-[Theodolite Tangent](za44)  
-[Tangential Horizon](za45)  
-[Stations and Distances](za46)  
-[Great Circle Sailing](za47)  
-[Motion of Stars North and South](za48)  
-[Continued Daylight in the Extreme South](za49)  
-[Analogy in Favour of Rotundity](za50)  
-[Lunar Eclipse a Proof of Rotundity](za51)  
-[The Supposed Manifestation of the Rotation of the Earth](za52)  
-[Railways, and ''Earth's Centrifugal Force''](za53)  
-[Deflection of Falling Bodies](za54)  
-[Goose Roasting by Revolving Fire](za55)  
-[Difference in Solar and Sidereal Times](za56)  
-[Stations and Retrogradation of Planets](za57)  
-[Transmission of Light](za58)  
-[Precession of the Equinoxes](za59)  
-[The Planet Neptune](za60)  
-[Moon's Phases](za61)  
-[Moon's Appearance](za62)  
-[Moon Transparent](za63)  
-[Shadows on the Moon](za64)  
-[Conclusion](za65)  
+[Why a Ship's Hull Disappears Before the Mast-Head](za32.md)  
+[Perspective on the Sea](za33.md)  
+[On the Dimensions of Ocean Waves](za34.md)  
+[How The Earth Is Circumnavigated](za35.md)  
+[Loss of Time on Sailing Westward](za36.md)  
+[Declination of the Pole Star](za37.md)  
+[The ''Dip Sector.''](za38.md)  
+[Variability of Pendulum Vibrations](za39.md)  
+[Arcs of the Meridian](za40.md)  
+[Sphericity Inevitable From Semi-Fluidity](za41.md)  
+[Degrees of Longitude](za42.md)  
+[''Spherical Excess''](za43.md)  
+[Theodolite Tangent](za44.md)  
+[Tangential Horizon](za45.md)  
+[Stations and Distances](za46.md)  
+[Great Circle Sailing](za47.md)  
+[Motion of Stars North and South](za48.md)  
+[Continued Daylight in the Extreme South](za49.md)  
+[Analogy in Favour of Rotundity](za50.md)  
+[Lunar Eclipse a Proof of Rotundity](za51.md)  
+[The Supposed Manifestation of the Rotation of the Earth](za52.md)  
+[Railways, and ''Earth's Centrifugal Force''](za53.md)  
+[Deflection of Falling Bodies](za54.md)  
+[Goose Roasting by Revolving Fire](za55.md)  
+[Difference in Solar and Sidereal Times](za56.md)  
+[Stations and Retrogradation of Planets](za57.md)  
+[Transmission of Light](za58.md)  
+[Precession of the Equinoxes](za59.md)  
+[The Planet Neptune](za60.md)  
+[Moon's Phases](za61.md)  
+[Moon's Appearance](za62.md)  
+[Moon Transparent](za63.md)  
+[Shadows on the Moon](za64.md)  
+[Conclusion](za65.md)  
 
  
 
-[Chapter XV. General Summary--Application--Cui Bono](za66)  
-[''Parallax'' and his Teachings: Opinions of the Press](za67)  
-[General Index](za68)  
+[Chapter XV. General Summary--Application--Cui Bono](za66.md)  
+[''Parallax'' and his Teachings: Opinions of the Press](za67.md)  
+[General Index](za68.md)  
 [List of Works, Newspapers, Periodicals, Published Correspondence, and
-Scripture Texts Referred to or Quoted From](za69)  
+Scripture Texts Referred to or Quoted From](za69.md)  

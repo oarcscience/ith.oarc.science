@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos57)  [Next](kos59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos57)  [Next](kos59.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ THE END OF THE KEY OF SOLOMON THE KING
 
 ------------------------------------------------------------------------
 
-[Next: Ancient Fragment of the Key of Solomon](kos59)
+[Next: Ancient Fragment of the Key of Solomon](kos59.md)

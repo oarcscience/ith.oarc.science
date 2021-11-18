@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn22)  [Next](rmn24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn22)  [Next](rmn24.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Latins called *tintinnabula*.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXIII: Phallus-Hermes](rmn24)
+[Next: Plate XXIII: Phallus-Hermes](rmn24.md)

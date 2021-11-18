@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](sum04)  [Next](sum06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](sum04)  [Next](sum06.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ these concepts are revealed. It is therefore very essential that the
 reader have a clear picture of the nature of our source material, which
 consists primarily of some three thousand tablets and fragments
 inscribed in the Sumerian language and dated approximately 1750 B.
-C. [a](sum11.htm#xref_a) It is the first aim of the Introduction of the
+C. [a](sum11.htm#xref_a.md) It is the first aim of the Introduction of the
 present volume to achieve such clarification. It therefore begins with a
 brief sketch of the rather rocky road leading to the decipherment of the
 Sumerian language and continues with a brief résumé of the excavations
@@ -39,7 +39,7 @@ commentary on the course and progress of one of the more significant
 humanistic efforts of our generation.
 
 The decipherment of Sumerian differed from that of
-Accadian [3](sum10.htm#xref_3) and Egyptian in one significant detail, a
+Accadian [3](sum10.htm#xref_3.md) and Egyptian in one significant detail, a
 detail
 
 <span id="page_2">p. 2</span>
@@ -93,7 +93,7 @@ determined to copy it. The Persian version of the Behistun inscription
 consists of 414 lines; the second, now known as the Elamite version,
 consists of 263 lines; while the third, the Accadian (designated in
 earlier Assyriological literature as Assyrian or Babylonian--see note
- [3](sum10.htm#xref_3)) version, consists of 112 lines. During the years
+ [3](sum10.htm#xref_3).md) version, consists of 112 lines. During the years
 1835-37, at the risk of life and limb, Rawlinson succeeded in copying
 200 lines of the Persian version. He returned in 1844 and completed the
 copying of the Persian as well as the Elamite version. The Accadian
@@ -176,7 +176,7 @@ inhabited by the Semitic population, rightly attributed the name
 Sumerian to the language spoken by the non-Semitic people who had
 invented the cuneiform script. Nevertheless, Oppert was not immediately
 followed by the majority of the Assyriologists, and the name Accadian
-continued to be used for Sumerian for many years. [5](sum10.htm#xref_5)
+continued to be used for Sumerian for many years. [5](sum10.htm#xref_5.md)
 
 For several decades following the discovery of the existence of
 Sumerian, practically all the source material for its decipherment and
@@ -247,7 +247,7 @@ under such rulers as Hammurabi succeeded in obtaining temporary sway
 over Mesopotamia. Because of the prominence of Babylon in the second and
 first millennia B. C., the country once held and ruled by the Sumerians
 came to be known as Babylonia, a name which has continued in use to the
-present day. [4](sum10.htm#xref_4)
+present day. [4](sum10.htm#xref_4.md)
 
 (Map drawn by Marie Strobel, after one facing page 643 in *Handbuch der
 Archäologie* (München, 1939).)
@@ -260,7 +260,7 @@ Archäologie* (München, 1939).)
 
 [![MAP 1. SUMER IN THE FIRST HALF OF THE THIRD MILLENNIUM B.
 C.&lt;br&gt; (For description, see opposite page.)](tn/map01.jpg)  
-Click to enlarge](img/map01.jpg)  
+Click to enlarge](img/map01.jpg.md)  
 MAP 1. SUMER IN THE FIRST HALF OF THE THIRD MILLENNIUM B. C.  
 (For description, see opposite page.)  
 
@@ -319,7 +319,7 @@ barren territory through which it flowed. The eastern half contains the
 temple structures, including the ziggurat and the group of buildings
 which must have formed the scribal school and library; it is in this
 part of the mound that the "tablet house" was excavated. The western
-half seems to mark the remains of the city proper. [7](sum10.htm#xref_7)
+half seems to mark the remains of the city proper. [7](sum10.htm#xref_7.md)
 
  
 
@@ -328,7 +328,7 @@ half seems to mark the remains of the city proper. [7](sum10.htm#xref_7)
 [![PLATE I&lt;br&gt; A SCENE FROM THE NIPPUR EXCAVATIONS: ROOMS OF THE
 ''TABLET HOUSE.''&lt;br&gt; (For description, see opposite
 page.)](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 PLATE I  
 A SCENE FROM THE NIPPUR EXCAVATIONS: ROOMS OF THE ''TABLET HOUSE.''  
 (For description, see opposite page.)  
@@ -366,7 +366,7 @@ are lexical in character, that is, they contain Sumerian dictionary and
 grammatical material of priceless value for our study of the language,
 since they were actually compiled by the ancient scribes themselves. But
 especially noteworthy is the large group of tablets dated about 1750 B.
-C. [a](sum11.htm#xref_a) which are inscribed with the Sumerian literary
+C. [a](sum11.htm#xref_a.md) which are inscribed with the Sumerian literary
 compositions consisting of epics and myths, hymns and laments, proverbs
 and "wisdom."
 
@@ -393,11 +393,11 @@ millennium B. C., were excavated by the Oriental Institute of the
 University of Chicago in recent years. Finally in Erech, where the
 Germans conducted excavations from 1928 until the outbreak of the war, a
 large group of pictographic tablets antedating even those found at
-Jemdet Nasr has been uncovered. [8](sum10.htm#xref_8)
+Jemdet Nasr has been uncovered. [8](sum10.htm#xref_8.md)
 
 This brief survey furnishes a bird's-eye view of the Sumerian
 inscriptional finds uncovered and brought to light by legitimate
-excavations. [d](sum11.htm#xref_d) In addition, scores of thousands of
+excavations. [d](sum11.htm#xref_d.md) In addition, scores of thousands of
 tablets have been dug up clandestinely by the native Arabs in the mounds
 of Sumer, especially in the ancient sites of Larsa, Sippar, and Umma. It
 is therefore difficult to estimate the number of Sumerian tablets and
@@ -424,7 +424,7 @@ the social and economic structure of Sumerian life in the third
 millennium B. C. Moreover, the large quantity of onomastic material to
 be found in these economic documents represents a fruitful source for
 the study of the ethnic distribution in and about Sumer during this
-period. [9](sum10.htm#xref_9)
+period. [9](sum10.htm#xref_9.md)
 
 Of the Sumerian inscriptions that are not economic in character, one
 group consists of approximately six hundred building and dedicatory
@@ -437,19 +437,19 @@ dedicatory inscriptions are followed to a large extent by the later
 Accadian building inscriptions; the bilingual material, too, is of
 considerable help. All in all, therefore, except in the more complex
 instances, the Sumerian historical material is relatively simple to
-translate and interpret. [10](sum10.htm#xref_10)
+translate and interpret. [10](sum10.htm#xref_10.md)
 
 In addition to the economic and historical material described above,
 there is also a varied and important group of tablets inscribed with
 lexical and mathematical texts and with
-incantations. [11](sum10.htm#xref_11) But by far the most significant
+incantations. [11](sum10.htm#xref_11.md) But by far the most significant
 material for the study of Sumerian culture, especially in its more
 spiritual aspects, consists of a group of "literary" tablets dated about
 1750 B. C. which are inscribed with Sumerian epics and myths, hymns and
 lamentations, proverbs and "words of wisdom." And it is important to
 note that, in spite of the vast quantity of Sumerian inscriptional
 material excavated to date, only some *three thousand*
-tablets [b](sum11.htm#xref_b) and fragments, no more than one percent,
+tablets [b](sum11.htm#xref_b.md) and fragments, no more than one percent,
 are inscribed with Sumerian literary compositions. Of these three
 thousand
 
@@ -466,7 +466,7 @@ the British Museum and the Ashmolean Museum; these have been published
 in the course of several decades by King, Langdon, and Gadd. To these
 must be added an uncertain number (two hundred?) excavated in Ur which
 are to be published by Gadd of the British Museum in the near
-future. [12](sum10.htm#xref_12)
+future. [12](sum10.htm#xref_12.md)
 
 The remaining two thousand and one hundred tablets and fragments, by far
 the major part of our Sumerian literary tablets, were excavated by the
@@ -493,7 +493,7 @@ Let us now examine very briefly the nature of the contents of this
 Sumerian literature. As already mentioned, it consists of epics and
 myths, hymns and lamentations, proverbs and "wisdom" compositions. Of
 the epic tales at least nine can now be restored in large part. Six of
-these [commemorate](errata.htm#1) the feats and exploits of the great
+these [commemorate](errata.htm#1.md) the feats and exploits of the great
 Sumerian heroes Enmerkar, Lugalbanda, and especially Gilgamesh, the
 forerunner of the Greek hero Heracles; these three Sumerian heroes lived
 in all probability toward the end of the fourth and the beginning of the
@@ -506,9 +506,9 @@ prime source material for our Sumerian mythology, will be sketched with
 considerable detail in the following chapters. Only the Tammuz myths
 dealing with the dying deity and his resurrection will be omitted; the
 contents are still too obscure for reasonably safe
-interpretation. [13](sum10.htm#xref_13)
+interpretation. [13](sum10.htm#xref_13.md)
 
-The hymns are both royal and divine. [e](sum11.htm#xref_e) The latter
+The hymns are both royal and divine. [e](sum11.htm#xref_e.md) The latter
 consist of songs of praise and exaltation directed to all the more
 important deities of the Sumerian pantheon; they are quite diversified
 in size, structure, and content. The royal hymns, frequently
@@ -522,7 +522,7 @@ C. Sumer ceased to exist as a political entity. The kings of the Isin
 Dynasty which followed were Semites; nevertheless their hymns, like
 those of their predecessors, were composed and written in Sumerian,
 which continued to be used as the literary and religious language of the
-conquerors. [14](sum10.htm#xref_14)
+conquerors. [14](sum10.htm#xref_14.md)
 
 <span id="page_14">p. 14</span>
 
@@ -550,19 +550,19 @@ are as follows:
 1\. Hymn of King Shulgi (approximately 2100 B. C.).  
 2. Hymn of King Lipit-Ishtar (approximately 1950 B. C.).  
 3. Myth, "The Creation of the Pickax" (see [p.
-51](sum07.htm#page_51)).  
+51](sum07.htm#page_51).md).  
 4. Hymn to Inanna, queen of heaven.  
 5. Hymn to Enlil, the air-god.  
 6. Hymn to the temple of the mother-goddess Ninhursag in the city of
 Kesh.  
 7. Epic tale, "Gilgamesh, Enkidu, and the Nether World" (see [p.
-30](sum07.htm#page_30)).  
-8. Epic tale, "Inanna and Ebih" (see [p. 82](sum08.htm#page_82)).  
+30](sum07.htm#page_30).md).  
+8. Epic tale, "Inanna and Ebih" (see [p. 82](sum08.htm#page_82).md).  
 9. Epic tale, "Gilgamesh and Huwawa."  
 10. Epic tale, "Gilgamesh and Agga."  
-11. Myth, "Cattle and Grain" (see [p. 53](sum07.htm#page_53)).  
+11. Myth, "Cattle and Grain" (see [p. 53](sum07.htm#page_53).md).  
 12. Lamentation over the fall of Agade in the time of Naram-Sin
-([approximately](errata.htm#2) 2400 B. C.).  
+([approximately](errata.htm#2) 2400 B. C..md).  
 13. Lamentation over the destruction of Ur. This composition, consisting
 of 436 lines, has been almost completely reconstructed and published by
 the author as Assyriological Study No. 12 of the Oriental Institute of
@@ -571,13 +571,13 @@ the University of Chicago.
 15. Lamentation over the destruction of Sumer.  
 16. Epic tale, "Lugalbanda and Enmerkar."  
 17. Myth, "Inanna's Descent to the Nether World" (see [p.
-83](sum08.htm#page_83)).  
+83](sum08.htm#page_83).md).  
 18. Perhaps a hymn to Inanna.  
 19. Collection of short hymns to all the important temples of Sumer.  
 20. Wisdom compositions describing the activities of a boy training to
 be a scribe.  
 21. Wisdom composition, "Instructions of a Peasant to His
-Son." [16](sum10.htm#xref_16)
+Son." [16](sum10.htm#xref_16.md)
 
  
 
@@ -587,7 +587,7 @@ Son." [16](sum10.htm#xref_16)
 
 [![PLATE II&lt;br&gt; OLDEST LITERARY CATALOGUE&lt;br&gt; (For
 description, see opposite page.)](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 PLATE II  
 OLDEST LITERARY CATALOGUE  
 (For description, see opposite page.)  
@@ -605,14 +605,14 @@ B. C.14
 
 And so we come finally to the wisdom compositions of the Sumerians, the
 prototypes of the wisdom literature current all over the Near East and
-exemplified by the Biblical *Book of Proverbs*. [f](sum11.htm#xref_f)
+exemplified by the Biblical *Book of Proverbs*. [f](sum11.htm#xref_f.md)
 Sumerian wisdom literature consists of a large number of brief, pithy,
 and pointed proverbs and aphorisms; of various fables, such as "The Bird
 and the Fish," "The Tree and the Reed," "The Pickax and the Plow,"
 "Silver and Bronze"; and finally of a group of didactic compositions,
 long and short, several of which are devoted to a description of the
 process of learning the scribal art and of the advantages which flow
-from it. [14](sum10.htm#xref_14)
+from it. [14](sum10.htm#xref_14.md)
 
 Some adequate idea of the scope and quantity of Sumerian literature may
 be obtained from the contents of a hitherto altogether unknown tablet in
@@ -637,7 +637,7 @@ group of literary compositions for purposes of reference essential to
 the storing and filing of the respective tablets.
 
 The catalogue tablet is in almost perfect
-condition. [g](sum11.htm#xref_g) It is quite small, 2½ inches in length
+condition. [g](sum11.htm#xref_g.md) It is quite small, 2½ inches in length
 and 1½ inches in width. Small as it is, the scribe, by dividing each
 side into two columns and by using a minute script, succeeded in
 cataloguing the titles of sixty-two Sumerian literary compositions. The
@@ -655,7 +655,7 @@ Nippur catalogue. But since the title of a
 
 ### FIG. 1. THE ORIGIN AND DEVELOPMENT OF THE SUMERIAN SYSTEM OF WRITING
 
-The cuneiform system [17](sum10.htm#xref_17) of writing was probably
+The cuneiform system [17](sum10.htm#xref_17.md) of writing was probably
 originated by the Sumerians. The oldest inscriptions unearthed to
 date-over one thousand tablets and fragments from the latter half of the
 fourth millennium B. C. which were excavated in Erech in very recent
@@ -681,7 +681,7 @@ most significant of these consisted of Substituting phonetic for
 ideographic values. The table on the opposite page was prepared for the
 purpose of illustrating this two-fold development in the course of the
 centuries; a detailed description will be found in note
- [18](sum10.htm#xref_18).
+ [18](sum10.htm#xref_18.md).
 
 <span id="page_17">p. 17</span>
 
@@ -692,7 +692,7 @@ centuries; a detailed description will be found in note
 [![FIG. 1. THE ORIGIN AND DEVELOPMENT OF THE SUMERIAN SYSTEM OF
 WRITING&lt;br&gt; (For description, see opposite page and note
 18.)](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 FIG. 1. THE ORIGIN AND DEVELOPMENT OF THE SUMERIAN SYSTEM OF WRITING  
 (For description, see opposite page and note 18.)  
 
@@ -711,7 +711,7 @@ the hundreds. Should the ancient city of Eridu in southern Sumer, the
 cult center of Enki, the Sumerian god of wisdom, ever be thoroughly
 excavated, there is good reason to believe that our store of Sumerian
 literary compositions will be considerably
-enlarged. [16](sum10.htm#xref_16)
+enlarged. [16](sum10.htm#xref_16.md)
 
 So much for the scope and contents of Sumerian literature. Let us now
 turn to the problem of dating in order to see what justifies the
@@ -726,7 +726,7 @@ uncovered. The tablets
 To judge from the script, the Nippur cylinder illustrated on this plate
 (8383 in the Nippur collection of the University Museum) may date as
 early as 2500 B. C. Although copied and published by the late George
-Barton as early as 1918, [20](sum10.htm#xref_20) its contents, which
+Barton as early as 1918, [20](sum10.htm#xref_20.md) its contents, which
 center about the Sumerian air-god Enlil and the goddess Ninhursag, are
 still largely unintelligible. Nevertheless, much that was unknown or
 misunderstood at the time of its publication is now gradually becoming
@@ -740,13 +740,13 @@ This plate (from E. de Sarzec, *Découvertes en Chaldée* (Paris,
 from approximately 2250 B. C. They were excavated by the French at
 Lagash more than half a century ago, and both cylinders are now in the
 Louvre. They are inscribed with long hymns to the god Ningirsu (another
-name for the god Ninurta--see [p. 80](sum08.htm#page_80)) and his temple
+name for the god Ninurta--see [p. 80](sum08.htm#page_80).md) and his temple
 in Lagash. The style of the composition is highly advanced and points to
 a long preceding period of development, in which much literary material
 must have been composed and written down. The contents of the two Gudea
 cylinders were carefully copied and translated by the eminent French
 Assyriologist, Thureau-Dangin, as early as the first decade of our
-century. [19](sum10.htm#xref_19) The Sumerological advance of the past
+century. [19](sum10.htm#xref_19.md) The Sumerological advance of the past
 several decades, however, makes a new translation imperative.
 
  
@@ -755,7 +755,7 @@ several decades, however, makes a new translation imperative.
 
 [![PLATE III&lt;br&gt; NIPPUR ARCHAIC CYLINDER&lt;br&gt; (For
 description, see opposite page.)](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 PLATE III  
 NIPPUR ARCHAIC CYLINDER  
 (For description, see opposite page.)  
@@ -764,7 +764,7 @@ NIPPUR ARCHAIC CYLINDER
 
 [![PLATE IV&lt;br&gt; GUDEA CYLINDER (For description, see page
 18.)](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE IV  
 GUDEA CYLINDER (For description, see page 18.)  
 
@@ -776,15 +776,15 @@ themselves, to judge from the script as well as from internal evidence,
 were inscribed in the Early Post-Sumerian period, the period following
 immediately upon the fall of the Third Dynasty of Ur. Just as a rough
 point of reference, therefore, the actual writing of the tablets may be
-dated approximately 1750 B. C. [a](sum11.htm#xref_a) As for the
+dated approximately 1750 B. C. [a](sum11.htm#xref_a.md) As for the
 composition of their contents, to judge from the large group of hymns
 devoted to the kings of the Third Dynasty of Ur, much of it actually
 took place in that Neo-Sumerian period which lasted approximately from
-2150 to 2050 B. C. [h](sum11.htm#xref_h) Moreover, an analysis of the
+2150 to 2050 B. C. [h](sum11.htm#xref_h.md) Moreover, an analysis of the
 contents of the hymns inscribed on the so-called Gudea
-cylinders, [19](sum10.htm#xref_19) which date from approximately 2250 B.
+cylinders, [19](sum10.htm#xref_19.md) which date from approximately 2250 B.
 C., and of the myth inscribed on an archaic Nippur cylinder published by
-George Barton, [20](sum10.htm#xref_20) which, to judge from its script,
+George Barton, [20](sum10.htm#xref_20.md) which, to judge from its script,
 dates considerably earlier than the Gudea cylinders, clearly indicates
 that not a little of the hymnal and mythological material had already
 been composed several centuries earlier. Finally, an analysis of the
@@ -820,11 +820,11 @@ These tablets, relatively few in number, indicate that the Canaanites,
 too, had a highly developed literature at one time. They are dated
 approximately 1400 B. C., that is, they were inscribed over half a
 millennium *later* than our Sumerian literary
-tablets. [21](sum10.htm#xref_21) As for the Semitic Babylonian
+tablets. [21](sum10.htm#xref_21.md) As for the Semitic Babylonian
 literature as exemplified by such works as the "Epic of Creation," the
 "Epic of Gilgamesh," etc., it is not only considerably later than our
 Sumerian literature, but also includes much that is borrowed directly
-from it. [22](sum10.htm#xref_22)
+from it. [22](sum10.htm#xref_22.md)
 
 We turn now to the ancient literatures which have exercised the most
 profound influence on the more spiritual aspects of our civilization.
@@ -905,11 +905,11 @@ aid their study of the Sumerian language, which formed their basic
 discipline, varied considerably in make-up and structure. One of the
 most useful types is the "Chicago" syllabary, a scientific edition of
 which was recently published by Richard Hallock, of the Oriental
-Institute. [23](sum10.htm#xref_23) It is illustrated on plate V, which
+Institute. [23](sum10.htm#xref_23.md) It is illustrated on plate V, which
 is reproduced here by permission of the University of Chicago Press. It
 was inscribed in the latter part of the first millennium B. C., although
 the indications are that it was actually compiled sometime in the second
-[millennium](errata.htm#3) B. C. Each side of the tablet is divided into
+[millennium](errata.htm#3.md) B. C. Each side of the tablet is divided into
 two halves, and each half is subdivided into four columns. The second
 column contains the cuneiform sign to be explained, while the third
 column gives the name by which the Babylonian scribes identified it. The
@@ -927,7 +927,7 @@ halves. The left half contains a Sumerian grammatical unit, such as a
 substantive or verbal complex, while the right half gives its Semitic
 translation. This tablet is much older than the "Chicago" syllabary; it
 belongs to the same period as our literary material, approximately 2000
-B. C. [24](sum10.htm#xref_24)
+B. C. [24](sum10.htm#xref_24.md)
 
  
 
@@ -935,7 +935,7 @@ B. C. [24](sum10.htm#xref_24)
 
 [![PLATE V&lt;br&gt; ''CHICAGO'' SYLLABARY&lt;br&gt; (For description,
 see opposite page.)](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE V  
 ''CHICAGO'' SYLLABARY  
 (For description, see opposite page.)  
@@ -944,7 +944,7 @@ PLATE V
 
 [![PLATE VI&lt;br&gt; NIPPUR GRAMMATICAL TEXT&lt;br&gt; (For
 description, see page 22)](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 PLATE VI  
 NIPPUR GRAMMATICAL TEXT  
 (For description, see page 22)  
@@ -954,9 +954,9 @@ NIPPUR GRAMMATICAL TEXT
 <span id="page_23">p. 23</span>
 
 two decades, largely as a result of Arno Poebel's *Grundzüge der
-Sumerischen Grammatik* [25](sum10.htm#xref_25) that Sumerian grammar has
+Sumerischen Grammatik* [25](sum10.htm#xref_25.md) that Sumerian grammar has
 been put on a scientific basis. As for the lexical problems, these still
-remain serious and far from resolved. [26](sum10.htm#xref_26)
+remain serious and far from resolved. [26](sum10.htm#xref_26.md)
 
 But troublesome and distressing as the *linguistic* problems frequently
 are in the process of reconstructing and translating our literary
@@ -970,11 +970,11 @@ ancient scribes made more than one copy of any given composition. The
 breaks in one tablet may therefore frequently be restored from
 duplicating pieces which may themselves be mere broken fragments. Thus
 in the case of "Inanna's Descent to the Nether World" (see [p.
-83](sum08.htm#page_83)), I utilized fourteen different fragments. In the
+83](sum08.htm#page_83).md), I utilized fourteen different fragments. In the
 case of the recently published "Lamentation Over the Destruction of
-Ur," [15](sum10.htm#xref_15) the text was reconstructed from twenty-two
+Ur," [15](sum10.htm#xref_15.md) the text was reconstructed from twenty-two
 different fragments. And in reconstructing "The Feats and Exploits of
-Ninurta" (see [p. 80](sum08.htm#page_80)), I utilized 49 different
+Ninurta" (see [p. 80](sum08.htm#page_80).md), I utilized 49 different
 fragments. To take full advantage of these duplications and the
 consequent restorations, however, it is essential to have as much as
 possible of the source material copied and available. But of the Nippur
@@ -983,7 +983,7 @@ located in Istanbul and Philadelphia, some *two thousand* in number,
 only about *five hundred* have been copied and published to date. And
 while all of the approximately seven hundred pieces in the British
 Museum, Louvre, Berlin Museum, and Ashmolean Museum have been copied and
-published, [12](sum10.htm#xref_12) some of the more important texts did
+published, [12](sum10.htm#xref_12.md) some of the more important texts did
 not appear until a relatively recent date. Under these circumstances,
 the trustworthy and scientific reconstruction and translation of our
 Sumerian literary compositions on any major scale was obviously
@@ -998,13 +998,13 @@ died Edward Chiera, the scholar who copied more of the Nippur literary
 material than all others combined. Long a member of the faculty of the
 University of Pennsylvania, he devoted much of his time and energy
 during his stay there to the copying of more than two hundred literary
-tablets and fragments in the University [Museum](errata.htm#4). Later,
+tablets and fragments in the University [Museum](errata.htm#4.md). Later,
 when called to the rapidly expanding Oriental Institute of the
 University of Chicago as head of its Assyrian Dictionary project, he
 took his copies with him, and the Oriental Institute undertook to
 publish them in two volumes. Upon Chiera's untimely death, the editorial
 department of the Oriental Institute entrusted me with the preparation
-of these two posthumous volumes for publication. [27](sum10.htm#xref_27)
+of these two posthumous volumes for publication. [27](sum10.htm#xref_27.md)
 As the significance of the contents dawned upon me, I realized that all
 efforts to translate and interpret the material would remain
 scientifically inadequate unless and until more of the uncopied and
@@ -1041,7 +1041,7 @@ with that part of the unpublished material which I copied in the Museum
 of the Ancient Orient at Istanbul and all the relevant unpublished
 material in the University Museum at Philadelphia, I succeeded in
 reconstructing the larger parts of the texts of twenty-four Sumerian
-epics and myths; [28](sum10.htm#xref_28) this is the basic source
+epics and myths; [28](sum10.htm#xref_28.md) this is the basic source
 material for the restoration of Sumerian mythology to be sketched in the
 following chapters. As for the scientific edition of these epics and
 myths, that is, editions consisting of the reconstructed Sumerian texts
@@ -1052,4 +1052,4 @@ they should be completed in the course of the coming two or three years.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. The Scope and Significance of Sumerian
-Mythology](sum06)
+Mythology](sum06.md)

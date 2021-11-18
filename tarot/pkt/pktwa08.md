@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwa09)  [Next](pktwa07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwa09)  [Next](pktwa07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Eight
 
 <span id="img_wa08"></span> <span align="CENTER"> [![](tn/wa08.jpg)  
-Click to enlarge](img/wa08.jpg)</span>
+Click to enlarge](img/wa08.jpg.md)</span>
 
 The card represents motion through the immovable-a flight of wands
 through an open country; but they draw to the term of their course. That
@@ -34,4 +34,4 @@ domestic disputes for persons who are married.
 
 ------------------------------------------------------------------------
 
-[Next: Seven of Wands](pktwa07)
+[Next: Seven of Wands](pktwa07.md)

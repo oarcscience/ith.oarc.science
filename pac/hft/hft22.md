@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hft21)  [Next](hft23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hft21)  [Next](hft23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hawaiian Folk Tales*, by Thomas G. Thrum, \[1907\], at Intangible
 Textual Heritage
 
@@ -63,13 +63,13 @@ the heiau of Kupalaha, at Waikiki.
 
 That same day, the owl that had told Kapoi to erect a temple gathered
 all the owls from Lanai, Maui, Molokai, and Hawaii to one place at
-Kalapueo. <span id="fr_8"></span>[1](#fn_8) All those from the Koolau
+Kalapueo. <span id="fr_8"></span>[1](#fn_8.md) All those from the Koolau
 districts were assembled at Kanoniakapueo, <span
-id="fr_9"></span>[2](#fn_9) and those from Kauai and Niihau at
+id="fr_9"></span>[2](#fn_9.md) and those from Kauai and Niihau at
 Pueohulunui, near Moanalua.
 
 It was decided by the King that Kapoi should be put to death on the day
-of Kane. <span id="fr_10"></span>[3](#fn_10) When that day came, at
+of Kane. <span id="fr_10"></span>[3](#fn_10.md) When that day came, at
 daybreak the owls left their places of rendezvous and covered the whole
 sky over Honolulu; and as the King's servants seized Kapoi to put him to
 death, the owls flew at them, pecking them with their beaks and
@@ -87,15 +87,15 @@ deities venerated by the Hawaiian people.
 
 ### Footnotes
 
-<span id="fn_8"></span>[201:1](hft22.htm#fr_8) Situate beyond Diamond
+<span id="fn_8"></span>[201:1](hft22.htm#fr_8.md) Situate beyond Diamond
 Head.
 
-<span id="fn_9"></span>[201:2](hft22.htm#fr_9) In Nuuanu Valley.
+<span id="fn_9"></span>[201:2](hft22.htm#fr_9.md) In Nuuanu Valley.
 
-<span id="fn_10"></span>[201:3](hft22.htm#fr_10) When the moon is
+<span id="fn_10"></span>[201:3](hft22.htm#fr_10.md) When the moon is
 twenty-seven days old.
 
 ------------------------------------------------------------------------
 
 [Next: XX. This Land Is the Sea's, Traditional Account of an Ancient
-Hawaiian Prophecy](hft23)
+Hawaiian Prophecy](hft23.md)

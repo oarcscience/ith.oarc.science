@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste36)  [Next](ste38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste36)  [Next](ste38.md) 
 
 ------------------------------------------------------------------------
 
@@ -326,4 +326,4 @@ purposes in this case.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](ste38)
+[Next: Chapter VII](ste38.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw82)  [Next](omw84) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw82)  [Next](omw84.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ down upon them, and their city was left waste and uninhabitable.
 
 ------------------------------------------------------------------------
 
-[Next: The Gods of the Azteca](omw84)
+[Next: The Gods of the Azteca](omw84.md)

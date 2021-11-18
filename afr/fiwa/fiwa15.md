@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa14)  [Next](fiwa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa14)  [Next](fiwa16.md) 
 
 ------------------------------------------------------------------------
 
@@ -833,4 +833,4 @@ surrounding spirits.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV: Fetich--Its Relation to the Future Life--Ceremonies
-at Deaths and Funerals](fiwa16)
+at Deaths and Funerals](fiwa16.md)

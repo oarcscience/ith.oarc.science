@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pfs07)  [Next](pfs09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pfs07)  [Next](pfs09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/141914135X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ punished for her wickedness.
 
 ------------------------------------------------------------------------
 
-[Next: How the World Was Made](pfs09)
+[Next: How the World Was Made](pfs09.md)

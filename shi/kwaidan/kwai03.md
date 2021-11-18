@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai02)  [Next](kwai04) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai02)  [Next](kwai04.md) 
 
 ------------------------------------------------------------------------
 
@@ -344,4 +344,4 @@ the appellation of Mimi-nashi-Hoichi: "Hoichi-the-Earless."
 
 ------------------------------------------------------------------------
 
-[Next: Oshidori](kwai04)
+[Next: Oshidori](kwai04.md)

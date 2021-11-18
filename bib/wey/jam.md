@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](heb)  [Next](pe1) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](heb)  [Next](pe1.md) 
 
 ------------------------------------------------------------------------
 
@@ -421,4 +421,4 @@ veil over a multitude of sins.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Peter](pe1)
+[Next: 1 Peter](pe1.md)

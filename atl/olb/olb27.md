@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb26)  [Next](olb28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb26)  [Next](olb28.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ who sailed
 from the Flymeer with a fleet of 127 ships fitted out for a long voyage,
 and laden with amber, tin, copper, cloth, linen, felt, otter-skins,
 beaver and rabbit skins. He would also have taken paper from here, but
-when he saw how Kalta <span id="fr_33"></span>[\*](#fn_33) had destroyed
+when he saw how Kalta <span id="fr_33"></span>[\*](#fn_33.md) had destroyed
 the citadel he became so angry that he went off with all his people to
 Flyburgt, and out of revenge set fire to it. His admiral and some of his
 people saved the lamp and the maidens, but they could not catch Sijrhed
@@ -64,12 +64,12 @@ to be free again, and take my advice, and live under my care, come away.
 I will provide you with arms, and will watch over you. The news flew
 through the land like lightning, and before the carrier's wheel had made
 one revolution she was mistress of all the Thyriers in all our southern
-states as far as the Seine <span id="fr_34"></span>[\*](#fn_34). She
+states as far as the Seine <span id="fr_34"></span>[\*](#fn_34.md). She
 built herself a citadel on the high land to the north, and called it
 Kaltasburgh. It still exists under the name of Kêrenak. From this castle
 she ruled as a true mother, against their will, not *for* her followers,
 but *over* them, who were thenceforth called Kelts <span
-id="fr_35"></span>[†](#fn_35). The Gauls gradually obtained dominion
+id="fr_35"></span>[†](#fn_35.md). The Gauls gradually obtained dominion
 over the whole of Britain, partly because they no longer had any
 citadel; secondly, because they had there no Burgtmaagden; and thirdly,
 because they had no real lamps. From all these causes the people could
@@ -81,14 +81,14 @@ ring in his nose.
 
 ### Footnotes
 
-<span id="fn_33"></span>[93:\*](olb27.htm#fr_33) Kâlta Min-his,
+<span id="fn_33"></span>[93:\*](olb27.htm#fr_33.md) Kâlta Min-his,
 Minnesdaughter.
 
-<span id="fn_34"></span>[95:\*](olb27.htm#fr_34) Sêjene is the Seine.
+<span id="fn_34"></span>[95:\*](olb27.htm#fr_34.md) Sêjene is the Seine.
 
-<span id="fn_35"></span>[95:†](olb27.htm#fr_35) Kâltana are the Celts.
+<span id="fn_35"></span>[95:†](olb27.htm#fr_35.md) Kâltana are the Celts.
 
 ------------------------------------------------------------------------
 
 [Next: Now we shall write how it fared with Jon. It is inscribed at
-Texland.](olb28)
+Texland.](olb28.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr03)  [Next](sdr05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr03)  [Next](sdr05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ potency
 
 <span id="img_fig04"></span> <span align="CENTER"> [![Figure 4. Symbol
 of the New-Born World Soul (The Germ within the Egg)](tn/fig04.jpg)  
-Click to enlarge](img/fig04.jpg)  
+Click to enlarge](img/fig04.jpg.md)  
 Figure 4. Symbol of the New-Born World Soul (“The Germ within the
 Egg”)  
 </span>
@@ -89,7 +89,7 @@ a self-generated, and self-created being—must have been a standing
 miracle from the beginning.
 
 "The secret teaching explains the reason for this reference by the
-[symbolism](errata.htm#1) of the prehistoric races. The 'First Cause'
+[symbolism](errata.htm#1.md) of the prehistoric races. The 'First Cause'
 had no name in the beginnings. Later, it was pictured in the fancy of
 the thinkers as an ever invisible Bird that dropped an Egg into Chaos,
 which Egg became the Universe. Hence, Brahm was called 'Kalahansa,' the
@@ -180,7 +180,7 @@ is not altogether incapable (as well as human art) of being sometimes
 frustrated and disappointed by the indisposition of matter. Whereas an
 omnipotent moving power, as it could dispatch its work in a moment, so
 would it always do it infallibly and irresistibly, no ineptitude and
-[stubbornness](errata.htm#2) of matter being ever able to hinder such a
+[stubbornness](errata.htm#2.md) of matter being ever able to hinder such a
 one, or make him bungle or fumble in anything.
 
 "Therefore, since neither all things are produced fortuitously, or by
@@ -314,4 +314,4 @@ succeeding Aphorisms.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV. The Universal Androgyne](sdr05)
+[Next: Part IV. The Universal Androgyne](sdr05.md)

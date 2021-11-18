@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Next](ftft01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Next](ftft01.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,48 +29,48 @@ of attribution is left intact in all copies.
 <span id="img_cover"></span>
 
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 
 <span id="img_spine"></span>
 
 [![Spine](tn/spine.jpg)  
-Click to enlarge](img/spine.jpg)  
+Click to enlarge](img/spine.jpg.md)  
 Spine  
 
 <span id="img_endp"></span>
 
 [![End Papers](tn/endp.jpg)  
-Click to enlarge](img/endp.jpg)  
+Click to enlarge](img/endp.jpg.md)  
 End Papers  
 
 <span id="img__00100"></span>
 
 [![](tn/_00100.jpg)  
-Click to enlarge](img/_00100.jpg)
+Click to enlarge](img/_00100.jpg.md)
 
 <span id="img__00200"></span>
 
 [![](tn/_00200.jpg)  
-Click to enlarge](img/_00200.jpg)
+Click to enlarge](img/_00200.jpg.md)
 
 <span id="img_front"></span>
 
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img__00400"></span>
 
 [![](tn/_00400.jpg)  
-Click to enlarge](img/_00400.jpg)
+Click to enlarge](img/_00400.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ftft01)
+[Next: Contents](ftft01.md)

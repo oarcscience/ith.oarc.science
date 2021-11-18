@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv02)  [Next](rsv04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv02)  [Next](rsv04.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,4 +117,4 @@ direct his own behavior correctly and constructively.
 
 ------------------------------------------------------------------------
 
-[Next: I. Animism](rsv04)
+[Next: I. Animism](rsv04.md)

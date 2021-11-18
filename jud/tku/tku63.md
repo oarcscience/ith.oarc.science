@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku62)  [Next](tku64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku62)  [Next](tku64.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,8 +29,8 @@ of that inheritance.
 it is so," &c.
 
 393\. Now these be the matters which we have propounded. The
-Father <span id="fr_262"></span>[1](#fn_259) and the Mother <span
-id="fr_263"></span>[2](#fn_260) adhere unto the Ancient One, and also
+Father <span id="fr_262"></span>[1](#fn_259.md) and the Mother <span
+id="fr_263"></span>[2](#fn_260.md) adhere unto the Ancient One, and also
 unto His conformation; since they depend from the Hidden Brain,
 Concealed with all Concealments, and are connected therewith.
 
@@ -66,7 +66,7 @@ is written, Hos. xiv., 10: "True are Thy ways, O Tetragrammaton!"
 
 401\. Rabbi Schimeon spake and said: Through the whole day have I
 meditated on that saying where it is said, Ps. xxxiv. 2: "My
-Nephesch <span id="fr_264"></span>[1](#fn_261) shall rejoice in
+Nephesch <span id="fr_264"></span>[1](#fn_261.md) shall rejoice in
 Tetragrammaton, the humble shall hear thereof and rejoice;" and now that
 whole text is confirmed (*in my mind*).
 
@@ -110,7 +110,7 @@ in his stead, and the name of his city was Pau, and the name of his wife
 was Mehetabel, the daughter of Matred, the daughter of Mizaheb."
 
 412\. Assuredly this have we before explained in the Assembly. <span
-id="fr_265"></span>[1](#fn_262)
+id="fr_265"></span>[1](#fn_262.md)
 
 413\. Now, also, in the book of the teaching of Rav Hamenuna the Elder
 it is said: "And Hadar reigned in his stead." The word HDR, *Hadar*, is
@@ -142,7 +142,7 @@ with two colours--namely from ChSD, *Chesed*, Mercy; and from DIN,
 *Din*, Judgment.
 
 420\. For before the world was established Countenance beheld not
-Countenance. <span id="fr_266"></span>[1](#fn_263)
+Countenance. <span id="fr_266"></span>[1](#fn_263.md)
 
 421\. And therefore were the Prior Worlds destroyed, for the Prior
 Worlds were formed without (*equilibrated*) conformation.
@@ -174,7 +174,7 @@ namely as Male and Female.
 subsist.
 
 429\. From a Light-Bearer of insupportable brightness proceeded a
-Radiating <span id="fr_267"></span>[1](tku64.htm#fn_264) Flame, dashing
+Radiating <span id="fr_267"></span>[1](tku64.htm#fn_264.md) Flame, dashing
 off like a vast and mighty hammer those sparks which were the Prior
 Worlds.
 
@@ -194,20 +194,20 @@ Bosom of Aima, the Great Mother.
 
 ### Footnotes
 
-<span id="fn_259"></span>[298:1](tku63.htm#fr_262) Chokmah.
+<span id="fn_259"></span>[298:1](tku63.htm#fr_262.md) Chokmah.
 
-<span id="fn_260"></span>[298:2](tku63.htm#fr_263) Binah.
+<span id="fn_260"></span>[298:2](tku63.htm#fr_263.md) Binah.
 
-<span id="fn_261"></span>[299:1](tku63.htm#fr_264) See Introduction
+<span id="fn_261"></span>[299:1](tku63.htm#fr_264.md) See Introduction
 concerning the parts of the soul. Chiah, Neschamah, Ruach, and Nephesch.
 
-<span id="fn_262"></span>[300:1](tku63.htm#fr_265) See "Greater Holy
+<span id="fn_262"></span>[300:1](tku63.htm#fr_265.md) See "Greater Holy
 Assembly." ch. xlii. §§ 984-996; ch. xxvi. §§ 513-532.
 
-<span id="fn_263"></span>[301:1](tku63.htm#fr_266) See "Book of
+<span id="fn_263"></span>[301:1](tku63.htm#fr_266.md) See "Book of
 Concealed Mystery." Ch. i. §§ 2, 3. 4, *et. seq.*
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XI: Concerning the Brain of Microprosopus and its
-Connections](tku64)
+Connections](tku64.md)

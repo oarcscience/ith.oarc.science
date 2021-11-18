@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos20)  [Next](kos22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos20)  [Next](kos22.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_61">p. 61</span>
 
-## CHAPTER XVI <span id="fr_70"></span>[1](#fn_70)
+## CHAPTER XVI <span id="fr_70"></span>[1](#fn_70.md)
 
 ### HOW OPERATIONS OF MOCKERY, INVISIBILITY, AND DECEIT SHOULD BE PREPARED
 
@@ -48,7 +48,7 @@ thou mayest easily deceive the senses.
 
 ### Footnotes
 
-<span id="fn_70"></span>[61:1](kos21.htm#fr_70) This Chapter is given in
+<span id="fn_70"></span>[61:1](kos21.htm#fr_70.md) This Chapter is given in
 10862 Add. MSS., 3981 Harleian MSS., 288 King's MSS., 3091 Sloane MSS.,
 and 1307 Sloane MSS., but is wanting in 1202 Lansdowne MSS., as are all
 the Chapters of the First Book after Chap. 8.
@@ -56,4 +56,4 @@ the Chapters of the First Book after Chap. 8.
 ------------------------------------------------------------------------
 
 [Next: Chapter XVII. How Extraordinary Experiments And Operations Should
-Be Prepared](kos22)
+Be Prepared](kos22.md)

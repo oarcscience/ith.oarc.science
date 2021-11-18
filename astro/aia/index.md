@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,84 +39,84 @@ this out.
 
 This etext uses Unicode extensively to display astrological symbols; for
 instructions on viewing Unicode in your browser, refer to [this
-file](../../unicode).
+file](../../unicode.md).
 
 ------------------------------------------------------------------------
 
-[Title Page](aia00)  
-[Preface](aia01)  
-[Table of Contents](aia02)  
-[Life of William Lilly](aia03)  
-[Chapter I.](aia04)  
-[Chapter II.](aia05)  
-[Chapter III. Of the Aspects](aia06)  
+[Title Page](aia00.md)  
+[Preface](aia01.md)  
+[Table of Contents](aia02.md)  
+[Life of William Lilly](aia03.md)  
+[Chapter I.](aia04.md)  
+[Chapter II.](aia05.md)  
+[Chapter III. Of the Aspects](aia06.md)  
 [Chapter IV Of the Twelve Houses, Their Nature and
-Signification](aia07)  
-[Chapter V. Of Saturn, and his Signification](aia08)  
-[Chapter VI. Of the Planet Jupiter, and his Signification](aia09)  
+Signification](aia07.md)  
+[Chapter V. Of Saturn, and his Signification](aia08.md)  
+[Chapter VI. Of the Planet Jupiter, and his Signification](aia09.md)  
 [Chapter VII. Of the Planet Mars, and his Several
-Significations](aia10)  
+Significations](aia10.md)  
 [Chapter VIII. Of the Sun, His General and Particular
-Significations](aia11)  
+Significations](aia11.md)  
 [Chapter IX. Of the Planet Venus, and her Several Signification and
-Nature](aia12)  
+Nature](aia12.md)  
 [Chapter X. Of Mercury, and his Signification, Nature, and
-Property](aia13)  
-[Chapter XI. Of the Moon, her Properties and Significations](aia14)  
-[Chapter XII](aia15)  
+Property](aia13.md)  
+[Chapter XI. Of the Moon, her Properties and Significations](aia14.md)  
+[Chapter XII](aia15.md)  
 [Chapter XIII. Another Brief Description of the Shapes and Forms of the
-Planets](aia16)  
-[Chapter XIV. The Colours of the Planets and Signs](aia17)  
+Planets](aia16.md)  
+[Chapter XIV. The Colours of the Planets and Signs](aia17.md)  
 [Chapter XV. The Nature, Place, Countries, General Description, and
-Diseases Signified by the Twelve Signs](aia18)  
+Diseases Signified by the Twelve Signs](aia18.md)  
 [Chapter XVI. Teaching What Use May Be Made of the Former Discourse of
-the Twelve Signs](aia19)  
-[Chapter XVII. Of the Essential Dignities of the Planets](aia20)  
+the Twelve Signs](aia19.md)  
+[Chapter XVII. Of the Essential Dignities of the Planets](aia20.md)  
 [Chapter XVIII. Table of the Essential Dignities of the
-Planets](aia21)  
-[Chapter XIX. Considerations Before Judgment](aia22)  
+Planets](aia21.md)  
+[Chapter XIX. Considerations Before Judgment](aia22.md)  
 [Chapter XX. What Significator, Querent, and Quesited, are; and an
-Introduction to the Judgment of a Question.](aia23)  
+Introduction to the Judgment of a Question.](aia23.md)  
 [Chapter XXI. To Know Whether a Thing Demanded will be Brought to
-Perfection, Yea or Nay](aia24)  
+Perfection, Yea or Nay](aia24.md)  
 <span id="section_000"></span>
 
 ### The Resolution of all Manner of Questions and Demands
 
 [Chapter XXII. Questions Concerning the First House. If the Querent be
-Likely to Live Long--Yea or Not?](aia25)  
+Likely to Live Long--Yea or Not?](aia25.md)  
 [Chapter XXIII. If One Shall Find the Party at Home he Would Speak
-with?](aia26)  
-[Chapter XXIV. Of a Ship, and her Safety or Destruction](aia27)  
-[Chapter XXV. Judgments Concerning the Second House](aia28)  
+with?](aia26.md)  
+[Chapter XXIV. Of a Ship, and her Safety or Destruction](aia27.md)  
+[Chapter XXV. Judgments Concerning the Second House](aia28.md)  
 [Chapter XXVI. Of the Third House, viz. of Brethren, Sisters, Kindred,
-News, Short Journeys, etc.](aia29)  
+News, Short Journeys, etc.](aia29.md)  
 [Chapter XXVII. Of the Fourth House, and Judgments Depending
-Thereon](aia30)  
-[Chapter XXVIII. Of the Fifth House and its Questions](aia31)  
-[Chapter XXIX. Of the Sixth House](aia32)  
-[Chapter XXX. The Seventh House, and its Questions](aia33)  
+Thereon](aia30.md)  
+[Chapter XXVIII. Of the Fifth House and its Questions](aia31.md)  
+[Chapter XXIX. Of the Sixth House](aia32.md)  
+[Chapter XXX. The Seventh House, and its Questions](aia33.md)  
 [Chapter XXXI. Of the Eighth House, and its Questions: These are Death,
-Dowry, the Wife's Substance, &c.](aia34)  
+Dowry, the Wife's Substance, &c.](aia34.md)  
 [Chapter XXXII. Of The Ninth House and its Questions. Long Journeys,
-Voyages, Arts, Science, Church Preferment, Law, &c.](aia35)  
+Voyages, Arts, Science, Church Preferment, Law, &c.](aia35.md)  
 [Chapter XXXIII. The Tenth House and its Questions.--viz. Office,
-Dignity, Preferment, Government, Trade, or Profession, &c.](aia36)  
+Dignity, Preferment, Government, Trade, or Profession, &c.](aia36.md)  
 [Chapter XXXIV. Of the Eleventh House, and its Questions, viz. of
-Friends, Hopes, Property of the King, &c.](aia37)  
+Friends, Hopes, Property of the King, &c.](aia37.md)  
 [Chapter XXXV. Of the Twelfth House, and its Questions, viz. of
-Imprisonment, Great Cattle, Private Enemies, Banished Men, &c.](aia38)  
-[Aphorisms, by Zadkiel](aia39)  
+Imprisonment, Great Cattle, Private Enemies, Banished Men, &c.](aia38.md)  
+[Aphorisms, by Zadkiel](aia39.md)  
 <span id="section_001"></span>
 
 ### Appendix
 
-[Explanation of the Hieroglyphics](aia40)  
+[Explanation of the Hieroglyphics](aia40.md)  
 [Description of Persons According as the Significator may be Found in
-Each of the Twelve Signs](aia41)  
-[Effects of the Aspects Between the Significators](aia42)  
-[Of the ✶ and △ Aspects Between the Significators](aia43)  
-[The Effects of the ☐ or ☍ Aspects Between the Significators](aia44)  
+Each of the Twelve Signs](aia41.md)  
+[Effects of the Aspects Between the Significators](aia42.md)  
+[Of the ✶ and △ Aspects Between the Significators](aia43.md)  
+[The Effects of the ☐ or ☍ Aspects Between the Significators](aia44.md)  
 [List of Fixed Stars Which may be Considered in Horary
-Questions](aia45)  
-[Explanation of Terms Used in this Work](aia46)  
+Questions](aia45.md)  
+[Explanation of Terms Used in this Work](aia46.md)  

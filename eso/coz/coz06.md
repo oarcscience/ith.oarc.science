@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](coz05)  [Next](coz07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](coz05)  [Next](coz07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -249,4 +249,4 @@ Ficinus, *de Vit. Cæl. Comp*. Z.
 
 ------------------------------------------------------------------------
 
-[Next: Magical and Philosophical Precepts](coz07)
+[Next: Magical and Philosophical Precepts](coz07.md)

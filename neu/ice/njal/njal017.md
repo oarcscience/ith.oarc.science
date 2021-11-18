@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal016)  [Next](njal018) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal016)  [Next](njal018.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ the story.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Fiddle Mord's Death](njal018)
+[Next: 18. Fiddle Mord's Death](njal018.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp38)  [Next](dtp40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp38)  [Next](dtp40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -614,7 +614,7 @@ prison which is life-action; whoso is cast therein shall not come out
 till every farthing is paid. Beware, then, of doing wrong, for thou must
 bear the penalty, only thou. Verily, life is long enough to make
 payment; 'tis better to have none to make! <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 "We go now to a view of the truth that the spirit came from the Father,
 and returneth to Him after it hath fulfilled the law and the prophets;
@@ -775,9 +775,9 @@ overcoming and containing self. Will ye not pay? Then are ye doomed!
 
 ### Footnotes
 
-<span id="fn_22"></span>[311:1](dtp39.htm#fr_22) See note page
-[236](dtp28.htm#page_236).
+<span id="fn_22"></span>[311:1](dtp39.htm#fr_22.md) See note page
+[236](dtp28.htm#page_236.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Human Life On Venus](dtp40)
+[Next: Chapter V: Human Life On Venus](dtp40.md)

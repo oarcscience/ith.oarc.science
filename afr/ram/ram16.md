@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram15)  [Next](ram17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram15)  [Next](ram17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -177,7 +177,7 @@ clothing worn does not seem to have any influence on public morals. The
 Waganda clothe from head to foot, and put a man to death if he walks
 about naked in a public place, but their morality is very low, and
 offences against the Seventh Commandment are common everywhere <span
-id="fr_205"></span>[\*](#fn_205). The Boris go almost naked, and they
+id="fr_205"></span>[\*](#fn_205.md). The Boris go almost naked, and they
 are in no way noted for immodesty, but rather the opposite. The Gowane
 are exceptionally well clad, but this does not prevent their having a
 custom that
@@ -580,8 +580,8 @@ him into touch with the thought of savage men.
 
 ### Footnotes
 
-<span id="fn_205"></span>[219:\*](ram16.htm#fr_205) Felkin.
+<span id="fn_205"></span>[219:\*](ram16.htm#fr_205.md) Felkin.
 
 ------------------------------------------------------------------------
 
-[Next: Index](ram17)
+[Next: Index](ram17.md)

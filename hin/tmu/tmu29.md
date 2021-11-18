@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu28)  [Next](tmu30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu28)  [Next](tmu30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_220">p. 220</span>
 
-### VARĀHA <span id="fr_189"></span>[1](#fn_175)-UPANISHAḌ
+### VARĀHA <span id="fr_189"></span>[1](#fn_175.md)-UPANISHAḌ
 
 ### OF
 
@@ -35,7 +35,7 @@ before him in the form of a boar. He said: "Rise, rise and choose your
 boon." The sage got up and having prostrated himself before him said: "O
 Lord, I will not, in my dream, wish of thee those things that are
 desired by the worldly. All the Veḍas, Śāsṭras, Iṭihāsas <span
-id="fr_190"></span>[2](#fn_176) and all the hosts of other sciences, as
+id="fr_190"></span>[2](#fn_176.md) and all the hosts of other sciences, as
 well as Brahma and all the other Ḍevas, speak of emancipation as
 resulting from a knowledge of thy nature. So impart to me that science
 of Brahman which treats of thy nature."
@@ -46,10 +46,10 @@ others maintain that there are ninety-six. I shall relate them in their
 order. Listen with an attentive mind. The organs of sense are five,
 *viz*.: ear, skin, eye and others. The organs of action are five,
 *viz*.: mouth, hand, leg and others. Prāṇas (vital airs) are five; <span
-id="fr_191"></span>[3](#fn_177) sound and others (*viz*., rudimentary
-principles) are five. <span id="fr_192"></span>[4](#fn_178) Manas,
+id="fr_191"></span>[3](#fn_177.md) sound and others (*viz*., rudimentary
+principles) are five. <span id="fr_192"></span>[4](#fn_178.md) Manas,
 buḍḍhi, chiṭṭa and ahaṅkāra are four; <span
-id="fr_193"></span>[5](#fn_179) thus
+id="fr_193"></span>[5](#fn_179.md) thus
 
 <span id="page_221">p. 221</span>
 
@@ -66,25 +66,25 @@ growth, transformation, decay and destruction. Hunger, thirst, grief,
 delusion, old age and death are said to be the six infirmities. Skin,
 blood, flesh, fat, marrow and bones are said to be the six sheaths.
 Passion, anger, avarice, delusion, pride and malice are the six kinds of
-foes. Viśva, Ṭaijasa and Prājña <span id="fr_194"></span>[1](#fn_180)
+foes. Viśva, Ṭaijasa and Prājña <span id="fr_194"></span>[1](#fn_180.md)
 are the three aspects of the jīva. Saṭṭva, rajas and ṭamas are the three
-guṇas (qualities). Prārabḍha, <span id="fr_195"></span>[2](#fn_181)
+guṇas (qualities). Prārabḍha, <span id="fr_195"></span>[2](#fn_181.md)
 sañchiṭa and āgāmin are the three karmas. Talking, lifting, walking,
 excreting and enjoying are the five actions (of the organs of action);
 and there are also thought, certainty, egoism, compassion, memory
 (functions of manas, etc.,), complacency, sympathy and indifference: ḍik
-(the quarters), Vāyu, Sun, Varuṇa, <span id="fr_196"></span>[3](#fn_182)
-Aśvini ḍevas, <span id="fr_197"></span>[4](#fn_183) Agni, Inḍra,
-Upenḍra, <span id="fr_198"></span>[5](#fn_184) and Mṛṭyu (death): and
+(the quarters), Vāyu, Sun, Varuṇa, <span id="fr_196"></span>[3](#fn_182.md)
+Aśvini ḍevas, <span id="fr_197"></span>[4](#fn_183.md) Agni, Inḍra,
+Upenḍra, <span id="fr_198"></span>[5](#fn_184) and Mṛṭyu (death.md): and
 then the moon, the four-faced Brahma, Ruḍra, Ksheṭrajña, <span
-id="fr_199"></span>[6](#fn_185) and Īśvara. Thus these are the
+id="fr_199"></span>[6](#fn_185.md) and Īśvara. Thus these are the
 ninety-six ṭaṭṭvas. Those that worship, with devotion, me of the form of
 boar, who am other than the aggregate of these ṭaṭṭvas and am without
 decay are released from ajñāna and its effects and become jīvanmukṭas.
 Those that know these ninety-six ṭaṭṭvas will attain salvation in
 whatever order of life they may be, whether they have matted hair or are
 of shaven head or have (only) their tuft of hair on. <span
-id="fr_200"></span>[7](#fn_186) There is no doubt of this. Thus ends the
+id="fr_200"></span>[7](#fn_186.md) There is no doubt of this. Thus ends the
 first chapter."
 
 <span id="page_222">p. 222</span>
@@ -100,7 +100,7 @@ austerities and through the pleasing of the guru (by serving him
 rightly), arise to persons the four, vairāgya, etc. They are the
 discrimination of the eternal from the non-eternal; indifference to the
 enjoyments of this and the other worlds; the acquisition of the six
-virtues, śama, <span id="fr_201"></span>[1](#fn_187) etc., and the
+virtues, śama, <span id="fr_201"></span>[1](#fn_187.md) etc., and the
 longing after liberation. These should be practised. Having subdued the
 sensual organs and having given up the conception of 'mine' in all
 objects, you should place your consciousness of 'I' in (or identify
@@ -108,7 +108,7 @@ yourself with) me, who am the witness Chaiṭanya (consciousness). To be
 born as a human being is difficult—more difficult it is to be born as a
 male being—and more so is it to be born as a Brahman. Even then, if the
 fool does not cognise through the hearing, <span
-id="fr_202"></span>[2](#fn_188) etc., of veḍānṭa, the true nature of the
+id="fr_202"></span>[2](#fn_188.md) etc., of veḍānṭa, the true nature of the
 Sachchiḍānanḍa (of Brahman) that is all-pervading, and that is beyond
 all caste and orders of life, when will he obtain moksha? I alone am
 happiness. There is none other. If there is said to be another, then it
@@ -197,7 +197,7 @@ human congregation as from serpent, who regards a beautiful woman as a
 
 corpse and the endless sensual objects as poison, and who has abandoned
 all passion and is indifferent towards all objects is no other than
-Vāsuḍeva, <span id="fr_203"></span>[1](#fn_189) (*viz*.,) myself. This
+Vāsuḍeva, <span id="fr_203"></span>[1](#fn_189) (*viz*.,.md) myself. This
 is saṭya (truth). This is nothing but truth. It is truth alone that is
 now said. I am Brahman, the truth. There is naught else but I.
 
@@ -321,7 +321,7 @@ absolute Consciousness and which is remote from the differences of jīva,
 the occasion for the universe there? I am that Brahman which is all
 full. While the full moon of wisdom is robbed of its lustre by the rāhu
 (one of the two nodes of the moon) of delusion, all actions <span
-id="fr_204"></span>[1](#fn_190) such as the rites of bathing,
+id="fr_204"></span>[1](#fn_190.md) such as the rites of bathing,
 alms-giving and sacrifice performed during the time of eclipse are all
 fruitless. As salt dissolved in water becomes one, so if Āṭmā and manas
 become identified, it is termed samāḍhi. Without the grace of a good
@@ -329,11 +329,11 @@ become identified, it is termed samāḍhi. Without the grace of a good
 attainment; so also the perception of (divine) truth and the attainment
 of one's true state. Then the state of being in one's own self shines of
 its own accord in a yogin in whom jñāna-śakṭi <span
-id="fr_205"></span>[2](#fn_191) has dawned and who has abandoned all
+id="fr_205"></span>[2](#fn_191.md) has dawned and who has abandoned all
 karmas. The (property of) fluctuation is natural to mercury and mind. If
 either mercury is bound (or consolidated) or mind is bound (or
 controlled), what then on this earth cannot be accomplished? He who
-obtains mūrchchhā <span id="fr_206"></span>[3](#fn_192) cures all.
+obtains mūrchchhā <span id="fr_206"></span>[3](#fn_192.md) cures all.
 diseases. The dead are brought to life again. He who has bound (his mind
 or mercury) is able to move in the air. Therefore mercury and mind
 confer upon one the state of Brahman. The master of inḍriyas (the
@@ -381,7 +381,7 @@ subject to
 
 birth and death, happiness and misery. It is not subject to caste, law,
 family and goṭra (clan). Practise silence—I am Chiṭ which is the
-vivarṭa-upāḍāna <span id="fr_207"></span>[1](#fn_193) (*viz*., the
+vivarṭa-upāḍāna <span id="fr_207"></span>[1](#fn_193.md) (*viz*., the
 illusory cause) of the universe. Always practise silence—I am (*viz*.,
 you are) the Brahman, that is the full, the secondless, the undivided
 consciousness which has neither the relationship nor the differences
@@ -437,7 +437,7 @@ in the shortcomings of another, so if one finds out his own faults (and
 corrects them) who will not be relieved from bondage? O Lord of munis,
 only he who has not āṭmajñāna and who is not an emancipated person,
 longs after siḍḍhis. He attains such siḍḍhis through medicine, <span
-id="fr_208"></span>[1](#fn_194) (or wealth), manṭras, religious works,
+id="fr_208"></span>[1](#fn_194) (or wealth.md), manṭras, religious works,
 time and skill. In the eyes of an āṭmajñānī, these siḍḍhis are of no
 importance. One who has become an āṭmajñānī, one who has his sight
 solely on āṭmā, and one who is content with Āṭmā (the higher self)
@@ -457,12 +457,12 @@ while all the actions of his desires are controlled?"
 ##### <span class="smallcaps">Chapter</span> IV
 
 On another occasion Niḍāgha asked Lord Ṛbhu to enlighten him as to the
-characteristics of jīvanmukti. <span id="fr_209"></span>[1](#fn_195) To
+characteristics of jīvanmukti. <span id="fr_209"></span>[1](#fn_195.md) To
 which Ṛbhu replied in the affirmative and said the following:
 
 "In the seven bhūmikās or (stages of development of wisdom) there are
-four kinds of jīvanmukṭas. <span id="fr_210"></span>[1](#fn_195) Of
-these the first stage <span id="fr_211"></span>[2](#fn_196) is
+four kinds of jīvanmukṭas. <span id="fr_210"></span>[1](#fn_195.md) Of
+these the first stage <span id="fr_211"></span>[2](#fn_196.md) is
 śubhechchhā (good desire); the second is vichāraṇā (inquiry); the third
 is tanumānasī (or pertaining to the thinned mind); the fourth is
 saṭṭvāpaṭṭi (the attainment of saṭṭva); the fifth is asamsakṭi
@@ -553,7 +553,7 @@ in external actions, those that are engaged in the practice of this
 (sixth stage) are seen like one sleeping when fatigued (*viz*., being
 freed from all affinities). (Lastly) the seventh stage which is the
 ancient and which is called gūdhasupṭi <span
-id="fr_212"></span>[1](#fn_197) is generally attained. Then one remains
+id="fr_212"></span>[1](#fn_197.md) is generally attained. Then one remains
 in that secondless state without fear and with his consciousness almost
 annihilated where there is neither saṭ nor asaṭ, neither self nor
 not-self. Like an empty pot in the ākāś, there is void both within and
@@ -599,7 +599,7 @@ There is none other than Śiva. The undaunted Brāhmaṇa having known Him
 (Śiva) should attain wisdom. One need not utter many words as they but
 injure the organ of speech.
 
-"(The Ṛshi) Śuka <span id="fr_213"></span>[1](#fn_198) is a mukṭa
+"(The Ṛshi) Śuka <span id="fr_213"></span>[1](#fn_198.md) is a mukṭa
 (emancipated person). (The Ṛshi) Vāmaḍeva is a mukṭa. There are no
 others (who have attained emancipation) than through these (*viz*., the
 two
@@ -608,20 +608,20 @@ two
 
 paths of these two Ṛshis). 'Those brave men who follow the path of Śuka
 in this world become saḍyomukṭas (*viz*., emancipated) immediately after
-(the body [wears](errata.htm#16) away); while those who always follow
+(the body [wears](errata.htm#16) away.md); while those who always follow
 the path of veḍānṭa in this world are subject again and again to
 rebirths and attain krama (gradual) emancipation, through yoga, sāṅkhya
 and karmas associated with saṭṭva (guṇa). Thus there are two paths laid
 down by the Lord of Ḍevas (*viz*.,) the Śuka and Vāmaḍeva paths. The
 Śuka path is called the bird's path: while the Vāmaḍevā path is called
-the ant's path. <span id="fr_214"></span>[1](#fn_199) Those persons that
+the ant's path. <span id="fr_214"></span>[1](#fn_199.md) Those persons that
 have cognised the true nature of their Āṭmā through the mandatory and
 prohibitory injunctions (of the Veḍas), the inquiry into (the true
 meaning of) mahāvākyas (the sacred sentences of the Veḍas), the samāḍhi
 of sāṅkhya yoga or asamprajñāṭa samāḍhi <span
-id="fr_215"></span>[2](#fn_200) and that have thereby purified
+id="fr_215"></span>[2](#fn_200.md) and that have thereby purified
 themselves, attain the supreme seat through the Śuka path. Having,
-through hathayoga <span id="fr_216"></span>[3](#fn_201) practice with
+through hathayoga <span id="fr_216"></span>[3](#fn_201.md) practice with
 the pain caused by yama, postures, etc., become liable to the ever
 recurring obstacles caused by aṇimā and other (siḍḍhis) and having not
 obtained good results, one is born again in a great family and practises
@@ -646,7 +646,7 @@ Then Niḍāgha asked Lord Ṛbhu to enlighten him as to the rules (to be
 observed) in the practice of Yoga. Accordingly He (the Lord) said thus:
 
 "The body is composed of the five elements. It is filled with five
-maṇdalas (spheres). <span id="fr_217"></span>[1](#fn_202) That which is
+maṇdalas (spheres). <span id="fr_217"></span>[1](#fn_202.md) That which is
 hard is Pṛṭhivī (earth), one of them; that which is liquid is Apas; that
 which is bright is Ṭejas (fire); motion is the property of Vāyu; that
 which pervades everywhere is Ākāś. All these should be known by an
@@ -663,7 +663,7 @@ of the elements, rises up like birds flying up in the air. It is for
 this reason that it is called Uḍyāna (lit., flying up). With reference
 to this, there is said to be a banḍha (binding, also meaning a posture
 called Uddiyāṇabanḍha, by which this flight can be arrested). This
-Uddiyāṇabanḍha <span id="fr_218"></span>[2](#fn_203) is to (or does away
+Uddiyāṇabanḍha <span id="fr_218"></span>[2](#fn_203.md) is to (or does away
 with) death, as a lion to an elephant. Its experience is in the body, as
 also the banḍha. Its binding (in the body) is hurtful. If there is
 agitation of Agni (fire) within the belly, then there will be caused
@@ -674,11 +674,11 @@ should take
 <span id="page_238">p. 238</span>
 
 many times in small quantities proper and moderate food. He should
-practise Manṭrayoga, <span id="fr_219"></span>[1](#fn_204) Layayoga and
+practise Manṭrayoga, <span id="fr_219"></span>[1](#fn_204.md) Layayoga and
 Hathayoga, through mild, middling and transcendental methods (or
 periods) respectively. Laya, Manṭra, and Hathayogas have each (the same)
 eight subservients. They are yama, niyama, āsana, prāṇāyāma, praṭyāhāra,
-(Parana, ḍhyāna, and samāḍhi. <span id="fr_220"></span>[2](#fn_205) (Of
+(Parana, ḍhyāna, and samāḍhi. <span id="fr_220"></span>[2](#fn_205.md) (Of
 these), yama is of ten kinds. They are non-injury, truth, non-coveting,
 continence, compassion, straightforwardness, patience, courage, moderate
 eating, and purity (bodily and mental). Niyama is of ten kinds. They are
@@ -726,7 +726,7 @@ again covered by Kuṇdalī. Thus ten vāyus move in these nādis. A wise man
 who has understood the course of nādis and vāyus should, after keeping
 his neck and body erect with his mouth closed, contemplate immovably
 upon Ṭuryaka (Āṭmā) at the tip of his nose, in the centre of his heart
-and in the middle of binḍu, <span id="fr_221"></span>[1](#fn_206) and
+and in the middle of binḍu, <span id="fr_221"></span>[1](#fn_206.md) and
 should see, with a tranquil mind through the (mental) eyes, the nectar
 flowing from there. Having closed the anus and drawn up the vāyu and
 caused it to rise through (the repetition of) praṇava (Om), he should
@@ -801,14 +801,14 @@ perfect in the practice of expiration and restraint of breath and having
 planted evenly on the ground the two hands and the two feet, one should
 pierce the four seats through vāyu through the three yogas. He should
 shake Mahāmeru with the (aid of) prakotis (forces) <span
-id="fr_222"></span>[1](#fn_207) at the mouth of vāyu. The two putas
+id="fr_222"></span>[1](#fn_207.md) at the mouth of vāyu. The two putas
 (cavities) being drawn, vāyu throbs quickly. The union of moon, sun and
 agni should be known on account of nectar. Through the motion of Meru,
 the ḍevaṭās who stay in the centre of Meru move. At first in his
 Brahma-granṭhi, there is produced soon a hole (or passage). Then having
 pierced Brahma-granṭhi, he pierces Vishṇu-granṭhi then he pierces
 Ruḍra-granṭhi. Then to the yogin comes veḍha <span
-id="fr_223"></span>[2](#fn_208) (piercing) through his liberation from
+id="fr_223"></span>[2](#fn_208) (piercing.md) through his liberation from
 the impurities of delusion, through the religious ceremonies (performed)
 in various births, through the grace of gurus and ḍevaṭās and through
 the practice of yoga.
@@ -821,7 +821,7 @@ Muḍrā-banḍha. The short pronunciation (of Praṇava) frees (one) from
 sins: its long pronunciation confers (on one) moksha. So also its
 pronunciation in āpyāyana or pluṭa svara (tone). He is a knower of Veḍa,
 who through the above-mentioned three ways of pronunciation <span
-id="fr_224"></span>[1](#fn_209) knows the end of Praṇava which is beyond
+id="fr_224"></span>[1](#fn_209.md) knows the end of Praṇava which is beyond
 the power of speech, like the never-ceasing flow of oil or the
 long-drawn bell-sound. The short svara goes to binḍu. The long svara
 goes to brahmaranḍhra: the pluṭa to ḍvāḍaśānṭa (twelfth centre). The
@@ -854,68 +854,68 @@ spiritual seat of Vishṇu.
 
 ### Footnotes
 
-<span id="fn_175"></span>[220:1](tmu29.htm#fr_189) This means boar and
+<span id="fn_175"></span>[220:1](tmu29.htm#fr_189.md) This means boar and
 refers to the incarnation of Vishṇu as a boar.
 
-<span id="fn_176"></span>[220:2](tmu29.htm#fr_190) Books such as
+<span id="fn_176"></span>[220:2](tmu29.htm#fr_190.md) Books such as
 *Mahābhāraṭa* and *Rāmāyaṇa*.
 
-<span id="fn_177"></span>[220:3](tmu29.htm#fr_191) Prāṇa, Apāna, Uḍāna,
+<span id="fn_177"></span>[220:3](tmu29.htm#fr_191.md) Prāṇa, Apāna, Uḍāna,
 Vyāna and Samāna, having their respective places and functions in the
 body.
 
-<span id="fn_178"></span>[220:4](tmu29.htm#fr_192) Sound, touch, form,
+<span id="fn_178"></span>[220:4](tmu29.htm#fr_192.md) Sound, touch, form,
 taste and odour.
 
-<span id="fn_179"></span>[220:5](tmu29.htm#fr_193) Producing
+<span id="fn_179"></span>[220:5](tmu29.htm#fr_193.md) Producing
 respectively uncertainty, certain knowledge, fluctuation of thought, and
 egoism and having certain centres in the body.
 
-<span id="fn_180"></span>[221:1](tmu29.htm#fr_194) In the states of
+<span id="fn_180"></span>[221:1](tmu29.htm#fr_194.md) In the states of
 waking, dreaming and dreamless sleeping.
 
-<span id="fn_181"></span>[221:2](tmu29.htm#fr_195) Being past karmas now
+<span id="fn_181"></span>[221:2](tmu29.htm#fr_195.md) Being past karmas now
 being enjoyed, past karmas being in store to be enjoyed hereafter and
 the karmas now produced to be enjoyed hereafter.
 
-<span id="fn_182"></span>[221:3](tmu29.htm#fr_196) Presiding over water
+<span id="fn_182"></span>[221:3](tmu29.htm#fr_196.md) Presiding over water
 or tongue.
 
-<span id="fn_183"></span>[221:4](tmu29.htm#fr_197) Presiding over odour
+<span id="fn_183"></span>[221:4](tmu29.htm#fr_197.md) Presiding over odour
 or nose.
 
-<span id="fn_184"></span>[221:5](tmu29.htm#fr_198) Presiding over leg or
+<span id="fn_184"></span>[221:5](tmu29.htm#fr_198.md) Presiding over leg or
 nether world.
 
-<span id="fn_185"></span>[221:6](tmu29.htm#fr_199) Vide the translation
+<span id="fn_185"></span>[221:6](tmu29.htm#fr_199.md) Vide the translation
 of Sarvasāra-Upanishaḍ.
 
-<span id="fn_186"></span>[221:7](tmu29.htm#fr_200) This refers to the
+<span id="fn_186"></span>[221:7](tmu29.htm#fr_200.md) This refers to the
 several class of persons in different modes of life who wear their hair
 in different ways as yogins, ascetics and so on.
 
-<span id="fn_187"></span>[222:1](tmu29.htm#fr_201) Meaning respectively
+<span id="fn_187"></span>[222:1](tmu29.htm#fr_201.md) Meaning respectively
 mental restraint, bodily restraint, the renunciation or practising of
 works without reference to their fruits, endurance of heart and soul,
 etc., faith and settled peace of mind.
 
-<span id="fn_188"></span>[222:2](tmu29.htm#fr_202) Meaning meditation
+<span id="fn_188"></span>[222:2](tmu29.htm#fr_202.md) Meaning meditation
 and reflection thereon.
 
-<span id="fn_189"></span>[225:1](tmu29.htm#fr_203) *Viz*., Vishṇu, the
+<span id="fn_189"></span>[225:1](tmu29.htm#fr_203.md) *Viz*., Vishṇu, the
 Lord of all persons.
 
-<span id="fn_190"></span>[228:1](tmu29.htm#fr_204) During the solar and
+<span id="fn_190"></span>[228:1](tmu29.htm#fr_204.md) During the solar and
 lunar eclipses, these rites are done by the Hinḍūs.
 
-<span id="fn_191"></span>[228:2](tmu29.htm#fr_205) Of the six sakṭis,
+<span id="fn_191"></span>[228:2](tmu29.htm#fr_205.md) Of the six sakṭis,
 she is one that gives wisdom.
 
-<span id="fn_192"></span>[228:3](tmu29.htm#fr_206) Either controlling
+<span id="fn_192"></span>[228:3](tmu29.htm#fr_206.md) Either controlling
 the breath through prāṇāyāma or the consolidation of mercury through
 some means, leading in both cases to siḍḍhis, etc.
 
-<span id="fn_193"></span>[230:1](tmu29.htm#fr_207) Of the two causes of
+<span id="fn_193"></span>[230:1](tmu29.htm#fr_207.md) Of the two causes of
 the universe, Spirit is the nimiṭṭa (instrumental) cause while matter is
 the upāḍāna (material) cause. This material cause is again subdivided
 into three: *viz*., ārambha (initial), pariṇāma (changed) and vivarṭa
@@ -927,33 +927,33 @@ place in the milk which becomes curd; the third by a serpent being the
 illusory cause of a rope, for here through illusion we mistake the rope
 for the serpent.
 
-<span id="fn_194"></span>[231:1](tmu29.htm#fr_208) The mystic Hinḍū
+<span id="fn_194"></span>[231:1](tmu29.htm#fr_208.md) The mystic Hinḍū
 Tamil books teem with works on medicine through which the higher siḍḍhis
 can be developed.
 
-<span id="fn_195"></span>[232:1](tmu29.htm#fr_210) Jīvanmukṭi is
+<span id="fn_195"></span>[232:1](tmu29.htm#fr_210.md) Jīvanmukṭi is
 emancipation. Jīvanmukṭas are those that have attained emancipation.
 
-<span id="fn_196"></span>[232:2](tmu29.htm#fr_211) This word and others
+<span id="fn_196"></span>[232:2](tmu29.htm#fr_211.md) This word and others
 are explained in full later on in the text.
 
-<span id="fn_197"></span>[234:1](tmu29.htm#fr_212) Lit., secret sleep.
+<span id="fn_197"></span>[234:1](tmu29.htm#fr_212.md) Lit., secret sleep.
 
-<span id="fn_198"></span>[235:1](tmu29.htm#fr_213) Suka is a Ṛshi, the
+<span id="fn_198"></span>[235:1](tmu29.htm#fr_213.md) Suka is a Ṛshi, the
 son of the present Vyāsa and the narrator of *Bhāgavaṭa Purāṇa*.
 Vāmaḍeva is also a Ṛshi.
 
-<span id="fn_199"></span>[236:1](tmu29.htm#fr_214) Bird's path, like
+<span id="fn_199"></span>[236:1](tmu29.htm#fr_214.md) Bird's path, like
 birds which fly at once to the place they intend to go; Ant's path, like
 ants which move slowly.
 
-<span id="fn_200"></span>[236:2](tmu29.htm#fr_215) It is that of intense
+<span id="fn_200"></span>[236:2](tmu29.htm#fr_215.md) It is that of intense
 self-absorption when one loses his consciousness of individuality.
 
-<span id="fn_201"></span>[236:3](tmu29.htm#fr_216) Hathayoga, as stated
+<span id="fn_201"></span>[236:3](tmu29.htm#fr_216.md) Hathayoga, as stated
 in Paṭañjali's Yoga Philosophy.
 
-<span id="fn_202"></span>[237:1](tmu29.htm#fr_217) There are either the
+<span id="fn_202"></span>[237:1](tmu29.htm#fr_217.md) There are either the
 five elements or Mūlāḍhāra (sacral plexus), Svāḍhishthāna (epigastric or
 prostatic plexus), Maṇipūraka (solar plexus), Anāhata (cardiac plexus)
 and Visuḍḍhi (laryngeal or pharyngeal plexus). These are situated
@@ -962,28 +962,28 @@ The last or the sixth plexus is omitted here, as the five plexuses
 mentioned above correspond to the five elements. This chapter treating
 of yoga is very mystical.
 
-<span id="fn_203"></span>[237:2](tmu29.htm#fr_218) This is one of the
+<span id="fn_203"></span>[237:2](tmu29.htm#fr_218.md) This is one of the
 postures treated of in *Siva Samhiṭa* and other books.
 
-<span id="fn_204"></span>[238:1](tmu29.htm#fr_219) There are four kinds
+<span id="fn_204"></span>[238:1](tmu29.htm#fr_219.md) There are four kinds
 of yoga—the fourth being Rājayoga. Manṭrayoga is that in which
 perfection is obtained through the pronunciation of manṭras. Layayoga is
 that in which perfection is obtained through laya (absorption).
 
-<span id="fn_205"></span>[238:2](tmu29.htm#fr_220) They mean
+<span id="fn_205"></span>[238:2](tmu29.htm#fr_220.md) They mean
 respectively forbearance, religious restraint, posture, restraint of
 breath, subjugation of the senses, contemplation, meditation, and
 intense self-absorption.
 
-<span id="fn_206"></span>[239:1](tmu29.htm#fr_221) Lit., germ.
+<span id="fn_206"></span>[239:1](tmu29.htm#fr_221.md) Lit., germ.
 
-<span id="fn_207"></span>[241:1](tmu29.htm#fr_222) It is mystic here and
+<span id="fn_207"></span>[241:1](tmu29.htm#fr_222.md) It is mystic here and
 later on.
 
-<span id="fn_208"></span>[241:2](tmu29.htm#fr_223) He has pierced all
+<span id="fn_208"></span>[241:2](tmu29.htm#fr_223.md) He has pierced all
 the granṭhis and hence becomes a master of veḍha.
 
-<span id="fn_209"></span>[242:1](tmu29.htm#fr_224) There are the three
+<span id="fn_209"></span>[242:1](tmu29.htm#fr_224.md) There are the three
 kinds of pronunciation with 1 māṭrā, 2 māṭrās and 3 māṭrās. They are
 respectively hrasva, ḍīrgha and pluṭa which may be translated as short,
 long and very long.
@@ -992,6 +992,6 @@ long and very long.
 
 ------------------------------------------------------------------------
 
-[Next: 28. Maṇdalabrāhmaṇa-Upanishaḍ of Śukla-Yajurveḍa](tmu30)
+[Next: 28. Maṇdalabrāhmaṇa-Upanishaḍ of Śukla-Yajurveḍa](tmu30.md)
 
 </div>

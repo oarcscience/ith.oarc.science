@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc09)  [Next](motc11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc09)  [Next](motc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ run so hard that you won't know the why or whither of your hurry.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Flute Player](motc11)
+[Next: The Little Flute Player](motc11.md)

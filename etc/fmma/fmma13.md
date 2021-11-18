@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma12)  [Next](fmma14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma12)  [Next](fmma14.md) 
 
 ------------------------------------------------------------------------
 
@@ -249,4 +249,4 @@ title of emperor, and Charles took the western part.
 
 ------------------------------------------------------------------------
 
-[Next: Harun-al-Rashid. Caliph From 786-809 A.D.](fmma14)
+[Next: Harun-al-Rashid. Caliph From 786-809 A.D.](fmma14.md)

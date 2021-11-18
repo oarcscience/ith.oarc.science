@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog24)  [Next](kog26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog24)  [Next](kog26.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ feet. And she had to stay like that always!
 
 ------------------------------------------------------------------------
 
-[Next: 23. The Haunted Mill](kog26)
+[Next: 23. The Haunted Mill](kog26.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos38)  [Next](gbos40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos38)  [Next](gbos40.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ to me they go.
 
 ------------------------------------------------------------------------
 
-[Next: Casting and Charging](gbos40)
+[Next: Casting and Charging](gbos40.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](odpr11)  [Next](odpr13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](odpr11)  [Next](odpr13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ religion, or disobeys any of its commandments, then he is no more
 entitled to the protection of the Creator the adored, and is deprived of
 all the advantages bestowed by the ministers \[of the Unitarian
 religion\], and merits the chastisement meted out by al-Bār <span
-id="fr_192"></span>[1](#fn_192) the exalted (may the mention of his name
+id="fr_192"></span>[1](#fn_192.md) the exalted (may the mention of his name
 be glorified!).
 
 <span id="page_58">p. 58</span>
@@ -62,7 +62,7 @@ lord al-Ḥākim (may the mention of his name be glorified!), becomes one
 of the victorious Unitarians.
 
 Written in such a month of such a year of the era of the servant of our
-Lord <span id="fr_193"></span>[1](#fn_193) (may the mention of his name
+Lord <span id="fr_193"></span>[1](#fn_193.md) (may the mention of his name
 be glorified!) and of his slave, Ḥamzah ibn-‘Ali ibn-Ahmad, he who
 guides those who respond, and wreaks vengeance on the polytheists and
 apostates by means of the sword of our Lord (may the mention of his name
@@ -72,13 +72,13 @@ be glorified!) and by the great force of his power alone.
 
 ### Footnotes
 
-<span id="fn_192"></span>[57:1](odpr12.htm#fr_192) One of the honorific
-titles of al-Ḥakīm. See *supra*, [p. 20](odpr08.htm#page_20).
+<span id="fn_192"></span>[57:1](odpr12.htm#fr_192.md) One of the honorific
+titles of al-Ḥakīm. See *supra*, [p. 20](odpr08.htm#page_20.md).
 
-<span id="fn_193"></span>[58:1](odpr12.htm#fr_193) Al-Ḥākim is the Lord,
+<span id="fn_193"></span>[58:1](odpr12.htm#fr_193.md) Al-Ḥākim is the Lord,
 and Ḥamzah is his servant.
 
 ------------------------------------------------------------------------
 
 [Next: Appendix B. Al-Ḥākim's Ordinance Prohibiting the Use of
-Wine](odpr13)
+Wine](odpr13.md)

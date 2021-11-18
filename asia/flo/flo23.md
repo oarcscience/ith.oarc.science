@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flo22)  [Next](flo24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flo22)  [Next](flo24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folklore and Legends: Oriental*, by Charles John Tibbitts, \[1889\], at
 Intangible Textual Heritage
 
@@ -278,4 +278,4 @@ died; and he was buried by the side of the sheykhs.
 
 ------------------------------------------------------------------------
 
-[Next: The Fox and the Wolf](flo24)
+[Next: The Fox and the Wolf](flo24.md)

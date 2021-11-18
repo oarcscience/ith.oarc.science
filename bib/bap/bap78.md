@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap77) 
-[Next](bap79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap77.md) 
+[Next](bap79.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ prophets, and none appeared unto him. And
 
 Saul said unto the people: Let us seek out a diviner and inquire of him
 that which I have in mind. And the people answered him: Behold, now
-there is a woman named Sedecla, <span id="fr_160"></span>[1](#fn_159)
+there is a woman named Sedecla, <span id="fr_160"></span>[1](#fn_159.md)
 the daughter of Debin (*or* Adod) the Madianite, which deceived the
 people of Israel with sorceries: and lo she
 
@@ -85,7 +85,7 @@ she said: Thou inquirest of me
 
 concerning the gods. For, behold, his form is not the form of a man. For
 he is arrayed in a white robe and hath a mantle upon it, and two angels
-leading him. <span id="fr_161"></span>[1](#fn_160) And Saul remembered
+leading him. <span id="fr_161"></span>[1](#fn_160.md) And Saul remembered
 the mantle
 
 |              |
@@ -104,7 +104,7 @@ and cast himself upon the earth.
 *disquieted me to bring me up*? I thought that the time was come for me
 to receive the reward of my deeds. Therefore boast not thyself, O king,
 neither thou, O woman. For it is not ye that have brought me up, but the
-precept <span id="fr_162"></span>[2](#fn_161) which God spake unto me
+precept <span id="fr_162"></span>[2](#fn_161.md) which God spake unto me
 while I yet lived, that I should come and tell thee that thou hadst
 sinned yet the second time in neglecting God. For this cause are my
 bones disturbed after that I had rendered up my soul, that I should
@@ -126,33 +126,33 @@ be taken from thee. And Saul heard
 
 the words of Samuel, and his soul melted and he said: Behold, I depart
 to die with my sons, if perchance my destruction may be an
-atonement <span id="fr_163"></span>[3](#fn_162) for mine iniquities. And
+atonement <span id="fr_163"></span>[3](#fn_162.md) for mine iniquities. And
 Saul arose and departed thence.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_159"></span>[240:1](bap78.htm#fr_160) LXIV. 3. The witch of
+<span id="fn_159"></span>[240:1](bap78.htm#fr_160.md) LXIV. 3. The witch of
 Endor, here called Sedecla, daughter of Debin or of Adod (doubtless Aod
 of XXXIV.), is in *Pirke R. Eliezer* 33 "the wife of Zephaniah, the
 mother of Abner." Kimchi *in loc.*, it seems, calls her Zephaniah. The
 *Quaest. Hebr.* agree that she was Abner's mother. Perhaps "the wife of"
 in Pirke should go out.
 
-<span id="fn_160"></span>[241:1](bap78.htm#fr_161) 6. *Two angels
+<span id="fn_160"></span>[241:1](bap78.htm#fr_161.md) 6. *Two angels
 leading him*. Compare the *Gospel of Peter*, where two angels lead
 Christ out of the sepulchre.
 
-<span id="fn_161"></span>[241:2](bap78.htm#fr_162) 7. The word which I
+<span id="fn_161"></span>[241:2](bap78.htm#fr_162.md) 7. The word which I
 render *precept* is *traditio*. I cannot cite a parallel to this curious
 use of it.
 
-<span id="fn_162"></span>[241:3](bap78.htm#fr_163) 8. *if my destruction
+<span id="fn_162"></span>[241:3](bap78.htm#fr_163.md) 8. *if my destruction
 may be an atonement* (*exoratio*) *for mine iniquities*. In *Pirke R.
 Eliezer* 33, Samuel says to Saul: If thou wilt hearken to my advice, to
 fall by the sword, then shall thy death be an atonement for thee.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXV](bap79)
+[Next: Chapter LXV](bap79.md)

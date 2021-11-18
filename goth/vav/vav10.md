@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav09)  [Next](vav11) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav09)  [Next](vav11.md) 
 
 ------------------------------------------------------------------------
 
@@ -419,4 +419,4 @@ true tale.
 ------------------------------------------------------------------------
 
 [Next: The Vampire's Seventh Story. Showing the Exceeding Folly of Many
-Wise Fools.](vav11)
+Wise Fools.](vav11.md)

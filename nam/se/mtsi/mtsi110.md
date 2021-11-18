@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi109)  [Next](mtsi111) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi109)  [Next](mtsi111.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ This is the way it is told.
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Water People](mtsi111)
+[Next: 18. The Water People](mtsi111.md)

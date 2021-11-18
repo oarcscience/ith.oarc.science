@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod01)  [Next](ebod03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod01)  [Next](ebod03.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ BIBLIOGRAPHY 371-377
 
 ------------------------------------------------------------------------
 
-[Next: The Versions Of The Book Of The Dead.](ebod03)
+[Next: The Versions Of The Book Of The Dead.](ebod03.md)

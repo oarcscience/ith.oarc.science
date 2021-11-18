@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb04)  [Next](vrb06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb04)  [Next](vrb06.md) 
 
 ------------------------------------------------------------------------
 
@@ -425,4 +425,4 @@ you might have to endure when planning something real.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four: The Four Pillars of Ritual](vrb06)
+[Next: Chapter Four: The Four Pillars of Ritual](vrb06.md)

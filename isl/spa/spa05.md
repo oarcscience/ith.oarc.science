@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa04)  [Next](spa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa04)  [Next](spa06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -290,7 +290,7 @@ The sun, that setteth once, riseth not again.
 
 Though paradise is not gained by devotion, without grace;  
 Still, every man his neck from the debt must release. <span
-id="fr_26"></span>[\*](#fn_26)
+id="fr_26"></span>[\*](#fn_26.md)
 
 Shouldst thou incur a hundred toils for the flesh's sake,  
 Not one shall be of any avail to-morrow unto thee.
@@ -329,7 +329,7 @@ But not so, though gorged with confection of the dregs of woe.
 
 The back, bent from toil, is indeed estimable;  
 But not from a purse of ill-gotten money round the waist. <span
-id="fr_27"></span>[\*](#fn_27)
+id="fr_27"></span>[\*](#fn_27.md)
 
 A blind man, who seeth nothing, is truly excellent;  
 Better than that he should set eyes on another man's wife.
@@ -417,7 +417,7 @@ Whether it be pleasure, or whether it be beauty, in this world.
 
 Even the monarch, he goeth down unto the dust at last:  
 Then what is glory, and what is .fame, in this world? <span
-id="fr_28"></span>[\*](#fn_28)
+id="fr_28"></span>[\*](#fn_28.md)
 
 There will be no greater blockhead therein, than he  
 Who seeketh for happiness or tranquillity, in this world.
@@ -426,7 +426,7 @@ Thou, who desirest in this life a short period of repose,
 Say, hath any one yet obtained it, in this world?
 
 Relentless fate will make it like unto the shifting sands, <span
-id="fr_29"></span>[†](#fn_29)  
+id="fr_29"></span>[†](#fn_29.md)  
 Whoever buildeth up a structure, in this world.
 
 It is not a whit less than the stumbling of the drunkard,  
@@ -460,14 +460,14 @@ Whatever he may have sown in the field of this world.
 
 Although that world cannot be seen here below;  
 Yet I can perceive its signs and its omens, in this world. <span
-id="fr_30"></span>[\*](#fn_30)
+id="fr_30"></span>[\*](#fn_30.md)
 
 There will be no reciprocity of viaticum in the last day;  
 For I have myself beheld doomsday, in this world.
 
 They will go down into the tomb as a deposit also,  
 Whoever may exist as a deposit, in this world. <span
-id="fr_31"></span>[†](#fn_31)
+id="fr_31"></span>[†](#fn_31.md)
 
 Virtue is present bliss; but propitious fortune is necessary,  
 That one may acquire felicity, in this world.
@@ -479,7 +479,7 @@ Contrariety and opposition plunge a man's life in torment:
 Such antagonism is of no avail, in this world.
 
 The hand to the forehead, and on the breast, <span
-id="fr_32"></span>[‡](#fn_32) to every one:  
+id="fr_32"></span>[‡](#fn_32.md) to every one:  
 This, indeed, is greatness and distinction, in this world.
 
 <span id="page_17">p. 17</span>
@@ -560,13 +560,13 @@ Still, idolators all, are the worshippers of this world.
 
 He is the true Muslim amongst the whole of the Faithful,  
 Who hath burst asunder the Hindū cord <span
-id="fr_33"></span>[\*](#fn_33) of this world.
+id="fr_33"></span>[\*](#fn_33.md) of this world.
 
 <span id="page_19">p. 19</span>
 
 Headless behind, his body remaineth, but the head will go;  
 How, then, is the possessor of a head, a head-man of this world? <span
-id="fr_34"></span>[\*](#fn_34)
+id="fr_34"></span>[\*](#fn_34.md)
 
 They make their sons and daughters orphans, and desert them—  
 All are unnatural—the fathers and the mothers of this world.
@@ -631,7 +631,7 @@ They will arise on an equality with the beggar together,
 Both the princes and the sovereigns of this world.
 
 There will be a brand impressed upon the miser's breast  
-By every *darham* and every *dīnār* <span id="fr_35"></span>[\*](#fn_35)
+By every *darham* and every *dīnār* <span id="fr_35"></span>[\*](#fn_35.md)
 of this world.
 
 Let them be an oblation to the contentment of the contented,  
@@ -646,7 +646,7 @@ They may enumerate tens and hundreds until doomsday,
 But no one hath completed the numeration of this world.
 
 When the time for the winding-sheet and the ablution cometh, <span
-id="fr_36"></span>[\*](#fn_36)  
+id="fr_36"></span>[\*](#fn_36.md)  
 Unveiled and exposed become the veiled and modest of this world.
 
 They will be brought forth on the bier from their privacy,  
@@ -691,7 +691,7 @@ In that world, after what manner will thy answer be,
 Seeing that in this, thou art wholly unable to reply?
 
 To-day that thou runnest to the shade for shelter from the sun:  
-When it stands but a spear's height <span id="fr_37"></span>[\*](#fn_37)
+When it stands but a spear's height <span id="fr_37"></span>[\*](#fn_37.md)
 above thee, what wilt thou do?
 
 Acquiesce not, O <span class="smallcaps">Raḥmān</span>! in causing
@@ -709,13 +709,13 @@ The one is torment, the other a paradise of flowers, and naught else.
 
 Each of the eyelashes of the beloved pierceth me to this degree,  
 That I declare it is the two-edged sword of Æali, <span
-id="fr_38"></span>[†](#fn_38) and naught else.
+id="fr_38"></span>[†](#fn_38.md) and naught else.
 
 <span id="page_23">p. 23</span>
 
 It requireth a hero to raise the tresses around her face:  
 The last is a treasure-hoard, the others are snakes; <span
-id="fr_39"></span>[\*](#fn_39) and naught else.
+id="fr_39"></span>[\*](#fn_39.md) and naught else.
 
 How shall I recite the praises of the charms of the fair!  
 I speak briefly—they are innumerable, and naught else.
@@ -788,7 +788,7 @@ Of the gardener of this world, what then shall I say?
 She is still far better than all that I can explain—  
 What then of the loved-one shall I, <span
 class="smallcaps">Raḥmān</span>, say? <span
-id="fr_40"></span>[\*](#fn_40)
+id="fr_40"></span>[\*](#fn_40.md)
 
 <span id="page_25">p. 25</span>
 
@@ -797,7 +797,7 @@ id="fr_40"></span>[\*](#fn_40)
 The garden of existence will not bloom for ever!  
 The market-place of life will not be in bustle always!
 
-Like as the river Abā Sīnd <span id="fr_41"></span>[\*](#fn_41) boundeth
+Like as the river Abā Sīnd <span id="fr_41"></span>[\*](#fn_41.md) boundeth
 along in its course,  
 With such like exceeding precipitation is the progress of life.
 
@@ -834,11 +834,11 @@ This is the rose—that is the thorn.
 <span id="page_26">p. 26</span>
 
 This is the rose—that is the thorn:  
-This is Manṣūr <span id="fr_42"></span>[\*](#fn_42)—that the
+This is Manṣūr <span id="fr_42"></span>[\*](#fn_42.md)—that the
 gallows-tree.
 
 This is the beloved—that the malicious: <span
-id="fr_43"></span>[†](#fn_43)  
+id="fr_43"></span>[†](#fn_43.md)  
 This is the treasure—that is the snake.
 
 This is wisdom—and that is love:  
@@ -859,7 +859,7 @@ This is the sick—that is the physician.
 #### XVI.
 
 So fast our friends depart unto the grave,  
-As the kārwān, <span id="fr_44"></span>[‡](#fn_44) with speed, returneth
+As the kārwān, <span id="fr_44"></span>[‡](#fn_44.md) with speed, returneth
 home.
 
 So very promptly doth death deal with us,  
@@ -867,7 +867,7 @@ As the reaper cutteth down the ripe corn.
 
 <span id="page_27">p. 27</span>
 
-Like as the moving sand <span id="fr_45"></span>[\*](#fn_45) is quickly
+Like as the moving sand <span id="fr_45"></span>[\*](#fn_45.md) is quickly
 commingled,  
 So speedily is this world together huddled.
 
@@ -931,7 +931,7 @@ Then both property and effects become engulfed in the ocean of the
 heart.
 
 Thou speakest vainly of the heart's disquiet unto the "Father of
-Desire:" <span id="fr_46"></span>[\*](#fn_46)  
+Desire:" <span id="fr_46"></span>[\*](#fn_46.md)  
 What know children of the deep, deep sorrows of the heart?
 
 Unto every other countenance than that of my own beloved,  
@@ -967,7 +967,7 @@ Like as when, with my lips, I kissed the wound of thy sword,
 I have never since, from any salve, such soothing experienced.
 
 Majnūn, that laid his head at the feet of Laylā, his beloved, <span
-id="fr_47"></span>[\*](#fn_47)  
+id="fr_47"></span>[\*](#fn_47.md)  
 Became exalted in Arabia, and in all foreign lands.
 
 The powerful will always be triumphant over the weak;  
@@ -989,7 +989,7 @@ Thou art my object every moment, and at every step.
 
 Should it be my good fortune to obtain the platters of thy dogs,  
 I would no more cast mine eyes, even upon Jam<u>sh</u>ed's cup. <span
-id="fr_48"></span>[\*](#fn_48)
+id="fr_48"></span>[\*](#fn_48.md)
 
 So completely have I gambled away my heart upon thy curls,  
 As when a little button falleth, and, in murky darkness, is lost.
@@ -1028,7 +1028,7 @@ But nothing can be heard, and nothing seen, in old age.
 
 O <span class="smallcaps">Raḥmān</span>! verily, old age is such utter
 helplessness,  
-That, were it Rustam <span id="fr_49"></span>[\*](#fn_49) himself, he
+That, were it Rustam <span id="fr_49"></span>[\*](#fn_49.md) himself, he
 deserveth pity, in old age.
 
 #### XXI.
@@ -1037,7 +1037,7 @@ He who placeth any hope upon the fabric of this world,
 Embarketh, on a tour of the ocean, in a paper boat.
 
 No one hitherto hath successfully run the steed of the sky <span
-id="fr_50"></span>[†](#fn_50)—  
+id="fr_50"></span>[†](#fn_50.md)—  
 How can one practise horsemanship on the back of the wind?
 
 Neither can the wolf be instructed in the art of humanity,  
@@ -1082,7 +1082,7 @@ Honour and love are widely separated from each other—
 How can one perpetrate a robbery in the light of day?
 
 <span class="smallcaps">Raḥmān</span>, this ode reciteth in reply to
-that which Dawlat <span id="fr_51"></span>[\*](#fn_51) wrote—  
+that which Dawlat <span id="fr_51"></span>[\*](#fn_51.md) wrote—  
 "Should the beloved present me continually the wine of her love!"
 
 #### XXII.
@@ -1102,7 +1102,7 @@ I take advice from every one, and give counsel unto all:
 I am, at once, the disciple of some, and the apostle of others.
 
 In separation the thoughts of the beloved ever follow me:  
-Along with Yūsuf, <span id="fr_52"></span>[\*](#fn_52) I am a companion
+Along with Yūsuf, <span id="fr_52"></span>[\*](#fn_52.md) I am a companion
 in imprisonment.
 
 At the time of laughing, my weeping is like unto the taper's:  
@@ -1115,10 +1115,10 @@ What other happiness is there more inestimable than this?
 That for the sake of the beloved I am ever plunged in grief.
 
 <u>Kh</u>u<u>sh</u>ḥāl <u>Kh</u>ān and Dawlata <span
-id="fr_53"></span>[†](#fn_53) are but slaves of mine;  
+id="fr_53"></span>[†](#fn_53.md) are but slaves of mine;  
 For, of the Pu<u>s’h</u>to tongue, I, <span
 class="smallcaps">Raḥmān</span>, am the Æalam-gīr. <span
-id="fr_54"></span>[‡](#fn_54)
+id="fr_54"></span>[‡](#fn_54.md)
 
 #### XXIII.
 
@@ -1137,8 +1137,8 @@ They are all fools, who barter their religion for the world—
 Where are fifty days? where eternity and everlasting life?
 
 Let ambition and desire be a sacrifice unto contentment  
-Where is the land of Egypt? <span id="fr_55"></span>[\*](#fn_55) where
-the Hamlet of the Slaves? <span id="fr_56"></span>[†](#fn_56)
+Where is the land of Egypt? <span id="fr_55"></span>[\*](#fn_55.md) where
+the Hamlet of the Slaves? <span id="fr_56"></span>[†](#fn_56.md)
 
 In one village, the Darwe<u>sh</u> and murderer cannot dwell—  
 Where is Æazīz <u>Kh</u>ān? where is Mullā <span
@@ -1168,7 +1168,7 @@ How shall be remembered, by any one, such dogs as thou and I?
 
 Shouldst thou sift, over and over, the whole world's dust,  
 Thou wilt not again discover either Dārā or <u>Sh</u>āh Jahān! <span
-id="fr_57"></span>[\*](#fn_57)
+id="fr_57"></span>[\*](#fn_57.md)
 
 Not even a trace remaineth of their names or their records,  
 Who laid claim unto glory, and sought, from posterity, fame?
@@ -1180,7 +1180,7 @@ Behold! what have those mouths and lips become,
 Which, on both thine eyes, were wont to kiss thee fondly?
 
 They who used to hail thee with "Thy sacrifice, thy sacrifice," <span
-id="fr_58"></span>[†](#fn_58)  
+id="fr_58"></span>[†](#fn_58.md)  
 Let them now call out unto thee, "Thy sacrifice am I!"
 
 I am quite amazed with the glowing words of <span
@@ -1222,7 +1222,7 @@ For an hour or so, they mourn over him;
 Then the poor creatures grow calm again.
 
 They then remove him for the ablution, <span
-id="fr_59"></span>[\*](#fn_59)  
+id="fr_59"></span>[\*](#fn_59.md)  
 And place him naked on the stretcher.
 
 Then of his garments, become covetous,  
@@ -1274,7 +1274,7 @@ And the living become woe-begone, though yet in existence.
 
 The soldiers of destiny have so put forth their hands to plunder,  
 That a thousand <u>Kh</u>asraus and <u>Sh</u>īrīns <span
-id="fr_60"></span>[\*](#fn_60) have been trampled to dust.
+id="fr_60"></span>[\*](#fn_60.md) have been trampled to dust.
 
 <span id="page_38">p. 38</span>
 
@@ -1334,7 +1334,7 @@ By all means, let thee and me meet face to face;
 Then let my breast be the target for thine arrows!
 
 Let my whole body, like antimony, be ground to powder; <span
-id="fr_61"></span>[\*](#fn_61)  
+id="fr_61"></span>[\*](#fn_61.md)  
 For then, at least, one glance of thy dark eyes will be mine.
 
 Were the society of the fair dependent on gold or silver,  
@@ -1368,7 +1368,7 @@ For thy sake, this rival shall be my friend also.
 
 He who may be fascinated with one fair countenance,  
 From that one, a thousand other faces will be acceptable to him. <span
-id="fr_62"></span>[\*](#fn_62)
+id="fr_62"></span>[\*](#fn_62.md)
 
 Whosoever may have entered into the service of kings,  
 Must, necessarily, be under obligation unto the janitor.
@@ -1386,7 +1386,7 @@ Every Ṣūfi who may be, towards his countenance, prepossessed.
 
 He will lose his senses, entirely, through the phrenzy of love,  
 Though he may be as wise, indeed, as Iflātūn <span
-id="fr_63"></span>[\*](#fn_63) himself.
+id="fr_63"></span>[\*](#fn_63.md) himself.
 
 He will, in no wise, cast censures upon <span
 class="smallcaps">Raḥmān</span>,  
@@ -1461,7 +1461,7 @@ That town, the ocean, and the desert, are all three one.
 <span id="page_43">p. 43</span>
 
 At the shops of the sightless dealers in jewels,  
-The kaurī, <span id="fr_64"></span>[\*](#fn_64) the ruby, and the pearl,
+The kaurī, <span id="fr_64"></span>[\*](#fn_64.md) the ruby, and the pearl,
 are all three one.
 
 Let not these saintly monitors hold my love in scorn;  
@@ -1469,7 +1469,7 @@ For the true lover, the saint, and the father, are all three one.
 
 Through the despotic severity of tyrannical rulers,  
 The grave, and fire, and Pe<u>s’h</u>our, <span
-id="fr_65"></span>[†](#fn_65) are all three one.
+id="fr_65"></span>[†](#fn_65.md) are all three one.
 
 What matter, though he may praise himself unto <span
 class="smallcaps">Raḥmān</span>?  
@@ -1479,7 +1479,7 @@ Still, the fool, the ox, and the ass, are all three one.
 
 Thy fair face, and thy musky mole, are associated together,  
 Or Maḥmūd and Ayāz are sitting together, bosom friends. <span
-id="fr_66"></span>[‡](#fn_66)
+id="fr_66"></span>[‡](#fn_66.md)
 
 What matter, though thy countenance is hidden by thy curls?  
 The water of immortality itself is, in total darkness, concealed.
@@ -1551,7 +1551,7 @@ Thank Heaven! neither presumptuous, nor self-conceited is he.
 
 There is a different scar branded upon every one's breast,  
 Whether he be the beggar, or the sovereign of the land. <span
-id="fr_67"></span>[\*](#fn_67)
+id="fr_67"></span>[\*](#fn_67.md)
 
 There is no obtaining satiety from this fountain of the world;  
 And its thirsty-ones are, severally, in dissension and in strife.
@@ -1567,7 +1567,7 @@ Who have entered within the caravansary of this world?
 
 As to the state of Majnūn, why should any one inquire?  
 The whole world, house by house, is Majnūn and Laylā too! <span
-id="fr_68"></span>[†](#fn_68)
+id="fr_68"></span>[†](#fn_68.md)
 
 Love hath breathed upon the entire universe a spell, so potent,  
 That the lover, though keen-sighted, is to all things blind.
@@ -1651,7 +1651,7 @@ Yet He hath given life to the whole creation of the earth.
 
 Hath any one the ability to give the red tinge to stone? .  
 But He hath coloured it with the Ar<u>gh</u>owān's <span
-id="fr_69"></span>[\*](#fn_69) rich hue.
+id="fr_69"></span>[\*](#fn_69.md) rich hue.
 
 <span id="page_48">p. 48</span>
 
@@ -1672,10 +1672,10 @@ Yet, to this degree, He hath the patriarch Moses exalted.
 
 Who is mighty enough to place a saddle on the steed of the wind?  
 Whilst He hath, high in air, the throne of Sulīmān set up. <span
-id="fr_70"></span>[\*](#fn_70)
+id="fr_70"></span>[\*](#fn_70.md)
 
 What man, with snowy beard, can, unto the Last Day, live?  
-Yet, upon <u>Kh</u>izr, <span id="fr_71"></span>[†](#fn_71) this great
+Yet, upon <u>Kh</u>izr, <span id="fr_71"></span>[†](#fn_71.md) this great
 favour hath He conferred.
 
 Hath any one power to produce gems from out the rain-drops?  
@@ -1691,7 +1691,7 @@ All the most powerful are impotent, before His omnipotence.
 
 He hath founded the house of stone in the midst of the waters,  
 In which He hath given, unto fire, security and protection. <span
-id="fr_72"></span>[\*](#fn_72)
+id="fr_72"></span>[\*](#fn_72.md)
 
 The earth hath bowed down its head in His adoration;  
 And the firmament is bent over in the worship of Him.
@@ -1745,13 +1745,13 @@ adequately expressed.
 
 ### Footnotes
 
-<span id="fn_26"></span>[11:\*](spa05.htm#fr_26) See Mīṛzā, Poem VI.,
+<span id="fn_26"></span>[11:\*](spa05.htm#fr_26.md) See Mīṛzā, Poem VI.,
 second note.
 
-<span id="fn_27"></span>[12:\*](spa05.htm#fr_27) It is customary in the
+<span id="fn_27"></span>[12:\*](spa05.htm#fr_27.md) It is customary in the
 East to carry money in a purse or belt, fastened round the waist.
 
-<span id="fn_28"></span>[15:\*](spa05.htm#fr_28)
+<span id="fn_28"></span>[15:\*](spa05.htm#fr_28.md)
 
 <div style="margin-left: 32px">
 
@@ -1762,7 +1762,7 @@ East to carry money in a purse or belt, fastened round the waist.
 
 </div>
 
-<span id="fn_29"></span>[15:†](spa05.htm#fr_29) The *Reg-i-rawān*, or
+<span id="fn_29"></span>[15:†](spa05.htm#fr_29.md) The *Reg-i-rawān*, or
 "Moving sand," situated forty miles north of Kabūl, towards the
 mountains of Hindū Kush, and near the base of the mountains. It is a
 sheet of pure sand, in height about 400 feet, and 100 broad, and lies at
@@ -1770,79 +1770,79 @@ an angle of 45°. This sand is constantly shifting, and they say that in
 the summer season a sound like that of drums may be heard issuing from
 it. See "<span class="smallcaps">Burnes's Cabool</span>."
 
-<span id="fn_30"></span>[16:\*](spa05.htm#fr_30) That is to say, the
+<span id="fn_30"></span>[16:\*](spa05.htm#fr_30.md) That is to say, the
 signs and omens of the approach of the end of the world.
 
-<span id="fn_31"></span>[16:†](spa05.htm#fr_31) The deposit or pledge
+<span id="fn_31"></span>[16:†](spa05.htm#fr_31.md) The deposit or pledge
 for the observance of faith and obedience unto God. See Mīrzā, Poem VI.,
 second note.
 
-<span id="fn_32"></span>[16:‡](spa05.htm#fr_32) The mode of salutation
+<span id="fn_32"></span>[16:‡](spa05.htm#fr_32.md) The mode of salutation
 in Eastern countries is, by raising the right hand to the forehead, or
 by placing it to the breast.
 
-<span id="fn_33"></span>[18:\*](spa05.htm#fr_33) The Brāhmanical cord.
+<span id="fn_33"></span>[18:\*](spa05.htm#fr_33.md) The Brāhmanical cord.
 Also a belt, or cord more particularly, worn round the middle by the
 Eastern Christians and Jews, and by the Persian Magi. It was introduced
 <span class="smallcaps">a.d.</span> 839, by the <u>Kh</u>alīfah
 Mutawakkil, to distinguish them from Muḥammadans.
 
-<span id="fn_34"></span>[19:\*](spa05.htm#fr_34) The play upon the words
+<span id="fn_34"></span>[19:\*](spa05.htm#fr_34.md) The play upon the words
 'head' and 'head-man' here is almost lost in the translation.
 
-<span id="fn_35"></span>[20:\*](spa05.htm#fr_35) Names of Arabic coins.
+<span id="fn_35"></span>[20:\*](spa05.htm#fr_35.md) Names of Arabic coins.
 The *darham* is of silver, and the *dīnār* of gold.
 
-<span id="fn_36"></span>[21:\*](spa05.htm#fr_36) Referring to the
+<span id="fn_36"></span>[21:\*](spa05.htm#fr_36.md) Referring to the
 custom, in the East, of washing the bodies of deceased persons before
 dressing them out in their grave-clothes.
 
-<span id="fn_37"></span>[22:\*](spa05.htm#fr_37) According to the
+<span id="fn_37"></span>[22:\*](spa05.htm#fr_37.md) According to the
 Muḥammadan religion, the sun at the resurrection will be no further off
 than a mile, or (as some translate the word, the signification of which
 is ambiguous) than the length of a spear, or even of a bodkin.
 
-<span id="fn_38"></span>[22:†](spa05.htm#fr_38) Zu-l-fiḳār, the name of
+<span id="fn_38"></span>[22:†](spa05.htm#fr_38.md) Zu-l-fiḳār, the name of
 the famous two-edged sword of Æali, the son-in-law of Muḥammad, and
 which the latter reported he had received from the angel Gabriel.
 
-<span id="fn_39"></span>[23:\*](spa05.htm#fr_39) In the fables and
+<span id="fn_39"></span>[23:\*](spa05.htm#fr_39.md) In the fables and
 traditions of the East, it is supposed that wherever there is a hidden
 treasure,-there is a serpent, or serpents, to guard it.
 
-<span id="fn_40"></span>[24:\*](spa05.htm#fr_40) This ode is very
+<span id="fn_40"></span>[24:\*](spa05.htm#fr_40.md) This ode is very
 popular as a song; but the singers are, probably, not aware of the depth
 of meaning beneath.
 
-<span id="fn_41"></span>[25:\*](spa05.htm#fr_41) Abā Sīnd, the "father
+<span id="fn_41"></span>[25:\*](spa05.htm#fr_41.md) Abā Sīnd, the "father
 of rivers," the name given by the Af<u>gh</u>āns to the Indus.
 
-<span id="fn_42"></span>[26:\*](spa05.htm#fr_42) Al Manṣūr, the name of
+<span id="fn_42"></span>[26:\*](spa05.htm#fr_42.md) Al Manṣūr, the name of
 a Ṣūfi, who was put to death at Bā<u>gh</u>dād, some centuries back, for
 making use of the words <span id="img_02600"></span> ![](img/02600.jpg)
 "I am God."
 
-<span id="fn_43"></span>[26:†](spa05.htm#fr_43) The Arabic word here
+<span id="fn_43"></span>[26:†](spa05.htm#fr_43.md) The Arabic word here
 used in the original, and very commonly made use of by poets, is
 scarcely to be translated by an equivalent word in the English language.
 The Spanish word *duenna* gives the signification, but the
 Af<u>gh</u>āns apply it to both sexes.
 
-<span id="fn_44"></span>[26:‡](spa05.htm#fr_44) Commonly "caravan," a
+<span id="fn_44"></span>[26:‡](spa05.htm#fr_44.md) Commonly "caravan," a
 company of travellers or merchants associated together for mutual
 defence and protection, and conveyance of merchandize, in the East.
 
-<span id="fn_45"></span>[27:\*](spa05.htm#fr_45) See *Reg-i-rawān*, note
-at [p. 15](#page_15).
+<span id="fn_45"></span>[27:\*](spa05.htm#fr_45.md) See *Reg-i-rawān*, note
+at [p. 15](#page_15.md).
 
-<span id="fn_46"></span>[28:\*](spa05.htm#fr_46) Desire itself, called
+<span id="fn_46"></span>[28:\*](spa05.htm#fr_46.md) Desire itself, called
 also the "Parent of Desire."
 
-<span id="fn_47"></span>[29:\*](spa05.htm#fr_47) The loves of Majnūn and
+<span id="fn_47"></span>[29:\*](spa05.htm#fr_47.md) The loves of Majnūn and
 his mistress Laylā are the subject of one of the most celebrated mystic
 poems of the Persian poet Niz̤āmī, and famous throughout the East.
 
-<span id="fn_48"></span>[30:\*](spa05.htm#fr_48) Jam or Jam<u>sh</u>ed,
+<span id="fn_48"></span>[30:\*](spa05.htm#fr_48.md) Jam or Jam<u>sh</u>ed,
 the name of an ancient Persian king, concerning whom there are many
 fables. The cup of Jam<u>sh</u>ed, called *jām-i-jam*, is said to have
 been discovered, filled with the Elixir of Immortality, when digging for
@@ -1851,45 +1851,45 @@ Nestor's cup among the Greeks. It has furnished the poets with numerous
 allegories, and allusions to wine, the philosopher's stone, magic,
 enchantment, divination, and the like.
 
-<span id="fn_49"></span>[31:\*](spa05.htm#fr_49) The Persian Hercules.
+<span id="fn_49"></span>[31:\*](spa05.htm#fr_49.md) The Persian Hercules.
 
-<span id="fn_50"></span>[31:†](spa05.htm#fr_50) The steed of the sky—the
+<span id="fn_50"></span>[31:†](spa05.htm#fr_50.md) The steed of the sky—the
 firmament, the revolving heavens, fortune, destiny, fate, etc.
 
-<span id="fn_51"></span>[32:\*](spa05.htm#fr_51) The name of an
+<span id="fn_51"></span>[32:\*](spa05.htm#fr_51.md) The name of an
 Af<u>gh</u>ān poet, a cotemporary of Raḥmān's. His poems are not to be
 met with in the present day.
 
-<span id="fn_52"></span>[33:\*](spa05.htm#fr_52) The patriarch Joseph.
+<span id="fn_52"></span>[33:\*](spa05.htm#fr_52.md) The patriarch Joseph.
 
-<span id="fn_53"></span>[33:†](spa05.htm#fr_53) The name of
+<span id="fn_53"></span>[33:†](spa05.htm#fr_53.md) The name of
 Af<u>gh</u>ān poets.
 
-<span id="fn_54"></span>[33:‡](spa05.htm#fr_54) Æalam-gīr—"The
+<span id="fn_54"></span>[33:‡](spa05.htm#fr_54.md) Æalam-gīr—"The
 world-conquering"—the name assumed by Aurangzeb, Emperor of Hindūstān.
 
-<span id="fn_55"></span>[34:\*](spa05.htm#fr_55) Muḥammadans consider
+<span id="fn_55"></span>[34:\*](spa05.htm#fr_55.md) Muḥammadans consider
 the land of Egypt the peculiar country of presumptuous and ambitious
 rulers, who, like Pharaoh, laid claim to divinity.
 
-<span id="fn_56"></span>[34:†](spa05.htm#fr_56) The name of a village
+<span id="fn_56"></span>[34:†](spa05.htm#fr_56.md) The name of a village
 near Ḳandahār, on the Tarnak river, and, for centuries past, in ruins.
 It is proverbially used in reference to a place utterly desolate and
 deserted.
 
-<span id="fn_57"></span>[35:\*](spa05.htm#fr_57) Dārā, the Persian name
+<span id="fn_57"></span>[35:\*](spa05.htm#fr_57.md) Dārā, the Persian name
 of Darius; <u>Sh</u>āh-i-Jahān, "the Emperor of the Universe," the title
 assumed by the fifth Mu<u>gh</u>al, sovereign of Hindūstān.
 
-<span id="fn_58"></span>[35:†](spa05.htm#fr_58) Equivalent to the reply
+<span id="fn_58"></span>[35:†](spa05.htm#fr_58.md) Equivalent to the reply
 of "Thy sins be upon me" of Scripture, a common mode of reply in
 Af<u>gh</u>ānistān and Persia.
 
-<span id="fn_59"></span>[36:\*](spa05.htm#fr_59) See Raḥmān, Poem IX.,
+<span id="fn_59"></span>[36:\*](spa05.htm#fr_59.md) See Raḥmān, Poem IX.,
 second note.
 
-<span id="fn_60"></span>[37:\*](spa05.htm#fr_60) <u>Kh</u>asrau, King of
-Persia ([contemporary](errata.htm#2) with Muḥammad), having been driven
+<span id="fn_60"></span>[37:\*](spa05.htm#fr_60.md) <u>Kh</u>asrau, King of
+Persia ([contemporary](errata.htm#2) with Muḥammad.md), having been driven
 from his kingdom by his uncle, took refuge with the Greek Emperor
 Maurice, by whose assistance he defeated the usurper, and recovered his
 crown. Whilst at Maurice's court, <u>Kh</u>asrau married his daughter
@@ -1897,10 +1897,10 @@ Irene, who, under the name of Shīrīn, signifying 'sweet,' is highly
 celebrated in the East, on account of her singular beauty; and their
 loves are the subject of the celebrated Persian poem by Niz̤āmī.
 
-<span id="fn_61"></span>[39:\*](spa05.htm#fr_61) Black antimony, ground
+<span id="fn_61"></span>[39:\*](spa05.htm#fr_61.md) Black antimony, ground
 to powder, is commonly used in the East, as a collyrium for the eyes.
 
-<span id="fn_62"></span>[40:\*](spa05.htm#fr_62) "There are such wild
+<span id="fn_62"></span>[40:\*](spa05.htm#fr_62.md) "There are such wild
 inconsistencies in the thoughts of a man in love, that I have often
 reflected there can be no reason for allowing, him more liberty than
 others possessed with phrenzy, but that his distemper has no malevolence
@@ -1909,27 +1909,27 @@ general tenderness, which exerts itself towards every object as well as
 his fair one."—<span class="smallcaps">Steele</span>, Spectator, No.
 336.
 
-<span id="fn_63"></span>[41:\*](spa05.htm#fr_63) Plato.
+<span id="fn_63"></span>[41:\*](spa05.htm#fr_63.md) Plato.
 
-<span id="fn_64"></span>[43:\*](spa05.htm#fr_64) Cypræa moneta.
+<span id="fn_64"></span>[43:\*](spa05.htm#fr_64.md) Cypræa moneta.
 
-<span id="fn_65"></span>[43:†](spa05.htm#fr_65) Pe<u>sh</u>āwar,
+<span id="fn_65"></span>[43:†](spa05.htm#fr_65.md) Pe<u>sh</u>āwar,
 sometimes written as above.
 
-<span id="fn_66"></span>[43:‡](spa05.htm#fr_66) Maḥmūd, Sult̤ān of
+<span id="fn_66"></span>[43:‡](spa05.htm#fr_66.md) Maḥmūd, Sult̤ān of
 <u>Gh</u>aznī, who was much attached to his servant Ayāz.
 
-<span id="fn_67"></span>[45:\*](spa05.htm#fr_67) "There is a skeleton in
+<span id="fn_67"></span>[45:\*](spa05.htm#fr_67.md) "There is a skeleton in
 every house."
 
-<span id="fn_68"></span>[45:†](spa05.htm#fr_68) See note, page
-[29](#page_29).
+<span id="fn_68"></span>[45:†](spa05.htm#fr_68.md) See note, page
+[29](#page_29.md).
 
-<span id="fn_69"></span>[47:\*](spa05.htm#fr_69) The name of a tree,
+<span id="fn_69"></span>[47:\*](spa05.htm#fr_69.md) The name of a tree,
 whose fruit and flowers are of a beautiful red colour—the *Cercis
 Siliguastrum*, of botanists, probably.
 
-<span id="fn_70"></span>[48:\*](spa05.htm#fr_70) According to the
+<span id="fn_70"></span>[48:\*](spa05.htm#fr_70.md) According to the
 Muḥammadan belief, Solomon succeeded his father David when only twelve
 years old; at which age the Almighty placed under his command all
 mankind, the beasts of the earth and the fowls of the air, the elements,
@@ -1937,17 +1937,17 @@ and the genii. The birds were his constant attendants, screening him
 from the inclemencies of the weather, whilst his magnificent throne was
 borne by the winds whithersoever he wished to go.
 
-<span id="fn_71"></span>[48:†](spa05.htm#fr_71) The name of a prophet,
+<span id="fn_71"></span>[48:†](spa05.htm#fr_71.md) The name of a prophet,
 who, according to Oriental tradition, was *Wazīr*, or Minister, and
 General of Kaykobād, an ancient King of Persia. They say that he
 discovered and drank of the fountain of life or immortality, and that,
 in consequence, he will not die until the sounding of the last trumpet,
 at the Judgment Day.
 
-<span id="fn_72"></span>[49:\*](spa05.htm#fr_72) As fire can be produced
+<span id="fn_72"></span>[49:\*](spa05.htm#fr_72.md) As fire can be produced
 by striking stones together, the Muḥammadans suppose that fire is
 inherent in stone, and that water protects it.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](spa06)
+[Next: Introduction](spa06.md)

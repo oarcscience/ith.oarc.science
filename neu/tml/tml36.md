@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml35)  [Next](tml37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml35)  [Next](tml37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -310,7 +310,7 @@ keep the secret of the gold."
 Atle was wroth; his brow darkened and his eyes burned fire.
 
 "Take hence the prisoner," he growled, and as he bade his men so did
-they do. <span id="fr_104"></span>[1](#fn_104)
+they do. <span id="fr_104"></span>[1](#fn_104.md)
 
 <span id="page_351">p. 351</span>
 
@@ -359,7 +359,7 @@ thine own children."
 "Thine own death thou dost foretell," she said, "as well as mine."
 
 Now a son of Hogne was left alive. He was a Niblung. <span
-id="fr_105"></span>[1](#fn_105) With him did Gudrun conspire. When Atle
+id="fr_105"></span>[1](#fn_105.md) With him did Gudrun conspire. When Atle
 had drunken deep, and slumbered, his wife went with Hogne's son to his
 bedchamber, and she thrust a sword through him.
 
@@ -415,12 +415,12 @@ So endeth the northern tale of the Volsungs and the Giukings.
 
 ### Footnotes
 
-<span id="fn_104"></span>[350:1](tml36.htm#fr_104) A similar legend
+<span id="fn_104"></span>[350:1](tml36.htm#fr_104.md) A similar legend
 regarding a secret is current in the Highlands. Neil Munro gives a
 spirited version in his picturesque tale "The Secret of the Heather Ale"
 in *The Lost Pibroch*.
 
-<span id="fn_105"></span>[352:1](tml36.htm#fr_105) The Giukings were
+<span id="fn_105"></span>[352:1](tml36.htm#fr_105.md) The Giukings were
 originally the Nibelungs (Hniflungs) who possessed the hoard guarded by
 Andvari (Alberich). That is why Hogne's son is called a "Niblung". The
 reference is a survival from one of the older versions of the legend. In
@@ -432,4 +432,4 @@ were also fused by wandering minstrels.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXII. Siegfried and the Nibelungs](tml37)
+[Next: Chapter XXXII. Siegfried and the Nibelungs](tml37.md)

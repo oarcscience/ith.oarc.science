@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale27)  [Next](tale29) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale27)  [Next](tale29.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ a tail." The Caliph laughed at his words and Abu al-Hasan said, "I will
 explain to thee this saying by the tale of the larrikin and the cook. So
 hear thou, O my lord, the
 
-(*Next*) [STORY OF THE LARRIKIN AND THE COOK](tale29)  
+(*Next*) [STORY OF THE LARRIKIN AND THE COOK](tale29.md)  

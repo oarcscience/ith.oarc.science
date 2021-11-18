@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn15)  [Next](rmn17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn15)  [Next](rmn17.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ athletes of Venus their pristine vigour.
 The ancients delighted in mixing aphrodisiac beverages, or what were
 held as such, to which the Greeks gave the name of *satyrion*.
 
-Theophrastus, Dioscorides, and Pliny <span id="fr_21"></span>[1](#fn_21)
+Theophrastus, Dioscorides, and Pliny <span id="fr_21"></span>[1](#fn_21.md)
 speak complacently of the essences and ointments which had the property
 of giving extraordinary Vigour to the male.
 
@@ -56,7 +56,7 @@ King of India, named Androphilus, having sent to Antiochus a plant of
 the *satyrion* species, Theophrastus declares that the slave entrusted
 with this wonderful product boasted of having, by its means offered
 seventy sacrifices to Venus in succession. <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 The Egyptians call a plant which they consider as aphrodisiac,
 *chanlendjâam-dgarbi*. This is the *maranta-galanga* of Linnæus.
@@ -84,7 +84,7 @@ of old stagers who can do nothing but exhibit the same inefficiency over
 and over again. The pimento, nutmeg, clove, cinnamon, and ginger mixed
 with it, add to the aphrodisiac virtue of this extraordinary mushroom,
 and the whole would almost raise a dead man from his grave." <span
-id="fr_23"></span>[1](#fn_23)
+id="fr_23"></span>[1](#fn_23.md)
 
 Whatever may be the virtue of these preparations, we can only deplore
 the infatuation of those unhappy persons who venture to have recourse to
@@ -102,12 +102,12 @@ everything but the base to that we have just described.
 
 ### Footnotes
 
-<span id="fn_21"></span>[32:1](rmn16.htm#fr_21) THEOPH. *Op*.; DISCOR.
+<span id="fn_21"></span>[32:1](rmn16.htm#fr_21.md) THEOPH. *Op*.; DISCOR.
 iii. 134; Pliny xxvi. 10.
 
-<span id="fn_22"></span>[33:1](rmn16.htm#fr_22) THEOPHR. *Hist*. ix. 19.
+<span id="fn_22"></span>[33:1](rmn16.htm#fr_22.md) THEOPHR. *Hist*. ix. 19.
 
-<span id="fn_23"></span>[34:1](rmn16.htm#fr_23) A story is related, on
+<span id="fn_23"></span>[34:1](rmn16.htm#fr_23.md) A story is related, on
 this subject, of two young girls, fast linked in friendship who were
 married on the same day. In a moment of enthusiasm, they pledged
 themselves on oath to tell each other every morning the number of
@@ -133,4 +133,4 @@ scrupulous exactitude.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XVI: Votive Figure](rmn17)
+[Next: Plate XVI: Votive Figure](rmn17.md)

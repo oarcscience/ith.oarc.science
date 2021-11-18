@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog25)  [Next](hlog27) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog25)  [Next](hlog27.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ sometimes.
 
 ------------------------------------------------------------------------
 
-[Next: Aumakuas, or Ancestor-Ghosts](hlog27)
+[Next: Aumakuas, or Ancestor-Ghosts](hlog27.md)

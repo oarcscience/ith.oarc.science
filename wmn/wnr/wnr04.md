@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr03)  [Next](wnr05) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr03)  [Next](wnr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -468,4 +468,4 @@ American race.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Material Of The New Race](wnr05)
+[Next: III. The Material Of The New Race](wnr05.md)

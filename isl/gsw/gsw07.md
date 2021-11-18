@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw06)  [Next](gsw08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw06)  [Next](gsw08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 <span id="page_34">p. 34</span>
 
 <span id="img_03400"></span> ![FROM A TILE OF THE FOURTEENTH
-CENTURY](img/03400.jpg)
+CENTURY](img/03400.jpg.md)
 
 ### CHAPTER III
 
@@ -53,7 +53,7 @@ accommodation for so
 <span id="img_03401"></span> <span align="CENTER"> [![LAILA AND
 MAJNUN.&lt;br&gt; &lt;i&gt;From the collection of Major
 Sykes&lt;/i&gt;.](tn/03401.jpg)  
-Click to enlarge](img/03401.jpg)  
+Click to enlarge](img/03401.jpg.md)  
 LAILA AND MAJNUN.  
 *From the collection of Major Sykes*.  
 </span>
@@ -68,7 +68,7 @@ even such a distinguished guest as the Vakil-ul-Mulk; and, since
 
 <span id="img_03500"></span> <span align="CENTER"> [![THE GARDEN AT
 MAHUN.&lt;br&gt; &lt;i&gt;H. R. Sykes, phot&lt;/i&gt;.](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)  
+Click to enlarge](img/03500.jpg.md)  
 THE GARDEN AT MAHUN.  
 *H. R. Sykes, phot*.  
 </span>
@@ -132,7 +132,7 @@ almonds, sugar drawn as fine as hair, and many other delicious
 sweetmeats which are only made in Iran. There was also a box of manna
 from Isfahan. Between the trays of sweetmeats was a silver tray, on
 which was spread an exquisitely fine shawl, worth at least two hundred
-*tomans* <span id="fr_25"></span>[1](#fn_25); and on
+*tomans* <span id="fr_25"></span>[1](#fn_25.md); and on
 
 <span id="page_38">p. 38</span>
 
@@ -153,7 +153,7 @@ to sit in separate rooms.
 
 The Vakil-ul-Mulk again tasted the sweetmeats, and especially praised
 the toffee and also the manna which, with quails, formed the food of the
-Beni Israel <span id="fr_26"></span>[1](#fn_26) during the forty years
+Beni Israel <span id="fr_26"></span>[1](#fn_26.md) during the forty years
 they wandered in the deserts; and my father bowed low to express his
 gratitude.
 
@@ -281,7 +281,7 @@ Persia, which was then unhappily divided into separate principalities.
 <span id="img_04200"></span> <span align="CENTER"> [![SHAYKH SINAN MEETS
 THE CHRISTIAN MAIDEN.&lt;br&gt; &lt;i&gt;From the collection of Major
 Sykes&lt;/i&gt;.](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 SHAYKH SINAN MEETS THE CHRISTIAN MAIDEN.  
 *From the collection of Major Sykes*.  
 </span>
@@ -340,7 +340,7 @@ politeness were Persians far ahead of all other nations, but that in
 
 <span id="img_04500"></span> <span align="CENTER">
 [![&lt;i&gt;SHAYKH&lt;/i&gt; AHMAD](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)  
+Click to enlarge](img/04500.jpg.md)  
 *SHAYKH* AHMAD  
 </span>
 
@@ -367,7 +367,7 @@ written instead of *Amir*.
 
 Now *Mir* means a chief, but also a slave; so Mahmud was furious at this
 insult, until a Persian courtier explained to him that the "A" <span
-id="fr_27"></span>[1](#fn_27) which was omitted conveyed a delicate
+id="fr_27"></span>[1](#fn_27.md) which was omitted conveyed a delicate
 
 <span id="page_48">p. 48</span>
 
@@ -415,21 +415,21 @@ guarded by three hundred sowars; and, preceded by mounted attendants
 bearing silver maces, who shouted out to clear the road, the stately
 cortège disappeared in a cloud of dust on the road to Kerman.
 
-<span id="img_04900"></span> ![FROM AN OLD TILE](img/04900.jpg)
+<span id="img_04900"></span> ![FROM AN OLD TILE](img/04900.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_25"></span>[37:1](gsw07.htm#fr_25) A *toman* is worth four
+<span id="fn_25"></span>[37:1](gsw07.htm#fr_25.md) A *toman* is worth four
 shillings and a *kran* is one-tenth of a *toman*.
 
-<span id="fn_26"></span>[38:1](gsw07.htm#fr_26) *Sc*. the children of
+<span id="fn_26"></span>[38:1](gsw07.htm#fr_26.md) *Sc*. the children of
 Israel.
 
-<span id="fn_27"></span>[47:1](gsw07.htm#fr_27) *Alif* or *A* signifies
+<span id="fn_27"></span>[47:1](gsw07.htm#fr_27.md) *Alif* or *A* signifies
 one thousand.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. An Awful Tragedy](gsw08)
+[Next: Chapter IV. An Awful Tragedy](gsw08.md)

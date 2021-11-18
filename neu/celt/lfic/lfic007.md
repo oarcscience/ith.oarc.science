@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic006)  [Next](lfic008) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic006)  [Next](lfic008.md) 
 
 ------------------------------------------------------------------------
 
@@ -253,4 +253,4 @@ reception by his mother at eventide may be guessed.
 
 ------------------------------------------------------------------------
 
-[Next: I'll be Wiser the next Time](lfic008)
+[Next: I'll be Wiser the next Time](lfic008.md)

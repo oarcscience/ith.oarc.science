@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip65)  [Next](fip67) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip65)  [Next](fip67.md) 
 
 ------------------------------------------------------------------------
 
-### THE COUNTESS KATHLEEN O'SHEA <span id="fr_60"></span>[1](#fn_60)
+### THE COUNTESS KATHLEEN O'SHEA <span id="fr_60"></span>[1](#fn_60.md)
 
 A very long time ago, there suddenly appeared in old Ireland two unknown
 merchants of whom nobody had ever heard, and who nevertheless spoke the
@@ -162,9 +162,9 @@ them.
 
 ### Footnotes
 
-<span id="fn_60"></span>[232:1](fip66.htm#fr_60) This was quoted in a
+<span id="fn_60"></span>[232:1](fip66.htm#fr_60.md) This was quoted in a
 London-Irish newspaper. I am unable to find out the original source.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Wishes, by W. Carleton](fip67)
+[Next: The Three Wishes, by W. Carleton](fip67.md)

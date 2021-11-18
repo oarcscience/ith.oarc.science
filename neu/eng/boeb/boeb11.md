@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb10)  [Next](boeb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb10)  [Next](boeb12.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ My love has died for me to-day,
 
 ------------------------------------------------------------------------
 
-[Next: The Douglas Tragedy](boeb12)
+[Next: The Douglas Tragedy](boeb12.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb09)  [Next](boeb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb09)  [Next](boeb11.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ For nowe I have founde mine owne true love,
 
 ------------------------------------------------------------------------
 
-[Next: Barbara Allen's Cruelty](boeb11)
+[Next: Barbara Allen's Cruelty](boeb11.md)

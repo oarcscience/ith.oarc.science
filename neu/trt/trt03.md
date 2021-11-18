@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt02)  [Next](trt04) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt02)  [Next](trt04.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ what you will, and I shall not fail you. For to you, and to my lady and
 mother, I owe more than to anyone in the world, for she loved me and
 treated me as her son.' 'Sir,' replied Sir Ector, 'I only ask that you
 will make your foster-brother, Sir Kay, Seneschal <span
-id="fr_0"></span>[1](#fn_0) of all your lands.' 'That I will readily,'
+id="fr_0"></span>[1](#fn_0.md) of all your lands.' 'That I will readily,'
 answered Arthur,' and while he and I live no other shall fill that
 office.'
 
@@ -130,8 +130,8 @@ justice all the days of his life.
 
 ### Footnotes
 
-<span id="fn_0"></span>[7:1](trt03.htm#fr_0) 'Seneschal' means steward.
+<span id="fn_0"></span>[7:1](trt03.htm#fr_0.md) 'Seneschal' means steward.
 
 ------------------------------------------------------------------------
 
-[Next: The Questing Beast](trt04)
+[Next: The Questing Beast](trt04.md)

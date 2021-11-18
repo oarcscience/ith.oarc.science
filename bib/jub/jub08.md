@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub07) 
-[Next](jub09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub07.md) 
+[Next](jub09.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ Hence, p. 34 follows p. xxxiii--*JBH*.)
 ------------------------------------------------------------------------
 
 [Next: Short Titles, Abbreviations and Brackets Used in this
-Edition](jub09)
+Edition](jub09.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](sum05)  [Next](sum07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](sum05)  [Next](sum07.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ phenomenal growth of comparative philology itself was due primarily to
 the recognition that both Sanskrit, the language of the oldest sacred
 literature of the Hindu peoples, as well as Zend, or Old Persian, the
 language of the oldest sacred literature of the Iranian peoples, were
-Indo-European [languages](errata.htm#5); that is, they belong to the
+Indo-European [languages](errata.htm#5.md); that is, they belong to the
 same family of languages as Greek and Latin. The intense revival of
 Indo-European philology that followed was therefore based largely on the
 ancient literatures of the Greeks, Hindus, and Iranians, and this led
@@ -86,12 +86,12 @@ Euphrates Rivers and stretching from the Persian Gulf northward
 approximately as far as modern Bagdad; a land that may be aptly
 described as the culture cradle of the entire Near East. Should the
 reader turn, for example, to Hastings' *Encyclopedia of Religion and
-Ethics*, [29](sum10.htm#xref_29) and examine the very long article on
+Ethics*, [29](sum10.htm#xref_29.md) and examine the very long article on
 the cosmogonic or creation myths of the world, he will find a large and
 relatively exhaustive list of peoples, ancient and modern, cultured and
 primitive, whose cosmogonic concepts are described and analyzed. But he
 will look in vain for Sumerian cosmogony. Similarly, the collection
-entitled *Mythology of All the Races* [30](sum10.htm#xref_30) devotes
+entitled *Mythology of All the Races* [30](sum10.htm#xref_30.md) devotes
 thirteen volumes to an analysis of the more important mythologies in the
 world; here, too, however, there will be found few traces of Sumerian
 mythology. Whatever little is known of Sumerian mythology is largely
@@ -131,7 +131,7 @@ of the Sumerian myths and legends is therefore a prime and basic
 essential for a proper approach to a scientific study of the mythologies
 current in the ancient Near East, for it illuminates and clarifies to no
 small extent the background behind their origin and
-development. [i](sum11.htm#xref_i)
+development. [i](sum11.htm#xref_i.md)
 
 It is this practically unknown Sumerian mythology which I have the
 privilege of sketching briefly in the pages to follow. The sketch will
@@ -147,4 +147,4 @@ detail.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Myths of Origins](sum07)
+[Next: Chapter II. Myths of Origins](sum07.md)

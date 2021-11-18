@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico006) 
-[Next](nico008) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico006.md) 
+[Next](nico008.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ the whole, and many of the questions we ask are cleared up by it.
 ------------------------------------------------------------------------
 
 [Next: Chapter 8. This definition is confirmed by current beliefs about
-happiness](nico008)
+happiness](nico008.md)

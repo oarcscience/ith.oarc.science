@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp35)  [Next](dtp37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp35)  [Next](dtp37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ With kings, the powerful of the earth--the wise, the good,
 Fair forms, and hoary seers of ages past"
 
 You have a view of Zailm, that boy so obscure, that man so celebrated
-throughout a land not [paralleled](errata.htm#14) to-day, nor ever
+throughout a land not [paralleled](errata.htm#14.md) to-day, nor ever
 
 <span id="page_250">p. 250</span>
 
@@ -269,7 +269,7 @@ physiology, mechanics, the structure of cells and the essays of Darwin
 and Huxley, and I came to the same conclusions that have troubled the
 world so mercilessly in all ages. The gray matter of the brain, and the
 white cerebral substance, the medulla oblongata and vital magnetism, and
-the [blood](errata.htm#15)---these became so much phosphorized fat,
+the [blood](errata.htm#15.md)---these became so much phosphorized fat,
 haematin, and magnetic vibration; that same "unconscious
 
 <span id="page_256">p. 256</span>
@@ -376,4 +376,4 @@ neither man moved, neither spoke.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: A Soul In Peril](dtp37)
+[Next: Chapter II: A Soul In Peril](dtp37.md)

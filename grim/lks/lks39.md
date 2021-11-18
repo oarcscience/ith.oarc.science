@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks38)  [Next](lks40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks38)  [Next](lks40.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ justice over the sons of living breath and death and the world, by fire.
 
 ------------------------------------------------------------------------
 
-[Next: Ye Addresse Unto Ye Spirit On Hys Coming](lks40)
+[Next: Ye Addresse Unto Ye Spirit On Hys Coming](lks40.md)

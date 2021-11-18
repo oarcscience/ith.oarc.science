@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs04)  [Next](pifs06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs04)  [Next](pifs06.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ yue-ée-rah*." ("Alas, Mama!
 you are shaking, you are shaking!") The Coyote joined the dance, with
 the bag on his back, and sang as the Crows did:
 
-"*Ai nana, que-ée-rah, que-ée-rah*." <span id="fr_13"></span>[1](#fn_13)
+"*Ai nana, que-ée-rah, que-ée-rah*." <span id="fr_13"></span>[1](#fn_13.md)
 
 But at last the Crows burst out laughing, and said, "What do you bring
 in your bag?"
@@ -71,9 +71,9 @@ And we file out through the low door into the starry night.
 
 ### Footnotes
 
-<span id="fn_13"></span>[23:1](pifs05.htm#fr_13) *Ai nana* is an
+<span id="fn_13"></span>[23:1](pifs05.htm#fr_13.md) *Ai nana* is an
 exclamation always used by mourners.
 
 ------------------------------------------------------------------------
 
-[Next: III. The War-Dance of the Mice](pifs06)
+[Next: III. The War-Dance of the Mice](pifs06.md)

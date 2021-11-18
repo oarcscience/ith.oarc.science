@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc080) 
-[Next](motc082) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc080.md) 
+[Next](motc082.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ Känuga.
 
 ------------------------------------------------------------------------
 
-[Next: 82. Käna'sta, The Lost Settlement](motc082)
+[Next: 82. Käna'sta, The Lost Settlement](motc082.md)

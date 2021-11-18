@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal125)  [Next](njal127) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal125)  [Next](njal127.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Njal bade no man go to sleep, but to be ware of themselves.
 
 ------------------------------------------------------------------------
 
-[Next: 127. The Onslaught (1) On Bergthorsknoll](njal127)
+[Next: 127. The Onslaught (1) On Bergthorsknoll](njal127.md)

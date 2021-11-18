@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml19)  [Next](tml21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml19)  [Next](tml21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -276,7 +276,7 @@ there, and he went first. His
 <span id="img_15200"></span> <span align="CENTER"> [![LOKE AND
 HODUR&lt;br&gt; &lt;i&gt;From the sculpture by C. G.
 Qvarnström&lt;/i&gt;](tn/15200.jpg)  
-Click to enlarge](img/15200.jpg)  
+Click to enlarge](img/15200.jpg.md)  
 LOKE AND HODUR  
 *From the sculpture by C. G. Qvarnström*  
 </span>
@@ -624,7 +624,7 @@ A wondrous Boy shall Rinda bear,
 Who ne'er shall comb his raven hair,  
 Nor wash his visage in the stream,  
 Nor see the sun's departing beam, <span id="page_162">p. 162</span>  
-Till he on Hoder's [corpse](errata.htm#1) shall smile  
+Till he on Hoder's [corpse](errata.htm#1.md) shall smile  
 Flaming on the fun'ral pile.  
 Now my weary lips I close;  
 Leave me, leave me to repose.
@@ -732,4 +732,4 @@ I weep him not! let Hela keep her prey."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Binding of Loke](tml21)
+[Next: Chapter XVI. The Binding of Loke](tml21.md)

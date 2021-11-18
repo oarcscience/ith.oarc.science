@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah18)  [Next](toah20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah18)  [Next](toah20.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_103">p. 103</span>
 
-### YAPONCHA, THE WIND GOD <span id="fr_0"></span>[1](#fn_0)
+### YAPONCHA, THE WIND GOD <span id="fr_0"></span>[1](#fn_0.md)
 
 ANY years ago the Hopi were very much troubled by the wind. It blew and
 blew all the time. The sand drifted away from their fields, and they
@@ -21,7 +21,7 @@ their pipes earnestly and asked one another why it was that their gods
 should turn such strong wind upon them. And after awhile, they decided
 that they would ask the "little fellows" (the two little War Gods
 Po-okonghoya and Palongahoya, his younger brother) to help them. Now
-these "little fellows" were called in. [75](toah24.htm#xref_75) When
+these "little fellows" were called in. [75](toah24.htm#xref_75.md) When
 they came in they wanted to know why they were called. The Hopis said
 that they needed their help, something must be done to the wind. The
 "little fellows" said yes, they would see what they could do to help the
@@ -100,10 +100,10 @@ priests of the three villages of the Second Mesa.
 
 ### Footnotes
 
-<span id="fn_0"></span>[103:1](toah19.htm#fr_0) Reprinted from "Hopi
+<span id="fn_0"></span>[103:1](toah19.htm#fr_0.md) Reprinted from "Hopi
 Legends of the Sunset Crater Region," M. N. A., Museum Notes, Vol. 5,
 No. 4, Oct. 1932, p. 17.
 
 ------------------------------------------------------------------------
 
-[Next: The Kana-a Kachinas Of Sunset Crater](toah20)
+[Next: The Kana-a Kachinas Of Sunset Crater](toah20.md)

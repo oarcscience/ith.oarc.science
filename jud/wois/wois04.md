@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois03) 
-[Next](wois05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois03.md) 
+[Next](wois05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 # THE WISDOM OF ISRAEL
 
-### WHY GOD PERMITS IDOLATRY. <span id="fr_2"></span>[\*](#fn_2)
+### WHY GOD PERMITS IDOLATRY. <span id="fr_2"></span>[\*](#fn_2.md)
 
 THEY asked our sages in Rome, says the Babylonian Talmud, "If your God
 is displeased with men's worship of other gods, why does He not make it
@@ -61,7 +61,7 @@ laws with contempt are destined to have to render an account."
 
 ### Footnotes
 
-<span id="fn_2"></span>[17:\*](wois04.htm#fr_2) Abodah Zarah \[the
+<span id="fn_2"></span>[17:\*](wois04.htm#fr_2.md) Abodah Zarah \[the
 section of the Talmud dealing with "Strange Worship"—Idolatry, etc.\],
 p. 54*b*. I have rendered this freely; somewhat expanding the *Mishnah*,
 from the Commentaries and otherwise, and condensing the *Gemorrah*.
@@ -71,6 +71,6 @@ from the Commentaries and otherwise, and condensing the *Gemorrah*.
 ------------------------------------------------------------------------
 
 [Next: The Lamp that Goes Out when its Light is Done, and the Figs that
-are Gathered in their Due Season](wois05)
+are Gathered in their Due Season](wois05.md)
 
 </div>

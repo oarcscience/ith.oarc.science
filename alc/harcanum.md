@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](goldtrac)  [Next](hortulan) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](goldtrac)  [Next](hortulan.md) 
 
 ------------------------------------------------------------------------
 
@@ -1338,6 +1338,6 @@ Saturn, and its end and perfection in the Dominion of Jupiter.
 
 ------------------------------------------------------------------------
 
-[Next: Hortulanus Commentary on the Emerald Tablet](hortulan)
+[Next: Hortulanus Commentary on the Emerald Tablet](hortulan.md)
 
   

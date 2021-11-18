@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Next](brfb01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Next](brfb01.md) 
 
 </div>
 
@@ -28,6 +28,6 @@ Dedicated to Diana Scott Lang
 
 ------------------------------------------------------------------------
 
-[Next: Contents](brfb01)
+[Next: Contents](brfb01.md)
 
 </div>

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](elms16)  [Next](elms18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](elms16)  [Next](elms18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Edinburgh Lectures on Mental Science*, by Thomas Troward, \[1909\],
 at Intangible Textual Heritage
 
@@ -175,7 +175,7 @@ vision, and which we then vivify by letting our thought dwell upon it,
 thus infusing our own personality into it, and so providing that
 personal element through which the specific action of the universal law
 relatively to the particular individual always takes place. <span
-id="fr_0"></span>[\*](#fn_0) Whether our thought shall be allowed thus
+id="fr_0"></span>[\*](#fn_0.md) Whether our thought shall be allowed thus
 to dwell upon a particular mental image depends on our own will, and our
 exercise of our will depends on our belief in our power to use it so as
 to disperse or consolidate a given mental image; and finally our belief
@@ -228,12 +228,12 @@ consider the nature of that power.
 
 ### Footnotes
 
-<span id="fn_0"></span>[123:\*](elms17.htm#fr_0) See my "Doré Lectures."
+<span id="fn_0"></span>[123:\*](elms17.htm#fr_0.md) See my "Doré Lectures."
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XVI.—The Spirit](elms18)
+[Next: XVI.—The Spirit](elms18.md)
 
 </div>

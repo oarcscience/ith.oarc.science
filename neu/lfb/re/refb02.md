@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb01)  [Next](refb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb01)  [Next](refb03.md) 
 
 </div>
 
@@ -43,6 +43,6 @@ A. L.
 
 ------------------------------------------------------------------------
 
-[Next: The Twelve Dancing Princesses](refb03)
+[Next: The Twelve Dancing Princesses](refb03.md)
 
 </div>

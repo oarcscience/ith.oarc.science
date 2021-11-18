@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos11)  [Next](kos13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos11)  [Next](kos13.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ BEN ANI, BRIAH, THEIT; all which names are
 <span id="page_38">p. 38</span>
 
 written in Heaven in the characters of Malachim, <span
-id="fr_47"></span>[1](#fn_47) that is to say, the tongue of the Angels.
+id="fr_47"></span>[1](#fn_47.md) that is to say, the tongue of the Angels.
 
 We then, by the just judgment of God, by the Ineffable and Admirable
 Virtue of God, just, living, and true, we call ye with power, we force
@@ -145,7 +145,7 @@ BENI ELOHIM, KERUBIM, and ISHIM; and by and
 
 in the Sacred name of Twelve Letters of which each Letter is the Name of
 an Angel, and the letters of the Name are ALEPH, <span
-id="fr_48"></span>[1](#fn_48) BETH, BETH, NUN, VAU, RESH, VAU, CHETH,
+id="fr_48"></span>[1](#fn_48.md) BETH, BETH, NUN, VAU, RESH, VAU, CHETH,
 HE, QOPH, DALETH, SHIN.
 
 By these Names therefore, and by all the other Holy Names, we conjure ye
@@ -326,11 +326,11 @@ lightning and thunder; and which will utterly make you to perish,
 destroy, and banish you. These Names then are Aleph, Beth, Gimel,
 Daleth, He, Vau, Zayin, Cheth, Teth, Yod, Kaph, Lamed, Mem, Nun, Samekh,
 Ayin, Pe, Tzaddi, Qoph, Resh, Shin, Tau. <span
-id="fr_49"></span>[1](#fn_49)
+id="fr_49"></span>[1](#fn_49.md)
 
 By these secret Names, therefore, and by these signs which are full of
 Mysteries, we curse ye, and in virtue of the power of the Three
-Principles, Aleph, <span id="fr_50"></span>[2](#fn_50) Mem, Shin, we
+Principles, Aleph, <span id="fr_50"></span>[2](#fn_50.md) Mem, Shin, we
 deprive ye of all office and dignity which ye may have enjoyed up till
 now; and by their virtue and power we relegate you into a lake of
 sulphur and of flame, and unto the deepest depths of the Abyss, that ye
@@ -378,12 +378,12 @@ not the night preceding the aforesaid days. And remember that by day
 
 ### Footnotes
 
-<span id="fn_47"></span>[38:1](kos12.htm#fr_47) The Mystic Alphabet
+<span id="fn_47"></span>[38:1](kos12.htm#fr_47.md) The Mystic Alphabet
 known as the 'Writing of Malachim' is formed from the positions of the
 Stars in the heavens, by drawing imaginary lines from one star to
 another so as to obtain the shapes of the characters of this Alphabet.
 
-<span id="fn_48"></span>[39:1](kos12.htm#fr_48) Which Letters I have,
+<span id="fn_48"></span>[39:1](kos12.htm#fr_48.md) Which Letters I have,
 with much care, corrected, for in the MSS. the letters are jumbled
 together in hopeless confusion, *Seym* is written for *Shin*, *Res* for
 *Beth*, etc. The Name is *Ab*, *Ben*, *Ve Ruach Ha-Qadesch*, Father,
@@ -391,15 +391,15 @@ Son, and Holy Spirit, There are two other Names of Twelve Letters
 frequently employed, HQDVSh BRVK HVA, Holy and Blessed be He; and ADNI
 HMLK NAMN, The Lord, the faithful King; besides other forms.
 
-<span id="fn_49"></span>[42:1](kos12.htm#fr_49) Which are the Names of
+<span id="fn_49"></span>[42:1](kos12.htm#fr_49.md) Which are the Names of
 the Letters of the Hebrew Alphabet, to each of which a special mystic
 meaning and power is attached, besides its ordinary application.
 
-<span id="fn_50"></span>[42:2](kos12.htm#fr_50) The Literal Symbols of
+<span id="fn_50"></span>[42:2](kos12.htm#fr_50.md) The Literal Symbols of
 Air, Water, and Fire; which are called by the Sepher Yetzirah the Three
 Mother Letters.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Concerning the Medals Or Pentacles, And the Manner
-of Constructing Them](kos13)
+of Constructing Them](kos13.md)

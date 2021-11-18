@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr08)  [Next](sdr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr08)  [Next](sdr10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ Rosicrucian symbol of the seven Planes of Consciousness, i.e., the seven
 linked circles, the Rosicrucians have also a special symbol by which
 they seek to indicate these three wonderful higher Planes of
 Consciousness, viz.: the symbol of the **three linked circles** (see
-[illustration](#img_fig11)). It will be noticed here, also, that each of
+[illustration](#img_fig11).md). It will be noticed here, also, that each of
 the circles are linked with the two on either side of it,—the
 circumference of each circle extending over that of the two others on
 either side of it; this indicates that each Plane of Consciousness is
@@ -55,7 +55,7 @@ each of these
 
 <span id="img_fig11"></span> <span align="CENTER"> [![Figure 11. Symbol
 of the Three Higher Planes of Consciousness](tn/fig11.jpg)  
-Click to enlarge](img/fig11.jpg)  
+Click to enlarge](img/fig11.jpg.md)  
 Figure 11. Symbol of the Three Higher Planes of Consciousness  
 </span>
 
@@ -610,7 +610,7 @@ laws to which every nascent faculty is subject. Many more or less
 perfect examples of this new faculty exist in the world today, and it
 has been my privilege to know personally and to have had the opportunity
 of studying, several men and women who have possessed it. In the course
-of a few more [millenniums](errata.htm#16) there should be born from the
+of a few more [millenniums](errata.htm#16.md) there should be born from the
 present human race, a higher type of man, possessing this higher type of
 consciousness. This new race, as it may well be called, would occupy
 toward us a position such as that occupied by us toward the simple
@@ -874,4 +874,4 @@ Let him who wishes for the Light solve this Riddle of the Symbol!
 
 ------------------------------------------------------------------------
 
-[Next: Part IX. The Sevenfold Soul of Man](sdr10)
+[Next: Part IX. The Sevenfold Soul of Man](sdr10.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl039)  [Next](cohl041) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl039)  [Next](cohl041.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 "'Now another message for you to tell your people.
 
 "'It is not right for you to have so many dances <span
-id="fr_35"></span>[4](#fn_35) and dance songs.
+id="fr_35"></span>[4](#fn_35.md) and dance songs.
 
 "'A man calls a dance in honor of some totem animal from which he
 desires favor or power. This is very wrong, for you do not know what
@@ -23,11 +23,11 @@ cease.'"
 So they said and he said. Eniaiehuk.
 
 "'Now this shall be the way: They who belong to these totem animal
-societies <span id="fr_36"></span>[1](#fn_36) must throw tobacco and
+societies <span id="fr_36"></span>[1](#fn_36.md) must throw tobacco and
 disband.' So they said." "Now in those days when the head men heard this
 message they said at once, in anger, 'We disband,' and they said this
 without holding a ceremony as the messenger had directed." <span
-id="fr_37"></span>[2](#fn_37)
+id="fr_37"></span>[2](#fn_37.md)
 
 Eniaiehuk.
 
@@ -35,11 +35,11 @@ Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_35"></span>[39:4](cohl040.htm#fr_35) The Seneca had
+<span id="fn_35"></span>[39:4](cohl040.htm#fr_35.md) The Seneca had
 thirty-three dances, ten of which were acquired from other tribes. See
-[p. 81](cohl142.htm#page_81).
+[p. 81](cohl142.htm#page_81.md).
 
-<span id="fn_36"></span>[40:1](cohl040.htm#fr_36) Animal Societies and
+<span id="fn_36"></span>[40:1](cohl040.htm#fr_36.md) Animal Societies and
 Totems. The Seneca firmly believe that by using the proper formula the
 favor of various animals can be purchased. The animal petitioned it is
 believed will make the person successful in any pursuit in which itself
@@ -76,10 +76,10 @@ bear, the birds (eagle), the buffalo and the otter, respectively, and
 taking their names from their guardian animal (Secret Medicine Societies
 of the Seneca, p. 113).
 
-<span id="fn_37"></span>[40:2](cohl040.htm#fr_37) This was done at the
+<span id="fn_37"></span>[40:2](cohl040.htm#fr_37.md) This was done at the
 suggestion of Cornplanter who is accused of endeavoring to upset the
 plans and prophecies of Handsome Lake in many sly ways.
 
 ------------------------------------------------------------------------
 
-[Next: Section 30](cohl041)
+[Next: Section 30](cohl041.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray051)  [Next](pray053) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray051)  [Next](pray053.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ ruler and disposer of all its wishes.
 
 ------------------------------------------------------------------------
 
-[Next: 51.](pray053)
+[Next: 51.](pray053.md)

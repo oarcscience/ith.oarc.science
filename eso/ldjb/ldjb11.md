@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb10)  [Next](ldjb12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb10)  [Next](ldjb12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ great Mysterium was born, wherein was contained everything that is
 within the power of eternal nature. This, however, was only a Mysterium,
 and had no resemblance to any created being. There everything was as if
 (mixed) together, like a cloud of dust." <span
-id="fr_79"></span>[1](#fn_79) (*Menschwerdung*, i. 1, 10.)
+id="fr_79"></span>[1](#fn_79) (*Menschwerdung*, i. 1, 10..md)
 
 <span id="page_165">p. 165</span>
 
@@ -67,7 +67,7 @@ itself a new *principium* or beginning. The generatrix of the temporal
 is a reproduction of the eternal generatrix, time originates in
 eternity, and even here eternity, with its wonderful production,
 appears, in its powers and capabilities, in an especially temporal form
-and shape." <span id="fr_80"></span>[1](#fn_80) (*Mysterium*, vi. 10.)
+and shape." <span id="fr_80"></span>[1](#fn_80) (*Mysterium*, vi. 10..md)
 
  
 
@@ -100,7 +100,7 @@ elements as a particular life." (*Stiefel*, i. 31.)
 good bad not been also embodied therein, there would be in it no other
 doing than that of the world of darkness; but this is prevented by the
 divine power and by the light of the sun." <span
-id="fr_81"></span>[1](#fn_81) (*Six Theosophical Points*, ix. 17.)
+id="fr_81"></span>[1](#fn_81) (*Six Theosophical Points*, ix. 17..md)
 
 "This world is rooted in evil and good, and there can be neither one of
 them without the other. But the great misfortune in it is that evil is
@@ -108,7 +108,7 @@ preponderating therein over good, and the wrath stronger than love, and
 this is due to the sin of the devil and of man, who excited nature by
 their perverted desires, so that the world is now powerfully qualified
 in wrath, acting like a poison within the body." <span
-id="fr_82"></span>[2](#fn_82) (*Mysterium*, xi. 15.)
+id="fr_82"></span>[2](#fn_82) (*Mysterium*, xi. 15..md)
 
  
 
@@ -116,7 +116,7 @@ That the darkness has obtained so much power in this world is not the
 fault of God, but it is due to Lucifer, who corrupted the primordial
 creation, and who in consequence of Adam's fall is now still more
 enabled to act within the dark element of nature. <span
-id="fr_83"></span>[3](#fn_83)
+id="fr_83"></span>[3](#fn_83.md)
 
 "Within all nature there is a continual wrestling, battling, and
 devouring, so that this world may truly be called a
@@ -136,13 +136,13 @@ power and incitement thereto by the devil." (*Aurora*, Preface, x. 10.)
 
 "The devil resides in this world, and he continually infests external
 nature; but he has his power only in the wrath, in bitter desire." <span
-id="fr_84"></span>[1](#fn_84) (*Menschwerdung*, i. 2, 4.)
+id="fr_84"></span>[1](#fn_84) (*Menschwerdung*, i. 2, 4..md)
 
  
 
 God acts with the holy power of his inner world against the corrupting
 power of Lucifer, but the external world is not thereby changed in its
-own particular essence. <span id="fr_85"></span>[2](#fn_85)
+own particular essence. <span id="fr_85"></span>[2](#fn_85.md)
 
 "The inner world, the world of light, dwells in the external world, and
 the latter receives power from the former. She blooms in the external
@@ -170,7 +170,7 @@ the light of the sun, and likewise the external being craves for the
 interior one. Thereby it receives the form of the latter as a light and
 power, without, however, being able to grasp the interior spirit itself;
 for the spirit does not dwell in the exterior, but has possession of its
-own self in its own interior state." <span id="fr_86"></span>[1](#fn_86)
+own self in its own interior state." <span id="fr_86"></span>[1](#fn_86.md)
 (*Six Theosophical Points*, vi. 9.)
 
  
@@ -210,7 +210,7 @@ is lovely, pleasing, mild, and delightful." (*Threefold Life*, vi. 3 6.)
 "All that is powerful in the essence of the holy world is hidden in the
 wrath and curse of God in the quality of the dark world; but it blooms
 by means of the power of the sun and the light of external nature
-through the curse and the wrath." <span id="fr_87"></span>[1](#fn_87)
+through the curse and the wrath." <span id="fr_87"></span>[1](#fn_87.md)
 (*Mysterium*, xxi. 8.)
 
  
@@ -229,13 +229,13 @@ of the sun is also in water, but not manifest. In fact, we recognise
 that the whole world is all *sun*, and the locality of the sun would be
 everywhere if God would want to ignite it and cause it to become
 manifest, for all existence begins in the light of the sun." <span
-id="fr_88"></span>[1](#fn_88) (*Six Theosophical Points*, vi. 10.)
+id="fr_88"></span>[1](#fn_88) (*Six Theosophical Points*, vi. 10..md)
 
 "If God would ignite the light by means of the heat, the whole world
 would be sun (manifest), for the power of the sun is everywhere, and
 before the body of the sun existed the whole locality of the world was
 as shining as the sun is at present, but not so insupportable, but mild
-and delightful." <span id="fr_89"></span>[2](#fn_89) (*Aurora*, xxv.
+and delightful." <span id="fr_89"></span>[2](#fn_89.md) (*Aurora*, xxv.
 63.)
 
  
@@ -249,7 +249,7 @@ earth is the centre of the elements. Both, if compared with each other,
 are like spirit and body, or like man and woman. But the constellation
 has still another woman, wherein it breeds out its substance, namely,
 the moon, she being the wife of all the planets, but especially of the
-sun." <span id="fr_90"></span>[3](#fn_90) (*Mysterium*, xi. 31.)
+sun." <span id="fr_90"></span>[3](#fn_90) (*Mysterium*, xi. 31..md)
 
 <span id="page_171">p. 171</span>
 
@@ -269,7 +269,7 @@ terrestrial world comes from them.
 for in them is manifest the wrathful fiery power of eternal nature, as
 well as the power of the holy spiritual world, as an outbreathed
 essence. Thus there are many dark stars which we cannot see, and there
-are many shining ones which we see." <span id="fr_91"></span>[1](#fn_91)
+are many shining ones which we see." <span id="fr_91"></span>[1](#fn_91.md)
 (*Mysterium*, x. 36.)
 
 "The evil, like the good, in all things comes from the stars; and as the
@@ -290,7 +290,7 @@ contained within the stars;
 <span id="page_172">p. 172</span>
 
 the constellation ignites the earth, and all this taken together is only
-one spirit." <span id="fr_92"></span>[1](#fn_92) (*Threefold Life*, vii.
+one spirit." <span id="fr_92"></span>[1](#fn_92.md) (*Threefold Life*, vii.
 48.)
 
 In their relations to the earth and the elements, the stars act the part
@@ -301,7 +301,7 @@ say, the life of the four." (*Threefold Life*, vii. 45.)
 
 "The starry sky rules in all creatures as it were in its own property.
 This sky is the man, and 'matter,' or the watery form, is his wife, who
-gives birth to what heaven creates." <span id="fr_93"></span>[2](#fn_93)
+gives birth to what heaven creates." <span id="fr_93"></span>[2](#fn_93.md)
 (*Three Principles*, vii. 33.)
 
 "The upper desires the lower and the lower the higher. The hunger of
@@ -315,7 +315,7 @@ children with each other." (*Grace*, v. 19.)
 But it must be understood that there is a distinct life in the earth.
 This is proved by her products, and also by her desire for the sun, in
 consequence of which she is continually turning around. <span
-id="fr_94"></span>[3](#fn_94)
+id="fr_94"></span>[3](#fn_94.md)
 
 "If you behold the earth and the rocks you will acknowledge that there
 is a life in them; for if this were
@@ -337,7 +337,7 @@ sun. Therefore she is turning. The fire, her desire for light, is
 turning her, for it wishes to be ignited, and to have a life of its own.
 Having nevertheless to remain in death, still it desires after the life
 above and attracts the latter, and opens its centre for ever to receive
-the *tincture* and fire of the sun." <span id="fr_95"></span>[1](#fn_95)
+the *tincture* and fire of the sun." <span id="fr_95"></span>[1](#fn_95.md)
 (*Threefold Life*, xi. 5.)
 
  
@@ -369,7 +369,7 @@ therein." (*Threefold Life*, v. 105.)
 From this superterrestrial basis have proceeded the external terrestrial
 elements. There was first separated from it the fire, next the air, then
 the water, and finally the element of earth. <span
-id="fr_96"></span>[1](#fn_96)
+id="fr_96"></span>[1](#fn_96.md)
 
 "The four forms which are hidden within the one true element have become
 active by means of the ignition or excitation of the lower principles,
@@ -409,7 +409,7 @@ and breaking-up of the other." (*Signature*, xv. 4.)
 In many of the products of the earth—for instance, in many of the
 minerals—the true essence seems to be entirely hidden in death; but in
 others, especially in the noble metals and precious stones, it still
-manifests its brightness. <span id="fr_97"></span>[1](#fn_97)
+manifests its brightness. <span id="fr_97"></span>[1](#fn_97.md)
 
 "It seems strange to the reasoning mind, if we observe the earth with
 its solid rocks and its rough and harsh appearance, that big rocks and
@@ -423,13 +423,13 @@ earth and stones out of the eternal essentiality." (*Menschwerdung*, i.
 
 "But in the earth we find still another *tincture* hidden away which is
 like the celestial one, especially in the precious metals." <span
-id="fr_98"></span>[2](#fn_98) (*Six Theosophical Points*, vi. 2.)
+id="fr_98"></span>[2](#fn_98) (*Six Theosophical Points*, vi. 2..md)
 
 "Gold is nearly related to the divine substantiality or celestial
 corporeity. This would be seen if we could dissolve the dead body of the
 gold and cause it to become a volatile, active spirit, but this is only
 possible by means of the power of God." <span
-id="fr_99"></span>[3](#fn_99) (*Signature*, iii. 39.)
+id="fr_99"></span>[3](#fn_99) (*Signature*, iii. 39..md)
 
 "As far as precious stones are concerned, carbuncles, rubies, delphines,
 onyx, &c., they have their origin there where the flash of light arose
@@ -439,7 +439,7 @@ centre of the
 <span id="page_176">p. 176</span>
 
 sourcive spirits. Therefore are such stones so mild, lovely, and at the
-same time so powerful." <span id="fr_100"></span>[1](#fn_100) (*Aurora*,
+same time so powerful." <span id="fr_100"></span>[1](#fn_100.md) (*Aurora*,
 xviii. 17.)
 
  
@@ -479,13 +479,13 @@ fighting against each other. On the other hand, there are also good and
 kind creatures, made after the type of the angelic world, such as the
 tame animals and birds: among them, however, there are also bad
 qualities to be found." (*Grace*, v. 20.) <span
-id="fr_101"></span>[1](#fn_101)
+id="fr_101"></span>[1](#fn_101.md)
 
  
 
 In each external thing there is hidden an eternal and imperishable
 something, which issues again in an ethereal form out of the degraded
-body of the terrestrial substance. <span id="fr_102"></span>[2](#fn_102)
+body of the terrestrial substance. <span id="fr_102"></span>[2](#fn_102.md)
 
 "In each external thing there are two qualities, one originating from
 time and the other one from eternity. The first or temporal quality is
@@ -520,7 +520,7 @@ xxiv. 7.)
 All these external formations proceed from the fire-life by means of the
 *tincture* and the oily, spiritual quality, which manifests its power
 and activity in contrast with the elements. <span
-id="fr_103"></span>[1](#fn_103)
+id="fr_103"></span>[1](#fn_103.md)
 
 "Each thing is like a fire. However, the torture of the fire is not a
 true life, but the tincture that originates from the fire." (*Threefold
@@ -577,17 +577,17 @@ continually labouring to manifest itself outwardly. Thus everything has
 its own mouth for the purpose of revealing itself, and therein is based
 the language of nature, by means of which each thing speaks out of its
 own quality, and represents that for which it may be useful and
-good." <span id="fr_104"></span>[1](#fn_104) (*Signature*, i. 11–17.)
+good." <span id="fr_104"></span>[1](#fn_104) (*Signature*, i. 11–17..md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_79"></span>[164:1](ldjb11.htm#fr_79) The external
+<span id="fn_79"></span>[164:1](ldjb11.htm#fr_79.md) The external
 consciousness was hidden within the internal one, in the same sense as
 the character of a tree is hidden within the seed.
 
-<span id="fn_80"></span>[165:1](ldjb11.htm#fr_80) We find the same
+<span id="fn_80"></span>[165:1](ldjb11.htm#fr_80.md) We find the same
 fundamental law in all departments of nature. A new world is only a
 "nebular spot," a dust of cosmic matter, as long as it has not formed an
 organised centre. Likewise man resembles a "*nebula*" of unlimited
@@ -595,25 +595,25 @@ extent, of which only the organised kernel (the physical body) is
 visible; and so man begins to exist as a spiritual being only when the
 universal Spirit takes form within his soul.
 
-<span id="fn_81"></span>[166:1](ldjb11.htm#fr_81) The visible sun in the
+<span id="fn_81"></span>[166:1](ldjb11.htm#fr_81.md) The visible sun in the
 sky is the exterior manifestation of an invisible spiritual power. As
 the visible sunlight dries up swamps and destroys impurities, so is the
 spiritual sunlight opposed to the evil influences that arise from the
 astral plane.
 
-<span id="fn_82"></span>[166:2](ldjb11.htm#fr_82) Nature exists in
+<span id="fn_82"></span>[166:2](ldjb11.htm#fr_82.md) Nature exists in
 universal man, and be is existing in her. Nature receives her
 consciousness from man, and as the will in him has become tinctured with
 evil desires, so nature—the product of his imagination—became tinctured
 with evil likewise.
 
-<span id="fn_83"></span>[166:3](ldjb11.htm#fr_83) Neither Christ, nor
+<span id="fn_83"></span>[166:3](ldjb11.htm#fr_83.md) Neither Christ, nor
 "Lucifer," nor "the Antichrist," is, as the vulgar interpretation has
 it, outside of the soul of the world, but a power active within the
 latter, in the same sense as a man's disease does not exist outside of
 his own body, but within it.
 
-<span id="fn_84"></span>[167:1](ldjb11.htm#fr_84) If it had not been for
+<span id="fn_84"></span>[167:1](ldjb11.htm#fr_84.md) If it had not been for
 Lucifer's seduction and Adam's fall, primordial man would have remained
 for ever in blissful ignorance of the lower qualities, in a spiritual
 state, which he could not have fully enjoyed, because he did not know
@@ -622,12 +622,12 @@ the world, and is therefore man's benefactor; provided that man learns
 by the experience afforded to him in this way, and does not become
 absorbed by evil, but conquers it.
 
-<span id="fn_85"></span>[167:2](ldjb11.htm#fr_85) If it were not for the
+<span id="fn_85"></span>[167:2](ldjb11.htm#fr_85.md) If it were not for the
 omnipresent and superior power of good, there would be no possibility
 for man to conquer his evil desires. This absolute good is the One,
 without which the Two (relative good and evil) could not exist.
 
-<span id="fn_86"></span>[168:1](ldjb11.htm#fr_86) The earth, like every
+<span id="fn_86"></span>[168:1](ldjb11.htm#fr_86.md) The earth, like every
 other cosmic body, is a form of manifestation of will, and has a
 sensation of its own. Every part of the earth strives for the full
 enjoyment of the beneficent sun-rays, and when arriving at the meridian
@@ -636,7 +636,7 @@ glory of the celestial orb, but is pushed on by those parts that follow.
 Thus every part alternatively embraces the sunlight and sinks again into
 darkness once during the daily revolution of our planet.
 
-<span id="fn_87"></span>[169:1](ldjb11.htm#fr_87) The world is the body
+<span id="fn_87"></span>[169:1](ldjb11.htm#fr_87.md) The world is the body
 of universal man; the spiritual sun is his heart, and the moon is the
 symbol of his imagination (or fancy). The true meaning of Boehme's
 writings, like those of the Bible, will only be understood if we cease
@@ -644,12 +644,12 @@ to look upon the cosmos from our limited personal point of view, and, by
 becoming identified in our consciousness with the All, realise that the
 All is our Self.
 
-<span id="fn_88"></span>[170:1](ldjb11.htm#fr_88) It may be remarked
+<span id="fn_88"></span>[170:1](ldjb11.htm#fr_88.md) It may be remarked
 that at the time of Jacob Boehme it was not generally known that the sun
 has a hydrogen atmosphere, nor that water was composed of oxygen and
 hydrogen, the most combustible gas.
 
-<span id="fn_89"></span>[170:2](ldjb11.htm#fr_89) The same doctrine
+<span id="fn_89"></span>[170:2](ldjb11.htm#fr_89.md) The same doctrine
 applies to the light of the spirit. The Christ-spirit is everywhere; but
 it is not manifest in every person. Little would it benefit the blind to
 know of the light merely from hearsay. Little would it profit the
@@ -664,7 +664,7 @@ possession of it cannot bring it into himself by means of any creed,
 opinions, or theories; but if he possesses it, then from that fountain
 will arise many streams of pure love." (*Communion* v. 18.)
 
-<span id="fn_90"></span>[170:3](ldjb11.htm#fr_90) So with the mind of
+<span id="fn_90"></span>[170:3](ldjb11.htm#fr_90.md) So with the mind of
 man, it being the "constellation of stars, thoughts, and mental powers
 wherein he lives," he receives its light from the divine <span
 id="page_171">p. 171</span> sun that shines in the centre of his own
@@ -672,24 +672,24 @@ being. There are thoughts of which we are conscious, and others which
 remain hidden until they are called forth by that power which rests in
 the spirit of man.
 
-<span id="fn_91"></span>[171:1](ldjb11.htm#fr_91) This is also asserted
+<span id="fn_91"></span>[171:1](ldjb11.htm#fr_91.md) This is also asserted
 in Sinnett's *Esoteric Buddhism*. Ideas have their regular revolutions
 in the mental world, comparable to the planets in the sky. They arise
 and disappear from the mental horizon of the individual, and also from
 that of humanity as a whole, according to cosmic laws.
 
-<span id="fn_92"></span>[172:1](ldjb11.htm#fr_92) To realise the nature
+<span id="fn_92"></span>[172:1](ldjb11.htm#fr_92.md) To realise the nature
 of the relation existing between the macrocosm and the microcosm, it is
 necessary that man should learn to realise his own existence as a
 macrocosmic being. Without such a practical realisation, a merely
 theoretical study of such mysteries is difficult, and of little use.
 
-<span id="fn_93"></span>[172:2](ldjb11.htm#fr_93) All material forms are
+<span id="fn_93"></span>[172:2](ldjb11.htm#fr_93.md) All material forms are
 nothing but ultimate expressions of ideas, shaped into forms by thought
 and caused to grow and become objective by the power of will which is
 inherent in everything.
 
-<span id="fn_94"></span>[172:3](ldjb11.htm#fr_94) There is only one
+<span id="fn_94"></span>[172:3](ldjb11.htm#fr_94.md) There is only one
 universal life; but its action becomes differentiated and modified in
 each individual form by the qualities of the latter. It then becomes
 therein, as it were, a distinct and separate life, differing not in
@@ -698,57 +698,57 @@ constitutes the individuality of the form. The external expression which
 results from the action of this individual life constitutes the
 personality.
 
-<span id="fn_95"></span>[173:1](ldjb11.htm#fr_95) If the whole world is
+<span id="fn_95"></span>[173:1](ldjb11.htm#fr_95.md) If the whole world is
 a manifestation of consciousness, there can be nothing absolutely
 unconscious in it. Each thing has its own state of consciousness, but is
 not necessarily therefore self-conscious or aware of its own qualities.
 If it were so, the world would be a hell.
 
-<span id="fn_96"></span>[174:1](ldjb11.htm#fr_96) The same order may be
+<span id="fn_96"></span>[174:1](ldjb11.htm#fr_96.md) The same order may be
 observed in the microcosm of man. First comes the desire, which is of a
 fiery nature; then the idea, which is still airy and indefinite, but
 which becomes concrete as a thought by the aid of the "watery element,"
 and ultimately there results the act or the material corporification.
 
-<span id="fn_97"></span>[175:1](ldjb11.htm#fr_97) In the mineral kingdom
+<span id="fn_97"></span>[175:1](ldjb11.htm#fr_97.md) In the mineral kingdom
 precious stones may be compared to the eye in the animal realm, in so
 far as the same is said to be the mirror of the soul; *i.e.*, of the
 interior quality.
 
-<span id="fn_98"></span>[175:2](ldjb11.htm#fr_98) All forms are
+<span id="fn_98"></span>[175:2](ldjb11.htm#fr_98.md) All forms are
 expressions of originally spiritual powers, and the qualities of such
 powers are more manifest in precious stones than in any other material
 substance.
 
-<span id="fn_99"></span>[175:3](ldjb11.htm#fr_99) For this reason it
+<span id="fn_99"></span>[175:3](ldjb11.htm#fr_99.md) For this reason it
 requires the possession of divine power to practise alchemy. It is a
 divine and not merely a "natural" science.
 
-<span id="fn_100"></span>[176:1](ldjb11.htm#fr_100) For the true
+<span id="fn_100"></span>[176:1](ldjb11.htm#fr_100.md) For the true
 signification and magic powers of precious stones see "*In the Promos of
 the Temple of Wisdom*."
 
-<span id="fn_101"></span>[177:1](ldjb11.htm#fr_101) For description of
+<span id="fn_101"></span>[177:1](ldjb11.htm#fr_101.md) For description of
 the elementals inhabiting the astral plane see *Paracelsus*.
 
-<span id="fn_102"></span>[177:2](ldjb11.htm#fr_102) The spiritual being
+<span id="fn_102"></span>[177:2](ldjb11.htm#fr_102.md) The spiritual being
 is the one that is not subject to the dissolution of the physical form,
 but "reincarnates" periodically; that is to say, it creates for itself
 again other forms in which it may find to a certain extent an outward
 expression. (Compare *Myster. Magn.*, 29, 45.).
 
-<span id="fn_103"></span>[178:1](ldjb11.htm#fr_103) In other words, each
+<span id="fn_103"></span>[178:1](ldjb11.htm#fr_103.md) In other words, each
 thing is an expression of will-power. The will alone, however, does not
 constitute its true consciousness; the latter results from the action of
 the will upon the imagination.
 
-<span id="fn_104"></span>[179:1](ldjb11.htm#fr_104) See *Magic, White
+<span id="fn_104"></span>[179:1](ldjb11.htm#fr_104.md) See *Magic, White
 and Black*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Generation](ldjb12)
+[Next: Chapter IX. Generation](ldjb12.md)
 
 </div>

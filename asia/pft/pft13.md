@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft12)  [Next](pft14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft12)  [Next](pft14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ as they now do. For food they had only the things that grew in the
 forests and fish from the streams. Neither did they know how to cure
 people who became ill or were injured by evil spirits, and many died who
 might otherwise have lived.  <span
-id="fr_74"></span>[75](pft68.htm#fn_74)
+id="fr_74"></span>[75](pft68.htm#fn_74.md)
 
 Then Kadaklan, the Great Spirit who lives in the sky, saw that the
 people often were hungry and sick, and he sent one of his servants,
@@ -45,7 +45,7 @@ rice and the sugar-cane and went home as she was commanded. While she
 was trying to plant them in the ground the Spirit again entered her body
 and showed her just what to do. Since then the Tinguian have planted
 crops every year, and because they do as Kaboniyan  <span
-id="fr_75"></span>[76](pft68.htm#fn_75) taught the woman they have
+id="fr_75"></span>[76](pft68.htm#fn_75.md) taught the woman they have
 plenty to eat.
 
 When Dayapan had reaped the first rice and cane, she began to make the
@@ -70,4 +70,4 @@ well.
 
 ------------------------------------------------------------------------
 
-[Next: Magsawi](pft14)
+[Next: Magsawi](pft14.md)

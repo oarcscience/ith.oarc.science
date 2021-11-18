@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc011) 
-[Next](motc013) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc011.md) 
+[Next](motc013.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ they went home together.
 
 ------------------------------------------------------------------------
 
-[Next: 13. The Great Yellow-jacket: Origin Of Fish And Frogs](motc013)
+[Next: 13. The Great Yellow-jacket: Origin Of Fish And Frogs](motc013.md)

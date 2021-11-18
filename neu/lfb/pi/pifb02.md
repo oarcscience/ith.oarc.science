@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb01)  [Next](pifb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb01)  [Next](pifb03.md) 
 
 </div>
 
@@ -58,6 +58,6 @@ fables of the world. So far all the tales are true, and no further.
 
 ------------------------------------------------------------------------
 
-[Next: The Cat's Elopement](pifb03)
+[Next: The Cat's Elopement](pifb03.md)
 
 </div>

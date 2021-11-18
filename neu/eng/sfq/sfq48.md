@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq47)  [Next](sfq49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq47)  [Next](sfq49.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ prisoner's pain would be without remedy,
 <span id="img_21400"></span>
 
 [![](tn/21400.jpg)  
-Click to enlarge](img/21400.jpg)
+Click to enlarge](img/21400.jpg.md)
 
 for no one but the Enchanter who had put the spell on her could take it
 off again.
@@ -141,4 +141,4 @@ less deeply, and the two departed in search of further aid.
 
 ------------------------------------------------------------------------
 
-[Next: What Strange Meetings befell on the Way](sfq49)
+[Next: What Strange Meetings befell on the Way](sfq49.md)

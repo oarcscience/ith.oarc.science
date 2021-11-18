@@ -22,24 +22,24 @@ considered to be one of the first science fiction stories.
 <span class="c_da"></span>
 
 <span class="c_e"> <span class="c_t">[A True Story: Parallel
-English/Greek](true/index)</span>   <span class="c_b">The original space
+English/Greek](true/index.md)</span>   <span class="c_b">The original space
 odyssey...</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Syrian
-Goddess](tsg/index)</span>  
+Goddess](tsg/index.md)</span>  
 translated by <span class="c_a">Herbert A. Strong</span> \[<span
 class="c_d">1913</span>\]   <span class="c_b">Lucian's hair-raising
 description of ancient Goddess worship.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Works of
-Lucian](fowl/index)</span>  
+Lucian](fowl/index.md)</span>  
 translated by <span class="c_a">H. W. Fowler</span> and <span
 class="c_a">F. G. Fowler</span> \[<span class="c_d">1905</span>\]  
 <span class="c_b">This four volume set includes the vast majority of
 Lucian's works.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Mimes of the
-Courtesans](motc/index)</span>  
+Courtesans](motc/index.md)</span>  
 translated by <span class="c_a">A.L.H.</span> \[<span
 class="c_d">1928</span>\]   <span class="c_b">This unexpurgated
 translation includes three dialogues left out of Fowler.</span> </span>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe265)  [Next](prwe267) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe265)  [Next](prwe267.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ so dulled that the world is for ever to him in a dark, vapoury cloud.
 
 ------------------------------------------------------------------------
 
-[Next: Characteristic](prwe267)
+[Next: Characteristic](prwe267.md)

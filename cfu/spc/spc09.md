@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](spc08)  [Next](spc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](spc08)  [Next](spc10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sacred Places in China*, by Carl F. Kupfer, \[1911\], at Intangible
 Textual Heritage
 
@@ -50,7 +50,7 @@ Pope's resident town, a river as clear as crystal is clamoring for the
 of that body.
 
 The latter years of the mystic earthly experience of *Chang Taoling*
-were spent on the [Dragon](errata.htm#4)-Tiger Mountains, and it was
+were spent on the [Dragon](errata.htm#4.md)-Tiger Mountains, and it was
 there, where at the age of 123 years, after having compounded and
 swallowed the grand elixir, that he had gained power to ascend to heaven
 to enjoy, the bliss of immortality.
@@ -81,7 +81,7 @@ there is a vital, restful
 
 <span id="img_09400"></span> <span align="CENTER"> [![LUNG HU SHAN—THE
 DRAGON-TIGER MOUNTAIN.](tn/09400.jpg)  
-Click to enlarge](img/09400.jpg)  
+Click to enlarge](img/09400.jpg.md)  
 LUNG HU SHAN—THE DRAGON-TIGER MOUNTAIN.  
 </span>
 
@@ -89,7 +89,7 @@ LUNG HU SHAN—THE DRAGON-TIGER MOUNTAIN.
 
 <span id="img_09500"></span> <span align="CENTER"> [![CONTINUATION OF
 LUNG HU SHAN.](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 CONTINUATION OF LUNG HU SHAN.  
 </span>
 
@@ -135,7 +135,7 @@ The philosopher *Huai Nantsze*, an adherent of Lao Tsz's
 
 <span id="img_09700"></span> <span align="CENTER"> [![CHANG TIENSZ LXII,
 POPE OF THE TAOIST RELIGION, AND FAMILY.](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)  
+Click to enlarge](img/09700.jpg.md)  
 CHANG TIENSZ LXII, POPE OF THE TAOIST RELIGION, AND FAMILY.  
 </span>
 
@@ -250,14 +250,14 @@ card to the Papal Residence,
 <span id="img_10100"></span> <span align="CENTER"> [![TEMPLE OF THE
 PEARLY EMPEROR,&lt;br&gt; To whom is entrusted the superintendency of
 the world.](tn/10100.jpg)  
-Click to enlarge](img/10100.jpg)  
+Click to enlarge](img/10100.jpg.md)  
 TEMPLE OF THE PEARLY EMPEROR,  
 To whom is entrusted the superintendency of the world.  
 </span>
 
 <span id="img_10101"></span> <span align="CENTER"> [![STONE TABLETS WITH
 INSCRIPTIONS OF ANCIENT TIMES.](tn/10101.jpg)  
-Click to enlarge](img/10101.jpg)  
+Click to enlarge](img/10101.jpg.md)  
 STONE TABLETS WITH INSCRIPTIONS OF ANCIENT TIMES.  
 </span>
 
@@ -299,7 +299,7 @@ gift of the
 
 <span id="img_10300"></span> <span align="CENTER"> [![A BAMBOO GROVE
 NEAR CHANG TAOLING'S TEMPLE.&lt;br&gt; ](tn/10300.jpg)  
-Click to enlarge](img/10300.jpg)  
+Click to enlarge](img/10300.jpg.md)  
 A BAMBOO GROVE NEAR CHANG TAOLING'S TEMPLE.  
   
 </span>
@@ -394,4 +394,4 @@ duties as the great Magician.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusions](spc10)
+[Next: Conclusions](spc10.md)

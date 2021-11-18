@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo30)  [Next](sdo32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo30)  [Next](sdo32.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ supporting him as he goes there.
 
 ------------------------------------------------------------------------
 
-[Next: The Scalp-Staff Dance](sdo32)
+[Next: The Scalp-Staff Dance](sdo32.md)

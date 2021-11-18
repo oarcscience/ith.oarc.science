@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio14)  [Next](dio16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio14)  [Next](dio16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ order, and ordinance and rank; and Lordship is not only the superiority
 over the worse, but also the perfect possession, in. every respect, of
 the Beautiful and Good; and a true and unswerving stability. Wherefore
 Lordship is parallel to <span id="ii.ii.ii.xii-p5.1"></span>τὸ Κῦρος καί
-κύριον, καὶ τὸ κυριστῶν <span id="fr_55"></span>[56](#fn_55) ; and Deity
+κύριον, καὶ τὸ κυριστῶν <span id="fr_55"></span>[56](#fn_55.md) ; and Deity
 is the Providence watching over all, and with perfect goodness both
 circumscribing and grasping all, and filling with Itself, and surpassing
 all things which enjoy Its forethought.
@@ -51,7 +51,7 @@ all things which enjoy Its forethought.
 <span id="ii.ii.ii.xii-p7"></span>These things, then, must be sung
 absolutely, respecting the Cause surpassing all, and we must add that It
 surpasses Holiness, and Lordship, and Kingdom, and most simplex <span
-id="fr_56"></span>[57](#fn_56) Deity. For, from It, <span
+id="fr_56"></span>[57](#fn_56.md) Deity. For, from It, <span
 id="page_121">p. 121</span> <span
 id="ii.ii.ii.xii-Page_121"></span>individually and collectively, were
 born and distributed every untarnished distinctness of every spotless
@@ -86,13 +86,13 @@ to their own Oneness.
 
 ### Footnotes
 
-<span id="fn_55"></span>[120:56](dio15.htm#fr_55) <span
+<span id="fn_55"></span>[120:56](dio15.htm#fr_55.md) <span
 id="ii.ii.ii.xii-p5.2"></span>The rendering of which may be, the lordly,
 and the lordlier, and the lordliest.
 
-<span id="fn_56"></span>[120:57](dio15.htm#fr_56) <span
+<span id="fn_56"></span>[120:57](dio15.htm#fr_56.md) <span
 id="ii.ii.ii.xii-p7.1"></span>Letter 2.
 
 ------------------------------------------------------------------------
 
-[Next: Caput XIII.](dio16)
+[Next: Caput XIII.](dio16.md)

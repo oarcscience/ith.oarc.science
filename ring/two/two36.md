@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two35)  [Next](two37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two35)  [Next](two37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -166,7 +166,7 @@ Prezmyra said under her breath as if talking to herself, "I know a man,
 should not have miscarried it thus." The old nurse that loved not Lord
 Corund and his haughty fashions and rough speech and Wine-bibbing, and
 was besides jealous that so rude a stock should wear so rich a jewel as
-was her mistress, [followed](errata.htm#2) not her meaning.
+was her mistress, [followed](errata.htm#2.md) not her meaning.
 
 After some time, the old woman spake softly and said, "You are full of
 thoughts to-night, madam."
@@ -550,4 +550,4 @@ no more, but stand firm and see what Destiny would do.
 
 ------------------------------------------------------------------------
 
-[Next: XXXI. The Demons Before Carcë](two37)
+[Next: XXXI. The Demons Before Carcë](two37.md)

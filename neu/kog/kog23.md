@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog22)  [Next](kog24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog22)  [Next](kog24.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ Martin said sorrowfully: "This is the world's gratitude."
 
 ------------------------------------------------------------------------
 
-[Next: 21. Witches at the Cross](kog24)
+[Next: 21. Witches at the Cross](kog24.md)

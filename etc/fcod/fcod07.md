@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod06)  [Next](fcod08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod06)  [Next](fcod08.md) 
 
 ------------------------------------------------------------------------
 
@@ -579,4 +579,4 @@ this imposition ceased altogether at the end of the eighteenth century.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Bells, Mourning](fcod08)
+[Next: Chapter V: Bells, Mourning](fcod08.md)

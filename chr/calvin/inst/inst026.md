@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst025)  [Next](inst027) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst025)  [Next](inst027.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ order that God might not be worshipped absurdly. Cicero truly and
 shrewdly derives the name *religion* from *relego*, and yet the reason
 which he assigns is forced and farfetched—viz. that honest worshipers
 *read* and *read again*, and ponder what is true.9  <span
-id="fr_86"></span>[87](#fn_86) I rather think the name is used in
+id="fr_86"></span>[87](#fn_86.md) I rather think the name is used in
 opposition to *vagrant license*—the greater part of mankind rashly
 taking up whatever first comes in their way, whereas piety, that it may
 stand with a firm step, confines itself within due bounds. In the same
@@ -125,19 +125,19 @@ examine the thing. When Paul reminds the Galatians of what they were
 before they came to the knowledge of Gods he says that they “did service
 unto them which by nature are no gods,” (<span
 id="iv.i.xiii-p11.1"></span>[Gal.
-4:8](../../../bib/kjv/gal004.htm#008)<span
+4:8](../../../bib/kjv/gal004.htm#008.md)<span
 id="iv.i.xiii-p11.1"></span>). Because he does not say λατρια, was their
 superstition excusable? This superstition, to which he gives the name of
 δυλια, he condemns as much as if he had given it the name of λατρια.
 When Christ repels Satan’s insulting proposal with the words, “It is
 written, Thou shalt worship the Lord thy God, and him only shalt thou
 serve,” (<span id="iv.i.xiii-p11.2"></span>[Mt.
-4:10](../../../bib/kjv/mat004.htm#010)<span
+4:10](../../../bib/kjv/mat004.htm#010.md)<span
 id="iv.i.xiii-p11.2"></span>), there was no question of λατρια. For all
 that Satan asked was προσκὺνεσις (obeisance). In like manners when John
 is rebuked by the angel for falling on his knees before him (<span
 id="iv.i.xiii-p11.3"></span>[Rev.
-19:10](../../../bib/kjv/rev019.htm#010)<span
+19:10](../../../bib/kjv/rev019.htm#010.md)<span
 id="iv.i.xiii-p11.3"></span>; 22:8, 9), we ought not to suppose that
 John had so far forgotten himself as to have intended to transfer the
 honour due to God alone to an angel. But because it was impossible that
@@ -149,7 +149,7 @@ different with religious honour, which, the moment it is conjoined with
 worship, carries profanation of the divine honour along with it. The
 same thing may be seen in the case of Cornelius (<span
 id="iv.i.xiii-p11.4"></span>[Acts
-10:25](../../../bib/kjv/act010.htm#025)<span
+10:25](../../../bib/kjv/act010.htm#025.md)<span
 id="iv.i.xiii-p11.4"></span>). He had not made so little progress in
 piety as not to confine supreme worship to God alone. Therefore, when he
 prostrates himself before Peter, he certainly does it not with the
@@ -182,7 +182,7 @@ which God strictly claims as his own peculiar right!
 
 ### Footnotes
 
-<span id="fn_86"></span>[87](inst026.htm#fr_86) <span
+<span id="fn_86"></span>[87](inst026.htm#fr_86.md) <span
 id="iv.i.xiii-p6.1"></span>
 
 <span id="iv.i.xiii-p7"></span>3 93 Cic. De Nat. Deor. lib. 2 c. 28. See
@@ -191,4 +191,4 @@ also Lactant. Inst. Div. lib. 4 c. 28.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 13. - THE UNITY OF THE DIVINE ESSENCE IN THREE PERSONS
-TAUGHT, IN SCRIPTURE, FROM THE FOUNDATION OF THE WORLD.](inst027)
+TAUGHT, IN SCRIPTURE, FROM THE FOUNDATION OF THE WORLD.](inst027.md)

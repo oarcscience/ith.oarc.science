@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic072)  [Next](lfic074) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic072)  [Next](lfic074.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ Magazine*.
 
 ------------------------------------------------------------------------
 
-[Next: Lough Neagh](lfic074)
+[Next: Lough Neagh](lfic074.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb28)  [Next](wfb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb28)  [Next](wfb30.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ life.
 
 ------------------------------------------------------------------------
 
-[Next: Pergrin and the Mermaiden](wfb30)
+[Next: Pergrin and the Mermaiden](wfb30.md)

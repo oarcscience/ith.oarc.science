@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mrci08)  [Next](mrci10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mrci08)  [Next](mrci10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Mission Record of the California Indians*, by A.L. Kroeber, \[1908\],
 at Intangible Textual Heritage
 
@@ -14,12 +14,12 @@ at Intangible Textual Heritage
 #### *San Luis Obispo*.
 
 Fifteen different languages are spoken in this mission. <span
-id="fr_39"></span>[39](#fn_39)
+id="fr_39"></span>[39](#fn_39.md)
 
  
 
 I have found some wind instruments made of elder sticks. <span
-id="fr_40"></span>[40](#fn_40)
+id="fr_40"></span>[40](#fn_40.md)
 
  
 
@@ -31,7 +31,7 @@ as there are wild fruits on them; and if something
 
 rich is produced, it causes many wars if anyone has the boldness to go
 to collect the crop without previously paying or notifying the
-legitimate owner. <span id="fr_41"></span>[41](#fn_41)
+legitimate owner. <span id="fr_41"></span>[41](#fn_41.md)
 
  
 
@@ -44,7 +44,7 @@ gather, and who are actually their friends. If by chance any one of
 these refuses the invitation, arms are resolved upon; and with the
 approval of his people the chief takes the road to avenge the injury
 which the other has done him by not accepting the invitation. <span
-id="fr_42"></span>[42](#fn_42) He deprives of life not only the chief
+id="fr_42"></span>[42](#fn_42.md) He deprives of life not only the chief
 but as many as are gathered with him. For all services they have no
 other reward than to look upon him, who has had the good fortune to kill
 some one, as a public person.
@@ -63,7 +63,7 @@ their songs mean in our language.
 
 ### Footnotes
 
-<span id="fn_39"></span>[16:39](mrci09.htm#fr_39) The report on the
+<span id="fn_39"></span>[16:39](mrci09.htm#fr_39.md) The report on the
 Indians of San Luis Obispo was probably written by Father Luis Antonio
 Martinez. His companion, Antonio Rodriguez, did not come to San Luis
 Obispo until 1811. The San Luis Obispo Indians were Chumash, though the
@@ -76,11 +76,11 @@ that the dialects were numerous, and the present statement seems to be
 confirmatory. The only Indians other than Chumash likely to have been
 brought to San Luis Obispo, would be of the Salinan and Yokuts families.
 
-<span id="fn_40"></span>[16:40](mrci09.htm#fr_40) The wind instruments
+<span id="fn_40"></span>[16:40](mrci09.htm#fr_40.md) The wind instruments
 made of elder sticks are the flutes mentioned previously and again
 below.
 
-<span id="fn_41"></span>[17:41](mrci09.htm#fr_41) The translation has
+<span id="fn_41"></span>[17:41](mrci09.htm#fr_41.md) The translation has
 been given according to what appears to be the meaning of the text. This
 reads: Sin embargo de que los Indios tienen tierras por familias en su
 gentilidad, como son frutos silvestres no tienen necesidad de contratos,
@@ -88,7 +88,7 @@ para sembrar, y si un objeto poderoso que produce, no pocas guerras, si
 alguno tiene el arrojo de it à coger sus frutos sin pagar, y avisar,
 antes à su legitimo dueño.
 
-<span id="fn_42"></span>[17:42](mrci09.htm#fr_42) The statement that the
+<span id="fn_42"></span>[17:42](mrci09.htm#fr_42.md) The statement that the
 rich man is the chief, is in accord with observations from almost all
 parts of California. The dependence of social rank on wealth seems,
 however, to have been greatest in this southern region and in
@@ -103,4 +103,4 @@ the dignity or prestige of their chief.
 
 ------------------------------------------------------------------------
 
-[Next: San Miguel](mrci10)
+[Next: San Miguel](mrci10.md)

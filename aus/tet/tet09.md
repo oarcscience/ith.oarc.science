@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet08)  [Next](tet10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet08)  [Next](tet10.md) 
 
 ------------------------------------------------------------------------
 
@@ -398,4 +398,4 @@ domestic relations in olden times.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. The Training of a Boy up to Boorah
-Preliminaries](tet10)
+Preliminaries](tet10.md)

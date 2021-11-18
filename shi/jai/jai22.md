@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai21)  [Next](jai23) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai21)  [Next](jai23.md) 
 
 ------------------------------------------------------------------------
 
@@ -359,4 +359,4 @@ should prove able to cope with this gathering peril.
 
 ------------------------------------------------------------------------
 
-[Next: Reflections](jai23)
+[Next: Reflections](jai23.md)

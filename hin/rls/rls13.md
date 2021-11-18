@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls12)  [Next](rls14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls12)  [Next](rls14.md) 
 
 ------------------------------------------------------------------------
 
@@ -163,4 +163,4 @@ continued.
 
 ------------------------------------------------------------------------
 
-[Next: Râmak*ri*sh*n*a's Life](rls14)
+[Next: Râmak*ri*sh*n*a's Life](rls14.md)

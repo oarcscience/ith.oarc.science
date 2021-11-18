@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](geo04) 
-[Previous](geol03) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](geo04.md) 
+[Previous](geol03.md) 
 
 ------------------------------------------------------------------------
 

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ bring him to the judgment-seat, in order to make his defense. However,
 Joab said he would not leave the altar, but would die there rather than
 in another place. And when Benaiah had reported his answer to the king,
 Solomon commanded him to cut off his head there <span
-id="EndNote Ant 8.1a"></span>[(1)](#EndNote%20Ant%208.1b) and let him
+id="EndNote Ant 8.1a"></span>[(1)](#EndNote%20Ant%208.1b.md) and let him
 take that as a punishment for those two captains of the host whom he had
 wickedly slain, and to bury his body, that his sins might never leave
 his family, but that himself and his father, by Joab's death, might be
@@ -136,7 +136,7 @@ CONCERNING WHAT HE OBTAINED OF HIRAM FOR THE BUILDING OF THE TEMPLE.**
 having brought his enemies to punishment, he married the daughter of
 Pharaoh king of Egypt, and built the walls of Jerusalem much larger and
 stronger than those that had been before, <span
-id="EndNote Ant 8.2a"></span>[(2)](#EndNote%20Ant%208.2b) and
+id="EndNote Ant 8.2a"></span>[(2)](#EndNote%20Ant%208.2b.md) and
 thenceforward he managed public affairs very peaceably. Nor was his
 youth any hinderance in the exercise of justice, or in the observation
 of the laws, or in the remembrance of what charges his father had given
@@ -239,7 +239,7 @@ making them worth more than they had formerly been.
 of the Philistines, which reached from the river Euphrates to Egypt, and
 these collected his tributes of the nations. Now these contributed to
 the king's table, and to his supper every day <span
-id="EndNote Ant 8.3a"></span>[(3)](#EndNote%20Ant%208.3b) thirty cori of
+id="EndNote Ant 8.3a"></span>[(3)](#EndNote%20Ant%208.3b.md) thirty cori of
 fine flour, and sixty of meal; as also ten fat oxen, and twenty oxen out
 of the pastures, and a hundred fat lambs; all these were besides what
 were taken by hunting harts and buffaloes, and birds and fishes, which
@@ -268,7 +268,7 @@ the air; for he was not unacquainted with any of their natures, nor
 omitted inquiries about them, but described them all like a philosopher,
 and demonstrated his exquisite knowledge of their several properties.
 God also enabled him to learn that skill which expels demons, <span
-id="EndNote Ant 8.4a"></span>[(4)](#EndNote%20Ant%208.4b) which is a
+id="EndNote Ant 8.4a"></span>[(4)](#EndNote%20Ant%208.4b.md) which is a
 science useful and sanative to men. He composed such incantations also
 by which distempers are alleviated. And he left behind him the manner of
 using exorcisms, by which they drive away demons, so that they never
@@ -300,7 +300,7 @@ Solomon sent him an epistle, the contents of which here follow:
 
 **SOLOMON TO KING HIRAM.**
 
-> "<span id="EndNote Ant 8.5a"></span>[(5)](#EndNote%20Ant%208.5b)Know
+> "<span id="EndNote Ant 8.5a"></span>[(5)](#EndNote%20Ant%208.5b.md)Know
 > thou that my father would have built a temple to God, but was hindered
 > by wars, and continual expeditions; for he did not leave off to
 > overthrow his enemies till he made them all subject to tribute. But I
@@ -327,7 +327,7 @@ back this answer to Solomon.
 > shalt desire, and leave them there, after which thy subjects may carry
 > them to Jerusalem. But do thou take care to procure us corn for this
 > timber, which we stand in need of, because we inhabit in an island."
-> <span id="EndNote Ant 8.6a"></span>[(6)](#EndNote%20Ant%208.6b)
+> <span id="EndNote Ant 8.6a"></span>[(6)](#EndNote%20Ant%208.6b.md)
 
 8\. The copies of these epistles remain at this day, and are preserved
 not only in our books, but among the Tyrians also; insomuch that if any
@@ -403,7 +403,7 @@ thirty small rooms, which might include the whole temple, by their
 closeness one to another, and by their number and outward position round
 it. He also made passages through them, that they might come into on
 through another. Every one of these rooms had five cubits in breadth,
-<span id="EndNote Ant 8.7a"></span>[(7)](#EndNote%20Ant%208.7b) and the
+<span id="EndNote Ant 8.7a"></span>[(7)](#EndNote%20Ant%208.7b.md) and the
 same in length, but in height twenty. Above these there were other
 rooms, and others above them, equal, both in their measures and number;
 so that these reached to a height equal to the lower part of the house;
@@ -445,7 +445,7 @@ brightest and softest linen, with the most curious flowers wrought upon
 them, which were to be drawn before those doors. He also dedicated for
 the most secret place, whose breadth was twenty cubits, and length the
 same, two cherubims of solid gold; the height of each of them was five
-cubits <span id="EndNote Ant 8.8a"></span>[(8)](#EndNote%20Ant%208.8b)
+cubits <span id="EndNote Ant 8.8a"></span>[(8)](#EndNote%20Ant%208.8b.md)
 they had each of them two wings stretched out as far as five cubits;
 wherefore Solomon set them up not far from each other, that with one
 wing they might touch the southern wall of the secret place, and with
@@ -476,7 +476,7 @@ cubits, round about which there was net-work interwoven with small
 palms, made of brass, and covered the lily-work. To this also were hung
 two hundred pomegranates, in two rows. The one of these pillars he set
 at the entrance of the porch on the right hand, and called it *Jachin*
-<span id="EndNote Ant 8.9a"></span>[(9)](#EndNote%20Ant%208.9b) and the
+<span id="EndNote Ant 8.9a"></span>[(9)](#EndNote%20Ant%208.9b.md) and the
 other at the left hand, and called it *Booz.*
 
 5\. Solomon also cast a brazen sea, whose figure was that of a
@@ -511,11 +511,11 @@ them would think they were of one piece: between these were engravings
 of palm trees. This was the construction of the ten bases. He also made
 ten large round brass vessels, which were the lavers themselves, each of
 which contained forty baths; <span
-id="EndNote Ant 8.10a"></span>[(10)](#EndNote%20Ant%208.10b) for it had
+id="EndNote Ant 8.10a"></span>[(10)](#EndNote%20Ant%208.10b.md) for it had
 its height four cubits, and its edges were as much distant from each
 other. He also placed these lavers upon the ten bases that were called
 Mechonoth; and he set five of the lavers on the left side of the temple
-<span id="EndNote Ant 8.11a"></span>[(11)](#EndNote%20Ant%208.11b) which
+<span id="EndNote Ant 8.11a"></span>[(11)](#EndNote%20Ant%208.11b.md) which
 was that side towards the north wind, and as many on the right side,
 towards the south, but looking towards the east; the same \[eastern\]
 way he also set the sea Now he appointed the sea to be for washing the
@@ -556,7 +556,7 @@ altar, within the temple, were fifty thousand. The sacerdotal garments
 which belonged to the high priest, with the long robes, and the oracle,
 and the precious stones, were a thousand. But the crown upon which Moses
 wrote \[the name of God\], <span
-id="EndNote Ant 8.12a"></span>[(12)](#EndNote%20Ant%208.12b) was only
+id="EndNote Ant 8.12a"></span>[(12)](#EndNote%20Ant%208.12b.md) was only
 one, and hath remained to this very day. He also made ten thousand
 sacerdotal garments of fine linen, with purple girdles for every priest;
 and two hundred thousand trumpets, according to the command of Moses;
@@ -588,7 +588,7 @@ without pain, and had elevated the ground four hundred cubits, he made
 it to be on a level with the top of the mountain, on which the temple
 was built, and by this means the outmost temple, which was exposed to
 the air, was even with the temple itself. <span
-id="EndNote Ant 8.13a"></span>[(13)](#EndNote%20Ant%208.13b) He
+id="EndNote Ant 8.13a"></span>[(13)](#EndNote%20Ant%208.13b.md) He
 encompassed this also with a building of a double row of cloisters,
 which stood on high upon pillars of native stone, while the roofs were
 of cedar, and were polished in a manner proper for such high roofs; but
@@ -618,7 +618,7 @@ the Hebrews as a most holy and most eminent feast. So they carried the
 ark and the tabernacle which Moses had pitched, and all the vessels that
 were for ministration, to the sacrifices of God, and removed them to the
 temple. <span
-id="EndNote Ant 8.14a"></span>[(14)](#EndNote%20Ant%208.14b) The king
+id="EndNote Ant 8.14a"></span>[(14)](#EndNote%20Ant%208.14b.md) The king
 himself, and all the people and the Levites, went before, rendering the
 ground moist with sacrifices, and drink-offerings, and the blood of a
 great number of oblations, and burning an immense quantity of incense,
@@ -833,7 +833,7 @@ contain a great body of men, who would come together to have their
 causes determined. It was a hundred cubits long, and fifty broad, and
 thirty high, supported by quadrangular pillars, which were all of cedar;
 but its roof was according to the Corinthian order, <span
-id="EndNote Ant 8.15a"></span>[(15)](#EndNote%20Ant%208.15b) with
+id="EndNote Ant 8.15a"></span>[(15)](#EndNote%20Ant%208.15b.md) with
 folding doors, and their adjoining pillars of equal magnitude, each
 fluted with three cavities; which building as at once firm, and very
 ornamental. There was also another house so ordered, that its entire
@@ -970,7 +970,7 @@ lived after the kings of that interval, I think it necessary to inform
 them of it, and this in order to cure their ignorance, and to make the
 occasion of that name manifest. Pharaoh, in the Egyptian tongue,
 signifies a *king <span
-id="EndNote Ant 8.16a"></span>*[(16)](#EndNote%20Ant%208.16b) but I
+id="EndNote Ant 8.16a"></span>*[(16)](#EndNote%20Ant%208.16b.md) but I
 suppose they made use of other names from their childhood; but when they
 were made kings, they changed them into the name which in their own
 tongue denoted their authority; for thus it was also that the kings of
@@ -1022,7 +1022,7 @@ belongs to India, to fetch him gold. And when they had gathered four
 hundred talents together, they returned to the king again.
 
 5\. There was then a woman queen of Egypt and Ethiopia; <span
-id="EndNote Ant 8.17a"></span>[(17)](#EndNote%20Ant%208.17b) she was
+id="EndNote Ant 8.17a"></span>[(17)](#EndNote%20Ant%208.17b.md) she was
 inquisitive into philosophy, and one that on other accounts also was to
 be admired. When this queen heard of the virtue and prudence of Solomon,
 she had a great mind to see him; and the reports that went every day
@@ -1077,7 +1077,7 @@ king had affected her, her disposition was known by certain presents,
 for she gave him twenty talents of gold, and an immense quantity of
 spices and precious stones. (They say also that we possess the root of
 that balsam which our country still bears by this woman's gift.) <span
-id="EndNote Ant 8.18a"></span>[(18)](#EndNote%20Ant%208.18b) Solomon
+id="EndNote Ant 8.18a"></span>[(18)](#EndNote%20Ant%208.18b.md) Solomon
 also repaid her with many good things, and principally by bestowing upon
 her what she chose of her own inclination, for there was nothing that
 she desired which he denied her; and as he was very generous and liberal
@@ -1156,7 +1156,7 @@ used to take his progress out of the city in the morning. There was a
 certain place about fifty furlongs distant from Jerusalem, which is
 called Etham, very pleasant it is in fine gardens, and abounding in
 rivulets of water; <span
-id="EndNote Ant 8.19a"></span>[(19)](#EndNote%20Ant%208.19b) thither did
+id="EndNote Ant 8.19a"></span>[(19)](#EndNote%20Ant%208.19b.md) thither did
 he use to go out in the morning, sitting on high \[in his chariot.\]
 
 4\. Now Solomon had a divine sagacity in all things, and was very
@@ -1194,7 +1194,7 @@ lest we should leave off to honor our own God, and should worship their
 gods. But Solomon was Gllen headlong into unreasonable pleasures, and
 regarded not those admonitions; for when he had married seven hundred
 wives, <span
-id="EndNote Ant 8.20a"></span>[(20)](#EndNote%20Ant%208.20b) the
+id="EndNote Ant 8.20a"></span>[(20)](#EndNote%20Ant%208.20b.md) the
 daughters of princes and of eminent persons, and three hundred
 concubines, and those besides the king of Egypt's daughter, he soon was
 governed by them, till he came to imitate their practices. He was forced
@@ -1206,7 +1206,7 @@ he still more and more contemned his own God, and continued to regard
 the gods that his marriages had introduced nay, before this happened, he
 sinned, and fell into an error about the observation of the laws, when
 he made the images of brazen oxen that supported the brazen sea, <span
-id="EndNote Ant 8.21a"></span>[(21)](#EndNote%20Ant%208.21b) and the
+id="EndNote Ant 8.21a"></span>[(21)](#EndNote%20Ant%208.21b.md) and the
 images of lions about his own throne; for these he made, although it was
 not agreeable to piety so to do; and this he did, notwithstanding that
 he had his father as a most excellent and domestic pattern of virtue,
@@ -1246,7 +1246,7 @@ desirous to leave him. And when he was often troublesome to him, and
 entreated him to dismiss him, he did not then do it; but at the time
 when Solomon's affairs began to grow worse, on account of his
 forementioned transgressions <span
-id="EndNote Ant 8.22a"></span>[(22)](#EndNote%20Ant%208.22b) and God's
+id="EndNote Ant 8.22a"></span>[(22)](#EndNote%20Ant%208.22b.md) and God's
 anger against him for the same, Hadad, by Pharaoh's permission, came to
 Edom; and when he was not able to make the people forsake Solomon, for
 it was kept under by many garrisons, and an innovation was not to be
@@ -1282,7 +1282,7 @@ alienated from Solomon, be thou
 
 8\. So Jeroboam was elevated by these words of the prophet; and being a
 young man, <span
-id="EndNote Ant 8.23a"></span>[(23)](#EndNote%20Ant%208.23b) of a warm
+id="EndNote Ant 8.23a"></span>[(23)](#EndNote%20Ant%208.23b.md) of a warm
 temper, and ambitious of greatness, he could not be quiet; and when he
 had so great a charge in the government, and called to mind what had
 been revealed to him by Ahijah, he endeavored to persuade the people to
@@ -1344,7 +1344,7 @@ his father's loins; and if they had met with hard usage from his father,
 they should experience much rougher treatment from him; and if his
 father had chastised them with whips, they must expect that he would do
 it with scorpions. <span
-id="EndNote Ant 8.24a"></span>[(24)](#EndNote%20Ant%208.24b) The king
+id="EndNote Ant 8.24a"></span>[(24)](#EndNote%20Ant%208.24b.md) The king
 was pleased with this advice, and thought it agreeable to the dignity of
 his government to give them such an answer. Accordingly, when the
 multitude was come together to hear his answer on the third day, all the
@@ -1397,7 +1397,7 @@ losing his own life; so he invented this contrivance; He made two golden
 heifers, and built two little temples for them, the one in the city
 Bethel, and the other in Dan, which last was at the fountains of the
 Lesser Jordan <span
-id="EndNote Ant 8.25a"></span>[(25)](#EndNote%20Ant%208.25b) and he put
+id="EndNote Ant 8.25a"></span>[(25)](#EndNote%20Ant%208.25b.md) and he put
 the heifers into both the little temples, in the forementioned cities.
 And when he had called those ten tribes together over whom he ruled, he
 made a speech to the people in these words: "I suppose, my countrymen,
@@ -1522,7 +1522,7 @@ nor spake any thing like one. When he had thus spoken, he persuaded the
 king, and entirely alienated his mind from God, and from doing works
 that were righteous and holy, and encouraged him to go on in his impious
 practices <span
-id="EndNote Ant 8.26a"></span>[(26)](#EndNote%20Ant%208.26b) and
+id="EndNote Ant 8.26a"></span>[(26)](#EndNote%20Ant%208.26b.md) and
 accordingly he was to that degree injurious to God, and so great a
 transgressor, that he sought for nothing else every day but how he might
 be guilty of some new instances of wickedness, and such as should be
@@ -1577,7 +1577,7 @@ they endeavored not to offend him by resolving still to be righteous.
 But God sent Shishak, king of Egypt, to punish them for their unjust
 behavior towards him, concerning whom Herodotus was mistaken, and
 applied his actions to Sesostris; for this Shishak, <span
-id="EndNote Ant 8.27a"></span>[(27)](#EndNote%20Ant%208.27b) in the
+id="EndNote Ant 8.27a"></span>[(27)](#EndNote%20Ant%208.27b.md) in the
 fifth year of the reign of Rehoboam, made an expedition \[into Judea\]
 with many ten thousand men; for he had one thousand two hundred chariots
 in number that followed him, and threescore thousand horsemen, and four
@@ -1617,7 +1617,7 @@ our nation was subdued by him; for he saith that he left behind him
 pillars in the land of those that delivered themselves up to him without
 fighting, and engraved upon them the secret parts of women. Now our king
 Rehoboam delivered up our city without fighting. He says withal <span
-id="EndNote Ant 8.28a"></span>[(28)](#EndNote%20Ant%208.28b) that the
+id="EndNote Ant 8.28a"></span>[(28)](#EndNote%20Ant%208.28b.md) that the
 Ethiopians learned to circumcise their privy parts from the Egyptians,
 with this addition, that the Phoenicians and Syrians that live in
 Palestine confess that they learned it of the Egyptians. Yet it is
@@ -1744,7 +1744,7 @@ piety towards God; which hope we justly have, since we have kept the
 laws from the beginning, and have worshipped our own God, who was not
 made by hands out of corruptible matter; nor was he formed by a wicked
 king, in order to deceive the multitude; but who is his own workmanship,
-<span id="EndNote Ant 8.29a"></span>[(29)](#EndNote%20Ant%208.29b) and
+<span id="EndNote Ant 8.29a"></span>[(29)](#EndNote%20Ant%208.29b.md) and
 the beginning and end of all things. I therefore give you counsel even
 now to repent, and to take better advice, and to leave off the
 prosecution of the war; to call to mind the laws of your country, and to
@@ -1763,7 +1763,7 @@ made a shout, and fell upon their enemies, and God brake the courage and
 cast down the force of their enemies, and made Ahijah's army superior to
 them; for God vouchsafed to grant them a wonderful and very famous
 victory; and such a slaughter was now made of Jeroboam's army <span
-id="EndNote Ant 8.30a"></span>[(30)](#EndNote%20Ant%208.30b) as is never
+id="EndNote Ant 8.30a"></span>[(30)](#EndNote%20Ant%208.30b.md) as is never
 recorded to have happened in any other war, whether it were of the
 Greeks or of the Barbarians, for they overthrew \[and slew\] five
 hundred thousand of their enemies, and they took their strongest cities
@@ -1809,7 +1809,7 @@ targets and spears; out of the tribe of Judah three hundred thousand;
 and out of the tribe of Benjamin, that bore shields and drew bows, two
 hundred and fifty thousand. But when he had already reigned ten years,
 Zerah, king of Ethiopia, <span
-id="EndNote Ant 8.31a"></span>[(31)](#EndNote%20Ant%208.31b) made an
+id="EndNote Ant 8.31a"></span>[(31)](#EndNote%20Ant%208.31b.md) made an
 expedition against him, with a great army, of nine hundred thousand
 footmen, and one hundred thousand horsemen, and three hundred chariots,
 and came as far as Mareshah, a city that belonged to the tribe of Judah.
@@ -1818,7 +1818,7 @@ his army in array over against him, in a valley called Zephathah, not
 far from the city; and when he saw the multitude of the Ethiopians, he
 cried out, and besought God to give him the victory, and that he might
 kill many ten thousands of the enemy: "For," said he, <span
-id="EndNote Ant 8.32a"></span>[(32)](#EndNote%20Ant%208.32b) "I depend
+id="EndNote Ant 8.32a"></span>[(32)](#EndNote%20Ant%208.32b.md) "I depend
 on nothing else but that assistance which I expect from thee, which is
 able to make the fewer superior to the more numerous, and the weaker to
 the stronger; and thence it is alone that I venture to meet Zerah, and
@@ -1897,7 +1897,7 @@ friendship he had with Baasha, and sent the commanders of his own forces
 unto the cities that were under Baasha's dominion, and ordered them to
 do them mischief. So they went and burnt some of them, and spoiled
 others; Ijon, and Dan, and Abelmain <span
-id="EndNote Ant 8.33a"></span>[(33)](#EndNote%20Ant%208.33b) and many
+id="EndNote Ant 8.33a"></span>[(33)](#EndNote%20Ant%208.33b.md) and many
 others. Now when the king of Israel heard this, he left off building and
 fortifying Ramah, and returned presently to assist his own people under
 the distresses they were in; but Asa made use of the materials that were
@@ -2042,7 +2042,7 @@ him, that he would have him go to the fountains of water, and to the
 brooks, that if any herbs could be found for them, they might mow it
 down, and reserve it for the beasts. And when he had sent persons all
 over the habitable earth <span
-id="EndNote Ant 8.34a"></span>[(34)](#EndNote%20Ant%208.34b) to discover
+id="EndNote Ant 8.34a"></span>[(34)](#EndNote%20Ant%208.34b.md) to discover
 the prophet Elijah, and they could not find him, he bade Obadiah
 accompany him. So it was resolved they should make a progress, and
 divide the ways between them; and Obadiah took one road, and the king
@@ -2100,7 +2100,7 @@ upon their sacrifice, Elijah derided them, and bade them call upon their
 gods with a loud voice, for they might either be on a journey, or
 asleep; and when these prophets had done so from morning till noon, and
 cut themselves with swords and lances, <span
-id="EndNote Ant 8.35a"></span>[(35)](#EndNote%20Ant%208.35b) according
+id="EndNote Ant 8.35a"></span>[(35)](#EndNote%20Ant%208.35b.md) according
 to the customs of their country, and he was about to offer his
 sacrifice, he bade \[the prophets\] go away, but bade \[the people\]
 come near and observe what he did, lest he should privately hide fire
@@ -2137,7 +2137,7 @@ Jezreel; and in a little time the air was all obscured, and covered with
 clouds, and a vehement storm of wind came upon the earth, and with it a
 great deal of rain; and the prophet was under a Divine fury, and ran
 along with the king's chariot unto Jezreel a city of Izar <span
-id="EndNote Ant 8.36a"></span>[(36)](#EndNote%20Ant%208.36b)
+id="EndNote Ant 8.36a"></span>[(36)](#EndNote%20Ant%208.36b.md)
 \[Issaachar\].
 
 7\. When Jezebel, the wife of Ahab, understood what signs Elijah had
@@ -2219,7 +2219,7 @@ been so insolently wicked, and had slain a citizen unjustly, and
 contrary to the laws of his country. Hereupon Ahab began to be sorry for
 the things he had done, and to repent of them; and he put on sackcloth,
 and went barefoot <span
-id="EndNote Ant 8.37a"></span>[(37)](#EndNote%20Ant%208.37b) and would
+id="EndNote Ant 8.37a"></span>[(37)](#EndNote%20Ant%208.37b.md) and would
 not touch any food; he also confessed his sins*,* and endeavored thus to
 appease God. But God said to the prophet, that while Ahab was living he
 would put off the punishment of his family, because he repented of those
@@ -2306,7 +2306,7 @@ to the camp; and when the king of Israel saw that these had the upper
 hand, he sent out all the rest of his army, which, falling suddenly upon
 the Syrians, beat them, for they did not think they would have come out;
 on which account it was that they assaulted them when they were naked
-<span id="EndNote Ant 8.38a"></span>[(38)](#EndNote%20Ant%208.38b) and
+<span id="EndNote Ant 8.38a"></span>[(38)](#EndNote%20Ant%208.38b.md) and
 drunk, insomuch that they left all their armor behind them when they
 fled out of the camp, and the king himself escaped with difficulty, by
 fleeing away on horseback. But Ahab went a great way in pursuit of the
@@ -2348,7 +2348,7 @@ pressed upon them, and slew them; nay, they were destroyed by their own
 chariots, and by one another; nor could any more than a few of them
 escape to their own city Aphek, who were also killed by the walls
 falling upon them, being in number twenty-seven thousand. <span
-id="EndNote Ant 8.39a"></span>[(39)](#EndNote%20Ant%208.39b) Now there
+id="EndNote Ant 8.39a"></span>[(39)](#EndNote%20Ant%208.39b.md) Now there
 were slain in this battle a hundred thousand more; but Benhadad, the
 king of the Syrians, fled away, with certain others of his most faithful
 servants, and hid himself in a cellar under ground; and when these told
@@ -2358,7 +2358,7 @@ deliverance from Ahab, in case he would give them leave to go to him, he
 gave them leave accordingly. So they came to Ahab, clothed in sackcloth,
 with ropes about their heads, (for this was the ancient manner of
 supplication among the Syrians,) <span
-id="EndNote Ant 8.40a"></span>[(40)](#EndNote%20Ant%208.40b) and said,
+id="EndNote Ant 8.40a"></span>[(40)](#EndNote%20Ant%208.40b.md) and said,
 that Benhadad desired he would save him, and that he would ever be a
 servant to him for that favor. Ahab replied he was glad that he was
 alive, and not hurt in the battle; and he further promised him the same
@@ -2379,7 +2379,7 @@ back to his own kingdom. And this was the conclusion of the war that
 Benhadad made against Ahab and the Israelites.
 
 5\. But a certain prophet, whose name was Micaiah, <span
-id="EndNote Ant 8.41a"></span>[(41)](#EndNote%20Ant%208.41b) came to one
+id="EndNote Ant 8.41a"></span>[(41)](#EndNote%20Ant%208.41b.md) came to one
 of the Israelites, and bid him smite him on the head, for by so doing he
 would please God; but when he would not do so, he foretold to him, that
 since he disobeyed the commands of God, he should meet with a lion, and
@@ -2397,7 +2397,7 @@ prelude to his following words; for he said that God would punish him
 who had suffered Benhadad, a blasphemer against him, to escape
 punishment; and that he would so bring it about, that he should die by
 the other's means <span
-id="EndNote Ant 8.42a"></span>[(42)](#EndNote%20Ant%208.42b) and his
+id="EndNote Ant 8.42a"></span>[(42)](#EndNote%20Ant%208.42b.md) and his
 people by the other's army. Upon which Ahab was very angry at the
 prophet, and gave commandment that he should be put in prison, and there
 kept; but for himself, he was in confusion at the words of Micaiah, and
@@ -2496,7 +2496,7 @@ suspense with himself: but Zedekiah, one of those false prophets, came
 near, and exhorted him not to hearken to Micaiah, for he did not at all
 speak truth; as a demonstration of which he instanced in what Elijah had
 said, who was a better prophet in foretelling futurities than Micaiah
-<span id="EndNote Ant 8.43a"></span>[(43)](#EndNote%20Ant%208.43b) for
+<span id="EndNote Ant 8.43a"></span>[(43)](#EndNote%20Ant%208.43b.md) for
 he foretold that the dogs should lick his blood in the city of Jezreel,
 in the field of Naboth, as they licked the blood of Naboth, who by his
 means was there stoned to death by the multitude; that therefore it was
@@ -2527,7 +2527,7 @@ agreed that Ahab should lay aside his royal robes, but that the king of
 Jerusalem should put on his \[Ahab's\] proper habit, and stand before
 the army, in order to disprove, by this artifice, what Micaiah had
 foretold. <span
-id="EndNote Ant 8.44a"></span>[(44)](#EndNote%20Ant%208.44b)But Ahab's
+id="EndNote Ant 8.44a"></span>[(44)](#EndNote%20Ant%208.44b.md)But Ahab's
 fate found him out without his robes; for Benhadad, the king of Assyria,
 had charged his army, by the means of their commanders, to kill nobody
 else but only the king of Israel. So when the Syrians, upon their
@@ -2559,7 +2559,7 @@ two prophets came to pass, we ought thence to have high notions of God,
 and every where to honor and worship him, and never to suppose that what
 is pleasant and agreeable is worthy of belief before what is true, and
 to esteem nothing more advantageous than the gift of prophecy <span
-id="EndNote Ant 8.45a"></span>[(44)](#EndNote%20Ant%208.45b) and that
+id="EndNote Ant 8.45a"></span>[(44)](#EndNote%20Ant%208.45b.md) and that
 foreknowledge of future events which is derived from it, since God shows
 men thereby what we ought to avoid. We may also guess, from what
 happened to this king, and have reason to consider the power of fate;
@@ -2572,21 +2572,21 @@ was grateful to him, was slain; and his son Ahaziah succeeded him.
 
 ENDNOTE
 
-<span id="EndNote Ant 8.1b"></span>[(1)](#EndNote%20Ant%208.1a) This
+<span id="EndNote Ant 8.1b"></span>[(1)](#EndNote%20Ant%208.1a.md) This
 execution upon Joab, as a murderer, by slaying him, even when he had
 taken sanctuary at God's altar, is perfectly agreeable to the law of
 Moses, which enjoins, that "if a man come presumptuously upon his
 neighbor to slay him with guile, thou shalt take him from mine altar
 that he die," Exodus 21:14.
 
-<span id="EndNote Ant 8.2b"></span>[(2)](#EndNote%20Ant%208.2a) This
+<span id="EndNote Ant 8.2b"></span>[(2)](#EndNote%20Ant%208.2a.md) This
 building of the walls of Jerusalem, soon after David's death,
 illustrates the conclusion of the 51st Psalm, where David prays, "Build
 thou the walls of Jerusalem;" they being, it seems, unfinished or
 imperfect at that time. See ch. 6. sect. 1; and ch. 1. sect. 7; also 1
 Kings 9:15.
 
-<span id="EndNote Ant 8.3b"></span>[(3)](#EndNote%20Ant%208.3a) It may
+<span id="EndNote Ant 8.3b"></span>[(3)](#EndNote%20Ant%208.3a.md) It may
 not be amiss to compare the daily furniture of king Solomon's table,
 here set down, and 1 Kings 4;22, 23, with the like daily furniture of
 Nehemiah the governor's table, after the Jews were come back from
@@ -2606,7 +2606,7 @@ to those governors at all. Those great charges upon the public for
 maintaining courts came in with kings, as God foretold they would, 1
 Samuel 8:11-18.
 
-<span id="EndNote Ant 8.4b"></span>[(4)](#EndNote%20Ant%208.4a) Some
+<span id="EndNote Ant 8.4b"></span>[(4)](#EndNote%20Ant%208.4a.md) Some
 pretended fragments of these books of conjuration of Solomon are still
 extant in Fabricius's Cod. Pseudepigr. Vet. Test. page 1054, though I
 entirely differ from Josephus in this his supposal, that such books and
@@ -2622,12 +2622,12 @@ conjurations. As for the following history, it confirms what Christ
 says, Matthew 12;27 "If I by Beelzebub cast out demons, by whom do your
 Sons cast them out?"
 
-<span id="EndNote Ant 8.5b"></span>[(5)](#EndNote%20Ant%208.5a) These
+<span id="EndNote Ant 8.5b"></span>[(5)](#EndNote%20Ant%208.5a.md) These
 epistles of Solomon and Hiram are those in 1 Kings 5:3-9, and, as
 enlarged, in 2 Chronicles 2:3-16, but here given us by Josephus in his
 own words.
 
-<span id="EndNote Ant 8.6b"></span>[(6)](#EndNote%20Ant%208.6a) What
+<span id="EndNote Ant 8.6b"></span>[(6)](#EndNote%20Ant%208.6a.md) What
 Josephus here puts into his copy of Hiram's epistle to Solomon, and
 repeats afterwards, ch. 5. sect. 3, that Tyre was now an island, is not
 in any of the three other copies, viz. that of the Kings, Chronicles, or
@@ -2672,7 +2672,7 @@ distinctly observes, these poor remains of Old Tyre are now "become like
 the top of a rock, a place for the spreading of nets in the midst of the
 sea."
 
-<span id="EndNote Ant 8.7b"></span>[(7)](#EndNote%20Ant%208.7a) Of the
+<span id="EndNote Ant 8.7b"></span>[(7)](#EndNote%20Ant%208.7a.md) Of the
 temple of Solomon here described by Josephus, in this and the following
 sections of this chapter, see my description of the temples belonging to
 this work, ch. 13, These small rooms, or side chambers, seem to have
@@ -2681,20 +2681,20 @@ piece, otherwise there must have been a large interval between one and
 the other that was over it; and this with double floors, the one of six
 cubits distance from the floor beneath it, as 1 Kings 6:5
 
-<span id="EndNote Ant 8.8b"></span>[(8)](#EndNote%20Ant%208.8a) Josephus
+<span id="EndNote Ant 8.8b"></span>[(8)](#EndNote%20Ant%208.8a.md) Josephus
 says here that the cherubims were of solid gold, and only five cubits
 high, while our Hebrew copies (1 Kings 6;23, 28) say they were of the
 olive tree, and the LXXX. of the cypress tree, and only overlaid with
 gold; and both agree they were ten cubits high. I suppose the number
 here is falsely transcribed, and that Josephus wrote ten cubits also.
 
-<span id="EndNote Ant 8.9b"></span>[(9)](#EndNote%20Ant%208.9a) As for
+<span id="EndNote Ant 8.9b"></span>[(9)](#EndNote%20Ant%208.9a.md) As for
 these two famous pillars, Jachin and Booz, their height could be no more
 than eighteen cubits, as here, and 1 Kings 7:15; 2 Kings 25:17; Jeremiah
 3:21; those thirty-five cubits in 2 Chronicles 3:15, being contrary to
 all the rules of architecture in the world.
 
-<span id="EndNote Ant 8.10b"></span>[(10)](#EndNote%20Ant%208.10a) The
+<span id="EndNote Ant 8.10b"></span>[(10)](#EndNote%20Ant%208.10a.md) The
 round or cylindrical lavers of four cubits in diameter, and four in
 height, both in our copies, 1 Kings 7:38, 39, and here in Josephus, must
 have contained a great deal more than these forty baths, which are
@@ -2707,7 +2707,7 @@ about the courts of the priests for the washings they were designed for;
 and had they held much more, they would have been too heavy to have been
 so drawn.
 
-<span id="EndNote Ant 8.11b"></span>[(11)](#EndNote%20Ant%208.11a) Here
+<span id="EndNote Ant 8.11b"></span>[(11)](#EndNote%20Ant%208.11a.md) Here
 Josephus gives us a key to his own language, of right and left hand in
 the tabernacle and temple; that by the right hand he means what is
 against our left, when we suppose ourselves going up from the east gate
@@ -2718,12 +2718,12 @@ north, against our right hand. Of the golden plate on the high priest's
 forehead that was in being in the days of Josephus, and a century or two
 at least later, seethe note on Antiq. B. III. ch. 7. sect. 6.
 
-<span id="EndNote Ant 8.12b"></span>[(12)](#EndNote%20Ant%208.12a) Of
+<span id="EndNote Ant 8.12b"></span>[(12)](#EndNote%20Ant%208.12a.md) Of
 the golden plate on the High priests forehead that was in being in the
 days of Josephus, and a century or two at least later, see the note on
 Antiq. B. III. ch.vii. sect. 6.
 
-<span id="EndNote Ant 8.13b"></span>[(13)](#EndNote%20Ant%208.13a) When
+<span id="EndNote Ant 8.13b"></span>[(13)](#EndNote%20Ant%208.13a.md) When
 Josephus here says that the floor of the outmost temple or court of the
 Gentiles was with vast labor raised to be even, or of equal height, with
 the floor of the inner, or court of the priests, he must mean this in a
@@ -2742,14 +2742,14 @@ the Septuagint's number; but we are to suppose three years to have been
 the just time of the preparation, as I have done in my computation of
 the expense in building that temple.
 
-<span id="EndNote Ant 8.14b"></span>[(14)](#EndNote%20Ant%208.14a) This
+<span id="EndNote Ant 8.14b"></span>[(14)](#EndNote%20Ant%208.14a.md) This
 solemn removal of the ark from Mount Sion to Mount Moriah, at the
 distance of almost three quarters of a mile, confutes that notion of the
 modern Jews, and followed by many Christians also, as if those two were
 after a sort one and the same mountain, for which there is, I think,
 very little foundation.
 
-<span id="EndNote Ant 8.15b"></span>[(15)](#EndNote%20Ant%208.15a) This
+<span id="EndNote Ant 8.15b"></span>[(15)](#EndNote%20Ant%208.15a.md) This
 mention of the Corinthian ornaments of architecture in Solomon's palace
 by Josephus seems to be here set down by way of prophecy although it
 appears to me that the Grecian and Roman most ancient orders of
@@ -2768,7 +2768,7 @@ cubits long, and fifty cubits broad, are the very same with the area of
 the cart of the tabernacle of Moses. and just hall' an Egyptian orout,
 or acre.
 
-<span id="EndNote Ant 8.16b"></span>[(16)](#EndNote%20Ant%208.16a) This
+<span id="EndNote Ant 8.16b"></span>[(16)](#EndNote%20Ant%208.16a.md) This
 signification of the name Pharaoh appears to be true. But what Josephus
 adds presently, that no king of Egypt was called Pharaoh after Solomon's
 father-in-law, does hardly agree to our copies, which have long
@@ -2784,7 +2784,7 @@ Josephus, and those relating to the kings of Egypt, and to that queen of
 Egypt and Ethiopia, whom he supposes to have come to see Solomon, than
 almost any where else in all his Antiquities.
 
-<span id="EndNote Ant 8.17b"></span>[(17)](#EndNote%20Ant%208.17a) That
+<span id="EndNote Ant 8.17b"></span>[(17)](#EndNote%20Ant%208.17a.md) That
 this queen of Sheba was a queen of Sabea in South Arabia, and not of
 Egypt and Ethiopia, as Josephus here asserts, is, I suppose, now
 generally agreed. And since Sabea is well known to be a country near the
@@ -2794,7 +2794,7 @@ since our Savior calls this queen, "the queen of the south," and says,
 11:31, which descriptions agree better to this Arabia than to Egypt and
 Ethiopia; there is little occasion for doubting in this matter.
 
-<span id="EndNote Ant 8.18b"></span>[(18)](#EndNote%20Ant%208.18a) Some
+<span id="EndNote Ant 8.18b"></span>[(18)](#EndNote%20Ant%208.18a.md) Some
 blame Josephus for supposing that the balsam tree might be first brought
 out of Arabia, or Egypt, or Ethiopia, into Judea, by this queen of
 Sheba, since several have said that of old no country bore this precious
@@ -2814,7 +2814,7 @@ last is also the same word that we elsewhere render by the same mistake
 balm of Gilead; it should be rendered, the turpentine of Gilead,
 Jeremiah 8:22.
 
-<span id="EndNote Ant 8.19b"></span>[(19)](#EndNote%20Ant%208.19a)
+<span id="EndNote Ant 8.19b"></span>[(19)](#EndNote%20Ant%208.19a.md)
 Whether these fine gardens and rivulets of Etham, about six miles from
 Jerusalem, whither Solomon rode so often in state, be not those alluded
 to, Ecclesiastes 2:5, 6, where he says, "He made him gardens and
@@ -2828,14 +2828,14 @@ determined, but may very probably be conjectured. But whether this Etham
 has any relation to those rivers of Etham, which Providence once dried
 up in a miraculous manner, Psalm 74:15, in the Septuagint, I cannot say.
 
-<span id="EndNote Ant 8.20b"></span>[(20)](#EndNote%20Ant%208.20a) These
+<span id="EndNote Ant 8.20b"></span>[(20)](#EndNote%20Ant%208.20a.md) These
 seven hundred wives, or the daughters of great men, and the three
 hundred concubines, the daughters of the ignoble, make one thousand in
 all; and are, I suppose, those very one thousand women intimated
 elsewhere by Solomon himself, when he speaks of his not having found one
 \[good\] woman among that very number, Ecclesiastes 7:28.
 
-<span id="EndNote Ant 8.21b"></span>[(21)](#EndNote%20Ant%208.21a)
+<span id="EndNote Ant 8.21b"></span>[(21)](#EndNote%20Ant%208.21a.md)
 Josephus is here certainly too severe upon Solomon, who, in making the
 cherubims, and these twelve brazen oxen, seems to have done no more than
 imitate the patterns left him by David, which were all given David by
@@ -2851,7 +2851,7 @@ by Moses, Antiq. B. IV. ch. 8. sect. 5; yet did not the two tribes and a
 half offend when they made an altar for a memorial only, Joshua 22;
 Antiq. B. V. ch. 1. sect. 26, 27.
 
-<span id="EndNote Ant 8.22b"></span>[(22)](#EndNote%20Ant%208.22a) Since
+<span id="EndNote Ant 8.22b"></span>[(22)](#EndNote%20Ant%208.22a.md) Since
 the beginning of Solomon's evil life and adversity was the time when
 Hadad or Ader, who was born at least twenty or thirty years before
 Solomon came to the crown, in the days of David, began to give him
@@ -2859,7 +2859,7 @@ disturbance, this implies that Solomon's evil life began early, and
 continued very long, which the multitude of his wives and concubines
 does imply also; I suppose when he was not fifty years of age.
 
-<span id="EndNote Ant 8.23b"></span>[(23)](#EndNote%20Ant%208.23a) This
+<span id="EndNote Ant 8.23b"></span>[(23)](#EndNote%20Ant%208.23a.md) This
 youth of Jeroboam, when Solomon built the walls of righteous and keep
 the laws, because he hath proposed to thee the greatest of all rewards
 for thy piety, and the honor thou shalt pay to God, namely, to be as
@@ -2871,13 +2871,13 @@ Solomon's wickedness was become intolerable, fully confirm my former
 observation, that such his wickedness began early, and continued very
 long. See Ecclus. 47:14.
 
-<span id="EndNote Ant 8.24b"></span>[(24)](#EndNote%20Ant%208.24a) That
+<span id="EndNote Ant 8.24b"></span>[(24)](#EndNote%20Ant%208.24a.md) That
 by scorpions is not here meant that small animal so called, which was
 never used in corrections, but either a shrub, furze bush, or else some
 terrible sort of whip of the like nature see Hudson's and Spanheim's
 notes here.
 
-<span id="EndNote Ant 8.25b"></span>[(25)](#EndNote%20Ant%208.25a)
+<span id="EndNote Ant 8.25b"></span>[(25)](#EndNote%20Ant%208.25a.md)
 Whether these "fountains of the Lesser Jordan" were near a place called
 Dan, and the fountains of the Greater near a place called Jor, before
 their conjunction; or whether there was only one fountain, arising at
@@ -2890,7 +2890,7 @@ where Little Jordan fell into Great Jordan, near a place called Daphnae,
 as Josephus elsewhere informs us, Of the War, B. IV. ch. 1. sect. 1: see
 the note there.
 
-<span id="EndNote Ant 8.26b"></span>[(26)](#EndNote%20Ant%208.26a) How
+<span id="EndNote Ant 8.26b"></span>[(26)](#EndNote%20Ant%208.26a.md) How
 much a larger and better copy Josephus had in this remarkable history of
 the true prophet of Judea, and his concern with Jeroboam, and with the
 false prophet of Bethel, than our other copies have, is evident at first
@@ -2905,14 +2905,14 @@ plausible could not be invented, was intimated in Josephus's copy, or in
 some other ancient book, cannot now be determined; our other copies say
 not one word of it.
 
-<span id="EndNote Ant 8.27b"></span>[(27)](#EndNote%20Ant%208.27a) That
+<span id="EndNote Ant 8.27b"></span>[(27)](#EndNote%20Ant%208.27a.md) That
 this Shishak was not the same person with the famous Sesostris, as some
 have very lately, in contradiction to all antiquity, supposed, and that
 our Josephus did not take him to be the same, as they pretend, but that
 Sesostris was many centuries earlier than Shishak, see Authent. Records,
 part II. page 1024.
 
-<span id="EndNote Ant 8.28b"></span>[(28)](#EndNote%20Ant%208.28a)
+<span id="EndNote Ant 8.28b"></span>[(28)](#EndNote%20Ant%208.28a.md)
 Herodotus, as here quoted by Josephus, and as this passage still stands
 in his present copies, B. II. ch. 14., affirms, that "the Phoenicians
 and Syrians in Palestine \[which last are generally supposed to denote
@@ -2932,13 +2932,13 @@ what he says about them, their country, or maritime cities, two of which
 he alone mentions, Cadytus and Jenysus, proves true; nor indeed do there
 appear to have ever been any such cities on their coast.
 
-<span id="EndNote Ant 8.29b"></span>[(29)](#EndNote%20Ant%208.29a) This
+<span id="EndNote Ant 8.29b"></span>[(29)](#EndNote%20Ant%208.29a.md) This
 is a strange expression in Josephus, that God is his own workmanship, or
 that he made himself, contrary to common sense and to catholic
 Christianity; perhaps he only means that he was not made by one, but was
 unoriginated.
 
-<span id="EndNote Ant 8.30b"></span>[(30)](#EndNote%20Ant%208.30a) By
+<span id="EndNote Ant 8.30b"></span>[(30)](#EndNote%20Ant%208.30a.md) By
 this terrible and perfectly unparalleled slaughter of five hundred
 thousand men of the newly idolatrous and rebellious ten tribes, God's
 high displeasure and indignation against that idolatry and rebellion
@@ -2950,16 +2950,16 @@ been too powerful for the two tribes, which were pretty frequently free
 both from such idolatry and rebellion; nor is there any reason to doubt
 of the truth of the prodigious number upmost: signal an occasion.
 
-<span id="EndNote Ant 8.31b"></span>[(31)](#EndNote%20Ant%208.31a) The
+<span id="EndNote Ant 8.31b"></span>[(31)](#EndNote%20Ant%208.31a.md) The
 reader is to remember that Cush is not Ethiopia, but Arabia. See
 Bochart, B. IV. ch. 2.
 
-<span id="EndNote Ant 8.32b"></span>[(32)](#EndNote%20Ant%208.32a) Here
+<span id="EndNote Ant 8.32b"></span>[(32)](#EndNote%20Ant%208.32a.md) Here
 is a very great error in our Hebrew copy in this place, 2 Chronicles
 15:3-6, as applying what follows to times past, and not to times future;
 whence that text is quite misapplied by Sir Isaac Newton.
 
-<span id="EndNote Ant 8.33b"></span>[(33)](#EndNote%20Ant%208.33a) This
+<span id="EndNote Ant 8.33b"></span>[(33)](#EndNote%20Ant%208.33a.md) This
 Abelmain, or, in Josephus's copy, Abellane, that belonged to the land of
 Israel, and bordered on the country of Damascus, is supposed, both by
 Hudson and Spanheim, to be the same with Abel, or Ahila, whence came
@@ -2972,7 +2972,7 @@ righteous Abel to the blood of Zacharias son of Barnchins, whom ye slew
 between the temple and the altar. Verily, I say unto you, all these
 things shall come upon this generation," Matthew 23;35, 36; Luke 11:51.
 
-<span id="EndNote Ant 8.34b"></span>[(34)](#EndNote%20Ant%208.34a)
+<span id="EndNote Ant 8.34b"></span>[(34)](#EndNote%20Ant%208.34a.md)
 Josephus, in his present copies, says, that a little while rain upon the
 earth; whereas, in our other copies, it is after many days, 1 Kings
 18:1. Several years are also intimated there, and in Josephus, sect. 2,
@@ -2988,19 +2988,19 @@ as our Savior says it was upon all the earth, Luke 4:25. They who
 restrain these expressions to the land of Judea alone, go without
 sufficient authority or examples.
 
-<span id="EndNote Ant 8.35b"></span>[(35)](#EndNote%20Ant%208.35a) Mr.
+<span id="EndNote Ant 8.35b"></span>[(35)](#EndNote%20Ant%208.35a.md) Mr.
 Spanheim takes notice here, that in the worship of Mithra (the god of
 the Persians) the priests cut themselves in the same manner as did these
 priests in their invocation of Baal (the god of the Phoenicians).
 
-<span id="EndNote Ant 8.36b"></span>[(36)](#EndNote%20Ant%208.36a) For
+<span id="EndNote Ant 8.36b"></span>[(36)](#EndNote%20Ant%208.36a.md) For
 Izar we may here read (with Hudson and Cocceius) Isachar, i.e of the
 tribe of Isachar, for to that tribe did Jezreel belong; and presently at
 the beginning of sect. 8, as also ch. 15. sect. 4, we may read for Iar,
 with one MS. nearly, and the Scripture, Jezreel, for that was the city
 meant in the history of Naboth.
 
-<span id="EndNote Ant 8.37b"></span>[(37)](#EndNote%20Ant%208.37a) "The
+<span id="EndNote Ant 8.37b"></span>[(37)](#EndNote%20Ant%208.37a.md) "The
 Jews weep to this day," (says Jerome, here cited by Reland,) "and roll
 themselves upon sackcloth, in ashes, barefoot, upon such occasions." To
 which Spanheim adds, "that after the same manner Bernice, when his life
@@ -3008,7 +3008,7 @@ was in danger, stood at the tribunal of Florus barefoot." Of the War, B.
 II. ch. 15. sect. 1. See the like of David, 2 Samuel 15:30; Antiq. B.
 VII. ch. 9. sect. 2.
 
-<span id="EndNote Ant 8.38b"></span>[(38)](#EndNote%20Ant%208.38a) Mr.
+<span id="EndNote Ant 8.38b"></span>[(38)](#EndNote%20Ant%208.38a.md) Mr.
 Reland notes here very truly, that the word naked does not always
 signify entirely naked, but sometimes without men's usual armor, without
 heir usual robes or upper garments; as when Virgil bids the husbandman
@@ -3031,7 +3031,7 @@ was girded with a linen ephod," i.e. he had laid aside his robes of
 state, and put on the sacerdotal, Levitical, or sacred garments, proper
 for such a solemnity.
 
-<span id="EndNote Ant 8.39b"></span>[(39)](#EndNote%20Ant%208.39a)
+<span id="EndNote Ant 8.39b"></span>[(39)](#EndNote%20Ant%208.39a.md)
 Josephus's number, two myriads and seven thousand, agrees here with that
 in our other copies, as those that were slain by the falling down of the
 walls of Aphek; but I suspected at first that this number in Josephus's
@@ -3047,12 +3047,12 @@ originals, I lay aside that suspicion, and firmly believe that Josephus
 himself hath, with the rest, given us the just number, twenty-seven
 thousand.
 
-<span id="EndNote Ant 8.40b"></span>[(40)](#EndNote%20Ant%208.40a) This
+<span id="EndNote Ant 8.40b"></span>[(40)](#EndNote%20Ant%208.40a.md) This
 manner of supplication for men's lives among the Syrians, with ropes or
 halters about their heads or necks, is, I suppose, no strange thing in
 later ages, even in our own country.
 
-<span id="EndNote Ant 8.41b"></span>[(41)](#EndNote%20Ant%208.41a) It is
+<span id="EndNote Ant 8.41b"></span>[(41)](#EndNote%20Ant%208.41a.md) It is
 here remarkable, that in Josephus's copy this prophet, whose severe
 denunciation of a disobedient person's slaughter by a lion had lately
 come to pass, was no other than Micaiah, the son of Imlah, who, as he
@@ -3064,7 +3064,7 @@ denunciations against him; all which came to pass accordingly; nor is
 there any reason to doubt but this and the former were the very same
 prophet.
 
-<span id="EndNote Ant 8.42b"></span>[(42)](#EndNote%20Ant%208.42a) What
+<span id="EndNote Ant 8.42b"></span>[(42)](#EndNote%20Ant%208.42a.md) What
 is most remarkable in this history, and in many histories on other
 occasions in the Old Testament, is this, that during the Jewish
 theocracy God acted entirely as the supreme King of Israel, and the
@@ -3074,7 +3074,7 @@ King, and General of their armies, as subjects and soldiers are to their
 earthly kings and generals, and that usually without knowing the
 particular reasons of their injunctions.
 
-<span id="EndNote Ant 8.43b"></span>[(43)](#EndNote%20Ant%208.43a) These
+<span id="EndNote Ant 8.43b"></span>[(43)](#EndNote%20Ant%208.43a.md) These
 reasonings of Zedekiah the false prophet, in order to persuade Ahab not
 to believe Micaiah the true prophet, are plausible; but being omitted in
 our other copies, we cannot now tell whence Josephus had them, whether
@@ -3084,7 +3084,7 @@ against Micaiah is very likely, otherwise Jehoshaphat, who used to
 disbelieve all such false prophets, could never have been induced to
 accompany Ahab in these desperate circumstances.
 
-<span id="EndNote Ant 8.44b"></span>[(44)](#EndNote%20Ant%208.44a) This
+<span id="EndNote Ant 8.44b"></span>[(44)](#EndNote%20Ant%208.44a.md) This
 reading of Josephus, that Jehoshaphat put on not his own, but Ahab's
 robes, in order to appear to be Ahab, while Ahab was without any robes
 at all, and hoped thereby to escape his own evil fate, and disprove
@@ -3096,7 +3096,7 @@ escape of the good man Jehoshaphat, and the slaughter of the bad man
 Ahab, demonstrated the great distinction that Divine providence made
 betwixt them.
 
-<span id="EndNote Ant 8.45b"></span>[(45)](#EndNote%20Ant%208.45a)We
+<span id="EndNote Ant 8.45b"></span>[(45)](#EndNote%20Ant%208.45a.md)We
 have here a very wise reflection of Josephus about Divine Providence,
 and what is derived from it, prophecy, and the inevitable certainty of
 its accomplishment; and that when wicked men think they take proper
@@ -3106,4 +3106,4 @@ ever by Providence infatuated to bring about their own destruction, and
 thereby withal to demonstrate the perfect veracity of that God whose
 predictions they in vain endeavored to elude.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

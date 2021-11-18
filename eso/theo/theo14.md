@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](theo13) 
-[Next](theo15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](theo13.md) 
+[Next](theo15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564598063/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Theosophy*, by Rudolf Steiner, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -242,7 +242,7 @@ preceding ones. For the Beings in them supply the Archetypes with the
 
 them one finds the creative forces of the Archetypes themselves. He who
 is able to rise to these regions makes acquaintance with the <span
-class="smallcaps">purposes</span> which [underlie](errata.htm#4) our
+class="smallcaps">purposes</span> which [underlie](errata.htm#4.md) our
 world. The Archetypes lie here, as yet, like living germ-points, ready
 to assume the most manifold forms of thought-beings. If these
 germ-points are guided into the lower regions they well out, as it were,
@@ -289,4 +289,4 @@ clearly into view.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Spirit in Spirit-Land after Death](theo15)
+[Next: 4. The Spirit in Spirit-Land after Death](theo15.md)

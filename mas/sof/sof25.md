@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof24)  [Next](sof26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof24)  [Next](sof26.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head23.png"></span> ![Header Chapter
-XXIII.](img/head23.png)
+XXIII.](img/head23.png.md)
 
 ## XXIII.
 
@@ -23,21 +23,21 @@ spiritual corner-stone. And hence, to thoroughly comprehend the true
 meaning of the emblematic ceremony, it is essential that we should
 investigate the symbolism of the *corner-stone*.
 
-The corner-stone, [107](sof37.htm#xref_107) as the foundation on which
+The corner-stone, [107](sof37.htm#xref_107.md) as the foundation on which
 the entire building is supposed to rest, is, of course, the most
 important stone in the whole edifice. It is, at least, so considered by
 operative masons. It is laid with impressive ceremonies; the assistance
 of speculative masons is often, and always ought to be, invited, to give
 dignity to the occasion; and the event is viewed by the workmen as an
 important era in the construction of the
-edifice. [108](sof37.htm#xref_108)
+edifice. [108](sof37.htm#xref_108.md)
 
 In the rich imagery of Orientalism, the corner-stone is frequently
 referred to as the appropriate symbol of a chief or prince who is the
 defence and bulwark of his people, and more particularly in Scripture,
 as denoting that promised Messiah who was to be the sure prop and
 support of all who should put their trust in his divine
-mission. [109](sof37.htm#xref_109)
+mission. [109](sof37.htm#xref_109.md)
 
 To the various properties that are necessary to constitute a true
 corner-stone,--its firmness and durability, its perfect form, and its
@@ -104,7 +104,7 @@ material edifice to a mason, when, at his first initiation, he commences
 the intellectual task of erecting a spiritual temple in his heart, is
 beautifully sustained in the allusions to all the various parts and
 qualities which are to be found in a "well-formed, true and trusty"
-corner-stone. [110](sof37.htm#xref_110) Its form and substance are both
+corner-stone. [110](sof37.htm#xref_110.md) Its form and substance are both
 seized by the comprehensive grasp of the symbolic science.
 
 Let us trace this symbolism in its minute details. And, first, as to the
@@ -121,21 +121,21 @@ a cube. Now, the square and the cube are both important and significant
 symbols.
 
 The square is an emblem of morality, or the strict performance of every
-duty. [111](sof37.htm#xref_111) Among the Greeks, who were a highly
+duty. [111](sof37.htm#xref_111.md) Among the Greeks, who were a highly
 poetical and imaginative people, the square was deemed a figure of
 perfection, and the ἀνὴρ τετράγωνος--"the square or cubical man," as the
 words may be translated--was a term used to designate a man of unsullied
 integrity. Hence one of their most eminent
-metaphysicians [112](sof37.htm#xref_112) has said that "he who valiantly
+metaphysicians [112](sof37.htm#xref_112.md) has said that "he who valiantly
 sustains the shocks of adverse fortune, demeaning himself uprightly, is
 truly good and of a square posture, without reproof; and he who would
 assume such a square posture should often subject himself to the
 perfectly square test of justice and integrity."
 
 The cube, in the language of symbolism, denotes
-truth. [113](sof37.htm#xref_113) Among the pagan mythologists, Mercury,
+truth. [113](sof37.htm#xref_113.md) Among the pagan mythologists, Mercury,
 or Hermes, was always represented by a cubical stone, because he was the
-type of truth, [114](sof37.htm#xref_114) and the same form was adopted
+type of truth, [114](sof37.htm#xref_114.md) and the same form was adopted
 by the Israelites in the construction of the tabernacle, which was to be
 the dwelling-place of divine truth.
 
@@ -145,7 +145,7 @@ which constitutes the remainder of the edifice, often carved with
 appropriate devices and fitted for its distinguished purpose by the
 utmost skill of the sculptor's art, it becomes the symbol of that beauty
 of holiness with which the Hebrew Psalmist has said that we are to
-worship Jehovah. [115](sof37.htm#xref_115)
+worship Jehovah. [115](sof37.htm#xref_115.md)
 
 The ceremony, then, of the north-east corner of the lodge, since it
 derives all its typical value from this symbolism of the corner-stone,
@@ -168,7 +168,7 @@ edifice, as convenience or necessity may dictate? The custom of placing
 the foundation-stone in the north-east corner must have been originally
 adopted for some good and sufficient reason; for we have a right to
 suppose that it was not an arbitrary
-selection. [116](sof37.htm#xref_116) Was it in reference to the ceremony
+selection. [116](sof37.htm#xref_116.md) Was it in reference to the ceremony
 which takes place in the lodge? Or is that in reference to the position
 of the material stone? No matter which has the precedence in point of
 time, the principle is the same. The position of the stone in the
@@ -245,7 +245,7 @@ north, and the other surface faces the east. It is neither wholly in the
 one part nor wholly in the other, and in so far it is a symbol of
 initiation not fully developed--that which is incomplete and imperfect,
 and is, therefore, fitly represented by the recipient of the first
-degree, at the very moment of his initiation. [117](sof37.htm#xref_117)
+degree, at the very moment of his initiation. [117](sof37.htm#xref_117.md)
 
 But the strength and durability of the corner-stone are also eminently
 suggestive of symbolic ideas. To fulfil its design as the foundation and
@@ -269,7 +269,7 @@ tabernacle shall have passed away, he has within him a sure foundation
 of eternal life--a corner-stone of immortality--an emanation from that
 Divine Spirit which pervades all nature, and which, therefore, must
 survive the tomb, and rise, triumphant and eternal, above the decaying
-dust of death and the grave. [118](sof37.htm#xref_118)
+dust of death and the grave. [118](sof37.htm#xref_118.md)
 
 It is in this way that the student of masonic symbolism is reminded by
 the corner-stone--by its form, its position, and its permanence--of
@@ -300,7 +300,7 @@ the performance of certain acts or rites, they are held to be altogether
 different from what they were before; they acquire a sacred character,
 and in some instances a character absolutely divine. Such are the
 effects imagined to be produced by religious dedication."
- [119](sof37.htm#xref_119)
+ [119](sof37.htm#xref_119.md)
 
 The stone, therefore, thus properly constructed, is, when it is to be
 deposited by the constituted authorities of our order, carefully
@@ -339,7 +339,7 @@ human life you are to impart a portion of your bread to feed the hungry,
 to send a cup of your wine to cheer the sorrowful, and to pour the
 healing oil of your consolation into the wounds which sickness hath made
 in the bodies, or affliction rent in the hearts, of your
-fellow-travellers?"  [120](sof37.htm#xref_120)
+fellow-travellers?"  [120](sof37.htm#xref_120.md)
 
 But, individually, each of these elements of consecration has also an
 appropriate significance, which is well worth investigation.
@@ -377,7 +377,7 @@ presides.
 
 Oil is a symbol of prosperity, and happiness, and joy. The custom of
 anointing every thing or person destined for a sacred purpose is of
-venerable antiquity. [121](sof37.htm#xref_121) The statues of the
+venerable antiquity. [121](sof37.htm#xref_121.md) The statues of the
 heathen deities, as well as the altars on which the sacrifices were
 offered to them, and the priests who presided over the sacred rites,
 were always anointed with perfumed ointment, as a consecration of them
@@ -412,6 +412,6 @@ almost every other symbol of the order, an exclusively temple origin.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV. The Ineffable Name](sof26)
+[Next: XXIV. The Ineffable Name](sof26.md)
 
 </div>

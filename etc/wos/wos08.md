@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos07)  [Next](wos09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos07)  [Next](wos09.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ satisfaction to feel assured that scarcely any leading fable of heathen
 mythology is altogether the offspring of a poetical imagination. "Non
 *res ipsas* gestas finxerunt poetæ, sed *rebus gestis* addiderunt
 quendam colorem," is the shrewd observation of Lactantius <span
-id="fr_444"></span>[1](#fn_443); and the more we read, the more
+id="fr_444"></span>[1](#fn_443.md); and the more we read, the more
 convinced are we of its correctness.
 
 One of the most remarkable of these compound heathen fables is that of
@@ -74,7 +74,7 @@ expulsion from
 
 it through sin; the cause of this sin, and its consequences; THE SERPENT
 TEMPTER and THE "REDEEMING ANGEL <span
-id="fr_445"></span>[1](#fn_444),"--would form natural and interesting
+id="fr_445"></span>[1](#fn_444.md),"--would form natural and interesting
 subjects for the paternal instruction of these elders to their children.
 Is it surprising, then, that their children should preserve as sacred
 those oral traditions, from the recital of which they had received both
@@ -98,7 +98,7 @@ seduction of our first parents UNDER THE FORM OF A SERPENT.
 Typhon was the EVIL SPIRIT of the Egyptians. Jablonski derives his name
 from the two Coptic words, *Theu-ph-ou*, "spiritus-malus:" a derivation
 which corresponds with the remark of Plutarch: "The Egyptians commonly
-called Typhon Κακὸυ Δαίμονα <span id="fr_446"></span>[1](#fn_445)." The
+called Typhon Κακὸυ Δαίμονα <span id="fr_446"></span>[1](#fn_445.md)." The
 history of this dæmon will be found to be parallel with that of Satan in
 Scripture.
 
@@ -117,7 +117,7 @@ Pindar tells us, that "Typhon, the hundred-headed
 <span id="page_316">p. 316</span>
 
 *enemy of the gods*, lies in Tartarus <span
-id="fr_447"></span>[1](#fn_446)."
+id="fr_447"></span>[1](#fn_446.md)."
 
 The war in heaven, *for dominion*, is evidently a version of the
 patriarchal tradition recorded by St. Jude, of which a vision was
@@ -127,11 +127,11 @@ angels, and prevailed not, neither was their place found any more in
 heaven. And the great dragon was cast out, that old serpent, called the
 Devil and Satan, which deceiveth the whole world: *he was cast into the
 earth*, and his angels were cast out with him <span
-id="fr_448"></span>[2](#fn_447)."
+id="fr_448"></span>[2](#fn_447.md)."
 
 Under the same character, of *a rebel against the gods*, Typhon is
 celebrated in Grecian mythology by the name of Typhoeus <span
-id="fr_449"></span>[3](#fn_448) and in the Syrian by the name of
+id="fr_449"></span>[3](#fn_448.md) and in the Syrian by the name of
 Ophioneus. The latter is the same as the serpent-god Ophion or Obion,
 whose worship we have traced in the preceding pages.
 
@@ -168,9 +168,9 @@ of reading.
 
 We are assured by the author of the Book of Wisdom, that "through envy
 of the devil came death into the world <span
-id="fr_450"></span>[1](#fn_449):" and our Lord informs us, that the
+id="fr_450"></span>[1](#fn_449.md):" and our Lord informs us, that the
 devil "was a murderer from the beginning <span
-id="fr_451"></span>[2](#fn_450)." This, of course, alludes more
+id="fr_451"></span>[2](#fn_450.md)." This, of course, alludes more
 particularly to the *spiritual* murder of Adam; but his loss of
 immortality, in consequence of following the suggestions of the devil,
 might very naturally form the foundation of a fable, in which things
@@ -193,7 +193,7 @@ devil deceived Eve under the figure of a serpent: such a figure was also
 attributed to Typhon, at least in part; and a *partial* resemblance,
 such as this, is more satisfactory than a complete similitude. Typhon is
 a monster with a human head, and dracontic arms and legs. According to
-Apollodorus <span id="fr_452"></span>[1](#fn_451), "*an hundred
+Apollodorus <span id="fr_452"></span>[1](#fn_451.md), "*an hundred
 serpents' heads issued from his hands, and his legs 'terminated in two
 enormous snakes*." Hyginus tells us, that "*an hundred serpents' heads
 issued from his shoulders*." The figure, therefore, was partly *human*,
@@ -201,7 +201,7 @@ and partly *dracontic*; and in such we should have expected that the
 genius of mythology would clothe the serpent-tempter. For the tradition
 of the serpent, *speaking with a human voice*, would very naturally
 adorn the serpent of the fable with *a human body* <span
-id="fr_453"></span>[2](#fn_452).
+id="fr_453"></span>[2](#fn_452.md).
 
 The being, therefore, who deprived Adam and Osiris of life, was THE EVIL
 SPIRIT, and he was corporeally united with the serpent.
@@ -236,7 +236,7 @@ Isis,
 <span id="page_321">p. 321</span>
 
 and the vanquishing of Typhon by *their son* ORUS <span
-id="fr_454"></span>[1](#fn_453). It is a singular part of the fable,
+id="fr_454"></span>[1](#fn_453.md). It is a singular part of the fable,
 that Osiris, when restored to life, was restored in a *mutilated
 condition*; which may be an allusion, not obscure, to the *imperfection*
 of the redeemed man, compared with his perfection before the fall. The
@@ -259,19 +259,19 @@ A conclusion
 
 which is corroborated by the remarkable fact, that ORUS is considered by
 the Greek writers to have been the same as APOLLO <span
-id="fr_455"></span>[1](#fn_454); and Apollo, it is well known, was the
+id="fr_455"></span>[1](#fn_454.md); and Apollo, it is well known, was the
 destroyer of the serpent Python, *which had persecuted his mother
 Latona*. Whether with Gale, therefore, we derive ORUS from אור, (LIGHT);
 or with Jablonski, from the Coptic *U-er*, (THE CAUSE), the result will
 be the same; a correspondence with a *title* or an *attribute* of the
 "woman's seed," as "*a Light which lighteth every man that cometh into
-the world* <span id="fr_456"></span>[2](#fn_455);" or as "*the Word by
+the world* <span id="fr_456"></span>[2](#fn_455.md);" or as "*the Word by
 whom all things were made, and without whom was not any thing made that
-was made* <span id="fr_457"></span>[3](#fn_456)."
+was made* <span id="fr_457"></span>[3](#fn_456.md)."
 
 Orus, after his victory over Typhon, is said to have reigned "happily,"
 and was *the last of* the Egyptian dæmon kings <span
-id="fr_458"></span>[4](#fn_457); thus in every respect fulfilling the
+id="fr_458"></span>[4](#fn_457.md); thus in every respect fulfilling the
 attributes of THE MESSIAH, who, having bruised the serpent's head, shall
 reign for ever and ever, when "all enemies are put under his feet."
 
@@ -284,11 +284,11 @@ he derived his name from the word τετυφωμένος, for, being *puffed up*
 through ignorance and error, he *destroys and annuls* τὸν ἱερὸν
 λόγον--THE HOLY WORD--which she collects, and arranges, and teaches to
 those who are initiated into her worship," &c. <span
-id="fr_459"></span>[1](#fn_458) What is this but a Pagan version of the
+id="fr_459"></span>[1](#fn_458.md) What is this but a Pagan version of the
 Scripture truth, that "*the serpent beguiled Eve through his
-subtilty* <span id="fr_460"></span>[2](#fn_459);" and that "*he who
+subtilty* <span id="fr_460"></span>[2](#fn_459.md);" and that "*he who
 taketh the word* out of the hearts of men, lest they should believe and
-be saved <span id="fr_461"></span>[3](#fn_460)," is THE DEVIL?
+be saved <span id="fr_461"></span>[3](#fn_460.md)," is THE DEVIL?
 
 Plutarch, with the vanity so conspicuous in Grecian writers of referring
 the origin of every thing to their native country, says, that *Isis*, as
@@ -306,13 +306,13 @@ from a temple of Isis at Sais: "*I am all that hath been, and is, and
 shall be; and my veil no mortal hath ever removed*."
 
 But we may observe, that the Isis of Egypt is to be recognised in the
-ISI of Hindûstan <span id="fr_462"></span>[1](#fn_461): the name of her
+ISI of Hindûstan <span id="fr_462"></span>[1](#fn_461.md): the name of her
 consort is ISA. May not these two names have been originally derived
 from איש and; אשה, *the names of Adam and Eve* in the second chapter of
 Genesis? The transposition of the words does not militate against the
 hypothesis--such permutations being allowed to mythology. These words
 are derived from the root ישה, signifying *abstract existence* <span
-id="fr_463"></span>[2](#fn_462)--an idea which is not repugnant to that
+id="fr_463"></span>[2](#fn_462.md)--an idea which is not repugnant to that
 of I-si, *abundantia permanans*. The transition of ideas from "the
 mother of the human race," to the mother of the terrestrial globe--from
 the "abundantia permanans" of the habitable world, to the "abundantia
@@ -320,7 +320,7 @@ permanans" of the universe, is in accordance with the genius of
 mythology.
 
 When we are informed, therefore, by Faber <span
-id="fr_464"></span>[3](#fn_463), and other learned men, that Osiris and
+id="fr_464"></span>[3](#fn_463.md), and other learned men, that Osiris and
 Isis are the CREATOR OF THE UNIVERSE, under the mystical character of
 husband and wife--"The
 
@@ -353,7 +353,7 @@ The Phœnicians taught that MUTH was a
 man; the son of Saturn and Rhea (or OPS, *the serpent*.) The words of
 Eusebius are these:--"He consecrates his son Muth, whom he had by Rhea;
 whom the Phœnicians called DEATH, or PLUTO <span
-id="fr_465"></span>[1](#fn_464)." DEATH, the offspring of THE SERPENT,
+id="fr_465"></span>[1](#fn_464.md)." DEATH, the offspring of THE SERPENT,
 is thus an epithet to designate the woman "by whom came death!" Can
 there be a closer affinity between truth and fable, or a more
 illustrative commentary of mythology upon Scripture? It is true, that
@@ -364,7 +364,7 @@ learning, was likewise the founder of Phœnician theology.
 "*Muth*," signifying in the Egyptian language "Mother," is probably the
 parent of our English word expressing the same idea: and if ever there
 was a period in the primitive language <span
-id="fr_466"></span>[2](#fn_465), in which the word *Muth* signified both
+id="fr_466"></span>[2](#fn_465.md), in which the word *Muth* signified both
 *mother* and *death*, how elegant is the combination, and how expressive
 its simplicity! "Mother" is a sound which brings with it the remembrance
 of affectionate solicitude from the
@@ -437,7 +437,7 @@ In the history of Python, his *antiquity* is to
 <span id="page_330">p. 330</span>
 
 be observed. He was produced by the slime which was left upon the earth
-at the subsiding of the deluge <span id="fr_467"></span>[1](#fn_466).
+at the subsiding of the deluge <span id="fr_467"></span>[1](#fn_466.md).
 This was an origin naturally enough attributed to him by the poets; for
 in heathen mythology the deluge was supposed to have been caused by the
 evil spirit, of whose dracontic form the legend of Python preserved the
@@ -447,7 +447,7 @@ demons to whom dragons and serpents perform the part of ministering
 attendants*. Pierius teaches us, that by the serpent the ancients
 symbolized *destruction*, *misfortune*, and *terror*; and Diodorus
 Siculus asserts, that *a serpent twisted in spiral volumes was the
-hieroglyphic of evil* <span id="fr_468"></span>[2](#fn_467). All these
+hieroglyphic of evil* <span id="fr_468"></span>[2](#fn_467.md). All these
 symbolizations of Python intimate his connexion with the evil spirit.
 
 The whole story of Python and Apollo is surprisingly parallel with that
@@ -488,14 +488,14 @@ perverseness of paganism, having, in this instance, converted the woman
 into a goddess, converted likewise the seducing serpent into a guardian
 minister. Still, however, there are traces sufficiently strong, of the
 affinity which the fable bears to the truth. The dragon, *the offspring
-of Typhon* <span id="fr_469"></span>[1](#fn_468), was slain by Hercules,
+of Typhon* <span id="fr_469"></span>[1](#fn_468.md), was slain by Hercules,
 the son of Jupiter and Alcmena; that is, by a hero *uniting in his
 person the divine and human natures*. Being a servant of Juno, the slain
 dragon was translated into a constellation of the northern hemisphere,
 where he appears, in astronomical mythology, between the greater and
 lesser bear. Hercules is depicted upon the sphere as *pressing the
 dragon's head with his left foot*--"Sinistro autem toto caput draconis
-opprimere conatur <span id="fr_470"></span>[2](#fn_469)"--while the
+opprimere conatur <span id="fr_470"></span>[2](#fn_469.md)"--while the
 mouth of the dragon is represented in the act of "*bruising his heel*."
 
 Another version of the fable is, that this dragon, in the war of the
@@ -505,7 +505,7 @@ giants against the
 
 gods was opposed to Minerva, who "hurled him, contorted as he was, to
 the skies, and fixed him to the axis of the heavens <span
-id="fr_471"></span>[1](#fn_470)'."
+id="fr_471"></span>[1](#fn_470.md)'."
 
 It is obvious, that in these two versions of the legend, the two great
 events in the history of Satan--his destruction by the woman's seed, and
@@ -515,7 +515,7 @@ in Job xxvi. 13, as illustrated by the Septuagint. Speaking of the
 omnipotence of God, the prophet says, "By his spirit he hath garnished
 the heavens: his hand hath formed THE CROOKED SERPENT:" which expression
 is thus most remarkably paraphrased by the Septuagint. "By his hand he
-has slain THE APOSTATE SERPENT <span id="fr_472"></span>[2](#fn_471)."
+has slain THE APOSTATE SERPENT <span id="fr_472"></span>[2](#fn_471.md)."
 
 There can be no doubt, therefore, but that the seventy-two translators
 of the Hebrew Scriptures identified the dragon of the fable with the
@@ -535,16 +535,16 @@ And his consummating glory, the conquest of the *dragon* which guarded
 the golden fruit in the garden of the Hesperides. In his combat with
 Geryon, he slew a *dragon*; and in the wars of the giants against
 Jupiter, a monster, whose human body terminated in *serpent-legs* <span
-id="fr_473"></span>[1](#fn_472): while, to denote his connexion with the
+id="fr_473"></span>[1](#fn_472.md): while, to denote his connexion with the
 mystic serpent, he bore upon his shield the Ophite hierogram of THE
-SERPENT AND CIRCLE <span id="fr_474"></span>[2](#fn_473).
+SERPENT AND CIRCLE <span id="fr_474"></span>[2](#fn_473.md).
 
 All these coincidences can hardly have arisen from the unmeaning
 imagination of mythologists. The appearance of Satan in a dracontic form
 is clearly recognised in the fable of the dragon of the Hesperides; and
 his dialogue with the woman seems to be remembered in the traditionary
 property attributed to this dragon--ἐχρῆτο δὲ φωναῖς παντοίαις--so says
-Apollodorus <span id="fr_475"></span>[3](#fn_474):--"*He used all hinds
+Apollodorus <span id="fr_475"></span>[3](#fn_474.md):--"*He used all hinds
 of voices*;"--of which, in
 
 <span id="page_335">p. 335</span>
@@ -553,7 +553,7 @@ accordance with the genius of mythology, we may suppose that the human
 voice was one.
 
 To the same events there is an allusion in Plato <span
-id="fr_476"></span>[1](#fn_475), who, discoursing of the primitive
+id="fr_476"></span>[1](#fn_475.md), who, discoursing of the primitive
 condition of mankind, informs us, that at that time "*they lived naked,
 in a state of happiness*, and had *an abundance of fruits*, which were
 produced *without the labour of agriculture*; and that *men and beasts
@@ -582,13 +582,13 @@ from sleep, he found himself able to understand the chirping of birds;
 and discovered, moreover, that he was *gifted with prophecy*.
 
 Helenus and Cassandra were asleep in the temple of Apollo <span
-id="fr_477"></span>[1](#fn_476), when they acquired the power of
+id="fr_477"></span>[1](#fn_476.md), when they acquired the power of
 prophecy--"the passages of their senses being cleansed by the tongues of
 serpents." The same, says the scholiast on Euripid, *Hecuba*, that
 "serpents approaching and licking their ears, made them so sharp of
 hearing, that they alone, of all men, could understand the counsels of
 the gods, and became very excellent prophets <span
-id="fr_478"></span>[2](#fn_477)." To these we may add the case of
+id="fr_478"></span>[2](#fn_477.md)." To these we may add the case of
 Plutus, mentioned by Aristophanes, p. 76. *Two serpents* licking the
 eyelids
 
@@ -596,7 +596,7 @@ eyelids
 
 of this personage, who was *blind*, restored him to eyesight, and made
 his eyes "more than humanly acute <span
-id="fr_479"></span>[1](#fn_478)."
+id="fr_479"></span>[1](#fn_478.md)."
 
 Those who *ate serpents' flesh* were also supposed to acquire the gift
 of understanding the languages of the brute creation--consult
@@ -625,7 +625,7 @@ of the *serpent* with all that goes to Tartarus, is not a little
 remarkable. *Serpents* drew Ceres, and the bite of a *serpent* sent
 Eurydice to hell; while Mercury escorts every soul to the realms of
 Pluto, with the *serpentine* caduceus in his hand <span
-id="fr_480"></span>[1](#fn_479). The transformation of heathen deities
+id="fr_480"></span>[1](#fn_479.md). The transformation of heathen deities
 into *serpents*, for the purpose of deceiving women, is of constant
 occurrence in mythology, and alludes to the deception of Eve by A
 SPIRITUAL BEING, who assumed for that purpose the dracontic form.
@@ -694,7 +694,7 @@ appeared everywhere, and sought to do mischief both above and below. His
 machinations produced a general corruption; and so deeply was the earth
 and every element tainted by his malignity, that the purifying ablution
 of a GENERAL DELUGE became necessary to wash out the inveterate stain of
-evil <span id="fr_482"></span>[1](#fn_481)."
+evil <span id="fr_482"></span>[1](#fn_481.md)."
 
 In this legend we have, in fact, *but one fabulous circumstance*--the
 compound character of the first man: all the rest is a correct picture
@@ -711,7 +711,7 @@ foundation of the world."
 appears, as in the fables of all other Gentiles, in the celestial signs.
 "The Polar Dragon" they denominated, (according to Dr. Hyde,)
 AZACHA.--"The serpent who devours men and beasts <span
-id="fr_483"></span>[1](#fn_482)" The contention of the Archangel with
+id="fr_483"></span>[1](#fn_482.md)" The contention of the Archangel with
 Satan is probably shadowed out in the hierogram of the two serpents,
 representing the good and evil genius contending for the mundane egg,
 the symbol of the universe. The constellation *serpentarius*, to which
@@ -731,12 +731,12 @@ tempt Adam, was not admitted by the guard; whereupon he begged of all
 the animals, one after another, to carry him, that he might speak to
 Adam and his wife; but they all refused, except the serpent, who took
 him between two of his teeth, and so introduced him <span
-id="fr_484"></span>[1](#fn_483)."
+id="fr_484"></span>[1](#fn_483.md)."
 
 Hence probably was borrowed the rabbinical conceit, that "when Sammael
 (*i.e.* the devil) wished to deceive Eve, he entered Paradise riding
 upon a serpent, who was at that time shaped something like a camel <span
-id="fr_485"></span>[2](#fn_484)."
+id="fr_485"></span>[2](#fn_484.md)."
 
 #### V. CRISHNA.
 
@@ -744,7 +744,7 @@ id="fr_485"></span>[2](#fn_484)."
 
 The two sculptures of CRISHNA *suffering*, and CRISHNA *triumphant*, of
 which beautiful engravings are given by Maurice <span
-id="fr_486"></span>[3](#fn_485), are evident records of the fall and
+id="fr_486"></span>[3](#fn_485.md), are evident records of the fall and
 redemption of man. In the former, the god (a beautiful youthful figure,)
 is represented enfolded by an
 
@@ -756,7 +756,7 @@ represented as *trampling upon the serpent's head*.
 The story of Crishna is very similar to that of Hercules in Grecian
 mythology, the serpent forming a prominent feature in both. He conquers
 a *dragon*, into which the Assoor Aghe had transformed himself to
-swallow him up <span id="fr_487"></span>[1](#fn_486). He defeats also
+swallow him up <span id="fr_487"></span>[1](#fn_486.md). He defeats also
 Kalli Naga, (*the black or evil spirit with a thousand heads*,) who,
 placing himself in the bed of the river Jumna, poisoned the stream, so
 that *all the companions* of Crishna, and his *cattle*, who tasted of
@@ -776,12 +776,12 @@ remain through all the period of time: and devatars and men shall
 henceforth *remember thee without dismay*." So the serpent, with his
 wife and children, went into the abyss, and *the water which had been
 infected by his poison became pure and wholesome* <span
-id="fr_488"></span>[1](#fn_487).
+id="fr_488"></span>[1](#fn_487.md).
 
 At another period of his history we discover Crishna destroying the
 dæmon Sanchanaga, *the serpent-king of Egypt*, and his army of
-*snakes* <span id="fr_489"></span>[2](#fn_488). Crishna was *vulnerable
-only in the sole of his foot* <span id="fr_490"></span>[3](#fn_489).
+*snakes* <span id="fr_489"></span>[2](#fn_488.md). Crishna was *vulnerable
+only in the sole of his foot* <span id="fr_490"></span>[3](#fn_489.md).
 Similarly the hero Achilles was vulnerable only in the *heel*. The idea
 was probably borrowed from the tradition of "the woman's seed," whose
 "heel should be bruised" by the serpent Satan.
@@ -812,7 +812,7 @@ and yet the word JESUS is not interwoven with Hindû mythology.
 In the traditions of the wars of Crishna and Budh, the *eagle* of the
 former is represented as pursuing the *serpent* of the latter, to
 recover the *books of science and religion* with which he had fled <span
-id="fr_491"></span>[1](#fn_490). The same serpent is also said to have
+id="fr_491"></span>[1](#fn_490.md). The same serpent is also said to have
 
 <span id="page_347">p. 347</span>
 
@@ -823,7 +823,7 @@ The mythological connection of the Serpent with *knowledge* is
 remarkable. Col. Tod observes that "it is a singular fact that in every
 country THE SERPENT is the medium of communicating knowledge. The
 *Takshacs*, *Nagas*, or *Serpents*, introduced letters into India <span
-id="fr_492"></span>[1](#fn_491)."
+id="fr_492"></span>[1](#fn_491.md)."
 
 #### VI. THE TEUTONIC FABLES.
 
@@ -848,7 +848,7 @@ three are enemies to the gods, who, after various struggles, have
 chained the wolf till the last day, when he shall break loose and devour
 the sun. The serpent has been cast into the sea, where he shall remain
 *until he is conquered by the god* THOR: and *Hela shall be banished
-into the lower regions* <span id="fr_493"></span>[1](#fn_492)."
+into the lower regions* <span id="fr_493"></span>[1](#fn_492.md)."
 
 This intimate connexion, between the EVIL SPIRIT, THE SERPENT, and
 DEATH, immediately suggests the conclusion, that the whole legend is but
@@ -864,7 +864,7 @@ himself would be suffocated by the floods of poison
 <span id="page_349">p. 349</span>
 
 vomited out of the mouth of the noxious reptile <span
-id="fr_494"></span>[1](#fn_493)."
+id="fr_494"></span>[1](#fn_493.md)."
 
 The superstition of "the serpent in the sea" was known to the Chinese,
 as we observed in the chapter on the Serpent-worship of China. But it
@@ -873,7 +873,7 @@ heathen, for we find it mentioned by Isaiah, chap. xxvii. 1--"In that
 day the Lord, with his sore and great and strong sword shall punish
 Leviathan, the piercing serpent, even Leviathan that CROOKED SERPENT:
 and he shall slay THE DRAGON THAT IS IN THE SEA <span
-id="fr_495"></span>[2](#fn_494)."
+id="fr_495"></span>[2](#fn_494.md)."
 
 The prophet here represents, as I conceive, the triumph of the Messiah
 over Satan, who is pre-eminently THE SERPENT; and who, through
@@ -917,22 +917,22 @@ In this painting is described a female in conversation with a serpent
 who is erect. This female, we are assured, is called, by the Mexicans,
 "*woman of our flesh*," and is considered as "THE MOTHER OF THE HUMAN
 RACE." She is always represented with a great serpent <span
-id="fr_496"></span>[1](#fn_495). The serpent represented in the company
+id="fr_496"></span>[1](#fn_495.md). The serpent represented in the company
 of 'the mother of men' is the GENIUS OF EVIL; and is also described as
 'crushed,' and sometimes
 
 <span id="page_352">p. 352</span>
 
 cut to pieces, by the great spirit Teotl <span
-id="fr_497"></span>[1](#fn_496)."
+id="fr_497"></span>[1](#fn_496.md)."
 
 In two of the paintings, preserved by M. Aglio <span
-id="fr_498"></span>[2](#fn_497), is seen a figure *destroying a great
+id="fr_498"></span>[2](#fn_497.md), is seen a figure *destroying a great
 serpent* by smiting him *on the head* with a sword. In one of these
 pictures the figure is *human*, in the other a GOD.
 
 A similar, but still more expressive, painting occurs in plate 74 of the
-Borgian Collection <span id="fr_499"></span>[3](#fn_498) in which we
+Borgian Collection <span id="fr_499"></span>[3](#fn_498.md) in which we
 distinguish a deity in human form contending with a dragon. The god is
 victorious, and in the act of thrusting a sword into *the dragon's
 head*, while, singular to relate, the dragon has *bitten off his foot at
@@ -970,9 +970,9 @@ snakes, and kept them PICTURED in their houses and
 
 <span id="page_354">p. 354</span>
 
-temples <span id="fr_500"></span>[1](#fn_499)." It is probable,
+temples <span id="fr_500"></span>[1](#fn_499.md)." It is probable,
 therefore, that the Mexicans did the same. Besides, we are informed by
-Robertson <span id="fr_501"></span>[2](#fn_500), that Zummaragua, the
+Robertson <span id="fr_501"></span>[2](#fn_500.md), that Zummaragua, the
 *first* bishop of Mexico, destroyed every Mexican painting he could
 discover, because he regarded them as fuel to keep alive the
 superstitions of the people. It is not very probable, therefore, that
@@ -990,7 +990,7 @@ serpentine idols in the great temple, is commemorative of "THE BLOOD"
 
 <span id="page_355">p. 355</span>
 
-which "overcame <span id="fr_502"></span>[1](#fn_501) the serpent," and
+which "overcame <span id="fr_502"></span>[1](#fn_501.md) the serpent," and
 redeemed mankind.
 
 *The conversation of Eve with the serpent* seems to have made more
@@ -1000,145 +1000,145 @@ expect. It is remembered in the mythologies of Egypt, Greece, Syria,
 Hindûstan, Northern Europe, and North and South America. And it is one
 of the very few rays of truth discoverable in the darkness of the NEW
 ZEALANDER'S mind; for "these people have a tradition, that THE SERPENT
-ONCE SPOKE WITH A HUMAN VOICE <span id="fr_503"></span>[2](#fn_502)!"
+ONCE SPOKE WITH A HUMAN VOICE <span id="fr_503"></span>[2](#fn_502.md)!"
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_443"></span>[312:1](wos08.htm#fr_444) De falsâ relig. lib.
+<span id="fn_443"></span>[312:1](wos08.htm#fr_444.md) De falsâ relig. lib.
 i. c. 2.
 
-<span id="fn_444"></span>[314:1](wos08.htm#fr_445) Gen. xlviii. 16.
+<span id="fn_444"></span>[314:1](wos08.htm#fr_445.md) Gen. xlviii. 16.
 
-<span id="fn_445"></span>[315:1](wos08.htm#fr_446) De Iside et Osiride,
+<span id="fn_445"></span>[315:1](wos08.htm#fr_446.md) De Iside et Osiride,
 p. 380.
 
-<span id="fn_446"></span>[316:1](wos08.htm#fr_447) Pythia, 1.
+<span id="fn_446"></span>[316:1](wos08.htm#fr_447.md) Pythia, 1.
 
-<span id="fn_447"></span>[316:2](wos08.htm#fr_448) Rev. xii. 7, &c.
+<span id="fn_447"></span>[316:2](wos08.htm#fr_448.md) Rev. xii. 7, &c.
 
-<span id="fn_448"></span>[316:3](wos08.htm#fr_449) Hesiod. Theogon.
+<span id="fn_448"></span>[316:3](wos08.htm#fr_449.md) Hesiod. Theogon.
 
-<span id="fn_449"></span>[318:1](wos08.htm#fr_450) Wisd. ii. 24.
+<span id="fn_449"></span>[318:1](wos08.htm#fr_450.md) Wisd. ii. 24.
 
-<span id="fn_450"></span>[318:2](wos08.htm#fr_451) 2 John viii. 44.
+<span id="fn_450"></span>[318:2](wos08.htm#fr_451.md) 2 John viii. 44.
 
-<span id="fn_451"></span>[319:1](wos08.htm#fr_452) Lib. i. c. 6. s. 3.
+<span id="fn_451"></span>[319:1](wos08.htm#fr_452.md) Lib. i. c. 6. s. 3.
 
-<span id="fn_452"></span>[319:2](wos08.htm#fr_453) Thus in a Mexican
+<span id="fn_452"></span>[319:2](wos08.htm#fr_453.md) Thus in a Mexican
 painting, in the Borgian Collection, there is a god with *two* heads:
 one *human*, and the other a *serpent's*.--*Aglio. Mex. Ant*. vol. iii.
 
-<span id="fn_453"></span>[321:1](wos08.htm#fr_454) Herodot. ii. 156.
+<span id="fn_453"></span>[321:1](wos08.htm#fr_454.md) Herodot. ii. 156.
 
-<span id="fn_454"></span>[322:1](wos08.htm#fr_455) Herodot. ii. 144.
+<span id="fn_454"></span>[322:1](wos08.htm#fr_455.md) Herodot. ii. 144.
 Plutarch, Diodorus, &c.
 
-<span id="fn_455"></span>[322:2](wos08.htm#fr_456) John i. 9.
+<span id="fn_455"></span>[322:2](wos08.htm#fr_456.md) John i. 9.
 
-<span id="fn_456"></span>[322:3](wos08.htm#fr_457) John i.
+<span id="fn_456"></span>[322:3](wos08.htm#fr_457.md) John i.
 
-<span id="fn_457"></span>[322:4](wos08.htm#fr_458) Jablonski, Panth. Æg.
+<span id="fn_457"></span>[322:4](wos08.htm#fr_458.md) Jablonski, Panth. Æg.
 l. ii. p. 204.
 
-<span id="fn_458"></span>[323:1](wos08.htm#fr_459) De Isid. et Osirid.
+<span id="fn_458"></span>[323:1](wos08.htm#fr_459.md) De Isid. et Osirid.
 *in principio*.
 
-<span id="fn_459"></span>[323:2](wos08.htm#fr_460) 2 Cor. xi. 3.
+<span id="fn_459"></span>[323:2](wos08.htm#fr_460.md) 2 Cor. xi. 3.
 
-<span id="fn_460"></span>[323:3](wos08.htm#fr_461) Luke viii. 12.
+<span id="fn_460"></span>[323:3](wos08.htm#fr_461.md) Luke viii. 12.
 
-<span id="fn_461"></span>[324:1](wos08.htm#fr_462) Faber's Pagan Idol.
+<span id="fn_461"></span>[324:1](wos08.htm#fr_462.md) Faber's Pagan Idol.
 i. 167.
 
-<span id="fn_462"></span>[324:2](wos08.htm#fr_463) Parkhurst.
+<span id="fn_462"></span>[324:2](wos08.htm#fr_463.md) Parkhurst.
 
-<span id="fn_463"></span>[324:3](wos08.htm#fr_464) Pag. Idol. i. 165.
+<span id="fn_463"></span>[324:3](wos08.htm#fr_464.md) Pag. Idol. i. 165.
 
-<span id="fn_464"></span>[326:1](wos08.htm#fr_465) Euseb. Præp. Evang.
+<span id="fn_464"></span>[326:1](wos08.htm#fr_465.md) Euseb. Præp. Evang.
 i. 38.
 
-<span id="fn_465"></span>[326:2](wos08.htm#fr_466) In the Coptic
+<span id="fn_465"></span>[326:2](wos08.htm#fr_466.md) In the Coptic
 language, the words which express "mother," and "to die," approach very
 near each other.
 
-<span id="fn_466"></span>[330:1](wos08.htm#fr_467) Ovid, Met. i. 438.
+<span id="fn_466"></span>[330:1](wos08.htm#fr_467.md) Ovid, Met. i. 438.
 
-<span id="fn_467"></span>[330:2](wos08.htm#fr_468) Faber, Pag. Idol. i.
+<span id="fn_467"></span>[330:2](wos08.htm#fr_468.md) Faber, Pag. Idol. i.
 441, who cites Olaus Wormius *de aureo cornu*.
 
-<span id="fn_468"></span>[332:1](wos08.htm#fr_469) Hygin. Fab. 30.
+<span id="fn_468"></span>[332:1](wos08.htm#fr_469.md) Hygin. Fab. 30.
 
-<span id="fn_469"></span>[332:2](wos08.htm#fr_470) Hygin. Poet. Astron.
+<span id="fn_469"></span>[332:2](wos08.htm#fr_470.md) Hygin. Poet. Astron.
 122.
 
-<span id="fn_470"></span>[333:1](wos08.htm#fr_471) Hygin. Poet. Astron.
+<span id="fn_470"></span>[333:1](wos08.htm#fr_471.md) Hygin. Poet. Astron.
 362.
 
-<span id="fn_471"></span>[333:2](wos08.htm#fr_472) "Δράκοντα ἀποστάτην."
+<span id="fn_471"></span>[333:2](wos08.htm#fr_472.md) "Δράκοντα ἀποστάτην."
 
-<span id="fn_472"></span>[334:1](wos08.htm#fr_473) Montfaucon, i. plate
+<span id="fn_472"></span>[334:1](wos08.htm#fr_473.md) Montfaucon, i. plate
 64.
 
-<span id="fn_473"></span>[334:2](wos08.htm#fr_474) Stukeley, Abury, 69.
+<span id="fn_473"></span>[334:2](wos08.htm#fr_474.md) Stukeley, Abury, 69.
 
-<span id="fn_474"></span>[334:3](wos08.htm#fr_475) Lib. ii. s. 2.
+<span id="fn_474"></span>[334:3](wos08.htm#fr_475.md) Lib. ii. s. 2.
 
-<span id="fn_475"></span>[335:1](wos08.htm#fr_476) Polit. fol. 272.
+<span id="fn_475"></span>[335:1](wos08.htm#fr_476.md) Polit. fol. 272.
 *Edit. Steph*.
 
-<span id="fn_476"></span>[336:1](wos08.htm#fr_477) Homer, Iliad, H.
+<span id="fn_476"></span>[336:1](wos08.htm#fr_477.md) Homer, Iliad, H.
 Scholiast.
 
-<span id="fn_477"></span>[336:2](wos08.htm#fr_478) Bochart. Hieroz. lib.
+<span id="fn_477"></span>[336:2](wos08.htm#fr_478.md) Bochart. Hieroz. lib.
 i. fol. 21.
 
-<span id="fn_478"></span>[337:1](wos08.htm#fr_479) Spanheim, 212.
+<span id="fn_478"></span>[337:1](wos08.htm#fr_479.md) Spanheim, 212.
 
-<span id="fn_479"></span>[338:1](wos08.htm#fr_480) Cerberus himself, the
+<span id="fn_479"></span>[338:1](wos08.htm#fr_480.md) Cerberus himself, the
 watch-dog of Tartarus, had a *dragon's* tail, and his skin was studded
-with *serpents' heads* <span id="fr_481"></span>[\*](#fn_480).
+with *serpents' heads* <span id="fr_481"></span>[\*](#fn_480.md).
 
-<span id="fn_480"></span>[338:\*](wos08.htm#fr_481) Apollod.
+<span id="fn_480"></span>[338:\*](wos08.htm#fr_481.md) Apollod.
 
-<span id="fn_481"></span>[341:1](wos08.htm#fr_482) Faber, Hor. Mos. i.
+<span id="fn_481"></span>[341:1](wos08.htm#fr_482.md) Faber, Hor. Mos. i.
 72.
 
-<span id="fn_482"></span>[342:1](wos08.htm#fr_483) Maurice, Hist. of
+<span id="fn_482"></span>[342:1](wos08.htm#fr_483.md) Maurice, Hist. of
 Hind. i. 315,
 
-<span id="fn_483"></span>[343:1](wos08.htm#fr_484) Sale's Koran, ch. ii.
+<span id="fn_483"></span>[343:1](wos08.htm#fr_484.md) Sale's Koran, ch. ii.
 *note*.
 
-<span id="fn_484"></span>[343:2](wos08.htm#fr_485) Maimonides, More
+<span id="fn_484"></span>[343:2](wos08.htm#fr_485.md) Maimonides, More
 Nevoch. 281.
 
-<span id="fn_485"></span>[343:3](wos08.htm#fr_486) Hist. Hind. vol. ii.
+<span id="fn_485"></span>[343:3](wos08.htm#fr_486.md) Hist. Hind. vol. ii.
 
-<span id="fn_486"></span>[344:1](wos08.htm#fr_487) Maurice, Hist. Hind.
+<span id="fn_486"></span>[344:1](wos08.htm#fr_487.md) Maurice, Hist. Hind.
 ii. 272.
 
-<span id="fn_487"></span>[345:1](wos08.htm#fr_488) Maurice, Hist. Hind.
+<span id="fn_487"></span>[345:1](wos08.htm#fr_488.md) Maurice, Hist. Hind.
 ii. 276.
 
-<span id="fn_488"></span>[345:2](wos08.htm#fr_489) Ibid. ii. 89. 140.
+<span id="fn_488"></span>[345:2](wos08.htm#fr_489.md) Ibid. ii. 89. 140.
 
-<span id="fn_489"></span>[345:3](wos08.htm#fr_490) Ibid. iii. 88.
+<span id="fn_489"></span>[345:3](wos08.htm#fr_490.md) Ibid. iii. 88.
 
-<span id="fn_490"></span>[346:1](wos08.htm#fr_491) Tod, Rajasthan i.
+<span id="fn_490"></span>[346:1](wos08.htm#fr_491.md) Tod, Rajasthan i.
 537.
 
-<span id="fn_491"></span>[347:1](wos08.htm#fr_492) Asiatic Transactions,
+<span id="fn_491"></span>[347:1](wos08.htm#fr_492.md) Asiatic Transactions,
 vol. ii. p. 563.
 
-<span id="fn_492"></span>[348:1](wos08.htm#fr_493) Mallet, Northern
+<span id="fn_492"></span>[348:1](wos08.htm#fr_493.md) Mallet, Northern
 Antiq. i. 100. *Bishop Percy's translation*.
 
-<span id="fn_493"></span>[349:1](wos08.htm#fr_494) Faber Pag. Idol. i.
+<span id="fn_493"></span>[349:1](wos08.htm#fr_494.md) Faber Pag. Idol. i.
 442, citing the Edda; and Hor. Mos. i. 77.
 
-<span id="fn_494"></span>[349:2](wos08.htm#fr_495) The translation of
+<span id="fn_494"></span>[349:2](wos08.htm#fr_495.md) The translation of
 Bishop Lowth is somewhat different; but the variation is immaterial.
 
 "In that day shall Jehovah punish with his sword,  
@@ -1150,28 +1150,28 @@ And shall slay the *monster* that is in the sea."
 The word here rendered "*monster*" is תנין, which may mean a whale, or
 *a sea serpent*. I follow the Septuagint.
 
-<span id="fn_495"></span>[351:1](wos08.htm#fr_496) Humboldt, Res. vol.
+<span id="fn_495"></span>[351:1](wos08.htm#fr_496.md) Humboldt, Res. vol.
 i. p. 195.
 
-<span id="fn_496"></span>[352:1](wos08.htm#fr_497) Humboldt, Res. vol.
+<span id="fn_496"></span>[352:1](wos08.htm#fr_497.md) Humboldt, Res. vol.
 i. p. 228.
 
-<span id="fn_497"></span>[352:2](wos08.htm#fr_498) Mex. Ant. vol. iii.
+<span id="fn_497"></span>[352:2](wos08.htm#fr_498.md) Mex. Ant. vol. iii.
 
-<span id="fn_498"></span>[352:3](wos08.htm#fr_499) Mex. Ant. vol. iii.
+<span id="fn_498"></span>[352:3](wos08.htm#fr_499.md) Mex. Ant. vol. iii.
 
-<span id="fn_499"></span>[354:1](wos08.htm#fr_500) Purchas, Pilgrims,
+<span id="fn_499"></span>[354:1](wos08.htm#fr_500.md) Purchas, Pilgrims,
 pt. iv. p. 1478.
 
-<span id="fn_500"></span>[354:2](wos08.htm#fr_501) America, vol. iii. p.
+<span id="fn_500"></span>[354:2](wos08.htm#fr_501.md) America, vol. iii. p.
 5.
 
-<span id="fn_501"></span>[355:1](wos08.htm#fr_502) "*They overcame him
+<span id="fn_501"></span>[355:1](wos08.htm#fr_502.md) "*They overcame him
 by the blood of the Lamb*."--Rev. xii. 11.
 
-<span id="fn_502"></span>[355:2](wos08.htm#fr_503) Faber, Pag. Idol. i.
+<span id="fn_502"></span>[355:2](wos08.htm#fr_503.md) Faber, Pag. Idol. i.
 274, citing Marsden in the Chr. Obs. Nov. 1810, p. 724.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Serpent Temples](wos09)
+[Next: Chapter VI. Serpent Temples](wos09.md)

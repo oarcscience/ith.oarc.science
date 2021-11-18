@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil52)  [Next](egil54) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil52)  [Next](egil54.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ This plan they fixed upon, and so ended the council.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LIII. Of the fight.](egil54)
+[Next: CHAPTER LIII. Of the fight.](egil54.md)

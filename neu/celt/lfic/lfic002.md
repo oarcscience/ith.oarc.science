@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic001)  [Next](lfic003) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic001)  [Next](lfic003.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ LOUGH NA PIASTHA COTTAGE.
 
 ------------------------------------------------------------------------
 
-[Next: Household Stories](lfic003)
+[Next: Household Stories](lfic003.md)

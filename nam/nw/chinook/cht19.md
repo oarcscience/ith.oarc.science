@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht18)  [Next](cht20) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht18)  [Next](cht20.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ gone visiting enough."
 
 ------------------------------------------------------------------------
 
-[Next: 17. Ckulkulô'L](cht20)
+[Next: 17. Ckulkulô'L](cht20.md)

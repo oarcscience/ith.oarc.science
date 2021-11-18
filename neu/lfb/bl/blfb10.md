@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb09)  [Next](blfb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb09)  [Next](blfb11.md) 
 
 </div>
 
@@ -313,6 +313,6 @@ what shuddering is."\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Rumpelstiltzkin](blfb11)
+[Next: Rumpelstiltzkin](blfb11.md)
 
 </div>

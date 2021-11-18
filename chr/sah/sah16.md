@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah15)  [Next](sah17) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah15)  [Next](sah17.md) 
 
 ------------------------------------------------------------------------
 
@@ -732,4 +732,4 @@ will dwell in the house \[the consciousness\] of \[LOVE\] for ever.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII - Glossary](sah17) 
+[Next: Chapter XVII - Glossary](sah17.md) 

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn10)  [Next](dbn12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn10)  [Next](dbn12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -135,12 +135,12 @@ Segovia, the fifteenth of September, 1505, says, "I will send more Negro
 slaves as you request; I think there may be a hundred. At each time a
 trustworthy person will go with them who may have some share in the gold
 they may collect and may promise them ease if they work well." <span
-id="fr_69"></span>[1](#fn_69) There is a record of a hundred slaves
+id="fr_69"></span>[1](#fn_69.md) There is a record of a hundred slaves
 being sent out this very year, and Diego Columbus was notified of fifty
 to he sent from Seville for the mines in 1510.
 
 After this time frequent notices show that Negroes were common in the
-new world. <span id="fr_70"></span>[2](#fn_70) When Pizarro, for
+new world. <span id="fr_70"></span>[2](#fn_70.md) When Pizarro, for
 instance, had been slain in Peru, his body was dragged to the cathedral
 by two Negroes. After the battle of Anaquito the head of the viceroy was
 cut off by a Negro, and during the great earthquake in Guatemala a most
@@ -165,12 +165,12 @@ Portuguese take them and make them slaves; which advice, after he had
 apprehended the nature of the thing, be would not have given for all he
 had in the world. For he always held that they had been made slaves
 unjustly and tyrannically; for the same reason holds good of them as of
-the Indians." <span id="fr_71"></span>[1](#fn_71)
+the Indians." <span id="fr_71"></span>[1](#fn_71.md)
 
 As soon as the plan was broached a Savoyard, Lorens de Gomenot, Governor
 of Bresa, obtained a monopoly of this proposed trade and shrewdly sold
 it to the Genoese for twenty-five thousand ducats. Other monopolies were
-granted in 1523, 1527, and 1528. <span id="fr_72"></span>[2](#fn_72)
+granted in 1523, 1527, and 1528. <span id="fr_72"></span>[2](#fn_72.md)
 Thus the American trade became established and gradually grew, passing
 successively into the hands of the Portuguese, the Dutch, the French,
 and the English.
@@ -220,7 +220,7 @@ east coast. Under them the abominable traffic grew larger and larger,
 until it became far the most important in money value of all the
 commerce of the Zambesi basin. There could be no extension of
 agriculture, no mining, no progress of any kind where it was so
-extensively carried on. <span id="fr_73"></span>[1](#fn_73)
+extensively carried on. <span id="fr_73"></span>[1](#fn_73.md)
 
 It was the Dutch, however, who launched the oversea slave trade as a
 regular institution. They began their fight for freedom from Spain in
@@ -385,7 +385,7 @@ contracted putrid and fatal disorders; so that they who came to inspect
 them in a morning had occasionally to pick dead slaves out of their
 rows, and to unchain their carcases from the bodies of their wretched
 fellow-sufferers to whom they had been fastened." <span
-id="fr_74"></span>[1](#fn_74)
+id="fr_74"></span>[1](#fn_74.md)
 
 It was estimated that out of every one hundred lot shipped from Africa
 only about fifty lived to be effective laborers across the sea, and
@@ -450,28 +450,28 @@ God.
 
 ### Footnotes
 
-<span id="fn_69"></span>[88:1](dbn11.htm#fr_69) Cf. Helps: *Spanish
+<span id="fn_69"></span>[88:1](dbn11.htm#fr_69.md) Cf. Helps: *Spanish
 Conquest*, IV, 401.
 
-<span id="fn_70"></span>[88:2](dbn11.htm#fr_70) Helps, *op. cit.*, I,
+<span id="fn_70"></span>[88:2](dbn11.htm#fr_70.md) Helps, *op. cit.*, I,
 219-220.
 
-<span id="fn_71"></span>[89:1](dbn11.htm#fr_71) Helps, *op. cit.*, II,
+<span id="fn_71"></span>[89:1](dbn11.htm#fr_71.md) Helps, *op. cit.*, II,
 18-19.
 
-<span id="fn_72"></span>[89:2](dbn11.htm#fr_72) Helps, *op. cit.*, III,
+<span id="fn_72"></span>[89:2](dbn11.htm#fr_72.md) Helps, *op. cit.*, III,
 211-212.
 
-<span id="fn_73"></span>[90:1](dbn11.htm#fr_73) Theal: *History and
+<span id="fn_73"></span>[90:1](dbn11.htm#fr_73.md) Theal: *History and
 Ethnography of South Africa before 1795*, I, 476.
 
-<span id="fn_74"></span>[94:1](dbn11.htm#fr_74) Ingram: *History of
+<span id="fn_74"></span>[94:1](dbn11.htm#fr_74.md) Ingram: *History of
 Slavery*, p. 112.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: X. The West Indies and Latin America](dbn12)
+[Next: X. The West Indies and Latin America](dbn12.md)
 
 </div>

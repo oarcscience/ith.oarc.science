@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah05)  [Next](oah07) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah05)  [Next](oah07.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,10 +187,10 @@ origin in the lower heavens.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiii:\*](oah06.htm#fr_0) The term Christ or
+<span id="fn_0"></span>[xiii:\*](oah06.htm#fr_0.md) The term Christ or
 Kriste here used must not be confounded with Jesus of Nazareth, called,
 in these Scriptures, Joshu.
 
 ------------------------------------------------------------------------
 
-[Next: Oahspe](oah07)
+[Next: Oahspe](oah07.md)

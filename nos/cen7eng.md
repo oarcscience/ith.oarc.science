@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen6eng)  [Next](epistle) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen6eng)  [Next](epistle.md) 
 
 ------------------------------------------------------------------------
 
@@ -258,6 +258,6 @@ taken he who thought to trouble the elder with death.
 
 ------------------------------------------------------------------------
 
-[Next: Epistle to Henry II](epistle)
+[Next: Epistle to Henry II](epistle.md)
 
   

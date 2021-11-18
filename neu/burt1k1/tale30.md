@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale29)  [Next](tale31) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale29)  [Next](tale31.md) 
 
 ------------------------------------------------------------------------
 
@@ -3277,4 +3277,4 @@ delights and the Severer of societies.
 
   And a tale is also told about  
 
-(*Next*) [ALI BABA AND THE FORTY THIEVES](tale31)  
+(*Next*) [ALI BABA AND THE FORTY THIEVES](tale31.md)  

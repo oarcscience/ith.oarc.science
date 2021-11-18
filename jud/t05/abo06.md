@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](abo05)  [Next](abo07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](abo05)  [Next](abo07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -66,7 +66,7 @@ the man."
 MISHNA *G*. Moreover, he saw a skull which floated on the face of the
 water, and he said to it: "Because thou drownedst they drowned thee, and
 in the end they that drowned thee will be drowned." <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
 MISHNA *H*. He furthermore said: "The more feasting the more food for
 worms; the more wealth the more cares; more women, more witchcraft; more
@@ -130,7 +130,7 @@ misanthropy drive a man out of the world."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_38"></span>[1](#fn_38)"*An envious eye*," etc. How so? It
+ <span id="fr_38"></span>[1](#fn_38.md)"*An envious eye*," etc. How so? It
 means one shall look upon the house of his neighbor with the same eye as
 he looks upon his own; and as one is anxious that there be no bad repute
 against his wife and children, so should he be anxious in regard to his
@@ -296,7 +296,7 @@ privilege granted by mercy and grace before God, for it is written
 of great kindness, and he bethinketh himself of the evil.' Never think
 thyself too great a sinner to approach Him."
 
-MISHNA *P*. R. Elazar: <span id="fr_39"></span>[1](#fn_39) "Be most
+MISHNA *P*. R. Elazar: <span id="fr_39"></span>[1](#fn_39.md) "Be most
 zealous in the pursuit of study; be prepared always to answer a scoffer;
 remember in whose service thou laborest." (He also added:) "Know who is
 thy Master, that he may be trusted to recompense thee for thy work."
@@ -314,7 +314,7 @@ is for the world to come."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_40"></span>[2](#fn_40)"*Thy neighbor's property must be as
+ <span id="fr_40"></span>[2](#fn_40.md)"*Thy neighbor's property must be as
 sacred as thine*." It means that one should be as careful of his
 friend's property as he is of his own; and as he is desirous that there
 shall be no slur cast on his belongings, so shall he desire that there
@@ -416,7 +416,7 @@ be trusted that he will recompense thee for thy work."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_41"></span>[1](#fn_41) (As Rabban Johanan b. Zakkai used
+ <span id="fr_41"></span>[1](#fn_41.md) (As Rabban Johanan b. Zakkai used
 to recount the praise of his disciples), so was R. Jehudah the Nassi
 recounted of the following sages: R. Tarphon, R. Aqiba, R. Elazar b.
 Azariah, R. Johanan b. Nuri, and R. Jose the Galilean.
@@ -472,7 +472,7 @@ is of no importance."
 
 ### Footnotes
 
-<span id="fn_37"></span>[60:1](abo06.htm#fr_37) All commentators concur
+<span id="fn_37"></span>[60:1](abo06.htm#fr_37.md) All commentators concur
 in the opinion that the above Mishna teaches us nothing else but a
 lesson of retaliation; namely, that "the Almighty pays measure for
 measure," or, in other words, that the punishment fits the crime. I am,
@@ -490,19 +490,19 @@ and since Hillel could not openly express his indignation, for fear of
 the tyrant, he made an indirect allusion to the occurrence.--From the
 American Israelite, by Rev. Dr. Falk Vedaver.
 
-<span id="fn_38"></span>[62:1](abo06.htm#fr_38) Chapter XVI. of the
+<span id="fn_38"></span>[62:1](abo06.htm#fr_38.md) Chapter XVI. of the
 original.
 
-<span id="fn_39"></span>[66:1](abo06.htm#fr_39) The text reads
+<span id="fn_39"></span>[66:1](abo06.htm#fr_39.md) The text reads
 "Eliezer," but this must be a misprint, as Elazar was the fifth all the
 disciples, each of whom had three maxims.
 
-<span id="fn_40"></span>[66:2](abo06.htm#fr_40) Chapter XVII. of the
+<span id="fn_40"></span>[66:2](abo06.htm#fr_40.md) Chapter XVII. of the
 original.
 
-<span id="fn_41"></span>[69:1](abo06.htm#fr_41) Chapter XVIII. of the
+<span id="fn_41"></span>[69:1](abo06.htm#fr_41.md) Chapter XVIII. of the
 original.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III.](abo07)
+[Next: Chapter III.](abo07.md)

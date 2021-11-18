@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll09)  [Previous](ecl08) 
-[Next](ecl10) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll09)  [Previous](ecl08.md) 
+[Next](ecl10.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ he is come himself, we will sing his songs better then.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue X.--Gallus](ecl10)
+[Next: Eclogue X.--Gallus](ecl10.md)

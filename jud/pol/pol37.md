@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol36)  [Next](pol38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol36)  [Next](pol38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -302,7 +302,7 @@ world of bliss. To slander is to commit murder.
 
 <span id="page_292">p. 292</span>
 
-Repent the day before thy death. <span id="fr_8"></span>[1](#fn_8)
+Repent the day before thy death. <span id="fr_8"></span>[1](#fn_8.md)
 
 Ten measures of wisdom came into the world; the law of Israel received
 nine measures, and the balance of the world one. Ten measures of beauty
@@ -444,7 +444,7 @@ Rabbi Jose said:
 "I never call my wife 'wife,' but 'home,' for she, indeed, makes my
 home.
 
-"He who [possesses](errata.htm#6) a knowledge of God, and a knowledge of
+"He who [possesses](errata.htm#6.md) a knowledge of God, and a knowledge of
 man, will not easily commit sin.
 
 "The Bible was given us to establish peace.
@@ -632,7 +632,7 @@ are weak, and when strong winds blow they break in pieces.
 
 ### Footnotes
 
-<span id="fn_8"></span>[292:1](pol37.htm#fr_8) The Rabbi who said,
+<span id="fn_8"></span>[292:1](pol37.htm#fr_8.md) The Rabbi who said,
 "Repent the day before thy death," was asked by his disciples how they
 could follow his advice, as man was unable to tell upon what day his
 death would occur. He answered, "Consider every day thy last; be ever
@@ -640,4 +640,4 @@ ready with penitence and good deeds."
 
 ------------------------------------------------------------------------
 
-[Next: The Desert Island](pol38)
+[Next: The Desert Island](pol38.md)

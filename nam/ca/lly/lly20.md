@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly19)  [Next](lly21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly19)  [Next](lly21.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ the real soul of Yosemite.
 
 ------------------------------------------------------------------------
 
-[Next: Clouds Rest](lly21)
+[Next: Clouds Rest](lly21.md)

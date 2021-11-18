@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb10)  [Next](mcb12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb10)  [Next](mcb12.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,33 +33,33 @@ To be established in \[Shin\] faith means to understand the
 <span id="page_168">p. 168</span>
 
 \[paragraph continues\] Eighteenth Vow. <span
-id="fr_140"></span>[1](#fn_140) To understand the Eighteenth Vow means
-to understand the frame of mind <span id="fr_141"></span>[2](#fn_142)
+id="fr_140"></span>[1](#fn_140.md) To understand the Eighteenth Vow means
+to understand the frame of mind <span id="fr_141"></span>[2](#fn_142.md)
 the "Namu-amida-butsu" sets up in you. <span
-id="fr_142"></span>[1a](#fn_141)
+id="fr_142"></span>[1a](#fn_141.md)
 
 Therefore, when you attain a state of single-mindedness as you utter the
-"*Namu*" <span id="fr_143"></span>[2](#fn_142) with absolute trust \[in
+"*Namu*" <span id="fr_143"></span>[2](#fn_142.md) with absolute trust \[in
 Amida\] you perceive the significance of Amida's Vow which is directed
 towards awakening a faith-frame in you. For herein we realize what is
 meant by Amida Nyorai's "turning towards" <span
-id="fr_144"></span>[3](#fn_143) us ignorant beings. This is pointed out
+id="fr_144"></span>[3](#fn_143.md) us ignorant beings. This is pointed out
 in the *Larger Sūtra of Eternal Life* <span
-id="fr_145"></span>[4](#fn_144) where we read: "Amida provides all
-beings with all the merits." <span id="fr_146"></span>[5](#fn_145)
+id="fr_145"></span>[4](#fn_144.md) where we read: "Amida provides all
+beings with all the merits." <span id="fr_146"></span>[5](#fn_145.md)
 
 Thus it follows that with all the evil deeds, with all the evil passions
 we have been cherishing in our former lives ever since the beginningless
 past, we are, owing to Amida's Vow which is beyond comprehension,
 thoroughly cleansed of them with no residue whatever left; and in
 consequence of it, we are made to abide with no fear of regression in
-"the order of steadfastness." <span id="fr_147"></span>[6](#fn_146)
+"the order of steadfastness." <span id="fr_147"></span>[6](#fn_146.md)
 
 <span id="page_169">p. 169</span>
 
 This is what is meant by the statement that Nirvana is attainable
 without destroying the evil passions (*kleśa*). <span
-id="fr_148"></span>[7](#fn_147)
+id="fr_148"></span>[7](#fn_147.md)
 
 This is the teaching exclusively taken up by our school but you are
 warned not to talk this way to people of other schools. Let me remind
@@ -144,7 +144,7 @@ Saichi's movements while this by no means prevented Saichi from being
 himself, from being a miserable existence incalculably separated from
 Amida. But Saichi felt at the same moment that without this miserable
 existence of his he could not experience all the joy that came from
-unity. <span id="fr_149"></span>[8](#fn_148)
+unity. <span id="fr_149"></span>[8](#fn_148.md)
 
 The psychologists may declare Saichi to be a very good example
 
@@ -167,7 +167,7 @@ rejoiced, and not only every virtue but every action of the just wrought
 out of the virtue of the just and in justice; thereat God is glad aye,
 thrilled with joy, there is nothing in his ground that does not dance
 for joy. To unenlightened (*grob*) people this is matter for belief but
-the illumined know. <span id="fr_150"></span>[9](#fn_149)
+the illumined know. <span id="fr_150"></span>[9](#fn_149.md)
 
 It is illuminating to hear Eckhart say that "to the coarse-minded
 (*grob*) people this is matter for belief but the enlightened know
@@ -218,19 +218,19 @@ And you are taken to the Pure Land.
 
 ### Footnotes
 
-<span id="fn_140"></span>[168:1](mcb11.htm#fr_140) "If upon my obtaining
-[Buddhahood](errata.htm#2), all beings in the ten quarters should not
+<span id="fn_140"></span>[168:1](mcb11.htm#fr_140.md) "If upon my obtaining
+[Buddhahood](errata.htm#2.md), all beings in the ten quarters should not
 desire in sincerity and trustfulness to be in my country, and if they
 should not be born there by only thinking of me, say, up to ten times .
 . . may I not attain the Highest Enlightenment."
 
-<span id="fn_141"></span>[168:1a](mcb11.htm#fr_142) Transcriber's note:
+<span id="fn_141"></span>[168:1a](mcb11.htm#fr_142.md) Transcriber's note:
 from "understand" to "sets" was somehow inserted into the footnotes on
 this page above footnote 2. This fragment makes a lot more sense when
 inserted between "means to" and "up in you" in this sentence, so I have
 placed it there.--JBH.
 
-<span id="fn_142"></span>[168:2](mcb11.htm#fr_143) As was explained, the
+<span id="fn_142"></span>[168:2](mcb11.htm#fr_143.md) As was explained, the
 *Nembutsu* which consists of the six syllables,
 *Na-mu-a-mi-da-buts*(*u*), is a miraculous formula. When this is
 pronounced in sincerity of heart and in absolute faith in Amida, it
@@ -239,7 +239,7 @@ mind" or "faith-frame." When it is attained, the devotee is said to have
 joined "the group of steadfastness" with no fear of retrogression. The
 faith thus awakened assures one of birth in the Pure Land.
 
-<span id="fn_143"></span>[168:3](mcb11.htm#fr_144) The miracle of Shin
+<span id="fn_143"></span>[168:3](mcb11.htm#fr_144.md) The miracle of Shin
 faith is that when the ordinary-minded people are confirmed in their
 faith all their sins and evil passions are transferred to Amida, and it
 is then he and not the actual sinners that would bear all the dire
@@ -248,29 +248,29 @@ during his infinite lives of self-training are given freely to the
 devotee. This is technically known as the doctrine of transference
 (*pariṇāmanā*).
 
-<span id="fn_144"></span>[168:4](mcb11.htm#fr_145) This is the principal
+<span id="fn_144"></span>[168:4](mcb11.htm#fr_145.md) This is the principal
 *Mahāyāna Sūtra* on which Shin teachings are based. But the Shin text is
 Sanghavarman's Chinese translation executed in 252 A.D., when he came to
 China from Central Asia.
 
-<span id="fn_145"></span>[168:5](mcb11.htm#fr_146) This "transference of
+<span id="fn_145"></span>[168:5](mcb11.htm#fr_146.md) This "transference of
 merit" has a deep metaphysical significance in the history of Buddhist
 thought in India and China.
 
-<span id="fn_146"></span>[168:6](mcb11.htm#fr_147) The "order of
+<span id="fn_146"></span>[168:6](mcb11.htm#fr_147.md) The "order of
 steadfastness" is a stage where Shin devotees become <span
 id="page_169">p. 169</span> absolutely sure of their rebirth in the Pure
 Land, that is to say, when they see as Saichi does all the doors removed
 which keep this world in separation from the Pure Land.
 
-<span id="fn_147"></span>[169:7](mcb11.htm#fr_148) *Nirvāna* is *kleśa*
+<span id="fn_147"></span>[169:7](mcb11.htm#fr_148.md) *Nirvāna* is *kleśa*
 (*bonnō*) and *kleśa* is *Nirvāna*--this is one of the great Mahāyāna
 teachings. When however its import is not properly comprehended, it
 lends itself to all kinds of dangerous misinterpretation for which
 mysticism is usually blamed. Eckhart for this reason was censored as a
 heretic.
 
-<span id="fn_148"></span>[171:8](mcb11.htm#fr_149) Meister Eckhart, as
+<span id="fn_148"></span>[171:8](mcb11.htm#fr_149.md) Meister Eckhart, as
 quoted by Paul Tillich in his paper on "The Types of Philosophy of
 Religion," says: "There is between God and the soul neither strangeness
 nor remoteness, therefore the soul is not only equal with God but it
@@ -278,13 +278,13 @@ is-the same that He is." To Saichi, Amida is both remote and near,
 perhaps to him Amida is near because of his remoteness, he is remote
 because of his nearness. To use Saichi's own words: "Saichi feels
 miserable because he is full of evil cravings, but it is just because of
-his misery that he is made to [appreciate](errata.htm#3) the
+his misery that he is made to [appreciate](errata.htm#3.md) the
 loving-kindness of Amida who is no other than his Oya-sama and that the
 joy and the feeling of gratitude following the appreciation know no
 bounds, even going beyond the limits of the whole universe."
 
-<span id="fn_149"></span>[172:9](mcb11.htm#fr_150) Evans, p. 149.
+<span id="fn_149"></span>[172:9](mcb11.htm#fr_150.md) Evans, p. 149.
 
 ------------------------------------------------------------------------
 
-[Next: X. From Saichi's Journals](mcb12)
+[Next: X. From Saichi's Journals](mcb12.md)

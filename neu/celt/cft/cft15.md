@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cft14)  [Next](cft16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cft14)  [Next](cft16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Celtic Fairy Tales*, by Joseph Jacobs, \[1892\], at Intangible Textual
 Heritage
 
@@ -207,4 +207,4 @@ laid his blessed hands on.
 
 ------------------------------------------------------------------------
 
-[Next: The Wooing of Olwen](cft16)
+[Next: The Wooing of Olwen](cft16.md)

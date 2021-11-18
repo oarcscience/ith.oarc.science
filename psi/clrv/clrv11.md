@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Theosophy](../../the/index)  [Index](index)  [Previous](clrv10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Theosophy](../../the/index)  [Index](index)  [Previous](clrv10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0835670953/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0835670953/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Clairvoyance*, by C.W. Leadbeater, \[1899\], at Intangible Textual
 Heritage
 
@@ -19,737 +19,737 @@ Heritage
 
 ### INDEX
 
-ADVANTAGES of astral vision, [46](clrv03.htm#page_46),
-[76](clrv05.htm#page_76), [83](clrv05.htm#page_83)
+ADVANTAGES of astral vision, [46](clrv03.htm#page_46.md),
+[76](clrv05.htm#page_76), [83](clrv05.htm#page_83.md)
 
 <div style="margin-left: 32px">
 
-mental vision, [93](clrv05.htm#page_93)
+mental vision, [93](clrv05.htm#page_93.md)
 
-training, [19](clrv02.htm#page_19), [65](clrv04.htm#page_65),
-[82](clrv05.htm#page_82), [125](clrv08.htm#page_125),
-[142](clrv08.htm#page_142), [148](clrv08.htm#page_148);
-[204](clrv10.htm#page_204)
+training, [19](clrv02.htm#page_19), [65](clrv04.htm#page_65.md),
+[82](clrv05.htm#page_82), [125](clrv08.htm#page_125.md),
+[142](clrv08.htm#page_142), [148](clrv08.htm#page_148.md);
+[204](clrv10.htm#page_204.md)
 
 </div>
 
-Ākāshic records, [102](clrv06.htm#page_102), [118](clrv08.htm#page_118)
+Ākāshic records, [102](clrv06.htm#page_102), [118](clrv08.htm#page_118.md)
 
-Apparitions, [60](clrv04.htm#page_60)
+Apparitions, [60](clrv04.htm#page_60.md)
 
-Armies, phantom, [190](clrv09.htm#page_190)
+Armies, phantom, [190](clrv09.htm#page_190.md)
 
-Assassination of Mr. Perceval, [186](clrv09.htm#page_186)
+Assassination of Mr. Perceval, [186](clrv09.htm#page_186.md)
 
-Aspect of the records, [140](clrv08.htm#page_140)
+Aspect of the records, [140](clrv08.htm#page_140.md)
 
-Astral body, [83](clrv05.htm#page_83)
+Astral body, [83](clrv05.htm#page_83.md)
 
 <div style="margin-left: 32px">
 
-counterpart, [13](clrv02.htm#page_13)
+counterpart, [13](clrv02.htm#page_13.md)
 
-current, [72](clrv05.htm#page_72), [105](clrv07.htm#page_105),
-[115](clrv07.htm#page_115)
+current, [72](clrv05.htm#page_72), [105](clrv07.htm#page_105.md),
+[115](clrv07.htm#page_115.md)
 
-matter, polarization of, [74](clrv05.htm#page_74)
+matter, polarization of, [74](clrv05.htm#page_74.md)
 
-plane, [95](clrv05.htm#page_95), [125](clrv08.htm#page_125)
+plane, [95](clrv05.htm#page_95), [125](clrv08.htm#page_125.md)
 
-senses, [16](clrv02.htm#page_16)
+senses, [16](clrv02.htm#page_16.md)
 
-sight, [42](clrv03.htm#page_42), [68](clrv05.htm#page_68),
-[76](clrv05.htm#page_76), [125](clrv08.htm#page_125)
+sight, [42](clrv03.htm#page_42), [68](clrv05.htm#page_68.md),
+[76](clrv05.htm#page_76), [125](clrv08.htm#page_125.md)
 
-telescope, [76](clrv05.htm#page_76), [77](clrv05.htm#page_77),
-[102](clrv06.htm#page_102)
+telescope, [76](clrv05.htm#page_76), [77](clrv05.htm#page_77.md),
+[102](clrv06.htm#page_102.md)
 
-travelling in the, [83](clrv05.htm#page_83)
+travelling in the, [83](clrv05.htm#page_83.md)
 
 </div>
 
-Aura, the, [46](clrv03.htm#page_46), [122](clrv08.htm#page_122)
+Aura, the, [46](clrv03.htm#page_46), [122](clrv08.htm#page_122.md)
 
 <div style="margin-left: 32px">
 
-of the Buddha, [122](clrv08.htm#page_122)
+of the Buddha, [122](clrv08.htm#page_122.md)
 
 </div>
 
  
 
-BALANCE, [154](clrv08.htm#page_154)
+BALANCE, [154](clrv08.htm#page_154.md)
 
-Bat's cry, experiment with, [8](clrv02.htm#page_8)
+Bat's cry, experiment with, [8](clrv02.htm#page_8.md)
 
-Battle of Edgehill, [199](clrv09.htm#page_199)
+Battle of Edgehill, [199](clrv09.htm#page_199.md)
 
-Body, the astral, [8](clrv02.htm#page_8)?
+Body, the astral, [8](clrv02.htm#page_8.md)?
 
 <div style="margin-left: 32px">
 
-the causal, [122](clrv08.htm#page_122)
+the causal, [122](clrv08.htm#page_122.md)
 
 </div>
 
-Brownies, [36](clrv03.htm#page_36)
+Brownies, [36](clrv03.htm#page_36.md)
 
-Buddhic faculty, [18](clrv02.htm#page_18), [132](clrv08.htm#page_132),
-[168](clrv09.htm#page_168), [171](clrv09.htm#page_171)
+Buddhic faculty, [18](clrv02.htm#page_18), [132](clrv08.htm#page_132.md),
+[168](clrv09.htm#page_168), [171](clrv09.htm#page_171.md)
 
-Bull and the doctor, the story of, [181](clrv09.htm#page_181)
+Bull and the doctor, the story of, [181](clrv09.htm#page_181.md)
 
  
 
-CAUSAL body, [122](clrv08.htm#page_122)
+CAUSAL body, [122](clrv08.htm#page_122.md)
 
-Centres of vitality, [12](clrv02.htm#page_12), [16](clrv02.htm#page_16)
+Centres of vitality, [12](clrv02.htm#page_12), [16](clrv02.htm#page_16.md)
 
-Cerebro-spinal system, [23](clrv02.htm#page_23)
+Cerebro-spinal system, [23](clrv02.htm#page_23.md)
 
-Ceremonies used to gain clairvoyance, [60](clrv04.htm#page_60),
-[201](clrv10.htm#page_201)
+Ceremonies used to gain clairvoyance, [60](clrv04.htm#page_60.md),
+[201](clrv10.htm#page_201.md)
 
 <span id="page_220">p. 220</span>
 
-Certainty of eventual good, [216](clrv10.htm#page_216)
+Certainty of eventual good, [216](clrv10.htm#page_216.md)
 
-Character, judgment of, [48](clrv03.htm#page_48)
+Character, judgment of, [48](clrv03.htm#page_48.md)
 
-Chakrams, [12](clrv02.htm#page_12), [16](clrv02.htm#page_16)
+Chakrams, [12](clrv02.htm#page_12), [16](clrv02.htm#page_16.md)
 
-Chord of a man, the, [95](clrv05.htm#page_95)
+Chord of a man, the, [95](clrv05.htm#page_95.md)
 
-Clairaudience, [81](clrv05.htm#page_81)
+Clairaudience, [81](clrv05.htm#page_81.md)
 
-Clairvoyance by drugs or ceremonies, [60](clrv04.htm#page_60),
-[201](clrv10.htm#page_201)
-
-<div style="margin-left: 32px">
-
-casual, [111](clrv07.htm#page_111)
-
-does it destroy privacy?, [210](clrv10.htm#page_210)
-
-during sleep, [29](clrv02.htm#page_29)
-
-how first manifested, [27](clrv02.htm#page_27)
-
-hysterical, [61](clrv04.htm#page_61)
-
-limitations of, [94](clrv05.htm#page_94), [95](clrv05.htm#page_95),
-[213](clrv10.htm#page_213)
-
-meaning of word, [1](clrv02.htm#page_1)
-
-occasional flashes of, [24](clrv02.htm#page_24)
-
-of the uncultured, [21](clrv02.htm#page_21)
-
-on mental plane, [64](clrv04.htm#page_64)
-
-on trivial subjects, [63](clrv04.htm#page_63),
-[114](clrv07.htm#page_114), [187](clrv09.htm#page_187)
-
-partial and temporary, [61](clrv04.htm#page_61)
-
-restrictions upon, [87](clrv05.htm#page_87), [96](clrv05.htm#page_96),
-[213](clrv10.htm#page_213)
-
-sadness of, [209](clrv10.htm#page_209)
-
-under mesmerism, [25](clrv02.htm#page_25), [59](clrv04.htm#page_59),
-[202](clrv10.htm#page_202)
-
-</div>
-
-Clairvoyants, "test and business", [59](clrv04.htm#page_59),
-[210](clrv10.htm#page_210)
-
-Classification of phenomena, [29](clrv02.htm#page_29)
-
-Colours, new, [38](clrv03.htm#page_38)
-
-Common sense in occultism, necessity of, [153](clrv08.htm#page_153)
-
-Consciousness, continuous, [53](clrv03.htm#page_53)
+Clairvoyance by drugs or ceremonies, [60](clrv04.htm#page_60.md),
+[201](clrv10.htm#page_201.md)
 
 <div style="margin-left: 32px">
 
-the focus of, [34](clrv03.htm#page_34)
+casual, [111](clrv07.htm#page_111.md)
+
+does it destroy privacy?, [210](clrv10.htm#page_210.md)
+
+during sleep, [29](clrv02.htm#page_29.md)
+
+how first manifested, [27](clrv02.htm#page_27.md)
+
+hysterical, [61](clrv04.htm#page_61.md)
+
+limitations of, [94](clrv05.htm#page_94), [95](clrv05.htm#page_95.md),
+[213](clrv10.htm#page_213.md)
+
+meaning of word, [1](clrv02.htm#page_1.md)
+
+occasional flashes of, [24](clrv02.htm#page_24.md)
+
+of the uncultured, [21](clrv02.htm#page_21.md)
+
+on mental plane, [64](clrv04.htm#page_64.md)
+
+on trivial subjects, [63](clrv04.htm#page_63.md),
+[114](clrv07.htm#page_114), [187](clrv09.htm#page_187.md)
+
+partial and temporary, [61](clrv04.htm#page_61.md)
+
+restrictions upon, [87](clrv05.htm#page_87), [96](clrv05.htm#page_96.md),
+[213](clrv10.htm#page_213.md)
+
+sadness of, [209](clrv10.htm#page_209.md)
+
+under mesmerism, [25](clrv02.htm#page_25), [59](clrv04.htm#page_59.md),
+[202](clrv10.htm#page_202.md)
 
 </div>
 
-Considerations, preliminary, [2](clrv02.htm#page_2)
+Clairvoyants, "test and business", [59](clrv04.htm#page_59.md),
+[210](clrv10.htm#page_210.md)
 
-Contemplation, [207](clrv10.htm#page_207)
+Classification of phenomena, [29](clrv02.htm#page_29.md)
 
-Continuous consciousness, [53](clrv03.htm#page_53)
+Colours, new, [38](clrv03.htm#page_38.md)
 
-Control of thought, [207](clrv10.htm#page_207)
+Common sense in occultism, necessity of, [153](clrv08.htm#page_153.md)
 
-Counterpart, astral, [13](clrv02.htm#page_13)
+Consciousness, continuous, [53](clrv03.htm#page_53.md)
 
-Crystal-gazing, [77](clrv05.htm#page_77), [100](clrv06.htm#page_100),
-[155](clrv08.htm#page_155)
+<div style="margin-left: 32px">
 
-Curative mesmerism, [203](clrv10.htm#page_203)
+the focus of, [34](clrv03.htm#page_34.md)
 
-Curiosity not permitted, [214](clrv10.htm#page_214)
+</div>
 
-Current, astral, [72](clrv05.htm#page_72), [105](clrv07.htm#page_105),
-[115](clrv07.htm#page_115)
+Considerations, preliminary, [2](clrv02.htm#page_2.md)
+
+Contemplation, [207](clrv10.htm#page_207.md)
+
+Continuous consciousness, [53](clrv03.htm#page_53.md)
+
+Control of thought, [207](clrv10.htm#page_207.md)
+
+Counterpart, astral, [13](clrv02.htm#page_13.md)
+
+Crystal-gazing, [77](clrv05.htm#page_77), [100](clrv06.htm#page_100.md),
+[155](clrv08.htm#page_155.md)
+
+Curative mesmerism, [203](clrv10.htm#page_203.md)
+
+Curiosity not permitted, [214](clrv10.htm#page_214.md)
+
+Current, astral, [72](clrv05.htm#page_72), [105](clrv07.htm#page_105.md),
+[115](clrv07.htm#page_115.md)
 
  
 
-DANGERS, [92](clrv05.htm#page_92)
+DANGERS, [92](clrv05.htm#page_92.md)
 
-Data, how to find a, [145](clrv08.htm#page_145)
+Data, how to find a, [145](clrv08.htm#page_145.md)
 
 <span id="page_221">p. 221</span>
 
-Dead, the, [51](clrv03.htm#page_51), [72](clrv05.htm#page_72)
+Dead, the, [51](clrv03.htm#page_51), [72](clrv05.htm#page_72.md)
 
-Death, visits at, [88](clrv05.htm#page_88)
+Death, visits at, [88](clrv05.htm#page_88.md)
 
-Delirium tremens, [61](clrv04.htm#page_61)
+Delirium tremens, [61](clrv04.htm#page_61.md)
 
-Dervishes, the, [201](clrv10.htm#page_201)
+Dervishes, the, [201](clrv10.htm#page_201.md)
 
-Devas, the, [51](clrv03.htm#page_51)
+Devas, the, [51](clrv03.htm#page_51.md)
 
-Development, methods of, [201](clrv10.htm#page_201)
+Development, methods of, [201](clrv10.htm#page_201.md)
 
 <div style="margin-left: 32px">
 
-path of, the, [207](clrv10.htm#page_207)
+path of, the, [207](clrv10.htm#page_207.md)
 
-regular, [19](clrv02.htm#page_19)
+regular, [19](clrv02.htm#page_19.md)
 
 </div>
 
-Difference between etheric and astral sight, [40](clrv03.htm#page_40)
+Difference between etheric and astral sight, [40](clrv03.htm#page_40.md)
 
-Difficulties, [124](clrv08.htm#page_124)
+Difficulties, [124](clrv08.htm#page_124.md)
 
-Dimension, the fourth, [42](clrv03.htm#page_42),
-[76](clrv05.htm#page_76), [131](clrv08.htm#page_131),
-[169](clrv09.htm#page_169), [170](clrv09.htm#page_170)
+Dimension, the fourth, [42](clrv03.htm#page_42.md),
+[76](clrv05.htm#page_76), [131](clrv08.htm#page_131.md),
+[169](clrv09.htm#page_169), [170](clrv09.htm#page_170.md)
 
-Distance, sight at a, [68](clrv05.htm#page_68), [97](clrv05.htm#page_97)
+Distance, sight at a, [68](clrv05.htm#page_68), [97](clrv05.htm#page_97.md)
 
-Double, the etheric, [38](clrv03.htm#page_38)
+Double, the etheric, [38](clrv03.htm#page_38.md)
 
-Drugs used to gain clairvoyance, [60](clrv04.htm#page_60),
-[201](clrv10.htm#page_201)
+Drugs used to gain clairvoyance, [60](clrv04.htm#page_60.md),
+[201](clrv10.htm#page_201.md)
 
-Duke of Orleans, the story of the, [109](clrv07.htm#page_109)
+Duke of Orleans, the story of the, [109](clrv07.htm#page_109.md)
 
  
 
-EARTH, *The Stars and the*, [133](clrv08.htm#page_133)
+EARTH, *The Stars and the*, [133](clrv08.htm#page_133.md)
 
-Edgehill, battle of, [200](clrv09.htm#page_200)
+Edgehill, battle of, [200](clrv09.htm#page_200.md)
 
-Elementals, [35](clrv03.htm#page_35), [50](clrv03.htm#page_50),
-[200](clrv09.htm#page_200)
+Elementals, [35](clrv03.htm#page_35), [50](clrv03.htm#page_50.md),
+[200](clrv09.htm#page_200.md)
 
-Equation, the personal, [127](clrv08.htm#page_127)
+Equation, the personal, [127](clrv08.htm#page_127.md)
 
-Eternal Now, the, [133](clrv08.htm#page_133), [170](clrv09.htm#page_170)
+Eternal Now, the, [133](clrv08.htm#page_133), [170](clrv09.htm#page_170.md)
 
-Etheric double, the, [38](clrv03.htm#page_38)
-
-<div style="margin-left: 32px">
-
-vision, [32](clrv03.htm#page_32)
-
-</div>
-
-Experiments in crystal-gazing, [77](clrv05.htm#page_77),
-[101](clrv06.htm#page_101)
+Etheric double, the, [38](clrv03.htm#page_38.md)
 
 <div style="margin-left: 32px">
 
-with bat's cry, [8](clrv02.htm#page_8)
-
-with spectrum, [7](clrv02.htm#page_7)
+vision, [32](clrv03.htm#page_32.md)
 
 </div>
 
-Extension of senses, [11](clrv02.htm#page_11)
+Experiments in crystal-gazing, [77](clrv05.htm#page_77.md),
+[101](clrv06.htm#page_101.md)
+
+<div style="margin-left: 32px">
+
+with bat's cry, [8](clrv02.htm#page_8.md)
+
+with spectrum, [7](clrv02.htm#page_7.md)
+
+</div>
+
+Extension of senses, [11](clrv02.htm#page_11.md)
 
  
 
-FACULTIES, latent, [4](clrv02.htm#page_4)
+FACULTIES, latent, [4](clrv02.htm#page_4.md)
 
 <div style="margin-left: 32px">
 
-buddhic, [18](clrv02.htm#page_18), [132](clrv08.htm#page_132),
-[169](clrv09.htm#page_169), [171](clrv09.htm#page_171)
+buddhic, [18](clrv02.htm#page_18), [132](clrv08.htm#page_132.md),
+[169](clrv09.htm#page_169), [171](clrv09.htm#page_171.md)
 
 </div>
 
-Fairy ointment, [36](clrv03.htm#page_36), [37](clrv03.htm#page_37)
+Fairy ointment, [36](clrv03.htm#page_36), [37](clrv03.htm#page_37.md)
 
-Finding a stranger, [96](clrv05.htm#page_96)
+Finding a stranger, [96](clrv05.htm#page_96.md)
 
-First manifestations of clairvoyance, [27](clrv02.htm#page_27)
+First manifestations of clairvoyance, [27](clrv02.htm#page_27.md)
 
-Flocks, phantom, [190](clrv09.htm#page_190), [198](clrv09.htm#page_198),
-[199](clrv09.htm#page_199)
+Flocks, phantom, [190](clrv09.htm#page_190), [198](clrv09.htm#page_198.md),
+[199](clrv09.htm#page_199.md)
 
-Focus of consciousness, the, [34](clrv03.htm#page_34)
+Focus of consciousness, the, [34](clrv03.htm#page_34.md)
 
-Fourth dimension, the, [42](clrv03.htm#page_42),
-[76](clrv05.htm#page_76), [131](clrv08.htm#page_131),
-[169](clrv09.htm#page_169), [170](clrv09.htm#page_170)
+Fourth dimension, the, [42](clrv03.htm#page_42.md),
+[76](clrv05.htm#page_76), [131](clrv08.htm#page_131.md),
+[169](clrv09.htm#page_169), [170](clrv09.htm#page_170.md)
 
-Freewill, limited, [166](clrv09.htm#page_166)
+Freewill, limited, [166](clrv09.htm#page_166.md)
 
-Future prospects, [216](clrv10.htm#page_216)
+Future prospects, [216](clrv10.htm#page_216.md)
 
 <span id="page_222">p. 222</span>
 
-GHOSTS of the gibbet, [200](clrv09.htm#page_200)
+GHOSTS of the gibbet, [200](clrv09.htm#page_200.md)
 
-Glamour, [197](clrv09.htm#page_197)
+Glamour, [197](clrv09.htm#page_197.md)
 
-Goffe, the story of Mary, [88](clrv05.htm#page_88)
+Goffe, the story of Mary, [88](clrv05.htm#page_88.md)
 
  
 
-HELPERS, Invisible, [53](clrv03.htm#page_53), [87](clrv05.htm#page_87),
-[106](clrv07.htm#page_106), [205](clrv10.htm#page_205)
+HELPERS, Invisible, [53](clrv03.htm#page_53), [87](clrv05.htm#page_87.md),
+[106](clrv07.htm#page_106), [205](clrv10.htm#page_205.md)
 
-Historical study, possibilities of, [138](clrv08.htm#page_138)
+Historical study, possibilities of, [138](clrv08.htm#page_138.md)
 
-Hinton's works, [42](clrv03.htm#page_42)
+Hinton's works, [42](clrv03.htm#page_42.md)
 
-Housekeeper's dream, the story of the, [182](clrv09.htm#page_182)
+Housekeeper's dream, the story of the, [182](clrv09.htm#page_182.md)
 
-How a picture is found, [141](clrv08.htm#page_141)
+How a picture is found, [141](clrv08.htm#page_141.md)
 
 <div style="margin-left: 32px">
 
-to find a date, [145](clrv08.htm#page_145)
+to find a date, [145](clrv08.htm#page_145.md)
 
-to investigate, [64](clrv04.htm#page_64)
+to investigate, [64](clrv04.htm#page_64.md)
 
 </div>
 
-Huntsman, the wild, [199](clrv09.htm#page_199)
+Huntsman, the wild, [199](clrv09.htm#page_199.md)
 
-Hypnotization, self-, [103](clrv06.htm#page_103)
+Hypnotization, self-, [103](clrv06.htm#page_103.md)
 
-Hysterical clairvoyance, [61](clrv04.htm#page_61)
-
- 
-
-INCARNATIONS, past, [145](clrv08.htm#page_145),
-[150](clrv08.htm#page_150)
-
-Investigate, how to, [64](clrv04.htm#page_64)
-
-Invisible Helpers, [53](clrv03.htm#page_53), [87](clrv05.htm#page_87),
-[106](clrv07.htm#page_106), [205](clrv10.htm#page_205)
+Hysterical clairvoyance, [61](clrv04.htm#page_61.md)
 
  
 
-JUDGMENT of character, [48](clrv03.htm#page_48)
+INCARNATIONS, past, [145](clrv08.htm#page_145.md),
+[150](clrv08.htm#page_150.md)
 
-Jung Stilling's story, [84](clrv05.htm#page_84)
+Investigate, how to, [64](clrv04.htm#page_64.md)
 
- 
-
-KNOWLEDGE, the value of, [153](clrv08.htm#page_153)
-
- 
-
-LATENT faculties, [4](clrv02.htm#page_4)
-
-Limitations of clairvoyance, the, [94](clrv05.htm#page_94),
-[95](clrv05.htm#page_95), [213](clrv10.htm#page_213)
-
-Limited freewill, [166](clrv09.htm#page_166)
-
-Links needed, [139](clrv08.htm#page_139)
-
-Lodge, address by Sir Oliver, [168](clrv09.htm#page_168)
-
-Logos of the system, [121](clrv08.htm#page_121)
+Invisible Helpers, [53](clrv03.htm#page_53), [87](clrv05.htm#page_87.md),
+[106](clrv07.htm#page_106), [205](clrv10.htm#page_205.md)
 
  
 
-MAGIC, [60](clrv04.htm#page_60)
+JUDGMENT of character, [48](clrv03.htm#page_48.md)
 
-Magnifying, the power of, [54](clrv03.htm#page_54),
-[78](clrv05.htm#page_78)
+Jung Stilling's story, [84](clrv05.htm#page_84.md)
 
-Manifestations of clairvoyance, the first, [27](clrv02.htm#page_27)
+ 
 
-Masters of Wisdom, the, [19](clrv02.htm#page_19),
-[205](clrv10.htm#page_205), [215](clrv10.htm#page_215)
+KNOWLEDGE, the value of, [153](clrv08.htm#page_153.md)
 
-Materialization, [83](clrv05.htm#page_83)
+ 
 
-Mayāvi rūpa, the, [93](clrv05.htm#page_93)
+LATENT faculties, [4](clrv02.htm#page_4.md)
 
-Meaning of word clairvoyance, [1](clrv02.htm#page_1)
+Limitations of clairvoyance, the, [94](clrv05.htm#page_94.md),
+[95](clrv05.htm#page_95), [213](clrv10.htm#page_213.md)
 
-Meditation, [206](clrv10.htm#page_206)
+Limited freewill, [166](clrv09.htm#page_166.md)
+
+Links needed, [139](clrv08.htm#page_139.md)
+
+Lodge, address by Sir Oliver, [168](clrv09.htm#page_168.md)
+
+Logos of the system, [121](clrv08.htm#page_121.md)
+
+ 
+
+MAGIC, [60](clrv04.htm#page_60.md)
+
+Magnifying, the power of, [54](clrv03.htm#page_54.md),
+[78](clrv05.htm#page_78.md)
+
+Manifestations of clairvoyance, the first, [27](clrv02.htm#page_27.md)
+
+Masters of Wisdom, the, [19](clrv02.htm#page_19.md),
+[205](clrv10.htm#page_205), [215](clrv10.htm#page_215.md)
+
+Materialization, [83](clrv05.htm#page_83.md)
+
+Mayāvi rūpa, the, [93](clrv05.htm#page_93.md)
+
+Meaning of word clairvoyance, [1](clrv02.htm#page_1.md)
+
+Meditation, [206](clrv10.htm#page_206.md)
 
 <span id="page_223">p. 223</span>
 
-Mediums, trance, [99](clrv06.htm#page_99)
+Mediums, trance, [99](clrv06.htm#page_99.md)
 
-Mental plane clairvoyance, [64](clrv04.htm#page_64)
-
-<div style="margin-left: 32px">
-
-plane sense, [17](clrv02.htm#page_17)
-
-world, [95](clrv05.htm#page_95), [126](clrv08.htm#page_126),
-[141](clrv08.htm#page_141)
-
-</div>
-
-Mesmerism, clairvoyance under, [25](clrv02.htm#page_25),
-[59](clrv04.htm#page_59), [202](clrv10.htm#page_202)
+Mental plane clairvoyance, [64](clrv04.htm#page_64.md)
 
 <div style="margin-left: 32px">
 
-curative, [203](clrv10.htm#page_203)
+plane sense, [17](clrv02.htm#page_17.md)
+
+world, [95](clrv05.htm#page_95), [126](clrv08.htm#page_126.md),
+[141](clrv08.htm#page_141.md)
 
 </div>
 
-Methods of development, [201](clrv10.htm#page_201)
+Mesmerism, clairvoyance under, [25](clrv02.htm#page_25.md),
+[59](clrv04.htm#page_59), [202](clrv10.htm#page_202.md)
 
-Micawbers, psychic, [99](clrv06.htm#page_99)
+<div style="margin-left: 32px">
 
-Mooltan, story of the siege of, [111](clrv07.htm#page_111)
+curative, [203](clrv10.htm#page_203.md)
 
-Murder, reproduction of, [199](clrv09.htm#page_199)
+</div>
+
+Methods of development, [201](clrv10.htm#page_201.md)
+
+Micawbers, psychic, [99](clrv06.htm#page_99.md)
+
+Mooltan, story of the siege of, [111](clrv07.htm#page_111.md)
+
+Murder, reproduction of, [199](clrv09.htm#page_199.md)
 
  
 
-NATURE spirits, [36](clrv03.htm#page_36), [50](clrv03.htm#page_50),
-[71](clrv05.htm#page_71), [199](clrv09.htm#page_199)
+NATURE spirits, [36](clrv03.htm#page_36), [50](clrv03.htm#page_50.md),
+[71](clrv05.htm#page_71), [199](clrv09.htm#page_199.md)
 
-Necessity of common sense in occultism, [152](clrv08.htm#page_152)
+Necessity of common sense in occultism, [152](clrv08.htm#page_152.md)
 
-New colours, [38](clrv03.htm#page_38)
+New colours, [38](clrv03.htm#page_38.md)
 
-Now, the Eternal, [133](clrv08.htm#page_133), [170](clrv09.htm#page_170)
-
- 
-
-OCCASIONAL clairvoyance, [24](clrv02.htm#page_24)
-
-Ointment, fairy and witch, [36](clrv03.htm#page_36),
-[37](clrv03.htm#page_37)
-
-Orleans, the story of the Duke of, [109](clrv07.htm#page_109)
-
-Other planets, [97](clrv05.htm#page_97)
+Now, the Eternal, [133](clrv08.htm#page_133), [170](clrv09.htm#page_170.md)
 
  
 
-PARTIAL and temporary clairvoyance, [61](clrv04.htm#page_61)
+OCCASIONAL clairvoyance, [24](clrv02.htm#page_24.md)
 
-Past incarnations, [145](clrv08.htm#page_145),
-[150](clrv08.htm#page_150)
+Ointment, fairy and witch, [36](clrv03.htm#page_36.md),
+[37](clrv03.htm#page_37.md)
 
-<div style="margin-left: 32px">
+Orleans, the story of the Duke of, [109](clrv07.htm#page_109.md)
 
-of author, [150](clrv08.htm#page_150)
+Other planets, [97](clrv05.htm#page_97.md)
 
-</div>
+ 
 
-Path of development, the, [205](clrv10.htm#page_205)
+PARTIAL and temporary clairvoyance, [61](clrv04.htm#page_61.md)
 
-Perceval, assassination of Mr., [186](clrv09.htm#page_186)
-
-Personal equation, the, [127](clrv08.htm#page_127)
-
-Phantom flocks, [198](clrv09.htm#page_198), [199](clrv09.htm#page_199),
-[200](clrv09.htm#page_200)
-
-Phenomena, classification of, [29](clrv02.htm#page_29)
+Past incarnations, [145](clrv08.htm#page_145.md),
+[150](clrv08.htm#page_150.md)
 
 <div style="margin-left: 32px">
 
-seance room, [38](clrv03.htm#page_38), [71](clrv05.htm#page_71)
+of author, [150](clrv08.htm#page_150.md)
 
 </div>
 
-Philadelphian seer, the story of a, [84](clrv05.htm#page_84)
+Path of development, the, [205](clrv10.htm#page_205.md)
 
-Physical objects, the transparency of, [33](clrv03.htm#page_33)
+Perceval, assassination of Mr., [186](clrv09.htm#page_186.md)
 
-Pictures before going to sleep, [111](clrv07.htm#page_111)
+Personal equation, the, [127](clrv08.htm#page_127.md)
 
-Planets, other, [97](clrv05.htm#page_97)
+Phantom flocks, [198](clrv09.htm#page_198), [199](clrv09.htm#page_199.md),
+[200](clrv09.htm#page_200.md)
 
-Polarization of astral matter, [74](clrv05.htm#page_74)
+Phenomena, classification of, [29](clrv02.htm#page_29.md)
 
-Poseidonis, the sinking of, [147](clrv08.htm#page_147)
+<div style="margin-left: 32px">
 
-Possibilities of historical study, [139](clrv08.htm#page_139)
+seance room, [38](clrv03.htm#page_38), [71](clrv05.htm#page_71.md)
 
-Power of magnifying, the, [54](clrv03.htm#page_54),
-[78](clrv05.htm#page_78)
+</div>
 
-Power of response to vibrations, [4](clrv02.htm#page_4),
-[5](clrv02.htm#page_5), [9](clrv02.htm#page_9)
+Philadelphian seer, the story of a, [84](clrv05.htm#page_84.md)
+
+Physical objects, the transparency of, [33](clrv03.htm#page_33.md)
+
+Pictures before going to sleep, [111](clrv07.htm#page_111.md)
+
+Planets, other, [97](clrv05.htm#page_97.md)
+
+Polarization of astral matter, [74](clrv05.htm#page_74.md)
+
+Poseidonis, the sinking of, [147](clrv08.htm#page_147.md)
+
+Possibilities of historical study, [139](clrv08.htm#page_139.md)
+
+Power of magnifying, the, [54](clrv03.htm#page_54.md),
+[78](clrv05.htm#page_78.md)
+
+Power of response to vibrations, [4](clrv02.htm#page_4.md),
+[5](clrv02.htm#page_5), [9](clrv02.htm#page_9.md)
 
 <span id="page_224">p. 224</span>
 
-Preliminary considerations, [2](clrv02.htm#page_2)
+Preliminary considerations, [2](clrv02.htm#page_2.md)
 
-Premonition, Mr. Stead's, [189](clrv09.htm#page_189)
+Premonition, Mr. Stead's, [189](clrv09.htm#page_189.md)
 
-Prevision, [162](clrv09.htm#page_162), [171](clrv09.htm#page_171)
+Prevision, [162](clrv09.htm#page_162), [171](clrv09.htm#page_171.md)
 
-Prospects for the future, [216](clrv10.htm#page_216)
+Prospects for the future, [216](clrv10.htm#page_216.md)
 
-Psychic Micawbers, [99](clrv06.htm#page_99)
+Psychic Micawbers, [99](clrv06.htm#page_99.md)
 
-Psychometry, [138](clrv08.htm#page_138), [155](clrv08.htm#page_155)
-
- 
-
-QUALIFICATION of the student, [204](clrv10.htm#page_204)
-
-Qualified teachers, [203](clrv10.htm#page_203)
+Psychometry, [138](clrv08.htm#page_138), [155](clrv08.htm#page_155.md)
 
  
 
-RADIATIONS, [69](clrv05.htm#page_69)
+QUALIFICATION of the student, [204](clrv10.htm#page_204.md)
 
-Records, Ākāshic, [102](clrv06.htm#page_102), [118](clrv08.htm#page_118)
+Qualified teachers, [203](clrv10.htm#page_203.md)
+
+ 
+
+RADIATIONS, [69](clrv05.htm#page_69.md)
+
+Records, Ākāshic, [102](clrv06.htm#page_102), [118](clrv08.htm#page_118.md)
 
 <div style="margin-left: 32px">
 
-aspect of the, [140](clrv08.htm#page_140)
+aspect of the, [140](clrv08.htm#page_140.md)
 
 </div>
 
-Regular development, [19](clrv02.htm#page_19)
+Regular development, [19](clrv02.htm#page_19.md)
 
-Reproduction of a murder, [199](clrv09.htm#page_199)
+Reproduction of a murder, [199](clrv09.htm#page_199.md)
 
-Restrictions upon clairvoyance, [87](clrv05.htm#page_87),
-[96](clrv05.htm#page_96), [214](clrv10.htm#page_214)
+Restrictions upon clairvoyance, [87](clrv05.htm#page_87.md),
+[96](clrv05.htm#page_96), [214](clrv10.htm#page_214.md)
 
-Röntgen rays, the, [9](clrv02.htm#page_9)
+Röntgen rays, the, [9](clrv02.htm#page_9.md)
 
  
 
-SADNESS of clairvoyance, the, [209](clrv10.htm#page_209)
+SADNESS of clairvoyance, the, [209](clrv10.htm#page_209.md)
 
-Schiller's lines, [209](clrv10.htm#page_209)
+Schiller's lines, [209](clrv10.htm#page_209.md)
 
-Seance-room phenomena, [38](clrv03.htm#page_38),
-[71](clrv05.htm#page_71)
+Seance-room phenomena, [38](clrv03.htm#page_38.md),
+[71](clrv05.htm#page_71.md)
 
-Second sight, [172](clrv09.htm#page_172)
+Second sight, [172](clrv09.htm#page_172.md)
 
-the symbolism of, [177](clrv09.htm#page_177)
+the symbolism of, [177](clrv09.htm#page_177.md)
 
-Seer, a Philadelphian, [84](clrv05.htm#page_84)
+Seer, a Philadelphian, [84](clrv05.htm#page_84.md)
 
-Self-hypnotization, [103](clrv06.htm#page_103)
+Self-hypnotization, [103](clrv06.htm#page_103.md)
 
-Senses, extension of, [11](clrv02.htm#page_11)
+Senses, extension of, [11](clrv02.htm#page_11.md)
 
-Senses, astral, [16](clrv02.htm#page_16)
+Senses, astral, [16](clrv02.htm#page_16.md)
 
-Sight, astral, [42](clrv03.htm#page_42), [68](clrv05.htm#page_68),
-[76](clrv05.htm#page_76), [125](clrv08.htm#page_125)
+Sight, astral, [42](clrv03.htm#page_42), [68](clrv05.htm#page_68.md),
+[76](clrv05.htm#page_76), [125](clrv08.htm#page_125.md)
 
 <div style="margin-left: 32px">
 
-at a distance, [68](clrv05.htm#page_68), [97](clrv05.htm#page_97)
+at a distance, [68](clrv05.htm#page_68), [97](clrv05.htm#page_97.md)
 
-spiritual, [64](clrv04.htm#page_64)
+spiritual, [64](clrv04.htm#page_64.md)
 
 </div>
 
-Sleep, clairvoyance during, [29](clrv02.htm#page_29)
+Sleep, clairvoyance during, [29](clrv02.htm#page_29.md)
 
-Society, The Theosophical, [206](clrv10.htm#page_206)
+Society, The Theosophical, [206](clrv10.htm#page_206.md)
 
-Solar system, the, [120](clrv08.htm#page_120)
+Solar system, the, [120](clrv08.htm#page_120.md)
 
-Spectral armies, [190](clrv09.htm#page_190)
+Spectral armies, [190](clrv09.htm#page_190.md)
 
-Spectrum, experiment with the, [11](clrv02.htm#page_11)
+Spectrum, experiment with the, [11](clrv02.htm#page_11.md)
 
-Spiritualistic phenomena, [38](clrv03.htm#page_38),
-[71](clrv05.htm#page_71)
+Spiritualistic phenomena, [38](clrv03.htm#page_38.md),
+[71](clrv05.htm#page_71.md)
 
-*Stars and the Earth, The*, [133](clrv08.htm#page_133)
+*Stars and the Earth, The*, [133](clrv08.htm#page_133.md)
 
-Stories of crystal-gazing. [100](clrv06.htm#page_100)
+Stories of crystal-gazing. [100](clrv06.htm#page_100.md)
 
 <div style="margin-left: 32px">
 
-second sight, [162](clrv09.htm#page_162), [172](clrv09.htm#page_172)
+second sight, [162](clrv09.htm#page_162), [172](clrv09.htm#page_172.md)
 
 </div>
 
 <span id="page_225">p. 225</span>
 
-Story by Jung Stilling, [84](clrv05.htm#page_84)
+Story by Jung Stilling, [84](clrv05.htm#page_84.md)
 
 <div style="margin-left: 32px">
 
-Mr. Stead, [112](clrv07.htm#page_112)
+Mr. Stead, [112](clrv07.htm#page_112.md)
 
-Captain Yonnt, [106](clrv07.htm#page_106)
+Captain Yonnt, [106](clrv07.htm#page_106.md)
 
 </div>
 
-Story of the bull and the doctor, [181](clrv09.htm#page_181)
+Story of the bull and the doctor, [181](clrv09.htm#page_181.md)
 
 <div style="margin-left: 32px">
 
-the Duke of Orleans, [109](clrv07.htm#page_109)
+the Duke of Orleans, [109](clrv07.htm#page_109.md)
 
-the housekeeper's dream, [182](clrv09.htm#page_182)
+the housekeeper's dream, [182](clrv09.htm#page_182.md)
 
-Mary Goffe, [88](clrv05.htm#page_88)
+Mary Goffe, [88](clrv05.htm#page_88.md)
 
-Miss X's dogcart, [187](clrv09.htm#page_187)
+Miss X's dogcart, [187](clrv09.htm#page_187.md)
 
-the siege of Mooltan, [111](clrv07.htm#page_111)
+the siege of Mooltan, [111](clrv07.htm#page_111.md)
 
-Souter Fell, [195](clrv09.htm#page_195)
+Souter Fell, [195](clrv09.htm#page_195.md)
 
-Mr. Stead's premonition, [189](clrv09.htm#page_189)
+Mr. Stead's premonition, [189](clrv09.htm#page_189.md)
 
-the white nightdress, [185](clrv09.htm#page_185)
+the white nightdress, [185](clrv09.htm#page_185.md)
 
-Zschokke, [156](clrv08.htm#page_156)
+Zschokke, [156](clrv08.htm#page_156.md)
 
 </div>
 
-Stranger, finding a, [96](clrv05.htm#page_96)
+Stranger, finding a, [96](clrv05.htm#page_96.md)
 
-Sympathetic system, the, [22](clrv02.htm#page_22)
+Sympathetic system, the, [22](clrv02.htm#page_22.md)
 
-System, the Logos of the, [121](clrv08.htm#page_121)
+System, the Logos of the, [121](clrv08.htm#page_121.md)
 
  
 
-TEACHERS, qualified, [204](clrv10.htm#page_204)
+TEACHERS, qualified, [204](clrv10.htm#page_204.md)
 
-Telescope, the astral, [76](clrv05.htm#page_76),
-[77](clrv05.htm#page_77), [102](clrv06.htm#page_102)
+Telescope, the astral, [76](clrv05.htm#page_76.md),
+[77](clrv05.htm#page_77), [102](clrv06.htm#page_102.md)
 
-Temporary and partial clairvoyance, [61](clrv04.htm#page_61)
+Temporary and partial clairvoyance, [61](clrv04.htm#page_61.md)
 
-Tests not given, [214](clrv10.htm#page_214)
+Tests not given, [214](clrv10.htm#page_214.md)
 
-Theosophical Society, The, [206](clrv10.htm#page_206)
+Theosophical Society, The, [206](clrv10.htm#page_206.md)
 
 <div style="margin-left: 32px">
 
-terms, [2](clrv02.htm#page_2)
+terms, [2](clrv02.htm#page_2.md)
 
 </div>
 
-Thought-control, [206](clrv10.htm#page_206)
+Thought-control, [206](clrv10.htm#page_206.md)
 
-Thought-forms, [49](clrv03.htm#page_49), [79](clrv05.htm#page_79)'
+Thought-forms, [49](clrv03.htm#page_49), [79](clrv05.htm#page_79.md)'
 
-*Throughth*, [44](clrv03.htm#page_44)
+*Throughth*, [44](clrv03.htm#page_44.md)
 
-Time only relative, [169](clrv09.htm#page_169)
+Time only relative, [169](clrv09.htm#page_169.md)
 
-Training, the advantages of, [204](clrv10.htm#page_204)
+Training, the advantages of, [204](clrv10.htm#page_204.md)
 
 <div style="margin-left: 32px">
 
-where to be had, [205](clrv10.htm#page_205)
+where to be had, [205](clrv10.htm#page_205.md)
 
 </div>
 
-Trance mediums, [99](clrv06.htm#page_99)
+Trance mediums, [99](clrv06.htm#page_99.md)
 
-Transparency of physical objects, [33](clrv03.htm#page_33)
+Transparency of physical objects, [33](clrv03.htm#page_33.md)
 
-Trivial subjects, clairvoyance on, [63](clrv04.htm#page_63),
-[114](clrv07.htm#page_114), [187](clrv09.htm#page_187)
-
- 
-
-UNCULTURED, clairvoyance in the, [21](clrv02.htm#page_21)
+Trivial subjects, clairvoyance on, [63](clrv04.htm#page_63.md),
+[114](clrv07.htm#page_114), [187](clrv09.htm#page_187.md)
 
  
 
-VALUE of knowledge, the, [153](clrv08.htm#page_153)
+UNCULTURED, clairvoyance in the, [21](clrv02.htm#page_21.md)
 
-Variable capacity of response, [4](clrv02.htm#page_4),
-[5](clrv02.htm#page_5), [9](clrv02.htm#page_9)
+ 
 
-Vibrations, [4](clrv02.htm#page_4)
+VALUE of knowledge, the, [153](clrv08.htm#page_153.md)
+
+Variable capacity of response, [4](clrv02.htm#page_4.md),
+[5](clrv02.htm#page_5), [9](clrv02.htm#page_9.md)
+
+Vibrations, [4](clrv02.htm#page_4.md)
 
 <div style="margin-left: 32px">
 
-power of response to, [5](clrv02.htm#page_5), [9](clrv02.htm#page_9)
+power of response to, [5](clrv02.htm#page_5), [9](clrv02.htm#page_9.md)
 
 </div>
 
 <span id="page_226">p. 226</span>
 
-Vision, astral, [42](clrv03.htm#page_42), [68](clrv05.htm#page_68),
-[76](clrv05.htm#page_76), [125](clrv08.htm#page_125)
+Vision, astral, [42](clrv03.htm#page_42), [68](clrv05.htm#page_68.md),
+[76](clrv05.htm#page_76), [125](clrv08.htm#page_125.md)
 
 <div style="margin-left: 32px">
 
-etheric, [32](clrv03.htm#page_32)
+etheric, [32](clrv03.htm#page_32.md)
 
 </div>
 
-Visions, casual, [172](clrv09.htm#page_172)
+Visions, casual, [172](clrv09.htm#page_172.md)
 
-Visits at death, [88](clrv05.htm#page_88)
+Visits at death, [88](clrv05.htm#page_88.md)
 
-Voodoo cult, [202](clrv10.htm#page_202)
+Voodoo cult, [202](clrv10.htm#page_202.md)
 
  
 
-WHITE nightdress, the story of the, [185](clrv09.htm#page_185)
+WHITE nightdress, the story of the, [185](clrv09.htm#page_185.md)
 
-Wild huntsman, the, [199](clrv09.htm#page_199)
+Wild huntsman, the, [199](clrv09.htm#page_199.md)
 
-Wisdom, the Masters of, [19](clrv02.htm#page_19),
-[205](clrv10.htm#page_205), [215](clrv10.htm#page_215)
+Wisdom, the Masters of, [19](clrv02.htm#page_19.md),
+[205](clrv10.htm#page_205), [215](clrv10.htm#page_215.md)
 
-World, the astral, [95](clrv05.htm#page_95), [125](clrv08.htm#page_125)
+World, the astral, [95](clrv05.htm#page_95), [125](clrv08.htm#page_125.md)
 
 <div style="margin-left: 32px">
 
-mental, [95](clrv05.htm#page_95), [126](clrv08.htm#page_126),
-[141](clrv08.htm#page_141)
+mental, [95](clrv05.htm#page_95), [126](clrv08.htm#page_126.md),
+[141](clrv08.htm#page_141.md)
 
 </div>
 
  
 
-X.’S Story, Miss, [187](clrv09.htm#page_187)
+X.’S Story, Miss, [187](clrv09.htm#page_187.md)
 
-X-Rays, [9](clrv02.htm#page_9)
-
- 
-
-YONNT'S story, Captain, [106](clrv07.htm#page_106)
+X-Rays, [9](clrv02.htm#page_9.md)
 
  
 
-ZSCHOKKE'S story, [156](clrv08.htm#page_156)
+YONNT'S story, Captain, [106](clrv07.htm#page_106.md)
+
+ 
+
+ZSCHOKKE'S story, [156](clrv08.htm#page_156.md)
 
  
 

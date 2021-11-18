@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr08)  [Next](abr10) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr08)  [Next](abr10.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ Arbo\` as it is mentioned in the tales of Abul-Wahâb Al-Najjâr.
 
 ------------------------------------------------------------------------
 
-[Next: The Trial of Abraham (PUH) to Slay His Son Ishmael (PUH)](abr10)
+[Next: The Trial of Abraham (PUH) to Slay His Son Ishmael (PUH)](abr10.md)
 
 </div>
 

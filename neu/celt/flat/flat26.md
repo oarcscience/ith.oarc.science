@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat25)  [Next](flat27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat25)  [Next](flat27.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ she pleased to be married.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of O'Donoghue](flat27)
+[Next: The Legend of O'Donoghue](flat27.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht20)  [Next](cht22) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht20)  [Next](cht22.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ your nose, is being transformed into an elk's nose. I can not help you."
 "Oh, my elder brother, hoofs are growing on my feet." "Oh, younger
 brother, hoofs are growing on your feet. I can not help you." On the
 following morning the elk skins arose and became elks. The youth arose.
-He became Ê'lemiX <span id="fr_3"></span>[1](#fn_3) and went out. Then
+He became Ê'lemiX <span id="fr_3"></span>[1](#fn_3.md) and went out. Then
 all the elks arose and went into the woods. Now \[the panther\]took the
 woman at her arm. He carried her out of the house and shook her, so that
 all her flesh fell down. He threw her down and said: "Your name shall be
@@ -88,9 +88,9 @@ see a snake you shall eat it. My name will be Panther."
 
 ### Footnotes
 
-<span id="fn_3"></span>[195:1](cht21.htm#fr_3) The tutelary spirit of
+<span id="fn_3"></span>[195:1](cht21.htm#fr_3.md) The tutelary spirit of
 the hunters.
 
 ------------------------------------------------------------------------
 
-[Next: The Soul and the Shamans](cht22)
+[Next: The Soul and the Shamans](cht22.md)

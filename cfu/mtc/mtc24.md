@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc23)  [Next](mtc25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc23)  [Next](mtc25.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ I want to bake, but am too lazy to grind.
 My friends and relatives write me long letters;  
 I should like to read them, but they're such a bother to open.  
 I have always been told that Chi Shu-yeh <span
-id="fr_12"></span>[1](#fn_10)  
+id="fr_12"></span>[1](#fn_10.md)  
 Passed his whole life in absolute idleness.  
 But he played the harp and sometimes transmuted metals,  
 So even *he* was not so lazy as I.
@@ -43,13 +43,13 @@ So even *he* was not so lazy as I.
 
 ### Footnotes
 
-<span id="fn_10"></span>[51:1](mtc24.htm#fr_12) Also known as Chi K‘ang.
+<span id="fn_10"></span>[51:1](mtc24.htm#fr_12.md) Also known as Chi K‘ang.
 A famous Quietist.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Illness and Idleness](mtc25)
+[Next: Illness and Idleness](mtc25.md)
 
 </div>

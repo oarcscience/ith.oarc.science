@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo58)  [Next](sdo60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo58)  [Next](sdo60.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Great Spirit, *Skanskan*.
 
 ------------------------------------------------------------------------
 
-[Next: The Causes of Diseases](sdo60)
+[Next: The Causes of Diseases](sdo60.md)

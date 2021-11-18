@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth078)  [Next](toth080) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth078)  [Next](toth080.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 76. THE BADGER, THE COYOTE, AND THE KÓHONINO MAIDEN. <span id="fr_148"></span>[1](#fn_146)
+## 76. THE BADGER, THE COYOTE, AND THE KÓHONINO MAIDEN. <span id="fr_148"></span>[1](#fn_146.md)
 
 Halíksai! In Oraíbi the people were living. At Badger Gulch (Honáncika),
 lived the Badger. His friend the Coyote lived at Íshmovala. The two were
@@ -160,9 +160,9 @@ why coyote fat is used for ant bites.
 
 ### Footnotes
 
-<span id="fn_146"></span>[207:1](toth079.htm#fr_148) Told by Lománömtiwa
+<span id="fn_146"></span>[207:1](toth079.htm#fr_148.md) Told by Lománömtiwa
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 77. The Coyote and the Kókontu Maidens](toth080)
+[Next: 77. The Coyote and the Kókontu Maidens](toth080.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff10)  [Next](fff12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff10)  [Next](fff12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ nature of the Gnostic and other works of this kind which have reached
 us, that their authors and compilers had access to large libraries of
 mystic lore.
 
-Let us then carry our minds [forward](errata.htm#13) to the <span
+Let us then carry our minds [forward](errata.htm#13.md) to the <span
 class="margnote">A Bird's-eye View of the City.</span> last quarter of
 the fourth century of the present era, when Hypatia was a girl, after
 the hopes
@@ -129,7 +129,7 @@ Alexandrians spend so much of their time.
 On the right is the Egyptian quarter, the northwestern, called Rhacotis,
 a very old name dating back to a time when Alexandria did not exist, and
 an old Egyptian burg, called Ragadouah, occupied its site. The
-difference in the style of [architecture](errata.htm#14) at once strikes
+difference in the style of [architecture](errata.htm#14.md) at once strikes
 you, for it is for the most part in the more sombre Egyptian style; and
 that great building you see in the eastern part of the quarter is the
 far-famed Serapeum; it is not so much a single building as a group of
@@ -334,7 +334,7 @@ its fate. Julian, the emperor (360-363), took many volumes to enrich his
 own library; when the "Christian" fanatics in 387 stormed the Serapeum,
 they razed the temple to its foundation, and nothing of the library was
 left but the empty shelves. Finally in 641 Amru, general of Omar, second
-in [succession](errata.htm#15) to the Prophet, fed the furnaces of the
+in [succession](errata.htm#15.md) to the Prophet, fed the furnaces of the
 4000 baths of Alexandria for full six months with the Bruchion's
 priceless treasures. If what the rolls contained were in the Korān, they
 were useless, if what they taught were not in the Korān, they were
@@ -399,7 +399,7 @@ calculated the obliquity of the ecliptic, and by further researches
 calculated the circumference of the earth; he also mapped out the world
 from all the books of travel and earth-knowledge in the great Library.
 In mechanics, Archimedes solved the mysteries of the lever and
-hydrostatic [pressure](errata.htm#16) which are the basis of our modern
+hydrostatic [pressure](errata.htm#16.md) which are the basis of our modern
 statics and hydrostatics. Hipparchus too thought out a theory of the
 heavens, upside down in fact, but correct enough to calculate eclipses
 and the rest; and this, three hundred years later, under the Antonines,
@@ -684,7 +684,7 @@ philosophy. It is true that Philo's method of allegorical
 
 exegesis, whereby he reads high philosophical conceptions into the crude
 narratives of the myths of Israel, is no longer regarded as
-[legitimate](errata.htm#17); but his writings are nevertheless of great
+[legitimate](errata.htm#17.md); but his writings are nevertheless of great
 value. Philo believed not only that the Old Covenant documents were
 inspired in every part, but also that every name therein contained a
 hidden meaning of highest import. In this way he strove to explain away
@@ -759,4 +759,4 @@ Africa, Rome and Greece, Syria and Arabia met together.
 
 ------------------------------------------------------------------------
 
-[Next: The Evolution of Catholic Christianity](fff12)
+[Next: The Evolution of Catholic Christianity](fff12.md)

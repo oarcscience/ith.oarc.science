@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp34) 
-[Next](alp36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp34.md) 
+[Next](alp36.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ My shattered love lies dying--let it die.
 
 ------------------------------------------------------------------------
 
-[Next: The Armenian Poet's Prayer](alp36)
+[Next: The Armenian Poet's Prayer](alp36.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ctdi02)  [Next](ctdi04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ctdi02)  [Next](ctdi04.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,15 +51,15 @@ overtook him. The forgotten sequel of the story may never be known.
 
 ### Footnotes
 
-<span id="fn_6"></span>[231:1](ctdi02.htm#fr_6) It is said that in this
+<span id="fn_6"></span>[231:1](ctdi02.htm#fr_6.md) It is said that in this
 dance the singers alternate, one man taking up the song when the other
 stops.
 
-<span id="fn_7"></span>[231:2](#fr_-1) Wi means "rock" in Diegueño.
+<span id="fn_7"></span>[231:2](#fr_-1.md) Wi means "rock" in Diegueño.
 Wily, with the sound of Spanish liquid *ll*, is another form of the
 word. The initial w is pronounced so as to give the sound of a before
 it, but the vowel does not actually belong there.
 
 ------------------------------------------------------------------------
 
-[Next: Beliefs](ctdi04)
+[Next: Beliefs](ctdi04.md)

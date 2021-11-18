@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic018)  [Next](lfic020) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic018)  [Next](lfic020.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ Veneris*,--Thursday, Friday.
 
 ------------------------------------------------------------------------
 
-[Next: The Breton Version of the Palace in the Rath](lfic020)
+[Next: The Breton Version of the Palace in the Rath](lfic020.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](uap02) 
-[Next](uap04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](uap02.md) 
+[Next](uap04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0815602596/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -659,4 +659,4 @@ experiences on that wonderful planet.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. The Auroras’ Annual](uap04)
+[Next: Chapter 3. The Auroras’ Annual](uap04.md)

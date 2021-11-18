@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr24)  [Next](rhr26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr24)  [Next](rhr26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -76,7 +76,7 @@ but what the sophist sometimes applied to the mountains--*Hos primum sol
 salutat, ultimosque deserit. Quis locum non amet, dies longiores
 habentem*. But of this place I will not speak any more, lest readers
 should mistake me, so as to entertain a suspition that I am of this
-Order. <span id="fr_107"></span>[1](#fn_107)
+Order. <span id="fr_107"></span>[1](#fn_107.md)
 
 <span id="page_339">p. 339</span>
 
@@ -133,10 +133,10 @@ general preface to "The Holy Guide," is an interesting romantic fiction.
 
 ### Footnotes
 
-<span id="fn_107"></span>[338:1](rhr25.htm#fr_107) This passage is
-stolen from Eugenius Philalethes. *Cf*. [p. 313](rhr22.htm#page_313) of
+<span id="fn_107"></span>[338:1](rhr25.htm#fr_107.md) This passage is
+stolen from Eugenius Philalethes. *Cf*. [p. 313](rhr22.htm#page_313.md) of
 this history.
 
 ------------------------------------------------------------------------
 
-[Next: A Very True Narrative...](rhr26)
+[Next: A Very True Narrative...](rhr26.md)

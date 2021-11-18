@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai09)  [Next](tai11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai09)  [Next](tai11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ is of prime importance. It was drafted in Greek and Russian,--
 
 <span id="page_xii">p. xii</span>
 
-which [proved](errata.htm#0) successful, in the course of which he had
+which [proved](errata.htm#0.md) successful, in the course of which he had
 established a fortress at Pereyáslavets on the Danube (probably near
 Marcianople and below Silistria), Svyatosláv decided on pulling these
 chestnuts out of the fire for himself and Russia; and thus, when their
@@ -87,4 +87,4 @@ ascendancy was at the end; Russia was to become Christian and Slavonic.
 
 ------------------------------------------------------------------------
 
-[Next: Vladímir I](tai11)
+[Next: Vladímir I](tai11.md)

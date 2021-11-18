@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu05)  [Next](cwiu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu05)  [Next](cwiu07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -28,13 +28,13 @@ well understood by Kepler who rejects it therefore—and this is very
 interesting and instructive—not only for metaphysical, but also for
 purely scientific reasons; who even, in anticipation of some present-day
 epistemologies, declares it scientifically
-meaningless.[1](cwiu16.htm#an_3_1)
+meaningless.[1](cwiu16.htm#an_3_1.md)
 
 As for the metaphysical reasons for which Kepler denies the infinity of
 the universe, they are derived chiefly from his religious beliefs.
 Indeed, Kepler, a devout though somewhat heretical Christian, sees in
 the world an expression of God, symbolizing the
-Trinity[2](cwiu16.htm#an_3_2) and embodying in its structure a
+Trinity[2](cwiu16.htm#an_3_2.md) and embodying in its structure a
 mathematical order and harmony. Order and harmony that cannot be found
 in the infinite and therefore perfectly formless—or uniform—universe of
 Bruno.
@@ -49,7 +49,7 @@ views. Thus, discussing the interpretation to be given to the appearance
 of a new star in the foot of the *Serpentarius*, Kepler raises the
 question whether this amazing and striking phenomenon does not imply the
 infinity of the universe. He does not think so, yet he knows, and tells
-us that,[3](cwiu16.htm#an_3_3)
+us that,[3](cwiu16.htm#an_3_3.md)
 
 <div class="iq">
 
@@ -81,7 +81,7 @@ received by them \[from valid experience\] but produced by themselves.
 <span id="page_60">p. 60</span>
 
 This general criticism may be sufficient. Yet Kepler does not content
-himself with it and continues:[4](cwiu16.htm#an_3_4)
+himself with it and continues:[4](cwiu16.htm#an_3_4.md)
 
 <div class="iq">
 
@@ -95,7 +95,7 @@ then, indeed, the assertion will fall of itself.
 
 Kepler knows quite well that this particular opinion concerning the
 infinity of the world goes back to the ancient heathen philosophers,
-criticized—rightly, according to him—by Aristotle.[5](cwiu16.htm#an_3_5)
+criticized—rightly, according to him—by Aristotle.[5](cwiu16.htm#an_3_5.md)
 
 <div class="iq">
 
@@ -106,7 +106,7 @@ the world from motion.
 </div>
 
 As for the moderns, he tells us that the infinity of the
-world[6](cwiu16.htm#an_3_6)
+world[6](cwiu16.htm#an_3_6.md)
 
 <div class="iq">
 
@@ -130,7 +130,7 @@ new star was a new world.
 
 Neither Bruno's enthusiasm for the infinity of the universe, nor even
 Gilbert's desire to enhance God's infinite power, is shared by Kepler.
-Quite the contrary, he feels that[7](cwiu16.htm#an_3_7)
+Quite the contrary, he feels that[7](cwiu16.htm#an_3_7.md)
 
 <div class="iq">
 
@@ -144,7 +144,7 @@ are denied limits and center and therefore also all determinate places.
 religious point of view, it would be sufficient, perhaps, to make an
 appeal to the authority of Moses. Yet the question we are discussing is
 not a dogmatic one; it has to be dealt with not by recourse to
-revelation, but by scientific reasoning,[5](cwiu16.htm#an_3_5)
+revelation, but by scientific reasoning,[5](cwiu16.htm#an_3_5.md)
 
 <div class="iq">
 
@@ -173,7 +173,7 @@ principle of sufficient reason and consists in admitting
 that, if the world has no limits and no particular, determined,
 structure, that is, if the world-space is infinite and uniform, then the
 distribution of the fixed stars in this universe must be uniform,
-too.[9](cwiu16.htm#an_3_9) The second premise concerns the science of
+too.[9](cwiu16.htm#an_3_9.md) The second premise concerns the science of
 astronomy as such. It postulates its empirical character; it tells us
 that astronomy, as such, has to deal with observable data, that is, with
 the appearances (φαινόμενα); that it has to adapt its hypotheses—for
@@ -187,7 +187,7 @@ the use of the telescope—are the aspects of the world that we *see*.
 Astronomy therefore is closely related to sight, that is, to optics. It
 cannot admit things that contradict optical laws.
 
-Let us now turn back to Kepler:[10](cwiu16.htm#an_3_10)
+Let us now turn back to Kepler:[10](cwiu16.htm#an_3_10.md)
 
 <div class="iq">
 
@@ -256,7 +256,7 @@ the universe. Once more, let us not forget that Kepler wrote before the
 invention of the telescope and did not—and even could not—know that the
 visible diameter of the fixed stars is a pure optical illusion that
 gives us no information about their size and distance. Not knowing it,
-he was entitled to conclude:[11](cwiu16.htm#an_3_11)
+he was entitled to conclude:[11](cwiu16.htm#an_3_11.md)
 
 <div class="iq">
 
@@ -290,7 +290,7 @@ separated by an enormous distance, the one being near us and the other
 exceedingly far away? As we shall see, even if it were so, it would not
 change the fundamental fact of the singularity of our world-space. But
 the objection has to be dealt with. Kepler, therefore,
-proceeds:[12](cwiu16.htm#an_3_12)
+proceeds:[12](cwiu16.htm#an_3_12.md)
 
 <div class="iq">
 
@@ -301,7 +301,7 @@ granting infinity, it was easy for them to separate the pairs of fixed
 stars (which we on the earth perceive as being very near each other) by
 as great a distance as that which separates us from them. Yet this is
 impossible. Even admitting that you can arbitrarily
-elevate[13](cwiu16.htm#an_3_13) the double fixed stars \[that are\]
+elevate[13](cwiu16.htm#an_3_13.md) the double fixed stars \[that are\]
 equally distant from the center of the world, it must be remembered
 that, if we elevate the fixed stars, the void which is in the middle,
 and also the circular envelope of the fixed stars, increase at the same
@@ -312,7 +312,7 @@ stars being elevated, the void will remain the same.
 
 <span class="contnote">\[paragraph continues\]</span> As it will not,
 the singular character of our site will be
-maintained.[14](cwiu16.htm#an_3_14)
+maintained.[14](cwiu16.htm#an_3_14.md)
 
 <div class="iq">
 
@@ -326,7 +326,7 @@ one to remain in its sphere, because the
 <div class="iq">
 
 theory of parallaxes does not admit an inferior
-position,[15](cwiu16.htm#an_3_15) and the other to be higher by an
+position,[15](cwiu16.htm#an_3_15.md) and the other to be higher by an
 infinite distance? Shall we not, in this way, obtain that, seen from
 each other, they appear as small as they appear to us? and that there
 will be a distance between them, void of stars, equal to the distances
@@ -347,7 +347,7 @@ be comparatively large \[as seen from each other\]. And I would even
 easily concede, without endangering my cause, that all the fixed stars
 are of the same magnitude; and that those which to us appear large are
 near to us, and those \[which appear small\] are so much farther. As
-sings Manilius:[15a](cwiu16.htm#an_3_15a) 'Not because less bright, but
+sings Manilius:[15a](cwiu16.htm#an_3_15a.md) 'Not because less bright, but
 because they are removed to a greater altitude.'
 
 I say: I will concede not: I will assert. For it is just as easy to
@@ -369,7 +369,7 @@ have to discuss the implications for the φαινόμενα of a really uniform
 distribution of the fixed stars in the world-space, that is, of a
 distribution according to which they would be separated from each other
 by equal distances, namely by the same distance that separates them from
-us.[16](cwiu16.htm#an_3_16)
+us.[16](cwiu16.htm#an_3_16.md)
 
 <div class="iq">
 
@@ -398,7 +398,7 @@ is, we are dealing with the distribution of visible stars, of those that
 we actually *see*. It is *their* distance from us that is in question,
 and it is for *them* that the possibility of a uniform distribution,
 which would place most of them at very great, and regularly increasing,
-distances from us, is denied.[17](cwiu16.htm#an_3_17)
+distances from us, is denied.[17](cwiu16.htm#an_3_17.md)
 
 <span id="page_68">p. 68</span>
 
@@ -408,7 +408,7 @@ For, if the state of affairs were such as has been said, it is certain
 that those stars that are two, three, a hundred times higher will also
 be two, three, a hundred times larger. Indeed, let a star be as elevated
 as you wish, you will never obtain that it would be seen by us as having
-a diameter of two minutes.[18](cwiu16.htm#an_3_18) Thus the diameter
+a diameter of two minutes.[18](cwiu16.htm#an_3_18.md) Thus the diameter
 will always be two thousandth, one thousandth, or so of the distance
 from us; but this diameter will be a much larger part of the mutual
 distances between two fixed stars (since these distances are much
@@ -427,7 +427,7 @@ dimensions, such as are not seen from this place of our world.
 An observer starting from the earth and moving upwards to the outer
 spaces would, therefore, find the "appearance" of the world constantly
 changing, and the fixed stars always increasing in their real as well as
-visible dimensions. Besides,[19](cwiu16.htm#an_3_19)
+visible dimensions. Besides,[19](cwiu16.htm#an_3_19.md)
 
 <div class="iq">
 
@@ -466,7 +466,7 @@ yet, if we have to restrict its contents to the *visible* stars, which
 moreover appear to us as finite, measurable bodies—not points of
 light—we will never be able to assign to them a uniform distribution
 that would "save" the phenomena. Our world will always be distinguished
-by a particular structure.[20](cwiu16.htm#an_3_20)
+by a particular structure.[20](cwiu16.htm#an_3_20.md)
 
 <div class="iq">
 
@@ -514,7 +514,7 @@ large. And an infinitely large body is utterly impossible because it is
 contradictory.
 
 Once more Kepler is right. A visible star cannot be at an infinite
-distance; nor, by the way, can an invisible one:[21](cwiu16.htm#an_3_21)
+distance; nor, by the way, can an invisible one:[21](cwiu16.htm#an_3_21.md)
 
 <div class="iq">
 
@@ -542,7 +542,7 @@ a form when we have posited it as visible under a certain angle.
 
 The impossibility of a visible star's being at an infinite distance thus
 demonstrated, there remains the case of an invisible
-one.[22](cwiu16.htm#an_3_22)
+one.[22](cwiu16.htm#an_3_22.md)
 
 <div class="iq">
 
@@ -559,7 +559,7 @@ It remains only to ask ourselves whether an infinite space without stars
 can be posited. Kepler replies that such an assertion is utterly
 meaningless, since wherever you put a star you will be at a finite
 distance (from the earth) and if you go beyond, you cannot speak of a
-distance.[23](cwiu16.htm#an_3_23)
+distance.[23](cwiu16.htm#an_3_23.md)
 
 <div class="iq">
 
@@ -632,7 +632,7 @@ namely, whether the new stars were new planets moving around the sun,
 new "moons" accompanying the solar planets, or, as his friend Mattheus
 Wackher believed, planets revolving around some fixed stars: a strong
 argument in favor of Bruno's conception of the uniformity of the world.
-In this case, indeed,[24](cwiu16.htm#an_3_24)
+In this case, indeed,[24](cwiu16.htm#an_3_24.md)
 
 <div class="iq">
 
@@ -671,7 +671,7 @@ the stars and the planets. Whereas the latter are strongly magnified by
 the telescope and appear as well-defined discs, the former hardly
 increase their dimensions for, seen through the telescope, they are
 deprived of the luminous haze that surrounds
-them,[25](cwiu16.htm#an_3_25) a fact of tremendous importance because it
+them,[25](cwiu16.htm#an_3_25.md) a fact of tremendous importance because it
 shows that this haze belongs not to the seen stars but to the seeing
 eye, in other words, that it is not an objective but a subjective
 phenomenon and that, whereas the visible dimensions of the planets have
@@ -729,7 +729,7 @@ Let us turn now to the *Epitome astronomiae Copernicanae*, the last, and
 the most mature, great work of Kepler. We shall find the rejection of
 the infinity of the world presented just as vigorously, or perhaps even
 more vigorously, than ever before. To the
-question[26](cwiu16.htm#an_3_26)
+question[26](cwiu16.htm#an_3_26.md)
 
 <div class="iq">
 
@@ -760,7 +760,7 @@ arranged in a closed circuit. But that is not an answer to the question
 asked, as nobody doubts that the earth is surrounded by stars. What we
 have to find out is something quite different, namely, whether this
 *quasi* vault is more than a simple appearance, that is
-whether[21](cwiu16.htm#an_3_21)
+whether[21](cwiu16.htm#an_3_21.md)
 
 <div class="iq">
 
@@ -791,7 +791,7 @@ that is, if we can neither determine the intervals that separate us from
 the fixed stars nor decide whether their apparent magnitude is a
 function of their real size or only of their distance, why should we not
 admit that their "region" is unlimited or infinite?
-Indeed,[28](cwiu16.htm#an_3_28)
+Indeed,[28](cwiu16.htm#an_3_28.md)
 
 <div class="iq">
 
@@ -829,7 +829,7 @@ geometrically minded God of Kepler from doing it in an infinite one. As
 already explained by Bruno, there is no reason (or even possibility) for
 God to make a distinction between the "places" of a perfectly
 homogeneous space, and to treat them in a different way. Kepler thus
-states:[29](cwiu16.htm#an_3_29)
+states:[29](cwiu16.htm#an_3_29.md)
 
 <div class="iq">
 
@@ -851,7 +851,7 @@ our earth with the sun and the moving stars \[planets\] is situated.
 <span id="img_07900"></span> <span align="CENTER"> [![FIGURE 3&lt;br&gt;
 The figure M of Kepler&lt;br&gt; (from the Epitome astronomiae
 Copernicanae, 1618)](tn/07900.jpg)  
-Click to enlarge](img/07900.jpg)  
+Click to enlarge](img/07900.jpg.md)  
 FIGURE 3  
 The figure M of Kepler  
 (from the Epitome astronomiae Copernicanae, 1618)  
@@ -864,7 +864,7 @@ description of the aspect that the sky would have in the case of a
 uniform distribution of the fixed stars (which, moreover, *in this case*
 would have to be assumed as being, all of them, of the same size), and
 opposes this hypothetical picture to the actual
-one.[30](cwiu16.htm#an_3_30)
+one.[30](cwiu16.htm#an_3_30.md)
 
 <div class="iq">
 
@@ -925,7 +925,7 @@ not completely removed from the objective sphere to the subjective one,
 Kepler's deduction can be upheld.
 
 Yet, it may be objected, its second premise, that of the uniform size of
-the fixed stars, is gratuitous. It seems that,[31](cwiu16.htm#an_3_31)
+the fixed stars, is gratuitous. It seems that,[31](cwiu16.htm#an_3_31.md)
 
 <div class="iq">
 
@@ -950,7 +950,7 @@ fact be very distant*.
 This is a possible assumption, but, as we know, a rather improbable one,
 since it would imply an extremely unlikely star distribution, a
 distribution, moreover, completely incompatible with our fundamental
-assumption of a homogeneous, uniform universe:[32](cwiu16.htm#an_3_32)
+assumption of a homogeneous, uniform universe:[32](cwiu16.htm#an_3_32.md)
 
 <div class="iq">
 
@@ -984,7 +984,7 @@ resolution
 by Galileo into an innumerable multitude of stars—still seems to Kepler
 to preclude any other conclusion. Thus, elaborating the demonstration
 outlined in the *De stella nova*, Kepler
-continues:[33](cwiu16.htm#an_3_33)
+continues:[33](cwiu16.htm#an_3_33.md)
 
 <div class="iq">
 
@@ -1025,7 +1025,7 @@ more we see
 supposition as groundless and perfectly unscientific. Astronomy, indeed,
 is an empirical science. Its field is coextensive with that of
 observable data. Astronomy has nothing to say about things that are not,
-and cannot, be seen.[34](cwiu16.htm#an_3_34)
+and cannot, be seen.[34](cwiu16.htm#an_3_34.md)
 
 <div class="iq">
 
@@ -1044,7 +1044,7 @@ not remove its essential structure. With as without the telescope,
 things at an infinite distance cannot be seen. The optical world is
 finite.
 
-Thus to the question:[35](cwiu16.htm#an_3_35)
+Thus to the question:[35](cwiu16.htm#an_3_35.md)
 
 <div class="iq">
 
@@ -1092,7 +1092,7 @@ and stars in space, continue to exist without end? It may be meaningless
 from the point of view of astronomy, it may be metaphysics. . . . But is
 it a good one? Not according to Kepler, who held that this concept—that
 of modern science—is bad, as a really infinite number of finite bodies
-is something unthinkable, even contradictory:[36](cwiu16.htm#an_3_36)
+is something unthinkable, even contradictory:[36](cwiu16.htm#an_3_36.md)
 
 <div class="iq">
 
@@ -1130,13 +1130,13 @@ multiplication of a multitude of finite spaces.
 Kepler's objection against infinity is, of course, not new: it is
 essentially that of Aristotle. Yet it is by no means negligible, and
 modern science seems rather to have discarded than to have solved the
-problem.[37](cwiu16.htm#an_3_37) Now, even if we deny that there is an
+problem.[37](cwiu16.htm#an_3_37.md) Now, even if we deny that there is an
 infinite number of stars in space, there still remains, for the
 infinitist, a last possibility: that of asserting a finite world
-immersed in an infinite space.[38](cwiu16.htm#an_3_38) Kepler does not
+immersed in an infinite space.[38](cwiu16.htm#an_3_38.md) Kepler does not
 accept this, either, and his reasons for rejecting it reveal the
 ultimate metaphysical background of his
-thinking:[39](cwiu16.htm#an_3_39)
+thinking:[39](cwiu16.htm#an_3_39.md)
 
 <div class="iq">
 
@@ -1161,7 +1161,7 @@ ends of the line.
 Space, void space, is just "nothing," a *non-ens*. Space, as such,
 neither *is*—how, indeed, could it *be* if it is nothing?—nor has it
 been created by God, who assuredly has created the world out of nothing,
-but did not start by creating "nothing."[40](cwiu16.htm#an_3_40) Space
+but did not start by creating "nothing."[40](cwiu16.htm#an_3_40.md) Space
 exists on account of the bodies; if there were no bodies, there would
 not be space. And if God should destroy the world, there would be no
 void space left behind. There would be simply *nothing*, just as there
@@ -1176,4 +1176,4 @@ Aristotelian.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Things Never Seen Before and Thoughts Never Thought](cwiu07)
+[Next: IV. Things Never Seen Before and Thoughts Never Thought](cwiu07.md)

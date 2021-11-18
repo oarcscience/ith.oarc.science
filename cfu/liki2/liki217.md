@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki216)  [Next](liki218) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki216)  [Next](liki218.md) 
 
 ------------------------------------------------------------------------
 
@@ -1210,6 +1210,6 @@ qu'il a dit plus haut.'
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. Zâ Kî or Miscellaneous Records.](liki218)
+[Next: XVIII. Zâ Kî or Miscellaneous Records.](liki218.md)
 
   

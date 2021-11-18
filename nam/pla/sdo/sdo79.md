@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo78)  [Next](sdo80) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo78)  [Next](sdo80.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ Wounded Knee, on the Pine Ridge Reservation.
 
 ------------------------------------------------------------------------
 
-[Next: Legends of the Origin of the Buffalo Ceremony](sdo80)
+[Next: Legends of the Origin of the Buffalo Ceremony](sdo80.md)

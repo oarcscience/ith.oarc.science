@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos10)  [Next](pos12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos10)  [Next](pos12.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ------------------------------------------------------------------------
 
-### <span id="L">L Paṭācārā's Five Hundred.</span> [<sup>252</sup>](pos11.htm#77-1)
+### <span id="L">L Paṭācārā's Five Hundred.</span> [<sup>252</sup>](pos11.htm#77-1.md)
 
 T<span class="small">HESE</span> too, having fared under former Buddhas
 as the foregoing Sisters, were, in this Buddha-era, reborn in some
@@ -116,11 +116,11 @@ To bide on earth this little breathing-space?'*
 
 <span id="79-2"></span>
 
-> <sup>255</sup> *Cf.* p. 40, *n* [3](pos08.htm#40-3).
+> <sup>255</sup> *Cf.* p. 40, *n* [3](pos08.htm#40-3.md).
 
 ------------------------------------------------------------------------
 
-### <span id="LI">LI Vāsiṭṭhī.</span> [<sup>256</sup>](pos11.htm#79-3)
+### <span id="LI">LI Vāsiṭṭhī.</span> [<sup>256</sup>](pos11.htm#79-3.md)
 
 She, too, faring under former Buddhas like the foregoing, was, in this
 Buddha-era, reborn in a clansman's family at Vesālī. Her parents gave
@@ -131,7 +131,7 @@ relatives were administering healing to the husband, she, unknown to
 them, ran away raving, and wandered round and round till she came to
 Mithilā. There she saw the Exalted One going down the next street,
 self-controlled, self-contained, master of his faculties. And at the
-sight of the wondrous Chief, [<sup>257</sup>](pos11.htm#79-4) and
+sight of the wondrous Chief, [<sup>257</sup>](pos11.htm#79-4.md) and
 through the potency of the Buddha, she regained her normal mind from the
 frenzy that had befallen her. Then the Master taught her the Norm in
 outline, and in agitation she asked him that she might enter the Order,
@@ -181,7 +181,7 @@ The base on which my miseries were built. (138)</span></p></td>
 
 <span id="79-3"></span>
 
-> <sup>256</sup> See [Ps. lxix.](pos18.htm#LXIX)
+> <sup>256</sup> See [Ps. lxix.](pos18.htm#LXIX.md)
 
 <span id="79-4"></span>
 
@@ -192,7 +192,7 @@ The base on which my miseries were built. (138)</span></p></td>
 
 > <sup>258</sup> More than once in these verses–never, I believe, in
 > prose–the family name of the Buddha is used by the faithful–*e.g.*,
-> [Ps. liv.](pos11.htm#LIV)
+> [Ps. liv.](pos11.htm#LIV.md)
 
 ------------------------------------------------------------------------
 
@@ -201,23 +201,23 @@ The base on which my miseries were built. (138)</span></p></td>
 Now she, when Padumuttara was Buddha, became a slave to others,
 dependent for her livelihood on others, at Haŋsavatī. And one day,
 seeing the Elder, Sujāta, seeking alms, she gave him three sweet cakes,
-and at the same time took down her hair [<sup>259</sup>](pos11.htm#81-1)
+and at the same time took down her hair [<sup>259</sup>](pos11.htm#81-1.md)
 and gave it to the Elder, saying: 'May I in the future become a
 disciple, great in wisdom, of a Buddha!' After many fortunate rebirths
 as Queen among both gods and men, for that she had wrought good karma to
 the uttermost, she became a human, when Vipassi
-[<sup>260</sup>](pos11.htm#81-2) was Buddha. Renouncing the world, she
+[<sup>260</sup>](pos11.htm#81-2.md) was Buddha. Renouncing the world, she
 became a learned preacher of the Norm. Reborn, when Kakusandha was
 Buddha, in a wealthy family, she made a great park for the Order, and
 delivered it over to the Order with the Buddha at their head. She did
 this again when Koṇāgamana was Buddha. When Kassapa was Buddha she
 became the eldest daughter of King Kiki,
-[<sup>261</sup>](pos11.htm#81-3) named Samaṇī, lived a pious life, and
+[<sup>261</sup>](pos11.htm#81-3.md) named Samaṇī, lived a pious life, and
 gave a cell to the Order. Finally, in this Buddha-era, she was born in
-Magadha, at Sāgala, [<sup>262</sup>](pos11.htm#81-4) as one of the
+Magadha, at Sāgala, [<sup>262</sup>](pos11.htm#81-4.md) as one of the
 King's family, and named Khemā. Beautiful, and with skin like gold, she
 became the consort of King Bimbisāra. While the Master was at the Bamboo
-Grove[<sup>263</sup>](pos11.htm#81-5) she, being infatuated with her own
+Grove[<sup>263</sup>](pos11.htm#81-5.md) she, being infatuated with her own
 beauty, would not go to see him, fearing he would look on this as a
 fault in her. The King bade persons praise the Grove to her to induce
 her to visit it. And accordingly she asked him to let her see it. The
@@ -242,14 +242,14 @@ body also!' And the Master, knowing her thoughts, said:
 > Who all their bonds have snapt in twain,  
 > With thoughts elsewhere intent, forsake the world,  
 > And all delight in sense put far away.'
-> [<sup>264</sup>](pos11.htm#82-1)
+> [<sup>264</sup>](pos11.htm#82-1.md)
 
 The Commentaries say that when he had finished, she attained
 Arahantship, together with thorough grasp of the Norm in form and
 meaning. But according to the Apadāna, she was established only in the
 Fruit of one who has entered the Stream, and, the King consenting,
 entered the Order ere she became an Arahant.
-[<sup>265</sup>](pos11.htm#82-2)
+[<sup>265</sup>](pos11.htm#82-2.md)
 
 Thereafter she became known for her great insight, and was ranked
 foremost herein by the Exalted One, seated in the conclave of Ariyans at
@@ -302,11 +302,11 @@ Utterly free from all sorrow, doer of Buddha's commandments.' (144)</p></td>
 
 <span id="81-3"></span>
 
-> <sup>261</sup> See [Ps. xii.](pos06.htm#XII)
+> <sup>261</sup> See [Ps. xii.](pos06.htm#XII.md)
 
 <span id="81-4"></span>
 
-> <sup>262</sup> *Cf.* [Ps. xxxvii.](pos09.htm#XXXVII)
+> <sup>262</sup> *Cf.* [Ps. xxxvii.](pos09.htm#XXXVII.md)
 
 <span id="81-5"></span>
 
@@ -360,7 +360,7 @@ consolidating the essential conditions for emancipation, was, in this
 Buddha-era, reborn at Sāketa, in the Treasurer's family. Given by her
 parents in marriage to a Treasurer's son of equal rank, she lived
 happily with him. Going one day to take part in an Astral Festival
-[<sup>271</sup>](pos11.htm#84-2) in the pleasure-grounds, she was
+[<sup>271</sup>](pos11.htm#84-2.md) in the pleasure-grounds, she was
 returning with her attendants to the town, when, in the Añjana Grove,
 she saw the Master, and her heart being drawn to him, she drew near, did
 obeisance, and seated herself. The Master, finishing his discourse in
@@ -413,7 +413,7 @@ O wise and sure the bidding of the Lord! (150)</p></td>
 <span id="84-2"></span>
 
 > <sup>271</sup> *Nakkhattakīlaŋ*, constellation-sports. *Cf.* [verse
-> 143](pos11.htm#143) in the [preceding Psalm.](pos11.htm#LII)
+> 143](pos11.htm#143) in the [preceding Psalm.](pos11.htm#LII.md)
 
 <span id="85-1"></span>
 
@@ -492,7 +492,7 @@ foremost place for experience to a certain Bhikkhunī, she vowed such a
 place should one day be hers. Then, after many births, once more was she
 reborn in the Buddha-empty era, between Kassapa and our Buddha, at
 Benares, as the forewoman among 500 slave-girls.
-[<sup>274</sup>](pos11.htm#87-1) Now, when the rains drew near, five
+[<sup>274</sup>](pos11.htm#87-1.md) Now, when the rains drew near, five
 Silent Buddhas came down from the Nandamūlaka mountain-cave to
 Isipatana, seeking alms; and those women got their husbands to erect
 five huts for the Buddhas during the three rainy months, and they
@@ -500,10 +500,10 @@ provided them with all they required during that time. Reborn once more
 in a weaver's village near Benares, in the headman's family, she again
 ministered to Silent Buddhas. Finally, she was reborn, shortly before
 our Master came to us, at Devadaha, in the family of Mahā-Suppabuddha.
-[<sup>275</sup>](pos11.htm#88-1) Her family name was Gotama, and she was
+[<sup>275</sup>](pos11.htm#88-1.md) Her family name was Gotama, and she was
 the younger sister of the Great Māyā. And the interpreters of birthmarks
 declared that the children of both sisters would be Wheel-rolling
-Rulers.[<sup>276</sup>](pos11.htm#88-2) Now, King Suddhodana, when he
+Rulers.[<sup>276</sup>](pos11.htm#88-2.md) Now, King Suddhodana, when he
 came of age, held a festival, and wedded both the sisters. After this,
 when our Master had arisen, and, in turning the excellent wheel of the
 Norm, came in course of fostering souls to Vesāli, his father, who had
@@ -728,8 +728,8 @@ Was it not rent indeed, that muffling mist?</span> <a href="pos11.htm#93-1"><sup
 
 <span id="92-1"></span>
 
-> <sup>282</sup> = [Ps. xxviii.](pos07.htm#XXVIII) and
-> [xxx.](pos08.htm#XXX)
+> <sup>282</sup> = [Ps. xxviii.](pos07.htm#XXVIII.md) and
+> [xxx.](pos08.htm#XXX.md)
 
 <span id="92-2"></span>
 
@@ -739,8 +739,8 @@ Was it not rent indeed, that muffling mist?</span> <a href="pos11.htm#93-1"><sup
 
 <span id="92-3"></span>
 
-> <sup>284</sup> *Cf.* [Ps. xxx.](pos08.htm#XXX),
-> [xxxviii.](pos10.htm#XXXVIII) The following 'factors' give twenty-five
+> <sup>284</sup> *Cf.* [Ps. xxx.](pos08.htm#XXX.md),
+> [xxxviii.](pos10.htm#XXXVIII.md) The following 'factors' give twenty-five
 > of the thirty-seven known as the Bodhipakkhiyā Dhammā, omitting the
 > four applications of mindfulness (*satipaṭṭhānā*), the four stages of
 > potency (*iddhipādā*), and the four right efforts (*sammappadhānāni*),
@@ -748,7 +748,7 @@ Was it not rent indeed, that muffling mist?</span> <a href="pos11.htm#93-1"><sup
 
 <span id="92-4"></span>
 
-> <sup>285</sup> = [Ps. xlviii.](pos10.htm#XLVIII)
+> <sup>285</sup> = [Ps. xlviii.](pos10.htm#XLVIII.md)
 
 <span id="93-1"></span>
 
@@ -757,4 +757,4 @@ Was it not rent indeed, that muffling mist?</span> <a href="pos11.htm#93-1"><sup
 
 ------------------------------------------------------------------------
 
-[Next: Canto VII. Psalms of Seven Verses](pos12)
+[Next: Canto VII. Psalms of Seven Verses](pos12.md)

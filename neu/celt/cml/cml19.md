@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml18)  [Next](cml20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml18)  [Next](cml20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ last. An entirely new story told how the latter hero was raised from the
 dead by Saint Patrick that he might bear witness of the truth of
 Christianity to Laogaire the Second, King of Ireland, which he did with
 such fervour and eloquence that the sceptical monarch was
-convinced. <span id="fr_259"></span>[1](#fn_259)
+convinced. <span id="fr_259"></span>[1](#fn_259.md)
 
 <span id="page_228">p. 228</span>
 
@@ -43,12 +43,12 @@ fire, poetry, and the hearth, is famous to-day as Saint Bridget, or
 Bride. Most popular of all the Irish saints, she can still be easily
 recognized as the daughter of the Dagda. Her Christian attributes,
 almost all connected with fire, attest her pagan origin. <span
-id="fr_260"></span>[1](#fn_260) She was born at sunrise; a house in
+id="fr_260"></span>[1](#fn_260.md) She was born at sunrise; a house in
 which she dwelt blazed into a flame which reached to heaven; a pillar of
 fire rose from her head when she took the veil; and her breath gave new
 life to the dead. As with the British goddess Sul, worshipped at Bath,
 who--the first century Latin writer Solinus <span
-id="fr_261"></span>[2](#fn_261) tells us--"ruled over the boiling
+id="fr_261"></span>[2](#fn_261.md) tells us--"ruled over the boiling
 springs, and at her altar there flamed a perpetual fire which never
 whitened into ashes, but hardened into a stony mass", the sacred flame
 on her shrine at Kildare was never allowed to go out. It was
@@ -80,7 +80,7 @@ merely the Tuatha Dé Danann, but also the Fir Bolgs, the Fomors, the
 Milesians, and the races of Partholon and Nemed were descended from
 Noah. Japhet, the patriarch's son, was the father of Magog, from whom
 came two lines, the first being the Milesians, while the second branched
-out into all the other races. <span id="fr_262"></span>[1](#fn_262)
+out into all the other races. <span id="fr_262"></span>[1](#fn_262.md)
 
 Having once worked the gods, first into universal history, and then into
 the history of Ireland, it was an easy matter to supply them with dates
@@ -122,7 +122,7 @@ tenth century, a poet called Eochaid O’Flynn, writing of the Tuatha Dé
 Danann, at first seems to hesitate whether to ascribe humanity or
 divinity to them, and at last frankly avows their godhead. In his poem,
 preserved in the Book of Ballymote, <span
-id="fr_263"></span>[1](#fn_263) he says:
+id="fr_263"></span>[1](#fn_263.md) he says:
 
 "Though they came to learned Erinn  
 Without buoyant, adventurous ships,  
@@ -131,7 +131,7 @@ Whether they were of the earth or of the sky.
 
 "If they were diabolical demons,  
 They came from that woeful expulsion; <span
-id="fr_264"></span>[2](#fn_264)  
+id="fr_264"></span>[2](#fn_264.md)  
 If they were of a race of tribes and nations,  
 If they were human, they were of the race of Beothach."
 
@@ -179,7 +179,7 @@ Of how he cleft the rock, or down the vale
 Of how on giant ships he spread great sail,  
   And many marvels else by him first plann’d ",
 
-writes a poet of modern Ireland. <span id="fr_265"></span>[1](#fn_265)
+writes a poet of modern Ireland. <span id="fr_265"></span>[1](#fn_265.md)
 Especially were
 
 <span id="page_233">p. 233</span>
@@ -204,7 +204,7 @@ folk-tales in Achill Island, took one from the lips of an aged peasant
 which tells in its confused way what might almost be called the central
 incident of Gaelic mythology, the mysterious birth of the sun-god from
 demoniac parentage, and his eventual slaying of his grandfather when he
-came to full age. <span id="fr_266"></span>[1](#fn_266)
+came to full age. <span id="fr_266"></span>[1](#fn_266.md)
 
 Gobhan the Architect and his son, young Gobhan, runs the tale, were sent
 for by Balor of the Blows to build him a palace. They built it so well
@@ -304,7 +304,7 @@ away. She also gave him the byre-rope which belonged to the gray cow.
 
 [![CIAN FINDS BALOR'S DAUGHTER&lt;br&gt; From the Drawing by H. R.
 Millar](tn/23600.jpg)  
-Click to enlarge](img/23600.jpg)  
+Click to enlarge](img/23600.jpg.md)  
 CIAN FINDS BALOR'S DAUGHTER  
 From the Drawing by H. R. Millar  
 
@@ -335,7 +335,7 @@ up, there will be no champion equal to him."
 
 So Manannán baptized the boy, calling him "the Dul-Dauna". This name,
 meaning "Blind-Stubborn", is certainly a curious corruption of the
-original Ioldanach <span id="fr_267"></span>[1](#fn_267) "Master of all
+original Ioldanach <span id="fr_267"></span>[1](#fn_267.md) "Master of all
 Knowledge". When the boy had grown up, he went one day to the sea-shore.
 A ship came past, in which was a man. The traditions of Donnybrook Fair
 are evidently prehistoric, for the boy, without troubling to ask who
@@ -350,7 +350,7 @@ does not name him, was obviously Lugh.
 Another version of the same legend, collected by the Irish scholar
 O’Donovan on the coast of Donegal, opposite Balor's favourite haunt,
 Tory Island, is interesting as completing the one just narrated. <span
-id="fr_268"></span>[1](#fn_268) In this folk-tale, Goibniu is called
+id="fr_268"></span>[1](#fn_268.md) In this folk-tale, Goibniu is called
 Gavida, and is made one of three brothers, the other two being called
 Mac Kineely and Mac Samthainn. They were chiefs of Donegal, smiths and
 farmers, while Balor was a robber who harassed the mainland from his
@@ -364,7 +364,7 @@ necessary to fulfil the prophecy, but three. This apparent superfluity
 was fortunate; for Balor drowned two of them, the other being picked out
 of the sea by the same fairy who had been incidentally responsible for
 his birth, and handed over to his father, Mac Kineely, to be brought up.
-Shortly after this, Balor managed to [capture](errata.htm#5) Mac
+Shortly after this, Balor managed to [capture](errata.htm#5.md) Mac
 Kineely, and, in retaliation for the wrong done him, chopped off his
 head upon a large white
 
@@ -380,7 +380,7 @@ Kineely's death. He never finished the story, for Lugh--which was the
 boy's name--snatched a red-hot iron from the fire, and thrust it into
 Balor's eye, and through his head.
 
-Thus, in these two folk-tales, <span id="fr_269"></span>[1](#fn_269)
+Thus, in these two folk-tales, <span id="fr_269"></span>[1](#fn_269.md)
 gathered in different parts of Ireland, at different times, by different
 persons, survives quite a mass of mythological detail only to be found
 otherwise in ancient manuscripts containing still more ancient matter.
@@ -429,13 +429,13 @@ Manannán,
 when he heard it, broke out into indignant lament. "Woe is me, Manannán
 mac Lêr! for years I've helped the Catholics of Ireland, but I'll do it
 no more, till they're as weak as water. I'll go to the gray waves in the
-Highlands of Scotland." <span id="fr_270"></span>[1](#fn_270)
+Highlands of Scotland." <span id="fr_270"></span>[1](#fn_270.md)
 
 And there he remained. For, unless the charming stories of Miss Fiona
 Macleod are mere beautiful imaginings and nothing more, he is not
 unknown even to-day among the solitary shepherds and fishers of "the
 farthest Hebrides". In the *Contemporary Review* for October,
-1902, <span id="fr_271"></span>[2](#fn_271) she tells how an old man of
+1902, <span id="fr_271"></span>[2](#fn_271.md) she tells how an old man of
 four-score years would often be visited in his shieling by a tall,
 beautiful stranger, with a crest on his head, "like white canna blowing
 in the wind, but with a blueness in it", and "a bright, cold, curling
@@ -469,12 +469,12 @@ to Peel Castle. The most curious legend connected with him, however,
 tells us that he had three legs, on which he used to travel at a great
 pace. How this was done may be seen from the arms of the island, on
 which are pictured his three limbs, joined together, and spread out like
-the spokes of a wheel. <span id="fr_272"></span>[1](#fn_272)
+the spokes of a wheel. <span id="fr_272"></span>[1](#fn_272.md)
 
 An Irish tradition tells us that, when Manannán left Ireland for
 Scotland, the vacant kingship of the gods or fairies was taken by one
 Mac Moineanta; to the great grief of those who had known Manannán. <span
-id="fr_273"></span>[2](#fn_273) Perhaps this great grief led to Mac
+id="fr_273"></span>[2](#fn_273.md) Perhaps this great grief led to Mac
 Moineanta's being deposed, for the present king of the
 
 <span id="page_243">p. 243</span>
@@ -499,7 +499,7 @@ of the well-known device of sanctifying the work of excavation by
 sprinkling the turned-up earth with salt. Needless to say, it succeeded.
 Finvarra gave back the bride, still in the trance into which he had
 thrown her; and the deep cut into the fairy hill still remains to
-furnish proof to the incredulous. <span id="fr_274"></span>[1](#fn_274)
+furnish proof to the incredulous. <span id="fr_274"></span>[1](#fn_274.md)
 
 Finvarra does not always appear, however, in
 
@@ -514,15 +514,15 @@ exercise that he and his fairy followers gave the horses by night that
 Mr. John Kirwan's racers were so often successful on the Curragh. That
 such stories could have passed current as fact, which they undoubtedly
 did, is excellent proof of how late and how completely a mythology may
-survive among the uncultured. <span id="fr_275"></span>[1](#fn_275)
+survive among the uncultured. <span id="fr_275"></span>[1](#fn_275.md)
 
 Finvarra rules to-day over a wide realm of fairy folk. Many of these,
 again, have their own vassal chieftains, forming a tribal hierarchy such
 as must have existed in the Celtic days of Ireland. Finvarra and Onagh
 are high king and queen, but, under them, Cliodna <span
-id="fr_276"></span>[2](#fn_276) is tributary queen of Munster, and rules
+id="fr_276"></span>[2](#fn_276.md) is tributary queen of Munster, and rules
 from a *sídh* near Mallow in County Cork, while, under her again, are
-Aoibhinn <span id="fr_277"></span>[3](#fn_277), queen of the fairies of
+Aoibhinn <span id="fr_277"></span>[3](#fn_277.md), queen of the fairies of
 North Munster, and Ainé, queen of the fairies of South Munster. These
 names form but a single instance. A map of fairy Ireland could without
 much difficulty be drawn, showing, with almost political exactness, the
@@ -569,7 +569,7 @@ Gur, in County Limerick, waiting, like the British Arthur, for the hour
 to strike in which he shall lead forth his warriors to drive the
 foreigners from Ireland. But this will not be until, by riding round the
 lake once in every seventh year, he shall have worn his horse's silver
-shoes as thin as a cat's ear. <span id="fr_278"></span>[1](#fn_278)
+shoes as thin as a cat's ear. <span id="fr_278"></span>[1](#fn_278.md)
 
 Not only the tribe of Danu, but heroes of the other mythical cycles
 swell the fairy host to-day. Donn, son of Milé, who was drowned before
@@ -577,7 +577,7 @@ ever he set foot on Irish soil, lives at "Donn's House", a line of
 sand-hills in the Dingle Peninsula of Kerry, and, as late as the
 eighteenth century, we find him invoked by a local poet, half in jest,
 no doubt, but still, perhaps also a little in earnest. <span
-id="fr_279"></span>[2](#fn_279) The heroes of Ulster have no part in
+id="fr_279"></span>[2](#fn_279.md) The heroes of Ulster have no part in
 fairyland; but their enemy, Medb, is credited with queenly rule among
 the Sídhe, and is held by some to have been the original of "Queen Mab".
 Caoilté, last of the Fenians, was, in spite of his leanings towards
@@ -592,7 +592,7 @@ of Barrymore, is said to inhabit an enchanted palace in Knockthierna,
 one of the Nagles Hills. The not less traditionally famous O’Donaghue,
 whose domain was near Killarney, now dwells beneath the waters of that
 lake, and may still be seen, it is said, upon May Day. <span
-id="fr_280"></span>[1](#fn_280)
+id="fr_280"></span>[1](#fn_280.md)
 
 But besides these figures, which can be traced in mythology or history,
 and others who, though all written record of them has perished, are
@@ -623,75 +623,75 @@ figures of those darker gods of "the dark Iberians"?
 
 ### Footnotes
 
-<span id="fn_259"></span>[227:1](cml19.htm#fr_259) The story, contained
+<span id="fn_259"></span>[227:1](cml19.htm#fr_259.md) The story, contained
 in the Book of the Dun Cow, is called *The Phantom Chariot*. It has been
 translated by Mr. O’Beirne Crowe, and is included in Miss Hull's
 *Cuchulinn Saga*.
 
-<span id="fn_260"></span>[228:1](cml19.htm#fr_260) See Elton, *Origins
+<span id="fn_260"></span>[228:1](cml19.htm#fr_260.md) See Elton, *Origins
 of English History*, pp. 269-271.
 
-<span id="fn_261"></span>[228:2](cml19.htm#fr_261) Caius Julius Solinus,
+<span id="fn_261"></span>[228:2](cml19.htm#fr_261.md) Caius Julius Solinus,
 known as Polyhistor, chap. XXIV.
 
-<span id="fn_262"></span>[229:1](cml19.htm#fr_262) It is appended to his
+<span id="fn_262"></span>[229:1](cml19.htm#fr_262.md) It is appended to his
 translation of the tale of the *Exile of the Children of Usnach* in
 *Atlantis*, Vol. III.
 
-<span id="fn_263"></span>[231:1](cml19.htm#fr_263) See Cusack's *History
+<span id="fn_263"></span>[231:1](cml19.htm#fr_263.md) See Cusack's *History
 of Ireland*, pp. 160-16a.
 
-<span id="fn_264"></span>[231:2](cml19.htm#fr_264) *I.e.* from Heaven.
+<span id="fn_264"></span>[231:2](cml19.htm#fr_264.md) *I.e.* from Heaven.
 
-<span id="fn_265"></span>[232:1](cml19.htm#fr_265) Thomas D'Arcy M’Gee:
+<span id="fn_265"></span>[232:1](cml19.htm#fr_265.md) Thomas D'Arcy M’Gee:
 *Poems*, p. 78, "The Gobhan Saer".
 
-<span id="fn_266"></span>[233:1](cml19.htm#fr_266) Larminie: *West Irish
+<span id="fn_266"></span>[233:1](cml19.htm#fr_266.md) Larminie: *West Irish
 Folk-Tales*, pp. 1-9.
 
-<span id="fn_267"></span>[237:1](cml19.htm#fr_267) Pronounced *Ildāna*.
+<span id="fn_267"></span>[237:1](cml19.htm#fr_267.md) Pronounced *Ildāna*.
 
-<span id="fn_268"></span>[238:1](cml19.htm#fr_268) It is told in Rhys's
+<span id="fn_268"></span>[238:1](cml19.htm#fr_268.md) It is told in Rhys's
 *Hibbert Lectures*, pp. 314-317.
 
-<span id="fn_269"></span>[239:1](cml19.htm#fr_269) For still other
+<span id="fn_269"></span>[239:1](cml19.htm#fr_269.md) For still other
 folk-tale versions of this same myth see Curtin's *Hero Tales of
 Ireland*.
 
-<span id="fn_270"></span>[241:1](cml19.htm#fr_270) A Donegal story,
+<span id="fn_270"></span>[241:1](cml19.htm#fr_270.md) A Donegal story,
 collected by Mr. David Fitzgerald and published in the *Revue Celtique*,
 Vol. IV, p. 177.
 
-<span id="fn_271"></span>[241:2](cml19.htm#fr_271) The paper is called
+<span id="fn_271"></span>[241:2](cml19.htm#fr_271.md) The paper is called
 "Sea-Magic and Running Water".
 
-<span id="fn_272"></span>[242:1](cml19.htm#fr_272) Moore: *Folklore of
+<span id="fn_272"></span>[242:1](cml19.htm#fr_272.md) Moore: *Folklore of
 the Isle of Man*.
 
-<span id="fn_273"></span>[242:2](cml19.htm#fr_273) See an article in the
+<span id="fn_273"></span>[242:2](cml19.htm#fr_273.md) See an article in the
 *Dublin University Magazine* for June, 1864.
 
-<span id="fn_274"></span>[243:1](cml19.htm#fr_274) The story is among
+<span id="fn_274"></span>[243:1](cml19.htm#fr_274.md) The story is among
 those told by Lady Wilde in her *Ancient Legends of Ireland*, Vol. I,
 pp. 77-82.
 
-<span id="fn_275"></span>[244:1](cml19.htm#fr_275) Dublin University
+<span id="fn_275"></span>[244:1](cml19.htm#fr_275.md) Dublin University
 Magazine, June, 1864.
 
-<span id="fn_276"></span>[244:2](cml19.htm#fr_276) Pronounced *Cleena*.
+<span id="fn_276"></span>[244:2](cml19.htm#fr_276.md) Pronounced *Cleena*.
 
-<span id="fn_277"></span>[244:3](cml19.htm#fr_277) Pronounced *Evin*.
+<span id="fn_277"></span>[244:3](cml19.htm#fr_277.md) Pronounced *Evin*.
 
-<span id="fn_278"></span>[246:1](cml19.htm#fr_278) See Fitzgerald,
+<span id="fn_278"></span>[246:1](cml19.htm#fr_278.md) See Fitzgerald,
 *Popular Tales of Ireland*, in Vol. IV of the *Revue Celtique*.
 
-<span id="fn_279"></span>[246:2](cml19.htm#fr_279) *Dublin University
+<span id="fn_279"></span>[246:2](cml19.htm#fr_279.md) *Dublin University
 Magazine*, June, 1864.
 
-<span id="fn_280"></span>[247:1](cml19.htm#fr_280) For stories of these
+<span id="fn_280"></span>[247:1](cml19.htm#fr_280.md) For stories of these
 two Norman-Irish heroes, see Crofton Croker's *Fairy Legends and
 Traditions of the South of Ireland*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Gods of the Britons](cml20)
+[Next: Chapter XVI. The Gods of the Britons](cml20.md)

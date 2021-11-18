@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms11)  [Next](jms13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms11)  [Next](jms13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ much addicted to this particular form of magic. Amulets were the favored
 Jewish magical device during the Middle Ages, and the fact that they
 were predominantly of the written type, prepared especially for specific
 emergencies and particular individuals, enhanced their magical
-character.[1](jms31.htm#an_10_1)
+character.[1](jms31.htm#an_10_1.md)
 
 The material objects that were employed as amulets because of their
 fancied occult power, were no doubt many more in number and variety than
@@ -107,7 +107,7 @@ a medium sized egg, glassy in appearance, and is to be found in the
 fields," he explained. The French terms seem to indicate a hollow stone
 within which is a smaller one, a sort of rattle (perhaps the eaglestone
 or ætites); a later commentator calls it a *Sternschoss*
-(meteoroid).[3](jms31.htm#an_10_3)
+(meteoroid).[3](jms31.htm#an_10_3.md)
 
 A man born with a caul was counselled to keep it on his person
 throughout his life as a protection against the demons who battle during
@@ -142,7 +142,7 @@ silk, together with some wheat and coins, and
 
 then encased in wax. Other amulets, such as rings and medallions of
 various sorts, were no doubt similarly employed, for Jews had a
-reputation as metal-workers and engravers.[4](jms31.htm#an_10_4)
+reputation as metal-workers and engravers.[4](jms31.htm#an_10_4.md)
 
 Objects of this sort were used for more or less esoteric reasons.
 Sometimes the reputation for occult virtue outlived the original reason.
@@ -158,7 +158,7 @@ imprisoned, so may the other be. This type of sympathetic amulet is well
 known and universally employed. Despite the paucity of evidence in our
 sources, medieval Jewry must have drawn extensively upon Jewish
 tradition and its non-Jewish neighbors for a multitude of such
-charms.[5](jms31.htm#an_10_5)
+charms.[5](jms31.htm#an_10_5.md)
 
 An interesting instance of confidence placed in a non-Jewish talisman is
 afforded by a statement in a fifteenth-century work, *Leket Yosher:* "I
@@ -188,7 +188,7 @@ girl on Sundays (or on Christmas nights) over a period of seven years,
 during which she remained mute all the time. This was the nature
 (substituting Jewish forms for the Christian) of the *Nothemd* which our
 authority hoped would shield his first-born from the hazards of
-life.[5a](jms31.htm#an_10_5a)
+life.[5a](jms31.htm#an_10_5a.md)
 
 #### GEMS
 
@@ -219,7 +219,7 @@ their reputation as experts in the magic virtues of gems was far wide of
 the mark. As Steinschneider remarks, "Hardly a single dissertation on
 this subject is to be found in Hebrew literature . . . and the little
 that does exist is very insignificant and recent, derived mainly from
-non-Jewish sources."[6](jms31.htm#an_10_6) In the Hebrew literature of
+non-Jewish sources."[6](jms31.htm#an_10_6.md) In the Hebrew literature of
 Northern Europe I have found only one discussion of the properties of
 precious stones, and that in the unpublished fourteenth-century
 manuscript, *Sefer Gematriaot*. While it unquestionably drew upon
@@ -230,7 +230,7 @@ non-Jewish material, it
 acquired a definitely Jewish coloration in its cross-cultural journey,
 and is built upon the scheme of the twelve tribal gems. I give here a
 partial translation of the passage, the complete text of which may be
-found in Appendix II.[7](jms31.htm#an_10_7)
+found in Appendix II.[7](jms31.htm#an_10_7.md)
 
 "*Odem* \[commonly translated carnelian, ruby\] appertains to Reuben. .
 . . This is the stone called *rubino*. Its use is to prevent the woman
@@ -337,14 +337,14 @@ the addition of the anti-Lilitian names, Sanvi, Sansanvi, Semangelaf,
 placed in the four corners of a house, protect children against the
 hazards of infancy; Ps. 127, hung about a boy's neck from the moment of
 birth, guards him throughout life. Or the inscription might consist
-exclusively of angel-names.[8](jms31.htm#an_10_8) But these were
+exclusively of angel-names.[8](jms31.htm#an_10_8.md) But these were
 comparatively rare. Most of the written amulets contained the
 combination of elements which centuries of usage had impressed upon this
 magical form.
 
 The following text of a typical amulet, guaranteed to perform a very
 wide range of functions, will serve to illustrate the
-species:[9](jms31.htm#an_10_9)
+species:[9](jms31.htm#an_10_9.md)
 
 "An effective amulet, tested and tried, against the evil eye and evil
 spirits, for grace, against imprisonment and the sword, for
@@ -388,7 +388,7 @@ His name," "who rests upon the Cherubs," etc.—these are more manifest in
 other amulet texts than in this one, but in less elaborate texts they
 are dropped altogether; 3. the meticulousness with which the various
 functions of the amulet are detailed; 4. the name of the person the
-amulet is meant to serve, and his mother's name.[10](jms31.htm#an_10_10)
+amulet is meant to serve, and his mother's name.[10](jms31.htm#an_10_10.md)
 
 Not all amulets were so long, or so complicated, or so inclusive as this
 one, but almost all included these four elements. Where the charm was to
@@ -406,7 +406,7 @@ requirements, I may cite the following formula:
 my right, Ḥaniel at my left, Raḥmiel at my head, angels, let me find
 favor and grace before all men, great and small, and before all of whom
 I have need, in the name of Yah Yah Yah Yau Yau Yau Yah Zebaot.
-Amen Amen Amen Selah.'"[11](jms31.htm#an_10_11)
+Amen Amen Amen Selah.'"[11](jms31.htm#an_10_11.md)
 
 In addition to the written inscription amulets were also often adorned
 with magical figures. Among these may be singled out the pentagram
@@ -415,7 +415,7 @@ hexagram in particular has acquired a special
 
 <span id="img_14000"></span> <span align="CENTER"> [![TWO MEDIEVAL
 AMULET TEXTS](tn/14000.jpg)  
-Click to enlarge](img/14000.jpg)  
+Click to enlarge](img/14000.jpg.md)  
 TWO MEDIEVAL AMULET TEXTS  
 </span>
 
@@ -449,7 +449,7 @@ enchantments. Their magical virtues were known in Jewish circles at an
 early time; they are to be found often in early post-Talmudic
 incantations, and occur fairly often in medieval amulets and *mezuzot*.
 Names of God and Biblical texts were frequently inscribed within the
-triangles of the magical hexagram.[12](jms31.htm#an_10_12)
+triangles of the magical hexagram.[12](jms31.htm#an_10_12.md)
 
 Of another sort, but equally widely employed in Jewish amulets, was a
 series of figures constructed by joining straight and curved lines
@@ -474,7 +474,7 @@ profusion, at the end of amulet
 
 texts, depending upon the ingenuity of the magician. Some amulets
 consist entirely of such signs, with no written text at all. The
-following charm illustrates all the elements:[13](jms31.htm#an_10_13)
+following charm illustrates all the elements:[13](jms31.htm#an_10_13.md)
 
 "An amulet for grace and favor; write upon deer-skin: 'By Thy universal
 name of grace and favor <span class="smallcaps">yhvh</span>, set Thy
@@ -515,7 +515,7 @@ been a tendency to regard them as Jewish. There can be no question,
 however, despite the Hebrew (Christian magic often employed Hebrew
 characters) that these astrological amulets, if employed by Jews at all,
 were so used only after Agrippa had developed his system, and reflected
-Christian practice.[14](jms31.htm#an_10_14)
+Christian practice.[14](jms31.htm#an_10_14.md)
 
 Leaving aside, then, the late astrological aspect of these
 number-squares, we find that the simple figure of nine fields, given
@@ -576,7 +576,7 @@ legislation, and the rabbinic responsa indicate that they were freely
 worn on the Sabbath as well. The lust for miracles was more compelling
 than religious scruple, and rabbinic regulation of the amulet industry
 was as often honored in the breach as in the
-observance.[15](jms31.htm#an_10_15)
+observance.[15](jms31.htm#an_10_15.md)
 
 Besides these official regulations there grew up certain generally
 accepted rules affecting the writing of amulets. While various materials
@@ -593,14 +593,14 @@ sanctified Thy great and revered name, and revealed it to the pious
 ones, to invoke Thy power and Thy might by means of Thy name and Thy
 word and the words of Thy mouth, oral and written. Praised be Thou,
 Lord, King, Holy One; may Thy name be ever
-extolled."[16](jms31.htm#an_10_16)
+extolled."[16](jms31.htm#an_10_16.md)
 
 <span id="page_145">p. 145</span>
 
 Lest the writing of amulets be mistaken for a wholly religious act,
 however, a further element interposed to reveal its fundamentally
 superstitious character. Not all times were fitting for the task, if
-success was to be assured. *Sefer Raziel*[17](jms31.htm#an_10_17)
+success was to be assured. *Sefer Raziel*[17](jms31.htm#an_10_17.md)
 provides us with a table of hours and days which are most propitious for
 this exercise—a table which evidence from other sources proves was
 generally accepted: Sunday, the seventh hour (the day began at about six
@@ -641,7 +641,7 @@ reflex of the Talmudic practice) . True, we read at times that the
 
 off the unwelcome ministrations of Satan—but the sense is figurative:
 the pious man who fulfills the minutiæ of ritual need not fear the
-powers of evil.[18](jms31.htm#an_10_18)
+powers of evil.[18](jms31.htm#an_10_18.md)
 
 The *mezuzah*, on the contrary, retained its original significance as an
 amulet despite rabbinic efforts to make it an exclusively religious
@@ -668,7 +668,7 @@ thinking. Isaiah Horowitz further dignified the proceeding by making it
 emanate from God Himself. "I have set a guardian outside the door of My
 sanctuary \[the Jewish home\]," the deity proclaims, "to establish a
 decree for My heavenly and earthly households; while it is upon the door
-every destroyer and demon must flee from it."[19](jms31.htm#an_10_19)
+every destroyer and demon must flee from it."[19](jms31.htm#an_10_19.md)
 
 So potent did the *mezuzah* become in the popular imagination that its
 powers were extended to cover even life and death. A Talmudic statement,
@@ -688,7 +688,7 @@ improperly written and therefore responsible for the visitation. The
 *mezuzah* has even come off the doorposts; during the World War many of
 the Jewish soldiers carried *mezuzot* in their pockets to deflect enemy
 bullets; it has today become a popular watch-charm among
-Jews.[20](jms31.htm#an_10_20) I have even been told of a nun who dropped
+Jews.[20](jms31.htm#an_10_20.md) I have even been told of a nun who dropped
 her purse one day, and among its contents, scattered on the ground,
 was—a *mezuzah!*
 
@@ -697,9 +697,9 @@ however, a modern phenomenon. According to Rashi, pagan rulers long ago
 suspected Jews of working magic against them when they affixed the
 little capsules to their doors. And, as we have seen, some Christian
 prelates in the Middle Ages were eager to place their castles, too,
-under the protection of the humble *mezuzah*.[21](jms31.htm#an_10_21)
+under the protection of the humble *mezuzah*.[21](jms31.htm#an_10_21.md)
 
-If we turn now to the *mezuzah* itself,[22](jms31.htm#an_10_22) the
+If we turn now to the *mezuzah* itself,[22](jms31.htm#an_10_22.md) the
 rules relating to its preparation, and its contents, we are confronted
 with striking evidence of the extent to which it had become an amulet,
 pure and simple, in the Middle Ages. The prescription of a high degree
@@ -729,7 +729,7 @@ written in larger characters than the
 
 rest, which indeed we find to be the case with the magical names in many
 amulets, or he may have referred to the mystical figures, favored in
-both amulets and *mezuzot*.[23](jms31.htm#an_10_23) What is more, we
+both amulets and *mezuzot*.[23](jms31.htm#an_10_23.md) What is more, we
 find included in the *mezuzah* verses which speak of God's protection,
 names of God and of angels (usually written in large letters), and
 various magical figures of the type mentioned. In brief—the *mezuzah*
@@ -750,7 +750,7 @@ considered especially powerful to drive off demons, and by the method of
 custom spread rapidly throughout the Jewish world and was adopted
 everywhere, without a word of censure from the authorities, even the
 mighty Maimonides agreeing that there was no harm in it, since the name
-was written on the outside of the parchment.[24](jms31.htm#an_10_24)
+was written on the outside of the parchment.[24](jms31.htm#an_10_24.md)
 
 At the same time, or perhaps subsequent to this first act of daring,
 another name was added to the *mezuzah*, still on its reverse: the
@@ -766,7 +766,7 @@ acquainted with the practice, or at least that it was not followed by
 southern Jewry, for Asher b. Yeḥiel (1250-1327), an eminent German
 scholar who spent the latter part of his life in Spain, stated
 specifically that it was observed in France and Germany, but not in
-Spain.[25](jms31.htm#an_10_25) From this we may judge that there grew up
+Spain.[25](jms31.htm#an_10_25.md) From this we may judge that there grew up
 in the Orient two distinct traditions; one, which prescribed
 
 <span id="page_149">p. 149</span>
@@ -781,7 +781,7 @@ practice invaded the South as well. The 14-letter name also possessed
 highly protective virtues; before leaving on a journey one would place
 his hand on the *mezuzah* and say, "In Thy name do I go forth," thus
 invoking its guardianship, for the Aramaic word employed equalled
-numerically the name *Kozu*.[26](jms31.htm#an_10_26)
+numerically the name *Kozu*.[26](jms31.htm#an_10_26.md)
 
 The next step marked a decided advance. Despite the stringent
 prohibition against altering in any way the face of the *mezuzah*, and
@@ -797,7 +797,7 @@ innovations not merely as private usage, or even customary (as
 distinguished from the legally required form), but as an integral part
 of the *mezuzah;* while the *Sefer HaPardes* made the additions
 obligatory, as important, even, as the *halachic*
-prescriptions.[27](jms31.htm#an_10_27) But most of the rabbinic authors
+prescriptions.[27](jms31.htm#an_10_27.md) But most of the rabbinic authors
 unanimously seconded Maimonides’ vigorous and uncompromising
 condemnation of such tampering with the words of Scripture. By the
 fifteenth century this attitude had triumphed, and even the mystics and
@@ -814,7 +814,7 @@ detail I give here the text of two of them from the
 
 <span id="page_150">p. 150</span>
 
-manuscript work *Sefer Gematriaot*,[28](jms31.htm#an_10_28) which were
+manuscript work *Sefer Gematriaot*,[28](jms31.htm#an_10_28.md) which were
 unknown to Aptowitzer, and which differ somewhat from those he
 published. They illustrate clearly the distinctive features of these
 charms.
@@ -822,7 +822,7 @@ charms.
 #### I
 
 <span id="img_15000"></span> <span align="CENTER"> [![](tn/15000.jpg)  
-Click to enlarge](img/15000.jpg)</span>
+Click to enlarge](img/15000.jpg.md)</span>
 
 On the back of this *mezuzah*, behind the word ‏והיה‎ of line 3, appears
 the name ‏שדי‎.
@@ -830,12 +830,12 @@ the name ‏שדי‎.
 #### II
 
 <span id="img_15001"></span> <span align="CENTER"> [![](tn/15001.jpg)  
-Click to enlarge](img/15001.jpg)</span>
+Click to enlarge](img/15001.jpg.md)</span>
 
 <span id="page_151">p. 151</span>
 
 <span id="img_15100"></span> <span align="CENTER"> [![](tn/15100.jpg)  
-Click to enlarge](img/15100.jpg)</span>
+Click to enlarge](img/15100.jpg.md)</span>
 
 The first, a "Palestinian" *mezuzah*, contains the names of 14 and 22
 letters (the former on the face instead of the back of the parchment),
@@ -865,7 +865,7 @@ others were careful at least not to corrupt the Scriptural citation, in
 which respect they were more closely observant of the prohibition
 against tampering with the *mezuzah*.
 
-*Sefer Gematriaot*[29](jms31.htm#an_10_29) offers also a detailed
+*Sefer Gematriaot*[29](jms31.htm#an_10_29.md) offers also a detailed
 mystical apologia for the various unauthorized features, of this nature:
 the 22 lines correspond to the 22 letters of the alphabet, the ten
 pentagrams to the ten commandments, and their fifty points to the fifty
@@ -886,4 +886,4 @@ possession.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The War with the Spirits](jms13)
+[Next: 11. The War with the Spirits](jms13.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr14)  [Next](wnr16) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr14)  [Next](wnr16.md) 
 
 ------------------------------------------------------------------------
 
@@ -341,4 +341,4 @@ monster feeds.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Woman And The New Morality](wnr16)
+[Next: XIV. Woman And The New Morality](wnr16.md)

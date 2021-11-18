@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas016n)  [Next](jas018n)   
- \[[17. House in the Air.](jas017)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas016n)  [Next](jas018n.md)   
+ \[[17. House in the Air.](jas017.md)\]
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ these are the keys."
 
 ------------------------------------------------------------------------
 
-[Next: Note 18. Goat on the Hill-side.](jas018n)
+[Next: Note 18. Goat on the Hill-side.](jas018n.md)

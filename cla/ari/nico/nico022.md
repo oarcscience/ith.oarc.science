@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico021) 
-[Next](nico023) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico021.md) 
+[Next](nico023.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ for so shall we most easily hit the mean and what is right.
 
 [Next: Chapter 1. Praise and blame attach to voluntary actions, i.e.
 actions done (1) not under compulsion, and (2) with knowledge of the
-circumstances](nico023)
+circumstances](nico023.md)

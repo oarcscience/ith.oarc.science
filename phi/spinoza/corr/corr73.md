@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr72)  [Next](corr74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr72)  [Next](corr74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 \[*Albert Burgh announces his reception into the Romish Church, and
 exhorts Spinoza to follow his example*. <span
-id="fr_83"></span>[1](#fn_82)\]
+id="fr_83"></span>[1](#fn_82.md)\]
 
 I promised to write to you on leaving my country, if anything noteworthy
 occurred on the journey. I take the opportunity which offers of an event
@@ -63,7 +63,7 @@ to your own; or else you must admit that your philosophy is as uncertain
 and nugatory as the rest.
 
 However, restricting myself for the present to that book of yours with
-an impious title, <span id="fr_84"></span>[1](#fn_83) and mingling your
+an impious title, <span id="fr_84"></span>[1](#fn_83.md) and mingling your
 philosophy with your theology, as in reality you mingle them yourself,
 though with diabolic cunning you endeavour to maintain, that each is
 separate from the other, and has different principles, I thus proceed.
@@ -185,25 +185,25 @@ Saviour Jesus Christ, Who with the Eternal Father liveth and reigneth in
 the Unity of the Holy Spirit, God for all Eternity. Amen.
 
 Florence, III. Non. Sept. CI<u>C</u>I<u>C</u>CLXXV. (Sept. 3,
-1675.) <span id="fr_85"></span>[1](#fn_84)
+1675.) <span id="fr_85"></span>[1](#fn_84.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_82"></span>[410:1](corr73.htm#fr_83) The whole of this very
+<span id="fn_82"></span>[410:1](corr73.htm#fr_83.md) The whole of this very
 long letter is not given here, but only such parts as seemed most
 characteristic, or are alluded to in Spinoza's reply.—\[<span
 class="smallcaps">Tr.</span>\]
 
-<span id="fn_83"></span>[411:1](corr73.htm#fr_84) "Tractatus
+<span id="fn_83"></span>[411:1](corr73.htm#fr_84.md) "Tractatus
 Theologico-Politicus."
 
-<span id="fn_84"></span>[414:1](corr73.htm#fr_85) There is a kind of
+<span id="fn_84"></span>[414:1](corr73.htm#fr_85.md) There is a kind of
 affectation very consistent with the letter in the use of the classical
 calendar and Roman numerals for the date. \[*The underlined 'Cs' in the
 date are reversed in the original—JBH*.\]
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXXIV. To Burgh](corr74)
+[Next: Letter LXXIV. To Burgh](corr74.md)

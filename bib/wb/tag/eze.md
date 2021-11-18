@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](lam)  [Next](dan) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](lam)  [Next](dan.md) 
 
 ------------------------------------------------------------------------
 
@@ -5825,4 +5825,4 @@ araw na yaon ay, Ang Panginoon ay naroroon.
 
 ------------------------------------------------------------------------
 
-[Next: Daniel](dan)
+[Next: Daniel](dan.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim60)  [Next](sim62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim60)  [Next](sim62.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ They lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Rabbit Brothers](sim62)
+[Next: The Rabbit Brothers](sim62.md)

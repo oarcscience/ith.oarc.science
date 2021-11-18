@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss21)  [Next](oss23) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss21)  [Next](oss23.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ leans on the shield of Trenmor; his spear stands against the wall; he
 listens to the songs of his bards. The deeds of his arm are heard; the
 actions of the king in his youth! Oscar had returned from the chase, and
 heard the hero's praise. He took the shield of Branno  <span
-id="fr_61"></span>[1](#fn_61) from the wall; his eyes were filed with
+id="fr_61"></span>[1](#fn_61.md) from the wall; his eyes were filed with
 tears. Red was the cheek of youth. His voice was trembling low. My spear
 shook its bright head in his hand: he spoke to Morven's king.
 
@@ -59,7 +59,7 @@ to Inis-thona's king, that Fingal remembers his youth; when we strove in
 the combat together, in the days of Agandecca."
 
 They lifted up the sounding sail: the wind whistled through the thongs
- <span id="fr_62"></span>[1](#fn_62) of their masts. Waves lashed the
+ <span id="fr_62"></span>[1](#fn_62.md) of their masts. Waves lashed the
 oozy rocks: the strength of ocean roars. My son beheld, from the wave,
 the land of groves. He rushed into Runa's sounding bay, and sent his
 sword to Annir of spears. The gray-headed hero rose, when he saw the
@@ -81,7 +81,7 @@ of death from Lano. Come, to share the feast of Annir, son of echoing
 Morven?
 
 Three days they feasted together. On the fourth, Annir heard the name of
-Oscar. They rejoiced in the shell.  <span id="fr_63"></span>[1](#fn_63)
+Oscar. They rejoiced in the shell.  <span id="fr_63"></span>[1](#fn_63.md)
 They pursued the boars of Runa. Beside the fount of mossy stones the
 weary heroes rest. The tear steals in secret from Annir: he broke the
 rising sigh. "Here darkly rest," the hero said, "the children of my
@@ -96,9 +96,9 @@ They pursue deer formed of clouds, and bend their airy bow. They still
 love the sport of their youth; and mount the wind with joy."
 
 "Cormalo," replied the king, "is a chief of ten thousand spears. He
-dwells at the waters of Lano  <span id="fr_64"></span>[2](#fn_64) which
+dwells at the waters of Lano  <span id="fr_64"></span>[2](#fn_64.md) which
 sends forth the vapor of death. He came to Runa's echoing halls, and
-sought the honor of the spear. <span id="fr_65"></span>[3](#fn_65) The
+sought the honor of the spear. <span id="fr_65"></span>[3](#fn_65.md) The
 youth was lovely as the first beam of
 
 <span id="page_283">p. 283</span>
@@ -169,23 +169,23 @@ not the dreams of Ossian!
 
 ### Footnotes
 
-<span id="fn_61"></span>[280:1](oss22.htm#fr_61) The father of
+<span id="fn_61"></span>[280:1](oss22.htm#fr_61.md) The father of
 Everallin, and grandfather to Oscar.
 
-<span id="fn_62"></span>[281:1](oss22.htm#fr_62) Leather thongs were
+<span id="fn_62"></span>[281:1](oss22.htm#fr_62.md) Leather thongs were
 used among the Celtic nations, instead of ropes.
 
-<span id="fn_63"></span>[282:1](oss22.htm#fr_63) To "rejoice in the
+<span id="fn_63"></span>[282:1](oss22.htm#fr_63.md) To "rejoice in the
 shell," is a phrase for feasting sumptuously and drinking freely.
 
-<span id="fn_64"></span>[282:2](oss22.htm#fr_64) Lano was a lake of
+<span id="fn_64"></span>[282:2](oss22.htm#fr_64.md) Lano was a lake of
 Scandinavia, remarkable in the days of Ossian for emitting a
 pestilential vapor in autumn.
 
-<span id="fn_65"></span>[282:3](oss22.htm#fr_65) By "the honor of the
+<span id="fn_65"></span>[282:3](oss22.htm#fr_65.md) By "the honor of the
 spear," is meant the tournament practised among the ancient northern
 nations.
 
 ------------------------------------------------------------------------
 
-[Next: The Songs of Selma](oss23)
+[Next: The Songs of Selma](oss23.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi038)  [Next](mtsi040) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi038)  [Next](mtsi040.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ since.
 ------------------------------------------------------------------------
 
 [Next: 38. Why the Opossum Has No Hair On His Tail (Second
-Story)](mtsi040)
+Story)](mtsi040.md)

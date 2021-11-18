@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst05)  [Next](mst07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst05)  [Next](mst07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -414,7 +414,7 @@ high point in the friendship of these two remarkable men.
 
 It soon became apparent to Nostradamus that Scaliger had invited him to
 Agen in the hope of making him a brilliant satellite to his own glory.
-[Scaliger](errata.htm#3) had no desire nor intention to share that with
+[Scaliger](errata.htm#3.md) had no desire nor intention to share that with
 any man. He was annoyed at the storm of popularity which the younger man
 attracted, and at every manifestation of it he found it harder not to
 show his jealousy. Nostradamus could not but notice Scaliger's
@@ -491,7 +491,7 @@ of them.
 Splendor enough to blind Charles of Spain and some others I could
 mention."
 
-"The *duchessina*, is she [beautiful](errata.htm#4)?" Scaliger wanted to
+"The *duchessina*, is she [beautiful](errata.htm#4.md)?" Scaliger wanted to
 know.
 
 "We-ell, you know how it is at these public weddings. About all you can
@@ -851,4 +851,4 @@ question.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five: The Plague Returns](mst07)
+[Next: Chapter Five: The Plague Returns](mst07.md)

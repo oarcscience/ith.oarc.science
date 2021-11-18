@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr03)  [Next](ppr05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr03)  [Next](ppr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ May Accad's race forever worship thee!
 
 ------------------------------------------------------------------------
 
-[Next: Apache Prayer (American)](ppr05)
+[Next: Apache Prayer (American)](ppr05.md)

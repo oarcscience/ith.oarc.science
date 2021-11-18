@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi289)  [Next](mtsi291) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi289)  [Next](mtsi291.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ couldn't outrun me."
 
 ------------------------------------------------------------------------
 
-[Next: 26. The Crane and the Humming Bird](mtsi291)
+[Next: 26. The Crane and the Humming Bird](mtsi291.md)

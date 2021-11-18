@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah02)  [Next](toah04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah02)  [Next](toah04.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ beginning, all life and everything was good in peace and happy. The
 people were governed by the chiefs (*Mongwi*), village criers
 (*Chakmongwi*), priests (*Momwit*), and high priests and all their
 religious rites were ruled by the high priests. The people were classed
-as common, middle, and first class. [1](toah24.htm#xref_1)
+as common, middle, and first class. [1](toah24.htm#xref_1.md)
 
 The time came when the common and middle class of people grew wise to
 the doings of the priests and the high priests. All the days of their
@@ -49,7 +49,7 @@ would refuse to let them in. Some women had declared that they would
 <span id="page_8">p. 8</span>
 
 not let their husbands in, so they put their belongings outside of their
-doors. [2](toah24.htm#xref_2)
+doors. [2](toah24.htm#xref_2.md)
 
 The men left the kiva one by one, going to their homes to try their
 wives, but finding their things outside, they had to go to the homes of
@@ -84,7 +84,7 @@ call. These wise men were named Kotiwa, Tani, Sootiwa, Komay, Seytiwa,
 Nawiki, and Kowisa, and they were the best of all wise men, with high
 ideals. But everything was for the chief to say in those days, so he
 asked every wise man to come to his counsel on the fourth
-day, [3](toah24.htm#xref_3) out at a distant place away from the people.
+day, [3](toah24.htm#xref_3.md) out at a distant place away from the people.
 
 The day came and the chief was out early that morning. With his bag of
 tobacco and pipes he was waiting for his wise men to come to the
@@ -101,7 +101,7 @@ then looked up to the chief, saying, "Father." In return the chief said,
 "My son." The pipe was passed on around in the same manner to every man.
 After the chief's pipe was all smoked out, every man filled his own
 pipe. Every pipe was first handed to the chief. Here they had their
-fatherly and brotherly smoke. [4](toah24.htm#xref_4)
+fatherly and brotherly smoke. [4](toah24.htm#xref_4.md)
 
 When the smoking was done the chief said, "My dear fellowmen, I pray in
 hopes that the gods, our fathers, get the smell of our smoking that they
@@ -126,7 +126,7 @@ are from the very hearts of you and are true."
 they are true."
 
 "Very well, my fellowmen, I thank you. We will get busy at once.
-Tomorrow we will make *pahos* [5](toah24.htm#xref_5) (prayer offerings)
+Tomorrow we will make *pahos* [5](toah24.htm#xref_5) (prayer offerings.md)
 for our gods asking for the mercy and blessings that they bring upon us.
 I, the chief, Yai-hiwa, again thank you all. Be here earlier tomorrow."
 
@@ -186,8 +186,8 @@ of the gods, and all this was done. And again the chief looked up and
 said, "My dear fellowmen, our work is done so far, but we must have
 someone--we must call somebody who is wiser than we are to do the rest,
 or to finish the work for us. So let us now sing the calling
-song." [6](toah24.htm#xref_6) With this song they called the mocking
-bird, *Yapa*. [6a](toah24.htm#xref_6a) Now when he came he asked them,
+song." [6](toah24.htm#xref_6.md) With this song they called the mocking
+bird, *Yapa*. [6a](toah24.htm#xref_6a.md) Now when he came he asked them,
 "Why do you want me? What can I do for you?"
 
 <span id="page_11">p. 11</span>
@@ -204,7 +204,7 @@ mocking bird was called.
 After receiving the prayer sticks the mocking bird said, "Yes, I am
 called a wise bird and one that knows everything, and of the songs I
 know all. But there is still somebody higher than I and he is above me,
-and this one is the canary bird, *Si-katsi*. [6b](toah24.htm#xref_6b)
+and this one is the canary bird, *Si-katsi*. [6b](toah24.htm#xref_6b.md)
 Make no mistakes, call him. If he comes and says for me to help you,
 then I will, for he is still the wisest of all and his advice we must
 follow. Now I must go and hide for I do not want him to know and grow
@@ -269,7 +269,7 @@ call first? Who would have the courage and strength to go out to find a
 place for these Hopis to go, where they might rest and live in peace?
 The two Birdmen knowing all things, the Hopis left everything to them
 that there might be no more trouble. So they first called the eagle,
-*Kwa-hu*. [6c](toah24.htm#xref_6c) At the end of every song the sacred
+*Kwa-hu*. [6c](toah24.htm#xref_6c.md) At the end of every song the sacred
 water was sprinkled to each direction.
 
 As they were singing the eagle came and sat in the midst of them and
@@ -321,7 +321,7 @@ them to the finish, and, of course, he was glad to be with them.
 By this time the two leaders--canary and mocking bird--thought of
 someone else to call. Again they were singing the calling song, and in
 singing the song it was mentioned who they wanted. Before the fourth
-song was half sung, a hawk, *Ki-sa* [6d](toah24.htm#xref_6d) came and
+song was half sung, a hawk, *Ki-sa* [6d](toah24.htm#xref_6d.md) came and
 circled above once and sat down in the midst of them and said, "Why do
 you call me? Why do you want me?"
 
@@ -399,7 +399,7 @@ again to the gods. After this was said and done, they started singing
 the calling ceremony again, but they did not know who they were calling
 this time. Before long something came and just went "whip," sounding
 like a whip over their heads many times and then sat down in the midst
-of them, and he was a swallow, *Powvowkiaya*. [6e](toah24.htm#xref_6e)
+of them, and he was a swallow, *Powvowkiaya*. [6e](toah24.htm#xref_6e.md)
 
 He said, "Here I am."
 
@@ -463,7 +463,7 @@ smoke and to pray some more, and of course they were very silent.
 
 Finally the canary bird spoke up and said, "My dear fellowmen, we will
 make our last try so we will call brother shrike,
-*Si-katsi* [6f](toah24.htm#xref_6f) and see what he can do for us. He is
+*Si-katsi* [6f](toah24.htm#xref_6f.md) and see what he can do for us. He is
 pretty wise too, so cheerfully come to the altar and we will sing
 again."
 
@@ -552,7 +552,7 @@ so if there is anyone present to give us advice of what is to be done
 next, I would like to hear him."
 
 "It is I, who am called Kochoilaftiyo (the poker
-boy [7](toah24.htm#xref_7)) said a boy who was sitting way in the back.
+boy [7](toah24.htm#xref_7).md) said a boy who was sitting way in the back.
 They did not even know that he was with them all this time, for he was
 ranked and considered as of the low class people.
 
@@ -606,7 +606,7 @@ power."
 
 They filled up their pipes and smoked again, to carry their earnest
 prayers to the gods. After this was done, the little chipmunk reached
-into his bag for his tree seeds. [8](toah24.htm#xref_8) "This," he said,
+into his bag for his tree seeds. [8](toah24.htm#xref_8.md) "This," he said,
 "is a spruce. We will try it first." He put it in his mouth and sang
 four of his magic songs. Then he took it out and set it in the ground in
 front of him, watching it very closely. Again he reached into his little
@@ -661,7 +661,7 @@ troubled and crying in their hearts to think that the trees had failed
 to reach the opening in the sky. The chipmunk, with a broken heart,
 filled up his little pipe and smoked, thinking very hard of what he
 could do next, because he thought himself powerless and knew that only
-his gods had [unlimited](errata.htm#0) power so with his smoking he
+his gods had [unlimited](errata.htm#0.md) power so with his smoking he
 prayed the gods for more wisdom. He could see that every heart was sad
 for the men were sitting around with their heads down upon their folded
 arms over their knees.
@@ -744,7 +744,7 @@ their way into the reed with the rest of the people. So the chief told
 the wise men to make their pahos for each four directions. These were to
 represent the closing of all the different trails from all directions.
 When these were made he sent out the One Horned
-Society [10](toah24.htm#xref_10) or priests who were supposed to guard
+Society [10](toah24.htm#xref_10.md) or priests who were supposed to guard
 the North and West, and the Two Horned priests to guard the South and
 East. When they got to the four directions they made four lines out of
 sacred corn meal about six feet long and on both ends of the lines they
@@ -814,4 +814,4 @@ tree kind of shrunk in between them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Masauwu](toah04)
+[Next: Chapter II. Masauwu](toah04.md)

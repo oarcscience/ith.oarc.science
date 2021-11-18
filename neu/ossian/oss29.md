@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss28)  [Next](oss30) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss28)  [Next](oss30.md) 
 
 ------------------------------------------------------------------------
 
@@ -320,4 +320,4 @@ the deep.
 
 ------------------------------------------------------------------------
 
-[Next: Lathmon](oss30)
+[Next: Lathmon](oss30.md)

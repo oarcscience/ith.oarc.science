@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tigs02)  [Next](tigs04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tigs02)  [Next](tigs04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -378,7 +378,7 @@ Some years ago a family had very uncanny experiences in a house in
 Rathgar, and subsequently in another in Rathmines. These were
 communicated by one of the young ladies to Mrs. M. A. Wilkins, who
 published them in the *Journal* of the American S.P.R., <span
-id="fr_0"></span>[1](#fn_0) from which they are here taken. The Rathgar
+id="fr_0"></span>[1](#fn_0.md) from which they are here taken. The Rathgar
 house had a basement passage leading to a door into the yard, and along
 this passage her mother and the children used to hear dragging, limping
 steps, and the latch of the door rattling, but no one could ever be
@@ -442,7 +442,7 @@ the case were closely cross-examined, but without shaking their
 testimony. The facts appeared to be proved, so the jury found for
 Kiernan, the defendant. At least twenty persons had testified on oath to
 the fact that the house had been known to have been haunted. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 Before leaving the city and its immediate surroundings, we must relate
 the story of an extraordinary ghost, somewhat lacking in good manners,
@@ -594,7 +594,7 @@ attitude to adopt!
 A haunted house in Kingstown, Co. Dublin, was investigated by Professor
 W. Barrett and Professor Henry Sidgwick. The story is singularly well
 attested (as one might expect from its being inserted in the pages of
-the *Proceedings S.P.R.* <span id="fr_2"></span>[1](#fn_2)), as the
+the *Proceedings S.P.R.* <span id="fr_2"></span>[1](#fn_2).md), as the
 apparition was seen on three distinct occasions, and by three separate
 persons who were all personally known to the above gentlemen. The house
 in which the following occurrences took place is described as being a
@@ -659,13 +659,13 @@ years previously, and that it was reported to be haunted.
 
 ### Footnotes
 
-<span id="fn_0"></span>[18:1](tigs03.htm#fr_0) For September 1913.
+<span id="fn_0"></span>[18:1](tigs03.htm#fr_0.md) For September 1913.
 
-<span id="fn_1"></span>[21:1](tigs03.htm#fr_1) See *Sights and Shadows*,
+<span id="fn_1"></span>[21:1](tigs03.htm#fr_1.md) See *Sights and Shadows*,
 p. 42 ff.
 
-<span id="fn_2"></span>[28:1](tigs03.htm#fr_2) July 1884, p. 141.
+<span id="fn_2"></span>[28:1](tigs03.htm#fr_2.md) July 1884, p. 141.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Haunted Houses in Conn's Half](tigs04)
+[Next: Chapter II. Haunted Houses in Conn's Half](tigs04.md)

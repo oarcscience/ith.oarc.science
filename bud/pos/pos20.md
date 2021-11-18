@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos19)  [Next](pos21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos19)  [Next](pos21.md) 
 
 ------------------------------------------------------------------------
 
-## <span id="C-XV">CANTO XV</span> [<sup>396</sup>](pos20.htm#156-1) PSALM OF OVER FORTY VERSES
+## <span id="C-XV">CANTO XV</span> [<sup>396</sup>](pos20.htm#156-1.md) PSALM OF OVER FORTY VERSES
 
 ### <span id="LXXII">LXXII Isidāsī.</span>
 
@@ -20,9 +20,9 @@ was, when of age, married to the son of a caravan-leader named Giridāsa.
 Now the wife that he had was virtuous and of noble qualities, and the
 new wife envied her, and quarrelled with the husband because of her.
 After her death she was, in this Buddha-era, reborn at Ujjenī
-[<sup>397</sup>](pos20.htm#156-2) as the daughter of a virtuous,
+[<sup>397</sup>](pos20.htm#156-2.md) as the daughter of a virtuous,
 honoured and wealthy merchant, and was named Isidāsī.
-[<sup>398</sup>](pos20.htm#156-3) When she was of age, her parents gave
+[<sup>398</sup>](pos20.htm#156-3.md) When she was of age, her parents gave
 her in marriage to a merchant's son, a good match with herself. For a
 month she dwelt with him as a devoted wife; then, as the fruit of her
 previous actions, her husband became estranged from her, and turned her
@@ -232,11 +232,11 @@ Well! of all that now have I made an end! (447)</span></p></td>
 <span id="156-1"></span>
 
 > <sup>396</sup> On this curious Psalm see
-> [Introduction.](pos04.htm#INTRODUCTION)
+> [Introduction.](pos04.htm#INTRODUCTION.md)
 
 <span id="156-2"></span>
 
-> <sup>397</sup> See *n.* to verse [405](pos20.htm#405).
+> <sup>397</sup> See *n.* to verse [405](pos20.htm#405.md).
 
 <span id="156-3"></span>
 
@@ -277,7 +277,7 @@ Well! of all that now have I made an end! (447)</span></p></td>
 
 > <sup>403</sup> *Vinayadharā*, who could repeat the Vinaya-Pitaka. This
 > proficiency was Paṭācārā's to a special degree. See [Ps.
-> xlvii.](pos10.htm#XLVII); *Ang. Nik.*, i. 25.
+> xlvii.](pos10.htm#XLVII.md); *Ang. Nik.*, i. 25.
 
 <span id="161-1"></span>
 
@@ -326,4 +326,4 @@ Well! of all that now have I made an end! (447)</span></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto XVI. Psalms of The Great Chapter](pos21)
+[Next: Canto XVI. Psalms of The Great Chapter](pos21.md)

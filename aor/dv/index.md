@@ -1,8 +1,8 @@
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index) 
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../cdshop/ithlogo.png)](../../index)  
+[![](../../cdshop/ithlogo.png)](../../index.md)  
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](v1title)  
+[Contents](#contents)    [Start Reading](v1title.md)  
 
 ------------------------------------------------------------------------
 
@@ -68,25 +68,25 @@ formatting to match the copytext and hyperlinking.
 
 ### Vol. I
 
-[Title Page](v1title)  
-[Preface](v1pref)  
-[Contents of Volume I](v1cont)  
-[List of Illustrations in Volume I](v1illu)  
+[Title Page](v1title.md)  
+[Preface](v1pref.md)  
+[Contents of Volume I](v1cont.md)  
+[List of Illustrations in Volume I](v1illu.md)  
 [I. Prolegomena and General Introduction to the Book on
-Painting](dvs000)  
-[II. Linear Perspective](dvs001)  
-[III. Six Books on Light and Shade](dvs002)  
-[Plates II-XXXV](dvs003)  
-[IV. Perspective of Disappearance](dvs004)  
-[V. Theory of Colours](dvs005)  
-[VI. Perspective of Colour and Aerial Perspective](dvs006)  
+Painting](dvs000.md)  
+[II. Linear Perspective](dvs001.md)  
+[III. Six Books on Light and Shade](dvs002.md)  
+[Plates II-XXXV](dvs003.md)  
+[IV. Perspective of Disappearance](dvs004.md)  
+[V. Theory of Colours](dvs005.md)  
+[VI. Perspective of Colour and Aerial Perspective](dvs006.md)  
 [VII. On the Proportions and on the Movements of the Human
-Figure](dvs007)  
-[Plates XXXVI-LXIV](dvs008)  
-[VIII. Botany for Painters and Elements of Landscape Painting](dvs009)  
-[IX. The Practice of Painting](dvs010)  
-[X. Studies and Sketches for Pictures and Decorations](dvs011)  
-[Duplicate Plates (vol. I)](dvs012)  
+Figure](dvs007.md)  
+[Plates XXXVI-LXIV](dvs008.md)  
+[VIII. Botany for Painters and Elements of Landscape Painting](dvs009.md)  
+[IX. The Practice of Painting](dvs010.md)  
+[X. Studies and Sketches for Pictures and Decorations](dvs011.md)  
+[Duplicate Plates (vol. I)](dvs012.md)  
 
 ------------------------------------------------------------------------
 
@@ -94,21 +94,21 @@ Figure](dvs007)
 
 ### Vol. II
 
-[Title Page](dv20000)  
-[Contents of Volume II](v2cont)  
-[List of Illustrations in Volume II.](v2illu)  
-[XI. The Notes on Sculpture](dvs013)  
-[XII. Architectural Designs](dvs014)  
-[XIII. Theoretical Writings on Architecture](dvs015)  
-[XIV. Anatomy, Zoology and Physiology](dvs016)  
-[Plates LXVI-XCVI](dvs017)  
-[XV. Astronomy](dvs018)  
-[XVI. Physical Geography](dvs019)  
-[XVII. Topographical Notes](dvs020)  
-[XVIII. Naval Warfare. Mechanical Appliances. Music.](dvs021)  
-[XIX. Philosophical Maxims. Morals. Polemics and Speculations](dvs022)  
-[Plates XCII-CXXII](dvs023)  
-[XX. Humorous Writings](dvs024)  
-[XXI. Letters. Personal Records. Dated Notes](dvs025)  
-[XXII. Miscellaneous Notes](dvs026)  
-[Duplicate Plates (vol. II)](dvs027)  
+[Title Page](dv20000.md)  
+[Contents of Volume II](v2cont.md)  
+[List of Illustrations in Volume II.](v2illu.md)  
+[XI. The Notes on Sculpture](dvs013.md)  
+[XII. Architectural Designs](dvs014.md)  
+[XIII. Theoretical Writings on Architecture](dvs015.md)  
+[XIV. Anatomy, Zoology and Physiology](dvs016.md)  
+[Plates LXVI-XCVI](dvs017.md)  
+[XV. Astronomy](dvs018.md)  
+[XVI. Physical Geography](dvs019.md)  
+[XVII. Topographical Notes](dvs020.md)  
+[XVIII. Naval Warfare. Mechanical Appliances. Music.](dvs021.md)  
+[XIX. Philosophical Maxims. Morals. Polemics and Speculations](dvs022.md)  
+[Plates XCII-CXXII](dvs023.md)  
+[XX. Humorous Writings](dvs024.md)  
+[XXI. Letters. Personal Records. Dated Notes](dvs025.md)  
+[XXII. Miscellaneous Notes](dvs026.md)  
+[Duplicate Plates (vol. II)](dvs027.md)  

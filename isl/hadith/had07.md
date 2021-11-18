@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had06)  [Next](had08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had06)  [Next](had08.md) 
 
 ------------------------------------------------------------------------
 
@@ -876,4 +876,4 @@ giving an advice which was not based on knowledge.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: The Mosque](had08)
+[Next: Chapter V: The Mosque](had08.md)

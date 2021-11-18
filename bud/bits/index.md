@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index)
+[Sacred-Texts](../../index) [Buddhism](../index.md)
 
 ------------------------------------------------------------------------
 

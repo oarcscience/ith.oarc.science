@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd04)  [Next](smd06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd04)  [Next](smd06.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ during March that the days rapidly become longer.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. April--The Month of Venus](smd06)
+[Next: Chapter IV. April--The Month of Venus](smd06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](ycw01)  [Next](ycw03) 
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](ycw01)  [Next](ycw03.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ home, and there is probably no family in China without it; but its
 contents are very little known in the. Western world, and we have only
 once met with references to it by Professor Douglas in his *Confucianism
 and Taouism* under the title of "Book of Secret Blessings." <span
-id="fr_3:1"></span>[1](#fn_3:1)
+id="fr_3:1"></span>[1](#fn_3:1.md)
 
 ### YIN CHIH.
 
@@ -43,7 +43,7 @@ without further explanation.
 The word *chih* is used both as verb and as noun. As a verb it means "to
 determine," "to raise"; as a noun it may be defined by "principle,"
 "rule," "method," "dispensation," "way." <span
-id="fr_4:1"></span>[1](#fn_4:1) The word *yin* means "in secret," either
+id="fr_4:1"></span>[1](#fn_4:1.md) The word *yin* means "in secret," either
 in the sense of "unheeded" or "unostentatious." It also conveys the idea
 of anything possessed with a deeper meaning, anything mysterious; and
 the two words together, *yin chih*, denote the quiet way of Heaven,
@@ -367,18 +367,18 @@ P. C.
 
 ------------------------------------------------------------------------
 
-[Next: The Tract of the Quiet Way.](ycw03)
+[Next: The Tract of the Quiet Way.](ycw03.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_3:1"></span>[3:1](#fr_3:1) Professor Douglas's book is one
+<span id="fn_3:1"></span>[3:1](#fr_3:1.md) Professor Douglas's book is one
 in the series of *Non-Christian Religious Systems* published by the
 Society for the Advancement of Christian Knowledge. His reference to the
 *Yin Chih Wen* is made on pp. 256 and 272.
 
-<span id="fn_4:1"></span>[4:1](#fr_4:1) The character is presumably
+<span id="fn_4:1"></span>[4:1](#fr_4:1.md) The character is presumably
 phonetic. It consists of the radical "horse," which is modified by the
 symbol "to ascend," "to go up higher," the latter being a compound of
 "higher" and "to step up." In common language the word *chih* means

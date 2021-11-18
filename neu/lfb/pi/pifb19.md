@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb18)  [Next](pifb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb18)  [Next](pifb20.md) 
 
 </div>
 
@@ -165,6 +165,6 @@ all that remained of her.
 
 ------------------------------------------------------------------------
 
-[Next: I Know What I Have Learned](pifb20)
+[Next: I Know What I Have Learned](pifb20.md)
 
 </div>

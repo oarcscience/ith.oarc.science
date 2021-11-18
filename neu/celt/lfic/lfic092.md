@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic091)  [Next](lfic093) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic091)  [Next](lfic093.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ High Street, to testify their zeal against image worship.
 
 ------------------------------------------------------------------------
 
-[Next: The Fortune of Dichu](lfic093)
+[Next: The Fortune of Dichu](lfic093.md)

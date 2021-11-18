@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljp03)  [Next](ljp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljp03)  [Next](ljp05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ in order that they might thus obtain dominion. And then they assailed
 them from behind and inspired evils into them, for in this way they are
 able to subjugate. But their doings were seen in heaven and they were
 cast into a hell about the western tract of the middle region; <span
-id="fr_18"></span>[154-1](#fn_18) for they were insincerities and also
+id="fr_18"></span>[154-1](#fn_18.md) for they were insincerities and also
 wickednesses - devisers of arts with the end of gain and dominion.
 
 <span class="margnote"><span id="155.">155.</span></span>
@@ -113,7 +113,7 @@ is. They had despised others in comparison with themselves, and had also
 condemned them on account of cares of the world. Most of them had placed
 merit in prayers. Of these also the angels made complaint, especially
 because they induce sadness upon them. They dwelt at the side, <span
-id="fr_19"></span>[157-1](#fn_19) wherefore they were driven away to
+id="fr_19"></span>[157-1](#fn_19.md) wherefore they were driven away to
 their own places; there they retain their worship, but they are driven
 to work. They were brought down into the northern plain because they
 were in ignorance of such things as lead to heaven.
@@ -139,7 +139,7 @@ they may preach and be elevated to higher offices or may gain wealth;
 and thus who live in ease and are merely worldly and not Christians,
 these are sent into a hell in the northern quarter towards the west, far
 from the middle, where a dense fog is seen; and they then become
-stupid. <span id="fr_20"></span>[159-1](#fn_20)
+stupid. <span id="fr_20"></span>[159-1](#fn_20.md)
 
 <span class="margnote"><span id="160.">160.</span></span>
 
@@ -189,10 +189,10 @@ are saved if only they know them. But when they hear that truths are for
 the sake of life, and that so far as truths of life become actual, so
 far truths of faith also live, they then depart, feeling the utmost
 disgust for life, but not so for the truths which are of faith, because
-these they can talk about. <span id="fr_21"></span>[163-1](#fn_21) The
+these they can talk about. <span id="fr_21"></span>[163-1](#fn_21.md) The
 truths of faith which do not live unless truths of life become actually
 such, may be enumerated; and it may be mentioned which are truths of
-faith, and which truths of life. <span id="fr_22"></span>[163-2](#fn_22)
+faith, and which truths of life. <span id="fr_22"></span>[163-2](#fn_22.md)
 
 <span class="margnote"><span id="164.">164.</span></span>
 
@@ -239,13 +239,13 @@ is in heaven from mere intellectual light and not at the same time from
 heavenly heat; they are most dangerous. I saw them cast down from the
 mountain and from the sides of the mountain, and a gulf underneath
 opened itself and swallowed them up, <span
-id="fr_23"></span>[166-1](#fn_23) and they sank deep down and were let
+id="fr_23"></span>[166-1](#fn_23.md) and they sank deep down and were let
 into darkness. For they then received falsities in place of truths, and
 turned themselves to things contrary. Such is the understanding which is
 led by an evil will. The evil who had conjoined themselves with them,
 because they no longer had the power of resistance, were cast down into
 their various hells, some into hells under the mountains, others into
-hells under the plains. <span id="fr_24"></span>[166-2](#fn_24)
+hells under the plains. <span id="fr_24"></span>[166-2](#fn_24.md)
 
 <span class="margnote"><span id="167.">167.</span></span>
 
@@ -256,7 +256,7 @@ love from Him. They stirred up all, except those who were in the eastern
 quarter, these were guarded by the Lord, even to certain Mohammedans who
 were in the northern quarter. They sent forth companies of fifty to many
 places, in order that they might stir up those who were there; <span
-id="fr_25"></span>[167-1](#fn_25) and those who remained and directed
+id="fr_25"></span>[167-1](#fn_25.md) and those who remained and directed
 were divided into companies of ten. Their purpose was to destroy all
 those who acknowledged the Lord alone, and works together with faith as
 being saving. Almost all of them were without religion, and hence
@@ -283,7 +283,7 @@ one is not given without the other, therefore they save conjointly.
 \[168\] The combat of the Dragon with Michael was afterwards as follows,
 for it lasted some days: A hand was seen stretched out over the heavens
 by the Lord. In the western quarter towards the west <span
-id="fr_26"></span>[168-1](#fn_26) there appeared as it were a great back
+id="fr_26"></span>[168-1](#fn_26.md) there appeared as it were a great back
 raised above the middle towards heaven; angels in immense number were
 seen there. In that entrance were the dragonists; and they spoke with
 them concerning the Lord and concerning the goods of charity and thence
@@ -293,7 +293,7 @@ concerning faith alone which they had in the world; and then most of
 them had no Divine idea of the Lord, nor any idea of charity and works.
 The angels answered them wisely on this matter, but in vain. They said,
 moreover, that all the angels in the heavens do not perceive the matter
-thus; but it was in vain. <span id="fr_27"></span>[168-2](#fn_27) And at
+thus; but it was in vain. <span id="fr_27"></span>[168-2](#fn_27.md) And at
 last, after the combat, when the dragonists were only willing to give
 further response outside of the matter or the truth, but could not, they
 were adjudged to be cast down from every place where such spirits were.
@@ -309,7 +309,7 @@ heavens; and then the earth was seen to open, and they were cast down
 and were covered over with a dense cloud. They were all such as would
 never have abstained from thinking and willing evils but only from doing
 them by reason of fear. This happened in 1757 on the 11th day of
-April. <span id="fr_28"></span>[168-3](#fn_28) From the southern quarter
+April. <span id="fr_28"></span>[168-3](#fn_28.md) From the southern quarter
 to the western the dragonists were seen in a curved line under the
 figure of a tail; at the south, there, were those who had been skilled
 in the degrees of justification and had confirmed these with themselves.
@@ -370,7 +370,7 @@ Divine, although they had known of it. (3) They who have acknowledged
 three Persons and have not made them one God by essence; these are
 specially distinguished. (4) They who have an idea solely of the Father;
 these are without a God. (5) They who have not believed in the Lord from
-eternity. <span id="fr_29"></span>[171-1](#fn_29)
+eternity. <span id="fr_29"></span>[171-1](#fn_29.md)
 
 <span class="margnote"><span id="172.">172.</span></span>
 
@@ -384,12 +384,12 @@ the hells, and afterwards are in the hells.
 <span class="margnote"><span id="173.">173.</span></span>
 
 \[173\] They who were in faith alone persecuted me. They brought
-persecution upon me <span id="fr_30"></span>[173-1](#fn_30) by bringing
+persecution upon me <span id="fr_30"></span>[173-1](#fn_30.md) by bringing
 me into a state like that in which they themselves were by means of a
 like respiration and a like pulse; thus also into like thought and
 affection. And, in respect to God and salvation, I was in an obscure
 cloudiness as though immersed in water; and it was perceived that I had
-no communication <span id="fr_31"></span>[173-2](#fn_31) with heaven;
+no communication <span id="fr_31"></span>[173-2](#fn_31.md) with heaven;
 and it was said that they have a similar communication.
 
 <span class="margnote"><span id="174.">174.</span></span>
@@ -815,39 +815,39 @@ hear preachings.
 
 ### Footnotes
 
-<span id="fn_18"></span>[154-1](ljp04.htm#fr_18) See SE 5398.
+<span id="fn_18"></span>[154-1](ljp04.htm#fr_18.md) See SE 5398.
 
-<span id="fn_19"></span>[157-1](ljp04.htm#fr_19) See SE 5392.
+<span id="fn_19"></span>[157-1](ljp04.htm#fr_19.md) See SE 5392.
 
-<span id="fn_20"></span>[159-1](ljp04.htm#fr_20) See SE 5514.
+<span id="fn_20"></span>[159-1](ljp04.htm#fr_20.md) See SE 5514.
 
-<span id="fn_21"></span>[163-1](ljp04.htm#fr_21) See SE 5540, 5541.
+<span id="fn_21"></span>[163-1](ljp04.htm#fr_21.md) See SE 5540, 5541.
 
-<span id="fn_22"></span>[163-2](ljp04.htm#fr_22) Tafel has, delati,
+<span id="fn_22"></span>[163-2](ljp04.htm#fr_22.md) Tafel has, delati,
 possibly it is detecti. See SE 5696, 5698.
 
-<span id="fn_23"></span>[166-1](ljp04.htm#fr_23) See SE 5698.
+<span id="fn_23"></span>[166-1](ljp04.htm#fr_23.md) See SE 5698.
 
-<span id="fn_24"></span>[166-2](ljp04.htm#fr_24) See SE 5699.
+<span id="fn_24"></span>[166-2](ljp04.htm#fr_24.md) See SE 5699.
 
-<span id="fn_25"></span>[167-1](ljp04.htm#fr_25) See SE 5731 1/2, 5758.
+<span id="fn_25"></span>[167-1](ljp04.htm#fr_25.md) See SE 5731 1/2, 5758.
 
-<span id="fn_26"></span>[168-1](ljp04.htm#fr_26) The M.S. has,
+<span id="fn_26"></span>[168-1](ljp04.htm#fr_26.md) The M.S. has,
 ocvcidentem, "west." In SE 5742 it is septentrionalem, "north."
 
-<span id="fn_27"></span>[168-2](ljp04.htm#fr_27) See SE 5722.
+<span id="fn_27"></span>[168-2](ljp04.htm#fr_27.md) See SE 5722.
 
-<span id="fn_28"></span>[168-3](ljp04.htm#fr_28) See SE 5746.
+<span id="fn_28"></span>[168-3](ljp04.htm#fr_28.md) See SE 5746.
 
-<span id="fn_29"></span>[171-1](ljp04.htm#fr_29) See SE 5821.
+<span id="fn_29"></span>[171-1](ljp04.htm#fr_29.md) See SE 5821.
 
-<span id="fn_30"></span>[173-1](ljp04.htm#fr_30) Tafel has, eamque mihi
+<span id="fn_30"></span>[173-1](ljp04.htm#fr_30.md) Tafel has, eamque mihi
 intulerunt; the MS., me persecuti mihi intulerunt. In SE 5827 it is, Se
 congregarunt, et violentiam inferebant, "They gathered themselves
 together, and inflicted violence."
 
-<span id="fn_31"></span>[173-2](ljp04.htm#fr_31) See SE 5827.
+<span id="fn_31"></span>[173-2](ljp04.htm#fr_31.md) See SE 5827.
 
 ------------------------------------------------------------------------
 
-[Next: 201-250](ljp05)
+[Next: 201-250](ljp05.md)

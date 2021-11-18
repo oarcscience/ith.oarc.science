@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb49)  [Next](ptb51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb49)  [Next](ptb51.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 UNDER this head of inquiry, a general and cursory investigation, only,
 can be performed; and an attempt to dive into minute particulars would
 be fruitless, and would prove to be merely a vain search after things
-not open to discovery. <span id="fr_138"></span>[2](#fn_138)
+not open to discovery. <span id="fr_138"></span>[2](#fn_138.md)
 
 The place, whence inferences are drawn respecting brothers and sisters,
 is to be considered as being applicable only to children of the same
@@ -34,10 +34,10 @@ If, however, the malefics should be in elevation over this place, or be
 hostilely situated in opposition thereto, the brothers and sisters will
 then be few in number; and this fewness especially follows when the
 malefics may surround the Sun. Should the hostile configuration be
-presented from the other angles, <span id="fr_139"></span>[1](#fn_139)
+presented from the other angles, <span id="fr_139"></span>[1](#fn_139.md)
 and, particularly, if from the ascendant, Saturn will then represent the
 elder born; and Mars, by inflicting death, will diminish the total
-number of brothers and sisters. <span id="fr_140"></span>[2](#fn_140)
+number of brothers and sisters. <span id="fr_140"></span>[2](#fn_140.md)
 
 Again, should the stars, which promise brethren, be favourably
 circumstanced as to their cosmical position, the brethren will be
@@ -64,7 +64,7 @@ fraud.
 
 ### Footnotes
 
-<span id="fn_138"></span>[81:2](ptb50.htm#fr_138) In spite of this
+<span id="fn_138"></span>[81:2](ptb50.htm#fr_138.md) In spite of this
 declaration of the author, it seems, by Whalley's note on this chapter,
 that Cardan maintained that the particular circumstances, liable to
 affect the brothers and sisters, might be inferred by adopting, as an
@@ -72,10 +72,10 @@ ascendant, the degree of the planet holding chief dominion over the
 place of brethren, and erecting a scheme thereby; in a mode similar to
 that allowed by Ptolemy in the case of the parents.
 
-<span id="fn_139"></span>[82:1](ptb50.htm#fr_139) That is to say, from
+<span id="fn_139"></span>[82:1](ptb50.htm#fr_139.md) That is to say, from
 the angles in quartile (and therefore hostile also) to the mid-heaven.
 
-<span id="fn_140"></span>[82:2](ptb50.htm#fr_140) The text does not show
+<span id="fn_140"></span>[82:2](ptb50.htm#fr_140.md) The text does not show
 whether it be necessary that Saturn and Mars should both be in the
 ascendant, in order to produce the effect described; nor whether the
 same effect would not follow, if one of them should be in the ascendant,
@@ -83,4 +83,4 @@ and the other in the occidental angle, or even in some other position.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Male or Female](ptb51)
+[Next: Chapter VII. Male or Female](ptb51.md)

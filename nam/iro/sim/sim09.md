@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim08)  [Next](sim10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim08)  [Next](sim10.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ brother and made him promise not to steal the sisters again.
 
 ------------------------------------------------------------------------
 
-[Next: Summer Kills Autumn and is Herself Killed by Winter](sim10)
+[Next: Summer Kills Autumn and is Herself Killed by Winter](sim10.md)

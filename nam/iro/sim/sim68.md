@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim67)  [Next](sim69) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim67)  [Next](sim69.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ This is their story.
 
 ------------------------------------------------------------------------
 
-[Next: Turtle on the War-Path](sim69)
+[Next: Turtle on the War-Path](sim69.md)

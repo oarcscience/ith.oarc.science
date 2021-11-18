@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat06.htm#XXXIV) 
-[Previous](satl033)  [Next](satl035) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat06.htm#XXXIV.md) 
+[Previous](satl033)  [Next](satl035.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ Ergo vivamus, dum licet esse bene.
 
 ------------------------------------------------------------------------
 
-[Next: XXXV](satl035)
+[Next: XXXV](satl035.md)

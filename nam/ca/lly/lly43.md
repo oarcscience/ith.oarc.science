@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly42)  [Next](lly44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly42)  [Next](lly44.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ larvae of ants and other insects.
 
 ------------------------------------------------------------------------
 
-[Next: Dwellings](lly44)
+[Next: Dwellings](lly44.md)

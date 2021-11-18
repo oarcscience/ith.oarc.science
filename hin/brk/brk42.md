@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk41)  [Next](brk43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk41)  [Next](brk43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### XIV. <span class="smallcaps">The False and the True</span> <span id="fr_57"></span>[2](#fn_57)
+#### XIV. <span class="smallcaps">The False and the True</span> <span id="fr_57"></span>[2](#fn_57.md)
 
 "The Self, free from evil, ageless, deathless, sorrowless, hungerless,
 thirstless, real of desire, real of purpose, this should men inquire
@@ -29,7 +29,7 @@ travel, and without being in compact they both came with faggots
 
 <span id="page_92">p. 92</span>
 
-in their hands <span id="fr_58"></span>[1](#fn_58) to Prajā-pati, and
+in their hands <span id="fr_58"></span>[1](#fn_58.md) to Prajā-pati, and
 stayed as Brahman-students for two-and-thirty years.
 
 Then said Prajā-pati to them, "What would ye, that ye have stayed?"
@@ -41,7 +41,7 @@ wins and all desires who traces out and understands this Self. This they
 report to be thy saying, sir; in desire thereof have we stayed."
 
 Then Prajā-pati said to them, "The Being <span
-id="fr_59"></span>[2](#fn_59) who is seen in the eye is the Self"—thus
+id="fr_59"></span>[2](#fn_59.md) who is seen in the eye is the Self"—thus
 he spake—"this is the deathless, the fearless; this is Brahma."
 
 "Then who is he, sir, that is discerned in water and in a mirror?"
@@ -80,7 +80,7 @@ the Self. They who shall follow this doctrine, be they the gods or the
 demons, shall be brought low."
 
 Now Virochana came content of heart to the demons, and declared to them
-this doctrine: "The Self <span id="fr_60"></span>[1](#fn_60) should be
+this doctrine: "The Self <span id="fr_60"></span>[1](#fn_60.md) should be
 gladdened here, the Self should be tended; he that gladdens the Self
 here and tends the Self gains both this world and that beyond."
 Therefore it is that here even now men say of one who is not bountiful
@@ -93,7 +93,7 @@ food and clothing
 and ornament, imagining that therewith they will win the world beyond.
 
 But Indra, ere he reached the gods, foresaw this peril: "Even as this
-\[Self\] <span id="fr_61"></span>[1](#fn_61) wears goodly ornament when
+\[Self\] <span id="fr_61"></span>[1](#fn_61.md) wears goodly ornament when
 this body wears goodly ornament, is finely clothed when it is finely
 clothed, and is attired when it is attired, so likewise this \[Self\]
 becomes blind when this \[body\] is blind, lame when it is lame, maimed
@@ -119,7 +119,7 @@ wanders about rejoicing
 
 <span id="page_95">p. 95</span>
 
-in dreams, <span id="fr_62"></span>[1](#fn_62) is the Self"—thus he
+in dreams, <span id="fr_62"></span>[1](#fn_62.md) is the Self"—thus he
 spake "this is the deathless, the fearless; this is Brahma."
 
 He departed content of heart. But ere he reached the gods, he foresaw
@@ -148,11 +148,11 @@ of it. Stay another two-and-thirty years."
 
 He stayed another two-and-thirty years. Then he said to him: "When one
 sleeps utterly and in perfect peace so that he beholds no dream, <span
-id="fr_63"></span>[1](#fn_63) this is the Self"—thus he spake—"this is
+id="fr_63"></span>[1](#fn_63.md) this is the Self"—thus he spake—"this is
 the deathless, the fearless; this is Brahma."
 
 He departed content of heart. But before he reached the gods, he foresaw
-this peril: "Truly one thus <span id="fr_64"></span>[2](#fn_64) knows no
+this peril: "Truly one thus <span id="fr_64"></span>[2](#fn_64.md) knows no
 longer himself as "I am," nor these creatures. He has sunk into
 destruction. I see no pleasure herein."
 
@@ -175,7 +175,7 @@ so men say, "Verily Maghavā stayed for one hundred and
 one years as Brahman-student with Prajā-pati." Then he said to him:
 "Verily, Maghavā, this body is mortal, held in the grasp of Death; but
 it is the seat of this deathless, bodiless self. <span
-id="fr_65"></span>[1](#fn_65) The Embodied is held in the grasp of joy
+id="fr_65"></span>[1](#fn_65.md) The Embodied is held in the grasp of joy
 and sorrow; for what is embodied cannot be quit of joy and sorrow. But
 joy and sorrow touch not what is unembodied. Unembodied is the wind;
 unembodied are the cloud, the lightning, the thunder. As these, rising
@@ -201,36 +201,36 @@ traces out and understands the Self." Thus spake Prajā-pati.
 
 ### Footnotes
 
-<span id="fn_56"></span>[91:1](brk41.htm#fr_56) This verse is Ṛig-veda,
+<span id="fn_56"></span>[91:1](brk41.htm#fr_56.md) This verse is Ṛig-veda,
 i. 189, I.
 
-<span id="fn_57"></span>[91:2](brk42.htm#fr_57) Chhāndogya Upanishad,
+<span id="fn_57"></span>[91:2](brk42.htm#fr_57.md) Chhāndogya Upanishad,
 VIII. vii.-xii.
 
-<span id="fn_58"></span>[92:1](brk42.htm#fr_58) See above, p. 85.
+<span id="fn_58"></span>[92:1](brk42.htm#fr_58.md) See above, p. 85.
 
-<span id="fn_59"></span>[92:2](brk42.htm#fr_59) *Purusha;* cf. extract
+<span id="fn_59"></span>[92:2](brk42.htm#fr_59.md) *Purusha;* cf. extract
 i., p. 56. This answer of Prajā-pati conveys the *materialistic* view of
 the Self, viz. as the visible material body, Elsewhere *Purusha*
 regularly denotes the *soul.*
 
-<span id="fn_60"></span>[93:1](brk42.htm#fr_60) The physical self, i.e.
+<span id="fn_60"></span>[93:1](brk42.htm#fr_60.md) The physical self, i.e.
 the conception of the material body.
 
-<span id="fn_61"></span>[94:1](brk42.htm#fr_61) The physical self, i.e.
+<span id="fn_61"></span>[94:1](brk42.htm#fr_61.md) The physical self, i.e.
 the conception of the material body.
 
-<span id="fn_62"></span>[95:1](brk42.htm#fr_62) The *individual* soul or
+<span id="fn_62"></span>[95:1](brk42.htm#fr_62.md) The *individual* soul or
 Self, which in dreams is free from the physical afflictions of empiric
 existence, but nevertheless is still tormented by the mental concepts of
 these. This standpoint is that of realism.
 
-<span id="fn_63"></span>[96:1](brk42.htm#fr_63) The standpoint of pure
+<span id="fn_63"></span>[96:1](brk42.htm#fr_63.md) The standpoint of pure
 transcendental idealism.
 
-<span id="fn_64"></span>[96:2](brk42.htm#fr_64) In dreamless sleep.
+<span id="fn_64"></span>[96:2](brk42.htm#fr_64.md) In dreamless sleep.
 
-<span id="fn_65"></span>[97:1](brk42.htm#fr_65) Prajā-pati, in answer to
+<span id="fn_65"></span>[97:1](brk42.htm#fr_65.md) Prajā-pati, in answer to
 Indra's criticism of his last definition of the Self, explains that the
 utter unconsciousness of dreamless sleep is not a state of non-being,
 but a state of transcendental Being-Consciousness. Finite consciousness
@@ -249,4 +249,4 @@ individual existence.
 
 ------------------------------------------------------------------------
 
-[Next: XV: Gloria in Excelsis](brk43)
+[Next: XV: Gloria in Excelsis](brk43.md)

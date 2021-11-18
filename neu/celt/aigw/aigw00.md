@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Myths and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Next](aigw01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Myths and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Next](aigw01.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Intangible Textual Heritage
 
 # THE ANCIENT IRISH
 
-# GODDESS OF WAR. <span id="fr_0"></span>[1](aigw01.htm#fn_0)
+# GODDESS OF WAR. <span id="fr_0"></span>[1](aigw01.htm#fn_0.md)
 
 ## WM Hennessey
 
@@ -24,4 +24,4 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: The Ancient Irish Goddess of War](aigw01)
+[Next: The Ancient Irish Goddess of War](aigw01.md)

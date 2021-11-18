@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr30)  [Next](rhr32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr30)  [Next](rhr32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -232,7 +232,7 @@ Sept. 1794. DU CHAZEL, F.R.C.
 </div>
 
 <span id="img_41400"></span> ![The Philosophic Seal of the Society of
-the Rosicrucians](img/41400.jpg)
+the Rosicrucians](img/41400.jpg.md)
 
 *The Philosophic Seal of the Society of the Rosicrucians*.
 
@@ -470,7 +470,7 @@ jewel is to be worn round the neck, suspended by a crimson velvet
 ribbon.
 
 <span id="img_42100"></span> ![Jewel of the Supreme
-Magus](img/42100.jpg)
+Magus](img/42100.jpg.md)
 
 *Jewel of the two Junior Magi*.
 
@@ -491,7 +491,7 @@ below, which is as nearly as possible one-third of the actual size of
 the jewel.
 
 <span id="img_42200"></span> ![Jewel of the Grand
-Officers](img/42200.jpg)
+Officers](img/42200.jpg.md)
 
 *Jewel of the Fraternity*.
 
@@ -608,7 +608,7 @@ Christian Rosencreutz as described therein and in the "Chymical
 Marriage" had no tangible existence, but that they gave rise to the
 philosophic sect of Rosicrucianism, which name became, in the words of
 Thomas Vaughan, a generic term, embracing every species of mystical
-pretension. <span id="fr_115"></span>[1](#fn_115)
+pretension. <span id="fr_115"></span>[1](#fn_115.md)
 
 This harmless association deserves a mild sympathy at the hands of the
 students of occultism.
@@ -697,7 +697,7 @@ authority is a work by Dr John Campbel, entitled "Hermippus Redivivus;
 or, the Sage's Triumph over Old Age and the Grave," and the reference
 therein is "Les Memoires Historiques" for the year 1 687, tome i. p.
 365, which no one has been able to identify, and which, according to
-William Godwin, <span id="fr_116"></span>[1](#fn_116) had perhaps no
+William Godwin, <span id="fr_116"></span>[1](#fn_116.md) had perhaps no
 other existence than in the fertile brain of the compiler.
 
 "There happened in the year 1687, an odd accident at Venice, that made a
@@ -770,12 +770,12 @@ a romance of considerable ability by Kenneth Mackenzie, F. R. C., IX°.
 
 ### Footnotes
 
-<span id="fn_115"></span>[425:1](rhr31.htm#fr_115) "Hours with the
+<span id="fn_115"></span>[425:1](rhr31.htm#fr_115.md) "Hours with the
 Mystics," ii., 104.
 
-<span id="fn_116"></span>[428:1](rhr31.htm#fr_116) Preface to "The
+<span id="fn_116"></span>[428:1](rhr31.htm#fr_116.md) Preface to "The
 Travels of St Leon."
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](rhr32)
+[Next: Conclusion](rhr32.md)

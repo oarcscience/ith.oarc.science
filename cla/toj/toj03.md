@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](toj02)  [Next](toj04) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](toj02)  [Next](toj04.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ SOVEREIGN SUN
 
 IT appears to me that the present oration very properly belongs to all
 
---who breathe or creep on earth, <span id="fr_21"></span>[1](#fn_21)
+--who breathe or creep on earth, <span id="fr_21"></span>[1](#fn_21.md)
 
 who participate of being, of a rational soul, and of intellect; but I
 consider it as particularly belonging to myself; for I am an attendant
@@ -61,7 +61,7 @@ period belong.
 
 It is, indeed, my opinion, that the sun (if we may credit the wise) is
 the common father of all mankind; for as it is very properly said, *man
-and the sun generate man* <span id="fr_22"></span>[1](#fn_22). But this
+and the sun generate man* <span id="fr_22"></span>[1](#fn_22.md). But this
 deity disseminates souls into the earth not from himself alone, but from
 other divinities; and these evince by their lives the end of their
 propagation. And his destiny will indeed be most illustrious, who, prior
@@ -102,7 +102,7 @@ of the heavens, to the extremity of the earth, is contained by the
 immutable providence of the deity, existed from eternity without any
 generation, and will be eternal through all the following periods of
 time; nor is it guarded by any other substance, than by the proximate
-investiture of the fifth body <span id="fr_23"></span>[1](#fn_23), the
+investiture of the fifth body <span id="fr_23"></span>[1](#fn_23.md), the
 summit of which is the solar ray, situated, as it were, in the second
 degree from the intelligible world: but it is more antiently
 comprehended by the king and moderator of all things, about whom the
@@ -113,7 +113,7 @@ are, (but whom I
 <span id="page_44">p. 44</span>
 
 should call the intelligible whole;) or *the one* <span
-id="fr_24"></span>[1](#fn_24), since *the one* appears to be the most
+id="fr_24"></span>[1](#fn_24.md), since *the one* appears to be the most
 antient of all things; or that which Plato is accustomed to denominate
 *the good*; this uniform cause, then, of the universe, who is to all
 beings the. administrator of beauty, perfection, union, and immeasurable
@@ -121,7 +121,7 @@ power, according to a primary nature abiding in himself, produced from
 himself as a medium between the middle intellectual and demiurgic
 causes, that mighty divinity the sun perfectly similar to himself. And
 this was the opinion of the divine **Plato**, when he says <span
-id="fr_25"></span>[2](#fn_25): "This is what I called the son of the
+id="fr_25"></span>[2](#fn_25.md): "This is what I called the son of the
 good, which the good generated analogous to itself: that as *this* in
 the intelligible place is to intellect and the objects of intelligence,
 so is *that* in the visible place to sight and the objects of sight."
@@ -152,7 +152,7 @@ sun among the intellectual gods, the same perfections the apparent sun
 communicates to apparent forms; and the truth of this will be clearly
 evinced by contemplating invisible natures, from the objects of sensible
 inspection. Let us then begin the contemplation. And, in the first
-place, is not light <span id="fr_26"></span>[1](#fn_26) the incorporeal
+place, is not light <span id="fr_26"></span>[1](#fn_26.md) the incorporeal
 
 <span id="page_46">p. 46</span>
 
@@ -276,7 +276,7 @@ freedom and his superiority over all necessity: for Jupiter, who, as he
 says, is the lord of all, compels others to his will; but to this
 divinity, who threatened, on account of the impiety of Ulysses'
 companions, to forsake Olympus, he does not say <span
-id="fr_27"></span>[1](#fn_27),
+id="fr_27"></span>[1](#fn_27.md),
 
 "I heave the gods, the ocean, and the land;"
 
@@ -292,7 +292,7 @@ a telesiurgic nature, or is endued with a perfective operative power?
 For why would the gods require his assistance, unless by occultly
 illuminating their essence and being, he obtained a power of
 accomplishing the goods we have previously described? For when Homer
-says <span id="fr_28"></span>[1](#fn_28),
+says <span id="fr_28"></span>[1](#fn_28.md),
 
 Meantime, unweary'd with his heav'nly way,  
 In ocean's waves th' unwilling light of day  
@@ -522,7 +522,7 @@ of contention and strife. Hence, as Aristotle observes, neither
 pleasures nor griefs are in amicable conjunction with our nature; for
 what is pleasant to the one procures molestation to its contrary, the
 other. But among the gods nothing of this kind subsists <span
-id="fr_29"></span>[1](#fn_29); for
+id="fr_29"></span>[1](#fn_29.md); for
 
 <span id="page_63">p. 63</span>
 
@@ -550,7 +550,7 @@ collecting extremes into one and the same; for as we clearly perceive in
 the sensible world that air and water are situated between fire and
 earth, for the purpose of connecting the extremes as by a bond, there is
 no reason why we should not admit a similar establishment in an essence
-prior to body <span id="fr_30"></span>[1](#fn_30) and separate from its
+prior to body <span id="fr_30"></span>[1](#fn_30.md) and separate from its
 nature; which obtains the principle of generation, and is itself
 superior to origin. Hence, in an essence of this kind, as well as among
 elementary forms, the extreme principles which are separated from all
@@ -701,7 +701,7 @@ may be very properly said to participate the same day, to whom an equal
 time of the solar progression, in one and the same month, belongs. Let
 any one now consider how this diurnal alternation can be accommodated,
 as well with other, as the tropical circles <span
-id="fr_31"></span>[1](#fn_31). But a speculation of this kind is not
+id="fr_31"></span>[1](#fn_31.md). But a speculation of this kind is not
 indeed adapted to our present investigation; because these circles are
 always apparent, and are conspicuous to the inhabitants of regions
 situated in opposite shadows, each to each; yet he who perceives the one
@@ -713,8 +713,8 @@ annual revolutions, is the parent of the seasons; and considered as
 
 never receding from the poles, he is the Ocean, the ruler of a two-fold
 essence; nor is such an assertion by any means obscure, since
-Homer <span id="fr_32"></span>[1](#fn_32), so long before us, calls
-Ocean <span id="fr_33"></span>[2](#fn_33) the generation of mortals, of
+Homer <span id="fr_32"></span>[1](#fn_32.md), so long before us, calls
+Ocean <span id="fr_33"></span>[2](#fn_33.md) the generation of mortals, of
 the blessed divinities, and of all things: and this indeed with the
 greatest truth and propriety; for there is nothing in the universe which
 is not the natural progeny of the Ocean. But are you willing I should
@@ -728,7 +728,7 @@ speak, though my discourse will not be properly received by all.
 The solar orb, then, is moved in the starless, which is far higher then
 the inerratic sphere. Hence, he is not the middle of the planets, but of
 the three worlds, according to the mystic hypotheses <span
-id="fr_34"></span>[1](#fn_34); if it be proper to call them hypotheses,
+id="fr_34"></span>[1](#fn_34.md); if it be proper to call them hypotheses,
 and not rather dogmata; confining the appellation of hypothesis to the
 doctrine of the sphere: for the truth of the former is testified by men
 who audibly received this information from gods, or mighty dæmons; but
@@ -752,7 +752,7 @@ us from the heavens, I mean from those circles which the god quadruply
 dividing produces in consequence of this, a quadripartite beauty and
 elegance of seasons and times. But the Graces also imitate a circle in
 their resemblances on the earth. Add too, that Bacchus <span
-id="fr_35"></span>[1](#fn_35) is the source of joy, who is said to
+id="fr_35"></span>[1](#fn_35.md) is the source of joy, who is said to
 obtain a common kingdom with the sun. But why should I here mention the
 epithet Horus, or other names of the gods, all of which correspond with
 the divinity of the sun? Mankind, indeed, may conceive the excellence of
@@ -763,7 +763,7 @@ the god from his operations; since he perfects the heavens
 with intellectual goods, and renders them partakers of intelligible
 beauty. For as he originates from this beauty, he applies himself, both
 totally and by parts, to the distribution of good . . . . <span
-id="fr_36"></span>[1](#fn_36) These gods indeed preside over all motion,
+id="fr_36"></span>[1](#fn_36.md) These gods indeed preside over all motion,
 as far as to the utmost boundaries of the world; so that both nature and
 soul, and every thing that exists, is perfected by their beneficent
 communications. But the sun combining this abundant army of gods into
@@ -780,7 +780,7 @@ following verse. "he came to Python, and to providential
 
 <span id="page_70">p. 70</span>
 
-Minerva <span id="fr_37"></span>[1](#fn_37)." For thus the antients
+Minerva <span id="fr_37"></span>[1](#fn_37.md)." For thus the antients
 seated Minerva with Apollo, who appears to differ in nothing from the
 sun. And I know not whether Homer, by a certain divine instinct, (for it
 is probable that he was seized with a divine fury,) prophesies this,
@@ -788,7 +788,7 @@ when he sings,
 
 So might my life, and glory know no bound,  
 Like Pallas worship'd, like the Sun renown'd <span
-id="fr_38"></span>[2](#fn_38).
+id="fr_38"></span>[2](#fn_38.md).
 
 That is to say, like Jupiter, who is the same with the sun. And as the
 king Apollo, on account of his simplicity of intellection, communicates
@@ -801,7 +801,7 @@ moon, the genuine and pure rivers of
 
 <span id="page_77">p. 77</span>
 
-life; indeed she fills the moon <span id="fr_39"></span>[1](#fn_39), who
+life; indeed she fills the moon <span id="fr_39"></span>[1](#fn_39.md), who
 is the last of the orbicular bodies, with intelligence; and thus causes
 her to contemplate the intelligibles above the heavens, to regard
 inferior natures, and to beautify matter with the investiture of forms,
@@ -812,7 +812,7 @@ But the goods which Minerva confers on mankind are wisdom, intelligence,
 and operative arts: she is also said to obtain the towers of cities,
 because she establishes civil community by her wisdom. It is likewise
 proper to declare a few particulars respecting Venus <span
-id="fr_40"></span>[2](#fn_40), who, according to the learned among the
+id="fr_40"></span>[2](#fn_40.md), who, according to the learned among the
 **Phœnicians**, (which is likewise my opinion) has a demiurgic community
 with Minerva. Venus, then, is the temperament of the celestial gods, and
 the friendship and
@@ -832,7 +832,7 @@ oration will gradually disclose. Those, then, who inhabit Edessa, a
 region eternally dedicated to the sun, consider *Monimus, and Azizus*,
 as the attendants of this deity; *Monimus*, according to Jamblichus,
 (from whom we have received a few observations out of many,) being the
-same with Mercury <span id="fr_41"></span>[1](#fn_41) and *Azizus*, the
+same with Mercury <span id="fr_41"></span>[1](#fn_41.md) and *Azizus*, the
 same as Mars; and each of them, in conjunction with the sun, diffusing a
 variety of goods on the earth.
 
@@ -863,9 +863,9 @@ together with the three
 
 <span id="page_80">p. 80</span>
 
-genera, more excellent than man <span id="fr_42"></span>[1](#fn_42). But
+genera, more excellent than man <span id="fr_42"></span>[1](#fn_42.md). But
 consider what mighty goods he confers on partial souls! <span
-id="fr_43"></span>[2](#fn_43) For to these he extends judgement, governs
+id="fr_43"></span>[2](#fn_43.md) For to these he extends judgement, governs
 them by justice, and purifies them by his splendor. Besides this, does
 he not move and suscitate all nature, by imparting to it fecundity from
 on high? For he is the true cause of particular natures arriving at the
@@ -899,7 +899,7 @@ naturally the objects of knowledge to all men. Plato, then, asserts that
 the heavens are the masters of wisdom to mankind, since it is from these
 that we learn the nature of number; and our knowledge of its diversity
 is solely derived from the revolution of the sun. To which Plato also
-adds, that the heavens <span id="fr_44"></span>[1](#fn_44), by the
+adds, that the heavens <span id="fr_44"></span>[1](#fn_44.md), by the
 succession of many days and nights, never cease
 
 <span id="page_82">p. 82</span>
@@ -909,10 +909,10 @@ this is also effected by the varying light of the moon, which is solely
 imparted to this goddess from the sun; indeed the farther we advance in
 our researches into wisdom of this kind, the more shall we every where
 perceive the symphony and consent of other deities with the sun. And
-this Plato <span id="fr_45"></span>[1](#fn_45) himself evinces when he
+this Plato <span id="fr_45"></span>[1](#fn_45.md) himself evinces when he
 says, that the gods pitying the human race, which is naturally laborious
 and afflicted, gave to us Bacchus and the Muses <span
-id="fr_46"></span>[2](#fn_46), who perpetually combine in one harmonious
+id="fr_46"></span>[2](#fn_46.md), who perpetually combine in one harmonious
 choir. But the sun appears to be the common ruler of these, since he is
 celebrated as the father of Bacchus, and the leader of the Muses; for
 does not Apollo, whose government is united in amicable conjunction with
@@ -972,7 +972,7 @@ few things out of a many, principally pertaining to the sun, and to us
 who are the descendants of Romulus, and Æneas. For Æneas, according to
 tradition, descended from Venus, who assists the operations of the sun,
 and is allied to his nature: and the son of Mars <span
-id="fr_47"></span>[1](#fn_47) is reported to have been the founder of
+id="fr_47"></span>[1](#fn_47.md) is reported to have been the founder of
 our city; which, however paradoxical and incredible, was abundantly
 confirmed by succeeding prodigies. However, as I am well aware, and have
 already mentioned, that Mars, who is called by the Edessenian Syrians,
@@ -990,7 +990,7 @@ Are you willing therefore that I should
 
 demonstrate by a more powerful argument, that the founder of our city
 not only descended from Mars, but that however the martial, and noble
-dæmon <span id="fr_48"></span>[1](#fn_48), who is said to have met with
+dæmon <span id="fr_48"></span>[1](#fn_48.md), who is said to have met with
 Silvia carrying the bath of the goddess, might contribute to the
 fabrication
 
@@ -1003,7 +1003,7 @@ principallity of apparent natures, sent his soul on the earth, so
 likewise this conjunction received it back again from earth into the
 heavens, after it had consumed by the fire of thunder whatever was
 mortal in his corporeal frame. And from hence it is evident that the
-demiurgic goddess <span id="fr_50"></span>[1](#fn_50) of terrene
+demiurgic goddess <span id="fr_50"></span>[1](#fn_50.md) of terrene
 concerns, who is in a most perfect manner subjected to the sun, received
 our Quirinus, when he was sent by providential Minerva on the earth; and
 afterwards brought him back, when flying from. this terrene abode, to
@@ -1014,7 +1014,7 @@ from the sun which is preserved among us by sacred
 
 <span id="page_88">p. 88</span>
 
-virgins according <span id="fr_51"></span>[1](#fn_51) to the different
+virgins according <span id="fr_51"></span>[1](#fn_51.md) to the different
 seasons of the year; and which, by this means, imitates the beneficent
 energy of the moon in her revolution round the earth.
 
@@ -1023,7 +1023,7 @@ concerning this god, from the institutions of that most divine king. For
 while all other nations number their months from the course of the moon,
 we alone, together with the Egyptians, measure the days of our year from
 the revolutions of the sun. To all which, if I should add that we
-celebrate Mithras <span id="fr_52"></span>[2](#fn_52), and institute
+celebrate Mithras <span id="fr_52"></span>[2](#fn_52.md), and institute
 quadrennial contests in honour of the sun, I should speak of things more
 recent and known: but it will be better perhaps to adduce one testimony
 from more antient traditions.
@@ -1127,7 +1127,7 @@ Saturnalia, did not appear to you entirely foreign from the purpose, and
 undeserving your esteem. But if you are desirous of more perfect, and
 mystic discourses on this subject, by revolving the books of the divine
 Jamblichus, composed with the same design as the present oration, you
-will find the perfect consummation <span id="fr_53"></span>[1](#fn_53)
+will find the perfect consummation <span id="fr_53"></span>[1](#fn_53.md)
 of human wisdom. But may the mighty sun, nevertheless, enable me to
 understand whatever pertains to his divinity; and to impart my
 information to all men in *common, and privately* to those who are
@@ -1152,7 +1152,7 @@ intention than to render thanks to this divinity by a hymn, and
 considered my end accomplished in speaking of his essence to the utmost
 of my ability, I do not think that I have misspent my time by the
 present composition. For the admonition of Hesiod <span
-id="fr_54"></span>[1](#fn_54),
+id="fr_54"></span>[1](#fn_54.md),
 
 Perform, according to your utmost power,  
 Pure, sacred rites, to the immortal gods.
@@ -1175,32 +1175,32 @@ with him for many, and long-extended periods of time.
 
 ### Footnotes
 
-<span id="fn_21"></span>[39:1](toj03.htm#fr_21) Odyssy 6.
+<span id="fn_21"></span>[39:1](toj03.htm#fr_21.md) Odyssy 6.
 
-<span id="fn_22"></span>[41:1](toj03.htm#fr_22) A well-known saying of
+<span id="fn_22"></span>[41:1](toj03.htm#fr_22.md) A well-known saying of
 Aristotle.
 
-<span id="fn_23"></span>[43:1](toj03.htm#fr_23) For an account of this
+<span id="fn_23"></span>[43:1](toj03.htm#fr_23.md) For an account of this
 fifth body, see my Introduction to Plato's Timæus.
 
-<span id="fn_24"></span>[44:1](toj03.htm#fr_24) See my Introduction to
+<span id="fn_24"></span>[44:1](toj03.htm#fr_24.md) See my Introduction to
 the Parmenides of Plato.
 
-<span id="fn_25"></span>[44:2](toj03.htm#fr_25) In the 6th book of his
+<span id="fn_25"></span>[44:2](toj03.htm#fr_25.md) In the 6th book of his
 Republic.
 
-<span id="fn_26"></span>[45:1](toj03.htm#fr_26) Light, **according** to
+<span id="fn_26"></span>[45:1](toj03.htm#fr_26.md) Light, **according** to
 Proclus, and, I think, according to <span id="page_46">p. 46</span>
 truth, is an immaterial body, *i.e.* immaterial when compared with our
 gross sublunary matter; and is likewise the same with place. But for a
 larger account of this interesting particular, see note page 14, and
 note page 242, Vol. II of my translation of Proclus on Euclid.
 
-<span id="fn_27"></span>[51:1](toj03.htm#fr_27) Iliad, 8.
+<span id="fn_27"></span>[51:1](toj03.htm#fr_27.md) Iliad, 8.
 
-<span id="fn_28"></span>[52:1](toj03.htm#fr_28) Iliad, 18.
+<span id="fn_28"></span>[52:1](toj03.htm#fr_28.md) Iliad, 18.
 
-<span id="fn_29"></span>[62:1](toj03.htm#fr_29) In the Greek οὐσία γὰρ
+<span id="fn_29"></span>[62:1](toj03.htm#fr_29.md) In the Greek οὐσία γὰρ
 αὐτοῖς ὑπάρχει τὰ ἀγαθά καὶ διηνεκῶς· οὐ ποτὲ μεν, ποτὲ δ᾿ οὐ. Petavius
 thinks οὐσία <span id="page_63">p. 63</span> should be read οὐσίᾳ, than
 which nothing can be more absurd, as is evident to every Tyro in
@@ -1208,20 +1208,20 @@ Platonism. His version indeed of this part appears to me to be perfect
 nonsense. "Nam essentia, perpetuoque, nec per vices illis bona
 suppetunt."
 
-<span id="fn_30"></span>[64:1](toj03.htm#fr_30) In the Greek, agreeable
+<span id="fn_30"></span>[64:1](toj03.htm#fr_30.md) In the Greek, agreeable
 to our version προ των σωμάτων, which is evidently the proper reading;
 and yet such is the ignorance of Petavius, that he thinks πρώτων should
 be read instead of προ των! (note: last greek string printed *upside
 down* in my edition--*JBH*.)
 
-<span id="fn_31"></span>[71:1](toj03.htm#fr_31) This sentence is
+<span id="fn_31"></span>[71:1](toj03.htm#fr_31.md) This sentence is
 defective In the Greek; for there is nothing more than ὑπολήψεταί τις,
 οὐκ ἴσον ἐστιν. Perhaps αλλ᾿ ει ought to be prefixed, agreeable to the
 sense of our translation.
 
-<span id="fn_32"></span>[72:1](toj03.htm#fr_32) Iliad, 14.
+<span id="fn_32"></span>[72:1](toj03.htm#fr_32.md) Iliad, 14.
 
-<span id="fn_33"></span>[72:2](toj03.htm#fr_33) Ocean, according to his
+<span id="fn_33"></span>[72:2](toj03.htm#fr_33.md) Ocean, according to his
 first subsistence, belongs to that order of gods which is properly
 called *intellectual*, and is therefore πηγαιος θεος, a *fontal* deity.
 "Hence," (says Proclus, in his Scholia on "the Cratylus",) he is the
@@ -1241,12 +1241,12 @@ gods*, of which order Saturn is the summit; but *the sun* commences from
 the *ruling* or *supermundane* order, of which *Jupiter* is the monad.
 See more concerning this divinity in my notes on the Cratylus.
 
-<span id="fn_34"></span>[73:1](toj03.htm#fr_34) That is, according to
+<span id="fn_34"></span>[73:1](toj03.htm#fr_34.md) That is, according to
 the Zoroastrian Oracles, the sun is the middle of the Empyrean,
 Ætherial, and Material worlds, the two last of which receive a triple
 division. See the Introduction to this Volume.
 
-<span id="fn_35"></span>[74:1](toj03.htm#fr_35) Dionysius, or Bacchus,
+<span id="fn_35"></span>[74:1](toj03.htm#fr_35.md) Dionysius, or Bacchus,
 is the mundane intellect, and the monad, or proximately exempt producing
 cause, of the Titans, or ultimate artificers of things. He is said to
 have been torn in pieces by the Titans, because the soul of the world,
@@ -1256,24 +1256,24 @@ may be said to be plucked off and scattered into generation. See more
 concerning this divinity in my notes on the Cratylus. See also my
 translation of Proclus's Hymn to the Sun.
 
-<span id="fn_36"></span>[76:1](toj03.htm#fr_36) There is an unfortunate
+<span id="fn_36"></span>[76:1](toj03.htm#fr_36.md) There is an unfortunate
 chasm in this place in the Oration.
 
-<span id="fn_37"></span>[70:1](toj03.htm#fr_37) Iliad, 13. For a copious
+<span id="fn_37"></span>[70:1](toj03.htm#fr_37.md) Iliad, 13. For a copious
 account of this divinity, who, abiding in Jupiter, from whom she was
 produced, becomes a separate, immaterial, and fabricative intelligence,
 see my notes on the Cratylus. I only add at present, that as Minerva
 ranks among the Curetes, who subsist in the intellectual order, she is
 consequently superior to the sun.
 
-<span id="fn_38"></span>[70:2](toj03.htm#fr_38) Pope's Homer. Book 8,
+<span id="fn_38"></span>[70:2](toj03.htm#fr_38.md) Pope's Homer. Book 8,
 line 669.
 
-<span id="fn_39"></span>[77:1](toj03.htm#fr_39) The following triad of
+<span id="fn_39"></span>[77:1](toj03.htm#fr_39.md) The following triad of
 consubsistent divinities is, according to Proclus, contained in the
 Moon, viz. Diana, Proserpine, and Minerva.
 
-<span id="fn_40"></span>[77:2](toj03.htm#fr_40) According to the arcana
+<span id="fn_40"></span>[77:2](toj03.htm#fr_40.md) According to the arcana
 of the antient theology, Venus contains in herself the cause of the most
 uniform and pure life, (for *beauty is a vital, intellectual form,
 illuminating all things with symmetry*), and exterminates every thing
@@ -1281,34 +1281,34 @@ confused and inordinate In the universe: but this is likewise the
 province of Minerva, considered according to her **undefiled**
 characteristic. See more concerning Venus in my notes on the Cratylus.
 
-<span id="fn_41"></span>[78:1](toj03.htm#fr_41) For an account of
+<span id="fn_41"></span>[78:1](toj03.htm#fr_41.md) For an account of
 Mercury and Mars, see my Notes on the Cratylus.
 
-<span id="fn_42"></span>[80:1](toj03.htm#fr_42) i.e. Angels, Dæmons and
+<span id="fn_42"></span>[80:1](toj03.htm#fr_42.md) i.e. Angels, Dæmons and
 Heroes.
 
-<span id="fn_43"></span>[80:2](toj03.htm#fr_43) *i.e.* Such souls as
+<span id="fn_43"></span>[80:2](toj03.htm#fr_43.md) *i.e.* Such souls as
 ours.
 
-<span id="fn_44"></span>[81:1](toj03.htm#fr_44) This assertion of Plato,
+<span id="fn_44"></span>[81:1](toj03.htm#fr_44.md) This assertion of Plato,
 which as well as that preceding it, is to be found in the Epinomis, is
 defective in the Greek text of this oration. Whether or not, I have
 supplied it according to Julian's intention, the learned reader must
 determine, by perusing that excellent dialogue. Petavius, however, has
 not even mentioned the place where these words of Plato are to be found.
 
-<span id="fn_45"></span>[82:1](toj03.htm#fr_45) De Legib, lib. 2.
+<span id="fn_45"></span>[82:1](toj03.htm#fr_45.md) De Legib, lib. 2.
 
-<span id="fn_46"></span>[82:2](toj03.htm#fr_46) For an account of
+<span id="fn_46"></span>[82:2](toj03.htm#fr_46.md) For an account of
 Bacchus, see my notes on the Cratylus; and of the Muses, the note to my
 translation of Proclus's Hymns to these divinities.
 
-<span id="fn_47"></span>[85:1](toj03.htm#fr_47) i.e. Romulus, who was
+<span id="fn_47"></span>[85:1](toj03.htm#fr_47.md) i.e. Romulus, who was
 wholly of a martial nature, and who, knowing that he descended from this
 deity, entirely pursued a martial life, was therefore called a hero, or
 demigod, and the son of Mars.
 
-<span id="fn_48"></span>[86:1](toj03.htm#fr_48) According to the arcana
+<span id="fn_48"></span>[86:1](toj03.htm#fr_48.md) According to the arcana
 of the ancient theology, every god produces his own proper series,
 commencing from on high to the last of things; and this series
 comprehends in itself many essences differing from each other. Thus, for
@@ -1319,7 +1319,7 @@ with the human race: for throughout the whole of things the extremity of
 a superior order coalesces with the summit of one inferior. Hence, these
 powers contribute to the natural operations of the human race, and among
 these to their procreations. Hence too, say Proclus <span
-id="fr_49"></span>[2](#fn_49), it often appears, that *heroes* are
+id="fr_49"></span>[2](#fn_49.md), it often appears, that *heroes* are
 generated from the mixture of these powers with mankind; for those that
 possess a certain prerogative above human nature, are properly
 denominated *heroes*. He adds, that not only a dæmoniacal genus of this
@@ -1335,14 +1335,14 @@ lowest of these orders were assigned by antient theologists the same
 names as their leaders the gods, we shall find nothing In the Grecian
 theology but what is admirably consistent, and beautifully sublime.
 
-<span id="fn_49"></span>[86:2](toj03.htm#fr_49) In Cratylum.
+<span id="fn_49"></span>[86:2](toj03.htm#fr_49.md) In Cratylum.
 
-<span id="fn_50"></span>[87:1](toj03.htm#fr_50) That is, the moon, who
+<span id="fn_50"></span>[87:1](toj03.htm#fr_50.md) That is, the moon, who
 maternally produces whatever the sun produces paternally, and who, on
 account of her intimate alliance with this divinity, was called by some
 of the ancients a lesser sun.
 
-<span id="fn_51"></span>[88:1](toj03.htm#fr_51) Petavius is right in
+<span id="fn_51"></span>[88:1](toj03.htm#fr_51.md) Petavius is right in
 observing that Julian expresses himself very obscurely in this sentence,
 κατὰ τὰς διαφόρουσ ὥρας, *according to the different seasons of the
 year*; but he is certainly wrong in conjecturing that it alludes to the
@@ -1352,18 +1352,18 @@ alludes to the quality of the fire, which was preserved more or less
 intense according to the greater or less power of the sun at different
 periods of the year!
 
-<span id="fn_52"></span>[88:2](toj03.htm#fr_52) Mithras, according to
+<span id="fn_52"></span>[88:2](toj03.htm#fr_52.md) Mithras, according to
 the information of Porphyry, de Antro Nymph, is considered by the
 Persians as the father and creator of things, and consequently is the
 same with the Jupiter of the Greeks.
 
-<span id="fn_53"></span>[93:1](toj03.htm#fr_53) Petavius in the margin
+<span id="fn_53"></span>[93:1](toj03.htm#fr_53.md) Petavius in the margin
 conjectures that σθένος should be wrote instead of τελος, that is,
 *Strength* or *power*, instead of *the end*; but for what reason I am
 unable to discover!
 
-<span id="fn_54"></span>[94:1](toj03.htm#fr_54) Opera et Dies. lib. 1.
+<span id="fn_54"></span>[94:1](toj03.htm#fr_54.md) Opera et Dies. lib. 1.
 
 ------------------------------------------------------------------------
 
-[Next: The Emperor Julian's Oration to the Mother of the Gods](toj04)
+[Next: The Emperor Julian's Oration to the Mother of the Gods](toj04.md)

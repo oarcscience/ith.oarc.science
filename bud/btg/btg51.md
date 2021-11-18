@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg50)  [Next](btg52) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg50)  [Next](btg52.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ the truth."
 
 ------------------------------------------------------------------------
 
-[Next: Simha's Question Concerning Annihilation](btg52)
+[Next: Simha's Question Concerning Annihilation](btg52.md)

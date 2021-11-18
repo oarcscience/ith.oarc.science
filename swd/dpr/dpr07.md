@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dpr06)  [Next](dpr08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dpr06)  [Next](dpr08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ from the Lord's words:
 
 If any one has looked on another's woman to lust after her, he has
 already committed adultery with her in his heart (Mt 5:28). <span
-id="fr_1"></span>[152-1](#fn_1)
+id="fr_1"></span>[152-1](#fn_1.md)
 
 Such self-examination is of the internal man, and from it the external
 man is truly examined.
@@ -1609,8 +1609,8 @@ the thoughts, too, from which human prudence comes.\_
 
 ### Footnotes
 
-<span id="fn_1"></span>[152-1](dpr07.htm#fr_1) See footnote at n. 111.
+<span id="fn_1"></span>[152-1](dpr07.htm#fr_1.md) See footnote at n. 111.
 
 ------------------------------------------------------------------------
 
-[Next: 201-250](dpr08)
+[Next: 201-250](dpr08.md)

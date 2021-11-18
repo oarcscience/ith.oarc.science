@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](psa)  [Next](ecc) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](psa)  [Next](ecc.md) 
 
 ------------------------------------------------------------------------
 
@@ -2814,4 +2814,4 @@ hands, And her works do praise her in the gates!
 
 ------------------------------------------------------------------------
 
-[Next: Ecclesiastes](ecc)
+[Next: Ecclesiastes](ecc.md)

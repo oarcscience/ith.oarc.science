@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi260)  [Next](mtsi262) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi260)  [Next](mtsi262.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,15 +27,15 @@ They opened it and he flew far off and sat on a tree. When they looked
 at Rabbit, only bones were left. Then they were angry with Buzzard and
 shot at him, but they merely shot him through the bill. Buzzard said,
 "Oh! I am glad to have something hanging from my nose." <span
-id="fr_66"></span>[1](#fn_65)
+id="fr_66"></span>[1](#fn_65.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_65"></span>[211:1](mtsi261.htm#fr_66) Probably meaning a
+<span id="fn_65"></span>[211:1](mtsi261.htm#fr_66.md) Probably meaning a
 nose ornament.
 
 ------------------------------------------------------------------------
 
-[Next: 62. Rabbit and Buzzard](mtsi262)
+[Next: 62. Rabbit and Buzzard](mtsi262.md)

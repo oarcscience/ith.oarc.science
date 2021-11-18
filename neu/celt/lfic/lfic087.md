@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic086)  [Next](lfic088) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic086)  [Next](lfic088.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ the worthies of the epic according to circumstances.
 
 ------------------------------------------------------------------------
 
-[Next: The Quest for the Tain-Bo-Cuilagne](lfic088)
+[Next: The Quest for the Tain-Bo-Cuilagne](lfic088.md)

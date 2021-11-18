@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc035) 
-[Next](motc037) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc035.md) 
+[Next](motc037.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ his nest, and he still has it.
 
 ------------------------------------------------------------------------
 
-[Next: 37. How The Turkey Got His Beard](motc037)
+[Next: 37. How The Turkey Got His Beard](motc037.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam00)  [Next](adam02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam00)  [Next](adam02.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ visit not in the pilgrimage time)
 
 ------------------------------------------------------------------------
 
-[Next: Angels prostration for Adam PUH](adam02)
+[Next: Angels prostration for Adam PUH](adam02.md)

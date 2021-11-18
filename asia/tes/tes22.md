@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes21)  [Next](tes23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes21)  [Next](tes23.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ There was a family of Tungus. They lived in a tent. They had three
 daughters. The girls, when going to pick berries, would turn into female
 geese. In this form they visited the sea islands. One time they flew
 farther than usual. On a lonely island they saw a one-sided man. <span
-id="fr_23"></span>[1](#fn_23) When he breathed, his heart and lungs
+id="fr_23"></span>[1](#fn_23.md) When he breathed, his heart and lungs
 would jump out of his side. The Geese were afraid and flew home. After
 some time, they had nothing to eat, so they went again to the sea
 islands for berries. Wherever they chose a spot on which to alight,
@@ -22,7 +22,7 @@ One-Side appeared and frightened them away. At last they found a place
 full of berries. They descended and laid aside their wings. They picked
 so many berries that they could hardly carry them all. They went back to
 the place where they had left their wings. The wings of the youngest
-daughter were gone. <span id="fr_24"></span>[2](#fn_24) They looked for
+daughter were gone. <span id="fr_24"></span>[2](#fn_24.md) They looked for
 them a long time. At last, evening came and the sun went down. It grew
 very dark. The two elder sisters reproached the youngest one: "Probably
 you have taken a liking to One-Side, and you have asked him to hide your
@@ -36,7 +36,7 @@ As soon as they were out of sight, One-Side appeared carrying her wings.
 She refused for a long time, then she gave in, and said, "I will!"--"If
 you are willing," said One-Side, "I will lead the way." He took her to
 his house. It was the usual house, made of wood, with a wooden
-fireplace. <span id="fr_25"></span>[3](#fn_25) He proved to be a good
+fireplace. <span id="fr_25"></span>[3](#fn_25.md) He proved to be a good
 hunter, able to catch any kind of game. Still he had only one side, and
 with every breath his heart would jump out. They lived together for a
 while, and the woman brought forth a son. The young
@@ -61,7 +61,7 @@ found the arrow and the finger, and put them into his pouch.
 
 Then he started in search of his boy. He walked and walked. A whole year
 passed. Then he arrived at a village. A number of children were playing
-"sticks." <span id="fr_26"></span>[1](#fn_26) He looked from one to
+"sticks." <span id="fr_26"></span>[1](#fn_26.md) He looked from one to
 another, thinking of his boy. There was one poor boy who was dressed in
 the poorest of clothing. His body was mangy, and his head bruised and
 covered with scars. First, One-Side paid no attention to him, but when
@@ -77,7 +77,7 @@ sister a drudge in the house. "Why is your head so bruised and scarred?"
 asked One-Side. "It is because my aunts order me to enter the house only
 by the back entrance, and every time I try to go in by the front
 entrance, they strike my head with their heavy staffs." <span
-id="fr_27"></span>[2](#fn_27) "Let us go to your house." They arrived at
+id="fr_27"></span>[2](#fn_27.md) "Let us go to your house." They arrived at
 the house. The boy
 
 <span id="page_40">p. 40</span>
@@ -123,15 +123,15 @@ village of Pokhotsk, in the Kolyma country, in the summer of 1896.
 
 ### Footnotes
 
-<span id="fn_23"></span>[38:1](tes22.htm#fr_23) Samoyed (M. Alexander
+<span id="fn_23"></span>[38:1](tes22.htm#fr_23.md) Samoyed (M. Alexander
 Castrén, *Ethnologische Vorlesungen über die altaischen Völker*
 \[Petersburg, 1857\], 160).--F. B.
 
-<span id="fn_24"></span>[38:2](tes22.htm#fr_24) Samoyed (*Ibid*., 172);
+<span id="fn_24"></span>[38:2](tes22.htm#fr_24) Samoyed (*Ibid*., 172.md);
 Ainu (B. Pi~~l~~sudski, Materials for the Study of the Ainu Language and
 Folklore \[Cracow, 1912\], 27); E. Cosquin, *l. c.*, vol. 2, 16.--F. B.
 
-<span id="fn_25"></span>[38:3](tes22.htm#fr_25) The type of house
+<span id="fn_25"></span>[38:3](tes22.htm#fr_25.md) The type of house
 generally used among Russian creoles and Russianized natives,--a square
 log cabin, having a fireplace in the corner, with a straight chimney
 made of wood and plastered with clay, the so-called "Yakut chimney." It
@@ -141,10 +141,10 @@ the roof above it. At the present time, however, the "Yakut chimney" is
 used everywhere among the Yakut, as well as among Russian creoles.--W.
 B.
 
-<span id="fn_26"></span>[39:1](tes22.htm#fr_26) A play of Russian
+<span id="fn_26"></span>[39:1](tes22.htm#fr_26.md) A play of Russian
 provenience much in use among the Russianized natives--W. B.
 
-<span id="fn_27"></span>[39:2](tes22.htm#fr_27) This passage is
+<span id="fn_27"></span>[39:2](tes22.htm#fr_27.md) This passage is
 interesting, since it shows that perhaps some of the native peoples on
 the Kolyma River had houses with two entrances, and that some members of
 the family were not allowed to pass through the main entrance. This
@@ -171,4 +171,4 @@ B.
 
 ------------------------------------------------------------------------
 
-[Next: 2. A Yukaghir Tale](tes23)
+[Next: 2. A Yukaghir Tale](tes23.md)

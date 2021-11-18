@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat07.htm#XLI)  [Previous](satl040) 
-[Next](satl042) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat07.htm#XLI)  [Previous](satl040.md) 
+[Next](satl042.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ Vinus mihi in cerebrum abiit."
 
 ------------------------------------------------------------------------
 
-[Next: XLII](satl042)
+[Next: XLII](satl042.md)

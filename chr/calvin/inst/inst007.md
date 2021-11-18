@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst006)  [Next](inst008) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst006)  [Next](inst008.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ of your prayers to the Lord.
 
 ------------------------------------------------------------------------
 
-[Next: SUBJECT OF THE PRESENT WORK](inst008)
+[Next: SUBJECT OF THE PRESENT WORK](inst008.md)

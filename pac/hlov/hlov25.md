@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov24)  [Next](hlov26) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov24)  [Next](hlov26.md) 
 
 ------------------------------------------------------------------------
 
@@ -345,4 +345,4 @@ Hawa-i-ee.
 
 ------------------------------------------------------------------------
 
-[Next: PART II. Geological Facts](hlov26)
+[Next: PART II. Geological Facts](hlov26.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Next](dos01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Next](dos01.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,13 +44,13 @@ copies.
 <span id="img_front"></span>
 
 [![Frontispiece](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="page_ii">p. ii</span>
@@ -88,7 +88,7 @@ Hither, thither, as a Bubble<br />
 <span id="img_p002"></span>
 
 [![Page 2 ](tn/p002.jpg)  
-Click to enlarge](img/p002.jpg)  
+Click to enlarge](img/p002.jpg.md)  
 Page 2  
 
 <span id="page_vi">p. vi</span>
@@ -110,7 +110,7 @@ Page 2
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 <span id="page_vii">p. vii</span>
@@ -123,4 +123,4 @@ MARGARET
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](dos01)
+[Next: Introduction](dos01.md)

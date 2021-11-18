@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia34)  [Next](aia36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia34)  [Next](aia36.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ contrary.
 
 If the question be put regarding another person, you must in this case
 give the ascendant for the quesited. <span
-id="fr_119"></span>[1](#fn_118)
+id="fr_119"></span>[1](#fn_118.md)
 
 <span id="page_258">p. 258</span>
 
@@ -149,7 +149,7 @@ figure was erected.
 <span id="img_fig24"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 24.](tn/fig24.jpg)  
-Click to enlarge](img/fig24.jpg)  
+Click to enlarge](img/fig24.jpg.md)  
 *Fig*. 24.  
 
 JUDGMENT ON THE ABOVE FIGURE.
@@ -266,7 +266,7 @@ injured the interests of the science.
 <span id="img_fig25"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 25.](tn/fig25.jpg)  
-Click to enlarge](img/fig25.jpg)  
+Click to enlarge](img/fig25.jpg.md)  
 *Fig*. 25.  
 
 A WOMAN ASKS OF HER HUSBAND, WHO IS AT SEA; IF ALIVE? WHEN RETURN?
@@ -322,7 +322,7 @@ king's forces, and, at the time of the question, was in Barnstaple.
 <span id="img_fig26"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 26.](tn/fig26.jpg)  
-Click to enlarge](img/fig26.jpg)  
+Click to enlarge](img/fig26.jpg.md)  
 *Fig*. 26.  
 
 QUESTION: WHETHER PRESBYTERY SHALL STAND?
@@ -359,7 +359,7 @@ up among themselves many strange opinions and distractions even,
 concerning this very Presbytery; that they shall grow excessively
 covetous, contentious, and desirous of more than belongs to them;
 worldly, envious, and malicious one against the other; that among them
-some juniors, represented by ♀, <span id="fr_120"></span>[1](#fn_119)
+some juniors, represented by ♀, <span id="fr_120"></span>[1](#fn_119.md)
 shall be light in
 
 <span id="page_266">p. 266</span>
@@ -394,14 +394,14 @@ now maintained, is not the same that the commonwealth of England will
 entertain as a standing rule to live under.
 
 From what I find by this figure, I conclude *that Presbytery shall not
-stand here in England*. <span id="fr_121"></span>[1](#fn_120)
+stand here in England*. <span id="fr_121"></span>[1](#fn_120.md)
 
 <span id="page_267">p. 267</span>
 
 <span id="img_fig27"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 27.](tn/fig27.jpg)  
-Click to enlarge](img/fig27.jpg)  
+Click to enlarge](img/fig27.jpg.md)  
 *Fig*. 27.  
 
 QUESTION: WHETHER, THE QUERENT SHOULD OBTAIN THE PARSONAGE DESIRED?
@@ -440,15 +440,15 @@ north-east, about fifteen furlongs, from him.
 
 ### Footnotes
 
-<span id="fn_118"></span>[257:1](aia35.htm#fr_119) We do not agree with
+<span id="fn_118"></span>[257:1](aia35.htm#fr_119.md) We do not agree with
 our author on this point; for unless the quesited has given his
 *consent* to the question, we think he should have the same
 significators as in any other question; the 7th, 5th. 3d, &c.
 
-<span id="fn_119"></span>[265:1](aia35.htm#fr_120) The reason of this
+<span id="fn_119"></span>[265:1](aia35.htm#fr_120.md) The reason of this
 is, that ♀ in the house of ♂ shews persons given to pleasure.
 
-<span id="fn_120"></span>[266:1](aia35.htm#fr_121) We have given this
+<span id="fn_120"></span>[266:1](aia35.htm#fr_121.md) We have given this
 judgment at great length, as its complete fulfillment, <span
 id="page_267">p. 267</span> by the re-establishment of the Episcopal
 church, being a matter of history, is a decisive proof of the truth of
@@ -461,4 +461,4 @@ down by our author.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIII. The Tenth House and its Questions.--viz. Office,
-Dignity, Preferment, Government, Trade, or Profession, &c.](aia36)
+Dignity, Preferment, Government, Trade, or Profession, &c.](aia36.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Next](ttx02)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Next](ttx02.md)
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@
 
 ------------------------------------------------------------------------
 
-[Next](ttx02)
+[Next](ttx02.md)

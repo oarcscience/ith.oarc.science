@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj56.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ certain.
 \(3\) It was supposed that only the music of the plays was written by
 their nominal authors. The words were vaguely attributed to "Zen
 Priests." We now know that in most cases Kwanami and Seami played the
-triple part of author, <span id="fr_220"></span>[1](#fn_218) musical
+triple part of author, <span id="fr_220"></span>[1](#fn_218.md) musical
 composer and actor.
 
 \(4\) It was doubted whether in the fourteenth century Sarugaku had
@@ -47,5 +47,5 @@ one trained in Nō-music.
 
 ### Footnotes
 
-<span id="fn_218"></span>[270:1](npj57.htm#fr_220) Or rather "arranger,"
+<span id="fn_218"></span>[270:1](npj57.htm#fr_220.md) Or rather "arranger,"
 for in many instances he adapted already existing Dengaku or Kōwaka.

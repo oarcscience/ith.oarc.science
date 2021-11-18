@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt06)  [Next](hkt08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt06)  [Next](hkt08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ THE Knights Templars first established the chief house of their order in
 England, without Holborn Bars, on the south side of the street, where
 Southampton House formerly stood, adjoining to which Southampton
 Buildings were afterwards erected; <span
-id="fr_101"></span>[\*](#fn_101) and it is stated, that about a century
+id="fr_101"></span>[\*](#fn_101.md) and it is stated, that about a century
 and a half ago, part of the
 
 <span id="page_82">p. 82</span>
@@ -59,7 +59,7 @@ and a half ago, part of the
 ancient chapel annexed to this establishment, of a circular form, and
 built of Caen stone, was discovered on pulling down some old houses near
 Southampton Buildings in Chancery Lane. <span
-id="fr_102"></span>[\*](#fn_102) This first house of the Temple,
+id="fr_102"></span>[\*](#fn_102.md) This first house of the Temple,
 established by Hugh de Payens himself, before his departure from
 England, on his return to Palestine, was adapted to the wants and
 necessities of the order in its infant state, when the knights, instead
@@ -72,12 +72,12 @@ simplicity, we find that the superior and the knights resident in London
 began to look abroad for a more extensive and commodious place of
 habitation. They purchased a large space of ground, extending from the
 White Friars westward to Essex House without Temple Bar, <span
-id="fr_103"></span>[†](#fn_103) and commenced the erection of a convent
+id="fr_103"></span>[†](#fn_103.md) and commenced the erection of a convent
 on a scale of grandeur commensurate with the dignity and importance of
 the chief house of the great religio-military society of the Temple in
 Britain. It was called the *New* Temple, to distinguish it from the
 original establishment at Holborn, which came thenceforth to be known by
-the name of the *Old* Temple. <span id="fr_104"></span>[‡](#fn_104)
+the name of the *Old* Temple. <span id="fr_104"></span>[‡](#fn_104.md)
 
 This New Temple was adapted for the residence of numerous military monks
 and novices, serving brothers, retainers, and domestics. It contained
@@ -97,7 +97,7 @@ of the horses.
 The year of the consecration of the Temple Church, Geoffrey, the
 superior of the order in England, caused an inquisition to be made of
 the lands of the Templars in this country, and the names of the donors
-thereof, <span id="fr_105"></span>[\*](#fn_105) from which it appears,
+thereof, <span id="fr_105"></span>[\*](#fn_105.md) from which it appears,
 that the larger territorial divisions of the order were then called
 bailiwicks, the principal of which were London, Warwic, Couele,
 Meritune, Gutinge, Westune, Lincolnscire, Lindeseie, Widine, and
@@ -138,7 +138,7 @@ possessions indeed beyond sea, as well as in these parts, are said to be
 so vast, that there cannot now be a province in Christendom which does
 not contribute to the support of the aforesaid brethren, whose wealth is
 said to equal that of sovereign princes." <span
-id="fr_106"></span>[\*](#fn_106)
+id="fr_106"></span>[\*](#fn_106.md)
 
 The eastern provinces of the order were, 1. Palestine, the ruling
 province. 2. The principality of Antioch. 3. The principality of
@@ -175,7 +175,7 @@ Escapes the tempest of the unstable soil."</span>
 </div>
 
 It was granted to the Templars, in perpetual sovereignty, by Baldwin
-king of Jerusalem. <span id="fr_107"></span>[\*](#fn_107)
+king of Jerusalem. <span id="fr_107"></span>[\*](#fn_107.md)
 
 The Castle of Saphet, in the territory of the ancient tribe of Naphtali;
 the great bulwark of the northern frontier of the Latin kingdom on the
@@ -191,9 +191,9 @@ territory of the ancient tribe of Asher. The hill-fort Dok, between
 Bethel and Jericho. The castles of La Cave, Marie, Citern Rouge, Castel
 Blanc, Trapesach, Sommelleria of the Temple, in the neighbourhood of
 Acca, now St. John d’Acre. Castrum Planorum, and a place called Gerinum
-Parvum. <span id="fr_108"></span>[\*](#fn_108) The Templars purchased
+Parvum. <span id="fr_108"></span>[\*](#fn_108.md) The Templars purchased
 the castle of Beaufort and the city of Sidon; <span
-id="fr_109"></span>[†](#fn_109) they also got into their hands a great
+id="fr_109"></span>[†](#fn_109.md) they also got into their hands a great
 part of the town of St. Jean d’Acre, where they erected their famous
 temple, and almost all Palestine was in the end divided between them and
 the Hospitallers of Saint John.
@@ -226,7 +226,7 @@ island of Sicily. This celebrated statue is of the most beautiful white
 marble, and represents the Virgin with the infant Jesus reclining on her
 left arm; it is of about the natural height, and, from an inscription on
 the foot of the figure, it appears to have been executed by a native of
-the island of Cyprus, A.D. 733. <span id="fr_110"></span>[\*](#fn_110)
+the island of Cyprus, A.D. 733. <span id="fr_110"></span>[\*](#fn_110.md)
 
 The Templars possessed valuable estates in Sicily, around the base of
 Mount Etna, and large tracts of land between Piazza and Calatagirone, in
@@ -235,7 +235,7 @@ whereof, dedicated to the Virgin Mary, still remains. They possessed
 also many churches in the island, windmills, rights of fishery, of
 pasturage, of cutting wood in the forests, and many important privileges
 and immunities. The chief house was at Messina, where the Grand Prior
-resided. <span id="fr_111"></span>[†](#fn_111)
+resided. <span id="fr_111"></span>[†](#fn_111.md)
 
 2\. UPPER AND CENTRAL ITALY.--The houses or preceptories of the order of
 the Temple in this province were very numerous, and were all under the
@@ -265,7 +265,7 @@ Veste ferens, menteque crucem, nunc sidera scandit,
 Exemplum nobis spectandi cælica pandit:  
 Annis ter trinis viginti mille trecentis  
 Sexta quarte maii fregit lux organ mentis." <span
-id="fr_112"></span>[\*](#fn_112)</span>
+id="fr_112"></span>[\*](#fn_112.md)</span>
 
 </div>
 
@@ -299,13 +299,13 @@ towering in gloomy magnificence on the hill above the town. The castle
 at present belongs to the order of Christ, and was lately one of the
 grandest and richest establishments in Portugal. It possessed a splendid
 library, and a handsome cloister, the architecture of which was much
-admired. <span id="fr_113"></span>[\*](#fn_113)
+admired. <span id="fr_113"></span>[\*](#fn_113.md)
 
 CASTILE AND LEON. The houses or preceptories of the Temple most known in
 this province or nation of the order were those of Cuenca and
 Guadalfagiara, Tine and Aviles in the diocese of Oviedo, and Pontevreda
 in Galicia. In Castile alone the order is said to have possessed
-twenty-four bailiwicks. <span id="fr_114"></span>[†](#fn_114)
+twenty-four bailiwicks. <span id="fr_114"></span>[†](#fn_114.md)
 
 ARAGON.--The sovereigns of Aragon, who had suffered grievously from the
 incursions of the Moors, were the first of the European princes to
@@ -318,7 +318,7 @@ territories and dependencies. They were lords of the cities of Borgia
 and Tortosa; they had a tenth part of the revenues of the kingdom, the
 taxes of the towns of Huesca and Saragossa, and houses, possessions,
 privileges, and immunities in all parts. <span
-id="fr_115"></span>[‡](#fn_115)
+id="fr_115"></span>[‡](#fn_115.md)
 
 <span id="page_90">p. 90</span>
 
@@ -334,18 +334,18 @@ Bavaria, Bamberg, Middlebourg, Hall, Brunswick, &c. &c. The Templars
 possessed the fiefs of Rorich, Pausin and Wildenheuh in *Pomerania*, an
 establishment at Bach in *Hungary*, several lordships in *Bohemia* and
 *Moravia*, and lands, tithes, and large revenues, the gifts of pious
-German crusaders. <span id="fr_116"></span>[\*](#fn_116)
+German crusaders. <span id="fr_116"></span>[\*](#fn_116.md)
 
 GREECE.--The Templars were possessed of lands and had establishments in
 the Morea, and in several parts of the Greek empire. Their chief house
 was at Constantinople, in the quarter called Ὀμόνοια, where they had an
 oratory dedicated to the holy martyrs Marin and Pentaleon. <span
-id="fr_117"></span>[†](#fn_117)
+id="fr_117"></span>[†](#fn_117.md)
 
 FRANCE.--The principal preceptories and houses of the Temple, in the
 present kingdom of France, were at Besancon, Dole, Salins, à la Romagne,
 à la ville Dieu, Arbois in *Franche Comté*. <span
-id="fr_118"></span>[‡](#fn_118)
+id="fr_118"></span>[‡](#fn_118.md)
 
 Bomgarten, Temple Savigné near Corbeil, Dorlesheim near Molsheim, where
 there still remains a chapel called Templehoff, Ribauvillier, and a
@@ -358,17 +358,17 @@ Philibert, Dijon, Fauverney, where a chapel dedicated to the Virgin
 still preserves the name of the Temple, Des Feuilles, situate in the
 parish of Villett, near the chateau de Vernay, St. Martin, Le Chastel,
 Espesses, Tessones near Bourges, and La Musse, situate between Baujé and
-Macon in *Burgundy*. <span id="fr_119"></span>[\*](#fn_119)
+Macon in *Burgundy*. <span id="fr_119"></span>[\*](#fn_119.md)
 
 Montpelier, Sertelage, Nogarade near Pamiers, Falgairas, Narbonne St.
 Eulalie de Bezieres, Prugnanas, and the parish church of St. Martin
-d’Ubertas in *Languedoc*. <span id="fr_120"></span>[†](#fn_120)
+d’Ubertas in *Languedoc*. <span id="fr_120"></span>[†](#fn_120.md)
 
 Temple Cahor, Temple Marigny, Arras, Le Parc, St. Vaubourg, and Rouen,
 in *Normandy*. There were two houses of the Temple at Rouen; one of them
 occupied the site of the present *maison consulaire*, and the other
 stood in the street now called *La Rue des Hermites*. <span
-id="fr_121"></span>[‡](#fn_121) The preceptories and houses of the
+id="fr_121"></span>[‡](#fn_121.md) The preceptories and houses of the
 Temple in France, indeed, were so numerous, that it would be a wearisome
 and endless task to repeat the names of them. Hundreds of places in the
 different provinces are mentioned by French writers as having belonged
@@ -390,7 +390,7 @@ the environs de la Verrerie, as far as the walls and the fossés of the
 port du Temple. It was ornamented with a great tower, flanked by four
 smaller towers, erected by the Knight Templar Brother Herbert, almoner
 to the king of France, and was one of the strongest edifices in the
-kingdom. <span id="fr_122"></span>[\*](#fn_122) Many of the modern
+kingdom. <span id="fr_122"></span>[\*](#fn_122.md) Many of the modern
 streets of Paris which now traverse the site of this interesting
 structure, preserve in the names given to them some memorial of the
 ancient Temple. For instance, *La rue du Temple, La rue des fossés du
@@ -416,7 +416,7 @@ Arras; Temploux near Fleuru in the department of Namur; Vernoi in
 
 <span class="contnote">\[paragraph continues\]</span> Hainault; Temple
 Dieu at Douai; Maries near Valenciennes; St. Symphonier near Mons, &c.
-&c. <span id="fr_123"></span>[\*](#fn_123)
+&c. <span id="fr_123"></span>[\*](#fn_123.md)
 
 In these countries, as well as in all parts of Europe wherever they were
 settled, the Templars possessed vast privileges and immunities, which
@@ -466,7 +466,7 @@ South Badeisley, in *Hampshire*.
 Getinges, in *Worcestershire*.
 
 Giselingham and Dunwich, in *Suffolk*. <span
-id="fr_124"></span>[\*](#fn_124)
+id="fr_124"></span>[\*](#fn_124.md)
 
 There were also several smaller administrations established, as before
 mentioned, for the management of the farms and lands, and the collection
@@ -474,7 +474,7 @@ of rent and tithes. Among these were Liddele and Quiely in the diocese
 of Chichester; Eken in the diocese of Lincoln; Adingdon, Wesdall,
 Aupledina, Cotona, &c. The different preceptors of the Temple in England
 had under their management lands and property in every county of the
-realm. <span id="fr_125"></span>[†](#fn_125)
+realm. <span id="fr_125"></span>[†](#fn_125.md)
 
 In *Leicestershire* the Templars possessed the town and the soke of
 Rotheley; the manors of Rolle, Babbegrave, Gaddesby, Stonesby, and
@@ -482,7 +482,7 @@ Melton; Rothely wood, near Leicester; the villages of Beaumont, Baresby,
 Dalby, North and South Mardefeld, Saxby, Stonesby, and Waldon, with land
 in above *eighty* others! They had also the churches of Rotheley,
 Babbegrave, and Rolle; and the chapels of Gaddesby, Grimston, Wartnaby,
-Cawdwell, and Wykeham. <span id="fr_126"></span>[‡](#fn_126)
+Cawdwell, and Wykeham. <span id="fr_126"></span>[‡](#fn_126.md)
 
 In *Hertfordshire* they possessed the town and forest of Broxbourne, the
 manor of Chelsin Templars, (*Chelsin Templariorum*,) and the manors of
@@ -497,7 +497,7 @@ Offeley Parva, Walden Regis, Furnivale, Ipolitz, Wandsmyll,
 <span class="contnote">\[paragraph continues\]</span> Watton, Therleton,
 Weston, Gravele, Wilien, Leccheworth, Baldock, Datheworth, Russenden,
 Codpeth, Sumershale, Buntynford, &c. &c., and the church of
-Weston. <span id="fr_127"></span>[\*](#fn_127)
+Weston. <span id="fr_127"></span>[\*](#fn_127.md)
 
 In the county of *Essex* they had the manors of Temple Cressynge, Temple
 Roydon, Temple Sutton, Odewell, Chingelford, Lideleye, Quarsing,
@@ -505,7 +505,7 @@ Berwick, and Witham; the church of Roydon, and houses, lands, and farms,
 both at Roydon, at Rivenhall, and in the parishes of Prittlewall and
 Great and Little Sutton; an old mansion-house and chapel at Sutton, and
 an estate called Finchinfelde in the hundred of Hinckford. <span
-id="fr_128"></span>[†](#fn_128)
+id="fr_128"></span>[†](#fn_128.md)
 
 In *Lincolnshire* the Templars possessed the manors of La Bruere,
 Roston, Kirkeby, Brauncewell, Carleton, Akele, with the soke of Lynderby
@@ -517,11 +517,11 @@ respect of lands at Bracebrig, Brancetone, Scapwic, Timberland,
 Weleburne, Diringhton, and a hundred other places; and some of the land
 in the county was charged with the annual payment of sums of money
 towards the keeping of the lights eternally burning on the altars of the
-Temple church. <span id="fr_129"></span>[‡](#fn_129) William Lord of
+Temple church. <span id="fr_129"></span>[‡](#fn_129.md) William Lord of
 Asheby gave to the Templars the perpetual advowson of the church of
 Asheby in Lincolnshire, and they in return agreed to find him a priest
 to sing for ever twice a week in his chapel of St. Margaret. <span
-id="fr_130"></span>[§](#fn_130)
+id="fr_130"></span>[§](#fn_130.md)
 
 In *Yorkshire* the Templars possessed the manors of Temple
 
@@ -531,7 +531,7 @@ In *Yorkshire* the Templars possessed the manors of Temple
 Flaxflete, Etton, South Cave, &c.; the churches of Whitcherche,
 Kelintune, &c.; numerous windmills and lands and rents at Nehus,
 Skelture, Pennel, and more than sixty other places besides. <span
-id="fr_131"></span>[\*](#fn_131)
+id="fr_131"></span>[\*](#fn_131.md)
 
 In *Warwickshire* they possessed the manors of Barston, Shirburne,
 Balshale, Wolfhey, Cherlecote, Herbebure, Stodleye, Fechehampstead,
@@ -541,7 +541,7 @@ than thirty other places, the several donors whereof are specified in
 Dug-dale's history of Warwickshire (p. 694;) also the churches of
 Sireburne, Cardinton, &c., and more than thirteen windmills. In 12 Hen.
 II., William Earl of Warwick built a new church for them at
-Warwick. <span id="fr_132"></span>[†](#fn_132)
+Warwick. <span id="fr_132"></span>[†](#fn_132.md)
 
 In *Kent* they had the manors of Lilleston, Hechewayton, Saunford,
 Sutton, Dartford, Halgel, Ewell, Cocklescomb, Strode, Swinkfield Mennes,
@@ -549,12 +549,12 @@ West Greenwich, and the manor of Lydden, which now belongs to the
 archbishop of Canterbury; the advowsons of the churches of West
 Greenwich and Kingeswode juxta Waltham; extensive tracts of land in
 Romney marsh, and farms and assize rents in all parts of the
-county. <span id="fr_133"></span>[‡](#fn_133)
+county. <span id="fr_133"></span>[‡](#fn_133.md)
 
 In *Sussex* they had the manors of Saddlescomb and Shipley; lands and
 tenements at Compton and other places; and the advowsons of the churches
 of Shipley, Wodmancote, and Luschwyke. <span
-id="fr_134"></span>[§](#fn_134)
+id="fr_134"></span>[§](#fn_134.md)
 
 In *Surrey* they had the manor farm of Temple Elfand or
 
@@ -566,16 +566,16 @@ manors of Lower Dowdeswell, Pegsworth, Amford, Nishange, and five others
 which belonged to them wholly or in part, the church of Down Ammey, and
 lands in Framton, Temple Guting, and Little Rissington. In
 *Worcestershire*, the manor of Templars Lawern, and lands in Flavel,
-Temple Broughton, and Hanbury. <span id="fr_135"></span>[\*](#fn_135) In
+Temple Broughton, and Hanbury. <span id="fr_135"></span>[\*](#fn_135.md) In
 *Northamptonshire*, the manors of Asheby, Thorp, Watervill, &c. &c.;
 they had the advowson of the church of the manor of Hardwicke in
 Orlington hundred, and we find that "Robert Saunford, Master of the
 soldiery of the Temple in England," presented to it in the year
-1238. <span id="fr_136"></span>[†](#fn_136) In *Nottinghamshire*, the
+1238. <span id="fr_136"></span>[†](#fn_136.md) In *Nottinghamshire*, the
 Templars possessed the church of Marnham, lands and rents at Gretton and
 North Carleton; in *Westmoreland*, the manor of Temple Sowerby; in the
 Isle of Wight, the manor of Uggeton, and lands in Kerne. <span
-id="fr_137"></span>[‡](#fn_137) But it would be tedious further to
+id="fr_137"></span>[‡](#fn_137.md) But it would be tedious further to
 continue with a dry detail of ancient names and places; sufficient has
 been said to give an idea of the enormous wealth of the order in this
 country, where it is known to have possessed some hundreds of manors,
@@ -595,12 +595,12 @@ six millions sterling! According to Matthew Paris,
 the Templars possessed *nine thousand* manors or lordships in
 Christendom, besides a large revenue and immense riches arising from the
 constant charitable bequests and donations of sums of money from pious
-persons. <span id="fr_138"></span>[\*](#fn_138) "They were also
+persons. <span id="fr_138"></span>[\*](#fn_138.md) "They were also
 endowed," says James of Vitry, bishop of Acre, "with farms, towns, and
 villages, to an immense extent both in the East and in the West, out of
 the revenues of which they send yearly a certain sum of money for the
 defence of the Holy Land to their head Master at the chief house of
-their order in Jerusalem." <span id="fr_139"></span>[†](#fn_139) The
+their order in Jerusalem." <span id="fr_139"></span>[†](#fn_139.md) The
 Templars, in imitation of the other monastic establishments, obtained
 from pious and charitable people all the advowsons within their reach,
 and frequently retained the tithe and the glebe in their own hands,
@@ -621,7 +621,7 @@ marry their daughters without their license. There were also various
 <span id="page_99">p. 99</span>
 
 regulations concerning the cocks and hens and young chickens. <span
-id="fr_140"></span>[\*](#fn_140)
+id="fr_140"></span>[\*](#fn_140.md)
 
 We have previously given an account of the royal donations of King Henry
 the First, of King Stephen and his queen, to the order of the Temple.
@@ -629,7 +629,7 @@ These were far surpassed by the pious benefactions of King Henry the
 Second. That monarch, for the good of his soul and the welfare of his
 kingdom, granted the Templars a place situate on the river Fleet, near
 Bainard's Castle, with the whole current of that river at London, for
-erecting a mill; <span id="fr_141"></span>[†](#fn_141) also a messuage
+erecting a mill; <span id="fr_141"></span>[†](#fn_141.md) also a messuage
 near Fleet-street; the church of St. Clement, "quæ dicitur Dacorum extra
 civitatem Londoniæ;" and the churches of Elle, Swinderby and Skarle in
 Lincolnshire, Kingeswode juxta Waltham in Kent, the manor of Stroder in
@@ -645,7 +645,7 @@ granted them an annual
 <span id="page_100">p. 100</span>
 
 fair at Temple Bruere, and superadded many rich benefactions in
-Ireland. <span id="fr_142"></span>[\*](#fn_142)
+Ireland. <span id="fr_142"></span>[\*](#fn_142.md)
 
 The principal benefactors to the Templars amongst the nobility were
 William Marshall, earl of Pembroke, and his sons William and Gilbert;
@@ -655,7 +655,7 @@ Lincoln; the earl of Cornwall; Philip, bishop of Bayeux; Simon de
 Senlis, earl of Northampton; Leticia and William, count and countess of
 Ferrara; Margaret, countess of Warwick; Simon de Montfort, earl of
 Leicester; Robert de Harecourt, lord of Rosewarden; William de Vernon,
-earl of Devon, &c. &c. <span id="fr_143"></span>[†](#fn_143)
+earl of Devon, &c. &c. <span id="fr_143"></span>[†](#fn_143.md)
 
 The Templars, in addition to their amazing wealth, enjoyed vast
 privileges and immunities within this realm. In the reign of King John
@@ -665,12 +665,12 @@ chief justice. King Henry the Third granted them free warren in all
 their demesne lands; and by his famous charter, dated the 9th of
 February, in the eleventh year of his reign, he confirmed to them all
 the donations of his predecessors and of their other benefactors; with
-soc <span id="fr_144"></span>[‡](#fn_144) and sac <span
-id="fr_145"></span>[§](#fn_145), tol <span
-id="fr_146"></span>[¦¦](#fn_146) and theam, <span
-id="fr_147"></span>[¶](#fn_147) infangenethef, <span
-id="fr_148"></span>[\*\*](#fn_148) and unfangenethef, <span
-id="fr_149"></span>[††](#fn_149) and hamsoca, and grithbrich, and
+soc <span id="fr_144"></span>[‡](#fn_144.md) and sac <span
+id="fr_145"></span>[§](#fn_145.md), tol <span
+id="fr_146"></span>[¦¦](#fn_146.md) and theam, <span
+id="fr_147"></span>[¶](#fn_147.md) infangenethef, <span
+id="fr_148"></span>[\*\*](#fn_148.md) and unfangenethef, <span
+id="fr_149"></span>[††](#fn_149.md) and hamsoca, and grithbrich, and
 blodwite, and flictwite, and hengewite, and learwite, and flemenefrith,
 murder, robbery, forestal, ordel, and oreste; and he acquitted them from
 the royal and
@@ -686,7 +686,7 @@ building of royal houses and all other works; and also from waste regard
 and view of foresters, and from toll in all markets and fairs, and at
 all bridges, and upon all highways throughout the kingdom. And he also
 gave them the chattels of felons and fugitives, and all waifs within
-their fee. <span id="fr_150"></span>[\*](#fn_150)
+their fee. <span id="fr_150"></span>[\*](#fn_150.md)
 
 In addition to these particular privileges, the Templars enjoyed, under
 the authority of the Papal bulls, various immunities and advantages,
@@ -704,7 +704,7 @@ Temple, and in reverence for the holy soldiers thereof. The privilege of
 sanctuary was thrown around their dwellings; and by various papal bulls
 it is solemnly enjoined that no person shall lay violent hands either
 upon the persons or the property of those flying for refuge to the
-Temple houses. <span id="fr_151"></span>[†](#fn_151)
+Temple houses. <span id="fr_151"></span>[†](#fn_151.md)
 
 Sir Edward Coke, in the second part of the Institute of the Laws of
 England, observes, that "the Templars did so overspread
@@ -716,7 +716,7 @@ revenues, and wealth, and specially in England, as you will wonder to
 reade in approved histories, and withall obtained so great and large
 priviledges, liberties, and immunities for themselves, their tenants,
 and farmers, &c., as no other order had the like." <span
-id="fr_152"></span>[\*](#fn_152) He further observes, that the Knights
+id="fr_152"></span>[\*](#fn_152.md) He further observes, that the Knights
 Templars were *cruce signati*, and as the cross was the ensign of their
 profession, and their tenants enjoyed great privileges, they did erect
 crosses upon their houses, to the end that those inhabiting them might
@@ -728,7 +728,7 @@ their tenants enjoyed, did set up crosses upon their houses, as their
 very tenants used to doe, to the prejudice of their lords."
 
 This abuse led to the passing of the statute of Westminster, the second,
-*chap*. 33, <span id="fr_153"></span>[†](#fn_153) which recites, that
+*chap*. 33, <span id="fr_153"></span>[†](#fn_153.md) which recites, that
 many tenants did set up crosses or cause them to be set up on their
 lands in prejudice of their lords, that the tenants might defend
 themselves against the chief lord of the fee by the privileges of
@@ -741,7 +741,7 @@ purveyance; that they could not be sued for any ecclesiastical cause
 before the ordinary, *sed coram conservatoribus suorum privilegiorum;*
 and that of ancient time they claimed that a felon might take to their
 houses, having their crosses for his safety, as well as to any
-church. <span id="fr_154"></span>[‡](#fn_154) And concerning these
+church. <span id="fr_154"></span>[‡](#fn_154.md) And concerning these
 conservers or keepers of their privileges, he remarks, that the Templars
 and Hospitaliers "held an ecclesiasticall court before a
 
@@ -757,14 +757,14 @@ likewise at their instance, in cases wherein he had jurisdiction, would
 make general citations as pro salute anima, and the like, without
 expressing the matter whereupon the citation was made, which also was
 against law, and tended to the grievous vexation of the subject." <span
-id="fr_155"></span>[\*](#fn_155) To remedy these evils, another act of
+id="fr_155"></span>[\*](#fn_155.md) To remedy these evils, another act of
 parliament was passed, prohibiting Hospitaliers and Templars from
 bringing any man in plea before the keepers of their privileges, for any
 matter the knowledge whereof belonged to the king's court, and
 commanding such keepers of their privileges thenceforth to grant no
 citations at the instance of Hospitaliers and Templars, before it be
 expressed upon what matter the citation ought to be made. <span
-id="fr_156"></span>[†](#fn_156)
+id="fr_156"></span>[†](#fn_156.md)
 
 Having given an outline of the great territorial possessions of the
 order of the Temple in Europe, it now remains for us to present a sketch
@@ -795,7 +795,7 @@ counsel. In these last chapters visitors-general were appointed to
 examine into the administration of the western provinces.
 
 The western nations or provinces of the order were presided over by the
-provincial Masters, <span id="fr_157"></span>[\*](#fn_157) otherwise
+provincial Masters, <span id="fr_157"></span>[\*](#fn_157.md) otherwise
 Grand Priors or Grand Preceptors, who were originally appointed by the
 chief Master at Jerusalem, and were in theory mere trustees or bare
 administrators of the revenues of the fraternity, accountable to the
@@ -803,7 +803,7 @@ treasurer general at Jerusalem, and removeable at the pleasure of the
 Chief Master. As the numbers, possessions, and wealth of the Templars,
 however, increased, various abuses sprang up. The members of the order,
 after their admittance to the vows, very frequently, instead of
-proceeding direct to Palestine to war [against](errata.htm#2) the
+proceeding direct to Palestine to war [against](errata.htm#2.md) the
 infidels, settled down upon their property in Europe, and consumed at
 home a large proportion of those revenues which ought to have been
 faithfully and strictly forwarded to the general treasury at the Holy
@@ -821,7 +821,7 @@ organised after the model of the house of the Temple at Jerusalem. The
 superior is always styled "Master of the Temple," and holds his chapters
 and has his officers corresponding to those of the chief Master in
 Palestine. The latter, consequently, came to be denominated *Magnus
-Magister*, or Grand Master, <span id="fr_158"></span>[\*](#fn_158) by
+Magister*, or Grand Master, <span id="fr_158"></span>[\*](#fn_158.md) by
 our English writers, to distinguish him from the Master at London, and
 henceforth he will be described by that title to prevent confusion. The
 titles given indeed to the superiors of the different nations or
@@ -838,7 +838,7 @@ were also at the New Temple at London, in imitation of the establishment
 at the chief house in Palestine, in addition to the Master, the
 Preceptor of the Temple, the Prior of London, the Treasurer, and the
 Guardian of the church, who had three chaplains under him, called
-readers. <span id="fr_159"></span>[†](#fn_159)
+readers. <span id="fr_159"></span>[†](#fn_159.md)
 
 The Master at London had his general and particular, or his
 
@@ -850,7 +850,7 @@ and preceptors of the three kingdoms, who were summoned once a year to
 deliberate on the state of the Holy Land, to forward succour, to give an
 account of their stewardship, and to frame new rules and regulations for
 the management of the temporalities. <span
-id="fr_160"></span>[\*](#fn_160) The ordinary chapters were held at the
+id="fr_160"></span>[\*](#fn_160.md) The ordinary chapters were held at the
 different preceptories, which the Master of the Temple visited in
 succession. In these chapters new members were admitted into the order;
 lands were bought, sold, and exchanged; and presentations were made by
@@ -865,12 +865,12 @@ It is expressed to be made by him, with the common consent and advice of
 his chapter, held at the Preceptory of Dynneslee, on the feast of Saint
 Barnabas the Apostle, and concludes, "In witness whereof, we have to
 this present indenture placed the seal of our chapter." <span
-id="fr_161"></span>[†](#fn_161) A fac-simile of this seal is given
+id="fr_161"></span>[†](#fn_161.md) A fac-simile of this seal is given
 above. On the reverse of it is a man's head, decorated with a long
 beard, and surmounted by a small cap, and around it are the letters
 TESTISVMAGI. The same seal is to be met with on various other indentures
 made by the Master and Chapter of the Temple. <span
-id="fr_162"></span>[‡](#fn_162) The more early seals are surrounded with
+id="fr_162"></span>[‡](#fn_162.md) The more early seals are surrounded with
 the
 
 <span id="page_107">p. 107</span>
@@ -882,10 +882,10 @@ Morestello, Master of the chivalry of the Temple in England, and his
 chapter, of the one part, and the Lord Henry de Colevile, Knight, of the
 other part. The seal annexed to this deed has the addition of the word
 Militis, but in other respects it is similar to the one above
-delineated. <span id="fr_163"></span>[\*](#fn_163)
+delineated. <span id="fr_163"></span>[\*](#fn_163.md)
 
 The Master of the Temple was controlled by the visitors-general of the
-order, <span id="fr_164"></span>[†](#fn_164) who were knights specially
+order, <span id="fr_164"></span>[†](#fn_164.md) who were knights specially
 deputed by the Grand Master and convent of Jerusalem to visit the
 different provinces, to reform abuses, make new regulations, and
 terminate such disputes as were usually reserved for the decision of the
@@ -924,7 +924,7 @@ the realm, (*primus baro Angliæ*) but that is to be understood among
 priors only. To the parliament holden in the twenty-ninth year of King
 Henry the Third, there were summoned sixty-five abbots, thirty-five
 priors, and the Master of the Temple. <span
-id="fr_165"></span>[\*](#fn_165) The oath taken by the grand priors,
+id="fr_165"></span>[\*](#fn_165.md) The oath taken by the grand priors,
 grand preceptors, or provincial Masters in Europe, on their assumption
 of the duties of their high administrative office, was drawn up in the
 following terms:--
@@ -957,12 +957,12 @@ belonging to the order; and that I will never refuse to the religious
 any succour that I am able to afford them; that I will aid and defend
 them by words, by arms, and by all sorts of good offices; and in
 sincerity and of my own free will I swear that I will observe all these
-things." <span id="fr_166"></span>[\*](#fn_166)
+things." <span id="fr_166"></span>[\*](#fn_166.md)
 
 Among the earliest of the Masters, or Grand Priors, or Grand Preceptors
 of England, whose names figure in history, is Richard de Hastings, who
 was at the head of the order in this country on the accession of King
-Henry the Second to the throne, <span id="fr_167"></span>[†](#fn_167)
+Henry the Second to the throne, <span id="fr_167"></span>[†](#fn_167.md)
 (A.D. 11540 and was employed by that monarch in various important
 negotiations. In the year 1160 he greatly offended the king of France.
 The Princess Margaret, the
@@ -979,10 +979,10 @@ caused the prince and princess, both of whom were infants, to be married
 in the presence of Richard de Hastings, the Grand Prior or Master of the
 Temple in England, and two other Knights Templars, who, immediately
 after the conclusion of the ceremony, placed the fortresses in King
-Henry's hands. <span id="fr_168"></span>[\*](#fn_168) The king of France
+Henry's hands. <span id="fr_168"></span>[\*](#fn_168.md) The king of France
 was highly indignant at this proceeding, and some writers accuse the
 Templars of treachery, but from the copy of the treaty published by Lord
-Littleton <span id="fr_169"></span>[†](#fn_169) it does not appear that
+Littleton <span id="fr_169"></span>[†](#fn_169.md) it does not appear that
 they acted with bad faith.
 
 The above Richard de Hastings was the friend and confidant of Thomas â
@@ -992,33 +992,33 @@ all his brethren were assembled, and went to consult with Richard de
 Hastings, the Prior of the Temple at London, who threw himself on his
 knees before him, and with many tears besought him to give in his
 adherence to the famous councils of Clarendon. <span
-id="fr_170"></span>[‡](#fn_170)
+id="fr_170"></span>[‡](#fn_170.md)
 
 <span id="page_111">p. 111</span>
 
 Richard de Hastings was succeeded by Richard Mallebeench, who confirmed
 a treaty of peace and concord which had been entered into between his
 predecessor and the abbot of Kirkested; <span
-id="fr_171"></span>[\*](#fn_171) and the next Master of the Temple
+id="fr_171"></span>[\*](#fn_171.md) and the next Master of the Temple
 appears to have been Geoffrey son of Stephen, who received the Patriarch
 Heraclius as his guest at the new Temple on the occasion of the
 consecration of the Temple church, He styles himself "*Minister* of the
 soldiery of the Temple in England." <span
-id="fr_172"></span>[†](#fn_172)
+id="fr_172"></span>[†](#fn_172.md)
 
 In consequence of the high estimation in which the Templars were held,
 and the privilege of sanctuary enjoyed by them, the Temple at London
 came to be made "a storehouse of treasure." The wealth of the king, the
 nobles, the bishops, and of the rich burghers of London, was generally
 deposited therein, under the safeguard and protection of the military
-friars. <span id="fr_173"></span>[‡](#fn_173) The money collected in the
+friars. <span id="fr_173"></span>[‡](#fn_173.md) The money collected in the
 churches and chapels for the succour of the Holy Land was also paid into
 the treasury of the Temple, to be forwarded to its destination: and the
 treasurer was at different times authorised to receive the taxes imposed
 upon the moveables of the ecclesiastics, also the large sums of money
 extorted by the rapacious popes from the English clergy, and the
 annuities granted by the king to the nobles of the kingdom. <span
-id="fr_174"></span>[§](#fn_174) The money and jewels of Hubert de Burgh,
+id="fr_174"></span>[§](#fn_174.md) The money and jewels of Hubert de Burgh,
 earl of Kent, the chief justiciary, and at one time governor of the king
 and kingdom of
 
@@ -1063,7 +1063,7 @@ the things found to be reduced into writing and exhibited before him.
 The king's clerks, indeed, and the treasurer acting with them, found
 deposited in the Temple gold and silver vases of inestimable price, and
 money and many precious gems, an enumeration whereof would in truth
-astonish the hearers." <span id="fr_175"></span>[\*](#fn_175)
+astonish the hearers." <span id="fr_175"></span>[\*](#fn_175.md)
 
 The kings of England frequently resided in the Temple, and so also did
 the haughty legates of the Roman pontiffs, who there made contributions
@@ -1077,36 +1077,36 @@ must send him rich presents, desirable palfreys, sumptuous services for
 the table, and rich clothing; which being done, that same Martin sent
 back word that the things sent were insufficient, and he commanded the
 givers thereof to forward him better things, on pain of suspension and
-excommunication." <span id="fr_176"></span>[†](#fn_176)
+excommunication." <span id="fr_176"></span>[†](#fn_176.md)
 
 The convocations of the clergy and the great ecclesiastical councils
 were frequently held at the Temple, and laws were there made by the
 bishops and abbots for the government of the church and monasteries in
-England. <span id="fr_177"></span>[‡](#fn_177)
+England. <span id="fr_177"></span>[‡](#fn_177.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_101"></span>[81:\*](hkt07.htm#fr_101) *Stowe's* Survey;
+<span id="fn_101"></span>[81:\*](hkt07.htm#fr_101.md) *Stowe's* Survey;
 *Tanner*, Notit. Monast.; *Dugd*. Orig. Jurid.
 
-<span id="fn_102"></span>[82:\*](hkt07.htm#fr_102) *Herbert*, Antiq.
+<span id="fn_102"></span>[82:\*](hkt07.htm#fr_102.md) *Herbert*, Antiq.
 Inns of Court.
 
-<span id="fn_103"></span>[82:†](hkt07.htm#fr_103) "Yea, and a part of
+<span id="fn_103"></span>[82:†](hkt07.htm#fr_103.md) "Yea, and a part of
 that too," says Sir William Dugdale, in his *origins juridiciales*, as
 appears from the first grant thereof to Sir William Paget, Knight, Pat.
 ii. Edward VI. p. 2.
 
-<span id="fn_104"></span>[82:‡](hkt07.htm#fr_104) We read on many old
+<span id="fn_104"></span>[82:‡](hkt07.htm#fr_104.md) We read on many old
 charters and deeds, "Datum apud *vetus* Templum Londoniæ." See an
 example, Nichols' Leicestershire, vol. iii. p. 959; see also the
 account, in *Matt. Par.* and Hoveden, of the king's visit to Hugh bishop
 of Lincoln, who lay sick of a fever at the Old Temple, and died there,
 the 16th November, A.D. 1200.
 
-<span id="fn_105"></span>[83:\*](hkt07.htm#fr_105) Anno ab incarnatione
+<span id="fn_105"></span>[83:\*](hkt07.htm#fr_105.md) Anno ab incarnatione
 Domini MCLXXXV. facta est ista inquisitio de terrarum donatoribus, et
 earum possessoribus, ecclesiarum scil. et molendinorum, et terrarum
 assisarum, et in dominico habitarum, et de redditibus assisis per
@@ -1117,7 +1117,7 @@ pervicacibus omnimodam nocendi rescinderet facultatem. Ex. cod. MS. in
 Scacc. penes Remor. Regis. fol. i. a.; Dugd. Monast. Angl. vol. vi. part
 ii. p. 820.
 
-<span id="fn_106"></span>[84:\*](hkt07.htm#fr_106) Quorum res adeo
+<span id="fn_106"></span>[84:\*](hkt07.htm#fr_106.md) Quorum res adeo
 crevit in immensum, ut hodie, trecentos in conventu habeant equites,
 albïs chlamydibus indutos: exceptis fratribus, quorum pene infinitus est
 numerus. Possessions autem, tam ultra quam citra mare, adeo dicuntur
@@ -1126,151 +1126,151 @@ prædictis fratribus suorum portionem non contulerit, et regiis
 opulentiis pares hodie dicuntur habere copias.--*Will. Tyr.* lib. xii.
 cap. 7.
 
-<span id="fn_107"></span>[85:\*](hkt07.htm#fr_107) Dominus Baldwinus
+<span id="fn_107"></span>[85:\*](hkt07.htm#fr_107.md) Dominus Baldwinus
 illustris memoriæ, Hierosolymorum rex quartos, Gazam munitissimam
 fratribus militiæ Templi donavit, *Will. Tyr.* lib. xx. cap. 21. Milites
 Templi Gazam antiquam Palæstinæ civitatem reædificant, et turribus eam
 muniunt, *Rob. de Monte*, appen. ad chron. Sig. p. 631.
 
-<span id="fn_108"></span>[86:\*](hkt07.htm#fr_108) *Marin. Sanut*, p.
+<span id="fn_108"></span>[86:\*](hkt07.htm#fr_108.md) *Marin. Sanut*, p.
 221. *Bernard Thesaur*. p. 768. *Radulph Coggleshale*, p. 249. Hoveden,
 p. 636. Radulph de Diceto, ut sup. p. 623. *Matt. Par.* p. 142. Italia
 sacra, tom. iii. p. 407.
 
-<span id="fn_109"></span>[86:†](hkt07.htm#fr_109) Tunc Julianus Dominus
+<span id="fn_109"></span>[86:†](hkt07.htm#fr_109.md) Tunc Julianus Dominus
 Sydonis vendidit Sydonem et Belfort Templariis, *Marin. Sanut*, cap. vi.
 p. 221.
 
-<span id="fn_110"></span>[87:\*](hkt07.htm#fr_110) Atlas *Marianus*, p.
+<span id="fn_110"></span>[87:\*](hkt07.htm#fr_110.md) Atlas *Marianus*, p.
 156; Siciliæ Antiq., tom. iii. col. 1000.
 
-<span id="fn_111"></span>[87:†](hkt07.htm#fr_111) Gallia christiana
+<span id="fn_111"></span>[87:†](hkt07.htm#fr_111.md) Gallia christiana
 nova, tom. iii. col. 118; Probat. tom. ix. col. 1067, tom. x. col. 1292,
 tom. xi. col. 46; *Roccus Pyrrhus*, Sicil. Antiq. tom. iii. col. 1093,
 4, 5, 6, 7, &c.
 
-<span id="fn_112"></span>[88:\*](hkt07.htm#fr_112) *Petrus Maria Campus*
+<span id="fn_112"></span>[88:\*](hkt07.htm#fr_112.md) *Petrus Maria Campus*
 Hist. Placent. part ii. n. 28; *Pauli M. Paciandi* de cultu S. Johannis
 Bapt. Antiq. p. 297.
 
-<span id="fn_113"></span>[89:\*](hkt07.htm#fr_113) Description et
+<span id="fn_113"></span>[89:\*](hkt07.htm#fr_113.md) Description et
 delices d’Espagne, tom. iii. p. 259; Hist. Portugal, *La Clede*, tom. i.
 p. 200, 202, &c.; Hispania illustrata, tom. iii. p. 49.
 
-<span id="fn_114"></span>[89:†](hkt07.htm#fr_114) Annales Minorum, tom.
+<span id="fn_114"></span>[89:†](hkt07.htm#fr_114.md) Annales Minorum, tom.
 v. p. 247; tom. vi. p. 211, 218; tom. viii. p. 26, 27; tom. ix. p.130,
 141.--*Campomanes*.
 
-<span id="fn_115"></span>[89:‡](hkt07.htm#fr_115) Marcæ Hispanicæ, col.
+<span id="fn_115"></span>[89:‡](hkt07.htm#fr_115.md) Marcæ Hispanicæ, col.
 1291, 1292, 1304. Gall. christ. nov. tom. i. col. 195. *Mariana*, de.
 reb. Hisp. lib. ii. cap. 23.
 
-<span id="fn_116"></span>[90:\*](hkt07.htm#fr_116) Script. rer. Germ.
+<span id="fn_116"></span>[90:\*](hkt07.htm#fr_116.md) Script. rer. Germ.
 tom. ii. col. 584. Annales Minorum, tom. vi. p. 5, 95, 177. Suevia and
 Vertenbergia sacra, p. 74. Annal. Bamb. p. 186. Notitiæ episcopatûs
 Middelb. p. 11. Scrip. de rebus Marchiæ Brandeburg, p.13. *Aventinus*
 annal. lib. vii. cap. 1. n. 7. Gall. christ. nov. tom. viii. col. 1382;
 tom. i. col. 1129.
 
-<span id="fn_117"></span>[90:†](hkt07.htm#fr_117) Constantinopolis
+<span id="fn_117"></span>[90:†](hkt07.htm#fr_117.md) Constantinopolis
 christiana, lib. iv. p. 157.
 
-<span id="fn_118"></span>[90:‡](hkt07.htm#fr_118) Hist. de l’Eglise de
+<span id="fn_118"></span>[90:‡](hkt07.htm#fr_118.md) Hist. de l’Eglise de
 Besancon, tom. ii. p. 397, 421, 450, 474, 445, 470, 509, &c.
 
-<span id="fn_119"></span>[91:\*](hkt07.htm#fr_119) Hist. de l’Eglise de
+<span id="fn_119"></span>[91:\*](hkt07.htm#fr_119.md) Hist. de l’Eglise de
 St. Etienne à Dijon, p. 133, 137, 205. Hist. de Bresse, tom. 1. p. 52,
 55, 84.
 
-<span id="fn_120"></span>[91:†](hkt07.htm#fr_120) Hist. gen. de
+<span id="fn_120"></span>[91:†](hkt07.htm#fr_120.md) Hist. gen. de
 Languedoc, liv. ii. p. 523; liv. xvi., p. 362; liv. xvii. p. 427; liv.
 xxii. p. 25, 226. Gall. christ. tom. vi. col. 727. *Martene* Thesaur.
 anecd. tom. i. col. 57.5.
 
-<span id="fn_121"></span>[91:‡](hkt07.htm#fr_121) Gall. christ. nov.
+<span id="fn_121"></span>[91:‡](hkt07.htm#fr_121.md) Gall. christ. nov.
 tom. i. p. 32; tom. iii. col. 333; tom. ii. col. 46, 47, and 72. La
 *Martiniere* dict. geogr. *Martene*, ampl. collect. tom. vi. col. 226.
 Gloss. nov. tom iii. col. 223.
 
-<span id="fn_122"></span>[92:\*](hkt07.htm#fr_122) Histoire de la ville
+<span id="fn_122"></span>[92:\*](hkt07.htm#fr_122.md) Histoire de la ville
 de Paris, tom. i. p. 174. Gall. christ. nov. tom. vii, col. 853.
 
-<span id="fn_123"></span>[93:\*](hkt07.htm#fr_123) Annales Trevir. tom.
+<span id="fn_123"></span>[93:\*](hkt07.htm#fr_123.md) Annales Trevir. tom.
 ii. p. 91; 197, 479. *Prodromes* hist. Trevir. p. 1077. *Bertholet*
 hist. de Luxembourg, tom. v. p. 145. *Joh. Bapt.* Antiq. Flandriæ
 Gandavum, p. 24, 207. Antiq. Bredanæ, p. 12, 23. *Austroburgus*, p. 115.
 *Aub. Miræi* Diplomat. tom. ii. p. 1165, &c.
 
-<span id="fn_124"></span>[94:\*](hkt07.htm#fr_124) *Dugd*. Monast. Angl.
+<span id="fn_124"></span>[94:\*](hkt07.htm#fr_124.md) *Dugd*. Monast. Angl.
 vol. vi. part 2, p. 800 to 817. Concilia Magnæ Britanniæ, tom. iii. p.
 333 to 382. Acta *Rymeri*, tom. iii. p. 279, 288, 291, 295, &c.
 
-<span id="fn_125"></span>[94:†](hkt07.htm#fr_125) Acta *Rymeri*, tom.
+<span id="fn_125"></span>[94:†](hkt07.htm#fr_125.md) Acta *Rymeri*, tom.
 iii. p. 279, 288, 291, 297, &c.
 
-<span id="fn_126"></span>[94:‡](hkt07.htm#fr_126) *Nichols’* hist. of
+<span id="fn_126"></span>[94:‡](hkt07.htm#fr_126.md) *Nichols’* hist. of
 Leicestershire.
 
-<span id="fn_127"></span>[95:\*](hkt07.htm#fr_127) *Clutterbuck's* hist.
+<span id="fn_127"></span>[95:\*](hkt07.htm#fr_127.md) *Clutterbuck's* hist.
 Hertfordshire. *Chauncey*, antiq. Hert. Acta *Rymeri*, tom. iii. p.
 133134. *Dodsworth*, M. S. vol. xxxv.
 
-<span id="fn_128"></span>[95:†](hkt07.htm#fr_128) *Morant's* hist.
+<span id="fn_128"></span>[95:†](hkt07.htm#fr_128.md) *Morant's* hist.
 Essex, *Rymeri* tom. iii. p. 290 to 294.
 
-<span id="fn_129"></span>[95:‡](hkt07.htm#fr_129) Redditus omnium
+<span id="fn_129"></span>[95:‡](hkt07.htm#fr_129.md) Redditus omnium
 ecclesiarum et molendinorum et terrarum de bailliâ de Lincolnscire.
 Inquis. terrar. ut sup. fol. 41 b to 48 b and 49 a. *Peck's* MS. in
 Museo Britannico, vol. iv. fol. 95 et seq.
 
-<span id="fn_130"></span>[95:§](hkt07.htm#fr_130) *Peck's* MS. ut sup.
+<span id="fn_130"></span>[95:§](hkt07.htm#fr_130.md) *Peck's* MS. ut sup.
 fol. 95.
 
-<span id="fn_131"></span>[96:\*](hkt07.htm#fr_131) Inquis. ut. sup. 58 b
+<span id="fn_131"></span>[96:\*](hkt07.htm#fr_131.md) Inquis. ut. sup. 58 b
 to 65 b.
 
-<span id="fn_132"></span>[96:†](hkt07.htm#fr_132) Inquis. terrar. ut
+<span id="fn_132"></span>[96:†](hkt07.htm#fr_132.md) Inquis. terrar. ut
 sup. fol. 12 a to 23 a. Dodsworth MS. vol. xx. p. 65, 67, ex quodam
 rotulo tangente terras Templariorum. Rot. 42, 46, p. 964. Dugd. Baron.
 tom. i. p. 70.
 
-<span id="fn_133"></span>[96:‡](hkt07.htm#fr_133) Monast. Angl. ut sup.
+<span id="fn_133"></span>[96:‡](hkt07.htm#fr_133.md) Monast. Angl. ut sup.
 p. 840. *Hasted*. hist. Kent.
 
-<span id="fn_134"></span>[96:§](hkt07.htm#fr_134) Ex cod. MS. in officio
+<span id="fn_134"></span>[96:§](hkt07.htm#fr_134.md) Ex cod. MS. in officio
 armorum, L. xvii. fol. 141 a. Calendarium Inquis. post mortem, p. 13.
 18.
 
-<span id="fn_135"></span>[97:\*](hkt07.htm#fr_135) *Manning's* Surrey.
+<span id="fn_135"></span>[97:\*](hkt07.htm#fr_135.md) *Manning's* Surrey.
 *Atkyn's* Gloucestershire; and see the references in Tanner *Nash's*
 Worcestershire.
 
-<span id="fn_136"></span>[97:†](hkt07.htm#fr_136) *Bridge's*
+<span id="fn_136"></span>[97:†](hkt07.htm#fr_136.md) *Bridge's*
 Northamptonshire, vol. ii. p. 100.
 
-<span id="fn_137"></span>[97:‡](hkt07.htm#fr_137) *Thoroton's*
+<span id="fn_137"></span>[97:‡](hkt07.htm#fr_137.md) *Thoroton's*
 Nottinghamshire. *Burn and Nicholson's* Westmoreland. *Worsley's* Isle
 of Wight.
 
-<span id="fn_138"></span>[98:\*](hkt07.htm#fr_138) Habuerunt insuper
+<span id="fn_138"></span>[98:\*](hkt07.htm#fr_138.md) Habuerunt insuper
 Templarii in Christianitate *novem millia* maneriorum . . . . præter
 emolumenta et varios proventus ex fraternitatibus et prædicationibus
 provenientes, et per privilegia sua accrescentes. *Mat. Par.* p. 615,
 ed. Lond. 1640.
 
-<span id="fn_139"></span>[98:†](hkt07.htm#fr_139) Amplis autem
+<span id="fn_139"></span>[98:†](hkt07.htm#fr_139.md) Amplis autem
 possessionibus tam citra mare quam ultra ditati sunt in immensum,
 villas, civitates et oppida, ex quibus certain pecuniæ summam, pro
 defensione Terræ Sanctæ, summo eorum magistro cujus sedes principalis
 erat in Jerusalem, mittunt annuatim.--*Jac. de Vitr.* Hist. Hierosol. p.
 1084.
 
-<span id="fn_140"></span>[99:\*](hkt07.htm#fr_140) Masculum pullum, si
+<span id="fn_140"></span>[99:\*](hkt07.htm#fr_140.md) Masculum pullum, si
 natus sit super terram domus, vendere non possunt sine licentiâ fratrum.
 Si filiam habent, dare non possunt sine licentiâ fratrum. Inquisitio
 terrarum, ut supr. fol. 18 a.
 
-<span id="fn_141"></span>[99:†](hkt07.htm#fr_141) The Templars, by
+<span id="fn_141"></span>[99:†](hkt07.htm#fr_141.md) The Templars, by
 diverting the water, created a great nuisance. In A.D. 1290, the *Prior
 et fratres de Carmelo* (the white friars) complained to the king in
 parliament of the putrid exhalations arising from the Fleet river, which
@@ -1283,83 +1283,83 @@ complaint; as did also Henry Lacy, Earl of Lincoln, who alleges that the
 Templars (*ipsi de novo Templo*) had turned off the water of the river
 to their mills at Castle Baignard.--*Rot. Parl.* vol. i. p. 60, 200.
 
-<span id="fn_142"></span>[100:\*](hkt07.htm#fr_142) Ex cod. MS. in
+<span id="fn_142"></span>[100:\*](hkt07.htm#fr_142.md) Ex cod. MS. in
 officio armorum, L. xvii. fol. 141 a. Dugd. Monast. Angl. ut sup. p.
 838. Tanner, Notit. Monast.
 
-<span id="fn_143"></span>[100:†](hkt07.htm#fr_143) Dugd. Baronage.
+<span id="fn_143"></span>[100:†](hkt07.htm#fr_143.md) Dugd. Baronage.
 Monast. Angl. p. 800 to 844.
 
-<span id="fn_144"></span>[100:‡](hkt07.htm#fr_144) Power to hold courts;
+<span id="fn_144"></span>[100:‡](hkt07.htm#fr_144.md) Power to hold courts;
 
-<span id="fn_145"></span>[100:§](hkt07.htm#fr_145) to impose and levy
+<span id="fn_145"></span>[100:§](hkt07.htm#fr_145.md) to impose and levy
 fines and amerciaments upon their tenants;
 
-<span id="fn_146"></span>[100:¦¦](hkt07.htm#fr_146) to buy and sell, or
+<span id="fn_146"></span>[100:¦¦](hkt07.htm#fr_146.md) to buy and sell, or
 to hold a kind of market;
 
-<span id="fn_147"></span>[100:¶](hkt07.htm#fr_147) to judge and punish
+<span id="fn_147"></span>[100:¶](hkt07.htm#fr_147.md) to judge and punish
 their villains and vassals;
 
-<span id="fn_148"></span>[100:\*\*](hkt07.htm#fr_148) to try thieves and
+<span id="fn_148"></span>[100:\*\*](hkt07.htm#fr_148.md) to try thieves and
 malefactors belonging to their manors, and taken within the precincts
 thereof;
 
-<span id="fn_149"></span>[100:††](hkt07.htm#fr_149) to judge foreign
+<span id="fn_149"></span>[100:††](hkt07.htm#fr_149.md) to judge foreign
 thieves taken within the said manors. &c.
 
-<span id="fn_150"></span>[101:\*](hkt07.htm#fr_150) Cart. 11. Hen. 3. M.
+<span id="fn_150"></span>[101:\*](hkt07.htm#fr_150.md) Cart. 11. Hen. 3. M.
 33. *Dugd. Monast.* p. 844.
 
-<span id="fn_151"></span>[101:†](hkt07.htm#fr_151) Acta *Rymeri*, tom i.
+<span id="fn_151"></span>[101:†](hkt07.htm#fr_151.md) Acta *Rymeri*, tom i.
 p. 54, 298, 574, 575.
 
-<span id="fn_152"></span>[102:\*](hkt07.htm#fr_152) Page 431.
+<span id="fn_152"></span>[102:\*](hkt07.htm#fr_152.md) Page 431.
 
-<span id="fn_153"></span>[102:†](hkt07.htm#fr_153) 13 Edward I.
+<span id="fn_153"></span>[102:†](hkt07.htm#fr_153.md) 13 Edward I.
 
-<span id="fn_154"></span>[102:‡](hkt07.htm#fr_154) 2 Inst. p. 432.
+<span id="fn_154"></span>[102:‡](hkt07.htm#fr_154.md) 2 Inst. p. 432.
 
-<span id="fn_155"></span>[103:\*](hkt07.htm#fr_155) 2 Inst. p. 465.
+<span id="fn_155"></span>[103:\*](hkt07.htm#fr_155.md) 2 Inst. p. 465.
 
-<span id="fn_156"></span>[103:†](hkt07.htm#fr_156) Stat. Westr. 2, cap.
+<span id="fn_156"></span>[103:†](hkt07.htm#fr_156.md) Stat. Westr. 2, cap.
 43, 13 Ed. I.
 
-<span id="fn_157"></span>[104:\*](hkt07.htm#fr_157) The title Master of
+<span id="fn_157"></span>[104:\*](hkt07.htm#fr_157.md) The title Master of
 the Temple was so generally applied to the superiors of the western
 provinces, that we find in the Greek of the lower empire, the words
 Τέμπλου Μαιστὼρ. *Ducange*. Gloss.
 
-<span id="fn_158"></span>[105:\*](hkt07.htm#fr_158) Also summus
+<span id="fn_158"></span>[105:\*](hkt07.htm#fr_158.md) Also summus
 magister, magister generals.
 
-<span id="fn_159"></span>[105:†](hkt07.htm#fr_159) *Concil. Mag. Brit.*
+<span id="fn_159"></span>[105:†](hkt07.htm#fr_159.md) *Concil. Mag. Brit.*
 tom. ii. p. 335, 339, 340. Monast. Angl. p. 818.
 
-<span id="fn_160"></span>[106:\*](hkt07.htm#fr_160) *Concil. Mag. Brit.*
+<span id="fn_160"></span>[106:\*](hkt07.htm#fr_160.md) *Concil. Mag. Brit.*
 tom. ii. p. 355, 356.
 
-<span id="fn_161"></span>[106:†](hkt07.htm#fr_161) In cujus rei
+<span id="fn_161"></span>[106:†](hkt07.htm#fr_161.md) In cujus rei
 testimonium huic præsenti scripto indentato sigillum capituli nostri
 apposuimus.
 
-<span id="fn_162"></span>[106:‡](hkt07.htm#fr_162) MS. apud Belvoir.
+<span id="fn_162"></span>[106:‡](hkt07.htm#fr_162.md) MS. apud Belvoir.
 *Peck's* MS. in Museo Britannico, vol. iv. p. 65.
 
-<span id="fn_163"></span>[107:\*](hkt07.htm#fr_163) *Nicholl's* Hist.
+<span id="fn_163"></span>[107:\*](hkt07.htm#fr_163.md) *Nicholl's* Hist.
 Leicestershire, vol. iii. pl. cxxvii. dg. 947, p. 943.; vol. ii. pl. v.
 fig. 13.
 
-<span id="fn_164"></span>[107:†](hkt07.htm#fr_164) Two of these
+<span id="fn_164"></span>[107:†](hkt07.htm#fr_164.md) Two of these
 visitors-general have been buried in the Temple Church.
 
-<span id="fn_165"></span>[108:\*](hkt07.htm#fr_165) Rot. claus. 49. H.
+<span id="fn_165"></span>[108:\*](hkt07.htm#fr_165.md) Rot. claus. 49. H.
 III. m. xi. d. *Acta Rymeri*, tom. iii. p. 802.
 
-<span id="fn_166"></span>[109:\*](hkt07.htm#fr_166) L’histoire des
+<span id="fn_166"></span>[109:\*](hkt07.htm#fr_166.md) L’histoire des
 Cisteaux, *Chrisost. Henriques*, p. 479.
 
-<span id="fn_167"></span>[109:†](hkt07.htm#fr_167) Ricardus de
+<span id="fn_167"></span>[109:†](hkt07.htm#fr_167.md) Ricardus de
 Hastinges, Magister omnium militum et fratrum Templi qui sunt in Angliâ,
 salutem. Notum vobis facimus quod omnis controversia quæ fuit inter nos
 et monachos de Kirkested . . . . terminata et finita est assensu et
@@ -1369,7 +1369,7 @@ the bishop of Lincoln, and several abbots, are witnesses to this
 instrument.--*Lansdown* MS. 207 E, fol. 467, p. 162, 163; see also p.
 319, where he is mentioned as Master, A.D. 1161.
 
-<span id="fn_168"></span>[110:\*](hkt07.htm#fr_168) Et paulo post rex
+<span id="fn_168"></span>[110:\*](hkt07.htm#fr_168.md) Et paulo post rex
 Angliæ fecit Henricum filium suum desponsare Margaritam filiam regis
 Franciæ, cum adhuc essent pueruli in cunis vagientes; videntibus et
 consentientibus Roberto de Pirou et Toster de Sancto Homero et Ricardo
@@ -1380,43 +1380,43 @@ suscipiens, multis ditavit honoribus.--*Rog. Hoveden*, script. post
 Bedam, p. 492. *Guilielmei Neubrigiensis* hist. lib. ii. cap. 4, apud
 *Hearne*.
 
-<span id="fn_169"></span>[110:†](hkt07.htm#fr_169) Life of Henry II.
+<span id="fn_169"></span>[110:†](hkt07.htm#fr_169.md) Life of Henry II.
 tom. iv. p. 203.
 
-<span id="fn_170"></span>[110:‡](hkt07.htm#fr_170) Ib. tom. ii. p. 356.
+<span id="fn_170"></span>[110:‡](hkt07.htm#fr_170.md) Ib. tom. ii. p. 356.
 Hist. quad. p. 38. *Hoveden*, 453. *Chron. Gervasii*, p. 1386, apud X
 script.
 
-<span id="fn_171"></span>[111:\*](hkt07.htm#fr_171) Ricardus
+<span id="fn_171"></span>[111:\*](hkt07.htm#fr_171.md) Ricardus
 Mallebeench, *magister* omnium pauperum militum et fratrum Templi
 Salomonis in Angliâ, &c. . . . Confirmavimus pacem et concordiam quam
 Ricardus de Hastings fecit cum Waltero abbate de Kirkested.--*Lansdown*
 MS. 207 E., fol. 467.
 
-<span id="fn_172"></span>[111:†](hkt07.htm#fr_172) Gaufridus, filius
+<span id="fn_172"></span>[111:†](hkt07.htm#fr_172.md) Gaufridus, filius
 Stephan, militiæ Templi in Angliâ *Minister*, assensu totius capituli
 nostri dedi, &c., totum illud tenementum in villâ de Scamtrun quod Emma
 uxor Walteri Camerarii tenet de domo nostrâ, &c. Ib. fol. 201.
 
-<span id="fn_173"></span>[111:‡](hkt07.htm#fr_173) Post.
+<span id="fn_173"></span>[111:‡](hkt07.htm#fr_173.md) Post.
 
-<span id="fn_174"></span>[111:§](hkt07.htm#fr_174) The money is ordered
+<span id="fn_174"></span>[111:§](hkt07.htm#fr_174.md) The money is ordered
 to be paid "dilecto filio nostro Thesaurario domus militiæ Templi
 Londonien." *Acta Rymeri*, tom. i. p. 442, 4, 5. *Wilkins* Concilia,
 tom. ii. p. 230.
 
-<span id="fn_175"></span>[113:\*](hkt07.htm#fr_175) *Matt. Par.* p. 381.
+<span id="fn_175"></span>[113:\*](hkt07.htm#fr_175.md) *Matt. Par.* p. 381.
 
-<span id="fn_176"></span>[113:†](hkt07.htm#fr_176) *Matt. Par.* p. 253,
+<span id="fn_176"></span>[113:†](hkt07.htm#fr_176.md) *Matt. Par.* p. 253,
 645.
 
-<span id="fn_177"></span>[113:‡](hkt07.htm#fr_177) *Wilkins*, Concilia
+<span id="fn_177"></span>[113:‡](hkt07.htm#fr_177.md) *Wilkins*, Concilia
 Magnæ Britanniæ, tom. ii. p. 19, 26, 93, 239, 253, 272, 292.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](hkt08)
+[Next: Chapter VI](hkt08.md)
 
 </div>

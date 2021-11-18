@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng06)  [Next](nblng08) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng06)  [Next](nblng08.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ in later days the valiant knight lay pitiful in death.
 ------------------------------------------------------------------------
 
 [Next: Adventure VI: How Gunther Fared To Isenland for
-Brunhild.](nblng08)
+Brunhild.](nblng08.md)

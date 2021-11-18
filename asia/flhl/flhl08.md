@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl07)  [Next](flhl09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl07)  [Next](flhl09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -186,7 +186,7 @@ because they willingly carried fuel to the furnace, and bore the
 soldiers of Nimrûd swiftly in pursuit of El-Khalìl.
 
 After this, Ibrahìm had various adventures both in Egypt and at
-Bir-es-Seba, <span id="fr_16"></span>[1](#fn_16) following which came
+Bir-es-Seba, <span id="fr_16"></span>[1](#fn_16.md) following which came
 events which I cannot do better than tell in the words of one of the
 sheykhs of the great
 
@@ -227,13 +227,13 @@ the Faithful, who began to build at Ramet el Khalìl, an hour from
 Hebron, but, after he had laid the few courses which are still to be
 seen there, Allah showed him his mistake, and he moved on to Hebron.
 
- <span id="fr_17"></span>[1](#fn_17)Hebron was then inhabited by Jews
+ <span id="fr_17"></span>[1](#fn_17.md)Hebron was then inhabited by Jews
 and Christians, the name of whose patriarch was Habrûn. Ibrahìm went to
 visit him, and said he wished to buy as much land as the "furweh" or
 sheepskin jacket which he was wearing would enclose if cut into pieces.
 Habrûn, laughing, said, "I will sell you that much land for four hundred
 golden dinàrs, and each hundred dinàrs must have the die of a different
-sultan." It was then the ’asr, <span id="fr_18"></span>[2](#fn_18) and
+sultan." It was then the ’asr, <span id="fr_18"></span>[2](#fn_18.md) and
 Ibrahìm asked leave to say his prayers. He took off his furweh and
 spread it on the ground for a prayer-carpet. Then, taking up the proper
 position, he performed his devotions, adding a petition for the sum
@@ -253,7 +253,7 @@ the furweh was to be cut had not been specified.
 
 This made Habrûn so angry that he took the forty witnesses to the top of
 the hill south-west of the city, where the ruins of Deyr el
-Arba’ìn <span id="fr_19"></span>[1](#fn_19) now stand and there cut
+Arba’ìn <span id="fr_19"></span>[1](#fn_19.md) now stand and there cut
 their heads off. But even that did not silence them, for each head, as
 it rolled down the hill, cried: "The agreement was that the jacket
 should be cut." El-Khalìl took their corpses and buried them, each in
@@ -410,18 +410,18 @@ the bag of money was placed by Ibrahìm.
 
 ### Footnotes
 
-<span id="fn_16"></span>[28:1](flhl08.htm#fr_16) Beersheba.
+<span id="fn_16"></span>[28:1](flhl08.htm#fr_16.md) Beersheba.
 
-<span id="fn_17"></span>[30:1](flhl08.htm#fr_17) Some of the details in
+<span id="fn_17"></span>[30:1](flhl08.htm#fr_17.md) Some of the details in
 the ensuing narrative remind one of the story of the founding of
 Carthage.
 
-<span id="fn_18"></span>[30:2](flhl08.htm#fr_18) Hour for afternoon
+<span id="fn_18"></span>[30:2](flhl08.htm#fr_18.md) Hour for afternoon
 prayer, half way from noon to sunset.--ED.
 
-<span id="fn_19"></span>[31:1](flhl08.htm#fr_19) *i.e.* Convent of the
+<span id="fn_19"></span>[31:1](flhl08.htm#fr_19.md) *i.e.* Convent of the
 Forty.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Lot and the Tree of the Cross](flhl09)
+[Next: VI. Lot and the Tree of the Cross](flhl09.md)

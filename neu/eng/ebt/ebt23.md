@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt22)  [Next](ebt24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt22)  [Next](ebt24.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ leys, three in this case.
 
 ------------------------------------------------------------------------
 
-[Next: Place Names](ebt24)
+[Next: Place Names](ebt24.md)

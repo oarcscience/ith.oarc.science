@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe342)  [Next](prwe344) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe342)  [Next](prwe344.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ Prichard, M.D., F.A.S., vol. iii.
 
 ------------------------------------------------------------------------
 
-[Next: Ambrosiae Petrae](prwe344)
+[Next: Ambrosiae Petrae](prwe344.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml23)  [Next](yml25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml23)  [Next](yml25.md) 
 
 ------------------------------------------------------------------------
 
@@ -319,4 +319,4 @@ of gold in the hill. RL
 
 ------------------------------------------------------------------------
 
-[Next: Kaiman](yml25)
+[Next: Kaiman](yml25.md)

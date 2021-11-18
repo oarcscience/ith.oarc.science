@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl71)  [Next](hpl73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl71)  [Next](hpl73.md) 
 
 ------------------------------------------------------------------------
 
@@ -820,4 +820,4 @@ never depend on the certainty that night-gaunts are altogether fabulous.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](hpl73)
+[Next: Part II](hpl73.md)

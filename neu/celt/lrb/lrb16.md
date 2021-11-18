@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb15.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,7 +166,7 @@ The porters of the
 <span id="img_37600"></span>
 
 [![MODERN BRITTANY](tn/37600.jpg)  
-Click to enlarge](img/37600.jpg)  
+Click to enlarge](img/37600.jpg.md)  
 MODERN BRITTANY  
 
  
@@ -319,7 +319,7 @@ Quinipily, a rough-hewn stone in the likeness of a goddess. The letters
 . . . LIT . . . still remain on it--part of a Latin inscription which
 has been thought to have originally read ILITHYIA, "a name in keeping
 with the rites still in use before the image," says MacCulloch. <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 ### Holy wells
 
@@ -433,7 +433,7 @@ Lord, The principal
 <span id="img_38400"></span>
 
 [![THE SOULS OF THE DEAD](tn/38400.jpg)  
-Click to enlarge](img/38400.jpg)  
+Click to enlarge](img/38400.jpg.md)  
 THE SOULS OF THE DEAD  
 
  

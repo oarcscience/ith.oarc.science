@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas070n)  [Next](jas072n)   
- \[[71. Pea-fowl as Messenger.](jas071)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas070n)  [Next](jas072n.md)   
+ \[[71. Pea-fowl as Messenger.](jas071.md)\]
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ such beautiful feathers and such ugly feet."
 
 ------------------------------------------------------------------------
 
-[Next: Note 72. The Barking Puppy.](jas072n)
+[Next: Note 72. The Barking Puppy.](jas072n.md)

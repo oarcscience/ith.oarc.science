@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta03)  [Next](sta05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta03)  [Next](sta05.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,7 +146,7 @@ surrounded by the flaming
 <span id="img_02100"></span>
 
 [![A FEMALE HIEROPHANT OF THE MYSTERIES.](tn/02100.jpg)  
-Click to enlarge](img/02100.jpg)  
+Click to enlarge](img/02100.jpg.md)  
 A FEMALE HIEROPHANT OF THE MYSTERIES.  
 
 From Montfaucon's *Antiquities*.
@@ -324,7 +324,7 @@ Its recipient was chosen for his virtues and
 <span id="img_02200"></span>
 
 [![THE ARCH-DRUID IN HIS CEREMONIAL ROBES.](tn/02200.jpg)  
-Click to enlarge](img/02200.jpg)  
+Click to enlarge](img/02200.jpg.md)  
 THE ARCH-DRUID IN HIS CEREMONIAL ROBES.  
 
 From Wellcome's *Ancient Cymric Medicine*.
@@ -509,7 +509,7 @@ simplification of the more elaborate teachings of Zarathustra
 <span id="img_02300"></span>
 
 [![THE GROUND PLAN OF STONEHENGE.](tn/02300.jpg)  
-Click to enlarge](img/02300.jpg)  
+Click to enlarge](img/02300.jpg.md)  
 THE GROUND PLAN OF STONEHENGE.  
 
 From Maurice's *Indian Antiquities*.
@@ -667,7 +667,7 @@ West."
 <span id="img_02400"></span>
 
 [![MITHRAS SLAYING THE BULL.](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 MITHRAS SLAYING THE BULL.  
 
 From Lundy's *Monumental Christianity*.
@@ -689,7 +689,7 @@ the universe with its blood.
 <span id="img_02401"></span>
 
 [![THE BIRTH OF MITHRAS.](tn/02401.jpg)  
-Click to enlarge](img/02401.jpg)  
+Click to enlarge](img/02401.jpg.md)  
 THE BIRTH OF MITHRAS.  
 
 From Montfaucon's Antiquities
@@ -702,4 +702,4 @@ by crucifixion and rose again on the third day.
 
 ------------------------------------------------------------------------
 
-[Next: The Ancient Mysteries and Secret Societies, Part Two](sta05)
+[Next: The Ancient Mysteries and Secret Societies, Part Two](sta05.md)

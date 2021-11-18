@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat15)  [Next](jat17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat15)  [Next](jat17.md) 
 
 ------------------------------------------------------------------------
 
-### 14. THE WINNING OF DAYLIGHT. <span id="fr_25"></span>[2](#fn_25)
+### 14. THE WINNING OF DAYLIGHT. <span id="fr_25"></span>[2](#fn_25.md)
 
 Long ago they all gathered to play the moccasin game. <span
-id="fr_26"></span>[3](#fn_26) When they arranged the wagers, daylight
+id="fr_26"></span>[3](#fn_26.md) When they arranged the wagers, daylight
 was staked against darkness as a perpetual future condition. Day was
 about to break. Roadrunner with his red spot did not miss the moccasin
 once. Crane also guessed right every time. Roadrunner and Crane both
@@ -28,16 +28,16 @@ Those that go around in the daytime won.
 
 ### Footnotes
 
-<span id="fn_25"></span>[207:2](jat16.htm#fr_25) According to Mooney's
+<span id="fn_25"></span>[207:2](jat16.htm#fr_25.md) According to Mooney's
 account this event took place in the lower world before the emergence,
 (a), p. 198. This myth is known to the Navajo (Franciscan Fathers, p.
 485) and to the other Apache.
 
-<span id="fn_26"></span>[207:3](jat16.htm#fr_26) A game in which the
+<span id="fn_26"></span>[207:3](jat16.htm#fr_26.md) A game in which the
 players form two parties one of which hides a ball in one of the
 moccasins standing in a row and the other guesses which moccasin
 contains it.
 
 ------------------------------------------------------------------------
 
-[Next: 15. Coyote Secures Fire](jat17)
+[Next: 15. Coyote Secures Fire](jat17.md)

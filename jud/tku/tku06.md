@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku05)  [Next](tku07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku05)  [Next](tku07.md) 
 
 ------------------------------------------------------------------------
 
@@ -391,4 +391,4 @@ Hereunto is the annotation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](tku07)
+[Next: Chapter IV](tku07.md)

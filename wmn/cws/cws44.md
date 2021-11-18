@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws43)  [Next](cws45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws43)  [Next](cws45.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### No. XL
 
-#### CONCERNING THE HEREAFTER <span id="fr_160"></span>[1](#fn_160)
+#### CONCERNING THE HEREAFTER <span id="fr_160"></span>[1](#fn_160.md)
 
 WHEN a man parts at death with his material body, that of him which
 survives is divisible into three parts, the *anima divina*, or, as in
@@ -75,11 +75,11 @@ persons whom especially it loved, and overshadows them. A single
 Neshamah may have as many of these former selves in the astral light, as
 a man may have changes of raiment. But when the divine soul is
 perfected, and about to be received into "the Sun," or Nirvâna, <span
-id="fr_161"></span>[1](#fn_161) she indraws all these past selves, and
+id="fr_161"></span>[1](#fn_161.md) she indraws all these past selves, and
 possesses herself of their memories; but only of the worthy parts of
 these, and such as will not deprive her of eternal calm. In "the
 planets," the soul forgets; in "the suns," she remembers. For, in
-*memoriâ æternâ erit Justus*. <span id="fr_162"></span>[2](#fn_162) Not
+*memoriâ æternâ erit Justus*. <span id="fr_162"></span>[2](#fn_162.md) Not
 until a man has accomplished his regeneration, and become a son of God,
 a Christ,
 
@@ -151,17 +151,17 @@ endures is Neshamah.
 
 ### Footnotes
 
-<span id="fn_160"></span>[96:1](cws44.htm#fr_160) London, July 1881.
+<span id="fn_160"></span>[96:1](cws44.htm#fr_160.md) London, July 1881.
 Received in sleep, in timely and satisfactory solution of sundry
 perplexing experiences: and subsequently found to be a concise statement
 of the doctrine of the Kabala.    E. M.
 
 Referred to in *Life of Anna Kingsford*, vol. ii, p. 30.
 
-<span id="fn_161"></span>[97:1](cws44.htm#fr_161) See Appendix, note A.
+<span id="fn_161"></span>[97:1](cws44.htm#fr_161.md) See Appendix, note A.
 
-<span id="fn_162"></span>[97:2](cws44.htm#fr_162) Ps. cxii, 6.
+<span id="fn_162"></span>[97:2](cws44.htm#fr_162.md) Ps. cxii, 6.
 
 ------------------------------------------------------------------------
 
-[Next: No. XLI: Concerning The True Ego](cws45)
+[Next: No. XLI: Concerning The True Ego](cws45.md)

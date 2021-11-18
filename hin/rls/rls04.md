@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls03)  [Next](rls05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls03)  [Next](rls05.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 The life of a Brahman was, according to the Laws of Manu, divided into
 four periods or Â*s*ramas, that of a pupil or Brâhma*k*ârin, that of a
 householder or G*ri*hastha, of an ascetic or Vânaprastha, and of a
-hermit or Yati. <span id="fr_0"></span>[1](#fn_0) The first and second
+hermit or Yati. <span id="fr_0"></span>[1](#fn_0.md) The first and second
 stages are clear enough; they represent the scholastic and the married
 stages of a man's life, the former regulated by the strictest rules as
 to obedience, chastity, and study, the second devoted to all the duties
@@ -26,7 +26,7 @@ there by his wife, see his children, and keep up his sacred
 fires, performing all the time certain exercises, as enjoined in their
 sacred books, while in the last stage a man is released from all
 restrictions, and has to live alone and without any fixed abode <span
-id="fr_1"></span>[1](#fn_1). Some translators have used hermit for the
+id="fr_1"></span>[1](#fn_1.md). Some translators have used hermit for the
 third, and ascetic for the fourth stage. In Sanskrit also there exists a
 variety of names for these two stages, but the distinctive character of
 each is clear, the third stage representing a mere retreat from the
@@ -66,7 +66,7 @@ That the rules laid down in Manu's Law-book had often been broken in
 early times, we learn from the existence of a whole class of people
 called Vrâtyas. As far back as the Brâhma*n*a period we read of these
 Vrâtyas, outcasts who had not practised brahma*k*arya, proper
-studentship <span id="fr_2"></span>[1](#fn_2), but who, if they would
+studentship <span id="fr_2"></span>[1](#fn_2.md), but who, if they would
 only perform certain sacrifices, might be readmitted to all the
 privileges of the three upper castes. That these Vrâtyas were originally
 non-Aryan people is a mere assertion that has often been repeated, but
@@ -106,14 +106,14 @@ vexation of spirit.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](rls04.htm#fr_0) Manu VI, 87.
+<span id="fn_0"></span>[3:1](rls04.htm#fr_0.md) Manu VI, 87.
 
-<span id="fn_1"></span>[4:1](rls04.htm#fr_1) Âpastamba II, 9, 22, 21,
+<span id="fn_1"></span>[4:1](rls04.htm#fr_1.md) Âpastamba II, 9, 22, 21,
 &c.
 
-<span id="fn_2"></span>[5:1](rls04.htm#fr_2) Journ. As. Soc. Bombay,
+<span id="fn_2"></span>[5:1](rls04.htm#fr_2.md) Journ. As. Soc. Bombay,
 XIX, p. 358 (they use silver coins).
 
 ------------------------------------------------------------------------
 
-[Next: Sa*m*nyâsins or Saints](rls05)
+[Next: Sa*m*nyâsins or Saints](rls05.md)

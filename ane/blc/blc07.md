@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc06)  [Next](blc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc06)  [Next](blc08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ attributes.
 
 <span id="img_008"></span> <span align="CENTER"> [![Terra-cotta figure
 of a Babylonian Demon. \[No. 22,458.\]](tn/008.png)  
-Click to enlarge](img/008.png)  
+Click to enlarge](img/008.png.md)  
 Terra-cotta figure of a Babylonian Demon. \[No. 22,458.\]  
 </span>
 
@@ -49,7 +49,7 @@ id="img_c013"></span> ![](img/c013.png), and others.
 
 <span id="img_009"></span> <span align="CENTER"> [![Bronze figure of a
 Babylonian Demon. \[No. 93,078.\]](tn/009.png)  
-Click to enlarge](img/009.png)  
+Click to enlarge](img/009.png.md)  
 Bronze figure of a Babylonian Demon. \[No. 93,078.\]  
 </span>
 
@@ -66,24 +66,24 @@ terrible claws, and her body is sometimes that of a huge serpent, and
 sometimes that of an animal. In the popular imagination she represented
 all that was physically terrifying, and foul, and abominable; she was
 nevertheless the mother of everything,  <span
-id="fr_7"></span>[8](blc17.htm#fn_7) and was the possessor of the DUP
+id="fr_7"></span>[8](blc17.htm#fn_7.md) and was the possessor of the DUP
 SHIMATI or "TABLET OF DESTINIES" <span id="img_c016"></span>
 ![](img/c016.png). No description of this Tablet or its contents is
 available, but from its name we may assume that it was a sort of
-Babylonian Book of Fate. <span id="fr_8"></span>[9](blc17.htm#fn_8)
+Babylonian Book of Fate. <span id="fr_8"></span>[9](blc17.htm#fn_8.md)
 Theologically, Tiâmat represented to the Babylonians the same state in
 the development of the universe as did *tôhû wâ-bhôhû* (Genesis i. 2),
 *i.e.*, formlessness and voidness, of primeval matter, to the Hebrews
 She is depicted both on bas-reliefs and on cylinder seals in a form
 which associates her with LABARTU,  <span
-id="fr_9"></span>[10](blc17.htm#fn_9) a female devil that prowled about
+id="fr_9"></span>[10](blc17.htm#fn_9.md) a female devil that prowled about
 the desert at night suckling wild animals but killing men. And it is
 tolerably certain that she was the type, and symbol, and head of the
 whole community of fiends, demons and devils.
 
 <span id="img_010"></span> <span align="CENTER"> [![Terra-cotta plaque
 with a Typhonic animal in relief. \[No. 103,381.\]](tn/010.png)  
-Click to enlarge](img/010.png)  
+Click to enlarge](img/010.png.md)  
 Terra-cotta plaque with a Typhonic animal in relief. \[No. 103,381.\]  
 </span>
 
@@ -111,7 +111,7 @@ to the gods, like that of Tiâmat and her allies, was everlasting.
 Marduk (Bel) and the Dragon. Drawn from a bas-relief from the Palace of
 Ashur-nasir-pal, King of Assyria, 885-860 B.C., at Nimrûd. \[Nimrûd
 Gallery, Nos. 28 and 29.\]](tn/011.png)  
-Click to enlarge](img/011.png)  
+Click to enlarge](img/011.png.md)  
 Battle between Marduk (Bel) and the Dragon. Drawn from a bas-relief from
 the Palace of Ashur-nasir-pal, King of Assyria, 885-860 B.C., at Nimrûd.
 \[Nimrûd Gallery, Nos. 28 and 29.\]  
@@ -203,7 +203,7 @@ rising on the horizon, flames of fire ascending from his shoulder. The
 two portals of the dawn, each surmounted by a lion, are being drawn open
 by attendant gods. From a Babylonian seal cylinder in the British
 Museum. \[No. 89,110.\]](tn/012.png)  
-Click to enlarge](img/012.png)  
+Click to enlarge](img/012.png.md)  
 Shamash the Sun-god rising on the horizon, flames of fire ascending from
 his shoulder. The two portals of the dawn, each surmounted by a lion,
 are being drawn open by attendant gods. From a Babylonian seal cylinder
@@ -239,7 +239,7 @@ to reappear it did so.
 
 <span id="img_013"></span> <span align="CENTER"> [![Shamash the Sun-god
 setting (?) on the horizon.](tn/013.png)  
-Click to enlarge](img/013.png)  
+Click to enlarge](img/013.png.md)  
 Shamash the Sun-god setting (?) on the horizon.  
 </span>  
 In his right he holds a tree (?), and in his left a ... with a serrated
@@ -268,7 +268,7 @@ of Marduk was taken over from a very ancient account of the Fight with
 Tiâmat in which the hero was Enlil, *i.e.*, the god of the air, or of
 the region which lies between heaven and hell. Marduk approached and
 looked upon the "Middle" or "Inside" or "Womb" of Tiâmat  <span
-id="fr_10"></span>[11](blc17.htm#fn_10) <span id="img_c026"></span>
+id="fr_10"></span>[11](blc17.htm#fn_10.md) <span id="img_c026"></span>
 ![](img/c026.png), and divined the plan of Kingu who had taken up his
 place therein. In the Seventh Tablet (l. 108) Marduk is said to have
 "entered into the middle of Tiâmat," and because he did so he is called
@@ -317,7 +317,7 @@ for the old gods of the three realms--Anu, Bel and Ea.
 <span id="img_014"></span> <span align="CENTER"> [![Tablet sculptured
 with a scene representing the worship of the Sun-god in the Temple of
 Sippar.](tn/014.png)  
-Click to enlarge](img/014.png)  
+Click to enlarge](img/014.png.md)  
 Tablet sculptured with a scene representing the worship of the Sun-god
 in the Temple of Sippar.  
 </span>  
@@ -362,7 +362,7 @@ of the Zodiac, and fixed the "stations" of the moon, and the places of
 the planets with it; and they had distinguished between the planets and
 the fixed stars. In the Fifth Tablet of the Creation Series (l. 2) the
 Signs of the Zodiac are called *Lumashi* <span
-id="fr_11"></span>[12](blc17.htm#fn_11) <span id="img_c028"></span>
+id="fr_11"></span>[12](blc17.htm#fn_11.md) <span id="img_c028"></span>
 ![](img/c028.png), but unfortunately no list of their names is given in
 the context. Now these are supplied by the little tablet (No. 77,821) of
 the Persian Period of which a reproduction is here given. It has been
@@ -372,7 +372,7 @@ very great. The transcript of the text, which is now published (see p.
 history of the Zodiac. Egyptian, Greek, Syriac and Arabic astrological
 and astronomical texts all associate with the Signs of the Zodiac twelve
 groups, each containing three stars, which are commonly known as the
-"Thirty-six Dekans." <span id="fr_12"></span>[13](blc17.htm#fn_12) The
+"Thirty-six Dekans." <span id="fr_12"></span>[13](blc17.htm#fn_12.md) The
 text of line 4 of the Fifth Tablet of the Creation Series proves that
 the Babylonians were acquainted with these groups of stars, for we read
 that Marduk "set up for the twelve "months of the year three stars
@@ -381,7 +381,7 @@ that each Sign is associated with a particular month.
 
 <span id="img_015"></span> <span align="CENTER"> [![Tablet inscribed
 with a list of the Signs of the Zodiac. \[No. 77,821.\]](tn/015.png)  
-Click to enlarge](img/015.png)  
+Click to enlarge](img/015.png.md)  
 Tablet inscribed with a list of the Signs of the Zodiac. \[No.
 77,821.\]  
 </span>
@@ -414,7 +414,7 @@ Fire-god. Down the left-hand side is the serpent-god representing the
 constellation of the Hydra.
 
 <span id="img_016"></span> <span align="CENTER"> [![](tn/016.png)  
-Click to enlarge](img/016.png)</span>
+Click to enlarge](img/016.png.md)</span>
 
 The mutilated text of the Fifth Tablet makes it impossible to gain
 further details in connection with Marduk's work in arranging the
@@ -430,7 +430,7 @@ Bel or Enlil the region under the sky and including the earth, Ea the
 underworld, Sin the Moon, Shamash the Sun, and Ishtar the star Venus.
 When the universe was finally constituted several other great gods
 existed, *e.g.*, Nusku, the Fire-god, Enurta, <span
-id="fr_13"></span>[14](blc17.htm#fn_13) a solar god, Nergal, the god of
+id="fr_13"></span>[14](blc17.htm#fn_13.md) a solar god, Nergal, the god of
 war and handicrafts, Nabu, the god of learning, Marduk of Babylon, the
 great national god of Babylonia, and Ashur, the great national god of
 Assyria.
@@ -488,9 +488,9 @@ against God under the leadership of Satan, or Satnael, or Iblîs, are
 derived from a Babylonian original which has not yet been found. The
 "Fifty Names," or laudatory epithets mentioned above, find parallels in
 "Seventy-five Praises of Rā," sung by the Egyptians under the XIXth
-dynasty, <span id="fr_14"></span>[15](blc17.htm#fn_14) and in the
+dynasty, <span id="fr_14"></span>[15](blc17.htm#fn_14.md) and in the
 "Ninety-nine Beautiful Names of Allâh," which are held in such great
-esteem by the Muḥammadans. <span id="fr_15"></span>[16](blc17.htm#fn_15)
+esteem by the Muḥammadans. <span id="fr_15"></span>[16](blc17.htm#fn_15.md)
 The respect in which the Fifty Names were held by the Babylonians is
 well shown by the work of the Epilogue on the Seventh Tablet, where it
 is said, "Let them be held in remembrance, let the first-comer (*i.e.*,
@@ -502,9 +502,9 @@ The object of the writer of the Fifty Names was to show that Marduk was
 the "Lord of the gods," that the power, qualities and attributes of
 every god were enshrined in him, and that they all were merely forms of
 him. This fact is proved by the tablet (No. 47,406), <span
-id="fr_16"></span>[17](blc17.htm#fn_16) which contains a long list of
+id="fr_16"></span>[17](blc17.htm#fn_16.md) which contains a long list of
 gods who are equated with Marduk in his various forms. <span
-id="fr_17"></span>[18](blc17.htm#fn_17) The tendency in the later
+id="fr_17"></span>[18](blc17.htm#fn_17.md) The tendency in the later
 Babylonian religion to make Marduk the god above all gods has led many
 to think that monotheistic conceptions were already in existence among
 the Babylonians as early as the period of the First Dynasty, about 2000
@@ -542,7 +542,7 @@ servants.
 <span id="img_017"></span> <span align="CENTER"> [![Marduk destroying
 Tiâmat, who is here represented in the form of a huge serpent. From a
 seal-cylinder in the British Museum. \[No. 89,589.\]](tn/017.png)  
-Click to enlarge](img/017.png)  
+Click to enlarge](img/017.png.md)  
 Marduk destroying Tiâmat, who is here represented in the form of a huge
 serpent. From a seal-cylinder in the British Museum. \[No. 89,589.\]  
 </span>
@@ -554,7 +554,7 @@ clear that the Account of the Creation given in the Seven Tablets is
 derived from very ancient sources, and a considerable amount of literary
 evidence is now available for reconstructing the history of the Legend.
 Thus in the Sumerian Account the narrative of the exploits of the hero
-called ZIUSUDU <span id="fr_18"></span>[19](blc17.htm#fn_18) <span
+called ZIUSUDU <span id="fr_18"></span>[19](blc17.htm#fn_18.md) <span
 id="img_c031"></span> ![](img/c031.png) begins with a description of the
 Creation and then goes on to describe a Flood, and there is little doubt
 that certain passages in this text are the originals of the Babylonian
@@ -562,11 +562,11 @@ version as given in the Seven Tablets. In the Story of ZIUSUDU, however,
 there is no mention of any Dragon. And there is reason to think that the
 Legend of the Dragon had originally nothing whatever to do with the
 Creation, for the texts of fragments of two distinct Accounts <span
-id="fr_19"></span>[20](blc17.htm#fn_19) of the Creation describe a fight
+id="fr_19"></span>[20](blc17.htm#fn_19.md) of the Creation describe a fight
 between a Dragon and some deity other than Marduk. In other Accounts the
 Dragon bears a strong resemblance to the Leviathan of Psalm civ, 26; Job
 xli, 1. In the one text he is said to be 50 *biru* <span
-id="fr_20"></span>[21](blc17.htm#fn_20) in length, and 1 *biru* in
+id="fr_20"></span>[21](blc17.htm#fn_20.md) in length, and 1 *biru* in
 thickness; his mouth was 6 cubits (about 9 feet) wide, and the
 circumference of his ears 12 cubits (18 feet). He was slain by a god
 whose name is unknown, and the blood continued to flow from his body for
@@ -608,4 +608,4 @@ alliteration appear to be used occasionally.
 
 ------------------------------------------------------------------------
 
-[Next: First Tablet](blc08)
+[Next: First Tablet](blc08.md)

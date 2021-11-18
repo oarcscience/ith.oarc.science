@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku31)  [Next](tku33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku31)  [Next](tku33.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 494\. RABBI SCHIMEON spake unto his companions, and said: "When that
 veil is expanded (*by which is to he understood the representation of
 the beard of Macroprosopus*) which ye behold above us, <span
-id="fr_78"></span>[1](#fn_77) I see that all the conformations have
+id="fr_78"></span>[1](#fn_77.md) I see that all the conformations have
 descended therein, and that they shine forth in that place. (*Now like
 as if he intended to say, AMN, Amen, the discourse concerning
 Macroprosopus being finished, he describeth this particular symbolism,
@@ -26,14 +26,14 @@ of the holy name, by which he saith that space is surrounded*).
 
 496\. "One column is so placed that it reacheth from the lowest unto the
 highest. (*This is the Kingdom of the emanations*, <span
-id="fr_79"></span>[2](#fn_78) *the base and lowest Part of the whole
-system* <span id="fr_80"></span>[3](#fn_79) *of emanation, because it is
+id="fr_79"></span>[2](#fn_78.md) *the base and lowest Part of the whole
+system* <span id="fr_80"></span>[3](#fn_79.md) *of emanation, because it is
 said to ascend from the lowest part of the middle column* <span
-id="fr_81"></span>[4](#fn_80) *even unto the summit of the Crown*. <span
-id="fr_82"></span>[5](#fn_81))
+id="fr_81"></span>[4](#fn_80.md) *even unto the summit of the Crown*. <span
+id="fr_82"></span>[5](#fn_81).md)
 
 497\. "And therein is a certain MGRVPIA, <span
-id="fr_83"></span>[6](#fn_82) *Megerophia*, vessel containing fire (
+id="fr_83"></span>[6](#fn_82.md) *Megerophia*, vessel containing fire (
 
 for like as the fire an the altar could not be touched with bare hands,
 so that
@@ -44,21 +44,21 @@ name, Tetragrammaton, cannot be touched and pronounced by the mouth, but
 it is touched and produced by ADNI, Adonai, which is ShM, Sham, His
 name; for ShM and MGRVPIA both Yield 340 by Gematria); and in the
 fire-containing vessel are four keys, <span
-id="fr_84"></span>[1](#fn_83) sharp on every side (*for such was the
+id="fr_84"></span>[1](#fn_83.md) sharp on every side (*for such was the
 form of the keys, in order that they might draw aside the veil, as a
 lock is shot back by a key. But the four letters of the name ADNI,
 Adonai, are hereby to be understood, which are inserted into and united
 with the four letters IHVH, in this manner, IAHDVNHI*); which seize upon
 that. veil, and withdraw it from the superiors.
 
-498\. "And thus in the second column <span id="fr_85"></span>[2](#fn_84)
+498\. "And thus in the second column <span id="fr_85"></span>[2](#fn_84.md)
 and the third column and the fourth column (*that is, the four letters
 are applied to the other four letters, as hath just been said*).
 
 499\. "And between one column and another column are contained
-eighteen <span id="fr_86"></span>[3](#fn_85) bases of columns (*here is
+eighteen <span id="fr_86"></span>[3](#fn_85.md) bases of columns (*here is
 to be understood the name expanded through the seventy-two* <span
-id="fr_87"></span>[4](#fn_86) *names or numbers; for either pertain unto
+id="fr_87"></span>[4](#fn_86.md) *names or numbers; for either pertain unto
 Macroprosopus, and four times eighteen yieldeth seventy-two*): and they
 shine forth with brilliancy in the openings carved out in
 
@@ -137,7 +137,7 @@ ascendeth in its place and is crowned.
 are understood the holy living creatures, the cherubim, which were
 before the columns, and the chiefs of the angelic guards, and they are
 said to have come hither*); because they hear that which before they
-knew not. <span id="fr_88"></span>[1](#fn_87) And in the sound of your
+knew not. <span id="fr_88"></span>[1](#fn_87.md) And in the sound of your
 voices are heard the rushing of countless chariots (*the noise of the
 wings of the hosts of the angelic chariots of God, rushing onwards*);
 and they stand here around you in multitudes, awaiting the speech of
@@ -167,38 +167,38 @@ words of the law before Him."
 
 ### Footnotes
 
-<span id="fn_77"></span>[169:1](tku32.htm#fr_78) Again alluding to their
+<span id="fn_77"></span>[169:1](tku32.htm#fr_78.md) Again alluding to their
 symbolical representation of the ten Sephiroth.
 
-<span id="fn_78"></span>[169:2](tku32.htm#fr_79) Malkuth, the tenth
+<span id="fn_78"></span>[169:2](tku32.htm#fr_79.md) Malkuth, the tenth
 Sephira.
 
-<span id="fn_79"></span>[169:3](tku32.htm#fr_80) The Sephiroth.
+<span id="fn_79"></span>[169:3](tku32.htm#fr_80.md) The Sephiroth.
 
-<span id="fn_80"></span>[169:4](tku32.htm#fr_81) Or Pillar of Mildness,
+<span id="fn_80"></span>[169:4](tku32.htm#fr_81.md) Or Pillar of Mildness,
 consisting of the first, sixth, ninth, and tenth Sephiroth.
 
-<span id="fn_81"></span>[169:5](tku32.htm#fr_82) Kether. "Malkuth is
+<span id="fn_81"></span>[169:5](tku32.htm#fr_82.md) Kether. "Malkuth is
 Kether after another manner," says one of the qabalistic axioms of
 Pistorius.
 
-<span id="fn_82"></span>[169:6](tku32.htm#fr_83) I believe the beat
+<span id="fn_82"></span>[169:6](tku32.htm#fr_83.md) I believe the beat
 translation of Megerophia is a "fire shovel." Knorr de Rosenroth makes
 it "uncus focarius."
 
-<span id="fn_83"></span>[170:1](tku32.htm#fr_84) Quatuor claves traditæ
+<span id="fn_83"></span>[170:1](tku32.htm#fr_84.md) Quatuor claves traditæ
 sunt in manu Domini mundi, quas non tradidit neque ulli Angelo, neque
 seraphino: clavis pluviæ: clavis suatentationis: clavis sepulchorum:
 clavis sterilitatis, &c. (Zanolini: Lexicon Chaldæo-Rabbinicum," art.
 MPThCh, root PThCh.)
 
-<span id="fn_84"></span>[170:2](tku32.htm#fr_85) These four columns also
+<span id="fn_84"></span>[170:2](tku32.htm#fr_85.md) These four columns also
 refer to the four worlds of Atziloth, Briah, Yetzirah, and Asiah. (See
 Introduction.)
 
-<span id="fn_85"></span>[170:3](tku32.htm#fr_86) 18 = ChI = Life.
+<span id="fn_85"></span>[170:3](tku32.htm#fr_86.md) 18 = ChI = Life.
 
-<span id="fn_86"></span>[170:4](tku32.htm#fr_87) In Exodus xiv. are
+<span id="fn_86"></span>[170:4](tku32.htm#fr_87.md) In Exodus xiv. are
 three verses (19, 20, and 21), which each consist of 72 letters. Now, if
 these three verses be written at length one above another, the first
 from right to left, the second from left to right. and the third from
@@ -211,7 +211,7 @@ divided name. By writing the verses all from right to left, instead of
 *boustrophedon*, &c., there will be other sets of 72 names obtainable.
 (See annexed Table of the Schemahamphorasch.)
 
-<span id="fn_87"></span>[171:1](tku32.htm#fr_88) I must again remind the
+<span id="fn_87"></span>[171:1](tku32.htm#fr_88.md) I must again remind the
 reader that Rabbi Schimeon and his companions are speaking as
 symbolizing the action of the Sephiroth in the creation, and that when
 it is said the angels, &c., wait for the words from their lips, it
@@ -223,4 +223,4 @@ not.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV: The Ingress of Microprosopus.](tku33)
+[Next: Chapter XXV: The Ingress of Microprosopus.](tku33.md)

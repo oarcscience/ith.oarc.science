@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf28)  [Next](sunf30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf28)  [Next](sunf30.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -176,6 +176,6 @@ time to come; I wot not through whom or how.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII. The Baron of Deepdale Makes Peace](sunf30)
+[Next: Chapter XXVIII. The Baron of Deepdale Makes Peace](sunf30.md)
 
 </div>

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat16.htm#CXXV) 
-[Previous](satl124)  [Next](satl126) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat16.htm#CXXV.md) 
+[Previous](satl124)  [Next](satl126.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ expectant". &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXXVI](satl126)
+[Next: CXXVI](satl126.md)

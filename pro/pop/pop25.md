@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop24)  [Next](pop26) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop24)  [Next](pop26.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ thyself.'
 
 ------------------------------------------------------------------------
 
-[Next: The Twenty-First Figure](pop26)
+[Next: The Twenty-First Figure](pop26.md)

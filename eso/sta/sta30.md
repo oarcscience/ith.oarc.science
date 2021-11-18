@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta29)  [Next](sta31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta29)  [Next](sta31.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ of the world, from which point the earth spread out on all sides.
 <span id="img_12500"></span>
 
 [![ THE VISION OF EZEKIEL.](tn/12500.jpg)  
-Click to enlarge](img/12500.jpg)  
+Click to enlarge](img/12500.jpg.md)  
 THE VISION OF EZEKIEL.  
 
 From The "Bear" Bible.
@@ -424,7 +424,7 @@ correctly, to be reflected upon substance--a shadow of
 <span id="img_12700"></span>
 
 [![NOAH AND HIS ZODIACAL ARK.](tn/12700.jpg)  
-Click to enlarge](img/12700.jpg)  
+Click to enlarge](img/12700.jpg.md)  
 NOAH AND HIS ZODIACAL ARK.  
 
 From Myer's *Qabbalah*.
@@ -651,4 +651,4 @@ Life, and the Truth!"
 
 ------------------------------------------------------------------------
 
-[Next: An Analysis of Tarot Cards](sta31)
+[Next: An Analysis of Tarot Cards](sta31.md)

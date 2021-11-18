@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain25)  [Next](ain27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain25)  [Next](ain27.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ to life again, are common among many Indian tribes.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of Ee-ee-toy's Army](ain27)
+[Next: The Story Of Ee-ee-toy's Army](ain27.md)

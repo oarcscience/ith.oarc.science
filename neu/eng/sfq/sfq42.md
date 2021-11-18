@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq41)  [Next](sfq43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq41)  [Next](sfq43.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ world contained, between heaven
 <span id="img_18400"></span>
 
 [![](tn/18400.jpg)  
-Click to enlarge](img/18400.jpg)
+Click to enlarge](img/18400.jpg.md)
 
 and earth, provided it had to do with the person who looked into it.
 Whatever a foe had done, or a friend
@@ -136,4 +136,4 @@ at the bottom of this globe of glass.
 
 ------------------------------------------------------------------------
 
-[Next: How Britomart went to the Cave of the Magician Merlin](sfq43)
+[Next: How Britomart went to the Cave of the Magician Merlin](sfq43.md)

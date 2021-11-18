@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe16)  [Next](toe18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe16)  [Next](toe18.md) 
 
 ------------------------------------------------------------------------
 
@@ -313,7 +313,7 @@ worn and rounded by attrition; particularly sand or marl-stone
 consolidated and veined with quartz, and many fragments of quartz, all
 rounded by attrition. In this pudding-stone of the Jed, I find also
 rounded lumps of porphyry, but have not perceived any of granite. <span
-id="fr_38"></span>[32](#fn_38) This however is not the case in the
+id="fr_38"></span>[32](#fn_38.md) This however is not the case in the
 pudding-stone of the schistus mountains, for, where there is granite in
 the neighbourhood, there is also granite in the pudding-stone.
 
@@ -594,11 +594,11 @@ certainty is the object, and not mere probability.
 
 ### Footnotes
 
-<span id="fn_38"></span>[v1:32](toe17.htm#fr_38) A view of this object
-is seen in [plate 3d](toe07.htm#img_v1pl03). It is from a drawing taken
+<span id="fn_38"></span>[v1:32](toe17.htm#fr_38.md) A view of this object
+is seen in [plate 3d](toe07.htm#img_v1pl03.md). It is from a drawing taken
 by Mr Clerk of Eldin.
 
 ------------------------------------------------------------------------
 
 [Next: Section II. The Theory confirmed from Observations made on
-purpose to elucidate the subject](toe18)
+purpose to elucidate the subject](toe18.md)

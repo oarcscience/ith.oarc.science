@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop14)  [Next](pop16) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop14)  [Next](pop16.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ wealth belongeth to another.'
 
 ------------------------------------------------------------------------
 
-[Next: The Eleventh Figure](pop16)
+[Next: The Eleventh Figure](pop16.md)

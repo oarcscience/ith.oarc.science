@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa44)  [Next](taa46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa44)  [Next](taa46.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ let it fall at their coming.'
 
 11\. The word 'Her' is my aim, and for Her sake I am not fond of
 bartering except (with) 'Give and take' (*há wa-há*). <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 #### COMMENTARY
 
@@ -106,7 +106,7 @@ as She reveals Herself there.'
 
 ### Footnotes
 
-<span id="fn_29"></span>[127:1](taa45.htm#fr_29) The meaning of the last
+<span id="fn_29"></span>[127:1](taa45.htm#fr_29.md) The meaning of the last
 hemistich is obscure. Possibly \#\#\# was a formula used in completing a
 bargain.
 
@@ -114,6 +114,6 @@ bargain.
 
 ------------------------------------------------------------------------
 
-[Next: XLIII](taa46)
+[Next: XLIII](taa46.md)
 
 </div>

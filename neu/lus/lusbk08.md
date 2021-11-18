@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lusbk07)  [Next](lusbk09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lusbk07)  [Next](lusbk09.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,9 +29,9 @@ his two companions. In Mickle’s translation this portion of the original
 is omitted, and the factors are released in consequence of a victory
 gained by Gama.
 
-WITH eye unmov’d the silent CATUAL <span id="fr_503"></span>[1](#fn_498)
+WITH eye unmov’d the silent CATUAL <span id="fr_503"></span>[1](#fn_498.md)
 view’d  
-The pictur’d sire <span id="fr_504"></span>[2](#fn_499) with seeming
+The pictur’d sire <span id="fr_504"></span>[2](#fn_499.md) with seeming
 life endu’d;  
 A verdant vine-bough waving in his right,  
 Smooth How’d his sweepy beard of glossy white,  
@@ -46,7 +46,7 @@ These godlike heroes shin’d in ancient war.
 In that hoar sire, of mien serene, august,  
 Lusus behold, no robber-chief unjust;  
 His cluster’d bough--the same which Bacchus bore <span
-id="fr_505"></span>[1](#fn_500)--  
+id="fr_505"></span>[1](#fn_500.md)--  
 He waves, the emblem of his care of yore;  
 The friend of savage man, to Bacchus dear,  
 The son of Bacchus, or the bold compeer,  
@@ -58,7 +58,7 @@ Lusus, the lov’d companion of the god,
 In Spain’s fair bosom fix’d his last abode,  
 Our kingdom founded, and illustrious reign’d  
 In those fair lawns, the bless’d Elysium feign’d, <span
-id="fr_506"></span>[2](#fn_501)
+id="fr_506"></span>[2](#fn_501.md)
 
 <span id="page_224">p. 224</span>
 
@@ -70,15 +70,15 @@ That other chief th’ embroider’d silk displays,
 Toss’d o’er the deep whole years of weary days,  
 On Tago’s banks, at last, his vows he paid:  
 To wisdom’s godlike power, the Jove-born maid, <span
-id="fr_507"></span>[1](#fn_502)  
+id="fr_507"></span>[1](#fn_502.md)  
 Who fir’d his lips with eloquence divine,  
 On Tago’s banks he rear’d the hallow’d shrine.  
 Ulysses he, though fated to destroy,  
 On Asian ground, the heav’n-built towers of Troy, <span
-id="fr_508"></span>[2](#fn_503)  
+id="fr_508"></span>[2](#fn_503.md)  
 On Europe’s strand, more grateful to the skies,  
 He bade th’ eternal walls of Lisbon rise." <span
-id="fr_509"></span>[3](#fn_504)
+id="fr_509"></span>[3](#fn_504.md)
 
 <span id="page_225">p. 225</span>
 
@@ -86,7 +86,7 @@ id="fr_509"></span>[3](#fn_504)
 Who strews the smoking field with heaps of slain?  
 What num’rous legions fly in dire dismay,  
 Whose standards wide the eagle’s wings display?"  
-The pagan asks: the brother chief <span id="fr_510"></span>[1](#fn_505)
+The pagan asks: the brother chief <span id="fr_510"></span>[1](#fn_505.md)
 replies:--  
 "Unconquer’d deem’d, proud Rome’s dread standard flies.  
 His crook thrown by, fir’d by his nation’s woes,  
@@ -94,7 +94,7 @@ The hero-shepherd Viriatus rose;
 His country sav’d proclaim’d his warlike fame,  
 And Rome’s wide empire trembled at his name.  
 That gen’rous pride which Rome to Pyrrhus bore, <span
-id="fr_511"></span>[2](#fn_506)  
+id="fr_511"></span>[2](#fn_506.md)  
 To him they show’d not; for they fear’d him more.  
 Not on the field o’ercome by manly force,  
 Peaceful he slept; and now, a murder’d corse,,  
@@ -109,11 +109,11 @@ The standards painted with the birds of Jove.
 And lo, the flag whose shining colours own  
 The glorious founder of the Lusian throne!  
 Some deem the warrior of Hungarian race, <span
-id="fr_512"></span>[3](#fn_507)  
+id="fr_512"></span>[3](#fn_507.md)  
 Some from Lorraine the godlike hero trace.  
 From Tagus’ banks the haughty Moor expell’d,  
 Galicia’s sons, and Leon’s warriors quell’d,  
-To weeping Salem’s <span id="fr_513"></span>[4](#fn_508) ever-hallow’d
+To weeping Salem’s <span id="fr_513"></span>[4](#fn_508.md) ever-hallow’d
 meads,  
 His warlike bands the holy Henry leads;  
 By holy war to sanctify his crown,  
@@ -132,7 +132,7 @@ High to the knees his courser paws in gore:
 O’er crowns and blood-stain’d ensigns scatter’d round  
 He rides; his courser’s brazen hoofs resound."  
 "In that great chief," the second GAMA cries,  
-"The first Alonzo <span id="fr_514"></span>[1](#fn_509) strikes thy
+"The first Alonzo <span id="fr_514"></span>[1](#fn_509.md) strikes thy
 wond’ring eyes.  
 From Lusus’ realm the pagan Moors he drove;  
 Heav’n, whom he lov’d, bestow’d on him such love,  
@@ -142,7 +142,7 @@ Nor Ammon’s son, nor greater Julius dar’d
 With troops so few, with hosts so num’rous warr’d:  
 Nor less shall Fame the subject heroes own:  
 Behold that hoary warrior’s rageful frown!  
-On his young pupil’s flight <span id="fr_515"></span>[2](#fn_510) his
+On his young pupil’s flight <span id="fr_515"></span>[2](#fn_510.md) his
 burning eyes  
 He darts, and, ‘Turn thy flying host,’ he cries,  
 ‘Back to the field!’ The vet’ran and the boy  
@@ -151,7 +151,7 @@ Their ranks mow’d down, the boastful foe recedes,
 The vanquish’d triumph, and the victor bleeds.  
 Again, that mirror of unshaken faith,  
 Egaz behold, a chief self-doom’d to death. <span
-id="fr_516"></span>[3](#fn_511)
+id="fr_516"></span>[3](#fn_511.md)
 
 <span id="page_227">p. 227</span>
 
@@ -166,7 +166,7 @@ With naked feet they tread the flinty ground;
 And, prostrate now before Castilia’s throne,  
 Their offer’d lives their monarch’s pride atone.  
 Ah Rome! no more thy gen’rous consul boast. <span
-id="fr_517"></span>[1](#fn_512)  
+id="fr_517"></span>[1](#fn_512.md)  
 Whose ’born submission sav’d his ruin’d host:  
 No father’s woes assail’d his stedfast mind;  
 The dearest ties the Lusian chief resign’d.
@@ -177,7 +177,7 @@ Fierce as the lion from the covert springs,
 When hunger gives his rage the whirlwind’s wings;  
 From ambush, lo, the valiant Fuaz pours,  
 And whelms in sudden rout th’ astonish’d Moors.  
-The Moorish king <span id="fr_518"></span>[2](#fn_513) in captive chains
+The Moorish king <span id="fr_518"></span>[2](#fn_513.md) in captive chains
 he sends;  
 And, low at Lisbon’s throne, the royal captive bends.  
 Fuaz again the artist’s skill displays;  
@@ -205,7 +205,7 @@ Smiling in death the martyr-hero lies,
 And lo, his soul triumphant mounts the skies.  
 Here now, behold, in warlike pomp portray’d,  
 A foreign navy brings the pious aid. <span
-id="fr_520"></span>[1](#fn_515)  
+id="fr_520"></span>[1](#fn_515.md)  
 Lo, marching from the decks the squadrons spread,  
 Strange their attire, their aspect firm and dread.  
 The holy cross their ensigns bold display,  
@@ -219,7 +219,7 @@ Lo, Henry falls, a gallant German knight,
 A martyr falls: that holy tomb behold,  
 There waves the blossom’d palm, the boughs of gold:  
 O’er Henry’s grave the sacred plant arose,  
-And from the leaves, <span id="fr_521"></span>[2](#fn_516) Heav’n’s
+And from the leaves, <span id="fr_521"></span>[2](#fn_516.md) Heav’n’s
 gift, gay health redundant flows.
 
   "Aloft, unfurl!" the valiant Paulus cries.  
@@ -228,7 +228,7 @@ Instant, new wars on new-spread ensigns rise
 <span id="page_229">p. 229</span>
 
 "In robes of white behold a priest advance! <span
-id="fr_522"></span>[1](#fn_517)  
+id="fr_522"></span>[1](#fn_517.md)  
 His sword in splinters smites the Moorish lance:  
 Arronchez won revenges Lira’s fall:  
 And lo, on fair Savilia’s batter’d wall,  
@@ -237,7 +237,7 @@ That hero-form the Lusian standard rears.
 There bleeds the war on fair Vandalia’s plain:  
 Lo, rushing through the Moors, o’er hills of slain  
 The hero rides, and proves by genuine claim  
-The son of Egas, <span id="fr_523"></span>[2](#fn_518) and his worth the
+The son of Egas, <span id="fr_523"></span>[2](#fn_518.md) and his worth the
 same.  
 Pierc’d by his dart the standard-bearer dies;  
 Beneath his feet the Moorish standard lies:  
@@ -245,7 +245,7 @@ High o’er the field, behold the glorious blaze
 The victor-youth the Lusian flag displays.  
 Lo, while the moon through midnight azure rides,  
 From the high wall adown his spear-staff glides  
-The dauntless Gerald: <span id="fr_524"></span>[3](#fn_519) in his left
+The dauntless Gerald: <span id="fr_524"></span>[3](#fn_519.md) in his left
 he bears  
 Two watchmen’s heads, his right the falchion rears:  
 The gate he opens, swift from ambush rise  
@@ -257,7 +257,7 @@ The two cold heads, his right the falchion rears.
 
 <span id="page_230">p. 230</span>
 
-Wrong’d by his king, <span id="fr_525"></span>[1](#fn_520) and burning
+Wrong’d by his king, <span id="fr_525"></span>[1](#fn_520.md) and burning
 for revenge,  
 Behold his arms that proud Castilian change;  
 The Moorish buckler on his breast he bears,  
@@ -274,7 +274,7 @@ And wields the spear of steel. How bold advance
 The num’rous Moors, and with the rested lance  
 Hem round the trembling Lusians. Calm and bold  
 Still towers the priest, and lo, the skies unfold: <span
-id="fr_526"></span>[2](#fn_521)  
+id="fr_526"></span>[2](#fn_521.md)  
 Cheer’d by the vision, brighter than the day,  
 The Lusians trample down the dread array  
 Of Hagar’s legions: on the reeking plain  
@@ -296,9 +296,9 @@ By night-veil’d art proud Sylves falls his prey,
 And Tavila’s high walls, at middle day,  
 Fearless he scales: her streets in blood deplore  
 The seven brave hunters murder’d by the Moor. <span
-id="fr_527"></span>[1](#fn_522)  
+id="fr_527"></span>[1](#fn_522.md)  
 These three bold knights how dread! <span
-id="fr_528"></span>[2](#fn_523) Thro’ Spain and France  
+id="fr_528"></span>[2](#fn_523.md) Thro’ Spain and France  
 At joust and tourney with the tilted lance  
 Victors they rode: Castilia’s court beheld  
 Her peers o’erthrown; the peers with rancour swell’d:  
@@ -337,17 +337,17 @@ To Numa, thus, the pale patricians fled--
 ‘The hostile squadrons o’er the kingdom spread!’  
 They cry; unmov’d, the holy king replies--  
 ‘And I, behold, am off’ring sacrifice!’ <span
-id="fr_529"></span>[1](#fn_524)  
+id="fr_529"></span>[1](#fn_524.md)  
 Earnest, I see thy wond’ring eyes inquire  
 Who this illustrious chief, his country’s sire?  
 The Lusian Scipio well might speak his fame,  
 But nobler Nunio shines a greater name: <span
-id="fr_530"></span>[2](#fn_525)  
+id="fr_530"></span>[2](#fn_525.md)  
 On earth’s green bosom, or on ocean grey,  
 A greater never shall the sun survey.
 
   "Known by the silver cross, and sable shield,  
-Two Knights of Malta <span id="fr_531"></span>[3](#fn_526) there command
+Two Knights of Malta <span id="fr_531"></span>[3](#fn_526.md) there command
 the field;
 
 <span id="page_233">p. 233</span>
@@ -359,12 +359,12 @@ Darts on the lev’ret, from the brown-wood shade
 Darts Roderic on their rear; in scatter’d flight  
 They leave the goodly herds the victor’s right.  
 Again, behold, in gore he bathes his sword;  
-His captive friend, <span id="fr_532"></span>[1](#fn_527) to liberty
+His captive friend, <span id="fr_532"></span>[1](#fn_527.md) to liberty
 restor’d,  
 Glows to review the cause that wrought his woe,  
 The cause, his loyalty, as taintless snow.  
 Here treason’s well-earn’d meed allures thine eyes, <span
-id="fr_533"></span>[2](#fn_528)  
+id="fr_533"></span>[2](#fn_528.md)  
 Low, grovelling in the dust, the traitor dies;  
 Great Elvas gave the blow. Again, behold,  
 Chariot and steed in purple slaughter roll’d  
@@ -383,7 +383,7 @@ Confusion maddens: on the dreadless knight
 Castilia’s navy pours its gather’d might:  
 Pereira dies, their self-devoted prey,  
 And safe the Lusian galleys speed away. <span
-id="fr_534"></span>[1](#fn_529)
+id="fr_534"></span>[1](#fn_529.md)
 
   "Lo, where the lemon-trees from yon green hill  
 Throw their cool shadows o’er the crystal rill;  
@@ -393,9 +393,9 @@ Forlorn they seem; but taintless flow’d their blood
 From those three hundred who of old withstood;  
 Withstood, and from a thousand Romans tore  
 The victor-wreath, what time the shepherd <span
-id="fr_535"></span>[2](#fn_530) bore  
+id="fr_535"></span>[2](#fn_530.md) bore  
 The leader’s staff of Lusus: equal flame  
-Inspir’d these few, <span id="fr_536"></span>[3](#fn_531) their victory
+Inspir’d these few, <span id="fr_536"></span>[3](#fn_531.md) their victory
 the same.  
 Though twenty lances brave each single spear,  
 Never the foes superior might to fear  
@@ -404,13 +404,13 @@ Well tried, well prov’d in many a dreadful fight.
 
   "That dauntless earl behold; on Libya’s coast,  
 Far from the succour of the Lusian host, <span
-id="fr_537"></span>[4](#fn_532)
+id="fr_537"></span>[4](#fn_532.md)
 
 <span id="page_235">p. 235</span>
 
 Twice hard besieg’d, he holds the Ceutan towers  
 Against the banded might of Afric’s powers.  
-That other earl; <span id="fr_538"></span>[1](#fn_533)--behold the port
+That other earl; <span id="fr_538"></span>[1](#fn_533.md)--behold the port
 he bore,  
 So, trod stern Mars on Thracia’s hills of yore.  
 What groves of spears Alcazar’s gates surround!  
@@ -425,11 +425,11 @@ Plunges bold Vian: in the glorious strife
 He dies, and dying saves his sov’reign’s life.
 
   "Illustrious, lo, two brother-heroes shine, <span
-id="fr_539"></span>[2](#fn_534)  
+id="fr_539"></span>[2](#fn_534.md)  
 Their birth, their deeds, adorn the royal line;  
 To ev’ry king of princely Europe known,  
 In ev’ry court the gallant Pedro shone.  
-The glorious Henry <span id="fr_540"></span>[3](#fn_535)--kindling at
+The glorious Henry <span id="fr_540"></span>[3](#fn_535.md)--kindling at
 his name  
 Behold my sailors’ eyes all sparkle flame!
 
@@ -457,7 +457,7 @@ The boastful pride of Afric tower’d no more.
   "Num’rous though these, more num’rous warriors shine  
 Th’ illustrious glory of the Lusian line.  
 But ah, forlorn, what shame to barb’rous pride! <span
-id="fr_541"></span>[1](#fn_536)  
+id="fr_541"></span>[1](#fn_536.md)  
 Friendless the master of the pencil died;
 
 <span id="page_237">p. 237</span>
@@ -503,7 +503,7 @@ So, lower’d the night, the sullen howl the same,
 And, ’mid the black-wing’d gloom, stern Bacchus came;  
 The form, and garb of Hagar’s son he took,  
 The ghost-like aspect, and the threat’ning look. <span
-id="fr_542"></span>[1](#fn_537)  
+id="fr_542"></span>[1](#fn_537.md)  
 Then, o’er the pillow of a furious priest,  
 Whose burning zeal the Koran’s lore profess’d,  
 Reveal’d he stood, conspicuous in a dream,  
@@ -534,7 +534,7 @@ Let ev’ry nerve their infant strength oppose.
 <span id="page_239">p. 239</span>
 
 When, softly usher’d by the milky dawn,  
-The sun first rises <span id="fr_543"></span>[1](#fn_538) o’er the
+The sun first rises <span id="fr_543"></span>[1](#fn_538.md) o’er the
 daisied lawn,  
 His silver lustre, as the shining dew  
 Of radiance mild, unhurt the eye may view:  
@@ -560,7 +560,7 @@ Sleepless the king he found, in dubious thought;
 His conscious fraud a thousand terrors brought:  
 All gloomy as the hour, around him stand,  
 With haggard looks, the hoary Magi band: <span
-id="fr_544"></span>[1](#fn_539)  
+id="fr_544"></span>[1](#fn_539.md)  
 To trace what fates on India’s wide domain  
 Attend the rovers from unheard-of Spain,  
 Prepar’d, in dark futurity, to prove  
@@ -573,7 +573,7 @@ With earnest eyes the priestly band explore
 The entrails, throbbing in the living gore.  
 And lo, permitted by the power divine,  
 The hov’ring demon gives the dreadful sign. <span
-id="fr_545"></span>[2](#fn_540)
+id="fr_545"></span>[2](#fn_540.md)
 
 <span id="page_241">p. 241</span>
 
@@ -584,7 +584,7 @@ Darting his eyes, high on his trophied car,
 Stern Tyranny sweeps wide o’er India’s ground;  
 On vulture-wings fierce Rapine hovers round;  
 Ills after ills, and India’s fetter’d might,  
-Th’ eternal yoke. <span id="fr_546"></span>[1](#fn_541) Loud shrieking
+Th’ eternal yoke. <span id="fr_546"></span>[1](#fn_541.md) Loud shrieking
 at the sight,  
 The starting wizards from the altar fly,  
 And silent horror glares in ev’ry eye:  
@@ -616,7 +616,7 @@ Ah, what the wisdom, what the sleepless care
 Efficient to avoid the traitor’s snare;  
 What human power can give a king to know  
 The smiling aspect of the lurking foe!  
-So let the tyrant plead. <span id="fr_547"></span>[1](#fn_542)--The
+So let the tyrant plead. <span id="fr_547"></span>[1](#fn_542.md)--The
 patriot king  
 Knows men, knows whence the patriot virtues spring;  
 From inward worth, from conscience firm and bold,  
@@ -630,7 +630,7 @@ Swift to the king the regent’s steps they tread;
 The king they found o’erwhelm’d in sacred dread.  
 The word they take, their ancient deeds relate,  
 Their ever faithful service of the state; <span
-id="fr_548"></span>[2](#fn_543)
+id="fr_548"></span>[2](#fn_543.md)
 
 <span id="page_243">p. 243</span>
 
@@ -678,7 +678,7 @@ And valiant GAMA’s fate was now conspir’d.
   Ambassadors from India GAMA sought,  
 And oaths of peace, for oaths of friendship brought;  
 The glorious tale, ’twas all he wish’d, to tell;  
-So Ilion’s <span id="fr_549"></span>[1](#fn_544) fate was seal’d when
+So Ilion’s <span id="fr_549"></span>[1](#fn_544.md) fate was seal’d when
 Hector fell.
 
   Again convok’d before the Indian throne,  
@@ -700,7 +700,7 @@ Thus prove thy truth, thus we thy truth allow.
 If not, what credence will the wise afford?  
 What monarch trust the wand’ring seaman’s word?  
 No sumptuous gift thou bring’st. <span
-id="fr_550"></span>[2](#fn_545)--Yet, though some crime  
+id="fr_550"></span>[2](#fn_545.md)--Yet, though some crime  
 Has thrown thee, banish’d from thy native clime,
 
 <span id="page_245">p. 245</span>
@@ -717,7 +717,7 @@ My captain thou, unrivall’d on the sea."
   Oh now, ye Muses, sing what goddess fir’d  
 GAMA’s proud bosom, and his lips inspir’d.  
 Fair Acidalia, love’s celestial queen, <span
-id="fr_551"></span>[1](#fn_546)  
+id="fr_551"></span>[1](#fn_546.md)  
 The graceful goddess of the fearless mien,  
 Her graceful freedom on his look bestow’d,  
 And all collected in his bosom glow’d.  
@@ -756,7 +756,7 @@ Long have the kings of Lusus’ daring race
 Resolv’d the limits of the deep to trace,  
 Beneath the morn to ride the furthest waves,  
 And pierce the furthest shore old Ocean laves.  
-Sprung from the prince, <span id="fr_552"></span>[1](#fn_547) before
+Sprung from the prince, <span id="fr_552"></span>[1](#fn_547.md) before
 whose matchless power  
 The strength of Afric wither’d as a flower  
 Never to bloom again, great Henry shone,  
@@ -782,7 +782,7 @@ Great Nature seem’d to call, ‘Approach not here!’
 
 At Lisbon’s court they told their dread escape,  
 And from her raging tempests, nam’d the Cape. <span
-id="fr_553"></span>[1](#fn_548)  
+id="fr_553"></span>[1](#fn_548.md)  
 ‘Thou southmost point,’ the joyful king exclaim’d,  
 ‘Cape of Good Hope, be thou for ever nam’d!  
 Onward my fleets shall dare the dreadful way,  
@@ -792,7 +792,7 @@ Proclaim’d, ‘This ocean never shall be past;’
 Through that dread ocean, and the tempests’ roar,  
 My king commanded, and my course I bore.  
 The pillar thus of deathless fame, begun  
-By other chiefs, <span id="fr_554"></span>[2](#fn_549) beneath the
+By other chiefs, <span id="fr_554"></span>[2](#fn_549.md) beneath the
 rising sun  
 In thy great realm, now to the skies I raise,  
 The deathless pillar of my nation’s praise.  
@@ -832,7 +832,7 @@ Wide o’er the board the royal feast is spread,
 And, fair embroidered, shines DE GAMA’S bed.  
 The regent’s palace high o’erlook’d the bay  
 Where GAMA’S black-ribb’d fleet at anchor lay. <span
-id="fr_555"></span>[1](#fn_550)
+id="fr_555"></span>[1](#fn_550.md)
 
   Ah, why the voice of ire and bitter woe  
 O’er Tago’s banks, ye nymphs of Tagus, show?  
@@ -874,7 +874,7 @@ The Lusian chief his guarded guest detain’d,
 With arts on arts, and vows of friendship feign’d.  
 His fraudful art, though veil’d in deep disguise,  
 Shone bright to GAMA’s manner-piercing eyes.  
-As in the sun’s bright <span id="fr_556"></span>[1](#fn_551) beam the
+As in the sun’s bright <span id="fr_556"></span>[1](#fn_551.md) beam the
 gamesome boy  
 Plays with the shining steel or crystal toy,
 
@@ -950,12 +950,12 @@ END OF THE EIGHTH BOOK.
 
 ### Footnotes
 
-<span id="fn_498"></span>[222:1](lusbk08.htm#fr_503) Kotwâl, a sort of
+<span id="fn_498"></span>[222:1](lusbk08.htm#fr_503.md) Kotwâl, a sort of
 superintendent or inspector of police.--FORBES’ Hindustani Dictionary.
 
-<span id="fn_499"></span>[222:2](lusbk08.htm#fr_504) Lusus.
+<span id="fn_499"></span>[222:2](lusbk08.htm#fr_504.md) Lusus.
 
-<span id="fn_500"></span>[223:1](lusbk08.htm#fr_505) *His cluster’d
+<span id="fn_500"></span>[223:1](lusbk08.htm#fr_505.md) *His cluster’d
 bough, the same which Bacchus bore*.--Camoëns immediately before, and in
 the former book, calls the ensign of Lusus a bough; here he calls it the
 green thyrsus of Bacchus:--
@@ -966,7 +966,7 @@ green thyrsus of Bacchus:--
 however, was a javelin twisted with ivy-leaves, used in the sacrifices
 of Bacchus:
 
-<span id="fn_501"></span>[223:2](lusbk08.htm#fr_506) *In those fair
+<span id="fn_501"></span>[223:2](lusbk08.htm#fr_506.md) *In those fair
 lawns the bless’d Elysium feign’d*.--In this assertion our author has
 the authority of Strabo, a foundation sufficient for a poet. Nor are
 there wanting several Spanish writers, particularly Barbosa, who
@@ -1008,21 +1008,21 @@ nations of Africa and America agree in placing their heaven in beautiful
 islands, at an immense distance over the ocean. The idea is universal,
 and is natural to every nation in a state of barbarous simplicity.
 
-<span id="fn_502"></span>[224:1](lusbk08.htm#fr_507) The goddess
+<span id="fn_502"></span>[224:1](lusbk08.htm#fr_507.md) The goddess
 Minerva.
 
-<span id="fn_503"></span>[224:2](lusbk08.htm#fr_508) *The heav’n-built
+<span id="fn_503"></span>[224:2](lusbk08.htm#fr_508.md) *The heav’n-built
 towers of Troy*.--Alluding to the fable of Neptune, Apollo, and
 Laomedon.
 
-<span id="fn_504"></span>[224:3](lusbk08.htm#fr_509)
+<span id="fn_504"></span>[224:3](lusbk08.htm#fr_509.md)
 
 *On Europe’s strand, pore grateful to the skies,  
 He bade th’ eternal walls of Lisbon rise*.--
 
 <span class="contnote">\[paragraph continues\]</span> For some account
 of this tradition, see the note on Lusiad, bk. iii. [p.
-76](lusbk03.htm#page_76). Ancient traditions, however fabulous, have a
+76](lusbk03.htm#page_76.md). Ancient traditions, however fabulous, have a
 good effect in poetry. Virgil has not scrupled to insert one, which
 required an apology:--
 
@@ -1035,10 +1035,10 @@ he intended to write a poem on the subject; and by this fondness was
 induced to mention it as a truth in the introduction to his History of
 England.
 
-<span id="fn_505"></span>[225:1](lusbk08.htm#fr_510) *The brother
+<span id="fn_505"></span>[225:1](lusbk08.htm#fr_510.md) *The brother
 chief*.--Paulus de Gama.
 
-<span id="fn_506"></span>[225:2](lusbk08.htm#fr_511) *That gen’rous
+<span id="fn_506"></span>[225:2](lusbk08.htm#fr_511.md) *That gen’rous
 pride which Borne to Pyrrhus bore*.--When Pyrrhus, king of Epirus, was
 at war with the Romans, his physician offered to poison him. The senate
 rejected the proposal, and acquainted Pyrrhus of the designed treason.
@@ -1046,18 +1046,18 @@ Florus remarks on the infamous assassination of Viriatus, that the Roman
 senate did him great honour; *ut videretur aliter vinci non potuisse*;
 it was a confession that they could not otherwise conquer him.--Vid.
 Flor. l. 17. For a fuller account of this great man, see the note on
-Lusiad, bk. i. [p. 9](lusbk01.htm#page_9).
+Lusiad, bk. i. [p. 9](lusbk01.htm#page_9.md).
 
-<span id="fn_507"></span>[225:3](lusbk08.htm#fr_512) *Some deem the
+<span id="fn_507"></span>[225:3](lusbk08.htm#fr_512.md) *Some deem the
 warrior of Hungarian race*.--See the note on the Lusiad, bk. iii. [p.
-67](lusbk03.htm#page_67).
+67](lusbk03.htm#page_67.md).
 
-<span id="fn_508"></span>[225:4](lusbk08.htm#fr_513) Jerusalem.
+<span id="fn_508"></span>[225:4](lusbk08.htm#fr_513.md) Jerusalem.
 
-<span id="fn_509"></span>[226:1](lusbk08.htm#fr_514) *The first
+<span id="fn_509"></span>[226:1](lusbk08.htm#fr_514.md) *The first
 Alonzo*.--King of Portugal.
 
-<span id="fn_510"></span>[226:2](lusbk08.htm#fr_515) *On his young
+<span id="fn_510"></span>[226:2](lusbk08.htm#fr_515.md) *On his young
 pupil’s flight*.--"Some, indeed most, writers say, that the queen
 advancing with her army towards Guimaraez, the king, without waiting
 till his governor joined him, engaged them and was routed: but that
@@ -1065,21 +1065,21 @@ afterwards the remains of his army, being joined by the troops under the
 command of Egaz Munitz, engaged the army of the queen a second time, and
 gained a complete victory." UNIV. HIST.
 
-<span id="fn_511"></span>[226:3](lusbk08.htm#fr_516) *Egaz behold, a
+<span id="fn_511"></span>[226:3](lusbk08.htm#fr_516.md) *Egaz behold, a
 chief self-doom’d to death*.--See the same story, in bk. iii. [p.
-71](lusbk03.htm#page_71). Though history affords no authentic document
+71](lusbk03.htm#page_71.md). Though history affords no authentic document
 of this transaction, tradition, the poet’s authority, is not silent. And
 the monument of Egaz in the monastery of Paço de Souza gives it
 countenance. Egaz and his family are there represented, in bas relief,
 in the attitude and garb, says Castera, as described by Camoëns.
 
-<span id="fn_512"></span>[227:1](lusbk08.htm#fr_517) *Ah Rome! no more
+<span id="fn_512"></span>[227:1](lusbk08.htm#fr_517.md) *Ah Rome! no more
 thy gen’rous consul boast*.--Sc. Posthumus, who, overpowered by the
 Samnites, submitted to the indignity of passing under the yoke.
 
-<span id="fn_513"></span>[227:2](lusbk08.htm#fr_518) *The Moorish
+<span id="fn_513"></span>[227:2](lusbk08.htm#fr_518.md) *The Moorish
 king*.--The Alcaydes, or tributary governors under the Miramolin <span
-id="fr_519"></span>[\*](#fn_514) or Emperor of Morocco, are often by the
+id="fr_519"></span>[\*](#fn_514.md) or Emperor of Morocco, are often by the
 Spanish and Portuguese writers styled kings. He who was surprised and
 taken prisoner by Don Fuaz Roupinho was named *Gama*. Fuaz, after having
 gained the first naval victory of the Portuguese, also experienced their
@@ -1087,32 +1087,32 @@ first defeat. With one and twenty sail he attacked fifty-four large
 galleys of the Moors. "The sea," says Brandan, "which had lately
 furnished him with trophies, now supplied him with a tomb."
 
-<span id="fn_514"></span>[227:\*](lusbk08.htm#fr_519) This should be
+<span id="fn_514"></span>[227:\*](lusbk08.htm#fr_519.md) This should be
 (and is evidently only a corruption of), *Emir-et-Mumenîn*, *i.e*. in
 Arabic, Commander of the believers.--*Ed*.
 
-<span id="fn_515"></span>[228:1](lusbk08.htm#fr_520) *A foreign navy
+<span id="fn_515"></span>[228:1](lusbk08.htm#fr_520.md) *A foreign navy
 brings the pious aid*.--A navy of crusaders, mostly English.
 
-<span id="fn_516"></span>[228:2](lusbk08.htm#fr_521) *And from the
+<span id="fn_516"></span>[228:2](lusbk08.htm#fr_521.md) *And from the
 leaves*.--This legend is mentioned by some ancient Portuguese
 chronicles. Homer would have availed himself, as Camoëns has done, of a
 tradition so enthusiastic, and characteristic of the age. Henry was a
 native of Bonneville near Cologne. "His tomb," says Castera, "is still
 to be seen in the monastery of St. Vincent, but without the palm."
 
-<span id="fn_517"></span>[229:1](lusbk08.htm#fr_522) *In robes of white
+<span id="fn_517"></span>[229:1](lusbk08.htm#fr_522.md) *In robes of white
 behold a priest advance*.--Thestonius, prior of the regulars of St.
 Augustine of Conymbra. Some ancient chronicles relate this circumstance
 as mentioned by Camoëns. Modern writers assert, that he never quitted
 his breviary.--CASTERA.
 
-<span id="fn_518"></span>[229:2](lusbk08.htm#fr_523) *The son of
+<span id="fn_518"></span>[229:2](lusbk08.htm#fr_523.md) *The son of
 Egas*.--He was named Mem Moniz, and was son of Egas Moniz, celebrated
 for the surrender of himself and family to the King of Castile, as
 already mentioned.
 
-<span id="fn_519"></span>[229:3](lusbk08.htm#fr_524) *The dauntless
+<span id="fn_519"></span>[229:3](lusbk08.htm#fr_524.md) *The dauntless
 Gerald*.--"He was a man of rank, who, in order to avoid the legal
 punishment to which several crimes rendered him obnoxious, put himself
 at the head of a party of freebooters. Tiring, however, of that life, he
@@ -1125,14 +1125,14 @@ him governor of Evora. A knight with a sword in one hand, and two heads
 in the other, from that time became the armorial bearing of the city.
 "--CASTERA.
 
-<span id="fn_520"></span>[230:1](lusbk08.htm#fr_525) *Wrong’d by his
+<span id="fn_520"></span>[230:1](lusbk08.htm#fr_525.md) *Wrong’d by his
 king*.--Don Pedro Fernando de Castro, injured by the family of Lara, and
 denied redress by the King of Castile, took the infamous revenge of
 bearing arms against his native country. At the head of a Moorish army
 he committed several outrages in Spain; but was totally defeated in
 Portugal.
 
-<span id="fn_521"></span>[230:2](lusbk08.htm#fr_526) *And lo, the skies
+<span id="fn_521"></span>[230:2](lusbk08.htm#fr_526.md) *And lo, the skies
 unfold*.--"According to some ancient Portuguese histories, Don Matthew,
 bishop of Lisbon, in the reign of Alonso I. attempted to reduce Alcazar,
 then in possession of the Moors. His troops, being suddenly surrounded
@@ -1142,7 +1142,7 @@ cross on his breast, appeared in the air. The miracle dispelled the
 fears of the Portuguese; the Moors were defeated, and the conquest of
 Alcazar crowned the victory."--CASTERA.
 
-<span id="fn_522"></span>[231:1](lusbk08.htm#fr_527)
+<span id="fn_522"></span>[231:1](lusbk08.htm#fr_527.md)
 
             *Her streets in blood deplore  
 The seven brave hunters murder’d by the Moor*.--
@@ -1158,7 +1158,7 @@ constitutes true nobility. Don Payo de Correa, grand master of the order
 of St. James, revenged the death of these brave unfortunates by the sack
 of Tavila, where his just rage put the garrison to the sword."--CASTERA.
 
-<span id="fn_523"></span>[231:2](lusbk08.htm#fr_528) These three bold
+<span id="fn_523"></span>[231:2](lusbk08.htm#fr_528.md) These three bold
 knights how dread.--Nothing can give us a stronger picture of the
 romantic character of their age, than the manners of these champions,
 who were gentlemen of birth; and who, in the true spirit of
@@ -1167,7 +1167,7 @@ Their names were, Gonçalo Ribeiro; Fernando Martinez de Santarene; and
 Vasco Anez, foster-brother to Mary, queen of Castile, daughter of Alonzo
 IV. of Portugal.
 
-<span id="fn_524"></span>[232:1](lusbk08.htm#fr_529) *And I, behold, am
+<span id="fn_524"></span>[232:1](lusbk08.htm#fr_529.md) *And I, behold, am
 off’ring sacrifice*.--This line, the simplicity of which, I think,
 contains great dignity, is adopted from Fanshaw--
 
@@ -1182,7 +1182,7 @@ Pois eu responde estou sacrificando*;
 am sacrificing." The piety of Numa was crowned with victory.--Vid.
 ‘Plut. in vit. Numæ.
 
-<span id="fn_525"></span>[232:2](lusbk08.htm#fr_530)
+<span id="fn_525"></span>[232:2](lusbk08.htm#fr_530.md)
 
 *The Lusian* Scipio *well might speak his fame,  
 But nobler* Nunio *shines a greater name*.--
@@ -1192,7 +1192,7 @@ observes the happiness with which Camoëns introduces the name of this
 truly great man. "*Il va*," says he, "*le nommer tout à l’heure avec une
 adresse et une magnificence digne d’un si beau sujet*."
 
-<span id="fn_526"></span>[232:3](lusbk08.htm#fr_531) *Two knights of
+<span id="fn_526"></span>[232:3](lusbk08.htm#fr_531.md) *Two knights of
 Malta*.--These knights were first named Knights Hospitalers of St. John
 of Jerusalem, afterwards Knights of Rhodes, <span id="page_223">p.
 223</span> from whence they were driven to Messina, ere Malta was
@@ -1202,7 +1202,7 @@ taking this oath, they retired to their colleges, where they lived on
 their revenues in all the idleness of monkish luxury. Their original
 habit was black, with a white cross; their arms gules, a cross, argent.
 
-<span id="fn_527"></span>[233:1](lusbk08.htm#fr_532) *His captive
+<span id="fn_527"></span>[233:1](lusbk08.htm#fr_532.md) *His captive
 friend*.--Before John I. mounted the throne of Portugal, one Vasco
 Porcallo was governor of Villaviciosa. Roderic de Landroal and his
 friend, Alvarez Cuytado, having discovered that he was in the interest
@@ -1215,7 +1215,7 @@ ordered to be sent to Olivença. Roderic de Landroal, hearing of this,
 attacked and defeated the escort, and set his friend at
 liberty.--CASTERA.
 
-<span id="fn_528"></span>[233:2](lusbk08.htm#fr_533) *Here treason’s
+<span id="fn_528"></span>[233:2](lusbk08.htm#fr_533.md) *Here treason’s
 well-earn’d meed allures thine eyes*.--While the kingdom of Portugal was
 divided, some holding with John the newly elected king, and others with
 the King of Castile, Roderic Marin, governor of Campo-Major, declared
@@ -1228,7 +1228,7 @@ captive; and the traitorous Marin, notwithstanding the endeavours of
 their captain to save his life, met the reward of his treason from the
 soldiers of Elvas.--*Partly from* Castera.
 
-<span id="fn_529"></span>[234:1](lusbk08.htm#fr_534) *And safe the
+<span id="fn_529"></span>[234:1](lusbk08.htm#fr_534.md) *And safe the
 Lusian galleys speed away*.--A numerous fleet of the Castilians being on
 their way to lay siege to Lisbon, Ruy Pereyra, the Portuguese commander,
 seeing no possibility of victory, boldly attacked the Spanish admiral.
@@ -1236,10 +1236,10 @@ The fury of his onset put the Castilians in disorder, and allowed the
 Portuguese galleys a safe escape In this brave piece of service the
 gallant Pereyra lost his life.--CASTERA.
 
-<span id="fn_530"></span>[234:2](lusbk08.htm#fr_535) *The
+<span id="fn_530"></span>[234:2](lusbk08.htm#fr_535.md) *The
 shepherd*.--Viriatus.
 
-<span id="fn_531"></span>[234:3](lusbk08.htm#fr_536) *Equal flame
+<span id="fn_531"></span>[234:3](lusbk08.htm#fr_536.md) *Equal flame
 inspir’d these few*.--the Castilians having laid siege to Almada, a
 fortress on a mountain near Lisbon, the garrison, in the utmost distress
 for water, were obliged at times to make sallies to the bottom of the
@@ -1247,7 +1247,7 @@ hill in quest of it. Seventeen Portuguese thus employed were one day
 attacked by four hundred of the enemy. They made a brave defence, and
 effected a happy retreat into their fortress.--CASTERA.
 
-<span id="fn_532"></span>[234:4](lusbk08.htm#fr_537) *Far from the
+<span id="fn_532"></span>[234:4](lusbk08.htm#fr_537.md) *Far from the
 succour of the Lusian host*.--When Alonzo V. took Ceuta, Don Pedro de
 Menezes was the only officer in the army who <span id="page_235">p.
 235</span> was willing to become governor of that fortress; which, on
@@ -1255,21 +1255,21 @@ account of the uncertainty of succour from Portugal, and the earnest
 desire of the Moors to regain it, was deemed untenable. He gallantly
 defended his post in two severe sieges.
 
-<span id="fn_533"></span>[235:1](lusbk08.htm#fr_538) *That other
+<span id="fn_533"></span>[235:1](lusbk08.htm#fr_538.md) *That other
 earl*.--He was the natural son of Don Pedro de Menezes. Alonzo V. one
 day, having ridden out from Ceuta with a few attendants, was attacked by
 a numerous party of the Moors, when De Vian, and some others under him,
 at the expense of their own lives, purchased the safe retreat of their
 sovereign.
 
-<span id="fn_534"></span>[235:2](lusbk08.htm#fr_539) *Two brother-heroes
+<span id="fn_534"></span>[235:2](lusbk08.htm#fr_539.md) *Two brother-heroes
 shine*.--The sons of John I. Don Pedro was called the Ulysses of his
 age, on account both of his eloquence and his voyages. He visited almost
 every court of Europe, but he principally distinguished himself in
 Germany, where, under the standards of the Emperor Sigismond, he
 signalized his valour in the war against the Turks.--CASTERA.
 
-<span id="fn_535"></span>[235:3](lusbk08.htm#fr_540) *The glorious
+<span id="fn_535"></span>[235:3](lusbk08.htm#fr_540.md) *The glorious
 Henry*.--In pursuance of the reasons assigned in the preface, the
 translator has here taken the liberty to make a transposition in the
 order of his author. In Camoëns, Don Pedro de Menezes, and his son De
@@ -1301,7 +1301,7 @@ of the strangers, and to accept of their friendship, or to prevent the
 forerunners of so martial a nation from carrying home the tidings of the
 discovery of India, becomes the great object of their consideration.
 
-<span id="fn_536"></span>[236:1](lusbk08.htm#fr_541) *But ah, forlorn,
+<span id="fn_536"></span>[236:1](lusbk08.htm#fr_541.md) *But ah, forlorn,
 what shame to barb’rous pride*.--In the original.--<span
 id="page_237">p. 237</span>
 
@@ -1323,12 +1323,12 @@ Poor man, he sunk neglected to the grave!"
 is not in the original. It is the sigh of indignation over the unworthy
 fate of the unhappy Camoëns.
 
-<span id="fn_537"></span>[238:1](lusbk08.htm#fr_542) *The ghost-like
+<span id="fn_537"></span>[238:1](lusbk08.htm#fr_542.md) *The ghost-like
 aspect and the threat’ning tools*.--Mohammed, by some historians
 described as of a pale livid complexion, and *trux aspectus et vox
 terribilis*, of a fierce threatening aspect, voice, and demeanour.
 
-<span id="fn_538"></span>[239:1](lusbk08.htm#fr_543)
+<span id="fn_538"></span>[239:1](lusbk08.htm#fr_543.md)
 
 *When, softly usher’d by the milky dawn,  
 The sun first rises*.--
@@ -1379,7 +1379,7 @@ He strikes them *blind* with his *meridian rays;*
 So *blind* will ye be, if ye look not too’t,  
 If ye permit these *cedars* to take root."
 
-<span id="fn_539"></span>[240:1](lusbk08.htm#fr_544)
+<span id="fn_539"></span>[240:1](lusbk08.htm#fr_544.md)
 
                  *Around him stand,  
 With haggard looks, the hoary Magi band*.
@@ -1392,7 +1392,7 @@ says he, told Alexander, on his pretensions to divinity, that in
 everything he was like other men, except that he took less rest, and did
 more mischief. The Brahmins are never among modern writers called Magi.
 
-<span id="fn_540"></span>[240:2](lusbk08.htm#fr_545) *The hov’ring demon
+<span id="fn_540"></span>[240:2](lusbk08.htm#fr_545.md) *The hov’ring demon
 gives the dreadful sign*.--This has an allusion to the truth of history.
 Barros relates, that an augur being brought before the Zamorim, "*Em hum
 vaso de agua l’he mostrara hunas naos, que vin ham de muy longe para a
@@ -1410,7 +1410,7 @@ dignity and poetical colouring, cannot come in comparison with the
 divination of the Magi, and the appearance of the demon in the dream of
 the Moorish priest.
 
-<span id="fn_541"></span>[241:1](lusbk08.htm#fr_546) *Th’ eternal
+<span id="fn_541"></span>[241:1](lusbk08.htm#fr_546.md) *Th’ eternal
 yoke*.--This picture, it may perhaps be said, is but a bad compliment to
 the heroes of the Lusiad, and the fruits of their discovery. A little
 consideration, however, will vindicate Camoëns. It is the demon and the
@@ -1423,7 +1423,7 @@ to ascribe the happiest effects to the discovery of his heroes:--
 "Beneath their sway majestic, wise, and mild,  
 Proud of her victors’ laws, thrice happier India smil’d."
 
-<span id="fn_542"></span>[242:1](lusbk08.htm#fr_547) *So let the tyrant
+<span id="fn_542"></span>[242:1](lusbk08.htm#fr_547.md) *So let the tyrant
 plead*.--In this short declamation, a seeming excrescence, the business
 of the poem in reality is carried on. The zamorim, and his prime
 minister, the catual, are artfully characterised in it; and the
@@ -1434,7 +1434,7 @@ assertion--
 is happily introduced by the declamatory reflections which immediately
 precede it.
 
-<span id="fn_543"></span>[242:2](lusbk08.htm#fr_548)
+<span id="fn_543"></span>[242:2](lusbk08.htm#fr_548.md)
 
 *The Moors-----their ancient deeds relate,  
 Their ever faithful service of the state*.--
@@ -1463,9 +1463,9 @@ fleet to Europe, and their threat to withdraw from the dominions of the
 zamorim, are all according to the truth of history. The speeches of the
 zamorim and of GAMA, which follow, are also founded in truth.
 
-<span id="fn_544"></span>[244:1](lusbk08.htm#fr_549) Troy.
+<span id="fn_544"></span>[244:1](lusbk08.htm#fr_549.md) Troy.
 
-<span id="fn_545"></span>[244:2](lusbk08.htm#fr_550) *No sumptuous gift
+<span id="fn_545"></span>[244:2](lusbk08.htm#fr_550.md) *No sumptuous gift
 thou bring’st*.--"As the Portuguese did not <span id="page_245">p.
 245</span> expect to find any people but savages beyond the Cape of Good
 Hope, they only brought with them some preserves and confections, with
@@ -1480,16 +1480,16 @@ hats adorned with feathers, four chaplets of coral beads, twelve Turkey
 carpets, seven drinking cups of brass, a chest of sugar, two barrels of
 oil, and two of honey."--CASTERA.
 
-<span id="fn_546"></span>[245:1](lusbk08.htm#fr_551) *Fair Acidalia,
+<span id="fn_546"></span>[245:1](lusbk08.htm#fr_551.md) *Fair Acidalia,
 Love’s celestial queen*.--Castera derives Acidalia from ἀκηδὴς, which,
 he says, implies to act without fear or restraint. Acidalia is one of
 the names of Venus, in Virgil; derived from Acidalus, a fountain sacred
 to her in Boeotia.
 
-<span id="fn_547"></span>[246:1](lusbk08.htm#fr_552) *Sprung from the
+<span id="fn_547"></span>[246:1](lusbk08.htm#fr_552.md) *Sprung from the
 prince*.--John I.
 
-<span id="fn_548"></span>[247:1](lusbk08.htm#fr_553) *And from her
+<span id="fn_548"></span>[247:1](lusbk08.htm#fr_553.md) *And from her
 raging tempests, nam’d the Cape*.--Bartholomew Diaz, was the first who
 discovered the southmost point of Africa. He was driven back by the
 storms, which on these seas were thought always to continue, and which
@@ -1499,7 +1499,7 @@ Tempests. The expectation of the king, however, was kindled by the
 account, and with inexpressible joy, says the same author, he
 immediately named it the Cape of Good Hope.
 
-<span id="fn_549"></span>[247:2](lusbk08.htm#fr_554)
+<span id="fn_549"></span>[247:2](lusbk08.htm#fr_554.md)
 
 *The pillar thus of deathless fame, begun  
 By other chiefs, etc.*--
@@ -1510,7 +1510,7 @@ Breaking the element of molten tin,
 Through horrid storms I lead to thee the dance."  
                                                FANSHAW.
 
-<span id="fn_550"></span>[248:1](lusbk08.htm#fr_555)
+<span id="fn_550"></span>[248:1](lusbk08.htm#fr_555.md)
 
 *The regent’s palace high o’erlook’d the bay,  
 Where Gama’s black-ribb’d fleet at anchor lay*.--
@@ -1518,7 +1518,7 @@ Where Gama’s black-ribb’d fleet at anchor lay*.--
 The resemblance of this couplet to many passages in Homer, must be
 obvious to the intelligent critic.
 
-<span id="fn_551"></span>[249:1](lusbk08.htm#fr_556) *As in the sun’s
+<span id="fn_551"></span>[249:1](lusbk08.htm#fr_556.md) *As in the sun’s
 bright beam*.--Imitated from Virgil, who, by the same simile, describes
 the fluctuation of the thoughts of Æneas, on the eve of the Latian
 war:--
@@ -1572,4 +1572,4 @@ another inaccuracy pass unobserved. That the reflection of the moon
 
 ------------------------------------------------------------------------
 
-[Next: Book IX](lusbk09)
+[Next: Book IX](lusbk09.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap10)  [Next](chap12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap10)  [Next](chap12.md) 
 
 ------------------------------------------------------------------------
 
@@ -781,4 +781,4 @@ Or, as Tennyson says,
 ------------------------------------------------------------------------
 
 [Next: XII. Human Nature Revealed in Poetry--Job, Song of Songs, Psalms,
-Isaiah](chap12)
+Isaiah](chap12.md)

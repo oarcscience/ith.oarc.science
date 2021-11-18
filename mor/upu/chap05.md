@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap04) [Next](chap06)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap04) [Next](chap06.md)
 
 ------------------------------------------------------------------------
 
@@ -571,4 +571,4 @@ resolutions in support of statehood for New Mexico. Twenty years later!
 
 ------------------------------------------------------------------------
 
-[Next: VI The Goal-and After](chap06)
+[Next: VI The Goal-and After](chap06.md)

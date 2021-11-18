@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wos02)  [Next](wos04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wos02)  [Next](wos04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Select Works of Sri Sankaracharya*, tr. by S. Venkataramanan, \[1921\],
 at Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ at Intangible Textual Heritage
 
 I praise, with devotion, the All-pervading (Vishṇu), Who, Himself
 without origin, is the origin of the universe, in Whom this wheel of
-*samsâra* <span id="fr_0"></span>[\*](#fn_0) revolves in this wise, and,
+*samsâra* <span id="fr_0"></span>[\*](#fn_0.md) revolves in this wise, and,
 on realising Whom, this wheel of *samsâra* is destroyed—that Hari, the
 destroyer of the darkness of *samsâra*, I praise. (1)
 
@@ -39,7 +39,7 @@ is pervaded, and by Whom it is illumined through pleasure and pain,—that
 Hari, the destroyer of the darkness of *samsâra*, I praise. (2)
 
 Him, Who is all-knowing, Who is indeed all and perfect, Who is bliss
-itself, Who resides in the qualities <span id="fr_1"></span>[\*](#fn_1)
+itself, Who resides in the qualities <span id="fr_1"></span>[\*](#fn_1.md)
 and has therefore endless attributes, Who is the Unmanifest that
 differentiates the undifferentiated, and Who is both the real
 
@@ -140,8 +140,8 @@ praise. (16)
 <span id="page_10">p. 10</span>
 
 Him Who, though pure, imperishable, one and unborn, nevertheless imposes
-upon Himself <span id="fr_2"></span>[\*](#fn_2) different qualities and
-different shapes and, like a crystal <span id="fr_3"></span>[†](#fn_3),
+upon Himself <span id="fr_2"></span>[\*](#fn_2.md) different qualities and
+different shapes and, like a crystal <span id="fr_3"></span>[†](#fn_3.md),
 shines variegated, differentiated and hidden by the fruits of
 action—that Hari, the destroyer of the darkness of *samsâra*, I praise.
 (17)
@@ -155,7 +155,7 @@ praise. (18)
 <span id="page_11">p. 11</span>
 
 Him, the Unborn, Whom, at the beginning of the Taittirîya-Upanishad,
-Varuṇa explained to Bhṛigu <span id="fr_4"></span>[\*](#fn_4) as being
+Varuṇa explained to Bhṛigu <span id="fr_4"></span>[\*](#fn_4.md) as being
 uncontradictable, conscious,. pure, imperishable, transcendental,
 unperturbed, unperceivable, without parts, blissful, and without a
 second,—that Hari, the destroyer of the darkness of *samsâra*, I praise.
@@ -168,13 +168,13 @@ determined within. himself "I am
 <span id="page_12">p. 12</span>
 
 the Brahman beyond these five sheaths of taste, etc. <span
-id="fr_5"></span>[\*](#fn_5)",—that Hari, the destroyer of the darkness
+id="fr_5"></span>[\*](#fn_5.md)",—that Hari, the destroyer of the darkness
 of *samsâra*, I praise. (20)
 
 Him by Whose inspiration, by Whose power, <span
-id="fr_6"></span>[†](#fn_6) and on Whom depending, the knower of the
-field <span id="fr_7"></span>[‡](#fn_7) directs the active principle in
-all creatures, and by Whose power <span id="fr_8"></span>[\*\*](#fn_8)
+id="fr_6"></span>[†](#fn_6.md) and on Whom depending, the knower of the
+field <span id="fr_7"></span>[‡](#fn_7.md) directs the active principle in
+all creatures, and by Whose power <span id="fr_8"></span>[\*\*](#fn_8.md)
 is impelled the self that is the doer and enjoyer in this world,—that
 Hari, the destroyer of the darkness of *samsâra*, I praise. (21)
 
@@ -228,9 +228,9 @@ waters,—that Hari, the destroyer of the darkness of *samsâra*, I praise.
 Him Who is named Purusha and Who is realised, even in this world, as "He
 who is I is that Supreme Lord and I am verily He" by those who
 intelligently investigate the teachings of Vyâsa <span
-id="fr_9"></span>[\*](#fn_9) and understand the distinction between the
+id="fr_9"></span>[\*](#fn_9.md) and understand the distinction between the
 field and the knower of the field, <span
-id="fr_10"></span>[†](#fn_10)—that Hari, the destroyer of the darkness
+id="fr_10"></span>[†](#fn_10.md)—that Hari, the destroyer of the darkness
 of *samsâra*, I praise. (28)
 
 <span id="page_17">p. 17</span>
@@ -242,7 +242,7 @@ destroyer of the darkness of *samsâra*, I praise. (29)
 
 Him Who is realised as "He that is the Supreme Lord is I and I am verily
 He" by those who understand the unity in duality taught by the passages
-of the Madhu-Brâhmaṇa <span id="fr_11"></span>[\*](#fn_11) and attain a
+of the Madhu-Brâhmaṇa <span id="fr_11"></span>[\*](#fn_11.md) and attain a
 supremacy that exacts veneration even at the hands of Indra,—that Hari,
 the destroyer of the darkness of *samsâra*, I praise. (30)
 
@@ -255,7 +255,7 @@ sun, causes him to -radiate heat, I am verily He,"—that Hari, the
 destroyer of the darkness of *samsâra*, I praise. (31)
 
 Him, the ultimate reality, a spark of Whose consciousness reflected in
-nature <span id="fr_12"></span>[\*](#fn_12) cognises the objects of
+nature <span id="fr_12"></span>[\*](#fn_12.md) cognises the objects of
 cognition outside the mind, but does not cognise Him that dwells within
 the mind and inspires the cognition,—that Hari, the destroyer of the
 darkness of *samsâra*, I praise. (32)
@@ -271,25 +271,25 @@ praise. (33)
 Who indeed can live, if He do not reside in the body? He alone,
 therefore, is the Supreme Bliss and He is the incoming and outgoing
 life. By such reasoning does the Scripture <span
-id="fr_13"></span>[\*](#fn_13) declare that He is,—that Hari, the
+id="fr_13"></span>[\*](#fn_13.md) declare that He is,—that Hari, the
 destroyer of the darkness of *samsâra*, I praise. (34)
 
 <span id="page_20">p. 20</span>
 
-"Am I the vital energy <span id="fr_14"></span>[\*](#fn_14)? Or speech?
+"Am I the vital energy <span id="fr_14"></span>[\*](#fn_14.md)? Or speech?
 Or the senses of hearing etc? Or the mind <span
-id="fr_15"></span>[†](#fn_15)? Or the intellect? <span
-id="fr_16"></span>[‡](#fn_16) Am I a particular entity or the collective
+id="fr_15"></span>[†](#fn_15.md)? Or the intellect? <span
+id="fr_16"></span>[‡](#fn_16.md) Am I a particular entity or the collective
 whole?" Him Who, by thus meditating, is realised as "I am the conscious
 principle in this body",—that Hari, the destroyer of the darkness of
 *samsâra*, I praise. (35)
 
 Him Who is realised as "I am not the vital energy <span
-id="fr_17"></span>[\*](#fn_14), nor the body, nor the mind <span
-id="fr_18"></span>[†](#fn_15), nor the intellect <span
-id="fr_19"></span>[‡](#fn_16), nor the ego <span
-id="fr_20"></span>[§](#fn_17), nor the understanding <span
-id="fr_21"></span>[\*\*](#fn_18), but am verily He that is the
+id="fr_17"></span>[\*](#fn_14.md), nor the body, nor the mind <span
+id="fr_18"></span>[†](#fn_15.md), nor the intellect <span
+id="fr_19"></span>[‡](#fn_16.md), nor the ego <span
+id="fr_20"></span>[§](#fn_17.md), nor the understanding <span
+id="fr_21"></span>[\*\*](#fn_18.md), but am verily He that is the
 
 <span id="page_21">p. 21</span>
 
@@ -297,9 +297,9 @@ conscious principle in this body,"—that Hari, the destroyer of the
 darkness of *samsâra*, I praise. (36)
 
 Him Whom, in the Upanishad of the Sâmaveda <span
-id="fr_22"></span>[\*](#fn_19), the father <span
-id="fr_23"></span>[†](#fn_20) explains to his son <span
-id="fr_24"></span>[‡](#fn_21) as pure existence, pure consciousness, the
+id="fr_22"></span>[\*](#fn_19.md), the father <span
+id="fr_23"></span>[†](#fn_20.md) explains to his son <span
+id="fr_24"></span>[‡](#fn_21.md) as pure existence, pure consciousness, the
 unborn, the real, the transcendental, the eternal, the infinite, the
 first cause, and by declaring "That thou art",—that Hari, the destroyer
 of the darkness of *samsâra*, I praise. (37)
@@ -309,7 +309,7 @@ perfect absorption of
 
 <span id="page_22">p. 22</span>
 
-thought <span id="fr_25"></span>[\*](#fn_22), attain to the knowledge of
+thought <span id="fr_25"></span>[\*](#fn_22.md), attain to the knowledge of
 the conscious principle within themselves by first excluding all
 conditioned and unconditioned existence and then eliminating all that is
 perceptible as "Not this" "Not this,"—that Hari, the destroyer of the
@@ -332,7 +332,7 @@ unreal,—that Hari, the destroyer of the darkness of *samsâra*, I praise.
 Him Who is realised as the consciousness that ultimately remains when
 the self that is not free from impurity is burnt in the fire of
 knowledge. kindled by eightfold Yôga <span
-id="fr_26"></span>[\*](#fn_23), like gold alloyed with iron in the
+id="fr_26"></span>[\*](#fn_23.md), like gold alloyed with iron in the
 furnace,—that Hari, the destroyer of the darkness of *samsâra*, I
 praise. (41)
 
@@ -340,13 +340,13 @@ praise. (41)
 
 Him Who is the resplendent light of consciousness, the first cause, the
 praiseworthy, Who shines like lightning within the heart amidst the
-spheres of the sun, moon and fire, <span id="fr_27"></span>[\*](#fn_24)
+spheres of the sun, moon and fire, <span id="fr_27"></span>[\*](#fn_24.md)
 in Whom the sages, worshipping Him with devotion as the ultimate reality
 within their own selves, merge themselves even in this life,—that Hari,
 the destroyer of the darkness of *samsâra*, I praise. (42)
 
 May He, the all-pervading (Vishnu), protect this devotee who is an
-individual self <span id="fr_28"></span>[†](#fn_25) existing
+individual self <span id="fr_28"></span>[†](#fn_25.md) existing
 
 <span id="page_25">p. 25</span>
 
@@ -359,7 +359,7 @@ He who recites or hears this. hymn of the venerable teacher, valuable to
 devotees and resembling the sun in dispelling the darkness of the fear
 of *samsâra*, attains the state of the All-pervading (Vishnu) and;
 becoming a seer, realises both knowledge and the object of
-knowledge <span id="fr_29"></span>[\*](#fn_26) within himself. (44)
+knowledge <span id="fr_29"></span>[\*](#fn_26) within himself. (44.md)
 
 Thus ends the hymn to Hari.
 
@@ -369,73 +369,73 @@ Thus ends the hymn to Hari.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:\*](wos03.htm#fr_0) Phenomenal existence; the
+<span id="fn_0"></span>[1:\*](wos03.htm#fr_0.md) Phenomenal existence; the
 succession of births and deaths.
 
-<span id="fn_1"></span>[2:\*](wos03.htm#fr_1) Sattva, Rajas and Tamas.
+<span id="fn_1"></span>[2:\*](wos03.htm#fr_1.md) Sattva, Rajas and Tamas.
 
-<span id="fn_2"></span>[10:\*](wos03.htm#fr_2) Lit: Sees.
+<span id="fn_2"></span>[10:\*](wos03.htm#fr_2.md) Lit: Sees.
 
-<span id="fn_3"></span>[10:†](wos03.htm#fr_3) Reflecting external
+<span id="fn_3"></span>[10:†](wos03.htm#fr_3.md) Reflecting external
 colours.
 
-<span id="fn_4"></span>[11:\*](wos03.htm#fr_4) Son of Varuṇa.
+<span id="fn_4"></span>[11:\*](wos03.htm#fr_4.md) Son of Varuṇa.
 
-<span id="fn_5"></span>[12:\*](wos03.htm#fr_5) The five *kosas*, namely,
+<span id="fn_5"></span>[12:\*](wos03.htm#fr_5.md) The five *kosas*, namely,
 annamaya, prâṇamaya, manomaya, vijṇânamaya and ànandamaya.
 
-<span id="fn_6"></span>[12:†](wos03.htm#fr_6) Mâyâ-ṣakti, the power of
+<span id="fn_6"></span>[12:†](wos03.htm#fr_6.md) Mâyâ-ṣakti, the power of
 illusion.
 
-<span id="fn_7"></span>[12:‡](wos03.htm#fr_7) Kshetrajṇa, the individual
+<span id="fn_7"></span>[12:‡](wos03.htm#fr_7.md) Kshetrajṇa, the individual
 conscious self.
 
-<span id="fn_8"></span>[12:\*\*](wos03.htm#fr_8) Chit-ṣakti, the power
+<span id="fn_8"></span>[12:\*\*](wos03.htm#fr_8.md) Chit-ṣakti, the power
 of intelligence.
 
-<span id="fn_9"></span>[16:\*](wos03.htm#fr_9) The Brahma-Sûtras of
+<span id="fn_9"></span>[16:\*](wos03.htm#fr_9.md) The Brahma-Sûtras of
 Vyâsa.
 
-<span id="fn_10"></span>[16:†](wos03.htm#fr_10) Kshetra, the field or
+<span id="fn_10"></span>[16:†](wos03.htm#fr_10.md) Kshetra, the field or
 the body, and Kshetrajṇa, the knower of the field or the individual
 self.
 
-<span id="fn_11"></span>[17:\*](wos03.htm#fr_11) Bṛih. Up., II. 5.
+<span id="fn_11"></span>[17:\*](wos03.htm#fr_11.md) Bṛih. Up., II. 5.
 
-<span id="fn_12"></span>[18:\*](wos03.htm#fr_12) *I.e.*, the individual
+<span id="fn_12"></span>[18:\*](wos03.htm#fr_12.md) *I.e.*, the individual
 self.
 
-<span id="fn_13"></span>[19:\*](wos03.htm#fr_13) The
+<span id="fn_13"></span>[19:\*](wos03.htm#fr_13.md) The
 Taittirîya-Upanishad.
 
-<span id="fn_14"></span>[20:\*](wos03.htm#fr_17) Prâṇa.
+<span id="fn_14"></span>[20:\*](wos03.htm#fr_17.md) Prâṇa.
 
-<span id="fn_15"></span>[20:†](wos03.htm#fr_18) Manas.
+<span id="fn_15"></span>[20:†](wos03.htm#fr_18.md) Manas.
 
-<span id="fn_16"></span>[20:‡](wos03.htm#fr_19) Buddhi.
+<span id="fn_16"></span>[20:‡](wos03.htm#fr_19.md) Buddhi.
 
-<span id="fn_17"></span>[20:§](wos03.htm#fr_20) Ahankâra.
+<span id="fn_17"></span>[20:§](wos03.htm#fr_20.md) Ahankâra.
 
-<span id="fn_18"></span>[20:\*\*](wos03.htm#fr_21) Dhî.
+<span id="fn_18"></span>[20:\*\*](wos03.htm#fr_21.md) Dhî.
 
-<span id="fn_19"></span>[21:\*](wos03.htm#fr_22) Chhândogya-Upanishad.
+<span id="fn_19"></span>[21:\*](wos03.htm#fr_22.md) Chhândogya-Upanishad.
 
-<span id="fn_20"></span>[21:†](wos03.htm#fr_23) Uddâlaka.
+<span id="fn_20"></span>[21:†](wos03.htm#fr_23.md) Uddâlaka.
 
-<span id="fn_21"></span>[21:‡](wos03.htm#fr_24) Svetaketu.
+<span id="fn_21"></span>[21:‡](wos03.htm#fr_24.md) Svetaketu.
 
-<span id="fn_22"></span>[22:\*](wos03.htm#fr_25) Samâdhi.
+<span id="fn_22"></span>[22:\*](wos03.htm#fr_25.md) Samâdhi.
 
-<span id="fn_23"></span>[23:\*](wos03.htm#fr_26) Yama, Niyama, Âsana,
+<span id="fn_23"></span>[23:\*](wos03.htm#fr_26.md) Yama, Niyama, Âsana,
 Praṇâyâma, Pratyâhâra, Dhâraṇâ, Dhyâna and Samâdhi.
 
-<span id="fn_24"></span>[24:\*](wos03.htm#fr_27) This is a technicality
+<span id="fn_24"></span>[24:\*](wos03.htm#fr_27.md) This is a technicality
 of the higher *Yoga*.
 
-<span id="fn_25"></span>[24:†](wos03.htm#fr_28) Purusha.
+<span id="fn_25"></span>[24:†](wos03.htm#fr_28.md) Purusha.
 
-<span id="fn_26"></span>[25:\*](wos03.htm#fr_29) The Supreme Being
+<span id="fn_26"></span>[25:\*](wos03.htm#fr_29.md) The Supreme Being
 
 ------------------------------------------------------------------------
 
-[Next: The Ten-versed Hymn.](wos04)
+[Next: The Ten-versed Hymn.](wos04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb35)  [Next](ptb37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb35)  [Next](ptb37.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,17 +25,17 @@ countries or cities shall be thus found in familiarity with the
 ecliptical place, will all be comprehended in the event; which will,
 however, principally attach to all those parts which may be connected
 with the identical sign of the eclipse, <span
-id="fr_94"></span>[1](#fn_94) and in which it was visible while above
-the earth. <span id="fr_95"></span>[2](#fn_95)
+id="fr_94"></span>[1](#fn_94.md) and in which it was visible while above
+the earth. <span id="fr_95"></span>[2](#fn_95.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_94"></span>[53:1](ptb36.htm#fr_94) As shown in the Table at
-page [51](ptb33.htm#page_51).
+<span id="fn_94"></span>[53:1](ptb36.htm#fr_94.md) As shown in the Table at
+page [51](ptb33.htm#page_51.md).
 
-<span id="fn_95"></span>[53:2](ptb36.htm#fr_95) It does not appear that
+<span id="fn_95"></span>[53:2](ptb36.htm#fr_95.md) It does not appear that
 the text here warrants the conclusion which Whalley has drawn from it,
 viz. "that wherever eclipses are not visible, they have no influence,
 and therefore subterranean eclipses cannot have any." Ptolemy declares,
@@ -47,4 +47,4 @@ a view of the eclipse.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Time and Period of the Event](ptb37)
+[Next: Chapter VII. The Time and Period of the Event](ptb37.md)

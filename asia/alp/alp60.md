@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp59) 
-[Next](alp61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp59.md) 
+[Next](alp61.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ In her heart what grief she bore!
 And I was that anguish sore.  
 Ah, I raged tempestuously,  
 That black torrent outward leapt <span
-id="fr_10"></span>[1](#fn_10):--  
+id="fr_10"></span>[1](#fn_10.md):--  
 God of mercy, pardon me,  
 For the tears my mother wept!
 
@@ -41,9 +41,9 @@ For the tears my mother wept!
 
 ### Footnotes
 
-<span id="fn_10"></span>[84:1](alp60.htm#fr_10) The poem entitled
+<span id="fn_10"></span>[84:1](alp60.htm#fr_10.md) The poem entitled
 "Complaints," written a few days before his death.
 
 ------------------------------------------------------------------------
 
-[Next: Without Thee What Are Song and Dance to Me?](alp61)
+[Next: Without Thee What Are Song and Dance to Me?](alp61.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb19)  [Next](boeb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb19)  [Next](boeb21.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ And I myself were dead and gane!
 
 ------------------------------------------------------------------------
 
-[Next: The Nut-brown Maid](boeb21)
+[Next: The Nut-brown Maid](boeb21.md)

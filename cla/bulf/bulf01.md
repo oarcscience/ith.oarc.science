@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf00) [Next](bulf02) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf00) [Next](bulf02.md) 
 
 # CHAPTER II.
 
@@ -272,4 +272,4 @@ Bonaparte":
 ------------------------------------------------------------------------
 
 Next: [CHAPTER III. Apollo And Daphne- Pyramus And Thisbe- Cephalus And
-Procris.](bulf02)
+Procris.](bulf02.md)

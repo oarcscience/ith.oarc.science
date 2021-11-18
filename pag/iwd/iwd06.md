@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd05) 
-[Next](iwd07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd05.md) 
+[Next](iwd07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Irish Witchcraft and Demonology*, by St. John D. Seymour, \[1913\], at
 Intangible Textual Heritage
 
@@ -483,7 +483,7 @@ Statute, section i.
 Many of the actors in the affair were persons of local prominence, and
 can be identified. The "Mr. Greatrix" was Valentine Greatrakes, the
 famous healer or "stroker," who also makes his appearance in the tale of
-the haunted butler (see [p. 164](iwd07.htm#page_164)). He was born in
+the haunted butler (see [p. 164](iwd07.htm#page_164).md). He was born in
 1629, and died in 1683, He joined the Parliamentary Army, and when it
 was disbanded in 1656, became a country magistrate. At the Restoration
 he was deprived of his offices, and then gave himself up to a life of
@@ -511,7 +511,7 @@ incurable. In modern times the
 
 cures have been reasonably attributed to animal magnetism. He was buried
 beside his father at Affane, co. Waterford. <span
-id="fr_32"></span>[1](#fn_32) Some of his contemporaries had a very poor
+id="fr_32"></span>[1](#fn_32.md) Some of his contemporaries had a very poor
 opinion of him; Increase Mather, writing in 1684, alludes contemptuously
 to "the late miracle-monger or Mirabilian stroaker in Ireland, Valentine
 Greatrix," whom he accuses of attempting to cure an ague by the use of
@@ -529,7 +529,7 @@ increase of £40. He was sworn in a freeman at
 <span id="page_130">p. 130</span>
 
 large in 1656, and appears to have been presented by the Grand Jury in
-1683 as a religious vagrant. <span id="fr_33"></span>[1](#fn_33)
+1683 as a religious vagrant. <span id="fr_33"></span>[1](#fn_33.md)
 
 Furthermore, it seems possible to recover the name of the judge who
 tried the case at the Cork Assizes. Glanvill says that he took the
@@ -542,7 +542,7 @@ of the Commonwealth came to Ireland, and was there practising as a
 barrister at the time of the Restoration, having previously served in
 the royalist army. On 3rd November 1660 he was appointed senior puisne
 judge of the Chief Place, and died in 1671. <span
-id="fr_34"></span>[2](#fn_34) The story accordingly is based on the
+id="fr_34"></span>[2](#fn_34.md) The story accordingly is based on the
 notes taken by the Judge before whom the case was brought, and is
 therefore of considerable
 
@@ -556,14 +556,14 @@ of the seventeenth century.
 
 ### Footnotes
 
-<span id="fn_32"></span>[129:1](iwd06.htm#fr_32) *Dict. Nat. Biog*.
+<span id="fn_32"></span>[129:1](iwd06.htm#fr_32.md) *Dict. Nat. Biog*.
 
-<span id="fn_33"></span>[130:1](iwd06.htm#fr_33) *Cork Hist. and Arch.
+<span id="fn_33"></span>[130:1](iwd06.htm#fr_33.md) *Cork Hist. and Arch.
 Journal*, vol. x. (2nd series).
 
-<span id="fn_34"></span>[130:2](iwd06.htm#fr_34) *Ibid*., vol. vii. (2nd
+<span id="fn_34"></span>[130:2](iwd06.htm#fr_34.md) *Ibid*., vol. vii. (2nd
 series).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. A.D. 1662-1686](iwd07)
+[Next: Chapter VI. A.D. 1662-1686](iwd07.md)

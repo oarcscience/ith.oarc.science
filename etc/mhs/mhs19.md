@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs18)  [Next](mhs20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs18)  [Next](mhs20.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ the breath, just as in India the horse-shoe is an emblem of the soul.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. The Horse-shoe As A Symbol On Tavern Sign-boards](mhs20)
+[Next: XVII. The Horse-shoe As A Symbol On Tavern Sign-boards](mhs20.md)

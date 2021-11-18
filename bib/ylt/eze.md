@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](lam)  [Next](dan) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](lam)  [Next](dan.md) 
 
 ------------------------------------------------------------------------
 
@@ -5382,4 +5382,4 @@ and the renown of the city \[is\] from the day Jehovah \[is\] there.'
 
 ------------------------------------------------------------------------
 
-[Next: Daniel](dan)
+[Next: Daniel](dan.md)

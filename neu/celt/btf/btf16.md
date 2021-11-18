@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf15)  [Next](btf17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf15)  [Next](btf17.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ William of the Tree
 
 ------------------------------------------------------------------------
 
-[Next: The Old Crow & The Young Crow](btf17)
+[Next: The Old Crow & The Young Crow](btf17.md)

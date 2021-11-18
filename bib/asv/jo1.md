@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](pe2)  [Next](jo2) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](pe2)  [Next](jo2.md) 
 
 ------------------------------------------------------------------------
 
@@ -385,4 +385,4 @@ from idols.
 
 ------------------------------------------------------------------------
 
-[Next: 2 John](jo2)
+[Next: 2 John](jo2.md)

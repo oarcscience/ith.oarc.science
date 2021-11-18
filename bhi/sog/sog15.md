@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Baha'i](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](sog14) 
-[Next](sog16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Baha'i](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](sog14.md) 
+[Next](sog16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Splendour of God*, by Eric Hammond, \[1909\], at Intangible Textual
 Heritage
 
@@ -147,7 +147,7 @@ controversy nor conflict.
 He who hath chosen an abode in this Meeting, or discovered a breeze from
 this Garden, knoweth what I say.
 
- <span id="fr_6"></span>[1](#fn_6)In all these journeys the traveller
+ <span id="fr_6"></span>[1](#fn_6.md)In all these journeys the traveller
 must not deviate . . . but must cling to the hem of obedience to the
 (Divine) Commandments, and lay firm hold of the rope of shunning things
 forbidden by the Law. . . .
@@ -282,12 +282,12 @@ which thou hast not known of the Stations of Sanctity."
 
 ### Footnotes
 
-<span id="fn_6"></span>[81:1](sog15.htm#fr_6) See Note at end.
+<span id="fn_6"></span>[81:1](sog15.htm#fr_6.md) See Note at end.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Tablet of Tarazet](sog16)
+[Next: Tablet of Tarazet](sog16.md)
 
 </div>

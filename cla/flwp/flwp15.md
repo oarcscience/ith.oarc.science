@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp14)  [Next](flwp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp14)  [Next](flwp16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -18,14 +18,14 @@ Taylor, \[1825\], at Intangible Textual Heritage
 #### Argument the Ninth.
 
 <span class="smallcaps">Every</span> thing which is corrupted, is
-corrupted by its own evil. <span id="fr_42"></span>[\*](#fn_42) For it
+corrupted by its own evil. <span id="fr_42"></span>[\*](#fn_42.md) For it
 is not corrupted by its
 
 <span id="page_50">p. 50</span>
 
 own proper good, or by that which is peculiar to it, and which is
 neither good nor evil, but of an intermediate nature. <span
-id="fr_43"></span>[\*](#fn_43) For every thing of this kind neither
+id="fr_43"></span>[\*](#fn_43.md) For every thing of this kind neither
 injures nor benefits, so that it neither corrupts nor preserves. If,
 therefore, the universe could be corrupted, it would be corrupted by its
 own evil. But Plato says \[in the Timæus\], that the world is a blessed
@@ -65,14 +65,14 @@ is impossible that it should be generated from nothing.
 
 ### Footnotes
 
-<span id="fn_42"></span>[49:\*](flwp15.htm#fr_42) This is asserted by
+<span id="fn_42"></span>[49:\*](flwp15.htm#fr_42.md) This is asserted by
 Plato, in the Tenth Book of the Republic, as follows, το ξυμφυτον αρα
 κακον εκαστον και η πονηρια εχαστον απολλυσιν.
 
-<span id="fn_43"></span>[50:\*](flwp15.htm#fr_43) For διαφορου here, it
+<span id="fn_43"></span>[50:\*](flwp15.htm#fr_43.md) For διαφορου here, it
 is necessary to read αδιαφορου. The version also of Mahotius has
 "*medium*."
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Tenth.](flwp16)
+[Next: Argument the Tenth.](flwp16.md)

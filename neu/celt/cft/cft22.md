@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cft21)  [Next](cft23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cft21)  [Next](cft23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Celtic Fairy Tales*, by Joseph Jacobs, \[1892\], at Intangible Textual
 Heritage
 
@@ -159,7 +159,7 @@ kitchen and said: "Well, my dear, are you for church today?"
 "I would go if I had a new dress to wear."
 
 <span id="img_17200"></span> ![“Trembling” at the Church
-Door](img/17200.jpg)  
+Door](img/17200.jpg.md)  
 “Trembling” at the Church Door
 
 <span id="page_173">p. 173</span>
@@ -440,4 +440,4 @@ they lived happily till the two died of old age.
 
 ------------------------------------------------------------------------
 
-[Next: Jack and his Master](cft23)
+[Next: Jack and his Master](cft23.md)

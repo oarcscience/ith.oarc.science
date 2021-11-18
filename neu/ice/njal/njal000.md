@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Next](njal001) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Next](njal001.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Sagas](../../index)  [Iceland](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: 1. Of Fiddle Mord](njal001)
+[Next: 1. Of Fiddle Mord](njal001.md)

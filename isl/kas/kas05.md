@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](kas04)  [Next](kas06) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](kas04)  [Next](kas06.md) 
 
 ------------------------------------------------------------------------
 
@@ -258,4 +258,4 @@ but is the dance less full of fun?
 
 ------------------------------------------------------------------------
 
-[Next: IV](kas06)
+[Next: IV](kas06.md)

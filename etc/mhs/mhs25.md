@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs24)  [Next](mhs26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs24)  [Next](mhs26.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Let us be as little as possible in hers.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Tyche, The Grecian Goddess Of Good Luck](mhs26)
+[Next: 1. Tyche, The Grecian Goddess Of Good Luck](mhs26.md)

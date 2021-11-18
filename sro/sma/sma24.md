@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma23)  [Next](sma25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma23)  [Next](sma25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="img_29200"></span> <span align="CENTER"> [![Philip le
 Bel.](tn/29200.jpg)  
-Click to enlarge](img/29200.jpg)  
+Click to enlarge](img/29200.jpg.md)  
 Philip le Bel.  
 </span>
 
@@ -143,7 +143,7 @@ entreating with tears to be spared the torture. Those examined at
 Carcassonne all deposed to the worship of the image; but some of them
 afterwards retracted that admission, and died maintaining the innocence
 of the order. Six Templars at Bigorre <span
-id="fr_96"></span>[\*](#fn_96) and seven at Cahors confessed; but
+id="fr_96"></span>[\*](#fn_96.md) and seven at Cahors confessed; but
 several of them afterwards retracted.
 
 Philip and his creatures were at this stage of their career, when the
@@ -169,7 +169,7 @@ charge of the knights, and the king and pope managed the property of the
 order in common.
 
 In the beginning of the year 1308, we are told <span
-id="fr_97"></span>[\*](#fn_97), the Master of the Templars, the
+id="fr_97"></span>[\*](#fn_97.md), the Master of the Templars, the
 preceptor of Cyprus, the visiter of France, and the great-priors of
 Aquitaine and Normandy, were brought before the pope at Chinon, where
 they voluntarily, and without the application of any torture, confessed
@@ -177,7 +177,7 @@ the truth of the enormities laid to the charge of the order. They
 abjured their errors, and the cardinals implored the king in their
 favour.
 
-M. Raynouard <span id="fr_98"></span>[†](#fn_98), we know not on what
+M. Raynouard <span id="fr_98"></span>[†](#fn_98.md), we know not on what
 authority, positively denies that the Master and his companions were
 ever brought before the pope. He says that, in the month of August
 following, they were on their way to Poitiers, in order to be examined
@@ -267,7 +267,7 @@ observe, was all this time at Poitiers: the prisoners were examined
 before the cardinals, and only those who had not retracted their former
 rack-extorted confessions were produced in the large concourse of
 nobles, clergy, and people assembled on this occasion <span
-id="fr_99"></span>[\*](#fn_99).
+id="fr_99"></span>[\*](#fn_99.md).
 
 Clement and Philip now arranged the convocation of an œcumenic council
 at Vienne, to pronounce the abolition of the order. The pope also
@@ -345,7 +345,7 @@ confessions, which were imputed to Molay, and which he evidently
 intimated to be false, were inserted in the bull *Faciens
 misericordiam*, which bears the date of the 12th August, although the
 festival of the Assumption, that is the 16th of August, is given as the
-day on which they were made <span id="fr_100"></span>[\*](#fn_100). It
+day on which they were made <span id="fr_100"></span>[\*](#fn_100.md). It
 was there declared that the heads of the order had confessed and been
 absolved; yet here we find the
 
@@ -482,7 +482,7 @@ general and ancient custom, and
 
 there was no other mode of reception. The act of accusation stated
 farther that the Templars stopped at no means of enriching the
-order <span id="fr_101"></span>[\*](#fn_101).
+order <span id="fr_101"></span>[\*](#fn_101.md).
 
 The Templars, in their reply, asserted that all these imputations were
 false, and that if any of them had confessed them, they had done so
@@ -713,7 +713,7 @@ labours without them, and continued the examination of witnesses till
 the 26th May, 1311.
 
 The whole number of persons examined before the
-[commission](errata.htm#22) amounted to 231, for the far greater part
+[commission](errata.htm#22.md) amounted to 231, for the far greater part
 serving-brethren. Of these about two-thirds acknowledged the truth of
 the principal charges against the order. The denial of Christ and
 spitting on the cross were very generally confessed, but many said they
@@ -813,27 +813,27 @@ who confessed."
 
 ### Footnotes
 
-<span id="fn_96"></span>[296:\*](sma24.htm#fr_96) In the church of the
+<span id="fn_96"></span>[296:\*](sma24.htm#fr_96.md) In the church of the
 romantic hamlet of Gavarnie, a few leagues from Barèges, on the road to
 Spain, in the heart of the Hautes Pyrénées, are shown twelve skulls,
 which are said to have been those of Templars who were beheaded in that
 place. The tradition is, .in all probability, incorrect; but the
 Templars had possessions in Bigorre.
 
-<span id="fn_97"></span>[297:\*](sma24.htm#fr_97) This is mentioned in a
+<span id="fn_97"></span>[297:\*](sma24.htm#fr_97.md) This is mentioned in a
 private letter from Clement to Philip, of the 30th December, 1308.
 
-<span id="fn_98"></span>[297:†](sma24.htm#fr_98) Monumens Historiques,
+<span id="fn_98"></span>[297:†](sma24.htm#fr_98.md) Monumens Historiques,
 &c. p. 46.
 
-<span id="fn_99"></span>[300:\*](sma24.htm#fr_99) Raynouard, p. 253.
+<span id="fn_99"></span>[300:\*](sma24.htm#fr_99.md) Raynouard, p. 253.
 
-<span id="fn_100"></span>[302:\*](sma24.htm#fr_100) Raynouard, 61. This
+<span id="fn_100"></span>[302:\*](sma24.htm#fr_100.md) Raynouard, 61. This
 circumstance was first remarked by Fleury, *Hist. Eccles.*, lib. xci.
-Yet it seems hardly credible [that](errata.htm#21) the pope and his
+Yet it seems hardly credible [that](errata.htm#21.md) the pope and his
 secretaries could have made so gross a mistake.
 
-<span id="fn_101"></span>[307:\*](sma24.htm#fr_101) All these crimes had
+<span id="fn_101"></span>[307:\*](sma24.htm#fr_101.md) All these crimes had
 been acknowledged by various members of the order. Yet what can be more
 improbable than the worship of the cat for instance? This charge, by the
 way, had already been made against the sect of the Cathari, who were
@@ -842,4 +842,4 @@ origin to the invention.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](sma25)
+[Next: Chapter XI](sma25.md)

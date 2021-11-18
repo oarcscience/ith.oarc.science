@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa65)  [Next](psa67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa65)  [Next](psa67.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ thence, and returned to the city of Dwarka.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXVI](psa67)
+[Next: Chapter LXVI](psa67.md)

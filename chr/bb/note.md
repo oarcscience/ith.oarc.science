@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ primarily with the manuscript sources. In the Introduction to the *Book
 of the Cave of Treasures*, Budge says that Solomon's object in writing
 the *Book of the Bee* was to present "a full history of the Christian
 Dispensation according to the Nestorians." ([p.
-27](../bct/bct03.htm#page_27)).
+27](../bct/bct03.htm#page_27).md).
 
 **Transcription standards and notes**: This edition was written
 primarily for philologists, and the printed version contains the entire
@@ -34,4 +34,4 @@ transcriptions of Semitic words.
 
 ------------------------------------------------------------------------
 
-[Return to index](index)
+[Return to index](index.md)

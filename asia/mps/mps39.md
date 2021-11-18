@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps38) 
-[Next](mps40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps38.md) 
+[Next](mps40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -217,7 +217,7 @@ showed nothing else. The lovely creature rendered thanks to God:
 <span class="margnote"><span id="1223">1223</span></span>He said to
 P’hatman: "Beloved, thou art worthy to be loved by me, thou hast let me
 hear a welcome story, not with louring looks; but let me hear more fully
-about Kadjet’hi <span id="fr_34"></span>[1](#fn_33); every Kadj is
+about Kadjet’hi <span id="fr_34"></span>[1](#fn_33.md); every Kadj is
 fleshless, how can it become human?
 
 <span class="margnote"><span id="1224">1224</span></span>"Pity for that
@@ -268,7 +268,7 @@ beasts and ran with them.
 
 <span class="margnote"><span id="1231">1231</span></span>Avt’handil
 secretly rains tears, they flow to mingle with the sea; in an inky eddy
-floats a jetty ship. <span id="fr_35"></span>[1](#fn_34) He
+floats a jetty ship. <span id="fr_35"></span>[1](#fn_34.md) He
 
 <span id="page_200">p. 200</span>
 
@@ -372,11 +372,11 @@ said: "To-morrow I shall give you full news of what you wish."
 
 ### Footnotes
 
-<span id="fn_33"></span>[198:1](mps39.htm#fr_34) The land of the Kadjis.
+<span id="fn_33"></span>[198:1](mps39.htm#fr_34.md) The land of the Kadjis.
 
-<span id="fn_34"></span>[199:1](mps39.htm#fr_35) The black pupil in his
+<span id="fn_34"></span>[199:1](mps39.htm#fr_35.md) The black pupil in his
 dark eye.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVII. Letter Written by P’hatman to Nestan-Daredjan](mps40)
+[Next: XXXVII. Letter Written by P’hatman to Nestan-Daredjan](mps40.md)

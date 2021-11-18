@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip69)  [Next](fip71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip69)  [Next](fip71.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ his dwelling-house, and they even went so far as to tell him as much.
 "What can you mane, Mr. M'Coul," said they, "by pitching your tent upon
 the top of Knockmany, where you never are without a breeze, day or
 night, winter or summer, and where you're often forced to take your
-nightcap <span id="fr_62"></span>[1](#fn_62) without either going to bed
+nightcap <span id="fr_62"></span>[1](#fn_62.md) without either going to bed
 or turning up your little finger; ay, an' where, besides this, there's
 the sorrow's own want of water?"
 
@@ -90,7 +90,7 @@ the sorrow's own want of water?"
 known to be fond of having a good prospect of my own; and where the
 dickens, neighbours, could I find a better spot for a good prospect than
 the top of Knockmany? As for water, I am sinking a pump, <span
-id="fr_63"></span>[2](#fn_63) and, plase goodness, as soon as the
+id="fr_63"></span>[2](#fn_63.md) and, plase goodness, as soon as the
 Causeway's made, I intend to finish it."
 
 Now, this was more of Fin's philosophy; for the real state of the case
@@ -547,14 +547,14 @@ bad.
 
 ### Footnotes
 
-<span id="fn_62"></span>[268:1](fip70.htm#fr_62) A common name for the
+<span id="fn_62"></span>[268:1](fip70.htm#fr_62.md) A common name for the
 cloud or rack that hangs, as a forerunner of wet weather, about the peak
 of a mountain.
 
-<span id="fn_63"></span>[268:2](fip70.htm#fr_63) There is upon the top
+<span id="fn_63"></span>[268:2](fip70.htm#fr_63.md) There is upon the top
 of this hill an opening that bears a very strong resemblance to the
 crater of an extinct volcano.
 
 ------------------------------------------------------------------------
 
-[Next: The Twelve Wild Geese, by Patrick Kennedy](fip71)
+[Next: The Twelve Wild Geese, by Patrick Kennedy](fip71.md)

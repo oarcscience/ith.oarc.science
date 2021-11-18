@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico046) 
-[Next](nico048) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico046.md) 
+[Next](nico048.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ amount before and after the transaction.
 ------------------------------------------------------------------------
 
 [Next: Chapter 5. Justice in exchange, reciprocity in accordance with
-proportion](nico048)
+proportion](nico048.md)

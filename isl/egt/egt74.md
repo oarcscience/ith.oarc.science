@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt73)  [Next](egt75) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt73)  [Next](egt75.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ abundance; the falling short is in our works.
 
 ------------------------------------------------------------------------
 
-[Next: ON HIS KINDNESS AND BOUNTY.](egt75)
+[Next: ON HIS KINDNESS AND BOUNTY.](egt75.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac24)  [Next](ybac26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac24)  [Next](ybac26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ little. After eating they wash their hands and mouth.
 ------------------------------------------------------------------------
 
 [Next: XXII. Painting and Tattooing of the Indians. Their Orgies, Wines
-and Banquets. Their Comedies, Music and Dances](ybac26)
+and Banquets. Their Comedies, Music and Dances](ybac26.md)

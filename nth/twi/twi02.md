@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](twi01)  [Next](twi03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](twi01)  [Next](twi03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Tune With the Infinite*, by Ralph Waldo Trine, \[1910\], at
 Intangible Textual Heritage
 
@@ -76,4 +76,4 @@ New York
 
 ------------------------------------------------------------------------
 
-[Next: Contents](twi03)
+[Next: Contents](twi03.md)

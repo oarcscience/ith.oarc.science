@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj02) 
-[Next](npj04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj02.md) 
+[Next](npj04.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,11 +40,11 @@ K *Gakuya*, served as actors' dressing-room and musicians' room.
 <span id="img_pl01"></span>
 
 ![Plan I: Theatre Set up in the River-Bed at Kyōto in
-1464](img/pl01.jpg)  
+1464](img/pl01.jpg.md)  
 Plan I: Theatre Set up in the River-Bed at Kyōto in 1464
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Plan II](npj04)
+[Next: Plan II](npj04.md)

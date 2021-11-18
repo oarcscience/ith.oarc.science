@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar173) [Next](gbar175)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar173) [Next](gbar175.md)
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ any defect, shall not generate any putrefaction.
 
 ------------------------------------------------------------------------
 
-[Next](gbar175)
+[Next](gbar175.md)

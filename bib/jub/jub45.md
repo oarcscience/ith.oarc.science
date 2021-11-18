@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub44) 
-[Next](jub46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub44.md) 
+[Next](jub46.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ Ishmaelites.
 
 ------------------------------------------------------------------------
 
-[Next: Abraham's Last Words to Isaac (xxi. 1-25)](jub46)
+[Next: Abraham's Last Words to Isaac (xxi. 1-25)](jub46.md)

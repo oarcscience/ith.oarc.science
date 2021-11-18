@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod26)  [Next](ebod28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod26)  [Next](ebod28.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ beauties when thou shinest (29) at eventide and goest to thy mother Nut.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXI.](ebod28)
+[Next: Plate XXI.](ebod28.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos14)  [Next](kos16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos14)  [Next](kos16.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,16 +67,16 @@ or if thou despiseth them, never shalt thou be able to arrive at thy
 proposed end; as, for example, we enter not easily into a fenced city
 over its walls but through its gates.
 
-### HOW <span id="fr_61"></span>[1](#fn_61) TO RENDER ONESELF INVISIBLE.
+### HOW <span id="fr_61"></span>[1](#fn_61.md) TO RENDER ONESELF INVISIBLE.
 
 Make a small image of yellow wax, in the form of a man, in the month
 January and in the day and hour of Saturn, and at that time write with a
 needle above the crown of its head and upon its skull which thou shalt
 have adroitly raised, the character following. (*See [Figure
-5](kos00.htm#img_kos01)*.) After which thou shalt replace the skull in
+5](kos00.htm#img_kos01)*..md) After which thou shalt replace the skull in
 proper position. Thou shalt then write upon a small strip of the skin of
 a frog or toad which thou shalt have killed, the following words and
-characters. (*See [Figure 6](kos25.htm#img_kos02)*.) Thou shalt then go
+characters. (*See [Figure 6](kos25.htm#img_kos02)*..md) Thou shalt then go
 and suspend the said figure by one of thy hairs from the vault of a
 cavern at the hour of midnight, and perfuming it with the proper incense
 thou shalt say:--
@@ -100,9 +100,9 @@ place and cover it with earth until thou shalt need it again.
 
 ### Footnotes
 
-<span id="fn_61"></span>[52:1](kos15.htm#fr_61) The rest of this Chapter
+<span id="fn_61"></span>[52:1](kos15.htm#fr_61.md) The rest of this Chapter
 is from 1203 Lansdowne MSS.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. To Hinder A Sportsman From Killing Any Game](kos16)
+[Next: Chapter XI. To Hinder A Sportsman From Killing Any Game](kos16.md)

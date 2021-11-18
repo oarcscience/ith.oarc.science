@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss27)  [Next](oss29) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss27)  [Next](oss29.md) 
 
 ------------------------------------------------------------------------
 
@@ -308,4 +308,4 @@ joy, and has heard the music of the spirits of the hill!"
 
 ------------------------------------------------------------------------
 
-[Next: Book VI](oss29)
+[Next: Book VI](oss29.md)

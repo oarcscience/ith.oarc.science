@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb13)  [Next](wfb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb13)  [Next](wfb15.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ had turned into from that day to his death.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Wife](wfb15)
+[Next: The Fairy Wife](wfb15.md)

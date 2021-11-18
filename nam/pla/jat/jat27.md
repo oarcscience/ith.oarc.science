@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat26)  [Next](jat28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat26)  [Next](jat28.md) 
 
 ------------------------------------------------------------------------
 
-### 25. THE MAN WHO TRAVELED WITH THE BUFFALO. <span id="fr_45"></span>[1](#fn_45)
+### 25. THE MAN WHO TRAVELED WITH THE BUFFALO. <span id="fr_45"></span>[1](#fn_45.md)
 
 At another time, they were on a war expedition going toward the enemy's
 country. It was very hot and they had now gone a long way without
@@ -64,13 +64,13 @@ and used them all. He gave them all to him.
 
 Then he said to him, "The Pecos River will be your chief; the Canadian
 River will be your chief; the Rio Grande will be your chief; the Chama
-River will be your chief." <span id="fr_46"></span>[1](#fn_46)
+River will be your chief." <span id="fr_46"></span>[1](#fn_46.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_45"></span>[221:1](jat27.htm#fr_45) A story probably
+<span id="fn_45"></span>[221:1](jat27.htm#fr_45.md) A story probably
 connected with this has been published by Dr. R. H. Lowie. The fight
 with the Buffalo chief which is so obscure here is entirely pertinent in
 the Assiniboine narrative, (c), p, 130. The narrator omitted the latter
@@ -80,11 +80,11 @@ killing the white buffalo. The infants when four days old are placed on
 a buffalo blanket during the ceremony which introduces them to the world
 and its powers. See p. 269.
 
-<span id="fn_46"></span>[223:1](jat27.htm#fr_46) These are the sacred
+<span id="fn_46"></span>[223:1](jat27.htm#fr_46.md) These are the sacred
 rivers of the Jicarilla. The Canadian and Rio Grande are male, "men,"
 the Pecos and Chama are female and are so pictured in the ceremonial dry
 paintings.
 
 ------------------------------------------------------------------------
 
-[Next: 26. Coyote Steals a Man's Wife](jat28)
+[Next: 26. Coyote Steals a Man's Wife](jat28.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw02) 
-[Next](ptw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw02.md) 
+[Next](ptw04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -177,7 +177,7 @@ divine wisdom.
 The Rosicrucians say, "A person who knows Divine truth has attained the
 highest and desires nothing more; for there can be nothing higher than
 the attainment of the truth. In comparison with this treasure,
-[worldly](errata.htm#0) possessions sink into insignificance: for he who
+[worldly](errata.htm#0.md) possessions sink into insignificance: for he who
 possesses the highest has no desire for that which is low; he who knows
 the reality does not care for illusions. Scientific and philosophical
 speculations in regard to what may possibly be true are useless to him
@@ -194,7 +194,7 @@ the latter, invisible to mortal eyes, independent of material
 conditions, an ethereal spirit surrounded by indescribable beauties, in
 possession of powers of whose existence mortal man does not dream—an
 ethereal spirit, but nevertheless a real and living man." ( <span
-id="fr_0"></span>[1](#fn_0).)
+id="fr_0"></span>[1](#fn_0)..md)
 
 And, again, the Rosicrucians say of him who has tasted of the living
 water of truth, the true "Elixir of Life":
@@ -203,7 +203,7 @@ water of truth, the true "Elixir of Life":
 who Cannot be touched by that which gives pain, who does not require
 another roof over his head than the sky, no other bed than the earth, no
 other nutriment than the air, and who is above all those wants for which
-mortals are craving." ( <span id="fr_1"></span>[2](#fn_1).)
+mortals are craving." ( <span id="fr_1"></span>[2](#fn_1)..md)
 
 "God humiliates the vain and exalts the humble. He punishes the proud
 with contempt; but to the modest He sends His angels with
@@ -212,13 +212,13 @@ with contempt; but to the modest He sends His angels with
 
 consolation. He throws the evil disposed into a wilderness; but to the
 kind-hearted He opens the portals of heaven." ( <span
-id="fr_2"></span>[3](#fn_2).)
+id="fr_2"></span>[3](#fn_2)..md)
 
 "Avoid the books of the Sophists; they are full of errors; for the
 foundation upon which their knowledge rests is their fancy. Enter the
 realm of the real, and divide with us the treasures which we possess. We
 invite you, not by our own choice, but by the power of the Divine Spirit
-whose servants we are." ( <span id="fr_3"></span>[4](#fn_3).)
+whose servants we are." ( <span id="fr_3"></span>[4](#fn_3)..md)
 
 "What does the animal know about intellectual pleasures? what does the
 Sophist know about the joys of the spirit? Would it not be a precious
@@ -229,7 +229,7 @@ secrets of Nature and to read that book in which is recorded everything
 that has happened in the past, or which will exist in the future? Would
 you not rejoice to possess the power to attract the highest instead of
 being attracted by that which is low, and to have pure spirits instead
-of animals assembling around you?" ( <span id="fr_4"></span>[5](#fn_4).)
+of animals assembling around you?" ( <span id="fr_4"></span>[5](#fn_4)..md)
 
 Are such powers attainable by man? It would be useless to attempt to
 prove it to those who have no desire to attain them; and even if it were
@@ -316,7 +316,7 @@ imperfections and become perfect in God."
 
 ### Footnotes
 
-<span id="fn_0"></span>[10:1](ptw03.htm#fr_0) It will readily be
+<span id="fn_0"></span>[10:1](ptw03.htm#fr_0.md) It will readily be
 perceived that all this refers to the "Inner Man," and not to his mortal
 physical frame. It is neither the physical body with its external
 senses, nor the perishing mind of man which can know divine truth. It is
@@ -329,7 +329,7 @@ but in his will; then his awakened spirit will penetrate even through
 the physical form and change its nature in the same sense as darkness is
 consumed by light.
 
-<span id="fn_1"></span>[10:2](ptw03.htm#fr_1) All this refers not to the
+<span id="fn_1"></span>[10:2](ptw03.htm#fr_1.md) All this refers not to the
 man of terrestrial flesh; but to him who has been regenerated in the
 life of the spirit. The elementary body of man is not above disease and
 death; nor above that which gives pain. That body requires to be
@@ -337,7 +337,7 @@ sheltered against the elements whereof it is made; and needs terrestrial
 food; but the man of the celestial kingdom is free. His home is as wide
 as his thoughts can reach, and his nutriment is the "Manna" from heaven.
 
-<span id="fn_2"></span>[11:3](ptw03.htm#fr_2) "God" (according to Jacob
+<span id="fn_2"></span>[11:3](ptw03.htm#fr_2.md) "God" (according to Jacob
 Boehme) is the will of divine wisdom. He who rises up in his
 self-conceit will fall; because he will be full of his delusive
 knowledge, and the will of the Eternal cannot awaken divine wisdom in
@@ -345,7 +345,7 @@ him. True humility does not consist in abject fear; but in the highest
 sense of dignity, such as can be felt only by him who feels that God is
 in and with him.
 
-<span id="fn_3"></span>[11:4](ptw03.htm#fr_3) The "sophists" are those
+<span id="fn_3"></span>[11:4](ptw03.htm#fr_3.md) The "sophists" are those
 sceptical inquirers who diligently examine the external shell of the
 fruit that grows upon the tree of knowledge; without knowing that there
 is a kernel within the fruit. They persuade themselves that there is no
@@ -354,7 +354,7 @@ of the spirit the light that shines from the interior fountain, are
 dreamers; while they themselves little know that their own life is
 merely a sleep and their fancied knowledge a dream.
 
-<span id="fn_4"></span>[11:5](ptw03.htm#fr_4) The spirit of man is not
+<span id="fn_4"></span>[11:5](ptw03.htm#fr_4.md) The spirit of man is not
 of this world; it belongs to eternity. There never was a time when the
 spirit of man was not; even since the beginning of creation; neither is
 its presence limited to this planet Earth. He who succeeds in merging
@@ -366,4 +366,4 @@ storehouse for the production of forms.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two. The Hermetic Philosophy](ptw04)
+[Next: Chapter Two. The Hermetic Philosophy](ptw04.md)

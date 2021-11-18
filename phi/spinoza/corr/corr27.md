@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr26)  [Next](corr28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr26)  [Next](corr28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER XXIX. (XII.)
 
-#### SPINOZA TO L. M. <span id="fr_43"></span>[1](#fn_42) (LEWIS MEYER).
+#### SPINOZA TO L. M. <span id="fr_43"></span>[1](#fn_42) (LEWIS MEYER.md).
 
 <span class="smallcaps">Dearest Friend</span>,—I have received two
 letters from you, one dated Jan. 11, delivered to me by our friend, N.
@@ -82,7 +82,7 @@ applicable to the existence of substance. that is, the infinite
 <span id="page_319">p. 319</span>
 
 faculty of existence or being (*infinitum existendi sive* (*invitâ
-Latinitate* <span id="fr_44"></span>[1](#fn_43)) *essendi fruitionem*).
+Latinitate* <span id="fr_44"></span>[1](#fn_43)) *essendi fruitionem*.md).
 From what has been said it is quite clear that, when, as is most often
 the case, we are regarding only the essence of modes and not the order
 of nature, we may freely limit the existence and duration of modes
@@ -136,7 +136,7 @@ cannot be conceived through the imagination but only through the
 understanding, for instance, substance, eternity, and the like; thus, if
 anyone tries to explain such things by means of conceptions which are
 mere aids to the imagination, he is simply assisting his imagination to
-run away with him. <span id="fr_45"></span>[1](#fn_44) Nor can even the
+run away with him. <span id="fr_45"></span>[1](#fn_44.md) Nor can even the
 modes of substance ever be rightly understood, if we confuse them with
 entities of the kind mentioned, mere aids of the reason or imagination.
 In so doing we separate them from substance, and the mode of their
@@ -251,19 +251,19 @@ Rhijnsburg, 20 April, 1663.
 
 ### Footnotes
 
-<span id="fn_42"></span>[317:1](corr27.htm#fr_43) See Introduction, pp.
+<span id="fn_42"></span>[317:1](corr27.htm#fr_43.md) See Introduction, pp.
 xv, xx.
 
-<span id="fn_43"></span>[319:1](corr27.htm#fr_44) Spinoza apologizes
+<span id="fn_43"></span>[319:1](corr27.htm#fr_44.md) Spinoza apologizes
 here in the original for the use of the unclassical form "essendi,"
 being. The classical Latin verb of being is, as the ancients themselves
 admitted, defective in a most inconvenient degree.
 
-<span id="fn_44"></span>[320:1](corr27.htm#fr_45) "Nihilo plus agit,
+<span id="fn_44"></span>[320:1](corr27.htm#fr_45.md) "Nihilo plus agit,
 quam si det operam ut sua imaginatione insafiat." Mr. Pollock
 paraphrases, "It is like applying the intellectual tests of sanity and
 insanity to acts of pure imagination."
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXIX.A. To Lewis Meyer](corr28)
+[Next: Letter XXIX.A. To Lewis Meyer](corr28.md)

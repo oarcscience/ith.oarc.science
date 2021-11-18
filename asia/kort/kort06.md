@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort05)  [Next](kort07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort05)  [Next](kort07.md) 
 
 ------------------------------------------------------------------------
 
-# 2. Big-Raven and the Mice. <span id="fr_11"></span>[1](#fn_11)
+# 2. Big-Raven and the Mice. <span id="fr_11"></span>[1](#fn_11.md)
 
 Some Mouse-Girls walked along the seashore. The youngest Mouse also
 wanted to follow. Her mother said, "Tie her (and leave her) on the
@@ -37,7 +37,7 @@ artisan. He said to another small girl, "Louse me!"--"I have pricked
 myself with my mother's needle." One might think she were the daughter
 of some seamstress. "O Hairless-One! louse me." She said, "Eh, all
 right!" She loused him. (He said,) "Oh, say (these words):
-'Grandfather's lice taste of fat!'" <span id="fr_12"></span>[1](#fn_12)
+'Grandfather's lice taste of fat!'" <span id="fr_12"></span>[1](#fn_12.md)
 
 Then he shook his head, and the small mice were scattered in all
 directions. Some fell into the sea, some into the coast-slime, others
@@ -52,7 +52,7 @@ sea."--"Then you were cold."--"And where did you fall ?"--"I fell on the
 small pebbles."--"Then you were pricked."--"And where did you fall?"--"I
 fell into the coast-slime."--"Then you were cold."--"And you,
 Hairless-One, where did you fall?"--"I fell on the moss <span
-id="fr_13"></span>[1](#fn_13) spread by mother."--"Then you fell easy."
+id="fr_13"></span>[1](#fn_13.md) spread by mother."--"Then you fell easy."
 
 They said, "Let us go home!" They went home and told their mother, "See,
 mamma! we have found a small ringed seal, but grandfather took it
@@ -145,16 +145,16 @@ jumped down into the water. That is all.
 
 ### Footnotes
 
-<span id="fn_11"></span>[23:1](kort06.htm#fr_11) See Jochelson, The
+<span id="fn_11"></span>[23:1](kort06.htm#fr_11.md) See Jochelson, The
 Koryak, *l. c.*, No. 88, p. 260.
 
-<span id="fn_12"></span>[25:1](kort06.htm#fr_12) It seems that the
+<span id="fn_12"></span>[25:1](kort06.htm#fr_12.md) It seems that the
 Hairless Mouse-Girl, according to the custom of many native tribes of
 this country, was killing the lice with her teeth.
 
-<span id="fn_13"></span>[26:1](kort06.htm#fr_13) Used as a child's
+<span id="fn_13"></span>[26:1](kort06.htm#fr_13.md) Used as a child's
 diaper. See W. Jochelson, The Koryak, *l. c.*, p. 252.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Mouse-Girls](kort07)
+[Next: 3. The Mouse-Girls](kort07.md)

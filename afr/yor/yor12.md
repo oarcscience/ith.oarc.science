@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor11)  [Next](yor13) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor11)  [Next](yor13.md) 
 
 ------------------------------------------------------------------------
 
@@ -1133,4 +1133,4 @@ greediness wakes him stay behind, to get more yams.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Conclusions.](yor13)
+[Next: Chapter XV: Conclusions.](yor13.md)

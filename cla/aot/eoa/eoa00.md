@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Next](eoa01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Next](eoa01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../laot/img/tease.jpg)](index)  
+[![](../laot/img/tease.jpg)](index.md)  
 *The Epistles of Apollonius of Tyana*, by Apollonius, tr. F.C.
 Conybeare, \[1912\], at Intangible Textual Heritage
 
@@ -35,4 +35,4 @@ it was published prior to 1922.
 
 ------------------------------------------------------------------------
 
-[Next: Text](eoa01)
+[Next: Text](eoa01.md)

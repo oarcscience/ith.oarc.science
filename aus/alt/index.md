@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](alt00)    [Text
-\[Zipped\]](alt.txt.gz)
+[Contents](#contents)    [Start Reading](alt00.md)    [Text
+\[Zipped\]](alt.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Australians as human.
 
 This was the first book Parker wrote. She write four books, three of
 native folklore and one an [ethnography of the Eulayhi
-tribe](../tet/index). This was also one of the first texts added to
+tribe](../tet/index.md). This was also one of the first texts added to
 sacred-texts after it was launched to add coverage of traditional
 cultures. This was also the first text donated by sacred-texts to
 Project Gutenberg.
@@ -65,41 +65,41 @@ song).--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](alt00)  
-[Contents](alt01)  
-[Preface](alt02)  
-[Introduction](alt03)  
-[Dinewan the Emu, and Goomblegubbon the Bustard](alt04)  
-[The Galah, and Oolah the Lizard](alt05)  
-[Bahloo the Moon and the Daens](alt06)  
-[The Origin of the Narran Lake](alt07)  
-[Gooloo the Magpie, and the Wahroogah](alt08)  
-[The Weeoonibeens and the Piggiebillah](alt09)  
+<span id="contents"></span> [Title Page](alt00.md)  
+[Contents](alt01.md)  
+[Preface](alt02.md)  
+[Introduction](alt03.md)  
+[Dinewan the Emu, and Goomblegubbon the Bustard](alt04.md)  
+[The Galah, and Oolah the Lizard](alt05.md)  
+[Bahloo the Moon and the Daens](alt06.md)  
+[The Origin of the Narran Lake](alt07.md)  
+[Gooloo the Magpie, and the Wahroogah](alt08.md)  
+[The Weeoonibeens and the Piggiebillah](alt09.md)  
 [Bootoolgah the Crane and Goonur the Kangaroo Rat, the Fire
-Makers](alt10)  
-[Weedah the Mocking Bird](alt11)  
-[The Gwineeboos the Redbreasts](alt12)  
-[Meamei the Seven Sisters](alt13)  
-[The Cookooburrahs and the Goolahgool](alt14)  
-[The Mayamah](alt15)  
-[The Bunbundoolooeys](alt16)  
-[Oongnairwah and Guinarey](alt17)  
-[Narahdarn the Bat](alt18)  
-[Mullyangah the Morning Star](alt19)  
-[Goomblegubbon, Beeargah, and Ouyan](alt20)  
-[Mooregoo the Mopoke, and Bahloo the Moon](alt21)  
-[Ouyan the Curlew](alt22)  
-[Dinewan the Emu, and Wahn the Crows](alt23)  
-[Goolahwilleel the Topknot Pigeons](alt24)  
-[Goonur, the Woman-Doctor](alt25)  
-[Deereeree the Wagtail, and the Rainbow](alt26)  
-[Mooregoo the Mopoke, and Mooninguggahgul the Mosquito Bird](alt27)  
-[Bougoodoogahdah the Rain Bird](alt28)  
-[The Borah of Byamee](alt29)  
-[Bunnyyarl the Flies and Wurrunnunnah the Bees](alt30)  
-[Deegeenboyah the Soldier-bird](alt31)  
-[Mayrah, the Wind that Blows the Winter Away](alt32)  
-[Wayarnbeh the Turtle](alt33)  
-[Wirreenun the Rainmaker](alt34)  
-[Appendix](alt35)  
-[Glossary](alt36)  
+Makers](alt10.md)  
+[Weedah the Mocking Bird](alt11.md)  
+[The Gwineeboos the Redbreasts](alt12.md)  
+[Meamei the Seven Sisters](alt13.md)  
+[The Cookooburrahs and the Goolahgool](alt14.md)  
+[The Mayamah](alt15.md)  
+[The Bunbundoolooeys](alt16.md)  
+[Oongnairwah and Guinarey](alt17.md)  
+[Narahdarn the Bat](alt18.md)  
+[Mullyangah the Morning Star](alt19.md)  
+[Goomblegubbon, Beeargah, and Ouyan](alt20.md)  
+[Mooregoo the Mopoke, and Bahloo the Moon](alt21.md)  
+[Ouyan the Curlew](alt22.md)  
+[Dinewan the Emu, and Wahn the Crows](alt23.md)  
+[Goolahwilleel the Topknot Pigeons](alt24.md)  
+[Goonur, the Woman-Doctor](alt25.md)  
+[Deereeree the Wagtail, and the Rainbow](alt26.md)  
+[Mooregoo the Mopoke, and Mooninguggahgul the Mosquito Bird](alt27.md)  
+[Bougoodoogahdah the Rain Bird](alt28.md)  
+[The Borah of Byamee](alt29.md)  
+[Bunnyyarl the Flies and Wurrunnunnah the Bees](alt30.md)  
+[Deegeenboyah the Soldier-bird](alt31.md)  
+[Mayrah, the Wind that Blows the Winter Away](alt32.md)  
+[Wayarnbeh the Turtle](alt33.md)  
+[Wirreenun the Rainmaker](alt34.md)  
+[Appendix](alt35.md)  
+[Glossary](alt36.md)  

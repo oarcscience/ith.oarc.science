@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb40)  [Next](ptb42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb40)  [Next](ptb42.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 IN every annual revolution made by the Sun, the first new Moon of the
 year is to be considered as the point of the commencement of his
 circuit; this is evident not only from its denomination, but from its
-virtue also. <span id="fr_109"></span>[1](#fn_109)
+virtue also. <span id="fr_109"></span>[1](#fn_109.md)
 
 The case stands thus: In the ecliptic, which, as circle, has in fact no
 actual or definite beginning, the two equinoctial and the two tropical
@@ -57,9 +57,9 @@ these general effects are usually brought about by the new or full Moon
 which takes place at the aforesaid points, and by the configurations
 then existing between the luminaries and the planets: but there are
 certain particular consequences which result from the new and full Moon
-in every sign, <span id="fr_110"></span>[1](ptb42.htm#fn_110) and from
+in every sign, <span id="fr_110"></span>[1](ptb42.htm#fn_110.md) and from
 the transits of the planets; "and which require monthly
-investigation." <span id="fr_111"></span>[2](ptb42.htm#fn_111)
+investigation." <span id="fr_111"></span>[2](ptb42.htm#fn_111.md)
 
 It therefore becomes necessary to explain, in the first instance, the
 particular natures and attributes exercised by each sign in influencing
@@ -74,7 +74,7 @@ the winds and the seasons, have been already set forth.
 
 ### Footnotes
 
-<span id="fn_109"></span>[63:1](ptb41.htm#fr_109) The Neomenia, or new
+<span id="fn_109"></span>[63:1](ptb41.htm#fr_109.md) The Neomenia, or new
 Moon, was observed as a festival with much solemnity in earlier ages and
 by the most ancient nations. It was celebrated by the Israelites, as
 well as by Pagan; and it may perhaps be gathered from the 5th and 6th
@@ -86,4 +86,4 @@ other words, at the new Moon nearest to the vernal equinox.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. The Particular Natures of the Signs by Which the
-Different Constitutions of the Atmosphere are Produced](ptb42)
+Different Constitutions of the Atmosphere are Produced](ptb42.md)

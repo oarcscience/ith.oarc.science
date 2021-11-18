@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc22)  [Next](fotc24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc22)  [Next](fotc24.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -67,4 +67,4 @@ Strathnaver, and died within six months thereafter, the same year of God
 
 ------------------------------------------------------------------------
 
-[Next: The Conflicts of Allt-Gamhna and Leckmelm](fotc24)
+[Next: The Conflicts of Allt-Gamhna and Leckmelm](fotc24.md)

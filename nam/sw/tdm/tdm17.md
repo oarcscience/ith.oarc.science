@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm16)  [Next](tdm18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm16)  [Next](tdm18.md) 
 
 ------------------------------------------------------------------------
 
@@ -569,7 +569,7 @@ shoulders hangs a quiver; a flint knife depends from the belt. This man
 is no village Indian, notwithstanding that dark paint on his body. It is
 one of the hereditary foes of the sedentary aborigines,--a Navajo!
 
-He is [eyeing](errata.htm#6) the dead body suspiciously. If it is surely
+He is [eyeing](errata.htm#6.md) the dead body suspiciously. If it is surely
 dead the second arrow may be saved. Those glassy eyes; that sallow face;
 and the fold, the ghastly fold that runs on both sides of the mouth, of
 that mouth filled with blood now clotting,--they show that life is gone.
@@ -769,4 +769,4 @@ homeward with their gory but precious burden.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](tdm18)
+[Next: Chapter XVI](tdm18.md)

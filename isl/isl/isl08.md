@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl07)  [Next](isl09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl07)  [Next](isl09.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,7 +270,7 @@ or God appoints for them a way.
 And when two of you commit indecency,  
 punish them both; but if they repent  
 and make amends, then suffer them to be;  
-God turns, and is All-compassionate. <span id="fr_4"></span>[5](#fn_4)
+God turns, and is All-compassionate. <span id="fr_4"></span>[5](#fn_4.md)
 (4:15-16)
 
 O believers, draw not near to prayer  
@@ -289,7 +289,7 @@ and wipe your faces and your hands; God is
   All-pardoning, All-forgiving. (4:43)
 
 This is the recompense of those who fight  
-against God and His Messenger, <span id="fr_5"></span>[6](#fn_5) and
+against God and His Messenger, <span id="fr_5"></span>[6](#fn_5.md) and
 hasten  
 about the earth, to do corruption there:  
 they shall be slaughtered, or crucified,  
@@ -363,13 +363,13 @@ With repeated magnificats. (17:110-111)
 
 ### Footnotes
 
-<span id="fn_4"></span>[51:5](isl08.htm#fr_4) These verses are usually
+<span id="fn_4"></span>[51:5](isl08.htm#fr_4.md) These verses are usually
 held to apply to female and male deviates.
 
-<span id="fn_5"></span>[51:6](isl08.htm#fr_5) In later times, this has
+<span id="fn_5"></span>[51:6](isl08.htm#fr_5.md) In later times, this has
 been held to apply to heretics and social revolutionaries, as well as to
 brigands.
 
 ------------------------------------------------------------------------
 
-[Next: 5. He Rewards and Punishes](isl09)
+[Next: 5. He Rewards and Punishes](isl09.md)

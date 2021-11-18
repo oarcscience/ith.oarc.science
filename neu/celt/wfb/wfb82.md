@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb81)  [Next](wfb83) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb81)  [Next](wfb83.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Owen, the Lake of Owen's Flag.
 
 ------------------------------------------------------------------------
 
-[Next: A Ghostly Rehersal](wfb83)
+[Next: A Ghostly Rehersal](wfb83.md)

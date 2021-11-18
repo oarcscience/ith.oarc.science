@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index)  [Index](index) 
-[Previous](rom14)  [Next](rom16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index)  [Index](index.md) 
+[Previous](rom14)  [Next](rom16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -882,4 +882,4 @@ man be free of the whole.
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Ways and Means of Improving the Condition of Europe
-Interspersed With Miscellaneous Observations](rom16)
+Interspersed With Miscellaneous Observations](rom16.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft31)  [Next](pft33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft31)  [Next](pft33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,13 +14,13 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE TATTOOED MEN  <span id="fr_108"></span>[109](pft68.htm#fn_108)
+### THE TATTOOED MEN  <span id="fr_108"></span>[109](pft68.htm#fn_108.md)
 
 *Igorot*
 
 Once there were two young men, very good friends, who were unhappy
 because neither of them had been tattooed.  <span
-id="fr_109"></span>[110](pft68.htm#fn_109) They felt that they were not
+id="fr_109"></span>[110](pft68.htm#fn_109.md) They felt that they were not
 as beautiful as their friends.
 
 One day they agreed to tattoo each other. One marked the breast and back
@@ -43,8 +43,8 @@ very angry and cried:
 They began to fight, but suddenly the beautifully tattooed one became a
 great lizard which ran away and hid in the tall grass, while the sooty
 one became a crow and flew away over the village.  <span
-id="fr_110"></span>[111](pft68.htm#fn_110)
+id="fr_110"></span>[111](pft68.htm#fn_110.md)
 
 ------------------------------------------------------------------------
 
-[Next: Tilin, The Rice Bird](pft33)
+[Next: Tilin, The Rice Bird](pft33.md)

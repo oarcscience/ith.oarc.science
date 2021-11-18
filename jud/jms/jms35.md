@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms34)  [Next](jms36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms34)  [Next](jms36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -190,7 +190,7 @@ er erscheinen den engel in weiss, so ist den der maister fro . . . so
 fragt er dan so lang bis er sicht puchstaben. die selben puchstaben
 sambent dan der maister and macht daruss wort, so lang bis er hat
 darnach er gefragt hat." Grimm, III, 428, 431-2; cf.
-[also](errata.htm#4) Güd. III, 530-5. It might almost seem from these
+[also](errata.htm#4.md) Güd. III, 530-5. It might almost seem from these
 selections that one is a copy of the other, or that both are derived
 from a common source. It is probable, however, that they are independent
 accounts of a rite whose details were fixed and unvarying. The versions
@@ -286,4 +286,4 @@ Ages*, 377; *MGWJ*, X (1861), 264-5; Zunz, *Zur Geschichte*, 573 f.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](jms36)
+[Next: Chapter XV](jms36.md)

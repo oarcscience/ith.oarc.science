@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv12)  [Next](rsv14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv12)  [Next](rsv14.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,10 +18,10 @@ Heritage
 
 The HOA HAO is an indigenous Vietnamese religion founded in 1939 by
 HUYEN PHU SO. It is a Vietnamese development of
-[Theravada](errata.htm#22) Buddhism which emphasizes reforming and
+[Theravada](errata.htm#22.md) Buddhism which emphasizes reforming and
 simplifying Buddhist doctrine and practice, and has a history of
 religious, political, and military organization and activity.
-[Theravada](errata.htm#23) Buddhism is that form of Buddhism prevalent
+[Theravada](errata.htm#23.md) Buddhism is that form of Buddhism prevalent
 in Cambodia, Laos, Thailand, Burma, and Ceylon, in contrast to the
 Mahayana Buddhism of Japan, Korea, China, and the major Buddhist group
 of South Vietnam. The current membership of the HOA HAO in Vietnam is
@@ -142,7 +142,7 @@ away the evil spirits who might be lurking nearby.
 
 The natural consequence of such concepts taught by SO was a de-emphasis
 of pagodas and other elaborate structures as well as increased value
-given to rituals, symbols, and the [Songha](errata.htm#24), which is the
+given to rituals, symbols, and the [Songha](errata.htm#24.md), which is the
 Buddhist order of monks. SO violently attacked the Vietnamese custom of
 elaborate and often expensive funerals also. This funeral custom has
 been brought from Tibet and China by the Chinese and absorbed into
@@ -336,7 +336,7 @@ adherents are "forceful" in maintaining their practices.
 
 [![Approximate HOA HAO Population Percent Provinces of
 Vietnam](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
   
 
 Provinces of Vietnam Approximate HOA HAO Population Percent according to
@@ -397,4 +397,4 @@ XLIV \#5, April 30, 1964
 
 ------------------------------------------------------------------------
 
-[Next: A. Scenes Of Vietnamese Life](rsv14)
+[Next: A. Scenes Of Vietnamese Life](rsv14.md)

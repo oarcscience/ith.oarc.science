@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ch2)  [Next](neh) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ch2)  [Next](neh.md) 
 
 ------------------------------------------------------------------------
 
@@ -1005,4 +1005,4 @@ su ih otpustili, žene i djecu.
 
 ------------------------------------------------------------------------
 
-[Next: Nehemiah](neh)
+[Next: Nehemiah](neh.md)

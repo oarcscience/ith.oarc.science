@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](rwy04)  [Next](rwy06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](rwy04)  [Next](rwy06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Relax With Yoga*, by Arthur Liebers, \[1960\], at Intangible Textual
 Heritage
 
@@ -28,7 +28,7 @@ concerned with their physical than their mental states.
 
 Breath control is an essential first step in obtaining a state of
 relaxation. If you can, assume the Padmasana or Lotus Pose (page
-[35](rwy06.htm#page_35)) or place yourself in a comfortable sitting
+[35](rwy06.htm#page_35).md) or place yourself in a comfortable sitting
 position. Taken directly from the ancient Sanskrit texts, the *Hatha
 Yoga Pradipika* of Swatmaram Swami, published in 1893, provides a
 specific guide for relaxation through breathing exercises.
@@ -204,4 +204,4 @@ person's will, though, it should be noted, never against it.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Corrective Poses of Yoga](rwy06)
+[Next: 5. Corrective Poses of Yoga](rwy06.md)

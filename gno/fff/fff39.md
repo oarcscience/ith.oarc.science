@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff38)  [Next](fff40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff38)  [Next](fff40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -59,7 +59,7 @@ Philumēnē seems to have enjoyed certain psychic faculties, and also to
 have been a "medium" for physical phenomena, as a modern spiritist would
 say. She belonged to the class of holy women or "virgins," who were
 numerous enough in the early Church, though it is exceedingly doubtful
-whether any of them were trained [seeresses](errata.htm#30), except in
+whether any of them were trained [seeresses](errata.htm#30.md), except in
 the most advanced Gnostic circles.
 
 There is an entertaining account of Philumēnē in a curious fragment of
@@ -97,4 +97,4 @@ truth of theological doctrines.
 
 ------------------------------------------------------------------------
 
-[Next: The Basilidian Gnosis](fff40)
+[Next: The Basilidian Gnosis](fff40.md)

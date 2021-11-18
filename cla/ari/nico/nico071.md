@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico070) 
-[Next](nico072) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico070.md) 
+[Next](nico072.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ we say with a qualification 'incontinent in respect of anger' as we say
 ------------------------------------------------------------------------
 
 [Next: Chapter 5. Incontinence in its extended sense includes a brutish
-and a morbid form](nico072)
+and a morbid form](nico072.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml10)  [Next](tml12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml10)  [Next](tml12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -153,7 +153,7 @@ exceeding great reward.
 
 <span id="img_05600"></span> <span align="CENTER"> [![FREYJA&lt;br&gt;
 From the painting by N. J. O. Blommér](tn/05600.jpg)  
-Click to enlarge](img/05600.jpg)  
+Click to enlarge](img/05600.jpg.md)  
 FREYJA  
 From the painting by N. J. O. Blommér  
 </span>
@@ -231,7 +231,7 @@ made vows
 <span id="img_05800"></span> <span align="CENTER"> [![IDUN AND THE
 APPLES&lt;br&gt; &lt;i&gt;From the painting by J. Doyle Penrose, R.H.A.
 By permission of the artist&lt;/i&gt;](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 IDUN AND THE APPLES  
 *From the painting by J. Doyle Penrose, R.H.A. By permission of the
 artist*  
@@ -399,4 +399,4 @@ war in Asgard and in Midgard ere her power would be overcome.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Lost Sword of Victory](tml12)
+[Next: Chapter VII. The Lost Sword of Victory](tml12.md)

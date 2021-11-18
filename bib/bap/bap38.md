@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap37) 
-[Next](bap39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap37.md) 
+[Next](bap39.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ ministered in Silo.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII](bap39)
+[Next: Chapter XXIII](bap39.md)

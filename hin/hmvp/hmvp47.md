@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp46)  [Next](hmvp48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp46)  [Next](hmvp48.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ disease. The meaning of the word is "She who makes cold."
 
 <span id="img_47300"></span> <span align="CENTER">
 [![SHITALA.](tn/47300.jpg)  
-Click to enlarge](img/47300.jpg)  
+Click to enlarge](img/47300.jpg.md)  
 SHITALA.  
 </span>
 
@@ -49,7 +49,7 @@ image of Shitala, bathed in, and given to drink, water that has been
 offered to her. Beggars go about with a stone, partly gilded, which they
 teach is sacred to Shitala, and, in seasons when the disease is
 prevalent, receive presents from the superstitious. <span
-id="fr_442"></span>[\*](#fn_442)
+id="fr_442"></span>[\*](#fn_442.md)
 
 ##### 2. MANASĀ.
 
@@ -74,7 +74,7 @@ too. His widow, however, escaped, and went weeping to her mother-in-law,
 
 <span id="img_47500"></span> <span align="CENTER">
 [![MANASĀ.](tn/47500.jpg)  
-Click to enlarge](img/47500.jpg)  
+Click to enlarge](img/47500.jpg.md)  
 MANASĀ.  
 </span>
 
@@ -88,7 +88,7 @@ hostile to her. At last he so far yielded to
 their wishes as to throw a single flower with his left hand towards her
 image, which so delighted her that she restored his sons to life, and
 from that time, as men came to know of her power, her worship has become
-celebrated. <span id="fr_443"></span>[\*](#fn_443)
+celebrated. <span id="fr_443"></span>[\*](#fn_443.md)
 
 The Mahābhārata gives the following particulars regarding her marriage.
 Jagatakāru, her husband, was an eminent sage, who had practised great
@@ -121,7 +121,7 @@ arms, riding upon a cat; hence no Hindu woman would under
 
 <span id="img_47700"></span> <span align="CENTER">
 [![SASTI.](tn/47700.jpg)  
-Click to enlarge](img/47700.jpg)  
+Click to enlarge](img/47700.jpg.md)  
 SASTI.  
 </span>
 
@@ -137,7 +137,7 @@ weeks old, the mother presents offerings to her. The ordinary
 representative of Sastī is a stone about the size of a man's head,
 placed under a Banyan tree, which is decorated with flowers, and
 offerings of rice, fruit, etc., are made to it. <span
-id="fr_444"></span>[\*](#fn_444)
+id="fr_444"></span>[\*](#fn_444.md)
 
 ##### 4. THE SHĀLGRĀMA.
 
@@ -172,7 +172,7 @@ became a worm named Vajrakīta, and afflicted him for twelve years. At
 the expiration of that time Vishnu resumed his proper shape, and ordered
 that henceforth the stones of this mountain (Gandakī) should be
 worshipped as representatives of himself. <span
-id="fr_445"></span>[\*](#fn_445)
+id="fr_445"></span>[\*](#fn_445.md)
 
 The Brāhmans usually worship Vishnu in this form in their daily *puja*
 at home. In the hot season a vessel is suspended over it, and the water
@@ -180,7 +180,7 @@ continually dropping on it keeps it cool; another vessel is placed under
 it to catch the water, which is drunk in the evening by the worshipper.
 The marks of it are shown to men when dying, in the belief that the
 concentration of the mind on them at this time will ensure the soul a
-safe passage to Vishnu's heaven. <span id="fr_446"></span>[†](#fn_446)
+safe passage to Vishnu's heaven. <span id="fr_446"></span>[†](#fn_446.md)
 
 ##### 5. THE DHENKĪ.
 
@@ -228,7 +228,7 @@ Prajāpati
 <span id="page_481">p. 481</span>
 
 marriage, occurs under the monstrous title of Kāya." <span
-id="fr_447"></span>[\*](#fn_447) In the Mahābhārata Ka is identified
+id="fr_447"></span>[\*](#fn_447.md) In the Mahābhārata Ka is identified
 with Daksha, and in the "Bhāgavata Purāna" it is applied to Kasyapa,
 probably on account of their similarity to Prajāpati.
 
@@ -236,7 +236,7 @@ probably on account of their similarity to Prajāpati.
 
 <span id="img_48100"></span> <span align="CENTER"> [![THE
 NIM.](tn/48100.jpg)  
-Click to enlarge](img/48100.jpg)  
+Click to enlarge](img/48100.jpg.md)  
 THE NIM.  
 </span>
 
@@ -246,21 +246,21 @@ THE NIM.
 
 ### Footnotes
 
-<span id="fn_442"></span>[474:\*](hmvp47.htm#fr_442) Ward, ii. 139.
+<span id="fn_442"></span>[474:\*](hmvp47.htm#fr_442.md) Ward, ii. 139.
 
-<span id="fn_443"></span>[476:\*](hmvp47.htm#fr_443) Ward, ii. 142.
+<span id="fn_443"></span>[476:\*](hmvp47.htm#fr_443.md) Ward, ii. 142.
 
-<span id="fn_444"></span>[478:\*](hmvp47.htm#fr_444) Ward, ii. 143.
+<span id="fn_444"></span>[478:\*](hmvp47.htm#fr_444.md) Ward, ii. 143.
 
-<span id="fn_445"></span>[479:\*](hmvp47.htm#fr_445) For another account
+<span id="fn_445"></span>[479:\*](hmvp47.htm#fr_445.md) For another account
 of the origin of the worship of the Shālgrāma, see the account of Tulsi,
 chap. ix.
 
-<span id="fn_446"></span>[479:†](hmvp47.htm#fr_446) Ward, ii. 221.
+<span id="fn_446"></span>[479:†](hmvp47.htm#fr_446.md) Ward, ii. 221.
 
-<span id="fn_447"></span>[481:\*](hmvp47.htm#fr_447) Max-Müller, quoted
+<span id="fn_447"></span>[481:\*](hmvp47.htm#fr_447.md) Max-Müller, quoted
 in Dowson's Classical Dictionary, *s.v.* "Ka?"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Superhuman, Though Not Divine Beings](hmvp48)
+[Next: Chapter XI. Superhuman, Though Not Divine Beings](hmvp48.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](isa)  [Next](lam) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](isa)  [Next](lam.md) 
 
 ------------------------------------------------------------------------
 
@@ -5528,4 +5528,4 @@ vua Ba-by-lôn ban đồ cần dùng hằng ngày cho mãi mãi, trọn đờai 
 
 ------------------------------------------------------------------------
 
-[Next: Lamentations](lam)
+[Next: Lamentations](lam.md)

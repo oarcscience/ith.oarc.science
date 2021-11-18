@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfl06)  [Next](wfl08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfl06)  [Next](wfl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -294,4 +294,4 @@ Quarterly,' i., 45.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Fairy Rings](wfl08)
+[Next: Chapter VIII: Fairy Rings](wfl08.md)

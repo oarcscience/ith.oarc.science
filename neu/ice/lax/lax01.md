@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax00)  [Next](lax02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax00)  [Next](lax02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Thorstein, father of Surt, the father of Sighvat the Speaker-at-Law.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Ketill and his Sons prepare to leave Norway](lax02)
+[Next: Chapter II: Ketill and his Sons prepare to leave Norway](lax02.md)

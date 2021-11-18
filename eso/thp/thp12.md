@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](thp11) 
-[Next](thp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](thp11.md) 
+[Next](thp13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ others to do the same.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Yourself](thp13)
+[Next: XI. Yourself](thp13.md)

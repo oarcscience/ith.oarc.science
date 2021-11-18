@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram10)  [Next](ram12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram10)  [Next](ram12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -147,7 +147,7 @@ describe uniformly as "false prophets." They were men who sought office
 not because they had a message for men, but because they could calculate
 on the ignorance and credulity of the people for gain. To such prophets
 it is said: "Will ye pollute Me among My people for handfuls of barley
-and pieces of bread?" <span id="fr_143"></span>[\*](#fn_143) Not content
+and pieces of bread?" <span id="fr_143"></span>[\*](#fn_143.md) Not content
 with such imposition as false prophecy, as understood in their own day,
 they fell back on older superstitions, and appealed to lingering beliefs
 which had long passed away. They revived the primitive doctrines
@@ -160,7 +160,7 @@ the primeval jungle, they professed to catch and retain souls. "Woe to
 the women that sew pillows to all armholes, and make kerchiefs upon the
 head of every stature to hunt souls. Will ye hunt the souls of My
 people, and will ye save the souls alive that come unto you?" <span
-id="fr_144"></span>[\*](#fn_144) Compare this with the following account
+id="fr_144"></span>[\*](#fn_144.md) Compare this with the following account
 of a common custom in the South Seas; "Two young wizards were passing a
 house where a chief lay very sick; they saw a company of gods from the
 mountains sitting in the doorway. They were handing from one to another
@@ -175,7 +175,7 @@ sitting on the shore as the women passed, and they said to the women;
 house. He was very ill; his jaw hung down and his end seemed very near.
 But the wizards undid the leaf, and let the soul into him again, and
 forthwith he brightened up again and lived." <span
-id="fr_145"></span>[†](#fn_145)
+id="fr_145"></span>[†](#fn_145.md)
 
 The false Hebrew prophets thus carry us back to a practice which existed
 in early days—for wizards could steal as well as restore—when souls were
@@ -191,11 +191,11 @@ during the world's progress.
 Every prophet claims to hold converse with the world of spirits, and to
 act in discharge of his sacred functions only in obedience to the will
 of the gods. Does he carry the soul of a sick person back to the
-invalid's bedside? <span id="fr_146"></span>[\*](#fn_146) It is because
+invalid's bedside? <span id="fr_146"></span>[\*](#fn_146.md) It is because
 the gods reveal to him that the sick is to recover. Does he offer
 sacrifice for rain? He does it to appease the wrath of the offended
 ancestors, or because they are hungry and are crying out for food. <span
-id="fr_147"></span>[†](#fn_147) When he, by his arts, secures places and
+id="fr_147"></span>[†](#fn_147.md) When he, by his arts, secures places and
 persons against the thunderbolt, after being struck by lightning, he
 assuages the anger of the gods, who have visited their children with
 affliction because of some neglect of filial duty. Should the prophet be
@@ -212,7 +212,7 @@ detected when considering the subject of witchcraft. Other criminals are
 <span id="page_153">p. 153</span>
 
 discovered by means of a magic horn. <span
-id="fr_148"></span>[\*](#fn_148) This may be the horn of a domestic
+id="fr_148"></span>[\*](#fn_148.md) This may be the horn of a domestic
 sheep or that of an antelope, and the prophet, by looking into it and
 examining its contents, can discover a thief or murderer. By the same
 means he is supposed to know the whereabouts of the stolen property, if
@@ -250,11 +250,11 @@ by exposing her posterior to the skies.
 In time of war the prophet has to perform rites to ensure victory. Among
 the Waganda, when the case is urgent, a child is flayed and placed on
 the path, and the warriors made to step over it, <span
-id="fr_149"></span>[\*](#fn_149) or a child and a fowl are placed on a
+id="fr_149"></span>[\*](#fn_149.md) or a child and a fowl are placed on a
 grating over a pot with water in it. Another pot, inverted, is used as a
 cover, and a fire kindled to heat the water. After a given time the
 contents are examined, and if found dead the war must be delayed as the
-omen is against the expedition. <span id="fr_150"></span>[†](#fn_150)
+omen is against the expedition. <span id="fr_150"></span>[†](#fn_150.md)
 
 But the prophet's services are not confined to the living; they extend
 to the dead. In Akra when a young person dies the body is placed on a
@@ -272,7 +272,7 @@ continues: "Was it caused by your bad actions?" Corpse answers
 <span class="contnote">\[paragraph continues\]</span> "No" by remaining
 perfectly still. "By whose witch was it caused, so and so, or so and
 so?" naming the head men of the district. <span
-id="fr_151"></span>[\*](#fn_151) When the right name is mentioned the
+id="fr_151"></span>[\*](#fn_151.md) When the right name is mentioned the
 dead impels the bearers forward. It is the duty of the head man
 indicated, or rather his magicians, to discover the culprit by the
 approved methods.
@@ -300,7 +300,7 @@ soul, but only to find they have been outwitted and betrayed.
 
 <span class="contnote">\[paragraph continues\]</span> Meantime the
 corpse has been quietly and expeditiously buried without beat of drum or
-sound of horn. <span id="fr_152"></span>[\*](#fn_152) By using such
+sound of horn. <span id="fr_152"></span>[\*](#fn_152.md) By using such
 precautions the prophets outwit the devil, and do an important service
 to the dead and the ancestral spirits, who wait the arrival of their
 brother spirit with much anxiety.
@@ -313,7 +313,7 @@ earth, a small breathing aperture being left. A spear is passed down
 this hole, which she holds in her hand; if at the end of the second day
 she is alive and holds the spear, she is taken out and allowed to live.
 If her fingers are too nerveless to grasp the spear, no farther ceremony
-is needed; she is buried already. <span id="fr_153"></span>[†](#fn_153)
+is needed; she is buried already. <span id="fr_153"></span>[†](#fn_153.md)
 
 The Congo natives keep the bodies of their chiefs for years, wrapping
 them in successive layers of cloth till the mass is so heavy as to be
@@ -324,7 +324,7 @@ buried; a fact which proves that the Waganda do not wish royal
 personages to be restricted in the matter of apparel in ghostland.
 
 When King Eyambo (Congo) died, the prophets ordered thirty of his wives
-to be burned the first day, <span id="fr_154"></span>[‡](#fn_154) and
+to be burned the first day, <span id="fr_154"></span>[‡](#fn_154.md) and
 before the funeral rites were over several
 
 <span id="page_157">p. 157</span>
@@ -343,13 +343,13 @@ the better—for the regency is theirs, and the younger the king the
 longer will be their term of office. The elder sons are kept in
 confinement till the heir is of age, and then burned, except two or
 three reserved with the view of keeping up the succession should the
-young king die without issue. <span id="fr_155"></span>[\*](#fn_155)
+young king die without issue. <span id="fr_155"></span>[\*](#fn_155.md)
 This, though in theory an excellent system to prevent disputes, was apt
 to lead to awkward consequences for the three who held the regency. A
 son, when his father fell sick, might retire to another tribe, and,
 returning suddenly seize supreme power and send the regents to join
 their late master. This was done by the Batetwa chief Dingiswayo, <span
-id="fr_156"></span>[†](#fn_156) who fled to the Cape Colony, to return
+id="fr_156"></span>[†](#fn_156.md) who fled to the Cape Colony, to return
 in a few years to claim his rights with direst results to his rival's
 patrons.
 
@@ -367,7 +367,7 @@ from oaths of allegiance to one who might be a fugitive. Thus the
 Bulloms have an institution binding its members to keep the sacred
 mysteries secret for ever, and to yield prompt and unquestioning
 obedience to the superior of the order; <span
-id="fr_157"></span>[\*](#fn_157) rules which raise a doubt as to whether
+id="fr_157"></span>[\*](#fn_157.md) rules which raise a doubt as to whether
 Loyola's conceptions were marked with that degree of originality which
 is generally attributed to them. New members are admitted after a long
 novitiate, during which the most severe tests are put upon their loyalty
@@ -396,14 +396,14 @@ was not full, causes intolerable pains which can only be relieved by the
 priestess. If pains follow, she proceeds to discover the concealed crime
 by means of divination. The penitent is then charged with it, and asked
 to plead. If she deny the crime, she is sold; if she refuse to plead,
-she is poisoned. <span id="fr_158"></span>[\*](#fn_158)
+she is poisoned. <span id="fr_158"></span>[\*](#fn_158.md)
 
 These guilds exist wherever religion has developed into a system. The
 chief priest assumes functions to himself which belong to royalty, and
 so reduces the kingly office to a shadow. This is the case with the Egbo
-of Calabar, <span id="fr_159"></span>[†](#fn_159) the Lubare of
-Uganda, <span id="fr_160"></span>[‡](#fn_160) and the Moro of the
-Waneka. <span id="fr_161"></span>[§](#fn_161) The same abnormal
+of Calabar, <span id="fr_159"></span>[†](#fn_159.md) the Lubare of
+Uganda, <span id="fr_160"></span>[‡](#fn_160.md) and the Moro of the
+Waneka. <span id="fr_161"></span>[§](#fn_161.md) The same abnormal
 development of the power of the priestly office took place in Europe
 during the Middle Ages. The temptation and danger of all religious
 systems is to claim power and authority over men's lives and actions
@@ -483,14 +483,14 @@ forwards. If it moves easily, and begins to glide without friction, the
 oracle is favourable; if not, the undertaking proposed cannot prosper.
 Or an oily fluid from the bengeye-tree is given to a hen. If the bird
 dies there will be misfortune; if not, success. <span
-id="fr_162"></span>[\*](#fn_162) Another method, which the same observer
+id="fr_162"></span>[\*](#fn_162.md) Another method, which the same observer
 records, is to dip a cock again and again in water till it is senseless.
 It is then left in the sun, and should it revive the augury is
 favourable. By such means men determine war and peace, as well as the
 guilt or innocence of accused persons.
 
 The Bullom tribes determine the future by "casting the sand." <span
-id="fr_163"></span>[†](#fn_163) This may be to discover if a sick person
+id="fr_163"></span>[†](#fn_163.md) This may be to discover if a sick person
 is to recover or not. The diviner takes a goatskin on which he carefully
 spreads a layer of fine dry sand; he then shuts his eyes, and with the
 three first fingers of his right hand makes lines and dots in the sand.
@@ -501,13 +501,13 @@ According to the position of these, the
 patient will live or die. The same result may be obtained by taking a
 number of palm nuts, and arranging them in groups with the eyes closed.
 Gallas divine from the appearance of the entrails of slaughtered
-animals, <span id="fr_164"></span>[\*](#fn_164) while almost every
+animals, <span id="fr_164"></span>[\*](#fn_164.md) while almost every
 action a Basuto or Baralong performs is determined by the fall of dice.
 So it happens, that when a man goes to commit a crime, he lays aside his
 fetish, and does not consult the oracle, as he could not in that case
 obtain a favourable response. He covers his god with a cloth, that he
 may not know what the worshipper is doing. <span
-id="fr_165"></span>[†](#fn_165) The Wayao determine the future by a
+id="fr_165"></span>[†](#fn_165.md) The Wayao determine the future by a
 flour cone. When a man has determined on an undertaking, as a journey,
 his magician takes a quantity of flour, and lets it fall in a steady
 stream at the head of his bed. If it forms a perfect cone as it falls,
@@ -519,7 +519,7 @@ offering the customary sacrifice. But if there has been a falling down
 of the flour, even a small slip, it is a sign not to be disregarded. An
 equally effective method is to pour out beer on the ground, which if it
 sinks at one spot is a good omen, but if it runs along the ground,
-bad. <span id="fr_166"></span>[‡](#fn_166) Three bits of stick may be
+bad. <span id="fr_166"></span>[‡](#fn_166.md) Three bits of stick may be
 laid on the ground, two parallel and one across. If found, after an
 interval of some hours, in position as left, the oracle has granted the
 worshipper's prayer.
@@ -590,7 +590,7 @@ share the martyr's fate. A powerful king, weary of the inanities taught
 and practised by his college of magicians; weary too of the endless
 sacrifices and the ever-deepening stream of human blood; blood it may
 be, as in the case of a king of Ashantee, in which to float the royal
-canoe, <span id="fr_167"></span>[\*](#fn_167) throws the protection of
+canoe, <span id="fr_167"></span>[\*](#fn_167.md) throws the protection of
 his strong arm over the reformer, as the king of Babylon did to Daniel,
 and so encourages the movement. Or, it may be, the reformer, finding the
 current too strong, retires to a lonely place where he lives a life of
@@ -770,62 +770,62 @@ nature as these could be seen in his immediate locality.
 
 ### Footnotes
 
-<span id="fn_143"></span>[150:\*](ram11.htm#fr_143) Ezek. xiii. 19.
+<span id="fn_143"></span>[150:\*](ram11.htm#fr_143.md) Ezek. xiii. 19.
 
-<span id="fn_144"></span>[151:\*](ram11.htm#fr_144) Ezek. xiii.
+<span id="fn_144"></span>[151:\*](ram11.htm#fr_144.md) Ezek. xiii.
 
-<span id="fn_145"></span>[151:†](ram11.htm#fr_145) J. G. Frazer, quoting
+<span id="fn_145"></span>[151:†](ram11.htm#fr_145.md) J. G. Frazer, quoting
 G. Turner: *Samoa*.
 
-<span id="fn_146"></span>[152:\*](ram11.htm#fr_146) Gill: *Myths and
+<span id="fn_146"></span>[152:\*](ram11.htm#fr_146.md) Gill: *Myths and
 Songs of the South Pacific*.
 
-<span id="fn_147"></span>[152:†](ram11.htm#fr_147) Hon. C. Brownlee, MS.
+<span id="fn_147"></span>[152:†](ram11.htm#fr_147.md) Hon. C. Brownlee, MS.
 Notes.
 
-<span id="fn_148"></span>[153:\*](ram11.htm#fr_148) Speke.
+<span id="fn_148"></span>[153:\*](ram11.htm#fr_148.md) Speke.
 
-<span id="fn_149"></span>[154:\*](ram11.htm#fr_149) Speke.
+<span id="fn_149"></span>[154:\*](ram11.htm#fr_149.md) Speke.
 
-<span id="fn_150"></span>[154:†](ram11.htm#fr_150) *Ibid*.
+<span id="fn_150"></span>[154:†](ram11.htm#fr_150.md) *Ibid*.
 
-<span id="fn_151"></span>[155:\*](ram11.htm#fr_151) Winterbotham.
+<span id="fn_151"></span>[155:\*](ram11.htm#fr_151.md) Winterbotham.
 
-<span id="fn_152"></span>[156:\*](ram11.htm#fr_152) Dr. Elmslie, MS.
+<span id="fn_152"></span>[156:\*](ram11.htm#fr_152.md) Dr. Elmslie, MS.
 notes.
 
-<span id="fn_153"></span>[156:†](ram11.htm#fr_153) J. Thomson, *Through
+<span id="fn_153"></span>[156:†](ram11.htm#fr_153.md) J. Thomson, *Through
 Masai Land*.
 
-<span id="fn_154"></span>[156:‡](ram11.htm#fr_154) Waddell.
+<span id="fn_154"></span>[156:‡](ram11.htm#fr_154.md) Waddell.
 
-<span id="fn_155"></span>[157:\*](ram11.htm#fr_155) Wilson.
+<span id="fn_155"></span>[157:\*](ram11.htm#fr_155.md) Wilson.
 
-<span id="fn_156"></span>[157:†](ram11.htm#fr_156) G. M. Theal, *Boers
+<span id="fn_156"></span>[157:†](ram11.htm#fr_156.md) G. M. Theal, *Boers
 and Bantu*.
 
-<span id="fn_157"></span>[158:\*](ram11.htm#fr_157) Winterbotham.
+<span id="fn_157"></span>[158:\*](ram11.htm#fr_157.md) Winterbotham.
 
-<span id="fn_158"></span>[159:\*](ram11.htm#fr_158) Winterbotham.
+<span id="fn_158"></span>[159:\*](ram11.htm#fr_158.md) Winterbotham.
 
-<span id="fn_159"></span>[159:†](ram11.htm#fr_159) Waddell.
+<span id="fn_159"></span>[159:†](ram11.htm#fr_159.md) Waddell.
 
-<span id="fn_160"></span>[159:‡](ram11.htm#fr_160) Mackay.
+<span id="fn_160"></span>[159:‡](ram11.htm#fr_160.md) Mackay.
 
-<span id="fn_161"></span>[159:§](ram11.htm#fr_161) New.
+<span id="fn_161"></span>[159:§](ram11.htm#fr_161.md) New.
 
-<span id="fn_162"></span>[162:\*](ram11.htm#fr_162) Schweinfurth.
+<span id="fn_162"></span>[162:\*](ram11.htm#fr_162.md) Schweinfurth.
 
-<span id="fn_163"></span>[162:†](ram11.htm#fr_163) Winterbotham.
+<span id="fn_163"></span>[162:†](ram11.htm#fr_163.md) Winterbotham.
 
-<span id="fn_164"></span>[163:\*](ram11.htm#fr_164) Krapf.
+<span id="fn_164"></span>[163:\*](ram11.htm#fr_164.md) Krapf.
 
-<span id="fn_165"></span>[163:†](ram11.htm#fr_165) Tucker.
+<span id="fn_165"></span>[163:†](ram11.htm#fr_165.md) Tucker.
 
-<span id="fn_166"></span>[163:‡](ram11.htm#fr_166) Duff Macdonald.
+<span id="fn_166"></span>[163:‡](ram11.htm#fr_166.md) Duff Macdonald.
 
-<span id="fn_167"></span>[166:\*](ram11.htm#fr_167) Kühne.
+<span id="fn_167"></span>[166:\*](ram11.htm#fr_167.md) Kühne.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Social Usages](ram12)
+[Next: Chapter X. Social Usages](ram12.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](eja02)  [Next](geo01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](eja02)  [Next](geo01.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ believed in Islam, and the truth is that God knows the truth.
 
 ------------------------------------------------------------------------
 
-[Next: Khâlid ben Sinân Al-\`Absi](geo01)
+[Next: Khâlid ben Sinân Al-\`Absi](geo01.md)

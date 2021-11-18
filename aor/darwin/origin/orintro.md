@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index)  [Next](or01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index)  [Next](or01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGUD04/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGUD04/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Origin of Species*, by Charles Darwin, 6th ed. \[1872\], at Intangible
 Textual Heritage
 
@@ -174,4 +174,4 @@ the exclusive, means of modification.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Variation Under Domestication](or01)
+[Next: Chapter I: Variation Under Domestication](or01.md)

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft03)  [Next](meft05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft03)  [Next](meft05.md) 
 
 ------------------------------------------------------------------------
 
 # The Golden Ball
 
 <span id="img_003"></span> [![](tn/003.jpg)  
-Click to enlarge](img/003.jpg)
+Click to enlarge](img/003.jpg.md)
 
 THERE were two lasses, daughters of one mother, and as they came from
 the fair, they saw a right bonny young man stand at the house-door
@@ -121,4 +121,4 @@ And he took her home, and they lived happy ever after.
 
 ------------------------------------------------------------------------
 
-[Next: My Own Self](meft05)
+[Next: My Own Self](meft05.md)

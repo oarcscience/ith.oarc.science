@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos09)  [Next](dos11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos09)  [Next](dos11.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ of silver on a floor
 of lapis-lazuli. And he said to himself: Is this merely an illusion, or
 rather, is not this wood well named, being in very truth the matted hair
 of the great god, with these trees for hairs, and this water for the
-Ganges that wanders among them <span id="fr_64"></span>[n](#fn_64), and
+Ganges that wanders among them <span id="fr_64"></span>[n](#fn_64.md), and
 yonder moon the very ornament of the moon-crested god? But this water
 goes on rising, and I must ascend higher into the tree.
 
@@ -29,7 +29,7 @@ higher and higher, until at last he could see nothing but the water, and
 the moon, and the tree that stretched away above him into the sky. And
 as he went, he said to himself: Up I must go, for there is no other
 resource: and now, unless like the husband of Shrí <span
-id="fr_65"></span>[o](#fn_65). I could save myself on the back of a
+id="fr_65"></span>[o](#fn_65.md). I could save myself on the back of a
 tortoise from this very sea of water, I must surely be destroyed. For
 unless this extraordinary tree has no top, I must presently reach
 
@@ -145,15 +145,15 @@ the hill.
 
 ### Footnotes
 
-<span id="fn_64"></span>[63:n](dos10.htm#fr_64) The Ganges fell from
+<span id="fn_64"></span>[63:n](dos10.htm#fr_64.md) The Ganges fell from
 heaven, and Shiwa caught it on his head, where it wandered in his hair
 for a thousand years before it could find its way down. A legend which
 doubtless has reference to the vast plateaux of the Himálaya and Tibet.
 
-<span id="fn_65"></span>[63:o](dos10.htm#fr_65) He compares himself to
+<span id="fn_65"></span>[63:o](dos10.htm#fr_65.md) He compares himself to
 the husband of the other Shrí, i.e. the Goddess of Beauty, or Wishnu,
 whose second incarnation was that of a tortoise.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Land of the Lotus](dos11)
+[Next: VIII. The Land of the Lotus](dos11.md)

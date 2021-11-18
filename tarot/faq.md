@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index) [Tarot](index)
+[Intangible Textual Heritage](../index) [Tarot](index.md)
 
 ------------------------------------------------------------------------
 
@@ -9,42 +9,42 @@
 ------------------------------------------------------------------------
 
 ![](../new2.gif) [View high-resolution side-by-side images of selected
-cards from the first Tarot deck and the US Games deck](tcc/index).
+cards from the first Tarot deck and the US Games deck](tcc/index.md).
 
 ------------------------------------------------------------------------
 
-[About this FAQ](#about)  
-[Introduction](#intro)  
-[Q. What is the Rider-Waite-Smith Tarot Deck?](#whatis)  
-[Q. Who created the RWS Tarot deck?](#whocreated)  
+[About this FAQ](#about.md)  
+[Introduction](#intro.md)  
+[Q. What is the Rider-Waite-Smith Tarot Deck?](#whatis.md)  
+[Q. Who created the RWS Tarot deck?](#whocreated.md)  
 [Q. What is the publication data for the *Pictorial Key to the
-Tarot*?](#pktdata)  
+Tarot*?](#pktdata.md)  
 [Q. What is the US copyright status of a work published in
-1909?](#US1909)  
+1909?](#US1909.md)  
 [Q. What is the US copyright status of the RWS and the
-PKT?](#uscopyright)  
+PKT?](#uscopyright.md)  
 [Q. What is the EU or UK copyright status of a work published in
-1909?](#EU1909)  
+1909?](#EU1909.md)  
 [Q. What is the EU or UK copyright status of the RWS and
-PKT?](#EUUKcopyright)  
+PKT?](#EUUKcopyright.md)  
 [Q. Many works are in the public domain in the United States but not in
 the EU or UK. That hardly seems fair. Aren't there international laws
 that allow owners of copyrights to enforce their copyright
-worldwide?](#USEUdiscrep)  
-[Q. Does GATT apply to the RWS Tarot or the PTK?](#RWSGatt)  
-[Q. How are copyright laws enforced?](#enforcement)  
+worldwide?](#USEUdiscrep.md)  
+[Q. Does GATT apply to the RWS Tarot or the PTK?](#RWSGatt.md)  
+[Q. How are copyright laws enforced?](#enforcement.md)  
 [Q. What is the basis of US Games' claim of ownership of the RWS
-rights?](#usgamesclaim)  
+rights?](#usgamesclaim.md)  
 [Q. My US Games deck says "Copyright 1971". What does this refer to, if
-the deck was published in 1909?](#usgames1971cnote)  
+the deck was published in 1909?](#usgames1971cnote.md)  
 [Q. US Games claims that they also have a trademark on the RWS Tarot.
-What is this about?](#usgamestm)  
+What is this about?](#usgamestm.md)  
 [Q. I've heard that Pamela Coleman Smith wasn't paid for her work, and
-that invalidates all successive copyright claims.](#smithworkforhire)  
+that invalidates all successive copyright claims.](#smithworkforhire.md)  
 [Q. Can a mechanical reproduction of a public domain artwork be
-copyrighted?](#copyright2Dart)  
+copyrighted?](#copyright2Dart.md)  
 [Q. So, if sacred-texts uses these images, can I use these images at my
-website?](#caniuseRWS)  
+website?](#caniuseRWS.md)  
 
 ------------------------------------------------------------------------
 
@@ -69,16 +69,16 @@ I welcome any corrections, suggestions, or anecdotes which might shed
 more light on this situation.
 
 My principal reference for this has been [The Public
-Domain](https://www.amazon.com/exec/obidos/ASIN/0873374339/internetsacredte),
+Domain](https://www.amazon.com/exec/obidos/ASIN/0873374339/internetsacredte.md),
 by Stephen Fishman (Nolo Press, 2000, ISBN 0-87337-433-9), the [US
-Copyright Office website](https://lcweb.loc.gov/copyright/), and
+Copyright Office website](https://lcweb.loc.gov/copyright/.md), and
 personal correspondence from various parties. If you are interested in a
 look at the evolution of the RWS Tarot, I highly recommend the following
-website: [Holly's Rider Waite Site](https://home.comcast.net/~vilex/).
+website: [Holly's Rider Waite Site](https://home.comcast.net/~vilex/.md).
 Holly has also provided images of a 1910 Tarot deck to sacred-texts. I'd
 also like to thank Dr. Scott Swanson, who was of great assistance in
 preparing this FAQ. Visit his site at
-[www.rider-tarot.com](https://www.rider-tarot.com).
+[www.rider-tarot.com](https://www.rider-tarot.com.md).
 
 ------------------------------------------------------------------------
 
@@ -154,14 +154,14 @@ RWS instead.
 ------------------------------------------------------------------------
 
 <span id="pktdata">Q. What is the publication data for the</span>
-[*Pictorial Key to the Tarot*](pkt/index)?
+[*Pictorial Key to the Tarot*](pkt/index.md)?
 
 A. The Pictorial Key to the Tarot (PKT) was published in 1911 in London
 by Rider and Sons. This contains black and white line drawings of the
 RWS Tarot deck. An earlier version of the same book (which didn't have
 the black and white illustrations, but which was bundled with a RWS
 deck) titled 'The Key to the Tarot', was published in 1910. Thanks to
-[Holly](https://home.comcast.net/~vilex/) for pointing this out.
+[Holly](https://home.comcast.net/~vilex/.md) for pointing this out.
 
 ------------------------------------------------------------------------
 
@@ -580,7 +580,7 @@ claims.</span>
 
 A. This is apparently not true. According to [an interview with Mr.
 Kaplan of US
-Games](https://www.lightworks.com/MonthlyAspectarian/1999/June/699-02),
+Games](https://www.lightworks.com/MonthlyAspectarian/1999/June/699-02.md),
 "Pamela Colman Smith sent \[a letter to\] Alfred Stieglitz in 1909 or
 1910 telling him that she had just done a big job of 78 illustrations
 for very little money. That was the Rider-Waite Tarot deck."

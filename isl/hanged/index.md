@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Islam](../index)
+[Sacred-Texts](../../index) [Islam](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ versions}</span>
 
 |                                                  |
 |--------------------------------------------------|
-| [Introduction](hanged0)                          |
-| [The Poem of Imru-ul-Quais (530 A.D.?)](hanged1) |
-| [The Poem of Antar (580 A.D.?)](hanged2)         |
-| [The Poem of Zuhair (590 A.D.?)](hanged3)        |
+| [Introduction](hanged0.md)                          |
+| [The Poem of Imru-ul-Quais (530 A.D.?)](hanged1.md) |
+| [The Poem of Antar (580 A.D.?)](hanged2.md)         |
+| [The Poem of Zuhair (590 A.D.?)](hanged3.md)        |

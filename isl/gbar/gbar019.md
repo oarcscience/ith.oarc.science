@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar018) [Next](gbar020)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar018) [Next](gbar020.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ God through Jesus had wrought in him.
 
 ------------------------------------------------------------------------
 
-[Next](gbar020)
+[Next](gbar020.md)
 
  
 

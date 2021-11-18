@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst040)  [Next](inst042) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst040)  [Next](inst042.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,12 +124,12 @@ impurities by be sprinkling themselves with water or blood? In short,
 the whole legal worship (if considered by itself apart from the types
 and shadows of corresponding truth) is a mere mockery. Wherefore, both
 in Stephen’s address (<span id="iv.ii.viii-p21.1"></span>[Acts
-7:44](../../../bib/kjv/act007.htm#044)<span
+7:44](../../../bib/kjv/act007.htm#044.md)<span
 id="iv.ii.viii-p21.1"></span>), and in the Epistle to the Hebrews, great
 weight is justly given to the passage in which God says to Moses, “Look
 that thou make them after the pattern which was showed thee in the
 mount,” (<span id="iv.ii.viii-p21.2"></span>[Exod.
-25:40](../../../bib/kjv/exo025.htm#040)<span
+25:40](../../../bib/kjv/exo025.htm#040.md)<span
 id="iv.ii.viii-p21.2"></span>). Had there not been some spiritual end to
 which they were directed, the Jews, in the observance of them, would
 have deluded themselves as much as the Gentiles in their vanities.
@@ -154,7 +154,7 @@ infer, that the law was not a stranger to Christ. Moses declared the end
 of the adoption of the Israelites to be, that they should be “a kingdom
 of priests, and an holy nation,” (<span
 id="iv.ii.viii-p21.3"></span>[Exod.
-19:6](../../../bib/kjv/exo019.htm#006)<span
+19:6](../../../bib/kjv/exo019.htm#006.md)<span
 id="iv.ii.viii-p21.3"></span>). This they could not attain, without a
 greater and more excellent atonement than the blood of beasts. For what
 could be less in accordance with reason, than that the sons of Adams
@@ -168,7 +168,7 @@ the words of Moses, teaching that the fulness of grace, of which the
 Jews had a foretaste under the Law, is exhibited in Christ, “Ye are a
 chosen generation, a royal priesthood,” (<span
 id="iv.ii.viii-p21.4"></span>[1 Pet.
-2:9](../../../bib/kjv/pe1002.htm#009)<span
+2:9](../../../bib/kjv/pe1002.htm#009.md)<span
 id="iv.ii.viii-p21.4"></span>). The transposition of the words intimates
 that those to whom Christ has appeared in the Gospel, have obtained more
 than their fathers, inasmuch as they are all endued with priestly and
@@ -186,8 +186,8 @@ defiled with corruption, be either kings or priests. Hence appears the
 perfect truth of Paul’s statement, “The law was our schoolmaster to
 bring us unto Christ,” “till the seed should come to whom the promise
 was made” (<span id="iv.ii.viii-p22.1"></span>[Gal.
-3:24](../../../bib/kjv/gal003.htm#024),
-[19](../../../bib/kjv/gal003.htm#019)<span
+3:24](../../../bib/kjv/gal003.htm#024.md),
+[19](../../../bib/kjv/gal003.htm#019.md)<span
 id="iv.ii.viii-p22.1"></span>). For Christ not yet having been made
 familiarly known to the Jews, they were like children whose weakness
 could not bear a full knowledge of heavenly things. How they were led to
@@ -197,16 +197,16 @@ they were required, in order to appease God, to approach him daily with
 new sacrifices, yet Isaiah promises, that all their sins would be
 expiated by one single sacrifice, and with this Daniel concurs (<span
 id="iv.ii.viii-p22.2"></span>[Isa.
-53:5](../../../bib/kjv/isa053.htm#005)<span
+53:5](../../../bib/kjv/isa053.htm#005.md)<span
 id="iv.ii.viii-p22.2"></span>; <span id="iv.ii.viii-p22.3"></span>[Dan.
-9:26](../../../bib/kjv/dan009.htm#026),
-[27](../../../bib/kjv/dan009.htm#027)<span
+9:26](../../../bib/kjv/dan009.htm#026.md),
+[27](../../../bib/kjv/dan009.htm#027.md)<span
 id="iv.ii.viii-p22.3"></span>). The priests appointed from the tribe of
 Levi entered the sanctuary, but it was once said of a single priest,
 “The Lord has sworn, and will not repent, Thou art a priest for ever,
 after the order of Melchizedek,” (<span
 id="iv.ii.viii-p22.4"></span>[Ps.
-110:4](../../../bib/kjv/psa110.htm#004)<span
+110:4](../../../bib/kjv/psa110.htm#004.md)<span
 id="iv.ii.viii-p22.4"></span>). The unction of oil was then visible, but
 Daniel in vision declares that there will be another unction. Not to
 dwell on this, the author of the Epistle to the Hebrews proves clearly,
@@ -215,12 +215,12 @@ were vain, and of no value, unless as bringing us to Christ. In regard
 to the Ten Commandments, we must, in like manner, attend to the
 statement of Paul, that “Christ is the end of the law for righteousness
 to every one that believeth,” (<span id="iv.ii.viii-p22.5"></span>[Rom.
-10:4](../../../bib/kjv/rom010.htm#004)<span
+10:4](../../../bib/kjv/rom010.htm#004.md)<span
 id="iv.ii.viii-p22.5"></span>); and, again, that ministers of the new
 testament were “not of the letter, but of the spirit: for the letter
 killeth, but the split giveth life,” (<span
 id="iv.ii.viii-p22.6"></span>[2 Cor.
-3:6](../../../bib/kjv/co2003.htm#006)<span
+3:6](../../../bib/kjv/co2003.htm#006.md)<span
 id="iv.ii.viii-p22.6"></span>). The former passage intimates, that it is
 in vain to teach righteousness by precept, until Christ bestow it by
 free imputation, and the regeneration of the Spirit. Hence he properly
@@ -229,7 +229,7 @@ nothing to know what God demands did not Christ come to the succour of
 those who are labouring, and oppressed under an intolerable yoke and
 burden. In another place, he says that the Law “was added because of
 transgressions,” (<span id="iv.ii.viii-p22.7"></span>[Gal.
-3:19](../../../bib/kjv/gal003.htm#019)<span
+3:19](../../../bib/kjv/gal003.htm#019.md)<span
 id="iv.ii.viii-p22.7"></span>), that it might humble men under a sense
 of their condemnation. Moreover, inasmuch as this is the only true
 preparation for Christ, the statements, though made in different words,
@@ -251,7 +251,7 @@ that he had set life and death, good and evil, before the people. Nor
 can it be denied, that the reward of eternal salvation, as promised by
 the Lord, awaits the perfect obedience of the Law (<span
 id="iv.ii.viii-p23.1"></span>[Deut.
-30:19](../../../bib/kjv/deu030.htm#019)<span
+30:19](../../../bib/kjv/deu030.htm#019.md)<span
 id="iv.ii.viii-p23.1"></span>). Again, however, it is of importance to
 understand in what way we perform that obedience for which we justly
 entertain the hope of that reward. For of what use is it to see that the
@@ -298,7 +298,7 @@ follow it further at present.
 impossible observance of the Law, it will be proper briefly to explain
 and confirm, the general opinion being, that nothing can be more absurd.
 Hence Jerome has not hesitated to denounce anathema against it.18  <span
-id="fr_181"></span>[182](#fn_181) What Jerome thought, I care not; let
+id="fr_181"></span>[182](#fn_181.md) What Jerome thought, I care not; let
 us inquire what is the truth. I will not here enter into a long and
 intricate discussion on the various kinds of possibility. By impossible,
 I mean, that which never was, and, being prevented by the ordination and
@@ -313,23 +313,23 @@ repugnant both to Scripture and experience. But I say further, that no
 saint ever will attain to perfection, so long as he is in the body.
 Scripture bears clear testimony to this effect: “There is no man that
 sinneth not,” saith Solomon (<span id="iv.ii.viii-p26.1"></span>[1 Kings
-8:46](../../../bib/kjv/kg1008.htm#046)<span
+8:46](../../../bib/kjv/kg1008.htm#046.md)<span
 id="iv.ii.viii-p26.1"></span>). David says, “In thy sight shall no man
 living be justified,” (<span id="iv.ii.viii-p26.2"></span>[Psalm
-143:2](../../../bib/kjv/psa143.htm#002)<span
+143:2](../../../bib/kjv/psa143.htm#002.md)<span
 id="iv.ii.viii-p26.2"></span>). Job also, in numerous passages, affirms
 the same thing. But the clearest of all is Paul, who declares that “the
 flesh lusteth against the Spirit, and the Spirit against the flesh,”
 (<span id="iv.ii.viii-p26.3"></span>[Gal.
-5:17](../../../bib/kjv/gal005.htm#017)<span
+5:17](../../../bib/kjv/gal005.htm#017.md)<span
 id="iv.ii.viii-p26.3"></span>). And he proves, that “as many as are of
 the works of the law are under the curse,” for the simple reason, that
 it is written, “Cursed is every one that continueth not in all things
 which are written in the book of the law to do them,” (<span
 id="iv.ii.viii-p26.4"></span>[Gal.
-3:10](../../../bib/kjv/gal003.htm#010)<span
+3:10](../../../bib/kjv/gal003.htm#010.md)<span
 id="iv.ii.viii-p26.4"></span>; <span id="iv.ii.viii-p26.5"></span>[Deut.
-27:26](../../../bib/kjv/deu027.htm#026)<span
+27:26](../../../bib/kjv/deu027.htm#026.md)<span
 id="iv.ii.viii-p26.5"></span>); intimating, or rather assuming it as
 confessed, that none can so continue. But whatever has been declared by
 Scripture must be regarded as perpetual, and hence necessary. The
@@ -347,7 +347,7 @@ to, I refer to the answer which our Saviour gave to his disciples when
 they asked, “Who then can be saved?” “With men,” said he, “this is
 impossible; but with God all things are possible” (<span
 id="iv.ii.viii-p26.6"></span>[Mt.
-19:25](../../../bib/kjv/mat019.htm#025)<span
+19:25](../../../bib/kjv/mat019.htm#025.md)<span
 id="iv.ii.viii-p26.6"></span>). Augustine argues in the most convincing
 manner, that while in the flesh, we never can give God the love which we
 owe him. “Love so follows knowledge, that no man can perfectly love God
@@ -359,9 +359,9 @@ consequence of the feebleness of our nature, it is impossible for us, so
 long as we are in the flesh, to fulfil the law. This will also be proved
 elsewhere from the writings of Paul (<span
 id="iv.ii.viii-p26.7"></span>[Rom.
-8:3](../../../bib/kjv/rom008.htm#003)<span
+8:3](../../../bib/kjv/rom008.htm#003.md)<span
 id="iv.ii.viii-p26.7"></span>).18  <span
-id="fr_182"></span>[183](#fn_182)
+id="fr_182"></span>[183](#fn_182.md)
 
 <span id="iv.ii.viii-p28"></span>6. That the whole matter may be made
 clearer, let us take a succinct view of the office and use of the Moral
@@ -405,18 +405,18 @@ Accordingly, the greater the transgression of which the Law convicts us,
 the severer the judgment to which we are exposed. To this effect is the
 Apostle’s declaration, that “by the law is the knowledge of sin,” (<span
 id="iv.ii.viii-p29.1"></span>[Rom.
-3:20](../../../bib/kjv/rom003.htm#020)<span
+3:20](../../../bib/kjv/rom003.htm#020.md)<span
 id="iv.ii.viii-p29.1"></span>). By these words, he only points out the
 first office of the Law as experienced by sinners not yet regenerated.
 In conformity to this, it is said, “the law entered that the offence
 might abound;” and, accordingly, that it is “the ministration of death;”
 that it “worketh wrath” and kills (<span
 id="iv.ii.viii-p29.2"></span>[Rom.
-5:20](../../../bib/kjv/rom005.htm#020)<span
+5:20](../../../bib/kjv/rom005.htm#020.md)<span
 id="iv.ii.viii-p29.2"></span>; <span id="iv.ii.viii-p29.3"></span>[2
-Cor. 3:7](../../../bib/kjv/co2003.htm#007)<span
+Cor. 3:7](../../../bib/kjv/co2003.htm#007.md)<span
 id="iv.ii.viii-p29.3"></span>; <span id="iv.ii.viii-p29.4"></span>[Rom.
-4:15](../../../bib/kjv/rom004.htm#015)<span
+4:15](../../../bib/kjv/rom004.htm#015.md)<span
 id="iv.ii.viii-p29.4"></span>). For there cannot be a doubt that the
 clearer the consciousness of guilt, the greater the increase of sin;
 because then to transgression a rebellious feeling against the Lawgiver
@@ -424,7 +424,7 @@ is added. All that remains for the Law, is to arm the wrath of God for
 the destruction of the sinner; for by itself it can do nothing but
 accuse, condemn, and destroy him. Thus Augustine says, “If the Spirit of
 grace be absent, the law is present only to convict and slay us.”19
- <span id="fr_183"></span>[184](#fn_183) But to say this neither insults
+ <span id="fr_183"></span>[184](#fn_183.md) But to say this neither insults
 the law, nor derogates in any degree from its excellence. Assuredly, if
 our whole will were formed and disposed to obedience, the mere knowledge
 of the law would be sufficient for salvation; but since our carnal and
@@ -454,12 +454,12 @@ God the effect is different. The Apostle testifies that the law
 pronounces its sentence of condemnation in order “that every mouth may
 be stopped, and all the world may become guilty before God,” (<span
 id="iv.ii.viii-p31.1"></span>[Rom.
-3:19](../../../bib/kjv/rom003.htm#019)<span
+3:19](../../../bib/kjv/rom003.htm#019.md)<span
 id="iv.ii.viii-p31.1"></span>). In another place, however, the same
 Apostle declares, that “God has concluded them all in unbelief;” not
 that he might destroy all, or allow all to perish, but that “he might
 have mercy upon all,” (<span id="iv.ii.viii-p31.2"></span>[Rom.
-11:32](../../../bib/kjv/rom011.htm#032)<span
+11:32](../../../bib/kjv/rom011.htm#032.md)<span
 id="iv.ii.viii-p31.2"></span>); in other words, that divesting
 themselves of an absurd opinion of their own virtue, they may perceive
 how they are wholly dependent on the hand of God; that feeling how naked
@@ -475,7 +475,7 @@ and gentleness towards poor unworthy sinners.
 <span id="iv.ii.viii-p32"></span>9. There are many passages in
 Augustine, as to the utility of the law in leading us to implore Divine
 assistance. Thus he writes to Hilary,19  <span
-id="fr_184"></span>[185](#fn_184) “The law orders, that we, after
+id="fr_184"></span>[185](#fn_184.md) “The law orders, that we, after
 attempting to do what is ordered and so feeling our weakness under the
 law, may learn to implore the help of grace.” In like manner, he writes
 to Asellius, “The utility of the law is, that it convinces man of his
@@ -549,8 +549,8 @@ mothers, for manslayers, for whoremongers, for them that defile
 themselves with mankind, for men-stealers, for liars, for perjured
 persons, and if there be any other thing that is contrary to sound
 doctrine,” (<span id="iv.ii.viii-p34.1"></span>[1 Tim.
-1:9](../../../bib/kjv/ti1001.htm#009),
-[10](../../../bib/kjv/ti1001.htm#010)<span
+1:9](../../../bib/kjv/ti1001.htm#009.md),
+[10](../../../bib/kjv/ti1001.htm#010.md)<span
 id="iv.ii.viii-p34.1"></span>). He thus indicates that it is a restraint
 on unruly lusts that would otherwise burst all bonds.
 
@@ -558,7 +558,7 @@ on unruly lusts that would otherwise burst all bonds.
 declaration of the Apostle in another place, that “The law was our
 schoolmaster to bring us unto Christ,” (<span
 id="iv.ii.viii-p35.1"></span>[Gal.
-3:24](../../../bib/kjv/gal003.htm#024)<span
+3:24](../../../bib/kjv/gal003.htm#024.md)<span
 id="iv.ii.viii-p35.1"></span>); since there are two classes of persons,
 whom by its training it leads to Christ. Some (of whom we spoke in the
 first place), from excessive confidence in their own virtue or
@@ -615,11 +615,11 @@ law of the Lord is perfect, converting the soul: the testimony of the
 Lord is sure, making wise the simple. The statutes of the Lord are
 right, rejoicing the heart: the commandment of the Lord is pure,
 enlightening the eyes,” (<span id="iv.ii.viii-p36.1"></span>[Ps.
-19:7](../../../bib/kjv/psa019.htm#007),
-[8](../../../bib/kjv/psa019.htm#008)<span
+19:7](../../../bib/kjv/psa019.htm#007.md),
+[8](../../../bib/kjv/psa019.htm#008.md)<span
 id="iv.ii.viii-p36.1"></span>). Again, “Thy word is a lamp unto my feet,
 and a light unto my path,” (<span id="iv.ii.viii-p36.2"></span>[Ps.
-119:105](../../../bib/kjv/psa119.htm#105)<span
+119:105](../../../bib/kjv/psa119.htm#105.md)<span
 id="iv.ii.viii-p36.2"></span>). The whole psalm abounds in passages to
 the same effect. Such passages are not inconsistent with those of Paul,
 which show not the utility of the law to the regenerate, but what it is
@@ -644,8 +644,8 @@ testify among you this day, which ye shall command your children to
 observe to do, all the words of this law. For it is not a vain thing for
 you; because it is your life,” (<span
 id="iv.ii.viii-p37.1"></span>[Deut.
-32:46](../../../bib/kjv/deu032.htm#046),
-[47](../../../bib/kjv/deu032.htm#047)<span
+32:46](../../../bib/kjv/deu032.htm#046.md),
+[47](../../../bib/kjv/deu032.htm#047.md)<span
 id="iv.ii.viii-p37.1"></span>). If it cannot be denied that it contains
 a perfect pattern of righteousness, then, unless we ought not to have
 any proper rule of life, it must be impious to discard it. There are not
@@ -653,7 +653,7 @@ various rules of life, but one perpetual and inflexible rule; and,
 therefore, when David describes the righteous as spending their whole
 lives in meditating on the Law (<span
 id="iv.ii.viii-p37.2"></span>[Psalm
-1:2](../../../bib/kjv/psa001.htm#002)<span
+1:2](../../../bib/kjv/psa001.htm#002.md)<span
 id="iv.ii.viii-p37.2"></span>), we must not confine to a single age, an
 employment which is most appropriate to all ages, even to the end of the
 world. Nor are we to be deterred or to shun its instructions, because
@@ -687,7 +687,7 @@ truth. But lest we should stumble against the same stone, let us
 distinguish accurately between what has been abrogated in the Law, and
 what still remains in force. When the Lord declares, that he came not to
 destroy the Law, but to fulfil (<span id="iv.ii.viii-p38.1"></span>[Mt.
-5:17](../../../bib/kjv/mat005.htm#017)<span
+5:17](../../../bib/kjv/mat005.htm#017.md)<span
 id="iv.ii.viii-p38.1"></span>); that until heaven and earth pass away,
 not one jot or little shall remain unfulfilled; he shows that his advent
 was not to derogate, in any degree, from the observance of the Law. And
@@ -705,9 +705,9 @@ reason, the Apostle says, that “as many as are of the works of the law
 are under the curse: for it is written, Cursed is every one that
 continueth not in all things which are written in the book of the law to
 do them,” (<span id="iv.ii.viii-p39.1"></span>[Gal.
-3:10](../../../bib/kjv/gal003.htm#010)<span
+3:10](../../../bib/kjv/gal003.htm#010.md)<span
 id="iv.ii.viii-p39.1"></span>; <span id="iv.ii.viii-p39.2"></span>[Deut.
-27:26](../../../bib/kjv/deu027.htm#026)<span
+27:26](../../../bib/kjv/deu027.htm#026.md)<span
 id="iv.ii.viii-p39.2"></span>). Those he describes as under the works of
 the Law, who do not place righteousness in that forgiveness of sins by
 which we are freed from the rigour of the Law. He therefore shows, that
@@ -717,11 +717,11 @@ exaction, which remits not one iota of the demand, and leaves no
 transgression unpunished. To redeem us from this curse, Christ was made
 a curse for us: for it is written, Cursed is every one that hangeth on a
 tree (<span id="iv.ii.viii-p39.3"></span>[Deut.
-21:23](../../../bib/kjv/deu021.htm#023)<span
+21:23](../../../bib/kjv/deu021.htm#023.md)<span
 id="iv.ii.viii-p39.3"></span>, compared with <span
 id="iv.ii.viii-p39.4"></span>[Gal.
-3:13](../../../bib/kjv/gal003.htm#013),
-[4](../../../bib/kjv/gal003.htm#004)<span
+3:13](../../../bib/kjv/gal003.htm#013.md),
+[4](../../../bib/kjv/gal003.htm#004.md)<span
 id="iv.ii.viii-p39.4"></span>:4). In the following chapter, indeed, he
 says, that “Christ was made under the law, in order that he might redeem
 those who are under the law;” but the meaning is the same. For he
@@ -744,7 +744,7 @@ for what purpose they were instituted. Accordingly, Paul, in order to
 prove that the observance of them was not only superfluous, but
 pernicious also, says that they “are a shadow of things to come; but the
 body is of Christ,” (<span id="iv.ii.viii-p40.1"></span>[Col.
-2:17](../../../bib/kjv/col002.htm#017)<span
+2:17](../../../bib/kjv/col002.htm#017.md)<span
 id="iv.ii.viii-p40.1"></span>). We see, therefore, that the truth is
 made clearer by their abolition than if Christ, who has been openly
 manifested, were still figured by them as at a distance, and as under a
@@ -753,12 +753,12 @@ the living and express image of heavenly things, which had begun to be
 dimly shadowed forth, being now brought fully into view, as is described
 by the author of the Epistle to the Hebrews (<span
 id="iv.ii.viii-p40.2"></span>[Heb.
-10:1](../../../bib/kjv/heb010.htm#001)<span
+10:1](../../../bib/kjv/heb010.htm#001.md)<span
 id="iv.ii.viii-p40.2"></span>). To the same effect, our Saviour
 declares, that “the law and the prophets were until John: since that
 time the kingdom of God is preached, and every man presseth into it,”
 (<span id="iv.ii.viii-p40.3"></span>[Luke
-16:16](../../../bib/kjv/luk016.htm#016)<span
+16:16](../../../bib/kjv/luk016.htm#016.md)<span
 id="iv.ii.viii-p40.3"></span>); not that the holy fathers were left
 without the preaching of the hope of salvation and eternal life, but
 because they only saw at a distance, and under a shadow, what we now
@@ -766,7 +766,7 @@ behold in full light. Why it behaved the Church to ascend higher than
 these elements, is explained by John the Baptist, when he says, “The law
 was given by Moses, but grace and truth came by Jesus Christ,” (<span
 id="iv.ii.viii-p40.4"></span>[John
-1:17](../../../bib/kjv/joh001.htm#017)<span
+1:17](../../../bib/kjv/joh001.htm#017.md)<span
 id="iv.ii.viii-p40.4"></span>). For though it is true that expiation was
 promised in the ancient sacrifices, and the ark of the covenant was a
 sure pledge of the paternal favour of God, the whole would have been
@@ -783,8 +783,8 @@ forgiven you all trespasses; blotting out the handwriting of ordinances
 that was against us, which was contrary to us, and took it out of the
 way, nailing it to his cross,” &c. (<span
 id="iv.ii.viii-p41.1"></span>[Col.
-2:13](../../../bib/kjv/col002.htm#013),
-[14](../../../bib/kjv/col002.htm#014)<span
+2:13](../../../bib/kjv/col002.htm#013.md),
+[14](../../../bib/kjv/col002.htm#014.md)<span
 id="iv.ii.viii-p41.1"></span>). He seems to extend the abolition of the
 Law considerably farther, as if we had nothing to do with its
 injunctions. Some err in interpreting this simply of the Moral Law, as
@@ -796,7 +796,7 @@ is our peace, who has made both one, and has broken down the middle wall
 of partition between us; having abolished in his flesh the enmity, even
 the law of commandments contained in ordinances; for to make in himself
 of twain one new man,” (<span id="iv.ii.viii-p41.2"></span>[Eph.
-2:14](../../../bib/kjv/eph002.htm#014)<span
+2:14](../../../bib/kjv/eph002.htm#014.md)<span
 id="iv.ii.viii-p41.2"></span>). There can be no doubt that he is there
 treating of ceremonies, as he speaks of “the middle wall of partition”
 which separated Jews and Gentiles. I therefore hold that the former view
@@ -831,7 +831,7 @@ things was not the removal of them. Wherefore, the Apostle says that
 Christ is “the mediator of the new testament,—by means of death, for the
 redemption of the transgressions that were under the first testament,”
 (<span id="iv.ii.viii-p41.3"></span>[Heb.
-9:15](../../../bib/kjv/heb009.htm#015)<span
+9:15](../../../bib/kjv/heb009.htm#015.md)<span
 id="iv.ii.viii-p41.3"></span>). Justly, therefore, does the Apostle
 describe these handwritings as against the worshipers, and contrary to
 them, since by means of them their impurity and condemnation were openly
@@ -856,26 +856,26 @@ destroy it.
 
 ### Footnotes
 
-<span id="fn_181"></span>[182](inst041.htm#fr_181) <span
+<span id="fn_181"></span>[182](inst041.htm#fr_181.md) <span
 id="iv.ii.viii-p25.1"></span>
 
 <span id="iv.ii.viii-p26"></span>88 188 See among the works of Justin.
 Quæst. 103; and Hieronymus ad Ctesiphont adv. Pelegianos, where he seems
 to admit and deny the same proposition.
 
-<span id="fn_182"></span>[183](inst041.htm#fr_182) <span
+<span id="fn_182"></span>[183](inst041.htm#fr_182.md) <span
 id="iv.ii.viii-p26.8"></span>
 
 <span id="iv.ii.viii-p27"></span>89 189 Book 2. chap. 12 sec. 4; and
 Book 3, chap. 4 sec. 27; and chap. 11 sec 23.
 
-<span id="fn_183"></span>[184](inst041.htm#fr_183) <span
+<span id="fn_183"></span>[184](inst041.htm#fr_183.md) <span
 id="iv.ii.viii-p29.5"></span>
 
 <span id="iv.ii.viii-p30"></span>90 190 August. de Corrept. et Gratia.
 Ambros. Lib. 1 de Jac. et cap. 6 de Vita Beat.
 
-<span id="fn_184"></span>[185](inst041.htm#fr_184) <span
+<span id="fn_184"></span>[185](inst041.htm#fr_184.md) <span
 id="iv.ii.viii-p32.1"></span>
 
 <span id="iv.ii.viii-p33"></span>91 191 August. <span
@@ -885,9 +885,9 @@ id="iv.ii.viii-p33.2"></span>; ad Innocent. <span
 id="iv.ii.viii-p33.3"></span>Ep. 95<span id="iv.ii.viii-p33.3"></span>;
 Lib. de Corrept. et Gratia ad Valent.; in <span
 id="iv.ii.viii-p33.4"></span>[Ps.
-70](../../../bib/kjv/psa070.htm#000)<span id="iv.ii.viii-p33.4"></span>
+70](../../../bib/kjv/psa070.htm#000.md)<span id="iv.ii.viii-p33.4"></span>
 et 117; Item, Concio. 27.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 8. - EXPOSITION OF THE MORAL LAW.](inst042)
+[Next: CHAPTER 8. - EXPOSITION OF THE MORAL LAW.](inst042.md)

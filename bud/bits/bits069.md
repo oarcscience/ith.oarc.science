@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits068) [Next](bits070)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits068) [Next](bits070.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ members of other sects, ordinary disciples, great disciples, chief
 disciples, Private Buddhas, and Buddhas. Now members of other sects can
 call to mind former states of existence for forty world-cycles,<span
 id="page_315_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_315_note_1) and no more.
+class="small">1</span></sup>](#page_315_note_1.md) and no more.
 
 |                                   |                                       |
 |:----------------------------------|--------------------------------------:|
@@ -592,7 +592,7 @@ and many destructions and renovations of a world-cycle.
 
 ------------------------------------------------------------------------
 
-[Next: § 70. Wisdom](bits070)
+[Next: § 70. Wisdom](bits070.md)
 
 ------------------------------------------------------------------------
 
@@ -600,7 +600,7 @@ and many destructions and renovations of a world-cycle.
 
 <span id="footnotes_page_315">p. 315</span>
 
-<span id="page_315_note_1"></span>[1](#page_315_fr_1) \[Samyutta-Nikâya,
+<span id="page_315_note_1"></span>[1](#page_315_fr_1.md) \[Samyutta-Nikâya,
 xv.5<sup>6</sup>\]--" It is as if, O priest, there were a mountain
 consisting of a great rock, a league in length, a league in width, a
 league in height, without break, cleft, or hollow, and every hundred

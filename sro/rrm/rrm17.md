@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm16)  [Next](rrm18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm16)  [Next](rrm18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -120,7 +120,7 @@ objectless.
 
 The famous 'Round Table' of King Arthur--in regard to which that mystic
 hero is understood to have instituted an order of knighthood <span
-id="fr_6"></span>[1](#fn_6)--may have been a magical consulting-disc,
+id="fr_6"></span>[1](#fn_6.md)--may have been a magical consulting-disc,
 round which he and his peers sat for oracular directions. As it is of
 large dimensions, it presents a similarity not only to some of the
 prophesying-stones, but also, in a greater degree, to the movable
@@ -511,9 +511,9 @@ Man is an entity.
 
 ### Footnotes
 
-<span id="fn_6"></span>[118:1](rrm17.htm#fr_6) It was also something
+<span id="fn_6"></span>[118:1](rrm17.htm#fr_6.md) It was also something
 else--to which we make reference in other parts of our book.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: Inquiry as to the Possibility of Miracle](rrm18)
+[Next: Chapter XIV: Inquiry as to the Possibility of Miracle](rrm18.md)

@@ -1,6 +1,6 @@
-<span class="small">[Sacred Texts Index](../../index)  [Hinduism
-Index](../index)  [Laws of Manu Index](../manu)  [Previous](manu02) 
-[Next](manu04) </span>
+<span class="small">[Sacred Texts Index](../../index.md)  [Hinduism
+Index](../index)  [Laws of Manu Index](../manu)  [Previous](manu02.md) 
+[Next](manu04.md) </span>
 
 ------------------------------------------------------------------------
 

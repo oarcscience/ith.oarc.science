@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](lmbg3a) [Next](lmbg4a)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](lmbg3a) [Next](lmbg4a.md)
 
 ------------------------------------------------------------------------
 
@@ -1358,7 +1358,7 @@ More glorious in its triumphs seen,<br />
 
 ------------------------------------------------------------------------
 
-[Next](lmbg4a)
+[Next](lmbg4a.md)
 
 ------------------------------------------------------------------------
 
@@ -1366,12 +1366,12 @@ More glorious in its triumphs seen,<br />
 
 <span id="footnotes_page_91">p. 91</span>
 
-<span id="page_91_note_1"></span>[1](#page_91_fr_1) Bancroft (1769)
+<span id="page_91_note_1"></span>[1](#page_91_fr_1) Bancroft (1769.md)
 mentions it as still preserved by them.
 
 <span id="footnotes_page_95">p. 95</span>
 
-<span id="page_95_note_1"></span>[1](#page_95_fr_1) In 1664, under M. de
+<span id="page_95_note_1"></span>[1](#page_95_fr_1.md) In 1664, under M. de
 La Barre. The English had by that time made a settlement on the Coma, or
 Surinam, which, in 1667, was exchanged with the Dutch for "New Holland,"
 the present New York. Essequibo and Berbice (now English) were colonised
@@ -1381,12 +1381,12 @@ by them, though at a much later period.
 
 <span id="footnotes_page_99">p. 99</span>
 
-<span id="page_99_note_1"></span>[1](#page_99_fr_1) Humboldt's account,
+<span id="page_99_note_1"></span>[1](#page_99_fr_1.md) Humboldt's account,
 Some of our Caribs say that *two* men were thus spared.
 
 <span id="footnotes_page_101">p. 101</span>
 
-<span id="page_101_note_1"></span>[1](#page_101_fr_1) *The great
+<span id="page_101_note_1"></span>[1](#page_101_fr_1.md) *The great
 cataracts (or Raudales) af Atures and Maypures.*
 
 As the Caribs themselves have always been accused of cannibalism, it is
@@ -1401,17 +1401,17 @@ Cabrés (as stated above), of various other inland tribes, and of the
 
 <span id="footnotes_page_104">p. 104</span>
 
-<span id="page_104_note_1"></span>[1](#page_104_fr_1) "Tamosi Kabo-tano"
+<span id="page_104_note_1"></span>[1](#page_104_fr_1.md) "Tamosi Kabo-tano"
 (Ancient one of Heaven), The Supreme Being.
 
 <span id="footnotes_page_108">p. 108</span>
 
-<span id="page_108_note_1"></span>[1](#page_108_fr_1) I-arreka-ru
+<span id="page_108_note_1"></span>[1](#page_108_fr_1.md) I-arreka-ru
 (Acawoio, "Iwarreka"), the *monkey*.
 
 <span id="footnotes_page_109">p. 109</span>
 
-<span id="page_109_note_1"></span>[1](#page_109_fr_1) There is an
+<span id="page_109_note_1"></span>[1](#page_109_fr_1.md) There is an
 episode, usually given here, of a "cocorite" palm, which mankind strove
 to ascend, because its top reached the heavens. A poor woman, not in a
 condition to climb, led the way. When halfway up she was turned into
@@ -1421,7 +1421,7 @@ survivors then climbed the komoo, and were saved.
 
 <span id="footnotes_page_114">p. 114</span>
 
-<span id="page_114_note_1"></span>[1](#page_114_fr_1) Humboldt, who
+<span id="page_114_note_1"></span>[1](#page_114_fr_1.md) Humboldt, who
 records the legend of Amalivaca, considers those *rock-carvings* to be
 "traces of an ancient civilisation, which may have belonged to an epoch
 when the tribes, which we now distinguish by various names and races,
@@ -1435,15 +1435,15 @@ Rio Negro to the Corentyn—should be made and compared.
 
 <span id="footnotes_page_117">p. 117</span>
 
-<span id="page_117_note_1"></span>[1](#page_117_fr_1) Mr. C. B. Brown,
+<span id="page_117_note_1"></span>[1](#page_117_fr_1.md) Mr. C. B. Brown,
 1870.
 
-<span id="page_117_note_2"></span>[2](#page_117_fr_2) The present
+<span id="page_117_note_2"></span>[2](#page_117_fr_2.md) The present
 Georgetown.
 
 <span id="footnotes_page_121">p. 121</span>
 
-<span id="page_121_note_1"></span>[1](#page_121_fr_1) Rev. T. Youd.
+<span id="page_121_note_1"></span>[1](#page_121_fr_1.md) Rev. T. Youd.
 Founded Pirara Mission, 1838. Driven from it, 1839. Died (at sea), 1842.
 
  

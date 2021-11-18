@@ -1,10 +1,10 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa07) [Next](rsa09)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa07) [Next](rsa09.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_253">p. 253</span>
 
-### INKOSAZANA.<span id="page_253_fr_96"></span>[96](#page_253_note_96)
+### INKOSAZANA.<span id="page_253_fr_96"></span>[96](#page_253_note_96.md)
 
 T<span class="small">HE</span> following superstition as regards the
 Inkosazana appears to be the relic of some old worship; and is therefore
@@ -18,7 +18,7 @@ properly considered in this place.
 > very little animal, as large as a polecat, and is marked with little
 > white and black stripes; on one side there grows a bed of reeds, a
 > forest, and grass;<span
-> id="page_253_fr_97"></span>[97](#page_253_note_97) the other side is
+> id="page_253_fr_97"></span>[97](#page_253_note_97.md) the other side is
 > that of a man. Such is her form.
 >
 >  If she meet with a man she conceals herself and speaks with him
@@ -29,7 +29,7 @@ properly considered in this place.
 > indeed the Inkosazana about whom he has heard; and turns his back from
 > fear, because it is said that if a man look on her face to face, he
 > will be ill and very soon die.<span
-> id="page_254_fr_98"></span>[98](#page_254_note_98)
+> id="page_254_fr_98"></span>[98](#page_254_note_98.md)
 >
 >  She goes followed by a large troop of children which resemble her.
 >
@@ -63,7 +63,7 @@ properly considered in this place.
 >
 >  For example, there used to be a man in this country, living on the
 > Umlazi, named Ubobobo;<span
-> id="page_255_fr_99"></span>[99](#page_255_note_99) he was a man who
+> id="page_255_fr_99"></span>[99](#page_255_note_99.md) he was a man who
 > troubled people much by appointing customs by asserting that the
 > Inkosazana had spoken to him, and said, "Let much beer be made and
 > poured on the mountains; let the children be weaned; let the damsels
@@ -83,7 +83,7 @@ properly considered in this place.
 
 ------------------------------------------------------------------------
 
-[Next](rsa09)
+[Next](rsa09.md)
 
 ------------------------------------------------------------------------
 
@@ -91,10 +91,10 @@ properly considered in this place.
 
 <span id="footnotes_page_253">p. 253</span>
 
- <span id="page_253_note_96"></span>[96](#page_253_fr_96) *Inkosazana*,
+ <span id="page_253_note_96"></span>[96](#page_253_fr_96.md) *Inkosazana*,
 Princess, or Little Chieftainess.
 
- <span id="page_253_note_97"></span>[97](#page_253_fr_97) Not, says the
+ <span id="page_253_note_97"></span>[97](#page_253_fr_97.md) Not, says the
 native who gives the narrative, to be understood literally; but that
 there was something growing on her like a bed of reeds, a forest, and
 grass. But compare Ugungqu kubantwana, *Zulu Nursery Tales*, p. 176; and
@@ -102,16 +102,16 @@ Usilosimapundu, p. 184.
 
 <span id="footnotes_page_254">p. 254</span>
 
- <span id="page_254_note_98"></span>[98](#page_254_fr_98) It may be
+ <span id="page_254_note_98"></span>[98](#page_254_fr_98.md) It may be
 interesting to compare this superstition with the following
-passages:—[Exodus xxxiii. 20](../../bib/kjv/exo.htm#33:20); [Genesis
-xxxii. 30](../../bib/kjv/gen.htm#32:30); [Judges vi.
-22](../../bib/kjv/jdg.htm#6:22), [xiii.
-22](../../bib/kjv/jdg.htm#13:22), 23.
+passages:—[Exodus xxxiii. 20](../../bib/kjv/exo.htm#33:20.md); [Genesis
+xxxii. 30](../../bib/kjv/gen.htm#32:30.md); [Judges vi.
+22](../../bib/kjv/jdg.htm#6:22.md), [xiii.
+22](../../bib/kjv/jdg.htm#13:22.md), 23.
 
 <span id="footnotes_page_255">p. 255</span>
 
- <span id="page_255_note_99"></span>[99](#page_255_fr_99) This man has
+ <span id="page_255_note_99"></span>[99](#page_255_fr_99.md) This man has
 only lately died. I saw him once. He appeared to be mad.
 
  

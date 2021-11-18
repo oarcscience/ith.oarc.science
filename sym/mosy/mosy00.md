@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Next](mosy01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Next](mosy01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Intangible Textual Heritage
 ### SIR GEORGE BIRDWOOD, M.D., K.C.I.E.
 
 <span id="img_feet"></span> <span align="CENTER"> [![](tn/feet.jpg)  
-Click to enlarge](img/feet.jpg)</span>
+Click to enlarge](img/feet.jpg.md)</span>
 
 #### London: A. Constable and Co.,
 
@@ -41,11 +41,11 @@ because it was published prior to 1923.
 <span id="img_pl01"></span> <span align="CENTER"> [![Frontispiece:
 Apollo and the Gammadion.&lt;br&gt; (From a vase in the Kunsthistoriches
 Museum of Vienna.)](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 Frontispiece: Apollo and the Gammadion.  
 (From a vase in the Kunsthistoriches Museum of Vienna.)  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mosy01)
+[Next: Introduction](mosy01.md)

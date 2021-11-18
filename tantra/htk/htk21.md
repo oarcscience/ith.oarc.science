@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk20)  [Next](htk22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk20)  [Next](htk22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -27,18 +27,18 @@ at Intangible Textual Heritage
 
 ### VERSE 17
 
-THE devotee <span id="fr_125"></span>[1](#fn_125) who, having placed
-before himself, <span id="fr_126"></span>[2](#fn_126) and meditated and
-again meditated <span id="fr_127"></span>[3](#fn_127) upon, the
-abode, <span id="fr_128"></span>[4](#fn_128) strewn with flowers, <span
-id="fr_129"></span>[5](#fn_129) of the Deva with the bow of
-flowers, <span id="fr_130"></span>[6](#fn_130) recites <span
-id="fr_131"></span>[7](#fn_131) Thy *Mantra*, Ah! <span
-id="fr_132"></span>[8](#fn_132) he becomes on earth the Lord of
-Gandharvas, <span id="fr_133"></span>[9](#fn_133) and the ocean of the
-nectar of the flow of poesy, <span id="fr_134"></span>[10](#fn_134) and
+THE devotee <span id="fr_125"></span>[1](#fn_125.md) who, having placed
+before himself, <span id="fr_126"></span>[2](#fn_126.md) and meditated and
+again meditated <span id="fr_127"></span>[3](#fn_127.md) upon, the
+abode, <span id="fr_128"></span>[4](#fn_128.md) strewn with flowers, <span
+id="fr_129"></span>[5](#fn_129.md) of the Deva with the bow of
+flowers, <span id="fr_130"></span>[6](#fn_130.md) recites <span
+id="fr_131"></span>[7](#fn_131.md) Thy *Mantra*, Ah! <span
+id="fr_132"></span>[8](#fn_132.md) he becomes on earth the Lord of
+Gandharvas, <span id="fr_133"></span>[9](#fn_133.md) and the ocean of the
+nectar of the flow of poesy, <span id="fr_134"></span>[10](#fn_134.md) and
 is after death in Thy supreme abode. <span
-id="fr_135"></span>[11](#fn_135)
+id="fr_135"></span>[11](#fn_135.md)
 
 COMMENTARY
 
@@ -83,16 +83,16 @@ Consciousness.'
 
 ### Footnotes
 
-<span id="fn_125"></span>[83:1](htk21.htm#fr_125) *Bhaktah*: here the
+<span id="fn_125"></span>[83:1](htk21.htm#fr_125.md) *Bhaktah*: here the
 *Vira Sādhaka* (V).
 
-<span id="fn_126"></span>[83:2](htk21.htm#fr_126) *Purah*: that is with
+<span id="fn_126"></span>[83:2](htk21.htm#fr_126.md) *Purah*: that is with
 the *Mandala* of *Kāma* before him (V).
 
-<span id="fn_127"></span>[83:3](htk21.htm#fr_127) That is, with
+<span id="fn_127"></span>[83:3](htk21.htm#fr_127.md) That is, with
 intensity. *Dhyāyan dhyāyan*, repeatedly meditating (V).
 
-<span id="fn_128"></span>[83:4](htk21.htm#fr_128) *Kusuma-dhanuṣo
+<span id="fn_128"></span>[83:4](htk21.htm#fr_128.md) *Kusuma-dhanuṣo
 mandiraṁ*. The Deva with the bow of flowers is Kama whose abode is the
 *Madanāgāra*. *Tantrakalpadruma* says, 'He who recites the Mantra ten
 thousand times meditating on the flower-covered Yoni
@@ -101,7 +101,7 @@ poesy.' *Svapuṣpa* is called *Svayaṁbhukusuma* in *Tantra-śāstr*a,
 *Mātṛkābheda-Tantra* says, 'Oh Lady of *Maheśa Svapuṣpa*, which charms
 all is the *Ṛtu* which first appears in a married girl (V).
 
-<span id="fn_129"></span>[83:5](htk21.htm#fr_129) *Svapuṣpairākīrṇam*.
+<span id="fn_129"></span>[83:5](htk21.htm#fr_129.md) *Svapuṣpairākīrṇam*.
 The word *svapuṣpa* = *svayambhupuṣpa*—mentioned in the Tantras. The
 word *puṣpa* has here, and in ordinary parlance, a figurative sense, as
 in English. For *puspaśabdena atra ṛtur ucyate,
@@ -113,16 +113,16 @@ pleasing fragrant flower, but which is possibly a misprint for
 purobhāge śaktiṁ saṁsthāpya tasyā ṛturudhirasiktāṁ yoniṁ avalokayan san
 devmantraṁ japati*.
 
-<span id="fn_130"></span>[83:6](htk21.htm#fr_130) That is, *Kāma*, the
+<span id="fn_130"></span>[83:6](htk21.htm#fr_130.md) That is, *Kāma*, the
 Deva of Desire, whose bow and arrows are made of flowers.
 
-<span id="fn_131"></span>[83:7](htk21.htm#fr_131) *Japati*. Recites ten
+<span id="fn_131"></span>[83:7](htk21.htm#fr_131.md) *Japati*. Recites ten
 thousand times (V).
 
-<span id="fn_132"></span>[83:8](htk21.htm#fr_132) *Aho*. 'Ah' an
+<span id="fn_132"></span>[83:8](htk21.htm#fr_132.md) *Aho*. 'Ah' an
 exclamation of wonder (V).
 
-<span id="fn_133"></span>[83:9](htk21.htm#fr_133) Celestial spirits
+<span id="fn_133"></span>[83:9](htk21.htm#fr_133.md) Celestial spirits
 (*devayoni*), who play and sing at the banquets of the Devas. According
 to the Viṣṇu-Purāṇa, sons of Brahmā 'born imbibing melody.' The
 *Sādhaka* thus becomes a master of dance, music and song, <span
@@ -130,13 +130,13 @@ id="page_85">p. 85</span> *Gandarva-śreṇīpatih*. He becomes a great
 singer and a master of melody. The *Sāhasānka* says, '*Hāhā* is called a
 *Gandharva* and singing also makes a *Gandharva*' (V).
 
-<span id="fn_134"></span>[83:10](htk21.htm#fr_134) He becomes a
+<span id="fn_134"></span>[83:10](htk21.htm#fr_134.md) He becomes a
 *Pandita* in all literature. The Kālī-Tantra, quoted in the
 Kālīkalpalatā, says that in strength he becomes like the wind, in wealth
 of gifts like Indra, and in the musical art like Tumburu (K.B.)—a *Ṛṣi*,
 master of music and inventor of the *tāmbur*.
 
-<span id="fn_135"></span>[83:11](htk21.htm#fr_135) Paramapadalinah
+<span id="fn_135"></span>[83:11](htk21.htm#fr_135.md) Paramapadalinah
 prabhavati, that is, he attains nirvāṇa (K.B.).
 
 *Prabhavati*: becomes capable of creating and so forth on being merged
@@ -146,6 +146,6 @@ with Thy Supreme Feet (V). The word literally means 'Excels.'
 
 ------------------------------------------------------------------------
 
-[Next: Verse 18](htk22)
+[Next: Verse 18](htk22.md)
 
 </div>

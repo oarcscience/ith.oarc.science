@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes09)  [Next](tes11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes09)  [Next](tes11.md) 
 
 ------------------------------------------------------------------------
 
-### 7. (TALE ABOUT THREE STORKS.) <span id="fr_10"></span>[1](#fn_10)
+### 7. (TALE ABOUT THREE STORKS.) <span id="fr_10"></span>[1](#fn_10.md)
 
 There lived a man who did not know where he was born. We think, however,
 that we were born of this man. He was rich in everything. One time a
@@ -49,7 +49,7 @@ and saw that every bush had, instead of leaves, small copper bells, and
 the tussocks were covered with sableskin instead of moss. "What a fine
 place!" thought the man, and he walked onward along the beaten track.
 After a while, he came to a river. On the other shore stood a tent of
-Lamut type, <span id="fr_11"></span>[1](#fn_11) made of silver. He came
+Lamut type, <span id="fr_11"></span>[1](#fn_11.md) made of silver. He came
 nearer and heard voices within. So he entered.
 
 A woman lay on the bed of skins, moaning with pain. Two strong men were
@@ -165,14 +165,14 @@ of the Kolyma country, winter of 1895.
 
 ### Footnotes
 
-<span id="fn_10"></span>[21:1](tes10.htm#fr_10) See [p.
-124](tes66.htm#page_124).
+<span id="fn_10"></span>[21:1](tes10.htm#fr_10.md) See [p.
+124](tes66.htm#page_124.md).
 
-<span id="fn_11"></span>[22:1](tes10.htm#fr_11) The Lamut cover their
+<span id="fn_11"></span>[22:1](tes10.htm#fr_11.md) The Lamut cover their
 tents with well curried reindeer skin. The Tundra Yukaghir use partly
 birchbark, partly reindeer skin clipped short and well smoked, bought
 chiefly from the Chukchee.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Reindeer-Born](tes11)
+[Next: 8. Reindeer-Born](tes11.md)

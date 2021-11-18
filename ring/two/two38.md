@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two37)  [Next](two39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two37)  [Next](two39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -397,7 +397,7 @@ legs as
 
 <span id="img_48400"></span> <span align="CENTER"> [![THE LAST CONJURING
 IN CARCË.](tn/48400.jpg)  
-Click to enlarge](img/48400.jpg)  
+Click to enlarge](img/48400.jpg.md)  
 THE LAST CONJURING IN CARCË.  
 </span>
 
@@ -688,4 +688,4 @@ hammer-stroke of destiny smitten in pieces.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIII. Queen Sophonisba in Galing](two39)
+[Next: XXXIII. Queen Sophonisba in Galing](two39.md)

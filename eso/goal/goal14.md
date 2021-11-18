@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal13)  [Next](goal15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal13)  [Next](goal15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -172,7 +172,7 @@ estate of a volitional, intelligent being, and if this law is universal,
 then it follows that the higher planets, the elder worlds, must have
 reached a point where the body politic is not only in the image of God,
 but has attained to a degree of his likeness, of his purity, of his
-comprehensive [knowledge](errata.htm#11) and of his volitionary dominion
+comprehensive [knowledge](errata.htm#11.md) and of his volitionary dominion
 over all below—is a mind-organ for the Infinite to fill.
 
 And our sun, at least in its physical manifestation, may contain a
@@ -252,4 +252,4 @@ class="smallcaps">The Image and the Likeness</span>."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Elohim](goal15)
+[Next: Chapter XI. The Elohim](goal15.md)

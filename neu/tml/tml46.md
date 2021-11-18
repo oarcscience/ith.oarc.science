@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml45)  [Next](tml47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml45)  [Next](tml47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ helped in his wars, and gave to him at length his fierce knights Witege
 and Heime.
 
 Now it chanced that Ermenrich had an evil counsellor. His name was
-Sibeche, <span id="fr_119"></span>[1](#fn_119) and his wife had been
+Sibeche, <span id="fr_119"></span>[1](#fn_119.md) and his wife had been
 wronged by the king. Sibeche first thought to slay Ermenrich, but chose
 rather to cause the great monarch to murder his own children and wage
 war against his own kin. Terrible was the vengeance of Sibeche; by
@@ -101,9 +101,9 @@ his king, as did also the other knights for whose sake he had given up
 his kingdom.
 
 Dietrich took refuge in the Court of Etzel <span
-id="fr_120"></span>[1](#fn_120), King of the Huns. He was made welcome
+id="fr_120"></span>[1](#fn_120.md), King of the Huns. He was made welcome
 there and greatly honoured. He fought with Etzel against the King of
-Wilkina-land <span id="fr_121"></span>[2](#fn_121), and against the King
+Wilkina-land <span id="fr_121"></span>[2](#fn_121.md), and against the King
 of Russia and Poland, and achieved great conquests. Grateful was Etzel
 for the help which Dietrich and his knights gave him.
 
@@ -347,13 +347,13 @@ exile even among the Huns."
 
 ### Footnotes
 
-<span id="fn_119"></span>[439:1](tml46.htm#fr_119) Bikki of the Volsung
+<span id="fn_119"></span>[439:1](tml46.htm#fr_119.md) Bikki of the Volsung
 tale. Ermenrich is Jormunrek.
 
-<span id="fn_120"></span>[441:1](tml46.htm#fr_120) Attila.
+<span id="fn_120"></span>[441:1](tml46.htm#fr_120.md) Attila.
 
-<span id="fn_121"></span>[441:2](tml46.htm#fr_121) Norway and Sweden.
+<span id="fn_121"></span>[441:2](tml46.htm#fr_121.md) Norway and Sweden.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLII. The King's Homecoming](tml47)
+[Next: Chapter XLII. The King's Homecoming](tml47.md)

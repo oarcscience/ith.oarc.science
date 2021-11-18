@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd09)  [Next](odd11) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd09)  [Next](odd11.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,7 +177,7 @@ one; say only that you will be my Queen.'
 Surya Bai consented, and the Rajah took her to his kingdom and made her
 his Queen. But Surya Bai was not his only wife and the first Ranee, his
 other wife, was both envious and jealot of her.  <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 The Rajah gave Surya Bai many trustworthy attendants I guard her and be
 with her, and one old woman loved her more than all the rest, and used
@@ -471,8 +471,8 @@ grove of mango trees
 
 ### Footnotes
 
-<span id="fn_40"></span>[1](odd10.htm#fr_40) See Notes.
+<span id="fn_40"></span>[1](odd10.htm#fr_40.md) See Notes.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Wanderings of Vicram Maharajah](odd11)
+[Next: VII. The Wanderings of Vicram Maharajah](odd11.md)

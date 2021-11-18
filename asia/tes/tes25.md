@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes24)  [Next](tes26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes24)  [Next](tes26.md) 
 
 ------------------------------------------------------------------------
 
-### 4. YUKAGHIR TALE. <span id="fr_35"></span>[1](#fn_35)
+### 4. YUKAGHIR TALE. <span id="fr_35"></span>[1](#fn_35.md)
 
 There once lived an old man and his wife. They had an only son. They
 lived together for a long time. One day the old man came home from the
@@ -46,7 +46,7 @@ the chimney hole. It attacked the old man and lacerated his body with
 its sharp talons. The old man was much frightened. He left the hut and
 ran home to his old woman. He came to the house, but the door was shut
 tight. He said in the Yukaghir language, <span
-id="fr_36"></span>[1](#fn_36) "Oh, there, old woman! Open the
+id="fr_36"></span>[1](#fn_36.md) "Oh, there, old woman! Open the
 door!"--"Why should I open it? You are not my old man. My old man is
 dead."--"No," said he, "I am really your old man."--"How can that be?
 From which world, then, did you come,--from this one, or from the other
@@ -63,7 +63,7 @@ village of Pokhotsk, in the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_35"></span>[48:1](tes25.htm#fr_35) Compare various versions
+<span id="fn_35"></span>[48:1](tes25.htm#fr_35.md) Compare various versions
 of this well-known tale about Raven feigning death: Bogoras "Materials
 for the Study of the Chukchee Language and Folk-Lore collected in the
 Kolyma District" (*Edition of the Imperial Academy of Sciences*, part I.
@@ -71,10 +71,10 @@ St. Petersburg, 1900), 403; Jochelson, "The Koryak" (*Publications,
 Jesup North Pacific Expedition*, vol. 8), 326 (a Kamchadal story
 collected by W. Bogoras); etc.--W. B.
 
-<span id="fn_36"></span>[49:1](tes25.htm#fr_36) Probably in an earlier
+<span id="fn_36"></span>[49:1](tes25.htm#fr_36.md) Probably in an earlier
 version of this story the following words were really told in the
 Yukaghir language.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 5. A Bear Tale](tes26)
+[Next: 5. A Bear Tale](tes26.md)

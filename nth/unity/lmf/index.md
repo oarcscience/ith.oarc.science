@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,34 +19,34 @@ Thought](../../index)  [Unity](../index) 
 
 ------------------------------------------------------------------------
 
-[Start Reading](lmf00)    [Page Index](pageidx)    [Text
-\[Zipped\]](lmftxt.zip)
+[Start Reading](lmf00)    [Page Index](pageidx.md)    [Text
+\[Zipped\]](lmftxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](lmf00)  
-[In Appreciation](lmf01)  
-[Contents](lmf02)  
-[Myrtle Fillmore](lmf03)  
-[Jesus Christ](lmf04)  
-[Prayer](lmf05)  
-[Drawing On the Source](lmf06)  
-[Going Into the Silence](lmf07)  
-[Quickened By the Spirit](lmf08)  
-[Understanding the Body](lmf09)  
-[Day and Night Experience](lmf10)  
-[No Incurable Disease](lmf11)  
-[Permanent Prosperity](lmf12)  
-[The Subconsciousness](lmf13)  
-[Threefold Healing](lmf14)  
-[Developing Our Faculties](lmf15)  
-[Spiritual Control of the Body](lmf16)  
-[The Way to Health](lmf17)  
-[Helping Others](lmf18)  
-[Concerning Age](lmf19)  
-[Our Work](lmf20)  
-[Our Methods](lmf21)  
-[Transition](lmf22)  
-[Maternity](lmf23)  
-[To Truth Teachers](lmf24)  
-[To Married People](lmf25)  
+[Title Page](lmf00.md)  
+[In Appreciation](lmf01.md)  
+[Contents](lmf02.md)  
+[Myrtle Fillmore](lmf03.md)  
+[Jesus Christ](lmf04.md)  
+[Prayer](lmf05.md)  
+[Drawing On the Source](lmf06.md)  
+[Going Into the Silence](lmf07.md)  
+[Quickened By the Spirit](lmf08.md)  
+[Understanding the Body](lmf09.md)  
+[Day and Night Experience](lmf10.md)  
+[No Incurable Disease](lmf11.md)  
+[Permanent Prosperity](lmf12.md)  
+[The Subconsciousness](lmf13.md)  
+[Threefold Healing](lmf14.md)  
+[Developing Our Faculties](lmf15.md)  
+[Spiritual Control of the Body](lmf16.md)  
+[The Way to Health](lmf17.md)  
+[Helping Others](lmf18.md)  
+[Concerning Age](lmf19.md)  
+[Our Work](lmf20.md)  
+[Our Methods](lmf21.md)  
+[Transition](lmf22.md)  
+[Maternity](lmf23.md)  
+[To Truth Teachers](lmf24.md)  
+[To Married People](lmf25.md)  

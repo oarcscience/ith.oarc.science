@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng18)  [Next](nblng20) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng18)  [Next](nblng20.md) 
 
 ------------------------------------------------------------------------
 
@@ -268,4 +268,4 @@ France and England. See the instances quoted by Jacob Grimm in his
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XVIII: How Siegmund Journeyed Home Again.](nblng20)
+[Next: Adventure XVIII: How Siegmund Journeyed Home Again.](nblng20.md)

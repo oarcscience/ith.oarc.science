@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl10) [Next](safl12)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl10) [Next](safl12.md)
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ sees a frog it always has a great desire to swallow it."
 
 ------------------------------------------------------------------------
 
-[Next](safl12)
+[Next](safl12.md)

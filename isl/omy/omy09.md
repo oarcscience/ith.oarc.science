@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy08)  [Next](omy10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy08)  [Next](omy10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -60,11 +60,11 @@ called an Attracted Devotee (<span id="img_01902"></span>
 influenced by the attraction of God, he is called a Devotee (<span
 id="img_02000"></span> ![](img/02000.jpg)).
 
-Sheikh Sheháb-uddín <span id="fr_6"></span>[1](#fn_6), in his work
+Sheikh Sheháb-uddín <span id="fr_6"></span>[1](#fn_6.md), in his work
 entitled *’Awárif al Ma’árif*, says that an elder or teacher should be
 selected from the second class alone; for although many may be estimable
 and righteous, it is but few who are fit for such offices, or for the
-education of disciples <span id="fr_7"></span>[2](#fn_7).
+education of disciples <span id="fr_7"></span>[2](#fn_7.md).
 
 <span class="margnote">Devotion.</span>Devotion is the prosecution of
 the journey, and that in two ways, to God and in God. The first, the
@@ -99,15 +99,15 @@ part of the work which treats of the study of Man.
 
 ### Footnotes
 
-<span id="fn_6"></span>[20:1](omy09.htm#fr_6) Shiháb-ud-dín Abu Hafs
+<span id="fn_6"></span>[20:1](omy09.htm#fr_6.md) Shiháb-ud-dín Abu Hafs
 Omar bin Mohammed bin Abdallah, Soharawerdí, died A.D. 1106. See *Hajji
 Khalfa*, Vol. IV. p. 275.
 
-<span id="fn_7"></span>[20:2](omy09.htm#fr_7) <span
+<span id="fn_7"></span>[20:2](omy09.htm#fr_7.md) <span
 id="img_02001"></span> ![](img/02001.jpg) *muríd* is properly one who
 possesses the Inclination <span id="img_02002"></span>
 ![](img/02002.jpg) before mentioned.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Concerning Counsel](omy10)
+[Next: Chapter VI. Concerning Counsel](omy10.md)

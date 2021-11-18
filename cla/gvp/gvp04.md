@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp03)  [Next](gvp05) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp03)  [Next](gvp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ emotions and lower mind, and (3) the higher mind.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Sentences of Democrates](gvp05)
+[Next: The Golden Sentences of Democrates](gvp05.md)

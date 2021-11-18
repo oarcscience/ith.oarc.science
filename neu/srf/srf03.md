@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srf02)  [Next](srf04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srf02)  [Next](srf04.md) 
 
 ------------------------------------------------------------------------
 
@@ -533,4 +533,4 @@ loves and leads them all.
 
 ------------------------------------------------------------------------
 
-[Next: The Test of War](srf04)
+[Next: The Test of War](srf04.md)

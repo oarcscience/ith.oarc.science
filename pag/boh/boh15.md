@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh14)  [Next](boh16) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh14)  [Next](boh16.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ which life has not fulfilled."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: More Hallowtide Beliefs and Customs](boh16)
+[Next: Chapter XIV: More Hallowtide Beliefs and Customs](boh16.md)

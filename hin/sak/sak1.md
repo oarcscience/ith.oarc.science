@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak02) [Next](sak2)
+[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak02) [Next](sak2.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ he would urge our striving to obtain\]:
 |----------------------------------------------------|
 | <span class="small">*The subject proposed.*</span> |
 
-   <span id="pp_1"></span>*Aph*. 1.[\*](#pp_1) Well, the complete
+   <span id="pp_1"></span>*Aph*. 1.[\*](#pp_1.md) Well, the complete
 cessation of pain \[which is\] of three kinds is the complete end of
 man.
 
@@ -76,7 +76,7 @@ asked\] he declares \[as follows\]:
 |----------------------------------------------------------------------------------|
 | <span class="small">*   The end is not to be attained by ordinary means.*</span> |
 
-   <span id="pp_2"></span>*Aph*. 2.[\*](#pp_2) The effectuation of this
+   <span id="pp_2"></span>*Aph*. 2.[\*](#pp_2.md) The effectuation of this
 \[complete cessation of pain\] is not \[to be expected\] by means of the
 visible \[such as wealth, &c.\]; for we see \[on the loss of wealth,
 &c.,\] the restoration \[of the misery and evil,\] after \[its
@@ -85,7 +85,7 @@ temporary\] cessation.
 <span id="page_4">p. 4</span>
 
    <span id="pp_2a"></span>*a*. 'The visible,' in the shape of the
-drugs, &c., above-mentioned \[[§ 1. *c*.](#pp_1c)\].
+drugs, &c., above-mentioned \[[§ 1. *c*.](#pp_1c.md)\].
 
    <span id="pp_2b"></span>*b*. 'The effectuation of this,' i.e., the
 effectuation of the complete cessation of pain.
@@ -93,13 +93,13 @@ effectuation of the complete cessation of pain.
    <span id="pp_2c"></span>*c*. *Why* is it not \[to be thus effected\]?
 Because, after the cessation (the cessation of pain is understood), we
 see its restoration, the springing up again of pain in general, \[from
-whichever of its three sources ([§ 1. *b*.](#pp_1b))\].
+whichever of its three sources ([§ 1. *b*.](#pp_1b).md)\].
 
    <span id="pp_2d"></span>*d*. The state of the matter is this: not by
 the expedients above-mentioned is there such a removal of pain, that no
 pain arises thereafter; for, when, by this or that expedient, this or
 that pain has been destroyed, we see other pains springing up.
-Therefore, though it be *not* easy \[[§ 1. *c*.](#pp_1c)\], the
+Therefore, though it be *not* easy \[[§ 1. *c*.](#pp_1c.md)\], the
 knowledge of truth \[as a complete remedy\] *is* to be desired.
 
    <span id="pp_2e"></span>*e*. But then, grant that *future* pain is
@@ -114,7 +114,7 @@ also. This doubt he states \[as follows\]:
 |--------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The question whether the end may not be attained by the recurrent use of ordinary means.*</span> |
 
-   <span id="pp_3"></span>*Aph*. 3.[\*](#pp_3) \[Let us consider the
+   <span id="pp_3"></span>*Aph*. 3.[\*](#pp_3.md) \[Let us consider the
 doubt\] that the soul's desire \[the cessation of pain, may result\]
 from exertions for the obviation \[of pain\], as is the case with the
 obviation of daily hunger
@@ -134,8 +134,8 @@ recognized decision:
 |----------------------------------------------------------|
 | <span class="small">*   This negation negatived.*</span> |
 
-   <span id="pp_4"></span>*Aph*. 4.[\*](#pp_4) This \[method of
-palliatives ([§ 3](#pp_3))\] is to be rejected by those who are versed
+   <span id="pp_4"></span>*Aph*. 4.[\*](#pp_4.md) This \[method of
+palliatives ([§ 3](#pp_3).md)\] is to be rejected by those who are versed
 in evidence; because it is not everywhere possible \[to employ it at
 all\], and because, even if this *were* possible, there would be an
 impossibility as regards \[ensuring\] the perfect fitness \[of the
@@ -165,14 +165,14 @@ assertion\]:
 |-----------------------------------------------------------------------------|
 | <span class="small">*   Scriptural evidence in favour of this view.*</span> |
 
-   <span id="pp_5"></span>*Aph*. 5.[\*](#pp_5) Also \[an inferior method
+   <span id="pp_5"></span>*Aph*. 5.[\*](#pp_5.md) Also \[an inferior method
 ought not to be adopted\] because of the preeminence of Liberation \[as
 proved\] by the text \[of Scripture declaratory\] of its preeminence
 above all else.
 
    <span id="pp_5a"></span>*a*. One ought not to endeavour after the
 removal of this or that pain by these and those expedients \[[§ 1.
-*c*.](#pp_1c)\]; since Liberation (*moksha*), by being eternal, is
+*c*.](#pp_1c)\]; since Liberation (*moksha*.md), by being eternal, is
 transcendent as a remover of all pains. Moreover, one ought to endeavour
 only after the knowledge of truth, which is the means thereof \[i.e., of
 Liberation\]; because the Scripture tells its preeminence above all
@@ -195,19 +195,19 @@ then? To this he replies \[as follows\]:
 |---------------------------------------------------|
 | <span class="small">*   An objection met.*</span> |
 
-   <span id="pp_6"></span>*Aph*. 6.[\*](#pp_6) And there is no
+   <span id="pp_6"></span>*Aph*. 6.[\*](#pp_6.md) And there is no
 difference between the two.
 
    <span id="pp_6a"></span>*a*. There is no difference in the
 applicability of liberation, on either of the suppositions, that the
 bondage is essential, and that it is adventitious, \[supposing it were
-either (see [§ 19. *b*.](#pp_19b))\]. That is to say, we can tell both
+either (see [§ 19. *b*.](#pp_19b).md)\]. That is to say, we can tell both
 how the bondage takes place, and how the liberation takes place.
 
    <span id="pp_6b"></span>*b*. Now, with the view of demonstrating
 \[the real nature of\] Bondage and Liberation, he declares, exclusively,
 in the first place, the objections to Bondage's being *essential* \[[§
-5. *b*.](#pp_5b)\]:
+5. *b*.](#pp_5b.md)\]:
 
  
 
@@ -215,13 +215,13 @@ in the first place, the objections to Bondage's being *essential* \[[§
 |-----------------------------------------------------------------------------------------------------------|
 | <span class="small">*   Liberation must be possible; else the means would not have been enjoined.*</span> |
 
-   <span id="pp_7"></span>*Aph*. 7.[\*](#pp_7) There would be no rule in
+   <span id="pp_7"></span>*Aph*. 7.[\*](#pp_7.md) There would be no rule in
 the enjoining of means for the liberation of one bound *essentially*.
 
 <span id="page_9">p. 9</span>
 
    <span id="pp_7a"></span>*a*. Since Liberation has been stated \[[§
-1](#pp_1)\] to result from the complete cessation of pain, \[it follows
+1](#pp_1.md)\] to result from the complete cessation of pain, \[it follows
 that\] Bondage is the junction of pain; and this is not *essential* in
 man. For, if that were the case, then there would be no rule, i.e., no
 fitness, in the Scriptural or legal injunction of means for liberation:
@@ -237,7 +237,7 @@ through hundreds of successive births.'
 
    <span id="pp_7c"></span>*c*. \[Since some one may be disposed to
 say\] '*Grant* that there is no fitness \[in the Scriptural and legal
-injunctions, ([§ 7. *a*.](#pp_7a))\], what have we to do with *that*?'
+injunctions, ([§ 7. *a*.](#pp_7a).md)\], what have we to do with *that*?'
 Therefore he declares \[as follows\]:
 
 <span id="page_10">p. 10</span>
@@ -248,7 +248,7 @@ Therefore he declares \[as follows\]:
 |---------------------------------------------------------------------------------------|
 | <span class="small">*   Scripture would be nugatory, if pain were inevitable.*</span> |
 
-   <span id="pp_8"></span>*Aph*. 8.[\*](#pp_8) Since an essential nature
+   <span id="pp_8"></span>*Aph*. 8.[\*](#pp_8.md) Since an essential nature
 is imperishable, unauthoritativness, betokened by impracticableness,
 \[would be chargeable against the Scripture, if pain were essential to
 humanity\].
@@ -277,7 +277,7 @@ follows\]:
 |-------------------------------------------------------------------------|
 | <span class="small">*   An impracticable injunction is no rule.*</span> |
 
-   <span id="pp_9"></span>*Aph*. 9.[\*](#pp_9) There is no rule, where
+   <span id="pp_9"></span>*Aph*. 9.[\*](#pp_9.md) There is no rule, where
 something impossible is enjoined: though it *be* enjoined, it is no
 injunction.
 
@@ -296,13 +296,13 @@ make one see sense in an absurdity: such is the meaning.
 |---------------------------------------------------------------------------------|
 | <span class="small">*   A doubt whether the essential be not removable.*</span> |
 
-   <span id="pp_10"></span>*Aph*. 10.[\*](#pp_10) If \[some one says\]
+   <span id="pp_10"></span>*Aph*. 10.[\*](#pp_10.md) If \[some one says\]
 as in the case of white cloth, or of a seed, \[something essential may
 be not irremovable, then he will find his answer in the next aphorism\].
 
    <span id="pp_10a"></span>*a*. But then \[the doubter is supposed to
 argue\], the destruction even of what is essential \[in spite of what is
-stated under [§ 7](#pp_7)\] *is* seen; as, for example, the essential
+stated under [§ 7](#pp_7.md)\] *is* seen; as, for example, the essential
 whiteness of white cloth is removed by dyeing, and the essential power
 of germination in a seed is removed by <span id="page_12">p. 12</span>
 fire. Therefore, according to the analogy of the white cloth and the
@@ -321,21 +321,21 @@ case, with reference to the doubt just raised\]:
 |-----------------------------------------------------------------------------------------------------|
 | <span class="small">*   Decision that an essential property may be hidden, but not removed.*</span> |
 
-   <span id="pp_11"></span>*Aph*. 11.[\*](#pp_11) Since both
+   <span id="pp_11"></span>*Aph*. 11.[\*](#pp_11.md) Since both
 perceptibleness and \[subsequent\] non-perceptibleness may belong to
 some power \[which is indestructible\], it is not something
 *impracticable* that is enjoined, \[when one is directed to render some
-indestructible<span id="page_12_fr_*"></span>[\*](#page_12_note_*) power
+indestructible<span id="page_12_fr_*"></span>[\*](#page_12_note_*.md) power
 imperceptible\].
 
    <span id="pp_11a"></span>*a*. In regard even to the two examples
-above-mentioned \[[§ 10](#pp_10)\], people do not give an injunction for
+above-mentioned \[[§ 10](#pp_10.md)\], people do not give an injunction for
 \[the positive destruction of\]<span
-id="page_12_fr_**"></span>[\*\*](#page_12_note_**) something essential,
-which is indestructible \[[§ 8](#pp_8)\]. Why \[do we say this\]?
+id="page_12_fr_**"></span>[\*\*](#page_12_note_**.md) something essential,
+which is indestructible \[[§ 8](#pp_8.md)\]. Why \[do we say this\]?
 Because, in these two <span id="page_13">p. 13</span> instances of the
 perceptibleness and non-perceptibleness of a power \[the powers, namely,
-of appearing white and of germinating (see [§ 10. *a*.](#pp_10a))\],
+of appearing white and of germinating (see [§ 10. *a*.](#pp_10a).md)\],
 there are merely the manifestation and \[afterwards\] the *hiding* of
 the whiteness, &c., but not the *removal* of the whiteness, or of the
 power of germination; because, that is to say, the whiteness of the dyed
@@ -357,7 +357,7 @@ that it is the result of some \[adherent\] *cause*, be rejects the
 |-----------------------------------------------------------------------------------------------------------|
 | <span class="small">*   Time, which applies to all, cannot be the cause of the bondage of a part.*</span> |
 
-   <span id="pp_12"></span>*Aph*. 12.[\*](#pp_12) Not from connexion
+   <span id="pp_12"></span>*Aph*. 12.[\*](#pp_12.md) Not from connexion
 with *time* \[does bondage befall the soul\]; because this,
 all-pervading and eternal, is \[eternally\] associated with *all*, \[and
 not with those alone who are in bondage\].
@@ -374,7 +374,7 @@ with all men, \[and must, therefore, bring *all* into bondage, if any\].
 |----------------------------------------------------------------------------------|
 | <span class="small">*   Place, for the same reason, cannot be the cause.*</span> |
 
-   <span id="pp_13"></span>*Aph*. 13.[\*](#pp_13) Nor \[does bondage
+   <span id="pp_13"></span>*Aph*. 13.[\*](#pp_13.md) Nor \[does bondage
 arise\] from connexion with *place*, either, for the same \[reason\]
 
    <span id="pp_13a"></span>*a*. That is to say: bondage does not arise
@@ -390,7 +390,7 @@ is connected with *all* men, whether liberated <span id="page_15">p.
 |-------------------------------------------------------------------------------------------|
 | <span class="small">*   The soul is not kept in bondage by its being conditioned.*</span> |
 
-   <span id="pp_14"></span>*Aph*. 14.[\*](#pp_14) Nor \[does the bondage
+   <span id="pp_14"></span>*Aph*. 14.[\*](#pp_14.md) Nor \[does the bondage
 of the soul arise\] from its being conditioned \[by its standing among
 circumstances that clog it by limiting it\]; because *that* is the fact
 in regard to \[not the soul, but\] the *body*.
@@ -414,7 +414,7 @@ mistakes\], he declares:
 |-------------------------------------------------------|
 | <span class="small">*   The soul is absolute.*</span> |
 
-   <span id="pp_15"></span>*Aph*. 15.[\*](#pp_15) Because this soul is
+   <span id="pp_15"></span>*Aph*. 15.[\*](#pp_15.md) Because this soul is
 \[unassociated with any conditions or circumstances that could serve as
 its bonds, it is\] absolute.
 
@@ -429,10 +429,10 @@ soul is unassociated, it belongs only to the body to be conditioned.
 |-----------------------------------------------------------------------------|
 | <span class="small">*   The fruit of works belongs not to the soul.*</span> |
 
-   <span id="pp_16"></span>*Aph*. 16.[\*](#pp_16) Nor \[does the bondage
+   <span id="pp_16"></span>*Aph*. 16.[\*](#pp_16.md) Nor \[does the bondage
 of soul arise\] from any work; because \[works are\] the property of
 another \[viz., the mind\], and because it \[the bondage\] would be
-eternal,<span id="page_16_fr_3"></span>[3](#page_16_note_3) \[if the
+eternal,<span id="page_16_fr_3"></span>[3](#page_16_note_3.md) \[if the
 case were as you imagine\].
 
 <span id="page_17">p. 17</span>
@@ -447,7 +447,7 @@ befall even the liberated, \[through some acts of some one else\].
    <span id="pp_16b"></span>*b*. But then \[some one may say\], this
 objection does not apply, if we hold that bondage may arise from the
 acts of the *associate*<span
-id="page_17_fr_2"></span>[2](#page_17_note_2) \[viz., the mental
+id="page_17_fr_2"></span>[2](#page_17_note_2.md) \[viz., the mental
 organ\]: so, with allusion to this, he states another reason, 'and
 because it would be eternal,' i.e., because bondage, in the shape of
 connexion with pain, would occur \[where it does not,\] even in such
@@ -473,7 +473,7 @@ reference to this doubt, he declares \[as follows\]:
 |-------------------------------------------------------------------------------------|
 | <span class="small">*   Why it is to the soul that the bondage must belong.*</span> |
 
-   <span id="pp_17"></span>*Aph*. 17.[\*](#pp_17) If it were the
+   <span id="pp_17"></span>*Aph*. 17.[\*](#pp_17.md) If it were the
 property of any other, then there could not be diverse experience.
 
    <span id="pp_17a"></span>*a*. If bondage, in the shape of connexion
@@ -500,7 +500,7 @@ theory\].
 |------------------------------------------------------------------------------------------|
 | <span class="small">*   Nature is not the immediate cause of the soul's bondage.*</span> |
 
-   <span id="pp_18"></span>*Aph*. 18.[\*](#pp_18) If \[you say that the
+   <span id="pp_18"></span>*Aph*. 18.[\*](#pp_18.md) If \[you say that the
 soul's bondage arises\] from Nature, as its cause, \[then I say\] 'no;'
 \[because\] that, also, is a dependent thing.
 
@@ -516,7 +516,7 @@ altogether disconnected from the phenomenal\].
 <span id="page_20">p. 20</span>
 
    <span id="pp_18b"></span>*b*. If the reading \[in the aphorism\] be
-*nibandhaná*<span id="page_20_fr_1"></span>[1](#page_20_note_1) \[in the
+*nibandhaná*<span id="page_20_fr_1"></span>[1](#page_20_note_1.md) \[in the
 1st case, and not in the 5th\], then the construction will be as
 follows: 'If \[you say that\] the bondage is caused by Nature,' &c.
 
@@ -540,13 +540,13 @@ erroneous notions in regard to the matter; for there are more to come\]:
 |-----------------------------------------------------------------------------------------|
 | <span class="small">*   What really is the relation of its bondage to the soul.*</span> |
 
-   <span id="pp_19"></span>*Aph*. 19.[\*](#pp_19) \[But\] not without
+   <span id="pp_19"></span>*Aph*. 19.[\*](#pp_19.md) \[But\] not without
 the conjunction thereof \[i.e., of Nature\] is there the connexion of
 that \[i.e., of pain\] with that \[viz., the soul,\] which is ever
 essentially a pure and free intelligence.
 
    <span id="pp_19a"></span>*a*. Therefore,<span
-id="page_21_fr_1"></span>[1](#page_21_note_1) without the conjunction
+id="page_21_fr_1"></span>[1](#page_21_note_1.md) without the conjunction
 thereof, i.e., without the conjunction of Nature, there is not, to the
 soul, any connexion with that, i.e., any connexion with bondage; but,
 moreover, just through that \[connexion with Nature\] does bondage take
@@ -564,15 +564,15 @@ brick-kiln has been extinguished, whereas the red colour occasioned in a
 crystal vase by a China-rose, while it occurs *not without* the
 China-rose, ceases, on the removal thereof\]. Hence, as bondage ceases,
 on the disjunction \[of the soul\] from Nature, the bondage is merely
-reflexional, and neither essential \[[§ 5. *b*.](#pp_5b)\] nor
-adventitious \[[§ 11. *b*.](#pp_11b)\].
+reflexional, and neither essential \[[§ 5. *b*.](#pp_5b.md)\] nor
+adventitious \[[§ 11. *b*.](#pp_11b.md)\].
 
 <span id="page_22">p. 22</span>
 
    <span id="pp_19c"></span>*c*. In order that there may not be such an
 error as thot of the Vaiśeshikas, viz., \[the opinion that there is\] an
 absolutely real conjunction \[of the soul\] with pain, he says 'which is
-ever,' &c. \[[§ 19](#pp_19)\]. That is to say: as the connexion of
+ever,' &c. \[[§ 19](#pp_19.md)\]. That is to say: as the connexion of
 *colour* with essentially pure crystal does not take place without the
 conjunction of the China-rose \[the hue of which, seen athwart the
 crystal, seems to belong to the crystal\], just so the connexion of
@@ -594,14 +594,14 @@ perpetual liberatedness means the being ever dissociated from *real*
 pain: that is to say, the connexion with pain in the shape of a
 *reflexion* is not a real bondage, \[any more than the reflexion of the
 China-rose is a real stain in the crystal\].<span
-id="page_23_fr_*"></span>[\*](#page_23_note_*)
+id="page_23_fr_*"></span>[\*](#page_23_note_*.md)
 
    <span id="pp_19f"></span>*f*. And so the maker of the aphorism means,
 that the cause of its bondage is just a particular *conjunction* \[[§
-19. *c*.](#pp_19c)\]. And now enough as to that point.
+19. *c*.](#pp_19c.md)\]. And now enough as to that point.
 
    <span id="pp_19g"></span>*g*. Now he rejects \[[§ 18.
-*d*.](#pp_18d)\] certain causes of \[the soul's\] bondage, preferred by
+*d*.](#pp_18d.md)\] certain causes of \[the soul's\] bondage, preferred by
 others:
 
 <span id="page_24">p. 24</span>
@@ -612,14 +612,14 @@ others:
 |----------------------------------------------------------------------------|
 | <span class="small">*   The Vedántic tenet on this point disputed.*</span> |
 
-   <span id="pp_20"></span>*Aph*. 20.[\*](#pp_20) Not from Ignorance,
+   <span id="pp_20"></span>*Aph*. 20.[\*](#pp_20.md) Not from Ignorance,
 too, \[does the soul's bondage arise\]; because that which is not a
 reality is not adapted to binding.
 
    <span id="pp_20a"></span>*a*. The word 'too' is used with reference
-to the previously mentioned 'Time,' &c., \[[§ 12](#pp_12), which had
+to the previously mentioned 'Time,' &c., \[[§ 12](#pp_12.md), which had
 been rejected, as causes of the bondage, antecedently to the statement,
-in [§ 19](#pp_19), of the received cause\].
+in [§ 19](#pp_19.md), of the received cause\].
 
    <span id="pp_20b"></span>*b*. Neither, too, does \[the soul's\] union
 with bondage result directly from 'Ignorance,' as is the opinion of
@@ -637,7 +637,7 @@ some assert\], then he declares \[as follows\]:
 |------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The Vedántí cannot evade the objection, without stultifying himself.*</span> |
 
-   <span id="pp_21"></span>*Aph*. 21.[\*](#pp_21) If it \['Ignorance'\]
+   <span id="pp_21"></span>*Aph*. 21.[\*](#pp_21.md) If it \['Ignorance'\]
 *be* \[asserted, by you, to be\] a reality, then there is an abandonment
 of the \[Vedántíc\] tenet, \[by you who profess to follow the Vedánta\].
 
@@ -645,7 +645,7 @@ of the \[Vedántíc\] tenet, \[by you who profess to follow the Vedánta\].
 
    <span id="pp_21a"></span>*a*. That is to say: and, if you agree that
 'Ignorance' *is* a reality, then you abandon your own implied dogma<span
-id="page_25_fr_*"></span>[\*](#page_25_note_*) \[see Nyáya Aphorisms I.,
+id="page_25_fr_*"></span>[\*](#page_25_note_*.md) \[see Nyáya Aphorisms I.,
 § 31\] of the unreality of Ignorance;' \[and so you stultify yourself\].
 
    <span id="pp_21b"></span>*b*. He states another objection:
@@ -656,7 +656,7 @@ id="page_25_fr_*"></span>[\*](#page_25_note_*) \[see Nyáya Aphorisms I.,
 |------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The Vedántí cannot evade the objection, without conceding a duality.*</span> |
 
-   <span id="pp_22"></span>*Aph*. 22.[\*](#pp_22) And \[if you assume
+   <span id="pp_22"></span>*Aph*. 22.[\*](#pp_22.md) And \[if you assume
 'Ignorance' to be a reality, then\] there would be a *duality*, through
 \[there being\] something of a different kind \[from soul; which you
 asserters of *non-duality* cannot contemplate allowing\].
@@ -678,7 +678,7 @@ through there being something of a different kind.
 |---------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The Vedántí must not allege tha 'Ignorance' is at once real and unreal.*</span> |
 
-   <span id="pp_23"></span>*Aph*. 23.[\*](#pp_23) If \[the Vedántí
+   <span id="pp_23"></span>*Aph*. 23.[\*](#pp_23.md) If \[the Vedántí
 alleges, regarding 'Ignorance,' that\] it is in the shape of both these
 opposites, \[then we shall say 'no,' for the reason to be assigned in
 the next aphorism\].
@@ -697,7 +697,7 @@ something at once real and unreal, \[like Plato's ὂν καὶ μὴ ὄν: (se
 |--------------------------------------------------------------------------------------------|
 | <span class="small">*   There is no such thing as a thing at once real and unreal.*</span> |
 
-   <span id="pp_24"></span>*Aph*. 24.[\*](#pp_24) \[To the suggestion
+   <span id="pp_24"></span>*Aph*. 24.[\*](#pp_24.md) \[To the suggestion
 that 'Ignorance' is at once real and unreal we say\] 'no;' because no
 such thing is known \[as is at once real and unreal.\]
 
@@ -723,7 +723,7 @@ fire is to be met with on the culinary hearth?\]: such is the import.
 |------------------------------------------------------------------------------------------------------|
 | <span class="small">*   A question whether the Vedántí is bound to avoid self-contradiction.*</span> |
 
-   <span id="pp_25"></span>*Aph*. 25.[\*](#pp_25) \[Possibly the Vedántí
+   <span id="pp_25"></span>*Aph*. 25.[\*](#pp_25.md) \[Possibly the Vedántí
 may remonstrate\] '*We* are not asserters of any Six Categories, like
 the *Vaiśeshikas* and others.'
 
@@ -752,13 +752,13 @@ the objection, by disallowing the categories of the Nyáya\]:
 |------------------------------------------------------------------------------------|
 | <span class="small">*   The self-contradictory is altogether inadmissible.*</span> |
 
-   <span id="pp_26"></span>*Aph*. 26.[\*](#pp_26) Even although this be
+   <span id="pp_26"></span>*Aph*. 26.[\*](#pp_26.md) Even although this be
 not compulsory \[that the categories be six, or sixteen\], there is no
 acceptance of the inconsistent; else we come to the level of children,
 and madmen, and the like.
 
    <span id="pp_26a"></span>*a*. Let there be \[accepted\] no system of
-categories \[such as that of the *Vaiśeshika,* [§ 25](#pp_25)\]; still,
+categories \[such as that of the *Vaiśeshika,* [§ 25](#pp_25.md)\]; still,
 since *being* and *not-being* are contradictory, it is impossible for
 disciples to <span id="page_29">p. 29</span> admit, merely on Your
 Worship's assertion, a thing at once real and unreal, which is
@@ -771,7 +771,7 @@ authority of the Vedas\] assert that there exist external objects of
 momentary duration \[individuaily; each being, however, replaced by its
 facsimile the next instant, so that the uninterrupted series of
 productions becomes something equivalent to continuous duration\], and
-that by the influence<span id="page_29_fr_2"></span>[2](#page_29_note_2)
+that by the influence<span id="page_29_fr_2"></span>[2](#page_29_note_2.md)
 of these the bondage of the soul \[is occasioned\]. This he objects to,
 \[as follows\]:
 
@@ -783,7 +783,7 @@ of these the bondage of the soul \[is occasioned\]. This he objects to,
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The heretical theory of a succession of momentary objects from all eternity, as causing the soul's bondage, rejected.*</span> |
 
-   <span id="pp_27"></span>*Aph*. 27.[\*](#pp_27) \[The bondage\]
+   <span id="pp_27"></span>*Aph*. 27.[\*](#pp_27.md) \[The bondage\]
 thereof moreover, is not caused by any influence of objects from all
 eternity.
 
@@ -804,7 +804,7 @@ been occasioned: such is the meaning.
 |---------------------------------------------------------------------|
 | <span class="small">*   A thing cannot act where it is not.*</span> |
 
-   <span id="pp_28"></span>*Aph*. 28.[\*](#pp_28) Also \[in my opinion,
+   <span id="pp_28"></span>*Aph*. 28.[\*](#pp_28.md) Also \[in my opinion,
 as well as in yours, apparently\], between the external and the internal
 there is not the relation of influenced and influencer; because there is
 a local separation; as there is between him that stays at Srughna and
@@ -823,7 +823,7 @@ or that of flowers and the flower-basket \[to which they impart their
 odour.\]
 
    <span id="pp_28b"></span>*b*. By the word 'also' the absence or
-conjunction \[between the soul and objects (see [§ 10](#pp_10))\], &c.,
+conjunction \[between the soul and objects (see [§ 10](#pp_10).md)\], &c.,
 which he himself holds, is connected \[with the matter of the present
 aphorism\].
 
@@ -844,7 +844,7 @@ Worship.' Therefore he declares \[as follows\]:
 |----------------------------------------------------------------------------------------------------------|
 | <span class="small">*   On the heretical view, the free soul would be equally liable to bondage.*</span> |
 
-   <span id="pp_29"></span>*Aph*. 29.[\*](#pp_29) \[It is impossible
+   <span id="pp_29"></span>*Aph*. 29.[\*](#pp_29.md) \[It is impossible
 that the soul's bondage should arise\] from an influence received in the
 same place \[where the object is; because, in that case\], there would
 be no distinction between the two, \[the bond and the free\].
@@ -868,9 +868,9 @@ meaning.
 |------------------------------------------------------------------|
 | <span class="small">*   The heretic's attempted defence.*</span> |
 
-   <span id="pp_30"></span>*Aph*. 30.[\*](#pp_30) If \[the heretic,
+   <span id="pp_30"></span>*Aph*. 30.[\*](#pp_30.md) If \[the heretic,
 wishing to save his theory suggests that a difference between the two
-cases (see [§ 29](#pp_29)) *does* exist\] in virtue of the *unseen*,
+cases (see [§ 29](#pp_29).md) *does* exist\] in virtue of the *unseen*,
 \[i.e., of merit and demerit, then he will find his answer in the next
 aphorism\].
 
@@ -894,19 +894,19 @@ circumstanced\]': if \[*this* be urged, then we look forward\].
 |---------------------------------------------------------------------|
 | <span class="small">*   Each back must bear its own burden.*</span> |
 
-   <span id="pp_31"></span>*Aph*. 31.[\*](#pp_31) They cannot stand in
+   <span id="pp_31"></span>*Aph*. 31.[\*](#pp_31.md) They cannot stand in
 the relation of deserver and bestower, since the two do not belong to
 one and the same time.
 
    <span id="pp_31a"></span>*a*. Since, in thy opinion, the agent and
 the patient are distinct, and do not belong to the same time
 \[believing, as thou heretically dost, not only that *objects* (see [§
-26. *b*.](#pp_26b)) momentarily perish and are replaced, but that the
+26. *b*.](#pp_26b).md) momentarily perish and are replaced, but that the
 duration of *souls*, also, is of a like description\], there is
 positively no such relation \[between the soul at one time and its
 successor at another\] as that of deserver and bestower \[or transmitter
 of its merits or demerits\]; because it is impossible that there should
-be an influence of objects \[[§ 27](#pp_27)\] taking effect on a patient
+be an influence of objects \[[§ 27](#pp_27.md)\] taking effect on a patient
 \[say, the soul of to-day\], occasioned by the 'unseen' \[merit or
 demerit\] belonging to an agent \[say, the soul of yesterday, which, on
 the hypothesis in question, is a numerically different individual\]:
@@ -920,7 +920,7 @@ such is the meaning.
 |----------------------------------------------------------------------------|
 | <span class="small">*   Whether merit may, or may not, be imputed.*</span> |
 
-   <span id="pp_32"></span>*Aph*. 32.[\*](#pp_32) If \[the heretic
+   <span id="pp_32"></span>*Aph*. 32.[\*](#pp_32.md) If \[the heretic
 suggests that\] the case is like that of the ceremonies in regard to a
 son, \[then he will find his reply by looking forward\].
 
@@ -945,7 +945,7 @@ illustration is not a fact:
 |----------------------------------------------------------------------------|
 | <span class="small">*   This will not help the heretic's argument.*</span> |
 
-   <span id="pp_33"></span>*Aph*. 33.[\*](#pp_33) \[Your illustration
+   <span id="pp_33"></span>*Aph*. 33.[\*](#pp_33.md) \[Your illustration
 proves nothing;\] for, in that case, there is no one permanent soul
 which could be consecrated by the ceremonies in anticipation of
 conception, &c.
@@ -953,7 +953,7 @@ conception, &c.
    <span id="pp_33a"></span>*a*. 'In that case,' i.e., on thy theory,
 too, the benefit of <span id="page_36">p. 36</span> the son, by \[means
 of the performance of\]<span
-id="page_36_fr_1"></span>[1](#page_36_note_1) the ceremonies in
+id="page_36_fr_1"></span>[1](#page_36_note_1.md) the ceremonies in
 anticipation of conception, &c., could not take place; 'for,' i.e.,
 because, on that theory, there is not one \[self-identical\] soul,
 continuing from the \[time of\] conception to birth, which could be
@@ -989,7 +989,7 @@ aphorism\]:
 |------------------------------------------------------------------------------------------------|
 | <span class="small">*   Whether bondage may not be momentary, and so require no cause.*</span> |
 
-   <span id="pp_34"></span>*Aph*. 34.[\*](#pp_34) Since there is no such
+   <span id="pp_34"></span>*Aph*. 34.[\*](#pp_34.md) Since there is no such
 thing as a permanent result \[on the heretical view\], the momentariness
 \[of bondage, also, is to be admitted\].
 
@@ -1010,11 +1010,11 @@ application \[of the argument, viz.\]:
 
    <span id="pp_34c"></span>*c*. And \[continues the heretic,\] this
 \[reason, viz., 'existence'\] does not extend *unduly*<span
-id="page_38_fr_1"></span>[1](#page_38_note_1) \[as you may object,\] to
+id="page_38_fr_1"></span>[1](#page_38_note_1.md) \[as you may object,\] to
 the case of a jar, or the like; because *that*, also \[in my opinion\],
 is like the subject in dispute; \[in being momentary\]. This \[in fact\]
 is precisely what is asserted in the expression, 'since there is *no
-such thing* as a permanent result' \[[§ 34](#pp_34)\].
+such thing* as a permanent result' \[[§ 34](#pp_34.md)\].
 
    <span id="pp_34d"></span>*d*. He objects \[to this heretical view\]:
 
@@ -1024,13 +1024,13 @@ such thing* as a permanent result' \[[§ 34](#pp_34)\].
 |-----------------------------------------------------------------------------------------------|
 | <span class="small">*   The fact of recognition proves that things are not momentary.*</span> |
 
-   <span id="pp_35"></span>*Aph*. 35.[\*](#pp_35) No, \[things are *not*
+   <span id="pp_35"></span>*Aph*. 35.[\*](#pp_35.md) No, \[things are *not*
 momentary in their duration\]; for the absurdity of this is proved by
 *recognition*.
 
    <span id="pp_35a"></span>*a*. That is to say: nothing is momentary;
 because the absurdity of its being momentary follows from the opposite
-argument \[to that under [§ 34. *b*.](#pp_34b)\]. taken from such facts
+argument \[to that under [§ 34. *b*.](#pp_34b.md)\]. taken from such facts
 of recognition as, 'what I saw, that same do I touch,' \[an argument
 which may be stated as follows\], viz.:
 
@@ -1046,7 +1046,7 @@ which may be stated as follows\], viz.:
 |-------------------------------------------------------------------------------------------------------|
 | <span class="small">*   That things are momentary is contradicted by Scripture and reasoning.*</span> |
 
-   <span id="pp_36"></span>*Aph*. 36.[\*](#pp_36) And \[things are not
+   <span id="pp_36"></span>*Aph*. 36.[\*](#pp_36.md) And \[things are not
 momentary;\] because this is contradicted by Scripture and reasoning.
 
    <span id="pp_36a"></span>*a*. That is to say: nothing is momentary;
@@ -1062,7 +1062,7 @@ exists proceed from the non-existent?'
 |----------------------------------------------------------------------------|
 | <span class="small">*   The heretic's illustration is not a truth.*</span> |
 
-   <span id="pp_37"></span>*Aph*. 37.[\*](#pp_37) And \[we reject the
+   <span id="pp_37"></span>*Aph*. 37.[\*](#pp_37.md) And \[we reject the
 argument of this heretic;\] because his instance is not a fact.
 
 <span id="page_40">p. 40</span>
@@ -1071,7 +1071,7 @@ argument of this heretic;\] because his instance is not a fact.
 of the momentariness \[of all things\] is denied; because this momentary
 churacter does not \[in fact\] belong to the apex of the lamp-flame,
 &c., the instance \[on which thou, heretic, dost ground thy
-generalization, ([§ 34. *b*.](#pp_34b))\]. Moreover, thou quite errest
+generalization, ([§ 34. *b*.](#pp_34b).md)\]. Moreover, thou quite errest
 in regard to momentariness, in that instance, from not taking account of
 the minute and numerous instants \[really included in a duration which
 seems to thee momentary\]: such is the import.
@@ -1098,7 +1098,7 @@ declares \[as follows\]:
 |------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The causal relation is not between things that arise simultaneously.*</span> |
 
-   <span id="pp_38"></span>*Aph*. 38.[\*](#pp_38) It is not between two
+   <span id="pp_38"></span>*Aph*. 38.[\*](#pp_38.md) It is not between two
 things coming simultaneously into existence, that the relation of cause
 and effect exists.
 
@@ -1117,7 +1117,7 @@ declares \[as follows\]:
 |---------------------------------------------------------------------------------|
 | <span class="small">*   A product cannot survive its substantial cause.*</span> |
 
-   <span id="pp_39"></span>*Aph*. 39.[\*](#pp_39) Because, when the
+   <span id="pp_39"></span>*Aph*. 39.[\*](#pp_39.md) Because, when the
 antecedent departs the consequent is unfit \[to arise, and survive it\].
 
    <span id="pp_39a"></span>*a*. The relation of cause and effect is,
@@ -1139,28 +1139,28 @@ objection \[to the theory of the momentary duration of things\]:
 |-----------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The coexistence of substance and product is impossible, if things be momentary.*</span> |
 
-   <span id="pp_40"></span>*Aph*. 40.[\*](#pp_40) Moreover, not \[on the
+   <span id="pp_40"></span>*Aph*. 40.[\*](#pp_40.md) Moreover, not \[on the
 theory of the momentary duration of things can there be such a relation
 as that of cause and effect\]; because, while the one \[the antecedent\]
 exists, the other \[the consequent\] is incompatible, because the two
-keep always asunder.<span id="page_42_fr_3"></span>[3](#page_42_note_3)
+keep always asunder.<span id="page_42_fr_3"></span>[3](#page_42_note_3.md)
 
    <span id="pp_40a"></span>*a*. To complete \[the aphorism\], we must
 say, 'moreover, \[on the theory objected to\], there can be no such
 relation as that of cause and effect; because, at the time when the
 antecedent exists, the consequent cannot coexist with it, the two being
-mutually exclusive.'<span id="page_42_fr_4"></span>[4](#page_42_note_4)
+mutually exclusive.'<span id="page_42_fr_4"></span>[4](#page_42_note_4.md)
 The two suggesters of the relation of cause and effect, in product and
 <span id="page_43">p. 43</span> substance,<span
-id="page_43_fr_1"></span>[1](#page_43_note_1) are (1) concomitancy of
+id="page_43_fr_1"></span>[1](#page_43_note_1) are (1.md) concomitancy of
 affirmatives, that, while the product exists, the substance thereof
 exists, and (2) this concomitancy of negatives,<span
-id="page_43_fr_2"></span>[2](#page_43_note_2) that, when the substance
+id="page_43_fr_2"></span>[2](#page_43_note_2.md) that, when the substance
 no longer exists, the product no longer exists: and these two
 \[conditions, on *your* theory\] cannot be; because, since things \[in
 your opinion,\] are momentary in their duration, the two \[viz., the
 substance and the product\], inasmuch as they are antecedent and
-consequent,<span id="page_43_fr_3"></span>[3](#page_43_note_3) belong to
+consequent,<span id="page_43_fr_3"></span>[3](#page_43_note_3.md) belong to
 opposite times, \[and cannot, therefore, coexist; for the product,
 according to you, does not come into existence until its substance has
 perished, which is contrary to the nature of the causal relation just
@@ -1179,7 +1179,7 @@ of its *antecedence*.' To this he replies:
 |-----------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   Antecedence to the product does not distinguish the Matter from the Instrument.*</span> |
 
-   <span id="pp_41"></span>*Aph*. 41.[\*](#pp_41) If there were merely
+   <span id="pp_41"></span>*Aph*. 41.[\*](#pp_41.md) If there were merely
 *antecedence*, then there would be no determination \[of a substantial
 or material cause, as distinguished from an instrumental cause\].
 
@@ -1207,7 +1207,7 @@ rejects the opinion of these \[heretics\]:
 |------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   We have the evidence of Intuition for the External, as well as for the Internal.*</span> |
 
-   <span id="pp_42"></span>*Aph*. 42.[\*](#pp_42) Not Thought alone
+   <span id="pp_42"></span>*Aph*. 42.[\*](#pp_42.md) Not Thought alone
 exists; because there is the intuition of the external.
 
    <span id="pp_42a"></span>*a*. That is to say: the *reality* is not
@@ -1226,7 +1226,7 @@ he replies:
 |---------------------------------------------------------------------------------|
 | <span class="small">*   The denial of the external amounts to Nihilism.*</span> |
 
-   <span id="pp_43"></span>*Aph*. 43.[\*](#pp_43) Then, since, if the
+   <span id="pp_43"></span>*Aph*. 43.[\*](#pp_43.md) Then, since, if the
 one does not exist, the other does not exist, there is a void, \[i.e.,
 nothing exists at all\].
 
@@ -1251,7 +1251,7 @@ crest-gem of the heretics rise up in opposition:
 |------------------------------------------------------------------------------------------|
 | <span class="small">*   The heretic goes the length of asserting sheer Nihilism.*</span> |
 
-   <span id="pp_44"></span>*Aph*. 44.[\*](#pp_44) The reality is a void:
+   <span id="pp_44"></span>*Aph*. 44.[\*](#pp_44.md) The reality is a void:
 what is perishes; because to perish is the habit of things.
 
    <span id="pp_44a"></span>*a*. The void alone \[says this prince of
@@ -1276,7 +1276,7 @@ such is the meaning.
 |-------------------------------------------------------------------------------------------|
 | <span class="small">*   Nihilism denied; as the indiscerptible is indestructible.*</span> |
 
-   <span id="pp_45"></span>*Aph*. 45.[\*](#pp_45) This is a mere
+   <span id="pp_45"></span>*Aph*. 45.[\*](#pp_45.md) This is a mere
 counter-assertion of unintelligent persons.
 
    <span id="pp_45a"></span>*a*. 'Of unintelligent persons,' i.e., of
@@ -1302,23 +1302,23 @@ heretical view\]:
 |-----------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   Nihilism is open to the same objections as both the Momentary and the Ideal theories.*</span> |
 
-   <span id="pp_46"></span>*Aph*. 46.[\*](#pp_46) Moreover, this
+   <span id="pp_46"></span>*Aph*. 46.[\*](#pp_46.md) Moreover, this
 \[nihilistic theory is not a right one\]; because it has the same
 fortune as both the views \[which were confuted just before\].
 
 <span id="page_49">p. 49</span>
 
-   <span id="pp_46a"></span>*a*. This view, moreover \[[§ 44](#pp_44)\],
+   <span id="pp_46a"></span>*a*. This view, moreover \[[§ 44](#pp_44.md)\],
 is not a good one; because it has the same fortune as, i.e., is open to
 similar reasons for rejection as, the theory that external things are
-momentary \[[§ 26. *b*.](#pp_26b)\], and as the theory that nothing
-exists besides Thought \[[§ 41. *b*.](#pp_41b)\]. The reason for the
+momentary \[[§ 26. *b*.](#pp_26b.md)\], and as the theory that nothing
+exists besides Thought \[[§ 41. *b*.](#pp_41b.md)\]. The reason for the
 rejection of the theory that things are momentary in their duration.
-viz. \[as stated in [§ 35](#pp_35)\], the fact of *recognition*, &c.,
+viz. \[as stated in [§ 35](#pp_35.md)\], the fact of *recognition*, &c.,
 \[which is, at least, as little consistent with Nihilism as it is with
 the momentary duration of things\], and the reason for the rejection of
 the theory that nothing exists besides Thought. viz. \[as stated in [§
-42](#pp_42)\], the intuition of the external, &c., apply equally here
+42](#pp_42.md)\], the intuition of the external, &c., apply equally here
 \[in the case of Nihilism\]: such is the import.
 
    <span id="pp_46b"></span>*b*. Moreover, as for the opinion which is
@@ -1338,7 +1338,7 @@ hardly be: so he declares \[as follows\]:
 |--------------------------------------------------------------------|
 | <span class="small">*   The soul's aim is not annihilition*</span> |
 
-   <span id="pp_47"></span>*Aph*. 47.[\*](#pp_47) In neither way
+   <span id="pp_47"></span>*Aph*. 47.[\*](#pp_47.md) In neither way
 \[whether as a means, or as an end,\] is this \[annihilation\] the
 soul's aim.
 
@@ -1348,7 +1348,7 @@ presenting the means for the cessation of pain,' \[says the heretic. And
 this cannot be; because the \[whole\] world agrees, that the aim of the
 soul consists in the joys, &c., that shall abide *in it*; that is to
 say, because \[*they* hold, while\] *you* do not hold, that there is a
-*permanent* soul, \[(see [§ 33](#pp_33)) in respect of which the
+*permanent* soul, \[(see [§ 33](#pp_33).md) in respect of which the
 liberation or beatification would be possible, or even predicable\].
 
    <span id="pp_47b"></span>*b*. Now \[certain\] other things, also,
@@ -1362,7 +1362,7 @@ unbelievers, and\] already rejected, are to be set aside:
 |---------------------------------------------------------------------------------------|
 | <span class="small">*   It is by no movement that the soul gets into bondage.*</span> |
 
-   <span id="pp_48"></span>*Aph*. 48.[\*](#pp_48) Not from any kind of
+   <span id="pp_48"></span>*Aph*. 48.[\*](#pp_48.md) Not from any kind of
 motion \[such as its entrance into a body, does the soul's bondage
 result\].
 
@@ -1383,7 +1383,7 @@ shape, for instance, of its entrance into a body.
 |------------------------------------------------------------------------------|
 | <span class="small">*   What is all-pervading does not change place.*</span> |
 
-   <span id="pp_49"></span>*Aph*. 49.[\*](#pp_49) Because this is
+   <span id="pp_49"></span>*Aph*. 49.[\*](#pp_49.md) Because this is
 impossible for what is inactive, \[or in other words without motion\]
 
    <span id="pp_49a"></span>*a*. That is to say: because this is
@@ -1397,7 +1397,7 @@ changing its place\].
 all-pervading, as you allege, but\] merely limited \[in its extent\]:
 and to this effect, also, is the text, 'Of the size <span
 id="page_52">p. 52</span> of the thumb is the soul, the inner spirit,'
-and the like:<span id="page_52_fr_1"></span>[1](#page_52_note_1) \[but\]
+and the like:<span id="page_52_fr_1"></span>[1](#page_52_note_1.md) \[but\]
 this conjecture he repels:
 
  
@@ -1406,7 +1406,7 @@ this conjecture he repels:
 |--------------------------------------------------------------------------------|
 | <span class="small">*   Were the soul limited, it might be perishable.*</span> |
 
-   <span id="pp_50"></span>*Aph*. 50.[\*](#pp_50) \[We cannot admit that
+   <span id="pp_50"></span>*Aph*. 50.[\*](#pp_50.md) \[We cannot admit that
 the soul is other than all-pervading; because\] by its being limited,
 since it would come under the same conditions as jars, &c., there would
 be a contradiction to our tenet \[of its imperishableness\].
@@ -1416,10 +1416,10 @@ admitted to be, like a jar, or the like, limited, i.e. circumscribed
 \[in dimension\], then, since it would resemble a jar, or the like, in
 being made up of parts, and \[hence\] in being perishable, &c., this
 would be contrary to our settled principle, \[that the soul is
-imperishable\].<span id="page_52_fr_*"></span>[\*](#page_52_note_*)
+imperishable\].<span id="page_52_fr_*"></span>[\*](#page_52_note_*.md)
 
    <span id="pp_50b"></span>*b*. He now justifies the text \[see [§ 49.
-*b*.](#pp_49b)\] referring to the *motion* \[of the soul, by showing
+*b*.](#pp_49b.md)\] referring to the *motion* \[of the soul, by showing
 that the motion is not really of the soul, but of an accessory\]:
 
 <span id="page_53">p. 53</span>
@@ -1430,35 +1430,35 @@ that the motion is not really of the soul, but of an accessory\]:
 |----------------------------------------------------------------------|
 | <span class="small">*   Soul moves not, any more than Space.*</span> |
 
-   <span id="pp_51"></span>*Aph*. 51.[\*](#pp_51) The text regarding the
+   <span id="pp_51"></span>*Aph*. 51.[\*](#pp_51.md) The text regarding the
 *motion* \[of the soul\], moreover, is \[applicable, only\] because of
 the junction of an *attendant*;<span
-id="page_53_fr_1"></span>[1](#page_53_note_1) as in the case of the
+id="page_53_fr_1"></span>[1](#page_53_note_1.md) as in the case of the
 Ether \[or *Space*, which moves not, though we talk of the space
 enclosed in a jar, as moving with the jar\].
 
    <span id="pp_51a"></span>*a*. Since there are such proofs of the
 soul's unlimitedness, as the declaration that 'It is eternal,
 omnipresent, permanent,'<span
-id="page_53_fr_2"></span>[2](#page_53_note_2) the text<span
-id="page_53_fr_3"></span>[3](#page_53_note_3) regarding its motion is to
+id="page_53_fr_2"></span>[2](#page_53_note_2.md) the text<span
+id="page_53_fr_3"></span>[3](#page_53_note_3.md) regarding its motion is to
 be explained as having reference to a movement pertaining \[not to the
 soul, but\] to an attendant; for there is the text, 'As the Ether \[or
 space\] included in a jar, when the jar is removed, \[in this case\] the
 *jar* may be removed, but not the space; and in like manner is the soul,
 which is like the sky, \[incapable of being moved\]';<span
-id="page_53_fr_4"></span>[4](#page_53_note_4) and because we may
+id="page_53_fr_4"></span>[4](#page_53_note_4.md) and because we may
 conclude that the motion \[erroneously supposed to belong to the soul
-([49. *b*.](#pp_49b)),\] belongs to *Nature* \[see *Vedánta Aphorisms*,
+([49. *b*.](#pp_49b).md),\] belongs to *Nature* \[see *Vedánta Aphorisms*,
 Part I., § 4. *l*.\], from such maxims<span
-id="page_53_fr_3"></span>[3](#page_53_note_3) as this, that 'Nature does
+id="page_53_fr_3"></span>[3](#page_53_note_3.md) as this, that 'Nature does
 the works the fruits of which are blissful or baneful; <span
 id="page_54">p. 54</span> and it is wilful *Nature* that\] in the three
 worlds, reaps these': such is the import.<span
-id="page_54_fr_2"></span>[2](#page_54_note_2)
+id="page_54_fr_2"></span>[2](#page_54_note_2.md)
 
    <span id="pp_51b"></span>*b*. It has already been denied \[[§
-16](#pp_16)\] that the bondage \[of the soul\] is occasioned by works\]
+16](#pp_16.md)\] that the bondage \[of the soul\] is occasioned by works\]
 in the shape either of enjoined or of forbidden actions. Now he declares
 that the bondage, moreover\] does not arise from the 'unseen' \[merit or
 demerit\] resulting therefrom:
@@ -1469,16 +1469,16 @@ demerit\] resulting therefrom:
 |-----------------------------------------------------------------------------------------------|
 | <span class="small">*   The bondage of the soul is no result of any merit or demerit.*</span> |
 
-   <span id="pp_52"></span>*Aph*. 52.[\*](#pp_52) Nor, moreover, \[does
+   <span id="pp_52"></span>*Aph*. 52.[\*](#pp_52.md) Nor, moreover, \[does
 the bondage of the soul result from the merit or demerit arising\] from
 works; because these belong not thereto.
 
    <span id="pp_52a"></span>*a*. That is to say: the bondage of the soul
 does not arise directly from the 'unseen' \[merit or demerit\]
 occasioned <span id="page_55">p. 55</span> by works.<span
-id="page_55_fr_1"></span>[1](#page_55_note_1) Why? Because this is no
+id="page_55_fr_1"></span>[1](#page_55_note_1.md) Why? Because this is no
 property thereof, i.e., because this \[merit or demerit (see [§ 16.
-*a*.](#pp_16a))\] is no property of the soul.
+*a*.](#pp_16a).md)\] is no property of the soul.
 
    <span id="pp_52b"></span>*b*. But then \[some one may say\], '*Let*
 it be that the bondage resulting from the 'unseen,' i.e., the merit \[or
@@ -1491,8 +1491,8 @@ whereupon he declares \[as follows\]:
 |------------------------------------------------------------------------------------|
 | <span class="small">*   Else, bondage might cling even to the emancipated.*</span> |
 
-   <span id="pp_53"></span>*Aph*. 53.[\*](#pp_53)<span
-id="page_55_fr_4"></span>[4](#page_55_note_4) If the case were otherwise
+   <span id="pp_53"></span>*Aph*. 53.[\*](#pp_53.md)<span
+id="page_55_fr_4"></span>[4](#page_55_note_4.md) If the case were otherwise
 \[than as I say\], then it \[the bondage of the soul might extend
 unduly, even to the emancipated\].
 
@@ -1500,15 +1500,15 @@ unduly, even to the emancipated\].
 otherwise, if bondage and its cause were under other conditions \[than
 we have declared them to be\], then there might be an undue extension;
 bondage would befall even the emancipated, \[for the same reasons as
-those stated under [§ 16. *a*.](#pp_16a)\].
+those stated under [§ 16. *a*.](#pp_16a.md)\].
 
 <span id="page_56">p. 56</span>
 
    <span id="pp_53b"></span>*b*. What need of so much \[prolixity\]? He
 states a general objection why the bondage of soul cannot result from
 any one or other \[of these causes\], beginning with its essence \[see
-[§ 6. *b*.](#pp_6b)\], and ending with its \[supposed\] works \[see [§
-16](#pp_16)\]; inasmuch as it is contrary to Scripture, \[that any one
+[§ 6. *b*.](#pp_6b.md)\], and ending with its \[supposed\] works \[see [§
+16](#pp_16.md)\]; inasmuch as it is contrary to Scripture, \[that any one
 of these should be the cause\]:
 
  
@@ -1517,17 +1517,17 @@ of these should be the cause\]:
 |------------------------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   A single text of Scripture upsets, equally, all the heretical notions of the soul's relation to bondage.*</span> |
 
-   <span id="pp_54"></span>*Aph*. 54.[\*](#pp_54) And this \[opinion,
+   <span id="pp_54"></span>*Aph*. 54.[\*](#pp_54.md) And this \[opinion,
 that the bondage of the soul arises from any of causes alleged by the
 heretics,\] is contrary to such texts as the one that declares it \[the
 soul\] to be without qualities: and so much for that point.
 
    <span id="pp_54a"></span>*a*. And, if the bondage of the soul arose
 from any one or other of those \[supposed causes already treated of,\]
-among which its essential character \[[§ 6. *b*.](#pp_6b)\] is the
+among which its essential character \[[§ 6. *b*.](#pp_6b.md)\] is the
 first, this would be contradictory to such texts as, 'Witness,
 intelligent, alone, and without the \[three\] qualities \[is the
-soul\]:'<span id="page_56_fr_2"></span>[2](#page_56_note_2) such is the
+soul\]:'<span id="page_56_fr_2"></span>[2](#page_56_note_2.md) such is the
 meaning.
 
    <span id="pp_54b"></span>*b*. The expression 'and so much for that
@@ -1536,14 +1536,14 @@ the cause of the bondage \[of the soul\] here closes.
 
    <span id="pp_54c"></span>*c*. The case, then, stands thus: since
 \[all\] other \[theories\] are overthrown by the declaratory aphorisms,
-'There would be no fitness in the enjoining' \[see [§ 7](#pp_7)\], &c.,
+'There would be no fitness in the enjoining' \[see [§ 7](#pp_7.md)\], &c.,
 it is ascertained that the immediate cause of the bondage \[of the
 soul\] is just the conjunction of Nature and of the soul.
 
    <span id="pp_54d"></span>*d*. But then, in that case, \[some one may
 say\], this conjunction of Nature and of the soul \[[§ 54.
-*c*.](#pp_54c)\], whether it be essential, or adventitiously caused by
-Time or something else \[[§ 5. *b*.](#pp_5b)\], must occasion the
+*c*.](#pp_54c.md)\], whether it be essential, or adventitiously caused by
+Time or something else \[[§ 5. *b*.](#pp_5b.md)\], must occasion the
 bondage even of the *emancipated*. Having pondered this doubt, he
 disposes of it \[as follows\]:
 
@@ -1553,7 +1553,7 @@ disposes of it \[as follows\]:
 |--------------------------------------------------------------------------------------------|
 | <span class="small">*   How the true cause of bondage affects not the emancipated.*</span> |
 
-   <span id="pp_55"></span>*Aph*. 55.[\*](#pp_55) Moreover, the
+   <span id="pp_55"></span>*Aph*. 55.[\*](#pp_55.md) Moreover, the
 conjunction thereof does not, through non-discrimination, take place
 \[in the case of the emancipated\]; nor is there a parity, <span
 id="page_58">p. 58</span> \[in this respect, between the emancipated and
@@ -1566,7 +1566,7 @@ want of a discrimination \[between Nature and soul\] in the emancipated,
 \[who *do* discriminate, and who thus avoid the conjunction which
 others, failing to discriminate, incur, and thus fall into bondage\]:
 such is the meaning. And thus the emancipated and the bound are *not* on
-a level, \[under the circumstances stated at [§ 54. *c*.](#pp_54c)\]:
+a level, \[under the circumstances stated at [§ 54. *c*.](#pp_54c.md)\]:
 such is the import.
 
  
@@ -1575,9 +1575,9 @@ such is the import.
 |------------------------------------------------------------------------------------------------|
 | <span class="small">*   The true cause of bondage, in other words, non-discrimination.*</span> |
 
-   <span id="pp_56"></span>*Aph*. 56.[\*](#pp_56) Bondage arises from
+   <span id="pp_56"></span>*Aph*. 56.[\*](#pp_56.md) Bondage arises from
 the error \[of not discriminating between Nature and soul\].<span
-id="page_58_fr_2"></span>[2](#page_58_note_2)
+id="page_58_fr_2"></span>[2](#page_58_note_2.md)
 
    <span id="pp_56a"></span>*a*. Having thus declared the cause of that
 \[bondage\] <span id="page_59">p. 59</span> which is to be got rid of,
@@ -1589,7 +1589,7 @@ he declares the means of getting rid of it:\]
 |------------------------------------------------------------------------------------------|
 | <span class="small">*   Non-discrimination is removable by discrimination alone.*</span> |
 
-   <span id="pp_56"></span>*Aph*. 56.[\*](#pp_56) The removal of it is
+   <span id="pp_56"></span>*Aph*. 56.[\*](#pp_56.md) The removal of it is
 to be effected by the necessary means, just like darkness.
 
    <span id="pp_56a"></span>*a*. The necessary means, established
@@ -1615,7 +1615,7 @@ of law, and to sound reasoning.' To this he replies:
 |----------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The discrimination of Nature, as other than soul, involves all discrimination.*</span> |
 
-   <span id="pp_57"></span>*Aph*. 57.[\*](#pp_57) Since the
+   <span id="pp_57"></span>*Aph*. 57.[\*](#pp_57.md) Since the
 non-discrimination of other things \[from soul\] results from the
 non-discrimination of *Nature* \[from soul\], the cessation of this will
 take place, on the cessation of that \[from which it results\].
@@ -1646,7 +1646,7 @@ of\] the *products* thereof \[i.e., of Nature\], such as the
 'understanding,' and the like, which have the character of being
 *modifications* \[of primal Nature, while the soul, on the other hand,
 is a thing unalterable\].<span
-id="page_61_fr_*"></span>[\*](#page_61_note_*)
+id="page_61_fr_*"></span>[\*](#page_61_note_*.md)
 
    <span id="pp_57c"></span>*c*. But then \[some one may say\], 'What
 proof is there that there is a conceit \[entertained by people in
@@ -1705,7 +1705,7 @@ reciprocally, the cause why it confounds itself; we reply, that\] there
 is no occasion to look for any other 'predetermining agency,' in the
 case of the conceit of \[the identity of the soul with\] Nature, or in
 the case of the self-continuance<span
-id="page_64_fr_1"></span>[1](#page_64_note_1) thereof, \[i.e., of that
+id="page_64_fr_1"></span>[1](#page_64_note_1.md) thereof, \[i.e., of that
 error of confounding one's self with Nature\]; because \[these two are
 alike\] without antecedent, like seed and sprout, \[of which it is
 needless to ask which is the first; the old puzzle, 'which was first,
@@ -1715,14 +1715,14 @@ the acorn, or the oak?' being a frivolous question\].
 admit the soul's bondage \[at one time\], and its freedom \[at
 another\], and its discrimination \[at one time\], and its
 non-discriminatian \[at another\], then this is in contradiction to the
-assertion \[in [§ 19](#pp_19)\], that it is 'ever essentially a pure and
+assertion \[in [§ 19](#pp_19.md)\], that it is 'ever essentially a pure and
 free intelligence;' and it is in contradiction to such texts as this,
 viz., 'The absolute truth is this, that neither is there destruction
 \[of the soul\], nor production \[of it\]; nor is it bound, nor is it an
 effecter \[of any work\], nor is it desirous of liberation, nor is it,
 indeed, *liberated*; \[seeing that that cannot desire or obtain
 liberation, which was never *bound*\].'<span
-id="page_64_fr_3"></span>[3](#page_64_note_3) This \[charge of
+id="page_64_fr_3"></span>[3](#page_64_note_3.md) This \[charge of
 inconsistency\] he repels:
 
 <span id="page_65">p. 65</span>
@@ -1733,8 +1733,8 @@ inconsistency\] he repels:
 |---------------------------------------------------------------------------|
 | <span class="small">*   The bondage of the soul is merely verbal.*</span> |
 
-   <span id="pp_58"></span>*Aph*. 58.[\*](#pp_58) It is merely verbal,
-and not a reality<span id="page_65_fr_1"></span>[1](#page_65_note_1)
+   <span id="pp_58"></span>*Aph*. 58.[\*](#pp_58.md) It is merely verbal,
+and not a reality<span id="page_65_fr_1"></span>[1](#page_65_note_1.md)
 \[this so-called bondage of the soul\]; since it \[the bondage\]
 *resides* in the *mind*, \[and not in the soul\].
 
@@ -1745,7 +1745,7 @@ because is is merely a *reflexion*, like the redness of \[pellucid\]
 crystal \[when a China-rose is near it\], but not a reality, with no
 false imputation, like the redness of the China-rose itself. Hence there
 is *no* contradiction to what had been said before, \[as the objector
-(under [§ 57. *f*.](#pp_57f)) would insinuate\]: such is the state of
+(under [§ 57. *f*.](#pp_57f).md) would insinuate\]: such is the state of
 the case.
 
 <span id="page_66">p. 66</span>
@@ -1768,7 +1768,7 @@ replies:
 |--------------------------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The truth must be directly discerned, and not merely accepted on the ground of Testimony, or of Inference.*</span> |
 
-   <span id="pp_59"></span>*Aph*. 59.[\*](#pp_59) Moreover, it \[the
+   <span id="pp_59"></span>*Aph*. 59.[\*](#pp_59.md) Moreover, it \[the
 non-discrimination of Soul from Nature,\] is not to be removed by
 argument; as that of a person perplexed about the points of the compass
 \[is not to be removed\] without immediate cognition.
@@ -1787,7 +1787,7 @@ the soul though \[granted to be\] merely verbal, are not to be removed
 by merely hearing, by inferring, without immediate cognition, without
 directly perceiving; just as the contrariety in regard to the \[proper\]
 direction, though merely verbal \[as resulting from misdirection\], in
-the case of<span id="page_67_fr_1"></span>[1](#page_67_note_1) a person
+the case of<span id="page_67_fr_1"></span>[1](#page_67_note_1.md) a person
 who is mistaken as to the points of the compass \[and hence as to his
 own bearings\], is not removed by testimony, or by inference, without
 immediate cognition, i.e., without \[his\] directly perceiving \[how the
@@ -1795,16 +1795,16 @@ points of the compass really lie, to which immediate perception
 'testimony,' or 'inference,' may conduce, but the necessity of which
 these *media*, or instruments of knowledge; cannot supersede\].
 
-   <span id="pp_59c"></span>*c*. Or it \[[Aph. 59](#pp_59)\] may be
+   <span id="pp_59c"></span>*c*. Or it \[[Aph. 59](#pp_59.md)\] may be
 explained as follows, viz.: But then, \[seeing that\] it is declared, by
-the assertion \[in [Aph. 56](#pp_56)\], viz., that 'The removal of it is
+the assertion \[in [Aph. 56](#pp_56.md)\], viz., that 'The removal of it is
 to be effected by the necessary means,' that knowledge, in the shape of
 discrimination \[between soul and Nature\], is the remover of
 *non*-discrimination \[in regard to the matter in question\], tell us,
 is that knowledge of a like nature with the hearing <span
 id="page_68">p. 68</span> \[of Testimony\], &c.? Or is it something
 peculiar? A reply to this being looked for, he enounces the aphorism
-\[[§ 59](#pp_59)\]: 'Moreover, it is not to be removed by argument,' &c.
+\[[§ 59](#pp_59.md)\]: 'Moreover, it is not to be removed by argument,' &c.
 That is to say: non-discrimination is not excluded, is not cut off, by
 argument, or by testimony, unless there be discrimination as an
 immediate perception; just as is the case with one who is bewildered in
@@ -1834,7 +1834,7 @@ of right knowledge' (*pramáṉa*) which establishes the existence of these
 |------------------------------------------------------------------------|
 | <span class="small">*   The evidence for things imperceptible.*</span> |
 
-   <span id="pp_60"></span>*Aph*. 60.[\*](#pp_60) The knowledge of
+   <span id="pp_60"></span>*Aph*. 60.[\*](#pp_60.md) The knowledge of
 things imperceptible is by means of Inference; as that of fire \[when
 not directly perceptible,\] is by means of smoke, &c.
 
@@ -1855,7 +1855,7 @@ estalished by Revelation. But, since 'Inference' is the chief \[among
 the instruments of knowledge\], in this \[the Sánkhya\] System,
 'Inference' only is laid down \[in the aphorism,\] as the *chief* thing;
 but Revelation is not disregarded \[in the Sánkhya system; as will be
-seen from [Aph. 88](#pp_88) of this Book\].
+seen from [Aph. 88](#pp_88.md) of this Book\].
 
    <span id="pp_60c"></span>*c*. He \[next\] exbibits the order of
 creation of those things among which Nature is the first, and the
@@ -1870,7 +1870,7 @@ to the argument that will be \[afterwards\] stated:
 |-----------------------------------------------------------------------|
 | <span class="small">*   The twenty-five Realities enumerated.*</span> |
 
-   <span id="pp_61"></span>*Aph*. 61.[\*](#pp_61) Nature (*prakṛiti*) is
+   <span id="pp_61"></span>*Aph*. 61.[\*](#pp_61) Nature (*prakṛiti*.md) is
 the state of equipoise of Goodness (*sattwa*) Passion (*rajas*), and
 Darkness (*tamas*): from Nature \[proceeds\] Mind (*mahat*); from Mind,
 Self-consciousness (*ahankára*); from Self-consciousness, the five
@@ -1885,7 +1885,7 @@ more \[one than another\]; that is to say, the state of *not* being
 \[developed into\] an *effect* \[in which one or other of them
 predominates\]. And thus 'Nature' is the triad of 'Qualities' (*guṉa*),
 distinct from the products \[to which this triad gives rise\]: such is
-the complete meaning.<span id="page_71_fr_3"></span>[3](#page_71_note_3)
+the complete meaning.<span id="page_71_fr_3"></span>[3](#page_71_note_3.md)
 
    <span id="pp_61b"></span>*b*. These things, viz., 'Goodness,' &c.,
 \[though spoken of as the three Qualities\], are not 'Qualities'
@@ -1893,17 +1893,17 @@ the complete meaning.<span id="page_71_fr_3"></span>[3](#page_71_note_3)
 'Qualities' of <span id="page_72">p. 72</span> the *Vaiśeshika* system
 have, themselves, *no* qualities (see Kaṇáda's 16th Aph.); while\]
 *these* have the qualities of Conjunction, Disjunction, Lightness,
-Force,<span id="page_72_fr_1"></span>[1](#page_72_note_1) Weight,
-&c.<span id="page_72_fr_2"></span>[2](#page_72_note_2) In this
+Force,<span id="page_72_fr_1"></span>[1](#page_72_note_1.md) Weight,
+&c.<span id="page_72_fr_2"></span>[2](#page_72_note_2.md) In this
 \[Sánkhya\] system, and in Scripture, &c., the word 'Quality' (*guṉa*)
 is employed \[as the name of the three things in question\],<span
-id="page_72_fr_3"></span>[3](#page_72_note_3) because they are
+id="page_72_fr_3"></span>[3](#page_72_note_3.md) because they are
 subservient to Soul \[and, therefore, hold a secondary rank in the scale
 of being\], and because they form the *cords* \[which the word *guṉa*
 also signifies\], viz., 'Mind,' &c., which consist of the three
 \[so-called\] 'Qualities,' and which *bind*, as a \[cow, or other\]
 brute-beast, the Soul.<span
-id="page_72_fr_5"></span>[5](#page_72_note_5)
+id="page_72_fr_5"></span>[5](#page_72_note_5.md)
 
    <span id="pp_61c"></span>*c*. Of this \[Nature\] the principle called
 'the great one' (*mahat*), viz., the principle of Understanding,
@@ -1928,14 +1928,14 @@ principles, the one from the other\]:
 |---------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The existence of the 'Subtile Elements' is inferred from that of the 'Gross.'*</span> |
 
-   <span id="pp_62"></span>*Aph*. 62.[\*](#pp_62) \[The knowledge of the
+   <span id="pp_62"></span>*Aph*. 62.[\*](#pp_62.md) \[The knowledge of the
 existence\] of the five 'Subtile Elements' is \[by inference,\] from the
 'Gross Elements.'
 
 <span id="page_74">p. 74</span>
 
    <span id="pp_62a"></span>*a*. 'The knowledge, by inference,' so much
-is supplied, \[to complete the aphorism, from [Aph. 60](#pp_60)\].
+is supplied, \[to complete the aphorism, from [Aph. 60](#pp_60.md)\].
 
    <span id="pp_62b"></span>*b*. Earth, &c., the 'Gross Elements,' are
 proved to exist, by Perception; \[and\] thereby \[i.e., from that
@@ -1962,10 +1962,10 @@ being formed of the less gross threads; and so of the others\].
 |------------------------------------------------------------------------|
 | <span class="small">*   And thence that of Self-consciousness.*</span> |
 
-   <span id="pp_63"></span>*Aph*. 63.[\*](#pp_63) \[The knowledge of the
+   <span id="pp_63"></span>*Aph*. 63.[\*](#pp_63.md) \[The knowledge of the
 existence\] of Self-consciousness is \[by inference,\] from the external
 and internal <span id="page_75">p. 75</span> \[organs\], and from these
-\['Subtile Elements,' mentioned in [Aph. 62](#pp_62)\].
+\['Subtile Elements,' mentioned in [Aph. 62](#pp_62.md)\].
 
    <span id="pp_63a"></span>*a*. By inference from \[the existence of\]
 the external and internal organs, and from \[that of\] these 'Subtile
@@ -1990,7 +1990,7 @@ is not a product of it\].
 be, as the Sánkhyas declare, that all objects, such as jars, are made up
 of Self-consciousness, while Self-consciousness depends on
 Understanding,' or 'Intellect,' or 'Mind,' the *first* product of
-Nature' (see [Aph. 61](#pp_61))\], then \[some may object, that\], since
+Nature' (see [Aph. 61](#pp_61).md)\], then \[some may object, that\], since
 it would be the case that the Self-consciousness of the potter is the
 material of the jar, the jar made by him would disappear, on the
 beatification of the potter, whose internal organ \[or 'Understanding'\]
@@ -2028,9 +2028,9 @@ loses *his* Self-consciousness, while aught living continues\].
 |---------------------------------------------------------------|
 | <span class="small">*   And thence that of Intellect.*</span> |
 
-   <span id="pp_64"></span>*Aph*. 64.[\*](#pp_64) \[The knowledge of the
+   <span id="pp_64"></span>*Aph*. 64.[\*](#pp_64.md) \[The knowledge of the
 existence\] of Intellect is \[by inference,\] from that
-\[Self-consciousness, [§ 63](#pp_63)\].
+\[Self-consciousness, [§ 63](#pp_63.md)\].
 
    <span id="pp_64a"></span>*a*. That is to say: by inference from \[the
 existence of\] 'that,' viz., Self-consciousness, which is a product,
@@ -2082,9 +2082,9 @@ it preexisted in the cause of that product\].
 |------------------------------------------------------------|
 | <span class="small">*   And thence that of Nature.*</span> |
 
-   <span id="pp_65"></span>*Aph*. 65.[\*](#pp_65) \[The knowledge of the
+   <span id="pp_65"></span>*Aph*. 65.[\*](#pp_65.md) \[The knowledge of the
 existence\] of Nature is \[by inference,\] from that \['Intellect,' [§
-64](#pp_64)\].
+64](#pp_64.md)\].
 
    <span id="pp_65a"></span>*a*. By inference from \[the existence of\]
 'that,' viz., the principle \[of Intellect, termed\], 'the Great one,'
@@ -2132,7 +2132,7 @@ aphorisms, as existing between Nature and its various products\]:
 |-------------------------------------------------------------------------|
 | <span class="small">*   The argument for the existence of Soul.*</span> |
 
-   <span id="pp_66"></span>*Aph*. 66.[\*](#pp_66) \[The existence\] of
+   <span id="pp_66"></span>*Aph*. 66.[\*](#pp_66.md) \[The existence\] of
 Soul \[is inferred\] from the fact that the combination \[of the
 principles of Nature into their various effects\] is for the sake of
 another \[than unintelligent Nature, or any of its similarly
@@ -2141,7 +2141,7 @@ unintelligent products\].
    <span id="pp_66a"></span>*a*. 'Combination,' i.e., conjunction, which
 is the cause \[of all products; these resulting from the conjunction of
 their constituent parts\]. Since whatever has this quality, as
-Nature,<span id="page_81_fr_2"></span>[2](#page_81_note_2) Mind, and so
+Nature,<span id="page_81_fr_2"></span>[2](#page_81_note_2.md) Mind, and so
 on \[unlike soul, which is *not* made up of parts\], is for the sake of
 some other; for this reason it is understood that soul exists: such is
 the remainder, \[required to complete the aphorism\].
@@ -2172,9 +2172,9 @@ the cause of all \[products\], he establishes the *eternity* of Nature
 |----------------------------------------------------------------------|
 | <span class="small">*   Argument for the eternity of Nature.*</span> |
 
-   <span id="pp_67"></span>*Aph*. 67.[\*](#pp_67) Since the root has no
+   <span id="pp_67"></span>*Aph*. 67.[\*](#pp_67.md) Since the root has no
 root, the root \[of all\] is rootless.<span
-id="page_82_fr_3"></span>[3](#page_82_note_3)
+id="page_82_fr_3"></span>[3](#page_82_note_3.md)
 
    <span id="pp_67a"></span>*a*. Since 'the root' (*múla*), i.e., the
 cause of the twenty-three principles, \[which, with soul and the root
@@ -2197,7 +2197,7 @@ mentioned\] in regard to this, \[as follows\]:
 |--------------------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The employment of the term Primal Agency, or Nature, is merely to debate the regressus in infinitum.*</span> |
 
-   <span id="pp_68"></span>*Aph*. 68.[\*](#pp_68) Even if there be a
+   <span id="pp_68"></span>*Aph*. 68.[\*](#pp_68.md) Even if there be a
 succession, there is a halt at some *one* point; and so it is merely a
 name \[that we give to the point in question, when we speak of the
 *root* of things, under the the name of 'Nature'\].
@@ -2215,9 +2215,9 @@ meaning.
    <span id="pp_68b"></span>*b*. But then \[some Vedántí may object
 according to this view of matters\], the position that there are just
 twenty-five realities is not made out; for, in addition to<span
-id="page_84_fr_2"></span>[2](#page_84_note_2) the 'Indiscrete' \[or
+id="page_84_fr_2"></span>[2](#page_84_note_2.md) the 'Indiscrete' \[or
 primal Nature\], which \[according to you,\] is the cause of Mind,<span
-id="page_84_fr_3"></span>[3](#page_84_note_3) *another* unintelligent
+id="page_84_fr_3"></span>[3](#page_84_note_3.md) *another* unintelligent
 principle, named 'Ignorance' \[see *Vedánta-sára*, § 21\], presents
 <span id="page_85">p. 85</span> itself. Having pondered this doubt, he
 declares \[as follows\]:
@@ -2228,9 +2228,9 @@ declares \[as follows\]:
 |------------------------------------------------------------------|
 | <span class="small">*   Nature and Soul alike uncreated.*</span> |
 
-   <span id="pp_69"></span>*Aph*. 69.[\*](#pp_69) Alike, in respect of
+   <span id="pp_69"></span>*Aph*. 69.[\*](#pp_69.md) Alike, in respect of
 Nature, \[and of both Soul and Nature, is the argument for the uncreated
-existence\].<span id="page_85_fr_2"></span>[2](#page_85_note_2)
+existence\].<span id="page_85_fr_2"></span>[2](#page_85_note_2.md)
 
    <span id="pp_69a"></span>*a*. In the discussion of the Primal Agent
 \[Nature\], the cause which is the root \[of all products\], the same
@@ -2239,7 +2239,7 @@ the opponent \[Vedántí\]. This may be thus stated: As there is mention,
 in Scripture, of the *production* of Nature, so, too, is there of that
 of *Ignorance*, in such texts as this, viz.: 'This Ignorance, which has
 five divisions, was produced from the great Spirit.'<span
-id="page_85_fr_*"></span>[\*](#page_85_note_*) Hence it must needs be
+id="page_85_fr_*"></span>[\*](#page_85_note_*.md) Hence it must needs be
 that a figurative production is intended to be asserted, in respect of
 *one* of these \[and not the *literal* production of both; else we
 should have no root at all\]; and, of the two, it is with *Nature* only
@@ -2275,7 +2275,7 @@ point, he states \[as follows\]:
 |------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   All do not profit by the saving truth; because it is only the best kind of people that are fully amenable to reason.*</span> |
 
-   <span id="pp_70"></span>*Aph*. 70.[\*](#pp_70) There is no rule \[or
+   <span id="pp_70"></span>*Aph*. 70.[\*](#pp_70.md) There is no rule \[or
 necessity, that *all* should arrive at the truth\]; because those who
 are privileged \[to engage in the inquiry\] are of three descriptions.
 
@@ -2300,7 +2300,7 @@ is the literal meaning.
 'the Great one' and 'Self-consciousness'; \[the reader being presumed to
 remember that Nature consists of the three 'Qualities' in equipoise, and
 to be familiar with the other principles, such as the 'Subtile elements'
-(see [§ 61](#pp_61))\]:
+(see [§ 61](#pp_61).md)\]:
 
  
 
@@ -2308,7 +2308,7 @@ to be familiar with the other principles, such as the 'Subtile elements'
 |-------------------------------------------------------------------|
 | <span class="small">*   By 'the Great one' is meant Mind.*</span> |
 
-   <span id="pp_71"></span>*Aph*. 71.[\*](#pp_71) The first product \[of
+   <span id="pp_71"></span>*Aph*. 71.[\*](#pp_71.md) The first product \[of
 the Primal Agent, Nature\], which is called 'the Great one,' is Mind.
 
    <span id="pp_71a"></span>*a*. 'Mind' (*manas*). 'Mind' \[is so
@@ -2324,14 +2324,14 @@ meaning.
 |-----------------------------------------------------------------------------|
 | <span class="small">*   The relation of Self-consciousness to Mind.*</span> |
 
-   <span id="pp_72"></span>*Aph*. 72.[\*](#pp_72) 'Self-consciousness'
+   <span id="pp_72"></span>*Aph*. 72.[\*](#pp_72.md) 'Self-consciousness'
 is that which is subsequent \[to Mind.\]
 
    <span id="pp_72a"></span>*a*. 'Self-consciousness,' the function of
 which is a conceit \[that '*I* exist,' '*I* do this, that, and the other
 thing'\], is that which is subsequent: that is to say,
 'Self-consciousness' is the next after 'the Great one' \[[§
-71](#pp_71)\].
+71](#pp_71.md)\].
 
    <span id="pp_72b"></span>*b*. Since 'Self-consciousness' is that
 whose function is a conceit \[which brings out the *Ego*, in every case
@@ -2349,13 +2349,13 @@ follows\]:
 |------------------------------------------------------------------------------------------|
 | <span class="small">*   All products, save Mind, result from Self-consciousness.*</span> |
 
-   <span id="pp_73"></span>*Aph*. 73.[\*](#pp_73) To the others it
+   <span id="pp_73"></span>*Aph*. 73.[\*](#pp_73.md) To the others it
 belongs to be products thereof, \[i.e., of Self-consciousness\].
 
    <span id="pp_73a"></span>*a*. 'To be products thereof,' i.e., to be
 products of Self-consciousness: that is to say, the fact of being
 products thereof belongs to the others,<span
-id="page_90_fr_2"></span>[2](#page_90_note_2) the eleven 'Organs'
+id="page_90_fr_2"></span>[2](#page_90_note_2.md) the eleven 'Organs'
 (*indriya*), the five 'Subtile elements,' and, mediately, to the
 \[gross\] Elements, also, the products of the Subtile elements.
 
@@ -2371,8 +2371,8 @@ world. Therefore he declares \[as follows\]:
 |------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   Nature, immediately the cause of Mind, is, mediately, the cause of all other products.*</span> |
 
-   <span id="pp_74"></span>*Aph*. 74.[\*](#pp_74) Moreover, mediately,
-through that \[i.e., the 'Great one' ([§ 71](#pp_71))\] the first
+   <span id="pp_74"></span>*Aph*. 74.[\*](#pp_74.md) Moreover, mediately,
+through that \[i.e., the 'Great one' ([§ 71](#pp_71).md)\] the first
 \[cause, viz., Nature,\] is the cause \[of all products\]; as is the
 case with the Atoms, \[the causes, though not the immediate causes, of
 jars, &c.\].
@@ -2397,7 +2397,7 @@ creation's commencing? In regard to this, he declares \[as follows\]:
 |---------------------------------------------------------------|
 | <span class="small">*   Why Nature is the sole cause.*</span> |
 
-   <span id="pp_75"></span>*Aph*. 75.[\*](#pp_75) While both \[Soul and
+   <span id="pp_75"></span>*Aph*. 75.[\*](#pp_75.md) While both \[Soul and
 Nature\] are antecedent \[to all products\], since the one \[viz.,
 Soul,\] is devoid \[of this character of being a cause\], it is
 applicable \[only\] to the other of the two, \[viz., Nature\].
@@ -2421,7 +2421,7 @@ causal\]. In reply to this, he says:
 |----------------------------------------------------------------------------------------------------|
 | <span class="small">*   Why the theory of a plastic Nature is preferable to that of Atoms.*</span> |
 
-   <span id="pp_76"></span>*Aph*. 76.[\*](#pp_76) What is limited cannot
+   <span id="pp_76"></span>*Aph*. 76.[\*](#pp_76.md) What is limited cannot
 be the substance of all \[things\].
 
    <span id="pp_76a"></span>*a*. That which is limited cannot be the
@@ -2440,12 +2440,12 @@ this:
 |-----------------------------------------------------------------------------|
 | <span class="small">*   Scripture declares in favour of the theory.*</span> |
 
-   <span id="pp_77"></span>*Aph*. 77.[\*](#pp_77) And \[the proposition
+   <span id="pp_77"></span>*Aph*. 77.[\*](#pp_77.md) And \[the proposition
 that Nature is the cause of all is proved\] from the text of Scripture,
 that the origin \[of the world\] is therefrom, \[i.e., from Nature\].
 
    <span id="pp_77a"></span>*a*. An argument, in the first instance, has
-been set forth \[in [§ 76](#pp_76); for, till argument fails him, no one
+been set forth \[in [§ 76](#pp_76.md); for, till argument fails him, no one
 falls back upon authority\]. Scripture, moreover, declares that Nature
 is the cause of the world, in such terms as, 'From Nature the world
 arises,' &c.
@@ -2465,7 +2465,7 @@ is to be trusted\]. To this he replies:
 |------------------------------------------------------|
 | <span class="small">*   Ex nihilo nihil fit.*</span> |
 
-   <span id="pp_78"></span>*Aph*. 78.[\*](#pp_78) A thing is not made
+   <span id="pp_78"></span>*Aph*. 78.[\*](#pp_78.md) A thing is not made
 out of nothing.
 
    <span id="pp_78a"></span>*a*. That is to say: it is not possible that
@@ -2486,7 +2486,7 @@ follows\]:
 |-------------------------------------------------------------------------------------|
 | <span class="small">*   Reasons why the world is not to be supposed unreal.*</span> |
 
-   <span id="pp_79"></span>*Aph*. 79.[\*](#pp_79) It \[the world\] is
+   <span id="pp_79"></span>*Aph*. 79.[\*](#pp_79.md) It \[the world\] is
 not unreal; because there is no fact contradictory \[to its reality\],
 and because it is not the \[false\] result of depraved causes, \[leading
 to a belief in what ought not to be believed\].
@@ -2522,7 +2522,7 @@ he declares \[as follows\]:
 |------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The product of something is something; and that of nothing, nothing.*</span> |
 
-   <span id="pp_80"></span>*Aph*. 80.[\*](#pp_80) If it \[the
+   <span id="pp_80"></span>*Aph*. 80.[\*](#pp_80.md) If it \[the
 substantial cause,\] be an entity, then this would be the case, \[that
 the product would be an entity\], from its union \[or identity\]
 therewith; \[but\] if \[the cause be\] a nonentity, then how could it
@@ -2555,7 +2555,7 @@ need have we of the hypothesis of 'Nature'? To this he replies:
 |----------------------------------------------------------------------|
 | <span class="small">*   Action cannot serve as a substratum.*</span> |
 
-   <span id="pp_81"></span>*Aph*. 81.[\*](#pp_81) No; for *works* are
+   <span id="pp_81"></span>*Aph*. 81.[\*](#pp_81.md) No; for *works* are
 not adapted to be the *substantial* cause \[of any product\].
 
    <span id="pp_81a"></span>*a*. Granting that 'the uneeen' \[merit or
@@ -2564,8 +2564,8 @@ bringing about the mundane condition of the agent\], yet we never see
 merit or demerit in the character of the *substantial* cause \[of any
 product\]: and our theories ought to show deference to our experience.
 'Nature' is to be accepted; because Liberation arises \[see [§
-56](#pp_56),<span id="page_97_fr_3"></span>[3](#page_97_note_3) and [§
-83](#pp_83),\] from discerning the distinction between Nature and the
+56](#pp_56),<span id="page_97_fr_3"></span>[3](#page_97_note_3.md) and [§
+83](#pp_83.md),\] from discerning the distinction between Nature and the
 Soul.
 
 <span id="page_98">p. 98</span>
@@ -2581,7 +2581,7 @@ Veda, what occasion is there for \[our troubling ourselves about\]
 |---------------------------------------------------------------------------------------|
 | <span class="small">*   Salvation is not to be obtained by ritual observances*</span> |
 
-   <span id="pp_82"></span>*Aph*. 82.[\*](#pp_82) The accomplishment
+   <span id="pp_82"></span>*Aph*. 82.[\*](#pp_82.md) The accomplishment
 thereof \[i.e., of Liberation\] is not moreover, through Scriptural
 rites: the chief end of man does not consist in this \[which is gained
 through such means\]; because, since this consists of what is
@@ -2597,7 +2597,7 @@ to repetition of births, by reason of the fact that it \[the supposed
 Liberation,\] was accomplished by *means*,' i.e., because the \[thus
 far\] liberated <span id="page_99">p. 99</span> \[soul\] is still liable
 to repetition of births,<span
-id="page_99_fr_1"></span>[1](#page_99_note_1) inasmuch as this \[its
+id="page_99_fr_1"></span>[1](#page_99_note_1.md) inasmuch as this \[its
 supposed Liberation,\] is not *eternal*, \[just\] because it is \[the
 result of\] *acts*. For *this* reason, the chief end of man does not
 consist in this, \[which is gained through ritual observances\].
@@ -2611,7 +2611,7 @@ chief end of man:
 |------------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   In regard to the attainment of the chief end of man, the Scripture concurs with the Sánkhya.*</span> |
 
-   <span id="pp_83"></span>*Aph*. 83.[\*](#pp_83) There is Scripture for
+   <span id="pp_83"></span>*Aph*. 83.[\*](#pp_83.md) There is Scripture for
 it, that he who has attained to discrimination, in regard to these
 \[i.e. Nature and Soul\], has no repetition of births.
 
@@ -2620,7 +2620,7 @@ to Nature and Soul, of him who has attained to discrimination, there is
 a text declaring, that, in consequence of his knowledge of the
 distinction, there will be no repetition of births; the text, viz.,
 '*He* does not return again,'<span
-id="page_99_fr_4"></span>[4](#page_99_note_4) &c.
+id="page_99_fr_4"></span>[4](#page_99_note_4.md) &c.
 
 <span id="page_100">p. 100</span>
 
@@ -2633,7 +2633,7 @@ view:
 |----------------------------------------------------------------------------------------|
 | <span class="small">*   Pain can lead only to pain, not to liberation from it.*</span> |
 
-   <span id="pp_84"></span>*Aph*. 84.[\*](#pp_84) From pain
+   <span id="pp_84"></span>*Aph*. 84.[\*](#pp_84.md) From pain
 \[occasioned, e.g., to victims in sacrifice\] must come pain \[to the
 sacrificer, and not *liberation* from pain\]; as there is not relief
 from chilliness, by affusion of water.
@@ -2662,7 +2662,7 @@ of immortality,' &c. To this he replies:
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The character of the end contemplated makes no difference in regard to the transitoriness of what is effected by works.*</span> |
 
-   <span id="pp_85"></span>*Aph*. 85.[\*](#pp_85) \[Liberation cannot
+   <span id="pp_85"></span>*Aph*. 85.[\*](#pp_85.md) \[Liberation cannot
 arise from acts\]; because whether the end be something desirable, or
 undesirable, \[and we admit that the *motive* of the sacrifice is not
 the giving pain to the victim\], this makes no difference in regard to
@@ -2703,27 +2703,27 @@ he replies:
 |---------------------------------------------------------------------------------|
 | <span class="small">*   The right means effect Liberation once for all.*</span> |
 
-   <span id="pp_86"></span>*Aph*. 86.[\*](#pp_86) Of him who is
+   <span id="pp_86"></span>*Aph*. 86.[\*](#pp_86.md) Of him who is
 essentially liberated, his bonds having absolutely perished, it \[i.e.,
 the fruit of his saving knowledge,\] is absolute:<span
-id="page_102_fr_3"></span>[3](#page_102_note_3) there is no parity
+id="page_102_fr_3"></span>[3](#page_102_note_3.md) there is no parity
 \[between his case and that of him who relies on works, and who may
 thereby secure a temporary sojourn in Paradise, only to return again to
 earth\].
 
    <span id="pp_86a"></span>*a*. Of him 'who is essentially liberated,'
 who, in his very essence, is free, there is the destruction of bondage.
-The bond \[see [§ 56](#pp_56),<span
-id="page_103_fr_1"></span>[1](#page_103_note_1)\] is Non-discrimination
+The bond \[see [§ 56](#pp_56.md),<span
+id="page_103_fr_1"></span>[1](#page_103_note_1.md)\] is Non-discrimination
 \[between Nature and Soul\]. By the removal thereof there is the
 destruction, the annihilation, of Non-discrimination: and how is it
 possible that there should again be a return of the mundane state, when
 the destruction of Non-discrimination is *absolute*? Thus there is no
 \[such\] similarity, \[between the two cases, as is imagined, by the
-objector, under [§ 85. *b*.](#pp_85b)\].
+objector, under [§ 85. *b*.](#pp_85b.md)\].
 
    <span id="pp_86b"></span>*b*. It has been asserted \[in [§
-61](#pp_61),\] that there is a class of twenty-five \[things which are
+61](#pp_61.md),\] that there is a class of twenty-five \[things which are
 realities\], and, since these cannot be ascertained \[or made out to be
 *true*\], except by <span id="page_104">p. 104</span> *proof*, therefore
 he displays this; \[i.e., he shows what he *means* by proof\]:
@@ -2734,7 +2734,7 @@ he displays this; \[i.e., he shows what he *means* by proof\]:
 |------------------------------------------------------------|
 | <span class="small">*   What is meant by evidence.*</span> |
 
-   <span id="pp_87"></span>*Aph*. 87.[\*](#pp_87) The determination of
+   <span id="pp_87"></span>*Aph*. 87.[\*](#pp_87.md) The determination of
 something not \[previously\] lodged in both \[the Soul and the
 Intellect\], nor in one or other of them, is 'right notion' (*pramá*).
 What is, in the highest degree, productive thereof \[i.e., of any given
@@ -2763,7 +2763,7 @@ mistakes and fancies\], and 'discrimination,' \[which excludes doubt\].
 
    <span id="pp_87c"></span>*c*. In regard to this \[topic of knowledge
 and the sources of knowledge\], if 'right notion,' is spoken of as
-located in the *Soul* \[see [§ 87. *a*.](#pp_87a)\], then the \[proof,
+located in the *Soul* \[see [§ 87. *a*.](#pp_87a.md)\], then the \[proof,
 or\] evidence is an affection of the *Intellect*. If \[on the other
 hand, the 'right notion' is spoken of as\] located in the Intellect, in
 the shape of an affection \[of that the affections of which are mirrored
@@ -2789,8 +2789,8 @@ are there? To this he replies:
 |--------------------------------------------------------------------|
 | <span class="small">*   There are three kinds of evidence.*</span> |
 
-   <span id="pp_88"></span>*Aph*. 88.[\*](#pp_88) Proof is of three
-kinds:<span id="page_106_fr_1"></span>[1](#page_106_note_1) there is no
+   <span id="pp_88"></span>*Aph*. 88.[\*](#pp_88.md) Proof is of three
+kinds:<span id="page_106_fr_1"></span>[1](#page_106_note_1.md) there is no
 establishment of more; because, if these be established, then all \[that
 is true\] can be established \[by one or other of these three proofs\].
 
@@ -2827,7 +2827,7 @@ nothing else than the perception of that spot of ground *without* a jar
 on it\].
 
    <span id="pp_88d"></span>*d*. He \[next\] states the definitions of
-the varieties \[of proof, having already ([§ 87](#pp_87)) given the
+the varieties \[of proof, having already ([§ 87](#pp_87).md) given the
 general definition\]:
 
  
@@ -2836,9 +2836,9 @@ general definition\]:
 |-----------------------------------------------------|
 | <span class="small">*   Perception defined.*</span> |
 
-   <span id="pp_89"></span>*Aph*. 89.[\*](#pp_89) Perception
+   <span id="pp_89"></span>*Aph*. 89.[\*](#pp_89.md) Perception
 (*pratyakska*) is that discernment which, being in<span
-id="page_108_fr_3"></span>[3](#page_108_note_3) conjunction \[with the
+id="page_108_fr_3"></span>[3](#page_108_note_3.md) conjunction \[with the
 thing perceived\], portrays the form thereof.
 
    <span id="pp_89a"></span>*a*. 'Being in conjunction,' \[literally,\]
@@ -2851,7 +2851,7 @@ and § 8. *b*.)\] is the evidence \[called\] Perception: such is the
 meaning.
 
    <span id="pp_89b"></span>*b*. But then, \[some one may say,\] this
-\[definition of Perception ([§ 89](#pp_89))\] does not extend \[as we
+\[definition of Perception ([§ 89](#pp_89).md)\] does not extend \[as we
 conceive it ought, and presume it is intended, to do,\] to the
 perception, by adepts in the *Yoga*, of things past, future, or
 concealed \[by stone walls, or such intervening things as interrupt
@@ -2869,7 +2869,7 @@ intends to define:
 |-------------------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The definition not to be blamed, though it should not apply to the perceptions of the mystic.*</span> |
 
-   <span id="pp_90"></span>*Aph*. 90.[\*](#pp_90) It is not a fault \[in
+   <span id="pp_90"></span>*Aph*. 90.[\*](#pp_90.md) It is not a fault \[in
 the definition, that it does not apply to the perceptions of adepts in
 the *Yoga*\]; because that of the adepts in the *Yoga* is not an
 *external* perception.
@@ -2891,16 +2891,16 @@ justification \[of the definition in question\]:
 |-------------------------------------------------------------------------------------------------|
 | <span class="small">*   But the definition does apply to the perceptions of the mystic.*</span> |
 
-   <span id="pp_91"></span>*Aph*. 91.[\*](#pp_91) Or, there is no fault
+   <span id="pp_91"></span>*Aph*. 91.[\*](#pp_91.md) Or, there is no fault
 \[in the definition\], because of the conjunction, with *causal* things,
 of that \[mystical mind\] which has attained exaltation.<span
-id="page_110_fr_4"></span>[4](#page_110_note_4)
+id="page_110_fr_4"></span>[4](#page_110_note_4.md)
 
 <span id="page_111">p. 111</span>
 
    <span id="pp_91a"></span>*a*. Or, be it so that the perception of the
 *Yogí*, also, shall be the thing to be defined; still there is no fault
-\[in our definition, [§ 89](#pp_89)\]; it does not fail to extend \[to
+\[in our definition, [§ 89](#pp_89.md)\]; it does not fail to extend \[to
 this, also\]; since the mind of the *Yogí*, in the exaltation gained
 from the habitude produced by concentration, *does* come into
 conjunction with things \[as existent\] in their causes, \[whether or
@@ -2909,7 +2909,7 @@ external senses\].
 
    <span id="pp_91b"></span>*b*. Here the word rendered 'causal'
 (*lína*) denotes the things, *not* in conjunction \[with the senses\],
-alluded to by the objector \[in [§ 89. *b*.](#pp_89b)\]; for *we*, who
+alluded to by the objector \[in [§ 89. *b*.](#pp_89b.md)\]; for *we*, who
 assert that effects *exist* \[from eternity, in their causes, before
 taking the shape of effects, and, likewise, in these same causes, when
 again resolved into their causes\], hold that even what is past, &c.,
@@ -2932,17 +2932,17 @@ this he replies:
 |-----------------------------------------------------------------------|
 | <span class="small">*   That any 'Lord' exists is not proved.*</span> |
 
-   <span id="pp_92"></span>*Aph*. 92.[\*](#pp_92) \[This objection to
+   <span id="pp_92"></span>*Aph*. 92.[\*](#pp_92.md) \[This objection to
 the definition of Perception has no force\]; because it is not proved
 that there *is* a Lord (*íśwara*).
 
    <span id="pp_92a"></span>*a*. That there is no fault \[in the
 definition of Perception\], because there is no proof that there *is* a
-Lord, is supplied \[from [§ 90](#pp_90)\].
+Lord, is supplied \[from [§ 90](#pp_90.md)\].
 
    <span id="pp_92b"></span>*b*. And this demurring to there being any
 'Lord' is merely in accordance with<span
-id="page_112_fr_3"></span>[3](#page_112_note_3) the arrogant dictum of
+id="page_112_fr_3"></span>[3](#page_112_note_3.md) the arrogant dictum of
 \[certain\] partisans \[who hold an opinion not recognized by the
 majority\]. Therefore, it is to be understood, the expression employed
 is, 'because it is *not proved* that there is a Lord,' but not the
@@ -2951,9 +2951,9 @@ expression, 'because there *is no* Lord,'
 <span id="page_113">p. 113</span>
 
    <span id="pp_92c"></span>*c*. But, on the implication<span
-id="page_113_fr_1"></span>[1](#page_113_note_1) that there *is* a
+id="page_113_fr_1"></span>[1](#page_113_note_1.md) that there *is* a
 'Lord,' what we mean to speak of \[in our definition of Perception, ([§
-89](#pp_89)),\] is merely the being of the \[same\] kind with what is
+89](#pp_89).md),\] is merely the being of the \[same\] kind with what is
 produced by conjunction \[of a sense-organ with its object; and the
 perceptions of the 'Lord' may be of the same *kind* with such
 perceptions, though they were not to come from the same *source*\].
@@ -2969,7 +2969,7 @@ should the Lord not be proved \[to exist\] by the Scripture and the Law,
 |---------------------------------------------------------------------------------------|
 | <span class="small">*   A dilemma, to exclude proof that there is any 'Lord.'*</span> |
 
-   <span id="pp_93"></span>*Aph*. 93.[\*](#pp_93) \[And, further,\] it
+   <span id="pp_93"></span>*Aph*. 93.[\*](#pp_93.md) \[And, further,\] it
 is not proved that he \[the 'Lord,'\] exists; because \[whoever exists
 must be either free or bound; and\], of free and bound, he can be
 neither the one nor the other.
@@ -2988,7 +2988,7 @@ meaning.
 |-----------------------------------------------------------|
 | <span class="small">*   The force of the dilemma.*</span> |
 
-   <span id="pp_94"></span>*Aph*. 94.[\*](#pp_94) \[Because,\] either
+   <span id="pp_94"></span>*Aph*. 94.[\*](#pp_94.md) \[Because,\] either
 way, he would be inefficient.
 
    <span id="pp_94a"></span>*a*. Since, if he were free, he would have
@@ -3009,11 +3009,11 @@ be the case, what becomes of the Scripture-texts which declare the
 |------------------------------------------------------------------------------------|
 | <span class="small">*   The import of the texts which speak of the 'Lord.'*</span> |
 
-   <span id="pp_95"></span>*Aph*. 95.[\*](#pp_95) \[The Scriptural texts
+   <span id="pp_95"></span>*Aph*. 95.[\*](#pp_95.md) \[The Scriptural texts
 which make mention of the 'Lord' are either glorifications of the
 liberated Soul, or homages to the recognized<span
-id="page_115_fr_3"></span>[3](#page_115_note_3) \[deities of the Hindu
-pantheon\].<span id="page_115_fr_4"></span>[4](#page_115_note_4)
+id="page_115_fr_3"></span>[3](#page_115_note_3.md) \[deities of the Hindu
+pantheon\].<span id="page_115_fr_4"></span>[4](#page_115_note_4.md)
 
    <span id="pp_95a"></span>*a*. That is to say: accordingly as the case
 may be, *some* text \[among those in which the term 'Lord' occurs,\] is
@@ -3025,7 +3025,7 @@ other text, declaratory, for example, of creatorship, &c., preceded by
 resolution \[to create, is intended\] to extol \[and to purify the mind
 of the contemplator, by enabling him to take a part in extolling\] the
 eternity, &c., of the familiarly known<span
-id="page_115_fr_3"></span>[3](#page_115_note_3) Brahmá, <span
+id="page_115_fr_3"></span>[3](#page_115_note_3.md) Brahmá, <span
 id="page_116">p. 116</span> Vishṉu, Śiva, or other *non*-eternal 'Lord;'
 since these, though possessed of the conceit \[of individuality\], &c.,
 \[and, in so far, liable to perish\], have immortality, &c., in a
@@ -3033,7 +3033,7 @@ secondary sense; \[seeing that the Soul, in *every* combination, is
 immortal, though the combination itself is not so\].
 
    <span id="pp_95b"></span>*b*. But then, \[some one may say\], even if
-it were thus \[as alleged under [§ 95](#pp_95)\], what is heard in
+it were thus \[as alleged under [§ 95](#pp_95.md)\], what is heard in
 Scripture, \[viz.\], the fact that it \[viz., Soul\] is the *governor*
 of Nature, &c., would not be the case; for, in the world, we speak of
 government in reference only to modifications \[preceded and
@@ -3048,7 +3048,7 @@ this he replies:
 |--------------------------------------------------------------------------------------------------------|
 | <span class="small">*   Soul, like the lode stone, acts not by resolve, but through proximity.*</span> |
 
-   <span id="pp_96"></span>*Aph*. 96.[\*](#pp_96) The governorship
+   <span id="pp_96"></span>*Aph*. 96.[\*](#pp_96.md) The governorship
 \[thereof, i.e., of Soul over Nature\] is from \[its\] proximity
 thereto, \[not from its resolving to act thereon\]; as is the case with
 the gem, \[the lodestone, in regard to iron\].
@@ -3056,7 +3056,7 @@ the gem, \[the lodestone, in regard to iron\].
    <span id="pp_96a"></span>*a*. If it were alleged that \[its, Soul's\]
 creativeness, or \[its\] governorship, was through a *resolve* \[to
 create, or to govern\], then this objection \[brought forward under [§
-95. *b*.](#pp_95b)\] would apply. But \[it is not so; for,\] by *us*
+95. *b*.](#pp_95b.md)\] would apply. But \[it is not so; for,\] by *us*
 \[Sánkhyas,\] it is held that the Soul's governorship, in the shape of
 creatorship, or the like, is merely from \[its\] *proximity* \[to
 Nature\]; 'as is the case with the \[lodestone\] gem.'
@@ -3065,14 +3065,14 @@ Nature\]; 'as is the case with the \[lodestone\] gem.'
 by iron merely by proximity, without resolving \[either to act or to be
 acted on\], &c., so, by the mere conjunction of the primal Soul, Nature
 is changed into the principle \[called\] the 'Great one,' \[or Mind,
-(see [§ 61. *c*.](#pp_61c))\]. And in this alone consists \[what we
+(see [§ 61. *c*.](#pp_61c).md)\]. And in this alone consists \[what we
 speak of as\] its acting as *creator* towards that which is superadded
 to it: such is the meaning
 
 <span id="page_118">p. 118</span>
 
    <span id="pp_96c"></span>*c*. And thus it is declared, \[in some one
-of the Puráṉas<span id="page_118_fr_1"></span>[1](#page_118_note_1)\]:
+of the Puráṉas<span id="page_118_fr_1"></span>[1](#page_118_note_1.md)\]:
 'As the iron acts, whilst the gem \[the lodestone,\] stands void of
 volition, just so this world is created by a deity who is mere
 Existence. Thus it is, that there are, in the Soul, both agency
@@ -3092,19 +3092,19 @@ so he declares \[as follows\]:
 |---------------------------------------------------------------------------------|
 | <span class="small">*   In like manner, embodied souls do not energize.*</span> |
 
-   <span id="pp_97"></span>*Aph*. 97.[\*](#pp_97) In the case of
+   <span id="pp_97"></span>*Aph*. 97.[\*](#pp_97.md) In the case of
 individual products, also, \[the apparent agency\] of animal souls \[is
 solely through proximity\].
 
    <span id="pp_97a"></span>*a*. 'The agency is solely through
-proximity:' so much is supplied \[from [§ 96](#pp_96)\].
+proximity:' so much is supplied \[from [§ 96](#pp_96.md)\].
 
    <span id="pp_97b"></span>*b*. The meaning is this, that, in the case,
 also, of particular productions,—the creation, &c., of things individual
 \[as contradistinguished from that of all things in the lump, (see
 *Vedánta-sára*, § 67)\],—animal souls, i.e., souls in which the
 intellects \[of individuals\] reflect themselves \[see [§ 99.
-*a*.](#pp_99a)\], overrule, merely through proximity, but not through
+*a*.](#pp_99a.md)\], overrule, merely through proximity, but not through
 any effort; seeing that these \[animal souls\] are none other than the
 motionless Thought.
 
@@ -3123,7 +3123,7 @@ this he replies:
 |-----------------------------------------------------------------------------------------|
 | <span class="small">*   How the Vedas need not the 'Lord' to authenticate them.*</span> |
 
-   <span id="pp_98"></span>*Aph*. 98.[\*](#pp_98) The declaration of the
+   <span id="pp_98"></span>*Aph*. 98.[\*](#pp_98.md) The declaration of the
 texts or sense \[of the Veda, by Brahmá, for example\], since *he* knows
 the truth, \[*is* authorative evidence\].
 
@@ -3134,7 +3134,7 @@ true, the declaration of the texts or sense of the Vedas, where *these*
 are the speakers, *is* evidence \[altogether indisputable\].'
 
    <span id="pp_98b"></span>*b*. But then, if Soul, by its simple
-proximity \[to Nature ([§ 96](#pp_96))\], is an overruler in a
+proximity \[to Nature ([§ 96](#pp_96).md)\], is an overruler in a
 *secondary* sense \[only of the term,—as the magnet may be said, is a
 secondary sense, to draw the iron, while the conviction is entertained,
 that, actually and literally, the iron draws the magnet\],—who is the
@@ -3148,8 +3148,8 @@ that, actually and literally, the iron draws the magnet\],—who is the
 |-----------------------------------------------------------------------------------------------------|
 | <span class="small">*   It is in the shape of the internal organ, that Nature affects Soul.*</span> |
 
-   <span id="pp_99"></span>*Aph*. 99.[\*](#pp_99) The internal
-organ,<span id="page_121_fr_1"></span>[1](#page_121_note_1) through its
+   <span id="pp_99"></span>*Aph*. 99.[\*](#pp_99.md) The internal
+organ,<span id="page_121_fr_1"></span>[1](#page_121_note_1.md) through its
 being enlightened thereby \[i.e., by Soul\], is the overruler; as is the
 iron, \[in respect of the magnet\].
 
@@ -3173,7 +3173,7 @@ that consists in direct perception,\] states the definition of inference
 |----------------------------------------------------|
 | <span class="small">*   Inference defined.*</span> |
 
-   <span id="pp_100"></span>*Aph*. 100.[\*](#pp_100) The knowledge of
+   <span id="pp_100"></span>*Aph*. 100.[\*](#pp_100.md) The knowledge of
 the connected \[e.g., fire\], through perception of the connexion
 \[e.g., of fire with smoke\], is inference.
 
@@ -3190,7 +3190,7 @@ principle\].
 knowledge of the soul; \[whilst an Inference, so far forth as it is an
 instrument in the establishment of knowledge deducible from it, is an
 affection of the internal organ, or understanding (see [§ 87.
-*c*.](#pp_87c))\]
+*c*.](#pp_87c).md)\]
 
    <span id="pp_100c"></span>*c*. He \[next\] defines testimony
 (*śabda*):
@@ -3203,7 +3203,7 @@ affection of the internal organ, or understanding (see [§ 87.
 |----------------------------------------------------------|
 | <span class="small">*   Valid testimony defined.*</span> |
 
-   <span id="pp_101"></span>*Aph*. 101.[\*](#pp_101) Testimony \[such as
+   <span id="pp_101"></span>*Aph*. 101.[\*](#pp_101.md) Testimony \[such as
 is entitled to the name of evidence, is a declaration by one worthy \[to
 be believed\].
 
@@ -3211,7 +3211,7 @@ be believed\].
 and so the evidence which is called 'Testimony' is the knowledge arising
 from a suitable declaration: such is the meaning. And \[while this
 belongs to the understanding, or internal organ (see [§ 100.
-*b*.](#pp_100b))\] the result is that \[knowledge\] in the Soul, \[which
+*b*.](#pp_100b).md)\] the result is that \[knowledge\] in the Soul, \[which
 is called,\] 'knowledge by hearing' (*śabda-bodha*).
 
    <span id="pp_101b"></span>*b*. He \[next\] volunteers to tell us what
@@ -3223,7 +3223,7 @@ is the use of his setting forth \[the various divisions of\] evidence:
 |-------------------------------------------------------------------------------------|
 | <span class="small">*   Why the kinds of Evidence have been here set forth.*</span> |
 
-   <span id="pp_102"></span>*Aph*. 102.[\*](#pp_102) Since the
+   <span id="pp_102"></span>*Aph*. 102.[\*](#pp_102.md) Since the
 establishment of \[the existence of\] both \[soul and non-soul\] is by
 means of evidence, the decaration thereof \[i.e., of the kinds of
 evidence, has been here made\].
@@ -3244,7 +3244,7 @@ established discriminatively:
 |---------------------------------------------------------------------------------------|
 | <span class="small">*   The existence of Soul and Nature argued from analogy.*</span> |
 
-   <span id="pp_103"></span>*Aph*. 103.[\*](#pp_103) The establishment
+   <span id="pp_103"></span>*Aph*. 103.[\*](#pp_103.md) The establishment
 of both \[Nature and Soul\] is by analogy.
 
    <span id="pp_103a"></span>*a*. \[Analogy (*sámányato dṛishṭa*) is
@@ -3267,9 +3267,9 @@ are proved \[to exist\]: such is the meaning.
 
    <span id="pp_103b"></span>*b*. Of these \[viz., Nature and Soul,\]
 the argument from analogy for \[the existence of\] Nature is as follows:
-the Great Principle \[viz., Understanding (see [§ 61. *c*.](#pp_61c))\]
+the Great Principle \[viz., Understanding (see [§ 61. *c*.](#pp_61c).md)\]
 is formed out of the things \[called\] Pleasure, Pain, and Delusion,
-\[to the aggregate of which three in equipoise (see [§ 61](#pp_61)) the
+\[to the aggregate of which three in equipoise (see [§ 61](#pp_61).md) the
 name of Nature is given\]; because, whilst it is \[undeniably,\] a
 production, it has the characters of Pleasure, Pain, and Delusion; just
 as a bracelet, or the like, formed of gold, or the like; \[has the
@@ -3279,7 +3279,7 @@ the like\].
 
    <span id="pp_103c"></span>*c*. But, \[as regards tht argument from
 analogy, in proof of the existence\] of Soul, \[it is, as stated before,
-under [§ 66](#pp_66), to the following effect\]: Nature is for the sake
+under [§ 66](#pp_66.md), to the following effect\]: Nature is for the sake
 of *another*; because it is something that acts as a combination; as a
 house, for instance, \[which is a combination of various parts combined
 for the benefit of the tenant\]. In this instance, having gathered, in
@@ -3304,7 +3304,7 @@ as thorough emancipation. To this he replies:
 |--------------------------------------------------------------------|
 | <span class="small">*   When it is that experience ceases.*</span> |
 
-   <span id="pp_104"></span>*Aph*. 104.[\*](#pp_104) Experience
+   <span id="pp_104"></span>*Aph*. 104.[\*](#pp_104.md) Experience
 \[whether of pain or pleasure, ends with the discernment of\] Thought,
 \[or Soul, as contradistinguished from Nature\].
 
@@ -3329,7 +3329,7 @@ the acts done by one different. To this he replies:
 |------------------------------------------------------------------------------------|
 | <span class="small">*   The fruit of the action is not always the agent's.*</span> |
 
-   <span id="pp_105"></span>*Aph*. 105.[\*](#pp_105) The experience of
+   <span id="pp_105"></span>*Aph*. 105.[\*](#pp_105.md) The experience of
 the fruit *may* belong even to another than the agent; as in the case of
 food, &c.
 
@@ -3344,7 +3344,7 @@ is the case here, also.
 \[which may serve, in practice, to silence, by the *argumentum ad
 hominem*, him on whose principles it may be valid\], he \[next\]
 declares his own doctrine, \[in regard to the doubt started under [§
-104. *b*.](#pp_104b)\]:
+104. *b*.](#pp_104b.md)\]:
 
  
 
@@ -3352,15 +3352,15 @@ declares his own doctrine, \[in regard to the doubt started under [§
 |----------------------------------------------------------------------------------------|
 | <span class="small">*   To suppose that Soul acts and experiences is an error.*</span> |
 
-   <span id="pp_106"></span>*Aph*. 106.[\*](#pp_106) Or, \[to give a
-better account of the matter than that given in [§ 105](#pp_105)\],
+   <span id="pp_106"></span>*Aph*. 106.[\*](#pp_106.md) Or, \[to give a
+better account of the matter than that given in [§ 105](#pp_105.md)\],
 since it is from non-discrimination that it is derived, the notion that
 the *agent* \[soul being mistaken for an agent,\] has the fruit \[of the
 act is a wrong notion\].
 
    <span id="pp_106a"></span>*a*. The soul is neither an agent nor a
 patient; but, from the fact that the Great Principle \[the actual agent
-(see [§ 97. *b*.](#pp_97b))\] is reflected in it, there arises the
+(see [§ 97. *b*.](#pp_97b).md)\] is reflected in it, there arises the
 *conceit* of its being an agent. 'Or, since it is from
 non-discrimination;' that is to say, because it is from the failure to
 discriminate between Nature and Soul, that this takes place, i.e., that
@@ -3371,7 +3371,7 @@ experience neither pain nor pleasure\].
 <span id="page_129">p. 129</span>
 
    <span id="pp_106b"></span>*b*. The opposite of this \[wrong view,
-referred to in [§ 106](#pp_106),\] he states \[as follows\]:
+referred to in [§ 106](#pp_106.md),\] he states \[as follows\]:
 
  
 
@@ -3379,7 +3379,7 @@ referred to in [§ 106](#pp_106),\] he states \[as follows\]:
 |-------------------------------------------------------------------------------|
 | <span class="small">*   Soul is really neither agent nor experiencer.*</span> |
 
-   <span id="pp_107"></span>*Aph*. 107.[\*](#pp_107) And, when the truth
+   <span id="pp_107"></span>*Aph*. 107.[\*](#pp_107.md) And, when the truth
 is told, there is \[seen to be\] neither \[agency, in Soul, nor
 experience\].
 
@@ -3401,7 +3401,7 @@ evidence:
 |-----------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   What is perceptible, under certain circumstances, may be imperceptible, under others.*</span> |
 
-   <span id="pp_108"></span>*Aph*. 108.[\*](#pp_108) \[A thing may be\]
+   <span id="pp_108"></span>*Aph*. 108.[\*](#pp_108.md) \[A thing may be\]
 an object \[perceptible\], and also \[at another time,\] not an object,
 through there being, in consequence of great distance, &c., a want of
 \[conjunction of the sense with the thing\], or \[on the other hand,\]
@@ -3443,7 +3443,7 @@ regard to this, he declares:
 |----------------------------------------------------------|
 | <span class="small">*   The subtility of Nature.*</span> |
 
-   <span id="pp_109"></span>*Aph*. 109.[\*](#pp_109) Her
+   <span id="pp_109"></span>*Aph*. 109.[\*](#pp_109.md) Her
 imperceptibleness arises from \[her\] subtility.
 
    <span id="pp_109a"></span>*a*. 'Her,' i.e., *Nature's*,
@@ -3464,13 +3464,13 @@ all-pervasive.
 |------------------------------------------------------------------------------------|
 | <span class="small">*   Nature inferred from the existence of productions.*</span> |
 
-   <span id="pp_110"></span>*Aph*. 110.[\*](#pp_110) \[Nature exists;\]
+   <span id="pp_110"></span>*Aph*. 110.[\*](#pp_110.md) \[Nature exists;\]
 because her existence is gathered from the beholding of productions.
 
    <span id="pp_110a"></span>*a*. As the knowledge of \[there being such
 things as\] atoms comes from the beholding of jars, &c., \[which are
 agglomerations\], so the knowledge of Nature comes from the beholding of
-products which have the three Qualities; \[(see [§ 62. *a*.](#pp_62a))
+products which have the three Qualities; \[(see [§ 62. *a*.](#pp_62a).md)
 and the existence of which implies a cause, to which the name of Nature
 is given, in which these constituents exist from eternity\].
 
@@ -3488,7 +3488,7 @@ doctrine\], that it has *Nature* as its cause. So he sets forth a doubt
 |------------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   A doubt thrown on the existence of Nature, by the contradiction of dissentients.*</span> |
 
-   <span id="pp_111"></span>*Aph*. 111.[\*](#pp_111) If \[you throw out
+   <span id="pp_111"></span>*Aph*. 111.[\*](#pp_111.md) If \[you throw out
 the doubt that\] it \[viz., the existence of Nature,\] is not
 established, because of the contradiction of asserters \[of other views,
 then you will find an answer in the next aphorism\].
@@ -3518,8 +3518,8 @@ point\]:
 |----------------------------------------------------------------|
 | <span class="small">*   Mutual denials settle nothing.*</span> |
 
-   <span id="pp_112"></span>*Aph*. 112.[\*](#pp_112) Still, since<span
-id="page_134_fr_1"></span>[1](#page_134_note_1) each \[doctrine\] is
+   <span id="pp_112"></span>*Aph*. 112.[\*](#pp_112.md) Still, since<span
+id="page_134_fr_1"></span>[1](#page_134_note_1.md) each \[doctrine\] is
 established in the opinion of each, a \[mere unsupported\] denial is not
 \[decisive\].
 
@@ -3545,12 +3545,12 @@ instance\]? To this he replies:
 |------------------------------------------------------------------------------------------|
 | <span class="small">*   Nature the only hypothesis consistent with what appears.*</span> |
 
-   <span id="pp_113"></span>*Aph*. 113.[\*](#pp_113) Because \[if we
+   <span id="pp_113"></span>*Aph*. 113.[\*](#pp_113.md) Because \[if we
 were to infer any other cause than Nature,\] we should have a
 contradiction to the threefold \[aspect which things really exhibit\].
 
    <span id="pp_113a"></span>*a*. Quality is threefold \[see [§ 61.
-*a*.](#pp_61a)\], viz., Goodness, Passion, and Darkness: there would be
+*a*.](#pp_61a.md)\], viz., Goodness, Passion, and Darkness: there would be
 a contradiction to *these*: such is the meaning.
 
    <span id="pp_113b"></span>*b*. The drift here is as follows: If the
@@ -3573,7 +3573,7 @@ of what did not exist:
 |----------------------------------------------------------------------|
 | <span class="small">*   What never existed will never exist.*</span> |
 
-   <span id="pp_114"></span>*Aph*. 114.[\*](#pp_114) The production of
+   <span id="pp_114"></span>*Aph*. 114.[\*](#pp_114.md) The production of
 what is no entity, as a man's horn, does not take place.
 
    <span id="pp_114a"></span>*a*. Of that which, like the horn of a man,
@@ -3590,7 +3590,7 @@ must be some \[previously existent\] entity:
 |-----------------------------------------------------------------|
 | <span class="small">*   A product cannot be of nothing.*</span> |
 
-   <span id="pp_115"></span>*Aph*. 115.[\*](#pp_115) Because of the
+   <span id="pp_115"></span>*Aph*. 115.[\*](#pp_115.md) Because of the
 rule, that there must be some material \[of which the product may
 consist\].
 
@@ -3608,7 +3608,7 @@ This he insists upon \[as follows\]:
 |-----------------------------------------------------------------------------------|
 | <span class="small">*   Else, anything might occur at any time, anywhere.*</span> |
 
-   <span id="pp_116"></span>*Aph*. 116.[\*](#pp_116) Because everything
+   <span id="pp_116"></span>*Aph*. 116.[\*](#pp_116.md) Because everything
 is not possible everywhere and always \[which might be the case\] if
 materials could be dispensed with\].
 
@@ -3626,7 +3626,7 @@ declares, there is no production of what existed not \[antecedently\]:
 |---------------------------------------------------------------------------------|
 | <span class="small">*   Effects preexist, potentially, in their causes.*</span> |
 
-   <span id="pp_117"></span>*Aph*. 117.[\*](#pp_117) Because it is that
+   <span id="pp_117"></span>*Aph*. 117.[\*](#pp_117.md) Because it is that
 which is competent \[to the making of anything\] that makes what is
 possible, \[as a product of it\].
 
@@ -3648,7 +3648,7 @@ takes <span id="page_138">p. 138</span> place, \[but of an entity, whose
 |-----------------------------------------------------------------------------|
 | <span class="small">*   The product is nothing else than the cause.*</span> |
 
-   <span id="pp_118"></span>*Aph*. 118.[\*](#pp_118) And because it
+   <span id="pp_118"></span>*Aph*. 118.[\*](#pp_118.md) And because it
 \[the product,\] is \[nothing else than\] the cause, \[in the shape of
 the product\].
 
@@ -3666,7 +3666,7 @@ the meaning.
 |--------------------------------------------------------------------------------------|
 | <span class="small">*   A doubt whether that which is can be said to become.*</span> |
 
-   <span id="pp_119"></span>*Aph*. 119.[\*](#pp_119) If \[it be alleged
+   <span id="pp_119"></span>*Aph*. 119.[\*](#pp_119.md) If \[it be alleged
 that\] there is no possibility of that's *becoming* which already *is*
 \[then the answer will be found in the next aphorism\].
 
@@ -3691,14 +3691,14 @@ to this point\]:
 |-------------------------------------------------------------------------------------------|
 | <span class="small">*   Production is only manifestation; and so of the opposite.*</span> |
 
-   <span id="pp_120"></span>*Aph*. 120.[\*](#pp_120) No; \[do not argue
+   <span id="pp_120"></span>*Aph*. 120.[\*](#pp_120.md) No; \[do not argue
 that what *is* cannot become; for\] the employment and the
 non-employment \[of the term 'production'\] are occasioned by the
 *manifestation* \[and the non-manifestation of what is spoken of as
 produced, or not\].
 
    <span id="pp_120a"></span>*a*. 'No;' the view stated \[in [§
-119](#pp_119)\] is not the right one: such is the meaning.
+119](#pp_119.md)\] is not the right one: such is the meaning.
 
    <span id="pp_120b"></span>*b*. As the whiteness of white cloth
 \[which has become\] dirty is brought manifestly out by means of
@@ -3729,7 +3729,7 @@ was not an entity.
    <span id="pp_120e"></span>*e*. But if \[the employment of the term\]
 'production' is occasioned by \[the fact of\] *manifestation*, by what
 is occasioned \[the employment of the term\] *destruction*?<span
-id="page_141_fr_1"></span>[1](#page_141_note_1) To this he replies:
+id="page_141_fr_1"></span>[1](#page_141_note_1.md) To this he replies:
 
  
 
@@ -3737,7 +3737,7 @@ id="page_141_fr_1"></span>[1](#page_141_note_1) To this he replies:
 |---------------------------------------------------------------|
 | <span class="small">*   What is meant by destruction.*</span> |
 
-   <span id="pp_121"></span>*Aph*. 121.[\*](#pp_121) Destruction \[of
+   <span id="pp_121"></span>*Aph*. 121.[\*](#pp_121.md) Destruction \[of
 anything\] is the resolution \[of the thing spoken of as destroyed,\]
 into the cause \[from which it was produced\].
 
@@ -3746,7 +3746,7 @@ mallet, of a jar into its cause \[i.e., into the particles of clay which
 constituted the jar\], to *this* are due both \[the employment of\] the
 term 'destruction,' and the kind of action \[or behaviour\] belonging to
 anything \[which is termed its destruction\].<span
-id="page_141_fr_4"></span>[4](#page_141_note_4)
+id="page_141_fr_4"></span>[4](#page_141_note_4.md)
 
 <span id="page_142">p. 142</span>
 
@@ -3762,7 +3762,7 @@ thread \[spun again from the fruit of the cotton-plant\]. So is it with
 all entities.
 
    <span id="pp_121c"></span>*c*. Pray \[some one may ask\], is \[this\]
-*manifestation* \[that you speak of under [§ 120](#pp_120)\] something
+*manifestation* \[that you speak of under [§ 120](#pp_120.md)\] something
 real, or something not real? If it be something real \[and which,
 therefore, never anywhere ceases to be\], then \[all\] effects \[during
 this constant manifestation\] ought constantly to be *perceived*; and,
@@ -3781,9 +3781,9 @@ we have a *regressus in infinitum*. To this he replies:
 |--------------------------------------------------------------------------------------|
 | <span class="small">*   How manifestation may occur without being an entity.*</span> |
 
-   <span id="pp_122"></span>*Aph*. 122.[\*](#pp_122) Because they seek
+   <span id="pp_122"></span>*Aph*. 122.[\*](#pp_122.md) Because they seek
 each other reciprocally,<span
-id="page_143_fr_3"></span>[3](#page_143_note_3) as is the case with seed
+id="page_143_fr_3"></span>[3](#page_143_note_3.md) as is the case with seed
 and plant, \[manifestation may generate manifestation, from eternity to
 eternity\].
 
@@ -3803,7 +3803,7 @@ reciprocally\].
 |-----------------------------------------------------------------------------------------|
 | <span class="small">*   The objections to the theory of manifestation retorted.*</span> |
 
-   <span id="pp_123"></span>*Aph*. 123.[\*](#pp_123) Or, \[at all
+   <span id="pp_123"></span>*Aph*. 123.[\*](#pp_123.md) Or, \[at all
 events, our theory of 'manifestation' is as\] blameless as \[your theory
 of\] 'production.'
 
@@ -3811,7 +3811,7 @@ of\] 'production.'
 produced, or is it not? If it is produced, then of this \[production of
 production\] there must be production; so that there is a *regressus in
 infinitum*, \[such as you allege against *our* theory, under [§ 121.
-*c*.](#pp_121c)\] If it be *not* produced, then, pray, is this because
+*c*.](#pp_121c.md)\] If it be *not* produced, then, pray, is this because
 it is *unreal*, or because it is eternal? If because it is unreal, then
 production never is at all; so that it would never be perceived, \[as
 you allege that it is\]. Again, if \[production is not something
@@ -3824,7 +3824,7 @@ pretend is the case\]. Again, if you say, since 'production' itself
 supposing an ulterior manifestation \[of manifestation\]? The view which
 you hold on this point is *ours*, also; \[and <span id="page_145">p.
 145</span> thus every objection stated or hinted under [§ 121.
-*c*.](#pp_121c), is capable of being retorted\].
+*c*.](#pp_121c.md), is capable of being retorted\].
 
    <span id="pp_123b"></span>*b*. He \[now\] states the community of
 properties \[that exists\] among the products of Nature, mutually:
@@ -3835,7 +3835,7 @@ properties \[that exists\] among the products of Nature, mutually:
 |------------------------------------------------------------------------|
 | <span class="small">*   The characters common to all products.*</span> |
 
-   <span id="pp_124"></span>*Aph*. 124.[\*](#pp_124) \[A product of
+   <span id="pp_124"></span>*Aph*. 124.[\*](#pp_124.md) \[A product of
 Nature is\] caused, uneternal, not all-pervading, mutable,
 multitudinous, dependent, mergent.
 
@@ -3854,7 +3854,7 @@ from which it originated.
 
    <span id="pp_124b"></span>*b*. \[But, some one may say\], if
 realities be the twenty-five \[which the Sánkhyas enumerate (see [§
-61](#pp_61)), and no more\], pray, are such common operations as
+61](#pp_61).md), and no more\], pray, are such common operations as
 knowing, enjoying, &c., absolutely *nothing*; you accordingly giving up
 what you *see*, \[in order to save an hypothesis with which what you see
 is irreconcilable\]? To this he replies:
@@ -3865,7 +3865,7 @@ is irreconcilable\]? To this he replies:
 |--------------------------------------------------------------------------------------------|
 | <span class="small">*   The qualities of the Nyáya are implied in the term Nature.*</span> |
 
-   <span id="pp_125"></span>*Aph*. 125.[\*](#pp_125) There is the
+   <span id="pp_125"></span>*Aph*. 125.[\*](#pp_125.md) There is the
 establishment of these \[twenty-four 'Qualities' of the *Nyáya*, which
 you fancy that we do not recognize, because we do not explicitly
 enumerate them\], either by reason that these ordinary qualities \[as
@@ -3905,21 +3905,21 @@ which Nature and \[her\] products agree:
 |-----------------------------------------------------------------------------------|
 | <span class="small">*   The characters common to Nature and her products.*</span> |
 
-   <span id="pp_126"></span>*Aph*. 126.[\*](#pp_126) Of both \[Nature
+   <span id="pp_126"></span>*Aph*. 126.[\*](#pp_126.md) Of both \[Nature
 and her products\] the fact that they consist of the three Qualities
-\[[§ 61. *a*.](#pp_61a)\], and that they are irrational, &c., \[is the
+\[[§ 61. *a*.](#pp_61a.md)\], and that they are irrational, &c., \[is the
 common property\].
 
    <span id="pp_126a"></span>*a*. Consisting of the three qualities, and
 being irrational, \[such in the meaning of the compound term with which
 the aphorism commences\]. By the expression '&c.' is meant \[their\]
-being intended for *another*, \[see [§ 66](#pp_66)\]. 'Of both,' i.e.,
+being intended for *another*, \[see [§ 66](#pp_66.md)\]. 'Of both,' i.e.,
 of the cause \[viz., Nature\], and of the effects \[viz., all natural
 products\]. Such is the meaning:
 
    <span id="pp_126b"></span>*b*. He \[next\] states the mutual
 differences of character among the three Qualities which \[see [§
-61](#pp_61)\] are the \[constituent\] parts of Nature:
+61](#pp_61.md)\] are the \[constituent\] parts of Nature:
 
  
 
@@ -3927,8 +3927,8 @@ differences of character among the three Qualities which \[see [§
 |---------------------------------------------------------------------|
 | <span class="small">*   In what the three Qualities differ.*</span> |
 
-   <span id="pp_127"></span>*Aph*. 127.[\*](#pp_127) The Qualities \[[§
-62](#pp_62)\] differ in character mutually by pleasantness,
+   <span id="pp_127"></span>*Aph*. 127.[\*](#pp_127.md) The Qualities \[[§
+62](#pp_62.md)\] differ in character mutually by pleasantness,
 unpleasantness, lassitude, &c., \[in which forms, severally, the
 Qualities present themselves\].
 
@@ -3951,7 +3951,7 @@ differences, he tells in what respects they agree:
 |------------------------------------------------------------------------------------------|
 | <span class="small">*   In what respects the Qualities agree, as well as differ.*</span> |
 
-   <span id="pp_128"></span>*Aph*. 128.[\*](#pp_128) Through Lightness
+   <span id="pp_128"></span>*Aph*. 128.[\*](#pp_128.md) Through Lightness
 and other habits the Qualities mutually agree and differ.
 
    <span id="pp_128a"></span>*a*. The meaning is as follows: the
@@ -3968,7 +3968,7 @@ together, and being reciprocally present, \[one in another\], for the
 sake of Soul.
 
    <span id="pp_128b"></span>*b*. By \[the expressions, in [§
-124](#pp_124),\] 'caused,' &c., it is declared that the 'Great one' \[or
+124](#pp_124.md),\] 'caused,' &c., it is declared that the 'Great one' \[or
 Mind\], &c., are *products*. He states the proof of this:
 
  
@@ -3977,7 +3977,7 @@ Mind\], &c., are *products*. He states the proof of this:
 |-------------------------------------------------------------------|
 | <span class="small">*   Proof that Mind &c. are products.*</span> |
 
-   <span id="pp_129"></span>*Aph*. 129.[\*](#pp_129) Since they are
+   <span id="pp_129"></span>*Aph*. 129.[\*](#pp_129.md) Since they are
 other than both \[Soul and Nature, the only two uncaused entities\],
 Mind and the rest are products; as is the case with a jar, or the like.
 
@@ -3994,7 +3994,7 @@ eternal, viz., Nature and Soul.
 |-------------------------------------------------|
 | <span class="small">*   A second proof.*</span> |
 
-   <span id="pp_130"></span>*Aph*. 130.[\*](#pp_130) Because of
+   <span id="pp_130"></span>*Aph*. 130.[\*](#pp_130.md) Because of
 \[their\] measure, \[which is a limited one\].
 
    <span id="pp_130a"></span>*a*. That is to say: \[Mind and the rest
@@ -4009,12 +4009,12 @@ two that are uncaused, viz., Nature and Soul, are unlimited\].
 |------------------------------------------------|
 | <span class="small">*   A third proof.*</span> |
 
-   <span id="pp_131"></span>*Aph*. 131.[\*](#pp_131) Because they
+   <span id="pp_131"></span>*Aph*. 131.[\*](#pp_131.md) Because they
 conform \[to Nature\].
 
    <span id="pp_131a"></span>*a*. \[Mind and the rest are products\];
 because they well \[follow and\] correspond with Nature; i.e., because
-the Qualities of Nature \[[§ 61](#pp_61)\] are seen in all things: \[and
+the Qualities of Nature \[[§ 61](#pp_61.md)\] are seen in all things: \[and
 it <span id="page_152">p. 152</span> is a maxim, that what is in the
 effect was derived from the cause and implies the cause\].
 
@@ -4027,7 +4027,7 @@ next aphorism\]:
 |-------------------------------------------------|
 | <span class="small">*   A fourth proof.*</span> |
 
-   <span id="pp_132"></span>*Aph*. 132.[\*](#pp_132) And, finally,
+   <span id="pp_132"></span>*Aph*. 132.[\*](#pp_132.md) And, finally,
 because it is through the power \[of the cause alone, that the product
 can do aught\].
 
@@ -4054,7 +4054,7 @@ what becomes of Mind and the others, when they are *not* products\]:
 |-------------------------------------------------------------|
 | <span class="small">*   Converse proof of the same.*</span> |
 
-   <span id="pp_133"></span>*Aph*. 133.[\*](#pp_133) On the quitting
+   <span id="pp_133"></span>*Aph*. 133.[\*](#pp_133.md) On the quitting
 thereof \[quitting the condition of product\], there is Nature, or Soul,
 \[into one or other of which the product must needs have resolved
 itself\].
@@ -4077,12 +4077,12 @@ follows\]:
 |------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   Mind and the rest would not be at all, if neither product nor non-product.*</span> |
 
-   <span id="pp_134"></span>*Aph*. 134.[\*](#pp_134) If they were other
+   <span id="pp_134"></span>*Aph*. 134.[\*](#pp_134.md) If they were other
 than these two they would be void; \[seeing that there is nothing
 self-existent, besides soul and Nature\].
 
    <span id="pp_134a"></span>*a*. If Mind and the rest were 'other than
-these two,' i.e., than product or non-product \[[§ 133](#pp_133)\], they
+these two,' i.e., than product or non-product \[[§ 133](#pp_133.md)\], they
 would be in the shape of what is 'void,' i.e., in the shape of
 nonentity.
 
@@ -4098,7 +4098,7 @@ are a sign of \[there being such a principle as\] Nature? They may be
 |-----------------------------------------------------------------------------------------|
 | <span class="small">*   What kind of causes can be inferred from their effects.*</span> |
 
-   <span id="pp_135"></span>*Aph*. 135.[\*](#pp_135) The cause is
+   <span id="pp_135"></span>*Aph*. 135.[\*](#pp_135.md) The cause is
 inferred from the effect, \[in the case of Nature and her products\];
 because it accompanies it.
 
@@ -4132,7 +4132,7 @@ be the cause of the world: what need of *Nature*? To this he replies:
 |-------------------------------------------------------------------|
 | <span class="small">*   How Mind must have an antecedent.*</span> |
 
-   <span id="pp_136"></span>*Aph*. 136.[\*](#pp_136) The indiscrete,
+   <span id="pp_136"></span>*Aph*. 136.[\*](#pp_136.md) The indiscrete,
 \[Nature, must be inferred\] from its \[discrete and resolvable\]
 effect. \[Mind\], in which are the three Qualities, \[which constitute
 Nature\].
@@ -4161,7 +4161,7 @@ follows\]:
 |----------------------------------------------------------------------------------------|
 | <span class="small">*   Why Nature, and nothing else, must be the root of all.*</span> |
 
-   <span id="pp_137"></span>*Aph*. 137.[\*](#pp_137) There is no denying
+   <span id="pp_137"></span>*Aph*. 137.[\*](#pp_137.md) There is no denying
 that it \[Nature,\] *is*; because of its effects, \[which will be in
 vain attributed to any other source\].
 
@@ -4188,7 +4188,7 @@ has *no* products. In regard to this, he remarks \[as follows\]:
 |----------------------------------------------------------------------------------|
 | <span class="small">*   It is not from any effect that Soul is inferred.*</span> |
 
-   <span id="pp_138"></span>*Aph*. 138.[\*](#pp_138) \[The relation of
+   <span id="pp_138"></span>*Aph*. 138.[\*](#pp_138.md) \[The relation of
 cause and effect is\] not \[alleged as\] the means of establishing \[the
 existence of Soul\]; because, as is the case with \[the disputed term\]
 'merit,' there is no dispute about there being such a kind of thing;
@@ -4224,7 +4224,7 @@ anything else? To this he replies:
 |------------------------------------------------------|
 | <span class="small">*   Materialism scouted.*</span> |
 
-   <span id="pp_139"></span>*Aph*. 139.[\*](#pp_139) Soul is something
+   <span id="pp_139"></span>*Aph*. 139.[\*](#pp_139.md) Soul is something
 else than the body, &c.
 
    <span id="pp_139a"></span>*a*. \[The meaning of the aphorism is\]
@@ -4239,7 +4239,7 @@ this:
 |----------------------------------------------------------------------------------------|
 | <span class="small">*   The discerptible is subservient to the indiscerptible.*</span> |
 
-   <span id="pp_140"></span>*Aph*. 140.[\*](#pp_140) Because that which
+   <span id="pp_140"></span>*Aph*. 140.[\*](#pp_140.md) Because that which
 is combined \[and is, therefore, discerptible,\] is for the sake of some
 other, \[*not* discerptible\].
 
@@ -4249,7 +4249,7 @@ something else that is discerptible, there would be a *regressus ad
 infinitum*.
 
    <span id="pp_140b"></span>*b*. And combinedness \[involving (see [§
-67](#pp_67)) discerptibleness,\] <span id="page_160">p. 160</span>
+67](#pp_67).md) discerptibleness,\] <span id="page_160">p. 160</span>
 consists in the Qualities' making some product by their state of mutual
 commixture; or \[to express it otherwise,\] combinedness is the state of
 the soft and the hard, \[which distinguishes matter from spirit\]. And
@@ -4265,7 +4265,7 @@ viz., the 'Great one,' &c.
 |--------------------------------------------------------------------------------|
 | <span class="small">*   Soul presents no indication of being material.*</span> |
 
-   <span id="pp_141"></span>*Aph*. 141.[\*](#pp_141) \[And Soul is
+   <span id="pp_141"></span>*Aph*. 141.[\*](#pp_141.md) \[And Soul is
 something else than the body, &c.\]; because there is \[in Soul,\] the
 reverse of the three Qualities, &c.
 
@@ -4284,7 +4284,7 @@ characters of Nature, also, are not seen \[in soul\].
 |--------------------------------------------------------------------------|
 | <span class="small">*   Another proof that Soul is not material.*</span> |
 
-   <span id="pp_142"></span>*Aph*. 142.[\*](#pp_142) And \[Soul is not
+   <span id="pp_142"></span>*Aph*. 142.[\*](#pp_142.md) And \[Soul is not
 material;\] because of \[its\] superintedence \[over Nature\].
 
    <span id="pp_142a"></span>*a*. For a superintendent is an intelligent
@@ -4298,7 +4298,7 @@ being; and Nature is unintelligent: such is the meaning.
 |------------------------------------------------|
 | <span class="small">*   Another proof.*</span> |
 
-   <span id="pp_143"></span>*Aph*. 143.[\*](#pp_143) \[And Soul is not
+   <span id="pp_143"></span>*Aph*. 143.[\*](#pp_143.md) \[And Soul is not
 material;\] because of \[its\] being the experiencer.
 
    <span id="pp_143a"></span>*a*. It is Nature that is experienced; the
@@ -4306,7 +4306,7 @@ experiencer is Soul. Although Soul, from its being unchangeably the
 same, is not \[really\] an experiencer, still the assertion \[in the
 aphorism,\] is made, because of the fact that the reflexion of the
 Intellect befalls it, \[and thus makes it *seem* as if it experienced
-(see [§ 58. *a*.](#pp_58a))\].
+(see [§ 58. *a*.](#pp_58a).md)\].
 
    <span id="pp_143b"></span>*b*. Efforts are engaged in for the sake of
 Liberation. Pray, is this \[for the benefit\] of the Soul, or of Nature;
@@ -4319,9 +4319,9 @@ is, it seems, the experiencer\]? To this be replies:
 |-----------------------------------------------------------------------------|
 | <span class="small">*   For Soul, not Nature, is Liberation wanted.*</span> |
 
-   <span id="pp_144"></span>*Aph*. 144.[\*](#pp_144) \[It is for Soul,
+   <span id="pp_144"></span>*Aph*. 144.[\*](#pp_144.md) \[It is for Soul,
 and not for Nature;\] because<span
-id="page_162_fr_2"></span>[2](#page_162_note_2) the exertions are with a
+id="page_162_fr_2"></span>[2](#page_162_note_2.md) the exertions are with a
 view to isolation \[from all qualities; a condition to which Soul is
 competent, but Nature is not\].
 
@@ -4332,7 +4332,7 @@ essence, \[the departure of which from it would leave nothing behind\],
 and because it would thus prove to be *not* eternal, \[whereas, in
 reality, it *is* eternal\]. The isolation (*kaivalya*) of that alone is
 possible of which the qualities are reflexional, \[and not constitutive
-(see [§ 58. *a*.](#pp_58a))\]; and that is Soul.
+(see [§ 58. *a*.](#pp_58a).md)\]; and that is Soul.
 
    <span id="pp_144b"></span>*b*. Of what nature is this \[Soul\]? To
 this he replies:
@@ -4345,7 +4345,7 @@ this he replies:
 |---------------------------------------------------------|
 | <span class="small">*   The nature of the Soul.*</span> |
 
-   <span id="pp_145"></span>*Aph*. 145.[\*](#pp_145) Since light does
+   <span id="pp_145"></span>*Aph*. 145.[\*](#pp_145.md) Since light does
 not pertain to the unintelligent, light, \[which must pertain to
 something or other, is the essence of the Soul, which, self-manifesting,
 manifests whatever else is manifest\].
@@ -4360,7 +4360,7 @@ consist, essentially, of light.
 
    <span id="pp_145b"></span>*b*. And there is Scripture \[in support of
 this view; for example, the two following texts from the *Bṛihadáraṉyaka
-Upanishad*<span id="page_163_fr_2"></span>[2](#page_163_note_2)\]:
+Upanishad*<span id="page_163_fr_2"></span>[2](#page_163_note_2.md)\]:
 'Wherewith shall one distinguish that wherewith one distinguishes all
 this \[world\]?' 'Wherewith shall one take cognizance of the cognizer?'
 
@@ -4375,7 +4375,7 @@ things; but it is not, essentially, Intelligence. To this he replies:
 |-----------------------------------------------------|
 | <span class="small">*   Soul has no quality*</span> |
 
-   <span id="pp_146"></span>*Aph*. 146.[\*](#pp_146) It \[Soul,\] has
+   <span id="pp_146"></span>*Aph*. 146.[\*](#pp_146.md) It \[Soul,\] has
 not Intelligence as its attribute; because it is without quality.
 
    <span id="pp_146a"></span>*a*. If soul were associated with
@@ -4395,7 +4395,7 @@ contending against\]:
 |---------------------------------------------------------------------------------------|
 | <span class="small">*   Scripture is higher evidence than supposed intuition.*</span> |
 
-   <span id="pp_147"></span>*Aph*. 147.[\*](#pp_147) There is no denial
+   <span id="pp_147"></span>*Aph*. 147.[\*](#pp_147.md) There is no denial
 \[to be allowed\] of what is established by Scripture; because the
 \[supposed\] evidence of intuition for this \[i.e., for the existence or
 qualities in the Soul,\] is confuted \[by the Scriptural declaration of
@@ -4404,7 +4404,7 @@ the contrary\].
 <span id="page_165">p. 165</span>
 
    <span id="pp_147a"></span>*a*. The text, 'For this Soul is
-uncompanioned,'<span id="page_165_fr_1"></span>[1](#page_165_note_1)
+uncompanioned,'<span id="page_165_fr_1"></span>[1](#page_165_note_1.md)
 &c., would be confuted, if there were any annexation of qualities \[to
 Soul: and the notion of confuting Scripture is not to be entertained for
 a moment\].
@@ -4422,7 +4422,7 @@ qualities, &c., \[in the soul\].
 |----------------------------------------------------------------------------------|
 | <span class="small">*   Argument against the soul's being unintelligent.*</span> |
 
-   <span id="pp_148"></span>*Aph*. 148.[\*](#pp_148) \[If soul were
+   <span id="pp_148"></span>*Aph*. 148.[\*](#pp_148.md) \[If soul were
 unintelligent,\] it would not be witness \[of its own comfort,\] in
 profound \[and dreamless\] sleep, &c.
 
@@ -4445,7 +4445,7 @@ multiplicity\].' In regard to this, he says \[as follows\]:
 |-------------------------------------------------------------------|
 | <span class="small">*   There is a multiplicity of souls.*</span> |
 
-   <span id="pp_149"></span>*Aph*. 149.[\*](#pp_149) From the several
+   <span id="pp_149"></span>*Aph*. 149.[\*](#pp_149.md) From the several
 allotment of birth, &c., a multiplicity of souls \[is to be inferred\].
 
    <span id="pp_149a"></span>*a*. 'Birth, &c.' By the '&c.,' growth,
@@ -4464,7 +4464,7 @@ the others, \[viz., of the Vedántís\]:
 |------------------------------------------------------------------------|
 | <span class="small">*   The view of the Vedánta on this point.*</span> |
 
-   <span id="pp_150"></span>*Aph*. 150.[\*](#pp_150) \[The Vedántís say,
+   <span id="pp_150"></span>*Aph*. 150.[\*](#pp_150.md) \[The Vedántís say,
 that,\] there being a difference in its investments, moreover,
 multiplicity attaches \[seemingly,\] to the one \[Soul\]; as is the case
 with Space, by reason of jars, &c., \[which mark out the spaces that
@@ -4474,7 +4474,7 @@ they occupy\].
 consequence of the difference of adjuncts, \[as\] jars, &c., when a jar
 is destroyed, it is \[familiarly\] said, 'the jar's space is destroyed'
 \[for then there no longer exists a *space marked out by the
-jar*\];<span id="page_167_fr_3"></span>[3](#page_167_note_3)—so, also,
+jar*\];<span id="page_167_fr_3"></span>[3](#page_167_note_3.md)—so, also,
 on the hypothesis of there being but one Soul, since there is a
 difference of corporeal limitation, on the destruction thereof, \[i.e.,
 of the limitation occasioned by any particular human body\], it is
@@ -4494,7 +4494,7 @@ removal of doubt \[as to the point in question\]:
 |--------------------------------------------------------------------------|
 | <span class="small">*   Refutation of the Vedánta on this point.*</span> |
 
-   <span id="pp_151"></span>*Aph*. 151.[\*](#pp_151) The investment is
+   <span id="pp_151"></span>*Aph*. 151.[\*](#pp_151.md) The investment is
 different, \[according to the Vedántís\], but not that to which this
 belongs; \[and the absurd consequences of such an opinion will be
 seen\].
@@ -4507,7 +4507,7 @@ is the meaning. And, \[now consider\], in consequence of the destruction
 of one thing, we are not to speak as if there were the destruction of
 something else; because this \[if it were evidence of a thing's being
 destroyed,\] would present itself where it ought not;<span
-id="page_168_fr_3"></span>[3](#page_168_note_3) \[the destruction of
+id="page_168_fr_3"></span>[3](#page_168_note_3.md) \[the destruction of
 Devadatta, <span id="page_169">p. 169</span> e.g., presenting itself, as
 a fact, when we are considering the case of Yajnadatta, who is not, for
 *that* reason, to be assumed to be dead\]: and, on the hypothesis that
@@ -4531,7 +4531,7 @@ this he replies:
 |----------------------------------------------------------------------------------------------------------------|
 | <span class="small">*   The Sánkhya is free from the charge of absurdity to which the Vedánta is open.*</span> |
 
-   <span id="pp_152"></span>*Aph*. 152.[\*](#pp_152) Thus, \[i.e., by
+   <span id="pp_152"></span>*Aph*. 152.[\*](#pp_152.md) Thus, \[i.e., by
 taking the Sánkhya view,\] there is no imputation of contradictory
 conditions to \[a Soul <span id="page_170">p. 170</span> supposed to
 be\] everywhere present as *one* \[infinitely extended monad\].
@@ -4553,7 +4553,7 @@ which is another \[than Nature\]. To this he replies:
 |----------------------------------------------------------|
 | <span class="small">*   Imputation is not proof.*</span> |
 
-   <span id="pp_153"></span>*Aph*. 153.[\*](#pp_153) Even though there
+   <span id="pp_153"></span>*Aph*. 153.[\*](#pp_153.md) Even though there
 be \[imputed to Soul\] the possession of the condition of another, this
 \[i.e., that it really possesses such,\] is not established by the
 imputation; because it \[Soul,\] is *one* \[absolutely simple,
@@ -4570,10 +4570,10 @@ by actions\].
    <span id="pp_153b"></span>*b*. \[But the Vedántí may say:\] and thus
 there will be an opposition to the Scripture. For, according to that,
 'Brahma is one without a second:'<span
-id="page_171_fr_2"></span>[2](#page_171_note_2) 'There is nothing here
+id="page_171_fr_2"></span>[2](#page_171_note_2.md) 'There is nothing here
 diverse; death after death does he \[deluded man,\] obtain, who here
 sees, as it were, a multiplicity.'<span
-id="page_171_fr_3"></span>[3](#page_171_note_3) To this he replies:
+id="page_171_fr_3"></span>[3](#page_171_note_3.md) To this he replies:
 
  
 
@@ -4581,7 +4581,7 @@ id="page_171_fr_3"></span>[3](#page_171_note_3) To this he replies:
 |----------------------------------------------------------------------------------------------------|
 | <span class="small">*   Scripture, speaking of Soul as one, is speaking of it generically.*</span> |
 
-   <span id="pp_154"></span>*Aph*. 154.[\*](#pp_154) There is no
+   <span id="pp_154"></span>*Aph*. 154.[\*](#pp_154.md) There is no
 opposition to the Scriptures \[declaratory\] of the non-duality \[of
 Soul\]; because the reference \[in such texts,\] is to the *genus*, \[or
 to Soul in general\].
@@ -4610,18 +4610,18 @@ once bound and free\]. To this he replies:
 |---------------------------------------------------------------------------|
 | <span class="small">*   The compatibility of Bondage and Freedom.*</span> |
 
-   <span id="pp_155"></span>*Aph*. 155.[\*](#pp_155) Of him \[i.e., of
+   <span id="pp_155"></span>*Aph*. 155.[\*](#pp_155.md) Of him \[i.e., of
 that soul,\] by whom the cause of Bondage is known, there is that
 condition \[of isolation, or entire liberation\], by the perception \[of
 the fact, that Nature and soul are distinct, and that he, really, was
 *not* bound, even when he seemed to be so\].<span
-id="page_172_fr_3"></span>[3](#page_172_note_3)
+id="page_172_fr_3"></span>[3](#page_172_note_3.md)
 
    <span id="pp_155a"></span>*a*. By whom is known 'the cause of
 bondage,' viz., the non-perception that Nature and soul are distinct, of
 him, 'by the perception' \[of it\], i.e., by cognizing the distinction,
 there is 'that condition,' viz., the condition of isolation, \[the
-condition (see [§ 144](#pp_144)) after which the soul aspires. The soul
+condition (see [§ 144](#pp_144).md) after which the soul aspires. The soul
 in Bondage which is no real bondage may be typified by Don Quixote,
 hanging, in the dark, from the ledge of a supposed enormous precipice,
 and holding on for life, as he thought, from not knowing that his toes
@@ -4642,7 +4642,7 @@ replies:
 |---------------------------------------------------------|
 | <span class="small">*   He jeers at the Vedántí*</span> |
 
-   <span id="pp_156"></span>*Aph*. 156.[\*](#pp_156) No: because the
+   <span id="pp_156"></span>*Aph*. 156.[\*](#pp_156.md) No: because the
 blind do not see, can those who have their eyesight not perceive?
 
    <span id="pp_156a"></span>*a*. What! because a blind man does not
@@ -4661,7 +4661,7 @@ also, that souls are many:
 |----------------------------------------------------------------------|
 | <span class="small">*   Scripture proof that Souls are many.*</span> |
 
-   <span id="pp_157"></span>*Aph*. 157.[\*](#pp_157) Vámadeva, as well
+   <span id="pp_157"></span>*Aph*. 157.[\*](#pp_157.md) Vámadeva, as well
 as others, has been liberated, \[if we are to believe the Scriptures;
 therefore\] non-duality is not \[asserted, in the same Scriptures, in
 the Vedántic sense\].
@@ -4688,7 +4688,7 @@ inconsistency which he objects to the Sánkhya\], To this he replies:
 |----------------------------------------------------------------|
 | <span class="small">*   As it has been, so will it be.*</span> |
 
-   <span id="pp_158"></span>*Aph*. 158.[\*](#pp_158) Though it \[the
+   <span id="pp_158"></span>*Aph*. 158.[\*](#pp_158.md) Though it \[the
 world,\] has been from eternity, since, up to this day, there has not
 been \[an entire emptying of the world\], the future, also, \[may be
 inferentially expected to be\] thus \[as it has been heretofore\].
@@ -4707,7 +4707,7 @@ difficulty\]:
 |-------------------------------------------------------------------------------------|
 | <span class="small">*   The stream of mundane things will flow on for ever.*</span> |
 
-   <span id="pp_159"></span>*Aph*. 159.[\*](#pp_159) As now \[things
+   <span id="pp_159"></span>*Aph*. 159.[\*](#pp_159.md) As now \[things
 are, so\], everywhere \[will they continue to go on: hence there will
 be\] no absolute cutting short \[of the course of mundane things\].
 
@@ -4719,9 +4719,9 @@ everywhere,—i.e., in time to come, also,—there <span id="page_177">p.
 short \[of the world\]; since of this the on-flowing is eternal.
 
    <span id="pp_159b"></span>*b*. On the theory, also, that Liberation
-is the departure of an adjunct \[[§ 157. *b*.](#pp_157b)\], we should
+is the departure of an adjunct \[[§ 157. *b*.](#pp_157b.md)\], we should
 find a universal void; so that the doubt<span
-id="page_177_fr_2"></span>[2](#page_177_note_2) is alike, \[in its
+id="page_177_fr_2"></span>[2](#page_177_note_2.md) is alike, \[in its
 application to either view\]. Just as there might be an end of all
 things, on the successive liberation of many souls, so, since all
 adjuncts would cease, when \[the fruit of\] works \[this fruit being in
@@ -4732,7 +4732,7 @@ the Sánkhya\].
    <span id="pp_159c"></span>*c*. Now, \[if the Vedántí says,\] there
 will not be a void, because adjuncts are \[in number,\] endless, then it
 is the same, on the theory that Souls are many. And thus \[it has been
-declared\]:<span id="page_177_fr_4"></span>[4](#page_177_note_4) 'For
+declared\]:<span id="page_177_fr_4"></span>[4](#page_177_note_4.md) 'For
 this very reason, indeed, though those who are knowing \[in regard to
 the fact that Nature <span id="page_178">p. 178</span> and Soul are
 different\], are continually being liberated, there will not be a void,
@@ -4755,19 +4755,19 @@ replies:
 |---------------------------------------------------------------------------------------------------|
 | <span class="small">*   Soul is ever free, though it may seem bound in all sorts of ways.*</span> |
 
-   <span id="pp_160"></span>*Aph*. 160.[\*](#pp_160) It \[Soul,\] is
+   <span id="pp_160"></span>*Aph*. 160.[\*](#pp_160.md) It \[Soul,\] is
 altogether free \[but seemingly\] multiform \[or different, in
 appearance, from a free thing, through a delusive semblance of being
-bound\].<span id="page_178_fr_3"></span>[3](#page_178_note_3)
+bound\].<span id="page_178_fr_3"></span>[3](#page_178_note_3.md)
 
    <span id="pp_160a"></span>*a*. It is not bound; nor is it liberated;
-but it is ever free, \[see [§ 19](#pp_19)\]. But the destruction of
+but it is ever free, \[see [§ 19](#pp_19.md)\]. But the destruction of
 ignorance \[as to its actual freedom,\] is effected by meditation, &c.,
 \[which are, therefore, not unmeaning, as alleged in [§ 159.
-*d*.](#pp_159d)\].
+*d*.](#pp_159d.md)\].
 
    <span id="pp_160b"></span>*b*. It has been declared that Soul is a
-witness.<span id="page_179_fr_2"></span>[2](#page_179_note_2) Since it
+witness.<span id="page_179_fr_2"></span>[2](#page_179_note_2.md) Since it
 is a witness \[some one may object\], even when it has attained to
 discriminating \[between Nature and Soul\], there <span id="page_180">p.
 180</span> is no Liberation; \[Soul, on this showing, being not an
@@ -4780,14 +4780,14 @@ a spectator or witness\]. To this he replies:
 |----------------------------------------------------------|
 | <span class="small">*   How Soul is a spectator.*</span> |
 
-   <span id="pp_161"></span>*Aph*. 161.[\*](#pp_161) It \[Soul,\] is a
+   <span id="pp_161"></span>*Aph*. 161.[\*](#pp_161.md) It \[Soul,\] is a
 witness, through its connexion with sense-organs, \[which quit it, on
 liberation\].
 
    <span id="pp_161a"></span>*a*. A sense-organ is an organ of sense.
 Through its connexion therewith, it \[Soul,\] is a witness. And where is
 \[its\] connexion with sense-organs, \[these products of Nature (see [§
-61](#pp_61))\], when discrimination \[between Nature and Soul\] has
+61](#pp_61).md)\], when discrimination \[between Nature and Soul\] has
 taken place?
 
    <span id="pp_161b"></span>*b*. \[Well, some one may ask\], at all
@@ -4801,14 +4801,14 @@ times of *what* nature is Soul? To this he replies:
 |-------------------------------------------------------------|
 | <span class="small">*   The real condition of Soul.*</span> |
 
-   <span id="pp_162"></span>*Aph*. 162.[\*](#pp_162) \[The nature of
+   <span id="pp_162"></span>*Aph*. 162.[\*](#pp_162.md) \[The nature of
 Soul is\] constant freedom.<span
-id="page_180_fr_5"></span>[5](#page_180_note_5)
+id="page_180_fr_5"></span>[5](#page_180_note_5.md)
 
    <span id="pp_162a"></span>*a*. 'Constant freedom:' that is to say;
 Soul is, positively, always devoid of the Bondage called Pain \[see §§
-[1](#pp_1) and [19](#pp_19)\]; because Pain and the rest are
-modifcations of Understanding, \[which (see [§ 61](#pp_61)) is a
+[1](#pp_1) and [19](#pp_19.md)\]; because Pain and the rest are
+modifcations of Understanding, \[which (see [§ 61](#pp_61).md) is a
 modification of Nature, from which Soul is really distinct\].
 
  
@@ -4817,7 +4817,7 @@ modification of Nature, from which Soul is really distinct\].
 |------------------------------------------------------|
 | <span class="small">*   Soul's indifference.*</span> |
 
-   <span id="pp_163"></span>*Aph*. 163.[\*](#pp_163) And, finally, \[the
+   <span id="pp_163"></span>*Aph*. 163.[\*](#pp_163.md) And, finally, \[the
 nature of Soul is\] indifference \[to Pain and Pleasure, alike\].
 
    <span id="pp_163a"></span>*a*. By 'indifference' is meant non-agency.
@@ -4836,27 +4836,27 @@ you say, it be *not* an agent\]? To this he replies:
 |--------------------------------------------------------------------------------------------|
 | <span class="small">*   How Soul, which is not an agent, is yet spoken of as such.*</span> |
 
-   <span id="pp_164"></span>*Aph*. 164.[\*](#pp_164) \[Soul's *fancy*
+   <span id="pp_164"></span>*Aph*. 164.[\*](#pp_164.md) \[Soul's *fancy*
 of\] being an agent is, through the influence \[of Nature\],<span
-id="page_182_fr_1"></span>[1](#page_182_note_1) from the proximity of
+id="page_182_fr_1"></span>[1](#page_182_note_1.md) from the proximity of
 Intellect, from the proximity of Intellect.
 
    <span id="pp_164a"></span>*a*. \[Its\] 'being an agent,' i.e., Soul's
 fancy of being an agent, is 'from the proximity of Intellect,' 'through
-the influence' of Nature, \[(see [§ 19](#pp_19),) of which Intellect
-(see [§ 61](#pp_61)) is a modification\].
+the influence' of Nature, \[(see [§ 19](#pp_19),.md) of which Intellect
+(see [§ 61](#pp_61).md) is a modification\].
 
    <span id="pp_164b"></span>*b*. The repetition of the expression 'from
 the proximity of Intellect' is meant to show that we have reached the
 conclusion: for thus do we see \[practised\] in the Scriptures, \[e.g.,
 where it is said, in the Veda: 'Soul is to be known; it is to be
 discriminated from Nature: thus it does not come again, it does not come
-again'<span id="page_182_fr_4"></span>[4](#page_182_note_4)\].
+again'<span id="page_182_fr_4"></span>[4](#page_182_note_4.md)\].
 
 <span id="page_183">p. 183</span>
 
    <span id="pp_164c"></span>*c*. So much, in this Commentary<span
-id="page_183_fr_1"></span>[1](#page_183_note_1) on the illustrious
+id="page_183_fr_1"></span>[1](#page_183_note_1.md) on the illustrious
 Kapila's Aphorisms declaratory of the Sánkhya, for the First Book, that
 on the \[topics or\] subject-matter \[of the Sánkhya system\].
 
@@ -4866,7 +4866,7 @@ on the \[topics or\] subject-matter \[of the Sánkhya system\].
 
 ------------------------------------------------------------------------
 
-[Next](sak2)
+[Next](sak2.md)
 
 ------------------------------------------------------------------------
 
@@ -4874,24 +4874,24 @@ on the \[topics or\] subject-matter \[of the Sánkhya system\].
 
 <span id="footnotes_page_12">p. 12</span>
 
-<span id="page_12_note_*"></span>[\*](#page_12_fr_*) Instead of
+<span id="page_12_note_*"></span>[\*](#page_12_fr_*.md) Instead of
 'indestructible' read 'impracticable.'
 
-<span id="page_12_note_**"></span>[\*\*](#page_12_fr_**) Remove the
+<span id="page_12_note_**"></span>[\*\*](#page_12_fr_**.md) Remove the
 brackets enclosing the words 'the positive destruction of.' Dr.
 Ballantyne's maimed expression I find nowhere but in the Serampore
 edition of *Sánkhya-pravachana-bháshya*.
 
 <span id="footnotes_page_16">p. 16</span>
 
-<span id="page_16_note_3"></span>[3](#page_16_fr_3) Professor Wilson's
+<span id="page_16_note_3"></span>[3](#page_16_fr_3.md) Professor Wilson's
 Dictionary erroneously gives 'uninterrupted continuance' as one of the
 definitions of *atiprasanga*; and that definition, in all probability,
 suggested 'eternal' to the translator, who here had to do with
 *atiprasakti*. Near the end of *a*, in the next page but one,
 *atiprasanga* is rendered 'undue result.' For the synonymous
-*atiprasakti* and *atiprasanga*, respectively, see [Aph. 53.](#pp_53)
-with the comment on it, and the comment on [Aph. 151.](#pp_151) of this
+*atiprasakti* and *atiprasanga*, respectively, see [Aph. 53.](#pp_53.md)
+with the comment on it, and the comment on [Aph. 151.](#pp_151.md) of this
 Book.
 
 Colebrooke, on various occasions, represents one or other of these terms
@@ -4901,34 +4901,34 @@ application' of a canon, notion, or the like. *Ed*.
 
 <span id="footnotes_page_17">p. 17</span>
 
-<span id="page_17_note_2"></span>[2](#page_17_fr_2) *Upádhi*, for which
-see [p. 53, 1](#page_53_note_1), *infra*. *Ed*.
+<span id="page_17_note_2"></span>[2](#page_17_fr_2.md) *Upádhi*, for which
+see [p. 53, 1](#page_53_note_1.md), *infra*. *Ed*.
 
 <span id="footnotes_page_20">p. 20</span>
 
-<span id="page_20_note_1"></span>[1](#page_20_fr_1) This is the lection
+<span id="page_20_note_1"></span>[1](#page_20_fr_1.md) This is the lection
 preferred by Aniruddha and his followers. *Ed*.
 
 <span id="footnotes_page_21">p. 21</span>
 
-<span id="page_21_note_1"></span>[1](#page_21_fr_1) The Sanskrit word
+<span id="page_21_note_1"></span>[1](#page_21_fr_1.md) The Sanskrit word
 thus rendered was inadvertently omitted in the first edition. Vijnána
 here supplies the comment. *Ed*.
 
 <span id="footnotes_page_23">p. 23</span>
 
-<span id="page_23_note_*"></span>[\*](#page_23_fr_*) 'That is to say,'
+<span id="page_23_note_*"></span>[\*](#page_23_fr_*.md) 'That is to say,'
 &c., See, for a more correct rendering, the *Rational Refutation*, &c.,
 p. 63.
 
 <span id="footnotes_page_25">p. 25</span>
 
-<span id="page_25_note_*"></span>[\*](#page_25_fr_*) Read, instead of
+<span id="page_25_note_*"></span>[\*](#page_25_fr_*.md) Read, instead of
 'your own implied dogma,' 'the dogma which you accept.'
 
 <span id="footnotes_page_29">p. 29</span>
 
-<span id="page_29_note_2"></span>[2](#page_29_fr_2) *Vásaná*, a term
+<span id="page_29_note_2"></span>[2](#page_29_fr_2.md) *Vásaná*, a term
 which Dr. Ballantyne has rendered variously, in divers passages of the
 present work, and also elsewhere. It is well defined, in Prof. Benfey's
 *Sanskrit-English Dictionary*: 'An impression remaining unconsciously in
@@ -4937,12 +4937,12 @@ demerit, producing pleasure or pain.' *Ed*.
 
 <span id="footnotes_page_36">p. 36</span>
 
-<span id="page_36_note_1"></span>[1](#page_36_fr_1) The brackets are of
+<span id="page_36_note_1"></span>[1](#page_36_fr_1.md) The brackets are of
 my inserting. *Ed*.
 
 <span id="footnotes_page_38">p. 38</span>
 
-<span id="page_38_note_1"></span>[1](#page_38_fr_1) *Vyabhichára* is the
+<span id="page_38_note_1"></span>[1](#page_38_fr_1.md) *Vyabhichára* is the
 expression here paraphrased. In this work and others, the translator has
 given it many meanings; and so has Colebrooke, who renders it, in
 various contexts, by 'contradiction,' 'derogation,' 'failure,'
@@ -4952,45 +4952,45 @@ the major term. *Ed*.
 
 <span id="footnotes_page_42">p. 42</span>
 
-<span id="page_42_note_3"></span>[3](#page_42_fr_3) For *vyabhichára*,
-the word used in the original, [see 1, at p. 38](#page_38_note_1),
+<span id="page_42_note_3"></span>[3](#page_42_fr_3.md) For *vyabhichára*,
+the word used in the original, [see 1, at p. 38](#page_38_note_1.md),
 *supra*. *Ed*.
 
-<span id="page_42_note_4"></span>[4](#page_42_fr_4) Here again occurs,
+<span id="page_42_note_4"></span>[4](#page_42_fr_4.md) Here again occurs,
 in the Sanskrit, the term *vyabhichára*. *Ed*.
 
 <span id="footnotes_page_43">p. 43</span>
 
-<span id="page_43_note_1"></span>[1](#page_43_fr_1) I have inserted the
+<span id="page_43_note_1"></span>[1](#page_43_fr_1.md) I have inserted the
 words 'in product and substance.' *Ed*.
 
-<span id="page_43_note_2"></span>[2](#page_43_fr_2) The original dual of
+<span id="page_43_note_2"></span>[2](#page_43_fr_2.md) The original dual of
 'concomitancy of affirmatives' and 'concomitancy of negatives' is
 *anwayavyatirekau*. For other English equivalents of this term,
-occurring in the singlar number; see Book VI., [Aph. 15](sak6.htm#pp_15)
-and [63](sak6.htm#pp_63). *Ed*.
+occurring in the singlar number; see Book VI., [Aph. 15](sak6.htm#pp_15.md)
+and [63](sak6.htm#pp_63.md). *Ed*.
 
-<span id="page_43_note_3"></span>[3](#page_43_fr_3) 'Antecedent and
+<span id="page_43_note_3"></span>[3](#page_43_fr_3.md) 'Antecedent and
 consequent' renders *kramika*, translated 'successive' in [Aph. 38.
-*a*](#pp_38a), at p. 41, *supra*. *Ed*.
+*a*](#pp_38a.md), at p. 41, *supra*. *Ed*.
 
 <span id="footnotes_page_52">p. 52</span>
 
-<span id="page_52_note_1"></span>[1](#page_52_fr_1) *Śwetáśwatara
+<span id="page_52_note_1"></span>[1](#page_52_fr_1.md) *Śwetáśwatara
 Upanishad*, iii., 13. *Ed*.
 
-<span id="page_52_note_*"></span>[\*](#page_52_fr_*) 'That is to say,'
+<span id="page_52_note_*"></span>[\*](#page_52_fr_*.md) 'That is to say,'
 &c. For another version, see the *Rational Refutation*, &c., p. 119.
 
 <span id="footnotes_page_53">p. 53</span>
 
-<span id="page_53_note_1"></span>[1](#page_53_fr_1) *Upádhi*; often,
+<span id="page_53_note_1"></span>[1](#page_53_fr_1.md) *Upádhi*; often,
 below, 'investment' and 'adjunct.' *Ed*.
 
-<span id="page_53_note_2"></span>[2](#page_53_fr_2) *Bhagavad-gítá*,
+<span id="page_53_note_2"></span>[2](#page_53_fr_2.md) *Bhagavad-gítá*,
 ii., 24. *Ed*.
 
-<span id="page_53_note_3"></span>[3](#page_53_fr_3) 'Text' and 'maxim'
+<span id="page_53_note_3"></span>[3](#page_53_fr_3.md) 'Text' and 'maxim'
 are here meant to represent *śruti* and *smṛiti*, taken in their more
 limited senses. Elsewhere the translator has, for the same terms; in
 wider acceptations, 'books of Scripture and of law,' &c. The first is
@@ -5000,33 +5000,33 @@ inspired. Both are held to have originated from a superhuman source; but
 only the former is regarded as preserving the very words of revelation.
 *Ed*.
 
-<span id="page_53_note_4"></span>[4](#page_53_fr_4) The anacoluthism
+<span id="page_53_note_4"></span>[4](#page_53_fr_4.md) The anacoluthism
 observable in the translation follows that of the original, with
 reference to which see the *Indische Studien*, vol. ii., p. 61.
 
 <span id="footnotes_page_54">p. 54</span>
 
-<span id="page_54_note_2"></span>[2](#page_54_fr_2) For another
+<span id="page_54_note_2"></span>[2](#page_54_fr_2.md) For another
 rendering, see my translation of the *Rational Refutation*, &c., p. 57.
 *Ed*.
 
 <span id="footnotes_page_55">p. 55</span>
 
-<span id="page_55_note_1"></span>[1](#page_55_fr_1) Dr. Ballantyne
+<span id="page_55_note_1"></span>[1](#page_55_fr_1.md) Dr. Ballantyne
 should have taken 'unseen' and 'works' as in apposition, and should have
 made the former explanatory of the latter. *Ed*.
 
-<span id="page_55_note_4"></span>[4](#page_55_fr_4) Aniruddha transposes
+<span id="page_55_note_4"></span>[4](#page_55_fr_4.md) Aniruddha transposes
 Aphorisms 53 and 54. *Ed*.
 
 <span id="footnotes_page_56">p. 56</span>
 
-<span id="page_56_note_2"></span>[2](#page_56_fr_2) *Śwetáśwatara
+<span id="page_56_note_2"></span>[2](#page_56_fr_2.md) *Śwetáśwatara
 Upanishad*, vi., 11. *Ed*.
 
 <span id="footnotes_page_58">p. 58</span>
 
-<span id="page_58_note_2"></span>[2](#page_58_fr_2) These words, a bad
+<span id="page_58_note_2"></span>[2](#page_58_fr_2.md) These words, a bad
 reading of the 24th Aphorism of Book III., were pointed out, by me, as
 having, with the sentence of comment attached to them, no place here;
 and Dr. Ballantyne, when he republished the Sánkhya Aphorisms in the
@@ -5044,17 +5044,17 @@ introduced with regrettable frequency.\]
 
 <span id="footnotes_page_61">p. 61</span>
 
-<span id="page_61_note_*"></span>[\*](#page_61_fr_*) For another
+<span id="page_61_note_*"></span>[\*](#page_61_fr_*.md) For another
 rendering {of the text from § 56 *b* through § 57 *b*}, from a text here
 and there somewhat different, see the *Rational Refutation*, & c., pp.
 12, 13.
 
 <span id="footnotes_page_64">p. 64</span>
 
-<span id="page_64_note_1"></span>[1](#page_64_fr_1) To render *vásaná*,
-on which see [2, at p. 29](#page_29_note_2), *supra*. *Ed*.
+<span id="page_64_note_1"></span>[1](#page_64_fr_1.md) To render *vásaná*,
+on which see [2, at p. 29](#page_29_note_2.md), *supra*. *Ed*.
 
-<span id="page_64_note_3"></span>[3](#page_64_fr_3) *Amṛitabindu
+<span id="page_64_note_3"></span>[3](#page_64_fr_3.md) *Amṛitabindu
 Upanishad*, v. 10. See Dr. Albrecht Weber's *Indische Studien*, vol.
 ii., p. 61, note 2. *Ed*.
 
@@ -5066,12 +5066,12 @@ is credulously affiliated on Śankara Áchárya.\]
 
 <span id="footnotes_page_65">p. 65</span>
 
-<span id="page_65_note_1"></span>[1](#page_65_fr_1) Aniruddha has: 'But
+<span id="page_65_note_1"></span>[1](#page_65_fr_1.md) Aniruddha has: 'But
 it is merely verbal, not a reality,' &c. *Ed*.
 
 <span id="footnotes_page_67">p. 67</span>
 
-<span id="page_67_note_1"></span>[1](#page_67_fr_1) Here I have had to
+<span id="page_67_note_1"></span>[1](#page_67_fr_1.md) Here I have had to
 make several insertions and other alterations. Dr. Ballantyne had: 'That
 is to say, the bondage, &c., \[of the soul\] is not to be removed by
 merely hearing, or inferring, without *perceiving*; just as the
@@ -5079,39 +5079,39 @@ contrariety in regard to the proper direction, in the case,' &c. *Ed*.
 
 <span id="footnotes_page_71">p. 71</span>
 
-<span id="page_71_note_3"></span>[3](#page_71_fr_3) For a translation of
+<span id="page_71_note_3"></span>[3](#page_71_fr_3.md) For a translation of
 a slightly different text, see the *Rational Refutation*, &c., p. 43.
 *Ed*.
 
 <span id="footnotes_page_72">p. 72</span>
 
-<span id="page_72_note_1"></span>[1](#page_72_fr_1) *Balavattwa*; for
+<span id="page_72_note_1"></span>[1](#page_72_fr_1.md) *Balavattwa*; for
 which I find the variant *chalatwa*, 'mobility.' *Ed*.
 
-<span id="page_72_note_2"></span>[2](#page_72_fr_2) Read: 'Goodness and
+<span id="page_72_note_2"></span>[2](#page_72_fr_2.md) Read: 'Goodness and
 the rest are substances, not specific qualities; for they \[themselves\]
 possess \[qualities, viz., those of\] contact and separation, and also
 have the properties of levity, mobility, gravity, &c.' *Vaiśeshiká
 guṇah́* is equivalent to the *viśesha-guṇáh́* in the original of [Book V.,
-25. *a*](sak5.htm#pp_25a). For the 'specific qualities,' see the
+25. *a*](sak5.htm#pp_25a.md). For the 'specific qualities,' see the
 *Bháshá-parichchheda*, st. 90. *Ed*.
 
-<span id="page_72_note_3"></span>[3](#page_72_fr_3) For 'is employed,'
+<span id="page_72_note_3"></span>[3](#page_72_fr_3.md) For 'is employed,'
 &c., read, 'is applied to these (*teshu*), \[namely, goodness, passion,
 and darkness\].' *Ed*.
 
-<span id="page_72_note_5"></span>[5](#page_72_fr_5) For a different
+<span id="page_72_note_5"></span>[5](#page_72_fr_5.md) For a different
 translation, see the *Rational Refutation*, &c., pp. 43, 44. *Ed*.
 
 <span id="footnotes_page_81">p. 81</span>
 
-<span id="page_81_note_2"></span>[2](#page_81_fr_2) Here indicated by
-the adjective *avyakta*, 'the indiscrete.' See [Aph. 136](#pp_136) of
+<span id="page_81_note_2"></span>[2](#page_81_fr_2.md) Here indicated by
+the adjective *avyakta*, 'the indiscrete.' See [Aph. 136](#pp_136.md) of
 this Book. *Ed*.
 
 <span id="footnotes_page_82">p. 82</span>
 
-<span id="page_82_note_3"></span>[3](#page_82_fr_3) This seems to mean:
+<span id="page_82_note_3"></span>[3](#page_82_fr_3.md) This seems to mean:
 'There being no root to a root, the root \[or radical principle, in the
 Sánkhya,\] is rootless.'
 
@@ -5121,46 +5121,46 @@ like saying that A = A. *Ed*.
 
 <span id="footnotes_page_84">p. 84</span>
 
-<span id="page_84_note_2"></span>[2](#page_84_fr_2) Read 'in connexion
+<span id="page_84_note_2"></span>[2](#page_84_fr_2.md) Read 'in connexion
 with.' *Ed*.
 
-<span id="page_84_note_3"></span>[3](#page_84_fr_3) Literally, instead
+<span id="page_84_note_3"></span>[3](#page_84_fr_3.md) Literally, instead
 of 'Mind,' the principle \[termed\] the Great one.' *Ed*.
 
 <span id="footnotes_page_85">p. 85</span>
 
-<span id="page_85_note_2"></span>[2](#page_85_fr_2) This is Dr.
+<span id="page_85_note_2"></span>[2](#page_85_fr_2.md) This is Dr.
 Ballantyne's revised translation, suggested by a remark of Vijnána,
 quoted and translated below, in *b*. The rendering now replaced runs:
 'Alike \[is the opinion\] of both \[of us\], in respect of Nature.' The
 side-note was formerly correspondent to *a*., viz.: 'He meets a Vedántic
 objection.' *Ed*.
 
-<span id="page_85_note_*"></span>[\*](#page_85_fr_*) 'This Ignorance,'
+<span id="page_85_note_*"></span>[\*](#page_85_fr_*.md) 'This Ignorance,'
 &c. The original of this is i., v., 4, of the *Vishṉu-puráṉa*.
 
 <span id="footnotes_page_90">p. 90</span>
 
-<span id="page_90_note_2"></span>[2](#page_90_fr_2) Paragraph *a* is
+<span id="page_90_note_2"></span>[2](#page_90_fr_2.md) Paragraph *a* is
 taken, with slight alterations at the beginning and at the end, from
 Aniruddha. *Ed*.
 
 <span id="footnotes_page_97">p. 97</span>
 
-<span id="page_97_note_3"></span>[3](#page_97_fr_3) It is the bracketed
+<span id="page_97_note_3"></span>[3](#page_97_fr_3.md) It is the bracketed
 Aph. 56. at p. 58 *supra*, that is here referred to *Ed*.
 
 <span id="footnotes_page_99">p. 99</span>
 
-<span id="page_99_note_1"></span>[1](#page_99_fr_1) Literally, 'liable
+<span id="page_99_note_1"></span>[1](#page_99_fr_1.md) Literally, 'liable
 to return to mundane existence.' *Ed*.
 
-<span id="page_99_note_4"></span>[4](#page_99_fr_4) Compare the
+<span id="page_99_note_4"></span>[4](#page_99_fr_4.md) Compare the
 *Chhándogya Upanishad*, viii., xv. *Ed*.
 
 <span id="footnotes_page_102">p. 102</span>
 
-<span id="page_102_note_3"></span>[3](#page_102_fr_3) Dr. Ballantyne, on
+<span id="page_102_note_3"></span>[3](#page_102_fr_3.md) Dr. Ballantyne, on
 republishing the Sánkhya Aphorisms in the *Bibliotheca Indica*, adopted
 the genuine reading, instead of that given above, which I find, indeed,
 in the Serampore edition of the *Sánkhya-pravachana-bháshya*, but in no
@@ -5171,30 +5171,30 @@ follows: 'Of him who is, in himself, liberated all extinction of bondage
 is final,' &c. Such is the interpretation which, on comparison of the
 various commentaries, seems to be the most elegible. *Ed*.
 
-<span id="page_103_note_1"></span>[1](#page_103_fr_1) This is the
+<span id="page_103_note_1"></span>[1](#page_103_fr_1.md) This is the
 Aphorism bracketed at p. 58, *supra*. *Ed*.
 
 <span id="footnotes_page_106">p. 106</span>
 
-<span id="page_106_note_1"></span>[1](#page_106_fr_1) So reads
+<span id="page_106_note_1"></span>[1](#page_106_fr_1.md) So reads
 Aniruddha; but Vijnána, Nágeśa, and Vedánti Mahádeva end the
 eighty-seventh Aphorism with these two words. Hence: 'That which is in
 the highest degree, productive thereof is proof, of three kinds.' *Ed*.
 
 <span id="footnotes_page_108">p. 108</span>
 
-<span id="page_108_note_3"></span>[3](#page_108_fr_3) Aniruddha has
+<span id="page_108_note_3"></span>[3](#page_108_fr_3.md) Aniruddha has
 'determined by,' &c., instead of 'being in,' &c. *Ed*.
 
 <span id="footnotes_page_110">p. 110</span>
 
-<span id="page_110_note_4"></span>[4](#page_110_fr_4) For the term
+<span id="page_110_note_4"></span>[4](#page_110_fr_4.md) For the term
 *atiśaya*, again rendered, in the next page, by 'exaltation,' *vide
-infra*, [p. 115, note 4](#page_115_note_4). *Ed*.
+infra*, [p. 115, note 4](#page_115_note_4.md). *Ed*.
 
 <span id="footnotes_page_112">p. 112</span>
 
-<span id="page_112_note_3"></span>[3](#page_112_fr_3) Rather, 'And this
+<span id="page_112_note_3"></span>[3](#page_112_fr_3.md) Rather, 'And this
 \[mere\] taking exception to a Lord is expressly owing to,' &c. The
 aphorist would not be confounded with those who denied what he waited to
 see evidenced. The attitude which he assumed is that of suspense of
@@ -5205,15 +5205,15 @@ been explicitly declared, Because of the non-existence of a Lord.' *Ed*.
 
 <span id="footnotes_page_113">p. 113</span>
 
-<span id="page_113_note_1"></span>[1](#page_113_fr_1) Rather, 'the view
+<span id="page_113_note_1"></span>[1](#page_113_fr_1.md) Rather, 'the view
 being accepted' (*abhyupagame*):
 
 <span id="footnotes_page_115">p. 115</span>
 
-<span id="page_115_note_3"></span>[3](#page_115_fr_3) In both places,
+<span id="page_115_note_3"></span>[3](#page_115_fr_3.md) In both places,
 *siddha*, 'possessor of supernatural powers.' *Ed*.
 
-<span id="page_115_note_4"></span>[4](#page_115_fr_4) Aniruddha's
+<span id="page_115_note_4"></span>[4](#page_115_fr_4.md) Aniruddha's
 exposition of this Aphorism is as follows: <span
 id="footnotes_page_116">p. 116</span> According to this, the term
 *íśwara*, 'mighty one,' 'lord,' is applied, by way of eulogy, either to
@@ -5223,11 +5223,11 @@ agentship, and the like, are impredicable of one absolutely liberated;
 and such a one, being inert and impassive, cannot be intended by
 *íśwara*, 'a power.' Hence the expression, 'as it were liberated.' Also
 see, for *atiśaya*,—translated, above, 'transcendent faculties,'—[Book
-IV., Aph. 24.](sak4.htm#pp_24) *Ed*.
+IV., Aph. 24.](sak4.htm#pp_24.md) *Ed*.
 
 <span id="footnotes_page_118">p. 118</span>
 
-<span id="page_118_note_1"></span>[1](#page_118_fr_1) The translator's
+<span id="page_118_note_1"></span>[1](#page_118_fr_1.md) The translator's
 authority for this attribution has not been discovered. *Ed*.
 
 \[\* The quotation in question is xvi., 3, 4,of the *Yoga-vásisṭha*. For
@@ -5236,23 +5236,23 @@ a more correct translation of it, see the *Rational Refutation*, &c., p.
 
 <span id="footnotes_page_121">p. 121</span>
 
-<span id="page_121_note_1"></span>[1](#page_121_fr_1) Aniruddha prefixes
+<span id="page_121_note_1"></span>[1](#page_121_fr_1.md) Aniruddha prefixes
 to 'the internal organ' the synonymous 'the Great One.' *Ed*.
 
 <span id="footnotes_page_134">p. 134</span>
 
-<span id="page_134_note_1"></span>[1](#page_134_fr_1) I have corrected
+<span id="page_134_note_1"></span>[1](#page_134_fr_1.md) I have corrected
 the translator's 'But, since thus,' which rendered an unwarranted
 reading, now replaced by one correlative to the end of the preceding
 Aphorism. *Ed*.
 
 <span id="footnotes_page_141">p. 141</span>
 
-<span id="page_141_note_1"></span>[1](#page_141_fr_1) 'If production is
+<span id="page_141_note_1"></span>[1](#page_141_fr_1.md) 'If production is
 occasioned by manifestation, by what is destruction occasioned?'
 Aniruddha, here quoted. *Ed*.
 
-<span id="page_141_note_4"></span>[4](#page_141_fr_4) 'From the blow of
+<span id="page_141_note_4"></span>[4](#page_141_fr_4.md) 'From the blow of
 a mallet \[results\] the resolution of a jar into its material cause: by
 this the destruction \[of it\] is occasioned. Such is the meaning of the
 word \[*náśa*\], and \[such is\] the particular action \[which\] <span
@@ -5261,7 +5261,7 @@ Aniruddha. *Ed*.
 
 <span id="footnotes_page_143">p. 143</span>
 
-<span id="page_143_note_3"></span>[3](#page_143_fr_3) Translating the
+<span id="page_143_note_3"></span>[3](#page_143_fr_3.md) Translating the
 Sánkhya Aphorisms in the *Bibliotheca Indica*, Dr. Ballantyne, adopting
 the lection *anveshaṇá*, inconsiderately rendered: 'You are to
 understand, that, successively,' instead of 'There is a continual
@@ -5271,43 +5271,43 @@ synonymons *anusaraṇa*. *Ed*.
 
 <span id="footnotes_page_162">p. 162</span>
 
-<span id="page_162_note_2"></span>[2](#page_162_fr_2) This lection is
+<span id="page_162_note_2"></span>[2](#page_162_fr_2.md) This lection is
 that of Aniruddha alone. Vijnána, Nágeśa, and Vedánti Mahádeva
 necessitate 'and because,' &c. *Ed*.
 
 <span id="footnotes_page_163">p. 163</span>
 
-<span id="page_163_note_2"></span>[2](#page_163_fr_2) II., 4, 14,; or
+<span id="page_163_note_2"></span>[2](#page_163_fr_2.md) II., 4, 14,; or
 *Śatapatha-bráhmaṇa*, xiv., 5, 4, 16. The two sentences quoted are
 continuous. *Ed*.
 
 <span id="footnotes_page_165">p. 165</span>
 
-<span id="page_165_note_1"></span>[1](#page_165_fr_1) *Bṛihadáraṇyaka
+<span id="page_165_note_1"></span>[1](#page_165_fr_1.md) *Bṛihadáraṇyaka
 Upanishad*, iv., 3, 16; or *Śatapatha-bráhmaṇa*, xiv., 7, 1, 17. *Ed*.
 
 <span id="footnotes_page_167">p. 167</span>
 
-<span id="page_167_note_3"></span>[3](#page_167_fr_3) *Vide supra*, p.
-53, [Aph. 51](#pp_51), &c. *Ed*.
+<span id="page_167_note_3"></span>[3](#page_167_fr_3.md) *Vide supra*, p.
+53, [Aph. 51](#pp_51.md), &c. *Ed*.
 
 <span id="footnotes_page_168">p. 168</span>
 
-<span id="page_168_note_3"></span>[3](#page_168_fr_3) *Vide supra*, [p.
-16, note 3](#page_16_note_3).
+<span id="page_168_note_3"></span>[3](#page_168_fr_3.md) *Vide supra*, [p.
+16, note 3](#page_16_note_3.md).
 
 <span id="footnotes_page_172">p. 172</span>
 
-<span id="page_171_note_2"></span>[2](#page_171_fr_2) *Chhándogya
+<span id="page_171_note_2"></span>[2](#page_171_fr_2.md) *Chhándogya
 Upanishad*, vi., 1. But the word \#\#\# does not occur there. *Ed*.
 
-<span id="page_171_note_3"></span>[3](#page_171_fr_3) *Kaṭha Upanishad*,
+<span id="page_171_note_3"></span>[3](#page_171_fr_3.md) *Kaṭha Upanishad*,
 iv., 11. Instead of \#\#\#, however, the correct reading is \#\#\#.
 *Ed*.
 
 <span id="footnotes_page_172">p. 172</span>
 
-<span id="page_172_note_3"></span>[3](#page_172_fr_3) All the
+<span id="page_172_note_3"></span>[3](#page_172_fr_3.md) All the
 commentators but Aniruddha read \#\#\#; and they differ widely from him,
 as they often do, in their elucidations of the Aphorism. Nágeśa's
 explanation of it is as follows: \#\#\# <span id="footnotes_page_173">p.
@@ -5323,16 +5323,16 @@ with reference to the previous context, of a variety of renderings.
 
 <span id="footnotes_page_177">p. 177</span>
 
-<span id="page_177_note_2"></span>[2](#page_177_fr_2) *Anuyoga*, here
+<span id="page_177_note_2"></span>[2](#page_177_fr_2.md) *Anuyoga*, here
 rendered 'doubt,' rather signifies 'difficulty raised,' 'question.'
 *Ed*.
 
-<span id="page_177_note_4"></span>[4](#page_177_fr_4) The source of the
+<span id="page_177_note_4"></span>[4](#page_177_fr_4.md) The source of the
 stanza here translated I have not ascertained. *Ed*.
 
 <span id="footnotes_page_178">p. 178</span>
 
-<span id="page_178_note_3"></span>[3](#page_178_fr_3) This reading I
+<span id="page_178_note_3"></span>[3](#page_178_fr_3.md) This reading I
 find nowhere, but, instead of it, 'Clear of both conditions \[*i.e.*,
 that of being bound and that of being freed, is Soul, which is eternally
 free\].'
@@ -5346,23 +5346,23 @@ condition (*ekarúpatwa*) is predicable of it.
 Also see the commentaries on the *Sánkhya-káriká*, st. 19; and § 144.
 *a*., at p. 162, *supra*. *Ed*.
 
-<span id="page_179_note_2"></span>[2](#page_179_fr_2) *Vide supra*, p.
-56, [§ 54. *a*.](#pp_54a), and p. 165, [§ 148](#pp_148). *Ed*.
+<span id="page_179_note_2"></span>[2](#page_179_fr_2.md) *Vide supra*, p.
+56, [§ 54. *a*.](#pp_54a), and p. 165, [§ 148](#pp_148.md). *Ed*.
 
 <span id="footnotes_page_180">p. 180</span>
 
-<span id="page_180_note_5"></span>[5](#page_180_fr_5) Vijnána says that
+<span id="page_180_note_5"></span>[5](#page_180_fr_5.md) Vijnána says that
 this Aphorism and that next following specify notes of Soul which
 establish that its essential condition is neither <span
 id="footnotes_page_181">p. 181</span> of those alluded to in [Aph.
-160](#pp_160).
+160](#pp_160.md).
 
 <span id="footnotes_page_182">p. 182</span>
 
-<span id="page_182_note_1"></span>[1](#page_182_fr_1) The translator
+<span id="page_182_note_1"></span>[1](#page_182_fr_1.md) The translator
 inadvertently omitted the words 'through,' &c. *Ed*.
 
-<span id="page_182_note_4"></span>[4](#page_182_fr_4) These words are
+<span id="page_182_note_4"></span>[4](#page_182_fr_4.md) These words are
 taken from Colebrooke: see his *Miscellaneous Essays* (Prof. Cowell's
 edition), vol. i., p. 249. The original is found, as a quotation, &c.,
 in Váchaspati Miśra's *Tattwa-kaumudí*, near the beginning of the
@@ -5375,9 +5375,9 @@ conclusion of the *Chhándogya Upanishad*. Colebrooke's 'thus' is
 unrepresented in the Sankrit as I find it. *Ed*.
 
 \[\* For emendations of sundry matters, see [p. 429, note
-4](sak6.htm#page_429_note_4).
+4](sak6.htm#page_429_note_4.md).
 
-<span id="page_183_note_1"></span>[1](#page_183_fr_1) Aniruddha's is
+<span id="page_183_note_1"></span>[1](#page_183_fr_1.md) Aniruddha's is
 intended, though many passages in the preceding pages are from other
 commentaries. *Ed*.
 

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo00)  [Next](hoo02) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo00)  [Next](hoo02.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ candid, and discerning few.
 
 ------------------------------------------------------------------------
 
-[Next: Section I](hoo02)
+[Next: Section I](hoo02.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb05) [Next](itb07)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb05) [Next](itb07.md)
 
 ------------------------------------------------------------------------
 
@@ -549,7 +549,7 @@ and deer now as it was done in the old days.
 
 ------------------------------------------------------------------------
 
-[Next](itb07)
+[Next](itb07.md)
 
  
 

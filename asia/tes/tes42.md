@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes41)  [Next](tes43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes41)  [Next](tes43.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,10 +10,10 @@ On the seashore, upon an island, stood a village of the Maritime people.
 The village was very large, the houses were more numerous than the
 leaves on a tree. Several people began to talk among themselves. "Let us
 travel, that we may see all the wonders of the sea!" One of them was "a
-knowing one." <span id="fr_62"></span>[1](#fn_62) He knew all kinds of
+knowing one." <span id="fr_62"></span>[1](#fn_62.md) He knew all kinds of
 incantations, even the chief incantation of the Zyrian people. These
 Zyrian people were an ancient heathen tribe, who lived on the
-seashore. <span id="fr_63"></span>[2](#fn_63) All the other travelers
+seashore. <span id="fr_63"></span>[2](#fn_63.md) All the other travelers
 were quite common people. They entered a skin boat and started off.
 After a long time the winds and the currents carried them toward an
 island. They landed at a safe place and walked along the shore. It was a
@@ -34,7 +34,7 @@ quite young and strong. Only one was an aged, decrepit old man who could
 hardly walk about, even with the help of his long staff. The other
 people soon went out; but the old man stayed behind, and immediately
 said to the guests, "O you Christians! <span
-id="fr_64"></span>[1](#fn_64) if you are such, indeed, do not stay here
+id="fr_64"></span>[1](#fn_64.md) if you are such, indeed, do not stay here
 for a single night, but rather sail away. While walking above, you trod
 down ever so many Fox children. If you should stay here for a night,
 they would certainly kill you out of spite and revenge. Take warning and
@@ -49,7 +49,7 @@ gazed at the new wonder. The tree stood bolt upright; then all at once
 it bowed down lower and lower, and at last was immersed in the water,
 boughs, excrescence, and all--and vanished from sight. Then they saw on
 shore a number of people, all one-sided, <span
-id="fr_65"></span>[2](#fn_65) running to and fro, and catching fish.
+id="fr_65"></span>[2](#fn_65.md) running to and fro, and catching fish.
 They were just like ordinary men split in two. The two halves would meet
 and stick together and would become whole men. Then they would part
 again, and each half would race along the shore so swiftly that it would
@@ -62,7 +62,7 @@ bough, and stand straight up again, as before; but it would be
 thoroughly white from the mass of fish on it. Every little bough would
 have a fat fish hanging on it. The tree stood up and trembled, as if
 alive; and then all the fish were swung up to the excrescence, when they
-vanished. <span id="fr_66"></span>[3](#fn_66)
+vanished. <span id="fr_66"></span>[3](#fn_66.md)
 
 <span id="page_88">p. 88</span>
 
@@ -82,7 +82,7 @@ wanted to eat of this strange refuse; but all of a sudden there came
 from the houses men with long staffs, who shouted to them, "Don't touch
 that meat! It is bad. Rather come here! We will give you good meat, we
 will feed you with clean provisions. That is offal!" <span
-id="fr_67"></span>[1](#fn_67) They entered the nearest house. The people
+id="fr_67"></span>[1](#fn_67.md) They entered the nearest house. The people
 of the island gave them the choicest meat and dried fat and brought in
 large bladders filled with pure oil. They ate heartily.
 
@@ -113,7 +113,7 @@ The next morning, however, the visitors were requested to furnish the
 hole population with anus and urethra, for which they were paid
 generously with costly fur. Till then they had traveled among all these
 wonders and terrors without any provisions, but from here they took
-along plenty of dried meat. <span id="fr_68"></span>[1](#fn_68)
+along plenty of dried meat. <span id="fr_68"></span>[1](#fn_68.md)
 
 They sailed on, and reached another island. A single house, quite large,
 stood on the bank. In it lived an old man and his wife. Before the
@@ -168,7 +168,7 @@ for joy, because they had believed that their husbands were dead and
 gone. As soon as the men came into the house, the women glanced at them
 and swooned. They remained unconscious for many hours, and could hardly
 be restored. After that they lived with their husbands exactly as they
-had in former times. The end. <span id="fr_69"></span>[1](#fn_69)
+had in former times. The end. <span id="fr_69"></span>[1](#fn_69.md)
 
 Told by Innocent Korkin, a Russianized Yukaghir man, in the village of
 Pokhotsk, in the Kolyma country, summer of 1896.
@@ -177,11 +177,11 @@ Pokhotsk, in the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_62"></span>[86:1](tes42.htm#fr_62) In local Russian
+<span id="fn_62"></span>[86:1](tes42.htm#fr_62.md) In local Russian
 знатливый. This is nearly the same as "shaman," but of more indefinite
 character. Cf. also Bogoras, "The Chukchee," 472--W. B.
 
-<span id="fn_63"></span>[86:2](tes42.htm#fr_63) The Zyrian tribe is of
+<span id="fn_63"></span>[86:2](tes42.htm#fr_63.md) The Zyrian tribe is of
 Finnish origin. The Zyrians live on both sides of the Northern Ural
 Mountains, along the Pechora River, and also along some tributaries of
 the Obi River. A confused remembrance of them was brought into
@@ -189,36 +189,36 @@ northeastern Asia by Russian cossacks and other immigrants, the greater
 part of whom came from northern European Russia and all along the
 northern parts of Siberia--W. B.
 
-<span id="fn_64"></span>[87:1](tes42.htm#fr_64) Literally, "orthodox"
+<span id="fn_64"></span>[87:1](tes42.htm#fr_64.md) Literally, "orthodox"
 привославные), an invocation much used in Russian among the larger
 classes of People, meaning about the same as the English
 "gentlemen."--W. B.
 
-<span id="fn_65"></span>[87:2](tes42.htm#fr_65) see Bella Coola (Boas,
+<span id="fn_65"></span>[87:2](tes42.htm#fr_65.md) see Bella Coola (Boas,
 Franz, *Indianische Sagen von der Nord-Pacifischen Küste Amerikas*,
 256); Chipewyan (Petitot, Emile, *Traditions Indiennes du Canada
 Nord-Ouest*, 363); Tsimshian (Boas, Franz, "Tsimshian Texts" *Bulletin
 27, Bureau of American Ethnology*, Washington, 1902, 105.).--F. B.
 
-<span id="fn_66"></span>[87:3](tes42.htm#fr_66) see the Eskimo tale of
+<span id="fn_66"></span>[87:3](tes42.htm#fr_66.md) see the Eskimo tale of
 Giviok (references in Boas, Franz, "Eskimo of Baffin Land and Hudson
 Bay" *Bulletin, American Museum of Natural History*, vol. 15, 36);
 Tlingit (Swanton, John R., "Tlingit Myths and Texts" *Bulletin 39,
 Bureau of American Ethnology*, Washington, 1909, 317).--F. B.
 
-<span id="fn_67"></span>[88:1](tes42.htm#fr_67) See references in Boas,
+<span id="fn_67"></span>[88:1](tes42.htm#fr_67.md) See references in Boas,
 "Tsimshian Mythology" (*Thirty-first Annual Report, Bureau of American
 Ethnology*, Washington, 1916), 773--F. B.
 
-<span id="fn_68"></span>[89:1](tes42.htm#fr_68) See Eskimo (Boas, "The
+<span id="fn_68"></span>[89:1](tes42.htm#fr_68.md) See Eskimo (Boas, "The
 Eskimo of Baffin Land and Hudson Bay" Bulletin American Museum of
 Natural History, vol. 15, \[170\]); for other references, *Ibid*., 360;
 Wishram (Sapir, "Wishram Texts" Publications, American Ethnological
 Society, vol. 2, 19).--F. B.
 
-<span id="fn_69"></span>[90:1](tes42.htm#fr_69) See [p. 87](#page_87),
+<span id="fn_69"></span>[90:1](tes42.htm#fr_69) See [p. 87](#page_87.md),
 note 3.
 
 ------------------------------------------------------------------------
 
-[Next: 22. The Tale Of La'la (Kolyma Version)](tes43)
+[Next: 22. The Tale Of La'la (Kolyma Version)](tes43.md)

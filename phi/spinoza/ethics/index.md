@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](eth00)
+[Contents](#contents)    [Start Reading](eth00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,11 +35,11 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](eth00)  
-[Part I. Concerning God.](eth01)  
-[Part II. On the Nature and Origin of the Mind](eth02)  
-[Part III. On the Origin and Nature of the Emotions](eth03)  
-[Part IV: Of Human Bondage, or the Strength of the Emotions](eth04)  
+<span id="contents"></span> [Title Page](eth00.md)  
+[Part I. Concerning God.](eth01.md)  
+[Part II. On the Nature and Origin of the Mind](eth02.md)  
+[Part III. On the Origin and Nature of the Emotions](eth03.md)  
+[Part IV: Of Human Bondage, or the Strength of the Emotions](eth04.md)  
 [Part V: Of the Power of the Understanding, or of Human
-Freedom](eth05)  
-[Notes](eth06)  
+Freedom](eth05.md)  
+[Notes](eth06.md)  

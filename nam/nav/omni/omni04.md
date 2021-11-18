@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](omni03)  [Next](omni05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](omni03)  [Next](omni05.md) 
 
 ------------------------------------------------------------------------
 
@@ -3565,4 +3565,4 @@ Water. See page 77, this bulletin, footnote 54.
 
 ------------------------------------------------------------------------
 
-[Next: The Wanderings](omni05)
+[Next: The Wanderings](omni05.md)

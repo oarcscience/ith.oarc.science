@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft19)  [Next](efft21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft19)  [Next](efft21.md) 
 
 ------------------------------------------------------------------------
 
-# THE FAIRY'S MIDWIFE  <span id="fr_21"></span>[1](#fn_21)
+# THE FAIRY'S MIDWIFE  <span id="fr_21"></span>[1](#fn_21.md)
 
 ONCE upon a time there was, in this celebrated town, a Dame Somebody. I
 do not know her name. All I with truth can say is that she was old, and
@@ -110,9 +110,9 @@ gratified an idle curiosity in the house of a pixy.
 
 ### Footnotes
 
-<span id="fn_21"></span>[1](efft20.htm#fr_21) Mrs. Bray, *The Borders of
+<span id="fn_21"></span>[1](efft20.htm#fr_21.md) Mrs. Bray, *The Borders of
 the Tamar and the Tavy*, vol 1. p. 174.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventure of Cherry of Zennor](efft21)
+[Next: The Adventure of Cherry of Zennor](efft21.md)

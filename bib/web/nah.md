@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](mic)  [Next](hab) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](mic)  [Next](hab.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ you; for who hasn't felt your endless cruelty?
 
 ------------------------------------------------------------------------
 
-[Next: Habakkuk](hab)
+[Next: Habakkuk](hab.md)

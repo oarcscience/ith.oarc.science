@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt03)  [Next](hkt05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt03)  [Next](hkt05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ at Intangible Textual Heritage
 ### CHAPTER II.
 
 **Regula Pauperum Commilitonum Christi et Templi Salomonis**. <span
-id="fr_19"></span>[\*](#fn_19)
+id="fr_19"></span>[\*](#fn_19.md)
 
 <span class="small">The most curious parts of the rule displayed--The
 confirmation of the rule by the Pope--The visit of Hugh de Payens, the
@@ -484,7 +484,7 @@ neither widow, nor virgin, nor mother, nor sister, nor aunt, nor any
 other woman. Let the knighthood of Christ shun *feminine kisses*,
 through which men have very often been drawn into danger, so that each,
 with a pure conscience and secure life, may be able to walk
-everlastingly in the sight of God." <span id="fr_20"></span>[\*](#fn_20)
+everlastingly in the sight of God." <span id="fr_20"></span>[\*](#fn_20.md)
 
  
 
@@ -499,7 +499,7 @@ into England, and there he was well received by all good men, and all
 gave him treasure, and in Scotland also, and they sent in all a great
 sum in gold and silver by him to Jerusalem, and there went with him and
 after him so great a number as never before since the days of Pope
-Urban." <span id="fr_21"></span>[†](#fn_21) Grants of land, as well as
+Urban." <span id="fr_21"></span>[†](#fn_21.md) Grants of land, as well as
 of money, were at the same time made
 
 <span id="page_27">p. 27</span>
@@ -533,7 +533,7 @@ unjust exactions, and had refused to submit to the judicial decision of
 the Count of Anjou, desired to enter the order, Hugh de Payens refused
 to admit him to the vows, until he had humbled himself, renounced his
 pretensions, and given perfect satisfaction to those whom he had
-injured. <span id="fr_22"></span>[\*](#fn_22) The candidates, moreover,
+injured. <span id="fr_22"></span>[\*](#fn_22.md) The candidates, moreover,
 previous to their admission,
 
 <span id="page_28">p. 28</span>
@@ -560,7 +560,7 @@ chief house of the order at Jerusalem, he sent vast sums of money
 thither, and immuring himself in a small cell in the Temple at
 Barcelona, he there remained in the constant exercise of the religious
 duties of his profession until the day of his death. <span
-id="fr_23"></span>[\*](#fn_23) At the same period, the Emperor Lothaire
+id="fr_23"></span>[\*](#fn_23.md) At the same period, the Emperor Lothaire
 bestowed on the order a large portion of his patrimony of Supplinburg;
 and the year following, (A.D. 1131,) Alphonso the First, king of Navarre
 and Arragon, also styled Emperor of Spain, one of the greatest warriors
@@ -576,12 +576,12 @@ the nobles of Navarre; but in Arragon they obtained, by way of
 compromise, lands, and castles, and considerable dependencies, a portion
 of the customs and duties levied throughout the kingdom, and of the
 contributions raised from the Moors. <span
-id="fr_24"></span>[\*](#fn_24)
+id="fr_24"></span>[\*](#fn_24.md)
 
 To increase the enthusiasm in favour of the Templars, and still further
 to swell their ranks with the best and bravest of the European chivalry,
 St. Bernard, at the request of Hugh de Payens, <span
-id="fr_25"></span>[†](#fn_25) took up his powerful pen in their behalf.
+id="fr_25"></span>[†](#fn_25.md) took up his powerful pen in their behalf.
 In a famous discourse "In praise of the New Chivalry," the holy abbot
 sets forth, in eloquent and enthusiastic terms, the spiritual advantages
 and blessings enjoyed by the military friars of the Temple over all
@@ -662,7 +662,7 @@ another. . . . The soldiers of Christ live together in common in an
 agreeable but frugal manner, without wives and without children; and
 that nothing may be wanting to evangelical perfection, they dwell
 together without property of any kind, <span
-id="fr_26"></span>[\*](#fn_26) in one house, under one rule, careful to
+id="fr_26"></span>[\*](#fn_26.md) in one house, under one rule, careful to
 preserve the unity of the spirit in the bond of peace. You may say, that
 to the whole multitude there is but one heart and one soul, as each one
 in no respect followeth after his own will or desire, but is diligent to
@@ -807,43 +807,43 @@ are done in thee."
 
 ### Footnotes
 
-<span id="fn_19"></span>[15:\*](hkt04.htm#fr_19) *Chron. Cisterc.
+<span id="fn_19"></span>[15:\*](hkt04.htm#fr_19.md) *Chron. Cisterc.
 Albertus Miræus*. Brux. 1641. *Manricus ad ann*. 1128, cap. ii. *Act.
 Syn. Trec.* tom. x. edit. Labb.
 
-<span id="fn_20"></span>[26:\*](hkt04.htm#fr_20) Ego Joannes
+<span id="fn_20"></span>[26:\*](hkt04.htm#fr_20.md) Ego Joannes
 Michaelensis, præsentis paginæ, jussu consilii ac venerabilis abbatis
 Clarævallensis, cur creditum ac debitum hoc fuit, humilis scriba esse,
 divinâ gratiâ merui.--*Chron. Cisterc*. ut sup.
 
-<span id="fn_21"></span>[26:†](hkt04.htm#fr_21) See also Hoveden apud X
+<span id="fn_21"></span>[26:†](hkt04.htm#fr_21.md) See also Hoveden apud X
 script. page 479. Hen. Hunting. ib. page 384.
 
-<span id="fn_22"></span>[27:\*](hkt04.htm#fr_22) *Annales Benedictini*,
+<span id="fn_22"></span>[27:\*](hkt04.htm#fr_22.md) *Annales Benedictini*,
 tom. vi. page 166.
 
-<span id="fn_23"></span>[28:\*](hkt04.htm#fr_23) *Histoire de
+<span id="fn_23"></span>[28:\*](hkt04.htm#fr_23.md) *Histoire de
 Languedoc*, lib. xvii. p. 407.
 
-<span id="fn_24"></span>[29:\*](hkt04.htm#fr_24) *Hist. de l’eglise de
+<span id="fn_24"></span>[29:\*](hkt04.htm#fr_24.md) *Hist. de l’eglise de
 Gandersheim. Mariana de rebus Hispaniæ*, lib. x. cap. 15, 17, 18.
 *Zurita anales de la corona de Aragon*, tom. i. lib. 1. cap. 52.
 *Quarita*, tom. i. lib. ii. cap. 4.
 
-<span id="fn_25"></span>[29:†](hkt04.htm#fr_25) Semel et secundo, et
+<span id="fn_25"></span>[29:†](hkt04.htm#fr_25.md) Semel et secundo, et
 tertio, ni fallor, petiisti a me. Hugo carrissime, ut tibi tuisque
 commilitonibus scriberem exhortations sermonem, et adversus hostilem
 tyrannidem, quia lanceam non liceret, stilum vibrarem. *Exhortatio S.
 Bernardi ad Milites Templi, ed. Mabillon*. *Parisiis*, 1839, tom. i.
 col. 1253 to 1278.
 
-<span id="fn_26"></span>[31:\*](hkt04.htm#fr_26) i. e. Without any
+<span id="fn_26"></span>[31:\*](hkt04.htm#fr_26.md) i. e. Without any
 *separate* property.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](hkt05)
+[Next: Chapter III](hkt05.md)
 
 </div>

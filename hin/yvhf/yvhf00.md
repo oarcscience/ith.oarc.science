@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](yvhf01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](yvhf01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -44,13 +44,13 @@ copyright office at required by law at the time.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="page_2">p. 2</span> <span id="page_3">p. 3</span>
 
-<span id="img_00300"></span> ![To My Brother](img/00300.jpg)
+<span id="img_00300"></span> ![To My Brother](img/00300.jpg.md)
 
 <div style="margin-left: 20%; margin-right: 20%">
 
@@ -88,4 +88,4 @@ Dr. and Mrs. J. D. Ward.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](yvhf01)
+[Next: Contents](yvhf01.md)

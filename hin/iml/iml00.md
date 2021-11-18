@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](iml01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](iml01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -36,20 +36,20 @@ attribution is left intact in all copies.
 
 [![SITA FINDS RAMA AMONG LOTUS BLOSSOMS&lt;br&gt; From the painting by
 Warwick Goble](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 SITA FINDS RAMA AMONG LOTUS BLOSSOMS  
 From the painting by Warwick Goble  
 
 <span id="img_cover"></span>
 
 [![Front Cover and Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover and Spine  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
  
@@ -60,4 +60,4 @@ Title Page
 
 ------------------------------------------------------------------------
 
-[Next: Preface](iml01)
+[Next: Preface](iml01.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits006) [Next](bits008)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits006) [Next](bits008.md)
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ to admonish himself, saying, "Siddhattha, although you were born into a
 family having plenty to eat and drink, into a station in life where you
 lived on fragrant third season's rice<span
 id="page_68_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_68_note_1) with various sauces of
+class="small">1</span></sup>](#page_68_note_1.md) with various sauces of
 the finest flavors, yet when you saw a monk clad in garments taken from
 the rubbish heap, you exclaimed, 'Oh, when shall I be like him, and eat
 food which I have begged? Will that time ever come?' And then you
@@ -106,7 +106,7 @@ proceeded on his way; and coming to Âlâra Kâlâma and Uddaka, the
 disciple of Râma, he acquired from them the eight stages of meditation.
 But becoming convinced that they did not lead to enlightenment,<span
 id="page_69_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_69_note_1) he ceased to practise
+class="small">1</span></sup>](#page_69_note_1.md) he ceased to practise
 them. And being desirous of making the Great Struggle, so as to show the
 world of gods and men his fortitude and heroism, he went to Uruvelâ, and
 saying, "Truly, delightful is this spot," he there took up his abode,
@@ -114,7 +114,7 @@ and began the Great Struggle.
 
    And those five persons, Kondañña and the others,<span
 id="page_69_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_69_note_2) who since their
+class="small">2</span></sup>](#page_69_note_2.md) who since their
 retirement from the world, were wandering about for alms through
 villages, market-towns, and royal cities, here met with the Future
 Buddha. And during the six
@@ -190,7 +190,7 @@ Isipatana.
 
 ------------------------------------------------------------------------
 
-[Next: § 8. The Attainment of Buddhaship](bits008)
+[Next: § 8. The Attainment of Buddhaship](bits008.md)
 
 ------------------------------------------------------------------------
 
@@ -198,7 +198,7 @@ Isipatana.
 
 <span id="footnotes_page_68">p. 68</span>
 
-<span id="page_68_note_1"></span>[1](#page_68_fr_1)
+<span id="page_68_note_1"></span>[1](#page_68_fr_1.md)
 
 <table data-align="center" data-cellpadding="5">
 <colgroup>
@@ -220,11 +220,11 @@ From the Sanskrit of the *Nîtipradîpa*, 15, as given by Böhtlingk,
 
 <span id="footnotes_page_69">p. 69</span>
 
-<span id="page_69_note_1"></span>[1](#page_69_fr_1) See [pages
-334-8](bits071.htm#page_334).
+<span id="page_69_note_1"></span>[1](#page_69_fr_1.md) See [pages
+334-8](bits071.htm#page_334.md).
 
-<span id="page_69_note_2"></span>[2](#page_69_fr_2) See [pages
-52-3](bits005.htm#page_52).
+<span id="page_69_note_2"></span>[2](#page_69_fr_2.md) See [pages
+52-3](bits005.htm#page_52.md).
 
  
 

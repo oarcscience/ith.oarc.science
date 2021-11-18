@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm03)  [Next](tsm05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm03)  [Next](tsm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ sorrowful song:--
 
 [![BEIRA&lt;BR&gt; &lt;I&gt;From a drawing by John Duncan,
 A.R.S.A&lt;/I&gt;.](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 BEIRA  
 *From a drawing by John Duncan, A.R.S.A*.  
 
@@ -124,7 +124,7 @@ Out in all weathers I wander alone
 
 Her teeth were red as rust, and her locks, which lay heavily on her
 shoulders, were white as an aspen covered with hoar frost. On her head
-she wore a spotted mutch. <span id="fr_3"></span>[1](#fn_3) All her
+she wore a spotted mutch. <span id="fr_3"></span>[1](#fn_3.md) All her
 clothing was grey,
 
 <span id="page_26">p. 26</span>
@@ -214,7 +214,7 @@ sons of Beira dwelt in deep
 caves. Some were horned like deer, and others had many heads. So strong
 were they that they could pick up cattle and, throwing them over their
 shoulders, carry them away to roast them for their meals. Each giant son
-of Beira was called a Fooar. <span id="fr_4"></span>[1](#fn_4)
+of Beira was called a Fooar. <span id="fr_4"></span>[1](#fn_4.md)
 
 It was Beira who built Ben Wyvis. She found it a hard task, for she had
 to do all the work alone, her hag servants being busy elsewhere. One
@@ -295,13 +295,13 @@ Isle of the West-the land of eternal summer and perpetual youth.
 
 ### Footnotes
 
-<span id="fn_3"></span>[25:1](tsm04.htm#fr_3) The old Scottish name for
+<span id="fn_3"></span>[25:1](tsm04.htm#fr_3.md) The old Scottish name for
 a woman's cap.
 
-<span id="fn_4"></span>[29:1](tsm04.htm#fr_4) Pronounced Foo'ar. The
+<span id="fn_4"></span>[29:1](tsm04.htm#fr_4.md) Pronounced Foo'ar. The
 Anglo-Irish rendering is "Fomorian", but the Irish Fomorians are
 different from the Scottish.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Coming of Angus and Bride](tsm05)
+[Next: Chapter II. The Coming of Angus and Bride](tsm05.md)

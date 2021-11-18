@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](pte06)  [Next](pte08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](pte06)  [Next](pte08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plutarch's Morals: Theosophical Essays*, tr. by Charles William King,
 \[1908\], at Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ friends at the same place some of our Pythian conversation, in the way
 of first fruits, boldly confess that I expect from you in return others
 both longer and better done; seeing that you have the advantage of a
 very great city, and plenty of leisure in the midst of books and
-lectures of every kind. <span id="fr_172"></span>[1](#fn_172) Now, our
+lectures of every kind. <span id="fr_172"></span>[1](#fn_172.md) Now, our
 friend Apollo appears to cure and to settle all difficulties connected
 with life, by giving responses
 
@@ -60,16 +60,16 @@ god, did it obtain the rank of a sacred offering and object of
 admiration: but either those that first speculated about the god saw in
 it some peculiar and extraordinary virtue of its own, or else they used
 it as a symbol of some important mystery, and admitted <span
-id="fr_173"></span>[1](#fn_173) it on those grounds. This question,
+id="fr_173"></span>[1](#fn_173.md) it on those grounds. This question,
 though often propounded in the school, I had always quietly evaded and
 put off, until lately I was taught by my sons, uniting in entreaty <span
-id="fr_174"></span>[2](#fn_174) with some others, visitors whom, as they
+id="fr_174"></span>[2](#fn_174.md) with some others, visitors whom, as they
 were about to depart from Delphi, I could not politely divert from the
 point, nor excuse myself to them, anxious as they were to get some
 information upon the subject. Having, therefore, made them sit down
 about the Shrine, I began partly to investigate the matter myself,
 partly to put questions to them \[being reminded\], <span
-id="fr_175"></span>[3](#fn_175) both by the place and by their words of
+id="fr_175"></span>[3](#fn_175.md) both by the place and by their words of
 what I had heard long ago (when Nero was visiting the spot), from
 Ammonius and others, when the same questions had been similarly started.
 
@@ -118,12 +118,12 @@ hostility
 of persons of great power; having, therefore, held a meeting here, and
 conferred together, they dedicated that letter of the alphabet, which
 both holds the fifth place there, and also signifies the number
-Five, <span id="fr_176"></span>[1](#fn_176) testifying to the god that
+Five, <span id="fr_176"></span>[1](#fn_176.md) testifying to the god that
 they were but *Five*, and discarding and casting off the seventh and the
 sixth as not belonging to their number. That all this is not said at
 random, any one may know, from hearing those belonging to the Temple,
 calling the *golden* E that of Livia, <span
-id="fr_177"></span>[2](#fn_177) wife of Cæsar; the *bronze* one, that of
+id="fr_177"></span>[2](#fn_177.md) wife of Cæsar; the *bronze* one, that of
 the Athenians; whereas the original and most ancient one, wooden in
 material, they call the E of the Wise Men, not of *one*, but the joint
 offering of them all."
@@ -131,7 +131,7 @@ offering of them all."
 IV\. Now Ammonius, quietly smiling, and suspecting that Lamprias was
 asserting an idea of his own, while he pretended it a legend and a
 report heard from others, upon a matter admitting of no disproval \[made
-no reply\]. <span id="fr_178"></span>[3](#fn_178) But someone else of
+no reply\]. <span id="fr_178"></span>[3](#fn_178.md) But someone else of
 those present observed: "All this is like the nonsense which the
 Chaldean visitor lately talked: that there are *seven* of the letters
 that utter a sound of their own; *seven* stars that move in the heavens
@@ -143,7 +143,7 @@ stuff is
 
 <span id="page_177">p. 177</span>
 
-mere idle talk. <span id="fr_179"></span>[1](#fn_179) And indeed
+mere idle talk. <span id="fr_179"></span>[1](#fn_179.md) And indeed
 Lamprias has unwittingly stirred up the people belonging to the Temple
 against his argument, for what he has told us nobody at Delphi knows
 anything about; but all assert the common opinion and that of the
@@ -153,7 +153,7 @@ letter, but only the name of it that has any significance."
 V. "Furthermore, as the Delphians themselves suppose, and as Nicander
 the priest said in his address, the letter is the vehicle and the form
 of the demand made to the god, and it holds the place of honour <span
-id="fr_180"></span>[2](#fn_180) in the queries of those consulting the
+id="fr_180"></span>[2](#fn_180.md) in the queries of those consulting the
 Oracle and asking, *If* they shall be victorious? *If* they shall marry?
 *If* it is advisable to make a voyage? *If* to turn farmer? *If* to go
 abroad? The god, wise as he is, sends the logicians about their
@@ -163,7 +163,7 @@ questions subordinate to this particle as real things, and accepts them
 as such. And since inquiry is his peculiar right, in his character of
 prophet; and prayer to him, is a joint right in his character of god,
 they think that this letter represents the precatory <span
-id="fr_181"></span>[3](#fn_181) no less than the inquiring element. For
+id="fr_181"></span>[3](#fn_181.md) no less than the inquiring element. For
 each one of such as pray begins with 'Oh, if,' and Archilochus says,
 
 <div style="margin-left: 32px">
@@ -245,7 +245,7 @@ Reason of which he sees philosophers making chief and most frequent use?
 And Hercules, though he had not yet set Prometheus free, nor conversed
 with sophists like Chiron and Atlas, but being yet a youth, and a
 thorough Bœotian, though at first he knocked down logic, <span
-id="fr_182"></span>[1](#fn_182)
+id="fr_182"></span>[1](#fn_182.md)
 
 <span id="page_180">p. 180</span>
 
@@ -260,13 +260,13 @@ but putting on the lion's-skin for the purpose. In the same way we must
 count for nothing the whole lot put together, all things whatsoever, the
 natures and principles of men or gods, and consider this one as the
 leader and master of all things beautiful and precious—but we must <span
-id="fr_183"></span>[1](#fn_183) hold our tongues, and sacrifice to this
+id="fr_183"></span>[1](#fn_183.md) hold our tongues, and sacrifice to this
 god the first fruits of his darling mathematics, because we believe that
 the E excels not the other vowels either in virtue, shape, or
 expression, but that it has been put in the post of honour as the symbol
 of a *number* which is great with reference to the whole and a capital
 one, that is the *Five*, from which the wise used to call reckoning
-'counting by fives.'" <span id="fr_184"></span>[2](#fn_184) This, said
+'counting by fives.'" <span id="fr_184"></span>[2](#fn_184.md) This, said
 Eustrophos, not in joke, but because I, at that very tune, was zealously
 applying myself to mathematics, for as he lived in the Academy, he was
 perhaps disposed to pay particular respect to the maxim:
@@ -287,13 +287,13 @@ obtained honour, as being the first product of the first; and has been
 named 'Marriage,' from the comparison of the even to the feminine, and
 again of the odd to the masculine. For in case of divisions into equal
 parts, the even number being every way parted asunder, leaves behind a
-receptive principle, <span id="fr_185"></span>[1](#fn_185) as it were,
+receptive principle, <span id="fr_185"></span>[1](#fn_185.md) as it were,
 in itself, and a space; but when the odd is treated in the same way, a
 middle part still survives that is productive of division; in which way
 it is more generative than the other, and when united thereto it
 prevails, but it never overcomes; for the even comes from both in no
 conjunction of the two, whereas the odd does in all. <span
-id="fr_186"></span>[2](#fn_186) Furthermore, when added and joined to
+id="fr_186"></span>[2](#fn_186.md) Furthermore, when added and joined to
 itself, each of the two exhibits its own distinctive property; for no
 even number united to an even number produces an odd one, nor goes
 beyond its proper allotment; because through weakness it is unproductive
@@ -313,13 +313,13 @@ what is the seed, and buried the same, produces in the meanwhile divers
 forms and figures, through which she moves her work on towards her end,
 and at last she exhibits the wheat again, and restores the beginning at
 the end of all; in like manner the other numbers, when they are
-multiplied <span id="fr_187"></span>[1](#fn_187) result in different
+multiplied <span id="fr_187"></span>[1](#fn_187.md) result in different
 numbers through the augmentation, whereas the numbers five and six
 alone, taken as many times, reproduce and resuscitate themselves: for
 six times six becomes thirty-six, and five times five becomes
 five-and-twenty: and again, this is the case with the six but once, and
 singly; that is, when squared into itself; but the same thing happens to
-the number five \[frequently\] <span id="fr_188"></span>[2](#fn_188) in
+the number five \[frequently\] <span id="fr_188"></span>[2](#fn_188.md) in
 the multiplication, and also, in a way peculiar to itself, in addition:
 for it makes either itself or the number ten, when alternately added to
 itself, and this is the case throughout, for the number copies the Final
@@ -352,9 +352,9 @@ condition, at one time set all Nature on fire, making all things like to
 all; at another time he was metamorphosed and turned into various
 shapes, states, and powers, in the same way as the universe now
 exists—but is called by the best-known of all his names. <span
-id="fr_189"></span>[1](#fn_189) The wiser sort, cloaking their meaning
+id="fr_189"></span>[1](#fn_189.md) The wiser sort, cloaking their meaning
 from the vulgar, call the change into Fire 'Apollo,' on account of the
-reduction to one state, <span id="fr_190"></span>[2](#fn_190) and also
+reduction to one state, <span id="fr_190"></span>[2](#fn_190.md) and also
 'Phœbus' on account of its freedom from defilement and purity: but the
 condition and change of his turning and subdivision into airs and water
 and earth, and the production of animals and plants, they enigmatically
@@ -383,12 +383,12 @@ of the year they employ the pæan at the sacrifices; at the beginning of
 winter they revive the dithyramb and put a stop to the pæan, and invoke
 the god with the former instead of the latter chant for the space of
 three months: which makes three to one the space of time they believe
-that the creation <span id="fr_191"></span>[1](#fn_191) lasted compared
+that the creation <span id="fr_191"></span>[1](#fn_191.md) lasted compared
 to that of the conflagration."
 
 X. "But this discussion has been prolonged beyond the fitting limits—it
 is, however, clear that they appropriate the number five to him <span
-id="fr_192"></span>[2](#fn_192) (Apollo), sometimes taking it by itself
+id="fr_192"></span>[2](#fn_192) (Apollo.md), sometimes taking it by itself
 as *Five*, sometimes as generating the number Ten out of itself, as \[he
 does\] the *World*. But with the art most acceptable to the god, namely
 Music, we do not think this number has anything to do: seeing that the
@@ -399,7 +399,7 @@ holes of the flute. For all notes receive their birth in the proportions
 of arithmetic: and the proportion of the diatessaron is one and a third,
 that of the diapente one and a half, that of the diapason double; that
 of the diapente and diapason triple; and that of the diapason
-quadruple. <span id="fr_193"></span>[3](#fn_193)
+quadruple. <span id="fr_193"></span>[3](#fn_193.md)
 
 <span id="page_185">p. 185</span>
 
@@ -407,7 +407,7 @@ quadruple. <span id="fr_193"></span>[3](#fn_193)
 which the harmonists add to these, calling it the diatessaron and
 diapason, that goes out of the measure, it is not right for us to accept
 it, and comply with the irrational sense of hearing in a matter of
-reason, as in <span id="fr_194"></span>[1](#fn_194) the case of a law.
+reason, as in <span id="fr_194"></span>[1](#fn_194.md) the case of a law.
 That, therefore, I may dismiss the five 'threes' of tetrachords, and the
 first five whether they are to be called 'tones,' 'tropes,' or
 'harmonies,' according as, through tension or slackening of the strings,
@@ -427,7 +427,7 @@ considered as composed and compacted out of five other worlds; for
 example, the one is of earth, the other of water, the third of fire, the
 fourth of air; the fifth element some call *heaven*, some *light*,
 *others æther*, others call this same thing the 'Quintessence,' <span
-id="fr_195"></span>[2](#fn_195) to which alone of all bodies belongs by
+id="fr_195"></span>[2](#fn_195.md) to which alone of all bodies belongs by
 nature the revolving in a circle: and that not out of compulsion, or
 extraneous cause. For which reason truly having observed the five most
 beautiful and most perfect figures of things in nature, namely, the
@@ -437,11 +437,11 @@ pyramid, the cube, the octahedron, the dodecahedron,
 
 the eikosihedron, and the duodecahedron, I have appropriately assigned
 each of them to a different element." <span
-id="fr_196"></span>[1](#fn_196)
+id="fr_196"></span>[1](#fn_196.md)
 
 XII\. "There are some philosophers who identify with those primitive
 elements the powers of the senses which are the same in number: <span
-id="fr_197"></span>[2](#fn_197) they see the touch repulsive and
+id="fr_197"></span>[2](#fn_197.md) they see the touch repulsive and
 earth-like; the taste, by means of moisture, appreciating the properties
 of the things tasted; whilst air being struck becomes in the hearing,
 voice and sound; and of the two remaining, smell, which the olfactory
@@ -452,7 +452,7 @@ action are of like condition with those elements. Other sense has
 neither living thing, nor other nature does the world possess, that is
 simple and unmixed; but there has been made, to all appearance, a
 certain wonderful distribution and acceptance of the one five
-between <span id="fr_198"></span>[3](#fn_198) the other five."
+between <span id="fr_198"></span>[3](#fn_198.md) the other five."
 
 XIII\. At the same moment, as it were checking myself, and leaving off,
 I exclaimed: "What have we been thinking of, Eustrophos, to have all but
@@ -461,7 +461,7 @@ portions? The three intermediate he has assigned to the three gods, the
 two extremes, Olympus and Earth, whereof the one is the boundary of
 things below, the other of things above, he has left common to all and
 unallotted to any. But 'the argument must be carried back,' as Euripides
-saith, for they that venerate <span id="fr_199"></span>[4](#fn_199) the
+saith, for they that venerate <span id="fr_199"></span>[4](#fn_199.md) the
 number Four do not ill to teach that by reason of this number every body
 has its
 
@@ -475,7 +475,7 @@ origin to surface in the number three; and when depth is added to all
 these in four ways, the aggregate advances into a solid body—it is clear
 to everyone that the number four, after having carried. Nature forward
 up to completing a body and producing \[double\] <span
-id="fr_200"></span>[1](#fn_200) bulk and resistance, has yet left it
+id="fr_200"></span>[1](#fn_200.md) bulk and resistance, has yet left it
 deficient in the most important article. For the thing inanimate, to
 speak generally, is helpless, imperfect, and serviceable for nothing at
 all, without a soul to direct it; but the motion or disposition, being a
@@ -521,7 +521,7 @@ fifthly, after these, Motion and Rest. But in the 'Philebus' he uses a
 different mode of division, and says that *One* is infinite and *Other*
 definite, and that all generation is composed from these two mixed
 together: and the Cause by which they are so mixed together he supposes
-the fourth kind; <span id="fr_201"></span>[1](#fn_201) whilst the fifth
+the fourth kind; <span id="fr_201"></span>[1](#fn_201.md) whilst the fifth
 he leaves us to conceive as that through which the two mixed principles
 again obtain separation and division. But I conjecture that these things
 are predicated as being images of those ideas just mentioned, that which
@@ -548,10 +548,10 @@ song.'"</span>
 
 XVI\. After the discourse aforesaid, he continued to us: "One thing
 more, briefly, I will sing to the intelligent, like Nicander <span
-id="fr_202"></span>[1](#fn_202) and his friends. On the sixth day of the
+id="fr_202"></span>[1](#fn_202.md) and his friends. On the sixth day of the
 new moon, when you conduct the Pythia to the Townhall, the first casting
 of the three lots takes place …  you throw neither three nor two <span
-id="fr_203"></span>[2](#fn_203)—is it not so?" "It is so," replied
+id="fr_203"></span>[2](#fn_203.md)—is it not so?" "It is so," replied
 Nicander; "but the reason must not be divulged to others."
 "Consequently," I said, smiling, "so far as the god allows us that be
 \[not\] sanctified to know the truth, this rule also has something to do
@@ -581,7 +581,7 @@ together with the utterance thereof puts the speaker in mind of the
 power of the deity. For the god addresses each one of us here, when
 approaching him, as if with a salutation, in the words, Know thyself,'
 which is neither more nor less than 'Hail,' whilst we, in requital to
-the god, say, 'Thou art,' <span id="fr_204"></span>[1](#fn_204) as
+the god, say, 'Thou art,' <span id="fr_204"></span>[1](#fn_204.md) as
 though paying to him the true, undying, and sole property of himself,
 the predicate of *existence*."
 
@@ -630,7 +630,7 @@ he
 
 <span id="page_192">p. 192</span>
 
-changes <span id="fr_205"></span>[1](#fn_205)—growing one different
+changes <span id="fr_205"></span>[1](#fn_205.md)—growing one different
 person out of another; but Sense, through ignorance of reality, falsely
 pronounces that what appears *exists*."
 
@@ -643,7 +643,7 @@ decay and growth; for is not the predicate 'After' and 'Before,'
 to say that what has not yet been, or what has ceased from being, is in
 being, how silly and absurd! For in this way especially do we apply the
 notion of Time, and predicate the terms 'Instant' and 'Present' and
-'Now' … <span id="fr_206"></span>[2](#fn_206) this, in turn, Reason
+'Now' … <span id="fr_206"></span>[2](#fn_206.md) this, in turn, Reason
 distributes too much, dissolves and destroys. For it (Time) is diverted,
 like a ray of light, into the Future and the Past, necessarily
 separated, when we attempt to see it. And if the Nature that is measured
@@ -651,7 +651,7 @@ is in the same condition as that which measures it, nothing is either
 stable or existing, but all things are either being born or perishing,
 according to their distribution with respect to time. Consequently it is
 not allowable so much as to say of Being <span
-id="fr_207"></span>[3](#fn_207) that 'it was' or that 'it will be;' for
+id="fr_207"></span>[3](#fn_207.md) that 'it was' or that 'it will be;' for
 all these modes are tenses, transitions, and interchanges of the thing
 formed by nature, never to stand still in existence.
 
@@ -663,7 +663,7 @@ nor past, nor older
 <span id="page_193">p. 193</span>
 
 nor younger, but He being *One* with the one 'Now,' hath filled up the
-'Ever;' <span id="fr_208"></span>[1](#fn_208) and that which really
+'Ever;' <span id="fr_208"></span>[1](#fn_208.md) and that which really
 *is*, alone *is* with reference to Him; neither born, nor about to *be*,
 nor growing, nor to have an end. In this way, therefore, ought we, when
 worshipping, to salute Him, and to address Him, or even, truly, as some
@@ -671,12 +671,12 @@ of the ancients did, 'Thou art One!' For the Deity is not *several*, as
 each one of us is, made up out of an infinite number of different things
 in conditions of existence—a motley assemblage of articles of all sorts
 and gleanings. But that which *is* must necessarily be *One*, just as
-*One* must be that which is; for <span id="fr_209"></span>[2](#fn_209)
+*One* must be that which is; for <span id="fr_209"></span>[2](#fn_209.md)
 difference of that which is, springs out of that which is not, in form
 of births, consequently the first of the names (by which he is called)
 well suits the god, as also the second and the third. For 'Apollo,'
 inasmuch as it means 'denying many,' signifies also 'rejecting
-plurality.' <span id="fr_210"></span>[3](#fn_210) He is also Ἰητος,
+plurality.' <span id="fr_210"></span>[3](#fn_210.md) He is also Ἰητος,
 because *one* and alone. 'Phœbus' the ancients called everything clean
 and chaste, and even now the Thessalians say that their priests, when
 living by themselves outside the city on the fast-days, 'are living
@@ -712,13 +712,13 @@ with the universe and the world; first making things that are not, then
 destroying what is made. For, on the contrary, whatever has been
 generated, in whatever way, in the world, *this* binds all existence
 together, and checks the infirmity inherent in the medley <span
-id="fr_211"></span>[1](#fn_211) that tends to destruction. And to me
+id="fr_211"></span>[1](#fn_211.md) that tends to destruction. And to me
 what seems most opposed to, and testifying against the aforesaid legend
 is this very word, the addressing 'Thou art' to the god, as though
 neither change of place or transformation were possible with respect to
 *him*, but are applied to some other god (or better say dæmon) appointed
 to preside over Nature as working in production and dissolution, to
-whom <span id="fr_212"></span>[2](#fn_212) it pertained
+whom <span id="fr_212"></span>[2](#fn_212.md) it pertained
 
 <span id="page_195">p. 195</span>
 
@@ -770,26 +770,26 @@ way, to harmonize with it; for the one is addressed through awe and
 veneration to the god, the other is a reminder to mortality of the
 nature and frailty that envelopes it."
 
-<span id="img_19600"></span> ![\[The Delphic E\]](img/19600.jpg)  
+<span id="img_19600"></span> ![\[The Delphic E\]](img/19600.jpg.md)  
 \[The Delphic E\]
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_172"></span>[173:1](pte07.htm#fr_172) Serapion lived at
+<span id="fn_172"></span>[173:1](pte07.htm#fr_172.md) Serapion lived at
 Athens, as appears from the last treatise.
 
-<span id="fn_173"></span>[174:1](pte07.htm#fr_173) προσέσϑαι must be
+<span id="fn_173"></span>[174:1](pte07.htm#fr_173.md) προσέσϑαι must be
 προσίεσϑαι, "be pleased with."
 
-<span id="fn_174"></span>[174:2](pte07.htm#fr_174) ξυμφιλοτιμούμενος
+<span id="fn_174"></span>[174:2](pte07.htm#fr_174.md) ξυμφιλοτιμούμενος
 must be … ων.
 
-<span id="fn_175"></span>[174:3](pte07.htm#fr_175) Not in text, but
+<span id="fn_175"></span>[174:3](pte07.htm#fr_175.md) Not in text, but
 clearly fallen out in the copy.
 
-<span id="fn_176"></span>[176:1](pte07.htm#fr_176) This explanation, as
+<span id="fn_176"></span>[176:1](pte07.htm#fr_176.md) This explanation, as
 all the rest, is founded on nothing but fancy, as a single consideration
 proves. The symbol, which is preserved to us by amulets, was indeed
 similar in shape to the lunar ϵ, but then *that* character was unknown
@@ -797,7 +797,7 @@ before Imperial times. In all probability it was an Indian cast mark;
 and imported like the Swastika or Fylfot, and many other Indian symbols,
 in prehistoric times.
 
-<span id="fn_177"></span>[176:2](pte07.htm#fr_177) In compliment to her
+<span id="fn_177"></span>[176:2](pte07.htm#fr_177.md) In compliment to her
 husband, who wished to be thought son of the god:
 
 <div style="margin-left: 32px">
@@ -806,124 +806,124 @@ husband, who wished to be thought son of the god:
 
 </div>
 
-<span id="fn_178"></span>[176:3](pte07.htm#fr_178) This has dropped out
+<span id="fn_178"></span>[176:3](pte07.htm#fr_178.md) This has dropped out
 of the text, but is indispensable for the sense.
 
-<span id="fn_179"></span>[177:1](pte07.htm#fr_179) ἐκ πίνακος καὶ
+<span id="fn_179"></span>[177:1](pte07.htm#fr_179.md) ἐκ πίνακος καὶ
 πυλαίας. Means, I suppose, fortune-tellers' technical talk.
 
-<span id="fn_180"></span>[177:2](pte07.htm#fr_180) All inquiries begin
+<span id="fn_180"></span>[177:2](pte07.htm#fr_180.md) All inquiries begin
 with Εί, the sound of the Greek ε.
 
-<span id="fn_181"></span>[177:3](pte07.htm#fr_181) As we should say the
+<span id="fn_181"></span>[177:3](pte07.htm#fr_181.md) As we should say the
 εἴ stands for both notes of interrogation and exclamation.
 
-<span id="fn_182"></span>[179:1](pte07.htm#fr_182) In his fight with the
+<span id="fn_182"></span>[179:1](pte07.htm#fr_182.md) In his fight with the
 Centaurs, regarded as sophists. Here is the <span id="page_180">p.
 180</span> common play upon the various senses of , impossible to be
 translated.
 
-<span id="fn_183"></span>[180:1](pte07.htm#fr_183) The text has εἰδως
+<span id="fn_183"></span>[180:1](pte07.htm#fr_183.md) The text has εἰδως
 for εἰκὸς.
 
-<span id="fn_184"></span>[180:2](pte07.htm#fr_184) πεμπάζειν, literally
+<span id="fn_184"></span>[180:2](pte07.htm#fr_184.md) πεμπάζειν, literally
 "to five fold" or "to quintuple." In early Greek numeration, the numbers
 up to 5 were denoted by as many vertical strokes; 5 by π; to which again
 were subjoined the proper amount of verticals up to 10, expressed by Δ.
 
-<span id="fn_185"></span>[181:1](pte07.htm#fr_185) According to the
+<span id="fn_185"></span>[181:1](pte07.htm#fr_185.md) According to the
 Platonic plan of treating numbers as solid bodies. Cut a square body in
 two equal parts; these being separated, leave an empty space in the
 middle, a receptacle for anything else.
 
-<span id="fn_186"></span>[181:2](pte07.htm#fr_186) The union of an odd
+<span id="fn_186"></span>[181:2](pte07.htm#fr_186.md) The union of an odd
 and even number always produces an odd number.
 
-<span id="fn_187"></span>[182:1](pte07.htm#fr_187) Into themselves, that
+<span id="fn_187"></span>[182:1](pte07.htm#fr_187.md) Into themselves, that
 is.
 
-<span id="fn_188"></span>[182:2](pte07.htm#fr_188) Not in text, but
+<span id="fn_188"></span>[182:2](pte07.htm#fr_188.md) Not in text, but
 required by context.
 
-<span id="fn_189"></span>[183:1](pte07.htm#fr_189) *i.e.* retains his
+<span id="fn_189"></span>[183:1](pte07.htm#fr_189.md) *i.e.* retains his
 usual name under all his changes.
 
-<span id="fn_190"></span>[183:2](pte07.htm#fr_190) As if derived from ἀ
+<span id="fn_190"></span>[183:2](pte07.htm#fr_190.md) As if derived from ἀ
 privative, and πολλοί, and signifying "Destroyer of plurality"—the most
 preposterous of all the absurd derivations recorded by our Author.
 
-<span id="fn_191"></span>[184:1](pte07.htm#fr_191) The work of creation
+<span id="fn_191"></span>[184:1](pte07.htm#fr_191.md) The work of creation
 took thrice as long a time as did its destruction by fire.
 
-<span id="fn_192"></span>[184:2](pte07.htm#fr_192) in text .
+<span id="fn_192"></span>[184:2](pte07.htm#fr_192.md) in text .
 
-<span id="fn_193"></span>[184:3](pte07.htm#fr_193) The copyist has made
+<span id="fn_193"></span>[184:3](pte07.htm#fr_193.md) The copyist has made
 inextricable confusion of the passage, from want of knowing the
 "difference between tweedledum and tweedledee;" and being myself in the
 same condition, I am totally unable to correct him.
 
-<span id="fn_194"></span>[185:1](pte07.htm#fr_194) Any more than it
+<span id="fn_194"></span>[185:1](pte07.htm#fr_194.md) Any more than it
 would be obeyed in the case of a law, *i.e.* these matters are to be
 judged by calculation, not by the sense of hearing.
 
-<span id="fn_195"></span>[185:2](pte07.htm#fr_195) πεμπτὴ οὐσία, which,
+<span id="fn_195"></span>[185:2](pte07.htm#fr_195.md) πεμπτὴ οὐσία, which,
 from the property here mentioned, Julian calls τὸ εἱλικτὸν σῶμα; and
 says is symbolized by Atys.
 
-<span id="fn_196"></span>[186:1](pte07.htm#fr_196) The Chinese have a
+<span id="fn_196"></span>[186:1](pte07.htm#fr_196.md) The Chinese have a
 similar theory, making the Cube represent Earth.
 
-<span id="fn_197"></span>[186:2](pte07.htm#fr_197) From these theorists
+<span id="fn_197"></span>[186:2](pte07.htm#fr_197.md) From these theorists
 Simon Magus stole the idea of appropriating the Rivers of Paradise to
 the Senses.
 
-<span id="fn_198"></span>[186:3](pte07.htm#fr_198) Of the five senses to
+<span id="fn_198"></span>[186:3](pte07.htm#fr_198.md) Of the five senses to
 the five elements.
 
-<span id="fn_199"></span>[186:4](pte07.htm#fr_199) The Pythagoreans.
+<span id="fn_199"></span>[186:4](pte07.htm#fr_199.md) The Pythagoreans.
 
-<span id="fn_200"></span>[187:1](pte07.htm#fr_200) This word makes
+<span id="fn_200"></span>[187:1](pte07.htm#fr_200.md) This word makes
 nonsense; and has slipped into the text from elsewhere.
 
-<span id="fn_201"></span>[188:1](pte07.htm#fr_201) That is, Motion.
+<span id="fn_201"></span>[188:1](pte07.htm#fr_201.md) That is, Motion.
 
-<span id="fn_202"></span>[189:1](pte07.htm#fr_202) Already mentioned as
+<span id="fn_202"></span>[189:1](pte07.htm#fr_202.md) Already mentioned as
 the High Priest of Delphi, and therefore appealed to in a mystic matter.
 
-<span id="fn_203"></span>[189:2](pte07.htm#fr_203) This passage is
+<span id="fn_203"></span>[189:2](pte07.htm#fr_203.md) This passage is
 hopelessly corrupt. Perhaps the meaning is that the dice so used wanted
 the *deuce* and *tierce* pips.
 
-<span id="fn_204"></span>[190:1](pte07.htm#fr_204) Equivalent in sense
+<span id="fn_204"></span>[190:1](pte07.htm#fr_204.md) Equivalent in sense
 to the Hebrew "Jehovah," and the ὁ ζῶν θεὸς of the Athenians.
 
-<span id="fn_205"></span>[192:1](pte07.htm#fr_205) Some words lost here:
+<span id="fn_205"></span>[192:1](pte07.htm#fr_205.md) Some words lost here:
 but probably to the effect that man's condition is not to be termed
 Existence, but Change.
 
-<span id="fn_206"></span>[192:2](pte07.htm#fr_206) All confusion here in
+<span id="fn_206"></span>[192:2](pte07.htm#fr_206.md) All confusion here in
 text, but it clearly alludes to the foregoing comparison of water
 slipping through the fingers when clutched at.
 
-<span id="fn_207"></span>[192:3](pte07.htm#fr_207) That is, of true
+<span id="fn_207"></span>[192:3](pte07.htm#fr_207.md) That is, of true
 existence, not measured by Time.
 
-<span id="fn_208"></span>[193:1](pte07.htm#fr_208) A beautiful and most
+<span id="fn_208"></span>[193:1](pte07.htm#fr_208.md) A beautiful and most
 expressive metaphor!
 
-<span id="fn_209"></span>[193:2](pte07.htm#fr_209) ετερότης might be
+<span id="fn_209"></span>[193:2](pte07.htm#fr_209.md) ετερότης might be
 well rendered by "otherness," did such a word exist. But as it is, write
 "Variety, which is," &c.
 
-<span id="fn_210"></span>[193:3](pte07.htm#fr_210) Ἀπόλλων being derived
+<span id="fn_210"></span>[193:3](pte07.htm#fr_210.md) Ἀπόλλων being derived
 from ἀ and πολλοὶ. Ἴητος, really "Archer," is here derived from the
 archaic ἵος = εἵς.
 
-<span id="fn_211"></span>[194:1](pte07.htm#fr_211) The origin of the
+<span id="fn_211"></span>[194:1](pte07.htm#fr_211.md) The origin of the
 Gnostic μῖγμα, out of which it is Christ's business to extract the seeds
 of Light.
 
-<span id="fn_212"></span>[194:2](pte07.htm#fr_212) The office of Siva,
+<span id="fn_212"></span>[194:2](pte07.htm#fr_212.md) The office of Siva,
 whose Puranic attributes are exactly described in what follows. As the
 god of Change he is regarded as the god of <span id="page_195">p.
 195</span> Death and destruction, which is in reality but a separation
@@ -931,4 +931,4 @@ of collected particles for the purpose of reconstruction.
 
 ------------------------------------------------------------------------
 
-[Next: On the Apparent Face in the Orb of the Moon](pte08)
+[Next: On the Apparent Face in the Orb of the Moon](pte08.md)

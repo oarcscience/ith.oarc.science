@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah01)  [Next](oah03) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah01)  [Next](oah03.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ soon to come upon the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary Of Strange Words Used In This Book.](oah03)
+[Next: Glossary Of Strange Words Used In This Book.](oah03.md)

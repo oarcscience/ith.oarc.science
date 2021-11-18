@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow19)  [Next](dow21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow19)  [Next](dow21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -94,7 +94,7 @@ the
 
 <span id="img_10500"></span> <span align="CENTER"> [![The Fawns asking
 the Mother Bear if they may play with her Baby](tn/10500.jpg)  
-Click to enlarge](img/10500.jpg)  
+Click to enlarge](img/10500.jpg.md)  
 The Fawns asking the Mother Bear if they may play with her Baby  
 </span>
 
@@ -166,4 +166,4 @@ would have stayed up there and there would be no deer here on the earth.
 
 ------------------------------------------------------------------------
 
-[Next: The Bear and the Fawns](dow21)
+[Next: The Bear and the Fawns](dow21.md)

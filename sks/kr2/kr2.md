@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/kr2)  [Previous](../kj/kj) 
-[Next](../kr3/kr3) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/kr2)  [Previous](../kj/kj.md) 
+[Next](../kr3/kr3.md) 
 
 ------------------------------------------------------------------------
 
@@ -3972,4 +3972,4 @@ Index](../index)  [First Folio](../ff/kr2)  [Previous](../kj/kj) 
 
 ------------------------------------------------------------------------
 
-[Next: King Richard the Third](../kr3/kr3) 
+[Next: King Richard the Third](../kr3/kr3.md) 

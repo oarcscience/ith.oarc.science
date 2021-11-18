@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst11)  [Next](mst13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst11)  [Next](mst13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="img_25500"></span> <span align="CENTER"> [![&lt;i&gt;Last
 resting place of the older Capetian kings&lt;/i&gt;.](tn/25500.jpg)  
-Click to enlarge](img/25500.jpg)  
+Click to enlarge](img/25500.jpg.md)  
 *Last resting place of the older Capetian kings*.  
 </span>
 
@@ -54,7 +54,7 @@ and queens, everything relative to them had political significance.
 
 <span class="contnote">\[paragraph continues\]</span> The least
 occurrence that an ambassador could find out was incentive to him to
-seize his quill and write a dispatch to his [sovereign](errata.htm#11).
+seize his quill and write a dispatch to his [sovereign](errata.htm#11.md).
 Ink had flowed like water during the visit of Nostradamus to Paris, and
 copious reports had been sent home by the diplomats describing this
 amazing man. Some of the diplomats had made an effort to meet him in
@@ -820,7 +820,7 @@ this joint rule to pacify both sides. Catherine didn't want slaughter,
 she wanted peace, but no woman could have handled and tamed the
 unbridled, passionate fanaticism which broke all bounds. Later, when it
 was a question of losing her own power or killing
-[Huguenots](errata.htm#12), Catherine killed. From her point of view she
+[Huguenots](errata.htm#12.md), Catherine killed. From her point of view she
 had no choice.
 
 Some modern students of the *Centuries*, noting this verse, have
@@ -1145,4 +1145,4 @@ SANS FIN
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One: The Cycle of Valois-Navarre](mst13)
+[Next: Chapter One: The Cycle of Valois-Navarre](mst13.md)

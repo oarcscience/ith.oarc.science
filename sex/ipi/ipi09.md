@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](ipi08)  [Next](ipi10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](ipi08)  [Next](ipi10.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,9 +11,9 @@ fecundating force in nature, I referred to Osiris the national sun-god
 of the Egyptians, as distinguished from the Semitic Seth (Set), who was
 identified with the detested Shepherd race. The association of Osiris
 with Khem shows his phallic character, <span
-id="fr_107"></span>[108](ipi14.htm#fn_107) and, in fact, Plutarch
+id="fr_107"></span>[108](ipi14.htm#fn_107.md) and, in fact, Plutarch
 asserts that he was everywhere represented with the phallus
-exposed. <span id="fr_108"></span>[109](ipi14.htm#fn_108) The phallic
+exposed. <span id="fr_108"></span>[109](ipi14.htm#fn_108.md) The phallic
 idea enters, moreover, into the character of all the chief Egyptian
 deities. Bunsen says: "The mythological system obviously proceeded from
 'the concealed god,' Ammon, to the creating god. The latter appears
@@ -26,7 +26,7 @@ nature represented under a feminine form. Finally, her son Ra, Helios,
 appears as the last of the series, in the character of father and
 nourisher of terrestrial things. It is he whom an ancient monument
 represents as the demiurgic principle, creating the mundane egg." <span
-id="fr_109"></span>[110](ipi14.htm#fn_109) The name of Ammon has led to
+id="fr_109"></span>[110](ipi14.htm#fn_109.md) The name of Ammon has led to
 the notion that he was the embodiment of the idea of wisdom. He
 certainly was distinguished by having the human form, but his
 hieroglyphical symbol of the obelisk, and his connection with Khem, show
@@ -35,12 +35,12 @@ generative god, probably at a time when this notion of fecundity had not
 yet been extended to nature as distinguished from man, and thus he would
 form a point of contact between the later Egyptian sun-gods and the
 pillar-gods of the Semites and Phoenicians. <span
-id="fr_110"></span>[111](ipi14.htm#fn_110) To the Egyptians, as to these
+id="fr_110"></span>[111](ipi14.htm#fn_110.md) To the Egyptians, as to these
 other peoples, the sun became the great source of deity. His fecundating
 warmth or his fiery destroying heat were, however, not the only
 attributes deified. These were the most important, but the Egyptians,
 especially, made gods out of many of the solar characters; <span
-id="fr_111"></span>[112](ipi14.htm#fn_111) although the association of
+id="fr_111"></span>[112](ipi14.htm#fn_111.md) although the association of
 the idea of "intellect" with Ammon-ra must have been of late date, if
 the original nature of Ammon be what I have suggested.
 
@@ -51,14 +51,14 @@ or that other gods should be formed to embody them. The perception of
 light, as distinct from heat, was a fertile source of such attributes.
 In the Chaldean mythology, Vul, the son of Anu, was the god of the air;
 but his power had relation to the purely atmospheric phenomena rather
-than to light. <span id="fr_112"></span>[113](ipi14.htm#fn_112) The only
+than to light. <span id="fr_112"></span>[113](ipi14.htm#fn_112.md) The only
 reference to light I find in the titles of the early deities is in the
 character ascribed to Va-Iua, the later Bar or Nin-ip, who is said to
 irradiate the nations like the sun, the light of the gods. <span
-id="fr_113"></span>[114](ipi14.htm#fn_113) But this deity was apparently
+id="fr_113"></span>[114](ipi14.htm#fn_113.md) But this deity was apparently
 the distant planet Saturn, although it may have been originally the
 moon, and I would refer to the Aryan mind the perception of light as a
-divine attribute. <span id="fr_114"></span>[115](ipi14.htm#fn_114) Thus
+divine attribute. <span id="fr_114"></span>[115](ipi14.htm#fn_114.md) Thus
 the Hindu Dyaus (the Greek Zeus) is the shining deity--the god of the
 bright sky. As such, the sun-gods now also become the gods of
 intellectual wisdom, an attribute which likewise appears to have
@@ -70,7 +70,7 @@ arrow-head, which had especial reference to learning. In reality,
 however, this symbol merely shows that they were the patrons of letters
 or writing, and not of "wisdom," in its purely intellectual aspect. If
 the form of the Assyrian alphabetical character was of phallic
-origin, <span id="fr_115"></span>[116](ipi14.htm#fn_115) we have here
+origin, <span id="fr_115"></span>[116](ipi14.htm#fn_115.md) we have here
 the source of the idea of a connection between physical and mental
 knowledge embodied in the legend of the "fall." In the Persian
 Ahuro-Mazdao (the Wise Spirit) we have the purest representation of
@@ -80,4 +80,4 @@ in the divine Mithra, who was himself the luminous sun-god.
 
 ------------------------------------------------------------------------
 
-[Next: Lesley's Arkite Symbolism](ipi10)
+[Next: Lesley's Arkite Symbolism](ipi10.md)

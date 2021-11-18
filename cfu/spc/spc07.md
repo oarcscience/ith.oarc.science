@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](spc06)  [Next](spc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](spc06)  [Next](spc08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sacred Places in China*, by Carl F. Kupfer, \[1911\], at Intangible
 Textual Heritage
 
@@ -45,7 +45,7 @@ when five successive dynasties rose and fell in two
 
 <span id="img_07100"></span> <span align="CENTER"> [![THE FAIRY
 BRIDGE-ENTRANCE TO THE UNIVERSITY CAMPUS](tn/07100.jpg)  
-Click to enlarge](img/07100.jpg)  
+Click to enlarge](img/07100.jpg.md)  
 THE FAIRY BRIDGE-ENTRANCE TO THE UNIVERSITY CAMPUS  
 </span>
 
@@ -157,7 +157,7 @@ well-informed student can be secured
 
 <span id="img_07500"></span> <span align="CENTER"> [![UNIVERSITY
 BUILDINGS.](tn/07500.jpg)  
-Click to enlarge](img/07500.jpg)  
+Click to enlarge](img/07500.jpg.md)  
 UNIVERSITY BUILDINGS.  
 </span>
 
@@ -201,7 +201,7 @@ decorate the black walls. But the learner here
 
 <span id="img_07700"></span> <span align="CENTER"> [![THE CONFUCIAN
 ALTAR.](tn/07700.jpg)  
-Click to enlarge](img/07700.jpg)  
+Click to enlarge](img/07700.jpg.md)  
 THE CONFUCIAN ALTAR.  
 </span>
 
@@ -212,13 +212,13 @@ altar is a rendezvous for bats.</span>
 
 <span id="img_07701"></span> <span align="CENTER"> [![THE CHIEF
 DISCIPLES OF CONFUCIUS.](tn/07701.jpg)  
-Click to enlarge](img/07701.jpg)  
+Click to enlarge](img/07701.jpg.md)  
 THE CHIEF DISCIPLES OF CONFUCIUS.  
 </span>
 
 <span id="img_07702"></span> <span align="CENTER">
 [![MENCIUS.](tn/07702.jpg)  
-Click to enlarge](img/07702.jpg)  
+Click to enlarge](img/07702.jpg.md)  
 MENCIUS.  
 </span>
 
@@ -349,4 +349,4 @@ the grotto is also a large image of *Chü Fu-tsz*.
 
 ------------------------------------------------------------------------
 
-[Next: The Mandarin's Grave](spc08)
+[Next: The Mandarin's Grave](spc08.md)

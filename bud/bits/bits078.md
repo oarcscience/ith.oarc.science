@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits077) [Next](bits079)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits077) [Next](bits079.md)
 
 ------------------------------------------------------------------------
 
@@ -309,7 +309,7 @@ A blessing of those paths is called.<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 79. The Attainment of Nirvana](bits079)
+[Next: § 79. The Attainment of Nirvana](bits079.md)
 
  
 

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Previous](nda03)  [Next](nda05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Previous](nda03)  [Next](nda05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -88,7 +88,7 @@ be confirmed. The application of this same test, however, would render
 the discovery of Iceland very problematical. The testimony is the same
 in both cases, the essential difference between the two discoveries
 being, after all, that the one led to practical results, while the
-other, apparently, did not ( [1](nda12.htm#xref_1)). The absence of any
+other, apparently, did not ( [1](nda12.htm#xref_1).md). The absence of any
 Icelandic remains south of Baffin's Bay makes neither for nor against
 the credibility of the Icelandic discovery,--although it may be said,
 that it is hardly reasonable to expect that, in the brief period of
@@ -297,4 +297,4 @@ ARTHUR M. REEVES.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Early Fragmentary References to Wineland](nda05)
+[Next: Chapter I. Early Fragmentary References to Wineland](nda05.md)

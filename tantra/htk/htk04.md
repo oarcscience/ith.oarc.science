@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk03)  [Next](htk05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk03)  [Next](htk05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -262,7 +262,7 @@ are worshipped as the supports of the couch of the
 the Devīgītā says that 'Brahmā, Viṣṇu, Īśvara, Sadāśiva are five
 Mahāpreta at my Feet. They are constituted of the five Bhūta and
 represent the five different elements of matter.' 'I however' She says
-'am unmanifested [consciousness](errata.htm#0) (Chit) and in every way
+'am unmanifested [consciousness](errata.htm#0) (Chit.md) and in every way
 beyond them.'
 
 Again the Veda says 'All this is verily Brahman.' Despite this
@@ -294,7 +294,7 @@ observed in the matter of eating and so forth in the Virajākṣetra of
 <span id="page_23">p. 23</span>
 
 <span class="contnote">\[paragraph continues\]</span> Veda again
-prohibits the [performance](errata.htm#1) of Yajña or worship after the
+prohibits the [performance](errata.htm#1.md) of Yajña or worship after the
 taking of food. Tantra-Śāstra however says that one should not worship
 Kālika whilst suffering from hunger or thirst otherwise She becomes
 angry. That is since Śiva and Jīva are really one it is futile to
@@ -549,7 +549,7 @@ composed of these four. In the Vaidik system Sagnika (fire-maintaining)
 Brāhmaṇas achieved their ends by the offering of oblations to the seven
 lolling tongues of fire named Kālī, Karālī, Manojavā, Sulohitā,
 Sudhūmravarṇā, Sphuliṅginī and Devī Viśvaruci' (1st Saptaka, 2nd Khaṇda,
-4th Sūtra). <span id="fr_0"></span>[1](#fn_0)
+4th Sūtra). <span id="fr_0"></span>[1](#fn_0.md)
 
 Another important characteristic, of the Tantra-Śāstra remains to be
 mentioned. Although this Scripture is very liberal in matters of
@@ -619,7 +619,7 @@ Hence Sādhakas who desire Liberation should always think of the
 Svarūpatattva of Brahmavidyā-Kālikā. Of this Svarūpa the Devī says in
 Mahābhāgavata: 'Those who long for Liberation should, in order to gain
 freedom from the bonds of the body, meditate on that aspect (Rūpa) of
-Mine which is the [supreme](errata.htm#2) Light (Jyotih), Sūkṣma, and
+Mine which is the [supreme](errata.htm#2) Light (Jyotih.md), Sūkṣma, and
 Niṣkala, Nirguṇa, the all-pervading unbeginning, non-dual sole Cause
 which is Saccidānanda Itself. This is the Svarūpa of the Devī which is
 beyond all mind and speech.'
@@ -718,7 +718,7 @@ flesh in measured quantities for the acquisition of strength by patients
 who are weak and have a low vitality. On that account the medical
 science does not deserve to be hated. Similarly the Tantra-Śāstra does
 not deserve to be blamed for prescribing the
-[Pañca-makāra](errata.htm#3) for the Liberation of Jivas suffering from
+[Pañca-makāra](errata.htm#3.md) for the Liberation of Jivas suffering from
 the disease of worldly existence. Śiva has nowhere said that Sādhakas of
 Śakti should always drink wine, always slaughter animals and eat their
 flesh and always enjoy women, and that thus they will attain Liberation.
@@ -762,7 +762,7 @@ Sūkṣma-Dhyāna. For this reason wine is called cause
 <span id="page_37">p. 37</span>
 
 <span class="contnote">\[paragraph continues\]</span> (Kāraṇa). In the
-[Kulārṇava-Tantra](errata.htm#4), Shiva says, 'Ānanda is the Self (Rūpa)
+[Kulārṇava-Tantra](errata.htm#4), Shiva says, 'Ānanda is the Self (Rūpa.md)
 of Brahman and that exists in the body. Wine is its revealer and is
 hence drunk by Yogis. Wine and flesh are taken with Brahmajñāna for the
 satisfaction of all Devas, and whoever partakes of them for
@@ -846,7 +846,7 @@ May the Mahā-Devī who is called Kālikā,
 Because She is without beginning or end,  
 Whose Body is imagined to be blue of colour,  
 Because like the blue sky She pervades the World,  
-And because She is Cidghanā <span id="fr_1"></span>[1](#fn_1)
+And because She is Cidghanā <span id="fr_1"></span>[1](#fn_1.md)
 Sattvaguṇamayī  
 Who is imagined to be black  
 Because She is colourless and above the coloured Guṇas,  
@@ -854,7 +854,7 @@ Whose hair is dishevelled (Muktakeśī)
 Because though Herself changeless She binds infinite numbers of Jivas by
 bonds of Māyā, symbolized by Her dishevelled hair and because She makes
 liberated (Mukta) Brahmā, Viṣṇu and Maheśvara who are Keśa, <span
-id="fr_2"></span>[2](#fn_2)
+id="fr_2"></span>[2](#fn_2.md)
 
 <span id="page_40">p. 40</span>
 
@@ -873,7 +873,7 @@ Who is said to have large teeth, and a lolling tongue and to hold in Her
 hand a cup made of human skull,  
 Because the Cinmayī Mahādevī drinks the wine of delusion arising from
 the Tamas Guṇa of Her Sādhaka by means of Sattva-pradhāna
-rajoguṇa, <span id="fr_3"></span>[1](#fn_3)  
+rajoguṇa, <span id="fr_3"></span>[1](#fn_3.md)  
 Who is pictured as wearing a garland of severed heads,  
 Because She is Śabdabrahman (Śabdabrahmarūpiṇī) and the heads are the
 fifty letters,  
@@ -889,9 +889,9 @@ Because She severs the bonds of illusion for the Niṣkāma-Sādhaka,
 Whose lower left hand is seen to hold a human head,  
 Because She grants him Tattvajñāna,  
 Who is called Digambarī (space-clad)  
-Because being Brahman ([Brahmarūpiṇī](errata.htm#6)) She is free from
-the covering of Māyā <span id="fr_4"></span>[1](#fn_4) and unconcerned
-(Nirvikāra), <span id="fr_5"></span>[2](#fn_5)  
+Because being Brahman ([Brahmarūpiṇī](errata.htm#6).md) She is free from
+the covering of Māyā <span id="fr_4"></span>[1](#fn_4.md) and unconcerned
+(Nirvikāra), <span id="fr_5"></span>[2](#fn_5.md)  
 Who is pictured as having a waist-chain of human hands,  
 Because hands are the principal instrument of work (Karma) and at the
 close of a Kalpa all Jīvas with their Karmas are merged in the Avidyā
@@ -899,7 +899,7 @@ close of a Kalpa all Jīvas with their Karmas are merged in the Avidyā
 Who is seen standing on the breast of corpse-like Śiva,  
 Because the Supreme State (Paramapada) and Svarūpāvasthā or Mahādevī
 (one with Śiva) is Nirguṇa and changeless (Nirvikāra),  
-Who is seen in Viparīta-maithuna <span id="fr_6"></span>[3](#fn_6) with
+Who is seen in Viparīta-maithuna <span id="fr_6"></span>[3](#fn_6.md) with
 Mahākāla,  
 Because at the beginning of a Kalpa She who is ever blissful
 (Nityānandamayī), and being united with Śiva, feels pleasure in the work
@@ -920,7 +920,7 @@ eight-petalled lotus denoting the eightfold Prakṛti, three Pentagons
 representing the fifteen Avayavas and a Bindu denoting Śiva-Śakti,  
 Because She is, as Paramātmā, in the gross and subtle bodies consisting
 of the three Guṇas and twenty-four Tattvas,  
-Whose Bīja 'Krīm', <span id="fr_7"></span>[1](#fn_7) the Queen of
+Whose Bīja 'Krīm', <span id="fr_7"></span>[1](#fn_7.md) the Queen of
 Mantras is pure Sattva Guṇa, and consciousness (Caitanyamayī) and grants
 both Enjoyment and Liberation,  
 Who is worshipped as Dakṣiṇā because She alone grants the full fruits of
@@ -941,9 +941,9 @@ O Mother of the World, obeisance.
 
 ### Footnotes
 
-<span id="fn_0"></span>[30:1](htk04.htm#fr_0) See Mūṇḍakopaniṣad, 1-2-4.
+<span id="fn_0"></span>[30:1](htk04.htm#fr_0.md) See Mūṇḍakopaniṣad, 1-2-4.
 
-<span id="fn_1"></span>[39:1](htk04.htm#fr_1) This is a play on the word
+<span id="fn_1"></span>[39:1](htk04.htm#fr_1.md) This is a play on the word
 Ghana which means mass and black or dark blue cloud. Cidghana is
 massive, compact, unmixed, pure Consciousness (Cit). Again She is
 Nirguṇa and stainless but is also Meghāṅgī (cloud-bodied) because
@@ -953,13 +953,13 @@ with the sun's rays. So Devī-Purāṇa says, 'Just as the uniform cloud
 appears as of many colours, so does She too through the instrumentality
 of the Guṇas.'
 
-<span id="fn_2"></span>[39:2](htk04.htm#fr_2) Keśa = K + A + Īśa. And K
+<span id="fn_2"></span>[39:2](htk04.htm#fr_2.md) Keśa = K + A + Īśa. And K
 = Brahmā, A = Viṣṇu, and Īśa = Rudra. The Niruttara-Tantra says, 'Kālī
 who is Aniruddha-saraśvatī, is the great desire-granting tree, the sole
 Cause of Enjoyment and  Liberation for Brahmā, Viṣṇu and Maheśa.'
 
-<span id="fn_3"></span>[40:1](htk04.htm#fr_3) White Teeth stand for the
-white Sattva Guṇa, the red [Tongue](errata.htm#5) stands for the red
+<span id="fn_3"></span>[40:1](htk04.htm#fr_3.md) White Teeth stand for the
+white Sattva Guṇa, the red [Tongue](errata.htm#5.md) stands for the red
 Rajo-Guṇa and Delusion is the Tamo-Guṇa. The meaning is, the Mahāvidyā
 is represented with a lolling tongue because She first destroys the
 Sādhaka's Tamo-Guṇa by increasing his Rajo-Guṇa, and large teeth because
@@ -968,19 +968,19 @@ him the state of Nirguṇa-Brahman. In the Dhyāna of Tārā it is said,
 'Ugratārā Herself destroys the *Jādya* (unconscious nature) of the three
 worlds by putting it in her skull-cup.'
 
-<span id="fn_4"></span>[41:1](htk04.htm#fr_4) In the eighteenth century
+<span id="fn_4"></span>[41:1](htk04.htm#fr_4.md) In the eighteenth century
 work of Kamalākānta called Sādhakaranjana it is said: 'Of the
 Nirākāra-Brahman, understand, Māyā to be the Ākāra' (Nirākāra-brahmer
 ākāra dekha Māyā). The Śūnya has no form until encircled by Māyā.
 
-<span id="fn_5"></span>[41:2](htk04.htm#fr_5) Vikāra is also 'change'.
+<span id="fn_5"></span>[41:2](htk04.htm#fr_5.md) Vikāra is also 'change'.
 She is then in Her changeless aspect.
 
-<span id="fn_6"></span>[41:3](htk04.htm#fr_6) Coition in which the woman
-assumes the dominant [role](errata.htm#7). Śakti is active and Śiva is
+<span id="fn_6"></span>[41:3](htk04.htm#fr_6.md) Coition in which the woman
+assumes the dominant [role](errata.htm#7.md). Śakti is active and Śiva is
 the passive principle.
 
-<span id="fn_7"></span>[42:1](htk04.htm#fr_7) The Śvāmi also points out
+<span id="fn_7"></span>[42:1](htk04.htm#fr_7.md) The Śvāmi also points out
 that the 'Kr' sound in this Mantra is also to be found in the word
 Christ and in the Mussulman's Karīm. See Māya Tantra Ch. vii for the
 Yavana-Bīja.
@@ -989,6 +989,6 @@ Yavana-Bīja.
 
 ------------------------------------------------------------------------
 
-[Next: Verse 1](htk05)
+[Next: Verse 1](htk05.md)
 
 </div>

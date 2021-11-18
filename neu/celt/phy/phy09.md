@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy08)  [Next](phy10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy08)  [Next](phy10.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 <span id="img_03000"></span>
 
 [![](tn/03000.jpg)  
-Click to enlarge](img/03000.jpg)
+Click to enlarge](img/03000.jpg.md)
 
 <span id="page_31">p. 31</span>
 
@@ -28,7 +28,7 @@ Click to enlarge](img/03000.jpg)
 
 |                     |
 |---------------------|
-| ![B](img/03101.jpg) |
+| ![B](img/03101.jpg.md) |
 
 ALLASALLA is a quiet little Manx village on the bank of a rushing,
 leaping, murmuring trout stream, which, after tearing down from the
@@ -203,7 +203,7 @@ fell to the ground with a
 <span id="img_03600"></span>
 
 [![THE ENCHANTED CASTLE OF BARRULE.](tn/03600.jpg)  
-Click to enlarge](img/03600.jpg)  
+Click to enlarge](img/03600.jpg.md)  
 THE ENCHANTED CASTLE OF BARRULE.  
 
  
@@ -258,4 +258,4 @@ to subside.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](phy10)
+[Next: Chapter II](phy10.md)

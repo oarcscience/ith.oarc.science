@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mab00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mab.txt.gz)
+[Contents](#contents)    [Start Reading](mab00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mab.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -67,93 +67,93 @@ any vowels, can be thought of as being pronounced *approximately* like
 includes anchored page numbers, linked foot- and end-notes, and so on.
 This version includes all of the endnotes which are omitted from
 previous etexts of this book, and corrects several errors in the body
-text. [Unicode](../../../unicode) is used through this text to display
+text. [Unicode](../../../unicode.md) is used through this text to display
 archaic orthography.
 
 John Bruno Hare, March 4th, 2004.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mab00)  
-[Dedication](mab01)  
-[Preface to the Second Edition](mab02)  
-[Contents](mab03)  
-[Introduction](mab04)  
+<span id="contents"></span> [Title Page](mab00.md)  
+[Dedication](mab01.md)  
+[Preface to the Second Edition](mab02.md)  
+[Contents](mab03.md)  
+[Introduction](mab04.md)  
 <span id="section_000"></span>
 
 ### The Lady of the Fountain
 
-[The Lady of the Fountain](mab05)  
-[Notes to the Lady of the Fountain](mab06)  
-[Versions in Other Languages](mab07)  
+[The Lady of the Fountain](mab05.md)  
+[Notes to the Lady of the Fountain](mab06.md)  
+[Versions in Other Languages](mab07.md)  
 [Note on the Forest of Breceliande and the Fountain of
-Baranton](mab08)  
-[Llyn Dulyn in Snowdon](mab09)  
+Baranton](mab08.md)  
+[Llyn Dulyn in Snowdon](mab09.md)  
 <span id="section_001"></span>
 
 ### Peredur the Son of Evrawc
 
-[Peredur the Son of Evrawc](mab10)  
-[Notes to Peredur the Son of Evrawc](mab11)  
-[Notice of Various Other Versions](mab12)  
+[Peredur the Son of Evrawc](mab10.md)  
+[Notes to Peredur the Son of Evrawc](mab11.md)  
+[Notice of Various Other Versions](mab12.md)  
 <span id="section_002"></span>
 
 ### Geraint the Son of Erbin
 
-[Geraint the Son of Erbin](mab13)  
-[Notes to Geraint the Son of Erbin](mab14)  
-[Notice of Various Other Versions](mab15)  
+[Geraint the Son of Erbin](mab13.md)  
+[Notes to Geraint the Son of Erbin](mab14.md)  
+[Notice of Various Other Versions](mab15.md)  
 <span id="section_003"></span>
 
 ### Kilhwch and Olwen
 
-[Kilhwch and Olwen](mab16)  
-[Notes to Kilhwch and Olwen](mab17)  
+[Kilhwch and Olwen](mab16.md)  
+[Notes to Kilhwch and Olwen](mab17.md)  
 <span id="section_004"></span>
 
 ### The Dream of Rhonabwy
 
-[The Dream of Rhonabwy](mab18)  
-[Notes to the Dream of Rhonabwy](mab19)  
+[The Dream of Rhonabwy](mab18.md)  
+[Notes to the Dream of Rhonabwy](mab19.md)  
 <span id="section_005"></span>
 
 ### Pwyll Prince of Dyved
 
-[Pwyll Prince of Dyved](mab20)  
-[Notes to Pwyll Prince of Dyved](mab21)  
+[Pwyll Prince of Dyved](mab20.md)  
+[Notes to Pwyll Prince of Dyved](mab21.md)  
 <span id="section_006"></span>
 
 ### Branwen the Daughter of Llyr
 
-[Branwen the Daughter of Llyr](mab22)  
-[Notes to Branwen the Daughter of Llyr](mab23)  
+[Branwen the Daughter of Llyr](mab22.md)  
+[Notes to Branwen the Daughter of Llyr](mab23.md)  
 <span id="section_007"></span>
 
 ### Manawyddan the Son of Llyr
 
-[Manawyddan the Son of Llyr](mab24)  
-[Note on Manawyddan the Son of Llyr](mab25)  
+[Manawyddan the Son of Llyr](mab24.md)  
+[Note on Manawyddan the Son of Llyr](mab25.md)  
 <span id="section_008"></span>
 
 ### Math the Son of Mathonwy
 
-[Math the Son of Mathonwy](mab26)  
-[Notes to Math the Son of Mathonwy](mab27)  
+[Math the Son of Mathonwy](mab26.md)  
+[Notes to Math the Son of Mathonwy](mab27.md)  
 <span id="section_009"></span>
 
 ### The Dream of Maxen Wledig
 
-[The Dream of Maxen Wledig](mab28)  
-[Note on Maxen Wledig](mab29)  
+[The Dream of Maxen Wledig](mab28.md)  
+[Note on Maxen Wledig](mab29.md)  
 <span id="section_010"></span>
 
 ### The Story of Lludd and Llevelys
 
-[Here is the Story of Lludd and Llevelys](mab30)  
-[Note on Lludd and Llevelys](mab31)  
+[Here is the Story of Lludd and Llevelys](mab30.md)  
+[Note on Lludd and Llevelys](mab31.md)  
 <span id="section_011"></span>
 
 ### Taliesin
 
-[Taliesin](mab32)  
-[Notes to Taliesin](mab33)  
+[Taliesin](mab32.md)  
+[Notes to Taliesin](mab33.md)  

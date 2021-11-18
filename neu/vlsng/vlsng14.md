@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng13)  [Next](vlsng15) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng13)  [Next](vlsng15.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ was she held in great honour, and deemed the worthiest of women.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII: Of the Birth and Waxing of Sigurd
-Fafnir's-bane.](vlsng15)
+Fafnir's-bane.](vlsng15.md)

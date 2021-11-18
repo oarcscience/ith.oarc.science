@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](fsgr05)  [Next](fsgr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](fsgr05)  [Next](fsgr07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Five Stages of Greek Religion*, by Gilbert Murray, \[1925\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ outline that we call Classical Greece begins to take shape out of the
 mist. It is the moment when, as Herodotus puts it, 'the Hellenic race
 was marked off from the barbarian, as more intelligent and more
 emancipated from silly nonsense'.<span
-id="an_fr_39_1"></span>[39\_1](fsgr06.htm#an_fn_39_1) In the eighth
+id="an_fr_39_1"></span>[39\_1](fsgr06.htm#an_fn_39_1.md) In the eighth
 century <span class="smcap">b. c.</span>, for instance, so far as our
 remains indicate, there cannot have been much to show that the
 inhabitants of Attica and Boeotia and the Peloponnese were markedly
@@ -49,7 +49,7 @@ merely as being 'Hellenic'—like the Hellenes. And the Hellenes were
 simply, as far as we can make out, much the same as the Achaioi, one of
 the many tribes of predatory Northmen who had swept down on the Aegean
 kingdoms in the dawn of Greek history.<span
-id="an_fr_40_1"></span>[40\_1](fsgr06.htm#an_fn_40_1)
+id="an_fr_40_1"></span>[40\_1](fsgr06.htm#an_fn_40_1.md)
 
 This claim of a new thing to be old is, in varying degrees, a common
 characteristic of great movements. The Reformation professed to be a
@@ -58,7 +58,7 @@ Gospels, the High Church movement a return to the early Church. A large
 element even in the French Revolution, the greatest of all breaches with
 the past, had for its ideal a return to Roman republican virtue or to
 the simplicity of the natural man.<span
-id="an_fr_40_2"></span>[40\_2](fsgr06.htm#an_fn_40_2) I noticed quite
+id="an_fr_40_2"></span>[40\_2](fsgr06.htm#an_fn_40_2.md) I noticed quite
 lately a speech of an American Progressive leader claiming that his
 principles were simply those of Abraham Lincoln. The tendency is due in
 part to the almost insuperable difficulty of really inventing a new word
@@ -75,7 +75,7 @@ The Hellenism of the sixth and fifth centuries was to a great extent
 what the Hellenism of later ages was almost entirely, an ideal and a
 standard of culture. The classical Greeks were not, strictly speaking,
 pure Hellenes by blood. Herodotus, and Thucydides<span
-id="an_fr_41_1"></span>[41\_1](fsgr06.htm#an_fn_41_1) are quite clear
+id="an_fr_41_1"></span>[41\_1](fsgr06.htm#an_fn_41_1.md) are quite clear
 about that. The original Hellenes were a particular conquering tribe of
 great prestige, which attracted the surrounding tribes to follow it,
 imitate it, and call themselves by its name. The Spartans were, to
@@ -98,9 +98,9 @@ barbarians.
 
 We do not know whether the old Hellenes had any general word to denote
 the surrounding peoples ('Pelasgians and divers other barbarous
-tribes'<span id="an_fr_42_1"></span>[42\_1](fsgr06.htm#an_fn_42_1)) whom
+tribes'<span id="an_fr_42_1"></span>[42\_1](fsgr06.htm#an_fn_42_1).md) whom
 they conquered or accepted as allies.<span
-id="an_fr_42_2"></span>[42\_2](fsgr06.htm#an_fn_42_2) In any case by the
+id="an_fr_42_2"></span>[42\_2](fsgr06.htm#an_fn_42_2.md) In any case by the
 time of the Persian Wars (say 500 <span class="smcap">b. c.</span>) all
 these tribes together considered themselves Hellenized, bore the name of
 'Hellenes', and formed a kind of unity against hordes of 'barbaroi'
@@ -121,7 +121,7 @@ over to Athens the leadership of the Ionian race.
 
 In literature the decisive moment is clear. It came when, in Mr.
 Mackail's phrase, 'Homer came to Hellas'.<span
-id="an_fr_42_3"></span>[42\_3](fsgr06.htm#an_fn_42_3) The date is
+id="an_fr_42_3"></span>[42\_3](fsgr06.htm#an_fn_42_3.md) The date is
 apparently the same, and the <span id="page_43">p. 43</span> influences
 at work are the same. It seems to have been under Pisistratus that the
 Homeric Poems, in some form or other, came from Ionia to be recited in a
@@ -136,7 +136,7 @@ know of Corinna or Thespis. More objectively and definitely it can be
 traced in a remarkable change of dialect. The old Attic poets, like
 Solon, were comparatively little affected by the epic influence; the
 later elegists, like Ion, Euenus, and Plato, were steeped in it.<span
-id="an_fr_43_1"></span>[43\_1](fsgr06.htm#an_fn_43_1)
+id="an_fr_43_1"></span>[43\_1](fsgr06.htm#an_fn_43_1.md)
 
 In religion the cardinal moment is the same. It consists in the coming
 of Homer's 'Olympian Gods', and that is to be the subject of the present
@@ -184,18 +184,18 @@ heaven. On the other hand, when Pisistratus introduced the worship of
 Olympian Zeus on a great scale into Athens and built the Olympieum, he
 seems to have brought him straight from Olympia in Elis. For he
 introduced the special Elean complex of gods, Zeus, Rhea, Kronos, and Gê
-Olympia.<span id="an_fr_45_1"></span>[45\_1](fsgr06.htm#an_fn_45_1)
+Olympia.<span id="an_fr_45_1"></span>[45\_1](fsgr06.htm#an_fn_45_1.md)
 
 Fortunately this puzzle can be solved. The Olympians belong to both
 places. It is merely a case of tribal migration. History, confirmed by
 the study of the Greek dialects, seems to show that these northern
 Achaioi came down across central Greece and the Gulf of Corinth and
 settled in Elis.<span
-id="an_fr_45_2"></span>[45\_2](fsgr06.htm#an_fn_45_2) They brought with
+id="an_fr_45_2"></span>[45\_2](fsgr06.htm#an_fn_45_2.md) They brought with
 them their Zeus, who was already called 'Olympian', and established him
 as superior to the existing god, Kronos. The Games became Olympian and
 the sanctuary by which they were performed 'Olympia'.<span
-id="an_fr_45_3"></span>[45\_3](fsgr06.htm#an_fn_45_3)
+id="an_fr_45_3"></span>[45\_3](fsgr06.htm#an_fn_45_3.md)
 
 <span id="page_46">p. 46</span>
 
@@ -279,7 +279,7 @@ But the gods of Homer, as we have them, certainly seem to show <span
 id="page_49">p. 49</span> traces of the process through which they have
 passed: of an origin among the old conquering Achaioi, a development in
 the Ionian epic schools, and a final home in Athens.<span
-id="an_fr_49_1"></span>[49\_1](fsgr06.htm#an_fn_49_1)
+id="an_fr_49_1"></span>[49\_1](fsgr06.htm#an_fn_49_1.md)
 
 For example, what gods are chiefly prominent in Homer? In the *Iliad*
 certainly three, Zeus, Apollo, and Athena, and much the same would hold
@@ -291,7 +291,7 @@ recognizable and undoubted Indo-germanic names, Djëus, the well-attested
 sky- and rain-god of the Aryan race. He is Achaian; he is 'Hellanios',
 the god worshipped by all Hellenes. He is also, curiously enough,
 Pelasgian, and Mr. A. B. Cook<span
-id="an_fr_49_2"></span>[49\_2](fsgr06.htm#an_fn_49_2) can explain to us
+id="an_fr_49_2"></span>[49\_2](fsgr06.htm#an_fn_49_2.md) can explain to us
 the seeming contradiction. But the Northern elements in the conception
 of Zeus have on the whole triumphed over any Pelasgian or Aegean sky-god
 with which they may have mingled, and Zeus, in spite of his dark hair,
@@ -300,22 +300,22 @@ passing from the Upper Danube down by his three great sanctuaries,
 Dodona, Olympus, and Olympia. He had <span id="page_50">p. 50</span> an
 extraordinary power of ousting or absorbing the various objects of
 aboriginal worship which he found in his path. The story of Meilichios
-above ([14](fsgr05.htm#page_14)) is a common one. Of course, we must not
+above ([14](fsgr05.htm#page_14).md) is a common one. Of course, we must not
 suppose that the Zeus of the actual Achaioi was a figure quite like the
 Zeus of Pheidias or of Homer. There has been a good deal of expurgation
 in the Homeric Zeus,<span
-id="an_fr_50_1"></span>[50\_1](fsgr06.htm#an_fn_50_1) as Mr. Cook
+id="an_fr_50_1"></span>[50\_1](fsgr06.htm#an_fn_50_1.md) as Mr. Cook
 clearly shows. The Counsellor and Cloud-compeller of classical Athens
 was the wizard and rainmaker of earlier times; and the All-Father
 surprises us in Thera and Crete by appearing both as a babe and as a
 Kouros in spring dances and initiation rituals.<span
-id="an_fr_50_2"></span>[50\_2](fsgr06.htm#an_fn_50_2) It is a long way
+id="an_fr_50_2"></span>[50\_2](fsgr06.htm#an_fn_50_2.md) It is a long way
 from these conceptions to the Zeus of Aeschylus, a figure as sublime as
 the Jehovah of Job; but the lineage seems clear.
 
 Zeus is the Achaean Sky-god. His son Phoebus Apollo is of more complex
 make. On one side he is clearly a Northman. He has connexions with the
-Hyperboreans.<span id="an_fr_50_3"></span>[50\_3](fsgr06.htm#an_fn_50_3)
+Hyperboreans.<span id="an_fr_50_3"></span>[50\_3](fsgr06.htm#an_fn_50_3.md)
 He has a 'sacred road' leading far into the North, along which offerings
 are sent back from shrine to shrine beyond the bounds of Greek
 knowledge. Such 'sacred roads' are normally the roads by which the God
@@ -329,13 +329,13 @@ the Greek host, he champions Hector, he even slays Achilles. In the
 Homeric hymn to Apollo we read that when the great archer draws near to
 Olympus all the gods tremble and start from their seats; Leto alone, and
 of course Zeus, hold their ground.<span
-id="an_fr_51_1"></span>[51\_1](fsgr06.htm#an_fn_51_1) What this god's
+id="an_fr_51_1"></span>[51\_1](fsgr06.htm#an_fn_51_1.md) What this god's
 original name was at Delos we cannot be sure: he has very many names and
 'epithets'. But he early became identified with a similar god at Delphi
 and adopted his name, 'Apollôn', or, in the Delphic and Dorian form,
 'Apellôn'—presumably the Kouros projected from the Dorian gatherings
 called '*apellae*'.<span
-id="an_fr_51_2"></span>[51\_2](fsgr06.htm#an_fn_51_2) As Phoibos he is a
+id="an_fr_51_2"></span>[51\_2](fsgr06.htm#an_fn_51_2.md) As Phoibos he is a
 sun-god, and from classical times onward we often find him definitely
 identified with the Sun, a distinction which came easily to a Kouros.
 
@@ -344,7 +344,7 @@ god of the Ionians. The Ionians are defined by Herodotus as those tribes
 and cities who were sprung from Athens and kept the Apaturia. They
 recognized Delos as their holy place and worshipped Apollo Patrôos as
 their ancestor.<span
-id="an_fr_51_3"></span>[51\_3](fsgr06.htm#an_fn_51_3) The Ionian Homer
+id="an_fr_51_3"></span>[51\_3](fsgr06.htm#an_fn_51_3.md) The Ionian Homer
 has naturally brought us the Ionian god; and, significantly enough,
 though the tradition makes him an enemy of the Greeks, and the poets
 have to accept the tradition, there is no tendency to crab or belittle
@@ -356,7 +356,7 @@ The case of Pallas Athena is even simpler, though it leads to a somewhat
 surprising result. What Apollo is to Ionia that, and more, Athena is to
 Athens. There are doubtless foreign elements in Athena, some Cretan and
 Ionian, some Northern.<span
-id="an_fr_52_1"></span>[52\_1](fsgr06.htm#an_fn_52_1) But her whole
+id="an_fr_52_1"></span>[52\_1](fsgr06.htm#an_fn_52_1.md) But her whole
 appearance in history and literature tells the same story as her name.
 Athens is her city and she is the goddess of Athens, the Athena or
 Athenaia Korê. In Athens she can be simply 'Parthenos', the Maiden;
@@ -373,13 +373,13 @@ the poems that influence must have reached. If we try to conjecture
 whose place it is that Athena has taken, it is worth remarking that her
 regular epithet, 'daughter of Zeus', belongs in Sanskrit to the
 Dawn-goddess, Eôs.<span
-id="an_fr_52_2"></span>[52\_2](fsgr06.htm#an_fn_52_2) The transition
+id="an_fr_52_2"></span>[52\_2](fsgr06.htm#an_fn_52_2.md) The transition
 might be helped by some touches of the Dawn-goddess that seem to linger
 about Athena in myth. The rising Sun stayed his horses while Athena was
 born from <span id="page_53">p. 53</span> the head of Zeus. Also she was
 born amid a snowstorm of gold. And Eôs, on the other hand, is, like
 Athena, sometimes the daughter of the Giant Pallas.<span
-id="an_fr_53_1"></span>[53\_1](fsgr06.htm#an_fn_53_1)
+id="an_fr_53_1"></span>[53\_1](fsgr06.htm#an_fn_53_1.md)
 
 Our three chief Olympians, then, explain themselves very easily. A body
 of poetry and tradition, in its origin dating from the Achaioi of the
@@ -387,7 +387,7 @@ Migrations, growing for centuries in the hands of Ionian bards, and
 reaching its culminating form at Athens, has prominent in it the Achaian
 Zeus, the Ionian Apollo, the Athenian Korê—the same Korê who descended
 in person to restore the exiled Pisistratus to his throne.<span
-id="an_fr_53_2"></span>[53\_2](fsgr06.htm#an_fn_53_2)
+id="an_fr_53_2"></span>[53\_2](fsgr06.htm#an_fn_53_2.md)
 
 <span id="page_54">p. 54</span>
 
@@ -396,14 +396,14 @@ Why, for instance, should Poseidon be so prominent? In origin he is a
 puzzling figure. Besides the Achaean Earth-shaking brother of Zeus in
 Thessaly there seems to be some Pelasgian or Aegean god present in him.
 He is closely connected with Libya; he brings the horse from there.<span
-id="an_fr_54_1"></span>[54\_1](fsgr06.htm#an_fn_54_1) At times he exists
+id="an_fr_54_1"></span>[54\_1](fsgr06.htm#an_fn_54_1.md) At times he exists
 in order to be defeated; defeated in Athens by Athena, in Naxos by
 Dionysus, in Aegina by Zeus, in Argos by Hera, in Acrocorinth by Helios
 though he continues to hold the Isthmus. In Trozen he shares a temple on
 more or less equal terms with Athena.<span
-id="an_fr_54_2"></span>[54\_2](fsgr06.htm#an_fn_54_2) Even in Troy he is
+id="an_fr_54_2"></span>[54\_2](fsgr06.htm#an_fn_54_2.md) Even in Troy he is
 defeated and cast out from the walls his own hands had built.<span
-id="an_fr_54_3"></span>[54\_3](fsgr06.htm#an_fn_54_3) These problems we
+id="an_fr_54_3"></span>[54\_3](fsgr06.htm#an_fn_54_3.md) These problems we
 need not for the present face. By the time that concerns us most the
 Earth-Shaker is a sea-god, specially important to the sea-peoples of
 Athens and Ionia. He is the father of Neleus, the ancestor of the Ionian
@@ -442,13 +442,13 @@ changed and castigated that no one would recognize the old Herm <span
 id="page_56">p. 56</span> in the beautiful and gracious youth who
 performs the gods' messages. I can only detect in his language one
 possible trace of his old Pelasgian character.<span
-id="an_fr_56_1"></span>[56\_1](fsgr06.htm#an_fn_56_1)
+id="an_fr_56_1"></span>[56\_1](fsgr06.htm#an_fn_56_1.md)
 
 Pausanias knew who worked the transformation. In speaking of Hermes
 among the other 'Workers', who were 'pillars in square form', he says,
 'As to Hermes, the poems of Homer have given currency to the report that
 he is a servant of Zeus and leads down the spirits of the departed to
-Hades'.<span id="an_fr_56_2"></span>[56\_2](fsgr06.htm#an_fn_56_2) In
+Hades'.<span id="an_fr_56_2"></span>[56\_2](fsgr06.htm#an_fn_56_2.md) In
 the magic papyri Hermes returns to something of his old functions; he is
 scarcely to be distinguished from the Agathos Daimon. But thanks to
 Homer he is purified of his old phallicism.
@@ -463,7 +463,7 @@ Athena is the Attic, Cypris the Cyprian. But Argos in Homer denotes two
 different places, a watered plain in the Peloponnese and a watered plain
 in Thessaly. Hera was certainly the chief goddess of Peloponnesian Argos
 in historic times, and had brought her consort Herakles<span
-id="an_fr_56_3"></span>[56\_3](fsgr06.htm#an_fn_56_3) along with her,
+id="an_fr_56_3"></span>[56\_3](fsgr06.htm#an_fn_56_3.md) along with her,
 but at one time she seems to have belonged to the Thessalian Argos.
 
 <span id="page_57">p. 57</span>
@@ -475,7 +475,7 @@ element of strife is haunting her. But in the *Iliad* for some reason
 she is unpopular. She is a shrew, a scold, and a jealous wife. Why? Miss
 Harrison suggests that the quarrel with Zeus dates from the time of the
 invasion, when he was the conquering alien and she the native queen of
-the land.<span id="an_fr_57_1"></span>[57\_1](fsgr06.htm#an_fn_57_1) It
+the land.<span id="an_fr_57_1"></span>[57\_1](fsgr06.htm#an_fn_57_1.md) It
 may be, too, that the Ionian poets who respected their own Apollo and
 Athena and Poseidon, regarded Hera as representing some race or tribe
 that they disliked. A goddess of Dorian Argos might be as disagreeable
@@ -483,7 +483,7 @@ as a Dorian. It seems to be for some reason like this that Aphrodite,
 identified with Cyprus or some centre among Oriental barbarians, is
 handled with so much disrespect; that Ares, the Thracian Kouros, a
 Sun-god and War-god, is treated as a mere bully and coward and general
-pest.<span id="an_fr_57_2"></span>[57\_2](fsgr06.htm#an_fn_57_2)
+pest.<span id="an_fr_57_2"></span>[57\_2](fsgr06.htm#an_fn_57_2.md)
 
 There is not much faith in these gods, as they appear to us in the
 Homeric Poems, and not much respect, except perhaps for Apollo and
@@ -491,7 +491,7 @@ Athena and Poseidon. The buccaneer kings of the Heroic Age, cut loose
 from all local and tribal pieties, intent only on personal gain and
 glory, were not the people to build up a powerful religious faith. They
 left that, as they left agriculture and handiwork, to the nameless
-common folk.<span id="an_fr_57_3"></span>[57\_3](fsgr06.htm#an_fn_57_3)
+common folk.<span id="an_fr_57_3"></span>[57\_3](fsgr06.htm#an_fn_57_3.md)
 And <span id="page_58">p. 58</span> it was not likely that the bards of
 cultivated and scientific Ionia should waste much religious emotion on a
 system which was clearly meant more for romance than for the guiding of
@@ -532,7 +532,7 @@ often repeated. As we have them they are poems recited at a Panegyris,
 or public festival. But they go back in ultimate origin to something
 like lays sung in a royal hall. And the contrast between the Homeric
 gods and the gods found outside Homer is well compared by Mr.
-Chadwick<span id="an_fr_59_1"></span>[59\_1](fsgr06.htm#an_fn_59_1) to
+Chadwick<span id="an_fr_59_1"></span>[59\_1](fsgr06.htm#an_fn_59_1.md) to
 the difference between the gods of the Edda and the historical traces of
 religion outside the Edda. The gods who feast with Odin in Asgard,
 forming an organized community or *comitatus*, seem to be the gods of
@@ -549,7 +549,7 @@ tribes, and tribal traditions. Wilamowitz has well remarked how the
 imagination of the Greek mainland is dominated by the gigantic
 sepulchres of unknown kings, which the fugitives to Asia had left behind
 them and half forgotten.<span
-id="an_fr_59_2"></span>[59\_2](fsgr06.htm#an_fn_59_2)
+id="an_fr_59_2"></span>[59\_2](fsgr06.htm#an_fn_59_2.md)
 
 <span id="page_60">p. 60</span>
 
@@ -585,7 +585,7 @@ to the Greek, this battle was full of symbolical meaning. It is the
 strife, the ultimate victory, of human intelligence, reason, and
 gentleness, against what seems at first the overwhelming power of
 passion and unguided strength. It is Hellas against the brute
-world.<span id="an_fr_61_1"></span>[61\_1](fsgr06.htm#an_fn_61_1)
+world.<span id="an_fr_61_1"></span>[61\_1](fsgr06.htm#an_fn_61_1.md)
 
 The victory of Hellenism over barbarism, of man over beast: that was the
 aim, but was it ever accomplished? The Olympian gods as we see them in
@@ -605,7 +605,7 @@ In the first place, it gradually swept out of religion, or at least
 covered with a decent veil, that great mass of rites which was concerned
 with the Food-supply and the Tribe-supply and aimed at direct
 stimulation of generative processes.<span
-id="an_fr_62_1"></span>[62\_1](fsgr06.htm#an_fn_62_1) It left only a few
+id="an_fr_62_1"></span>[62\_1](fsgr06.htm#an_fn_62_1.md) It left only a few
 reverent and mystic rituals, a few licensed outbursts of riotous
 indecency in comedy and the agricultural festivals. It swept away what
 seems to us a thing less dangerous, a large part of the worship of the
@@ -616,7 +616,7 @@ disappeared from Homeric Athens at a time when the monuments show it
 still flourishing in un-Homeric Sparta. The Olympian movement swept away
 also, at least for two splendid centuries, the worship of the man-god,
 with its diseased atmosphere of megalomania and blood-lust.<span
-id="an_fr_62_2"></span>[62\_2](fsgr06.htm#an_fn_62_2) These things
+id="an_fr_62_2"></span>[62\_2](fsgr06.htm#an_fn_62_2.md) These things
 return with the fall of Hellenism; but the great period, as it urges man
 to use all his powers of thought, of daring and endurance, of social
 organization, so it bids him remember that he is a man like other men,
@@ -668,7 +668,7 @@ They will no longer melt or blend, at least not at an ordinary
 temperature. In the fourth and third centuries we hear a great deal
 about the gods all being one, 'Zeus the same as Hades, Hades as Helios,
 Helios the same as Dionysus',<span
-id="an_fr_64_1"></span>[64\_1](fsgr06.htm#an_fn_64_1) but the
+id="an_fr_64_1"></span>[64\_1](fsgr06.htm#an_fn_64_1.md) but the
 amalgamation only takes place in the white heat of ecstatic philosophy
 or the rites of religious mysticism.
 
@@ -703,7 +703,7 @@ sense kindred and normally living together, people with the same
 customs, ancestors, initiations, flocks and herds and fields. This
 tribal and agricultural religion can hardly have maintained itself
 unchanged at the great Aegean centres, like Cnossus and Mycenae.<span
-id="an_fr_65_1"></span>[65\_1](fsgr06.htm#an_fn_65_1) It <span
+id="an_fr_65_1"></span>[65\_1](fsgr06.htm#an_fn_65_1.md) It <span
 id="page_66">p. 66</span> certainly did not maintain itself among the
 marauding chiefs of the heroic age. It bowed its head beneath the
 sceptre of its own divine kings and the armed heel of its northern
@@ -717,7 +717,7 @@ to exist as important social entities. The social unit which had taken
 their place was the political community of men, of whatever tribe or
 tribes, who were held together in times of danger and constant war by
 means of a common circuit-wall, a Polis.<span
-id="an_fr_66_1"></span>[66\_1](fsgr06.htm#an_fn_66_1) The idea of the
+id="an_fr_66_1"></span>[66\_1](fsgr06.htm#an_fn_66_1.md) The idea of the
 tribe remained. In the earliest classical period we find every Greek
 city still nominally composed of tribes, but the tribes are fictitious.
 The early city-makers could still only conceive of society on a tribal
@@ -788,7 +788,7 @@ save it and was struck dead for his pains. Now, if he was struck dead by
 the sheer holiness of the tabu object, the holiness stored inside it
 like so much electricity, his death was a misfortune, an interesting
 accident, and no more.<span
-id="an_fr_68_1"></span>[68\_1](fsgr06.htm#an_fn_68_1) But when it is
+id="an_fr_68_1"></span>[68\_1](fsgr06.htm#an_fn_68_1.md) But when it is
 made into the deliberate act of an anthropomorphic god, who strikes a
 well-intentioned man dead in explosive rage for a very pardonable
 mistake, a dangerous element has been introduced into the ethics of that
@@ -887,7 +887,7 @@ and Korê from Eleusis, Theseus himself perhaps from Marathon or even
 from Trozên. They were all given official residences on Athena's rock,
 and Athens in return sent out Athena to new temples built for her in
 Prasiae and Sunion and various colonies.<span
-id="an_fr_72_1"></span>[72\_1](fsgr06.htm#an_fn_72_1) This development
+id="an_fr_72_1"></span>[72\_1](fsgr06.htm#an_fn_72_1.md) This development
 came step by step and grew out of real worships. It was quite different
 from the wholesale adoption of a body of non-national, poetical gods:
 yet even this development was too artificial, too much stamped with the
@@ -922,7 +922,7 @@ when the best minds seek for truth the result is apt to be beautiful. It
 was a great thing that men should envisage the world as governed, not by
 Giants and Gorgons and dealers in eternal torture, but by some human and
 more than human Understanding (<u>Ξύνεσις</u>),<span
-id="an_fr_73_1"></span>[73\_1](fsgr06.htm#an_fn_73_1) by beings of quiet
+id="an_fr_73_1"></span>[73\_1](fsgr06.htm#an_fn_73_1.md) by beings of quiet
 splendour like many a classical Zeus and Hermes and Demeter. If
 Olympianism was not a religious faith, it was at least a vital force in
 the shaping of cities and societies which remain after two thousand
@@ -1030,7 +1030,7 @@ awaken man's worship and strengthen his higher aspirations; but at heart
 they knew themselves to be only metaphors. As the most beautiful image
 carved by man was not the god, but only a symbol, to help towards
 conceiving the god;<span
-id="an_fr_77_1"></span>[77\_1](fsgr06.htm#an_fn_77_1) <span
+id="an_fr_77_1"></span>[77\_1](fsgr06.htm#an_fn_77_1.md) <span
 id="page_78">p. 78</span> so the god himself, when conceived, was not
 the reality but only a symbol to help towards conceiving the reality.
 That was the work set before them. Meantime they issued no creeds that
@@ -1043,7 +1043,7 @@ inner light.
 
 <div class="footnote">
 
-<span id="an_fn_39_1"></span>[39\_1](fsgr06.htm#an_fr_39_1) Hdt. i. 60
+<span id="an_fn_39_1"></span>[39\_1](fsgr06.htm#an_fr_39_1.md) Hdt. i. 60
 <u>ἐπεί γε ἀπεκρίθη ἐκ παλαιτέρου</u> <u>τοῦ βαρβάρου ἔθνεος τὸ
 Ἑλληνικὸν</u> <u>ἐὸν καὶ δεξιώτερον καὶ εὐηθίης</u> <u>ἠλιθίου
 ἀπηλλαγμένον μᾶλλον.</u> As to the date here suggested for the definite
@@ -1057,7 +1057,7 @@ of Confucius.' <u>Εὐηθίη ἠλίθιος</u> is almost '*Urdummheit*'.
 
 <div class="footnote">
 
-<span id="an_fn_40_1"></span>[40\_1](fsgr06.htm#an_fr_40_1) See in
+<span id="an_fn_40_1"></span>[40\_1](fsgr06.htm#an_fr_40_1.md) See in
 general Ridgeway, *Early Age of Greece*, vol. i; Leaf, *Companion to
 Homer*, Introduction: *R. G. E.*, chap. ii; Chadwick, *The Heroic Age*
 (last four chapters); and J. L. Myres, *Dawn of History*, chaps. viii
@@ -1067,7 +1067,7 @@ and ix.
 
 <div class="footnote">
 
-<span id="an_fn_40_2"></span>[40\_2](fsgr06.htm#an_fr_40_2) Since
+<span id="an_fn_40_2"></span>[40\_2](fsgr06.htm#an_fr_40_2.md) Since
 writing the above I find in Vandal, *L'Avènement de Bonaparte*, p. 20,
 in Nelson's edition, a phrase about the Revolutionary soldiers: 'Ils se
 modelaient sur ces Romains . . . sur ces Spartiates . . . et ils
@@ -1078,21 +1078,21 @@ le reproduire.'
 
 <div class="footnote">
 
-<span id="an_fn_41_1"></span>[41\_1](fsgr06.htm#an_fr_41_1) Hdt. i. 56
+<span id="an_fn_41_1"></span>[41\_1](fsgr06.htm#an_fr_41_1.md) Hdt. i. 56
 f.; Th. i. 3 (Hellen son of Deucalion, in both).
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_42_1"></span>[42\_1](fsgr06.htm#an_fr_42_1) Hdt. i. 58.
+<span id="an_fn_42_1"></span>[42\_1](fsgr06.htm#an_fr_42_1.md) Hdt. i. 58.
 In viii. 44 the account is more detailed.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_42_2"></span>[42\_2](fsgr06.htm#an_fr_42_2) The Homeric
+<span id="an_fn_42_2"></span>[42\_2](fsgr06.htm#an_fr_42_2.md) The Homeric
 evidence is, as usual, inconclusive. The word <u>βάρβαροι</u> is absent
 from both poems, an absence which must be intentional on the part of the
 later reciters, but may well come from the original sources. The
@@ -1103,14 +1103,14 @@ that particular line in that particular wording?
 
 <div class="footnote">
 
-<span id="an_fn_42_3"></span>[42\_3](fsgr06.htm#an_fr_42_3) Paper read
+<span id="an_fn_42_3"></span>[42\_3](fsgr06.htm#an_fr_42_3.md) Paper read
 to the Classical Association at Birmingham in 1908.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_43_1"></span>[43\_1](fsgr06.htm#an_fr_43_1) For Korinna
+<span id="an_fn_43_1"></span>[43\_1](fsgr06.htm#an_fr_43_1.md) For Korinna
 see Wilamowitz in *Berliner Klassikertexte*, V. xiv, especially p. 55.
 The Homeric epos drove out poetry like Corinna's. She had actually
 written: 'I sing the great deeds of heroes and heroines' (<u>ἰώνει δ'
@@ -1126,7 +1126,7 @@ question of Tyrtaeus is complicated by other problems.
 
 <div class="footnote">
 
-<span id="an_fn_45_1"></span>[45\_1](fsgr06.htm#an_fr_45_1) The facts
+<span id="an_fn_45_1"></span>[45\_1](fsgr06.htm#an_fr_45_1.md) The facts
 are well known: see Paus. i. 18. 7. The inference was pointed out to me
 by Miss Harrison.
 
@@ -1134,7 +1134,7 @@ by Miss Harrison.
 
 <div class="footnote">
 
-<span id="an_fn_45_2"></span>[45\_2](fsgr06.htm#an_fr_45_2) I do not
+<span id="an_fn_45_2"></span>[45\_2](fsgr06.htm#an_fr_45_2.md) I do not
 here raise the question how far the Achaioi have special affinities with
 the north-west group of tribes or dialects. See Thumb, *Handbuch d. gr.
 Dialekte* (1909), p. 166 f. The Achaioi must have passed through South
@@ -1144,7 +1144,7 @@ Thessaly in any case.
 
 <div class="footnote">
 
-<span id="an_fn_45_3"></span>[45\_3](fsgr06.htm#an_fr_45_3) That Kronos
+<span id="an_fn_45_3"></span>[45\_3](fsgr06.htm#an_fr_45_3.md) That Kronos
 was in possession of the Kronion and Olympia generally before Zeus came
 was recognized in antiquity; Paus. v. 7. 4 and 10. Also Mayer in
 Roscher's Lexicon, ii, p. 1508, 50 ff.; *Rise of Greek
@@ -1155,7 +1155,7 @@ Epic*<sup>3</sup>, pp. 40-8; J. A. K. Thomson, Studies in the Odyssey
 
 <div class="footnote">
 
-<span id="an_fn_49_1"></span>[49\_1](fsgr06.htm#an_fr_49_1) I do not
+<span id="an_fn_49_1"></span>[49\_1](fsgr06.htm#an_fr_49_1.md) I do not
 touch here on the subject of the gradual expurgation of the Poems to
 suit the feelings of a more civilized audience; see *Rise of the Greek
 Epic*,<sup>3</sup> pp. 120-4. Many scholars believe that the Poems did
@@ -1172,7 +1172,7 @@ been put in before the Athenian period.
 
 <div class="footnote">
 
-<span id="an_fn_49_2"></span>[49\_2](fsgr06.htm#an_fr_49_2) In his
+<span id="an_fn_49_2"></span>[49\_2](fsgr06.htm#an_fr_49_2.md) In his
 *Zeus, the Indo-European Sky-God* (1914, 1924). See *R. G.
 E.*,<sup>3</sup> pp. 40 ff.
 
@@ -1180,7 +1180,7 @@ E.*,<sup>3</sup> pp. 40 ff.
 
 <div class="footnote">
 
-<span id="an_fn_50_1"></span>[50\_1](fsgr06.htm#an_fr_50_1) A somewhat
+<span id="an_fn_50_1"></span>[50\_1](fsgr06.htm#an_fr_50_1.md) A somewhat
 similar change occurred in Othin, though he always retains more of the
 crooked wizard.
 
@@ -1188,7 +1188,7 @@ crooked wizard.
 
 <div class="footnote">
 
-<span id="an_fn_50_2"></span>[50\_2](fsgr06.htm#an_fr_50_2) *Themis*,
+<span id="an_fn_50_2"></span>[50\_2](fsgr06.htm#an_fr_50_2.md) *Themis*,
 chap. i. On the Zeus of Aeschylus cf. *R. G. E.*,<sup>3</sup> pp. 277
 ff.; Gomperz, *Greek Thinkers*, ii. 6-8.
 
@@ -1196,21 +1196,21 @@ ff.; Gomperz, *Greek Thinkers*, ii. 6-8.
 
 <div class="footnote">
 
-<span id="an_fn_50_3"></span>[50\_3](fsgr06.htm#an_fr_50_3) Farnell,
+<span id="an_fn_50_3"></span>[50\_3](fsgr06.htm#an_fr_50_3.md) Farnell,
 *Cults*, iv. 100-4. See, however, Gruppe, p. 107 f.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_51_1"></span>[51\_1](fsgr06.htm#an_fr_51_1) *Hymn. Ap.*
+<span id="an_fn_51_1"></span>[51\_1](fsgr06.htm#an_fr_51_1.md) *Hymn. Ap.*
 init. Cf. Wilamowitz's Oxford Lecture on 'Apollo' (Oxford, 1907).
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_51_2"></span>[51\_2](fsgr06.htm#an_fr_51_2) *Themis*, p.
+<span id="an_fn_51_2"></span>[51\_2](fsgr06.htm#an_fr_51_2.md) *Themis*, p.
 439 f. Cf. <u>ὁ Ἀγοραῖος</u>. Other explanations of the name in Gruppe,
 p. 1224 f., notes.
 
@@ -1218,7 +1218,7 @@ p. 1224 f., notes.
 
 <div class="footnote">
 
-<span id="an_fn_51_3"></span>[51\_3](fsgr06.htm#an_fr_51_3) Hdt. i. 147;
+<span id="an_fn_51_3"></span>[51\_3](fsgr06.htm#an_fr_51_3.md) Hdt. i. 147;
 Plato, *Euthyd.* 302 c: *Socrates*. 'No Ionian recognizes a Zeus
 Patrôos; Apollo is our Patrôos, because he was father of Ion.'
 
@@ -1226,14 +1226,14 @@ Patrôos; Apollo is our Patrôos, because he was father of Ion.'
 
 <div class="footnote">
 
-<span id="an_fn_52_1"></span>[52\_1](fsgr06.htm#an_fr_52_1) See Gruppe,
+<span id="an_fn_52_1"></span>[52\_1](fsgr06.htm#an_fr_52_1.md) See Gruppe,
 p. 1206, on the development of his 'Philistine thunderstorm-goddess'.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_52_2"></span>[52\_2](fsgr06.htm#an_fr_52_2) Hoffmann,
+<span id="an_fn_52_2"></span>[52\_2](fsgr06.htm#an_fr_52_2.md) Hoffmann,
 *Gesch. d. griechischen Sprache*, Leipzig, 1911, p. 16. Cf. Pind. *Ol.*
 vii. 35; Ov. *Metam.* ix. 421; xv. 191, 700, &c.
 
@@ -1241,7 +1241,7 @@ vii. 35; Ov. *Metam.* ix. 421; xv. 191, 700, &c.
 
 <div class="footnote">
 
-<span id="an_fn_53_1"></span>[53\_1](fsgr06.htm#an_fr_53_1) As to the
+<span id="an_fn_53_1"></span>[53\_1](fsgr06.htm#an_fr_53_1.md) As to the
 name, <u>Ἁθηναία</u> is of course simply 'Athenian'; the shorter and
 apparently original form <u>Ἀθάνα</u>, <u>Ἀθήνη</u> is not so clear, but
 it seems most likely to mean 'Attic'. Cf. Meister, *Gr. Dial.* ii. 290.
@@ -1276,7 +1276,7 @@ whose name is now lost.
 
 <div class="footnote">
 
-<span id="an_fn_53_2"></span>[53\_2](fsgr06.htm#an_fr_53_2) It is worth
+<span id="an_fn_53_2"></span>[53\_2](fsgr06.htm#an_fr_53_2.md) It is worth
 noting also that this Homeric triad seems also to be recognized as the
 chief Athenian triad. Plato, *Euthyd.* 302 c, quoted above, continues:
 *Socrates.* 'We have Zeus with the names Herkeios and Phratrios, but not
@@ -1289,7 +1289,7 @@ Patrôos. But see *R. G. E.*,<sup>3</sup> p. 49, n.
 
 <div class="footnote">
 
-<span id="an_fn_54_1"></span>[54\_1](fsgr06.htm#an_fr_54_1) Ridgeway,
+<span id="an_fn_54_1"></span>[54\_1](fsgr06.htm#an_fr_54_1.md) Ridgeway,
 *Origin and Influence of the Thoroughbred Horse*, 1905, pp. 287-93; and
 *Early Age of Greece*, 1901, p. 223.
 
@@ -1297,14 +1297,14 @@ Patrôos. But see *R. G. E.*,<sup>3</sup> p. 49, n.
 
 <div class="footnote">
 
-<span id="an_fn_54_2"></span>[54\_2](fsgr06.htm#an_fr_54_2) Cf. Plut.
+<span id="an_fn_54_2"></span>[54\_2](fsgr06.htm#an_fr_54_2.md) Cf. Plut.
 *Q. Conv.* ix. 6; Paus. ii. 1. 6; 4. 6; 15. 5; 30. 6.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_54_3"></span>[54\_3](fsgr06.htm#an_fr_54_3) So in the
+<span id="an_fn_54_3"></span>[54\_3](fsgr06.htm#an_fr_54_3.md) So in the
 non-Homeric tradition, Eur. *Troades* init. In the *Iliad* he is made an
 enemy of Troy, like Athena, who is none the less the Guardian of the
 city.
@@ -1313,21 +1313,21 @@ city.
 
 <div class="footnote">
 
-<span id="an_fn_56_1"></span>[56\_1](fsgr06.htm#an_fr_56_1) *Od.*
+<span id="an_fn_56_1"></span>[56\_1](fsgr06.htm#an_fr_56_1.md) *Od.*
 <u>θ</u> 339 ff.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_56_2"></span>[56\_2](fsgr06.htm#an_fr_56_2) See Paus.
+<span id="an_fn_56_2"></span>[56\_2](fsgr06.htm#an_fr_56_2.md) See Paus.
 viii. 32. 4. *Themis*, pp. 295, 296.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_56_3"></span>[56\_3](fsgr06.htm#an_fr_56_3) For the
+<span id="an_fn_56_3"></span>[56\_3](fsgr06.htm#an_fr_56_3.md) For the
 connexion of <u>Ἥρα ἤρως Ἡρακλῆς</u> (<u>Ἡρύκαλος</u> in Sophron, fr.
 142 K) see especially A. B. Cook, *Class. Review*, 1906, pp. 365 and
 416. The name <u>Ἥρα</u> seems probably to be an 'ablaut' form of
@@ -1338,7 +1338,7 @@ Gruppe, pp. 452, 1122.
 
 <div class="footnote">
 
-<span id="an_fn_57_1"></span>[57\_1](fsgr06.htm#an_fr_57_1)
+<span id="an_fn_57_1"></span>[57\_1](fsgr06.htm#an_fr_57_1.md)
 *Prolegomena*, p. 315, referring to H. D. Müller, *Mythologie d. gr.
 Stämme*, pp. 249-55. Another view is suggested by Mülder, *Die Ilias und
 ihre Quellen*, p. 136. The jealous Hera comes from the Heracles-saga, in
@@ -1348,34 +1348,34 @@ which the wife hated the bastard.
 
 <div class="footnote">
 
-<span id="an_fn_57_2"></span>[57\_2](fsgr06.htm#an_fr_57_2) P. Gardner,
+<span id="an_fn_57_2"></span>[57\_2](fsgr06.htm#an_fr_57_2.md) P. Gardner,
 in *Numismatic Chronicle*, N.S. xx, 'Ares as a Sun-God'.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_57_3"></span>[57\_3](fsgr06.htm#an_fr_57_3) Chadwick,
+<span id="an_fn_57_3"></span>[57\_3](fsgr06.htm#an_fr_57_3.md) Chadwick,
 *Heroic Age*, especially pp. 414, 459-63.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_59_1"></span>[59\_1](fsgr06.htm#an_fr_59_1) Chap. xviii.
+<span id="an_fn_59_1"></span>[59\_1](fsgr06.htm#an_fr_59_1.md) Chap. xviii.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_59_2"></span>[59\_2](fsgr06.htm#an_fr_59_2) Introduction
+<span id="an_fn_59_2"></span>[59\_2](fsgr06.htm#an_fr_59_2.md) Introduction
 to his edition of the *Choëphoroe*, p. 9.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_61_1"></span>[61\_1](fsgr06.htm#an_fr_61_1) The spirit
+<span id="an_fn_61_1"></span>[61\_1](fsgr06.htm#an_fr_61_1.md) The spirit
 appears very simply in Eur. *Iph. Taur.* 386 ff., where Iphigenia
 rejects the gods who demand human sacrifice:
 
@@ -1407,7 +1407,7 @@ especially Kaibel, *Daktyloi Idaioi*, 1902, p. 512.
 
 <div class="footnote">
 
-<span id="an_fn_62_1"></span>[62\_1](fsgr06.htm#an_fr_62_1) Aristophanes
+<span id="an_fn_62_1"></span>[62\_1](fsgr06.htm#an_fr_62_1.md) Aristophanes
 did much to reduce this element in comedy; see *Clouds*, 537 ff.: also
 *Albany Review*, 1907, p. 201.
 
@@ -1415,14 +1415,14 @@ did much to reduce this element in comedy; see *Clouds*, 537 ff.: also
 
 <div class="footnote">
 
-<span id="an_fn_62_2"></span>[62\_2](fsgr06.htm#an_fr_62_2) *R. G.
+<span id="an_fn_62_2"></span>[62\_2](fsgr06.htm#an_fr_62_2.md) *R. G.
 E.*,<sup>3</sup> p. 139 f.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_64_1"></span>[64\_1](fsgr06.htm#an_fr_64_1) Justin,
+<span id="an_fn_64_1"></span>[64\_1](fsgr06.htm#an_fr_64_1.md) Justin,
 *Cohort.* c. 15. But such pantheistic language is common in Orphic and
 other mystic literature. See the fragments of the Orphic <u>Διαθῆκαι</u>
 (pp. 144 ff. in Abel's *Hymni*).
@@ -1431,7 +1431,7 @@ other mystic literature. See the fragments of the Orphic <u>Διαθῆκαι</u
 
 <div class="footnote">
 
-<span id="an_fn_65_1"></span>[65\_1](fsgr06.htm#an_fr_65_1) I have not
+<span id="an_fn_65_1"></span>[65\_1](fsgr06.htm#an_fr_65_1.md) I have not
 attempted to consider the Cretan cults. They lie historically outside
 the range of these essays, and I am not competent to deal with evidence
 that is purely archaeological. But in general I imagine the Cretan
@@ -1450,28 +1450,28 @@ Minoan and Mycenaean Element in Hellenic Life', *J. H. S.* xxxii.
 
 <div class="footnote">
 
-<span id="an_fn_66_1"></span>[66\_1](fsgr06.htm#an_fr_66_1) See *R. G.
+<span id="an_fn_66_1"></span>[66\_1](fsgr06.htm#an_fr_66_1.md) See *R. G.
 E.*,<sup>3</sup> p. 58 f.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_68_1"></span>[68\_1](fsgr06.htm#an_fr_68_1) 2 Sam. vi.
+<span id="an_fn_68_1"></span>[68\_1](fsgr06.htm#an_fr_68_1.md) 2 Sam. vi.
 6. See S. Reinach, *Orpheus*, p. 5 (English Translation, p. 4).
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_72_1"></span>[72\_1](fsgr06.htm#an_fr_72_1) Cf. Sam Wide
+<span id="an_fn_72_1"></span>[72\_1](fsgr06.htm#an_fr_72_1.md) Cf. Sam Wide
 in Gercke and Norden's *Handbuch*, ii. 217-19.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_73_1"></span>[73\_1](fsgr06.htm#an_fr_73_1) The
+<span id="an_fn_73_1"></span>[73\_1](fsgr06.htm#an_fr_73_1.md) The
 <u>Ξύνεσις</u> in which the Chorus finds it hard to believe,
 *Hippolytus*, 1105. Cf. *Iph. Aul.* 394, 1189; *Herc.* 655; also the
 ideas in *Suppl.* 203, Eur. Fr. 52, 9, where <u>Ξύνεσις</u> is implanted
@@ -1483,7 +1483,7 @@ course Euripides goes too far in actually praying to <u>Ξύνεσις</u>, Ar.
 
 <div class="footnote">
 
-<span id="an_fn_77_1"></span>[77\_1](fsgr06.htm#an_fr_77_1) Cf. the
+<span id="an_fn_77_1"></span>[77\_1](fsgr06.htm#an_fr_77_1.md) Cf. the
 beautiful defence of idols by Maximus of Tyre, Or. viii (in Wilamowitz's
 *Lesebuch*, ii. 338 ff.). I quote the last paragraph:
 
@@ -1512,6 +1512,6 @@ let them remember.'
 
 ------------------------------------------------------------------------
 
-[Next: III. The Great Schools](fsgr07)
+[Next: III. The Great Schools](fsgr07.md)
 
 </div>

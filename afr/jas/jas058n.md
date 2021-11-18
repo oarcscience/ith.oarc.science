@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas057n)  [Next](jas059n)   
- \[[58. Hunter, Guinea-hen and Fish.](jas058)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas057n)  [Next](jas059n.md)   
+ \[[58. Hunter, Guinea-hen and Fish.](jas058.md)\]
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ dwelling, and the escape is effected in the same manner.
 
 ------------------------------------------------------------------------
 
-[Next: Note 59. Rabbit Stories.](jas059n)
+[Next: Note 59. Rabbit Stories.](jas059n.md)

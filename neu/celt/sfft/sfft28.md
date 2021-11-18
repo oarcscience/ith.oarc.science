@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft27)  [Next](sfft29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft27)  [Next](sfft29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 # FAIRY TALES.
 
-### THE FAIRIES OF SCOTLAND. <span id="fr_45"></span>[1](#fn_45)
+### THE FAIRIES OF SCOTLAND. <span id="fr_45"></span>[1](#fn_45.md)
 
 THE Fairies of Scotland are represented as a diminutive race of beings,
 of a mixed, or rather dubious nature, capricious in their dispositions,
@@ -79,9 +79,9 @@ occasionally cloak the delinquencies of an unfaithful butler.
 
 ### Footnotes
 
-<span id="fn_45"></span>[108:1](sfft28.htm#fr_45) Sir Walter Scott,
+<span id="fn_45"></span>[108:1](sfft28.htm#fr_45.md) Sir Walter Scott,
 *Minstrelsy of the Scottish Border*.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy and the Miller's Wife](sfft29)
+[Next: The Fairy and the Miller's Wife](sfft29.md)

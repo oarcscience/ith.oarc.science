@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](boi05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](boi05.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Hail, thou who growest like unto the ape of Tehuti, or to the shining
 sunlight!  
 Hail, thou flower honoured of Pharaoh!  
 Hail, thou who handlest the holy rigging of the Sektet-boat! <span
-id="fr_50"></span>[1](#fn_45)  
+id="fr_50"></span>[1](#fn_45.md)  
 Behold the lord of youth,--he becometh old in his shrine!  
 Behold the excellent souls, which are in the realms of Death!  
 Behold the sacred designer of north and south!  
@@ -50,7 +50,7 @@ Rail, thou enlightener of those who are in the underworld, that they may
 see the sunlight!  
 Behold the lord of the Atef crown, the great one in Suten-Henen!  
 Hail, thou great and terrible one of Naret!  
-Hail, dweller in Uast, <span id="fr_51"></span>[1](#fn_46) flourishing
+Hail, dweller in Uast, <span id="fr_51"></span>[1](#fn_46.md) flourishing
 for ever!  
 Hail, Amen-Ra, King of the Gods, who causeth his members to grow in his
 rising and in his setting!  
@@ -103,7 +103,7 @@ Hathor is the lady of Rehesau: Hathor is the lady of Shet-Desret:
 Hathor is the lady of the Turquoise: Hathor is the lady of Ineb:  
 Hathor is the lady of Uahwah: Hathor is the lady of Ammu:  
 Hathor is the lady of Imem: Hathor is as Hennu of Met-Sas!  
-The nine companions <span id="fr_52"></span>[1](#fn_47) approach--let
+The nine companions <span id="fr_52"></span>[1](#fn_47.md) approach--let
 your arms be beneath your father Osiris--protect the land. (Repeat four
 times.)  
 Hail, thou crowned lord of the feast! (Repeat twice.)  
@@ -154,14 +154,14 @@ underworld.
 
 Lo! may they cause to come forth these names existent in the underworld
 in excellence! Let them be invoked in the Nai-boat <span
-id="fr_53"></span>[1](#fn_48) of Ra. Let there be given for them
+id="fr_53"></span>[1](#fn_48.md) of Ra. Let there be given for them
 funereal offerings upon the altar of the great God, day by day!
 
 Let there be given for them cool water, and incense as to the excellent
 kings of Upper and Lower Egypt, who are existent in the underworld. Let
 them be permitted to go out and come in among those praised of Osiris,
 who is the breath of those in the underworld. Let it be caused that the
-beams of Aten <span id="fr_54"></span>[2](#fn_49) may fall upon their
+beams of Aten <span id="fr_54"></span>[2](#fn_49.md) may fall upon their
 bodies every day.
 
 <span id="page_59">p. 59</span>
@@ -183,13 +183,13 @@ me, Osiris.
 
 ### Footnotes
 
-<span id="fn_45"></span>[53:1](boi06.htm#fr_50) Boat of the Dead.
+<span id="fn_45"></span>[53:1](boi06.htm#fr_50.md) Boat of the Dead.
 
-<span id="fn_46"></span>[54:1](boi06.htm#fr_51) Thebes.
+<span id="fn_46"></span>[54:1](boi06.htm#fr_51.md) Thebes.
 
-<span id="fn_47"></span>[56:1](boi06.htm#fr_52) The Paut, or circle of
+<span id="fn_47"></span>[56:1](boi06.htm#fr_52.md) The Paut, or circle of
 the gods.
 
-<span id="fn_48"></span>[58:1](boi06.htm#fr_53) To carry souls.
+<span id="fn_48"></span>[58:1](boi06.htm#fr_53.md) To carry souls.
 
-<span id="fn_49"></span>[58:2](boi06.htm#fr_54) Sun God.
+<span id="fn_49"></span>[58:2](boi06.htm#fr_54.md) Sun God.

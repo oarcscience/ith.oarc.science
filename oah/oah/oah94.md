@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah93)  [Next](oah95) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah93)  [Next](oah95.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ line betwixt the two. Herein lieth the harmony of a man's soul.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](oah95)
+[Next: Chapter VIII](oah95.md)

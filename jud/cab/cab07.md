@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](cab06)  [Next](cab08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](cab06)  [Next](cab08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cabala*, by Bernhard Pick, \[1913\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -39,7 +39,7 @@ nothing which can grasp him and depict him
 
 <span id="page_67">p. 67</span>
 
-to us, <span id="fr_45"></span>[1](#fn_45) and as such he is in a
+to us, <span id="fr_45"></span>[1](#fn_45.md) and as such he is in a
 certain sense not existent (*ayin*); since, as far as our mind is
 concerned, that which is incomprehensible does not exist.
 
@@ -56,13 +56,13 @@ the seventh *Nezach*, "Splendor"; the eighth *Hôd*, "Majesty"; the ninth
 *Jesôd*, "Foundation"; the tenth *Malchûth*, "Kingdom."
 
 Now the first Sephirah, which is called the Crown, the Aged, <span
-id="fr_46"></span>[2](#fn_46) the Primordial or the Smooth Point, <span
-id="fr_47"></span>[3](#fn_47) the White Head, the Long Face,
+id="fr_46"></span>[2](#fn_46.md) the Primordial or the Smooth Point, <span
+id="fr_47"></span>[3](#fn_47.md) the White Head, the Long Face,
 *Macroprosopon*,
 
 <span id="page_68">p. 68</span>
 
-the Inscrutable Height, <span id="fr_48"></span>[4](#fn_48) contained
+the Inscrutable Height, <span id="fr_48"></span>[4](#fn_48.md) contained
 the other nine Sephiroth and gave rise to them in the following order:
 from the first Sephirah proceeded a masculine or active potency
 designated (2) *Chochma*, "Wisdom," and an opposite, i.e., a feminine or
@@ -114,7 +114,7 @@ triad which represents
 
 <span id="img_fig01"></span> <span align="CENTER"> [![Fig. 1. ADAM
 KADMON, THE ARCHETYPAL MAN.](tn/fig01.jpg)  
-Click to enlarge](img/fig01.jpg)  
+Click to enlarge](img/fig01.jpg.md)  
 Fig. 1. ADAM KADMON, THE ARCHETYPAL MAN.  
 </span>
 
@@ -126,7 +126,7 @@ stability, is called the "material world" (*olam* 
 
 <span id="img_fig02"></span> <span align="CENTER"> [![Fig. 2. THE
 CABALISTIC TREE.](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
 Fig. 2. THE CABALISTIC TREE.  
 </span>
 
@@ -140,7 +140,7 @@ third are
 
 <span id="img_fig03"></span> <span align="CENTER"> [![Fig. 3. THE PILLAR
 ARRANGEMENT.](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 Fig. 3. THE PILLAR ARRANGEMENT.  
 </span>
 
@@ -148,7 +148,7 @@ Fig. 3. THE PILLAR ARRANGEMENT.
 
 placed below, in such a manner that the three masculine Sephiroth are on
 the right, the three feminine on the left, whilst the four uniting
-Sephiroth occupy the center, as shown in [Fig 2](#img_fig02).
+Sephiroth occupy the center, as shown in [Fig 2](#img_fig02.md).
 
 According to another arrangement the Sephiroth are so ordered that they
 form three pillars, a right one (*sitra dimina*, also *amuda de-chesed*,
@@ -158,7 +158,7 @@ de-emzaïta*). In the right pillar to which belong the Sephiroth Wisdom,
 Love and Firmness, is life; in the left with the Sephiroth Intelligence,
 Judgment, Splendor, is Death. The middle pillar comprises Crown, Beauty,
 Foundation. The basis of all three pillars is the Kingdom. [Fig.
-3](#img_fig03) illustrates this.
+3](#img_fig03.md) illustrates this.
 
 So far as the Sephiroth represent the first manifestation of God they
 form a world for themselves, an ideal world which has nothing to do with
@@ -174,8 +174,8 @@ manifested himself as creator and ruler of the
 world, as it were a prototype (macrocosm) of the entire creation. In
 this case it would seem as if the Adam Kadmon were a first
 manifestation, inserted between God and the world, so to say a second
-God <span id="fr_49"></span>[5](#fn_49) or the divine Word. <span
-id="fr_50"></span>[6](#fn_50)
+God <span id="fr_49"></span>[5](#fn_49.md) or the divine Word. <span
+id="fr_50"></span>[6](#fn_50.md)
 
 According to a later theorem four worlds proceed by an emanation in
 different gradations. This is expressed by Ibn Latif thus: As the point
@@ -190,7 +190,7 @@ as that belonging to the world of the Sephiroth or to the Adam Kadmon.
 This world which is also called the *olam ha-sephiroth*, i.e., "the
 world of the Sephiroth," is the seat of the Shechinah. From the *olam
 azîla* proceeded the *olam beria* or "world of creation," in which
-according to Rabbi Isaac Nasir <span id="fr_51"></span>[7](#fn_51) are
+according to Rabbi Isaac Nasir <span id="fr_51"></span>[7](#fn_51.md) are
 the souls of the saints, all the blessings, the
 
 <span id="page_75">p. 75</span>
@@ -198,7 +198,7 @@ the souls of the saints, all the blessings, the
 throne of the Deity, and the palaces of all spiritual and moral
 perfection. The *olam beria* gave birth to the *olam jezîrah* or "world
 of formation," in which dwell the holy angels, whose prince is
-Metatron. <span id="fr_52"></span>[8](#fn_52) But there are also the
+Metatron. <span id="fr_52"></span>[8](#fn_52.md) But there are also the
 demons, which on account of their grossly sensual nature are called
 *Keliphoth*, "shells," and inhabit the planets and other heavenly bodies
 or the realm of the ether.
@@ -299,8 +299,8 @@ bordering on shamelessness and shocking to decency and morals.
 The whole universe, however, was not complete, and did not receive its
 finishing stroke till man was formed, who is the acme of creation, and
 the microcosm uniting in himself the totality of beings. <span
-id="fr_53"></span>[9](#fn_53) The lower man is a type of the heavenly
-Adam Kadmon. <span id="fr_54"></span>[10](#fn_54) Man consists of body
+id="fr_53"></span>[9](#fn_53.md) The lower man is a type of the heavenly
+Adam Kadmon. <span id="fr_54"></span>[10](#fn_54.md) Man consists of body
 and soul. Though the body is only the raimant or the covering of the
 soul, yet it represents the *Merkaba* (the heavenly throne-chariot). All
 members have their symbolic meaning. Greater than the body is the soul,
@@ -317,7 +317,7 @@ good and evil; as nephesh it is immediately connected with the body and
 is the direct cause of its lower functions, instincts, and animal life.
 
 **Psychology**.--Like Plato, Origen, etc., the Cabala teaches a
-pre-existence of the soul. <span id="fr_55"></span>[11](#fn_55) All
+pre-existence of the soul. <span id="fr_55"></span>[11](#fn_55.md) All
 souls destined to enter into human bodies existed from the beginning.
 Clad in a spiritual garb they dwell in their heavenly abode and enjoy
 the view of the divine splendor of the Shechinah. With great reluctance
@@ -341,7 +341,7 @@ already, before she entered into this world" (Zohar, III, 61*b*). Of
 great interest is the metempsychosis of the Cabala. How this doctrine,
 already espoused by the Egyptians, Pythagoreans and Plato, came into
 Jewish mysticism, is not yet fully explained. <span
-id="fr_56"></span>[12](#fn_56) But it is interesting to learn of the
+id="fr_56"></span>[12](#fn_56.md) But it is interesting to learn of the
 destiny of man and the universe according to the Cabalists.
 
 It is an absolute condition of the soul to return to the Infinite Source
@@ -400,7 +400,7 @@ history of Greek literature. We find it in Philo, in the New Testament,
 in the writings of the fathers, in the Talmud, and in the Zohar; and the
 more such an interpretation departed from the spirit of the sacred text,
 the more necessary was it to bring the scriptures to its support by
-distortions of their meanings. <span id="fr_57"></span>[13](#fn_57)
+distortions of their meanings. <span id="fr_57"></span>[13](#fn_57.md)
 
 <span id="page_84">p. 84</span>
 
@@ -435,9 +435,9 @@ be added to it (*ibid*., II, 99).
 
 In order to elicit the mysteries from the scriptures, the Cabalists
 employed certain hermeneutical canons, <span
-id="fr_58"></span>[14](#fn_58) viz.:
+id="fr_58"></span>[14](#fn_58.md) viz.:
 
-1\. *Gematria*, <span id="fr_59"></span>[15](#fn_59) i.e., the art of
+1\. *Gematria*, <span id="fr_59"></span>[15](#fn_59.md) i.e., the art of
 discovering the hidden sense of the text by means of the numerical
 equivalents of the letters. Thus from the Hebrew words ‏והנה שלשה‎
 (vehineh sheloshah) translated "lo! three (men stood by him)" in Gen.
@@ -446,7 +446,7 @@ Gabriel and Raphael, because the letters yield the numerical value of
 701, viz.
 
 ‏ו‎ = 6 + ‏ה‎ = 5 + ‏נ‎ = 50 + ‏ה‎ = 5 + ‏ש‎ = 300 + ‏ל‎ = 30 + ‏ש‎ =
-300 + ‏ה‎ = 5 = 701; and the same number [yields](errata.htm#1) the
+300 + ‏ה‎ = 5 = 701; and the same number [yields](errata.htm#1.md) the
 words ‏אלו מיכאל גכריאל ורפאל‎, viz. = ‏א‎ = 1 + ‏ל‎ = 30 + ‏ו‎ = 6 +
 ‏מ‎ = 40 + ‏י‎ = 10 + ‏כ‎ = 20 + ‏א‎ = 1 + ‏ל‎ = 30 + ‏ג‎ = 3 + ‏כ‎ = 2
 + ‏ר‎ = 200 + ‏י‎ = 10 + ‏א‎ = 1 + ‏ל‎ = 30 + ‏ו‎ = 6 + ‏ר‎ = 200 + ‏פ‎
@@ -473,7 +473,7 @@ coronation as emperor; 1871 + 1 + 8 + 7 + 1 = 1888, year of death.
 Napoleon III, born 4, 20, 1808; 4 + 20 + 1808 + 8 (number of the letters
 of the name) = 1840, the *coup* at Boulogne; 1840 + 1 + 8 + 4 + 0 =
 1853, first year as emperor; 1853 + 1 + 8 + 5 + 3 = 1870; end of his
-rule. <span id="fr_60"></span>[16](#fn_60)
+rule. <span id="fr_60"></span>[16](#fn_60.md)
 
 2\. *Notarikon* (from the Latin *notarius*, a short-hand writer, one who
 among the Romans belonged to that class of writers who abbreviated and
@@ -483,21 +483,21 @@ used single letters to signify whole words),
 
 is employed when every letter of a word is taken as an initial or
 abbreviation of a word. Thus, for instance, every letter of the Hebrew
-first word in Genesis, <span id="fr_61"></span>[17](#fn_61) is made the
+first word in Genesis, <span id="fr_61"></span>[17](#fn_61.md) is made the
 initial of a word, and from "in the beginning" we obtain "in the
 beginning God saw that Israel should accept the law"; or the word "Adam"
 (ADM) is made "Adam, David, Messiah." Sometimes very curious and
 ingenious combinations are derived from this system. For instance the
-word *passim* <span id="fr_62"></span>[18](#fn_62) used in the passage
+word *passim* <span id="fr_62"></span>[18](#fn_62.md) used in the passage
 "And he made a coat of (*passim*) many colors" (Gen. xxxvii. 3) is made
 to indicate the misfortunes which Joseph experienced in being sold by
 his brethren to Potiphar, Merchants, Ishmaelites, Midianites. <span
-id="fr_63"></span>[19](#fn_63)
+id="fr_63"></span>[19](#fn_63.md)
 
 It appears that the Christian fathers sometimes made use of the same
 rule; as for instance Christ has been called by them ΙΧΘΥΣ, "fish,"
 because these letters are the initials of the Greek words "Jesus Christ,
-the Son of God, the Saviour." <span id="fr_64"></span>[20](#fn_64) Thus
+the Son of God, the Saviour." <span id="fr_64"></span>[20](#fn_64.md) Thus
 St. Augustine tells us (*De civ. Dei*, XVIII, 23) that when they were
 speaking about Christ, Flaccianus, a very famous man, of most ready
 eloquence, and much learning, produced a Greek manuscript, saying that
@@ -510,14 +510,14 @@ the initial letters of the lines so arranged that those words could be
 read in them. Then he went on and gave these verses, of which the
 initial letters yield that meaning, and says, "But if you join the
 initial letters of these five Greek words, they will make the word
-*ichthus*, <span id="fr_65"></span>[21](#fn_65) that is 'fish,' in which
+*ichthus*, <span id="fr_65"></span>[21](#fn_65.md) that is 'fish,' in which
 word Christ is mystically understood, because he was able to live, that
 is, to exist, without sin in the abyss of this mortality as in the depth
 of waters." It is worthy of notice that Augustine only gives
-twenty-seven lines <span id="fr_66"></span>[22](#fn_66) of the
+twenty-seven lines <span id="fr_66"></span>[22](#fn_66.md) of the
 thirty-four, as contained in the *Oracula Sibyllina*, VIII, 217 ff.,
 where the acrostic reads: Jesus Christ, Son of God (the) Saviour, (the)
-Cross. <span id="fr_67"></span>[23](#fn_67) In its full form it is also
+Cross. <span id="fr_67"></span>[23](#fn_67.md) In its full form it is also
 given by Eusebius in the *Life of the Blessed Emperor Constantine*. For
 the benefit of the reader we subjoin Neale's translation of the acrostic
 as given in the *Christian Remembrancer*, October, 1861, p. 287:
@@ -639,7 +639,7 @@ these must be added as (23) Abgad; (24) Albam.
 I will only remark that by the system called Athbash, it is found that
 the word *Sheshhach* in Jer. xxv. 26 is the same as Babel, and that
 Jerome is said to have confidently applied this system. <span
-id="fr_68"></span>[24](#fn_68)
+id="fr_68"></span>[24](#fn_68.md)
 
 Besides these canons the Cabala also sees a recondite sense in the form
 of the letters, as well as in the ornaments which adorn them. The more
@@ -665,7 +665,7 @@ multitude of new divine names which, either spoken or written,
 influenced the course and laws of nature. As was the case with the name
 of God consisting of four letters, so it was with that consisting of
 twelve, twenty-two, forty-two and seventy-two letters. All were believed
-to contain great mysteries. <span id="fr_69"></span>[25](#fn_69) The
+to contain great mysteries. <span id="fr_69"></span>[25](#fn_69.md) The
 names of angels were treated in like manner. Thus the Cabalists greatly
 misused the Old Testament, especially the Thora. And, as says Professor
 Wünsche, by making the Bible a text-book to elicit deeper ideas, the
@@ -677,13 +677,13 @@ of the Cabalists. The exegetical
 
 literature of the Cabala clearly proves that its representatives had
 completely lost the sense for a suitable understanding of the words of
-scripture. <span id="fr_70"></span>[26](#fn_70)
+scripture. <span id="fr_70"></span>[26](#fn_70.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_45"></span>[67:1](cab07.htm#fr_45) Rabbi Azariel in his
+<span id="fn_45"></span>[67:1](cab07.htm#fr_45.md) Rabbi Azariel in his
 commentary on the ten Sephiroth tells us that "the En Soph can neither
 be comprehended by the intellect, nor described in words; for there is
 no letter or word which can grasp him." With this compare what Proclus,
@@ -694,28 +694,28 @@ his nature--he is the inexpressible (ἅῤῥητος), the unknown (ἀγνω�
 Isaac ibn Latif (1220-1290) even says "God is in all, and everything is
 in God."
 
-<span id="fn_46"></span>[67:2](cab07.htm#fr_46) <span id="page_68">p.
+<span id="fn_46"></span>[67:2](cab07.htm#fr_46.md) <span id="page_68">p.
 68</span> This must not be confounded with "the Aged of the Aged" as the
 En Soph is called.
 
-<span id="fn_47"></span>[67:3](cab07.htm#fr_47) When the Concealed of
+<span id="fn_47"></span>[67:3](cab07.htm#fr_47.md) When the Concealed of
 the Concealed wished to reveal himself, he first made a single point;
 the Infinite was entirely unknown, and diffused no light before this
 luminous point violently broke through into vision." (Zohar, I, 15e.)
 
-<span id="fn_48"></span>[68:4](cab07.htm#fr_48) So called by Rabbi
+<span id="fn_48"></span>[68:4](cab07.htm#fr_48.md) So called by Rabbi
 Azariel.
 
-<span id="fn_49"></span>[74:5](cab07.htm#fr_49) δεύτερος θεὸς.
+<span id="fn_49"></span>[74:5](cab07.htm#fr_49.md) δεύτερος θεὸς.
 
-<span id="fn_50"></span>[74:6](cab07.htm#fr_50) λόγος.
+<span id="fn_50"></span>[74:6](cab07.htm#fr_50.md) λόγος.
 
-<span id="fn_51"></span>[74:7](cab07.htm#fr_51) He flourished in the
+<span id="fn_51"></span>[74:7](cab07.htm#fr_51.md) He flourished in the
 first half of the twelfth century and is the author of a treatise on the
 Emanations (*Massecheth Aziluth*) reprinted by Jellinek in his *Auswahl
 Kabbalistischer Mystik*, Part I. Leipsic, 1853.
 
-<span id="fn_52"></span>[75:8](cab07.htm#fr_52) Graetz, *Gnosticismus
+<span id="fn_52"></span>[75:8](cab07.htm#fr_52.md) Graetz, *Gnosticismus
 und Judentum*, 1846, p. 44, derives the word from μετὰ θρόνον, because
 this angel is immediately under the divine throne. Cassel (Ersch and
 Gruber's *Encyklopädie*, section II, vol. XXVII, *s.v.* "Juden," p .40,
@@ -727,62 +727,62 @@ comprising all grades, from top downwards, and from the bottom upwards
 (*ibid*., III, 127*a*); the visibly manifested Deity (*ibid*., III,
 231*a*).
 
-<span id="fn_53"></span>[79:9](cab07.htm#fr_53) Zohar, III, 48*a*.
+<span id="fn_53"></span>[79:9](cab07.htm#fr_53.md) Zohar, III, 48*a*.
 
-<span id="fn_54"></span>[79:10](cab07.htm#fr_54) Zohar, II, 70*b*.
+<span id="fn_54"></span>[79:10](cab07.htm#fr_54.md) Zohar, II, 70*b*.
 
-<span id="fn_55"></span>[80:11](cab07.htm#fr_55) Compare Book of Wisdom,
+<span id="fn_55"></span>[80:11](cab07.htm#fr_55.md) Compare Book of Wisdom,
 VIII, 20; Josephus, Bell. Jud., II, 12, speaks of the Essenes as
 believing in a pre-existence of the soul. Philo's views are given in his
 *De somniis*, I, 642; *De gigantibus*, I, 263 f.
 
-<span id="fn_56"></span>[81:12](cab07.htm#fr_56) According to Josephus
+<span id="fn_56"></span>[81:12](cab07.htm#fr_56.md) According to Josephus
 (*Antiq*., XVIII, 13; *Bell. Jud.*, II, 8, 14) it would seem as if the
 Pharisees held the doctrine of the metempsychosis, but see Schürer,
 *Geschichte des jüdischen Volkes*, vol. II (3d ed., 1898) p. 391; on
 Philo's view, see *ibid*., vol. III, p. 561.
 
-<span id="fn_57"></span>[83:13](cab07.htm#fr_57) For a strange
+<span id="fn_57"></span>[83:13](cab07.htm#fr_57.md) For a strange
 interpretation of scripture in modern times, the reader is referred to
 Canon Wordsworth's <span id="page_84">p. 84</span> *Commentary on
 Genesis and Exodus*, London, 1864, p. 52.
 
-<span id="fn_58"></span>[85:14](cab07.htm#fr_58) On the interpretation
+<span id="fn_58"></span>[85:14](cab07.htm#fr_58.md) On the interpretation
 of the scriptures among the Jews in general, see my article *s.v.*
 Scripture, Interpretation of, Jewish," in McClintock and Strong.
 
-<span id="fn_59"></span>[85:15](cab07.htm#fr_59) The word is not like
+<span id="fn_59"></span>[85:15](cab07.htm#fr_59.md) The word is not like
 γεωμετρία, as Levy, *Neuhebr*. *Wörterbuch*, I, 324, thinks, but is
 derived from γραμματεία or γράμμα.
 
-<span id="fn_60"></span>[86:16](cab07.htm#fr_60) For a somewhat
+<span id="fn_60"></span>[86:16](cab07.htm#fr_60.md) For a somewhat
 different mode compare *The Open Court*, Feb. 1909, p. 88.
 
-<span id="fn_61"></span>[87:17](cab07.htm#fr_61) ‏בראשית‎
+<span id="fn_61"></span>[87:17](cab07.htm#fr_61.md) ‏בראשית‎
 
-<span id="fn_62"></span>[87:18](cab07.htm#fr_62) ‏פסים‎
+<span id="fn_62"></span>[87:18](cab07.htm#fr_62.md) ‏פסים‎
 
-<span id="fn_63"></span>[87:19](cab07.htm#fr_63) ‏פ‎ = Potiphar, ‏ס‎ =
+<span id="fn_63"></span>[87:19](cab07.htm#fr_63.md) ‏פ‎ = Potiphar, ‏ס‎ =
 Sochrim (merchants), ‏י‎ = Ishmaelites, ‏ם‎ = Midianites.
 
-<span id="fn_64"></span>[87:20](cab07.htm#fr_64) Ἰησοῦς Χριστός, Θεοῦ
+<span id="fn_64"></span>[87:20](cab07.htm#fr_64.md) Ἰησοῦς Χριστός, Θεοῦ
 Υἱός, Σωτὴρ.
 
-<span id="fn_65"></span>[88:21](cab07.htm#fr_65) ἰχθύς.
+<span id="fn_65"></span>[88:21](cab07.htm#fr_65.md) ἰχθύς.
 
-<span id="fn_66"></span>[88:22](cab07.htm#fr_66) English translation by
+<span id="fn_66"></span>[88:22](cab07.htm#fr_66.md) English translation by
 M. Dodd, *City of God*, Edinburgh, 1871, where the Greek letters at the
 beginning of the lines are retained.
 
-<span id="fn_67"></span>[88:23](cab07.htm#fr_67) σταυρός.
+<span id="fn_67"></span>[88:23](cab07.htm#fr_67.md) σταυρός.
 
-<span id="fn_68"></span>[92:24](cab07.htm#fr_68) Hottinger possessed an
+<span id="fn_68"></span>[92:24](cab07.htm#fr_68.md) Hottinger possessed an
 entire Pentateuch explained on the principle of Athbash.
 
-<span id="fn_69"></span>[93:25](cab07.htm#fr_69) Compare what we stated
+<span id="fn_69"></span>[93:25](cab07.htm#fr_69.md) Compare what we stated
 above in connection with Abulafia.
 
-<span id="fn_70"></span>[94:26](cab07.htm#fr_70) A somewhat different
+<span id="fn_70"></span>[94:26](cab07.htm#fr_70.md) A somewhat different
 view on the cabalistic treatment of scripture is given by the late
 Jewish scholar Zunz (died 1886) in his *Gottesdienstliche Vorträge*
 (Berlin, 1832), p. 403: For the passage in English see my article
@@ -791,4 +791,4 @@ Jewish scholar Zunz (died 1886) in his *Gottesdienstliche Vorträge*
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. The Cabala in Relation to Judaism and
-Christianity](cab08)
+Christianity](cab08.md)

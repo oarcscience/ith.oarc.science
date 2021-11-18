@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe055)  [Next](prwe057) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe055)  [Next](prwe057.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ Worcestershire." By Jabez Allies.
 
 ------------------------------------------------------------------------
 
-[Next: Chaney's Hounds](prwe057)
+[Next: Chaney's Hounds](prwe057.md)

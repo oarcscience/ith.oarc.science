@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom01)  [Next](yom03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom01)  [Next](yom03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -71,16 +71,16 @@ rendering the various tracts readily understood, even by one who is not
 a student.
 
 Three years ago, when I made up my mind to begin this work, I scarcely
-dared hope that thirteen <span id="fr_0"></span>[1](#fn_0) tracts of the
+dared hope that thirteen <span id="fr_0"></span>[1](#fn_0.md) tracts of the
 most difficult part of the Talmud would be translated, more especially
 that seven of them, the most voluminous, would be published in the
 course of two years. Notwithstanding all the obstacles that were laid in
 my way by personal enemies, and notwithstanding all the financial
-difficulties <span id="fr_1"></span>[2](#fn_1) which I had to surmount,
+difficulties <span id="fr_1"></span>[2](#fn_1.md) which I had to surmount,
 I have succeeded in accomplishing the work mentioned above, chiefly
 through the aid of the few gentlemen who have encouraged me by enlisting
 their sympathy and interest in my work, and who also supported me
-financially, <span id="fr_2"></span>[3](#fn_2) not as a matter of
+financially, <span id="fr_2"></span>[3](#fn_2.md) not as a matter of
 charity, but
 
 <span id="page_viii">p. viii</span>
@@ -123,7 +123,7 @@ the past year.
 | Cowen, Newman                                                                                                                               | 20 Volumes. |
 | Hirsch, Baroness Clara de                                                                                                                   | 30          |
 | Lewisohn, Leonard                                                                                                                           | 20          |
-| Rothschild, Baron Edmond de (through the Grand Rabbin de France, Zadoc Kahn, <span id="fr_3"></span>[1](#fn_3) who is himself a subscriber) | 25          |
+| Rothschild, Baron Edmond de (through the Grand Rabbin de France, Zadoc Kahn, <span id="fr_3"></span>[1](#fn_3) who is himself a subscriber.md) | 25          |
 | Seligman, Prof. Edwin R. A. \* +                                                                                                            | 20          |
 | Sulzberger, Judge Mayer                                                                                                                     | 24          |
 
@@ -190,13 +190,13 @@ MICHAEL L. RODKINSON.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](yom02.htm#fr_0) The translation of one
+<span id="fn_0"></span>[vii:1](yom02.htm#fr_0.md) The translation of one
 tract of section Jurisprudence is also already completed.
 
-<span id="fn_1"></span>[vii:2](yom02.htm#fr_1) It must be borne in mind
+<span id="fn_1"></span>[vii:2](yom02.htm#fr_1.md) It must be borne in mind
 that the cost of publishing one volume is $700 or more.
 
-<span id="fn_2"></span>[vii:3](yom02.htm#fr_2) In my "History of the
+<span id="fn_2"></span>[vii:3](yom02.htm#fr_2.md) In my "History of the
 Talmud" I take notice of the writers who complain that the Jewish people
 were always opposed to the translation of Jewish lore into foreign
 languages. They, moreover, assert that all the translations of the
@@ -218,9 +218,9 @@ effort of Gentiles. I am proud to say that I am the first who has not
 sought the support of Gentiles, and that all that I have done was
 brought about by my coreligionists.
 
-<span id="fn_3"></span>[viii:1](yom02.htm#fr_3) ‏חמרא למריה טיבותא
+<span id="fn_3"></span>[viii:1](yom02.htm#fr_3.md) ‏חמרא למריה טיבותא
 לשקיה‎
 
 ------------------------------------------------------------------------
 
-[Next: Contents](yom03)
+[Next: Contents](yom03.md)

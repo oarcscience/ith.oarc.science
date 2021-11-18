@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai17)  [Next](jai19) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai17)  [Next](jai19.md) 
 
 ------------------------------------------------------------------------
 
@@ -331,4 +331,4 @@ national peril.
 
 ------------------------------------------------------------------------
 
-[Next: Survivals](jai19)
+[Next: Survivals](jai19.md)

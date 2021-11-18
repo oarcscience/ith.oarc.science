@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mind20)  [Next](mind22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mind20)  [Next](mind22.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *At the Back of the Black Man's Mind*, by Richard Edward Dennett,
 \[1906\], at Intangible Textual Heritage
 
@@ -662,6 +662,6 @@ But the Bini do not respect their AWA as the BAVILI do their XINA.
 ------------------------------------------------------------------------
 
 [Next: Chapter 22. The Philosophy at the Back of the Black Man's Mind in
-Table Form](mind22)
+Table Form](mind22.md)
 
 </div>

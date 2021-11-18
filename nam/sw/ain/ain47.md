@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain46.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ that like most bottomless pools of story it was very shallow indeed.
 It was nearly dry.
 
 Its name of Blackwater has been given to the nearby
-[surrounding](errata.htm#40) district.
+[surrounding](errata.htm#40.md) district.
 
 This was the only trace of the common Indian superstition of water
 monsters I found among the Pimas.

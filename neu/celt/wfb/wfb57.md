@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb56)  [Next](wfb58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb56)  [Next](wfb58.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ the performers fell down, panting and exhausted after their exertions.
 
 ------------------------------------------------------------------------
 
-[Next: Envy Burns Itself](wfb58)
+[Next: Envy Burns Itself](wfb58.md)

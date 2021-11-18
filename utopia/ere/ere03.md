@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere02)  [Next](ere04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere02)  [Next](ere04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ A second article on the same subject as the one just referred to
 appeared in the Press shortly after the first, but I have no copy. It
 treated Machines from a different point of view, and was the basis of
 pp. 270-274 of the present edition of "Erewhon."  <span
-id="fr_0"></span>[1](#fn_0) This view ultimately led me to the theory I
+id="fr_0"></span>[1](#fn_0.md) This view ultimately led me to the theory I
 put forward in "Life and Habit," published in November 1877. I have put
 a bare outline of this theory (which I believe to be quite sound) into
 the mouth of an Erewhonian philosopher in Chapter XXVII. of this book.
@@ -141,9 +141,9 @@ August 7, 1901
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](ere03.htm#fr_0) The last part of Chapter
+<span id="fn_0"></span>[1](ere03.htm#fr_0.md) The last part of Chapter
 XXIII in this eText.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Waste Lands](ere04)
+[Next: Chapter I: Waste Lands](ere04.md)

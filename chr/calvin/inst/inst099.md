@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst098)  [Next](inst100) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst098)  [Next](inst100.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,9 +199,9 @@ which could never receive this assurance from men. A sacrament ought to
 be a testimony of the good-will of God toward us. Of this no man or
 angel can be witness, since God has no counsellor (<span
 id="iv.iv.xx-p42.1"></span>[Isa.
-40:13](../../../bib/kjv/isa040.htm#013)<span
+40:13](../../../bib/kjv/isa040.htm#013.md)<span
 id="iv.iv.xx-p42.1"></span>; <span id="iv.iv.xx-p42.2"></span>[Rom.
-11:34](../../../bib/kjv/rom011.htm#034)<span
+11:34](../../../bib/kjv/rom011.htm#034.md)<span
 id="iv.iv.xx-p42.2"></span>). He himself alone, with legitimate
 authority, testifies of himself to us by his word. A sacrament is a seal
 of attestation or promise of God. Now, it could not be sealed by
@@ -215,11 +215,11 @@ useful to keep up some distinction between sacraments and other
 ceremonies, if we would not fall into many absurdities. The apostles
 prayed on their bended knees; therefore our knees may not be bent
 without a sacrament (<span id="iv.iv.xx-p42.3"></span>[Acts
-9:20](../../../bib/kjv/act009.htm#020)<span id="iv.iv.xx-p42.3"></span>;
+9:20](../../../bib/kjv/act009.htm#020.md)<span id="iv.iv.xx-p42.3"></span>;
 20:36). The disciples are said to have prayed toward the east; thus
 looking at the east is a sacrament. Paul would have men in every place
 to lift up pure hands (<span id="iv.iv.xx-p42.4"></span>[1 Tim.
-2:8](../../../bib/kjv/ti1002.htm#008)<span id="iv.iv.xx-p42.4"></span>);
+2:8](../../../bib/kjv/ti1002.htm#008)<span id="iv.iv.xx-p42.4"></span>.md);
 and it is repeatedly stated that the saints prayed with uplifted hands,
 let the outstretching, therefore, of hands also become a sacrament; in
 short, let all the gestures of saints pass into sacraments, though I
@@ -255,7 +255,7 @@ he would have omitted it if it had then been established in the Church,
 especially seeing he is otherwise more curious in observing numbers than
 might be necessary? Nay, when he makes mention of Baptism and the
 Supper, and is silent as to others,63  <span
-id="fr_659"></span>[660](#fn_659) does he not sufficiently intimate that
+id="fr_659"></span>[660](#fn_659.md) does he not sufficiently intimate that
 these two ordinances excel in special dignity, and that other ceremonies
 sink down to an inferior place? Wherefore, I say, that those
 sacramentary doctors are not only unsupported by the word of God, but
@@ -264,7 +264,7 @@ themselves on the pretence that they have this consent. But let us now
 come to particulars.
 
 <span id="iv.iv.xx-p45"></span>OF CONFIRMATION.63  <span
-id="fr_660"></span>[661](#fn_660)
+id="fr_660"></span>[661](#fn_660.md)
 
 <span id="iv.iv.xx-p47"></span>4. It was anciently customary for the
 children of Christians, after they had grown up, to appear before the
@@ -324,7 +324,7 @@ they have no command they cannot excuse their sacrilegious audacity. For
 this reason our Saviour interogated the Pharisees as to the baptism of
 John, “Was it from heaven, or of men?” (<span
 id="iv.iv.xx-p48.1"></span>[Mt.
-21:25](../../../bib/kjv/mat021.htm#025)<span
+21:25](../../../bib/kjv/mat021.htm#025.md)<span
 id="iv.iv.xx-p48.1"></span>). If they had answered, Of men, he held them
 confessed that it was frivolous and vain; if Of heaven, they were forced
 to acknowledge the doctrine of John. Accordingly, not to be too
@@ -337,8 +337,8 @@ example of the apostles, who, they presume, did nothing rashly. In this
 they are right, nor would they be blamed by us if they showed themselves
 to be imitators of the apostles. But what did the apostles do? Luke
 narrates (<span id="iv.iv.xx-p49.1"></span>[Acts
-8:15](../../../bib/kjv/act008.htm#015),
-[17](../../../bib/kjv/act008.htm#017)<span id="iv.iv.xx-p49.1"></span>),
+8:15](../../../bib/kjv/act008.htm#015.md),
+[17](../../../bib/kjv/act008.htm#017)<span id="iv.iv.xx-p49.1"></span>.md),
 that the apostles who were at Jerusalem, when they heard that Samaria
 had received the word of God, sent thither Peter and John, that Peter
 and John prayed for the Samaritans, that they might receive the Holy
@@ -361,7 +361,7 @@ Spirit is still present with the people of God; without his guidance and
 direction the Church of God cannot subsist. For we have a promise of
 perpetual duration, by which Christ invites the thirsty to come to him,
 that they may drink living water (<span id="iv.iv.xx-p49.2"></span>[John
-7:37](../../../bib/kjv/joh007.htm#037)<span
+7:37](../../../bib/kjv/joh007.htm#037.md)<span
 id="iv.iv.xx-p49.2"></span>). But those miraculous powers and manifest
 operations, which were distributed by the laying on of hands, have
 ceased. They were only for a time. For it was right that the new
@@ -379,7 +379,7 @@ apostles, but altogether to a different end?
 <span id="iv.iv.xx-p50"></span>7. The same account is to be given were
 any one to insist that the breathing of our Lord upon his disciples
 (<span id="iv.iv.xx-p50.1"></span>[John
-20:22](../../../bib/kjv/joh020.htm#022)<span
+20:22](../../../bib/kjv/joh020.htm#022.md)<span
 id="iv.iv.xx-p50.1"></span>) is a sacrament by which the Holy Spirit is
 conferred. But the Lord did this once for all, and did not also wish us
 to do it. In the same way, also, the apostles laid their hands,
@@ -389,7 +389,7 @@ that posterity might, as those apes do, mimic the empty and useless sign
 without the reality. But if they prove that they imitate the apostles in
 the laying on of hands (though in this they have no resemblance to the
 apostles, except it be in manifesting some absurd false zeal),63  <span
-id="fr_661"></span>[662](#fn_661) where did they get their oil which
+id="fr_661"></span>[662](#fn_661.md) where did they get their oil which
 they call the oil of salvation? Who taught them to seek salvation in
 oil? Who taught them to attribute to it the power of strengthening? Was
 it Paul, who draws us far away from the elements of this world, and
@@ -426,18 +426,18 @@ and death of Christ, Paul interprets to mean the mortification of our
 flesh, and the quickening of the Spirit, our old man being crucified in
 order that we may walk in newness of life (<span
 id="iv.iv.xx-p52.1"></span>[Rom
-6:6](../../../bib/kjv/rom006.htm#006)<span id="iv.iv.xx-p52.1"></span>).
+6:6](../../../bib/kjv/rom006.htm#006)<span id="iv.iv.xx-p52.1"></span>.md).
 What is it to be equipped for contest, if this is not? But if they
 deemed it as nothing to trample on the word of God, why did they not at
 least reverence the Church, to which they would be thought to be in
 everything so obedient? What heavier charge can be brought against their
 doctrine than the decree of the Council of Melita?63  <span
-id="fr_662"></span>[663](#fn_662) “Let him who says that baptism is
+id="fr_662"></span>[663](#fn_662.md) “Let him who says that baptism is
 given for the remission of sins only, and not in aid of future grace, be
 anathema.” When Luke, in the passage which we have quoted, says, that
 the Samaritans were only “baptised in the name of the Lord Jesus” (<span
 id="iv.iv.xx-p53.1"></span>[Acts
-8:16](../../../bib/kjv/act008.htm#016)<span
+8:16](../../../bib/kjv/act008.htm#016.md)<span
 id="iv.iv.xx-p53.1"></span>), but had not received the Holy Spirit, he
 does not say absolutely that those who believed in Christ with the
 heart, and confessed him with the mouth, were not endued with any gift
@@ -445,11 +445,11 @@ of the Spirit. He means that receiving of the Spirit by which miraculous
 power and visible graces were received. Thus the apostles are said to
 have received the Spirit on the day of Pentecost (<span
 id="iv.iv.xx-p53.2"></span>[Acts
-2:4](../../../bib/kjv/act002.htm#004)<span id="iv.iv.xx-p53.2"></span>),
+2:4](../../../bib/kjv/act002.htm#004)<span id="iv.iv.xx-p53.2"></span>.md),
 whereas Christ had long before said to them, “It is not ye that speak,
 but the Spirit of your Father which speaketh in you” (<span
 id="iv.iv.xx-p53.3"></span>[Mt.
-10:20](../../../bib/kjv/mat010.htm#020)<span
+10:20](../../../bib/kjv/mat010.htm#020.md)<span
 id="iv.iv.xx-p53.3"></span>). Ye who are of God see the malignant and
 pestiferous wile of Satan. What was truly given in baptism, is falsely
 said to be given in the confirmation of it, that he may stealthily lead
@@ -459,7 +459,7 @@ transfers them elsewhere, is a doctrine of Satan? We have discovered on
 what foundation this famous unction rests. The word of God says, that as
 many as have been baptised into Christ, have put on Christ with his
 gifts (<span id="iv.iv.xx-p53.4"></span>[Gal.
-3:27](../../../bib/kjv/gal003.htm#027)<span
+3:27](../../../bib/kjv/gal003.htm#027.md)<span
 id="iv.iv.xx-p53.4"></span>). The word of the anointers says that they
 received no promise in baptism to equip them for contest (De Consecr.
 Dist. 5, cap. Spir. Sanct). The former is the word of truth, the latter
@@ -476,7 +476,7 @@ ought, after baptism, to receive the Holy Spirit by the laying on of
 hands, that they may become complete Christians, inasmuch as there never
 can be a Christian who has not been *chrismed* by episcopal
 confirmation. These are their exact words.63  <span
-id="fr_663"></span>[664](#fn_663) I thought that everything pertaining
+id="fr_663"></span>[664](#fn_663.md) I thought that everything pertaining
 to Christianity was prescribed and contained in Scripture. Now I see
 that the true form of religion must be sought and learned elsewhere than
 in Scripture. Divine wisdom, heavenly truth, the whole doctrine of
@@ -532,7 +532,7 @@ seizes them, and they suddenly elect them bishops. Lastly, Ananias was
 not an apostle, and yet Paul was sent to him to receive his sight, to be
 baptised and filled with the Holy Spirit (<span
 id="iv.iv.xx-p56.1"></span>[Acts
-9:17](../../../bib/kjv/act009.htm#017)<span
+9:17](../../../bib/kjv/act009.htm#017.md)<span
 id="iv.iv.xx-p56.1"></span>). I will add, though cumulatively, if, by
 divine right, this office was peculiar to bishops, why have they dared
 to transfer it to plebeian Presbyters, as we read in one of the Epistles
@@ -686,7 +686,7 @@ found that it is not an external ceremony appointed by God for the
 confirmation of our faith. But if they allege that my definition is not
 a law which they are necessarily bound to obey, let them hear Augustine,
 whom they pretend to regard as a saint.63  <span
-id="fr_664"></span>[665](#fn_664) “Visible sacraments were instituted
+id="fr_664"></span>[665](#fn_664.md) “Visible sacraments were instituted
 for the sake of carnal men, that by the ladder of sacraments they may be
 conveyed from those things which are seen by the eye, to those which are
 perceived by the understanding” (August. Quæst. Vet. Test. Lib. 3). Do
@@ -717,7 +717,7 @@ meant by their dogma. How much it is at variance with the truth of God,
 we showed when we formally discussed that subject. Here I only wish to
 show that no scruple should prevent them from giving the name of a
 sacrament to the absolution of the priest. For they might have answered
-by the mouth of Augustine,63  <span id="fr_665"></span>[666](#fn_665)
+by the mouth of Augustine,63  <span id="fr_665"></span>[666](#fn_665.md)
 that there is a sanctification without a visible sacrament, and a
 visible sacrament without internal sanctification. Again, that in the
 elect alone sacraments effect what they figure. Again, that some put on
@@ -732,7 +732,7 @@ every man.
 whatever be the part in which they place the sacrament, I deny that it
 can justly be regarded as a sacrament; first, because there exists not
 to this effect any special promise of God, which is the only ground of a
-sacrament;63  <span id="fr_666"></span>[667](#fn_666) and, secondly,
+sacrament;63  <span id="fr_666"></span>[667](#fn_666.md) and, secondly,
 because whatever ceremony is here used is a mere invention of man;
 whereas, as has already been shown, the ceremonies of sacraments can
 only be appointed by God. Their fiction of the sacrament of penance,
@@ -740,7 +740,7 @@ therefore, was falsehood and imposture. This fictitious sacrament they
 adorned with the befitting eulogium, that it was the second plank in the
 case of shipwreck, because if any one had, by sin, injured the garment
 of innocence received in baptism, he might repair it by penitence.64
- <span id="fr_667"></span>[668](#fn_667) This was a saying of Jerome.
+ <span id="fr_667"></span>[668](#fn_667.md) This was a saying of Jerome.
 Let it be whose it may, as it is plainly impious, it cannot be excused
 if understood in this sense; as if baptism were effaced by sin, and were
 not rather to be recalled to the mind of the sinner whenever he thinks
@@ -761,9 +761,9 @@ of faith and repentance*. But why have recourse to doubtful writings, as
 if anything can be required more distinct than the statement of the
 Evangelist, that John preached “the baptism of repentance for the
 remission of sins”? (<span id="iv.iv.xx-p68.1"></span>[Mark
-1:4](../../../bib/kjv/mar001.htm#004)<span id="iv.iv.xx-p68.1"></span>;
+1:4](../../../bib/kjv/mar001.htm#004.md)<span id="iv.iv.xx-p68.1"></span>;
 <span id="iv.iv.xx-p68.2"></span>[Luke
-3:3](../../../bib/kjv/luk003.htm#003)<span id="iv.iv.xx-p68.2"></span>).
+3:3](../../../bib/kjv/luk003.htm#003)<span id="iv.iv.xx-p68.2"></span>.md).
 
 <span id="iv.iv.xx-p69"></span>OF EXTREME UNCTION, SO CALLED.
 
@@ -782,7 +782,7 @@ him, anointing him with oil in the name of the Lord; and the prayer of
 faith shall save the sick, and the Lord shall raise him up: and if he
 have committed sins, they shall be forgiven him” (<span
 id="iv.iv.xx-p70.1"></span>[James
-5:14](../../../bib/kjv/jam005.htm#014)<span
+5:14](../../../bib/kjv/jam005.htm#014.md)<span
 id="iv.iv.xx-p70.1"></span>). The same account is here to be given of
 this unction as we lately gave of the laying on of hands; in other
 words, it is mere hypocritical stage-play, by which, without reason or
@@ -792,12 +792,12 @@ had received of the Lord, raised the dead, cast out devils, cleansed
 lepers, healed the sick, and, in healing, used oil. He says, they
 “anointed with oil many that were sick, and healed them” (<span
 id="iv.iv.xx-p70.2"></span>[Mark
-6:13](../../../bib/kjv/mar006.htm#013)<span
+6:13](../../../bib/kjv/mar006.htm#013.md)<span
 id="iv.iv.xx-p70.2"></span>). To this James referred when he ordered the
 presbyters of the Church to be called to anoint the sick. That no deeper
 mystery lay under this ceremony will easily be perceived by those who
 consider how great liberty both our Lord and his apostles used in those
-external things.64  <span id="fr_668"></span>[669](#fn_668) Our Lord,
+external things.64  <span id="fr_668"></span>[669](#fn_668.md) Our Lord,
 when about to give sight to the blind man, spat on the ground, and made
 clay of the spittle; some he cured by a touch, others by a word. In like
 manner the apostles cured some diseases by word only, others by touch,
@@ -808,7 +808,7 @@ ignorant whence this great virtue proceeded, and prevent them from
 ascribing the praise to the apostles. To designate the Holy Spirit and
 his gifts by oil is trite and common (<span
 id="iv.iv.xx-p71.5"></span>[Ps.
-45:8](../../../bib/kjv/psa045.htm#008)<span
+45:8](../../../bib/kjv/psa045.htm#008.md)<span
 id="iv.iv.xx-p71.5"></span>). But the gift of hearing disappeared with
 the other miraculous powers which the Lord was pleased to give for a
 time, that it might render the new preaching of the gospel for ever
@@ -855,7 +855,7 @@ nor has any promise. For when we require, in a sacrament, these two
 things, that it be a ceremony appointed by God, and have a promise from
 God, we at the same time demand that that ceremony be delivered to us,
 and that that promise have reference to us.  <span
-id="fr_669"></span>[670](#fn_669) No man contends that circumcision is
+id="fr_669"></span>[670](#fn_669.md) No man contends that circumcision is
 now a sacrament of the Christian Church, although it was both an
 ordinance of God, and had his promise annexed to it, because it was
 neither commanded to us, nor was the promise annexed to it given us on
@@ -900,7 +900,7 @@ all difficulty; for they relate that Pope Innocent, who presided over
 the church of Rome in the age of Augustine, ordained, that not elders
 only, but all Christians, should use oil in anointing, in their own
 necessity, or in that of their friends.64  <span
-id="fr_670"></span>[671](#fn_670) Our authority for this is Sigebert, in
+id="fr_670"></span>[671](#fn_670.md) Our authority for this is Sigebert, in
 his Chronicles.
 
 <span id="iv.iv.xx-p77"></span>OF ECCLESIASTICAL ORDERS.
@@ -934,14 +934,14 @@ that passage. For, in other passages are mentioned the spirit of life,
 of sanctification, of the adoption of sons, as well as there, the spirit
 of wisdom and understanding, the spirit of counsel and might, the spirit
 of knowledge, and of the fear of the Lord.64  <span
-id="fr_671"></span>[672](#fn_671) Although others who are more acute
+id="fr_671"></span>[672](#fn_671.md) Although others who are more acute
 make not seven orders, but nine, in imitation, as they say, of the
 Church triumphant. But among these, also, there is a contest; because
 some insist that the clerical tonsure is the first order of all, and the
 episcopate the last; while others, excluding the tonsure, class the
 office of archbishop among the orders. Isiodorus distinguishes
 differently, for he makes Psalmists and Readers different.64  <span
-id="fr_672"></span>[673](#fn_672) To the former, he gives the charge of
+id="fr_672"></span>[673](#fn_672.md) To the former, he gives the charge of
 chanting; to the latter, that of reading the Scriptures for the
 instruction of the common people. And this distinction is observed by
 the canons. In this great variety, what would they have us to follow or
@@ -954,7 +954,7 @@ God.
 
 <span id="iv.iv.xx-p81"></span>23. But the crowning folly of all is,
 that in each of these they make Christ their colleague. First, they
-say64  <span id="fr_673"></span>[674](#fn_673) he performed the office
+say64  <span id="fr_673"></span>[674](#fn_673.md) he performed the office
 of Doorkeeper when, with a whip of small cords, he drove the buyers and
 sellers from the temple. He intimates that he is a Doorkeeper when he
 says, “I am the door.” He assumed the office of Reader, when he read
@@ -1001,7 +1001,7 @@ only from consecrated lips, she delegates to children. And to what end,
 pray, do they consecrate exorcists? I hear that the Jews had their
 exorcists, but I see they were so called from the exorcisms which they
 practised (<span id="iv.iv.xx-p83.1"></span>[Acts
-19:13](../../../bib/kjv/act019.htm#013)<span
+19:13](../../../bib/kjv/act019.htm#013.md)<span
 id="iv.iv.xx-p83.1"></span>). Who ever heard of those fictitious
 exorcists having given one specimen of their profession? It is pretended
 that power has been given them to lay their hands on energumens,
@@ -1024,7 +1024,7 @@ because clergy ought to be kings in governing themselves and others.
 Peter thus speaks of them: “Ye are a chosen generation, a royal
 priesthood, a holy nation, a peculiar people” (<span
 id="iv.iv.xx-p84.1"></span>[1 Pet.
-2:9](../../../bib/kjv/pe1002.htm#009)<span id="iv.iv.xx-p84.1"></span>).
+2:9](../../../bib/kjv/pe1002.htm#009)<span id="iv.iv.xx-p84.1"></span>.md).
 But it was sacrilege in them to arrogate to themselves alone what is
 given to the whole Church, and proudly to glory in a title of which they
 had robbed the faithful. Peter addresses the whole Church: these men
@@ -1057,7 +1057,7 @@ that they might be purified, they betray their gross ignorance. For we
 nowhere read this of Priscilla, while, with regard to Aquila, it is
 uncertain, since that tonsure may refer equally well to Paul as to
 Aquila (<span id="iv.iv.xx-p85.1"></span>[Acts
-18:18](../../../bib/kjv/act018.htm#018)<span
+18:18](../../../bib/kjv/act018.htm#018.md)<span
 id="iv.iv.xx-p85.1"></span>). But not to leave them in possession of
 what they ask—viz. that they have an example in Paul, it is to be
 observed, to the more simple, that Paul never shaved his head for any
@@ -1066,12 +1066,12 @@ Vows of this kind I am accustomed to call vows of charity, not of piety;
 in other words, vows not undertaken for divine worship, but only in
 deference to the infirmity of the weak, as he himself says, that to the
 Jews he became a Jew (<span id="iv.iv.xx-p85.2"></span>[1 Cor.
-9:20](../../../bib/kjv/co1009.htm#020)<span
+9:20](../../../bib/kjv/co1009.htm#020.md)<span
 id="iv.iv.xx-p85.2"></span>). This, therefore, he did, and that once and
 for a short time, that he might accommodate himself for a little to the
 Jews. When these men would, for no end, imitate the purifications of the
 Nazarenes (<span id="iv.iv.xx-p85.3"></span>[Num.
-6:18](../../../bib/kjv/num006.htm#018)<span
+6:18](../../../bib/kjv/num006.htm#018.md)<span
 id="iv.iv.xx-p85.3"></span>), what else do they than set up a new, while
 they improperly affect to rival the ancient Judaism? In the same spirit
 the Decretal Epistle was composed, which enjoins the clergy, after the
@@ -1090,7 +1090,7 @@ enjoined either to cut or shave their hair, that they might not have the
 appearance of effeminate indulgence. And so common was the practice,
 that some monks, to appear more sanctimonious than others by a notable
 difference in dress, let their locks hang loose.64  <span
-id="fr_674"></span>[675](#fn_674) But when hair returned to use, and
+id="fr_674"></span>[675](#fn_674.md) But when hair returned to use, and
 some nations, which had always worn long hair, as France, Germany, and
 England, embraced Christianity, it is probable that the clergy
 everywhere shaved the head, that they might not seem to affect ornament.
@@ -1136,9 +1136,9 @@ are injurious to Christ who call themselves priests in the sense of
 offering expiatory victims. He was constituted and consecrated Priest by
 the Father, with an oath, after the order of Melchisedek, without end
 and without successor (<span id="iv.iv.xx-p88.1"></span>[Psalm
-110:4](../../../bib/kjv/psa110.htm#004)<span
+110:4](../../../bib/kjv/psa110.htm#004.md)<span
 id="iv.iv.xx-p88.1"></span>; <span id="iv.iv.xx-p88.2"></span>[Heb.
-5:6](../../../bib/kjv/heb005.htm#006)<span id="iv.iv.xx-p88.2"></span>;
+5:6](../../../bib/kjv/heb005.htm#006.md)<span id="iv.iv.xx-p88.2"></span>;
 7:3). He once offered a victim of eternal expiation and reconciliation,
 and now also having entered the sanctuary of heaven, he intercedes for
 us. In him we all are priests, but to offer praise and thanksgiving, in
@@ -1152,7 +1152,7 @@ willingly give it that place. For in it there is a ceremony which,
 first, is taken from the Scriptures; and, secondly, is declared by Paul
 to be not empty or superfluous, but to be a faithful symbol of spiritual
 grace (<span id="iv.iv.xx-p88.3"></span>[1 Tim.
-4:14](../../../bib/kjv/ti1004.htm#014)<span
+4:14](../../../bib/kjv/ti1004.htm#014.md)<span
 id="iv.iv.xx-p88.3"></span>). My reason for not giving a place to the
 third is, because it is not ordinary or common to all believers, but is
 a special rite for a certain function. But while this honour is
@@ -1163,17 +1163,17 @@ his command was to preach the gospel and feed the flock, not to immolate
 victims. He promised the gift of the Holy Spirit, not to make expiation
 for sins, but duly to undertake and maintain the government of the
 Church (<span id="iv.iv.xx-p88.4"></span>[Matt.
-28:19](../../../bib/kjv/mat028.htm#019)<span
+28:19](../../../bib/kjv/mat028.htm#019.md)<span
 id="iv.iv.xx-p88.4"></span>; <span id="iv.iv.xx-p88.5"></span>[Mark
-16:15](../../../bib/kjv/mar016.htm#015)<span
+16:15](../../../bib/kjv/mar016.htm#015.md)<span
 id="iv.iv.xx-p88.5"></span>; <span id="iv.iv.xx-p88.6"></span>[John
-21:15](../../../bib/kjv/joh021.htm#015)<span
+21:15](../../../bib/kjv/joh021.htm#015.md)<span
 id="iv.iv.xx-p88.6"></span>).
 
 <span id="iv.iv.xx-p89"></span>29. With the reality the ceremonies
 perfectly agree. When our Lord commissioned the apostles to preach the
 gospel, he breathed upon them (<span id="iv.iv.xx-p89.1"></span>[John
-20:22](../../../bib/kjv/joh020.htm#022)<span
+20:22](../../../bib/kjv/joh020.htm#022.md)<span
 id="iv.iv.xx-p89.1"></span>). By this symbol he represented the gift of
 the Holy Spirit which he bestowed upon them. This breathing these worthy
 men have retained; and, as they were bringing the Holy Spirit from their
@@ -1185,13 +1185,13 @@ observe, say they, the example of the Lord. But the Lord did many things
 which he did not intend to be examples to us. Our Lord said to his
 disciples, “Receive the Holy Spirit” (<span
 id="iv.iv.xx-p89.2"></span>[John
-20:22](../../../bib/kjv/joh020.htm#022)<span
+20:22](../../../bib/kjv/joh020.htm#022.md)<span
 id="iv.iv.xx-p89.2"></span>). He said also to Lazarus, “Lazarus, come
 forth” (<span id="iv.iv.xx-p89.3"></span>[John
-11:43](../../../bib/kjv/joh011.htm#043)<span
+11:43](../../../bib/kjv/joh011.htm#043.md)<span
 id="iv.iv.xx-p89.3"></span>). He said to the paralytic, “Rise, take up
 thy bed, and walk” (<span id="iv.iv.xx-p89.4"></span>[John
-5:8](../../../bib/kjv/joh005.htm#008)<span id="iv.iv.xx-p89.4"></span>).
+5:8](../../../bib/kjv/joh005.htm#008)<span id="iv.iv.xx-p89.4"></span>.md).
 Why do they not say the same to all the dead and paralytic? He gave a
 specimen of his divine power when, in breathing on the apostles, he
 filled them with the gift of the Holy Spirit. If they attempt to do the
@@ -1238,7 +1238,7 @@ from the water, there will be nothing but water, but that it is owing to
 the word that it is a sacrament? What word can they show in their oil?
 Is it because Moses was commanded to anoint the sons of Aaron? (<span
 id="iv.iv.xx-p91.1"></span>[Exod.
-30:30](../../../bib/kjv/exo030.htm#030)<span
+30:30](../../../bib/kjv/exo030.htm#030.md)<span
 id="iv.iv.xx-p91.1"></span>). But he there receives command concerning
 the tunic, the ephod, the breastplate, the mitre, the crown of holiness
 with which Aaron was to be adorned; and concerning the tunics, belts,
@@ -1331,40 +1331,40 @@ mark. If they mean merely a sign because it has been employed as a
 similitude, I will show how acutely they reason. Paul says, “One star
 differeth from another star in glory. So also is the resurrection of the
 dead” (<span id="iv.iv.xx-p95.1"></span>[1 Cor.
-15:41](../../../bib/kjv/co1015.htm#041),
-[42](../../../bib/kjv/co1015.htm#042)<span id="iv.iv.xx-p95.1"></span>).
+15:41](../../../bib/kjv/co1015.htm#041.md),
+[42](../../../bib/kjv/co1015.htm#042)<span id="iv.iv.xx-p95.1"></span>.md).
 Here is one sacrament. Christ says, “The kingdom of heaven is like to a
 grain of mustard-seed” (<span id="iv.iv.xx-p95.2"></span>[Mt.
-13:31](../../../bib/kjv/mat013.htm#031)<span
+13:31](../../../bib/kjv/mat013.htm#031.md)<span
 id="iv.iv.xx-p95.2"></span>). Here is another sacrament. Again, “The
 kingdom of heaven is like unto leaven” (<span
 id="iv.iv.xx-p95.3"></span>[Mt.
-13:33](../../../bib/kjv/mat013.htm#033)<span
+13:33](../../../bib/kjv/mat013.htm#033.md)<span
 id="iv.iv.xx-p95.3"></span>). Here is a third sacrament. Isaiah says,
 “He shall feed his flock like a shepherd” (<span
 id="iv.iv.xx-p95.4"></span>[Isaiah
-40:11](../../../bib/kjv/isa040.htm#011)<span
+40:11](../../../bib/kjv/isa040.htm#011.md)<span
 id="iv.iv.xx-p95.4"></span>). Here is a fourth sacrament. In another
 passage he says, “The Lord shall go forth as a mighty man” (<span
 id="iv.iv.xx-p95.5"></span>[Isaiah
-42:13](../../../bib/kjv/isa042.htm#013)<span
+42:13](../../../bib/kjv/isa042.htm#013.md)<span
 id="iv.iv.xx-p95.5"></span>). Here is a fifth sacrament. And where will
 be the end or limit? Everything in this way will be a sacrament. All the
 parables and similitudes in Scripture will be so many sacraments. Nay,
 even theft will be a sacrament, seeing it is written, “The day of the
 Lord so cometh as a thief in the night” (<span
 id="iv.iv.xx-p95.6"></span>[1 Thess.
-5:2](../../../bib/kjv/th1005.htm#002)<span id="iv.iv.xx-p95.6"></span>).
+5:2](../../../bib/kjv/th1005.htm#002)<span id="iv.iv.xx-p95.6"></span>.md).
 Who can tolerate the ignorant garrulity of these sophists? I admit,
 indeed, that whenever we see a vine, the best thing is to call to mind
 what our Saviour says, “I am the true vine, and my father is the
 husbandman.” “ I am the vine, ye are the branches” (<span
-id="iv.iv.xx-p95.7"></span>[John 15:1](../../../bib/kjv/joh015.htm#001),
-[5](../../../bib/kjv/joh015.htm#005)<span id="iv.iv.xx-p95.7"></span>).
+id="iv.iv.xx-p95.7"></span>[John 15:1](../../../bib/kjv/joh015.htm#001.md),
+[5](../../../bib/kjv/joh015.htm#005)<span id="iv.iv.xx-p95.7"></span>.md).
 And whenever we meet a shepherd with his flock, it is good also to
 remember, “I am the good shepherd, and know my sheep, and am known of
 mine” (<span id="iv.iv.xx-p95.8"></span>[John
-10:14](../../../bib/kjv/joh010.htm#014)<span
+10:14](../../../bib/kjv/joh010.htm#014.md)<span
 id="iv.iv.xx-p95.8"></span>). But any man who would class such
 similitudes with sacraments should be sent to bedlam.
 
@@ -1376,8 +1376,8 @@ for we are members of his body, of his flesh, and of his bones. For this
 cause shall a man leave his father and mother, and shall be joined unto
 his wife, and they two shall be one flesh. This is a great mystery: but
 I speak concerning Christ and the Church” (<span
-id="iv.iv.xx-p96.1"></span>[Eph. 5:28](../../../bib/kjv/eph005.htm#028),
-[32](../../../bib/kjv/eph005.htm#032)<span id="iv.iv.xx-p96.1"></span>).
+id="iv.iv.xx-p96.1"></span>[Eph. 5:28](../../../bib/kjv/eph005.htm#028.md),
+[32](../../../bib/kjv/eph005.htm#032)<span id="iv.iv.xx-p96.1"></span>.md).
 To treat Scripture thus is to confound heaven and earth. Paul, in order
 to show husbands how they ought to love their wives, sets Christ before
 them as an example. As he shed his bowels of affection for the Church,
@@ -1389,7 +1389,7 @@ spouse the Church, he applies to her what Moses relates that Adam said
 of himself. For after Eve was brought into his presence, knowing that
 she had been formed out of his side, he exclaimed, “This is now bone of
 my bones, and flesh of my flesh” (<span id="iv.iv.xx-p96.2"></span>[Gen.
-2:23](../../../bib/kjv/gen002.htm#023)<span
+2:23](../../../bib/kjv/gen002.htm#023.md)<span
 id="iv.iv.xx-p96.2"></span>). That all this was spiritually fulfilled in
 Christ, and in us, Paul declares, when he says, that we are members of
 his body, of his flesh, and of his bones, and so one flesh with him. At
@@ -1402,11 +1402,11 @@ might be formed; that is, that when he was strong, he was pleased to
 become weak, that we might be strengthened by his strength, and should
 no longer live ourselves, but he live in us (<span
 id="iv.iv.xx-p96.3"></span>[Gal.
-2:20](../../../bib/kjv/gal002.htm#020)<span
+2:20](../../../bib/kjv/gal002.htm#020.md)<span
 id="iv.iv.xx-p96.3"></span>).
 
 <span id="iv.iv.xx-p97"></span>36. The thing which misled them was the
-term *sacrament*.64  <span id="fr_675"></span>[676](#fn_675) But, was it
+term *sacrament*.64  <span id="fr_675"></span>[676](#fn_675.md) But, was it
 right that the whole Church should be punished for the ignorance of
 these men? Paul called it a mystery. When the Latin interpreter might
 have abandoned this mode of expression as uncommon to Latin ears, or
@@ -1417,13 +1417,13 @@ which leads them most shamefully astray in a matter easy and obvious to
 every one. But why do they so strongly urge the term sacrament in this
 one passage, and in others pass it by with neglect? For both in the
 First Epistle to Timothy (<span id="iv.iv.xx-p98.1"></span>[1 Tim.
-3:9](../../../bib/kjv/ti1003.htm#009),
-[16](../../../bib/kjv/ti1003.htm#016)<span id="iv.iv.xx-p98.1"></span>),
+3:9](../../../bib/kjv/ti1003.htm#009.md),
+[16](../../../bib/kjv/ti1003.htm#016)<span id="iv.iv.xx-p98.1"></span>.md),
 and also in the Epistle to the Ephesians, it is used by the Vulgate
 interpreter, and in every instance, for mystery. Let us, however, pardon
 them this lapsus, though liars ought to have good memories. Marriage
 being thus recommended by the title of a sacrament,64  <span
-id="fr_676"></span>[677](#fn_676) can it be anything but vertiginous
+id="fr_676"></span>[677](#fn_676.md) can it be anything but vertiginous
 levity afterwards to call it uncleanness, and pollution, and carnal
 defilement? How absurd is it to debar priests from a sacrament! If they
 say that they debar not from a sacrament but from carnal connection,
@@ -1468,19 +1468,19 @@ skin.
 
 ### Footnotes
 
-<span id="fn_659"></span>[660](inst099.htm#fr_659) <span
+<span id="fn_659"></span>[660](inst099.htm#fr_659.md) <span
 id="iv.iv.xx-p43.2"></span>
 
 <span id="iv.iv.xx-p44"></span>32 632 Ambros. de iis qui init. Mysteriis
 et de Sacrament.
 
-<span id="fn_660"></span>[661](inst099.htm#fr_660) <span
+<span id="fn_660"></span>[661](inst099.htm#fr_660.md) <span
 id="iv.iv.xx-p45.1"></span>
 
 <span id="iv.iv.xx-p46"></span>33 633 Calv. adv. Concil. Trident.
 Præfat. in Catechis. Latinum. Viret. de Adulter. Sacrament. cap. 2-5.
 
-<span id="fn_661"></span>[662](inst099.htm#fr_661) <span
+<span id="fn_661"></span>[662](inst099.htm#fr_661.md) <span
 id="iv.iv.xx-p50.2"></span>
 
 <span id="iv.iv.xx-p51"></span>34 634 French, “en laquelle toutesfois
@@ -1488,32 +1488,32 @@ ils n’ont rien semblable a eux, sinon une folle et perverse
 singerie”;—in which, however, they have nothing like them but a foolish
 and perverse aping.
 
-<span id="fn_662"></span>[663](inst099.htm#fr_662) <span
+<span id="fn_662"></span>[663](inst099.htm#fr_662.md) <span
 id="iv.iv.xx-p52.2"></span>
 
 <span id="iv.iv.xx-p53"></span>35 635 The French adds, “du ternps de
 Sainct Augustin;” —of the time of St Augustine.
 
-<span id="fn_663"></span>[664](inst099.htm#fr_663) <span
+<span id="fn_663"></span>[664](inst099.htm#fr_663.md) <span
 id="iv.iv.xx-p54.1"></span>
 
 <span id="iv.iv.xx-p55"></span>36 636 De Consecr. Dist. 5, Concil.
 Aurel. cap. Ut Jejuni de Consecr. Dist. 5.
 
-<span id="fn_664"></span>[665](inst099.htm#fr_664) <span
+<span id="fn_664"></span>[665](inst099.htm#fr_664.md) <span
 id="iv.iv.xx-p62.1"></span>
 
 <span id="iv.iv.xx-p63"></span>37 637 French, “Auquel ils font semblant
 de porter une reverence inviolable;”—for whom they pretend to have an
 inviolable respect.
 
-<span id="fn_665"></span>[666](inst099.htm#fr_665) <span
+<span id="fn_665"></span>[666](inst099.htm#fr_665.md) <span
 id="iv.iv.xx-p64.1"></span>
 
 <span id="iv.iv.xx-p65"></span>38 638 August. Quæst. Vet. Test. Lib. 3
 De Bapt. Parvul. De Bapt. Cont. Donat. Lib. 5
 
-<span id="fn_666"></span>[667](inst099.htm#fr_666) <span
+<span id="fn_666"></span>[667](inst099.htm#fr_666.md) <span
 id="iv.iv.xx-p66.1"></span>
 
 <span id="iv.iv.xx-p67"></span>39 639 The French adds, “Car, comme nous
@@ -1531,28 +1531,28 @@ difference; that is to say, that by this promise our Lord does not found
 a special absolution which is given separately to each, but one which is
 given indifferently to all sinners, without particular application.
 
-<span id="fn_667"></span>[668](inst099.htm#fr_667) <span
+<span id="fn_667"></span>[668](inst099.htm#fr_667.md) <span
 id="iv.iv.xx-p67.1"></span>
 
 <span id="iv.iv.xx-p68"></span>40 640 Sent. Lib. 4 Dist. 14, cap. 1. De
 Pœnit. Dist. 1, cap. 2. August. Dictum in Decret. 15. Quæst. 1, Cap.
 Fermissime.
 
-<span id="fn_668"></span>[669](inst099.htm#fr_668) <span
+<span id="fn_668"></span>[669](inst099.htm#fr_668.md) <span
 id="iv.iv.xx-p70.3"></span>
 
 <span id="iv.iv.xx-p71"></span>41 641 <span
 id="iv.iv.xx-p71.1"></span>[John
-9:6](../../../bib/kjv/joh009.htm#006)<span id="iv.iv.xx-p71.1"></span>;
+9:6](../../../bib/kjv/joh009.htm#006.md)<span id="iv.iv.xx-p71.1"></span>;
 <span id="iv.iv.xx-p71.2"></span>[Mt.
-9:29](../../../bib/kjv/mat009.htm#029)<span id="iv.iv.xx-p71.2"></span>;
+9:29](../../../bib/kjv/mat009.htm#029.md)<span id="iv.iv.xx-p71.2"></span>;
 <span id="iv.iv.xx-p71.3"></span>[Luke
-18:42](../../../bib/kjv/luk018.htm#042)<span
+18:42](../../../bib/kjv/luk018.htm#042.md)<span
 id="iv.iv.xx-p71.3"></span>; <span id="iv.iv.xx-p71.4"></span>[Acts
-3:6](../../../bib/kjv/act003.htm#006)<span id="iv.iv.xx-p71.4"></span>;
+3:6](../../../bib/kjv/act003.htm#006.md)<span id="iv.iv.xx-p71.4"></span>;
 5:16; 19:12.
 
-<span id="fn_669"></span>[670](inst099.htm#fr_669) <span
+<span id="fn_669"></span>[670](inst099.htm#fr_669.md) <span
 id="iv.iv.xx-p73.1"></span>
 
 <span id="iv.iv.xx-p74"></span>134 D134 This distinction in no way calls
@@ -1563,49 +1563,49 @@ emphasizing the fact that they are specifically designed for, applicable
 within, and valid for particular historical contexts. Calvin draws the
 obvious inference: some sacraments are not intended for the present age.
 
-<span id="fn_670"></span>[671](inst099.htm#fr_670) <span
+<span id="fn_670"></span>[671](inst099.htm#fr_670.md) <span
 id="iv.iv.xx-p75.1"></span>
 
 <span id="iv.iv.xx-p76"></span>42 642 The French adds, “Comment
 accorderont ils cela avec ce qu’ils veulent faire accroire”?—How will
 they reconcile this with what they wish to be believed?
 
-<span id="fn_671"></span>[672](inst099.htm#fr_671) <span
+<span id="fn_671"></span>[672](inst099.htm#fr_671.md) <span
 id="iv.iv.xx-p78.1"></span>
 
 <span id="iv.iv.xx-p79"></span>43 643 <span
 id="iv.iv.xx-p79.1"></span>[Isa.
-11:2](../../../bib/kjv/isa011.htm#002)<span id="iv.iv.xx-p79.1"></span>;
+11:2](../../../bib/kjv/isa011.htm#002.md)<span id="iv.iv.xx-p79.1"></span>;
 <span id="iv.iv.xx-p79.2"></span>[Ezek.
-1:20](../../../bib/kjv/eze001.htm#020)<span id="iv.iv.xx-p79.2"></span>;
+1:20](../../../bib/kjv/eze001.htm#020.md)<span id="iv.iv.xx-p79.2"></span>;
 <span id="iv.iv.xx-p79.3"></span>[Rom.
-1:4](../../../bib/kjv/rom001.htm#004),
-[8](../../../bib/kjv/rom001.htm#008)<span
+1:4](../../../bib/kjv/rom001.htm#004.md),
+[8](../../../bib/kjv/rom001.htm#008.md)<span
 id="iv.iv.xx-p79.3"></span>:15.
 
-<span id="fn_672"></span>[673](inst099.htm#fr_672) <span
+<span id="fn_672"></span>[673](inst099.htm#fr_672.md) <span
 id="iv.iv.xx-p79.4"></span>
 
 <span id="iv.iv.xx-p80"></span>44 644 Isidor. Lib. 7, Etymolog,
 allegatim, cap. Cleros. Dist. 21, 33, cap. Lector, et cap. Ostier.
 
-<span id="fn_673"></span>[674](inst099.htm#fr_673) <span
+<span id="fn_673"></span>[674](inst099.htm#fr_673.md) <span
 id="iv.iv.xx-p81.1"></span>
 
 <span id="iv.iv.xx-p82"></span>45 645 <span
 id="iv.iv.xx-p82.1"></span>[John
-2:15](../../../bib/kjv/joh002.htm#015)<span id="iv.iv.xx-p82.1"></span>;
+2:15](../../../bib/kjv/joh002.htm#015.md)<span id="iv.iv.xx-p82.1"></span>;
 10:7; <span id="iv.iv.xx-p82.2"></span>[Luke
-4:17](../../../bib/kjv/luk004.htm#017)<span id="iv.iv.xx-p82.2"></span>;
+4:17](../../../bib/kjv/luk004.htm#017.md)<span id="iv.iv.xx-p82.2"></span>;
 <span id="iv.iv.xx-p82.3"></span>[Mt.
-7:33](../../../bib/kjv/mat007.htm#033)<span id="iv.iv.xx-p82.3"></span>;
+7:33](../../../bib/kjv/mat007.htm#033.md)<span id="iv.iv.xx-p82.3"></span>;
 <span id="iv.iv.xx-p82.4"></span>[John
-8:12](../../../bib/kjv/joh008.htm#012)<span id="iv.iv.xx-p82.4"></span>;
+8:12](../../../bib/kjv/joh008.htm#012.md)<span id="iv.iv.xx-p82.4"></span>;
 13:5; <span id="iv.iv.xx-p82.5"></span>[Mt.
-26:26](../../../bib/kjv/mat026.htm#026)<span
+26:26](../../../bib/kjv/mat026.htm#026.md)<span
 id="iv.iv.xx-p82.5"></span>; 27:50.
 
-<span id="fn_674"></span>[675](inst099.htm#fr_674) <span
+<span id="fn_674"></span>[675](inst099.htm#fr_674.md) <span
 id="iv.iv.xx-p86.1"></span>
 
 <span id="iv.iv.xx-p87"></span>46 646 The French adds, “Voila comment la
@@ -1613,14 +1613,14 @@ tonsure n’estoit point une chose speciale aux clercs, mais estoit en
 usance quasi à tous.”—See how the tonsure was not a thing peculiar to
 the clergy, but was used, as it were, by all.
 
-<span id="fn_675"></span>[676](inst099.htm#fr_675) <span
+<span id="fn_675"></span>[676](inst099.htm#fr_675.md) <span
 id="iv.iv.xx-p97.1"></span>
 
 <span id="iv.iv.xx-p98"></span>47 647 French, “Ills ont eto trompé du
 mot de Sacrement qui est en la translation commune.”—They have been
 misled by the word Sacrament, which is in the common translation.
 
-<span id="fn_676"></span>[677](inst099.htm#fr_676) <span
+<span id="fn_676"></span>[677](inst099.htm#fr_676.md) <span
 id="iv.iv.xx-p98.2"></span>
 
 <span id="iv.iv.xx-p99"></span>48 648 Lat. Lib. 4 Dist. 26, cap. 6, et
@@ -1630,4 +1630,4 @@ Quicquid, &c.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 20. - OF CIVIL GOVERNMENT.](inst100)
+[Next: CHAPTER 20. - OF CIVIL GOVERNMENT.](inst100.md)

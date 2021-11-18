@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs51)  [Next](mhs53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs51)  [Next](mhs53.md) 
 
 ------------------------------------------------------------------------
 
@@ -222,4 +222,4 @@ without the sorceries of the Devil.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Prevalence Of Similar Beliefs In Modern Times](mhs53)
+[Next: IV. Prevalence Of Similar Beliefs In Modern Times](mhs53.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som25) 
-[Next](som27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som25.md) 
+[Next](som27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ outer body in form, why should It not also mold the inner one into
 definite form? There is every reason to suppose that It does and no
 reason to suppose the opposite. In all probability, there is a body
 within a body to infinity. "In my Father's house are many
-mansions." <span id="fr_98"></span>[99](#fn_98)
+mansions." <span id="fr_98"></span>[99](#fn_98.md)
 
 We do not depart from reason when we assume this; for, while we used to
 say that two bodies could not occupy the same space at the same time, we
@@ -377,8 +377,8 @@ to the Conscious," Geley.
 
 ### Footnotes
 
-<span id="fn_98"></span>[268:99](som26.htm#fr_98) John 14:2.
+<span id="fn_98"></span>[268:99](som26.htm#fr_98.md) John 14:2.
 
 ------------------------------------------------------------------------
 
-[Next: Recapitulation](som27)
+[Next: Recapitulation](som27.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](iwwk05)  [Next](iwwk07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](iwwk05)  [Next](iwwk07.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ with a farmer from the same neighbourhood.
 
 ------------------------------------------------------------------------
 
-[Next: A Landlord's Garden in County Wicklow](iwwk07)
+[Next: A Landlord's Garden in County Wicklow](iwwk07.md)

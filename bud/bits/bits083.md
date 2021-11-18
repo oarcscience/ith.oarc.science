@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits082) [Next](bits084)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits082) [Next](bits084.md)
 
 ------------------------------------------------------------------------
 
@@ -460,7 +460,7 @@ J. F. D.
 
 ------------------------------------------------------------------------
 
-[Next: § 84. The Order Receive Leave to Dwell in Houses](bits084)
+[Next: § 84. The Order Receive Leave to Dwell in Houses](bits084.md)
 
  
 

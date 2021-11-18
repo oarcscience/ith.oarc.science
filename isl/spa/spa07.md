@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa06)  [Next](spa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa06)  [Next](spa08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -58,7 +58,7 @@ And unto the source of the essence, bear the essence itself.
 About their own materiality, the enlightened are in torment;  
 But there can be no dread of mortality from corruption itself.
 
-Every attainer <span id="fr_75"></span>[\*](#fn_75) who hath passed
+Every attainer <span id="fr_75"></span>[\*](#fn_75.md) who hath passed
 beyond this nature frail,  
 Assuredly discovereth the signification of immortality.
 
@@ -98,14 +98,14 @@ If the page of thy mind be unblotted, and unstained.
 #### II.
 
 When, with the mind, I examined the shoulder-bone of prediction, <span
-id="fr_76"></span>[\*](#fn_76)  
+id="fr_76"></span>[\*](#fn_76.md)  
 I saw that, within unity's area, the community of plenitude dwelleth.
 
 In what manner shall I describe the infiniteness of the Omniscient,  
 When all that's inscrutable, He hath drawn, like a veil, over His face?
 
 I behold, floating upon the surface of the waters, the ship of the
-earth; <span id="fr_77"></span>[†](#fn_77)  
+earth; <span id="fr_77"></span>[†](#fn_77.md)  
 And on all sides, I perceive, cones of stone have protruded therefrom.
 
 For how long shall the heavenly bodies, in the firmament, revolve?  
@@ -113,7 +113,7 @@ By what art, profound, hath the Great Sage suspended them therein?
 
 The conception of the intellect of the wise is unable to penetrate  
 Unto where the hand of, "Let it be," and "It was," <span
-id="fr_78"></span>[‡](#fn_78) hath reached.
+id="fr_78"></span>[‡](#fn_78.md) hath reached.
 
 These unadorned heavens became arrayed with embellishments,  
 Which He, with the diamonds of omnipotence, carved out.
@@ -188,14 +188,14 @@ Every moment overwhelmed in misery: driven away as one unclean.
 
 He possesseth not strength sufficient, the human form to support—  
 He took the deposit on his head, without calculating its weight. <span
-id="fr_79"></span>[\*](#fn_79)
+id="fr_79"></span>[\*](#fn_79.md)
 
 Like unto the mule, it is expelled from its own kindred race,  
 That, which being one by nature, hath become, with another, mixed.
 
 Tyrant and fool that he was, he should have acted in this way—  
 He should have cried with piercing cries, and have dashed his
-head. <span id="fr_80"></span>[†](#fn_80)
+head. <span id="fr_80"></span>[†](#fn_80.md)
 
 Such a ponderous load, as neither Heaven nor earth could bear,  
 By what strength could the weak, helpless, ignorant, sustain
@@ -235,7 +235,7 @@ Who, commensurate with their infinity, hath a tittle rendered?
 #### III
 
 <span id="img_06100"></span> ![](img/06100.jpg) is the vanity <span
-id="fr_81"></span>[\*](#fn_81) of thine own doubt and mistrust;  
+id="fr_81"></span>[\*](#fn_81.md) of thine own doubt and mistrust;  
 And, thro’ scepticism, thou sustainest injury exceeding.
 
 <span id="page_62">p. 62</span>
@@ -270,14 +270,14 @@ Some sign, or some indication becometh manifest.
 The scepticism of <span class="smallcaps">Mīrzā</span> hath vanished,
 and is no more;  
 But whatever is by him spoken, Mī’ān Ro<u>s’h</u>ān <span
-id="fr_82"></span>[\*](#fn_82) speaketh.
+id="fr_82"></span>[\*](#fn_82.md) speaketh.
 
 <span id="page_63">p. 63</span>
 
 #### IV.
 
 <span id="img_06300"></span> ![](img/06300.jpg) standeth for the
-pilgrim <span id="fr_83"></span>[\*](#fn_83)—in this path let him
+pilgrim <span id="fr_83"></span>[\*](#fn_83.md)—in this path let him
 proceed:  
 Let him, in all sincerity, become a seeker after Him.
 
@@ -295,7 +295,7 @@ Like the moth, to-day, become thou the sacrifice thereon.
 
 He hath bestowed upon thee the cup of vitality;  
 Then let the largess be upon the cupbearer scattered! <span
-id="fr_84"></span>[†](#fn_84)
+id="fr_84"></span>[†](#fn_84.md)
 
 Seek not to discover the faults and failings of others;  
 But become the mirror of thine own acts and ways.
@@ -318,7 +318,7 @@ Therefore, in the qualities of the tranquil, be thou stedfast!
 #### V.
 
 <span id="img_06400"></span> ![](img/06400.jpg) is significant of
-faith's straight and narrow path; <span id="fr_85"></span>[\*](#fn_85)  
+faith's straight and narrow path; <span id="fr_85"></span>[\*](#fn_85.md)  
 And, after much terror and danger, its goal is attained.
 
 The artifices and deceits of the Devil are manifold in number;  
@@ -357,7 +357,7 @@ For He alone, is the All-merciful, and the Accepter of penitence.
 #### VI.
 
 <span id="img_06500"></span> ![](img/06500.jpg) signifieth the great
-evil <span id="fr_86"></span>[\*](#fn_86) of mistrust, and scepticism,  
+evil <span id="fr_86"></span>[\*](#fn_86.md) of mistrust, and scepticism,  
 Through which, all the world is, in bewilderment plunged.
 
 That mind cannot rest assured, or be at peace,  
@@ -374,7 +374,7 @@ Whose looks are directed unto detriment and defect.
 
 The ignorant wreaketh tyranny, merely upon himself,  
 Who is the sponsor of the onerous deposit of faith. <span
-id="fr_87"></span>[†](#fn_87)
+id="fr_87"></span>[†](#fn_87.md)
 
 <span id="page_66">p. 66</span>
 
@@ -389,7 +389,7 @@ It is then in safety, and Heaven is its dwelling-place.
 
 With transports filled, and mounted upon the steed of love,  
 Enraptured, it is come forth unto the <u>Ch</u>oukan <span
-id="fr_88"></span>[\*](#fn_88) of its desire.
+id="fr_88"></span>[\*](#fn_88.md) of its desire.
 
 Draw near, O <span class="smallcaps">Mīrzā</span>, and lift up thine
 eyes!  
@@ -398,7 +398,7 @@ See! this is the ball, and this is the arena too!
 #### VII.
 
 <span id="img_06600"></span> ![](img/06600.jpg)—All that may be contrary
-to nature change: <span id="fr_89"></span>[†](#fn_89)  
+to nature change: <span id="fr_89"></span>[†](#fn_89.md)  
 Make the soul king, and wisdom its minister.
 
 Give not ear unto the flesh, for it is ignorant;  
@@ -407,7 +407,7 @@ And with wisdom, understanding regard.
 The deceits of the Devil are without number;  
 Therefore, consider as a fetter each of his spells.
 
-There are five robbers <span id="fr_90"></span>[‡](#fn_90) in thine own
+There are five robbers <span id="fr_90"></span>[‡](#fn_90.md) in thine own
 house,  
 Each of which, in separate places, chain up.
 
@@ -460,7 +460,7 @@ In arid soil? O thou, of hard earth, a clod!
 When a clan pitcheth its tents upon a plain,  
 Forthwith the grass thereon entirely disappeareth.
 
-The black bee <span id="fr_91"></span>[\*](#fn_91) buzzeth lightly
+The black bee <span id="fr_91"></span>[\*](#fn_91.md) buzzeth lightly
 around the lotus;  
 Whilst thou, O beetle! hast sunk under thy load.
 
@@ -500,17 +500,17 @@ That his passion's object is without indication.
 
 How amazing is the sublimity of the mind of the adorer!  
 Unto whose throne, there was no access, even for the giant Æūd. <span
-id="fr_92"></span>[\*](#fn_92)
+id="fr_92"></span>[\*](#fn_92.md)
 
 This stage of it is more contracted than Ṣarāt's narrow bridge: <span
-id="fr_93"></span>[†](#fn_93)  
+id="fr_93"></span>[†](#fn_93.md)  
 How, then, did the army of love accomplish its ascent?.
 
 His passion became like unto a vast and boundless ocean,  
 Which, by its first swell, o’erwhelmed him in the billows.
 
 The sword of unity, from between, He removed altogether; <span
-id="fr_94"></span>[‡](#fn_94)  
+id="fr_94"></span>[‡](#fn_94.md)  
 And upon infinitude, He conferred the name of spouse.
 
 The boundless ocean, O <span class="smallcaps">Mīrzā</span>! hath
@@ -695,7 +695,7 @@ They take due heed of the fleeting of every breath.
 
 That the traveller may, from his sweet repose awaken,  
 The warning bell of departure, tolleth at the dawn of day. <span
-id="fr_95"></span>[\*](#fn_95)
+id="fr_95"></span>[\*](#fn_95.md)
 
 The delight of the Darwe<u>sh</u> is in fervour, and in study:  
 The pleasure of Chieftains is in their banners and drums.
@@ -778,7 +778,7 @@ Where is the land of their sojourn, in which peace may be found?
 
 They, who have their reason lost, thro’ such a charmer's love,  
 Have now renounced both the rosary and the Brahmanical cord. <span
-id="fr_96"></span>[\*](#fn_96)
+id="fr_96"></span>[\*](#fn_96.md)
 
 All things have happened through their own affection;  
 And those without it, are useless, in all respects.
@@ -792,7 +792,7 @@ With regard to such like eyes, what caution can I use,
 When their glances are prepared for piercing me?
 
 Her lovely person she hath transformed to a sandal tree; <span
-id="fr_97"></span>[\*](#fn_97)  
+id="fr_97"></span>[\*](#fn_97.md)  
 And those tresses, like unto snakes, are around it fallen.
 
 He, who nourisheth the desire of such a sight as this,  
@@ -806,10 +806,10 @@ And her adorers’ hearts, like the moth, are oblations thereon.
 
 The names, nightingale and wooer, are one and the same;  
 And conscious hearts, in her praise, are melodious songsters. <span
-id="fr_98"></span>[†](#fn_98)
+id="fr_98"></span>[†](#fn_98.md)
 
 Her eyes are lotuses, and the pupils, they are black bees; <span
-id="fr_99"></span>[‡](#fn_99)  
+id="fr_99"></span>[‡](#fn_99.md)  
 And their gaze, like the gazelle's, is free and unrestrained.
 
 Her eyebrows are bows, and her eyelashes, the arrows;  
@@ -821,7 +821,7 @@ The pure and sincere, in both worlds, enjoy liberty:
 Than this supreme felicity, what greater can there be,  
 When, every moment, they expect the adored to behold?
 
-This infinity, on the water-wheel <span id="fr_100"></span>[§](#fn_100)
+This infinity, on the water-wheel <span id="fr_100"></span>[§](#fn_100.md)
 of unity she placed;  
 And each water-pot, in its own turn, cometh and departeth.
 
@@ -920,11 +920,11 @@ If to the melody of flute and harp, thy intellect respond.
 
 Make thine heart the pleasant meadow of Abraham!  
 And become thou, as the scorching fire of Nimrūd therein! <span
-id="fr_101"></span>[\*](#fn_101)
+id="fr_101"></span>[\*](#fn_101.md)
 
 Behold the fidelity and sincerity of the world!  
 See how it deserted the tribes of Thamūd and Æād! <span
-id="fr_102"></span>[†](#fn_102)
+id="fr_102"></span>[†](#fn_102.md)
 
 Like as the rose bloometh, so it fadeth away;  
 As its short life, so is mine also computed.
@@ -959,15 +959,15 @@ It coquets and toys, separately, with every one:
 To the whole creation it is the seller, and they its buyers are.
 
 Neither did <u>Sh</u>addād, in his arrogance, enter his paradise, <span
-id="fr_103"></span>[\*](#fn_103)  
-Nor did Ḳārūn <span id="fr_104"></span>[†](#fn_104) derive any profit
+id="fr_103"></span>[\*](#fn_103.md)  
+Nor did Ḳārūn <span id="fr_104"></span>[†](#fn_104.md) derive any profit
 from its pursuit.
 
 <span id="page_82">p. 82</span>
 
 It concealed religion from the children of profanity;  
 And the straight-path, mere rites and ceremonies termed. <span
-id="fr_105"></span>[\*](#fn_105)
+id="fr_105"></span>[\*](#fn_105.md)
 
 It hath spread out a great net in this universal road;  
 And no wise man, save the contented, escapeth from it.
@@ -1053,57 +1053,57 @@ When from this being, I cease to be, I shall entity become.
 
 ### Footnotes
 
-<span id="fn_75"></span>[57:\*](spa07.htm#fr_75) One who has attained a
+<span id="fn_75"></span>[57:\*](spa07.htm#fr_75.md) One who has attained a
 certain stage in the Ṣūfi mysticisms.
 
-<span id="fn_76"></span>[58:\*](spa07.htm#fr_76) <span
+<span id="fn_76"></span>[58:\*](spa07.htm#fr_76.md) <span
 id="img_05800"></span> ![](img/05800.jpg), *walaey*, The shoulder-bone
 of an animal, or more particularly that of a sheep, used by the
 Af<u>gh</u>āns in divination.
 
-<span id="fn_77"></span>[58:†](spa07.htm#fr_77) "The ship of the earth"
+<span id="fn_77"></span>[58:†](spa07.htm#fr_77.md) "The ship of the earth"
 here referred to is the earth itself, and the "cones of stone" are the
 mountains protruding from its surface. According to the ideas of
 Muḥammadans, the earth is placed upon the waters, in the midst of which
 it floats.
 
-<span id="fn_78"></span>[58:‡](spa07.htm#fr_78) <span
+<span id="fn_78"></span>[58:‡](spa07.htm#fr_78.md) <span
 id="img_05801"></span> ![](img/05801.jpg) *kun fa-yakūn*, "Be! then it
 is," a phrase attributed to the Creator at the creation of the world.
 
-<span id="fn_79"></span>[60:\*](spa07.htm#fr_79) The conditions which
+<span id="fn_79"></span>[60:\*](spa07.htm#fr_79.md) The conditions which
 Adam accepted from the Creator regarding the duties for which he was
 created. See Mīrzā, Poem VI., second note.
 
-<span id="fn_80"></span>[60:†](spa07.htm#fr_80) Referring to Adam.
+<span id="fn_80"></span>[60:†](spa07.htm#fr_80.md) Referring to Adam.
 
-<span id="fn_81"></span>[61:\*](spa07.htm#fr_81) <span
+<span id="fn_81"></span>[61:\*](spa07.htm#fr_81.md) <span
 id="img_06101"></span> ![](img/06101.jpg) *<u>kh</u>*, is the first
 letter of <span id="img_06102"></span> ![](img/06102.jpg)
 *<u>kh</u>ūdī*, vanity, pride, etc.
 
-<span id="fn_82"></span>[62:\*](spa07.htm#fr_82) Mī’ān or Pīr
+<span id="fn_82"></span>[62:\*](spa07.htm#fr_82.md) Mī’ān or Pīr
 Ro<u>sh</u>ān, the founder of the Roshāniān doctrine, and ancestor of
-Mīrzā. See page [51](spa06.htm#page_51).
+Mīrzā. See page [51](spa06.htm#page_51.md).
 
-<span id="fn_83"></span>[63:\*](spa07.htm#fr_83) <span
+<span id="fn_83"></span>[63:\*](spa07.htm#fr_83.md) <span
 id="img_06301"></span> ![](img/06301.jpg) stands for <span
 id="img_06302"></span> ![](img/06302.jpg), of which it is the first
 letter, signifying a pilgrim, a traveller, and, metaphorically, a
 devotee.
 
-<span id="fn_84"></span>[63:†](spa07.htm#fr_84) A custom of scattering
+<span id="fn_84"></span>[63:†](spa07.htm#fr_84.md) A custom of scattering
 money, by way of largess, amongst the people on festive occasions.
 
-<span id="fn_85"></span>[64:\*](spa07.htm#fr_85) <span
+<span id="fn_85"></span>[64:\*](spa07.htm#fr_85.md) <span
 id="img_06401"></span> ![](img/06401.jpg)—the direct and narrow path—the
 way of religion and orthodoxy.
 
-<span id="fn_86"></span>[65:\*](spa07.htm#fr_86) The first letter of
+<span id="fn_86"></span>[65:\*](spa07.htm#fr_86.md) The first letter of
 <span id="img_06501"></span> ![](img/06501.jpg), sin, evil, fault,
 infirmity, etc.
 
-<span id="fn_87"></span>[65:†](spa07.htm#fr_87) By faith is understood
+<span id="fn_87"></span>[65:†](spa07.htm#fr_87.md) By faith is understood
 here, entire obedience to the will of God, on the observance or neglect
 of which, no less than eternal happiness, or misery depends; and so
 difficult in the performance, that when God proposed it to the vaster
@@ -1121,35 +1121,35 @@ the same offer was made to him, and he accepted it, notwithstanding
 man's weaknesses, and the infirmities of his nature. Jellāl-ud-Dīn, al
 Beidāwi's <span class="smallcaps">Commentary on the Kur’ān</span>.
 
-<span id="fn_88"></span>[66:\*](spa07.htm#fr_88) <u>Ch</u>oukān or
+<span id="fn_88"></span>[66:\*](spa07.htm#fr_88.md) <u>Ch</u>oukān or
 <u>Ch</u>ougān is the Persian name of a game resembling tennis or
 cricket, but played on horseback by many Asiatic tribes. It also
 signifies the crooked bat used therein.
 
-<span id="fn_89"></span>[66:†](spa07.htm#fr_89) <span
+<span id="fn_89"></span>[66:†](spa07.htm#fr_89.md) <span
 id="img_06601"></span> ![](img/06601.jpg) the first letter of <span
 id="img_06602"></span> ![](img/06602.jpg), contrary, different, etc.
 
-<span id="fn_90"></span>[66:‡](spa07.htm#fr_90) The five robbers or
+<span id="fn_90"></span>[66:‡](spa07.htm#fr_90.md) The five robbers or
 enemies here referred to, as in the house of the body, are the five
 senses—hearing, seeing, touch, taste, and smell.
 
-<span id="fn_91"></span>[68:\*](spa07.htm#fr_91) A bee enamoured of the
+<span id="fn_91"></span>[68:\*](spa07.htm#fr_91.md) A bee enamoured of the
 lotus.
 
-<span id="fn_92"></span>[69:\*](spa07.htm#fr_92) Æūd is the Arabian name
+<span id="fn_92"></span>[69:\*](spa07.htm#fr_92.md) Æūd is the Arabian name
 of Og, the son of Anak, concerning whose enormous stature, his escaping
 the Flood, and the manner of his being slain by Moses, the Muḥammadans
 relate numerous fables. See <span class="smallcaps">Numbers</span>, xxi.
 34, 35.
 
-<span id="fn_93"></span>[69:†](spa07.htm#fr_93) The bridge over the
+<span id="fn_93"></span>[69:†](spa07.htm#fr_93.md) The bridge over the
 infernal fire, and over which those who are to be admitted into
 Paradise, as well as those who are destined to Hell-fire, must pass. It
 is described as finer than the thread of a famished spider, and sharper
 than the edge of a sword.
 
-<span id="fn_94"></span>[69:‡](spa07.htm#fr_94) "In remotest time, the
+<span id="fn_94"></span>[69:‡](spa07.htm#fr_94.md) "In remotest time, the
 sword was emblematic of chastity. When the Emperor Maximilian married
 Maria of Burgundy by proxy, he enjoins the knight, who is to be his
 representative, to lay him down in the bridal bed, to which he is to
@@ -1158,28 +1158,28 @@ himself and her."—<span class="smallcaps">Chambers' Journal</span>, Vol.
 XI. From this it would appear to have been also practised by the nations
 of the East.
 
-<span id="fn_95"></span>[74:\*](spa07.htm#fr_95) It is usual to ring a
+<span id="fn_95"></span>[74:\*](spa07.htm#fr_95.md) It is usual to ring a
 bell at the dawn of day, to arouse the people of a caravan to prepare to
 set out.
 
-<span id="fn_96"></span>[76:\*](spa07.htm#fr_96) See note at page
-[18](spa05.htm#page_18).
+<span id="fn_96"></span>[76:\*](spa07.htm#fr_96.md) See note at page
+[18](spa05.htm#page_18.md).
 
-<span id="fn_97"></span>[77:\*](spa07.htm#fr_97) The sandal-wood tree is
+<span id="fn_97"></span>[77:\*](spa07.htm#fr_97.md) The sandal-wood tree is
 said to be the favourite haunt of black serpents.
 
-<span id="fn_98"></span>[77:†](spa07.htm#fr_98) The mūsīkār is a bird,
+<span id="fn_98"></span>[77:†](spa07.htm#fr_98.md) The mūsīkār is a bird,
 said to have numerous holes in its beak, from which as many melodious
 sounds issue.
 
-<span id="fn_99"></span>[77:‡](spa07.htm#fr_99) A species of bee,
+<span id="fn_99"></span>[77:‡](spa07.htm#fr_99.md) A species of bee,
 enamoured of the lotus.
 
-<span id="fn_100"></span>[77:§](spa07.htm#fr_100) The Persian wheel is a
+<span id="fn_100"></span>[77:§](spa07.htm#fr_100.md) The Persian wheel is a
 contrivance for drawing water for irrigation, etc., round the rim of
 which a string of earthen pots revolves.
 
-<span id="fn_101"></span>[80:\*](spa07.htm#fr_101) The commentators on
+<span id="fn_101"></span>[80:\*](spa07.htm#fr_101.md) The commentators on
 the Ḳur’ān relate, that by Nimrūd's (or Nimrod's) order, a large space
 was enclosed at Kūtha, and filled with a vast quantity of wood, which
 being set on fire, burned so fiercely that no one dared to venture near
@@ -1194,7 +1194,7 @@ according to some writers, about two thousand of the idolaters were
 consumed by it.—<span class="smallcaps">Sale’s Kur’ān</span>, note to
 page 269.
 
-<span id="fn_102"></span>[80:†](spa07.htm#fr_102) "And unto the tribe of
+<span id="fn_102"></span>[80:†](spa07.htm#fr_102.md) "And unto the tribe of
 Thamūd *we sent* their brother Sāliḥ. He said, Oh my people, worship
 <span class="smallcaps">God</span>: ye have no <span
 class="smallcaps">God</span> besides him. Now hath a manifest proof come
@@ -1209,7 +1209,7 @@ assailed them; and in the morning they were found in their dwellings
 prostrate on their breasts, *and dead*."—<span class="smallcaps">Al
 Kur’ān</span>.
 
-<span id="fn_103"></span>[81:\*](spa07.htm#fr_103) Shaddād and Shaddīd,
+<span id="fn_103"></span>[81:\*](spa07.htm#fr_103.md) Shaddād and Shaddīd,
 the two sons of Æād, who reigned shortly after the death of their
 father, and extended their power over the greater part of the world; but
 the latter dying, his brother became sole monarch; who having heard of
@@ -1221,7 +1221,7 @@ journey of the place they were all destroyed by a terrible noise from
 heaven. <span class="smallcaps">Sale's Kur’ān</span>, page 488, and
 note.
 
-<span id="fn_104"></span>[81:†](spa07.htm#fr_104) Kārūn, the son of
+<span id="fn_104"></span>[81:†](spa07.htm#fr_104.md) Kārūn, the son of
 Ye<u>sh</u>ar (or Izhar), the uncle of Moses, and consequently <span
 id="page_82">p. 82</span> the same with Korah of the Scriptures. Ile
 surpassed every one in opulence, so much so, that the riches of Ḳārūn
@@ -1229,10 +1229,10 @@ have become a proverb. God directed Moses to punish him; and the earth
 having opened under him, he was swallowed up, along with his palace, his
 riches, and his confederates.
 
-<span id="fn_105"></span>[82:\*](spa07.htm#fr_105) That is to say, that
+<span id="fn_105"></span>[82:\*](spa07.htm#fr_105.md) That is to say, that
 the sacred book of the Lawgiver Muḥammad has been called a mere
 collection of rites and ceremonies.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](spa08)
+[Next: Introduction](spa08.md)

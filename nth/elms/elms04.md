@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](elms03)  [Next](elms05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](elms03)  [Next](elms05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Edinburgh Lectures on Mental Science*, by Thomas Troward, \[1909\],
 at Intangible Textual Heritage
 
@@ -238,6 +238,6 @@ and the latter cannot use it because he does not know it.
 
 ------------------------------------------------------------------------
 
-[Next: III.—The Unity of the Spirit](elms05)
+[Next: III.—The Unity of the Spirit](elms05.md)
 
 </div>

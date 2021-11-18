@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](rok01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](rok01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295RH82/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Koran*, by Arthur N. Wollaston, \[1911\], at
 Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ to 1923.
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front Cover and
 Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover and Spine  
 </span>
 
@@ -63,4 +63,4 @@ LONDON AND AYLESBURY.</span>
 
 ------------------------------------------------------------------------
 
-[Next: Contents](rok01)
+[Next: Contents](rok01.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Confucianism](../../cfu/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Confucianism](../../cfu/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](aow00)    [Page
-Index](pageidx)    [Text \[Zipped\]](aow.txt.gz)
+[Contents](#contents)    [Start Reading](aow00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](aow.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -70,35 +70,35 @@ intact. John Bruno Hare, October 12, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](aow00)  
-[Contents](aow01)  
-[Preface](aow02)  
+<span id="contents"></span> [Title Page](aow00.md)  
+[Contents](aow01.md)  
+[Preface](aow02.md)  
 <span id="section_000"></span>
 
 ### Introduction
 
-[Sun Wu and his Book](aow03)  
-[The Text of Sun Tzŭ](aow04)  
-[The Commentators](aow05)  
-[Appreciations Of Sun Tzŭ](aow06)  
-[Apologies for War](aow07)  
-[Bibliography](aow08)  
+[Sun Wu and his Book](aow03.md)  
+[The Text of Sun Tzŭ](aow04.md)  
+[The Commentators](aow05.md)  
+[Appreciations Of Sun Tzŭ](aow06.md)  
+[Apologies for War](aow07.md)  
+[Bibliography](aow08.md)  
 
  
 
-[I. Laying Plans.](aow09)  
-[II. Waging War](aow10)  
-[III. Attack By Stratagem](aow11)  
-[IV. Tactical Dispositions](aow12)  
-[V. Energy](aow13)  
-[VI. Weak Points and Strong](aow14)  
-[VII. Manœuvring](aow15)  
-[VIII. Variation of Tactics](aow16)  
-[IX. The Army on the March](aow17)  
-[X. Terrain](aow18)  
-[XI. The Nine Situations](aow19)  
-[XII. The Attack By Fire](aow20)  
-[XIII. The Use of Spies](aow21)  
-[Chinese Concordance](aow22)  
-[Index](aow23)  
-[Corrigenda](aow24)  
+[I. Laying Plans.](aow09.md)  
+[II. Waging War](aow10.md)  
+[III. Attack By Stratagem](aow11.md)  
+[IV. Tactical Dispositions](aow12.md)  
+[V. Energy](aow13.md)  
+[VI. Weak Points and Strong](aow14.md)  
+[VII. Manœuvring](aow15.md)  
+[VIII. Variation of Tactics](aow16.md)  
+[IX. The Army on the March](aow17.md)  
+[X. Terrain](aow18.md)  
+[XI. The Nine Situations](aow19.md)  
+[XII. The Attack By Fire](aow20.md)  
+[XIII. The Use of Spies](aow21.md)  
+[Chinese Concordance](aow22.md)  
+[Index](aow23.md)  
+[Corrigenda](aow24.md)  

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Sagas](../../index)  [England](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ebt00)
+[Contents](#contents)    [Start Reading](ebt00.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ lines were pursued eagerly by organized clubs in the period between the
 world wars. Interest in leys died out after the 1930s, but was revived
 in the 1960s, after the publication of a popular book on the subject,
 [The View Over
-Atlantis](https://www.amazon.com/exec/obidos/ASIN/050027312X/internetsacredte),
+Atlantis](https://www.amazon.com/exec/obidos/ASIN/050027312X/internetsacredte.md),
 by John Michell. Latter-day ley-hunters took the concept much further
 than Watkins and the earlier enthusiasts. Dowsing, flying saucer paths,
 crop circles, biodynamic farming, and *feng shui* have all been
@@ -75,37 +75,37 @@ not cheaply).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ebt00)  
-[Table of Contents](ebt01)  
-[Table of Illustrations](ebt02)  
-[Foreword to the Average Reader](ebt03)  
-[Introduction](ebt04)  
-[Introduction](ebt05)  
-[Proof](ebt06)  
-[The Ley](ebt07)  
-[Antiquity of the Ley](ebt08)  
-[Individuality of a Ley](ebt09)  
-[Mounds](ebt10)  
-[Earth Cuttings](ebt11)  
-[Water Sighting Points](ebt12)  
-[Mark Stones](ebt13)  
-[Sighting Stones](ebt14)  
-[Trees](ebt15)  
-[Camps](ebt16)  
-[Churches](ebt17)  
-[Castles](ebt18)  
-[Traders' Roads](ebt19)  
-[Hereford Trackways](ebt20)  
-[Traditional Wells](ebt21)  
-[Previous Data](ebt22)  
-[Roman Roads](ebt23)  
-[Place Names](ebt24)  
-[Discovery By Place Name](ebt25)  
-[The Ley-Men](ebt26)  
-[Hints to Ley Hunters](ebt27)  
-[A Few Leys](ebt28)  
-[Endword](ebt29)  
-[Index](ebt30)  
-[Acknowledgments](ebt31)  
-[Advertisements from original](ebt32)  
-[Maps](ebt33)  
+<span id="contents"></span> [Title Page](ebt00.md)  
+[Table of Contents](ebt01.md)  
+[Table of Illustrations](ebt02.md)  
+[Foreword to the Average Reader](ebt03.md)  
+[Introduction](ebt04.md)  
+[Introduction](ebt05.md)  
+[Proof](ebt06.md)  
+[The Ley](ebt07.md)  
+[Antiquity of the Ley](ebt08.md)  
+[Individuality of a Ley](ebt09.md)  
+[Mounds](ebt10.md)  
+[Earth Cuttings](ebt11.md)  
+[Water Sighting Points](ebt12.md)  
+[Mark Stones](ebt13.md)  
+[Sighting Stones](ebt14.md)  
+[Trees](ebt15.md)  
+[Camps](ebt16.md)  
+[Churches](ebt17.md)  
+[Castles](ebt18.md)  
+[Traders' Roads](ebt19.md)  
+[Hereford Trackways](ebt20.md)  
+[Traditional Wells](ebt21.md)  
+[Previous Data](ebt22.md)  
+[Roman Roads](ebt23.md)  
+[Place Names](ebt24.md)  
+[Discovery By Place Name](ebt25.md)  
+[The Ley-Men](ebt26.md)  
+[Hints to Ley Hunters](ebt27.md)  
+[A Few Leys](ebt28.md)  
+[Endword](ebt29.md)  
+[Index](ebt30.md)  
+[Acknowledgments](ebt31.md)  
+[Advertisements from original](ebt32.md)  
+[Maps](ebt33.md)  

@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](tbow11)  [Next](tbow13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](tbow11)  [Next](tbow13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3TLAI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Wonder*, by Lord Dunsany, \[1912\], at Intangible Textual
 Heritage
 
@@ -203,6 +203,6 @@ catches Nuth."
 
 ------------------------------------------------------------------------
 
-[Next: How One Came, As Was Foretold, to the City of Never](tbow13)
+[Next: How One Came, As Was Foretold, to the City of Never](tbow13.md)
 
 </div>

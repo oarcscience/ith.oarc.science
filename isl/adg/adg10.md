@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg09)  [Next](adg11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg09)  [Next](adg11.md) 
 
 ------------------------------------------------------------------------
 
@@ -732,4 +732,4 @@ poor\].
 
 ------------------------------------------------------------------------
 
-[Next: Adages of imam Ali (puh) in satirizing the life](adg11)
+[Next: Adages of imam Ali (puh) in satirizing the life](adg11.md)

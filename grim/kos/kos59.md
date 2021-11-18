@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos58)  [Next](kos60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos58)  [Next](kos60.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ TRANSLATED FROM THE HEBREW By ELIPHAZ LÉVI; and given in his
 I will now give unto thee the Key of the Kingdom of the Spirits.
 
 This Key is the same as that of the Mysterious Numbers of
-Yetzirah. <span id="fr_86"></span>[1](#fn_86)
+Yetzirah. <span id="fr_86"></span>[1](#fn_86.md)
 
 The Spirits are governed by the natural and universal Hierarchy of
 things.
@@ -152,7 +152,7 @@ Joshua, or Jehoshua the Saviour, is a symbol of the Messiach.
 
 His Name is composed of the Letters of the Divine Tetragram changed into
 the Pentagram by the addition of the Letter Schin (*see [Figure
-94](kos44.htm#img_kos14)*).
+94](kos44.htm#img_kos14)*.md).
 
 Each letter of this Pentagram represents a power of good attacked by the
 five accursed nations.
@@ -301,9 +301,9 @@ Genii and Angels speak.
 
 ### Footnotes
 
-<span id="fn_86"></span>[121:1](kos59.htm#fr_86) The 'Sepher Yetzirah,'
+<span id="fn_86"></span>[121:1](kos59.htm#fr_86.md) The 'Sepher Yetzirah,'
 or 'Book of Formation,' one of the most ancient Books of the Qabalah.
 
 ------------------------------------------------------------------------
 
-[Next: The Qabalistical Invocation of Solomon](kos60)
+[Next: The Qabalistical Invocation of Solomon](kos60.md)

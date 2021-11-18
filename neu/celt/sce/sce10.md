@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce09)  [Next](sce11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce09)  [Next](sce11.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ By MR ROBERT KIRK, Miniƒter at Aberfoill.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. Of the Subterranean Inhabitants](sce11)
+[Next: Chapter 1. Of the Subterranean Inhabitants](sce11.md)

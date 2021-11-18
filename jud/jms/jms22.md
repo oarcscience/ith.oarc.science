@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms21)  [Next](jms23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms21)  [Next](jms23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -62,7 +62,7 @@ III, 153; Zimmels, 82; *HaOrah*, II, 127, p. 219.
 
 <span id="an_1_6">6</span>. *Or Zarua*, II, §53, p. 12a; *S. Ḥas.
 Tinyana*, 7a; *Asufot*, 113b, cited in Güd. I, 136; *Maharil*, *Hil.
-Mez.*; *Yore Deah*, 291:2; but see pp. [146](jms12.htm#page_146) ff.
+Mez.*; *Yore Deah*, 291:2; but see pp. [146](jms12.htm#page_146.md) ff.
 above.
 
 <span id="an_1_7">7</span>. On this subject see I. Münz, 45 ff., 507
@@ -151,4 +151,4 @@ cited in Güd. I, 225-6; *Yeven Meẓulah*, 15.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](jms23)
+[Next: Chapter II](jms23.md)

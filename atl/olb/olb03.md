@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb02)  [Next](olb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb02)  [Next](olb04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -26,7 +26,7 @@ must do so too, so that they may never be lost.
 Written at Liuwert, in the three thousand four hundred and forty-ninth
 year after Atland was submerged—that is, according to the Christian
 reckoning, the year 1256. Hiddo, surnamed Over de Linda.—Watch. <span
-id="fr_2"></span>[\*](#fn_2)
+id="fr_2"></span>[\*](#fn_2.md)
 
  
 
@@ -54,9 +54,9 @@ class="smallcaps">Over de Linda</span>.
 
 ### Footnotes
 
-<span id="fn_2"></span>[3:\*](olb03.htm#fr_2) 3449—1256 is 2193 before
+<span id="fn_2"></span>[3:\*](olb03.htm#fr_2.md) 3449—1256 is 2193 before
 Christ.
 
 ------------------------------------------------------------------------
 
-[Next: The Book Of Adela's Followers](olb04)
+[Next: The Book Of Adela's Followers](olb04.md)

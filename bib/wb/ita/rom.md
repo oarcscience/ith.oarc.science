@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](act)  [Next](co1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](act)  [Next](co1.md) 
 
 ------------------------------------------------------------------------
 
@@ -1580,4 +1580,4 @@ Cristo, sia la gloria nei secoli dei secoli. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Corinthians](co1)
+[Next: 1 Corinthians](co1.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms06)  [Next](jms08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms06)  [Next](jms08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ that it is uncertain whether the reference is to the "soul" in heaven,
 or the "spirit" on earth, but this much is abundantly clear: a spirit
 continues to inhabit the earth long after the body has moldered in the
 grave, and comes into frequent contact with the
-living.[1](jms26.htm#an_5_1)
+living.[1](jms26.htm#an_5_1.md)
 
 Countless anecdotes and traditions bear testimony to the belief in the
 continuance of some form of spirit life on earth. Medieval Jewish
@@ -91,7 +91,7 @@ visit home was merely to apprise his friends of his good fortune. The
 wreath of leaves that he wore, he explained, was made of herbs from the
 Garden of Eden, and was intended "to neutralize the foul odor of this
 world." He could afford to be disdainful of the world he had left
-behind![2](jms26.htm#an_5_2)
+behind![2](jms26.htm#an_5_2.md)
 
 A frequent source of spirit intrusion upon the living is to be discerned
 in the notion that "the spirits retain their bodily forms," and
@@ -130,7 +130,7 @@ It was already the custom in Talmudic times to beg pardon of the dead,
 in the presence of ten men at the grave, for any wrong done him, and
 this practice persisted throughout the Middle Ages. Better far to
 confess and be absolved than to face the wrath of his
-spirit.[4](jms26.htm#an_5_4)
+spirit.[4](jms26.htm#an_5_4.md)
 
 The Talmud discussed at length the question whether the dead are
 conscious of events that transpire among the living, and in raising the
@@ -158,7 +158,7 @@ turn, "prays for the well-being of the living." Even activities not
 directly intended for the benefit of the dead, but reflecting credit
 upon them, delight their spirits, as when a son "pursues the way of the
 *Torah* and the commandments and does what is right and
-good."[6](jms26.htm#an_5_6)
+good."[6](jms26.htm#an_5_6.md)
 
 Obviously the spirits can help as well as harm the living. They have
 more or less direct access to the heavenly fount of justice, and by
@@ -197,7 +197,7 @@ of the act. "One should not concentrate his attention on the dead who
 lie there," they wrote, "but should direct his prayer for mercy to God
 Himself, because of the merit of the righteous dwellers in the dust."
 The implied criticism is ample testimony concerning the popular
-interpretation of these rites.[6](jms26.htm#an_5_6)
+interpretation of these rites.[6](jms26.htm#an_5_6.md)
 
 The spirits of the dead can be useful to the living in other ways, too.
 The future is an open book to the denizens of the supernatural realm,
@@ -210,7 +210,7 @@ living. But in general the spirit-world is chary of its secrets and can
 be induced to reveal them only by magical means. As with demons and
 angels, mystical invocations and occult rites are effective in forcing
 the dead to obey the magician's will. The art of necromancy is a
-specialized function of sorcery.[7](jms26.htm#an_5_7)
+specialized function of sorcery.[7](jms26.htm#an_5_7.md)
 
 But the deceased were also inevitably regarded with a sense of dread.
 For all their usually beneficent attitude toward the living, they were
@@ -255,7 +255,7 @@ your body or your spirit or your soul. Your body must lie in its grave
 until resurrection, your soul must rest in that place where it belongs.
 I command this upon you with a curse and with an oath, now and forever."
 Any sensible spirit who understands the force of such a spell will
-thenceforth leave the living in peace.[8](jms26.htm#an_5_8)
+thenceforth leave the living in peace.[8](jms26.htm#an_5_8.md)
 
 A curious conceit which was barely mentioned in the Talmudic literature
 came to have considerable significance in later times. In order to
@@ -295,7 +295,7 @@ There was the ever-present possibility that some might evade the angel's
 vigilance—if only for a short while—and vent their spleen upon innocent,
 unsuspecting humans. The Talmud had specified Tuesday and Friday nights
 as the occasions on which the demons were most to be feared; a later
-addendum included "the expiration of the Sabbath."[9](jms26.htm#an_5_9)
+addendum included "the expiration of the Sabbath."[9](jms26.htm#an_5_9.md)
 
 The consequences of this belief and the dread it aroused were various.
 Several protective selections were inserted in the concluding service of
@@ -316,7 +316,7 @@ was out; after he had stopped for the night "there came one who
 completed the book for him," but when the stranger tan out of parchment
 he stripped the skin off the poor scribe's back and continued his
 scribbling on it. The implication of the story is
-obvious.[10](jms26.htm#an_5_10)
+obvious.[10](jms26.htm#an_5_10.md)
 
 Another curious offshoot of this belief, the history of which is too
 tortuous to go into here in detail, was the notion that one who drank
@@ -354,8 +354,8 @@ provision that it is limited to mourners, but it is significant that the
 earlier sources speak of it as being observed by everyone, and that
 water from streams and wells in particular was avoided. Dread of the
 spirits, rather than compassion for the deceased, undeniably informs
-this usage.[11](jms26.htm#an_5_11)
+this usage.[11](jms26.htm#an_5_11.md)
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Powers of Good](jms08)
+[Next: 6. The Powers of Good](jms08.md)

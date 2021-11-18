@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](wov05)  [Next](wov07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](wov05)  [Next](wov07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VLT8O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddha's Way of Virtue*, by W.D.C Wagiswara and K.J. Saunders,
 \[1920\], at Intangible Textual Heritage
 
@@ -70,15 +70,15 @@ but sloth is always blamed.
 onwards like a fire, burning the greater and the lesser bonds.
 
 32\. A Bhikkhu who delights in zeal, looking askance at sloth, cannot be
-brought low, but is near to Nirvāna. <span id="fr_3"></span>[\*](#fn_3)
+brought low, but is near to Nirvāna. <span id="fr_3"></span>[\*](#fn_3.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_3"></span>[25:\*](wov06.htm#fr_3) Better, perhaps, "in the
+<span id="fn_3"></span>[25:\*](wov06.htm#fr_3.md) Better, perhaps, "in the
 very presence of Nirvāna"
 
 ------------------------------------------------------------------------
 
-[Next: § III: The Mind](wov07)
+[Next: § III: The Mind](wov07.md)

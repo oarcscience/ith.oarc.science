@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil31)  [Next](egil33) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil31)  [Next](egil33.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ there of that journey. Egil went home with Skallagrim.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXXII. Of lord Brynjolf and Bjorn, his son.](egil33)
+[Next: CHAPTER XXXII. Of lord Brynjolf and Bjorn, his son.](egil33.md)

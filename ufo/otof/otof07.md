@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof06)  [Next](otof08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof06)  [Next](otof08.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ hydrogen experimentation.) When the particle is sufficiently polarized,
 rotation results from the constant application of the positive and
 negative light forces to the vortex.
 
-A comet travels in the currents of the sun's [vortex](errata.htm#11)
+A comet travels in the currents of the sun's [vortex](errata.htm#11.md)
 (RMF) until its own vortex (RMF) breaks (The Andromedes, or Bielid
 meteors move in the path of the lost Biela's comet which disintegrated
 and was last seen in 1852) or it becomes sufficiently powerful to attain
@@ -322,7 +322,7 @@ RMF.
 Hurricanes, known also as cyclones and typhoons, are the most dangerous
 storms on Earth. Their vortex may cover half a million square miles.
 Sometimes a hurricane generates a number of tornadoes on its fringes.
-Hurricanes sometimes spend energy [equivalent](errata.htm#12) to that of
+Hurricanes sometimes spend energy [equivalent](errata.htm#12.md) to that of
 several thousand atomic bombs per second. Therefore, we can see the
 tremendous power of a vortex. The heavy rains carried by a hurricane are
 concentrated in great spiraling lines which run inward, showing again
@@ -336,14 +336,14 @@ within the Earth's vortex.
 <span id="img_pl01"></span>
 
 [![Plate I](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 Plate I  
 
  
 
 <span id="page_60">p. 60</span>
 
-[Plate I](#img_pl01) shows two views of the RMF of a nuclear particle.
+[Plate I](#img_pl01.md) shows two views of the RMF of a nuclear particle.
 Fig. 1 shows a side view of the RMF surrounding a nuclear particle. Fig.
 2 shows the same RMF viewed from above, and looking down toward the
 polar vent area.
@@ -448,7 +448,7 @@ any kind of a craft to go from one world to another.
 Saucers and all spacecraft contain their own atmosphere around them like
 a celestial body. They can go under water and the RMF will keep the
 liquid from touching the craft. Refer once again to [Plate
-I](#img_pl01): In Fig. 1, the black sphere can represent a Saucer in its
+I](#img_pl01.md): In Fig. 1, the black sphere can represent a Saucer in its
 RMF. The perfect shape of a spaceship is a globe or ball, and planets
 that have only recently succeeded in developing interplanetary craft use
 such devices. Celestial bodies are round and globe-like for the same
@@ -611,7 +611,7 @@ geological maps in connection with the
 <span id="img_pl02"></span>
 
 [![Plate II. Major Fault Lines of the World](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 Plate II. Major Fault Lines of the World  
 
  
@@ -626,7 +626,7 @@ etc. is *magnetic* in nature! Magnetism is truly the Universal *'I Am'*.
 A study of the major fault lines of Earth also shows that culture
 follows these lines because magnetic anomalies are found along them as
 well as volcanoes. Trace the fault lines on the world map of [Plate
-II](#img_pl02) and see where they cross areas of great cultural
+II](#img_pl02.md) and see where they cross areas of great cultural
 advancement. Remember, this does not necessarily mean civilized centers.
 Native peoples have created many wonderful cultural items that have
 never been equalled in modern civilization.
@@ -654,4 +654,4 @@ motion."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. The Solex-Mal](otof08)
+[Next: Chapter 1. The Solex-Mal](otof08.md)

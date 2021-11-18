@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Next](pps01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Next](pps01.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Etext prepared by Theodore D. Webber (doug\_webber@yahoo.com), 2007.
 
 ------------------------------------------------------------------------
 
-[Next: 1-50](pps01)
+[Next: 1-50](pps01.md)

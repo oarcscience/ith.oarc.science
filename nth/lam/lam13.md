@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam12)  [Next](lam14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam12)  [Next](lam14.md) 
 
 ------------------------------------------------------------------------
 
@@ -224,4 +224,4 @@ eternal.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Immortality](lam14)
+[Next: XI. Immortality](lam14.md)

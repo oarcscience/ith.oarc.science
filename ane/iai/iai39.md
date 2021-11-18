@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai38)  [Next](iai40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai38)  [Next](iai40.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ East](../index)  [Index](index)  [Previous](iai38)  [Next](iai40) 
 
 ### CONTEST WITH THE DRAGONS IN THE MOUNTAINS--THE SEER IS MORTALLY WOUNDED--HIS CALM VIEW OF THE HEREAFTER
 
- <span id="fr_245"></span>[1](#fn_242)"O Mam-mitu, thou god of fate and
+ <span id="fr_245"></span>[1](#fn_242.md)"O Mam-mitu, thou god of fate and
 death!  
 Thou spirit of fierce hate and parting breath,  
 Thou banisher of joy! O ghastly Law,  
@@ -31,14 +31,14 @@ For men oft change thy noiseless, ghoulish wing.
 And yet, thou comest, goddess Mam-mitu,  
 To bring with thee the feet of Nin-a-zu,  
 Two sister ghouls, remorseless, tearless, wan,  
-We fear ye not; ye *bu'i-du*, <span id="fr_246"></span>[2](#fn_243)
+We fear ye not; ye *bu'i-du*, <span id="fr_246"></span>[2](#fn_243.md)
 begone!
 
 Sweet life renews itself in holy love,  
 Your victory is naught! Ye vainly rove  
 Across our pathway with yours forms inane,  
 For somewhere, though we die, we live again.  
- <span id="fr_247"></span>[3](#fn_244) The soul departed shall in glory
+ <span id="fr_247"></span>[3](#fn_244.md) The soul departed shall in glory
 shine,  
 As burnished gold its form shall glow divine,  
 And Samas there shall grant to us new life;  
@@ -49,7 +49,7 @@ And Merodac, the eldest son, all strife\[paragraph continues\]
 Shall end in peace in yonder Blest Abode,  
 Where happiness doth crown our glorious God.
 
- <span id="fr_248"></span>[4](#fn_245) The sacred waters there shall
+ <span id="fr_248"></span>[4](#fn_245.md) The sacred waters there shall
 ever flow,  
 To Anat's arms shall all the righteous go;  
 The queen of Anu, Heaven's king, our hands  
@@ -80,7 +80,7 @@ And each contributes to continuous bloom;
 So go your way! ye sisters, to your gloom!
 
 Far on their road have come the king of fame  
-And seer, within the land of Mas <span id="fr_249"></span>[5](#fn_246)
+And seer, within the land of Mas <span id="fr_249"></span>[5](#fn_246.md)
 they came,  
 Nor knew that Fate was hovering o'er their way,  
 In gentle converse they have passed the day.  
@@ -91,7 +91,7 @@ They a wild forest in the mountain gain,\[paragraph continues\]
 
 In a deep gorge they rode through thickets wild,  
 Beneath the pines; now to a pass they filed,  
-And lo! two dragons <span id="fr_250"></span>[6](#fn_247) near a cave
+And lo! two dragons <span id="fr_250"></span>[6](#fn_247.md) near a cave
 contend  
 Their path! with backs upreared their coils unbend,  
 Extend their ravenous jaws with a loud roar  
@@ -215,27 +215,27 @@ All foes; and must thou leave thy friend, my seer?
 
 ### Footnotes
 
-<span id="fn_242"></span>[110:1](iai39.htm#fr_245) We have here quoted
+<span id="fn_242"></span>[110:1](iai39.htm#fr_245.md) We have here quoted
 an Accadian Hymn to the goddess of fate. ("Trans. Soc. of Bib. Arch.,"
 vol. ii. p. 39.)
 
-<span id="fn_243"></span>[110:2](iai39.htm#fr_246) "Bu'i-du," ghosts.
+<span id="fn_243"></span>[110:2](iai39.htm#fr_246.md) "Bu'i-du," ghosts.
 
-<span id="fn_244"></span>[110:3](iai39.htm#fr_247) Accadian hymn on the
+<span id="fn_244"></span>[110:3](iai39.htm#fr_247.md) Accadian hymn on the
 future of the just. (" Trans. Soc. of Bib. Arch.," vol. ii. p. 32.)
 
-<span id="fn_245"></span>[111:4](iai39.htm#fr_248) Assyrian fragmentary
+<span id="fn_245"></span>[111:4](iai39.htm#fr_248.md) Assyrian fragmentary
 hymn ("W. A. L.," iv. 25, col. v.), translated in "Records of the Past,"
 vol. xi. pp. 161, 162.
 
-<span id="fn_246"></span>[111:5](iai39.htm#fr_249) The land of Mas, Mr.
+<span id="fn_246"></span>[111:5](iai39.htm#fr_249.md) The land of Mas, Mr.
 Sayce supposes, was situated west of the Euphrates Valley.
 
-<span id="fn_247"></span>[112:6](iai39.htm#fr_250) "Dragons." The word
+<span id="fn_247"></span>[112:6](iai39.htm#fr_250.md) "Dragons." The word
 for this animal is "tammabuk-ku." It was probably one of the monsters
 portrayed on the Babylonian cylinders now in the British Museum.
 
 ------------------------------------------------------------------------
 
 [Next: Column III. Heabani Reveals two Wonderful Visions to the
-King](iai40)
+King](iai40.md)

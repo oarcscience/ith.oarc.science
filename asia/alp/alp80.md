@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp79) 
-[Next](alp81) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp79.md) 
+[Next](alp81.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ contact with the Greeks and separated them from the Persians.
 
 ------------------------------------------------------------------------
 
-[Next: Armenian Paganism](alp81)
+[Next: Armenian Paganism](alp81.md)

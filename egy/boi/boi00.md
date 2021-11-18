@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Next](boi01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Next](boi01.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ LOVINGLY DEDICATED
 
 ------------------------------------------------------------------------
 
-[Next: Contents](boi01)
+[Next: Contents](boi01.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dcj00)  [Next](dcj02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dcj00)  [Next](dcj02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877850542/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877850542/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -491,4 +491,4 @@ conjoined with others according to similitude.
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](dcj02)
+[Next: 51-100](dcj02.md)

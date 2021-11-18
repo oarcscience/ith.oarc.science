@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale01)  [Next](tale03) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale01)  [Next](tale03.md) 
 
 ------------------------------------------------------------------------
 
@@ -501,4 +501,4 @@ and that of these fishes, and were it graven with gravers upon the eye
 corners it were a warner to whoso would be warned." "How is that?" asked
 the King, and the young man began to tell
 
-(*Next*) [THE TALE OF THE ENSORCELED PRINCE](tale03)  
+(*Next*) [THE TALE OF THE ENSORCELED PRINCE](tale03.md)  

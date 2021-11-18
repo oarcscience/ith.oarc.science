@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo34)  [Next](aoo36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo34)  [Next](aoo36.md) 
 
 ------------------------------------------------------------------------
 
@@ -243,4 +243,4 @@ her of Odysseus, and she wept again for him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](aoo36)
+[Next: Chapter XIII](aoo36.md)

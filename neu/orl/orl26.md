@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl25)  [Next](orl27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl25)  [Next](orl27.md) 
 
 ------------------------------------------------------------------------
 
@@ -1545,4 +1545,4 @@ By those two couples of whose worth I sing.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 27](orl27)
+[Next: Canto 27](orl27.md)

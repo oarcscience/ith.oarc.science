@@ -1,31 +1,31 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk37)  [Next](brk39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk37)  [Next](brk39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
 ------------------------------------------------------------------------
 
-#### X. <span class="smallcaps">The Spirit Within</span> <span id="fr_34"></span>[1](#fn_34)
+#### X. <span class="smallcaps">The Spirit Within</span> <span id="fr_34"></span>[1](#fn_34.md)
 
-Then Uddālaka Āruṇi <span id="fr_35"></span>[2](#fn_35) questioned him.
+Then Uddālaka Āruṇi <span id="fr_35"></span>[2](#fn_35.md) questioned him.
 
 "Yājnavalkya," said he, "we dwelt among
 
 <span id="page_76">p. 76</span>
 
 the Madras, in the house of Patanchala Kāpya, <span
-id="fr_36"></span>[1](#fn_36). studying sacrifice. He had a wife who was
-possessed by a spirit <span id="fr_37"></span>[2](#fn_37); we asked him
+id="fr_36"></span>[1](#fn_36.md). studying sacrifice. He had a wife who was
+possessed by a spirit <span id="fr_37"></span>[2](#fn_37.md); we asked him
 who he was, and he answered that he was Kabandha Ātharvaṇa, and said to
 Patanchala Kāpya and to the students of sacrifice, "Knowest thou, Kāpya,
 that Thread whereby this world and the world beyond and all creatures
@@ -39,7 +39,7 @@ and that Inward Ruler knows Brahma, knows the worlds, knows the Vedas,
 knows the creatures, knows the Self, knows the All." This he said to
 them: this I know. If thou, Yājnavalkya, shalt drive home the Brahman's
 cows without knowing that Thread and that Inward Ruler, thy head shall
-split." <span id="fr_38"></span>[3](#fn_38)
+split." <span id="fr_38"></span>[3](#fn_38.md)
 
 <span id="page_77">p. 77</span>
 
@@ -132,23 +132,23 @@ Then Uddālaka Āruṇi held his peace.
 
 ### Footnotes
 
-<span id="fn_34"></span>[75:1](brk38.htm#fr_34) Bṛihad-āraṇyaka
+<span id="fn_34"></span>[75:1](brk38.htm#fr_34.md) Bṛihad-āraṇyaka
 Upanishad, III. vii.
 
-<span id="fn_35"></span>[75:2](brk38.htm#fr_35) A patronymic, meaning
+<span id="fn_35"></span>[75:2](brk38.htm#fr_35.md) A patronymic, meaning
 "son of Aruṇa."
 
-<span id="fn_36"></span>[76:1](brk38.htm#fr_36) A patronymic signifying
+<span id="fn_36"></span>[76:1](brk38.htm#fr_36.md) A patronymic signifying
 a descendant of Kapi. Similarly *Ātharvaṇa,* below, means a descendant
 of the mythical sage Atharvan.
 
-<span id="fn_37"></span>[76:2](brk38.htm#fr_37) In Sanskrit *Gandharva;*
+<span id="fn_37"></span>[76:2](brk38.htm#fr_37.md) In Sanskrit *Gandharva;*
 originally, perhaps, the Gandharvas were spirits of fertility, but in
 classical literature they are a kind of fairies, with musical
 proclivities. See especially Pischel and Geldner, *Vedische Studien,*
 vol. i., p. 183 foll.
 
-<span id="fn_38"></span>[76:3](brk38.htm#fr_38) This dialogue between
+<span id="fn_38"></span>[76:3](brk38.htm#fr_38.md) This dialogue between
 Uddālaka and Yājnavalkya forms<span id="page_77">p. 77</span> part of a
 disputation between Brahman theologians, as the prize of which a
 thousand cows were offered by King Janaka of Videha (Bṛihad-ār. Up. III.
@@ -159,4 +159,4 @@ the challenge and fails in these tourneys of wit is doomed to death by
 
 ------------------------------------------------------------------------
 
-[Next: XI: The Wisdom of Raikva](brk39)
+[Next: XI: The Wisdom of Raikva](brk39.md)

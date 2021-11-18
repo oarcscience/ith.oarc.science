@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla11)  [Next](mla13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla11)  [Next](mla13.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ the Land of the Setting Sun.
 ------------------------------------------------------------------------
 
 [Next: Why Blackfellows Never Travel Alone: A Legend of the Wallaroo and
-Willy-Wagtail](mla13)
+Willy-Wagtail](mla13.md)

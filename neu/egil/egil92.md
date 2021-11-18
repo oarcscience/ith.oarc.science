@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil91)  [Next](egil93) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil91)  [Next](egil93.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ outer part of the churchyard at Moss-fell.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XCII. Of Thorstein's descendants.](egil93)
+[Next: CHAPTER XCII. Of Thorstein's descendants.](egil93.md)

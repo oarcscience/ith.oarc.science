@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb03)  [Next](crfb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb03)  [Next](crfb05.md) 
 
 </div>
 
@@ -330,6 +330,6 @@ him still.
 
 ------------------------------------------------------------------------
 
-[Next: The Hairy Man](crfb05)
+[Next: The Hairy Man](crfb05.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec05)  [Next](hec07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec05)  [Next](hec07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -35,7 +35,7 @@ Latin, five words in eight would be shut out of the principal
 classical rhythms. Now, the Gospel was preached to the poor. Church
 hymns must be the life-expression of all hearts. The Church was forced
 to make a way for saying in poetry what her message bade her say. <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 S. Gregory Nazianzen, the first Greek Church poet, used only the
 ordinary classical measures. S. Sophronius of Jerusalem employed (and in
@@ -739,7 +739,7 @@ better result.
 
 ### Footnotes
 
-<span id="fn_0"></span>[26:\*](hec06.htm#fr_0) As an illustration of
+<span id="fn_0"></span>[26:\*](hec06.htm#fr_0.md) As an illustration of
 this remark, it is worth while noticing how very few examples of
 Hexameters occur in the New Testament. I believe that the following are
 all that are *tolerable;* that is, that can so be scanned without one or
@@ -775,4 +775,4 @@ Prayer.
 
 ------------------------------------------------------------------------
 
-[Next: First Epoch](hec07)
+[Next: First Epoch](hec07.md)

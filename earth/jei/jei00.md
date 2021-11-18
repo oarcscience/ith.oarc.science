@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Next](jei01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Next](jei01.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ left intact in all copies.
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="page_2">p. 2</span>
@@ -53,7 +53,7 @@ ALL RIGHTS RESERVED
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 <span id="page_3">p. 3</span>
@@ -78,7 +78,7 @@ Verso
 
 [![AUTHOR OF THE THEORY OF A CENTRAL SUN WITHIN&lt;br&gt; THE EARTH'S
 INTERIOR](tn/00600.jpg)  
-Click to enlarge](img/00600.jpg)  
+Click to enlarge](img/00600.jpg.md)  
 AUTHOR OF THE THEORY OF A CENTRAL SUN WITHIN  
 THE EARTH'S INTERIOR  
 
@@ -86,4 +86,4 @@ THE EARTH'S INTERIOR
 
 ------------------------------------------------------------------------
 
-[Next: Contents](jei01)
+[Next: Contents](jei01.md)

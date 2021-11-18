@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre02)  [Next](gre04) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre02)  [Next](gre04.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ Snorrison.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](gre04)
+[Next: Contents](gre04.md)

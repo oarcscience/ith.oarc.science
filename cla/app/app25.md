@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app24)  [Next](app26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app24)  [Next](app26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -118,7 +118,7 @@ the hard soft and the soft hard, and that the living thing dies and
 comes into being from what is not living, and that all things change,
 and that what was and what now is are not at all the same, but iron
 which is hard is worn away by contact <span
-id="fr_33"></span>[1](#fn_29) with the finger, and gold and stone and
+id="fr_33"></span>[1](#fn_29.md) with the finger, and gold and stone and
 whatever seems to be entirely strong (*is worn away*); and that from
 water, earth and stone come into being. So that it comes about that we
 neither see nor know existing things.
@@ -168,9 +168,9 @@ wisdom.'
 
 ### Footnotes
 
-<span id="fn_29"></span>[50:1](app25.htm#fr_33) ὁμουρέων; also ὁμοῦ ῥέων
+<span id="fn_29"></span>[50:1](app25.htm#fr_33.md) ὁμουρέων; also ὁμοῦ ῥέων
 ('changing with the finger').
 
 ------------------------------------------------------------------------
 
-[Next: 31. Empedocles of Acragas](app26)
+[Next: 31. Empedocles of Acragas](app26.md)

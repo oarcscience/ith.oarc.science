@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](emerald)  [Next](eudoxus) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](emerald)  [Next](eudoxus.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,6 +144,6 @@ Trismegistus, who holds the three parts of the whole world of wisdom."
 
 ------------------------------------------------------------------------
 
-[Next: The Six Keys of Eudoxus](eudoxus)
+[Next: The Six Keys of Eudoxus](eudoxus.md)
 
   

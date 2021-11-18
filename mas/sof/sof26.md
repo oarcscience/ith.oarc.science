@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof25)  [Next](sof27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof25)  [Next](sof27.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head24.png"></span> ![Header Chapter
-XXIV.](img/head24.png)
+XXIV.](img/head24.png.md)
 
 ## XXIV.
 
@@ -18,7 +18,7 @@ XXIV.](img/head24.png)
 Another important symbol is the Ineffable Name, with which the series of
 ritualistic symbols will be concluded.
 
-The Tetragrammaton, [122](sof37.htm#xref_122) or Ineffable Word,--the
+The Tetragrammaton, [122](sof37.htm#xref_122.md) or Ineffable Word,--the
 Incommunicable Name,--is a symbol--for rightly-considered it is nothing
 more than a symbol--that has more than any other (except, perhaps, the
 symbols connected with sun-worship), pervaded the rites of antiquity. I
@@ -42,11 +42,11 @@ the Burning Bush, when he said to him, "Thus shalt thou say unto the
 children of Israel: Jehovah, the God of your fathers, the God of
 Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you:
 this \[Jehovah\] is my name forever, and this is my memorial unto all
-generations."  [123](sof37.htm#xref_123) And at a subsequent period he
+generations."  [123](sof37.htm#xref_123.md) And at a subsequent period he
 still more emphatically declared this to be his peculiar name: "I am
 *Jehovah*; and I appeared unto Abraham, unto Isaac, and unto Jacob, by
 the name of *El Shaddai*; but by my name *Jehovah* was I not known unto
-them."  [124](sof37.htm#xref_124)
+them."  [124](sof37.htm#xref_124.md)
 
 It will be perceived that I have not here followed precisely the
 somewhat unsatisfactory version of King James's Bible, which, by
@@ -69,13 +69,13 @@ l'alam*, זה שמי לאלם that is to say, "This is my name to be concealed."
 
 This interpretation, although founded on a blunder, and in all
 probability an intentional one, soon became a precept, and has been
-strictly obeyed to this day. [125](sof37.htm#xref_125) The word
+strictly obeyed to this day. [125](sof37.htm#xref_125.md) The word
 *Jehovah* is never pronounced by a pious Jew, who, whenever he meets
 with it in Scripture, substitutes for it the word *Adonai* or *Lord*--a
 practice which has been followed by the translators of the common
 English version of the Bible with almost Jewish scrupulosity, the word
 "Jehovah" in the original being invariably translated by the word
-"Lord."  [126](sof37.htm#xref_126) The pronunciation of the word, being
+"Lord."  [126](sof37.htm#xref_126.md) The pronunciation of the word, being
 thus abandoned, became ultimately lost, as, by the peculiar construction
 of the Hebrew language, which is entirely without vowels, the letters,
 being all consonants, can give no possible indication, to one who has
@@ -127,7 +127,7 @@ inviolability, the "ineffable" or unutterable name.
 The Cabalists and Talmudists have enveloped it in a host of mystical
 superstitions, most of which are as absurd as they are incredible, but
 all of them tending to show the great veneration that has always been
-paid to it. [127](sof37.htm#xref_127) Thus they say that it is possessed
+paid to it. [127](sof37.htm#xref_127.md) Thus they say that it is possessed
 of unlimited powers, and that he who pronounces it shakes heaven and
 earth, and inspires the very angels with terror and astonishment.
 
@@ -145,7 +145,7 @@ equilateral triangle, thus:
 <div>
 
 <span id="img_illus02.png"></span> ![Yod inside equilateral
-triangle](img/illus02.png)  
+triangle](img/illus02.png.md)  
 Yod inside equilateral triangle
 
 </div>
@@ -164,7 +164,7 @@ permitted to intrude into Masonry; it presents an instance of absurd
 anachronism, which would never have occurred if the original Hebrew
 symbol had been retained. But being there now, without the possibility
 of removal, we have only to remember that it is in fact but the symbol
-of a symbol. [128](sof37.htm#xref_128)
+of a symbol. [128](sof37.htm#xref_128.md)
 
 Widely spread, as I have already said, was this reverence for the name
 of God; and, consequently, its symbolism, in some peculiar form, is to
@@ -191,7 +191,7 @@ This word was forbidden to be pronounced aloud. It was to be the subject
 of silent meditation to the pious Hindoo.
 
 In the rites of Persia an ineffable name was also communicated to the
-candidate after his initiation. [129](sof37.htm#xref_129) Mithras, the
+candidate after his initiation. [129](sof37.htm#xref_129.md) Mithras, the
 principal divinity in these rites, who took the place of the Hebrew
 Jehovah, and represented the sun, had this peculiarity in his name--that
 the numeral value of the letters of which it was composed amounted to
@@ -201,7 +201,7 @@ earth.
 
 In the Mysteries introduced by Pythagoras into Greece we again find the
 ineffable name of the Hebrews, obtained doubtless by the Samian Sage
-during his visit to Babylon. [130](sof37.htm#xref_130) The symbol
+during his visit to Babylon. [130](sof37.htm#xref_130.md) The symbol
 adopted by him to express it was, however, somewhat different, being ten
 points distributed in the form of a triangle, each side containing four
 points, as in the annexed figure.
@@ -209,7 +209,7 @@ points, as in the annexed figure.
 <div>
 
 <span id="img_illus03.png"></span> ![ten points distributed in the form
-of a triangle](img/illus03.png)  
+of a triangle](img/illus03.png.md)  
 ten points distributed in the form of a triangle
 
 </div>
@@ -225,14 +225,14 @@ perfection and consummation. This figure was called by Pythagoras the
 *tetractys*--a word equivalent in signification to the *tetragrammaton*;
 and it was deemed so sacred that on it the oath of secrecy and fidelity
 was administered to the aspirants in the Pythagorean
-rites. [131](sof37.htm#xref_131)
+rites. [131](sof37.htm#xref_131.md)
 
 Among the Scandinavians, as among the Jewish Cabalists, the Supreme God
 who was made known in their mysteries had twelve names, of which the
 principal and most sacred one was *Alfader*, the Universal Father.
 
 Among the Druids, the sacred name of God was
-*Hu* [132](sof37.htm#xref_132)--a name which, although it is supposed,
+*Hu* [132](sof37.htm#xref_132.md)--a name which, although it is supposed,
 by Bryant, to have been intended by them for Noah, will be recognized as
 one of the modifications of the Hebrew tetragrammaton. It is, in fact,
 the masculine pronoun in Hebrew, and may be considered as the
@@ -269,7 +269,7 @@ used in such a connection, and which simply signifies the mere
 manifestation of a power, it is not to be denied that the Supreme Being
 must possess in himself, and in himself alone, both a generative and a
 prolific power. This idea, which was so extensively prevalent among all
-the nations of antiquity, [133](sof37.htm#xref_133) has also been traced
+the nations of antiquity, [133](sof37.htm#xref_133.md) has also been traced
 in the tetragrammaton, or name of Jehovah, with singular ingenuity, by
 Lanci; and, what is almost equally as interesting, he has, by this
 discovery, been enabled to demonstrate what was, in all probability, the
@@ -301,7 +301,7 @@ as the Hebrew requires, from right to left, we have the word יהוה, יהוה,
 which is really as near to the pronunciation as we can well come,
 notwithstanding it forms neither of the seven ways in which the word is
 said to have been pronounced, at different times, by the
-patriarchs. [134](sof37.htm#xref_134)
+patriarchs. [134](sof37.htm#xref_134.md)
 
 But, thus pronounced, the word gives us no meaning, for there is no such
 word in Hebrew as *ihoh*; and, as all the Hebrew names were
@@ -322,7 +322,7 @@ of a word, is to read it from *left to right*.
 
 Lanci applied this cabalistic mode to the tetragrammaton, when he found
 that IH-OH, being read reversely, makes the word
-HO-HI. [135](sof37.htm#xref_135)
+HO-HI. [135](sof37.htm#xref_135.md)
 
 But in Hebrew, *ho* is the masculine pronoun, equivalent to the English
 *he*; and *hi* is the feminine pronoun, equivalent to *she*; and
@@ -401,7 +401,7 @@ in the Hebrew writers. Thus the Psalmist says (Ps. xxxiv. 15), "The eyes
 of the Lord are upon the righteous, and his ears are open to their cry,"
 which explains a subsequent passage (Ps. cxxi. 4), in which it is said,
 "Behold, he that keepeth Israel shall neither slumber nor sleep."
- [136](sof37.htm#xref_136)
+ [136](sof37.htm#xref_136.md)
 
 On the same principle, the Egyptians represented Osiris, their chief
 deity, by the symbol of an open eye, and placed this hieroglyphic of him
@@ -475,7 +475,7 @@ abandon the symbolic representations of the Deity, and to depict the
 Father with the form and lineaments of an aged man, many of which
 irreverent paintings, as far back as the twelfth century, are to be
 found in the religious books and edifices of
-Europe. [137](sof37.htm#xref_137) But, after the period of the
+Europe. [137](sof37.htm#xref_137.md) But, after the period of the
 renaissance, a better spirit and a purer taste began to pervade the
 artists of the church, and thenceforth the Supreme Being was represented
 only by his name--the tetragrammaton--inscribed within an equilateral
@@ -487,7 +487,7 @@ carved on wood in the seventeenth century, of which I annex a copy.
 
 <span id="img_illus04.png"></span> ![tetragrammaton inscribed with an
 equilateral triangle and placed within a circle of
-rays](img/illus04.png)  
+rays](img/illus04.png.md)  
 tetragrammaton inscribed with an equilateral triangle and placed within
 a circle of rays
 
@@ -502,7 +502,7 @@ Father Eternal. The other persons of the trinity sometimes wear the
 triangle, but only in representations of the trinity, and because the
 Father is with them. Still, even then, beside the Father, who has a
 triangle, the Son and the Holy Ghost are often drawn with a circular
-nimbus only."  [138](sof37.htm#xref_138)
+nimbus only."  [138](sof37.htm#xref_138.md)
 
 The triangle has, in all ages and in all religions, been deemed a symbol
 of Deity.
@@ -558,7 +558,7 @@ The letter *G* is the symbol of the self-existent Jehovah.
 
 The *All-Seeing Eye* is the symbol of the omnipresent God.
 
-The *triangle* [139](sof37.htm#xref_139) is the symbol of the Supreme
+The *triangle* [139](sof37.htm#xref_139.md) is the symbol of the Supreme
 Architect of the Universe--the Creator; and when surrounded by rays of
 glory, it becomes a symbol of the Architect and Bestower of Light.
 
@@ -580,6 +580,6 @@ labor of a Mason to seek.
 
 ------------------------------------------------------------------------
 
-[Next: XXV. The Legends of Freemasonry](sof27)
+[Next: XXV. The Legends of Freemasonry](sof27.md)
 
 </div>

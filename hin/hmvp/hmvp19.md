@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp18)  [Next](hmvp20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp18)  [Next](hmvp20.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ various gods are but forms of one supreme being. "It should be noticed
 that the Manu here referred to is regarded as a progenitor of the human
 race, and is represented as conciliating the Supreme Being by his piety
 in an age of universal depravity." Here is the passage: <span
-id="fr_141"></span>[\*](#fn_141)
+id="fr_141"></span>[\*](#fn_141.md)
 
 <div style="margin-left: 32px">
 
@@ -55,7 +55,7 @@ id="fr_141"></span>[\*](#fn_141)
 
 <span id="img_13500"></span> <span align="CENTER"> [![THE MATSYA
 AVATĀRA.](tn/13500.jpg)  
-Click to enlarge](img/13500.jpg)  
+Click to enlarge](img/13500.jpg.md)  
 THE MATSYA AVATĀRA.  
 </span>
 
@@ -106,7 +106,7 @@ continues\]</span>  When I outgrow the, jar, then dig a trench,
 
 The account from the Mahābhārata which now follows has also been put
 into verse by Professor Monier Williams:— <span
-id="fr_142"></span>[\*](#fn_142)
+id="fr_142"></span>[\*](#fn_142.md)
 
 <div style="margin-left: 32px">
 
@@ -147,7 +147,7 @@ not.'"</span>
 
 The typical Purānic account of this Avatāra is that of the "Bhāgavata
 Purāna" which is given by Sir William Jones in the "Asiatic Soc.
-Res." <span id="fr_143"></span>[\*](#fn_143) With this the accounts in
+Res." <span id="fr_143"></span>[\*](#fn_143.md) With this the accounts in
 the other Purānas agree in the main: some are more condensed, others, as
 the "Matsya Purāna," are considerably extended; for it was as the fish
 was guiding the vessel in which Manu was saved that Vishnu, in this
@@ -174,7 +174,7 @@ prince of the Dānavas, he took the shape of a minute fish, called
 Sāphari. A holy king named Satyavrāta then reigned—a servant of the
 spirit which moved on the waves; and so devout, that water was his only
 sustenance. He was the child of the Sun, and in the present Kalpa <span
-id="fr_144"></span>[\*](#fn_144) is invested by Nārāyana with the office
+id="fr_144"></span>[\*](#fn_144.md) is invested by Nārāyana with the office
 of Manu (*i.e.* the progenitor and lord of men), by the name of
 Srāddhadevā, or the god of obsequies. One day as he was making a
 libation in the river Kritamāla, and held water in the palm of his hand,
@@ -243,7 +243,7 @@ companions. When the ship shall be agitated with an impetuous wind, thou
 shalt fasten it with a large sea serpent on my horn; for I will be near
 thee, drawing the vessel, with thee and thy attendants. I will remain.
 on the ocean, O chief of men, until a night of Brahmā <span
-id="fr_145"></span>[\*](#fn_145) shall be completely ended. Thou shalt
+id="fr_145"></span>[\*](#fn_145.md) shall be completely ended. Thou shalt
 then know my true greatness, rightly named the Supreme Godhead; by my
 favour all thy questions shall be answered, and thy mind abundantly
 instructed.'
@@ -282,20 +282,20 @@ slew the demon Hayagriva, and recovered the sacred books."
 
 ### Footnotes
 
-<span id="fn_141"></span>[134:\*](hmvp19.htm#fr_141) "Indian Wisdom," p.
+<span id="fn_141"></span>[134:\*](hmvp19.htm#fr_141.md) "Indian Wisdom," p.
 32.
 
-<span id="fn_142"></span>[136:\*](hmvp19.htm#fr_142) "Indian Wisdom," p.
+<span id="fn_142"></span>[136:\*](hmvp19.htm#fr_142.md) "Indian Wisdom," p.
 394.
 
-<span id="fn_143"></span>[137:\*](hmvp19.htm#fr_143) Vol. i. 230 ff.
+<span id="fn_143"></span>[137:\*](hmvp19.htm#fr_143.md) Vol. i. 230 ff.
 
-<span id="fn_144"></span>[138:\*](hmvp19.htm#fr_144) See part ii. chap.
+<span id="fn_144"></span>[138:\*](hmvp19.htm#fr_144.md) See part ii. chap.
 x.
 
-<span id="fn_145"></span>[140:\*](hmvp19.htm#fr_145) See part ii. chap.
+<span id="fn_145"></span>[140:\*](hmvp19.htm#fr_145.md) See part ii. chap.
 x.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Kūrma or Tortoise Avatāra](hmvp20)
+[Next: 2. The Kūrma or Tortoise Avatāra](hmvp20.md)

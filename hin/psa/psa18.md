@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa17)  [Next](psa19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa17)  [Next](psa19.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ Chund came out of the water.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII](psa19)
+[Next: Chapter XVIII](psa19.md)

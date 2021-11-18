@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr17)  [Next](ibr19) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr17)  [Next](ibr19.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ manuscript book of his predecessor, the Rev. C. Pyrlæus, formerly
 missionary among the Mohawks, from which a comparatively recent date
 would be inferred for the confederation. The inference, however, is
 probably due to a mistake of Heckewelder himself. The passage, as it
-stands in his volume, <span id="fr_77"></span>[1](#fn_77) is as
+stands in his volume, <span id="fr_77"></span>[1](#fn_77.md) is as
 follows:--
 
 "The Rev. C. Pyrlæus, in his manuscript book, p. 234, says: 'The
@@ -103,7 +103,7 @@ chronology. Assuming the year 1535 as the time when the white people
 first "came into the country," and taking "the length of a man's life"
 at seventy-five years (or three generations) we should arrive at the
 year 1460 as the date of the formation of the Iroquois League. <span
-id="fr_78"></span>[2](#fn_78)
+id="fr_78"></span>[2](#fn_78.md)
 
 <span id="page_180">p. 180</span>
 
@@ -123,7 +123,7 @@ with evident doubt and perplexity. "We cannot," he says, "without
 rejecting many positive traditions of the Iroquois themselves, refuse to
 concede a much earlier period to the first attempts of these interesting
 tribes to form a general political association." <span
-id="fr_79"></span>[1](#fn_79)
+id="fr_79"></span>[1](#fn_79.md)
 
 In view of all the facts there seems no reason for withholding credence
 from the clear and positive statement of the Iroquois chroniclers, who
@@ -134,10 +134,10 @@ middle of the fifteenth century.
 
 ### Footnotes
 
-<span id="fn_77"></span>[179:1](ibr18.htm#fr_77) p. 56 of the revised
+<span id="fn_77"></span>[179:1](ibr18.htm#fr_77.md) p. 56 of the revised
 edition of 1875, published by the Historical Society of Pennsylvania.
 
-<span id="fn_78"></span>[179:2](ibr18.htm#fr_78) There is an evident
+<span id="fn_78"></span>[179:2](ibr18.htm#fr_78.md) There is an evident
 difference between the expression used by my <span id="page_180">p.
 180</span> Onondaga informants and that which is quoted by Heckewelder
 from Pyrlæus. The latter speaks of the time before the white people
@@ -146,9 +146,9 @@ from Pyrlæus. The latter speaks of the time before the white people
 that the white men of Hudson's crew presented no novel or startling
 aspect to the Mohawks. The French had been "in the country" before them.
 
-<span id="fn_79"></span>[180:1](ibr18.htm#fr_79) "Notes on the
+<span id="fn_79"></span>[180:1](ibr18.htm#fr_79.md) "Notes on the
 Iroquois." p. 75.
 
 ------------------------------------------------------------------------
 
-[Next: Note D: The Hiawatha Myths](ibr19)
+[Next: Note D: The Hiawatha Myths](ibr19.md)

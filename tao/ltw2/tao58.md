@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao58)   
-[Previous](tao57)  [Next](tao59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao58.md)   
+[Previous](tao57)  [Next](tao59.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ assertiveness; though wise, he does not make a show of his wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 59](tao59)
+[Next: Chapter 59](tao59.md)

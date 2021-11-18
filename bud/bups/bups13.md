@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bups12)  [Next](bups14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bups12)  [Next](bups14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4KM0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4KM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Psalms*, by S. Yamabe and L. Adams Beck, \[1921\], at
 Intangible Textual Heritage
 
@@ -51,4 +51,4 @@ face in worship unto the dwelling-place of his Teacher.
 
 ------------------------------------------------------------------------
 
-[Next: Concerning Doshaku-Zen](bups14)
+[Next: Concerning Doshaku-Zen](bups14.md)

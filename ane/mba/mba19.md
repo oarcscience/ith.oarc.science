@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba18)  [Next](mba20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba18)  [Next](mba20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ No doubt in ancient Babylonia, as in Europe during the Middle Ages, the
 men of refinement and intellect among the upper classes were attracted
 to the temples, while the more robust types preferred the outdoor life,
 and especially the life of the soldier. <span
-id="fr_303"></span>[1](#fn_301) The permanent triumphs of Babylonian
+id="fr_303"></span>[1](#fn_301.md) The permanent triumphs of Babylonian
 civilization were achieved either by the priests, or in consequence of
 the influence they exercised. They were the grammarians and the scribes,
 the mathematicians and the philosophers of that ancient country, the
@@ -162,12 +162,12 @@ the religion of the jungle dwellers of Chota Nagpur, India, says that
 propitiate is not a person at all in any sense of the word; if one must
 state the case in positive terms, I should say that the idea which lies
 at the root of their religion is that of a power rather than many
-powers". <span id="fr_304"></span>[1](#fn_302)
+powers". <span id="fr_304"></span>[1](#fn_302.md)
 
 Traces of Naturalism appear to have survived in Sumeria in the belief
 that "the spiritual, the Zi, was that which manifested life. . . . The
 test of the manifestation of life was movement." <span
-id="fr_305"></span>[2](#fn_303) All things that moved, it was conceived
+id="fr_305"></span>[2](#fn_303.md) All things that moved, it was conceived
 in the plane of Naturalism, possessed "self power"; the river was a
 living thing, as was also the fountain; a stone that fell from a hill
 fell of its own accord; a tree groaned because the wind caused it to
@@ -195,7 +195,7 @@ She similarly addresses the Asoka tree:
 my only love? . . .  
 That I may depart ungrieving, fair Asoka, answer me. . . ."  
 Many a tree she stood and gazed on. . . . <span
-id="fr_306"></span>[1](#fn_304)</span>
+id="fr_306"></span>[1](#fn_304.md)</span>
 
 </div>
 
@@ -219,7 +219,7 @@ from mountains, trees, or wild animals.
 relic of Totemism; so also may be the mountain symbols on the standards
 of Egyptian ships which appear on pre-dynastic pottery; the black dwarfs
 of Teutonic mythology were earth children. <span
-id="fr_307"></span>[2](#fn_305)
+id="fr_307"></span>[2](#fn_305.md)
 
 <span id="page_293">p. 293</span>
 
@@ -238,7 +238,7 @@ Damayanti addressed the tiger, as well as the mountain and tree, saying:
 <span class="small">                   I approach him without fear.  
 "Of the beasts art thou the monarch, all this forest thy domain; . . .  
 Thou, O king of beasts, console me, if my Nala thou hast seen." <span
-id="fr_308"></span>[1](#fn_306)</span>
+id="fr_308"></span>[1](#fn_306.md)</span>
 
 </div>
 
@@ -306,7 +306,7 @@ stars as ghosts, in the deification of kings, and the worship of
 patriarchs, who might be exalted as gods or identified with a supreme
 god. The Egyptian Pharaoh Unas became the sun god and the constellation
 of Orion by devouring his predecessors. <span
-id="fr_309"></span>[1](#fn_307) He ate his god as a tribe ate its animal
+id="fr_309"></span>[1](#fn_307.md) He ate his god as a tribe ate its animal
 totem; he became the "bull of heaven".
 
 There were star totems as well as mountain totems. A St. Andrew's cross
@@ -351,7 +351,7 @@ were identified.
 
 A strange blending of primitive beliefs occurred when the deities were
 given astral forms. As has been shown ([Chapter
-III](mba09.htm#an_ch-03)) gods were supposed to die annually. The
+III](mba09.htm#an_ch-03).md) gods were supposed to die annually. The
 Egyptian priests pointed out to Herodotus the grave of Osiris and also
 his star. There are "giants' graves" also in those countries in which
 the gods were simply ferocious giants. A god might assume various forms;
@@ -391,7 +391,7 @@ Come thou to us from thy chamber, in the day when thy soul begetteth
 emanations,--  
 The day when offerings upon offerings are made to thy spirit, which
 causeth the gods and men likewise to live. <span
-id="fr_310"></span>[1](#fn_308)</span>
+id="fr_310"></span>[1](#fn_308.md)</span>
 
 </div>
 
@@ -422,7 +422,7 @@ King, the translator, comments upon it as follows: "There is no doubt
 that the name was applied to a group of gods who were so closely
 connected that, though addressed in the plural, they could in the same
 sentence be regarded as forming a single personality". <span
-id="fr_311"></span>[1](#fn_309)
+id="fr_311"></span>[1](#fn_309.md)
 
 Like the Egyptian Osiris, the Babylonian Merodach was a highly complex
 deity. He was the son of Ea, god of the deep; he died to give origin to
@@ -445,7 +445,7 @@ forms with Ishtar, and had similarly many forms. This goddess, for
 instance, was, even when connected with one particular heavenly body,
 liable to change. According to a tablet fragment she was, as the planet
 Venus, "a female at sunset and a male at sunrise" <span
-id="fr_312"></span>[1](#fn_310)--that is, a bisexual deity like Nannar
+id="fr_312"></span>[1](#fn_310.md)--that is, a bisexual deity like Nannar
 of Ur, the father and mother deity combined, and Isis of Egypt. Nannar
 is addressed in a famous hymn:
 
@@ -466,13 +466,13 @@ One of the Isis chants of Egypt sets forth, addressing Osiris:
 <span class="small">There cometh unto thee Isis, lady of the horizon,
 who hath begotten herself alone in the image of the gods . . .  
 She hath taken vengeance before Horus, *the woman who was made a male by
-her father Osiris*. <span id="fr_313"></span>[2](#fn_311)</span>
+her father Osiris*. <span id="fr_313"></span>[2](#fn_311.md)</span>
 
 </div>
 
 Merodach, like Osiris-Sokar, was a "lord of many existences", and
 likewise "the mysterious one, he who is unknown to mankind". <span
-id="fr_314"></span>[3](#fn_312) It was impossible for the human mind "a
+id="fr_314"></span>[3](#fn_312.md) It was impossible for the human mind "a
 greater than itself to know".
 
 <span id="page_300">p. 300</span>
@@ -488,19 +488,19 @@ the chief planets and stars, and, no doubt, they connected them with
 seasonal changes as in Egypt, where Isis was identified with Sirius long
 before the Ptolemaic age, when Babylonian astronomy was imported. Horus
 was identified not only with the sun but also with Saturn, Jupiter, and
-Mars. <span id="fr_315"></span>[1](#fn_313) Even the primitive
+Mars. <span id="fr_315"></span>[1](#fn_313.md) Even the primitive
 Australians, as has been indicated, have their star myths; they refer to
 the stars Castor and Pollux as two young men, like the ancient Greeks,
 while the African Bushmen assert that these stars are two girls. It
 would be a mistake, however, to assume that the prehistoric Sumerians
 were exact astronomers. Probably they were, like the Aryo-Indians of the
 Vedic period, "not very accurate observers". <span
-id="fr_316"></span>[2](#fn_314)
+id="fr_316"></span>[2](#fn_314.md)
 
 It is of special interest to find that the stars were grouped by the
 Babylonians at the earliest period in companies of seven. The importance
 of this magical number is emphasized by the group of seven demons which
-rose from the deep to rage over the land ([p. 71](mba10.htm#page_71)).
+rose from the deep to rage over the land ([p. 71](mba10.htm#page_71).md).
 Perhaps the sanctity of Seven was suggested by Orion, the Bears, and the
 Pleiad, one of which constellations may have been the "Sevenfold" deity
 addressed as "one". At any rate arbitrary groupings of other stars into
@@ -568,12 +568,12 @@ by the son (spring), and when the son grew old his son slew him in turn.
 As the planet Saturn, Ninip was the ghost of the elder god, and as the
 son of Bel he was the solar war god of spring, the great wild bull, the
 god of fertility. He was also as Ber "lord of the wild boar", an animal
-associated with Rimmon. <span id="fr_317"></span>[1](#fn_315)
+associated with Rimmon. <span id="fr_317"></span>[1](#fn_315.md)
 
 Nebo (Nabu), who was identified with Mercury, was a god of Borsippa. He
 was a messenger and "announcer" of the gods, as the Egyptian Horus in
 his connection with Jupiter was Her-ap-sheta, "Horus the opener of that
-which is secret". <span id="fr_318"></span>[2](#fn_316) Nebo's original
+which is secret". <span id="fr_318"></span>[2](#fn_316.md) Nebo's original
 character is obscure.
 
  
@@ -582,7 +582,7 @@ character is obscure.
 ANOTHER DEITY&lt;br&gt; &lt;i&gt;Marble slab from Kenyan jib (Nineveh):
 now in the British Museum&lt;/i&gt;.&lt;br&gt; Photo
 Mansell](tn/30200.jpg)  
-Click to enlarge](img/30200.jpg)  
+Click to enlarge](img/30200.jpg.md)  
 THE GOD NINIP AND ANOTHER DEITY  
 *Marble slab from Kenyan jib (Nineveh): now in the British Museum*.  
 Photo Mansell  
@@ -602,21 +602,21 @@ gods and an instructor of mankind. Jastrow regards him as "a counterpart
 of Ea", and says: "Like Ea, he is the embodiment and source of wisdom.
 The art of writing--and therefore of all literature--is more
 particularly associated with him. A common form of his name designates
-him as the 'god of the stylus'." <span id="fr_319"></span>[1](#fn_317)
+him as the 'god of the stylus'." <span id="fr_319"></span>[1](#fn_317.md)
 He appears also to have been a developed form of Tammuz, who was an
 incarnation of Ea. Professor Pinches shows that one of his names,
 Mermer, was also a non-Semitic name of Ramman. <span
-id="fr_320"></span>[2](#fn_318) Tammuz resembled Ramman in his character
+id="fr_320"></span>[2](#fn_318.md) Tammuz resembled Ramman in his character
 as a spring god of war. It would seem that Merodach as Jupiter displaced
 at Babylon Nebo as Saturn, the elder god, as Bel Enlil displaced the
 elder Ninip at Nippur.
 
 The god of Mars was Nergal, the patron deity of Cuthah, <span
-id="fr_321"></span>[3](#fn_319) who descended into the Underworld and
+id="fr_321"></span>[3](#fn_319.md) who descended into the Underworld and
 forced into submission Eresh-ki-gal (Persephone), with whom he was
 afterwards associated. His "name", says Professor Pinches, "is supposed
 to mean 'lord of the great habitation', which would be a parallel to
-that of his spouse, Eresh-ki-gal". <span id="fr_322"></span>[4](#fn_320)
+that of his spouse, Eresh-ki-gal". <span id="fr_322"></span>[4](#fn_320.md)
 At Erech he symbolized the destroying influence of the sun, and was
 accompanied by the demons of pestilence. Mars was a planet of evil,
 plague, and death; its animal form was the wolf. In Egypt it was
@@ -660,7 +660,7 @@ became, as
 in Egypt, "husbands of their mothers". This idea was perpetuated in the
 Aryo-Indian Laws of Manu, in which it is set forth that "the husband,
 after conception by his wife, becomes an embryo and is born again of
-her". <span id="fr_323"></span>[1](#fn_321) The deities died every year,
+her". <span id="fr_323"></span>[1](#fn_321.md) The deities died every year,
 but death was simply change. Yet they remained in the separate forms
 they assumed in their progress round "the wide circle of necessity".
 Horus was remembered as various planets--as the falcon, as the elder sun
@@ -691,8 +691,8 @@ their
 <span id="page_306">p. 306</span>
 
 several stations", and "also created their images, the stars of the
-Zodiac, <span id="fr_324"></span>[1](#fn_322) and fixed them all" ([p.
-147](mba13.htm#page_147)).
+Zodiac, <span id="fr_324"></span>[1](#fn_322.md) and fixed them all" ([p.
+147](mba13.htm#page_147).md).
 
 Our signs of the Zodiac are of Babylonian origin. They were passed on to
 the Greeks by the Phœnicians and Hittites. "There was a time", says
@@ -707,12 +707,12 @@ research. While certain elements belonging to the prehistoric culture of
 Greece, as revealed at Mykenæ and elsewhere, were derived from Egypt and
 Phoenicia, there are others which point to Asia Minor as their source.
 And the culture of Asia Minor was Hittite." <span
-id="fr_325"></span>[2](#fn_323)
+id="fr_325"></span>[2](#fn_323.md)
 
 The early Babylonian astronomers did not know, of course, that the earth
 revolved round the sun. They believed that the sun travelled across the
 heavens flying like a bird or sailing like a boat. <span
-id="fr_326"></span>[3](#fn_324) In studying its movements they observed
+id="fr_326"></span>[3](#fn_324.md) In studying its movements they observed
 that it always travelled from west to east along a broad path, swinging
 from side to side of it in the course of the year. This path is the
 Zodiac--the celestial "circle of necessity". The middle
@@ -723,7 +723,7 @@ Zodiac--the celestial "circle of necessity". The middle
 AS ASTRONOMICAL SIGNS&lt;br&gt; Sculptured on a stone recording
 privileges granted to Ritti-Marduk by Nebuchadnezzar I&lt;br&gt;
 (&lt;i&gt;British Museum&lt;/i&gt;)](tn/30600.jpg)  
-Click to enlarge](img/30600.jpg)  
+Click to enlarge](img/30600.jpg.md)  
 SYMBOLS OF DEITIES AS ASTRONOMICAL SIGNS  
 Sculptured on a stone recording privileges granted to Ritti-Marduk by
 Nebuchadnezzar I  
@@ -750,12 +750,12 @@ And next the *Crab*, the *Lion* shines.
      The *Virgin* and the *Scales*;  
 The *Scorpion*, *Archer*, and *Sea goat*,  
 The man that holds the water pot,  
-     And *Fish* with glitt’ring <span id="fr_327"></span>[1](#fn_325)
+     And *Fish* with glitt’ring <span id="fr_327"></span>[1](#fn_325.md)
 tails.</span>
 
 </div>
 
-The table on [p. 308](#page_308) shows that our signs are derived from
+The table on [p. 308](#page_308.md) shows that our signs are derived from
 ancient Babylonia.
 
 The celestial regions were also divided into three or more parts. Three
@@ -766,7 +766,7 @@ field was in the south, and was associated with Elam; and Bel's central
 "field" was associated with the land of Akkad. When the rulers of Akkad
 called themselves "kings of the four quarters", the reference was to the
 countries associated with the three divine fields and to Gutium <span
-id="fr_328"></span>[2](#fn_326) (east = our north-east). Was Gutium
+id="fr_328"></span>[2](#fn_326) (east = our north-east.md). Was Gutium
 associated with demons, as in Scandinavia the north-east was associated
 with the giants against whom Thor waged war?
 
@@ -869,7 +869,7 @@ stars of the Zodiac, made three stars for
 
  
 
-each month ([p. 147](mba13.htm#page_147)). Mr. Robert Brown, jun., who
+each month ([p. 147](mba13.htm#page_147).md). Mr. Robert Brown, jun., who
 has dealt as exhaustively with the astronomical problems of Babylonia as
 the available data permitted him, is of opinion that the leading stars
 of three constellations are referred
@@ -888,7 +888,7 @@ twelve in number, to each of whom they assign a month and one of the
 twelve signs of the Zodiac." Through these twelve signs sun, moon, and
 planets run their courses. "And with the zodiacal circle they mark out
 twenty-four stars, half of which they say are arranged in the north and
-half in the south." <span id="fr_329"></span>[1](#fn_327) Mr. Brown
+half in the south." <span id="fr_329"></span>[1](#fn_327.md) Mr. Brown
 shows that the thirty stars referred to "constituted the original
 Euphratean Lunar Zodiac, the parent of the seven ancient lunar zodiacs
 which have come down to us, namely, the Persian, Sogdian, Khorasmian,
@@ -943,7 +943,7 @@ As he made progress in calculations, the primitive
 to have been struck by other details in his anatomy besides his sets of
 five fingers and five toes. He observed, for instance, that his fingers
 were divided into three parts and his thumb into two parts only; <span
-id="fr_330"></span>[1](#fn_328) four fingers multiplied by three gave
+id="fr_330"></span>[1](#fn_328.md) four fingers multiplied by three gave
 him twelve, and multiplying 12 by 3 he reached 36. Apparently the figure
 6 attracted him. His body was divided into 6 parts--2 arms, 2 legs, the
 head, and the trunk; his 2 ears, 2 eyes, and mouth, and nose also gave
@@ -966,9 +966,9 @@ Mr. Hewitt has shown that the chief annual
 festival of the Indian Dravidians begins with the first full moon after
 the winter festival, and Mr. Brown emphasizes the fact that the list of
 Tamil (Dravidian) lunar and solar months are named like the Babylonian
-constellations. <span id="fr_331"></span>[1](#fn_329) "Lunar
+constellations. <span id="fr_331"></span>[1](#fn_329.md) "Lunar
 chronology", wrote Professor Max Müller, "seems everywhere to have
-preceded solar chronology." <span id="fr_332"></span>[2](#fn_330) The
+preceded solar chronology." <span id="fr_332"></span>[2](#fn_330.md) The
 later Semitic Babylonian system had twelve solar chambers and the
 thirty-six constellations.
 
@@ -1009,11 +1009,11 @@ The influence of Babylonia is apparent in these calculations. During the
 Vedic period "Yuga" usually signified a "generation", and there are no
 certain references to the four Ages as such. The names "Kali",
 "Dvapara", "Treta", and "Krita" "occur as the designations of throws of
-dice". <span id="fr_333"></span>[1](#fn_331) It was after the arrival of
+dice". <span id="fr_333"></span>[1](#fn_331.md) It was after the arrival of
 the "late corners", the post-Vedic Aryans, that the Yuga system was
-developed in India. <span id="fr_334"></span>[2](#fn_332)
+developed in India. <span id="fr_334"></span>[2](#fn_332.md)
 
-In *Indian Myth and Legend* <span id="fr_335"></span>[3](#fn_333) it is
+In *Indian Myth and Legend* <span id="fr_335"></span>[3](#fn_333.md) it is
 shown that the Indian and Irish Ages have the same colour sequence: (1)
 White or Silvern, (2) Red or Bronze, (3) Yellow or Golden, and (4) Black
 or Iron. The Greek order is: (1) Golden, (2) Silvern, (3) Bronze, and
@@ -1026,7 +1026,7 @@ Venus, yellow; and Mercury, blue.
 As the ten antediluvian kings who reigned for 120 saroi had an astral
 significance, their long reigns corresponding "with the distances
 separating certain of the principal stars in or near the
-ecliptic", <span id="fr_336"></span>[4](#fn_334) it seems highly
+ecliptic", <span id="fr_336"></span>[4](#fn_334.md) it seems highly
 
 <span id="page_314">p. 314</span>
 
@@ -1045,7 +1045,7 @@ of the bronze fish stone". Mercury, the lapis lazuli planet, may have
 been connected with the black Saturn, the ghost of the dead sun, the
 demoniac elder god; in Egypt lapis lazuli was the hair colour of Ra when
 he grew old, and Egyptologists translate it as black. <span
-id="fr_337"></span>[1](#fn_335) The rare and regular appearances of
+id="fr_337"></span>[1](#fn_335.md) The rare and regular appearances of
 Mercury may have suggested the planet's connection with a recurring Age.
 Venus as an evening star might be regarded as the herald of the lunar or
 silver age; she was propitious as a bearded deity and interchanged with
@@ -1135,19 +1135,19 @@ the astral bodies as spirits or fates, who exercised an influence over
 the gods, the world, and mankind. These were worshipped in groups when
 they were yet nameless. The group addressed, "Powerful, O sevenfold, one
 are ye", may have been a constellation consisting of seven stars. <span
-id="fr_338"></span>[1](#fn_336) The worship of stars and planets, which
+id="fr_338"></span>[1](#fn_336.md) The worship of stars and planets, which
 were identified and named, "seems never to have spread", says Professor
 Sayce, "beyond the learned classes, and to have remained to the last an
 artificial system. The mass of the people worshipped the stars as a
 whole, but it was only as a whole and not individually." <span
-id="fr_339"></span>[2](#fn_337) The masses perpetuated ancient animistic
+id="fr_339"></span>[2](#fn_337.md) The masses perpetuated ancient animistic
 beliefs, like the pre-Hellenic inhabitants of Greece. "The Pelasgians,
 as I was informed at Dodona," wrote Herodotus, "formerly offered all
 things indiscriminately to the gods. They distinguished them by no name
 or surname, for they were hitherto unacquainted with either; but they
 called them gods, which by its etymology means disposers, from observing
 the orderly disposition and distribution of the various parts of the
-universe." <span id="fr_340"></span>[3](#fn_338) The oldest deities are
+universe." <span id="fr_340"></span>[3](#fn_338.md) The oldest deities are
 those which bore no individual names. They were simply "Fates" or groups
 called "Sevenfold". The crude giant gods of Scotland are "Fomhairean"
 (Fomorians), and do not have individual names as in Ireland. Families
@@ -1163,7 +1163,7 @@ gods, and are revealers of the decrees of Fate. "Ye brilliant stars . .
 . ye bright ones . . . to destroy evil did Anu create you. . . . At thy
 command mankind was named (created)! Give thou the Word, and with thee
 let the great gods stand! Give thou my judgment, make my
-decision!" <span id="fr_341"></span>[1](#fn_339)
+decision!" <span id="fr_341"></span>[1](#fn_339.md)
 
 The Indian evidence shows that the constellations, and especially the
 bright stars, were identified before the planets. Indeed, in Vedic
@@ -1173,11 +1173,11 @@ Babylonian gods were associated with the astral bodies, the belief
 obtained that the stars exercised an influence over human lives. In one
 of the Indian "Forest Books", for instance, reference is made to a man
 who was "born under the Nakshatra Rohini". <span
-id="fr_342"></span>[2](#fn_340) "Nakshatras" are stars in the *Rigveda*
+id="fr_342"></span>[2](#fn_340.md) "Nakshatras" are stars in the *Rigveda*
 and later, and "lunar mansions" in Brahmanical compositions. <span
-id="fr_343"></span>[3](#fn_341) "Rohini, 'ruddy', is the name of a
+id="fr_343"></span>[3](#fn_341.md) "Rohini, 'ruddy', is the name of a
 conspicuously reddish star, α Tauri or Aldebaran, and denotes the group
-of the Hyades." <span id="fr_344"></span>[4](#fn_342) This reference may
+of the Hyades." <span id="fr_344"></span>[4](#fn_342.md) This reference may
 be dated before 600 B.C., perhaps 800 B.C.
 
 From Greece comes the evidence of Plutarch regarding the principles of
@@ -1191,7 +1191,7 @@ and three (Sun, Moon, and Mercury) of a middle nature, and one common."
 
 <span class="contnote">\[paragraph continues\]</span> "an astrologer
 would say, these three are propitious with the good, and may be malign
-with the bad." <span id="fr_345"></span>[1](#fn_343)
+with the bad." <span id="fr_345"></span>[1](#fn_343.md)
 
 Jastrow's views in this connection seem highly controversial. He holds
 that Babylonian astrology dealt simply with national affairs, and had no
@@ -1223,14 +1223,14 @@ some popular Greek superstition". The Eskimos, Persians, Aryo-Indians,
 
 <span class="contnote">\[paragraph continues\]</span> Germans, New
 Zealanders, and others had a similar superstition. <span
-id="fr_346"></span>[1](#fn_344)
+id="fr_346"></span>[1](#fn_344.md)
 
 Jastrow goes on to say that the Greeks "imparted their scientific view
 of the Universe to the East. They became the teachers of the East in
 astronomy as in medicine and other sciences, and the credit of having
 discovered the law of the precession of the equinoxes belongs to
 Hipparchus, the Greek astronomer, who announced this important theory
-about the year 130 B.C." <span id="fr_347"></span>[2](#fn_345)
+about the year 130 B.C." <span id="fr_347"></span>[2](#fn_345.md)
 Undoubtedly the Greeks contributed to the advancement of the science of
 astronomy, with which, as other authorities believe, they became
 acquainted after it had become well developed as a science by the
@@ -1240,7 +1240,7 @@ Assyrians and Babylonians.
 Jastrow says, "*it may be assumed* (the italics are ours), contact with
 Greek science gave to the Babylonian astronomers, the Greeks accepted
 from the Babylonians the names of the constellations of the
-ecliptic." <span id="fr_348"></span>[3](#fn_346) This is a grudging
+ecliptic." <span id="fr_348"></span>[3](#fn_346.md) This is a grudging
 admission; they evidently accepted more than the mere names.
 
 Jastrow's hypothesis is certainly interesting, especially as he is an
@@ -1262,7 +1262,7 @@ in Babylonia. During the Sumerian period "the forms and relations of
 geometry", says Professor Goodspeed, "were employed for purposes of
 augury. The heavens were mapped out, and the courses of the heavenly
 bodies traced to determine the bearing of their movements upon human
-destinies." <span id="fr_349"></span>[1](#fn_347)
+destinies." <span id="fr_349"></span>[1](#fn_347.md)
 
 Several centuries before Hipparchus was born, the Assyrian kings had in
 their palaces official astronomers who were able to foretell, with
@@ -1288,13 +1288,13 @@ Babylonia: one at Akkad,
 near Sippara; one at Nippur, now Niffer; and one at Borsippa, within
 sight of Babylon. As Borsippa possessed a university, it was natural
 that one of the three observatories should be established there." <span
-id="fr_350"></span>[1](#fn_348)
+id="fr_350"></span>[1](#fn_348.md)
 
 It is evident that before the astronomers at Nineveh could foretell
 eclipses, they had achieved considerable progress as scientists. The
 data at their disposal probably covered nearly two thousand years. Mr.
 Brown, junior, calculates that the signs of the Zodiac were fixed in the
-year 2084 B.C. <span id="fr_351"></span>[2](#fn_349) These star groups
+year 2084 B.C. <span id="fr_351"></span>[2](#fn_349.md) These star groups
 do not now occupy the positions in which they were observed by the early
 astronomers, because the revolving earth is rocking like a top, with the
 result that the pole does not always keep pointing at the same spot in
@@ -1309,7 +1309,7 @@ As a result of the world-rocking process, the present-day "signs of the
 Zodiac" do not correspond with the constellations. In March, for
 instance, when the sun crosses the equator it enters the sign of the Ram
 (Aries), but does not reach the constellation till the 20th, as the
-comparative table shows on [p. 308](#page_308).
+comparative table shows on [p. 308](#page_308.md).
 
 When "the ecliptic was marked off into the twelve regions" and the signs
 of the Zodiac were designated, "the year of three hundred sixty-five and
@@ -1318,11 +1318,11 @@ reckoned according to twelve months of thirty
 
 <span id="page_323">p. 323</span>
 
-days each, <span id="fr_352"></span>[1](#fn_350) and equated with the
+days each, <span id="fr_352"></span>[1](#fn_350.md) and equated with the
 solar year by intercalating a month at the proper times. . . . The month
 was divided into weeks of seven days. . . . The clepsydra and the
 sundial were Babylonian inventions for measuring time." <span
-id="fr_353"></span>[2](#fn_351)
+id="fr_353"></span>[2](#fn_351.md)
 
 The sundial of Ahaz was probably of Babylonian design. When the shadow
 went "ten degrees backward" (*2 Kings*, xx, 11) ambassadors were sent
@@ -1392,7 +1392,7 @@ not nearly so numerous as when Shakespeare made Malvolio read:
 <span class="small">In my stars I am above thee; but be not afraid of
 greatness: some are born great, some achieve greatness, and some have
 greatness thrust upon ’em. Thy Fates open their hands. . . . <span
-id="fr_354"></span>[1](#fn_352)</span>
+id="fr_354"></span>[1](#fn_352.md)</span>
 
 or when Byron wrote:
 
@@ -1404,7 +1404,7 @@ Of men and empires--'t is to be forgiven
 That in our aspirations to be great,  
 Our destinies o’erleap their mortal state  
 And claim a kindred with you. . . . <span
-id="fr_355"></span>[2](#fn_353)</span>
+id="fr_355"></span>[2](#fn_353.md)</span>
 
 </div>
 
@@ -1420,7 +1420,7 @@ present.
 
 ### Footnotes
 
-<span id="fn_301"></span>[288:1](mba19.htm#fr_303) "It may be worth
+<span id="fn_301"></span>[288:1](mba19.htm#fr_303.md) "It may be worth
 while to note again", says Beddoe, "how often finely developed skulls
 are discovered in the graveyards of old monasteries, and how likely
 seems Galton's conjecture, that progress was arrested in the Middle
@@ -1428,16 +1428,16 @@ Ages, because the celibacy of the clergy brought about the extinction of
 the best strains of blood." *The Anthropological History of Europe*, p.
 161 (1912).
 
-<span id="fn_302"></span>[291:1](mba19.htm#fr_304) *Census of India*,
+<span id="fn_302"></span>[291:1](mba19.htm#fr_304.md) *Census of India*,
 vol. i, part i, pp. 352 *et seq*.
 
-<span id="fn_303"></span>[291:2](mba19.htm#fr_305) *Hibbert Lectures*,
+<span id="fn_303"></span>[291:2](mba19.htm#fr_305.md) *Hibbert Lectures*,
 Professor Sayce, p. 328.
 
-<span id="fn_304"></span>[292:1](mba19.htm#fr_306) *The Story of Nala*,
+<span id="fn_304"></span>[292:1](mba19.htm#fr_306.md) *The Story of Nala*,
 Monier Williams, pp. 68-9 and 77.
 
-<span id="fn_305"></span>[292:2](mba19.htm#fr_307) "In Ymer's flesh (the
+<span id="fn_305"></span>[292:2](mba19.htm#fr_307.md) "In Ymer's flesh (the
 earth) the dwarfs were engendered and began to move and live. . . . The
 dwarfs had been bred in the mould of the earth, just as worms are in a
 dead body." *The Prose Edda*.
@@ -1446,61 +1446,61 @@ dead body." *The Prose Edda*.
 out of <span id="page_293">p. 293</span> Ymer's blood (the sea) and his
 swarthy limbs (the earth)." *The Elder Edda* (*Voluspa*, stanza 9).
 
-<span id="fn_306"></span>[293:1](mba19.htm#fr_308) *The Story of Nala*,
+<span id="fn_306"></span>[293:1](mba19.htm#fr_308.md) *The Story of Nala*,
 Monier Williams, p. 67.
 
-<span id="fn_307"></span>[295:1](mba19.htm#fr_309) *Egyptian Myth and
+<span id="fn_307"></span>[295:1](mba19.htm#fr_309.md) *Egyptian Myth and
 Legend*, pp. 168 *et seq*.
 
-<span id="fn_308"></span>[297:1](mba19.htm#fr_310) *The Burden of Isis*,
+<span id="fn_308"></span>[297:1](mba19.htm#fr_310.md) *The Burden of Isis*,
 Dennis, p. 24.
 
-<span id="fn_309"></span>[298:1](mba19.htm#fr_311) *Babylonian Magic and
+<span id="fn_309"></span>[298:1](mba19.htm#fr_311.md) *Babylonian Magic and
 Sorcery*, p. 117.
 
-<span id="fn_310"></span>[299:1](mba19.htm#fr_312) *Babylonian and
+<span id="fn_310"></span>[299:1](mba19.htm#fr_312.md) *Babylonian and
 Assyrian Religion*, T. G. Pinches, p. 100.
 
-<span id="fn_311"></span>[299:2](mba19.htm#fr_313) *The Burden of Isis*,
+<span id="fn_311"></span>[299:2](mba19.htm#fr_313.md) *The Burden of Isis*,
 J. T. Dennis, p. 49.
 
-<span id="fn_312"></span>[299:3](mba19.htm#fr_314) *Ibid*., p. 52.
+<span id="fn_312"></span>[299:3](mba19.htm#fr_314.md) *Ibid*., p. 52.
 
-<span id="fn_313"></span>[300:1](mba19.htm#fr_315) *Religion of the
+<span id="fn_313"></span>[300:1](mba19.htm#fr_315.md) *Religion of the
 Ancient Egyptians*, A. Wiedemann, p. 30.
 
-<span id="fn_314"></span>[300:2](mba19.htm#fr_316) *Vedic Index*,
+<span id="fn_314"></span>[300:2](mba19.htm#fr_316.md) *Vedic Index*,
 Macdonell & Keith, vol. i, pp. 423 *et seq*.
 
-<span id="fn_315"></span>[302:1](mba19.htm#fr_317) *Religion of the
+<span id="fn_315"></span>[302:1](mba19.htm#fr_317.md) *Religion of the
 Ancient Babylonians*, Sayce, p. 153, n. 6.
 
-<span id="fn_316"></span>[302:2](mba19.htm#fr_318) *Religion of the
+<span id="fn_316"></span>[302:2](mba19.htm#fr_318.md) *Religion of the
 Ancient Egyptians*, A. Wiedemann, p. 30.
 
-<span id="fn_317"></span>[303:1](mba19.htm#fr_319) *Aspects of Religious
+<span id="fn_317"></span>[303:1](mba19.htm#fr_319.md) *Aspects of Religious
 Belief and Practice in Babylonia and Assyria*, p. 95.
 
-<span id="fn_318"></span>[303:2](mba19.htm#fr_320) *Babylonian and
+<span id="fn_318"></span>[303:2](mba19.htm#fr_320.md) *Babylonian and
 Assyrian Religion*, pp. 63 and 83.
 
-<span id="fn_319"></span>[303:3](mba19.htm#fr_321) When the King of
+<span id="fn_319"></span>[303:3](mba19.htm#fr_321.md) When the King of
 Assyria transported the Babylonians, &c., to Samaria "the men of Cuth
 made Nergal", *2 Kings*, xvii, 30.
 
-<span id="fn_320"></span>[303:4](mba19.htm#fr_322) *Babylonian and
+<span id="fn_320"></span>[303:4](mba19.htm#fr_322.md) *Babylonian and
 Assyrian Religion*, p. 80.
 
-<span id="fn_321"></span>[305:1](mba19.htm#fr_323) *Indian Myth and
+<span id="fn_321"></span>[305:1](mba19.htm#fr_323.md) *Indian Myth and
 Legend*, p. 13.
 
-<span id="fn_322"></span>[306:1](mba19.htm#fr_324) Derived from the
+<span id="fn_322"></span>[306:1](mba19.htm#fr_324.md) Derived from the
 Greek *zōon*, an animal.
 
-<span id="fn_323"></span>[306:2](mba19.htm#fr_325) *The Hittites*, pp.
+<span id="fn_323"></span>[306:2](mba19.htm#fr_325.md) *The Hittites*, pp.
 116, 119, 120, 272.
 
-<span id="fn_324"></span>[306:3](mba19.htm#fr_326) "The sun . . . is as
+<span id="fn_324"></span>[306:3](mba19.htm#fr_326.md) "The sun . . . is as
 a bridegroom coming out of his chamber, and rejoiceth as a strong man to
 run a race." (*Psalm* xix, . *et seq*.) The marriage of the sun
 bridegroom with the moon bride appears to occur in Hittite mythology. In
@@ -1509,16 +1509,16 @@ Dawn. The sun maiden also married the moon god. The Vedic gods ran a
 race and Indra and Agni were the winners. The sun was "of the nature of
 Agni". *Indian Myth and Legend*, pp. 14, 36, 37.
 
-<span id="fn_325"></span>[307:1](mba19.htm#fr_327) Or golden.
+<span id="fn_325"></span>[307:1](mba19.htm#fr_327.md) Or golden.
 
-<span id="fn_326"></span>[307:2](mba19.htm#fr_328) The later reference
+<span id="fn_326"></span>[307:2](mba19.htm#fr_328.md) The later reference
 is to Assyria. There was no Assyrian kingdom when these early beliefs
 were developed.
 
-<span id="fn_327"></span>[309:1](mba19.htm#fr_329) *Primitive
+<span id="fn_327"></span>[309:1](mba19.htm#fr_329.md) *Primitive
 Constellations*, R. Brown, jun., vol. ii, p. 1 *et seq*.
 
-<span id="fn_328"></span>[311:1](mba19.htm#fr_330) In India "finger
+<span id="fn_328"></span>[311:1](mba19.htm#fr_330.md) In India "finger
 counting" (Kaur guna) is associated with prayer or the repeating of
 mantras. The counting is performed by the thumb, which, when the hand is
 drawn up, touches the upper part of the third finger. The two upper
@@ -1535,88 +1535,88 @@ front of the body, and the thumb moves each time a mantra is repeated;
 the left hand lies palm upward on the left knee, and the thumb moves
 each time nine mantras have been counted.
 
-<span id="fn_329"></span>[312:1](mba19.htm#fr_331) *Primitive
+<span id="fn_329"></span>[312:1](mba19.htm#fr_331.md) *Primitive
 Constellations*, R. Brown, jun., vol. ii, p. 61; and *Early History of
 Northern India*, J. F. Hewitt, pp. 551-2.
 
-<span id="fn_330"></span>[312:2](mba19.htm#fr_332) *Rigveda-Samhita*,
+<span id="fn_330"></span>[312:2](mba19.htm#fr_332.md) *Rigveda-Samhita*,
 vol. iv (1892), p. 67.
 
-<span id="fn_331"></span>[313:1](mba19.htm#fr_333) *Vedic Index*,
+<span id="fn_331"></span>[313:1](mba19.htm#fr_333.md) *Vedic Index*,
 Macdonell & Keith, vol. ii, pp. 192 *et seq*.
 
-<span id="fn_332"></span>[313:2](mba19.htm#fr_334) *Indian Myth and
+<span id="fn_332"></span>[313:2](mba19.htm#fr_334.md) *Indian Myth and
 Legend*.
 
-<span id="fn_333"></span>[313:3](mba19.htm#fr_335) Pp. 107 *et seq*.
+<span id="fn_333"></span>[313:3](mba19.htm#fr_335.md) Pp. 107 *et seq*.
 
-<span id="fn_334"></span>[313:4](mba19.htm#fr_336) *Primitive
+<span id="fn_334"></span>[313:4](mba19.htm#fr_336.md) *Primitive
 Constellations*, R. Brown, jun., vol. i, 1. 333. A table is given
 showing how 120 saroi equals 360 degrees, each king being identified
 with a star.
 
-<span id="fn_335"></span>[314:1](mba19.htm#fr_337) "Behold, his majesty
+<span id="fn_335"></span>[314:1](mba19.htm#fr_337.md) "Behold, his majesty
 the god Ra is grown old; his bones are become silver, his limbs gold,
 and his hair pure lapis lazuli." *Religion of the Ancient Egyptians*, A.
 Wiedemann, p. 58. Ra became a destroyer after completing his reign as an
 earthly king.
 
-<span id="fn_336"></span>[317:1](mba19.htm#fr_338) As Nin-Girsu, Tammuz
+<span id="fn_336"></span>[317:1](mba19.htm#fr_338.md) As Nin-Girsu, Tammuz
 was associated with "sevenfold" Orion.
 
-<span id="fn_337"></span>[317:2](mba19.htm#fr_339) *Babylonian and
+<span id="fn_337"></span>[317:2](mba19.htm#fr_339.md) *Babylonian and
 Assyrian Life*, pp. 61, 62.
 
-<span id="fn_338"></span>[317:3](mba19.htm#fr_340) *Herodotus* (ii, 52)
+<span id="fn_338"></span>[317:3](mba19.htm#fr_340) *Herodotus* (ii, 52.md)
 as quoted in *Egypt and Scythia* (London, 1886), p. 49.
 
-<span id="fn_339"></span>[318:1](mba19.htm#fr_341) *Babylonian Magic and
+<span id="fn_339"></span>[318:1](mba19.htm#fr_341.md) *Babylonian Magic and
 Sorcery*, L. W. King (London, 1896), pp. 43 and 115.
 
-<span id="fn_340"></span>[318:2](mba19.htm#fr_342) *Vedic Index*,
+<span id="fn_340"></span>[318:2](mba19.htm#fr_342.md) *Vedic Index*,
 Macdonell & Keith, vol. ii, p. 229.
 
-<span id="fn_341"></span>[318:3](mba19.htm#fr_343) *Ibid*., vol. i, pp.
+<span id="fn_341"></span>[318:3](mba19.htm#fr_343.md) *Ibid*., vol. i, pp.
 409, 410.
 
-<span id="fn_342"></span>[318:4](mba19.htm#fr_344) *Ibid*., vol. i, p.
+<span id="fn_342"></span>[318:4](mba19.htm#fr_344.md) *Ibid*., vol. i, p.
 415.
 
-<span id="fn_343"></span>[319:1](mba19.htm#fr_345) *Primitive
+<span id="fn_343"></span>[319:1](mba19.htm#fr_345.md) *Primitive
 Constellations*, vol. i, p. 343.
 
-<span id="fn_344"></span>[320:1](mba19.htm#fr_346) *Custom and Myth*,
+<span id="fn_344"></span>[320:1](mba19.htm#fr_346.md) *Custom and Myth*,
 pp. 133 *et seq*.
 
-<span id="fn_345"></span>[320:2](mba19.htm#fr_347) Dr. Alfred Jeremias
+<span id="fn_345"></span>[320:2](mba19.htm#fr_347.md) Dr. Alfred Jeremias
 gives very forcible reasons for believing that the ancient Babylonians
 were acquainted with the precession of the equinoxes. *Das Alter der
 Babylonischen Astronomie* (Hinrichs, Leipzig, 1908), pp. 47 *et seq*.
 
-<span id="fn_346"></span>[320:3](mba19.htm#fr_348) *Aspects of Religious
+<span id="fn_346"></span>[320:3](mba19.htm#fr_348.md) *Aspects of Religious
 Belief and Practice in Babylonia and Assyria*, pp. 207 *et seq*.
 
-<span id="fn_347"></span>[321:1](mba19.htm#fr_349) *A History of the
+<span id="fn_347"></span>[321:1](mba19.htm#fr_349.md) *A History of the
 Babylonians and Assyrians*, p. 93.
 
-<span id="fn_348"></span>[322:1](mba19.htm#fr_350) *Babylonians and
+<span id="fn_348"></span>[322:1](mba19.htm#fr_350.md) *Babylonians and
 Assyrians: Life and Customs*, pp. 219, 220.
 
-<span id="fn_349"></span>[322:2](mba19.htm#fr_351) *Primitive
+<span id="fn_349"></span>[322:2](mba19.htm#fr_351.md) *Primitive
 Constellations*, vol. ii, pp. 147 *et seq*.
 
-<span id="fn_350"></span>[323:1](mba19.htm#fr_352) The Aryo-Indians had
+<span id="fn_350"></span>[323:1](mba19.htm#fr_352.md) The Aryo-Indians had
 a lunar year of 360 days (*Vedic Index*, ii, 158).
 
-<span id="fn_351"></span>[323:2](mba19.htm#fr_353) *A History of the
+<span id="fn_351"></span>[323:2](mba19.htm#fr_353.md) *A History of the
 Babylonians and Assyrians*, p. 94.
 
-<span id="fn_352"></span>[325:1](mba19.htm#fr_354) *Twelfth Night*, act
+<span id="fn_352"></span>[325:1](mba19.htm#fr_354.md) *Twelfth Night*, act
 ii, scene 5.
 
-<span id="fn_353"></span>[325:2](mba19.htm#fr_355) *Childe Harold*,
+<span id="fn_353"></span>[325:2](mba19.htm#fr_355.md) *Childe Harold*,
 canto iii, v, 88.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Ashur the National God of Assyria](mba20)
+[Next: Chapter XIV. Ashur the National God of Assyria](mba20.md)

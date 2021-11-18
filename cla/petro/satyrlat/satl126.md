@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat16.htm#CXXVI) 
-[Previous](satl125)  [Next](satl127) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat16.htm#CXXVI.md) 
+[Previous](satl125)  [Next](satl127.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ iam tua flammifero membra calore fluent.
 
 ------------------------------------------------------------------------
 
-[Next: CXXVII](satl127)
+[Next: CXXVII](satl127.md)

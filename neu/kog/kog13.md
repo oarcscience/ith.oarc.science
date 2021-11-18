@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog12)  [Next](kog14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog12)  [Next](kog14.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,10 +89,10 @@ fell through it, and here I am now.
 <span id="img_12300"></span>
 
 [![](tn/12300.jpg)  
-Click to enlarge](img/12300.jpg)
+Click to enlarge](img/12300.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Enchanted Princesses](kog14)
+[Next: 11. The Enchanted Princesses](kog14.md)

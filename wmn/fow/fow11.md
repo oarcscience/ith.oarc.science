@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow10)  [Next](fow12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow10)  [Next](fow12.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ is blind as well as love."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Love Tests](fow12)
+[Next: Chapter X: Love Tests](fow12.md)

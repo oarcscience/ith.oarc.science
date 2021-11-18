@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb33)  [Next](vifb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb33)  [Next](vifb35.md) 
 
 </div>
 
@@ -460,6 +460,6 @@ the son of the judge.
 
 ------------------------------------------------------------------------
 
-[Next: The Prince Who Wanted to See the World](vifb35)
+[Next: The Prince Who Wanted to See the World](vifb35.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl21)  [Next](hpl23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl21)  [Next](hpl23.md) 
 
 ------------------------------------------------------------------------
 
@@ -719,4 +719,4 @@ house of Martense.
 
 ------------------------------------------------------------------------
 
-[Next: What the Moon Brings (1923)](hpl23)
+[Next: What the Moon Brings (1923)](hpl23.md)

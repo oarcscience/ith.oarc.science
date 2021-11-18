@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](ktm02)  [Next](ktm04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](ktm02)  [Next](ktm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -309,4 +309,4 @@ token of which we see to this day Her protruding tongue.
 
 ------------------------------------------------------------------------
 
-[Next: Two Saints of Kali](ktm04)
+[Next: Two Saints of Kali](ktm04.md)

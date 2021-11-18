@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ptpl06)  [Next](ptpl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ptpl06)  [Next](ptpl08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Principal Teachings of The True Sect of Pure Land*, by Yejitsu Okusa,
 \[1915\], at Intangible Textual Heritage
 
@@ -138,10 +138,10 @@ understand the foregoing argument more graphically:
 |----------|--------------------------------|-----------------------------------------------------------------------------------|-----------|---------------------------------------------------------------------------------------|
 | Buddhism | The Lesser Vehicle (Hinayāna)  | for Shrāvakas                                                                     |           | The Provisionary                                                                      |
 |          |                                | and Pratyekabuddhas                                                               |           |                                                                                       |
-|          | The Greater Vehicle (Mahāyāna) |                                                                                   | "Gradual" | Path for the Wise—Provisionary one (Shu-shutsu). <span id="fr_43"></span>[43](#fn_43) |
-|          |                                |                                                                                   |           | Path of Pure Land—Provisionary one (Wō-shutsu) <span id="fr_44"></span>[44](#fn_44)   |
-|          |                                |                                                                                   | "Abrupt"  | Path for the Wise—Ultimate teaching (Shu-chō) <span id="fr_45"></span>[45](#fn_45)    |
-|          |                                | Path of Pure Land—Ultimate teaching (Wō-chō) <span id="fr_46"></span>[46](#fn_46) |           | The Ultimate.                                                                         |
+|          | The Greater Vehicle (Mahāyāna) |                                                                                   | "Gradual" | Path for the Wise—Provisionary one (Shu-shutsu). <span id="fr_43"></span>[43](#fn_43.md) |
+|          |                                |                                                                                   |           | Path of Pure Land—Provisionary one (Wō-shutsu) <span id="fr_44"></span>[44](#fn_44.md)   |
+|          |                                |                                                                                   | "Abrupt"  | Path for the Wise—Ultimate teaching (Shu-chō) <span id="fr_45"></span>[45](#fn_45.md)    |
+|          |                                | Path of Pure Land—Ultimate teaching (Wō-chō) <span id="fr_46"></span>[46](#fn_46.md) |           | The Ultimate.                                                                         |
 
 </div>
 
@@ -157,15 +157,15 @@ of Pure Land.
 
 ### Footnotes
 
-<span id="fn_43"></span>[63:43](ptpl07.htm#fr_43) "Lengthwise
+<span id="fn_43"></span>[63:43](ptpl07.htm#fr_43.md) "Lengthwise
 going-out."
 
-<span id="fn_44"></span>[63:44](ptpl07.htm#fr_44) "Crosswise going-out."
+<span id="fn_44"></span>[63:44](ptpl07.htm#fr_44.md) "Crosswise going-out."
 
-<span id="fn_45"></span>[63:45](ptpl07.htm#fr_45) "Lengthwise
+<span id="fn_45"></span>[63:45](ptpl07.htm#fr_45.md) "Lengthwise
 passing-over."
 
-<span id="fn_46"></span>[63:46](ptpl07.htm#fr_46) "Crosswise
+<span id="fn_46"></span>[63:46](ptpl07.htm#fr_46.md) "Crosswise
 passing-over"
 
 These four terms are too technical to be briefly explained here; suffice
@@ -186,4 +186,4 @@ Another."
 
 ------------------------------------------------------------------------
 
-[Next: III. Why Called the True Sect of Pure Land?](ptpl08)
+[Next: III. Why Called the True Sect of Pure Land?](ptpl08.md)

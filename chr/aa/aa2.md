@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](aa1) [Next](aa3)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](aa1) [Next](aa3.md)
 
 ------------------------------------------------------------------------
 
@@ -1860,4 +1860,4 @@ from now unto all time and throughout all ages. Amen.
 
 ------------------------------------------------------------------------
 
-[Next](aa3)
+[Next](aa3.md)

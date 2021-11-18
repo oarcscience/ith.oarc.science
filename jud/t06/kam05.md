@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 6: Tracts Baba Kama (First Gate), Part II and
 Baba Metzia (Middle Gate)*, tr. by Michael L. Rodkinson, \[1918\], at
 Intangible Textual Heritage
@@ -90,7 +90,7 @@ they have to pay the value of her meat in low prices. If, however, their
 father left real estate, they have to pay anyhow."
 
 The rabbis taught: It is written \[Lev. v. 23\]: "He shall restore the
-robbed article which he has robbed." <span id="fr_12"></span>[1](#fn_12)
+robbed article which he has robbed." <span id="fr_12"></span>[1](#fn_12.md)
 Why the repetition "which he has robbed"? To teach that he shall
 
 <span id="page_253">p. 253</span>
@@ -344,7 +344,7 @@ government is in case it is a duty from the fruits of the land or from
 this year; if, however, it is from the last year, for which the
 contractor has paid already to the government, he must not do so." The
 same said again: "Heathens who live in the limit of a Techum <span
-id="fr_13"></span>[1](#fn_13) of the city, who possess cattle and they
+id="fr_13"></span>[1](#fn_13.md) of the city, who possess cattle and they
 are hired to dung the fields, one may not buy an animal from them, for
 fear it may be Jewish cattle, as they usually feed the Jewish cattle
 together; but if they live out of the limit of the Techum, it is
@@ -365,7 +365,7 @@ there are two, they must testify even when they are not called up; and
 this is also only when the case is brought up in a court of violence,
 but in the court of a *Dower* (a Persian prince) they may testify, as
 they also in such a case order only an oath." Said R. Ashi: "When I was
-in the court of R. Kahana <span id="fr_14"></span>[1](#fn_14) we were
+in the court of R. Kahana <span id="fr_14"></span>[1](#fn_14.md) we were
 questioned: "A respectable man upon whom the above court would rely, as
 upon the testimony of two, and he is the only witness, should he not
 testify, because the money would be collected upon his testimony, or
@@ -540,7 +540,7 @@ not differ: the one who says that he has to do with the buyer means, in
 case he bought it before the owner of the article has renounced his hope
 of regaining it, and the one who says that he has to do with the thief
 only, means that the sale was after the hope was renounced, and both
-agree with the theory of R. Hisda"(*supra*, [p. 251](#page_251)). Abayi,
+agree with the theory of R. Hisda"(*supra*, [p. 251](#page_251).md). Abayi,
 however, said: "They do differ, as we find elsewhere concerning the
 gifts of cattle belonging to the priest, which must be considered always
 that the hope of regaining is not renounced, and they differ there
@@ -1101,7 +1101,7 @@ loops on the garment only by three stitches. One shall not comb the
 garment to its shoot, but to its warp, and he shall cut up the fringes
 to its length but not to its width; if by completing it be has to cut up
 in the width also, he may do so, the size of a span." <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 The rabbis taught: "One shall not buy from the carder flocks, because
 they are not his property, unless in such places where it is customary
@@ -1163,16 +1163,16 @@ END OF TRACT BABA KAMA.
 
 ### Footnotes
 
-<span id="fn_12"></span>[252:1](kam05.htm#fr_12) Leeser translates the
+<span id="fn_12"></span>[252:1](kam05.htm#fr_12.md) Leeser translates the
 sense of it. The Talmud, however, takes it literally.
 
-<span id="fn_13"></span>[258:1](kam05.htm#fr_13) Sabbath limit. See
+<span id="fn_13"></span>[258:1](kam05.htm#fr_13.md) Sabbath limit. See
 Erubin, page 100.
 
-<span id="fn_14"></span>[259:1](kam05.htm#fr_14) The text reads Huna,
+<span id="fn_14"></span>[259:1](kam05.htm#fr_14.md) The text reads Huna,
 but by the correction of Asher it is Kahana.
 
-<span id="fn_15"></span>[276:1](kam05.htm#fr_15) Here in the text comes
+<span id="fn_15"></span>[276:1](kam05.htm#fr_15.md) Here in the text comes
 a discussion, how many threads the laborer takes for himself, and then
 some Boraithas contradicting each other in this respect, questions which
 are not decided, and terms of laboring which cannot be understood now

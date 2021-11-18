@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc41)  [Next](sfoc43) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc41)  [Next](sfoc43.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ abundant catch.
 
 ------------------------------------------------------------------------
 
-[Next: Concerning Living Humanity (Love)](sfoc43)
+[Next: Concerning Living Humanity (Love)](sfoc43.md)

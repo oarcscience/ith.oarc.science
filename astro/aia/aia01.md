@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia00)  [Next](aia02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia00)  [Next](aia02.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ ZADKIEL.               
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](aia02)
+[Next: Table of Contents](aia02.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc09)  [Next](phc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc09)  [Next](phc11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -100,7 +100,7 @@ a summer and autumn among the house-flies, sand-flies, gnats,
 mosquitoes, and all the other winged pests of the Shephelah will not
 feel any necessity to emend the text so as to give the Ba‘al of Ekron 'a
 lofty house' or 'the Planet Saturn' or anything else more worthy of
-divinity <span id="fr_114"></span>[1](#fn_114); or to subscribe to
+divinity <span id="fr_114"></span>[1](#fn_114.md); or to subscribe to
 Winckler's arbitrary judgement: 'Natürlich nicht Fliegenba‘al, sondern
 Ba‘al von Zebub, worunter man sich eine Oertlichkeit in Ekron
 vorzustellen hat, etwa den Hügel auf dem der Tempel stand' (*Geschichte
@@ -129,7 +129,7 @@ flies are there in question. Lenormant (*La divination chez les
 Chaldéens*, p. 93) refers to an omen-tablet from which auguries are
 drawn from the behaviour or peculiarities of flies, but unfortunately
 the tablet in question is too broken to give any continuous sense. <span
-id="fr_115"></span>[2](#fn_115)
+id="fr_115"></span>[2](#fn_115.md)
 
 <span id="page_93">p. 93</span>
 
@@ -194,13 +194,13 @@ semitized.
 
 But there is evidence that makes it doubtful whether the assimilation
 had been more than partial. We begin by noting that Herodotus <span
-id="fr_116"></span>[1](#fn_116) specially mentions the temple of ἡ
+id="fr_116"></span>[1](#fn_116.md) specially mentions the temple of ἡ
 Οὐρανία Ἀφροδίτη as standing at Ashkelon, and he tells us that it was
 the oldest of all the temples dedicated to this divinity, older even
 than that in Cyprus, as the Cyprians themselves admitted: also that the
 Scythians plundered the temple and were in consequence afflicted by the
 goddess with a hereditary νοῦσος θήλεια. <span
-id="fr_117"></span>[2](#fn_117) The remarkable inscription found at
+id="fr_117"></span>[2](#fn_117.md) The remarkable inscription found at
 Delos, in which one Damon of Ashkelon dedicates an altar to his tutelary
 divinities, brilliantly confirms the statement of Herodotus. It runs:
 
@@ -210,14 +210,14 @@ divinities, brilliantly confirms the statement of Herodotus. It runs:
 Urania, to the divinities that hearken, Damon son of Demetrios of
 Ashkelon, saved from pirates, makes this vow. It is not lawful to offer
 in sacrifice an animal of the goat or pig species, or a cow.' <span
-id="fr_118"></span>[3](#fn_118)
+id="fr_118"></span>[3](#fn_118.md)
 
 <span id="page_95">p. 95</span>
 
 The Palestinian Astarte is here distinguished from the Aphrodite of
 Ashkelon; and though there obviously was much confusion between them,
 the distinction was real. From Lucian <span
-id="fr_119"></span>[1](#fn_119) we learn that there were two goddesses,
+id="fr_119"></span>[1](#fn_119.md) we learn that there were two goddesses,
 whom he keeps carefully apart, and who indeed were distinguished by
 their bodily form. The goddess of Hierapolis, of whose worship he gives
 us such a lurid description, was in human form: the goddess of
@@ -228,7 +228,7 @@ The name of this goddess, as written in Sidonian inscriptions, was long
 ago explained as a compound of ‏עתר‎ and ‏עתה‎, ‘Atar and ‘Ate. These
 are two well-established divine names; the former is a variant of
 ‘Ashtart, but the latter is more obscure: it is possibly of Lydian
-origin. <span id="fr_120"></span>[2](#fn_120) In Syriac and Talmudic
+origin. <span id="fr_120"></span>[2](#fn_120.md) In Syriac and Talmudic
 writings the compound name appears as Tar‘atha.
 
 The fish-tailed goddess was already antiquated when Lucian wrote. He saw
@@ -295,7 +295,7 @@ a measure refined.
 
 The cult of Britomartis was evidently very ancient. Her temple was said
 to have been built by Daedalus. The name is alleged to mean *uirgo
-dulcis* <span id="fr_121"></span>[1](#fn_121); and as Hesychius and the
+dulcis* <span id="fr_121"></span>[1](#fn_121.md); and as Hesychius and the
 *Etymologicon Magnum* give us respectively γλυκύ and ἀγαθόν as meanings
 of βριτύ or βρίτον,
 
@@ -372,7 +372,7 @@ To the same Cretan-Carian family of legends probably belongs the
 sea-monster group of tales which centre in Joppa and its neighbourhood.
 The chief among them is the story of Perseus the Lycian hero and
 Andromeda; and a passage in Pliny seems to couple this legend with that
-of Derketo. <span id="fr_122"></span>[1](#fn_122) Some such story as
+of Derketo. <span id="fr_122"></span>[1](#fn_122.md) Some such story as
 this may have suggested to the author of the Book of Jonah the machinery
 of his sublime allegory; and no doubt underlies the mediaeval legends of
 St. George and the Dragon, localized in the neighbouring town of Lydd.
@@ -394,7 +394,7 @@ sacredness of fish to the goddess would
 
 follow as a matter of course, and would be most naturally expressed by a
 prohibition against eating certain specified kinds. <span
-id="fr_123"></span>[1](#fn_123) And aetiological myths would of course
+id="fr_123"></span>[1](#fn_123.md) And aetiological myths would of course
 be developed to account for her fish-tail shape. The Dictynna legend,
 with a *Volksetymologie* connecting the name of the nymph with a
 fishing-net, is one version; the legend afterwards attached to Atargatis
@@ -426,11 +426,11 @@ II\. <span class="smallcaps">Dagon</span> was evidently the head of the
 pantheon of the Philistines, after their settlement in Palestine. We
 hear of his temple at Gaza, Ashdod, and, possibly, according to one
 version of the story of the death of Saul, at Beth-Shan. <span
-id="fr_124"></span>[2](#fn_124) Jerome in commenting on 'Bel boweth
+id="fr_124"></span>[2](#fn_124.md) Jerome in commenting on 'Bel boweth
 down, Nebo stoopeth', in Isaiah xlvi. 1 (where some versions of the
 Greek have *Dagon* for *Nebo*), says Dagon is the idol of Ashkelon,
 Gaza, and the other cities of the Philistines. <span
-id="fr_125"></span>[3](#fn_125) The important temple
+id="fr_125"></span>[3](#fn_125.md) The important temple
 
 <span id="page_100">p. 100</span>
 
@@ -464,7 +464,7 @@ more monstrous by supposing that it was the *upper* end which was the
 fishy part. But the idea must have been considerably older than Ḳimḥi.
 As we shall see presently, it underlies one of the readings of the Greek
 translation: and the attempts at etymology in the *Onomastica* <span
-id="fr_126"></span>[1](#fn_126) show clearly that the idea arose out of
+id="fr_126"></span>[1](#fn_126.md) show clearly that the idea arose out of
 the accident that ‏דג‎ means 'a fish', while the story in 1 Samuel v
 requires us to picture the god with hands; coupled with vague
 recollections of the bodily form of the Atargatis of Ashkelon.
@@ -500,7 +500,7 @@ When we turn to the Greek Version we find that it represents a much
 fuller text. It reads thus: …. The passage in brackets has no equivalent
 in the Hebrew text: it suggests that a line has been lost from the
 archetype of the extant Hebrew Version. <span
-id="fr_127"></span>[1](#fn_127) If with some MSS. we omit the first
+id="fr_127"></span>[1](#fn_127.md) If with some MSS. we omit the first
 χειρῶν (which makes no satisfactory sense with ἴχνη), this lost line
 would imply that Dagon's feet were also fallen on the threshold (ἀμαφέθ
 = Hebrew ‏המפתתן‎). This does not accord with the 'fish-tail'
@@ -541,7 +541,7 @@ was said, of this catastrophe; but, as the Greek translators add
 was fitted to a much more ancient rite we need not doubt: the various
 rites and observances relating to *thresholds* are widespread and this
 prohibition is no isolated phenomenon. <span
-id="fr_128"></span>[1](#fn_128) It is not certain whether the threshold
+id="fr_128"></span>[1](#fn_128.md) It is not certain whether the threshold
 of the Ashdod temple only was thus reverently regarded, or whether the
 other Dagon temples had similar observances: the latter is probable,
 though evidently the writer of Samuel supposed that the former was the
@@ -563,13 +563,13 @@ Sanchuniathon cosmogony reported in the
 <span id="page_103">p. 103</span>
 
 fragments of Philo we have an account of his birth from Ouranos and
-Ge, <span id="fr_129"></span>[1](#fn_129) with his brethren Ēlos and
+Ge, <span id="fr_129"></span>[1](#fn_129.md) with his brethren Ēlos and
 Kronos and Baetylos; he is equated to Σίτων 'corn', which is apparently
 personified; and by virtue of this equation he is identified with a Ζεὺς
 Ἀρότριος. All this is very nebulous: and not more definite is the
 curious note respecting the gods Taautos, Kronos, Dagon and the rest
 being symbolized by sacred letters. <span
-id="fr_130"></span>[2](#fn_130) If these passages mean anything at all,
+id="fr_130"></span>[2](#fn_130.md) If these passages mean anything at all,
 they imply that the people who taught the Phoenicians the use of letters
 (and possibly also of baetylic stones) also imparted to them the
 knowledge of the god Dagon. But stories which ostensibly reach us at
@@ -577,7 +577,7 @@ third hand afford a rather unsafe *apparatus criticus*.
 
 In Palestine itself there is clear evidence of the presence of Dagon
 before the coming of the Philistines. A certain Dagan-takala contributed
-two letters <span id="fr_131"></span>[3](#fn_131) to the Tell el-Amarna
+two letters <span id="fr_131"></span>[3](#fn_131.md) to the Tell el-Amarna
 correspondence. By ill-luck they do not mention the place of which he
 was apparently the chieftain, nor do they tell us anything else to the
 point: the one letter is merely a protestation of loyalty, the other the
@@ -594,11 +594,11 @@ Medinet Habu—a list probably copied from an earlier list of Ramessu II.
 There seems no possibility of escaping the conclusion that by <span
 id="img_10300"></span> ![](img/10300.jpg) Bty-Dkn which appears in this
 list, is meant one of the towns called Beth-Dagon. <span
-id="fr_132"></span>[4](#fn_132)
+id="fr_132"></span>[4](#fn_132.md)
 
 Of these villages, one was in the tribe of Asher, another in Judah. The
 southern village described by Jerome <span
-id="fr_133"></span>[5](#fn_133) as of large size,
+id="fr_133"></span>[5](#fn_133.md) as of large size,
 
 <span id="page_104">p. 104</span>
 
@@ -615,10 +615,10 @@ composition of proper names of about 2400 B.C.: a king dated 2145 B.C.
 was Idin-Dagān and he had a son Išme-Dagān: a seal-cylinder exists of a
 certain Dagān-abi son of Ibni-Dagān. In Assyria we find it in the name
 of Dagān-bīlu-uṣur, eponym of the year 879 B.C.: and the name is several
-times coupled with that of Anu <span id="fr_134"></span>[1](#fn_134) in
+times coupled with that of Anu <span id="fr_134"></span>[1](#fn_134.md) in
 cosmogonies and in invocations of various Assyrian kings. The name
 disappears after the ninth century: the late reference to Dagon in the
-Hebrew version of Tobit, chap. i <span id="fr_135"></span>[2](#fn_135),
+Hebrew version of Tobit, chap. i <span id="fr_135"></span>[2](#fn_135.md),
 speaking of Sennacherib being killed ‏בשעה שנבנם להחפלל לפני דגון טעותו‎
 'at the hour when he went in to pray to his idol Dagon', is not of any
 special importance.
@@ -636,7 +636,7 @@ beings, who appeared from time to time under certain of the antediluvian
 kings. There were in all seven, the second and probably the following
 four being called Annedotos, and the last being called Odakon (᾽Ωδάκων
 or Ὀδάκων). The last resembles 'Dagon' in outward form: but the
-elaborate discussion of Hrozný <span id="fr_136"></span>[3](#fn_136) has
+elaborate discussion of Hrozný <span id="fr_136"></span>[3](#fn_136.md) has
 shown that the comparison between the two cannot stand: that the -ων of
 Ὠδάκων is a mere termination: that the names Oannes and Odakon (not
 however Annedotos, so far as has yet been discovered) have their
@@ -647,7 +647,7 @@ disappears. The statements of Damascius (*de Principiis*,
 <span id="page_105">p. 105</span>
 
 c\. 125) about a Babylonian divine pair, Δάχος and Δαχή <span
-id="fr_137"></span>[1](#fn_137) add nothing to the problem: as Rev. P.
+id="fr_137"></span>[1](#fn_137.md) add nothing to the problem: as Rev. P.
 Boylan and Mr. Alton have both pointed out to me, the D is a mistake for
 an A in both cases, and the beings referred to are evidently Lahmu and
 Lahamu.
@@ -678,12 +678,12 @@ was similar to Dagon. We have not found any trace of him in or around
 Crete: the decipherment of the Minoan tablets may possibly tell us
 something about this in the future. But the Etruscans, kinsmen of the
 Philistines, had a myth of a certain Tages, who appeared suddenly <span
-id="fr_138"></span>[2](#fn_138) from the earth in the guise of a boy,
+id="fr_138"></span>[2](#fn_138.md) from the earth in the guise of a boy,
 and who, as they related, was their instructor in the arts of
 soothsaying. This took place 'when an Etruscan named Tarchon was
 ploughing near Tarquinii'—names which immediately recall the *Tarkhu*,
 *Tarkon-demos*, and similar names of Asia Minor. <span
-id="fr_139"></span>[3](#fn_139) Festus (*sub voce*) describes Tages as a
+id="fr_139"></span>[3](#fn_139) Festus (*sub voce*.md) describes Tages as a
 'genii filius, nepos Iouis'. As the Etruscans rejected the letter D,
 
 <span id="page_106">p. 106</span>
@@ -745,10 +745,10 @@ a sanctuary with an ancient tradition; most probably to be identified
 with the Aldioma, or place of Zeus Aldemios. This, according to the
 *Etymologicon Magnum*, was the name of the chief god of Gaza, and a god
 of fertility; probably therefore identical with Marna. <span
-id="fr_140"></span>[1](#fn_140) We hear of the same sanctuary in the
+id="fr_140"></span>[1](#fn_140.md) We hear of the same sanctuary in the
 Talmud: near Gaza was a place called Yerīd or ‘Ithōza (‏עטלוזה‎, also
 written ‏אטליז‎ and ‏אטלים‎) outside the city where an idol was
-worshipped. <span id="fr_141"></span>[2](#fn_141) In the sequel we learn
+worshipped. <span id="fr_141"></span>[2](#fn_141.md) In the sequel we learn
 that Porphyrius took from the Aldioma the stones with which he built the
 church erected by him on the site of the Marneion.
 
@@ -758,10 +758,10 @@ the honours of a pagan divinity. Muntar means 'a watch tower'; but
 possibly the name is a corruption of Marna or \[Brito\]martis.
 
 The name *Marna* is capable of being rendered in Aramaic, Mar-na, <span
-id="fr_142"></span>[3](#fn_142) Our Lord,' and not improbably this is
+id="fr_142"></span>[3](#fn_142.md) Our Lord,' and not improbably this is
 its actual meaning. If so, it is probably an illustration of the
 widespread dislike to, or actual prohibition of, the mention of the real
-name of a divinity. <span id="fr_143"></span>[4](#fn_143) At some time a
+name of a divinity. <span id="fr_143"></span>[4](#fn_143.md) At some time a
 hesitation to name the god—who can hardly be other than Dagon—had
 arisen: the respectful expression 'Our Lord' had by frequent use become
 practically the personal name of the divinity, and had assumed a Greek
@@ -807,7 +807,7 @@ worship thus destroyed. A few excerpts from his work may be here given.
 standing a marble pillar, which they said was Aphrodite; and it was
 above a stone altar, and the form of the pillar was that of an undraped
 woman, ὲχουσης ὅλα τὰ ἄσχημα φαινόμενα, <span
-id="fr_144"></span>[1](#fn_144) and they all of the city used to honour
+id="fr_144"></span>[1](#fn_144.md) and they all of the city used to honour
 the pillar, especially the women, lighting lamps and burning incense.
 For they used to say of her that she used to answer in a dream those who
 wished to enter into matrimony; and telling falsehoods they used to
@@ -913,7 +913,7 @@ the other; in the middle like a ciborium (the canopy above an altar)
 <span id="page_111">p. 111</span>
 
 and it had other things fit for idols and suited to the horrible and
-lawless concomitants of idolatry. <span id="fr_145"></span>[1](#fn_145)
+lawless concomitants of idolatry. <span id="fr_145"></span>[1](#fn_145.md)
 
 This clearly takes us far away from the *megaron* plan of the old Dagon
 temple. We have to do with a peristyle circular building, not unlike the
@@ -966,14 +966,14 @@ other buildings which he had left behind
 
 <span id="img_11200"></span> <span align="CENTER"> [![Fig. 5. Coins of
 Gaza and Ashkelon](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 Fig. 5. Coins of Gaza and Ashkelon  
 </span>
 
 <span class="small">Fig. 5. Coins of Gaza and Ashkelon:—1. Coin of Gaza
 showing Temple of Marna. 2. Coin of Gaza bearing the figure and name of
 Io, and a debased Phoenician *M*, the symbolic initial of Marna. <span
-id="fr_146"></span>[1](#fn_146) 3. Coin of Gaza bearing the figure and
+id="fr_146"></span>[1](#fn_146.md) 3. Coin of Gaza bearing the figure and
 name of Minos. 4. Coin of Gaza bearing the initial of Marna. 5. Coin of
 Ashkelon, with the sacred fishpond. 6. Coin of Ashkelon, with figure of
 Astarte. 7. Coin of Ashkelon, with figure bearing a dove: below, a
@@ -992,12 +992,12 @@ that there was a well in the courtyard of the Marneion,
 as we learn from the account of a miracle performed by him soon after
 the erection of the church.
 
-Jerome, in his *Life of Hilarion*, <span id="fr_147"></span>[1](#fn_147)
+Jerome, in his *Life of Hilarion*, <span id="fr_147"></span>[1](#fn_147.md)
 narrates sundry miraculous events, especially a remarkable victory in
 the circus by a Christian combatant, in which even the pagans were
 compelled to acknowledge *Marnas victus a Christo*. Epiphanius of
 Constantia in his *Ancoratus*, p. 109, <span
-id="fr_148"></span>[2](#fn_148) enumerating a number of persons who have
+id="fr_148"></span>[2](#fn_148.md) enumerating a number of persons who have
 been deified, speaks of Marnas the slave of Asterios of Crete as having
 so been honoured in Gaza. Here again the persistent Cretan tradition
 appears, but what the value or even the meaning of this particular form
@@ -1007,7 +1007,7 @@ old sanctuary inscribed ΜΑΡΝΑι ΑCΤΕΡΙωι ΚΡΗΤΑΓΕΝΗι.
 
 Outside Gaza there is scarcely any hint of Marna-worship. The name is
 used as an expletive in Lampridius's *Life of Alexander Severus*: and
-Waddington <span id="fr_149"></span>[3](#fn_149) reports an inscription
+Waddington <span id="fr_149"></span>[3](#fn_149.md) reports an inscription
 from Kanata (Kerak), built into a modern wall, and reading ΑΝΝΗΛ\[Ο\]C
 ΚΑΜΑCΑΝΟΥ ΕΠΟΗCΕ ΔΙΙ ΜΑΡΝΑι Τωι ΚΥΡΙωι. But Annēlos very likely was a
 native of Gaza. A well-known statue found many years ago near Gaza, and
@@ -1017,15 +1017,15 @@ Hester Stanhope found a similar statue at Ashkelon, but destroyed it.
 
 Certain heathenized Jews of Constantia adored as deities Marthus (or
 Marthys) and Marthana, the daughters of a certain false prophet of the
-time of Trajan, by name Elzai <span id="fr_150"></span>[4](#fn_150): but
+time of Trajan, by name Elzai <span id="fr_150"></span>[4](#fn_150.md): but
 this is hardly more than a coincidence.
 
 In Ashkelon, also, there was a special deity in late Pagan times. This
 was Ἀσκληπιὸς λεοντοῦχος, once referred to by Marinus, writing in the
-fifth century A. D. <span id="fr_151"></span>[5](#fn_151) It may be that
+fifth century A. D. <span id="fr_151"></span>[5](#fn_151.md) It may be that
 this is the deity spoken of in the Talmud, which mentions a temple of
 Ṣaripa (‏צריפא‎) at Ashkelon, evidently a form of Serapis. <span
-id="fr_152"></span>[6](#fn_152) But we know nothing of 'Asclepius the
+id="fr_152"></span>[6](#fn_152.md) But we know nothing of 'Asclepius the
 lion-holder' but his name. Probably the name of the town suggested a
 dedication to the similarly sounding Asclepius, just as it suggested the
 word ΑCΦΑΛΗC on the coins of the city. Asclepius does not appear, so far
@@ -1035,7 +1035,7 @@ as I can find, on any coins of Ashkelon. Mars, Neptune,
 
 the genius of the city, and Aphrodite Urania, are the deities generally
 found on the coins: once or twice the latter is represented standing on
-lions. <span id="fr_153"></span>[1](#fn_153) On other coins an erection
+lions. <span id="fr_153"></span>[1](#fn_153.md) On other coins an erection
 is represented which may be the λίμν or fish-pond for which the
 sanctuary was famous (see fig. 5, p. 112).
 
@@ -1043,17 +1043,17 @@ sanctuary was famous (see fig. 5, p. 112).
 
 ### Footnotes
 
-<span id="fn_114"></span>[92:1](phc10.htm#fr_114) Neither will he feel
+<span id="fn_114"></span>[92:1](phc10.htm#fr_114.md) Neither will he feel
 any necessity to picture John the Baptist feeding on locust-pods instead
 of locusts, which the fellahin still eat with apparent relish.
 
-<span id="fn_115"></span>[92:2](phc10.htm#fr_115) For Babylonian omens
+<span id="fn_115"></span>[92:2](phc10.htm#fr_115.md) For Babylonian omens
 derived from various insects see Hunger, *Babylonische Tieromina in
 Mitt. vorderas. Gesell.* (1909), 3.
 
-<span id="fn_116"></span>[94:1](phc10.htm#fr_116) i. 105.
+<span id="fn_116"></span>[94:1](phc10.htm#fr_116.md) i. 105.
 
-<span id="fn_117"></span>[94:2](phc10.htm#fr_117) Some have compared
+<span id="fn_117"></span>[94:2](phc10.htm#fr_117.md) Some have compared
 with this the outbreak of disease consequent on the capture of the Ark.
 But the two are entirely independent. The Scythian disease, whatever it
 may have been, was not bubonic plague, and the Philistine disease was
@@ -1064,7 +1064,7 @@ to the Irish legend of the *Tain Bó Cuailnge*. This is supposed to be a
 distorted tradition of the custom of the *couvade*, a theory which only
 adds difficulties to the original obscurity of the myth.)
 
-<span id="fn_118"></span>[94:3](phc10.htm#fr_118) Clermont-Ganneau,
+<span id="fn_118"></span>[94:3](phc10.htm#fr_118.md) Clermont-Ganneau,
 discussing this inscription (*Acad. des Inscriptions*, 1909), acutely
 points out that αἴγειον, ὑικόν are neuter adjectives, depending on some
 such word as ζῷον, so that all animals of these species are forbidden:
@@ -1078,43 +1078,43 @@ sacrifice unlawful in his or her worship. Other inscriptions are quoted
 in the same article showing a considerable intercourse between the
 Ashkelonites and the island of Delos.
 
-<span id="fn_119"></span>[95:1](phc10.htm#fr_119) *De Dea Syria*, 14.
+<span id="fn_119"></span>[95:1](phc10.htm#fr_119.md) *De Dea Syria*, 14.
 
-<span id="fn_120"></span>[95:2](phc10.htm#fr_120) See a careful
+<span id="fn_120"></span>[95:2](phc10.htm#fr_120.md) See a careful
 discussion in Baethgen, *Beitr*. 71 ff.
 
-<span id="fn_121"></span>[96:1](phc10.htm#fr_121) 'Cretes Dianam
+<span id="fn_121"></span>[96:1](phc10.htm#fr_121.md) 'Cretes Dianam
 religiosissime venerantur, βριθομάρτην gentiliter nominantes quod
 sermone nostro sonat uirginem dulcem.'—Solinus, *Polyhistor*. ch. xvi.
 
-<span id="fn_122"></span>[98:1](phc10.htm#fr_122) 'Iope Phoenicum,
+<span id="fn_122"></span>[98:1](phc10.htm#fr_122.md) 'Iope Phoenicum,
 antiquior terrarum inundatione, ut ferunt. Insidet collem praeiacente
 saxo, in quo uinculorum Andromedae uestigia ostendunt; colitur illic
 fabulosa &lt;Der&gt;ceto.'—*Hist. Nat.* v. xiii. 69.
 
-<span id="fn_123"></span>[99:1](phc10.htm#fr_123) Possibly some
+<span id="fn_123"></span>[99:1](phc10.htm#fr_123.md) Possibly some
 apparently irrational prohibition of a palatable species is at the base
 of the half-humorous stories of the greedy queen.
 
-<span id="fn_124"></span>[99:2](phc10.htm#fr_124) Assuming the trophy to
+<span id="fn_124"></span>[99:2](phc10.htm#fr_124.md) Assuming the trophy to
 have been exposed in the same town as the body—which is nowhere
 stated—then even if it were actually hung in the temple of 'Ashtaroth'
 (i.e. Atargatis-Britomartis), there was probably a temple of Dagon also
 in the town, to give rise to the parallel tradition.
 
-<span id="fn_125"></span>[99:3](phc10.htm#fr_125) 'Nabo autem et ipsum
+<span id="fn_125"></span>[99:3](phc10.htm#fr_125.md) 'Nabo autem et ipsum
 idolum est quod interpretatur *prophetia et divinatio*, quam post
 Euangelii ueritatem in toto orbe conticuisse significat. Siue, iuxta
 LXX, *Dagon*, qui tamen in Hebraico non habetur. Et est idolum
 Ascalonis, Gazae, et reliquarum urbium Philisthiim.'
 
-<span id="fn_126"></span>[100:1](phc10.htm#fr_126) … (Vatican
+<span id="fn_126"></span>[100:1](phc10.htm#fr_126.md) … (Vatican
 Onomasticon, ed. Lagarde, p. 215): 'Dagon piscis tristitiae' (Jerome,
 Liber interpret. hebraic. nominum, ed. Lagarde, p. 62). The analysis
 suggested is ‏דג-און‎. It reminds one of Stephanus of Byzantium's story
 about Ashdod: ….
 
-<span id="fn_127"></span>[101:1](phc10.htm#fr_127) Probably two adjacent
+<span id="fn_127"></span>[101:1](phc10.htm#fr_127.md) Probably two adjacent
 lines ended thus:
 
 <div style="margin-left: 32px">
@@ -1127,93 +1127,93 @@ lines ended thus:
 
 and the homoeoteleuton caused the scribe's eye to wander.
 
-<span id="fn_128"></span>[102:1](phc10.htm#fr_128) On the whole subject
+<span id="fn_128"></span>[102:1](phc10.htm#fr_128.md) On the whole subject
 see H. C. Trumbull, *The Threshold Covenant, or the Beginning of
 Religious Rites* (Edinburgh, 1896).
 
-<span id="fn_129"></span>[103:1](phc10.htm#fr_129) ….—Frag. Philo
+<span id="fn_129"></span>[103:1](phc10.htm#fr_129.md) ….—Frag. Philo
 Byblios 13, Müller, *Fragmm*. iii, p. 567.
 
-<span id="fn_130"></span>[103:2](phc10.htm#fr_130) ….—ib. p. 569.
+<span id="fn_130"></span>[103:2](phc10.htm#fr_130.md) ….—ib. p. 569.
 
-<span id="fn_131"></span>[103:3](phc10.htm#fr_131) Winckler, 215, 216;
+<span id="fn_131"></span>[103:3](phc10.htm#fr_131.md) Winckler, 215, 216;
 Knudtzon, 317, 318.
 
-<span id="fn_132"></span>[103:4](phc10.htm#fr_132) See Max Müller,
+<span id="fn_132"></span>[103:4](phc10.htm#fr_132.md) See Max Müller,
 *Egyptian Researches*, i. 49, plate 68.
 
-<span id="fn_133"></span>[103:5](phc10.htm#fr_133) *De situ et nominibus
+<span id="fn_133"></span>[103:5](phc10.htm#fr_133.md) *De situ et nominibus
 locorum*, ed. Lagarde, p. 138.
 
-<span id="fn_134"></span>[104:1](phc10.htm#fr_134) See Jensen,
+<span id="fn_134"></span>[104:1](phc10.htm#fr_134.md) See Jensen,
 *Kosmologie der Babylonier*, pp. 449–456, and Paton's article 'Dagan' in
 Hastings's *Encyclopaedia of Religion and Ethics*.
 
-<span id="fn_135"></span>[104:2](phc10.htm#fr_135) Ed. Neubauer, p. 20,
+<span id="fn_135"></span>[104:2](phc10.htm#fr_135.md) Ed. Neubauer, p. 20,
 xlvii.
 
-<span id="fn_136"></span>[104:3](phc10.htm#fr_136)
+<span id="fn_136"></span>[104:3](phc10.htm#fr_136.md)
 *Sumerisch-babylonische Mythen von dem Gotte Ninrag* (Mitth. der
 vorderas. Gesell. (1903), 5).
 
-<span id="fn_137"></span>[105:1](phc10.htm#fr_137) ….
+<span id="fn_137"></span>[105:1](phc10.htm#fr_137.md) ….
 
-<span id="fn_138"></span>[105:2](phc10.htm#fr_138) Cf. the sudden
+<span id="fn_138"></span>[105:2](phc10.htm#fr_138.md) Cf. the sudden
 appearances of Britomartis in Aegina, Pausanias, II. xxx. 3.
 
-<span id="fn_139"></span>[105:3](phc10.htm#fr_139) See Cic. *de
+<span id="fn_139"></span>[105:3](phc10.htm#fr_139.md) See Cic. *de
 Divinatione*, ii. 23.
 
-<span id="fn_140"></span>[107:1](phc10.htm#fr_140) Aldemios was probably
+<span id="fn_140"></span>[107:1](phc10.htm#fr_140.md) Aldemios was probably
 another name of Marna. The *Etymologicon Magnum* gives us ….—*Etym.
 Magn.* ed: Gaisford, col. 58. 20.
 
-<span id="fn_141"></span>[107:2](phc10.htm#fr_141) Neubauer, *Geog. d.
+<span id="fn_141"></span>[107:2](phc10.htm#fr_141.md) Neubauer, *Geog. d.
 Talmud*. With Yerīd compare *‘Ain Yerdeh*, the name of a spring outside
 the important city of Gezer.
 
-<span id="fn_142"></span>[107:3](phc10.htm#fr_142) It is probably a mere
+<span id="fn_142"></span>[107:3](phc10.htm#fr_142.md) It is probably a mere
 coincidence that there was a river-god of the same name at Ephesus,
 mentioned on coins of that city of the time of Domitian (ΜΑΡΝΑC or
 ΕΦΕCΙΩΝ ΜΑΡΝΑC), as well as in an inscription from an aqueduct at
 Ephesus, now in the British Museum. See Roscher, *Lexicon*, s.v.
 
-<span id="fn_143"></span>[107:4](phc10.htm#fr_143) The word *Mar*,
+<span id="fn_143"></span>[107:4](phc10.htm#fr_143.md) The word *Mar*,
 'Lord,' is used in the modern Syrian church as a title of respect for
 saints and bishops. A pagan name ‏מריחב‎ (= ‏מרי יחב‎, 'Mar has given')
 illustrates its application to divinity.
 
-<span id="fn_144"></span>[108:1](phc10.htm#fr_144) The fish-tail has now
+<span id="fn_144"></span>[108:1](phc10.htm#fr_144.md) The fish-tail has now
 disappeared.
 
-<span id="fn_145"></span>[111:1](phc10.htm#fr_145) ….
+<span id="fn_145"></span>[111:1](phc10.htm#fr_145.md) ….
 
-<span id="fn_146"></span>[112:1](phc10.htm#fr_146) ….—Damascius.
+<span id="fn_146"></span>[112:1](phc10.htm#fr_146.md) ….—Damascius.
 
-<span id="fn_147"></span>[113:1](phc10.htm#fr_147) Ed. Migne, xxiii. 27.
+<span id="fn_147"></span>[113:1](phc10.htm#fr_147.md) Ed. Migne, xxiii. 27.
 
-<span id="fn_148"></span>[113:2](phc10.htm#fr_148) Ed. Migne, xliii.
+<span id="fn_148"></span>[113:2](phc10.htm#fr_148.md) Ed. Migne, xliii.
 209: ….
 
-<span id="fn_149"></span>[113:3](phc10.htm#fr_149) Inscriptions, in Le
+<span id="fn_149"></span>[113:3](phc10.htm#fr_149.md) Inscriptions, in Le
 Bas, *Voyage archéologique en Grèce* . . .
 
-<span id="fn_150"></span>[113:4](phc10.htm#fr_150) Epiphanius, *Contra
+<span id="fn_150"></span>[113:4](phc10.htm#fr_150.md) Epiphanius, *Contra
 Haeres*. I. xix.
 
-<span id="fn_151"></span>[113:5](phc10.htm#fr_151) ….—Marinus, *Vita
+<span id="fn_151"></span>[113:5](phc10.htm#fr_151.md) ….—Marinus, *Vita
 Procli*, ch. 19.
 
-<span id="fn_152"></span>[113:6](phc10.htm#fr_152) Hildesheimer,
+<span id="fn_152"></span>[113:6](phc10.htm#fr_152.md) Hildesheimer,
 *Beiträge zur Geog. Palästinas*, p. 3.
 
-<span id="fn_153"></span>[114:1](phc10.htm#fr_153) See De Saulcy,
+<span id="fn_153"></span>[114:1](phc10.htm#fr_153.md) See De Saulcy,
 *Numismatique de la Terre Sainte*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: IV. Their Place in History and Civilization](phc11)
+[Next: IV. Their Place in History and Civilization](phc11.md)
 
 </div>

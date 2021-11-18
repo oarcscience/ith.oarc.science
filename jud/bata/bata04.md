@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](bata03)  [Next](bata05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](bata03)  [Next](bata05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Talmud in Selection*, by Leo Auerbach, \[1944\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ Intangible Textual Heritage
 ### (<span class="smallcaps">Tractate Peah</span>)
 
 THE following have no prescribed measure: *Peah*, <span
-id="fr_1"></span>[\*](#fn_1) First-Fruits, Festival-Offerings, deeds of
+id="fr_1"></span>[\*](#fn_1.md) First-Fruits, Festival-Offerings, deeds of
 kindness, and the study of the Law. And the following are the things the
 fruit of which a man enjoys in this world, but the capital fund of which
 remains for him in the world to come: The honoring of father and mother,
@@ -195,7 +195,7 @@ the wise, and perverteth the words of the righteous*.
 
 ### Footnotes
 
-<span id="fn_1"></span>[49:\*](bata04.htm#fr_1) Peah: corner of the
+<span id="fn_1"></span>[49:\*](bata04.htm#fr_1.md) Peah: corner of the
 field, the portion of the crop that must be left by the owner to the
 poor. See *Leviticus* xix, 9, xxiii, 22.
 
@@ -203,6 +203,6 @@ poor. See *Leviticus* xix, 9, xxiii, 22.
 
 ------------------------------------------------------------------------
 
-[Next: Sabbath (Tractate Sabbath)](bata05)
+[Next: Sabbath (Tractate Sabbath)](bata05.md)
 
 </div>

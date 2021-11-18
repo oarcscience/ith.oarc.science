@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca48)  [Next](fsca50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca48)  [Next](fsca50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ at Intangible Textual Heritage
 
 <span id="page_203">p. 203</span>
 
-<span id="img_20300"></span> ![The Lynx.](img/20300.jpg)
+<span id="img_20300"></span> ![The Lynx.](img/20300.jpg.md)
 
 ### The Lynx
 
@@ -67,4 +67,4 @@ Norway, where they are usually termed lizards.
 
 ------------------------------------------------------------------------
 
-[Next: Cat-a-Mountain—Tiger Cat or Wild Cat](fsca50)
+[Next: Cat-a-Mountain—Tiger Cat or Wild Cat](fsca50.md)

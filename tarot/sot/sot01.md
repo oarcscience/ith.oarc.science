@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot00) 
-[Next](sot02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot00.md) 
+[Next](sot02.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ and a developed imagination are required. One who understands the use of
 symbolism in the arts, knows, in a general way, what is meant by occult
 symbolism. But even then a special training of the mind is necessary, in
 order to comprehend the "language of the Initiates", and to
-[express](errata.htm#0) in this language the intuitions as they arise.
+[express](errata.htm#0.md) in this language the intuitions as they arise.
 
 There are many methods for developing the "sense of symbols" in those
 who are striving to understand the hidden forces of Nature and Man, and
@@ -267,7 +267,7 @@ is
 not often suspected because the Tarot is rarely mentioned. Oswald Wirth
 speaks of origin of the Tarot in his Essay upon the Astronomical Tarot.
 
-"According to Christian, <span id="fr_0"></span>[1](#fn_0) the
+"According to Christian, <span id="fr_0"></span>[1](#fn_0.md) the
 twenty-two major arcana of the Tarot represent the hieroglyphic
 paintings which were found in the spaces between the columns of a
 gallery which the neophyte was obliged to cross in the Egyptian
@@ -481,7 +481,7 @@ Card XXI.--"World".
 
 Nature. The World as it is. Nature in its noumenal aspect. Esoteric side
 of nature. That which is made known in esoterism. Inner reality of
-things. Human [consciousness](errata.htm#1) in the circle of time
+things. Human [consciousness](errata.htm#1.md) in the circle of time
 between the four elements.
 
 Card 0.--"The Fool".
@@ -523,8 +523,8 @@ XVII--The Star; XVIII--The Moon.
 
 ### Footnotes
 
-<span id="fn_0"></span>[12:1](sot01.htm#fr_0) "Histoire do la Magie".
+<span id="fn_0"></span>[12:1](sot01.htm#fr_0.md) "Histoire do la Magie".
 
 ------------------------------------------------------------------------
 
-[Next: Card I. The Magician](sot02)
+[Next: Card I. The Magician](sot02.md)

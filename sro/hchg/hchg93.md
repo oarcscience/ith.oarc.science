@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg92)  [Next](hchg94) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg92)  [Next](hchg94.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ Guiot* and had himself visited Jerusalem.
 
 Karl Simrock: The *Parzival* of Wolfram von Eschenbach translated into
 modern German, 1842, immediately after the completion of San Marte's
-enterprise and traversing his most important [views](errata.htm#4);
+enterprise and traversing his most important [views](errata.htm#4.md);
 Parzival und Titurel, 1857.  
 This writer maintained: (*a*) That the original Graal Legend was
 connected with St. John Baptist, whose head was enshrined at
@@ -345,4 +345,4 @@ previous English authorities.
 
 ------------------------------------------------------------------------
 
-[Next: Part III. Phases of Interpretation](hchg94)
+[Next: Part III. Phases of Interpretation](hchg94.md)

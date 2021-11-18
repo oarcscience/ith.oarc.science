@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft39)  [Next](ftft41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft39)  [Next](ftft41.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_307">p. 307</span>
 
-<span id="img_30700"></span> ![Shah Jussuf](img/30700.jpg)
+<span id="img_30700"></span> ![Shah Jussuf](img/30700.jpg.md)
 
 <span id="img_iinit"></span>
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N a certain country lived a man who had three daughters. So poor were
 they that one day there was not even a crust of bread in the house; and
@@ -56,7 +56,7 @@ man much gold, he departed with her.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 FTER they had gone some distance the Arab said to the maiden: "Shut your
 eyes--open your eyes!" Immediately she found herself in a magnificent
@@ -89,7 +89,7 @@ father and sisters?" The Arab replied: "Call me not lala:
 <span id="img_30900"></span>
 
 [![While she slept the bey of the palace entered](tn/30900.jpg)  
-Click to enlarge](img/30900.jpg)  
+Click to enlarge](img/30900.jpg.md)  
   
 
 <span id="page_310">p. 310</span>
@@ -137,7 +137,7 @@ Slaves
 
 |                                       |
 |---------------------------------------|
-| ![She met a Dew-woman](img/31100.jpg) |
+| ![She met a Dew-woman](img/31100.jpg.md) |
 
 carried her to bed, and, as usual, the bey came and stood looking at
 her. Hearing footsteps, she could not help opening her eyes to see who
@@ -204,7 +204,7 @@ treated with kindness.
 
 |                     |
 |---------------------|
-| ![S](img/sinit.jpg) |
+| ![S](img/sinit.jpg.md) |
 
 EVEN years the maiden passed in their company, and when the seventh year
 had nearly run out, the Dew-woman observed one day to the maiden: "Shah
@@ -286,4 +286,4 @@ happiness to the end of a long life.
 
 ------------------------------------------------------------------------
 
-[Next: The Black Dragon and the Red Dragon](ftft41)
+[Next: The Black Dragon and the Red Dragon](ftft41.md)

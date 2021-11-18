@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](smog00)    [Page
-Index](pageidx)    [Text \[Zipped\]](smog.txt.gz)
+[Contents](#contents)    [Start Reading](smog00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](smog.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -52,13 +52,13 @@ omitted in the PG text.--J.B. Hare, December 19, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](smog00)  
-[Contents](smog01)  
-[Part One: Author's Foreword](smog02)  
-[Part Two: Olaf Jansen's Story](smog03)  
-[Part Three: Beyond the North Wind](smog04)  
-[Part Four: In the Under World](smog05)  
-[Part Five: Among the Ice Packs](smog06)  
-[Part Six: Conclusion](smog07)  
-[Part Seven: Author's Afterword](smog08)  
-[Advertisements](smog09)  
+<span id="contents"></span> [Title Page](smog00.md)  
+[Contents](smog01.md)  
+[Part One: Author's Foreword](smog02.md)  
+[Part Two: Olaf Jansen's Story](smog03.md)  
+[Part Three: Beyond the North Wind](smog04.md)  
+[Part Four: In the Under World](smog05.md)  
+[Part Five: Among the Ice Packs](smog06.md)  
+[Part Six: Conclusion](smog07.md)  
+[Part Seven: Author's Afterword](smog08.md)  
+[Advertisements](smog09.md)  

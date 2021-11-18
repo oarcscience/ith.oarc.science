@@ -1,26 +1,26 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod24)  [Next](eod26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod24)  [Next](eod26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-#### THE THUNDER-WEAPON. <span id="fr_202"></span>[1](#fn_202)
+#### THE THUNDER-WEAPON. <span id="fr_202"></span>[1](#fn_202.md)
 
 In the development of the dragon-story we have seen that the instruments
 of destruction were of a most varied kind. Each of the three primary
@@ -45,14 +45,14 @@ and converted it into an actual Cyclopean eye planted in the forehead,
 which shot out the destroying fire.
 
 The warrior god of Babylonia is called the bright one, <span
-id="fr_203"></span>[1](#fn_203) the sword or lightning of Ishtar, who
+id="fr_203"></span>[1](#fn_203.md) the sword or lightning of Ishtar, who
 was herself called both the sword or lightning of heaven.
 
 In the Ægean area also the sons of Zeus and the progeny of heaven may be
 axes, stone implements, meteoric stones and thunderbolts. In a Swahili
 tale the hero's weapon is "a sword like a flash of lightning".
 
-According to Bergaigne, <span id="fr_204"></span>[2](#fn_204) the myth
+According to Bergaigne, <span id="fr_204"></span>[2](#fn_204.md) the myth
 of the celestial drink *soma*, brought down from heaven by a bird
 ordinarily called *çyena*, "eagle," is parallel to that of Agni, the
 celestial fire brought by Mâtariçvan. This parallelism is even expressly
@@ -94,7 +94,7 @@ earth as a fiery bolt to destroy the enemies of Re.
 The recognition of the homology of the winged disk with the double axe
 solves a host of problems which have puzzled classical scholars within
 recent years. The form of the double axe on the Mycenæan ring <span
-id="fr_205"></span>[1](#fn_205) and the painted sarcophagus from Hagia
+id="fr_205"></span>[1](#fn_205.md) and the painted sarcophagus from Hagia
 Triada in Crete (and especially the oblique markings upon the axe) is
 probably a suggestion of the double series of feathers and the outlines
 of the individual feathers respectively on the wings. The position of
@@ -102,7 +102,7 @@ the axe upon a symbolic tree is not intended, as Blinkenberg claims
 (*op. cit.*, p. 21), as "a ritual representation of the trees struck by
 lightning": but is the familiar scene of the Mesopotamian culture-area,
 the tree of life surmounted by the winged disk. <span
-id="fr_206"></span>[2](#fn_206)
+id="fr_206"></span>[2](#fn_206.md)
 
 The bird poised upon the axe in the Cretan picture is the homologue of
 the falcon of Horus: it is in fact a second representation of the winged
@@ -117,7 +117,7 @@ Central America and Mexico, where the ancient sculptors
 
 and painters represented the bird perched upon the tree of life as a
 falcon, an eagle, a vulture, a macaw or even a turkey. <span
-id="fr_207"></span>[1](#fn_207)
+id="fr_207"></span>[1](#fn_207.md)
 
 The incident of the winged disk descending to effect the sun-god's
 purposes upon earth probably represents the earliest record of the
@@ -129,11 +129,11 @@ preserved for us in the Saga of the Winged Disk.
 
 The sacred axe of Crete is represented elsewhere as a sword which became
 the visible impersonation of the deity. <span
-id="fr_208"></span>[2](#fn_208) There is a Hittite story of a
+id="fr_208"></span>[2](#fn_208.md) There is a Hittite story of a
 sword-handle coming to life. Hose and McDougall refer to the same
 incident in certain Sarawak legends; and the story is true to the
 original in the fact that the sword fell from the sun. <span
-id="fr_209"></span>[3](#fn_209)
+id="fr_209"></span>[3](#fn_209.md)
 
 Sir Arthur Evans describes as "the aniconic image of the god" a stone
 pillar on which crude pictures of a double axe have been scratched.
@@ -148,29 +148,29 @@ in the stone.
 
 The Hittites seem to have substituted the winged disk as a
 representation of the sun: for in a design copied from a seal <span
-id="fr_210"></span>[4](#fn_210) we find the Egyptian symbol borne upon
+id="fr_210"></span>[4](#fn_210.md) we find the Egyptian symbol borne upon
 the apex of a cone.
 
 The transition from this to the great double axe from Hagia Triada in
-the Candia Museum <span id="fr_211"></span>[5](#fn_211) is a relatively
+the Candia Museum <span id="fr_211"></span>[5](#fn_211.md) is a relatively
 easy one, which was materially helped, as we shall see, by the fact that
 the winged disk was actually homologized with an axe or knife as
 alternative weapons used by the sun-god for the destruction of mankind.
 
 In Dr. Seligman's account of the Dinka rain-maker (*supra*, [p.
-113](eod24.htm#page_113))
+113](eod24.htm#page_113).md)
 
 <span id="page_125">p. 125</span>
 
 we have already seen that the Soudanese Osiris was identified with a
 spear and falling stars.
 
-According to Dr. Budge <span id="fr_212"></span>[1](#fn_212) the
+According to Dr. Budge <span id="fr_212"></span>[1](#fn_212.md) the
 Egyptian hieroglyph used as the determinative of the word *neter*,
 meaning god or spirit, is the axe with a handle. Mr. Griffith, however,
 interprets it as a roll of yellow cloth ("Hieroglyphics," p. 46). On
 Hittite seals the axe sometimes takes the place of the god Teshub. <span
-id="fr_213"></span>[2](#fn_213)
+id="fr_213"></span>[2](#fn_213.md)
 
 Sir Arthur Evans endeavours to explain these conceptions by a vague
 appeal to certain natural phenomena (*op. cit.*, pp. 20 and 21); but the
@@ -227,7 +227,7 @@ Egyptians," vol. i., p. 414).
 The identification of the winged disk with the thunderbolt which emerges
 so definitely from these homologies is not altogether new, for it was
 suggested some years ago by Count d’Alviella <span
-id="fr_214"></span>[1](#fn_214) in these words:—
+id="fr_214"></span>[1](#fn_214.md) in these words:—
 
 "On seeing some representations of the Thunderbolt which recall in a
 remarkable manner the outlines of the Winged Globe, it may be asked if
@@ -242,9 +242,9 @@ but which are really the result of crossing between these two emblems".
 
 The thunderbolt, however, is not always, or even commonly, the direct
 representative of the winged disk. It is more often derived from
-lightning or some floral design. <span id="fr_215"></span>[2](#fn_215)
+lightning or some floral design. <span id="fr_215"></span>[2](#fn_215.md)
 
-According to Count d’Alviella <span id="fr_216"></span>[3](#fn_216) "the
+According to Count d’Alviella <span id="fr_216"></span>[3](#fn_216.md) "the
 Trident of Siva at times exhibits the form of a lotus calyx depicted in
 the Egyptian manner".
 
@@ -283,7 +283,7 @@ transformation of Egyptian palmette pillars into the rayed pillars of
 Cyprus, in which the leaflets of the palmette become converted (in the
 Cypro-Mycenæan derivatives) into the rays which he calls "the natural
 concomitant of divinities of light". <span
-id="fr_217"></span>[1](#fn_217)
+id="fr_217"></span>[1](#fn_217.md)
 
 The underlying motive which makes such a transference easy is the
 Egyptian conception of Hathor as a sacred lotus from which the sun-god
@@ -296,7 +296,7 @@ because they represent forms of Horus or his mother.
 
 The classical keraunos is still preserved in Tibet as the *dorje*, which
 is identified with Indra's thunderbolt, the *vajra*. <span
-id="fr_218"></span>[2](#fn_218) This word is also applied to the
+id="fr_218"></span>[2](#fn_218.md) This word is also applied to the
 diamond, the "king of stones," which in turn acquired many of the
 attributes of the pearl, another of the Great
 
@@ -304,7 +304,7 @@ attributes of the pearl, another of the Great
 
 <span class="contnote">\[paragraph continues\]</span> Mother's
 surrogates, which is reputed to have fallen from heaven like the
-thunderbolt. <span id="fr_219"></span>[1](#fn_219)
+thunderbolt. <span id="fr_219"></span>[1](#fn_219.md)
 
 The Tibetan *dorje*, like its Greek original, is obviously a
 conventionalized flower, the leaf-design about the base of the corona
@@ -317,7 +317,7 @@ Aristophanes as declaring that *Aithér* at the creation devised
 <div style="margin-left: 32px">
 
 The eye to mimic the wheel of the sun." <span
-id="fr_220"></span>[2](#fn_220)
+id="fr_220"></span>[2](#fn_220.md)
 
 </div>
 
@@ -352,13 +352,13 @@ descendants" (p. 57).
 Discussing the relationship of the sun-god to thunder, Dr. Rendel Harris
 refers to the fact that Apollo's "arrows are said to be lightnings," and
 he quotes Pausanias, Apollodorus and Mr. A. B. Cook in substantiation of
-his statements. <span id="fr_221"></span>[1](#fn_221) Both sons of Zeus,
+his statements. <span id="fr_221"></span>[1](#fn_221.md) Both sons of Zeus,
 Dionysus and Apollo, are "concerned with the production of fire".
 
 According to Hyginus, Typhon was the son of Tartarus and the Earth: he
 made war against Jupiter for dominion, and, being struck by lightning,
 was thrown flaming to the earth, where Mount Ætna was placed upon
-him. <span id="fr_222"></span>[2](#fn_222)
+him. <span id="fr_222"></span>[2](#fn_222.md)
 
 In this curious variant of the story of the winged disk, the conflict of
 Horus with Set is merged with the Destruction, for the son of Tartarus
@@ -405,7 +405,7 @@ baneful thunder-weapon.
 
 ### Footnotes
 
-<span id="fn_202"></span>[121:1](eod25.htm#fr_202) The history of the
+<span id="fn_202"></span>[121:1](eod25.htm#fr_202.md) The history of the
 thunder-weapon cannot wholly be ignored in discussing the dragon-myth
 because it forms an integral part of the story. It was animated both by
 the dragon and the dragon-slayer. But an adequate account of the weapon
@@ -418,57 +418,57 @@ reference is made in these pages) for material, especially in the form
 of illustrations, to supplement my brief and unavoidably involved
 summary.
 
-<span id="fn_203"></span>[122:1](eod25.htm#fr_203) As in Egypt Osiris is
+<span id="fn_203"></span>[122:1](eod25.htm#fr_203.md) As in Egypt Osiris is
 described as "a ray of light" which issued from the moon (Hathor),
 *i.e.* was born of the Great Mother.
 
-<span id="fn_204"></span>[122:2](eod25.htm#fr_204) "Religion védique,"
+<span id="fn_204"></span>[122:2](eod25.htm#fr_204.md) "Religion védique,"
 i., p. 173, quoted by S. Reinach, "Ætos Prometheus," *Revue
 archéologique*, 4<sup>ie</sup> série, tome x., 1917, p. 72.
 
-<span id="fn_205"></span>[123:1](eod25.htm#fr_205) Evans, *op. cit.*,
+<span id="fn_205"></span>[123:1](eod25.htm#fr_205.md) Evans, *op. cit.*,
 Fig. 4, p. 10.
 
-<span id="fn_206"></span>[123:2](eod25.htm#fr_206) William Hayes Ward,
+<span id="fn_206"></span>[123:2](eod25.htm#fr_206.md) William Hayes Ward,
 "The Seal Cylinders of Western Asia," chapter xxxviii.
 
-<span id="fn_207"></span>[124:1](eod25.htm#fr_207) Seler, "Codex
+<span id="fn_207"></span>[124:1](eod25.htm#fr_207.md) Seler, "Codex
 Vaticanus, No. 3773," vol. i., p. 77 *et seq*.
 
-<span id="fn_208"></span>[124:2](eod25.htm#fr_208) Evans, *op. cit.*, p.
+<span id="fn_208"></span>[124:2](eod25.htm#fr_208.md) Evans, *op. cit.*, p.
 8.
 
-<span id="fn_209"></span>[124:3](eod25.htm#fr_209) "The Pagan Tribes of
+<span id="fn_209"></span>[124:3](eod25.htm#fr_209.md) "The Pagan Tribes of
 Borneo," 1912, vol. ii., p. 137.
 
-<span id="fn_210"></span>[124:4](eod25.htm#fr_210) Evans, *op. cit.*,
+<span id="fn_210"></span>[124:4](eod25.htm#fr_210.md) Evans, *op. cit.*,
 Fig. 8, c, p. 17.
 
-<span id="fn_211"></span>[124:5](eod25.htm#fr_211) There is an excellent
+<span id="fn_211"></span>[124:5](eod25.htm#fr_211.md) There is an excellent
 photograph of this in Donald McKenzie's "Myths of Crete and Pre-Hellenic
 Europe," facing p. 160.
 
-<span id="fn_212"></span>[125:1](eod25.htm#fr_212) "The Gods of the
+<span id="fn_212"></span>[125:1](eod25.htm#fr_212.md) "The Gods of the
 Egyptians," vol. i., pp. 63 *et seq*.
 
-<span id="fn_213"></span>[125:2](eod25.htm#fr_213) See, for example,
+<span id="fn_213"></span>[125:2](eod25.htm#fr_213.md) See, for example,
 Ward, *op. cit.*, p. 411.
 
-<span id="fn_214"></span>[126:1](eod25.htm#fr_214) "The Migration of
+<span id="fn_214"></span>[126:1](eod25.htm#fr_214.md) "The Migration of
 Symbols," pp. 220 and 221.
 
-<span id="fn_215"></span>[126:2](eod25.htm#fr_215) Blinkenberg, *op.
+<span id="fn_215"></span>[126:2](eod25.htm#fr_215.md) Blinkenberg, *op.
 cit.*, p. 53.
 
-<span id="fn_216"></span>[126:3](eod25.htm#fr_216) *Op. cit.*, p. 256.
+<span id="fn_216"></span>[126:3](eod25.htm#fr_216.md) *Op. cit.*, p. 256.
 
-<span id="fn_217"></span>[127:1](eod25.htm#fr_217) "Mycenæan Tree and
+<span id="fn_217"></span>[127:1](eod25.htm#fr_217.md) "Mycenæan Tree and
 Pillar Cult," pp. 51 and 52.
 
-<span id="fn_218"></span>[127:2](eod25.htm#fr_218) See Blinkenberg, *op.
+<span id="fn_218"></span>[127:2](eod25.htm#fr_218.md) See Blinkenberg, *op.
 cit.*, pp. 45-8.
 
-<span id="fn_219"></span>[128:1](eod25.htm#fr_219) I must defer
+<span id="fn_219"></span>[128:1](eod25.htm#fr_219.md) I must defer
 consideration of the part played by certain of the Great Mother's
 surrogates in the development of the thunder-weapon's symbolism and the
 associated folk-lore. I have in mind especially the influence of the
@@ -483,13 +483,13 @@ seven-headed dragon, which ranges from Scotland to Japan and from
 Scandinavia to the Zambesi. In "The Birth of Aphrodite" I shall call
 attention to the basal factors in its evolution.
 
-<span id="fn_220"></span>[128:2](eod25.htm#fr_220) A. B. Cook, "Zeus,"
+<span id="fn_220"></span>[128:2](eod25.htm#fr_220.md) A. B. Cook, "Zeus,"
 vol. i., p. 198.
 
-<span id="fn_221"></span>[129:1](eod25.htm#fr_221) "The Ascent of
+<span id="fn_221"></span>[129:1](eod25.htm#fr_221.md) "The Ascent of
 Olympus," p. 32.
 
-<span id="fn_222"></span>[129:2](eod25.htm#fr_222) Tartarus ex Terra
+<span id="fn_222"></span>[129:2](eod25.htm#fr_222.md) Tartarus ex Terra
 procreavit Typhonem, immani magnitudine, specieque portentosa, cui
 centum capita draconum ex humeris enata erant. Hic Jovem provocavit, si
 vellet secum de regno centare. Jovis fulmine ardenti pectus ejus
@@ -498,4 +498,4 @@ eum imposuit; qui ex eo adhuc ardere dicitur" (Hyginus, fab. 152).
 
 ------------------------------------------------------------------------
 
-[Next: The Deer](eod26)
+[Next: The Deer](eod26.md)

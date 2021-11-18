@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ajp05)  [Next](ajp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ajp05)  [Next](ajp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Jewish Proverbs*, by Abraham Cohen, \[1911\], at Intangible
 Textual Heritage
 
@@ -352,4 +352,4 @@ classed legally with highway robbers and murderers (Ned. iii. 4).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Human Virtues](ajp07)
+[Next: Chapter III: Human Virtues](ajp07.md)

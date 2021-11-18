@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](tpol12)  [Next](tpol14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](tpol12)  [Next](tpol14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path of Light*, by L.D. Barnett, \[1909\], at Intangible Textual
 Heritage
 
@@ -136,7 +136,7 @@ antinomy. But in the same way as Buddhism, while denying the Brahmanic
 conception of the soul, substitutes for it the *santāna*, or succession
 of moments of consciousness, which practically differs very little from
 it, so its conception of Nirvāṇa practically amounted to much the same
-as the Brahmanic) ideal. See above, [p. 19](tpol03.htm#page_19).
+as the Brahmanic) ideal. See above, [p. 19](tpol03.htm#page_19.md).
 
 \(14\) The "lucky jar" is a magic vessel in which is found whatever the
 owner desires; the "wishing-tree" and the "cow of plenty" are part of
@@ -244,7 +244,7 @@ various motives of other creatures with whom he has dealings.
 \(31\) This refers to the Eastern custom of keeping fish alive in tanks
 until they are needed for the kitchen.
 
-\(32\) See [p. 76](tpol10.htm#page_76).
+\(32\) See [p. 76](tpol10.htm#page_76.md).
 
 \(33\) This is a polemical reference to the Hīna-yāna school of
 Buddhism, of which the adepts (*Śrāvaka*) sought enlightenment and
@@ -337,12 +337,12 @@ somewhat uncertain, I have omitted it in my translation.
 omitted in this translation, as its 58 verses contain only prayers for
 the welfare of all beings for the sake of the merit acquired by our
 author in composing this work. A quotation is given in the Introduction,
-[p. 26](tpol03.htm#page_26) f.
+[p. 26](tpol03.htm#page_26.md) f.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](tpol14)
+[Next: Appendix](tpol14.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,40 +23,40 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](phy00)  
-[Preface](phy01)  
-[Contents](phy02)  
-[Mona's Isle](phy03)  
+[Title Page](phy00.md)  
+[Preface](phy01.md)  
+[Contents](phy02.md)  
+[Mona's Isle](phy03.md)  
 <span id="section_000"></span>
 
 ### The Phynodderree: A Tale of Fairy Love
 
-[Chapter I](phy04)  
-[Chapter II](phy05)  
-[Chapter III](phy06)  
-[Chapter IV](phy07)  
-[Chapter V](phy08)  
+[Chapter I](phy04.md)  
+[Chapter II](phy05.md)  
+[Chapter III](phy06.md)  
+[Chapter IV](phy07.md)  
+[Chapter V](phy08.md)  
 <span id="section_001"></span>
 
 ### Tom Kewley and the Lannanshee
 
-[Chapter I](phy09)  
-[Chapter II](phy10)  
-[Chapter III](phy11)  
-[Chapter IV](phy12)  
+[Chapter I](phy09.md)  
+[Chapter II](phy10.md)  
+[Chapter III](phy11.md)  
+[Chapter IV](phy12.md)  
 <span id="section_002"></span>
 
 ### King Olave the Second and the Great Sword Macabuin
 
-[Chapter I](phy13)  
-[Chapter II](phy14)  
-[Chapter III](phy15)  
-[Chapter IV](phy16)  
+[Chapter I](phy13.md)  
+[Chapter II](phy14.md)  
+[Chapter III](phy15.md)  
+[Chapter IV](phy16.md)  
 <span id="section_003"></span>
 
 ### The Buggane's Vow
 
-[Chapter I](phy17)  
-[Chapter II](phy18)  
-[Chapter III](phy19)  
-[Chapter VI](phy20)  
+[Chapter I](phy17.md)  
+[Chapter II](phy18.md)  
+[Chapter III](phy19.md)  
+[Chapter VI](phy20.md)  

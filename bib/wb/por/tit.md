@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ti2)  [Next](plm) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ti2)  [Next](plm.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ Saúda aqueles que nos amam na fé. A graça seja com todos vós.
 
 ------------------------------------------------------------------------
 
-[Next: Philemon](plm)
+[Next: Philemon](plm.md)

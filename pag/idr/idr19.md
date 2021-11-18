@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr18) 
-[Next](idr20) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr18.md) 
+[Next](idr20.md) 
 
 ------------------------------------------------------------------------
 
@@ -1480,4 +1480,4 @@ those in the men and women of old Erin.
 
 ------------------------------------------------------------------------
 
-[Next: Idol-Worship](idr20)
+[Next: Idol-Worship](idr20.md)

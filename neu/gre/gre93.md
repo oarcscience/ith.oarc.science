@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre92)  [Next](gre94) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre92)  [Next](gre94.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ till he came to Micklegarth, and there took war-hire.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXXIX: How the Short-Sword was the easier known when
-sought for by reason of the notch in the blade](gre94)
+sought for by reason of the notch in the blade](gre94.md)

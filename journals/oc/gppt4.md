@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index) [Index](gppt0) [Previous](gppt3) [Next](gppt5)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index) [Index](gppt0) [Previous](gppt3) [Next](gppt5.md)
 
 ------------------------------------------------------------------------
 
@@ -53,11 +53,11 @@ SINS.
 
 <span class="small">Now first translated from the Pâli by ALBERT J.
 EDMUNDS.<span id="page_628_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_628_note_1)</span>
+class="small">1</span></sup>](#page_628_note_1.md)</span>
 
 >    Middling Collection, Dialogue No. 86.
 >
->    [Luke xxiii. 39-43](../../bib/kjv/luk.htm#23:39).--And one of the
+>    [Luke xxiii. 39-43](../../bib/kjv/luk.htm#23:39.md).--And one of the
 > malefactors which were hanged railed on him, saying, Art not thou the
 > Christ? save thyself and us. But the other answered, and rebuking him
 > said, Dost thou not even fear God, seeing thou art in the same
@@ -66,11 +66,11 @@ class="small">1</span></sup>](#page_628_note_1)</span>
 > remember me when thou comest in thy kingdom. And he said unto him,
 > Verily I say unto thee, To-day shalt thou be with me in Paradise.
 >
->    [John iii. 5](../../bib/kjv/joh.htm#3:5).--Jesus answered, Verily,
+>    [John iii. 5](../../bib/kjv/joh.htm#3:5.md).--Jesus answered, Verily,
 > verily, I say unto thee, Except a man be born of water and the Spirit,
 > he cannot enter into the kingdom of God.
 >
->    [Mark ii. 5](../../bib/kjv/mar.htm#2:5).--And Jesus seeing their
+>    [Mark ii. 5](../../bib/kjv/mar.htm#2:5.md).--And Jesus seeing their
 > faith saith unto the sick of the palsy, Son, thy sins are forgiven.
 >
 >    Cf. also Eusebius H. E. iii. 23 (the story of the Apostle John
@@ -142,7 +142,7 @@ standing, and thou art not."
 
    "Long has the great Seer (*Isi*),<span
 id="page_630_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_630_note_1) this philosopher
+class="small">1</span></sup>](#page_630_note_1.md) this philosopher
 debating in the great Wood, been revered by me;
 
    "I myself will renounce evil for long, having heard thy stanza that
@@ -150,7 +150,7 @@ is linked with religion.
 
    "Even thus does a robber resemble<span
 id="page_630_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_630_note_2) a sword or a weapon at
+class="small">2</span></sup>](#page_630_note_2.md) a sword or a weapon at
 the pit and precipice of hell."
 
    The robber bowed at the feet of the Auspicious One, and begged of him
@@ -204,7 +204,7 @@ offer him a seat, or present him with robe and alms-bowl, lodging-place,
 the requisites for sickness, medicine and conveniences; and we should
 appoint for him the protection, toleration, and defence that are due to
 religion.<span id="page_631_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_631_note_1) But, Lord, how could
+class="small">1</span></sup>](#page_631_note_1.md) But, Lord, how could
 there be such moral restraint in an immoral, wicked man like him?"
 
    Now at that time the venerable Finger-garland was sitting not far
@@ -319,7 +319,7 @@ beyond the grave.\]
 
 ------------------------------------------------------------------------
 
-[Next](gppt5)
+[Next](gppt5.md)
 
 ------------------------------------------------------------------------
 
@@ -327,7 +327,7 @@ beyond the grave.\]
 
 <span id="footnotes_page_628">p. 628</span>
 
-<span id="page_628_note_1"></span>[1](#page_628_fr_1). There is a
+<span id="page_628_note_1"></span>[1](#page_628_fr_1.md). There is a
 corrupt version of this story in Spence Hardy, translated from mediæval
 Ceylon sources, but the present is its first translation from the Pâli.
 Its antiquity is attested by the Pâli Great Chronicle, which tells us
@@ -340,14 +340,14 @@ not been read by the author.-*Ed*.\]
 
 <span id="footnotes_page_630">p. 630</span>
 
-<span id="page_630_note_1"></span>[1](#page_630_fr_1). Sanskrit,
+<span id="page_630_note_1"></span>[1](#page_630_fr_1.md). Sanskrit,
 *Rishi*.
 
-<span id="page_630_note_2"></span>[2](#page_630_fr_2). *Anvakârî*.
+<span id="page_630_note_2"></span>[2](#page_630_fr_2.md). *Anvakârî*.
 
 <span id="footnotes_page_631">p. 631</span>
 
-<span id="page_631_note_1"></span>[1](#page_631_fr_1). Rhys Davids
+<span id="page_631_note_1"></span>[1](#page_631_fr_1.md). Rhys Davids
 translates the same phrase in the *Long Collection* thus: "watch and
 ward and guard, according to the law." The "or" in our present
 translation of this paragraph arises from a difference in the text.

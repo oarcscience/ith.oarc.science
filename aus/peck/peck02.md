@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck01)  [Next](peck03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck01)  [Next](peck03.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ not 'pourangiling.' No 'kurru' are there!"
 
 ------------------------------------------------------------------------
 
-[Next: A Royal Visit](peck03)
+[Next: A Royal Visit](peck03.md)

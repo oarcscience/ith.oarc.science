@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Next](seh01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Next](seh01.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_front"></span>
 
 [![SISTER NIVEDITA (MARGARET E. NOBLE)](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 SISTER NIVEDITA (MARGARET E. NOBLE)  
 
 # STUDIES FROM AN EASTERN HOME
@@ -37,7 +37,7 @@ SISTER NIVEDITA (MARGARET E. NOBLE)
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 Scanned at Intangible Textual Heritage, February 2006. Proofed and
@@ -48,4 +48,4 @@ attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Works by Sister Nivedita](seh01)
+[Next: Works by Sister Nivedita](seh01.md)

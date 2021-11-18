@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps18)  [Next](rps20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps18)  [Next](rps20.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ Speak with MORTALS, not Angels, King Alpha and Queen Omega K.O.K.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 18. My Rain Bow Circle Throne](rps20)
+[Next: Chapter 18. My Rain Bow Circle Throne](rps20.md)

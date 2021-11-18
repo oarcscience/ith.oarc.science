@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dof00)  [Next](dof02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dof00)  [Next](dof02.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,7 +63,7 @@ faith. For the light of heaven is spiritual light.
 
 This then is the reason why those who are in the spiritual affection of
 truth possess an internal acknowledgment of truth. <span
-id="fr_0"></span>[4-1](#fn_0) As the angels are in this affection, they
+id="fr_0"></span>[4-1](#fn_0.md) As the angels are in this affection, they
 discard the dogma that the understanding must be kept in obedience to
 faith, and say, "What is this? believing when you do not see whether the
 thing is true?" And if somebody says that still it is to be believed,
@@ -173,7 +173,7 @@ will now say what charity is. In its origin or beginning, charity is the
 affection of good, and as good loves truth, the affection of good
 produces the affection of truth, and through it the acknowledgment of
 truth which is faith. Through this succession, the affection of
-good <span id="fr_1"></span>[13-1](#fn_1) comes forth into manifest
+good <span id="fr_1"></span>[13-1](#fn_1.md) comes forth into manifest
 being, and becomes charity. This is the progressive advance of charity
 from its origin which is the affection of good, through faith which is
 the acknowledgment of truth, to its final end in view, which is charity.
@@ -495,7 +495,7 @@ in the will is called good.
 <span class="margnote"><span id="34.">34.</span></span>
 
 THE CHRISTIAN FAITH IN ITS UNIVERSAL IDEA OR FORM. <span
-id="fr_2"></span>[34-1](#fn_2) The Christian Faith in its universal idea
+id="fr_2"></span>[34-1](#fn_2.md) The Christian Faith in its universal idea
 or form is this: The Lord from eternity, who is Jehovah, came into the
 world to subdue the hells, and to glorify His Human; and without this no
 mortal could have been saved; and they are saved who believe in Him.
@@ -750,20 +750,20 @@ Canaan, and often harried the sons of Israel.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4-1](dof01.htm#fr_0) The spiritual affection of
+<span id="fn_0"></span>[4-1](dof01.htm#fr_0.md) The spiritual affection of
 truth is the love of truth for its own sake, and because we have eternal
 life by means of its teaching. See the Apocalypse Explained (n. 115,
 444:10).\[TR.\]
 
-<span id="fn_1"></span>[13-1](dof01.htm#fr_1) The Latin here reads
+<span id="fn_1"></span>[13-1](dof01.htm#fr_1.md) The Latin here reads
 "affection of truth," which is evidently a slip of the pen or else
 printer's error, as the context shows. \[TR.\]
 
-<span id="fn_2"></span>[34-1](dof01.htm#fr_2) The Latin word idea is
+<span id="fn_2"></span>[34-1](dof01.htm#fr_2.md) The Latin word idea is
 evidently used here in its original Greek sense of form. See the True
 Christian Religion (n. 2), where Swedenborg in exactly the same
 connection uses the word forma instead of idea. \[TR.\]
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](dof02)
+[Next: 51-100](dof02.md)

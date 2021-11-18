@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi301)  [Next](mtsi303) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi301)  [Next](mtsi303.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ the river bank, one bending over the water. He cooked one and when it
 was done he split it in two and said to himself, "I will eat it when it
 is cool, and meanwhile lie down on my back and go to sleep."
 
-It was the end of the fourth day <span id="fr_89"></span>[1](#fn_88)
+It was the end of the fourth day <span id="fr_89"></span>[1](#fn_88.md)
 when he awoke, and lots of maggots had come out on him. "The turtles
 have pulled up the tree near which I put them and it is standing up in
 the deep water near the other side of the river," he said.
@@ -71,9 +71,9 @@ shooting them it sounded like that."
 
 ### Footnotes
 
-<span id="fn_88"></span>[262:1](mtsi302.htm#fr_89) So the text, but a
+<span id="fn_88"></span>[262:1](mtsi302.htm#fr_89.md) So the text, but a
 longer time seems to be indicated.
 
 ------------------------------------------------------------------------
 
-[Next: 38. The Mosquito](mtsi303)
+[Next: 38. The Mosquito](mtsi303.md)

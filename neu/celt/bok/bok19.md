@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok18)  [Next](bok20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok18)  [Next](bok20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -21,7 +21,7 @@ THE GENEALOGY OF CHRIST. FOL. 200 R.
 
 <span id="img_pl15"></span> <span align="CENTER"> [![Plate
 XV](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 Plate XV  
 </span>
 
@@ -53,6 +53,6 @@ QUI FUIT MAATH.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XVI. The Genealogy—continued. Fol. 200 V](bok20)
+[Next: Plate XVI. The Genealogy—continued. Fol. 200 V](bok20.md)
 
 </div>

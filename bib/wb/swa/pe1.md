@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jam)  [Next](pe2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jam)  [Next](pe2.md) 
 
 ------------------------------------------------------------------------
 
@@ -412,4 +412,4 @@ Kikristo. Nawatakieni amani ninyi mlio wake Kristo.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Peter](pe2)
+[Next: 2 Peter](pe2.md)

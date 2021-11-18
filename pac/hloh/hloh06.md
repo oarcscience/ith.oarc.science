@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh05)  [Next](hloh07) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh05)  [Next](hloh07.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ these primitive people.
 
 ------------------------------------------------------------------------
 
-[Next: III. The God of Pakaka Temple](hloh07)
+[Next: III. The God of Pakaka Temple](hloh07.md)

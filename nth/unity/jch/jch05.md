@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](jch04)  [Next](jch06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](jch04)  [Next](jch06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Jesus Christ heals*, by Charles Fillmore, \[1939\], at Intangible
 Textual Heritage
 
@@ -418,4 +418,4 @@ as from the Lord the Spirit."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](jch06)
+[Next: Chapter 4](jch06.md)

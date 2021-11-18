@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar05)  [Next](gar07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar05)  [Next](gar07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -63,7 +63,7 @@ The universal principles of the Art unite,
 in one indissoluble bond of affection, men of the most opposite tenets,
 of the most distant countries, and of the most contradictory opinions;
 so that in every nation a Mason may find a friend, and in every climate
-a home. <span id="fr_3"></span>[\*](gar07.htm#fn_3)
+a home. <span id="fr_3"></span>[\*](gar07.htm#fn_3.md)
 
 Such is the nature of our institution, that, in the Lodge, which is
 confined to no particular spot, union is cemented by sincere attachment,
@@ -75,4 +75,4 @@ attention.—PRESTON.
 
 ------------------------------------------------------------------------
 
-[Next: Government of the Fraternity](gar07)
+[Next: Government of the Fraternity](gar07.md)

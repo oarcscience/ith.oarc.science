@@ -1,6 +1,6 @@
-<span class="small">[Intangible Textual Heritage](../../index) 
-[Northern European Texts](../index)  [Index](index) 
-[Next](rol01)</span>
+<span class="small">[Intangible Textual Heritage](../../index.md) 
+[Northern European Texts](../index)  [Index](index.md) 
+[Next](rol01.md)</span>
 
 ------------------------------------------------------------------------
 

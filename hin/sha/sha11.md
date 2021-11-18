@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha10)  [Next](sha12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha10)  [Next](sha12.md) 
 
 ------------------------------------------------------------------------
 
@@ -681,4 +681,4 @@ And make me free of all rebirth.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Shakuntala](sha12)
+[Next: The Story of Shakuntala](sha12.md)

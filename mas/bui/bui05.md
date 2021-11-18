@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui04)  [Next](bui06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui04)  [Next](bui06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ may not be so easily convinced, but no man who has the heart of a man
 can fail to be impressed by the ancient, heroic faith of his race.
 
 Nowhere has this faith ever been more vivid or victorious than among the
-old Egyptians. <span id="fr_34"></span>[1](#fn_34) In the
+old Egyptians. <span id="fr_34"></span>[1](#fn_34.md) In the
 
 <span id="page_40">p. 40</span>
 
@@ -73,7 +73,7 @@ exclamations written on the pyramid walls:
 diest not; this King Pepi lives forever! Live! Thou shalt not die! He
 has escaped his day of death! Thou livest, thou livest, raise thee up!
 Thou diest not, stand up, raise thee up! Thou perishest not eternally!
-Thou diest not! <span id="fr_35"></span>[1](#fn_35)</span>
+Thou diest not! <span id="fr_35"></span>[1](#fn_35.md)</span>
 
 </div>
 
@@ -106,7 +106,7 @@ of
 vegetable life—son of Nut the sky-goddess and Geb the earth-god; and
 nothing in the story of the Nile-dwellers is more appealing than his
 conquest of the hearts of the people against all odds. <span
-id="fr_36"></span>[1](#fn_36) Howbeit, that history need not detain us
+id="fr_36"></span>[1](#fn_36.md) Howbeit, that history need not detain us
 here, except to say that by the time his passion had become the drama of
 national faith, it had been bathed in all the tender hues of human life;
 though somewhat of its solar radiance still lingered in it. Enough to
@@ -117,7 +117,7 @@ wife, and Horus whose filial piety and heroism shine like diamonds in a
 heap of stones—about this trinity were woven the ideals of Egyptian
 faith and family life. Hear now the story of the oldest drama of the
 race, which for more than three thousand years held captive the hearts
-of men. <span id="fr_37"></span>[2](#fn_37)
+of men. <span id="fr_37"></span>[2](#fn_37.md)
 
 <span id="page_43">p. 43</span>
 
@@ -148,7 +148,7 @@ any one of his guests
 
 who, lying down inside it, found he was of the same size. When Osiris
 got in and stretched himself out, the conspirators closed the chest, and
-flung it into the Nile. <span id="fr_38"></span>[1](#fn_38) Thus far,
+flung it into the Nile. <span id="fr_38"></span>[1](#fn_38.md) Thus far,
 the gods had not known death. They had grown old, with white hair and
 trembling limbs, but old age had not led to death. As soon as Isis heard
 of this infernal treachery, she cut her hair, clad herself in a garb of
@@ -158,7 +158,7 @@ sorrowful quest.
 
 Meanwhile, the waters carried the chest out to sea, as far as Byblos in
 Syria, the town of Adonis, where it lodged against a shrub of arica, or
-tamarisk—like an acacia tree. <span id="fr_39"></span>[2](#fn_39) Owing
+tamarisk—like an acacia tree. <span id="fr_39"></span>[2](#fn_39.md) Owing
 to the virtue of
 
 <span id="page_45">p. 45</span>
@@ -191,7 +191,7 @@ not end, thou shalt not perish!" But death was deaf. Here the Pyramid
 Texts recite the mortuary ritual, with its hymns and chants; but in
 vain. At length Osiris awakes, weary and feeble, and by the aid of the
 strong grip of the lion-god he gains control of his body, and is lifted
-from death to life. <span id="fr_40"></span>[1](#fn_40) Thereafter, by
+from death to life. <span id="fr_40"></span>[1](#fn_40.md) Thereafter, by
 virtue of his victory over death, Osiris becomes Lord of the Land of
 Death, his scepter an Ank Cross, his throne a Square.
 
@@ -220,7 +220,7 @@ death, but the awakening of man upon earth from animalism to a life of
 purity, justice, and honor. How nobly this practical aspect was taught,
 and with what fineness of spiritual insight, may be seen in *Secret
 Sermon on the Mountain* in the Hermetic lore of Greece: <span
-id="fr_41"></span>[1](#fn_41)
+id="fr_41"></span>[1](#fn_41.md)
 
 <div style="margin-left: 32px">
 
@@ -258,7 +258,7 @@ learn the hidden wisdom of Egypt, so cautious were they of candidates,
 especially of foreigners. But he made noble use of it when, later, he
 founded a secret order of his own at Crotona, in Greece, in which, among
 other things, he taught geometry, using numbers as symbols of spiritual
-truth. <span id="fr_42"></span>[1](#fn_42)
+truth. <span id="fr_42"></span>[1](#fn_42.md)
 
 From Egypt the Mysteries passed with little change to Asia Minor,
 Greece, and Rome, the
@@ -281,7 +281,7 @@ Sun was killed by his brothers the Seasons, and at the vernal equinox
 was restored to life. So, also, the Druids, as far north as England,
 taught of one God the tragedy of winter and summer, and conducted the
 initiate through the valley of death to life everlasting. <span
-id="fr_43"></span>[1](#fn_43)
+id="fr_43"></span>[1](#fn_43.md)
 
 <span id="page_50">p. 50</span>
 
@@ -289,7 +289,7 @@ Shortly before the Christian era, when faith was failing and the world
 seemed reeling to its ruin, there was a great revival of the
 Mystery-religions. Imperial edict was powerless to stay it, much less
 stop it. From Egypt, from the far East, they came rushing in like a
-tide, Isis "of the myriad names" [vying](errata.htm#1) with Mithra, the
+tide, Isis "of the myriad names" [vying](errata.htm#1.md) with Mithra, the
 patron saint of the soldier, for the homage of the multitude. If we ask
 the secret reason for this influx of mysticism, no single answer can be
 given to the question. What influence the reigning mystery-cults had
@@ -299,7 +299,7 @@ from the writings of the Fathers, and some go so far as to say that the
 Mysteries died at last only to live again in the ritual of the Church.
 St. Paul in his missionary journeys came in contact with the Mysteries,
 and even makes use of some of their technical terms in his
-epistles; <span id="fr_44"></span>[1](#fn_44) but he condemned them on
+epistles; <span id="fr_44"></span>[1](#fn_44.md) but he condemned them on
 the ground that what
 
 <span id="page_51">p. 51</span>
@@ -329,7 +329,7 @@ that what a man learned in the house of the hidden place made him want
 to live nobly, and gave him happy hopes for the hour of death.
 
 Indeed, the Mysteries, as Plato said, <span
-id="fr_45"></span>[1](#fn_45) were established by men of great genius
+id="fr_45"></span>[1](#fn_45.md) were established by men of great genius
 who, in the early ages, strove to teach purity, to ameliorate the
 cruelty of the race, to refine its manners and morals, and to restrain
 society by stronger bonds than those which human laws impose. No mystery
@@ -373,7 +373,7 @@ beauty, and the reality of the ideal.
 
 ### Footnotes
 
-<span id="fn_34"></span>[39:1](bui05.htm#fr_34) Of course, faith in
+<span id="fn_34"></span>[39:1](bui05.htm#fr_34.md) Of course, faith in
 immortality was in nowise peculiar to Egypt, but was universal; as vivid
 in *The Upanishads* of India as in the Pyramid records. It rests upon
 the consensus of the insight, experience, and aspiration of the race.
@@ -385,17 +385,17 @@ even to England. For brief expositions of Egyptian faith see *Egyptian
 Conceptions of Immortality*, by G. A. Reisner, and *Religion and Thought
 in Egypt*, by J. H. Breasted.
 
-<span id="fn_35"></span>[40:1](bui05.htm#fr_35) Pyramid Texts, 775,
+<span id="fn_35"></span>[40:1](bui05.htm#fr_35.md) Pyramid Texts, 775,
 1262, 1453, 1477.
 
-<span id="fn_36"></span>[42:1](bui05.htm#fr_36) For a full account of
+<span id="fn_36"></span>[42:1](bui05.htm#fr_36.md) For a full account of
 the evolution of the Osirian theology from the time it emerged from the
 mists of myth until its conquest, see *Religion and Thought in Egypt*,
 by Breasted, the latest, if not the most brilliant, book written in the
 light of the completest translation of the Pyramid Texts (especially
 lecture v).
 
-<span id="fn_37"></span>[42:2](bui05.htm#fr_37) Much has been written
+<span id="fn_37"></span>[42:2](bui05.htm#fr_37.md) Much has been written
 about the Egyptian Mysteries from the days of Plutarch's *De Iside et
 Osiride* and the *Metamorphoses* of Apuleius to the huge volumes of
 Baron Sainte Croix. For popular reading the *Kings and Gods of Egypt*,
@@ -404,14 +404,14 @@ by Schure, could hardly be surpassed. But Plutarch and Apuleius, both
 initiates, are our best authorities, even if their oath of silence
 prevents them from telling us what we most want to know.
 
-<span id="fn_38"></span>[44:1](bui05.htm#fr_38) Among the Hindoos, whose
+<span id="fn_38"></span>[44:1](bui05.htm#fr_38.md) Among the Hindoos, whose
 Chrisna is the same as the Osiris of Egypt, the gods of summer were
 beneficent, making the days fruitful. But "the three wretches" who
 presided over winter, were cut off from the zodiac; and as they were
 "found missing," they were accused of the death of Chrisna.
 
-<span id="fn_39"></span>[44:2](bui05.htm#fr_39) A literary parallel in
-the story of *Æneas*, by [Virgil](errata.htm#0), is most suggestive.
+<span id="fn_39"></span>[44:2](bui05.htm#fr_39.md) A literary parallel in
+the story of *Æneas*, by [Virgil](errata.htm#0.md), is most suggestive.
 Priam, king of Troy, in the beginning of the Trojan war committed his
 son Polydorus to the care of Polymester, king of Thrace, and sent him a
 great sum of money. After Troy was taken the Thracian, for the sake of
@@ -422,20 +422,20 @@ Polydorus. Other legends of such accidental discoveries of unknown
 graves haunted the olden time, and may have been suggested by the story
 of Isis.
 
-<span id="fn_40"></span>[46:1](bui05.htm#fr_40) *The Gods of the
+<span id="fn_40"></span>[46:1](bui05.htm#fr_40.md) *The Gods of the
 Egyptians*, by B. A. W. Budge; *La Place des Victores*, by Austin Fryar,
 especially the colored plates.
 
-<span id="fn_41"></span>[47:1](bui05.htm#fr_41) *Quests New and Old*, by
+<span id="fn_41"></span>[47:1](bui05.htm#fr_41.md) *Quests New and Old*, by
 G. R. S. Mead.
 
-<span id="fn_42"></span>[48:1](bui05.htm#fr_42) *Pythagoras*, by Edouard
+<span id="fn_42"></span>[48:1](bui05.htm#fr_42.md) *Pythagoras*, by Edouard
 Schure—a fascinating story of that great thinker and teacher. The use of
 numbers by Pythagoras must not, however, be confounded with the
 mystical, or rather fantastic, mathematics of the Kabbalists of a later
 time.
 
-<span id="fn_43"></span>[49:1](bui05.htm#fr_43) For a vivid account of
+<span id="fn_43"></span>[49:1](bui05.htm#fr_43.md) For a vivid account of
 the spread of the Mysteries of Isis and Mithra over the Roman Empire,
 see *Roman Life from Nero to Aurelius*, by Dill (bk. iv, chaps. v-vi).
 Franz Cumont is the great authority on Mithra, and his *Mysteries of
@@ -445,7 +445,7 @@ W. W. Reade, brother of Charles Reade the novelist, left a study of *The
 Veil of Isis, or Mysteries of the Druids*, finding in the vestiges of
 Druidism "the Emblems of Masonry."
 
-<span id="fn_44"></span>[50:1](bui05.htm#fr_44) Col. 2:8-19. See
+<span id="fn_44"></span>[50:1](bui05.htm#fr_44.md) Col. 2:8-19. See
 *Mysteries Pagan and Christian*, by C. Cheethan; also *Monumental
 Christianity*, by Lundy, especially chapter on "The Discipline of the
 Secret." For a full discussion of the attitude of St. Paul, see *St.
@@ -461,8 +461,8 @@ come forth, cleansed of their sins." Other Christian writers were more
 tolerant, finding in Christ the answer to the aspiration uttered in the
 Mysteries; and therein, it may be, they were right.
 
-<span id="fn_45"></span>[52:1](bui05.htm#fr_45) *Phaedo*.
+<span id="fn_45"></span>[52:1](bui05.htm#fr_45.md) *Phaedo*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Secret Doctrine](bui06)
+[Next: Chapter IV. The Secret Doctrine](bui06.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dwf04)  [Next](dwf06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dwf04)  [Next](dwf06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Devil Worship in France*, by A.E. Waite, \[1896\], at Intangible
 Textual Heritage
 
@@ -223,4 +223,4 @@ We pass now to the year of revelation 1891.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Ex Ore Leonis](dwf06)
+[Next: Chapter IV. Ex Ore Leonis](dwf06.md)

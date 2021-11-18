@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb26)  [Next](gyfb28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb26)  [Next](gyfb28.md) 
 
 </div>
 
@@ -413,6 +413,6 @@ because the girl kept the promise she had made to the ogre.
 
 ------------------------------------------------------------------------
 
-[Next: Laughing Eye and Weeping Eye, or the Limping Fox](gyfb28)
+[Next: Laughing Eye and Weeping Eye, or the Limping Fox](gyfb28.md)
 
 </div>

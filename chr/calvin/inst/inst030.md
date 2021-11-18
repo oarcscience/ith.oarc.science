@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst029)  [Next](inst031) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst029)  [Next](inst031.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ method of its own in assigning the whole praise of creation to God. To
 this effect is the passage of the Apostle already quoted that by faith
 we understand that the worlds were framed by the Word of God (<span
 id="iv.i.xvii-p13.1"></span>[Heb.
-11:3](../../../bib/kjv/heb011.htm#003)<span
+11:3](../../../bib/kjv/heb011.htm#003.md)<span
 id="iv.i.xvii-p13.1"></span>); because, without proceeding to his
 Providence, we cannot understand the full force of what is meant by God
 being the Creator, how much soever we may seem to comprehend it with our
@@ -106,8 +106,8 @@ was created by God, immediately descends to the continual course of
 Providence, “By the word of the Lord were the heavens framed, and all
 the host of them by the breath of his mouth;” immediately adding, “The
 Lord looketh from heaven, he beholdeth the children of men,” (<span
-id="iv.i.xvii-p13.2"></span>[Ps. 33:6](../../../bib/kjv/psa033.htm#006),
-[13](../../../bib/kjv/psa033.htm#013)<span id="iv.i.xvii-p13.2"></span>,
+id="iv.i.xvii-p13.2"></span>[Ps. 33:6](../../../bib/kjv/psa033.htm#006.md),
+[13](../../../bib/kjv/psa033.htm#013.md)<span id="iv.i.xvii-p13.2"></span>,
 &c). He subjoins other things to the same effect. For although all do
 not reason so accurately, yet because it would not be credible that
 human affairs were superintended by God, unless he were the maker of the
@@ -124,11 +124,11 @@ Thou hidest thy face, they are troubled: thou takest away their breath,
 they die, and return to their dust. Thou sendest forth thy Spirit, they
 are created, and thou renewest the face of the earth,” (<span
 id="iv.i.xvii-p13.3"></span>[Ps.
-104:27-30](../../../bib/kjv/psa104.htm#027)<span
+104:27-30](../../../bib/kjv/psa104.htm#027.md)<span
 id="iv.i.xvii-p13.3"></span>). Nay, though they subscribe to the
 sentiment of Paul, that in God “we live, and move, and have our being,”
 (<span id="iv.i.xvii-p13.4"></span>[Acts
-17:28](../../../bib/kjv/act017.htm#028)<span
+17:28](../../../bib/kjv/act017.htm#028.md)<span
 id="iv.i.xvii-p13.4"></span>), yet they are far from having a serious
 apprehension of the grace which he commends, because they have not the
 least relish for that special care in which alone the paternal favour of
@@ -148,7 +148,7 @@ makes some wondrous hair-breadth escape from death—all these
 occurrences, prosperous as well as adverse, carnal sense will attribute
 to fortune. But whose has learned from the mouth of Christ that all the
 hairs of his head are numbered (<span id="iv.i.xvii-p14.1"></span>[Mt.
-10:30](../../../bib/kjv/mat010.htm#030)<span
+10:30](../../../bib/kjv/mat010.htm#030.md)<span
 id="iv.i.xvii-p14.1"></span>), will look farther for the cause, and hold
 that all events whatsoever are governed by the secret counsel of God.
 With regard to inanimate objects again we must hold that though each is
@@ -175,10 +175,10 @@ sun, but only the instrument which God employs, because he so pleases;
 though he can lay it aside, and act equally well by himself: Again, when
 we read, that at the prayer of Joshua the sun was stayed in its course
 (<span id="iv.i.xvii-p14.2"></span>[Josh.
-10:13](../../../bib/kjv/jos010.htm#013)<span
+10:13](../../../bib/kjv/jos010.htm#013.md)<span
 id="iv.i.xvii-p14.2"></span>); that as a favour to Hezekiah, its shadow
 receded ten degrees (<span id="iv.i.xvii-p14.3"></span>[2 Kings
-20:11](../../../bib/kjv/kg2020.htm#011)<span
+20:11](../../../bib/kjv/kg2020.htm#011.md)<span
 id="iv.i.xvii-p14.3"></span>); by these miracles God declared that the
 sun does not daily rise and set by a blind instinct of nature, but is
 governed by Him in its course, that he may renew the remembrance of his
@@ -201,7 +201,7 @@ because, governing heaven and earth by his providence, he so overrules
 all things that nothing happens without his counsel. For when it is said
 in the Psalms, “He has done whatsoever he has pleased,” (<span
 id="iv.i.xvii-p15.1"></span>[Ps.
-115:3](../../../bib/kjv/psa115.htm#003)<span
+115:3](../../../bib/kjv/psa115.htm#003.md)<span
 id="iv.i.xvii-p15.1"></span>), the thing meant is his sure and
 deliberate purpose. It were insipid to interpret the Psalmist’s words in
 philosophic fashion, to mean that God is the primary agent, because the
@@ -210,7 +210,7 @@ faithful, in their adversity, that every thing which they endure is by
 the ordination and command of God, that they are under his hand. But if
 the government of God thus extends to all his works, it is a childish
 cavil to confine it to natural influx.13  <span
-id="fr_124"></span>[125](#fn_124) Those moreover who confine the
+id="fr_124"></span>[125](#fn_124.md) Those moreover who confine the
 providence of God within narrow limits, as if he allowed all things to
 be borne along freely according to a perpetual law of nature, do not
 more defraud God of his glory than themselves of a most useful doctrine;
@@ -219,7 +219,7 @@ possible movements of the sky, the air, the earth, and the water. We may
 add, that by this view the singular goodness of God towards each
 individual is unbecomingly impaired. David exclaims (<span
 id="iv.i.xvii-p16.1"></span>[Ps.
-8:3](../../../bib/kjv/psa008.htm#003)<span
+8:3](../../../bib/kjv/psa008.htm#003.md)<span
 id="iv.i.xvii-p16.1"></span>), that infants hanging at their mothers
 breasts are eloquent enough to celebrate the glory of God, because, from
 the very moment of their births they find an aliment prepared for them
@@ -243,7 +243,7 @@ at random or by chance; or as if we had not in God a sufficient
 protection against them. For example, Jeremiah forbids the children of
 God “ to be dismayed at the signs of heaven, as the heathen are dismayed
 at them,” (<span id="iv.i.xvii-p16.2"></span>[Jer.
-10:2](../../../bib/kjv/jer010.htm#002)<span
+10:2](../../../bib/kjv/jer010.htm#002.md)<span
 id="iv.i.xvii-p16.2"></span>). He does not, indeed, condemn every kind
 of fear. But as unbelievers transfer the government of the world from
 God to the stars, imagining that happiness or misery depends on their
@@ -253,16 +253,16 @@ to stars and comets. Let him, therefore, who would beware of such
 unbelief, always bear in mind, that there is no random power, or agency,
 or motion in the creatures, who are so governed by the secret counsel of
 God, that nothing happens but what he has knowingly and willingly
-decreed.13  <span id="fr_125"></span>[126](#fn_125)
+decreed.13  <span id="fr_125"></span>[126](#fn_125.md)
 
 <span id="iv.i.xvii-p18"></span>4. First, then, let the reader remember
 that the providence we mean is not one by which the Deity, sitting idly
 in heaven, looks on at what is taking place in the world, but one by
 which he, as it were, holds the helms and overrules all events. Hence
 his providence extends not less to the hand than to the eye.13  <span
-id="fr_126"></span>[127](#fn_126) When Abraham said to his son, *God
+id="fr_126"></span>[127](#fn_126.md) When Abraham said to his son, *God
 will provide* (<span id="iv.i.xvii-p19.1"></span>[Gen.
-22:8](../../../bib/kjv/gen022.htm#008)<span
+22:8](../../../bib/kjv/gen022.htm#008.md)<span
 id="iv.i.xvii-p19.1"></span>), he meant not merely to assert that the
 future event was foreknown to Gods but to resign the management of an
 unknown business to the will of Him whose province it is to bring
@@ -284,7 +284,7 @@ voluntarily regulates his own actions. In short, their doctrine is, that
 the world, the affairs of men, and men themselves, are governed by the
 power, but not by the decree of God. I say nothing of the Epicureans (a
 pest with which the world has always been plagued), who dream of an
-inert and idle God,13  <span id="fr_127"></span>[128](#fn_127) and
+inert and idle God,13  <span id="fr_127"></span>[128](#fn_127.md) and
 others, not a whit sounder, who of old feigned that God rules the upper
 regions of the air, but leaves the inferior to Fortune. Against such
 evident madness even dumb creatures lift their voice.
@@ -307,16 +307,16 @@ spontaneously followed the course which God at first appointed. And to
 this we may refer our Saviour’s words, that he and his Father have
 always been at work from the beginning (<span
 id="iv.i.xvii-p21.1"></span>[John
-5:17](../../../bib/kjv/joh005.htm#017)<span
+5:17](../../../bib/kjv/joh005.htm#017.md)<span
 id="iv.i.xvii-p21.1"></span>); also the words of Paul, that “in him we
 live, and move, and have our being,” (<span
 id="iv.i.xvii-p21.2"></span>[Acts
-17:28](../../../bib/kjv/act017.htm#028)<span
+17:28](../../../bib/kjv/act017.htm#028.md)<span
 id="iv.i.xvii-p21.2"></span>); also the words of the author of the
 Epistle to the Hebrews, who, when wishing to prove the divinity of
 Christ, says, that he upholdeth “all things by the word of his power,”
 (<span id="iv.i.xvii-p21.3"></span>[Heb.
-1:3](../../../bib/kjv/heb001.htm#003)<span
+1:3](../../../bib/kjv/heb001.htm#003.md)<span
 id="iv.i.xvii-p21.3"></span>). But some, under pretext of the general,
 hide and obscure the special providence, which is so surely and clearly
 taught in Scripture, that it is strange how any one can bring himself to
@@ -354,7 +354,7 @@ evils, that storms and hail, in devastating the fields, are signs of
 sure and special vengeance. This being admitted, it is certain that not
 a drop of rain falls without the express command of God. David, indeed
 (<span id="iv.i.xvii-p22.1"></span>[Ps.
-146:9](../../../bib/kjv/psa146.htm#009)<span
+146:9](../../../bib/kjv/psa146.htm#009.md)<span
 id="iv.i.xvii-p22.1"></span>), extols the general providence of God in
 supplying food to the young ravens that cry to him but when God himself
 threatens living creatures with famine, does he not plainly declare that
@@ -363,14 +363,14 @@ more ample measure? It is childish, as I have already said, to confine
 this to particular acts, when Christ says, without reservation, that not
 a sparrow falls to the ground without the will of his Father (<span
 id="iv.i.xvii-p22.2"></span>[Mt.
-10:29](../../../bib/kjv/mat010.htm#029)<span
+10:29](../../../bib/kjv/mat010.htm#029.md)<span
 id="iv.i.xvii-p22.2"></span>). Surely, if the flight of birds is
 regulated by the counsel of God, we must acknowledge with the prophet,
 that while he “dwelleth on high,” he “humbleth himself to behold the
 things that are in heaven and in the earth,” (<span
 id="iv.i.xvii-p22.3"></span>[Ps.
-113:5](../../../bib/kjv/psa113.htm#005),
-[6](../../../bib/kjv/psa113.htm#006)<span id="iv.i.xvii-p22.3"></span>).
+113:5](../../../bib/kjv/psa113.htm#005.md),
+[6](../../../bib/kjv/psa113.htm#006)<span id="iv.i.xvii-p22.3"></span>.md).
 
 <span id="iv.i.xvii-p23"></span>6. But as we know that it was chiefly
 for the sake of mankind that the world was made, we must look to this as
@@ -378,11 +378,11 @@ the end which God has in view in the government of it. The prophet
 Jeremiah exclaims, “O Lord, I know that the way of man is not in
 himself: it is not in man that walketh to direct his steps,” (<span
 id="iv.i.xvii-p23.1"></span>[Jer.
-10:23](../../../bib/kjv/jer010.htm#023)<span
+10:23](../../../bib/kjv/jer010.htm#023.md)<span
 id="iv.i.xvii-p23.1"></span>). Solomon again says, “Man’s goings are of
 the Lord: how can a man then understand his own way?” (<span
 id="iv.i.xvii-p23.2"></span>[Prov.
-20:24](../../../bib/kjv/pro020.htm#024)<span
+20:24](../../../bib/kjv/pro020.htm#024.md)<span
 id="iv.i.xvii-p23.2"></span>). Will it now be said that man is moved by
 God according to the bent of his nature, but that man himself gives the
 movement any direction he pleases? Were it truly so, man would have the
@@ -394,7 +394,7 @@ rebukes the rashness of men in fixing their plans without reference to
 God, as if they were not led by his hand. “The preparations of the heart
 in man, and the answer of the tongue, is from the Lord,” (<span
 id="iv.i.xvii-p23.3"></span>[Prov.
-16:1](../../../bib/kjv/pro016.htm#001)<span
+16:1](../../../bib/kjv/pro016.htm#001.md)<span
 id="iv.i.xvii-p23.3"></span>). It is a strange infatuation, surely for
 miserable men, who cannot even give utterance except in so far as God
 pleases, to begin to act without him! Scriptures moreover, the better to
@@ -404,18 +404,18 @@ For what seems more attributable to chance than the branch which falls
 from a tree, and kills the passing traveller? But the Lord sees very
 differently, and declares that He delivered him into the hand of the
 slayer (<span id="iv.i.xvii-p23.4"></span>[Exod.
-21:13](../../../bib/kjv/exo021.htm#013)<span
+21:13](../../../bib/kjv/exo021.htm#013.md)<span
 id="iv.i.xvii-p23.4"></span>). In like manners who does not attribute
 the lot to the blindness of Fortune? Not so the Lord, who claims the
 decision for himself (<span id="iv.i.xvii-p23.5"></span>[Prov.
-16:33](../../../bib/kjv/pro016.htm#033)<span
+16:33](../../../bib/kjv/pro016.htm#033.md)<span
 id="iv.i.xvii-p23.5"></span>). He says not, that by his power the lot is
 thrown into the lap, and taken out, but declares that the only thing
 which could be attributed to chance is from him. To the same effect are
 the words of Solomon, “The poor and the deceitful man meet together; the
 Lord lighteneth both their eyes,” (<span
 id="iv.i.xvii-p23.6"></span>[Prov.
-29:13](../../../bib/kjv/pro029.htm#013)<span
+29:13](../../../bib/kjv/pro029.htm#013.md)<span
 id="iv.i.xvii-p23.6"></span>). For although rich and poor are mingled
 together in the world, in saying that the condition of each is divinely
 appointed, he reminds us that God, Who enlightens all, has his own eye
@@ -426,8 +426,8 @@ upbraids the profane, who ascribe it to human industry, or to fortune,
 that some grovel in the mire while others rise to honour. “Promotion
 cometh neither from the east, nor from the west, nor from the south. But
 God is the judge: he putteth down ones and setteth up another,” (<span
-id="iv.i.xvii-p23.7"></span>[Ps. 75:6](../../../bib/kjv/psa075.htm#006),
-[7](../../../bib/kjv/psa075.htm#007)<span id="iv.i.xvii-p23.7"></span>).
+id="iv.i.xvii-p23.7"></span>[Ps. 75:6](../../../bib/kjv/psa075.htm#006.md),
+[7](../../../bib/kjv/psa075.htm#007)<span id="iv.i.xvii-p23.7"></span>.md).
 Because God cannot divest himself of the office of judge, he infers that
 to his secret counsel it is owing that some are elevated, while others
 remain without honour.
@@ -436,7 +436,7 @@ remain without honour.
 particular events are evidences of the special providence of God. In the
 wilderness God caused a south wind to blow, and brought the people a
 plentiful supply of birds (<span id="iv.i.xvii-p24.1"></span>[Exod.
-19:13](../../../bib/kjv/exo019.htm#013)<span
+19:13](../../../bib/kjv/exo019.htm#013.md)<span
 id="iv.i.xvii-p24.1"></span>). When he desired that Jonah should be
 thrown into the sea, he sent forth a whirlwind. Those who deny that God
 holds the reins of government will say that this was contrary to
@@ -445,52 +445,52 @@ rages without his special command. In no way could it be true that “he
 maketh the winds his messengers, and the flames of fire his ministers;”
 that “he maketh the clouds his chariot, and walketh upon the wings of
 the wind,” (<span id="iv.i.xvii-p24.2"></span>[Ps.
-104:3](../../../bib/kjv/psa104.htm#003),
-[4](../../../bib/kjv/psa104.htm#004)<span id="iv.i.xvii-p24.2"></span>),
+104:3](../../../bib/kjv/psa104.htm#003.md),
+[4](../../../bib/kjv/psa104.htm#004)<span id="iv.i.xvii-p24.2"></span>.md),
 did he not at pleasure drive the clouds and winds and therein manifest
 the special presence of his power. In like manner, we are elsewhere
 taught, that whenever the sea is raised into a storm, its billows attest
 the special presence of God. “He commandeth and raiseth the stormy wind,
 which lifteth up the waves.” “He maketh the storm a calm, so that the
 waves thereof are still,” (<span id="iv.i.xvii-p24.3"></span>[Ps.
-107:25](../../../bib/kjv/psa107.htm#025),
-[29](../../../bib/kjv/psa107.htm#029)<span id="iv.i.xvii-p24.3"></span>
+107:25](../../../bib/kjv/psa107.htm#025.md),
+[29](../../../bib/kjv/psa107.htm#029.md)<span id="iv.i.xvii-p24.3"></span>
 ) He also elsewhere declares, that he had smitten the people with
 blasting and mildew (<span id="iv.i.xvii-p24.4"></span>[Amos
-4:9](../../../bib/kjv/amo004.htm#009)<span
+4:9](../../../bib/kjv/amo004.htm#009.md)<span
 id="iv.i.xvii-p24.4"></span>). Again while man naturally possesses the
 power of continuing his species, God describes it as a mark of his
 special favour, that while some continue childless, others are blessed
 with offspring: for the fruit of the womb is his gift. Hence the words
 of Jacob to Rachel, “Am I in God’s stead, who has withheld from thee the
 fruit of the womb?” (<span id="iv.i.xvii-p24.5"></span>[Gen.
-30:2](../../../bib/kjv/gen030.htm#002)<span
+30:2](../../../bib/kjv/gen030.htm#002.md)<span
 id="iv.i.xvii-p24.5"></span>). To conclude in one word. Nothing in
 nature is more ordinary than that we should be nourished with bread. But
 the Spirit declares not only that the produce of the earth is God’s
 special gift, but “that man does not live by bread only,” (<span
 id="iv.i.xvii-p24.6"></span>[Deut.
-8:3](../../../bib/kjv/deu008.htm#003)<span
+8:3](../../../bib/kjv/deu008.htm#003.md)<span
 id="iv.i.xvii-p24.6"></span>), because it is not mere fulness that
 nourishes him but the secret blessing of God. And hence, on the other
 hand, he threatens to take away “the stay and the staff, the whole stay
 of bread, and the whole stay of water,” (<span
 id="iv.i.xvii-p24.7"></span>[Is.
-3:1](../../../bib/kjv/isa003.htm#001)<span
+3:1](../../../bib/kjv/isa003.htm#001.md)<span
 id="iv.i.xvii-p24.7"></span>). Indeed, there could be no serious meaning
 in our prayer for daily bread, if God did not with paternal hand supply
 us with food. Accordingly, to convince the faithful that God, in feeding
 them, fulfils the office of the best of parents, the prophet reminds
 them that he “giveth food to all flesh,” (<span
 id="iv.i.xvii-p24.8"></span>[Ps.
-136:25](../../../bib/kjv/psa136.htm#025)<span
+136:25](../../../bib/kjv/psa136.htm#025.md)<span
 id="iv.i.xvii-p24.8"></span>). In fine, when we hear on the one hand,
 that “the eyes of the Lord are upon the righteous, and his ears are open
 unto their cry,” and, on the other hand, that “the face of the Lord is
 against them that do evil, to cut off the remembrance of them from the
 earth,” (<span id="iv.i.xvii-p24.9"></span>[Ps.
-34:15](../../../bib/kjv/psa034.htm#015),
-[16](../../../bib/kjv/psa034.htm#016)<span
+34:15](../../../bib/kjv/psa034.htm#015.md),
+[16](../../../bib/kjv/psa034.htm#016.md)<span
 id="iv.i.xvii-p24.9"></span>), let us be assured that all creatures
 above and below are ready at his service, that he may employ them in
 whatever way he pleases. Hence we infer, not only that the general
@@ -504,7 +504,7 @@ same charge was formerly brought against Augustine (lib. ad Bonifac. 2,
 c. 6 et alibi). We are unwilling to dispute about words; but we do not
 admit the term Fate, both because it is of the class which Paul teaches
 us to shun, as profane novelties (<span id="iv.i.xvii-p25.1"></span>[1
-Tim. 6:20](../../../bib/kjv/ti1006.htm#020)<span
+Tim. 6:20](../../../bib/kjv/ti1006.htm#020.md)<span
 id="iv.i.xvii-p25.1"></span>), and also because it is attempted, by
 means of an odious term, to fix a stigma on the truth of God. But the
 dogma itself is falsely and maliciously imputed to us. For we do not
@@ -526,7 +526,7 @@ writings against the Academics,” says he, “I regret having so often used
 the term Fortune; although I intended to denote by it not some goddess,
 but the fortuitous issue of events in external matters, whether good or
 evil. Hence, too, those words, Perhaps, Perchance, Fortuitously,13
- <span id="fr_128"></span>[129](#fn_128) which no religion forbids us to
+ <span id="fr_128"></span>[129](#fn_128.md) which no religion forbids us to
 use, though everything must be referred to Divine Providence. Nor did I
 omit to observe this when I said, Although, perhaps, that which is
 vulgarly called Fortune, is also regulated by a hidden order, and what
@@ -573,7 +573,7 @@ death was not only foreseen by the eye of God, but had been fixed by his
 decree. For it is said, not that he foresaw how far the life of each
 individual should extend, but that he determined and fixed the bounds
 which could not be passed (<span id="iv.i.xvii-p27.1"></span>[Job
-14:5](../../../bib/kjv/job014.htm#005)<span
+14:5](../../../bib/kjv/job014.htm#005.md)<span
 id="iv.i.xvii-p27.1"></span>). Still, in relation to our capacity of
 discernment, all these things appear fortuitous. How will the Christian
 feel? Though he will consider that every circumstance which occurred in
@@ -594,7 +594,7 @@ ark, say they, “Goes up by the way of his own coast to Bethshemish, then
 he has done us this great evil; but if not, then we shall know that it
 is not his hand that smote us, it was a chance that happened to us.”
 (<span id="iv.i.xvii-p27.2"></span>[1 Sam.
-6:9](../../../bib/kjv/sa1006.htm#009)<span
+6:9](../../../bib/kjv/sa1006.htm#009.md)<span
 id="iv.i.xvii-p27.2"></span>). Foolishly, indeed, when divination fails
 them they flee to fortune. Still we see them constrained, so as not to
 venture to regard their disaster as fortuitous. But the mode in which
@@ -603,8 +603,8 @@ he pleases, will appear from a remarkable example. At the very same
 moment when David was discovered in the wilderness of Maon, the
 Philistines make an inroad into the country, and Saul is forced to
 depart (<span id="iv.i.xvii-p27.3"></span>[1 Sam.
-23:26](../../../bib/kjv/sa1023.htm#026),
-[27](../../../bib/kjv/sa1023.htm#027)<span
+23:26](../../../bib/kjv/sa1023.htm#026.md),
+[27](../../../bib/kjv/sa1023.htm#027.md)<span
 id="iv.i.xvii-p27.3"></span>). If God, in order to provide for the
 safety of his servant, threw this obstacle in the way of Saul, we surely
 cannot say, that though the Philistine took up arms contrary to human
@@ -618,8 +618,8 @@ necessary. We have a familiar example in the case of our Saviour’s
 bones. As he assumed a body similar to ours, no sane man will deny that
 his bones were capable of being broken and yet it was impossible that
 they should be broken (<span id="iv.i.xvii-p27.4"></span>[John
-19:33](../../../bib/kjv/joh019.htm#033),
-[36](../../../bib/kjv/joh019.htm#036)<span
+19:33](../../../bib/kjv/joh019.htm#033.md),
+[36](../../../bib/kjv/joh019.htm#036.md)<span
 id="iv.i.xvii-p27.4"></span>). Hence, again, we see that there was good
 ground for the distinction which the Schoolmen made between necessity,
 *secundum quid*, and necessity absolute, also between the necessity of
@@ -632,19 +632,19 @@ might have naturally taken place.
 
 ### Footnotes
 
-<span id="fn_124"></span>[125](inst030.htm#fr_124) <span
+<span id="fn_124"></span>[125](inst030.htm#fr_124.md) <span
 id="iv.i.xvii-p15.2"></span>
 
 <span id="iv.i.xvii-p16"></span>31 131 See Hyperius in Methodo
 Theologiæ.
 
-<span id="fn_125"></span>[126](inst030.htm#fr_125) <span
+<span id="fn_125"></span>[126](inst030.htm#fr_125.md) <span
 id="iv.i.xvii-p16.3"></span>
 
 <span id="iv.i.xvii-p17"></span>32 132 See Calvin adversus Astrolog.
 Judiciariam. August De Ordine, lib. 2 cap. 15.
 
-<span id="fn_126"></span>[127](inst030.htm#fr_126) <span
+<span id="fn_126"></span>[127](inst030.htm#fr_126.md) <span
 id="iv.i.xvii-p18.1"></span>
 
 <span id="iv.i.xvii-p19"></span>33 133 The French adds, “Cest à dire,
@@ -652,14 +652,14 @@ que non seulement il voit, mais aussi ordonne ce qu’il veut estra
 fait;”—“that is to say, he not only sees, but ordains what he wills to
 be done.”
 
-<span id="fn_127"></span>[128](inst030.htm#fr_127) <span
+<span id="fn_127"></span>[128](inst030.htm#fr_127.md) <span
 id="iv.i.xvii-p19.2"></span>
 
 <span id="iv.i.xvii-p20"></span>34 134 Plin. lib. 2. c. 7. “Irridendum
 vero, agere curam rerum humanarum, illud, quicquid est sumum. Anne tam
 tristi atque multiplici ministerio non pollui credamus dubitemusve?”
 
-<span id="fn_128"></span>[129](inst030.htm#fr_128) <span
+<span id="fn_128"></span>[129](inst030.htm#fr_128.md) <span
 id="iv.i.xvii-p25.2"></span>
 
 <span id="iv.i.xvii-p26"></span>35 135 Forte. Forsan. Forsitan,
@@ -668,4 +668,4 @@ Fortuito.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 17. - USE TO BE MADE OF THE DOCTRINE OF
-PROVIDENCE.](inst031)
+PROVIDENCE.](inst031.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos26)  [Next](mos28) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos26)  [Next](mos28.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ except by Him.
 
 ------------------------------------------------------------------------
 
-[Next: Something About Johsua ben Nun](mos28)
+[Next: Something About Johsua ben Nun](mos28.md)

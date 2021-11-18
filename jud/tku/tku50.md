@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku49)  [Next](tku51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku49)  [Next](tku51.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 ### CONCERNING THE SEPARATION OF THE MASCULINE AND THE FEMININE, AND CONCERNING THEIR CONJUNCTION.
 
 1026\. ALSO we have learned in the "Book of Concealed Mystery" <span
-id="fr_189"></span>[1](#fn_188) that all the judgments which arise from
+id="fr_189"></span>[1](#fn_188.md) that all the judgments which arise from
 the Masculine are vehement in the commencement, and relax in the
 termination; but that those which are found to arise from the Feminine
 are relax in commencement, and vehement in termination.
@@ -70,9 +70,9 @@ superiors and inferiors.
 
 ### Footnotes
 
-<span id="fn_188"></span>[239:1](tku50.htm#fr_189) See "Book of
+<span id="fn_188"></span>[239:1](tku50.htm#fr_189.md) See "Book of
 Concealed Mystery," ante, ch. iii. § 27.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIII: Concerning the Judgements](tku51)
+[Next: Chapter XLIII: Concerning the Judgements](tku51.md)

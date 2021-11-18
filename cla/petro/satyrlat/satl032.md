@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat06.htm#XXXII) 
-[Previous](satl031)  [Next](satl033) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat06.htm#XXXII.md) 
+[Previous](satl031)  [Next](satl033.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ conexo.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIII](satl033)
+[Next: XXXIII](satl033.md)

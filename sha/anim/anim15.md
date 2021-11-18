@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim14)  [Next](anim16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim14)  [Next](anim16.md) 
 
 ------------------------------------------------------------------------
 
@@ -278,4 +278,4 @@ becomes by this means."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Descensus Averni](anim16)
+[Next: Chapter XIV. Descensus Averni](anim16.md)

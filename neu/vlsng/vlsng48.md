@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng47)  [Next](vlsng49) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng47)  [Next](vlsng49.md) 
 
 ------------------------------------------------------------------------
 
@@ -579,4 +579,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Appendix IV: The Hell-Ride Of Brynhild](vlsng49)
+[Next: Appendix IV: The Hell-Ride Of Brynhild](vlsng49.md)

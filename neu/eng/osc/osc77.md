@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc76)  [Next](osc78) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc76)  [Next](osc78.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Barony of Oakham.
 
 ------------------------------------------------------------------------
 
-[Next: (12) The Duty of not Saving a Drowning Man](osc78)
+[Next: (12) The Duty of not Saving a Drowning Man](osc78.md)

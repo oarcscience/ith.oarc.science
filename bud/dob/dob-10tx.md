@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-10in) [Next](dob-11in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-10in) [Next](dob-11in.md)
 
 ------------------------------------------------------------------------
 
@@ -78,11 +78,11 @@ conduct (Sîla) in praise of which the venerable Gotama was wont to
 speak; to which he used to incite the folk, in which he established
 them, and made them firm?'
 
-   7. \[The reply §§ 7-29 is [§§ 40-63](dob-02tx.htm#p.%2078) of the
+   7. \[The reply §§ 7-29 is [§§ 40-63](dob-02tx.htm#p.%2078.md) of the
 Sâma*ññ*a-phala Sutta, including:
 
 <span class="small">{1. On these three Skandhas of doctrine, see above,
-[p. 82](dob-02tx.htm#p.%2082), and A. I, 125, &c.}</span>
+[p. 82](dob-02tx.htm#p.%2082.md), and A. I, 125, &c.}</span>
 
 <span id="p. 269">{p. 269}</span>
 
@@ -122,7 +122,7 @@ self-concentration (Samâdhi) in praise of which the venerable Gotama was
 wont to speak; to which he used to incite the folk, in which he
 established them, and made them firm?'
 
-   \[The answer §§ 2-18 is [§§ 64-82](dob-02tx.htm#text%20p.%2070) of
+   \[The answer §§ 2-18 is [§§ 64-82](dob-02tx.htm#text%20p.%2070.md) of
 the Sâma*ññ*a-phala Sutta, that is to say:
 
    1. The way in which he learns to guard the door of his senses.
@@ -149,8 +149,8 @@ so noble body of doctrine regarding intellect (Pa*ññ*â) in praise of
 which the venerable Gotama was wont to speak; to which he used to incite
 the folk, in which he established them, and made them firm?'
 
-   \[The answer, §§ 20-26 is §§ [83](dob-02tx.htm#text%20p.%2076),
-[85](dob-02tx.htm#p.%2077), and [97](dob-02tx.htm#p.%2092) of the
+   \[The answer, §§ 20-26 is §§ [83](dob-02tx.htm#text%20p.%2076.md),
+[85](dob-02tx.htm#p.%2077), and [97](dob-02tx.htm#p.%2092.md) of the
 Sâma*ññ*a-phala Sutta, that is to say:
 
    1. The *N*â*n*a-dassana--the insight which sees that the body is
@@ -194,5 +194,5 @@ Here ends the Subha Suttanta.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Kevaddha
-Sutta](dob-11in)
+[Return to top](#top.md)   [Next: Introduction to the Kevaddha
+Sutta](dob-11in.md)

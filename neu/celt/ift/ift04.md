@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ift03)  [Next](ift05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ift03)  [Next](ift05.md) 
 
 ------------------------------------------------------------------------
 
@@ -617,4 +617,4 @@ these tales, for it was by him these tales were told.
 
 ------------------------------------------------------------------------
 
-[Next: The Wooing of Becfola](ift05)
+[Next: The Wooing of Becfola](ift05.md)

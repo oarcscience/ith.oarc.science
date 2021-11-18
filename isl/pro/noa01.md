@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](noa00)  [Next](noa02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](noa00)  [Next](noa02.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ had stopped it by His own power and His will.
 
 ------------------------------------------------------------------------
 
-[Next: The coming down of Noah and his fellows from the Ark](noa02)
+[Next: The coming down of Noah and his fellows from the Ark](noa02.md)

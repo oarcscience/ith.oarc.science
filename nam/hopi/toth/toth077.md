@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth076)  [Next](toth078) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth076)  [Next](toth078.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 74. THE COYOTE AND THE BADGER. <span id="fr_146"></span>[1](#fn_144)
+## 74. THE COYOTE AND THE BADGER. <span id="fr_146"></span>[1](#fn_144.md)
 
 Halíksai! In the village they were living, and south of Lâ'nangva at
 Coyote Gap (Íshmovala) the Coyote was living. At Badger Gulch
@@ -116,9 +116,9 @@ killed his friend, the Coyote.
 
 ### Footnotes
 
-<span id="fn_144"></span>[204:1](toth077.htm#fr_146) Told by Kiwánhongva
+<span id="fn_144"></span>[204:1](toth077.htm#fr_146.md) Told by Kiwánhongva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 75. The Badger and the Coyote](toth078)
+[Next: 75. The Badger and the Coyote](toth078.md)

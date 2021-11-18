@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb50)  [Next](wfb52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb50)  [Next](wfb52.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ tune and named it Ned Puw's Farewell. This is how it goes:
 
 ------------------------------------------------------------------------
 
-[Next: Pennard Castle](wfb52)
+[Next: Pennard Castle](wfb52.md)

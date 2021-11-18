@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp30) 
-[Next](alp32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp30.md) 
+[Next](alp32.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ So thou but mourn him with thy locks spread over him, Light of my Eyes."
 
 ------------------------------------------------------------------------
 
-[Next: The Song of the Partridge](alp32)
+[Next: The Song of the Partridge](alp32.md)

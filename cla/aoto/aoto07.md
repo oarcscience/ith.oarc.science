@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto06) 
-[Next](aoto08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto06.md) 
+[Next](aoto08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ bear hardly on him. Besides it would not be a creditable thing to do.
 
 <span class="margnote"><span id="an_2:146">146</span></span> On this
 Jove sent two eagles from the top of a mountain, <span
-id="fr_11"></span>[\*](#fn_11) who flew and flew in their own lordly
+id="fr_11"></span>[\*](#fn_11.md) who flew and flew in their own lordly
 flight till they reached the assembly, over which they screamed and
 fought, glaring death into the faces of those who were below. The people
 wondered what it might all mean, till the old Soothsayer Halitherses
@@ -100,11 +100,11 @@ that whistled over the waters.
 
 ### Footnotes
 
-<span id="fn_11"></span>[22:\*](aoto07.htm#fr_11) The mountain is
+<span id="fn_11"></span>[22:\*](aoto07.htm#fr_11.md) The mountain is
 singular, as though it were an isolated mountain rather than a range
 that was in the mind of the writer. It is also singular, not plural, in
 the parallel cases of xv. 175 and xix 538.
 
 ------------------------------------------------------------------------
 
-[Next: Book III. Telemachus at the House of Nestor](aoto08)
+[Next: Book III. Telemachus at the House of Nestor](aoto08.md)

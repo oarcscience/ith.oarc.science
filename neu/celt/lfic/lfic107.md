@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic106)  [Next](lfic108) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic106)  [Next](lfic108.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ Arabian Nights.
 
 ------------------------------------------------------------------------
 
-[Next: The Sinner Saved](lfic108)
+[Next: The Sinner Saved](lfic108.md)

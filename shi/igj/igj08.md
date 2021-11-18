@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj07)  [Next](igj09) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj07)  [Next](igj09.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ hoof-like echo which it makes on hard ground.\]
 
 {p. 81}
 
-![The Peony Lantern](img/08000.jpg)
+![The Peony Lantern](img/08000.jpg.md)
 
 The Peony Lantern
 
@@ -992,10 +992,10 @@ us."
 because you wanted a sensation; and she tried her very best to please
 you. You did not suppose that ghost-story was true, did you?"
 
-![Japanese Graveyard](img/11500.jpg)
+![Japanese Graveyard](img/11500.jpg.md)
 
 {p. 117}
 
 ------------------------------------------------------------------------
 
-[Next: Footprints of the Buddha](igj09)
+[Next: Footprints of the Buddha](igj09.md)

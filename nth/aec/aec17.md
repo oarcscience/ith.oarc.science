@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec16.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,13 +12,13 @@ Textual Heritage
 <span id="img_jacket"></span>
 
 [![Dust Jacket](tn/jacket.jpg)  
-Click to enlarge](img/jacket.jpg)  
+Click to enlarge](img/jacket.jpg.md)  
 Dust Jacket  
 
 <span id="img_flaps"></span>
 
 [![Flaps](tn/flaps.jpg)  
-Click to enlarge](img/flaps.jpg)  
+Click to enlarge](img/flaps.jpg.md)  
 Flaps  
 
 Advertisement on back of dust jacket

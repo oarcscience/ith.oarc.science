@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain37)  [Next](ain39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain37)  [Next](ain39.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Pahtahnkum's war.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of Nahvahchoo](ain39)
+[Next: The Story Of Nahvahchoo](ain39.md)

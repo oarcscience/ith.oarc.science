@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](htaq03)  [Next](htaq05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](htaq03)  [Next](htaq05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hidden Treasures of the Ancient Qabalah*, by Elias Gewurz, \[1918\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ The difference consists in the way of their manifestation only. When the
 spirit has gained sufficient power on the outgoing path and is strong
 enough to hold the power that is his in eternal potentiality, then
 beauty appears on the scene and transforms the
-[aggressive](errata.htm#2) forcefulness of the man into the gentle
+[aggressive](errata.htm#2.md) forcefulness of the man into the gentle
 attractiveness of the woman.
 
 To be quite exact, beauty is strength on a higher spiral; when strength
@@ -193,7 +193,7 @@ like attract like.
 <span id="page_36">p. 36</span>
 
 There is a fundamental difference between the atomic elements of the
-masculine and [feminine](errata.htm#3) principles in nature and this
+masculine and [feminine](errata.htm#3.md) principles in nature and this
 causes the difference in the external form of male and female.
 
 It is a peculiarity of atoms well known to chemists that their behavior
@@ -298,4 +298,4 @@ alone have made our lives worth living.
 
 ------------------------------------------------------------------------
 
-[Next: III. Spiritual Companionship Between Man and Woman](htaq05)
+[Next: III. Spiritual Companionship Between Man and Woman](htaq05.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](eph)  [Next](col) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](eph)  [Next](col.md) 
 
 ------------------------------------------------------------------------
 
@@ -354,4 +354,4 @@ seen xel.
 
 ------------------------------------------------------------------------
 
-[Next: Colossians](col)
+[Next: Colossians](col.md)

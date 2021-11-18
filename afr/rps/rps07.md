@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps06)  [Next](rps08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps06)  [Next](rps08.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ Pettersburgh, Owner of Black Supremacy, K.A.Q.O.K.O.K.A.B.C.S.J.W.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6. Obeah](rps08)
+[Next: Chapter 6. Obeah](rps08.md)

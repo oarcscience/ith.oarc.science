@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp11)  [Next](lbp13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp11)  [Next](lbp13.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 
 <span id="img_21500"></span> ![](img/21500.jpg)
 
-# KURUCIFICATUAREN CANTA. <span id="fr_29"></span>[1](#fn_29)
+# KURUCIFICATUAREN CANTA. <span id="fr_29"></span>[1](#fn_29.md)
 
 ## (*The Chant of the Crucified*.)
 
@@ -21,11 +21,11 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 |--------------------|
 | ![](img/21501.jpg) |
 
-HE woods of Odolaga <span id="fr_30"></span>[2](#fn_30) are sombre from
+HE woods of Odolaga <span id="fr_30"></span>[2](#fn_30.md) are sombre from
 the abyss of Guesalza issue dismal sounds, and the Kuruceta <span
-id="fr_31"></span>[3](#fn_31) veils its face with a thick fog,
+id="fr_31"></span>[3](#fn_31.md) veils its face with a thick fog,
 
-"Why do ye weep, maidens of Izaspi? <span id="fr_32"></span>[4](#fn_32)
+"Why do ye weep, maidens of Izaspi? <span id="fr_32"></span>[4](#fn_32.md)
 Why pluck your beards, ye ancients of Errazil? What mean these tearful
 eyes, and this disordered hair?"
 
@@ -45,7 +45,7 @@ Out of the dense fog which is covering Kuruceta issues from its bosom
 sylvan harmonies and cries of triumph The Basque mountain is stirred to
 its base, and, shaking its granite front, flings to the winds its diadem
 of clouds. It is the full moon of May; the queen of night shows her
-sanguinary face towards Otsondo, <span id="fr_33"></span>[5](#fn_33) and
+sanguinary face towards Otsondo, <span id="fr_33"></span>[5](#fn_33.md) and
 with red
 
 <span id="page_217">p. 217</span>
@@ -115,7 +115,7 @@ Then the Basque mountains remain silent; the woods of Odolaga become
 <span id="page_219">p. 219</span>
 
 more sombre, and from the mouth of Guesalza <span
-id="fr_34"></span>[1](#fn_34) issues still more dismal sounds, and the
+id="fr_34"></span>[1](#fn_34.md) issues still more dismal sounds, and the
 Kuruceta veils her face with a more dense fog. And the beams from the
 May moon descends over the valleys, and consoles with its cold light the
 maidens of Izaspi and the ancients of Errazil.
@@ -126,7 +126,7 @@ maidens of Izaspi and the ancients of Errazil.
 
 ### Footnotes
 
-<span id="fn_29"></span>[215:1](lbp12.htm#fr_29) *Kurucificatuaren
+<span id="fn_29"></span>[215:1](lbp12.htm#fr_29.md) *Kurucificatuaren
 Canta*. (*The Chant of the Crucified*.) During the long and sanguinary
 war sustained by the Romans against the inhabitants of the Basque
 mountains, the prisoners who fell into the power of the Romans were
@@ -136,24 +136,24 @@ Basque people intoned while on the cross a chant of triumph and death,
 and also insulted their enemies, who witnessed with feelings of awe such
 manifestations of courage and lofty independence of spirit.
 
-<span id="fn_30"></span>[215:2](lbp12.htm#fr_30) *Odolaga*. A mountain
+<span id="fn_30"></span>[215:2](lbp12.htm#fr_30.md) *Odolaga*. A mountain
 which, forming a cordillera, separates the valleys of Baztan and Ulzama.
 It is covered with woods.
 
-<span id="fn_31"></span>[215:3](lbp12.htm#fr_31) *Kuruceta*. A mountain
+<span id="fn_31"></span>[215:3](lbp12.htm#fr_31.md) *Kuruceta*. A mountain
 situated in Guipuzcoa and Navarre, upon which some hundreds of Basque
 prisoners were crucified during the wars against the Romans.
 
-<span id="fn_32"></span>[215:4](lbp12.htm#fr_32) *Izaspi*. An ancient
+<span id="fn_32"></span>[215:4](lbp12.htm#fr_32.md) *Izaspi*. An ancient
 place of Navarre.
 
-<span id="fn_33"></span>[216:5](lbp12.htm#fr_33) *Otsondo*. A mountain
+<span id="fn_33"></span>[216:5](lbp12.htm#fr_33.md) *Otsondo*. A mountain
 on the frontiers of France, near the Urdax, in Navarre.
 
-<span id="fn_34"></span>[219:1](lbp12.htm#fr_34) Guesalza. A cave of
+<span id="fn_34"></span>[219:1](lbp12.htm#fr_34.md) Guesalza. A cave of
 great depth and extension, full of crystals. It is situated near the
 Mondragon, in Guipuzcoa.
 
 ------------------------------------------------------------------------
 
-[Next: The Raids](lbp13)
+[Next: The Raids](lbp13.md)

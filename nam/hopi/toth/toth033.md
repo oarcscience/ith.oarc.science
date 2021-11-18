@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth032)  [Next](toth034) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth032)  [Next](toth034.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_120">p. 120</span>
 
-## 30. SKELETON WOMAN AND THE HUNTER. <span id="fr_80"></span>[1](#fn_78)
+## 30. SKELETON WOMAN AND THE HUNTER. <span id="fr_80"></span>[1](#fn_78.md)
 
 Alíksai! A long time ago the people were living in Mishóngnovi, where
 now are the old ruins of the ancient village of Mishóngnovi. In the
@@ -63,7 +63,7 @@ back, and after
 
 having traveled for some distance it was very dark and he came to a
 bluff where there was a place called Kawáylöva. <span
-id="fr_81"></span>[1](#fn_79) Here he saw a light, and coming nearer he
+id="fr_81"></span>[1](#fn_79.md) Here he saw a light, and coming nearer he
 found a kiva and looking in he noticed
 
 a pretty woman in the kiva. He was by this time wet and very cold. She
@@ -104,7 +104,7 @@ lively dance in progress. "Come in," some one said to him, so he
 entered. "Hide me quickly," he said to the dancers, "somebody is
 pursuing me," for the Skeleton Woman had followed him. "All right," they
 said, "come in quickly, dress up and dance with us," These were the
-crickets (nanákanchorzhtu). <span id="fr_82"></span>[2](#fn_80) They
+crickets (nanákanchorzhtu). <span id="fr_82"></span>[2](#fn_80.md) They
 took some soaked clay, rubbed it over his body,
 
 <span id="page_122">p. 122</span>
@@ -133,14 +133,14 @@ his place in the kiva.
 
 ### Footnotes
 
-<span id="fn_78"></span>[120:1](toth033.htm#fr_80) Told by Sik'áhpik'i
+<span id="fn_78"></span>[120:1](toth033.htm#fr_80.md) Told by Sik'áhpik'i
 (Shupaúlavi).
 
-<span id="fn_79"></span>[121:1](toth033.htm#fr_81) Horse-vulva, from the
+<span id="fn_79"></span>[121:1](toth033.htm#fr_81.md) Horse-vulva, from the
 peculiar shape of the rock which somewhat resembled that organ.
 
-<span id="fn_80"></span>[121:2](toth033.htm#fr_82) Sing: Naka'nchoro.
+<span id="fn_80"></span>[121:2](toth033.htm#fr_82.md) Sing: Naka'nchoro.
 
 ------------------------------------------------------------------------
 
-[Next: 31. Másauwuu Marries A Maiden](toth034)
+[Next: 31. Másauwuu Marries A Maiden](toth034.md)

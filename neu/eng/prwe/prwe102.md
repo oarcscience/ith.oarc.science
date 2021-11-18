@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe101)  [Next](prwe103) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe101)  [Next](prwe103.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ in a somewhat different form:--
 
 ------------------------------------------------------------------------
 
-[Next: The Devil and his Dandy-Dogs](prwe103)
+[Next: The Devil and his Dandy-Dogs](prwe103.md)

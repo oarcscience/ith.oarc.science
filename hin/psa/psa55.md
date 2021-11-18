@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa54)  [Next](psa56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa54)  [Next](psa56.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### CHAPTER LIV.
 
-SHOOKDEO JEE said,--Raja! Shree [Krishnù](errata.htm#10) Chund, having
+SHOOKDEO JEE said,--Raja! Shree [Krishnù](errata.htm#10.md) Chund, having
 thus inspired the brahmin with confidence, said, "As a burning flame
 comes forth from wood by rubbing it, so will I bring away the beauteous
 Rookmunee, having destroyed the army of wicked demons."
@@ -85,7 +85,7 @@ having met the bridegroom with great honour and dignity, robing all the
 party in robes of honour, and presenting them with arms studded with
 jewels, and ornaments, elephants, and horses, brought them into the
 city; and having fixed upon a place in the bride's house for the
-reception of the [bridegroom](errata.htm#11) and his train, entertained
+reception of the [bridegroom](errata.htm#11.md) and his train, entertained
 them with deferential respect.
 
 Having proceeded thus far in the narrative, Shree Shookdeo, the sage,
@@ -334,4 +334,4 @@ Jee, sounding the kettle-drum, joined him with all his army.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LV](psa56)
+[Next: Chapter LV](psa56.md)

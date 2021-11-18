@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft21)  [Next](pft23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft21)  [Next](pft23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 *Tinguian*
 
 A turtle and a big lizard once went to the field of Gotgotapa to steal
-ginger,  <span id="fr_87"></span>[88](pft68.htm#fn_87) When they reached
+ginger,  <span id="fr_87"></span>[88](pft68.htm#fn_87.md) When they reached
 the place the turtle said to the lizard:
 
 "We must be very still or the man will hear us and come out."
@@ -41,7 +41,7 @@ The turtle could not run fast, so he lay very still, and the man did not
 see him. But the lizard ran and the man chased him. When they were out
 of sight, the turtle went into the house and hid under a cocoanut shell
 upon which the man used to sit.  <span
-id="fr_88"></span>[89](pft68.htm#fn_88)
+id="fr_88"></span>[89](pft68.htm#fn_88.md)
 
 The man ran after the lizard for a long distance, but he could not catch
 him. After a while he came back to the house and sat down on the shell.
@@ -73,4 +73,4 @@ went on alone.
 
 ------------------------------------------------------------------------
 
-[Next: The Man with the Cocoanuts](pft23)
+[Next: The Man with the Cocoanuts](pft23.md)

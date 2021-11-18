@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp66)  [Next](prp68) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp66)  [Next](prp68.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ this punishment thy fault is atoned for.
 
 ------------------------------------------------------------------------
 
-[Next: 68. An I rustical seem to have spoken somewhat unlearned](prp68)
+[Next: 68. An I rustical seem to have spoken somewhat unlearned](prp68.md)

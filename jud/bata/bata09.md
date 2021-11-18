@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](bata08)  [Next](bata10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](bata08)  [Next](bata10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Talmud in Selection*, by Leo Auerbach, \[1944\], at
 Intangible Textual Heritage
 
@@ -183,6 +183,6 @@ Sinai was not terminated.
 
 ------------------------------------------------------------------------
 
-[Next: The Marriage Contract (Tractate Kethuboth)](bata10)
+[Next: The Marriage Contract (Tractate Kethuboth)](bata10.md)
 
 </div>

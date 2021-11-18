@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb36)  [Next](gnfb38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb36)  [Next](gnfb38.md) 
 
 </div>
 
@@ -242,6 +242,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: The White Snake](gnfb38)
+[Next: The White Snake](gnfb38.md)
 
 </div>

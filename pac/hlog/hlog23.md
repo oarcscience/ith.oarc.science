@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog22)  [Next](hlog24) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog22)  [Next](hlog24.md) 
 
 ------------------------------------------------------------------------
 
@@ -456,4 +456,4 @@ the descendants.
 
 ------------------------------------------------------------------------
 
-[Next: Part II Description](hlog24)
+[Next: Part II Description](hlog24.md)

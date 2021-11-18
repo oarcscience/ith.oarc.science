@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs10)  [Next](pifs12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs10)  [Next](pifs12.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,9 +39,9 @@ Southwest.
 Long before the first Spaniards came to New Mexico (and *that* was three
 hundred and fifty years ago) Isleta stood where it stands to-day--on a
 lava ridge that defies the gnawing current of the Rio Grande. <span
-id="fr_30"></span>[1](#fn_30) In those far days, Nah-chu-rú-chu dwelt in
+id="fr_30"></span>[1](#fn_30.md) In those far days, Nah-chu-rú-chu dwelt in
 Isleta, and was a leader of his people. A weaver by trade, <span
-id="fr_31"></span>[2](#fn_31) his rude loom hung from the dark rafters
+id="fr_31"></span>[2](#fn_31.md) his rude loom hung from the dark rafters
 of his room; and in it he wove the strong black *mantas* which are the
 dress of Pueblo women to this day.
 
@@ -95,13 +95,13 @@ houses to catch every word; and when the crier had passed on, they ran
 back into the store-rooms and began to ransack the corn-bins for the
 biggest, evenest, and most perfect ears. Shelling the choicest, each
 took her few handfuls of kernels to the sloping *metate*, <span
-id="fr_32"></span>[1](#fn_32) and
+id="fr_32"></span>[1](#fn_32.md) and
 
 <span id="img_05600"></span>
 
 [![THE ISLETA GIRLS GRINDING CORN WITH THE ''MANO'' ON THE
 ''METATE.''](tn/05600.jpg)  
-Click to enlarge](img/05600.jpg)  
+Click to enlarge](img/05600.jpg.md)  
 THE ISLETA GIRLS GRINDING CORN WITH THE ''MANO'' ON THE ''METATE.''  
 
 with the *mano*, or hand-stone, scrubbed the grist up and down, and up
@@ -166,7 +166,7 @@ Just then, last of all, came the Moon, with a single handful of meal
 which she had hastily ground. The two sisters were in a fine rage by
 this time, and mocked her, saying:
 
-"Hoh! *P'áh-hlee-oh*, <span id="fr_33"></span>[1](#fn_33) you poor
+"Hoh! *P'áh-hlee-oh*, <span id="fr_33"></span>[1](#fn_33.md) you poor
 thing, we are very sorry for you! Here we have been grinding our meal
 four days and still it will not stick, and you we did not tell till
 to-day. How, then, can you ever hope to win Nah-chu-rú-chu? Pooh, you
@@ -185,7 +185,7 @@ the polished shell, and not a particle fell to the ground.
 
 [![THE YELLOW-CORN-MAIDENS THROWING MEAL AT THE
 ''OMATE''](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 THE YELLOW-CORN-MAIDENS THROWING MEAL AT THE ''OMATE''  
 
  
@@ -214,8 +214,8 @@ whatever they propose." And always the young wife promised.
 One day the Yellow-Corn-Maidens came to the house and said:
 
 "Friend Nah-chu-rú-chu, we are going to the *llano* <span
-id="fr_34"></span>[1](#fn_34) to gather *amole*. <span
-id="fr_35"></span>[2](#fn_35) Will you not let your wife go with us?"
+id="fr_34"></span>[1](#fn_34.md) to gather *amole*. <span
+id="fr_35"></span>[2](#fn_35.md) Will you not let your wife go with us?"
 
 "Oh, yes, she may go," said Nah-chu-rú-chu; but taking her aside, he
 said, "Now be sure that you refuse whatever they may propose."
@@ -327,7 +327,7 @@ count the
 <span id="img_06500"></span>
 
 [![THE GRIEF OF NAH-CHU-RÚ-CHU.](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 THE GRIEF OF NAH-CHU-RÚ-CHU.  
 
  
@@ -341,7 +341,7 @@ By now the crops were dead and sere in the fields, and thirsty animals
 walked crying along the dry river. Scarcely could the people themselves
 dig deep enough to find so much water as would keep them alive. They
 were at a loss which way to turn; but at last they thought: We will go
-to P'ah-kú-ee-teh-áy-deh, <span id="fr_36"></span>[1](#fn_36) who can
+to P'ah-kú-ee-teh-áy-deh, <span id="fr_36"></span>[1](#fn_36.md) who can
 find the dead--for surely she is dead, or the others would have found
 her.
 
@@ -400,7 +400,7 @@ that a human form lay between the two *mantas*. And
 when he sang his song the fifth time, the form sat up and moved.
 Tenderly he lifted away the over-cloth, and there sat his sweet
 Moon-wife, fairer than ever, and alive as before! <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
 For four days the people danced and sang in the public square.
 Nah-chu-rú-chu was happy again; and now the rain began to fall. The
@@ -452,35 +452,35 @@ their houses to catch the mice, for these snakes never hurt a person.
 
 ### Footnotes
 
-<span id="fn_30"></span>[54:1](pifs11.htm#fr_30) Bandelier has published
+<span id="fn_30"></span>[54:1](pifs11.htm#fr_30.md) Bandelier has published
 a contrary opinion, to which I do not think he would now cling. The
 folk-lore and the very name of the town fully prove to me that its site
 has not changed in historic times.
 
-<span id="fn_31"></span>[54:2](pifs11.htm#fr_31) In the ancient days,
+<span id="fn_31"></span>[54:2](pifs11.htm#fr_31.md) In the ancient days,
 weaving was practised only by the men, among the Pueblos. This old usage
 is now reversed, and it is the women who weave, except in the pueblos
 Moqui.
 
-<span id="fn_32"></span>[56:1](pifs11.htm#fr_32) The slab of lava which
+<span id="fn_32"></span>[56:1](pifs11.htm#fr_32.md) The slab of lava which
 still serves as a hand-mill in Pueblo houses.
 
-<span id="fn_33"></span>[58:1](pifs11.htm#fr_33) Tée-wahn name of the
+<span id="fn_33"></span>[58:1](pifs11.htm#fr_33.md) Tée-wahn name of the
 moon; literally, "Water-Maiden."
 
-<span id="fn_34"></span>[61:1](pifs11.htm#fr_34) Plain.
+<span id="fn_34"></span>[61:1](pifs11.htm#fr_34.md) Plain.
 
-<span id="fn_35"></span>[61:2](pifs11.htm#fr_35) The soapy root of the
+<span id="fn_35"></span>[61:2](pifs11.htm#fr_35.md) The soapy root of the
 palmilla, used for washing.
 
-<span id="fn_36"></span>[67:1](pifs11.htm#fr_36) Turkey-buzzard;
+<span id="fn_36"></span>[67:1](pifs11.htm#fr_36.md) Turkey-buzzard;
 literally, "water-goose-grandfather."
 
-<span id="fn_37"></span>[69:1](pifs11.htm#fr_37) Nah-chu-rú-chu's
+<span id="fn_37"></span>[69:1](pifs11.htm#fr_37.md) Nah-chu-rú-chu's
 incantation followed the exact form still used by the Indian conjurors
 of the Southwest in their wonderful trick of making corn grow and mature
 from the kernel in one day.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Mother Moon](pifs12)
+[Next: IX. The Mother Moon](pifs12.md)

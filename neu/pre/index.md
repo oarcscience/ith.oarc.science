@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 The Prose Edda is a text on Old Norse Poetics, written about 1200 by the
 Icelandic poet and politican Snorri Sturlson, who also wrote the
-[Heimskringla](../heim/index). The Prose Edda contains a wide variety of
+[Heimskringla](../heim/index.md). The Prose Edda contains a wide variety of
 lore which a Skald (poet) of the time would need to know. The text is of
 interest to modern readers because it contains consistent narratives of
 many of the plot lines of Norse mythology. Although Snorri was a
@@ -25,11 +25,11 @@ number of manusripts which Snorri had access to, but which are now lost.
 
 ------------------------------------------------------------------------
 
-[Title Page](pre00)  
-[Contents](pre01)  
-[Introduction](pre02)  
-[Prologue](pre03)  
-[Gylfaginning](pre04)  
-[Skáldskaparmal](pre05)  
-[Abbreviations](pre06)  
-[Index](pre07)  
+[Title Page](pre00.md)  
+[Contents](pre01.md)  
+[Introduction](pre02.md)  
+[Prologue](pre03.md)  
+[Gylfaginning](pre04.md)  
+[Skáldskaparmal](pre05.md)  
+[Abbreviations](pre06.md)  
+[Index](pre07.md)  

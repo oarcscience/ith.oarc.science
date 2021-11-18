@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara14)  [Next](ara16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara14)  [Next](ara16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ garden and said, smiling:--
 
 "You have made, the offering of flowers to the goddess quite correctly,
 as they did of old; all that remains is to pronounce the prayer
-properly, <span id="fr_22"></span>[1](#fn_22) and it is this:"
+properly, <span id="fr_22"></span>[1](#fn_22.md) and it is this:"
 
 So he repeated the
 
@@ -92,7 +92,7 @@ With thy nymphs unto the music
 Of the horn--thyself the huntress,  
 And most powerful: I pray thee  
 Think, although but for an instant,  
-Upon us who pray unto thee! <span id="fr_23"></span>[1](#fn_23)
+Upon us who pray unto thee! <span id="fr_23"></span>[1](#fn_23.md)
 
 Then Virgil taught them also the *Scongiurazione* or spell to be uttered
 when good fortune or aught is specially required.
@@ -127,7 +127,7 @@ Un segnale a noi lo darei!"
 
 If thou heed'st our evocation  
 And wilt give good fortune to us,  
-Then in proof give us a token! <span id="fr_24"></span>[1](#fn_24)
+Then in proof give us a token! <span id="fr_24"></span>[1](#fn_24.md)
 
 <span id="page_82">p. 82</span>
 
@@ -177,7 +177,7 @@ awoke from a nightmare in which it seemed as if something heavy rested
 on his chest. And something indeed fell from him and rolled on the
 floor. And when he rose and picked it up, and looked at it by the light
 of the moon, he saw that it was a human head, half decayed. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 Another priest, who had heard his cry of terror, entered his room, and
 having looked at the head, said:--
@@ -240,17 +240,17 @@ weapons.
 
 ### Footnotes
 
-<span id="fn_22"></span>[79:1](ara15.htm#fr_22) The most important part
+<span id="fn_22"></span>[79:1](ara15.htm#fr_22.md) The most important part
 of witchcraft is to *intone* or accent the incantations accurately, in a
 manner like that of church chanting or Arab recitations. Hence the
 apparently prose form of most spells.
 
-<span id="fn_23"></span>[80:1](ara15.htm#fr_23) It is to be observed
+<span id="fn_23"></span>[80:1](ara15.htm#fr_23.md) It is to be observed
 that the invocation is strictly a psalm of praise or a hymn; the
 *scongiurazione* is a request or prayer, though it often takes the form
 of a threat or menace. This only exists in classic witchcraft.
 
-<span id="fn_24"></span>[81:1](ara15.htm#fr_24) Something is here
+<span id="fn_24"></span>[81:1](ara15.htm#fr_24.md) Something is here
 omitted, which can, however, be supplied from many other similar
 incantations. It was probably as follows:--
 
@@ -272,10 +272,10 @@ manifestations, as, for instance, lightning, are requested. To see a
 white horse is a sign that the prayer will be granted after some delay.
 It also signifies victory.
 
-<span id="fn_25"></span>[83:1](ara15.htm#fr_25) "La testa d'un uomo
+<span id="fn_25"></span>[83:1](ara15.htm#fr_25.md) "La testa d'un uomo
 piena di verme e puzzolente." A parody in kind for the decayed cabbage,
 much completer than the end of the German tale resembling it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Goblin Messengers of Diana and Mercury](ara16)
+[Next: Chapter XIV. The Goblin Messengers of Diana and Mercury](ara16.md)

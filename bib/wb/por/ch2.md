@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ch1)  [Next](ezr) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ch1)  [Next](ezr.md) 
 
 ------------------------------------------------------------------------
 
@@ -3396,4 +3396,4 @@ o seu povo suba, e o Senhor seu Deus seja com ele.
 
 ------------------------------------------------------------------------
 
-[Next: Ezra](ezr)
+[Next: Ezra](ezr.md)

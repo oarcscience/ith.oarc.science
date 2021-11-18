@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc12)  [Next](pjc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc12)  [Next](pjc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ what remained of the consecrated Elements, when to give some to the
 Blessed Virgin, and how to consecrate, themselves, after he should have
 sent them the Divine Comforter. He then spoke concerning the priesthood,
 the sacred unction, and the preparation of the Chrism and Holy
-Oils. <span id="fr_7"></span>[1](#fn_7) He had there three boxes, two of
+Oils. <span id="fr_7"></span>[1](#fn_7.md) He had there three boxes, two of
 which contained a mixture of oil and balm. He taught them how to make
 this mixture, what parts of the body were to be anointed with them, and
 upon what occasions. I remember, among other things, that he mentioned a
@@ -178,7 +178,7 @@ the habit of adding some minute and superstitious ceremonies.
 
 ### Footnotes
 
-<span id="fn_7"></span>[89:1](pjc13.htm#fr_7) It was not without
+<span id="fn_7"></span>[89:1](pjc13.htm#fr_7.md) It was not without
 surprise that the editor, some years after these things had been related
 by Sister Emmerich, read, in the Latin edition of the Roman Catechism
 (Mayence, Muller), in reference to the Sacrament of Confirmation, that,
@@ -193,4 +193,4 @@ Chrism.'
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](pjc14)
+[Next: Introduction](pjc14.md)

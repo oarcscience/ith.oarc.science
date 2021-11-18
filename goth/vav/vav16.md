@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav15)  [Next](vav17) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav15)  [Next](vav17.md) 
 
 ------------------------------------------------------------------------
 
@@ -245,4 +245,4 @@ has mingled with the dust.\[197\]
 
 ------------------------------------------------------------------------
 
-[Next: Footnotes](vav17)
+[Next: Footnotes](vav17.md)

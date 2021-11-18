@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp56)  [Next](dmp58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp56)  [Next](dmp58.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ your phallus with it (8) and you lie with the woman. Excellent (*bis*).
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXVI](dmp58)
+[Next: Verso Col. XXVI](dmp58.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait08)  [Next](ait10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait08)  [Next](ait10.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ id="page_57">p. 57</span>
 
 |                     |
 |---------------------|
-| ![B](img/05700.jpg) |
+| ![B](img/05700.jpg.md) |
 
 ENDING WILLOW was the most beautiful girl in a tribe noted for its
 handsome women. She had many suitors, but she refused them all; for her
@@ -160,4 +160,4 @@ and cast a red deer at her feet, and they were happy ever after.
 
 ------------------------------------------------------------------------
 
-[Next: White Hawk, the Lazy](ait10)
+[Next: White Hawk, the Lazy](ait10.md)

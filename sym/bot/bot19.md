@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot18) 
-[Next](bot20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot18.md) 
+[Next](bot20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ situated in the northern celestial hemisphere; being composed of small
 stars, the brightest of which are only of the third magnitude, and very
 few visible to the naked eye, it was known in olden times as the dark
 sign, and is shown with its symbols in No. 4 of the coloured
-[Frontispiece](bot00.htm#img_front).
+[Frontispiece](bot00.htm#img_front.md).
 
 The Sun enters this sign on June 22nd, remaining in occupation up to and
 including July 23rd, being in that part of the Ecliptic highest above
@@ -368,6 +368,6 @@ Crystal, as they would not be in harmony with these gems.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Leo—The Lion](bot20)
+[Next: Chapter V. Leo—The Lion](bot20.md)
 
 </div>

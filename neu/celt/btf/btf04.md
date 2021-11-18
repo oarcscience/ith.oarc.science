@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf03)  [Next](btf05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf03)  [Next](btf05.md) 
 
 ------------------------------------------------------------------------
 
@@ -259,4 +259,4 @@ The Tailor and the Three Beasts
 
 ------------------------------------------------------------------------
 
-[Next: Bran](btf05)
+[Next: Bran](btf05.md)

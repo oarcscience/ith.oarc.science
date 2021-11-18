@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Next](ncm1)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Next](ncm1.md)
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ American](../../index) [Navajo](../index)
 
 ------------------------------------------------------------------------
 
-[Next](ncm1)
+[Next](ncm1.md)

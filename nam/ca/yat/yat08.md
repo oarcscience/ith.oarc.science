@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat07)  [Next](yat09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat07)  [Next](yat09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### VI. ORIGIN OF SEX, HANDS, AND DEATH. <span id="fr_45"></span>[131](#fn_43)
+### VI. ORIGIN OF SEX, HANDS, AND DEATH. <span id="fr_45"></span>[131](#fn_43.md)
 
 <span id="page_88">p. 88</span>
 
@@ -33,7 +33,7 @@ were angry, and whipped their wives. "It is bad. Let us make women out
 of the men, and let us make men out of the women."
 
 At daybreak they went off to hunt deer. In the east a certain
-person <span id="fr_46"></span>[132](#fn_44) was building a fire on the
+person <span id="fr_46"></span>[132](#fn_44.md) was building a fire on the
 ground. Now the men came, hunting deer. The one that was building the
 fire sat there. He took smooth round stones and put them into the fire.
 Those who were hunting deer sat around the fire in a circle. That one
@@ -59,7 +59,7 @@ every direction, there are too many children in every direction. The
 people do not die, they grow old. There is no poisoning by magic, there
 is nobody to cry in winter," thus he spoke. There was nobody that knew
 about death. Cottontail Rabbit knew about it, Gray Squirrel knew about
-it, Lizard knew about it. <span id="fr_47"></span>[133](#fn_45) That
+it, Lizard knew about it. <span id="fr_47"></span>[133](#fn_45.md) That
 many there were who knew about death.
 
 Their hands were this way, round, not divided into fingers. "Let us cut
@@ -89,7 +89,7 @@ intending to change things around?" said Coyote. "I want to change
 things around because I don't like them as they are. Bad are the hands,
 they cannot do things well in that way."
 
-It was good weather as it is now, <span id="fr_48"></span>[134](#fn_46)
+It was good weather as it is now, <span id="fr_48"></span>[134](#fn_46.md)
 the sun came out shining through the clouds. Lizard went down hill for a
 short distance to the south, all alone. He sat down and leaned his back
 against the rock. He looked around on the ground and saw small fragments
@@ -167,7 +167,7 @@ that we shall bury him? There is too much snow outside." "Bury him here
 in the sweat-house, on the south side of the floor." They dug a hole and
 put him down into it, but not very deep. They covered him over with
 earth, while the snow was still falling. <span
-id="fr_49"></span>[135](#fn_47) After he had been buried and they had
+id="fr_49"></span>[135](#fn_47.md) After he had been buried and they had
 caused him to lie down in his grave, the grave moved slightly. Coyote
 sat there, looking at the grave. The man who had died acted in that way,
 he kept moving his grave. The dead man was trying to come back to life
@@ -218,7 +218,7 @@ weep if your brother died. That is what you told us. Cry! Cry!"
 
 ### Footnotes
 
-<span id="fn_43"></span>[77:131](yat08.htm#fr_45) This myth, given by
+<span id="fn_43"></span>[77:131](yat08.htm#fr_45.md) This myth, given by
 Sam Bat‘wī as one connected narrative, contains three distinct episodes:
 the mutual change of sex of the first men and women, the fashioning of
 their hands by Lizard, and the introduction of death through Coyote's
@@ -230,22 +230,22 @@ replaced by Earth Initiate). For the third episode cf. Dixon, l.c., pp.
 42-44. The scene of this, as of the preceding, myth is laid at Wamā'rawi
 (see note 111).
 
-<span id="fn_44"></span>[88:132](yat08.htm#fr_46) i.e., Cottontail
+<span id="fn_44"></span>[88:132](yat08.htm#fr_46.md) i.e., Cottontail
 Rabbit.
 
-<span id="fn_45"></span>[89:133](yat08.htm#fr_47) Cottontail Rabbit,
+<span id="fn_45"></span>[89:133](yat08.htm#fr_47.md) Cottontail Rabbit,
 Gray Squirrel, and Lizard form a sort of creative trinity corresponding
 perhaps to the Maidu Turtle, Father-of-the-Secret-Society, and
 Earth-Initiate (see Dixon, op. cit., p. 39). They are collectively
 opposed by Coyote, as is Earth-Initiate of the Maidu myth.
 
-<span id="fn_46"></span>[90:134](yat08.htm#fr_48) i.e., When the myth
+<span id="fn_46"></span>[90:134](yat08.htm#fr_48.md) i.e., When the myth
 was being dictated.
 
-<span id="fn_47"></span>[92:135](yat08.htm#fr_49) The Indians would
+<span id="fn_47"></span>[92:135](yat08.htm#fr_49.md) The Indians would
 sometimes bury a dead man in the sweat-house when it snowed too hard and
 rebury him outside as soon as a favorable opportunity presented itself.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Coyote and his Sister](yat09)
+[Next: VII. Coyote and his Sister](yat09.md)

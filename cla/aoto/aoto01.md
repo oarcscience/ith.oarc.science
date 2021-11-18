@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto00) 
-[Next](aoto02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto00.md) 
+[Next](aoto02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -192,7 +192,7 @@ always, approve of my keeping to the names with which Pope and others
 have already familiarised the public.
 
 Since Chapter xxv. was beyond reach of modification, I have asked the
-authorities of the British [Museum](errata.htm#0) to accept a copy of
+authorities of the British [Museum](errata.htm#0.md) to accept a copy of
 the "Odyssey" with all the Iliadic passages underlined and referred to
 in MS. I have every reason to believe that this will very shortly be
 indexed under my name, and (I regret to say) also under that of Homer.
@@ -214,4 +214,4 @@ work whenever I have been in doubt or difficulty.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](aoto02)
+[Next: Contents](aoto02.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh42)  [Next](ulh44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh42)  [Next](ulh44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ it sprang at once into public favor. Not many years ago one could
 witness its extemporaneous performance by nonprofessionals at many an
 entertainment and festive gathering. Even the school-children took it up
 and might frequently be seen innocently footing its measures on the
-streets. ([Pl. xxiv](#img_pl24).)
+streets. ([Pl. xxiv](#img_pl24)..md)
 
 The steps and motions of the hula ku’i to the eyes of the author
 resemble those of some Spanish dances. The rhythm is in common, or
@@ -66,7 +66,7 @@ suffice.
 
 <span id="img_pl24"></span> <span align="CENTER"> [![PLATE
 XXIV&lt;br&gt; LADY DANCING THE HULA KU'I](tn/pl24.jpg)  
-Click to enlarge](img/pl24.jpg)  
+Click to enlarge](img/pl24.jpg.md)  
 PLATE XXIV  
 LADY DANCING THE HULA KU'I  
 </span>
@@ -90,7 +90,7 @@ light-heartedness of man's Arcadian period.
 
 The instruments generally used in the musical accompaniment of the hula
 ku’i are the guitar, the *uku-lele*, <span
-id="fr_515"></span>[a](#fn_499) the taro-patch fiddle, or the mandolin;
+id="fr_515"></span>[a](#fn_499.md) the taro-patch fiddle, or the mandolin;
 the piano also lends itself effectively for this purpose; or a
 combination of these may be used.
 
@@ -107,12 +107,12 @@ prejudice our appreciation of its beauty.
 
 I aloha i ke ko a ka wai,  
 I ka i mai, e, anu kaua.  
-Ua anu ha pua o ka laina, <span id="fr_516"></span>[b](#fn_500)  
+Ua anu ha pua o ka laina, <span id="fr_516"></span>[b](#fn_500.md)  
 Ka wahine noho anu o ke kula.  
-5 A luna au a o Poli-ahu; <span id="fr_517"></span>[c](#fn_501)  
+5 A luna au a o Poli-ahu; <span id="fr_517"></span>[c](#fn_501.md)  
 Ahu wale kai a o Wai-lua.  
 Lua-ole ka hana a ka makani,  
-A ke Kiu-ke’e <span id="fr_518"></span>[d](#fn_502) a o na pali,  
+A ke Kiu-ke’e <span id="fr_518"></span>[d](#fn_502.md) a o na pali,  
 Pa iho i ke kai a o Puna--  
 10 Ko Puna mea ma’a mau ia.  
 Pau ai ko’u lihi hoihoi  
@@ -127,7 +127,7 @@ I ha wai hu’iliu’i o ka uka,
 <div style="margin-left: 32px">
 
 15 Wai hone i ke kumu o ka pali,  
-I malu i ka lau kui-kui. <span id="fr_519"></span>[a](#fn_503)  
+I malu i ka lau kui-kui. <span id="fr_519"></span>[a](#fn_503.md)  
 Ke kuhi nei au a he pono  
 Ka ilima lei a ke aloha,  
 Au i kau nui aku ai,  
@@ -233,7 +233,7 @@ of the soil, the *lehua* and the *ilima* (verse 15), the *palai* and the
 
 ### Footnotes
 
-<span id="fn_499"></span>[251:a](ulh43.htm#fr_515) The *uku-lele* and
+<span id="fn_499"></span>[251:a](ulh43.htm#fr_515.md) The *uku-lele* and
 the *taro-patch fiddle* are stringed instruments resembling in general
 appearance the fiddle. They seem to have been introduced into these
 islands by the Portuguese immigrants who have come in within the last
@@ -241,21 +241,21 @@ twenty-five years. As with the guitar, the four strings of the uku-lele
 or the five strings of the taro-patch fiddle are plucked with the finger
 or thumb.
 
-<span id="fn_500"></span>[251:b](ulh43.htm#fr_516) *Na pua o ka laina*.
+<span id="fn_500"></span>[251:b](ulh43.htm#fr_516.md) *Na pua o ka laina*.
 The intent of this expression, which seems to have an erotic meaning,
 may perhaps be inferred from its literal rendering in the translation.
 It requires a tropical imagination to follow a Hawaiian poem.
 
-<span id="fn_501"></span>[251:c](ulh43.htm#fr_517) *Poli-ahu*. A place
+<span id="fn_501"></span>[251:c](ulh43.htm#fr_517.md) *Poli-ahu*. A place
 or region on Mauna-kea.
 
-<span id="fn_502"></span>[251:d](ulh43.htm#fr_518) *Kiu-ke’e*. The name
+<span id="fn_502"></span>[251:d](ulh43.htm#fr_518.md) *Kiu-ke’e*. The name
 of a wind felt at Nawiliwili, Kauai. The local names for winds differed
 on the various islands and were multiplied almost without measure; as
 given in the mythical story of Kama-pua’a, or in the semihistoric tale
 of Kú-a-Paka’a, they taxed the memories of raconteurs.
 
-<span id="fn_503"></span>[252:a](ulh43.htm#fr_519) *Kui-kui*. The older
+<span id="fn_503"></span>[252:a](ulh43.htm#fr_519.md) *Kui-kui*. The older
 name-form of the tree (Aleurites triloba), popularly known by some as
 the candle-nut tree, from the fact that its oily nuts were used in
 making torches. *Kukui*, or *tutui*, is the name now applied to the
@@ -265,4 +265,4 @@ original etymology of a word is retained in Hawaiian poetry.
 
 ------------------------------------------------------------------------
 
-[Next: XL.--The Oli](ulh44)
+[Next: XL.--The Oli](ulh44.md)

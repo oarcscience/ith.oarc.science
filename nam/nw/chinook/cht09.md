@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht08)  [Next](cht10) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht08)  [Next](cht10.md) 
 
 ------------------------------------------------------------------------
 
@@ -257,4 +257,4 @@ salmon. Thus shall be the taboos for all generations of people."
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Crane](cht10)
+[Next: 7. The Crane](cht10.md)

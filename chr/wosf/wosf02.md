@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](wosf01)  [Next](wosf03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](wosf01)  [Next](wosf03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,16 +30,16 @@ THE writings of St. Francis may, as is obvious, be considered from more
 than one point of view. Premising this, we are afforded a clue to the
 difficulty which has led students of Franciscan sources to divide
 themselves into two camps as to the objective value of these writings.
-Indeed, one writer <span id="fr_0"></span>[1](#fn_0) goes so far as to
+Indeed, one writer <span id="fr_0"></span>[1](#fn_0.md) goes so far as to
 compare the attitude of modern scholars toward them to that of the
 "Spiritual" and Conventual Friars respectively in the first century of
 Franciscan history. For while one party, led by M. Paul Sabatier, <span
-id="fr_1"></span>[2](#fn_1) attaches what some regard as almost undue
+id="fr_1"></span>[2](#fn_1.md) attaches what some regard as almost undue
 weight to the writings of St. Francis as a source of our knowledge of
 him, the other party, following Mgr. Faloci Pulignani, <span
-id="fr_2"></span>[3](#fn_2) displays, we are told, a tendency to
+id="fr_2"></span>[3](#fn_2.md) displays, we are told, a tendency to
 belittle their importance. The truth is, as Professor Müller long ago
-pointed out, <span id="fr_3"></span>[4](#fn_3) that these writings
+pointed out, <span id="fr_3"></span>[4](#fn_3.md) that these writings
 afford
 
 <span id="page_x">p. x</span>
@@ -49,7 +49,7 @@ which may perhaps account for their comparative neglect by so many of
 the Saint's biographers, but it is not less true that they bear the
 stamp of his personality and reflect his spirit even more faithfully
 than the Legends written down on the very morrow of his death by those
-who had known him the best of all. <span id="fr_4"></span>[1](#fn_4) For
+who had known him the best of all. <span id="fr_4"></span>[1](#fn_4.md) For
 this reason they are well worth all the serious study that scholars
 outside the Franciscan Order are now beginning to give to them.
 
@@ -79,9 +79,9 @@ action are to be found in belief, and conduct ultimately rests upon
 conviction "—it is foreign to the object of the present volume. I am
 here concerned with the literary and historical aspect of these
 writings. Suffice it to say that St. Francis’ doctrine, <span
-id="fr_5"></span>[1](#fn_5) which received, so to speak, the Divine
+id="fr_5"></span>[1](#fn_5.md) which received, so to speak, the Divine
 *Imprimatur* upon the heights of La Verna two years before his
-death, <span id="fr_6"></span>[2](#fn_6) is nothing more or less than a
+death, <span id="fr_6"></span>[2](#fn_6.md) is nothing more or less than a
 paraphrase of the Sermon on the Mount. Nowhere can there be found a
 simpler literalness in the following of the "poverty, humility, and holy
 Gospel of the Lord Jesus " than in the writings of St. Francis, and any
@@ -117,15 +117,15 @@ soft note touched in the letter to Brother Leo and the
 
 deep masculine tone in which the Testament is pitched. On the whole,
 however, his writings fall naturally under three heads: <span
-id="fr_7"></span>[1](#fn_7) those, like the Rules, which represent St.
+id="fr_7"></span>[1](#fn_7.md) those, like the Rules, which represent St.
 Francis as legislator; those, like the Letter to a Minister, which show
 us St. Francis as a spiritual father; and those, like the Praises and
 Salutations, in which we see St. Francis as his earliest biographer saw
 him—"not so much a man praying as prayer itself." <span
-id="fr_8"></span>[2](#fn_8)
+id="fr_8"></span>[2](#fn_8.md)
 
 It was Matthew Arnold, I believe, who first held St. Francis up to
-English readers as a literary type <span id="fr_9"></span>[3](#fn_9)—a
+English readers as a literary type <span id="fr_9"></span>[3](#fn_9.md)—a
 type withal as distinct and formal as the author of the *Divine Comedy*.
 But however true a poet—and without St. Francis no Dante—it is certain
 that the *Poverello* was in no sense a man of letters. He was too little
@@ -139,22 +139,22 @@ mother he seems to have got some acquaintance
 
 <span id="page_xiv">p. xiv</span>
 
-with French; <span id="fr_10"></span>[1](#fn_10) he received elementary
+with French; <span id="fr_10"></span>[1](#fn_10.md) he received elementary
 instruction in reading and writing from the priests at San Giorgio, who
 also taught him enough Latin to enable him to write it in later years
-after a fashion, <span id="fr_11"></span>[2](#fn_11) and to understand
+after a fashion, <span id="fr_11"></span>[2](#fn_11.md) and to understand
 the ritual of the Church and its hymns, which he was wont to sing by the
 wayside. But in considering St. Francis’ literary formation, we must
 reckon largely with the education he picked up in the school of the
 Troubadours, who at the close of the twelfth century were making for
-refinement in Italy. <span id="fr_12"></span>[3](#fn_12) The imagery of
+refinement in Italy. <span id="fr_12"></span>[3](#fn_12.md) The imagery of
 the c*hansons de gestes* seems to have exercised an abiding influence
 upon St. Francis’ life and writings, as is evident from his own tale of
 the Lady Poverty, which later inspired the pen of Dante and the brush of
 Giotto. Witness, too, his frequent allusions to the Knights of the Round
 Table; his desire that his Friars should become "the Lord's Jongleurs,"
 and his habit of courtesy extended even to Sister Death. <span
-id="fr_13"></span>[4](#fn_13) On the other hand St. Francis was nothing
+id="fr_13"></span>[4](#fn_13.md) On the other hand St. Francis was nothing
 if not original. His writings abound not only in allegory and
 personification, but also in quaint concepts and
 
@@ -167,26 +167,26 @@ Scriptural phrases is so intricate as almost to defy any attempt to
 indicate them by references, the more so since the Biblical language
 adopted by St. Francis is not always taken from the Bible, but often
 from the Liturgy, Missal, and Breviary. <span
-id="fr_14"></span>[1](#fn_14) For the rest, as Celano puts it, "he left
+id="fr_14"></span>[1](#fn_14.md) For the rest, as Celano puts it, "he left
 empty ornaments and roundabout methods of speech and everything
 belonging to pomp and to display to those who are ready to perish; for
 his part he cared not for the bark, but for the pith; not for the shell,
 but for the nut; not for the multiple, but for the one only sovereign
-good." <span id="fr_15"></span>[2](#fn_15)
+good." <span id="fr_15"></span>[2](#fn_15.md)
 
 If we may judge from the two solitary autographic fragments of his that
-have come down to us, <span id="fr_16"></span>[3](#fn_16) St. Francis
+have come down to us, <span id="fr_16"></span>[3](#fn_16.md) St. Francis
 was not by any means a skilful penman. Be this as it may, St.
 Bonaventure clearly implies that he had a secretary, <span
-id="fr_17"></span>[4](#fn_17) to whom
+id="fr_17"></span>[4](#fn_17.md) to whom
 
 <span id="page_xvi">p. xvi</span>
 
 he dictated notes, and affirms with Celano that the Saint signed such
 documents as called for his signature with the "sign *thau*," or capital
-*T*. <span id="fr_18"></span>[1](#fn_18) Whether or not St. Francis’
+*T*. <span id="fr_18"></span>[1](#fn_18.md) Whether or not St. Francis’
 practice of signing his name thus has any connection with Brother
-Pacifico's vision of the large *T*, <span id="fr_19"></span>[2](#fn_19)
+Pacifico's vision of the large *T*, <span id="fr_19"></span>[2](#fn_19.md)
 is a matter of conjecture and of small import. What is certain is that
 St. Francis wrote little. The most characteristic of his extant writings
 are very short, extremely simple in style, and without any trace of
@@ -214,7 +214,7 @@ piecemeal fashion of composing as the spirit moved him, is also manifest
 in a very different work, the First Rule, as is evident from the
 modification and additions this strange piece of legislation suffered
 during the fourteen years it was in force. <span
-id="fr_20"></span>[1](#fn_20) St. Francis’ practice of returning to his
+id="fr_20"></span>[1](#fn_20.md) St. Francis’ practice of returning to his
 old writings, retouching and remoulding them, working them over and
 inserting parts of them in his new ones, goes far toward explaining
 difficulties which would otherwise arise from the resemblance between
@@ -247,43 +247,43 @@ Many such collections exist in mediæval codices, but any attempt to
 classify these MSS. is, in the present state of our documentation, beset
 by peculiar difficulties. Not the least of these difficulties arises
 from the fact that even as in the Legends or Lives of St. Francis we can
-distinguish a double current; <span id="fr_21"></span>[1](#fn_21) so,
+distinguish a double current; <span id="fr_21"></span>[1](#fn_21.md) so,
 too, in the early MS. collections two distinct families or categories
 are found representing or rather illustrating the twofold tradition and
 observance which date from the very beginnings of Franciscan
-history. <span id="fr_22"></span>[2](#fn_22)
+history. <span id="fr_22"></span>[2](#fn_22.md)
 
 The first place among these collections belongs to the MS. numbered 338,
 formerly in
 
 <span id="img__01800"></span> <span align="CENTER">
 [![](tn/_01800.jpg)  
-Click to enlarge](img/_01800.jpg)</span>
+Click to enlarge](img/_01800.jpg.md)</span>
 
 <span class="small">PAGE OF THE ASSISI MS. 338 CONTAINING CONCLUSION OF
 THE "SALUTATION OF THE VIRTUES" AND COMMENCEMENT OF THE "CANTICLE OF THE
-SUN." (See page [xviii](#page_xviii).</span>
+SUN." (See page [xviii](#page_xviii.md).</span>
 
 <span id="page_xix">p. xix</span>
 
 the Sacro Convento, but now in the municipal library at Assisi. Critics
 who have studied this early codex are not in accord as to its age. <span
-id="fr_23"></span>[1](#fn_23) But it dates at least from the beginning
+id="fr_23"></span>[1](#fn_23.md) But it dates at least from the beginning
 of the fourteenth century. It includes eleven of the nineteen works here
 translated. They are contained in three parchment books in the following
 order: fol. 12-16, The Second Rule of the Friars Minor; <span
-id="fr_24"></span>[2](#fn_24) fol. 16-18, The Testament; <span
-id="fr_25"></span>[3](#fn_25) fol. 18-23, Admonitions; <span
-id="fr_26"></span>[4](#fn_26) fol. 23-28, The Letter to All the
-Faithful; <span id="fr_27"></span>[5](#fn_27) fol. 28-31, The Letter to
-the General Chapter; <span id="fr_28"></span>[6](#fn_28) fol. 31-32,
+id="fr_24"></span>[2](#fn_24.md) fol. 16-18, The Testament; <span
+id="fr_25"></span>[3](#fn_25.md) fol. 18-23, Admonitions; <span
+id="fr_26"></span>[4](#fn_26.md) fol. 23-28, The Letter to All the
+Faithful; <span id="fr_27"></span>[5](#fn_27.md) fol. 28-31, The Letter to
+the General Chapter; <span id="fr_28"></span>[6](#fn_28.md) fol. 31-32,
 Instruction to Clerics on the Holy Eucharist; <span
-id="fr_29"></span>[7](#fn_29) fol. 32, Salutation of the Virtues; <span
-id="fr_30"></span>[8](#fn_30) fol. 33, The Canticle of the Sun; <span
-id="fr_31"></span>[9](#fn_31) fol. 34, Paraphrase of the Lord's
-Prayer; <span id="fr_32"></span>[10](#fn_32) fol. 34-43, The Office of
-the Passion; <span id="fr_33"></span>[11](#fn_33) and fol. 43, The
-Regulation for Hermitages. <span id="fr_34"></span>[12](#fn_34)
+id="fr_29"></span>[7](#fn_29.md) fol. 32, Salutation of the Virtues; <span
+id="fr_30"></span>[8](#fn_30.md) fol. 33, The Canticle of the Sun; <span
+id="fr_31"></span>[9](#fn_31.md) fol. 34, Paraphrase of the Lord's
+Prayer; <span id="fr_32"></span>[10](#fn_32.md) fol. 34-43, The Office of
+the Passion; <span id="fr_33"></span>[11](#fn_33.md) and fol. 43, The
+Regulation for Hermitages. <span id="fr_34"></span>[12](#fn_34.md)
 
 The same collection either wholly or in part is given in the well-known
 fourteenth century compilation of *materia seraphica* known as *Fac
@@ -294,36 +294,36 @@ be found in the
 
 <span class="contnote">\[paragraph continues\]</span> Vatican MS. 4354,
 the Berlin MS. 196, the Lemberg MS. 131, <span
-id="fr_35"></span>[1](#fn_35) and the Liegnitz MS. 12. <span
-id="fr_36"></span>[2](#fn_36) The Mazarin MSS. 989 and 1743, <span
-id="fr_37"></span>[3](#fn_37) as well as the Düsseldorf MS. 132, <span
-id="fr_38"></span>[4](#fn_38) may also be said to belong to this family
+id="fr_35"></span>[1](#fn_35.md) and the Liegnitz MS. 12. <span
+id="fr_36"></span>[2](#fn_36.md) The Mazarin MSS. 989 and 1743, <span
+id="fr_37"></span>[3](#fn_37.md) as well as the Düsseldorf MS. 132, <span
+id="fr_38"></span>[4](#fn_38.md) may also be said to belong to this family
 of codices which present the writings of St. Francis in practically the
 same number and order as Mariano of Florence adopts in his *Chronicle*,
-composed about 1500. <span id="fr_39"></span>[5](#fn_39)
+composed about 1500. <span id="fr_39"></span>[5](#fn_39.md)
 
 We now come to the second collection of St. Francis’ writings, which is
 often found along with the traditional *Legenda Trium Sociorum*, and the
 *Speculum Perfectionis*. It is represented by the celebrated Florentine
-codex at Ognissanti, <span id="fr_40"></span>[6](#fn_40) the codex 1/25
-at St. Isidore's, Rome, <span id="fr_41"></span>[7](#fn_41) the Vatican
-MS. 7650, <span id="fr_42"></span>[8](#fn_42) and the codex of the
+codex at Ognissanti, <span id="fr_40"></span>[6](#fn_40.md) the codex 1/25
+at St. Isidore's, Rome, <span id="fr_41"></span>[7](#fn_41.md) the Vatican
+MS. 7650, <span id="fr_42"></span>[8](#fn_42.md) and the codex of the
 Capuchin
 
 <span id="page_xxi">p. xxi</span>
 
-convent at Foligno, <span id="fr_43"></span>[1](#fn_43) all of which
+convent at Foligno, <span id="fr_43"></span>[1](#fn_43.md) all of which
 contain St. Francis’ works in almost the same order as that given by
 Bartholomew of Pisa, in his *Liber Conformitatum*. <span
-id="fr_44"></span>[2](#fn_44)
+id="fr_44"></span>[2](#fn_44.md)
 
 This second collection of the writings of St. Francis differs from the
 first one in several details. In the first place it omits the
 Instruction to Clerics on the Holy Eucharist and adds the letter To a
-Certain Minister. <span id="fr_45"></span>[3](#fn_45) Again, the Assisi
+Certain Minister. <span id="fr_45"></span>[3](#fn_45.md) Again, the Assisi
 and Liegnitz MSS., which are typical examples of the first collection,
 place the prayer, "O Almighty Eternal God," etc.,  <span
-id="fr_46"></span>[4](#fn_46) at the end of the letter to the General
+id="fr_46"></span>[4](#fn_46.md) at the end of the letter to the General
 Chapter, whereas in the Ognissanti MS. and others of the same family
 this prayer is found elsewhere. So, too, in the Assisi and Liegnitz MSS.
 the Salutation of the Virtues is inscribed "Salutation of the Virtues
@@ -344,29 +344,29 @@ collections of St. Francis’ writings to the
 Two diverse compilations, each containing part of the Opuscula, were
 published at the beginning of the sixteenth century. The first of these,
 known as the *Speculum Vitae B. Francisci et Sociorum ejus*, <span
-id="fr_47"></span>[1](#fn_47) and quarried largely from the *Actus Beati
+id="fr_47"></span>[1](#fn_47.md) and quarried largely from the *Actus Beati
 Francisci*, contains (fol. 126-127) among various legends and other
 narrations some of St. Francis’ prayers, and (fol. 189) also the First
 Rule. The second compilation, which is of a much more polemic
-character, <span id="fr_48"></span>[2](#fn_48) and which contains a
+character, <span id="fr_48"></span>[2](#fn_48.md) and which contains a
 larger number of the *Opuscula*, appeared successively with some
 variations in form at Rouen in 1509 as the *Speculum Minorum*, <span
-id="fr_49"></span>[3](#fn_49) at Salamanca in 1511 as the *Monumenta
-Ordinis Minorum*, <span id="fr_50"></span>[4](#fn_50) and at Paris in
+id="fr_49"></span>[3](#fn_49.md) at Salamanca in 1511 as the *Monumenta
+Ordinis Minorum*, <span id="fr_50"></span>[4](#fn_50.md) and at Paris in
 1512 as the
 
 <span id="page_xxiii">p. xxiii</span>
 
 <span class="contnote">\[paragraph continues\]</span> *Firmamenta trium
-Ordinum B. Francisci*. <span id="fr_51"></span>[1](#fn_51) The
+Ordinum B. Francisci*. <span id="fr_51"></span>[1](#fn_51.md) The
 seventeenth century saw the appearance of
 
 #### WADDING'S EDITION.
 
 The honor of making the first serious attempt to collect all the
 writings of St. Francis belongs to the renowned Annalist of the Order,
-Father Luke Wadding. <span id="fr_52"></span>[2](#fn_52) His celebrated
-edition of the *Opuscula* <span id="fr_53"></span>[3](#fn_53) is
+Father Luke Wadding. <span id="fr_52"></span>[2](#fn_52.md) His celebrated
+edition of the *Opuscula* <span id="fr_53"></span>[3](#fn_53.md) is
 distributed in three parts: Part I contains the Letters, Prayers, and
 the Testament; Part II, the Rules; and Part III, the Monastic
 Conferences, the Office of the Passion and Canticles, followed by
@@ -378,7 +378,7 @@ collections in this, that whereas the latter contained only those pieces
 which as regards both matter and form were the handiwork of St. Francis,
 Wadding felt justified in including among St. Francis’ writings many
 *dicta* of the Saint found in the early Legends. For example, St.
-Bonaventure <span id="fr_54"></span>[4](#fn_54) relates of St. Francis
+Bonaventure <span id="fr_54"></span>[4](#fn_54.md) relates of St. Francis
 "Non enim securum *esse putabat* earum formarum introrsus haurire
 imagines."
 
@@ -388,7 +388,7 @@ imagines."
 sixth Conference, by changing *putabat* into *puto*, gives this passage
 as the *ipsissima verba* of St. Francis. Again, in the seventeenth
 Conference, he entirely changes the form of what St. Bonaventure
-elsewhere <span id="fr_55"></span>[1](#fn_55) relates of St. Francis
+elsewhere <span id="fr_55"></span>[1](#fn_55.md) relates of St. Francis
 when he substitutes "Officium praedicationis Patri misericordiarum omni
 sacrificio *est* acceptius" for "Istius Miserationis officium Patri
 misericordiarum omni sacrificio *firmabat* acceptius."
@@ -417,18 +417,18 @@ would be surely more arduous, and perhaps not so fruitful.
 
 Several editions of St. Francis’ writings have appeared since Wadding's
 day, notably those published by de la Haye, <span
-id="fr_56"></span>[1](#fn_56) Von der Burg, <span
-id="fr_57"></span>[2](#fn_57) and Horoy. <span
-id="fr_58"></span>[3](#fn_58) But these editions are very imperfect.
+id="fr_56"></span>[1](#fn_56.md) Von der Burg, <span
+id="fr_57"></span>[2](#fn_57.md) and Horoy. <span
+id="fr_58"></span>[3](#fn_58.md) But these editions are very imperfect.
 Their authors, in spite of the advance made in historical criticism
 since Wadding's day, have merely reproduced and rejuvenated the edition
 of the great annalist. The same is true of the various translations of
 the Opuscula,—they are simply Wadding in Italian, <span
-id="fr_59"></span>[4](#fn_59) English, <span
-id="fr_60"></span>[5](#fn_60) French, <span
-id="fr_61"></span>[6](#fn_61) German, <span
-id="fr_62"></span>[7](#fn_62) or Spanish, <span
-id="fr_63"></span>[8](#fn_63) as the case may be.
+id="fr_59"></span>[4](#fn_59.md) English, <span
+id="fr_60"></span>[5](#fn_60.md) French, <span
+id="fr_61"></span>[6](#fn_61.md) German, <span
+id="fr_62"></span>[7](#fn_62.md) or Spanish, <span
+id="fr_63"></span>[8](#fn_63.md) as the case may be.
 
 On the other hand, M. Sabatier's strictures on the "numerous
 ecclesiastics" who have edited
@@ -452,7 +452,7 @@ Quaracchi—already famous in the literary history of the Order—and in
 
 #### FIRST CRITICAL EDITION
 
-of the *Opuscula*. <span id="fr_64"></span>[1](#fn_64) Without
+of the *Opuscula*. <span id="fr_64"></span>[1](#fn_64.md) Without
 overlooking the internal character of each document, the Quaracchi
 editors based their edition upon the early MS. tradition, weighing by
 this standard all the various writings contained in the stereotyped
@@ -495,9 +495,9 @@ the freedom of no small city upon the students of Franciscan sources.
 
 The year 1904 also saw the publication, almost simultaneously, of two
 other works dealing with the *Opuscula* of St. Francis, written by well
-known professors at Bonn <span id="fr_65"></span>[1](#fn_65) and
-Munich, <span id="fr_66"></span>[2](#fn_66) and both of real
-value. <span id="fr_67"></span>[3](#fn_67) It would be foreign to our
+known professors at Bonn <span id="fr_65"></span>[1](#fn_65.md) and
+Munich, <span id="fr_66"></span>[2](#fn_66.md) and both of real
+value. <span id="fr_67"></span>[3](#fn_67.md) It would be foreign to our
 present purpose to examine either of these works in detail. Suffice it
 to say that they accord in substance almost completely with the
 conclusions of the Quaracchi editors. If anything, they lean more on the
@@ -508,9 +508,9 @@ called forth from Fr. Van
 <span id="page_xxix">p. xxix</span>
 
 <span class="contnote">\[paragraph continues\]</span> Ortroy, <span
-id="fr_68"></span>[1](#fn_68) M. Sabatier, <span
-id="fr_69"></span>[2](#fn_69) and Mr. Carmichael <span
-id="fr_70"></span>[3](#fn_70) among others, we are now in a position to
+id="fr_68"></span>[1](#fn_68.md) M. Sabatier, <span
+id="fr_69"></span>[2](#fn_69.md) and Mr. Carmichael <span
+id="fr_70"></span>[3](#fn_70.md) among others, we are now in a position to
 form a fairly accurate estimate of what St. Francis really *wrote*.
 
 It is obvious, however, that in dealing with writings like those of St.
@@ -522,7 +522,7 @@ with seemingly greater likelihood made over to one or another of his
 immediate followers. But in the long run, to whatever criticism St.
 Francis’ writings may be subjected, the main lines will always remain
 the same. It may well be true as a recent writer <span
-id="fr_71"></span>[4](#fn_71) has remarked, that it is not yet the time
+id="fr_71"></span>[4](#fn_71.md) has remarked, that it is not yet the time
 to essay a complete English edition of St. Francis’ writings, yet withal
 the lack of any translation of these writings in English which aims at
 fulfilling the requirements of modern criticism has led me to think that
@@ -591,34 +591,34 @@ its publication conduces ever so little toward making St. Francis better
 known and better loved. To this end I ask the reader to forget all that
 may be mine within these pages, and to remember only the words of him
 who, "saintlier than any among the saints, among sinners was as one of
-themselves." <span id="fr_72"></span>[1](#fn_72)
+themselves." <span id="fr_72"></span>[1](#fn_72.md)
 
 FR. PASCHAL ROBINSON, <span class="small">O.F.M.</span>,
 
 Franciscan Convent, Paterson, N. J.  
-Feast of St. Agnes of [Assisi](errata.htm#0), 1905.
+Feast of St. Agnes of [Assisi](errata.htm#0.md), 1905.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:1](wosf02.htm#fr_0) Prof. A. G. Little. See
+<span id="fn_0"></span>[ix:1](wosf02.htm#fr_0.md) Prof. A. G. Little. See
 *English Historical Review*, Oct., 1902, p. 652.
 
-<span id="fn_1"></span>[ix:2](wosf02.htm#fr_1) M. Sabatier's views on
+<span id="fn_1"></span>[ix:2](wosf02.htm#fr_1.md) M. Sabatier's views on
 this point are summarized in his *Vie de S. François*, Paris, 1904. See
 *Études des Sources*, p. xxxvi.
 
-<span id="fn_2"></span>[ix:3](wosf02.htm#fr_2) Mgr. Faloci's opinion may
+<span id="fn_2"></span>[ix:3](wosf02.htm#fr_2.md) Mgr. Faloci's opinion may
 be found in his *Miscellanea Francescana*, Foligno, t. VII, p. 115 seq.
 
-<span id="fn_3"></span>[ix:4](wosf02.htm#fr_3) *Die Anfänge des
+<span id="fn_3"></span>[ix:4](wosf02.htm#fr_3.md) *Die Anfänge des
 Minoritenordens*, Freiburg, 1885, p. 3.
 
-<span id="fn_4"></span>[x:1](wosf02.htm#fr_4) See *Opuscula*. Ed.
+<span id="fn_4"></span>[x:1](wosf02.htm#fr_4.md) See *Opuscula*. Ed.
 Quaracchi, p. vi.
 
-<span id="fn_5"></span>[xi:1](wosf02.htm#fr_5) See on this subject the
+<span id="fn_5"></span>[xi:1](wosf02.htm#fr_5.md) See on this subject the
 long study of Cardinal Gabriel de Treio, given by Wadding in the
 *Opuscula*. The full title is: "Gabriel, divina miseratione S. R. E.
 Tituli S. Pancratii presbyter cardinalis de Treio, in epistola missa ad
@@ -627,7 +627,7 @@ Apollinaris, O. F. M., in his *Doctrine Spirituelle de S. François*
 (Paris, 1878). See also the *Bibliotheca Veterum Patrum* (Cologne,
 1618), which ranks St. Francis among the Fathers.
 
-<span id="fn_6"></span>[xi:2](wosf02.htm#fr_6)
+<span id="fn_6"></span>[xi:2](wosf02.htm#fr_6.md)
 
 <div style="margin-left: 32px">
 
@@ -638,33 +638,33 @@ Che le sue membra due anni portarno."
 
 </div>
 
-<span id="fn_7"></span>[xiii:1](wosf02.htm#fr_7) See Boehmer,
+<span id="fn_7"></span>[xiii:1](wosf02.htm#fr_7.md) See Boehmer,
 *Analekten*, p. xlv.
 
-<span id="fn_8"></span>[xiii:2](wosf02.htm#fr_8) "Non tam orans quam
+<span id="fn_8"></span>[xiii:2](wosf02.htm#fr_8.md) "Non tam orans quam
 oratio factus." 2 Cel. 3, 51.
 
-<span id="fn_9"></span>[xiii:3](wosf02.htm#fr_9) See his chapter on "
+<span id="fn_9"></span>[xiii:3](wosf02.htm#fr_9.md) See his chapter on "
 Pagan and Mediæval Religious Sentiment " in the *Essays on Criticism*.
 Third edition, Macmillan, 1875, pp. 243-248.
 
-<span id="fn_10"></span>[xiv:1](wosf02.htm#fr_10) See *Leg. III Soc.*,
+<span id="fn_10"></span>[xiv:1](wosf02.htm#fr_10.md) See *Leg. III Soc.*,
 10.
 
-<span id="fn_11"></span>[xiv:2](wosf02.htm#fr_11) Eccleston speaks of
-his "false Latin." See below, [p. 132](wosf17.htm#page_132).
+<span id="fn_11"></span>[xiv:2](wosf02.htm#fr_11.md) Eccleston speaks of
+his "false Latin." See below, [p. 132](wosf17.htm#page_132.md).
 
-<span id="fn_12"></span>[xiv:3](wosf02.htm#fr_12) Some of the greatest
+<span id="fn_12"></span>[xiv:3](wosf02.htm#fr_12.md) Some of the greatest
 troubadours of Provence were then sojourning in Italy. On their journeys
 and influence there see Fauriel, *Histoire de la poésie Provençale*, t.
 II, and three articles by the same author in the "Bibliothèque de
 l’École des Chartes," t. III and IV. Fragments of their poems are given
 by Monaci: *Testi antichi provenzali* (Rome, 1889).
 
-<span id="fn_13"></span>[xiv:4](wosf02.htm#fr_13) See Görres: *Der hl.
+<span id="fn_13"></span>[xiv:4](wosf02.htm#fr_13.md) See Görres: *Der hl.
 Franciscus von Assisi, ein Troubadour* (Ratisbon, 1879).
 
-<span id="fn_14"></span>[xv:1](wosf02.htm#fr_14) I have rendered all
+<span id="fn_14"></span>[xv:1](wosf02.htm#fr_14.md) I have rendered all
 Scripture phrases by the corresponding Douay Version; not, indeed, that
 I wish to raise any vexatious question as to the relative merits of the
 Douay and the English Authorized Version from a literary point of view,
@@ -674,88 +674,88 @@ Vulgate, and the English Authorized Version is not and does not profess
 to be a translation of the Vulgate. See *Franciscan Annals*, January,
 1905, p. 8.
 
-<span id="fn_15"></span>[xv:2](wosf02.htm#fr_15) 1 Cel. 1.
+<span id="fn_15"></span>[xv:2](wosf02.htm#fr_15.md) 1 Cel. 1.
 
-<span id="fn_16"></span>[xv:3](wosf02.htm#fr_16) See below, [p.
-130](wosf17.htm#page_130).
+<span id="fn_16"></span>[xv:3](wosf02.htm#fr_16.md) See below, [p.
+130](wosf17.htm#page_130.md).
 
-<span id="fn_17"></span>[xv:4](wosf02.htm#fr_17) M. Sabatier (*Vie de S.
+<span id="fn_17"></span>[xv:4](wosf02.htm#fr_17.md) M. Sabatier (*Vie de S.
 François*, p. 5) suggests that Brother Leo may have acted in this
 capacity, and invokes the authority of Bernard of Besse to prove it.
 
-<span id="fn_18"></span>[xvi:1](wosf02.htm#fr_18) For the testimony of
-St. Bonaventure and Celano see below, [p. 147](wosf21.htm#page_147).
+<span id="fn_18"></span>[xvi:1](wosf02.htm#fr_18.md) For the testimony of
+St. Bonaventure and Celano see below, [p. 147](wosf21.htm#page_147.md).
 
-<span id="fn_19"></span>[xvi:2](wosf02.htm#fr_19) See Tract. de
+<span id="fn_19"></span>[xvi:2](wosf02.htm#fr_19.md) See Tract. de
 Miraculis., *Anal. Bol.*, t. xviii, p. 115.
 
-<span id="fn_20"></span>[xvii:1](wosf02.htm#fr_20) See below, [p.
-27](wosf06.htm#page_27).
+<span id="fn_20"></span>[xvii:1](wosf02.htm#fr_20.md) See below, [p.
+27](wosf06.htm#page_27.md).
 
-<span id="fn_21"></span>[xviii:1](wosf02.htm#fr_21) See Lemmens: De
+<span id="fn_21"></span>[xviii:1](wosf02.htm#fr_21.md) See Lemmens: De
 duobus generibus vitarum S. P. Francisci in *Doct. Ant. Franc.*, P. II,
 p. 9; and de Kerval: Les Sources de l’histoire de S. François in
 *Bullettino Critico*, fasc. I, p. 3.
 
-<span id="fn_22"></span>[xviii:2](wosf02.htm#fr_22) See Sabatier:
+<span id="fn_22"></span>[xviii:2](wosf02.htm#fr_22.md) See Sabatier:
 *Opuscules*, fasc. x, p. 133; also Boehmer: *Analekten*, p. vi.
 
-<span id="fn_23"></span>[xix:1](wosf02.htm#fr_23) See Ehrle, S.J.: Die
+<span id="fn_23"></span>[xix:1](wosf02.htm#fr_23.md) See Ehrle, S.J.: Die
 historischen Handschriften des Klosters San Francesco in Assisi in
 *Archiv für Litteratur*, etc., t. I, p.484; Mgr. Faloci Pulignani in the
 *Miscell. Francescana*, t. VI, p. 46; M. Sabatier: *Vie de S. François*,
 I, p. 370; and Professor Alessandri: *Inventario dei manoscritti della
 biblioteca del conv. de S. Francesco di Assisi*, p. 57.
 
-<span id="fn_24"></span>[xix:2](wosf02.htm#fr_24) See page
-[64](wosf06.htm#page_64).
+<span id="fn_24"></span>[xix:2](wosf02.htm#fr_24.md) See page
+[64](wosf06.htm#page_64.md).
 
-<span id="fn_25"></span>[xix:3](wosf02.htm#fr_25) See page
-[81](wosf09.htm#page_81).
+<span id="fn_25"></span>[xix:3](wosf02.htm#fr_25.md) See page
+[81](wosf09.htm#page_81.md).
 
-<span id="fn_26"></span>[xix:4](wosf02.htm#fr_26) See page
-[5](wosf03.htm#page_5).
+<span id="fn_26"></span>[xix:4](wosf02.htm#fr_26.md) See page
+[5](wosf03.htm#page_5.md).
 
-<span id="fn_27"></span>[xix:5](wosf02.htm#fr_27) See page
-[98](wosf12.htm#page_98).
+<span id="fn_27"></span>[xix:5](wosf02.htm#fr_27.md) See page
+[98](wosf12.htm#page_98.md).
 
-<span id="fn_28"></span>[xix:6](wosf02.htm#fr_28) See page
-[111](wosf13.htm#page_111).
+<span id="fn_28"></span>[xix:6](wosf02.htm#fr_28.md) See page
+[111](wosf13.htm#page_111.md).
 
-<span id="fn_29"></span>[xix:7](wosf02.htm#fr_29) See page
-[23](wosf05.htm#page_23).
+<span id="fn_29"></span>[xix:7](wosf02.htm#fr_29.md) See page
+[23](wosf05.htm#page_23.md).
 
-<span id="fn_30"></span>[xix:8](wosf02.htm#fr_30) See page
-[20](wosf04.htm#page_20).
+<span id="fn_30"></span>[xix:8](wosf02.htm#fr_30.md) See page
+[20](wosf04.htm#page_20.md).
 
-<span id="fn_31"></span>[xix:9](wosf02.htm#fr_31) See page
-[152](wosf22.htm#page_152).
+<span id="fn_31"></span>[xix:9](wosf02.htm#fr_31.md) See page
+[152](wosf22.htm#page_152.md).
 
-<span id="fn_32"></span>[xix:10](wosf02.htm#fr_32) See page
-[139](wosf18.htm#page_139).
+<span id="fn_32"></span>[xix:10](wosf02.htm#fr_32.md) See page
+[139](wosf18.htm#page_139.md).
 
-<span id="fn_33"></span>[xix:11](wosf02.htm#fr_33) See page
-[155](wosf23.htm#page_155).
+<span id="fn_33"></span>[xix:11](wosf02.htm#fr_33.md) See page
+[155](wosf23.htm#page_155.md).
 
-<span id="fn_34"></span>[xix:12](wosf02.htm#fr_34) See page
-[89](wosf10.htm#page_89).
+<span id="fn_34"></span>[xix:12](wosf02.htm#fr_34.md) See page
+[89](wosf10.htm#page_89.md).
 
-<span id="fn_35"></span>[xx:1](wosf02.htm#fr_35) See *Speculum
+<span id="fn_35"></span>[xx:1](wosf02.htm#fr_35.md) See *Speculum
 Perfectionis* (ed. Sabatier), p. clxxvi, for description of these three
 MSS.
 
-<span id="fn_36"></span>[xx:2](wosf02.htm#fr_36) See Sabatier: Le
+<span id="fn_36"></span>[xx:2](wosf02.htm#fr_36.md) See Sabatier: Le
 Manuscrit de Liegnitz, in *Opuscules*, t. I, p. 33. This codex adds the
 Salutation of the Blessed Virgin and the letter to Brother Leo.
 
-<span id="fn_37"></span>[xx:3](wosf02.htm#fr_37) On these MSS. see
+<span id="fn_37"></span>[xx:3](wosf02.htm#fr_37.md) On these MSS. see
 *Spec. Perf.* (ed. Sabatier), p. clxiv.
 
-<span id="fn_38"></span>[xx:4](wosf02.htm#fr_38) This MS. adds the
+<span id="fn_38"></span>[xx:4](wosf02.htm#fr_38.md) This MS. adds the
 example: *Fuit quidam miles*, etc. See *Actus B. Francisci* (ed.
 Sabatier), cap. 66.
 
-<span id="fn_39"></span>[xx:5](wosf02.htm#fr_39) The *Chronicle* of
+<span id="fn_39"></span>[xx:5](wosf02.htm#fr_39.md) The *Chronicle* of
 Mariano, so often quoted by Wadding, is now lost. It comprised five
 large volumes in folio. In the first of these he gives the catalogue of
 St. Francis’ writings above referred to, and which is reproduced in the
@@ -763,129 +763,129 @@ Quaracchi edition after Wadding. I have not deemed it necessary to
 translate it here. On Mariano and his works, see Sabatier: Bartholi, p.
 137.
 
-<span id="fn_40"></span>[xx:6](wosf02.htm#fr_40) On this MS. see
+<span id="fn_40"></span>[xx:6](wosf02.htm#fr_40.md) On this MS. see
 Minocchi: "La Legenda trium Sociorum," p. 13; also his "Nuovi Studii" in
 the *Archiv. Storico Ital.*, t. XXIV, p. 266; see also Sabatier:
 Bartholi, p. cxxxv.
 
-<span id="fn_41"></span>[xx:7](wosf02.htm#fr_41) On this MS. see
+<span id="fn_41"></span>[xx:7](wosf02.htm#fr_41.md) On this MS. see
 Lemmens: *Doct. Ant. Franc.*, P. III, P. 52.
 
-<span id="fn_42"></span>[xx:8](wosf02.htm#fr_42) On this MS. see
+<span id="fn_42"></span>[xx:8](wosf02.htm#fr_42.md) On this MS. see
 Sabatier: Bartholi, p. cxlvi.
 
-<span id="fn_43"></span>[xxi:1](wosf02.htm#fr_43) On this MS. see
+<span id="fn_43"></span>[xxi:1](wosf02.htm#fr_43.md) On this MS. see
 Faloci: *Misc. Frances.*, t. VII, p. 45; and Sabatier: *Opuscules*, t.
 I, p. 359. It may be noted that the Foligno MS. conforms more to that of
 St. Isidore's and the Vatican MS. rather to that of Ognissanti.
 
-<span id="fn_44"></span>[xxi:2](wosf02.htm#fr_44) My references to the
+<span id="fn_44"></span>[xxi:2](wosf02.htm#fr_44.md) My references to the
 *Conformities* are to the Milan edition of 1510. The edition published
 in 1590, especially in the historical part, is mutilated and corrupted
 at almost every page, as I can personally attest after a comparison of
 it with several old MS. versions.
 
-<span id="fn_45"></span>[xxi:3](wosf02.htm#fr_45) See below, [p.
-121](wosf14.htm#page_121).
+<span id="fn_45"></span>[xxi:3](wosf02.htm#fr_45.md) See below, [p.
+121](wosf14.htm#page_121.md).
 
-<span id="fn_46"></span>[xxi:4](wosf02.htm#fr_46) See below, [p.
-118](wosf13.htm#page_118).
+<span id="fn_46"></span>[xxi:4](wosf02.htm#fr_46.md) See below, [p.
+118](wosf13.htm#page_118.md).
 
-<span id="fn_47"></span>[xxii:1](wosf02.htm#fr_47) It was printed at
+<span id="fn_47"></span>[xxii:1](wosf02.htm#fr_47.md) It was printed at
 Venice "expensis domini Jordani de Dinslaken per Simonem de Lucre" in
 1504, and at Metz "per Jasparem Hochffeder" in 1509. Both these editions
 are identical. It was republished by Spoelberch at Antwerp in 1620.
 
-<span id="fn_48"></span>[xxii:2](wosf02.htm#fr_48) It is largely a
+<span id="fn_48"></span>[xxii:2](wosf02.htm#fr_48.md) It is largely a
 collection of declarations and expositions of the Rule, and of statutes,
 decrees, and privileges concerning the Order.
 
-<span id="fn_49"></span>[xxii:3](wosf02.htm#fr_49) The *Speculum* Morin,
+<span id="fn_49"></span>[xxii:3](wosf02.htm#fr_49.md) The *Speculum* Morin,
 as it is called from the printer, Martin Morin, is now very rare. In a
 copy at the National Library, at Paris, it is ascribed to Fr. John
 Argomanez, a Spanish provincial. See *Études Franc.*, t. XIII, p. 317.
 
-<span id="fn_50"></span>[xxii:4](wosf02.htm#fr_50) Also at Barcelona, in
+<span id="fn_50"></span>[xxii:4](wosf02.htm#fr_50.md) Also at Barcelona, in
 1523. See Sbaralea: *Supplementum*, p. 51.
 
-<span id="fn_51"></span>[xxiii:1](wosf02.htm#fr_51) On the edition
+<span id="fn_51"></span>[xxiii:1](wosf02.htm#fr_51.md) On the edition
 published at Venice, in 1513, see Sbaralea: *Supplem*., p. 196.
 
-<span id="fn_52"></span>[xxiii:2](wosf02.htm#fr_52) See *The Life of
+<span id="fn_52"></span>[xxiii:2](wosf02.htm#fr_52.md) See *The Life of
 Father Luke Wadding*, by Fr. Joseph O'Shea, O.F.M.
 
-<span id="fn_53"></span>[xxiii:3](wosf02.htm#fr_53) See Wadding: *B. P.
+<span id="fn_53"></span>[xxiii:3](wosf02.htm#fr_53.md) See Wadding: *B. P.
 Francisci Assisiatis Opuscula*, Antwerp, 1623. See also his *Scriptores
 Ordinis Minorum*, p. 112; and Sbaralea: *Supplem*., p. 244.
 
-<span id="fn_54"></span>[xxiii:4](wosf02.htm#fr_54) *Leg. Maj.*, V, 5.
+<span id="fn_54"></span>[xxiii:4](wosf02.htm#fr_54.md) *Leg. Maj.*, V, 5.
 
-<span id="fn_55"></span>[xxiv:1](wosf02.htm#fr_55) *Leg. Maj.*, VIII, 1.
+<span id="fn_55"></span>[xxiv:1](wosf02.htm#fr_55.md) *Leg. Maj.*, VIII, 1.
 
-<span id="fn_56"></span>[xxv:1](wosf02.htm#fr_56) *Opera Omnia S.
+<span id="fn_56"></span>[xxv:1](wosf02.htm#fr_56.md) *Opera Omnia S.
 Francisci*, Paris, 1641.
 
-<span id="fn_57"></span>[xxv:2](wosf02.htm#fr_57) *Opera B. P.
+<span id="fn_57"></span>[xxv:2](wosf02.htm#fr_57.md) *Opera B. P.
 Francisci*, Cologne, 1849.
 
-<span id="fn_58"></span>[xxv:3](wosf02.htm#fr_58) *Sti Francisci
+<span id="fn_58"></span>[xxv:3](wosf02.htm#fr_58.md) *Sti Francisci
 Assisiensis Opera Omnia*, Paris. 1880 (vol. VI of Bibliotheca
 Patristica.)
 
-<span id="fn_59"></span>[xxv:4](wosf02.htm#fr_59) *Oposculi di S.
+<span id="fn_59"></span>[xxv:4](wosf02.htm#fr_59.md) *Oposculi di S.
 Francesco*, by Fr. Bernardo da Fivizzano, O.M.Cap., Florence, 1880. The
 Latin text is also given in this edition.
 
-<span id="fn_60"></span>[xxv:5](wosf02.htm#fr_60) *Works of St.
+<span id="fn_60"></span>[xxv:5](wosf02.htm#fr_60.md) *Works of St.
 Francis*. Translated by a Religious of the Order. London, 1890.
 
-<span id="fn_61"></span>[xxv:6](wosf02.htm#fr_61) *Œuvres de S.
+<span id="fn_61"></span>[xxv:6](wosf02.htm#fr_61.md) *Œuvres de S.
 François*. Trans. of Berthaumier. Paris, 1864.
 
-<span id="fn_62"></span>[xxv:7](wosf02.htm#fr_62) *Leben, Regel, and
+<span id="fn_62"></span>[xxv:7](wosf02.htm#fr_62.md) *Leben, Regel, and
 Werke des h. Franziskus von Assisi*. By Hereneus Haid. Ratisbon, 1856.
 
-<span id="fn_63"></span>[xxv:8](wosf02.htm#fr_63) *Obras Completas del
+<span id="fn_63"></span>[xxv:8](wosf02.htm#fr_63.md) *Obras Completas del
 B. P. S. Francisco de Asis segun la coleccion del P. Wadingo*. Ternel,
 1902.
 
-<span id="fn_64"></span>[xxvi:1](wosf02.htm#fr_64) "*Opuscula Sancti
+<span id="fn_64"></span>[xxvi:1](wosf02.htm#fr_64.md) "*Opuscula Sancti
 Patris Francisci Assisiensis* sec. Codices MSS. emendata et denuo edita
 a PP. Collegii S. Bonaventurae. Ad Claras Aquas (Quaracchi), 1904."
 
-<span id="fn_65"></span>[xxviii:1](wosf02.htm#fr_65) H. Boehmer:
+<span id="fn_65"></span>[xxviii:1](wosf02.htm#fr_65.md) H. Boehmer:
 *Analekten zur Geschichte des Franciscus von Assisi. S. Francisci
 Opuscula*. Tübingen and Leipzig, 1904.
 
-<span id="fn_66"></span>[xxviii:2](wosf02.htm#fr_66) W. Goetz: *Die
+<span id="fn_66"></span>[xxviii:2](wosf02.htm#fr_66.md) W. Goetz: *Die
 Quellen zur Geschichte des lit. Franciscus von Assisi*. Gotha, 1904. The
 part of this work dealing with the *Opuscula* already appeared in the
 *Zeitschrift für Kirchengeschichte*. As there is some difference between
 the reprint and the original, I have quoted sometimes from one and
 sometimes from the other.
 
-<span id="fn_67"></span>[xxviii:3](wosf02.htm#fr_67) There is also an
+<span id="fn_67"></span>[xxviii:3](wosf02.htm#fr_67.md) There is also an
 excellent new French translation by Fr. Ubald d’Alençon, O.M.Cap.,—*Les
 Opuscules de Saint Francois d’Assise* (Paris, Poussielgue, 1905). I have
 quoted from it elsewhere. A critical Italian edition is in preparation
 by Fr. Nicolò Dal-Gal, O.F.M., already well known for his contributions
 to Franciscan history.
 
-<span id="fn_68"></span>[xxix:1](wosf02.htm#fr_68) See *Analecta
+<span id="fn_68"></span>[xxix:1](wosf02.htm#fr_68.md) See *Analecta
 Bollandiana*, fasc. III, p. 411.
 
-<span id="fn_69"></span>[xxix:2](wosf02.htm#fr_69) Examen de quelques
+<span id="fn_69"></span>[xxix:2](wosf02.htm#fr_69.md) Examen de quelques
 travaux recents sur les Opuscules de Saint François, in *Opuscules*,
 fasc. X.
 
-<span id="fn_70"></span>[xxix:3](wosf02.htm#fr_70) "The Writings of St.
+<span id="fn_70"></span>[xxix:3](wosf02.htm#fr_70.md) "The Writings of St.
 Francis," by Montgomery Carmichael, in the *Month*, January, 1904.
 
-<span id="fn_71"></span>[xxix:4](wosf02.htm#fr_71) See *The Words of St.
+<span id="fn_71"></span>[xxix:4](wosf02.htm#fr_71.md) See *The Words of St.
 Francis*, by Anne Macdonell, p. 7, London, 1904.
 
-<span id="fn_72"></span>[xxxii:1](wosf02.htm#fr_72) 1. Cel. 29.
+<span id="fn_72"></span>[xxxii:1](wosf02.htm#fr_72.md) 1. Cel. 29.
 
 ------------------------------------------------------------------------
 
-[Next: I. Words of Admonition of Our Holy Father St. Francis](wosf03)
+[Next: I. Words of Admonition of Our Holy Father St. Francis](wosf03.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist031) 
-[Next](hist033) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist031.md) 
+[Next](hist033.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ the fourth indiction."
 ------------------------------------------------------------------------
 
 [Next: XXXI. How Pope Gregory, by letter, exhorted Augustine not to
-glory in his miracles. \[601 A.D.\]](hist033)
+glory in his miracles. \[601 A.D.\]](hist033.md)

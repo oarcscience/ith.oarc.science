@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](emec02)  [Next](emec04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](emec02)  [Next](emec04.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,19 +10,19 @@ First among these gods of the Egyptians was Ra, *the Sun*, or Amun-Ra,
 *The Great Sun*, whose warmth ripened their harvests, but whose
 scorching rays made his power felt as much as an enemy as a friend. His
 sculptured figure wears a cap ornamented with two tall feathers, and
-sometimes with the figure of the sun (see Fig. [2](#img_2)). He was the
+sometimes with the figure of the sun (see Fig. [2](#img_2).md). He was the
 King of the Gods. He was more particularly the god of Thebes.
 
 Over the portico of the Theban temple there is usually a ball or sun,
 ornamented with outstretched wings, representing the all-seeing
 Providence thus watching over and sheltering the world. From this sun
 hang two sacred asps wearing the crowns of Upper and Lower Egypt (see
-Fig. [1](emec02.htm#img_1)).
+Fig. [1](emec02.htm#img_1).md).
 
 <span id="page_3">p. 3</span>
 
 Every Egyptian king bore the title of Zera, *the Son of Ra* (see Fig.
-[27](#img_27)), and many of the Theban kings took the name of Amunmai,
+[27](#img_27).md), and many of the Theban kings took the name of Amunmai,
 *beloved by Amun*. From him
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
@@ -54,7 +54,7 @@ language.
 
 In the western half of the Delta the Sun was worshipped as Mando-Ra.
 Like Amun-Ra, he wears the two tall feathers, and the Sun on his head,
-but he differs from him in having a hawk's face (see Fig. [3](#img_3)).
+but he differs from him in having a hawk's face (see Fig. [3](#img_3).md).
 In our woodcuts these gods each carry in their left hand a staff, with
 an animal's head, and in the right hand the character for life. A cow's
 tail, the ornament of royalty, hangs down behind from the waistband.
@@ -68,7 +68,7 @@ Next was Hapimou, *the Nile*, whose waters were the chief source of
 their food, whose overflow marked the limits between the cultivated land
 and the desert; to him they owed nothing but grateful thanks. He is a
 figure of both sexes, having the beard of a man and the breasts of a
-child-bearing woman (see Fig. [4](#img_4)). He carries in his arms
+child-bearing woman (see Fig. [4](#img_4).md). He carries in his arms
 fruits and flowers, and sometimes waterfowls.
 
 Another great god was their narrow valley, the country in which they
@@ -109,19 +109,19 @@ him a metal support to hold it on the head. His
 
 right arm is raised and holds a whip, his left arm is hid under his
 dress, which is the tight garment of the Egyptian women (see Fig.
-[5](#img_5)). In consequence of the confusion arising from the Egyptian
+[5](#img_5).md). In consequence of the confusion arising from the Egyptian
 guttural, his name is in the Hieroglyphics usually spelled THM, as
 Champsi, *the crocodile*, becomes Tempsi on the eastern side of the
 Delta.
 
 Kneph, *the Wind*, or Air, or *Breath of our bodies*, was supposed to be
 the god of Animal and Spiritual Life. He has the head and horns of a ram
-(see Fig. [6](#img_6)).
+(see Fig. [6](#img_6).md).
 
 Pthah, the god of Fire, was more particularly the god of Memphis, as
 Amun-Ra of Thebes; and the kings in that city were said to be "Beloved
 by Pthah." His figure is bandaged like a mummy, and his head shaven like
-a priest (see Fig. [7](#img_7)).
+a priest (see Fig. [7](#img_7).md).
 
 Having thus created for themselves a number of gods, their own feelings
 and what they saw around them would
@@ -132,7 +132,7 @@ as if covering the whole earth. At other times she is formed into an
 arch, with her feet and fingers on the ground, while her body forms the
 blue vault overhead, and is spangled with stars. At other times she is
 simply a woman, with the hieroglyphical character for her name as the
-ornament on the top of her head (see Fig. [8](#img_8)). She was
+ornament on the top of her head (see Fig. [8](#img_8).md). She was
 particularly worshipped at Sais, and the kings of that city are styled
 "Beloved by Neith."
 
@@ -140,7 +140,7 @@ Isis, or Isitis, the Earth, or rather the *corn-bearing Land*, the
 mother of all creation, was another and perhaps the chief favourite with
 the nation. Her name is derived from SAT, *to sow seed*, like the Latin
 Ceres. She is known by the throne upon her head, because a throne forms
-the first syllable of her name (see Fig. [9](#img_9)). But she had so
+the first syllable of her name (see Fig. [9](#img_9).md). But she had so
 many
 
 <span id="page_6">p. 6</span>
@@ -151,7 +151,7 @@ Hecate, *the sorceress*.
 
 Other goddesses were attributes or feelings made into persons, such as
 Athor the goddess of Love and Beauty. She has cow's horns (see Fig.
-[10](#img_10)), and sometimes a cow's
+[10](#img_10).md), and sometimes a cow's
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
 <colgroup>
@@ -180,7 +180,7 @@ head. She also is sometimes called Maut, *the mother*. She belonged to
 Upper Egypt, and was the wife of Amun-Ra, and gave her name to the city
 of Aphroditopolis.
 
-Pasht, the goddess of Virtue, has a cat's head (see Fig. [11](#img_11)).
+Pasht, the goddess of Virtue, has a cat's head (see Fig. [11](#img_11).md).
 She belonged to Lower Egypt, and gave her name to the city of Bubastis.
 Amunothph III., however, of Thebes, particularly styled himself "Beloved
 by Pasht."
@@ -198,13 +198,13 @@ upon it, he was the god of letters and of all learning. He has the head
 of an ibis, because the ibis perches on the top of the post. He is often
 in the act of writing, or of counting the years on the notches at the
 back of a palm branch from which the leaves have been broken off (see
-Fig. [12](#img_12)). This palm branch is the hieroglyphical character
+Fig. [12](#img_12).md). This palm branch is the hieroglyphical character
 for the word "year." Thoth was by the Greeks called Hermes, a name which
 has the same meaning, a *pillar*. The sacred books of the priests were
 all supposed to have been written by Thoth.
 
 <span id="img_11"></span> [![](tn/generic.jpg)  
-Click to view](img/00700.jpg)
+Click to view](img/00700.jpg.md)
 
 Fig. 11.--Pasht.
 
@@ -247,7 +247,7 @@ one is a whip and one is a crosier (see Fig. 13). His name is derived
 from OSH, *a decree*, and IRI, *to do*, and it means the judge. Horus
 has a hawk's head, and wears the double crown of Upper and Lower Egypt,
 formed of a plate of gold over or around the mitre, as described in
-Exodus xxviii., xxix. (see Fig. [14](#img_14)). Sometimes he is a
+Exodus xxviii., xxix. (see Fig. [14](#img_14).md). Sometimes he is a
 crowned hawk. Anubis has the head of a dog or a
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
@@ -273,7 +273,7 @@ Click to view</a></p>
 
  
 
-jackal (see Fig. [15](#img_15)), or is represented as the animal a
+jackal (see Fig. [15](#img_15).md), or is represented as the animal a
 jackal. He never takes a foremost place among the gods, but usually
 stands as the attendant or servant of Osiris.
 
@@ -281,9 +281,9 @@ Nephthys is known by her name, a dish and a house,
 
 <span id="page_9">p. 9</span>
 
-upon her head (see Fig. [16](#img_16)). It means *Mistress of the
+upon her head (see Fig. [16](#img_16).md). It means *Mistress of the
 house*, or *Lady*. Typhon is a hippopotamus, usually walking on its hind
-legs, and with female breasts (see Fig. [17](#img_17)); sometimes with
+legs, and with female breasts (see Fig. [17](#img_17).md); sometimes with
 sword in his hand, to show his wicked nature. He is the chief author of
 evil. In Acts xxvii. 14, a tempestuous wind is called a Typhonian wind.
 
@@ -293,9 +293,9 @@ of science, or medicine. Amun-Ra and his wife Athor had a son named
 Chonso, who is sometimes only distinguished from his father by the
 youthful lock of hair on the right side of his head; and sometimes he is
 known by his having a hawk's face, like Horus, and on his head, not the
-sun, but the new moon (see Fig. [18](#img_18)). To all these numerous
+sun, but the new moon (see Fig. [18](#img_18).md). To all these numerous
 gods a father was given in the person of Seb, or Sebek, the crocodile
-(see Fig. [19](#img_19)).
+(see Fig. [19](#img_19).md).
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
 <colgroup>
@@ -396,7 +396,7 @@ four into one, and at other times by dividing one into two or three, or
 more. Thus out of Horus and Ra they made Horus-Ra, called by the Greeks
 Aroeris. Out of Osiris and Apis the bull of Memphis, the priests of
 Memphis made Osiri-Apis or Serapis. He carries the two sceptres of
-Osiris, and has a bull's head (see Fig. [20](#img_20)). Out of Amun-Ra
+Osiris, and has a bull's head (see Fig. [20](#img_20).md). Out of Amun-Ra
 and Ehe the bull of Heliopolis, the priests of the East of the Delta
 made Amun-Ra-Ehe. To this again they added a fourth character, that of
 Chem, and made a god Amun- Ra-Ehe- Chem. Out of Kneph *the Spirit*, and
@@ -404,7 +404,7 @@ Ra *the Sun*, they made Kneph-Ra. Out of Sebek and Ra, they made
 Sebek-Ra. In this way the Egyptians worshipped a plurality in unity.
 
 <span id="img_20"></span> [![](tn/generic.jpg)  
-Click to view](img/01200.jpg)
+Click to view](img/01200.jpg.md)
 
 Fig. 20.--Serapis.
 
@@ -421,12 +421,12 @@ in the person of Pthah-sokar-Osiris.
 
 The gods were very much grouped in sets of three, and each city had its
 own trinity. In Thebes it was Amun-Ra, Athor, and Chonso, or father,
-mother, and son (see Fig. [21](#img_21)). Sometimes, however, they were
+mother, and son (see Fig. [21](#img_21).md). Sometimes, however, they were
 arranged as father, son, and mother, placing Chonso between his two
 parents. In Abousimbel and Derr in Nubia, the trinity is Pthah,
 
 <span id="img_21"></span> [![](tn/generic.jpg)  
-Click to view](img/01300.jpg)
+Click to view](img/01300.jpg.md)
 
 Fig. 21.--Amun-Ra, Maut, and Chonso.
 
@@ -441,7 +441,7 @@ At Philæ the trinity
 
 is Osiris, Isis, and Horus, a group, indeed, common to most parts of
 Egypt. Other groups were Isis, Nephthys, and Horus (see Fig.
-[22](#img_22)); or Isis, Nephthys, and Osiris; and with a national love
+[22](#img_22).md); or Isis, Nephthys, and Osiris; and with a national love
 for mysticism the priests often declared that the three in some
 undescribed way only made one person. The above figures, indeed, do not
 declare that the three gods are only one; but we have a hieroglyphical
@@ -452,7 +452,7 @@ that in each of the two groups last mentioned the three gods only made
 one person (Egypt. Inscript. Pl. 36, 4, 5).
 
 <span id="img_22"></span> [![](tn/generic.jpg)  
-Click to view](img/01400.jpg)
+Click to view](img/01400.jpg.md)
 
 Fig. 22.
 
@@ -461,7 +461,7 @@ now at Cambridge, shows us the king not only as one of a group of three
 gods, but also as a Trinity in Unity in his own person. He stands
 between the goddesses Isis and Nephthys, who embrace him as if he were
 the lost Osiris, whom they have now found again (see Fig.
-[23](#img_23)). We further know him to be in the character of Osiris by
+[23](#img_23).md). We further know him to be in the character of Osiris by
 the two sceptres which he holds in his hands; but at the same time the
 horns upon his head are those of the goddess Athor, and the ball and
 feathers above are the ornaments of the god Ra. Thus he is at once
@@ -480,7 +480,7 @@ which will not consent to plough in the furrow (see Job xxxix. 10). The
 sacred bull was called Apis in Memphis and the west of the Delta, and
 Amun-ehe, or as the Greeks wrote it Mnevis, in Heliopolis and the east
 of the Delta. He was ornamented with the figure of the sun or full moon
-between his horns (see Fig. [24](#img_24)). The crocodile was worshipped
+between his horns (see Fig. [24](#img_24).md). The crocodile was worshipped
 because he was the terror of those who approached the river's bank. He
 was called Seb, and made the father of all the gods, and the patron god
 of some of the Ethiopian kings. Selk, *the scorpion*, was a torturing
@@ -511,10 +511,10 @@ Click to view</a></p>
 
 <span id="page_16">p. 16</span>
 
-or rather goddesses, of good (see Fig. [25](#img_25)). The hawk was a
+or rather goddesses, of good (see Fig. [25](#img_25).md). The hawk was a
 bird of dignity, and so dedicated to Horus the king. The Scarabæus, or
 beetle, rolls up before it a ball of dirt in which it wraps its eggs,
-and hence was made sacred to the Sun (see Fig. [26](#img_26)).
+and hence was made sacred to the Sun (see Fig. [26](#img_26).md).
 
 These animals were looked upon as the representatives of the gods
 mentioned above, and each received a more particular honour in its own
@@ -580,15 +580,15 @@ see that the Israelites were forbidden to set apart any food for the
 dead.
 
 <span id="img_27"></span> [![](tn/generic.jpg)  
-Click to view](img/01700.jpg)
+Click to view](img/01700.jpg.md)
 
 Fig. 27.
 
 Every king of Egypt, even while living, was added to the number of the
 gods, and declared to be the Son of Ra, which was the title set over the
-second oval of his name (see Fig. [27](#img_27)). He was then sometimes
+second oval of his name (see Fig. [27](#img_27).md). He was then sometimes
 made into the third person of a Trinity, in which case he took the place
-of the god Chonso, in Fig. [21](#img_21). He denied that he owed his
+of the god Chonso, in Fig. [21](#img_21.md). He denied that he owed his
 birth to the father from whom he inherited the crown; he claimed to be
 born, like the bull Apis, by a miraculous conception. He styled his
 mother the wife of Amun-Ra, which explains the mistake of Diodorus
@@ -597,7 +597,7 @@ Siculus, who calls the tombs of
 <span id="page_18">p. 18</span>
 
 <span id="img_28"></span> [![](tn/generic.jpg)  
-Click to view](img/01800.jpg)
+Click to view](img/01800.jpg.md)
 
 Fig. 28.--The Birth of King Amunothph III.
 
@@ -607,7 +607,7 @@ divine worship.
 
 This opinion of the miraculous birth of the kings is well explained in a
 series of sculptures on the wall of the temple of Luxor (see Fig.
-[28](#img_28)). First, the god Thoth, with the head of an ibis, and with
+[28](#img_28).md). First, the god Thoth, with the head of an ibis, and with
 his ink and pen-case in his left hand, as the messenger of the gods,
 like the Mercury of the Greeks, tells the maiden queen Mautmes that she
 is to give birth to a son, who is to be king Amunothph III. Secondly,
@@ -652,10 +652,10 @@ like the tree of life, or that of knowledge, in the
 garden of Eden in Genesis iii., as when a priest, after death, is
 painted as kneeling before the tree, and his soul stands, beside him in
 form of a bird with human head; and they are both drinking the water
-which the goddess is pouring into their mouths (see Fig. [29](#img_29)).
+which the goddess is pouring into their mouths (see Fig. [29](#img_29).md).
 
 <span id="img_29"></span> [![](tn/generic.jpg)  
-Click to view](img/02000.jpg)
+Click to view](img/02000.jpg.md)
 
 Fig. 29
 
@@ -683,7 +683,7 @@ turn aside their anger.
 
 On the walls and columns of the temple the most common sculpture is the
 group of the king presenting his gift to the god as an atonement for his
-own sins and the sins of the people (see Fig. [30](#img_30)).
+own sins and the sins of the people (see Fig. [30](#img_30).md).
 
 They were mediators between their subjects and the gods. We have a Greek
 inscription from 241 Egypt declaring that Alexander the Great, being a
@@ -693,7 +693,7 @@ The Egyptians were of a gloomy, serious disposition, and they worshipped
 in fear rather than in gratitude. Their prayers and sacrifices were
 sin-offerings rather than thank-offerings. The architecture of their
 temples was in harmony with their religion. The inner sanctuary, the
-holy of holies, was always a dark room. Fig. [31](#img_31) is the ground
+holy of holies, was always a dark room. Fig. [31](#img_31.md) is the ground
 plan of the temple of Errebek in Thebes, built by Oimenepthah I., and
 finished by his son Rameses II. The worshippers were allowed to enter a
 first courtyard, and a second courtyard through gateways formed of
@@ -702,7 +702,7 @@ the portico, under which the sacrifices and libations were made in their
 sight and on their behalf. But none
 
 <span id="img_30"></span> [![](tn/generic.jpg)  
-Click to view](img/02100.jpg)
+Click to view](img/02100.jpg.md)
 
 Fig. 30
 
@@ -711,7 +711,7 @@ Fig. 30
 but the priests ever entered the small dark rooms beyond. The portico
 was handsome but heavy, and grand rather than beautiful; the flat roof
 was upheld by a row of strong closely set columns (see Fig.
-[32](#img_32)).
+[32](#img_32).md).
 
 When Moses passed by this spot on his march out of Egypt, not only had
 the old cave been dug out of the rock, but the newer parts of the temple
@@ -721,7 +721,7 @@ Lawgiver set up his own altar to Jehovah-Nissi.
 But if we would know the styles of the yet earlier Egyptian temples, we
 must seek for models of them not in Egypt, but in Ethiopia and in the
 peninsula of Sinai; as fashions change faster near the capital, and the
-older style of art must be looked for at a distance. Fig. [33](#img_33)
+older style of art must be looked for at a distance. Fig. [33](#img_33.md)
 is the plan of the temple of Seboua in Ethiopia, halfway between the
 first and the second cataract. It was built in the reign of Rameses II.,
 but as it is at a distance from Thebes it maybe supposed to show us is
@@ -734,7 +734,7 @@ Amun-Ra was worshipped in chambers ornamented with painted sculptures
 upon which his rays never fell. The
 
 <span id="img_31"></span> [![](tn/generic.jpg)  
-Click to view](img/02200.jpg)
+Click to view](img/02200.jpg.md)
 
 Fig. 31.--Temple of Errebek.
 
@@ -742,7 +742,7 @@ Fig. 31.--Temple of Errebek.
 
 small temple of Sarbout el Kadem, near mount Sinai, explains very
 satisfactorily the progress of temple architecture among the Egyptians
-(see Fig. [34](#img_34)). Here the inner sanctuary is of one date, a
+(see Fig. [34](#img_34).md). Here the inner sanctuary is of one date, a
 cave in the side of the hill, formed by king Amunmai Thori III.; while
 the hall and courtyard belonging to it, and in the open air, were added
 by Thothmosis II. and III., two hundred years afterwards. The inner,
@@ -750,7 +750,7 @@ older, and darker room, very naturally formed the Sanctuary for the more
 modern temple that was added to it.
 
 <span id="img_32"></span> [![](tn/generic.jpg)  
-Click to view](img/02300.jpg)
+Click to view](img/02300.jpg.md)
 
 Fig. 32.--Temple of Errebek.
 
@@ -768,8 +768,8 @@ column to column, which shut out the public from seeing what took place
 within. The laity were left to imagine the solemnities which their
 fathers had been allowed to gaze at. This is well shown in the ruined
 temple of Contra-Latopolis, which was built under the later Ptolemies
-(see Fig. [35](#img_35)). It is still better shown in Fig.
-[36](#img_36), a restoration of the Temple
+(see Fig. [35](#img_35).md). It is still better shown in Fig.
+[36](#img_36.md), a restoration of the Temple
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
 <colgroup>
@@ -796,7 +796,7 @@ of Dendera, which though built in even more modern days under the Roman
 Emperors, yet in this respect is the
 
 <span id="img_35"></span> [![](tn/generic.jpg)  
-Click to view](img/02500.jpg)
+Click to view](img/02500.jpg.md)
 
 Fig. 35.
 
@@ -805,7 +805,7 @@ like the screen in our cathedrals between the choir and the nave,
 betrays a wish on the part
 
 <span id="img_36"></span> [![](tn/generic.jpg)  
-Click to view](img/02501.jpg)
+Click to view](img/02501.jpg.md)
 
 Fig. 36.
 
@@ -847,7 +847,7 @@ assisted at the ceremonies. and waited on their superiors. The temple of
 the Memnonium of Thebes is surrounded at the back and at the two sides
 by vaults built of unburnt brick, which would seem to be each a dwelling
 for one of the priests of lower rank. These cells were at least 130 in
-number (see Fig. [37](#img_37)).
+number (see Fig. [37](#img_37).md).
 
 <span id="page_27">p. 27</span>
 
@@ -862,13 +862,13 @@ Ptolemies, the priests lived in cells within the two courtyards. Those
 of lower rank may have had the twelve smaller cells on one
 
 <span id="img_37"></span> [![](tn/generic.jpg)  
-Click to view](img/02700.jpg)
+Click to view](img/02700.jpg.md)
 
 Fig. 37.
 
 side of the inner courtyard, while the chief priests may have dwelt in
 the larger rooms on the opposite side of this courtyard (see Fig.
-[38](#img_38)). When the outer courtyard was added to the same temple,
+[38](#img_38).md). When the outer courtyard was added to the same temple,
 fifteen more rather larger cells were built within it for the priests'
 dwellings. Thus, while the cells for the priests belonging to the
 Memnonium, in the middle of the city of Thebes, were outside the walls
@@ -883,7 +883,7 @@ the places in which Osiris was said to be buried (Diod. Sic. lib. i.
 they poured out 360 libations of milk in his
 
 <span id="img_38"></span> [![](tn/generic.jpg)  
-Click to view](img/02800.jpg)
+Click to view](img/02800.jpg.md)
 
 Fig. 38.
 
@@ -912,14 +912,14 @@ monastic vows, who were confined within the temple walls, and only
 allowed to speak to strangers through a window. The statues of men
 seated on the ground in religious idleness, with the chin resting on the
 knees, probably belong to priests of this class (see Fig.
-[39](#img_39)). The Bachano were the hired servants, perhaps the same as
+[39](#img_39).md). The Bachano were the hired servants, perhaps the same as
 the Nethenims of the Temple of Jerusalem. The early, kings often tell us
 by their names that they were "Dedicated" to one of the gods, as
 Amunothph; but afterwards the more humble title of "Servant" to the god
 is sometimes used, as by Adonra-bachan.
 
 <span id="img_39"></span> [![](tn/generic.jpg)  
-Click to view](img/02900.jpg)
+Click to view](img/02900.jpg.md)
 
 Fig. 39.
 
@@ -941,12 +941,12 @@ never met one another but at set times, and were seldom seen by
 strangers. They slept on a hard bed of palm branches, with a still
 harder wooden and even stone pillow for the head. Small models of this
 pillow are often found buried with the mummies as proof of the
-self-denial practised (see Fig. [43](#img_43)). These were the steps
+self-denial practised (see Fig. [43](#img_43).md). These were the steps
 taken by one class of the I priests to gain a power over the minds of
 their laity. Their more zealous followers
 
 <span id="img_43"></span> [![](tn/generic.jpg)  
-Click to view](img/03000.jpg)
+Click to view](img/03000.jpg.md)
 
 Fig. 43.
 
@@ -957,13 +957,13 @@ unworthiness.
 The Soteno and the Nouto wore crowns, which were distinguished as
 belonging one to Upper Egypt and the other to Lower Egypt. The Soteno
 wore the mitre or tall cap with the ball on the top: this was made of
-linen, and was the crown of Upper Egypt (see Fig. [40](#img_40)). It is
-that at all times worn by Osiris (see Fig. [13](#img_13)). The Nouto
+linen, and was the crown of Upper Egypt (see Fig. [40](#img_40).md). It is
+that at all times worn by Osiris (see Fig. [13](#img_13).md). The Nouto
 wore a flat ring or plate of gold, with a tall piece before and behind
-(see Fig. [41](#img_41)) This was the crown of Lower Egypt. These two
+(see Fig. [41](#img_41).md) This was the crown of Lower Egypt. These two
 priestly crowns, when worn one over the other, form the double crown of
-Upper and Lower Egypt (see Fig. [42](#img_42)). This is the crown of the
-god Horus (see Fig. [14](#img_14)). He was called Horus the king. It was
+Upper and Lower Egypt (see Fig. [42](#img_42).md). This is the crown of the
+god Horus (see Fig. [14](#img_14).md). He was called Horus the king. It was
 also the usual crown of the King of Egypt, who bore the double priestly
 title, perhaps pronounced Sot-Nout, meaning *chief* and *holy*, because
 he was the head of both those orders of priesthood. Both the
@@ -1004,18 +1004,18 @@ high priest's robe (see Exodus xxviii. 33). Many of these golden
 trinkets are to
 
 <span id="img_44"></span> [![](tn/generic.jpg)  
-Click to view](img/03100.jpg)
+Click to view](img/03100.jpg.md)
 
 Fig. 44.
 
 be found in our Museums among the Egyptian Antiquities, and they seem to
 have been copied from the painted borders which form the collars round
 the neck of the wooden mummy cases, and which are made of lotus flower
-and fruit alternately (see Fig. [44](#img_44)). The Breastplate of
+and fruit alternately (see Fig. [44](#img_44).md). The Breastplate of
 judgment worn by the Jewish high priest, called the Urim and Thummim,
 meaning emblems of *royalty* and *truth*, was also borrowed from Egypt,
 as we learn from these names, which are derived from the Egyptian words
-OURO, King, and THMEI, *justice* or *truth*. In Fig. [45](#img_45) the
+OURO, King, and THMEI, *justice* or *truth*. In Fig. [45](#img_45.md) the
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
 <colgroup>
@@ -1041,15 +1041,15 @@ Click to view</a></p>
  
 
 god Horus-Ra is Ouro, and the goddess with the feather on her head is
-Thmei. In Fig. [46](#img_46), the Uræus, or sacred asp, is Ouro, and the
+Thmei. In Fig. [46](#img_46.md), the Uræus, or sacred asp, is Ouro, and the
 vulture is Mo, or with feminine
 
 <span id="page_32">p. 32</span>
 
 article Thmo; and the two together are perhaps a variety of the former
-ornament. Again, Fig. [47](#img_47) is the goddess Mo, Mei, or Thmei
+ornament. Again, Fig. [47](#img_47.md) is the goddess Mo, Mei, or Thmei
 alone. The breastplate of the Jewish high priest was so far like Fig.
-[45](#img_45) as to be, a square divided into two halves (see Exodus
+[45](#img_45.md) as to be, a square divided into two halves (see Exodus
 xxviii. 16).
 
 The Israelites, however, borrowed fewer religious opinions and
@@ -1060,10 +1060,10 @@ Bethel (1 Kings xii. 28), would seem to be parts of the Egyptian
 idolatry, against which the Prophets so earnestly warned their
 countrymen. Those chapters, also, in the Book of Genesis which describe
 the Garden of Eden; its being watered without rain; the sacred tree (see
-Fig. [29](#img_29)); the cherub with drawn sword guarding the entrance;
+Fig. [29](#img_29).md); the cherub with drawn sword guarding the entrance;
 the serpent, at first upright and talking to Eve (see Fig.
-[25](#img_25)), then creeping on its belly, and the after war against it
-(see Fig. [64](#img_64)), and which attempts to explain the origin of
+[25](#img_25).md), then creeping on its belly, and the after war against it
+(see Fig. [64](#img_64).md), and which attempts to explain the origin of
 sin and death, would seem to belong to the Egyptian mind rather than to
 the Jewish. In the reign of Solomon the intercourse between Egypt and
 Judea became very close, and it was, perhaps, in that reign, or soon
@@ -1081,7 +1081,7 @@ accompanied
 
 by his priests and high officers and the sacred bull Apis, we see that
 an ark, of the same size as the Jewish ark, was carried along upon men's
-shoulders in the sacred procession (see Fig. [48](#img_48)). That this
+shoulders in the sacred procession (see Fig. [48](#img_48).md). That this
 Egyptian ark was a prison may be judged from the models of trees at the
 top; as in some paintings we see wicked imps, the punishing gods,
 imprisoned in cells which are shown to be pits under ground by the trees
@@ -1089,7 +1089,7 @@ growing over them. In Genesis, chap. xxxvii., we read that Joseph was
 imprisoned by his brothers in a pit
 
 <span id="img_48"></span> [![](tn/generic.jpg)  
-Click to view](img/03300.jpg)
+Click to view](img/03300.jpg.md)
 
 Fig. 48.
 
@@ -1098,7 +1098,7 @@ and it is perhaps idle to conjecture; but the only other portable prison
 or cage that we know of was the basket in later times carried by the
 priestesses in procession through the streets of Alexandria, which seems
 to have held a live serpent, the emblem of sin and evil, and the great
-enemy of the human race (see Fig. [85](emec06.htm#img_85)). The quarrel
+enemy of the human race (see Fig. [85](emec06.htm#img_85).md). The quarrel
 between mankind and the great serpent is the subject of many of the
 sculptures in the tombs, and it always ends with the enemy being
 conquered, and usually taken prisoner, though sometimes killed.
@@ -1163,12 +1163,12 @@ the body, its diseases, and medicines, were learned by Pastophori,
 priests who carried the image of the god in a small shrine. Of these
 priests we know several from the sculptures and their statues. On a
 bas-relief in Rome, the Singer carrying the symbols of music is not a
-priest, but a priestess (see Fig. [49](#img_49)). Before her walks the
-Prophet, carrying the great water-jar (see Fig. [50](#img_50)). Before
+priest, but a priestess (see Fig. [49](#img_49).md). Before her walks the
+Prophet, carrying the great water-jar (see Fig. [50](#img_50).md). Before
 him walks the Scribe, carrying his book, which is a roll of papyrus (see
-Fig. [51](#img_51)). He has; feathers in his cap, and in the Rosetta
+Fig. [51](#img_51).md). He has; feathers in his cap, and in the Rosetta
 Stone is called a Pterophoros, or *wing bearer*. The first of the four
-priests (Fig. [52](#img_52)) is a whisperer, or serpent charmer. She
+priests (Fig. [52](#img_52).md) is a whisperer, or serpent charmer. She
 carries the animal on her left arm, and persuades the ignorant multitude
 of her sacred character by showing that she is able to handle the
 poisonous animal without being hurt by it. So the ignorant natives on
@@ -1192,24 +1192,24 @@ Soothsayer carrying the hour-glass, which was
 <span id="page_36">p. 36</span>
 
 not invented till long after the fall of Thebes (see Fig.
-[53](#img_53)). And on the sarcophagus of Amyrteus we have a procession
+[53](#img_53).md). And on the sarcophagus of Amyrteus we have a procession
 of priests each carrying a palm branch (see Egypt. Inscript. Pl. 28 and
 30), accompanying the priests with feathers on their heads. We have also
 many statues of the scribes, seated on the ground cross-legged with the
 roll of papyrus on the knees. Statues also of the Pastophori, or
 shrine-bearers, are not uncommon. They are sometimes sitting on the
-ground, and some times kneeling (see Fig. [54](#img_54)). The shrine or
+ground, and some times kneeling (see Fig. [54](#img_54).md). The shrine or
 model of a temple usually has in front of it a small figure of the god
 to whom it is dedicated.
 
 <span id="img_53"></span> [![](tn/generic.jpg)  
-Click to view](img/03600.jpg)
+Click to view](img/03600.jpg.md)
 
 Fig. 53.
 
 One important office of the priests was to take out the statues of the
 gods, on certain days of the year, in barges on the Nile (see Fig.
-[55](#img_55)). The chief boat carried the statue of Ra and the other
+[55](#img_55).md). The chief boat carried the statue of Ra and the other
 principal gods; it was accompanied by other boats containing gods of
 lower rank. Horus acts as steersman to the boat of Ra. It was part of
 the enactment by the priests, in honour of King Ptolemy Epiphanes, that
@@ -1219,7 +1219,7 @@ voyage were supposed to be going to visit the righteous Ethiopians, who
 were also, as we learn from
 
 <span id="img_54"></span> [![](tn/generic.jpg)  
-Click to view](img/03601.jpg)
+Click to view](img/03601.jpg.md)
 
 Fig. 54.
 
@@ -1230,7 +1230,7 @@ tells us that any man who should try to stop the sacred Baris, or Boat
 of Ra, would be little less guilty than one who should
 
 <span id="img_55"></span> [![](tn/generic.jpg)  
-Click to view](img/03700.jpg)
+Click to view](img/03700.jpg.md)
 
 Fig. 55.
 
@@ -1241,7 +1241,7 @@ processions, with the statue of the god in it. In these processions a
 variety of the sacred images and emblems were carried about upon the top
 of poles, like so many military standards; and among them we see the
 image of the serpent in the manner imitated by Moses in the desert, as
-described in Numbers xxi. 9 (see Fig. [56](#img_56)).
+described in Numbers xxi. 9 (see Fig. [56](#img_56).md).
 
 Many were the tricks used by the priests to gain a power over the minds
 of their followers, and to strengthen the belief in their holiness. By
@@ -1252,7 +1252,7 @@ ventriloquism, or the art of speaking without moving the lips, was also
 employed to make the bystanders fancy that a statue, or altar, or
 
 <span id="img_56"></span> [![](tn/generic.jpg)  
-Click to view](img/03701.jpg)
+Click to view](img/03701.jpg.md)
 
 Fig. 56.
 
@@ -1267,13 +1267,13 @@ priests in the presence of Moses (see Exodus vii. 12). They interpreted
 dreams and foretold future events by means of a divining cup, which had
 a variety of superstitious figures engraved within it. We have in the
 British Museum an Assyrian copy of one of these Egyptian divining cups
-(see Fig. [57](#img_57)). Such may have been the cup with which Joseph
+(see Fig. [57](#img_57).md). Such may have been the cup with which Joseph
 divined, as mentioned in Genesis xliv. 5. In one temple there was a
 small window in the roof through which light could be let into a room
 otherwise dark; and at the proper minute this window was opened, and the
 
 <span id="img_57"></span> [![](tn/generic.jpg)  
-Click to view](img/03800.jpg)
+Click to view](img/03800.jpg.md)
 
 Fig. 57.
 
@@ -1301,13 +1301,13 @@ native of Egypt, and hence curiously arose the opinion of the
 neighbouring nations that linen was the clothing most suited for the
 priesthood. Some few, however, of the priests are represented as wearing
 for their clothing the spotted skin of a leopard, with the claws and
-tail not removed from it (see Fig. [58](#img_58)). The monuments show us
+tail not removed from it (see Fig. [58](#img_58).md). The monuments show us
 some priests with the head wholly shaven, and we see in Gen. xli. 14,
 that Joseph thought it necessary to shave himself when he went before
 Pharaoh in the
 
 <span id="img_58"></span> [![](tn/generic.jpg)  
-Click to view](img/03900.jpg)
+Click to view](img/03900.jpg.md)
 
 Fig. 58.
 
@@ -1316,13 +1316,13 @@ Fig. 58.
 priestly character of interpreter of dreams. In a painting on stucco in
 the British Museum, a priest has left a small line of hair round the
 shaven crown of his head, after the fashion of the tonsure, since
-followed by the Roman Catholics. In our Fig. [58](#img_58), the priest
+followed by the Roman Catholics. In our Fig. [58](#img_58.md), the priest
 has the single lock of hair hanging on one side of his head, which at
 one time was worn only by the kings' sons, and upon the statues of the
 youthful gods Horus and Chonso; but afterwards it became more common.
 
 <span id="img_59"></span> [![](tn/generic.jpg)  
-Click to view](img/04000.jpg)
+Click to view](img/04000.jpg.md)
 
 Fig. 59.--Small Votive Pyramid.
 
@@ -1331,14 +1331,14 @@ the most part the articles of food which were eaten by the living; such
 as the head of a calf, the leg of a stag, a craw-fish, a loaf of bread,
 and various vegetables. At other times it was a cone of baked clay with
 a religious sentence stamped on the base, or a small stone pyramid with
-an inscription on each of the four sides (see Fig. [59](#img_59)). These
+an inscription on each of the four sides (see Fig. [59](#img_59).md). These
 were used as figurative of any gift, in consequence of the close
 resemblance of the words TEI, *a gift*, and TAU, *a hill*. On some
 occasions the priest presented fire and water to the statues of the gods
 as being the two purest of the elements. The water, or occasionally
 wine, was poured out of a tall slender jar, while a small quantity of
 burning charcoal was held forward in a metal ladle with a long handle to
-it (see Fig. [60](#img_60)), where we have figures of the king, the
+it (see Fig. [60](#img_60).md), where we have figures of the king, the
 queen, and their son attending upon two priests, who are making the
 offerings. We
 
@@ -1358,7 +1358,7 @@ perhaps, have also had a custom of putting to death the criminals on
 days sacred to that god. Some such custom
 
 <span id="img_60"></span> [![](tn/generic.jpg)  
-Click to view](img/04100.jpg)
+Click to view](img/04100.jpg.md)
 
 Fig. 60.
 
@@ -1381,12 +1381,12 @@ cultivated land from the desert. In the middle of each is a small
 chamber, in which was placed the
 
 <span id="img_61"></span> [![](tn/generic.jpg)  
-Click to view](img/04200.jpg)
+Click to view](img/04200.jpg.md)
 
 Fig. 61.
 
 embalmed body enclosed in a massive granite sarcophagus (see Fig.
-[61](#img_61)). The pyramid takes its name from the words Pi-Rama, *The
+[61](#img_61).md). The pyramid takes its name from the words Pi-Rama, *The
 Mountain*; and the Arabs, changing the Coptic article for their own,
 still call it by the same name, Ar-Rama. Those which are built of stone
 remain, and two of them are the largest, and probably the oldest
@@ -1415,7 +1415,7 @@ it was after Plato had travelled in Egypt that he proposed in his Book
 on Laws that no human body should be buried in any spot which could be
 cultivated.
 
-In Fig. [62](#img_62) we have the ground plan and the vertical section
+In Fig. [62](#img_62.md) we have the ground plan and the vertical section
 of the tomb of king Oimenephah I., in the valley of kings' tombs at
 Thebes. When the entrance had been discovered, and eighteen feet of
 earth had been removed by the enterprising Belzoni, he descended through
@@ -1445,7 +1445,7 @@ that the king's embalmed body may be yet lying safely within a second
 sarcophagus, still deeper and further beneath the Theban hills.
 
 <span id="img_62"></span> [![](tn/generic.jpg)  
-Click to view](img/04400.jpg)
+Click to view](img/04400.jpg.md)
 
 Fig. 62.
 
@@ -1460,9 +1460,9 @@ passages and chambers. The king's soul is represented in the form of a
 crowned vulture with outstretched wings, and two sceptres, each an
 ostrich feather, in its claws. It has the king's name and titles written
 over it. In other sculptures the soul is a bird with a human head, as in
-Fig. [29](#img_29) and Fig. [73](#img_73). There are also several groups
+Fig. [29](#img_29) and Fig. [73](#img_73.md). There are also several groups
 of figures each representing the king embracing a god, placing his right
-arm in a loving manner round the god's neck (see Fig. [63](#img_63)).
+arm in a loving manner round the god's neck (see Fig. [63](#img_63).md).
 These are important, because unusual. Before the Christian era, few
 beside the Hebrew prophets had ever taught men that the god whom they
 feared deserved also to be loved. Most pagan nations have boasted that
@@ -1475,7 +1475,7 @@ the Egyptians--or, at least, of the people of Upper Egypt--was better
 than that of other Pagans.
 
 <span id="img_63"></span> [![](tn/generic.jpg)  
-Click to view](img/04500.jpg)
+Click to view](img/04500.jpg.md)
 
 Fig. 63.
 
@@ -1493,10 +1493,10 @@ pierced through the head by the spear of the goddess Isis, we see the
 enmity between the woman and the serpent spoken of in Genesis, chap.
 iii. It is always conquered by the good, sometimes pierced through its
 folds by a number of swords, and sometimes carried away alive in the
-arms of its conquerors in triumph, as in Fig. [64](#img_64).
+arms of its conquerors in triumph, as in Fig. [64](#img_64.md).
 
 <span id="img_64"></span> [![](tn/generic.jpg)  
-Click to view](img/04600.jpg)
+Click to view](img/04600.jpg.md)
 
 Fig. 64.
 
@@ -1510,7 +1510,7 @@ often buried in a stone sarcophagus, which contained a first and then a
 second inner mummy case, both made of wood. The two inner cases were
 usually shaped to the body, as also was. sometimes the stone
 sarcophagus. Some bodies were buried in only two cases, and some in only
-one. Sometimes all three cases were of wood, as in Fig. [65](#img_65),
+one. Sometimes all three cases were of wood, as in Fig. [65](#img_65.md),
 where the two inner cases are shaped to the body, with heads and faces
 carved and painted, while the third and outer case is a chest with
 straight sides and arched top. Such a mummy case as this was meant to
@@ -1528,7 +1528,7 @@ of the several gods, whose figures are there painted or sculptured, and
 tell us that he was
 
 <span id="img_65"></span> [![](tn/generic.jpg)  
-Click to view](img/04700.jpg)
+Click to view](img/04700.jpg.md)
 
 Fig. 65.
 
@@ -1559,7 +1559,7 @@ hieroglyphics; and hence our word mummy. It was then wrapped round with
 several hundred yards of narrow linen bandages, which were more
 
 <span id="img_66"></span> [![](tn/generic.jpg)  
-Click to view](img/04800.jpg)
+Click to view](img/04800.jpg.md)
 
 Fig. 66.
 
@@ -1579,7 +1579,7 @@ time of seventy days (see Genesis l. 3)The softer and more moist parts
 of the body were some of them placed in four earthen jars, called
 Canobic jars, either from the city of Canopus, or from the name of the
 god Kneph or Cenubis. These jars have lids in the shape of the heads of
-a man, an ape, a jackal, and a hawk (see Fig. [66](#img_66)). They
+a man, an ape, a jackal, and a hawk (see Fig. [66](#img_66).md). They
 represent the four lesser gods of the dead, and their names seem to
 describe the different operations in mummy-making over which they
 watched. Amset, *the carpenter*, has a man's head; Hepi, *the digger*,
@@ -1608,9 +1608,9 @@ Click to view</a></p>
  
 
 The goddess Isis and Nephthys were more particularly supposed to grieve
-at every man's death (see Fig. [67](#img_67)), and the god Anubis to
+at every man's death (see Fig. [67](#img_67).md), and the god Anubis to
 assist in laying out the mummy. It was always placed on a lion-shaped
-couch (see Fig. [68](#img_68)). When placed in the mummy-case, as the
+couch (see Fig. [68](#img_68).md). When placed in the mummy-case, as the
 death may have taken place on the east side of the Nile, while the
 burial places were usually on the west side, the ferrying it across the
 river was an important part of
@@ -1624,10 +1624,10 @@ water was conducted across the small lake or large tank, which belonged
 to the temple. It was not unusual to have a small model of this sacred
 tank, with its flights of steps leading down to the water, cut in stone,
 to be used as a basin for the libations in the temple (see Fig.
-[69](#img_69)). When
+[69](#img_69).md). When
 
 <span id="img_69"></span> [![](tn/generic.jpg)  
-Click to view](img/05000.jpg)
+Click to view](img/05000.jpg.md)
 
 Fig. 69.
 
@@ -1637,7 +1637,7 @@ ceremony was his trial before the judge Osiris.
 That solemn trial of every man for his conduct in this life, which was
 to fix his reward or punishment in the next, is one of the most
 interesting of the pictures on the funereal papyri, and was enacted by
-the priests as part of the funeral ceremony (see Fig. [70](#img_70)).
+the priests as part of the funeral ceremony (see Fig. [70](#img_70).md).
 They put on masks distinctive of the several gods, and thus received the
 body in due form. Osiris sat on a raised throne, holding his two
 sceptres, and wearing the crown of Upper Egypt. Before him were placed
@@ -1663,7 +1663,7 @@ the ibis. headed Thoth, as recording angel, or god of writing. Thus are
 measured the goodness and the failings of the
 
 <span id="img_70"></span> [![](tn/generic.jpg)  
-Click to view](img/05100.jpg)
+Click to view](img/05100.jpg.md)
 
 Fig. 70.
 
@@ -1677,7 +1677,7 @@ regulate our lives that, when weighed in the great balance, they may not
 be found wanting.
 
 <span id="img_71"></span> [![](tn/generic.jpg)  
-Click to view](img/05200.jpg)
+Click to view](img/05200.jpg.md)
 
 Fig. 71.
 
@@ -1692,7 +1692,7 @@ them. Again the four lesser gods, who come forward as the friends and
 advocates of the trembling sinner, may be seen at the head of a tablet
 in the British Museum, strengthening their mediation on his behalf by
 laying their own gifts upon the altar before Osiris (see Fig.
-[71](#img_71)). On other tablets we see other gods joining him in his
+[71](#img_71).md). On other tablets we see other gods joining him in his
 prayers as his advocates, and making their offerings jointly with him.
 Nor was this always thought enough to obtain from the judge a verdict in
 favour of the deceased. The greater the sacrifice, the greater would be
@@ -1704,10 +1704,10 @@ are themselves supposed
 to offer themselves as an atoning sacrifice on behalf of the sinner; and
 on a funeral tablet in the British Museum, dated in 62nd year of Rameses
 II., we see the deceased has placed them on the altar before Osiris, as
-his sin offering (See Fig. [72](#img_72)).
+his sin offering (See Fig. [72](#img_72).md).
 
 <span id="img_72"></span> [![](tn/generic.jpg)  
-Click to view](img/05300.jpg)
+Click to view](img/05300.jpg.md)
 
 Fig. 72.
 
@@ -1723,7 +1723,7 @@ throne, on which is seated the judge Osiris, with the great scales
 before him, and the soul of one unhappy man, who has been found guilty,
 has been lodged in the body of a pig, as the representative of impurity,
 and in that form is carried away in a boat by the god Anubis from the
-presence of the judge (see Fig. on page [58](#img_58)). On the other
+presence of the judge (see Fig. on page [58](#img_58).md). On the other
 hand, on a papyrus in the British Museum we see a painting of the mummy
 of a good man placed inside the body of a ram, the animal sacred to the
 god Kneph, and thus the proper dwelling place for goodness.
@@ -1738,11 +1738,11 @@ re-enter when the years of wandering were at an end. The painting
 represents the mummy lying on its lion-shaped couch, with the soul
 returning to it, in the form of a bird with human head, and putting back
 life and breath into its mouth, while the god Anubis is preparing to
-unwrap the bandages (see Fig. [73](#img_73)). The character for life is
+unwrap the bandages (see Fig. [73](#img_73).md). The character for life is
 a key, in the form of a
 
 <span id="img_73"></span> [![](tn/generic.jpg)  
-Click to view](img/05400.jpg)
+Click to view](img/05400.jpg.md)
 
 Fig. 73.
 
@@ -1755,12 +1755,12 @@ painting by giving to a man at the moment of his death two bodies, the
 one
 
 <span id="img_74"></span> [![](tn/generic.jpg)  
-Click to view](img/05401.jpg)
+Click to view](img/05401.jpg.md)
 
 Fig. 74.
 
 earthly and mortal, and the other angelic and immortal (see Fig.
-[74](#img_74)). The vault of heaven is represented by the outstretched
+[74](#img_74).md). The vault of heaven is represented by the outstretched
 figure of the goddess Neith, painted blue. On each side sits a figure of
 the ram-headed Kneph,
 
@@ -1816,7 +1816,7 @@ handing wine to them, and others entertaining them with music. Some
 buried him with the prayer that he might be able to get the
 
 <span id="img_75"></span> [![](tn/generic.jpg)  
-Click to view](img/05600.jpg)
+Click to view](img/05600.jpg.md)
 
 Fig. 75.
 
@@ -1828,7 +1828,7 @@ the same enemies with
 <span id="page_57">p. 57</span>
 
 their arms tied behind them under the soles of his feet to be trampled
-on (see Fig. [75](#img_75)).
+on (see Fig. [75](#img_75).md).
 
 Many of these opinions about the resurrection and a future state of
 rewards and punishments were borrowed by the Greeks directly from Egypt,
@@ -1841,7 +1841,7 @@ the dead into the next world, was called Charon, and the river which he
 crossed was called Acheron. Hecate, *the sorceress*, one of the titles
 of Isis, was given by the Greeks and Romans as a name to their queen of
 Hell. The hippopotamus who stands before Osiris, when he is judging the
-dead in Fig. [70](#img_70), [p. 51](#page_51), is one of the Cabeiri
+dead in Fig. [70](#img_70), [p. 51](#page_51.md), is one of the Cabeiri
 gods, and became among the Greeks, with but little change in figure and
 name, the dog Cerberus. The goddess Thmei, or *truth*, with the ostrich
 head in the same figure, became the Greek Themis, or goddess of justice.
@@ -1866,10 +1866,10 @@ about purgatory made the Protestants for a time refuse to believe that
 the Almighty's punishments could be meant to reform the criminal.
 
 <span id="img_05800"></span> [![](tn/generic.jpg)  
-Click to view](img/05800.jpg)
+Click to view](img/05800.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: The Religion of Lower Egypt](emec04)
+[Next: The Religion of Lower Egypt](emec04.md)

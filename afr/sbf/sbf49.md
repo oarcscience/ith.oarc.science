@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf48)  [Next](sbf50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf48)  [Next](sbf50.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -174,6 +174,6 @@ poisoned arrows). Therefore, the other man gives him in exchange poison.
 
 ------------------------------------------------------------------------
 
-[Next: Treatment of Bones by the Narrator's Grandfather, Tsatsi.](sbf50)
+[Next: Treatment of Bones by the Narrator's Grandfather, Tsatsi.](sbf50.md)
 
 </div>

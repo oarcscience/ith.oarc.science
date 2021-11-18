@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm65)  [Next](bcm67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm65)  [Next](bcm67.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ the invisible Archangel, shall presently blast thee in the utmost depths
 of hell. Come, then, N., to do my will*.
 
 <span id="img_27700"></span> [![](tn/generic.jpg)  
-Click to view](img/27700.jpg)
+Click to view](img/27700.jpg.md)
 
 <span id="page_278">p. 278</span>
 
@@ -69,4 +69,4 @@ throne, Who liveth for ever and ever. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Conjuration of the Book](bcm67)
+[Next: Conjuration of the Book](bcm67.md)

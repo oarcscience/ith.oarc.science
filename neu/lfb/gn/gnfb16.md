@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb15)  [Next](gnfb17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb15)  [Next](gnfb17.md) 
 
 </div>
 
@@ -236,6 +236,6 @@ Sebillot.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Soldier](gnfb17)
+[Next: The Little Soldier](gnfb17.md)
 
 </div>

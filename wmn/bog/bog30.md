@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog29)  [Next](bog31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog29)  [Next](bog31.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ will live in peace. Blessed be."
 
 ------------------------------------------------------------------------
 
-[Next: Coda: The Goddess Prayer](bog31)
+[Next: Coda: The Goddess Prayer](bog31.md)

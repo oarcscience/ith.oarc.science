@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl23)  [Next](flhl25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl23)  [Next](flhl25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ The sultan, furious, ordered the officious wretch to be bastinadoed,
 thrown into prison, and fed on bread and water for a year. Then, turning
 fiercely on the trembling herd of councillors, he stamped his foot,
 repeating his demand of them. For a while they trembled in silence. Then
-the sheykh of the Learned <span id="fr_65"></span>[1](#fn_65) stepped
+the sheykh of the Learned <span id="fr_65"></span>[1](#fn_65.md) stepped
 forward, and raising his hands and eyes to heaven exclaimed: "Praise be
 to Allah, who has deigned to reveal to your Majesty the blessing which
 He holds in store for all the nations under your dominion; for this is
@@ -52,8 +52,8 @@ round his neck, and put on him a robe of honour.
 
 ### Footnotes
 
-<span id="fn_65"></span>[128:1](flhl24.htm#fr_65) Sheykh el’ Ulema.
+<span id="fn_65"></span>[128:1](flhl24.htm#fr_65.md) Sheykh el’ Ulema.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](flhl25)
+[Next: Notes](flhl25.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb20)  [Next](mlb22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb20)  [Next](mlb22.md) 
 
 ------------------------------------------------------------------------
 
@@ -636,4 +636,4 @@ the end "called his bluff" (Hollis, *The Masai*, p. 184).\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX.- Some Stories Which Have Travelled](mlb22)
+[Next: Chapter XX.- Some Stories Which Have Travelled](mlb22.md)

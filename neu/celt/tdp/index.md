@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,12 +46,12 @@ John Bruno Hare, 1/24/2005
 
 ------------------------------------------------------------------------
 
-[Title Page](tdp00)  
-[Contents](tdp01)  
-[The Druid Path](tdp02)  
-[The Enchanting of Doirenn](tdp03)  
-[Liadan and Kurithir](tdp04)  
-[Dervail Nan Ciar](tdp05)  
-[Randuff of Cumanac](tdp06)  
-[The Dark Rose](tdp07)  
-[Acknowledgment](tdp08)  
+[Title Page](tdp00.md)  
+[Contents](tdp01.md)  
+[The Druid Path](tdp02.md)  
+[The Enchanting of Doirenn](tdp03.md)  
+[Liadan and Kurithir](tdp04.md)  
+[Dervail Nan Ciar](tdp05.md)  
+[Randuff of Cumanac](tdp06.md)  
+[The Dark Rose](tdp07.md)  
+[Acknowledgment](tdp08.md)  

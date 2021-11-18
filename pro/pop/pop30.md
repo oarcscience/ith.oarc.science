@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop29)  [Next](pop31) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop29)  [Next](pop31.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ thou shalt weep yet more.'
 
 ------------------------------------------------------------------------
 
-[Next: The Twenty-Sixth Figure](pop31)
+[Next: The Twenty-Sixth Figure](pop31.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd22)  [Next](smd24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd22)  [Next](smd24.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ the great poets of all times and lands.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. Notes on Certain Days](smd24)
+[Next: Chapter XXII. Notes on Certain Days](smd24.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate11)  [Next](gate13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate11)  [Next](gate13.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ this great god through the secret ways of this City.
 
 ------------------------------------------------------------------------
 
-[Next: The Eleventh Hour](gate13)
+[Next: The Eleventh Hour](gate13.md)

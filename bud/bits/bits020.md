@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits019) [Next](bits021)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits019) [Next](bits021.md)
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ are no less and no more.
 
 ------------------------------------------------------------------------
 
-[Next: § 21. The Composition of the Body](bits021)
+[Next: § 21. The Composition of the Body](bits021.md)
 
  
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs05)  [Next](lrs07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs05)  [Next](lrs07.md) 
 
 ------------------------------------------------------------------------
 
@@ -971,4 +971,4 @@ received by a public avid for the drug of sensation.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Palmerin Romances](lrs07)
+[Next: V. The Palmerin Romances](lrs07.md)

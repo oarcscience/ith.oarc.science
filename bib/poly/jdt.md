@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Tobias](tob)  [Additions to Esther](aes)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Tobias](tob)  [Additions to Esther](aes.md)
 
 ------------------------------------------------------------------------
 
@@ -9,34 +9,34 @@
 
 ------------------------------------------------------------------------
 
-[Judith 1](jdt001)  
+[Judith 1](jdt001.md)  
 
-[Judith 2](jdt002)  
+[Judith 2](jdt002.md)  
 
-[Judith 3](jdt003)  
+[Judith 3](jdt003.md)  
 
-[Judith 4](jdt004)  
+[Judith 4](jdt004.md)  
 
-[Judith 5](jdt005)  
+[Judith 5](jdt005.md)  
 
-[Judith 6](jdt006)  
+[Judith 6](jdt006.md)  
 
-[Judith 7](jdt007)  
+[Judith 7](jdt007.md)  
 
-[Judith 8](jdt008)  
+[Judith 8](jdt008.md)  
 
-[Judith 9](jdt009)  
+[Judith 9](jdt009.md)  
 
-[Judith 10](jdt010)  
+[Judith 10](jdt010.md)  
 
-[Judith 11](jdt011)  
+[Judith 11](jdt011.md)  
 
-[Judith 12](jdt012)  
+[Judith 12](jdt012.md)  
 
-[Judith 13](jdt013)  
+[Judith 13](jdt013.md)  
 
-[Judith 14](jdt014)  
+[Judith 14](jdt014.md)  
 
-[Judith 15](jdt015)  
+[Judith 15](jdt015.md)  
 
-[Judith 16](jdt016)  
+[Judith 16](jdt016.md)  

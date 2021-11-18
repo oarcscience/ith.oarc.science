@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre10)  [Next](gre12) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre10)  [Next](gre12.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Stone-holt; but Thormod settled the eastward part, and abode at
 Shaft-holt.
 
 The daughters of Thormod were these: Thorvor, mother of Thorod the
-Godi <span id="fr_6"></span>[\*](#fn_6) of Hialli, and Thora, mother of
+Godi <span id="fr_6"></span>[\*](#fn_6.md) of Hialli, and Thora, mother of
 Thorstein, the Godi, the father of Biarni the Sage.
 
 Now it is to be said of Thrand and Onund that they sailed from the lands
@@ -66,11 +66,11 @@ at Thrand's-holt, which is west of Steer's-river.
 
 ### Footnotes
 
-<span id="fn_6"></span>[11:\*](gre11.htm#fr_6) "Gadi" is the name for
+<span id="fn_6"></span>[11:\*](gre11.htm#fr_6.md) "Gadi" is the name for
 the rulers of the thirty-nine districts into which the republic of
 Iceland was anciently divided. While the ancient religion lasted, their
 office combined in itself the highest civil and sacerdotal functions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](gre12)
+[Next: Chapter VII](gre12.md)

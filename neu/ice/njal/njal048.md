@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal047)  [Next](njal049) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal047)  [Next](njal049.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ Iceland.
 
 ------------------------------------------------------------------------
 
-[Next: 49. Of Skamkell's Evil Counsel](njal049)
+[Next: 49. Of Skamkell's Evil Counsel](njal049.md)

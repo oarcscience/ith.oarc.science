@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Next](kjd01) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Next](kjd01.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ G. B. H.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to the Bodley Head Edition](kjd01)
+[Next: Introduction to the Bodley Head Edition](kjd01.md)

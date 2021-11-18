@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc17)  [Next](sfoc19) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc17)  [Next](sfoc19.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ children in the home school, are entirely without medical care.
 
 ------------------------------------------------------------------------
 
-[Next: Medicine Dances](sfoc19)
+[Next: Medicine Dances](sfoc19.md)

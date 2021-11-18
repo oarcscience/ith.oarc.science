@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste13)  [Next](ste15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste13)  [Next](ste15.md) 
 
 ------------------------------------------------------------------------
 
@@ -372,7 +372,7 @@ and inward parts of it.
 <span id="img_11600"></span>
 
 [![Fig 1](tn/11600.jpg)  
-Click to enlarge](img/11600.jpg)  
+Click to enlarge](img/11600.jpg.md)  
 Fig 1  
 
 But to speak the Truth, this Theory is something more than a bare
@@ -391,7 +391,7 @@ constitution.
 <span id="img_11700"></span>
 
 [![Fig. 2](tn/11700.jpg)  
-Click to enlarge](img/11700.jpg)  
+Click to enlarge](img/11700.jpg.md)  
 Fig. 2  
 
 \[paragraph continues\] And it will never be beaten out of my head, but
@@ -448,4 +448,4 @@ are so apt to dote upon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](ste15)
+[Next: Chapter XII](ste15.md)

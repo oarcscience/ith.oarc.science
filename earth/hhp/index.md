@@ -1,17 +1,17 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte.md)
 
 </div>
 
@@ -35,8 +35,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hhp00)    [Page
-Index](pageidx)    [Text \[Zipped\]](hhp.txt.gz)
+[Contents](#contents)    [Start Reading](hhp00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](hhp.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ architecture of the Great Pyramid of Giza in the 19th century. Most of
 them were composed with an eye to Christian dispensational prophecies.
 Adams, on the other hand, thought that the blueprint for the Great
 Pyramid was the recently translated [Egyptian Book of the
-Dead](../../egy/ebod/index), a journey of the soul through the
+Dead](../../egy/ebod/index.md), a journey of the soul through the
 afterlife. He viewed this as an allegory of initiation, a precursor of
 Masonic rituals. Adams was dismissive of the 'pyramidologists.'
 
@@ -80,13 +80,13 @@ unrelated topics.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](hhp00)  
-[Contents](hhp01)  
-[Preface](hhp02)  
-[Chapter I. The Pyramid of Light](hhp03)  
-[Chapter II. The House of Osiris](hhp04)  
-[Chapter III. The Hidden God](hhp05)  
-[Chapter IV. The Mystery of the Heavens](hhp06)  
-[Chapter V. The Mystery of the Depths](hhp07)  
-[Chapter VI. The Initiation of the Postulant](hhp08)  
-[Chapter VII. The Illumination of the Adept](hhp09)  
+<span id="contents"></span> [Title Page](hhp00.md)  
+[Contents](hhp01.md)  
+[Preface](hhp02.md)  
+[Chapter I. The Pyramid of Light](hhp03.md)  
+[Chapter II. The House of Osiris](hhp04.md)  
+[Chapter III. The Hidden God](hhp05.md)  
+[Chapter IV. The Mystery of the Heavens](hhp06.md)  
+[Chapter V. The Mystery of the Depths](hhp07.md)  
+[Chapter VI. The Initiation of the Postulant](hhp08.md)  
+[Chapter VII. The Illumination of the Adept](hhp09.md)  

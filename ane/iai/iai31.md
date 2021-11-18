@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai30)  [Next](iai32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai30)  [Next](iai32.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ East](../index)  [Index](index)  [Previous](iai30)  [Next](iai32) 
 ### ISHTAR WEAVES A MYSTIC SPELL OVER THE KING AND SEER, AND VANISHES--THE SEER ADVISES THE KING TO SEEK THE AID OF THE IMMORTAL SEER WHO ESCAPES FROM THE FLOOD.
 
 The goddess Ishtar wrapped in darkness waits  
-Until the goddess Tsil-at-tu <span id="fr_232"></span>[1](#fn_230) the
+Until the goddess Tsil-at-tu <span id="fr_232"></span>[1](#fn_230.md) the
 gates  
 Of sleep has closed upon the darkened plain;  
 Then lightly to the palace flies the Queen.  
@@ -80,10 +80,10 @@ To perils dire they go--distress and pain.
 
 ### Footnotes
 
-<span id="fn_230"></span>[89:1](iai31.htm#fr_232) "Tsil-at-tu," goddess
+<span id="fn_230"></span>[89:1](iai31.htm#fr_232.md) "Tsil-at-tu," goddess
 of darkness, or shades of night.
 
 ------------------------------------------------------------------------
 
 [Next: Tablet VI--Column I. Ishtar's Descent To Hades--Her Fearful
-Reception](iai32)
+Reception](iai32.md)

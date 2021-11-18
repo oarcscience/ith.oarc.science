@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd14)  [Next](smd16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd14)  [Next](smd16.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ new earth rose in their place.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Sunday--The Day of the Sun](smd16)
+[Next: Chapter XIV. Sunday--The Day of the Sun](smd16.md)

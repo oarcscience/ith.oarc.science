@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama605) 
-[Next](kama701) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama605.md) 
+[Next](kama701.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ this is called a doubt about the loss of wealth.
 When a courtesan feels doubtful whether she would lose religious merit
 by abandoning a man who is attached to her without giving him the
 slightest favour, and thereby causing him unhappiness in this world and
-the next, <span id="fr_73"></span>[1](kama101.htm#fn_0) this doubt is
+the next, <span id="fr_73"></span>[1](kama101.htm#fn_0.md) this doubt is
 called a doubt about the loss of a religious merit.
 
 When a courtesan is uncertain as to whether she might create
@@ -275,11 +275,11 @@ courtesans, are described in this part.
 
 ### Footnotes
 
-<span id="fn_73"></span>[1](#fr_-1) The souls of men who die with their
+<span id="fn_73"></span>[1](#fr_-1.md) The souls of men who die with their
 desires unfulfilled are said to go to the world of the Manes, and not
 direct to the Supreme Spirit.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter I. On Personal Adornment, Subjugating the Hearts of
-Others, and of Tonic Medicines](kama701)
+Others, and of Tonic Medicines](kama701.md)

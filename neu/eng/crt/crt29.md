@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt28)  [Next](crt30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt28)  [Next](crt30.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_23000"></span>
 
 [![Sir Kay and the Forest Madman](tn/23000.jpg)  
-Click to enlarge](img/23000.jpg)  
+Click to enlarge](img/23000.jpg.md)  
 Sir Kay and the Forest Madman  
 
 <span id="page_231">p. 231</span>
@@ -596,4 +596,4 @@ again. And now it shall be told how it befell with him thereat.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Third](crt30)
+[Next: Chapter Third](crt30.md)

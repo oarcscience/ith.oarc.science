@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil10)  [Next](egil12) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil10)  [Next](egil12.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ he bestowed much care on his ships, equipment, and weapons.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XI. The king feasts with Thorolf.](egil12)
+[Next: CHAPTER XI. The king feasts with Thorolf.](egil12.md)

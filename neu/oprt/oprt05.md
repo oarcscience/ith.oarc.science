@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](oprt04)  [Next](oprt06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](oprt04)  [Next](oprt06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Old Peter's Russian Tales*, by Arthur Ransome, \[1916\], at Intangible
 Textual Heritage
 
@@ -45,7 +45,7 @@ So Sadko lived alone with his dulcimer, and made do with half a loaf
 when he could not get a whole, and with crust when he had no crumb. He
 did not mind so very much what came to him, so long as he could play his
 dulcimer and walk along the banks of the little <span
-id="fr_0"></span>[1](#fn_0) river Volkhov that flows by Novgorod, or on
+id="fr_0"></span>[1](#fn_0.md) river Volkhov that flows by Novgorod, or on
 the shores of the lake, making music for himself, and seeing the pale
 mists rise over the water, and dawn or sunset across the shining river.
 
@@ -389,10 +389,10 @@ very dull in Novgorod, even though it is a big town."
 
 ### Footnotes
 
-<span id="fn_0"></span>[41:1](oprt05.htm#fr_0) The Volkhov would be a
+<span id="fn_0"></span>[41:1](oprt05.htm#fr_0.md) The Volkhov would be a
 big river if it were in England, and Sadko and old Peter called it
 little only because they loved it.
 
 ------------------------------------------------------------------------
 
-[Next: Frost](oprt06)
+[Next: Frost](oprt06.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby01)  [Next](piby03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby01)  [Next](piby03.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ articles not agreeable shall not be entered upon or under the covers
 thereof.
 
 Help to build Athlican Colleges, prepare your sons and daughters for a
-high position in [the](errata.htm#0) Athlican organization.
+high position in [the](errata.htm#0.md) Athlican organization.
 
 ------------------------------------------------------------------------
 
-[Next: Proclamation of the House of Athlyi](piby03)
+[Next: Proclamation of the House of Athlyi](piby03.md)

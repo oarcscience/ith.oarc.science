@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Previous](kgsh4)
+[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Previous](kgsh4.md)
 
 ------------------------------------------------------------------------
 
@@ -12,30 +12,30 @@
 
 # CRITICAL NOTES
 
- <span id="note_1"></span>[1](kgsh4.htm#fr_1). Japan was so termed in
+ <span id="note_1"></span>[1](kgsh4.htm#fr_1.md). Japan was so termed in
 ancient times.
 
- <span id="note_2"></span>[2](kgsh4.htm#fr_2). *I.e.*,
+ <span id="note_2"></span>[2](kgsh4.htm#fr_2.md). *I.e.*,
 Amaterasu-Ō-Mikami or the Heaven-Shining-Great-August-Goddess. The
 Goddess has an aspect of the deification of the sun as well as a trace
 of a human ancestress who once actually existed.
 
- <span id="note_3"></span>[3](kgsh4.htm#fr_3). In ancient Japanese
+ <span id="note_3"></span>[3](kgsh4.htm#fr_3.md). In ancient Japanese
 mythology, the name of the Moon-God is Tsukuyomi-no-Mikoto or
 His-Augustness-Moon-Night-Possessor (or Moon-Night-Darkness), *i.e.*,
 the God of the Night-Dominion.
 
- <span id="note_4"></span>[4](kgsh4.htm#fr_4). Correctly expressed,
+ <span id="note_4"></span>[4](kgsh4.htm#fr_4.md). Correctly expressed,
 Takehaya-Susano-O-no-Mikoto or His-Brave-Swift-Impetuous-Male-Augustness
 is surely the deification of the rainstorm, although we admit that there
 are also some traces of an historical human being in him.
 
- <span id="note_5"></span>[5](kgsh4.htm#fr_5). *Vide* Dr. G. Katō’s
+ <span id="note_5"></span>[5](kgsh4.htm#fr_5.md). *Vide* Dr. G. Katō’s
 Article on *Ame-no-Minakanushi-no-Kami* in *T.A.S.J.*, as regards this
 God, who probably is the highest God worshipped in the so-called
 primitive monotheism of Japan.
 
- <span id="note_6"></span>[6](kgsh4.htm#fr_6). (1) In the Maeda
+ <span id="note_6"></span>[6](kgsh4.htm#fr_6). (1.md) In the Maeda
 manuscripts, (2) in the manuscript of the *Kogoshūi* to which reference
 is made by Mikannagi-Kiyonao (a Shintō priest of the Ise Shrine), as
 being preserved in the house of a certain Kawasaki-Kiyoatsu, (3) in the
@@ -72,13 +72,13 @@ Names Newly Compiled by Prince* <span id="page_59">p. 59</span> *Manta*,
 Japanese edition, vol. <span class="small">VIII</span>, pp. 537, 538.
 vol. <span class="small">XVI</span>, p. 1017).
 
- <span id="note_7"></span>[7](kgsh4.htm#fr_7). *Vide* Sir Ernest Satow’s
+ <span id="note_7"></span>[7](kgsh4.htm#fr_7.md). *Vide* Sir Ernest Satow’s
 Article on the *Toshigoi-Matsuri-no-Norito* or *Shintō Ritual of Praying
 for Harvest*, elucidating the meaning of the names
 Sumeragamutsu-Kamurogi and Kamuromi-no-Mikoto (*T.A.S.J.*, vol. <span
 class="small">VII</span>, p. 114).
 
- <span id="note_8"></span>[8](kgsh4.htm#fr_8). The second of the eight
+ <span id="note_8"></span>[8](kgsh4.htm#fr_8.md). The second of the eight
 classes of Court Nobles established by the Emperor Temmu (<span
 class="small">A.D.</span> 684). The eight classes are:—the first Mabito,
 the second Asomi, the third Sukune, the fourth Imiki, the fifth
@@ -86,19 +86,19 @@ Michi-no-Shi, the sixth Omi, the seventh Muraji, and the eighth Inaki.
 *Vide* W. G. Aston, *E.T.N.*, vol. <span class="small">II</span>. p.
 365.
 
- <span id="note_9"></span>[9](kgsh4.htm#fr_9). In the *Nihongi*, he is
+ <span id="note_9"></span>[9](kgsh4.htm#fr_9.md). In the *Nihongi*, he is
 called Amatsu-Hiko-Hikoho-no-Ninigi-no-Mikoto. *Vide* W. G. Aston,
 *E.T.N.*, vol. <span class="small">I</span>, p. 64.
 
- <span id="note_10"></span>[10](kgsh4.htm#fr_10). The third of the eight
+ <span id="note_10"></span>[10](kgsh4.htm#fr_10.md). The third of the eight
 classes of Court Nobles. The title implies an hereditary rank of
 nobility.
 
- <span id="note_11"></span>[11](kgsh4.htm#fr_11). In the *Nihongi*
+ <span id="note_11"></span>[11](kgsh4.htm#fr_11.md). In the *Nihongi*
 version, the ancestor of the Imbe family of Ki-I Province. *Vide* W. G.
 Aston, *E.T.N.*, vol. <span class="small">I</span>, p. 81.
 
- <span id="note_12"></span>[12](kgsh4.htm#fr_12). Ha-Akarutama in one
+ <span id="note_12"></span>[12](kgsh4.htm#fr_12.md). Ha-Akarutama in one
 account of the *Nihongi* appears to be Kushi-Akarutama-no-Mikoto. *Vide*
 W. G. Aston, *E.T.N.*, vol. <span class="small">I</span>, p. 37. The
 late Prof. Kurita of the Tōkyō Imperial University identified
@@ -113,7 +113,7 @@ class="small">XI</span>, p. 791).
  The Tamatsukuri or Jewel-making family is a sub-division of the Imbe
 family resident in Izumo Province.
 
- <span id="note_13"></span>[13](kgsh4.htm#fr_13). In ancient Japan, a
+ <span id="note_13"></span>[13](kgsh4.htm#fr_13.md). In ancient Japan, a
 rare jewel being regarded as a divine object, possessed a magical
 influence, and was a kind of fetish; so, for the simple-minded Japanese
 of old, it was possible that through the magical virtue of the jewels a
@@ -138,7 +138,7 @@ Mikuratana-no-Kami (B. H. Chamberlain, *E.T.K.*, p. 43).
  From the *Kojiki* we learn that the divine emblem of the Himekoso
 Shrine is a crimson jewel (B. H. Chamberlain, *E.T.K.*, p. 258).
 
- <span id="note_14"></span>[14](kgsh4.htm#fr_14). Akatsu-no-Mikoto is an
+ <span id="note_14"></span>[14](kgsh4.htm#fr_14.md). Akatsu-no-Mikoto is an
 abbreviation of Masaka-Akatsu-Kachihayahi-Ame-no-Oshihomimi-no-Mikoto,
 <span id="page_61">p. 61</span> usually abbreviated as
 Ame-no-Oshihomimi-no-Mikoto (B. H. Chamberlain, *ibid.*, pp. 48, 93).
@@ -149,7 +149,7 @@ Quellen der Shintō-Religion*, S. 448) and Nasa-Katsutaka’s *Giosai*.
 Imbe-no-Hironari’s etymological explanation of the words “wakigo” and
 “wakago” is hardly credible.
 
- <span id="note_15"></span>[15](kgsh4.htm#fr_15). This passage will bear
+ <span id="note_15"></span>[15](kgsh4.htm#fr_15.md). This passage will bear
 three constructions; *viz.*, the first being that of the author of the
 *Kogoshūi*: Susano-O’s “Setting up rods at the rice-fields” may indicate
 that he claimed the possession of the rice-fields. Sometimes he used
@@ -164,7 +164,7 @@ Japanese peasantry labouring in the paddy fields (K. A. Florenz, English
 translation of the *Ōharai-no-Norito*. *T.A.S.J.*, vol. <span
 class="small">XXVII</span>, pp. 80, 81).
 
- <span id="note_16"></span>[16](kgsh4.htm#fr_16). The author of the
+ <span id="note_16"></span>[16](kgsh4.htm#fr_16.md). The author of the
 *Kogoshūi*, misled by the Chinese character “he” (戶) which literally
 means “door,” gave the above-quoted interpretation, but the true meaning
 of the word <span id="page_62">p. 62</span> “kusohe” is simply “to
@@ -174,30 +174,30 @@ Susano-O-no-Kami’s bad intention was to pollute his divine sister’s
 Sacred Hall before the Autumnal Harvest Festival, by evacuating his
 excreta in that building
 
- <span id="note_17"></span>[17](kgsh4.htm#fr_17).
+ <span id="note_17"></span>[17](kgsh4.htm#fr_17.md).
 “Ame-no-Yasu-no-Kawara” in Japanese. Aston translates as “The Bank of
 the Tranquil River of Heaven,” but he seems to have been misled by the
 Chinese characters used in the *Nihongi*, and so to have rendered them
 too literally. The true meaning seems to be that which we have rendered
 into English in the present text.
 
- <span id="note_18"></span>[18](kgsh4.htm#fr_18). According to the
+ <span id="note_18"></span>[18](kgsh4.htm#fr_18.md). According to the
 *Ōtonohogai-no-Norito* or *Ritual of the Luck-wishing of the
 Great-Palace* (*Ritual for Bringing Good Fortune to the Great Palace*),
 not “measures of varying size,” but “consecrated axes, large and small,”
 may seem to be meant. *Vide* Sir E. Satow, *Ancient Japanese Rituals*,
 part <span class="small">III</span>, No. 8 (*T.A.S.J.*).
 
- <span id="note_19"></span>[19](kgsh4.htm#fr_19). According to the
+ <span id="note_19"></span>[19](kgsh4.htm#fr_19.md). According to the
 *Nihongi* (W. G. Aston, *E.T.N.*, vol. <span class="small">I</span>, p.
 43), the Yasakani, or Yasaka Jewels, *i.e.*, the Ever-bright Curved
 Jewels.
 
- <span id="note_20"></span>[20](kgsh4.htm#fr_20). The identity of this
+ <span id="note_20"></span>[20](kgsh4.htm#fr_20.md). The identity of this
 tree is uncertain. Some Japanese commentators say that the word “oke”
 was probably inserted here by mistake.
 
- <span id="note_21"></span>[21](kgsh4.htm#fr_21). With regard to the
+ <span id="note_21"></span>[21](kgsh4.htm#fr_21.md). With regard to the
 parallel passages in the *Kojiki* and the *Nihongi*, “ukefuse” signifies
 “to put a tub bottom upwards,” <span id="page_63">p. 63</span> and in
 this instance Ame-no-Uzume-no-Mikoto performed a divine dance on the
@@ -207,7 +207,7 @@ the divine spirit. The original expression “ukefuse” never conveys the
 idea of an oath, which the author of the *Kogoshūi* erroneously
 accepted.
 
- <span id="note_22"></span>[22](kgsh4.htm#fr_22). “Shimenawa” is the
+ <span id="note_22"></span>[22](kgsh4.htm#fr_22.md). “Shimenawa” is the
 ordinary form of the rather archaic “shirikumenawa.” According to B. H.
 Chamberlain, in perfect agreement with the learned Moto-Ori,
 “shirikumenawa” denotes straw rope so constructed that the roots of the
@@ -227,26 +227,26 @@ enter. We cannot understand the explanation given in a note in the
 
 <span id="page_64">p. 64</span>
 
- <span id="note_23"></span>[23](kgsh4.htm#fr_23). *I.e.*, the Goddess of
+ <span id="note_23"></span>[23](kgsh4.htm#fr_23.md). *I.e.*, the Goddess of
 the Great August Palace. Sir Ernest Satow considers that this Goddess is
 simply a “Personification of the successive generations of the Mikado’s
 consorts” (*T.A.S.J.*, vol. <span class="small">VII</span>, p. 122).
-*Vide* note [56](#note_56).
+*Vide* note [56](#note_56.md).
 
- <span id="note_24"></span>[24](kgsh4.htm#fr_24). Literally, “tayo”
+ <span id="note_24"></span>[24](kgsh4.htm#fr_24.md). Literally, “tayo”
 means “abundant, strong or powerful,” and “iwa” “rock,” but in this case
 its true meaning is “strong, enduring, eternal,” and “mado” is a
 “window,” or “gate.” So Toyo-Iwamado-no-Mikoto signifies “the Powerful
 God of the Strong Gate.”
 
- <span id="note_25"></span>[25](kgsh4.htm#fr_25).
+ <span id="note_25"></span>[25](kgsh4.htm#fr_25.md).
 Kushi-Iwamado-no-Mikoto means “the Wonderful God of the Strong Gate.”
 
- <span id="note_26"></span>[26](kgsh4.htm#fr_26). The culture hero
+ <span id="note_26"></span>[26](kgsh4.htm#fr_26.md). The culture hero
 Ōnamuchi-no-Kami is better known as Ōkuninushi-no-Kami, who first ruled
 over Izumo Province, as a local god.
 
- <span id="note_27"></span>[27](kgsh4.htm#fr_27). Nowadays it is very
+ <span id="note_27"></span>[27](kgsh4.htm#fr_27.md). Nowadays it is very
 difficult to ascertain the location of the Tokoyo-no-Kuni, for it is
 referred to in different ways by the *Kojiki* and the *Nihongi*. In our
 opinion, the word Tokoyo-no-Kuni possibly had three different meanings:
@@ -255,13 +255,13 @@ Eternal Bliss,” or “Paradise”; the second, the “Land of Eternal
 Night-Darkness” or “Underworld”; and the third, a most distant country,
 although it exists somewhere on the earth, very far away from Japan.
 
- <span id="note_28"></span>[28](kgsh4.htm#fr_28). According to the
+ <span id="note_28"></span>[28](kgsh4.htm#fr_28.md). According to the
 *Nihongi*, this Edict was issued by Amaterasu-Ō-Mikami alone (W. G.
 Aston, *E.T.N.*, vol. <span class="small">I</span>, p. 77).
 
 <span id="page_65">p. 65</span>
 
- <span id="note_29"></span>[29](kgsh4.htm#fr_29). Both the *Kojiki* and
+ <span id="note_29"></span>[29](kgsh4.htm#fr_29.md). Both the *Kojiki* and
 *Nihongi* accounts of this tradition mention three Sacred Treasures,
 namely, the Jewels, the Mirror, and the Sword, which have been handed
 down in the Imperial family as the Divine Heirlooms, without whose
@@ -280,13 +280,13 @@ Takami-Musubi-no-Kami), but only one deity (Amaterasu-Ō-Mikami) that
 confers the Divine Imperial Heirloom upon the Heavenly Grandson (*Vide*
 W. G. Aston, *E.T.N.*, vol. <span class="small">I</span>, p. 76).
 
- <span id="note_30"></span>[30](kgsh4.htm#fr_30). In one account the
+ <span id="note_30"></span>[30](kgsh4.htm#fr_30.md). In one account the
 *Nihongi* ascribes this Edict to Amaterasu-Ō-Mikami alone, and he who
 receives her command is not the Heavenly Grandson but her son
 Ame-no-Oshihomimi-no-Mikoto. *Vide* W. G. Aston, *E.T.N.*, vol. <span
 class="small">I</span>, p. 83.
 
- <span id="note_31"></span>[31](kgsh4.htm#fr_31). In both the *Kojiki*
+ <span id="note_31"></span>[31](kgsh4.htm#fr_31.md). In both the *Kojiki*
 and *Nihongi* accounts, five instead of three heavenly attendants,
 called the “Gods of the Five Hereditary Corporations”, are mentioned—the
 two additional divinities being Ishikoritome-no-Mikoto and
@@ -294,35 +294,35 @@ Tamanoya-no-Mikoto.
 
 <span id="page_66">p. 66</span>
 
- <span id="note_32"></span>[32](kgsh4.htm#fr_32). The *Nihongi* ascribes
+ <span id="note_32"></span>[32](kgsh4.htm#fr_32.md). The *Nihongi* ascribes
 the first half (“We.....welfare of the Heavenly Grandson”) of this Edict
 to Takami-Musubi-no-Kami alone. *Vide* W. G. Aston, *E.T.N.*, vol. <span
 class="small">I</span>, pp. 81, 82.
 
- <span id="note_33"></span>[33](kgsh4.htm#fr_33). In the *Nihongi*, the
+ <span id="note_33"></span>[33](kgsh4.htm#fr_33.md). In the *Nihongi*, the
 words of this Edict, “Guarding him in your attendance under the same
 roof against all emergencies,” are ascribed to Amaterasu-Ō-Mikami alone
 (W. G. Aston, *E.T.N.*, vol. <span class="small">I</span>, p. 83).
 
- <span id="note_34"></span>[34](kgsh4.htm#fr_34). The passage, “Serving
+ <span id="note_34"></span>[34](kgsh4.htm#fr_34.md). The passage, “Serving
 him with the rice of the consecrated above,” is ascribed to
 Amaterasu-Ō-Mikami alone in the *Nihongi* account. *Vide* W. G. Aston,
 *E.T.N.*, vol. <span class="small">I</span>, p. 83.
 
- <span id="note_35"></span>[35](kgsh4.htm#fr_35). Certain commentators
+ <span id="note_35"></span>[35](kgsh4.htm#fr_35.md). Certain commentators
 on the *Kujiki* (*Chronicles of the Old Matters of Former Ages*) explain
 that “those Gods” are the Thirty-Two Gods, mentioned in the *Kujiki*,
 who, besides the “Gods of the Five Hereditary Corporations,” accompanied
 the Heavenly Grandson towards the earth.
 
- <span id="note_36"></span>[36](kgsh4.htm#fr_36). The *Nihongi* ascribes
+ <span id="note_36"></span>[36](kgsh4.htm#fr_36.md). The *Nihongi* ascribes
 the Edict to Takami-Musubi-no-Kami alone. *Vide* W. G. Aston, *E.T.N.*,
 vol. <span class="small">I</span>,. p. 81.
 
- <span id="note_37"></span>[37](kgsh4.htm#fr_37). *I.e.*,
+ <span id="note_37"></span>[37](kgsh4.htm#fr_37.md). *I.e.*,
 Chimata-no-Kami.
 
- <span id="note_38"></span>[38](kgsh4.htm#fr_38). Later, Saruta-Hiko,
+ <span id="note_38"></span>[38](kgsh4.htm#fr_38.md). Later, Saruta-Hiko,
 Ame-no-Uzume, Chimata-no-Kami (or the God Yachimata-Hiko and the Goddess
 Yachimata-Hime), Sae-no-Kami, Dōsojin, and Funado-no-Kami constitute a
 class of Japanese phallic gods (as well as guardian gods of travellers
@@ -331,31 +331,31 @@ diseases), and curiously enough Saruta-Hiko, an ancient phallic god, is
 represented as a moral teacher in the writings of certain authors
 (*e.g.*, Yamazaki-Ansai) during the Tokugawa Régime.
 
- <span id="note_39"></span>[39](kgsh4.htm#fr_39). *Cf.* B. H.
+ <span id="note_39"></span>[39](kgsh4.htm#fr_39.md). *Cf.* B. H.
 Chamberlain, *E.T.K.*, p. 110, note 33 and p. 113, note 2.
 
- <span id="note_40"></span>[40](kgsh4.htm#fr_40). According to the
+ <span id="note_40"></span>[40](kgsh4.htm#fr_40.md). According to the
 compilers of the *Nihongi*, this is
 Hiko-nagisatake-Ugaya-Fuki-Aezu-no-Mikoto, who is no other than the
 father of Japan’s first human Emperor, Jimmu-Tennō, whose enthronement
 ceremony took place, according to tradition, in 660 B.C.
 
- <span id="note_41"></span>[41](kgsh4.htm#fr_41). Most modern scholars,
+ <span id="note_41"></span>[41](kgsh4.htm#fr_41.md). Most modern scholars,
 whether native or foreign, are of opinion that the reign of that Emperor
 really began some hundreds of years later.
 
- <span id="note_42"></span>[42](kgsh4.htm#fr_42). The Emperor Jimmu
+ <span id="note_42"></span>[42](kgsh4.htm#fr_42.md). The Emperor Jimmu
 started on an expedition for the so-called “Eastern Conquest” from
 Kyūshū, the western districts of Japan, to Yamato in the east, so the
 “eastern provinces” here referred to denotes the Yamato districts.
 
- <span id="note_43"></span>[43](kgsh4.htm#fr_43). By this Nagasune-Hiko
+ <span id="note_43"></span>[43](kgsh4.htm#fr_43.md). By this Nagasune-Hiko
 is meant. He was one of the most stubborn opponents of the Emperor Jimmu
 and was killed by Nigihayahi-no-Mikoto, according to the *Nihongi*
 account (W. G. Aston, *E.T.N.*, vol. <span class="small">I</span>, p.
 128).
 
- <span id="note_44"></span>[44](kgsh4.htm#fr_44). According to the
+ <span id="note_44"></span>[44](kgsh4.htm#fr_44.md). According to the
 *Nihongi*, this man met the Emperor Jimmu at the port of Hayasui in
 Bungo Province and was employed in the service of the Imperial army
 whilst *en route* to Usa in Buzen Province, and afterwards he was
@@ -366,51 +366,51 @@ bringing it back safely to the Imperial camp despite the vigilance of
 his foes (W. G. Aston, *E.T.N.*, vol. <span class="small">I</span>, p.
 112).
 
- <span id="note_45"></span>[45](kgsh4.htm#fr_45). *Vide* W. G. Aston,
+ <span id="note_45"></span>[45](kgsh4.htm#fr_45.md). *Vide* W. G. Aston,
 *E.T.N.*, vol. <span class="small">I</span>, p. 116.
 
- <span id="note_46"></span>[46](kgsh4.htm#fr_46). In archaic Japanese
+ <span id="note_46"></span>[46](kgsh4.htm#fr_46.md). In archaic Japanese
 “mi-araka” means “august or divine abode,” *i.e.*, “Imperial Palace.”
 
- <span id="note_47"></span>[47](kgsh4.htm#fr_47). Here the Sovereign
+ <span id="note_47"></span>[47](kgsh4.htm#fr_47.md). Here the Sovereign
 Grandson means the Emperor Jimmu.
 
- <span id="note_48"></span>[48](kgsh4.htm#fr_48). “Miki” means “august
+ <span id="note_48"></span>[48](kgsh4.htm#fr_48.md). “Miki” means “august
 wood,” *i.e.*, “sacred timbers.”
 
- <span id="note_49"></span>[49](kgsh4.htm#fr_49). This is another Awa in
+ <span id="note_49"></span>[49](kgsh4.htm#fr_49.md). This is another Awa in
 the Kantō, in contradistinction to that of Shikoku, where the
 descendants of Hiwashi-no-Mikoto dwelt. It is often called Bōshū, and is
 now a portion of Chiba Prefecture. So in this text Awa-Kōri means the
 present Awa or Bōshū Province.
 
- <span id="note_50"></span>[50](kgsh4.htm#fr_50). *I.e.*,
+ <span id="note_50"></span>[50](kgsh4.htm#fr_50.md). *I.e.*,
 Takami-Musubi-no-Kami and Amaterasu-Ō-Mikami, according to the author of
 the *Kogoshūi*.
 
- <span id="note_51"></span>[51](kgsh4.htm#fr_51). *Vide* [p.
-17](kgsh4.htm#page_17).
+ <span id="note_51"></span>[51](kgsh4.htm#fr_51.md). *Vide* [p.
+17](kgsh4.htm#page_17.md).
 
- <span id="note_52"></span>[52](kgsh4.htm#fr_52). *Vide* [p.
-17](kgsh4.htm#page_17).
+ <span id="note_52"></span>[52](kgsh4.htm#fr_52.md). *Vide* [p.
+17](kgsh4.htm#page_17.md).
 
- <span id="note_53"></span>[53](kgsh4.htm#fr_53). This is a divine
+ <span id="note_53"></span>[53](kgsh4.htm#fr_53.md). This is a divine
 spirit who takes charge of a person’s soul and prevents it from going
 astray, leaving its body behind. Hence, we have the
 Mitamashizume-no-Matsuri or Ceremony for Calming the August Spirit of an
 Emperor at the Enthronement <span id="page_69">p. 69</span> Ceremony
 (*Vide* W. G. Aston, *Shintō,* or *the Way of the Gods*, p. 292).
 
- <span id="note_54"></span>[54](kgsh4.htm#fr_54). This is a Divine
+ <span id="note_54"></span>[54](kgsh4.htm#fr_54.md). This is a Divine
 Spirit who inspires men with life.
 
- <span id="note_55"></span>[55](kgsh4.htm#fr_55). Through the influence
+ <span id="note_55"></span>[55](kgsh4.htm#fr_55.md). Through the influence
 of this Divine Spirit, one’s physical health is received and
 invigorated. This God is probably another aspect of the Divine Spirit
 Iku-Musubi.
 
- <span id="note_56"></span>[56](kgsh4.htm#fr_56). *Vide* pp.
-[22](kgsh4.htm#page_22), [64](#page_64). In the Shintō Ritual of
+ <span id="note_56"></span>[56](kgsh4.htm#fr_56.md). *Vide* pp.
+[22](kgsh4.htm#page_22), [64](#page_64.md). In the Shintō Ritual of
 *Ōtonohogai* (*Luck-wishing or Blessing of the Great Palace*) or *Shintō
 Prayer to the Guardian Gods of the Imperial Palace* the favour of the
 same Goddess is invoked for the protection of the Imperial Palace from
@@ -419,7 +419,7 @@ Miyabi-no-Kami (Hirata-Atsutane, The *Miyami-no-Kami-Godenki*. The
 C*ollected Works*, Japanese edition, vol. <span class="small">XV</span>,
 note 20 b).
 
- <span id="note_57"></span>[57](kgsh4.htm#fr_57). This is a divine son
+ <span id="note_57"></span>[57](kgsh4.htm#fr_57.md). This is a divine son
 of Ōkuninushi-no-Kami of Izumo Province, who, on Kotoshironushi’s stern
 warning, willingly sacrificed his life through loyalty to the Emperor,
 after surrendering the governance of his country to the Heavenly
@@ -428,20 +428,20 @@ exceedingly faithful to the Imperial cause, and therefore according to
 some Japanese commentators he was afterwards looked up to as one of the
 guardian spirits of the Imperial House.
 
- <span id="note_58"></span>[58](kgsh4.htm#fr_58). *I.e.*, the Goddess of
+ <span id="note_58"></span>[58](kgsh4.htm#fr_58.md). *I.e.*, the Goddess of
 Food; hence some of the Japanese commentators have identified her with
 Toyouke-Hime or Toyouke-Daijin of the Outer Shrine in Ise.
 
 <span id="page_70">p. 70</span>
 
- <span id="note_59"></span>[59](kgsh4.htm#fr_59). *I.e.*, the Shintō
+ <span id="note_59"></span>[59](kgsh4.htm#fr_59.md). *I.e.*, the Shintō
 Priestesses at the Imperial Court who were attached to the Jingikan or
 Department for the Worship of the Shintō Gods.
 
- <span id="note_60"></span>[60](kgsh4.htm#fr_60). Kushi-Iwamado-no-Kami
-(*supra* [note 25](#note_25)), the Wonderful God of the Strong Gate,
+ <span id="note_60"></span>[60](kgsh4.htm#fr_60.md). Kushi-Iwamado-no-Kami
+(*supra* [note 25](#note_25).md), the Wonderful God of the Strong Gate,
 *i.e.*, the Divine-Wonderful-Strong-Gate-Keeper. Toyo-Iwamado-no-Kami
-(*supra* [note 24](#note_24)), the Powerful God of the Strong Gate,
+(*supra* [note 24](#note_24).md), the Powerful God of the Strong Gate,
 *i.e.*, the Divine-Abundant-Strong-Gate-Keeper. Moto-Ori suggests that
 either name is used in the *Kojiki* (Moto-Ori, The *Kojiki-Den* or
 Commentary on the *Kojiki*, vol. <span class="small">XV</span>. The
@@ -455,15 +455,15 @@ Shintō Gods, Sir Ernest Satow’s learned comments deserve our attention
 (*Vide* *T.A.S.J.*, vol. <span class="small">VII</span>, p. 109 and pp.
 120-123).
 
- <span id="note_61"></span>[61](kgsh4.htm#fr_61). What the “God of
+ <span id="note_61"></span>[61](kgsh4.htm#fr_61.md). What the “God of
 Ikushima” really means is not very clear, but it appears to be the chief
 local guardian spirit by whose virtue the locality or country (region or
 island) exists.
 
- <span id="note_62"></span>[62](kgsh4.htm#fr_62). *I.e.*, Japan, as then
+ <span id="note_62"></span>[62](kgsh4.htm#fr_62.md). *I.e.*, Japan, as then
 known.
 
- <span id="note_63"></span>[63](kgsh4.htm#fr_63). The meaning of the
+ <span id="note_63"></span>[63](kgsh4.htm#fr_63.md). The meaning of the
 word “Ikasuri” is a burning question in learned disputations, but it
 seems to us that the Gods are special guardian spirits of the Imperial
 Court-Grounds. According to the commentators Ikebe and Kubo, “Ikasuri”
@@ -472,7 +472,7 @@ place,” hence the word “Ikasuri” in the text means the grounds of the
 Imperial Court, and the author of the *Kogoshūi* probably understood by
 it the special guardian spirits of the Imperial Court-Grounds.
 
- <span id="note_64"></span>[64](kgsh4.htm#fr_64). The sword here
+ <span id="note_64"></span>[64](kgsh4.htm#fr_64.md). The sword here
 referred to is the Murakumo Sword, which Susano-O-no-Mikoto found in the
 tail of the monster serpent when he slew it in Izumo; and the
 Yata-no-Kagami or Eight-hand-span or Large Mirror is believed to be the
@@ -481,27 +481,27 @@ induced the Sun-Goddess Amaterasu-Ō-Mikami to quit her retreat in the
 Rock-Cave and restore blessings to mankind by illuminating the heavens
 and the earth with the radiance of her bounteous light.
 
- <span id="note_65"></span>[65](kgsh4.htm#fr_65). This Ritual is
+ <span id="note_65"></span>[65](kgsh4.htm#fr_65.md). This Ritual is
 included in the *Engishiki* or *Institutes of the Engi Period*. *Vide*
 Sir E. Satow’s English translation of the same (*T.A.S.J.*, vol. <span
 class="small">IX</span>, p. 190).
 
- <span id="note_66"></span>[66](kgsh4.htm#fr_66). By this
+ <span id="note_66"></span>[66](kgsh4.htm#fr_66.md). By this
 Imbe-no-Hironari may mean either some other book than the *Kogoshūi*
 that he himself wrote, or a book very well known to him, but the reader
 should not mistake it for the *Engishiki*, which was not yet compiled in
 Hironari’s time.
 
- <span id="note_67"></span>[67](kgsh4.htm#fr_67). The case is similar to
+ <span id="note_67"></span>[67](kgsh4.htm#fr_67.md). The case is similar to
 the above.
 
- <span id="note_68"></span>[68](kgsh4.htm#fr_68). The heavenly offences
+ <span id="note_68"></span>[68](kgsh4.htm#fr_68.md). The heavenly offences
 are such, for example, as were committed by Susano-O-no-Mikoto, brother
 of the Sun-Goddess Amaterasu-Ō-Mikami, in Heaven.
 
 <span id="page_72">p. 72</span>
 
- <span id="note_69"></span>[69](kgsh4.htm#fr_69). The earthly offences
+ <span id="note_69"></span>[69](kgsh4.htm#fr_69.md). The earthly offences
 mentioned in the *Engishiki* or *Institutes of the Engi Period* are the
 following: “Abnormal offences against nature, such as cutting the living
 skin; cutting the dead skin; being an albino; being affected with
@@ -520,17 +520,17 @@ K. A. Florenz’s English translation of the *Ōharai-no-Norito* or *Ritual
 of the Great Purification* (*T.A.S.J.*, vol.<span
 class="small">XXVII</span>, p. 61).
 
- <span id="note_70"></span>[70](kgsh4.htm#fr_70). *Vide* *ibid.*, the
+ <span id="note_70"></span>[70](kgsh4.htm#fr_70.md). *Vide* *ibid.*, the
 *Ōharai-no-Norito* or *Ritual of the Great Purification* (*T.A.S.J.*,
 vol.<span class="small">XXVII</span>).
 
- <span id="note_71"></span>[71](kgsh4.htm#fr_71). *Vide* [p.
-30](kgsh4.htm#page_30) *supra*.
+ <span id="note_71"></span>[71](kgsh4.htm#fr_71.md). *Vide* [p.
+30](kgsh4.htm#page_30.md) *supra*.
 
- <span id="note_72"></span>[72](kgsh4.htm#fr_72). The present
+ <span id="note_72"></span>[72](kgsh4.htm#fr_72.md). The present
 Shiki-no-Kami and Shiki-no-Shimo in Yamato Province.
 
- <span id="note_73"></span>[73](kgsh4.htm#fr_73). This old village,
+ <span id="note_73"></span>[73](kgsh4.htm#fr_73.md). This old village,
 which the late Dr. Yoshida-Tōgo mentions in his book
 *Dainihon-Chimei-Jisho* or *Dictionary of the Geographical Names in
 Japan Considered Historically* (Japanese <span id="page_73">p. 73</span>
@@ -539,7 +539,7 @@ identified. It was possibly located at Chihara in Ota-Mura, according to
 the *Shigaku-Zosshi* or *Historical Magazine* referred to in the same
 book of Dr. Yoshida-Tōgo.
 
- <span id="note_74"></span>[74](kgsh4.htm#fr_74). The meaning of this
+ <span id="note_74"></span>[74](kgsh4.htm#fr_74.md). The meaning of this
 song is not quite clear. Even the Japanese commentators find
 difficulties in apprehending it, and differ in their explanations. The
 song may mean:—
@@ -576,7 +576,7 @@ us courtiers is the sacred ‘sake’ drink!”
  “What a fine long robe each courtier wears at the Ceremony of Removing
 the Divine Insignia; it reaches below the knees!”
 
- <span id="note_75"></span>[75](kgsh4.htm#fr_75). According to
+ <span id="note_75"></span>[75](kgsh4.htm#fr_75.md). According to
 Tachibana-no-Moribe, one of the ablest scholars of the Tokugawa Régime,
 it reads as follows:—
 
@@ -624,22 +624,22 @@ Month round the Whole Year at the Inner Shrine of Ise*. The
 *Gunsho-Ruijū* edited by the Keizaizasshi-Sha, vol. <span
 class="small">I</span>, p. 39).
 
- <span id="note_76"></span>[76](kgsh4.htm#fr_76). *I.e.*, the Emperor
+ <span id="note_76"></span>[76](kgsh4.htm#fr_76.md). *I.e.*, the Emperor
 donated some rice-fields for tillage to the shrines together with
 husbandmen.
 
- <span id="note_77"></span>[77](kgsh4.htm#fr_77). Makimuku is in
+ <span id="note_77"></span>[77](kgsh4.htm#fr_77.md). Makimuku is in
 Shiki-no-Kami-Kōri, Yamato.
 
- <span id="note_78"></span>[78](kgsh4.htm#fr_78). According to the
+ <span id="note_78"></span>[78](kgsh4.htm#fr_78.md). According to the
 tradition recorded in the *Nihongi* and the *Kojiki*,
 Yamato-Hime-no-Mikoto is a daughter of Hihasu-Hime-no-Mikoto, a consort
 of the Emperor Suinin, and not his daughter by Saho-Hime. *Vide* W. G.
 Aston, *E.T.N.*, vol. <span class="small">I</span>, p. 174. Also, B.H.
 Chamberlain, *E.T.K.*, p. 183.
 
- <span id="note_79"></span>[79](kgsh4.htm#fr_79). *Vide* [p.
-29](kgsh4.htm#page_29).
+ <span id="note_79"></span>[79](kgsh4.htm#fr_79.md). *Vide* [p.
+29](kgsh4.htm#page_29.md).
 
 <span id="page_76">p. 76</span>
 
@@ -659,7 +659,7 @@ class="small">XV</span>. The *Collected Works*, Japanese edition, vol.
 <span class="small">I</span>, p. 859. Kubo, The *Kogoshūi-Kogi* or
 *Studies and Notes on the Kogoshūi*, p. 90).
 
- <span id="note_80"></span>[80](kgsh4.htm#fr_80). According to the
+ <span id="note_80"></span>[80](kgsh4.htm#fr_80.md). According to the
 *Harima-Fudoki* or *Ancient Topography of Harima*, Ame-uo-Hihoko came to
 Japan from Korea in the Divine Age, and the *Nihongi* states that he
 arrived in the Emperor Suinin’s reign, whilst the *Kojiki* dates his
@@ -669,14 +669,14 @@ arrival long before the Emperor Ōjin’s time.
 Sacred to the Eight Divine Objects, which Ame-no-Hihoko brought with him
 to Japan.
 
- <span id="note_81"></span>[81](kgsh4.htm#fr_81). *Vide* [note
-77](#note_77).
+ <span id="note_81"></span>[81](kgsh4.htm#fr_81.md). *Vide* [note
+77](#note_77.md).
 
- <span id="note_82"></span>[82](kgsh4.htm#fr_82). *Vide* pp.
-[24](kgsh4.htm#page_24), [45](kgsh4.htm#page_45),
-[46](kgsh4.htm#page_46).
+ <span id="note_82"></span>[82](kgsh4.htm#fr_82.md). *Vide* pp.
+[24](kgsh4.htm#page_24), [45](kgsh4.htm#page_45.md),
+[46](kgsh4.htm#page_46.md).
 
- <span id="note_83"></span>[83](kgsh4.htm#fr_83). Legend ascribes
+ <span id="note_83"></span>[83](kgsh4.htm#fr_83.md). Legend ascribes
 several miraculous virtues to this Sword.
 
  Not only did Susano-O-no-Kami obtain it by slaying the <span
@@ -699,7 +699,7 @@ virtues of the sword are specifically described (A. L. Sadler’s English
 translation of the *Heike-Monogatari*, the *Book of Swords*, *T.A.S.J.*,
 vol. <span class="small">XLIX</span>, p. 325).
 
- <span id="note_84"></span>[84](kgsh4.htm#fr_84). According to the
+ <span id="note_84"></span>[84](kgsh4.htm#fr_84.md). According to the
 *Nihongi* (W. G. Aston, *E.T.N.*, vol. <span class="small">I</span>, p.
 241) and the *Shoryō-Shiki* of the *Engishiki* (The *Kokushi-Taikei*,
 Japanese edition, vol. <span class="small">XIII</span>, p. 677), we may
@@ -710,7 +710,7 @@ the learned Moto-Ori in his *Kojiki-Den* discussed and contradicted
 Works*, Japanese edition, vol. <span class="small">III</span>, pp.
 2229-2231).
 
- <span id="note_85"></span>[85](kgsh4.htm#fr_85). The Three Gods of
+ <span id="note_85"></span>[85](kgsh4.htm#fr_85.md). The Three Gods of
 Suminoe (now called Sumiyoshi) are Uwazutsu-no-O, Nakazutsu-no-O, and
 Sokozutsu-no-O. They played a prominent part among the divine guardians
 who accompanied the expeditionary army to Korea which the Empress Jingō
@@ -719,24 +719,24 @@ at Suminoe in Settsu Province in honour of these Gods. Cf. W. G. Aston,
 *E.T.N.*, vol. <span class="small">I</span>, p. 226. B. H. Chamberlain,
 *E.T.K.*, pp. 231, 233.
 
- <span id="note_86"></span>[86](kgsh4.htm#fr_86). *I.e.*, Karu in
+ <span id="note_86"></span>[86](kgsh4.htm#fr_86.md). *I.e.*, Karu in
 Takechi-Kōri, Yamato Province.
 
- <span id="note_87"></span>[87](kgsh4.htm#fr_87). Kuso, King of Kudara,
+ <span id="note_87"></span>[87](kgsh4.htm#fr_87.md). Kuso, King of Kudara,
 sent to Japan the learned Wani, who was descended from the Emperor Kōso
 (Koa-Tsu) of the Kan (Han) Dynasty.
 
- <span id="note_88"></span>[88](kgsh4.htm#fr_88). In Chinese characters,
+ <span id="note_88"></span>[88](kgsh4.htm#fr_88.md). In Chinese characters,
 弓月 or \#\#\#通王. In the 14th year of the Emperor Ōjin (according to
 the *Nihongi*) Yutsuki arrived in Japan from Kudara and tendered his
 allegiance. W. G. Aston says Yutsuki in Korean would be “Kung-Wol” (W.
 G. Aston, *E.T.N.*, vol. <span class="small">I</span>, p. 261).
 
- <span id="note_89"></span>[89](kgsh4.htm#fr_89). The ancestors of the
+ <span id="note_89"></span>[89](kgsh4.htm#fr_89.md). The ancestors of the
 Hata family or Shin (Chin) people and the Aya or Kan (Han) were Chinese
 immigrants who came through Korea to Japan.
 
- <span id="note_90"></span>[90](kgsh4.htm#fr_90). “Wakasakura” literally
+ <span id="note_90"></span>[90](kgsh4.htm#fr_90.md). “Wakasakura” literally
 means “early cherry blossoms.” According to the *Nihongi* (W .G. Aston
 *E.T.N.*, vol. <span class="small">I</span>, p. 307), when the Emperor
 Richū made a feast in a boat on the Pond of <span id="page_79">p.
@@ -774,40 +774,40 @@ and the *Shinsen-Shōjiroku* (*Kurita-Hiroshi*, The
 class="small">II</span>, pp. 734, 735, 1068 and vol. <span
 class="small">I</span>, pp. 317, 318, 319).
 
- <span id="note_91"></span>[91](kgsh4.htm#fr_91). *Vide* “Imikura” in
-the Emperor Temmu’s reign, [p. 44](kgsh4.htm#page_44).
+ <span id="note_91"></span>[91](kgsh4.htm#fr_91.md). *Vide* “Imikura” in
+the Emperor Temmu’s reign, [p. 44](kgsh4.htm#page_44.md).
 
- <span id="note_92"></span>[92](kgsh4.htm#fr_92). According to
+ <span id="note_92"></span>[92](kgsh4.htm#fr_92.md). According to
 tradition, Achi-no-Omi crossed over to Japan in the 20th year of the
 Emperor Ōjin’s reign and Wani in the 16th year of the same reign.
 
- <span id="note_93"></span>[93](kgsh4.htm#fr_93). The name of a place in
+ <span id="note_93"></span>[93](kgsh4.htm#fr_93.md). The name of a place in
 Shiki-Kōri, Yamato Province.
 
- <span id="note_94"></span>[94](kgsh4.htm#fr_94). “Uzu” or “Utsu” may
+ <span id="note_94"></span>[94](kgsh4.htm#fr_94.md). “Uzu” or “Utsu” may
 mean rare and precious, and “masa” fine, superior, therefore the
 sub-family name might mean a family under whose care rare silks of fine
 quality are produced.
 
- <span id="note_95"></span>[95](kgsh4.htm#fr_95). *I.e.*,
+ <span id="note_95"></span>[95](kgsh4.htm#fr_95.md). *I.e.*,
 Imbe-no-Hironari’s day.
 
- <span id="note_96"></span>[96](kgsh4.htm#fr_96). *I.e.*, the Government
+ <span id="note_96"></span>[96](kgsh4.htm#fr_96.md). *I.e.*, the Government
 Treasury.
 
- <span id="note_97"></span>[97](kgsh4.htm#fr_97). The family in the East
+ <span id="note_97"></span>[97](kgsh4.htm#fr_97.md). The family in the East
 of the Capital (*i.e.*, in Yamato Province) is descended from
 Achi-no-Omi, ancestor of the Aya (or Kan) family of Atae rank, whilst
 the family in the West of the Capital (Kōchi) is descended from the
 learned Wani of Kudara.
 
- <span id="note_98"></span>[98](kgsh4.htm#fr_98). *I.e.*, the
+ <span id="note_98"></span>[98](kgsh4.htm#fr_98.md). *I.e.*, the
 descendants of Achi-no-Omi.
 
- <span id="note_99"></span>[99](kgsh4.htm#fr_99). The name of a place in
+ <span id="note_99"></span>[99](kgsh4.htm#fr_99.md). The name of a place in
 Takechi-Kōri, Yamato Province.
 
- <span id="note_100"></span>[100](kgsh4.htm#fr_100). Some commentators
+ <span id="note_100"></span>[100](kgsh4.htm#fr_100.md). Some commentators
 surmise that “Byakuchi” might have been mistaken for “Byakuhō,” while
 others say that “Byakuhō” <span id="page_81">p. 81</span> is correct as
 it stands, because it is mentioned in the *Taishokukan-Kamatari-Den* or
@@ -828,19 +828,19 @@ of the so-called Byakuhō and Sujaku Eras (The *Shoku-Nihonki*, vol.
 vol. <span class="small">II</span>, pp. 151, 152). *Vide* W. G. Aston,
 *E.T.N.*, vol. <span class="small">I</span>, p. 373.
 
- <span id="note_101"></span>[101](kgsh4.htm#fr_101). Toyosaki-no-Miya,
+ <span id="note_101"></span>[101](kgsh4.htm#fr_101.md). Toyosaki-no-Miya,
 the Emperor Kōtoku’s Palace, is identified by some historians with the
 present Honjō, or Toyosaki Village, in Nishinari-Kōri, Settsu Province,
 while others opine that Toyosaki was on the site where Ōsaka Castle now
 stands.
 
- <span id="note_102"></span>[102](kgsh4.htm#fr_102). Nagara is in Settsu
+ <span id="note_102"></span>[102](kgsh4.htm#fr_102.md). Nagara is in Settsu
 Province.
 
- <span id="note_103"></span>[103](kgsh4.htm#fr_103). Naniwa in Settsu
+ <span id="note_103"></span>[103](kgsh4.htm#fr_103.md). Naniwa in Settsu
 Province is the present Ōsaka.
 
- <span id="note_104"></span>[104](kgsh4.htm#fr_104). Sakashi, according
+ <span id="note_104"></span>[104](kgsh4.htm#fr_104.md). Sakashi, according
 to the *Kachō* or *Lineage Book of the Imbe Family*, an historical
 writing preserved by the Imbe family, is the son of Komaro, whose remote
 ancestor Tamakuahi-no-Mikoto, <span id="page_82">p. 82</span> mentioned
@@ -852,7 +852,7 @@ of Japan, which was begun in the year <span class="small">A.D.</span>
 fact (*Vide* Aston, *E.T.N.*, vol. <span class="small">II</span>, p.
 350). And Sakashi was the grandfather of Imbe-no-Muraji-Kōbe.
 
- <span id="note_105"></span>[105](kgsh4.htm#fr_105). This court
+ <span id="note_105"></span>[105](kgsh4.htm#fr_105.md). This court
 ceremonial cap is made of cloth of gold brocade with a pattern of
 Shōhakusen, a sacred mountain of ancient Chinese legends. Its brim, made
 of the same cloth, has also a pattern of Taihakusen, another legendary
@@ -860,11 +860,11 @@ Chinese sacred mountain. With this ceremonial cap, the courtier wore a
 scarlet robe. *Vide* Aston, *E.T.N.*, vol. <span
 class="small">II</span>, p. 229.
 
- <span id="note_106"></span>[106](kgsh4.htm#fr_106). Some commentators
+ <span id="note_106"></span>[106](kgsh4.htm#fr_106.md). Some commentators
 consider that it was added by some other person later than the time of
 Imbe-no-Hironari.
 
- <span id="note_107"></span>[107](kgsh4.htm#fr_107). On the first and
+ <span id="note_107"></span>[107](kgsh4.htm#fr_107.md). On the first and
 last days of the Divine Ceremony, the two Uraha-no-Kami, the Gods who
 preside over divination, were invoked, according to the *Engishiki* or
 *Institutes of the Engi Period* (Japanese edition, vol. <span
@@ -879,15 +879,15 @@ Ban-Nobutomo, The *Seibokukō*, vol. <span class="small">I</span>. The
 *Ban-Nobutomo-Zenshū*, Japanese edition, vol. <span
 class="small">II</span>, p. 454.
 
- <span id="note_108"></span>[108](kgsh4.htm#fr_108). Kiyomihara, a place
+ <span id="note_108"></span>[108](kgsh4.htm#fr_108.md). Kiyomihara, a place
 at Asuka, in Takechi-Kōri, Yamato.
 
 <span id="page_83">p. 83</span>
 
- <span id="note_109"></span>[109](kgsh4.htm#fr_109). *I.e.*, the reign
+ <span id="note_109"></span>[109](kgsh4.htm#fr_109.md). *I.e.*, the reign
 of the Emperor Mommu (<span class="small">A.D.</span> 697-707).
 
- <span id="note_110"></span>[110](kgsh4.htm#fr_110). Of the fact that
+ <span id="note_110"></span>[110](kgsh4.htm#fr_110.md). Of the fact that
 the first worship of the Shintō gods of the nineteen shrines in Japan
 was conducted by the State in the 3rd year of Keiun (<span
 class="small">A.D.</span> 706), when it was reported that the divine
@@ -896,13 +896,13 @@ names had been recorded in the documents kept in the Shintō Bureau
 *Kokushi-Taikei*, Japanese edition, vol. <span class="small">II</span>,
 p. 41).
 
- <span id="note_111"></span>[111](kgsh4.htm#fr_111). The reign of the
+ <span id="note_111"></span>[111](kgsh4.htm#fr_111.md). The reign of the
 Emperor Shōmu (<span class="small">A.D.</span> 724-749).
 
- <span id="note_112"></span>[112](kgsh4.htm#fr_112). At this time
+ <span id="note_112"></span>[112](kgsh4.htm#fr_112.md). At this time
 Imimaro was the chief of the Nakatomi family.
 
- <span id="note_113"></span>[113](kgsh4.htm#fr_113). When the Heavenly
+ <span id="note_113"></span>[113](kgsh4.htm#fr_113.md). When the Heavenly
 Grandson came to earth the divine attendants in his suite were
 Ame-no-Koyane-no-Mikoto, Futotama-no-Mikoto, Ame-no-Uzume-no-Mikoto,
 Ame-no-Oshihi-no-Mikoto, etc., while those who accompanied the Emperor
@@ -910,18 +910,18 @@ Jimmu were Hi-no-Omi-no-Mikoto of the Ōtomo family, Shiinetsu-Hiko,
 Yatagarasu, Ame-no-Tomi-no-Mikoto, Ame-no-Taneko-no-Mikoto,
 Nigihayahi-no-Mikoto, etc.
 
- <span id="note_114"></span>[114](kgsh4.htm#fr_114). *I.e.*, the
+ <span id="note_114"></span>[114](kgsh4.htm#fr_114.md). *I.e.*, the
 Heavenly Grandson is Amatsu-Hiko-no-Mikoto, commonly known as
 Ninigi-no-Mikoto, and the first human Emperor is the Emperor Jimmu.
 
- <span id="note_115"></span>[115](kgsh4.htm#fr_115). The *Kojiki* or
+ <span id="note_115"></span>[115](kgsh4.htm#fr_115.md). The *Kojiki* or
 *Records of Ancient Matters*, the *Nihongi* or *Chronicles of Japan*,
 *etc*.
 
- <span id="note_116"></span>[116](kgsh4.htm#fr_116). *I.e.*,
+ <span id="note_116"></span>[116](kgsh4.htm#fr_116.md). *I.e.*,
 Amaterasu-Ō-Mikami and Takami-Musubi-no-Mikoto.
 
- <span id="note_117"></span>[117](kgsh4.htm#fr_117). Kaisui or
+ <span id="note_117"></span>[117](kgsh4.htm#fr_117.md). Kaisui or
 Kai-Shi-Sui (Chieh-Tzu-Tui) was a retainer of <span id="page_84">p.
 84</span> Bunkō (Wen-Kung +628 <span class="small">B.C.</span>),
 otherwise known as Chōji (Chung-Erh), who later on became Feudal Lord of
@@ -949,12 +949,12 @@ response to his former master’s invitation. *Vide* the *Shiki*
 (Shih-Chi). H. A. Giles, *A Chinese Biographical Dictionary*, <span
 class="small">NO</span>. 353, p. 139.
 
- <span id="note_118"></span>[118](kgsh4.htm#fr_118). This intruder was a
+ <span id="note_118"></span>[118](kgsh4.htm#fr_118.md). This intruder was a
 Buddhist priest, named Dōgyō, who <span id="page_85">p. 85</span> meant
 to return to Shiragi (Silla) with the Divine Sword. *Vide* W. G. Aston,
 *E.T.N.*, vol. <span class="small">II</span>, p. 290.
 
- <span id="note_119"></span>[119](kgsh4.htm#fr_119). Some commentators,
+ <span id="note_119"></span>[119](kgsh4.htm#fr_119.md). Some commentators,
 both Japanese and foreign, as, for example, Watanabe-no-Ikarimaro and
 Prof. K. A. Florenz, understand by the Chinese characters 聖皇 the
 Emperor Shun (舜, Shun) of Ancient China. They see therefore in the
@@ -972,57 +972,57 @@ edition, p. 115. Prof. K. A. Florenz, *Die Historischen Quellen der
 Shintō Religion*, S. 447. Tatsuno-Hirochika, The *Kogoshūi-Genyoshū*,
 Japanese edition, vol. <span class="small">III</span>, p. 8).
 
- <span id="note_120"></span>[120](kgsh4.htm#fr_120). Up to the Emperor
+ <span id="note_120"></span>[120](kgsh4.htm#fr_120.md). Up to the Emperor
 Sujin’s time the Sacred Mirror had remained under the same roof with the
-sovereigns in the Imperial Palace. *Vide* [p. 37](kgsh4.htm#page_37).
+sovereigns in the Imperial Palace. *Vide* [p. 37](kgsh4.htm#page_37.md).
 
- <span id="note_121"></span>[121](kgsh4.htm#fr_121). *Vide* [p.
-21](kgsh4.htm#page_21).
+ <span id="note_121"></span>[121](kgsh4.htm#fr_121.md). *Vide* [p.
+21](kgsh4.htm#page_21.md).
 
- <span id="note_122"></span>[122](kgsh4.htm#fr_122). *I.e.*,
-Ame-no-Uzume-no-Mikoto. *Vide* [p. 21](kgsh4.htm#page_21).
+ <span id="note_122"></span>[122](kgsh4.htm#fr_122.md). *I.e.*,
+Ame-no-Uzume-no-Mikoto. *Vide* [p. 21](kgsh4.htm#page_21.md).
 
 <span id="page_86">p. 86</span>
 
- <span id="note_123"></span>[123](kgsh4.htm#fr_123). *Vide* [p.
-32](kgsh4.htm#page_32).
+ <span id="note_123"></span>[123](kgsh4.htm#fr_123.md). *Vide* [p.
+32](kgsh4.htm#page_32.md).
 
- <span id="note_124"></span>[124](kgsh4.htm#fr_124). *Vide* [pp.
-31](kgsh4.htm#page_31)-33.
+ <span id="note_124"></span>[124](kgsh4.htm#fr_124.md). *Vide* [pp.
+31](kgsh4.htm#page_31.md)-33.
 
- <span id="note_125"></span>[125](kgsh4.htm#fr_125). These two
+ <span id="note_125"></span>[125](kgsh4.htm#fr_125.md). These two
 tabernacles are called the “Yuki-no-Miya” (“Yuki-Den”) and
 “Suki-no-Miya” (“Suki-Den”).
 
- <span id="note_126"></span>[126](kgsh4.htm#fr_126). In Japanese,
+ <span id="note_126"></span>[126](kgsh4.htm#fr_126.md). In Japanese,
 “Ōniematsuri” or “Daijōsai.”
 
- <span id="note_127"></span>[127](kgsh4.htm#fr_127). As to the two
-ceremonies here mentioned, *vide* [p. 31](kgsh4.htm#page_31).
+ <span id="note_127"></span>[127](kgsh4.htm#fr_127.md). As to the two
+ceremonies here mentioned, *vide* [p. 31](kgsh4.htm#page_31.md).
 
  When the Emperor Jimmu subjugated the Yamato districts,
 Ame-no-Tomi-no-Mikoto was the chief priest of the Imbe family, who
 officiated at both ceremonies, and not Futotama-no-Mikoto. *Vide* [p.
-31](kgsh4.htm#page_31).
+31](kgsh4.htm#page_31.md).
 
- <span id="note_128"></span>[128](kgsh4.htm#fr_128). The Hōki Era (<span
+ <span id="note_128"></span>[128](kgsh4.htm#fr_128.md). The Hōki Era (<span
 class="small">A.D.</span> 770-780), *i.e.*, the reign of the Emperor
 Kō-Nin (+<span class="small">A.D.</span> 782).
 
- <span id="note_129"></span>[129](kgsh4.htm#fr_129). *Vide* the
+ <span id="note_129"></span>[129](kgsh4.htm#fr_129.md). *Vide* the
 *Shoku-Nihongi*, Japanese edition, vol. <span
 class="small">XXXII</span>, 1st month, 4th year of Hōki (The
 *Kokushi-Taikei*, Japanese edition, vol. <span class="small">II</span>,
 p. 566).
 
- <span id="note_130"></span>[130](kgsh4.htm#fr_130). Apparently the
+ <span id="note_130"></span>[130](kgsh4.htm#fr_130.md). Apparently the
 Government Authorities did not accept Imbe-no-Hironari’s protest, for
 nearly the same expression as “Nakatomi with Imbe under him” is retained
 in the *Engishiki* or *Institutes of the Engi Period* (*Vide* the
 *Engishiki*, vol. <span class="small">XXXI</span>. The *Kokushi-Taikei*,
 Japanese edition, vol. <span class="small">XIII</span>, p. 891).
 
- <span id="note_131"></span>[131](kgsh4.htm#fr_131).
+ <span id="note_131"></span>[131](kgsh4.htm#fr_131.md).
 Ame-no-Koyane-no-Mikoto of the Nakatomi family and Futotama-no-Mikoto of
 the Imbe family were in the Heavenly Grandson’s escort, when he
 descended from the Plain of High Heaven, and Ame-no-Taneko-no-Mikoto of
@@ -1031,11 +1031,11 @@ actually in <span id="page_87">p. 87</span> the Emperor Jimmu’s suite on
 his journey from Kyūshū to Yamato. Both families equally participated in
 Shintō celebrations.
 
- <span id="note_132"></span>[132](kgsh4.htm#fr_132). The Enryaku Era
+ <span id="note_132"></span>[132](kgsh4.htm#fr_132.md). The Enryaku Era
 (<span class="small">A.D.</span> 782-805), *i.e.*, the Emperor Kammu’s
 reign.
 
- <span id="note_133"></span>[133](kgsh4.htm#fr_133). This princess was
+ <span id="note_133"></span>[133](kgsh4.htm#fr_133.md). This princess was
 the Emperor Kammu’s daughter and her appointment as Guardian Priestess
 of the Ise Shrine was made in the 1st year of Enryaku (<span
 class="small">A.D.</span> 782). She was entrusted with the same sacred
@@ -1043,7 +1043,7 @@ office as her distinguished Imperial predecessors,
 Toyosukiiri-Hime-no-Mikoto and Yamato-Hime-no-Mikoto, had held some
 centuries before.
 
- <span id="note_134"></span>[134](kgsh4.htm#fr_134). The *Ryō-no-Shūge*
+ <span id="note_134"></span>[134](kgsh4.htm#fr_134.md). The *Ryō-no-Shūge*
 states that in the 5th year of Shinki (<span class="small">A.D.</span>
 728), by Imperial Command, the Seventh Court Rank was conferred on the
 hierarch Nakatomi, the offical priest attached to serve the Imperial
@@ -1055,10 +1055,10 @@ inaugurated in the Enryaku Era of the Emperor Kammu, when his Imperial
 daughter was appointed to the Ise Shrine, as Imbe-no-Hironari
 erroneously states here in the text.
 
- <span id="note_135"></span>[135](kgsh4.htm#fr_135). In medieval Japan,
+ <span id="note_135"></span>[135](kgsh4.htm#fr_135.md). In medieval Japan,
 popularly known as “Dazaifu” in Kyūshū.
 
- <span id="note_136"></span>[136](kgsh4.htm#fr_136).
+ <span id="note_136"></span>[136](kgsh4.htm#fr_136.md).
 Ame-no-Uzume-no-Mikoto was a mirth-provoking figure of an inspired
 prophetess who danced before the Heavenly Rock-Cave, <span
 id="page_88">p. 88</span> when myriads of gods anxiously desired to
@@ -1075,22 +1075,22 @@ vol. <span class="small">I</span>, p. 61. Also consult his *E.T.N.*,
 vol. <span class="small">II</span>, p. 373, as regards the origin and
 nature of this “Spirit-quieting Ceremony.”
 
- <span id="note_137"></span>[137](kgsh4.htm#fr_137). The ancestral god
+ <span id="note_137"></span>[137](kgsh4.htm#fr_137.md). The ancestral god
 of the Kagamitsukuri is Ishikori-tome-no-Kami (*vide* [p.
-20](kgsh4.htm#page_20), *et passim*), that of the Tamatsukuri is
-Kushi-Akarutama-no-Mikoto ([p. 17](kgsh4.htm#page_17)), that of the
+20](kgsh4.htm#page_20), *et passim*.md), that of the Tamatsukuri is
+Kushi-Akarutama-no-Mikoto ([p. 17](kgsh4.htm#page_17).md), that of the
 Tatenui is Hikosashiri-no-Kami (The *Sendai-Kuji-Hongi*, the
 *Tenson-Hongi*. The *Kokushi-Taikei*, Japanese edition, vol. <span
 class="small">VII</span>, p. 225), that of the Shizuri is
-Ame-no-Hazuchio-no-Kami ([p. 20](kgsh4.htm#page_20)), that of the Omi is
+Ame-no-Hazuchio-no-Kami ([p. 20](kgsh4.htm#page_20).md), that of the Omi is
 Nagashiraha-no-Kami, and the Ancestral Goddess of the Kanhatori is
-Ame-no-Tanabata-Hime-no-Kami ([p. 20](kgsh4.htm#page_20)).
+Ame-no-Tanabata-Hime-no-Kami ([p. 20](kgsh4.htm#page_20).md).
 
- <span id="note_138"></span>[138](kgsh4.htm#fr_138). The 9th year of
+ <span id="note_138"></span>[138](kgsh4.htm#fr_138.md). The 9th year of
 Shōhō (*i.e.*, Tempyō-Shōhō) of the Emperor Kōken’s reign falls in <span
 class="small">A.D.</span> 757.
 
- <span id="note_139"></span>[139](kgsh4.htm#fr_139). A case, contrary to
+ <span id="note_139"></span>[139](kgsh4.htm#fr_139.md). A case, contrary to
 this Imperial Ordinance, occurred in the 2nd year of Tempyō-Hōji (<span
 class="small">A.D.</span> 758), when Kawachi-no-Kimi,
 Imbe-no-Sukune-Hitonari, and Nakatomi-no-Asomi-Ikemori, <span
@@ -1099,14 +1099,14 @@ Shrine (*Vide* the *Shoku-Nihongi*, vol. <span class="small">XXI</span>.
 The *Kokushi-Taikei*, Japanese edition. vol. <span
 class="small">II</span>, p. 356).
 
- <span id="note_140"></span>[140](kgsh4.htm#fr_140). The tutelary god of
+ <span id="note_140"></span>[140](kgsh4.htm#fr_140.md). The tutelary god of
 a locality, or the god of land. Some (not very convincingly) identify
 this god with the Ōkuninushi-no-Kami of Izumo Province.
 
- <span id="note_141"></span>[141](kgsh4.htm#fr_141). Mitoshi-no-Kami,
+ <span id="note_141"></span>[141](kgsh4.htm#fr_141.md). Mitoshi-no-Kami,
 the God of Rice-Crops, is said to be a grandson of Susano-O-no-Kami.
 
- <span id="note_142"></span>[142](kgsh4.htm#fr_142). The meaning of the
+ <span id="note_142"></span>[142](kgsh4.htm#fr_142.md). The meaning of the
 words “katakannagi” and “hijikannagi” is not very clear. Some conjecture
 that they represent two kinds of diviners (whether male or female is
 uncertain), one is literally “shoulder-diviner,” and the other
@@ -1139,7 +1139,7 @@ question a kind of divination practised by means of the bones of the
 or Exposition of the Foreign Notices of Japan*. (Japanese edition, vol.
 <span class="small">I</span>, 1, p. 11).
 
- <span id="note_143"></span>[143](kgsh4.htm#fr_143). Anciently a white
+ <span id="note_143"></span>[143](kgsh4.htm#fr_143.md). Anciently a white
 wild boar, but in later times a white pig, when white wild boars became
 unobtainable. A somewhat parallel passage is extant in the Mahāyāna
 Buddhist Sūtra *Bussetsu-Jokyō-Saigen-Kyō* or the *Sūtra on Removing
@@ -1172,21 +1172,21 @@ their ‘six domestic animals’ die, and the people suffer from pestilence”
 (The *Sui-Shu*, Chinese edition, vol. <span class="small">LXXXII</span>,
 *vide* the *Chên-La*).
 
- <span id="note_144"></span>[144](kgsh4.htm#fr_144). Scrophularia
+ <span id="note_144"></span>[144](kgsh4.htm#fr_144.md). Scrophularia
 Oldhami Oliv.
 
- <span id="note_145"></span>[145](kgsh4.htm#fr_145). Belamcanda punctata
+ <span id="note_145"></span>[145](kgsh4.htm#fr_145.md). Belamcanda punctata
 Moench (=B. chinensis Lem.).
 
- <span id="note_146"></span>[146](kgsh4.htm#fr_146). Coix Lacryma-Jobi
+ <span id="note_146"></span>[146](kgsh4.htm#fr_146.md). Coix Lacryma-Jobi
 L.
 
- <span id="note_147"></span>[147](kgsh4.htm#fr_147). Xanthoxylum
+ <span id="note_147"></span>[147](kgsh4.htm#fr_147.md). Xanthoxylum
 piperitum D C.
 
- <span id="note_148"></span>[148](kgsh4.htm#fr_148). Juglans.
+ <span id="note_148"></span>[148](kgsh4.htm#fr_148.md). Juglans.
 
- <span id="note_149"></span>[149](kgsh4.htm#fr_149). We find the myth of
+ <span id="note_149"></span>[149](kgsh4.htm#fr_149.md). We find the myth of
 Pan-Ku in a certain Chinese book, entitled *Teiō-Goun-Rekinenki*
 (*Ti-Wang-Wu-Yun-Li-Nien-Chi*). *Cf.* Nimbō, The *Jutsu-I-Ki* (Jen-Fang,
 The Shu-I-Chi).
@@ -1216,7 +1216,7 @@ air his bodily heat, both good and evil are the Karma or constituents of
 his character” (The *Gedō-Shōjō-Nehan-Ron*. Nanjiō’s *Catalogue*, No.
 1260).
 
- <span id="note_150"></span>[150](kgsh4.htm#fr_150). An allusion to the
+ <span id="note_150"></span>[150](kgsh4.htm#fr_150.md). An allusion to the
 *Tendainofu* (Tien-Tai-Fu) by Sonshaku (Sun-Cho) in the *Monzen*
 (*Wen-Hsuan*), one of the Chinese Classics. *Vide* also the *Shūsuihen*
 (*Chiu-Shui-Pien*), by Sōshi (Chuang-Tzu), a follower of Rōshi (Lao-Tzu)
@@ -1225,16 +1225,16 @@ class="small">B.C.</span>, according to the Chinese tradition.
 
 <span id="page_93">p. 93</span>
 
- <span id="note_151"></span>[151](kgsh4.htm#fr_151). In other words,
+ <span id="note_151"></span>[151](kgsh4.htm#fr_151.md). In other words,
 Japan.
 
- <span id="note_152"></span>[152](kgsh4.htm#fr_152). Gyō (Yao) and Shun
+ <span id="note_152"></span>[152](kgsh4.htm#fr_152). Gyō (Yao.md) and Shun
 (Shun) are the prototype of ideal Emperors in ancient China.
 
- <span id="note_153"></span>[153](kgsh4.htm#fr_153). *I.e.*, all over
+ <span id="note_153"></span>[153](kgsh4.htm#fr_153.md). *I.e.*, all over
 the world.
 
- <span id="note_154"></span>[154](kgsh4.htm#fr_154). In certain editions
+ <span id="note_154"></span>[154](kgsh4.htm#fr_154.md). In certain editions
 we find the dates differently mentioned, e.g., “the 12th month in the
 3rd year of Daidō” or “the 2nd month in the 3rd year of Daidō,” or “the
 12th month in the 2nd year of Daidō,” instead of “the 2nd month in the
@@ -1251,11 +1251,11 @@ the Hōryūji or Ryakunin manuscript we find no date mentioned at all at
 the end of it. And one of the Maeda manuscripts mentions that there is a
 sort of manuscript with no such date at all.
 
- *Vide* [pp. 5](kgsh3.htm#page_5)-9.
+ *Vide* [pp. 5](kgsh3.htm#page_5.md)-9.
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Shinto](../index) [Index](index)
+[Sacred-Texts](../../index) [Shinto](../index) [Index](index.md)
 
  
 

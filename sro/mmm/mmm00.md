@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Next](mmm01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Next](mmm01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Traces of a Hidden Tradition in Masonry and Medieval Mysticism*, by
 Isabel Cooper-Oakley, \[1900\], at Intangible Textual Heritage
 
@@ -35,6 +35,6 @@ United States because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mmm01)
+[Next: Contents](mmm01.md)
 
 </div>

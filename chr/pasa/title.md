@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Next](preface) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Next](preface.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ LATE OF THE COMMUNITY OF THE RESURRECTION
 
 ------------------------------------------------------------------------
 
-[Next: Preface](preface)
+[Next: Preface](preface.md)

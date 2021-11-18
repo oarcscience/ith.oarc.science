@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva08)  [Next](rva10) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva08)  [Next](rva10.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### IX. Xochiquetzal icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Atlayauican ni xochiquetzalli tlacya niuitza ya motencaliuan
 tamoanchan oay.
@@ -57,4 +57,4 @@ physical pollution.
 
 ------------------------------------------------------------------------
 
-[Next: X. Hymn to the God of Fishing.](rva10) 
+[Next: X. Hymn to the God of Fishing.](rva10.md) 

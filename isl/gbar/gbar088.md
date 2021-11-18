@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar087) [Next](gbar089)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar087) [Next](gbar089.md)
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ putrified.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar089)
+[Next](gbar089.md)

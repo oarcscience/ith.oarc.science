@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt24)  [Next](tpt26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt24)  [Next](tpt26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -855,4 +855,4 @@ but only for their own fellow-citizens.
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII.—From the Commonwealth of the Hebrews, and Their
-History, Certain Political Doctrines Are Deduced](tpt26)
+History, Certain Political Doctrines Are Deduced](tpt26.md)

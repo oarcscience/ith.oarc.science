@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap43) 
-[Next](bap45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap43.md) 
+[Next](bap45.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ XXVIII\. And when the days of Cenez drew
 
 nigh that he should die, he sent and called all men (*or* all the
 elders), and the two prophets Jabis and Phinees, and Phinees the son of
-Eleazar the priest, <span id="fr_117"></span>[1](#fn_117) and said to
+Eleazar the priest, <span id="fr_117"></span>[1](#fn_117.md) and said to
 them: Behold now, the Lord hath showed me all his marvellous works which
 he hath prepared to do for his people in the last days.
 
@@ -63,7 +63,7 @@ continue in sin against him? And shall it not be he that shall spare
 according to the abundance of his mercy, seeing he hath spent great
 labour upon us?
 
-6\.  <span id="fr_118"></span>[1](#fn_118) Now while they were set, the
+6\.  <span id="fr_118"></span>[1](#fn_118.md) Now while they were set, the
 holy spirit that
 
 |           |
@@ -97,7 +97,7 @@ behold, a voice saying: These shall be for a foundation unto men and
 they shall dwell therein 7000 years. 9. And the lower foundation was a
 pavement and the upper was of froth, and they that came forth out of the
 light of the invisible place, they are those that shall dwell
-therein, <span id="fr_119"></span>[1](#fn_119) and
+therein, <span id="fr_119"></span>[1](#fn_119.md) and
 
 <span id="page_167">p. 167</span>
 
@@ -125,13 +125,13 @@ said, he died and slept with his fathers, and the people mourned for him
 
 ### Footnotes
 
-<span id="fn_117"></span>[164:1](bap44.htm#fr_117) XXVIII. 1. The "*two
+<span id="fn_117"></span>[164:1](bap44.htm#fr_117.md) XXVIII. 1. The "*two
 prophets Jabis and Phinees, and Phinees the son of Eleazar*" are
 suspicious. I should not wonder if originally there had been but one
 prophet, Jabis, and Phinees the son of Eleazar. The plural *prophetae*,
 which occurs again in 3, might be a consequential change.
 
-<span id="fn_118"></span>[165:1](bap44.htm#fr_118) 6 *seq*. There are
+<span id="fn_118"></span>[165:1](bap44.htm#fr_118.md) 6 *seq*. There are
 several resemblances in this section to the diction of Ezekiel. The
 Spirit comes upon Kenaz as he sits among the elders: so in Ezek. 8:1
 (20:1, 20:2). *fundamentum* may be compared with στερέωμα (Ezek. 122);
@@ -140,7 +140,7 @@ Spirit comes upon Kenaz as he sits among the elders: so in Ezek. 8:1
 ὁμοίωσισ (1:10); *ecce uox dicens* with ἰδοὺ φωνὴ ὑπεράνωθεν τοῦ
 στερεώματοσ (1:25).
 
-<span id="fn_119"></span>[166:1](bap44.htm#fr_119) 9. *they are those
+<span id="fn_119"></span>[166:1](bap44.htm#fr_119.md) 9. *they are those
 that shall dwell therein, and the name of* <span id="page_167">p.
 167</span> *that man is* \*. A puts an asterisk after "dwell therein" as
 well as at the end of the sentence. VR read: *these are they which shall
@@ -156,4 +156,4 @@ it shall be when he hath sinned against me, and the time is fulfilled."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX](bap45)
+[Next: Chapter XXIX](bap45.md)

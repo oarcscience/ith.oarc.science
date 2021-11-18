@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca65)  [Next](fsca67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca65)  [Next](fsca67.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -103,7 +103,7 @@ The Austrian family of<span id="img_24500"></span>
 
 |                                             |
 |---------------------------------------------|
-| ![Die Ritter, of Nuremberg.](img/24500.jpg) |
+| ![Die Ritter, of Nuremberg.](img/24500.jpg.md) |
 
 Estenberger bears for crest *a mermaid without arms, and having wings*.
 
@@ -207,4 +207,4 @@ Greek and Roman poets have said and sung a great deal about it.
 
 ------------------------------------------------------------------------
 
-[Next: The Sirens of Classical Mythology](fsca67)
+[Next: The Sirens of Classical Mythology](fsca67.md)

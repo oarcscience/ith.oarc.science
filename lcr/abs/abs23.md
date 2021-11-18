@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs22)  [Next](abs24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs22)  [Next](abs24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -278,7 +278,7 @@ much more basic question as to whether it is in the image of God or not;
 and, if it is, *what* image of *what* god, and what the latter's
 qualities may be. Further, if it stands half—or anyway between us and
 the other mammals, are we to believe Holy Writ or Charles Darwin? <span
-id="fr_55"></span>[\*](#fn_52)
+id="fr_55"></span>[\*](#fn_52.md)
 
 The matter of ABSMs, while utterly intriguing is, also perhaps more than
 any other enigma, open to another very human sentiment; namely, that an
@@ -600,9 +600,9 @@ facts.
 
 ### Footnotes
 
-<span id="fn_52"></span>[427:\*](abs23.htm#fr_55) See Vercors' splendid
+<span id="fn_52"></span>[427:\*](abs23.htm#fr_55.md) See Vercors' splendid
 book, *You Shall Know Them*.
 
 ------------------------------------------------------------------------
 
-[Next: 20. Certain Abominable Conclusions](abs24)
+[Next: 20. Certain Abominable Conclusions](abs24.md)

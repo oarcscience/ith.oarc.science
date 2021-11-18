@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc10)  [Next](motc12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc10)  [Next](motc12.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,7 +114,7 @@ tore my
 <span id="img_09400"></span>
 
 [![](tn/09400.jpg)  
-Click to enlarge](img/09400.jpg)
+Click to enlarge](img/09400.jpg.md)
 
 <span id="page_95">p. 95</span>
 
@@ -145,4 +145,4 @@ they know about love!
 
 ------------------------------------------------------------------------
 
-[Next: There is a Time for Lying](motc12)
+[Next: There is a Time for Lying](motc12.md)

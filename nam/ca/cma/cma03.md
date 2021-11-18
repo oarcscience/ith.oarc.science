@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma02)  [Next](cma04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma02)  [Next](cma04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -71,7 +71,7 @@ a long, long time, and there were many people living in it before the
 present world and we, the present people, came.
 
 One time the people of that first world who were living then in the
-country about here <span id="fr_0"></span>[1](#fn_0) were talking of
+country about here <span id="fr_0"></span>[1](#fn_0.md) were talking of
 those who lived in one place and another. Down in the southwest was a
 person whose name was Katkatchila. He could kill game wonderfully, but
 nobody knew how he did it, nor could any one find out. He did not kill
@@ -1552,9 +1552,9 @@ above, where they are with Olelbis now.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:1](cma03.htm#fr_0) That is, in the Upper
+<span id="fn_0"></span>[4:1](cma03.htm#fr_0.md) That is, in the Upper
 Sacramento Valley.
 
 ------------------------------------------------------------------------
 
-[Next: Olelbis and Mem Loimis](cma04)
+[Next: Olelbis and Mem Loimis](cma04.md)

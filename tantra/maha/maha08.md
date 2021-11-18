@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha07)  [Next](maha09) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha07)  [Next](maha09.md) 
 
 ------------------------------------------------------------------------
 
@@ -836,6 +836,6 @@ the Castes and Ashramas."
 ------------------------------------------------------------------------
 
 [Next: Chapter 9 - The Ten Kinds of Purificatory Rites
-(Sangskara)](maha09)
+(Sangskara)](maha09.md)
 
   

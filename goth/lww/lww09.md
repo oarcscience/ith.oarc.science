@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww08)  [Next](lww10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww08)  [Next](lww10.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ lay dead, with every appearance of having been strangled!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X--The Kite](lww10)
+[Next: Chapter X--The Kite](lww10.md)

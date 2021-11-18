@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat10.htm#LVII) 
-[Previous](satl056)  [Next](satl058) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat10.htm#LVII.md) 
+[Previous](satl056)  [Next](satl058.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ istoc'. Quid nunc stupes tanquam hircus in ervilia?"
 
 ------------------------------------------------------------------------
 
-[Next: LVIII](satl058)
+[Next: LVIII](satl058.md)

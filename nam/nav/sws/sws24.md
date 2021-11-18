@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](sws23)  [Next](sws25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](sws23)  [Next](sws25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -154,7 +154,7 @@ With these may it be beautiful before me.*
 
 *With these may it be beautiful behind me.  
 All is beautiful again, all is restored in beauty.* <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 </div>
 
@@ -209,7 +209,7 @@ our sing.
 
 ### Footnotes
 
-<span id="fn_0"></span>[167:1](sws24.htm#fr_0) "Beauty, beautiful" are
+<span id="fn_0"></span>[167:1](sws24.htm#fr_0.md) "Beauty, beautiful" are
 only my choice of the English words, all unsatisfactory, which might be
 used in rendering the Navajo word which means "beauty, goodness,
 success, comfort, good luck, desirability, good will, blessing, good
@@ -218,4 +218,4 @@ and cultivates.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII: The Holy Twins](sws25)
+[Next: Chapter XXII: The Holy Twins](sws25.md)

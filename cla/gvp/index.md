@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,21 +20,21 @@ about his teachings today. Besides exhortations to live a moral, simple
 and contemplative life, these pithy aphorisms allow a glimpse of a bit
 of the Pythagorean schools' deeper knowledge.
 
-[A detailed study of the Golden Verses](../ogv/index) by the French
+[A detailed study of the Golden Verses](../ogv/index.md) by the French
 esoteric writer Fabre d'Olivet is also available at this site.
 
 ------------------------------------------------------------------------
 
-[Title Page](gvp00)  
-[Preface](gvp01)  
-[Introduction](gvp02)  
-[The Golden Verses of Pythagoras](gvp03)  
+[Title Page](gvp00.md)  
+[Preface](gvp01.md)  
+[Introduction](gvp02.md)  
+[The Golden Verses of Pythagoras](gvp03.md)  
 [Notes on the Golden Verses of Pythagoras from the Commentaries of
-Hierocles](gvp04)  
-[The Golden Sentences of Democrates](gvp05)  
-[The Pythagorean Sentences of Demophilus](gvp06)  
-[The Similitudes of Demophilus](gvp07)  
-[Pythagorean Ethical Sentences from Stobæus](gvp08)  
-[Select Sentences of Sextus the Pythagorean](gvp09)  
-[Pythagorean Sentences from the Protreptics of Iamblichus](gvp10)  
-[The Symbols of Pythagoras](gvp11)  
+Hierocles](gvp04.md)  
+[The Golden Sentences of Democrates](gvp05.md)  
+[The Pythagorean Sentences of Demophilus](gvp06.md)  
+[The Similitudes of Demophilus](gvp07.md)  
+[Pythagorean Ethical Sentences from Stobæus](gvp08.md)  
+[Select Sentences of Sextus the Pythagorean](gvp09.md)  
+[Pythagorean Sentences from the Protreptics of Iamblichus](gvp10.md)  
+[The Symbols of Pythagoras](gvp11.md)  

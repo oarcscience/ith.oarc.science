@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tigs03)  [Next](tigs05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tigs03)  [Next](tigs05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -475,4 +475,4 @@ efforts, but succumbed to the priest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Haunted Houses in Mogh's Half](tigs05)
+[Next: Chapter III. Haunted Houses in Mogh's Half](tigs05.md)

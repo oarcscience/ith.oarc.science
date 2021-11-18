@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis00)  [Next](kis02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis00)  [Next](kis02.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ the supper-room seated 'in the Queen's chair.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](kis02)
+[Next: Part II](kis02.md)

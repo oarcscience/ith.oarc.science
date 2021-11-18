@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo32)  [Next](sdo34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo32)  [Next](sdo34.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ the ceremony rests with the Shamans, they being the sole authority.
 
 ------------------------------------------------------------------------
 
-[Next: The Hunka Ceremony](sdo34)
+[Next: The Hunka Ceremony](sdo34.md)

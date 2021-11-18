@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst102)  [Next](inst104) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst102)  [Next](inst104.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ therefore, he procured for us the grace of God and salvation.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK 3](inst104)
+[Next: BOOK 3](inst104.md)

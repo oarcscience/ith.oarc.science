@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](th2)  [Next](ti2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](th2)  [Next](ti2.md) 
 
 ------------------------------------------------------------------------
 
@@ -422,4 +422,4 @@ elimu, na matokeo yake wamepoteza imani. Nawatakieni nyote neema!
 
 ------------------------------------------------------------------------
 
-[Next: 2 Timothy](ti2)
+[Next: 2 Timothy](ti2.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](mrm04)  [Next](mrm06) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](mrm04)  [Next](mrm06.md) 
 
 ------------------------------------------------------------------------
 
@@ -446,4 +446,4 @@ sleeper, but to any of his companions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Religious Rites of the Maori (cont.)](mrm06)
+[Next: Chapter IV. Religious Rites of the Maori (cont.)](mrm06.md)

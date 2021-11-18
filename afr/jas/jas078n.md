@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas077n)  [Next](jas079n)   
- \[[78. The Fish Lover.](jas078)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas077n)  [Next](jas079n.md)   
+ \[[78. The Fish Lover.](jas078.md)\]
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ knife and cut off the elf's hand, who thereafter disappears.
 
 ------------------------------------------------------------------------
 
-[Next: Note 79. Juggin Straw Blue.](jas079n)
+[Next: Note 79. Juggin Straw Blue.](jas079n.md)

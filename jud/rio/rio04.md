@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio03)  [Next](rio05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio03)  [Next](rio05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 
 <span id="page_37">p. 37</span>
 
-<span id="img_bord00"></span> ![decorative border](img/bord00.jpg)
+<span id="img_bord00"></span> ![decorative border](img/bord00.jpg.md)
 
 ### II
 
@@ -24,7 +24,7 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 
 "Let all the people walk, every one in the name of his god; but as for
 us we will walk in the name of the Lord our God, for ever and
-ever."—[*Micah* iv, 5](../../bib/kjv/mic004.htm#005).
+ever."—[*Micah* iv, 5](../../bib/kjv/mic004.htm#005.md).
 
 And one of the scribes came, and . . . asked him, Which is the first
 commandment of all? And Jesus answered him, The first of all the
@@ -38,7 +38,7 @@ for there is one God; and there is none other but He: And to love Him
 with all the heart, and with all the understanding, and with all the
 soul, and with all the strength, and to love *his* neighbour as himself,
 is more than all whole burnt offerings and sacrifices.—[*St. Mark* xii,
-28-33](../../bib/kjv/mar012.htm#028).
+28-33](../../bib/kjv/mar012.htm#028.md).
 
 ONE would never have thought that the little village of Oberammergau
 sheltered nigh unto five thousand<span class="margnote">A midnight
@@ -557,4 +557,4 @@ vindication. God rules—and Justice will be done.
 
 ------------------------------------------------------------------------
 
-[Next: III. In the Forenoon (Continued)](rio05)
+[Next: III. In the Forenoon (Continued)](rio05.md)

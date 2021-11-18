@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl40)  [Next](orl42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl40)  [Next](orl42.md) 
 
 ------------------------------------------------------------------------
 
@@ -1160,4 +1160,4 @@ But now ’tis time that I suspend my lay.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 42](orl42)
+[Next: Canto 42](orl42.md)

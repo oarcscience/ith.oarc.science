@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby24)  [Next](sby26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby24)  [Next](sby26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ regard his name as one of the names of the deity. In this case, his tomb
 is a myth and the prefix "Šeiḫ" is added to deceive the Mohammedans, and
 thus to prevent them from desecrating the sacred shrine, just as the
 Christians call Mar Mattie, Sheikh Mattie, and the convent of Mar
-Behrian, ḫuder Elias. <span id="fr_146"></span>[15](#fn_145) But the
+Behrian, ḫuder Elias. <span id="fr_146"></span>[15](#fn_145.md) But the
 most ingenious theory is that advanced by the Rev. G. p. Badger. He
 queries whether "the Yezidi ‘Adî be not cognate with the Hebrew Ad, the
 two first letters in the original of Adonai, the Lord, and its
@@ -100,7 +100,7 @@ pilgrims reside during the time of the feast; so that each portion of
 the valley is known by the name of the country of those who resort
 thither. On the lintel of the doorway of the temple, various symbols are
 engraved,---a lion, a snake, a hatchet, a man and a comb. <span
-id="fr_147"></span>[16](#fn_146) Their mystical meaning is unknown. They
+id="fr_147"></span>[16](#fn_146.md) Their mystical meaning is unknown. They
 are regarded as mere ornaments placed there at the request of those who
 furnished money for building the temple. The interior of the temple is
 made up of an oblong apartment which is divided into three compartments,
@@ -135,7 +135,7 @@ Mohammed say in the pulpit, "That person who repeats the Ayat al-Kursi
 after every prayer shall in no wise be prevented from entering into
 Paradise, except by life; and whoever says it when he goes to his
 bedchamber will be kept by God in safety together with his house and the
-house of his [neighbor](errata.htm#18)." Šeiḫ ‘Adî might have been in
+house of his [neighbor](errata.htm#18.md)." Šeiḫ ‘Adî might have been in
 the habit of repeating this verse; and this, perhaps, led to its
 inscription on the tomb.
 
@@ -182,7 +182,7 @@ The šeiḫs and the principal members of the priesthood are dressed in
 pure white linen, and all are venerable men with long beards. Only the
 chief and the ḳawwals and two of the order of the priesthood enter the
 inner court of the temple, and they always go in barefooted. They start
-an hour after sunset. <span id="fr_148"></span>[17](#fn_147) The
+an hour after sunset. <span id="fr_148"></span>[17](#fn_147.md) The
 ceremony begins with the exhibition of the holy symbol of Melek Ṭâ’ûs to
 the priests. No stranger is allowed to witness this ceremony or to know
 the nature of it. This being done, they begin the rite. The ḳawwals
@@ -206,20 +206,20 @@ procession kiss, as they pass by, the right side of the temple entrance,
 where the serpent is figured on the wall. Then the emir stands at this
 entrance to receive the homage of the šeiḫs and elders who kiss his
 hand. Afterward all that are present give one another the kiss of
-peace. <span id="fr_149"></span>[18](#fn_148) After the ceremony the
+peace. <span id="fr_149"></span>[18](#fn_148.md) After the ceremony the
 young men and women dance in the outer court until early in the morning.
 
 In the morning the šeiḫs and the ḳawwals offer a short prayer in the
 temple without any ceremony and some kiss the holy places in the
 vicinity. When they end, they take the green <span
-id="fr_150"></span>[19](#fn_149) cover of the tomb of Šeiḫ ‘Adî and
+id="fr_150"></span>[19](#fn_149.md) cover of the tomb of Šeiḫ ‘Adî and
 march with it around the outer court with music. The people rush to them
 and reverently kiss the corner of the cloth, offering money.
 
 After taking the cover back to its place, the chiefs and priests sit
 around the inner court. Kochaks at this time bring food and call the
 people to eat of the hospitality of Šeiḫ ‘Adî. <span
-id="fr_151"></span>[20](#fn_150) After they have finished their meal, a
+id="fr_151"></span>[20](#fn_150.md) After they have finished their meal, a
 collection is taken for the support of the temple and tomb of their
 saint. All people that come to the annual festival bring dishes as
 offerings to their living šeiḫ. After he has indicated his acceptance of
@@ -234,7 +234,7 @@ their several abodes.
 
 ### Footnotes
 
-<span id="fn_145"></span>[159:15](sby25.htm#fr_146) Badger: Ibid, p.
+<span id="fn_145"></span>[159:15](sby25.htm#fr_146.md) Badger: Ibid, p.
 247. (137) Ibid, p. 112.
 
 Mr. Badger seems to contend that the Kurdish-speaking people do not
@@ -245,7 +245,7 @@ Alif to ain. This is to be said, however, that in some localities the
 not confined to the Kurds, such changes are made by the Arabic- and the
 Syriac-speaking people also.
 
-<span id="fn_146"></span>[161:16](sby25.htm#fr_147) The figures of the
+<span id="fn_146"></span>[161:16](sby25.htm#fr_147.md) The figures of the
 bull and of the serpent, or of the bull and of the lion were placed at
 the right and left of the palaces of the Assyrian kings to protect their
 path. Layard, Nineveh and Babylon, p. 162; Nineveh, Vol. II, p. 315; B.
@@ -255,20 +255,20 @@ Nineveh, Vol. II, p. 301. The hatchet was among the weapons of those who
 fought in chariots, and carried in the quiver, with the arrows and short
 angular bow, Nineveh, Vol. II, p. 343.
 
-<span id="fn_147"></span>[164:17](sby25.htm#fr_148) The Mandeans, the
+<span id="fn_147"></span>[164:17](sby25.htm#fr_148.md) The Mandeans, the
 star-worshippers, also begin their rasta ceremony after the sunset, and
 continue it through the night.--*London Standard*, October 19, 1994,
 Al-Mutaḳtataf, 23, 88.
 
-<span id="fn_148"></span>[165:18](sby25.htm#fr_149) The kiss of the
+<span id="fn_148"></span>[165:18](sby25.htm#fr_149.md) The kiss of the
 peace is a regular part of the church service in the East.
 
-<span id="fn_149"></span>[165:19](sby25.htm#fr_150) In Mohammedanism,
+<span id="fn_149"></span>[165:19](sby25.htm#fr_150.md) In Mohammedanism,
 green is the color of šeiḫs.
 
-<span id="fn_150"></span>[165:20](sby25.htm#fr_151) This is a communal
+<span id="fn_150"></span>[165:20](sby25.htm#fr_151.md) This is a communal
 meal.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Yezid](sby26)
+[Next: 3. Yezid](sby26.md)

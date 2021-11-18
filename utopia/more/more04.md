@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](more03)  [Next](more05) 
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](more03)  [Next](more05.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ sudden in their motions.
 
 ------------------------------------------------------------------------
 
-[Next: Of Their Trades, And Manner Of Life](more05)
+[Next: Of Their Trades, And Manner Of Life](more05.md)

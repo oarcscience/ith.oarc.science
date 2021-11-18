@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh10)  [Next](ulh12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh10)  [Next](ulh12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -31,18 +31,18 @@ that breathes the aroma of ancient prayer:
 <div style="margin-left: 32px">
 
 O Laka oe,  
-O ke akua i ke a’a-lii  <span id="fr_64"></span>[a](#fn_63) nui.  
+O ke akua i ke a’a-lii  <span id="fr_64"></span>[a](#fn_63.md) nui.  
 O Laka mai uka!  
 E Laka mai kai!  
-5 O hoo-ulu <span id="fr_65"></span>[b](#fn_64) o Lono,  
+5 O hoo-ulu <span id="fr_65"></span>[b](#fn_64.md) o Lono,  
 O ka ilio nana e haehae ke aha,  
 O ka ie-ie ku i ka wao,  
 O ka maile hihi i ka nahele,  
-O ka lau ki-ele <span id="fr_66"></span>[c](#fn_65) ula o ke akua,  
-10 O na ku’i <span id="fr_67"></span>[d](#fn_66) o Hauoli,  
-O Ha’i-ka-malama, <span id="fr_68"></span>[e](#fn_67)  
-Wahine o Kina’u. <span id="fr_69"></span>[f](#fn_68)  
-Kapo ula <span id="fr_70"></span>[g](#fn_69) o Kina’u.  
+O ka lau ki-ele <span id="fr_66"></span>[c](#fn_65.md) ula o ke akua,  
+10 O na ku’i <span id="fr_67"></span>[d](#fn_66.md) o Hauoli,  
+O Ha’i-ka-malama, <span id="fr_68"></span>[e](#fn_67.md)  
+Wahine o Kina’u. <span id="fr_69"></span>[f](#fn_68.md)  
+Kapo ula <span id="fr_70"></span>[g](#fn_69.md) o Kina’u.  
 O Laka oe,  
 15 O ke akua i ke kuahu nei la, e!  
 E ho’i, e ho’i a noho i kou kuahu.  
@@ -101,8 +101,8 @@ Hoala ana oe,
 Me he manu e hea ana i ka maha lehua  
 Ku moho kiekie la i-uka.  
 I-uka ho’i au me Laka  
-10 A Lea, <span id="fr_71"></span>[a](#fn_70) a Wahie-loa, <span
-id="fr_72"></span>[b](#fn_71) i ka nahelehele;  
+10 A Lea, <span id="fr_71"></span>[a](#fn_70.md) a Wahie-loa, <span
+id="fr_72"></span>[b](#fn_71.md) i ka nahelehele;  
 He hoa kaana ia no’u,  
 No kela kuahiwi, kualono hoi.  
     E Laka, e Laka, e!  
@@ -159,19 +159,19 @@ scope. Such is the one now to be given:
 
 <div style="margin-left: 32px">
 
-Kane, hiki a’e, he maláma <span id="fr_73"></span>[a](#fn_72) ia luna;  
+Kane, hiki a’e, he maláma <span id="fr_73"></span>[a](#fn_72.md) ia luna;  
 Ha’aha’a, he maláma ia lalo;  
-Oni-oni, <span id="fr_74"></span>[b](#fn_73) he maláma ia ka’u;  
-He wahine <span id="fr_75"></span>[c](#fn_74) lei, maláma ia Kapo;  
-5 E Kapo nui, hala-hala <span id="fr_76"></span>[d](#fn_75) a i’a;  
-E Kapo nui, hala-hala <span id="fr_77"></span>[e](#fn_76) a mea,  
-Ka alihi <span id="fr_78"></span>[f](#fn_77) luna, ka alihi lalo;  
-E ka poha-kú. <span id="fr_79"></span>[g](#fn_78)  
+Oni-oni, <span id="fr_74"></span>[b](#fn_73.md) he maláma ia ka’u;  
+He wahine <span id="fr_75"></span>[c](#fn_74.md) lei, maláma ia Kapo;  
+5 E Kapo nui, hala-hala <span id="fr_76"></span>[d](#fn_75.md) a i’a;  
+E Kapo nui, hala-hala <span id="fr_77"></span>[e](#fn_76.md) a mea,  
+Ka alihi <span id="fr_78"></span>[f](#fn_77.md) luna, ka alihi lalo;  
+E ka poha-kú. <span id="fr_79"></span>[g](#fn_78.md)  
 Noho ana Kapo i ka ulu wehi-wehi;  
-10 Ku ana i Moo-helaia, <span id="fr_80"></span>[h](#fn_79)  
+10 Ku ana i Moo-helaia, <span id="fr_80"></span>[h](#fn_79.md)  
 Ka ohi’a-Ku iluna, o Mauna-loa.  
-Aloha mai Kaulana-a-ula <span id="fr_81"></span>[i](#fn_80) ia’u;  
-Eia ka ula la, he ula leo, <span id="fr_82"></span>[j](#fn_81)  
+Aloha mai Kaulana-a-ula <span id="fr_81"></span>[i](#fn_80.md) ia’u;  
+Eia ka ula la, he ula leo, <span id="fr_82"></span>[j](#fn_81.md)  
 He uku, he mohai, he alana,
 
 </div>
@@ -180,7 +180,7 @@ He uku, he mohai, he alana,
 
 <span id="img_pl05"></span> <span align="CENTER"> [![PLATE V&lt;br&gt;
 TI (DRACÆNA TERMINALIS)](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE V  
 TI (DRACÆNA TERMINALIS)  
 </span>
@@ -193,19 +193,19 @@ TI (DRACÆNA TERMINALIS)
 
 15 He kanaenae na’u ia oe, e Kapo ku-lani.  
 E moe hauna-ike, e hea au, e o mai oe.  
-Aia la na lehua o Kaana, <span id="fr_83"></span>[a](#fn_82)  
+Aia la na lehua o Kaana, <span id="fr_83"></span>[a](#fn_82.md)  
 Ke kui ia mai la e na wahine a lawa  
 I lei no Kapo--  
 20 O Kapo, alii nui no ia moku,  
 Ki’e-ki’e, ha’a-ha’a;  
 Ka la o ka ike e ike aku ai:  
 He ike kumu, he ike lono,  
-He ike pu-awa <span id="fr_84"></span>[b](#fn_83) hiwa,  
+He ike pu-awa <span id="fr_84"></span>[b](#fn_83.md) hiwa,  
 25 He ike a ke Akua, e!  
 E Kapo, ho’i!  
 E hoi a noho i kou kuahu.  
 Ho’ulu ia!  
-Ela ka wai, <span id="fr_85"></span>[c](#fn_84) la,  
+Ela ka wai, <span id="fr_85"></span>[c](#fn_84.md) la,  
 30 He wai e ola.  
 E ola nou, e!
 
@@ -213,7 +213,7 @@ E ola nou, e!
 
 Verses 9 to 15, inclusive, are almost identical in form with the first
 seven verses in the Mele Kuahu addressed to Laka, given on page
-[33](ulh09.htm#page_33).
+[33](ulh09.htm#page_33.md).
 
 \[Translation\]
 
@@ -329,13 +329,13 @@ from the kuahu and exchange salutations and greetings with his friends
 in the halau.
 
 The song-prayer "Now, Kane, approach, illumine the altar" ([p.
-45](#page_45)) calls for remark. It brings up again the question,
+45](#page_45).md) calls for remark. It brings up again the question,
 previously discussed, whether there were not two distinct cults of
 worshipers, the one devoted to Laka, the other to Kapo. The following
 facts will throw light on the question. On either side of the approach
 to the altar stood, sentinel-like, a tall stem of hala-pepe, a graceful,
 slender column, its head of green sword-leaves and scarlet drupes making
-a beautiful picture. (See [p. 24](ulh07.htm#page_24).) These are said to
+a beautiful picture. (See [p. 24](ulh07.htm#page_24)..md) These are said to
 have been the special emblems of the goddess Kapo.
 
 The following account of a conversation the author had with an old
@@ -366,7 +366,7 @@ names were two."
 "Haumea was the mother of Kapo. Who was her father?"
 
 "Yes, Haumea was the mother, and Kua-ha-ilo <span
-id="fr_86"></span>[a](#fn_85) was the father."
+id="fr_86"></span>[a](#fn_85.md) was the father."
 
 "How about Laka?"
 
@@ -384,113 +384,113 @@ offspring from the eye, or as if a spirit should issue forth at some
 movement of the ear or mouth.
 
 When the old woman's scruples had been laid to rest, she repeated slowly
-for the author's benefit the pule given on pages [45](#page_45) and
-[46](#page_46), "Now, Kane, approach," \* \* \* of which the first eight
+for the author's benefit the pule given on pages [45](#page_45.md) and
+[46](#page_46.md), "Now, Kane, approach," \* \* \* of which the first eight
 lines and much of the last part, to him, were new.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_63"></span>[42:a](ulh11.htm#fr_64) *A’a-lii*. A deep-rooted
+<span id="fn_63"></span>[42:a](ulh11.htm#fr_64.md) *A’a-lii*. A deep-rooted
 tree, sacred to Laka or to Kapo.
 
-<span id="fn_64"></span>[42:b](ulh11.htm#fr_65) *Hoo-ulu*. Literally to
+<span id="fn_64"></span>[42:b](ulh11.htm#fr_65.md) *Hoo-ulu*. Literally to
 make grow; secondarily, to inspire, to prosper, to bring good luck. This
 is the meaning most in mind in modern times, since the hula has become a
 commercial venture.
 
-<span id="fn_65"></span>[42:c](ulh11.htm#fr_66) *Ki-ele*. A flowering
+<span id="fn_65"></span>[42:c](ulh11.htm#fr_66.md) *Ki-ele*. A flowering
 plant native to the Hawaiian woods, also cultivated, sacred to Laka, and
 perhaps to Kapo. The leaves are said to be pointed and curved like the
 beak of the bird *i-iwi*, and the flower has the gorgeous yellow-red
 color of that bird.
 
-<span id="fn_66"></span>[42:d](ulh11.htm#fr_67) It has been proposed to
+<span id="fn_66"></span>[42:d](ulh11.htm#fr_67.md) It has been proposed to
 amend this verse by substituting *akua* for *ku’i*, thus making the idea
 the gods of the hula.
 
-<span id="fn_67"></span>[42:e](ulh11.htm#fr_68) *Ha’i-ka-malama*. An
+<span id="fn_67"></span>[42:e](ulh11.htm#fr_68.md) *Ha’i-ka-malama*. An
 epithet applied to Laka.
 
-<span id="fn_68"></span>[42:f](ulh11.htm#fr_69) *Kina’u*. Said to mean
+<span id="fn_68"></span>[42:f](ulh11.htm#fr_69.md) *Kina’u*. Said to mean
 Hiiaka, the sister of Pele.
 
-<span id="fn_69"></span>[42:g](ulh11.htm#fr_70) *Kapo ula*. Red, *ula*,
+<span id="fn_69"></span>[42:g](ulh11.htm#fr_70.md) *Kapo ula*. Red, *ula*,
 was the favorite color of Kapo. The *kahuna anaana*, high priests of
 sorcery, of the black art, and of murder, to whom Kapo was at times
 procuress, made themselves known as such by the display of a red flag
 and the wearing of a red malo.
 
-<span id="fn_70"></span>[43:a](ulh11.htm#fr_71) *Lea*. The same as Laia,
+<span id="fn_70"></span>[43:a](ulh11.htm#fr_71.md) *Lea*. The same as Laia,
 or probably Haumea.
 
-<span id="fn_71"></span>[43:b](ulh11.htm#fr_72) *Wahie loa*. This must
+<span id="fn_71"></span>[43:b](ulh11.htm#fr_72.md) *Wahie loa*. This must
 be a mistake. Laka the son of Wahie-loa was a great voyager. His canoe
 (*kau-méli-éli*) was built for him by the gods. In it he sailed to the
 South to rescue his father's bones from the witch who had murdered him.
 This Laka had his home at Kipahulu, Maui, and is not to be confounded
 with Laka, goddess of the hula.
 
-<span id="fn_72"></span>[44:a](ulh11.htm#fr_73) *Maláma*. Accented on
+<span id="fn_72"></span>[44:a](ulh11.htm#fr_73.md) *Maláma*. Accented on
 the penult, as here, the word means to enlighten or a light (same in
 second verse). In the third and fourth verses the accent is changed to
 the first syllable, and the word here means to preserve, to foster.
 These words furnish an example of poetical word-repetition.
 
-<span id="fn_73"></span>[44:b](ulh11.htm#fr_74) *Onioni*. To squirm, to
+<span id="fn_73"></span>[44:b](ulh11.htm#fr_74.md) *Onioni*. To squirm, to
 dodge, to move. The meaning here seems to be to move with delight.
 
-<span id="fn_74"></span>[44:c](ulh11.htm#fr_75) *Wahine lei*. A
+<span id="fn_74"></span>[44:c](ulh11.htm#fr_75.md) *Wahine lei*. A
 reference to *Laka*, the child of Kapo, who was symbolized by a block of
-wood on the altar. (See [p. 23](ulh07.htm#page_23).)
+wood on the altar. (See [p. 23](ulh07.htm#page_23)..md)
 
-<span id="fn_75"></span>[44:d](ulh11.htm#fr_76) *Hala-hala a i’a*. Said
+<span id="fn_75"></span>[44:d](ulh11.htm#fr_76.md) *Hala-hala a i’a*. Said
 to he a certain kind of fish that was ornamented about its tail-end with
 a band of bright color; therefore an object of admiration and desire.
 
-<span id="fn_76"></span>[44:e](ulh11.htm#fr_77) *Hala-hala a mea*. The
+<span id="fn_76"></span>[44:e](ulh11.htm#fr_77.md) *Hala-hala a mea*. The
 ending *mea* is perhaps taken from the last half of the proper name
 *Hau-mea* who was Kapo's mother. It belongs to the land, in contrast to
 the sea, and seems to be intended to intensify and extend the meaning of
 the term previously used. The passage is difficult. Expert Hawaiians
 profess their inability to fathom its meaning.
 
-<span id="fn_77"></span>[44:f](ulh11.htm#fr_78) *Alihi luna*. The line
+<span id="fn_77"></span>[44:f](ulh11.htm#fr_78.md) *Alihi luna*. The line
 or "stretching cord," that runs the length of a net at its top, the *a
 lalo* being the corresponding line at the bottom of the net. The exact
 significance of the language complimentary to Kapo can not be phrased
 compactly.
 
-<span id="fn_78"></span>[44:g](ulh11.htm#fr_79) *Poha-kú*. The line that
+<span id="fn_78"></span>[44:g](ulh11.htm#fr_79.md) *Poha-kú*. The line that
 runs up and down at the end of a long net, by which it may be anchored.
 
-<span id="fn_79"></span>[44:h](ulh11.htm#fr_80) *Moo-helaia*. See note
-a, [p. 33](ulh09.htm#page_33).
+<span id="fn_79"></span>[44:h](ulh11.htm#fr_80.md) *Moo-helaia*. See note
+a, [p. 33](ulh09.htm#page_33.md).
 
-<span id="fn_80"></span>[44:i](ulh11.htm#fr_81) *Kaulana-a-ula*. See
-note d, [p. 33](ulh09.htm#page_33).
+<span id="fn_80"></span>[44:i](ulh11.htm#fr_81.md) *Kaulana-a-ula*. See
+note d, [p. 33](ulh09.htm#page_33.md).
 
-<span id="fn_81"></span>[44:j](ulh11.htm#fr_82) *Ula leo*. See note c,
-[p. 33](ulh09.htm#page_33).
+<span id="fn_81"></span>[44:j](ulh11.htm#fr_82.md) *Ula leo*. See note c,
+[p. 33](ulh09.htm#page_33.md).
 
-<span id="fn_82"></span>[45:a](ulh11.htm#fr_83) *Kaana*. A place on
+<span id="fn_82"></span>[45:a](ulh11.htm#fr_83.md) *Kaana*. A place on
 Mauna-loa, Molokai, where the lehua greatly flourished. The body of
 Kapo, it is said, now lies there in appearance a rock. The same claim is
 made for a rock at Wailua, Hana, Maui.
 
-<span id="fn_83"></span>[45:b](ulh11.htm#fr_84) *Pu-awa hiwa* (*hiwa*,
+<span id="fn_83"></span>[45:b](ulh11.htm#fr_84.md) *Pu-awa hiwa* (*hiwa*,
 black). A kind of strong awa. The gentle exhilaration, as well a the
 deep sleep, of awa were benefits ascribed to the gods. Awa was an
 essential to most complete sacrifices.
 
-<span id="fn_84"></span>[45:c](ulh11.htm#fr_85) *Wai*. Literally water,
+<span id="fn_84"></span>[45:c](ulh11.htm#fr_85.md) *Wai*. Literally water,
 refers to the bowl of awa, replenished each day, which set on the altar
 of the goddess.
 
-<span id="fn_85"></span>[47:a](ulh11.htm#fr_86) *Kua-ha-ilo*. A god of
+<span id="fn_85"></span>[47:a](ulh11.htm#fr_86.md) *Kua-ha-ilo*. A god of
 the *kahuna anaana*; meaning literally to breed maggots in the back.
 
 ------------------------------------------------------------------------
 
-[Next: VIII.--Costume of the Hula Dancer](ulh12)
+[Next: VIII.--Costume of the Hula Dancer](ulh12.md)

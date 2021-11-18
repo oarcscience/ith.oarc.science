@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd19)  [Next](smd21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd19)  [Next](smd21.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ sea-monster Iormungandr.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Friday--The Day of Freya](smd21)
+[Next: Chapter XIX. Friday--The Day of Freya](smd21.md)

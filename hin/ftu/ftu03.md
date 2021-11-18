@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ftu02)  [Next](ftu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ftu02)  [Next](ftu04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_hin.jpg)](index)  
+[![](../img/tn_hin.jpg)](index.md)  
 *From the Upanishads*, by Charles Johnston, \[1899\], at Intangible
 Textual Heritage
 
@@ -136,4 +136,4 @@ CHARLES JOHNSTON.
 
 ------------------------------------------------------------------------
 
-[Next: I. In the House of Death. The First Part](ftu04)
+[Next: I. In the House of Death. The First Part](ftu04.md)

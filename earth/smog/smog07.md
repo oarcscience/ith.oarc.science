@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](smog06)  [Next](smog08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](smog06)  [Next](smog08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Smoky God*, by Willis George Emerson, \[1908\], at Intangible
 Textual Heritage
 
@@ -68,7 +68,7 @@ toward the North Pole. And while these currents seemingly dash off into
 space at the earth's curve or edge, yet they drop again to the "inside"
 surface and continue their way southward along the inside of the earth's
 crust, toward the opening of the so-called South Pole. <span
-id="fr_23"></span>[1](#fn_23)
+id="fr_23"></span>[1](#fn_23.md)
 
 As to gravity, no one knows what it is, because it has not been
 determined
@@ -137,7 +137,7 @@ vast floral meadows "within" that
 <span id="page_181">p. 181</span>
 
 produce the colored snows of the Arctic regions that have so mystified
-the northern explorers. <span id="fr_24"></span>[1](#fn_24)
+the northern explorers. <span id="fr_24"></span>[1](#fn_24.md)
 
 Beyond question, this new land
 
@@ -177,7 +177,7 @@ do I conclude my message.
 
 ### Footnotes
 
-<span id="fn_23"></span>[176:1](smog07.htm#fr_23) *"Mr. Lemstrom
+<span id="fn_23"></span>[176:1](smog07.htm#fr_23.md) *"Mr. Lemstrom
 concluded that an electric discharge which could only be seen by means
 of the spectroscope was taking place on the surface of the ground all
 around him, and that from a distance it would appear as a faint display
@@ -185,7 +185,7 @@ of Aurora, the phenomena of pale and flaming light which is some times
 seen on the top of the Spitzbergen Mountains."—The Arctic Manual, page*
 739.
 
-<span id="fn_24"></span>[181:1](smog07.htm#fr_24) *Kane, vol. I, page*
+<span id="fn_24"></span>[181:1](smog07.htm#fr_24.md) *Kane, vol. I, page*
 44, *says: "We passed the 'crimson cliffs' of Sir John Ross in the
 forenoon of August* 5*th. The patches of red snow from which they derive
 their name could be seen clearly at the distance of ten miles from the
@@ -200,4 +200,4 @@ had already remarked this."*
 
 ------------------------------------------------------------------------
 
-[Next: Part Seven: Author's Afterword](smog08)
+[Next: Part Seven: Author's Afterword](smog08.md)

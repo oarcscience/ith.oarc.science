@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj09)  [Next](chj11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj09)  [Next](chj11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ Apostle St. Thomas with the valley of the Indus. The legend has
 undoubtedly been much embellished by later additions, but competent
 scholars have concluded that it is quite possible that it may rest on a
 substratum of fact. Let us examine the story. <span
-id="fr_103"></span>[1](#fn_102)
+id="fr_103"></span>[1](#fn_102.md)
 
 Eleven of the original Apostles (Matthias is not mentioned) are supposed
 to have been together in Jerusalem.
@@ -53,7 +53,7 @@ portioned out the regions of the world in order that each one of us
 might go into the region that fell to him, and to the nation to which
 the Lord sent him." They then proceeded to cast lots, a procedure quite
 in accordance with what we know from the Acts, and "by lot, then, India
-fell to Judas Thomas, <span id="fr_104"></span>[1](#fn_103) also called
+fell to Judas Thomas, <span id="fr_104"></span>[1](#fn_103.md) also called
 Didymus or the Twin."
 
 But Thomas did not wish to go. He pleaded "the weakness of the flesh,"
@@ -131,7 +131,7 @@ of St. Thomas; and the so-called Christians of St. Thomas can be traced,
 not certainly to Apostolic times, but to a period of great antiquity. In
 A.D. 78 there is a Pallava king reigning at Mailapûr and its
 neighbourhood, and Ceylon tells of another king, named
-Shálivahana, <span id="fr_105"></span>[1](#fn_104) who was a
+Shálivahana, <span id="fr_105"></span>[1](#fn_104.md) who was a
 *Takshakaputra*, "son of a carpenter," *i.e.* a Christian—a follower of
 Christ, or a follower of Thomas the Carpenter. The phrase is a Gnostic
 one; at some later time I shall show traces of a Gnostic connection
@@ -150,13 +150,13 @@ the ancient legend.
 
 ### Footnotes
 
-<span id="fn_102"></span>[71:1](chj10.htm#fr_103) "Acts of the Holy
+<span id="fn_102"></span>[71:1](chj10.htm#fr_103.md) "Acts of the Holy
 Apostle Thomas" in "Ante-Nicene Fathers," vol. viii. p. 535.
 
-<span id="fn_103"></span>[72:1](chj10.htm#fr_104) *Cf*. Eusebius, "Ecc.
+<span id="fn_103"></span>[72:1](chj10.htm#fr_104.md) *Cf*. Eusebius, "Ecc.
 Hist.," i. 13.
 
-<span id="fn_104"></span>[74:1](chj10.htm#fr_105) *J.R.A.S*, vol. xvii.
+<span id="fn_104"></span>[74:1](chj10.htm#fr_105.md) *J.R.A.S*, vol. xvii.
 The Pallavas, or Parthians, seem to have carried on an extensive
 commerce both with the West and the East. It seems probable that
 Gondopharus and Vasdeo were both Parthians and if so, the Pallava king
@@ -164,4 +164,4 @@ at Mailapûr may have been Vasdeo.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Call from China](chj11)
+[Next: Chapter IX. The Call from China](chj11.md)

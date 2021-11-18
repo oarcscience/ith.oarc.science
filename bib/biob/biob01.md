@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](biob00)  [Next](biob02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](biob00)  [Next](biob02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Biography of the Bible*, by Ernest Sutherland Bates, \[1937\], at
 Intangible Textual Heritage
 
@@ -158,25 +158,25 @@ The Bible and the Jews; the Bible and the world; the Bible in America; the prese
 
 |                                                                                                                           |                             |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------|
-| facing page Codex Vaticanus—The oldest complete manuscript of the New Testament (fourth century)                          | [24](biob03.htm#img_02400)  |
-| Codex Sinaiticus (fourth-century manuscript)                                                                              | [25](biob03.htm#img_02500)  |
-| Codex Alexandrinus (fifth-century manuscript), sent by Cyril Lucar, Patriarch of Alexandria, to King Charles I of England | [40](biob03.htm#img_04000)  |
-| Fourteenth-century manuscript of the Wyclif Bible                                                                         | [41](biob03.htm#img_04100)  |
-| Characteristic page from the Gutenberg Bible (1450–55)                                                                    | [76](biob05.htm#img_07600)  |
-| Title page of the Coverdale Bible (1535)                                                                                  | [77](biob05.htm#img_07700)  |
-| Title page of Tyndale's New Testament (1535)                                                                              | [84](biob05.htm#img_08400)  |
-| Title page of the Matthew Bible (1537)                                                                                    | [85](biob05.htm#img_08500)  |
-| Title page of the Great Bible (1539)                                                                                      | [104](biob06.htm#img_10400) |
-| Title page of the Douai Bible (1609)                                                                                      | [105](biob06.htm#img_10500) |
-| Original woodcut title page of the King James version (1611)                                                              | [120](biob06.htm#img_12000) |
-| Original engraved title page used at the beginning of the New Testament in the King James version                         | [121](biob06.htm#img_12100) |
-| Perpetual Easter Calendar from the King James version                                                                     | [152](biob08.htm#img_15200) |
-| The generations of Adam in the King James version                                                                         | [153](biob08.htm#img_15300) |
-| The generations of Noah in the King James version                                                                         | [168](biob08.htm#img_16800) |
-| Title page of John Eliot's Indian Bible (1663)                                                                            | [169](biob08.htm#img_16900) |
+| facing page Codex Vaticanus—The oldest complete manuscript of the New Testament (fourth century)                          | [24](biob03.htm#img_02400.md)  |
+| Codex Sinaiticus (fourth-century manuscript)                                                                              | [25](biob03.htm#img_02500.md)  |
+| Codex Alexandrinus (fifth-century manuscript), sent by Cyril Lucar, Patriarch of Alexandria, to King Charles I of England | [40](biob03.htm#img_04000.md)  |
+| Fourteenth-century manuscript of the Wyclif Bible                                                                         | [41](biob03.htm#img_04100.md)  |
+| Characteristic page from the Gutenberg Bible (1450–55)                                                                    | [76](biob05.htm#img_07600.md)  |
+| Title page of the Coverdale Bible (1535)                                                                                  | [77](biob05.htm#img_07700.md)  |
+| Title page of Tyndale's New Testament (1535)                                                                              | [84](biob05.htm#img_08400.md)  |
+| Title page of the Matthew Bible (1537)                                                                                    | [85](biob05.htm#img_08500.md)  |
+| Title page of the Great Bible (1539)                                                                                      | [104](biob06.htm#img_10400.md) |
+| Title page of the Douai Bible (1609)                                                                                      | [105](biob06.htm#img_10500.md) |
+| Original woodcut title page of the King James version (1611)                                                              | [120](biob06.htm#img_12000.md) |
+| Original engraved title page used at the beginning of the New Testament in the King James version                         | [121](biob06.htm#img_12100.md) |
+| Perpetual Easter Calendar from the King James version                                                                     | [152](biob08.htm#img_15200.md) |
+| The generations of Adam in the King James version                                                                         | [153](biob08.htm#img_15300.md) |
+| The generations of Noah in the King James version                                                                         | [168](biob08.htm#img_16800.md) |
+| Title page of John Eliot's Indian Bible (1663)                                                                            | [169](biob08.htm#img_16900.md) |
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Next: One. General Character](biob02)
+[Next: One. General Character](biob02.md)

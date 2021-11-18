@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt25)  [Next](egt27) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt25)  [Next](egt27.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ when reduced to a single strand.
 
 ------------------------------------------------------------------------
 
-[Next: ON BEING SILENT.](egt27)
+[Next: ON BEING SILENT.](egt27.md)

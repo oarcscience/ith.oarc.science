@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Volume II](hroiv2)
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Volume II](hroiv2.md)
 
 ------------------------------------------------------------------------
 

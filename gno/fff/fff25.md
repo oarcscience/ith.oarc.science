@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff24)  [Next](fff26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff24)  [Next](fff26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ ascended to the Middle Region below her Mother (the *Universal* Mother),
 who formed the boundary of the Ideal Universe.
 
 By her mere contact with the Space-Waters she had
-[already](errata.htm#26) generated a son, the chief Creative Power of
+[already](errata.htm#26.md) generated a son, the chief Creative Power of
 the Sensible World, who retained some of the
 
 <span id="page_189">p. 189</span>
@@ -161,4 +161,4 @@ the Chaldæan tradition.
 
 ------------------------------------------------------------------------
 
-[Next: An Early ''Ophite'' System](fff26)
+[Next: An Early ''Ophite'' System](fff26.md)

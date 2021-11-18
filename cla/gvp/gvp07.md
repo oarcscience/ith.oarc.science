@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp06)  [Next](gvp08) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp06)  [Next](gvp08.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ of no use.
 advantageous.
 
 3\. Flighty men, like empty vessels, are easily laid hold of by the
-ears. <span id="fr_2"></span>[1](#fn_2)
+ears. <span id="fr_2"></span>[1](#fn_2.md)
 
 4\. Life, like a musical instrument, being harmonized by remission and
 intention, becomes more agreeable.
@@ -56,7 +56,7 @@ advantageous than severe chastisements.
 oppose his weight to fortune, when acting the part of an antagonist.
 
 17\. The possession of self-sufficiency, <span
-id="fr_3"></span>[1](#fn_3) like a short and pleasant road, has much
+id="fr_3"></span>[1](#fn_3.md) like a short and pleasant road, has much
 grace and but little labour.
 
 18\. Restive horses are led by the bridle, but irritable minds, by
@@ -68,7 +68,7 @@ reasoning.
 accompanied with but little pain.
 
 21\. Garments reaching to the feet impede the body <span
-id="fr_4"></span>[2](#fn_4); and immoderate riches, the soul.
+id="fr_4"></span>[2](#fn_4.md); and immoderate riches, the soul.
 
 22\. To those who run in the stadium, the reward of victory is in the
 end of the race;
@@ -199,14 +199,14 @@ Asclepiades, here finish the curations of life.
 
 ### Footnotes
 
-<span id="fn_2"></span>[37:1](gvp07.htm#fr_2) The handle of a vessel was
+<span id="fn_2"></span>[37:1](gvp07.htm#fr_2.md) The handle of a vessel was
 called an ear by the Greeks.
 
-<span id="fn_3"></span>[39:1](gvp07.htm#fr_3) Self-sufficiency must not
+<span id="fn_3"></span>[39:1](gvp07.htm#fr_3.md) Self-sufficiency must not
 be considered in the vulgar sense, as consummate arrogance; but as the
 internal possession of everything requisite to felicity.
 
-<span id="fn_4"></span>[39:2](gvp07.htm#fr_4) Long garments or robes,
+<span id="fn_4"></span>[39:2](gvp07.htm#fr_4.md) Long garments or robes,
 both by ancients and moderns, have always been worn as marks of
 distinction; consequently, like riches, they are among the objects of
 desire; and although not so extensively pernicious, yet the philosopher
@@ -216,4 +216,4 @@ the greatest caution.
 
 ------------------------------------------------------------------------
 
-[Next: Pythagorean Ethical Sentences from Stobæus](gvp08)
+[Next: Pythagorean Ethical Sentences from Stobæus](gvp08.md)

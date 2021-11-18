@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon18)  [Next](oon20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon18)  [Next](oon20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -63,10 +63,10 @@ the river-Minster.
 Century I.--*Quatrain* 76. \[I. 206.\]
 
 D'un nom farouche tel proferé sera,  
-Que les trois seurs <span id="fr_305"></span>[1](#fn_304) auront
-fato <span id="fr_306"></span>[2](#fn_305) le nom;  
+Que les trois seurs <span id="fr_305"></span>[1](#fn_304.md) auront
+fato <span id="fr_306"></span>[2](#fn_305.md) le nom;  
 Puis grand peuple par langue et faict dira, <span
-id="fr_307"></span>[3](#fn_306)  
+id="fr_307"></span>[3](#fn_306.md)  
 Plus que nul autre aura bruit et renom.
 
 Translation.
@@ -113,9 +113,9 @@ Bloomsbury and its affiliations?
 Century IX.--*Quatrain* 33. \[I. 208.\]
 
 Hercules Roy de Rome et D'annemarc, <span
-id="fr_308"></span>[1](#fn_307)  
-De Gaule trois Guion <span id="fr_309"></span>[2](#fn_308) surnommé,  
-Trembler l'Italie et l'unde <span id="fr_310"></span>[3](#fn_309) de
+id="fr_308"></span>[1](#fn_307.md)  
+De Gaule trois Guion <span id="fr_309"></span>[2](#fn_308.md) surnommé,  
+Trembler l'Italie et l'unde <span id="fr_310"></span>[3](#fn_309.md) de
 Sainct Marc,  
 Premier sur tons monarque renommé.
 
@@ -150,7 +150,7 @@ character more analogous to that, than to any other type known to them.
 Taine finds him to be a Sforza or a Malatesta born belated by three
 centuries. He is as unscrupulous, searching, and ambitious as
 Macchiavelli; and, curiously enough, the only book <span
-id="fr_311"></span>[1](#fn_310) he is known to have ever annotated
+id="fr_311"></span>[1](#fn_310.md) he is known to have ever annotated
 profusely is
 
 <span id="page_254">p. 254</span>
@@ -205,12 +205,12 @@ elucidation.
 Century VIII.--*Quatrain* 61. \[I. 209.\]
 
 Jamais par le descouvrement du jour  
-Ne parviendra an signe <span id="fr_312"></span>[1](#fn_311)
-sceptrifere <span id="fr_313"></span>[2](#fn_312)  
-Que tout ses sieges <span id="fr_314"></span>[3](#fn_313) ne soyent en
-sejour, <span id="fr_315"></span>[4](#fn_314)  
-Portant au coq don du TAG <span id="fr_316"></span>[5](#fn_315)
-armifere. <span id="fr_317"></span>[6](#fn_316)
+Ne parviendra an signe <span id="fr_312"></span>[1](#fn_311.md)
+sceptrifere <span id="fr_313"></span>[2](#fn_312.md)  
+Que tout ses sieges <span id="fr_314"></span>[3](#fn_313.md) ne soyent en
+sejour, <span id="fr_315"></span>[4](#fn_314.md)  
+Portant au coq don du TAG <span id="fr_316"></span>[5](#fn_315.md)
+armifere. <span id="fr_317"></span>[6](#fn_316.md)
 
 <span id="page_256">p. 256</span>
 
@@ -250,7 +250,7 @@ Translation.
 The great swarm of bees shall rise,  
 That none can tell from whence they came.<span id="page_257">p.
 257</span>  
-Night's ambush. The jay <span id="fr_318"></span>[1](#fn_317) beneath
+Night's ambush. The jay <span id="fr_318"></span>[1](#fn_317.md) beneath
 the tiles.  
 City betrayed by five tongues not naked.
 
@@ -309,11 +309,11 @@ but never a hand amongst them to furnish help at need.
 Century VII.--Quatrain 13. \[I. 213.\]
 
 De la cité marine et tributaire  
-La teste rase <span id="fr_319"></span>[1](#fn_318) prendra la
+La teste rase <span id="fr_319"></span>[1](#fn_318.md) prendra la
 satrapie:  
-Chasser sordide <span id="fr_320"></span>[2](#fn_319) qui puis <span
-id="fr_321"></span>[3](#fn_320) sera contraire;  
-Par <span id="fr_322"></span>[4](#fn_321) quatorze ans tiendra la
+Chasser sordide <span id="fr_320"></span>[2](#fn_319.md) qui puis <span
+id="fr_321"></span>[3](#fn_320.md) sera contraire;  
+Par <span id="fr_322"></span>[4](#fn_321.md) quatorze ans tiendra la
 tyrannie.
 
  
@@ -331,7 +331,7 @@ The English had seized Toulon in the name of Louis XVII., and held it a
 few months till Bonaparte retook it. He overturned the Directory
 (*sordide*), and suppressed its partisans with the Republic, and enjoyed
 the tyranny for fourteen years, from 18th Brumaire, November 9, 1799, to
-April 13, 1814. We have already seen ([p. 238](oon17.htm#page_238)) that
+April 13, 1814. We have already seen ([p. 238](oon17.htm#page_238).md) that
 the *cité marine* is Toulon. Garencières fancies this to have been
 fulfilled when Richelieu made himself governor of *Havre de Grace*,
 where he kept his treasure and tyrannized for about fourteen years.
@@ -341,7 +341,7 @@ Century VIII.--*Quatrain* 57. \[I. 214.\]
 De soldat simple parviendra en empire,  
 De robbe courte parviendra à la longue:  
 Vaillant aux armes, en Eglise, où plus pire,  
-Vexer <span id="fr_323"></span>[1](#fn_322) les prestres comme l'eau
+Vexer <span id="fr_323"></span>[1](#fn_322.md) les prestres comme l'eau
 fait l'esponge.
 
 Translation.
@@ -383,7 +383,7 @@ which would represent the Empire, but of fourteen, which regards the
 consulship and empire as one period. If we take Cromwell's protectorate,
 however, from the death of Charles I. to the death of Cromwell, the term
 will correspond with Napoleon's imperial career. But the
-[interregnum](errata.htm#3) in England was a period of twelve years, and
+[interregnum](errata.htm#3.md) in England was a period of twelve years, and
 that in France under Napoleon was of fourteen (*quatorze ans*); hence
 this quatrain must not be applied to Cromwell, though it in other
 respects is as true of him as of Napoleon.
@@ -403,11 +403,11 @@ squeezing out a sponge.
 Century II.--*Quatrain* 69. \[I. 215.\]
 
 Le Roy Gaulois par la Celtique dextre, <span
-id="fr_324"></span>[1](#fn_323)  
-Voyant discorde <span id="fr_325"></span>[2](#fn_324) de la grand
+id="fr_324"></span>[1](#fn_323.md)  
+Voyant discorde <span id="fr_325"></span>[2](#fn_324.md) de la grand
 Monarchie,  
 Sur les trois parts fera florir son sceptre,  
-Centre la Cappe <span id="fr_326"></span>[3](#fn_325) de la grand
+Centre la Cappe <span id="fr_326"></span>[3](#fn_325.md) de la grand
 Hierarchie.
 
 Translation.
@@ -438,9 +438,9 @@ Century I.--*Quatrain* 88. \[I. 216.\]
 
 Le divin mal surprendra le grand Prince,  
 Un pen devant aura femme espousée: <span
-id="fr_327"></span>[1](#fn_326)  
-Son appuy et credit à un coup <span id="fr_328"></span>[2](#fn_327)
-viendra mince, <span id="fr_329"></span>[3](#fn_328)  
+id="fr_327"></span>[1](#fn_326.md)  
+Son appuy et credit à un coup <span id="fr_328"></span>[2](#fn_327.md)
+viendra mince, <span id="fr_329"></span>[3](#fn_328.md)  
 Conseil mourra pour la teste rasée.
 
 Translation.
@@ -504,9 +504,9 @@ though the good live after.
 
 Century I.--Quatrain 4. \[I. 127.\]
 
-Par <span id="fr_330"></span>[1](#fn_329) l'univers sera faict un
+Par <span id="fr_330"></span>[1](#fn_329.md) l'univers sera faict un
 monarque  
-Qu'en <span id="fr_331"></span>[2](#fn_330) paix et vie ne sera
+Qu'en <span id="fr_331"></span>[2](#fn_330.md) paix et vie ne sera
 longuement:  
 Lors se perdra la piscature barque,  
 Sera regie en plus grand detriment.
@@ -537,12 +537,12 @@ Pope Clement VII. was made a prisoner (*vide* Garencières, "Tiber," p.
 Century V.--*Quatrain* 60. \[I. 218.\]
 
 Par teste rase viendra bien mal eslire,  
-Plus clue sa charge ne porte <span id="fr_332"></span>[1](#fn_331)
+Plus clue sa charge ne porte <span id="fr_332"></span>[1](#fn_331.md)
 passera;  
-Si grande <span id="fr_333"></span>[2](#fn_332) fureur et rage fera
+Si grande <span id="fr_333"></span>[2](#fn_332.md) fureur et rage fera
 dire  
 Qu'à feu et sang tout sexe tranchera. <span
-id="fr_334"></span>[3](#fn_333)
+id="fr_334"></span>[3](#fn_333.md)
 
 Translation.
 
@@ -558,8 +558,8 @@ afforded by the translation.
 Century IV.--Quatrain 82. \[I. 219.\]
 
 Amas s'approche venant d'Esclavonie, <span
-id="fr_335"></span>[4](#fn_334)  
-L'Olestant <span id="fr_336"></span>[5](#fn_335) vieux cité ruynera,  
+id="fr_335"></span>[4](#fn_334.md)  
+L'Olestant <span id="fr_336"></span>[5](#fn_335.md) vieux cité ruynera,  
 Fort desolée verra sa Romanie,  
 Puis grande flamme esteindre ne scaura.
 
@@ -582,13 +582,13 @@ wintering there, and it settled the fate of the campaign.
 
 Century II.--*Quatrain* 44. \[I. 220.\]
 
-L'aigle poussée <span id="fr_337"></span>[1](#fn_336) entour <span
-id="fr_338"></span>[2](#fn_337) de pavillions,  
-Par autres oyseaux d'entour <span id="fr_339"></span>[3](#fn_338) sera
+L'aigle poussée <span id="fr_337"></span>[1](#fn_336.md) entour <span
+id="fr_338"></span>[2](#fn_337.md) de pavillions,  
+Par autres oyseaux d'entour <span id="fr_339"></span>[3](#fn_338.md) sera
 chassée,  
-Quand bruit des cymbres <span id="fr_340"></span>[4](#fn_339)
-tube, <span id="fr_341"></span>[5](#fn_340) et sonnaillons <span
-id="fr_342"></span>[6](#fn_341)  
+Quand bruit des cymbres <span id="fr_340"></span>[4](#fn_339.md)
+tube, <span id="fr_341"></span>[5](#fn_340.md) et sonnaillons <span
+id="fr_342"></span>[6](#fn_341.md)  
 Rendront le sens de la dame insensée.
 
 Translation.
@@ -612,11 +612,11 @@ trumpets, and bells."
 Century X.--*Quatrain* 86. \[I. 221.\]
 
 Comme un gryphon viendra le Roy d'Europe,  
-Accompagné de ceux d'Aquilon, <span id="fr_343"></span>[7](#fn_342)
+Accompagné de ceux d'Aquilon, <span id="fr_343"></span>[7](#fn_342.md)
 <span id="page_267">p. 267</span>  
-De rouges et blancs conduira grand <span id="fr_344"></span>[1](#fn_343)
+De rouges et blancs conduira grand <span id="fr_344"></span>[1](#fn_343.md)
 troupe,  
-Et iront contre <span id="fr_345"></span>[2](#fn_344) le Roy de Babylon.
+Et iront contre <span id="fr_345"></span>[2](#fn_344.md) le Roy de Babylon.
 
 Translation.
 
@@ -654,14 +654,14 @@ like other overshooting, and misses the mark entirely.
 
 Century VI.--*Quatrain* 89. \[I. 222.\]
 
-Entre deux cymbes <span id="fr_346"></span>[1](#fn_345) pieds et mains
+Entre deux cymbes <span id="fr_346"></span>[1](#fn_345.md) pieds et mains
 attachés  
 De miel face oingt et de laict substanté,  
-Guespes et mouches, fitine, <span id="fr_347"></span>[2](#fn_346) amour,
+Guespes et mouches, fitine, <span id="fr_347"></span>[2](#fn_346.md) amour,
 fachés,  
-Poccilateur <span id="fr_348"></span>[3](#fn_347) faucet <span
-id="fr_349"></span>[4](#fn_348) Cyphe <span
-id="fr_350"></span>[5](#fn_349) tenté.
+Poccilateur <span id="fr_348"></span>[3](#fn_347.md) faucet <span
+id="fr_349"></span>[4](#fn_348.md) Cyphe <span
+id="fr_350"></span>[5](#fn_349.md) tenté.
 
 <span id="page_269">p. 269</span>
 
@@ -772,14 +772,14 @@ offered to betray and break.
 
 Century X.--*Quatrain* 24. \[I. 227.\]
 
-Le captif prince aux Itales <span id="fr_351"></span>[1](#fn_350)
+Le captif prince aux Itales <span id="fr_351"></span>[1](#fn_350.md)
 vaincu  
-Passera Gennes par mer <span id="fr_352"></span>[2](#fn_351) jusqu'a
+Passera Gennes par mer <span id="fr_352"></span>[2](#fn_351.md) jusqu'a
 Marseille,  
-Par grand effort des forains <span id="fr_353"></span>[3](#fn_352)
+Par grand effort des forains <span id="fr_353"></span>[3](#fn_352.md)
 survaincu,  
-Sauf <span id="fr_354"></span>[4](#fn_353) coup de feu, <span
-id="fr_355"></span>[5](#fn_354) barril liqueur d'abeille.
+Sauf <span id="fr_354"></span>[4](#fn_353.md) coup de feu, <span
+id="fr_355"></span>[5](#fn_354.md) barril liqueur d'abeille.
 
 Translation.
 
@@ -801,13 +801,13 @@ honey flows freely,--the life-blood of his bees.
 
 Century II.--*Quatrain* 70.
 
-Le dard du ciel <span id="fr_356"></span>[6](#fn_355) fera <span
-id="fr_357"></span>[7](#fn_356) son estandue, <span
-id="fr_358"></span>[8](#fn_357)  
+Le dard du ciel <span id="fr_356"></span>[6](#fn_355.md) fera <span
+id="fr_357"></span>[7](#fn_356.md) son estandue, <span
+id="fr_358"></span>[8](#fn_357.md)  
 Morts en parlant, grande execution.<span id="page_273">p. 273</span>  
 La pierre en l'arbre, la fiere gent <span
-id="fr_359"></span>[1](#fn_358) rendue,  
-Bruit humain monstre <span id="fr_360"></span>[2](#fn_359) purge
+id="fr_359"></span>[1](#fn_358.md) rendue,  
+Bruit humain monstre <span id="fr_360"></span>[2](#fn_359.md) purge
 expiation.
 
 The third and fourth lines will neither of them scan. *La fiere genit*
@@ -825,9 +825,9 @@ The stone is in the tree, the proud nation yields,
 The monster purges his human fame by expiation.
 
 The thunderbolt from heaven shall strike down his standard, and he fails
-or dies <span id="fr_361"></span>[3](#fn_360) uttering haughty words.
+or dies <span id="fr_361"></span>[3](#fn_360.md) uttering haughty words.
 There is terrible execution done. The stone <span
-id="fr_362"></span>[4](#fn_361) is in the tree. The proud nation yields.
+id="fr_362"></span>[4](#fn_361.md) is in the tree. The proud nation yields.
 The hero purges by expiation his human renown.
 
 In spite of all these doubts interposed, this yields us a quatrain of a
@@ -858,8 +858,8 @@ Century IX.--*Quatrain* 86. \[I. 230.\]
 Du Bourg la reyne parviêdront droit à Chartres,  
 Et feront près du pont Anthoni pause:  
 Sept pour la paix cauteleux comme martres,  
-Feront entrée <span id="fr_363"></span>[1](#fn_362) d'armée à Paris
-clause. <span id="fr_364"></span>[2](#fn_363)
+Feront entrée <span id="fr_363"></span>[1](#fn_362.md) d'armée à Paris
+clause. <span id="fr_364"></span>[2](#fn_363.md)
 
 Translation.
 
@@ -908,14 +908,14 @@ clear qt once.
 
 Century II.--*Quatrain* 67. \[I. 232.\]
 
-Le blonde au nez forche <span id="fr_365"></span>[1](#fn_364) viendra
-commettre <span id="fr_366"></span>[2](#fn_365)  
-Par <span id="fr_367"></span>[3](#fn_366) la duelle <span
-id="fr_368"></span>[4](#fn_367) et chassera dehors:<span
+Le blonde au nez forche <span id="fr_365"></span>[1](#fn_364.md) viendra
+commettre <span id="fr_366"></span>[2](#fn_365.md)  
+Par <span id="fr_367"></span>[3](#fn_366.md) la duelle <span
+id="fr_368"></span>[4](#fn_367.md) et chassera dehors:<span
 id="page_276">p. 276</span>  
 Les exilés dedans fera remettre,  
-Aux lieux marins commettant <span id="fr_369"></span>[1](#fn_368) les
-plus fors. <span id="fr_370"></span>[2](#fn_369)
+Aux lieux marins commettant <span id="fr_369"></span>[1](#fn_368.md) les
+plus fors. <span id="fr_370"></span>[2](#fn_369.md)
 
 Translation.
 
@@ -939,7 +939,7 @@ Century X.--*Quatrain* 90. \[I. 233.\]
 Cent fois mourra le tyran inhumain;  
 Mis à son lieu sçavant et debonnaire:  
 Tout le senat sera dessous sa main,  
-Fasché sera par malin <span id="fr_371"></span>[3](#fn_370) temeraire.
+Fasché sera par malin <span id="fr_371"></span>[3](#fn_370.md) temeraire.
 
 Translation.
 
@@ -1012,11 +1012,11 @@ but so it is.
 Century II.--*Quatrain* 30. \[II. 45.\]
 
 On qui les dieux d'Annibal infernaux,  
-Fera <span id="fr_372"></span>[1](#fn_371) renaistre, effrayeur des
+Fera <span id="fr_372"></span>[1](#fn_371.md) renaistre, effrayeur des
 humains.  
 Oncq' plus d'horreur ne plus pire journaux,  
-Qu'avint <span id="fr_373"></span>[2](#fn_372) viendra <span
-id="fr_374"></span>[3](#fn_373) par Babel aux Romains.
+Qu'avint <span id="fr_373"></span>[2](#fn_372.md) viendra <span
+id="fr_374"></span>[3](#fn_373.md) par Babel aux Romains.
 
 Translation.
 
@@ -1035,7 +1035,7 @@ and Napoleon for cavalry and heavy pieces of artillery. He seemed to be
 the marvellous Carthaginian born again out of the shades of Hades, a
 scourge and flail of men: Babel itself not worse in the confusion that
 fell upon Rome, and the Church of Rome through him. We have given this
-before, at [p. 199](oon15.htm#page_199), but repeat it here with further
+before, at [p. 199](oon15.htm#page_199.md), but repeat it here with further
 enlargement, as it belongs more to Napoleon than to the Revolution.
 Garencières thinks it was fulfilled when Charles V. sacked Rome. If we
 consider, as I do, that the two stanzas are inseparable, they will fit
@@ -1046,12 +1046,12 @@ Bouys (p. 83) with some reason attributes to Napoleon.
 
 Century IV.--*Quatrain* 54.
 
-Du nom qui onque <span id="fr_375"></span>[1](#fn_374) ne fut un Roi
+Du nom qui onque <span id="fr_375"></span>[1](#fn_374.md) ne fut un Roi
 Gaulois  
 Jamais ne fut un foudre si crantif.  
-Tremblant l'Italie, <span id="fr_376"></span>[2](#fn_375) l'Espagne et
+Tremblant l'Italie, <span id="fr_376"></span>[2](#fn_375.md) l'Espagne et
 les Anglois,  
-De femme estrangiers <span id="fr_377"></span>[3](#fn_376) grandement
+De femme estrangiers <span id="fr_377"></span>[3](#fn_376.md) grandement
 attentif.
 
 Translation.
@@ -1088,9 +1088,9 @@ Austrian (*v*. Century I., Quatrain 83).
 Century VIII.--Quatrain 53. \[I. 269.\]
 
 Dedans Bolongne voudra laver ses fautes, <span
-id="fr_378"></span>[1](#fn_377)  
+id="fr_378"></span>[1](#fn_377.md)  
 Il ne pourra au temple du soleil  
-Il volera faisant choses si <span id="fr_379"></span>[2](#fn_378)
+Il volera faisant choses si <span id="fr_379"></span>[2](#fn_378.md)
 hautes,  
 En hierarchie n'en fut oncq un pareil.
 
@@ -1160,24 +1160,24 @@ quite without an equal in the hierarchy of kings.
 
 ### Footnotes
 
-<span id="fn_304"></span>[251:1](oon19.htm#fr_305) *Seur* = sœur.
+<span id="fn_304"></span>[251:1](oon19.htm#fr_305.md) *Seur* = sœur.
 
-<span id="fn_305"></span>[251:2](oon19.htm#fr_306) *Fatum*, Latin, fate,
+<span id="fn_305"></span>[251:2](oon19.htm#fr_306.md) *Fatum*, Latin, fate,
 destiny.
 
-<span id="fn_306"></span>[251:3](oon19.htm#fr_307) *Duira*, for
+<span id="fn_306"></span>[251:3](oon19.htm#fr_307.md) *Duira*, for
 conduira.
 
-<span id="fn_307"></span>[252:1](oon19.htm#fr_308) Δαν-αρχή, Princedom
+<span id="fn_307"></span>[252:1](oon19.htm#fr_308.md) Δαν-αρχή, Princedom
 of Dan. The old Kings of Denmark pretended to derive from Dan, seventh
 son of Jacob, it is said.
 
-<span id="fn_308"></span>[252:2](oon19.htm#fr_309) Γῆς υἰόσ, son of
+<span id="fn_308"></span>[252:2](oon19.htm#fr_309.md) Γῆς υἰόσ, son of
 earth. *Terræfilius*, giant.
 
-<span id="fn_309"></span>[252:3](oon19.htm#fr_310) *Unda*, wave, *onde*.
+<span id="fn_309"></span>[252:3](oon19.htm#fr_310.md) *Unda*, wave, *onde*.
 
-<span id="fn_310"></span>[253:1](oon19.htm#fr_311) The title of this
+<span id="fn_310"></span>[253:1](oon19.htm#fr_311.md) The title of this
 book is "Machiavel Commenté par N<sup>on</sup> Buonaparte," 1816,
 published by H. Nicolle, 12, Rue de Seine. I have a copy, but there is
 none in the British Museum. The Preface and the Introductory Discourse
@@ -1199,21 +1199,21 @@ contrast, between the first and second thoughts seems to me instructive.
 It shows that, let a man walk by right faith or by wrong, he must steer
 by the belief that is present with him.
 
-<span id="fn_311"></span>[255:1](oon19.htm#fr_312) *Signum*, ensign,
+<span id="fn_311"></span>[255:1](oon19.htm#fr_312.md) *Signum*, ensign,
 standard, or perhaps symbol of rule or domination.
 
-<span id="fn_312"></span>[255:2](oon19.htm#fr_313) *Sceptrum ferre*,
+<span id="fn_312"></span>[255:2](oon19.htm#fr_313.md) *Sceptrum ferre*,
 sceptre-bearing, reigning.
 
-<span id="fn_313"></span>[255:3](oon19.htm#fr_314) *Siége*, position,
+<span id="fn_313"></span>[255:3](oon19.htm#fr_314.md) *Siége*, position,
 situation.
 
-<span id="fn_314"></span>[255:4](oon19.htm#fr_315) En *séjour*,
+<span id="fn_314"></span>[255:4](oon19.htm#fr_315.md) En *séjour*,
 permanent, durable.
 
-<span id="fn_315"></span>[255:5](oon19.htm#fr_316) Coq, the Gallic cock.
+<span id="fn_315"></span>[255:5](oon19.htm#fr_316.md) Coq, the Gallic cock.
 
-<span id="fn_316"></span>[255:6](oon19.htm#fr_317) *Tago*, or *tango*,
+<span id="fn_316"></span>[255:6](oon19.htm#fr_317.md) *Tago*, or *tango*,
 to touch or take, le Pelletier says; but it does not yield very good
 sense. Perhaps τάγμα, a regular body of soldiers, in Dion Cassius it
 stands for the Roman legion. Garencières reads here TAG *à misère*, "The
@@ -1223,14 +1223,14 @@ on which Lisbon is situated. This might be interpreted well to mean the
 mischief arising to the empire from the successes of Wellington in the
 Peninsular war.
 
-<span id="fn_317"></span>[257:1](oon19.htm#fr_318) The jay, of course,
+<span id="fn_317"></span>[257:1](oon19.htm#fr_318.md) The jay, of course,
 is Esop's Fable of that bird, tricked out in finer feathers than its
 own. The elegant rendering by La Fontaine \[iv. 9, Ed., 1838\] of *Le
 Geai paré des plumes du Paon* had, when Nostradamus wrote, not then
 taken shape. The original is so accessible, that it may suffice to give
 here the English version.
 
-<span id="fn_318"></span>[258:1](oon19.htm#fr_319) This curious phrase
+<span id="fn_318"></span>[258:1](oon19.htm#fr_319.md) This curious phrase
 manifestly points to Napoleon wearing short hair, in military fashion,
 as distinguished from the flowing locks of the line of Capet,--shaven as
 contrasted with bewigged. This is one of the many coincidences that
@@ -1239,22 +1239,22 @@ the Revolution. Croppies, or Roundheads, distinguished the sanctimonious
 insurgents of the Commonwealth from the cavaliers with their flowing
 locks. The Tory cavaliers wore wigs; the Whigs undermined the bewigged.
 
-<span id="fn_319"></span>[258:2](oon19.htm#fr_320) *Sordide* should be
+<span id="fn_319"></span>[258:2](oon19.htm#fr_320.md) *Sordide* should be
 written *sordid'*, and *teste*, *test'*, if we wish the line to scan.
 
-<span id="fn_320"></span>[258:3](oon19.htm#fr_321) *Puis*, for depuis.
+<span id="fn_320"></span>[258:3](oon19.htm#fr_321.md) *Puis*, for depuis.
 
-<span id="fn_321"></span>[258:4](oon19.htm#fr_322) Latin, *per*,
+<span id="fn_321"></span>[258:4](oon19.htm#fr_322.md) Latin, *per*,
 pendant.
 
-<span id="fn_322"></span>[259:1](oon19.htm#fr_323) Latin, *vexare*,
+<span id="fn_322"></span>[259:1](oon19.htm#fr_323.md) Latin, *vexare*,
 raise, inflate, according to Le Pelletier; but Facciolati gives no such
 meaning. "Vexed Bermoothes" gives it.
 
-<span id="fn_323"></span>[261:1](oon19.htm#fr_324) *Dextera*, Latin,
+<span id="fn_323"></span>[261:1](oon19.htm#fr_324.md) *Dextera*, Latin,
 right hand, or sword hand.
 
-<span id="fn_324"></span>[261:2](oon19.htm#fr_325) *Discorde* should be
+<span id="fn_324"></span>[261:2](oon19.htm#fr_325.md) *Discorde* should be
 *discord'*, or the line will not scan. These may be minor matters, but
 those who think them unimportant are not wise. It is an excellent rule
 in literature to let nothing remain wrong that can be set right by a
@@ -1262,7 +1262,7 @@ little scholarship and industry. In the world it is very different;
 there you should never put anything right, for everything wrong has a
 host of latent friends, that will fight very savagely in its defence.
 
-<span id="fn_325"></span>[261:3](oon19.htm#fr_326) *Cappe*, for Capet,
+<span id="fn_325"></span>[261:3](oon19.htm#fr_326.md) *Cappe*, for Capet,
 says M. le Pelletier. The texte-type gives a variation here as *la
 Chappe*. This yields no help at all, except as showing by the variant
 that there is something wants altering. The line will not scan as it s.
@@ -1270,72 +1270,72 @@ I think it should be altered to *le Cap*. If it stands for Capet it is
 Masculine, and when it occurred before, in Quatrain 20 of Century IX, it
 was given as *Esleu Cap*.
 
-<span id="fn_326"></span>[262:1](oon19.htm#fr_327) These two lines
+<span id="fn_326"></span>[262:1](oon19.htm#fr_327.md) These two lines
 furnish an hyperbaton and will be best transposed, that the great Prince
 will have married a woman before the divine wrath falls upon him.
 
-<span id="fn_327"></span>[262:2](oon19.htm#fr_328) This is equivalent to
+<span id="fn_327"></span>[262:2](oon19.htm#fr_328.md) This is equivalent to
 *tout d'un coup*, suddenly.
 
-<span id="fn_328"></span>[262:3](oon19.htm#fr_329) This line is too long
+<span id="fn_328"></span>[262:3](oon19.htm#fr_329.md) This line is too long
 by a foot; *appuy et credit* mean the same thing, and one should be
 omitted. The line should be corrected thus:
 
 Et son appuy à un coup viendra mince.
 
-<span id="fn_329"></span>[264:1](oon19.htm#fr_330) Par is Latin, *per*,
+<span id="fn_329"></span>[264:1](oon19.htm#fr_330.md) Par is Latin, *per*,
 throughout.
 
-<span id="fn_330"></span>[264:2](oon19.htm#fr_331) Equals *qui en*.
+<span id="fn_330"></span>[264:2](oon19.htm#fr_331.md) Equals *qui en*.
 
-<span id="fn_331"></span>[265:1](oon19.htm#fr_332) The texte-type
+<span id="fn_331"></span>[265:1](oon19.htm#fr_332.md) The texte-type
 furnishes *porter*, with *porte* as a variant. M. le Pelletier embodies
 this in his text. I should replace the word that he excludes. Further, I
 should regard *passera* as being a form of the Latin *patior*, and the
 French *pâtir*, and therefore read *pâtira*. *Porter pâtira* will then
 mean suffer it to bear. *Charge*, for the scansion, should be *charg'*.
 
-<span id="fn_332"></span>[265:2](oon19.htm#fr_333) *Grande* should be
+<span id="fn_332"></span>[265:2](oon19.htm#fr_333.md) *Grande* should be
 *grand'*, for the scansion.
 
-<span id="fn_333"></span>[265:3](oon19.htm#fr_334) *Tranchera* should
+<span id="fn_333"></span>[265:3](oon19.htm#fr_334.md) *Tranchera* should
 read *il tranchena*.
 
-<span id="fn_334"></span>[265:4](oon19.htm#fr_335) Esclavonie is put for
+<span id="fn_334"></span>[265:4](oon19.htm#fr_335.md) Esclavonie is put for
 modern Hungary
 
-<span id="fn_335"></span>[265:5](oon19.htm#fr_336) *Olestant* is another
+<span id="fn_335"></span>[265:5](oon19.htm#fr_336.md) *Olestant* is another
 variation of the nom fatidique de Napoleon, [p.
-150](oon14.htm#page_150), from ὄλλυμι, to destroy, ὀλλέσθαι.
+150](oon14.htm#page_150.md), from ὄλλυμι, to destroy, ὀλλέσθαι.
 
-<span id="fn_336"></span>[266:1](oon19.htm#fr_337) *Poussée*, for
+<span id="fn_336"></span>[266:1](oon19.htm#fr_337.md) *Poussée*, for
 *repoussé*.
 
-<span id="fn_337"></span>[266:2](oon19.htm#fr_338) *Entour* should be
+<span id="fn_337"></span>[266:2](oon19.htm#fr_338.md) *Entour* should be
 *entour'*, for *entouré*.
 
-<span id="fn_338"></span>[266:3](oon19.htm#fr_339) *Entour* here is for
+<span id="fn_338"></span>[266:3](oon19.htm#fr_339.md) *Entour* here is for
 *entourage*.
 
-<span id="fn_339"></span>[266:4](oon19.htm#fr_340) *Cymbres*, κύμβη,
+<span id="fn_339"></span>[266:4](oon19.htm#fr_340.md) *Cymbres*, κύμβη,
 cymbals.
 
-<span id="fn_340"></span>[266:5](oon19.htm#fr_341) *Tube, tuba*,
+<span id="fn_340"></span>[266:5](oon19.htm#fr_341.md) *Tube, tuba*,
 trumpet.
 
-<span id="fn_341"></span>[266:6](oon19.htm#fr_342) *Sonnaillons*,
+<span id="fn_341"></span>[266:6](oon19.htm#fr_342.md) *Sonnaillons*,
 literally, bell-ringing, but perhaps clarion may serve.
 
-<span id="fn_342"></span>[266:7](oon19.htm#fr_343) This line cannot be
+<span id="fn_342"></span>[266:7](oon19.htm#fr_343.md) This line cannot be
 scanned; we must read de *l'Aquillon*.
 
-<span id="fn_343"></span>[267:1](oon19.htm#fr_344) This requires, for
+<span id="fn_343"></span>[267:1](oon19.htm#fr_344.md) This requires, for
 both grammar and scansion, *grande*.
 
-<span id="fn_344"></span>[267:2](oon19.htm#fr_345) The *E* in *contre*
+<span id="fn_344"></span>[267:2](oon19.htm#fr_345.md) The *E* in *contre*
 must suffer elision, thus: *contr'*. It is right in Garencières's.
 
-<span id="fn_345"></span>[268:1](oon19.htm#fr_346) κύμβη, is a cup,
+<span id="fn_345"></span>[268:1](oon19.htm#fr_346.md) κύμβη, is a cup,
 usually, in Greek. M. le Pelletier gives κύμβος as a cavity or
 precipice. I find no such meaning as precipice. There is a great
 difficulty to settle the meaning here. Κύμβη means a cup, a boat, a
@@ -1364,16 +1364,16 @@ cymbes*. As two places, or recessed prisons, hollowed out of the sea, he
 shall be put, bound hand and foot. The line, to scan correctly, should
 have the word *et* left out.
 
-<span id="fn_346"></span>[268:2](oon19.htm#fr_347) *Fitine*, φυτόν,
+<span id="fn_346"></span>[268:2](oon19.htm#fr_347.md) *Fitine*, φυτόν,
 plant, scion, child.
 
-<span id="fn_347"></span>[268:3](oon19.htm#fr_348) *Pocillator* is
+<span id="fn_347"></span>[268:3](oon19.htm#fr_348.md) *Pocillator* is
 cupbearer.
 
-<span id="fn_348"></span>[268:4](oon19.htm#fr_349) *Faucer* is fauser,
+<span id="fn_348"></span>[268:4](oon19.htm#fr_349.md) *Faucer* is fauser,
 to trick.
 
-<span id="fn_349"></span>[268:5](oon19.htm#fr_350) *Scyphus*, cup. There
+<span id="fn_349"></span>[268:5](oon19.htm#fr_350.md) *Scyphus*, cup. There
 is a singular appropriateness in this word, whether intended or not by
 Nostradamus, for Athenaeus describes the Bœotians as first using huge
 silver drinking-cups, or scyphi, which were denominated Herculean,
@@ -1382,37 +1382,37 @@ invented the cry of "no heel taps!" *ut libantes nihil in calice vini
 relinquerent*. The reader will bear in mind the *Hercules de Gaule* of a
 former quatrain.
 
-<span id="fn_350"></span>[272:1](oon19.htm#fr_351) Itales, *Ætalia*,
+<span id="fn_350"></span>[272:1](oon19.htm#fr_351.md) Itales, *Ætalia*,
 Elba.
 
-<span id="fn_351"></span>[272:2](oon19.htm#fr_352) *Par mer*, Gulf of
+<span id="fn_351"></span>[272:2](oon19.htm#fr_352.md) *Par mer*, Gulf of
 Genoa.
 
-<span id="fn_352"></span>[272:3](oon19.htm#fr_353) *Forains*, Latin,
+<span id="fn_352"></span>[272:3](oon19.htm#fr_353.md) *Forains*, Latin,
 *foris*, strangers.
 
-<span id="fn_353"></span>[272:4](oon19.htm#fr_354) *Sauf*, Latin,
+<span id="fn_353"></span>[272:4](oon19.htm#fr_354.md) *Sauf*, Latin,
 *sabous*, English, safe.
 
-<span id="fn_354"></span>[272:5](oon19.htm#fr_355) *Sauf de* coup de
+<span id="fn_354"></span>[272:5](oon19.htm#fr_355.md) *Sauf de* coup de
 feu.
 
-<span id="fn_355"></span>[272:6](oon19.htm#fr_356) *Le dard du ceil* is
+<span id="fn_355"></span>[272:6](oon19.htm#fr_356.md) *Le dard du ceil* is
 the thunderbolt.
 
-<span id="fn_356"></span>[272:7](oon19.htm#fr_357) Latin, *ferire*, to
+<span id="fn_356"></span>[272:7](oon19.htm#fr_357.md) Latin, *ferire*, to
 strike.
 
-<span id="fn_357"></span>[272:8](oon19.htm#fr_358) *Estandue* is
+<span id="fn_357"></span>[272:8](oon19.htm#fr_358.md) *Estandue* is
 standard.
 
-<span id="fn_358"></span>[273:1](oon19.htm#fr_359) Latin, *gens*,
+<span id="fn_358"></span>[273:1](oon19.htm#fr_359.md) Latin, *gens*,
 nation.
 
-<span id="fn_359"></span>[273:2](oon19.htm#fr_360) Latin, *monstrum*,
+<span id="fn_359"></span>[273:2](oon19.htm#fr_360.md) Latin, *monstrum*,
 prodigy.
 
-<span id="fn_360"></span>[273:3](oon19.htm#fr_361) *Morts* should be
+<span id="fn_360"></span>[273:3](oon19.htm#fr_361.md) *Morts* should be
 read *Meurt*, perhaps, as referring to Napoleon, who, showed great
 delight, it is said, when he found that Wellington intended. to fight
 him. It cannot refer, as Le Pelletier would have it to do, to, the
@@ -1420,62 +1420,62 @@ celebrated *mot* of Cambronne or General Michel, as it has been proved
 that it was never uttered at all, but manufactured by a wit *après
 coup*.
 
-<span id="fn_361"></span>[273:4](oon19.htm#fr_362) The stone is in the
+<span id="fn_361"></span>[273:4](oon19.htm#fr_362.md) The stone is in the
 tree. Le Pelletier would here understand *silex*, the flint axe of
 primitive ages. This seems to me to be very far fetched., and I would
 rather read, with Garencières, the stone into thunderstone or aerolite,
 which seems to be far less forced.
 
-<span id="fn_362"></span>[274:1](oon19.htm#fr_363) Hyperbaton. the
+<span id="fn_362"></span>[274:1](oon19.htm#fr_363.md) Hyperbaton. the
 construction is *feront entrée a Paris clos d'armée*.
 
-<span id="fn_363"></span>[274:2](oon19.htm#fr_364) Latin, *clausus*,
+<span id="fn_363"></span>[274:2](oon19.htm#fr_364.md) Latin, *clausus*,
 shut, cut off from the French army.
 
-<span id="fn_364"></span>[275:1](oon19.htm#fr_365) *Forche*, fourchu, or
+<span id="fn_364"></span>[275:1](oon19.htm#fr_365.md) *Forche*, fourchu, or
 forked. Latin, *furca*, hooked.
 
-<span id="fn_365"></span>[275:2](oon19.htm#fr_366) *Commettre*, ellipsis
+<span id="fn_365"></span>[275:2](oon19.htm#fr_366.md) *Commettre*, ellipsis
 for *se commettre*, to come to blows with any one.
 
-<span id="fn_366"></span>[275:3](oon19.htm#fr_367) Latin, *per*,
+<span id="fn_366"></span>[275:3](oon19.htm#fr_367.md) Latin, *per*,
 through, or by means of.
 
-<span id="fn_367"></span>[275:4](oon19.htm#fr_368) Latin, *duo*, a
+<span id="fn_367"></span>[275:4](oon19.htm#fr_368.md) Latin, *duo*, a
 second repetition.
 
-<span id="fn_368"></span>[276:1](oon19.htm#fr_369) Consigning.
+<span id="fn_368"></span>[276:1](oon19.htm#fr_369.md) Consigning.
 
-<span id="fn_369"></span>[276:2](oon19.htm#fr_370) *Plus fors*, read
+<span id="fn_369"></span>[276:2](oon19.htm#fr_370.md) *Plus fors*, read
 *plus forts*.
 
-<span id="fn_370"></span>[276:3](oon19.htm#fr_371) *Malignus*, Latin, a
+<span id="fn_370"></span>[276:3](oon19.htm#fr_371.md) *Malignus*, Latin, a
 criminal.
 
-<span id="fn_371"></span>[278:1](oon19.htm#fr_372) *Fera* should be
+<span id="fn_371"></span>[278:1](oon19.htm#fr_372.md) *Fera* should be
 *feront*, I think.
 
-<span id="fn_372"></span>[278:2](oon19.htm#fr_373) *Avint* I take to
+<span id="fn_372"></span>[278:2](oon19.htm#fr_373.md) *Avint* I take to
 mean *avant*.
 
-<span id="fn_373"></span>[278:3](oon19.htm#fr_374) *Viendra* for
+<span id="fn_373"></span>[278:3](oon19.htm#fr_374.md) *Viendra* for
 *viendront*.
 
-<span id="fn_374"></span>[279:1](oon19.htm#fr_375) *Onque* should be
+<span id="fn_374"></span>[279:1](oon19.htm#fr_375.md) *Onque* should be
 *oncq'*, to scan.
 
-<span id="fn_375"></span>[279:2](oon19.htm#fr_376) Italie is the reading
+<span id="fn_375"></span>[279:2](oon19.htm#fr_376.md) Italie is the reading
 of the *texte-type*. Bouys reads *Itale*, and then this line will scan.
 
-<span id="fn_376"></span>[279:3](oon19.htm#fr_377) *Estrangiers* was
+<span id="fn_376"></span>[279:3](oon19.htm#fr_377.md) *Estrangiers* was
 probably pronounced as of two syllables only, but it is difficult to
 make this line scan.
 
-<span id="fn_377"></span>[280:1](oon19.htm#fr_378) *Fautes*, to be taken
+<span id="fn_377"></span>[280:1](oon19.htm#fr_378.md) *Fautes*, to be taken
 as shortcomings.
 
-<span id="fn_378"></span>[280:2](oon19.htm#fr_379) *Si*--very.
+<span id="fn_378"></span>[280:2](oon19.htm#fr_379.md) *Si*--very.
 
 ------------------------------------------------------------------------
 
-[Next: Louis XVIII and Louis Philippe](oon20)
+[Next: Louis XVIII and Louis Philippe](oon20.md)

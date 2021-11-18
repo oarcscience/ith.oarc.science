@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ FRANK J. GILLEN
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ntna01)
+[Next: Preface](ntna01.md)

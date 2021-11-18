@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat21)  [Next](flat23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat21)  [Next](flat23.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ the operation of the Phooka.
 
 ------------------------------------------------------------------------
 
-[Next: Fior Usga](flat23)
+[Next: Fior Usga](flat23.md)

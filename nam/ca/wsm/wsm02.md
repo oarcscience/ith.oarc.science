@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm01)  [Next](wsm03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm01)  [Next](wsm03.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 These myths were procured from several Shoshoni of Nevada and eastern
 California and from one Northern Paiute during 6 months' ethnographic
-field work <span id="fr_0"></span>[1](#fn_0) in 1935. They by no means
+field work <span id="fr_0"></span>[1](#fn_0.md) in 1935. They by no means
 exhaust the western Shoshoni mythological repertory, but, as this
 enormous area has heretofore been a blank on the ethnographic map, any
 material from it should be recorded.
@@ -42,7 +42,7 @@ There are few tales in this collection that are actually new. The
 themes, episodes, characters, and style are very similar to myths from
 Owens Valley and western Nevada, Paiute, from Owens Valley Shoshoni,
 from Ute and Southern Paiute, and from the Northern Lemhi
-Shoshoni. <span id="fr_1"></span>[2](#fn_1) Novelty lies only in local
+Shoshoni. <span id="fr_1"></span>[2](#fn_1.md) Novelty lies only in local
 combinations of widespread
 
 <span id="page_254">p. 254</span>
@@ -64,11 +64,11 @@ Shoshoni myths, but no effort was made to collect them.
 
 ### Footnotes
 
-<span id="fn_0"></span>[253:1](wsm02.htm#fr_0) This work was financed by
+<span id="fn_0"></span>[253:1](wsm02.htm#fr_0.md) This work was financed by
 the Department of Anthropology, University of California, and a
 grant-in-aid from the Social Science Research Council.
 
-<span id="fn_1"></span>[253:2](wsm02.htm#fr_1) Steward, J. H., Myths of
+<span id="fn_1"></span>[253:2](wsm02.htm#fr_1.md) Steward, J. H., Myths of
 the Owens Valley Paiute, Univ. Calif. Publ. Amer. Archaeol. and Ethnol.,
 vol. 34, No. 5, pp. 355-440, 1936. A few Shoshoni myths are recorded in
 the same, pp. 434-436. See also, Ethnography of the Owens Valley Paiute,
@@ -81,4 +81,4 @@ Uintah Utes, Amer. Acad. Arts and Sci., Proc., vol. 65, No. 2, pp.
 
 ------------------------------------------------------------------------
 
-[Next: The Theft of Fire (Saline Valley, California. Shoshoni)](wsm03)
+[Next: The Theft of Fire (Saline Valley, California. Shoshoni)](wsm03.md)

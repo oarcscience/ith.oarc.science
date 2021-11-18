@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft80)  [Next](sfft82) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft80)  [Next](sfft82.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### ELPHIN IRVING. <span id="fr_165"></span>[1](#fn_165)
+### ELPHIN IRVING. <span id="fr_165"></span>[1](#fn_165.md)
 
 ### THE FAIRIES' CUPBEARER.
 
@@ -283,7 +283,7 @@ his deliverance?"
 
 "I have heard it said by douce folk and sponsible," interrupted another,
 "that every seven years the elves and fairies pay kane, <span
-id="fr_166"></span>[1](#fn_166) or make an offering of one of their
+id="fr_166"></span>[1](#fn_166.md) or make an offering of one of their
 children, to the grand enemy of salvation, and that they are permitted
 to purloin one of the children of men to present to the fiend--a more
 acceptable offering, I'll warrant, than one of their own infernal brood
@@ -440,7 +440,7 @@ And the hour is gone, and comes not again.
 "O maiden, why waxed thy faith so faint,  
   Thy spirit so slack and slaw?  
 Thy courage kept good till the flame waxed wud, <span
-id="fr_167"></span>[1](#fn_167)  
+id="fr_167"></span>[1](#fn_167.md)  
   Then thy might began to thaw;  
 Had ye kissed him with thy christened lip,  
   Ye had wan him frae 'mang us a'.  
@@ -534,14 +534,14 @@ industrious and virtuous dames of the romantic vale of Corrie.
 
 ### Footnotes
 
-<span id="fn_165"></span>[318:1](sfft81.htm#fr_165) Allan Cunningham,
+<span id="fn_165"></span>[318:1](sfft81.htm#fr_165.md) Allan Cunningham,
 *Traditional Tales of the English and Scottish Peasantry*.
 
-<span id="fn_166"></span>[328:1](sfft81.htm#fr_166) Tribute Paid in
+<span id="fn_166"></span>[328:1](sfft81.htm#fr_166.md) Tribute Paid in
 kind.
 
-<span id="fn_167"></span>[333:1](sfft81.htm#fr_167) Furious.
+<span id="fn_167"></span>[333:1](sfft81.htm#fr_167.md) Furious.
 
 ------------------------------------------------------------------------
 
-[Next: Cousin Mattie](sfft82)
+[Next: Cousin Mattie](sfft82.md)

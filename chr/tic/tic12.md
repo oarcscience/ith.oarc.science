@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic11)  [Next](tic13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic11)  [Next](tic13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ those deluded in this way. 13. Risks of delusion in this mansion*.
 1\. THE effects of divine consolations are very numerous: before
 describing them, I will speak of another kind of prayer which usually
 precedes them. I need not say much on this subject, having written about
-it elsewhere. <span id="fr_131"></span>[1](#fn_131) This is a kind of
+it elsewhere. <span id="fr_131"></span>[1](#fn_131.md) This is a kind of
 recollection which, I believe, is supernatural. There is
 
 <span id="page_105">p. 105</span>
@@ -45,7 +45,7 @@ reared for the soul in which to pray: the senses and exterior
 surroundings appear to lose their hold, while the spirit gradually
 regains its lost sovereignty. Some say the soul enters into itself;
 others, that it rises above itself. <span
-id="fr_132"></span>[2](#fn_132) I can say nothing about these terms, but
+id="fr_132"></span>[2](#fn_132.md) I can say nothing about these terms, but
 had better speak of the subject as I understand it. You will probably
 grasp my
 
@@ -72,7 +72,7 @@ re-enter the castle.
 within ourselves avails us far more than to look for Him amongst
 creatures; Saint Augustine tells us how he found the Almighty within his
 own soul, after having long sought for Him elsewhere. <span
-id="fr_133"></span>[3](#fn_133) This recollection helps us greatly
+id="fr_133"></span>[3](#fn_133.md) This recollection helps us greatly
 
 <span id="page_107">p. 107</span>
 
@@ -80,7 +80,7 @@ when God bestows it upon us. But do not fancy you can gain it by
 thinking of God dwelling within you, or by imagining Him as present in
 your soul: this is a good practice and an excellent kind of meditation,
 for it is founded on the fact that God resides within us; <span
-id="fr_134"></span>[4](#fn_134) it is not, however, the prayer of
+id="fr_134"></span>[4](#fn_134.md) it is not, however, the prayer of
 recollection, for by the divine assistance every one can practise it,
 but what I mean is quite a different thing. Sometimes, before they have
 begun to think of God, the powers of the soul find themselves within the
@@ -89,7 +89,7 @@ Shepherd's pipe; the ears perceived no sound but the soul is keenly
 conscious of a delicious sense of recollection experienced by those who
 enjoy this favour, which I cannot describe more clearly.
 
-4\. I think I read somewhere <span id="fr_135"></span>[5](#fn_135) that
+4\. I think I read somewhere <span id="fr_135"></span>[5](#fn_135.md) that
 the soul is then like a tortoise or sea-urchin, which retreats into it-
 
 <span id="page_108">p. 108</span>
@@ -108,12 +108,12 @@ realize the value of this favour, gratitude for which would prepare them
 to receive still more signal graces. Some books advise that as a
 preparation for hearing what our Lord may say to us we should keep our
 minds at rest, waiting to see what He will work in our souls. <span
-id="fr_136"></span>[6](#fn_136) But unless His Majesty has begun to
+id="fr_136"></span>[6](#fn_136.md) But unless His Majesty has begun to
 suspend our faculties, I cannot understand how we are to stop thinking,
 without doing ourselves more harm than good. This point has been much
 debated by those learned in spiritual matters; I confess my want of
 humility in having been unable to yield to their opinion. <span
-id="fr_137"></span>[7](#fn_137)
+id="fr_137"></span>[7](#fn_137.md)
 
 5\. Some one told me of a certain book written on the subject by the
 saintly Friar Peter of Alcantara (as I think I may justly call him); I
@@ -124,7 +124,7 @@ judge, but on reading it I found he
 
 agreed with me that the mind must act until called to recollection by
 love, although he stated it in other words. <span
-id="fr_138"></span>[8](#fn_138) Possibly I may be mistaken, but I rely
+id="fr_138"></span>[8](#fn_138.md) Possibly I may be mistaken, but I rely
 on these reasons. Firstly, he who reasons less and tries to do least,
 does most in spiritual matters. We
 
@@ -151,10 +151,10 @@ His Majesty appears to reserve to Himself, setting this limit to our
 powers. In many other things, such as penances, good works, and prayers,
 with His aid we can help ourselves as far as human weakness will allow.
 The second reason is, that these interior operations being sweet and
-peaceful, <span id="fr_139"></span>[9](#fn_139) any painful effort does
+peaceful, <span id="fr_139"></span>[9](#fn_139.md) any painful effort does
 us more harm than good. By 'painful effort' I mean any forcible
 restraint we place on ourselves, such as holding our breath. <span
-id="fr_140"></span>[10](#fn_140) We should rather abandon our souls into
+id="fr_140"></span>[10](#fn_140.md) We should rather abandon our souls into
 the hands of God, leaving Him to do as He chooses with us, as far as
 possible forgetting all self-interest and resigning ourselves entirely
 to His will. The third reason is, that the very effort to think of
@@ -176,7 +176,7 @@ such as it could never gain for itself by striving to suspend the
 thoughts. God gave us faculties for our use; each of them will receive
 its proper reward. Then do not let us try to charm them to sleep, but
 permit them to do their work until divinely called to something
-higher. <span id="fr_141"></span>[11](#fn_141)
+higher. <span id="fr_141"></span>[11](#fn_141.md)
 
 7\. In my opinion, when God chooses to place the soul in this mansion it
 is best for it to do as I advised, and then endeavour, without force or
@@ -193,7 +193,7 @@ only making loving aspirations occasionally. Although, in this kind of
 prayer, the soul makes no effort towards it, yet often, for a very short
 time, the mind ceases to think at all. I explained elsewhere why this
 occurs during this spiritual state. <span
-id="fr_142"></span>[12](#fn_142) On first speaking of the fourth
+id="fr_142"></span>[12](#fn_142.md) On first speaking of the fourth
 mansions, I told you I had mentioned divine consolations before the
 prayer of recollection. The latter should have come first, as it is far
 inferior to consolations, of which it is the commencement. Recollection
@@ -227,7 +227,7 @@ possesses much more liberty of spirit. It is no longer distressed by the
 terror of hell, for though more anxious than ever not to offend God, it
 has lost servile fear and feels sure that one day it will possess its
 Lord. It does not dread the loss of health by austerities; <span
-id="fr_143"></span>[13](#fn_143) believing that there is nothing it
+id="fr_143"></span>[13](#fn_143.md) believing that there is nothing it
 could not do by His grace, it is more desirous than before of doing
 penance. Greater indifference is felt for sufferings because faith being
 stronger, it trusts that if borne for God He will give the grace to
@@ -249,10 +249,10 @@ by God's having shown these
 favours once or twice. They must be received continually, for it is on
 their frequent reception that the whole welfare of the soul depends. I
 strongly urge those who have reached this state to avoid most carefully
-all occasions of offending God. <span id="fr_144"></span>[14](#fn_144)
+all occasions of offending God. <span id="fr_144"></span>[14](#fn_144.md)
 The soul is not yet fully established in virtue, but is like a new-born
 babe first feeding at its mother's breast: <span
-id="fr_145"></span>[15](#fn_145) if it leaves her, what can it do but
+id="fr_145"></span>[15](#fn_145.md) if it leaves her, what can it do but
 die? I greatly fear that when a soul to whom God has granted this favour
 discontinues prayer, except under urgent necessity, it will, unless it
 returns to the practice at once, go from bad to worse.
@@ -263,7 +263,7 @@ Who sought, with so much love, to make Himself their friend, as He
 proved by His treatment of them. I urgently warn such persons not to run
 the risk of sinning, for the devil would rather gain one of these souls
 than many to whom our Lord does not grant such graces, <span
-id="fr_146"></span>[16](#fn_146) as the former may cause him severe loss
+id="fr_146"></span>[16](#fn_146.md) as the former may cause him severe loss
 by leading others to follow their example, and may even render great
 service to the Church of God. Were there no other reason except that he
 saw the special love His Majesty bears these people, it would suffice to
@@ -277,8 +277,8 @@ fall, they fall lower than others.
 God keep you from pride and vainglory! The devil sometimes offers
 counterfeits of the graces I have mentioned: this can easily be
 detected--the effects being exactly contrary to those of the genuine
-ones. <span id="fr_147"></span>[17](#fn_147) Although I have spoken of
-it elsewhere, <span id="fr_148"></span>[18](#fn_148) I wish to warn you
+ones. <span id="fr_147"></span>[17](#fn_147.md) Although I have spoken of
+it elsewhere, <span id="fr_148"></span>[18](#fn_148.md) I wish to warn you
 here of a special danger to which those who practise prayer are subject,
 particularly women, whose weakness of constitution makes them more
 liable to such mistakes. On account of their penances, prayers, and
@@ -295,7 +295,7 @@ time and injure their health.
 
 12\. This state lasted with a certain person for eight hours, during
 which time she was neither insensible, nor had she any thought of
-God. <span id="fr_149"></span>[19](#fn_149) She was cured by being made
+God. <span id="fr_149"></span>[19](#fn_149.md) She was cured by being made
 to eat and sleep well and to leave off some of her penances. Her
 recovery
 
@@ -309,14 +309,14 @@ known that when God bestows such favours on the soul, although there may
 be languor both of mind and body, it is not shared by the soul, which
 feels great delight at seeing itself so near God, nor does this state
 ever continue for more than a very short time. <span
-id="fr_150"></span>[20](#fn_150) Although the soul may become absorbed
+id="fr_150"></span>[20](#fn_150.md) Although the soul may become absorbed
 again, yet, as I said, unless already feeble, the body suffers neither
 exhaustion nor pain. I advise any of you who experience the latter to
 tell the Prioress, and to divert your thoughts as much as possible from
 such matters. The Superior should prevent such a nun from spending more
 than a very few hours in prayer, and should make her eat and sleep well
 until her usual strength is restored, if she has lost it in this
-way. <span id="fr_151"></span>[21](#fn_151) If the nun's constitution is
+way. <span id="fr_151"></span>[21](#fn_151.md) If the nun's constitution is
 so delicate that this does not suffice, let her believe me when I tell
 her that God only calls her to the active life. There must be such
 people in monasteries: employ her in the various offices and be careful
@@ -333,7 +333,7 @@ as she would have done by contemplation, and perhaps more.
 
 13\. There are people, some of whom I have known, whose minds and
 imaginations are so active as to fancy they see whatever they think
-about, which is very dangerous. <span id="fr_152"></span>[22](#fn_152)
+about, which is very dangerous. <span id="fr_152"></span>[22](#fn_152.md)
 Perhaps I may treat of this later on, but cannot do so now. I have dwelt
 at length on this mansion, as I believe it to be the one most souls
 enter. As the natural is combined with the supernatural, the devil can
@@ -344,7 +344,7 @@ opportunities. May God be for ever praised! Amen.
 
 ### Footnotes
 
-<span id="fn_131"></span>[104:1](tic12.htm#fr_131) *Life*, ch. xiv. 2.
+<span id="fn_131"></span>[104:1](tic12.htm#fr_131.md) *Life*, ch. xiv. 2.
 The Saint says in the second chapter of this mansion, § 5, and also in
 letters dated Dec. 7, 1577 (Vol. II) and Jan. 14, 1580, that when
 writing the *Interior Castle* she had more experience in <span
@@ -368,7 +368,7 @@ is altogether supernatural and more like gratuitous grace (*ibid*. no.
 80 and 81). On the meaning of 'Solitude,' 'Silence,' etc., see Anton. a
 Sp. S. *l.c.*, tract. i, n. 78-82.
 
-<span id="fn_132"></span>[105:2](tic12.htm#fr_132) The edition of Burgos
+<span id="fn_132"></span>[105:2](tic12.htm#fr_132.md) The edition of Burgos
 (vol. iv, P. 59) refers appropriately to the following passage in the
 *Tercer Abecedario* (See *Life*, ch. iv, 8) by the Franciscan friar
 Francisco de Osuna, a work which exercised a profound influence on St.
@@ -382,7 +382,7 @@ follow without any effort, and will be all the more pure and spiritual;
 however, follow what course your soul prefers as this will bring you
 more grace and benefit,' (Tr. ix, ch, viii).
 
-<span id="fn_133"></span>[106:3](tic12.htm#fr_133) Some editors of the
+<span id="fn_133"></span>[106:3](tic12.htm#fr_133.md) Some editors of the
 *Interior Castle* think that St. Teresa refers to the following passage
 taken from the *Confessions* of St. Augustine: 'Too late have I loved
 Thee, O Beauty, ever ancient yet ever new! too late have I loved Thee!
@@ -405,10 +405,10 @@ xxxi.) This treatise which is also quoted by St. John of the Cross,
 v. 1, appeared in a Spanish translation at Valladolid in 1515, at Medina
 del Campo in 1553, and at Toledo in 1565.
 
-<span id="fn_134"></span>[107:4](tic12.htm#fr_134) *Life*, ch. xiv. 7,
+<span id="fn_134"></span>[107:4](tic12.htm#fr_134.md) *Life*, ch. xiv. 7,
 8; 20.
 
-<span id="fn_135"></span>[107:5](tic12.htm#fr_135) St. Teresa read this
+<span id="fn_135"></span>[107:5](tic12.htm#fr_135.md) St. Teresa read this
 in the *Tercer Abecedario* of Francisco de Osuna (tr. vi, ch, iv): 'This
 exercise concentrates the senses of man in the interior of the heart
 where dwells 'the daughter of the king'; that is, the Catholic soul;
@@ -416,11 +416,11 @@ thus recollected, man may well be compared to the tortoise or sea-urchin
 which rolls itself up and withdraws within itself, disregarding
 everything outside.'
 
-<span id="fn_136"></span>[108:6](tic12.htm#fr_136) *Life*. ch, xii. 8.
+<span id="fn_136"></span>[108:6](tic12.htm#fr_136.md) *Life*. ch, xii. 8.
 
-<span id="fn_137"></span>[108:7](tic12.htm#fr_137) *Life*, ch. xiv, 10.
+<span id="fn_137"></span>[108:7](tic12.htm#fr_137.md) *Life*, ch. xiv, 10.
 
-<span id="fn_138"></span>[109:8](tic12.htm#fr_138) *A Golden Treatise of
+<span id="fn_138"></span>[109:8](tic12.htm#fr_138.md) *A Golden Treatise of
 Mental Prayer* by St. Peter of Alcantara, translated by Rev. G. F.
 Bullock M.A. and edited by Rev. George Seymour Hollings S.S.J.E. London,
 Mowbray, 1905, p. 117.
@@ -497,12 +497,12 @@ itself through the depths of the earth; and then when this hath somewhat
 dried up, he turns down upon it again the flow of water that it may
 receive still more, and be well irrigated.'
 
-<span id="fn_139"></span>[111:9](tic12.htm#fr_139) *Sap*. viii. i:
+<span id="fn_139"></span>[111:9](tic12.htm#fr_139.md) *Sap*. viii. i:
 'Disponit omnia suaviter.'
 
-<span id="fn_140"></span>[111:10](tic12.htm#fr_140) *Life*, ch. xv. i.
+<span id="fn_140"></span>[111:10](tic12.htm#fr_140.md) *Life*, ch. xv. i.
 
-<span id="fn_141"></span>[112:11](tic12.htm#fr_141) 'The whole of the
+<span id="fn_141"></span>[112:11](tic12.htm#fr_141.md) 'The whole of the
 time in which our Lord communicates the simple, loving general attention
 of which I made mention before, or when the soul, assisted by grace, is
 established in that state, we must contrive to keep the understanding in
@@ -516,34 +516,34 @@ passion, and death of Jesus Christ, our Lord, that our life and conduct
 may be an imitation of His.' (St. John of the Cross, *Ascent of Mount
 Carmel*, bk. ii. ch. xxxii. 7.)
 
-<span id="fn_142"></span>[113:12](tic12.htm#fr_142) *Life*, ch. xv. 2.
+<span id="fn_142"></span>[113:12](tic12.htm#fr_142.md) *Life*, ch. xv. 2.
 
-<span id="fn_143"></span>[114:13](tic12.htm#fr_143) *Life*, ch. xxiv. 2.
+<span id="fn_143"></span>[114:13](tic12.htm#fr_143.md) *Life*, ch. xxiv. 2.
 
-<span id="fn_144"></span>[115:14](tic12.htm#fr_144) *Way of Perf.* ch.
+<span id="fn_144"></span>[115:14](tic12.htm#fr_144.md) *Way of Perf.* ch.
 xvi. 5. *Castle*, M. v. ch. i, 2, 3; ii. 4, 5; iii. 2, 6, 12.
 
-<span id="fn_145"></span>[115:15](tic12.htm#fr_145) *Way of Perf.* ch.
+<span id="fn_145"></span>[115:15](tic12.htm#fr_145.md) *Way of Perf.* ch.
 xxxi. 7. *Concept*. ch. iv. 6.
 
-<span id="fn_146"></span>[115:16](tic12.htm#fr_146) *Way of Perf.* ch.
+<span id="fn_146"></span>[115:16](tic12.htm#fr_146.md) *Way of Perf.* ch.
 xl. 3.
 
-<span id="fn_147"></span>[116:17](tic12.htm#fr_147) *Life*, ch. xx. 31.
+<span id="fn_147"></span>[116:17](tic12.htm#fr_147.md) *Life*, ch. xx. 31.
 
-<span id="fn_148"></span>[116:18](tic12.htm#fr_148) *Found*. ch. vi.
+<span id="fn_148"></span>[116:18](tic12.htm#fr_148.md) *Found*. ch. vi.
 
-<span id="fn_149"></span>[116:19](tic12.htm#fr_149) *Found*. ch. vi. 15.
+<span id="fn_149"></span>[116:19](tic12.htm#fr_149.md) *Found*. ch. vi. 15.
 
-<span id="fn_150"></span>[117:20](tic12.htm#fr_150) *Life* ch. xviii.
+<span id="fn_150"></span>[117:20](tic12.htm#fr_150.md) *Life* ch. xviii.
 16, 17.
 
-<span id="fn_151"></span>[117:21](tic12.htm#fr_151) *Letter* of Oct. 23,
+<span id="fn_151"></span>[117:21](tic12.htm#fr_151.md) *Letter* of Oct. 23,
 1 376. Vol. II.
 
-<span id="fn_152"></span>[118:22](tic12.htm#fr_152) *Found*. ch. viii.
+<span id="fn_152"></span>[118:22](tic12.htm#fr_152.md) *Found*. ch. viii.
 7-8.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Prayer of Union](tic13)
+[Next: Chapter I. Prayer of Union](tic13.md)

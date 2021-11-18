@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim10)  [Next](anim12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim10)  [Next](anim12.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,4 +200,4 @@ research, suppose a much larger area over which such ideas were regnant.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Continued Existence of the Soul](anim12)
+[Next: Chapter X. The Continued Existence of the Soul](anim12.md)

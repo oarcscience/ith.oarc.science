@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf27) [Next](bulf29) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf27) [Next](bulf29.md) 
 
 # CHAPTER XXIX.
 
@@ -381,4 +381,4 @@ Telemachus and Mentor in the following stanza:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XXX. The Phaeacians- Fate Of The Suitors.](bulf29)
+Next: [CHAPTER XXX. The Phaeacians- Fate Of The Suitors.](bulf29.md)

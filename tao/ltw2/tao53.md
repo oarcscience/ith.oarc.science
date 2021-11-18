@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao53)   
-[Previous](tao52)  [Next](tao54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao53.md)   
+[Previous](tao52)  [Next](tao54.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Great TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 54](tao54)
+[Next: Chapter 54](tao54.md)

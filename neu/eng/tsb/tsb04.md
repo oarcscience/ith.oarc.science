@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tsb03)  [Next](tsb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tsb03)  [Next](tsb05.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ GRENDEL and with GRENDEL'S MOTHER.
 <span id="img_illus14"></span>
 
 [![](tn/illus14.jpg)  
-Click to enlarge](img/illus14.jpg)
+Click to enlarge](img/illus14.jpg.md)
 
     ON AND ON, through the vast, dense forests of Daneland, Beowulf and
 his companions toiled, until the sweat stood out in drops upon their
@@ -30,7 +30,7 @@ been used.
 <span id="img_illus15"></span>
 
 [![](tn/illus15.jpg)  
-Click to enlarge](img/illus15.jpg)
+Click to enlarge](img/illus15.jpg.md)
 
     Finally the path straightened out, and they entered a long vale
 which suddenly broadened into a marshy meadow, dank and evil-smelling
@@ -88,7 +88,7 @@ remain in ignorance of your identity."
 <span id="img_illus16"></span>
 
 [![](tn/illus16.jpg)  
-Click to enlarge](img/illus16.jpg)
+Click to enlarge](img/illus16.jpg.md)
 
     Then Beowulf answered in a loud voice, "I am Beowulf, Prince of
 Weders, son of Ecgtheow and nephew to that good man Hygelac, King of
@@ -136,7 +136,7 @@ Grendel lurked in the hearts of the Danes.
 <span id="img_illus17"></span>
 
 [![](tn/illus17.jpg)  
-Click to enlarge](img/illus17.jpg)
+Click to enlarge](img/illus17.jpg.md)
 
     In the king's high place sat Hrothgar, arrayed in a fine red robe of
 lamb's-wool, a golden crown upon his white locks. Beside him was his
@@ -271,7 +271,7 @@ waves to come to us in a time of need."
 <span id="img_illus18"></span>
 
 [![](tn/illus18.jpg)  
-Click to enlarge](img/illus18.jpg)
+Click to enlarge](img/illus18.jpg.md)
 
     With these words, Hrothgar lifted to his lips the jeweled cup that
 Wealhtheow brought him, and then his lady took it again from his hands,
@@ -304,7 +304,7 @@ the deep night.
 <span id="img_illus19"></span>
 
 [![](tn/illus19.jpg)  
-Click to enlarge](img/illus19.jpg)
+Click to enlarge](img/illus19.jpg.md)
 
  
 
@@ -381,7 +381,7 @@ Geatsland fell deeper and deeper into the swooning sleep.
 <span id="img_illus20"></span>
 
 [![](tn/illus20.jpg)  
-Click to enlarge](img/illus20.jpg)
+Click to enlarge](img/illus20.jpg.md)
 
     Then with a rush, the door flew wide, and the fog and salt-smelling
 night swept in and filled Heorot with strange odors. And in the doorway,
@@ -456,7 +456,7 @@ thirty men.
 <span id="img_illus21"></span>
 
 [![](tn/illus21.jpg)  
-Click to enlarge](img/illus21.jpg)
+Click to enlarge](img/illus21.jpg.md)
 
     And now Beowulf had the upper hand, and flew at the giant's throat.
 But here his hands clutched at thick scales upon which he could get no
@@ -544,7 +544,7 @@ into the night.
 <span id="img_illus22"></span>
 
 [![](tn/illus22.jpg)  
-Click to enlarge](img/illus22.jpg)
+Click to enlarge](img/illus22.jpg.md)
 
  
 
@@ -624,7 +624,7 @@ gleaming in the sun as they rode after their leaders.
 <span id="img_illus23"></span>
 
 [![](tn/illus23.jpg)  
-Click to enlarge](img/illus23.jpg)
+Click to enlarge](img/illus23.jpg.md)
 
     Huge dogs flung their enormous bodies along the way, having quickly
 picked up the powerful scent of Grendel and his monster-mother.
@@ -678,7 +678,7 @@ disappeared from sight.
 <span id="img_illus24"></span>
 
 [![](tn/illus24.jpg)  
-Click to enlarge](img/illus24.jpg)
+Click to enlarge](img/illus24.jpg.md)
 
     DOWN, down, down he sank. At first he could see nothing, and the
 dark water sang in his ears and lay about his body like a thick mantle.
@@ -867,7 +867,7 @@ value.
 <span id="img_illus25"></span>
 
 [![](tn/illus25.jpg)  
-Click to enlarge](img/illus25.jpg)
+Click to enlarge](img/illus25.jpg.md)
 
     Later that morning Beowulf, together with his earls, and all the
 great treasure that Hrothgar had bestowed on him, set sail.
@@ -885,4 +885,4 @@ adventures among the Danes.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](tsb05)
+[Next: Part III](tsb05.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#II)  [Previous](satl001) 
-[Next](satl003) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#II)  [Previous](satl001.md) 
+[Next](satl003.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ invenit."
 
 ------------------------------------------------------------------------
 
-[Next: III](satl003)
+[Next: III](satl003.md)

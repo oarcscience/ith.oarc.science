@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale06)  [Next](tale08) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale06)  [Next](tale08.md) 
 
 ------------------------------------------------------------------------
 
@@ -719,4 +719,4 @@ graven with needle gravers upon the eye corners, were a warner for whoso
 would be warned and an example for whoso can take profit from example."
 And she began to tell
 
-(*Next*) [THE ELDEST LADY'S TALE](tale08)  
+(*Next*) [THE ELDEST LADY'S TALE](tale08.md)  

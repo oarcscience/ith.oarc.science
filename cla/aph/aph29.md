@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](aph28)  [Next](aph30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](aph28)  [Next](aph30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000EP89M2/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Aphrodite*, by Pierre Louys, \[1932\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -106,7 +106,7 @@ She murmured: "It is written:
  For of old time I have broken thy yoke, and burst thy bonds.  
  And thou saidst, I will not transgress;  
  When upon every high hill and under every green tree,  
- Thou wanderest, playing the harlot*. <span id="fr_5"></span>[1](#fn_5)
+ Thou wanderest, playing the harlot*. <span id="fr_5"></span>[1](#fn_5.md)
 
 </div>
 
@@ -121,7 +121,7 @@ She murmured: "It is written:
  Therefore will I return, and take away my corn in the time thereof,  
  And my wine in the season thereof,  
  And will recover my wool and my flax given to cover her
-nakedness*. <span id="fr_6"></span>[2](#fn_6)
+nakedness*. <span id="fr_6"></span>[2](#fn_6.md)
 
 </div>
 
@@ -134,7 +134,7 @@ nakedness*. <span id="fr_6"></span>[2](#fn_6)
  Know what thou hast done.  
  Thou art a swift dromedary, traversing her ways;  
  A wild ass, used to the wilderness.  
- In her month they shall find her*. <span id="fr_7"></span>[3](#fn_7)
+ In her month they shall find her*. <span id="fr_7"></span>[3](#fn_7.md)
 
 </div>
 
@@ -148,7 +148,7 @@ nakedness*. <span id="fr_6"></span>[2](#fn_6)
  And whose issue is like the issue of horses.  
  Thus thou calledst to remembrance the lewdness of thy youth,  
  In bruising thy teats by the Egyptians for the paps of thy
-youth*. <span id="fr_8"></span>[4](#fn_8)
+youth*. <span id="fr_8"></span>[4](#fn_8.md)
 
 </div>
 
@@ -158,7 +158,7 @@ youth*. <span id="fr_8"></span>[4](#fn_8)
 
 "*Thou hast played the harlot with many lovers;  
  Yet return again unto me, saith the Lord*. <span
-id="fr_9"></span>[5](#fn_9)
+id="fr_9"></span>[5](#fn_9.md)
 
 </div>
 
@@ -170,7 +170,7 @@ id="fr_9"></span>[5](#fn_9)
  And they shall deal furiously with thee:  
  They shall take away thy nose and thine ears;  
  And thy remnant shall fall by the sword*. <span
-id="fr_10"></span>[6](#fn_10)
+id="fr_10"></span>[6](#fn_10.md)
 
 </div>
 
@@ -181,7 +181,7 @@ id="fr_10"></span>[6](#fn_10)
 "*And Huzzab shall be led away captive,  
  She shall be brought up, and her maids shall lead her  
  As with the voice of doves,  
- Tabering upon their breasts*. <span id="fr_11"></span>[7](#fn_11)
+ Tabering upon their breasts*. <span id="fr_11"></span>[7](#fn_11.md)
 
 </div>
 
@@ -192,7 +192,7 @@ id="fr_10"></span>[6](#fn_10)
 
 <div style="margin-left: 32px">
 
-"*I will not punish thy daughters*. <span id="fr_12"></span>[8](#fn_12)
+"*I will not punish thy daughters*. <span id="fr_12"></span>[8](#fn_12.md)
 
 </div>
 
@@ -206,7 +206,7 @@ white, and let thy head lack no ointment. Live joyfully with the wife
 whom thou lovest all the days of the life of thy vanity which he bath
 given thee under the sun; for there is no work, nor device, nor
 knowledge, nor wisdom, in the grave, whither thou goest*." <span
-id="fr_13"></span>[9](#fn_13)
+id="fr_13"></span>[9](#fn_13.md)
 
 </div>
 
@@ -218,7 +218,7 @@ She shuddered and repeated in a low voice:
 grave, whither thou goest*.
 
 "*Truly, the light is sweet, and a pleasant thing it is for the eyes to
-behold the sun*. <span id="fr_14"></span>[10](#fn_14)
+behold the sun*. <span id="fr_14"></span>[10](#fn_14.md)
 
 "*Rejoice, O young man, in thy youth, and let thy heart cheer thee in
 the days of thy youth, and walk in the ways of thine heart, and in the
@@ -226,7 +226,7 @@ sight of thine eyes: because man goeth to his long home, and the
 mourners go about the streets. Or ever the silver cord be loosed, or the
 golden bowl be broken, or the pitcher be broken at the fountain, or the
 wheel broken at the cistern. Then shall the dust return to the earth as
-it was*." <span id="fr_15"></span>[11](#fn_15)
+it was*." <span id="fr_15"></span>[11](#fn_15.md)
 
 </div>
 
@@ -268,30 +268,30 @@ Demetrios entered.
 
 ### Footnotes
 
-<span id="fn_5"></span>[225:1](aph29.htm#fr_5) *Jeremiah*, 2: 2, 20.
+<span id="fn_5"></span>[225:1](aph29.htm#fr_5.md) *Jeremiah*, 2: 2, 20.
 
-<span id="fn_6"></span>[225:2](aph29.htm#fr_6) *Hosea*, 2: 7, 8, 9.
+<span id="fn_6"></span>[225:2](aph29.htm#fr_6.md) *Hosea*, 2: 7, 8, 9.
 
-<span id="fn_7"></span>[226:3](aph29.htm#fr_7) *Jeremiah*, 2: 23, 24.
+<span id="fn_7"></span>[226:3](aph29.htm#fr_7.md) *Jeremiah*, 2: 23, 24.
 
-<span id="fn_8"></span>[226:4](aph29.htm#fr_8) *Ezekiel*, 23: 22, 25.
+<span id="fn_8"></span>[226:4](aph29.htm#fr_8.md) *Ezekiel*, 23: 22, 25.
 
-<span id="fn_9"></span>[226:5](aph29.htm#fr_9) *Ezekiel*, 23: 20, 21.
+<span id="fn_9"></span>[226:5](aph29.htm#fr_9.md) *Ezekiel*, 23: 20, 21.
 
-<span id="fn_10"></span>[226:6](aph29.htm#fr_10) *Nahum*, 3: 7.
+<span id="fn_10"></span>[226:6](aph29.htm#fr_10.md) *Nahum*, 3: 7.
 
-<span id="fn_11"></span>[226:7](aph29.htm#fr_11) *Jeremiah*, 3: 1.
+<span id="fn_11"></span>[226:7](aph29.htm#fr_11.md) *Jeremiah*, 3: 1.
 
-<span id="fn_12"></span>[227:8](aph29.htm#fr_12) *Hosea*, 4: 14.
+<span id="fn_12"></span>[227:8](aph29.htm#fr_12.md) *Hosea*, 4: 14.
 
-<span id="fn_13"></span>[227:9](aph29.htm#fr_13) *Ecclesiastes*, 9:
+<span id="fn_13"></span>[227:9](aph29.htm#fr_13.md) *Ecclesiastes*, 9:
 7-10.
 
-<span id="fn_14"></span>[227:10](aph29.htm#fr_14) *Ecclesiastes*, 11: 7.
+<span id="fn_14"></span>[227:10](aph29.htm#fr_14.md) *Ecclesiastes*, 11: 7.
 
-<span id="fn_15"></span>[227:11](aph29.htm#fr_15) *Ecclesiastes*, 11: 9;
+<span id="fn_15"></span>[227:11](aph29.htm#fr_15.md) *Ecclesiastes*, 11: 9;
 12 5-7.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two. The Dust Returns to the Earth](aph30)
+[Next: Chapter Two. The Dust Returns to the Earth](aph30.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr05)  [Next](rhr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr05)  [Next](rhr07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -31,12 +31,12 @@ Welt" at Franckfurt-on-the-Mayne in 1615. A Dutch translation was also
 published in this year, and by 1617 there had been four Franckfurt
 editions, the last omitting the "Universal Reformation," which, though
 it received an elaborate alchemical elucidation by Brotoffer, <span
-id="fr_45"></span>[1](#fn_45) seems gradually to have dropped out of
+id="fr_45"></span>[1](#fn_45.md) seems gradually to have dropped out of
 notice. "Other editions," says Buhle, "followed in the years immediately
 succeeding, but these it is unnecessary to notice. In the title-page of
 the third Franckfurt edition stands--*First printed at Cassel* in the
 year 1616. But the four first words apply to the original edition, the
-four last to this. <span id="fr_46"></span>[2](#fn_46)
+four last to this. <span id="fr_46"></span>[2](#fn_46.md)
 
 <span id="page_65">p. 65</span>
 
@@ -93,7 +93,7 @@ great wonders they wrought, and how Nature was discovered unto them.
 
 Hereby was that high and noble spirit of Brother C. R. C. so stired up,
 that Jerusalem was not so much now in his mind as Damasco; <span
-id="fr_47"></span>[1](#fn_47) also he could not bridle his desires any
+id="fr_47"></span>[1](#fn_47.md) also he could not bridle his desires any
 longer, but made a bargain with the Arabians that they should carry him
 for a certain sum of money to Damcar.
 
@@ -494,8 +494,8 @@ Now, as we had not yet seen the dead body of our careful and wise
 Father, we therefore removed the altar aside; then we lifted up a strong
 plate of brass, and found a fair and worthy body, whole and unconsumed,
 as the same is here lively counterfeited, <span
-id="fr_48"></span>[1](#fn_48) with all the ornaments and attires. In his
-hand he held a parchment called T, <span id="fr_49"></span>[2](#fn_49)
+id="fr_48"></span>[1](#fn_48.md) with all the ornaments and attires. In his
+hand he held a parchment called T, <span id="fr_49"></span>[2](#fn_49.md)
 the
 
 <span id="page_79">p. 79</span>
@@ -681,32 +681,32 @@ wicked world.
 
 ### Footnotes
 
-<span id="fn_45"></span>[64:1](rhr06.htm#fr_45) "Elucidarius Major, oder
+<span id="fn_45"></span>[64:1](rhr06.htm#fr_45.md) "Elucidarius Major, oder
 Ekleuchterunge über die Reformatio der ganzen Weiten Welt . . . Durch
 Radtichs Brotofferr." 1617.
 
-<span id="fn_46"></span>[64:2](rhr06.htm#fr_46) De Quincey,
+<span id="fn_46"></span>[64:2](rhr06.htm#fr_46.md) De Quincey,
 "Rosicrucians and Freemasons."
 
-<span id="fn_47"></span>[66:1](rhr06.htm#fr_47) Damascus and the unknown
+<span id="fn_47"></span>[66:1](rhr06.htm#fr_47.md) Damascus and the unknown
 city denominated Damcar are continually confused in the German editions.
 Brother C. R. C. evidently did not project a journey to Damascus, which
 he had already reached; nevertheless this is the name appearing in this
 place, and I have decided on retaining it for reasons which will
 subsequently be made evident.
 
-<span id="fn_48"></span>[78:1](rhr06.htm#fr_48) The illustration which
+<span id="fn_48"></span>[78:1](rhr06.htm#fr_48.md) The illustration which
 is here referred to is, singularly enough, not reproduced in the text of
 the translation, and it is also absent from the Dutch version of 1617.
 As there are no other editions of the "Fama Fraternitatis" in the
 Library of the British Museum, I also am unable to gratify the curiosity
 of my readers by a copy of the original engraving.
 
-<span id="fn_49"></span>[78:2](rhr06.htm#fr_49) In the English
+<span id="fn_49"></span>[78:2](rhr06.htm#fr_49.md) In the English
 translation the letter I has been substituted by a typographical error,
 or by an error of transcription for the T which is found in all the
 German editions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Confessio Fraternitatis](rhr07)
+[Next: Chapter IV. The Confessio Fraternitatis](rhr07.md)

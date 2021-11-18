@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps44)  [Next](rps46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps44)  [Next](rps46.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ A.B.C., M.A.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 44. My Royal Mother](rps46)
+[Next: Chapter 44. My Royal Mother](rps46.md)

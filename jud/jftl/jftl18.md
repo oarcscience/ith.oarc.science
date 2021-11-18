@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl17)  [Next](jftl19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl17)  [Next](jftl19.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_17800"></span> <span align="CENTER"> [![The gates opened
 from within and the Arab stood before them.
 (&lt;i&gt;P.185&lt;/i&gt;).](tn/17800.jpg)  
-Click to enlarge](img/17800.jpg)  
+Click to enlarge](img/17800.jpg.md)  
 The gates opened from within and the Arab stood before them.
 (*P.185*).  
 </span>
@@ -235,4 +235,4 @@ crowds that thronged the streets.
 
 ------------------------------------------------------------------------
 
-[Next: The Sleep of One Hundred Years](jftl19)
+[Next: The Sleep of One Hundred Years](jftl19.md)

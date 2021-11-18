@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar197) [Next](gbar199)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar197) [Next](gbar199.md)
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ servants when they confess that they merit hell for their sins.
 
 ------------------------------------------------------------------------
 
-[Next](gbar199)
+[Next](gbar199.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth075)  [Next](toth077) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth075)  [Next](toth077.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 73. THE COYOTE AND THE PORCUPINE. <span id="fr_145"></span>[1](#fn_143)
+## 73. THE COYOTE AND THE PORCUPINE. <span id="fr_145"></span>[1](#fn_143.md)
 
 At some distance southwest of Wálpi is a place called Water Killing Hill
 (Báqöychomo), where there are still some old ruins. A short distance
@@ -90,9 +90,9 @@ would have a chance sometime to take revenge on the Porcupine.
 
 ### Footnotes
 
-<span id="fn_143"></span>[202:1](toth076.htm#fr_145) Told by Sik'áhpik'i
+<span id="fn_143"></span>[202:1](toth076.htm#fr_145.md) Told by Sik'áhpik'i
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 74. The Coyote and the Badger](toth077)
+[Next: 74. The Coyote and the Badger](toth077.md)

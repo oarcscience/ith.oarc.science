@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](shk03)  [Next](shk05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](shk03)  [Next](shk05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 ###### OF
 
-## VOLUME IV.--TRACT SHEKALIM. <span id="fr_0"></span>[1](#fn_0)
+## VOLUME IV.--TRACT SHEKALIM. <span id="fr_0"></span>[1](#fn_0.md)
 
 ### CHAPTER I.
 
@@ -303,10 +303,10 @@ firstlings after the destruction of the Temple.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiii:1](shk04.htm#fr_0) See introduction to
+<span id="fn_0"></span>[xiii:1](shk04.htm#fr_0.md) See introduction to
 synopsis in Tract Sabbath, Vol. I., p. xxix. This tract has no Gemara.
 The synopsis contains the Mishnas, with their commentaries.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I.](shk05)
+[Next: Chapter I.](shk05.md)

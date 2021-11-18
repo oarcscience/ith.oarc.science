@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo28)  [Next](beo30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo28)  [Next](beo30.md) 
 
 ------------------------------------------------------------------------
 
@@ -215,4 +215,4 @@ by illustration returns to the tale of his adventure.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXXI](beo30)
+[Next: Part XXXI](beo30.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fsn18)  [Next](fsn20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fsn18)  [Next](fsn20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1R0HU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Stories From Southern Nigeria*, by Elphinstone Dayrell, \[1910\],
 at Intangible Textual Heritage
 
@@ -54,6 +54,6 @@ eyes in accordance with the queen's orders.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. Why the Cat kills Rats](fsn20)
+[Next: XVIII. Why the Cat kills Rats](fsn20.md)
 
 </div>

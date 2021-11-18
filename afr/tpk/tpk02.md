@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk01)  [Next](tpk03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk01)  [Next](tpk03.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Kingdom from the vengeance that shall come upon them suddenly.
 
 ------------------------------------------------------------------------
 
-[Next: The Promised Key](tpk03)
+[Next: The Promised Key](tpk03.md)

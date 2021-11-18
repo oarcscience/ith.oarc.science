@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe289)  [Next](prwe291) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe289)  [Next](prwe291.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ labour is one of danger, requiring serious attention.
 
 ------------------------------------------------------------------------
 
-[Next: Meeting on the Stairs](prwe291)
+[Next: Meeting on the Stairs](prwe291.md)

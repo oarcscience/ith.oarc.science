@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms27)  [Next](jms29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms27)  [Next](jms29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ Children," etc., *CCAR Yearbook*, XLII (1932), 356-60; *Ber.* 7b; *Ḥag.*
 references; also Bischoff, 32 ff.
 
 <span id="an_7_2">2</span>. See Jacob, *Im Namen Gottes*, 72, 75 ff.;
-Frazer, Golden Bough, 1900, I, 403-47. [Methuselah](errata.htm#2)
+Frazer, Golden Bough, 1900, I, 403-47. [Methuselah](errata.htm#2.md)
 advised Lamech, father of Noah, to delay naming his son "because the
 people of that generation were sorcerers, and they would have bewitched
 him if they had known his name" (*Da‘at Zekenim* on Gen. 5:28).
@@ -42,7 +42,7 @@ invocation of angels involves a measure of coercion
 
 <span id="page_288">p. 288</span>
 
-upon God, who is [ultimately](errata.htm#3) responsible for their
+upon God, who is [ultimately](errata.htm#3.md) responsible for their
 actions; cf. *Lebush* on *Oraḥ Ḥayim* 584:1: ‏סגולת ההשבעות האמיתיות כן
 היא שהשם ית׳ יתן להם רשות לאותן מלאבים שיעשו דברי המשביעים בלא שום
 זבות‎.
@@ -339,7 +339,7 @@ if his etymologies are as often as not dubious, he presents a good
 survey of the entire field. The purpose of this discussion has been
 solely to illustrate the type of material under consideration.
 
-<span id="an_7_50">50</span>. See pp. [250](jms18.htm#page_250) f.
+<span id="an_7_50">50</span>. See pp. [250](jms18.htm#page_250.md) f.
 above.
 
 <span id="an_7_51">51</span>. Cf. *Raziel*, 25b, 34a-35a, 4a ff.
@@ -384,4 +384,4 @@ Jubelschrift*, 32 ff.; Grunwald, *MGJV*, V (1900), 79-84; E. Lévy,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](jms29)
+[Next: Chapter VIII](jms29.md)

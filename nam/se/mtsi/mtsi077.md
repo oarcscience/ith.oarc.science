@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi076)  [Next](mtsi078) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi076)  [Next](mtsi078.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ afflictions!"
 
 ------------------------------------------------------------------------
 
-[Next: 76. Rabbit Deceives the Other Animals](mtsi078)
+[Next: 76. Rabbit Deceives the Other Animals](mtsi078.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb08)  [Next](gnfb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb08)  [Next](gnfb10.md) 
 
 </div>
 
@@ -163,6 +163,6 @@ By the Comte de Caylus.
 
 ------------------------------------------------------------------------
 
-[Next: Prince Narcissus and the Princess Potentilla](gnfb10)
+[Next: Prince Narcissus and the Princess Potentilla](gnfb10.md)
 
 </div>

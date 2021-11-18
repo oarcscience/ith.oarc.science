@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe193)  [Next](prwe195) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe193)  [Next](prwe195.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,4 +11,4 @@ Legends](../../index)  [English Folklore](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: The Black Dogs](prwe195)
+[Next: The Black Dogs](prwe195.md)

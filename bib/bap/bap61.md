@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap60) 
-[Next](bap62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap60.md) 
+[Next](bap62.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ before them, but in his subtlety he made graven images, which had not
 been made unto that day, and no man was provoked, but ye were all led
 astray, and did see the fruit of your body spoiled, and held your peace
 even as that evil lion. 8. And now when ye saw how that this man's
-concubine which suffered evil, <span id="fr_139"></span>[1](#fn_139)
+concubine which suffered evil, <span id="fr_139"></span>[1](#fn_139.md)
 died, ye were moved all of you and came unto me saying: Wilt thou
 deliver the children of Benjamin into our hands? Therefore did I deceive
 you and said: I will deliver them unto you. And now I have destroyed
@@ -187,7 +187,7 @@ the 6th family: Rephaz, Sephet, Araphaz, Metach, Adhoc, Balinoc; and of
 the 7th family: Benin, Mephiz, Araph, Ruimel, Belon, Iaal, Abac; and
 (of) the (8th, 9th and) 10th family: Enophlasa, Melec, Meturia, Meac;
 and the rest of the princes of the tribe which were left, in number
-threescore. <span id="fr_140"></span>[1](#fn_140)
+threescore. <span id="fr_140"></span>[1](#fn_140.md)
 
 12\. And at that time did the Lord requite unto Michas and unto his
 mother all the things that he had spoken. And Michas was melted with
@@ -198,11 +198,11 @@ concerning them.
 
 ### Footnotes
 
-<span id="fn_139"></span>[209:1](bap61.htm#fr_139) XLVII. 8. *which
+<span id="fn_139"></span>[209:1](bap61.htm#fr_139.md) XLVII. 8. *which
 suffered evil*: *iniqua gerens*: perhaps allowed the evil, as above,
 XLV. 6.
 
-<span id="fn_140"></span>[210:1](bap61.htm#fr_140) 11. The names of the
+<span id="fn_140"></span>[210:1](bap61.htm#fr_140.md) 11. The names of the
 Benjamite chiefs are drawn, in part at least, from the list of the
 descendants of Benjamin in 1 Chron. 8, but they are so disfigured as to
 defy complete identification. The divisions and the orthography are
@@ -210,4 +210,4 @@ alike incapable of being settled by the evidence before me.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVIII](bap62)
+[Next: Chapter XLVIII](bap62.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh25)  [Next](seh27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh25)  [Next](seh27.md) 
 
 ------------------------------------------------------------------------
 
@@ -383,7 +383,7 @@ been in the habit of keeping always stored in their houses some two or
 three years' provision of rice at a time. All over India the family that
 is rich enough buys its rice for the month or the year by the *maund*,
 even as in England we buy coal by the ton. <span
-id="fr_3"></span>[1](#fn_3) But the farmer was supposed never to
+id="fr_3"></span>[1](#fn_3.md) But the farmer was supposed never to
 encroach, for the purposes of the market, upon the store of grain that
 was to secure food to his household and dependents, not only during the
 current year, but also during two scanty harvests ahead, should the
@@ -678,7 +678,7 @@ only country in the world in which it can be produced. Here then was the
 tragedy incipient. Twenty years ago, it is said, the cultivation of jute
 made its appearance on something of a commercial scale in these East
 Bengal districts. At first, however, it spread slowly. But some seven or
-eight years ago <span id="fr_4"></span>[1](#fn_4) it made a sudden
+eight years ago <span id="fr_4"></span>[1](#fn_4.md) it made a sudden
 advance, and to-day the culture of the plant is going forward by leaps
 and bounds. As one goes down the river from Khulna to Barisal, one sees
 on all hands the fields of jute alternating with the fields of rice, and
@@ -734,12 +734,12 @@ Man, as indigo, opium, india-rubber, and now jute?
 
 ### Footnotes
 
-<span id="fn_3"></span>[174:1](seh26.htm#fr_3) A *maund* is about 80
+<span id="fn_3"></span>[174:1](seh26.htm#fr_3.md) A *maund* is about 80
 lbs., *i.e.* about ¾ cwt. It represents, as food, about 160 days for one
 person.
 
-<span id="fn_4"></span>[186:1](seh26.htm#fr_4) This was written in 1906.
+<span id="fn_4"></span>[186:1](seh26.htm#fr_4.md) This was written in 1906.
 
 ------------------------------------------------------------------------
 
-[Next: The Northern Pilgrimage](seh27)
+[Next: The Northern Pilgrimage](seh27.md)

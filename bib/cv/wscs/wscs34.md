@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs33) 
-[Next](wscs35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs33.md) 
+[Next](wscs35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -671,4 +671,4 @@ Satan.")
 ------------------------------------------------------------------------
 
 [Next: Chapter XXX: Sacred Cycles Explaining the Advent of the Gods, the
-Master-Key to the Divinity of Jesus Christ](wscs35)
+Master-Key to the Divinity of Jesus Christ](wscs35.md)

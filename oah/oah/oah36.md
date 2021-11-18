@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah35)  [Next](oah37) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah35)  [Next](oah37.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ by virtue of the crowns from Jehovih's hand.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI](oah37)
+[Next: Chapter XXI](oah37.md)

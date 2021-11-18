@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
@@ -35,8 +35,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bot00)    [Page
-Index](pageidx)    [Text \[Zipped\]](bot.txt.gz)
+[Contents](#contents)    [Start Reading](bot00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](bot.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -57,45 +57,45 @@ class="small">J.B. Hare, September 11, 2008</span>.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bot00)  
-[Preface](bot01)  
-[Contents](bot02)  
-[List of Plates](bot03)  
+<span id="contents"></span> [Title Page](bot00.md)  
+[Preface](bot01.md)  
+[Contents](bot02.md)  
+[List of Plates](bot03.md)  
 <span id="section_000"></span>
 
 ### Part I. Amulets and Talismans
 
-[Chapter I](bot04)  
-[Chapter II](bot05)  
-[Chapter III](bot06)  
-[Chapter IV](bot07)  
-[Chapter V](bot08)  
-[Chapter VI](bot09)  
-[Chapter VII](bot10)  
-[Chapter VIII](bot11)  
-[Chapter IX](bot12)  
-[Chapter X](bot13)  
-[Chapter XI](bot14)  
-[Chapter XII](bot15)  
+[Chapter I](bot04.md)  
+[Chapter II](bot05.md)  
+[Chapter III](bot06.md)  
+[Chapter IV](bot07.md)  
+[Chapter V](bot08.md)  
+[Chapter VI](bot09.md)  
+[Chapter VII](bot10.md)  
+[Chapter VIII](bot11.md)  
+[Chapter IX](bot12.md)  
+[Chapter X](bot13.md)  
+[Chapter XI](bot14.md)  
+[Chapter XII](bot15.md)  
 <span id="section_001"></span>
 
 ### Pat II. The Gems of the Zodiac
 
-[Chapter I. Aries—The Ram](bot16)  
-[Chapter II. Taurus—The Bull](bot17)  
-[Chapter III. Gemini—The Twins](bot18)  
-[Chapter IV. Cancer—The Crab](bot19)  
-[Chapter V. Leo—The Lion](bot20)  
-[Chapter VI. Virgo—The Virgin](bot21)  
-[Chapter VII. Libra—The Balance](bot22)  
-[Chapter VIII. Scorpio—The Scorpion](bot23)  
-[Chapter IX. Sagittarius—The Archer](bot24)  
-[Chapter X. Capricorn—The Goat](bot25)  
-[Chapter XI. Aquarius—The Water-Bearer](bot26)  
-[Chapter XII. Pisces—The Fishes](bot27)  
+[Chapter I. Aries—The Ram](bot16.md)  
+[Chapter II. Taurus—The Bull](bot17.md)  
+[Chapter III. Gemini—The Twins](bot18.md)  
+[Chapter IV. Cancer—The Crab](bot19.md)  
+[Chapter V. Leo—The Lion](bot20.md)  
+[Chapter VI. Virgo—The Virgin](bot21.md)  
+[Chapter VII. Libra—The Balance](bot22.md)  
+[Chapter VIII. Scorpio—The Scorpion](bot23.md)  
+[Chapter IX. Sagittarius—The Archer](bot24.md)  
+[Chapter X. Capricorn—The Goat](bot25.md)  
+[Chapter XI. Aquarius—The Water-Bearer](bot26.md)  
+[Chapter XII. Pisces—The Fishes](bot27.md)  
 
  
 
-[Real and Artificial Gems and How to Test and Select Them](bot28)  
-[Bibliography](bot29)  
-[Index](bot30)  
+[Real and Artificial Gems and How to Test and Select Them](bot28.md)  
+[Bibliography](bot29.md)  
+[Index](bot30.md)  

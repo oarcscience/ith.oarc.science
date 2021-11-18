@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc18)  [Next](pcc20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc18)  [Next](pcc20.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ II\. THE NATURE OF THE SELF
 
 ------------------------------------------------------------------------
 
-[Next: I. Rest](pcc20)
+[Next: I. Rest](pcc20.md)

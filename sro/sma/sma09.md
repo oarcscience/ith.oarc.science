@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma08)  [Next](sma10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma08)  [Next](sma10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ the trumpets and kettle-drums resounded from the towers of the fortress,
 proclaiming the triumph of the dagger to the surrounding country.
 
 The Syrian dominion of the Ismaïlites was at this time considerably
-extended. They purchased from Ibn Amroo, [their](errata.htm#6) owner,
+extended. They purchased from Ibn Amroo, [their](errata.htm#6.md) owner,
 the castles of Cadmos and Kahaf, and took by force that of Massyat from
 the
 
@@ -56,7 +56,7 @@ the Hauran.
 The reign of Mohammed presents few events to illustrate the history of
 the Assassins. It was probably in his time that the following confession
 of the Ismaïlite faith was made to the persons whom Sultan Sanjar sent
-to Alamoot to inquire into it <span id="fr_44"></span>[\*](#fn_44):
+to Alamoot to inquire into it <span id="fr_44"></span>[\*](#fn_44.md):
 
 "This is our doctrine," said the heads of the society. "We believe in
 the unity of God, and acknowledge as the true wisdom and right creed
@@ -133,7 +133,7 @@ Accordingly, when the month Ramazan (the Mohammedan Lent) of the 559th
 year of the Hejra (A. D. 1163) was come, he ordered all the inhabitants
 of Roodbar to assemble on the place of prayer (*Mosella*), or esplanade,
 before the castle of Alamoot. Facing the direction of the Keblah <span
-id="fr_45"></span>[\*](#fn_45) he caused a pulpit to be erected, at
+id="fr_45"></span>[\*](#fn_45.md) he caused a pulpit to be erected, at
 whose four corners were displayed banners of the different hues familiar
 to Islam, namely, a white, a red, a yellow, a green, colours adverse to
 the black of the Abbassides.
@@ -310,12 +310,12 @@ power passed into the hands of the Turkish house of Seljook.
 
 ### Footnotes
 
-<span id="fn_44"></span>[94:\*](sma09.htm#fr_44) As Sanjar lived to a
+<span id="fn_44"></span>[94:\*](sma09.htm#fr_44.md) As Sanjar lived to a
 great age he was contemporary with several of the Ismaïlite sheikhs.
 
-<span id="fn_45"></span>[96:\*](sma09.htm#fr_45) That is, the point
+<span id="fn_45"></span>[96:\*](sma09.htm#fr_45.md) That is, the point
 towards which they turn in prayer, namely, Mecca.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](sma10)
+[Next: Chapter VIII](sma10.md)

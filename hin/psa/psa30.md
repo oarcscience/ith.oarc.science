@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa29)  [Next](psa31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa29)  [Next](psa31.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ own son.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX](psa31)
+[Next: Chapter XXX](psa31.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa09)  [Next](awa11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa09)  [Next](awa11.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,4 +171,4 @@ I will not trouble my courteous reader.
 
 ------------------------------------------------------------------------
 
-[Next: Physical Strength](awa11)
+[Next: Physical Strength](awa11.md)

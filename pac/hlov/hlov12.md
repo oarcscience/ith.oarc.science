@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov11)  [Next](hlov13) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov11)  [Next](hlov13.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ Pele except Kaha-wali, who escaped to Oahu.--
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Pele and Kama-puaa](hlov13)
+[Next: VIII. Pele and Kama-puaa](hlov13.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil16)  [Next](egil18) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil16)  [Next](egil18.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ before.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER XVII. Hildirida's sons in Finmark and at Harold's
-court.](egil18)
+court.](egil18.md)

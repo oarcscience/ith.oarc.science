@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn69)  [Next](ptn71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn69)  [Next](ptn71.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -78,7 +78,7 @@ They are called "Ananzi Stories," because so many of them turn on the
 feats of Ananzi, whose character is a mixture of "The Master-thief," and
 of "Boots;" but the most curious thing about him is, that he illustrates
 the Beast Epic in a remarkable way. In all the West Indian Islands,
-"Ananzi" is the name of spiders <span id="fr_84"></span>[1](#fn_84) in
+"Ananzi" is the name of spiders <span id="fr_84"></span>[1](#fn_84.md) in
 general, and of a very beautiful spider with yellow strips in
 particular. The Negroes think that this spider is the "Ananzi" of their
 stories, but that his superior cunning enables him to take any shape he
@@ -100,11 +100,11 @@ say.
 
 ### Footnotes
 
-<span id="fn_84"></span>[421:1](ptn70.htm#fr_84) Compare Crowther's
+<span id="fn_84"></span>[421:1](ptn70.htm#fr_84.md) Compare Crowther's
 Yoruba Glossary, where *Alansasa* is given as the Yoruban for *spider*.
 The change of *n* into *l* is not uncommon, even supposing the West
 Indian word to be uncorrupt.
 
 ------------------------------------------------------------------------
 
-[Next: Note](ptn71)
+[Next: Note](ptn71.md)

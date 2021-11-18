@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge00) 
-[Next](pge02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge00.md) 
+[Next](pge02.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ J. A. SYMONDS.       
 
 ------------------------------------------------------------------------
 
-[Next: Contents](pge02)
+[Next: Contents](pge02.md)

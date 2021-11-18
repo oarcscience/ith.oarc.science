@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe285)  [Next](prwe287) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe285)  [Next](prwe287.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ their ears do itch."
 
 ------------------------------------------------------------------------
 
-[Next: The Spark on the Candle](prwe287)
+[Next: The Spark on the Candle](prwe287.md)

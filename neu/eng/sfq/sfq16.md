@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq15)  [Next](sfq17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq15)  [Next](sfq17.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ on their journey, Prudence guiding them in the right way.
 
 ------------------------------------------------------------------------
 
-[Next: The Wondrous Bugle and the Mighty Shield](sfq17)
+[Next: The Wondrous Bugle and the Mighty Shield](sfq17.md)

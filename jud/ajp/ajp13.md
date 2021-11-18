@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ajp12)  [Next](ajp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ajp12)  [Next](ajp14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Jewish Proverbs*, by Abraham Cohen, \[1911\], at Intangible
 Textual Heritage
 
@@ -255,4 +255,4 @@ I am older than thou.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Miscellaneous](ajp14)
+[Next: Chapter X: Miscellaneous](ajp14.md)

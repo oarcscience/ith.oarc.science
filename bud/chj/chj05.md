@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj04)  [Next](chj06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj04)  [Next](chj06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ fifteen years near the end of his career for which we have no precise
 sequence of events; but even here we are not left entirely in the dark,
 for there are many indications given of the troublous days through which
 India in general, and the Buddhist community in particular, was then
-passing. <span id="fr_23"></span>[1](#fn_23)
+passing. <span id="fr_23"></span>[1](#fn_23.md)
 
 <span id="page_19">p. 19</span>
 
@@ -52,7 +52,7 @@ esteem in which he is held is shown by nothing more strikingly than by
 the settlement of a dispute about rights of water which is referred to
 his arbitration by the tribes concerned. Evidently, the historical
 Tathāgata was a practical person, far removed from the ecstatic dreamer
-of the Hokekyū. <span id="fr_24"></span>[1](#fn_24)
+of the Hokekyū. <span id="fr_24"></span>[1](#fn_24.md)
 
 Religious India had need of a sound mind with a practical bent, for the
 times were fraught with evil. Wars and rumours of war vexed the minds of
@@ -73,13 +73,13 @@ described as conflicts with the Evil One. These conflicts came at many
 periods in his life; they cannot be said to have shortened his days, for
 he lived to be over eighty, but they were evidently the result of the
 sorrows and anxieties which embittered the later years of his
-life. <span id="fr_25"></span>[1](#fn_25)
+life. <span id="fr_25"></span>[1](#fn_25.md)
 
 The end had probably been drawing on for some time; strange to say, it
 was hastened by a meal of dried boar's flesh, of which he partook in the
 house of Chanda, the blacksmith—a proof that abstinence from flesh
 cannot have been an integral portion of the early rules of
-Buddhism. <span id="fr_26"></span>[2](#fn_26) His death has been very
+Buddhism. <span id="fr_26"></span>[2](#fn_26.md) His death has been very
 touchingly described in the "Sūtra of the Great Decease," which gives us
 also
 
@@ -103,7 +103,7 @@ took the chair, whilst Ananda, in spite of his intimate relations with
 the master, found himself at first excluded altogether (Kern,
 "Buddhism," vol. ii. p. 239). There is a northern tradition of a rival
 Council held outside the Grotto, whilst the official Council within was
-pursuing its labours. <span id="fr_27"></span>[1](#fn_27) Other
+pursuing its labours. <span id="fr_27"></span>[1](#fn_27.md) Other
 traditions (see Kern, *l.c.*)
 
 <span id="page_22">p. 22</span>
@@ -122,7 +122,7 @@ Sūtra-pitakam; Madhyantika, the Apostle of Kashmir; S’ānavaśas, who was
 present at the Second Council, Upagupta, who acted as guide to As’oka
 when that monarch, in the interval between his conversion and his
 ordination to the priesthood, made a tour of the holy places; <span
-id="fr_28"></span>[1](#fn_28) and finally Dhītika, who, during the
+id="fr_28"></span>[1](#fn_28.md) and finally Dhītika, who, during the
 period of missionary fervour which followed the Third Council under
 As’oka (possibly even independently of that Council's authority), went
 into Turkestan and there
@@ -130,7 +130,7 @@ into Turkestan and there
 <span id="page_23">p. 23</span>
 
 became a successful apostle of Buddhism. <span
-id="fr_29"></span>[1](#fn_29) The two lists have no names in common,
+id="fr_29"></span>[1](#fn_29.md) The two lists have no names in common,
 except the first, and the northern histories ignore As’oka's Council.
 The inference seems to be a legitimate one, that north and south were
 independent of one another.
@@ -145,7 +145,7 @@ to dine after midday, when the sun cast shadows more than two inches in
 length? Was it permissible for brethren belonging to the same community
 to keep the sabbaths separately? Might the brethren drink palm-wine, sit
 on elaborate cushions, handle gold and silver, etc.? <span
-id="fr_30"></span>[2](#fn_30) These and similar questions were brought
+id="fr_30"></span>[2](#fn_30.md) These and similar questions were brought
 before the Council of Vaiśāli by the monks of Vaiśāli, who maintained
 their lawfulness. We can see how strong was the current of party feeling
 from the question about the sabbath. The opposing parties could
@@ -153,7 +153,7 @@ evidently no longer meet together for the joint celebration of the
 customary observances, and the tension between the monks of the east and
 west was very great. A leading part in the Synod was taken (Kern, vol.
 ii. p. 248) by Yaśas, whose identification with S’ānavaśas, the Mahāyāna
-patriarch, would, if accepted, <span id="fr_31"></span>[3](#fn_31)
+patriarch, would, if accepted, <span id="fr_31"></span>[3](#fn_31.md)
 
 <span id="page_24">p. 24</span>
 
@@ -162,12 +162,12 @@ definitely recognized. The decision went against the Vaiśāli monks, who
 seem to have belonged chiefly to the proud Vrijji clan of S’akyans, and
 from that moment Buddhism began to be hopelessly shattered by
 ever-increasing schisms and divisions. <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 Before a third Council was summoned, India had undergone the shock of
 invasion, and Alexander's victorious arms had penetrated as far as the
 Punjaub. The immediate effect on Buddhism of the Macedonian invasion was
-not so great as might be imagined. <span id="fr_33"></span>[2](#fn_33)
+not so great as might be imagined. <span id="fr_33"></span>[2](#fn_33.md)
 When the Greek armies came to a check in the Punjaub, there were still
 several hundreds of unconquered miles between them and the kingdom of
 Magadha. The strictly Hellenistic influences came later: the immediate
@@ -193,7 +193,7 @@ from the mouths of the Ganges to the Indus, from the Himalayas to the
 Vindhya. Chandragupta was the founder of the so-called Mauryan dynasty;
 he first defied Seleucus Nicator, and then entered into an alliance with
 him, compacted by a marriage with the Greek king's daughter. It was to
-his court that Megasthenes <span id="fr_34"></span>[1](#fn_34) was sent
+his court that Megasthenes <span id="fr_34"></span>[1](#fn_34.md) was sent
 as minister resident of the Seleucid monarch, and it is to Megasthenes
 that Europe owes its first just notions of India. Chandragupta was not a
 Buddhist, and he has no importance for the historian of religions. He
@@ -231,7 +231,7 @@ with his change of views; and he has left us a series of edicts,
 inscribed on rocks and pillars in different parts of India, which give
 us our best insight into the character of his religious aspirations.
 Whatever his religious views were, he was not ashamed to publish them
-abroad, for he sent embassies <span id="fr_35"></span>[1](#fn_35) to
+abroad, for he sent embassies <span id="fr_35"></span>[1](#fn_35.md) to
 many of the leading
 
 <span id="page_27">p. 27</span>
@@ -269,7 +269,7 @@ succession of rock edicts.
 
 ### Footnotes
 
-<span id="fn_23"></span>[18:1](chj05.htm#fr_23) Northern Buddhists
+<span id="fn_23"></span>[18:1](chj05.htm#fr_23.md) Northern Buddhists
 assign to the closing years of this period of silence the pronouncement
 of two or three most important Sūtras. The "Saddharmapundarika Sūtra" is
 said to have taken seven years to deliver in its fulness, and (as we
@@ -296,10 +296,10 @@ against Greece. Dr. Maeda, in the appendix to "Bukkyō Seiten," gives a
 very convenient chronology of S’akyamuni's life, which is probably,
 however, based on the work of Western scholars.
 
-<span id="fn_24"></span>[19:1](chj05.htm#fr_24) This is the Japanese
+<span id="fn_24"></span>[19:1](chj05.htm#fr_24.md) This is the Japanese
 name for the "Saddharmapundarika Sūtra."
 
-<span id="fn_25"></span>[20:1](chj05.htm#fr_25) I have heard a Buddhist
+<span id="fn_25"></span>[20:1](chj05.htm#fr_25.md) I have heard a Buddhist
 preacher draw a contrast between Buddha and Christ. The latter, he said,
 lived all His life in the midst of enemies who were constantly seeking
 opportunities to destroy Him. He was therefore perpetually in an
@@ -313,14 +313,14 @@ that there was in his ministerial life just as little of rest and
 quietude as there was for Christ during His three years of similar
 activities.
 
-<span id="fn_26"></span>[20:2](chj05.htm#fr_26) The doctrine of
+<span id="fn_26"></span>[20:2](chj05.htm#fr_26.md) The doctrine of
 transmigration is given as one of the reasons for abstinence from animal
 food. If S’akyamuni on this occasion deliberately partook of boar's
 flesh, it will strengthen the position taken up by many that the
 Twelvefold Chain of Causation implies, not transmigration or re-birth,
 but heredity.
 
-<span id="fn_27"></span>[21:1](chj05.htm#fr_27) In "Bukkyō Kakushū Kōyō"
+<span id="fn_27"></span>[21:1](chj05.htm#fr_27.md) In "Bukkyō Kakushū Kōyō"
 (vol. i. fol. 1 and 2), a semi-official manual of Buddhism published in
 Tokyo in the twenty-second year of Meiji (1889), mention is made of
 three Councils, one within the grotto (<span id="img_02100"></span>
@@ -349,27 +349,27 @@ books fall entirely into the Ratnakūta class, etc. Strange to say, the
 Saddharmapundarika, which plays so important a part in Japanese
 Buddhism, is classed among the miscellaneous Sūtras of later addition.
 
-<span id="fn_28"></span>[22:1](chj05.htm#fr_28) According to the Record
+<span id="fn_28"></span>[22:1](chj05.htm#fr_28.md) According to the Record
 of the Transmission of the Dharmapitaka (Nanjo Cat. Trip., No. 1340),
 both Dhītika and his successor Micchaka laboured in Turkestan, their
 activities coming somewhat after the times of As’oka.
 
-<span id="fn_29"></span>[23:1](chj05.htm#fr_29) This tour, according to
+<span id="fn_29"></span>[23:1](chj05.htm#fr_29.md) This tour, according to
 the Chinese (see Prof. Pelliot in *Bulletin de l’École Française de
 l’Extrēme Orient*), extended as far as to Wu-tai-shan in North China,
 the traditional home of the mythological Manjuśri.
 
-<span id="fn_30"></span>[23:2](chj05.htm#fr_30) These are technically
+<span id="fn_30"></span>[23:2](chj05.htm#fr_30.md) These are technically
 known as the *Ten Indulgences*.
 
-<span id="fn_31"></span>[23:3](chj05.htm#fr_31) Whilst some traditions
+<span id="fn_31"></span>[23:3](chj05.htm#fr_31.md) Whilst some traditions
 seem to identify the two, the authorities quoted by Kern treat them as
 distinct persons, and represent Yaśas as <span id="page_24">p. 24</span>
 appealing to S’ānavaśas for his advice and assistance. But the accounts
 are hopelessly inconsistent and confusing. *Kāla As’oka* was the king
 under whom the Council met.
 
-<span id="fn_32"></span>[24:1](chj05.htm#fr_32) Murakami, in his
+<span id="fn_32"></span>[24:1](chj05.htm#fr_32.md) Murakami, in his
 "Handbook of Buddhism," gives the 18 Hīnayāna sects immediately after
 the Second Council. A fuller list will be found in *J.R.A.S* for
 January, 1892, p. 5. It is impossible and un-advisable to burden the
@@ -380,7 +380,7 @@ for several centuries after Christ: sometimes we have cases of a teacher
 following the Mahāyāna in his theological speculations, and the Hīnayāna
 in his tenets on discipline.
 
-<span id="fn_33"></span>[24:2](chj05.htm#fr_33) It would almost seem as
+<span id="fn_33"></span>[24:2](chj05.htm#fr_33.md) It would almost seem as
 though, in the interval between the Parinirvana of S’akyamuni and the
 accession of As’oka, Buddhism in India had lost a great deal of ground,
 and that it was the patronage of As’oka only that saved S’akyamuni from
@@ -388,11 +388,11 @@ the oblivion which befel his predecessors in the Buddhaship. Megasthenes
 describes Brahmanic religious rites and life, but is practically silent
 about Buddhism.
 
-<span id="fn_34"></span>[25:1](chj05.htm#fr_34) Megasthenes was the
+<span id="fn_34"></span>[25:1](chj05.htm#fr_34.md) Megasthenes was the
 author of a book, still extant, which gives a very detailed account of
 the life at the court of Chandragupta.
 
-<span id="fn_35"></span>[26:1](chj05.htm#fr_35) These embassies must
+<span id="fn_35"></span>[26:1](chj05.htm#fr_35.md) These embassies must
 have been sent in the early part of his reign, soon after his conversion
 to religion. One of the kings thus approached was Magas, King of Cyrene,
 who died in B.C. 258. One can see a possible reason for the alliances
@@ -406,4 +406,4 @@ importance to the Seleucid government.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Pre-Christian Expansion of Buddhism](chj06)
+[Next: Chapter IV. The Pre-Christian Expansion of Buddhism](chj06.md)

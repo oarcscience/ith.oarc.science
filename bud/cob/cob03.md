@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob02)  [Next](cob04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob02)  [Next](cob04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -200,7 +200,7 @@ Nay, and of hearts which follow other Gods
 In simpler faith, their prayers arise to me,  
 O Kunti's Son! though they pray wrongfully;  
 For I am the Receiver and the Lord  
-Of every sacrifice. <span id="fr_1"></span>[1](#fn_1)
+Of every sacrifice. <span id="fr_1"></span>[1](#fn_1.md)
 
 </div>
 
@@ -378,7 +378,7 @@ Never the spirit was born; the spirit shall cease to be never;
 Never was time it was not; End and Beginning are dreams!  
 Birthless and deathless and changeless remaineth the spirit for ever;  
 Death hath not touched it at all, dead though the house of it
-seems! <span id="fr_2"></span>[1](#fn_2)
+seems! <span id="fr_2"></span>[1](#fn_2.md)
 
 </div>
 
@@ -465,7 +465,7 @@ charms of property, on the part of a man of business, as the Burmese
 contractor displayed who spent five-sixths of his modest income in
 charity, and was ready to retire from business because he had enough to
 live on quietly (his personal wants being very few) for the rest of his
-life. <span id="fr_3"></span>[1](#fn_3) "His action," says the writer
+life. <span id="fr_3"></span>[1](#fn_3.md) "His action," says the writer
 who tells of him, "is no exception, but the rule."
 
 But the very disinterestedness of the Oriental mind may well become the
@@ -501,7 +501,7 @@ mountain-chains and pathless deserts, the two worlds--the Eastern and
 Western--have had so little intercourse with each other, that each in
 turn has been free to develop, without let or hindrance, its own type of
 civilization, its own philosophy, its own ideal of life. <span
-id="fr_4"></span>[1](#fn_4) Of late
+id="fr_4"></span>[1](#fn_4.md) Of late
 
 <span id="page_18">p. 18</span>
 
@@ -536,16 +536,16 @@ one may hope to span its depths.
 
 ### Footnotes
 
-<span id="fn_1"></span>[7:1](cob03.htm#fr_1) "The Song Celestial," by
+<span id="fn_1"></span>[7:1](cob03.htm#fr_1.md) "The Song Celestial," by
 Sir Edwin Arnold.
 
-<span id="fn_2"></span>[13:1](cob03.htm#fr_2) "The Song Celestial," by
+<span id="fn_2"></span>[13:1](cob03.htm#fr_2.md) "The Song Celestial," by
 Sir Edwin Arnold.
 
-<span id="fn_3"></span>[16:1](cob03.htm#fr_3) See "The Soul of a People"
+<span id="fn_3"></span>[16:1](cob03.htm#fr_3.md) See "The Soul of a People"
 (by H. Fielding Hall), Chap. IX
 
-<span id="fn_4"></span>[17:1](cob03.htm#fr_4) I do not forget that India
+<span id="fn_4"></span>[17:1](cob03.htm#fr_4.md) I do not forget that India
 has again and again been invaded and partially conquered by armies which
 poured into it through <span id="page_18">p. 18</span> the North-Western
 passes. But these invasions, with the exception of that which Alexander
@@ -567,4 +567,4 @@ between the two worlds can be carried on.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Wisdom of the East](cob04)
+[Next: Chapter II. The Wisdom of the East](cob04.md)

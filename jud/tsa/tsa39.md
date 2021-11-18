@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa38)  [Next](tsa40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa38)  [Next](tsa40.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ paramour.
 
 ------------------------------------------------------------------------
 
-[Next: (1) Who strikes his Father or Mother](tsa40)
+[Next: (1) Who strikes his Father or Mother](tsa40.md)

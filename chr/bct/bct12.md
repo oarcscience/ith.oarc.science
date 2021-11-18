@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct11) [Next](bct13)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct11) [Next](bct13.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Abraham were great, powerful and wealthy shêkhs, and their large flocks
 of sheep and goats and herds of camels suggest that they were owners and
 breeders of cattle on a large scale, and masters of caravans. The three
 hundred and eighteen trained men, born in his house ([Gen. xiv.
-14](../../bib/kjv/gen.htm#14:14)), whom Abraham armed and sent forth to
+14](../../bib/kjv/gen.htm#14:14).md), whom Abraham armed and sent forth to
 rescue Lot, his nephew, were probably the armed guards who marched with
 his flocks and herds and caravans and protected them. Up to the present
 no person <span id="page_274">p. 274</span> mentioned in the cuneiform
@@ -60,7 +60,7 @@ already said, the Ziggurat which stands in the west corner of the
 Temenos enclosure was cleared during the winter of 1923-24, and in
 **1924-25** work was begun on the Temenos or Sacred Area itself. A good
 general view of the site already excavated is given on <span
-id="pl03"></span>[Plate III](bct_pl03). Already in 1925, Mr. Woolley was
+id="pl03"></span>[Plate III](bct_pl03.md). Already in 1925, Mr. Woolley was
 able to report as follows: "Summarizing our results in this part of the
 field, we can say that we have now a complete plan of the Ziggurat and
 its surroundings in the Neo-Babylonian period after the wholesale
@@ -75,7 +75,7 @@ metres, and cones of baked clay bearing Ur-Nammu's dedication of the
 building E-temen-ni-il had been inserted in the vertical joints of the
 brickwork. For the first time these cones were found in their original
 position. A specimen of these cones is given on <span
-id="pl04-1"></span>[Plate IV](bct_pl04). Ur-Nammu built E Nannar, or
+id="pl04-1"></span>[Plate IV](bct_pl04.md). Ur-Nammu built E Nannar, or
 Temple of the Moon-god, on the terrace level of E-temen-ni-il. During
 the Larsa period Ur-Nammu's buildings were reconstructed, and prominent
 among the kings who carried out this work were Sinidinnam (2086-2080
@@ -89,7 +89,7 @@ had all worked here.
 but his work was not of the best kind, and as his successors did no
 repairs on his buildings, they fell into decay. The arched doorway which
 he built in the <span id="page_277">p. 277</span> sanctuary of
-E-Dublal-maḫ is shown on <span id="pl04-2"></span>[Plate IV](bct_pl04).
+E-Dublal-maḫ is shown on <span id="pl04-2"></span>[Plate IV](bct_pl04.md).
 For seven hundred years nothing of importance in connection with the
 temple buildings at Ur was done. Nebuchadnezzar II and his grandson
 practically rebuilt the public buildings at Ur. They found the ancient
@@ -101,7 +101,7 @@ gradually sunk into ruin and decay.
 
    To the south-east of the Ziggurat stood the Temple of Nin-gal, which
 was built by Sinbalatsu-ikbi (*see* the door socket of this king on
-<span id="pl08-1"></span>[Plate VIII](bct_pl08)), the Assyrian governor
+<span id="pl08-1"></span>[Plate VIII](bct_pl08).md), the Assyrian governor
 of Ur (650 <span class="small">B.C.</span>), and was restored by
 Nabonidus. Mr. Woolley's excavations showed that it was built on the
 site of the first temple of Nin-gal, which dated from the reign of
@@ -109,8 +109,8 @@ Kuri-Galzu in the XIVth century <span class="small">B.C.</span>
 
    To the south-east of the temple E-Nun-Ma<u>h</u> are the temple
 E-Dublal-Ma<u>h</u>, the work of Kuri-Galzu (<span
-id="pl05"></span>[Plate V](bct_pl05)), and the E-Gig-Par which was built
-by Nabonidus (<span id="pl06"></span>[Plate VI](bct_pl06)). The latter
+id="pl05"></span>[Plate V](bct_pl05).md), and the E-Gig-Par which was built
+by Nabonidus (<span id="pl06"></span>[Plate VI](bct_pl06).md). The latter
 building is 95 metres long and 50 metres wide, and is oriented N.W. and
 S.E., and there is no doubt that it was the <span id="page_278">p.
 278</span> convent in which Bêl-Shalti-Nannar, daughter of Nabonidus and
@@ -123,10 +123,10 @@ for it contained inscribed objects with labels attached for teaching
 purposes! The remains found in E-Dublal-Ma<u>h</u> included portions of
 a statue, dating from 2800 <span class="small">B.C.</span>; a limestone
 plaque with reliefs representing the worship of Nannar (<span
-id="pl13-1"></span>[Plate XIII](bct_pl13), No. 1); portions of the great
-stele of Ur-Nammu (<span id="pl11-2"></span>[Plate XI](bct_pl11), No.
+id="pl13-1"></span>[Plate XIII](bct_pl13), No. 1.md); portions of the great
+stele of Ur-Nammu (<span id="pl11-2"></span>[Plate XI](bct_pl11.md), No.
 2); alabaster rams forming the sides of a throne (<span
-id="pl13-2"></span>[Plate XIII](bct_pl13), No. 2); etc.
+id="pl13-2"></span>[Plate XIII](bct_pl13), No. 2.md); etc.
 
    During the winter of **1925-26**, Mr. Woolley and his men excavated
 the great Gig-Par-ku site at Ur. The earliest buildings of which any
@@ -141,11 +141,11 @@ Ur (2300 <span class="small">B.C.</span>) was the temple of Ur-Nammu,
 but remains of its walls are wanting. Thirteen gate sockets were found,
 and the inscription on them reads, "Ur-Nammu, the mighty man, the king
 of Ur, the king of Sumer and Akkad, has built the splendid Gig-Par for
-his Lady Nin-Gal" (<span id="pl07-2"></span>[Plate VII](bct_pl07), Nos.
+his Lady Nin-Gal" (<span id="pl07-2"></span>[Plate VII](bct_pl07.md), Nos.
 2 and 3). On the ruins of Ur-Nammu's temple his grandson Bur-Sin built a
 temple which was dedicated by him to the goddess Nin-Gal. An inscribed
 door socket of Bur-Sin is shown on <span id="pl08-2"></span>[Plate
-VIII](bct_pl08). This temple was probably destroyed about 2000 <span
+VIII](bct_pl08.md). This temple was probably destroyed about 2000 <span
 class="small">B.C.</span> by the Elamites, who captured the city and
 brought the rule of the Third Dynasty of Ur to an end.
 
@@ -160,7 +160,7 @@ considerable number of small rooms, in which the priests and priestesses
 lived. Some of the rooms were used <span id="page_280">p. 280</span> as
 kitchens and pantries, and some as sepulchral chambers in which the
 bodies of dead priests were buried. A view of the great kitchen in Gig
-Par Ku is given on <span id="pl09"></span>[Plate IX](bct_pl09). The
+Par Ku is given on <span id="pl09"></span>[Plate IX](bct_pl09.md). The
 building supplies a complete plan of an early Sumerian sanctuary, which
 has hitherto been wanting. The temple flourished in a greater or lesser
 degree all through the reign of <u>H</u>ammurabi, and down to the
@@ -168,13 +168,13 @@ eleventh year of the reign of his son Samsu-iluna; its destruction
 probably took place during, or as a result of, the revolt which took
 place in the following year. Among the important objects found in the
 ruins may be mentioned:--1. A diorite statuette of the goddess Eau, the
-great "World- Mother" (<span id="pl10"></span>[Plate X](bct_pl10)),
+great "World- Mother" (<span id="pl10"></span>[Plate X](bct_pl10).md),
 which was made about 2400 <span class="small">B.C.</span> 2. Diorite
 statuette of the goddess Nin-Gal (about 2080 <span
 class="small">B.C.</span>). 3. A limestone plaque on which are
 sculptured scenes of worship (about 3000 <span
 class="small">B.C.</span>) (<span id="pl11-1"></span>[Plate
-XI](bct_pl11), No. 1). 4. An alabaster model of the lunar disk dedicated
+XI](bct_pl11), No. 1.md). 4. An alabaster model of the lunar disk dedicated
 to Nannar by the daughter of Sargon of Agade (about 2630 <span
 class="small">B.C.</span>). 5. A granite bowl of Naram-Sin of Agade
 (2550 <span class="small">B.C.</span>), which about 300 years later
@@ -235,8 +235,8 @@ is little doubt that it was in houses of this kind that Serug, Terah,
 Nahor and Abraham lived. The houses and their courtyards stood side by
 side in rows, as at the present day; the streets then as now were
 narrow. An excellent representation of a street is given on <span
-id="pl12"></span>[Plate XII](bct_pl12). {See <span
-id="p283"></span>[page 283](bct_p283) for a drawing of the interior of a
+id="pl12"></span>[Plate XII](bct_pl12.md). {See <span
+id="p283"></span>[page 283](bct_p283.md) for a drawing of the interior of a
 private house.}
 
    When the master of the house died he was usually buried under it,
@@ -262,7 +262,7 @@ plano-convex mud bricks were found buried under the Ziggurat made by
 Ur-Nammu 2600 <span class="small">B.C.</span> Under the temple of
 E-nin-makh a very interesting object was discovered in the shape of the
 cover of an ivory toilet box bearing a Phoenician inscription (*see*
-<span id="pl14-1"></span>[Plate XIV](bct_pl14), No. 1), and with it were
+<span id="pl14-1"></span>[Plate XIV](bct_pl14), No. 1.md), and with it were
 several articles for the toilet in ivory, and a beautifully engraved
 comb. The remains of the royal buildings, which were erected about 2000
 <span class="small">B.C.</span>, prove that the Sumerians, even at that
@@ -274,7 +274,7 @@ commercial centre like Ur accurate weights were of prime importance, and
 the fine diorite duck-weight inscribed with the name of king Shulgi
 shows that as early as 2500 <span class="small">B.C.</span> standard
 weights were in use in Babylonia (*see* <span id="pl07-1"></span>[Plate
-VII](bct_pl07), No. 1). This standard was in use in Babylonia two
+VII](bct_pl07), No. 1.md). This standard was in use in Babylonia two
 thousand years later, as an inscription on a weight of Nebuchadnezzar II
 testifies.
 
@@ -329,7 +329,7 @@ western desert.
    Before the close of the season cylinder-seals bearing the names of
 five early kings, of whom three were unknown to history, were found.
 From the lapis lazuli cylinder-seal of Queen Nin-Kur-Nin the name of her
-husband Mes-anni-padda ![cuneiform](288.jpg), the founder of the Ist
+husband Mes-anni-padda ![cuneiform](288.jpg.md), the founder of the Ist
 dynasty of Ur has been recovered. Several of the kings of this dynasty
 have hitherto been regarded as mythical.
 
@@ -339,7 +339,7 @@ were discovered clay tablets, inscribed with a semi-pictographic script,
 and seals bearing the names of kings unrecorded in history. Among the
 other important "finds" may be mentioned:--(1) Eight shell plaques
 decorated with linear patterns (*see* <span id="pl15"></span>[Plate
-XV](bct_pl15)) and animal figures; the lines are filled in with colour,
+XV](bct_pl15).md) and animal figures; the lines are filled in with colour,
 red and black. (2) A royal gaming board, which consists of 20 shell
 plaques, decorated with linear designs and inlay of red paste and lapis
 lazuli, and framed with lapis lazuli, ivory and mother-of-pearl. It is
@@ -363,7 +363,7 @@ bound with thin gold. Lying a little apart was a silver baldric, to
 which was attached a "vanity case" of gold filigree work, containing a
 pair of tiny tweezers, spoon and stiletto, all of gold, hung upon a
 silver ring. Close by was **a dagger** (*see* <span
-id="pl14-2"></span>[Plate XIV](bct_pl14), No. 2). The hilt is formed of
+id="pl14-2"></span>[Plate XIV](bct_pl14), No. 2.md). The hilt is formed of
 one piece of deep-coloured lapis lazuli studded with gold, and the blade
 is of burnished gold; the sheath is of solid gold. The back of the
 latter is plain except for two lines of simple beading, but the front is
@@ -394,4 +394,4 @@ downfall and decay of the city about 300 <span class="small">B.C.</span>
 
 ------------------------------------------------------------------------
 
-[Next](bct13)
+[Next](bct13.md)

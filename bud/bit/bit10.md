@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit09)  [Next](bit11) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit09)  [Next](bit11.md) 
 
 ------------------------------------------------------------------------
 
@@ -499,4 +499,4 @@ the Buddhist faith with pagan rituals and ideals.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Sacred Literature](bit11)
+[Next: Chapter VIII. The Sacred Literature](bit11.md)

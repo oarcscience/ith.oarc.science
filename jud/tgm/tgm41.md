@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm40.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ Many were robbed and murdered on the sea.
 <span id="img_22600"></span>
 
 [![](tn/22600.jpg)  
-Click to enlarge](img/22600.jpg)
+Click to enlarge](img/22600.jpg.md)
 
  
 

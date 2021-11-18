@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[Book 13](avbook13)  [Book 15](avbook15)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[Book 13](avbook13)  [Book 15](avbook15.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P417U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P417U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,6 +21,6 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P417U/internetsacredte)
 ------------------------------------------------------------------------
 
 [Hymn 1: On the Bridal of Sūryā, marriage ceremonies in
-general](av14001)  
+general](av14001.md)  
 [Hymn 2: On the Bridal of Sūryā, marriage ceremonies in general,
-continued](av14002)  
+continued](av14002.md)  

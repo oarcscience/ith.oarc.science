@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr06) 
-[Next](idr08) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr06.md) 
+[Next](idr08.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ were the guardians of the days.
 
 ------------------------------------------------------------------------
 
-[Next: Irish Bards](idr08)
+[Next: Irish Bards](idr08.md)

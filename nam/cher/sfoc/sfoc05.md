@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc04)  [Next](sfoc06) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc04)  [Next](sfoc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ progressive and thoroughly reliable men of the band.
 
 ------------------------------------------------------------------------
 
-[Next: The Gahuni Manuscript](sfoc06)
+[Next: The Gahuni Manuscript](sfoc06.md)

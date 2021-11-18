@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod06)  [Next](eod08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod06)  [Next](eod08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 #### THE ORIGIN OF EMBALMING.
 
-I have already explained <span id="fr_22"></span>[2](#fn_22) how the
+I have already explained <span id="fr_22"></span>[2](#fn_22.md) how the
 increased importance that came to be attached to the corpse as the means
 of securing a continuance of existence led to the aggrandizement of the
 tomb. Special care was taken to protect the dead and this led to the
@@ -59,7 +59,7 @@ unattainable, from its wrappings or by means of a portrait statue. It
 was soon recognized that it was beyond the powers of the early embalmer
 to succeed in mummifying the body itself so as to retain a recognizable
 likeness to the man when alive: although from time to time such attempts
-were repeatedly made, <span id="fr_23"></span>[1](#fn_23) until the
+were repeatedly made, <span id="fr_23"></span>[1](#fn_23.md) until the
 period of the XXI Dynasty, when the operator clearly was convinced that
 he had at last achieved what his predecessors, for perhaps twenty-five
 centuries, had been trying in vain to do.
@@ -68,11 +68,11 @@ centuries, had been trying in vain to do.
 
 ### Footnotes
 
-<span id="fn_22"></span>[15:2](eod07.htm#fr_22) *Op. cit. supra*.
+<span id="fn_22"></span>[15:2](eod07.htm#fr_22.md) *Op. cit. supra*.
 
-<span id="fn_23"></span>[16:1](eod07.htm#fr_23) See my volume on "The
+<span id="fn_23"></span>[16:1](eod07.htm#fr_23.md) See my volume on "The
 Royal Mummies," General Catalogue of the Cairo Museum.
 
 ------------------------------------------------------------------------
 
-[Next: Early Mummies](eod08)
+[Next: Early Mummies](eod08.md)

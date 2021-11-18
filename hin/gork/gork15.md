@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork14)  [Next](gork16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork14)  [Next](gork16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 ### CHAPTER XII
 
-### AT THE HOUSE OF BALARÂM, <span id="fr_87"></span>[\*](#fn_87) A DISCIPLE
+### AT THE HOUSE OF BALARÂM, <span id="fr_87"></span>[\*](#fn_87.md) A DISCIPLE
 
 <span class="smallcaps">Srî Râmakrishna</span> arrived from
 Dakshineswara at the house of His disciple Balarâm about ten in the
@@ -28,7 +28,7 @@ Bhagavân chose to make His chief "vineyard" on that day. Here He had
 bound devotee after devotee by the tie of Divine Love. It was here that
 He had so often sung the Name of the Lord and danced at the head of His
 disciples. It seemed as if another Gourânga <span
-id="fr_88"></span>[†](#fn_88) had set up in the house of His disciple
+id="fr_88"></span>[†](#fn_88.md) had set up in the house of His disciple
 Srivâsh a fair for the "buying and selling of Divine Love."
 
 How great was the Master's love for His disciples! There in the Temple
@@ -50,7 +50,7 @@ indeed, are not ordinary men. They are parts of Divinity manifest in the
 flesh." And many a time had the devotees met there "at the Durbar of
 God's love."
 
-Mahendra, <span id="fr_89"></span>[\*](#fn_89) who taught in a
+Mahendra, <span id="fr_89"></span>[\*](#fn_89.md) who taught in a
 neighboring school, had heard that Srî Râmakrishna was visiting at
 Balarâm's house, so having a little leisure he came about noon to see
 Him. The mid-day dinner was over and the Bhagavân was in the
@@ -89,10 +89,10 @@ ii
 In the afternoon Srî Râmakrishna was still seated in Balarâm's
 drawing-room. On His face was a sweet smile, the reflection of which was
 caught by the faces of the disciples. Girish Ghosh, <span
-id="fr_90"></span>[\*](#fn_90) Suresh Mittra, <span
-id="fr_91"></span>[†](#fn_91) Balarâm, Latoo, <span
-id="fr_92"></span>[‡](#fn_92) Chunilall <span
-id="fr_93"></span>[§](#fn_93) and many other disciples were present.
+id="fr_90"></span>[\*](#fn_90.md) Suresh Mittra, <span
+id="fr_91"></span>[†](#fn_91.md) Balarâm, Latoo, <span
+id="fr_92"></span>[‡](#fn_92.md) Chunilall <span
+id="fr_93"></span>[§](#fn_93.md) and many other disciples were present.
 
 Râmakrishna (to Girish): You would better argue the point with Narendra
 (Vivekânanda) and see what he has to say.
@@ -231,7 +231,7 @@ possesses the virtues of self-mastery, right discrimination, dispassion
 and many other qualities. (Aside to a disciple) Just look at Girish's
 devotion to the Lord and his faith in Him.
 
-Nârân, <span id="fr_94"></span>[\*](#fn_94) to the Bhagavân: Revered
+Nârân, <span id="fr_94"></span>[\*](#fn_94.md) to the Bhagavân: Revered
 Sir, shall we not have the pleasure of hearing Thee sing?
 
 Upon this the Bhagavân chanted the Name of the Divine Mother of the
@@ -457,7 +457,7 @@ He was about to take His seat when He found a newspaper lying by His
 side. As newspapers had to do with worldly-minded men, with worldly
 matters, with gossip and scandal, they were unholy objects in His eyes.
 He made a sign and the paper was put away. Thereupon He took His seat.
-Nityagopâl <span id="fr_95"></span>[\*](#fn_95) bowed down and saluted
+Nityagopâl <span id="fr_95"></span>[\*](#fn_95.md) bowed down and saluted
 His feet.
 
 <span id="page_365">p. 365</span>
@@ -482,7 +482,7 @@ Bhagavân: That is only natural. Who is your constant companion?
 
 Nitya: Târak. At times he does not suit the state of my mind.
 
-Bhagavân: Nangtâ <span id="fr_96"></span>[\*](#fn_96) (Totâ Puri) used
+Bhagavân: Nangtâ <span id="fr_96"></span>[\*](#fn_96) (Totâ Puri.md) used
 to say
 
 <span id="page_366">p. 366</span>
@@ -579,8 +579,8 @@ Vedânta has been explained by
 <span id="page_370">p. 370</span>
 
 <span class="contnote">\[paragraph continues\]</span> Sankara. <span
-id="fr_97"></span>[\*](#fn_97) Another point of view is that of
-Râmânuja, <span id="fr_98"></span>[†](#fn_98) who has put forward the
+id="fr_97"></span>[\*](#fn_97.md) Another point of view is that of
+Râmânuja, <span id="fr_98"></span>[†](#fn_98.md) who has put forward the
 doctrine of qualified non-dualism.
 
 Narendra (to the Bhagavân): Sir, may I ask what is meant by
@@ -783,45 +783,45 @@ dispersed each to his own home.
 
 ### Footnotes
 
-<span id="fn_87"></span>[347:\*](gork15.htm#fr_87) See note [p.
-140](gork07.htm#page_140).
+<span id="fn_87"></span>[347:\*](gork15.htm#fr_87.md) See note [p.
+140](gork07.htm#page_140.md).
 
-<span id="fn_88"></span>[347:†](gork15.htm#fr_88) See note [p.
-7](gork03.htm#page_7).
+<span id="fn_88"></span>[347:†](gork15.htm#fr_88.md) See note [p.
+7](gork03.htm#page_7.md).
 
-<span id="fn_89"></span>[348:\*](gork15.htm#fr_89) See note page
-[33](gork04.htm#page_33).
+<span id="fn_89"></span>[348:\*](gork15.htm#fr_89.md) See note page
+[33](gork04.htm#page_33.md).
 
-<span id="fn_90"></span>[350:\*](gork15.htm#fr_90) Girish Chunder Ghosh,
+<span id="fn_90"></span>[350:\*](gork15.htm#fr_90.md) Girish Chunder Ghosh,
 the greatest Hindu poet, dramatist and actor of modern India. He is the
 founder and manager of many theatres in Calcutta. He is regarded as the
 Garrick of India. He translated Shakespeare's Macbeth into Bengali and
 played the part of the hero with wonderful ability and originality. He
 is a genius and the most devoted householder disciple of Râmakrishna.
 
-<span id="fn_91"></span>[350:†](gork15.htm#fr_91) See note [p.
-177](gork08.htm#page_177).
+<span id="fn_91"></span>[350:†](gork15.htm#fr_91.md) See note [p.
+177](gork08.htm#page_177.md).
 
-<span id="fn_92"></span>[350:‡](gork15.htm#fr_92) Latoo, the devoted
+<span id="fn_92"></span>[350:‡](gork15.htm#fr_92.md) Latoo, the devoted
 servant of Râmakrishna. Although he is illiterate he has reached the
 height of spiritual ecstasy through his whole-hearted service and
 devotion for his Divine Master. He is now one of the Sannyâsin disciples
 of Râmakrishna.
 
-<span id="fn_93"></span>[350:§](gork15.htm#fr_93) Bâbu Chunilall Bose is
+<span id="fn_93"></span>[350:§](gork15.htm#fr_93.md) Bâbu Chunilall Bose is
 a gentle householder disciple of Râmakrishna.
 
-<span id="fn_94"></span>[356:\*](gork15.htm#fr_94) Nârân was a young
+<span id="fn_94"></span>[356:\*](gork15.htm#fr_94.md) Nârân was a young
 householder disciple of Ramakrishna.
 
-<span id="fn_95"></span>[364:\*](gork15.htm#fr_95) Nityagopâl was a
+<span id="fn_95"></span>[364:\*](gork15.htm#fr_95.md) Nityagopâl was a
 devoted Bhakta who reached a very high state of spiritual ecstasy
 (Bhâva). He was a young man who lived like a Sannyâsin, although he did
 not join <span id="page_365">p. 365</span> the order. Occasionally he
 used to come to Srî Râmakrishna to pay his respects and regarded Him as
 the Incarnation of Krishna.
 
-<span id="fn_96"></span>[365:\*](gork15.htm#fr_96) Nangtâ was the name
+<span id="fn_96"></span>[365:\*](gork15.htm#fr_96.md) Nangtâ was the name
 by which Srî Râmakrishna called his spiritual teacher in the Advaita
 Vedânta. The word literally means, "One who does not cover his body with
 any clothes." Totâ Puri was his real name. He was a Sannyâsin monk of
@@ -842,10 +842,10 @@ amazement: "How wonderful is the Divine mystery! Thou hast acquired in
 three days what I accomplished after forty years of hard struggle."
 Since then he regarded Râmakrishna as his Spiritual Brother.
 
-<span id="fn_97"></span>[370:\*](gork15.htm#fr_97) Sankara, see note [p.
-279](gork12.htm#page_279).
+<span id="fn_97"></span>[370:\*](gork15.htm#fr_97.md) Sankara, see note [p.
+279](gork12.htm#page_279.md).
 
-<span id="fn_98"></span>[370:†](gork15.htm#fr_98) Râmânuja was the
+<span id="fn_98"></span>[370:†](gork15.htm#fr_98.md) Râmânuja was the
 founder of the Visishtâdvaita, or Qualified Non-dualistic School of
 Vedânta. He was born about 1017 A.D. at Srî Parambattur, a town near
 Madras in Southern India. He is regarded by His followers as the
@@ -858,4 +858,4 @@ followers among all classes of Hindus in India.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. A Day at Shâmpukur](gork16)
+[Next: Chapter XIII. A Day at Shâmpukur](gork16.md)

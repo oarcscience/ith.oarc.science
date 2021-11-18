@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301018/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cota00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cotatxt.zip)
+[Contents](#contents)    [Start Reading](cota00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cotatxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ they are hard to find in electronic form on the web. This is because
 Lucis Publishing Company (in 1922 called 'Lucifer Publishing Company'),
 her exclusive publisher, has aggressively challenged web postings of her
 material using copyright law. However, this book, prepared from [a
-genuine 1922 first edition](img/cnote.jpg), is firmly in the public
+genuine 1922 first edition](img/cnote.jpg.md), is firmly in the public
 domain in the United States by the terms of the Digital Millennium
 Copyright Act, because it was published prior to 1923.
 
@@ -60,13 +60,13 @@ explanation of an occult world-view expressed by many other thinkers.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cota00)  
-[Table of Contents](cota01)  
-[Foreword](cota02)  
-[Lecture I. The Field of Evolution](cota03)  
-[Lecture II. The Evolution of Substance](cota04)  
-[Lecture III. The Evolution of Form, or Group Evolution](cota05)  
-[Lecture IV. The Evolution of Man, the Thinker](cota06)  
-[Lecture V. The Evolution of Consciousness](cota07)  
-[Lecture VI. The Goal of Evolution](cota08)  
-[Lecture VII. Cosmic Evolution](cota09)  
+<span id="contents"></span> [Title Page](cota00.md)  
+[Table of Contents](cota01.md)  
+[Foreword](cota02.md)  
+[Lecture I. The Field of Evolution](cota03.md)  
+[Lecture II. The Evolution of Substance](cota04.md)  
+[Lecture III. The Evolution of Form, or Group Evolution](cota05.md)  
+[Lecture IV. The Evolution of Man, the Thinker](cota06.md)  
+[Lecture V. The Evolution of Consciousness](cota07.md)  
+[Lecture VI. The Goal of Evolution](cota08.md)  
+[Lecture VII. Cosmic Evolution](cota09.md)  

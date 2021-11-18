@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth13)  [Next](oth15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth13)  [Next](oth15.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ and of the consequent differences of position.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](oth15)
+[Next: Chapter 3](oth15.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nbr03)  [Next](nbr05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nbr03)  [Next](nbr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ nations. But then secretly this made a most important change in another
 thing not so open in the world,--the Church, dwellers in heaven, the
 brethren. This was the way heaven was specially affected by this event.
 Salvation and strength and the kingdom of our God and the power of His
-Christ were now come, <span id="fr_70"></span>[1](#fn_70) not *till*
+Christ were now come, <span id="fr_70"></span>[1](#fn_70.md) not *till*
 then in power. There was that which was hidden to the world and not
 understood, no more than Christ was, the heavenly-minded Church which
 understands God's leading and most important meaning in these things
@@ -68,11 +68,11 @@ heavenly places of power this conflict and accusation ceased; the
 heavens were cleared, that these might now declare His righteousness.
 
 The actual catching up of the saints is not here mentioned, because the
-Church should always expect it; <span id="fr_71"></span>[1](#fn_71) and
+Church should always expect it; <span id="fr_71"></span>[1](#fn_71.md) and
 because the agents and their public acts being here in question, the
 Church (one with Christ before the Father, the mystery hidden from ages
 and known only by the Spirit) is not, as we have seen all through, the
-subject; <span id="fr_72"></span>[2](#fn_72) but the
+subject; <span id="fr_72"></span>[2](#fn_72.md) but the
 
 <span id="page_70">p. 70</span>
 
@@ -92,11 +92,11 @@ power though come is not, however, immediately exercised (that is, on
 earth, for the heavens were already clear). The question then arises for
 the woman upon earth--a question of royalty and power. The sphere of
 this royalty and power in Christ being necessarily hated but
-rescued, <span id="fr_73"></span>[1](#fn_73) and Satan's hatred and
+rescued, <span id="fr_73"></span>[1](#fn_73.md) and Satan's hatred and
 animosity then directed against the remnant who were faithful to the
 light they had, keeping the commandments of God and having the testimony
 of Jesus, having the light there was--tile spirit of prophecy. <span
-id="fr_74"></span>[2](#fn_74)
+id="fr_74"></span>[2](#fn_74.md)
 
 The providential actual agencies follow; wherein these things are
 accomplished. As to the position and condition of the inhabiters of
@@ -114,7 +114,7 @@ heavens) the Lamb, its salvation, its strength, its joy, is at once
 introduced, and their victory celebrated on high. It is the natural
 association of the saints, as such--fellowship with the crucified One:
 and therefore if only one or two saints be in their place, their
-associations are with the Lamb. <span id="fr_75"></span>[1](#fn_75) It
+associations are with the Lamb. <span id="fr_75"></span>[1](#fn_75.md) It
 will be remembered that the Lamb has not been mentioned all through the
 historical part: that was providence; and the Church was, as it were,
 hidden. This, in the course of external history, is its real
@@ -138,7 +138,7 @@ will, with the saints, the nations); and shows the
 relative position of the parties (while the man-child is caught up to
 God and His throne, or not actually in the scene), first in heaven, and
 therefore (the evil ceasing, when cast out, to affect the saints of the
-heavenlies) brought in thus, <span id="fr_76"></span>[1](#fn_76) by the
+heavenlies) brought in thus, <span id="fr_76"></span>[1](#fn_76.md) by the
 by, when their position has changed; and then on earth as affecting the
 Jews, during the period in which God's purpose, and therefore those
 interested in it, as a body, flee, in consequence of the dragon's
@@ -167,7 +167,7 @@ and the subsequent actings of the Lord; for there is no note of time
 connected with it: the facts are resumed, or, as to results, commenced
 by the war in heaven. This is most signally fulfilled in this actual
 final accomplishment when Satan is cast out (the commencement, in their
-source, <span id="fr_77"></span>[1](#fn_77)
+source, <span id="fr_77"></span>[1](#fn_77.md)
 
 <span id="page_74">p. 74</span>
 
@@ -179,7 +179,7 @@ point, as we have said, are thereupon taken up.
 
 The apostle now traces equally from its origin, the earthly
 circumstances of the power through which Satan operates; <span
-id="fr_78"></span>[1](#fn_78) and, as in the previous chapter, he first
+id="fr_78"></span>[1](#fn_78.md) and, as in the previous chapter, he first
 gives us characteristically the subject of the prophecy. It is not here
 of purpose necessarily, but of fact. Out of the floating mass of
 population, he sees a beast rise up. It was not now a vision in heaven,
@@ -203,7 +203,7 @@ latter form (*i.e.*, the imperial power divided). I do not carry this
 farther than being definitely characteristic; for if it were carried
 into detail, as at the close, we should have, assuming the identity
 according to the ordinary interpretation of the beasts, <span
-id="fr_79"></span>[1](#fn_79) three of the horns fallen. Further, this
+id="fr_79"></span>[1](#fn_79.md) three of the horns fallen. Further, this
 beast had incorporated the characters of' Daniel's three other beasts,
 but most of the Grecian leopard, though in ravening power and terror
 like the first. To this beast the dragon (he had not formed it, that is
@@ -213,7 +213,7 @@ manifestation from the close of the former chapter when, in its last
 form, it will do Satan's work in the place of his power. But as we have
 the elements of things in these chapters, we have seen the beast traced
 from his very rise out of the sea; and whatever he so characteristically
-does, <span id="fr_80"></span>[2](#fn_80) when formed, comes under the
+does, <span id="fr_80"></span>[2](#fn_80.md) when formed, comes under the
 designation of holding the throne and power of Satan: It will be
 exercised according to the character of the place where Satan is, heaven
 or' earth, each the scene of the conflict whether Christ and His
@@ -236,13 +236,13 @@ holds the dragon's place.
 I may add, I hold the beast to be simply and plainly the Roman empire.
 
 The next characteristic of the beast was the destruction and healing of
-one <span id="fr_81"></span>[1](#fn_81) of the heads or forms of
+one <span id="fr_81"></span>[1](#fn_81.md) of the heads or forms of
 government. This, observe, was subsequent to, <span
-id="fr_82"></span>[2](#fn_82) and not preceding, the dragon's giving him
+id="fr_82"></span>[2](#fn_82.md) and not preceding, the dragon's giving him
 his power. And there was admiration in all the earth at the beast. The
 Roman empire and its corporate power became in the earth the object of
 their admiration, and laid hold on their minds. And they
-worshipped <span id="fr_83"></span>[3](#fn_83) that infidel power and
+worshipped <span id="fr_83"></span>[3](#fn_83.md) that infidel power and
 hostility to God, which had given power to the beast. The form in which
 this shewed itself in man was the pursuit of his own will, simply
 casting off the thought and principle of obedience. The shape which it
@@ -251,7 +251,7 @@ empire, not in its
 
 <span id="page_77">p. 77</span>
 
-apostasy, but in its self-will <span id="fr_84"></span>[1](#fn_84) and
+apostasy, but in its self-will <span id="fr_84"></span>[1](#fn_84.md) and
 self-aggrandizement--Satan's power without reference to God,--as the
 apostle expresses it, "the course of this world, the prince of the power
 of the air, the spirit that now worketh in the children of
@@ -292,7 +292,7 @@ it is not here *doing* but *speaking* in pride; it is his character, not
 his acts: next, injurious words against others flowing from this
 pride--blasphemies; and he was to continue the characteristic period of
 forty-two months, or to practise, to act, for that period. <span
-id="fr_85"></span>[1](#fn_85) When we come to the literal use of it,
+id="fr_85"></span>[1](#fn_85.md) When we come to the literal use of it,
 then it is earthly and literal. So, on the other hand, they that dwell
 in heaven dwell literally in heaven. It is not merely their mystic
 character; otherwise it is obvious it would be the 1260 years; and they
@@ -312,21 +312,21 @@ the Lord God and the Lamb are the temple). But it was the
 
 tabernacle or tent of God: this included the most holy and holy place.
 This heavenly dwelling-place of God with the saints he blasphemed; <span
-id="fr_86"></span>[1](#fn_86) he would have the earth, the inheritance,
+id="fr_86"></span>[1](#fn_86.md) he would have the earth, the inheritance,
 in his own way: this was an evidence there was a power beyond all this.
 He blasphemed also those who were characterized by this
 dwelling-place--dwellers in heaven, the saints of heavenly places. This,
 as regards heavenly things, was what characterized the Church which sits
 in heavenly places. Further, it was given him to make war with the
 saints and overcome them here on earth. Satan they overcame, see chapter
-xii. 11; <span id="fr_87"></span>[2](#fn_87) but in present physical
+xii. 11; <span id="fr_87"></span>[2](#fn_87.md) but in present physical
 persecution the beast overcame, and prevailed against the saints. It is
 not, however, here a question of individual death, but of prevalence, as
 in chapter xii. 11. But he had the day on earth, for this was not
 redeemed nor vindicated to Christ yet. This is true also as regards
 (within the range of the beast) the long protracted period of years, and
-on earth <span id="fr_88"></span>[3](#fn_88) in the crisis among the
-Jewish people. <span id="fr_89"></span>[4](#fn_89) The next
+on earth <span id="fr_88"></span>[3](#fn_88.md) in the crisis among the
+Jewish people. <span id="fr_89"></span>[4](#fn_89.md) The next
 characteristic was, "power was given him over all kindreds, tongues, and
 nations:" this still was characteristic. It was to be the dominant power
 on the
@@ -345,7 +345,7 @@ in heaven, and as strangers and pilgrims seek a country, but "dwell upon
 the earth." These were not written (for such was the security of the
 others) from the foundation of the world, in the book of life of the
 Lamb that was slain--characterized, not only by the book of life, but by
-the sufferings <span id="fr_90"></span>[1](#fn_90) of the Holy One, with
+the sufferings <span id="fr_90"></span>[1](#fn_90.md) of the Holy One, with
 whom they were associated as strangers and pilgrims: "He that hath ears
 to hear let him hear."
 
@@ -359,7 +359,7 @@ endure the continuance of evil, while God permits it and power is given
 to it. If the saints meddle with its principles and avenge themselves
 here, they must suffer its consequences here: "they that take the sword
 shall perish with the sword." Patient suffering is the saints' place, as
-Christ. <span id="fr_91"></span>[2](#fn_91) They are not to take the
+Christ. <span id="fr_91"></span>[2](#fn_91.md) They are not to take the
 beast's character, because they suffer under it: it is warring with
 God's providential
 
@@ -405,7 +405,7 @@ rejected Lamb (it was not of the Son of man openly); but the expression
 of the character of Satan when he spake. We have still, as a beast, a
 corporate oppressing power, as such, though, in some sense, an
 individual may actually wield its power; <span
-id="fr_92"></span>[1](#fn_92) but it is not the force of the symbol
+id="fr_92"></span>[1](#fn_92.md) but it is not the force of the symbol
 "beast." Power so concentrated is rather a horn, though there may be
 close connection between them. This did not set aside the existence of
 the first beast, but was of another character; yet "he exercises all the
@@ -415,7 +415,7 @@ such, over kindreds and tongues and nations, but localized, and acting
 on men's minds in influence when subject--not subjecting secularly
 nations. He causes *the earth*, and them that dwell therein, to worship
 the first beast; but to worship him as bearing this character, "whose
-deadly wound was healed." <span id="fr_93"></span>[2](#fn_93) It is in
+deadly wound was healed." <span id="fr_93"></span>[2](#fn_93.md) It is in
 this restored state or headship-form
 
 <span id="page_83">p. 83</span>
@@ -434,7 +434,7 @@ men--the apparent exercise of God's judgments
 
 <span id="page_84">p. 84</span>
 
-\[paragraph continues\] (as Elijah <span id="fr_95"></span>[1](#fn_95)
+\[paragraph continues\] (as Elijah <span id="fr_95"></span>[1](#fn_95.md)
 did) outwardly. All this, remark, is an ecclesiastical or spiritual
 power--a power ostensibly connected with divine things falsely, for it
 is evil--but ostensibly, and verified to the eyes of men by the
@@ -449,7 +449,7 @@ authority--not to kill, but to cause to be killed, those who did not
 worship this image. This was the doing of this second beast, the
 spiritual being; they had power to do this. It is not said, he had them
 all killed, but he had power to cause all this. <span
-id="fr_96"></span>[2](#fn_96)
+id="fr_96"></span>[2](#fn_96.md)
 
 But he did oppress in earthly things; he caused all to receive "the mark
 of the beast" (in profession or service, as slaves), and would allow no
@@ -466,7 +466,7 @@ well as apostasy gives the
 
 number of his name. As I have said in the note, these seem to me not the
 *last* actions in crisis, but the character of the *preparatory* agents:
-we shall see the results afterwards. <span id="fr_97"></span>[1](#fn_97)
+we shall see the results afterwards. <span id="fr_97"></span>[1](#fn_97.md)
 That which is formal, and not ancillary in their character, may continue
 and hold its place during the
 
@@ -494,7 +494,7 @@ judgment--then he is the Son of Man. And here we have, subsequent to
 this, the patience of the saints under the prevailing power of the beast
 and his image, and afterwards "blessed are the dead," and the Son of man
 reaping the harvest of the earth. Moreover, we have a new song <span
-id="fr_99"></span>[1](#fn_99) sung before the
+id="fr_99"></span>[1](#fn_99.md) sung before the
 
 I see no reason to suppose that "they shall be given into his hand"
 (Dan. vii. 25) means the saints, but rather times and laws.
@@ -519,7 +519,7 @@ towards His royalty, towards the earth, yet associated with His
 suffering people still, and with the perfect number of the remnant,
 having His father's name on their forehead, the manifestation of the
 character plain upon them in grace connected with Him. <span
-id="fr_100"></span>[1](#fn_100) Their great
+id="fr_100"></span>[1](#fn_100.md) Their great
 
 <span id="page_88">p. 88</span>
 
@@ -540,9 +540,9 @@ find them assembled on Mount Zion; yet we are still in close connection
 with the heavenly places; for the new song is sung before the throne and
 before the elders. The harvest and dealings of the Son of man are
 subsequent to this and the fall of Babylon. These are redeemed from the
-earth (while the earth <span id="fr_101"></span>[1](#fn_101) went on,
+earth (while the earth <span id="fr_101"></span>[1](#fn_101.md) went on,
 *i.e.*, the earth as described in the two preceding chapters) to be
-firstfruits to God and the Lamb. <span id="fr_102"></span>[2](#fn_102)
+firstfruits to God and the Lamb. <span id="fr_102"></span>[2](#fn_102.md)
 
 <span id="page_89">p. 89</span>
 
@@ -550,7 +550,7 @@ We meet with this connection for the first time formally expressed. It
 seems to me connected with fidelity during corruption, during which the
 mediatorial work of Christ was confounded, corrupted, or denied, as the
 mediatorial glory is described by the terms "Throne of God and the
-Lamb," <span id="fr_103"></span>[1](#fn_103) "The Lord God Almighty and
+Lamb," <span id="fr_103"></span>[1](#fn_103.md) "The Lord God Almighty and
 the Lamb are the temple of it," &c. So, in the true bride, contrasted
 with the great whore that did corrupt the earth with her fornication, we
 have the elect or heavenly Church (which is spoken of, therefore, as
@@ -564,25 +564,25 @@ of the other. They follow the Lamb wherever He goes, and are without
 
 <span id="page_90">p. 90</span>
 
-\[paragraph continues\] Father's <span id="fr_104"></span>[1](#fn_104)
+\[paragraph continues\] Father's <span id="fr_104"></span>[1](#fn_104.md)
 house they are received into, as identified with Himself--as hidden in
 heavenly places. It was deliverance from this corruption as regards
 worship, that formed a prominent part of the next of the seven messages
 of this chapter--a public general announcement for all to hear of the
-everlasting <span id="fr_105"></span>[2](#fn_105) gospel, declaring
+everlasting <span id="fr_105"></span>[2](#fn_105.md) gospel, declaring
 judgment on subsisting things; and calling for true worship to recognize
 God in the supremacy of His ministrations as the source of all things.
 The connection of the hour of His judgment being come and the call for
 true worship, supposes a gospel preached in the midst of apostasy and
 corruption before the judgment. I believe the *principle* <span
-id="fr_106"></span>[3](#fn_106) of this began at the Reformation (though
+id="fr_106"></span>[3](#fn_106.md) of this began at the Reformation (though
 it was by no means the accomplishment of it), and that it will not be
 fulfilled till the testimony to all--even the heathen nations--for a
 witness, be fulfilled. The striking feature is the announcement
 
 <span id="page_91">p. 91</span>
 
-of the hour of God's judgment <span id="fr_107"></span>[1](#fn_107)
+of the hour of God's judgment <span id="fr_107"></span>[1](#fn_107.md)
 being come. The next messenger announces the fall of Babylon. The
 particulars of this are more fully given us farther on; but getting its
 place in the course of events is of great moment, which is given us
@@ -620,7 +620,7 @@ all that follows in this chapter relates to the earth; but then, by the
 voice from heaven, the portion of the saints is thereon given. Their
 portion is given, too, as in the reward of glory, at least in
 announcement--"Their works do follow them." This refers to manifestation
-in glory. (Comp. 2 Thess. i.) <span id="fr_108"></span>[1](#fn_108)
+in glory. (Comp. 2 Thess. i.) <span id="fr_108"></span>[1](#fn_108.md)
 
 <span id="page_93">p. 93</span>
 
@@ -636,7 +636,7 @@ judgment. All the grapes of that which had the form of His people upon
 earth are trampled in the wine-press of God's wrath. This was done
 "without the city," not yet mentioned since chapter xi. And there,
 notice, it was "men" were slain; here, it is "blood came out:" the
-destruction is dreadful. <span id="fr_109"></span>[1](#fn_109)
+destruction is dreadful. <span id="fr_109"></span>[1](#fn_109.md)
 
 <span id="page_94">p. 94</span>
 
@@ -675,8 +675,8 @@ God"--divine and well-tuned joy. The song they sung was of a double
 character--the victory of God's power, the song of Moses--Jehovah Elohim
 Shaddai's works were "great and marvellous;" and the truth and justice
 of the *ways* of the King of nations <span
-id="fr_110"></span>[1](#fn_110)--the song <span
-id="fr_111"></span>[2](#fn_111)--of
+id="fr_110"></span>[1](#fn_110.md)--the song <span
+id="fr_111"></span>[2](#fn_111.md)--of
 
 <span id="page_96">p. 96</span>
 
@@ -689,7 +689,7 @@ holy: all else had failed. The Lord alone was to be exalted.
 These had gotten the victory over everything of the beast. They were
 conspicuous in joy, consequent on this, before the throne of God, the
 elect remnant, faithful under the beast's power. <span
-id="fr_112"></span>[1](#fn_112) There was a complete and final
+id="fr_112"></span>[1](#fn_112.md) There was a complete and final
 separation. They are not here seen as come forth to judgment with the
 Lamb, or on their thrones, for He is not yet so manifested, but singing
 His song. (Comp. Ps. xcii.) The judgments were on those who had the mark
@@ -734,7 +734,7 @@ The judgment as yet, however, was not one of destruction.
 <span id="page_98">p. 98</span>
 
 \[paragraph continues\] The heavenlies <span
-id="fr_113"></span>[1](#fn_113) and the earth were now separated; and
+id="fr_113"></span>[1](#fn_113.md) and the earth were now separated; and
 instead of entering into the former, judgment was flowing from them on
 the latter. But it was not the actual judgment of the quick by the Son
 of man, but providential dealings of the wrath of God as such, and the
@@ -844,7 +844,7 @@ had received the mark: all this in relation to *God*--subjection and
 fidelity to Him--not the Lamb nor the Son of man wielding His power as
 King of kings and Lord of lords.
 
-But upon this judgment <span id="fr_114"></span>[1](#fn_114) (the drying
+But upon this judgment <span id="fr_114"></span>[1](#fn_114.md) (the drying
 up of the Euphrates) the last struggle must commence; and Satan uses all
 his energies to prepare his forces: but it is only for the battle of the
 great clay of God Almighty. This is done (being a vision in the midst of
@@ -914,15 +914,15 @@ heart is unchanged; such have all of us, unless in new life by grace.
 
 ### Footnotes
 
-<span id="fn_70"></span>[68:1](nbr04.htm#fr_70) Should not this be, "Now
+<span id="fn_70"></span>[68:1](nbr04.htm#fr_70.md) Should not this be, "Now
 is come the salvation and power and kingdom of our God, and the
 authority of His Christ"?
 
-<span id="fn_71"></span>[69:1](nbr04.htm#fr_71) \[I have no doubt *it*
+<span id="fn_71"></span>[69:1](nbr04.htm#fr_71.md) \[I have no doubt *it*
 is contained in the catching up of the man-child, as well as Christ
 Himself.\]
 
-<span id="fn_72"></span>[69:2](nbr04.htm#fr_72) It is looked at
+<span id="fn_72"></span>[69:2](nbr04.htm#fr_72.md) It is looked at
 corporately only as in heaven (as we have often seen) from the end of
 chapter iii. The accuser of our brethren, therefore, is spoken of; for
 the voice from heaven could not speak of suffering or accusation of
@@ -931,10 +931,10 @@ supposition noticed above, these would be the class of sufferers still
 to be gathered as slain in the last testimony, or who would not worship
 the beast.
 
-<span id="fn_73"></span>[70:1](nbr04.htm#fr_73) The time of Jacob's
+<span id="fn_73"></span>[70:1](nbr04.htm#fr_73.md) The time of Jacob's
 trouble; but he is delivered out of it.
 
-<span id="fn_74"></span>[70:2](nbr04.htm#fr_74) We have here the
+<span id="fn_74"></span>[70:2](nbr04.htm#fr_74.md) We have here the
 important fact, that, after the celebration of the coming of salvation,
 and the kingdom of our God, and the power of His Christ, and the casting
 Satan down out of the heavenly places, three years and a half elapse
@@ -942,13 +942,13 @@ before his trial and persecution of the Jewish people closes; and they
 are the object of his hatred; and Christ does not appear in their
 behalf.
 
-<span id="fn_75"></span>[71:1](nbr04.htm#fr_75) \[The Lamb is always the
+<span id="fn_75"></span>[71:1](nbr04.htm#fr_75.md) \[The Lamb is always the
 suffering rejected One, who is after all the Lion of the tribe of Judah,
 the centre of glory. In the historical fact this takes place on the
 casting down of Satan, in which the kingdom and power are first
 displayed.\]
 
-<span id="fn_76"></span>[72:1](nbr04.htm#fr_76) This passage is a
+<span id="fn_76"></span>[72:1](nbr04.htm#fr_76.md) This passage is a
 remarkable one as regards the crisis; for the joy is properly in heaven.
 The Church, properly speaking, is not in question. A voice accordingly
 is heard in heaven; but it clearly expresses the mind of God in the
@@ -969,7 +969,7 @@ all events below, and even of the war in heaven; for Christ and His body
 cannot take their new relative place on earth, till Satan and his angels
 are cast down.
 
-<span id="fn_77"></span>[73:1](nbr04.htm#fr_77) Although I say their
+<span id="fn_77"></span>[73:1](nbr04.htm#fr_77.md) Although I say their
 source, which is true as to the administration of events and the moral
 state of things, yet there is passed by here (as not the subject of the
 chapter, and what can be hardly called an event, as changing the whole
@@ -997,74 +997,74 @@ apprehend is called the end; "Then shall the end come." Sinai was the
 manifest beginning; though there were other points connected with it in
 the world and earth, to wit, Noah and Nebuchadnezzar.
 
-<span id="fn_78"></span>[74:1](nbr04.htm#fr_78) Specially in his
+<span id="fn_78"></span>[74:1](nbr04.htm#fr_78.md) Specially in his
 workings, in these last events.
 
-<span id="fn_79"></span>[75:1](nbr04.htm#fr_79) *i.e.*, of Daniel's
+<span id="fn_79"></span>[75:1](nbr04.htm#fr_79.md) *i.e.*, of Daniel's
 fourth beast with this.
 
-<span id="fn_80"></span>[75:2](nbr04.htm#fr_80) \[This is an attempt to
+<span id="fn_80"></span>[75:2](nbr04.htm#fr_80.md) \[This is an attempt to
 connect by general terms the protracted period of the beast's existence
 and the crisis, or last half week;. and till the clear light of the end,
 this served to guide the conscience in a general way.\]
 
-<span id="fn_81"></span>[76:1](nbr04.htm#fr_81) \[That is, it was seen
+<span id="fn_81"></span>[76:1](nbr04.htm#fr_81.md) \[That is, it was seen
 in this state subsequent to the healing what had received the deadly
 wound.\] I suppose the wounded head was imperial. Many considerations
 go, I think, to shew it, and make the point pretty clear. I doubt that
 it was fully developed as a beast till then.
 
-<span id="fn_82"></span>[76:2](nbr04.htm#fr_82) \[Rather it was seen
+<span id="fn_82"></span>[76:2](nbr04.htm#fr_82.md) \[Rather it was seen
 subsequent to it. First, he sees the general character of the beast as a
 whole, and where his throne and authority, there this particular
 characteristic in the state in which he considers him, not of the beast
 in himself, but of the beast as he then saw him.\]
 
-<span id="fn_83"></span>[76:3](nbr04.htm#fr_83) Admiration implies the
+<span id="fn_83"></span>[76:3](nbr04.htm#fr_83.md) Admiration implies the
 effect on a senseless imagination, though excited perhaps by a strong
 cause--not the judgment or affections.
 
-<span id="fn_84"></span>[77:1](nbr04.htm#fr_84) This, however, is the
+<span id="fn_84"></span>[77:1](nbr04.htm#fr_84.md) This, however, is the
 apostasy of power.
 
-<span id="fn_85"></span>[78:1](nbr04.htm#fr_85) This must be taken for
+<span id="fn_85"></span>[78:1](nbr04.htm#fr_85.md) This must be taken for
 the last period of half the week, if taken in crisis and applied to the
 full manifestation of his character, which the verse seems to do. It is
 no part of this passage to say it is the last half week, but merely to
 attach to the beast the characteristic period of his continuance. \[But
 it gives that period as the duration of his practising.\]
 
-<span id="fn_86"></span>[79:1](nbr04.htm#fr_86) \[This is all he could
+<span id="fn_86"></span>[79:1](nbr04.htm#fr_86.md) \[This is all he could
 do now. Satan the accuser was cast out of heaven, and indeed the saints
 there. The beast's tendencies would have pleased the Jews before. Now it
 persecuted the saints on earth too. The other Jews would be now in
 rebellion.\]
 
-<span id="fn_87"></span>[79:2](nbr04.htm#fr_87) This had been previously
+<span id="fn_87"></span>[79:2](nbr04.htm#fr_87.md) This had been previously
 to this period, which commenced on the closing of that by the casting
 down of Satan. Up to the that they had suffered actual death; at least
 they had not loved their lives unto death.
 
-<span id="fn_88"></span>[79:3](nbr04.htm#fr_88) But I doubt that there
+<span id="fn_88"></span>[79:3](nbr04.htm#fr_88.md) But I doubt that there
 is any dated period connected with verse 7. It is characteristic, not a
 question of time.
 
-<span id="fn_89"></span>[79:4](nbr04.htm#fr_89) The elect there are
+<span id="fn_89"></span>[79:4](nbr04.htm#fr_89.md) The elect there are
 saved as regards the flesh \[save those who, being killed, get a
 heavenly portion, the saints of the heavenlies of Daniel and those
 particularly noticed as not worshipping him in chapter xx., here\].
 
-<span id="fn_90"></span>[80:1](nbr04.htm#fr_90) This will have its
+<span id="fn_90"></span>[80:1](nbr04.htm#fr_90.md) This will have its
 literal force in crisis in the land.
 
-<span id="fn_91"></span>[80:2](nbr04.htm#fr_91) "If when you do well,
+<span id="fn_91"></span>[80:2](nbr04.htm#fr_91.md) "If when you do well,
 and suffer for it, ye take it patiently, this is acceptable with God,"
 says the Apostle Peter.
 
-<span id="fn_92"></span>[82:1](nbr04.htm#fr_92) \[As the eighth head was
+<span id="fn_92"></span>[82:1](nbr04.htm#fr_92.md) \[As the eighth head was
 the beast.\]
 
-<span id="fn_93"></span>[82:2](nbr04.htm#fr_93) The trials under the
+<span id="fn_93"></span>[82:2](nbr04.htm#fr_93.md) The trials under the
 beast are distinct from the mere preservation of purity; and the final
 warning to have nothing to do with the beast comes after the
 announcement of the fall of Babylon. Hence, we have the celebration of
@@ -1085,7 +1085,7 @@ prophet merely (his secular character as a beast gone), this change has
 taken place in him; he has lost his secular character and power as a
 beast, and is merely a false prophet. It seems to me that all this is
 previous to the last actings of Antichrist in Judea as the wilful
-king: <span id="fr_94"></span>[\*](#fn_94) they are quite distinct in
+king: <span id="fr_94"></span>[\*](#fn_94.md) they are quite distinct in
 character. This is preparatory in order to bring them, the dwellers on
 earth, into his subjection, and carry them with him. The whole, save the
 period of his blasphemous continuance, is not here date, but character,
@@ -1094,7 +1094,7 @@ way; and, when in the land, the same process may locally and
 specifically continue there. The only date to the second beast is the
 restoration of the wounded (as I suppose) imperial head.
 
-<span id="fn_94"></span>[82:\*](nbr04.htm#fr_94) <span id="page_83">p.
+<span id="fn_94"></span>[82:\*](nbr04.htm#fr_94.md) <span id="page_83">p.
 83</span> \[This is a very important remark, which had long passed out
 of my mind. I doubt its being quite exact, in saying "all this is
 previous." It is distinct in character; but both may go on together and
@@ -1106,16 +1106,16 @@ difficulty is as to the force of earth. The whole passage requires
 maturer consideration. Note, the world, and kindred, tongues, and
 nations are not formally put under the influence of the second beast.\]
 
-<span id="fn_95"></span>[84:1](nbr04.htm#fr_95) \[Note here how solemn
+<span id="fn_95"></span>[84:1](nbr04.htm#fr_95.md) \[Note here how solemn
 it is that he should give the sign, which under Elijah was test of
 Jehovah being God; and in 2 Thessalonians ii., what in Acts ii. is the
 proof of Jesus being the Christ.\]
 
-<span id="fn_96"></span>[84:2](nbr04.htm#fr_96) I repeat the remark of
-the note on pp. [82](#page_82), 83; all this is characteristic, not of
+<span id="fn_96"></span>[84:2](nbr04.htm#fr_96.md) I repeat the remark of
+the note on pp. [82](#page_82.md), 83; all this is characteristic, not of
 time, save the restoration of the imperial head.
 
-<span id="fn_97"></span>[85:1](nbr04.htm#fr_97) We have the distinction
+<span id="fn_97"></span>[85:1](nbr04.htm#fr_97.md) We have the distinction
 of periods, I think, very distinctly marked in Daniel vii. The character
 of the little horn--the last evil form of presumption against the Most
 High in the beast--we have in verse 8: that is, its character before
@@ -1143,16 +1143,16 @@ city of the great King, with the heavenly people.
 
 Chapter viii. I conclude to be an entirely different and opposed enemy;
 and I believe the confounding the Assyrian and Antichrist <span
-id="fr_98"></span>[\*](#fn_98) has much tended to obscure prophecy, and
+id="fr_98"></span>[\*](#fn_98.md) has much tended to obscure prophecy, and
 embroil the mind as to the simplicity of its statements. <span
 id="page_86">p. 86</span> One is the enemy of Christ as coming from
 heaven with the saints; the other His enemy, as associated with the
 accepted remnant of the Jews at Jerusalem.
 
-<span id="fn_98"></span>[85:\*](nbr04.htm#fr_98) \[Or even the beast,
+<span id="fn_98"></span>[85:\*](nbr04.htm#fr_98.md) \[Or even the beast,
 for I do not hold the first beast as the personal Antichrist.\]
 
-<span id="fn_99"></span>[86:1](nbr04.htm#fr_99) This is a very important
+<span id="fn_99"></span>[86:1](nbr04.htm#fr_99.md) This is a very important
 epoch. In chapter v. 9, they sing a new song. There was new subject of
 praise when the Lamb who was in the midst of the throne took the book,
 and assumed the <span id="page_87">p. 87</span> development of what was
@@ -1168,14 +1168,14 @@ for creation), but a special occasion of praise on the Lamb's taking a
 place on Mount Sion, and associating Himself, though in a special manner
 with the earth \[the once rejected Messiah\].
 
-<span id="fn_100"></span>[87:1](nbr04.htm#fr_100) \[This seems to me, as
+<span id="fn_100"></span>[87:1](nbr04.htm#fr_100.md) \[This seems to me, as
 in John, the Father's name declared as He then revealed it, and as
 Christ said, "My Father, of whom ye say that he is your God."\]
 
-<span id="fn_101"></span>[88:1](nbr04.htm#fr_101) The second beast had
+<span id="fn_101"></span>[88:1](nbr04.htm#fr_101.md) The second beast had
 caused the earth to worship the first beast.
 
-<span id="fn_102"></span>[88:2](nbr04.htm#fr_102) This, taken in the
+<span id="fn_102"></span>[88:2](nbr04.htm#fr_102.md) This, taken in the
 crisis, would seem to imply that, besides the Church, properly so
 called, whose place was in heaven, and, in that sense, the earth done
 with, there would be a remnant redeemed from the earth still connected
@@ -1197,20 +1197,20 @@ harlotry of evil in the protracted period, the remnant peculiarly and
 separately preserved--in the crisis, a special remnant which we have
 noted.
 
-<span id="fn_103"></span>[89:1](nbr04.htm#fr_103) \[We must not confound
+<span id="fn_103"></span>[89:1](nbr04.htm#fr_103.md) \[We must not confound
 the throne of God and the Lamb, and the revelation of the Father in the
 Son: our revelation of God is the latter, blessed be His name. The
 former is governmental glory. There is an analogy in the protracted
 period; but salvation ascribed to God and to the Lamb, and firstfruits
 from the earth, introduce the millennium. See following note.\]
 
-<span id="fn_104"></span>[90:1](nbr04.htm#fr_104) They were, rather, a
+<span id="fn_104"></span>[90:1](nbr04.htm#fr_104.md) They were, rather, a
 witness of the purity of the throne and of the Lamb, as King of kings,
 and Lord of lords, for what became Him in the earth, and therefore, in
 the full sense, are the dawn of that bright and blessed morning of the
 earth from the Creator and Redeemer of it.
 
-<span id="fn_105"></span>[90:2](nbr04.htm#fr_105) Everlasting I take to
+<span id="fn_105"></span>[90:2](nbr04.htm#fr_105.md) Everlasting I take to
 be distinguished from any temporary or provisional good news. Canaan was
 a gospel to Israel; the birth of Christ in the flesh was good news to
 Israel. But this is the everlasting, αἰώνοις;--the full complete promise
@@ -1223,10 +1223,10 @@ gospel. Of this it is said, "Except a man be born again he cannot see
 the kingdom of God;" and then earthly things and heavenly are brought
 in.
 
-<span id="fn_106"></span>[90:3](nbr04.htm#fr_106) \[The time given to
+<span id="fn_106"></span>[90:3](nbr04.htm#fr_106.md) \[The time given to
 Jezebel to repent was, so to speak, run out then. Chapter ii.\]
 
-<span id="fn_107"></span>[91:1](nbr04.htm#fr_107) When the everlasting
+<span id="fn_107"></span>[91:1](nbr04.htm#fr_107.md) When the everlasting
 gospel then goes forth, it is not the bringing in a universal state of
 blessedness, but a call to fear God amongst wide-spread apostasy of all
 sorts, "for the hour of His judgment has come," as "this gospel of the
@@ -1252,7 +1252,7 @@ millennial kingdom and blessedness. These two spheres--earth, and people
 and tongues and nations and languages--we have noticed as contrasted in
 repeated instances.
 
-<span id="fn_108"></span>[92:1](nbr04.htm#fr_108) In the protracted
+<span id="fn_108"></span>[92:1](nbr04.htm#fr_108.md) In the protracted
 period, verse 13 would refer, I apprehend, to the announcement of that
 blessedness of the saints, which the harvest, looked at as in Matthew
 xiii., in its application to them, would accomplish--in the crisis, to
@@ -1273,7 +1273,7 @@ out of the wine-press" far and wide. It was an actual and dreadful
 judgment in the land. All these--all the contents of this chapter--are
 God's religious warnings or dealings with the earth.
 
-<span id="fn_109"></span>[93:1](nbr04.htm#fr_109) There may be an
+<span id="fn_109"></span>[93:1](nbr04.htm#fr_109.md) There may be an
 application of what passes in this chapter to the crisis; and, in such
 case, many dates would be ascertained, but the application is less
 particular of part. Thus the song, being before the throne of God, must
@@ -1298,7 +1298,7 @@ general application, refer to the great city of the corporate Roman
 empire; in the application in crisis it would, as before, be taken for
 Jerusalem.
 
-In the application in the text ([p. 90](#page_90)) of the claim of true
+In the application in the text ([p. 90](#page_90).md) of the claim of true
 worship, there are most important principles--the acknowledging God, not
 man, as the source in creative power of every blessing, or order of
 blessing, or power, or streams and fountains of true influence, and
@@ -1306,10 +1306,10 @@ consequent condition of men--than which there cannot be a more important
 principle possible for daily use. The sense given above in the text I
 believe to be the most important for the Church in the present time.
 
-<span id="fn_110"></span>[95:1](nbr04.htm#fr_110) \[This is acknowledged
+<span id="fn_110"></span>[95:1](nbr04.htm#fr_110.md) \[This is acknowledged
 to be the true reading.\]
 
-<span id="fn_111"></span>[95:2](nbr04.htm#fr_111) Though this chapter be
+<span id="fn_111"></span>[95:2](nbr04.htm#fr_111.md) Though this chapter be
 a distinct sign, yet, like the eleventh and twelfth, it is not
 unconnected. It seems to apply itself to those who have passed through
 the fire--not merely escaped corruption when Babylon prevailed. And the
@@ -1325,7 +1325,7 @@ consequent, but a distinct design, more secular in its general character
 of judgments and dealings. The last of the saints too, not left on
 earth, were now out of the way. Compare xiv. 13.
 
-<span id="fn_112"></span>[96:1](nbr04.htm#fr_112) The imperial head
+<span id="fn_112"></span>[96:1](nbr04.htm#fr_112.md) The imperial head
 subsisted in the apostolic times--Cæsar. It may be noticed that the head
 was destroyed in the West, and, taken in the protracted sense, was
 restored and continued with the continuance of the hierarchy and the
@@ -1333,11 +1333,11 @@ pope set up at Rome who had the character of the image here described.
 Any further or more literal accomplishment of it will have its place
 more fitly in a subsequent chapter.
 
-<span id="fn_113"></span>[98:1](nbr04.htm#fr_113) I doubt, as to the
+<span id="fn_113"></span>[98:1](nbr04.htm#fr_113.md) I doubt, as to the
 crisis, that the heavens were yet changed--whether these signs did not
 belong to the old heavens.
 
-<span id="fn_114"></span>[101:1](nbr04.htm#fr_114) Although I do not
+<span id="fn_114"></span>[101:1](nbr04.htm#fr_114.md) Although I do not
 doubt this will have an actual physical accomplishment in gathering of
 the nations or their powers and armies to battle, yet, as that which
 concerns us all, I would say that in that which the Church is entitled
@@ -1350,4 +1350,4 @@ in character, and morally also.
 
 ------------------------------------------------------------------------
 
-[Next: Part Five](nbr05)
+[Next: Part Five](nbr05.md)

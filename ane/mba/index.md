@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mba00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mba.txt.gz)
+[Contents](#contents)    [Start Reading](mba00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mba.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -55,41 +55,41 @@ East, and well worth studying by anyone interested in the topic.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mba00)  
-[Preface](mba01)  
-[Contents](mba02)  
-[Plates in Colour](mba03)  
-[Plates in Monochrome](mba04)  
-[Map](mba05)  
-[Introduction](mba06)  
-[Chapter I. The Races and Early Civilization of Babylonia](mba07)  
-[Chapter II. The Land of Rivers and the God of the Deep](mba08)  
-[Chapter III. Rival Pantheons and Representative Deities](mba09)  
-[Chapter IV. Demons, Fairies, and Ghosts](mba10)  
-[Chapter V. Myths of Tammuz and Ishtar](mba11)  
-[Chapter VI. Wars of the City States of Sumer and Akkad](mba12)  
-[Chapter VII. Creation Legend: Merodach the Dragon Slayer](mba13)  
-[Chapter VIII. Deified Heroes: Etana and Gilgamesh](mba14)  
+<span id="contents"></span> [Title Page](mba00.md)  
+[Preface](mba01.md)  
+[Contents](mba02.md)  
+[Plates in Colour](mba03.md)  
+[Plates in Monochrome](mba04.md)  
+[Map](mba05.md)  
+[Introduction](mba06.md)  
+[Chapter I. The Races and Early Civilization of Babylonia](mba07.md)  
+[Chapter II. The Land of Rivers and the God of the Deep](mba08.md)  
+[Chapter III. Rival Pantheons and Representative Deities](mba09.md)  
+[Chapter IV. Demons, Fairies, and Ghosts](mba10.md)  
+[Chapter V. Myths of Tammuz and Ishtar](mba11.md)  
+[Chapter VI. Wars of the City States of Sumer and Akkad](mba12.md)  
+[Chapter VII. Creation Legend: Merodach the Dragon Slayer](mba13.md)  
+[Chapter VIII. Deified Heroes: Etana and Gilgamesh](mba14.md)  
 [Chapter IX. Deluge Legend, the Island of the Blessed, and
-Hades](mba15)  
-[Chapter X. Buildings and Laws and Customs of Babylon](mba16)  
-[Chapter XI. The Golden Age of Babylonia](mba17)  
+Hades](mba15.md)  
+[Chapter X. Buildings and Laws and Customs of Babylon](mba16.md)  
+[Chapter XI. The Golden Age of Babylonia](mba17.md)  
 [Chapter XII. Rise of the Hittites, Mitannians, Kassites, Hyksos, and
-Assyrians](mba18)  
-[Chapter XIII. Astrology and Astronomy](mba19)  
-[Chapter XIV. Ashur the National God of Assyria](mba20)  
-[Chapter XV. Conflicts for Trade and Supremacy](mba21)  
-[Chapter XVI. Race Movements that Shattered Empires](mba22)  
-[Chapter XVII. The Hebrews in Assyrian History](mba23)  
-[Chapter XVIII. The Age of Semiramis](mba24)  
-[Chapter XIX. Assyria's Age of Splendour](mba25)  
-[Chapter XX. The Last Days of Assyria and Babylonia](mba26)  
+Assyrians](mba18.md)  
+[Chapter XIII. Astrology and Astronomy](mba19.md)  
+[Chapter XIV. Ashur the National God of Assyria](mba20.md)  
+[Chapter XV. Conflicts for Trade and Supremacy](mba21.md)  
+[Chapter XVI. Race Movements that Shattered Empires](mba22.md)  
+[Chapter XVII. The Hebrews in Assyrian History](mba23.md)  
+[Chapter XVIII. The Age of Semiramis](mba24.md)  
+[Chapter XIX. Assyria's Age of Splendour](mba25.md)  
+[Chapter XX. The Last Days of Assyria and Babylonia](mba26.md)  
 <span id="section_000"></span>
 
 ### Index
 
-[A-C](mba27)  
-[D-G](mba28)  
-[H-L](mba29)  
-[M-R](mba30)  
-[S-Z](mba31)  
+[A-C](mba27.md)  
+[D-G](mba28.md)  
+[H-L](mba29.md)  
+[M-R](mba30.md)  
+[S-Z](mba31.md)  

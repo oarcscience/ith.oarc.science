@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw34)  [Next](omw36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw34)  [Next](omw36.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ and his might.
 
 ------------------------------------------------------------------------
 
-[Next: Apollo](omw36)
+[Next: Apollo](omw36.md)

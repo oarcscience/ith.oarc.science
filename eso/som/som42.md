@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som41) 
-[Next](som43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som41.md) 
+[Next](som43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -192,9 +192,9 @@ lesson has been taught and the evidence is complete. The grave has
 
 been swallowed up in the Victory of Life and Love; and the tomb is empty
 for all time. "Why seek ye the living among the dead?" <span
-id="fr_108"></span>[110](#fn_108) The time has come for rejoicing and
+id="fr_108"></span>[110](#fn_108.md) The time has come for rejoicing and
 not for sorrowing; for the fulfillment of that peace which was promised.
-"Peace I leave with you." <span id="fr_109"></span>[111](#fn_109) There
+"Peace I leave with you." <span id="fr_109"></span>[111](#fn_109.md) There
 need be no more sorrowing nor crying; for Reality is now known. Life is
 Triumphant and Love reigns Supreme.
 
@@ -210,10 +210,10 @@ Good.
 
 ### Footnotes
 
-<span id="fn_108"></span>[312:110](som42.htm#fr_108) Luke 24:5.
+<span id="fn_108"></span>[312:110](som42.htm#fr_108.md) Luke 24:5.
 
-<span id="fn_109"></span>[312:111](som42.htm#fr_109) John 14:27.
+<span id="fn_109"></span>[312:111](som42.htm#fr_109.md) John 14:27.
 
 ------------------------------------------------------------------------
 
-[Next: The Personality of God](som43)
+[Next: The Personality of God](som43.md)

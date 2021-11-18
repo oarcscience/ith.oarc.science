@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip58)  [Next](fip60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip58)  [Next](fip60.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_215">p. 215</span>
 
-### THE PRIEST'S SOUL <span id="fr_51"></span>[1](#fn_51)
+### THE PRIEST'S SOUL <span id="fr_51"></span>[1](#fn_51.md)
 
 Lady Wilde
 
@@ -251,9 +251,9 @@ child.
 
 ### Footnotes
 
-<span id="fn_51"></span>[215:1](fip59.htm#fr_51) *Ancient Legends of
+<span id="fn_51"></span>[215:1](fip59.htm#fr_51.md) *Ancient Legends of
 Ireland*.
 
 ------------------------------------------------------------------------
 
-[Next: The Priest of Coloony](fip60)
+[Next: The Priest of Coloony](fip60.md)

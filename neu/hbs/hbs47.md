@@ -1,11 +1,11 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs46)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs46.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_271">p. 271</span>
 
-## THE WIFE OF HASAN AGA<span id="page_271_fr_1"></span>[1](#page_271_note_1)
+## THE WIFE OF HASAN AGA<span id="page_271_fr_1"></span>[1](#page_271_note_1.md)
 
 W<span class="small">HAT</span> shows white in the wood? A flock of
 swans or a bank of snow?  
@@ -13,7 +13,7 @@ Swans would have flown and a snow bank would have melted long ago.
 It is not snow, nor a milk-white swan, but Hasan Aga’s tent;  
 Sore wounded was he. His mother and sister to him went;  
 For very shame his wife came not.<span
-id="page_271_fr_2"></span>[2](#page_271_note_2) When his wounds were
+id="page_271_fr_2"></span>[2](#page_271_note_2.md) When his wounds were
 healed aright,  
 
 <span id="page_272">p. 272</span>
@@ -36,7 +36,7 @@ But the daughters of Hasan Aga pursued her in that hour:
 “Ah, brother, from my children five doth he send me! It is shame!”  
  Naught said the bey; in his silken pouch forthwith his hand he thrust  
 For a bill of divorce that granted her her dower held in trust,<span
-id="page_272_fr_1"></span>[1](#page_272_note_1)  
+id="page_272_fr_1"></span>[1](#page_272_note_1.md)  
 And bade her go to her mother. When the purport thereof she wist,  
 
 <span id="page_273">p. 273</span>
@@ -63,12 +63,12 @@ That he a milk-white letter to the cadi should prepare,
 | And send it to the cadi:          |                                                                                    |
 |                                   |                                                                                    |
 | <span id="page_274">p. 274</span> |                                                                                    |
-|                                   | “The matron<span id="page_274_fr_1"></span>[1](#page_274_note_1) greets thee fair, |
+|                                   | “The matron<span id="page_274_fr_1"></span>[1](#page_274_note_1.md) greets thee fair, |
 
 And implores thee: when that thou hast brought the wooers from every
 side,  
 And when thou comest to her white house,<span
-id="page_274_fr_2"></span>[2](#page_274_note_2) do thou bring a veil for
+id="page_274_fr_2"></span>[2](#page_274_note_2.md) do thou bring a veil for
 the bride,  
 That she see not by the aga’s house her children motherless.”  
  When the letter came to the cadi, with pomp and lordliness  
@@ -88,7 +88,7 @@ To either son a gilded knife, to her daughters fair long shifts,
 <span id="page_275">p. 275</span>
 
 To her babe in the cradle a garment in a bit of linen tied.<span
-id="page_275_fr_1"></span>[1](#page_275_note_1)  
+id="page_275_fr_1"></span>[1](#page_275_note_1.md)  
 When Hasan Aga saw it, to his two sons he cried:  
  “Hither, my children motherless! and from her stand apart!  
 Pity and mercy hath she none within her stony heart!”  
@@ -97,7 +97,7 @@ And her soul departed as she saw her children motherless.
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Legends & Sagas](../index) [Index](index)
+[Sacred-Texts](../../index) [Legends & Sagas](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -105,7 +105,7 @@ And her soul departed as she saw her children motherless.
 
 <span id="footnotes_page_271">p. 271</span>
 
-<span id="page_271_note_1"></span>[1](#page_271_fr_1) This poem is based
+<span id="page_271_note_1"></span>[1](#page_271_fr_1.md) This poem is based
 on the life of the Mohammedan Serbs. It is noteworthy not only from its
 own literary merit, but from being the first of the Servian ballads to
 become known to western Europe, and, above all, from the magnificent
@@ -126,28 +126,28 @@ manuscript to which Fortis was indebted was published by Miklosich in
 connected with the poem (*Sitzungsberichte der phil.-histor. Classe der
 kaiserl. Akad, d. W.*, ciii, 413-490).
 
-<span id="page_271_note_2"></span>[2](#page_271_fr_2) “The wife could
+<span id="page_271_note_2"></span>[2](#page_271_fr_2.md) “The wife could
 not even in this case overcome her dread of meeting a man. A girl is
 praised in a folksong as ‘having never seen a male being.’ ” Miklosich,
 p. 438.
 
 <span id="footnotes_page_272">p. 272</span>
 
-<span id="page_272_note_1"></span>[1](#page_272_fr_1) By the Turkish law
+<span id="page_272_note_1"></span>[1](#page_272_fr_1.md) By the Turkish law
 a sum of money is promised to a woman at her marriage before the cadi;
 this she may receive in case she is divorced by her husband.
 
 <span id="footnotes_page_274">p. 274</span>
 
-<span id="page_274_note_1"></span>[1](#page_274_fr_1) “Maiden” in the
+<span id="page_274_note_1"></span>[1](#page_274_fr_1.md) “Maiden” in the
 original!
 
-<span id="page_274_note_2"></span>[2](#page_274_fr_2) This phrase was
+<span id="page_274_note_2"></span>[2](#page_274_fr_2.md) This phrase was
 inserted by Karájich.
 
 <span id="footnotes_page_275">p. 275</span>
 
-<span id="page_275_note_1"></span>[1](#page_275_fr_1) That is, wrapped
+<span id="page_275_note_1"></span>[1](#page_275_fr_1.md) That is, wrapped
 up, to be saved, for a later time, when he is grown up. But the sense of
 this line and the preceding is very doubtful. See Jagich, in *Archiv für
 Slavische Philologie*, x, 659, 660.

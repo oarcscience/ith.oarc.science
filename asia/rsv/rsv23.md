@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv22)  [Next](rsv24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv22)  [Next](rsv24.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ non-consideration of what seems such a small item to you.
 
 ------------------------------------------------------------------------
 
-[Next: Effects of Stars on Choosing Marriage Partners](rsv24)
+[Next: Effects of Stars on Choosing Marriage Partners](rsv24.md)

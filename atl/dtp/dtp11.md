@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp10)  [Next](dtp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp10)  [Next](dtp12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ the religious services held on the two Sundays of each week, that is,
 the eleventh and the first days, for with the Poseidi a week consisted
 of eleven days, just as a month comprised three weeks, and a year eleven
 months, with one or more "leap-year" days at its end, as the exigencies
-of the solar [calendar](errata.htm#6) might require, these days being a
+of the solar [calendar](errata.htm#6.md) might require, these days being a
 regularly recurring holiday season, as New Year's Day is now. That so
 many gods and goddesses seem to have been venerated was due to the
 national influence of the epic history spoken of, and it was but a habit
@@ -130,7 +130,7 @@ will, and if any one transgressed these the guilt was inexorably
 punished by nature, it being impossible to set in motion a cause without
 a consequent effect; if the cause was good, so also was the consequence.
 And in this they were undeviatingly correct; no mediator can avert for
-us the results of our misdeeds. <span id="fr_3"></span>[1](#fn_3) The
+us the results of our misdeeds. <span id="fr_3"></span>[1](#fn_3.md) The
 Poseid nation believed in a heaven of good effects for those who put
 good causes into operation, and there was a region filled with bad
 effects for the wicked; the two places were adjacent, and those who were
@@ -183,10 +183,10 @@ that Four-Way Path. Open thine eyes and thine ears.
 
 ### Footnotes
 
-<span id="fn_3"></span>[90:1](dtp11.htm#fr_3) NOTE.--Do not confuse
+<span id="fn_3"></span>[90:1](dtp11.htm#fr_3.md) NOTE.--Do not confuse
 "undoing" with "atonement." Christ atoned; we must undo, see note, page
-[236](dtp28.htm#page_236).
+[236](dtp28.htm#page_236.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: A Grave Prophecy](dtp12)
+[Next: Chapter VIII: A Grave Prophecy](dtp12.md)

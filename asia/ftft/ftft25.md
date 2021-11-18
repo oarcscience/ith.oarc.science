@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft24)  [Next](ftft26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft24)  [Next](ftft26.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_188">p. 188</span>
 
 <span id="img_18800"></span> ![The Dragon-Prince and the
-Step-Mother](img/18800.jpg)
+Step-Mother](img/18800.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who had no children, When out walking one day
 with his lala he saw a dragon accompanied by five or six young ones.
@@ -75,7 +75,7 @@ slaves given their freedom.
 The time soon arrived when the young dragon must commence his
 instruction. Hodjas were summoned, who however, one after another, were
 killed by the dragon before they had a chance to commence their
-[lesson](errata.htm#4). In this way there was hardly a hodja left in the
+[lesson](errata.htm#4.md). In this way there was hardly a hodja left in the
 land. Hearing this the stepmother went again to the Padishah and said:
 "My Lord and Shah, the maiden who assisted at the birth of the dragon
 can also impart the desired instruction."
@@ -99,7 +99,7 @@ id="img_19000"></span>
 
 |                                                                                          |
 |------------------------------------------------------------------------------------------|
-| ![Her Mother reached out her hand from the grave and offered her a staff](img/19000.jpg) |
+| ![Her Mother reached out her hand from the grave and offered her a staff](img/19000.jpg.md) |
 
 Years passed away, and the Dragon. Prince was now old enough to get
 married. The Padishah pondered the matter, grieved considerably, and
@@ -125,7 +125,7 @@ has taken off his clothes, seize them and cast them in the fire. On that
 he will lose his dragon form and appear as a human being."
 
 <span id="img_19100"></span> ![''Take off thy mask'' snapped the
-Dragon-Prince](img/19100.jpg)
+Dragon-Prince](img/19100.jpg.md)
 
 In due course the maiden arrived at the palace and was ushered into the
 private apartment of the Dragon Prince, where the marriage ceremony took
@@ -191,7 +191,7 @@ id="img_19300"></span>
 
 |                                                          |
 |----------------------------------------------------------|
-| ![She touched the dead youth three times](img/19300.jpg) |
+| ![She touched the dead youth three times](img/19300.jpg.md) |
 
 All this the Prince's wife saw from her hiding-place. As no one was to
 be seen, she stole to the coffin, picked up the wand which the fairies
@@ -218,7 +218,7 @@ dwelling of the youth's mother.
 
 |                     |
 |---------------------|
-| ![K](img/kinit.jpg) |
+| ![K](img/kinit.jpg.md) |
 
 NOCKING at the door, she begged admittance and shelter in Allah's name,
 telling her story, and saying further that she had been driven from home
@@ -251,7 +251,7 @@ young man. " Because you have never seen it," answered the young
 <span id="img_19500"></span>
 
 [![The youth appeared in the form of a bird](tn/19500.jpg)  
-Click to enlarge](img/19500.jpg)  
+Click to enlarge](img/19500.jpg.md)  
 The youth appeared in the form of a bird  
 
 <span id="page_196">p. 196</span>
@@ -329,4 +329,4 @@ rest of their lives in unalloyed bliss.
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Mirror](ftft26)
+[Next: The Magic Mirror](ftft26.md)

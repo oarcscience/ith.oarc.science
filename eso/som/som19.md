@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som18) 
-[Next](som20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som18.md) 
+[Next](som20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ a perfect right to do so. It is good for every
 <span id="img_chart04"></span>
 
 [![Lesson Four: Metaphysical Chart No. IV.](tn/chart04.jpg)  
-Click to enlarge](img/chart04.jpg)  
+Click to enlarge](img/chart04.jpg.md)  
 Lesson Four: Metaphysical Chart No. IV.  
 
 HOW IDEAS MANIFEST AS THINGS.
@@ -400,7 +400,7 @@ accomplished facts and experiences in life.
 
 **RESIST NOT**
 
-When Jesus said "Resist not evil," <span id="fr_59"></span>[60](#fn_59)
+When Jesus said "Resist not evil," <span id="fr_59"></span>[60](#fn_59.md)
 He meant that non-recognition of evil is the only way to avoid it. This
 is true according to the law of cause and effect; for what we persist in
 recognizing, we persist in holding in place. That which we
@@ -415,7 +415,7 @@ which is the Self-Existence of Causation. In other words, nothing can
 come before that which is, consequently everything must come out of that
 which is; and within that which is, is the inherent possibility of that
 which is to be. All things exist as a potentiality, as a possibility,
-now. "I Am Alpha and Omega." <span id="fr_60"></span>[61](#fn_60) Try to
+now. "I Am Alpha and Omega." <span id="fr_60"></span>[61](#fn_60.md) Try to
 get a recognition of your desire and pass the whole thing over to Mind,
 and let It operate. Just know that the desire is already a fact, and
 quietly say to yourself, as often as the thought comes into mind: "It is
@@ -514,7 +514,7 @@ they look good. We have looked at some one and he has looked sick to us;
 we must look at him until he looks well. We have seen discord; we must
 see harmony.
 
-Look [at](errata.htm#0) harmony and people will become harmonious. We
+Look [at](errata.htm#0.md) harmony and people will become harmonious. We
 have looked at poverty, degradation and misery until they have assumed a
 gigantic form. Now we must look at harmony, happiness, plenty,
 prosperity, peace and right action until it appears.
@@ -531,7 +531,7 @@ plant. The ultimate
 
 of effect is already potential in cause. This is the mystical meaning of
 those words, "I am Alpha and Omega." <span
-id="fr_61"></span>[62](#fn_61) Our word should be the alpha and the
+id="fr_61"></span>[62](#fn_61.md) Our word should be the alpha and the
 omega, the beginning and the end of the thing thought of. All cause and
 effect are in Spirit. Cause and effect are bound together into one
 complete whole. One is the inside and the other is the outside of the
@@ -574,7 +574,7 @@ seeking expression through us, and are expressed in and through us.
 Know that there is no condemnation; for nothing can condemn unless we
 believe in condemnation. Destroy the thought that would lay limitation
 or bondage upon any situation or condition. "Loose him, and let him
-go." <span id="fr_62"></span>[63](#fn_62)
+go." <span id="fr_62"></span>[63](#fn_62.md)
 
 Talk to yourself, not to the world. There is no one to talk to but
 yourself, for all experiences take place within. Conditions are the
@@ -612,9 +612,9 @@ appear to be destructive. You may pass through good fortune and bad; but
 if you can come to the point where you are not disturbed by what happens
 on the outside, you have found the secret. If, as Jesus said, we "Judge
 not according to the appearance, but judge righteous judgment," <span
-id="fr_63"></span>[64](#fn_63) remembering that "things which are seen
+id="fr_63"></span>[64](#fn_63.md) remembering that "things which are seen
 were not made of things which do appear"; <span
-id="fr_64"></span>[65](#fn_64) out of any chaos we can produce harmony,
+id="fr_64"></span>[65](#fn_64.md) out of any chaos we can produce harmony,
 provided we keep our thought steady. The answer to prayer is already in
 the prayer when it is prayed.
 
@@ -752,9 +752,9 @@ must do something to free the endeavor to express itself. Treatment is a
 thing of itself; it is an entity of Infinite Intelligence, Life and
 Action, and nothing can hinder its operation except unbelief or a lack
 of adequate mental equivalents. "They could not enter in because of
-unbelief," <span id="fr_65"></span>[66](#fn_65) and they "tempted God
+unbelief," <span id="fr_65"></span>[66](#fn_65.md) and they "tempted God
 and limited the Holy One of Israel." <span
-id="fr_66"></span>[67](#fn_66)
+id="fr_66"></span>[67](#fn_66.md)
 
 Never depend upon people, or say that things must come from this or that
 source. It makes no difference where things come from. Say that they are
@@ -875,20 +875,20 @@ it is the truth. What can be more wonderful than the manifestation of
 the Infinite Mind?
 
 "Awake thou that sleepest, and arise from the dead, and Christ shall
-give thee light." <span id="fr_67"></span>[68](#fn_67) "Prove Me, now
+give thee light." <span id="fr_67"></span>[68](#fn_67.md) "Prove Me, now
 herewith, saith
 
 <span id="page_202">p. 202</span>
 
 the Lord of Hosts, if I will not open you the windows of heaven, and
 pour you out a blessing, that there shall not be room enough to receive
-it." <span id="fr_68"></span>[69](#fn_68) "Be firm and ye shall be made
+it." <span id="fr_68"></span>[69](#fn_68.md) "Be firm and ye shall be made
 firm." "Act as though I am and I will be." "Onlook thou the Deity and
 the Deity will onlook thee." "As thou hast believed so be it
-done." <span id="fr_69"></span>[70](#fn_69) "Ask and it shall be given
-unto you." <span id="fr_70"></span>[71](#fn_70) "So shall my word be
+done." <span id="fr_69"></span>[70](#fn_69.md) "Ask and it shall be given
+unto you." <span id="fr_70"></span>[71](#fn_70.md) "So shall my word be
 that goeth forth out of my mouth--it shall prosper." <span
-id="fr_71"></span>[72](#fn_71)
+id="fr_71"></span>[72](#fn_71.md)
 
  
 
@@ -901,32 +901,32 @@ Through Creative Thought," Wattles.
 
 ### Footnotes
 
-<span id="fn_59"></span>[189:60](som19.htm#fr_59) Matt. 5:39.
+<span id="fn_59"></span>[189:60](som19.htm#fr_59.md) Matt. 5:39.
 
-<span id="fn_60"></span>[190:61](som19.htm#fr_60) Rev. 1:8.
+<span id="fn_60"></span>[190:61](som19.htm#fr_60.md) Rev. 1:8.
 
-<span id="fn_61"></span>[193:62](som19.htm#fr_61) Rev. 1:8.
+<span id="fn_61"></span>[193:62](som19.htm#fr_61.md) Rev. 1:8.
 
-<span id="fn_62"></span>[194:63](som19.htm#fr_62) John 11:44.
+<span id="fn_62"></span>[194:63](som19.htm#fr_62.md) John 11:44.
 
-<span id="fn_63"></span>[195:64](som19.htm#fr_63) John 7:24.
+<span id="fn_63"></span>[195:64](som19.htm#fr_63.md) John 7:24.
 
-<span id="fn_64"></span>[195:65](som19.htm#fr_64) Heb. 11:3.
+<span id="fn_64"></span>[195:65](som19.htm#fr_64.md) Heb. 11:3.
 
-<span id="fn_65"></span>[198:66](som19.htm#fr_65) Heb. 3:19.
+<span id="fn_65"></span>[198:66](som19.htm#fr_65.md) Heb. 3:19.
 
-<span id="fn_66"></span>[198:67](som19.htm#fr_66) Ps. 78:41.
+<span id="fn_66"></span>[198:67](som19.htm#fr_66.md) Ps. 78:41.
 
-<span id="fn_67"></span>[201:68](som19.htm#fr_67) Eph. 5:14.
+<span id="fn_67"></span>[201:68](som19.htm#fr_67.md) Eph. 5:14.
 
-<span id="fn_68"></span>[202:69](som19.htm#fr_68) Mal. 3:10.
+<span id="fn_68"></span>[202:69](som19.htm#fr_68.md) Mal. 3:10.
 
-<span id="fn_69"></span>[202:70](som19.htm#fr_69) Matt. 8:13.
+<span id="fn_69"></span>[202:70](som19.htm#fr_69.md) Matt. 8:13.
 
-<span id="fn_70"></span>[202:71](som19.htm#fr_70) Matt. 7:7.
+<span id="fn_70"></span>[202:71](som19.htm#fr_70.md) Matt. 7:7.
 
-<span id="fn_71"></span>[202:72](som19.htm#fr_71) Isa. 55:11.
+<span id="fn_71"></span>[202:72](som19.htm#fr_71.md) Isa. 55:11.
 
 ------------------------------------------------------------------------
 
-[Next: Recapitulation](som20)
+[Next: Recapitulation](som20.md)

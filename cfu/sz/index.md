@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Confucianism](../index) [Shinto](../../shi/index)
+[Sacred-Texts](../../index) [Confucianism](../index) [Shinto](../../shi/index.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ was compiled and published posthumously by his grandson in 1750.
 According to Knox, the work is not considered to be a classic, but it
 was well respected and "\[i\]n the Shundai Zatsuwa of Kyusō Murō we have
 the ruling ideas of the Japan that has forever passed away."
-([Introduction, p. 25](tasj2001.htm#page_25)). In addition to
+([Introduction, p. 25](tasj2001.htm#page_25).md). In addition to
 philosophy, the book has many anecdotal stories from Chinese and
 Japanese history illustrating the results of the virtuous conduct of the
 Confucian sage and the honorable samurai. This translation was

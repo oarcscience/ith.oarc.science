@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sotu12)  [Next](sotu14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sotu12)  [Next](sotu14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Universe*, by Nathan R. Wood, \[1932\], at Intangible
 Textual Heritage
 
@@ -152,4 +152,4 @@ but in its very pattern of action, the reflection of God.
 ------------------------------------------------------------------------
 
 [Next: VIII. The Secret of the Universe and the Problem of Reality, or
-the True](sotu14)
+the True](sotu14.md)

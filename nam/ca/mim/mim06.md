@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim05)  [Next](mim07) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim05)  [Next](mim07.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,4 +171,4 @@ because of the arrows.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Prairie Falcon's Marriage](mim07)
+[Next: 5. Prairie Falcon's Marriage](mim07.md)

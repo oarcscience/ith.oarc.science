@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,1829 +19,1829 @@ Intangible Textual Heritage
 
 ### INDEX
 
-Above Persons, [259](blt40.htm#page_259).
+Above Persons, [259](blt40.htm#page_259.md).
 
-Adoption of captives, [254](blt39.htm#page_254).
+Adoption of captives, [254](blt39.htm#page_254.md).
 
-Adultery, penalty for, [220](blt37.htm#page_220).
+Adultery, penalty for, [220](blt37.htm#page_220.md).
 
-Adventure, Stories of, [1](blt04.htm#page_1).
+Adventure, Stories of, [1](blt04.htm#page_1.md).
 
-Adventures of Bull Turns Round, [24](blt06.htm#page_24).
+Adventures of Bull Turns Round, [24](blt06.htm#page_24.md).
 
-Affirmation, solemn form of, [188](blt35.htm#page_188).
+Affirmation, solemn form of, [188](blt35.htm#page_188.md).
 
-*Ah-kaik´-sum-iks*, [209](blt37.htm#page_209).
+*Ah-kaik´-sum-iks*, [209](blt37.htm#page_209.md).
 
-*Ah-kai-yi-ko-ka´-kin-iks*, [209](blt37.htm#page_209).
+*Ah-kai-yi-ko-ka´-kin-iks*, [209](blt37.htm#page_209.md).
 
-*Ah-kai´-po-kaks*, [209](blt37.htm#page_209).
+*Ah-kai´-po-kaks*, [209](blt37.htm#page_209.md).
 
-*Ah-kwo´-nis-tsists*, [209](blt37.htm#page_209),
+*Ah-kwo´-nis-tsists*, [209](blt37.htm#page_209.md),
 
-*Ahk-o´-tash-iks*, [209](blt37.htm#page_209).
+*Ahk-o´-tash-iks*, [209](blt37.htm#page_209.md).
 
-Ahk-sa´-ke-wah, [163](blt29.htm#page_163).
+Ahk-sa´-ke-wah, [163](blt29.htm#page_163.md).
 
-*Ah´pai-tup-iks*, [209](blt37.htm#page_209).
+*Ah´pai-tup-iks*, [209](blt37.htm#page_209.md).
 
-*Ai-sik´-stŭk-iks*, [209](blt37.htm#page_209).
+*Ai-sik´-stŭk-iks*, [209](blt37.htm#page_209.md).
 
-Aī-sin´-o-ko-ki, [35](blt07.htm#page_35).
+Aī-sin´-o-ko-ki, [35](blt07.htm#page_35.md).
 
-*Ai´-so yim-stan*, [260](blt40.htm#page_260).
+*Ai´-so yim-stan*, [260](blt40.htm#page_260.md).
 
-Alcohol, agent of destruction, [287](blt42.htm#page_287).
+Alcohol, agent of destruction, [287](blt42.htm#page_287.md).
 
-Algonquin myth, [271](blt40.htm#page_271).
+Algonquin myth, [271](blt40.htm#page_271.md).
 
-Algonquin tribes, [xv](blt03.htm#page_xv).
+Algonquin tribes, [xv](blt03.htm#page_xv.md).
 
-All-are-his-children, [xv](blt03.htm#page_xv).
+All-are-his-children, [xv](blt03.htm#page_xv.md).
 
-All Comrades, [219](blt37.htm#page_219) *et seq*.
+All Comrades, [219](blt37.htm#page_219.md) *et seq*.
 
-All Crazy Dogs, [221](blt37.htm#page_221).
+All Crazy Dogs, [221](blt37.htm#page_221.md).
 
-Allen, Major, [290](blt42.htm#page_290).
+Allen, Major, [290](blt42.htm#page_290.md).
 
-All-face man, [276](blt41.htm#page_276).
+All-face man, [276](blt41.htm#page_276.md).
 
-Almost-a-Dog, [xiv](blt03.htm#page_xiv).
+Almost-a-Dog, [xiv](blt03.htm#page_xiv.md).
 
-*Amelanchier alnifolia*, [203](blt36.htm#page_203).
+*Amelanchier alnifolia*, [203](blt36.htm#page_203.md).
 
-*American Anthropologist*, [177](blt34.htm#page_177).
+*American Anthropologist*, [177](blt34.htm#page_177.md).
 
-American Hero Myths, [256](blt40.htm#page_256).
+American Hero Myths, [256](blt40.htm#page_256.md).
 
-Ancient customs dying out, [277](blt41.htm#page_277).
+Ancient customs dying out, [277](blt41.htm#page_277.md).
 
-Ancient Times, Stories of, [91](blt14.htm#page_91).
+Ancient Times, Stories of, [91](blt14.htm#page_91.md).
 
-Animals, birth of, [271](blt40.htm#page_271),
+Animals, birth of, [271](blt40.htm#page_271.md),
 
-   creation of, [138](blt22.htm#page_138).
+   creation of, [138](blt22.htm#page_138.md).
 
-Animal powers, [260](blt40.htm#page_260).
+Animal powers, [260](blt40.htm#page_260.md).
 
-Animal powers and signs, [261](blt40.htm#page_261).
+Animal powers and signs, [261](blt40.htm#page_261.md).
 
-Animals to be food, [139](blt22.htm#page_139),
-[142](blt22.htm#page_142).
+Animals to be food, [139](blt22.htm#page_139.md),
+[142](blt22.htm#page_142.md).
 
-Antelope, method of taking, [236](blt38.htm#page_236).
+Antelope, method of taking, [236](blt38.htm#page_236.md).
 
-   song, [280](blt41.htm#page_280).
+   song, [280](blt41.htm#page_280.md).
 
-   where created, [138](blt22.htm#page_138).
+   where created, [138](blt22.htm#page_138.md).
 
-*Anthropologist, American*, [177](blt34.htm#page_177).
+*Anthropologist, American*, [177](blt34.htm#page_177.md).
 
-*A´pi*, [256](blt40.htm#page_256).
+*A´pi*, [256](blt40.htm#page_256.md).
 
-*Ap´-i-kai-yiks*, [209](blt37.htm#page_209).
+*Ap´-i-kai-yiks*, [209](blt37.htm#page_209.md).
 
-Ap´i-kunni, [117](blt18.htm#page_117) *et seq*.
+Ap´i-kunni, [117](blt18.htm#page_117.md) *et seq*.
 
-Api-su´-ahts, [99](blt15.htm#page_99), [258](blt40.htm#page_258).
+Api-su´-ahts, [99](blt15.htm#page_99), [258](blt40.htm#page_258.md).
 
-*Ap-ut´-o-si-kai-nah*, [209](blt37.htm#page_209).
+*Ap-ut´-o-si-kai-nah*, [209](blt37.htm#page_209.md).
 
-Armells Creek, [61](blt10.htm#page_61).
+Armells Creek, [61](blt10.htm#page_61.md).
 
-Arrows, [200](blt36.htm#page_200).
+Arrows, [200](blt36.htm#page_200.md).
 
-Assinaboines (tribe), [82](blt14.htm#page_82),
-[179](blt34.htm#page_179), [207](blt36.htm#page_207).
+Assinaboines (tribe), [82](blt14.htm#page_82.md),
+[179](blt34.htm#page_179), [207](blt36.htm#page_207.md).
 
-A´-tsi-tsi, [82](blt14.htm#page_82).
+A´-tsi-tsi, [82](blt14.htm#page_82.md).
 
-Authority of "sits beside him" woman, [217](blt37.htm#page_217).
+Authority of "sits beside him" woman, [217](blt37.htm#page_217.md).
 
-A-wah-heh´, [87](blt14.htm#page_87).
+A-wah-heh´, [87](blt14.htm#page_87.md).
 
  
 
-Back fat (of buffalo), [34](blt07.htm#page_34),
-[206](blt36.htm#page_206).
+Back fat (of buffalo), [34](blt07.htm#page_34.md),
+[206](blt36.htm#page_206.md).
 
-   Creek, [13](blt05.htm#page_13).
+   Creek, [13](blt05.htm#page_13.md).
 
-Bad Weapons, The, [157](blt27.htm#page_157).
+Bad Weapons, The, [157](blt27.htm#page_157.md).
 
-Bad Wife, The, [39](blt08.htm#page_39).
+Bad Wife, The, [39](blt08.htm#page_39.md).
 
-Badger, [96](blt15.htm#page_96).
+Badger, [96](blt15.htm#page_96.md).
 
-Badger Creek, [29](blt07.htm#page_29), [33](blt07.htm#page_33).
+Badger Creek, [29](blt07.htm#page_29), [33](blt07.htm#page_33.md).
 
-Bags, [203](blt36.htm#page_203).
+Bags, [203](blt36.htm#page_203.md).
 
-Basins, [201](blt36.htm#page_201), [203](blt36.htm#page_203).
+Basins, [201](blt36.htm#page_201), [203](blt36.htm#page_203.md).
 
-Battle near Cypress Mountains, [245](blt39.htm#page_245)
+Battle near Cypress Mountains, [245](blt39.htm#page_245.md)
 
-Bear, [75](blt11.htm#page_75), [96](blt15.htm#page_96),
-[260](blt40.htm#page_260).
+Bear, [75](blt11.htm#page_75), [96](blt15.htm#page_96.md),
+[260](blt40.htm#page_260.md).
 
-Bears, The, [149](blt24.htm#page_149).
+Bears, The, [149](blt24.htm#page_149.md).
 
-Beaver, how taken, [241](blt38.htm#page_241).
+Beaver, how taken, [241](blt38.htm#page_241.md).
 
-   Creek, [201](blt36.htm#page_201).
+   Creek, [201](blt36.htm#page_201.md).
 
-   Indians, [177](blt34.htm#page_177).
+   Indians, [177](blt34.htm#page_177.md).
 
-   Medicine, The, [117](blt18.htm#page_117).
+   Medicine, The, [117](blt18.htm#page_117.md).
 
-   song, [121](blt18.htm#page_121).
+   song, [121](blt18.htm#page_121.md).
 
-Belly River, [71](blt11.htm#page_71).
+Belly River, [71](blt11.htm#page_71.md).
 
-   Buttes, [73](blt11.htm#page_73).
+   Buttes, [73](blt11.htm#page_73.md).
 
-Belt, [196](blt36.htm#page_196), [197](blt36.htm#page_197).
+Belt, [196](blt36.htm#page_196), [197](blt36.htm#page_197.md).
 
-Berries created, [137](blt22.htm#page_137).
+Berries created, [137](blt22.htm#page_137.md).
 
-Berry of the red willow, [204](blt36.htm#page_204).
+Berry of the red willow, [204](blt36.htm#page_204.md).
 
-Big Eagle, [249](blt39.htm#page_249).
+Big Eagle, [249](blt39.htm#page_249.md).
 
 Big Nose, xv.
 
-Big Topknots, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Big Topknots, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
 <span id="page_302">p. 302</span>
 
-Bighorn, where created, [138](blt22.htm#page_138).
+Bighorn, where created, [138](blt22.htm#page_138.md).
 
-Birch tree, [273](blt40.htm#page_273).
+Birch tree, [273](blt40.htm#page_273.md).
 
-Bird, Thomas, [276](blt41.htm#page_276).
+Bird, Thomas, [276](blt41.htm#page_276.md).
 
-Birds created, [237](blt38.htm#page_237).
+Birds created, [237](blt38.htm#page_237.md).
 
-Birth of the animals, [271](blt40.htm#page_271).
+Birth of the animals, [271](blt40.htm#page_271.md).
 
-Biters, [209](blt37.htm#page_209).
+Biters, [209](blt37.htm#page_209.md).
 
-Bitter-root, [204](blt36.htm#page_204).
+Bitter-root, [204](blt36.htm#page_204.md).
 
-Black Elks (Blackfoot gens), [208](blt37.htm#page_208).
+Black Elks (Blackfoot gens), [208](blt37.htm#page_208.md).
 
-   (Blood gens), [209](blt37.htm#page_209).
+   (Blood gens), [209](blt37.htm#page_209.md).
 
-Blackfat Roasters, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Blackfat Roasters, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Blackfeet, [13](blt05.htm#page_13) *et seq*., [71](blt11.htm#page_71),
-[82](blt14.htm#page_82), [277](blt41.htm#page_277).
+Blackfeet, [13](blt05.htm#page_13) *et seq*., [71](blt11.htm#page_71.md),
+[82](blt14.htm#page_82), [277](blt41.htm#page_277.md).
 
-   as known to the whites, [179](blt34.htm#page_179).
+   as known to the whites, [179](blt34.htm#page_179.md).
 
-Blackfoot, xi, xiii, [15](blt05.htm#page_15).
+Blackfoot, xi, xiii, [15](blt05.htm#page_15.md).
 
-   cosmology, [271](blt40.htm#page_271).
+   cosmology, [271](blt40.htm#page_271.md).
 
-   country, boundaries of, [143](blt22.htm#page_143).
+   country, boundaries of, [143](blt22.htm#page_143.md).
 
-   Crossing, [85](blt14.htm#page_85).
+   Crossing, [85](blt14.htm#page_85.md).
 
-   Genesis, The, [237](blt38.htm#page_237).
+   Genesis, The, [237](blt38.htm#page_237.md).
 
-   in War, The, [242](blt39.htm#page_242).
+   in War, The, [242](blt39.htm#page_242.md).
 
-Black Doors, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Black Doors, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Black Patched Moccasins, [209](blt37.htm#page_209),
-[225](blt37.htm#page_225).
+Black Patched Moccasins, [209](blt37.htm#page_209.md),
+[225](blt37.htm#page_225.md).
 
-Blood (tribe), [70](blt11.htm#page_70), [82](blt14.htm#page_82),
-[277](blt41.htm#page_277).
+Blood (tribe), [70](blt11.htm#page_70), [82](blt14.htm#page_82.md),
+[277](blt41.htm#page_277.md).
 
-Blood People, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Blood People, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Boiling meat, [205](blt36.htm#page_205).
+Boiling meat, [205](blt36.htm#page_205.md).
 
-Bow River, [143](blt22.htm#page_143).
+Bow River, [143](blt22.htm#page_143.md).
 
-Bowls of stone, [202](blt36.htm#page_202).
+Bowls of stone, [202](blt36.htm#page_202.md).
 
-Bows, [299](blt42.htm#page_299).
+Bows, [299](blt42.htm#page_299.md).
 
-Box Elder Creek, [232](blt38.htm#page_232).
+Box Elder Creek, [232](blt38.htm#page_232.md).
 
-Boys, advice to, [289](blt42.htm#page_289).
+Boys, advice to, [289](blt42.htm#page_289.md).
 
-Brave (band of the *I-kun-uh´-kah-tsi*), [286](blt41.htm#page_286).
+Brave (band of the *I-kun-uh´-kah-tsi*), [286](blt41.htm#page_286.md).
 
-Bravery held in high esteem, [245](blt39.htm#page_245).
+Bravery held in high esteem, [245](blt39.htm#page_245.md).
 
-   proofs of required, [249](blt39.htm#page_249).
+   proofs of required, [249](blt39.htm#page_249.md).
 
-Braves, duties of, [222](blt37.htm#page_222).
+Braves, duties of, [222](blt37.htm#page_222.md).
 
-Braves´ society, [221](blt37.htm#page_221) *et seq*.,
-[225](blt37.htm#page_225).
+Braves´ society, [221](blt37.htm#page_221.md) *et seq*.,
+[225](blt37.htm#page_225.md).
 
-Brinton, Dr., [258](blt40.htm#page_258).
+Brinton, Dr., [258](blt40.htm#page_258.md).
 
-Brush created, [137](blt22.htm#page_137).
+Brush created, [137](blt22.htm#page_137.md).
 
-Buckets, [201](blt36.htm#page_201).
+Buckets, [201](blt36.htm#page_201.md).
 
-Buffalo, [25](blt06.htm#page_25) *et seq*., [227](blt38.htm#page_227)
+Buffalo, [25](blt06.htm#page_25) *et seq*., [227](blt38.htm#page_227.md)
 *et seq*.
 
-   bringing to camp, [232](blt38.htm#page_232) *et seq*.
+   bringing to camp, [232](blt38.htm#page_232.md) *et seq*.
 
-   corral of Cheyennes, [231](blt38.htm#page_231).
+   corral of Cheyennes, [231](blt38.htm#page_231.md).
 
-   created, [142](blt22.htm#page_142).
+   created, [142](blt22.htm#page_142.md).
 
-   driven over cliffs, [232](blt38.htm#page_232).
+   driven over cliffs, [232](blt38.htm#page_232.md).
 
-   Dung (gens), [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+   Dung (gens), [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-   eating the people, [140](blt22.htm#page_140).
+   eating the people, [140](blt22.htm#page_140.md).
 
-   hunting disguised, [235](blt38.htm#page_235).
+   hunting disguised, [235](blt38.htm#page_235.md).
 
-   hidden, [29](blt07.htm#page_29) *et seq*.
+   hidden, [29](blt07.htm#page_29.md) *et seq*.
 
-   slaughter, modern, [235](blt38.htm#page_235).
+   slaughter, modern, [235](blt38.htm#page_235.md).
 
-   value of to the people, [227](blt38.htm#page_227).
+   value of to the people, [227](blt38.htm#page_227.md).
 
-   surrounding, [234](blt38.htm#page_234).
+   surrounding, [234](blt38.htm#page_234.md).
 
-Buffalo Lip Butte, [274](blt40.htm#page_274).
+Buffalo Lip Butte, [274](blt40.htm#page_274.md).
 
-Buffalo Rock, The, [125](blt19.htm#page_125), [262](blt40.htm#page_262).
+Buffalo Rock, The, [125](blt19.htm#page_125), [262](blt40.htm#page_262.md).
 
-   what it is, [126](blt19.htm#page_126).
+   what it is, [126](blt19.htm#page_126.md).
 
-Buffalo song, [280](blt41.htm#page_280).
+Buffalo song, [280](blt41.htm#page_280.md).
 
-Bull bats, [166](blt30.htm#page_166).
+Bull bats, [166](blt30.htm#page_166.md).
 
-Bull berries, [203](blt36.htm#page_203).
+Bull berries, [203](blt36.htm#page_203.md).
 
-Bulls, [221](blt37.htm#page_221) *et seq*.
+Bulls, [221](blt37.htm#page_221.md) *et seq*.
 
-Bulls’ society, [93](blt15.htm#page_93), [104](blt16.htm#page_104) *et
+Bulls’ society, [93](blt15.htm#page_93), [104](blt16.htm#page_104.md) *et
 seq*.
 
-Bunch of lodges, [89](blt14.htm#page_89).
+Bunch of lodges, [89](blt14.htm#page_89.md).
 
-Burial, [193](blt35.htm#page_193).
+Burial, [193](blt35.htm#page_193.md).
 
-Buttes created, [237](blt38.htm#page_237).
+Buttes created, [237](blt38.htm#page_237.md).
 
  
 
-Camas, [137](blt22.htm#page_137) *et seq*.
+Camas, [137](blt22.htm#page_137.md) *et seq*.
 
-   root, how prepared, [204](blt36.htm#page_204).
+   root, how prepared, [204](blt36.htm#page_204.md).
 
-Camp arranged in circle, [224](blt37.htm#page_224).
+Camp arranged in circle, [224](blt37.htm#page_224.md).
 
-Camp, order of moving, [225](blt37.htm#page_225).
+Camp, order of moving, [225](blt37.htm#page_225.md).
 
-Canadian mounted police, [289](blt42.htm#page_289).
+Canadian mounted police, [289](blt42.htm#page_289.md).
 
-Casey, Lieutenant, [xiii](blt03.htm#page_xiii).
+Casey, Lieutenant, [xiii](blt03.htm#page_xiii.md).
 
-Catchers, [221](blt37.htm#page_221).
+Catchers, [221](blt37.htm#page_221.md).
 
-Cattle issued, [297](blt42.htm#page_297).
+Cattle issued, [297](blt42.htm#page_297.md).
 
-Cause of disease, [273](blt40.htm#page_273), [281](blt41.htm#page_281).
+Cause of disease, [273](blt40.htm#page_273), [281](blt41.htm#page_281.md).
 
-Centre post of Medicine Lodge, [265](blt40.htm#page_265).
+Centre post of Medicine Lodge, [265](blt40.htm#page_265.md).
 
-Ceremony of Medicine Lodge, [263](blt40.htm#page_263) *et seq*.
+Ceremony of Medicine Lodge, [263](blt40.htm#page_263.md) *et seq*.
 
-   of unwrapping pipe-stem, [279](blt41.htm#page_279) *et seq*.
+   of unwrapping pipe-stem, [279](blt41.htm#page_279.md) *et seq*.
 
-Cheyennes, [245](blt39.htm#page_245), [249](blt39.htm#page_249),
-[250](blt39.htm#page_250).
+Cheyennes, [245](blt39.htm#page_245), [249](blt39.htm#page_249.md),
+[250](blt39.htm#page_250.md).
 
-   buffalo corral of, [231](blt38.htm#page_231).
+   buffalo corral of, [231](blt38.htm#page_231.md).
 
-Chickadee, [162](blt29.htm#page_162).
+Chickadee, [162](blt29.htm#page_162.md).
 
-Chief, [219](blt37.htm#page_219).
+Chief, [219](blt37.htm#page_219.md).
 
-Children in lodge, [189](blt35.htm#page_189).
+Children in lodge, [189](blt35.htm#page_189.md).
 
-   sports of, [184](blt35.htm#page_184), [198](blt36.htm#page_198).
+   sports of, [184](blt35.htm#page_184), [198](blt36.htm#page_198.md).
 
-   training of, [188](blt35.htm#page_188).
+   training of, [188](blt35.htm#page_188.md).
 
-Children, The Lost, [xiv](blt03.htm#page_xiv), [52](blt09.htm#page_52).
+Children, The Lost, [xiv](blt03.htm#page_xiv), [52](blt09.htm#page_52.md).
 
-Chippeways, [244](blt39.htm#page_244).
+Chippeways, [244](blt39.htm#page_244.md).
 
-Chippeweyans, [177](blt34.htm#page_177).
+Chippeweyans, [177](blt34.htm#page_177.md).
 
-Chinook winds, [226](blt38.htm#page_226).
+Chinook winds, [226](blt38.htm#page_226.md).
 
-Choke-cherries, how prepared, [203](blt36.htm#page_203).
+Choke-cherries, how prepared, [203](blt36.htm#page_203.md).
 
-Clark (W. P.), [244](blt39.htm#page_244).
+Clark (W. P.), [244](blt39.htm#page_244.md).
 
-Clay images, of buffalo, [142](blt22.htm#page_142).
+Clay images, of buffalo, [142](blt22.htm#page_142.md).
 
-   in human shape, [138](blt22.htm#page_138).
+   in human shape, [138](blt22.htm#page_138.md).
 
-Clot of blood, [31](blt07.htm#page_31).
+Clot of blood, [31](blt07.htm#page_31.md).
 
-Clothing, [196](blt36.htm#page_196).
+Clothing, [196](blt36.htm#page_196.md).
 
-   made of buffalo hide, [227](blt38.htm#page_227).
+   made of buffalo hide, [227](blt38.htm#page_227.md).
 
-Cold Maker, [260](blt40.htm#page_260).
+Cold Maker, [260](blt40.htm#page_260.md).
 
-Confederation of three tribes, [208](blt37.htm#page_208).
+Confederation of three tribes, [208](blt37.htm#page_208.md).
 
-Corral of Cheyennes, buffalo, [231](blt38.htm#page_231).
+Corral of Cheyennes, buffalo, [231](blt38.htm#page_231.md).
 
-Cosmology, Blackfoot, [271](blt40.htm#page_271).
+Cosmology, Blackfoot, [271](blt40.htm#page_271.md).
 
-Counting *coup*, [245](blt39.htm#page_245) *et seq*.
+Counting *coup*, [245](blt39.htm#page_245.md) *et seq*.
 
-   *coup* at Medicine Lodge, [265](blt40.htm#page_265),
-[267](blt40.htm#page_267).
+   *coup* at Medicine Lodge, [265](blt40.htm#page_265.md),
+[267](blt40.htm#page_267.md).
 
-Country of the Blackfoot, [278](blt41.htm#page_278).
+Country of the Blackfoot, [278](blt41.htm#page_278.md).
 
 <span id="page_303">p. 303</span>
 
-Coup, [191](blt35.htm#page_191) *et seq*.
+Coup, [191](blt35.htm#page_191.md) *et seq*.
 
-   among Blackfeet, [248](blt39.htm#page_248).
+   among Blackfeet, [248](blt39.htm#page_248.md).
 
-      different tribes, [245](blt39.htm#page_245).
+      different tribes, [245](blt39.htm#page_245.md).
 
-   counting, in early times, [117](blt18.htm#page_117).
+   counting, in early times, [117](blt18.htm#page_117.md).
 
-"Covering" the slain, [253](blt39.htm#page_253).
+"Covering" the slain, [253](blt39.htm#page_253.md).
 
-Cowardice, penalty for, [220](blt37.htm#page_220).
+Cowardice, penalty for, [220](blt37.htm#page_220.md).
 
-Coyotes, how taken, [240](blt38.htm#page_240).
+Coyotes, how taken, [240](blt38.htm#page_240.md).
 
-Creation, [238](blt38.htm#page_238) *et seq*.
+Creation, [238](blt38.htm#page_238.md) *et seq*.
 
-Creator, [256](blt40.htm#page_256).
+Creator, [256](blt40.htm#page_256.md).
 
-Cree (tribe), [82](blt14.htm#page_82) *et seq*.,
-[279](blt41.htm#page_279), [207](blt36.htm#page_207).
+Cree (tribe), [82](blt14.htm#page_82.md) *et seq*.,
+[279](blt41.htm#page_279), [207](blt36.htm#page_207.md).
 
-Crimes to be punished, [220](blt37.htm#page_220).
+Crimes to be punished, [220](blt37.htm#page_220.md).
 
-Crops in Blackfoot country, [296](blt42.htm#page_296).
+Crops in Blackfoot country, [296](blt42.htm#page_296.md).
 
-Crow (tribe), [13](blt05.htm#page_13), [179](blt34.htm#page_179).
+Crow (tribe), [13](blt05.htm#page_13), [179](blt34.htm#page_179.md).
 
-Cups, how made, [201](blt36.htm#page_201), [203](blt36.htm#page_203).
+Cups, how made, [201](blt36.htm#page_201), [203](blt36.htm#page_203.md).
 
 Custer, General, xiv.
 
-Customs, ancient, dying out, [277](blt41.htm#page_277).
+Customs, ancient, dying out, [277](blt41.htm#page_277.md).
 
-Customs, Daily Life and, [281](blt41.htm#page_281).
+Customs, Daily Life and, [281](blt41.htm#page_281.md).
 
-Cut Bank River, [294](blt42.htm#page_294).
+Cut Bank River, [294](blt42.htm#page_294.md).
 
-Cutting rawhide for Medicine Lodge, [265](blt40.htm#page_265).
+Cutting rawhide for Medicine Lodge, [265](blt40.htm#page_265.md).
 
-Cypress Mountains, [245](blt39.htm#page_245).
+Cypress Mountains, [245](blt39.htm#page_245.md).
 
  
 
-Daily Life and Customs, [282](blt41.htm#page_282).
+Daily Life and Customs, [282](blt41.htm#page_282.md).
 
-Dance, medicine pipe, [281](blt41.htm#page_281).
+Dance, medicine pipe, [281](blt41.htm#page_281.md).
 
-  young women's, [117](blt18.htm#page_117).
+  young women's, [117](blt18.htm#page_117.md).
 
 Dawson, Mrs. Thomas, xiv.
 
-Dead return to life, [230](blt38.htm#page_230).
+Dead return to life, [230](blt38.htm#page_230.md).
 
-Death, origin of, [139](blt22.htm#page_139).
+Death, origin of, [139](blt22.htm#page_139.md).
 
-Deer, how taken, [240](blt38.htm#page_240).
+Deer, how taken, [240](blt38.htm#page_240.md).
 
-Deer Lodge, [293](blt42.htm#page_293).
+Deer Lodge, [293](blt42.htm#page_293.md).
 
-Diet, [203](blt36.htm#page_203).
+Diet, [203](blt36.htm#page_203.md).
 
-Disease, [281](blt41.htm#page_281).
+Disease, [281](blt41.htm#page_281.md).
 
-Diseases introduced by whites, [287](blt42.htm#page_287).
+Diseases introduced by whites, [287](blt42.htm#page_287.md).
 
-Dishes, [201](blt36.htm#page_201), [203](blt36.htm#page_203).
+Dishes, [201](blt36.htm#page_201), [203](blt36.htm#page_203.md).
 
-Divorce, [228](blt38.htm#page_228).
+Divorce, [228](blt38.htm#page_228.md).
 
-Doctors, [283](blt41.htm#page_283).
+Doctors, [283](blt41.htm#page_283.md).
 
-Dog and the Stick, The, [145](blt23.htm#page_145).
+Dog and the Stick, The, [145](blt23.htm#page_145.md).
 
-Dogs beasts of burden, [186](blt35.htm#page_186) *et seq*.
+Dogs beasts of burden, [186](blt35.htm#page_186.md) *et seq*.
 
-   killed at grave, [194](blt35.htm#page_194).
+   killed at grave, [194](blt35.htm#page_194.md).
 
-   not eaten, [207](blt36.htm#page_207).
+   not eaten, [207](blt36.htm#page_207.md).
 
-Dogs Naked, [208](blt37.htm#page_208).
+Dogs Naked, [208](blt37.htm#page_208.md).
 
-Don't Laugh band, [223](blt37.htm#page_223).
+Don't Laugh band, [223](blt37.htm#page_223.md).
 
-Double Runner, vii, xv, [223](blt37.htm#page_223).
+Double Runner, vii, xv, [223](blt37.htm#page_223.md).
 
-Doves, [225](blt37.htm#page_225).
+Doves, [225](blt37.htm#page_225.md).
 
-Dream helper, [18](blt05.htm#page_18) *et seq*.
+Dream helper, [18](blt05.htm#page_18.md) *et seq*.
 
-   originates war party, [250](blt39.htm#page_250).
+   originates war party, [250](blt39.htm#page_250.md).
 
-   person, [19](blt05.htm#page_19) *et seq*.
+   person, [19](blt05.htm#page_19.md) *et seq*.
 
-Dreaming for power, [191](blt35.htm#page_191) *et seq*.
+Dreaming for power, [191](blt35.htm#page_191.md) *et seq*.
 
-Dreams, [3](blt04.htm#page_3) *et seq*., [56](blt09.htm#page_56),
-[85](blt14.htm#page_85).
+Dreams, [3](blt04.htm#page_3) *et seq*., [56](blt09.htm#page_56.md),
+[85](blt14.htm#page_85.md).
 
-   belief in, [263](blt40.htm#page_263).
+   belief in, [263](blt40.htm#page_263.md).
 
-Dress, [196](blt36.htm#page_196).
+Dress, [196](blt36.htm#page_196.md).
 
-Dried meat, [205](blt36.htm#page_205).
+Dried meat, [205](blt36.htm#page_205.md).
 
-Dried Meat (gens), [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Dried Meat (gens), [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Dwelling, [198](blt36.htm#page_198).
+Dwelling, [198](blt36.htm#page_198.md).
 
-Duties of first wife, [217](blt37.htm#page_217).
-
- 
-
-Eagle catching, [236](blt38.htm#page_236).
-
-   songs, [239](blt38.htm#page_239).
-
-   lodge, [240](blt38.htm#page_240).
-
-Early Finished Eating, [209](blt37.htm#page_209),
-[225](blt37.htm#page_225).
-
-   Riser, [99](blt15.htm#page_99).
-
-   wars bloodless, [242](blt39.htm#page_242).
-
-Ear-rings, [297](blt42.htm#page_297).
-
-Eggs of waterfowl, how cooked, [207](blt36.htm#page_207).
-
-*Ē-ĭn´-a-ke*, [221](blt37.htm#page_221).
-
-E-kus´-kini, [84](blt14.htm#page_84) *et seq*.,
-[132](blt21.htm#page_132) *et seq*.
-
-Elbow river, [143](blt22.htm#page_143).
-
-Elk, how taken, [240](blt38.htm#page_240).
-
-   The, [158](blt28.htm#page_158).
-
-   tushes, [197](blt36.htm#page_197).
-
-Elkhorn arrow, [115](blt17.htm#page_115).
-
-Elk River, [4](blt04.htm#page_4).
-
-Elopement, [215](blt37.htm#page_215).
-
-*E´-mi-tah pahk-sai-yiks*, [208](blt37.htm#page_208).
-
-*E´-mi-taks*, [221](blt37.htm#page_221).
-
-*Esk´-sin-ai-tŭp-iks*, [209](blt37.htm#page_209).
-
-*Esk´-sin-i-tŭppiks*, [131](blt20.htm#page_131).
-
-*Ĕts-kāi´-nah*, [221](blt37.htm#page_221).
-
-Everyday life, [181](blt35.htm#page_181) *et seq*.
+Duties of first wife, [217](blt37.htm#page_217.md).
 
  
 
-Family names, [210](blt37.htm#page_210).
+Eagle catching, [236](blt38.htm#page_236.md).
 
-Fast of Medicine Lodge woman, [265](blt40.htm#page_265).
+   songs, [239](blt38.htm#page_239.md).
 
-Fast Runners, The, [81](blt13.htm#page_81).
+   lodge, [240](blt38.htm#page_240.md).
 
-Fat Roasters, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Early Finished Eating, [209](blt37.htm#page_209.md),
+[225](blt37.htm#page_225.md).
 
-Feast, invitations to, [109](blt16.htm#page_109).
+   Riser, [99](blt15.htm#page_99.md).
 
-Feasting in the camps, [282](blt41.htm#page_282).
+   wars bloodless, [242](blt39.htm#page_242.md).
 
-Fighting between Bloods and Piegans, [208](blt37.htm#page_208).
+Ear-rings, [297](blt42.htm#page_297.md).
 
-Fire, how obtained, [200](blt36.htm#page_200).
+Eggs of waterfowl, how cooked, [207](blt36.htm#page_207.md).
 
-   carried, [202](blt36.htm#page_202).
+*Ē-ĭn´-a-ke*, [221](blt37.htm#page_221.md).
 
-First killing in war, [121](blt18.htm#page_121).
+E-kus´-kini, [84](blt14.htm#page_84.md) *et seq*.,
+[132](blt21.htm#page_132.md) *et seq*.
 
-   mauls, [143](blt22.htm#page_143).
+Elbow river, [143](blt22.htm#page_143.md).
 
-   medicine pipe, [116](blt17.htm#page_116).
+Elk, how taken, [240](blt38.htm#page_240.md).
 
-   people, [139](blt22.htm#page_139).
+   The, [158](blt28.htm#page_158.md).
 
-   pis´kun, [142](blt22.htm#page_142).
+   tushes, [197](blt36.htm#page_197.md).
 
-   scalping, [122](blt18.htm#page_122).
+Elkhorn arrow, [115](blt17.htm#page_115.md).
 
-   shelter to sleep under, [142](blt22.htm#page_142).
+Elk River, [4](blt04.htm#page_4.md).
 
-   stone knives, [142](blt22.htm#page_142).
+Elopement, [215](blt37.htm#page_215.md).
 
-Fish, [207](blt36.htm#page_207).
+*E´-mi-tah pahk-sai-yiks*, [208](blt37.htm#page_208.md).
 
-   hooks, [203](blt36.htm#page_203).
+*E´-mi-taks*, [221](blt37.htm#page_221.md).
+
+*Esk´-sin-ai-tŭp-iks*, [209](blt37.htm#page_209.md).
+
+*Esk´-sin-i-tŭppiks*, [131](blt20.htm#page_131.md).
+
+*Ĕts-kāi´-nah*, [221](blt37.htm#page_221.md).
+
+Everyday life, [181](blt35.htm#page_181.md) *et seq*.
+
+ 
+
+Family names, [210](blt37.htm#page_210.md).
+
+Fast of Medicine Lodge woman, [265](blt40.htm#page_265.md).
+
+Fast Runners, The, [81](blt13.htm#page_81.md).
+
+Fat Roasters, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
+
+Feast, invitations to, [109](blt16.htm#page_109.md).
+
+Feasting in the camps, [282](blt41.htm#page_282.md).
+
+Fighting between Bloods and Piegans, [208](blt37.htm#page_208.md).
+
+Fire, how obtained, [200](blt36.htm#page_200.md).
+
+   carried, [202](blt36.htm#page_202.md).
+
+First killing in war, [121](blt18.htm#page_121.md).
+
+   mauls, [143](blt22.htm#page_143.md).
+
+   medicine pipe, [116](blt17.htm#page_116.md).
+
+   people, [139](blt22.htm#page_139.md).
+
+   pis´kun, [142](blt22.htm#page_142.md).
+
+   scalping, [122](blt18.htm#page_122.md).
+
+   shelter to sleep under, [142](blt22.htm#page_142.md).
+
+   stone knives, [142](blt22.htm#page_142.md).
+
+Fish, [207](blt36.htm#page_207.md).
+
+   hooks, [203](blt36.htm#page_203.md).
 
 <span id="page_304">p. 304</span>
 
-Fish spears, [203](blt36.htm#page_203).
+Fish spears, [203](blt36.htm#page_203.md).
 
-Flat Bows, [208](blt37.htm#page_208).
+Flat Bows, [208](blt37.htm#page_208.md).
 
-Flatheads, [179](blt34.htm#page_179).
+Flatheads, [179](blt34.htm#page_179.md).
 
-Flesh of animals eaten, [205](blt36.htm#page_205).
+Flesh of animals eaten, [205](blt36.htm#page_205.md).
 
-Fleshers, how made, [200](blt36.htm#page_200).
+Fleshers, how made, [200](blt36.htm#page_200.md).
 
-Flint and steel, [200](blt36.htm#page_200).
+Flint and steel, [200](blt36.htm#page_200.md).
 
-Folk-lore, [xv](blt03.htm#page_xv).
+Folk-lore, [xv](blt03.htm#page_xv.md).
 
-Food of war party, [251](blt39.htm#page_251).
+Food of war party, [251](blt39.htm#page_251.md).
 
-*Forest and Stream*, [xiii](blt03.htm#page_xiii),
-[xiv](blt03.htm#page_xiv).
+*Forest and Stream*, [xiii](blt03.htm#page_xiii.md),
+[xiv](blt03.htm#page_xiv.md).
 
-Fort Conrad, [262](blt40.htm#page_262).
+Fort Conrad, [262](blt40.htm#page_262.md).
 
-   McLeod, [70](blt11.htm#page_70), [73](blt11.htm#page_73).
+   McLeod, [70](blt11.htm#page_70), [73](blt11.htm#page_73.md).
 
-   Pitt, [83](blt14.htm#page_83).
+   Pitt, [83](blt14.htm#page_83.md).
 
-   Union, [287](blt42.htm#page_287).
+   Union, [287](blt42.htm#page_287.md).
 
-Four Bears, xiv, [262](blt40.htm#page_262).
+Four Bears, xiv, [262](blt40.htm#page_262.md).
 
-Fox, The, [169](blt32.htm#page_169).
+Fox, The, [169](blt32.htm#page_169.md).
 
-Fox-eye, [61](blt10.htm#page_61) *et seq*.
+Fox-eye, [61](blt10.htm#page_61.md) *et seq*.
 
-Frogs, [207](blt36.htm#page_207).
+Frogs, [207](blt36.htm#page_207.md).
 
-Fungus for punk, [201](blt36.htm#page_201).
+Fungus for punk, [201](blt36.htm#page_201.md).
 
-Fur animals, how caught, [240](blt38.htm#page_240).
+Fur animals, how caught, [240](blt38.htm#page_240.md).
 
-Future life, [273](blt40.htm#page_273)-[275](blt40.htm#page_275).
+Future life, [273](blt40.htm#page_273)-[275](blt40.htm#page_275.md).
 
  
 
-Gambling, [183](blt35.htm#page_183) *et seq*.
+Gambling, [183](blt35.htm#page_183.md) *et seq*.
 
-Game, hidden, [145](blt23.htm#page_145).
+Game, hidden, [145](blt23.htm#page_145.md).
 
-   in Blackfoot country, [226](blt38.htm#page_226).
+   in Blackfoot country, [226](blt38.htm#page_226.md).
 
-Game played by prairie dogs, [171](blt33.htm#page_171).
+Game played by prairie dogs, [171](blt33.htm#page_171.md).
 
-Genesis, The Blackfoot, [137](blt22.htm#page_137).
+Genesis, The Blackfoot, [137](blt22.htm#page_137.md).
 
-Gentes of the Blackfeet, [208](blt37.htm#page_208).
+Gentes of the Blackfeet, [208](blt37.htm#page_208.md).
 
-Bloods, [209](blt37.htm#page_209).
+Bloods, [209](blt37.htm#page_209.md).
 
-   Kai´nah, [209](blt37.htm#page_209).
+   Kai´nah, [209](blt37.htm#page_209.md).
 
-   Piegans, [209](blt37.htm#page_209), [210](blt37.htm#page_210).
+   Piegans, [209](blt37.htm#page_209), [210](blt37.htm#page_210.md).
 
-   Pi-kûn´i, [209](blt37.htm#page_209), [210](blt37.htm#page_210).
+   Pi-kûn´i, [209](blt37.htm#page_209), [210](blt37.htm#page_210.md).
 
-   Sik ´si-kau, [208](blt37.htm#page_208).
+   Sik ´si-kau, [208](blt37.htm#page_208.md).
 
-   now extinct, [224](blt37.htm#page_224).
+   now extinct, [224](blt37.htm#page_224.md).
 
-Ghost, [72](blt11.htm#page_72).
+Ghost, [72](blt11.htm#page_72.md).
 
-   bear, [75](blt11.htm#page_75).
+   bear, [75](blt11.htm#page_75.md).
 
-   country, [128](blt20.htm#page_128).
+   country, [128](blt20.htm#page_128.md).
 
-   Woman, Heavy Collar and The, [70](blt11.htm#page_70).
+   Woman, Heavy Collar and The, [70](blt11.htm#page_70.md).
 
-Ghosts, [273](blt40.htm#page_273)-[281](blt41.htm#page_281).
+Ghosts, [273](blt40.htm#page_273)-[281](blt41.htm#page_281.md).
 
-Ghosts’ Buffalo, The, [132](blt21.htm#page_132).
+Ghosts’ Buffalo, The, [132](blt21.htm#page_132.md).
 
-Ghosts, camp of the, [128](blt20.htm#page_128).
+Ghosts, camp of the, [128](blt20.htm#page_128.md).
 
-Girls, carefully guarded, [216](blt37.htm#page_216).
+Girls, carefully guarded, [216](blt37.htm#page_216.md).
 
-   instructed, [190](blt35.htm#page_190).
+   instructed, [190](blt35.htm#page_190.md).
 
-   outfit for marriage, [212](blt37.htm#page_212),
-[214](blt37.htm#page_214).
+   outfit for marriage, [212](blt37.htm#page_212.md),
+[214](blt37.htm#page_214.md).
 
-Girl stolen, [215](blt37.htm#page_215).
+Girl stolen, [215](blt37.htm#page_215.md).
 
-Gown of women, [196](blt36.htm#page_196).
+Gown of women, [196](blt36.htm#page_196.md).
 
-Grasshoppers, [207](blt36.htm#page_207).
+Grasshoppers, [207](blt36.htm#page_207.md).
 
-Grease on red willow bark, [156](blt26.htm#page_156).
+Grease on red willow bark, [156](blt26.htm#page_156.md).
 
-Great Bear (constellation), [66](blt10.htm#page_66),
-[111](blt16.htm#page_111).
+Great Bear (constellation), [66](blt10.htm#page_66.md),
+[111](blt16.htm#page_111.md).
 
-   Falls, [63](blt10.htm#page_63).
+   Falls, [63](blt10.htm#page_63.md).
 
-Grizzly Bear, [67](blt10.htm#page_67), [90](blt14.htm#page_90).
+Grizzly Bear, [67](blt10.htm#page_67), [90](blt14.htm#page_90.md).
 
 Grooved arrow shafts, zoo.
 
-Gros Ventres, [207](blt36.htm#page_207), [244](blt39.htm#page_244).
+Gros Ventres, [207](blt36.htm#page_207), [244](blt39.htm#page_244.md).
 
-Ground Man, [259](blt40.htm#page_259) *et seq*.
+Ground Man, [259](blt40.htm#page_259.md) *et seq*.
 
-Ground Man (of Cheyennes), [260](blt40.htm#page_260).
+Ground Man (of Cheyennes), [260](blt40.htm#page_260.md).
 
-Ground Persons, [259](blt40.htm#page_259).
-
- 
-
-Hair, care of, [197](blt36.htm#page_197).
-
-   mode of wearing, [197](blt36.htm#page_197),
-
-Handles of knives, [200](blt36.htm#page_200).
-
-"Hands," [184](blt35.htm#page_184).
-
-Hats of antelope skin, [241](blt38.htm#page_241).
-
-Head chief, how chosen, [219](blt37.htm#page_219).
-
-Heavy Collar, [70](blt11.htm#page_70) *et seq*.
-
-   and the Ghost Woman, [70](blt11.htm#page_70).
-
-   Runner, [xv](blt03.htm#page_xv).
-
-Help from animals, [141](blt22.htm#page_141).
-
-Hill where Old Man sleeps, [143](blt22.htm#page_143).
-
-Horned toad, [276](blt41.htm#page_276).
-
-Horns, [221](blt37.htm#page_221).
-
-Horses cause of war, [242](blt39.htm#page_242).
-
-   killed at grave, [193](blt35.htm#page_193).
-
-   when obtained, [177](blt34.htm#page_177), [186](blt35.htm#page_186).
-
-How the Blackfoot lived, [196](blt36.htm#page_196).
-
-Hunting, [226](blt38.htm#page_226) *et seq*.
-
-   alone punished, [220](blt37.htm#page_220).
-
-Husband's personal rights in wife, [217](blt37.htm#page_217).
-
-   power over wife, [216](blt37.htm#page_216).
-
-   property rights in wife, [217](blt37.htm#page_217).
+Ground Persons, [259](blt40.htm#page_259.md).
 
  
 
-*I-kun-uh´-kah-tsi*, [69](blt10.htm#page_69), [80](blt12.htm#page_80),
-[93](blt15.htm#page_93), [104](blt16.htm#page_104),
-[186](blt35.htm#page_186), [219](blt37.htm#page_219), *et seq*.
+Hair, care of, [197](blt36.htm#page_197.md).
 
-   origin of, [104](blt16.htm#page_104) *et seq*.
+   mode of wearing, [197](blt36.htm#page_197.md),
 
-Implements of the dead, [132](blt21.htm#page_132) *et seq*.
+Handles of knives, [200](blt36.htm#page_200.md).
 
-   made of buffalo hide, [227](blt38.htm#page_227).
+"Hands," [184](blt35.htm#page_184.md).
 
-Indian a man, [xii](blt03.htm#page_xii).
+Hats of antelope skin, [241](blt38.htm#page_241.md).
 
-   sign language, [244](blt39.htm#page_244).
+Head chief, how chosen, [219](blt37.htm#page_219.md).
 
-   tobacco, [124](blt18.htm#page_124), [268](blt40.htm#page_268), *et
+Heavy Collar, [70](blt11.htm#page_70.md) *et seq*.
+
+   and the Ghost Woman, [70](blt11.htm#page_70.md).
+
+   Runner, [xv](blt03.htm#page_xv.md).
+
+Help from animals, [141](blt22.htm#page_141.md).
+
+Hill where Old Man sleeps, [143](blt22.htm#page_143.md).
+
+Horned toad, [276](blt41.htm#page_276.md).
+
+Horns, [221](blt37.htm#page_221.md).
+
+Horses cause of war, [242](blt39.htm#page_242.md).
+
+   killed at grave, [193](blt35.htm#page_193.md).
+
+   when obtained, [177](blt34.htm#page_177), [186](blt35.htm#page_186.md).
+
+How the Blackfoot lived, [196](blt36.htm#page_196.md).
+
+Hunting, [226](blt38.htm#page_226.md) *et seq*.
+
+   alone punished, [220](blt37.htm#page_220.md).
+
+Husband's personal rights in wife, [217](blt37.htm#page_217.md).
+
+   power over wife, [216](blt37.htm#page_216.md).
+
+   property rights in wife, [217](blt37.htm#page_217.md).
+
+ 
+
+*I-kun-uh´-kah-tsi*, [69](blt10.htm#page_69), [80](blt12.htm#page_80.md),
+[93](blt15.htm#page_93), [104](blt16.htm#page_104.md),
+[186](blt35.htm#page_186), [219](blt37.htm#page_219.md), *et seq*.
+
+   origin of, [104](blt16.htm#page_104.md) *et seq*.
+
+Implements of the dead, [132](blt21.htm#page_132.md) *et seq*.
+
+   made of buffalo hide, [227](blt38.htm#page_227.md).
+
+Indian a man, [xii](blt03.htm#page_xii.md).
+
+   sign language, [244](blt39.htm#page_244.md).
+
+   tobacco, [124](blt18.htm#page_124), [268](blt40.htm#page_268.md), *et
 seq*.
 
 Indians and their Stories, ix.
 
-   Beaver, [177](blt34.htm#page_177).
+   Beaver, [177](blt34.htm#page_177.md).
 
-   general ignorance about, [x](blt03.htm#page_x).
+   general ignorance about, [x](blt03.htm#page_x.md).
 
-Infants lost, [187](blt35.htm#page_187).
+Infants lost, [187](blt35.htm#page_187.md).
 
-*I-nis´-kim*, [125](blt19.htm#page_125) *et seq*.,
-[133](blt21.htm#page_133) *et seq*., [229](blt38.htm#page_229).
+*I-nis´-kim*, [125](blt19.htm#page_125.md) *et seq*.,
+[133](blt21.htm#page_133) *et seq*., [229](blt38.htm#page_229.md).
 
-*In-uhk´-so-yi-stam-iks*, [209](blt37.htm#page_209).
+*In-uhk´-so-yi-stam-iks*, [209](blt37.htm#page_209.md).
 
-*I-nuk-si´-kah-ko-pwa-iks*, [209](blt37.htm#page_209).
+*I-nuk-si´-kah-ko-pwa-iks*, [209](blt37.htm#page_209.md).
 
-*I-nuks´-iks*, [209](blt37.htm#page_209).
+*I-nuks´-iks*, [209](blt37.htm#page_209.md).
 
-Invitation to feasts, [109](blt16.htm#page_109).
+Invitation to feasts, [109](blt16.htm#page_109.md).
 
-*I´pok-si-maiks*, [209](blt37.htm#page_209).
+*I´pok-si-maiks*, [209](blt37.htm#page_209.md).
 
-*I-sis´-o-kas-im-iks*, [209](blt37.htm#page_209).
+*I-sis´-o-kas-im-iks*, [209](blt37.htm#page_209.md).
 
-*I-so-kin´-uh-kin*, [284](blt41.htm#page_284).
+*I-so-kin´-uh-kin*, [284](blt41.htm#page_284.md).
 
 <span id="page_305">p. 305</span>
 
-*Is´-sui*, [221](blt37.htm#page_221).
+*Is´-sui*, [221](blt37.htm#page_221.md).
 
-*Is-ti´-kai-nah*, [209](blt37.htm#page_209).
+*Is-ti´-kai-nah*, [209](blt37.htm#page_209.md).
 
-"It fell on them" creek, [61](blt10.htm#page_61).
+"It fell on them" creek, [61](blt10.htm#page_61.md).
 
-*It-se´-wah*, [183](blt35.htm#page_183).
-
- 
-
-Jackson, William, [xiv](blt03.htm#page_xiv), [232](blt38.htm#page_232).
+*It-se´-wah*, [183](blt35.htm#page_183.md).
 
  
 
-*Kah´-mi-taiks*, [209](blt37.htm#page_209).
-
-Kai´-nah, vii, [208](blt37.htm#page_208) *et seq*.
-
-Kalispels, [204](blt36.htm#page_204).
-
-Kettles of stone, [202](blt36.htm#page_202).
-
-Kill Close By, [210](blt37.htm#page_210), [225](blt37.htm#page_225).
-
-Kipp, Joseph, [249](blt39.htm#page_249).
-
-Kit-fox, [111](blt16.htm#page_111).
-
-Kit-fox (society), [93](blt15.htm#page_93).
-
-Kit-foxes, [221](blt37.htm#page_221), [225](blt37.htm#page_225).
-
-*Ki´-yis*, [209](blt37.htm#page_209).
-
-*Knats-o-mi´-ta*, [221](blt37.htm#page_221).
-
-Knives of stone, [200](blt36.htm#page_200).
-
-Ko-ko-mik´-e-is, [99](blt15.htm#page_99), [258](blt40.htm#page_258).
-
-Kom-in´-a-kus, [88](blt14.htm#page_88).
-
-*Ksik-si-num´*, [256](blt40.htm#page_256).
-
-*Kuk-kuiks´*, [221](blt37.htm#page_221).
-
-*Kut´-ai-ĭm-iks*, [209](blt37.htm#page_209).
-
-*Kut-ai-sot´-si-man*, [209](blt37.htm#page_209).
-
-Kutenais, [179](blt34.htm#page_179).
-
-Kut-o´-yis, [29](blt07.htm#page_29) *et seq*.
+Jackson, William, [xiv](blt03.htm#page_xiv), [232](blt38.htm#page_232.md).
 
  
 
-Ladles of horn, [203](blt36.htm#page_203).
+*Kah´-mi-taiks*, [209](blt37.htm#page_209.md).
 
-   of wood, [202](blt36.htm#page_202).
+Kai´-nah, vii, [208](blt37.htm#page_208.md) *et seq*.
 
-*Lari pūk´ūs*, [223](blt37.htm#page_223).
+Kalispels, [204](blt36.htm#page_204.md).
 
-Lesser Slave Lake, [177](blt34.htm#page_177).
+Kettles of stone, [202](blt36.htm#page_202.md).
 
-*L’herbe*, [183](blt35.htm#page_183).
+Kill Close By, [210](blt37.htm#page_210), [225](blt37.htm#page_225.md).
 
-Liars, [208](blt37.htm#page_208).
+Kipp, Joseph, [249](blt39.htm#page_249.md).
 
-Life among the Blackfeet, [xiii](blt03.htm#page_xiii).
+Kit-fox, [111](blt16.htm#page_111.md).
 
-Little Birds, [221](blt37.htm#page_221), [222](blt37.htm#page_222).
+Kit-fox (society), [93](blt15.htm#page_93.md).
 
-Little Blackfoot, [vii](blt02.htm#page_vii).
+Kit-foxes, [221](blt37.htm#page_221), [225](blt37.htm#page_225.md).
 
-"Little Slaves," [218](blt37.htm#page_218).
+*Ki´-yis*, [209](blt37.htm#page_209.md).
 
-Lizards, [207](blt36.htm#page_207).
+*Knats-o-mi´-ta*, [221](blt37.htm#page_221.md).
 
-Lodge for dreaming, [192](blt35.htm#page_192).
+Knives of stone, [200](blt36.htm#page_200.md).
 
-   of stone, [114](blt17.htm#page_114).
+Ko-ko-mik´-e-is, [99](blt15.htm#page_99), [258](blt40.htm#page_258.md).
 
-Lodges, ancient, [187](blt35.htm#page_187).
+Kom-in´-a-kus, [88](blt14.htm#page_88.md).
 
-   how made, [198](blt36.htm#page_198) *et seq*.
+*Ksik-si-num´*, [256](blt40.htm#page_256.md).
 
-   decoration of, [199](blt36.htm#page_199).
+*Kuk-kuiks´*, [221](blt37.htm#page_221.md).
 
-   of chiefs of the *I-kun-uh´-kah-tsi*, [224](blt37.htm#page_224).
+*Kut´-ai-ĭm-iks*, [209](blt37.htm#page_209.md).
 
-Lone Eaters, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+*Kut-ai-sot´-si-man*, [209](blt37.htm#page_209.md).
 
-   Fighters, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Kutenais, [179](blt34.htm#page_179.md).
 
-   Medicine Person, [xv](blt03.htm#page_xv).
-
-Long Tail Lodge Poles, [209](blt37.htm#page_209).
-
-Lost Children, The, [xiv](blt03.htm#page_xiv), [51](blt09.htm#page_51).
-
-Lost Woman, The, [13](blt05.htm#page_13).
-
-Low Horn, [84](blt14.htm#page_84), [86](blt14.htm#page_86).
+Kut-o´-yis, [29](blt07.htm#page_29.md) *et seq*.
 
  
 
-Mad Wolf, [vii](blt02.htm#page_vii).
+Ladles of horn, [203](blt36.htm#page_203.md).
 
-Maker, the, [138](blt22.htm#page_138).
+   of wood, [202](blt36.htm#page_202.md).
 
-Mandans, [287](blt42.htm#page_287).
+*Lari pūk´ūs*, [223](blt37.htm#page_223.md).
 
-Man-eater, [37](blt07.htm#page_37).
+Lesser Slave Lake, [177](blt34.htm#page_177.md).
 
-Many Children, [209](blt37.htm#page_209).
+*L’herbe*, [183](blt35.htm#page_183.md).
 
-   Lodge Poles, [209](blt37.htm#page_209).
+Liars, [208](blt37.htm#page_208.md).
 
-   Horses, [209](blt37.htm#page_209).
+Life among the Blackfeet, [xiii](blt03.htm#page_xiii.md).
 
-   Medicines, [208](blt37.htm#page_208), [210](blt37.htm#page_210),
-[225](blt37.htm#page_225).
+Little Birds, [221](blt37.htm#page_221), [222](blt37.htm#page_222.md).
 
-March of the camp, [186](blt35.htm#page_186).
+Little Blackfoot, [vii](blt02.htm#page_vii.md).
 
-   of war party, [251](blt39.htm#page_251).
+"Little Slaves," [218](blt37.htm#page_218.md).
 
-Marriage, girl's outfit for, [212](blt37.htm#page_212),
-[214](blt37.htm#page_214).
+Lizards, [207](blt36.htm#page_207.md).
 
-   how arranged, [211](blt37.htm#page_211).
+Lodge for dreaming, [192](blt35.htm#page_192.md).
 
-   of important people, [211](blt37.htm#page_211).
+   of stone, [114](blt17.htm#page_114.md).
 
-   poorer people, [214](blt37.htm#page_214).
+Lodges, ancient, [187](blt35.htm#page_187.md).
 
-   prerequisites for, [21](blt05.htm#page_21)I.
+   how made, [198](blt36.htm#page_198.md) *et seq*.
 
-   prohibited within gens, [211](blt37.htm#page_211).
+   decoration of, [199](blt36.htm#page_199.md).
 
-*Ma-stoh´ pah-ta-kiks*, [110](blt16.htm#page_110),
-[221](blt37.htm#page_221).
+   of chiefs of the *I-kun-uh´-kah-tsi*, [224](blt37.htm#page_224.md).
 
-Material advancement, [298](blt42.htm#page_298).
+Lone Eaters, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-*Mats*, [204](blt36.htm#page_204).
+   Fighters, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Mauls, [163](blt29.htm#page_163).
+   Medicine Person, [xv](blt03.htm#page_xv.md).
 
-   how made, [200](blt36.htm#page_200).
+Long Tail Lodge Poles, [209](blt37.htm#page_209.md).
 
-Measles, [287](blt42.htm#page_287).
+Lost Children, The, [xiv](blt03.htm#page_xiv), [51](blt09.htm#page_51.md).
 
-Medicine leggings, [167](blt31.htm#page_167).
+Lost Woman, The, [13](blt05.htm#page_13.md).
 
-Medicine Lodge, the, xiv, [190](blt35.htm#page_190) *et seq*.,
-[219](blt37.htm#page_219), [260](blt40.htm#page_260) *et seq*.,
-[263](blt40.htm#page_263) *et seq*.
+Low Horn, [84](blt14.htm#page_84), [86](blt14.htm#page_86.md).
 
-   man, [17](blt05.htm#page_17), [276](blt41.htm#page_276) *et seq*.
+ 
 
-   Pipes and Healing, [276](blt41.htm#page_276).
+Mad Wolf, [vii](blt02.htm#page_vii.md).
 
-   rock of the Marias, [262](blt40.htm#page_262).
+Maker, the, [138](blt22.htm#page_138.md).
 
-   woman, [190](blt35.htm#page_190) *et seq*.
+Mandans, [287](blt42.htm#page_287.md).
 
-Mexico, [255](blt39.htm#page_255).
+Man-eater, [37](blt07.htm#page_37.md).
 
-*Mi-ah-wah´-pit-siks*, [209](blt37.htm#page_209).
+Many Children, [209](blt37.htm#page_209.md).
 
-*Mi-aw´-kin-ai-yiks*, [209](blt37.htm#page_209).
+   Lodge Poles, [209](blt37.htm#page_209.md).
 
-Mik-a´pi, [61](blt10.htm#page_61) *et seq*.
+   Horses, [209](blt37.htm#page_209.md).
+
+   Medicines, [208](blt37.htm#page_208), [210](blt37.htm#page_210.md),
+[225](blt37.htm#page_225.md).
+
+March of the camp, [186](blt35.htm#page_186.md).
+
+   of war party, [251](blt39.htm#page_251.md).
+
+Marriage, girl's outfit for, [212](blt37.htm#page_212.md),
+[214](blt37.htm#page_214.md).
+
+   how arranged, [211](blt37.htm#page_211.md).
+
+   of important people, [211](blt37.htm#page_211.md).
+
+   poorer people, [214](blt37.htm#page_214.md).
+
+   prerequisites for, [21](blt05.htm#page_21.md)I.
+
+   prohibited within gens, [211](blt37.htm#page_211.md).
+
+*Ma-stoh´ pah-ta-kiks*, [110](blt16.htm#page_110.md),
+[221](blt37.htm#page_221.md).
+
+Material advancement, [298](blt42.htm#page_298.md).
+
+*Mats*, [204](blt36.htm#page_204.md).
+
+Mauls, [163](blt29.htm#page_163.md).
+
+   how made, [200](blt36.htm#page_200.md).
+
+Measles, [287](blt42.htm#page_287.md).
+
+Medicine leggings, [167](blt31.htm#page_167.md).
+
+Medicine Lodge, the, xiv, [190](blt35.htm#page_190.md) *et seq*.,
+[219](blt37.htm#page_219), [260](blt40.htm#page_260.md) *et seq*.,
+[263](blt40.htm#page_263.md) *et seq*.
+
+   man, [17](blt05.htm#page_17), [276](blt41.htm#page_276.md) *et seq*.
+
+   Pipes and Healing, [276](blt41.htm#page_276.md).
+
+   rock of the Marias, [262](blt40.htm#page_262.md).
+
+   woman, [190](blt35.htm#page_190.md) *et seq*.
+
+Mexico, [255](blt39.htm#page_255.md).
+
+*Mi-ah-wah´-pit-siks*, [209](blt37.htm#page_209.md).
+
+*Mi-aw´-kin-ai-yiks*, [209](blt37.htm#page_209.md).
+
+Mik-a´pi, [61](blt10.htm#page_61.md) *et seq*.
 
 Miles, General, xiv.
 
-Milk River, [21](blt05.htm#page_21), [22](blt05.htm#page_22),
-[137](blt22.htm#page_137), [263](blt40.htm#page_263).
+Milk River, [21](blt05.htm#page_21), [22](blt05.htm#page_22.md),
+[137](blt22.htm#page_137), [263](blt40.htm#page_263.md).
 
-Missouri River, [41](blt08.htm#page_41).
+Missouri River, [41](blt08.htm#page_41.md).
 
-*Mis-tai´*, [273](blt40.htm#page_273).
+*Mis-tai´*, [273](blt40.htm#page_273.md).
 
-Moccasins, [196](blt36.htm#page_196).
+Moccasins, [196](blt36.htm#page_196.md).
 
-*Mo-kŭm´-iks*, [210](blt37.htm#page_210).
+*Mo-kŭm´-iks*, [210](blt37.htm#page_210.md).
 
-Monroe, Hugh, xiv, [235](blt38.htm#page_235), [241](blt38.htm#page_241),
-[255](blt39.htm#page_255).
+Monroe, Hugh, xiv, [235](blt38.htm#page_235), [241](blt38.htm#page_241.md),
+[255](blt39.htm#page_255.md).
 
-   John, xiv, [238](blt38.htm#page_238).
+   John, xiv, [238](blt38.htm#page_238.md).
 
-Morning Star, [99](blt15.htm#page_99).
+Morning Star, [99](blt15.htm#page_99.md).
 
-Mosquitoes, [221](blt37.htm#page_221), [222](blt37.htm#page_222),
-[225](blt37.htm#page_225).
+Mosquitoes, [221](blt37.htm#page_221), [222](blt37.htm#page_222.md),
+[225](blt37.htm#page_225.md).
 
-*Mo-tah´-tos-iks*, [208](blt37.htm#page_208), [210](blt37.htm#page_210).
+*Mo-tah´-tos-iks*, [208](blt37.htm#page_208), [210](blt37.htm#page_210.md).
 
-Mother-in-law, meeting, [195](blt35.htm#page_195).
+Mother-in-law, meeting, [195](blt35.htm#page_195.md).
 
-   not to be spoken to, [195](blt35.htm#page_195).
+   not to be spoken to, [195](blt35.htm#page_195.md).
 
-*Mo-twai´-naiks*, [210](blt37.htm#page_210).
+*Mo-twai´-naiks*, [210](blt37.htm#page_210.md).
 
 <span id="page_306">p. 306</span>
 
-Mountains created, [137](blt22.htm#page_137).
+Mountains created, [137](blt22.htm#page_137.md).
 
-Mourning, [16](blt05.htm#page_16), [40](blt08.htm#page_40),
-[47](blt08.htm#page_47).
+Mourning, [16](blt05.htm#page_16), [40](blt08.htm#page_40.md),
+[47](blt08.htm#page_47.md).
 
-   chant, [194](blt35.htm#page_194).
+   chant, [194](blt35.htm#page_194.md).
 
-   for the dead, [194](blt35.htm#page_194).
+   for the dead, [194](blt35.htm#page_194.md).
 
-Muddy River, [21](blt05.htm#page_21).
+Muddy River, [21](blt05.htm#page_21.md).
 
-Murder, penalty for, [220](blt37.htm#page_220).
+Murder, penalty for, [220](blt37.htm#page_220.md).
 
-Musselshell River, [232](blt38.htm#page_232).
+Musselshell River, [232](blt38.htm#page_232.md).
 
-*Mŭt´-siks*, [111](blt16.htm#page_111), [221](blt37.htm#page_221).
-
- 
-
-*Na-ahks´*, [210](blt37.htm#page_210).
-
-*Nai-ai´*, [280](blt41.htm#page_280).
-
-Name, changing, [194](blt35.htm#page_194).
-
-   unwillingness to speak, [194](blt35.htm#page_194).
-
-*Namp´-ski*, [276](blt41.htm#page_276).
-
-*Na´-pi*, [138](blt22.htm#page_138), [256](blt40.htm#page_256) *et seq*.
-
-*Nat-ōs´*, [258](blt40.htm#page_258) *et seq*.
-
-*Nat-o´-ye,* [101](blt15.htm#page_101), [260](blt40.htm#page_260).
-
-*Na-wuh´-to-ski*, [268](blt40.htm#page_268).
-
-Necklaces, [197](blt36.htm#page_197).
-
-New Mexico, [255](blt39.htm#page_255).
-
-Night red light, [99](blt15.htm#page_99).
-
-*Ni-kis´-ta*, [210](blt37.htm#page_210).
-
-*Nimp´-sa*, [210](blt37.htm#page_210).
-
-*Ni´-nah*, [106](blt16.htm#page_106), [210](blt37.htm#page_210),
-[256](blt40.htm#page_256).
-
-*Ni-namp´-skan*, [276](blt41.htm#page_276) *et seq*.
-
-*Nin´-nah*, [276](blt41.htm#page_276).
-
-*Nin´-sta*, [210](blt37.htm#page_210).
-
-*Ni´-po-mŭk-i*, [162](blt29.htm#page_162).
-
-*Nis´-ah*, [vii](blt02.htm#page_vii), [210](blt37.htm#page_210).
-
-*Ni-sis´-ah*, [210](blt37.htm#page_210).
-
-Nis-kum´-iks, [271](blt40.htm#page_271).
-
-*Nis-kŭn´*, [210](blt37.htm#page_210).
-
-*Nis-tŭm-o´*, [210](blt37.htm#page_210).
-
-*Nis-tŭm-o´-kun*, [210](blt37.htm#page_210).
-
-*Nit´-ak-os-kit-si pup-iks*, [209](blt37.htm#page_209).
-
-*Ni-taw´-yiks*, [209](blt37.htm#page_209).
-
-*Nit´-ik-skiks*, [209](blt37.htm#page_209).
-
-*Nit-o-kē´-man*, [210](blt37.htm#page_210).
-
-*Ni-tot´-o-ke-man*, [210](blt37.htm#page_210).
-
-*Ni-tot´-si-ksis-stan-iks*, [210](blt37.htm#page_210).
-
-*Nits´-i-san*, [277](blt41.htm#page_277).
-
-*Nits-o´-kan*, [263](blt40.htm#page_263).
-
-*Ni-tun´*, [210](blt37.htm#page_210).
-
-No parfleche, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
-
-*No-ko´-i*, [210](blt37.htm#page_210).
-
-*No´-ma*, [210](blt37.htm#page_210).
-
-North Bloods, [209](blt37.htm#page_209).
-
-North, Major, [247](blt39.htm#page_247).
-
-North Saskatchewan River, [177](blt34.htm#page_177).
-
-Northwest Territories, [289](blt42.htm#page_289).
-
-Number of wives, [215](blt37.htm#page_215), [218](blt37.htm#page_218).
+*Mŭt´-siks*, [111](blt16.htm#page_111), [221](blt37.htm#page_221.md).
 
  
 
-Oath, Indian, [188](blt35.htm#page_188).
+*Na-ahks´*, [210](blt37.htm#page_210.md).
 
-Obstinate (gens), [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+*Nai-ai´*, [280](blt41.htm#page_280.md).
 
-Office not hereditary, [219](blt37.htm#page_219).
+Name, changing, [194](blt35.htm#page_194.md).
 
-Ojibwas, [xv](blt03.htm#page_xv).
+   unwillingness to speak, [194](blt35.htm#page_194.md).
 
-*Ok-wi-tok-so-ka*, [202](blt36.htm#page_202).
+*Namp´-ski*, [276](blt41.htm#page_276.md).
 
-Old Man, [135](blt22.htm#page_135) *et seq*., [256](blt40.htm#page_256).
+*Na´-pi*, [138](blt22.htm#page_138), [256](blt40.htm#page_256.md) *et seq*.
 
-   and the Lynx, [171](blt33.htm#page_171).
+*Nat-ōs´*, [258](blt40.htm#page_258.md) *et seq*.
 
-   character of, [257](blt40.htm#page_257).
+*Nat-o´-ye,* [101](blt15.htm#page_101), [260](blt40.htm#page_260.md).
 
-   disappearance of, [257](blt40.htm#page_257).
+*Na-wuh´-to-ski*, [268](blt40.htm#page_268.md).
 
-   Doctors, [159](blt29.htm#page_159).
+Necklaces, [197](blt36.htm#page_197.md).
 
-   known to other tribes, [257](blt40.htm#page_257).
+New Mexico, [255](blt39.htm#page_255.md).
 
-   makes first weapons, [140](blt22.htm#page_140).
+Night red light, [99](blt15.htm#page_99.md).
 
-   makes fire sticks, [141](blt22.htm#page_141).
+*Ni-kis´-ta*, [210](blt37.htm#page_210.md).
 
-   sleeps, hill where, [143](blt22.htm#page_143).
+*Nimp´-sa*, [210](blt37.htm#page_210.md).
 
-   Stories of, [135](blt22.htm#page_135) *et seq*.
+*Ni´-nah*, [106](blt16.htm#page_106), [210](blt37.htm#page_210.md),
+[256](blt40.htm#page_256.md).
 
-Old Man's predictions, [257](blt40.htm#page_257).
+*Ni-namp´-skan*, [276](blt41.htm#page_276.md) *et seq*.
 
-   River, [70](blt11.htm#page_70).
+*Nin´-nah*, [276](blt41.htm#page_276.md).
 
-   Sliding Ground, [143](blt22.htm#page_143).
+*Nin´-sta*, [210](blt37.htm#page_210.md).
 
-Origin of the *I-kun-uh´-kah-tsi*, [104](blt16.htm#page_104).
+*Ni´-po-mŭk-i*, [162](blt29.htm#page_162.md).
 
-   medicine pipe, [113](blt17.htm#page_113).
+*Nis´-ah*, [vii](blt02.htm#page_vii), [210](blt37.htm#page_210.md).
 
-   worm pipe, [127](blt20.htm#page_127).
+*Ni-sis´-ah*, [210](blt37.htm#page_210.md).
 
-Orpheus and Eurydice, [xv](blt03.htm#page_xv).
+Nis-kum´-iks, [271](blt40.htm#page_271.md).
 
-Other game, [240](blt38.htm#page_240).
+*Nis-kŭn´*, [210](blt37.htm#page_210.md).
 
-Owl Bear, [3](blt04.htm#page_3).
+*Nis-tŭm-o´*, [210](blt37.htm#page_210.md).
 
-Owls ghosts of medicine men, [275](blt40.htm#page_275).
+*Nis-tŭm-o´-kun*, [210](blt37.htm#page_210.md).
 
-Owner's seat in lodge, [199](blt36.htm#page_199).
+*Nit´-ak-os-kit-si pup-iks*, [209](blt37.htm#page_209.md).
+
+*Ni-taw´-yiks*, [209](blt37.htm#page_209.md).
+
+*Nit´-ik-skiks*, [209](blt37.htm#page_209.md).
+
+*Nit-o-kē´-man*, [210](blt37.htm#page_210.md).
+
+*Ni-tot´-o-ke-man*, [210](blt37.htm#page_210.md).
+
+*Ni-tot´-si-ksis-stan-iks*, [210](blt37.htm#page_210.md).
+
+*Nits´-i-san*, [277](blt41.htm#page_277.md).
+
+*Nits-o´-kan*, [263](blt40.htm#page_263.md).
+
+*Ni-tun´*, [210](blt37.htm#page_210.md).
+
+No parfleche, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
+
+*No-ko´-i*, [210](blt37.htm#page_210.md).
+
+*No´-ma*, [210](blt37.htm#page_210.md).
+
+North Bloods, [209](blt37.htm#page_209.md).
+
+North, Major, [247](blt39.htm#page_247.md).
+
+North Saskatchewan River, [177](blt34.htm#page_177.md).
+
+Northwest Territories, [289](blt42.htm#page_289.md).
+
+Number of wives, [215](blt37.htm#page_215), [218](blt37.htm#page_218.md).
 
  
 
-Paints, [203](blt36.htm#page_203).
+Oath, Indian, [188](blt35.htm#page_188.md).
 
-Parfieche soles of moccasins, [196](blt36.htm#page_196).
+Obstinate (gens), [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Past and the Present, The, [177](blt34.htm#page_177).
+Office not hereditary, [219](blt37.htm#page_219.md).
 
-Pawnee coups, [247](blt39.htm#page_247) *et seq*.
+Ojibwas, [xv](blt03.htm#page_xv.md).
 
-   Hero Stories and Folk Tales, [xi](blt03.htm#page_xi),
-[81](blt13.htm#page_81), [234](blt38.htm#page_234).
+*Ok-wi-tok-so-ka*, [202](blt36.htm#page_202.md).
 
-Pawnees, [245](blt39.htm#page_245), [247](blt39.htm#page_247) *et seq*.
+Old Man, [135](blt22.htm#page_135) *et seq*., [256](blt40.htm#page_256.md).
 
-Peace with Gros Ventres broken, [244](blt39.htm#page_244).
+   and the Lynx, [171](blt33.htm#page_171.md).
 
-   the Snakes, The, [3](blt04.htm#page_3).
+   character of, [257](blt40.htm#page_257.md).
 
-Pemmican, [206](blt36.htm#page_206), [207](blt36.htm#page_207).
+   disappearance of, [257](blt40.htm#page_257.md).
 
-Penalty for adultery, [220](blt37.htm#page_220).
+   Doctors, [159](blt29.htm#page_159.md).
 
-for cowardice, [220](blt37.htm#page_220).
+   known to other tribes, [257](blt40.htm#page_257.md).
 
-   for murder, [220](blt37.htm#page_220).
+   makes first weapons, [140](blt22.htm#page_140.md).
 
-   for theft, [220](blt37.htm#page_220).
+   makes fire sticks, [141](blt22.htm#page_141.md).
 
-   for treachery, [220](blt37.htm#page_220).
+   sleeps, hill where, [143](blt22.htm#page_143.md).
 
-Penances, [259](blt40.htm#page_259),
+   Stories of, [135](blt22.htm#page_135.md) *et seq*.
 
-Pend d’Oreille, [63](blt10.htm#page_63).
+Old Man's predictions, [257](blt40.htm#page_257.md).
 
-People created, [138](blt22.htm#page_138) *et seq*.
+   River, [70](blt11.htm#page_70.md).
 
-*Phrynosoma*, [276](blt41.htm#page_276).
+   Sliding Ground, [143](blt22.htm#page_143.md).
 
-Physical characteristics, [197](blt36.htm#page_197).
+Origin of the *I-kun-uh´-kah-tsi*, [104](blt16.htm#page_104.md).
 
-Pictographs of *coups*, [249](blt39.htm#page_249).
+   medicine pipe, [113](blt17.htm#page_113.md).
+
+   worm pipe, [127](blt20.htm#page_127.md).
+
+Orpheus and Eurydice, [xv](blt03.htm#page_xv.md).
+
+Other game, [240](blt38.htm#page_240.md).
+
+Owl Bear, [3](blt04.htm#page_3.md).
+
+Owls ghosts of medicine men, [275](blt40.htm#page_275.md).
+
+Owner's seat in lodge, [199](blt36.htm#page_199.md).
+
+ 
+
+Paints, [203](blt36.htm#page_203.md).
+
+Parfieche soles of moccasins, [196](blt36.htm#page_196.md).
+
+Past and the Present, The, [177](blt34.htm#page_177.md).
+
+Pawnee coups, [247](blt39.htm#page_247.md) *et seq*.
+
+   Hero Stories and Folk Tales, [xi](blt03.htm#page_xi.md),
+[81](blt13.htm#page_81), [234](blt38.htm#page_234.md).
+
+Pawnees, [245](blt39.htm#page_245), [247](blt39.htm#page_247.md) *et seq*.
+
+Peace with Gros Ventres broken, [244](blt39.htm#page_244.md).
+
+   the Snakes, The, [3](blt04.htm#page_3.md).
+
+Pemmican, [206](blt36.htm#page_206), [207](blt36.htm#page_207.md).
+
+Penalty for adultery, [220](blt37.htm#page_220.md).
+
+for cowardice, [220](blt37.htm#page_220.md).
+
+   for murder, [220](blt37.htm#page_220.md).
+
+   for theft, [220](blt37.htm#page_220.md).
+
+   for treachery, [220](blt37.htm#page_220.md).
+
+Penances, [259](blt40.htm#page_259.md),
+
+Pend d’Oreille, [63](blt10.htm#page_63.md).
+
+People created, [138](blt22.htm#page_138.md) *et seq*.
+
+*Phrynosoma*, [276](blt41.htm#page_276.md).
+
+Physical characteristics, [197](blt36.htm#page_197.md).
+
+Pictographs of *coups*, [249](blt39.htm#page_249.md).
 
 <span id="page_307">p. 307</span>
 
-Piegans, [3](blt04.htm#page_3) *et seq*., [209](blt37.htm#page_209).
+Piegans, [3](blt04.htm#page_3) *et seq*., [209](blt37.htm#page_209.md).
 
-Pi-kŭn´i, [vii](blt02.htm#page_vii), [xiii](blt03.htm#page_xiii),
-[61](blt10.htm#page_61), [68](blt10.htm#page_68),
-[177](blt34.htm#page_177), [209](blt37.htm#page_209),
-[225](blt37.htm#page_225).
+Pi-kŭn´i, [vii](blt02.htm#page_vii), [xiii](blt03.htm#page_xiii.md),
+[61](blt10.htm#page_61), [68](blt10.htm#page_68.md),
+[177](blt34.htm#page_177), [209](blt37.htm#page_209.md),
+[225](blt37.htm#page_225.md).
 
 *Pi-nŭt-u´-ye is-tsim´-o-kan*, vii.
 
-Pipe dance, medicine, [278](blt41.htm#page_278) *et seq*.
+Pipe dance, medicine, [278](blt41.htm#page_278.md) *et seq*.
 
-   of the Soldier Society, [223](blt37.htm#page_223).
+   of the Soldier Society, [223](blt37.htm#page_223.md).
 
-   stems, [276](blt41.htm#page_276) *et seq*.
+   stems, [276](blt41.htm#page_276.md) *et seq*.
 
-Pipes, material of, [188](blt35.htm#page_188).
+Pipes, material of, [188](blt35.htm#page_188.md).
 
-Pis´kun, [32](blt07.htm#page_32) *et seq*., [57](blt09.htm#page_57),
-[228](blt38.htm#page_228) *et seq*.
+Pis´kun, [32](blt07.htm#page_32) *et seq*., [57](blt09.htm#page_57.md),
+[228](blt38.htm#page_228.md) *et seq*.
 
-   etymology of, [228](blt38.htm#page_228).
+   etymology of, [228](blt38.htm#page_228.md).
 
-   bringing buffalo to, [229](blt38.htm#page_229).
+   bringing buffalo to, [229](blt38.htm#page_229.md).
 
-   how constructed, [229](blt38.htm#page_229).
+   how constructed, [229](blt38.htm#page_229.md).
 
-   of the Blackfeet, [230](blt38.htm#page_230).
+   of the Blackfeet, [230](blt38.htm#page_230.md).
 
-   of the Crees, [230](blt38.htm#page_230).
+   of the Crees, [230](blt38.htm#page_230.md).
 
-   of the Sik´-si-kau, [230](blt38.htm#page_230).
+   of the Sik´-si-kau, [230](blt38.htm#page_230.md).
 
-*Pis-tsi-ko´-an*, [108](blt16.htm#page_108).
+*Pis-tsi-ko´-an*, [108](blt16.htm#page_108.md).
 
-Places chosen for dreaming, [192](blt35.htm#page_192).
+Places chosen for dreaming, [192](blt35.htm#page_192.md).
 
-Plants, medical properties of, [139](blt22.htm#page_139).
+Plants, medical properties of, [139](blt22.htm#page_139.md).
 
-Plunder from the south, [255](blt39.htm#page_255).
+Plunder from the south, [255](blt39.htm#page_255.md).
 
-*Pomme blanche*, [205](blt36.htm#page_205).
+*Pomme blanche*, [205](blt36.htm#page_205.md).
 
-Pottery, [202](blt36.htm#page_202).
+Pottery, [202](blt36.htm#page_202.md).
 
-Power, dreaming for, [191](blt35.htm#page_191).
+Power, dreaming for, [191](blt35.htm#page_191.md).
 
-   of herbs, [139](blt22.htm#page_139).
+   of herbs, [139](blt22.htm#page_139.md).
 
-   to bring on storms, [262](blt40.htm#page_262).
+   to bring on storms, [262](blt40.htm#page_262.md).
 
-Powers, animal, [260](blt40.htm#page_260).
+Powers, animal, [260](blt40.htm#page_260.md).
 
-Prayers, [263](blt40.htm#page_263).
+Prayers, [263](blt40.htm#page_263.md).
 
-   in sweat house, [282](blt41.htm#page_282).
+   in sweat house, [282](blt41.htm#page_282.md).
 
-   to the Thunder, [278](blt41.htm#page_278).
+   to the Thunder, [278](blt41.htm#page_278.md).
 
-Preparations for burial, [193](blt35.htm#page_193).
+Preparations for burial, [193](blt35.htm#page_193.md).
 
-   for dreaming, [191](blt35.htm#page_191) *et seq*.
+   for dreaming, [191](blt35.htm#page_191.md) *et seq*.
 
-   for the attack, [252](blt39.htm#page_252).
+   for the attack, [252](blt39.htm#page_252.md).
 
-   for war parties, [251](blt39.htm#page_251).
+   for war parties, [251](blt39.htm#page_251.md).
 
-Presents to husband from father-in-law, [213](blt37.htm#page_213).
+Presents to husband from father-in-law, [213](blt37.htm#page_213.md).
 
-   to the sun, [258](blt40.htm#page_258).
+   to the sun, [258](blt40.htm#page_258.md).
 
-Product of the buffalo, [227](blt38.htm#page_227).
+Product of the buffalo, [227](blt38.htm#page_227.md).
 
-Property buried with dead, [193](blt35.htm#page_193).
+Property buried with dead, [193](blt35.htm#page_193.md).
 
-   of Brave Society, [223](blt37.htm#page_223).
+   of Brave Society, [223](blt37.htm#page_223.md).
 
-   of deceased, disposition of, [218](blt37.htm#page_218).
+   of deceased, disposition of, [218](blt37.htm#page_218.md).
 
-*Psoralea esculenta*, [205](blt36.htm#page_205).
+*Psoralea esculenta*, [205](blt36.htm#page_205.md).
 
-*Puh-ksi-nah´-mah-yiks*, [208](blt37.htm#page_208).
+*Puh-ksi-nah´-mah-yiks*, [208](blt37.htm#page_208.md).
 
-*Puk´-sah-tchis*, [163](blt29.htm#page_163).
+*Puk´-sah-tchis*, [163](blt29.htm#page_163.md).
 
-Punishment for hunting alone, [220](blt37.htm#page_220).
+Punishment for hunting alone, [220](blt37.htm#page_220.md).
 
-   for infidelity, [216](blt37.htm#page_216).
+   for infidelity, [216](blt37.htm#page_216.md).
 
-   for stealing tobacco, [271](blt40.htm#page_271).
+   for stealing tobacco, [271](blt40.htm#page_271.md).
 
-Punk, [201](blt36.htm#page_201).
+Punk, [201](blt36.htm#page_201.md).
 
-*Pūn´-o-tsĭ-hyo*, [260](blt40.htm#page_260).
+*Pūn´-o-tsĭ-hyo*, [260](blt40.htm#page_260.md).
 
-Purification by smoke, [279](blt41.htm#page_279).
-
- 
-
-Quarrels between the three tribes, [208](blt37.htm#page_208).
+Purification by smoke, [279](blt41.htm#page_279.md).
 
  
 
-Rabid Wolf, [xv](blt03.htm#page_xv).
-
-   wolves, [283](blt41.htm#page_283).
-
-Rabies, cure for, [283](blt41.htm#page_283).
-
-Race, the, [155](blt26.htm#page_155).
-
-Raven Band of the *I-kŭn-uh´-kah-tsi*, [110](blt16.htm#page_110).
-
-   Bearers, [93](blt15.htm#page_93), [221](blt37.htm#page_221),
-[225](blt37.htm#page_225).
-
-   Carriers, [110](blt16.htm#page_110).
-
-Ravens, [110](blt16.htm#page_110), [114](blt17.htm#page_114).
-
-Red Deer's River, [85](blt14.htm#page_85), [143](blt22.htm#page_143).
-
-   Eagle, [xiv](blt03.htm#page_xiv).
-
-   Old Man, [61](blt10.htm#page_61) *et seq*.
-
-   River half-breeds, [232](blt38.htm#page_232).
-
-   Round Robes, [210](blt37.htm#page_210), [225](blt37.htm#page_225).
-
-Religion, [256](blt40.htm#page_256) *et seq*.
-
-River, Badger, [29](blt07.htm#page_29), [33](blt07.htm#page_33).
-
-   Belly, [71](blt11.htm#page_71).
-
-   Big, [41](blt08.htm#page_41).
-
-   Bow, [143](blt22.htm#page_143).
-
-   Elbow, [143](blt22.htm#page_143).
-
-   Elk, [4](blt04.htm#page_4).
-
-   Milk, [21](blt05.htm#page_21), [22](blt05.htm#page_22),
-[137](blt22.htm#page_137), [263](blt40.htm#page_263).
-
-   Missouri, [41](blt08.htm#page_41).
-
-   Muddy, [21](blt05.htm#page_21).
-
-   North Saskatchewan, [177](blt34.htm#page_177).
-
-   Old Man's, [70](blt11.htm#page_70).
-
-   Peace, [177](blt34.htm#page_177).
-
-   person, [64](blt10.htm#page_64).
-
-   Red Deer's, [85](blt14.htm#page_85).
-
-   Saskatchewan, [70](blt11.htm#page_70), [83](blt14.htm#page_83),
-[177](blt34.htm#page_177), [178](blt34.htm#page_178).
-
-   St. Mary's, [71](blt11.htm#page_71).
-
-   Teton, [21](blt05.htm#page_21), [137](blt22.htm#page_137).
-
-   Yellowstone, [4](blt04.htm#page_4), [177](blt34.htm#page_177),
-[178](blt34.htm#page_178).
-
-Roasting meat, [205](blt36.htm#page_205).
-
-Robes, [197](blt36.htm#page_197).
-
-Rock, The, [165](blt30.htm#page_165).
-
-Root-digger, [145](blt23.htm#page_145).
-
-Ross, Miss Cora M., [xiv](blt03.htm#page_xiv).
-
-Round, [88](blt14.htm#page_88).
-
-Running Rabbit, [xv](blt03.htm#page_xv).
-
-Russell, William, [xiv](blt03.htm#page_xiv).
+Quarrels between the three tribes, [208](blt37.htm#page_208.md).
 
  
 
-Sacks, [203](blt36.htm#page_203).
+Rabid Wolf, [xv](blt03.htm#page_xv.md).
 
-Sacred bundles, where kept, [276](blt41.htm#page_276).
+   wolves, [283](blt41.htm#page_283.md).
 
-Sacred objects, [262](blt40.htm#page_262).
+Rabies, cure for, [283](blt41.htm#page_283.md).
 
-   things connected with eagle catching, [238](blt38.htm#page_238).
+Race, the, [155](blt26.htm#page_155.md).
 
-Sacrifice, [3](blt04.htm#page_3).
+Raven Band of the *I-kŭn-uh´-kah-tsi*, [110](blt16.htm#page_110.md).
 
-Sacrifices to sun, [258](blt40.htm#page_258), [259](blt40.htm#page_259).
+   Bearers, [93](blt15.htm#page_93), [221](blt37.htm#page_221.md),
+[225](blt37.htm#page_225.md).
 
-   of war party, [251](blt39.htm#page_251).
+   Carriers, [110](blt16.htm#page_110.md).
+
+Ravens, [110](blt16.htm#page_110), [114](blt17.htm#page_114.md).
+
+Red Deer's River, [85](blt14.htm#page_85), [143](blt22.htm#page_143.md).
+
+   Eagle, [xiv](blt03.htm#page_xiv.md).
+
+   Old Man, [61](blt10.htm#page_61.md) *et seq*.
+
+   River half-breeds, [232](blt38.htm#page_232.md).
+
+   Round Robes, [210](blt37.htm#page_210), [225](blt37.htm#page_225.md).
+
+Religion, [256](blt40.htm#page_256.md) *et seq*.
+
+River, Badger, [29](blt07.htm#page_29), [33](blt07.htm#page_33.md).
+
+   Belly, [71](blt11.htm#page_71.md).
+
+   Big, [41](blt08.htm#page_41.md).
+
+   Bow, [143](blt22.htm#page_143.md).
+
+   Elbow, [143](blt22.htm#page_143.md).
+
+   Elk, [4](blt04.htm#page_4.md).
+
+   Milk, [21](blt05.htm#page_21), [22](blt05.htm#page_22.md),
+[137](blt22.htm#page_137), [263](blt40.htm#page_263.md).
+
+   Missouri, [41](blt08.htm#page_41.md).
+
+   Muddy, [21](blt05.htm#page_21.md).
+
+   North Saskatchewan, [177](blt34.htm#page_177.md).
+
+   Old Man's, [70](blt11.htm#page_70.md).
+
+   Peace, [177](blt34.htm#page_177.md).
+
+   person, [64](blt10.htm#page_64.md).
+
+   Red Deer's, [85](blt14.htm#page_85.md).
+
+   Saskatchewan, [70](blt11.htm#page_70), [83](blt14.htm#page_83.md),
+[177](blt34.htm#page_177), [178](blt34.htm#page_178.md).
+
+   St. Mary's, [71](blt11.htm#page_71.md).
+
+   Teton, [21](blt05.htm#page_21), [137](blt22.htm#page_137.md).
+
+   Yellowstone, [4](blt04.htm#page_4), [177](blt34.htm#page_177.md),
+[178](blt34.htm#page_178.md).
+
+Roasting meat, [205](blt36.htm#page_205.md).
+
+Robes, [197](blt36.htm#page_197.md).
+
+Rock, The, [165](blt30.htm#page_165.md).
+
+Root-digger, [145](blt23.htm#page_145.md).
+
+Ross, Miss Cora M., [xiv](blt03.htm#page_xiv.md).
+
+Round, [88](blt14.htm#page_88.md).
+
+Running Rabbit, [xv](blt03.htm#page_xv.md).
+
+Russell, William, [xiv](blt03.htm#page_xiv.md).
+
+ 
+
+Sacks, [203](blt36.htm#page_203.md).
+
+Sacred bundles, where kept, [276](blt41.htm#page_276.md).
+
+Sacred objects, [262](blt40.htm#page_262.md).
+
+   things connected with eagle catching, [238](blt38.htm#page_238.md).
+
+Sacrifice, [3](blt04.htm#page_3.md).
+
+Sacrifices to sun, [258](blt40.htm#page_258), [259](blt40.htm#page_259.md).
+
+   of war party, [251](blt39.htm#page_251.md).
 
 <span id="page_308">p. 308</span>
 
-*Sai´-yiks*, [208](blt37.htm#page_208).
+*Sai´-yiks*, [208](blt37.htm#page_208.md).
 
-*Sak-si-nah´-mah yiks*, [209](blt37.htm#page_209).
+*Sak-si-nah´-mah yiks*, [209](blt37.htm#page_209.md).
 
-Salt, [207](blt36.htm#page_207).
+Salt, [207](blt36.htm#page_207.md).
 
-Sand Hills, [44](blt08.htm#page_44) *et seq*., [62](blt10.htm#page_62)
-*et seq*., [94](blt15.htm#page_94) et seq., [127](blt20.htm#page_127)
-*et seq*., [132](blt21.htm#page_132).
+Sand Hills, [44](blt08.htm#page_44) *et seq*., [62](blt10.htm#page_62.md)
+*et seq*., [94](blt15.htm#page_94) et seq., [127](blt20.htm#page_127.md)
+*et seq*., [132](blt21.htm#page_132.md).
 
-Sarcees, [85](blt14.htm#page_85) *et seq*.
+Sarcees, [85](blt14.htm#page_85.md) *et seq*.
 
-Sarvis berries, [203](blt36.htm#page_203).
+Sarvis berries, [203](blt36.htm#page_203.md).
 
-   Berry Creek, [86](blt14.htm#page_86).
+   Berry Creek, [86](blt14.htm#page_86.md).
 
-Saskatchewan River, [70](blt11.htm#page_70), [83](blt14.htm#page_83),
-[177](blt34.htm#page_177), [178](blt34.htm#page_178).
+Saskatchewan River, [70](blt11.htm#page_70), [83](blt14.htm#page_83.md),
+[177](blt34.htm#page_177), [178](blt34.htm#page_178.md).
 
-Saskatoon Creek, [86](blt14.htm#page_86).
+Saskatoon Creek, [86](blt14.htm#page_86.md).
 
-Scarface, [93](blt15.htm#page_93) *et seq*.
+Scarface, [93](blt15.htm#page_93.md) *et seq*.
 
-Schultz, J. W., [xiii](blt03.htm#page_xiii), [xiv](blt03.htm#page_xiv),
-[277](blt41.htm#page_277), [279](blt41.htm#page_279),
-[284](blt41.htm#page_284).
+Schultz, J. W., [xiii](blt03.htm#page_xiii), [xiv](blt03.htm#page_xiv.md),
+[277](blt41.htm#page_277), [279](blt41.htm#page_279.md),
+[284](blt41.htm#page_284.md).
 
-Scout of war party, [251](blt39.htm#page_251).
+Scout of war party, [251](blt39.htm#page_251.md).
 
-Screech Owl, [82](blt14.htm#page_82) *et seq*.
+Screech Owl, [82](blt14.htm#page_82.md) *et seq*.
 
-Seats in lodge, [199](blt36.htm#page_199).
+Seats in lodge, [199](blt36.htm#page_199.md).
 
-Secret helper, [17](blt05.htm#page_17), [263](blt40.htm#page_263).
+Secret helper, [17](blt05.htm#page_17), [263](blt40.htm#page_263.md).
 
-Seeking the Sun's Lodge, [94](blt15.htm#page_94).
+Seeking the Sun's Lodge, [94](blt15.htm#page_94.md).
 
-Thunder's Lodge, [113](blt17.htm#page_113).
+Thunder's Lodge, [113](blt17.htm#page_113.md).
 
-Seldom Lonesome, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Seldom Lonesome, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Self-torturings in Medicine Lodge, [267](blt40.htm#page_267).
+Self-torturings in Medicine Lodge, [267](blt40.htm#page_267.md).
 
-Servants, [219](blt37.htm#page_219).
+Servants, [219](blt37.htm#page_219.md).
 
-Seven Persons, [66](blt10.htm#page_66).
+Seven Persons, [66](blt10.htm#page_66.md).
 
-Seven Persons Creek, [70](blt11.htm#page_70).
+Seven Persons Creek, [70](blt11.htm#page_70.md).
 
-Shadow, [273](blt40.htm#page_273).
+Shadow, [273](blt40.htm#page_273.md).
 
-Shelter for war party, [252](blt39.htm#page_252).
+Shelter for war party, [252](blt39.htm#page_252.md).
 
-   to sleep under, [142](blt22.htm#page_142).
+   to sleep under, [142](blt22.htm#page_142.md).
 
-*Shepherdia argentea*, [203](blt36.htm#page_203).
+*Shepherdia argentea*, [203](blt36.htm#page_203.md).
 
-Short Bows, [209](blt37.htm#page_209).
+Short Bows, [209](blt37.htm#page_209.md).
 
-Sign language, [6](blt04.htm#page_6).
+Sign language, [6](blt04.htm#page_6.md).
 
-Signs, [64](blt10.htm#page_64).
+Signs, [64](blt10.htm#page_64.md).
 
-Signs and powers of animals, [261](blt40.htm#page_261).
+Signs and powers of animals, [261](blt40.htm#page_261.md).
 
-*Sik-o-kit-sim-iks*, [209](blt37.htm#page_209).
+*Sik-o-kit-sim-iks*, [209](blt37.htm#page_209.md).
 
-*Sik-opok´-si-maiks*, [209](blt37.htm#page_209).
+*Sik-opok´-si-maiks*, [209](blt37.htm#page_209.md).
 
-Sik´-si-kau, [vii](blt02.htm#page_vii), [71](blt11.htm#page_71),
-[208](blt37.htm#page_208).
+Sik´-si-kau, [vii](blt02.htm#page_vii), [71](blt11.htm#page_71.md),
+[208](blt37.htm#page_208.md).
 
-*Siks-ah´-pun-iks*, [209](blt37.htm#page_209).
+*Siks-ah´-pun-iks*, [209](blt37.htm#page_209.md).
 
-*Siks-in´-o-kaks* (Blackfoot), [208](blt37.htm#page_208).
+*Siks-in´-o-kaks* (Blackfoot), [208](blt37.htm#page_208.md).
 
-   (Blood), [209](blt37.htm#page_209).
+   (Blood), [209](blt37.htm#page_209.md).
 
-*Sik-ut´-si-pum-aiks*, [209](blt37.htm#page_209).
+*Sik-ut´-si-pum-aiks*, [209](blt37.htm#page_209.md).
 
-*Sin´-o-pah*, [221](blt37.htm#page_221), [222](blt37.htm#page_222),
-[262](blt40.htm#page_262).
+*Sin´-o-pah*, [221](blt37.htm#page_221), [222](blt37.htm#page_222.md),
+[262](blt40.htm#page_262.md).
 
-Sioux, [287](blt42.htm#page_287).
+Sioux, [287](blt42.htm#page_287.md).
 
-"Sits beside him" woman, [215](blt37.htm#page_215),
-[217](blt37.htm#page_217).
+"Sits beside him" woman, [215](blt37.htm#page_215.md),
+[217](blt37.htm#page_217.md).
 
-Skeleton, [71](blt11.htm#page_71).
+Skeleton, [71](blt11.htm#page_71.md).
 
-Skidi tribe, [249](blt39.htm#page_249).
+Skidi tribe, [249](blt39.htm#page_249.md).
 
-Skull taken into eagle pit, [238](blt38.htm#page_238).
+Skull taken into eagle pit, [238](blt38.htm#page_238.md).
 
-Skunks, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Skunks, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Sleeping for power, [141](blt22.htm#page_141).
+Sleeping for power, [141](blt22.htm#page_141.md).
 
-Small Brittle Fat, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Small Brittle Fat, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Small Leggings, [vii](blt02.htm#page_vii).
+Small Leggings, [vii](blt02.htm#page_vii.md).
 
-   Robes, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+   Robes, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-Smallpox, [287](blt42.htm#page_287).
+Smallpox, [287](blt42.htm#page_287.md).
 
-Smell of a person, [129](blt20.htm#page_129).
+Smell of a person, [129](blt20.htm#page_129.md).
 
-Smoking, rules in, [187](blt35.htm#page_187).
+Smoking, rules in, [187](blt35.htm#page_187.md).
 
-Snakes, [207](blt36.htm#page_207).
+Snakes, [207](blt36.htm#page_207.md).
 
-Snakes (tribe), [3](blt04.htm#page_3) *et seq*.,
-[13](blt05.htm#page_13), [19](blt05.htm#page_19),
-[43](blt08.htm#page_43) *et seq*., [179](blt34.htm#page_179).
+Snakes (tribe), [3](blt04.htm#page_3.md) *et seq*.,
+[13](blt05.htm#page_13), [19](blt05.htm#page_19.md),
+[43](blt08.htm#page_43) *et seq*., [179](blt34.htm#page_179.md).
 
-   Peace with, The, [3](blt04.htm#page_3).
+   Peace with, The, [3](blt04.htm#page_3.md).
 
-Snares, [79](blt12.htm#page_79).
+Snares, [79](blt12.htm#page_79.md).
 
-Social organization, [208](blt37.htm#page_208).
+Social organization, [208](blt37.htm#page_208.md).
 
-Societies of the All Comrades, [221](blt37.htm#page_221) *et seq*.
+Societies of the All Comrades, [221](blt37.htm#page_221.md) *et seq*.
 
-Soldiers, [221](blt37.htm#page_221), [225](blt37.htm#page_225).
+Soldiers, [221](blt37.htm#page_221), [225](blt37.htm#page_225.md).
 
-Song, antelope, [280](blt41.htm#page_280).
+Song, antelope, [280](blt41.htm#page_280.md).
 
-   beaver, [121](blt18.htm#page_121).
+   beaver, [121](blt18.htm#page_121.md).
 
-   buffalo, [280](blt41.htm#page_280).
+   buffalo, [280](blt41.htm#page_280.md).
 
-   pipe, [281](blt41.htm#page_281).
+   pipe, [281](blt41.htm#page_281.md).
 
-   war party, [251](blt39.htm#page_251).
+   war party, [251](blt39.htm#page_251.md).
 
-Soul, [273](blt40.htm#page_273).
+Soul, [273](blt40.htm#page_273.md).
 
-*Spai´ yu ksah´-ku*, [255](blt39.htm#page_255).
+*Spai´ yu ksah´-ku*, [255](blt39.htm#page_255.md).
 
-Spanish lands, [255](blt39.htm#page_255).
+Spanish lands, [255](blt39.htm#page_255.md).
 
-Spear heads, [200](blt36.htm#page_200).
+Spear heads, [200](blt36.htm#page_200.md).
 
-Spears, [200](blt36.htm#page_200).
+Spears, [200](blt36.htm#page_200.md).
 
-Spoons, [202](blt36.htm#page_202).
+Spoons, [202](blt36.htm#page_202.md).
 
-Sports of children, [184](blt35.htm#page_184),
-[198](blt36.htm#page_198).
+Sports of children, [184](blt35.htm#page_184.md),
+[198](blt36.htm#page_198.md).
 
-   of adults, [183](blt35.htm#page_183) *et seq*.
+   of adults, [183](blt35.htm#page_183.md) *et seq*.
 
-Spotted Tail's camp, [248](blt39.htm#page_248).
+Spotted Tail's camp, [248](blt39.htm#page_248.md).
 
-St. Mary's River, [71](blt11.htm#page_71).
+St. Mary's River, [71](blt11.htm#page_71.md).
 
-*Sta-au´*, [273](blt40.htm#page_273).
+*Sta-au´*, [273](blt40.htm#page_273.md).
 
-Starvation winter, [289](blt42.htm#page_289) *et seq*.
+Starvation winter, [289](blt42.htm#page_289.md) *et seq*.
 
-Steell, Major, [289](blt42.htm#page_289), [293](blt42.htm#page_293).
+Steell, Major, [289](blt42.htm#page_289), [293](blt42.htm#page_293.md).
 
-Stockraising, [297](blt42.htm#page_297).
+Stockraising, [297](blt42.htm#page_297.md).
 
-Stolen by the Thunder, [113](blt17.htm#page_113).
+Stolen by the Thunder, [113](blt17.htm#page_113.md).
 
-Stone bowls, [202](blt36.htm#page_202).
+Stone bowls, [202](blt36.htm#page_202.md).
 
-   kettles, [202](blt36.htm#page_202).
+   kettles, [202](blt36.htm#page_202.md).
 
-   knives, [200](blt36.htm#page_200).
+   knives, [200](blt36.htm#page_200.md).
 
-   pointed arrows, [228](blt38.htm#page_228).
+   pointed arrows, [228](blt38.htm#page_228.md).
 
-*Ston´-i-tăpi*, [27](blt06.htm#page_27).
+*Ston´-i-tăpi*, [27](blt06.htm#page_27.md).
 
-Stories of Adventure, [1](blt04.htm#page_1).
+Stories of Adventure, [1](blt04.htm#page_1.md).
 
-   of Ancient Times, [91](blt14.htm#page_91).
+   of Ancient Times, [91](blt14.htm#page_91.md).
 
-   of Old Man, [135](blt22.htm#page_135).
+   of Old Man, [135](blt22.htm#page_135.md).
 
-Story of the Three Tribes, The, [175](blt34.htm#page_175).
+Story of the Three Tribes, The, [175](blt34.htm#page_175.md).
 
-Story-telling, [185](blt35.htm#page_185).
+Story-telling, [185](blt35.htm#page_185.md).
 
-Striped-face, [96](blt15.htm#page_96), [97](blt15.htm#page_97).
+Striped-face, [96](blt15.htm#page_96), [97](blt15.htm#page_97.md).
 
-Struck by the Thunder, [113](blt17.htm#page_113).
+Struck by the Thunder, [113](blt17.htm#page_113.md).
 
-*Stŭ´miks*, [221](blt37.htm#page_221) *et seq*.
+*Stŭ´miks*, [221](blt37.htm#page_221.md) *et seq*.
 
-Suicide among girls, [216](blt37.htm#page_216).
+Suicide among girls, [216](blt37.htm#page_216.md).
 
-Sun, [43](blt08.htm#page_43) *et seq*., [94](blt15.htm#page_94) *et
-seq*., [258](blt40.htm#page_258) *et seq*.
+Sun, [43](blt08.htm#page_43) *et seq*., [94](blt15.htm#page_94.md) *et
+seq*., [258](blt40.htm#page_258.md) *et seq*.
 
-Sun dogs, [64](blt10.htm#page_64).
+Sun dogs, [64](blt10.htm#page_64.md).
 
-Sun River, [35](blt07.htm#page_35).
+Sun River, [35](blt07.htm#page_35.md).
 
-Sun's Lodge, [168](blt31.htm#page_168), [258](blt40.htm#page_258).
+Sun's Lodge, [168](blt31.htm#page_168), [258](blt40.htm#page_258.md).
 
 <span id="page_309">p. 309</span>
 
-Sun's Lodge, seeking the, [94](blt15.htm#page_94).
+Sun's Lodge, seeking the, [94](blt15.htm#page_94.md).
 
-Surrounding buffalo, [234](blt38.htm#page_234).
+Surrounding buffalo, [234](blt38.htm#page_234.md).
 
-*Sū´ yē-stŭ´-miks*, [53](blt09.htm#page_53).
+*Sū´ yē-stŭ´-miks*, [53](blt09.htm#page_53.md).
 
-*Sū´-yē-tŭppi*, [25](blt06.htm#page_25), [192](blt35.htm#page_192).
+*Sū´-yē-tŭppi*, [25](blt06.htm#page_25), [192](blt35.htm#page_192.md).
 
-*Su yoh-pah´-wah-ku*, [85](blt14.htm#page_85).
+*Su yoh-pah´-wah-ku*, [85](blt14.htm#page_85.md).
 
-Sweat bath, [282](blt41.htm#page_282).
+Sweat bath, [282](blt41.htm#page_282.md).
 
-Sweat lodge, [26](blt06.htm#page_26).
+Sweat lodge, [26](blt06.htm#page_26.md).
 
-   houses for Medicine Lodge, [265](blt40.htm#page_265).
+   houses for Medicine Lodge, [265](blt40.htm#page_265.md).
 
-Sweet-grass, [279](blt41.htm#page_279) *et seq*.
+Sweet-grass, [279](blt41.htm#page_279.md) *et seq*.
 
-Sweet Grass Hills, [137](blt22.htm#page_137).
+Sweet Grass Hills, [137](blt22.htm#page_137.md).
 
-Swindling the Indians, [ix](blt03.htm#page_ix).
-
- 
-
-Tail-feathers-coming-in-sight-over-the-Hill, [244](blt39.htm#page_244).
-
-Tails, [221](blt37.htm#page_221).
-
-Taking horses, [253](blt39.htm#page_253).
-
-Temperament, [181](blt35.htm#page_181).
-
-Teton River, [21](blt05.htm#page_21), [137](blt22.htm#page_137).
-
-The Bad Weapons, [157](blt27.htm#page_157).
-
-   Bears, [149](blt24.htm#page_149).
-
-   Beaver Medicine, [117](blt18.htm#page_117).
-
-   Blackfoot Genesis, [137](blt22.htm#page_137).
-
-   Blackfoot in War, [242](blt39.htm#page_242).
-
-   Buffalo Rock, [125](blt19.htm#page_125).
-
-   Dog and the Stick, [145](blt23.htm#page_145).
-
-   Elk, [158](blt28.htm#page_158).
-
-   Fox, [169](blt32.htm#page_169).
-
-   Ghosts’ Buffalo, [132](blt21.htm#page_132).
-
-   Past and the Present, [177](blt34.htm#page_177).
-
-   Race, [155](blt26.htm#page_155).
-
-   Rock, [165](blt30.htm#page_165).
-
-   Theft from the Sun, [167](blt31.htm#page_167).
-
-   Wonderful Bird, ´[53](blt09.htm#page_53).
-
-Theft from the Sun, The, [167](blt31.htm#page_167).
-
-   penalty for, [220](blt37.htm#page_220).
-
-They Don't Laugh, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
-
-Things sacred to the Sun, [258](blt40.htm#page_258).
-
-Three Tribes, The Story of, [175](blt34.htm#page_175).
-
-Thunder, [113](blt17.htm#page_113) *et seq*., [259](blt40.htm#page_259).
-
-   bird, [82](blt14.htm#page_82).
-
-   described, [259](blt40.htm#page_259).
-
-   brings the rain, [116](blt17.htm#page_116),
-[277](blt41.htm#page_277).
-
-   steals women, [113](blt17.htm#page_113).
-
-Tobacco, Indians’, [268](blt40.htm#page_268).
-
-   songs, [270](blt40.htm#page_270).
-
-Tobacco thief punished, [271](blt40.htm#page_271).
-
-Tongues for Medicine Lodge, [264](blt40.htm#page_264).
-
-Touchwood Hills, [201](blt36.htm#page_201).
-
-Training of children, [188](blt35.htm#page_188).
-
-Transmigration of souls, [275](blt40.htm#page_275).
-
-Trapping wolves, [79](blt12.htm#page_79).
-
-Treachery, penalty for, [220](blt37.htm#page_220).
-
-Treatment of dead enemies, [254](blt39.htm#page_254).
-
-   of women, [216](blt37.htm#page_216).
-
-Trial by jumping, [161](blt29.htm#page_161).
-
-Trivett, Rev. S., [276](blt41.htm#page_276).
-
-*Tsin-ik-tsis´-tso-yiks*, [209](blt37.htm#page_209).
-
-*Tsĭ-stīks´*, [221](blt37.htm#page_221).
-
-*Tŭis-kis´tīks*, [221](blt37.htm#page_221).
-
-Turtles, [207](blt36.htm#page_207).
-
-Two Medicine (Lodge Creek), [vii](blt02.htm#page_vii),
-[29](blt07.htm#page_29), [33](blt07.htm#page_33).
-
-   War Trails, [82](blt14.htm#page_82).
+Swindling the Indians, [ix](blt03.htm#page_ix.md).
 
  
 
-Under Water People, [25](blt06.htm#page_25), [192](blt35.htm#page_192).
+Tail-feathers-coming-in-sight-over-the-Hill, [244](blt39.htm#page_244.md).
 
-   Persons, [259](blt40.htm#page_259).
+Tails, [221](blt37.htm#page_221.md).
 
-Uses of buffalo products, [227](blt38.htm#page_227).
+Taking horses, [253](blt39.htm#page_253.md).
+
+Temperament, [181](blt35.htm#page_181.md).
+
+Teton River, [21](blt05.htm#page_21), [137](blt22.htm#page_137.md).
+
+The Bad Weapons, [157](blt27.htm#page_157.md).
+
+   Bears, [149](blt24.htm#page_149.md).
+
+   Beaver Medicine, [117](blt18.htm#page_117.md).
+
+   Blackfoot Genesis, [137](blt22.htm#page_137.md).
+
+   Blackfoot in War, [242](blt39.htm#page_242.md).
+
+   Buffalo Rock, [125](blt19.htm#page_125.md).
+
+   Dog and the Stick, [145](blt23.htm#page_145.md).
+
+   Elk, [158](blt28.htm#page_158.md).
+
+   Fox, [169](blt32.htm#page_169.md).
+
+   Ghosts’ Buffalo, [132](blt21.htm#page_132.md).
+
+   Past and the Present, [177](blt34.htm#page_177.md).
+
+   Race, [155](blt26.htm#page_155.md).
+
+   Rock, [165](blt30.htm#page_165.md).
+
+   Theft from the Sun, [167](blt31.htm#page_167.md).
+
+   Wonderful Bird, ´[53](blt09.htm#page_53.md).
+
+Theft from the Sun, The, [167](blt31.htm#page_167.md).
+
+   penalty for, [220](blt37.htm#page_220.md).
+
+They Don't Laugh, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
+
+Things sacred to the Sun, [258](blt40.htm#page_258.md).
+
+Three Tribes, The Story of, [175](blt34.htm#page_175.md).
+
+Thunder, [113](blt17.htm#page_113) *et seq*., [259](blt40.htm#page_259.md).
+
+   bird, [82](blt14.htm#page_82.md).
+
+   described, [259](blt40.htm#page_259.md).
+
+   brings the rain, [116](blt17.htm#page_116.md),
+[277](blt41.htm#page_277.md).
+
+   steals women, [113](blt17.htm#page_113.md).
+
+Tobacco, Indians’, [268](blt40.htm#page_268.md).
+
+   songs, [270](blt40.htm#page_270.md).
+
+Tobacco thief punished, [271](blt40.htm#page_271.md).
+
+Tongues for Medicine Lodge, [264](blt40.htm#page_264.md).
+
+Touchwood Hills, [201](blt36.htm#page_201.md).
+
+Training of children, [188](blt35.htm#page_188.md).
+
+Transmigration of souls, [275](blt40.htm#page_275.md).
+
+Trapping wolves, [79](blt12.htm#page_79.md).
+
+Treachery, penalty for, [220](blt37.htm#page_220.md).
+
+Treatment of dead enemies, [254](blt39.htm#page_254.md).
+
+   of women, [216](blt37.htm#page_216.md).
+
+Trial by jumping, [161](blt29.htm#page_161.md).
+
+Trivett, Rev. S., [276](blt41.htm#page_276.md).
+
+*Tsin-ik-tsis´-tso-yiks*, [209](blt37.htm#page_209.md).
+
+*Tsĭ-stīks´*, [221](blt37.htm#page_221.md).
+
+*Tŭis-kis´tīks*, [221](blt37.htm#page_221.md).
+
+Turtles, [207](blt36.htm#page_207.md).
+
+Two Medicine (Lodge Creek), [vii](blt02.htm#page_vii.md),
+[29](blt07.htm#page_29), [33](blt07.htm#page_33.md).
+
+   War Trails, [82](blt14.htm#page_82.md).
 
  
 
-Version of the origin of death, [272](blt40.htm#page_272).
+Under Water People, [25](blt06.htm#page_25), [192](blt35.htm#page_192.md).
 
-Visitor's seat in lodge, [199](blt36.htm#page_199).
+   Persons, [259](blt40.htm#page_259.md).
+
+Uses of buffalo products, [227](blt38.htm#page_227.md).
 
  
 
-War bonnet, [82](blt14.htm#page_82).
+Version of the origin of death, [272](blt40.htm#page_272.md).
 
-   bonnet of Bulls Society, [223](blt37.htm#page_223).
+Visitor's seat in lodge, [199](blt36.htm#page_199.md).
 
-   clubs, how made, [200](blt36.htm#page_200).
+ 
 
-   head-dress, [82](blt14.htm#page_82).
+War bonnet, [82](blt14.htm#page_82.md).
 
-   journeys, duration of, [254](blt39.htm#page_254).
+   bonnet of Bulls Society, [223](blt37.htm#page_223.md).
 
-   journeys to the southwest, [255](blt39.htm#page_255).
+   clubs, how made, [200](blt36.htm#page_200.md).
 
-   lodges, [3](blt04.htm#page_3).
+   head-dress, [82](blt14.htm#page_82.md).
 
-   lodges, how built, [252](blt39.htm#page_252).
+   journeys, duration of, [254](blt39.htm#page_254.md).
 
-   systematized, [243](blt39.htm#page_243).
+   journeys to the southwest, [255](blt39.htm#page_255.md).
 
-   with the Gros Ventres, [245](blt39.htm#page_245).
+   lodges, [3](blt04.htm#page_3.md).
 
-War parties, [3](blt04.htm#page_3) *et seq*., [39](blt08.htm#page_39),
-[83](blt14.htm#page_83), [251](blt39.htm#page_251).
+   lodges, how built, [252](blt39.htm#page_252.md).
 
-Warrior's outfit, contributions to, [250](blt39.htm#page_250).
+   systematized, [243](blt39.htm#page_243.md).
 
-Whiskey trading, [288](blt42.htm#page_288).
+   with the Gros Ventres, [245](blt39.htm#page_245.md).
 
-White beaver, [119](blt18.htm#page_119).
+War parties, [3](blt04.htm#page_3) *et seq*., [39](blt08.htm#page_39.md),
+[83](blt14.htm#page_83), [251](blt39.htm#page_251.md).
 
-   Breasts, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Warrior's outfit, contributions to, [250](blt39.htm#page_250.md).
 
-   Calf, [xv](blt03.htm#page_xv), [223](blt37.htm#page_223).
+Whiskey trading, [288](blt42.htm#page_288.md).
 
-Widows, [218](blt37.htm#page_218).
+White beaver, [119](blt18.htm#page_119.md).
 
-Wife, standing of, [216](blt37.htm#page_216) *et seq*.
+   Breasts, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-   duties of first, [217](blt37.htm#page_217).
+   Calf, [xv](blt03.htm#page_xv), [223](blt37.htm#page_223.md).
 
-   The Bad, [39](blt08.htm#page_39).
+Widows, [218](blt37.htm#page_218.md).
 
-Wind Maker, [259](blt40.htm#page_259).
+Wife, standing of, [216](blt37.htm#page_216.md) *et seq*.
 
-   Sucker, [35](blt07.htm#page_35).
+   duties of first, [217](blt37.htm#page_217.md).
 
-Wolf Calf, [xv](blt03.htm#page_xv), [202](blt36.htm#page_202),
-[217](blt37.htm#page_217), [237](blt38.htm#page_237).
+   The Bad, [39](blt08.htm#page_39.md).
 
-   Tail, [xv](blt03.htm#page_xv), [24](blt06.htm#page_24) *et seq*.,
-[120](blt18.htm#page_120) *et seq*.
+Wind Maker, [259](blt40.htm#page_259.md).
 
-   Man, The, [78](blt12.htm#page_78) *et seq*.
+   Sucker, [35](blt07.htm#page_35.md).
 
-   Road, [102](blt15.htm#page_102).
+Wolf Calf, [xv](blt03.htm#page_xv), [202](blt36.htm#page_202.md),
+[217](blt37.htm#page_217), [237](blt38.htm#page_237.md).
 
-   song, [261](blt40.htm#page_261).
+   Tail, [xv](blt03.htm#page_xv), [24](blt06.htm#page_24.md) *et seq*.,
+[120](blt18.htm#page_120.md) *et seq*.
 
-Wolverine, [97](blt15.htm#page_97).
+   Man, The, [78](blt12.htm#page_78.md) *et seq*.
 
-Wolves, [240](blt38.htm#page_240).
+   Road, [102](blt15.htm#page_102.md).
+
+   song, [261](blt40.htm#page_261.md).
+
+Wolverine, [97](blt15.htm#page_97.md).
+
+Wolves, [240](blt38.htm#page_240.md).
 
 <span id="page_310">p. 310</span>
 
-Wolves, rabid, [283](blt41.htm#page_283).
+Wolves, rabid, [283](blt41.htm#page_283.md).
 
-Woman doctors, [286](blt41.htm#page_286).
+Woman doctors, [286](blt41.htm#page_286.md).
 
-Woman, standing of, [216](blt37.htm#page_216).
+Woman, standing of, [216](blt37.htm#page_216.md).
 
-   The Lost, [13](blt05.htm#page_13), [18](blt05.htm#page_18).
+   The Lost, [13](blt05.htm#page_13), [18](blt05.htm#page_18.md).
 
-Woman's dress, [196](blt36.htm#page_196).
+Woman's dress, [196](blt36.htm#page_196.md).
 
-   seat in lodge, [199](blt36.htm#page_199).
+   seat in lodge, [199](blt36.htm#page_199.md).
 
-Wonderful Bird, The, [153](blt25.htm#page_153).
+Wonderful Bird, The, [153](blt25.htm#page_153.md).
 
-Wood for bows, [199](blt36.htm#page_199).
+Wood for bows, [199](blt36.htm#page_199.md).
 
-Woods Bloods, [209](blt37.htm#page_209).
+Woods Bloods, [209](blt37.htm#page_209.md).
 
-Worm People, [209](blt37.htm#page_209), [225](blt37.htm#page_225).
+Worm People, [209](blt37.htm#page_209), [225](blt37.htm#page_225.md).
 
-   Pipe, [127](blt20.htm#page_127) *et seq*.
+   Pipe, [127](blt20.htm#page_127.md) *et seq*.
 
-Worms, [207](blt36.htm#page_207).
+Worms, [207](blt36.htm#page_207.md).
 
  
 
-Yellowstone River, [4](blt04.htm#page_4).
+Yellowstone River, [4](blt04.htm#page_4.md).
 
-Young Bear Chief, [xv](blt03.htm#page_xv), [223](blt37.htm#page_223).
+Young Bear Chief, [xv](blt03.htm#page_xv), [223](blt37.htm#page_223.md).
 
-   women's dance, [117](blt18.htm#page_117).
+   women's dance, [117](blt18.htm#page_117.md).
 
-Younger sisters potential wives, [217](blt37.htm#page_217).
+Younger sisters potential wives, [217](blt37.htm#page_217.md).
 
  

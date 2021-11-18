@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg06)  [Next](btg08) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg06)  [Next](btg08.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ his heart.
 
 ------------------------------------------------------------------------
 
-[Next: The Bodhisattvas Renunciation](btg08)
+[Next: The Bodhisattvas Renunciation](btg08.md)

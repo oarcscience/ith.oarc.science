@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Christianity](../index)
+[Sacred-Texts](../../index) [Christianity](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -25,9 +25,9 @@ CONTENTS
 |                       |                                 |
 |-----------------------|--------------------------------:|
 |                       | <span class="small">PAGE</span> |
-| [PREAMBLE](#preamble) |                               1 |
-| [THE HYMN](#hymn)     |                              21 |
-| [COMMENTS](#comments) |                              31 |
+| [PREAMBLE](#preamble.md) |                               1 |
+| [THE HYMN](#hymn.md)     |                              21 |
+| [COMMENTS](#comments.md) |                              31 |
 
 ------------------------------------------------------------------------
 
@@ -517,15 +517,15 @@ hands, with Him in the midst, He said:
    \[Or, if we adopt the "emended" text: For what we give thanks, I
 say:\]
 
-   [I would be saved; and I would save.](#save)
+   [I would be saved; and I would save.](#save.md)
 
    Amen!
 
-   [I would be loosed; and I would loose.](#loose)
+   [I would be loosed; and I would loose.](#loose.md)
 
    Amen!
 
-   [I would be wounded; and I would wound.](#wound)
+   [I would be wounded; and I would wound.](#wound.md)
 
    \[Or, I would be pierced; and I would pierce.
 
@@ -536,40 +536,40 @@ say:\]
 
    Amen!
 
-   [I would be begotten; and I would beget.](#beget)
+   [I would be begotten; and I would beget.](#beget.md)
 
    Amen!
 
-   [I would eat; and I would be eaten.](#eat)
+   [I would eat; and I would be eaten.](#eat.md)
 
    Amen!
 
-   [I would hear; and I would be heard.](#hear)
+   [I would hear; and I would be heard.](#hear.md)
 
    Amen!
 
    [\[I would understand; and\] I would be understood; being all
-Understanding (*Nous*).](#understand)
+Understanding (*Nous*).](#understand.md)
 
    \[The first cause I have supplied; the last is probably a gloss.\]
 
 <span id="p. 24">{p. 24}</span>
 
-   [I would be washed; and I would wash.](#wash)
+   [I would be washed; and I would wash.](#wash.md)
 
    Amen!
 
-   [(Grace leadeth the dance.)](#grace)
+   [(Grace leadeth the dance.)](#grace.md)
 
-   [I would pipe; dance ye all.](#pipe)
-
-   Amen!
-
-   [I would play a dirge; lament ye all.](#dirge)
+   [I would pipe; dance ye all.](#pipe.md)
 
    Amen!
 
-   [The one Eight (Ogdoad) sounds (or plays) with us.](#eight)
+   [I would play a dirge; lament ye all.](#dirge.md)
+
+   Amen!
+
+   [The one Eight (Ogdoad) sounds (or plays) with us.](#eight.md)
 
    Amen!
 
@@ -579,31 +579,31 @@ Understanding (*Nous*).](#understand)
 
 <span id="p. 25">{p. 25}</span>
 
-   [All whose nature is to dance \[doth dance\].](#nature)
+   [All whose nature is to dance \[doth dance\].](#nature.md)
 
    Amen!
 
-   [Who danceth not, knows not what is being done.](#dance%20not)
+   [Who danceth not, knows not what is being done.](#dance%20not.md)
 
    Amen!
 
-   [I would flee; and I would stay.](#flee)
+   [I would flee; and I would stay.](#flee.md)
 
    Amen!
 
-   [I would be adorned; and I would adorn.](#adorn)
+   [I would be adorned; and I would adorn.](#adorn.md)
 
    \[The clauses are reversed in the text.\]
 
    Amen!
 
-   [I would be at-oned; and I would at-one.](#at-one)
+   [I would be at-oned; and I would at-one.](#at-one.md)
 
    Amen!
 
 <span id="p. 26">{p. 26}</span>
 
-   [I have no dwelling; and I have dwellings.](#dwelling)
+   [I have no dwelling; and I have dwellings.](#dwelling.md)
 
    Amen!
 
@@ -619,7 +619,7 @@ Understanding (*Nous*).](#understand)
 
    Amen!
 
-   [I am a mirror to thee who understandest Me.](#mirror)
+   [I am a mirror to thee who understandest Me.](#mirror.md)
 
    Amen!
 
@@ -633,7 +633,7 @@ Understanding (*Nous*).](#understand)
 
    Amen!
 
-   [Now answer to My dancing!](#answer)
+   [Now answer to My dancing!](#answer.md)
 
    See thyself in Me who speak;  
    And seeing what I do,  
@@ -658,23 +658,23 @@ Father.\]
    But wast moved wholly,  
    Moved to be wise.  
 
-   [Thou hast Me for a couch; rest thou upon Me.](#couch)
+   [Thou hast Me for a couch; rest thou upon Me.](#couch.md)
 
-   [Who I am thou shalt know when I depart.](#depart)  
+   [Who I am thou shalt know when I depart.](#depart.md)  
    What now I am seen to be, that I am not.  
    \[But what I am\] thou shalt see when thou comest.
 
-   [If thou hadst known how to suffer,](#suffer)  
+   [If thou hadst known how to suffer,](#suffer.md)  
    Thou wouldst have power not to suffer.  
    Know \[then\] how to suffer, and thou hast power not to suffer.
 
-   [That which thou knowest not, I Myself will teach thee.](#teach)
+   [That which thou knowest not, I Myself will teach thee.](#teach.md)
 
-   [I am thy God, not the Betrayer's](#betrayer)
+   [I am thy God, not the Betrayer's](#betrayer.md)
 
 <span id="p. 29">{p. 29}</span>
 
-   [I would be kept in time with holy souls.](#in%20time)
+   [I would be kept in time with holy souls.](#in%20time.md)
 
    In Me know thou the Word of Wisdom.
 
@@ -682,7 +682,7 @@ Father.\]
 
    Say thou to Me again:
 
-   [Glory to Thee, Father!](#father)  
+   [Glory to Thee, Father!](#father.md)  
    Glory to Thee, Word!  
    Glory to TheSe, Holy Spirit!
 
@@ -1809,4 +1809,4 @@ kind preserved to us.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)
+[Return to top](#top.md)

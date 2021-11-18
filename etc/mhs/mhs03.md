@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs02)  [Next](mhs04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs02)  [Next](mhs04.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ Happy art thou, as if every day thou hadst picked up a horse-shoe.
 
 ------------------------------------------------------------------------
 
-[Next: 1. History Of The Horse-shoe](mhs04)
+[Next: 1. History Of The Horse-shoe](mhs04.md)

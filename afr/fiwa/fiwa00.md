@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Next](fiwa01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Next](fiwa01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ published in 1904 by Charles Scribners Son
 
 ------------------------------------------------------------------------
 
-[Next: Preface](fiwa01)
+[Next: Preface](fiwa01.md)

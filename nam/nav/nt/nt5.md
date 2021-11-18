@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index) [Index](index) [Previous](nt4) [Next](nt6)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index) [Index](index) [Previous](nt4) [Next](nt6.md)
 
 ------------------------------------------------------------------------
 
@@ -168,7 +168,7 @@ hunt. We are afraid about these things because they are pets of
 
 ------------------------------------------------------------------------
 
-[Next](nt6)
+[Next](nt6.md)
 
  
 

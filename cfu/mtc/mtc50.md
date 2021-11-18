@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc49)  [Next](mtc51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc49)  [Next](mtc51.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -35,6 +35,6 @@ Nor any knows, save the bright watching moon.
 
 ------------------------------------------------------------------------
 
-[Next: The Grand Houses at Lo-Yang](mtc51)
+[Next: The Grand Houses at Lo-Yang](mtc51.md)
 
 </div>

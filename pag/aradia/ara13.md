@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara12)  [Next](ara14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara12)  [Next](ara14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ obeying the *Vangelo*, the Gospel of (the
 Now the young lady being persuaded, was converted to the worship of
 *Diana* and the Moon, and having prayed with all her heart for a lover
 (having learned the conjuration to the goddess), <span
-id="fr_21"></span>[1](#fn_21) was soon rewarded by the attention and
+id="fr_21"></span>[1](#fn_21.md) was soon rewarded by the attention and
 devotion of a brave and wealthy cavalier, who was indeed as admirable a
 suitor as any one could desire. But the mother, who was far more bent on
 gratifying vindictiveness and cruel vanity than on her daughter's
@@ -221,9 +221,9 @@ worshippers of dolls, as I heard a small girl define them.
 
 ### Footnotes
 
-<span id="fn_21"></span>[68:1](ara13.htm#fr_21) This incantation is
+<span id="fn_21"></span>[68:1](ara13.htm#fr_21.md) This incantation is
 given in the chapter entitled "A Spell to Win Love."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Tana, The Moon-Goddess](ara14)
+[Next: Chapter XII. Tana, The Moon-Goddess](ara14.md)

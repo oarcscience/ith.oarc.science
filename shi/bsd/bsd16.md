@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd15)  [Next](bsd17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd15)  [Next](bsd17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ Textual Heritage
 THE discipline of fortitude on the one hand, inculcating endurance
 without a groan, and the teaching of politeness on the other, requiring
 us not to mar the pleasure or serenity of another by expressions of our
-own sorrow or pain, combined to engender a [stoical](errata.htm#0) turn
+own sorrow or pain, combined to engender a [stoical](errata.htm#0.md) turn
 of mind, and eventually to confirm it into a national trait of apparent
 stoicism. I say apparent stoicism, because I do not believe that true
 stoicism can ever become the characteristic of a whole nation, and also
@@ -180,4 +180,4 @@ namely, the institutions of suicide and redress.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: The Institutions of Suicide and Redress](bsd17)
+[Next: Chapter XII: The Institutions of Suicide and Redress](bsd17.md)

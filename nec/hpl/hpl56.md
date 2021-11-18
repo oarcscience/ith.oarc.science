@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl55)  [Next](hpl57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl55)  [Next](hpl57.md) 
 
 ------------------------------------------------------------------------
 
@@ -1012,4 +1012,4 @@ sweet apples, and last year the birds nested in their gnarled boughs.
 
 ------------------------------------------------------------------------
 
-[Next: The Thing on the Doorstep (Weird Tales, 1937)](hpl57)
+[Next: The Thing on the Doorstep (Weird Tales, 1937)](hpl57.md)

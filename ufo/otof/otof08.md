@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof07)  [Next](otof09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof07)  [Next](otof09.md) 
 
 ------------------------------------------------------------------------
 
@@ -418,4 +418,4 @@ TONGUES!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. Tracks on the Desert](otof09)
+[Next: Chapter 2. Tracks on the Desert](otof09.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar128) [Next](gbar130)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar128) [Next](gbar130.md)
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ Simon answered: 'Speak, O Master, for I desire thy word.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar130)
+[Next](gbar130.md)

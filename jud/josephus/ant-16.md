@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -221,7 +221,7 @@ the preservation of justice; nor do we conceal those injunctions of ours
 by which we govern our lives, they being memorials of piety, and of a
 friendly conversation among men. And the seventh day we set apart from
 labor; it is dedicated to the learning of our customs and laws, <span
-id="EndNote Ant 16.1a"></span>[(1)](#EndNote%20Ant%2016.1b) we thinking
+id="EndNote Ant 16.1a"></span>[(1)](#EndNote%20Ant%2016.1b.md) we thinking
 it proper to reflect on them, as well as on any \[good\] thing else, in
 order to our avoiding of sin. If any one therefore examine into our
 observances, he will find they are good in themselves, and that they are
@@ -444,7 +444,7 @@ by his persuasions, that he brought his mother to court also. He also
 wrote frequently to Caesar in favor of him, and more earnestly
 recommended him to his care particularly. And when Agrippa was returning
 to Rome, after he had finished his ten years' government in Asia. <span
-id="EndNote Ant 16.2a"></span>[(2)](#EndNote%20Ant%2016.2b) Herod sailed
+id="EndNote Ant 16.2a"></span>[(2)](#EndNote%20Ant%2016.2b.md) Herod sailed
 from Judea; and when he met with him, he had none with him but
 Antipater, whom he delivered to Agrippa, that he might take him along
 with him, together with many presents, that so he might become Caesar's
@@ -479,7 +479,7 @@ best to sail to Rome, and there accuse his sons before Caesar, and not
 indulge himself in any such crime as might be heinous enough to be
 suspected of impiety. But as he was going up to Rome, it happened that
 he made such haste as to meet with Caesar at the city Aquilei <span
-id="EndNote Ant 16.3a"></span>[(3)](#EndNote%20Ant%2016.3b) so when he
+id="EndNote Ant 16.3a"></span>[(3)](#EndNote%20Ant%2016.3b.md) so when he
 came to the speech of Caesar, he asked for a time for hearing this great
 cause, wherein he thought himself very miserable, and presented his sons
 there, and accused them of their mad actions, and of their attempts
@@ -598,7 +598,7 @@ such an action as that; nay, the religion of all your subjects, and the
 piety of the whole nation, would have prohibited parricides from
 assuming the government, and from entering into that most holy temple
 which was built by thee <span
-id="EndNote Ant 16.4a"></span>[(4)](#EndNote%20Ant%2016.4b) But suppose
+id="EndNote Ant 16.4a"></span>[(4)](#EndNote%20Ant%2016.4b.md) But suppose
 we had made light of other dangers, can any murderer go off unpunished
 while Caesar is alive? We are thy sons, and not so impious or so
 thoughtless as that comes to, though perhaps more unfortunate than is
@@ -649,7 +649,7 @@ disposed to fall down to make intercession to their father, he took them
 up, and embraced them, as they were in tears, and took each of them
 distinctly in his arms, till not one of those that were present, whether
 free-man or slave, but was deeply affected with what they saw. <span
-id="EndNote Ant 16.5a"></span>[(5)](#EndNote%20Ant%2016.5b)
+id="EndNote Ant 16.5a"></span>[(5)](#EndNote%20Ant%2016.5b.md)
 
 5\. Then did they return thanks to Caesar, and went away together; and
 with them went Antipater, with an hypocritical pretense that he rejoiced
@@ -759,7 +759,7 @@ most illustrious of all his works, he erected Apollo's temple at Rhodes,
 at his own expenses, and gave them a great number of talents of silver
 for the repair of their fleet. He also built the greatest part of the
 public edifices for the inhabitants of Nicopolis, at Actium; <span
-id="EndNote Ant 16.6a"></span>[(6)](#EndNote%20Ant%2016.6b) and for the
+id="EndNote Ant 16.6a"></span>[(6)](#EndNote%20Ant%2016.6b.md) and for the
 Antiochinus, the inhabitants of the principal city of Syria, where a
 broad street cuts through the place lengthways, he built cloisters along
 it on both sides, and laid the open road with polished stone, and was of
@@ -835,7 +835,7 @@ towards us.
 thus: Since the nation of the Jews hath been found grateful to the Roman
 people, not only at this time, but in time past also, and chiefly
 Hyrcanus the high priest, under my father <span
-id="EndNote Ant 16.7a"></span>[(7)](#EndNote%20Ant%2016.7b) Caesar the
+id="EndNote Ant 16.7a"></span>[(7)](#EndNote%20Ant%2016.7b.md) Caesar the
 emperor, it seemed good to me and my counselors, according to the
 sentence and oath of the people of Rome, that the Jews have liberty to
 make use of their own customs, according to the law of their
@@ -844,7 +844,7 @@ the Almighty God; and that their sacred money be not touched, but be
 sent to Jerusalem, and that it be committed to the care of the receivers
 at Jerusalem; and that they be not obliged to go before any judge on the
 sabbath day, nor on the day of the preparation to it, after the ninth
-hour. <span id="EndNote Ant 16.8a"></span>[(8)](#EndNote%20Ant%2016.8b)
+hour. <span id="EndNote Ant 16.8a"></span>[(8)](#EndNote%20Ant%2016.8b.md)
 But if any one be caught stealing their holy books, or their sacred
 money, whether it be out of the synagogue or public school, he shall be
 deemed a sacrilegious person, and his goods shall be brought into the
@@ -914,7 +914,7 @@ supported by them, while we followed our own religion, and the worship
 we paid to God; and I frequently make mention of these decrees, in order
 to reconcile other people to us, and to take away the causes of that
 hatred which unreasonable men bear to us. As for our customs <span
-id="EndNote Ant 16.9a"></span>[(9)](#EndNote%20Ant%2016.9b) there is no
+id="EndNote Ant 16.9a"></span>[(9)](#EndNote%20Ant%2016.9b.md) there is no
 nation which always makes use of the same, and in every city almost we
 meet with them different from one another; but natural justice is most
 agreeable to the advantage of all men equally, both Greeks and
@@ -949,7 +949,7 @@ a flame that burst out upon those that went in, as the report was. So he
 was terribly aftrighted, and went out, and built a propitiatory monument
 of that fright he had been in; and this of white stone, at the mouth of
 the sepulcher, and that at great expense also. And even Nicolaus <span
-id="EndNote Ant 16.10a"></span>[(10)](#EndNote%20Ant%2016.10b) his
+id="EndNote Ant 16.10a"></span>[(10)](#EndNote%20Ant%2016.10b.md) his
 historiographer makes mention of this monument built by Herod, though he
 does not mention his going down into the sepulcher, as knowing that
 action to be of ill repute; and many other things he treats of in the
@@ -1427,7 +1427,7 @@ Sylleus, who had laid Obodas aside, and managed all by himself, denied
 that the robbers were in Arabia, and put off the payment of the money;
 about which there was a hearing before Saturninus and Volumnius, who
 were then the presidents of Syria. <span
-id="EndNote Ant 16.11a"></span>[(11)](#EndNote%20Ant%2016.11b) At last
+id="EndNote Ant 16.11a"></span>[(11)](#EndNote%20Ant%2016.11b.md) At last
 he, by their means, agreed, that within thirty days' time Herod should
 be paid his money, and that each of them should deliver up the other's
 subjects reciprocally. Now, as to Herod, there was not one of the
@@ -1499,7 +1499,7 @@ was cast into sadness and fear; and Sylleus's circumstances grieved him
 exceedingly, who was now believed by Caesar, and was present at Rome,
 nay, sometimes aspiring higher. Now it came to pass that Obodas was
 dead; and Aeneas, whose name was afterward changed to Aretas, <span
-id="EndNote Ant 16.12a"></span>[(12)](#EndNote%20Ant%2016.12b) took the
+id="EndNote Ant 16.12a"></span>[(12)](#EndNote%20Ant%2016.12b.md) took the
 government, for Sylleus endeavored by calumnies to get him turned out of
 his principality, that he might himself take it; with which design he
 gave much money to the courtiers, and promised much money to Caesar, who
@@ -1742,7 +1742,7 @@ that this was not sent immediately, nor so soon as the bond allowed, but
 that Sylleus had frequently come before Saturninus and Volumnius, the
 presidents of Syria; and that at last he had sworn at Berytus, by thy
 fortune, <span
-id="EndNote Ant 16.13a"></span>[(13)](#EndNote%20Ant%2016.13b) that he
+id="EndNote Ant 16.13a"></span>[(13)](#EndNote%20Ant%2016.13b.md) that he
 would certainly pay the money within thirty days, and deliver up the
 fugitives that were under his dominion. And that when Sylleus had
 performed nothing of this, Herod came again before the presidents; and
@@ -1813,7 +1813,7 @@ accordingly; but if they had only contrived to fly away, he would have
 him give them an admonition, and not proceed to extremity with them. He
 also advised him to get an assembly together, and to appoint some place
 near Berytus, <span
-id="EndNote Ant 16.14a"></span>[(14)](#EndNote%20Ant%2016.14b) which is
+id="EndNote Ant 16.14a"></span>[(14)](#EndNote%20Ant%2016.14b.md) which is
 a city belonging to the Romans, and to take the presidents of Syria, and
 Archelaus king of Cappadocia, and as many more as he thought to be
 illustrious for their friendship to him, and the dignities they were in,
@@ -1984,7 +1984,7 @@ their dead bodies were in the night time carried to Alexandraum, where
 their uncle by the mother's side, and the greatest part of their
 ancestors, had been deposited.
 
-8\. <span id="EndNote Ant 16.15a"></span>[(15)](#EndNote%20Ant%2016.15b)
+8\. <span id="EndNote Ant 16.15a"></span>[(15)](#EndNote%20Ant%2016.15b.md)
 And now perhaps it may not seem unreasonable to some, that such an
 inveterate hatred might increase so much \[on both sides\], as to
 proceed further, and overcome nature; but it may justly deserve
@@ -2043,19 +2043,19 @@ occasion to discourse more hereafter.
 
 ENDNOTE
 
-<span id="EndNote Ant 16.1b"></span>[(1)](#EndNote%20Ant%2016.1a) We may
+<span id="EndNote Ant 16.1b"></span>[(1)](#EndNote%20Ant%2016.1a.md) We may
 here observe the ancient practice of the Jews, of dedicating the sabbath
 day, not to idleness, but to the learning their sacred rites and
 religious customs, and to the meditation on the law of Moses; the like
 to which we meet with elsewhere in Josephus also against Apion, B. I.
 sect. 22.
 
-<span id="EndNote Ant 16.2b"></span>[(2)](#EndNote%20Ant%2016.2a) This
+<span id="EndNote Ant 16.2b"></span>[(2)](#EndNote%20Ant%2016.2a.md) This
 interval of ten years for the duration of Marcus Agrippa's government in
 Asia seems to be true, and agreeable to the Roman history. See Usher's
 Annals at A.M. 3392.
 
-<span id="EndNote Ant 16.3b"></span>[(3)](#EndNote%20Ant%2016.3a)
+<span id="EndNote Ant 16.3b"></span>[(3)](#EndNote%20Ant%2016.3a.md)
 Although Herod met Augustus at Aquilei, yet was this accusation of his
 sons deferred till they came to Rome, as sect. 3 assures us, and as we
 are particularly informed in the History of the War, B. I. ch. 23. sect.
@@ -2066,7 +2066,7 @@ Zonaras also; nor is there reason to doubt but they were both at this
 solemn hearing by Augustus, although the defense was made by Alexander
 alone, who was the eldest brother, and one that could speak very well.
 
-<span id="EndNote Ant 16.4b"></span>[(4)](#EndNote%20Ant%2016.4a) Since
+<span id="EndNote Ant 16.4b"></span>[(4)](#EndNote%20Ant%2016.4a.md) Since
 some prejudiced men have indulged a wild suspicion, as we have supposed
 already, Antiq. B. XV. ch. 11. sect. 7, that Josephus's history of
 Herod's rebuilding the temple is no better than a fable, it may not be
@@ -2075,7 +2075,7 @@ Alexander before his father Herod, in his and his brother's vindication,
 which mentions the temple as known by every body to have been built by
 Herod.
 
-<span id="EndNote Ant 16.5b"></span>[(5)](#EndNote%20Ant%2016.5a) See
+<span id="EndNote Ant 16.5b"></span>[(5)](#EndNote%20Ant%2016.5a.md) See
 John 2:20. See also another speech of Herod's own to the young men that
 pulled down his golden eagle from the front of the temple, where he
 takes notice how the building of the temple cost him a vast sum; and
@@ -2083,24 +2083,24 @@ that the Asamoneans, in those one hundred and twenty-five years they
 held the government, were not able to perform so great a work, to the
 honor of God, as this was, Antiq. B. XVII. ch. 6. sect. 3.
 
-<span id="EndNote Ant 16.6b"></span>[(6)](#EndNote%20Ant%2016.6a) Dr.
+<span id="EndNote Ant 16.6b"></span>[(6)](#EndNote%20Ant%2016.6a.md) Dr.
 Hudson here gives us the words of Suetonius concerning this Nicopolis,
 when Augustus rebuilt it: "And that the memory of the victory at Actium
 might be celebrated the more afterward, he built Nicopolis at Actium,
 and appointed public shows to be there exhibited every fifth year." In
 August, sect. 18.
 
-<span id="EndNote Ant 16.7b"></span>[(7)](#EndNote%20Ant%2016.7a)
+<span id="EndNote Ant 16.7b"></span>[(7)](#EndNote%20Ant%2016.7a.md)
 Augustus here calls Julius Caesar his father, though by birth he was
 only his uncle, on account of his adoption by him. See the same Antiq.
 B. XIV. ch. 14. sect. 4.
 
-<span id="EndNote Ant 16.8b"></span>[(8)](#EndNote%20Ant%2016.8a) This
+<span id="EndNote Ant 16.8b"></span>[(8)](#EndNote%20Ant%2016.8a.md) This
 is authentic evidence that the Jews, in the days of Augustus, began to
 prepare for the celebration of the sabbath at the ninth hour on Friday,
 as the tradition of the elders did, it seems, then require of them.
 
-<span id="EndNote Ant 16.9b"></span>[(9)](#EndNote%20Ant%2016.9a) The
+<span id="EndNote Ant 16.9b"></span>[(9)](#EndNote%20Ant%2016.9a.md) The
 remaining part of this chapter is remarkable, as justly distinguishing
 natural justice, religion, and morality, from positive institutions in
 all countries, and evidently preferring the former before the latter, as
@@ -2110,7 +2110,7 @@ Christianity than were the Scribes and Pharisees of his age; who, as we
 know from the New Testament, were entirely of a different opinion and
 practice.
 
-<span id="EndNote Ant 16.10b"></span>[(10)](#EndNote%20Ant%2016.10a) It
+<span id="EndNote Ant 16.10b"></span>[(10)](#EndNote%20Ant%2016.10a.md) It
 is here worth our observation, how careful Josephus was as to the
 discovery of truth in Herod's history, since he would not follow
 Nicolaus of Damascus himself, so great an historian, where there was
@@ -2120,25 +2120,25 @@ has given more demonstrations than almost any historian whomsoever; but
 as to Herod's taking great wealth out of David's sepulcher, though I
 cannot prove it, yet do I strongly suspect it from this very history.
 
-<span id="EndNote Ant 16.11b"></span>[(11)](#EndNote%20Ant%2016.11a)
+<span id="EndNote Ant 16.11b"></span>[(11)](#EndNote%20Ant%2016.11a.md)
 These joint presidents of Syria, Saturninus and Volumnius, were not
 perhaps of equal authority, but the latter like a procurator under the
 former, as the very learned Noris and Pagi, and with them Dr. Hudson,
 determine.
 
-<span id="EndNote Ant 16.12b"></span>[(12)](#EndNote%20Ant%2016.12a)
+<span id="EndNote Ant 16.12b"></span>[(12)](#EndNote%20Ant%2016.12a.md)
 This Aretas was now become so established a name for the kings of
 Arabia, \[at Petra and Damascus,\] that when the crown came to this
 Aeneas, he changed his name to Aretas, as Havercamp here justly
 observes. See Antiq. B. XIII. ch. 15. sect, 2.
 
-<span id="EndNote Ant 16.13b"></span>[(13)](#EndNote%20Ant%2016.13a)
+<span id="EndNote Ant 16.13b"></span>[(13)](#EndNote%20Ant%2016.13a.md)
 This oath, by the fortune of Caesar, was put to Polycarp, a bishop of
 Smyrna, by the Roman governor, to try whether he were a Christian, as
 they were then esteemed who refused to swear that oath. Martyr.
 Polycarp, sect. 9.
 
-<span id="EndNote Ant 16.14b"></span>[(14)](#EndNote%20Ant%2016.14a)
+<span id="EndNote Ant 16.14b"></span>[(14)](#EndNote%20Ant%2016.14a.md)
 What Josephus relates Augustus to have here said, that Berytus was a
 city belonging to the Romans, is confirmed by Spanheim's notes here: "It
 was," says he, "a colony placed there by Augustus. Whence Ulpian, De
@@ -2147,10 +2147,10 @@ benefits of Caesar; and thence it is that, among the coins of Augustus,
 we meet with some having this inscription: The happy colony of Augustus
 at Berytua"
 
-<span id="EndNote Ant 16.15b"></span>[(15)](#EndNote%20Ant%2016.15a) The
+<span id="EndNote Ant 16.15b"></span>[(15)](#EndNote%20Ant%2016.15a.md) The
 reader is here to note, that this eighth section is entirely wanting in
 the old Latin version, as Spanheim truly observes; nor is there any
 other reason for it, I suppose, than the great difficulty of an exact
 translation.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

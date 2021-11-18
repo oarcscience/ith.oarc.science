@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb07)  [Next](pifb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb07)  [Next](pifb09.md) 
 
 </div>
 
@@ -165,6 +165,6 @@ and quietness upon the mountain.
 
 ------------------------------------------------------------------------
 
-[Next: The Flying Trunk](pifb09)
+[Next: The Flying Trunk](pifb09.md)
 
 </div>

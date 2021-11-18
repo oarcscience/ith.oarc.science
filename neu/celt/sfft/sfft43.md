@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft42)  [Next](sfft44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft42)  [Next](sfft44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_138">p. 138</span>
 
-### THE LOTHIAN FARMER'S WIFE. <span id="fr_63"></span>[1](#fn_63)
+### THE LOTHIAN FARMER'S WIFE. <span id="fr_63"></span>[1](#fn_63.md)
 
 THE wife of a farmer in Lothian had been carried off by the fairies,
 and, during the year of probation, repeatedly appeared on Sunday, in the
@@ -40,9 +40,9 @@ his wife, lamenting that he had lost her for ever.
 
 ### Footnotes
 
-<span id="fn_63"></span>[138:1](sfft43.htm#fr_63) Sir Walter Scott,
+<span id="fn_63"></span>[138:1](sfft43.htm#fr_63.md) Sir Walter Scott,
 *Minstrelsy of the Scottish Border*.
 
 ------------------------------------------------------------------------
 
-[Next: Redemption From Fairy Land](sfft44)
+[Next: Redemption From Fairy Land](sfft44.md)

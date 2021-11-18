@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy07) 
-[Next](gsoy09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy07.md) 
+[Next](gsoy09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ various *chakras*. The *Gheranda Sanhitā* mentions it as one of the
 means to *samādhi*: "Let him meditate in his own heart upon the proper
 form of his desired deity; let him meditate with the *bhakti-yoga*, full
 of the greatest gladness; let him shed tears of happiness." <span
-id="fr_73"></span>[1](#fn_73)
+id="fr_73"></span>[1](#fn_73.md)
 
 The flow of unrestrained feeling, even if it means
 
@@ -394,9 +394,9 @@ latter method, repetition, we have the mantric effect.
 
 ### Footnotes
 
-<span id="fn_73"></span>[113:1](gsoy08.htm#fr_73) *Gheranda Sanhitā* vii
+<span id="fn_73"></span>[113:1](gsoy08.htm#fr_73.md) *Gheranda Sanhitā* vii
 14-15.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven. The Occult Path of Buddha](gsoy09)
+[Next: Chapter Seven. The Occult Path of Buddha](gsoy09.md)

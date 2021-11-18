@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob43) 
-[Next](tob45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob43.md) 
+[Next](tob45.md) 
 
 ------------------------------------------------------------------------
 
@@ -545,8 +545,8 @@ connection between the planets and these different signs is indicated
 upon the tableau which follows.
 
 This tableau enables us to comprehend all the work that Christian <span
-id="fr_80"></span>[1](#fn_80) and Ely Star <span
-id="fr_81"></span>[2](#fn_81) accomplished upon Astrology. Moreover it
+id="fr_80"></span>[1](#fn_80.md) and Ely Star <span
+id="fr_81"></span>[2](#fn_81.md) accomplished upon Astrology. Moreover it
 indicates the astronomical correspondence of
 
 <span id="page_239">p. 239</span>
@@ -701,7 +701,7 @@ principles for the Initiate.
 
 The arcana corresponding to the twenty-two letters of the Hebrew
 alphabet must have been arranged upon the, walls of the secret crypts in
-the temples of Osiris in the following order. (See [p. 243](#page_243).)
+the temples of Osiris in the following order. (See [p. 243](#page_243)..md)
 
 This opinion is confirmed by the correspondence which exists between the
 arcana when they are thus arranged.
@@ -826,7 +826,7 @@ Tarot does not form a purely arbitrary system.
 It will, in fact, be easily seen that connection in their opposition
 links the arcana when they are grouped in four quaternaries of different
 formation from the four first, which we have already examined. (See [p.
-247](#page_247).)
+247](#page_247)..md)
 
 The analogy of these significations is particularly striking between the
 arcana 7 and 16, 10 and 13, which yet present an antagonistic meaning,
@@ -999,7 +999,7 @@ ACCORDING TO THE DATA OF THE PRECEDING TABLEAU,
 BY OSWALD WIRTH.
 
 <span id="img_25000"></span> [![](tn/25000.jpg)  
-Click to enlarge](img/25000.jpg)
+Click to enlarge](img/25000.jpg.md)
 
  
 
@@ -1008,7 +1008,7 @@ Click to enlarge](img/25000.jpg)
  
 
 <span id="img_25100"></span> [![](tn/25100.jpg)  
-Click to enlarge](img/25100.jpg)
+Click to enlarge](img/25100.jpg.md)
 
 PENTACLE OF OSWALD WIRTH.  
 Signs of the Zodiac and Circumpolar Constellations.  
@@ -1019,7 +1019,7 @@ Affinities with the Tarot.
 <span id="page_242">p. 242</span>
 
 <span id="img_25200"></span> [![](tn/25200.jpg)  
-Click to enlarge](img/25200.jpg)
+Click to enlarge](img/25200.jpg.md)
 
  
 
@@ -1027,15 +1027,15 @@ Click to enlarge](img/25200.jpg)
 
 ### Footnotes
 
-<span id="fn_79"></span>[235:1](tob44.htm#fr_79) Thus the Tarot places
+<span id="fn_79"></span>[235:1](tob44.htm#fr_79.md) Thus the Tarot places
 one *epagomene*, or complementary day, after each season.
 
-<span id="fn_80"></span>[238:1](tob44.htm#fr_80) Christian, *Histoire de
+<span id="fn_80"></span>[238:1](tob44.htm#fr_80.md) Christian, *Histoire de
 la Magie*, Paris, 1854. 8vo.
 
-<span id="fn_81"></span>[238:2](tob44.htm#fr_81) Ely Star, *Les Mystères
+<span id="fn_81"></span>[238:2](tob44.htm#fr_81.md) Ely Star, *Les Mystères
 de l'Horoscope*, Paris, Dentu, 1888. 18mo. (3 fr. 50.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. The Initiative Tarot](tob45)
+[Next: Chapter XVII. The Initiative Tarot](tob45.md)

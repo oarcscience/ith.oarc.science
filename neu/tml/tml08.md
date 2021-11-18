@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml07)  [Next](tml09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml07)  [Next](tml09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -153,7 +153,7 @@ follow evil, even although it is accomplished for the sake of good.
 <span id="img_02400"></span> <span align="CENTER"> [![THOR AND THE
 GIANTS&lt;br&gt; &lt;i&gt;From the painting by M. E.
 Winge&lt;/i&gt;](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 THOR AND THE GIANTS  
 *From the painting by M. E. Winge*  
 </span>
@@ -279,4 +279,4 @@ who was keeper of the apples of immortal youth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. How Evil entered Asgard](tml09)
+[Next: Chapter IV. How Evil entered Asgard](tml09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo34)  [Next](hoo36) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo34)  [Next](hoo36.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Who move in rythm to the founding lyre:
 Who traces deaf when lightly leaping tread,  
 Arm bearers, strong defenders, rulers dread:  
 Propitious omens, guards of Proserpine <span
-id="fr_87"></span>[\*](#fn_87),  
+id="fr_87"></span>[\*](#fn_87.md),  
 Preserving rites, mysterious and divine  
 Come, and benevolent my words attend,  
 (In herds rejoicing), and my life defend. 10
@@ -25,9 +25,9 @@ Come, and benevolent my words attend,
 
 ### Footnotes
 
-<span id="fn_87"></span>[156:\*](hoo35.htm#fr_87) Proclus calls the
+<span id="fn_87"></span>[156:\*](hoo35.htm#fr_87.md) Proclus calls the
 Curetes, guards of Proserpine, lib. vi. Theol. Plat. p. 383.
 
 ------------------------------------------------------------------------
 
-[Next: XXXI. To Pallas](hoo36)
+[Next: XXXI. To Pallas](hoo36.md)

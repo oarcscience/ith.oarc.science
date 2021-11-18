@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg04)  [Next](btg06) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg04)  [Next](btg06.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ stepmother than she.
 
 ------------------------------------------------------------------------
 
-[Next: The Ties Of Life](btg06)
+[Next: The Ties Of Life](btg06.md)

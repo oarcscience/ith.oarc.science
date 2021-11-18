@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb76)  [Next](wfb78) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb76)  [Next](wfb78.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ bird to fly across it.
 
 ------------------------------------------------------------------------
 
-[Next: The Devil's Bridge](wfb78)
+[Next: The Devil's Bridge](wfb78.md)

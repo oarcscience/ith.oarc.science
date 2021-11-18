@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw16)  [Next](cjw18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw16)  [Next](cjw18.md) 
 
 ------------------------------------------------------------------------
 
@@ -494,4 +494,4 @@ his limitations laid aside.
 
 ------------------------------------------------------------------------
 
-[Next: Śankara's Catechism](cjw18)
+[Next: Śankara's Catechism](cjw18.md)

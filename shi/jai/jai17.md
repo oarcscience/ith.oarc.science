@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai16)  [Next](jai18) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai16)  [Next](jai18.md) 
 
 ------------------------------------------------------------------------
 
@@ -614,4 +614,4 @@ competitive selfishness, than an angel in hell.
 
 ------------------------------------------------------------------------
 
-[Next: The Shintô Revival](jai18)
+[Next: The Shintô Revival](jai18.md)

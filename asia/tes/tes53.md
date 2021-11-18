@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes52)  [Next](tes54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes52)  [Next](tes54.md) 
 
 ------------------------------------------------------------------------
 
-### 32. STORY OF THE FOREST DEMON. <span id="fr_84"></span>[2](#fn_84)
+### 32. STORY OF THE FOREST DEMON. <span id="fr_84"></span>[2](#fn_84.md)
 
 There was a forest-being, a hairy man, who lived in the woods and roamed
 about the country. He married a Russian girl and had a son by her. The
 boy grew up and in his turn married and had two children. One time he
 said to his wife, "My father calls me to his place, but I do not wish to
 go. Let us rather go away from here." He took a barrel of alcohol (a
-barrel holding three pails <span id="fr_85"></span>[3](#fn_85)), and
+barrel holding three pails <span id="fr_85"></span>[3](#fn_85).md), and
 they set off. They went throughout the day, and came to a dense forest.
 He said to his wife, "This evening my elder brother will come to fetch
 me; but I shall not go. Probably you will hear a noise and clatter in
@@ -54,14 +54,14 @@ the village of Nishne-Kolymsk, the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_84"></span>[108:2](tes53.htm#fr_84) In Russian Лѣшій which
+<span id="fn_84"></span>[108:2](tes53.htm#fr_84.md) In Russian Лѣшій which
 means also the master of the forest. Cf. Bogoras,---The
 Chukchee,--285--W. B.
 
-<span id="fn_85"></span>[108:3](tes53.htm#fr_85) A Russian "pail" is
+<span id="fn_85"></span>[108:3](tes53.htm#fr_85.md) A Russian "pail" is
 equal to 2.70 gallons. A barrel of three pails forms one side-pack of
 the usual load of the pack horse--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 33. Story of Transformed Bears](tes54)
+[Next: 33. Story of Transformed Bears](tes54.md)

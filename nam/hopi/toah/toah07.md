@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah06)  [Next](toah08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah06)  [Next](toah08.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Diablo, thought they would go out and join the Bear Clan. So they
 started out. When they did start out they stopped along the ridge below
 Ma-teuvi, which is now called Big Burro Spring. From there they sent off
 a messenger to Shung-opovi to tell the Chief that his brothers, the
-Strap Clan, would like to join him. [16](toah24.htm#xref_16)
+Strap Clan, would like to join him. [16](toah24.htm#xref_16.md)
 
 When the messenger came to the Chief of Shung-opovi and told him what
 the Strap Clan leader wished to do, he could not very well answer his
@@ -89,7 +89,7 @@ clan was received, the chief would allot them so much land. The last few
 clans to arrive were just the common class of people. They didn't have a
 high priest, or ceremonies of any kind, and they were the ones that had
 a hard time getting into the village. They were not alloted any
-land. [17](toah24.htm#xref_17) They wished to have land also, so they
+land. [17](toah24.htm#xref_17.md) They wished to have land also, so they
 asked the chief. The chief asked
 
 <span id="page_37">p. 37</span>
@@ -124,4 +124,4 @@ to this day, their lands are still on the edge of the Hopi lands.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. How the Crow Clan Arrived and Settled at
-Mishongnovi](toah08)
+Mishongnovi](toah08.md)

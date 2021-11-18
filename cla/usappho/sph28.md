@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph27)  [Next](sph29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph27)  [Next](sph29.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM27">27</span>
 
 Στᾶθι κἄντα φίλοσ,....  
-καὶ τὰν ἔπ᾽ ὄσσοισ ἀμπέτασον χάριν. [\[transcription\]](xlatall.htm#47)
+καὶ τὰν ἔπ᾽ ὄσσοισ ἀμπέτασον χάριν. [\[transcription\]](xlatall.htm#47.md)
 
 Face me, my dear one...and unveil the grace in thine eyes.
 
@@ -22,4 +22,4 @@ meant.
 
 ------------------------------------------------------------------------
 
-[Next: 28: And golden pulse grew along the shores.](sph29)
+[Next: 28: And golden pulse grew along the shores.](sph29.md)

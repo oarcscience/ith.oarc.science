@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain01)  [Next](ain03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain01)  [Next](ain03.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_portrait"></span> [![](tn/portrait.jpg)  
-Click to enlarge](img/portrait.jpg)
+Click to enlarge](img/portrait.jpg.md)
 
 COMALK-HAWKIH (THIN BUCKSKIN)
 
@@ -151,7 +151,7 @@ desert kissed our faces as we ate, and off in the back ground rose the
 stately volcanic pile of Cheoff-skaw-mack, the nearest mountain, and all
 around the horizon other bare volcanic peaks burned into the blue.
 Sometimes a whirlwind of dust travelled rapidly over the plain, making
-one ponder what would happen should it [gyrate](errata.htm#0) into the
+one ponder what would happen should it [gyrate](errata.htm#0.md) into the
 *vachtoe*.
 
 The old woman from the near-by *kee* slunk by as we ate, going to the
@@ -205,7 +205,7 @@ this entry in my journal: "Sept. 6.--We sat up till midnight in the old
 
 forks that supported the roof, the poles overhead, and weeds above that,
 the mud-plastered walls with loop-hole windows; bags, boxes, trunks,
-*ollas*, and *vahs-hrom* [granary](errata.htm#1) baskets about. Ed
+*ollas*, and *vahs-hrom* [granary](errata.htm#1.md) baskets about. Ed
 sitting on the ground, against the wall, nodding when I wrote and waking
 up to interpret; the old man bent forward, both hands out, palms upward,
 or waving in strange eloquent gestures; his lean, wrinkled features
@@ -367,7 +367,7 @@ building pueblos, growing rich, effeminate & inapt at war. At length the
 desert fugitives, also grown numerous, and warlike & fierce with the
 wild, wolf-like existence they had led, and moved by we know not what
 motives of revenge or greed, returned & swept over the land, in a sudden
-invasion, like a swarm of locusts; [ruthlessly](errata.htm#2) destroying
+invasion, like a swarm of locusts; [ruthlessly](errata.htm#2.md) destroying
 the vahahkees and all who dwelt therein; breaking even the *ma-ta-tes* &
 every utensil in their vandal fury; dividing the region thus taken among
 themselves. According to these traditions the Apaches were already
@@ -607,7 +607,7 @@ down in times of rain, are weird forests of
 
 desert growths, mesquite, cat-claw, flat-beans, screw-beans, greasewood,
 giant-cactus, cane-cactus, white-cactus, cholla-cactus, and a host of
-others, almost everything bristling with [innumerable](errata.htm#3)
+others, almost everything bristling with [innumerable](errata.htm#3.md)
 thorns.
 
 On this strange pasture of weed and thorn the Indian's ponies & his few
@@ -619,4 +619,4 @@ burning plain.
 
 ------------------------------------------------------------------------
 
-[Next: The Traditions Of The Pimas](ain03)
+[Next: The Traditions Of The Pimas](ain03.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof18)  [Next](sof20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof18)  [Next](sof20.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head17.png"></span> ![Header Chapter
-XVII.](img/head17.png)
+XVII.](img/head17.png.md)
 
 ## XVII.
 
@@ -63,6 +63,6 @@ Each of these will furnish an appropriate subject for consideration.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Rite of Discalceation](sof20)
+[Next: XVIII. The Rite of Discalceation](sof20.md)
 
 </div>

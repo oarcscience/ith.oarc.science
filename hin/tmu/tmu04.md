@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu03)  [Next](tmu05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu03)  [Next](tmu05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_13">p. 13</span>
 
-### SARVASĀRA-UPANISHAḌ <span id="fr_1"></span>[1](#fn_1)
+### SARVASĀRA-UPANISHAḌ <span id="fr_1"></span>[1](#fn_1.md)
 
 ### OF
 
@@ -55,7 +55,7 @@ fourth\]?
 
 Jāgraṭ is that \[state\] during which Āṭmā enjoys the gross objects of
 senses as sound, etc., through the 14 organs <span
-id="fr_2"></span>[2](#fn_2) as Manas, etc., having the sun and the rest
+id="fr_2"></span>[2](#fn_2.md) as Manas, etc., having the sun and the rest
 as their presiding deities.
 
 Swapna is that \[state\] during which Āṭmā experiences, through the 14
@@ -234,7 +234,7 @@ combination of both (Saṭ and Asaṭ). Her seat is indescribable. She has
 the varieties of differences as extolled by the wise. It is she that
 truly is not. Her nature is Ajñāna. She appears as Mūlaprakṛṭi,
 Guṇa-Sāmya (a state where the three Guṇas are found in
-equilibrium), <span id="fr_3"></span>[1](#fn_3) Aviḍyā (Nescience) and
+equilibrium), <span id="fr_3"></span>[1](#fn_3) Aviḍyā (Nescience.md) and
 other forms, transforming herself into the form of the universe. Thus
 does a knower of Brahman cognize her.
 
@@ -242,16 +242,16 @@ does a knower of Brahman cognize her.
 
 ### Footnotes
 
-<span id="fn_1"></span>[13:1](tmu04.htm#fr_1) This Upanishaḍ and the
+<span id="fn_1"></span>[13:1](tmu04.htm#fr_1.md) This Upanishaḍ and the
 next form a glossary of some of the terms of Veḍānṭa. 'Sarva-Sāra' is
 the all-essence or quintessence.
 
-<span id="fn_2"></span>[13:2](tmu04.htm#fr_2) They are the 5 organs of
+<span id="fn_2"></span>[13:2](tmu04.htm#fr_2.md) They are the 5 organs of
 sense, the 5 organs of action and the 4 of Anṭaḥ-karaṇa (the internal
 organ), *viz*., Manas, Buḍḍhi, China and Ahaṅkāra. Each is animated by a
 Ḍevaṭā or intelligential principle.
 
-<span id="fn_3"></span>[17:1](tmu04.htm#fr_3) This refers to that
+<span id="fn_3"></span>[17:1](tmu04.htm#fr_3.md) This refers to that
 slumbering or latent state of the universe—called also Mahā-Sushupṭi
 when the Guṇas are in equilibrium; on re-awakening into activity when
 the Guṇas are disturbed, Mūlaprakṛṭi is called by the different names of
@@ -261,6 +261,6 @@ Māyā, Aviḍyā, Ṭamas, etc.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Nirālamba-Upanishaḍ of Śukla-Yajurveḍa](tmu05)
+[Next: 3. Nirālamba-Upanishaḍ of Śukla-Yajurveḍa](tmu05.md)
 
 </div>

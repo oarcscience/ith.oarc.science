@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca02)  [Next](ntca04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca02)  [Next](ntca04.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ is by horse or camel; and right across the centre of the continent runs
 a track following closely the course of the single wire which serves to
 maintain, as yet, the only telegraphic communication between Australia
 and Europe. From Oodnadatta to Charlotte Waters stretches a long
-succession of gibber <span id="fr_0"></span>[1](#fn_0) plains, where,
+succession of gibber <span id="fr_0"></span>[1](#fn_0.md) plains, where,
 mile after mile, the ground is covered with brown and purple stones,
 often set close together as if they formed a tesselated pavement
 stretching away to the horizon. They are formed by the disintegration of
@@ -84,7 +84,7 @@ Alberga, Stevenson, and Hamilton, which run
 
 [![Fig. 1. Outline Map of the Central Area, showing the Distribution of
 the Tribes referred to](tn/ntca001.jpg)  
-Click to enlarge](img/ntca001.jpg)  
+Click to enlarge](img/ntca001.jpg.md)  
 Fig. 1. Outline Map of the Central Area, showing the Distribution of the
 Tribes referred to  
 
@@ -139,7 +139,7 @@ scrub fall on the yellow ground, which shows no sign of animal life
 except for the little ant-hills, thousands of whose occupants are
 engaged in rushing about in apparently hopeless confusion, or piling
 leaves or seeds in regular order around the entrance to their burrows. A
-“desert oak” <span id="fr_1"></span>[1](#fn_1) or an acacia-tree may now
+“desert oak” <span id="fr_1"></span>[1](#fn_1.md) or an acacia-tree may now
 and then afford a scanty shade, but for weeks together no clouds hide
 the brightness of the sun by day or of the stars by night.
 
@@ -203,7 +203,7 @@ sign of life, and the most perfect silence reigns.
 
 Such is the general nature of the great area of Steppe and desert land
 inhabited by the Central Australian natives. In times of long-continued
-drought, when food and water <span id="fr_2"></span>[1](#fn_2) are both
+drought, when food and water <span id="fr_2"></span>[1](#fn_2.md) are both
 scarce, he has to suffer privation; but under ordinary circumstances,
 except in the desert country, where it can never be very pleasant, his
 life is by no means a miserable or a very hard one. Kangaroo,
@@ -299,7 +299,7 @@ need be added here in regard to them is that groups of the same
 designation are found in many parts of the district occupied by the
 tribe. For example, there are various local groups of kangaroo people,
 and each one of these groups has its head man or, as the natives
-themselves call him, its Alatunja. <span id="fr_3"></span>[1](#fn_3)
+themselves call him, its Alatunja. <span id="fr_3"></span>[1](#fn_3.md)
 However small in numbers a local group may be it always has its
 Alatunja.
 
@@ -418,7 +418,7 @@ conservatism of the native, which may be said to be one of his
 <span id="img_ntca002"></span>
 
 [![Fig. 2. Group of Old Men at a Wurley](tn/ntca002.jpg)  
-Click to enlarge](img/ntca002.jpg)  
+Click to enlarge](img/ntca002.jpg.md)  
 Fig. 2. Group of Old Men at a Wurley  
 
 <span id="page_14">p. 14</span>
@@ -469,7 +469,7 @@ particular local groups who changed an older into the present marriage
 system, and these traditions all deal with special powerful individuals
 by whom the changes were introduced. It has been stated by writers such
 as Mr. Curr “that the power which enforces custom in our tribes is for
-the most part an impersonal one.” <span id="fr_4"></span>[1](#fn_4)
+the most part an impersonal one.” <span id="fr_4"></span>[1](#fn_4.md)
 Undoubtedly public opinion and the feeling that any violation of tribal
 custom will bring down upon the guilty person the ridicule and
 opprobrium of his fellows is a strong, indeed a very strong, influence;
@@ -484,7 +484,7 @@ case—then the same elder men make arrangements to carry the sentence
 out, and a party, which is called an “*ininja*,” is organised for the
 purpose. The offending native is perfectly well aware that he will be
 dealt with by something much more real than an “impersonal power.” <span
-id="fr_5"></span>[2](#fn_5)
+id="fr_5"></span>[2](#fn_5.md)
 
 In addition to the Alatunja, there are two other classes of men who are
 regarded as of especial importance; these are the so-called “medicine
@@ -510,7 +510,7 @@ perhaps in small parties of one or two families, often, for example, two
 or more brothers with their wives and children, over the land which they
 own, camping at favourite spots where the presence of waterholes, with
 their accompaniment of vegetable and animal food, enables them to supply
-their wants. <span id="fr_6"></span>[1](#fn_6)
+their wants. <span id="fr_6"></span>[1](#fn_6.md)
 
 In their ordinary condition the natives are almost completely naked,
 which is all the more strange as kangaroo and wallaby are not by any
@@ -525,7 +525,7 @@ great that at
 
 [![Fig. 3. Members of a Family of Arunta Natives, showing the Wurley,
 Weapons and Implements used in daily life](tn/ntca003.jpg)  
-Click to enlarge](img/ntca003.jpg)  
+Click to enlarge](img/ntca003.jpg.md)  
 Fig. 3. Members of a Family of Arunta Natives, showing the Wurley,
 Weapons and Implements used in daily life  
 
@@ -551,7 +551,7 @@ after a comparatively short time,
 <span id="img_ntca004"></span>
 
 [![Fig. 4. Spear Throwing](tn/ntca004.jpg)  
-Click to enlarge](img/ntca004.jpg)  
+Click to enlarge](img/ntca004.jpg.md)  
 Fig. 4. Spear Throwing  
 
 all that can be done is to gather the few remnants of the tribe into
@@ -562,7 +562,7 @@ If, now, the reader can imagine himself transported to the side of some
 waterhole in the centre of Australia, he would probably find amongst the
 scrub and gum-trees surrounding it a small camp of natives. Each family,
 consisting of a man and one or more wives and children, accompanied
-always by dogs, <span id="fr_7"></span>[1](#fn_7) occupies a *mia-mia*,
+always by dogs, <span id="fr_7"></span>[1](#fn_7.md) occupies a *mia-mia*,
 which is merely a lean-to of shrubs so placed as to shield the occupants
 from the prevailing wind, which, if it be during the winter months, is
 sure to be from the south-east. In front of this, or inside if the
@@ -578,7 +578,7 @@ round it and, during the night, supply it
 <span id="img_ntca005"></span>
 
 [![Fig. 5. Spear Throwing](tn/ntca005.jpg)  
-Click to enlarge](img/ntca005.jpg)  
+Click to enlarge](img/ntca005.jpg.md)  
 Fig. 5. Spear Throwing  
 
 with small twigs so that he can keep it alight without making it so hot
@@ -589,7 +589,7 @@ if it be winter, the occupants of the camp are astir. Time is no object
 to them, and, if there be no lack of food, the men and women all lounge
 about while the children laugh and play. If food be required, then the
 women will go out accompanied by the children and armed with digging
-sticks and *pitchis*, <span id="fr_8"></span>[1](#fn_8) and the day will
+sticks and *pitchis*, <span id="fr_8"></span>[1](#fn_8.md) and the day will
 be spent out in the bush in search of small burrowing animals such as
 lizards and small marsupials. The men will perhaps set off armed with
 spears, spear-throwers, boomerangs and shields in search of larger game
@@ -608,7 +608,7 @@ strength. Different men vary much in their skill in spear-throwing, but
 it takes an exceptionally good man to kill or disable at more than
 twenty yards. Sometimes two or three men will hunt in company, and then,
 while one remains in ambush, the others combine to drive the animals as
-close as possible to him. Euros <span id="fr_9"></span>[1](#fn_9) are
+close as possible to him. Euros <span id="fr_9"></span>[1](#fn_9.md) are
 more easily caught than kangaroos, owing to the fact that they inhabit
 hilly and scrub country, across which they make “pads,” by the side of
 which men will lie in ambush while parties of women go out and drive the
@@ -642,7 +642,7 @@ top, bushes will be spread and earth
 <span id="img_ntca006"></span>
 
 [![Fig. 6. Boomerang Throwing](tn/ntca006.jpg)  
-Click to enlarge](img/ntca006.jpg)  
+Click to enlarge](img/ntca006.jpg.md)  
 Fig. 6. Boomerang Throwing  
 
 scattered upon them. The inquisitive bird comes up to investigate the
@@ -655,10 +655,10 @@ during the performance of sacred ceremonies, are procured by the same
 weapon.
 
 It may be said that with certain restrictions <span
-id="fr_10"></span>[1](#fn_10) which apply partly to groups of
+id="fr_10"></span>[1](#fn_10.md) which apply partly to groups of
 individuals and partly to individuals at certain times of their lives,
 everything which is edible is used for food. <span
-id="fr_11"></span>[2](#fn_11) So far as cooking is concerned, the method
+id="fr_11"></span>[2](#fn_11.md) So far as cooking is concerned, the method
 is primitive. Many of the vegetables such as the Irriakura (the bulb of
 *Cyperus rotundus*), may be eaten raw, or they may be
 
@@ -756,7 +756,7 @@ cut up.
 
 The tracking powers of the native are well-known, but it is difficult to
 realise the skill which they display unless one has seen them at
-work. <span id="fr_12"></span>[1](#fn_12) Not only does the native know
+work. <span id="fr_12"></span>[1](#fn_12.md) Not only does the native know
 the track of every beast and bird, but after examining any burrow he
 will at once, from the direction in which the last track runs, tell you
 whether the animal is at home or not. From earliest childhood boys and
@@ -777,7 +777,7 @@ difference in their ability to track when the tracks become obscure. The
 difference is so marked that while an ordinary good tracker will have
 difficulty in following them while he is on foot, and so can see them
 close to, a really good one will unerringly follow them up on horse or
-camel back. <span id="fr_13"></span>[1](#fn_13) Not only this, but,
+camel back. <span id="fr_13"></span>[1](#fn_13.md) Not only this, but,
 strange as it may sound to the average white man whose meals are not
 dependent upon his ability to track an animal to its burrow or hiding
 place, the native will recognise the footprint of every individual of
@@ -804,7 +804,7 @@ to-morrow (*ingwuntha*), day after to-morrow (*ingwunthairprina*),
 
 in some days (*ingwunthalkura*), in a short time (*ingwunthaunma*), in a
 long time (*ingwuntha arbarmaninja*). <span
-id="fr_14"></span>[1](#fn_14) It may also be said that for every animal
+id="fr_14"></span>[1](#fn_14.md) It may also be said that for every animal
 and plant which is of any service to them, and for numberless others,
 such as various forms of mice, insects, birds, &c., amongst animals, and
 various kinds of shrubs and grasses amongst plants, they have
@@ -857,7 +857,7 @@ strands are tightly wound till the whole has a diameter varying from a
 quarter to half an inch. The two ends of the central strand are left
 projecting so that they can be tied behind the neck, and the ring thus
 made is thickly coated with grease and red ochre. A similar kind of ring
-is often worn on the head <span id="fr_15"></span>[1](#fn_15) and,
+is often worn on the head <span id="fr_15"></span>[1](#fn_15.md) and,
 amongst the younger women especially, instead of, or perhaps in addition
 to, the hair neck ring, there may be worn a long string of the bright
 red beads of the bean tree. Each bead is bored through with a fire
@@ -917,7 +917,7 @@ art of making
 <span id="img_ntca007"></span>
 
 [![Fig. 7. Arunta Native, side face](tn/ntca007.jpg)  
-Click to enlarge](img/ntca007.jpg)  
+Click to enlarge](img/ntca007.jpg.md)  
 Fig. 7. Arunta Native, side face  
 
 them is now completely lost; his boomerang has a widely open curve, and
@@ -969,7 +969,7 @@ carry about with them on their wanderings.
 <span id="img_ntca008"></span>
 
 [![Fig. 8. Arunta Native, full face](tn/ntca008.jpg)  
-Click to enlarge](img/ntca008.jpg)  
+Click to enlarge](img/ntca008.jpg.md)  
 Fig. 8. Arunta Native, full face  
 
 Each local group has certain favourite camping grounds by the side of
@@ -1024,7 +1024,7 @@ We have already spoken of the local groups as being composed
 <span id="img_ntca009"></span>
 
 [![Fig. 9. Arunta Native, old man](tn/ntca009.jpg)  
-Click to enlarge](img/ntca009.jpg)  
+Click to enlarge](img/ntca009.jpg.md)  
 Fig. 9. Arunta Native, old man  
 
 <span id="page_34">p. 34</span>
@@ -1071,7 +1071,7 @@ some
 
 [![Fig. Arunta Native, to show the frizzly nature of the
 beard](tn/ntca010.jpg)  
-Click to enlarge](img/ntca010.jpg)  
+Click to enlarge](img/ntca010.jpg.md)  
 Fig. Arunta Native, to show the frizzly nature of the beard  
 
 tribes a tooth is knocked out at the initiation rite, in others the
@@ -1094,7 +1094,7 @@ parts of the continent. At the present time we can perhaps group the
 tribes into two or three large divisions, each possessing certain
 well-marked features in common, such as counting descent in the maternal
 or paternal line as the case may be, but beyond this, as yet, we cannot
-go. <span id="fr_16"></span>[1](#fn_16)
+go. <span id="fr_16"></span>[1](#fn_16.md)
 
 <span id="page_37">p. 37</span>
 
@@ -1128,7 +1128,7 @@ thick.
 In colour the Central Australian, though usually described as black, is
 by no means so. Out of the twenty males examined all, save one,
 corresponded as closely as possible with the chocolate-brown which is
-numbered 28 on Broca's scheme, <span id="fr_17"></span>[1](#fn_17) the
+numbered 28 on Broca's scheme, <span id="fr_17"></span>[1](#fn_17.md) the
 odd one was slightly lighter. The only way in which to judge correctly
 of the colour is to cut a small square hole in a sheet of white paper
 and to place this upon the skin; unless this is done there is a tendency
@@ -1180,7 +1180,7 @@ of,
 
 [![Fig. 11. Arunta Native, to show the wavy nature of the
 hair](tn/ntca011.jpg)  
-Click to enlarge](img/ntca011.jpg)  
+Click to enlarge](img/ntca011.jpg.md)  
 Fig. 11. Arunta Native, to show the wavy nature of the hair  
 
 so far as can be judged, fifty or sixty years, when the hair becomes
@@ -1216,7 +1216,7 @@ have reached an age of about forty years, pull the hairs out of the
 upper lip, a custom never practised in the more southern tribes.
 
 Amongst the women the hair is generally worn short, <span
-id="fr_18"></span>[1](#fn_18) which is closely associated with the fact
+id="fr_18"></span>[1](#fn_18.md) which is closely associated with the fact
 that, at times, each woman has to present her hair to the man who is
 betrothed to her daughter, for the purpose of making him a waist-belt.
 The body is usually smooth with, at most, a development of very fine
@@ -1236,7 +1236,7 @@ are often spoken of as tattoo marks, a name which, as Dr. Stirling says,
 
 [![12. Group of Warramunga Men, four of the older ones have the upper
 lip bare](tn/ntca012.jpg)  
-Click to enlarge](img/ntca012.jpg)  
+Click to enlarge](img/ntca012.jpg.md)  
 12. Group of Warramunga Men, four of the older ones have the upper lip
 bare  
 
@@ -1244,7 +1244,7 @@ abandoned, as the scars in question with which the bodies of Australian
 natives are generally decorated differ entirely from the coloured
 patterns produced by the permanent staining of the tissue with pigments
 to which the term tattoo mark ought to be limited.” <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 Every individual has a certain number of these scars raised on his body
 and arms, but very rarely on the back. As is well known, they are made
@@ -1281,7 +1281,7 @@ There is, apart from ornament, no special meaning, so far as their form
 or arrangement is concerned, to be attached at the present day to these
 cicatrices, nor could we discover anything in their customs and
 traditions leading to the belief that they had ever had any deeper
-meaning. <span id="fr_20"></span>[1](#fn_20) Vague statements have been
+meaning. <span id="fr_20"></span>[1](#fn_20.md) Vague statements have been
 made with regard to marks such as these, to the effect that they
 indicate, in some way, the particular division of the tribe to which
 each individual belongs. Amongst the tribes from Oodnadatta in the
@@ -1297,7 +1297,7 @@ are concerned, they have no significance at
 <span id="img_ntca013"></span>
 
 [![Fig. 13. Young Women, Arunta Tribe, side face](tn/ntca013.jpg)  
-Click to enlarge](img/ntca013.jpg)  
+Click to enlarge](img/ntca013.jpg.md)  
 Fig. 13. Young Women, Arunta Tribe, side face  
 
 the present day as indicative of either tribal, class, or totemic group.
@@ -1332,7 +1332,7 @@ of the tibial bone and gives rise to what the white settlers have, for
 long, described by the very apt term “boomerang-leg.” To what extent
 either or both of these conditions are racial or pathological it seems
 difficult to say, and for a full description of them the reader is
-referred to Dr. Stirling's report. <span id="fr_21"></span>[1](#fn_21)
+referred to Dr. Stirling's report. <span id="fr_21"></span>[1](#fn_21.md)
 
 As a general rule both men and women are well nourished, but naturally
 this depends to a large extent on the nature of the season. When
@@ -1363,11 +1363,11 @@ index
 <span id="img_ntca014"></span>
 
 [![Fig. 14. Young Women, Arunta Tribe, full face](tn/ntca014.jpg)  
-Click to enlarge](img/ntca014.jpg)  
+Click to enlarge](img/ntca014.jpg.md)  
 Fig. 14. Young Women, Arunta Tribe, full face  
 
 of the living subject to get that of the cranium, <span
-id="fr_22"></span>[1](#fn_22) they are still relatively high as compared
+id="fr_22"></span>[1](#fn_22.md) they are still relatively high as compared
 with the index of 71.5, which may be regarded as about the average index
 for Australian skulls. It must also be noted that there is great
 variability amongst the different individuals, the minimum measurement
@@ -1426,7 +1426,7 @@ countries. Every case of such secret murder,
 
 [![Fig. 15. Young Woman, Arunta, showing body scars and tooth knocked
 out](tn/ntca015.jpg)  
-Click to enlarge](img/ntca015.jpg)  
+Click to enlarge](img/ntca015.jpg.md)  
 Fig. 15. Young Woman, Arunta, showing body scars and tooth knocked out  
 
 when one or more men stealthily stalk their prey with the object of
@@ -1437,7 +1437,7 @@ has brought about the death of another man
 <span id="page_48">p. 48</span>
 
 by magic, and whose life must therefore be forfeited. <span
-id="fr_23"></span>[1](#fn_23) It need hardly be pointed out what a
+id="fr_23"></span>[1](#fn_23.md) It need hardly be pointed out what a
 potent element this custom has been in keeping down the numbers of the
 tribe; no such thing as natural death is realised by the native; a man
 who dies has of necessity been killed by some other man, or perhaps even
@@ -1475,7 +1475,7 @@ when a native gives him anything, does he
 <span id="img_ntca016"></span>
 
 [![Fig. 16. Old Woman, Arunta Tribe](tn/ntca016.jpg)  
-Click to enlarge](img/ntca016.jpg)  
+Click to enlarge](img/ntca016.jpg.md)  
 Fig. 16. Old Woman, Arunta Tribe  
 
 think it necessary to do so himself, for the simple reason that giving
@@ -1523,7 +1523,7 @@ children they are, we may say
 <span id="img_ntca017"></span>
 
 [![Fig. 17. Young Woman, Warramunga Tribe](tn/ntca017.jpg)  
-Click to enlarge](img/ntca017.jpg)  
+Click to enlarge](img/ntca017.jpg.md)  
 Fig. 17. Young Woman, Warramunga Tribe  
 
 uniformly, with very rare exceptions, kind and considerate, carrying
@@ -1569,7 +1569,7 @@ rare occasions on which the child is born at a very premature stage as
 the result of an accident, nothing will persuade them that it is an
 undeveloped human being; they are perfectly convinced that it is the
 young of some other animal, such as a kangaroo, which has by some
-mistake got inside the woman. <span id="fr_24"></span>[1](#fn_24)
+mistake got inside the woman. <span id="fr_24"></span>[1](#fn_24.md)
 
 On rare occasions, at all events amongst the Luritcha tribe, children of
 a few years of age are killed, the object of this being to feed a weakly
@@ -1581,7 +1581,7 @@ killed one.
 <span id="img_ntca018"></span>
 
 [![Fig 18. Woman carrying Child, Arunta Tribe](tn/ntca018.jpg)  
-Click to enlarge](img/ntca018.jpg)  
+Click to enlarge](img/ntca018.jpg.md)  
 Fig 18. Woman carrying Child, Arunta Tribe  
 
 When times are favourable the black fellow is as light-hearted as
@@ -1641,37 +1641,37 @@ now find them.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](ntca03.htm#fr_0) Gibber is an aboriginal
+<span id="fn_0"></span>[2:1](ntca03.htm#fr_0.md) Gibber is an aboriginal
 word meaning a rock or stone. The word is probably derived originally
 from a Queensland dialect, but is now used by white men in many parts.
 *Gibber-gunyah* is an aboriginal cave dwelling or rock-shelter.
 
-<span id="fn_1"></span>[5:1](ntca03.htm#fr_1) The tree to which this
+<span id="fn_1"></span>[5:1](ntca03.htm#fr_1.md) The tree to which this
 most inappropriate name has been given is *Casuarina Decaisneana*: it
 may reach a height of thirty or forty feet and is often found growing,
 as its popular name implies, in sterile, desert country.
 
-<span id="fn_2"></span>[7:1](ntca03.htm#fr_2) The native from long
+<span id="fn_2"></span>[7:1](ntca03.htm#fr_2.md) The native from long
 practice is able to secure water from such sources as tree roots in
 spots where an inexperienced white man would perish from thirst. An
 interesting account of this matter has been given by Mr. T. A. Magarey,
 in a paper entitled “Aboriginal Water Quest,” published in the *Report
 of the Aust. Ass. Adv Sci*., vol. vi., 1895, p. 647.
 
-<span id="fn_3"></span>[9:1](ntca03.htm#fr_3) In different parts of the
+<span id="fn_3"></span>[9:1](ntca03.htm#fr_3.md) In different parts of the
 tribe he is known by different names: in the north he is called
 Alatunja, in the west Chichurta, at Hermannsburg on the Finke River
 Inkata or Inkatinja, and in the north-east Chantchwa.
 
-<span id="fn_4"></span>[15:1](ntca03.htm#fr_4) *The Australian Race*,
+<span id="fn_4"></span>[15:1](ntca03.htm#fr_4.md) *The Australian Race*,
 vol. i. p. 52.
 
-<span id="fn_5"></span>[15:2](ntca03.htm#fr_5) This subject has already
+<span id="fn_5"></span>[15:2](ntca03.htm#fr_5.md) This subject has already
 been dealt with by Mr. Howitt in his paper on the organisation of the
 Australian tribes, *Trans. R. S. Victoria*, 1889, p. 108, and our
 experience undoubtedly corroborates his opinion.
 
-<span id="fn_6"></span>[16:1](ntca03.htm#fr_6) It has been stated that
+<span id="fn_6"></span>[16:1](ntca03.htm#fr_6.md) It has been stated that
 when out in the bush the natives communicate with one another by means
 of smoke signals, and in a remarkable paper by Mr. T. A. Magarey,
 published in the *Report of the Aust. Ass. Adv. Sci*., vol. v., 1893, p.
@@ -1695,26 +1695,26 @@ presence there of the person or persons making them.” After careful
 investigation we can fully corroborate Mr. Roth so far as the Arunta
 tribe is concerned.
 
-<span id="fn_7"></span>[18:1](ntca03.htm#fr_7) The dingo is the only
+<span id="fn_7"></span>[18:1](ntca03.htm#fr_7.md) The dingo is the only
 animal which the native has attempted to domesticate. At the present
 time the introduced dog has supplanted the dingo, and all over Australia
 mongrels of all imaginable kinds are seen in scores in every native
 camp, as no dog is ever killed.
 
-<span id="fn_8"></span>[19:1](ntca03.htm#fr_8) Wooden troughs used for
+<span id="fn_8"></span>[19:1](ntca03.htm#fr_8.md) Wooden troughs used for
 carrying food and water.
 
-<span id="fn_9"></span>[20:1](ntca03.htm#fr_9) The euro is a small
+<span id="fn_9"></span>[20:1](ntca03.htm#fr_9.md) The euro is a small
 kangaroo (*Macropus robustus*).
 
-<span id="fn_10"></span>[21:1](ntca03.htm#fr_10) Food restrictions are
+<span id="fn_10"></span>[21:1](ntca03.htm#fr_10.md) Food restrictions are
 dealt with in chapter xii.
 
-<span id="fn_11"></span>[21:2](ntca03.htm#fr_11) A comprehensive list of
+<span id="fn_11"></span>[21:2](ntca03.htm#fr_11.md) A comprehensive list of
 animals and plants has been already published by Dr. Stirling, *Report
 of Horn Exped. to Central Aust.*, pt. iv. p. 51.
 
-<span id="fn_12"></span>[24:1](ntca03.htm#fr_12) Whilst at Hermannsburg
+<span id="fn_12"></span>[24:1](ntca03.htm#fr_12.md) Whilst at Hermannsburg
 on the Finke River, and also at Alice Springs, Dr. E. Eylmann, who has
 been engaged for some time past in scientific exploration in Central
 Australia, tested carefully the capacity of the natives with regard to
@@ -1722,7 +1722,7 @@ the senses of sight and hearing, and has kindly communicated to us the
 result of his tests. Dr. Eylmann says, “I found that both senses were
 not on an average better developed in the aborigines than in Europeans.”
 
-<span id="fn_13"></span>[25:1](ntca03.htm#fr_13) The experience of Mr.
+<span id="fn_13"></span>[25:1](ntca03.htm#fr_13.md) The experience of Mr.
 E. C. Cowle, to whose kindly aid we are much indebted, and than whom no
 one has had better opportunities of judging, is decisive upon this
 point. When in pursuit of wild natives amongst the desolate scrubs and
@@ -1735,18 +1735,18 @@ follow with unerring certainty, and while riding, tracks which the other
 black fellows with him will only distinguish with difficulty, or,
 sometimes, will even fail to see.
 
-<span id="fn_14"></span>[26:1](ntca03.htm#fr_14) The terms given are
+<span id="fn_14"></span>[26:1](ntca03.htm#fr_14.md) The terms given are
 those used in the north of the Arunta. In the south the words are often
 quite different from those used in the north. A grammar and vocabulary
 has been published by the Rev. H. Kempe, who was for some years in
 charge of an outlying mission station in the southern part at
 Hermannsburg. *Trans. R. S. South Australia*, 1891, p. 1.
 
-<span id="fn_15"></span>[27:1](ntca03.htm#fr_15) These head rings, which
+<span id="fn_15"></span>[27:1](ntca03.htm#fr_15.md) These head rings, which
 are called *Okrullanina*, are usually made and presented to the woman by
 a son-in-law, to whom the woman has to give her own hair.
 
-<span id="fn_16"></span>[36:1](ntca03.htm#fr_16) It is not easy to say
+<span id="fn_16"></span>[36:1](ntca03.htm#fr_16.md) It is not easy to say
 with anything like certainty that one tribe is in any particular respect
 more “primitive” than another. It is, for example, generally assumed
 that counting descent in the female, is a more primitive method than
@@ -1783,32 +1783,32 @@ suppose men of one group to have marital relations with women of more
 than one other group, then, unless each woman be restricted to one man,
 descent, if counted at all, must of necessity follow the female line.
 
-<span id="fn_17"></span>[37:1](ntca03.htm#fr_17) *Instructions
+<span id="fn_17"></span>[37:1](ntca03.htm#fr_17.md) *Instructions
 Anthropologiques Générales*, M. P. Broca, 2nd edit., 1879.
 
-<span id="fn_18"></span>[40:1](ntca03.htm#fr_18) Amongst the Warramunga
+<span id="fn_18"></span>[40:1](ntca03.htm#fr_18.md) Amongst the Warramunga
 women the hair on the middle of the head may be made into a plait which
 falls over towards the forehead.
 
-<span id="fn_19"></span>[41:1](ntca03.htm#fr_19) *Loc. cit*., p. 24.
+<span id="fn_19"></span>[41:1](ntca03.htm#fr_19.md) *Loc. cit*., p. 24.
 
-<span id="fn_20"></span>[42:1](ntca03.htm#fr_20) Certain of them, both
+<span id="fn_20"></span>[42:1](ntca03.htm#fr_20.md) Certain of them, both
 on men and women, are made at special times in connection with
 initiatory and mourning ceremonies, as described later.
 
-<span id="fn_21"></span>[44:1](ntca03.htm#fr_21) *Loc. cit*. p. 19.
+<span id="fn_21"></span>[44:1](ntca03.htm#fr_21.md) *Loc. cit*. p. 19.
 
-<span id="fn_22"></span>[45:1](ntca03.htm#fr_22) As quoted by Topinard,
+<span id="fn_22"></span>[45:1](ntca03.htm#fr_22.md) As quoted by Topinard,
 *Anthropology*, English trans., 1896, p. 326. Broca's original paper is
 not available in Melbourne.
 
-<span id="fn_23"></span>[48:1](ntca03.htm#fr_23) At the final mourning
+<span id="fn_23"></span>[48:1](ntca03.htm#fr_23.md) At the final mourning
 ceremonies of an old man held recently, when the men were leaving the
 grave one of the older ones jumped on to it and shouted out, “We have
 not found the Kurdaitcha who killed you yet, but we will find him and
 kill him.”
 
-<span id="fn_24"></span>[52:1](ntca03.htm#fr_24) Sterility is of
+<span id="fn_24"></span>[52:1](ntca03.htm#fr_24.md) Sterility is of
 frequent occurrence at the present day amongst the native women. The
 greatest fertility is amongst the strong stout women, the thin and
 weaker ones rarely having children. Possibly sterility in many cases is
@@ -1822,4 +1822,4 @@ sterility given by the natives.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Social Organisation of the Tribes](ntca04)
+[Next: Chapter II. The Social Organisation of the Tribes](ntca04.md)

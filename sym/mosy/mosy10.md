@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy09)  [Next](mosy11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy09)  [Next](mosy11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ Homburg, and which, according to M. Gaidoz, are
 
 reproductions of antique *fibulæ* found, some years ago, on the site of
 a Roman encampment not far from that place. <span
-id="fr_185"></span>[1](#fn_185)
+id="fr_185"></span>[1](#fn_185.md)
 
 A symbol, again, may retain merely a talismanic value, like those
 crucifixes, converted into *fetiches*, which are the only vestiges of
@@ -70,7 +70,7 @@ The rising sun has often been compared to a new-born child. Amongst the
 Egyptians, this comparison led to Horus being represented as an infant
 sucking its finger. The Greeks imagined that he placed his finger on his
 lips to enjoin secrecy on the initiated, and they made him the image of
-Harpocrates, the god of silence. <span id="fr_186"></span>[2](#fn_186)
+Harpocrates, the god of silence. <span id="fr_186"></span>[2](#fn_186.md)
 
 This is what M. Clermont-Ganneau has very happily termed *iconological
 mythology;* it is here no longer the myth which gives rise to the image,
@@ -93,9 +93,9 @@ Egyptians of the later period sometimes represented
 form of a horseman piercing a crocodile with his spear. M.
 Clermont-Ganneau has shown how this symbolical image of the sun
 dispersing the clouds served as a model to the early representations of
-St. George and the Dragon. <span id="fr_187"></span>[1](#fn_187) The
+St. George and the Dragon. <span id="fr_187"></span>[1](#fn_187.md) The
 same subject had already been employed by Greek mythology to depict
-Bellerophon slaying the Chimæra. <span id="fr_188"></span>[2](#fn_188)
+Bellerophon slaying the Chimæra. <span id="fr_188"></span>[2](#fn_188.md)
 
 M. Gaidoz attributes a similar origin, not only to the image, but also
 to the worship of the Virgin of *the Seven Sorrows*, or rather of *the
@@ -112,19 +112,19 @@ swords; and what might they signify? Some ingenious ecclesiastic was not
 wanting who assumed that they were the symbol of sorrows.… The swords
 numbered seven; it was then only necessary to ascertain, and this was no
 difficult task, the seven principal sorrows in the life of the Virgin
-Mary." <span id="fr_189"></span>[3](#fn_189)
+Mary." <span id="fr_189"></span>[3](#fn_189.md)
 
 But here is a still better example: the image, so common on Chaldæan
 cylinders, of the mythical
 
 <span id="page_87">p. 87</span>
 
-hero, Idzhubar or Gilgames, <span id="fr_190"></span>[1](#fn_190) seen
+hero, Idzhubar or Gilgames, <span id="fr_190"></span>[1](#fn_190.md) seen
 from the front and flanked by two lions, which he holds at arm's length,
 was not only diffused amongst the Greeks
 
 <span id="img_fig035"></span> ![FIG. 35. ASSYRIAN CYLINDER.
-](img/fig035.jpg)
+](img/fig035.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 35. Assyrian
 Cylinder.</span>  
@@ -137,7 +137,7 @@ pictorial representations of Daniel in the lion's den.
 
 <span id="img_fig036"></span> ![FIG. 36. ON AN OLD CHRISTIAN STAFF.
 (MARTIN et CAHIER. Mélanges d’archéologie, vol. ii., pl.
-xviii.)](img/fig036.jpg)
+xviii.)](img/fig036.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 36. On an old Christian
 Staff.</span>  
@@ -155,7 +155,7 @@ Abbe Martigny, that Daniel is often represented
 <span id="page_88">p. 88</span>
 
 between two lions, "whilst the den contains seven." <span
-id="fr_191"></span>[1](#fn_191)
+id="fr_191"></span>[1](#fn_191.md)
 
 On a lintel of St. Gertrude's Church at Nivelles, in Belgium, there is a
 bas-relief representing Samson slaying the lion, which belongs to the
@@ -163,25 +163,25 @@ oldest piece of carved stone still in situ in Belgium. The Biblical hero
 is there represented
 
 <span id="img_fig037"></span> ![FIG. 37. SAMSON KILLING THE LION.
-(Cathedral of Nivelles.)](img/fig037.jpg)
+(Cathedral of Nivelles.)](img/fig037.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 37. Samson Killing the
 Lion.</span>  
 (Cathedral of Nivelles.)</span>
 
 dressed in the Roman costume, astride of the lion, whose jaws he seizes
-with his hands ([fig. 37](#img_fig037)). A mere glance will permit one
+with his hands ([fig. 37](#img_fig037).md). A mere glance will permit one
 to find in this image a reminiscence of the scene, so often reproduced
 
 <span id="img_fig038"></span> ![FIG. 38. MITHRA SLAYING THE BULL. (From
-a bas-relief in the Louvre.)](img/fig038.jpg)
+a bas-relief in the Louvre.)](img/fig038.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 38. Mithra Slaying the
 Bull.</span>  
 (From a bas-relief in the Louvre.)</span>
 
 on Mithraic bas-reliefs, where Mithras offers the bull in sacrifice
-([fig. 38](#img_fig038)).
+([fig. 38](#img_fig038).md).
 
 The worship of Mithras was certainly practised
 
@@ -201,10 +201,10 @@ Mediæval pictorial art, moreover, borrows frequently enough from
 Mithraic representations, wherein the sun and moon are depicted under
 the forms and with the respective attributes of the solar god and of the
 lunar goddess in the scene of the sacrifice. <span
-id="fr_192"></span>[1](#fn_192)
+id="fr_192"></span>[1](#fn_192.md)
 
 A remarkable example is seen in the bas-reliefs of the baptistery of
-Parma. <span id="fr_193"></span>[2](#fn_193)
+Parma. <span id="fr_193"></span>[2](#fn_193.md)
 
 The group of Mithras and the bull has received other adaptations again
 in the hands of Christian artists. M. Th. Roller has pointed out a
@@ -212,7 +212,7 @@ singular instance in a Christian bas-relief of the third or fourth
 century. Christ is there represented in the form of Orpheus, playing on
 the lyre, with a Phrygian cap on the head, and the right leg reposing on
 the body of a lamb, which turns its head towards the musician. <span
-id="fr_194"></span>[3](#fn_194)
+id="fr_194"></span>[3](#fn_194.md)
 
 <span id="page_90">p. 90</span>
 
@@ -233,14 +233,14 @@ was recognized the old Egyptian symbol of life; which avowal, however,
 does not prevent them from seeing in this emblem a prophetic allusion to
 the sign of the Redemption. Sozomen adds that this fact brought about
 many conversions amongst the pagans. <span
-id="fr_195"></span>[1](#fn_195)
+id="fr_195"></span>[1](#fn_195.md)
 
 A legend, widely diffused throughout the ancient world, related that
 Zeus, wishing to know the centre of the earth, let fly at the same
 moment from the ends of the world, in the east and west, two eagles
 (other versions say two crows), which came and settled at the same time
 on the *omphalos* of Apollo in the temple at Delphi. <span
-id="fr_196"></span>[2](#fn_196) It may be questioned if this tradition
+id="fr_196"></span>[2](#fn_196.md) It may be questioned if this tradition
 was not perhaps suggested by the desire to account for a representation
 of the *omphalos*, similar to the image of a temple found amongst the
 jewels collected by Dr. Schliemann at Mycenæ. It is a sort of shrine,
@@ -254,7 +254,7 @@ The origins of this representation must, in their
 <span id="img_fig039"></span> <span align="CENTER"> [![FIG. 39. JEWEL
 FROM MYCENÆ. (Schliemann. Mycènes. Paris, 1879, fig.
 423.)](tn/fig039.jpg)  
-Click to enlarge](img/fig039.jpg)  
+Click to enlarge](img/fig039.jpg.md)  
   
 </span>
 
@@ -267,11 +267,11 @@ turn, be sought for in the symbolism of the worship paid, in Asia Minor,
 to the Great Goddess of Nature, venerated by the Phœnician populations
 under the name of Astarte. The doves played a part in this worship,
 either as personifications of the goddess, or as sacred birds reared in
-the temples. <span id="fr_197"></span>[1](#fn_197) Two doves appear on
+the temples. <span id="fr_197"></span>[1](#fn_197.md) Two doves appear on
 some *stelai* in
 
 <span id="img_fig040"></span> ![FIG. 40. PUNIC STELA. (Corpus inscript.
-semit., i., part iii., No. 183.)](img/fig040.jpg)
+semit., i., part iii., No. 183.)](img/fig040.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 40. Punic
 Stela</span>.  
@@ -283,12 +283,12 @@ on the opposite sides of one of those conical *bethels*
 
 <span id="page_92">p. 92</span>
 
-which represented the goddess ([fig. 40](#img_fig040)); in the latter
+which represented the goddess ([fig. 40](#img_fig040).md); in the latter
 they are back to back on the roof of a temple containing a Sacred Stone
-([fig. 41](#img_fig041)).
+([fig. 41](#img_fig041).md).
 
 <span id="img_fig041"></span> ![FIG. 41. COIN OF PAPHOS. (GUIGNAUT, vol.
-iv., pl. liv., fig. 206.)](img/fig041.jpg)
+iv., pl. liv., fig. 206.)](img/fig041.jpg.md)
 
 <span class="small"><span class="smallcaps">FIG. 41. Coin of
 Paphos</span>.  
@@ -300,12 +300,12 @@ This combination of figures might all the more easily relate to the
 at the top. I am not aware that it has ever been found represented
 between two crows or eagles, but Strabo informs us that near the Sacred
 Stone (ἐπ᾽ αὐτῷ), in the sanctuary at Delphi, there was an image of the
-two birds mentioned in the fable. <span id="fr_198"></span>[1](#fn_198)
+two birds mentioned in the fable. <span id="fr_198"></span>[1](#fn_198.md)
 
 Let us now pass over a dozen centuries, and, from the shores of the
 Ægean Sea, direct our steps towards the valley of the Sambre. Coins of
 
-<span id="img_fig042"></span> ![FIG. 42.](img/fig042.jpg)
+<span id="img_fig042"></span> ![FIG. 42.](img/fig042.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig.</span> 42</span>
 
@@ -317,7 +317,7 @@ Charlemagne borrowed from ancient Italy,—with this
 
 <span id="img_fig043"></span> ![FIG. 43. COIN OF THUIN. (DE CHESTRET.
 Numismatique de la province de Liege, pl. iii., No.
-52.)](img/fig043.jpg)
+52.)](img/fig043.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 43. Coin of
 Thuin.</span>  
@@ -332,12 +332,12 @@ Huns, who had invaded the territory of Thuin. The Lobbes chronicle
 relates that two pigeons, having escaped from the church, had flown
 three times round the barbarians’ encampment, and that forthwith a
 violent shower of rain, by swelling their bows, had put the besiegers to
-rout. <span id="fr_199"></span>[1](#fn_199) As Folcuin, the writer of
+rout. <span id="fr_199"></span>[1](#fn_199.md) As Folcuin, the writer of
 the chronicle, became abbot of Lobbes in 965, it cannot be maintained
 that this narrative was prompted by Otbert's coin; but the legend will
 probably have contributed towards establishing in the coinage of Thuin a
 type whose antecedents, perhaps, date back, across classic antiquity, to
-the sacred dove-cots of Phœnicia. <span id="fr_200"></span>[2](#fn_200)
+the sacred dove-cots of Phœnicia. <span id="fr_200"></span>[2](#fn_200.md)
 
 It may also happen that the signification of a
 
@@ -362,9 +362,9 @@ Trees of Mesopotamian pictorial art.
 In the same manner, when the Christians began to reproduce on the walls
 of the Catacombs the scenes of the Old Testament and the parables of the
 New, it was from classic, and even mythological art that
-[they](errata.htm#2) took their first models. Hermes’ Criophoros
+[they](errata.htm#2.md) took their first models. Hermes’ Criophoros
 furnished the type of the Good Shepherd. <span
-id="fr_201"></span>[1](#fn_201) Orpheus taming the wild beasts became a
+id="fr_201"></span>[1](#fn_201.md) Orpheus taming the wild beasts became a
 symbol of Christ and of his preaching. The Christian clinging to the
 Cross, in order to overcome temptations, was represented by Ulysses
 bound to the mast of his ship, so as to resist the song of the Sirens.
@@ -375,7 +375,7 @@ spiritualized,
 
 <span class="contnote">\[paragraph continues\]</span> Psyche offered the
 image of the human soul united to Love, replaced by an angel. <span
-id="fr_202"></span>[1](#fn_202) The religions of Gaul and of India have
+id="fr_202"></span>[1](#fn_202.md) The religions of Gaul and of India have
 offered instances of similar assimilations from the day they came into
 contact with the symbolism of more advanced nations.
 
@@ -385,7 +385,7 @@ other. On the monuments of Egypt and of Mesopotamia divinities or
 *genii* are frequently met with possessing a double pair of wings, one
 raised, the other lowered; the Phœnicians easily made therefrom a
 symbolical image of perpetual motion. <span
-id="fr_203"></span>[2](#fn_203) Amongst the Egyptians, the Phoenix
+id="fr_203"></span>[2](#fn_203.md) Amongst the Egyptians, the Phoenix
 rising from its ashes represented the sun resuscitating every morning in
 the glow of dawn. Depicted on a pyre, and encircled by a halo of glory,
 this solar Bird became, amongst the Romans, the emblem of the imperial
@@ -454,7 +454,7 @@ without difficulty; it appears there, indeed, as a double trident, or
 rather as a trident doubled in the manner of the blade in the two-edged
 
 <span id="img_fig044"></span> ![FIG. 44. ASSYRIAN THUNDERBOLT. (&lt;span
-style=](img/fig044.jpg)
+style=](img/fig044.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 44. Assyrian
 Thunderbolt.</span>  
@@ -481,7 +481,7 @@ secured thereby for the old Mesopotamian symbol an advantage over all
 the
 
 <span id="img_fig045"></span> ![FIG. 45. (RAWLINSON. The Five Great
-Monarchies, vol. ii., p. 251.)](img/fig045.jpg)
+Monarchies, vol. ii., p. 251.)](img/fig045.jpg.md)
 
 <span class="small"><span class="smallcaps">FIG. 45.</span>  
 (<span class="smallcaps">Rawlinson</span>. *The Five Great Monarchies*,
@@ -496,7 +496,7 @@ placed it in the talons of the eagle, and made it the sceptre, and even
 the symbol, of Zeus; explaining, in return, according to their custom,
 this symbolical combination by a myth: it was, said they, the eagle that
 brought the Thunderbolt to Zeus, when the latter was preparing to fight
-the Titans. <span id="fr_204"></span>[1](#fn_204)
+the Titans. <span id="fr_204"></span>[1](#fn_204.md)
 
 Roman Italy transmitted the Thunderbolt to Gaul, where, in the latter
 centuries of paganism, it alternated with the Two-headed Hammer on
@@ -513,7 +513,7 @@ which the Vedas speak,—the
 <span class="contnote">\[paragraph continues\]</span> St. Andrew's Cross
 (itself perhaps a double fork) which forms the *vajra*, the redoubtable
 weapon of Indra, god of the stormy sky; <span
-id="fr_205"></span>[1](#fn_205) the Drum and the Axe which figure in the
+id="fr_205"></span>[1](#fn_205.md) the Drum and the Axe which figure in the
 hands of Siva; lastly, its own antecedent, the Trident, which the Hindus
 had already borrowed from the West, or else imagined themselves
 spontaneously.
@@ -521,14 +521,14 @@ spontaneously.
 Siva, who succeeded Zeus on the coins of the Indo-Scythic kings when the
 last glimmering of Greek civilization in north-west India had died out,
 holds in his hand sometimes the Thunderbolt, sometimes the
-Trident, <span id="fr_206"></span>[2](#fn_206) and if the latter remains
+Trident, <span id="fr_206"></span>[2](#fn_206.md) and if the latter remains
 the essential weapon of the god in the later imagery of the Hindu sects,
 the Thunderbolt made none the less its way amongst the Buddhists, who
 transported it with their symbolism as far as China and Japan. Even at
 the present time it can
 
 <span id="img_fig046"></span> ![FIG. 46. DORDJ. (From a specimen
-belonging to the author.)](img/fig046.jpg)
+belonging to the author.)](img/fig046.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 46. Dordj.</span>  
 (From a specimen belonging to the author.</span>
@@ -537,7 +537,7 @@ be recognized there under the form of the *dordj*, a small bronze
 instrument shaped like a double sheaf, with six or eight branches,
 which, held between the thumb and forefinger, is used by the lamas and
 bonzes to bless the faithful, and to exorcise demons. <span
-id="fr_207"></span>[3](#fn_207)
+id="fr_207"></span>[3](#fn_207.md)
 
 A legend which M. Gustave Le Bon found in Nepaul claims to justify the
 presence of the
@@ -546,7 +546,7 @@ presence of the
 
 <span class="contnote">\[paragraph continues\]</span> Thunderbolt in the
 temples of the country by stating that Buddha had wrested it from the
-god Indra. <span id="fr_208"></span>[1](#fn_208) The assertion is true
+god Indra. <span id="fr_208"></span>[1](#fn_208.md) The assertion is true
 in this sense, that Buddhism, after having precipitated from his supreme
 rank the Master of the Brahminical Olympus, made of his terrible and
 capricious instrument an ally of man in the struggle against the powers
@@ -572,7 +572,7 @@ deemed necessary to fasten his images to the ground; the bull moved its
 wings, started at a gallop into space, brandished a bow, and ended,
 under the Greek rule of the Seleucidæ, by assuming, on cylinders, the
 well-known physiognomy of Sagittarius. <span
-id="fr_209"></span>[2](#fn_209)
+id="fr_209"></span>[2](#fn_209.md)
 
 <span id="page_101">p. 101</span>
 
@@ -589,13 +589,13 @@ and is not as yet the other, but exhibits features borrowed from both.
 
 Nothing is more curious than to follow the gradual stages of the
 degeneration which, on Gallic coins, has finally transformed into the
-letter E the bust of Apollo, <span id="fr_210"></span>[1](#fn_210) and
+letter E the bust of Apollo, <span id="fr_210"></span>[1](#fn_210.md) and
 into the letter H, on coins of Valenciennes, the type of the
 Carlovingian temple formed of four columns placed on a basement and
-surmounted by a pediment. <span id="fr_211"></span>[2](#fn_211)
+surmounted by a pediment. <span id="fr_211"></span>[2](#fn_211.md)
 
 <span id="img_fig047"></span> ![FIG. 47. DEGENERATION OF THE TEMPLE
-TYPE.](img/fig047.jpg)
+TYPE.](img/fig047.jpg.md)
 
 <span class="small"><span class="smallcaps">FIG. 47. Degeneration of
 the</span> *Temple* <span class="smallcaps">Type.</span></span>
@@ -613,7 +613,7 @@ the intermediate figures not been found, the connection between the two
 extremes would never have been admitted, nor even suspected.
 
 <span id="img_fig048"></span> ![FIG. 48. POLYNESIAN CARVINGS.
-(FLAMMARION. Etoiles et curiosités du ciel, p. 445.)](img/fig048.jpg)
+(FLAMMARION. Etoiles et curiosités du ciel, p. 445.)](img/fig048.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 48. Polynesian
 Carvings</span>.  
@@ -623,7 +623,7 @@ ciel*, p. 445.)</span>
 As a counterpart of the metamorphoses which thus convert a face into a
 sign or instrument we will see further on examples of symbols which,
 purely linear in the beginning, have gradually assumed a human
-physiognomy. <span id="fr_212"></span>[1](#fn_212) These transformations
+physiognomy. <span id="fr_212"></span>[1](#fn_212.md) These transformations
 may, in certain cases, be systematic and premeditated; but generally
 they originate in a desire to give an intelligible character to a
 shapeless symbol by approximating it to the image which it seems most to
@@ -648,7 +648,7 @@ constituted the symbol of communal liberties in several cities of
 eastern Belgium. The
 
 <span id="img_fig049"></span> ![FIG. 49. THE PERRON OF LIEGE. (Revue de
-Like, vol. vi. (1846), p. 86.)](img/fig049.jpg)
+Like, vol. vi. (1846), p. 86.)](img/fig049.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 49. The Perron of
 Liege</span>. (*Revue de Liège*, vol. vi. (1846), p. 86.)</span>
@@ -657,7 +657,7 @@ most celebrated of those *perrons* is still standing, above a fountain,
 on the market-place at Liege;
 
 <span id="img_fig050"></span> ![FIG. 50. HERALDIC PERRON. (LOYENS.
-Recueil héraldique, passim&lt;i&gt;.&lt;/i&gt;)](img/fig050.jpg)
+Recueil héraldique, passim&lt;i&gt;.&lt;/i&gt;)](img/fig050.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 50. Heraldic
 Perron.</span>  
@@ -673,7 +673,7 @@ its point.
 
 In other towns of the same country, at Namur, for instance, the *perron*
 only comprised a column on a pedestal with three steps. <span
-id="fr_213"></span>[1](#fn_213)
+id="fr_213"></span>[1](#fn_213.md)
 
 The *perron* of Liege has had a very chequered existence, which makes it
 all the dearer to its fellow-townsmen. Transported to Bruges by Charles
@@ -682,7 +682,7 @@ solemnly restored to the old episcopal city ten years later, twice blown
 down in a storm, in 1448 and in 1693, it figured as early as 1303 on the
 banner of the trades leagued together in defence of their privileges, as
 also on the gemel blazon of the two annual burgomasters, or temporary
-masters, of the city. <span id="fr_214"></span>[2](#fn_214)
+masters, of the city. <span id="fr_214"></span>[2](#fn_214.md)
 
 In still earlier times it is seen on coins of the bishop-princes from
 the end of the twelfth century. On one of them, dating back to Rodolphe
@@ -690,13 +690,13 @@ de Zæringen (1167–1191), it only appears in the form of a column
 surmounted by a ball, above which is
 
 <span id="img_fig051"></span> ![FIG. 51. COIN OF ROD. DE
-ZÆRINGEN.](img/fig051.jpg)
+ZÆRINGEN.](img/fig051.jpg.md)
 
 <span class="small"><span class="smallcaps">FIG. 51. Coin of Rod. de
 Zæringen</span></span>
 
 <span id="img_fig052"></span> ![FIG. 52. COIN OF JEAN
-D’APS.](img/fig052.jpg)
+D’APS.](img/fig052.jpg.md)
 
 <span class="small"><span class="smallcaps">FIG. 52. Coin of Jean
 d’Aps</span></span>
@@ -705,12 +705,12 @@ d’Aps</span></span>
 *Numismatique de la principauté de Liège*, pl. vi., No. 119, and x., No.
 192.)</span>
 
-a cross, and the inscription PERU VOC(OR) ([fig. 51](#img_fig051)). On a
+a cross, and the inscription PERU VOC(OR) ([fig. 51](#img_fig051).md). On a
 coin of Jean d’Aps (1229–1238), however, the Fir-cone is plainly visible
-at the top of the column ([fig. 52](#img_fig052)).
+at the top of the column ([fig. 52](#img_fig052).md).
 
 The meaning and origin of the *perrons* have been much discussed. <span
-id="fr_215"></span>[3](#fn_215) M. Ch. Piot, general
+id="fr_215"></span>[3](#fn_215.md) M. Ch. Piot, general
 
 <span id="page_105">p. 105</span>
 
@@ -719,21 +719,21 @@ in the Middle Ages, "stones of justice," marking the place where the
 holders of municipal jurisdiction sat in the open air; and thus it is
 easily explained how they everywhere became the symbol of municipal
 life, as also of popular privileges. <span
-id="fr_216"></span>[1](#fn_216) But this explanation leaves the question
+id="fr_216"></span>[1](#fn_216.md) But this explanation leaves the question
 of their origin untouched. Moreover, why were these stones surmounted by
 a column, and why did this column itself support a Fir-cone and a Cross?
 
 According to some, the *perron* might simply be a sort of Calvary, or
 even an elevated Cross, like that which figures on the farthings of
 Charlemagne, and on some coins of the bishop-princes; <span
-id="fr_217"></span>[2](#fn_217) according to others, it might date from
+id="fr_217"></span>[2](#fn_217.md) according to others, it might date from
 the Eburons, and represent an ancient druidical stone; <span
-id="fr_218"></span>[3](#fn_218) there are those, again, who attribute
+id="fr_218"></span>[3](#fn_218.md) there are those, again, who attribute
 it, together with the Fir-cone, to one or other of the Germanic races
 who successively occupied the basin of the Meuse; <span
-id="fr_219"></span>[4](#fn_219) whilst some, lastly, would wish to make
+id="fr_219"></span>[4](#fn_219.md) whilst some, lastly, would wish to make
 it a legacy of the Roman domination in Belgium. <span
-id="fr_220"></span>[5](#fn_220)
+id="fr_220"></span>[5](#fn_220.md)
 
 For my own part I consider that the *perron* of Liege may be resolved
 into five elements belonging
@@ -752,12 +752,12 @@ presence of sacred columns amongst the Frisians who occupied the valley
 of the Lower Rhine, nor far, consequently, from the Meuse; he even calls
 them Pillars of Hercules; however, he hastens to recall to mind that
 many things are fathered upon Hercules which do not belong to him. <span
-id="fr_221"></span>[1](#fn_221) The Saxons, that is to say the
+id="fr_221"></span>[1](#fn_221.md) The Saxons, that is to say the
 inhabitants of the right bank of the Rhine, venerated, on their side,
 wooden or stone pillars dedicated
 
 <span id="img_fig053"></span> ![FIG. 53. COLUMN OF HILDESHEIM. (KRATZ.
-Der Dom au Hildesheim, 2nd part, pl. vii., fig. 2.)](img/fig053.jpg)
+Der Dom au Hildesheim, 2nd part, pl. vii., fig. 2.)](img/fig053.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 53. Column of
 Hildesheim.</span>  
@@ -776,13 +776,13 @@ Liege.
 
 M. Piot, again, has proved that people were sworn on the *perron*. Now
 we learn from the Saga of Gudrun that amongst the Scandinavians they
-swore "by the holy white stone." <span id="fr_222"></span>[1](#fn_222)
+swore "by the holy white stone." <span id="fr_222"></span>[1](#fn_222.md)
 Moreover, there have been preserved until our own times, on the *tumuli*
 or *haugs* of the Scandinavian Peninsula, pillars of white stone to
 which the lower classes accord a certain veneration. One of these
 stones, now in the Bergen Museum, presents the similitude of a small
 pillar with an enlarged top three feet high and sixteen inches in
-diameter. <span id="fr_223"></span>[2](#fn_223)
+diameter. <span id="fr_223"></span>[2](#fn_223.md)
 
 Were the pillars of the Germanic nations dedicated to the divinities of
 the sky, or of war? Did they exhibit a *simulacrum* of Thor, of Odin, or
@@ -791,7 +791,7 @@ with respect to the Scandinavian *cippi*, or did they provide a
 cosmogonical symbol, as might be inferred from a passage in Adam of
 Bremen to the effect that, the Saxons venerated in their Irminsul the
 image of "the universal pillar which supports all things"? <span
-id="fr_224"></span>[3](#fn_224) All that can be said for the moment is
+id="fr_224"></span>[3](#fn_224.md) All that can be said for the moment is
 that these pillars had a religious character, and that they had to play
 a part in the social life, so intimately connected, amongst all
 barbarians, with the religious life of the people.
@@ -802,7 +802,7 @@ existence united but distinct," and represents the union of the tribes
 <span id="page_108">p. 108</span>
 
 leagued together against the dominion of Rome. <span
-id="fr_225"></span>[1](#fn_225) We do not find, however, that the
+id="fr_225"></span>[1](#fn_225.md) We do not find, however, that the
 Fir-cone admitted of this interpretation in the symbolism of the ancient
 Germans, or even of the Gauls. To tell the truth, we possess very little
 information on the particulars of Germanic symbols and even forms of
@@ -810,16 +810,16 @@ worship. To make up for this, however, we know that, in the Græco-Roman
 paganism, the fruit of the pine discharged prophylactic, sepulchral, and
 phallic functions.—Amongst the Etruscans the Fir-cone occurs frequently
 in tombs and on urns, sometimes alone, sometimes on the top of a
-pillar. <span id="fr_226"></span>[2](#fn_226) Does it there figure a
+pillar. <span id="fr_226"></span>[2](#fn_226.md) Does it there figure a
 representation of the flames on an altar, and does it consequently
 symbolize the persistency of life in death? The pillar, whole or broken,
 and often adorned with bas-reliefs, was a fairly common monument on
-Belgo-Roman tombs. <span id="fr_227"></span>[3](#fn_227) But we nowhere
+Belgo-Roman tombs. <span id="fr_227"></span>[3](#fn_227.md) But we nowhere
 find that it supported a Fir-cone, and nothing permits us to suppose
 that the *perrons* ever had a sepulchral acceptation.—Moreover, the
 Thyrsus of Bacchus, composed of a stalk crowned by the fruit of the
 pine, was a familiar emblem in classic paganism. <span
-id="fr_228"></span>[4](#fn_228) An emblem of the same kind was borne by
+id="fr_228"></span>[4](#fn_228.md) An emblem of the same kind was borne by
 Sylvanus Dendrophorus, that old god of the Latin forests, assimilated at
 a later date, on so many Gallic monuments, to one of the principal
 divinities
@@ -831,7 +831,7 @@ of the Celtic pantheon, if not its supreme god—the god with the Mallet:
 <div style="margin-left: 32px">
 
 <span class="small">*Et teneram ab radice ferens, Sylvane,
-cupressum*. <span id="fr_229"></span>[1](#fn_229)</span>
+cupressum*. <span id="fr_229"></span>[1](#fn_229.md)</span>
 
 </div>
 
@@ -848,7 +848,7 @@ It is probable that the *pyr* of Augsburg, that gigantic Fir-cone,
 depicted, from time immemorial,
 
 <span id="img_fig054"></span> ![FIG. 54. THE PYR OF
-AUGSBURG.](img/fig054.jpg)
+AUGSBURG.](img/fig054.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 54. The Pyr of
 Augsburg</span>.</span>
@@ -860,7 +860,7 @@ altar of the *duumviri*. The pine-fruit is there sculptured at the top
 of a pillar ornamented with flower-work, which separates the statues of
 the two municipal magistrates, exactly as, at Liege, the *perron*
 figures between the coats of arms of the two annual burgomasters. <span
-id="fr_230"></span>[2](#fn_230)
+id="fr_230"></span>[2](#fn_230.md)
 
 <span id="page_110">p. 110</span>
 
@@ -878,7 +878,7 @@ ago, an antique column surmounted by a Fir-cone with a Cross on the top.
 We have likewise the proof that the Fir-cone,
 
 <span id="img_fig055"></span> ![FIG. 55. BUCKLE FROM ENVERMEU. (COCHET.
-La Normandie souterraine, pl. xii., No. 4.)](img/fig055.jpg)
+La Normandie souterraine, pl. xii., No. 4.)](img/fig055.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 55. Buckle from
 Envermeu</span>.  
@@ -886,7 +886,7 @@ Envermeu</span>.
 xii., No. 4.)</span>
 
 <span id="img_fig056"></span> ![FIG. 56. BUCKLE FROM EPRAVE. (A. BEQUET.
-Soc. arch. de Namur, vol. xv., p. 315.)](img/fig056.jpg)
+Soc. arch. de Namur, vol. xv., p. 315.)](img/fig056.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 56. Buckle From
 Eprave</span>.  
@@ -908,14 +908,14 @@ prototype of the *perrons*. We have there, in the middle of a support or
 pedestal, which is placed between two peacocks facing one another, a
 long stalk, capped by a conical object, whose resemblance to the
 Fir-cone at once struck the Abbe Cochet, though at that moment he was
-little thinking of the *perrons* of Belgium (figs. [55](#img_fig055),
-[56](#img_fig056)). <span id="fr_231"></span>[1](#fn_231)
+little thinking of the *perrons* of Belgium (figs. [55](#img_fig055.md),
+[56](#img_fig056)). <span id="fr_231"></span>[1](#fn_231.md)
 
 It is to be remarked that the two birds facing one another are also met
 with on the sides of the
 
 <span id="img_fig057"></span> ![FIG. 57. SEAL OF LIEGE ad legata.
-(LOYENS. Recueil héraldique des bourgmestres, p. 2.)](img/fig057.jpg)
+(LOYENS. Recueil héraldique des bourgmestres, p. 2.)](img/fig057.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 57. Seal of
 Liege</span> ad legata.  
@@ -923,9 +923,9 @@ Liege</span> ad legata.
 bourgmestres*, p. 2.)</span>
 
 *perron* on the earliest coin of Liege, on which an attempt is made to
-represent this monument with the Fir-cone ([fig. 52](#img_fig052)), and
+represent this monument with the Fir-cone ([fig. 52](#img_fig052).md), and
 also on a seal which Loyens attributes to the year 1348 ([fig.
-57](#img_fig057)).
+57](#img_fig057).md).
 
 If the fact be insisted upon, that the stalk engraved in the Frankish
 image seems to be of wood, I will remark that the symbolical pillars of
@@ -935,10 +935,10 @@ image seems to be of wood, I will remark that the symbolical pillars of
 the ancient Germans were made of wood as well as of stone. This was
 particularly the case with the Irminsul, which the oldest chronicles
 define as the trunk of a tree erected in the open air. <span
-id="fr_232"></span>[1](#fn_232)The Hessians of the eighth century, who
+id="fr_232"></span>[1](#fn_232.md)The Hessians of the eighth century, who
 lived on the Lower Rhine, still venerated, at the time when they were
 evangelized by St. Boniface, the trunk of a tree, which was to them the
-*simulacrum* of the god Thor. <span id="fr_233"></span>[2](#fn_233)
+*simulacrum* of the god Thor. <span id="fr_233"></span>[2](#fn_233.md)
 
 Do not our May-Poles, often a mere stalk surrounded with ribbons, take
 us back to the time when Lucan sang of our forefathers:
@@ -947,7 +947,7 @@ us back to the time when Lucan sang of our forefathers:
 
 <span class="small">              simulacraque mœsta deorum  
 Arte carent, cæsisque extant informia truncis <span
-id="fr_234"></span>[3](#fn_234)?</span>
+id="fr_234"></span>[3](#fn_234.md)?</span>
 
 </div>
 
@@ -968,30 +968,30 @@ however, it was the canons
 <span id="page_113">p. 113</span>
 
 who indulged in it on the Sunday of the *Lætare* itself. <span
-id="fr_235"></span>[1](#fn_235)
+id="fr_235"></span>[1](#fn_235.md)
 
 We have, moreover, a more direct proof that the representation of the
 stalk, surmounted by a Fir-cone, and placed between animals facing one
 another, figured in Christian imagery from the eighth century of our
 era. The sculptures in question are taken, one from the parapet of the
-cathedral of Torcello, near Venice ([fig. 58](#img_fig058)), and
+cathedral of Torcello, near Venice ([fig. 58](#img_fig058).md), and
 
 <span id="img_fig058"></span> ![FIG. 58. FROM THE CATHEDRAL OF
-TORCELLO.](img/fig058.jpg)
+TORCELLO.](img/fig058.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 58. From the Cathedral
 of Torcello</span>.</span>
 
 <span id="img_fig059"></span> ![FIG. 59. FROM THE ATHENS
-CATHEDRAL.](img/fig059.jpg)
+CATHEDRAL.](img/fig059.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 59. From the Athens
 Cathedral</span>.</span>
 
 the other from a bas-relief on the Athens cathedral ([fig.
-59](#img_fig059)). Both of them are reproduced in the remarkable work of
+59](#img_fig059).md). Both of them are reproduced in the remarkable work of
 M. R. Cattaneo, *L’architecture en Italie*. <span
-id="fr_236"></span>[2](#fn_236)
+id="fr_236"></span>[2](#fn_236.md)
 
 3\. *The Cross*.—Tradition relates that the Christian missionaries
 everywhere overthrew, amongst the Belgians, the altars of Thor and of
@@ -1007,7 +1007,7 @@ was placed on the *perron*, and the oaths which were taken on the
 "sacred whitestone" continued to be taken on the Cross which sanctified
 the ancient *simulacrum*. In Sweden also *cippi* are found, similar to
 the one I have mentioned above, on the top of which the Cross has been
-incised. <span id="fr_237"></span>[1](#fn_237)
+incised. <span id="fr_237"></span>[1](#fn_237.md)
 
 The Abbe Cochet thinks that the figures engraved on the Envermeu plate
 denote a Christian symbol, because we find in the Catacombs, and even in
@@ -1040,7 +1040,7 @@ serpents, and this also may be one of the reasons
 <span id="img_fig060"></span> <span align="CENTER"> [![FIG. 60. CLOTH
 FROM MASULIPATAM. (Sir G. BIRDWOOD. The Industrial Arts of India.
 1880.](tn/fig060.jpg)  
-Click to enlarge](img/fig060.jpg)  
+Click to enlarge](img/fig060.jpg.md)  
   
 </span>
 
@@ -1050,7 +1050,7 @@ Masulipatam.</span>
 India*. 1880.</span>
 
 which brought about its introduction into Christian symbolism. <span
-id="fr_238"></span>[1](#fn_238)
+id="fr_238"></span>[1](#fn_238.md)
 
 It is evident that, at least in its outlines, all this iconography takes
 us backwards, far beyond Christianity, into the very midst of antique
@@ -1068,7 +1068,7 @@ Thus, to sum up, the *perron* of Liege includes in harmonious order the
 legacies and, so to speak, the witnesses, of all the civilizations which
 have succeeded one another in this part of Belgium. In this respect it
 is more than a symbol of municipal liberty; it is the embodiment of the
-very history of the nation. <span id="fr_239"></span>[1](#fn_239)
+very history of the nation. <span id="fr_239"></span>[1](#fn_239.md)
 
 <span id="page_117">p. 117</span>
 
@@ -1076,41 +1076,41 @@ very history of the nation. <span id="fr_239"></span>[1](#fn_239)
 
 ### Footnotes
 
-<span id="fn_185"></span>[85:1](mosy10.htm#fr_185) <span
+<span id="fn_185"></span>[85:1](mosy10.htm#fr_185.md) <span
 class="smallcaps">H. Gaidoz</span>. *Le symbolisme de la roue*, p. 113.
 
-<span id="fn_186"></span>[85:2](mosy10.htm#fr_186) <span
+<span id="fn_186"></span>[85:2](mosy10.htm#fr_186.md) <span
 class="smallcaps">G. Lafaye</span>. *Histoire des divinités d’Alexandrie
 hors de l’Egypte*. Paris, 1884, p. 259.
 
-<span id="fn_187"></span>[86:1](mosy10.htm#fr_187) <span
+<span id="fn_187"></span>[86:1](mosy10.htm#fr_187.md) <span
 class="smallcaps">Clermont-Ganneau</span>. *Horus et saint George*, in
 the *Revue archéologique* of 1873, fig. 13.
 
-<span id="fn_188"></span>[86:2](mosy10.htm#fr_188) <span
+<span id="fn_188"></span>[86:2](mosy10.htm#fr_188.md) <span
 class="smallcaps">P. Decharme</span>. *Mythologie de la Grèce antique*.
 Paris, 1886, fig. 161.
 
-<span id="fn_189"></span>[86:3](mosy10.htm#fr_189) *Mélusine*. The
+<span id="fn_189"></span>[86:3](mosy10.htm#fr_189.md) *Mélusine*. The
 number for November-December, 1892.
 
-<span id="fn_190"></span>[87:1](mosy10.htm#fr_190) According to a recent
+<span id="fn_190"></span>[87:1](mosy10.htm#fr_190.md) According to a recent
 communication from Mr. Th. J. Pinches (*Babylonian and Oriental Record*
 of October, 1890), *Gilgames* would seem to be the definite
 pronunciation of this name, which has been read in such different ways
 in the cuneiform texts.
 
-<span id="fn_191"></span>[88:1](mosy10.htm#fr_191) <span
+<span id="fn_191"></span>[88:1](mosy10.htm#fr_191.md) <span
 class="smallcaps">Martigny</span>. *Dictionnaire des antiquités
 chrétiennes*. Paris, 1865, p. 201.—See also <span class="smallcaps">De
 Gaumont</span>. *Mélanges d’archéologie religieuse*. Paris, 5th edition,
 p. 68.
 
-<span id="fn_192"></span>[89:1](mosy10.htm#fr_192) *Cf*. especially the
+<span id="fn_192"></span>[89:1](mosy10.htm#fr_192.md) *Cf*. especially the
 bas-reliefs on the baptistery at Parma. (*Revue archéologique*. Paris,
 1853, vol. x., pl. 216.)
 
-<span id="fn_193"></span>[89:2](mosy10.htm#fr_193) In the Strasburg
+<span id="fn_193"></span>[89:2](mosy10.htm#fr_193.md) In the Strasburg
 Cathedral there is a statue representing an individual clothed in the
 skin of a lion and holding in his hand a club. It was long thought to be
 an ancient statue to which the Christian edifice had extended its
@@ -1119,103 +1119,103 @@ suggested probably by images of the Gallo-Roman Hercules, like those
 bronze ones which have been found in the neighbourhood of Strasburg.
 (*Revue archéologique*, 1870–71, vol. xxii., p. 246.)
 
-<span id="fn_194"></span>[89:3](mosy10.htm#fr_194) <span
+<span id="fn_194"></span>[89:3](mosy10.htm#fr_194.md) <span
 class="smallcaps">Th. Roller</span>. Catacombes, vol. ii., pl. iv., No.
 1.
 
-<span id="fn_195"></span>[90:1](mosy10.htm#fr_195) <span
+<span id="fn_195"></span>[90:1](mosy10.htm#fr_195.md) <span
 class="smallcaps">Sozomen</span>. *Hist. ecclés.*, vii., 15, p. 725 B.
 
-<span id="fn_196"></span>[90:2](mosy10.htm#fr_196) <span
+<span id="fn_196"></span>[90:2](mosy10.htm#fr_196.md) <span
 class="smallcaps">Strabo</span>. *Liv*. ix., ch. iii.
 
-<span id="fn_197"></span>[91:1](mosy10.htm#fr_197) <span
+<span id="fn_197"></span>[91:1](mosy10.htm#fr_197.md) <span
 class="smallcaps">François Lenormant</span>, in the *Gazette
 archéologique* of 1878, p. 75 *et seq.*
 
-<span id="fn_198"></span>[92:1](mosy10.htm#fr_198) Since the publication
+<span id="fn_198"></span>[92:1](mosy10.htm#fr_198.md) Since the publication
 of the French edition of this work Sir George Birdwood has pointed out
 to me two representations of the *omphalos* where the Sacred Stone is
-found with two doves on its sides; one ([fig. 42a](#img_fig042)) is
+found with two doves on its sides; one ([fig. 42a](#img_fig042).md) is
 taken from a coin of Cyzicus (*Numismatic Review*, vol. vii. (3rd
 series), pl. i., No. 23), the other from a marble bas-relief found at
 Sparta (*Mittheilungen des Deutschen Archäologischen Instituts in
 Athen*, 1889, vol. xii., pl. 12).
 
-<span id="fn_199"></span>[93:1](mosy10.htm#fr_199) <span
+<span id="fn_199"></span>[93:1](mosy10.htm#fr_199.md) <span
 class="smallcaps">De Chestret</span>. *Numismatique de la province de
 Liege*. Brussels, 1888, p. 54.
 
-<span id="fn_200"></span>[93:2](mosy10.htm#fr_200) The same subject
+<span id="fn_200"></span>[93:2](mosy10.htm#fr_200.md) The same subject
 seems to have passed into India, if we are to judge from the doves and
 other birds found facing one another on the roofs of the palaces
 represented in the Buddhist bas-reliefs of Boro-Budur. (<span
 class="smallcaps">Leemans</span>. *Boro Boedoer op het eiland Java*.
 Leyden, 1893. Atlas, pl. lxvi., fig. 102; cxliv., fig. 22, etc.)
 
-<span id="fn_201"></span>[94:1](mosy10.htm#fr_201) The origin of this
+<span id="fn_201"></span>[94:1](mosy10.htm#fr_201.md) The origin of this
 type is found, perhaps, among the Phœnician people, where it was merely
 meant to represent the believer, or the sacrificer, bringing the sheep
 or the ram destined for the sacrifice. (*Cf*. <span
 class="smallcaps">Perrot</span> et <span
 class="smallcaps">Chipiez</span>, vol. iii., figs. 307, 308, and 402.)
 
-<span id="fn_202"></span>[95:1](mosy10.htm#fr_202) <span
+<span id="fn_202"></span>[95:1](mosy10.htm#fr_202.md) <span
 class="smallcaps">Th. Roller</span>. *Les catacombes de Rome*. Paris,
 vol. ii., pp. 370–372.
 
-<span id="fn_203"></span>[95:2](mosy10.htm#fr_203) *Sanchoniathonis
+<span id="fn_203"></span>[95:2](mosy10.htm#fr_203.md) *Sanchoniathonis
 Fragmenta*, ed. Orelli, p. 38.
 
-<span id="fn_204"></span>[98:1](mosy10.htm#fr_204) <span
+<span id="fn_204"></span>[98:1](mosy10.htm#fr_204.md) <span
 class="smallcaps">Gubernatis</span>. *Zoological Mythology*. London,
 1872, vol. ii., p. 196.
 
-<span id="fn_205"></span>[99:1](mosy10.htm#fr_205) In the Vedas Indra's
+<span id="fn_205"></span>[99:1](mosy10.htm#fr_205.md) In the Vedas Indra's
 weapon is defined as "the stone with four points which brings the rain"
 (Rig. Veda, 4, 22, 1–2). Now the *vajra* of Indra had so exactly the
 form of a St. Andrew's cross that the term *vajrarupa*, "vajra-shaped,"
 is the equivalent of our expression "in the form of the letter X."
 (*Cf*. *Dictionnaire de Saint-Pétersbourg*, 6, 630.)
 
-<span id="fn_206"></span>[99:2](mosy10.htm#fr_206) <span
+<span id="fn_206"></span>[99:2](mosy10.htm#fr_206.md) <span
 class="smallcaps">Barclay V. Head</span>. *Catalogue of Indian Coins in
 the British Museum*. London, 1886, p. 147 *et seq.*
 
-<span id="fn_207"></span>[99:3](mosy10.htm#fr_207) The *dordj* appears
+<span id="fn_207"></span>[99:3](mosy10.htm#fr_207.md) The *dordj* appears
 already on the bas-reliefs of Sanchi.
 
-<span id="fn_208"></span>[100:1](mosy10.htm#fr_208) <span
+<span id="fn_208"></span>[100:1](mosy10.htm#fr_208.md) <span
 class="smallcaps">Gustave Le Bon</span>. *Voyage au Népaul* in the *Tour
 du Monde*, 1886, li., p. 266.
 
-<span id="fn_209"></span>[100:2](mosy10.htm#fr_209) <span
+<span id="fn_209"></span>[100:2](mosy10.htm#fr_209.md) <span
 class="smallcaps">J. Menant</span>. *Pierres gravies de la Haute-Asie*,
 vol. ii., p.191.
 
-<span id="fn_210"></span>[101:1](mosy10.htm#fr_210) <span
+<span id="fn_210"></span>[101:1](mosy10.htm#fr_210.md) <span
 class="smallcaps">C. A. Serrure</span>. La numismatique et l’archéologie
 gauloise, in the *Annales de la Société d’archéologie de Bruxelles*,
 vol. iv., p. 58.
 
-<span id="fn_211"></span>[101:2](mosy10.htm#fr_211) <span
+<span id="fn_211"></span>[101:2](mosy10.htm#fr_211.md) <span
 class="smallcaps">Ch. Robert</span>. *Lettre à M. R. Chalon*, in the
 *Revue belge de numismatique* of 1859, p. 133 *et seq.* It must be
 observed that the letter H is the first in Hannonia (Hainault).
 
-<span id="fn_212"></span>[102:1](mosy10.htm#fr_212) See chaps. v. and
+<span id="fn_212"></span>[102:1](mosy10.htm#fr_212.md) See chaps. v. and
 vi.
 
-<span id="fn_213"></span>[104:1](mosy10.htm#fr_213) <span
+<span id="fn_213"></span>[104:1](mosy10.htm#fr_213.md) <span
 class="smallcaps">Jules Borgnet</span>. *L’Hôtel de ville et le Perron
 de Namur*, in the *Messager des sciences historiques*. Ghent, 1846, p.
 235.
 
-<span id="fn_214"></span>[104:2](mosy10.htm#fr_214) <span
+<span id="fn_214"></span>[104:2](mosy10.htm#fr_214.md) <span
 class="smallcaps">Loyens</span>. *Recueil héraldique des bourgmestres de
 la noble cité de Liège*. Liège, 1720.
 
-<span id="fn_215"></span>[104:3](mosy10.htm#fr_215) The name itself
+<span id="fn_215"></span>[104:3](mosy10.htm#fr_215.md) The name itself
 means simply "stone" (from *petronem*). It <span id="page_105">p.
 105</span> is generally used in the sense of a stone with steps, a stone
 staircase. Yet, in the vicinity of Verdes, in France, there are several
@@ -1224,97 +1224,97 @@ artificial mounds, composed of heaps of stones, which are named
 visite à Verdes*, by M. Ludovic Guignard (from the *Bulletin de la
 Societé Dunoise*. Chateaudun, 1891.)
 
-<span id="fn_216"></span>[105:1](mosy10.htm#fr_216) <span
+<span id="fn_216"></span>[105:1](mosy10.htm#fr_216.md) <span
 class="smallcaps">Ch. Piot</span>. *Observations sur le perron de
 Liège*, in the *Revue belge de numismatique*, vol. iii., p. 369 *et
 seq.*
 
-<span id="fn_217"></span>[105:2](mosy10.htm#fr_217) <span
+<span id="fn_217"></span>[105:2](mosy10.htm#fr_217.md) <span
 class="smallcaps">Baron de Chestret</span>. *Le perron liégeois*, in the
 Reports of the *Institut archéologique liégeois*, vol. xviii. (1885), p.
 175 *et seq.*
 
-<span id="fn_218"></span>[105:3](mosy10.htm#fr_218) <span
+<span id="fn_218"></span>[105:3](mosy10.htm#fr_218.md) <span
 class="smallcaps">Hénaux</span>. *Le Péron de Liège*, in the *Revue de
 Liège*, vol. vi. (1846), p. 86 *et seq.*
 
-<span id="fn_219"></span>[105:4](mosy10.htm#fr_219) <span
+<span id="fn_219"></span>[105:4](mosy10.htm#fr_219.md) <span
 class="smallcaps">Ch. Rahlenbeek</span>. *Le Perron de Liège*, in the
 *Revue de Belgique*, vol. lxv. (1890), p. 31 *et seq.*
 
-<span id="fn_220"></span>[105:5](mosy10.htm#fr_220) <span
+<span id="fn_220"></span>[105:5](mosy10.htm#fr_220.md) <span
 class="smallcaps">Eug. Dognée</span>. *Liège*, in the *Collection
 nationale*, Brussels, 1 vol. ill., pp. 24–27.
 
-<span id="fn_221"></span>[106:1](mosy10.htm#fr_221) *De mor. German.*,
+<span id="fn_221"></span>[106:1](mosy10.htm#fr_221.md) *De mor. German.*,
 xxiv.
 
-<span id="fn_222"></span>[107:1](mosy10.htm#fr_222) "At enom hvita helga
+<span id="fn_222"></span>[107:1](mosy10.htm#fr_222.md) "At enom hvita helga
 Steini" (*Godrunar-Harmr*, str. 47). (In *Edda Saemundar Hinns Fróda*,
 Stockholm, 1818, p. 237.)
 
-<span id="fn_223"></span>[107:2](mosy10.htm#fr_223) <span
+<span id="fn_223"></span>[107:2](mosy10.htm#fr_223.md) <span
 class="smallcaps">Holmboe</span>. *Traces de Bouddhisme en Norvège*,
 fig. 10.
 
-<span id="fn_224"></span>[107:3](mosy10.htm#fr_224) *Gesta
+<span id="fn_224"></span>[107:3](mosy10.htm#fr_224.md) *Gesta
 Hammenburgensis Ecclesiæ pontificum*, Hamburg, 1706, lib. i., ch. vi.
 
-<span id="fn_225"></span>[108:1](mosy10.htm#fr_225) <span
+<span id="fn_225"></span>[108:1](mosy10.htm#fr_225.md) <span
 class="smallcaps">Henaux</span>. *Loc. cit.*, p. 91.
 
-<span id="fn_226"></span>[108:2](mosy10.htm#fr_226) <span
+<span id="fn_226"></span>[108:2](mosy10.htm#fr_226.md) <span
 class="smallcaps">G. Dennis</span>. *The Cities and Cemeteries of
 Etruria*. London, 1848, vol. ii., pp. 157, 193, and 492.—*Cf*. <span
 class="smallcaps">Jos. Micali</span>. *Monuments antiques*. Paris, 1824,
 tab. xxxvi.
 
-<span id="fn_227"></span>[108:3](mosy10.htm#fr_227) <span
+<span id="fn_227"></span>[108:3](mosy10.htm#fr_227.md) <span
 class="smallcaps">L. Van der Kindere</span>. *Introduction à l’histoire
 des institutions de la Belgique au moyen âge*. Brussels, 1890, p. 86.
 
-<span id="fn_228"></span>[108:4](mosy10.htm#fr_228) It must be also
+<span id="fn_228"></span>[108:4](mosy10.htm#fr_228.md) It must be also
 taken into consideration that the burning altar often represented, as is
-seen at Mycenæ (see below, [fig. 74](mosy11.htm#img_fig074)), by a
+seen at Mycenæ (see below, [fig. 74](mosy11.htm#img_fig074).md), by a
 cylindrical pyre surmounted by a triangular-shaped flame, was accounted
 the centre and palladium of the city in the most ancient republics of
 antiquity. (*Cf*. <span class="smallcaps">Fustel de Coulanges</span>.
 *La cité antique*.)—But this tradition does not seem to have spread
 beyond Greece and Italy.
 
-<span id="fn_229"></span>[109:1](mosy10.htm#fr_229) *Georg*., i., 20.
+<span id="fn_229"></span>[109:1](mosy10.htm#fr_229.md) *Georg*., i., 20.
 
-<span id="fn_230"></span>[109:2](mosy10.htm#fr_230) <span
+<span id="fn_230"></span>[109:2](mosy10.htm#fr_230.md) <span
 class="smallcaps">Von Raiser</span>. *Die romischen Alterthümer zu
 Augsburg*. Augsburg, 1820, pl. xxi.
 
-<span id="fn_231"></span>[111:1](mosy10.htm#fr_231) Abbé <span
+<span id="fn_231"></span>[111:1](mosy10.htm#fr_231.md) Abbé <span
 class="smallcaps">Cochet</span>. *La Normandie souterraine*. Paris,
 1855, p. 344—<span class="smallcaps">A. Bequet</span>. *Nos fouilles en*
 1880, in the *Annales de la Société archéologique de Namur*, vol. xv.,
 p. 315.
 
-<span id="fn_232"></span>[112:1](mosy10.htm#fr_232) "Truncum quoque
+<span id="fn_232"></span>[112:1](mosy10.htm#fr_232.md) "Truncum quoque
 ligni non parvæ magnitudinis in altum erectum sub divo colebant patria
 eum linguâ Irminsul appelantes, quod Latine dicitur universalis columna
 quasi sustinens omnia." (*Op. cit.*, liv. i., ch. vi.)
 
-<span id="fn_233"></span>[112:2](mosy10.htm#fr_233) "Robur Jovis sive
+<span id="fn_233"></span>[112:2](mosy10.htm#fr_233.md) "Robur Jovis sive
 Thori deastri." (<span class="smallcaps">Eckart</span>. *Commentarii de
 rebus Franciæ orientalis*. Wurzburg, 1729, p. 344.)
 
-<span id="fn_234"></span>[112:3](mosy10.htm#fr_234) *Pharsalia*, iii,
+<span id="fn_234"></span>[112:3](mosy10.htm#fr_234.md) *Pharsalia*, iii,
 412.
 
-<span id="fn_235"></span>[113:1](mosy10.htm#fr_235) <span
+<span id="fn_235"></span>[113:1](mosy10.htm#fr_235.md) <span
 class="smallcaps">Eckart</span>. *Op. cit.*, p. 221.—<span
 class="smallcaps">Meibom</span>. <span class="smallcaps">De Irminsula
 Saxonica</span>, p. 20.
 
-<span id="fn_236"></span>[113:2](mosy10.htm#fr_236) Translated into
+<span id="fn_236"></span>[113:2](mosy10.htm#fr_236.md) Translated into
 French by M. Lemonnier. Venice, 1891, figs. 19 and 165.
 
-<span id="fn_237"></span>[114:1](mosy10.htm#fr_237) <span
+<span id="fn_237"></span>[114:1](mosy10.htm#fr_237.md) <span
 class="smallcaps">Liliegren</span>. *Nord Fomlemningar*, ii., No.
 xci.—*Cf*. <span class="smallcaps">Cartailhac</span>. *La France
 préhistorique*. Paris, 1889, p. 317: "Many unhewn pillars in the
@@ -1322,10 +1322,10 @@ departments of the Yonne, Côtes du Nord, Finisterre, Morbihan, Indre,
 Creuse, Puy-de-Dôme, Saône-et-Loire, etc., bear Crosses and even
 Madonnas."
 
-<span id="fn_238"></span>[115:1](mosy10.htm#fr_238) <span
+<span id="fn_238"></span>[115:1](mosy10.htm#fr_238.md) <span
 class="smallcaps">Maccarius</span>. *Hagioglypta*. Paris, 1856, p. 205.
 
-<span id="fn_239"></span>[116:1](mosy10.htm#fr_239) My dissertation upon
+<span id="fn_239"></span>[116:1](mosy10.htm#fr_239.md) My dissertation upon
 the origins of the *perron* has had the privilege of reviving, in
 Belgium, the controversies which this subject seems never to exhaust. We
 must instance, in particular, the recent works of MM. Léon Van der
@@ -1375,4 +1375,4 @@ of the 3rd of May, 1891.)
 
 ------------------------------------------------------------------------
 
-[Next: I. The Sacred Tree and its Acolytes](mosy11)
+[Next: I. The Sacred Tree and its Acolytes](mosy11.md)

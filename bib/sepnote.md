@@ -4,8 +4,8 @@ title: "List of gaps in Septuagint verse and chapter numbering"
 ---
 <span class="p-small2"> </span>
 
-[Intangible Textual Heritage home](../index)  [Bible](index) 
-[Septuagint](sep/index)
+[Intangible Textual Heritage home](../index)  [Bible](index.md) 
+[Septuagint](sep/index.md)
 
 ## List of gaps in Septuagint verse and chapter numbering
 

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod17)  [Next](hod19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod17)  [Next](hod19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ arguments
 <span id="img_37100"></span> <span align="CENTER"> [![APPARITIONS OF THE
 CROSS.&lt;br&gt; From Grünbeck's &lt;i&gt;Eine neuve auszlegung der
 seltzamen wunderzaichen&lt;/i&gt; (1507)](tn/generic.jpg)  
-Click to view](img/37100.jpg)  
+Click to view](img/37100.jpg.md)  
 APPARITIONS OF THE CROSS.  
 From Grünbeck's *Eine neuve auszlegung der seltzamen wunderzaichen*
 (1507)  
@@ -67,19 +67,19 @@ productions (such as, e. g., Grünbeck's *New Interpretation of Strange
 Miracles*, which appeared in the year 1507) attracted the attention of
 the world and passed for divine revelations. The more uncanny they were,
 the higher was the credit they received. <span
-id="fr_208"></span>[1](#fn_207)
+id="fr_208"></span>[1](#fn_207.md)
 
 There is a remarkable instance on record that the hangman of Vienna
 refused to perform his office on Oct. 21, 1498. The execution had to be
 delayed until another hangman could be procured. <span
-id="fr_209"></span>[2](#fn_208) Another case is mentioned by
-Soldan. <span id="fr_210"></span>[3](#fn_209) Katharine Hensel of
+id="fr_209"></span>[2](#fn_208.md) Another case is mentioned by
+Soldan. <span id="fr_210"></span>[3](#fn_209.md) Katharine Hensel of
 Feckelberg was sentenced to die in June, 1576, but when at the place of
 execution she pleaded her innocence, the hangman refused to execute her.
 The case was referred to the Palsgrave George John of Veldenz who after
 a careful examination of the trial ordered an acquittal and condemned
 the township Feckelberg to bear the costs. <span
-id="fr_211"></span>[4](#fn_210)
+id="fr_211"></span>[4](#fn_210.md)
 
 The famous Erasmus of Rotterdam published a letter in the year 1500 in
 which be spoke of devil-contracts as an invention made by the
@@ -134,11 +134,11 @@ knees before the assembled dignitaries of the Church. He died in 1595 of
 the plague, which probably saved him from an execution at the stake.
 Loos's manuscript was supposed to be lost but was recently discovered by
 Prof. George Lincoln Burr of Cornell University. <span
-id="fr_212"></span>[1](#fn_211)
+id="fr_212"></span>[1](#fn_211.md)
 
 *Three Noble Jesuits*.
 
-Adam Tanner <span id="fr_213"></span>[2](#fn_212) (1572-1632) and Paul
+Adam Tanner <span id="fr_213"></span>[2](#fn_212) (1572-1632.md) and Paul
 Laymann (1575-1635), two Jesuits of South Germany, strongly advised the
 judges to be very careful in lawsuits against witches. When death
 overtook Tanner on a journey, in a little place called Unken, the
@@ -148,7 +148,7 @@ little
 <span id="page_375">p. 375</span>
 
 imp" on a glass plate was found among his things. It was an insect
-prepared for the microscope. <span id="fr_214"></span>[1](#fn_213) The
+prepared for the microscope. <span id="fr_214"></span>[1](#fn_213.md) The
 curate of Unken, however, succeeded in convincing his congregation of
 the harmless nature of the "imp," and they at last consented to the
 interment in their cemetery.
@@ -159,7 +159,7 @@ superstition of burning witches. This man is Friedrich Spee von
 Langenfeld (1591-1635), a poet and the author of a collection of songs
 called *Trutznachtigall* (spite-nightingale), whose warnings remained
 unheeded, "as a voice crying in the wilderness." His *Cautio criminalis*
-(published anonymously <span id="fr_215"></span>[2](#fn_214) in 1631)
+(published anonymously <span id="fr_215"></span>[2](#fn_214) in 1631.md)
 was an appeal, much needed at the time, to the German authorities anent
 their legal proceedings against witches.
 
@@ -187,7 +187,7 @@ were</span>
 <span id="img_37600"></span> <span align="CENTER"> [![FRIEDRICH VON
 SPEE.&lt;br&gt; After a photograph of the oil picture in the
 Marzellen-Gymnasium at Cologne.](tn/generic.jpg)  
-Click to view](img/37600.jpg)  
+Click to view](img/37600.jpg.md)  
 FRIEDRICH VON SPEE.  
 After a photograph of the oil picture in the Marzellen-Gymnasium at
 Cologne.  
@@ -236,7 +236,7 @@ Switzerland, it ceased in 1632.
 
 <span id="img_37800"></span> <span align="CENTER"> [![ILLUSTRATION FROM
 THE “DRUTENZEITUNG,” 1627](tn/generic.jpg)  
-Click to view](img/37800.jpg)  
+Click to view](img/37800.jpg.md)  
 ILLUSTRATION FROM THE “DRUTENZEITUNG,” 1627  
 </span>
 
@@ -258,7 +258,7 @@ of the disorders of the English civil wars of the seventeenth century
 and made a special business of the discovery of witches. He was quite
 successful, until his own methods were tried on his own person, and as
 he did not sink in the water ordeal, the people declared him to be a
-wizard and slew him (1647). <span id="fr_216"></span>[1](#fn_215) Butler
+wizard and slew him (1647). <span id="fr_216"></span>[1](#fn_215.md) Butler
 describes Hopkins's career in Hudibras as follows:
 
 <div style="margin-left: 32px">
@@ -299,11 +299,11 @@ to stop him.
 
 <span id="img_38000"></span> <span align="CENTER"> [![BALTHASAR
 BEKKER.](tn/generic.jpg)  
-Click to view](img/38000.jpg)  
+Click to view](img/38000.jpg.md)  
 BALTHASAR BEKKER.  
 </span>
 
- <span id="fr_217"></span>[1](#fn_216)
+ <span id="fr_217"></span>[1](#fn_216.md)
 
 At the end of the seventeenth century the polemics against the belief in
 the Devil began to grow bolder and ever bolder. A Dutch physician, Anton
@@ -326,7 +326,7 @@ Balthasar Bekker, a Dutch clergyman of German
 AUTOGRAPH.&lt;br&gt; Reproduced from his original handwriting in the
 first Dutch edition of &lt;i&gt;De betoverde
 Weereld&lt;/i&gt;.](tn/generic.jpg)  
-Click to view](img/38100.jpg)  
+Click to view](img/38100.jpg.md)  
 BEKKER'S AUTOGRAPH.  
 Reproduced from his original handwriting in the first Dutch edition of
 *De betoverde Weereld*.  
@@ -347,7 +347,7 @@ innocent victims.
 <span id="img_38200"></span> <span align="CENTER"> [![CHRISTIAN
 THOMASIUS.&lt;br&gt; Reduced from a copper engraving by M.
 Bernigroth.](tn/generic.jpg)  
-Click to view](img/38200.jpg)  
+Click to view](img/38200.jpg.md)  
 CHRISTIAN THOMASIUS.  
 Reduced from a copper engraving by M. Bernigroth.  
 </span>
@@ -372,7 +372,7 @@ own error; and now he deemed it his duty to devote the
 
 <span id="img_38300"></span> <span align="CENTER"> [![SIGNATURE OF
 CHRISTIAN THOMASIUS.](tn/generic.jpg)  
-Click to view](img/38300.jpg)  
+Click to view](img/38300.jpg.md)  
 SIGNATURE OF CHRISTIAN THOMASIUS.  
 </span>
 
@@ -435,7 +435,7 @@ considerable fame in his days, as follows:
 
 <span id="img_38500"></span> <span align="CENTER"> [![SCHOTTEL'S WHEEL
 OF HELL.](tn/generic.jpg)  
-Click to view](img/38500.jpg)  
+Click to view](img/38500.jpg.md)  
 SCHOTTEL'S WHEEL OF HELL.  
 </span>
 
@@ -452,7 +452,7 @@ of hell are darkness; the places of rest of the damned are serpents and
 vipers; their hope is despair. O, eternal death! O, life without life!
 O, misery without end!'"</span>
 
-Justus Georg Schottel, <span id="fr_218"></span>[1](#fn_217) whilom
+Justus Georg Schottel, <span id="fr_218"></span>[1](#fn_217.md) whilom
 member of the Consistory of Brunswick-Lüneburg, and councillor to the
 
 <span id="page_386">p. 386</span>
@@ -482,7 +482,7 @@ eternity and these iron eternal years, etc., etc."</span>
 
 Dr. Schottel's Wheel of Life is of special interest as it reminds one of
 the Buddhist Wheel of Life which the Evil Spirit holds in his
-clutches. <span id="fr_219"></span>[1](#fn_218)
+clutches. <span id="fr_219"></span>[1](#fn_218.md)
 
 Similar ideas as to the awfulness of the sufferings in hell are offered
 in the sermons of Abraham a Sancta-Clara who was the most influential
@@ -511,7 +511,7 @@ moon, still others in the center of the earth. But the question as to
 which of the three opinions is right has not yet been decided.
 
 A Slavonian folk song sings of hell as follows: <span
-id="fr_220"></span>[1](#fn_219)
+id="fr_220"></span>[1](#fn_219.md)
 
 "Look at the terrible maw! How fiery and deep is the place of torture!
 No eye can discover its bottom.
@@ -536,7 +536,7 @@ poem continues:
 
 <span id="img_38800"></span> <span align="CENTER"> [![THE CHRISTIAN
 HELL.](tn/generic.jpg)  
-Click to view](img/38800.jpg)  
+Click to view](img/38800.jpg.md)  
 THE CHRISTIAN HELL.  
 </span>
 
@@ -573,7 +573,7 @@ advertised and sold among other religious pictures.
 
 No wonder that there are good Christians who would gladly change places
 with brute animals. A young Jesuit who afterwards turned
-[Protestant](errata.htm#4) said in his memoirs that he used to envy the
+[Protestant](errata.htm#4.md) said in his memoirs that he used to envy the
 watch dog in the courtyard to whom death meant annihilation without the
 terrors of hell.
 
@@ -615,13 +615,13 @@ released by some motion of the hands of the experimenter.
 
 We ought to add here that although Kircher is generally credited with
 the invention of this experiment because it became known mainly through
-him. <span id="fr_221"></span>[1](#fn_220) Professor Preyer has proved
+him. <span id="fr_221"></span>[1](#fn_220.md) Professor Preyer has proved
 that he simply reproduced the experiment made by Daniel Schwenter, <span
-id="fr_222"></span>[2](#fn_221) who published his discovery
+id="fr_222"></span>[2](#fn_221.md) who published his discovery
 
 <span id="img_39100"></span> <span align="CENTER"> [![SCHWENTER'S HEN
 EXPERIMENT, REPRODUCED BY FATHER ATHANASIUS KIRCHER.](tn/generic.jpg)  
-Click to view](img/39100.jpg)  
+Click to view](img/39100.jpg.md)  
 SCHWENTER'S HEN EXPERIMENT, REPRODUCED BY FATHER ATHANASIUS KIRCHER.  
 </span>
 
@@ -649,7 +649,7 @@ declared he was a charlatan, while others believed in him.
 
 <span id="img_39200"></span> <span align="CENTER"> [![Etching by Daniel
 Chodowiecki.](tn/generic.jpg)  
-Click to view](img/39200.jpg)  
+Click to view](img/39200.jpg.md)  
 Etching by Daniel Chodowiecki.  
 </span>
 
@@ -830,13 +830,13 @@ as in the Middle Ages; but the secular authorities will never again
 allow themselves to be influenced in their legal proceedings by the
 opinions of inquisitors.
 
-Görres, <span id="fr_223"></span>[1](#fn_222) one of the ablest and most
+Görres, <span id="fr_223"></span>[1](#fn_222.md) one of the ablest and most
 modern defenders of the Roman Church, complains about "the purely
 medical view" of historians who regard witch-prosecution as a mere
 epidemic. He finds the ultimate cause of witchcraft and sorcery in
 apostacy from the Church, which had become fashionable in those days.
 Dr. Haas, another Roman Catholic, takes the same view in his inquiry
-into witch-prosecution. <span id="fr_224"></span>[2](#fn_223) He
+into witch-prosecution. <span id="fr_224"></span>[2](#fn_223.md) He
 concedes that witchcraft is a revival of pagan notions mixed with a
 false conception of Christianity (p. 68), but he still shares with the
 inquisitors of yore and with Pope Innocent III. the belief in the
@@ -907,12 +907,12 @@ son of a Catholic Father and Protestant mother, with the especial
 permission of the Bishop Leopold von Eichstadt, is a sufficient evidence
 of the Egyptian darkness that still penetrates the minds of a great mass
 of our Christian brethren, among them members of the higher
-clergy. <span id="fr_225"></span>[1](#fn_224)
+clergy. <span id="fr_225"></span>[1](#fn_224.md)
 
 <span id="page_401">p. 401</span>
 
 Mr. E. P. Evans, who quotes the curious occurrence, <span
-id="fr_226"></span>[1](#fn_225) furnishes another interesting fact. He
+id="fr_226"></span>[1](#fn_225.md) furnishes another interesting fact. He
 says:
 
 <span class="small">Pope Leo XIII. is justly regarded as a man of more
@@ -1111,74 +1111,74 @@ are positively demonstrated by science.
 
 ### Footnotes
 
-<span id="fn_207"></span>[372:1](hod18.htm#fr_208) Crosses were seen
+<span id="fn_207"></span>[372:1](hod18.htm#fr_208.md) Crosses were seen
 everywhere; in the dress of the people and in the sky also crowns of
 thorns, nails, scourges, etc., which caused the Bishop of Liège to order
 special fasts and call the emperor's attention to the dangers that
 threatened the world.
 
-<span id="fn_208"></span>[372:2](hod18.htm#fr_209) Schlager, Wiener
+<span id="fn_208"></span>[372:2](hod18.htm#fr_209.md) Schlager, Wiener
 Skizzen aus dem Mittelalter, II., n. F., P 35; mentioned by Roskoff,
 II., p. 294; König and others.
 
-<span id="fn_209"></span>[372:3](hod18.htm#fr_210) *Hexenprocesse*, p.
+<span id="fn_209"></span>[372:3](hod18.htm#fr_210.md) *Hexenprocesse*, p.
 255
 
-<span id="fn_210"></span>[372:4](hod18.htm#fr_211) Quoted in *Neue
+<span id="fn_210"></span>[372:4](hod18.htm#fr_211.md) Quoted in *Neue
 Zusätze* of the German translation of Weier's *De præstigiis dæmonum*
 
-<span id="fn_211"></span>[374:1](hod18.htm#fr_212) See *The New York
+<span id="fn_211"></span>[374:1](hod18.htm#fr_212.md) See *The New York
 Evening Post*, November 13. 1886.
 
-<span id="fn_212"></span>[374:2](hod18.htm#fr_213) Sometimes spelled
+<span id="fn_212"></span>[374:2](hod18.htm#fr_213.md) Sometimes spelled
 "Thanner." See König, *ib*., II., p. 572, and Roskoff, II., p. 308.
 
-<span id="fn_213"></span>[375:1](hod18.htm#fr_214) König says it was a
+<span id="fn_213"></span>[375:1](hod18.htm#fr_214.md) König says it was a
 mosquito, and Roskoff a flea.
 
-<span id="fn_214"></span>[375:2](hod18.htm#fr_215) That Spee von
+<span id="fn_214"></span>[375:2](hod18.htm#fr_215.md) That Spee von
 Langenfeld was the author of the Cautio criminalis was discovered by
 Leibnitz.
 
-<span id="fn_215"></span>[379:1](hod18.htm#fr_216) For details see
+<span id="fn_215"></span>[379:1](hod18.htm#fr_216.md) For details see
 *Letters on Demonology and Witchcraft*, by Walter Scott.
 
-<span id="fn_216"></span>[380:1](hod18.htm#fr_217) Reproduced from the
+<span id="fn_216"></span>[380:1](hod18.htm#fr_217.md) Reproduced from the
 portrait on the title page of *Die bezauberte Welt* (the first German
 translation of *De betoverde Weereld*).
 
-<span id="fn_217"></span>[385:1](hod18.htm#fr_218) This as well as the
+<span id="fn_217"></span>[385:1](hod18.htm#fr_218.md) This as well as the
 quotations following are taken from J. Scheible, Vol. I., pages 196 ff.
 
-<span id="fn_218"></span>[386:1](hod18.htm#fr_219) Compare the
+<span id="fn_218"></span>[386:1](hod18.htm#fr_219.md) Compare the
 illustrations on pages 119, 121, and 123.
 
-<span id="fn_219"></span>[387:1](hod18.htm#fr_220) Quoted in a German
+<span id="fn_219"></span>[387:1](hod18.htm#fr_220.md) Quoted in a German
 translation by Scheible, Vol. I., p. 208 ff.
 
-<span id="fn_220"></span>[391:1](hod18.htm#fr_221) See the chapter "A
+<span id="fn_220"></span>[391:1](hod18.htm#fr_221.md) See the chapter "A
 Marvellous Experiment with the Imagination of a Hen (*Experimentum
 Mirabile de Imaginatione Gallinæ*), in Kircher's *Ars Magna Lucis et
 Umbræ*, Rome, 1646.
 
-<span id="fn_221"></span>[391:2](hod18.htm#fr_222) See Daniel Schwenter,
+<span id="fn_221"></span>[391:2](hod18.htm#fr_222.md) See Daniel Schwenter,
 *Deliciæ Physico-Mathematicæ*, etc. Nürnberg, 1636.
 
-<span id="fn_222"></span>[398:1](hod18.htm#fr_223) *Die Hexenprocesse,
+<span id="fn_222"></span>[398:1](hod18.htm#fr_223.md) *Die Hexenprocesse,
 ein culturhistorischer Versuch*. Tübingen. 1865.
 
-<span id="fn_223"></span>[398:2](hod18.htm#fr_224) Quoted from Roskoff,
+<span id="fn_223"></span>[398:2](hod18.htm#fr_224.md) Quoted from Roskoff,
 p. 239, from Christliche Mystik, III., 66.
 
-<span id="fn_224"></span>[400:1](hod18.htm#fr_225) *Die
+<span id="fn_224"></span>[400:1](hod18.htm#fr_225.md) *Die
 Teufelsaustreibung in Werndive*. Nach den Berichten des P. Aurelian für
 das Volk critisch beleuchtet von Richard Treufels. Munich, Schuh & Co.
 1892. This curious treatise can no longer be obtained in the
 book-market.
 
-<span id="fn_225"></span>[401:1](hod18.htm#fr_226) *Popular Science
+<span id="fn_225"></span>[401:1](hod18.htm#fr_226.md) *Popular Science
 Monthly*, December, 1892, p. 161.
 
 ------------------------------------------------------------------------
 
-[Next: In Verse and Fable](hod19)
+[Next: In Verse and Fable](hod19.md)

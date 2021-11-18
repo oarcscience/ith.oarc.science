@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb04)  [Next](pifb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb04)  [Next](pifb06.md) 
 
 </div>
 
@@ -170,6 +170,6 @@ grocer—because of the jam.
 
 ------------------------------------------------------------------------
 
-[Next: The House in the Wood](pifb06)
+[Next: The House in the Wood](pifb06.md)
 
 </div>

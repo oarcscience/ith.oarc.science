@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7C6/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](dwf00)    [Page
-Index](pageidx)    [Text \[Zipped\]](dwf.txt.gz)
+[Contents](#contents)    [Start Reading](dwf00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](dwf.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ Waite systematically debunks Taxil in this book, citing factual
 inaccuracies, plagarism, and sheer absurdities. Waite is in top form
 here, witty, sarcastic, and utilizing extensive firsthand knowledge of
 Victorian mystical and masonic groups to demolish Taxil. Of interest is
-[Chapter VII](dwf09), wherein Waite gives a detailed summary of Taxil's
+[Chapter VII](dwf09.md), wherein Waite gives a detailed summary of Taxil's
 pulp-fiction narrative, which has never been translated into English. It
 is amazing that anyone would take this yarn seriously, then or now.
 
@@ -70,21 +70,21 @@ perspective.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](dwf00)  
-[Preface](dwf01)  
-[Contents](dwf02)  
-[Chapter I. Satanism in the Nineteenth Century](dwf03)  
-[Chapter II. The Mask of Masonry](dwf04)  
-[Chapter III. The First Witnesses of Lucifer](dwf05)  
-[Chapter IV. Ex Ore Leonis](dwf06)  
-[Chapter V. The Discovery of M. Ricoux](dwf07)  
-[Chapter VI. Art Sacerdotal](dwf08)  
-[Chapter VII. The Devil and the Doctor](dwf09)  
-[Chapter VIII. Dealings With Diana](dwf10)  
-[Chapter IX. How Lucifer is Unmasked](dwf11)  
-[Chapter X. The Vendetta of Signor Margiotta](dwf12)  
-[Chapter XI. Female Freemasonry](dwf13)  
-[Chapter XII. The Passing of Doctor Bataille](dwf14)  
-[Chapter XIII. Diana Unveiled](dwf15)  
-[Chapter XIV. The Radix of Modern Diabolism](dwf16)  
-[Chapter XV. Conclusion](dwf17)  
+<span id="contents"></span> [Title Page](dwf00.md)  
+[Preface](dwf01.md)  
+[Contents](dwf02.md)  
+[Chapter I. Satanism in the Nineteenth Century](dwf03.md)  
+[Chapter II. The Mask of Masonry](dwf04.md)  
+[Chapter III. The First Witnesses of Lucifer](dwf05.md)  
+[Chapter IV. Ex Ore Leonis](dwf06.md)  
+[Chapter V. The Discovery of M. Ricoux](dwf07.md)  
+[Chapter VI. Art Sacerdotal](dwf08.md)  
+[Chapter VII. The Devil and the Doctor](dwf09.md)  
+[Chapter VIII. Dealings With Diana](dwf10.md)  
+[Chapter IX. How Lucifer is Unmasked](dwf11.md)  
+[Chapter X. The Vendetta of Signor Margiotta](dwf12.md)  
+[Chapter XI. Female Freemasonry](dwf13.md)  
+[Chapter XII. The Passing of Doctor Bataille](dwf14.md)  
+[Chapter XIII. Diana Unveiled](dwf15.md)  
+[Chapter XIV. The Radix of Modern Diabolism](dwf16.md)  
+[Chapter XV. Conclusion](dwf17.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww23)  [Next](lww25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww23)  [Next](lww25.md) 
 
 ------------------------------------------------------------------------
 
@@ -246,4 +246,4 @@ to find his wife.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV--The Last Battle](lww25)
+[Next: Chapter XXV--The Last Battle](lww25.md)

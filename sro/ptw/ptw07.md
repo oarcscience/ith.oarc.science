@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw06) 
-[Next](ptw08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw06.md) 
+[Next](ptw08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ makes up his mind to call together a meeting of all the wise and
 virtuous men of the country to consult together how this evil might be
 remedied. Unfortunately, among all of them there is none to be found who
 is possessed of sufficient virtue and intelligence to give the desired
-advice. [Apollo](errata.htm#9) therefore assembles the seven ancient
+advice. [Apollo](errata.htm#9.md) therefore assembles the seven ancient
 sages of Greece and three Romans, *Marcus*, *Cato*, and *Seneca*. A
 young Italian philosopher, by the name of *Jacob Mazzonius*, is
 appointed secretary. The congregation meets in the delphic Palatium; and
@@ -263,7 +263,7 @@ perceived by the practical Occultist, *and by him only*. It can easily
 be seen that the style and tendencies of this publication have a great
 deal of resemblance to that of the *Fama Fraternitatis*. Now it has been
 ascertained beyond any doubt that the author of the "Chemical Marriage"
-was Johann Valentine Andreae, <span id="fr_7"></span>[\*](#fn_7) who
+was Johann Valentine Andreae, <span id="fr_7"></span>[\*](#fn_7.md) who
 wrote it while a young
 
 <span id="page_54">p. 54</span>
@@ -292,7 +292,7 @@ been led by the nose to mistake their meaning. Andreae himself, without,
 however, acknowledging himself to be their author, expressed himself to
 the effect that the whole was a satire and a fable. In his "confession"
 he says: (Sc.) *risisse semper Rosicrucianam fabulum et curiositatis
-fraterculos fuisse in sectatum* <span id="fr_8"></span>[†](#fn_8) and in
+fraterculos fuisse in sectatum* <span id="fr_8"></span>[†](#fn_8.md) and in
 his paper entitled "*Turris Babel, seu judiciorum de Fraternitatae
 Rosaccae crucis chaos*," he speaks still more plainly upon this subject.
 It seems to have been his object in this latter publication to help
@@ -368,7 +368,7 @@ said *Crucis*, then both together said: *Benedictus Deus* 
 <span class="contnote">\[paragraph continues\]</span> *Dominus noster,
 que nobis dedit Signum!* They also had for the sake of legitimation a
 large document, to which the Imperator affixed the great seal. <span
-id="fr_9"></span>[\*](#fn_9)
+id="fr_9"></span>[\*](#fn_9.md)
 
 There was another "Rosicrucian society," formed at Paris in the year
 166o by an apothecary named *Jacob Rose*. This society was dissolved in
@@ -404,7 +404,7 @@ remarkable information that some years ago the Masters of the
 Rosicrucians had gone to India, and that none of them at present
 remained in Europe. This is not at all improbable; for the moral
 atmosphere of Europe is at the present time not very congenial for
-[spiritual](errata.htm#11) development, nor very inviting to those who,
+[spiritual](errata.htm#11.md) development, nor very inviting to those who,
 while progressing on the Path of Light, are reincarnating in physical
 forms.
 
@@ -521,7 +521,7 @@ Christendom"; *Simon Studion*, "Naometria"; *Trenaeus Philalethes*,
 category; but perhaps the most interesting of all is an illustrated work
 which is now out of print, and has become very rare, and which is
 entitled "*The Secret Symbols of the Rosicrucians of the Sixteenth and
-Seventeenth Century*," <span id="fr_10"></span>[\*](#fn_10) and from
+Seventeenth Century*," <span id="fr_10"></span>[\*](#fn_10.md) and from
 which a great deal of information contained in this present volume is
 taken.
 
@@ -529,24 +529,24 @@ taken.
 
 ### Footnotes
 
-<span id="fn_7"></span>[53:\*](ptw07.htm#fr_7) *Dr. Johann*
-[*Valentine*](errata.htm#10) *Andreae* was born Aug. 17, 1586, at
+<span id="fn_7"></span>[53:\*](ptw07.htm#fr_7.md) *Dr. Johann*
+[*Valentine*](errata.htm#10.md) *Andreae* was born Aug. 17, 1586, at
 Herrenberg, in Wurtemberg, and died an abbot of Adelsberg, at Stuttgart,
 June 27, 1654. He spoke several languages, was well versed in theology,
 mathematics, history, and the natural sciences. He was of a noble mind,
 anxious to do good, and an original character. Herder describes him as a
 rose among the thorns.
 
-<span id="fn_8"></span>[54:†](ptw07.htm#fr_8) Andreae's autobiography.
+<span id="fn_8"></span>[54:†](ptw07.htm#fr_8.md) Andreae's autobiography.
 *Weismann*, hist. eccl. P. ii., p. 336.
 
-<span id="fn_9"></span>[56:\*](ptw07.htm#fr_9) Extracted from the
+<span id="fn_9"></span>[56:\*](ptw07.htm#fr_9.md) Extracted from the
 "Sphinx." Vol. I., No. 1.
 
-<span id="fn_10"></span>[58:\*](ptw07.htm#fr_10) This book has been
+<span id="fn_10"></span>[58:\*](ptw07.htm#fr_10.md) This book has been
 reprinted and published with the fac-similes of the plates by The Aries
 Press, Chicago, Ill.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six. Pseudo-Rosicrucians—Impostors And Fools](ptw08)
+[Next: Chapter Six. Pseudo-Rosicrucians—Impostors And Fools](ptw08.md)

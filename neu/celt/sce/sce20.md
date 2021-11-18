@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce19)  [Next](sce21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce19)  [Next](sce21.md) 
 
 ------------------------------------------------------------------------
 
 10\. THERE be many Places called Fairie-hills, which the Mountain People
 think impious and dangerous to peel or diƒcover, by taking Earth or Wood
 from them; ƒuperƒtitiouƒly beleiving the Souls of their Prediceƒƒors to
-dwell there. <span id="fr_33"></span>[1](#fn_33) And for that End (ƒay
+dwell there. <span id="fr_33"></span>[1](#fn_33.md) And for that End (ƒay
 they) a Mote or Mount was dedicate beƒide every Church-yard, to receive
 the Souls till their adjacent Bodies ariƒe, and ƒo become as a
 Fairie-hill; they uƒeing Bodies of Air when called Abroad. They alƒo
@@ -52,9 +52,9 @@ Examination of others.
 
 ### Footnotes
 
-<span id="fn_33"></span>[23:1](sce20.htm#fr_33) Note
-( [d1](sce29.htm#xref_d1)), [p. 88](sce29.htm#page_88).
+<span id="fn_33"></span>[23:1](sce20.htm#fr_33.md) Note
+( [d1](sce29.htm#xref_d1)), [p. 88](sce29.htm#page_88.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11](sce21)
+[Next: Chapter 11](sce21.md)

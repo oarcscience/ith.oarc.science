@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti01)  [Next](eti03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti01)  [Next](eti03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
 
 <span id="img__00300"></span> <span align="CENTER">
 [![Preface](tn/_00300.jpg)  
-Click to enlarge](img/_00300.jpg)  
+Click to enlarge](img/_00300.jpg.md)  
   
 </span>
 
@@ -200,4 +200,4 @@ JOHN URI LLOYD.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to This Edition](eti03)
+[Next: Preface to This Edition](eti03.md)

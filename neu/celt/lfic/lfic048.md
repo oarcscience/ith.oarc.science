@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic047)  [Next](lfic049) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic047)  [Next](lfic049.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ we feel all suitable sorrow.
 
 ------------------------------------------------------------------------
 
-[Next: Droochan's Ghost](lfic049)
+[Next: Droochan's Ghost](lfic049.md)

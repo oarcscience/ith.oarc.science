@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sft08)  [Next](sft10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sft08)  [Next](sft10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *South-African Folk-Tales*, by James A. Honeÿ, \[1910\], at Intangible
 Textual Heritage
 
@@ -85,6 +85,6 @@ some warm bullets after me. No, Jackal, give him the name."
 
 ------------------------------------------------------------------------
 
-[Next: The World's Reward](sft10)
+[Next: The World's Reward](sft10.md)
 
 </div>

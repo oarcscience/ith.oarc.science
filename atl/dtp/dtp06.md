@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp05)  [Next](dtp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp05)  [Next](dtp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -114,7 +114,7 @@ husband into Navazzamin, the shadowy land of departed souls, some
 centuries before my day. Such was the Agacoe palace. Its uppermost floor
 was in use as a great governmental museum; the middle was devoted to
 offices of the chief government officials, while the first flat was
-[magnificently](errata.htm#2) arranged and furnished for occupancy as
+[magnificently](errata.htm#2.md) arranged and furnished for occupancy as
 the emperor's private residence. As not uninteresting, it may be noted
 that the yawning mouths of the stone serpents recently described served
 as doorways (of the usual size) to certain apartments in the basement, a
@@ -353,7 +353,7 @@ situations, which prevented the dismal appearance of masses of angular
 houses, an effect of extreme ugliness seen in our modern days, but
 seldom, or never, in our Atlantean, cities. The result of this
 arrangement was that, to a beholder, looking from any high elevation,
-the city would have been [conspicuous](errata.htm#3), to one accustomed
+the city would have been [conspicuous](errata.htm#3.md), to one accustomed
 to the modern atrocities of stone, brick or wood,. chiefly, for the
 absence of sky-piercing piles separated by narrow, dark, treeless and
 too often filthy tunnels, miscalled streets.. Here a hill, and there
@@ -626,4 +626,4 @@ system.
 ------------------------------------------------------------------------
 
 [Next: Chapter III: Faith Is Knowledge Also, And It Giveth To Removing
-Mountains](dtp07)
+Mountains](dtp07.md)

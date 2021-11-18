@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi022)  [Next](mtsi024) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi022)  [Next](mtsi024.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ the separation of man and beast.
 
 ------------------------------------------------------------------------
 
-[Next: 22. The Racing Snake](mtsi024)
+[Next: 22. The Racing Snake](mtsi024.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm39)  [Next](pnm41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm39)  [Next](pnm41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ with Aquarius
 <span id="page_110">p. 110</span>
 
 under him are the Sauromatian Country, Oxiana, Sogdiana, Arabia,
-Phazania, Media and [Æthiopia](errata.htm#3), which countries, for the
+Phazania, Media and [Æthiopia](errata.htm#3.md), which countries, for the
 most part, belong to the more inward Asia. Under Jupiter, with
 Sagittarius, are Tuscana, Celtica, Spaine, and happy Arabia; and under
 him, with Pisces, are Lycia, Lydia, Cilicia, Pamphylia, Paphlagonia,
@@ -58,4 +58,4 @@ to come.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXII. What Things Are Under the Signs, the Fixed Stars,
-and Their Images](pnm41)
+and Their Images](pnm41.md)

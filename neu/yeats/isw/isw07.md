@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw06)  [Next](isw08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw06)  [Next](isw08.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ As weary hearted as that hollow moon.
 
 ------------------------------------------------------------------------
 
-[Next: The Song Of Red Hanrahan](isw08)
+[Next: The Song Of Red Hanrahan](isw08.md)

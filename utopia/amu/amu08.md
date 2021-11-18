@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](amu07)  [Next](amu09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](amu07)  [Next](amu09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -234,7 +234,7 @@ be necessary to make these island prisons a system of island monasteries
 and island nunneries. Upon that I am not competent to speak, but if I
 may believe the literature of the subject—unhappily a not very well
 criticised literature—it is not necessary to enforce this separation.
- <span id="fr_17"></span>[18](#fn_17)
+ <span id="fr_17"></span>[18](#fn_17.md)
 
 About such islands patrol boats will go, there will be no freedoms of
 boat-building, and it may be necessary to have armed guards at the
@@ -720,7 +720,7 @@ thumb-marks and of inalterable physical characteristics goes on
 steadily, and there is every reason for assuming it possible that each
 human being could be given a distinct formula, a number or "scientific
 name," under which he or she could be docketed.  <span
-id="fr_18"></span>[19](#fn_18) About the buildings in which this great
+id="fr_18"></span>[19](#fn_18.md) About the buildings in which this great
 main index would be gathered, would be a system of other indices with
 cross references to the main one, arranged under names, under
 professional qualifications, under diseases, crimes and the like.
@@ -772,7 +772,7 @@ government is necessarily bad, and the individual necessarily good—and
 the hypothesis upon which we are working practically abolishes either
 alternative—then we alter the case altogether. The government of a
 modern Utopia will be no perfection of intentions ignorantly ruling the
-world. . . .  <span id="fr_19"></span>[20](#fn_19)
+world. . . .  <span id="fr_19"></span>[20](#fn_19.md)
 
 Such is the eye of the State that is now slowly beginning to apprehend
 our existence as two queer and inexplicable parties disturbing the fine
@@ -978,15 +978,15 @@ mouth of the man with the blond hair. . . .
 
 ### Footnotes
 
-<span id="fn_17"></span>[18](amu08.htm#fr_17) See, for example, Dr. W.
+<span id="fn_17"></span>[18](amu08.htm#fr_17.md) See, for example, Dr. W.
 A. Chapple's *The Fertility of the Unfit*.
 
-<span id="fn_18"></span>[19](amu08.htm#fr_18) It is quite possible that
+<span id="fn_18"></span>[19](amu08.htm#fr_18.md) It is quite possible that
 the actual thumbmark may play only a small part in the work of
 identification, but it is an obvious convenience to our thread of story
 to assume that it is the one sufficient feature.
 
-<span id="fn_19"></span>[20](amu08.htm#fr_19) In the typical modern
+<span id="fn_19"></span>[20](amu08.htm#fr_19.md) In the typical modern
 State of our own world, with its population of many millions and its
 extreme facility of movement, undistinguished men who adopt an alias can
 make themselves untraceable with the utmost ease. The temptation of the
@@ -1003,4 +1003,4 @@ the race against the development of police organisation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six](amu09)
+[Next: Chapter Six](amu09.md)

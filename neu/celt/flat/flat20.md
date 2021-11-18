@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat19)  [Next](flat21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat19)  [Next](flat21.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ the same spot again, I know that."
 
 ------------------------------------------------------------------------
 
-[Next: The Crookened Back](flat21)
+[Next: The Crookened Back](flat21.md)

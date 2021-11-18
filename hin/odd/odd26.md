@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd25)  [Next](odd27) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd25)  [Next](odd27.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 
 <span id="img_46"></span> ![](img/46.jpg)
 
-THERE was once a Sowkar's  <span id="fr_79"></span>[1](#fn_79) wife who
+THERE was once a Sowkar's  <span id="fr_79"></span>[1](#fn_79.md) wife who
 had no children. One day she went crying to her husband and saying,
 'What an unhappy woman I am to have no children! If! had any children to
 amuse me I should be quite happy.' He answered, 'Why should you be
@@ -43,8 +43,8 @@ had done, saying, 'All my pains are useless; you know how kind I have
 been to my sister's boy, yet, after all I have done for him, at the end
 of seven years he does not love me as well as he does his mother, whom
 he has scarcely seen. Now, therefore, I will never rest until I have
-seen Mahadeo,  <span id="fr_80"></span>[2](#fn_80) and ask him to grant
-that I may have a child of my own.'  <span id="fr_81"></span>[3](#fn_81)
+seen Mahadeo,  <span id="fr_80"></span>[2](#fn_80.md) and ask him to grant
+that I may have a child of my own.'  <span id="fr_81"></span>[3](#fn_81.md)
 
 'What a foolish woman you are!' answered her husband; 'why not be
 content with your lot? How do you think you will find Mahadeo? Do you
@@ -54,7 +54,7 @@ will return home no more unless my prayer is answered.' So she left the
 house, and wandered into the jungle, and after she had travelled through
 it for many, many days and left her own land very far behind, she came
 to the borders of another country, even the Madura Tinivelly  <span
-id="fr_82"></span>[4](#fn_82) country, where a great river rolled down
+id="fr_82"></span>[4](#fn_82.md) country, where a great river rolled down
 towards the sea. On the river-bank sat two women--a Ranee named
 Coplinghee Ranee, and a Nautch woman.
 
@@ -102,7 +102,7 @@ however, were afraid, and would not go. When the Sowkar's wife had half
 crossed the river of fir she turned, and waving her hands towards them,
 said, 'Come on come on! do not be afraid. The fire does not burn me. I
 go find Mahadeo; perhaps he is but the other side.'  <span
-id="fr_83"></span>[5](#fn_83) But they still refused, saying, 'We cannot
+id="fr_83"></span>[5](#fn_83.md) But they still refused, saying, 'We cannot
 come, but we will wait here until you return; and if you find Mahadeo,
 pray for us also, that we may have children.'
 
@@ -122,7 +122,7 @@ and when he saw her he pitied her greatly, for she had been twelve years
 wandering upon the face of the earth to find him. Then he caused a
 beautiful mango-tree, beside a fair well, to spring up in the desert to
 give her rest and refreshment, and he himself in the disguise of a
-Gosain Fakeer,  <span id="fr_84"></span>[6](#fn_84) came and stood by
+Gosain Fakeer,  <span id="fr_84"></span>[6](#fn_84.md) came and stood by
 the tree. But the Sowkar's wife would not stay to gather the fruit or
 drink the water; she did not so much as notice the Fakeer, but walked
 straight on, in her weary search for Mahadeo. Then he called after her,
@@ -131,7 +131,7 @@ looking at him, 'It matters not to you, Fakeer, where I am going. You
 tell your prayer-beads, and leave me alone.'--'Come here,' he cried;
 'come here!' But she would not, so Mahadeo went and stood in front of
 her, no longer disguised as a Fakeer, but shining brightly, the Lord of
-Kylas  <span id="fr_85"></span>[7](#fn_85) in all his beauty, and at the
+Kylas  <span id="fr_85"></span>[7](#fn_85.md) in all his beauty, and at the
 sight of him the poor Sowkar's wife fell down on the ground and kissed
 his feet; and he said to her, 'Tell me, Bai, where are you going?' She
 answered, 'Sir, I seek Mahadeo, to pray him to grant that I may have a
@@ -172,10 +172,10 @@ Then were they all very happy, and sent everywhere to tell their friends
 the good news; and each gave, according to her power, a great feast to
 the poor, as a thank-offering to Mahadeo, who had been merciful to them.
 And the Sowkar's wife called her son 'Koila,'  <span
-id="fr_86"></span>[8](#fn_86) in memory of the mango stone; and the
+id="fr_86"></span>[8](#fn_86.md) in memory of the mango stone; and the
 Nautch woman called her daughter 'Moulee;  <span
-id="fr_87"></span>[9](#fn_87) and the little Princess was named Chandra
-Bai,  <span id="fr_88"></span>[10](#fn_88) for she was as fair and
+id="fr_87"></span>[9](#fn_87.md) and the little Princess was named Chandra
+Bai,  <span id="fr_88"></span>[10](#fn_88.md) for she was as fair and
 beautiful as the white moon.
 
 Chandra Ranee was very beautiful, the most beautiful child in all that
@@ -206,7 +206,7 @@ and it scorched the hands of the attendants.
 
 Then the Brahman said, 'As this fire has burned the wool, so will this
 Princess one day, if she comes here, burn this whole land.  <span
-id="fr_89"></span>[11](#fn_89) And they were all very much frightened,
+id="fr_89"></span>[11](#fn_89.md) And they were all very much frightened,
 and the Rajah said to the Ranee, 'This being so, the child must be sent
 out of the country instantly.' The poor Ranee thereat was very sad, and
 she did -all in her power to save her little baby, but the Rajah would
@@ -351,7 +351,7 @@ you go; do not leave me here all alone again.' Koila agreed, and they
 both set off together towards the Madura Tinivelly country.
 
 As they journeyed, Krishnaswami,  <span
-id="fr_90"></span>[12](#fn_90)who was playing at cards with his three
+id="fr_90"></span>[12](#fn_90.md)who was playing at cards with his three
 wives, saw them, and when he saw them he laughed. Then his wives said to
 him, 'Why do you laugh? You have not laughed for such a long time, what
 amuses you so much now?' He answered, 'I am laughing to see Koila and
@@ -399,7 +399,7 @@ home and saw what was done, it grieved them very much, and they said,
 'These cruel people have killed our children, let us punish them.' And
 seeing in the porch one of Coplinghee Ranee's beautiful bangles, which
 the Jeweller had just been cleaning, they swooped down and flew away
-with it.  <span id="fr_91"></span>[13](#fn_91)
+with it.  <span id="fr_91"></span>[13](#fn_91.md)
 
 The Jeweller did not know what to do; he said to his wife, 'To buy such
 a bangle as that would cost more than all our fortune, and to make one
@@ -604,7 +604,7 @@ Then the old milk-seller, who bad followed her, ran and put a lump of
 butter on her head, thinking to cool it; and two other women who were by
 fetched water to pour upon her hair, but by this time nineteen lines of
 houses were in flames. Then the old woman cried, 'Oh! spare the Purwari
- <span id="fr_92"></span>[14](#fn_92) lines; don't burn them down, for I
+ <span id="fr_92"></span>[14](#fn_92.md) lines; don't burn them down, for I
 did all I could for you.' So Chandra did not burn that part of the town
 near which the old woman and her friends lived. But the fire burnt on
 and on in the other direction; and it killed the Rajah and the Ranee,
@@ -613,7 +613,7 @@ wife--and, as he was dying, Chandra tore out his heart and gave it to
 the eagles who hovered overhead, saying, 'Here is vengeance for the
 death of your little ones.' And the Nautch girl, Moulee, and her mother,
 who were watching the fire from far off, were smothered in the flames.
- <span id="fr_93"></span>[15](#fn_93)
+ <span id="fr_93"></span>[15](#fn_93.md)
 
 Then Chandra went to where Koila's dead body lay, and wept over it
 bitterly; and as she was weeping, there fell down to her from heaven a
@@ -636,41 +636,41 @@ the land was burnt
 
 ### Footnotes
 
-<span id="fn_79"></span>[1](odd26.htm#fr_79) Merchant's.
+<span id="fn_79"></span>[1](odd26.htm#fr_79.md) Merchant's.
 
-<span id="fn_80"></span>[2](odd26.htm#fr_80) The Creator.
+<span id="fn_80"></span>[2](odd26.htm#fr_80.md) The Creator.
 
-<span id="fn_81"></span>[3](odd26.htm#fr_81) See Notes.
+<span id="fn_81"></span>[3](odd26.htm#fr_81.md) See Notes.
 
-<span id="fn_82"></span>[4](odd26.htm#fr_82) Two provinces of the Madras
+<span id="fn_82"></span>[4](odd26.htm#fr_82.md) Two provinces of the Madras
 Presidency on the mainland opposite Ceylon. They are famous in Hindoo
 Mythology.
 
-<span id="fn_83"></span>[5](odd26.htm#fr_83) See Notes.
+<span id="fn_83"></span>[5](odd26.htm#fr_83.md) See Notes.
 
-<span id="fn_84"></span>[6](odd26.htm#fr_84) A religious mendicant.
+<span id="fn_84"></span>[6](odd26.htm#fr_84.md) A religious mendicant.
 
-<span id="fn_85"></span>[7](odd26.htm#fr_85) The Hindoo Heaven.
+<span id="fn_85"></span>[7](odd26.htm#fr_85.md) The Hindoo Heaven.
 
-<span id="fn_86"></span>[8](odd26.htm#fr_86) He of the Mango Stone.
+<span id="fn_86"></span>[8](odd26.htm#fr_86.md) He of the Mango Stone.
 
-<span id="fn_87"></span>[9](odd26.htm#fr_87) From the sweet mango pulp.
+<span id="fn_87"></span>[9](odd26.htm#fr_87.md) From the sweet mango pulp.
 
-<span id="fn_88"></span>[10](odd26.htm#fr_88) Or, The Moon Lady.
+<span id="fn_88"></span>[10](odd26.htm#fr_88.md) Or, The Moon Lady.
 
-<span id="fn_89"></span>[11](odd26.htm#fr_89) see Notes.
+<span id="fn_89"></span>[11](odd26.htm#fr_89.md) see Notes.
 
-<span id="fn_90"></span>[12](odd26.htm#fr_90) The Hindoo god Krishna; an
+<span id="fn_90"></span>[12](odd26.htm#fr_90.md) The Hindoo god Krishna; an
 incarnation of Vishnu.
 
-<span id="fn_91"></span>[13](odd26.htm#fr_91) See Notes.
+<span id="fn_91"></span>[13](odd26.htm#fr_91.md) See Notes.
 
-<span id="fn_92"></span>[14](odd26.htm#fr_92) Or outcasts; literally,
+<span id="fn_92"></span>[14](odd26.htm#fr_92.md) Or outcasts; literally,
 'the extra-muralists', i.e. the houses of the lowest classes, not
 permitted to live within the city walls.
 
-<span id="fn_93"></span>[15](odd26.htm#fr_93) See Notes.
+<span id="fn_93"></span>[15](odd26.htm#fr_93.md) See Notes.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII. How the Three Clever Men Outwitted the Demons](odd27)
+[Next: XXIII. How the Three Clever Men Outwitted the Demons](odd27.md)

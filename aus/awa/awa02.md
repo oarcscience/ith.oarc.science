@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa01)  [Next](awa03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa01)  [Next](awa03.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ depths of an unwritten past.
 
 ------------------------------------------------------------------------
 
-[Next: Languages](awa03)
+[Next: Languages](awa03.md)

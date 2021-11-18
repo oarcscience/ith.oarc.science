@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl63)  [Next](hpl65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl63)  [Next](hpl65.md) 
 
 ------------------------------------------------------------------------
 
@@ -982,4 +982,4 @@ coating of fine blue-grey dust.
 
 ------------------------------------------------------------------------
 
-[Next: IV. A Mutation and a Madness](hpl65)
+[Next: IV. A Mutation and a Madness](hpl65.md)

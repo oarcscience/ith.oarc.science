@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Next](jai01) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Next](jai01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ does *not* indicate missing material.--JBH}
 
 ------------------------------------------------------------------------
 
-[Next: Contents](jai01)
+[Next: Contents](jai01.md)

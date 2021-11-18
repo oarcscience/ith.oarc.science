@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar021) [Next](gbar023)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar021) [Next](gbar023.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ house, for this is a covenant between me and thee for ever."'
 
 ------------------------------------------------------------------------
 
-[Next](gbar023)
+[Next](gbar023.md)
 
  
 

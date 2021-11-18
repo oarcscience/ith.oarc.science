@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr01)  [Next](rhr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr01)  [Next](rhr03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ all, who were the most singular in the nature of their ostensible claims
 and in the uncertainty which envelopes them.
 
 "A halo of poetic splendour," says Heckethorn, <span
-id="fr_0"></span>[1](#fn_0) "surrounds the Order of the Rosicrucians;
+id="fr_0"></span>[1](#fn_0.md) "surrounds the Order of the Rosicrucians;
 the magic lights of fancy play round their graceful day-dreams, while
 the mystery in which they shrouded themselves lends additional
 attraction to their history. But their brilliancy was that of a meteor.
@@ -51,7 +51,7 @@ philosophy, though that itself has passed away."
 
 The facts and documents concerning the Fraternity of the Rose Cross, or
 of the Golden and Rosy Cross, as it is called by Sigmund Richter, <span
-id="fr_1"></span>[1](#fn_1) are absolutely unknown to English readers.
+id="fr_1"></span>[1](#fn_1.md) are absolutely unknown to English readers.
 Even well-informed people will learn with astonishment the extent and
 variety of the Rosicrucian literature which hitherto has lain buried in
 rare pamphlets, written in the old German tongue, and in the Latin
@@ -66,7 +66,7 @@ claims to have treated the subject seriously and at length is Hargrave
 Jennings, who, in "The Rosicrucians, their Rites and Mysteries," &c.,
 comes forward as the historian of the Order. This book, however, so far
 from affording any information on the questions it professes to deal
-with, "keeps guard over " <span id="fr_2"></span>[2](#fn_2) the secrets
+with, "keeps guard over " <span id="fr_2"></span>[2](#fn_2.md) the secrets
 of the Fraternity, and is
 
 <span id="page_3">p. 3</span>
@@ -74,14 +74,14 @@ of the Fraternity, and is
 simply a mass of ill-digested erudition concerning Phallicism and
 Fire-Worship, the Round Towers of Ireland and Serpent Symbolism, offered
 with a charlatanic assumption of secret knowledge as an exposition of
-Rosicrucian philosophy. <span id="fr_3"></span>[1](#fn_3)
+Rosicrucian philosophy. <span id="fr_3"></span>[1](#fn_3.md)
 
 The profound interest now manifested in all branches of mysticism, the
 tendency, in particular, of many cultured minds towards those
 metaphysical conceptions which are at the base of the alchemical system,
 the very general suspicion that other secrets than that of manufacturing
 gold are to be found in the Pandora's Box of Hermetic and Rosicrucian
-allegories,  <span id="fr_4"></span>[2](#fn_4) make it evident that the
+allegories,  <span id="fr_4"></span>[2](#fn_4.md) make it evident that the
 time has come to collect the mass of material which exists for the
 elucidation of this curious problem of European history, and to depict
 the mysterious Brotherhood as they are revealed in their own manifestos
@@ -116,19 +116,19 @@ to substantiate.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](rhr02.htm#fr_0) "Secret Societies of all
+<span id="fn_0"></span>[1:1](rhr02.htm#fr_0.md) "Secret Societies of all
 Ages and Countries."
 
-<span id="fn_1"></span>[2:1](rhr02.htm#fr_1) "Die Warhaffte and
+<span id="fn_1"></span>[2:1](rhr02.htm#fr_1.md) "Die Warhaffte and
 vollkommene, Bereitung des Philosophischen Steins, der Bruderschafft aus
 dem Orden des Gulden-und-Rosen Creutzes." 1710.
 
-<span id="fn_2"></span>[2:2](rhr02.htm#fr_2) "No student of occult
+<span id="fn_2"></span>[2:2](rhr02.htm#fr_2.md) "No student of occult
 philosophy need fear that we shall most carefully keep guard--standing
 sentry (so to speak) over those other and more recondite systems which
 are connected with our subject."
 
-<span id="fn_3"></span>[3:1](rhr02.htm#fr_3) In reviewing an enlarged
+<span id="fn_3"></span>[3:1](rhr02.htm#fr_3.md) In reviewing an enlarged
 edition of this work, published in 1879, the *Westminster Review*
 remarks: "In the 'Rosicrucians' we have come across perhaps the most
 absurd book that it has ever been our fortune to review. . . . It
@@ -139,11 +139,11 @@ an absurd jumble of passages and illustrations, for most of which no
 authority is, or could be, given. And through the whole runs a very
 unwholesome undercurrent."--W. R. N. S., vol. lvi. p. 256.
 
-<span id="fn_4"></span>[3:2](rhr02.htm#fr_4) On this point see "A
+<span id="fn_4"></span>[3:2](rhr02.htm#fr_4.md) On this point see "A
 Suggestive Inquiry into the Hermetic Mystery and Alchemy," published
 anonymously in the year 1850, in London, and Hitchock's "Remarks on
 Alchemy," also anonymous, New York, 1865.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](rhr03)
+[Next: Introduction](rhr03.md)

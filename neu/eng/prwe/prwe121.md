@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe120)  [Next](prwe122) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe120)  [Next](prwe122.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ which they now repose, at night.
 
 ------------------------------------------------------------------------
 
-[Next: The Longstone](prwe122)
+[Next: The Longstone](prwe122.md)

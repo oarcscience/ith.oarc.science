@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim10)  [Next](mim12) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim10)  [Next](mim12.md) 
 
 ------------------------------------------------------------------------
 
@@ -242,4 +242,4 @@ to be home.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Lizard and Fox](mim12)
+[Next: 10. Lizard and Fox](mim12.md)

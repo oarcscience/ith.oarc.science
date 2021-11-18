@@ -612,6 +612,6 @@ fuller explanation of the subject is attempted.
 
 ------------------------------------------------------------------------
 
-[Next Section](sd2-1-01)
+[Next Section](sd2-1-01.md)
 
-[Contents](sd2-0-co.htm#contents)
+[Contents](sd2-0-co.htm#contents.md)

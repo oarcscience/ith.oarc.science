@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx01)  [Next](omtx03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx01)  [Next](omtx03.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ Lodge of Texas on December 7th, 1921.
 
 ------------------------------------------------------------------------
 
-[Next: Opening a Lodge](omtx03)
+[Next: Opening a Lodge](omtx03.md)

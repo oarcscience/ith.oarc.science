@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Next](aot01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Next](aot01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -31,4 +31,4 @@ it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](aot01)
+[Next: Contents](aot01.md)

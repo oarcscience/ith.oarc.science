@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey04)  [Next](pey06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey04)  [Next](pey06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Heritage
 
 ------------------------------------------------------------------------
 
-### ALBERT HENSLEY'S ACCOUNT OF THE PEYOTE <span id="fr_1"></span>[2](#fn_1)
+### ALBERT HENSLEY'S ACCOUNT OF THE PEYOTE <span id="fr_1"></span>[2](#fn_1.md)
 
 (Pls. 8, d; 9, d)
 
@@ -145,7 +145,7 @@ nor did he teach it thoroughly. These to whom he taught
 <span id="page_352">p. 352</span>
 
 it used it for a purpose different from what it was intended. <span
-id="fr_2"></span>[3](#fn_2) They used it for war and for horse stealing.
+id="fr_2"></span>[3](#fn_2.md) They used it for war and for horse stealing.
 They, however, continued to eat the peyote, but they really ate too much
 of it. After a while the leader began thinking that the medicine might
 harm them, so he told them to hide it. The man did not know that even at
@@ -181,13 +181,13 @@ realize this.
 
 ### Footnotes
 
-<span id="fn_1"></span>[349:2](pey05.htm#fr_1) This account is of great
+<span id="fn_1"></span>[349:2](pey05.htm#fr_1.md) This account is of great
 importance, because Hensley introduced a large number of Christian
 elements into the ceremony, the principal one being the Bible.
 
-<span id="fn_2"></span>[352:3](pey05.htm#fr_2) This is clearly Hensley's
+<span id="fn_2"></span>[352:3](pey05.htm#fr_2.md) This is clearly Hensley's
 interpretation.
 
 ------------------------------------------------------------------------
 
-[Next: J.B.'s Peyote Experiences](pey06)
+[Next: J.B.'s Peyote Experiences](pey06.md)

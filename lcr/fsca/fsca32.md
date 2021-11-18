@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca31)  [Next](fsca33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca31)  [Next](fsca33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ at Intangible Textual Heritage
 
 <span id="page_137">p. 137</span>
 
-<span id="img_13700"></span> ![Pegasus or Pegasos.](img/13700.jpg)
+<span id="img_13700"></span> ![Pegasus or Pegasos.](img/13700.jpg.md)
 
 ### The Pegasus
 
@@ -45,7 +45,7 @@ Mounted on his winged steed Pegasus,<span id="img_13800"></span>
 
 |                                                  |
 |--------------------------------------------------|
-| ![Coins of Corinth and Syracuse.](img/13800.jpg) |
+| ![Coins of Corinth and Syracuse.](img/13800.jpg.md) |
 
 Bellerophon engaged the dire Chimera, and succeeded in destroying the
 monster by rising in the air and shooting it with arrows.
@@ -72,7 +72,7 @@ Pindar, who grandly relates the feat of the hero Bellerophon, says that
 he incurred the enmity of the gods by attempting to fly to heaven on his
 winged
 
-<span id="img_13900"></span> ![Pegasus salient.](img/13900.jpg)
+<span id="img_13900"></span> ![Pegasus salient.](img/13900.jpg.md)
 
 horse. Zeus sent a gadfly to sting the horse, who thereupon cast its
 rider and flew of his own accord to the stables of Zeus, whose
@@ -138,4 +138,4 @@ the wings and tail of a dragon.
 
 ------------------------------------------------------------------------
 
-[Next: Sagittary, Centaur, Sagittarius, Centaurus, Hippocentaur](fsca33)
+[Next: Sagittary, Centaur, Sagittarius, Centaurus, Hippocentaur](fsca33.md)

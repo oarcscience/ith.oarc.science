@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits099) [Next](bits101)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits099) [Next](bits101.md)
 
 ------------------------------------------------------------------------
 
@@ -162,7 +162,7 @@ drawn near, he told the matter to Seniya Bimbisâra, king of Magadha.
 
 ------------------------------------------------------------------------
 
-[Next: § 101. The Story of Visâkhâ](bits101)
+[Next: § 101. The Story of Visâkhâ](bits101.md)
 
  
 

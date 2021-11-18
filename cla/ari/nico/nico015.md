@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico014) 
-[Next](nico016) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico014.md) 
+[Next](nico016.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ stand our ground against them.
 
 [Next: Chapter 3. Pleasure in doing virtuous acts is a sign that the
 virtuous disposition has been acquired: a variety of considerations show
-the essential connexion of moral virtue with pleasure and pain](nico016)
+the essential connexion of moral virtue with pleasure and pain](nico016.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos48)  [Next](kos50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos48)  [Next](kos50.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ## CHAPTER XIII
 
-### CONCERNING <span id="fr_82"></span>[1](#fn_82) THE PRECEPTS OF THE ART
+### CONCERNING <span id="fr_82"></span>[1](#fn_82.md) THE PRECEPTS OF THE ART
 
 HE who hath attained the rank or degree of Exorcist, which we are
 usually accustomed to call Magus or Master according to grade,
@@ -50,7 +50,7 @@ Then shall the Emperor of (the Spirits) say unto you:--From the
 
 time of the Great Addus until now, there hath not been an Exorciser who
 could behold my person, and unless those things <span
-id="fr_83"></span>[1](#fn_83) which ye have showed unto us had been
+id="fr_83"></span>[1](#fn_83.md) which ye have showed unto us had been
 made, ye would not now have seen me. But seeing that ye have powerfully
 called us, as I believe, by the rites derived from Solomon, and which
 but few of your comrades, or Exorcisers, possess, also they compel us
@@ -68,11 +68,11 @@ performed, and all thy demands fulfilled.
 
 ### Footnotes
 
-<span id="fn_82"></span>[106:1](kos49.htm#fr_82) This Chapter is only
+<span id="fn_82"></span>[106:1](kos49.htm#fr_82.md) This Chapter is only
 given in 10862 Add. MSS.
 
-<span id="fn_83"></span>[107:1](kos49.htm#fr_83) The Pentacles.
+<span id="fn_83"></span>[107:1](kos49.htm#fr_83.md) The Pentacles.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Of the Pen, Ink, And Colours](kos50)
+[Next: Chapter XIV. Of the Pen, Ink, And Colours](kos50.md)

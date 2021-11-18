@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo25)  [Next](sdo27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo25)  [Next](sdo27.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ Lodge, each intoning prayers to his Fetish as he marches.
 
 ------------------------------------------------------------------------
 
-[Next: Preparation of the Candidates](sdo27)
+[Next: Preparation of the Candidates](sdo27.md)

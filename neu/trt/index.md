@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,37 +22,37 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](trt00)  
-[Contents](trt01)  
-[Illustrations](trt02)  
-[The Drawing of the Sword](trt03)  
-[The Questing Beast](trt04)  
-[The Sword Excalibur](trt05)  
-[The Story of Sir Balin](trt06)  
-[How the Round Table Began](trt07)  
-[The Passing of Merlin](trt08)  
-[How Morgan le Fay Tried to Kill King Arthur](trt09)  
-[What Beaumains Asked of the King](trt10)  
+[Title Page](trt00.md)  
+[Contents](trt01.md)  
+[Illustrations](trt02.md)  
+[The Drawing of the Sword](trt03.md)  
+[The Questing Beast](trt04.md)  
+[The Sword Excalibur](trt05.md)  
+[The Story of Sir Balin](trt06.md)  
+[How the Round Table Began](trt07.md)  
+[The Passing of Merlin](trt08.md)  
+[How Morgan le Fay Tried to Kill King Arthur](trt09.md)  
+[What Beaumains Asked of the King](trt10.md)  
 
 ### The Quest of the Holy Graal
 
-[The Quest of the Holy Graal](trt11)  
+[The Quest of the Holy Graal](trt11.md)  
 [I: How The King Went on Pilgrimage, and his Squire was Slain in a
-Dream](trt12)  
-[II: The Coming of the Holy Graal](trt13)  
-[The Adventure of Sir Galahad](trt14)  
-[IV: How Sir Lancelot Saw a Vision, and Repented of His Sins](trt15)  
-[V: The Adventure Of Sir Percivale](trt16)  
-[VI: An Adventure of Sir Lancelot](trt17)  
-[VII: An Adventure of Sir Gawaine](trt18)  
-[VIII: The Adventure of Sir Bors](trt19)  
-[IX: Adventure of Sir Galahad](trt20)  
-[X: Sir Lancelot Meets Sir Galahad, and They Part For Ever](trt21)  
-[XI: How Sir Galahad Found The Graal And Died Of That Finding](trt22)  
+Dream](trt12.md)  
+[II: The Coming of the Holy Graal](trt13.md)  
+[The Adventure of Sir Galahad](trt14.md)  
+[IV: How Sir Lancelot Saw a Vision, and Repented of His Sins](trt15.md)  
+[V: The Adventure Of Sir Percivale](trt16.md)  
+[VI: An Adventure of Sir Lancelot](trt17.md)  
+[VII: An Adventure of Sir Gawaine](trt18.md)  
+[VIII: The Adventure of Sir Bors](trt19.md)  
+[IX: Adventure of Sir Galahad](trt20.md)  
+[X: Sir Lancelot Meets Sir Galahad, and They Part For Ever](trt21.md)  
+[XI: How Sir Galahad Found The Graal And Died Of That Finding](trt22.md)  
 
 ### The Evil Days of Arthur
 
-[The Fight for the Queen](trt23)  
-[The Fair Maid of Astolat](trt24)  
-[Lancelot and Guenevere](trt25)  
-[The End of it All](trt26)  
+[The Fight for the Queen](trt23.md)  
+[The Fair Maid of Astolat](trt24.md)  
+[Lancelot and Guenevere](trt25.md)  
+[The End of it All](trt26.md)  

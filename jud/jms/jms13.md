@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms12)  [Next](jms14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms12)  [Next](jms14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ in the custom of burying with the performer of circumcisions the
 foreskins which he had severed, "to drive away from him every demon and
 destroyer." The practice of fashioning the coffin of a scholar out of
 the table at which he had pursued his studies probably had a similar
-purpose.[1](jms32.htm#an_11_1)
+purpose.[1](jms32.htm#an_11_1.md)
 
 Various religious acts and occasions were believed to bring immunity
 against the powers of evil. "Satan is powerless" on *Yom Kippur;* the
@@ -101,7 +101,7 @@ immediately before
 <span class="contnote">\[paragraph continues\]</span> Passover, when
 water had already been drawn for the preparation of *Maẓẓot*, there were
 some who held it unnecessary to pour this water out, for "it is a night
-of protection" and the spirits can do no harm.[2](jms32.htm#an_11_2)
+of protection" and the spirits can do no harm.[2](jms32.htm#an_11_2.md)
 
 Study is a uniquely Jewish form of worship; one of the chief features of
 the religious life is a scholarly regimen. Study therefore was another
@@ -123,7 +123,7 @@ perpetual immersion in his studies rendered him immune. It was this
 belief in the security of the scholar which gave rise to the notion that
 the demons accept the challenge and are ever on the alert to distract
 his attention from his studies and thus pierce his
-guard.[3](jms32.htm#an_11_3)
+guard.[3](jms32.htm#an_11_3.md)
 
 As the most important single feature of worship we may expect to find
 prayer singled out as especially powerful in this respect. The
@@ -134,7 +134,7 @@ Benedictions," or the grace after meals. As evidence of this fact
 attention was called to the absence of the letter *peh* in the titles of
 the services, and in the prayers mentioned, for this letter
 distinguishes the names of the destroying angels; its absence implies
-their absence, too.[4](jms32.htm#an_11_4)
+their absence, too.[4](jms32.htm#an_11_4.md)
 
 When a man believes himself to be threatened by demons, or by magic of
 one sort or another, an appeal to God should win him safety. In an
@@ -172,7 +172,7 @@ before me Uriel, behind me Raphael." This is nothing more than a Jewish
 version of the ancient Babylonian incantation, "Shamash before me,
 behind me Sin, Nergal at my right, Ninib at my left," or, "May the good
 Shedu go at my right, the good Lamassu at my left,"
-etc.[5](jms32.htm#an_11_5) And across millennia and continents Ireland
+etc.[5](jms32.htm#an_11_5.md) And across millennia and continents Ireland
 provides us with a doggerel Catholic version:
 
 <div style="margin-left: 32px">
@@ -213,7 +213,7 @@ a journey, to cure an ailment, to change one's luck, to remedy
 barrenness, to counteract an omen of death, or an ominous dream, and so
 on. Communal fasts were also decreed on occasion: for rain, when a
 pogrom impended, when an unduly heavy tax burden had been laid upon the
-community, etc.[6](jms32.htm#an_11_6)
+community, etc.[6](jms32.htm#an_11_6.md)
 
 #### MAGICAL DEFENSES
 
@@ -227,7 +227,7 @@ an easy prey to the spirits, one writer says, "I have known many to
 observe a meticulous watch over them, in particular over a pregnant
 woman and a mourner, who are not left alone for a moment, and who are
 not permitted to go out of doors unless accompanied by an adult or at
-least by a child."[7](jms32.htm#an_11_7)
+least by a child."[7](jms32.htm#an_11_7.md)
 
 But a physical guard was not of itself warranted to relieve all fear,
 and most often supernatural forces were set into operation. The demons
@@ -273,7 +273,7 @@ appertain to that Psalm, and then bathe the patient with the liquid."
 Scriptural verses, universally employed against the evil eye, were
 frequently recommended in Jewish literature for this purpose.
 Outstanding among these verses were the Priestly Benediction and Gen.
-49:22.[9](jms32.htm#an_11_9)
+49:22.[9](jms32.htm#an_11_9.md)
 
 Furthermore, Jewish superstition was conversant with the fairly large
 class of things and actions which have been universally credited
@@ -295,7 +295,7 @@ explains the ubiquity of lights at religious and semi-religious
 exercises, especially those associated with moments of crisis, although
 it would be absurd to deny that lights were used also, and perhaps more
 frequently, because of other significances, symbolic, ritual,
-superstitious, attached to them.[10](jms32.htm#an_11_10)
+superstitious, attached to them.[10](jms32.htm#an_11_10.md)
 
 Water is as potent a cleansing and piacular medium as fire, and
 consequently it possesses similar protective virtues. If a man who has
@@ -307,13 +307,13 @@ the demons from entering one's home, one must pour water, prepared
 according to a magic recipe, over the threshold. Many prescriptions for
 expelling a demon from a possessed person require bathing in water. It
 was also a common ingredient of superstitious
-medicaments.[11](jms32.htm#an_11_11)
+medicaments.[11](jms32.htm#an_11_11.md)
 
 The most powerful liquid, as we have seen, was supposed to be spittle,
 especially the sputum of a fasting man. Therefore it was suggested that
 one may protect himself in unclean places, which the spirits haunt, by
 spitting three times, and even evil thoughts, which are the work of
-demons, may be dispelled in the same way.[12](jms32.htm#an_11_12)
+demons, may be dispelled in the same way.[12](jms32.htm#an_11_12.md)
 
 A form of frontal attack upon the spirits is practiced by some peoples,
 who resort to throwing things or shooting into the air to drive them
@@ -332,7 +332,7 @@ preceding a wedding, the demons that threatened bride and groom were
 driven off by setting up a great clamor and breaking pottery; the same
 custom is preserved in the "bellin’" that still accompanies a wedding in
 the Kentucky mountains. Noise-making also figured at Jewish weddings as
-a measure of protection, as we shall see.[13](jms32.htm#an_11_13)
+a measure of protection, as we shall see.[13](jms32.htm#an_11_13.md)
 
 As among other peoples, metals, and iron, in particular, were the most
 frequently used anti-demonic objects. Eleazar of Worms suggests an
@@ -347,7 +347,7 @@ contamination during the *Tekufah;* iron was put into a hen's nest to
 guard the chicks against suffocation and fright during a thunderstorm;
 pregnant women kept a knife with them when alone; the key to the
 synagogue was placed under the pillow of the dying
-man.[14](jms32.htm#an_11_14)
+man.[14](jms32.htm#an_11_14.md)
 
 Salt was another such substance which figured prominently in the
 folklore of European peoples. Thus it was believed that salt is never
@@ -364,7 +364,7 @@ three <span class="smallcaps">yhvh</span>'s; therefore one should dip
 the piece of bread over which the benediction is recited, three times
 into salt." "After each meal eat some salt and you will not be harmed."
 For this reason salt was used in many rites connected with birth,
-marriage and death, and in medicine.[15](jms32.htm#an_11_15)
+marriage and death, and in medicine.[15](jms32.htm#an_11_15.md)
 
 Very often salt and bread were jointly prescribed to defeat the
 stratagems of spirits and magicians. When a witch assaults a man, he can
@@ -380,7 +380,7 @@ hang bread and salt on his daughter's neck to protect her from harm;
 prospered." The common practice of bringing salt and bread into a new
 home before moving in, usually explained as symbolic of the hope that
 food may never be lacking there, was probably also in origin a means of
-securing the house against the spirits.[16](jms32.htm#an_11_16)
+securing the house against the spirits.[16](jms32.htm#an_11_16.md)
 
 Along with salt, sharp herbs and condiments in general have been widely
 regarded as anti-demonic, and have had an important place in religious
@@ -388,7 +388,7 @@ rites of purification. This is not true, however, of Jewish practice to
 any appreciable extent, though such ingredients were occasionally
 prescribed in medicaments, where their power to expel spirits may have
 been their recommendation, along with their more natural medicinal
-properties.[17](jms32.htm#an_11_17)
+properties.[17](jms32.htm#an_11_17.md)
 
 Among the most widely used anti-demonic devices in Europe is the gesture
 called "to fig" (in German, *die Feige weisen*, in French, *faire la
@@ -421,7 +421,7 @@ to the same end, and we learn that a witch is transfixed when one raises
 his index finger and thumb and recites the name "Uriel" seven times, or
 that an "evil impulse" may be vanquished by pressing the thumbs on the
 ground, repeating "Pipi" nine times, and
-spitting.[18](jms32.htm#an_11_18)
+spitting.[18](jms32.htm#an_11_18.md)
 
 #### STRATAGEM
 
@@ -456,7 +456,7 @@ angel of death comes to town the dogs are immediately aware of his
 presence and freeze in their tracks; if a dog's master should push him
 forward, the animal will drop dead; "the dog then serves as a substitute
 for the man whom the angel of death has been sent to
-kill."[19](jms32.htm#an_11_19)
+kill."[19](jms32.htm#an_11_19.md)
 
 <span id="page_163">p. 163</span>
 
@@ -479,7 +479,7 @@ no doubt that the practice was observed quite literally and that the
 execution was regarded as a means of appeasing the powers that had
 decreed the impending bad luck. The observation that "the hen's head is
 chopped off at the threshold of the house" can indicate nothing else
-than that it was an offering to the spirits.[20](jms32.htm#an_11_20)
+than that it was an offering to the spirits.[20](jms32.htm#an_11_20.md)
 
 The *Kapparah* rite is an interesting version of the famous "scapegoat"
 offering, which occurs in various forms among many peoples. It was first
@@ -559,7 +559,7 @@ usage, for where the significance of other such practices has long been
 lost sight of, the purpose of this one is too apparent to escape even
 the dullest wits. However little meaning the details of the rite may
 convey to the uninformed, the substitution of fowl for man is
-unescapable.[21](jms32.htm#an_11_21)
+unescapable.[21](jms32.htm#an_11_21.md)
 
 Not unrelated is the rite of *Tashlich*, observed on the first day of
 *Rosh Hashanah*, which derived its name from the words of Micah 7:19,
@@ -608,7 +608,7 @@ little sense as a woman, who say, 'I am going to the river to shake off
 my sins,' and grasping the edges of their garments shake them violently
 and imagine that in this way they can slough off a whole year's
 transgressions." However, it is with this meaning for the masses that
-the ceremony has survived.[22](jms32.htm#an_11_22)
+the ceremony has survived.[22](jms32.htm#an_11_22.md)
 
 Less formal food offerings were also fairly common. The Talmud cites the
 opinion of R. Eleazar b. Pedat: "He who leaves crumbs on the table is to
@@ -680,7 +680,7 @@ consecrated water had such power, and Jews may
 <span id="page_168">p. 168</span>
 
 also have believed that the wine of the "cup of blessing" would have the
-same effect.[23](jms32.htm#an_11_23)
+same effect.[23](jms32.htm#an_11_23.md)
 
 The final weapon in the anti-demonic strategy is that of deceit. It
 figures prominently in the initiation, marriage and burial rites of
@@ -697,7 +697,7 @@ one's residence, or moving out of a city altogether, was another way of
 confusing and eluding the demons; this remedy was suggested to people
 whose fortune had soured, to couples whose children died young, to men
 who had lost their peace of mind through the operation of love
-charms.[24](jms32.htm#an_11_24)
+charms.[24](jms32.htm#an_11_24.md)
 
 #### BIRTH, MARRIAGE AND DEATH
 
@@ -741,34 +741,34 @@ that were believed to be effective against the spirits. They were
 warned, however, on no account "to gossip about any sins that she might
 have committed." After the birth of her child she was not permitted to
 stir out of the house alone until after the
-circumcision.[25](jms32.htm#an_11_25)
+circumcision.[25](jms32.htm#an_11_25.md)
 
 2\. The Scroll of the *Torah* and phylacteries were placed on her bed,
-or at least brought to the door of her room.[26](jms32.htm#an_11_26)
+or at least brought to the door of her room.[26](jms32.htm#an_11_26.md)
 
-3\. Candles were lit in her behalf.[27](jms32.htm#an_11_27)
+3\. Candles were lit in her behalf.[27](jms32.htm#an_11_27.md)
 
 4\. During the last days prior to delivery she would keep a knife with
 her when she was alone. According to a late report, which probably
 reflects an earlier usage, the key to the synagogue was placed in her
 hand during labor; in isolated country places and villages where there
 was no synagogue the key to a church was borrowed for this
-purpose.[28](jms32.htm#an_11_28)
+purpose.[28](jms32.htm#an_11_28.md)
 
 5\. A circle was drawn around the lying-in bed, and a magical
 inscription (reading "Sanvi, Sansanvi, Semangelaf, Adam and Eve, barring
 Lilit") was chalked upon the walls or door of the
-room.[29](jms32.htm#an_11_29)
+room.[29](jms32.htm#an_11_29.md)
 
 6\. I know of no record of an actual offering to the spirits at this
 time, though it was customary among the Germans, and occurs in Oriental
 Jewries. However, a prime protective amulet bore the figures of fowl,
 which may be taken to have been a refinement of an earlier
-offering.[30](jms32.htm#an_11_30)
+offering.[30](jms32.htm#an_11_30.md)
 
 7\. It was suggested, to ease labor pains, that a woman should wear an
 article of her husband's clothing, such as his doublet, trousers, or
-belt.[31](jms32.htm#an_11_31)
+belt.[31](jms32.htm#an_11_31.md)
 
 <span id="page_170">p. 170</span>
 
@@ -796,10 +796,10 @@ thus: Israel was redeemed from Egypt because of a double blood merit,
 the blood of the Paschal lamb and the blood of circumcision; and Israel
 'shall take of the blood and put it on the lintel' of their houses (cf.
 Ex. 12:7) as a token that the Destroyer shall not have power over their
-homes, to do them harm. . . ."[32](jms32.htm#an_11_32)
+homes, to do them harm. . . ."[32](jms32.htm#an_11_32.md)
 
 2\. The child was very carefully guarded during these eight critical
-days.[33](jms32.htm#an_11_33)
+days.[33](jms32.htm#an_11_33.md)
 
 3\. "The essence of protection is to remain awake nights and study
 *Torah* until the circumcision." The writer might have added, and to
@@ -829,13 +829,13 @@ and *Weizennacht*, as French and German versions of *Wachnacht*, and as
 *Güets Nacht* and *Waizen-Nacht*. Whichever of these translations may be
 correct, the suggestion of Güdemann that the terms signify *Spuknacht*
 may be accepted as essentially faithful to the temper of the
-observance.[34](jms32.htm#an_11_34)
+observance.[34](jms32.htm#an_11_34.md)
 
 4\. It was customary, in some places, "to set a table with varieties of
 food on the night before the circumcision, with the explanation that
 they are doing this for the child's star" (or "to bring him good luck")
 . The rabbis pointed out that this was nothing else than an offering to
-the spirits.[35](jms32.htm#an_11_35)
+the spirits.[35](jms32.htm#an_11_35.md)
 
 5\. The custom of setting aside a chair for the Prophet Elijah during
 the circumcision goes back to early times, and was connected with a
@@ -847,7 +847,7 @@ similar practices among the Romans. It was not merely a symbolic
 gesture; something of Elijah's presence was actually believed to inhabit
 his chair. During the Middle Ages it was customary for the assembled
 guests to rise before the ceremony, and to greet the unseen visitor with
-the words, "Blessed be he that cometh."[36](jms32.htm#an_11_36)
+the words, "Blessed be he that cometh."[36](jms32.htm#an_11_36.md)
 
 6\. "This also is a protective measure," we read: "the house should be
 full of light" on the days before the circumcision, and candles were lit
@@ -870,11 +870,11 @@ of the word "covenant" (*berit*) in the Biblical chapter (Gen. 17) which
 speaks of circumcision, or with the thirteen tribes (including the
 half-tribes of Ephraim and Menasseh), or with the twelve tribes plus one
 for the child, this last candle being permitted to burn itself
-out.[37](jms32.htm#an_11_37)
+out.[37](jms32.htm#an_11_37.md)
 
 7\. The *Hollekreisch*, which has already been described, was a measure
 to drive off evil spirits during the ceremony of naming the child, by
-shouting and tossing the infant in the air.[38](jms32.htm#an_11_38)
+shouting and tossing the infant in the air.[38](jms32.htm#an_11_38.md)
 
 ##### Marriage
 
@@ -882,19 +882,19 @@ shouting and tossing the infant in the air.[38](jms32.htm#an_11_38)
 wedding day. A variety of far-fetched explanations was offered for this
 custom; one, which attained the height of absurdity, was that the groom
 might not be suspected of inebriety during the
-ceremony![39](jms32.htm#an_11_39)
+ceremony![39](jms32.htm#an_11_39.md)
 
 2\. The groom was escorted from his home to the synagogue by attendants;
 "just as a king is surrounded by his guards, so the attendants surround
 the groom," was the significant parallel. Sometimes the entire
 congregation accompanied him. For a while before and after the wedding
 the groom was forbidden to venture out-of-doors
-alone.[40](jms32.htm#an_11_40)
+alone.[40](jms32.htm#an_11_40.md)
 
 3\. The wedding procession, in broad daylight, was preceded by young men
 bearing lighted torches or candles, which were sometimes thrown into the
 air. Loud and often discordant music characterized the
-procession.[41](jms32.htm#an_11_41)
+procession.[41](jms32.htm#an_11_41.md)
 
 4\. The custom of breaking a glass at the wedding, which, according to
 some, goes back to Talmudic times, was a regular feature of the medieval
@@ -913,7 +913,7 @@ intended "to give the accuser \[Satan\] his due." The demons were
 believed to come from the north, and therefore the detail that the glass
 was thrown against the north wall has special significance in this
 connection. The custom combined an attempt to frighten off the demons
-with noise, and a direct attack upon them.[42](jms32.htm#an_11_42)
+with noise, and a direct attack upon them.[42](jms32.htm#an_11_42.md)
 
 5\. The wedding ceremony contained several instances of presenting
 gift-offerings to the spirits. Some of the wine over which the marriage
@@ -935,7 +935,7 @@ symbols are at bottom offerings to the spirits to gain their good-will.
 The presence of the gold coins, which may be viewed either as bribes, or
 as an anti-demonic use of metal, and of salt, which certainly was
 intended to drive away the demons, emphasizes the general nature of
-these customs.[43](jms32.htm#an_11_43)
+these customs.[43](jms32.htm#an_11_43.md)
 
 6\. An effort was made to introduce a note of mourning into the
 ceremony, ostensibly over the destruction of Jerusalem. Bride and groom
@@ -948,7 +948,7 @@ remained prevalent to this day, especially among the Jews of Eastern
 Europe and the Orient. The real purpose of all this doubtless, was to
 delude the demons into imagining it was a sorrowful and not a joyous
 occasion, and thus to avoid arousing their envy and
-hatred.[44](jms32.htm#an_11_44)
+hatred.[44](jms32.htm#an_11_44.md)
 
 7\. During the ceremony the groom's *mitron*, or his prayer-shawl,
 
@@ -960,7 +960,7 @@ been vestiges of an ancient exchange of clothes between the two, a
 custom frequently encountered among other peoples. The widespread custom
 of covering the bride's face with a veil, which prevailed throughout the
 Middle Ages, was originally intended to hide her from the
-spirits.[45](jms32.htm#an_11_45)
+spirits.[45](jms32.htm#an_11_45.md)
 
 8\. In some places the groom carried a piece of iron in his pocket
 during the ceremony. Toward the end of the Middle Ages it became
@@ -971,7 +971,7 @@ chamber before the bride, by way of rejoicing." A strange "way of
 rejoicing" indeed! The mad dash was only to get him to the bridal
 chamber before the demons, recovering from the bombardment to which they
 had been subjected, prevented him from enjoying his newly won connubial
-happiness.[46](jms32.htm#an_11_46)
+happiness.[46](jms32.htm#an_11_46.md)
 
 ##### Death
 
@@ -1004,7 +1004,7 @@ leaving the body. Similarly, salt delays death, and one should not put
 any upon the dying man's tongue for that purpose; but it was permissible
 to remove salt if it had coagulated upon his tongue. It was also
 customary to place the key to the synagogue under his head, though this
-too was forbidden by the authorities.[47](jms32.htm#an_11_47)
+too was forbidden by the authorities.[47](jms32.htm#an_11_47.md)
 
 THE CORPSE. The rules for preparing the corpse for burial were compiled
 in early post-Talmudic times, and comprise practices such as closing the
@@ -1054,7 +1054,7 @@ not given in the sources, but as an illustration of the tenacious
 popular awareness of the purposes of superstitious acts I may note that
 in recent times, among Russian Jews, when a grave had been dug and was
 not used promptly, it was filled in overnight and a rooster was buried
-in it![49](jms32.htm#an_11_49)
+in it![49](jms32.htm#an_11_49.md)
 
 1\. The custom of pouring out all the water in and near a house in which
 a death has occurred is not mentioned in Jewish sources earlier than the
@@ -1115,7 +1115,7 @@ So complex do the motives behind these observances become that it is
 well-nigh impossible to single them out with any assurance. It may be of
 interest to recall that we have in English a colloquial expression which
 commemorates this widespread custom of pouring out liquids—when a person
-dies we say he has "kicked the bucket"![50](jms32.htm#an_11_50)
+dies we say he has "kicked the bucket"![50](jms32.htm#an_11_50.md)
 
 2\. There was considerable difference of opinion in Talmudic and
 medieval literature as to whether mourners should precede or follow the
@@ -1135,7 +1135,7 @@ angel of death and Satan dance before them," it was explained, or,
 again, "the spirits of uncleanness cling to them." This caution was
 observed especially on the return from the cemetery, and "in Worms the
 men turn their faces to the wall when the women walk by" on their way
-home.[51](jms32.htm#an_11_51)
+home.[51](jms32.htm#an_11_51.md)
 
 3\. On the way to the cemetery, and after the body had been interred, it
 was customary, at least toward the end of our period, to recite the
@@ -1143,7 +1143,7 @@ was customary, at least toward the end of our period, to recite the
 Shabbetai, the son of Isaiah Horowitz, instructed his sons in his
 testament, "While my body is being lowered into the grave have seven
 pious and learned men repeat Psalm 91 seven
-times."[52](jms32.htm#an_11_52)
+times."[52](jms32.htm#an_11_52.md)
 
 4\. The custom of tearing up some grass and earth, after the conclusion
 of the funeral rites, and tossing it behind one's back, cannot be traced
@@ -1180,7 +1180,7 @@ century; luckily R. Moses b. Yeḥiel demonstrated to the satisfaction of
 the king that it was not intended "to cast a magic spell over the
 Gentiles, to kill them," but to signify the Jew's belief in the
 resurrection, and averted a disastrous outcome to this venture in
-Gentile superstition.[53](jms32.htm#an_11_53)
+Gentile superstition.[53](jms32.htm#an_11_53.md)
 
 5\. In Talmudic and Geonic times, it was customary for the funeral
 procession, on its return from the cemetery, to stop and sit down seven
@@ -1192,7 +1192,7 @@ period these halts were coupled with the recitation of Ps. 91 to verse
 each stop. It was frankly admitted that this was intended to confuse and
 shake off "the evil spirits which follow them home." After the service
 the chief mourners passed between a double line of people and were then
-escorted home by the entire company.[54](jms32.htm#an_11_54)
+escorted home by the entire company.[54](jms32.htm#an_11_54.md)
 
 6\. The custom of washing the hands after a funeral is very widespread;
 it seems to have made its way into Judaism in the early post-Talmudic
@@ -1203,7 +1203,7 @@ the lavation was performed three times. Efforts were made to find a
 Biblical precedent for this act, but along with such pious endeavors
 there was a general admission that it was done "to dispel the spirits of
 uncleanness" which cling to one's person, these being "the demons that
-follow them home."[55](jms32.htm#an_11_55)
+follow them home."[55](jms32.htm#an_11_55.md)
 
 7\. Mourning rites were most stringent during the seven days after
 interment, when the soul was believed to suffer intense agony on being
@@ -1241,8 +1241,8 @@ it was dropped altogether "because the Gentiles laugh at us," while in
 the Rhineland it led to the adoption of a distinctive mourning costume
 with a cowl, the *mitron*. Of similar import were the customs of letting
 the hair and beard grow, of changing one's seat in the synagogue, and
-the like.[56](jms32.htm#an_11_56)
+the like.[56](jms32.htm#an_11_56.md)
 
 ------------------------------------------------------------------------
 
-[Next: 12. Nature and Man](jms14)
+[Next: 12. Nature and Man](jms14.md)

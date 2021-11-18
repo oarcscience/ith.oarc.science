@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl10)  [Next](flhl12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl10)  [Next](flhl12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -96,7 +96,7 @@ they easily scaled the fortress wall and entered the royal chamber.
 Surprised at their coming in unannounced and without leave, Daûd
 demanded to know their business with him. He was thunderstruck when,
 having related the parable of the one ewe lamb, <span
-id="fr_22"></span>[1](#fn_22) they denounced his iniquity. When they had
+id="fr_22"></span>[1](#fn_22.md) they denounced his iniquity. When they had
 fulfilled their mission they departed, leaving the king so full of
 remorse at his failure to resist the temptation sent in answer to his
 prayer, that he wept day and night. Mountains and hills, trees and
@@ -107,8 +107,8 @@ stones, beasts and flying things,
 which had been wont to echo his songs of praise to Allah, now joined in
 his lamentations. There was universal weeping, and the tears of Daûd
 himself flowed so copiously that they filled both the Birket es
-Sultan, <span id="fr_23"></span>[1](#fn_23) and the Birket Hammâm el
-Batrak. <span id="fr_24"></span>[2](#fn_24) At last a prophet was sent
+Sultan, <span id="fr_23"></span>[1](#fn_23.md) and the Birket Hammâm el
+Batrak. <span id="fr_24"></span>[2](#fn_24.md) At last a prophet was sent
 to tell the contrite sinner that, in consideration of his penitence,
 Allah pardoned the sin against Himself, but that, for the crime against
 his fellow-man, he must obtain forgiveness from the person injured. The
@@ -154,7 +154,7 @@ answer, "he had overheard what I was saying to you, and asked me not to
 do it." So enraged was Suleymân at the irrepressible vanity of the
 speaker that he turned both birds into stone, as a warning to men not to
 boast, and to women not to encourage them. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 Suleymân was well acquainted with the language of plants. Whenever he
 came across a new plant he asked its name, uses, the soil and
@@ -215,17 +215,17 @@ Suleymân el Hakìm was dead.
 
 ### Footnotes
 
-<span id="fn_22"></span>[46:1](flhl11.htm#fr_22) 2 Sam. xii. 1-6.
+<span id="fn_22"></span>[46:1](flhl11.htm#fr_22.md) 2 Sam. xii. 1-6.
 
-<span id="fn_23"></span>[47:1](flhl11.htm#fr_23) Traditionally known as
+<span id="fn_23"></span>[47:1](flhl11.htm#fr_23.md) Traditionally known as
 the Lower Pool of Gihon.
 
-<span id="fn_24"></span>[47:2](flhl11.htm#fr_24) Traditionally known as
+<span id="fn_24"></span>[47:2](flhl11.htm#fr_24.md) Traditionally known as
 the Pool of Hezekiah.
 
-<span id="fn_25"></span>[48:1](flhl11.htm#fr_25) *Cf*. King Solomon and
+<span id="fn_25"></span>[48:1](flhl11.htm#fr_25.md) *Cf*. King Solomon and
 the Butterflies in Mr Rudyard Kipling's "Just So Stories."
 
 ------------------------------------------------------------------------
 
-[Next: IX. El Khudr](flhl12)
+[Next: IX. El Khudr](flhl12.md)

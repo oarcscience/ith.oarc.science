@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly21)  [Next](lly23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly21)  [Next](lly23.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 <span id="img_05400"></span> [![NEVADA FALLS&lt;BR&gt; &lt;I&gt;Photo H.
 C. Tibbitts&lt;/I&gt;](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 NEVADA FALLS  
 *Photo H. C. Tibbitts*  
 
@@ -39,10 +39,10 @@ mist goes curling, smoky, diaphanous, mysterious, as though graves
 beneath the water are giving up their ghosts.
 
 From high overhead a bird bursts into rhapsody, singing a
-[paean](errata.htm#0) of praise to the glory that is Yosemite; another,
+[paean](errata.htm#0.md) of praise to the glory that is Yosemite; another,
 and another, until their songs merge into one, and the passionate,
 poignant sweetness of one of Schubert's serenades seems to drip from the
-[eerie](errata.htm#1) heights to linger vibrantly upon the mellow air
+[eerie](errata.htm#1.md) heights to linger vibrantly upon the mellow air
 and melt reluctantly at last into throbbing silence.
 
 Embattled 'round the rim of the Valley, too rosy and golden, and purple
@@ -80,4 +80,4 @@ very soul will never be broken.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Big Trees of the Mariposa Grove](lly23)
+[Next: Chapter IV. Big Trees of the Mariposa Grove](lly23.md)

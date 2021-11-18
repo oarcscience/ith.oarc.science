@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas123n)  [Next](jas125n)   
- \[[124. The Skilful Brothers.](jas124)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas123n)  [Next](jas125n.md)   
+ \[[124. The Skilful Brothers.](jas124.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ Parsons, Sea Islands, 75.
 
 ------------------------------------------------------------------------
 
-[Next: Note 125. The Three Sillies.](jas125n)
+[Next: Note 125. The Three Sillies.](jas125n.md)

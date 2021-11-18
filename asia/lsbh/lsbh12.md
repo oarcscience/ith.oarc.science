@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh11)  [Next](lsbh13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh11)  [Next](lsbh13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -90,7 +90,7 @@ hate thee as an enemy."
 
 CCLXV\. Another learned man was asked, "Who is the wise man? Is it he of
 whom a man hath said, Send a wise man and command him not?" And he
-replied, "He that hearkeneth." <span id="fr_84"></span>[1](#fn_84)
+replied, "He that hearkeneth." <span id="fr_84"></span>[1](#fn_84.md)
 
 CCLXVI\. Another teacher pretended to learn the answer to a certain
 question from his disciple, and it was said to him \[by a certain man\],
@@ -127,13 +127,13 @@ the power can cause loss."
 
 ### Footnotes
 
-<span id="fn_84"></span>[68:1](lsbh12.htm#fr_84) Read \#\#\#
+<span id="fn_84"></span>[68:1](lsbh12.htm#fr_84.md) Read \#\#\#
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
 [Next: The Eighth Chapter: Profitable Sayings of the Arab Ascetics and
-Old Men](lsbh13)
+Old Men](lsbh13.md)
 
 </div>

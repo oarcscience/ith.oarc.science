@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[ESP](../../psi/index)  [Index](index)  [Previous](wild24) 
-[Next](wild26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[ESP](../../psi/index)  [Index](index)  [Previous](wild24.md) 
+[Next](wild26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wild Talents*, by Charles Fort, \[1933\], at Intangible Textual
 Heritage
 
@@ -180,7 +180,7 @@ But that, upon the morning of June 14th, because of a whim, suspicion,
 or intuitive fear, he went to Morningside Park instead—
 
 That somebody else sat on his particular bench—that there
-[occurred](errata.htm#6) something that was an intensification of the
+[occurred](errata.htm#6.md) something that was an intensification of the
 experiences of John Harding and another man, when crossing Fifth Avenue,
 at Thirty-third Street—to the man who was sitting on this particular
 bench, and to another man upon a nearby bench—
@@ -266,4 +266,4 @@ If so, that is what I shall call *external witchcraft*.
 
 ------------------------------------------------------------------------
 
-[Next: 26](wild26)
+[Next: 26](wild26.md)

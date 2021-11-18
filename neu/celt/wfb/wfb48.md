@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb47)  [Next](wfb49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb47)  [Next](wfb49.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ place at their inn.
 
 ------------------------------------------------------------------------
 
-[Next: The Swallowed Court](wfb49)
+[Next: The Swallowed Court](wfb49.md)

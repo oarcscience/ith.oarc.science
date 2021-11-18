@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft07)  [Next](ftft09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft07)  [Next](ftft09.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_39">p. 39</span>
 
-<span id="img_03900"></span> ![The Silent Princess](img/03900.jpg)
+<span id="img_03900"></span> ![The Silent Princess](img/03900.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who had a son, and the little Prince had a
 golden ball with which he was never tired of playing. One day as he sat
@@ -65,7 +65,7 @@ on his journey.<span id="img_04000"></span>
 
 |                                              |
 |----------------------------------------------|
-| ![An old man approached them](img/04000.jpg) |
+| ![An old man approached them](img/04000.jpg.md) |
 
 Toward evening they set out and as they took no care of their
 appearance, in six months they looked more like wild savages than a
@@ -91,7 +91,7 @@ the Prince, who with his lala again set off on the journey.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 FTER long wanderings they found themselves at the summit of another
 mountain, which they noticed was blood-red on every side. Going forward,
@@ -138,7 +138,7 @@ id="img_04200"></span>
 
 |                                                       |
 |-------------------------------------------------------|
-| ![The man had a nightingale in a cage](img/04200.jpg) |
+| ![The man had a nightingale in a cage](img/04200.jpg.md) |
 
 The bird caught his fancy so much that he resolved to buy it. The lala
 remonstrated, reminding the youth that they had a more weighty affair on
@@ -230,7 +230,7 @@ for him she would have remained dead."
 <span id="img_04500"></span>
 
 [![''I will now address the lamp-stand''](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)  
+Click to enlarge](img/04500.jpg.md)  
 ''I will now address the lamp-stand''  
 
 <span id="page_46">p. 46</span>
@@ -238,7 +238,7 @@ Click to enlarge](img/04500.jpg)
 The Padishah was immediately informed that his daughter had at length
 broken her silence. But the Princess protested that as she had been the
 victim of a ruse the youth should not be considered to have
-[succeeded](errata.htm#0) in his task until he had induced her to speak
+[succeeded](errata.htm#0.md) in his task until he had induced her to speak
 three times. Now said the Shah to the Prince: "If you can make her speak
 twice more she shall belong to you."
 
@@ -246,7 +246,7 @@ twice more she shall belong to you."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE youth left the monarch's presence, went to his lodgings, and began to
 ponder the matter. While deep in thought, the nightingale said: "The
@@ -328,7 +328,7 @@ it) related the following story:
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE once were a carpenter, a tailor, and a softa travelling together.
 Coming to a certain town, they hired a common dwelling and opened
@@ -369,4 +369,4 @@ her days.
 
 ------------------------------------------------------------------------
 
-[Next: Kara Mustafa the Hero](ftft09)
+[Next: Kara Mustafa the Hero](ftft09.md)

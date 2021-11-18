@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Shinto](../../shi) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Shinto](../../shi.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F2GHE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F2GHE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F2GHE/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gbf00)    [Page
-Index](pageidx)    [Text \[Zipped\]](gbf.txt.gz)
+[Contents](#contents)    [Start Reading](gbf00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](gbf.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,16 +41,16 @@ Japan, and Japanese folklore.--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gbf00)  
-[Contents](gbf01)  
-[I. A Living God](gbf02)  
-[II. Out of the Street](gbf03)  
-[III. Notes of a trip to Kyôto](gbf04)  
-[IV. Dust](gbf05)  
-[V. About Faces in Japanese Art](gbf06)  
-[VI. Ningyô-no-Haka](gbf07)  
-[VII. In Ôsaka](gbf08)  
-[VIII. Buddhist Allusions in Japanese Folk-Song](gbf09)  
-[IX. Nirvana, A Study in Synthetic Buddhism](gbf10)  
-[X. The Rebirth of Katsugorô](gbf11)  
-[XI. Within the Circle](gbf12)  
+<span id="contents"></span> [Title Page](gbf00.md)  
+[Contents](gbf01.md)  
+[I. A Living God](gbf02.md)  
+[II. Out of the Street](gbf03.md)  
+[III. Notes of a trip to Kyôto](gbf04.md)  
+[IV. Dust](gbf05.md)  
+[V. About Faces in Japanese Art](gbf06.md)  
+[VI. Ningyô-no-Haka](gbf07.md)  
+[VII. In Ôsaka](gbf08.md)  
+[VIII. Buddhist Allusions in Japanese Folk-Song](gbf09.md)  
+[IX. Nirvana, A Study in Synthetic Buddhism](gbf10.md)  
+[X. The Rebirth of Katsugorô](gbf11.md)  
+[XI. Within the Circle](gbf12.md)  

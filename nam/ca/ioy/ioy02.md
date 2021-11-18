@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ioy01)  [Next](ioy03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ioy01)  [Next](ioy03.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Introduction and Sketch of the Author](ioy03)
+[Next: Introduction and Sketch of the Author](ioy03.md)

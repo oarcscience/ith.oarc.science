@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](sos03)  [Next](sos05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](sos03)  [Next](sos05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -204,7 +204,7 @@ state.
 
 While the humming sound increased I noticed that the room was darkening
 as though a heavy shadow was engulfing the room in twilight. As the
-light [diminished](errata.htm#0) I began to grow apprehensive. I had the
+light [diminished](errata.htm#0.md) I began to grow apprehensive. I had the
 realization of how alone and helpless I actually was. For a bad moment I
 was on the edge of panic in the tightly sealed, darkening room.
 
@@ -432,7 +432,7 @@ once more with its shimmering rainbow halo. Dimly I could make out the
 <span id="page_30">p. 30</span>
 
 faint outlines of the Western Hemisphere in varying shades of misty
-blue. Also I could see faint puffs of light [scattered](errata.htm#1)
+blue. Also I could see faint puffs of light [scattered](errata.htm#1.md)
 here and there which I judged to be the larger cities of the North
 American continent.
 
@@ -524,7 +524,7 @@ Tears coursed down my cheeks. Under the spiritual scrutiny of that
 great, compassionate consciousness I felt like a crawling worm—unclean,
 filled with error and sin. Yes, I say sin, but not in the ordinary sense
 men use that word. Rather sin as sin really is. And basically sin is
-[hypocrisy](errata.htm#2), falsity, the living lie! It is looking at
+[hypocrisy](errata.htm#2.md), falsity, the living lie! It is looking at
 your fellow man with a friendly smile upon your face with treacherous,
 malicious, or mocking thoughts in your heart. Sin is any and all
 deviations from absolute truth, perfect love, absolute honesty and
@@ -624,4 +624,4 @@ experiences in the cold light of the coming days.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. My Meeting With Neptune](sos05)
+[Next: Chapter III. My Meeting With Neptune](sos05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe282)  [Next](prwe284) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe282)  [Next](prwe284.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ meaning that funerals will be plenty.
 
 ------------------------------------------------------------------------
 
-[Next: On the Births of Children](prwe284)
+[Next: On the Births of Children](prwe284.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dlw07)  [Next](dlw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dlw07)  [Next](dlw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406804029/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1326,4 +1326,4 @@ heart, strive unceasingly towards the human form.
 
 ------------------------------------------------------------------------
 
-[Next: 401-450](dlw09)
+[Next: 401-450](dlw09.md)

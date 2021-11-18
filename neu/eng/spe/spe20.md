@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe19)  [Next](spe21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe19)  [Next](spe21.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,11 +30,11 @@ THE LORD OF MISRULE PECULIAR TO ENGLAND.--It is said of the English,
 that formerly they were remarkable for the manner in which they
 celebrated the festival of Christmas; at which season they admitted
 variety of sports and pastimes not known, or little practised in other
-countries. <span id="fr_856"></span>[1](#fn_855) The mock prince, or
+countries. <span id="fr_856"></span>[1](#fn_855.md) The mock prince, or
 lord of misrule, whose reign extended through the greater part of the
 holidays, is particularly remarked by foreign writers, who consider him
 as a personage rarely to be met with out of England; <span
-id="fr_857"></span>[2](#fn_856) and, two or three centuries back,
+id="fr_857"></span>[2](#fn_856.md) and, two or three centuries back,
 perhaps this observation might be consistent with the truth; but I trust
 we shall upon due examination be ready to conclude, that anciently this
 frolicksome monarch was well known upon the continent, where he probably
@@ -44,19 +44,19 @@ authority, and continued after they had ceased to exist elsewhere. But
 even with us his government has been extinct for many years, and his
 name and his offices are nearly forgotten. In some great families, and
 also sometimes at court, this officer was called the Abbot of Misrule.
-Leland says, "This Christmas <span id="fr_858"></span>[3](#fn_857) I saw
+Leland says, "This Christmas <span id="fr_858"></span>[3](#fn_857.md) I saw
 no disguiseings at court, and right few playes; but there was an abbot
 of misrule that made much sport, and did right well his office." <span
-id="fr_859"></span>[4](#fn_858) In Scotland he was called the Abbot of
+id="fr_859"></span>[4](#fn_858.md) In Scotland he was called the Abbot of
 Unreason, and prohibited there in 1555 by the parliament. <span
-id="fr_860"></span>[5](#fn_859)
+id="fr_860"></span>[5](#fn_859.md)
 
 THE LORD OF MISRULE A COURT OFFICER.--Holingshed, speaking of Christmas,
 calls it, "What time there is alwayes one appointed to make sporte at
 courte called commonly lorde of misrule, whose office is not unknowne to
 such as have bene brought up in noblemen's houses and among great
 housekeepers, which use liberal feasting in the season." <span
-id="fr_861"></span>[6](#fn_860) Again: "At the feast of Christmas," says
+id="fr_861"></span>[6](#fn_860.md) Again: "At the feast of Christmas," says
 Stow, "in the king's court wherever he chanced to reside, there was
 
 <span id="page_268">p. 268</span>
@@ -70,7 +70,7 @@ delight the beholders; this pageant potentate began his rule at
 All-hallow eve, and continued the same till the morrow after the Feast
 of the Purification; in which space there were fine and subtle
 disguisings, masks, and mummeries." <span
-id="fr_862"></span>[1](#fn_861)
+id="fr_862"></span>[1](#fn_861.md)
 
 THE MASTER OF THE KING'S REVELS.--In the fifth year of Edward VI., at
 Christmas time, a gentleman named George Ferrers, who was a lawyer, a
@@ -91,7 +91,7 @@ opulent, he was also elected in various parishes, where, indeed, his
 reign seems to have been of shorter date. Philip Stubbs, who lived at
 the close of the sixteenth century, places this whimsical personage,
 with his followers, in a very degrading point of view. <span
-id="fr_863"></span>[2](#fn_862) I shall give the passage in the author's
+id="fr_863"></span>[2](#fn_862.md) I shall give the passage in the author's
 own words, and leave the reader to comment upon them. "First of all, the
 wilde heades of the parish flocking togither, chuse them a graund
 captaine of mischiefe, whom they innoble with the title of Lord of
@@ -175,7 +175,7 @@ save the King."
 
 \* The various colleges both at Oxford and Cambridge elected a Christmas
 Lord, or Lord of Misrule, to preside over the sports, plays and pageants
-of the season. <span id="fr_864"></span>[1](#fn_863)
+of the season. <span id="fr_864"></span>[1](#fn_863.md)
 
 THE KING OF CHRISTMAS.--The society belonging to Lincoln's Inn had
 anciently an officer chosen at this season, who was honoured with the
@@ -187,10 +187,10 @@ when the master of the revels, during the time of dining, supplied the
 marshal's place. Upon Childermas Day they had another officer,
 denominated the King of the Cockneys, who also presided on the day of
 his appointment, and had his inferior officers to wait upon him. <span
-id="fr_865"></span>[2](#fn_864)
+id="fr_865"></span>[2](#fn_864.md)
 
 A KING OF CHRISTMAS AT NORWICH.--In the history of Norfolk, <span
-id="fr_866"></span>[3](#fn_865) mention is made of a pageant exhibited
+id="fr_866"></span>[3](#fn_865.md) mention is made of a pageant exhibited
 at Norwich upon a Shrove Tuesday, which happened in the month of March,
 "when one rode through the street, having his horse trapped with tyn
 foyle and other nyse disgysynges, crowned as King of Christmas, in token
@@ -200,23 +200,23 @@ afore hym went yche moneth dysgysyd as the season requiryd."
 THE KING OF THE BEAN.--The dignified persons above mentioned were, I
 presume, upon an equal footing with the King of the Bean, whose reign
 commenced upon the vigil of the Epiphany, or upon the day itself. <span
-id="fr_867"></span>[4](#fn_866) We read that, some time back, "it was a
+id="fr_867"></span>[4](#fn_866.md) We read that, some time back, "it was a
 common Christmas gambol in both our universities, and continued," at the
 commencement of the last century, "to be usual in other places, to give
 the name of king or queen to that person whose extraordinary good luck
 it was to hit upon that part of a divided cake which was honoured above
 the others by having a bean in it." <span
-id="fr_868"></span>[5](#fn_867) The reader will readily trace the
+id="fr_868"></span>[5](#fn_867.md) The reader will readily trace the
 vestige of this custom, though somewhat differently managed, and without
 the bean, in the present method of drawing, as it is called, for king
 and queen upon Twelfth-day. I will not pretend to say in ancient times,
 for the title is by no means of recent date, that the election of this
 monarch, the King of the Bean, depended entirely upon the decision of
 fortune: the words of an old kalendar belonging to the Romish
-church <span id="fr_869"></span>[6](#fn_868) seem to favour a contrary
+church <span id="fr_869"></span>[6](#fn_868.md) seem to favour a contrary
 opinion; they are to this effect: On the fifth of January, the vigil of
 the Epiphany, the Kings of the Bean are created; <span
-id="fr_870"></span>[7](#fn_869) and on the sixth the feast of
+id="fr_870"></span>[7](#fn_869.md) and on the sixth the feast of
 
 <span id="page_271">p. 271</span>
 
@@ -226,10 +226,10 @@ this majestic title was conferred upon one of the king's minstrels, as
 we find by an entry in a computus so dated, which states that sixty
 shillings were given by the king, upon the day of the Epiphany, to Regan
 the trumpeter and his associates, the court minstrels, in the name of
-King of the Bean. <span id="fr_871"></span>[1](#fn_870)
+King of the Bean. <span id="fr_871"></span>[1](#fn_870.md)
 
 WHENCE THESE MOCK DIGNITIES WERE DERIVED.--Selden asserts, <span
-id="fr_872"></span>[2](#fn_871) and in my opinion with great justice,
+id="fr_872"></span>[2](#fn_871.md) and in my opinion with great justice,
 that all these whimsical transpositions of dignity are derived from the
 ancient Saturnalia, or Feasts of Saturn, when the masters waited upon
 their servants, who were honoured with mock titles, and permitted to
@@ -250,7 +250,7 @@ of Charles I. is worth citing:
 Caroll, the Beasts, Fowle, and Fish come to a generall execution, and
 the Corne is ground to dust for the Bakehouse and the Pastry. Cards and
 Dice purge many a purse, and the Youth show their agility in Shoeing of
-the Wild Mare. <span id="fr_873"></span>[3](#fn_872) Now good cheere and
+the Wild Mare. <span id="fr_873"></span>[3](#fn_872.md) Now good cheere and
 welcome, and God be with you and I thanke you. And against the new yeare
 provide for the presents. The Lord of Mis-Rule is no meane man for his
 time, and the ghests of the High Table must lacke no Wine. The lusty
@@ -271,7 +271,7 @@ conclude of it, I hold it (Christmas) a memory of
 
 the Heaven's Love, and the world's peace, the myrth of the honest, and
 the meeting of the friendly. Farewell." <span
-id="fr_874"></span>[1](#fn_873)
+id="fr_874"></span>[1](#fn_873.md)
 
 \* THE BOY-BISHOP.--The election and the investment of the Boy-Bishop, a
 general English custom, was probably derived from the festival of fools.
@@ -293,7 +293,7 @@ and expressly orders that the scholars "shall, every Childermas, that
 is, Innocents' Day, come to Paule's churche, and hear the Childe
 Byshop's sermon, and after be at hygh masse, and each of them offer a
 penny to the childe byshop; and with them the maisters and surveyors of
-the schole." <span id="fr_875"></span>[2](#fn_874) Full episcopal
+the schole." <span id="fr_875"></span>[2](#fn_874.md) Full episcopal
 vestments were provided for the Boy-Bishop, and copes for his
 companions; they occur in a great variety of inventories. At Salisbury,
 the Boy-Bishop and his fellows completely reversed the usual order of
@@ -304,7 +304,7 @@ furnished the incense and book, and the petties were the taper-bearers.
 The Boy-Bishop gave the benediction. Full Rubrical directions are given
 in the Sarum *Processional* for the Boy-Bishop during the few days that
 he held office. There is not the slightest touch of farce or
-ribaldry. <span id="fr_876"></span>[3](#fn_875) After divine service,
+ribaldry. <span id="fr_876"></span>[3](#fn_875.md) After divine service,
 the Boy-Bishop and his associates went about to different parts of the
 town, and visited the religious houses, collecting money. These
 ceremonies and processions were formally abrogated by proclamation from
@@ -322,17 +322,17 @@ enie true glorie to God, or honor of his
 
 <span id="page_273">p. 273</span>
 
-sayntes." <span id="fr_877"></span>[1](#fn_876) This idle pageantry was
+sayntes." <span id="fr_877"></span>[1](#fn_876.md) This idle pageantry was
 revived by his daughter Mary; and in the second year of her reign an
 edict, dated November 13, 1554, was issued from the Bishop of London to
 the clergy of his diocese, to have a Boy-Bishop in procession. <span
-id="fr_878"></span>[2](#fn_877) The year following, "the child bishop,
+id="fr_878"></span>[2](#fn_877.md) The year following, "the child bishop,
 of Paules church, with his company," were admitted into the queen's
 privy chamber, where he sang before her on Saint Nicholas' Day and upon
-Holy Innocents' Day. <span id="fr_879"></span>[3](#fn_878) Again the
+Holy Innocents' Day. <span id="fr_879"></span>[3](#fn_878.md) Again the
 next year, says Strype, "on Saint Nicholas-even, Saint Nicholas, that
 is, a boy habited like a bishop in pontificalibus, <span
-id="fr_880"></span>[4](#fn_879) went abroad in most parts of London,
+id="fr_880"></span>[4](#fn_879.md) went abroad in most parts of London,
 singing after the old fashion; and was received with many ignorant but
 well-disposed people into their houses, and had as much good cheer as
 ever was wont to be had before."
@@ -355,7 +355,7 @@ and taught. The Boy-Bishop seems to have been chosen from these
 children, and is usually described in the accounts as *Episcopus
 Elemosinariæ*. He received gratuities from almost all the officers of
 the abbey, who entered the amount on their different rolls. These sums
-varied from 20d. to 5s. <span id="fr_881"></span>[5](#fn_880)
+varied from 20d. to 5s. <span id="fr_881"></span>[5](#fn_880.md)
 
 \* Richard Berde, doctor of laws, by will of May 2nd, 1501, left to the
 abbey church of the Austin Canons of St James, Northampton, his
@@ -363,7 +363,7 @@ abbey church of the Austin Canons of St James, Northampton, his
 cross-bearer on Seynt Nicholas-night." Doubtless the doctor, who had
 long had a chamber within the precincts, had often in his lifetime lent
 his parti-coloured hood for the festival of the monastery school. <span
-id="fr_882"></span>[6](#fn_881)
+id="fr_882"></span>[6](#fn_881.md)
 
 \* PLOUGH MONDAY.--There were three special seasons for the performance
 of what is termed English folk-drama, and traces of all three survive.
@@ -392,18 +392,18 @@ rattled and the music played, and if neither refreshment nor money was
 forthcoming, the ground in front of the house, whether grass-plot or
 gravel walk, was roughly ploughed up, and the mummers departed. This
 last feature used to be vigorously carried out as late as the "forties"
-in the Peak of Derbyshire. <span id="fr_883"></span>[1](#fn_882) Plough
+in the Peak of Derbyshire. <span id="fr_883"></span>[1](#fn_882.md) Plough
 Monday was observed in Huntingdonshire in 1860, where the mummers were
-termed "Plough-Witchers." <span id="fr_884"></span>[2](#fn_883) A Plough
+termed "Plough-Witchers." <span id="fr_884"></span>[2](#fn_883.md) A Plough
 Monday play was acted at Wiverton Hall, Nottinghamshire, in 1893; no
 plough was brought round, but the mummers' clothes were ornamented with
-paper ploughs in red and black. <span id="fr_885"></span>[3](#fn_884)
+paper ploughs in red and black. <span id="fr_885"></span>[3](#fn_884.md)
 
 SHROVE TUESDAY.--Cock-fighting, and throwing at cocks on Shrove Tuesday,
 have been already mentioned, with other trifling sports which are
 comprised under their appropriate heads, and need not to be repeated.
 The day before Lent began used to be a universal holiday given up to a
-variety of sports. <span id="fr_886"></span>[4](#fn_885)
+variety of sports. <span id="fr_886"></span>[4](#fn_885.md)
 
 \* EASTER GAMES.--Easter, as has been already stated, was the usual
 season for an Easter play or mumming, which is still sometimes called
@@ -411,7 +411,7 @@ the Pace-Egg play, a corruption of *pasche* or passover. The egg was
 always held to be an apt symbol of the Resurrection, hence Easter eggs
 and various customs that yet linger connected with them. This Easter
 play is still occasionally printed, <span
-id="fr_887"></span>[5](#fn_886) and occasionally acted by village
+id="fr_887"></span>[5](#fn_886.md) and occasionally acted by village
 players. The characters are much the same as they probably were in
 pre-Reformation days, namely, St George, Fool, Slasher, Doctor, Prince
 of Paradine, King of Egypt, Hector, Beelzebub, and Devil-Doubt.
@@ -430,18 +430,18 @@ pastimes, in which the towns-people, divided into parties, were
 accustomed to draw each other with ropes. Spelman is more definite, and
 tells us, "they consisted in the men and women binding each other, and
 especially the women the men," and hence it was called
-Binding-Tuesday. <span id="fr_888"></span>[1](#fn_887) Cowel informs us
+Binding-Tuesday. <span id="fr_888"></span>[1](#fn_887.md) Cowel informs us
 that it was customary in several manors in Hampshire for "the men to
 hock the women on the Monday, and the women the men upon the Tuesday;
 that is, on that day the women in merriment stop the ways with ropes and
 pull the passengers to them, desiring something to be laid out in pious
 uses in order to obtain their freedom." <span
-id="fr_889"></span>[2](#fn_888) Such are the general outlines of this
+id="fr_889"></span>[2](#fn_888.md) Such are the general outlines of this
 singular institution, and the pens of several able writers have been
 employed in attempting to investigate its origin. <span
-id="fr_890"></span>[3](#fn_889) Some think it was held in commemoration
+id="fr_890"></span>[3](#fn_889.md) Some think it was held in commemoration
 of the massacre of the Danes, in the reign of Ethelred the Unready, on
-Saint Brice's Day; <span id="fr_891"></span>[4](#fn_890) others, that it
+Saint Brice's Day; <span id="fr_891"></span>[4](#fn_890.md) others, that it
 was in remembrance of the death of Hardicanute, which happened on
 Tuesday the 8th of June, 1041, by which event the English were delivered
 from the intolerant government of the Danes: and this opinion appears to
@@ -454,7 +454,7 @@ parish of Lambeth for the years 1515 and 1516, are several entries of
 hock monies received from the men and the women for the church service.
 And here we may observe, that the contributions collected by the fair
 sex exceeded those made by the men. <span
-id="fr_892"></span>[5](#fn_891)
+id="fr_892"></span>[5](#fn_891.md)
 
 Hock-day was generally observed as lately as the sixteenth century. We
 learn from Spelman that it was not totally discontinued in his time. Dr
@@ -462,7 +462,7 @@ Plott, who makes Monday the principal day, has noticed some vestiges of
 it at the distance of fifty years, but now it is totally abolished.
 
 \* The derivation of the word Hock is still a puzzle to
-etymologists. <span id="fr_893"></span>[6](#fn_892) The roughly humorous
+etymologists. <span id="fr_893"></span>[6](#fn_892.md) The roughly humorous
 games of this season, when the men extorted payment from the women on
 the Monday, and the women from the men on the Tuesday, are peculiar to
 England, whatever may be their historic origin, and were certainly in
@@ -473,9 +473,9 @@ pre-Reformation date have entries relative to Hock-tide payments.
 
 MAY-GAMES.--The celebration of the May-games, at which we have only
 glanced in a former part of the work, <span
-id="fr_894"></span>[7](#fn_893) will require some enlargement in this
+id="fr_894"></span>[7](#fn_893.md) will require some enlargement in this
 chapter. "On the calends or first of May," says Bourne, <span
-id="fr_895"></span>[8](#fn_894) "commonly called May-day, the juvenile
+id="fr_895"></span>[8](#fn_894.md) "commonly called May-day, the juvenile
 part of both sexes were wont to rise a little after midnight
 
 <span id="page_276">p. 276</span>
@@ -509,7 +509,7 @@ towards evening they had stage-plays and bonfires in the streets. These
 great mayings and May-games were made by the governors and masters of
 the city, together with the triumphant setting up of the great shaft or
 principal May-pole in Cornhill before the parish church of Saint
-Andrew," <span id="fr_896"></span>[1](#fn_895) which was thence called
+Andrew," <span id="fr_896"></span>[1](#fn_895.md) which was thence called
 Saint Andrew Undershaft.
 
 No doubt the May-games are of long standing, though the time of their
@@ -527,7 +527,7 @@ contemporary writer, one who saw these pastimes in a very different
 point of view, and some may think his invectives are more severe than
 just; however, I am afraid the conclusion of them, though perhaps much
 exaggerated, is not altogether without foundation. He writes thus: <span
-id="fr_897"></span>[2](#fn_896) "Against Maie-day, Whitsunday, or some
+id="fr_897"></span>[2](#fn_896.md) "Against Maie-day, Whitsunday, or some
 other time of the year, every parish, towne, or village, assemble
 themselves, both men, women, and children; and either all together, or
 dividing themselves into companies, they goe some to the woods and
@@ -560,7 +560,7 @@ In the churchwarden's account for the parish of St Helen's in Abingdon,
 Berks, dated 1566, the ninth of Elizabeth, is the following article:
 "Payde for setting up Robin Hoode's bower, eighteenpence;" that is, a
 bower for the reception of the fictitious Robin Hood and his company,
-belonging to the May-day pageant. <span id="fr_898"></span>[1](#fn_897)
+belonging to the May-day pageant. <span id="fr_898"></span>[1](#fn_897.md)
 
 THE LORD AND LADY OF THE MAY.--It seems to have been the constant
 custom, at the celebration of the May-games, to elect a Lord and Lady of
@@ -570,7 +570,7 @@ Fenchurch Street, with drums, and guns, and pikes; and with the nine
 worthies who rode, and each of them made his speech, there was also a
 morrice dance, and an elephant and castle, and the Lord and Lady of the
 May appearing to make up the show." <span
-id="fr_899"></span>[2](#fn_898) We also read that the Lord of the May,
+id="fr_899"></span>[2](#fn_898.md) We also read that the Lord of the May,
 and no doubt his Lady also, was decorated with scarfs, ribbands, and
 other fineries. Hence, in the comedy called *The Knight of The Burning
 Pestle*, written by Beaumont and Fletcher in 1611, a citizen, addressing
@@ -605,7 +605,7 @@ the same; each of them had his bow, with arrows, and a sword, and a
 buckler, "like outlawes, or Robyn Hode's men." The queen, it seems, at
 first was somewhat afrighted by their appearance, of which she was not
 the least apprised. This gay troop performed several dances, and then
-departed. <span id="fr_900"></span>[1](#fn_899)
+departed. <span id="fr_900"></span>[1](#fn_899.md)
 
 Bishop Latimer, in a sermon which he preached before king Edward VI.,
 relates the following anecdote, which proves the great popularity of the
@@ -614,12 +614,12 @@ preach, I found the church door fast locked. I taryed there half an
 houre and more, and at last the key was found, and one of the parish
 comes to me and sayes, Syr, this is a busy day with us, we cannot hear
 you; it is Robin Hoode's day; the parish are gone abroad to gather for
-Robin Hood; I pray you let <span id="fr_901"></span>[2](#fn_900) them
+Robin Hood; I pray you let <span id="fr_901"></span>[2](#fn_900.md) them
 not. I was fayne, therefore, to give place to Robin Hood. I thought my
 rochet would have been regarded; but it would not serve, it was faine to
-give place to Robin Hoode's men." <span id="fr_902"></span>[3](#fn_901)
+give place to Robin Hoode's men." <span id="fr_902"></span>[3](#fn_901.md)
 In Garrick's Collection of Old Plays <span
-id="fr_903"></span>[4](#fn_902) is one entitled "A new Playe of Robyn
+id="fr_903"></span>[4](#fn_902.md) is one entitled "A new Playe of Robyn
 Hoode, for to be played in the May-games, very pleasaunte and full of
 Pastyme," printed at London by William Copland, black letter, without
 date. This playe consists of short dialogues between Robyn Hode, Lytell
@@ -627,12 +627,12 @@ John, Fryer Tucke, a potter's boy, and the potter. Robyn fights with the
 friar, who afterwards becomes his chaplain; he also breaks the boy's
 pots, and commits several other absurdities. The language of the piece
 is somewhat low, and full of ribaldry. <span
-id="fr_904"></span>[5](#fn_903)
+id="fr_904"></span>[5](#fn_903.md)
 
 GRAND MAY-GAME AT GREENWICH.--It has been observed that the May-games
 were not confined to the first day of the month, neither were they
 always concluded in one day; on the contrary I have now before me a
-manuscript, <span id="fr_905"></span>[6](#fn_904) written apparently in
+manuscript, <span id="fr_905"></span>[6](#fn_904.md) written apparently in
 the reign of Henry VII., wherein a number of gentlemen, professing
 themselves to be the servants of the Lady May, promise to be in the
 
@@ -643,7 +643,7 @@ afternoon till five, in order to perform the various sports and
 exercises specified in the agreement; that is to say,
 
 On the 14th day of May they engage to meet at a place appointed by the
-king, armed with the "harneis <span id="fr_906"></span>[1](#fn_905)
+king, armed with the "harneis <span id="fr_906"></span>[1](#fn_905.md)
 thereunto accustomed, to kepe the fielde, and to run with every commer
 eight courses." Four additional courses were to be granted to any one
 who desired it, if the time would permit, or the queen was pleased to
@@ -707,7 +707,7 @@ horse sat a lady, with her name written. On the first horse, called
 Lawde, sat Humidity; on the second, named Memeon, sat Lady Vert, or
 green; on the third, called Pheton, sat Lady Vegitive; on the fourth,
 called Rimphon, sat Lady Pleasaunce; on the fifth, called Lampace, sat
-Sweet Odour. <span id="fr_907"></span>[1](#fn_906) Both of the ladies in
+Sweet Odour. <span id="fr_907"></span>[1](#fn_906.md) Both of the ladies in
 the chariot were splendidly apparelled; one of them personified the Lady
 May, and the other Lady Flora, "who," we are told, "saluted the king
 with divers goodly songs, and so brought him to Greenwich."
@@ -721,7 +721,7 @@ round table, and gave them warning that, early in the morning, she
 should ride on maying into the woods and fields beside Westminster." The
 knights were all of them to be clothed in green, to be well horsed, and
 every one of them to have a lady behind him, followed by an esquire and
-two yeomen, etc. <span id="fr_908"></span>[2](#fn_907)
+two yeomen, etc. <span id="fr_908"></span>[2](#fn_907.md)
 
 \* MAY-POLES.--By an ordinance of the Long Parliament in April, 1644,
 all May-poles were to be taken down as "a heathenish vanity." The
@@ -761,7 +761,7 @@ the morrice about a post in honour of a whore, as you shall see anon."
 
 MAY MILK-MAIDS.--"It is at this time," that is, in May, says the author
 of one of the papers in the *Spectator*, <span
-id="fr_909"></span>[1](#fn_908) "we see the brisk young wenches, in the
+id="fr_909"></span>[1](#fn_908.md) "we see the brisk young wenches, in the
 country parishes, dancing round the May-pole. It is likewise on the
 first day of this month that we see the ruddy milk-maid exerting herself
 in a most sprightly manner under a pyramid of silver tankards, and like
@@ -774,7 +774,7 @@ customers, and danced in order to obtain a small gratuity from each of
 them. In a set of prints called Tempest's *Cryes of London*, there is
 one called the merry milk-maid's, whose proper name was Kate Smith. She
 is dancing with the milk-pail, decorated as above mentioned, upon her
-head. <span id="fr_910"></span>[2](#fn_909) Of late years the plate,
+head. <span id="fr_910"></span>[2](#fn_909.md) Of late years the plate,
 with the other decorations, were placed in a pyramidical form, and
 carried by two chairmen upon a wooden horse. The maidens walked before
 it, and performed the dance without any incumbrance. I really cannot
@@ -818,12 +818,12 @@ mirth and merry glee. Next day the lamb, partly baked, partly boiled,
 and partly roasted, was served up for the lady's feast, where she sat,
 "majestically at the upper end of the table, and her companions with
 her," the music playing during the repast, which, being finished, the
-solemnity ended." <span id="fr_911"></span>[1](#fn_910)
+solemnity ended." <span id="fr_911"></span>[1](#fn_910.md)
 
 \* LAMB-ALE.--Mr G. A. Rowell, in 1886, gave the following interesting
 and corrected account of this lamb-ale, which was held annually at
 Kirtlington (not Kidlington), a village about nine miles north of
-Oxford: <span id="fr_912"></span>[2](#fn_911)
+Oxford: <span id="fr_912"></span>[2](#fn_911.md)
 
 "The name of Kidlington is given for Kirtlington, the two villages being
 about four miles apart: the story of the maidens catching the lamb with
@@ -906,7 +906,7 @@ which the young men frequently leaped by way of frolic, and also
 exercised themselves with various sports and pastimes, more especially
 with running, wrestling, and dancing. These diversions they continued
 till midnight, and sometimes till cock-crowing; <span
-id="fr_913"></span>[1](#fn_912) several of the superstitious ceremonies
+id="fr_913"></span>[1](#fn_912.md) several of the superstitious ceremonies
 practised upon this occasion are contained in the following verses, as
 they are translated by Barnabe Googe from the
 
@@ -973,12 +973,12 @@ profane lovers of
 this world, who make great fires in the streets, and indulge themselves
 with filthy and unlawful games, to which they add glotony and
 drunkenness, and the commission of many other shameful
-indecencies." <span id="fr_914"></span>[1](#fn_913)
+indecencies." <span id="fr_914"></span>[1](#fn_913.md)
 
 SETTING OF THE MIDSUMMER WATCH.--In former times it was customary in
 London, and in other great cities, to set the Midsummer watch upon the
 eve of St John the Baptist; and this was usually performed with great
-pomp and pageantry. <span id="fr_915"></span>[2](#fn_914) The following
+pomp and pageantry. <span id="fr_915"></span>[2](#fn_914.md) The following
 short extract from the faithful historian, John Stow, will be sufficient
 to show the childishness as well as the expensiveness of this idle
 spectacle. The institution, he assures us, had been appointed, "time out
@@ -1014,7 +1014,7 @@ giant, three pageants; whereas the sheriffs had only two besides their
 giants, each with their morris-dance and one henchman: their officers
 were clothed in jackets of worsted, or say party-coloured, but differing
 from those belonging to the mayor, and from each other: they had also a
-great number of harnessed men." <span id="fr_916"></span>[3](#fn_915)
+great number of harnessed men." <span id="fr_916"></span>[3](#fn_915.md)
 This old custom of setting the watch in London was maintained until the
 year 1539, in the 31st year of Henry VIII. when it was discontinued on
 
@@ -1025,13 +1025,13 @@ VI. and soon after that time it was totally abolished.
 
 On Midsummer eve it was customary annually at Burford, in Oxfordshire,
 to carry a dragon up and down the town, with mirth and rejoicing; to
-which they also added the picture <span id="fr_917"></span>[1](#fn_916)
+which they also added the picture <span id="fr_917"></span>[1](#fn_916.md)
 of a giant. Dr Plott tells us, this pageantry was continued in his
 memory, and says it was established, at least the dragon part of the
 show, in memory of a famous victory obtained near that place, about 750,
 by Cuthred, king of the west Saxons, over Ethebald, king of Mercia, who
 lost his standard, surmounted by a golden dragon, <span
-id="fr_918"></span>[2](#fn_917) in the action.
+id="fr_918"></span>[2](#fn_917.md) in the action.
 
 PROCESSIONS ON ST CLEMENT'S AND ST CATHERINE'S DAYS.--The Anniversary of
 Saint Clement, and that of Saint Catherine, the first upon the 23rd, and
@@ -1041,17 +1041,17 @@ again established by Queen Mary. In the year she ascended the throne,
 according to Strype, on the evening of Saint Catherine's Day, her
 procession was celebrated at London with five hundred great lights,
 which where carried round Saint Paul's steeple; <span
-id="fr_919"></span>[3](#fn_918) and again three years afterwards, her
+id="fr_919"></span>[3](#fn_918.md) and again three years afterwards, her
 image, if I clearly understand my author, was taken about the
 battlements of the same church with fine singing and many great
-lights. <span id="fr_920"></span>[4](#fn_919) But the most splendid show
-of this kind that took [place in](errata.htm#2) Mary's time was the
+lights. <span id="fr_920"></span>[4](#fn_919.md) But the most splendid show
+of this kind that took [place in](errata.htm#2.md) Mary's time was the
 procession on Saint Clement's Day, exhibited in the streets of London;
 it consisted of sixty priests and clerks in their copes, attended by
 divers of the inns of court, who went next the priests, preceded by
 eighty banners and streamers, with the waits or minstrels of the city
 playing upon different instruments. <span
-id="fr_921"></span>[5](#fn_920)
+id="fr_921"></span>[5](#fn_920.md)
 
 WASSAILS.--Wassail, or rather the wassail bowl, which was a bowl of
 spiced ale, formerly carried about by young women on New-year's eve, who
@@ -1072,7 +1072,7 @@ say that it has the authority at least of antiquity on its side. The
 wassails are now (1800) quite obsolete; but it seems that fifty years
 back, some vestiges of them were remaining in Cornwall; but the time of
 their performance was changed to twelfth-day. <span
-id="fr_922"></span>[6](#fn_921)
+id="fr_922"></span>[6](#fn_921.md)
 
 <span id="page_287">p. 287</span>
 
@@ -1092,7 +1092,7 @@ the last century, it was not infrequent on the Somersetshire side of
 Exmoor. A great bowl of cider was placed in one of the biggest trees
 after dark. When the verses of incantation had been sung, each of the
 company drank from the bowl, and the remainder was flung up into the
-tree. <span id="fr_923"></span>[1](#fn_922)
+tree. <span id="fr_923"></span>[1](#fn_922.md)
 
 \* A correspondent of *Notes and Queries* contributed the following in
 1852:
@@ -1111,7 +1111,7 @@ Full quarters, sacks full.
 
 They then shout in chorus, one of the boys accompanying them on the
 cow's horn; during the ceremony they rap the trees with their
-sticks. <span id="fr_924"></span>[2](#fn_923)
+sticks. <span id="fr_924"></span>[2](#fn_923.md)
 
 \* In Hazlitt's edition of Brand's *Popular Antiquities*, published in
 1870, the shouting of the boys in the orchards is said to still prevail
@@ -1145,18 +1145,18 @@ arrive at the barn." Moresin, another foreign writer, also tells us that
 he saw "in England, the country people bring home," from the harvest
 field, I presume he means, "a figure made with corn, round which the men
 and the women were promiscuously singing, and preceded by a piper or a
-drum." <span id="fr_925"></span>[1](#fn_924) "In the north," says Mr
+drum." <span id="fr_925"></span>[1](#fn_924.md) "In the north," says Mr
 Brand, "not half a century ago, they used everywhere to dress up a
 figure something similar to that just described, at the end of harvest,
 which they called a kern-baby, plainly a corruption of corn-baby, as the
 kern, or churn supper, is of corn-supper." <span
-id="fr_926"></span>[2](#fn_925)
+id="fr_926"></span>[2](#fn_925.md)
 
 The harvest-supper in some places is called a mell-supper, and a
 churn-supper. Mell is plainly derived from the French word mesler, to
 mingle together, the master and servant promiscuously at the same
-table. <span id="fr_927"></span>[3](#fn_926) At the mell-supper,
-Bourne <span id="fr_928"></span>[4](#fn_927) tells us, "the servant and
+table. <span id="fr_927"></span>[3](#fn_926.md) At the mell-supper,
+Bourne <span id="fr_928"></span>[4](#fn_927.md) tells us, "the servant and
 his master are alike, and every thing is done with equal freedom. They
 sit at the same table, converse freely together, and spend the remaining
 part of the night in dancing and singing, without any difference or
@@ -1164,7 +1164,7 @@ distinction." "There was," continues my author," a custom among the
 heathens much like this at the gathering of their harvest, when the
 servants were indulged with their liberty, and put upon an equality with
 their masters for a certain time. Probably both of them originated from
-the Jewish feast of tabernacles." <span id="fr_929"></span>[5](#fn_928)
+the Jewish feast of tabernacles." <span id="fr_929"></span>[5](#fn_928.md)
 
 WAKES.--The wakes, when first instituted in this country, were
 established upon religious principles, and greatly resembled the agapæ,
@@ -1175,12 +1175,12 @@ British abbot, says, "whereas the people were accustomed to sacrifice
 many oxen in honour of dæmons, let them celebrate a religious and solemn
 festival, and not slay the animals, diabolo, to the devil, but to be
 eaten by themselves, *ad laudem Dei*, to the praise of God." <span
-id="fr_930"></span>[6](#fn_929) These festivals were primitively held
+id="fr_930"></span>[6](#fn_929.md) These festivals were primitively held
 upon the day of the dedication of the church in each district, or the
 day of the saint whose relics were therein deposited, or to whose honour
 it was consecrated; for which purpose the people were directed to make
 booths and tents with the boughs of trees adjoining to the
-churches, <span id="fr_931"></span>[7](#fn_930) and in them to celebrate
+churches, <span id="fr_931"></span>[7](#fn_930.md) and in them to celebrate
 the feast with thanksgiving and prayer. In process of time the people
 assembled on the vigil, or evening preceding the saint's day, and came,
 says an old author, "to churche with candellys burnyng, and would
@@ -1188,7 +1188,7 @@ says an old author, "to churche with candellys burnyng, and would
 <span id="page_289">p. 289</span>
 
 wake, and come toward night to the church in their devocion," <span
-id="fr_932"></span>[1](#fn_931) agreeable to the requisition contained
+id="fr_932"></span>[1](#fn_931.md) agreeable to the requisition contained
 in one of the canons established by King Edgar, whereby those who came
 to the wake were ordered to pray devoutly, and not to betake themselves
 to drunkenness and debauchery. The necessity for this restriction
@@ -1233,7 +1233,7 @@ came the wives in comely manner, and they which were of the better sort
 had their mantles carried with them, as well for show as to keep them
 from the cold at the table. These mantles also many did use at the
 churches, at the morrow masses, and at other times." <span
-id="fr_933"></span>[2](#fn_932)
+id="fr_933"></span>[2](#fn_932.md)
 
 CHURCH-ALES.--The Church-ales, called also Easter-ales, and Whitsun-
 
@@ -1254,7 +1254,7 @@ addition to what they paid for their drink, contributed something
 towards the collection; but in some instances the inhabitants of one or
 more parishes were mulcted in a certain sum according to mutual
 agreement, as we find by an ancient stipulation, <span
-id="fr_934"></span>[1](#fn_933) couched in the following terms: "The
+id="fr_934"></span>[1](#fn_933.md) couched in the following terms: "The
 parishioners of Elvaston and those of Okebrook in Derbyshire agree
 jointly to brew four ales, and every ale of one quarter of malt between
 this, and the feast of Saint John the Baptist next comming, and every
@@ -1276,12 +1276,12 @@ on their own victuals, contributing some petty portion to the stock.
 When the feast is ended, the wardens yield in their accounts to the
 parishioners; and such money as exceedeth the disbursements, is layed up
 in store to defray any extraordinary charges arising in the
-parish." <span id="fr_935"></span>[2](#fn_934)
+parish." <span id="fr_935"></span>[2](#fn_934.md)
 
 To what has been said upon this subject, I shall only add the following
 extract from Philip Stubbs, an author before quoted, who lived in the
 reign of Queen Elizabeth, whose writings <span
-id="fr_936"></span>[3](#fn_935) are pointed against the popular vices
+id="fr_936"></span>[3](#fn_935.md) are pointed against the popular vices
 and immoralities of his time. "In certaine townes," says he, "where
 drunken Bacchus bears swaie against Christmass and Easter, Whitsunday,
 or some other time, the churchwardens, for so they call them, of every
@@ -1309,7 +1309,7 @@ at one of these wakesses than in all the whole years besides."
 
 The ingenious researcher into the causes of melancholy on the contrary
 thinks that these kinds of amusement ought not to be denied to the
-commonalty. <span id="fr_937"></span>[1](#fn_936) Chaucer, in the
+commonalty. <span id="fr_937"></span>[1](#fn_936.md) Chaucer, in the
 Ploughman's Tale, reproves the priests because they were more attentive
 to the practice of secular pastimes than to the administration of their
 holy functions, saying they were expert
@@ -1327,7 +1327,7 @@ are confined to the purposes of drinking, or the displayment of vulgar
 pastimes. These pastimes, or at least such of them as occur to my
 memory, I shall mention here in a cursory manner, and pass on to the
 remaining part of this chapter. In a paper belonging to the
-*Spectator* <span id="fr_938"></span>[2](#fn_937) there is a short
+*Spectator* <span id="fr_938"></span>[2](#fn_937.md) there is a short
 description of a country wake. "I found," says the author, "a ring of
 cudgel-players, who were breaking one another's heads in order to make
 some impression on their mistresses' hearts." He then came to "a
@@ -1414,7 +1414,7 @@ prize.
 
 Smock Races are commonly performed by the young country wenches, and so
 called because the prize is a holland smock, or shift, usually decorated
-with ribbands. <span id="fr_939"></span>[1](#fn_938)
+with ribbands. <span id="fr_939"></span>[1](#fn_938.md)
 
 The Wheelbarrow Race requires room, and is performed upon some open
 green, or in a field free from encumbrances. The candidates are all of
@@ -1460,8 +1460,8 @@ the populace. In the reign of Henry VII. a letter was sent from the king
 to the lord mayor and aldermen of London, commanding them to cause
 bonfires to be made, and to manifest other signs of rejoicing, on
 account of the espousals of his daughter Mary. <span
-id="fr_940"></span>[1](#fn_939) And within these forty years <span
-id="fr_941"></span>[2](#fn_940) bonfires continued to be made in London
+id="fr_940"></span>[1](#fn_939.md) And within these forty years <span
+id="fr_941"></span>[2](#fn_940.md) bonfires continued to be made in London
 at the city expense, and in certain places at Westminster by order from
 the court, upon most of the public days of rejoicing; but of late they
 have been prohibited, and very justly, on account of the mischief
@@ -1518,7 +1518,7 @@ Defeat of the Rebels" in 1746 were all celebrated by a great bonfire in
 the market place, round which ale was always drunk at the town's
 expense. There is no record of a bonfire for the victory of the Nile in
 1798, but the Town Hall was illuminated with candles to celebrate the
-event. <span id="fr_942"></span>[1](#fn_941)
+event. <span id="fr_942"></span>[1](#fn_941.md)
 
 ILLUMINATIONS.--I do not know at what period illuminations were first
 used as marks of rejoicing. They are mentioned by Stow, in his *Survey
@@ -1526,7 +1526,7 @@ of London*, who tells us that lamps of glass, to the amount of several
 hundreds, were hung upon branches of iron curiously wrought, and placed
 at the doors of the opulent citizens upon the vigils of Saint John the
 Baptist, and of Saint Peter and Saint Paul. <span
-id="fr_943"></span>[2](#fn_942) The historian does not speak of these
+id="fr_943"></span>[2](#fn_942.md) The historian does not speak of these
 lights as any novelty, neither is there any reason to conclude that
 similar illuminations were not made in other great towns and cities as
 well as in London; so that the custom might have been of long standing,
@@ -1549,7 +1549,7 @@ FIREWORKS.--Fireworks, for pastime, are little spoken of previous to the
 reign of Elizabeth, and seem to have been of a very trifling nature. We
 are told, when Ann Bullen was conveyed upon the water from Greenwich to
 London, previous to her coronation, in 1533, "there went before the
-lord-mayor's barge, a foyste <span id="fr_944"></span>[3](#fn_943) for a
+lord-mayor's barge, a foyste <span id="fr_944"></span>[3](#fn_943.md) for a
 wafter full of ordinance; in which foyste was a great red dragon,
 continually moving and casting forth wild-fire; and round about the said
 foyste stood terrible, monstrous, and wilde men, casting of fire, and
@@ -1560,14 +1560,14 @@ Morose, in Jonson's comedy of *The Silent Woman*, says to his visitors,
 who come with drums and trumpets, "Out of my dores, you sonnes of noise
 and tumult, begot on an ill May-day, or when the gally-foist is afloate
 to Westminster; a trumpetter could not be conceived till then." <span
-id="fr_945"></span>[4](#fn_944)
+id="fr_945"></span>[4](#fn_944.md)
 
 <span id="page_296">p. 296</span>
 
 Among the spectacles prepared for the diversion of Queen Elizabeth at
 Kenelworth Castle in 1575, there were displays of fireworks, which are
 thus described by Laneham, who was present. <span
-id="fr_946"></span>[1](#fn_945) "On the Sunday night," says he, "after a
+id="fr_946"></span>[1](#fn_945.md) "On the Sunday night," says he, "after a
 warning piece or two, was a blaze of burning darts flying to and fro,
 beams of stars coruscant, streams and hail of fire sparks, lightnings of
 wildfire on the water; and on the land, flight and shot of thunderbolts,
@@ -1577,7 +1577,7 @@ speaks thus: "On the Sunday were fireworks showed upon the water,
 passing under the water a long space; and when all men thought they had
 been quenched, they would rise and mount out of the water again and
 burne furiously until they were utterlie consumed." <span
-id="fr_947"></span>[2](#fn_946) On the Thursday following, according to
+id="fr_947"></span>[2](#fn_946.md) On the Thursday following, according to
 Laneham, "there was at night a shew of very strange and sundry kinds of
 fireworks compelled by cunning to fly to and fro, and to mount very high
 into the air upward, and also to burn unquenchable in the water
@@ -1618,7 +1618,7 @@ the same light whether or no any
 <span id="img_pl36"></span>
 
 [![The Fiery Drake or Kite](tn/pl36.jpg)  
-Click to enlarge](img/pl36.jpg)  
+Click to enlarge](img/pl36.jpg.md)  
 The Fiery Drake or Kite  
 
  
@@ -1655,7 +1655,7 @@ at all events into England, from the East, until early in the eighteenth
 century; but this picture of a kite proves that it was not only in use
 but well known early in the seventeenth century. The name kite, taken
 from the bird, had not however been then given to this flying
-machine. <span id="fr_948"></span>[1](#fn_947)
+machine. <span id="fr_948"></span>[1](#fn_947.md)
 
 FIREWORKS ON TOWER HILL, AT PUBLIC GARDENS, AND IN PAGEANTS.--It was
 customary, in my memory, for the train of artillery annually to display
@@ -1666,7 +1666,7 @@ account of the inconveniences they sustained thereby.
 
 Fireworks were exhibited at Marybone Gardens while they were kept open
 for public entertainment; and about five-and-twenty years ago, <span
-id="fr_949"></span>[2](#fn_948) Torre, a celebrated French artist, was
+id="fr_949"></span>[2](#fn_948.md) Torre, a celebrated French artist, was
 employed there, who, in addition to the usual displayment of
 fire-wheels, fixed stars, figure pieces, and other curious devices,
 introduced pantomimical spectacles, which afforded him an opportunity of
@@ -1737,7 +1737,7 @@ first, a large Brilliant Wheel moved by four fires illuminated
 <span id="img_pl37"></span>
 
 [![Pageantry](tn/pl37.jpg)  
-Click to enlarge](img/pl37.jpg)  
+Click to enlarge](img/pl37.jpg.md)  
 Pageantry  
 
  
@@ -1768,57 +1768,57 @@ for the representation of this facetious spirit.
 
 ### Footnotes
 
-<span id="fn_855"></span>[267:1](spe20.htm#fr_856) See Introduction.
+<span id="fn_855"></span>[267:1](spe20.htm#fr_856.md) See Introduction.
 
-<span id="fn_856"></span>[267:2](spe20.htm#fr_857) Polydore Vergil de
+<span id="fn_856"></span>[267:2](spe20.htm#fr_857.md) Polydore Vergil de
 Rerum Invent. lib. v. cap. 2.
 
-<span id="fn_857"></span>[267:3](spe20.htm#fr_858) An. 4 Hen. VII. A.D.
+<span id="fn_857"></span>[267:3](spe20.htm#fr_858.md) An. 4 Hen. VII. A.D.
 1489.
 
-<span id="fn_858"></span>[267:4](spe20.htm#fr_859) Collect. vol. iii.
+<span id="fn_858"></span>[267:4](spe20.htm#fr_859.md) Collect. vol. iii.
 Append. p. 256.
 
-<span id="fn_859"></span>[267:5](spe20.htm#fr_860) See Warton's *Hist.
+<span id="fn_859"></span>[267:5](spe20.htm#fr_860.md) See Warton's *Hist.
 Eng. Poetry*, vol. i. p. 381.
 
-<span id="fn_860"></span>[267:6](spe20.htm#fr_861) *Chron. of Brit*.
+<span id="fn_860"></span>[267:6](spe20.htm#fr_861.md) *Chron. of Brit*.
 vol. iii. fol. 1317.
 
-<span id="fn_861"></span>[268:1](spe20.htm#fr_862) *Survey of London*,
+<span id="fn_861"></span>[268:1](spe20.htm#fr_862.md) *Survey of London*,
 p. 79.
 
-<span id="fn_862"></span>[268:2](spe20.htm#fr_863) *Anatomie of Abuses*,
+<span id="fn_862"></span>[268:2](spe20.htm#fr_863.md) *Anatomie of Abuses*,
 first printed, A. D. 1585.
 
-<span id="fn_863"></span>[270:1](spe20.htm#fr_864) Warton's *Hist. Eng.
+<span id="fn_863"></span>[270:1](spe20.htm#fr_864.md) Warton's *Hist. Eng.
 Poet*. ii. 378-80; Wood's *Athenæ*, ii. 239.
 
-<span id="fn_864"></span>[270:2](spe20.htm#fr_865) Dugdale's *Origines
+<span id="fn_864"></span>[270:2](spe20.htm#fr_865.md) Dugdale's *Origines
 Juridiciales*, fol. 247.
 
-<span id="fn_865"></span>[270:3](spe20.htm#fr_866) *Blomfield*, vol. ii.
+<span id="fn_865"></span>[270:3](spe20.htm#fr_866.md) *Blomfield*, vol. ii.
 p. 3.
 
-<span id="fn_866"></span>[270:4](spe20.htm#fr_867) The Christmas Lord of
+<span id="fn_866"></span>[270:4](spe20.htm#fr_867.md) The Christmas Lord of
 Misrule, elected in November by the fellows of Merton College, Oxford,
 is termed in the registers *Rex Fabarum*, or *Rex Regni Fabarum*.
 
-<span id="fn_867"></span>[270:5](spe20.htm#fr_868) Bourne's *Antiq.
+<span id="fn_867"></span>[270:5](spe20.htm#fr_868.md) Bourne's *Antiq.
 Vulg.* chap. xvii.
 
-<span id="fn_868"></span>[270:6](spe20.htm#fr_869) Cited by Mr Brand,
+<span id="fn_868"></span>[270:6](spe20.htm#fr_869.md) Cited by Mr Brand,
 notes to Bourne, p. 205.
 
-<span id="fn_869"></span>[270:7](spe20.htm#fr_870) Reges Fabis creantur.
+<span id="fn_869"></span>[270:7](spe20.htm#fr_870.md) Reges Fabis creantur.
 
-<span id="fn_870"></span>[271:1](spe20.htm#fr_871) In nomine Regis de
+<span id="fn_870"></span>[271:1](spe20.htm#fr_871.md) In nomine Regis de
 Fabâ. MS. Cott. Nero, C. viii.
 
-<span id="fn_871"></span>[271:2](spe20.htm#fr_872) Table Talk, London,
+<span id="fn_871"></span>[271:2](spe20.htm#fr_872.md) Table Talk, London,
 1689, title Christmas.
 
-<span id="fn_872"></span>[271:3](spe20.htm#fr_873) \* "From scattered
+<span id="fn_872"></span>[271:3](spe20.htm#fr_873.md) \* "From scattered
 notices in several old works, I collect that *Shoeing the Wild Mare* was
 a diversion among our ancestors, more particularly intended for the
 young, and that the Wild Mare was simply a youth so called, who was
@@ -1826,236 +1826,236 @@ allowed a certain start, and who was pursued by his companions with the
 object of being shoed, if he did not succeed in outstripping
 them."--Hazlet's edit. of Brand's *Popular Antiquities*, ii. 332-3.
 
-<span id="fn_873"></span>[272:1](spe20.htm#fr_874) Nicholas'
+<span id="fn_873"></span>[272:1](spe20.htm#fr_874.md) Nicholas'
 *Fantasies*, 1626.
 
-<span id="fn_874"></span>[272:2](spe20.htm#fr_875) Knight's *Life of
+<span id="fn_874"></span>[272:2](spe20.htm#fr_875.md) Knight's *Life of
 Colet*, p. 362.
 
-<span id="fn_875"></span>[272:3](spe20.htm#fr_876) \* Wordsworth's
+<span id="fn_875"></span>[272:3](spe20.htm#fr_876.md) \* Wordsworth's
 *Salisbury Processional Ceremonies*, 1901.
 
-<span id="fn_876"></span>[273:1](spe20.htm#fr_877) MS. *Cott. Tiberius*,
+<span id="fn_876"></span>[273:1](spe20.htm#fr_877.md) MS. *Cott. Tiberius*,
 B. i.
 
-<span id="fn_877"></span>[273:2](spe20.htm#fr_878) Strype's *Eccl. Mem*.
+<span id="fn_877"></span>[273:2](spe20.htm#fr_878.md) Strype's *Eccl. Mem*.
 vol. iii. chap. xxxix. p. 310.
 
-<span id="fn_878"></span>[273:3](spe20.htm#fr_879) *Ibid*. chap. xxxv.
+<span id="fn_878"></span>[273:3](spe20.htm#fr_879.md) *Ibid*. chap. xxxv.
 p. 202.
 
-<span id="fn_879"></span>[273:4](spe20.htm#fr_880) *Ibid*. chap. xxxix.
+<span id="fn_879"></span>[273:4](spe20.htm#fr_880.md) *Ibid*. chap. xxxix.
 p. 310.
 
-<span id="fn_880"></span>[273:5](spe20.htm#fr_881) *Durham Account
+<span id="fn_880"></span>[273:5](spe20.htm#fr_881.md) *Durham Account
 Rolls* (Surtees Society), 3 vols., 1898-1900.
 
-<span id="fn_881"></span>[273:6](spe20.htm#fr_882) Wills of Northampton
+<span id="fn_881"></span>[273:6](spe20.htm#fr_882.md) Wills of Northampton
 Probate Court.
 
-<span id="fn_882"></span>[274:1](spe20.htm#fr_883) I have a vivid
+<span id="fn_882"></span>[274:1](spe20.htm#fr_883.md) I have a vivid
 recollection of seeing the Plough Monday mummers with their plough, when
 a small boy, at Parwich, near Ashborne, in 1847-1848, and being taken in
 the latter year to see the havoc made by the plough in the small front
 garden of a well-to-do but niggardly resident.--J. C. C.
 
-<span id="fn_883"></span>[274:2](spe20.htm#fr_884) *Notes and Queries*,
+<span id="fn_883"></span>[274:2](spe20.htm#fr_884.md) *Notes and Queries*,
 Ser. II. ix. 381.
 
-<span id="fn_884"></span>[274:3](spe20.htm#fr_885) Mr Ordish on the
+<span id="fn_884"></span>[274:3](spe20.htm#fr_885.md) Mr Ordish on the
 "English Folk Drama," *Folk Lore Quarterly*, vol. iv. pp. 149-174.
 
-<span id="fn_885"></span>[274:4](spe20.htm#fr_886) Can it be any
+<span id="fn_885"></span>[274:4](spe20.htm#fr_886.md) Can it be any
 survival of Shrove Tuesday cock-throwing that makes this day at the
 present time (1902), in several English towns, the season for children
 to begin playing with shuttlecocks in the streets.
 
-<span id="fn_886"></span>[274:5](spe20.htm#fr_887) I bought copies in
+<span id="fn_886"></span>[274:5](spe20.htm#fr_887.md) I bought copies in
 Sheffield market-place in 1869 and again in 1878.--J. C. C.
 
-<span id="fn_887"></span>[275:1](spe20.htm#fr_888) Gloss. under the
+<span id="fn_887"></span>[275:1](spe20.htm#fr_888.md) Gloss. under the
 title Hock-day.
 
-<span id="fn_888"></span>[275:2](spe20.htm#fr_889) Hist. Hampshire.
+<span id="fn_888"></span>[275:2](spe20.htm#fr_889.md) Hist. Hampshire.
 
-<span id="fn_889"></span>[275:3](spe20.htm#fr_890) See a Memoir by the
+<span id="fn_889"></span>[275:3](spe20.htm#fr_890.md) See a Memoir by the
 Rev. Mr Jenne, *Archæologia*, vol. vii. p. 244.
 
-<span id="fn_890"></span>[275:4](spe20.htm#fr_891) A.D. 1002. But the
+<span id="fn_890"></span>[275:4](spe20.htm#fr_891.md) A.D. 1002. But the
 time of the year does not agree. St Brice's Day is the 13th of November.
 
-<span id="fn_891"></span>[275:5](spe20.htm#fr_892) Memoir, *ut supra*.
+<span id="fn_891"></span>[275:5](spe20.htm#fr_892.md) Memoir, *ut supra*.
 
-<span id="fn_892"></span>[275:6](spe20.htm#fr_893) See Oxford
+<span id="fn_892"></span>[275:6](spe20.htm#fr_893.md) See Oxford
 Dictionary, *sub. voc*.
 
-<span id="fn_893"></span>[275:7](spe20.htm#fr_894) Page 223, and
+<span id="fn_893"></span>[275:7](spe20.htm#fr_894.md) Page 223, and
 Introduction.
 
-<span id="fn_894"></span>[275:8](spe20.htm#fr_895) *Antiq. Vulgares*,
+<span id="fn_894"></span>[275:8](spe20.htm#fr_895.md) *Antiq. Vulgares*,
 chap. 25.
 
-<span id="fn_895"></span>[276:1](spe20.htm#fr_896) *Survey of London*,
+<span id="fn_895"></span>[276:1](spe20.htm#fr_896.md) *Survey of London*,
 p. 80.
 
-<span id="fn_896"></span>[276:2](spe20.htm#fr_897) In his *Anatomie of
+<span id="fn_896"></span>[276:2](spe20.htm#fr_897.md) In his *Anatomie of
 Abuses*, printed in 1595.
 
-<span id="fn_897"></span>[277:1](spe20.htm#fr_898) *Archæologia*, vol.
+<span id="fn_897"></span>[277:1](spe20.htm#fr_898.md) *Archæologia*, vol.
 i. cap. 4, p, 11.
 
-<span id="fn_898"></span>[277:2](spe20.htm#fr_899) Strype's *Eccles.
+<span id="fn_898"></span>[277:2](spe20.htm#fr_899.md) Strype's *Eccles.
 Mem.* vol. iii. cap. 49, p. 377.
 
-<span id="fn_899"></span>[278:1](spe20.htm#fr_900) Hall, in Vit. Hen.
+<span id="fn_899"></span>[278:1](spe20.htm#fr_900.md) Hall, in Vit. Hen.
 VIII. fol. vi.
 
-<span id="fn_900"></span>[278:2](spe20.htm#fr_901) Hinder or prevent.
+<span id="fn_900"></span>[278:2](spe20.htm#fr_901.md) Hinder or prevent.
 
-<span id="fn_901"></span>[278:3](spe20.htm#fr_902) Latimer's Sermons,
+<span id="fn_901"></span>[278:3](spe20.htm#fr_902.md) Latimer's Sermons,
 printed 1589.
 
-<span id="fn_902"></span>[278:4](spe20.htm#fr_903) K. vol. x.
+<span id="fn_902"></span>[278:4](spe20.htm#fr_903.md) K. vol. x.
 
-<span id="fn_903"></span>[278:5](spe20.htm#fr_904) \* On the whole
+<span id="fn_903"></span>[278:5](spe20.htm#fr_904.md) \* On the whole
 subject of Robin Hood Plays and Ballads, see Child's *Ballads*, iii. pp.
 39-333.
 
-<span id="fn_904"></span>[278:6](spe20.htm#fr_905) Harl. Lib. 69.
+<span id="fn_904"></span>[278:6](spe20.htm#fr_905.md) Harl. Lib. 69.
 
-<span id="fn_905"></span>[279:1](spe20.htm#fr_906) I suppose the author
+<span id="fn_905"></span>[279:1](spe20.htm#fr_906.md) I suppose the author
 means tilting armour, for the purpose of justing, here called running of
 courses.
 
-<span id="fn_906"></span>[280:1](spe20.htm#fr_907) Hall, in Vit. Hen.
+<span id="fn_906"></span>[280:1](spe20.htm#fr_907.md) Hall, in Vit. Hen.
 VIII. an 2, p. vi.
 
-<span id="fn_907"></span>[280:2](spe20.htm#fr_908) See an account of
+<span id="fn_907"></span>[280:2](spe20.htm#fr_908.md) See an account of
 this book in the Introduction.
 
-<span id="fn_908"></span>[281:1](spe20.htm#fr_909) Vol. v. No. 365,
+<span id="fn_908"></span>[281:1](spe20.htm#fr_909.md) Vol. v. No. 365,
 first published A.D. 1712.
 
-<span id="fn_909"></span>[281:2](spe20.htm#fr_910) See Granger's *Biog.
+<span id="fn_909"></span>[281:2](spe20.htm#fr_910.md) See Granger's *Biog.
 Hist.* vol. iv. p. 354.
 
-<span id="fn_910"></span>[282:1](spe20.htm#fr_911) Blount's *Ancient
+<span id="fn_910"></span>[282:1](spe20.htm#fr_911.md) Blount's *Ancient
 Tenures*, p. 49.
 
-<span id="fn_911"></span>[282:2](spe20.htm#fr_912) *Folk Lore Society
+<span id="fn_911"></span>[282:2](spe20.htm#fr_912.md) *Folk Lore Society
 Journal* (1886), vol. iv. pp. 107-9.
 
-<span id="fn_912"></span>[283:1](spe20.htm#fr_913) Bourne's *Antiq*.
+<span id="fn_912"></span>[283:1](spe20.htm#fr_913.md) Bourne's *Antiq*.
 vol. ix. chap. 27.
 
-<span id="fn_913"></span>[285:1](spe20.htm#fr_914) MSS. Harl. 2354 and
+<span id="fn_913"></span>[285:1](spe20.htm#fr_914.md) MSS. Harl. 2354 and
 2391.
 
-<span id="fn_914"></span>[285:2](spe20.htm#fr_915) The midsummer
+<span id="fn_914"></span>[285:2](spe20.htm#fr_915.md) The midsummer
 pageants at Chester are fully described in the Introduction.
 
-<span id="fn_915"></span>[285:3](spe20.htm#fr_916) *Survey of London*,
+<span id="fn_915"></span>[285:3](spe20.htm#fr_916.md) *Survey of London*,
 pp. 84, 85.
 
-<span id="fn_916"></span>[286:1](spe20.htm#fr_917) Perhaps it should be
+<span id="fn_916"></span>[286:1](spe20.htm#fr_917.md) Perhaps it should be
 image, and resembled those commonly used in other pageants.
 
-<span id="fn_917"></span>[286:2](spe20.htm#fr_918) *Nat. Hist. Oxford*,
+<span id="fn_917"></span>[286:2](spe20.htm#fr_918.md) *Nat. Hist. Oxford*,
 p. 343, and Blount's *Ancient Tenures*, p. 154.
 
-<span id="fn_918"></span>[286:3](spe20.htm#fr_919) *Eccl. Memoirs*, vol.
+<span id="fn_918"></span>[286:3](spe20.htm#fr_919.md) *Eccl. Memoirs*, vol.
 iii. chap. xxxix. p. 51.
 
-<span id="fn_919"></span>[286:4](spe20.htm#fr_920) *Ibid*. p. 309.
+<span id="fn_919"></span>[286:4](spe20.htm#fr_920.md) *Ibid*. p. 309.
 
-<span id="fn_920"></span>[286:5](spe20.htm#fr_921) *Eccl. Memoirs*, iii.
+<span id="fn_920"></span>[286:5](spe20.htm#fr_921.md) *Eccl. Memoirs*, iii.
 377.
 
-<span id="fn_921"></span>[286:6](spe20.htm#fr_922) Heath's *Cornwall*,
+<span id="fn_921"></span>[286:6](spe20.htm#fr_922.md) Heath's *Cornwall*,
 445.
 
-<span id="fn_922"></span>[287:1](spe20.htm#fr_923) I have witnessed this
+<span id="fn_922"></span>[287:1](spe20.htm#fr_923.md) I have witnessed this
 in Luccombe parish on several occasions when a boy.--J.C.C.
 
-<span id="fn_923"></span>[287:2](spe20.htm#fr_924) *Notes and Queries*,
+<span id="fn_923"></span>[287:2](spe20.htm#fr_924.md) *Notes and Queries*,
 Ser. I. v. 293.
 
-<span id="fn_924"></span>[288:1](spe20.htm#fr_925) *Præcedente tibicine
+<span id="fn_924"></span>[288:1](spe20.htm#fr_925.md) *Præcedente tibicine
 aut tympano*. Moresin, *Deprav. Reliq. Orig*. in verbo vacina.
 
-<span id="fn_925"></span>[288:2](spe20.htm#fr_926) Brand's Observations
+<span id="fn_925"></span>[288:2](spe20.htm#fr_926.md) Brand's Observations
 on Bourne's *Vulg. Antiq*. chap. xxxi. p. 303. \* As to the occasional
 later survival of the "kern-baby," or "melt-doll" at harvest
 celebrations, see the various publications of the Folk-lore Society.
 
-<span id="fn_926"></span>[288:3](spe20.htm#fr_927) *Ibid*.
+<span id="fn_926"></span>[288:3](spe20.htm#fr_927.md) *Ibid*.
 
-<span id="fn_927"></span>[288:4](spe20.htm#fr_928) *Vulg. Antiq*. ut
+<span id="fn_927"></span>[288:4](spe20.htm#fr_928.md) *Vulg. Antiq*. ut
 supra.
 
-<span id="fn_928"></span>[288:5](spe20.htm#fr_929) *Ibid*.
+<span id="fn_928"></span>[288:5](spe20.htm#fr_929.md) *Ibid*.
 
-<span id="fn_929"></span>[288:6](spe20.htm#fr_930) Bede, *Eccl. Hist.*
+<span id="fn_929"></span>[288:6](spe20.htm#fr_930.md) Bede, *Eccl. Hist.*
 lib. i. cap. 30.
 
-<span id="fn_930"></span>[288:7](spe20.htm#fr_931) *Ibid*.
+<span id="fn_930"></span>[288:7](spe20.htm#fr_931.md) *Ibid*.
 
-<span id="fn_931"></span>[289:1](spe20.htm#fr_932) Homily for the Vigil
+<span id="fn_931"></span>[289:1](spe20.htm#fr_932.md) Homily for the Vigil
 of St John Baptist. MS. Harl.
 
-<span id="fn_932"></span>[289:2](spe20.htm#fr_933) *Antiq. Vulg*. chap.
+<span id="fn_932"></span>[289:2](spe20.htm#fr_933.md) *Antiq. Vulg*. chap.
 30.
 
-<span id="fn_933"></span>[290:1](spe20.htm#fr_934) Dodsworth's MSS.,
+<span id="fn_933"></span>[290:1](spe20.htm#fr_934.md) Dodsworth's MSS.,
 vol. 148, fol. 97.
 
-<span id="fn_934"></span>[290:2](spe20.htm#fr_935) Carew's *Survey of
+<span id="fn_934"></span>[290:2](spe20.htm#fr_935.md) Carew's *Survey of
 Cornwall*, 1602, book i. p: 68.
 
-<span id="fn_935"></span>[290:3](spe20.htm#fr_936) The *Anatomie of
+<span id="fn_935"></span>[290:3](spe20.htm#fr_936.md) The *Anatomie of
 Abuses*, 1595.
 
-<span id="fn_936"></span>[291:1](spe20.htm#fr_937) Burton, *Anat.
+<span id="fn_936"></span>[291:1](spe20.htm#fr_937.md) Burton, *Anat.
 Melancholy*, part ii. sect. 2, cap. 4.
 
-<span id="fn_937"></span>[291:2](spe20.htm#fr_938) Vol. ii. No. 16i,
+<span id="fn_937"></span>[291:2](spe20.htm#fr_938.md) Vol. ii. No. 16i,
 first printed 1711.
 
-<span id="fn_938"></span>[293:1](spe20.htm#fr_939) \* In Hazlitt's
+<span id="fn_938"></span>[293:1](spe20.htm#fr_939.md) \* In Hazlitt's
 edition of Brand's *Popular Antiquities* (i. i 19), it is stated
 that:--"The smock race, run by young girls in their chemises only, was
 formerly used on Ascension Day in the north of England. The sport, not a
 very delicate one, is described in the *Poetical Miscellanies*,
 published by Steele, 1714."
 
-<span id="fn_939"></span>[294:1](spe20.htm#fr_940) See the Introduction.
+<span id="fn_939"></span>[294:1](spe20.htm#fr_940.md) See the Introduction.
 
-<span id="fn_940"></span>[294:2](spe20.htm#fr_941) Reckoning from 1800.
+<span id="fn_940"></span>[294:2](spe20.htm#fr_941.md) Reckoning from 1800.
 
-<span id="fn_941"></span>[295:1](spe20.htm#fr_942) Cox's Northampton
+<span id="fn_941"></span>[295:1](spe20.htm#fr_942.md) Cox's Northampton
 Borough Records, ii. pp. 478-485.
 
-<span id="fn_942"></span>[295:2](spe20.htm#fr_943) It does not appear
+<span id="fn_942"></span>[295:2](spe20.htm#fr_943.md) It does not appear
 that these lamps were made with glass of various colours, according to
 the present fashion (1800). I rather think this improvement is perfectly
 modern.
 
-<span id="fn_943"></span>[295:3](spe20.htm#fr_944) A galley, or small
+<span id="fn_943"></span>[295:3](spe20.htm#fr_944.md) A galley, or small
 vessel.
 
-<span id="fn_944"></span>[295:4](spe20.htm#fr_945) Act iv. scene 2.
+<span id="fn_944"></span>[295:4](spe20.htm#fr_945.md) Act iv. scene 2.
 
-<span id="fn_945"></span>[296:1](spe20.htm#fr_946) Nichols's *Progresses
+<span id="fn_945"></span>[296:1](spe20.htm#fr_946.md) Nichols's *Progresses
 of Elizabeth*, vol. i.
 
-<span id="fn_946"></span>[296:2](spe20.htm#fr_947) *Princely Pleasures
+<span id="fn_946"></span>[296:2](spe20.htm#fr_947.md) *Princely Pleasures
 at Kenelworth Castle*, p. 62.
 
-<span id="fn_947"></span>[297:1](spe20.htm#fr_948) See "Kite" in next
+<span id="fn_947"></span>[297:1](spe20.htm#fr_948.md) See "Kite" in next
 chapter.
 
-<span id="fn_948"></span>[297:2](spe20.htm#fr_949) Reckoning from 1800.
+<span id="fn_948"></span>[297:2](spe20.htm#fr_949.md) Reckoning from 1800.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](spe21)
+[Next: Chapter IV](spe21.md)

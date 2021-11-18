@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm11)  [Next](ipm13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm11)  [Next](ipm13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -350,7 +350,7 @@ strange facts. I shall only speak of the two kinds of which Mlle. Smith
 has furnished samples (and which I have never personally witnessed)—that
 is to say, "apports" and "movements of objects without contact."
 
-1\. *Apports*. <span id="fr_28"></span>[\*](#fn_28)—Besides the unknown
+1\. *Apports*. <span id="fr_28"></span>[\*](#fn_28.md)—Besides the unknown
 causes presiding over their aërial transportation, the arrival of
 exterior objects in a closed space, often coming from a considerable
 distance, implies, in order that they may pass through the walls of the
@@ -439,7 +439,7 @@ de Hartman, which comes directly into play upon contact with a deranged
 nervous system, and realizes its disordered dreams without passing
 through the regular channels of muscular movements.
 
-But enough of these vapory [metaphysical or](errata.htm#11)
+But enough of these vapory [metaphysical or](errata.htm#11.md)
 pseudo-biological speculations to give an account of a phenomenon for
 which it will be time enough to find precise explanation when its
 authenticity shall be beyond dispute, if that time shall ever arrive.
@@ -1142,7 +1142,7 @@ have happened to any one else, Hélène hears an exterior voice, and
 perceives her hand moving involuntarily in a given direction. It is
 noted that this automatism assumed an auditive and motor form which is
 the pendant of the vocal and visual automatism which I have referred to
-on pp. [58](ipm05.htm#page_58)-[59](ipm05.htm#page_59). It is to this
+on pp. [58](ipm05.htm#page_58)-[59](ipm05.htm#page_59.md). It is to this
 same class of facts, well known and almost common to-day, that the
 following example likewise belongs, although the subliminal imagination
 had surrounded it with the form of an intervention on the part of
@@ -1207,7 +1207,7 @@ Smith uttered an exclamation of surprise, and we all four returned to
 the house, to recover from our very natural emotion."
 
 This case has remained in the eyes of Mlle. Smith and her spiritistic
-friends as one of the most striking and [irrefragable](errata.htm#12)
+friends as one of the most striking and [irrefragable](errata.htm#12.md)
 proofs of the objective and independent reality of Leopold. For the
 psychologist it constitutes a very beautiful and interesting example of
 cryptomnesia, well worthy to figure among the very instructive cases
@@ -1344,7 +1344,7 @@ interest for the ordinary reader, I will confine myself to citing,
 <span id="page_410">p. 410</span>
 
 by way of example, the vision which so astonished me at my first meeting
-with Hélène ([p. 2](ipm03.htm#page_2)), and which has already been
+with Hélène ([p. 2](ipm03.htm#page_2).md), and which has already been
 published by M. Lemaître. I reproduce his narrative, giving real names:
 
 "The medium \[Mlle. Smith\] perceives a long trail of smoke, which
@@ -1453,7 +1453,7 @@ faculties.
 The time having arrived to speak of spiritism, I feel ill at ease and
 embarrassed by my surroundings, for divers reasons, some of which I will
 set forth, without, however, endeavoring to explain them at length,
-since my aim is simply, as has been seen above ([p. 373](#page_373)), to
+since my aim is simply, as has been seen above ([p. 373](#page_373).md), to
 indicate my subjective ideas as to the standing of that doctrine, in
 order that the reader may share, if he pleases, in my appreciation of
 the phenomena of this class presented by Mlle. Smith. I confess, in the
@@ -1562,7 +1562,7 @@ need. I see nothing clearly, it is true, as to the concrete conditions
 of that other existence, of which the manner even, if it were revealed
 to me, would probably remain a sealed book to my intelligence, hampered
 by the bonds of space and time. But of what importance is it? That which
-I am [ignorant](errata.htm#13) of, God knows; and while waiting for Him
+I am [ignorant](errata.htm#13.md) of, God knows; and while waiting for Him
 to call me to rejoin those who have preceded me, He is great enough for
 me to leave to Him the mysterious fate of our personalities. "Since all
 live unto Him," I ask no more than that, and as for the pretended
@@ -1809,7 +1809,7 @@ principal incarnations of Mlle. Smith will enable me to show after a
 more concrete fashion my manner of regarding them.
 
 1\. *Case of Mlle. Vignier*.—This case has no evidential value whatever,
-since (as has been seen, [p. 411](#page_411)), there were formerly
+since (as has been seen, [p. 411](#page_411).md), there were formerly
 relations between the Vignier family and Mme. Smith which suffice to
 explain the veridical knowledge manifested by Hélène in this
 incarnation.
@@ -1820,7 +1820,7 @@ suspicion of these relations at the time of this scene, which was
 absolutely enigmatical to all of them.
 
 In a seance at my house (on March 3, 1895, after a Hindoo vision,
-described [p. 280](ipm10.htm#page_280)), Mlle. Smith saw an unknown lady
+described [p. 280](ipm10.htm#page_280).md), Mlle. Smith saw an unknown lady
 appear, of whom she gave the following description: "A nose bent and
 hooked like the beak of an eagle; small gray eyes, very close together;
 a mouth with three teeth only; a wicked smile, mocking
@@ -1828,7 +1828,7 @@ a mouth with three teeth only; a wicked smile, mocking
 <span id="page_426">p. 426</span>
 
 expression; simple dress; a collar not of the fashion of to-day; she
-draws near to this portrait, <span id="fr_29"></span>[\*](#fn_29) and
+draws near to this portrait, <span id="fr_29"></span>[\*](#fn_29.md) and
 gazes at it not ill-naturedly."
 
 The name of this person is asked, and the table (Leopold) commences to
@@ -2023,7 +2023,7 @@ her right arm upon the table, Leopold dictates by the index-finger:
 "*Kiss her arm*." I execute the order; Hélène's arm at first resists
 strenuously, then yields suddenly. She seizes a pencil, and in the midst
 of the customary struggle relative to the manner of holding it (see [p.
-100](ipm06.htm#page_100)), "*You are holding my hand too tightly*," says
+100](ipm06.htm#page_100).md), "*You are holding my hand too tightly*," says
 she to the imaginary little old man, who, according to Leopold, wishes
 to make use of it in order to write. "*You hurt me very badly; do not
 hold it so firmly. . . . What difference does it make whether* 
@@ -2033,7 +2033,7 @@ hold it so firmly. . . . What difference does it make whether* 
 *it is a pencil or a pen?*" At these words she throws away the pencil
 and takes up a pen, and, holding it between the thumb and index-finger,
 slowly traces in an unknown hand: "*Chaumontet, syndic*" (see [Fig.
-44](#img_fig44)).
+44](#img_fig44).md).
 
 Then the vision of the village returns; at our desire to know the name
 of it she ultimately perceives a sign-post on which she spells
@@ -2093,7 +2093,7 @@ much desire that signature?*" and it is only upon my insisting
 that he consents. Hélène then is not long in again seeing the village
 and the *curé*, who after divers incidents takes hold of her hand as the
 syndic had done, and traces very slowly with the pen these words,
-"*Burnier greets you*" ([Fig. 44](#img_fig44)); then she passes into
+"*Burnier greets you*" ([Fig. 44](#img_fig44).md); then she passes into
 other somnambulisms. The moment had arrived to clear up the matter. I
 wrote at hazard to the mayor's office at Chessenaz. The mayor, M.
 Saussier, had the kindness to answer without delay: "During the years
@@ -2105,7 +2105,7 @@ marriages, and deaths bear his signature. . . . But I have discovered in
 our archives a document bearing both signatures, that of the syndic
 Chaumontet and that of the *curé* Burnier. It is an order for the
 payment of money. I take pleasure in transmitting it to you." I have
-caused to be reproduced in the middle of [Fig. 44](#img_fig44) the
+caused to be reproduced in the middle of [Fig. 44](#img_fig44.md) the
 fragment of this original document (dated July 29, 1838), bearing the
 names of these two personages; the reader can thus judge for himself in
 regard to the quite remarkable similarity which there exists between
@@ -2127,7 +2127,7 @@ imprudent supposition, since it has availed to furnish us a new and more
 explicit manifestation of the *curé*, who, again taking hold of Mlle.
 Smith's arm at a later seance (May 21st, at M. Lemaître's) comes to
 certify to us as to his identity by the attestation, in due and proper
-form, of [Fig. 43](#img_fig43). As is there seen, he makes it twice;
+form, of [Fig. 43](#img_fig43.md). As is there seen, he makes it twice;
 being deceived as to the signature, he incontinently, with disgust,
 crosses out that which he had so carefully written, and recommences on
 another sheet; this second draft, in which he has omitted the word
@@ -2148,7 +2148,7 @@ at Frangy, an
 
 <span id="img_fig43"></span> <span align="CENTER"> [![Fig.
 43](tn/fig43.jpg)  
-Click to enlarge](img/fig43.jpg)  
+Click to enlarge](img/fig43.jpg.md)  
   
 </span>
 
@@ -2167,7 +2167,7 @@ made only a short excursion in that region, some dozen years ago; and
 if, in following the road from Seyssel to Frangy, she traversed some
 parts of the country corresponding well to certain details of her vision
 of the 12th of February (which she had the feeling of recognizing, as we
-have seen, [p. 432](#page_432)), she has not, on the other hand, any
+have seen, [p. 432](#page_432).md), she has not, on the other hand, any
 idea of having been at Chessenaz itself, nor of having heard it
 mentioned. "Moreover," says she, "for those who can suppose that I could
 have been at Chessenaz without remembering it, I would affirm that even
@@ -2192,7 +2192,7 @@ because it sums up and puts excellently in relief the irreconcilable
 
 <span id="img_fig44"></span> <span align="CENTER"> [![Fig.
 44](tn/fig44.jpg)  
-Click to enlarge](img/fig44.jpg)  
+Click to enlarge](img/fig44.jpg.md)  
   
 </span>
 
@@ -2242,13 +2242,13 @@ understanding.
 
 ### Footnotes
 
-<span id="fn_28"></span>[375:\*](ipm12.htm#fr_28) By this is meant the
+<span id="fn_28"></span>[375:\*](ipm12.htm#fr_28.md) By this is meant the
 bringing or conveying of material objects into a closed space—the
 passage of one solid body through another.
 
-<span id="fn_29"></span>[426:\*](ipm12.htm#fr_29) A small oil-portrait
+<span id="fn_29"></span>[426:\*](ipm12.htm#fr_29.md) A small oil-portrait
 of my mother.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Conclusion](ipm13)
+[Next: Chapter XI. Conclusion](ipm13.md)

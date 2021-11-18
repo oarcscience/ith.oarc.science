@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr29)  [Next](wsgr31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr29)  [Next](wsgr31.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ swan that he decided he would try it. So down,
 <span id="img_17200"></span>
 
 [![](tn/17200.jpg)  
-Click to enlarge](img/17200.jpg)
+Click to enlarge](img/17200.jpg.md)
 
 <span id="page_173">p. 173</span>
 
@@ -112,4 +112,4 @@ pigeon has come back to her husband."
 
 ------------------------------------------------------------------------
 
-[Next: Why the Skunk Walks Alone](wsgr31)
+[Next: Why the Skunk Walks Alone](wsgr31.md)

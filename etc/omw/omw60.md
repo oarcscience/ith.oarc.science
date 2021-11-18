@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw59)  [Next](omw61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw59)  [Next](omw61.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ battle in which all things ended.
 
 ------------------------------------------------------------------------
 
-[Next: The Children of Loki](omw61)
+[Next: The Children of Loki](omw61.md)

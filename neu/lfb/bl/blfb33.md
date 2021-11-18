@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb32)  [Next](blfb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb32)  [Next](blfb34.md) 
 
 </div>
 
@@ -641,6 +641,6 @@ boy and girl, with tears on both sides, I sailed on board the
 
 ------------------------------------------------------------------------
 
-[Next: The Princess on the Glass Hill](blfb34)
+[Next: The Princess on the Glass Hill](blfb34.md)
 
 </div>

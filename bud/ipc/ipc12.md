@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc11)  [Next](ipc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc11)  [Next](ipc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -72,7 +72,7 @@ the Sex worship in Egypt and Assyria, we strengthen our case that the
 religion of Bal, Bel, Ba’al, Belenus, takes its origin in India; but to
 establish this in at all a satisfactory manner will require a separate
 chapter, for a celebrated authority on Indian
-[architecture](errata.htm#26) has got half India to believe that the
+[architecture](errata.htm#26.md) has got half India to believe that the
 cave temples of S’iva are very modern, in fact that they are mere copies
 of the cave temples of the Buddhists.
 
@@ -103,7 +103,7 @@ Mr. Fergusson, which contain the pith of the matter.
 
 \(1\) He held that the Cave temple of Elora was a Buddhist Cave temple
 dating some time between 750 and 950 A.D. <span
-id="fr_142"></span>[\*](#fn_141)
+id="fr_142"></span>[\*](#fn_141.md)
 
 \(2\) He believed that the large lump of bedrock that figures in most of
 the caves, and which the natives of India call a "lingam," was a
@@ -115,7 +115,7 @@ existence after the Cave temples of the Buddhists.
 
 \(4\) He asserts that the five Raths or detached, rock-cut edifices of
 Mahavalipur were executed in the fifth or sixth century A.D. <span
-id="fr_143"></span>[†](#fn_142)
+id="fr_143"></span>[†](#fn_142.md)
 
 Early Buddhism had for its temples large numbers of funereal cairns
 spread over India, each containing, or said to contain, the ashes of
@@ -140,7 +140,7 @@ point to a detached rock-cut temple like Kailâs in Elora, or the Raths
 of Mahâbalipur. Fa Hian describes many cave temples, but never uses such
 language about them. The Chinese traveller did not see the temple. The
 country around was uninhabited and dangerous to the
-traveller[;](errata.htm#27) indeed, the pilgrim was advised to fly. "The
+traveller[;](errata.htm#27.md) indeed, the pilgrim was advised to fly. "The
 law of Buddha was unknown."
 
 Now the first question to ask is, Where is this great temple? If it was
@@ -170,7 +170,7 @@ especially Bhavânî (Durgâ) sitting on a lotus, and two elephants with
 their trunks entwined by her. On either side under a ledge of rock,
 which serves as a bridge for communicating with the great temple, and
 the rooms over the entrance, are two elephants in a mutilated
-state." <span id="fr_144"></span>[\*](#fn_143)
+state." <span id="fr_144"></span>[\*](#fn_143.md)
 
 "The second (storey)," says Fa Hian, "is made with lion shapes and has
 four hundred chambers. The third is made with horse shapes and has three
@@ -235,7 +235,7 @@ was according to that
 
 <span id="img_pl11"></span> <span align="CENTER"> [![PLATE 11.&lt;br&gt;
 KAILÂS, SEEN FROM THE TOP.](tn/pl11.jpg)  
-Click to enlarge](img/pl11.jpg)  
+Click to enlarge](img/pl11.jpg.md)  
 PLATE 11.  
 KAILÂS, SEEN FROM THE TOP.  
 </span>
@@ -243,7 +243,7 @@ KAILÂS, SEEN FROM THE TOP.
 <span id="page_147">p. 147</span>
 
 authority erected by King Sadvaha at the instance of Nâgârjuna, <span
-id="fr_145"></span>[\*](#fn_144) who for the mighty outlay necessary for
+id="fr_145"></span>[\*](#fn_144.md) who for the mighty outlay necessary for
 the purpose changed all the "great stones" to gold. It is possible that
 Nâgârjuna influenced the King, and it is possible that this monk, as
 Beal thinks, was the chief agent in effecting the great Buddhist change
@@ -281,18 +281,18 @@ caves are very grand.
 "What must have been the labour and zeal of the workmen in thus
 attacking a mountain formed of the firm, primeval rock, and cutting
 hundreds of thousands of feet of that hard material by the aid of an
-iron instrument <span id="fr_146"></span>[\*](#fn_145) (a chisel four
+iron instrument <span id="fr_146"></span>[\*](#fn_145.md) (a chisel four
 inches long)."
 
 All this about the immense labour expended upon Elora is important,
 because, if Sadvaha constructed it at all, he must have finished it in a
 lifetime; for at his death, says Hiouen Tsiang, the Brahmans seized the
 cave temple and "strongly barricaded the place" to keep the Buddhists
-out. <span id="fr_147"></span>[†](#fn_146) The same difficulty surges up
+out. <span id="fr_147"></span>[†](#fn_146.md) The same difficulty surges up
 if we suppose that Elora was begun and finished in the lifetime of
 Kanis’ka. Says the Chinese traveller: "After Kanis’ka's death the
 Kritiya race again assumed the government, banished the priesthood, and
-overthrew religion." <span id="fr_148"></span>[‡](#fn_147)
+overthrew religion." <span id="fr_148"></span>[‡](#fn_147.md)
 
 Another difficulty is this: Why should the Buddhists in constructing a
 matchless temple make it what we might call an Encyclopædia of the
@@ -304,7 +304,7 @@ Elora is the most eclectic of fanes. Indra is there, and Brahma with his
 four heads, and Lakshmî, but the latter, says Heeren, figures as a
 menial attendant at the great marriage of S’iva and Durgâ; and the
 statues and bas reliefs of the Brahmin gods are insignificant <span
-id="fr_149"></span>[§](#fn_148) compared with those of S’iva and Durgâ.
+id="fr_149"></span>[§](#fn_148.md) compared with those of S’iva and Durgâ.
 
 At Elora is one portentous cavern, a grotto driven into the hard rock
 one hundred and thirteen feet, so
@@ -312,7 +312,7 @@ one hundred and thirteen feet, so
 <span id="page_149">p. 149</span>
 
 <span class="contnote">\[paragraph continues\]</span> Captain Seely
-assures us <span id="fr_150"></span>[\*](#fn_149). Unlike the rest of
+assures us <span id="fr_150"></span>[\*](#fn_149.md). Unlike the rest of
 the profusely sculptured caves, it is very dark, very solemn, quite bare
 of decoration. Here we have plainly the "Sanctuary of the S’iva-linga,"
 the most exalted Mahâdeo of S’iva worship. And on this stone Mahâdeo, a
@@ -383,7 +383,7 @@ next, work outside as well, culminating in the attempt to detach the
 fane from the mountain, as at Kailas in Elora, and the Raths of
 Mahâbalipur; this suggested the art of building in the open.
 
-Mr. Gwilt in his "[Cyclopædia](errata.htm#28) of Architecture," has much
+Mr. Gwilt in his "[Cyclopædia](errata.htm#28.md) of Architecture," has much
 the same idea. Humanity had three stages of progress. First the hunter,
 who had no protection from the elements except his cave; secondly, the
 shepherd, who had invented the tent; and thirdly the agriculturist, who
@@ -449,7 +449,7 @@ Supreme God of the Gopura.
 
 <span id="img_pl12"></span> <span align="CENTER"> [![PLATE 12.&lt;br&gt;
 MADRAS GOPURA.](tn/pl12.jpg)  
-Click to enlarge](img/pl12.jpg)  
+Click to enlarge](img/pl12.jpg.md)  
 PLATE 12.  
 MADRAS GOPURA.  
 </span>
@@ -480,7 +480,7 @@ religious expression was the pilgrimage. In the great epic, the
 Mahâbhârata, there is no mention of temples. A sage says to Arjuna: "It
 is the greatest mystery of the Rishis, O excellent son of Bharata. The
 holy pilgrimage to the Tîrthas is more important than sacrifices to the
-gods." The Tîrtha was the sacred <span id="fr_151"></span>[\*](#fn_150)
+gods." The Tîrtha was the sacred <span id="fr_151"></span>[\*](#fn_150.md)
 tank so necessary in pilgrimages.
 
 Now this passage explains the solitary rock-detached pyramid, which
@@ -503,7 +503,7 @@ In the year 1772, a gentleman named Chambers went from Madras to examine
 some ruins at no great distance off; "ruins," he says, "hitherto little
 observed." They were on the sea; and as he approached a fine pyramid
 broke the sky line, a lofty pile used as "a guide to mariners." <span
-id="fr_152"></span>[\*](#fn_151) By the pyramid were four other temples,
+id="fr_152"></span>[\*](#fn_151.md) By the pyramid were four other temples,
 all rock detached and ornamented with sculptures, but the pyramid was
 much higher than these. The place was called Mahvellipuram, the Tamulian
 for Mahâbalipur, its old Sanskrit name, the second language having no
@@ -526,7 +526,7 @@ Chambers to come to the conclusion that the Rathas had once been
 <span id="img_pl13"></span> <span align="CENTER"> [![PLATE 13.&lt;br&gt;
 THE PYRAMID, MAHÂBÂLIPUR.&lt;br&gt; &lt;i&gt;From a
 photograph&lt;/i&gt;.](tn/pl13.jpg)  
-Click to enlarge](img/pl13.jpg)  
+Click to enlarge](img/pl13.jpg.md)  
 PLATE 13.  
 THE PYRAMID, MAHÂBÂLIPUR.  
 *From a photograph*.  
@@ -552,13 +552,13 @@ a more crucial question, how long would it take for the soft lapping
 waves to reduce to sand and hide quite away two Rathas of solid rock?
 
 I give a drawing of the Rathas done on the spot by that excellent artist
-Daniell a hundred years ago. (See [Frontispiece](ipc00.htm#img_front)).
+Daniell a hundred years ago. (See [Frontispiece](ipc00.htm#img_front).md).
 The taller pyramid from its position does not quite show how much taller
 it is than its neighbours.
 
 I also give by the same excellent artist a view of the Kailâs
 rock-detached temples of Elora as seen from the top. ([Pl.
-11](#img_pl11), page [147](#page_147)). The two viewed together bring
+11](#img_pl11), page [147](#page_147).md). The two viewed together bring
 out some striking facts.
 
 1\. Each is a group of minor buildings dominated by a great pyramid.
@@ -594,7 +594,7 @@ fact emerges there. I enlarge
 
 <span id="img_15600"></span> <span align="CENTER"> [![Detail of the
 temple at Mahabalipuram](tn/15600.jpg)  
-Click to enlarge](img/15600.jpg)  
+Click to enlarge](img/15600.jpg.md)  
   
 </span>
 
@@ -609,7 +609,7 @@ great poem of the Râmâyana
 to show that Ayodhyâ was "adorned with arched gateways," and was "full
 of buildings erected close to one another," and palaces with gardens
 "like the celestial mansions which the Siddhas obtain through the
-virtues of their austerity." <span id="fr_153"></span>[\*](#fn_152)
+virtues of their austerity." <span id="fr_153"></span>[\*](#fn_152.md)
 
 Then the S’iva-Buddha alliance did not last. By and by it changed from
 admiration to fierce war, and S’ivan persecution. Huguenots flying from
@@ -641,7 +641,7 @@ makes a further confession that
 
 this has also no dormitories, but he says that in form it is a "mere
 pansil" (hut of leaves and boughs of an ascetic in a jungle <span
-id="fr_154"></span>[\*](#fn_153)). May not this be a solution of the
+id="fr_154"></span>[\*](#fn_153).md). May not this be a solution of the
 puzzle? The earliest stone structure in the open was suggested to the
 Indians by pansils and tents.
 
@@ -661,7 +661,7 @@ it here.
 
 <span id="img_15800"></span> <span align="CENTER"> [![Indian temple: the
 Stûpa of Bharhut](tn/15800.jpg)  
-Click to enlarge](img/15800.jpg)  
+Click to enlarge](img/15800.jpg.md)  
   
 </span>
 
@@ -723,44 +723,44 @@ Buddhists, who in his view originated the pattern.
 
 ### Footnotes
 
-<span id="fn_141"></span>[143:\*](ipc12.htm#fr_142) Fergusson, "Hist.
+<span id="fn_141"></span>[143:\*](ipc12.htm#fr_142.md) Fergusson, "Hist.
 Ind. Architecture," p. 337.
 
-<span id="fn_142"></span>[143:†](ipc12.htm#fr_143) Fergusson, "Hist.
+<span id="fn_142"></span>[143:†](ipc12.htm#fr_143.md) Fergusson, "Hist.
 Ind. Architecture," p. 326.
 
-<span id="fn_143"></span>[145:\*](ipc12.htm#fr_144) Seely, "Elora" p.
+<span id="fn_143"></span>[145:\*](ipc12.htm#fr_144.md) Seely, "Elora" p.
 101.
 
-<span id="fn_144"></span>[147:\*](ipc12.htm#fr_145) "Buddhist Records,"
+<span id="fn_144"></span>[147:\*](ipc12.htm#fr_145.md) "Buddhist Records,"
 II., 217.
 
-<span id="fn_145"></span>[148:\*](ipc12.htm#fr_146) "Elora," 175.
+<span id="fn_145"></span>[148:\*](ipc12.htm#fr_146.md) "Elora," 175.
 
-<span id="fn_146"></span>[148:†](ipc12.htm#fr_147) Beal, "Buddhist
+<span id="fn_146"></span>[148:†](ipc12.htm#fr_147.md) Beal, "Buddhist
 Records," Vol. II., 217.
 
-<span id="fn_147"></span>[148:‡](ipc12.htm#fr_148) *Ibid*, Vol. I., p.
+<span id="fn_147"></span>[148:‡](ipc12.htm#fr_148.md) *Ibid*, Vol. I., p.
 156.
 
-<span id="fn_148"></span>[148:§](ipc12.htm#fr_149) Heeren, "Historical
+<span id="fn_148"></span>[148:§](ipc12.htm#fr_149.md) Heeren, "Historical
 Researches," Vol. II., p. 60.
 
-<span id="fn_149"></span>[149:\*](ipc12.htm#fr_150) Seely, "Elora," page
+<span id="fn_149"></span>[149:\*](ipc12.htm#fr_150.md) Seely, "Elora," page
 203.
 
-<span id="fn_150"></span>[153:\*](ipc12.htm#fr_151) "Mahab. Vanaparva,"
+<span id="fn_150"></span>[153:\*](ipc12.htm#fr_151.md) "Mahab. Vanaparva,"
 v. 4059.
 
-<span id="fn_151"></span>[154:\*](ipc12.htm#fr_152) (See [Pl.
-13](#img_pl13).) From a photograph given by Mr. Fergusson.
+<span id="fn_151"></span>[154:\*](ipc12.htm#fr_152.md) (See [Pl.
+13](#img_pl13)..md) From a photograph given by Mr. Fergusson.
 
-<span id="fn_152"></span>[157:\*](ipc12.htm#fr_153) Râm Râz,
+<span id="fn_152"></span>[157:\*](ipc12.htm#fr_153.md) Râm Râz,
 "Architecture of the Hindus," p. 48.
 
-<span id="fn_153"></span>[158:\*](ipc12.htm#fr_154) Fergusson, "Indian
+<span id="fn_153"></span>[158:\*](ipc12.htm#fr_154.md) Fergusson, "Indian
 Architecture," p. 230.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Essenes](ipc13)
+[Next: Chapter X. The Essenes](ipc13.md)

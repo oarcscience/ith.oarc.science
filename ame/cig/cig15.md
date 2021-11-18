@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](cig14)  [Next](cig16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](cig14)  [Next](cig16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Coffee in the Gourd*, ed. J. Frank Dobie \[1923\], at Intangible
 Textual Heritage
 
@@ -102,6 +102,6 @@ suspicion, and even under the greatest stress they are off you forever.
 ------------------------------------------------------------------------
 
 [Next: Weather Wisdom of the Texas-Mexican Border, by J. Frank
-Dobie](cig16)
+Dobie](cig16.md)
 
 </div>

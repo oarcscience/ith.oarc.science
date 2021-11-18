@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](cbc36)  [Next](cbc38) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](cbc36)  [Next](cbc38.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ American](../../index)  [Maya](../index)  [Index](index) 
 |-----------------------------------|-----------|-----------------------------------------------------------------------------|
 | Katun 8 Ahau                      | A. D. 433 | (Chichen Itzá and Ziancan discovered.)                                      |
 | 6                                 | 452       | Chichen Itzá discovered.                                                    |
-| 4                                 | 472       | (Bakhalal occupied.) <span id="fr_1091"></span>[1](#fn_1084)                |
+| 4                                 | 472       | (Bakhalal occupied.) <span id="fr_1091"></span>[1](#fn_1084.md)                |
 | 2                                 | 492       |                                                                             |
 | 13                                | 511       | The "mat" of the katun is counted in its order.                             |
 | 11                                | 531       | (Chichen Itzá occupied.)                                                    |
@@ -81,7 +81,7 @@ American](../../index)  [Maya](../index)  [Index](index) 
 In the above table it is the end of the katun that is dated, as the
 katun is named for the day on which it ends. The Christian dates are
 taken from a similar table compiled by Dr. Morley <span
-id="fr_1092"></span>[1](#fn_1085) and are in accordance with the
+id="fr_1092"></span>[1](#fn_1085.md) and are in accordance with the
 well-known Morley-Spinden correlation of Maya and Christian chronology.
 According to the Goodman-Martinez-Thompson correlation each of the
 Christian dates given above should be three years later.
@@ -92,10 +92,10 @@ concerned, they differ by about 259 years in their interpretations of
 the Initial Series dates of the monuments in terms of European
 chronology. According to the former correlation, the end of the last
 Katun 13 Ahau before the Spanish Conquest fell on 12. 9. 0. 0. 0. 13
-Ahau 8 Kankin, in the year 1536. <span id="fr_1093"></span>[2](#fn_1086)
+Ahau 8 Kankin, in the year 1536. <span id="fr_1093"></span>[2](#fn_1086.md)
 The latter correlation, however, places the end of the same Katun 13
 Ahau on 11. 16. 0. 0. 0. 13 Ahau 8 Xul, in the year 1539. <span
-id="fr_1094"></span>[3](#fn_1087)
+id="fr_1094"></span>[3](#fn_1087.md)
 
 The only two possible references to the Long Count known to the writer
 are those which we have seen on pages 79 and 83 of the present work, and
@@ -106,8 +106,8 @@ tells us: "Four four-hundreds of years and fifteen score years was the
 end of their lives." In the Books of Chilam Balam we find occasional
 references to the *haab*, or 365 day year, when the *tun* of 360 days is
 plainly meant. Consequently in terms of the Long Count we have on page
-[79](cbc08.htm#page_79) a mention of a period which would be recorded on
-the monuments as 3. 15. 0. 0. 0.; and on page [83](cbc10.htm#page_83)
+[79](cbc08.htm#page_79.md) a mention of a period which would be recorded on
+the monuments as 3. 15. 0. 0. 0.; and on page [83](cbc10.htm#page_83.md)
 the period referred to would be 4. 15. 0. 0. 0. These two statements are
 indefinite in several important respects. No date in the Long Count is
 given as a starting point. No current Maya day, month, year or katun is
@@ -137,7 +137,7 @@ the Tuxtla Statuette. If we subtract from 11. 15. 0. 0. 0. the other
 period mentioned in the Chumayel, 4. 15. 0. 0. 0., the count will be
 carried back to 7. 0. 0. 0. 0. which is believed to be the general
 period when Maya Chronology was first developed. <span
-id="fr_1095"></span>[1](#fn_1088) In other words, either of the totals
+id="fr_1095"></span>[1](#fn_1088.md) In other words, either of the totals
 given in the Chumayel Manuscript, counted backward from 11. 15. 0. 0.
 0., will reach an Initial Series value which we now believe is about the
 time that Maya chronology, in the first case, was actually inaugurated
@@ -148,33 +148,33 @@ tends to support the former correlation against the latter. We also have
 here an indication that the Maya calendar continued unbroken, except for
 the shift of a single day in the Year Bearer, from the time of the
 inscriptions down to that of the Spanish occupation of Yucatan. <span
-id="fr_1096"></span>[2](#fn_1089)
+id="fr_1096"></span>[2](#fn_1089.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1084"></span>[204:1](cbc37.htm#fr_1091) Events not
+<span id="fn_1084"></span>[204:1](cbc37.htm#fr_1091.md) Events not
 mentioned in the Chumayel are enclosed in parentheses.
 
-<span id="fn_1085"></span>[205:1](cbc37.htm#fr_1092) Morley 1920, p.
+<span id="fn_1085"></span>[205:1](cbc37.htm#fr_1092.md) Morley 1920, p.
 503.
 
-<span id="fn_1086"></span>[205:2](cbc37.htm#fr_1093) Spinden.
+<span id="fn_1086"></span>[205:2](cbc37.htm#fr_1093.md) Spinden.
 
-<span id="fn_1087"></span>[205:3](cbc37.htm#fr_1094) Martinez H. 1926,
+<span id="fn_1087"></span>[205:3](cbc37.htm#fr_1094.md) Martinez H. 1926,
 p. 11. Goodman fixes the date on October 30, 1539; Thompson (1927, p.
 21) places it on November 13, 1539. For other correlations see Morley
 1920, pp. 524-535.
 
-<span id="fn_1088"></span>[206:1](cbc37.htm#fr_1095) Spinden 1924, p.
+<span id="fn_1088"></span>[206:1](cbc37.htm#fr_1095.md) Spinden 1924, p.
 156.
 
-<span id="fn_1089"></span>[206:2](cbc37.htm#fr_1096) In this summary the
+<span id="fn_1089"></span>[206:2](cbc37.htm#fr_1096.md) In this summary the
 writer has quoted freely from a letter of Dr. S. G. Morley, who was kind
 enough to point out the significance of the results to be obtained by
 such a subtraction as suggested above.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](cbc38)
+[Next: Bibliography](cbc38.md)

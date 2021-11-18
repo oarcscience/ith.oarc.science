@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst069)  [Next](inst071) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst069)  [Next](inst071.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ justification. Sum of the discussion.
 
 <span id="iv.iii.xviii-p16"></span>13. Argument founded on <span
 id="iv.iii.xviii-p16.1"></span>[Rom.
-2:13](../../../bib/kjv/rom002.htm#013)<span
+2:13](../../../bib/kjv/rom002.htm#013.md)<span
 id="iv.iii.xviii-p16.1"></span>. Answer, explaining the Apostles
 meaning. Another argument, containing a *reduction ad impossibili*. Why
 Paul used the argument.
@@ -140,8 +140,8 @@ hearken to these judgments, and keep and do them, that the Lord thy God
 shall keep unto thee the covenant and the mercy which he sware unto thy
 fathers; and he will love thee, and bless thee and multiply thee,”
 (<span id="iv.iii.xviii-p19.1"></span>[Deut.
-7:12](../../../bib/kjv/deu007.htm#012),
-[13](../../../bib/kjv/deu007.htm#013)<span
+7:12](../../../bib/kjv/deu007.htm#012.md),
+[13](../../../bib/kjv/deu007.htm#013.md)<span
 id="iv.iii.xviii-p19.1"></span>). Again, “If ye thoroughly amend your
 ways and your doings; if ye thoroughly execute judgment between a man
 and his neighbor; if ye oppress not the stranger, the fatherless, and
@@ -149,17 +149,17 @@ the widow, and shed not innocent blood in this place, neither walk after
 other gods to your hurt: then will I cause you to dwell in this place,
 in the land that I gave to your fathers, for ever and ever,” (<span
 id="iv.iii.xviii-p19.2"></span>[Jer.
-7:5-7](../../../bib/kjv/jer007.htm#005)<span
+7:5-7](../../../bib/kjv/jer007.htm#005.md)<span
 id="iv.iii.xviii-p19.2"></span>). It were to no purpose to quote a
 thousand similar passages, which, as they are not different in meaning,
 are to be explained on the same principle. In substance, Moses declares
 that in the law is set down “a blessing and a curse,” life and death
 (<span id="iv.iii.xviii-p19.3"></span>[Deut.
-11:26](../../../bib/kjv/deu011.htm#026)<span
+11:26](../../../bib/kjv/deu011.htm#026.md)<span
 id="iv.iii.xviii-p19.3"></span>); and hence they argue, either that that
 blessing is become inactive and unfruitful, or that justification is not
 by faith only. We have already shown,44  <span
-id="fr_436"></span>[437](#fn_436) that if we cleave to the law we are
+id="fr_436"></span>[437](#fn_436.md) that if we cleave to the law we are
 devoid of every blessing, and have nothing but the curse denounced on
 all transgressors. The Lord does not promise any thing except to the
 perfect observers of the law; and none such are any where to be found.
@@ -191,7 +191,7 @@ Jews, aware that “a man is not justified by the works of the law,” had
 assisted to make up the sum of righteousness by faith in Christ, but
 that they “might be justified by the faith of Christ, and not by the
 works of the law,” (<span id="iv.iii.xviii-p21.1"></span>[Gal.
-2:16](../../../bib/kjv/gal002.htm#016)<span
+2:16](../../../bib/kjv/gal002.htm#016.md)<span
 id="iv.iii.xviii-p21.1"></span>). If believers withdraw from the law to
 faith, that in the latter they may find the justification which they see
 is not in the former, they certainly disclaim justification by the law.
@@ -201,23 +201,23 @@ that owing to our depravity, we derive no benefit from them until we
 have obtained another righteousness by faith. Thus David after making
 mention of the reward which the Lord has prepared for his servants
 (<span id="iv.iii.xviii-p21.2"></span>[Ps.
-25](../../../bib/kjv/psa025.htm#000)<span
+25](../../../bib/kjv/psa025.htm#000.md)<span
 id="iv.iii.xviii-p21.2"></span> almost throughout), immediately descends
 to an acknowledgment of sins, by which the reward is made void. In <span
 id="iv.iii.xviii-p21.3"></span>[Psalm
-19](../../../bib/kjv/psa019.htm#000)<span
+19](../../../bib/kjv/psa019.htm#000.md)<span
 id="iv.iii.xviii-p21.3"></span>, also, he loudly extols the benefits of
 the law; but immediately exclaims, “Who can understand his errors?
 cleanse thou me from secret faults,” (<span
 id="iv.iii.xviii-p21.4"></span>[Ps.
-19:12](../../../bib/kjv/psa019.htm#012)<span
+19:12](../../../bib/kjv/psa019.htm#012.md)<span
 id="iv.iii.xviii-p21.4"></span>). This passage perfectly accords with
 the former, when, after saying, “the paths of the Lord are mercy and
 truth unto such as keep his covenant and his testimonies,” he adds, “For
 thy name’s sake, O Lord, pardon mine iniquity: for it is great,” (<span
 id="iv.iii.xviii-p21.5"></span>[Ps.
-25:10](../../../bib/kjv/psa025.htm#010),
-[11](../../../bib/kjv/psa025.htm#011)<span
+25:10](../../../bib/kjv/psa025.htm#010.md),
+[11](../../../bib/kjv/psa025.htm#011.md)<span
 id="iv.iii.xviii-p21.5"></span>). Thus, too, we ought to acknowledge
 that the favor of God is offered to us in the law, provided by our works
 we can deserve it; but that it never actually reaches us through any
@@ -231,10 +231,10 @@ that, considered in themselves, they are in some sense abolished. Hence
 the Apostle shows, that the celebrated promise, “Ye shall therefore keep
 my statutes and my judgments: which if a man do, he shall live in them,”
 (<span id="iv.iii.xviii-p22.1"></span>[Lev.
-18:5](../../../bib/kjv/lev018.htm#005)<span
+18:5](../../../bib/kjv/lev018.htm#005.md)<span
 id="iv.iii.xviii-p22.1"></span>; <span
 id="iv.iii.xviii-p22.2"></span>[Ezek.
-20:10](../../../bib/kjv/eze020.htm#010)<span
+20:10](../../../bib/kjv/eze020.htm#010.md)<span
 id="iv.iii.xviii-p22.2"></span>), will, if we stop at it, be of no
 avail, and will profit us not a whit more than if it were not given,
 being inaccessible even to the holiest servants of God, who are all far
@@ -257,7 +257,7 @@ indulgence, honors so far as to give them some degree of value. Thirdly,
 he extends his pardon to them, not imputing the imperfection by which
 they are all polluted, and would deserve to be regarded as vices rather
 than virtues. Hence it appears how much Sophists44  <span
-id="fr_437"></span>[438](#fn_437) were deluded in thinking they
+id="fr_437"></span>[438](#fn_437.md) were deluded in thinking they
 admirably escaped all absurdities when they said, that works are able to
 merit salvation, not from their intrinsic worth, but according to
 agreement, the Lord having, in his liberality, set this high value upon
@@ -275,8 +275,8 @@ given by Luke in the Acts, “Of a truth I perceive that God is no
 respecter of persons: but in every nation he that feareth him, and
 worketh righteousness, is accepted with him” (<span
 id="iv.iii.xviii-p24.1"></span>[Acts
-10:34](../../../bib/kjv/act010.htm#034),
-[35](../../../bib/kjv/act010.htm#035)<span
+10:34](../../../bib/kjv/act010.htm#034.md),
+[35](../../../bib/kjv/act010.htm#035.md)<span
 id="iv.iii.xviii-p24.1"></span>). And hence they infer, as a thing which
 seems to them beyond a doubt, that if man by right conduct procures the
 favor of God, his obtaining salvation is not entirely the gift of God.
@@ -293,7 +293,7 @@ empty imagination of merit. Another passage in the same book—viz. where
 Cornelius hears from the lips of an angel, “Thy prayer and thine alms
 are come up for a memorial before God,” (<span
 id="iv.iii.xviii-p24.2"></span>[Acts
-10:4](../../../bib/kjv/act010.htm#004)<span
+10:4](../../../bib/kjv/act010.htm#004.md)<span
 id="iv.iii.xviii-p24.2"></span>), is miserably wrested to prove that man
 is prepared by the study of good works to receive the favor of God.
 Cornelius being endued with true wisdom, in other words, with the fear
@@ -301,7 +301,7 @@ of God, must have been enlightened by the Spirit of wisdom, and being an
 observer of righteousness, must have been sanctified by the same Spirit;
 righteousness being, as the Apostle testifies, one of the most certain
 fruits of the Spirit (<span id="iv.iii.xviii-p24.3"></span>[Gal.
-5:5](../../../bib/kjv/gal005.htm#005)<span
+5:5](../../../bib/kjv/gal005.htm#005.md)<span
 id="iv.iii.xviii-p24.3"></span>). Therefore, all those qualities by
 which he is said to have pleased God he owed to divine grace: so far was
 he from preparing himself by his own strength to receive it. Indeed, not
@@ -350,14 +350,14 @@ Solomon in his prayer at the dedication says, “Lord God of Israel, there
 is no God like thee, in heaven above, or on earth beneath, who keepest
 covenant and mercy with thy servants that walk before thee with all
 their heart,” (<span id="iv.iii.xviii-p25.1"></span>[1 Kings
-8:23](../../../bib/kjv/kg1008.htm#023)<span
+8:23](../../../bib/kjv/kg1008.htm#023.md)<span
 id="iv.iii.xviii-p25.1"></span>). The same words are repeated by
 Nehemiah (<span id="iv.iii.xviii-p25.2"></span>[Neh.
-1:5](../../../bib/kjv/neh001.htm#005)<span
+1:5](../../../bib/kjv/neh001.htm#005.md)<span
 id="iv.iii.xviii-p25.2"></span>). As the Lord in all covenants of mercy
 stipulates on his part for integrity and holiness of life in his
 servants (<span id="iv.iii.xviii-p25.3"></span>[Deut.
-29:18](../../../bib/kjv/deu029.htm#018)<span
+29:18](../../../bib/kjv/deu029.htm#018.md)<span
 id="iv.iii.xviii-p25.3"></span>), lest his goodness might be held in
 derision, or any one, puffed up with exultation in it, might speak
 flatteringly to his soul while walking in the depravity of his heart, so
@@ -368,8 +368,8 @@ declares, “according to the cleanness of my hands has he recompensed
 me,” yet does he not omit the fountain to which I have referred; “he
 delivered me, because he delighted in me,” (<span
 id="iv.iii.xviii-p25.4"></span>[2 Sam.
-22:20](../../../bib/kjv/sa2022.htm#020),
-[21](../../../bib/kjv/sa2022.htm#021)<span
+22:20](../../../bib/kjv/sa2022.htm#020.md),
+[21](../../../bib/kjv/sa2022.htm#021.md)<span
 id="iv.iii.xviii-p25.4"></span>). In commending the goodness of his
 cause, he derogates in no respect from the free mercy which takes
 precedence of all the gifts of which it is the origin.
@@ -403,14 +403,14 @@ the members of the Church, “Lord, who shall abide in thy tabernacle? who
 shall dwell in thy holy hill? He that walketh uprightly, and worketh
 righteousness, and speaketh the truth in his heart,” &c. (<span
 id="iv.iii.xviii-p26.1"></span>[Ps.
-15:1](../../../bib/kjv/psa015.htm#001),
-[2](../../../bib/kjv/psa015.htm#002)<span
+15:1](../../../bib/kjv/psa015.htm#001.md),
+[2](../../../bib/kjv/psa015.htm#002.md)<span
 id="iv.iii.xviii-p26.1"></span>). Again, in Isaiah, “Who among us shall
 dwell with the devouring fire? who among us shall dwell with everlasting
 burnings? He that walketh righteously,” &c. (<span
 id="iv.iii.xviii-p26.2"></span>[Isa.
-33:14](../../../bib/kjv/isa033.htm#014),
-[15](../../../bib/kjv/isa033.htm#015)<span
+33:14](../../../bib/kjv/isa033.htm#014.md),
+[15](../../../bib/kjv/isa033.htm#015.md)<span
 id="iv.iii.xviii-p26.2"></span>). For the thing described is not the
 strength with which believers can stand before the Lord, but the manner
 in which our most merciful Father introduces them into his fellowship,
@@ -432,7 +432,7 @@ commandments is termed justification or righteousness. Of the other
 classes we have a description in the words of Moses, “It shall be our
 righteousness, if we observe to do all these commandments,” (<span
 id="iv.iii.xviii-p27.1"></span>[Deut.
-6:25](../../../bib/kjv/deu006.htm#025)<span
+6:25](../../../bib/kjv/deu006.htm#025.md)<span
 id="iv.iii.xviii-p27.1"></span>). But if you object, that it is a legal
 promise, which, having an impossible condition annexed to it, proves
 nothing, there are other passages to which the same answer cannot be
@@ -440,16 +440,16 @@ made; for instance, “If the man be poor,” “thou shalt deliver him the
 pledge again when the sun goes down:” “and it shall be righteousness
 unto thee before the Lord thy God,” (<span
 id="iv.iii.xviii-p27.2"></span>[Deut.
-24:13](../../../bib/kjv/deu024.htm#013)<span
+24:13](../../../bib/kjv/deu024.htm#013.md)<span
 id="iv.iii.xviii-p27.2"></span>). Likewise the words of the prophet,
 “Then stood up Phinehas, and executed judgment: and so the plague was
 stayed. And that was counted unto him for righteousness unto all
 generations for evermore,” (<span id="iv.iii.xviii-p27.3"></span>[Ps.
-106:30](../../../bib/kjv/psa106.htm#030),
-[31](../../../bib/kjv/psa106.htm#031)<span
+106:30](../../../bib/kjv/psa106.htm#030.md),
+[31](../../../bib/kjv/psa106.htm#031.md)<span
 id="iv.iii.xviii-p27.3"></span>). Accordingly the Pharisees of our day
 think they have here full scope for exultation.44  <span
-id="fr_438"></span>[439](#fn_438) For, as we say, that when
+id="fr_438"></span>[439](#fn_438.md) For, as we say, that when
 justification by faith is established, justification by works falls;
 they argue on the same principle, If there is a justification by works,
 it is false to say that we are justified by faith only. When I grant
@@ -459,7 +459,7 @@ that the Hebrew word !yqj
 
 <span id="iv.iii.xviii-p29"></span> has been rendered by the Septuagint,
 not very appropriately, δικαιώματα, *justifications*, instead of
-*edicts*.44  <span id="fr_439"></span>[440](#fn_439) But I readily give
+*edicts*.44  <span id="fr_439"></span>[440](#fn_439.md) But I readily give
 up any dispute as to the word. Nor do I deny that the Law of God
 contains a perfect righteousness. For although we are debtors to do all
 the things which it enjoins, and, therefore, even after a full
@@ -476,7 +476,7 @@ the law righteousness, it also gives this name to the works of the
 saints: as when it states that Zacharias and his wife “were both
 righteous before God, walking in all the commandments and ordinances of
 the Lord blameless,” (<span id="iv.iii.xviii-p30.1"></span>[Luke
-1:6](../../../bib/kjv/luk001.htm#006)<span
+1:6](../../../bib/kjv/luk001.htm#006.md)<span
 id="iv.iii.xviii-p30.1"></span>). Surely when it thus speaks, it
 estimates works more according to the nature of the law than their own
 proper character. And here, again, I must repeat the observation which I
@@ -491,22 +491,22 @@ its precepts is righteousness: if we look to the men by whom they are
 performed, being transgressors in many things, they by no means merit
 the praise of righteousness for one work, and that a work which, through
 the imperfection adhering to it, is always in some respect vicious.44
- <span id="fr_440"></span>[441](#fn_440)
+ <span id="fr_440"></span>[441](#fn_440.md)
 
 <span id="iv.iii.xviii-p32"></span>8. I come to the second class (sec.
 1, 7, ad init.), in which the chief difficulty lies. Paul finds nothing
 stronger to prove justification by faith than that which is written of
 Abraham, he “believed God, and it was counted unto him for
 righteousness,” (<span id="iv.iii.xviii-p32.1"></span>[Rom.
-4:3](../../../bib/kjv/rom004.htm#003)<span
+4:3](../../../bib/kjv/rom004.htm#003.md)<span
 id="iv.iii.xviii-p32.1"></span>; <span
 id="iv.iii.xviii-p32.2"></span>[Gal.
-3:6](../../../bib/kjv/gal003.htm#006)<span
+3:6](../../../bib/kjv/gal003.htm#006.md)<span
 id="iv.iii.xviii-p32.2"></span>). Therefore, when it is said that the
 achievement of Phinehas “was counted unto him for righteousness,” (<span
 id="iv.iii.xviii-p32.3"></span>[Ps.
-106:30](../../../bib/kjv/psa106.htm#030),
-[31](../../../bib/kjv/psa106.htm#031)<span
+106:30](../../../bib/kjv/psa106.htm#030.md),
+[31](../../../bib/kjv/psa106.htm#031.md)<span
 id="iv.iii.xviii-p32.3"></span>), we may argue that what Paul contends
 for respecting faith applies also to works. Our opponents, accordingly,
 as if the point were proved, set it down that though we are not
@@ -552,13 +552,13 @@ in some one part? Even this he will not venture to maintain in
 opposition to the authority of the law, which pronounces, “Cursed be he
 that confirmeth not all the words of this law to do them,” (<span
 id="iv.iii.xviii-p33.1"></span>[Deut.
-27:26](../../../bib/kjv/deu027.htm#026)<span
+27:26](../../../bib/kjv/deu027.htm#026.md)<span
 id="iv.iii.xviii-p33.1"></span>). I would go still farther and ask,
 Whether there be any work which may not justly be convicted of impurity
 or imperfection? How, then, will it appear to that eye before which even
 the heavens are not clean, and angels are chargeable with folly? (<span
 id="iv.iii.xviii-p33.2"></span>[Job
-4:18](../../../bib/kjv/job004.htm#018)<span
+4:18](../../../bib/kjv/job004.htm#018.md)<span
 id="iv.iii.xviii-p33.2"></span>). Thus he will be forced to confess that
 no good work exists that is not defiled, both by contrary transgression
 and also by its own corruption, so that it cannot be honored as
@@ -567,7 +567,7 @@ that works, otherwise impure, unclean, defective, unworthy of the sight,
 not to say of the love of God, are imputed for righteousness, why do
 they by boasting of this imputation aim at the destruction of that
 justification, but for which the boast were vain? Are they desirous of
-having a viper’s birth?44  <span id="fr_441"></span>[442](#fn_441) To
+having a viper’s birth?44  <span id="fr_441"></span>[442](#fn_441.md) To
 this their ungodly language tends. They cannot deny that justification
 by faith is the beginning, the foundation, the cause, the subject, the
 substance, of works of righteousness, and yet they conclude that
@@ -601,7 +601,7 @@ it be, depends on faith and free justification, and is produced by it,
 it ought to be included under it and, so to speak, made subordinate to
 it, as the effect to its cause; so far is it from being entitled to be
 set up to impair or destroy the doctrine of justification.44  <span
-id="fr_442"></span>[443](#fn_442) Thus Paul, to prove that our
+id="fr_442"></span>[443](#fn_442.md) Thus Paul, to prove that our
 blessedness depends not on our works, but on the mercy of God, makes
 special use of the words of David, “Blessed is he whose transgression is
 forgiven, whose sin is covered;” “Blessed is the man unto whom the Lord
@@ -611,7 +611,7 @@ passages in which blessedness seems to be attributed to works, as,
 poor, happy is he;” “Blessed is the man that walketh not in the counsel
 of the ungodly,” and “that endureth temptation;” “Blessed are they that
 keep judgment,” that are “pure in heart,” “meek,” “merciful,” &c.,45
- <span id="fr_443"></span>[444](#fn_443) they cannot make out that
+ <span id="fr_443"></span>[444](#fn_443.md) they cannot make out that
 Paul’s doctrine is not true. For seeing that the qualities thus extolled
 never all so exist in man as to obtain for him the approbation of God,
 it follows, that man is always miserable until he is exempted from
@@ -633,8 +633,8 @@ more serious business with James, who in express terms opposes us. For
 he asks, “Was not Abraham our father justified by works?” and adds “You
 see then how that by works a man is justified, and not by faith only,”
 (<span id="iv.iii.xviii-p38.1"></span>[Jas.
-2:21](../../../bib/kjv/jam002.htm#021),
-[24](../../../bib/kjv/jam002.htm#024)<span
+2:21](../../../bib/kjv/jam002.htm#021.md),
+[24](../../../bib/kjv/jam002.htm#024.md)<span
 id="iv.iii.xviii-p38.1"></span>). What then? Will they engage Paul in a
 quarrel with James? If they hold James to be a servant of Christ, his
 sentiments must be understood as not dissenting from Christ speaking by
@@ -646,7 +646,7 @@ works, and not of faith only. It is certain that the Spirit cannot be at
 variance with himself. Where, then, will be the agreement? It is enough
 for our opponents, provided they can tear up that justification by faith
 which we regard as fixed by the deepest roots:45  <span
-id="fr_444"></span>[445](#fn_444) to restore peace to the conscience is
+id="fr_444"></span>[445](#fn_444.md) to restore peace to the conscience is
 to them a matter of no great concern. Hence you may see, that though
 they indeed carp at the doctrine of justification by faith, they
 meanwhile point out no goal of righteousness at which the conscience may
@@ -675,7 +675,7 @@ true faith, makes a concession which derogates in no respect from his
 case. This he demonstrates at the outset by the words, “What does it
 profit, my brethren, though a man say he has faith, and have not works?”
 (<span id="iv.iii.xviii-p39.1"></span>[James
-2:14](../../../bib/kjv/jam002.htm#014)<span
+2:14](../../../bib/kjv/jam002.htm#014.md)<span
 id="iv.iii.xviii-p39.1"></span>). He says not, “If a man *have* faith
 without works,” but “if he say that he has.” This becomes still clearer
 when a little after he derides this faith as worse than that of devils,
@@ -735,7 +735,7 @@ with such an imagination, manifests his justification by good works.
 Paul to the same effect, that “not the hearers of the law are just
 before God, but the doers of the law shall be justified,” (<span
 id="iv.iii.xviii-p41.1"></span>[Rom.
-2:13](../../../bib/kjv/rom002.htm#013)<span
+2:13](../../../bib/kjv/rom002.htm#013.md)<span
 id="iv.iii.xviii-p41.1"></span>). I am unwilling to evade the difficulty
 by the solution of Ambrose, that Paul spoke thus because faith in Christ
 is the fulfillment of the law. This I regard as a mere subterfuge, and
@@ -782,7 +782,7 @@ for I have walked in mine integrity;” “I have not sat with vain persons;
 neither will I go in with dissemblers;” “Gather not my soul with
 sinners, nor my life with bloody men; in whose hands is mischief, and
 their right hand is full of bribes. But as for me, I will walk in mine
-integrity.”45  <span id="fr_445"></span>[446](#fn_445) I have already
+integrity.”45  <span id="fr_445"></span>[446](#fn_445.md) I have already
 spoken of the confidence which the saints seem to derive simply from
 works. The passages now quoted will not occasion much difficulty, if we
 attend to their περίστασις, their connection, or (as it is commonly
@@ -809,7 +809,7 @@ sincerity justice, simplicity, and purity, are ascertained and approved
 by God, they dread not to call upon him to judge between them. Thus when
 David said to Saul, “The Lord render to every man his righteousness and
 his faithfulness,” (<span id="iv.iii.xviii-p43.2"></span>[1 Sam.
-26:23](../../../bib/kjv/sa1026.htm#023)<span
+26:23](../../../bib/kjv/sa1026.htm#023.md)<span
 id="iv.iii.xviii-p43.2"></span>), he meant not that the Lord should
 examine and reward every one according to his deserts, but he took the
 Lord to witness how great his innocence was in comparison of Saul’s
@@ -818,14 +818,14 @@ this, the testimony of our conscience, that in simplicity and godly
 sincerity, not with fleshly wisdom, but by the grace of God, we have had
 our conversation in the world, and more abundantly to you-ward,” (<span
 id="iv.iii.xviii-p43.3"></span>[2 Cor.
-1:12](../../../bib/kjv/co2001.htm#012)<span
+1:12](../../../bib/kjv/co2001.htm#012.md)<span
 id="iv.iii.xviii-p43.3"></span>), means not to call for the scrutiny of
 God, but compelled by the calumnies of the wicked he appeals, in
 contradiction of all their slanders, to his faith and probity, which he
 knew that God had indulgently accepted. For we see how he elsewhere
 says, “I know nothing by myself; yet am I not hereby justified,” (<span
 id="iv.iii.xviii-p43.4"></span>[1 Cor.
-4:4](../../../bib/kjv/co1004.htm#004)<span
+4:4](../../../bib/kjv/co1004.htm#004.md)<span
 id="iv.iii.xviii-p43.4"></span>); in other words, he was aware that the
 divine judgment far transcended the blind estimate of man. Therefore,
 however believers may, in defending their integrity against the
@@ -836,24 +836,24 @@ stand?” Again, “Enter not into judgment with thy servant; for in thy
 sight shall no man living be justified.” Distrusting their own words,
 they gladly exclaim, “Thy loving-kindness is better than life,” (<span
 id="iv.iii.xviii-p43.5"></span>[Ps.
-130:3](../../../bib/kjv/psa130.htm#003)<span
+130:3](../../../bib/kjv/psa130.htm#003.md)<span
 id="iv.iii.xviii-p43.5"></span>; 143:2; 63:3).
 
 <span id="iv.iii.xviii-p44"></span>15. There are other passages not
 unlike those quoted above, at which some may still demur. Solomon says,
 “The just man walketh in his integrity,” (<span
 id="iv.iii.xviii-p44.1"></span>[Prov.
-20:7](../../../bib/kjv/pro020.htm#007)<span
+20:7](../../../bib/kjv/pro020.htm#007.md)<span
 id="iv.iii.xviii-p44.1"></span>). Again, “In the way of righteousness is
 life; and in the pathway thereof there is no death,” (<span
 id="iv.iii.xviii-p44.2"></span>[Prov.
-12:28](../../../bib/kjv/pro012.htm#028)<span
+12:28](../../../bib/kjv/pro012.htm#028.md)<span
 id="iv.iii.xviii-p44.2"></span>). For this reason Ezekiel says, He that
 “has walked in my statutes, and has kept my judgments, to deal truly; he
 is just, he shall surely live,” (<span
 id="iv.iii.xviii-p44.3"></span>[Ezek.
-18:9](../../../bib/kjv/eze018.htm#009),
-[21](../../../bib/kjv/eze018.htm#021)<span
+18:9](../../../bib/kjv/eze018.htm#009.md),
+[21](../../../bib/kjv/eze018.htm#021.md)<span
 id="iv.iii.xviii-p44.3"></span>; 23:15). None of these declarations do
 we deny or obscure. But let one of the sons of Adam come forward with
 such integrity. If there is none, they must perish from the presence of
@@ -873,7 +873,7 @@ unseasonably obtrude those passages in which the Apostle prays for all
 perfection to believers, “To the end he may establish your hearts
 unblamable in holiness before God, even our Father,” (<span
 id="iv.iii.xviii-p44.4"></span>[1 Thess.
-3:13](../../../bib/kjv/th1003.htm#013)<span
+3:13](../../../bib/kjv/th1003.htm#013.md)<span
 id="iv.iii.xviii-p44.4"></span>, and elsewhere). These words were
 strongly urged by the Celestines of old, in maintaining the perfection
 of holiness in the present life. To this we deem it sufficient briefly
@@ -892,31 +892,31 @@ truth and in humility,” (August. ad Bonif. lib. 3, c. 7).
 
 ### Footnotes
 
-<span id="fn_436"></span>[437](inst070.htm#fr_436) <span
+<span id="fn_436"></span>[437](inst070.htm#fr_436.md) <span
 id="iv.iii.xviii-p19.4"></span>
 
 <span id="iv.iii.xviii-p20"></span>43 443 See Book 2 chap. 7: sec. 2-8,
 15; chap. 8 sec 3; chap 11 sec. 8; Book 3 chap 19. sec 2.
 
-<span id="fn_437"></span>[438](inst070.htm#fr_437) <span
+<span id="fn_437"></span>[438](inst070.htm#fr_437.md) <span
 id="iv.iii.xviii-p22.3"></span>
 
 <span id="iv.iii.xviii-p23"></span>44 444 French, “Les Sophistes de
 Sorbonne;”—the Sophists of Sorbonne.
 
-<span id="fn_438"></span>[439](inst070.htm#fr_438) <span
+<span id="fn_438"></span>[439](inst070.htm#fr_438.md) <span
 id="iv.iii.xviii-p27.4"></span>
 
 <span id="iv.iii.xviii-p28"></span>45 445 French, “de crier contre nous
 en cest endroit;”—here to raise an outcry against us.
 
-<span id="fn_439"></span>[440](inst070.htm#fr_439) <span
+<span id="fn_439"></span>[440](inst070.htm#fr_439.md) <span
 id="iv.iii.xviii-p29.1"></span>
 
 <span id="iv.iii.xviii-p30"></span>46 446 French, “Edits ou
 Statuts;”—Edicts or Statutes.
 
-<span id="fn_440"></span>[441](inst070.htm#fr_440) <span
+<span id="fn_440"></span>[441](inst070.htm#fr_440.md) <span
 id="iv.iii.xviii-p30.2"></span>
 
 <span id="iv.iii.xviii-p31"></span>47 447 The French here adds the two
@@ -931,14 +931,14 @@ commanded, and which is null if it be not perfect. Now it is not found
 perfect in any man in the world. Hence we must conclude, that no good
 work merits in itself the name of righteousness.
 
-<span id="fn_441"></span>[442](inst070.htm#fr_441) <span
+<span id="fn_441"></span>[442](inst070.htm#fr_441.md) <span
 id="iv.iii.xviii-p33.3"></span>
 
 <span id="iv.iii.xviii-p34"></span>48 448 French “Voudrions nous faire
 une lignee serpentine, que les enfans meutrissent leur mere?”—Would we
 have a viperish progeny, where the children murder the parent?
 
-<span id="fn_442"></span>[443](inst070.htm#fr_442) <span
+<span id="fn_442"></span>[443](inst070.htm#fr_442.md) <span
 id="iv.iii.xviii-p35.1"></span>
 
 <span id="iv.iii.xviii-p36"></span>49 449 The whole sentence in French
@@ -951,28 +951,28 @@ justification, it must not be employed to destroy or obscure the grace
 on which it depends, but should rather be included in it, like the fruit
 in the tree.
 
-<span id="fn_443"></span>[444](inst070.htm#fr_443) <span
+<span id="fn_443"></span>[444](inst070.htm#fr_443.md) <span
 id="iv.iii.xviii-p36.1"></span>
 
 <span id="iv.iii.xviii-p37"></span>50 450 <span
 id="iv.iii.xviii-p37.1"></span>[Rom.
-4:7](../../../bib/kjv/rom004.htm#007)<span
+4:7](../../../bib/kjv/rom004.htm#007.md)<span
 id="iv.iii.xviii-p37.1"></span>; <span
 id="iv.iii.xviii-p37.2"></span>[Ps.
-32:1](../../../bib/kjv/psa032.htm#001),
-[2](../../../bib/kjv/psa032.htm#002)<span
+32:1](../../../bib/kjv/psa032.htm#001.md),
+[2](../../../bib/kjv/psa032.htm#002.md)<span
 id="iv.iii.xviii-p37.2"></span>; 112:1; <span
 id="iv.iii.xviii-p37.3"></span>[Prov.
-14:21](../../../bib/kjv/pro014.htm#021)<span
+14:21](../../../bib/kjv/pro014.htm#021.md)<span
 id="iv.iii.xviii-p37.3"></span>; <span
 id="iv.iii.xviii-p37.4"></span>[Ps.
-1:1](../../../bib/kjv/psa001.htm#001)<span
+1:1](../../../bib/kjv/psa001.htm#001.md)<span
 id="iv.iii.xviii-p37.4"></span>; 106:3; 119:11; <span
 id="iv.iii.xviii-p37.5"></span>[Mt.
-5:3](../../../bib/kjv/mat005.htm#003)<span
+5:3](../../../bib/kjv/mat005.htm#003.md)<span
 id="iv.iii.xviii-p37.5"></span>.
 
-<span id="fn_444"></span>[445](inst070.htm#fr_444) <span
+<span id="fn_444"></span>[445](inst070.htm#fr_444.md) <span
 id="iv.iii.xviii-p38.2"></span>
 
 <span id="iv.iii.xviii-p39"></span>51 451 French, “Il suffit à nos
@@ -981,16 +981,16 @@ voulons estre plantee au profond du cœur.”—It is enough for our
 opponents if they can root up justification by faith, which we desire to
 be planted at the bottom of the heart.
 
-<span id="fn_445"></span>[446](inst070.htm#fr_445) <span
+<span id="fn_445"></span>[446](inst070.htm#fr_445.md) <span
 id="iv.iii.xviii-p42.1"></span>
 
 <span id="iv.iii.xviii-p43"></span>52 452 <span
 id="iv.iii.xviii-p43.1"></span>[Ps.
-7:9](../../../bib/kjv/psa007.htm#009)<span
+7:9](../../../bib/kjv/psa007.htm#009.md)<span
 id="iv.iii.xviii-p43.1"></span>; 17:1; 18:20; 26:1, 9, 10. Farther on ,
 see Chap 14 s18; Chap. 20 s10.
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 18. - THE RIGHTEOUSNESS OF WORKS IMPROPERLY INFERRED FROM
-REWARDS.](inst071)
+REWARDS.](inst071.md)

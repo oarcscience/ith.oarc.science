@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi01)  [Next](hpi03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi01)  [Next](hpi03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Textual Heritage
 ### PREFACE.
 
 The following is the first attempt which has been made, since the
-appearance of Munk's excellent sketch <span id="fr_0"></span>[1](#fn_0),
+appearance of Munk's excellent sketch <span id="fr_0"></span>[1](#fn_0.md),
 to present in connected form a History of Philosophy in Islam. This work
 of mine may therefore be regarded as a fresh initiation,--not a
 completion of such a task. I could not know of all that had been done by
@@ -38,7 +38,7 @@ Aug. Müller, Munk, Nöldeke, Renan, Snouck Hurgronje, van Vloten, and
 many, many others.
 
 Since the completion of this volume an interesting monograph on Ibn
-Sina <span id="fr_1"></span>[2](#fn_1) has appeared, which farther
+Sina <span id="fr_1"></span>[2](#fn_1.md) has appeared, which farther
 extends
 
 <span id="page_viii">p. viii</span>
@@ -54,7 +54,7 @@ II<sup>8</sup>, p. 213 *sqq*. In the transcription of Arabic names I
 have been more heedful of tradition and German pronunciation, than of
 consistency. Be it noted only that *z* is to be pronounced as a soft
 *s*, and *th* like the corresponding English sound <span
-id="fr_2"></span>[1](#fn_2). In the Index of Personal Names, accents
+id="fr_2"></span>[1](#fn_2.md). In the Index of Personal Names, accents
 signify length.
 
 As far as possible I have confined myself to Islam. On that ground Ibn
@@ -73,16 +73,16 @@ T. J. DE BOER.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](hpi02.htm#fr_0) S. MUNK, "*Mélanges de
+<span id="fn_0"></span>[vii:1](hpi02.htm#fr_0.md) S. MUNK, "*Mélanges de
 Philosophie juive et arabe*", Paris 1859.
 
-<span id="fn_1"></span>[vii:2](hpi02.htm#fr_1) CARRA DE VAUX,
+<span id="fn_1"></span>[vii:2](hpi02.htm#fr_1.md) CARRA DE VAUX,
 "Avicenne", Paris 1900.
 
-<span id="fn_2"></span>[viii:1](hpi02.htm#fr_2) \[Translator's Note: In
+<span id="fn_2"></span>[viii:1](hpi02.htm#fr_2.md) \[Translator's Note: In
 this version the transliteration has been adapted as far as possible to
 English sounds\].
 
 ------------------------------------------------------------------------
 
-[Next: Contents](hpi03)
+[Next: Contents](hpi03.md)

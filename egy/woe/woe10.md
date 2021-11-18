@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](woe09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](woe09.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,7 +201,7 @@ Nefer-ka-ptah now called for a piece of new papyrus and for a cup of
 beer; and on the papyrus he wrote all the spells that were in the Book
 of Thoth. Then he took the cup of beer and washed the papyrus in the
 beer, so that all the ink was washed off and the papyrus became as
-though it had never been [written](errata.htm#7) on. And Nefer-ka-ptah
+though it had never been [written](errata.htm#7.md) on. And Nefer-ka-ptah
 drank the beer, and at once he knew all the spells that had been written
 on the papyrus, for this is the method of the great magicians.
 

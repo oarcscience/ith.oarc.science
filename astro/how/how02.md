@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how01)  [Next](how03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how01)  [Next](how03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ or half the distance between two rays.
 ------------------------------------------------------------------------
 
 [Next: 2. On the Kinship Between the Harmonic Ratios and the Five
-Regular Figures](how03)
+Regular Figures](how03.md)

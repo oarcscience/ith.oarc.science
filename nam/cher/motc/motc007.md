@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc006) 
-[Next](motc008) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc006.md) 
+[Next](motc008.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ home.
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Moon And The Thunders.](motc008)
+[Next: 8. The Moon And The Thunders.](motc008.md)

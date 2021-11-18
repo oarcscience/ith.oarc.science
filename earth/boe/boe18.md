@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe17)  [Next](boe19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe17)  [Next](boe19.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ constant Watcher in the sky, and the unerring prophet of
 
 [![PLATE XXVI. CREATIO UNIVERSI&lt;br&gt; (From Physica Sacra; Johann
 Jacob Scheuchzer, 1731, Vol. q, Plate I).](tn/pl26.jpg)  
-Click to enlarge](img/pl26.jpg)  
+Click to enlarge](img/pl26.jpg.md)  
 PLATE XXVI. CREATIO UNIVERSI  
 (From Physica Sacra; Johann Jacob Scheuchzer, 1731, Vol. q, Plate I).  
 
@@ -44,7 +44,7 @@ first linked the single groups of stars into the twelve great signs of
 the Star-bearing Circle.
 
 *Physica Sacra* is an early eighteenth-century Bible illustrated almost
-text for text, and [Plate XXVI](#img_pl26) is its first illustration,
+text for text, and [Plate XXVI](#img_pl26.md) is its first illustration,
 for the first verse of the first chapter of the first book: "In the
 beginning God created the heaven and the Earth." Outside the Zodiacal
 Wheel are clouds upon clouds bearing a multitude of spheres, and, in
@@ -59,7 +59,7 @@ handle of the stars," and which was called by the old astronomers "the
 Mathematical jewel."
 
 The Northern and Southern hemispheres of the heavens (Figs.
-[58](#img_fig058) and [59](#img_fig059)) are merely supplementary to
+[58](#img_fig058) and [59](#img_fig059).md) are merely supplementary to
 Scheuchzer's *Creatio Universi*. They are taken from an Arabic celestial
 globe, made of brass, in 1275 A.D., which was deposited in the Museum of
 the Royal Asiatic Society of Great Britain and Ireland. Near the South
@@ -77,7 +77,7 @@ of the Hegira
 Hemisphere&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Transactions of the Royal
 Asiatic Society of Great Britain and Ireland&lt;/i&gt;, 1830, Vol. II,
 Plate A.)](tn/fig058.jpg)  
-Click to enlarge](img/fig058.jpg)  
+Click to enlarge](img/fig058.jpg.md)  
 FIGURE 58. *An ancient Arabic Celestial Sphere. Northern Hemisphere*.  
 (From *Transactions of the Royal Asiatic Society of Great Britain and
 Ireland*, 1830, Vol. II, Plate A.)  
@@ -101,7 +101,7 @@ constellations on these Arabic celestial hemi-
 Hemisphere&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Transactions of the Royal
 Asiatic Society of Great Britain and Ireland&lt;/i&gt;, 1830, Vol. II,
 Plate B.)](tn/fig059.jpg)  
-Click to enlarge](img/fig059.jpg)  
+Click to enlarge](img/fig059.jpg.md)  
 FIGURE 59. *An ancient Arabic Celestial Sphere. Southern Hemisphere*.  
 (From *Transactions of the Royal Asiatic Society of Great Britain and
 Ireland*, 1830, Vol. II, Plate B.)  
@@ -129,7 +129,7 @@ Southern Fish.
 
 OF THE TWO WHEELS OF LIFE (or Fate or Law) to be given here, we begin
 with the one that seems the simpler. This Chinese Wheel ([Plate
-XXVII](#img_pl27)) is almost a Zodiac or "path of animals," of itself.
+XXVII](#img_pl27).md) is almost a Zodiac or "path of animals," of itself.
 (The Chinese Zodiac, or "Yellow Path of the Sun," differed materially in
 its signs from the Greek-Arabic one just given; it contained twelve
 animals: the Mouse, the Cow, the Tiger, the Rabbit, the Dragon, the
@@ -145,7 +145,7 @@ Tillers of the Soil.
 
 [![PLATE XXVII. THE WHEEL OF LIFE&lt;br&gt; (From &lt;i&gt;Dragon,
 Image, and Demon&lt;/i&gt;; H. C. Du Bose, 1887)](tn/pl27.jpg)  
-Click to enlarge](img/pl27.jpg)  
+Click to enlarge](img/pl27.jpg.md)  
 PLATE XXVII. THE WHEEL OF LIFE  
 (From *Dragon, Image, and Demon*; H. C. Du Bose, 1887)  
 
@@ -159,7 +159,7 @@ Tibetan Wheel of Life (Plate XXVIII) to
 [![FIGURE 60. &lt;i&gt;Key to the Tibetan Wheel of
 Life&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;The Buddhism of Tibet, or
 Lamaism&lt;/i&gt;; L. Austine Waddell, 1899.)](tn/fig060.jpg)  
-Click to enlarge](img/fig060.jpg)  
+Click to enlarge](img/fig060.jpg.md)  
 FIGURE 60. *Key to the Tibetan Wheel of Life*.  
 (From *The Buddhism of Tibet, or Lamaism*; L. Austine Waddell, 1899.)  
 
@@ -192,7 +192,7 @@ Buddha's own parables and allegories.
 
 The Key to the Tibetan Wheel of Life will be found an aid in following
 the interpretation of it, which is Waddell's, and is given here much
-abridged. <span id="fr_11"></span>[1](#fn_11)
+abridged. <span id="fr_11"></span>[1](#fn_11.md)
 
 The disc, symbolising the endless cycle of life, is held
 
@@ -248,7 +248,7 @@ To live in the first three worlds is superior; to live in the last three
 is inferior--the highest world being Heaven, and the lowest Hell.
 
 In Heaven, above the Titans, on the aethereal summit of Mount Meru,
-dwell the gods ([Plate XXV](boe17.htm#img_pl25)). In the lowest regions
+dwell the gods ([Plate XXV](boe17.htm#img_pl25).md). In the lowest regions
 of the heavens dwell the "guardian kings of the four quarters";
 *Dritarashtra*, the white guardian of the East; *Virudhaka*, the green
 guardian of the South; *Virupaksha*, the red guardian of the West; and
@@ -267,7 +267,7 @@ cause,
 [![PLATE XXVIII. THE WHEEL OF LIFE&lt;br&gt; (From &lt;i&gt;The Buddhism
 of Tibet, or, Lamaism&lt;/i&gt;; L. Austine Waddell,
 1899)](tn/pl28.jpg)  
-Click to enlarge](img/pl28.jpg)  
+Click to enlarge](img/pl28.jpg.md)  
 PLATE XXVIII. THE WHEEL OF LIFE  
 (From *The Buddhism of Tibet, or, Lamaism*; L. Austine Waddell, 1899)  
 
@@ -278,7 +278,7 @@ higher resolution than the previous.
 
 [![THE WHEEL OF LIFE&lt;br&gt; (From &lt;i&gt;The Buddhism of Tibet, or,
 Lamaism&lt;/i&gt;; L. Austine Waddell, 1899), p. 108](tn/pl28alt.jpg)  
-Click to enlarge](img/pl28alt.jpg)  
+Click to enlarge](img/pl28alt.jpg.md)  
 THE WHEEL OF LIFE  
 (From *The Buddhism of Tibet, or, Lamaism*; L. Austine Waddell, 1899),
 p. 108  
@@ -371,9 +371,9 @@ left to man after this pilgrimage is called "The Surviving Thing."
 
 ### Footnotes
 
-<span id="fn_11"></span>[140:1](boe18.htm#fr_11) Buddhism, or The Lamas
+<span id="fn_11"></span>[140:1](boe18.htm#fr_11.md) Buddhism, or The Lamas
 of Tibet; L. Austine Waddell, pp. 105-121.
 
 ------------------------------------------------------------------------
 
-[Next: Earth The Mundane Egg](boe19)
+[Next: Earth The Mundane Egg](boe19.md)

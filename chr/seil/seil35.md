@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil34)  [Next](seil36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil34)  [Next](seil36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -58,9 +58,9 @@ will. Give me Thy love and grace, for this is enough for me.
 **Second Point**. The second, to look how God dwells in creatures, in
 the elements, giving them being, in the plants vegetating, in the
 animals feeling in them, in men giving them to understand: <span
-id="fr_20"></span>[21](seil83.htm#fn_20) and so in me, giving me being,
+id="fr_20"></span>[21](seil83.htm#fn_20.md) and so in me, giving me being,
 animating me, giving me sensation and making me to understand; <span
-id="fr_21"></span>[22](seil83.htm#fn_21) likewise making a temple of me,
+id="fr_21"></span>[22](seil83.htm#fn_21.md) likewise making a temple of me,
 being created to the likeness and image of His Divine Majesty;
 reflecting as much on myself in the way which is said in the first
 Point, or in another which I feel to be better. In the same manner will
@@ -85,4 +85,4 @@ I will end with a Colloquy and an OUR FATHER.
 
 ------------------------------------------------------------------------
 
-[Next: First Method of Prayer](seil36)
+[Next: First Method of Prayer](seil36.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast14)  [Next](dast16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast14)  [Next](dast16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ divided into four parts, and let one of these parts
 
 of one element be combined with the other elements, one part with each.
 Thus in the element of âkâsa there are five parts, four of which are
-parts of Vâyu and the rest. <span id="fr_3"></span>[\*](#fn_3) The same
+parts of Vâyu and the rest. <span id="fr_3"></span>[\*](#fn_3.md) The same
 principle should be applied to Vâyu, etc. Those who know truth declare
 that such is the quintupling of the elements. The elements thus
 quintupled, together with their products, go to form the Virâj. This is
@@ -77,7 +77,7 @@ the sthûla or gross body of Atman who has (really) no body whatever.
 5\. Threefold, as the *Adhidaiva* (the region of Cosmic Intelligences),
 as the *Adhyâtma* (the individual man), as the *Adhibhûta* (the external
 visible world), does the One Brahman appear in
-[different](errata.htm#26) forms, as shown below, owing to illusion; not
+[different](errata.htm#26.md) forms, as shown below, owing to illusion; not
 in reality:—
 
 <span id="page_197">p. 197</span>
@@ -195,7 +195,7 @@ same, so that the absence of all else may become manifest.
 
 10\. The whole universe, composed of Prâjna and so on, is one with the
 syllable 'Om'; for, the universe is made up of designations and the
-designated, which are never in fact [perceived](errata.htm#27)
+designated, which are never in fact [perceived](errata.htm#27.md)
 separately. Visva is one with the syllable '*a*'; the syllable '*u*' is
 said to be one with Taijasa, and the syllable '*m*' is one with Prâjna.
 In this order one should regard them.
@@ -241,7 +241,7 @@ in A’tman with all his being, he never indeed sees the universe. No
 doubt he becomes aware of the dual universe occasionally when he is
 awake to the world around; but then he sees it not as something
 different from the Conscious A’tman, inasmuch as
-[Consciousness](errata.htm#28) runs through all. On the other hand, he
+[Consciousness](errata.htm#28.md) runs through all. On the other hand, he
 sees this universe as false, like the confusion of the four quarters, or
 like the appearance of many moons. Then, owing to the accumulated
 prârabdha-karma,—karma which has already begun its effects,—he is aware
@@ -276,10 +276,10 @@ own A’tman who is free from all attachment and hatred.
 
 ### Footnotes
 
-<span id="fn_3"></span>[194:\*](dast15.htm#fr_3) The quintupled akasa,
+<span id="fn_3"></span>[194:\*](dast15.htm#fr_3.md) The quintupled akasa,
 then, contains one half of pure akasa, the other half being composed of
 the other elements, each of which forms one eighth of the whole.
 
 ------------------------------------------------------------------------
 
-[Next: Daksinamurti-Upanishad](dast16)
+[Next: Daksinamurti-Upanishad](dast16.md)

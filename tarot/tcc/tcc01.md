@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Copyright FAQ](../faq)  [Index](index)  [Previous](tcc00) 
-[Next](tcc02) 
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Copyright FAQ](../faq)  [Index](index)  [Previous](tcc00.md) 
+[Next](tcc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ courtesy of <a href="https://home.comcast.net/~vilex/">H. Voley</a></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: The High Priestess](tcc02)
+[Next: The High Priestess](tcc02.md)

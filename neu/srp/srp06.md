@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp05)  [Next](srp07) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp05)  [Next](srp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ in many cases become. greatly altered, yet their original features may
 easily be recognized by a careful observer.
 
 When Satan and all his hosts were expelled from heaven, says a popular
-*legenda* <span id="fr_98"></span>[5](#fn_98), some of the exiled
+*legenda* <span id="fr_98"></span>[5](#fn_98.md), some of the exiled
 spirits fell into the lowest recesses of the underground world, where
 they remain in the shape of *Karliki* or dwarfs. Some were received by
 the woods \[*lyesa*\], which they still haunt as *Lyeshie*, or sylvan
@@ -74,13 +74,13 @@ is reason to suppose that a conductor of the dead was known to the old
 Slavonians, and as their Psychopomp he is inclined to recognize the
 deity whom Dlugosz mentions under the name of Nija, and compares with
 Pluto, but whom another old writer calls "The Leader <span
-id="fr_99"></span>[6](#fn_99)." And Afanasief thinks that some connexion
+id="fr_99"></span>[6](#fn_99.md)." And Afanasief thinks that some connexion
 may be traced between the dark dogs of Yama, which guarded the road to
 the dwelling-place of the Fathers, and the black dog which in Ruthenia,
 when a dying man's agony is greatly prolonged, is passed through a hole
 made in the roof over his head, in the hope of thereby expediting the
 liberation of the soul from the body <span
-id="fr_100"></span>[7](#fn_100). But these are mere conjectures. What is
+id="fr_100"></span>[7](#fn_100.md). But these are mere conjectures. What is
 certain is that the Slavonians believed in a road leading from this to
 the other
 
@@ -122,7 +122,7 @@ rings or amulets, parings of an owl's claws and of their own nails. Such
 relies are supposed by the peasantry in many parts of Russia to be of
 the greatest use to a man after his death, for by their means his soul
 will be able to clamber up the steep sides of the hill leading to
-heaven <span id="fr_101"></span>[8](#fn_101). The Lithuanians, it is
+heaven <span id="fr_101"></span>[8](#fn_101.md). The Lithuanians, it is
 well known, held similar ideas, and used to burn the claws of wild
 beasts on their funeral pyres.
 
@@ -154,7 +154,7 @@ in the air a ladder made of birds' feathers. Up this he clambered for
 three months, at the end of which he reached the Garden of Paradise, and
 entered among groves of gold and silver and gem-bearing trees, all of
 which were familiar with the past, the present, and the future <span
-id="fr_102"></span>[9](#fn_102).
+id="fr_102"></span>[9](#fn_102.md).
 
 The abode of the dead was known to the old Slavonians under three names,
 *Rai*, *Nava*, and *Peklo*. They originally, it is supposed, had the
@@ -180,7 +180,7 @@ winds ever blow there, winter never enters those blissful realms, in
 which are preserved the seeds and types of all things that Eve upon the
 earth, and whither birds and insects repair at the end of the autumn, to
 re-appear among men with the return of spring <span
-id="fr_103"></span>[1](#fn_103). There seems to have prevailed in almost
+id="fr_103"></span>[1](#fn_103.md). There seems to have prevailed in almost
 all parts of the world a belief in the existence of Happy Islands lying
 towards the west, the home of the setting sun, but among the Slavonians
 there appears to have been widely spread some idea,--due probably to the
@@ -202,7 +202,7 @@ ordinary mortals. The name of these Easterns, who seem akin to Homer's
 have become Rakhmane, and their name has gradually passed, in the minds
 of the people, into an expression for persons who are (1) joyous,
 hospitable, etc., (2) soft, mild, etc., (3) dreary, weak-minded,
-etc <span id="fr_104"></span>[2](#fn_104).
+etc <span id="fr_104"></span>[2](#fn_104.md).
 
 The derivation of the second term for the home of the dead, *Nava*, is
 uncertain. The word *nav*, *nav'e*, means a mortal, and *unaviti* is to
@@ -221,7 +221,7 @@ acquired the' signification of the
 abode of bad souls only, and under the influence of Christian teaching
 it became Hell, the subterranean place of punishment in which evil
 spirits torment the souls of the wicked <span
-id="fr_105"></span>[3](#fn_105).
+id="fr_105"></span>[3](#fn_105.md).
 
 Side by side with the traditions which point to a distant habitation of
 the dead, there exist others in which the grave itself is spoken of as
@@ -232,7 +232,7 @@ closed, our hands and feet are frozen by the cold." Especially during
 the winters do the dead suffer; when the spring returns the peasants
 say, "Our fathers enjoy repose," and in Little-Russia they add, "God
 grant that the earth may lie light on you, and that your eyes may see
-Christ <span id="fr_106"></span>[4](#fn_106)!" It is this idea of
+Christ <span id="fr_106"></span>[4](#fn_106.md)!" It is this idea of
 residence in the material grave that lies at the root of the custom of
 periodically visiting and pouring libations on the tombs of departed
 relatives, with which we shall meet in the section devoted to funeral
@@ -276,7 +276,7 @@ say the peasants, attend the
 
 service, taking their place behind the altar. But those who are left
 unremembered weep bitterly all through the day <span
-id="fr_107"></span>[5](#fn_107).
+id="fr_107"></span>[5](#fn_107.md).
 
 In the mythic songs and stories current among the old Slavonians the
 soul of man was represented under various forms, by numerous images.
@@ -403,9 +403,9 @@ the spirits of the dead ancestors, of whom he is now the chief
 representative, were held to be in even more direct relations with the
 fire on the hearth. In the Nijegorod Government it is still forbidden to
 break up the smouldering remains of the faggots <span
-id="fr_108"></span>[6](#fn_108) in a stove with a poker; to do so might
+id="fr_108"></span>[6](#fn_108.md) in a stove with a poker; to do so might
 be to cause one's "ancestors" to fall through into Hell. The term
-"ancestors <span id="fr_109"></span>[7](#fn_109)" is universally applied
+"ancestors <span id="fr_109"></span>[7](#fn_109.md)" is universally applied
 to the defunct, even when dead children are being spoken of. When a
 Russian family moves from one house to another, the fire is raked out of
 the old stove into a jar and solemnly conveyed to the new
@@ -420,7 +420,7 @@ January the peasants, after supper, leave out a pot of stewed grain for
 the Domovoy. This pot is placed on the hearth in front of the stove, and
 surrounded with hot embers. In olden days, says Afanasief, the offering
 of corn was doubtless placed directly on the fire <span
-id="fr_110"></span>[8](#fn_110).
+id="fr_110"></span>[8](#fn_110.md).
 
 In some districts tradition expressly refers to the spirits of the dead
 the functions which are generally attributed to the Domovoy, and they
@@ -478,7 +478,7 @@ what is, left out for him. In some families a portion of the supper is
 always set aside for him, for if he is neglected he waxes wroth, and
 knocks the tables and benches about at night. Wherever fires, are
 lighted, there the Domovoy is to be found, in baths <span
-id="fr_111"></span>[9](#fn_111), in places for drying corn, and in
+id="fr_111"></span>[9](#fn_111.md), in places for drying corn, and in
 distilleries. When he haunts a bath (*banya*) he is known as a *Bannik*;
 the peasants avoid visiting a bath at late hours, for the *Bannik* does
 not like people who bathe at night, and often suffocates them,
@@ -503,7 +503,7 @@ There was a hut in which no one would live, for the children of every
 one who had inhabited it had died, and so it remained empty. But at last
 there came a man who was very poor, and he entered the hut, and said,
 "Good day to whomsoever is in this house!" "What dost thou want?" cried
-out the Old One <span id="fr_112"></span>[1](#fn_112). "I am poor; I
+out the Old One <span id="fr_112"></span>[1](#fn_112.md). "I am poor; I
 have neither roof nor courtyard," sadly said the new comer. "Live here,"
 said the Old One, "only tell thy wife to grease the stove every week,
 and look after thy children that they mayn't lie down upon it." So the
@@ -616,7 +616,7 @@ directions, with orders to seize upon the first living creature they
 should meet. The victim proved to be a child (*Dyetina*, archaic form of
 *Ditya*), who was buried alive under the foundation-stone of the new
 citadel. The city was on that account called Dyetinets <span
-id="fr_113"></span>[2](#fn_113), a name since applied to any citadel.
+id="fr_113"></span>[2](#fn_113.md), a name since applied to any citadel.
 The city was afterwards laid waste a second time, on which its
 inhabitants removed to a short distance, and founded a new city, the
 present Novgorod.
@@ -714,7 +714,7 @@ the storm. The same forces of nature which fattened the earth and made
 it bring forth harvests, often manifested themselves as destructive
 agents; so the Domovoy, although generally good to his friends,
 sometimes does them harm, just as fire is at one time friendly to man,
-at another hostile <span id="fr_114"></span>[3](#fn_114). Every now and
+at another hostile <span id="fr_114"></span>[3](#fn_114.md). Every now and
 then, the peasants believe, a house becomes haunted by teazing, if not
 absolutely malicious beings, who make terrible noises at night, throw
 about sticks and stones, and in various ways annoy the sleeping members
@@ -740,7 +740,7 @@ considered a proof of his goodwill. But when he plays the part of our
 own nightmare, he can scarcely be looked upon as benignant. The Russian
 word for such an incubus is *Kikimora* or *Shiskimora* (the French
 *Cauche-mare*). The first half of the word, says Afanasief <span
-id="fr_115"></span>[4](#fn_115), is probably the same as the provincial
+id="fr_115"></span>[4](#fn_115.md), is probably the same as the provincial
 expression *shish* = Domovoy, demon, etc. The second half means the same
 as the German *mar* or our *mare* in nightmare. In Servia, Montenegro,
 Bohemia, and Poland the word answering to *mora*, means the demoniacal
@@ -904,7 +904,7 @@ ancestors. The whole ceremony is one of the most striking relies of that
 heathendom which once prevailed over the entire face of the land, and
 which still crops up in many of its remoter districts, sometimes half
 concealed by a Christian garb, sometimes exposing itself in downright
-pagan nakedness <span id="fr_116"></span>[5](#fn_116).
+pagan nakedness <span id="fr_116"></span>[5](#fn_116.md).
 
 Next in importance to the Domovoy, but far superior to him in poetic
 interest, is the Rusalka. The Rusalkas are female water-spirits, who
@@ -929,7 +929,7 @@ or they cling to a mill-wheel; and turn round with it amid the splash of
 the stream. If any one happens to approach, they fling themselves into
 the waters, and there divert themselves, and try to allure him to join
 them. Whomsoever they get hold of they tickle to death <span
-id="fr_117"></span>[6](#fn_117). Witches alone can bathe with them
+id="fr_117"></span>[6](#fn_117.md). Witches alone can bathe with them
 unhurt.
 
 In certain districts bordering on the sea the people believe, or used to
@@ -1074,7 +1074,7 @@ Do not cause it to be choked,
 And we will make obeisance to thee.
 
 On the people who forget to do this the Rusalkas will wreak their
-vengeance <span id="fr_118"></span>[7](#fn_118). In the Saratof
+vengeance <span id="fr_118"></span>[7](#fn_118.md). In the Saratof
 Government the Rusalkas are held in bad repute. There
 
 <span id="page_146">p. 146</span>
@@ -1126,7 +1126,7 @@ swaddling-clothes, and nourished her with a mother's milk. But me, the
 Vila from the hill--me the hill itself bare, swaddled me in green
 leaves. The morning dew fell--nourished me the Vila; the breeze blew
 from the hill--rocked me the Vila <span
-id="fr_119"></span>[8](#fn_119)."
+id="fr_119"></span>[8](#fn_119.md)."
 
 Another spiritual being of the same class is the *Poludnitsa*. Among the
 Lusatians, under the name of *Prezpolnica* or *Pripolnica*, she appears
@@ -1140,12 +1140,12 @@ spinning of flax, cutting off the head or dividing the neck of an
 
 unsatisfactory answerer. She seems to be akin to the *dæmon Meridianus*,
 "the sickness that destroyeth in the noonday <span
-id="fr_120"></span>[9](#fn_120)." It is worthy of remark that the
+id="fr_120"></span>[9](#fn_120.md)." It is worthy of remark that the
 Russian peasants make use of a verb, *Poludnovat'*, to express the
 action of drawing one's last breath--"His soul in his body scarcely
 *poludnoet*," they say. In the Government of Archangel tradition tells
 of "Twelve Midnight Sisters (*Polunochnitsas*), who attack children, and
-force them to cry out with pain <span id="fr_121"></span>[1](#fn_121)."
+force them to cry out with pain <span id="fr_121"></span>[1](#fn_121.md)."
 
 The traditions of the Russian peasants people the waters with other
 spiritual inhabitants besides the Rusalkas. Their songs and stories
@@ -1223,7 +1223,7 @@ her mutilated
 
 corpse floated on to the sands, while the river roared and was wildly
 agitated. The remorseful water-sprite was lamenting his irrevocable
-loss <span id="fr_122"></span>[2](#fn_122)."
+loss <span id="fr_122"></span>[2](#fn_122.md)."
 
 When a Vodyany appears in a village it is easy to recognize him, for
 water is always dripping from his left skirt, and the spot on which he
@@ -1325,7 +1325,7 @@ Little-Russia, on the other hand, he is supposed to be the protector of
 the wolves.
 
 These wood-demons frequently quarrel among themselves, using as their
-weapons huge trees and [masses](errata.htm#0) of rock. The devastations,
+weapons huge trees and [masses](errata.htm#0.md) of rock. The devastations,
 usually attributed
 
 <span id="page_155">p. 155</span>
@@ -1483,50 +1483,50 @@ him, and drench him from head to foot.
 
 ### Footnotes
 
-<span id="fn_98"></span>[106:5](srp06.htm#fr_98) A popular tale is
+<span id="fn_98"></span>[106:5](srp06.htm#fr_98.md) A popular tale is
 generally called a *skazka* in Russian. But if it relates to religious
 matters it is called a *legenda*.
 
-<span id="fn_99"></span>[108:6](srp06.htm#fr_99) Kotlyarevsky, p. 204.
+<span id="fn_99"></span>[108:6](srp06.htm#fr_99.md) Kotlyarevsky, p. 204.
 
-<span id="fn_100"></span>[108:7](srp06.htm#fr_100) Afanasief, P. V. S.
+<span id="fn_100"></span>[108:7](srp06.htm#fr_100.md) Afanasief, P. V. S.
 III. 282.
 
-<span id="fn_101"></span>[110:8](srp06.htm#fr_101) Afanasief, P. V. S.
+<span id="fn_101"></span>[110:8](srp06.htm#fr_101.md) Afanasief, P. V. S.
 I. 120.
 
-<span id="fn_102"></span>[111:9](srp06.htm#fr_102) Afanasief, P. V. S.
+<span id="fn_102"></span>[111:9](srp06.htm#fr_102.md) Afanasief, P. V. S.
 124-5.
 
-<span id="fn_103"></span>[112:1](srp06.htm#fr_103) For other details
-about this happy land, see *infra*, [p. 375](srp11.htm#page_375).
+<span id="fn_103"></span>[112:1](srp06.htm#fr_103.md) For other details
+about this happy land, see *infra*, [p. 375](srp11.htm#page_375.md).
 
-<span id="fn_104"></span>[113:2](srp06.htm#fr_104) Afanasief, P. V. S.
+<span id="fn_104"></span>[113:2](srp06.htm#fr_104.md) Afanasief, P. V. S.
 III. 195-318. Buslaef,--*Ist. Ocherki*, 492.
 
-<span id="fn_105"></span>[114:3](srp06.htm#fr_105) Kotlyarevsky, 199-202
+<span id="fn_105"></span>[114:3](srp06.htm#fr_105.md) Kotlyarevsky, 199-202
 
-<span id="fn_106"></span>[114:4](srp06.htm#fr_106) Tereshchenko, V. 28.
+<span id="fn_106"></span>[114:4](srp06.htm#fr_106.md) Tereshchenko, V. 28.
 
-<span id="fn_107"></span>[116:5](srp06.htm#fr_107) Kotlyarevsky, 199.
+<span id="fn_107"></span>[116:5](srp06.htm#fr_107.md) Kotlyarevsky, 199.
 
-<span id="fn_108"></span>[120:6](srp06.htm#fr_108) *Goloveshki*
+<span id="fn_108"></span>[120:6](srp06.htm#fr_108.md) *Goloveshki*
 (*golova* = head), the harder parts of logs; those burning more slowly
 than the others.
 
-<span id="fn_109"></span>[120:7](srp06.htm#fr_109) *Roditeli* (*rodit'*,
+<span id="fn_109"></span>[120:7](srp06.htm#fr_109.md) *Roditeli* (*rodit'*,
 *razhdat'* = to beget).
 
-<span id="fn_110"></span>[121:8](srp06.htm#fr_110) Afanasief, P. V. S.
+<span id="fn_110"></span>[121:8](srp06.htm#fr_110.md) Afanasief, P. V. S.
 II. 67.
 
-<span id="fn_111"></span>[123:9](srp06.htm#fr_111) The Russian bath is
+<span id="fn_111"></span>[123:9](srp06.htm#fr_111.md) The Russian bath is
 something like the Turkish, only the heat is moist.
 
-<span id="fn_112"></span>[124:1](srp06.htm#fr_112) *Dyéd'ko*,
+<span id="fn_112"></span>[124:1](srp06.htm#fr_112.md) *Dyéd'ko*,
 grandfather.
 
-<span id="fn_113"></span>[128:2](srp06.htm#fr_113) This story was told
+<span id="fn_113"></span>[128:2](srp06.htm#fr_113.md) This story was told
 some time ago by Popof in his *Dosugi*. He called it "a Slavonian
 fable," but subsequent writers are inclined to look upon it as at least
 founded upon fact. A number of similar legends, current in various
@@ -1538,34 +1538,34 @@ practice and meaning in Africa, Polynesia, and Asia, among races who
 represent in grade, if not in chronology, earlier stages of
 civilization."
 
-<span id="fn_114"></span>[132:3](srp06.htm#fr_114) See Grimm's *Deutsche
+<span id="fn_114"></span>[132:3](srp06.htm#fr_114.md) See Grimm's *Deutsche
 Mythologie*, 569.
 
-<span id="fn_115"></span>[133:4](srp06.htm#fr_115) For the derivation of
+<span id="fn_115"></span>[133:4](srp06.htm#fr_115.md) For the derivation of
 the word, see also Grimm's *Deutsche Mythologie*, pp. 433 and 1194.
 
-<span id="fn_116"></span>[139:5](srp06.htm#fr_116) See Afanasief, P. V.
+<span id="fn_116"></span>[139:5](srp06.htm#fr_116.md) See Afanasief, P. V.
 S. II. 83-86, 109, 110, 115-119.
 
-<span id="fn_117"></span>[140:6](srp06.htm#fr_117) The verb
+<span id="fn_117"></span>[140:6](srp06.htm#fr_117.md) The verb
 *Shchekotat'* originally meant to utter loud, piercing sounds, to laugh
 shrilly, and afterwards acquired the sense of to do what produces shrill
 laughter, to tickle. See Afanasief, P. V. S. II. 339.
 
-<span id="fn_118"></span>[145:7](srp06.htm#fr_118) Afanasief, P. V. S.
+<span id="fn_118"></span>[145:7](srp06.htm#fr_118.md) Afanasief, P. V. S.
 III. 244.
 
-<span id="fn_119"></span>[147:8](srp06.htm#fr_119) Quoted from Vuk
+<span id="fn_119"></span>[147:8](srp06.htm#fr_119.md) Quoted from Vuk
 Karadjich by Buslaef, *Ist. Och.* I. 231.
 
-<span id="fn_120"></span>[148:9](srp06.htm#fr_120) Grimm, D. M. 1114.
+<span id="fn_120"></span>[148:9](srp06.htm#fr_120.md) Grimm, D. M. 1114.
 
-<span id="fn_121"></span>[148:1](srp06.htm#fr_121) Afanasief, P. V. S.
+<span id="fn_121"></span>[148:1](srp06.htm#fr_121.md) Afanasief, P. V. S.
 III. 77. Buslaef, I. O. 233.
 
-<span id="fn_122"></span>[151:2](srp06.htm#fr_122) Afanasief, P. V. S.
+<span id="fn_122"></span>[151:2](srp06.htm#fr_122.md) Afanasief, P. V. S.
 II. 239.
 
 ------------------------------------------------------------------------
 
-[Next: Section III.--Storyland Beings](srp07)
+[Next: Section III.--Storyland Beings](srp07.md)

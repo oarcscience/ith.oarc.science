@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf12)  [Next](fmf14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf12)  [Next](fmf14.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ MORAL: For Parlor Use the Vague Generality is a Life-Saver.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Two Wives Who Talked about Their
-Husbands](fmf14)
+Husbands](fmf14.md)

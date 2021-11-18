@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc03)  [Next](psc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc03)  [Next](psc05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 ###### OF
 
-### VOLUME V.--TRACT PESACHIM. <span id="fr_0"></span>[1](#fn_0)
+### VOLUME V.--TRACT PESACHIM. <span id="fr_0"></span>[1](#fn_0.md)
 
 ### CHAPTER I.
 
@@ -29,7 +29,7 @@ searched for. If a man leave his house and intend to return on the Pass
 over. Two things are without the province of man. If musty bread was
 found in a chest. By what light search for leavened bread must be made.
 Whether wine-cellars have to be searched,
-[1](psc05.htm#page_1)-[14](psc05.htm#page_14)
+[1](psc05.htm#page_1)-[14](psc05.htm#page_14.md)
 
 MISHNAS II., III., IV., V. If a man leaves ten pieces of bread and finds
 nine, or nine heaps of Matzoth, and one heap of Chometz, and finds ten.
@@ -38,7 +38,7 @@ removed on the fourteenth of Nissan. If a Gentile came into the court of
 an Israelite on Passover. Of the Gentile who stored a basketful of
 Chometz with Johanan Hakuka. The two thanksgiving-offering cakes laid on
 the benches. What R. Hanina the Sagan of the priests said. If there were
-doubtful beverages, [14](psc05.htm#page_14)-[29](psc05.htm#page_29)
+doubtful beverages, [14](psc05.htm#page_14)-[29](psc05.htm#page_29.md)
 
 ### CHAPTER II.
 
@@ -50,7 +50,7 @@ used. By means of what a man is permitted to cure himself when in
 danger. A man must rather permit himself to be slain than to slay
 another. According to whom the Halakha prevails when Rabbi differs with
 an individual or tile Majority,
-[30](psc06.htm#page_30)-[41](psc06.htm#page_41)
+[30](psc06.htm#page_30)-[41](psc06.htm#page_41.md)
 
 <span id="page_viii">p. viii</span>
 
@@ -65,7 +65,7 @@ value on Passover. With which articles a person acquits himself of the
 duty of eating unleavened bread on Passover. Whether one can acquit
 himself of the duty with bread kneaded with wine, oil, or honey. What is
 meant by bread of affliction. Why it is not allowed to prepare figured
-cakes on Passover, [41](psc06.htm#page_41)-[59](psc06.htm#page_59)
+cakes on Passover, [41](psc06.htm#page_41)-[59](psc06.htm#page_59.md)
 
 MISHNAS VII. to IX. The duty of eating bitter herbs on the Passover.
 Whether lettuce is to be preferred to other bitter herbs. About soaking
@@ -73,7 +73,7 @@ bran on Passover to feed fowls. Where the mother of Mar b. Rabhina
 bought her wheat for her son. Whether it is lawful to put flour into
 sauce or mustard. Whether it is lawful to cook the paschal lamb after it
 has been roasted. With which kind of water may a woman knead the dough,
-[59](psc06.htm#page_59)-[67](psc06.htm#page_67)
+[59](psc06.htm#page_59)-[67](psc06.htm#page_67.md)
 
 ### CHAPTER III.
 
@@ -83,7 +83,7 @@ held to be equal to men in regard to prohibitory laws. About dough in
 the holes or crevices of a kneading-trough. About dull dough. How the
 first of the dough due to the priest can be separated on the Passover.
 About the three women who may knead dough for Passover,
-[68](psc07.htm#page_68)-[77](psc07.htm#page_77)
+[68](psc07.htm#page_68)-[77](psc07.htm#page_77.md)
 
 MISHNAS VI., VII., VIII. About dough which commences to become leavened.
 If the fourteenth of Nissan fall on the Sabbath, what must be done. When
@@ -94,7 +94,7 @@ possessions. What R. Aqiba said about a scholar when he was ignorant.
 What sentiment a man who occupies himself with study of the law evokes
 in the heart of a common person. Why it is written that the Lord will be
 one and His name will be one on that day, and not at present,
-[77](psc07.htm#page_77)-[83](psc07.htm#page_83)
+[77](psc07.htm#page_77)-[83](psc07.htm#page_83.md)
 
 ### CHAPTER IV.
 
@@ -117,7 +117,7 @@ approval. Four shouts
 
 sent up in the court of the Temple. What happened to Issachar, the man
 of the village of Barkai,
-[84](psc08.htm#page_84)-[105](psc08.htm#page_105)
+[84](psc08.htm#page_84)-[105](psc08.htm#page_105.md)
 
 ### CHAPTER V.
 
@@ -129,7 +129,7 @@ of ancestry. Since the book of ancestry was concealed, the power of our
 sages was on the wane, etc. If a man offers the Passover-sacrifice while
 still having leaven in his possession. For how many divisions the
 paschal lamb was offered, etc.,
-[106](psc09.htm#page_106)-[124](psc09.htm#page_124)
+[106](psc09.htm#page_106)-[124](psc09.htm#page_124.md)
 
 ### CHAPTER VI.
 
@@ -139,13 +139,13 @@ happened subsequently. What befalls him who is arrogant, and him who
 becomes angry. In the future the righteous would have the power to
 arouse the dead. How pleasing the fulfilment of a religious duty at its
 proper time was to our ancestors,
-[125](psc10.htm#page_125)-[133](psc10.htm#page_133)
+[125](psc10.htm#page_125)-[133](psc10.htm#page_133.md)
 
 MISHNAS II., III. Under what circumstances it is allowed to bring a
 festal offering in addition to the paschal sacrifice. What is meant by
 Abhin Thekla? (See note.) If a person brought a paschal sacrifice on the
 Sabbath not for its proper purpose. What R. Hyya of Abel Arab declared,
-[133](psc10.htm#page_133)-[142](psc10.htm#page_142)
+[133](psc10.htm#page_133)-[142](psc10.htm#page_142.md)
 
 ### CHAPTER VII.
 
@@ -157,14 +157,14 @@ state of ritual uncleanness. If the flesh of the paschal sacrifice has
 become ritually defiled. If the whole or the greater part of the
 congregation had become defiled. If one half of the congregation be
 clean, and the other half unclean,
-[143](psc11.htm#page_143)-[172](psc11.htm#page_172)
+[143](psc11.htm#page_143)-[172](psc11.htm#page_172.md)
 
 MISHNAS VI., VII., VIII., IX., X. For what defilements the golden plate
 of the high-priest atones. When, and with which wood, must the Iamb be
 burned, if defiled. If a slaughtered Passover-sacrifice had been carried
 beyond the walls of Jerusalem. When the bones, sinews, etc., must be
 burned. Which part of the paschal kid or lamb may be eaten,
-[156](psc11.htm#page_156)-[165](psc11.htm#page_165)
+[156](psc11.htm#page_156)-[165](psc11.htm#page_165.md)
 
 MISHNAS XI., XII., XIII. What penalty is due for breaking any bones of
 the clean paschal lamb. If a part of a member of the paschal sacrifice
@@ -172,7 +172,7 @@ protrude beyond the Temple, etc. If two companies eat their paschal
 sacrifice in one room, and if there is among them a bride, what they and
 she must do. What was said and done when R. Ishmael b. R. Jose happened
 to be a guest of R. Simeon b. R. Jose b. Lakunia,
-[165](psc11.htm#page_165)-[172](psc11.htm#page_172)
+[165](psc11.htm#page_165)-[172](psc11.htm#page_172.md)
 
 ### CHAPTER VIII.
 
@@ -193,7 +193,7 @@ sacrifice. If a man say to his sons, I slaughter the paschal sacrifice
 for whichever one of you shall arrive first in Jerusalem. The size of an
 olive of the paschal lamb suffices for those who partake of it. If a
 person had appointed others to partake with him of his share,
-[173](psc12.htm#page_173)-[185](psc12.htm#page_185)
+[173](psc12.htm#page_173)-[185](psc12.htm#page_185.md)
 
 MISHNAS VI., VII., VIII., IX. Whether one whose seventh day of
 sprinkling fall on the eve of Passover may partake of the paschal lamb.
@@ -202,7 +202,7 @@ has the assurance of a release. Whether the paschal sacrifice must be
 slaughtered for a single individual. Whether a mourner for a near
 relative, not yet interred, may eat of the paschal sacrifice. When a
 Gentile proselyte may partake of it,
-[185](psc12.htm#page_185)-[190](psc12.htm#page_190)
+[185](psc12.htm#page_185)-[190](psc12.htm#page_190.md)
 
 ### CHAPTER IX.
 
@@ -212,7 +212,7 @@ What must be considered a distant journey? How much the entire world
 measures, What the disciples of Elijah taught. The difference between
 the sages of Israel and of the Gentiles. The difference between the
 first and second Passover. Concerning the Hallel at the slaughtering of
-sacrifices, [191](psc13.htm#page_191)-[201](psc13.htm#page_201)
+sacrifices, [191](psc13.htm#page_191)-[201](psc13.htm#page_201.md)
 
 MISHNAS IV., V., VI., VII., VIII., IX. When the paschal sacrifice was
 brought in a state of defilement. Was it prohibited at the Egyptian
@@ -221,7 +221,7 @@ his teachers and could not explain, R. Aqiba explained. When the animal
 must be left to graze. If a paschal sacrifice had become mixed with
 other animals. If a company has lost their paschal sacrifice. When a
 paschal offering of two individuals has become mixed,
-[201](psc13.htm#page_201)-[209](psc13.htm#page_209)
+[201](psc13.htm#page_201)-[209](psc13.htm#page_209.md)
 
 ### CHAPTER X.
 
@@ -259,7 +259,7 @@ kinds of men who do not live a life worth living. The three species who
 hate others of their own kind. The three kinds of beings who love others
 of their kind. Five things which Canaan commanded his children. Six
 things said of a horse,
-[210](psc14.htm#page_210)-[236](psc14.htm#page_236)
+[210](psc14.htm#page_210)-[236](psc14.htm#page_236.md)
 
 MISHNAS II., III., IV., V. When the first cup is poured out. Herbs and
 vegetables are to be brought. The benediction of the bitter herbs. Why
@@ -273,7 +273,7 @@ of praise the entire Book of Psalms was composed. Who said the Hallel?
 What the Karaites add to these verses, Is Hallelujah the beginning or
 the end of the chapters? What Rabba discovered that the sages of
 Pumbaditha once proclaimed,
-[236](psc14.htm#page_236)-[249](psc14.htm#page_249)
+[236](psc14.htm#page_236)-[249](psc14.htm#page_249.md)
 
 MISHNAS VI., VII., VIII. A third cup of wine is poured out. Why is this
 called the great Hallel? The laboriousness of a man's earning his daily
@@ -286,21 +286,21 @@ sacrifice with a dessert? Is it obligatory to eat Matzoth during all the
 seven days? If any of the company fall asleep during the meal. About the
 blessing of the paschal and festal offerings. R. Simlai at the
 redemption of a first-born son,
-[249](psc14.htm#page_249)-[259](psc14.htm#page_259)
+[249](psc14.htm#page_249)-[259](psc14.htm#page_259.md)
 
 APPENDIX A. Explanatory of the first Mishna. APPENDIX B. Supplementary
-to the second note, [p. 66](psc06.htm#page_66), <span
-id="fr_1"></span>[1](#fn_1)
-[250](psc14.htm#page_250)-[264](psc16.htm#page_264)
+to the second note, [p. 66](psc06.htm#page_66.md), <span
+id="fr_1"></span>[1](#fn_1.md)
+[250](psc14.htm#page_250)-[264](psc16.htm#page_264.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](psc04.htm#fr_0) See introduction to the
+<span id="fn_0"></span>[vii:1](psc04.htm#fr_0.md) See introduction to the
 synopsis in Tract Sabbath, Vol. I., p. ix.
 
-<span id="fn_1"></span>[xi:1](psc04.htm#fr_1) We were told that some
+<span id="fn_1"></span>[xi:1](psc04.htm#fr_1.md) We were told that some
 readers made reference to the synopsis instead of to the text. We have
 therefore, in the synopsis of this tract, omitted all conclusions. We
 will do so, likewise, in the future.
@@ -308,4 +308,4 @@ will do so, likewise, in the future.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Concerning the Removal of Leaven from the
-House](psc05)
+House](psc05.md)

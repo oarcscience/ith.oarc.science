@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst009)  [Next](inst011) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst009)  [Next](inst011.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ throughout eternity.
 
 ------------------------------------------------------------------------
 
-[Next: GENERAL INDEX OF CHAPTERS.](inst011)
+[Next: GENERAL INDEX OF CHAPTERS.](inst011.md)

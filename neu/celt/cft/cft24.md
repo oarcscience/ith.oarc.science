@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cft23)  [Next](cft25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cft23)  [Next](cft25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027A7X88/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Celtic Fairy Tales*, by Joseph Jacobs, \[1892\], at Intangible Textual
 Heritage
 
@@ -82,4 +82,4 @@ place is called Beth Gellert, or the Grave of Gellert.
 
 ------------------------------------------------------------------------
 
-[Next: The Tale of Ivan](cft25)
+[Next: The Tale of Ivan](cft25.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](zep)  [Next](zac) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](zep)  [Next](zac.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ diras la Eternulo Cebaot.
 
 ------------------------------------------------------------------------
 
-[Next: Zechariah](zac)
+[Next: Zechariah](zac.md)

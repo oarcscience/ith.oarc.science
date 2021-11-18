@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Previous](chap03) [Next](chap05)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Previous](chap03) [Next](chap05.md)
 
 ------------------------------------------------------------------------
 
@@ -362,4 +362,4 @@ ways of peace and truth."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Arrest and Trial](chap05)
+[Next: Chapter V. Arrest and Trial](chap05.md)

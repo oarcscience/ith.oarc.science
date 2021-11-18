@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb34)  [Next](wfb36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb34)  [Next](wfb36.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ as he had imagined, he had been missing for over a month.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Reward](wfb36)
+[Next: The Fairy Reward](wfb36.md)

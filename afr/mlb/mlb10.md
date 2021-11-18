@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb09)  [Next](mlb11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb09)  [Next](mlb11.md) 
 
 ------------------------------------------------------------------------
 
@@ -680,4 +680,4 @@ of Huveane.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: The Wakilindi Saga](mlb11)
+[Next: Chapter IX: The Wakilindi Saga](mlb11.md)

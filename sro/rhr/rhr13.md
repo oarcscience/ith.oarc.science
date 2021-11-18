@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr12)  [Next](rhr14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr12)  [Next](rhr14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -319,7 +319,7 @@ and a small gilded pinnace sent forth to meet us, wherein was a very
 antient man, the Warder of the Tower, with certain<span
 class="margnote">Custos</span> guards in white, by whom we were friendly
 received, and conducted to the Tower, which was situated upon an island
-exactly square, <span id="fr_52"></span>[1](#fn_52) and invironed with a
+exactly square, <span id="fr_52"></span>[1](#fn_52.md) and invironed with a
 wall so firm and<span class="rmargnote">Structura</span> thick that I
 counted two hundred and sixty paces over. <span
 class="margnote">Dies.</span> On the other side was a fine meadow with
@@ -375,9 +375,9 @@ day too was concluded with wonders.
 
 ### Footnotes
 
-<span id="fn_52"></span>[169:1](rhr13.htm#fr_52) See [additional note,
-No. 4](rhr33.htm#an_n04).
+<span id="fn_52"></span>[169:1](rhr13.htm#fr_52.md) See [additional note,
+No. 4](rhr33.htm#an_n04.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Sixth Day](rhr14)
+[Next: The Sixth Day](rhr14.md)

@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK XIV CHAPTER I
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK XIV](book13) 
-[Previous](mart373)  [Next](mart375) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK XIV](book13.md) 
+[Previous](mart373)  [Next](mart375.md) </span>
 
 ------------------------------------------------------------------------
 

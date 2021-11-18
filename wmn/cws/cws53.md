@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws52)  [Next](cws54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws52)  [Next](cws54.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XLIX
 
-#### CONCERNING DYING <span id="fr_187"></span>[1](#fn_187)
+#### CONCERNING DYING <span id="fr_187"></span>[1](#fn_187.md)
 
 WHEN a man or an animal dies a violent death, it is not an immediate
 separation that takes place between body and soul. There are many
@@ -28,7 +28,7 @@ she too becomes subjective. It has been said, "All things are by
 infinite gradation, and Psyche is reached by innumerable degrees; so
 that they who have not penetrated to the inner, stop short at the
 secondary consciousness, and imagine that to be the subjective." Psyche,
-so long as existence <span id="fr_188"></span>[2](#fn_188) lasts, is a
+so long as existence <span id="fr_188"></span>[2](#fn_188.md) lasts, is a
 mirror to the spirit, she reflects, and is therefore molecular. But she
 is gradually in process of *at-one-ment*; she and the spirit mutually
 attract and permeate each other. She will, then, finally become
@@ -86,12 +86,12 @@ of the physical frame would suffice to destroy its integrity.
 
 ### Footnotes
 
-<span id="fn_187"></span>[123:1](cws53.htm#fr_187) Home, August 23,
+<span id="fn_187"></span>[123:1](cws53.htm#fr_187.md) Home, August 23,
 1883. Referred to in *Life of Anna Kingsford*, Vol. ii, p. 136.
 
-<span id="fn_188"></span>[123:2](cws53.htm#fr_188) The state of
+<span id="fn_188"></span>[123:2](cws53.htm#fr_188.md) The state of
 manifested as distinguished from unmanifested being.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. L: Concerning The One Life: Being A Recapitulation](cws54)
+[Next: No. L: Concerning The One Life: Being A Recapitulation](cws54.md)

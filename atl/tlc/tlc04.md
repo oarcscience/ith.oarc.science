@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc03)  [Next](tlc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc03)  [Next](tlc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -493,4 +493,4 @@ advocates, to win me back your old esteem."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Back To Atlantis](tlc05)
+[Next: Chapter II. Back To Atlantis](tlc05.md)

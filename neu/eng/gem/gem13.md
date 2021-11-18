@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](gem12)  [Next](gem14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](gem12)  [Next](gem14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Histories of the Kings of Britain, by Geoffry of Monmouth*, tr. by
 Sebastian Evans, \[1904\], at Intangible Textual Heritage
 
@@ -294,7 +294,7 @@ death was driven forth by the invasion of the Saxons, did come hither
 into this province, and gave his daughter unto Duke Hoel, the son of
 Hoel the Great, who conquered so many kingdoms with Arthur. Unto him was
 born Alan, the father of thine own father Hoel, who, so long as he
-lived, was no small terror unto the Gauls.['](errata.htm#4)
+lived, was no small terror unto the Gauls.['](errata.htm#4.md)
 
 <span id="page_312">p. 312</span>
 
@@ -713,4 +713,4 @@ on this wise been at the pains of translating into the Latin speech.
 
 ------------------------------------------------------------------------
 
-[Next: The Translator's Epilogue](gem14)
+[Next: The Translator's Epilogue](gem14.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi177)  [Next](mtsi179) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi177)  [Next](mtsi179.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ went back into the water and stayed there and was never seen again.
 
 ------------------------------------------------------------------------
 
-[Next: 43. The Eagle's Nest](mtsi179)
+[Next: 43. The Eagle's Nest](mtsi179.md)

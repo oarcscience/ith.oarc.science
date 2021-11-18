@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how07)  [Next](how09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how07)  [Next](how09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ the same time; For example, the apsides of Saturn and Jupiter are about
 <span id="page_1041">p. 1041</span>
 
 while this distance between them measures out the whole zodiac by
-definite twenty-year leaps <span id="fr_10"></span>[1](#fn_10), eight
+definite twenty-year leaps <span id="fr_10"></span>[1](#fn_10.md), eight
 hundred years pass by, and nonetheless the leap which concludes the
 eighth century, does not carry precisely to the very apsides; and if it
 digresses much further, another eight hundred years must be awaited,
@@ -114,7 +114,7 @@ Harmonies of all the Planets, or Universal Harmonies in the Major Mode
 <span id="img_104200"></span>
 
 [![](tn/104200.jpg)  
-Click to enlarge](img/104200.jpg)
+Click to enlarge](img/104200.jpg.md)
 
 <span id="page_1043">p. 1043</span>
 
@@ -142,7 +142,7 @@ movements:
 <span id="img_104300"></span>
 
 [![](tn/104300.jpg)  
-Click to enlarge](img/104300.jpg)
+Click to enlarge](img/104300.jpg.md)
 
 Here again, in the mean tuning Saturn joins in with its perihelial
 movement, Jupiter with its aphelial, Mercury with its perihelial. But at
@@ -154,9 +154,9 @@ in.
 <span id="img_104400"></span>
 
 [![](tn/104400.jpg)  
-Click to enlarge](img/104400.jpg)
+Click to enlarge](img/104400.jpg.md)
 
-[And](errata.htm#5) here, with the aphelial movement of Jupiter and the
+[And](errata.htm#5.md) here, with the aphelial movement of Jupiter and the
 perihelial movement of Saturn removed, the aphelial movement of Mercury
 is practically admitted besides the perihelial. The rest remain.
 
@@ -205,7 +205,7 @@ the aphelial movement of Mars by about half a diesis.
 <span id="img_104500"></span>
 
 [![](tn/104500.jpg)  
-Click to enlarge](img/104500.jpg)
+Click to enlarge](img/104500.jpg.md)
 
 Here at the most grave tuning, Saturn and the Earth join in with their
 aphelial movements; at the mean tuning, Saturn with its perihelial and
@@ -217,7 +217,7 @@ perihelial.
 <span id="img_104600"></span>
 
 [![](tn/104600.jpg)  
-Click to enlarge](img/104600.jpg)
+Click to enlarge](img/104600.jpg.md)
 
 Here the aphelial movement of Jupiter is not allowed, but at the most
 acute tuning Saturn practically joins in with its perihelial movement.
@@ -231,12 +231,12 @@ Mars is present, but it is without latitude of tuning.
 <span id="img_104700"></span>
 
 [![](tn/104700.jpg)  
-Click to enlarge](img/104700.jpg)
+Click to enlarge](img/104700.jpg.md)
 
 <span id="img_104701"></span>
 
 [![](tn/104701.jpg)  
-Click to enlarge](img/104701.jpg)
+Click to enlarge](img/104701.jpg.md)
 
 <span id="page_1048">p. 1048</span>
 
@@ -269,7 +269,7 @@ expressiveness. For the same reason a voice may remain on the same note
 while the other voices change to a new chord. When this becomes a
 dissonance (called a syncopation) in the new chord it usually resolves
 by moving one step downward to a tone that is consonant with the other
-voices. As in this example each section or "[clause](errata.htm#6)" ends
+voices. As in this example each section or "[clause](errata.htm#6.md)" ends
 with a cadence.
 
 E. C., JR.
@@ -278,7 +278,7 @@ E. C., JR.
 
 ### Footnotes
 
-<span id="fn_10"></span>[1041:1](how08.htm#fr_10) That is to say, since
+<span id="fn_10"></span>[1041:1](how08.htm#fr_10.md) That is to say, since
 Saturn and Jupiter have one revolution with respect to one another every
 twenty years, they are 81° apart once every twenty years, while the
 end-positions of this 81° interval traverse the ecliptic in leaps, so to
@@ -288,4 +288,4 @@ years. C. G. W.
 ------------------------------------------------------------------------
 
 [Next: 8. In the Celestial Harmonies Which Planet Sings Soprano, Which
-Alto, Which Tenor, and Which Bass?](how09)
+Alto, Which Tenor, and Which Bass?](how09.md)

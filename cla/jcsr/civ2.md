@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](civ1)  [Next](civ3) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](civ1)  [Next](civ3.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140444335/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140444335/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -205,4 +205,4 @@ CLXXX
 
 ------------------------------------------------------------------------
 
-[Next: Civil Wars Book 3 (48-47 B.C.E.)](civ3)
+[Next: Civil Wars Book 3 (48-47 B.C.E.)](civ3.md)

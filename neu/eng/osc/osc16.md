@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc15)  [Next](osc17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc15)  [Next](osc17.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ genius of the people.
 
 ------------------------------------------------------------------------
 
-[Next: (14) Baal fire--St. John's Eve](osc17)
+[Next: (14) Baal fire--St. John's Eve](osc17.md)

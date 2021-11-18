@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](eom10)  [Next](eom12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](eom10)  [Next](eom12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ man.
 
 ------------------------------------------------------------------------
 
-[Next: Chap. 10: Spiritual Growth](eom12)
+[Next: Chap. 10: Spiritual Growth](eom12.md)

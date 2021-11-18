@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cov05)  [Next](cov07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cov05)  [Next](cov07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q2IE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q2IE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Candle of Vision*, by AE (George William Russell), \[1918\], at
 Intangible Textual Heritage
 
@@ -174,4 +174,4 @@ that which is bodiless.
 
 ------------------------------------------------------------------------
 
-[Next: The Many-Coloured Land](cov07)
+[Next: The Many-Coloured Land](cov07.md)

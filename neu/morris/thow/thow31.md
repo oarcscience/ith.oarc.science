@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](thow30)  [Next](thow32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](thow30)  [Next](thow32.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Wolfings*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -282,6 +282,6 @@ up with them of the wain-burg just as they had crossed the water.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXI—Old Asmund Speaketh Over the War-Dukes: the Dead are
-Laid in Mound](thow32)
+Laid in Mound](thow32.md)
 
 </div>

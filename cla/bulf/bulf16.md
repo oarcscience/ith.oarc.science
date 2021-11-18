@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf15) [Next](bulf17) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf15) [Next](bulf17.md) 
 
 # CHAPTER XVII.
 
@@ -312,4 +312,4 @@ city. It begins thus:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XVIII. Meleager And Atalanta.](bulf17)
+Next: [CHAPTER XVIII. Meleager And Atalanta.](bulf17.md)

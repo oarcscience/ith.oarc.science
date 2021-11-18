@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](sum10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](sum10.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ In recent years, moreover I have drawn in several younger scholars to
 prepare definitive editions of a number of Sumerian literary works with
 my guidance and help. Thus Father Bergmann of the Pontifical Biblical
 Institute at Rome has prepared for publication "The Deeds and Exploits
-of Ninurta" (see pp. [79](sum08.htm#page_79)-83 of *Sumerian
+of Ninurta" (see pp. [79](sum08.htm#page_79.md)-83 of *Sumerian
 Mythology*); "The Return of Ninurta to Nippur"; and the large and
 important "Collection of Temple Hymns." G. Castellino, of the University
 of Rome, has prepared for publication two hymns of King Shulgi, and a
@@ -104,14 +104,14 @@ the Wisdom of Sumer and Akkad" to appear in the coming issue of
 discussed there are now six more "catalogues" available; see
 "Götter-Hymnen und Kult Gesänge der Sumerer auf zwei
 Keilschrift-'Katalogen' in der Hilprecht Sammlung" (*Wissenschaftliche
-[Zeitschrift](errata.htm#13) der Friedrich-Schiller Universität Jena*,
+[Zeitschrift](errata.htm#13.md) der Friedrich-Schiller Universität Jena*,
 1956/7, pages 389-395) and the *Introduction to Nos. 53-55* of the
 forthcoming volume of Sumerian literary texts from the "Hilprecht
 Sammlung" (see note b above).
 
 <span id="xref_h">h</span>. The dates for the Third Dynasty of Ur and
-the classical Sumerian period [should](errata.htm#14) be lowered by
-about a century; see also note  [a](sum11.htm#xref_a) above.
+the classical Sumerian period [should](errata.htm#14.md) be lowered by
+about a century; see also note  [a](sum11.htm#xref_a.md) above.
 
 <span id="xref_i">i</span>. For the probable influence of Sumerian
 literature on the Bible, see my "Sumerian Literature and the Bible" in
@@ -131,10 +131,10 @@ volume of *Iraq*, dedicated to Leonard Woolley.
 <span id="xref_l">l</span>. The first seven lines of the poem which were
 omitted altogether in *Sumerian Mythology* because of their fragmentary
 condition will now be found transliterated and translated in the article
-mentioned in note  [j](sum11.htm#xref_j).
+mentioned in note  [j](sum11.htm#xref_j.md).
 
 <span id="xref_m">m</span>. From the Pushkin Museum tablet inscribed
-with two elegies (see note  [c](sum11.htm#xref_c) above), we learn for
+with two elegies (see note  [c](sum11.htm#xref_c) above.md), we learn for
 the first time that the Sumerian thinkers held to the view that the sun
 after setting, continues its journey through the Nether World at night,
 turning night into day, as it were; and that the moon, too, spends its
@@ -162,7 +162,7 @@ the Old Testament* (James Pritchard, Editor) pages 37-40.
 
 <span id="xref_q">q</span>. A definitive edition of this myth will
 appear in a forthcoming number of the *Wissenschaftliche Zeitschrift der
-Friedrich-Schiller Universität Jena* (see note  [c](sum11.htm#xref_c)
+Friedrich-Schiller Universität Jena* (see note  [c](sum11.htm#xref_c.md)
 above).
 
 <span id="xref_r">r</span>. For a translation of this "hymnal" myth, see
@@ -171,7 +171,7 @@ pp. 133-137.
 
 <span id="xref_s">s</span>. Pages 68-75. For another version of the
 creation of man, suggested by Thorkild Jacobsen, see note
- [o](sum11.htm#xref_o) above.
+ [o](sum11.htm#xref_o.md) above.
 
 <span id="xref_t">t</span>. For a modified version of this myth see now
 *History Begins at Sumer*, pages 172-174.
@@ -180,8 +180,8 @@ creation of man, suggested by Thorkild Jacobsen, see note
 to the Nether World" see now *Journal of Cuneiform Studies*, vol. V, pp.
 1-17; for a number of newly identified pieces see my "Death and the
 Nether World According to the Sumerian Literary Texts" in the
-forthcoming Woolley [Festschrift](errata.htm#15) (see note
- [k](sum11.htm#xref_k)).
+forthcoming Woolley [Festschrift](errata.htm#15.md) (see note
+ [k](sum11.htm#xref_k).md).
 
 <span id="xref_v">v</span>. The "Flood" tablet published by Poebel still
 remains unduplicated.

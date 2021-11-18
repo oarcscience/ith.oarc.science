@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg62)  [Next](btg64) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg62)  [Next](btg64.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ come to understand it, if it is illustrated in parables.
 
 ------------------------------------------------------------------------
 
-[Next: The Widow's Mite, And The Three Merchants](btg64)
+[Next: The Widow's Mite, And The Three Merchants](btg64.md)

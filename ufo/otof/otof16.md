@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof15)  [Next](otof17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof15)  [Next](otof17.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ the three in line in Orion's sword which appears a little too large and
 hazy to be simply a star--it is a nebula.
 
 To understand the nature of the Orion nebula, the following general
-[information](errata.htm#48) is given:
+[information](errata.htm#48.md) is given:
 
 Nebulae, as distinguished from ordinary star clusters, fall into two
 classes having entirely different characteristics, namely, the galactic
@@ -335,7 +335,7 @@ wreckage is never found. Commercial and military planes crash and no
 bodies are discovered. What happens to the missing occupants?
 
 On November 18, 1953, the Los Angeles Mirror reported that two missing
-electricians may have been [kidnapped](errata.htm#49) by interplanetary
+electricians may have been [kidnapped](errata.htm#49.md) by interplanetary
 invaders in a Flying Saucer. The two Saucer enthusiasts were Karl
 Hunrath and Wilbur J. Wilkinson. They had taken off in a rented airplane
 from Gardena Airport on November 11th with a three-hour gas supply.
@@ -739,4 +739,4 @@ Intruders!* 
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7. The Guessers](otof17)
+[Next: Chapter 7. The Guessers](otof17.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng34)  [Next](nblng36) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng34)  [Next](nblng36.md) 
 
 ------------------------------------------------------------------------
 
@@ -229,4 +229,4 @@ Grimm, "Mythologie", p. 48.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXXIV: How They Cast Out The Dead.](nblng36)
+[Next: Adventure XXXIV: How They Cast Out The Dead.](nblng36.md)

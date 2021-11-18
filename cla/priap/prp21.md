@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp20)  [Next](prp22) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp20)  [Next](prp22.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ not from the orchard of the giver, but purchased in the public market.\]
 
 ------------------------------------------------------------------------
 
-[Next: 22. Whoso of violets here shall pluck or rose,](prp22)
+[Next: 22. Whoso of violets here shall pluck or rose,](prp22.md)

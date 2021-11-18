@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn46)  [Next](rmn48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn46)  [Next](rmn48.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ the help of cords crossing and recrossing each other.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XLVII: Spinthria](rmn48)
+[Next: Plate XLVII: Spinthria](rmn48.md)

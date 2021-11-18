@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm31)  [Next](pnm33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm31)  [Next](pnm33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -113,14 +113,14 @@ was consecrated to Apis in Memphis,<span id="img_09800"></span>
 
 |                                         |
 |-----------------------------------------|
-| ![CALAMUS (SWEET-FLAG).](img/09800.jpg) |
+| ![CALAMUS (SWEET-FLAG).](img/09800.jpg.md) |
 
 and in Herminthus a bull by the name of Pathis. The wolf, also, was
 consecrated to Apollo and Latona. Also the beast called baboon is
 Solary, which twelve times in a day (viz., every hour) barks and in time
 of Æquinoctium micturateth twelve times every hour; the same also it
 doth in the night, whence the Egyptians did engrave him upon their
-fountains. <span id="fr_20"></span>[\*](#fn_20)
+fountains. <span id="fr_20"></span>[\*](#fn_20.md)
 
 Also, amongst birds, these are Solary: The phœnix, being but one of that
 kind; and the eagle, the queen of birds; also the vulture, the swan, and
@@ -139,34 +139,34 @@ of the Sun are accounted Solary; and things which come of them.
 And amongst fish, the sea-calf is chiefly Solary, who doth resist
 lightning; also shell-fish and the fish called Pulmo, both of which
 shine in the night; and the fish called stella, <span
-id="fr_21"></span>[\*](#fn_21) for his parching heat; and the fish
-called strombi <span id="fr_22"></span>[†](#fn_22) that follow their
-king; and margari, <span id="fr_23"></span>[‡](#fn_23) which also have a
+id="fr_21"></span>[\*](#fn_21.md) for his parching heat; and the fish
+called strombi <span id="fr_22"></span>[†](#fn_22.md) that follow their
+king; and margari, <span id="fr_23"></span>[‡](#fn_23.md) which also have a
 king, and, being dried, are hardened into a stone of a golden color.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_20"></span>[98:\*](pnm32.htm#fr_20) Mr. Morley notes here
+<span id="fn_20"></span>[98:\*](pnm32.htm#fr_20.md) Mr. Morley notes here
 in reference to the baboon that "Hermes Trismegistus, or a writer in his
 name, taught that the common division of time was suggested to man by
 the habits of this sacred animal." Life of Henry Cornelius Agrippa,
 Volume I, page 132.
 
-<span id="fn_21"></span>[99:\*](pnm32.htm#fr_21) Stella—a
+<span id="fn_21"></span>[99:\*](pnm32.htm#fr_21.md) Stella—a
 star—star-fish; the Asterias or sea-star. One peculiarity of this
 radiate animal is that so long as it has any one of its usual five
 points remaining, it will restore any others that may have been
 destroyed.
 
-<span id="fn_22"></span>[99:†](pnm32.htm#fr_22) Strombi—Strombite. A
-[mollusk](errata.htm#1), of the genus Strombus, possessing a spiral
+<span id="fn_22"></span>[99:†](pnm32.htm#fr_22.md) Strombi—Strombite. A
+[mollusk](errata.htm#1.md), of the genus Strombus, possessing a spiral
 shell with a broad, wing-like lip. Ordinarily known as sea-snail.
 
-<span id="fn_23"></span>[99:‡](pnm32.htm#fr_23)
+<span id="fn_23"></span>[99:‡](pnm32.htm#fr_23.md)
 Margari—Margarite—Margaritaceæ. Pearl-fish; the pearl oyster.
 
 ------------------------------------------------------------------------
 
-[Next: What Things Are Lunary, or Under the Power of the Moon](pnm33)
+[Next: What Things Are Lunary, or Under the Power of the Moon](pnm33.md)

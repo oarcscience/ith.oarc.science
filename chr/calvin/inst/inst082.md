@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst081)  [Next](inst083) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst081)  [Next](inst083.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ sacraments should weigh with us, and how far reverence for it should
 extend, so as to be a perpetual badge for distinguishing the Church, has
 been explained; for we have shown, first, that wherever it exists entire
 and unimpaired, no errors of conduct, no defects should prevent us from
-giving the name of Church ;52  <span id="fr_529"></span>[530](#fn_529)
+giving the name of Church ;52  <span id="fr_529"></span>[530](#fn_529.md)
 and, secondly, that trivial errors in this ministry ought not to make us
 regard it as illegitimate. Moreover, we have shown that the errors to
 which such pardon is due, are those by which the fundamental doctrine of
@@ -90,7 +90,7 @@ religion is not injured, and by which those articles of religion, in
 which all believers should agree, are not suppressed, while, in regard
 to the sacraments, the defects are such as neither destroy nor impair
 the legitimate institution of their Author.  <span
-id="fr_530"></span>[531](#fn_530) But as soon as falsehood has forced
+id="fr_530"></span>[531](#fn_530.md) But as soon as falsehood has forced
 its way into the citadel of religion, as soon as the sum of necessary
 doctrine is inverted, and the use of the sacraments is destroyed, the
 death of the Church undoubtedly ensues, just as the life of man is
@@ -99,7 +99,7 @@ This is clearly evinced by the words of Paul when he says, that the
 Church is “built upon the foundation of the apostles and prophets, Jesus
 Christ himself being the chief corner-stone” (<span
 id="iv.iv.iii-p18.1"></span>[Eph.
-2:20](../../../bib/kjv/eph002.htm#020)<span
+2:20](../../../bib/kjv/eph002.htm#020.md)<span
 id="iv.iv.iii-p18.1"></span>). If the Church is founded on the doctrine
 of the apostles and prophets, by which believers are enjoined to place
 their salvation in Christ alone, then if that doctrine is destroyed, how
@@ -107,13 +107,13 @@ can the Church continue to stand? The Church must necessarily fall
 whenever that sum of religion which alone can sustain it has given way.
 Again, if the true Church is “the pillar and ground of the truth” (<span
 id="iv.iv.iii-p18.2"></span>[1 Tim.
-3:15](../../../bib/kjv/ti1003.htm#015)<span
+3:15](../../../bib/kjv/ti1003.htm#015.md)<span
 id="iv.iv.iii-p18.2"></span>), it is certain that there is no Church
 where lying and falsehood have usurped the ascendancy.
 
 <span id="iv.iv.iii-p19"></span>2. Since this is the state of matters
 under the Papacy, we can understand how much of the Church there
-survives.52  <span id="fr_531"></span>[532](#fn_531) There, instead of
+survives.52  <span id="fr_531"></span>[532](#fn_531.md) There, instead of
 the ministry of the word, prevails a perverted government, compounded of
 lies, a government which partly extinguishes, partly suppresses, the
 pure light. In place of the Lord’s Supper, the foulest sacrilege has
@@ -126,7 +126,7 @@ Christ. The communion. of the Church was not instituted to be a chain to
 bind us in idolatry, impiety, ignorance of God, and other kinds of evil,
 but rather to retain us in the fear of God and obedience of the truth.
 They, indeed, vaunt loudly of their Church,52  <span
-id="fr_532"></span>[533](#fn_532) as if there was not another in the
+id="fr_532"></span>[533](#fn_532.md) as if there was not another in the
 world; and then, as if the matter were ended, they make out that all are
 schismatics who withdraw from obedience to that Church which they thus
 depict, that all are heretics who presume to whisper against its
@@ -177,12 +177,12 @@ other argument to refute them than that with which Jeremiah opposed the
 foolish confidence of the Jews—namely, “Trust ye not in lying words,
 saying, The temple of the Lord, The temple of the Lord, The temple of
 the Lord are these” (<span id="iv.iv.iii-p22.1"></span>[Jer.
-7:4](../../../bib/kjv/jer007.htm#004)<span
+7:4](../../../bib/kjv/jer007.htm#004.md)<span
 id="iv.iv.iii-p22.1"></span>). The Lord recognises nothing as his own,
 save when his word is heard and religiously observed. Thus, though the
 glory of God sat in the sanctuary between the cherubim (<span
 id="iv.iv.iii-p22.2"></span>[Ezek.
-10:4](../../../bib/kjv/eze010.htm#004)<span
+10:4](../../../bib/kjv/eze010.htm#004.md)<span
 id="iv.iv.iii-p22.2"></span>), and he had promised that he would there
 have his stated abode, still when the priests corrupted his worship by
 depraved superstitions, he transferred it elsewhere, and left the place
@@ -214,13 +214,13 @@ boasts. For if they plume themselves on external profession, Ishmael
 also was circumcised: if they found on antiquity, he was the first-born:
 and yet we see that he was rejected. If the reason is asked, Paul
 assigns it (<span id="iv.iv.iii-p22.3"></span>[Rom.
-9:6](../../../bib/kjv/rom009.htm#006)<span
+9:6](../../../bib/kjv/rom009.htm#006.md)<span
 id="iv.iv.iii-p22.3"></span>), that those only are accounted sons who
 are born of the pure and legitimate seed of doctrine. On this ground God
 declares that he was not astricted to impious priests, though he had
 made a covenant with their father Levi, to be their angel, or
 interpreter (<span id="iv.iv.iii-p22.4"></span>[Mal.
-2:4](../../../bib/kjv/mal002.htm#004)<span
+2:4](../../../bib/kjv/mal002.htm#004.md)<span
 id="iv.iv.iii-p22.4"></span>); nay, he retorts the false boast by which
 they were wont to rise against the Prophets—namely, that the dignity of
 the priesthood was to be held in singular estimation. This he himself
@@ -235,7 +235,7 @@ Aaron to him was continuous), that accursed assembly deserved the name
 of Church. Even in earthly governments, no one would bear to see the
 tyranny of Caligula, Nero, Heliogabalus, and the like, described as the
 true condition of a republic, because they succeeded such men as Brutus,
-Scipio, and Camillus.53  <span id="fr_533"></span>[534](#fn_533) That in
+Scipio, and Camillus.53  <span id="fr_533"></span>[534](#fn_533.md) That in
 the government of the Church especially, nothing is more absurd than to
 disregard doctrine, and place succession in persons. Nor, indeed, was
 anything farther from the intention of the holy teachers, whom they
@@ -269,7 +269,7 @@ the least to admit that there is a Church where the word of God appears
 not. The Lord furnished us with an unfailing test when he said, “Every
 one that is of the truth heareth my voice” (<span
 id="iv.iv.iii-p24.1"></span>[John
-18:37](../../../bib/kjv/joh018.htm#037)<span
+18:37](../../../bib/kjv/joh018.htm#037.md)<span
 id="iv.iv.iii-p24.1"></span>). Again, “I am the good shepherd, and know
 my sheep, and am known of mine.” “My sheep hear my voice, and I know
 them, and they follow me.” A little before he had said, when the
@@ -277,9 +277,9 @@ shepherd “putteth forth his own sheep, he goeth before them, and the
 sheep follow him; for they know his voice. And a stranger will they not
 follow, but will flee from him: for they know not the voice of
 strangers” (<span id="iv.iv.iii-p24.2"></span>[John
-10:14](../../../bib/kjv/joh010.htm#014),
-[4](../../../bib/kjv/joh010.htm#004),
-[5](../../../bib/kjv/joh010.htm#005)<span id="iv.iv.iii-p24.2"></span>).
+10:14](../../../bib/kjv/joh010.htm#014.md),
+[4](../../../bib/kjv/joh010.htm#004.md),
+[5](../../../bib/kjv/joh010.htm#005)<span id="iv.iv.iii-p24.2"></span>.md).
 Why then do we, of our own accord, form so infatuated an estimate of the
 Church, since Christ has designated it by a sign in which is nothing in
 the least degree equivocal, a sign which is everywhere seen, the
@@ -288,13 +288,13 @@ its absence proves the absence of everything that properly bears the
 name of Church? Paul declares that the Church is not founded either upon
 the judgments of men or the priesthood, but upon the doctrine of the
 Apostles and Prophets (<span id="iv.iv.iii-p24.3"></span>[Eph.
-2:20](../../../bib/kjv/eph002.htm#020)<span
+2:20](../../../bib/kjv/eph002.htm#020.md)<span
 id="iv.iv.iii-p24.3"></span>). Nay, Jerusalem is to be distinguished
 from Babylon, the Church of Christ from a conspiracy of Satan, by the
 discriminating test which our Saviour has applied to them, “He that is
 of God, heareth God’s words: ye therefore hear them not, because ye are
 not of God” (<span id="iv.iv.iii-p24.4"></span>[John
-8:47](../../../bib/kjv/joh008.htm#047)<span
+8:47](../../../bib/kjv/joh008.htm#047.md)<span
 id="iv.iv.iii-p24.4"></span>). In short, since the Church is the kingdom
 of Christ, and he reigns only by his word, can there be any doubt as to
 the falsehood of those statements by which the kingdom of Christ is
@@ -321,13 +321,13 @@ Christ, our wills also be united together by mutual good-will in Christ.
 Accordingly Paul, when he exhorts us to it, takes for his fundamental
 principle that there is “one God, one faith, one baptism” (<span
 id="iv.iv.iii-p25.1"></span>[Eph.
-4:5](../../../bib/kjv/eph004.htm#005)<span
+4:5](../../../bib/kjv/eph004.htm#005.md)<span
 id="iv.iv.iii-p25.1"></span>). Nay, when he tells us to be “of one
 accord, of one mind,” he immediately adds, “Let this mind be in you
 which was also in Christ Jesus” (<span
 id="iv.iv.iii-p25.2"></span>[Phil.
-2:2](../../../bib/kjv/phi002.htm#002),
-[5](../../../bib/kjv/phi002.htm#005)<span id="iv.iv.iii-p25.2"></span>);
+2:2](../../../bib/kjv/phi002.htm#002.md),
+[5](../../../bib/kjv/phi002.htm#005)<span id="iv.iv.iii-p25.2"></span>.md);
 intimating, that where the word of the Lord is not, it is not a union of
 believers, but a faction of the ungodly.
 
@@ -358,7 +358,7 @@ excuse us, unless they would also make schismatics of the apostles, with
 whom we have a common cause. Christ, I say, forewarned his apostles,
 “they shall put you out of the synagogues” (<span
 id="iv.iv.iii-p26.1"></span>[John
-16:2](../../../bib/kjv/joh016.htm#002)<span
+16:2](../../../bib/kjv/joh016.htm#002.md)<span
 id="iv.iv.iii-p26.1"></span>). The synagogues of which he speaks were
 then held to be lawful churches. Seeing then it is certain that we were
 cast out, and we are prepared to show that this was done for the name of
@@ -429,9 +429,9 @@ enjoined them to meet in the temple of Solomon, and they knew that the
 Levitical priests, whom the Lord had appointed over sacred matters, and
 who were not yet discarded, how unworthy soever they might be of that
 honour, were still entitled to hold it53  <span
-id="fr_534"></span>[535](#fn_534) (<span
+id="fr_534"></span>[535](#fn_534.md) (<span
 id="iv.iv.iii-p30.1"></span>[Exod.
-24:9](../../../bib/kjv/exo024.htm#009)<span
+24:9](../../../bib/kjv/exo024.htm#009.md)<span
 id="iv.iv.iii-p30.1"></span>). But the principal point in the whole
 question is, that they were not compelled to any superstitious worship,
 nay, they undertook nothing but what had been instituted by God. But in
@@ -468,7 +468,7 @@ them matters were in a similar, or even in a better condition. For we
 see how they uniformly exclaim against their meetings as profane
 conventicles, to which it is not more lawful for them to assent than to
 abjure God (<span id="iv.iv.iii-p31.1"></span>[Isa.
-1:14](../../../bib/kjv/isa001.htm#014)<span
+1:14](../../../bib/kjv/isa001.htm#014.md)<span
 id="iv.iv.iii-p31.1"></span>). And certainly if those were churches, it
 follows, that Elijah, Micaiah, and others in Israel, Isaiah, Jeremiah,
 Hosea, and those of like character in Judah, whom the prophets, priests,
@@ -508,7 +508,7 @@ circumcision be so profaned by their impure hands as not still to he a
 true sign and sacrament of his covenant. Hence the children who were
 born to them the Lord called his own (<span
 id="iv.iv.iii-p32.1"></span>[Ezek.
-16:20](../../../bib/kjv/eze016.htm#020)<span
+16:20](../../../bib/kjv/eze016.htm#020.md)<span
 id="iv.iv.iii-p32.1"></span>), though, unless by special blessing, they
 in no respect belonged to him. So having deposited his covenant in Gaul,
 Italy, Germany, Spain, and England, when these countries were oppressed
@@ -530,15 +530,15 @@ simply to concede the name of Church to the Papists, we do not deny that
 there are churches among them. The question we raise only relates to the
 true and legitimate constitution of the Church, implying communion in
 sacred rites, which are the signs of profession, and especially in
-doctrine.53  <span id="fr_535"></span>[536](#fn_535) Daniel and Paul
+doctrine.53  <span id="fr_535"></span>[536](#fn_535.md) Daniel and Paul
 foretold that Antichrist would sit in the temple of God (<span
 id="iv.iv.iii-p34.1"></span>[Dan.
-9:27](../../../bib/kjv/dan009.htm#027)<span
+9:27](../../../bib/kjv/dan009.htm#027.md)<span
 id="iv.iv.iii-p34.1"></span>; <span id="iv.iv.iii-p34.2"></span>[2
-Thess. 2:4](../../../bib/kjv/th2002.htm#004)<span
+Thess. 2:4](../../../bib/kjv/th2002.htm#004.md)<span
 id="iv.iv.iii-p34.2"></span>); we regard the Roman Pontiff as the leader
 and standard-bearer of that wicked and abominable kingdom.53  <span
-id="fr_536"></span>[537](#fn_536) By placing his seat in the temple of
+id="fr_536"></span>[537](#fn_536.md) By placing his seat in the temple of
 God, it is intimated that his kingdom would not be such as to destroy
 the name either of Christ or of his Church. Hence, then, it is obvious
 that we do not at all deny that churches remain under his tyranny;
@@ -561,7 +561,7 @@ assembly, want the form of a legitimate Church.
 
 ### Footnotes
 
-<span id="fn_529"></span>[530](inst082.htm#fr_529) <span
+<span id="fn_529"></span>[530](inst082.htm#fr_529.md) <span
 id="iv.iv.iii-p16.1"></span>
 
 <span id="iv.iv.iii-p17"></span>27 527 French, “Secondement, qu’encore
@@ -570,7 +570,7 @@ qu’icelui no laisse point d’avoir sa vigeur.”—Secondly, that though
 there may be some little faults either in doctrine or in the sacraments,
 the Church ceases not to be in vigour.
 
-<span id="fn_530"></span>[531](inst082.htm#fr_530) <span
+<span id="fn_530"></span>[531](inst082.htm#fr_530.md) <span
 id="iv.iv.iii-p17.1"></span>
 
 <span id="iv.iv.iii-p18"></span>109 D109 Calvin here answers the
@@ -581,20 +581,20 @@ the fundamental articles of religion are injured or suppressed, and the
 essential elements of the sacraments are destroyed, then the Church
 dies, and ceases to exist.
 
-<span id="fn_531"></span>[532](inst082.htm#fr_531) <span
+<span id="fn_531"></span>[532](inst082.htm#fr_531.md) <span
 id="iv.iv.iii-p19.1"></span>
 
 <span id="iv.iv.iii-p20"></span>28 528 See chap. 1 sec. 10; 2 sec. 10; 8
 sec. 12.
 
-<span id="fn_532"></span>[533](inst082.htm#fr_532) <span
+<span id="fn_532"></span>[533](inst082.htm#fr_532.md) <span
 id="iv.iv.iii-p20.1"></span>
 
 <span id="iv.iv.iii-p21"></span>29 529 French, “Je say bien que les
 flatteurs du Pape magnifient grandement leur Eglise.” —I know that the
 flatterers of the Pope greatly extol their Church.
 
-<span id="fn_533"></span>[534](inst082.htm#fr_533) <span
+<span id="fn_533"></span>[534](inst082.htm#fr_533.md) <span
 id="iv.iv.iii-p22.5"></span>
 
 <span id="iv.iv.iii-p23"></span>30 530 French, “Or tent s’en faut que
@@ -609,7 +609,7 @@ Heliogabalus, and the like, is the true state of the city of Rome,
 because they succeeded the good governors who were established by the
 people.
 
-<span id="fn_534"></span>[535](inst082.htm#fr_534) <span
+<span id="fn_534"></span>[535](inst082.htm#fr_534.md) <span
 id="iv.iv.iii-p29.1"></span>
 
 <span id="iv.iv.iii-p30"></span>31 531 French, “Ils savoient que les
@@ -621,7 +621,7 @@ they were unworthy of such an office, nevertheless, because they had
 been ordained of God, and were not yet deposed, were to be recognised as
 lawful ministers, having the rank of priesthood.
 
-<span id="fn_535"></span>[536](inst082.htm#fr_535) <span
+<span id="fn_535"></span>[536](inst082.htm#fr_535.md) <span
 id="iv.iv.iii-p33.1"></span>
 
 <span id="iv.iv.iii-p34"></span>32 532 French, “Mais nous contendons
@@ -631,7 +631,7 @@ Chretienté;”—but we contend only for the true state of the Church,
 implying communion, as well as everything which pertains to the
 profession of our Christianity.
 
-<span id="fn_536"></span>[537](inst082.htm#fr_536) <span
+<span id="fn_536"></span>[537](inst082.htm#fr_536.md) <span
 id="iv.iv.iii-p34.3"></span>
 
 <span id="iv.iv.iii-p35"></span>33 533 The French adds, “pour le moins
@@ -640,4 +640,4 @@ en l’Eglise Occidentale;”—at least in the Western Church.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 3. - OF THE TEACHERS AND MINISTERS OF THE CHURCH. THEIR
-ELECTION AND OFFICE.](inst083)
+ELECTION AND OFFICE.](inst083.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe059)  [Next](prwe061) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe059)  [Next](prwe061.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ Tregeagle. --
 
 ------------------------------------------------------------------------
 
-[Next: The Mermaid of Rock](prwe061)
+[Next: The Mermaid of Rock](prwe061.md)

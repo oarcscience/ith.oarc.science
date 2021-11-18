@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,33 +19,33 @@ Thought](../../index)  [Unity](../index) 
 
 ------------------------------------------------------------------------
 
-[Start Reading](trw00)    [Page Index](pageidx)    [Text
-\[Zipped\]](trwtxt.zip)
+[Start Reading](trw00)    [Page Index](pageidx.md)    [Text
+\[Zipped\]](trwtxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](trw00)  
-[Foreword](trw01)  
-[A](trw02)  
-[B](trw03)  
-[C](trw04)  
-[D](trw05)  
-[E](trw06)  
-[F](trw07)  
-[G](trw08)  
-[H](trw09)  
-[I](trw10)  
-[J](trw11)  
-[K](trw12)  
-[L](trw13)  
-[M](trw14)  
-[N](trw15)  
-[O](trw16)  
-[P](trw17)  
-[Q](trw18)  
-[R](trw19)  
-[S](trw20)  
-[T](trw21)  
-[U](trw22)  
-[V](trw23)  
-[W](trw24)  
+[Title Page](trw00.md)  
+[Foreword](trw01.md)  
+[A](trw02.md)  
+[B](trw03.md)  
+[C](trw04.md)  
+[D](trw05.md)  
+[E](trw06.md)  
+[F](trw07.md)  
+[G](trw08.md)  
+[H](trw09.md)  
+[I](trw10.md)  
+[J](trw11.md)  
+[K](trw12.md)  
+[L](trw13.md)  
+[M](trw14.md)  
+[N](trw15.md)  
+[O](trw16.md)  
+[P](trw17.md)  
+[Q](trw18.md)  
+[R](trw19.md)  
+[S](trw20.md)  
+[T](trw21.md)  
+[U](trw22.md)  
+[V](trw23.md)  
+[W](trw24.md)  

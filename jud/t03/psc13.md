@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc12)  [Next](psc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc12)  [Next](psc14.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -119,7 +119,7 @@ even that same shall be cut off from his people," refer to the first
 Passover, and the sentence," because the offering of the Lord hath he
 not brought at its appointed season, his sin shall that man bear,"
 refers to the observance of the second Passover, and instead of
-"because" (Hebrew *Kee*  <span id="fr_77"></span>[1](#fn_77)) it should
+"because" (Hebrew *Kee*  <span id="fr_77"></span>[1](#fn_77).md) it should
 read "or." R. Nathan, however, holds to the literal text of the verse,
 and says that it should read, "because the offering," etc. R. Hananiah
 bar Aqabia says that instead of "because" it should read "if," and then
@@ -151,11 +151,11 @@ should actually be on a distant road, but that he is considered distant
 so long as he has not passed beyond the threshold of the court of the
 Temple."
 
-GEMARA: Said Ula: "From Moodayim <span id="fr_78"></span>[1](#fn_78) to
+GEMARA: Said Ula: "From Moodayim <span id="fr_78"></span>[1](#fn_78.md) to
 Jerusalem is a distance of fifteen miles," and he is in accordance with
 the opinion of Rabba bar bar Hana, who said in the name of R. Johanan:
 "What is the distance that a man can traverse in one day? Ten
-Parsaoth. <span id="fr_79"></span>[2](#fn_79) From the time the morning
+Parsaoth. <span id="fr_79"></span>[2](#fn_79.md) From the time the morning
 star appears until sunrise five miles, from sunset until the stars
 appear five miles, and from sunrise until noon fifteen miles, and from
 noon until sunset fifteen miles."
@@ -244,7 +244,7 @@ objection was not answered.
 
 The rabbis taught: "The sages of the Israelites assert, that the ring
 (wheel) in which the different constellations <span
-id="fr_80"></span>[1](#fn_80) are situated is fixed, and every month one
+id="fr_80"></span>[1](#fn_80.md) are situated is fixed, and every month one
 of the constellations appears and then recedes, making room for another,
 while the Gentile sages declare that the wheel is constantly turning and
 every month brings forth a different constellation, which is, however,
@@ -678,7 +678,7 @@ peace-offering! The objection to Rabha is not replied to.
 MISHNA: If a person had set apart or selected as a paschal offering a
 she-goat or a ewe-lamb, or a male two years old, they must be left to
 graze until they contract a legal blemish; they must then be sold, <span
-id="fr_81"></span>[1](#fn_81) and the proceeds turned over to the fund
+id="fr_81"></span>[1](#fn_81.md) and the proceeds turned over to the fund
 of voluntary burnt-offerings. If a person who had selected his paschal
 offering die (in the interim before it is sacrificed), his son cannot
 bring it as a paschal offering, but must bring it as a peace-offering.
@@ -818,18 +818,18 @@ he keepeth silence, is counted wise."
 
 ### Footnotes
 
-<span id="fn_77"></span>[193:1](psc13.htm#fr_77) The Hebrew word "*Kee*"
+<span id="fn_77"></span>[193:1](psc13.htm#fr_77.md) The Hebrew word "*Kee*"
 can be translated in four different ways; namely, "because,"
 "therefore," "perhaps," and "if."
 
-<span id="fn_78"></span>[194:1](psc13.htm#fr_78) The place Moodayim is
+<span id="fn_78"></span>[194:1](psc13.htm#fr_78.md) The place Moodayim is
 frequently mentioned in Josephus and the history of the Maccabees under
 the name of Modain.
 
-<span id="fn_79"></span>[194:2](psc13.htm#fr_79) Parsaoth is plural for
+<span id="fn_79"></span>[194:2](psc13.htm#fr_79.md) Parsaoth is plural for
 Parsah, which is the equivalent of four miles, called in Hebrew "Milin."
 
-<span id="fn_80"></span>[196:1](psc13.htm#fr_80) According to the sages
+<span id="fn_80"></span>[196:1](psc13.htm#fr_80.md) According to the sages
 there were twelve different constellations, one of which appeared every
 month, and they were: for the month of Nissan, the Ram; for the month of
 Iyar, the Bull; for Sivan, the Twins; for Tamuz, the Crab; for Ab, the
@@ -837,7 +837,7 @@ Lion; for Elul, the Virgin; for Tishri, the Scales; for Cheshvan, the
 Scorpion; for Kislev, the Archer; for Tebeth, the Goat; for Shebat, the
 Water-bearer; for Adar, the Fishes.
 
-<span id="fn_81"></span>[206:1](psc13.htm#fr_81) According to the Mishna
+<span id="fn_81"></span>[206:1](psc13.htm#fr_81.md) According to the Mishna
 which is contained in the original Talmud, the proceeds should be
 devoted to peace-offerings, and the commentary Tosphat Yom Tab said such
 should be the right interpretation.
@@ -845,4 +845,4 @@ should be the right interpretation.
 ------------------------------------------------------------------------
 
 [Next: Chapter X: The Meal on the Eve of Passover and the Four Cups of
-Wine](psc14)
+Wine](psc14.md)

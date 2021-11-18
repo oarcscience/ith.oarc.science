@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](co1)  [Next](gal) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](co1)  [Next](gal.md) 
 
 ------------------------------------------------------------------------
 
@@ -944,4 +944,4 @@ Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Galatians](gal)
+[Next: Galatians](gal.md)

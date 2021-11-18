@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [Confucianism](index) 
+[Intangible Textual Heritage](../index)  [Confucianism](index.md) 
 
 ------------------------------------------------------------------------
 

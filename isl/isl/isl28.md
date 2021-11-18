@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl27)  [Next](isl29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl27)  [Next](isl29.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ interpretation, the monism of Ibn al-‘Arabī, the aesthetic sensibility
 of Rūmī, and the hypnotic or thaumaturgic rituals of the ecstatic
 orders, but also astrology, divination, wonder-working, and above all,
 the cult of saints, dead and alive." <span
-id="fr_126"></span>[47](#fn_126)
+id="fr_126"></span>[47](#fn_126.md)
 
 Almost every male Muslim belonged to one or more *ṭarīqas*, which took
 the place of church denomination, social club, Masonic lodge, night
@@ -90,7 +90,7 @@ remains. The manuals of prayer used by the humble faithful in all the
 great centers of Islam today, for instruction in prayer which goes
 beyond the often mechanical repetition of the official ritual prayers,
 were once composed for the dervishes. <span
-id="fr_127"></span>[48](#fn_127)
+id="fr_127"></span>[48](#fn_127.md)
 
 I have naught but my destitution  
   To plead for me with Thee.  
@@ -108,7 +108,7 @@ In full abandon I put my trust in Thee,
 <span id="page_171">p. 171</span>
 
 Stretching out my hands to Thee, a pleading beggar <span
-id="fr_128"></span>[49](#fn_128)  
+id="fr_128"></span>[49](#fn_128.md)  
      \[Attributed to ’Abd al-Qādir al-Jīlānī as well as to Abuyad
 al-Tijānī\]
 
@@ -119,7 +119,7 @@ of the ugliness of my doings,
 Thy long patience with my many wickednesses  
 Whether I did them of error or of set purpose, have  
 Made me ask in hope that to which I have no right." <span
-id="fr_129"></span>[50](#fn_129)  
+id="fr_129"></span>[50](#fn_129.md)  
      \[‘Alī Zayn al-‘Abidīn\]
 
 O saints of God, to I am sick, and before you is medicine and healing.  
@@ -131,7 +131,7 @@ How many a chronic sufferer have you helped, bedridden, whom your bounty
 has sufficed.  
 You are the door, and God is generous.  
 He then who comes to you finds grace and health <span
-id="fr_130"></span>[51](#fn_130)  
+id="fr_130"></span>[51](#fn_130.md)  
      \[Muhammad ‘Alī, Muftī al-Jazā’ir\]
 
 O Lord of the clear heavens and the light and the darkness in them;  
@@ -141,7 +141,7 @@ O Lord of the steadfast mountains:
 O Lord of the sweeping winds:  
 O Lord of the airy clouds balanced between the heavens and the earth:  
 O Lord of the stars sent by Thee on their business and flashing in the
-air of heaven <span id="fr_131"></span>[52](#fn_131)  
+air of heaven <span id="fr_131"></span>[52](#fn_131.md)  
      \[Prayer for the 27th of Ramadān\]
 
 <span id="page_172">p. 172</span>
@@ -151,7 +151,7 @@ favor have never failed me for a moment since Thou didst send me into
 the abode of experience and reflection and discursive thought, to see
 what I should bring with me to the lasting abode and the session of the
 blessed. I am Thy slave: make me, then, to be Thy freedman. <span
-id="fr_132"></span>[53](#fn_132)  
+id="fr_132"></span>[53](#fn_132.md)  
      \[al-Ḥizb al Sayfī\]
 
 O Lord, call down a blessing on Muhammad in the cooing of doves, in the
@@ -160,7 +160,7 @@ strong, in the might of the full-grown, in the sleeping of slumberers .
 . . in the brightening of morning, in the murmur of the winds and in the
 tramp of cattle, in the girding on of swords and the brandishing of
 lances and in the health of bodies and spirits <span
-id="fr_133"></span>[54](#fn_133)  
+id="fr_133"></span>[54](#fn_133.md)  
      \[al-Ṡalāt li-al-Buṡīrī\]
 
 Praise to Thee, glorified be Thy Majesty, while I live, and when I die .
@@ -168,7 +168,7 @@ Praise to Thee, glorified be Thy Majesty, while I live, and when I die .
 (calling to) the Assembly, and when I stand dumbfounded in Thy presence
 at the publishing of the pages of my past life. And when Thou askest me
 and my very members are witnesses for Thee against me. . . <span
-id="fr_134"></span>[55](#fn_134)  
+id="fr_134"></span>[55](#fn_134.md)  
      \[Prayer for the first day of the New Year\]
 
 My God and my Lord, eyes are at rest, stars are setting, hushed are the
@@ -177,7 +177,7 @@ the Just who knoweth no change, the Equity that swerveth not, the
 Everlasting that passes not away. The doors of kings are locked, watched
 by their body-guards; but Thy door is open to him who calls on Thee. My
 Lord, each lover is now alone with his beloved, and Thou art for me the
-Beloved <span id="fr_135"></span>[56](#fn_135)  
+Beloved <span id="fr_135"></span>[56](#fn_135.md)  
      \[Tahārat al-Qulūb\]
 
  
@@ -186,28 +186,28 @@ Beloved <span id="fr_135"></span>[56](#fn_135)
 
 ### Footnotes
 
-<span id="fn_126"></span>[172:47](isl28.htm#fr_126) Gibb and Bowen,
+<span id="fn_126"></span>[172:47](isl28.htm#fr_126.md) Gibb and Bowen,
 *Islamic Society and the West* (London, 1957), Vol. I, Part II, p. 201.
 
-<span id="fn_127"></span>[172:48](isl28.htm#fr_127) Cf. Constance C.
+<span id="fn_127"></span>[172:48](isl28.htm#fr_127.md) Cf. Constance C.
 Padwick, *Muslim Devotions* (London, 1961).
 
-<span id="fn_128"></span>[172:49](isl28.htm#fr_128) *Ibid*., p. 218.
+<span id="fn_128"></span>[172:49](isl28.htm#fr_128.md) *Ibid*., p. 218.
 
-<span id="fn_129"></span>[172:50](isl28.htm#fr_129) *Ibid*., p. 203.
+<span id="fn_129"></span>[172:50](isl28.htm#fr_129.md) *Ibid*., p. 203.
 
-<span id="fn_130"></span>[172:51](isl28.htm#fr_130) *Ibid*., p. 242.
+<span id="fn_130"></span>[172:51](isl28.htm#fr_130.md) *Ibid*., p. 242.
 
-<span id="fn_131"></span>[172:52](isl28.htm#fr_131) *Ibid*., p. 250.
+<span id="fn_131"></span>[172:52](isl28.htm#fr_131.md) *Ibid*., p. 250.
 
-<span id="fn_132"></span>[172:53](isl28.htm#fr_132) *Ibid*., p. 253.
+<span id="fn_132"></span>[172:53](isl28.htm#fr_132.md) *Ibid*., p. 253.
 
-<span id="fn_133"></span>[172:54](isl28.htm#fr_133) *Ibid*., p. 257.
+<span id="fn_133"></span>[172:54](isl28.htm#fr_133.md) *Ibid*., p. 257.
 
-<span id="fn_134"></span>[172:55](isl28.htm#fr_134) *Ibid*., p. 280.
+<span id="fn_134"></span>[172:55](isl28.htm#fr_134.md) *Ibid*., p. 280.
 
-<span id="fn_135"></span>[172:56](isl28.htm#fr_135) *Ibid*., p. 219.
+<span id="fn_135"></span>[172:56](isl28.htm#fr_135.md) *Ibid*., p. 219.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](isl29)
+[Next: Introduction](isl29.md)

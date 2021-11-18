@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks23)  [Next](mks25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks23)  [Next](mks25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -399,7 +399,7 @@ By our predominant mental attitude.
 
 A question of conviction as to the nature of the Universe. The old
 regime is trying to cling to the fatalistic doctrine of Divine election.
-The new regime recognizes [the](errata.htm#3) divinity of the
+The new regime recognizes [the](errata.htm#3.md) divinity of the
 individual, the divinity of humanity.
 
  
@@ -422,4 +422,4 @@ theories, irrational beliefs, unbridled enthusiasm, fanaticism.—Haddock.
 
 ------------------------------------------------------------------------
 
-[Next: Part Twenty-Two](mks25)
+[Next: Part Twenty-Two](mks25.md)

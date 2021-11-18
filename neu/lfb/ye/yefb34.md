@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb33)  [Next](yefb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb33)  [Next](yefb35.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_209">p. 209</span>
 
-THE STORY OF KING FROST <span id="fr_25"></span>[1](#fn_25)
+THE STORY OF KING FROST <span id="fr_25"></span>[1](#fn_25.md)
 
 There was once upon a time a peasant-woman who had a daughter and a
 step-daughter.  The daughter had her own way in everything, and whatever
@@ -177,12 +177,12 @@ chilled to death.
 
 ### Footnotes
 
-<span id="fn_25"></span>[209:1](yefb34.htm#fr_25) From the Russian.
+<span id="fn_25"></span>[209:1](yefb34.htm#fr_25.md) From the Russian.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Death of the Sun-Hero](yefb35)
+[Next: The Death of the Sun-Hero](yefb35.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml55)  [Next](yml57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml55)  [Next](yml57.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ Here the story ends.
 
 ------------------------------------------------------------------------
 
-[Next: The First Fiesta](yml57)
+[Next: The First Fiesta](yml57.md)

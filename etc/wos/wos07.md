@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](wos06)  [Next](wos08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](wos06)  [Next](wos08.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,11 +15,11 @@ by Cortez and Pizarro, indicates an origin common to the superstitions
 of Egypt and Asia. The same solar worship, the same pyramidal monuments,
 and the same concomitant OPHIOLATREIA distinguish them all.
 
-From Acosta <span id="fr_420"></span>[1](#fn_419) we learn, that "*the
+From Acosta <span id="fr_420"></span>[1](#fn_419.md) we learn, that "*the
 temple of Vitziliputzli was built of great stones in fashion of snakes
 tied one to another, and the circuit was called* '*the circuit of
 snakes*,'" because the walls of the enclosure were covered with the
-figures of snakes <span id="fr_421"></span>[2](#fn_420). This god,
+figures of snakes <span id="fr_421"></span>[2](#fn_420.md). This god,
 Vitziliputzli, "held in his right hand a staff cut in the form of a
 serpent; and the four corners of the ark, in which he was seated,
 terminated each with
@@ -27,21 +27,21 @@ terminated each with
 <span id="page_294">p. 294</span>
 
 a carved representation of the head of a serpent <span
-id="fr_422"></span>[1](#fn_421)."
+id="fr_422"></span>[1](#fn_421.md)."
 
 Vitziliputzli was an azure figure, from whose sides projected the heads
 of two serpents: his right hand leaned upon a staff shaped like a
-serpent <span id="fr_423"></span>[2](#fn_422).
+serpent <span id="fr_423"></span>[2](#fn_422.md).
 
 The Mexican century was represented by a circle, having the sun in the
 centre, surrounded by the symbols of the years. The circumference was A
 SERPENT twisted into four knots at the cardinal points <span
-id="fr_424"></span>[3](#fn_423).
+id="fr_424"></span>[3](#fn_423.md).
 
 The Mexican month was divided into twenty days; the *serpent* and
 *dragon* symbolized two of them. In Mexico there was also a temple
 dedicated to "the god of the air;" and the door of it was formed so as
-to resemble a *serpent's* mouth <span id="fr_425"></span>[4](#fn_424).
+to resemble a *serpent's* mouth <span id="fr_425"></span>[4](#fn_424.md).
 
 The Mexicans, however, were not contented with the *symbolical* worship
 of the sacred serpent. Like many other nations of the Ophite
@@ -50,7 +50,7 @@ of the sacred serpent. Like many other nations of the Ophite
 
 family, they kept *live serpents* as household gods in their private
 dwellings. An intelligent traveller <span
-id="fr_426"></span>[1](#fn_425), to whom the literary republic is much
+id="fr_426"></span>[1](#fn_425.md), to whom the literary republic is much
 indebted for his observations on the Mexican idolatry, informs, us, that
 "the rattle-snake was an object of veneration and worship among them:"
 and that "representations of this reptile, and others of its species,
@@ -126,12 +126,12 @@ wreathed *rattle-snakes*, which the natives call '*a garment of
 serpents*.' . . . Between the feet, descending from the body, another
 wreathed *serpent* rests his head upon the ground."
 
-We learn from Acosta <span id="fr_427"></span>[1](#fn_426), that the
+We learn from Acosta <span id="fr_427"></span>[1](#fn_426.md), that the
 Mexicans sacrificed human victims to the god Virachoca; and that the
 head of the unhappy creature about to be sacrificed was held back in a
 wooden collar wrought in form of *a snake*."
 
-Peter Martyr  <span id="fr_428"></span>[2](#fn_427) also mentions a
+Peter Martyr  <span id="fr_428"></span>[2](#fn_427.md) also mentions a
 large serpent-idol at Campeachy, made of stones and bitumen, in the act
 of devouring a marble lion. An
 
@@ -159,7 +159,7 @@ of the intertwined
 <span id="page_300">p. 300</span>
 
 serpents, in almost all its variations <span
-id="fr_429"></span>[1](#fn_428). A very remarkable one occurs in M.
+id="fr_429"></span>[1](#fn_428.md). A very remarkable one occurs in M.
 Allard's collection of sculptures; in which the dragons, forming it,
 have each *a man's head in his mouth!* The gods of Mexico are frequently
 pictured fighting with serpents and dragons; and gods, and sometimes
@@ -183,27 +183,27 @@ The serpent also entered into the religion of
 the Mexicans as a charm. Whenever a person was ill, a priest was
 immediately sent for, "who, having perfumed the patient, and shaved off
 his hair, hung *snake's bones about his neck* <span
-id="fr_430"></span>[1](#fn_429)."
+id="fr_430"></span>[1](#fn_429.md)."
 
 In Couliacan, Nunnez de Gusman found, in the year 1531, the houses
 filled with "thousands of serpents mingled together." And we are told
 that "the inhabitants showed great reverence to these serpents because,
 as they said, *the devil often appeared to them in that form* <span
-id="fr_431"></span>[2](#fn_430)."
+id="fr_431"></span>[2](#fn_430.md)."
 
  
 
 II\. PERU.--The Peruvians are charged with the same superstition of
 serpent-worship as the Mexicans. "They worshipped," says Vossius, "the
 goddess Isis, and were accustomed to represent her with two serpents at
-her side <span id="fr_432"></span>[3](#fn_431)."
+her side <span id="fr_432"></span>[3](#fn_431.md)."
 
 Whether this image represented Isis, or some other deity, it is certain
 that *actual* as well as *symbolical* Ophiolatreia prevailed in Peru.
 For, "in the temple of Pachamana, near Lima, tradition states that *the
 devil did speak visibly*, and gave answer by his oracles; and that
 sometimes they did see *a spotted snake* <span
-id="fr_433"></span>[4](#fn_432)."
+id="fr_433"></span>[4](#fn_432.md)."
 
 Of this kind was the "nachash" of the
 
@@ -218,12 +218,12 @@ votaries.
 In the province of Topira in Peru, the Spaniards saw a temple, in front
 of which was a moat containing a vast image of "a serpent of divers
 metals, with his tayle in his mouth. A man was sacrificed before it
-every year <span id="fr_434"></span>[1](#fn_433)."
+every year <span id="fr_434"></span>[1](#fn_433.md)."
 
 In another part of the work, from which the above information is
 derived, we read that "the Peruvians *worshipped snakes, and kept them
 pictured in their temples and houses* <span
-id="fr_435"></span>[2](#fn_434)."
+id="fr_435"></span>[2](#fn_434.md)."
 
 The worship of the serpent in Peru was eventually superseded by the
 Solar Superstition of the Incas. Having suppressed it in their own
@@ -235,18 +235,18 @@ next overcame the Huacrachuca, who also "worshipped snakes and
 <span id="page_303">p. 303</span>
 
 kept them always pictured in their houses and temples <span
-id="fr_436"></span>[1](#fn_435)."
+id="fr_436"></span>[1](#fn_435.md)."
 
 The people of Manta who were conquered by Huayna Capac, among other
 things "worshipped serpents of prodigious bigness <span
-id="fr_437"></span>[2](#fn_436)."
+id="fr_437"></span>[2](#fn_436.md)."
 
 "Blas Valeras, an author, who in loose papers wrote of the Indies,
 describes those who live in *Antis* as more brutal than the beasts
 themselves; for they have neither God, nor law, nor virtue, nor have
 they any idols or worship, unless sometimes when the Devil presents
 himself in the form of a serpent or other animal*, they then worship and
-adore him* <span id="fr_438"></span>[3](#fn_437)."
+adore him* <span id="fr_438"></span>[3](#fn_437.md)."
 
 From these incidental notices, scattered up and down among the writings
 of the Spaniards, who rather accidentally alluded to, than designedly
@@ -283,11 +283,11 @@ who, by the incidental
 
 <span id="page_305">p. 305</span>
 
-mention of a trivial circumstance, would [induce](errata.htm#2) us to
+mention of a trivial circumstance, would [induce](errata.htm#2.md) us to
 infer, that the worship of the serpent was not altogether unknown even
 in these inhospitable wilds. *The chief priest* among the Virginians was
 observed to wear on his head a sacerdotal ornament of "*snake skins tied
-together by the tails* <span id="fr_439"></span>[1](#fn_438)."
+together by the tails* <span id="fr_439"></span>[1](#fn_438.md)."
 
 Now this circumstance, though apparently trivial, is not to be
 overlooked; for it brings to recollection an Egyptian custom which
@@ -304,12 +304,12 @@ respect to the god of his adoration, or to the symbol of that deity?
 
 <span id="page_306">p. 306</span>
 
-The [accompanying plate](#img_30600), which represents an Indian of the
+The [accompanying plate](#img_30600.md), which represents an Indian of the
 country N. W. of Louisiana, exhibits a priest of the Solar-Ophite
 religion. The Sun and Serpent tattooed upon his breast, and pictured
 upon the instrument in his hand are curious illustrations of ancient
 customs. The former especially remind us of the "stigmata <span
-id="fr_440"></span>[1](#fn_439)" alluded to by *Job*, and St. *Paul*,
+id="fr_440"></span>[1](#fn_439.md)" alluded to by *Job*, and St. *Paul*,
 which were borne on the body of the priests of all the old religions;
 and are still used to distinguish the Brahminical sects.
 
@@ -317,12 +317,12 @@ There is also an obscure Canadian tradition which seems to have belonged
 to the superstition of the Serpent. Whenever it thundered the natives
 believed "that the Devil was endeavouring to vomit a horrible serpent,
 and by straining to evacuate the same, rent the clouds and caused
-thunder <span id="fr_441"></span>[2](#fn_440)."
+thunder <span id="fr_441"></span>[2](#fn_440.md)."
 
 Among the islands of the Southern Ocean we can hardly expect to find any
 traces of this idolatry. It is curious, however, to observe that in New
 Zealand there is a tradition that the serpent once spoke with a human
-voice <span id="fr_442"></span>[3](#fn_441).
+voice <span id="fr_442"></span>[3](#fn_441.md).
 
 These islanders also believed, that in the interior
 
@@ -332,7 +332,7 @@ These islanders also believed, that in the interior
 
 [![An Indian inhabiting the Country Nth West of Louisiana in
 1741](tn/30600.jpg)  
-Click to enlarge](img/30600.jpg)  
+Click to enlarge](img/30600.jpg.md)  
 An Indian inhabiting the Country Nth West of Louisiana in 1741  
 
  
@@ -346,7 +346,7 @@ and is kindred to that of the serpent.
 The inhabitants of the Tonga islands also believe that "the primitive
 gods sometimes come into the bodies of lizards, porpoises, and sea
 snakes--and hence these animals are much respected <span
-id="fr_443"></span>[1](#fn_442)."
+id="fr_443"></span>[1](#fn_442.md)."
 
 There is a remarkable passage in Tasman's voyage to the South Seas;
 which, if it does not actually *prove* the original Ophiolatreia of
@@ -372,70 +372,70 @@ would not press the argument. *Valeat quantum valet*.
 
 ### Footnotes
 
-<span id="fn_419"></span>[293:1](wos07.htm#fr_420) Ch. xiii. *London*,
+<span id="fn_419"></span>[293:1](wos07.htm#fr_420.md) Ch. xiii. *London*,
 1604.
 
-<span id="fn_420"></span>[293:2](wos07.htm#fr_421) *Herrera*.
+<span id="fn_420"></span>[293:2](wos07.htm#fr_421.md) *Herrera*.
 
-<span id="fn_421"></span>[294:1](wos07.htm#fr_422) Faber, P. I. v. 455,
+<span id="fn_421"></span>[294:1](wos07.htm#fr_422.md) Faber, P. I. v. 455,
 citing Purchas's Pilgrims.
 
-<span id="fn_422"></span>[294:2](wos07.htm#fr_423) Gottfrid. Hist.
+<span id="fn_422"></span>[294:2](wos07.htm#fr_423.md) Gottfrid. Hist.
 Antipod. part i. p. 31, apud Gronovium.
 
-<span id="fn_423"></span>[294:3](wos07.htm#fr_424) Clavigero, vol. i. p.
+<span id="fn_423"></span>[294:3](wos07.htm#fr_424.md) Clavigero, vol. i. p.
 296.
 
-<span id="fn_424"></span>[294:4](wos07.htm#fr_425) Faber, P. I. ii. 285,
+<span id="fn_424"></span>[294:4](wos07.htm#fr_425.md) Faber, P. I. ii. 285,
 citing Purchas.--It is a curious coincidence of ideas, that in Ephesians
 ii. 2, the DEVIL is styled "*the prince of the power of the* AIR."
 
-<span id="fn_425"></span>[295:1](wos07.htm#fr_426) Mr. Bullock.
+<span id="fn_425"></span>[295:1](wos07.htm#fr_426.md) Mr. Bullock.
 
-<span id="fn_426"></span>[298:1](wos07.htm#fr_427) 332.
+<span id="fn_426"></span>[298:1](wos07.htm#fr_427.md) 332.
 
-<span id="fn_427"></span>[298:2](wos07.htm#fr_428) De Orbe Novo, 291.
+<span id="fn_427"></span>[298:2](wos07.htm#fr_428.md) De Orbe Novo, 291.
 
-<span id="fn_428"></span>[300:1](wos07.htm#fr_429) Aglio, vol. iii.
+<span id="fn_428"></span>[300:1](wos07.htm#fr_429.md) Aglio, vol. iii.
 *Borgian Collection*, plates 36, 38, &c.--Vol. iv. pl. 13. *Sculpture in
 the Collection of M. Latour Allard, Paris*.
 
-<span id="fn_429"></span>[301:1](wos07.htm#fr_430) Ogilby, p. 277.
+<span id="fn_429"></span>[301:1](wos07.htm#fr_430.md) Ogilby, p. 277.
 
-<span id="fn_430"></span>[301:2](wos07.htm#fr_431) Ibid. 286.
+<span id="fn_430"></span>[301:2](wos07.htm#fr_431.md) Ibid. 286.
 
-<span id="fn_431"></span>[301:3](wos07.htm#fr_432) Voss. de Idol. l.
+<span id="fn_431"></span>[301:3](wos07.htm#fr_432.md) Voss. de Idol. l.
 iii. c. 13.
 
-<span id="fn_432"></span>[301:4](wos07.htm#fr_433) Acosta, c. 5.
+<span id="fn_432"></span>[301:4](wos07.htm#fr_433.md) Acosta, c. 5.
 
-<span id="fn_433"></span>[302:1](wos07.htm#fr_434) Purchas, part iv. p.
+<span id="fn_433"></span>[302:1](wos07.htm#fr_434.md) Purchas, part iv. p.
 1560.
 
-<span id="fn_434"></span>[302:2](wos07.htm#fr_435) Ibid. p. 1478.
+<span id="fn_434"></span>[302:2](wos07.htm#fr_435.md) Ibid. p. 1478.
 
-<span id="fn_435"></span>[303:1](wos07.htm#fr_436) Harris's Collec. of
+<span id="fn_435"></span>[303:1](wos07.htm#fr_436.md) Harris's Collec. of
 Voyages, i. 784.
 
-<span id="fn_436"></span>[303:2](wos07.htm#fr_437) Garcilasso de la
+<span id="fn_436"></span>[303:2](wos07.htm#fr_437.md) Garcilasso de la
 Vega, book ix. c. 8.
 
-<span id="fn_437"></span>[303:3](wos07.htm#fr_438) Ibid. book i. c. 4.
+<span id="fn_437"></span>[303:3](wos07.htm#fr_438.md) Ibid. book i. c. 4.
 
-<span id="fn_438"></span>[305:1](wos07.htm#fr_439) Purchas, part 4, p.
+<span id="fn_438"></span>[305:1](wos07.htm#fr_439.md) Purchas, part 4, p.
 1701.
 
-<span id="fn_439"></span>[306:1](wos07.htm#fr_440) See the remarks on
+<span id="fn_439"></span>[306:1](wos07.htm#fr_440.md) See the remarks on
 the Thauma, chap. ii.
 
-<span id="fn_440"></span>[306:2](wos07.htm#fr_441) Ogilby, p. 132.
+<span id="fn_440"></span>[306:2](wos07.htm#fr_441.md) Ogilby, p. 132.
 
-<span id="fn_441"></span>[306:3](wos07.htm#fr_442) Christian Observer,
+<span id="fn_441"></span>[306:3](wos07.htm#fr_442.md) Christian Observer,
 1810, p. 724.
 
-<span id="fn_442"></span>[307:1](wos07.htm#fr_443) Dillon's Discovery of
+<span id="fn_442"></span>[307:1](wos07.htm#fr_443.md) Dillon's Discovery of
 La Perouse, ii. p. 12.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Heathen Fables Illustrative of the Fall of Man](wos08)
+[Next: Chapter V. Heathen Fables Illustrative of the Fall of Man](wos08.md)

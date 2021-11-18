@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar22)  [Next](gar24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar22)  [Next](gar24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ completely usurped the sovereignty of his brother Jupiter, and reduced
 him to the rank of a mere planetary Genius. Unlike the generality of the
 deities who figure upon the Gnostic stones, the *Alexandrian* Serapis
 does not belong to the primitive mythology of Egypt. <span
-id="fr_72"></span>[\*](#fn_71) His worship may be said to be only coeval
+id="fr_72"></span>[\*](#fn_71.md) His worship may be said to be only coeval
 with the rise of Alexandria, into which city it was introduced from
 Sinope by the first Ptolemy, in consequence of the command (and repeated
 threats, in case of neglect) of a vision which had appeared to him.
@@ -42,7 +42,7 @@ The prevalent opinion amongst the Greeks was that the figure represented
 Jupiter *Dis* (Aidoneus) and the one by his side, *Proserpine*. This
 latter the envoys were ordered by the same divine messenger, to leave in
 its native shrine. Another story, also mentioned by Tacitus, <span
-id="fr_73"></span>[†](#fn_72) made the statue to have been brought from
+id="fr_73"></span>[†](#fn_72.md) made the statue to have been brought from
 Seleucia by Ptolemy III, but this rested on slighter authority. It is,
 however, a curious confirmation of this last tradition that Serapis is
 named by Plutarch ("Alexander,") as the chief deity of *Babylon*
@@ -63,7 +63,7 @@ unknown god, whose apparition had so disquieted the monarch by
 commanding himself to be sent for without declaring whence. The figure,
 seen in the vision, was that of a *youth*, a circumstance that tallies
 ill with the mature majesty of the great god of Alexandria. <span
-id="fr_74"></span>[\*](#fn_73) But the Helios Dionysos, a veritable
+id="fr_74"></span>[\*](#fn_73.md) But the Helios Dionysos, a veritable
 Chrishna, who graces the reverse of the gold medallion of Pharnaces II,
 coined at Sinope in the following century, agrees much more exactly with
 this description of the nocturnal visitor.
@@ -106,7 +106,7 @@ be accounted, he received the following response:--
  The starry heavens my head; my trunk the sea;  
  Earth forms my feet; mine ears the air supplies;  
  The sun's far-darting, brilliant rays mine eyes.'" <span
-id="fr_75"></span>[\*](#fn_74)
+id="fr_75"></span>[\*](#fn_74.md)
 
 From all this it is evident that the nature of Serapis and the Sun is
 one and indivisible. Again, Isis is universally worshipped as the type
@@ -140,14 +140,14 @@ Hadrian mentions in a letter to his brother-in-law Servianus, preserved
 by the historian Vopiscus in his Life of the Tyrant Saturninus. "Those
 who worship Serapis are likewise Christians; even those who style
 themselves the bishops of Christ are devoted to Serapis. The very
-Patriarch himself, <span id="fr_76"></span>[\*](#fn_75) when he comes to
+Patriarch himself, <span id="fr_76"></span>[\*](#fn_75.md) when he comes to
 Egypt, is forced by some to adore Serapis, by others to worship Christ.
 There is but one God for them all, Him do the Christians, Him do the
 Jews, Him do the Gentiles, all alike worship." Severus Alexander, too,
 who daily paid his devotions to Christ and Abraham, did none the less
 expend large sums in decorating the temples of Serapis and Isis "with
 statues, *couches*, and all things pertaining to their Mysteries," <span
-id="fr_77"></span>[†](#fn_76) whilst he left the other gods of Rome to
+id="fr_77"></span>[†](#fn_76.md) whilst he left the other gods of Rome to
 take care of themselves.
 
 And as connected with the same subject, it may be here observed that the
@@ -160,7 +160,7 @@ generations
 <span id="page_162">p. 162</span>
 
 after all who had beheld it on earth had passed away. <span
-id="fr_78"></span>[\*](#fn_77) Nevertheless, the importance so long
+id="fr_78"></span>[\*](#fn_77.md) Nevertheless, the importance so long
 attached to the pretended letter of Lentulus to the emperor, Tiberius,
 describing Christ's personal appearance, demands a notice in this place.
 Its monkish Latinity and style betray it, at first sight, for the
@@ -276,15 +276,15 @@ Coptic Osor-Apis into the more euphonious ὁ Σάραπις.
 
 ### Footnotes
 
-<span id="fn_71"></span>[158:\*](gar23.htm#fr_72) The difference between
+<span id="fn_71"></span>[158:\*](gar23.htm#fr_72.md) The difference between
 him and the ancient Theban Serapis (as the Greeks translated his title
 "Osor-Api"), shall be pointed out farther on.
 
-<span id="fn_72"></span>[158:†](gar23.htm#fr_73) Who narrates the whole
+<span id="fn_72"></span>[158:†](gar23.htm#fr_73.md) Who narrates the whole
 affair at great length--a proof of the influence of the religion in his
 day--in his History, iv. 84.
 
-<span id="fn_73"></span>[159:\*](gar23.htm#fr_74) The great god of
+<span id="fn_73"></span>[159:\*](gar23.htm#fr_74.md) The great god of
 Assyria, Adad, "The One," the oracle-giving Jupiter of Heliopolis, was
 thus figured in his *golden* statue as a beardless youth, brandishing
 aloft a whip, and holding in his left hand the thunder-holt and
@@ -294,26 +294,26 @@ their influence upon the earth, who stood before him in the figure of
 *springing up* of her gifts. She was supported, like Cybele, upon the
 backs of lions.
 
-<span id="fn_74"></span>[160:\*](gar23.htm#fr_75) I cannot help
+<span id="fn_74"></span>[160:\*](gar23.htm#fr_75.md) I cannot help
 suspecting that this description supplied Basilides with the idea of his
 celebrated *Pantheus*, the Abraxas-figure. The head of the *bird* was
 the fittest emblem of the air, the *serpent*, according to Herodotus,
 was the offspring of earth, the *breast* of man was the Homeric
 attribute of Neptune.
 
-<span id="fn_75"></span>[161:\*](gar23.htm#fr_76) The Patriarch of
+<span id="fn_75"></span>[161:\*](gar23.htm#fr_76.md) The Patriarch of
 Tiberias, head of the Jewish religion, after the destruction of
 Jerusalem.
 
-<span id="fn_76"></span>[161:†](gar23.htm#fr_77) A very favourite
+<span id="fn_76"></span>[161:†](gar23.htm#fr_77.md) A very favourite
 representation of Isis upon our talismans shows her reclining upon a
 conch.
 
-<span id="fn_77"></span>[162:\*](gar23.htm#fr_78) What proves the want
+<span id="fn_77"></span>[162:\*](gar23.htm#fr_78.md) What proves the want
 of any real authority for the portraits of the Saviour is the filet that
 the earliest monuments in sculpture or painting, represent him as
 *youthful* and *beardless*.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Probable Origin of Serapis](gar24)
+[Next: II. The Probable Origin of Serapis](gar24.md)

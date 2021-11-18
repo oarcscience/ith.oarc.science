@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn07)  [Next](ptn09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn07)  [Next](ptn09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ of God; but we question if there be not times when the most pious and
 perfect Christian may not find comfort and relief from a fallacy which
 was a matter of faith in less enlightened creeds, and over which the
 apostle, writing to the Hebrews, throws the sanction of his authority,
-so for as angels are concerned. <span id="fr_42"></span>[1](#fn_42) Nor
+so for as angels are concerned. <span id="fr_42"></span>[1](#fn_42.md) Nor
 could he have forgotten those words of
 
 <span id="page_cx">p. cx</span>
@@ -79,7 +79,7 @@ it is Brahm and Vishnu who generally wander. In the Edda, Odin, Loki,
 and Hœnir thus roam about, or Thor, Thialfi, and Loki. Sometimes Odin
 appears alone as a horseman, who turns in at night to the smith's house,
 and gets him to shoe his horse,—a legend which reminds us at once of the
-Master-Smith. <span id="fr_43"></span>[1](#fn_43) Sometimes it is Thor
+Master-Smith. <span id="fr_43"></span>[1](#fn_43.md) Sometimes it is Thor
 with his great hammer who wanders thus alone.
 
 Now, let us turn from heathen to Christian times, and look at some of
@@ -119,10 +119,10 @@ plants bear her name. In England one of our commonest and
 prettiest insects is still called after her, but which belonged to
 Freyja, the heathen "Lady," long before the Western nations had learned
 to adore the name of the mother of Jesus. <span
-id="fr_44"></span>[1](#fn_44)
+id="fr_44"></span>[1](#fn_44.md)
 
 The reader of these Tales will meet, in that of "The Lassie and her
-Godmother," [p. 188](ptn36.htm#page_188), with the Virgin Mary in a
+Godmother," [p. 188](ptn36.htm#page_188.md), with the Virgin Mary in a
 truly mythic character, as the majestic guardian of sun, moon, and
 stars, combined with, that of a helpful, kindly woman, who, while she
 knows how to punish a fault, knows also how to reconcile and forgive.
@@ -147,7 +147,7 @@ our desires. From this original abstract meaning it was but a step to
 pass to the concrete, to personify the idea, to make it an immortal
 essence, an attribute of the divinity, another name for the greatest of
 all Gods himself. And so we find a host of passages in early
-writers, <span id="fr_45"></span>[1](#fn_45) in every one of which "God"
+writers, <span id="fr_45"></span>[1](#fn_45.md) in every one of which "God"
 or "Odin" might be substituted for "Wish" with perfect propriety. Here
 we read how "The Wish" has hands, feet, power, sight, toil, and art. How
 he works and labours, shapes and masters, inclines his ear, thinks,
@@ -193,7 +193,7 @@ may find room on board her; and as soon as the sail is set, she has a
 fair wind whither she shall go; and when there is no need of faring on
 the sea in her, she is made of so many things, and with so much craft,
 that Freyr may fold her to-ether like a cloth, and keep her in his
-bag" <span id="fr_46"></span>[1](#fn_46)
+bag" <span id="fr_46"></span>[1](#fn_46.md)
 
 <span id="page_cxv">p. cxv</span>
 
@@ -209,7 +209,7 @@ choice-bairns and wishing-things we can find in these Tales, faint
 echoes of a mighty heathen voice, which once proclaimed the goodness of
 the great Father in the blessings which he bestowed on his chosen sons.
 We shall not have long to seek. In tale No. xx., [p.
-131](ptn30.htm#page_131), when Shortshanks meets those three old
+131](ptn30.htm#page_131.md), when Shortshanks meets those three old
 crookbacked hags who have only one eye, which he snaps up, and gets
 first a sword "that puts a whole army to flight, be it ever so great."
 We have the "one-eyed Odin," degenerated into an old hag, or rather—by
@@ -219,7 +219,7 @@ wondrous ship "which can sail over fresh water and salt water, and over
 high hills and deep dales," and which is so small that he can put it
 into his pocket, and yet, when he came to use it, could hold five
 hundred men, we have plainly the Skithblathnir of the Edda to the very
-life. So also in "The Best Wish," [p. 252](ptn46.htm#page_252), the
+life. So also in "The Best Wish," [p. 252](ptn46.htm#page_252.md), the
 whole groundwork of this story rests on this old belief; and when we
 meet that pair of old scissors which cuts all manner of fine clothes out
 of the air, that tablecloth which covers itself with the best dishes you
@@ -232,21 +232,21 @@ wine, we have plainly another form of Frodi's wishing-quern,—another
 recollection of those things of choice about which the old mythology has
 so much to tell. Of the same kind are the tablecloth, the ram, and the
 stick in "The Lad who went to the North Wind," [p.
-228](ptn43.htm#page_228), and the rings in "The Three Princesses of
-White land," [p. 181](ptn36.htm#page_181), and in "Soria Moria Castle,"
-[p. 396](ptn66.htm#page_396). In the first of those stories, too, we
+228](ptn43.htm#page_228.md), and the rings in "The Three Princesses of
+White land," [p. 181](ptn36.htm#page_181.md), and in "Soria Moria Castle,"
+[p. 396](ptn66.htm#page_396.md). In the first of those stories, too, we
 find those "three brothers" who have stood on a moor "these hundred
 years fighting about a hat, a cloak, and a pair of boots," which had the
 virtue of making him who wore them invisible; choice things which will
 again remind the reader of the *Nibelungen Lied*, of the way in which
 Siegfried became possessed of the famous hoard of gold, and how he got
 that "cap of darkness" which was so useful to him in his remaining
-exploits. So again in "The Blue Belt," [p. 155](ptn32.htm#page_155),
+exploits. So again in "The Blue Belt," [p. 155](ptn32.htm#page_155.md),
 what is that belt which, when the boy girded it on, "he fell as strong
 as if he could lift the whole hill," but Thor's "choice-belt;" and what
 is the daring boy himself, who overcomes the Troll, but Thor himself, as
 engaged in one of his adventures with the Giants? So, too, in "Little
-Annie the Goose-girl," [p. 414](ptn68.htm#page_414), the stone which
+Annie the Goose-girl," [p. 414](ptn68.htm#page_414.md), the stone which
 tells the Prince all the secrets of his brides is plainly the old
 Oskastein, or "wishing-stone." These instances will suffice to shew the
 prolonged faith in "Wish," and his choice things; a belief which, though
@@ -264,7 +264,7 @@ her ear; in the Sampo of the Finns; and in all those stories of cups,
 and glasses, and horns, and rings, and swords, seized by some hold
 spirit in the midst of a fairy revel, or earned by some kind deed
 rendered by mortal hand to one of the" good folk" in her hour of need,
-and with which the "luck" <span id="fr_47"></span>[1](#fn_47) of that
+and with which the "luck" <span id="fr_47"></span>[1](#fn_47.md) of that
 mortal's house was ever afterwards bound up; stories with which the
 local traditions of all lands are full, but which all pay unconscious
 homage to the worship of that great God, to whom so many heathen hearts
@@ -290,7 +290,7 @@ Norseman could tell of in his mythic Frodi's reign, when gold or
 *Frodi's meal*, as it was called, was so plentiful that golden armlets
 lay untouched from year's end to year's end on the king's highway, and
 the fields bore crops unsown. Here, in England, the Anglo-Saxon
-Bede <span id="fr_48"></span>[1](#fn_48) knew how to tell the same story
+Bede <span id="fr_48"></span>[1](#fn_48.md) knew how to tell the same story
 of Edwin, the Northumbrian king, and when Alfred came to be mythic, the
 same legend was passed on from Edwin to the West Saxon monarch. The
 remembrance of "the bountiful Frodi" echoed in the songs of German poets
@@ -320,9 +320,9 @@ the high seas he bade them grind salt. So they ground; and at midnight
 they asked if he had not salt enough, but he bade them still grind on.
 So they ground till the ship was full and sank, Mysing, maids, and mill,
 and all, and that's why the sea is salt. <span
-id="fr_49"></span>[1](#fn_49) Perhaps of all the tales in this volume,
+id="fr_49"></span>[1](#fn_49.md) Perhaps of all the tales in this volume,
 none could be selected as better proving the toughness of a traditional
-belief than No. ii., [p. 8](ptn12.htm#page_8), which tells "Why the Sea
+belief than No. ii., [p. 8](ptn12.htm#page_8.md), which tells "Why the Sea
 is Salt."
 
 The notion of the Arch-enemy of God and man, of a fallen angel, to whom
@@ -336,7 +336,7 @@ to prepare the soil at first for its reception. To the notion of good
 necessarily follows that of evil. The Eastern mind, with its Ormuzd and
 Ahriman, is full of such dualism, and from that hour, when a more than
 mortal eye saw Satan falling like lightning from heaven, <span
-id="fr_50"></span>[2](#fn_50) the kingdom of darkness, the abode of
+id="fr_50"></span>[2](#fn_50.md) the kingdom of darkness, the abode of
 Satan and his bad spirits, was
 
 <span id="page_cxx">p. cxx</span>
@@ -355,7 +355,7 @@ place, she received the souls of all who died of sickness or old age;
 care was her bed, hunger her dish, starvation her knife. Her walls were
 high and strong, and her bolts and bars huge; "Half blue was her skin,
 and half the colour of human flesh. A goddess easy to know, and in all
-things very stern and grim." <span id="fr_51"></span>[1](#fn_51) But
+things very stern and grim." <span id="fr_51"></span>[1](#fn_51.md) But
 though severe, she was not an evil spirit. She only received those who
 died as no Norseman wished to die. For those who fell on the gory
 battle-field, or sank beneath the waves, Valhalla was prepared, and
@@ -389,7 +389,7 @@ teaching, the Norse peasant, in his popular tales, can still tell of
 Hell as a place where firewood is wanted at Christmas, and over which a
 certain air of comfort breathes, though, as in the Goddess Hel's halls,
 meat is scarce. The following passage from "Why the Sea is Salt," [p.
-8](ptn12.htm#page_8), will sufficiently prove this:—
+8](ptn12.htm#page_8.md), will sufficiently prove this:—
 
 "Well, here is the flitch," said the rich brother, "and now go straight
 to Hell."
@@ -421,7 +421,7 @@ how to handle the quern, for it's good to grind almost anything."
 
 This, too, is the proper place to explain the conclusion of that
 intensely heathen tale, "The Master-Smith," [p.
-105](ptn25.htm#page_105). We have already seen how the Saviour and St.
+105](ptn25.htm#page_105.md). We have already seen how the Saviour and St.
 Peter supply, in its beginning, the place of Odin and some other heathen
 god. But when the Smith sets out with the feeling that he has done a
 silly thing, in quarrelling with the Devil, having already lost his hope
@@ -435,7 +435,7 @@ though she ruled over nine worlds, and though her walls were high,
 <span id="page_cxxiii">p. cxxiii</span>
 
 and her bolts and bars huge; traits which come out in "The
-Master-Smith," [p. 105](ptn25.htm#page_105), when the Devil, who here
+Master-Smith," [p. 105](ptn25.htm#page_105.md), when the Devil, who here
 assumes Hel's place, orders the watch to go back and lock up *all the
 nine locks on the gates of Hell*—a lock for each of the goddesses'
 *nine* worlds—and to put a padlock on besides. In the twilight between
@@ -447,7 +447,7 @@ ill to the ruler of one, and actually quarrelled with the master of the
 other, the Smith was naturally anxious on the matter. This notion of
 different abodes in another world, not necessarily places of torment,
 comes out too in "Not a Pin to choose between them," [p.
-173](ptn34.htm#page_173). where Peter, the second husband of the silly
+173](ptn34.htm#page_173.md). where Peter, the second husband of the silly
 Goody, goes about begging from house to house in Paradise.
 
 For the rest, whenever the Devil appears in these tales, it is not at
@@ -478,7 +478,7 @@ passages which ascribe majesty and power to beings of woman's sex. Now
 it is a heathen goddess as *Diana*; now some half-historical character
 as *Bertha*; now a mythical being as *Holda*; now *Herodias*; now
 *Satia*; now *Domina Abundia*, or *Dame Habonde*. <span
-id="fr_52"></span>[1](#fn_52) A very short investigation will serve
+id="fr_52"></span>[1](#fn_52.md) A very short investigation will serve
 
 <span id="page_cxxv">p. cxxv</span>
 
@@ -513,7 +513,7 @@ dwellers in towns,
 
 <span id="page_cxxvii">p. cxxvii</span>
 
-still remained more or less heathen, <span id="fr_53"></span>[1](#fn_53)
+still remained more or less heathen, <span id="fr_53"></span>[1](#fn_53.md)
 and to this day they preserve unconsciously many superstitions which can
 be traced up in lineal descent to their old belief. In many ways does
 the old divinity peep out under the new superstition—the long train, the
@@ -528,14 +528,14 @@ Asynjor. She has that bower in heaven hight Fólkvángr, and whithersoever
 she rideth to the battle, then hath she one-half of the slain, but Odin
 the other half." Again "when she fares abroad, she drives two cats and
 sits in a car, and she lends an easy ear to the prayers of men." <span
-id="fr_54"></span>[2](#fn_54)
+id="fr_54"></span>[2](#fn_54.md)
 
 We have got then the ancient goddesses identified as evil influences,
 and as the leader of a midnight band of women, who practised secret and
 unholy rites. This leads us at once to witchcraft. In all ages and in
 all races this belief in sorcery has existed. Men and women practised it
 alike, but in all times female sorcerers have predominated. <span
-id="fr_55"></span>[3](#fn_55) This was natural enough. In those days
+id="fr_55"></span>[3](#fn_55.md) This was natural enough. In those days
 women
 
 <span id="page_cxxviii">p. cxxviii</span>
@@ -592,7 +592,7 @@ the priest took her into the chancel of the church, locked the door, and
 gave her a sound thrashing with the pastoral staff, calling out, "Out
 with you, lady witch." But as she could not, he sent her home, saying,
 "See now how foolish you are to believe in such empty dreams." <span
-id="fr_56"></span>[1](#fn_56) But as the Church
+id="fr_56"></span>[1](#fn_56.md) But as the Church
 
 <span id="page_cxxx">p. cxxx</span>
 
@@ -616,7 +616,7 @@ ancient goddess. Now we hear stories of demoniac possession; now the
 witches adore a demon of the other sex. With the male element, and its
 harsher, sterner nature, the sinfulness of these unholy assemblies is
 infinitely increased; folly becomes guilt, and guilt crime. <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 <span id="page_cxxxi">p. cxxxi</span>
 
@@ -642,7 +642,7 @@ fields were "black" to harvest, than in those very reformed communities
 which had just shaken off the yoke of Rome, and which had sprung in many
 cases from the very heretics whom she had persecuted and burnt, accusing
 them, at the same time, of the most malignant sorceries. <span
-id="fr_58"></span>[1](#fn_58) Their excuse is, that no
+id="fr_58"></span>[1](#fn_58.md) Their excuse is, that no
 
 <span id="page_cxxxiii">p. cxxxiii</span>
 
@@ -665,7 +665,7 @@ prominence given in it to a man, may find it in the trial of Dr. Fian,
 the Scotch wizard, "which Doctor was register to the devill, that
 sundrie times preached at North Baricke (North Berwick, in East Lothian)
 Kirke to a number of notorious Witches." <span
-id="fr_59"></span>[1](#fn_59) But
+id="fr_59"></span>[1](#fn_59.md) But
 
 <span id="page_cxxxiv">p. cxxxiv</span>
 
@@ -674,7 +674,7 @@ prepared to meet with the most unutterable accusations and crimes, the
 most cruel tortures, and the most absurd confessions, followed as usual
 by the stoutest denial of all that had been confessed; when torture had
 done her worst on poor human nature, and the soul reasserted at the last
-her supremacy over the body. <span id="fr_60"></span>[1](#fn_60) One
+her supremacy over the body. <span id="fr_60"></span>[1](#fn_60.md) One
 
 <span id="page_cxxxv">p. cxxxv</span>
 
@@ -720,19 +720,19 @@ the processes of the fifteenth and sixteenth centuries, which were far
 more a craze and mania of the educated classes acting under a mistaken
 religious fanaticism against popular superstitions than a movement
 arising from the mass of the community. Still, in the Mastermaid, [p.
-71](ptn21.htm#page_71), the witch of a sister-in-law, who had rolled the
+71](ptn21.htm#page_71.md), the witch of a sister-in-law, who had rolled the
 apple over to the Prince, and so charmed him, was torn to pieces between
 twenty-four horses. The old queen in "The Lassie and her Godmother," [p.
-188](ptn36.htm#page_188), tries to persuade her son to have the young
+188](ptn36.htm#page_188.md), tries to persuade her son to have the young
 queen burnt alive for a wicked witch, who was dumb, and had eaten her
 own babes. In "East o' the Sun and West o' the Moon," [p.
-22](ptn13.htm#page_22), it is a wicked stepmother who has bewitched the
-prince. In "Bushy Bride," [p. 322](ptn54.htm#page_322), the ugly bride
+22](ptn13.htm#page_22.md), it is a wicked stepmother who has bewitched the
+prince. In "Bushy Bride," [p. 322](ptn54.htm#page_322.md), the ugly bride
 charms the king to sleep, and is at last thrown, with her wicked mother,
 into a pit full of snakes. In "The Twelve Wild Ducks," [p.
-51](ptn18.htm#page_51), the wicked stepmother persuades the king that
+51](ptn18.htm#page_51.md), the wicked stepmother persuades the king that
 Snow-white and Rosy-red is a witch, and almost persuades him to burn her
-alive. In "Tatterhood," [p. 345](ptn57.htm#page_345), a whole troop of
+alive. In "Tatterhood," [p. 345](ptn57.htm#page_345.md), a whole troop of
 witches come to keep their revels on Christmas eve in the Queen's
 Palace, and snap off the young Princess's head. It is hard, indeed, in
 tales where Trolls play so great a part, to keep witch and Troll
@@ -750,7 +750,7 @@ closer resemblances, just as Athene appears in the
 
 <span class="contnote">\[paragraph continues\]</span> *Odyssey* as an
 eagle or a swallow perched on the roof of the hall, <span
-id="fr_61"></span>[1](#fn_61) so Odin flies off as a falcon, and Loki
+id="fr_61"></span>[1](#fn_61.md) so Odin flies off as a falcon, and Loki
 takes the form of a horse or bird. This was only part of that
 omnipotence which all gods enjoy. But the belief that men, under certain
 conditions, could also take the shape of animals, is primeval, and the
@@ -761,7 +761,7 @@ them, once in the year, became a wolf for a few days, and then returned
 to his natural shape. Pliny, Pomponius Mela, and St. Augustin, in his
 great treatise, *De Civitate Dei*, tell the same story, and Virgil in
 his *Eclogues* has sung the same belief. <span
-id="fr_62"></span>[2](#fn_62) The Latins called such a man a
+id="fr_62"></span>[2](#fn_62.md) The Latins called such a man a
 *turnskin*,—*versipellis*, an expression which exactly agrees with the
 Icelandic expression for the same thing, and which is probably the true
 original of our *turncoat*. In Petronius the superstition appears in its
@@ -799,7 +799,7 @@ into stone, I could find nothing except blood. But when I got home, I
 found my friend the soldier in bed, bleeding at the neck like an ox, and
 a doctor dressing his wound. I then knew he was a turnskin; nor would I
 ever have broke bread with him again; no, not if you had killed
-me." <span id="fr_63"></span>[1](#fn_63)
+me." <span id="fr_63"></span>[1](#fn_63.md)
 
 <span id="page_cxli">p. cxli</span>
 
@@ -813,14 +813,14 @@ which we have an example in *lukewarm*. In Brittany he was *bleizgarou*
 and *denvleiz*, formed respectively from *bleiz*, wolf, and *den*, man;
 *garou* is merely a distorted form of *wer* or *vere*, man and *loup*.
 In later French the word became *waroul*, whence the Scotch *wroul*,
-*wurl*, and *worlin*. <span id="fr_64"></span>[1](#fn_64)
+*wurl*, and *worlin*. <span id="fr_64"></span>[1](#fn_64.md)
 
 It was not likely that a belief so widely spread should not have
 extended itself to the North; and the grave assertions of Olaus Magnus
 in the sixteenth century, in his *Treatise de Gentibus
 Septentrionalibus*, shew how common the belief in were-wolves was in
 Sweden so late as the time of Gustavus Vasa. In mythical times the
-Volsunga Saga <span id="fr_65"></span>[2](#fn_65) expressly states of
+Volsunga Saga <span id="fr_65"></span>[2](#fn_65.md) expressly states of
 Sigmund and Sinfjötli that they became were-wolves,—which, we may
 remark, were Odin's sacred beasts,—just in the same way as Brynhildr and
 the Valkyries, or corse-choosers, who followed the
@@ -848,7 +848,7 @@ treated William.
 But the favourite beast for Norse transformations in historic times, if
 we may judge from the evidence afforded by the Sagas, was the bear, the
 king of all their beasts, whose strength and sagacity made him an object
-of great respect. <span id="fr_66"></span>[1](#fn_66)
+of great respect. <span id="fr_66"></span>[1](#fn_66.md)
 
 This old belief, then, might be expected to be found in these Norse
 Tales, and accordingly we find men formed in them into various beasts.
@@ -868,7 +868,7 @@ bear, in the parish of Oföden, after he had worried to death more than
 sixty horses and six men, it is said that a girdle of bearskin, the
 infallible mark of a man thus transformed, was found when he was at last
 tracked and slain. The tale called "Farmer Weathersky," in this
-collection ([p. 285](ptn50.htm#page_285)), shews that the belief of
+collection ([p. 285](ptn50.htm#page_285).md), shews that the belief of
 these spontaneous transformations still exists in popular tradition,
 where it is easy to see that Farmer Weathersky is only one of the
 ancient gods degraded into a demon's shape. His sudden departure through
@@ -884,16 +884,16 @@ Thus the White Bear in the beautiful story of "East o' the Sun and West
 
 <span id="page_cxliv">p. cxliv</span>
 
-o' the Moon," [p. 22](ptn13.htm#page_22), is a Prince transformed by his
+o' the Moon," [p. 22](ptn13.htm#page_22.md), is a Prince transformed by his
 stepmother, just as it is the stepmother who plays the same part in the
 romance of William and the Were-wolf. So the horse in "The Widow's Son,"
-[p. 311](ptn53.htm#page_311), is a Prince over whom a king has cast that
-shape. <span id="fr_67"></span>[1](#fn_67) So also in "Lord Peter," [p.
-295](ptn51.htm#page_295), which is the full story of what we have only
+[p. 311](ptn53.htm#page_311.md), is a Prince over whom a king has cast that
+shape. <span id="fr_67"></span>[1](#fn_67.md) So also in "Lord Peter," [p.
+295](ptn51.htm#page_295.md), which is the full story of what we have only
 hitherto known in part as "Puss in Boots," the cat is a Princess
 bewitched by the Troll who had robbed her of her lands; so also in "The
-Seven Foals," [p. 302](ptn52.htm#page_302), and "The Twelve Wild Ducks,"
-[p. 51](ptn18.htm#page_51), the Foals and the Ducks are Princes over
+Seven Foals," [p. 302](ptn52.htm#page_302.md), and "The Twelve Wild Ducks,"
+[p. 51](ptn18.htm#page_51.md), the Foals and the Ducks are Princes over
 whom that fate has come by the power of a witch or a Troll, to whom an
 unwary promise had been given. Thoroughly mythic is the trait in "The
 Twelve Wild Ducks," where the youngest brother reappears with a wild
@@ -923,7 +923,7 @@ that deep love of nature and close observation of the habits of animals
 which is only possible in an early and simple stage of society. It used
 to be the fashion, when these Beast traditions were noticed, to point to
 Æsop as their original, but Grimm has sufficiently proved <span
-id="fr_68"></span>[1](#fn_68) that what we see in Æsop is only the
+id="fr_68"></span>[1](#fn_68.md) that what we see in Æsop is only the
 remains of a great world-old cycle of such traditions which had already,
 in Æsop's day, been subjected by the Greek mind to that critical process
 which a late state of society brings to bear on popular traditions; that
@@ -974,16 +974,16 @@ sense went for so much and reflection for so little, that beasts should
 talk; and how truly and faithfully it has listened and looked for the
 accents and character of each. The Bear is still the King of Beasts, in
 which character he appears in "True and Untrue," [p.
-1](ptn11.htm#page_1), but here, as in Germany, he is no match for the
+1](ptn11.htm#page_1.md), but here, as in Germany, he is no match for the
 Fox in wit. Thus Reynard plays him a trick which condemns him for ever
-to a stumpy tail in No. XXIII. ([p. 172](ptn33.htm#page_172)). He cheats
+to a stumpy tail in No. XXIII. ([p. 172](ptn33.htm#page_172).md). He cheats
 him out of his share of a firkin of butter in No. LVII. ([p.
-409](ptn66.htm#page_409)). He, is preferred as Herdsman, in No. X. ([p.
-69](ptn20.htm#page_69)), before either Bear or Wolf, by the old wife who
+409](ptn66.htm#page_409).md). He, is preferred as Herdsman, in No. X. ([p.
+69](ptn20.htm#page_69).md), before either Bear or Wolf, by the old wife who
 wants some one to tend her flock. Yet all the while he professes immense
 respect for the Bear, and calls him "Lord," even when in the very act of
 outwitting him. In the tale called "Well Done and Ill Paid," [p.
-266](ptn48.htm#page_266), the crafty fox puts a finish to his
+266](ptn48.htm#page_266.md), the crafty fox puts a finish to his
 misbehaviour to his "Lord Bruin," by handing him over, bound hand and
 foot, to the peasant, and by causing his death outright. Here, too, we
 have an example, which we shall see repeated in the case of the giants,
@@ -992,9 +992,9 @@ never fail to carry the day against mere brute force. Another tale,
 however, restores the bear to his true place as the king of beasts,
 endowed not only with strength, but with something divine and terrible
 about him which the Trolls cannot withstand. This is "The Cat on the
-Dovrefell," [p. 90](ptn21.htm#page_90), in connection with which it
+Dovrefell," [p. 90](ptn21.htm#page_90.md), in connection with which it
 should be remembered that the same tradition existed in the thirteenth
-century in Germany, <span id="fr_69"></span>[1](#fn_69) that the bear is
+century in Germany, <span id="fr_69"></span>[1](#fn_69.md) that the bear is
 called familiarly grandfather in the North, and that the Lapps reckon
 him
 
@@ -1004,22 +1004,22 @@ rather as akin to men than beasts; that they say he has the strength of
 ten and the wit of twelve men. If they slay him, they formally beg his
 pardon, as do also the Ostjaks, a tribe akin to the Lapps, and bring him
 to their huts with great formalities and mystic songs. To the Wolf,
-whose nickname is "Graylegs," <span id="fr_70"></span>[1](#fn_70) these
+whose nickname is "Graylegs," <span id="fr_70"></span>[1](#fn_70.md) these
 Tales are more complimentary. He is not the spiteful, stupid, greedy
 Isengrim of Germany and France. Not that Isengrim, of whom old English
 fables of the thirteenth century tell us that he became a monk, but when
 the brethren wished to teach him his letters that he might learn the
 Paternoster, all they could get out of him was *lamb*, *lamb*; nor could
 they ever get him to look to the cross, for his eyes, with his thoughts,
-"were ever to the woodward." <span id="fr_71"></span>[2](#fn_71) He
+"were ever to the woodward." <span id="fr_71"></span>[2](#fn_71.md) He
 appears, on the contrary, in "The Giant who had no Heart in his Body,"
-[p. 59](ptn18.htm#page_59), as a kindly, grateful beast, who repays
+[p. 59](ptn18.htm#page_59.md), as a kindly, grateful beast, who repays
 tenfold out of the hidden store of his supernatural sagacity the gift of
 the old jade, which Boots had made over to him.
 
 The horse was a sacred animal among the Teutonic tribes from the first
 moment of their appearance in history, and Tacitus <span
-id="fr_72"></span>[3](#fn_72) has related, how in the shade of those
+id="fr_72"></span>[3](#fn_72.md) has related, how in the shade of those
 woods and groves which served them for temples, white horses were fed at
 the public cost, whose backs no mortal man crossed, whose neighings and
 snortings were carefully watched as auguries and omens, and who were
@@ -1037,13 +1037,13 @@ reminded of the sacredness of the horse to our forefathers. The Eddas
 are filled with the names of famous horses, and the Sagas contain many
 stories of good steeds, in whom their owners trusted and believed as
 sacred to this or that particular god. Such a horse is Dapplegrim in
-these Tales ([p. 272](ptn49.htm#page_272)), who saves his master out of
+these Tales ([p. 272](ptn49.htm#page_272).md), who saves his master out of
 all his perils, and brings him to all fortune, and is another example of
 that mysterious connection with the higher powers which animals in all
 ages have been supposed to possess.
 
 Such a friend, too, to the helpless lassie is the Dun Bull in "Katie
-Woodencloak," [p. 357](ptn60.htm#page_357), out of whose ear comes the
+Woodencloak," [p. 357](ptn60.htm#page_357.md), out of whose ear comes the
 "Wishing Cloth," which serves up the choicest dishes. The story is
 probably imperfect, as we should expect to see him again in human shape
 after his head was cut off, and his skin flayed; but, after being the
@@ -1064,24 +1064,24 @@ remind our readers of the sanctity of cows and bulls among the Indians
 and Egyptians, of "the Golden Calf" in the Bible; of Io and her
 wanderings from land to land; and, though last, not least, of Audhumla,
 the Mythic Cow in the Edda, who had so large a part in the creation of
-the first Giant in human form. <span id="fr_73"></span>[1](#fn_73)
+the first Giant in human form. <span id="fr_73"></span>[1](#fn_73.md)
 
 The Dog, to which, with all his sagacity and faithfulness, something
 unclean and impure clings, as Grimm well observes, plays no very
-prominent part in these Tales. <span id="fr_74"></span>[2](#fn_74)
+prominent part in these Tales. <span id="fr_74"></span>[2](#fn_74.md)
 
 <span id="page_cli">p. cli</span>
 
 <span class="contnote">\[paragraph continues\]</span> We find him,
 however, in "Not a Pin to choose between them," [p.
-173](ptn34.htm#page_173), where his sagacity fails to detect his
+173](ptn34.htm#page_173.md), where his sagacity fails to detect his
 mistress; and, as "the foe of his own house," the half-bred foxy hound,
 who chases away the cunning Fox in "Well Done and Ill Paid," [p.
-266](ptn48.htm#page_266). Still he, too, in popular superstition, is
+266](ptn48.htm#page_266.md). Still he, too, in popular superstition, is
 gifted with a sense of the supernatural; he howls when death impends,
-and in "Buttercup," [p. 124](ptn27.htm#page_124), it is Goldtooth, their
+and in "Buttercup," [p. 124](ptn27.htm#page_124.md), it is Goldtooth, their
 dog, who warns Buttercup and his mother of the approach of the old hag.
-In "Bushy Bride," [p. 322](ptn54.htm#page_322), he appears only as the
+In "Bushy Bride," [p. 322](ptn54.htm#page_322.md), he appears only as the
 lassie's lap-dog, is thrown away as one of her sacrifices, and at last
 goes to the wedding in her coach; yet in that tale he has something
 weird about him, and he is sent out by his mistress three times to see
@@ -1089,17 +1089,17 @@ if the dawn is coming.
 
 <span id="page_clii">p. clii</span>
 
-In one tale ([p. 264](ptn47.htm#page_264)) the Goat appears in full
+In one tale ([p. 264](ptn47.htm#page_264).md) the Goat appears in full
 force, and dashes out the brains of the Troll, who lived under the
 bridge over the burn. In another, "Tatterhood," [p.
-345](ptn57.htm#page_345), he helps the lassie in her onslaught on the
+345](ptn57.htm#page_345.md), he helps the lassie in her onslaught on the
 witches. He, too, was sacred to Thor in the old mythology, and drew his
 thundering car. Here something of the divine nature of his former lord,
 who was the great foe of all Trolls, seems to have been passed on in
 popular tradition to the animal who had seen so many adventures with the
 great God who swayed the thunder. This feud between the Goat and the
 Trolls comes out curiously in "The Old Dame and her Hen," [p.
-14](ptn13.htm#page_14), where a goat falls down the trapdoor to the
+14](ptn13.htm#page_14.md), where a goat falls down the trapdoor to the
 Troll's house: "Who sent for you, I should like to know, you
 lone-bearded beast?" said the Man o' the Hill, who was in an awful rage;
 and with that he whipped up the Goat, wrung his head off, and threw him
@@ -1109,8 +1109,8 @@ even takes his shape when he presides at the Witches' Sabbath.
 
 Nor in this list must the little birds be forgotten which taught the
 man's daughter, in the tale of "The Two Step-sisters," [p.
-113](ptn26.htm#page_113), how to act in her trials. So, too, in "Katie
-Woodencloak," [p. 357](ptn60.htm#page_357), the little bird tells the
+113](ptn26.htm#page_113.md), how to act in her trials. So, too, in "Katie
+Woodencloak," [p. 357](ptn60.htm#page_357.md), the little bird tells the
 Prince, "who understood the song of birds very well," that blood is
 gushing out of the golden shoe. The belief that some persons had the
 gift of understanding what the birds said is primeval. We pay homage to
@@ -1131,7 +1131,7 @@ We now come to a class of beings which plays a large part, and always
 for ill, in these Tales. These are the Giants or Trolls. In modern Norse
 tradition there is little difference between the names, but originally
 Troll was a more general expression for a supernatural being than
-Giant, <span id="fr_75"></span>[1](#fn_75) which was rather confined to
+Giant, <span id="fr_75"></span>[1](#fn_75.md) which was rather confined to
 a race more dull than wicked. In the Giants we have the wantonness of
 boundless bodily strength and size, which, trusting entirely to these
 qualities, falls at last by its own weight. At first, it is true, that
@@ -1155,7 +1155,7 @@ but rouse it, and its exuberant strength rises in a paroxysm of rage,
 though its clumsy awkward blows, guided by mere cunning, fail to strike
 the slight and lissom foe who waits for and eludes the stroke, until his
 reason gives him the mastery over sheer brute force which has wearied
-itself out by its own exertions. <span id="fr_76"></span>[1](#fn_76)
+itself out by its own exertions. <span id="fr_76"></span>[1](#fn_76.md)
 
 This race, and that of the upstart Æsir, though almost always at feud,
 still had their intervals of common intercourse, and even social
@@ -1187,27 +1187,27 @@ confused and garbled; and all supernatural agency that plots man's ill
 is the work of *Trolls*, whether the agent be the arch-enemy himself, or
 giant, or witch, or wizard.
 
-In tales such as "The Old Dame and her Hen," [p. 14](ptn13.htm#page_14),
-"The Giant who had no Heart in his Body," [p. 59](ptn18.htm#page_59),
-"Shortshanks," [p. 131](ptn30.htm#page_131), "Boots and the Troll," [p.
-215](ptn42.htm#page_215), "Boots who ate a Match with the Troll," [p.
-36](ptn15.htm#page_36), the easy temper of the old Frost Giants
+In tales such as "The Old Dame and her Hen," [p. 14](ptn13.htm#page_14.md),
+"The Giant who had no Heart in his Body," [p. 59](ptn18.htm#page_59.md),
+"Shortshanks," [p. 131](ptn30.htm#page_131.md), "Boots and the Troll," [p.
+215](ptn42.htm#page_215.md), "Boots who ate a Match with the Troll," [p.
+36](ptn15.htm#page_36.md), the easy temper of the old Frost Giants
 predominates, and we almost pity them as we read. In another, "The Big
-Bird Dan," [p. 382](ptn64.htm#page_382), we have a Troll Prince, who
+Bird Dan," [p. 382](ptn64.htm#page_382.md), we have a Troll Prince, who
 appears as a generous benefactor to the young Prince, and lends him a
 sword by help of which he slays the King of the Trolls, just as we
 sometimes find in the Edda friendly meetings between the Æsir and this
-or that Frost Giant. In "Tatterhood," [p. 345](ptn57.htm#page_345), the
+or that Frost Giant. In "Tatterhood," [p. 345](ptn57.htm#page_345.md), the
 Trolls are very near akin to the witches of the Middle Age. In other
 tales,
 
 <span id="page_clvi">p. clvi</span>
 
-as "The Mastermaid," [p. 71](ptn21.htm#page_71), "The Blue Belt," [p.
-155](ptn32.htm#page_155), "Farmer Weathersky," [p.
-285](ptn50.htm#page_285), a sort of settled malignity against man
+as "The Mastermaid," [p. 71](ptn21.htm#page_71.md), "The Blue Belt," [p.
+155](ptn32.htm#page_155.md), "Farmer Weathersky," [p.
+285](ptn50.htm#page_285.md), a sort of settled malignity against man
 appears as the direct working and result of a bad and evil spirit. In
-"Buttercup," [p. 124](ptn27.htm#page_124), and "The Cat on the
+"Buttercup," [p. 124](ptn27.htm#page_124.md), and "The Cat on the
 Dovrefell," we have the Troll proper,—the supernatural dwellers of the
 woods and hills, who go to church, and eat men, and porridge, and
 sausages indifferently, not from malignity, but because they know no
@@ -1223,8 +1223,8 @@ stride off into the dark forest by day, whither no rays of the sun can
 pierce; they return home at nightfall, feast themselves full, and snore
 out the night. One thing was fatal to them: the sight of the sun. If
 they looked him full in the face, his glory was too great for them, and
-they burst, as in "Lord Peter," [p. 295](ptn51.htm#page_295), and in
-"The Old Dame and her Hen," [p. 14](ptn13.htm#page_14). This, too, is a
+they burst, as in "Lord Peter," [p. 295](ptn51.htm#page_295.md), and in
+"The Old Dame and her Hen," [p. 14](ptn13.htm#page_14.md). This, too, is a
 deeply mythic trait. The old religion of the North was a bright and
 lively faith; it lived in the light of joy and gladness; its gods were
 the "blithe powers"; opposed to them were the dark powers of mist and
@@ -1267,13 +1267,13 @@ they walked. "These are the earthworms that will one day eat us up,
 brother," answered the other; and soon both Giants left that part of
 Germany. Nor does this trait appear less strongly in these Norse Tales.
 The Giants or Trolls can neither brew nor wash properly, as we see in
-"Shortshanks," [p. 131](ptn30.htm#page_131), where the Ogre has to get
+"Shortshanks," [p. 131](ptn30.htm#page_131.md), where the Ogre has to get
 Shortshanks to brew his ale for him; and in "East o' the Sun and West o'
-the Moon," [p. 22](ptn13.htm#page_22), where none of the Trolls are able
+the Moon," [p. 22](ptn13.htm#page_22.md), where none of the Trolls are able
 to wash out the spot of tallow. So also in the "Two Step-sisters," [p.
-113](ptn26.htm#page_113), the old witch is forced to get human maids to
+113](ptn26.htm#page_113.md), the old witch is forced to get human maids to
 do her household work; and, lastly, the best example of all, in "Lord
-Peter," [p. 295](ptn51.htm#page_295), where agriculture is plainly a
+Peter," [p. 295](ptn51.htm#page_295.md), where agriculture is plainly a
 secret of mankind, which the Giants were eager to learn, but which was a
 branch of knowledge beyond their power to attain.
 
@@ -1299,7 +1299,7 @@ brothers had strength to blow. All
 he asks is that she won't be afraid, and then he takes a good rest, and
 puffs himself up with as much breath as ever he can hold, begins to blow
 a storm, and off they go. So, too, in "The Lad who went to the North
-Wind," [p. 228](ptn43.htm#page_228), though he can't restore the meal he
+Wind," [p. 228](ptn43.htm#page_228.md), though he can't restore the meal he
 carried off, he gives the lad three things which make his fortune, and
 amply repay him. He, too, like the Grecian Boreas, is divine, and
 lineally descended from Hræsvelgr, that great giant in the Edda, who
@@ -1321,7 +1321,7 @@ But, in truth, no such positive evidence is needed. Any one who has read
 the Volsung tale as we have given it, will be at no loss to see where
 the "little birds" who speak to the Prince and the lassie, or the "pit
 of snakes" into which folk are cast, in these tales, come from; nor when
-they read in the "Big Bird Dan," [p. 382](ptn64.htm#page_382), about
+they read in the "Big Bird Dan," [p. 382](ptn64.htm#page_382.md), about
 "the naked
 
 <span id="page_clx">p. clx</span>
@@ -1332,22 +1332,22 @@ Brynhildr when he rode through the flame and won her for Gunnar. These
 mythical deep-rooted germs, throwing out fresh shoots from age to age in
 the popular literature of the race, are far more convincing proofs of
 the early existence of these traditions than any mere external
-evidence. <span id="fr_77"></span>[1](#fn_77)
+evidence. <span id="fr_77"></span>[1](#fn_77.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_42"></span>[cix:1](ptn08.htm#fr_42) Heb. xiii. 1: "Let
+<span id="fn_42"></span>[cix:1](ptn08.htm#fr_42.md) Heb. xiii. 1: "Let
 brotherly love continue. Be not forgetful to entertain strangers: for
 thereby some have entertained angels unawares."
 
-<span id="fn_43"></span>[cx:1](ptn08.htm#fr_43) One of Odin's name, when
+<span id="fn_43"></span>[cx:1](ptn08.htm#fr_43.md) One of Odin's name, when
 on these adventures, was Gangradr, or Gangleri. Both mean "the *Ganger*,
 or wayfarer." We have the latter epithet in the "*Gangrel* carle," and
 "*Gangrel* loon," of the early Scotch ballads.
 
-<span id="fn_44"></span>[cxii:1](ptn08.htm#fr_44) So also Orion's Belt
+<span id="fn_44"></span>[cxii:1](ptn08.htm#fr_44.md) So also Orion's Belt
 was called by the Norsemen, Frigga's spindle or *rock*, *Friggjar
 rockr*. In modern Swedish, *Friggerock*, where the old goddess holds her
 own; but in Danish, *Mariæ-rock*, Our Lady's rock or spindle. Thus, too,
@@ -1358,26 +1358,26 @@ from the Christian saint, just as Orion's sword became "Peter's-staff."
 But what do "Lady Landers" and "Lady Ellison" mean, as applied to the
 "Lady-Bird" in Scotland?
 
-<span id="fn_45"></span>[cxiii:1](ptn08.htm#fr_45) *D. M.*, p. 126 fol.,
+<span id="fn_45"></span>[cxiii:1](ptn08.htm#fr_45.md) *D. M.*, p. 126 fol.,
 where they are cited at length.
 
-<span id="fn_46"></span>[cxiv:1](ptn08.htm#fr_46) Snorro's Edda,
+<span id="fn_46"></span>[cxiv:1](ptn08.htm#fr_46.md) Snorro's Edda,
 Stockholm, 1842, translated by the writer.
 
-<span id="fn_47"></span>[cxvii:1](ptn08.htm#fr_47) See the well-known
+<span id="fn_47"></span>[cxvii:1](ptn08.htm#fr_47.md) See the well-known
 story of the "Luck of Eden Hall."
 
-<span id="fn_48"></span>[cxviii:1](ptn08.htm#fr_48) Hist. ii. 16.
+<span id="fn_48"></span>[cxviii:1](ptn08.htm#fr_48.md) Hist. ii. 16.
 
-<span id="fn_49"></span>[cxix:1](ptn08.htm#fr_49) Snor. Ed. Skaldsk. ch.
+<span id="fn_49"></span>[cxix:1](ptn08.htm#fr_49.md) Snor. Ed. Skaldsk. ch.
 43.
 
-<span id="fn_50"></span>[cxix:2](ptn08.htm#fr_50) St. Luke x. 18.
+<span id="fn_50"></span>[cxix:2](ptn08.htm#fr_50.md) St. Luke x. 18.
 
-<span id="fn_51"></span>[cxx:1](ptn08.htm#fr_51) Snor. Edda, ch. 34,
+<span id="fn_51"></span>[cxx:1](ptn08.htm#fr_51.md) Snor. Edda, ch. 34,
 Engl. Transl.
 
-<span id="fn_52"></span>[cxxiv:1](ptn08.htm#fr_52) Here are a few of
+<span id="fn_52"></span>[cxxiv:1](ptn08.htm#fr_52.md) Here are a few of
 these passages which might be much extended:—Burchard of Worms, p. 194,
 a. "credidisti ut aliqua femina sit quæ hoc facere possit quod quædam a
 diabolo deceptæ se affirmant necessario et ex præcepto facere debere; id
@@ -1429,23 +1429,23 @@ And again, line 18,686—
 
  
 
-<span id="fn_53"></span>[cxxvii:1](ptn08.htm#fr_53) See the derivation
+<span id="fn_53"></span>[cxxvii:1](ptn08.htm#fr_53.md) See the derivation
 of *pagan* from 'paganus,' one who lived in the country, as opposed to
 'urbanus,' a *townsman*.
 
-<span id="fn_54"></span>[cxxvii:2](ptn08.htm#fr_54) Snorro's Edda,
+<span id="fn_54"></span>[cxxvii:2](ptn08.htm#fr_54.md) Snorro's Edda,
 Dasent's Trans. pp. 29, Stockholm 1842.
 
-<span id="fn_55"></span>[cxxvii:3](ptn08.htm#fr_55) Keisersberg Omeiss,
+<span id="fn_55"></span>[cxxvii:3](ptn08.htm#fr_55.md) Keisersberg Omeiss,
 46 b., quoted by Grimm, *D. M.*, p. 991, says—
 
 "Wen man ein man verbrent, so brent man wol zehen frauen."
 
-<span id="fn_56"></span>[cxxix:1](ptn08.htm#fr_56) See the passage from
+<span id="fn_56"></span>[cxxix:1](ptn08.htm#fr_56.md) See the passage from
 Vincent, Bellov. *Spec. Mor.* iii. 2, 27, quoted in Grimm, *D. M.*, pp.
 1012-13.
 
-<span id="fn_57"></span>[cxxx:1](ptn08.htm#fr_57) The following passage
+<span id="fn_57"></span>[cxxx:1](ptn08.htm#fr_57.md) The following passage
 from "The Fortalice of Faith" of Alphonso Spina, written about the year
 1458, will suffice to show how disgustingly the Devil, in the form of a
 goat, had supplanted the "Good Lady:"—"Quia nimium abundant tales
@@ -1471,7 +1471,7 @@ who always makes bad bargains. When the story was applied to Faust in
 the sixteenth century, the terrible Middle Age Devil was paramount, and
 knew how to exact his due.
 
-<span id="fn_58"></span>[cxxxii:1](ptn08.htm#fr_58) How strangely full
+<span id="fn_58"></span>[cxxxii:1](ptn08.htm#fr_58.md) How strangely full
 of common sense sounds the following article from the Capitularies of
 Charlemagne, De part. Sax. 5: "Si quis a diabolo deceptus crediderit
 secundum morem Paganorum, virum aliquem aut fœminam strigarn esse et
@@ -1486,7 +1486,7 @@ the absurdity of such delusions. So, too, that reasonable parish priest
 who thrashed the witch, though earlier in time, was far in advance of
 Gregory and his inquisitors, and even of our wise King James.
 
-<span id="fn_59"></span>[cxxxiii:1](ptn08.htm#fr_59) The following is
+<span id="fn_59"></span>[cxxxiii:1](ptn08.htm#fr_59.md) The following is
 the title of this strange tract,—"Newes from Scotland, declaring the
 damnable life of Doctor Fian, a notable Sorcerer, who was burned at
 Edenbrough, in Januarie last 1591, which Doctor was register to the
@@ -1501,7 +1501,7 @@ Printed for William Wright." It was reprinted in 1816 for the Roxburghe
 Club by Mr. G. H. Freeling, and is very scarce even in the reprint,
 which, all things considered, is perhaps just as well.
 
-<span id="fn_60"></span>[cxxxiv:1](ptn08.htm#fr_60) The following
+<span id="fn_60"></span>[cxxxiv:1](ptn08.htm#fr_60.md) The following
 specimens of the tortures and confessions may suffice; but most of the
 crimes and confessions are unutterable. One Geillis Duncane was tortured
 by her master David Seaton, dwelling within the town of Tranent, who,
@@ -1572,17 +1572,17 @@ significantly: "The rest of the witches which are not yet executed
 remayne in prison till further triall and knowledge of his majestie's
 pleasure."
 
-<span id="fn_61"></span>[cxxxix:1](ptn08.htm#fr_61) *Od*. iii. 372; and
+<span id="fn_61"></span>[cxxxix:1](ptn08.htm#fr_61.md) *Od*. iii. 372; and
 xxii. 239.
 
-<span id="fn_62"></span>[cxxxix:2](ptn08.htm#fr_62) Ecl. viii. 97—
+<span id="fn_62"></span>[cxxxix:2](ptn08.htm#fr_62.md) Ecl. viii. 97—
 
 "His ego sæpe lupum fieri et se condere silvis  
 Mœrim———vidi."
 
  
 
-<span id="fn_63"></span>[cxl:1](ptn08.htm#fr_63) See Grimm's *D. M.*,
+<span id="fn_63"></span>[cxl:1](ptn08.htm#fr_63.md) See Grimm's *D. M.*,
 1047 fol.; and for this translation from Petronius, a very interesting
 letter prefixed to Madden's ed. of the old English Romance of "William
 and the Werewolf," 1832, one of the Roxburghe Club Publications. This
@@ -1591,41 +1591,41 @@ Herbert of Petworth, contains all that was known on this subject before
 Grimm; but when Grimm came he was, compared with all who had treated the
 subject, as a sober man amongst drunkards.
 
-<span id="fn_64"></span>[cxli:1](ptn08.htm#fr_64) *Bisclavaret* in the
+<span id="fn_64"></span>[cxli:1](ptn08.htm#fr_64.md) *Bisclavaret* in the
 Lais of Marie de France, i. 178, seems to be a corruption of Bleizgarou,
 as the Norman *garwal* is of *garwolf*. See also Jamieson's *Dict.*
 under *warwolf*.
 
-<span id="fn_65"></span>[cxli:2](ptn08.htm#fr_65) *Fornald Sög*., i.
+<span id="fn_65"></span>[cxli:2](ptn08.htm#fr_65.md) *Fornald Sög*., i.
 130, 131.
 
-<span id="fn_66"></span>[cxlii:1](ptn08.htm#fr_66) See *Landnama* in
+<span id="fn_66"></span>[cxlii:1](ptn08.htm#fr_66.md) See *Landnama* in
 many places. Egil's Sag. Hrolf Krak. Sag.
 
-<span id="fn_67"></span>[cxliv:1](ptn08.htm#fr_67) *Troldham, at kaste
+<span id="fn_67"></span>[cxliv:1](ptn08.htm#fr_67.md) *Troldham, at kaste
 ham paa*. Comp. the Old Norse *hamr*, *hamför*, *hammadr*, *hamrammr*,
 which occur repeatedly in the same sense.
 
-<span id="fn_68"></span>[cxlv:1](ptn08.htm#fr_68) *Reinhart Fuchs*,
+<span id="fn_68"></span>[cxlv:1](ptn08.htm#fr_68.md) *Reinhart Fuchs*,
 Introduction.
 
-<span id="fn_69"></span>[cxlvii:1](ptn08.htm#fr_69) Grimm, *Irisch.
+<span id="fn_69"></span>[cxlvii:1](ptn08.htm#fr_69.md) Grimm, *Irisch.
 Elfenm.*, 114-19, and *D. M.*, 447.
 
-<span id="fn_70"></span>[cxlviii:1](ptn08.htm#fr_70) Comp. Vict. Hug.,
+<span id="fn_70"></span>[cxlviii:1](ptn08.htm#fr_70.md) Comp. Vict. Hug.,
 *Nôtre-Dame de Paris*, where he tells us that the gipsies called the
 wolf *piedgris*. See also Grimm, *D. M.*, 633, and Reinhart, lv, ccvii,
 and 446.
 
-<span id="fn_71"></span>[cxlviii:2](ptn08.htm#fr_71) Douce, *Illust. to
+<span id="fn_71"></span>[cxlviii:2](ptn08.htm#fr_71.md) Douce, *Illust. to
 Shakspeare,* ii. 33, 344, quoted in Reinhart Fuchs, ccxxi.
 
-<span id="fn_72"></span>[cxlviii:3](ptn08.htm#fr_72) *German*. 9, 10.
+<span id="fn_72"></span>[cxlviii:3](ptn08.htm#fr_72.md) *German*. 9, 10.
 
-<span id="fn_73"></span>[cl:1](ptn08.htm#fr_73) Snorro's Edda, ch. vi.,
+<span id="fn_73"></span>[cl:1](ptn08.htm#fr_73.md) Snorro's Edda, ch. vi.,
 English trans., Stockholm, 1842.
 
-<span id="fn_74"></span>[cl:2](ptn08.htm#fr_74) Thus from the earliest
+<span id="fn_74"></span>[cl:2](ptn08.htm#fr_74.md) Thus from the earliest
 times "dog," "hound," has been a term of reproach. Great instances of
 fidelity, such as "Gellert" or the "Dog of Montargis," both of which are
 Eastern and primeval, have scarcely redeemed the cringing currish nature
@@ -1661,19 +1661,19 @@ Normans in many ways, calling them Bigos. It is also termed, in a French
 record of the year 1425, "*un mot tres injurieux*." Diez says it was not
 used in its present sense before the sixteenth century.
 
-<span id="fn_75"></span>[cliii:1](ptn08.htm#fr_75) The most common word
+<span id="fn_75"></span>[cliii:1](ptn08.htm#fr_75.md) The most common word
 for a giant in the Eddas was *Jötunn* (A.-Sax. *eoten*), which, strange
 to say, survives in the Scotch *Etin*. In one or two places the word
 *Ogre* has been used, which is properly a Romance word, and comes from
 the French *ogre*, Ital. *orco*, Lat. *orcus*. Here, too, we have an old
 Roman god of the nether world degraded.
 
-<span id="fn_76"></span>[cliv:1](ptn08.htm#fr_76) These paroxysms were
+<span id="fn_76"></span>[cliv:1](ptn08.htm#fr_76.md) These paroxysms were
 called in Old Norse *Jötunmodr*, the *Etin mood*, as opposed to *Asmodr,
 the mood of the Æsir*, that diviner wrath which, though burning hot, was
 still under the control of reason.
 
-<span id="fn_77"></span>[clx:1](ptn08.htm#fr_77) It may be worth while
+<span id="fn_77"></span>[clx:1](ptn08.htm#fr_77.md) It may be worth while
 here to shew how old and widespread this custom or notion of the "naked
 sword" was. In the North, besides being told of Sigurd and Brynhildr, we
 hear it of Hrôlf and Ingigerd, who took rest at night in a hut of leaves
@@ -1742,4 +1742,4 @@ J. Grimm's *Deutsche Rechts-Alterthümer*, Göttingen, 1828, pp. 168-70.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](ptn09)
+[Next: Conclusion](ptn09.md)

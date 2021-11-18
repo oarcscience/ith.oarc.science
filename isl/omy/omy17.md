@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy16)  [Next](omy18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy16)  [Next](omy18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -117,7 +117,7 @@ Firdausi, the celebrated author of the Sháh-náma, says:
 <span class="small">The height and depth of all the world is centered,
 Lord, in Thee:  
 I know not what Thou art, Thou art what Thou alone canst be <span
-id="fr_28"></span>[1](#fn_28).</span>
+id="fr_28"></span>[1](#fn_28.md).</span>
 
 </div>
 
@@ -167,7 +167,7 @@ diorama of a fleeting dream.
 
 ### Footnotes
 
-<span id="fn_28"></span>[48:1](omy17.htm#fr_28) It was this couplet
+<span id="fn_28"></span>[48:1](omy17.htm#fr_28.md) It was this couplet
 which his enemies made use of when accusing the poet before Sháh Mahmúd
 of heresy and Sufiism. The Sultan in consequence refused Firdausi the
 full reward which he had promised him for the composition of his
@@ -190,4 +190,4 @@ admired in the East, and in which he defends himself as follows:—
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Grounds For the Discussion](omy18)
+[Next: Chapter I. Grounds For the Discussion](omy18.md)

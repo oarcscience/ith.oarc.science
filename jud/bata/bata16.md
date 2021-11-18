@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](bata15)  [Next](bata17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](bata15)  [Next](bata17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574IW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Talmud in Selection*, by Leo Auerbach, \[1944\], at
 Intangible Textual Heritage
 
@@ -250,14 +250,14 @@ number close to forty. Rabbi Yehuda says: He gets the full forty; and
 where does he receive the fortieth? Between his shoulders.
 
 When they estimate how many lashes he can stand, it must be a number
-that is [divisible](errata.htm#8) by three. If they estimated that he
+that is [divisible](errata.htm#8.md) by three. If they estimated that he
 can stand forty, and after he has received part of the flogging, they
 say that he cannot stand any
 
 <span id="page_268">p. 268</span>
 
 more; he is exempt. If they estimated that he can stand eighteen, and
-after he had received the eighteen [lashes](errata.htm#9) they say that
+after he had received the eighteen [lashes](errata.htm#9.md) they say that
 he can stand forty, he is exempt from the rest.
 
 (*Mishna*)
@@ -340,6 +340,6 @@ more, if he performs one precept, shall his soul be restored to him.
 
 ------------------------------------------------------------------------
 
-[Next: Oaths (Tractate Shebuoth)](bata17)
+[Next: Oaths (Tractate Shebuoth)](bata17.md)
 
 </div>

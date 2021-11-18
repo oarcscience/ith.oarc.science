@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi03)  [Next](vbwi05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi03)  [Next](vbwi05.md) 
 
 ------------------------------------------------------------------------
 
@@ -971,4 +971,4 @@ wanted it, the way he'd be in no danger if the dog would go mad after?
 
 ------------------------------------------------------------------------
 
-[Next: Away](vbwi05)
+[Next: Away](vbwi05.md)

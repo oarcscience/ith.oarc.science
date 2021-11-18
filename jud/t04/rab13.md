@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab12)  [Next](rab14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab12)  [Next](rab14.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -27,11 +27,11 @@ him, but not of prayer.
 B. One who removes bones or the Scriptures from one place to another,
 must not place them in a wagon, a boat, nor on a beast under his seat:
 however, in order to preserve them from thieves or robbers, he
-may. <span id="fr_130"></span>[B1](#fn_130)
+may. <span id="fr_130"></span>[B1](#fn_130.md)
 
 C. It is not allowed to pass through a cemetery with the phylacteries
 on, nor the Scriptures in the hand, as it is considered disrespectful to
-the dead. <span id="fr_131"></span>[C1](#fn_131)
+the dead. <span id="fr_131"></span>[C1](#fn_131.md)
 
 <span id="page_58">p. 58</span>
 
@@ -44,7 +44,7 @@ moved from one place to another, even if they are equal in esteem, much
 less if the other place is lower; he may, however, do so from a lower to
 a higher place. However, if he moves them to a place on his estate, he
 is allowed to do so, even if the former place is more esteemed. <span
-id="fr_132"></span>[D1](#fn_132)
+id="fr_132"></span>[D1](#fn_132.md)
 
 Two corpses must not be buried in one grave, nor a corpse with bones,
 and *vice versa*. R. Jehudah, however, said: If they used to sleep
@@ -66,20 +66,20 @@ cemetery must not be moved from their place.
 
 ### Footnotes
 
-<span id="fn_130"></span>[57:B1](rab13.htm#fr_130)
+<span id="fn_130"></span>[57:B1](rab13.htm#fr_130.md)
 
 ### CHAPTER XIII.
 
 B. Corrected from Berachoth.
 
-<span id="fn_131"></span>[57:C1](rab13.htm#fr_131) *C*. The reason is
+<span id="fn_131"></span>[57:C1](rab13.htm#fr_131.md) *C*. The reason is
 explained in Berachoth, because the dead are exempt from all the
 commands given in the Law.
 
-<span id="fn_132"></span>[58:D1](rab13.htm#fr_132) *D*. It means to say
+<span id="fn_132"></span>[58:D1](rab13.htm#fr_132.md) *D*. It means to say
 that the estate belonged to the deceased, as it is agreeable to one to
 be buried on his own grounds.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](rab14)
+[Next: Chapter XIV](rab14.md)

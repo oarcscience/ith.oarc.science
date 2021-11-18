@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf00)  [Next](btf02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf00)  [Next](btf02.md) 
 
 ------------------------------------------------------------------------
 
@@ -1087,4 +1087,4 @@ Preface
 
 ------------------------------------------------------------------------
 
-[Next: Postscript (by Alfred Nutt)](btf02)
+[Next: Postscript (by Alfred Nutt)](btf02.md)

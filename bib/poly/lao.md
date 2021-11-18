@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Prayer of Azariah](aza)  [Psalms of Solomon](pss)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Prayer of Azariah](aza)  [Psalms of Solomon](pss.md)
 
 ------------------------------------------------------------------------
 
@@ -9,4 +9,4 @@
 
 ------------------------------------------------------------------------
 
-[Laodiceans 1](lao001)  
+[Laodiceans 1](lao001.md)  

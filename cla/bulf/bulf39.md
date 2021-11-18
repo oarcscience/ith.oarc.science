@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf38) [Next](bulf40) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf38) [Next](bulf40.md) 
 
 # CHAPTER XL.
 
@@ -295,4 +295,4 @@ discovered by the Northmen!"
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XLI. The Druids- Iona.](bulf40)
+Next: [CHAPTER XLI. The Druids- Iona.](bulf40.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo14)  [Next](aoo16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo14)  [Next](aoo16.md) 
 
 ------------------------------------------------------------------------
 
@@ -206,4 +206,4 @@ on a litter and bore it out of the battle.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](aoo16)
+[Next: Chapter XVI](aoo16.md)

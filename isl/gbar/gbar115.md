@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar114) [Next](gbar116)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar114) [Next](gbar116.md)
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ iniquity.
 
 ------------------------------------------------------------------------
 
-[Next](gbar116)
+[Next](gbar116.md)

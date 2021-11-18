@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi256)  [Next](mtsi258) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi256)  [Next](mtsi258.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ side of the ocean.
 
 ------------------------------------------------------------------------
 
-[Next: 58. Rabbit and the Ducks](mtsi258)
+[Next: 58. Rabbit and the Ducks](mtsi258.md)

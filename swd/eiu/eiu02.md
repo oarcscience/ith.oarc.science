@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](eiu01)  [Next](eiu03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](eiu01)  [Next](eiu03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425496466/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425496466/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ after their decease they will perceive a fire which will communicate
 warmth to their faces. This belief takes its rise from hence, that the
 wiser amongst them know that fire in the spiritual sense signifies the
 love, and that love is the fire of life, and from this fire the angels
-have life. <span id="fr_24"></span>[52-1](#fn_24) Those of them also who
+have life. <span id="fr_24"></span>[52-1](#fn_24.md) Those of them also who
 have lived in heavenly love, obtain their wish, and perceive their face
 to grow warm; and then the interiors of their mind are kindled with
 love. For this reason the inhabitants of that earth also wash and
@@ -78,7 +78,7 @@ cleanse their faces much, and protect them carefully from the heat of
 the sun. They have a covering made of the inner rind or bark of a tree,
 of a bluish color, which they wrap about the head and thus cover the
 face. Concerning the faces of the men of our earth, which they saw
-through my eyes,  <span id="fr_25"></span>[52-2](#fn_25) they said that
+through my eyes,  <span id="fr_25"></span>[52-2](#fn_25.md) they said that
 they were not beautiful, and that their beauty consisted in the external
 skin, but not in the fibers from the internal. They wondered that the
 faces of some were full of warts and pustules, or were otherwise
@@ -132,7 +132,7 @@ mouth speaks by words. Every one, too, can comprehend that the most
 ancient people could not have the speech of words; since the words of
 language were not immediately infused into men, but had to be invented,
 and applied to things; which could be done only in process of
-time. <span id="fr_26"></span>[54-1](#fn_26) As long as sincerity and
+time. <span id="fr_26"></span>[54-1](#fn_26.md) As long as sincerity and
 rectitude remained with man, so long also such speech remained. But as
 soon as the mind began to think one thing and speak another, which took
 place when man began to love himself and not his neighbor, then vocal
@@ -263,7 +263,7 @@ that when they are seen, the inhabitants are terrified, although they do
 no harm. They added, that the fear of horses is innate or natural to
 them. This led me to a consideration of the cause of that fear; for "a
 horse" in the spiritual sense signifies the intellectual faculty formed
-of scientifics, <span id="fr_27"></span>[60-1](#fn_27) and because the
+of scientifics, <span id="fr_27"></span>[60-1](#fn_27.md) and because the
 inhabitants of Jupiter are afraid of cultivating the intellectual
 faculty by worldly sciences, hence comes an influx of fear. That they do
 not care for scientifics, which are of human erudition, will be seen in
@@ -311,7 +311,7 @@ think from good, and not as these from evil; and that they who think
 from good become angels. That they might know that it was so, there came
 out of heaven choirs of angels from our earth, one after another, which
 with one voice and in harmony together glorified the Lord. <span
-id="fr_28"></span>[61-1](#fn_28) Those choirs so greatly delighted the
+id="fr_28"></span>[61-1](#fn_28.md) Those choirs so greatly delighted the
 spirits of Jupiter who were with me, that they seemed to themselves, as
 if they were caught up into heaven. The glorification by the choirs
 lasted about an hour, and the delight they received was communicated to
@@ -389,7 +389,7 @@ cannot abide long together, but either shun them or remove them. There
 are spheres, which may be called spiritual spheres, which continually
 flow forth, yea, overflow from every spirit; they flow from the activity
 of the affections and consequent thoughts, thus from the life
-itself. <span id="fr_29"></span>[64-1](#fn_29) All consociations in the
+itself. <span id="fr_29"></span>[64-1](#fn_29.md) All consociations in the
 other life are regulated according to these spheres; those which agree
 being joined together according to their agreement, and those which
 disagree being separated according to their disagreement. The spirits
@@ -548,7 +548,7 @@ of them despise others. If they do not receive greater joy than others
 in the other life, they are indignant against the Lord; for which
 reason, when they are cutting wood, there appears as it were something
 of the Lord under the wood. This comes from their indignation." <span
-id="fr_30"></span>[70-1](#fn_30)
+id="fr_30"></span>[70-1](#fn_30.md)
 
 <span class="margnote"><span id="71.">71.</span></span>
 
@@ -809,7 +809,7 @@ carried away like Elijah. Chariots and horses bright as with fire
 appear, because it is thus represented that they have been instructed
 and prepared to enter heaven; since "chariots" signify the doctrinals of
 the church, and "bright horses" the understanding enlightened. <span
-id="fr_31"></span>[82-1](#fn_31)
+id="fr_31"></span>[82-1](#fn_31.md)
 
 <span class="margnote"><span id="83.">83.</span></span>
 
@@ -819,7 +819,7 @@ who are in that heaven appear clothed in shining blue, dotted with small
 golden stars, and this because they loved that color in the world. They
 also believed that it was the veriest celestial color, chiefly because
 they are in such good of love as that color corresponds to. <span
-id="fr_32"></span>[83-1](#fn_32)
+id="fr_32"></span>[83-1](#fn_32.md)
 
 <span class="margnote"><span id="84.">84.</span></span>
 
@@ -851,7 +851,7 @@ THE EARTH OR PLANET MARS, ITS SPIRITS AND INHABITANTS. The spirits of
 Mars are the best of all among the spirits who are from the earths of
 our solar system, for they are as to the most part celestial men, not
 unlike those who were of the Most Ancient Church on this earth. <span
-id="fr_33"></span>[85-1](#fn_33) When they are represented as to their
+id="fr_33"></span>[85-1](#fn_33.md) When they are represented as to their
 quality, they are represented with the face in heaven and the body in
 the world of spirits; and those of them who are angels, with the face
 toward the Lord and the body in heaven.
@@ -866,7 +866,7 @@ separate from the spirits of another earth, because the spirits of each
 earth refer to some particular province in the Greatest Man, and hence
 are in another and different state; and diversity of state makes them
 appear separate from each other, either to the right or to the left, at
-a greater or less distance. <span id="fr_34"></span>[86-1](#fn_34)
+a greater or less distance. <span id="fr_34"></span>[86-1](#fn_34.md)
 
 <span class="margnote"><span id="87.">87.</span></span>
 
@@ -927,7 +927,7 @@ means present any other countenance than such as accorded with what they
 thought; and because they had speech by internal respiration, which is
 that of man's spirit itself, they were therefore able to associate and
 speak with angels. The respiration of the spirits of Mars was also
-communicated to me; <span id="fr_35"></span>[87-1](#fn_35) and it was
+communicated to me; <span id="fr_35"></span>[87-1](#fn_35.md) and it was
 perceived that it proceeded from the region of the thorax toward the
 navel, and thence flowed upward through the chest with an imperceptible
 breathing toward the mouth. From this, as also from other proofs of
@@ -952,7 +952,7 @@ going forth from the eyes, the general of thought shines forth. For this
 reason when the spirits of Mars were with me, I perceived sensibly a
 drawing back of the front part of the head toward the occiput, thus of
 the cerebrum toward the cerebellum. <span
-id="fr_36"></span>[88-1](#fn_36)
+id="fr_36"></span>[88-1](#fn_36.md)
 
 <span class="margnote"><span id="89.">89.</span></span>
 
@@ -1122,7 +1122,7 @@ state of sleep. In this state he spoke many things, and with such
 prudence that if he were awake he could not speak more prudently. It was
 given to perceive that he was a subject through which angels spoke; and
 that in that state he perceived and brought forth what they said, <span
-id="fr_37"></span>[95-1](#fn_37) for he spoke nothing but what was true.
+id="fr_37"></span>[95-1](#fn_37.md) for he spoke nothing but what was true.
 If anything flowed in from any other source, he admitted it indeed, but
 did not bring it forth. I questioned him about his state, and he said
 that this state was to him peaceful, and without any anxiety about the
@@ -1279,7 +1279,7 @@ moons which are called Saturn's satellites.
 
 ### Footnotes
 
-<span id="fn_24"></span>[52-1](eiu02.htm#fr_24) Fire in the Word is love
+<span id="fn_24"></span>[52-1](eiu02.htm#fr_24.md) Fire in the Word is love
 in both senses (n. 934, 4906, 5215). The sacred and heavenly fire is the
 Divine love, and every affection which is of that love (n. 934, 6314,
 6832). Internal fire is the love of self and the world, and every
@@ -1287,35 +1287,35 @@ concupiscence which is of these loves (n. 965, 1861, 5071, 6314, 6832,
 7575, 10.747) Love is the fire of life, and life itself is actually
 thence (n. 4906, 5071, 6032).
 
-<span id="fn_25"></span>[52-2](eiu02.htm#fr_25) Spirits and angels do
+<span id="fn_25"></span>[52-2](eiu02.htm#fr_25.md) Spirits and angels do
 not see what is in this solar world, but they saw through my eyes (n.
 1881).
 
-<span id="fn_26"></span>[54-1](eiu02.htm#fr_26) The most ancient people
+<span id="fn_26"></span>[54-1](eiu02.htm#fr_26.md) The most ancient people
 on this earth had speech through the face and lips, by means of internal
 breathing (n. 607, 1118, 7361). The people on, certain other earths have
 a similar speech (n. 4799. 7359, 8248, 10,587). Concerning the
 perfection and excellence of that speech (n. 7360, 10,587, 10,708).
 
-<span id="fn_27"></span>[60-1](eiu02.htm#fr_27) A "horse" signifies the
+<span id="fn_27"></span>[60-1](eiu02.htm#fr_27.md) A "horse" signifies the
 intellectual faculty (n. 2760-2762, 3217, 5321, 6125, 6400, 6534, 7024,
 8146, 8148). And that "the white horse" in the Apocalypse signifies the
 understanding of the Word (n. 2760).
 
-<span id="fn_28"></span>[61-1](eiu02.htm#fr_28) When many spirits speak
+<span id="fn_28"></span>[61-1](eiu02.htm#fr_28.md) When many spirits speak
 together and unanimously they form what is called a choir, and
 concerning them (n. 2595, 2596, 3350). In their speech there is harmony
 (n. 1648, 1649). By choirs in the other life introduction into unanimity
 is effected (n. 5182)
 
-<span id="fn_29"></span>[64-1](eiu02.htm#fr_29) A spiritual sphere,
+<span id="fn_29"></span>[64-1](eiu02.htm#fr_29.md) A spiritual sphere,
 which is the sphere of the life, flows forth and overflows from every
 man spirit, and angel, and encompasses them about (n. 4464, 5179, 7454).
 It flows forth from the life of their affections and consequent thoughts
 (n. 2489, 4464, 6206). In the other life consociations and also
 dissociations are according to spheres (n. 6206, 9606, 9607, 10,312).
 
-<span id="fn_30"></span>[70-1](eiu02.htm#fr_30) The Lord alone has merit
+<span id="fn_30"></span>[70-1](eiu02.htm#fr_30.md) The Lord alone has merit
 and justice (n. 9715, 9975, 9979, 9981, 9982). They who place merit in
 works, or wish to merit heaven by their good deeds, wish to be served in
 the other life, and are never content (n. 6393). They despise the
@@ -1324,7 +1324,7 @@ reward (n. 9976). What their lot is in the other life (n. 942, 1774,
 1877, 2027). They are of those who appear to cut wood in the lower earth
 (n. 1110, 4943).
 
-<span id="fn_31"></span>[82-1](eiu02.htm#fr_31) "Chariots signify the
+<span id="fn_31"></span>[82-1](eiu02.htm#fr_31.md) "Chariots signify the
 doctrinals of the church (n. 2761, 5321, 8215). "Horses" signify the
 intellectual faculty (n. 2760, 2761, 2762, 3217, 5321, 6125, 6400, 6534,
 7024, 8146, 8148, 8351). "The white horse" in the Apocalypse signifies
@@ -1335,11 +1335,11 @@ word, Elijah was called "the chariot of Israel and the horsemen thereof"
 (n. 2762). He was therefore taken up by a fiery chariot and horses of
 fire (n. 2762, 8029).
 
-<span id="fn_32"></span>[83-1](eiu02.htm#fr_32) Blue from red or flame
+<span id="fn_32"></span>[83-1](eiu02.htm#fr_32.md) Blue from red or flame
 corresponds to the good of celestial love, and blue from white or light
 corresponds to the good of spiritual love (n. 9868).
 
-<span id="fn_33"></span>[85-1](eiu02.htm#fr_33) The First and Most
+<span id="fn_33"></span>[85-1](eiu02.htm#fr_33.md) The First and Most
 Ancient Church on this earth which was celestial church, which is the
 primary of all, see (n. 607, 895, 920, 1121-1124, 2896, 4493, 8891,
 9942, 10,545). The church is called celestial in which the principal
@@ -1347,26 +1347,26 @@ thing is love to the Lord, but spiritual in which the principal thing is
 charity toward the neighbor and faith (n. 3691, 6435, 9468, 9680, 9683,
 9780).
 
-<span id="fn_34"></span>[86-1](eiu02.htm#fr_34) Distances in the other
+<span id="fn_34"></span>[86-1](eiu02.htm#fr_34.md) Distances in the other
 life are real appearances, which are presented by the Lord to be seen,
 according to the state of the interiors of angels and spirits (n. 5604,
 9104, 9440, 10,146).
 
-<span id="fn_35"></span>[87-1](eiu02.htm#fr_35) That spirits and angels
+<span id="fn_35"></span>[87-1](eiu02.htm#fr_35.md) That spirits and angels
 have respiration (n. 3884, 3885, 3891, 3893).
 
-<span id="fn_36"></span>[88-1](eiu02.htm#fr_36) Human faces on our earth
+<span id="fn_36"></span>[88-1](eiu02.htm#fr_36.md) Human faces on our earth
 in ancient times received influx from the cerebellum, and the faces then
 acted as one with the interior affections of man but that afterward they
 received influx from the cerebrum, when man began to dissemble and
 counterfeit in the face affections not his own, and concerning the
 changes brought upon faces therefrom in process of time (n. 4325-4328).
 
-<span id="fn_37"></span>[95-1](eiu02.htm#fr_37) That communications are
+<span id="fn_37"></span>[95-1](eiu02.htm#fr_37.md) That communications are
 made through spirits sent forth by societies of spirits and angels to
 other societies, and that these emissary spirits are called subjects (n.
 4403, 5856, 5983, 5985-5989).
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](eiu03)
+[Next: 101-150](eiu03.md)

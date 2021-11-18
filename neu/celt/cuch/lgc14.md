@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lgc13)  [Next](lgc15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lgc13)  [Next](lgc15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267T84E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Cuchulain of Muirthemne*, by Lady Augusta Gregory, \[1902\], at
 Intangible Textual Heritage
 
@@ -2412,4 +2412,4 @@ mountain; to-day there is nothing of him but a shadow."
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Awakening of Ulster](lgc15)
+[Next: XII. The Awakening of Ulster](lgc15.md)

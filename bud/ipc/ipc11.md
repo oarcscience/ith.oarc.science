@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc10)  [Next](ipc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc10)  [Next](ipc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -44,12 +44,12 @@ of Eleusis we know that the idea was brought from Egypt by Melampus.
 From Mr. Maurice we can get a fairly good idea of one of these Indian
 Cave temples. They are said by the natives to be "the work of giants and
 genii in the earliest ages of the world." They are "admitted to be of
-the most profound [antiquity](errata.htm#22), of such profound
+the most profound [antiquity](errata.htm#22.md), of such profound
 antiquity, indeed, that we are unable to obtain any
 
 <span id="page_132">p. 132</span>
 
-light concerning the [particular](errata.htm#23) era of their
+light concerning the [particular](errata.htm#23.md) era of their
 fabrication." Of the excavations in the Island of Salsette he writes
 that Grose in his "Voyage to the East Indies" declares that "their
 formation would have required a labour equal to that of erecting the
@@ -86,7 +86,7 @@ aspects that inspire the beholder with terror, and in the words of
 
 <span id="img_pl10"></span> <span align="CENTER"> [![PLATE 10.&lt;br&gt;
 A CAVE TEMPLE](tn/pl10.jpg)  
-Click to enlarge](img/pl10.jpg)  
+Click to enlarge](img/pl10.jpg.md)  
 PLATE 10.  
 A CAVE TEMPLE  
 </span>
@@ -107,7 +107,7 @@ enormous height of thirteen feet and a half, and appear starting from
 the wall to which they are attached. These formidable guardians of this
 sacred recess point out the use to which it was applied. It was devoted
 to the most sacred mysteries of their religion." <span
-id="fr_138"></span>[\*](#fn_137)
+id="fr_138"></span>[\*](#fn_137.md)
 
 This, by the worshippers of S’iva, is deemed the Holy of Holies in their
 temples. It is called the "Sanctuary of the S’iva Lingam," the Lingam
@@ -217,7 +217,7 @@ The procession now reaches the great Temple, and all who are not
 initiates are warned away, for the penalty is death to all who reveal
 the mysteries and all who discover them. There are seven dark caverns
 and seven light ones. Ceres, and Bacchus, with his torch, are supposed
-to be seeking [Proserpine](errata.htm#24) in hell. Earth abandoned by
+to be seeking [Proserpine](errata.htm#24.md) in hell. Earth abandoned by
 the goddess no longer bears fruits, like the Indian soil deprived of
 S’iva's creative force. Hence the wailings and lamentations that occur.
 The initiate goes through the dark caverns, and the light ones. Thrice
@@ -231,7 +231,7 @@ and placed that which I took into the Kalatheon. I have taken out of the
 
 <span class="contnote">\[paragraph continues\]</span> Kalatheon and
 placed that which I took into the Cista." <span
-id="fr_139"></span>[\*](#fn_138)
+id="fr_139"></span>[\*](#fn_138.md)
 
 Lucian gives an account of the Tree festival at Hieropolis which reads
 very like the Durgâ-Pûjah in India. The sacrifices and processions are
@@ -318,7 +318,7 @@ been derived from India, for the word Bacchus with some Orientalists is
 a form of the Sanscrit word Bhâga, the special emblem of maternity.
 S’iva as Somnâth, is Lord of the Soma, the earliest intoxicant; and he
 figures as in Greece as a drunken Silenus at the festivals. <span
-id="fr_140"></span>[\*](#fn_139) Intoxicating liquors, blood (sometimes
+id="fr_140"></span>[\*](#fn_139.md) Intoxicating liquors, blood (sometimes
 human), flesh, and fish, are ingredients of the banquet. A woman, stark
 naked, personifies the Goddess. "These votaries of Sakti assemble at
 midnight in retired places," says the Reverend W. Simpson, the editor of
@@ -326,7 +326,7 @@ midnight in retired places," says the Reverend W. Simpson, the editor of
 mystical meaning, and the whole terminates in licentious sensual
 indulgence." This author declares that he had good authority for the
 statement that they still existed in Madras in his day. <span
-id="fr_141"></span>[†](#fn_140) It must, however, be mentioned that the
+id="fr_141"></span>[†](#fn_140.md) It must, however, be mentioned that the
 rites of the followers of S’iva are
 
 <span id="page_140">p. 140</span>
@@ -334,7 +334,7 @@ rites of the followers of S’iva are
 divided into two sections, the Right-handed Tantrik rites, the
 Dakshinas, and the Left-handed Tantrik rites, the Vâmâcharîs. This means
 practically Black and White magic. The early gods were ranged at
-different sides of the [Zodiac](errata.htm#25), and the Tantrikas were
+different sides of the [Zodiac](errata.htm#25.md), and the Tantrikas were
 the worship of the wicked gods, the worship of S’iva as Bhairava and
 Durgâ as Kâlî. At the beginning, all were no doubt wicked, and much like
 the gods of Dahomey. And perhaps the rudest excesses of the festivals
@@ -345,18 +345,18 @@ represents only a small portion of S’iva's followers.
 
 ### Footnotes
 
-<span id="fn_137"></span>[133:\*](ipc11.htm#fr_138) Crawfurd, "Hist.
+<span id="fn_137"></span>[133:\*](ipc11.htm#fr_138.md) Crawfurd, "Hist.
 Indian Archipelago," p. 226.
 
-<span id="fn_138"></span>[137:\*](ipc11.htm#fr_139) "Eleusinian and
+<span id="fn_138"></span>[137:\*](ipc11.htm#fr_139.md) "Eleusinian and
 Bacchic Mysteries," T. Taylor, p. 16.
 
-<span id="fn_139"></span>[139:\*](ipc11.htm#fr_140) "Jacobs’s
+<span id="fn_139"></span>[139:\*](ipc11.htm#fr_140.md) "Jacobs’s
 Mythological Dictionary," Article "S’iva."
 
-<span id="fn_140"></span>[139:†](ipc11.htm#fr_141) Moor, "Hindu
+<span id="fn_140"></span>[139:†](ipc11.htm#fr_141.md) Moor, "Hindu
 Pantheon," Madras edition, p. 365.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Architecture](ipc12)
+[Next: Chapter IX. Architecture](ipc12.md)

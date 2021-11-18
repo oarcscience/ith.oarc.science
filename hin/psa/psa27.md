@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa26)  [Next](psa28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa26)  [Next](psa28.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ where it was before.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII](psa28)
+[Next: Chapter XXVII](psa28.md)

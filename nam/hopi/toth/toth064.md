@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth063)  [Next](toth065) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth063)  [Next](toth065.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 61. BÁLÖLÖOKONGWUU <span id="fr_129"></span>[2](#fn_127) AND THE COYOTE. <span id="fr_130"></span>[3](#fn_128)
+## 61. BÁLÖLÖOKONGWUU <span id="fr_129"></span>[2](#fn_127) AND THE COYOTE. <span id="fr_130"></span>[3](#fn_128.md)
 
 Alíksai! In Mishóngnovi, where there are now the ruins of old
 Mishóngnovi, they were living. East of there the Lölö'okong also
@@ -69,10 +69,10 @@ continued to live there.
 
 ### Footnotes
 
-<span id="fn_127"></span>[187:2](toth064.htm#fr_129) Told by Sik'áhpiki
+<span id="fn_127"></span>[187:2](toth064.htm#fr_129.md) Told by Sik'áhpiki
 (Shupaúlavi).
 
-<span id="fn_128"></span>[187:3](toth064.htm#fr_130) Bálölöokongwuu (the
+<span id="fn_128"></span>[187:3](toth064.htm#fr_130.md) Bálölöokongwuu (the
 abbreviated term Bálölöokong being usually used) is a mythical serpent,
 supposed to control the water and to live in the ocean, springs, etc.
 Lö1ö'okongwuu (abr. Lölö'okong) is really the Bull Snake, but this term
@@ -80,4 +80,4 @@ is often used for Bálölöokong, as is seen in this story.
 
 ------------------------------------------------------------------------
 
-[Next: 62. The Coyote and the Frog](toth065)
+[Next: 62. The Coyote and the Frog](toth065.md)

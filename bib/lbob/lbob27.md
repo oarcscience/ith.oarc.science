@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob26)  [Next](lbob28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob26)  [Next](lbob28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -52,7 +52,7 @@ thee.
 6 And first of all write my Commands and Similitudes, the rest thou
 shalt so write as I shall shew unto thee. But I therefore bid thee first
 of all write my Commands and Similitudes, that by often reading of them
-thou mayest the more easily  <span id="fr_1214"></span>[1](#fn_1214)
+thou mayest the more easily  <span id="fr_1214"></span>[1](#fn_1214.md)
 keep them in memory.
 
 7 Whereupon I wrote his Commands and Similitudes, as he bade me.
@@ -63,7 +63,7 @@ pure mind, ye shall receive from the Lord those things which be has
 promised unto you.
 
 9 But if having heard them ye shall not repent, but shall still go on to
-add to your sins,  <span id="fr_1215"></span>[2](#fn_1215) ye shall be
+add to your sins,  <span id="fr_1215"></span>[2](#fn_1215.md) ye shall be
 punished by him.
 
 10 All these things that Shepherd, the angel of repentance, commanded me
@@ -71,10 +71,10 @@ to write.
 
 #### COMMAND I.
 
-<span class="small">*Of*  <span id="fr_1216"></span>[3](#fn_1216)
+<span class="small">*Of*  <span id="fr_1216"></span>[3](#fn_1216.md)
 *believing in one God*.</span>
 
-FIRST of  <span id="fr_1217"></span>[4](#fn_1217) all believe that there
+FIRST of  <span id="fr_1217"></span>[4](#fn_1217.md) all believe that there
 is one God who created and framed all things of nothing into a being.
 
 2 He comprehends all things, and is only immense, not to be comprehended
@@ -83,10 +83,10 @@ by any.
 3 Who can neither be defined by any words, nor conceived by the mind.
 
 4 Therefore believe in him; and fear him; and fearing him  <span
-id="fr_1218"></span>[5](#fn_1218) abstain from all evil.
+id="fr_1218"></span>[5](#fn_1218.md) abstain from all evil.
 
 5 Keep these things, and cast all  <span
-id="fr_1219"></span>[6](#fn_1219) lust and iniquity far from thee, and
+id="fr_1219"></span>[6](#fn_1219.md) lust and iniquity far from thee, and
 put on righteousness, and thou shalt live to God, if thou shalt keep
 this commandment.
 
@@ -97,35 +97,35 @@ this commandment.
 <span class="small">*That we must avoid detraction, and do our
 alms-deeds with simplicity*.</span>
 
-HE said unto me,  <span id="fr_1220"></span>[1](#fn_1220) Be innocent
+HE said unto me,  <span id="fr_1220"></span>[1](#fn_1220.md) Be innocent
 and without disguise; so shalt thou be like an infant who knows no
 malice which destroys the life of man.
 
 2 Especially see that thou speak evil of none, nor willingly hear any
 one speak evil of any.
 
-3  <span id="fr_1221"></span>[2](#fn_1221) For if thou observest not
+3  <span id="fr_1221"></span>[2](#fn_1221.md) For if thou observest not
 this, thou also who hearest shalt be  <span
-id="fr_1222"></span>[3](#fn_1222) partaker of the sin of him that
+id="fr_1222"></span>[3](#fn_1222.md) partaker of the sin of him that
 speaketh evil, by believing the slander, and thou also shalt have sin,
 because thou believed-est him that spoke evil of thy brother.
 
-4  <span id="fr_1223"></span>[4](#fn_1223) Detraction is a pernicious
-thing; an inconstant,  <span id="fr_1224"></span>[5](#fn_1224) evil
+4  <span id="fr_1223"></span>[4](#fn_1223.md) Detraction is a pernicious
+thing; an inconstant,  <span id="fr_1224"></span>[5](#fn_1224.md) evil
 spirit; that never continues in peace, but is always in discord.  <span
-id="fr_1225"></span>[6](#fn_1225) Wherefore refrain thyself from it, and
+id="fr_1225"></span>[6](#fn_1225.md) Wherefore refrain thyself from it, and
 keep peace ever more with thy brother.
 
-5 Put on an holy  <span id="fr_1226"></span>[7](#fn_1226) constancy,
- <span id="fr_1227"></span>[8](#fn_1227) in which there are no sins, but
+5 Put on an holy  <span id="fr_1226"></span>[7](#fn_1226.md) constancy,
+ <span id="fr_1227"></span>[8](#fn_1227.md) in which there are no sins, but
 all is full of joy; and do good of thy labours.
 
-6  <span id="fr_1228"></span>[9](#fn_1228) Give  <span
-id="fr_1229"></span>[10](#fn_1229) without distinction to all that are
+6  <span id="fr_1228"></span>[9](#fn_1228.md) Give  <span
+id="fr_1229"></span>[10](#fn_1229.md) without distinction to all that are
 in want, not doubting to whom thou givest.
 
 7 But give to all, for God will have us give to all, of  <span
-id="fr_1230"></span>[11](#fn_1230) all his own gifts. They therefore
+id="fr_1230"></span>[11](#fn_1230.md) all his own gifts. They therefore
 that receive shall give an account to God, both wherefore they received
 and for what end.
 
@@ -134,7 +134,7 @@ it; but he that gives shall be innocent.
 
 9 For he has fulfilled his duty as he received it from God; not making
 any choice to whom he should give, and to whom not. And this service he
-did with simplicity and  <span id="fr_1231"></span>[12](#fn_1231) to the
+did with simplicity and  <span id="fr_1231"></span>[12](#fn_1231.md) to the
 glory of
 
 10 Keep therefore this command according as I have delivered it unto
@@ -146,7 +146,7 @@ come to thy house; and have a pure heart.
 <span class="small">*Of avoiding lying, and the repentance of Hermas for
 his dissimulation*.</span>
 
-MOREOVER  <span id="fr_1232"></span>[13](#fn_1232) he said unto me, love
+MOREOVER  <span id="fr_1232"></span>[13](#fn_1232.md) he said unto me, love
 truth; and let all the speech be true which proceeds out of thy mouth.
 
 2 That the spirit which the Lord hath given to dwell in thy flesh may be
@@ -155,8 +155,8 @@ such a spirit unto thee: because God is true in all his words, and in
 him there is no lie.
 
 3 They therefore that lie, deny the Lord,  <span
-id="fr_1233"></span>[14](#fn_1233) and become robbers of the Lord,
- <span id="fr_1234"></span>[15](#fn_1234) not rendering to God what they
+id="fr_1233"></span>[14](#fn_1233.md) and become robbers of the Lord,
+ <span id="fr_1234"></span>[15](#fn_1234.md) not rendering to God what they
 received from him.
 
 4 For they received the spirit free from lying: If therefore they make
@@ -184,10 +184,10 @@ and true Spirit of God.
 these things. He answered, Now thou hearest them: Take care from
 henceforth, that even those things which thou hast formerly spoken
 falsely for the sake of thy business, may,  <span
-id="fr_1235"></span>[1](#fn_1235) by thy present truth receive credit.
+id="fr_1235"></span>[1](#fn_1235.md) by thy present truth receive credit.
 
 9 For even those things may be credited, if for the time to come thou
-shalt speak the truth; and  <span id="fr_1236"></span>[2](#fn_1236) by
+shalt speak the truth; and  <span id="fr_1236"></span>[2](#fn_1236.md) by
 so doing thou mayest attain unto life.
 
 10 And whosoever shall hearken unto this command, and do it, and shall
@@ -198,7 +198,7 @@ depart from all lying, he shall live unto God.
 <span class="small">*Of putting away one's wife for adultery*.</span>
 
 FURTHERMORE, said he, I command thee, that thou keep  <span
-id="fr_1237"></span>[3](#fn_1237) thyself chaste; and that thou suffer
+id="fr_1237"></span>[3](#fn_1237.md) thyself chaste; and that thou suffer
 not any thought of any other marriage, or of fornication, to enter into
 thy heart: for such a thought produces great sin.
 
@@ -225,7 +225,7 @@ shall become guilty of her sin, and partake with her in her adultery.
 6 And I said unto him, What therefore is to be done, if the woman
 continues on in her sin? He answered, Let her husband put her away, and
 let him continue by himself. But if he shall put away his wife, and
-marry another  <span id="fr_1238"></span>[4](#fn_1238) he also doth
+marry another  <span id="fr_1238"></span>[4](#fn_1238.md) he also doth
 commit adultery.
 
 7 And I said, What if the woman that is so put away, shall repent, and
@@ -244,7 +244,7 @@ because she may repent.
 
 9 This act is alike both in the man and in the woman. Now they commit
 adultery, not only who pollute their flesh, but who also make an image.
- <span id="fr_1239"></span>[1](#fn_1239) If therefore a woman perseveres
+ <span id="fr_1239"></span>[1](#fn_1239.md) If therefore a woman perseveres
 in any thing of this kind, and repents not, depart from her, and live
 not with her, otherwise thou also shalt be partaker of her sin.
 
@@ -261,18 +261,18 @@ a remedy; for he has the power of all things.
 that thou shouldest dwell with me continually, speak a few words unto
 me, because I understand nothing, and my heart is hardened through my
 former conversation; and open my  <span
-id="fr_1240"></span>[2](#fn_1240) understanding because I am very dull,
+id="fr_1240"></span>[2](#fn_1240.md) understanding because I am very dull,
 and apprehend nothing at all.
 
 14 And he answering said unto me, I am the  <span
-id="fr_1241"></span>[3](#fn_1241) minister of repentance, and give
- <span id="fr_1242"></span>[4](#fn_1242) understanding to all that
+id="fr_1241"></span>[3](#fn_1241.md) minister of repentance, and give
+ <span id="fr_1242"></span>[4](#fn_1242.md) understanding to all that
 repent. Does it not seem to thee to be  <span
-id="fr_1243"></span>[5](#fn_1243) a very wise thing to repent? Because
+id="fr_1243"></span>[5](#fn_1243.md) a very wise thing to repent? Because
 he that does so gets great understanding.
 
 15 For he is sensible that he hath sinned and done wickedly in the sight
-of the Lord, and he remembers  <span id="fr_1244"></span>[6](#fn_1244)
+of the Lord, and he remembers  <span id="fr_1244"></span>[6](#fn_1244.md)
 within himself that he has offended, and repents and does no more
 wickedly, but does that which is good, and humbles his soul and afflicts
 it, because he has offended. You see therefore that repentance is great
@@ -290,16 +290,16 @@ unto God.
 that there is no other repentance beside that of baptism; when we go
 down into the water, and receive the forgiveness of our sins; and that
 after that, we must sin no more, but live in  <span
-id="fr_1245"></span>[7](#fn_1245) purity.
+id="fr_1245"></span>[7](#fn_1245.md) purity.
 
 19 And he said unto me, Thou has been  <span
-id="fr_1246"></span>[8](#fn_1246) rightly informed. Nevertheless seeing
+id="fr_1246"></span>[8](#fn_1246.md) rightly informed. Nevertheless seeing
 now thou inquirest diligently into all things, I will manifest this also
 unto thee: yet not so as to give any occasion of sinning either to those
 who shall hereafter believe, or to those who have already believed in
 the Lord.
 
-20 For neither they who have  <span id="fr_1247"></span>[9](#fn_1247)
+20 For neither they who have  <span id="fr_1247"></span>[9](#fn_1247.md)
 newly believed, or who shall
 
 <span id="page_216">p. 216</span>
@@ -316,7 +316,7 @@ against the servants of God, and maliciously lays snares for them.
 appointed that repentance, and gave unto me the power of it. And
 therefore I say unto thee, if any one after that great and holy calling
 shall be tempted by the devil and sin, he has one  <span
-id="fr_1248"></span>[1](#fn_1248) repentance. But if he shall often sin
+id="fr_1248"></span>[1](#fn_1248.md) repentance. But if he shall often sin
 and repent it shall not profit such a one; for he shall hardly live unto
 God.
 
@@ -332,14 +332,14 @@ shew me yet one thing more. Tell me, saith he, what it is.
 
 26 And I said, If a husband or a wife die, and the party which survives
 marry again, does he sin in so doing?  <span
-id="fr_1249"></span>[2](#fn_1249) He that marries says he, sins not:
+id="fr_1249"></span>[2](#fn_1249.md) He that marries says he, sins not:
 howbeit, if he shall remain single, he shall thereby gain to himself
 great honour before the Lord.
 
 27 Keep therefore thy chastity and modesty, and thou shalt live unto
 God. Observe from henceforth those things which I speak with thee, and
 command thee to observe, from the time  <span
-id="fr_1250"></span>[3](#fn_1250) that I have been delivered unto thee,
+id="fr_1250"></span>[3](#fn_1250.md) that I have been delivered unto thee,
 and dwell in thy house.
 
 28 So shall thy former sins be forgiven, if thou shalt keep these my
@@ -351,36 +351,36 @@ observe these my commandments.
 <span class="small">*Of the sadness of the heart, and of
 patience*.</span>
 
-BE patient, says he, and  <span id="fr_1251"></span>[4](#fn_1251)
+BE patient, says he, and  <span id="fr_1251"></span>[4](#fn_1251.md)
 longsuffering; so shalt thou have dominion over all wicked works, and
-shalt  <span id="fr_1252"></span>[5](#fn_1252) fulfil all righteousness.
+shalt  <span id="fr_1252"></span>[5](#fn_1252.md) fulfil all righteousness.
 
 2 For if thou shalt be patient, the Holy Spirit which dwelleth in thee
 shall be pure, and not be darkened by any evil spirit; but being full of
 joy shall be enlarged, and feast  <span
-id="fr_1253"></span>[6](#fn_1253) in the body in which it dwells, and
- <span id="fr_1254"></span>[7](#fn_1254) serve the Lord with joy, and in
+id="fr_1253"></span>[6](#fn_1253.md) in the body in which it dwells, and
+ <span id="fr_1254"></span>[7](#fn_1254.md) serve the Lord with joy, and in
 great peace.
 
-3 But if any  <span id="fr_1255"></span>[8](#fn_1255) anger shall
+3 But if any  <span id="fr_1255"></span>[8](#fn_1255.md) anger shall
 overtake thee, presently the Holy Spirit which is in thee will be
 straightened and seek to depart from thee.
 
 4 For he is choked by the evil spirit, and has not the  <span
-id="fr_1256"></span>[9](#fn_1256) liberty of  <span
-id="fr_1257"></span>[10](#fn_1257) serving the Lord as he would for he
-is grieved by  <span id="fr_1258"></span>[11](#fn_1258) anger.
+id="fr_1256"></span>[9](#fn_1256.md) liberty of  <span
+id="fr_1257"></span>[10](#fn_1257.md) serving the Lord as he would for he
+is grieved by  <span id="fr_1258"></span>[11](#fn_1258.md) anger.
 
 <span id="page_217">p. 217</span>
 
 <span id="img_21700"></span> <span align="CENTER"> [![THE INTERMENT OF
 CHRIST. FROM A FRESCO BY CIMABUE, THIRTEENTH CENTURY.](tn/21700.jpg)  
-Click to enlarge](img/21700.jpg)  
+Click to enlarge](img/21700.jpg.md)  
 THE INTERMENT OF CHRIST. FROM A FRESCO BY CIMABUE, THIRTEENTH CENTURY.  
 </span>
 
 <span class="contnote">\[paragraph continues\]</span>  <span
-id="fr_1259"></span>[1](#fn_1259) When, therefore, both these spirits
+id="fr_1259"></span>[1](#fn_1259.md) When, therefore, both these spirits
 dwell together, it is destructive to a man.
 
 5 As if one should take a little wormwood, and put it into a vessel of
@@ -395,14 +395,14 @@ the Lord who dwelleth in it.
 
 7 But anger is unprofitable. If therefore anger shall be mixed with
 forbearance, the soul is distressed, and its prayer is not profitable
- <span id="fr_1260"></span>[2](#fn_1260) with God.
+ <span id="fr_1260"></span>[2](#fn_1260.md) with God.
 
 8 And I said unto him, Sir, I would know the sinfulness of anger, that I
 may keep myself from it. And he said unto me, Thou shalt know it; and if
 thou shalt not keep thyself from it, thou shalt lose thy hope with all
 thy house. Wherefore depart from it.
 
-9 For I the  <span id="fr_1261"></span>[3](#fn_1261) messenger of
+9 For I the  <span id="fr_1261"></span>[3](#fn_1261.md) messenger of
 righteousness am with thee; and all that depart from it, as many as
 shall repent with all their hearts, shall live unto God; and I will be
 with them, and will keep them all.
@@ -412,12 +412,12 @@ messenger, who is a minister of salvation.
 
 11 ¶ And now, says he, hear the wickedness of anger; how evil and
 hurtful it is, and how it overthrows the servants of God; for it cannot
- <span id="fr_1262"></span>[4](#fn_1262) hurt those that are full of
-faith because the  <span id="fr_1263"></span>[5](#fn_1263) power of God
+ <span id="fr_1262"></span>[4](#fn_1262.md) hurt those that are full of
+faith because the  <span id="fr_1263"></span>[5](#fn_1263.md) power of God
 is with them; but it overthrows the doubtful, and those that are
 destitute of faith.
 
-12 For as often as it sees  <span id="fr_1264"></span>[6](#fn_1264) such
+12 For as often as it sees  <span id="fr_1264"></span>[6](#fn_1264.md) such
 men, it casts itself into their hearts; and so a man or woman is in
 bitterness for nothing, for the things of life, or for sustenance, or
 for a vain word, if any should chance to fall in; or by reason of any
@@ -428,7 +428,7 @@ nature.
 servants of God. But equanimity is strong, and forcible; and of great
 power, and sitteth in great enlargement; is cheerful, rejoicing in
 peace; and glorifying God at all times  <span
-id="fr_1265"></span>[7](#fn_1265) with meekness.
+id="fr_1265"></span>[7](#fn_1265.md) with meekness.
 
 14 And this long-suffering dwells with those that are full of faith. But
 anger is foolish, and light, and empty. Now bitterness is bred through
@@ -436,7 +436,7 @@ folly; by bitterness, anger; by anger, fury. And this fury arising from
 so many evil principles, worketh a great and incurable sin.
 
 15 For when all these things are in the same  <span
-id="fr_1266"></span>[8](#fn_1266) man in which the Holy Spirit dwells,
+id="fr_1266"></span>[8](#fn_1266.md) man in which the Holy Spirit dwells,
 the vessel cannot contain them, but runs over: and because the Spirit
 being tender cannot tarry with the evil one; it departs and dwells with
 him that is meek.
@@ -446,11 +446,11 @@ him that is meek.
 <span id="page_218">p. 218</span>
 
 dwelt; that man becomes destitute of the Holy Spirit, and is afterwards
-filled with wicked spirits,  <span id="fr_1267"></span>[1](#fn_1267) and
+filled with wicked spirits,  <span id="fr_1267"></span>[1](#fn_1267.md) and
 is blinded with evil thoughts. Thus doth it happen to all angry men.
 
 17 Wherefore depart thou from anger and put on equanimity, and resist
-wrath; so thou shalt be  <span id="fr_1268"></span>[2](#fn_1268) found
+wrath; so thou shalt be  <span id="fr_1268"></span>[2](#fn_1268.md) found
 with modesty and chastity by God. Take good heed therefore that thou
 neglect not this commandment.
 
@@ -464,16 +464,16 @@ unto God.
 #### COMMAND IV.
 
 <span class="small">*That every man has two*  <span
-id="fr_1269"></span>[3](#fn_1269) *angels, and of the suggestions of
+id="fr_1269"></span>[3](#fn_1269.md) *angels, and of the suggestions of
 both*.</span>
 
 I COMMANDED thee, said he, in my first commandments, that thou shouldst
-keep faith and fear, and  <span id="fr_1270"></span>[4](#fn_1270)
+keep faith and fear, and  <span id="fr_1270"></span>[4](#fn_1270.md)
 repentance. Yes, Sir, said I.
 
 2 He continued: But now I will shew thee the virtues of these commands,
 that thou mayest know their effects; how they are  <span
-id="fr_1271"></span>[5](#fn_1271) prescribed alike to the just and
+id="fr_1271"></span>[5](#fn_1271.md) prescribed alike to the just and
 unjust.
 
 3 Do thou therefore believe the righteous, but give no credit to the
@@ -492,7 +492,7 @@ offence; because it is not rough nor thorny.
 therefore go, says he, and all others, as many as believe in God with
 all their heart, shall o through it.
 
-7 ¶ And now, says he;  <span id="fr_1272"></span>[6](#fn_1272)
+7 ¶ And now, says he;  <span id="fr_1272"></span>[6](#fn_1272.md)
 understand first of all what belongs to faith. There are two angels with
 man; one of righteousness, the other of iniquity.
 
@@ -515,14 +515,14 @@ his works.
 the angel of iniquity. He is first of all bitter, and angry, and
 foolish; and his works are pernicious, and overthrow the servants of
 God. When therefore these things come into thy heart; thou shalt know by
-his works, that this is the angel of [iniquity](errata.htm#12).
+his works, that this is the angel of [iniquity](errata.htm#12.md).
 
 12 And I said unto him, Sir, how shall I understand these things? Hear
 says he, and understand. When anger overtakes thee, or bitterness, know
 that he is in thee:
 
 13 As also, when the desire of many  <span
-id="fr_1273"></span>[1](#fn_1273) things, and of the best meats and of
+id="fr_1273"></span>[1](#fn_1273.md) things, and of the best meats and of
 drunkenness; when the love of what belongs to others, pride, and much
 speaking and ambition, and the like things, come upon thee.
 
@@ -544,18 +544,18 @@ good.
 
 18 Thou seest therefore how it is good to follow the angel of
 righteousness. If therefore thou shall follow him, and  <span
-id="fr_1274"></span>[2](#fn_1274) submit to his works, thou shalt live
-unto God. And as many as shall  <span id="fr_1275"></span>[2](#fn_1274)
+id="fr_1274"></span>[2](#fn_1274.md) submit to his works, thou shalt live
+unto God. And as many as shall  <span id="fr_1275"></span>[2](#fn_1274.md)
 submit to his work, shall live also unto God.
 
 #### COMMAND VII.
 
 <span class="small">*That we must fear God, but not the Devil*.</span>
 
-FEAR  <span id="fr_1276"></span>[3](#fn_1275) God, says he, and keep his
+FEAR  <span id="fr_1276"></span>[3](#fn_1275.md) God, says he, and keep his
 commandments. For if thou keepest his commandments thou shalt be
 powerful in every work, and all thy works shall be  <span
-id="fr_1277"></span>[4](#fn_1276) excellent. For by fearing God, thou
+id="fr_1277"></span>[4](#fn_1276.md) excellent. For by fearing God, thou
 shalt do every thing well.
 
 2 This is that fear with which thou must be affected that thou mayest be
@@ -573,7 +573,7 @@ from them.
 
 5 There is therefore a twofold fear; if thou wilt not do evil, fear the
 Lord and thou shalt not do it. But if thou wilt do good,  <span
-id="fr_1278"></span>[5](#fn_1277) the fear of the Lord is strong, and
+id="fr_1278"></span>[5](#fn_1277.md) the fear of the Lord is strong, and
 great and glorious.
 
 6 Wherefore, fear God and thou shalt live: and whosoever shall fear him,
@@ -588,14 +588,14 @@ keep them not, neither is life in them.
 
 I HAVE told thee, said he, that there are two kinds of creatures of the
 Lord, and that there is a two-fold  <span
-id="fr_1279"></span>[1](#fn_1278) abstinence. From some things therefore
+id="fr_1279"></span>[1](#fn_1278.md) abstinence. From some things therefore
 thou must abstain, and from others not.
 
 2 I answered, Declare to me, sir, from what I must abstain, and from
 what not. Hearken, said he. Keep thyself from evil, and do it not; but
 abstain not from good, but do it. For if thou shalt abstain from what is
 good, and not do it, thou shalt sin. Abstain therefore from all evil,
-and thou shalt  <span id="fr_1280"></span>[2](#fn_1279) know all
+and thou shalt  <span id="fr_1280"></span>[2](#fn_1279.md) know all
 righteousness.
 
 3 I said, What evil things are they from which I must abstain? Hearken,
@@ -615,7 +615,7 @@ boasting, and all other things of the like nature.
 
 6 Do these things seem to thee to be evil or not? Indeed they are very
 evil to the servants of God. Wherefore the servant of God must abstain
-from all these  <span id="fr_1281"></span>[3](#fn_1280) works.
+from all these  <span id="fr_1281"></span>[3](#fn_1280.md) works.
 
 7 Keep thyself therefore from them, that thou mayest live unto God, and
 be written among those that abstain from them. And thus have I shown
@@ -628,20 +628,20 @@ saved. The first of all is faith; the fear of the Lord; charity;
 concord; equity; truth; patience; chastity.
 
 9 There is nothing better than these things in the life of man;  <span
-id="fr_1282"></span>[4](#fn_1281) who shall keep and do these things in
+id="fr_1282"></span>[4](#fn_1281.md) who shall keep and do these things in
 their life. Hear next what follow these.
 
 10 To minister to the widows; not to despise the fatherless and poor; to
 redeem the servants of God from necessity; to be hospitable; (for in
-hospitality there is sometimes  <span id="fr_1283"></span>[5](#fn_1282)
+hospitality there is sometimes  <span id="fr_1283"></span>[5](#fn_1282.md)
 great fruit) not to be contentious, but be quiet.
 
 11 To be humble above all men; to reverence the aged; to labour to be
-righteous;  <span id="fr_1284"></span>[6](#fn_1283) to respect the
+righteous;  <span id="fr_1284"></span>[6](#fn_1283.md) to respect the
 brotherhood; to bear affronts; to be long-suffering;  <span
-id="fr_1285"></span>[7](#fn_1284) not to cast away those that have
+id="fr_1285"></span>[7](#fn_1284.md) not to cast away those that have
 fallen from the faith, but to convert them, and make them be of  <span
-id="fr_1286"></span>[8](#fn_1285) good cheer; to admonish sinners; not
+id="fr_1286"></span>[8](#fn_1285.md) good cheer; to admonish sinners; not
 to oppress those that are our debtors; and all other things of a like
 kind.
 
@@ -659,7 +659,7 @@ keep these commandments shall live unto God.
 <span class="small">*That we must ask of God daily; and without
 doubting*.</span>
 
-AGAIN he said unto me;  <span id="fr_1287"></span>[1](#fn_1286) remove
+AGAIN he said unto me;  <span id="fr_1287"></span>[1](#fn_1286.md) remove
 from thee all doubting; and question nothing at all, when thou askest
 anything of the Lord; saying within thyself: how shall I be able to ask
 anything of the Lord and receive it, seeing I have so greatly sinned
@@ -678,7 +678,7 @@ thou shalt receive whatsoever good things thou shalt ask, and nothing
 shall be wanting unto thee of all thy petitions; if thou shalt ask of
 the Lord without doubting.
 
-5  <span id="fr_1288"></span>[2](#fn_1287) But they that are not such,
+5  <span id="fr_1288"></span>[2](#fn_1287.md) But they that are not such,
 shall obtain none of those things which they ask. For they that are full
 of faith ask all things with confidence, and receive from the Lord,
 because they ask without doubting. But he that doubts, shall hardly live
@@ -687,13 +687,13 @@ unto God, except he repent.
 6 Wherefore purify thy heart from doubting, and put on faith, and trust
 in God, and thou shalt receive all that thou shalt ask. But and if thou
 shouldest chance to ask somewhat and not ( <span
-id="fr_1289"></span>[3](#fn_1288) immediately) receive it, yet do not
+id="fr_1289"></span>[3](#fn_1288) immediately.md) receive it, yet do not
 therefore doubt, because thou hast not presently received the petition
 of thy soul.
 
 7 For it may be thou shalt not presently receive it for thy trial, or
 else for some sin which thou knowest not. But do not thou leave off to
-ask,  <span id="fr_1290"></span>[4](#fn_1289) and then thou shalt
+ask,  <span id="fr_1290"></span>[4](#fn_1289.md) and then thou shalt
 receive. Else if thou shalt cease to ask, thou must complain of thyself,
 and not of God, that he has not given unto thee what thou didst desire.
 
@@ -703,7 +703,7 @@ firm. For this doubting is the daughter of the devil, and deals very
 wickedly with the servants of God.
 
 9 Despise it therefore, and thou shalt rule over it  <span
-id="fr_1291"></span>[5](#fn_1290) on every occasion. Put on a firm and
+id="fr_1291"></span>[5](#fn_1290.md) on every occasion. Put on a firm and
 powerful faith: for faith promises all things and perfects all things.
 But doubting will not believe, that it shall obtain anything, by all
 that it can do.
@@ -729,20 +729,20 @@ PUT all sadness far from thee; for it is the sister of doubting and of
 anger. How, sir, said I, is it the sister of these? for sadness, and
 anger, and doubting, seem to me to be very different from one another.
 
-2 And he answered:  <span id="fr_1292"></span>[1](#fn_1291) Art thou
+2 And he answered:  <span id="fr_1292"></span>[1](#fn_1291.md) Art thou
 without sense that thou dost not understand it? For sadness is the most
 mischievous of all spirits, and the worst to the servants of God:  <span
-id="fr_1293"></span>[2](#fn_1292) It destroys the spirits of all men,
+id="fr_1293"></span>[2](#fn_1292.md) It destroys the spirits of all men,
 and torments the Holy Spirit; and again, it saves.
 
 3 Sir, said I, I am very foolish, and understand not these  <span
-id="fr_1294"></span>[3](#fn_1293) things. I cannot apprehend how it can
+id="fr_1294"></span>[3](#fn_1293.md) things. I cannot apprehend how it can
 torment, and yet save. Hear, said he, and understand. They who never
 sought out the truth, nor inquired concerning the majesty of God, but
 only believed, are involved in the affairs of the heathen.
 
-4 And there is another  <span id="fr_1295"></span>[4](#fn_1294) lying
-prophet that destroys the  <span id="fr_1296"></span>[5](#fn_1295) minds
+4 And there is another  <span id="fr_1295"></span>[4](#fn_1294.md) lying
+prophet that destroys the  <span id="fr_1296"></span>[5](#fn_1295.md) minds
 of the servants of God; that is of those that are doubtful, not of those
 that fully trust in the Lord. Now those doubtful persons come to him, as
 to a divine spirit, and inquire of him what shall befall them.
@@ -781,30 +781,30 @@ neglected, are oppressed with weeds and thorns, and at last killed by
 them; so are the men who believe such spirits.
 
 12 They fall into many actions and businesses, and are void of sense,
- <span id="fr_1297"></span>[1](#fn_1296) and when they think of things
+ <span id="fr_1297"></span>[1](#fn_1296.md) and when they think of things
 pertaining unto God, they understand nothing at all: but if at any time
 they chance to hear anything concerning the Lord, their  <span
-id="fr_1298"></span>[2](#fn_1297) thoughts are upon their business.
+id="fr_1298"></span>[2](#fn_1297.md) thoughts are upon their business.
 
 13 But they that have the fear of the Lord, and search out the truth
-concerning God,  <span id="fr_1299"></span>[3](#fn_1298) having all
+concerning God,  <span id="fr_1299"></span>[3](#fn_1298.md) having all
 their thoughts towards the Lord; apprehend whatsoever is said to them,
 and forthwith understand it, because they have the fear of the Lord in
 them.
 
 14 For where the spirit of the Lord dwells, there is also  <span
-id="fr_1300"></span>[4](#fn_1299) much understanding added. Wherefore
-join thyself to the Lord,  <span id="fr_1301"></span>[5](#fn_1300) and
+id="fr_1300"></span>[4](#fn_1299.md) much understanding added. Wherefore
+join thyself to the Lord,  <span id="fr_1301"></span>[5](#fn_1300.md) and
 thou shalt understand all things.
 
 15 ¶ Learn now, O unwise man! how sadness  <span
-id="fr_1302"></span>[6](#fn_1301) troubleth the Holy Spirit, and how it
+id="fr_1302"></span>[6](#fn_1301.md) troubleth the Holy Spirit, and how it
 saves. When a man that is doubtful is engaged in any affair, and does
 not accomplish it by reason of his doubting, this sadness enters into
 him, and grieves the Holy Spirit, and makes him sad.
 
 16 Again, anger when it overtakes any man for any business he is greatly
-moved;  <span id="fr_1303"></span>[7](#fn_1302) and then again sadness
+moved;  <span id="fr_1303"></span>[7](#fn_1302.md) and then again sadness
 entereth into the heart of him, who was moved with anger, and he is
 troubled for what he hath done, and repenteth, because he hath done
 amiss.
@@ -815,20 +815,20 @@ and sadness, such as before was mentioned, vex the spirit: doubting,
 because his work did not succeed: and sadness, because he angered the
 Holy Spirit.
 
-18  <span id="fr_1304"></span>[8](#fn_1303) Remove therefore sadness
-from thyself,  <span id="fr_1305"></span>[9](#fn_1304) and afflict not
+18  <span id="fr_1304"></span>[8](#fn_1303.md) Remove therefore sadness
+from thyself,  <span id="fr_1305"></span>[9](#fn_1304.md) and afflict not
 the Holy Spirit which dwelleth in thee, lest he  <span
-id="fr_1306"></span>[10](#fn_1305) entreat God, and depart from thee.
-For the spirit of the Lord  <span id="fr_1307"></span>[11](#fn_1306)
+id="fr_1306"></span>[10](#fn_1305.md) entreat God, and depart from thee.
+For the spirit of the Lord  <span id="fr_1307"></span>[11](#fn_1306.md)
 which is given to dwell in the flesh, endureth no such sadness.
 
 19 Wherefore clothe thyself with cheerfulness, which has always favour
 with the Lord, and thou shalt rejoice in it. For every cheerful man does
 well; and relishes those things that are good, and despises  <span
-id="fr_1308"></span>[12](#fn_1307) sadness.
+id="fr_1308"></span>[12](#fn_1307.md) sadness.
 
 20 But the sad man does always wickedly.  <span
-id="fr_1309"></span>[13](#fn_1308) First, he doth wickedly, because he
+id="fr_1309"></span>[13](#fn_1308.md) First, he doth wickedly, because he
 grieveth the Holy Spirit, which is given to man, being of a cheerful
 nature. And again he does ill, because he prays with sadness unto the
 Lord,
@@ -851,7 +851,7 @@ prayer to be the same as it would be otherwise.
 
 23 Wherefore cleanse thyself from sadness, which is evil, and thou shalt
 live unto God. And all others shall live unto God, as many as shall lay
-aside [sadness](errata.htm#13) and put on cheerfulness.
+aside [sadness](errata.htm#13.md) and put on cheerfulness.
 
 #### COMMAND XI.
 
@@ -863,7 +863,7 @@ chair: and he said unto me seest thou who sit upon the benches? Sir,
 said I, I see them. He answered, They are the faithful; and he who sits
 in the chair is an earthly spirit.
 
-2 For he cometh not into  <span id="fr_1310"></span>[1](#fn_1309) the
+2 For he cometh not into  <span id="fr_1310"></span>[1](#fn_1309.md) the
 assembly of the faithful, but avoids it. But he joins himself to the
 doubtful and empty; and prophesies to them in corners and hidden places;
 and pleases them by speaking according to all the desires of their
@@ -871,20 +871,20 @@ hearts.
 
 3 For he placing himself among empty vessels, is not broken, but the one
 fitteth the other. But when he cometh into the company of just men,
- <span id="fr_1311"></span>[2](#fn_1310) who are full of the spirit of
+ <span id="fr_1311"></span>[2](#fn_1310.md) who are full of the spirit of
 God, and they pray unto the Lord; that man is  <span
-id="fr_1312"></span>[3](#fn_1311) emptied because that earthly spirit
+id="fr_1312"></span>[3](#fn_1311.md) emptied because that earthly spirit
 flies from him, and he is dumb, and cannot speak anything.
 
 4 As if in a store-house you shall stop up wine or oil; and among those
 vessels shall place an empty jar; and shall afterwards come to open it,
 you shall find it empty as you stopped it up: so those empty prophets
 when they come among the spirits of the just, are found to be such as
-they came. <span id="fr_1313"></span>[4](#fn_1312)
+they came. <span id="fr_1313"></span>[4](#fn_1312.md)
 
 5 ¶ I said, How then shall a man be able to discern them? Consider what
 I am going to say considering both kinds of  <span
-id="fr_1314"></span>[5](#fn_1313) men; and as I speak unto thee so shalt
+id="fr_1314"></span>[5](#fn_1313.md) men; and as I speak unto thee so shalt
 thou prove the prophet of God, and the false prophet.
 
 6 And first try the man who hath the spirit of God; because the spirit
@@ -901,7 +901,7 @@ when he will, but when God pleases.
 <span id="img_22500"></span> <span align="CENTER"> [![THE RESURRECTION
 OF CHRIST. FROM A ''BOOK OF THE EVANGELISTS.'' GREEK MANUSCRIPT OF THE
 TWELFTH CENTURY.](tn/22500.jpg)  
-Click to enlarge](img/22500.jpg)  
+Click to enlarge](img/22500.jpg.md)  
 THE RESURRECTION OF CHRIST. FROM A ''BOOK OF THE EVANGELISTS.'' GREEK
 MANUSCRIPT OF THE TWELFTH CENTURY.  
 </span>
@@ -958,22 +958,22 @@ which has the power; and depart from the other which is empty.
 not impossible: and that the devil is not to be feared by them that
 believe*.</span>
 
-AGAIN he said unto me;  <span id="fr_1315"></span>[1](#fn_1314) remove
+AGAIN he said unto me;  <span id="fr_1315"></span>[1](#fn_1314.md) remove
 from thee all evil desires, and put on good and holy desires. For having
 put on a good desire, thou shalt hate that which is evil, and bridle it
 as thou wilt. But an evil desire is dreadful and hard to be tamed.
 
 2 It is very horrible and wild: and by its wildness consumes men. And
 especially if a servant of God shall chance to fall into it, except he
-be very wise, he  <span id="fr_1316"></span>[2](#fn_1315) is ruined by
+be very wise, he  <span id="fr_1316"></span>[2](#fn_1315.md) is ruined by
 it. For it destroys those who have not the garment of a good desire: and
- <span id="fr_1317"></span>[3](#fn_1316) are engaged in the affairs of
+ <span id="fr_1317"></span>[3](#fn_1316.md) are engaged in the affairs of
 
 <span id="page_226">p. 226</span>
 
 this present world; and delivers them unto death.
 
-3  <span id="fr_1318"></span>[1](#fn_1317) Sir, said I, what are the
+3  <span id="fr_1318"></span>[1](#fn_1317.md) Sir, said I, what are the
 works of an evil desire, which bring men unto death? Shew them to me,
 that I may depart from them. Hear said he, by what works an evil desire
 bringeth the servants of God unto death.
@@ -1051,9 +1051,9 @@ understanding!
 19 Unconstant, not knowing the majesty of God how great and wonderful he
 is; who created the world for man, and hath made every creature subject
 unto him: and given him all power, that he should be able to  <span
-id="fr_1319"></span>[1](#fn_1318) fulfil all these commands.
+id="fr_1319"></span>[1](#fn_1318.md) fulfil all these commands.
 
-20 He is able, said he, to  <span id="fr_1320"></span>[2](#fn_1319)
+20 He is able, said he, to  <span id="fr_1320"></span>[2](#fn_1319.md)
 fulfil all these commands, who ha the Lord in his heart: but they who
 have the Lord only in their mouths, and their heart is hardened, and
 they are far from the Lord; to such persons these commands are hard and
@@ -1078,7 +1078,7 @@ his commandments.
 
 25 But the devil is hard, and by his power rules over the servants of
 God. And he said He cannot rule over the servants of God,  <span
-id="fr_1321"></span>[3](#fn_1320) who trust in him with all their
+id="fr_1321"></span>[3](#fn_1320.md) who trust in him with all their
 hearts.
 
 26 The devil may strive, but he cannot overcome them.
@@ -1089,7 +1089,7 @@ great power. For the devil tries the i servants of God and if he finds
 them empty, he destroys them.
 
 28 For as man, when he fills up vessels with good wine,  <span
-id="fr_1322"></span>[4](#fn_1321) and among them puts a few vessels half
+id="fr_1322"></span>[4](#fn_1321.md) and among them puts a few vessels half
 full, and comes to try and taste of the vessels, doth not try those that
 are full, because ho knows that they are good; but tastes those that are
 half full, lest they should grow sour; (for vessels half full soon grow
@@ -1106,15 +1106,15 @@ entrance,
 he goes into them, and does what he will with them, and they become his
 servants.
 
-30 ¶ But I,  <span id="fr_1323"></span>[1](#fn_1322) the messenger of
+30 ¶ But I,  <span id="fr_1323"></span>[1](#fn_1322.md) the messenger of
 repentance, say unto you, fear not the devil, for I am sent unto you,
 that I may he with you, as many as shall repent with your whole heart,
 and that I may confirm you in the faith.
 
-31  <span id="fr_1324"></span>[2](#fn_1323) Believe therefore, ye who by
+31  <span id="fr_1324"></span>[2](#fn_1323.md) Believe therefore, ye who by
 reason of your transgressions have  <span
-id="fr_1325"></span>[3](#fn_1324) forgot God, and your own salvation;
-and  <span id="fr_1326"></span>[4](#fn_1325) adding to your sins have
+id="fr_1325"></span>[3](#fn_1324.md) forgot God, and your own salvation;
+and  <span id="fr_1326"></span>[4](#fn_1325.md) adding to your sins have
 made your life very heavy.
 
 32 That if ye shall turn to the Lord with your whole hearts, and shall
@@ -1142,267 +1142,267 @@ God.
 
 ### Footnotes
 
-<span id="fn_1214"></span>[212:1](lbob27.htm#fr_1214) Observe them,
+<span id="fn_1214"></span>[212:1](lbob27.htm#fr_1214.md) Observe them,
 Custodite possiss. Lat.
 
-<span id="fn_1215"></span>[212:2](lbob27.htm#fr_1215) Adversa
+<span id="fn_1215"></span>[212:2](lbob27.htm#fr_1215.md) Adversa
 recipietis.
 
-<span id="fn_1216"></span>[212:3](lbob27.htm#fr_1216) Faith.
+<span id="fn_1216"></span>[212:3](lbob27.htm#fr_1216.md) Faith.
 
-<span id="fn_1217"></span>[212:4](lbob27.htm#fr_1217) Irenæus l. 1, c.
+<span id="fn_1217"></span>[212:4](lbob27.htm#fr_1217.md) Irenæus l. 1, c.
 3. Origen, de Princ. l. 1, c. 3. Euseb. Hist. Eccles. l. 5, c. 8.
 Athanas. de Incarn. Verb. &c.
 
-<span id="fn_1218"></span>[212:5](lbob27.htm#fr_1218) Habe abstinentiam.
+<span id="fn_1218"></span>[212:5](lbob27.htm#fr_1218.md) Habe abstinentiam.
 
-<span id="fn_1219"></span>[212:6](lbob27.htm#fr_1219) Omnem.
+<span id="fn_1219"></span>[212:6](lbob27.htm#fr_1219.md) Omnem.
 concupisceniam. MSS. Lamb. et Oxon.
 
-<span id="fn_1220"></span>[213:1](lbob27.htm#fr_1220) Lat. Have
+<span id="fn_1220"></span>[213:1](lbob27.htm#fr_1220.md) Lat. Have
 simplicity and be innocent.
 
-<span id="fn_1221"></span>[213:2](lbob27.htm#fr_1221) Gr. Ἐι δε μη, και
+<span id="fn_1221"></span>[213:2](lbob27.htm#fr_1221.md) Gr. Ἐι δε μη, και
 συ σκονων ενοχος εσῃ.
 
-<span id="fn_1222"></span>[213:3](lbob27.htm#fr_1222) So the Gr. and
+<span id="fn_1222"></span>[213:3](lbob27.htm#fr_1222.md) So the Gr. and
 Lamb. MS. Particeps errs peccati male loquentis, credens: tu habebis
 peccatum.
 
-<span id="fn_1223"></span>[213:4](lbob27.htm#fr_1223) Vid. Antioch. Hom.
+<span id="fn_1223"></span>[213:4](lbob27.htm#fr_1223.md) Vid. Antioch. Hom.
 xxix.
 
-<span id="fn_1224"></span>[213:5](lbob27.htm#fr_1224) Dæmon.
+<span id="fn_1224"></span>[213:5](lbob27.htm#fr_1224.md) Dæmon.
 
-<span id="fn_1225"></span>[213:6](lbob27.htm#fr_1225) The Greek hath
+<span id="fn_1225"></span>[213:6](lbob27.htm#fr_1225.md) The Greek hath
 ουν.
 
-<span id="fn_1226"></span>[213:7](lbob27.htm#fr_1226) Rather Simplicity;
+<span id="fn_1226"></span>[213:7](lbob27.htm#fr_1226.md) Rather Simplicity;
 according to the Greek reading, preserved by Athanasius.
 
-<span id="fn_1227"></span>[213:8](lbob27.htm#fr_1227) Gr. in which there
+<span id="fn_1227"></span>[213:8](lbob27.htm#fr_1227.md) Gr. in which there
 is no evil offence, but all things smooth and delightful, εν οις ουδεν
 προσκομμα εστι πονηρον, αλλα παντα ομαλα κγ ἱλαρα.
 
-<span id="fn_1228"></span>[213:9](lbob27.htm#fr_1228) Vid. Antioch. Hom.
+<span id="fn_1228"></span>[213:9](lbob27.htm#fr_1228.md) Vid. Antioch. Hom.
 xcviii.
 
-<span id="fn_1229"></span>[213:10](lbob27.htm#fr_1229) Simply.
+<span id="fn_1229"></span>[213:10](lbob27.htm#fr_1229.md) Simply.
 
-<span id="fn_1230"></span>[213:11](lbob27.htm#fr_1230) G. εκ των ιδιων
+<span id="fn_1230"></span>[213:11](lbob27.htm#fr_1230.md) G. εκ των ιδιων
 δορηματων. MS. Lamb. de suis dodis.
 
-<span id="fn_1231"></span>[213:12](lbob27.htm#fr_1231) Gloriously to
+<span id="fn_1231"></span>[213:12](lbob27.htm#fr_1231.md) Gloriously to
 God.
 
-<span id="fn_1232"></span>[213:13](lbob27.htm#fr_1232) Antioch Hom.
+<span id="fn_1232"></span>[213:13](lbob27.htm#fr_1232.md) Antioch Hom.
 lxvi.
 
-<span id="fn_1233"></span>[213:14](lbob27.htm#fr_1233) According to the
+<span id="fn_1233"></span>[213:14](lbob27.htm#fr_1233.md) According to the
 Gr.
 
-<span id="fn_1234"></span>[213:15](lbob27.htm#fr_1234) See III. Hermas
+<span id="fn_1234"></span>[213:15](lbob27.htm#fr_1234.md) See III. Hermas
 Simil. ix. v. 268 et seq.
 
-<span id="fn_1235"></span>[214:1](lbob27.htm#fr_1235) Through these
+<span id="fn_1235"></span>[214:1](lbob27.htm#fr_1235.md) Through these
 words. Lat. His verbis et illa fidem recipiant.
 
-<span id="fn_1236"></span>[214:2](lbob27.htm#fr_1236) If thou shalt keep
+<span id="fn_1236"></span>[214:2](lbob27.htm#fr_1236.md) If thou shalt keep
 the truth.
 
-<span id="fn_1237"></span>[214:3](lbob27.htm#fr_1237) Chastity.
+<span id="fn_1237"></span>[214:3](lbob27.htm#fr_1237.md) Chastity.
 
-<span id="fn_1238"></span>[214:4](lbob27.htm#fr_1238) Another man's.
+<span id="fn_1238"></span>[214:4](lbob27.htm#fr_1238.md) Another man's.
 
-<span id="fn_1239"></span>[215:1](lbob27.htm#fr_1239) See 1 Cor. vii.
+<span id="fn_1239"></span>[215:1](lbob27.htm#fr_1239.md) See 1 Cor. vii.
 15.
 
-<span id="fn_1240"></span>[215:2](lbob27.htm#fr_1240) Sense.
+<span id="fn_1240"></span>[215:2](lbob27.htm#fr_1240.md) Sense.
 
-<span id="fn_1241"></span>[215:3](lbob27.htm#fr_1241) Prœpositus.
+<span id="fn_1241"></span>[215:3](lbob27.htm#fr_1241.md) Prœpositus.
 
-<span id="fn_1242"></span>[215:4](lbob27.htm#fr_1242) See below, v. 18
+<span id="fn_1242"></span>[215:4](lbob27.htm#fr_1242.md) See below, v. 18
 et seq.
 
-<span id="fn_1243"></span>[215:5](lbob27.htm#fr_1243) Great wisdom.
+<span id="fn_1243"></span>[215:5](lbob27.htm#fr_1243.md) Great wisdom.
 
-<span id="fn_1244"></span>[215:6](lbob27.htm#fr_1244) In his
+<span id="fn_1244"></span>[215:6](lbob27.htm#fr_1244.md) In his
 understanding.
 
-<span id="fn_1245"></span>[215:7](lbob27.htm#fr_1245) Chastity.
+<span id="fn_1245"></span>[215:7](lbob27.htm#fr_1245.md) Chastity.
 
-<span id="fn_1246"></span>[215:8](lbob27.htm#fr_1246) Rightly heard.
+<span id="fn_1246"></span>[215:8](lbob27.htm#fr_1246.md) Rightly heard.
 
-<span id="fn_1247"></span>[215:9](lbob27.htm#fr_1247) MS. Lamb. Qui modo
+<span id="fn_1247"></span>[215:9](lbob27.htm#fr_1247.md) MS. Lamb. Qui modo
 crediderunt, Who have just now believed.
 
-<span id="fn_1248"></span>[216:1](lbob27.htm#fr_1248) Vid. Annot.
+<span id="fn_1248"></span>[216:1](lbob27.htm#fr_1248.md) Vid. Annot.
 Coteler. in loc. pp. 60, 61.
 
-<span id="fn_1249"></span>[216:2](lbob27.htm#fr_1249) Vid. not. Coteler.
+<span id="fn_1249"></span>[216:2](lbob27.htm#fr_1249.md) Vid. not. Coteler.
 in loc. p. 64 B. C. Rom. vii. 3. Comp. 1 Cor. vii.
 
-<span id="fn_1250"></span>[216:3](lbob27.htm#fr_1250) SM. Lamb. medius;
+<span id="fn_1250"></span>[216:3](lbob27.htm#fr_1250.md) SM. Lamb. medius;
 Ex quo mihi traditus es, That thou host been delivered unto me, and I
 dwell, etc.
 
-<span id="fn_1251"></span>[216:4](lbob27.htm#fr_1251) Gr. Μακροθυμος.
+<span id="fn_1251"></span>[216:4](lbob27.htm#fr_1251.md) Gr. Μακροθυμος.
 MS. Lam. Animæquus.
 
-<span id="fn_1252"></span>[216:5](lbob27.htm#fr_1252) Work.
+<span id="fn_1252"></span>[216:5](lbob27.htm#fr_1252.md) Work.
 
-<span id="fn_1253"></span>[216:6](lbob27.htm#fr_1253) SM. Lamb. melius,
+<span id="fn_1253"></span>[216:6](lbob27.htm#fr_1253.md) SM. Lamb. melius,
 Cum. vase. Et Gr. μετα του σκευουσ, with the body or vessel.
 
-<span id="fn_1254"></span>[216:7](lbob27.htm#fr_1254) Gr. Λειτουργει τῳ
+<span id="fn_1254"></span>[216:7](lbob27.htm#fr_1254.md) Gr. Λειτουργει τῳ
 κυριῳ.
 
-<span id="fn_1255"></span>[216:8](lbob27.htm#fr_1255) Οξυχολια, Gr.
+<span id="fn_1255"></span>[216:8](lbob27.htm#fr_1255.md) Οξυχολια, Gr.
 Bitterness of gall.
 
-<span id="fn_1256"></span>[216:9](lbob27.htm#fr_1256) Place.
+<span id="fn_1256"></span>[216:9](lbob27.htm#fr_1256.md) Place.
 
-<span id="fn_1257"></span>[216:10](lbob27.htm#fr_1257) Gr.
+<span id="fn_1257"></span>[216:10](lbob27.htm#fr_1257.md) Gr.
 ᾽Λειτουργησαι.
 
-<span id="fn_1258"></span>[216:11](lbob27.htm#fr_1258) Ὀξυχολια.
+<span id="fn_1258"></span>[216:11](lbob27.htm#fr_1258.md) Ὀξυχολια.
 
-<span id="fn_1259"></span>[217:1](lbob27.htm#fr_1259) Both Athanasius
+<span id="fn_1259"></span>[217:1](lbob27.htm#fr_1259.md) Both Athanasius
 and Antiochus add these words, omitted in our copies: "For in
 forbearance (or long suffering) the Lord dwelleth, but in bitterness the
 Devil."
 
-<span id="fn_1260"></span>[217:2](lbob27.htm#fr_1260) To.
+<span id="fn_1260"></span>[217:2](lbob27.htm#fr_1260.md) To.
 
-<span id="fn_1261"></span>[217:3](lbob27.htm#fr_1261) Angel.
+<span id="fn_1261"></span>[217:3](lbob27.htm#fr_1261.md) Angel.
 
-<span id="fn_1262"></span>[217:4](lbob27.htm#fr_1262) Gr. work upon
+<span id="fn_1262"></span>[217:4](lbob27.htm#fr_1262.md) Gr. work upon
 ενεργησαι; et MS. Lamb. facere.
 
-<span id="fn_1263"></span>[217:5](lbob27.htm#fr_1263) Virtue.
+<span id="fn_1263"></span>[217:5](lbob27.htm#fr_1263.md) Virtue.
 
-<span id="fn_1264"></span>[217:6](lbob27.htm#fr_1264) Gr. Τοιουτους
+<span id="fn_1264"></span>[217:6](lbob27.htm#fr_1264.md) Gr. Τοιουτους
 ανθρωπους.
 
-<span id="fn_1265"></span>[217:7](lbob27.htm#fr_1265) In the Greek of
+<span id="fn_1265"></span>[217:7](lbob27.htm#fr_1265.md) In the Greek of
 Athananius and Antiochus the sense is fuller: Having nothing of
 bitterness in itself, and continuing always in meekness and quietness.
 
-<span id="fn_1266"></span>[217:8](lbob27.htm#fr_1266) Vessel.
+<span id="fn_1266"></span>[217:8](lbob27.htm#fr_1266.md) Vessel.
 
-<span id="fn_1267"></span>[218:1](lbob27.htm#fr_1267) In the Greek of
+<span id="fn_1267"></span>[218:1](lbob27.htm#fr_1267.md) In the Greek of
 Athanasius follow these words, omitted in the Lat. Vers. of Hermas: "And
 is unstable in all his doings, being drawn hither and thither by wicked
 men."
 
-<span id="fn_1268"></span>[218:2](lbob27.htm#fr_1268) In the Greek of
+<span id="fn_1268"></span>[218:2](lbob27.htm#fr_1268.md) In the Greek of
 Athanasius it runs better thus, "Applauded with reverence by those who
 are beloved of God."
 
-<span id="fn_1269"></span>[218:3](lbob27.htm#fr_1269) Vid. Coteler.
+<span id="fn_1269"></span>[218:3](lbob27.htm#fr_1269.md) Vid. Coteler.
 Annot. in loc. pp. 67, 68. Comp. Edit. Oxon. p. 61, Note a.
 
-<span id="fn_1270"></span>[218:4](lbob27.htm#fr_1270) Lat. Pœnitentiam;
+<span id="fn_1270"></span>[218:4](lbob27.htm#fr_1270.md) Lat. Pœnitentiam;
 it should rather be Abstinentiam; as in the Greek of Athanasius: as
 appears by the first Commandment, which is here referred to.
 
-<span id="fn_1271"></span>[218:5](lbob27.htm#fr_1271) Place, Lat. Posita
+<span id="fn_1271"></span>[218:5](lbob27.htm#fr_1271.md) Place, Lat. Posita
 sunt.
 
-<span id="fn_1272"></span>[218:6](lbob27.htm#fr_1272) Vid. Antioch. Hom.
+<span id="fn_1272"></span>[218:6](lbob27.htm#fr_1272.md) Vid. Antioch. Hom.
 lxi. Comp. Orig. l. iii. De Princip. et in Luc. Hom. xxxv.
 
-<span id="fn_1273"></span>[219:1](lbob27.htm#fr_1273) Works. Gr.
+<span id="fn_1273"></span>[219:1](lbob27.htm#fr_1273.md) Works. Gr.
 πραξεων.
 
-<span id="fn_1274"></span>[219:2](lbob27.htm#fr_1275) Gr. πιστευσῃς,
+<span id="fn_1274"></span>[219:2](lbob27.htm#fr_1275.md) Gr. πιστευσῃς,
 Lat. Credideris, Believe.
 
-<span id="fn_1275"></span>[219:3](lbob27.htm#fr_1276) Vid. Antioch. Hom.
+<span id="fn_1275"></span>[219:3](lbob27.htm#fr_1276.md) Vid. Antioch. Hom.
 cxxvii. Eccles. xii. 13.
 
-<span id="fn_1276"></span>[219:4](lbob27.htm#fr_1277) Ασυγκρατος,
+<span id="fn_1276"></span>[219:4](lbob27.htm#fr_1277.md) Ασυγκρατος,
 Without comparison: or without mixture.
 
-<span id="fn_1277"></span>[219:5](lbob27.htm#fr_1278) In the Gr. of
+<span id="fn_1277"></span>[219:5](lbob27.htm#fr_1278.md) In the Gr. of
 Antioch these words follow, which make the connection more clear: "Fear
 also the Lord, and thou shalt be able to do it, for."
 
-<span id="fn_1278"></span>[220:1](lbob27.htm#fr_1279) Antioch. Hom.
+<span id="fn_1278"></span>[220:1](lbob27.htm#fr_1279.md) Antioch. Hom.
 lxxix.
 
-<span id="fn_1279"></span>[220:2](lbob27.htm#fr_1280) Do according to
+<span id="fn_1279"></span>[220:2](lbob27.htm#fr_1280.md) Do according to
 the Greek, εργαζομενους.
 
-<span id="fn_1280"></span>[220:3](lbob27.htm#fr_1281) Vid. Coteler. in
+<span id="fn_1280"></span>[220:3](lbob27.htm#fr_1281.md) Vid. Coteler. in
 loc.
 
-<span id="fn_1281"></span>[220:4](lbob27.htm#fr_1282) The sense here is
+<span id="fn_1281"></span>[220:4](lbob27.htm#fr_1282.md) The sense here is
 defective, and may be thus restored from the Greek of
 Athanasius:—Whoever keeps these things, and doth not abstain from them,
 shall he happy in his life. And so the Lamb. MS: Hæc qui custorierit.
 
-<span id="fn_1282"></span>[220:5](lbob27.htm#fr_1283) Gr. αγαθοποιησις,
+<span id="fn_1282"></span>[220:5](lbob27.htm#fr_1283.md) Gr. αγαθοποιησις,
 good deed.
 
-<span id="fn_1283"></span>[220:6](lbob27.htm#fr_1284) συντηρειν.
+<span id="fn_1283"></span>[220:6](lbob27.htm#fr_1284.md) συντηρειν.
 
-<span id="fn_1284"></span>[220:7](lbob27.htm#fr_1285) Add from the Gr.
+<span id="fn_1284"></span>[220:7](lbob27.htm#fr_1285.md) Add from the Gr.
 of Athanasius and Antiochus: Not to remember injuries; To comfort those
 who labour in their minds.
 
-<span id="fn_1285"></span>[220:8](lbob27.htm#fr_1286) Ευθυμους.
+<span id="fn_1285"></span>[220:8](lbob27.htm#fr_1286.md) Ευθυμους.
 
-<span id="fn_1286"></span>[221:1](lbob27.htm#fr_1287) Vid. Antioch. Hom.
+<span id="fn_1286"></span>[221:1](lbob27.htm#fr_1287.md) Vid. Antioch. Hom.
 lxxxiii. Confer. Fragm. D. Grabe. Spicileg. tom. i. page 303.
 
-<span id="fn_1287"></span>[221:2](lbob27.htm#fr_1288) Add from the Gr.
+<span id="fn_1287"></span>[221:2](lbob27.htm#fr_1288.md) Add from the Gr.
 both of Athanasius and Antiochus: But if thou doubtest in thy heart,
 thou shalt receive none of thy petitions. For those who distrust (or,
 doubt of) God, are like the double-minded, who shall obtain none of
 these things.
 
-<span id="fn_1288"></span>[221:3](lbob27.htm#fr_1289) So MS. Lamb.
+<span id="fn_1288"></span>[221:3](lbob27.htm#fr_1289.md) So MS. Lamb.
 Tardius accipias: and so the Gr. Βραδυτερον λαμβανεις.
 
-<span id="fn_1289"></span>[221:4](lbob27.htm#fr_1290) Asking the
+<span id="fn_1289"></span>[221:4](lbob27.htm#fr_1290.md) Asking the
 petition of thy soul.
 
-<span id="fn_1290"></span>[221:5](lbob27.htm#fr_1291) In everything.
+<span id="fn_1290"></span>[221:5](lbob27.htm#fr_1291.md) In everything.
 
-<span id="fn_1291"></span>[222:1](lbob27.htm#fr_1292) Without sense thou
+<span id="fn_1291"></span>[222:1](lbob27.htm#fr_1292.md) Without sense thou
 dost not understand it.
 
-<span id="fn_1292"></span>[222:2](lbob27.htm#fr_1293) So the Lat. Vers.
+<span id="fn_1292"></span>[222:2](lbob27.htm#fr_1293.md) So the Lat. Vers.
 But the Gr. of Athanasius is better: And destroyeth more than any other
 spirit.
 
-<span id="fn_1293"></span>[222:3](lbob27.htm#fr_1294) Questions.
+<span id="fn_1293"></span>[222:3](lbob27.htm#fr_1294.md) Questions.
 
-<span id="fn_1294"></span>[222:4](lbob27.htm#fr_1295) Vid. Epit. Oxon.
+<span id="fn_1294"></span>[222:4](lbob27.htm#fr_1295.md) Vid. Epit. Oxon.
 p. 70 b. Comp. 2 Cor. vii. 10.
 
-<span id="fn_1295"></span>[222:5](lbob27.htm#fr_1296) Lat. Sensus: from
+<span id="fn_1295"></span>[222:5](lbob27.htm#fr_1296.md) Lat. Sensus: from
 the Greek Νους.
 
-<span id="fn_1296"></span>[223:1](lbob27.htm#fr_1297) And understand
+<span id="fn_1296"></span>[223:1](lbob27.htm#fr_1297.md) And understand
 nothing at all, thinking of riches. Lat.
 
-<span id="fn_1297"></span>[223:2](lbob27.htm#fr_1298) Senses.
+<span id="fn_1297"></span>[223:2](lbob27.htm#fr_1298.md) Senses.
 
-<span id="fn_1298"></span>[223:3](lbob27.htm#fr_1299) Gr. of Athanasius,
+<span id="fn_1298"></span>[223:3](lbob27.htm#fr_1299.md) Gr. of Athanasius,
 Καρδιαν εχοντες προς κυριον. So that the Latin should be Habentes, not
 Habent.
 
-<span id="fn_1299"></span>[223:4](lbob27.htm#fr_1300) Gr. συνεσις πολλη.
+<span id="fn_1299"></span>[223:4](lbob27.htm#fr_1300.md) Gr. συνεσις πολλη.
 
-<span id="fn_1300"></span>[223:5](lbob27.htm#fr_1301) Gr. παντα νοησεις.
+<span id="fn_1300"></span>[223:5](lbob27.htm#fr_1301.md) Gr. παντα νοησεις.
 And so in the Lamb. MS. Omnia scies.
 
-<span id="fn_1301"></span>[223:6](lbob27.htm#fr_1302) Gr. εκτριβει. MS.
+<span id="fn_1301"></span>[223:6](lbob27.htm#fr_1302.md) Gr. εκτριβει. MS.
 Lamb. Contribulat.
 
-<span id="fn_1302"></span>[223:7](lbob27.htm#fr_1303) In the Greek of
+<span id="fn_1302"></span>[223:7](lbob27.htm#fr_1303.md) In the Greek of
 Athanasius, follows και ποιησῃ τι κακον, and he doth something which is
 ill. Which letter agrees with what follows, Because he hath done amiss.
 The text in this place being evidently corrupted, it has been
@@ -1413,73 +1413,73 @@ Athanasius, which is as follows: παλιν η λυπη εισπορευεταί
 σωτηριαν εχείν, οτι το πονηρον πραξας μετενοησεν. Αμφοτεραι δε των
 πραξεων λυπουσι, &c.
 
-<span id="fn_1303"></span>[223:8](lbob27.htm#fr_1304) Antioch. Hom. xxv.
+<span id="fn_1303"></span>[223:8](lbob27.htm#fr_1304.md) Antioch. Hom. xxv.
 
-<span id="fn_1304"></span>[223:9](lbob27.htm#fr_1305) Gr. Μη θλιβε, MS.
+<span id="fn_1304"></span>[223:9](lbob27.htm#fr_1305.md) Gr. Μη θλιβε, MS.
 Lamb. Noli nocere.
 
-<span id="fn_1305"></span>[223:10](lbob27.htm#fr_1306) Gr. Μη εντευξηται
+<span id="fn_1305"></span>[223:10](lbob27.htm#fr_1306.md) Gr. Μη εντευξηται
 τῳ θεῳ, Comp. Rom. vii. 27.
 
-<span id="fn_1306"></span>[223:11](lbob27.htm#fr_1307) Gr. Το δοθεν εις
+<span id="fn_1306"></span>[223:11](lbob27.htm#fr_1307.md) Gr. Το δοθεν εις
 την σαρκα, ταυτην λυπην ουκ υποφερει.
 
-<span id="fn_1307"></span>[223:12](lbob27.htm#fr_1308) Gr. λυπης.
+<span id="fn_1307"></span>[223:12](lbob27.htm#fr_1308.md) Gr. λυπης.
 
-<span id="fn_1308"></span>[223:13](lbob27.htm#fr_1309) So the Greek: ο
+<span id="fn_1308"></span>[223:13](lbob27.htm#fr_1309.md) So the Greek: ο
 δε λυπηρος ανηρ παντοτε πονηρευεται, πρωτον μεν πονηρευται, &c.
 
-<span id="fn_1309"></span>[224:1](lbob27.htm#fr_1310) Church of the
+<span id="fn_1309"></span>[224:1](lbob27.htm#fr_1310.md) Church of the
 living.
 
-<span id="fn_1310"></span>[224:2](lbob27.htm#fr_1311) Have the Spirit of
+<span id="fn_1310"></span>[224:2](lbob27.htm#fr_1311.md) Have the Spirit of
 God in them.
 
-<span id="fn_1311"></span>[224:3](lbob27.htm#fr_1312) Exinanitur.
+<span id="fn_1311"></span>[224:3](lbob27.htm#fr_1312.md) Exinanitur.
 
-<span id="fn_1312"></span>[224:4](lbob27.htm#fr_1313) Something was
+<span id="fn_1312"></span>[224:4](lbob27.htm#fr_1313.md) Something was
 wanting in this place to make the subject clear. and it was suggested to
 Archbishop Wake, by Dr. Grabe, that what should have followed was
 transposed into the next command. Accordingly the Archbishop reduced
 both places to what he conceived should be their true order, and in that
 state they now stand.
 
-<span id="fn_1313"></span>[224:5](lbob27.htm#fr_1314) Vessels.
+<span id="fn_1313"></span>[224:5](lbob27.htm#fr_1314.md) Vessels.
 
-<span id="fn_1314"></span>[225:1](lbob27.htm#fr_1315) Vid. Antioch. Hom.
+<span id="fn_1314"></span>[225:1](lbob27.htm#fr_1315.md) Vid. Antioch. Hom.
 lxxiv.
 
-<span id="fn_1315"></span>[225:2](lbob27.htm#fr_1316) MS. Lamb.
+<span id="fn_1315"></span>[225:2](lbob27.htm#fr_1316.md) MS. Lamb.
 Consumitur, et, Gr. Athanas. δαπαναται.
 
-<span id="fn_1316"></span>[225:3](lbob27.htm#fr_1317) Gr. Athænas.
+<span id="fn_1316"></span>[225:3](lbob27.htm#fr_1317.md) Gr. Athænas.
 εμπεφυρμενους τῳ ἀίωνι τουτῳ. Instead of implicateos, the Lat. Vers.
 should be Implicatos.
 
-<span id="fn_1317"></span>[226:1](lbob27.htm#fr_1318) That the words
+<span id="fn_1317"></span>[226:1](lbob27.htm#fr_1318.md) That the words
 here inserted, and removed into their proper place in the foregoing
 Command, do not belong to this Discourse, the Greek of Athanasius, in
 which they are all omitted, clearly shews.
 
-<span id="fn_1318"></span>[227:1](lbob27.htm#fr_1319) Ut dominetur.
+<span id="fn_1318"></span>[227:1](lbob27.htm#fr_1319.md) Ut dominetur.
 
-<span id="fn_1319"></span>[227:2](lbob27.htm#fr_1320) Angel.
+<span id="fn_1319"></span>[227:2](lbob27.htm#fr_1320.md) Angel.
 
-<span id="fn_1320"></span>[227:3](lbob27.htm#fr_1321) Gr. ελπιζοντων εις
+<span id="fn_1320"></span>[227:3](lbob27.htm#fr_1321.md) Gr. ελπιζοντων εις
 Ἀυτον.
 
-<span id="fn_1321"></span>[227:4](lbob27.htm#fr_1322) Origen. in Matt.
+<span id="fn_1321"></span>[227:4](lbob27.htm#fr_1322.md) Origen. in Matt.
 xxiv. 42.
 
-<span id="fn_1322"></span>[228:1](lbob27.htm#fr_1323) Angel.
+<span id="fn_1322"></span>[228:1](lbob27.htm#fr_1323.md) Angel.
 
-<span id="fn_1323"></span>[228:2](lbob27.htm#fr_1324) Vid. Antioch. Hom.
+<span id="fn_1323"></span>[228:2](lbob27.htm#fr_1324.md) Vid. Antioch. Hom.
 lxxvii.
 
-<span id="fn_1324"></span>[228:3](lbob27.htm#fr_1325) MS. Lamb. Qui
+<span id="fn_1324"></span>[228:3](lbob27.htm#fr_1325.md) MS. Lamb. Qui
 obliti estis Deum, et salutem vestram.
 
-<span id="fn_1325"></span>[228:4](lbob27.htm#fr_1326) What follows
+<span id="fn_1325"></span>[228:4](lbob27.htm#fr_1326.md) What follows
 should be corrected thus; Et qui adjicientes peccatis vestris, gravatis
 vitam vestram.
 
@@ -1488,6 +1488,6 @@ vitam vestram.
 ------------------------------------------------------------------------
 
 [Next: The Third Book of Hermas, Which Is Called His
-Similitudes](lbob28)
+Similitudes](lbob28.md)
 
 </div>

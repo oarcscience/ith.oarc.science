@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo28)  [Next](hoo30) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo28)  [Next](hoo30.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
 ###### XXIV.
 
-### TO PROTEUS <span id="fr_80"></span>[\*](#fn_80).
+### TO PROTEUS <span id="fr_80"></span>[\*](#fn_80.md).
 
 ###### The FUMIGATION from STORAX.
 
@@ -30,7 +30,7 @@ And grant our happy lives a prosp'rous end.
 
 ### Footnotes
 
-<span id="fn_80"></span>[149:\*](hoo29.htm#fr_80) According to Proclus,
+<span id="fn_80"></span>[149:\*](hoo29.htm#fr_80.md) According to Proclus,
 in Plat. Repub. p. 97, Proteus, though inferior to the primary Gods, is
 immortal: and though not a deity, is a certain angelic mind of the order
 of Neptune, comprehending in himself all the forms of things generated
@@ -38,4 +38,4 @@ in the universe.
 
 ------------------------------------------------------------------------
 
-[Next: XXV: To the Earth](hoo30)
+[Next: XXV: To the Earth](hoo30.md)

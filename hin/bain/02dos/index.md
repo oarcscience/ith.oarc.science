@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,36 +12,36 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](dos00)  
-[Introduction](dos01)  
-[Contents](dos02)  
+[Title Page](dos00.md)  
+[Introduction](dos01.md)  
+[Contents](dos02.md)  
 <span id="section_000"></span>
 
 ### Sunset
 
-[An Evil Eye](dos03)  
+[An Evil Eye](dos03.md)  
 <span id="section_001"></span>
 
 ### Night
 
-[I. A Lotus of the Day](dos04)  
-[II. By Beat of Drum](dos05)  
-[III. An Eclipse of the Sun](dos06)  
-[IV. Inspiration](dos07)  
-[V. Nightwalker](dos08)  
-[VI. A Lotus of the Night](dos09)  
-[VIII. The Silver Swans](dos10)  
-[VIII. The Land of the Lotus](dos11)  
-[IX. Recognition](dos12)  
-[X. Separation](dos13)  
-[XI. The Lord of the Beasts](dos14)  
-[XII. The Other Body](dos15)  
-[XIII. A Light in Darkness](dos16)  
-[XIV. Illusion](dos17)  
-[XV. The Dead of Night](dos18)  
-[XVI. Before Dawn](dos19)  
+[I. A Lotus of the Day](dos04.md)  
+[II. By Beat of Drum](dos05.md)  
+[III. An Eclipse of the Sun](dos06.md)  
+[IV. Inspiration](dos07.md)  
+[V. Nightwalker](dos08.md)  
+[VI. A Lotus of the Night](dos09.md)  
+[VIII. The Silver Swans](dos10.md)  
+[VIII. The Land of the Lotus](dos11.md)  
+[IX. Recognition](dos12.md)  
+[X. Separation](dos13.md)  
+[XI. The Lord of the Beasts](dos14.md)  
+[XII. The Other Body](dos15.md)  
+[XIII. A Light in Darkness](dos16.md)  
+[XIV. Illusion](dos17.md)  
+[XV. The Dead of Night](dos18.md)  
+[XVI. Before Dawn](dos19.md)  
 <span id="section_002"></span>
 
 ### Dawn
 
-[Dawn](dos20)  
+[Dawn](dos20.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby06)  [Next](piby08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby06)  [Next](piby08.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ disappeared from the presence of the shepherd.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. God's Holy Law to the Children of Ethiopia](piby08)
+[Next: Chapter 3. God's Holy Law to the Children of Ethiopia](piby08.md)

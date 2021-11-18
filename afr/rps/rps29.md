@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps28)  [Next](rps30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps28)  [Next](rps30.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ They take your LIFE with their PRIVATE INTO YOUR PRIVATE. (Last Warning)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 28. General Marcus Garvey and Bishop Rogers](rps30)
+[Next: Chapter 28. General Marcus Garvey and Bishop Rogers](rps30.md)

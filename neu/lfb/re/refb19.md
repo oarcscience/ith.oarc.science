@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb18)  [Next](refb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb18)  [Next](refb20.md) 
 
 </div>
 
@@ -123,6 +123,6 @@ Story from Hainaut. (M. Lemoine. La Tradition. No, 34,)
 
 ------------------------------------------------------------------------
 
-[Next: Kari Woodengown](refb20)
+[Next: Kari Woodengown](refb20.md)
 
 </div>

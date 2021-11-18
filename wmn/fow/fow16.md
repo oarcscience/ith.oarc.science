@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow15)  [Next](fow17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow15)  [Next](fow17.md) 
 
 ------------------------------------------------------------------------
 
@@ -370,4 +370,4 @@ witch, locally known as "Old Molly Lee."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Woman's Will](fow17)
+[Next: Chapter XV: Woman's Will](fow17.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx00)  [Next](ppx02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx00)  [Next](ppx02.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ THE VICARAGE, TAVISTOCK,
 
 ------------------------------------------------------------------------
 
-[Next: Advertisement](ppx02)
+[Next: Advertisement](ppx02.md)

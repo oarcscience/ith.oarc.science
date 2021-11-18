@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas072n)  [Next](jas074n)   
- \[[73. The Singing Bird.](jas073)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas072n)  [Next](jas074n.md)   
+ \[[73. The Singing Bird.](jas073.md)\]
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ Singing Bones.
 
 ------------------------------------------------------------------------
 
-[Next: Note 74. Two Sisters.](jas074n)
+[Next: Note 74. Two Sisters.](jas074n.md)

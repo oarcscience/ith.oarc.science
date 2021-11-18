@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Next](iai01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Next](iai01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ East](../index)  [Index](index)  [Next](iai01) 
 <span id="img_front"></span> [![BABYLONIAN MARRIAGE MARKET.--Painting by
 Edwin Long; (Frontispiece from &lt;I&gt;Babylonian and Assyrian
 Literature&lt;/I&gt;)](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 BABYLONIAN MARRIAGE MARKET.--Painting by Edwin Long; (Frontispiece from
 *Babylonian and Assyrian Literature*)  
 
@@ -33,4 +33,4 @@ BABYLONIAN MARRIAGE MARKET.--Painting by Edwin Long; (Frontispiece from
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](iai01)
+[Next: Introduction](iai01.md)

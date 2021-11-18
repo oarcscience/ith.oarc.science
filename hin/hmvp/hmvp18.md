@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp17)  [Next](hmvp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp17)  [Next](hmvp19.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -40,13 +40,13 @@ difference between the three."
 <span id="page_117">p. 117</span>
 
 The essence of the teaching of the "Vishnu Purāna" is given in a few
-lines. <span id="fr_121"></span>[\*](#fn_121) "Listen to the complete
+lines. <span id="fr_121"></span>[\*](#fn_121.md) "Listen to the complete
 compendium of the Purāna according to its tenor. The world was produced
 from Vishnu; it exists in him; he
 
 <span id="img_11700"></span> <span align="CENTER">
 [![VISHNU.](tn/11700.jpg)  
-Click to enlarge](img/11700.jpg)  
+Click to enlarge](img/11700.jpg.md)  
 VISHNU.  
 </span>
 
@@ -74,9 +74,9 @@ to the text of the Vedas: 'Having created that (world), he then
 afterwards enters into it.' According to the 'Matsya Purāna,' the name
 alludes to his entering into the mundane egg; according to the 'Padma
 Purāna,' it refers to his entering into or combining with Prakriti, as
-Purush or spirit." <span id="fr_122"></span>[\*](#fn_122)
+Purush or spirit." <span id="fr_122"></span>[\*](#fn_122.md)
 
-In the "Bhāgavata Purāna" <span id="fr_123"></span>[†](#fn_123) is the
+In the "Bhāgavata Purāna" <span id="fr_123"></span>[†](#fn_123.md) is the
 following legend to show the superiority of Vishnu:—"Once when the holy
 sages were performing a sacrifice on the banks of the Sarasvati, a
 dispute arose amongst them as to which of the three gods was greatest.
@@ -109,7 +109,7 @@ the saints on the banks of the Sarasvati, their doubts were immediately
 dispelled; they believed Vishnu to be the greatest of the three gods,
 because he was exempt from impatience and passion."
 
-In the "Padma Purāna " <span id="fr_124"></span>[\*](#fn_124) Siva is
+In the "Padma Purāna " <span id="fr_124"></span>[\*](#fn_124.md) Siva is
 represented as admitting Vishnu's superiority to himself. Addressing his
 wife, he says: "I will acquaint thee with the real essence and form of
 Vishnu: know then that he is in truth Nārāyana, the Supreme Spirit, and
@@ -124,7 +124,7 @@ excellent than all the gods, even than I myself., But it is impossible
 for me, or Brahmā, or the gods, to declare the greatness of Vāsudeva,
 the originator and lord of the universe."
 
-In the "Varāha Purāna" <span id="fr_125"></span>[\*](#fn_125) the
+In the "Varāha Purāna" <span id="fr_125"></span>[\*](#fn_125.md) the
 special work of Vishnu as preserver is described:—"The supreme god
 Nārāyana having conceived the thought of creating this universe,
 considered also that it was necessary that it should be protected after
@@ -155,7 +155,7 @@ which he slew his enemies; and in the fourth a lotus. He rides upon the
 bird Garuda, and is dressed in yellow robes.
 
 The following description of Vaikuntha, the heaven of Vishnu, is from
-the Mahābhārata. <span id="fr_126"></span>[\*](#fn_126) It is made
+the Mahābhārata. <span id="fr_126"></span>[\*](#fn_126.md) It is made
 entirely of gold, and is 80,000 miles in circumference. All its
 buildings are made of jewels. The pillars and ornaments of the buildings
 are of precious stones. The crystal waters of the Ganges fall from the
@@ -185,7 +185,7 @@ these Avatāras are of an entirely cosmical
 character; others, however, are probably based on historical events, the
 leading personage of which was gradually endowed with divine attributes,
 until he was regarded as the incarnation of the deity himself." In the
-"Matsya Purāna" <span id="fr_127"></span>[\*](#fn_127) is the following
+"Matsya Purāna" <span id="fr_127"></span>[\*](#fn_127.md) is the following
 legend, which gives a reason for the manifold and varied appearances of
 this deity:—
 
@@ -237,7 +237,7 @@ the asuras did not profit long by this penance of their preceptor, as
 they were deceived by the preceptor of the gods, who, assuming Sukra's
 form, gave them bad advice, which they followed to their hurt.
 
-In the "Vishnu Purāna" <span id="fr_128"></span>[\*](#fn_128) the
+In the "Vishnu Purāna" <span id="fr_128"></span>[\*](#fn_128.md) the
 benefits to be hoped for from the worship of Vishnu are taught. The
 question is asked, "By what acts can men free themselves from Yama?" The
 reply given is that which was once told by a holy Muni who recollected
@@ -290,15 +290,15 @@ from the place from which Vishnu strode over the seven regions of the
 earth. Vishnu strode over this \[universe\]; in three places he planted
 his step; \[the world or his step\] was enveloped in his dust. Vishnu,
 the unconquerable preserver, strode three steps.' <span
-id="fr_129"></span>[\*](#fn_129) In these verses there is probably the
+id="fr_129"></span>[\*](#fn_129.md) In these verses there is probably the
 germ of the Dwarf Incarnation, and also of the attribute of Preserver.
 The interpretations of two commentators of the three strides of Vishnu
 are as follows:—One regards him 'as a god, who, in what are called his
 three strides, is manifested in a threefold form as Agni on earth, as
 Indra or Vāyu in the atmosphere, and as the Sun in heaven;' <span
-id="fr_130"></span>[†](#fn_130) the other interprets Vishnu's three
+id="fr_130"></span>[†](#fn_130.md) the other interprets Vishnu's three
 strides as 'the rising, culmination, and setting of the sun.'" <span
-id="fr_131"></span>[‡](#fn_131)
+id="fr_131"></span>[‡](#fn_131.md)
 
 Vishnu, in the Rig-Veda, is said "to have established the heavens and
 the earth; to contain all the world in his strides; to have, with Indra,
@@ -332,7 +332,7 @@ some of the other gods are celebrated, and to the comparatively small
 number of those in which Vishnu is exclusively or prominently magnified,
 we shall come to the conclusion that the latter deity occupied a
 somewhat subordinate place in the estimation and affections of the
-ancient Rishis." <span id="fr_132"></span>[\*](#fn_132)
+ancient Rishis." <span id="fr_132"></span>[\*](#fn_132.md)
 
 Amongst the thousand names of Vishnu, the following,
 
@@ -343,7 +343,7 @@ in addition to those already given, are most commonly known:—
 Madhusudana, the destroyer of Madhu; and Kaitabhajit, the conqueror of
 Kaitabha. These were two demons who issued from Vishnu's ear as he lay
 asleep on the serpent Sesha at the end of a Kalpa, <span
-id="fr_133"></span>[\*](#fn_133) and were about to destroy Brahmā, as he
+id="fr_133"></span>[\*](#fn_133.md) and were about to destroy Brahmā, as he
 sat on the lotus which sprang from Vishnu's navel, when this deity slew
 them, and hence obtained these names
 
@@ -391,10 +391,10 @@ appeared from the lotus as Padmā, or Kamalā; when he was born as Rāma
 In the other descents of Vishnu she was his associate. If he takes a
 celestial form, she appears as divine; if a mortal, she becomes a mortal
 too, transforming her own person agreeably to whatever character it
-pleases Vishnu to assume." <span id="fr_134"></span>[\*](#fn_134)
+pleases Vishnu to assume." <span id="fr_134"></span>[\*](#fn_134.md)
 
 There are two somewhat contradictory accounts of her origin; the "Vishnu
-Purāna" explains this. <span id="fr_135"></span>[†](#fn_135) "The
+Purāna" explains this. <span id="fr_135"></span>[†](#fn_135.md) "The
 divinities Dhāta and Vidhātā were born to Bhrigu by Khyāti, as was a
 daughter Sri, the wife of Nārāyana, the god of gods." The question is
 asked, "It is commonly said that Sri was born from the sea of milk, when
@@ -407,7 +407,7 @@ Hari is polity, she is prudence; Vishnu is understanding, she is
 intellect; he is righteousness, she is devotion; Sri is the earth, Hari
 is its support. In a word, of gods, animals, and men, Hari is all that
 is called male; Lakshmi is all that is termed female; there is nothing
-else than they." Later on <span id="fr_136"></span>[‡](#fn_136) we read,
+else than they." Later on <span id="fr_136"></span>[‡](#fn_136.md) we read,
 "Her first birth was as the daughter of Bhrigu and Khyāti; it was at a
 subsequent period that she was produced from the sea, at the churning of
 the ocean by the demons and the gods."
@@ -419,13 +419,13 @@ The account of the churning of the ocean, to which
 frequent reference is made in the Hindu scriptures, is found in the
 Rāmāyana, and several of the Purānas; though there are some
 discrepancies, they agree in the main. The reason for this great act is
-as follows:— <span id="fr_137"></span>[\*](#fn_137) A saint named
+as follows:— <span id="fr_137"></span>[\*](#fn_137.md) A saint named
 Durvāras, a portion of Siva, was travelling, when he met a celestial
 nymph with a sweet-smelling
 
 <span id="img_12900"></span> <span align="CENTER">
 [![LAKSHMI.](tn/12900.jpg)  
-Click to enlarge](img/12900.jpg)  
+Click to enlarge](img/12900.jpg.md)  
 LAKSHMI.  
 </span>
 
@@ -446,7 +446,7 @@ overcome by the asuras, fled to Brahmā for help. He told them he could
 not assist them; that Vishnu alone could do this, whom he advised them
 to seek. Brahmā conducted them to Vishnu; and, having sufficiently
 lauded him, caused him to lend a willing ear to their request. In the
-following lines, <span id="fr_138"></span>[\*](#fn_138) put into verse,
+following lines, <span id="fr_138"></span>[\*](#fn_138.md) put into verse,
 from the "Vishnu Purāna," we have their prayer, Vishnu's advice and its
 result:—
 
@@ -551,7 +551,7 @@ The following account of Sri is from the Rāmāyana:—
  To lotus-bearing Vishnu clung.  
  Her, gods above and men below  
  As Beauty's Queen and Fortune know." <span
-id="fr_139"></span>[\*](#fn_139)</span>
+id="fr_139"></span>[\*](#fn_139.md)</span>
 
 </div>
 
@@ -567,7 +567,7 @@ arms.
 <span id="page_133">p. 133</span>
 
 occur in the Rig-Veda, though the word itself is found in its
-signification as prosperity." <span id="fr_140"></span>[\*](#fn_140)
+signification as prosperity." <span id="fr_140"></span>[\*](#fn_140.md)
 
 Lakshmi is known also by the following names:—
 
@@ -587,60 +587,60 @@ Lokamāta, "The mother of the world."
 
 ### Footnotes
 
-<span id="fn_121"></span>[117:\*](hmvp18.htm#fr_121) "Vishnu Purāna," p.
+<span id="fn_121"></span>[117:\*](hmvp18.htm#fr_121.md) "Vishnu Purāna," p.
 607.
 
-<span id="fn_122"></span>[118:\*](hmvp18.htm#fr_122) "Vishnu Purāna," p.
+<span id="fn_122"></span>[118:\*](hmvp18.htm#fr_122.md) "Vishnu Purāna," p.
 3, note.
 
-<span id="fn_123"></span>[118:†](hmvp18.htm#fr_123) Kennedy, "Hindu
+<span id="fn_123"></span>[118:†](hmvp18.htm#fr_123.md) Kennedy, "Hindu
 Mythology," p. 240.
 
-<span id="fn_124"></span>[119:\*](hmvp18.htm#fr_124) Kennedy, "Hindu
+<span id="fn_124"></span>[119:\*](hmvp18.htm#fr_124.md) Kennedy, "Hindu
 Mythology," p. 246.
 
-<span id="fn_125"></span>[120:\*](hmvp18.htm#fr_125) Kennedy, "Hindu
+<span id="fn_125"></span>[120:\*](hmvp18.htm#fr_125.md) Kennedy, "Hindu
 Mythology," p. 246.
 
-<span id="fn_126"></span>[121:\*](hmvp18.htm#fr_126) Ward. ii. 14.
+<span id="fn_126"></span>[121:\*](hmvp18.htm#fr_126.md) Ward. ii. 14.
 
-<span id="fn_127"></span>[122:\*](hmvp18.htm#fr_127) Kennedy, "Hindu
+<span id="fn_127"></span>[122:\*](hmvp18.htm#fr_127.md) Kennedy, "Hindu
 Mythology," p. 244.
 
-<span id="fn_128"></span>[123:\*](hmvp18.htm#fr_128) Pp. 287-290.
+<span id="fn_128"></span>[123:\*](hmvp18.htm#fr_128.md) Pp. 287-290.
 
-<span id="fn_129"></span>[125:\*](hmvp18.htm#fr_129) Muir, O. S. T., iv.
+<span id="fn_129"></span>[125:\*](hmvp18.htm#fr_129.md) Muir, O. S. T., iv.
 63.
 
-<span id="fn_130"></span>[125:†](hmvp18.htm#fr_130) Ibid. iv. 78 ff.
+<span id="fn_130"></span>[125:†](hmvp18.htm#fr_130.md) Ibid. iv. 78 ff.
 
-<span id="fn_131"></span>[125:‡](hmvp18.htm#fr_131) Ibid.
+<span id="fn_131"></span>[125:‡](hmvp18.htm#fr_131.md) Ibid.
 
-<span id="fn_132"></span>[126:\*](hmvp18.htm#fr_132) Muir, O. S. T., iv.
+<span id="fn_132"></span>[126:\*](hmvp18.htm#fr_132.md) Muir, O. S. T., iv.
 98.
 
-<span id="fn_133"></span>[127:\*](hmvp18.htm#fr_133) See part ii. chap.
+<span id="fn_133"></span>[127:\*](hmvp18.htm#fr_133.md) See part ii. chap.
 x.
 
-<span id="fn_134"></span>[128:\*](hmvp18.htm#fr_134) "Vishnu Purāna," p.
+<span id="fn_134"></span>[128:\*](hmvp18.htm#fr_134.md) "Vishnu Purāna," p.
 80.
 
-<span id="fn_135"></span>[128:†](hmvp18.htm#fr_135) Page 59.
+<span id="fn_135"></span>[128:†](hmvp18.htm#fr_135.md) Page 59.
 
-<span id="fn_136"></span>[128:‡](hmvp18.htm#fr_136) Page 80.
+<span id="fn_136"></span>[128:‡](hmvp18.htm#fr_136.md) Page 80.
 
-<span id="fn_137"></span>[129:\*](hmvp18.htm#fr_137) "Vishnu Purāna,"
+<span id="fn_137"></span>[129:\*](hmvp18.htm#fr_137.md) "Vishnu Purāna,"
 book i. chap. ix.
 
-<span id="fn_138"></span>[130:\*](hmvp18.htm#fr_138) "Indian Wisdom," p.
+<span id="fn_138"></span>[130:\*](hmvp18.htm#fr_138.md) "Indian Wisdom," p.
 499.
 
-<span id="fn_139"></span>[132:\*](hmvp18.htm#fr_139) Griffiths's
+<span id="fn_139"></span>[132:\*](hmvp18.htm#fr_139.md) Griffiths's
 "Rāmāyana," i. 204.
 
-<span id="fn_140"></span>[133:\*](hmvp18.htm#fr_140) Muir, O. S. T., iv.
+<span id="fn_140"></span>[133:\*](hmvp18.htm#fr_140.md) Muir, O. S. T., iv.
 348.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Matsya or Fish Avatāra](hmvp19)
+[Next: 1. The Matsya or Fish Avatāra](hmvp19.md)

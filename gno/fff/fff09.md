@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff08)  [Next](fff10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff08)  [Next](fff10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -191,7 +191,7 @@ according to their 'age' \[that is, the length of their membership in
 the order\], in the prescribed attitude, with their hands palms
 downwards, the right between the breast and chin, the left by the side.
 Then he who is the senior most skilled in the doctrines comes
-[forward](errata.htm#9) and discourses, with steadfast eyes and
+[forward](errata.htm#9.md) and discourses, with steadfast eyes and
 steadfast voice, with reason and thoughtfulness, not making a display of
 word-cleverness, as the rhetoricians and sophists of today, but
 examining closely and explaining the precise meaning in the thoughts, a
@@ -309,7 +309,7 @@ regard as seniors merely those who are advanced in years and have
 reached old age (nay, they regard such as quite young children if they
 have only lately fallen in love with the higher life), but such as have
 grown up and arrived at maturity in the contemplative part of
-philosophy, which is [unquestionably](errata.htm#10) its fairest and
+philosophy, which is [unquestionably](errata.htm#10.md) its fairest and
 most divine portion.
 
 "And women also share in the banquet, most of whom have grown old in
@@ -624,7 +624,7 @@ numerous communities of mystics <span class="margnote">The Variety of
 Communities.</span> and ascetics devoted to the holy life and sacred
 science scattered throughout the world, and that Philo's Mareotic
 community was *one* of these. Others may have been tinged as strongly
-with [Egyptian](errata.htm#11), or Chaldæan, or Zoroastrian, or Orphic
+with [Egyptian](errata.htm#11.md), or Chaldæan, or Zoroastrian, or Orphic
 elements, as the one south of Alexandria was tinged with Judaism. It is
 further not incredible
 
@@ -639,7 +639,7 @@ this time propagandize, though they may have indirectly been at the back
 of some of the greatest propagandist efforts, as in the case of Philo. I
 also think that the later. Gnostic communities did not propagandize
 directly, and that whatever works they may have put
-[forward](errata.htm#12) for lay-pupils or by lay-pupils were only a
+[forward](errata.htm#12.md) for lay-pupils or by lay-pupils were only a
 small part of their literature. For the people there were the Law and
 the Prophets and the Gospel; for the lay-pupils, the intermediate
 literature; and for those within, those most highly mystical and
@@ -648,4 +648,4 @@ understand or were expected to understand.
 
 ------------------------------------------------------------------------
 
-[Next: Jewry](fff10)
+[Next: Jewry](fff10.md)

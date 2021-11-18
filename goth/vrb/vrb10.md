@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb09)  [Next](vrb11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb09)  [Next](vrb11.md) 
 
 ------------------------------------------------------------------------
 
@@ -2098,4 +2098,4 @@ To share this companionship and to celebrate this bond.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Nine: Community Rituals](vrb11)
+[Next: Chapter Nine: Community Rituals](vrb11.md)

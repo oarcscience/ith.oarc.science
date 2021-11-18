@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip46)  [Next](fip48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip46)  [Next](fip48.md) 
 
 ------------------------------------------------------------------------
 
-### BEWITCHED BUTTER (QUEEN'S COUNTY) <span id="fr_20"></span>[1](#fn_20)
+### BEWITCHED BUTTER (QUEEN'S COUNTY) <span id="fr_20"></span>[1](#fn_20.md)
 
 ABOUT the commencement of the last century there lived in the vicinity
 of the once famous village of Aghavoe <span
-id="fr_21"></span>[2](#fn_21) a wealthy farmer, named Bryan Costigan.
+id="fr_21"></span>[2](#fn_21.md) a wealthy farmer, named Bryan Costigan.
 This man kept an extensive dairy and a great many milch cows, and every
 
 <span id="page_156">p. 156</span>
@@ -221,7 +221,7 @@ our charm for the present is ineffectual."
 
 They now turned back quite crest-fallen, when, as they were entering the
 door, the sybil cast her eyes downwards, and perceiving a piece of
-horse-shoe nailed on the threshold, <span id="fr_22"></span>[1](#fn_22)
+horse-shoe nailed on the threshold, <span id="fr_22"></span>[1](#fn_22.md)
 she vociferated--
 
 "Here I have it; no wonder our charm was abortive. The person that was
@@ -246,7 +246,7 @@ person exhibited more the appearance of a female demon than a human
 being.
 
 Once more the cry was heard, and an aged red-haired woman <span
-id="fr_23"></span>[1](#fn_23) was seen approaching the house quickly.
+id="fr_23"></span>[1](#fn_23.md) was seen approaching the house quickly.
 
 "Ho, ho!" roared the sorceress, "I knew it would be so; my charm has
 succeeded; my expectations are realised, and here she comes, the villain
@@ -415,10 +415,10 @@ haunts.
 
 ### Footnotes
 
-<span id="fn_20"></span>[155:1](fip47.htm#fr_20) *Dublin University
+<span id="fn_20"></span>[155:1](fip47.htm#fr_20.md) *Dublin University
 Magazine*, 1839.
 
-<span id="fn_21"></span>[155:2](fip47.htm#fr_21) *Aghavoe*--"the field
+<span id="fn_21"></span>[155:2](fip47.htm#fr_21.md) *Aghavoe*--"the field
 of kine"--a beautiful and romantic village near Borris-in-Ossory, in the
 Queen's County. It was once a place of considerable importance, and for
 centuries the episcopal seat of the diocese of Ossory, but for ages back
@@ -426,16 +426,16 @@ it has gone to decay, and is now remarkable for nothing but the
 magnificent ruins of a priory of the Dominicans, erected here at an
 early period by St. Canice, the patron saint of Ossory.
 
-<span id="fn_22"></span>[160:1](fip47.htm#fr_22) It was once a common
+<span id="fn_22"></span>[160:1](fip47.htm#fr_22.md) It was once a common
 practice in Ireland to nail a piece of horseshoe on the threshold of the
 door, its a preservative against the influence of the fairies, who, it
 is thought, dare not enter any house thus guarded. This custom, however,
 is much on the wane, but still it is prevalent in some of the more
 uncivilised districts of the country.
 
-<span id="fn_23"></span>[161:1](fip47.htm#fr_23) Red-haired people are
+<span id="fn_23"></span>[161:1](fip47.htm#fr_23.md) Red-haired people are
 thought to possess magic power.
 
 ------------------------------------------------------------------------
 
-[Next: The Horned Women, by Lady Wilde](fip48)
+[Next: The Horned Women, by Lady Wilde](fip48.md)

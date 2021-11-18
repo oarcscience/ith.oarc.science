@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy15)  [Next](omy17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy15)  [Next](omy17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -54,7 +54,7 @@ Primal
 an exponent. The exponent of the Prophetic function was Mohammed, and he
 is the Seal of the Prophets. <span class="margnote">Mehdí the last of
 the Imáms.</span> The exponent of the Saintly function is Mehdí, the
-last of the Imams <span id="fr_27"></span>[1](#fn_27), who is yet to
+last of the Imams <span id="fr_27"></span>[1](#fn_27.md), who is yet to
 come. Up to the present time the Prophetic Office has been manifested,
 and assumed a definite form, and the particulars thereof are known; the
 particulars of the Saintly Office cannot become known, nor can it assume
@@ -75,7 +75,7 @@ even as ye behold the Sun and the Moon."
 
 ### Footnotes
 
-<span id="fn_27"></span>[44:1](omy16.htm#fr_27) Also called
+<span id="fn_27"></span>[44:1](omy16.htm#fr_27.md) Also called
 *Sahibû’zzemán*, "The Lord of Time." He is to be the sovereign of the
 world, to bear the name of Mohammed, and introduce the Millennium. Many
 religious enthusiasts of the Muslems have claimed to be the
@@ -87,4 +87,4 @@ in the *Journal Asiatique*, No. 26. Paris, 1866.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. On the Influence of Early Prejudice Upon
-Belief](omy17)
+Belief](omy17.md)

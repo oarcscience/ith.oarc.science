@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct03) [Next](bct05)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct03) [Next](bct05.md)
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ contains Cherubim, Seraphim, and Thrones, and these are bearers of God's
 throne. The middle order contains Lords, Powers, and Rulers. The lower
 order contains Principalities, Archangels, and Angels. (Compare the
 "thrones, or dominions, or principalities, or powers" of [Col. i.
-16](../../bib/kjv/col.htm#1:16).) The Cherubim are an intellectual
+16](../../bib/kjv/col.htm#1:16)..md) The Cherubim are an intellectual
 motion, the Seraphim are a fiery motion, the Thrones are a fixed motion,
 the Lords are a motion which governs the motions beneath it and controls
 the devils, the Powers are a motion which gives effect to God's will,
@@ -87,7 +87,7 @@ are not self-existent beings--they were created; on the other hand,
 darkness is a self-existent nature (or substance). Solomon of
 Al-Ba<u>s</u>rah does not accept the view that the spirit which hovered
 over the waters was the Holy Spirit. (See *Book of the Bee,* ed. Budge,
-[chapters i](../bb/bb01)-vii.)**\]**
+[chapters i](../bb/bb01)-vii..md)**\]**
 
  
 
@@ -159,7 +159,7 @@ created on this day, but the <span id="page_49">p. 49</span> Rabbis held
 the view that it existed before the world. Solomon of Ba<u>s</u>rah says
 that the earth produced herbs and trees by its own power, and that the
 luminaries had nothing to do with vegetable growth. *Book of the Bee*
-([chapter ix.](../bb/bb09))**\]**
+([chapter ix.](../bb/bb09).md)**\]**
 
  
 
@@ -207,7 +207,7 @@ earth.
  
 
    **\[**NOTES.--According to the *Book of the Bee* ([chapter
-xii](../bb/bb12)), beasts and animals were created on Friday evening,
+xii](../bb/bb12).md), beasts and animals were created on Friday evening,
 and they can therefore see at night as well as in the daytime. In the
 *Book of Mysteries of Heaven and Earth*, "whales" and the Behemôth are
 mentioned with Leviathan.**\]**
@@ -376,13 +376,13 @@ length of his eyebrows was a distance of three days' journey. \[From the
 *Book of the Mysteries of Heaven and Earth*.\] The prototype of the
 great fight in heaven between the powers of light and darkness is found
 in <span id="page_58">p. 58</span> ancient Egyptian religious texts, in
-more than one form. In the oldest form Set, ![hieroglyphics](058-1.jpg),
-the Devil, rebels against <u>H</u>er-ur, ![hieroglyphics](058-2.jpg),
+more than one form. In the oldest form Set, ![hieroglyphics](058-1.jpg.md),
+the Devil, rebels against <u>H</u>er-ur, ![hieroglyphics](058-2.jpg.md),
 the god of heaven, whose chief symbols are the sun and moon, and is
 utterly defeated. In the next form Set attacks the Sun-god R¯a,
-![hieroglyphics](058-3.jpg), and is destroyed by him; the great ally of
-Set, called ¯Apep (Apôphis), ![hieroglyphics](058-4.jpg), and all his
-fiends and devils (the Sebau), ![hieroglyphics](058-5.jpg), are defeated
+![hieroglyphics](058-3.jpg.md), and is destroyed by him; the great ally of
+Set, called ¯Apep (Apôphis), ![hieroglyphics](058-4.jpg.md), and all his
+fiends and devils (the Sebau), ![hieroglyphics](058-5.jpg.md), are defeated
 and burnt up daily. In another form Set makes war on Horus, the son of
 Osiris, and on Osiris himself, and is defeated utterly. The Coptic
 version of the legend was borrowed from the old hieroglyphic texts, and
@@ -436,7 +436,7 @@ from his head, that she might not seek authority over him; nor from his
 feet, that she might not be trodden down and scorned in the eyes of her
 husband; but \[He took her\] from his left side, for the side is the
 place which unites and joins both front and back (*Book of the Bee*,
-[chapter xiv](../bb/bb14), and Bar Hebraeus, *Au<u>s</u>ar Râzê*).
+[chapter xiv](../bb/bb14), and Bar Hebraeus, *Au<u>s</u>ar Râzê*.md).
 Further, God did not form Eve from Adam's head, that she might not carry
 her head proudly; nor from his eye, that she might not be curious; nor
 from his ear, that she might not be an eavesdropper; nor from his mouth,
@@ -444,12 +444,12 @@ that she might not be gossiping; <span id="page_61">p. 61</span> nor
 from his heart, that she might not be quarrelsome; nor from his hand,
 that she might not touch everything with her hand; nor from his feet,
 that she might not rove about (*Berêshîth Rabbah* on [Gen. ii.
-23](../../bib/kjv/gen.htm#2:23)).**\]**
+23](../../bib/kjv/gen.htm#2:23).md).**\]**
 
  
 
    Now Moses the prophet said that God planted Paradise in Eden and
-placed Adam there ([Gen. ii. 8](../../bib/kjv/gen.htm#2:8)).
+placed Adam there ([Gen. ii. 8](../../bib/kjv/gen.htm#2:8).md).
 
  
 
@@ -483,12 +483,12 @@ He was about to extend to the children of men. For God, according to His
 foreknowledge, knew what Satan had devised against Adam, and therefore
 He set Adam beforehand in the bosom of His compassion, even as the
 blessed David singeth concerning Him in the Psalm
-([xc](../../bib/kjv/psa.htm#90:1)), saying, "Lord, Thou hast been an
+([xc](../../bib/kjv/psa.htm#90:1).md), saying, "Lord, Thou hast been an
 abiding place for us throughout all generations," that is to say, "Thou
 hast made us to have our abiding place in Thy compassion." And, when
 entreating God on behalf of the redemption of the children of men, David
 said, "Remember Thy Church, which Thou didst acquire in olden time "
-([Ps. lxxiv. 2](../../bib/kjv/psa.htm#74:2)), that is to say,
+([Ps. lxxiv. 2](../../bib/kjv/psa.htm#74:2).md), that is to say,
 "\[Remember\] Thy compassion, which Thou art about to spread over our
 feeble race." Eden is the Holy Church, and the Paradise which was in it
 is the land of rest, and the inheritance of life, which God hath
@@ -499,7 +499,7 @@ the <span id="page_63">p. 63</span> Holy Church, even as the blessed man
 Moses testifieth concerning him, saying, "That he might serve God by
 means of priestly ministration with praise, and that he might keep that
 commandment which had been entrusted to him by the compassion of God"
-([Gen. ii. 15](../../bib/kjv/gen.htm#2:15), 16 ?). And God made Adam and
+([Gen. ii. 15](../../bib/kjv/gen.htm#2:15), 16 ?.md). And God made Adam and
 Eve to dwell in Paradise. True is this word, and it proclaimeth the
 truth: That Tree of Life which was in the midst of Paradise prefigured
 the Redeeming Cross, which is the veritable Tree of Life, and this it
@@ -635,7 +635,7 @@ fruit and wine and bread and flesh to live upon, and they subsisted on
 cooked grain and vegetables and the herbs of the earth, of which they
 ate sparingly. Moreover, the four-footed beasts and fowl and reptiles
 rebelled against them, and some of them became enemies and adversaries
-unto them. *Book of the Bee* ([chapter xvii](../bb/bb17).)**\]**
+unto them. *Book of the Bee* ([chapter xvii](../bb/bb17)..md)**\]**
 
 <span id="page_69">p. 69</span>
 
@@ -704,7 +704,7 @@ lived before the Flood.
  
 
    **\[**NOTES.--Seth was born in the 130th year of Adam's life ([Gen.
-v. 3](../../bib/kjv/gen.htm#5:3)), but the *Book of the Bee* says it was
+v. 3](../../bib/kjv/gen.htm#5:3).md), but the *Book of the Bee* says it was
 the 230th year. Adam and Seth and his sons dwelt on the top of Mount
 Eden, while Cain and his children lived on the plain below.**\]**
 
@@ -810,9 +810,9 @@ and praised God; and thus they did all the days of their life.
  
 
    **\[**NOTES.--According to the *Book of the Bee* ([chapter
-xviii](../bb/bb18)), Adam lived 930 years, and Seth lived 913 or 905
+xviii](../bb/bb18).md), Adam lived 930 years, and Seth lived 913 or 905
 years. Seth was 250 years old (105 years in [Gen. v.
-6](../../bib/kjv/gen.htm#5:6)) when he begot Enos. "In the days of Seth
+6](../../bib/kjv/gen.htm#5:6).md) when he begot Enos. "In the days of Seth
 the knowledge of books went forth in the earth; but the Church does
 <span id="page_76">p. 76</span> not accept this." According to the *Book
 of Adam* (ii. 5), Seth knew good and evil when he was seven years of
@@ -868,8 +868,8 @@ urged them to be constant in prayer.
  
 
    **\[**NOTES.--According to the *Book of the Bee* ([chapter
-xviii](../bb/bb18)), Ânôsh was two hundred and ninety (ninety years in
-[Gen. v. 9](../../bib/kjv/gen.htm#5:9)) years old when he begot
+xviii](../bb/bb18).md), Ânôsh was two hundred and ninety (ninety years in
+[Gen. v. 9](../../bib/kjv/gen.htm#5:9).md) years old when he begot
 <u>K</u>ainân; and Ânôsh first called upon the name of the Lord. Some
 say that he first composed books upon the course of the stars and the
 signs of the Zodiac.**\]**
@@ -903,7 +903,7 @@ both his eyes. Lamech smote the youth who led him about accidentally,
 but afterwards he smashed his head in with a stone. There are many
 versions of the story in Arabic, Ethiopic, and Hebrew, but they all
 agree in essential details. According to the *Book of the Bee* ([chapter
-xviii](../bb/bb18)), the anvil and hammer and tongs were invented by
+xviii](../bb/bb18).md), the anvil and hammer and tongs were invented by
 Tubal-Cain and Jubal, who also constructed musical instruments, harps
 and pipes; devils lived in the pipes, and sang therein.**\]**
 
@@ -970,7 +970,7 @@ the Cave of Treasures; and they made mourning for him forty days.
 
  
 
-   **\[**NOTES.--According to [Gen. v. 12](../../bib/kjv/gen.htm#5:12),
+   **\[**NOTES.--According to [Gen. v. 12](../../bib/kjv/gen.htm#5:12.md),
 <u>K</u>ainân was 70 years old when he begot Mahlâlâîl, but the *Book of
 the Bee* gives 140 years. The *Book of Adam* says that the people made
 "offerings for him, after the custom of their fathers," a statement that
@@ -1014,7 +1014,7 @@ the people made a mourning for him forty days.
 
  
 
-   **\[**NOTES.--According to [Gen. v. 15](../../bib/kjv/gen.htm#5:15),
+   **\[**NOTES.--According to [Gen. v. 15](../../bib/kjv/gen.htm#5:15.md),
 Mahlâlâîl was 65 years old when he begot Yârêd, but the *Book of the
 Bee* gives 165 years; the *Book of Adam* (ii. 16) says he fell sick when
 he was 870 years old. The latter work makes the Patriarch tell Yârêd
@@ -1084,4 +1084,4 @@ through which the fall of the children of Seth was to take place.
 
 ------------------------------------------------------------------------
 
-[Next](bct05)
+[Next](bct05.md)

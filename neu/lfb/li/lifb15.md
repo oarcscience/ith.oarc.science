@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb14)  [Next](lifb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb14)  [Next](lifb16.md) 
 
 </div>
 
@@ -310,6 +310,6 @@ the wide world once in a pea-shell boat.  From Z. Topelius.
 
 ------------------------------------------------------------------------
 
-[Next: Moti](lifb16)
+[Next: Moti](lifb16.md)
 
 </div>

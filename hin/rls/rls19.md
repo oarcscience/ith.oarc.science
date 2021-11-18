@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls18)  [Next](rls20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls18)  [Next](rls20.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ well-intentioned advocacy.
 
 ------------------------------------------------------------------------
 
-[Next: Vedânta-philosophy](rls20)
+[Next: Vedânta-philosophy](rls20.md)

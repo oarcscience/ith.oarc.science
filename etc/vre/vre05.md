@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre04)  [Next](vre06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre04)  [Next](vre06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ God's attributes as such, his holiness, his justice, his mercy, his
 absoluteness, his infinity, his omniscience, his tri-unity, the various
 mysteries of the redemptive process, the operation of the sacraments,
 etc., have proved fertile wells of inspiring meditation for Christian
-believers. <span id="fr_20"></span>[1](#fn_20) We shall see later that
+believers. <span id="fr_20"></span>[1](#fn_20.md) We shall see later that
 the absence of definite sensible images is positively insisted on by the
 mystical authorities in all religions as the *sine qua non* of a
 successful orison, or contemplation of the higher divine truths. Such
@@ -162,7 +162,7 @@ the sake of that other Beauty, going from one to two, and from two to
 all fair forms, and from fair forms to fair actions, and from fair
 actions to fair notions, until from fair notions, he arrives at the
 notion of absolute Beauty, and at last knows what the essence of Beauty
-is." <span id="fr_21"></span>[1](#fn_21) In our last lecture we had a
+is." <span id="fr_21"></span>[1](#fn_21.md) In our last lecture we had a
 glimpse of the way in which a platonizing writer like Emerson may treat
 the abstract divineness of things, the moral structure of the universe,
 as a fact worthy of worship. In those various churches without a God
@@ -178,7 +178,7 @@ which the natural world falls apart—the sky-sphere, the ocean-sphere,
 the earth-sphere, and the like; just as even now we may speak of the
 smile of the morning, the kiss of the breeze, or the bite of the cold,
 without really meaning that these phenomena of nature actually wear a
-human face. <span id="fr_22"></span>[2](#fn_22)
+human face. <span id="fr_22"></span>[2](#fn_22.md)
 
 <span id="page_58">p. 58</span>
 
@@ -313,7 +313,7 @@ eyes round slightly without otherwise changing my position, the lower
 portion of one leg became visible, and I instantly recognized the
 gray-blue material of trousers he often wore, but the stuff appeared
 semitransparent, reminding me of tobacco smoke in consistency," <span
-id="fr_23"></span>[1](#fn_23)—and hereupon the visual hallucination
+id="fr_23"></span>[1](#fn_23.md)—and hereupon the visual hallucination
 came.</span>
 
 Another informant writes:—
@@ -332,7 +332,7 @@ time a strong</span>
 <span id="page_62">p. 62</span>
 
 feeling of superstitious dread, as if something strange and fearful were
-about to happen." <span id="fr_24"></span>[1](#fn_24)
+about to happen." <span id="fr_24"></span>[1](#fn_24.md)
 
 Professor Flournoy of Geneva gives me the following testimony of a
 friend of his, a lady, who has the gift of automatic or involuntary
@@ -388,7 +388,7 @@ surrounded by beings as ephemeral and incomprehensible as I am myself,
 and all excitedly pursuing pure chimeras, I experience a strange feeling
 of being in a dream. It seems to me as if I have loved and suffered and
 that erelong I shall die, in a dream. My last word will be, 'I have been
-dreaming.'" <span id="fr_25"></span>[1](#fn_25)
+dreaming.'" <span id="fr_25"></span>[1](#fn_25.md)
 
 In another lecture we shall see how in morbid melancholy this sense of
 the unreality of things may become a carking pain, and even lead to
@@ -474,7 +474,7 @@ with the presence of Something I knew not what. I spoke with the
 calmness and clearness of a prophet. I cannot tell you what this
 revelation was. I have not yet studied it enough. But I shall perfect it
 one day, and then you shall hear it and acknowledge its grandeur." <span
-id="fr_26"></span>[1](#fn_26)</span>
+id="fr_26"></span>[1](#fn_26.md)</span>
 
 <span id="page_66">p. 66</span>
 
@@ -527,7 +527,7 @@ do."</span>
 
 Here is another document, even more definite in character, which, the
 writer being a Swiss, I translate from the French original. <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
 <span class="small">"I was in perfect health: we were on our sixth day
 of tramping, and in good training. We had come the day before from Sixt
@@ -843,7 +843,7 @@ we possess our souls in patience, we *may* pass the valley of the
 shadow, and come out in sunlight again. We may or we may not! . . . What
 more have we to say now than God said from the whirlwind over two
 thousand five hundred years ago?" <span
-id="fr_28"></span>[1](#fn_28)</span>
+id="fr_28"></span>[1](#fn_28.md)</span>
 
 If we turn to the sanguine onlooker, on the other hand, we find that
 deliverance is felt as incomplete unless the burden be altogether
@@ -857,7 +857,7 @@ makes religious peace so different from merely animal joys. In the
 opinion of some writers an attitude might be called religious, though no
 touch were left in it of sacrifice or submission, no tendency to
 flexion, no bowing of the head. Any "habitual and regulated admiration,"
-says Professor J. R. Seeley, <span id="fr_29"></span>[1](#fn_29) "is
+says Professor J. R. Seeley, <span id="fr_29"></span>[1](#fn_29.md) "is
 worthy to be called a religion"; and accordingly he thinks that our
 Music, our Science, and our so-called "Civilization," as these things
 are now organized and admiringly believed in, form the more genuine
@@ -878,7 +878,7 @@ religious optimism the theme of the next two lectures.
 
 ### Footnotes
 
-<span id="fn_20"></span>[54:1](vre05.htm#fr_20) Example: "I have had
+<span id="fn_20"></span>[54:1](vre05.htm#fr_20.md) Example: "I have had
 much comfort lately in meditating on the passages which show the
 personality of the Holy Ghost, and his distinctness from the Father and
 the Son. It is a subject that requires searching into to find out, but,
@@ -888,37 +888,37 @@ thinking of the Spirit in its effect on us." <span
 class="smallcaps">Augustus Hare</span>: Memorials, i. 244, Maria Hare to
 Lucy H. Hare.
 
-<span id="fn_21"></span>[57:1](vre05.htm#fr_21) Symposium, Jowett, 1871,
+<span id="fn_21"></span>[57:1](vre05.htm#fr_21.md) Symposium, Jowett, 1871,
 i. 527.
 
-<span id="fn_22"></span>[57:2](vre05.htm#fr_22) Example: "Nature is
+<span id="fn_22"></span>[57:2](vre05.htm#fr_22.md) Example: "Nature is
 always so interesting, under whatever aspect she shows herself, that
 when it rains, I seem to see a beautiful <span id="page_58">p. 58</span>
 woman weeping. She appears the more beautiful, the more afflicted she
 is." B. de St. Pierre.
 
-<span id="fn_23"></span>[61:1](vre05.htm#fr_23) Journal of the S. P. R.,
+<span id="fn_23"></span>[61:1](vre05.htm#fr_23.md) Journal of the S. P. R.,
 February, 1895, p. 26.
 
-<span id="fn_24"></span>[62:1](vre05.htm#fr_24) E. Gurney: Phantasms of
+<span id="fn_24"></span>[62:1](vre05.htm#fr_24.md) E. Gurney: Phantasms of
 the Living, i. 384.
 
-<span id="fn_25"></span>[63:1](vre05.htm#fr_25) Pensees d’un Solitaire,
+<span id="fn_25"></span>[63:1](vre05.htm#fr_25.md) Pensees d’un Solitaire,
 p. 66.
 
-<span id="fn_26"></span>[65:1](vre05.htm#fr_26) Letters of Lowell, i.
+<span id="fn_26"></span>[65:1](vre05.htm#fr_26.md) Letters of Lowell, i.
 75.
 
-<span id="fn_27"></span>[67:1](vre05.htm#fr_27) I borrow it, with
+<span id="fn_27"></span>[67:1](vre05.htm#fr_27.md) I borrow it, with
 Professor Flournoy's permission, from his rich collection of
 psychological documents.
 
-<span id="fn_28"></span>[75:1](vre05.htm#fr_28) Mark Rutherford's
+<span id="fn_28"></span>[75:1](vre05.htm#fr_28.md) Mark Rutherford's
 Deliverance, London, 1885, pp. 196, 198.
 
-<span id="fn_29"></span>[76:1](vre05.htm#fr_29) In his book (too little
+<span id="fn_29"></span>[76:1](vre05.htm#fr_29.md) In his book (too little
 read, I fear), Natural Religion, 3d edition, Boston, 1886, pp. 91, 122.
 
 ------------------------------------------------------------------------
 
-[Next: Lectures IV and V. The Religion of Healthy Mindedness](vre06)
+[Next: Lectures IV and V. The Religion of Healthy Mindedness](vre06.md)

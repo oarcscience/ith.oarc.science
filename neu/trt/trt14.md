@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt13)  [Next](trt15) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt13)  [Next](trt15.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ advice of the nun, and Sir Lancelot pressed forward.
 ------------------------------------------------------------------------
 
 [Next: IV: How Sir Lancelot Saw a Vision, and Repented of His
-Sins](trt15)
+Sins](trt15.md)

@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](chaup00)  [Next](chaup02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](chaup00)  [Next](chaup02.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_217">p. 217</span>
 
-# THE STORY OF THE CHAUP: <span id="fr_0"></span>[1](#fn_0)
+# THE STORY OF THE CHAUP: <span id="fr_0"></span>[1](#fn_0.md)
 
-#### A MYTH OF THE DIEGUEÑOS. <span id="fr_1"></span>[2](#fn_1)
+#### A MYTH OF THE DIEGUEÑOS. <span id="fr_1"></span>[2](#fn_1.md)
 
 THERE were once two young girls who were sisters, and at this time there
 was a house made of earth where the Young men used to sleep at night,
@@ -88,7 +88,7 @@ other of the babies.
 And the two sisters were so happy playing with the little twins that
 they could not stop to eat or sleep. They painted the babies' bodies
 with red paint, a sort of clay that is found beside the water. "They
-need a cradle <span id="fr_2"></span>[1](#fn_2) now," said the elder
+need a cradle <span id="fr_2"></span>[1](#fn_2.md) now," said the elder
 sister, "but they have no father to bring them what they need. They will
 never know a father's care."
 
@@ -116,7 +116,7 @@ All the people were playing ball one day, hitting the ball upon the
 ground with a stick; and the coyote was playing with them all day long;
 but when it drew towards sunset the coyote looked up and said: "It is
 time for me now to go home to my children and their mother, who are
-waiting for me in the house. <span id="fr_3"></span>[1](#fn_3) I must
+waiting for me in the house. <span id="fr_3"></span>[1](#fn_3.md) I must
 take some wood home with me."
 
 So he went to a big fallen tree, chopped off an armful, and went to the
@@ -292,7 +292,7 @@ In-ya-ka-ha, etc.
 With that she came to them in her own shape and patted them on the
 cheeks, for she saw that they were angry at her chiding; but they turned
 their heads away and would not listen to her. Instead of mother they
-called her Sin-yo-hauch <span id="fr_4"></span>[1](#fn_4)--the woman who
+called her Sin-yo-hauch <span id="fr_4"></span>[1](#fn_4.md)--the woman who
 had been turned into a stump.
 
 But she caressed them until they were content again, and she promised to
@@ -477,25 +477,25 @@ This ends the story of the deer.
 
 ### Footnotes
 
-<span id="fn_0"></span>[217:1](chaup01.htm#fr_0) Chaup is the name for
+<span id="fn_0"></span>[217:1](chaup01.htm#fr_0.md) Chaup is the name for
 shooting-star, or rather for the great fire-balls of electric or
 meteoric origin which are sometimes seen in the clear air of the
 Southwest, illuminating the ground with a bright light and accompanied
 by a sound like thunder. Chaup is the same as Taquish of the Cahuillas
 in some of his characteristics.
 
-<span id="fn_1"></span>[217:2](chaup01.htm#fr_1) Copyright, 1904, by
+<span id="fn_1"></span>[217:2](chaup01.htm#fr_1.md) Copyright, 1904, by
 CONSTANCE GODDARD Du BOIS.
 
-<span id="fn_2"></span>[218:1](chaup01.htm#fr_2) Baby basket
+<span id="fn_2"></span>[218:1](chaup01.htm#fr_2.md) Baby basket
 
-<span id="fn_3"></span>[219:1](chaup01.htm#fr_3) Brush hut, translated
+<span id="fn_3"></span>[219:1](chaup01.htm#fr_3.md) Brush hut, translated
 "house" by educated Indian interpreter.
 
-<span id="fn_4"></span>[222:1](chaup01.htm#fr_4) This is also the name
+<span id="fn_4"></span>[222:1](chaup01.htm#fr_4.md) This is also the name
 of the Earth-Mother, very sacred to the older Indians. Those who have
 been under Spanish influence identify her with the Virgin Mary.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Eagles](chaup02)
+[Next: The Story of the Eagles](chaup02.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly59)  [Next](lly61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly59)  [Next](lly61.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ which the men were expected to excel.
 
 ------------------------------------------------------------------------
 
-[Next: Disposal of Their Dead](lly61)
+[Next: Disposal of Their Dead](lly61.md)

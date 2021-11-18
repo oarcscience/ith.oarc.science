@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits017) [Next](bits019)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits017) [Next](bits019.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ this body which
 is composed of the four elements are evident, and the way in which it is
 obtained and afterwards laid away again.<span
 id="page_151_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_151_note_1) Therefore here the
+class="small">1</span></sup>](#page_151_note_1.md) Therefore here the
 ignorant, unconverted man may conceive aversion, divest himself of
 passion, and attain to freedom. But that, O priests, which is called
 mind, intellect, consciousness,--here the ignorant, unconverted man is
@@ -105,7 +105,7 @@ that he is no more for this world.
 
 ------------------------------------------------------------------------
 
-[Next: § 19. What Is Unity Or One?](bits019)
+[Next: § 19. What Is Unity Or One?](bits019.md)
 
 ------------------------------------------------------------------------
 
@@ -113,7 +113,7 @@ that he is no more for this world.
 
 <span id="footnotes_page_151">p. 151</span>
 
-<span id="page_151_note_1"></span>[1](#page_151_fr_1) Visuddhi-Magga,
+<span id="page_151_note_1"></span>[1](#page_151_fr_1.md) Visuddhi-Magga,
 chap. xx.: By "The way in which it is obtained" is meant conception; by
 "The way in which it is laid away again" is meant death.
 

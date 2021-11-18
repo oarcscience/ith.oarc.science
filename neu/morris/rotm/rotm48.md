@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm47)  [Next](rotm49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm47)  [Next](rotm49.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -186,6 +186,6 @@ made an end of the dreadful lives of these destroyers of the Folks.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVIII. Men Sing in the Mote-House](rotm49)
+[Next: Chapter XLVIII. Men Sing in the Mote-House](rotm49.md)
 
 </div>

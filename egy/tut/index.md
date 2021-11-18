@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)     [Start Reading](tut00)
+[Contents](#contents)     [Start Reading](tut00.md)
 
 ------------------------------------------------------------------------
 
@@ -44,17 +44,17 @@ the topic, as well as some insightful analysis.
 
 ------------------------------------------------------------------------
 
-[Title Page](tut00)  
-[Contents](tut01)  
-[Notes](tut02)  
-[Preface](tut03)  
-[The Reign Of Tutankhamen](tut04)  
-[Tutankhamen and the Cult of Amen](tut05)  
-[A Hymn to Amen and Aten](tut06)  
+[Title Page](tut00.md)  
+[Contents](tut01.md)  
+[Notes](tut02.md)  
+[Preface](tut03.md)  
+[The Reign Of Tutankhamen](tut04.md)  
+[Tutankhamen and the Cult of Amen](tut05.md)  
+[A Hymn to Amen and Aten](tut06.md)  
 [The Cult of Aten, The God and Disk of the Sun, Its Origin, Development
-And Decline](tut07)  
-[Development of the Cult of Aten Under Amenhetep IV](tut08)  
-[A.--A Hymn to Aten by the King](tut09)  
-[B.--Hymn to Aten by Ai, Overseer of the Horse of Aakhunaten](tut10)  
-[Hymns to the Sun-God](tut11)  
-[Egyptian Monotheism](tut12)  
+And Decline](tut07.md)  
+[Development of the Cult of Aten Under Amenhetep IV](tut08.md)  
+[A.--A Hymn to Aten by the King](tut09.md)  
+[B.--Hymn to Aten by Ai, Overseer of the Horse of Aakhunaten](tut10.md)  
+[Hymns to the Sun-God](tut11.md)  
+[Egyptian Monotheism](tut12.md)  

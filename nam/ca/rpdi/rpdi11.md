@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](rpdi10)  [Next](rpdi12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](rpdi10)  [Next](rpdi12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religious Practices of the Diegueño Indians*, by T.T. Waterman,
 \[1910\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ On the following night a great fire is built and all the people, men and
 women, dance around it, circling alternately in each direction. The man
 who has charge of proceedings, assisted by one or two others, carries
 the dead person's clothes. The songs sung at this time are the regular
-songs of the Fire dance. <span id="fr_81"></span>[76](#fn_81) At the
+songs of the Fire dance. <span id="fr_81"></span>[76](#fn_81.md) At the
 close of each song all the dancers together make
 
 <span id="page_307">p. 307</span>
@@ -97,16 +97,16 @@ When the clothes are completely burned they sing as follows:
 
 The rites are completed by dancing the fire out, singing meanwhile the
 songs which belong to that ceremony. <span
-id="fr_83"></span>[78](#fn_83)
+id="fr_83"></span>[78](#fn_83.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_81"></span>[306:76](rpdi11.htm#fr_81) The account of which
+<span id="fn_81"></span>[306:76](rpdi11.htm#fr_81.md) The account of which
 see below.
 
-<span id="fn_82"></span>[307:77](rpdi11.htm#fr_82) Part of the myth
+<span id="fn_82"></span>[307:77](rpdi11.htm#fr_82.md) Part of the myth
 which tells of the origin of the ceremony is as follows: "The first man
 who performed the ceremony reached his hand to the North and brought a
 red rock, from the East a gleaming white rock, from the South a green
@@ -115,10 +115,10 @@ blew in all four directions and sang, 'My father and grandfather are
 dead, so now I sing.'" The remainder of the narrative concerning the
 origin of the ceremony could not be obtained.
 
-<span id="fn_83"></span>[307:78](rpdi11.htm#fr_83) See below, the
+<span id="fn_83"></span>[307:78](rpdi11.htm#fr_83.md) See below, the
 account of the Fire ceremony. The Luiseño Clothes-Burning is described
 in present series, VIII, 180, 226.
 
 ------------------------------------------------------------------------
 
-[Next: The Feather Ceremony](rpdi12)
+[Next: The Feather Ceremony](rpdi12.md)

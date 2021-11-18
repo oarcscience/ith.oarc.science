@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak01) [Next](sak1)
+[Sacred-Texts](../../index) [Hindu](../index) [Index](index) [Previous](sak01) [Next](sak1.md)
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ J. R. B.      
 
 ------------------------------------------------------------------------
 
-[Next](sak1)
+[Next](sak1.md)

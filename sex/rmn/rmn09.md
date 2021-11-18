@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn08)  [Next](rmn10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn08)  [Next](rmn10.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,13 +58,13 @@ the goddess was placed, may be seen a hollow pedestal, into which access
 was had by a concealed staircase, which terminated in the interior
 dwelling of the priests. It was by this passage that the impostor passed
 who was entrusted with the task of making the statues speak . . . . . .
-*ab uno disce omnes*. <span id="fr_13"></span>[1](#fn_13)
+*ab uno disce omnes*. <span id="fr_13"></span>[1](#fn_13.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_13"></span>[21:1](rmn09.htm#fr_13) The bas-relief here
+<span id="fn_13"></span>[21:1](rmn09.htm#fr_13.md) The bas-relief here
 spoken of is in terra-cotta. It belongs to the cabinet of M. de S. C.,
 who has been obliging enough to communicate it to us. The subject which
 it represents is repeated in one of the pieces belonging to the
@@ -75,4 +75,4 @@ and ingenious of the two.
 
 ------------------------------------------------------------------------
 
-[Next: Plate IX: The Phalluses in Stone](rmn10)
+[Next: Plate IX: The Phalluses in Stone](rmn10.md)

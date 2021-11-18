@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs10)  [Next](mhs12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs10)  [Next](mhs12.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ which he was examining.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Serpentine Shape Of The Horse-shoe](mhs12)
+[Next: IX. The Serpentine Shape Of The Horse-shoe](mhs12.md)

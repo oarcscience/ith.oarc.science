@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm03)  [Next](ssm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm03)  [Next](ssm05.md) 
 
 ------------------------------------------------------------------------
 
@@ -354,4 +354,4 @@ therefore, could it have gained supremacy *during their time*?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Religions](ssm05)
+[Next: Chapter II. Religions](ssm05.md)

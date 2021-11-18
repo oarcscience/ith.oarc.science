@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate02)  [Next](gate04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate02)  [Next](gate04.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ which guideth this great god through this Hall.
 
 ------------------------------------------------------------------------
 
-[Next: The Second Hour](gate04)
+[Next: The Second Hour](gate04.md)

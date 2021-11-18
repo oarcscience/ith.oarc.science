@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt21)  [Next](dmt23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt21)  [Next](dmt23.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ fire from the appearance of
 
 smoke. And the Inner Light (*ilham*) with the People of Verity is not
 one of the causes of knowledge as to the soundness of anything. <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 Further, the world in the totality of its parts is a thing originated
 (*muhdath*), in that it consists of Substances (*ayns*) and Attributes
@@ -127,7 +127,7 @@ and a slain man is
 
 dead because his appointed time (*ajal*) has come; and death exists in a
 slain man and is created by God Most High, and the appointed time is
-one. <span id="fr_5"></span>[1](#fn_5)
+one. <span id="fr_5"></span>[1](#fn_5.md)
 
 And that which is forbidden (*haram*) is still Sustenance (*rizq*), and
 each one receives his own Sustenance whether it consists of permitted or
@@ -302,14 +302,14 @@ excellent than the generality of the angels.
 
 ### Footnotes
 
-<span id="fn_4"></span>[309:1](dmt22.htm#fr_4) This is not the normal
+<span id="fn_4"></span>[309:1](dmt22.htm#fr_4.md) This is not the normal
 doctrine of Islam and the commentators have to explain this passage
 away. Consult in the chapters on theology, the whole Sufi development
 and especially the views of al-Ghazzali. Al-Mataridi was greatly
 influenced by Abu Hanifa, who was hostile to mystics. Notice, too, the
 philosophical basis and beginning of this creed.
 
-<span id="fn_5"></span>[311:1](dmt22.htm#fr_5) A sect of the
+<span id="fn_5"></span>[311:1](dmt22.htm#fr_5.md) A sect of the
 Mu‘tazilites held that a man could have two *ajals*, one his end by a
 natural death appointed by God, the other his end by a violent death,
 not so appointed. The "Philosophers" are said to have held that one
@@ -319,4 +319,4 @@ come through sicknesses and accident generally.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Creed of Muhammad Al-Fudali](dmt23)
+[Next: VI. The Creed of Muhammad Al-Fudali](dmt23.md)

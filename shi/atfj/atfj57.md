@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj56)  [Next](atfj58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj56)  [Next](atfj58.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_60"></span> <span align="CENTER"> [![60. What Saotome and
 Tamajo Found](tn/60.jpg)  
-Click to enlarge](img/60.jpg)  
+Click to enlarge](img/60.jpg.md)  
 60. What Saotome and Tamajo Found  
 </span>
 
@@ -73,7 +73,7 @@ the idea, and a certain day was fixed upon.
 
 On the appointed evening hundreds of fishermen gathered together with
 torches in one hand and Shirayu or Gohei <span
-id="fr_54"></span>[1](#fn_54) papers fastened on a bamboo in the other.
+id="fr_54"></span>[1](#fn_54.md) papers fastened on a bamboo in the other.
 
 <span id="page_343">p. 343</span>
 
@@ -156,7 +156,7 @@ the sea a great secret—at least, so I observe at Toshi.
 
 ### Footnotes
 
-<span id="fn_54"></span>[342:1](atfj57.htm#fr_54) Gohei papers are a
+<span id="fn_54"></span>[342:1](atfj57.htm#fr_54.md) Gohei papers are a
 Shinto emblem, representing gifts of cloth to the deity, usually the god
 Kami. Some say Gohei represent, in their curious cutting, the Kami
 beating dora, a gong used in worship.
@@ -165,6 +165,6 @@ beating dora, a gong used in worship.
 
 ------------------------------------------------------------------------
 
-[Next: LVI. The Spirit of a Willow Tree Saves Family Honour](atfj58)
+[Next: LVI. The Spirit of a Willow Tree Saves Family Honour](atfj58.md)
 
 </div>

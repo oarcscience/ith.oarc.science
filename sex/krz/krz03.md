@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz02)  [Next](krz04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz02)  [Next](krz04.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ It is joy and truth, the joy of joys and truth of truths.
 
 ------------------------------------------------------------------------
 
-[Next: What is Karezza?](krz04)
+[Next: What is Karezza?](krz04.md)

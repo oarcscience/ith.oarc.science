@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub58) 
-[Next](jub60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub58.md) 
+[Next](jub60.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,8 +11,8 @@
 
 XXVIII\. And he went on his journey, and came to the land of the east,
 to Laban, the brother of Rebecca, and he was with him, and served him
-for Rachel his daughter one week. <span id="fr_678"></span>[1](#fn_676)
-2. <span id="fr_679"></span>[2](#fn_677) And in the first year of the
+for Rachel his daughter one week. <span id="fr_678"></span>[1](#fn_676.md)
+2. <span id="fr_679"></span>[2](#fn_677.md) And in the first year of the
 third week he said unto him: "Give
 
 |           |
@@ -30,11 +30,11 @@ not for Leah? Why hast thou wronged me? Take thy daughter, and I will
 go; for thou hast done evil to me." 5. For Jacob loved Rachel more than
 Leah; for Leah's eyes were weak, but her form was very handsome; but
 Rachel had beautiful eyes and a beautiful and very handsome form. <span
-id="fr_680"></span>[3](#fn_678) 6. And Laban said to Jacob: "It is not
+id="fr_680"></span>[3](#fn_678.md) 6. And Laban said to Jacob: "It is not
 so done in our country, to give the younger before the elder." <span
-id="fr_681"></span>[4](#fn_679) And it is not right to do this; for thus
+id="fr_681"></span>[4](#fn_679.md) And it is not right to do this; for thus
 it is ordained and written in the heavenly tables, <span
-id="fr_682"></span>[5](#fn_680) that no one should give his younger
+id="fr_682"></span>[5](#fn_680.md) that no one should give his younger
 daughter before the elder--but the elder one giveth first and after her
 the younger--and the man who doeth so, they set down guilt against him
 in heaven, and none is righteous that doeth this thing, for this deed is
@@ -45,24 +45,24 @@ evil before the Lord.
 \[paragraph continues\] 7. And command thou the children of Israel that
 they do not this thing; let them neither take nor give the younger
 before they have given the elder, for it is very wicked. 8. <span
-id="fr_683"></span>[1](#fn_681) And Laban said to Jacob: "Let the seven
+id="fr_683"></span>[1](#fn_681.md) And Laban said to Jacob: "Let the seven
 days of the feast of this one pass by, and I shall give thee
-Rachel, <span id="fr_684"></span>[2](#fn_682) that thou mayest serve me
+Rachel, <span id="fr_684"></span>[2](#fn_682.md) that thou mayest serve me
 another seven years, that thou mayest pasture my sheep as thou didst in
 the former week." 9. And on the day when the seven days of the feast of
 Leah had passed, Laban gave Rachel to Jacob, that he might serve him
 another seven years, and he gave to Rachel Bilhah, the sister of
-Zilpah <span id="fr_685"></span>[3](#fn_683) as a handmaid. 10. And he
+Zilpah <span id="fr_685"></span>[3](#fn_683.md) as a handmaid. 10. And he
 served yet other seven years for Rachel, for Leah had been given to him
 for nothing. 11. And the Lord opened the womb of Leah, and she conceived
-and bare Jacob a son, and he <span id="fr_686"></span>[4](#fn_684)
+and bare Jacob a son, and he <span id="fr_686"></span>[4](#fn_684.md)
 called his name
 
 |           |
 |-----------|
 | 2122 A.M. |
 
-Reuben, <span id="fr_687"></span>[5](#fn_685) on the fourteenth day of
+Reuben, <span id="fr_687"></span>[5](#fn_685.md) on the fourteenth day of
 the ninth month, in the first year of the third week. 12. But the womb
 of Rachel was closed, for the Lord saw that Leah was hated and Rachel
 loved. 13. And again Jacob went in unto Leah, and she conceived, and
@@ -167,17 +167,17 @@ born, Jacob said to Laban: "Give me my wives and sons, and let me go to
 my father Isaac, and let me make me an house; for I have completed the
 years in which I have served thee for thy two daughters, and I will go
 to the house of my father." 26. And Laban said to Jacob: "†Tarry with me
-for thy wages† <span id="fr_688"></span>[1](jub60.htm#fn_686), and
+for thy wages† <span id="fr_688"></span>[1](jub60.htm#fn_686.md), and
 pasture my flock for me again, and take thy wages." 27. And they agreed
 with one another that he should give him as his wages those of the lambs
 and kids which were born black and spotted and white, <span
-id="fr_689"></span>[2](jub60.htm#fn_687) (these) were to be his wages.
+id="fr_689"></span>[2](jub60.htm#fn_687) (these.md) were to be his wages.
 28. And all the sheep brought forth spotted and speckled and black,
-variously marked, <span id="fr_690"></span>[3](jub60.htm#fn_688) and
+variously marked, <span id="fr_690"></span>[3](jub60.htm#fn_688.md) and
 they brought forth again lambs like themselves, and all that were
 spotted were Jacob's and those which were not were Laban's. 29. And
 Jacob's possessions multiplied exceedingly, and he possessed oxen and
-sheep <span id="fr_691"></span>[4](jub60.htm#fn_689) and asses and
+sheep <span id="fr_691"></span>[4](jub60.htm#fn_689.md) and asses and
 camels, and menservants and maidservants. 30. And Laban and his sons
 envied Jacob, and Laban took back his sheep from him, and he observed
 him with evil intent.
@@ -186,36 +186,36 @@ him with evil intent.
 
 ### Footnotes
 
-<span id="fn_676"></span>[147:1](jub59.htm#fr_678) *i. e.* seven years.
+<span id="fn_676"></span>[147:1](jub59.htm#fr_678.md) *i. e.* seven years.
 For 1 cf. Gen. xxix. 1, 20.
 
-<span id="fn_677"></span>[147:2](jub59.htm#fr_679) For 2-4 cf. Gen.
+<span id="fn_677"></span>[147:2](jub59.htm#fr_679.md) For 2-4 cf. Gen.
 xxix. 21-25.
 
-<span id="fn_678"></span>[147:3](jub59.htm#fr_680) Cf. Gen. xxix.
+<span id="fn_678"></span>[147:3](jub59.htm#fr_680.md) Cf. Gen. xxix.
 17-18*a*.
 
-<span id="fn_679"></span>[147:4](jub59.htm#fr_681) Cf. Gen. xxix. 26.
+<span id="fn_679"></span>[147:4](jub59.htm#fr_681.md) Cf. Gen. xxix. 26.
 
-<span id="fn_680"></span>[147:5](jub59.htm#fr_682) The comment of the
+<span id="fn_680"></span>[147:5](jub59.htm#fr_682.md) The comment of the
 angels. This rule seems to be unknown to tradition.
 
-<span id="fn_681"></span>[148:1](jub59.htm#fr_683) For 8-10 cf. Gen.
+<span id="fn_681"></span>[148:1](jub59.htm#fr_683.md) For 8-10 cf. Gen.
 xxix. 27-29.
 
-<span id="fn_682"></span>[148:2](jub59.htm#fr_684) The marriage of two
+<span id="fn_682"></span>[148:2](jub59.htm#fr_684.md) The marriage of two
 living sisters to the same man is expressly forbidden in the Mosaic Law;
 cf. Lev. xviii. 18.
 
-<span id="fn_683"></span>[148:3](jub59.htm#fr_685) According to *Test.
+<span id="fn_683"></span>[148:3](jub59.htm#fr_685.md) According to *Test.
 Naphtali* i. also, Bilhah and Zilpah were sisters. in later Jewish
 tradition they are represented as daughters of Laban; cf. *e. g.* *Pirḳe
 de R. Eliezer*, xxxvi.
 
-<span id="fn_684"></span>[148:4](jub59.htm#fr_686) Gen. xxix. 32 has
+<span id="fn_684"></span>[148:4](jub59.htm#fr_686.md) Gen. xxix. 32 has
 "she called.".
 
-<span id="fn_685"></span>[148:5](jub59.htm#fr_687) The twelve sons of
+<span id="fn_685"></span>[148:5](jub59.htm#fr_687.md) The twelve sons of
 Jacob appear in our text in the same order as in Gen. xxix. 32-34, xxx.
 1-24, xxxv. 17-18, viz. (1) Reuben; (2) Simeon; (3) Levi; (4) Judah; (5)
 Dan; (6) Naphtali; (7) Gad; (8) Asher; (9) Issachar; (110) Zebulon; (11)
@@ -226,4 +226,4 @@ is complicated by textual difficulties; see Charles *ad loc.*
 ------------------------------------------------------------------------
 
 [Next: Jacob's Flight with his Family: his Covenant with Laban (xxix.
-1-12)](jub60)
+1-12)](jub60.md)

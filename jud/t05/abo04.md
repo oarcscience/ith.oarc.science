@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](abo03)  [Next](abo05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](abo03)  [Next](abo05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -59,7 +59,7 @@ safeguards for the Law. The safeguard of the Lord, of Adam the First.
 The legend about Eve and the serpent, etc. The ten curses with which Eve
 was cursed at that time. "Shall I and my cattle eat out of the same
 trough?" The tradition about the ox of Adam, the steer of Noah, and the
-ram sacrificed by Abraham, [1](abo05.htm#page_1)-[11](abo05.htm#page_11)
+ram sacrificed by Abraham, [1](abo05.htm#page_1)-[11](abo05.htm#page_11.md)
 
 <span id="page_xii">p. xii</span>
 
@@ -70,19 +70,19 @@ that Moses made to his words? The reason why Moses broke the Tables?
 What is the safeguard that Job made to his words? The safe guard that
 the prophets made to their words. The safeguard that the Hagiographers
 made to their words. The safeguard that the sages made to their words,
-[11](abo05.htm#page_11)-[19](abo05.htm#page_19)
+[11](abo05.htm#page_11)-[19](abo05.htm#page_19.md)
 
 CONTINUATION OF CHAPTER III. OF TOSEPHTHA.--Whoever takes a coin from
 charity when not in need of it, etc. Study the Law in thy old age, even
 if thou hast studied it in thy youth. If you gave a coin to a poor man
 in the morning, and another one begs of you in the evening, give him
 also. What happened to a poor man with R. Aqiba. What happened to
-Benjamin the just, [19](abo05.htm#page_19)-[21](abo05.htm#page_21)
+Benjamin the just, [19](abo05.htm#page_19)-[21](abo05.htm#page_21.md)
 
 MISHNA *B*. The motto of Simeon the Just. Upon the Torah, how so? Upon
 service, how so? Upon bestowal of favors, how so? Rabban Johanan b.
 Zakkai and Vespasian. In three things mankind differ one from the other,
-[22](abo05.htm#page_22)-[26](abo05.htm#page_26)
+[22](abo05.htm#page_22)-[26](abo05.htm#page_26.md)
 
 MISHNAS *C* AND *D*. Be not like slaves who serve their masters for the
 sake of compensation. Let the fear of Heaven be upon you. Let your house
@@ -90,7 +90,7 @@ be the meeting place of the wise. How did R. Aqiba begin his wonderful
 career? Not less astonishing was the literary career of R. Eliezer. How
 his father Hyrkanus reached the seats of Ben Zizith Ha Kesseth, Nakdimon
 b. Gurion, and Calba Shebua,
-[26](abo05.htm#page_26)-[32](abo05.htm#page_32)
+[26](abo05.htm#page_26)-[32](abo05.htm#page_32.md)
 
 MISHNAS *E* AND *F*. Let thy house be wide open for the poor. When the
 great affliction came upon Job, he prayed, etc. Teach thy house
@@ -99,12 +99,12 @@ teacher. Judge everyone from his favorable side. The legend about a
 maiden who was led into captivity and the pious men who went to redeem
 her. Not only were the upright of former times themselves very strict
 and particular, but also their cattle were so. The ass of R. Hanina b.
-Dosa, [32](abo05.htm#page_32)-[38](abo05.htm#page_38)
+Dosa, [32](abo05.htm#page_32)-[38](abo05.htm#page_38.md)
 
 MISHNA *G*. Keep aloof from a wicked neighbor. Slanderers are punished
 with plagues. The legend about Moses, Aaron, and Miriam. Do not consider
 thyself exempt from God's chastisement,
-[38](abo05.htm#page_38)-[41](abo05.htm#page_41)
+[38](abo05.htm#page_38)-[41](abo05.htm#page_41.md)
 
 MISHNAS *H* TO *K*. Make thyself not as those that predispose the
 Judges. Love work--how so? Do not care for superiority. See to it that
@@ -112,7 +112,7 @@ your name be not known to the Government. Ye wise, be guarded in your
 words. Love peace--how so? Moses desired to die the same death Aaron
 did--how so? The legend of the death of Moses, at length. Pursue
 peace--how so? Love all men too, and bring them nigh unto the Law,
-[41](abo05.htm#page_41)-[50](abo05.htm#page_50)
+[41](abo05.htm#page_41)-[50](abo05.htm#page_50.md)
 
 MISHNAS *L* TO *Q*. If I do not look to myself, who will do so? And if
 not now, when? He who does not desire to learn from his masters is not
@@ -130,7 +130,7 @@ Thy
 fellow's honor must be as dear to thee as thine own. Do not allow
 thyself to be easily angered. The two proselytes that came before Hillel
 and Shammai. Repent one day before thy death,
-[50](abo05.htm#page_50)-[58](abo05.htm#page_58)
+[50](abo05.htm#page_50)-[58](abo05.htm#page_58.md)
 
 ### CHAPTER II.
 
@@ -148,13 +148,13 @@ the Just, R. Zadoq, R. Aqiba, R. Eliezer the Great, etc. How difficult
 it is for man to avoid the evil propensities. Love everyone except the
 infidels, the enticers, the misleaders, and the informers. Thy
 neighbor's property must be as sacred as thine own,
-[58](abo05.htm#page_58)-[65](abo06.htm#page_65)
+[58](abo05.htm#page_58)-[65](abo06.htm#page_65.md)
 
 MISHNA *N*. Set thyself to learn the Law. Johanan b. Zakkai and the
 daughter of Nakdimon b. Gurion. Let noble purpose underlie thy every
 action. The sages who were recounted of R. Jehudah the Prince. How they
 were named by Issi b. Jehudah,
-[65](abo06.htm#page_65)-[70](abo06.htm#page_70)
+[65](abo06.htm#page_65)-[70](abo06.htm#page_70.md)
 
 ### CHAPTER III.
 
@@ -170,7 +170,7 @@ judged by grace. All that we possess is merely a trust. Without
 knowledge of religion there can be no true culture, and without true
 culture there is no knowledge of religion. Qinim, canons, astronomy, and
 geometry are after-courses of wisdom,
-[70](abo06.htm#page_70)-[81](abo07.htm#page_81)
+[70](abo06.htm#page_70)-[81](abo07.htm#page_81.md)
 
 ### CHAPTER IV.
 
@@ -185,7 +185,7 @@ of thine associate.
 <span id="page_xiv">p. xiv</span>
 
 Be careful in thy study, for error in study counts for an intentional
-sin, [81](abo07.htm#page_81)-[86](abo08.htm#page_86)
+sin, [81](abo07.htm#page_81)-[86](abo08.htm#page_86.md)
 
 MISHNA *Q*. Neither the security of the wicked nor the afflictions of
 the righteous are within the grasp of our understanding. Be beforehand
@@ -203,7 +203,7 @@ is not worth living. The safeguard for honor is refraining from
 laughter. The safeguard for wisdom is silence. Whoever marries a woman
 not suitable to him transgresses five negative commandments. Do not be
 as the lintel, which no hand can reach, etc.,
-[86](abo08.htm#page_86)-[95](abo08.htm#page_95)
+[86](abo08.htm#page_86)-[95](abo08.htm#page_95.md)
 
 MISHNA *Q*. (continued). Those that despise me shall be lightly
 esteemed. The support of the wise, etc. Do not keep away from a precept
@@ -228,7 +228,7 @@ who neglects the words of the Law on account of his riches. There is a
 case where one transgresses ignorantly, etc. One who connects himself
 with transgressors, etc. The punishment of the liar is that even when he
 tells the truth he is not believed,
-[95](abo08.htm#page_95)-[103](abo08.htm#page_103)
+[95](abo08.htm#page_95)-[103](abo08.htm#page_103.md)
 
 ### CHAPTER V.
 
@@ -262,7 +262,7 @@ to be "he." Ten times did the Shekhina descend upon the earth. Ten
 degrees the Shekhina removed itself from one place to another. A prophet
 is called by ten different names. There are ten names for the Holy
 Spirit. Ten are called "living." Ten miracles were wrought for our
-fathers in Egypt, [103](abo08.htm#page_103)-[115](abo09.htm#page_115)
+fathers in Egypt, [103](abo08.htm#page_103)-[115](abo09.htm#page_115.md)
 
 MISHNAS *H* TO *O*. Ten miracles were performed for our forefathers in
 Jerusalem. Jerusalem never was defiled by leprosy. How Kimchith, the
@@ -293,7 +293,7 @@ seven cardinal transgressions. About the execution of R. Simeon b.
 Gamaliel and R. Ishmael b. Elisha the high-priest. Captivity comes upon
 the world, etc. Five are not to be forgiven. Four kinds of views are
 held by men concerning property,
-[115](abo09.htm#page_115)-[131](abo09.htm#page_131).
+[115](abo09.htm#page_115)-[131](abo09.htm#page_131.md).
 
 <span id="page_xvi">p. xvi</span>
 
@@ -308,7 +308,7 @@ of Abraham, etc, Be courageous as the panther, light-winged as the
 eagle, swift as the deer, and strong as the lion, One five years old
 should study Scripture, etc. Turn it and turn it again, for everything
 can be found therein,
-[131](abo09.htm#page_131)-[133](abo09.htm#page_133)
+[131](abo09.htm#page_131)-[133](abo09.htm#page_133.md)
 
 ### CHAPTER VI.
 
@@ -337,8 +337,8 @@ advantages in a glass vessel. The money that the Israelites carried away
 from Egypt returned to Egypt. If you do the least wrong to your
 companion, it shall be considered by you the greatest wrong, etc. The
 following articles were hidden, etc.,
-[133](abo09.htm#page_133)-[143](abo10.htm#page_143)
+[133](abo09.htm#page_133)-[143](abo10.htm#page_143.md)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](abo05)
+[Next: Chapter I](abo05.md)

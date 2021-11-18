@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](efl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](efl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ may be quite certain; that is to say, that the oldest human remains that
 have been found in Egypt bear upon them traces of the use of bitumen,
 which proves that, the Egyptians at the very beginning of their stay in
 the valley of the Nile made some attempt to preserve their dead by means
-of mummification. <span id="fr_119"></span>[1](#fn_119) If they were, as
+of mummification. <span id="fr_119"></span>[1](#fn_119.md) If they were, as
 many think, invaders who had made their way across Arabia and the Red
 Sea and the eastern desert of the Nile, they may have brought the idea
 and habit of preserving their dead with them, or they may have adopted,
@@ -160,7 +160,7 @@ been in use, however, for a considerable time. It is to this reversal
 that we probably owe such passages as, "O flesh of Pepi, rot not, decay
 not, stink not;" "Pepi goeth forth with his flesh;" "thy bones shall not
 be destroyed, and thy flesh shall not perish," <span
-id="fr_120"></span>[1](#fn_120) etc.; and they denote a return to the
+id="fr_120"></span>[1](#fn_120.md) etc.; and they denote a return to the
 views and ways of the earliest people known to us in Egypt.
 
 In the interval which elapsed between the period of the prehistoric
@@ -273,11 +273,11 @@ educated people in general. Already in the Vth dynasty, about B.C. 3400,
 it is stated definitely:--
 
 "The soul to heaven, the body to earth;" <span
-id="fr_121"></span>[1](#fn_121)
+id="fr_121"></span>[1](#fn_121.md)
 
 and three thousand years later the Egyptian writer declared the same
 thing, but in different words, when he wrote:-- <span
-id="fr_122"></span>[2](#fn_122)
+id="fr_122"></span>[2](#fn_122.md)
 
 "Heaven hath thy soul, and earth thy body."
 
@@ -347,8 +347,8 @@ the body to become changed into a "SÂHU," or incorruptible, spiritual
 body, which passed straightway out of the tomb and made its way to
 heaven where it dwelt with the gods. When in the Book of the Dead the
 deceased says, "I exist, I exist; I live, I live; I germinate, I
-germinate," <span id="fr_123"></span>[1](#fn_123) and again, "I
-germinate like the plants," <span id="fr_124"></span>[2](#fn_124) the
+germinate," <span id="fr_123"></span>[1](#fn_123.md) and again, "I
+germinate like the plants," <span id="fr_124"></span>[2](#fn_124.md) the
 deceased does not mean that his physical body is putting forth the
 beginnings of another body like the old one, but a spiritual body which
 "hath neither defect nor, like Râ, shall suffer diminution for ever."
@@ -439,9 +439,9 @@ circumstances he may be placed, will cause every being, friendly or
 unfriendly, to do his will. But apart from any question of the slaughter
 of the gods the Egyptians declared of this same king, "Behold, thou hast
 not gone as one dead, but as one living, to sit upon the throne of
-Osiris;" <span id="fr_125"></span>[1](#fn_125) and in a papyrus written
+Osiris;" <span id="fr_125"></span>[1](#fn_125.md) and in a papyrus written
 nearly two thousand years later the deceased himself says, "My soul is
-God, my soul is eternity," <span id="fr_126"></span>[2](#fn_126) a clear
+God, my soul is eternity," <span id="fr_126"></span>[2](#fn_126.md) a clear
 proof that the ideas of the existence of God and of eternity were
 identical. Yet one other example is worth quoting, if only to show the
 care that the writers of religious texts took to impress the immortality
@@ -465,7 +465,7 @@ the god Temu hath decreed that his course shall be among the holy
 princes. Verily be shall rule over thy throne, and he shall be heir of
 the throne of the Dweller in the Lake of the Two Fires. Verily it hath
 been decreed that in me he shall see his likeness, <span
-id="fr_127"></span>[1](#fn_127) and that my face shall look upon the
+id="fr_127"></span>[1](#fn_127.md) and that my face shall look upon the
 face of the lord Tem." After reciting these words, the deceased asks
 Thoth, "How long have I to live?" and the god replies, "It is decreed
 that thou shalt live for millions of millions of years, a life of
@@ -515,7 +515,7 @@ afford us no clue as to its whereabouts; some scholars think that it lay
 away to the east of Egypt, but it is far more likely to represent some
 district of the Delta either in its northern or north-eastern portion.
 Fortunately we have a picture of it in the Papyrus of Nebseni, <span
-id="fr_128"></span>[1](#fn_128) the oldest probably on papyrus, and from
+id="fr_128"></span>[1](#fn_128.md) the oldest probably on papyrus, and from
 this we may see that Sekhet-Aaru, *i.e.*, the "Field of Reeds," typified
 some very fertile region where farming operations could be carried on
 with ease and success. Canals and watercourses abound, and in one
@@ -576,7 +576,7 @@ The place where it lies is called the "Domain of Neth."
 16\. Two Pools, the names of which are illegible.
 
 The scene as given in the Papyrus of Ani <span
-id="fr_129"></span>[1](#fn_129) gives some interesting variants and may
+id="fr_129"></span>[1](#fn_129.md) gives some interesting variants and may
 be described thus:--
 
 1\. Ani making an offering before a hare-headed god, a snake-headed god,
@@ -633,7 +633,7 @@ different, for there we have reason to believe relationships were
 recognized and rejoiced in. Thus in Chapter LII. of the Book of the
 Dead, which was composed with the idea of the deceased, from lack of
 proper food in the underworld, being obliged to eat filth, <span
-id="fr_130"></span>[1](#fn_130) and with the object of preventing such
+id="fr_130"></span>[1](#fn_130.md) and with the object of preventing such
 an awful
 
 <span id="page_210">p. 210</span>
@@ -690,7 +690,7 @@ it goes almost without saying that he would not ask this thing if he
 thought there would be no prospect of knowing his parents in the next
 world. An interesting proof of this is afforded by the picture of the
 Sekhet-Aaru, or Elysian Fields, which is given in the Papyrus of
-Anhai, <span id="fr_131"></span>[1](#fn_131) a priestess of Amen who
+Anhai, <span id="fr_131"></span>[1](#fn_131.md) a priestess of Amen who
 lived probably about B.C. 1000. Here we see the deceased entering into
 the topmost section of the district and addressing two divine persons;
 above one of these are written the words "her mother," followed by the
@@ -742,7 +742,7 @@ even as a man doeth upon the earth." The deceased says:--
 "Set hath seized Horus, who looked with the two eyes I upon the building
 (?) round Sekhet-hetep, but I have released Horus \[and taken him from\]
 Set, and Set hath opened the path of the two eyes \[which are\] in
-heaven <span id="fr_132"></span>[1](#fn_132). Set hath cast (?) his
+heaven <span id="fr_132"></span>[1](#fn_132). Set hath cast (?.md) his
 moisture to the winds upon the soul that hath his day, and that dwelleth
 in the city of Mert, and he hath delivered the interior of the body of
 Horus from the gods of Akert.
@@ -766,7 +766,7 @@ and
 and he keepeth away harm from the spirits (KHU). Let me have dominion
 within that field, for I know it, and I have sailed among its lakes so
 that I might come into its cities. My mouth is firm, <span
-id="fr_133"></span>[1](#fn_133) and I am equipped to resist the spirits
+id="fr_133"></span>[1](#fn_133.md) and I am equipped to resist the spirits
 (KHU), therefore they shall not have dominion over me. Let me be
 rewarded with thy fields, O thou god Hetep; but that which is thy wish
 do, O thou lord of the winds. May I become a spirit therein, may I eat
@@ -775,7 +775,7 @@ may I fight therein, may I make love therein, may my words be mighty
 therein; may I never be in a state of servitude therein; but may I be in
 authority therein. Thou hast made strong the mouth (or door) and the
 throat (?) of Hetep; Qetet-bu is his name. He is stablished upon the
-pillars <span id="fr_134"></span>[2](#fn_134) of Shu, and is linked unto
+pillars <span id="fr_134"></span>[2](#fn_134.md) of Shu, and is linked unto
 the pleasant things of Râ. He is the divider of years, he is hidden of
 mouth, his mouth is silent, that which he uttereth is secret, he
 fulfilleth eternity and hath possession of everlasting existence as
@@ -835,23 +835,23 @@ god Hetep hath greatly increased for me."
 
 <span id="page_219">p. 219</span>
 
-"O Unen-em-hetep, <span id="fr_135"></span>[1](#fn_135) I have entered
+"O Unen-em-hetep, <span id="fr_135"></span>[1](#fn_135.md) I have entered
 into thee, and my soul followeth after me, and my divine food is upon my
-hands. O Lady of the two lands, <span id="fr_136"></span>[2](#fn_136)
+hands. O Lady of the two lands, <span id="fr_136"></span>[2](#fn_136.md)
 who stablishest my word whereby I remember and forget, let me live
 uninjured, and without any injury \[being done\] unto me. O grant to me,
 O do thou grant to me, joy of heart; make thou me to be at peace, bind
 thou up my sinews and muscles, and make me to receive the air."
 
 "O Unen-em-hetep, O Lady of the winds, I have entered into thee, and I
-have shewn <span id="fr_137"></span>[3](#fn_137) my head \[therein\]. Râ
+have shewn <span id="fr_137"></span>[3](#fn_137.md) my head \[therein\]. Râ
 sleepeth, but I am awake, and there is the goddess Hast at the gate of
 heaven by night. Obstacles have been set before me, but I have gathered
 together what Râ hath emitted. I am in my city."
 
-"O Nut-urt, <span id="fr_138"></span>[4](#fn_138) I have entered into
+"O Nut-urt, <span id="fr_138"></span>[4](#fn_138.md) I have entered into
 thee and I have reckoned up my harvest, and I go forward to Uakh. <span
-id="fr_139"></span>[5](#fn_139) I am the Bull enveloped in turquoise,
+id="fr_139"></span>[5](#fn_139.md) I am the Bull enveloped in turquoise,
 the lord of the Field of the Bull, the lord of the divine speech of the
 goddess Septet (Sothis) at her hours. O Uakh, I have entered into thee,
 I have eaten my bread, I have gotten the mastery over choice pieces of
@@ -862,7 +862,7 @@ the flesh of oxen and of feathered fowl, and the birds of Shu have
 been given unto me; I follow after the gods, and the divine 'Doubles'
 (KAU)."
 
-"O Tchefet, <span id="fr_140"></span>[1](#fn_140) I have entered into
+"O Tchefet, <span id="fr_140"></span>[1](#fn_140.md) I have entered into
 thee. I array myself in apparel, and I have guarded myself with the *Sa*
 garment of Râ; now behold, he is in heaven, and those who dwell therein
 follow him, and I also follow Râ in heaven. O Unen-em-hetep, lord of the
@@ -872,14 +872,14 @@ The Great God groweth therein, and behold, I have found \[food
 therein\]; I have snared feathered fowl and I feed upon the finest of
 them."
 
-"O Qenqentet, <span id="fr_141"></span>[2](#fn_141) I have entered into
+"O Qenqentet, <span id="fr_141"></span>[2](#fn_141.md) I have entered into
 thee, and I have seen the Osiris \[my father\], and I have gazed upon my
 mother, and I have made love. I have captured the worms and serpents
 \[which are there\] and have delivered myself. I know the name of the
 god who is opposite to the goddess Tchesert, who hath straight hair and
 is provided with horns; he reapeth, but I both plough and reap."
 
-"O Hast, <span id="fr_142"></span>[3](#fn_142) I have entered into thee,
+"O Hast, <span id="fr_142"></span>[3](#fn_142.md) I have entered into thee,
 and I have driven back those who would come to the turquoise \[sky\];
 and I have followed the winds of the company of the gods. The Great God
 hath given my head unto me, and he who hath bound on me my
@@ -889,10 +889,10 @@ hath given my head unto me, and he who hath bound on me my
 head is the Mighty One with the eyes of turquoise, that is to say,
 Ari-en-ab-f (*i.e.*, He who doeth as he pleaseth)."
 
-"O Usert, <span id="fr_143"></span>[1](#fn_143) I have come unto thee at
+"O Usert, <span id="fr_143"></span>[1](#fn_143.md) I have come unto thee at
 the house where the divine food is brought unto me."
 
-"O Smam, <span id="fr_144"></span>[2](#fn_144) I have come unto thee. My
+"O Smam, <span id="fr_144"></span>[2](#fn_144.md) I have come unto thee. My
 heart watcheth, and I am provided with the white crown. I am led into
 celestial regions, and I make the things of earth to flourish; and there
 is joy of heart for the Bull, and for celestial beings, and for the
@@ -918,9 +918,9 @@ shalt come forth into heaven, thou shalt pass over the sky, thou shalt
 be joined unto the starry deities. Praises shall be offered unto thee in
 thy boat, thou shalt be hymned in the Âtet boat, thou shalt behold Râ
 within his shrine, thou shalt set together with his Disk day by day,
-thou shalt see the ANT <span id="fr_145"></span>[1](#fn_145) fish when
+thou shalt see the ANT <span id="fr_145"></span>[1](#fn_145.md) fish when
 it springeth into being in the waters of turquoise, and thou shalt see
-the ABTU <span id="fr_146"></span>[1](#fn_145) fish in his hour. It
+the ABTU <span id="fr_146"></span>[1](#fn_145.md) fish in his hour. It
 shall come to pass that the Evil One shall fall when he layeth a snare
 to destroy thee, and the joints of his neck and of his back shall be
 hacked asunder. Râ \[saileth\] with a fair wind, and the Sektet boat
@@ -940,7 +940,7 @@ a god, and when this was effected to become Râ himself. Thus in
 <span id="page_223">p. 223</span>
 
 \[paragraph continues\] Chapter XLII. of the Book of the Dead <span
-id="fr_147"></span>[1](#fn_146) the deceased says-
+id="fr_147"></span>[1](#fn_146.md) the deceased says-
 
 "My hair is the hair of Nu.
 
@@ -979,7 +979,7 @@ id="fr_147"></span>[1](#fn_146) the deceased says-
 "My feet are the feet of Ptah.
 
 "My fingers and my leg-bones are the fingers and leg-bones of the Living
-Gods." <span id="fr_148"></span>[2](#fn_147)
+Gods." <span id="fr_148"></span>[2](#fn_147.md)
 
 And immediately after this the deceased says:
 
@@ -1003,92 +1003,92 @@ steadiness of principle which, to some, it at first appears to lack.
 
 ### Footnotes
 
-<span id="fn_119"></span>[184:1](efl07.htm#fr_119) See J. de Morgan,
+<span id="fn_119"></span>[184:1](efl07.htm#fr_119.md) See J. de Morgan,
 *Ethnographie Préhistorique*, Paris, 1897, p. 139.
 
-<span id="fn_120"></span>[180:1](efl07.htm#fr_120) See *Recueil de
+<span id="fn_120"></span>[180:1](efl07.htm#fr_120.md) See *Recueil de
 Travaux*, tom. v. pp. 55, 185 (lines 169, 347, 853).
 
-<span id="fn_121"></span>[193:1](efl07.htm#fr_121) *Recueil de Travaux*,
+<span id="fn_121"></span>[193:1](efl07.htm#fr_121.md) *Recueil de Travaux*,
 tom. iv. p. 71 (1. 582).
 
-<span id="fn_122"></span>[193:2](efl07.htm#fr_122) Horrack,
+<span id="fn_122"></span>[193:2](efl07.htm#fr_122.md) Horrack,
 *Lamentations d'Isis*, Paris, 1866, p. 6.
 
-<span id="fn_123"></span>[196:1](efl07.htm#fr_123) See Chap. cliv.
+<span id="fn_123"></span>[196:1](efl07.htm#fr_123.md) See Chap. cliv.
 
-<span id="fn_124"></span>[196:2](efl07.htm#fr_124) See Chap. lxxxviii.
+<span id="fn_124"></span>[196:2](efl07.htm#fr_124.md) See Chap. lxxxviii.
 3.
 
-<span id="fn_125"></span>[201:1](efl07.htm#fr_125) *Recueil de Travaux*,
+<span id="fn_125"></span>[201:1](efl07.htm#fr_125.md) *Recueil de Travaux*,
 tom. v. p. 167 (l. 65).
 
-<span id="fn_126"></span>[201:2](efl07.htm#fr_126) *Papyrus of Ani*,
+<span id="fn_126"></span>[201:2](efl07.htm#fr_126.md) *Papyrus of Ani*,
 Plate 28, 1. 15 (Chapter lxxxiv.).
 
-<span id="fn_127"></span>[202:1](efl07.htm#fr_127) *I.e.*, I shall be
+<span id="fn_127"></span>[202:1](efl07.htm#fr_127.md) *I.e.*, I shall be
 like Horus, the son of Osiris.
 
-<span id="fn_128"></span>[204:1](efl07.htm#fr_128) Brit. Mus., No. 9900;
+<span id="fn_128"></span>[204:1](efl07.htm#fr_128.md) Brit. Mus., No. 9900;
 this document belongs to the XVIIIth dynasty.
 
-<span id="fn_129"></span>[206:1](efl07.htm#fr_129) Brit. Mus., No.
+<span id="fn_129"></span>[206:1](efl07.htm#fr_129.md) Brit. Mus., No.
 10,470, Plate 35.
 
-<span id="fn_130"></span>[209:1](efl07.htm#fr_130) This idea is a
+<span id="fn_130"></span>[209:1](efl07.htm#fr_130.md) This idea is a
 survival of prehistoric times, when it was thought that if the proper
 sepulchral meals were not deposited at regular <span id="page_210">p.
 210</span> intervals where the KA, or "double," of the deceased could
 get at them it would be obliged to wander about and pick up whatever it
 might find to eat upon its road.
 
-<span id="fn_131"></span>[212:1](efl07.htm#fr_131) Brit. Mus., No.
+<span id="fn_131"></span>[212:1](efl07.htm#fr_131.md) Brit. Mus., No.
 10,472.
 
-<span id="fn_132"></span>[215:1](efl07.htm#fr_132) *I.e.*, the Eye of Râ
+<span id="fn_132"></span>[215:1](efl07.htm#fr_132.md) *I.e.*, the Eye of Râ
 and the Eye of Horus.
 
-<span id="fn_133"></span>[216:1](efl07.htm#fr_133) *I.e.*, I know how to
+<span id="fn_133"></span>[216:1](efl07.htm#fr_133.md) *I.e.*, I know how to
 utter the words of power which I possess with vigour.
 
-<span id="fn_134"></span>[216:2](efl07.htm#fr_134) *I.e.*, the four
+<span id="fn_134"></span>[216:2](efl07.htm#fr_134.md) *I.e.*, the four
 pillars, one placed at each cardinal point, which support the sky.
 
-<span id="fn_135"></span>[219:1](efl07.htm#fr_135) The name of the first
+<span id="fn_135"></span>[219:1](efl07.htm#fr_135.md) The name of the first
 large section of Sekhet-Aaru.
 
-<span id="fn_136"></span>[219:2](efl07.htm#fr_136) A lake in the second
+<span id="fn_136"></span>[219:2](efl07.htm#fr_136.md) A lake in the second
 section of Sekhet-Aaru.
 
-<span id="fn_137"></span>[219:3](efl07.htm#fr_137) Literally, "opened."
+<span id="fn_137"></span>[219:3](efl07.htm#fr_137.md) Literally, "opened."
 
-<span id="fn_138"></span>[219:4](efl07.htm#fr_138) The name of a lake in
+<span id="fn_138"></span>[219:4](efl07.htm#fr_138.md) The name of a lake in
 the first section of Sekhet-Aaru.
 
-<span id="fn_139"></span>[219:5](efl07.htm#fr_139) The name of a lake in
+<span id="fn_139"></span>[219:5](efl07.htm#fr_139.md) The name of a lake in
 the second section of Sekhet-Aaru.
 
-<span id="fn_140"></span>[220:1](efl07.htm#fr_140) The name of a
+<span id="fn_140"></span>[220:1](efl07.htm#fr_140.md) The name of a
 district in the third section of Sekhet-Aaru.
 
-<span id="fn_141"></span>[220:2](efl07.htm#fr_141) The name of a lake in
+<span id="fn_141"></span>[220:2](efl07.htm#fr_141.md) The name of a lake in
 the first section of Sekhet-Aaru.
 
-<span id="fn_142"></span>[220:3](efl07.htm#fr_142) The name of a lake in
+<span id="fn_142"></span>[220:3](efl07.htm#fr_142.md) The name of a lake in
 the third section of Sekhet-Aaru.
 
-<span id="fn_143"></span>[221:1](efl07.htm#fr_143) The name of a lake in
+<span id="fn_143"></span>[221:1](efl07.htm#fr_143.md) The name of a lake in
 the third section of Sekhet-Aaru.
 
-<span id="fn_144"></span>[221:2](efl07.htm#fr_144) The name of a lake in
+<span id="fn_144"></span>[221:2](efl07.htm#fr_144.md) The name of a lake in
 the third section of Sekhet-Aaru.
 
-<span id="fn_145"></span>[222:1](efl07.htm#fr_146) The name of a
+<span id="fn_145"></span>[222:1](efl07.htm#fr_146.md) The name of a
 mythological fish which swam at the bow of the boat of Râ.
 
-<span id="fn_146"></span>[223:1](efl07.htm#fr_147) See *The Chapters of
+<span id="fn_146"></span>[223:1](efl07.htm#fr_147.md) See *The Chapters of
 Coming Forth by Day*, p. 93.
 
-<span id="fn_147"></span>[223:2](efl07.htm#fr_148) The idea of the
+<span id="fn_147"></span>[223:2](efl07.htm#fr_148.md) The idea of the
 deification of the human members was current already in the VIth
 dynasty. See *Recueil de Travaux*, tom. viii. pp. 87, 88.

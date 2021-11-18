@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh13)  [Next](ehh15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh13)  [Next](ehh15.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ addresses.
 ------------------------------------------------------------------------
 
 [Next: Fifth Division of the Tuat. II. The Kingdom of
-Khenti-Amenti-Osiris According to the Book of Gates](ehh15)
+Khenti-Amenti-Osiris According to the Book of Gates](ehh15.md)

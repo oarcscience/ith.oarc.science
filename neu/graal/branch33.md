@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch32) 
-[Next](branch34) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch32.md) 
+[Next](branch34.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -275,5 +275,5 @@ tofore did he aught whereby he wrought so much to blame.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXXIV](branch34)  
+XXXIV](branch34.md)  
 </span>

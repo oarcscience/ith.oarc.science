@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt47)  [Next](egt49) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt47)  [Next](egt49.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ servitude girt up, the lord of the seven heavens even as a slave.
 
 ------------------------------------------------------------------------
 
-[Next: OF THE LEARNED MAN AND THE FOOL.](egt49)
+[Next: OF THE LEARNED MAN AND THE FOOL.](egt49.md)

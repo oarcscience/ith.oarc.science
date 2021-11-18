@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla05)  [Next](mla07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla05)  [Next](mla07.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ long ago.
 
 ------------------------------------------------------------------------
 
-[Next: The Flying Chip](mla07)
+[Next: The Flying Chip](mla07.md)

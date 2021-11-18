@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb35)  [Next](ttb37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb35)  [Next](ttb37.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_49">p. 49</span>
 
-<span id="img_04900"></span> ![The Young Raven](img/04900.jpg)
+<span id="img_04900"></span> ![The Young Raven](img/04900.jpg.md)
 
 ### THE YOUNG RAVEN
 
@@ -53,4 +53,4 @@ flying to the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Kuuma, The Bull Head](ttb37)
+[Next: Kuuma, The Bull Head](ttb37.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph96)  [Next](sph98) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph96)  [Next](sph98.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 Ὄλβιε γάμβρε, σοὶ μὲν δὴ γάμοσ, ὠσ ἄραο  
 ἐκτετέλεστ᾽ ἔχεισ δὲ πάρθενον, ἄν
-ἄραο. [\[transcription\]](xlatall.htm#122)
+ἄραο. [\[transcription\]](xlatall.htm#122.md)
 
 Happy bridegroom! Now has come thy wedding as thou wished, and thou hast
 the maiden of thy desire.
@@ -22,4 +22,4 @@ From Hepaestion.
 
 ------------------------------------------------------------------------
 
-[Next: 97: And a sweet expression spreads over her fair face.](sph98)
+[Next: 97: And a sweet expression spreads over her fair face.](sph98.md)

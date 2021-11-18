@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml25)  [Next](cml27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml25)  [Next](cml27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,10 +19,10 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
 It is in keeping with the mythological character of Arthur that the
 early Welsh tales recorded of him are of a different nature from those
 which swell the pseudo-histories of Nennius <span
-id="fr_436"></span>[1](#fn_436) and of Geoffrey of Monmouth. We hear
+id="fr_436"></span>[1](#fn_436.md) and of Geoffrey of Monmouth. We hear
 nothing of that subjugation of the countries of Western Europe which
 fills so large a part in the two books of the *Historia Britonum* which
-Geoffrey has devoted to him. <span id="fr_437"></span>[2](#fn_437)
+Geoffrey has devoted to him. <span id="fr_437"></span>[2](#fn_437.md)
 Conqueror he is, but his conquests are not in any land known to
 geographers. It is against Hades, and not against Rome, that he achieves
 his highest triumphs. This is the true history of King Arthur, and we
@@ -39,7 +39,7 @@ the vision which is related in the tale
 
 <span id="page_337">p. 337</span>
 
-called "The Dream of Rhonabwy". <span id="fr_438"></span>[1](#fn_438) He
+called "The Dream of Rhonabwy". <span id="fr_438"></span>[1](#fn_438.md) He
 thought that he was travelling with his companions towards the Severn,
 when they heard a rushing noise behind them, and, looking back, saw a
 gigantic rider upon a monstrous horse. So terrible was the horseman's
@@ -61,7 +61,7 @@ upon both sides of the road; and on a small flat island in the middle of
 the river was the Emperor himself, in converse with Bedwini the Bishop
 and Gwarthegyd, the son of Kaw. Like Ossian, when he came back to
 Ireland after his three hundred years' sojourn in the "Land of
-Promise", <span id="fr_439"></span>[2](#fn_439) Arthur marvelled at the
+Promise", <span id="fr_439"></span>[2](#fn_439.md) Arthur marvelled at the
 puny size of
 
 <span id="page_338">p. 338</span>
@@ -102,19 +102,19 @@ Olwen"--also takes this catalogue form, but the matters enumerated are
 of a different kind. It is not so much a record of men as of things. Not
 the heroes of Britain, but the treasures of Britain are its subject. One
 might compare it with the Gaelic story of the adventures of the three
-sons of Tuirenn. <span id="fr_440"></span>[1](#fn_440)
+sons of Tuirenn. <span id="fr_440"></span>[1](#fn_440.md)
 
 The "Thirteen Treasures of Britain" were famous in early legend. They
 belonged to gods and heroes, and were current in our island till the end
 of the divine age, when Merlin, fading out of the world, took them with
 him into his airy tomb, never to be seen by mortal eyes again. According
-to tradition, <span id="fr_441"></span>[2](#fn_441) they consisted of a
+to tradition, <span id="fr_441"></span>[2](#fn_441.md) they consisted of a
 sword, a basket, a drinking-horn, a chariot, a halter, a knife, a
 cauldron, a whetstone, a garment, a pan, a platter, a chess-board, and a
 mantle, all possessed of not less marvellous qualities than the apples,
 the pig-skin, the spear, the horses and chariot, the pigs, the
 hound-whelp, and the cooking-spit which the sons of Tuirenn obtained for
-Lugh. <span id="fr_442"></span>[3](#fn_442) It is these same legendary
+Lugh. <span id="fr_442"></span>[3](#fn_442.md) It is these same legendary
 treasures that reappear, no doubt, in the story of "Kulhwch and Olwen".
 The number tallies, for there are thirteen of them. Some are certainly,
 and others
@@ -129,19 +129,19 @@ to what they were. Others might ask whence they came. The story of
 "Kulhwch and Olwen" was composed to tell them. They were won by Arthur
 and his mighty men.
 
-Kulhwch <span id="fr_443"></span>[1](#fn_443) is the hero of the story
+Kulhwch <span id="fr_443"></span>[1](#fn_443.md) is the hero of the story
 and Olwen is its heroine, but only, as it were, by courtesy. The pair
 provide a love-interest which, as in the tales of all primitive people,
 is kept in the background. The woman, in such romances, takes the place
 of the gold and gems in a modern "treasure-hunt" story; she is won by
 overcoming external obstacles, and not by any difficulty in obtaining
-her own consent. In this romance <span id="fr_444"></span>[2](#fn_444),
+her own consent. In this romance <span id="fr_444"></span>[2](#fn_444.md),
 Kulhwch was the son of a king who afterwards married a widow with a
 grown-up daughter, whom his stepmother urged Kulhwch to marry. On his
 modestly replying that he was not yet of an age to wed, she laid the
 destiny on him that he should never have a wife at all, unless he could
 win Olwen, the daughter of a terrible father called "Hawthorn, Chief of
-Giants". <span id="fr_445"></span>[3](#fn_445)
+Giants". <span id="fr_445"></span>[3](#fn_445.md)
 
 The "Chief of Giants" was as hostile to suitors as he was monstrous in
 shape; and no wonder! for he knew that on his daughter's marriage his
@@ -161,7 +161,7 @@ three-mewed falcon was not brighter than hers. Her bosom was more snowy
 than the breast of the white swan, her cheek was redder than the reddest
 roses. Whoso beheld her was filled with her love. Four white trefoils
 sprung up wherever she trod. And therefore was she called Olwen." <span
-id="fr_446"></span>[1](#fn_446)
+id="fr_446"></span>[1](#fn_446.md)
 
 Kulhwch had no need to see her to fall in love with her. He blushed at
 her very name, and asked his father how he could obtain her in marriage.
@@ -355,7 +355,7 @@ Here is material for romance indeed! But, unhappily, we shall never know
 the full story of how all these magic treasures were obtained, all these
 magic hounds captured and compelled to hunt, all these magic huntsmen
 brought to help. The story--which Mr. Nutt <span
-id="fr_447"></span>[1](#fn_447) considers to be, "saving the finest
+id="fr_447"></span>[1](#fn_447.md) considers to be, "saving the finest
 tales of the 'Arabian Nights', the greatest romantic fairy tale the
 world has ever known"--is not, as we have it now, complete. It reads
 fully enough; but, on casting backwards and forwards, between the list
@@ -422,7 +422,7 @@ found such wrong as he had never found anywhere else. So he took Kai and
 Gwrhyr upon his shoulders and carried them to the wall of the prison
 where a captive was heard lamenting. This was Mabon son of Modron, who
 was suffering such imprisonment as not even Lludd of the Silver Hand or
-Greid, the son of Eri, <span id="fr_448"></span>[1](#fn_448)
+Greid, the son of Eri, <span id="fr_448"></span>[1](#fn_448.md)
 
 <span id="page_351">p. 351</span>
 
@@ -462,7 +462,7 @@ Arthur followed with his warriors in the ship "Prydwen". Here the story
 becomes wonderfully realistic and circumstantial. We are told of every
 place they passed through on the long chase through South Wales, and can
 trace the course of the hunt over the map. <span
-id="fr_449"></span>[1](#fn_449) We know of every check the huntsmen had,
+id="fr_449"></span>[1](#fn_449.md) We know of every check the huntsmen had,
 and what happened every time the boars turned to bay. The
 "casualty-list" of Arthur's men is completely given; and we can also
 follow the shrinking of Twrch Trwyth's herd, as his little pigs fell one
@@ -471,7 +471,7 @@ was reached, at the mouth of the Wye.
 
 Here the hunt came up with him, and drove him into the water, and in
 this unfamiliar element he was outmatched. Osla Big-Knife <span
-id="fr_450"></span>[2](#fn_450), Manawyddan son of Llyr, Kacmwri, the
+id="fr_450"></span>[2](#fn_450.md), Manawyddan son of Llyr, Kacmwri, the
 servant of Arthur, and Gwyngelli caught him by his four feet and plunged
 his head under water, while the two chief huntsmen, Mabon son of Modron,
 and Kyledyr Willt, came, one on each side of him, and took the scissors
@@ -483,7 +483,7 @@ and the razor. Before they could get the comb, however,
 
 [![THE TREASURES OF BRITAIN&lt;br&gt; From the Drawing by E.
 Wallcousins](tn/35200.jpg)  
-Click to enlarge](img/35200.jpg)  
+Click to enlarge](img/35200.jpg.md)  
 THE TREASURES OF BRITAIN  
 From the Drawing by E. Wallcousins  
 
@@ -515,46 +515,46 @@ the undutiful Olwen became Kulhwch's bride.
 
 ### Footnotes
 
-<span id="fn_436"></span>[336:1](cml26.htm#fr_436) History of the
+<span id="fn_436"></span>[336:1](cml26.htm#fr_436.md) History of the
 Britons", § 50.
 
-<span id="fn_437"></span>[336:2](cml26.htm#fr_437) Geoffrey of Monmouth.
+<span id="fn_437"></span>[336:2](cml26.htm#fr_437.md) Geoffrey of Monmouth.
 Books IX and X, and chaps. I and II of XI.
 
-<span id="fn_438"></span>[337:1](cml26.htm#fr_438) Translated by Lady
+<span id="fn_438"></span>[337:1](cml26.htm#fr_438.md) Translated by Lady
 Guest in her *Mabinogion*.
 
-<span id="fn_439"></span>[337:2](cml26.htm#fr_439) See [chap.
-XIV](cml18.htm#ch-14)--"Finn and the Fenians".
+<span id="fn_439"></span>[337:2](cml26.htm#fr_439.md) See [chap.
+XIV](cml18.htm#ch-14.md)--"Finn and the Fenians".
 
-<span id="fn_440"></span>[339:1](cml26.htm#fr_440) [Chap.
-VIII](cml17.htm#ch-13)--"The Gaelic Argonauts".
+<span id="fn_440"></span>[339:1](cml26.htm#fr_440.md) [Chap.
+VIII](cml17.htm#ch-13.md)--"The Gaelic Argonauts".
 
-<span id="fn_441"></span>[339:2](cml26.htm#fr_441) The list will be
+<span id="fn_441"></span>[339:2](cml26.htm#fr_441.md) The list will be
 found, translated from an old Welsh MS., in the notes to Kulhwch and
 Olwen, in Lady Guest's *Mabinogion*.
 
-<span id="fn_442"></span>[339:3](cml26.htm#fr_442) [Chap.
-VIII](cml17.htm#ch-13)--"The Gaelic Argonauts".
+<span id="fn_442"></span>[339:3](cml26.htm#fr_442.md) [Chap.
+VIII](cml17.htm#ch-13.md)--"The Gaelic Argonauts".
 
-<span id="fn_443"></span>[340:1](cml26.htm#fr_443) Pronounced
+<span id="fn_443"></span>[340:1](cml26.htm#fr_443.md) Pronounced
 *Keelhookh*.
 
-<span id="fn_444"></span>[340:2](cml26.htm#fr_444) The following pages
+<span id="fn_444"></span>[340:2](cml26.htm#fr_444.md) The following pages
 sketch out the main incidents of the story as translated by Lady Guest
 in her *Mabinogion*.
 
-<span id="fn_445"></span>[340:3](cml26.htm#fr_445) In Welsh, *Yspaddaden
+<span id="fn_445"></span>[340:3](cml26.htm#fr_445.md) In Welsh, *Yspaddaden
 Penkawr*.
 
-<span id="fn_446"></span>[341:1](cml26.htm#fr_446) *I.e.* She of the
+<span id="fn_446"></span>[341:1](cml26.htm#fr_446.md) *I.e.* She of the
 White Track. The beauty of Olwen was proverbial in mediæval Welsh
 poetry.
 
-<span id="fn_447"></span>[348:1](cml26.htm#fr_447) In his notes to his
+<span id="fn_447"></span>[348:1](cml26.htm#fr_447.md) In his notes to his
 edition of Lady Guest's *Mabinogion*. Published 1902.
 
-<span id="fn_448"></span>[350:1](cml26.htm#fr_448) So says the text. But
+<span id="fn_448"></span>[350:1](cml26.htm#fr_448.md) So says the text. But
 a triad quoted by Lady Guest in her notes gives the "Three Paramount
 Prisoners of Britain" differently. "The three supreme prisoners <span
 id="page_351">p. 351</span> of the Island of Britain, Llyr Llediath in
@@ -565,10 +565,10 @@ in the prison of Wen Pendragon, and three nights in the dark prison
 under the stone. And one youth released him from these three prisons;
 that youth was Goreu the son of Custennin, his cousin."
 
-<span id="fn_449"></span>[352:1](cml26.htm#fr_449) See Rhys: *Celtic
+<span id="fn_449"></span>[352:1](cml26.htm#fr_449.md) See Rhys: *Celtic
 Folklore*, chap. X--"Place-name Stories".
 
-<span id="fn_450"></span>[352:2](cml26.htm#fr_450) The "big knife" was,
+<span id="fn_450"></span>[352:2](cml26.htm#fr_450.md) The "big knife" was,
 we are told in the story, "a short broad dagger. When Arthur and his
 hosts came before a torrent, they would seek for a narrow place where
 they might pass the water, and would lay the sheathed dagger across the
@@ -578,4 +578,4 @@ spoil."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. The Gods as King Arthur's Knights](cml27)
+[Next: Chapter XXIII. The Gods as King Arthur's Knights](cml27.md)

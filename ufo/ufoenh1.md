@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](ufochey1)  [Next](ufoyork1) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](ufochey1)  [Next](ufoyork1.md) 
 
 ### UFO Photos
 
@@ -73,4 +73,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Nine UFOs Reported at Nevada Test Site](ufoyork1)
+[Next: Nine UFOs Reported at Nevada Test Site](ufoyork1.md)

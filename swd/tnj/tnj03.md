@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](tnj02)  [Next](tnj04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](tnj02)  [Next](tnj04.md) 
 
 ------------------------------------------------------------------------
 
@@ -596,7 +596,7 @@ represented faith, charity, and the goods of charity in their order (n.
 the eighteenth and twenty-second chapters of Genesis. That there would
 be no faith in the Lord, because no charity, in the last time of the
 church, was represented by Peter's thrice denying the Lord before the
-cock crew the third <span id="fr_1"></span>[122-1](#fn_1) time; for
+cock crew the third <span id="fr_1"></span>[122-1](#fn_1.md) time; for
 Peter there, in a representative sense, is faith; (n. 6000, 6073). "Cock
 crowing," as well as "twilight," signifies in the Word the last time of
 the church (n. 10134). And "three" or "thrice," signifies what is
@@ -655,7 +655,7 @@ worship. (Compare Matt. 6:7, 8.)
 <span class="margnote"><span id="125.">125.</span></span>
 
 External sanctity is like such piety, and especially <span
-id="fr_2"></span>[125-1](#fn_2) consists in this, that man places all
+id="fr_2"></span>[125-1](#fn_2.md) consists in this, that man places all
 Divine worship in sanctity when he is in temples; but this is not holy
 with man unless his internal be holy; for such as man is as to his
 internal, such he also is as to his external, for this proceeds from the
@@ -689,7 +689,7 @@ one's self: but this is not renouncing the world; but to renounce the
 world is to love God and to love the neighbor; and God is loved when man
 lives according to His commandments, and the neighbor is loved when man
 performs uses. Therefore in order that man may receive the life <span
-id="fr_3"></span>[126-1](#fn_3) of heaven, it is altogether necessary
+id="fr_3"></span>[126-1](#fn_3.md) of heaven, it is altogether necessary
 that he should live in the world, and in offices and business there. A
 life abstracted from worldly things is a life of thought and faith
 separate from the life of love and charity, in which life the will of
@@ -1198,20 +1198,20 @@ spiritual, but natural.
 
 ### Footnotes
 
-<span id="fn_1"></span>[122-1](tnj03.htm#fr_1) Swedenborg has "tertio,"
+<span id="fn_1"></span>[122-1](tnj03.htm#fr_1.md) Swedenborg has "tertio,"
 third, the Greek is second, see Mark 14:30, 72. In AC 10134 Swedenborg
 has "bis," twice.
 
-<span id="fn_2"></span>[125-1](tnj03.htm#fr_2) In the original edition
+<span id="fn_2"></span>[125-1](tnj03.htm#fr_2.md) In the original edition
 the following words were omitted by the printer, which Swedenborg
 afterward in a letter supplied to the publisher, "et praecipue consistit
 in eo, quod homo ponat omnem cultum Divinum in sancto cum est in
 templis;" and especially consist in this, that man places all Divine
 worship in sanctity when he is in temples.
 
-<span id="fn_3"></span>[126-1](tnj03.htm#fr_3) The translator has
+<span id="fn_3"></span>[126-1](tnj03.htm#fr_3.md) The translator has
 "light" here, a misreading of the Latin "vitam."
 
 ------------------------------------------------------------------------
 
-[Next: 151-200](tnj04)
+[Next: 151-200](tnj04.md)

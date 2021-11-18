@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft41)  [Next](eft43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft41)  [Next](eft43.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ door this instant.' For she was glad the girl would have to obey a nasty
 frog.
 
 <span id="img_060"></span> [![](tn/060.jpg)  
-Click to enlarge](img/060.jpg)
+Click to enlarge](img/060.jpg.md)
 
 So the girl went and opened the door, and there was the frog from the
 Well of the World's End. And it hopped, and it hopped, and it jumped,
@@ -140,4 +140,4 @@ married to a prince.
 
 ------------------------------------------------------------------------
 
-[Next: Master of all Masters](eft43)
+[Next: Master of all Masters](eft43.md)

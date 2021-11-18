@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](groomlak)  [Next](hoagland) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](groomlak)  [Next](hoagland.md) 
 
 ### Air Force Wants To Seize Mountain To Protect Secret Base
 
@@ -206,4 +206,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Compuserve Chat with Hoagland about Mars Face](hoagland)
+[Next: Compuserve Chat with Hoagland about Mars Face](hoagland.md)

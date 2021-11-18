@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp47)  [Next](dmp49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp47)  [Next](dmp49.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ wick, it is excellent.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XVII](dmp49)
+[Next: Verso Col. XVII](dmp49.md)

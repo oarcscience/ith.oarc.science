@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](ttlaw05) 
-[Next](ttlaw07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](ttlaw05.md) 
+[Next](ttlaw07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -233,4 +233,4 @@ Law we add the recognition of the Power of the Word.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Soul of the Subject](ttlaw07)
+[Next: Chapter V. The Soul of the Subject](ttlaw07.md)

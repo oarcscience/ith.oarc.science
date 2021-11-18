@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil67)  [Next](egil69) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil67)  [Next](egil69.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ in this matter. Egil remained there with Thord far into the spring.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXVIII. Of Egil's journeyings.](egil69)
+[Next: CHAPTER LXVIII. Of Egil's journeyings.](egil69.md)

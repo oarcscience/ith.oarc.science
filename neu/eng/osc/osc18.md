@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc17)  [Next](osc19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc17)  [Next](osc19.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ over.
 
 ------------------------------------------------------------------------
 
-[Next: (16) Garland Day at Abbotsbury](osc19)
+[Next: (16) Garland Day at Abbotsbury](osc19.md)

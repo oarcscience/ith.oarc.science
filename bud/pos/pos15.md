@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos14)  [Next](pos16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos14)  [Next](pos16.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ of things in the whole town. The Exalted One foresaw this out of his
 pity for my good.' And, thrilled at the thought, she left the town and
 laid her child in the charnel-field, saying:
 
-> 'No village law [<sup>308</sup>](pos15.htm#107-1) is this, no city
+> 'No village law [<sup>308</sup>](pos15.htm#107-1.md) is this, no city
 > law,  
 > No law for this clan, or for that alone;  
 > For the whole world–ay, and the gods in heav'n–  
@@ -53,24 +53,24 @@ the little mustard. Give thou me confirmation.' Then the Master spoke
 thus:
 
 > 'To him whose heart on children and on goods
-> [<sup>309</sup>](pos15.htm#107-2)  
+> [<sup>309</sup>](pos15.htm#107-2.md)  
 > Is centered, cleaving to them in his thoughts,  
 > Death cometh like a great flood in the night,  
 > Bearing away the village in its sleep.'
-> [<sup>310</sup>](pos15.htm#107-3)
+> [<sup>310</sup>](pos15.htm#107-3.md)
 
 When he had spoken, she was confirmed in the fruition of the First (the
 Stream - entry) Path, and asked for ordination. He consented, and she,
-thrice saluting by the right, [<sup>311</sup>](pos15.htm#108-1) went to
+thrice saluting by the right, [<sup>311</sup>](pos15.htm#108-1.md) went to
 the Bhikkhunīs, and was ordained. And not long afterwards, studying the
 causes of things, she caused her insight to grow. Then the Master said a
-Glory-verse: [<sup>312</sup>](pos15.htm#108-2)
+Glory-verse: [<sup>312</sup>](pos15.htm#108-2.md)
 
 > 'The man who, living for an hundred years,  
 > Beholdeth never the Ambrosial Path,  
 > Had better live no longer than one day,  
 > So he behold within that day the
-> Path.'[<sup>313</sup>](pos15.htm#108-3)
+> Path.'[<sup>313</sup>](pos15.htm#108-3.md)
 
 When he had finished, she attained Arahantship. And becoming pre-eminent
 in ascetic habits, she was wont to wear raiment of triple roughness.
@@ -154,16 +154,16 @@ I, sister Kisā-gotamī, have uttered this! (223)</span></p></td>
 
 <span id="108-1"></span>
 
-> <sup>311</sup> *Cf.* [Ps. lxviii.](pos18.htm#LXVIII), ver.
-> [307](pos18.htm#307).
+> <sup>311</sup> *Cf.* [Ps. lxviii.](pos18.htm#LXVIII.md), ver.
+> [307](pos18.htm#307.md).
 
 <span id="108-2"></span>
 
-> <sup>312</sup> *Cf.* [Ps. ii.](pos06.htm#II) and ſſ.
+> <sup>312</sup> *Cf.* [Ps. ii.](pos06.htm#II.md) and ſſ.
 
 <span id="108-3"></span>
 
-> <sup>313</sup> *Cf.* [Ps. xlvii.](pos10.htm#XLVII)
+> <sup>313</sup> *Cf.* [Ps. xlvii.](pos10.htm#XLVII.md)
 
 <span id="108-4"></span>
 
@@ -172,7 +172,7 @@ I, sister Kisā-gotamī, have uttered this! (223)</span></p></td>
 <span id="109-1"></span>
 
 > <sup>315</sup> She here incorporates the story of Paṭācārā ([Ps.
-> xlvii](pos10.htm#XLVII).) in her own Psalm, as if more fully to utter,
+> xlvii](pos10.htm#XLVII)..md) in her own Psalm, as if more fully to utter,
 > as 'Woman,' the pageant and tragedy of the woeful possibilities
 > inherent in 'woman's lot,' whereof her own case was but a phase.
 > Criticism may discern herein another 'fault' –geologically speaking–in
@@ -194,7 +194,7 @@ I, sister Kisā-gotamī, have uttered this! (223)</span></p></td>
 > ambrosial, or the not-dead. 'State' is a concession to metrical and
 > grammatical exigencies. 'Gone up on'; lit., practised myself in. Note
 > how verses 216-223 carry out the fourfold 'mark' of verse
-> [215](pos15.htm#215).  
+> [215](pos15.htm#215.md).  
 >   
 > The metre in the Pali throughout is not the *śloka*, and is too
 > irregular to be easily classifiable. *Cf.* that in lines 2-6 above–
@@ -480,4 +480,4 @@ EXCAVATIONS AT JETA-VANA, NOW SAHĒṬH.
 
 ------------------------------------------------------------------------
 
-[Next: Canto XI. Psalms of Twelve Verses](pos16)
+[Next: Canto XI. Psalms of Twelve Verses](pos16.md)

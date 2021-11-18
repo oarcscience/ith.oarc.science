@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate10)  [Next](gate12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate10)  [Next](gate12.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ god in this Circle.
 
 ------------------------------------------------------------------------
 
-[Next: The Tenth Hour](gate12)
+[Next: The Tenth Hour](gate12.md)

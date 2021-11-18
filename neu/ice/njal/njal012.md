@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal011)  [Next](njal013) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal011)  [Next](njal013.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ worth a great sum.
 
 ------------------------------------------------------------------------
 
-[Next: 13. Glum's Wooing](njal013)
+[Next: 13. Glum's Wooing](njal013.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob57) 
-[Next](tob59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob57.md) 
+[Next](tob59.md) 
 
 ------------------------------------------------------------------------
 
@@ -266,4 +266,4 @@ assertion of their original unity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. Conclusion](tob59)
+[Next: Chapter XXII. Conclusion](tob59.md)

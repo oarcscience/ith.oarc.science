@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl01)  [Next](irl03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl01)  [Next](irl03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -94,7 +94,7 @@ the laboratories. In fact, I remember no other place on Mu, although it
 is a fact that during the process of my development to culture manhood,
 
 I roamed the culture forests of Atlantis, <span
-id="fr_1"></span>[2](#fn_1) which is the name for Surface Atlan. Sub
+id="fr_1"></span>[2](#fn_1.md) which is the name for Surface Atlan. Sub
 Atlan is just below Atlantis, while Tean City is located at the center
 of Mu, at a great depth below Sub Atlan. The walls of the great cavern
 in which Tean City is located are hardened to untellable strength by
@@ -121,16 +121,16 @@ travel about the city. These vehicles, their weight reduced by a gravity
 deflection device, are powered by motors whose energy is derived from a
 gravity focusing magnetic field, by which one side of a flywheel becomes
 much heavier than the other. This is accomplished by bending gravity
-fall <span id="fr_2"></span>[3](#fn_2) in the same way that a lens bends
+fall <span id="fr_2"></span>[3](#fn_2.md) in the same way that a lens bends
 a light ray.
 
-The topless <span id="fr_3"></span>[4](#fn_3) buildings of Sub Atlan
+The topless <span id="fr_3"></span>[4](#fn_3.md) buildings of Sub Atlan
 fled by me; and soon I neared the squat entrance to the shafts that fell
 
 <span id="page_10">p. 10</span>
 
 from Sub Atlan to Center Mu, to Tean City, home of the Titans. <span
-id="fr_4"></span>[5](#fn_4) I knew that swift elevators dropped down
+id="fr_4"></span>[5](#fn_4.md) I knew that swift elevators dropped down
 these shafts; but I had never traveled in one of them.
 
 Because I knew the control-man of one of the elevators, having talked
@@ -174,13 +174,13 @@ space crossing had ever brought into contact, from planets whose very
 names are now lost in time. The technicons may have been wrong in the
 opinion of some when they developed variform breeding; but they have
 certainly given life variety. I had never seen so many variforms <span
-id="fr_5"></span>[6](#fn_5) before.
+id="fr_5"></span>[6](#fn_5.md) before.
 
 At a corner of the vastly vaulted way where many
 
 <span id="page_12">p. 12</span>
 
-rollat platforms <span id="fr_6"></span>[7](#fn_6) crossed and recrossed
+rollat platforms <span id="fr_6"></span>[7](#fn_6.md) crossed and recrossed
 each other, I stepped to a telescreen and dialed the student center. The
 image of a tremendous six-armed Sybyl female filled the screen and the
 electrically augmented body appeal of the mighty life within her seized
@@ -245,7 +245,7 @@ possibly because the Titan technicons Who lived here kept the people
 healthier. Perhaps the hybrids were naturally more fecund of
 micro-spore. It had indeed been a day of brainstorms, I mused, when some
 old technicon had realized that not only would a strong integrative
-field with a rich exd <span id="fr_7"></span>[8](#fn_7) supply cause all
+field with a rich exd <span id="fr_7"></span>[8](#fn_7.md) supply cause all
 matter to grow at an increased rate, but would also cause even the most
 dissimilar life-gens to unite. It has been the realization that had
 resulted in various form life. Most of the crosses by this method had
@@ -266,13 +266,13 @@ mouth that was the door of the Hall of Symbols where the school ways
 converged. About was the bustle attendant to any rollat way station;
 bearers rushing; travelers gazing about lost in wonder at the vaulting
 glitter of sculptured pillars and painted walls, done by men of a
-calibre whose work ro <span id="fr_8"></span>[9](#fn_8) like myself
+calibre whose work ro <span id="fr_8"></span>[9](#fn_8.md) like myself
 cannot grasp entirely.
 
 Paintings and sculpture here hammered into the brain a message of the
 richness of life that immense mutual effort can give the lift unit, the
 pro. This richness of life was pictured in a terrible clash with evil,
-its opposite. <span id="fr_9"></span>[10](#fn_9) The hot fecundity of
+its opposite. <span id="fr_9"></span>[10](#fn_9.md) The hot fecundity of
 life and health growth was a sensuous blow
 
 <span id="page_15">p. 15</span>
@@ -317,7 +317,7 @@ On her arm and breast I saw the medical school insignia;
 <span id="page_16">p. 16</span>
 
 a man's figure struggling with a great snake, disease. <span
-id="fr_10"></span>[11](#fn_10) It took brains to study medicine. This
+id="fr_10"></span>[11](#fn_10.md) It took brains to study medicine. This
 exquisite young thing, so full of gen force, so powerfully attractive,
 was smart too. And almost instantly she proved herself to be extremely
 friendly and companionable. She went on talking, describing, theorizing
@@ -344,14 +344,14 @@ had combined here in the symbols that formed the many doors.
 
 ### Footnotes
 
-<span id="fn_1"></span>[8:2](irl02.htm#fr_1) According to Plato,
+<span id="fn_1"></span>[8:2](irl02.htm#fr_1.md) According to Plato,
 Atlantis was a continent located some four hundred miles west of the
 Pillars of Hercules (Gibraltar). In the Timaeus, he describes it as an
 island larger than Asia Minor combined with Libya. Beyond it, he says,
 were an archipelago of lesser islands. Atlantis had been a powerful
 kingdom nine thousand years before the birth of Solon (from whom Plato
 heard of Atlantis reputedly as told to Solon by Egyptian priests), and
-its armies had overrun the [Mediterranean](errata.htm#0) lands, when
+its armies had overrun the [Mediterranean](errata.htm#0.md) lands, when
 Athens alone had resisted. (It has been a point of difference between
 students as to whether Plato referred to the "Mediterranean lands" as
 lands now inundated by the Mediterranean Sea, or the lands surrounding
@@ -368,7 +368,7 @@ The legends of the Sargasso Sea are said to have sprung from encounters
 with the sea of weeds which periodically grew over the shallowly sunken
 continent.—Ed.
 
-<span id="fn_2"></span>[9:3](irl02.htm#fr_2) The reader will note the
+<span id="fn_2"></span>[9:3](irl02.htm#fr_2.md) The reader will note the
 curious use of the word "fall" in connection with gravity. Later in the
 story, the author elaborates on the subject of gravity in a very amazing
 manner, propounding a theory which your editor has examined in detail
@@ -377,7 +377,7 @@ and by which he has been utterly confounded. This glib "focusing" and
 literal sense until Mu-tan Mion's story gives us more on the subject of
 gravity.—Ed.
 
-<span id="fn_3"></span>[9:4](irl02.htm#fr_3) Curious as to the literal
+<span id="fn_3"></span>[9:4](irl02.htm#fr_3.md) Curious as to the literal
 meaning of the word "topless" we wrote to Mr. Shaver for a better
 description of the buildings of Sub Atlan. He revealed that (as Mutan
 Mion's memory told him) they were topless in the sense that they were
@@ -393,7 +393,7 @@ apparent intentional design. The reason for this was to provide variety
 otherwise be jaded by constant contemplation of the unending sameness of
 gray cavern walls and roof of stone.—Ed.
 
-<span id="fn_4"></span>[10:5](irl02.htm#fr_4) When asked to describe the
+<span id="fn_4"></span>[10:5](irl02.htm#fr_4.md) When asked to describe the
 Titans Mr. Shaver sent us the following notation, which is perhaps the
 oddest of all his communications. When queried about its oddity, he
 merely replied that he had "answered your question" and gave no further
@@ -425,24 +425,24 @@ the story Mutan Mion tells of these things in great detail, and in them
 gives still another of the amazing scientific theories that stagger the
 imagination.—Ed.
 
-<span id="fn_5"></span>[11:6](irl02.htm#fr_5) Obviously variforms are
+<span id="fn_5"></span>[11:6](irl02.htm#fr_5.md) Obviously variforms are
 not natives of other planets, but hybrids developed from many
 interplanetary life forms mated with Titans and Atlans by deliberate
 applications of mutative rays in the laboratories of Mu's technicons. It
 is extremely interesting to note that all have the status of
 citizens.—Ed.
 
-<span id="fn_6"></span>[12:7](irl02.htm#fr_6) <span id="page_11">p.
+<span id="fn_6"></span>[12:7](irl02.htm#fr_6.md) <span id="page_11">p.
 11</span> Moving connected vehicles on the ways and walks which carried
 the bulk of pedestrian travel.—Ed.
 
-<span id="fn_7"></span>[13:8](irl02.htm#fr_7) Exd is Atlan for
-ex-disintegrance or energy ash. It was the [principal](errata.htm#1)
+<span id="fn_7"></span>[13:8](irl02.htm#fr_7.md) Exd is Atlan for
+ex-disintegrance or energy ash. It was the [principal](errata.htm#1.md)
 content of the beneficial vibrants. It is the space dust from which all
 matter grows into being. Mutan Mion amplifies the exd theory later on in
 the story.—Ed.
 
-<span id="fn_8"></span>[14:9](irl02.htm#fr_8) Here again we had to
+<span id="fn_8"></span>[14:9](irl02.htm#fr_8.md) Here again we had to
 appeal to Mr. Shaver for amplification. We certainly got it, and along
 with it some amazing thoughts. Ro (he says) is a thing of simple
 repetitive life pattern easy to understand and control. To ro you is to
@@ -460,12 +460,12 @@ think they are. We are parts of a huge juggernaut, and we are ro in
 consequence. The determining forces that make our thought what it is are
 from outside when we are ro, from inside when we are men or gods.—Ed.
 
-<span id="fn_9"></span>[14:10](irl02.htm#fr_9) This is indeed a strange
+<span id="fn_9"></span>[14:10](irl02.htm#fr_9.md) This is indeed a strange
 comparison. Evil is the opposite of live, the inference being that to be
 evil is to die. Oddly (or significantly?) evil is live spelled
 backward.—Ed.
 
-<span id="fn_10"></span>[16:11](irl02.htm#fr_10) This insignia lives
+<span id="fn_10"></span>[16:11](irl02.htm#fr_10.md) This insignia lives
 today in the legend of Apollo! According to the Greeks, Apollo was a son
 of Zeus himself. Disease is typified in the legend by the python, which
 Apollo killed. Etymologically his name signifies one who "drives away
@@ -483,4 +483,4 @@ of Mu!—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. From Art to Embryology](irl03)
+[Next: Chapter II. From Art to Embryology](irl03.md)

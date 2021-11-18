@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal088)  [Next](njal090) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal088)  [Next](njal090.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ farm, but they themselves were ever with Njal.
 
 ------------------------------------------------------------------------
 
-[Next: 90. The Quarrel Of Njal's Sons With Thrain Sigfus' Son](njal090)
+[Next: 90. The Quarrel Of Njal's Sons With Thrain Sigfus' Son](njal090.md)

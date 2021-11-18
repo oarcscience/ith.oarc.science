@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv37)  [Next](rsv39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv37)  [Next](rsv39.md) 
 
 ------------------------------------------------------------------------
 
@@ -206,4 +206,4 @@ E. Tuttle Co., Publishers, Rutland, Vermont and Tokyo, Japan, 1966.
 ------------------------------------------------------------------------
 
 [Next: Appendix A. Foreign Voluntary Agencies Operating in Vietnam with
-Resident Representative](rsv39)
+Resident Representative](rsv39.md)

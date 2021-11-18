@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi22)  [Next](twi24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi22)  [Next](twi24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -84,7 +84,7 @@ husbands and her long life. She was very sorry, she said, but she was
 not to blame, and then she told him about the log, and he went straight
 out and dug until he found it, and then they burned it, and she died,
 and was buried like a Christian, and everybody was pleased. Such a
-mortal too was Clooth-na-bare, <span id="fr_8"></span>[1](#fn_8) who
+mortal too was Clooth-na-bare, <span id="fr_8"></span>[1](#fn_8.md) who
 went all
 
 <span id="page_134">p. 134</span>
@@ -105,7 +105,7 @@ great winds came and took them up into themselves.
 
 ### Footnotes
 
-<span id="fn_8"></span>[133:1](twi23.htm#fr_8) Doubtless Clooth-na-bare
+<span id="fn_8"></span>[133:1](twi23.htm#fr_8.md) Doubtless Clooth-na-bare
 should be Cailleac Bare, which would mean the old Woman Bare. <span
 id="page_134">p. 134</span> Bare or Bere or Verah or Dera or Dhera was a
 very famous person, perhaps the mother of the Gods herself. A friend of
@@ -116,4 +116,4 @@ Leaths.
 
 ------------------------------------------------------------------------
 
-[Next: Earth, Fire And Water](twi24)
+[Next: Earth, Fire And Water](twi24.md)

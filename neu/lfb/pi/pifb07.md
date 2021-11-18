@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb06)  [Next](pifb08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb06)  [Next](pifb08.md) 
 
 </div>
 
@@ -170,6 +170,6 @@ most beautiful woman in the world besides.
 
 ------------------------------------------------------------------------
 
-[Next: The Slaying of the Tanuki](pifb08)
+[Next: The Slaying of the Tanuki](pifb08.md)
 
 </div>

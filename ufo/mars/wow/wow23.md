@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow22)  [Next](wow24) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow22)  [Next](wow24.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ Berlin or Paris, or it might be they had gone northward.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven: The Man On Putney Hill](wow24)
+[Next: Chapter Seven: The Man On Putney Hill](wow24.md)

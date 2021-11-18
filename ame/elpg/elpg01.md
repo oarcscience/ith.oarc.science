@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](elpg00)  [Next](elpg02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](elpg00)  [Next](elpg02.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ earlier dates.
 ------------------------------------------------------------------------
 
 [Next: Immigration Trends are Divided into Three General
-Periods](elpg02)
+Periods](elpg02.md)

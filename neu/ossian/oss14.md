@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss13)  [Next](oss15) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss13)  [Next](oss15.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Malvina move upon the harp! Light of the shadowy thoughts that fly
 across my soul, daughter of Toscar of helmets, wilt thou not hear the
 song? We call back, maid of Lutha, the years that have rolled away! It
 was in the days of the king, while yet my locks were young, that I
-marked Con-cathlin  <span id="fr_50"></span>[1](#fn_50) on high, from
+marked Con-cathlin  <span id="fr_50"></span>[1](#fn_50.md) on high, from
 ocean's nightly wave. My course was towards the isle of Fuärfed, woody
 dweller of seas! Fingal had sent me to the aid Mal-orchol, king of
 Fuärfed wild:
@@ -122,10 +122,10 @@ call back, of Lutha, the years that have rolled away!
 
 ### Footnotes
 
-<span id="fn_50"></span>[235:1](oss14.htm#fr_50) Con-cathlin, "mild beam
+<span id="fn_50"></span>[235:1](oss14.htm#fr_50.md) Con-cathlin, "mild beam
 of the wave." What star was so called of old is not easily ascertained.
 Some now distinguish the pole-star by that name.
 
 ------------------------------------------------------------------------
 
-[Next: Colna-dona](oss15)
+[Next: Colna-dona](oss15.md)

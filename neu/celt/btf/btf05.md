@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf04)  [Next](btf06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf04)  [Next](btf06.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ Bran
 
 ------------------------------------------------------------------------
 
-[Next: The King of Ireland's Son](btf06)
+[Next: The King of Ireland's Son](btf06.md)

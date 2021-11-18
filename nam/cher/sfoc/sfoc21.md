@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc20)  [Next](sfoc22) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc20)  [Next](sfoc22.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ and it was not permissible for her to do so.
 
 ------------------------------------------------------------------------
 
-[Next: Ceremonies for Gathering Plants and Preparing Medicine](sfoc22)
+[Next: Ceremonies for Gathering Plants and Preparing Medicine](sfoc22.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas18)  [Next](sas20)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas18)  [Next](sas20.md)  
 
 ------------------------------------------------------------------------
 
@@ -874,4 +874,4 @@ synthesis of all other doctrines.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Twenty: The Indian Magna Mater](sas20)
+Next: [Chapter Twenty: The Indian Magna Mater](sas20.md)

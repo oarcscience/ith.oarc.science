@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc05)  [Next](mlc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc05)  [Next](mlc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -65,7 +65,7 @@ gentry—Agriculturists, Artisans, and Merchants, in that order).
 When these died, their other selves continued to exist and to hold the
 same rank in the spirit world as they did in this one. The *ti*,
 emperor, became the *Shang Ti*, Emperor on High, who dwelt in *T’ien*,
-Heaven (originally the great dome).  <span id="fr_10"></span>[1](#fn_10)
+Heaven (originally the great dome).  <span id="fr_10"></span>[1](#fn_10.md)
 And Shang Ti, the Emperor on High, was worshipped by *ti*, the emperor
 here below, in order to pacify or please him—to ensure a continuance of
 his benevolence on his behalf in the world of spirits. Confusion of
@@ -226,7 +226,7 @@ as yesterday?” (Pp. 360–361.)
 
 The gods also indulge in amusements, marry, sin, are punished, die, are
 resurrected, or die and are transformed, or die finally.  <span
-id="fr_11"></span>[2](#fn_11)
+id="fr_11"></span>[2](#fn_11.md)
 
 ## The Three Religions
 
@@ -309,7 +309,7 @@ many rites grafted on the original tree it becomes a religion, and the
 one most difficult to deal with. Considered as a Church, the classics
 are its scriptures, the schools its churches, the teachers its priests,
 ethics its theology, and the written character, so sacred, its
-symbol.”  <span id="fr_12"></span>[3](#fn_12)
+symbol.”  <span id="fr_12"></span>[3](#fn_12.md)
 
 ## Confucius not a God
 
@@ -325,7 +325,7 @@ many long, learned, and eloquent speeches, chiefly by scholars of the
 old school, the motion was not carried. Nevertheless, the worship
 accorded to Confucius was and is (except by ‘new’ or ‘young’ China) of
 so extreme a nature that he may almost be described as the great
-unapotheosized god of China.  <span id="fr_13"></span>[4](#fn_13) Some
+unapotheosized god of China.  <span id="fr_13"></span>[4](#fn_13.md) Some
 of his portraits even ascribe to him superhuman attributes. But in spite
 of all this the fact remains that Confucius has not been appointed a god
 and holds no *exequatur* entitling him to that rank.
@@ -455,7 +455,7 @@ demand for a sensible, concrete representation of this star-god: a
 simple character did not satisfy the popular taste. But it was no easy
 matter to comply with the demand. Eventually, guided doubtless by the
 community of pronunciation, they substituted for the star or group of
-stars K’uei (1),  <span id="fr_14"></span>[5](#fn_14) venerated in
+stars K’uei (1),  <span id="fr_14"></span>[5](#fn_14.md) venerated in
 ancient times, a new star or group of stars K’uei (2), forming the
 square part of the Bushel, Dipper, or Great Bear. But for this again no
 bodily image could be found, so the form of the written character itself
@@ -535,7 +535,7 @@ represented as of diminutive stature, with the visage of a demon,
 holding a writing-brush in his right hand and a *tou* in his left, one
 of his legs kicking up behind—the figure being obviously intended as an
 impersonation of the character *k’uei* (2).  <span
-id="fr_15"></span>[6](#fn_15) He is regarded as the distributor of
+id="fr_15"></span>[6](#fn_15.md) He is regarded as the distributor of
 literary degrees, and was invoked above all in order to obtain success
 at the competitive examinations. His images and temples are found in all
 towns. In the temples dedicated to Wên Ch’ang there are always two
@@ -554,7 +554,7 @@ him.
 
 <span id="img_p110"></span> <span align="CENTER"> [![Wên Ch’ang, K’uei
 Hsing, and Chu I.](tn/p110.jpg)  
-Click to enlarge](img/p110.jpg)  
+Click to enlarge](img/p110.jpg.md)  
 Wên Ch’ang, K’uei Hsing, and Chu I.  
 </span>
 
@@ -791,7 +791,7 @@ reappears in one form or another, “from a clod to a divinity.” The way
 for Buddhism in China was paved by Taoism, and Buddhism reciprocally
 affected Taoism by helpful development of its doctrines of sanctity and
 immortalization. Buddhism also, as it has been well put by Dr De
-Groot,  <span id="fr_16"></span>[7](#fn_16) “contributed much to the
+Groot,  <span id="fr_16"></span>[7](#fn_16.md) “contributed much to the
 ceremonial adornment of ancestor-worship. Its salvation work on behalf
 of the dead saved its place in Confucian China; for of Confucianism
 itself, piety and devotion towards parents and ancestors, and the
@@ -828,7 +828,7 @@ place in at least six. <span id="page_120">p. 120</span>
 
 The legend of the Buddha belongs rather to Indian than to Chinese
 mythology, and is too long to be reproduced here.  <span
-id="fr_17"></span>[8](#fn_17)
+id="fr_17"></span>[8](#fn_17.md)
 
 The principal gods of Buddhism are Jan-têng Fo, the Light-lamp Buddha,
 Mi-lo Fo (Maitrêya), the expected Messiah of the Buddhists, O-mi-t’o Fo
@@ -843,7 +843,7 @@ Buddhism.
 
 <span id="img_p120"></span> <span align="CENTER"> [![The Buddhist
 Triad](tn/p120.jpg)  
-Click to enlarge](img/p120.jpg)  
+Click to enlarge](img/p120.jpg.md)  
 The Buddhist Triad  
 </span>
 
@@ -987,7 +987,7 @@ the *yin* and the *yang*, the two great principles of nature.
 
 <span id="img_p124"></span> <span align="CENTER"> [![The Taoist
 Triad](tn/p124.jpg)  
-Click to enlarge](img/p124.jpg)  
+Click to enlarge](img/p124.jpg.md)  
 The Taoist Triad  
 </span>
 
@@ -1358,7 +1358,7 @@ daughters.
 
 <span id="img_p136"></span> <span align="CENTER"> [![Hsi Wang
 Mu](tn/p136.jpg)  
-Click to enlarge](img/p136.jpg)  
+Click to enlarge](img/p136.jpg.md)  
 Hsi Wang Mu  
 </span>
 
@@ -1420,7 +1420,7 @@ prescribe.”
 
 <span id="img_p138"></span> <span align="CENTER"> [![Chang
 Tao-ling](tn/p138.jpg)  
-Click to enlarge](img/p138.jpg)  
+Click to enlarge](img/p138.jpg.md)  
 Chang Tao-ling  
 </span>
 
@@ -1528,7 +1528,7 @@ of office.”
 
 The Four Kings of Heaven, Ssŭ Ta T’ien-wang, reside on Mount Sumêru
 (Hsü-mi Shan), the centre of the universe. It is 3,360,000 *li*—that is,
-about a million miles—high.  <span id="fr_18"></span>[9](#fn_18) Its
+about a million miles—high.  <span id="fr_18"></span>[9](#fn_18.md) Its
 eastern slope is of gold, its western of silver, its south-eastern of
 crystal, and its north-eastern of agate. The Four Kings appear to be the
 Taoist reflection of the four *Chin-kang* of Buddhism already noticed.
@@ -1578,7 +1578,7 @@ Triune Spirit of Heaven, earth, <span id="page_144">p. 144</span> and
 T’ai I as three separate entities, an unknown Spirit, the Spirit of the
 Pole Star, etc., but practically the Taoists confine their T’ai I to
 T’ai-i Chên-jên, in which Perfect Man they personify the abstract
-philosophical notions.  <span id="fr_19"></span>[10](#fn_19)
+philosophical notions.  <span id="fr_19"></span>[10](#fn_19.md)
 
 ## Goddess of the North Star
 
@@ -1601,7 +1601,7 @@ Heaven. Her nine sons have their palaces in the neighbouring stars.
 
 <span id="img_p144"></span> <span align="CENTER"> [![Tou Mu, Goddess of
 the North Star](tn/p144.jpg)  
-Click to enlarge](img/p144.jpg)  
+Click to enlarge](img/p144.jpg.md)  
 Tou Mu, Goddess of the North Star  
 </span>
 
@@ -1825,7 +1825,7 @@ their families received posthumous titles. <span id="page_152">p.
 
 This is said to be the origin of the dragon-boats which are to be seen
 on all the waterways of China on the fifth day of the fifth moon.  <span
-id="fr_20"></span>[11](#fn_20) The Festival of the Dragon-boats, held on
+id="fr_20"></span>[11](#fn_20.md) The Festival of the Dragon-boats, held on
 that day, was instituted in memory of the statesman-poet Ch’ü Yüan
 (332–296 B.C.), who drowned himself in the Mi-lo River, an affluent of
 the Tung-t’ing Lake, after having been falsely accused by one of the
@@ -1969,7 +1969,7 @@ Kung-pao will be recompensed.”
 
 <span id="img_p156"></span> <span align="CENTER"> [![Chiang Tzŭ-ya at
 K’un-lun](tn/p156.jpg)  
-Click to enlarge](img/p156.jpg)  
+Click to enlarge](img/p156.jpg.md)  
 Chiang Tzŭ-ya at K’un-lun  
 </span>
 
@@ -2085,7 +2085,7 @@ piled mountains high.
 
 <span id="img_p160"></span> <span align="CENTER"> [![Chiang Tzŭ-ya
 Defeats Wên Chung](tn/p160.jpg)  
-Click to enlarge](img/p160.jpg)  
+Click to enlarge](img/p160.jpg.md)  
 Chiang Tzŭ-ya Defeats Wên Chung  
 </span>
 
@@ -2283,7 +2283,7 @@ gold.
 
 <span id="img_p166"></span> <span align="CENTER"> [![The
 Kitchen-god](tn/p166.jpg)  
-Click to enlarge](img/p166.jpg)  
+Click to enlarge](img/p166.jpg.md)  
 The Kitchen-god  
 </span>
 
@@ -2402,7 +2402,7 @@ also, but the following is the most popular.
 
 <span id="img_p170"></span> <span align="CENTER"> [![The Gods of
 Happiness, Office, and Longevity](tn/p170.jpg)  
-Click to enlarge](img/p170.jpg)  
+Click to enlarge](img/p170.jpg.md)  
 The Gods of Happiness, Office, and Longevity  
 </span>
 
@@ -2482,7 +2482,7 @@ Lü on the right.
 
 <span id="img_p172"></span> <span align="CENTER"> [![The
 Money-tree](tn/p172.jpg)  
-Click to enlarge](img/p172.jpg)  
+Click to enlarge](img/p172.jpg.md)  
 The Money-tree  
 </span>
 
@@ -2521,13 +2521,13 @@ to be seen on almost every door in China.
 
 <span id="img_p174-1"></span> <span align="CENTER"> [![The Door-gods,
 Civil and Military](tn/p174-1.jpg)  
-Click to enlarge](img/p174-1.jpg)  
+Click to enlarge](img/p174-1.jpg.md)  
 The Door-gods, Civil and Military  
 </span>
 
 <span id="img_p174-2"></span> <span align="CENTER"> [![The Door-gods,
 Civil and Military](tn/p174-2.jpg)  
-Click to enlarge](img/p174-2.jpg)  
+Click to enlarge](img/p174-2.jpg.md)  
 The Door-gods, Civil and Military  
 </span>
 
@@ -2561,43 +2561,43 @@ monotheism may be disposed to revise their belief.
 
 ### Footnotes
 
-<span id="fn_10"></span>[175:1](mlc06.htm#fr_10) See the present
+<span id="fn_10"></span>[175:1](mlc06.htm#fr_10.md) See the present
 writer’s *China of the Chinese*, chapter viii.
 
-<span id="fn_11"></span>[175:2](mlc06.htm#fr_11) See Du Bose, pp. 282,
+<span id="fn_11"></span>[175:2](mlc06.htm#fr_11.md) See Du Bose, pp. 282,
 286, 361, 409, 410, and *Journal of the North China Branch of the Royal
 Asiatic Society*, xxxiv, 110–111.
 
-<span id="fn_12"></span>[175:3](mlc06.htm#fr_12) Du Bose, p. 38.
+<span id="fn_12"></span>[175:3](mlc06.htm#fr_12.md) Du Bose, p. 38.
 
-<span id="fn_13"></span>[175:4](mlc06.htm#fr_13) He is sometimes
+<span id="fn_13"></span>[175:4](mlc06.htm#fr_13.md) He is sometimes
 represented as a reincarnation of Wên Chung; see
-[198](mlc07.htm#page_198).
+[198](mlc07.htm#page_198.md).
 
-<span id="fn_14"></span>[175:5](mlc06.htm#fr_14) It is necessary to
+<span id="fn_14"></span>[175:5](mlc06.htm#fr_14.md) It is necessary to
 reproduce the written characters concerned with these stars, namely:
 <span id="img_p107.gif"></span> ![](img/p107.gif).
 
-<span id="fn_15"></span>[175:6](mlc06.htm#fr_15) See footnote, [p.
-107](#page_107).
+<span id="fn_15"></span>[175:6](mlc06.htm#fr_15.md) See footnote, [p.
+107](#page_107.md).
 
-<span id="fn_16"></span>[175:7](mlc06.htm#fr_16) *Religion*, p. 177.
+<span id="fn_16"></span>[175:7](mlc06.htm#fr_16.md) *Religion*, p. 177.
 
-<span id="fn_17"></span>[175:8](mlc06.htm#fr_17) See *Myths of the
+<span id="fn_17"></span>[175:8](mlc06.htm#fr_17.md) See *Myths of the
 Hindus and Buddhists*, by Sister Nivedita and Ananda Coomaraswamy.
 
-<span id="fn_18"></span>[175:9](mlc06.htm#fr_18) The native accounts
-differ on this point. *Cf.* [p. 16](mlc03.htm#page_16).
+<span id="fn_18"></span>[175:9](mlc06.htm#fr_18.md) The native accounts
+differ on this point. *Cf.* [p. 16](mlc03.htm#page_16.md).
 
-<span id="fn_19"></span>[175:10](mlc06.htm#fr_19) For further details
+<span id="fn_19"></span>[175:10](mlc06.htm#fr_19.md) For further details
 concerning T’ai I see *Babylonian and Oriental Record*, vi, 145–150.
 
-<span id="fn_20"></span>[175:11](mlc06.htm#fr_20) *Cf.* Chapter I.
+<span id="fn_20"></span>[175:11](mlc06.htm#fr_20.md) *Cf.* Chapter I.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Myths of the Stars](mlc07)
+[Next: Chapter V. Myths of the Stars](mlc07.md)
 
 </div>

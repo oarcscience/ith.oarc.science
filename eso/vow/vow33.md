@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow32)  [Next](vow34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow32)  [Next](vow34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
 ### PART VI.
 
 O MY son, matter becomes; formerly it was, for matter is the vehicle of
-becoming. <span id="fr_48"></span>[1](#fn_48) Becoming is the mode of
+becoming. <span id="fr_48"></span>[1](#fn_48.md) Becoming is the mode of
 activity of the uncreate and foreseeing God. Having been
 
 \[endowed
@@ -38,7 +38,7 @@ engendered, had no form; it becomes when it is put into operation.
 
 ### Footnotes
 
-<span id="fn_48"></span>[133:1](vow33.htm#fr_48) Dr. Menard observes
+<span id="fn_48"></span>[133:1](vow33.htm#fr_48.md) Dr. Menard observes
 that in Greek, the same word signifies <span id="page_134">p. 134</span>
 *to be born* and *to become*. The idea here is that the material of the
 world is in its essence eternal, but that before creation or "becoming,"
@@ -59,4 +59,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part VII](vow34)
+[Next: Part VII](vow34.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck22)  [Next](peck24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck22)  [Next](peck24.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ as truth.
 
 ------------------------------------------------------------------------
 
-[Next: Shooting Stars](peck24)
+[Next: Shooting Stars](peck24.md)

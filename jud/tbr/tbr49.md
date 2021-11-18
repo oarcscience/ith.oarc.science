@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tbr48)  [Next](tbr50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tbr48)  [Next](tbr50.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Textual Heritage
 <span class="margnote">**M**.</span>VII I. 3 (4). The School of Shammai
 say: They tidy the room and afterwards wash their hands. But the School
 of Hillel say: They wash their hands and afterwards tidy the room. <span
-id="fr_409"></span>[2](#fn_408)
+id="fr_409"></span>[2](#fn_408.md)
 
 **T**. VI. 4. The School of Shammai say: They put the room tidy to
 prevent spoiling the food, and afterwards they wash their hands. And the
@@ -26,7 +26,7 @@ hands. And after that they put the room tidy.
 
 ### Footnotes
 
-<span id="fn_408"></span>[67:2](tbr49.htm#fr_409) The point is, that in
+<span id="fn_408"></span>[67:2](tbr49.htm#fr_409.md) The point is, that in
 sweeping up the crumbs perhaps a piece of food as large as an olive may
 be found among them, which would have been rendered unclean by water
 having been spilt on it. Hence the order according to the School of
@@ -38,4 +38,4 @@ permitting the use of an attendant who is an *‘am ha’aretz*.
 
 ------------------------------------------------------------------------
 
-[Next: M. VIII. 4; T. VI. 3-5. On Wiping one's Hands](tbr50)
+[Next: M. VIII. 4; T. VI. 3-5. On Wiping one's Hands](tbr50.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe05)  [Next](poe07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe05)  [Next](poe07.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ poem.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Definition of Tragedy](poe07)
+[Next: VI. Definition of Tragedy](poe07.md)

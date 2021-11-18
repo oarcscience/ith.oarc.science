@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp14)  [Next](orrp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp14)  [Next](orrp16.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,7 +84,7 @@ Mithra*, I, p. 323.
 *De errore prof. relig.*, c. 8.
 
 <span id="xref_2_13">2\_13</span>. For Babylonia, cf. Strab., XVI, 1,
-§6, and *infra*, ch. V, n.  [5\_51](orrp18.htm#xref_5_51); for Egypt,
+§6, and *infra*, ch. V, n.  [5\_51](orrp18.htm#xref_5_51.md); for Egypt,
 *id.*, XVII, 21, § 46. From the very interesting account Otto has
 written of the science of the Egyptian priests during the Hellenistic
 period (*Priester und Tempel*, II, pp. 211 ff.; 234), it appears that it
@@ -157,7 +157,7 @@ purification" has been broadly expounded in its entirety, by Farnell in
 
 <span id="xref_2_25">2\_25</span>. We shall mention this subject again
 when speaking of the taurobolium in ch. III, pp.
-[67](orrp07.htm#page_67) ff.
+[67](orrp07.htm#page_67.md) ff.
 
 <span id="xref_2_26">2\_26</span>. We cannot dwell here upon the various
 forms assumed by that purifying rite of the Oriental mysteries. Often
@@ -181,7 +181,7 @@ III<sup>2</sup> pp. 424 ff.
 "Confiteris tamen (sc. Porphyrius) etiam spiritalem animam sine
 theurgicis artibus et sine teletis quibus frustra discendis elaborasti,
 posse continentiae virtute purgari," cf. *ibid.*, X, 23 and *infra*, ch.
-VIII, n.  [8\_24](orrp21.htm#xref_8_24).
+VIII, n.  [8\_24](orrp21.htm#xref_8_24.md).
 
 <span id="xref_2_29">2\_29</span>. Here we can only touch upon a subject
 of very great interest. Porphyry's treatise *De abstinentia* offers a
@@ -209,7 +209,7 @@ Seneca, *Vit. beat.*, XXVI, 8.
 <span id="xref_2_33">2\_33</span>. On liturgic feasts in the religion of
 Cybele: *infra*, ch. II; in the mysteries of Mithra: *Mon. myst.
 Mithra*, I. p. 320; in the Syrian cults: ch. V, n.
- [5\_37](orrp18.htm#xref_5_37). See in general, Hepding, *Attis*, pp.
+ [5\_37](orrp18.htm#xref_5_37.md). See in general, Hepding, *Attis*, pp.
 185 ff.
 
 <span id="xref_2_34">2\_34</span>. We know according to Herbert Spencer
@@ -256,4 +256,4 @@ p. 359; Friedländer, *Sittengesch.*, I<sup>6</sup>, pp. 500 ff.
 
 ------------------------------------------------------------------------
 
-[Next: III. Asia Minor](orrp16)
+[Next: III. Asia Minor](orrp16.md)

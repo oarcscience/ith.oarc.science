@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc66)  [Next](pjc68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc66)  [Next](pjc68.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -64,7 +64,7 @@ before. They were all perturbed in spirit, and filled with grief. The
 holy women also passed their time in praying with the Blessed Virgin
 under the lamp. Later, when night had quite fallen, Lazarus, the widow
 of Naïm, Dina the Samaritan woman, and Mara of Suphan, <span
-id="fr_21"></span>[1](#fn_21) came
+id="fr_21"></span>[1](#fn_21.md) came
 
 <span id="page_304">p. 304</span>
 
@@ -90,7 +90,7 @@ concerning Holy Saturday, the Descent into Hell, and the Resurrection.
 
 ### Footnotes
 
-<span id="fn_21"></span>[303:1](pjc67.htm#fr_21) According to the
+<span id="fn_21"></span>[303:1](pjc67.htm#fr_21.md) According to the
 visions of Sister Emmerich, the three women named in the text had been
 living for some time at Bethania, in a sort of community established by
 Martha for the purpose of providing for the maintenance of the disciples
@@ -137,4 +137,4 @@ view, and then once more brought to light.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIV. On the Name of Calvary](pjc68)
+[Next: Chapter LIV. On the Name of Calvary](pjc68.md)

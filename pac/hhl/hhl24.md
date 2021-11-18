@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl23)  [Next](hhl25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl23)  [Next](hhl25.md) 
 
 ------------------------------------------------------------------------
 
@@ -311,4 +311,4 @@ missionary guidance.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. The Hawaiian Flag](hhl25)
+[Next: XXI. The Hawaiian Flag](hhl25.md)

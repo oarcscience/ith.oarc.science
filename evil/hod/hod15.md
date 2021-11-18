@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod14)  [Next](hod16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod14)  [Next](hod16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ the same thing, it is not the
 
 <span id="img_26200"></span> <span align="CENTER"> [![MODERN SNAKE
 CHARMERS.&lt;br&gt; (Reproduced from Brehm.)](tn/generic.jpg)  
-Click to view](img/26200.jpg)  
+Click to view](img/26200.jpg.md)  
 MODERN SNAKE CHARMERS.  
 (Reproduced from Brehm.)  
 </span>
@@ -45,7 +45,7 @@ performed miracles.
 <span id="img_26300"></span> <span align="CENTER"> [![MOSES AND AARON
 PERFORMING THE SNAKE MIRACLE BEFORE PHARAOH.&lt;br&gt; (After Schnorr
 von Carolsfeld.)](tn/generic.jpg)  
-Click to view](img/26300.jpg)  
+Click to view](img/26300.jpg.md)  
 MOSES AND AARON PERFORMING THE SNAKE MIRACLE BEFORE PHARAOH.  
 (After Schnorr von Carolsfeld.)  
 </span>
@@ -60,10 +60,10 @@ tells us that among the natives of Mexico
 
 there are magicians who "conjure the clouds, and can make a stick look
 like a serpent, a mat like a centipede, a stone like a scorpion, and
-similar deceptions." <span id="fr_131"></span>[1](#fn_130)
+similar deceptions." <span id="fr_131"></span>[1](#fn_130.md)
 
 Simon Magus and his disciples were believed by the early Christians to
-possess power over demons; <span id="fr_132"></span>[2](#fn_131) but
+possess power over demons; <span id="fr_132"></span>[2](#fn_131.md) but
 Simon was a competitor of the Apostles, and therefore his deeds were not
 regarded as divine. Before an impartial tribunal the methods and
 aspirations of both parties would
@@ -71,12 +71,12 @@ aspirations of both parties would
 <span id="img_26400"></span> <span align="CENTER"> [![THE EGYPTIAN SNAKE
 NAJA HAJE MADE MOTIONLESS BY PRESSURE ON THE NECK.&lt;br&gt; (Reproduced
 from Verworn after photographs.)](tn/generic.jpg)  
-Click to view](img/26400.jpg)  
+Click to view](img/26400.jpg.md)  
 THE EGYPTIAN SNAKE NAJA HAJE MADE MOTIONLESS BY PRESSURE ON THE NECK.  
 (Reproduced from Verworn after photographs.)  
 </span>
 
- <span id="fr_133"></span>[3](#fn_132)
+ <span id="fr_133"></span>[3](#fn_132.md)
 
 resemble one another more than the one-sided statements of Christian
 authors at first sight seem to warrant. The accusation made against
@@ -98,7 +98,7 @@ hands and by praying; so did the Therapeutæ and other Gnostics; yet
 faith-cure and Christian science are not countenanced by the churches
 to-day.
 
-Minucius Felix <span id="fr_134"></span>[1](#fn_133) puts the common
+Minucius Felix <span id="fr_134"></span>[1](#fn_133.md) puts the common
 notions, which in his days prevailed in Greece and Italy concerning the
 practices of the Christians, into the mouth of Cæcilius who describes
 them as a desperate class of vulgar men and credulous women threatening
@@ -126,7 +126,7 @@ contempt; while on the other hand the Christians do not shrink from
 ridiculing the holiest and noblest of paganism. For instance, Minucius
 Felix, a Christian of the highest type and best education, speaks of
 Socrates as "the Athenian buffoon." <span
-id="fr_135"></span>[1](#fn_134)
+id="fr_135"></span>[1](#fn_134.md)
 
 Justinus Martyr in his *Apologia* makes the asseveration that the
 Christians are innocent, but leaves the question open whether the
@@ -158,12 +158,12 @@ The various aberrations among the Christians which
 <span id="img_26700"></span> <span align="CENTER"> [![A SUCCESSFUL
 RAIN-MAKER SLAYING HIS RIVALS.&lt;br&gt; (Elijah and Baal priests. After
 Schnorr von Carolsfeld.)](tn/generic.jpg)  
-Click to view](img/26700.jpg)  
+Click to view](img/26700.jpg.md)  
 A SUCCESSFUL RAIN-MAKER SLAYING HIS RIVALS.  
 (Elijah and Baal priests. After Schnorr von Carolsfeld.)  
 </span>
 
-<span class="small">(See pp. [268](#page_268)-[269](#page_269))</span>
+<span class="small">(See pp. [268](#page_268)-[269](#page_269).md)</span>
 
 were very apparent in many of their most prominent leaders, such as
 Constantine the Great, must not astonish us, because Christianity
@@ -185,11 +185,11 @@ Roman prætors.
 
 <span id="img_26800"></span> <span align="CENTER"> [![TENSKWATAWA, THE
 SHAWANO PROPHET IN 1808.](tn/generic.jpg)  
-Click to view](img/26800.jpg)  
+Click to view](img/26800.jpg.md)  
 TENSKWATAWA, THE SHAWANO PROPHET IN 1808.  
 </span>
 
- <span id="fr_136"></span>[1](#fn_135)
+ <span id="fr_136"></span>[1](#fn_135.md)
 
 We look with contempt upon the Indian prophet who poses as a rain-maker,
 but read the story of Elijah with great edification, and while we
@@ -210,15 +210,15 @@ Tenskwatawa "inaugurated a crusade against all who were suspected of
 dealing in witchcraft or magic arts," and he took advantage of the faith
 of his followers "to effectually rid himself of all who opposed his
 sacred claims." All his rivals were successively marked by the prophet,
-and doomed to be burned alive. <span id="fr_137"></span>[1](#fn_136)
+and doomed to be burned alive. <span id="fr_137"></span>[1](#fn_136.md)
 
 <span id="img_26900"></span> <span align="CENTER"> [![TENSKWATAWA, THE
 SHAWANO PROPHET IN 1831.](tn/generic.jpg)  
-Click to view](img/26900.jpg)  
+Click to view](img/26900.jpg.md)  
 TENSKWATAWA, THE SHAWANO PROPHET IN 1831.  
 </span>
 
- <span id="fr_138"></span>[2](#fn_137)
+ <span id="fr_138"></span>[2](#fn_137.md)
 
 All these facts are so many instances which prove the truth of the
 proverb, that if two do the same thing it will not be regarded as the
@@ -259,14 +259,14 @@ abomination possible.
 It is natural that wizards and witches are always represented as
 obnoxious, and it is said that their art is practised to injure the
 welfare of mankind. Nevertheless, miracles, <span
-id="fr_139"></span>[1](#fn_138) while some very mean deeds are counted
+id="fr_139"></span>[1](#fn_138.md) while some very mean deeds are counted
 as
 
 <span id="page_271">p. 271</span>
 
 <span id="img_27100"></span> <span align="CENTER"> [![THE ECSTASY OF THE
 GHOST DANCE OF THE NORTH AMERICAN INDIANS.](tn/generic.jpg)  
-Click to view](img/27100.jpg)  
+Click to view](img/27100.jpg.md)  
 THE ECSTASY OF THE GHOST DANCE OF THE NORTH AMERICAN INDIANS.  
 </span>
 
@@ -278,7 +278,7 @@ application of charms and spells, except those of their own religion,
 even though they be used for the best and purest ends. A faith-cure by
 heretics, and even a successful operation through the unusual skill of a
 surgeon, would be set down as deeds of darkness by those who believe in
-a religion of miracles, <span id="fr_140"></span>[1](#fn_139) but
+a religion of miracles, <span id="fr_140"></span>[1](#fn_139.md) but
 official processions with prayers and sprinkling of holy water are still
 employed, as could be observed during a late small-pox epidemic in
 French Canada.
@@ -292,7 +292,7 @@ foretells fortunes and calls the dead from Spirit-Land.
 
 The rain-priests play a most important part in the life of all the
 American Indians. The snake-dance among the Pueblo Indians of Mexico is
-a prayer for rain. <span id="fr_141"></span>[2](#fn_140) Frequently the
+a prayer for rain. <span id="fr_141"></span>[2](#fn_140.md) Frequently the
 sun is invoked for rain. Dreams, visions, and ecstasies are regarded as
 the best means of divine revelation, and the medicine-bag possesses
 magic powers. The devotional spirit is not less intense among, the
@@ -302,7 +302,7 @@ magic powers. The devotional spirit is not less intense among, the
 <span id="img_27300"></span> <span align="CENTER"> [![THE BLESSING. A
 CEREMONY IN THE GHOST DANCE OF THE NORTH AMERICAN
 INDIANS.](tn/generic.jpg)  
-Click to view](img/27300.jpg)  
+Click to view](img/27300.jpg.md)  
 THE BLESSING. A CEREMONY IN THE GHOST DANCE OF THE NORTH AMERICAN
 INDIANS.  
 </span>
@@ -310,12 +310,12 @@ INDIANS.
 <span id="page_274">p. 274</span>
 
 pagans of the prairie than it was among the ancient Israelites and the
-early Christians. <span id="fr_142"></span>[1](#fn_141)
+early Christians. <span id="fr_142"></span>[1](#fn_141.md)
 
 <span id="img_27400"></span> <span align="CENTER"> [![HENRICUS CORNELIUS
 AGRIPPA AB NETTESHEIM.&lt;br&gt; (Reproduced from the original edition
 of his works.)](tn/generic.jpg)  
-Click to view](img/27400.jpg)  
+Click to view](img/27400.jpg.md)  
 HENRICUS CORNELIUS AGRIPPA AB NETTESHEIM.  
 (Reproduced from the original edition of his works.)  
 </span>
@@ -340,7 +340,7 @@ be learned from the writings of
 Nettesheim (1486-1535), one of the greatest sages and philosophers of
 the age of the Reformation, who proclaimed that the perfection of
 philosophy could be attained by magic, which in distinction to black
-magic <span id="fr_143"></span>[1](#fn_142) he called "natural" or
+magic <span id="fr_143"></span>[1](#fn_142.md) he called "natural" or
 "celestial" magic, and which, he assumed, leads to a perfect union with
 God. His book, *De Occulta Philosophia*, written in 1510 but published
 only in 1531, exhibits his belief in the possibility of creating hatred
@@ -359,7 +359,7 @@ not lectured with fervor, at the University of Dôle, Burgundy (1509), on
 Reuchlin's book, *De Verbo Mirifico*, and had he not, in 1519, when
 syndic at Metz, ventured to save the life of a witch that had fallen
 into the hands of the Inquisitor Nicolas Savini. <span
-id="fr_144"></span>[2](#fn_143)
+id="fr_144"></span>[2](#fn_143.md)
 
 What a strange mixture of occultism with exact observation,
 
@@ -369,7 +369,7 @@ based upon anatomical measurements, is contained in the chapter on "The
 Proportions of the Human Body." Mathematics, natural science, and
 mysticism are all combined in Agrippa's *Occulta Philosophia*, and the
 learned author is unable to discriminate between facts and fancy. <span
-id="fr_145"></span>[1](#fn_144)
+id="fr_145"></span>[1](#fn_144.md)
 
 <div align="center">
 
@@ -432,7 +432,7 @@ Click to view</a></span></p></td>
 not only of magic, but also of science; and he wrote, in 1526, his
 "Proposition about the Incertitude and Vanity of the Sciences and Arts;
 and about the excellence of the word of God." <span
-id="fr_146"></span>[1](#fn_145)
+id="fr_146"></span>[1](#fn_145.md)
 
 <span id="page_278">p. 278</span>
 
@@ -447,13 +447,13 @@ have a monopoly in supernaturalism.
 <span id="img_27800"></span> <span align="CENTER"> [![EXORCISING BY THE
 CROSS.&lt;br&gt; (Bas-relief on a water vessel of the seventh century
 found near Pisama.)](tn/generic.jpg)  
-Click to view](img/27800.jpg)  
+Click to view](img/27800.jpg.md)  
 EXORCISING BY THE CROSS.  
 (Bas-relief on a water vessel of the seventh century found near
 Pisama.)  
 </span>
 
- <span id="fr_147"></span>[1](#fn_146)
+ <span id="fr_147"></span>[1](#fn_146.md)
 
 The belief in and the prosecution of witchcraft are the necessary result
 of a firmly established religion of magic. All the religions of magic
@@ -503,7 +503,7 @@ people alive, and therefore the burning of a woman on the pretext of her
 being a witch is prohibited.
 
 There is a remarkable Latin book of "Dialogues on the Life and Miracles
-of the Italian Fathers," <span id="fr_148"></span>[1](#fn_147) which
+of the Italian Fathers," <span id="fr_148"></span>[1](#fn_147.md) which
 characterises the superstitious spirit that prevailed among both the
 laity and the clergy. It is replete with all kinds of ridiculous tales
 which are taken in good earnest. We are told, for instance, that Gregory
@@ -524,7 +524,7 @@ A Low-German formula which renounces the three
 <span id="page_281">p. 281</span>
 
 foremost German deities with all their hosts <span
-id="fr_149"></span>[1](#fn_148) consists of questions and answers, which
+id="fr_149"></span>[1](#fn_148.md) consists of questions and answers, which
 read as follows:
 
 <div style="margin-left: 32px">
@@ -541,14 +541,14 @@ read as follows:
 
 "*A*. And I forsake all Devil works, and words, Thonar (Thor) and Wodan
 and Saxnot (Fro) and all the evil ones that are his companions." <span
-id="fr_150"></span>[2](#fn_149)
+id="fr_150"></span>[2](#fn_149.md)
 
 </div>
 
 <span id="img_28100"></span> <span align="CENTER"> [![TEXT OF THE
 BAPTISMAL ABJURATION FORMULA IN OLD LOW-GERMAN.&lt;br&gt; (Reproduced
 from O. Henne am Rhyn.)](tn/generic.jpg)  
-Click to view](img/28100.jpg)  
+Click to view](img/28100.jpg.md)  
 TEXT OF THE BAPTISMAL ABJURATION FORMULA IN OLD LOW-GERMAN.  
 (Reproduced from O. Henne am Rhyn.)  
 </span>
@@ -586,7 +586,7 @@ the old ones only in crudity. He accepts the medical explanation of
 nightmares as due to an overheated imagination, but proves even then the
 presence of demoniacal influence, on the authority of St. Augustine.
 
-In the Dialogus Miraculorum, <span id="fr_151"></span>[1](#fn_150) by
+In the Dialogus Miraculorum, <span id="fr_151"></span>[1](#fn_150.md) by
 Cæsarius von
 
 <span id="page_283">p. 283</span>
@@ -601,7 +601,7 @@ Miraculorum&lt;/i&gt;.&lt;br&gt; Illustrating the pious spirit of this
 most nefarious work. Reproduced from Joseph Strange's text edition,
 published by Heberle, Cologne, Bonn, and Brussels,
 1861.](tn/generic.jpg)  
-Click to view](img/28300.jpg)  
+Click to view](img/28300.jpg.md)  
 SPECIMEN PAGE OF AN ILLUMINATED INITIAL IN HEISTERBACH'S *Dialogus
 Miraculorum*.  
 Illustrating the pious spirit of this most nefarious work. Reproduced
@@ -609,7 +609,7 @@ from Joseph Strange's text edition, published by Heberle, Cologne, Bonn,
 and Brussels, 1861.  
 </span>
 
- <span id="fr_152"></span>[1](#fn_151)
+ <span id="fr_152"></span>[1](#fn_151.md)
 
 also unexpected noises, the rustling of leaves, the howling of the wind,
 were attributed to Old Nick. He appears
@@ -621,7 +621,7 @@ soldier, a hunter, a peasant, a dragon, and a negro.
 
 Cæsarius's book has become famous, and rightly so, not on account of any
 peculiar merit of its author but because it is a true picture of the
-average conception of the times. <span id="fr_153"></span>[1](#fn_152)
+average conception of the times. <span id="fr_153"></span>[1](#fn_152.md)
 
 The book is written mainly for the instruction of young monks. The
 initials of the original editions are emblazoned with pious pictures,
@@ -630,7 +630,7 @@ in the brotherhood of the Cistercian monks, the order to which the
 author belongs. He declares that "there is no safer road than the order
 of the Cistercians; nor do fewer people go down to the lower regions
 than the members of that religion." <span
-id="fr_154"></span>[2](#fn_153) Cæsarius makes the Lord appear as a
+id="fr_154"></span>[2](#fn_153.md) Cæsarius makes the Lord appear as a
 sovereign who regards it as his duty to protect his faithful servants
 and takes an interest in concealing their crimes. He works a special
 miracle, lest the slander of a clergyman become public (Book I., p. 23).
@@ -732,7 +732,7 @@ speaks out of it. "While I pull my sleeve," he says, "a rustling is
 heard, and devils speak through this sound. When I scratch myself, the
 scratching is their voice. . . . Lowly people are mostly seduced by
 anger and sadness, but the rich and powerful by arrogance and
-pride." <span id="fr_155"></span>[1](#fn_154)
+pride." <span id="fr_155"></span>[1](#fn_154.md)
 
 Another favorite conception of Christianity originated in the Roman idea
 of looking upon religion as a legal affair. It must have been a lawyer
@@ -745,7 +745,7 @@ edited by various authors and is still extant in various redactions, one
 <span id="page_288">p. 288</span>
 
 of the best and oldest being by Bartolus, a lawyer who lived
-1313-1355. <span id="fr_156"></span>[1](#fn_155)
+1313-1355. <span id="fr_156"></span>[1](#fn_155.md)
 
 The Devil played the rôle of a joker in the Passion plays, and his part
 became more and more prominent. In France the idea prevailed that the
@@ -795,7 +795,7 @@ the last one is practically the main actor in the whole drama. He was
 the intriguer who, after his successful revolution against the Lord, set
 up an empire of his own in Hell; and without the Devil's intrigues the
 whole plot of man's fall and Christ's salvation would be
-impossible. <span id="fr_158"></span>[3](#fn_157) The works of Cæsarius,
+impossible. <span id="fr_158"></span>[3](#fn_157.md) The works of Cæsarius,
 of Heisterbach, Richalmus,
 
 <span id="page_289">p. 289</span>
@@ -842,7 +842,7 @@ themselves bullet-proof. (4) Many methods were devised
 
 <span id="img_29000"></span> <span align="CENTER"> [![WITCHES. (From
 Horndorff &lt;i&gt;De magicis artibus&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/29000.jpg)  
+Click to view](img/29000.jpg.md)  
 WITCHES. (From Horndorff *De magicis artibus*.)  
 </span>
 
@@ -862,7 +862,7 @@ crimes, is recorded in the annals of
 
 <span id="img_29100"></span> <span align="CENTER"> [![THE WITCHES'
 SABBATH (After Picart.)](tn/generic.jpg)  
-Click to view](img/29100.jpg)  
+Click to view](img/29100.jpg.md)  
 THE WITCHES' SABBATH (After Picart.)  
 </span>
 
@@ -874,7 +874,7 @@ the State, a descendant of the highest noble families of Brittany, and a
 marshal of France, was charged with kidnapping about one hundred and
 fifty women and children, who, after being subjected to all kinds of
 outrages, were solemnly sacrificed to Satan. <span
-id="fr_159"></span>[1](#fn_158) The facts seem impossible but the
+id="fr_159"></span>[1](#fn_158.md) The facts seem impossible but the
 complete records of the case are still extant, according to which Rais
 was convicted and executed in 1440. The history of his life has
 apparently contributed to the formation of the legend of Bluebeard.
@@ -938,13 +938,13 @@ indicate the place where treasures
 DIVINA.&lt;br&gt; (According to the &lt;i&gt;Pneumatologia
 occulta&lt;/i&gt;. This divining rod must be made of copper or
 brass.)](tn/generic.jpg)  
-Click to view](img/29400.jpg)  
+Click to view](img/29400.jpg.md)  
 VIRGULTA DIVINA.  
 (According to the *Pneumatologia occulta*. This divining rod must be
 made of copper or brass.)  
 </span>
 
- <span id="fr_160"></span>[1](#fn_159)
+ <span id="fr_160"></span>[1](#fn_159.md)
 
 lay hidden, were made in great quantities. There are innumerable magic
 formulas and exorcisms, most of them invoking God or the Trinity, or
@@ -1042,7 +1042,7 @@ THE DIVINE NAME ARRANGED FOR CONJURATION.<br />
 foolishness.... But when guesses are limited to yes and no, one has
 always about half the chances in one's favor. . . . Right guesses are
 remembered, failures forgotten, and so the astrologer remains in
-honor." <span id="fr_165"></span>[3](#fn_164)</span>
+honor." <span id="fr_165"></span>[3](#fn_164.md)</span>
 
 One reason why there were always so many fools who in spite of their
 fear of eternal damnation tried to make contracts with the Prince of
@@ -1058,12 +1058,12 @@ common in the
 
 <span id="img_29700"></span> <span align="CENTER"> [![KNIGHT AND DEVIL.
 (Old German Print.)](tn/generic.jpg)  
-Click to view](img/29700.jpg)  
+Click to view](img/29700.jpg.md)  
 KNIGHT AND DEVIL. (Old German Print.)  
 </span>
 
 Middle Ages, we quote the legend of St. Gertrude, an Old-German poem of
-unknown authorship. <span id="fr_166"></span>[1](#fn_165)
+unknown authorship. <span id="fr_166"></span>[1](#fn_165.md)
 
 <span id="page_298">p. 298</span>
 
@@ -1150,7 +1150,7 @@ ballad "The Treasure
 
 <span class="contnote">\[paragraph continues\]</span> Digger," which on
 account of its practical beauty and sound moral lesson deserves to be
-translated and quoted. <span id="fr_167"></span>[1](#fn_166) The
+translated and quoted. <span id="fr_167"></span>[1](#fn_166.md) The
 treasure-digger speaks:
 
 <div style="margin-left: 32px">
@@ -1193,7 +1193,7 @@ Stepped he in the magic ring;
 
 <span id="img_30100"></span> <span align="CENTER"> [![THE BISHOP OF LODI
 PREACHING AT THE TRIAL OF JOHN HUSS (From Castelar.)](tn/generic.jpg)  
-Click to view](img/30100.jpg)  
+Click to view](img/30100.jpg.md)  
 THE BISHOP OF LODI PREACHING AT THE TRIAL OF JOHN HUSS (From
 Castelar.)  
 </span>
@@ -1214,13 +1214,13 @@ No boon can this place afford.
 Dig no longer for vain treasure  
 Work by day, and guests at leisure,  
 Toilsome weeks and feastdays’ pleasure,  
-Be thy future magic word!'" <span id="fr_168"></span>[1](#fn_167)
+Be thy future magic word!'" <span id="fr_168"></span>[1](#fn_167.md)
 
 </div>
 
 <span id="img_30200"></span> <span align="CENTER">
 [![SAVONAROLA.](tn/generic.jpg)  
-Click to view](img/30200.jpg)  
+Click to view](img/30200.jpg.md)  
 SAVONAROLA.  
 </span>
 
@@ -1232,7 +1232,7 @@ heretic's death, but also thinkers like Giordano Bruno. Galileo at the
 age of seventy was imprisoned and surrendered to the Inquisition at the
 demand of Pope Urban. Threatened with torture, he was forced to recant
 publicly the heresy of the motion of the earth. <span
-id="fr_169"></span>[2](#fn_168)
+id="fr_169"></span>[2](#fn_168.md)
 
 <span id="page_303">p. 303</span>
 
@@ -1241,7 +1241,7 @@ the religion of magic. The religion of
 
 <span id="img_30300"></span> <span align="CENTER"> [![SAVONAROLA PRAYING
 IN HIS CELL. (From Castelar)](tn/generic.jpg)  
-Click to view](img/30300.jpg)  
+Click to view](img/30300.jpg.md)  
 SAVONAROLA PRAYING IN HIS CELL. (From Castelar)  
 </span>
 
@@ -1252,7 +1252,7 @@ witchcraft had brought forth the terrible fruit of
 
 <span id="img_30400"></span> <span align="CENTER"> [![BURNING OF
 SAVONAROLA (After Don Ricardo Balaca.)](tn/generic.jpg)  
-Click to view](img/30400.jpg)  
+Click to view](img/30400.jpg.md)  
 BURNING OF SAVONAROLA (After Don Ricardo Balaca.)  
 </span>
 
@@ -1278,70 +1278,70 @@ one remedy afforded an unfailing cure.
 
 ### Footnotes
 
-<span id="fn_130"></span>[264:1](hod15.htm#fr_131) Cf. *Fourteenth
+<span id="fn_130"></span>[264:1](hod15.htm#fr_131.md) Cf. *Fourteenth
 Annual Report of the B. of Eth.*, 1892-1893, p. 150.
 
-<span id="fn_131"></span>[264:2](hod15.htm#fr_132) *Iren. adv. haer.*,
+<span id="fn_131"></span>[264:2](hod15.htm#fr_132.md) *Iren. adv. haer.*,
 I., 20-21; *Justin Martyr.*, App. II., pp. 69-70; *Epiphan. ad. haer.*,
 XXII., 1; Euseb., *H. E.*, II., p. 13.
 
-<span id="fn_132"></span>[264:3](hod15.htm#fr_133) The snake resembles a
+<span id="fn_132"></span>[264:3](hod15.htm#fr_133.md) The snake resembles a
 stick; still it is not stiff but flaccid and pliant.
 
-<span id="fn_133"></span>[265:1](hod15.htm#fr_134) *Octavius, ein Dialog
+<span id="fn_133"></span>[265:1](hod15.htm#fr_134.md) *Octavius, ein Dialog
 des M. Minucius Felix*. Edited by B. Dombart. Second edition. Erlangen,
 1881. *Ante Nicene Chr. Libr.*, Vol. XIII., p. 451 ff.
 
-<span id="fn_134"></span>[266:1](hod15.htm#fr_135) *Octavius*, Chap. 38.
+<span id="fn_134"></span>[266:1](hod15.htm#fr_135.md) *Octavius*, Chap. 38.
 "Socrates scurra Atticus."
 
-<span id="fn_135"></span>[268:1](hod15.htm#fr_136) Reproduced from the
+<span id="fn_135"></span>[268:1](hod15.htm#fr_136.md) Reproduced from the
 Fourteenth Annual Report of the Bureau of Ethnology, p. 670.
 
-<span id="fn_136"></span>[269:1](hod15.htm#fr_137) For details see the
+<span id="fn_136"></span>[269:1](hod15.htm#fr_137.md) For details see the
 *Fourteenth Annual Report of the Bureau of Ethnology*, Part 2, p. 673
 ff., and Drake, *Tecumseh*, 2.
 
-<span id="fn_137"></span>[269:2](hod15.htm#fr_138) Reproduced from the
+<span id="fn_137"></span>[269:2](hod15.htm#fr_138.md) Reproduced from the
 *Fourteenth Annual Report of the Bureau of Ethnology*, p. 670.
 
-<span id="fn_138"></span>[270:1](hod15.htm#fr_139) There are miracles
+<span id="fn_138"></span>[270:1](hod15.htm#fr_139.md) There are miracles
 attributed in the Christian Apocrypha even to Jesus himself, which would
 be criminal.
 
-<span id="fn_139"></span>[272:1](hod15.htm#fr_140) In 1521, a surgeon of
+<span id="fn_139"></span>[272:1](hod15.htm#fr_140.md) In 1521, a surgeon of
 Hamburg was executed for witchcraft because he had saved the life of a
 babe which the midwife had given up as lost. (See Soldan,
 *Hexenprocesse*, p. 326.)
 
-<span id="fn_140"></span>[272:2](hod15.htm#fr_141) See, e. g.,
+<span id="fn_140"></span>[272:2](hod15.htm#fr_141.md) See, e. g.,
 *Fourteenth Annual Report of the Bureau of Ethnology*, 1892-1893, p.
 561.
 
-<span id="fn_141"></span>[274:1](hod15.htm#fr_142) Notice, for instance,
+<span id="fn_141"></span>[274:1](hod15.htm#fr_142.md) Notice, for instance,
 the deeply religious spirit of the ghost dance taught the North American
 Indian by the prophet Wovoka. The devotion of Wovoka's followers is well
 illustrated in the accompanying illustrations of some characteristic
 attitudes in the ghost dance. Cf. Annual Report of the American Bureau
 of Ethnology, 1892-1893.
 
-<span id="fn_142"></span>[275:1](hod15.htm#fr_143) The idea and name of
+<span id="fn_142"></span>[275:1](hod15.htm#fr_143.md) The idea and name of
 black magic originated from a corruption of the word necromancy into
 nigromancy.
 
-<span id="fn_143"></span>[275:2](hod15.htm#fr_144) *De Vanitate
+<span id="fn_143"></span>[275:2](hod15.htm#fr_144.md) *De Vanitate
 Scientiarum*, Chap. 96; Epist. libr., II., pp. 38-40, quoted by Soldan,
 *Hexenprocesse*, p. 325.
 
-<span id="fn_144"></span>[276:1](hod15.htm#fr_145) The accompanying
+<span id="fn_144"></span>[276:1](hod15.htm#fr_145.md) The accompanying
 illustrations are reproduced from the original edition of *Occulta
 Philosophia*, Chap. XXVII.
 
-<span id="fn_145"></span>[277:1](hod15.htm#fr_146) *De Incertitudine et
+<span id="fn_145"></span>[277:1](hod15.htm#fr_146.md) *De Incertitudine et
 Vanitate Scientiarum et Artium, atque Excellentia Verbi Dei Declamatio*.
 Published in 1530.
 
-<span id="fn_146"></span>[278:1](hod15.htm#fr_147) *Paciandi De
+<span id="fn_146"></span>[278:1](hod15.htm#fr_147.md) *Paciandi De
 Cliristianorum balneis*, pp. 136 ff. and 143 ff. The Rev. Samuel
 Cheetham says in Smith-Cheetham *Dictionary of Christian Antiquities*,
 p. 652: "The contortions of the person on the ground seem to show that
@@ -1351,17 +1351,17 @@ upon it the ordinary pre-baptismal exorcism. It seems therefore more
 probable that it was intended for the Atrium of a church, where it might
 be used to contain holy water."
 
-<span id="fn_147"></span>[280:1](hod15.htm#fr_148) *De vita et miraculis
+<span id="fn_147"></span>[280:1](hod15.htm#fr_148.md) *De vita et miraculis
 patr*, *Italic. libri*, IV. See Roskoff, *Geschichte des Teufels*, p.
 292.
 
-<span id="fn_148"></span>[281:1](hod15.htm#fr_149) Massmann, "Die
+<span id="fn_148"></span>[281:1](hod15.htm#fr_149.md) Massmann, "Die
 deutschen Abschwörungs-, Glaubens-, Beicht- und Bet- formeln."
 *Bibliographie der Geschichte der Nationalliteratur*. Vol. VII. Roskoff,
 *Geschichte des Teufels*, p. 292; Otto Henne am Rhyn, *Kulturgreschichte
 des deutschen Volkes*.
 
-<span id="fn_149"></span>[281:2](hod15.htm#fr_150) The original, which
+<span id="fn_149"></span>[281:2](hod15.htm#fr_150.md) The original, which
 is Old Low-German, reads as follows:
 
 *Q*. "Forsachistu diabolæ?" *A*. "Ec forsacho diabolæ!"--*Q*. "End allum
@@ -1370,83 +1370,83 @@ allum diaboles uuercum?" *A*. "End ec forsacho allum diaboles uuercum,
 end uuordum, Thunaer, ende Uuoden, ende Saxnote, ende allem dem unholdum
 the hira genotas sint."
 
-<span id="fn_150"></span>[282:1](hod15.htm#fr_151) *Illustrium
+<span id="fn_150"></span>[282:1](hod15.htm#fr_151.md) *Illustrium
 miraculorum et historiarum memorabilium libri XII, ante annos fere CCCC
 a Cæsario Heisterbacensi, ordinis Cisterniensis, . . . . Colon*. 1599. A
 new edition was made by Josephus Strange, published by J. M. Heberle.
 
-<span id="fn_151"></span>[283:1](hod15.htm#fr_152) The original is fol.
+<span id="fn_151"></span>[283:1](hod15.htm#fr_152.md) The original is fol.
 2a column 1 of *Codex miso* (D) in the Royal Library at Düsseldorf.
 
-<span id="fn_152"></span>[284:1](hod15.htm#fr_153) For a brief summary
+<span id="fn_152"></span>[284:1](hod15.htm#fr_153.md) For a brief summary
 see Wolfgang Menzel, *Deutsche Literaturgeschichte*, pp. 310-312. See
 also Roskoff, *Geschichte des Teufels*, pp. 317--326.
 
-<span id="fn_153"></span>[284:2](hod15.htm#fr_154) "Non est via securior
+<span id="fn_153"></span>[284:2](hod15.htm#fr_154.md) "Non est via securior
 quam ordo Cisterniencis neque inter omne genus hominum, pauciones
 descendunt ad inferos quam personæ illius religionis." I., Chap. 33.
 
-<span id="fn_154"></span>[287:1](hod15.htm#fr_155) Roskoff, pp. 535-545.
+<span id="fn_154"></span>[287:1](hod15.htm#fr_155.md) Roskoff, pp. 535-545.
 
-<span id="fn_155"></span>[288:1](hod15.htm#fr_156) Concerning the
+<span id="fn_155"></span>[288:1](hod15.htm#fr_156.md) Concerning the
 *Processus Sathanæ*, see Dr. R. Stintzing, *Geschichte der populären
 Litteratur des röm. can. Rechts in Deutschland*, Leipsic, 1867.
 Roskoff's book on the Devil contains on pages 349-355 extracts from
 Stintzing.
 
-<span id="fn_156"></span>[288:2](hod15.htm#fr_157) From *Bilderatlas zur
+<span id="fn_156"></span>[288:2](hod15.htm#fr_157.md) From *Bilderatlas zur
 Geschichte der deutschen Nationallitteralur*, by Dr. Gustav Könnecke,
 Marburg, 1895, p. 93.
 
-<span id="fn_157"></span>[288:3](hod15.htm#fr_158) Floegel's *Geschichte
+<span id="fn_157"></span>[288:3](hod15.htm#fr_158.md) Floegel's *Geschichte
 des Grotesk-Komischen*, bearbeitet von Fr. W. Ebeling, pp. 70-71,
 119-120.
 
-<span id="fn_158"></span>[292:1](hod15.htm#fr_159) See *Encyclo. Brit.*,
+<span id="fn_158"></span>[292:1](hod15.htm#fr_159.md) See *Encyclo. Brit.*,
 Vol. XX., p. 258.
 
-<span id="fn_159"></span>[294:1](hod15.htm#fr_160) Published from an old
+<span id="fn_159"></span>[294:1](hod15.htm#fr_160.md) Published from an old
 MS. by Georg Conrad Horst in his *Zauberbibliothek*, I., pp. 92 ff. We
 abstain here from reproducing the incantations that must be used in
 order to be successful.
 
-<span id="fn_160"></span>[295:1](hod15.htm#fr_161) Agrippa ab
+<span id="fn_160"></span>[295:1](hod15.htm#fr_161.md) Agrippa ab
 Nettesheim, *De occ. phil.*, p. 459.
 
-<span id="fn_161"></span>[295:2](hod15.htm#fr_162) After Gerhard's
+<span id="fn_161"></span>[295:2](hod15.htm#fr_162.md) After Gerhard's
 *Geomantic Astronomy*. See *Agrippa ab Nettesheim de occulta
 Philosophia*, liber III., chap. XI. "De divinis nominibus eorundemque
 potentia et virtute."
 
-<span id="fn_162"></span>[296:1](hod15.htm#fr_163) Devised by Petrus de
+<span id="fn_162"></span>[296:1](hod15.htm#fr_163.md) Devised by Petrus de
 Albano for the "exploration" of the week. Reproduced from "Elementa
 Magica" in *De occ. phil.* p. 465.
 
-<span id="fn_163"></span>[296:2](hod15.htm#fr_164) *Agrippa ab
+<span id="fn_163"></span>[296:2](hod15.htm#fr_164.md) *Agrippa ab
 Nettesheim de occulta philosophia*. p. 560.
 
-<span id="fn_164"></span>[296:3](hod15.htm#fr_165) Translated from Carus
+<span id="fn_164"></span>[296:3](hod15.htm#fr_165.md) Translated from Carus
 Sterne, *Die allgemeine Weltanschauung*, p. 56.
 
-<span id="fn_165"></span>[297:1](hod15.htm#fr_166) Translated by E. F.
+<span id="fn_165"></span>[297:1](hod15.htm#fr_166.md) Translated by E. F.
 L. Gauss from *Deutscher Liederhort,* (Erk & Böhme) Vol.. III. See also
 *Das Kloster*, Stuttgart, 1846, Vol. II., Part I., p. 176. The original
 MS. of the poem is preserved in the Heidelburg Library.
 
-<span id="fn_166"></span>[300:1](hod15.htm#fr_167) Translation by E. F.
+<span id="fn_166"></span>[300:1](hod15.htm#fr_167.md) Translation by E. F.
 L. Gauss, of Chicago, Ill.
 
-<span id="fn_167"></span>[302:1](hod15.htm#fr_168) This is most likely
+<span id="fn_167"></span>[302:1](hod15.htm#fr_168.md) This is most likely
 the poem of which Schiller writes to Goethe in a letter dated May 23,
 1797: "It is so exemplary, beautiful, and round and perfect, that I felt
 very forcibly, while reading it, how even a small whole, a simple idea,
 can give us the enjoyment of the highest, by perfect presentation."
 
-<span id="fn_168"></span>[302:2](hod15.htm#fr_169) The most thorough
+<span id="fn_168"></span>[302:2](hod15.htm#fr_169.md) The most thorough
 exposition of this sad chapter in the history of civilisation is found
 in President Andrew Dickson White's two volumed work *A History of the
 Warfare of Science with Theology in Christendom*. New York. 1896.
 
 ------------------------------------------------------------------------
 
-[Next: The Inquisition](hod16)
+[Next: The Inquisition](hod16.md)

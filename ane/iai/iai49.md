@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai48.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ continues\]
 
 A halo o'er the shining gesdin-trees  
 And spreads around them Heaven's holy rays.  
-He [kisses](errata.htm#1) her sweet lips, and brow, and eyes,  
+He [kisses](errata.htm#1.md) her sweet lips, and brow, and eyes,  
 Then turns his gaze toward the glowing skies:
 
 "I bless thee, for thy sweetest spirit here!  

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf21) [Next](bulf23) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf21) [Next](bulf23.md) 
 
 # CHAPTER XXIII.
 
@@ -289,4 +289,4 @@ adventures.
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXIV. Orpheus And Eurydice- Aristaeus- Amphion- Linus-
-Thamyris- Marsyas- Melampus- Musaeus.](bulf23)
+Thamyris- Marsyas- Melampus- Musaeus.](bulf23.md)

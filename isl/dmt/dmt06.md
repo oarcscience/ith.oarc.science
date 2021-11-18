@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt05)  [Next](dmt07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt05)  [Next](dmt07.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ lightly upon them; it is political only and they have no touch of the
 violent religious antagonism to the Sunnite Muslims that is to be found
 in Persian Shi‘ism. As adherents of the legal school of Malik ibn Anas,
 their Sunna is the same as that of orthodox Islam. The *Sahih* of
-al-Bukhari (see below, [p. 79](dmt08.htm#page_79)) is held in especially
+al-Bukhari (see below, [p. 79](dmt08.htm#page_79).md) is held in especially
 high reverence, and one division of the Moorish army always carries a
 copy of it as a talisman. They are really a bit of the second
 
@@ -437,4 +437,4 @@ Salah ad-Din, the Saladin of our annals, and Egypt was again orthodox.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](dmt07)
+[Next: Chapter III](dmt07.md)

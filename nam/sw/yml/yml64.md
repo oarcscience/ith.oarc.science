@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml63)  [Next](yml65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml63)  [Next](yml65.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ A similar monster is described in the myths of the Papago, the Pueblos
 
 ------------------------------------------------------------------------
 
-[Next: Tukawiru](yml65)
+[Next: Tukawiru](yml65.md)

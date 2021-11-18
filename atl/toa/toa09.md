@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa08)  [Next](toa10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa08)  [Next](toa10.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -204,6 +204,6 @@ wrath of the gods."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII—Aulus the Gladiator](toa10)
+[Next: Chapter VIII—Aulus the Gladiator](toa10.md)
 
 </div>

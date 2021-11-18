@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre59)  [Next](gre61) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre59)  [Next](gre61.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ his dread of the dark.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LVI: Of Grettir and Thorir Redbeard](gre61)
+[Next: Chapter LVI: Of Grettir and Thorir Redbeard](gre61.md)

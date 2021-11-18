@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip60)  [Next](fip62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip60)  [Next](fip62.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_222">p. 222</span>
 
-### THE STORY OF THE LITTLE BIRD <span id="fr_54"></span>[1](#fn_54)
+### THE STORY OF THE LITTLE BIRD <span id="fr_54"></span>[1](#fn_54.md)
 
 T. Crofton Croker
 
@@ -90,10 +90,10 @@ take to Himself the soul of that holy man.
 
 ### Footnotes
 
-<span id="fn_54"></span>[222:1](fip61.htm#fr_54) *Amulet*, 1827. T. C.
+<span id="fn_54"></span>[222:1](fip61.htm#fr_54.md) *Amulet*, 1827. T. C.
 Croker wrote this, he says, word for word as he heard it from an old
 woman at a holy well.
 
 ------------------------------------------------------------------------
 
-[Next: Conversion Of King Laoghair's Daughters](fip62)
+[Next: Conversion Of King Laoghair's Daughters](fip62.md)

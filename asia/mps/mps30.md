@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps29) 
-[Next](mps31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps29.md) 
+[Next](mps31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -296,7 +296,7 @@ flame.
 drank, they ate, there was a banquet for the tribe of drinkers. Day
 dawned; they bathed Avt’handil; there lies abundance of satin; they clad
 hint in raiment worth many thousands of *dracanis;* <span
-id="fr_27"></span>[1](#fn_27) they girded him with a girdle of
+id="fr_27"></span>[1](#fn_27.md) they girded him with a girdle of
 inestimable worth.
 
 <span class="margnote"><span id="993">993</span></span>The knight
@@ -371,10 +371,10 @@ of gazers.
 
 ### Footnotes
 
-<span id="fn_27"></span>[159:1](mps30.htm#fr_27) Value seems to be
+<span id="fn_27"></span>[159:1](mps30.htm#fr_27.md) Value seems to be
 unknown; Ch. gives *drakhma* as about sixpence.
 
 ------------------------------------------------------------------------
 
 [Next: XXVIII. Avt’handil's Departure From P’hridon to Seek
-Nestan-Daredjan](mps31)
+Nestan-Daredjan](mps31.md)

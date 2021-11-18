@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico024) 
-[Next](nico026) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico024.md) 
+[Next](nico026.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ means.
 ------------------------------------------------------------------------
 
 [Next: Chapter 4. The object of rational wish is the end, i.e. the good
-or the apparent good](nico026)
+or the apparent good](nico026.md)

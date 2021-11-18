@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod27)  [Next](eod29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod27)  [Next](eod29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -28,7 +28,7 @@ Throughout the greater part of the area which tradition has peopled with
 dragons, iron is regarded as peculiarly lethal to the monsters. This
 seems to be due to the part played by the "smiths" who forged iron
 weapons with which Horus overcame Set and his followers, <span
-id="fr_230"></span>[1](#fn_230) or in the earlier versions of the legend
+id="fr_230"></span>[1](#fn_230.md) or in the earlier versions of the legend
 the metal weapons by means of which the people of Upper Egypt secured
 their historic victory over the Lower Egyptians. But the association of
 meteoric iron with the thunderbolt, the traditional weapon for
@@ -87,7 +87,7 @@ Sometimes the dragon carries a pearl under his tongue or in his chin as
 a reserve of life-giving substance.
 
 Mr. Donald Mackenzie has called attention <span
-id="fr_231"></span>[1](#fn_231) to the remarkable influence upon the
+id="fr_231"></span>[1](#fn_231.md) to the remarkable influence upon the
 development of the Dragon Myth of the familiar Egyptian representation
 of the child Horus with a finger touching his lips. On some pretence or
 other, many of the European dragon-slaying heroes, such as Sigurd and
@@ -99,12 +99,12 @@ while cooking the slain monster.
 
 ### Footnotes
 
-<span id="fn_230"></span>[135:1](eod28.htm#fr_230) Budge, "Gods of the
+<span id="fn_230"></span>[135:1](eod28.htm#fr_230.md) Budge, "Gods of the
 Egyptians," vol. i., p. 476.
 
-<span id="fn_231"></span>[136:1](eod28.htm#fr_231) "Egyptian Myth and
+<span id="fn_231"></span>[136:1](eod28.htm#fr_231.md) "Egyptian Myth and
 Legend," pp. 340 *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: The Ethical Aspect](eod29)
+[Next: The Ethical Aspect](eod29.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index) 
-[Index](index)  [Previous](dv20000)  [Next](v2illu) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md) 
+[Index](index)  [Previous](dv20000)  [Next](v2illu.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225739/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225739/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225739/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations in Volume II.](v2illu)
+[Next: List of Illustrations in Volume II.](v2illu.md)

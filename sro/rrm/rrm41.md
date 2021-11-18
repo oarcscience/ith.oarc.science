@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm40)  [Next](rrm42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm40)  [Next](rrm42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ in this respect, nature is held abominable. Its practice is the shutting
 of the heavenly door. Thus fleshly incitements are AWFUL; and yet--such
 are the contradictions of nature--they are necessitated. We must 'whip'
 the body, as it were, 'into wood' before we can drive the devil
-therefrom. <span id="fr_15"></span>[1](#fn_15) We must fast and watch,
+therefrom. <span id="fr_15"></span>[1](#fn_15.md) We must fast and watch,
 and watch and fast. We must reduce our robustness into leanness. Our
 physical graceful, worthy or handsome 'selves', we must punish down into
 everything that is incapable and pitiable. We must become *pitiless* in
@@ -337,7 +337,7 @@ If the disciples of the doctrine of 'evolution' or 'selection of the
 fittest' are right--if your Darwins, your Huxleys, your Herbert
 Spencers, your Leweses, your dense unimaginative men (only specious
 philosophers), are correct in their deductions of
-correlation--'bowing-out God' <span id="fr_16"></span>[1](#fn_16) as it
+correlation--'bowing-out God' <span id="fr_16"></span>[1](#fn_16.md) as it
 were (in sublimity of *fools’* not '*mad*' presumption), 'exterior of
 His own Creation'--then reverence, and devotion, and martyrdom, and the
 sacredness, and the magic of *virginity*, must be the merest ludicrous
@@ -614,12 +614,12 @@ evidence.
 
 ### Footnotes
 
-<span id="fn_15"></span>[360:1](rrm41.htm#fr_15) And thereout.
+<span id="fn_15"></span>[360:1](rrm41.htm#fr_15.md) And thereout.
 
-<span id="fn_16"></span>[370:1](rrm41.htm#fr_16) 'Bowing-out', or
+<span id="fn_16"></span>[370:1](rrm41.htm#fr_16.md) 'Bowing-out', or
 'complimenting-out'; to express in a strong figure--but not inapt.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XII: The Adapted Rosicrucian Contemplation. Intrusion Of
-Sin. Ruins Of The Old Worlds](rrm42)
+Sin. Ruins Of The Old Worlds](rrm42.md)

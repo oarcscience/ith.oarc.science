@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt14)  [Next](dmt16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt14)  [Next](dmt16.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ He was born at Cairo in 586, lived for a time at Mecca, and died at
 Cairo in 632. He led no new movement or advance, but the East still
 cherishes his memory and his poems.
 
-We have already noticed ([p. 177](dmt11.htm#page_177)) the beginnings of
+We have already noticed ([p. 177](dmt11.htm#page_177).md) the beginnings of
 darwish Fraternities and the founding of monasteries or khanqahs. During
 the period over which we have
 
@@ -458,7 +458,7 @@ according to the law of a prophet. They are all guided by
 
 <span class="contnote">\[paragraph continues\]</span> God, whatever
 their particular Rule (*tariqa*) may be, but the Rule of al-Junayd ([p.
-176](dmt11.htm#page_176)) is the best because it is in most essential
+176](dmt11.htm#page_176).md) is the best because it is in most essential
 agreement with the Law (*shari‘a*) of Islam. Their *karamat* are true
 and are a consequence of their devout labors, for these are in agreement
 with the Qur’an and the Sunna. The order of nature will not be broken
@@ -502,7 +502,7 @@ We must now pass over about two hundred years and come to the latter
 part of the twelfth century of the Hijra, a period nearly coinciding
 with the end of the eighteenth of our era. There these two movements
 come again to light. Wahhabism, the historical origin of which we have
-already seen ([p. 60](dmt07.htm#page_60)), is a branch of the school of
+already seen ([p. 60](dmt07.htm#page_60).md), is a branch of the school of
 Ibn Taymiya. Manuscripts of the works of Ibn Taymiya copied by the hand
 of Ibn Abd al-Wabhab exist in Europe. So the Wahhabites refused to
 accept as binding the decisions of the four orthodox sects of canon law.
@@ -613,4 +613,4 @@ experiment in Egypt may go far to answer that question.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](dmt16)
+[Next: Contents](dmt16.md)

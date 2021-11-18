@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn02) [Next](udn2)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn02) [Next](udn2.md)
 
 ------------------------------------------------------------------------
 
@@ -24,14 +24,14 @@ there is this (state), another (state) arises, by the arising of this
 (state), a (state) is produced, that is to say:
 
    "From Ignorance<span id="page_1_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_1_note_1) spring Conformations, from
+class="small">1</span></sup>](#page_1_note_1.md) spring Conformations, from
 Conformations springs Consciousness, from Consciousness spring Mind
 <span id="page_2">p. 2</span> and Material Form, from Mind and Material
 Form, the six Organs of Sense, from the six Organs of Sense, Contact,
 from Contact, Sensations, from Sensations, Desire, from Desire,
 Attachment, from Attachment, Being,<span
 id="page_2_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_2_note_1) from Being, Birth, from
+class="small">1</span></sup>](#page_2_note_1.md) from Being, Birth, from
 Birth spring Decay, Death, Sorrow, Lamentation, Pain, Grief and Despair.
 Thus the whole mass of suffering originates". And the Exalted One in
 this connection, on that occasion, breathed forth this solemn utterance:
@@ -233,7 +233,7 @@ forth this solemn utterance:
    <span id="pp_7"></span>7. Thus have I heard. On a certain occasion
 the Blessed One dwelt at Pâtali, at the Ajakalâpaka monastery, in the
 cell of the Yakkha,<span id="page_6_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_6_note_1) Ajakalâpaka. Now at that
+class="small">1</span></sup>](#page_6_note_1.md) Ajakalâpaka. Now at that
 time the Blessed One was sitting in the open air, the darkness of the
 night was profound, and from a cloud there fell, one by one, drops of
 rain. And the Yakkha, Ajakalâpaka, desirous of causing terror,
@@ -271,7 +271,7 @@ went to the Jetavana.
 certain tree, enjoying a noonday rest. And the old wife went to where
 the venerable Sangamaji was, and drawing near to him, said, "This, O
 Samana,<span id="page_7_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_7_note_1) is thy little son, cherish
+class="small">1</span></sup>](#page_7_note_1.md) is thy little son, cherish
 thou him."
 
    When she had thus spoken, the venerable Sangamaji remained silent. A
@@ -405,7 +405,7 @@ Bahiya was thrown down by a wild calf and killed. And when the Blessed
 One had gone his rounds for alms and finished his meal for the day, he
 left the city accompanied by a large retinue of Bhikkhus<span
 id="page_11_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_11_note_1) and beheld Bahiya
+class="small">1</span></sup>](#page_11_note_1.md) and beheld Bahiya
 Daruciriya lying dead. And he called the Bhikkhus to him and said;
 "Take, O Bhikkhus, the body of Bahiya, place it on a bed, bear it away
 and cremate it, and afterwards erect a mound over the remains--for this,
@@ -453,7 +453,7 @@ forth this solemn utterance:--
 
 ------------------------------------------------------------------------
 
-[Next](udn2)
+[Next](udn2.md)
 
 ------------------------------------------------------------------------
 
@@ -461,7 +461,7 @@ forth this solemn utterance:--
 
 <span id="footnotes_page_1">p. 1</span>
 
-<span id="page_1_note_1"></span>[1](#page_1_fr_1) "Ignorance may be said
+<span id="page_1_note_1"></span>[1](#page_1_fr_1.md) "Ignorance may be said
 to be a primary cause only when it is made the starting point of a
 discourse concerning the round of rebirth." (Visuddhi Magga. Chap.
 XVII).
@@ -485,26 +485,26 @@ expressions, familiar to the people, to convey to them his doctrine of
 the non-existence of a soul, as a permanent and immortal entity capable
 of migration. (Vide also p. 28. note 1 {?}).
 
-<span id="page_2_note_1"></span>[1](#page_2_fr_1) Married life.
+<span id="page_2_note_1"></span>[1](#page_2_fr_1.md) Married life.
 
-<span id="page_2_note_2"></span>[2](#page_2_fr_2) The Buddha adopted the
+<span id="page_2_note_2"></span>[2](#page_2_fr_2.md) The Buddha adopted the
 appellation 'Brahmana' into his own system, using it to designate one
 who has obtained final sanctification.
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="page_6_note_1"></span>[1](#page_6_fr_1) A demon of human
+<span id="page_6_note_1"></span>[1](#page_6_fr_1.md) A demon of human
 shape, hostile to man. Some are harmless, and several were converted to
 Buddhism.
 
 <span id="footnotes_page_7">p. 7</span>
 
-<span id="page_7_note_1"></span>[1](#page_7_fr_1) A term applied to
+<span id="page_7_note_1"></span>[1](#page_7_fr_1.md) A term applied to
 Buddhist ascetics.
 
 <span id="footnotes_page_11">p. 11</span>
 
-<span id="page_11_note_1"></span>[1](#page_11_fr_1) Bhikkhu, Lit: 'one
+<span id="page_11_note_1"></span>[1](#page_11_fr_1.md) Bhikkhu, Lit: 'one
 who recelves alms'. Members of the Buddhist-Order of monks are not
 permitted to beg. They receive only what is freely given. They are
 supported by the people, as exemplars and teachers of the faith.

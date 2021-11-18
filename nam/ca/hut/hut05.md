@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut04)  [Next](hut06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut04)  [Next](hut06.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ### II.
 
-### XaxōwilwaL.--Dug-from-the-ground. <span id="fr_21"></span>[1](#fn_21)
+### XaxōwilwaL.--Dug-from-the-ground. <span id="fr_21"></span>[1](#fn_21.md)
 
 <span id="page_146">p. 146</span>
 
@@ -90,13 +90,13 @@ he went to the village. In the middle of it he saw a house of blue-stone
 with a pavement in front of black obsidian. He went in and heard one
 say, "It is my son-in-law for whom I had expected to be a long time
 looking." When the sun had set there came back from different places ten
-brothers. Some had been playing kiñ, <span id="fr_22"></span>[1](#fn_22)
+brothers. Some had been playing kiñ, <span id="fr_22"></span>[1](#fn_22.md)
 some had been playing shinny, some had been hunting, some spearing
 salmon, and others had been shooting at a mark. Eagle and Panther were
 both married to daughters of the family. They said to him, "You here,
 brother-in-law?" "Yes," he said, "I came a little while ago." When it
 was supper time they put in front of him a basket of money's meat, <span
-id="fr_23"></span>[2](#fn_23) which mortal man cannot swallow. He ate
+id="fr_23"></span>[2](#fn_23.md) which mortal man cannot swallow. He ate
 two baskets of it and they thought he must be a smart man. After they
 had finished supper they all went to the sweat-house to spend the night.
 At midnight the young man went to the river to swim. There he heard a
@@ -104,7 +104,7 @@ voice say, "The sweat-house wood is all gone." Then Mink told him that
 men could not find sweat-house wood near by, but that some was to be
 found to the southeast. They called to him for wood from ten
 sweat-houses and he said "Yes" to all. Mink told him about everything
-they would ask him to do. <span id="fr_24"></span>[3](#fn_24) He went
+they would ask him to do. <span id="fr_24"></span>[3](#fn_24.md) He went
 back to the sweat-house and went in. When the east whitened with the
 dawn, he went for sweat-house wood as they had told him. He came to the
 place where the trail forks and one of them turns to the northeast and
@@ -161,20 +161,20 @@ living there yet.
 
 ### Footnotes
 
-<span id="fn_21"></span>[135:1](hut05.htm#fr_21) Told at Hupa, June
+<span id="fn_21"></span>[135:1](hut05.htm#fr_21.md) Told at Hupa, June
 1901. The first part was told by Oscar Brown, a half-breed, about 30
 years of age whose mother belonged to TakimiLdiñ. The story was finished
 by James Anderson, a man about 55 years old, a native of Medildiñ.
 
-<span id="fn_22"></span>[148:1](hut05.htm#fr_22) See Life and Culture of
+<span id="fn_22"></span>[148:1](hut05.htm#fr_22.md) See Life and Culture of
 Hupa, p. 61.
 
-<span id="fn_23"></span>[148:2](hut05.htm#fr_23) The meat of dentalia is
+<span id="fn_23"></span>[148:2](hut05.htm#fr_23.md) The meat of dentalia is
 believed to be the food of the Kīxûnai.
 
-<span id="fn_24"></span>[148:3](hut05.htm#fr_24) The feats which follow
+<span id="fn_24"></span>[148:3](hut05.htm#fr_24.md) The feats which follow
 must be done the one who would marry the daughters.
 
 ------------------------------------------------------------------------
 
-[Next: III. Xontcūwditcetc.--Rough-nose](hut06)
+[Next: III. Xontcūwditcetc.--Rough-nose](hut06.md)

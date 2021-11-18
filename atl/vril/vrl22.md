@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl21)  [Next](vrl23) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl21)  [Next](vrl23.md) 
 
 ------------------------------------------------------------------------
 
@@ -298,4 +298,4 @@ her affections."
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXIV](vrl23)
+[Next: CHAPTER XXIV](vrl23.md)

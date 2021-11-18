@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm46)  [Next](bnm48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm46)  [Next](bnm48.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ beautiful earth to the sky.
 
 ------------------------------------------------------------------------
 
-[Next: How Summer Came To The Earth.](bnm48)
+[Next: How Summer Came To The Earth.](bnm48.md)

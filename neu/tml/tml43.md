@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml42)  [Next](tml44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml42)  [Next](tml44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -91,7 +91,7 @@ Ecke strode beside the Knight of Bern, and made boast of his armour.
 <span id="img_41600"></span> <span align="CENTER"> [![RETURN OF
 VICTORIOUS TEUTONS&lt;br&gt; &lt;i&gt;From the painting by P. Thumann.
 By permission of Franz Hanfstaengl&lt;/i&gt;](tn/41600.jpg)  
-Click to enlarge](img/41600.jpg)  
+Click to enlarge](img/41600.jpg.md)  
 RETURN OF VICTORIOUS TEUTONS  
 *From the painting by P. Thumann. By permission of Franz Hanfstaengl*  
 </span>
@@ -169,7 +169,7 @@ way with the head of Ecke dangling from his saddle bow.
 
 He had no great joy in his victory, because he feared that he would be
 accused of killing Ecke in his sleep. <span
-id="fr_115"></span>[1](#fn_115)
+id="fr_115"></span>[1](#fn_115.md)
 
 Dietrich rode on until he came to a forest spring and beheld a water
 nymph lying beside it wrapped in soft slumber. He laid hands on her, and
@@ -185,7 +185,7 @@ his steed again and ride towards the land of the giants.
 As he went through the forest a beauteous maid came running towards him.
 Swift were her steps, and her face was pale and terror-stricken, because
 that she was pursued by the giant Fasold, Ecke's brother, and his fierce
-hounds. <span id="fr_116"></span>[1](#fn_116)
+hounds. <span id="fr_116"></span>[1](#fn_116.md)
 
 Dietrich gave the maiden his protection, and went against the giant who
 pursued her. When Fasold beheld the prince clad in Ecke's armour, he
@@ -251,7 +251,7 @@ the
 
 prince a while. Then Dietrich crouched under its stomach and stabbed
 there with the keen sword Ecke, making nimble escape as the beast fell
-to die. <span id="fr_117"></span>[1](#fn_117)
+to die. <span id="fr_117"></span>[1](#fn_117.md)
 
 Then Dietrich and Fasold went on their way. They next beheld a great
 dragon flying towards them. It was flying very low, and in its jaws it
@@ -309,7 +309,7 @@ rode with Sintram towards Bern.
 
 Heime came forth to meet Dietrich and greeted him with such warmth that
 Dietrich gave unto him the sword Naglering, which Alberich <span
-id="fr_118"></span>[1](#fn_118) had forged for the giant Grim. Ecke-sax
+id="fr_118"></span>[1](#fn_118.md) had forged for the giant Grim. Ecke-sax
 he did keep for himself.
 
 Witege was ill-pleased because that his fellow knight was thus honoured.
@@ -347,8 +347,8 @@ and held them all in captivity.
 
 ### Footnotes
 
-<span id="fn_115"></span>[418:1](tml43.htm#fr_115) This story was
-[originally](errata.htm#4) a storm myth, in which Dietrich was Thunor
+<span id="fn_115"></span>[418:1](tml43.htm#fr_115.md) This story was
+[originally](errata.htm#4.md) a storm myth, in which Dietrich was Thunor
 (Thor), and Ecke a tempest. The three princesses are the giant maids of
 a Tyrolese folk tale, who brew storms on Jochgrimm mountain. A Highland
 hag is also a storm-brewer. She is associated with the first week of
@@ -357,7 +357,7 @@ south-westerly gales and, according to a local saying, still current,
 "harries the crooks" (empties the pots) of the fisher-folk who can't go
 to sea.
 
-<span id="fn_116"></span>[419:1](tml43.htm#fr_116) Another nature myth.
+<span id="fn_116"></span>[419:1](tml43.htm#fr_116.md) Another nature myth.
 So do the maidens of the Boyne, Tay, Ness, and other rivers flee before
 the outraged well demon, who may be a giant, a dragon, or a kelpic,
 because they had neglected, when drawing water, a ceremonial observance,
@@ -365,14 +365,14 @@ or had committed a theft. Probably the Severn story, as related by
 Geoffrey of Monmouth, was originally of similar character. There are
 also Greek parallels.
 
-<span id="fn_117"></span>[421:1](tml43.htm#fr_117) So was the dragon in
+<span id="fn_117"></span>[421:1](tml43.htm#fr_117.md) So was the dragon in
 Beowulf and the Fafner dragon, which Sigurd stabbed, put to death. The
 underpart only can be mortally wounded.
 
-<span id="fn_118"></span>[422:1](tml43.htm#fr_118) Alberich was called
+<span id="fn_118"></span>[422:1](tml43.htm#fr_118.md) Alberich was called
 in French legend Auberon. Spenser introduced him to this country as
 Oberon. Alberich signifies "elf King".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIX. The Wonderful Rose Garden](tml44)
+[Next: Chapter XXXIX. The Wonderful Rose Garden](tml44.md)

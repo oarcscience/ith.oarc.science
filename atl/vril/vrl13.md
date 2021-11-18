@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl12)  [Next](vrl14) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl12)  [Next](vrl14.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ Classification,' sect. xvii, p. 97-99.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XV](vrl14)
+[Next: CHAPTER XV](vrl14.md)

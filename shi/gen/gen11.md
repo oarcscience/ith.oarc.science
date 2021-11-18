@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen10)  [Next](gen12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen10)  [Next](gen12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -46,8 +46,8 @@ This change in the reigning Emperor, and the gradual advancement of
 Genji's position, gave the latter greater responsibility, and he had to
 restrain his wandering.
 
-Now, according to usage, the Saigû <span id="fr_80"></span>[1](#fn_79)
-and Saiin <span id="fr_81"></span>[2](#fn_80) were selected; for the
+Now, according to usage, the Saigû <span id="fr_80"></span>[1](#fn_79.md)
+and Saiin <span id="fr_81"></span>[2](#fn_80.md) were selected; for the
 latter the second sister of the Emperor was chosen, and for the former
 the only daughter of the Lady of Rokjiô, whose husband had been a Royal
 Prince.
@@ -95,7 +95,7 @@ the Ichijiô road was made almost spaceless. When, however, the carriages
 of the Lady Aoi's party appeared, her attendants ordered several others
 to make way, and forced a passage to the spot where the best view could
 be obtained, and where the common people were not allowed. Among these
-happened to be two *ajir*o <span id="fr_82"></span>[3](#fn_81)
+happened to be two *ajir*o <span id="fr_82"></span>[3](#fn_81.md)
 carriages, and their inmates were plainly incognito and persons of rank.
 
 These belonged to the party of the Lady of Rokjiö. When these carriages
@@ -145,7 +145,7 @@ feel a bitter disdain and jealousy towards the Lady Aoi. Strange to say,
 that from about the same time, Lady Aoi became ill, and began to suffer
 from spiritual influences. All sorts of exorcisms were duly performed,
 and some spirits came forth and gave their names. But among them was a
-spirit, apparently a "living one," <span id="fr_83"></span>[4](#fn_82)
+spirit, apparently a "living one," <span id="fr_83"></span>[4](#fn_82.md)
 which obstinately refused to be transmitted to the
 
 <span id="page_150">p. 150</span>
@@ -248,7 +248,7 @@ To return to the Lady of Rokjiô. When she heard of the safe delivery of
 Lady Aoi, a slightly jealous feeling once more seemed to vex her; and
 when she began to move about, she could not understand how it was, but
 she perceived that her dress was scented with a strange odor. <span
-id="fr_84"></span>[5](#fn_83) She thought this most surprising, and took
+id="fr_84"></span>[5](#fn_83.md) She thought this most surprising, and took
 baths and changed her dress, in order to get rid of it; but the odor
 soon returned, and she was disgusted with herself.
 
@@ -335,7 +335,7 @@ This was soon responded to by Genji:—
 </div>
 
 There was among the faded plants of the garden a solitary
-Rindô-nadeshko. <span id="fr_85"></span>[6](#fn_84) When Tô-no-Chiûjiô
+Rindô-nadeshko. <span id="fr_85"></span>[6](#fn_84.md) When Tô-no-Chiûjiô
 had gone, Genji picked this flower, and sent it to his mother-in-law by
 the nurse of the infant child, with the following:—
 
@@ -345,7 +345,7 @@ the nurse of the infant child, with the following:—
     Survives alone this lovely flower,  
   Departed autumn's cherished gem,  
     Symbol of joy's departed hour." <span
-id="fr_86"></span>[7](#fn_85)</span>
+id="fr_86"></span>[7](#fn_85.md)</span>
 
 </div>
 
@@ -442,7 +442,7 @@ to notice
 <span id="page_156">p. 156</span>
 
 the difference, and for their daily amusement either Go or
-[Hentski](errata.htm#0) <span id="fr_87"></span>[8](#fn_86) was resorted
+[Hentski](errata.htm#0) <span id="fr_87"></span>[8](#fn_86.md) was resorted
 to, and sometimes they would play on till late in the evening.
 
 Some weeks thus passed away, and there was one morning when Violet did
@@ -462,7 +462,7 @@ white wood.
 
 He called Koremitz before him and said, "To-day is not a very opportune
 day; I would rather have them to-morrow evening. Do send in some
-to-morrow. <span id="fr_88"></span>[9](#fn_87) It need not be of so many
+to-morrow. <span id="fr_88"></span>[9](#fn_87.md) It need not be of so many
 colors." So saying, he smiled a little, and sharp Koremitz soon
 understood what he meant. And this he accordingly did on the morrow, on
 a beautiful flower-waiter.
@@ -486,16 +486,16 @@ bring this about.
 
 ### Footnotes
 
-<span id="fn_79"></span>[147:1](gen11.htm#fr_80) The sacred virgin of
+<span id="fn_79"></span>[147:1](gen11.htm#fr_80.md) The sacred virgin of
 the temple of Ise.
 
-<span id="fn_80"></span>[147:2](gen11.htm#fr_81) The same of Kamo, which
+<span id="fn_80"></span>[147:2](gen11.htm#fr_81.md) The same of Kamo, which
 is situated in the neighborhood of Kiôto, the then capital.
 
-<span id="fn_81"></span>[148:3](gen11.htm#fr_82) "Ajiro" means woven
+<span id="fn_81"></span>[148:3](gen11.htm#fr_82.md) "Ajiro" means woven
 bamboo, and here it signifies a carriage made of woven bamboo.
 
-<span id="fn_82"></span>[149:4](gen11.htm#fr_83) Before proceeding with
+<span id="fn_82"></span>[149:4](gen11.htm#fr_83.md) Before proceeding with
 the story, it is necessary for the reader to peruse the following note:
 In Japan there existed. and still more or less exists, a certain
 superstition which is entertained, that the spirits of the dead have the
@@ -532,24 +532,24 @@ unconnected with the crime done upon them, and may cause them suffering,
 or even spirits, who from any cause, are unable to obtain rest, may do
 the same thing.
 
-<span id="fn_83"></span>[152:5](gen11.htm#fr_84) In the ceremony of
+<span id="fn_83"></span>[152:5](gen11.htm#fr_84.md) In the ceremony of
 exorcism a sacred perfume is burnt, and it was this scent which the Lady
 of Rokjiô perceived in her garment because her spirit was supposed to go
 to and fro between herself and Lady Aoi, and to bring with it the smell
 of this perfume.
 
-<span id="fn_84"></span>[154:6](gen11.htm#fr_85) A kind of pink; some
+<span id="fn_84"></span>[154:6](gen11.htm#fr_85.md) A kind of pink; some
 translate it Gentian.
 
-<span id="fn_85"></span>[154:7](gen11.htm#fr_86) Here the flower is
+<span id="fn_85"></span>[154:7](gen11.htm#fr_86.md) Here the flower is
 compared to the child, and autumn to the mother.
 
-<span id="fn_86"></span>[156:8](gen11.htm#fr_87) "Hentski," a children's
+<span id="fn_86"></span>[156:8](gen11.htm#fr_87.md) "Hentski," a children's
 game. It consists in choosing beforehand a "hen" or half-character,
 opening a book and seeing which of the players can most quickly pick out
 the words beginning with this "hen."
 
-<span id="fn_87"></span>[156:9](gen11.htm#fr_88) It seemed to have been
+<span id="fn_87"></span>[156:9](gen11.htm#fr_88.md) It seemed to have been
 the ancient custom, that on the third night of a wedding, the same kind
 of rice cake, but only of one color, was served up.
 
@@ -557,6 +557,6 @@ of rice cake, but only of one color, was served up.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: Divine Tree](gen12)
+[Next: Chapter X: Divine Tree](gen12.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca14)  [Next](ntca16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca14)  [Next](ntca16.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,12 +55,12 @@ When it is known who the culprit is a Kurdaitcha party may be arranged
 to avenge the death. This custom is, so the natives say, much less
 frequently carried out at the present day than in former years, and in
 the southern parts of the tribe seems to have died out altogether. <span
-id="fr_160"></span>[1](#fn_160) When it is decided who is guilty, a
+id="fr_160"></span>[1](#fn_160.md) When it is decided who is guilty, a
 council of the old men of the group to which the dead man belonged is
 held and, if it be decided that vengeance is to be exacted by means of a
 Kurdaitcha party, then the man who is to play this part is chosen. The
 name Kurdaitcha is applied to the latter <span
-id="fr_161"></span>[2](#fn_161) and he wears the shoes to which by white
+id="fr_161"></span>[2](#fn_161.md) and he wears the shoes to which by white
 men the name of Kurdaitcha shoes has been given. In the north the native
 name for them is *Interlinia* and in the south *Intathurta*.
 
@@ -100,7 +100,7 @@ amongst the Macdonnell Ranges, all of which show the remarkable
 peculiarity of the dislocation. In correspondence with this is the fact
 that the true Kurdaitcha shoe has, at one side, a small opening made in
 the hair network through which the toe is thrust. <span
-id="fr_162"></span>[1](#fn_162)
+id="fr_162"></span>[1](#fn_162.md)
 
 Each Kurdaitcha man when going on his errand is accompanied by a
 medicine man and the two men are rubbed over with charcoal—black being
@@ -648,7 +648,7 @@ parts in constant fear of being surprised and put to death. At Charlotte
 Waters, for example, there has been in recent years a case of this kind.
 One of the finest men of the group carried off a woman who was not his
 lawful *Unawa*, both the man and the woman belonging to the Purula
-class. <span id="fr_163"></span>[1](#fn_163) For two or three years the
+class. <span id="fr_163"></span>[1](#fn_163.md) For two or three years the
 two led a wandering life away from the usual haunts and several attempts
 were made to kill them, the woman being very severely wounded
 
@@ -665,7 +665,7 @@ quarrels occur in which he is concerned he is often taunted with being
 
 ### Footnotes
 
-<span id="fn_160"></span>[477:1](ntca15.htm#fr_160) An excellent account
+<span id="fn_160"></span>[477:1](ntca15.htm#fr_160.md) An excellent account
 of the Kurdaitcha custom as it formerly existed in the southern part of
 the Arunta tribe has already been published by Mr. P. M. Byrne, *Proc.
 Roy. Soc., Victoria*, vol. iii. (new series), p. 65. Various accounts
@@ -677,19 +677,19 @@ Expedition*. An interesting account containing various ideas with regard
 to the shoes is given by Mr. R. Etheridge, jun., *Proc. Linn. Soc*.
 N.S.W., 1894, p. 544.
 
-<span id="fn_161"></span>[477:2](ntca15.htm#fr_161) In the Urabunna
+<span id="fn_161"></span>[477:2](ntca15.htm#fr_161.md) In the Urabunna
 tribe the same custom prevails, but the name Kūthi is given to the man.
 
-<span id="fn_162"></span>[478:1](ntca15.htm#fr_162) A considerable
+<span id="fn_162"></span>[478:1](ntca15.htm#fr_162.md) A considerable
 number of these shoes are made apparently more for models than for use,
 and such are usually much too small to be worn on a native foot, and do
 not have the small hole, though probably this is not made until the time
 of actual use.
 
-<span id="fn_163"></span>[495:1](ntca15.htm#fr_163) They were, according
+<span id="fn_163"></span>[495:1](ntca15.htm#fr_163.md) They were, according
 to our terms of relationship, cousins. Their mothers were the daughters
 of the same woman by different husbands.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Customs Relating to Burial and Mourning](ntca16)
+[Next: Chapter XIV. Customs Relating to Burial and Mourning](ntca16.md)

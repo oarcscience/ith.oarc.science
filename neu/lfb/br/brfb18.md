@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb17)  [Next](brfb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb17)  [Next](brfb19.md) 
 
 </div>
 
@@ -230,6 +230,6 @@ ix., pp. 613-365.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Elf Maiden](brfb19)
+[Next: The Elf Maiden](brfb19.md)
 
 </div>

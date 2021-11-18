@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac09)  [Next](ybac11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac09)  [Next](ybac11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ which the principal building is called Cuculcán.
 
 [![THE PYRAMID OF KUKULCAN.&lt;br&gt; As restored by the Mexican
 Government, under the direction of Don Eduardo Martinez](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 THE PYRAMID OF KUKULCAN.  
 As restored by the Mexican Government, under the direction of Don
 Eduardo Martinez  
@@ -52,7 +52,7 @@ was <span id="img_01001"></span>
 
 |                           |
 |---------------------------|
-| ![MAYAPAN](img/01001.jpg) |
+| ![MAYAPAN](img/01001.jpg.md) |
 
 low. In the middle of the enclosure they
 
@@ -98,11 +98,11 @@ did Cuculcán leave a perpetual memory in Yucatan.
 
 [![CARACOL AT CHICHEN ITZA. As uncovered under the care of the Carnegie
 Institution of Washington](tn/01101.jpg)  
-Click to enlarge](img/01101.jpg)  
+Click to enlarge](img/01101.jpg.md)  
 CARACOL AT CHICHEN ITZA. As uncovered under the care of the Carnegie
 Institution of Washington  
 
 ------------------------------------------------------------------------
 
 [Next: VII. Government, Priesthood, Sciences, Letters and Books in
-Yucatan](ybac11)
+Yucatan](ybac11.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar098) [Next](gbar100)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar098) [Next](gbar100.md)
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ and so abode ten years mourning.
 
 ------------------------------------------------------------------------
 
-[Next](gbar100)
+[Next](gbar100.md)

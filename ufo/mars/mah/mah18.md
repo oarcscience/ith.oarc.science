@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah17)  [Next](mah19) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah17)  [Next](mah19.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,4 +166,4 @@ Divine, the culmination of God's handiwork.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: The Risen Christ](mah19)
+[Next: Chapter XVI: The Risen Christ](mah19.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc113) 
-[Next](motc115) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc113.md) 
+[Next](motc115.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ hidden, now so far decayed that it had to be thrown away.
 
 ------------------------------------------------------------------------
 
-[Next: 115. The Two Old Men](motc115)
+[Next: 115. The Two Old Men](motc115.md)

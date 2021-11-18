@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar58)  [Next](gar60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar58)  [Next](gar60.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ was the aforesaid convocation in London the real commencement of its
 existence. This final organisation was only the adaptation to a special
 end of another society, then in fullest bloom, the *Rosicrucian*. If we
 reflect how rankly both astrology and alchemy were flourishing at that
-time in England, <span id="fr_235"></span>[\*](#fn_233) and that the
+time in England, <span id="fr_235"></span>[\*](#fn_233.md) and that the
 Rosicrucian sect was essentially of *Protestant* growth, we may on good
 grounds conclude that this sect already numbered many English members
 from amongst the educated classes and the philosophers of the
@@ -36,7 +36,7 @@ day. These last were for the most part ardent Royalists, hating the
 established order of things, joined with many fanatical Republicans
 equally impatient of the new despotism of Cromwell. In the Rosicrucian
 system Religion and Philosophy, the latter meaning little more than
-astrology and alchemy, <span id="fr_236"></span>[\*](#fn_234) were
+astrology and alchemy, <span id="fr_236"></span>[\*](#fn_234.md) were
 strangely interwoven, and the terminology of the one was borrowed to
 express the ideas and aspirations of the other. This hypothesis is
 strongly recommended from its adoption by the acute De Quincey in his
@@ -53,9 +53,9 @@ regarded as the higher authority of the two.
 
 The latter writer has given in his 'Tempel-Herren' what appears to be
 the best supported account of the rise <span
-id="fr_237"></span>[†](#fn_235) and progress of Rosicrucianism. He
+id="fr_237"></span>[†](#fn_235.md) and progress of Rosicrucianism. He
 points out for its founder a Lutheran mystic, J. V. Andreæ, <span
-id="fr_238"></span>[‡](#fn_236) almoner to the Duke of
+id="fr_238"></span>[‡](#fn_236.md) almoner to the Duke of
 
 <span id="page_394">p. 394</span>
 
@@ -69,7 +69,7 @@ astrologers and alchemists (in other words the wealthy and the learned
 of the age, when the Emperor Rudolf II. was the greatest patron of the
 "curious arts" ever recorded in history) in order to employ them on the
 furtherance of a visionary scheme of his own. This scheme was the fusion
-of all Christian sects <span id="fr_239"></span>[\*](#fn_237) into one
+of all Christian sects <span id="fr_239"></span>[\*](#fn_237.md) into one
 universal brotherhood, and the projector wisely commenced his
 apostleship by attempting to bring over to his side the most eminent of
 the mass, by the utilization of such ancient and venerated machinery.
@@ -88,7 +88,7 @@ insignia, which have an important bearing upon the subject of our
 inquiry. The Rosicrucians, says Boyle, make their founder to have been a
 certain German, only known as A. C., who having gone to Damascus in the
 year 1387, was instructed in their mysteries by the *College of Arabian
-Sages* <span id="fr_240"></span>[†](#fn_238)
+Sages* <span id="fr_240"></span>[†](#fn_238.md)
 
 <span id="page_395">p. 395</span>
 
@@ -110,14 +110,14 @@ Vultum Triformem."
 
 ### Footnotes
 
-<span id="fn_233"></span>[392:\*](gar59.htm#fr_235) Oxford produced the
+<span id="fn_233"></span>[392:\*](gar59.htm#fr_235.md) Oxford produced the
 two great lights of the Hermetic philosophy, Robert de Fluctibus
 (Fludd), and his contemporary Eugenius Philaethes (Thos. Vaughan). The
 latter, born in 1612, is said by a writer of the year 1749 to be then
 living at Nuremberg, as the president of the *illuminated* throughout
 the world.
 
-<span id="fn_234"></span>[393:\*](gar59.htm#fr_236) The position of the
+<span id="fn_234"></span>[393:\*](gar59.htm#fr_236.md) The position of the
 latter science in this century cannot be more strongly exemplified than
 by the actual existence of current coins declaring themselves to be made
 out of Hermetic metal by the symbols for mercury and lead (Ψ ♄) stamped
@@ -127,7 +127,7 @@ of the city of Erfurt. This subject has been well handled by Martin Reg
 in his memoir, "Anciennes Pièces Hermétiques," 'Revue Numismatique' for
 1867.
 
-<span id="fn_235"></span>[393:†](gar59.htm#fr_237) 'The Rosicrucians:
+<span id="fn_235"></span>[393:†](gar59.htm#fr_237.md) 'The Rosicrucians:
 their Rites and Mysteries; with Chapters on the ancient Fire-and-Serpent
 Worshippers, and explanations of the Mystic Symbols represented in the
 Monuments and Talismans of the Primeval Philosophers.' By Hargrave
@@ -138,17 +138,17 @@ The compiler has, moreover, laid my 'Gnostics' largely under
 contribution, and even reproduced my engravings with sundry fanciful
 improvements that wonderfully heighten their mystic value.
 
-<span id="fn_236"></span>[393:‡](gar59.htm#fr_238) Solomon Somber,
+<span id="fn_236"></span>[393:‡](gar59.htm#fr_238.md) Solomon Somber,
 however, in <span id="page_394">p. 394</span> his 'Collections for the
 History of Rosicrucianism,' assigns a fabulous antiquity to the sect.
 
-<span id="fn_237"></span>[394:\*](gar59.htm#fr_239) Exactly the same
+<span id="fn_237"></span>[394:\*](gar59.htm#fr_239.md) Exactly the same
 scheme, based upon Judaism, is the crime that now keeps in perpetual
 imprisonment Nicholas Ilvin, the far-famed "Convent Spectre" of
 Solovetsk in the Frozen Sea, universally believed in Russia to be the
 lost Grand Duke Constantine.--(Dixon's 'Free Russia.')
 
-<span id="fn_238"></span>[394:†](gar59.htm#fr_240) This tradition may
+<span id="fn_238"></span>[394:†](gar59.htm#fr_240.md) This tradition may
 have some truth in it, allowing for an error of locality. At *Cairo* the
 Fatemite sultans (Ismaelites be it remembered) had three centuries
 before this date <span id="page_395">p. 395</span> founded the far-famed
@@ -166,4 +166,4 @@ officials.
 
 ------------------------------------------------------------------------
 
-[Next: The Templars](gar60)
+[Next: The Templars](gar60.md)

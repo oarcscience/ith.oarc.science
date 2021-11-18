@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr61)  [Next](corr63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr61)  [Next](corr63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### LETTER LXIV. (LX.)
 
-#### SPINOZA TO \* \* \* \* \*. <span id="fr_68"></span>[1](#fn_67)
+#### SPINOZA TO \* \* \* \* \*. <span id="fr_68"></span>[1](#fn_67.md)
 
 \[*The difference between a true and an adequate idea is merely
 extrinsic, &c*. *The Hague*, *Jan*., 1675.\]
@@ -72,8 +72,8 @@ will necessarily be the most difficult to discover, &c.
 
 ### Footnotes
 
-<span id="fn_67"></span>[395:1](corr62.htm#fr_68) Tschirnhausen.
+<span id="fn_67"></span>[395:1](corr62.htm#fr_68.md) Tschirnhausen.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXV. From G. H. Schaller](corr63)
+[Next: Letter LXV. From G. H. Schaller](corr63.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](aes)  [Next](epj) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](aes)  [Next](epj.md) 
 
 ------------------------------------------------------------------------
 
@@ -521,4 +521,4 @@ him.'"
 
 ------------------------------------------------------------------------
 
-[Next: Epistle of Jeremiah](epj)
+[Next: Epistle of Jeremiah](epj.md)

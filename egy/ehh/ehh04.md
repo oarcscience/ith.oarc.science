@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh03)  [Next](ehh05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh03)  [Next](ehh05.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ attention, and the results of their views are set forth in the copies of
 PER-EM-HRU, or the Theban Book of the Dead, which have come down to us.
 
 In one of the oldest copies of PER-EM-HRU, i.e., in the Papyrus of
-Nu, <span id="fr_8"></span>[1](#fn_8) is a vignette of the Seven
+Nu, <span id="fr_8"></span>[1](#fn_8.md) is a vignette of the Seven
 *Arits*, or divisions of Sekhet-Aaru; the portion shown of each *Arit*
 is the door, or gate, which is guarded by a gatekeeper, by a watcher,
 who reports the arrival of every comer, and by a herald, who receives
@@ -58,7 +58,7 @@ Herald. HU-KHERU.
  
 
 <span id="img_02900"></span> [![](tn/generic.jpg)  
-Click to view](img/02900.jpg)  
+Click to view](img/02900.jpg.md)  
 The Seven Arits, each with its Gatekeeper, its Watcher, and its Herald.
 
  
@@ -102,7 +102,7 @@ Watcher. AAA-KHERU.
 Herald. KHESEF-HRA-KHEMIU.
 
 From another place in the same papyrus, <span
-id="fr_9"></span>[1](#fn_9) and from other papyri, we learn that the
+id="fr_9"></span>[1](#fn_9.md) and from other papyri, we learn that the
 "Secret Gates of the House of Osiris in Sekhet-Aaru" were twenty-one in
 number; the Chapter (CXLVI.) gives the name of each Gate, and also that
 of each Gatekeeper up to No. X., thus:--
@@ -121,11 +121,11 @@ Gatekeeper. MES-PEH. (or, MES-PTAH).
  
 
 <span id="img_03200"></span> [![](tn/generic.jpg)  
-Click to view](img/03200.jpg)  
+Click to view](img/03200.jpg.md)  
 Gate I.
 
 <span id="img_03201"></span> [![](tn/generic.jpg)  
-Click to view](img/03201.jpg)  
+Click to view](img/03201.jpg.md)  
 Gate II.
 
  
@@ -145,11 +145,11 @@ Gatekeeper. NEKAU.
  
 
 <span id="img_03300"></span> [![](tn/generic.jpg)  
-Click to view](img/03300.jpg)  
+Click to view](img/03300.jpg.md)  
 Gate III.
 
 <span id="img_03301"></span> [![](tn/generic.jpg)  
-Click to view](img/03301.jpg)  
+Click to view](img/03301.jpg.md)  
 Gate IV.
 
  
@@ -161,11 +161,11 @@ Gatekeeper. HENTI-REQU.
  
 
 <span id="img_03302"></span> [![](tn/generic.jpg)  
-Click to view](img/03302.jpg)  
+Click to view](img/03302.jpg.md)  
 Gate V.
 
 <span id="img_03303"></span> [![](tn/generic.jpg)  
-Click to view](img/03303.jpg)  
+Click to view](img/03303.jpg.md)  
 Gate VI.
 
  
@@ -180,11 +180,11 @@ Gatekeeper. SMAMTI.
  
 
 <span id="img_03400"></span> [![](tn/generic.jpg)  
-Click to view](img/03400.jpg)  
+Click to view](img/03400.jpg.md)  
 Gate VII.
 
 <span id="img_03401"></span> [![](tn/generic.jpg)  
-Click to view](img/03401.jpg)  
+Click to view](img/03401.jpg.md)  
 Gate VIII.
 
  
@@ -208,11 +208,11 @@ Gatekeeper. TCHESEF.
  
 
 <span id="img_03500"></span> [![](tn/generic.jpg)  
-Click to view](img/03500.jpg)  
+Click to view](img/03500.jpg.md)  
 Gate IX.
 
 <span id="img_03501"></span> [![](tn/generic.jpg)  
-Click to view](img/03501.jpg)  
+Click to view](img/03501.jpg.md)  
 Gate X.
 
  
@@ -224,7 +224,7 @@ Gatekeeper. SEKHEN-UR.
 
 XI\. *Gate*.
 NEMT-TESU-UBTET-SEBAU-HENT-ENT-SEBKHET-NEBT-ARU-NES-AHEHI-HRU-EN-ANKHEKH. <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 <span id="page_36">p. 36</span>
 
@@ -289,7 +289,7 @@ In addition to the Seven Arits, and the Ten, Fourteen, or Twenty-one
 Gates (according to the manuscript authority followed), the
 Sekhet-Hetepet possessed Fourteen or Fifteen Aats, or Regions, each of
 which was presided over by a god. Their names, as given in the Papyrus
-of Nu, <span id="fr_11"></span>[1](#fn_11) are as follows:--
+of Nu, <span id="fr_11"></span>[1](#fn_11.md) are as follows:--
 
 Aat I. AMENTET wherein a man lived on cakes and ale; its god was
 AMSU-QET, or MENU-QET.
@@ -300,11 +300,11 @@ cubits high, the barley
  
 
 <span id="img_03800"></span> [![](tn/generic.jpg)  
-Click to view](img/03800.jpg)  
+Click to view](img/03800.jpg.md)  
 Aat I.
 
 <span id="img_03801"></span> [![](tn/generic.jpg)  
-Click to view](img/03801.jpg)  
+Click to view](img/03801.jpg.md)  
 Aat II.
 
  
@@ -324,15 +324,15 @@ god was probably OSIRIS.
  
 
 <span id="img_03900"></span> [![](tn/generic.jpg)  
-Click to view](img/03900.jpg)  
+Click to view](img/03900.jpg.md)  
 Aat III.
 
 <span id="img_03901"></span> [![](tn/generic.jpg)  
-Click to view](img/03901.jpg)  
+Click to view](img/03901.jpg.md)  
 Aat IV.
 
 <span id="img_03902"></span> [![](tn/generic.jpg)  
-Click to view](img/03902.jpg)  
+Click to view](img/03902.jpg.md)  
 Aat V.
 
  
@@ -351,15 +351,15 @@ Aat as HA-SERT, and that of its god as FA-PET.
  
 
 <span id="img_03903"></span> [![](tn/generic.jpg)  
-Click to view](img/03903.jpg)  
+Click to view](img/03903.jpg.md)  
 Aat VI.
 
 <span id="img_03904"></span> [![](tn/generic.jpg)  
-Click to view](img/03904.jpg)  
+Click to view](img/03904.jpg.md)  
 Aat VII.
 
 <span id="img_03905"></span> [![](tn/generic.jpg)  
-Click to view](img/03905.jpg)  
+Click to view](img/03905.jpg.md)  
 Aat VIII.
 
  
@@ -369,11 +369,11 @@ Aat VIII.
  
 
 <span id="img_04000"></span> [![](tn/generic.jpg)  
-Click to view](img/04000.jpg)  
+Click to view](img/04000.jpg.md)  
 Aat IX.
 
 <span id="img_04001"></span> [![](tn/generic.jpg)  
-Click to view](img/04001.jpg)  
+Click to view](img/04001.jpg.md)  
 Aat X.
 
  
@@ -394,11 +394,11 @@ ASTCHETET-EM-AMENT.
  
 
 <span id="img_04002"></span> [![](tn/generic.jpg)  
-Click to view](img/04002.jpg)  
+Click to view](img/04002.jpg.md)  
 Aat XI.
 
 <span id="img_04003"></span> [![](tn/generic.jpg)  
-Click to view](img/04003.jpg)  
+Click to view](img/04003.jpg.md)  
 Aat XII.
 
  
@@ -420,11 +420,11 @@ Kher-aha, represents a region quite
  
 
 <span id="img_04100"></span> [![](tn/generic.jpg)  
-Click to view](img/04100.jpg)  
+Click to view](img/04100.jpg.md)  
 Aat XIII.
 
 <span id="img_04101"></span> [![](tn/generic.jpg)  
-Click to view](img/04101.jpg)  
+Click to view](img/04101.jpg.md)  
 Aat XIV.
 
  
@@ -467,7 +467,7 @@ funeral papyri of the XVIIIth Dynasty, much is known, and they
 <span id="page_43">p. 43</span>
 
 may now be briefly described. From the Papyrus of Nebseni <span
-id="fr_12"></span>[1](#fn_12) we learn that Sekhet-hetep was rectangular
+id="fr_12"></span>[1](#fn_12.md) we learn that Sekhet-hetep was rectangular
 in shape, and that it was intersected by canals, supplied from the
 stream by which the whole region was enclosed. In one division were
 three pools of water,
@@ -475,7 +475,7 @@ three pools of water,
  
 
 <span id="img_04300"></span> [![](tn/generic.jpg)  
-Click to view](img/04300.jpg)  
+Click to view](img/04300.jpg.md)  
 Sekhet-Hetepet (Papyrus of Nebseni, British Museum, No. 9900, sheet 17).
 
  
@@ -514,7 +514,7 @@ Sekhet--winds for the nostrils." The second division contains scenes
  
 
 <span id="img_04500"></span> [![](tn/generic.jpg)  
-Click to view](img/04500.jpg)  
+Click to view](img/04500.jpg.md)  
 Sekhet-Hetepet (Papyrus of Ani, British Museum, No. 10,740, sheet 32).
 
  
@@ -552,7 +552,7 @@ may I reap therein, may I fight therein, may I make love therein, may my
 words be powerful therein, may I never be in a state of servitude
 therein, and may I be in authority therein . . . . . . \[Let me\] live
 with the god Hetep, clothed, and not despoiled by the 'lords of the
-north,' <span id="fr_13"></span>[1](#fn_13) and may the lords of divine
+north,' <span id="fr_13"></span>[1](#fn_13.md) and may the lords of divine
 things bring food unto me. May he make me to go forward and may I come
 forth; may he bring my power to me there, may I receive it, and may my
 equipment be from the god Hetep. May I gain dominion over the great and
@@ -620,7 +620,7 @@ offerings in the
 
 <span id="page_51">p. 51</span>
 
-temples, <span id="fr_14"></span>[1](#fn_14) and he hath done no evil by
+temples, <span id="fr_14"></span>[1](#fn_14.md) and he hath done no evil by
 deed or word whilst he was upon earth." The gods in their reply accept
 Thoth's report, and declare that, so far as they are concerned, Ani has
 committed neither sin nor evil. Further, they go on to say that he shall
@@ -673,7 +673,7 @@ but whether this difference is due to some general
  
 
 <span id="img_05300"></span> [![](tn/generic.jpg)  
-Click to view](img/05300.jpg)  
+Click to view](img/05300.jpg.md)  
 Sekhet-hetepet, showing the Sekhet-Aaru, with the magical boat and
 flight of steps, the birthplace of the gods, &c. (From the inner coffin
 of Kua-tep, British Museum, No. 30,840.)
@@ -685,7 +685,7 @@ of Kua-tep, British Museum, No. 30,840.)
  
 
 <span id="img_05500"></span> [![](tn/generic.jpg)  
-Click to view](img/05500.jpg)  
+Click to view](img/05500.jpg.md)  
 Sekhet-hetepet, showing the Sekhet-Aaru with the magical boat, the nine
 lakes, the birthplace of the gods, &c. (From the outer coffin of Sen,
 British Museum, No. 30,841.)
@@ -715,7 +715,7 @@ custom, or tradition had sanctioned.
 Certain examples, however, prove that the Egyptians of one period were
 not afraid to modify or develop ideas which had come down to them from
 another, as may be seen from the accompanying illustration. The picture
-which is reproduced on [p. 53](#page_53) is intended to represent
+which is reproduced on [p. 53](#page_53.md) is intended to represent
 Sekhet-hetepet, and is taken from the inner coffin of Kua-Tep, which was
 found at Al-Barsha, and is now
 
@@ -751,7 +751,7 @@ therefore the artist
  
 
 <span id="img_05900"></span> [![](tn/generic.jpg)  
-Click to view](img/05900.jpg)  
+Click to view](img/05900.jpg.md)  
 Sekhet-hetepet. (From the Papyrus of Anhai--XXIInd Dynasty.)
 
  
@@ -761,7 +761,7 @@ Sekhet-hetepet. (From the Papyrus of Anhai--XXIInd Dynasty.)
  
 
 <span id="img_06100"></span> [![](tn/generic.jpg)  
-Click to view](img/06100.jpg)  
+Click to view](img/06100.jpg.md)  
 Sekhet-hetepet. (From the Turin Papyrus-Ptolemaïc Period.)
 
  
@@ -772,7 +772,7 @@ added scenes in which he is depicted doing these things; and the lower
 part of the picture in the Papyrus has been modified considerably. In
 the second division it may be noted that Nebseni is seen laying both
 hands on the back of the Bennu bird; there is no authority for this in
-the older copy of the picture. In the illustration on [p. 55](#page_55),
+the older copy of the picture. In the illustration on [p. 55](#page_55.md),
 which is reproduced from the coffin of Sen, in the British Museum (No.
 30,841), a still simpler form of Sekhet-hetepet is seen; here we have
 only nine eyots, which are grouped together, and no inscription of any
@@ -783,31 +783,31 @@ Sekhet-hetepet drawn in later times, and, in order that the reader may
 be enabled to trace some of the most striking of these, copies of
 Sekhet-hetepet from the Papyrus of Anhai (about B.C. 1040), and from
 that of Auf-ankh (Ptolemaïc Period), are reproduced on pp.
-[59](#page_59) and [61](#page_61).
+[59](#page_59) and [61](#page_61.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_8"></span>[28:1](ehh04.htm#fr_8) British Museum, No.
+<span id="fn_8"></span>[28:1](ehh04.htm#fr_8.md) British Museum, No.
 10,477, sheet 26 (Chapter cxliv.).
 
-<span id="fn_9"></span>[31:1](ehh04.htm#fr_9) Sheet 25.
+<span id="fn_9"></span>[31:1](ehh04.htm#fr_9.md) Sheet 25.
 
-<span id="fn_10"></span>[35:1](ehh04.htm#fr_10) The names of the
+<span id="fn_10"></span>[35:1](ehh04.htm#fr_10.md) The names of the
 gatekeepers of Gates XL-XXI. are not given in the papyri.
 
-<span id="fn_11"></span>[38:1](ehh04.htm#fr_11) Sheets 28, 29, and 30.
+<span id="fn_11"></span>[38:1](ehh04.htm#fr_11.md) Sheets 28, 29, and 30.
 
-<span id="fn_12"></span>[43:1](ehh04.htm#fr_12) British Museum, No.
+<span id="fn_12"></span>[43:1](ehh04.htm#fr_12.md) British Museum, No.
 9,900, sheet 17.
 
-<span id="fn_13"></span>[48:1](ehh04.htm#fr_13) Probably the marauding
+<span id="fn_13"></span>[48:1](ehh04.htm#fr_13.md) Probably the marauding
 seamen who traded on the coasts of the Mediterranean, and who sometimes
 landed and pillaged the region near which the primitive Elysian Fields
 were supposed to have been situated.
 
-<span id="fn_14"></span>[51:1](ehh04.htm#fr_14) Ani was the receiver of
+<span id="fn_14"></span>[51:1](ehh04.htm#fr_14.md) Ani was the receiver of
 the ecclesiastical revenues of the gods of Thebes and Abydos, and the
 meaning here is that he did not divert, to his own use any portion of
 the goods he received.
@@ -815,4 +815,4 @@ the goods he received.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Reunion of the Beatified and Their Recognition
-of Each Other in the Other World](ehh05)
+of Each Other in the Other World](ehh05.md)

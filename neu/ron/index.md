@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,20 +25,20 @@ The Rhine-Maidens obtain possession of the ring<br />
 
 ------------------------------------------------------------------------
 
-[Title Page](ron00)  
-[List of Illustrations](ron01)  
+[Title Page](ron00.md)  
+[List of Illustrations](ron01.md)  
 
 ### SIEGFRIED
 
-[Characters](ron02)  
-[The First Act](ron03)  
-[The Second Act](ron04)  
-[The Third Act](ron05)  
+[Characters](ron02.md)  
+[The First Act](ron03.md)  
+[The Second Act](ron04.md)  
+[The Third Act](ron05.md)  
 
 ### TWILIGHT OF THE GODS
 
-[Characters](ron06)  
-[Prelude](ron07)  
-[The First Act](ron08)  
-[The Second Act](ron09)  
-[The Third Act](ron10)  
+[Characters](ron06.md)  
+[Prelude](ron07.md)  
+[The First Act](ron08.md)  
+[The Second Act](ron09.md)  
+[The Third Act](ron10.md)  

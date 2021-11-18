@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs09)  [Next](pbs11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs09)  [Next](pbs11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![K](img/07101.jpg) |
+| ![K](img/07101.jpg.md) |
 
 ENNETH, the third Earl, had occasion to visit Paris on some business
 after the Restoration of King Charles the Second, and after having
@@ -57,7 +57,7 @@ hearty, merry and happy". Being now satisfied that her husband's life
 was safe, she wished Kenneth to describe his appearance; to tell her
 where he was now engaged, and all his surroundings. "Be satisfied," he
 said, "ask no questions, let it suffice you to know that your lord is
-well and merry." "But," [demanded](errata.htm#3) the lady, "where is he?
+well and merry." "But," [demanded](errata.htm#3.md) the lady, "where is he?
 with whom is he? and is he making any preparations for coming home?"
 "Your lord," replied the seer," "is in a magnificent room, in very fine
 company, and far too agreeably employed at present to think of leaving
@@ -185,4 +185,4 @@ whom were contemporaries of the last Lord Seaforth.
 
 ------------------------------------------------------------------------
 
-[Next: The Seer's Death](pbs11)
+[Next: The Seer's Death](pbs11.md)

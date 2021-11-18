@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits052) [Next](bits054)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits052) [Next](bits054.md)
 
 ------------------------------------------------------------------------
 
@@ -199,7 +199,7 @@ Death comes and overpowereth him."<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 54. Friendship](bits054)
+[Next: § 54. Friendship](bits054.md)
 
  
 

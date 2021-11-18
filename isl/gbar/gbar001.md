@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar000) [Next](gbar002)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar000) [Next](gbar002.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ in memory the promises made to Abraham and to his son for ever'.
 
 ------------------------------------------------------------------------
 
-[Next](gbar002)
+[Next](gbar002.md)
 
  
 

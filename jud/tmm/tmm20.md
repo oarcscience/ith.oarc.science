@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm19) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm19.md) 
 
 ------------------------------------------------------------------------
 
@@ -677,7 +677,7 @@ wants to borrow of you, you will perhaps say that since you are not
 permitted to take usury from your own compatriot you may take it from a
 non-Jew. Be assured that such ill-gotten gain will be taken from you;
 probably by the authorities, to erect baths or other sanitary
-buildings <span id="fr_24"></span>[1](#fn_24) for the poor or the
+buildings <span id="fr_24"></span>[1](#fn_24.md) for the poor or the
 stranger.--Tanchum. Mishpotim.
 
 Why, asked Turnus Rufus, a heathen king, of Rabbi Akiba, have we
@@ -868,7 +868,7 @@ Pekudai.
 <span id="page_243">p. 243</span>
 
 'Swear not at all, not even to the truth.' <span
-id="fr_25"></span>[1](#fn_25)--Tanchum. Vayikra.
+id="fr_25"></span>[1](#fn_25.md)--Tanchum. Vayikra.
 
 Future bliss can neither be imagined, explained, or described. We know
 nothing of its nature, form, greatness, or beauty, its quantity or
@@ -1066,7 +1066,7 @@ The harp upon which the Levites played had seven strings.--Tanchum.
 Behaaloscha.
 
 Priests and prophets are designated by the name of מלאד, which simply
-means messenger. <span id="fr_26"></span>[1](#fn_26)--Tanchum. Shelach.
+means messenger. <span id="fr_26"></span>[1](#fn_26.md)--Tanchum. Shelach.
 
 God's behests were to be the guiding principle of the Israelite in all
 his doings throughout his earthly career. Ploughing, sowing, reaping,
@@ -1235,17 +1235,17 @@ greatest of men, did not escape death.--Tanchum. Berocho.
 
 ### Footnotes
 
-<span id="fn_24"></span>[237:1](tmm20.htm#fr_24) It is said in the
+<span id="fn_24"></span>[237:1](tmm20.htm#fr_24.md) It is said in the
 Talmud, Baba Mezia 70, that Chebore, King of Persia, laid his Jewish
 subjects under special tribute, and with the money thus raised he built
 dwellings and other accommodations for the poor. Hence the expression of
 the Midrash, 'it will be taken from you, probably, by the authorities,
 to erect baths or other sanitary buildings.'
 
-<span id="fn_25"></span>[243:1](tmm20.htm#fr_25) Maimonides in his יד
+<span id="fn_25"></span>[243:1](tmm20.htm#fr_25.md) Maimonides in his יד
 החזקה holds a contrary opinion. He says, one *should* swear to truth and
 mentions ובשמו תשבע, "By his name thou shalt swear" (Deut. 10. 21) as a
 commandment.
 
-<span id="fn_26"></span>[248:1](tmm20.htm#fr_26) See also *Moreh
+<span id="fn_26"></span>[248:1](tmm20.htm#fr_26.md) See also *Moreh
 Nebuchim*, vol. 1, cap. 27, and vol. 2, caps. 6 and 42.

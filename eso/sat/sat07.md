@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat06)  [Next](sat08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat06)  [Next](sat08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ which he is himself, and the nature of the inward world is in the like
 essence from eternity.
 
 2\. We give you to understand this of the divine essence; without nature
-God is a mystery, <span id="fr_23"></span>[1](#fn_23) understand in the
+God is a mystery, <span id="fr_23"></span>[1](#fn_23.md) understand in the
 nothing, for without nature is the nothing, which is an eye of eternity,
 an abyssal eye, that stands or sees in the nothing, for it is the abyss;
 and this same eye is a will, understand a longing after manifestation,
@@ -48,7 +48,7 @@ the second form is produced out of the first, which is a desire after
 virtue and power, and is the first will's son, its desire of joyfulness.
 And understand us thus; the desire is egressive, and that which proceeds
 is the spirit of the will and desire, for it is a moving, and the desire
-makes a form <span id="fr_24"></span>[2](#fn_24) in the spirit, viz.
+makes a form <span id="fr_24"></span>[2](#fn_24.md) in the spirit, viz.
 formings of the infinity of the mystery.
 
 4\. And this form \[or likeness\] is the eternal wisdom of the Deity;
@@ -61,7 +61,7 @@ namely, how the abyss, or the Deity, manifests itself with this eternal
 generation; for God is a spirit, and as subtle as a thought or will, and
 nature is his corporeal essence, understand the eternal nature; and the
 outward nature of this visible comprehensible <span
-id="fr_25"></span>[3](#fn_25) world is a manifestation or external birth
+id="fr_25"></span>[3](#fn_25.md) world is a manifestation or external birth
 of the inward spirit
 
 <span id="page_23">p. 23</span>
@@ -78,7 +78,7 @@ property apprehends its mother from whence it is brought forth.
 
 6\. As the soul comprehends the inward eternal nature, and the spirit of
 the soul, viz. the precious image according to God, comprehends <span
-id="fr_26"></span>[1](#fn_26) the birth of the angelical light-world,
+id="fr_26"></span>[1](#fn_26.md) the birth of the angelical light-world,
 and the sidereal and elemental spirit comprehends the birth and property
 of the stars and elements; every eye sees into its mother from whence it
 was brought forth.
@@ -103,12 +103,12 @@ essences.
 
 10\. For Sulphur in the eternal beginning consists in two forms, and so
 also in the outward beginning of this world: viz. in the internal the
-first form, viz. the Sul consists <span id="fr_27"></span>[2](#fn_27) in
+first form, viz. the Sul consists <span id="fr_27"></span>[2](#fn_27.md) in
 the eternal liberty; it is the lubet of the eternal abyss, viz. a will
 or an original to the desire; and the other original is the desire,
 which is the first motion, viz. an hunger to the something; and in this
 same hunger is the eternal beginning to the pregnant nature, <span
-id="fr_28"></span>[3](#fn_28) and it is called Sulphur, viz. a
+id="fr_28"></span>[3](#fn_28.md) and it is called Sulphur, viz. a
 conception of the liberty, viz. of the good, and a conception or
 comprehension of the desire, viz. of the austere attraction in the
 desire.
@@ -135,7 +135,7 @@ And so understand, that in the first desire, which arises in the lubet
 of the liberty, all things are, and are made substantial and essential,
 from whence the creation of this world is proceeded; and we find herein
 the property of the earth, so likewise of all metals and stones, and
-also of the astrum, <span id="fr_29"></span>[1](#fn_29) and the original
+also of the astrum, <span id="fr_29"></span>[1](#fn_29.md) and the original
 of the elements, all out of one only mother, which is the lubet and the
 desire, from whence all things proceeded and still proceed.
 
@@ -168,13 +168,13 @@ austere impression in Mercury, that it is a moving feeling life, and
 that its liberty is sharpened so that it becomes a lustre, which is, and
 causes a kingdom of joy in the liberty; and so understand us, that the
 spirit's dominion, viz. the spirit and the essence <span
-id="fr_30"></span>[1](#fn_30) do thus separate.
+id="fr_30"></span>[1](#fn_30.md) do thus separate.
 
 16\. The essence remains in the impression, and becomes material; that
 is not God, but gold, or any other metal, according to the property of
 the first conception in the Sulphur, or stone, or earth, out of the
 desire's own peculiar property, all according to the first sude <span
-id="fr_31"></span>[2](#fn_31) or seething in Mercury; for no metal can
+id="fr_31"></span>[2](#fn_31.md) or seething in Mercury; for no metal can
 be generated without salniter, which is the flagrat in Mercury; which
 also becomes material in the astringent impression, and divides itself
 in the separation, one part into brimstone, another into salniter, and a
@@ -185,7 +185,7 @@ effected in the great anguish of the impressure, where there is a dying
 source, which is the mercurial life, where the salnitral flagrat arises
 as an opening, displaying flash: For the liberty, viz. the property of
 the eternal lubet, does there separate itself, <span
-id="fr_32"></span>[3](#fn_32) and yet the attracted essence out of the
+id="fr_32"></span>[3](#fn_32.md) and yet the attracted essence out of the
 lubet of the liberty continues all along in the comprehension of the
 attraction in the astringent austere dark anguish: Now if the wrath
 enters so vehemently into itself as to raise up the salnitral flagrat,
@@ -197,7 +197,7 @@ joy ascends, and the flagrat is out of mercury, or out of the anguish of
 death, and becomes also material, but by reason of the liberty it
 changes itself into white, which is salniter: Now if the fire, viz. the
 horrible anxious sharpness, does again come into it, then the salniter
-is dismayed, and gives a repulse; <span id="fr_33"></span>[4](#fn_33)
+is dismayed, and gives a repulse; <span id="fr_33"></span>[4](#fn_33.md)
 for the first property \[which was\] before the death is again enkindled
 with the brimstone spirit; a sufficient resemblance of
 
@@ -213,7 +213,7 @@ or love-essentiality, arises up in the kingdom of joy: But seeing there
 happens also a mortifying in the free materia (though it is no
 mortifying, but a redeeming from the wrath, for the materia of the
 liberty will be free from the wrath), thereupon this materia falls <span
-id="fr_34"></span>[1](#fn_34) downwards, which is water; and it is not
+id="fr_34"></span>[1](#fn_34.md) downwards, which is water; and it is not
 of the property of the wrath, but the wrath holds it captive in itself;
 but they are separated from one another in the essence and source; the
 wrath's essence gives earth and stones, and the essence of the liberty
@@ -230,7 +230,7 @@ the salnitral flagrat two things are effected and come forth, viz. a
 life, and a body of the life; understand an essential, and a lifeless
 senseless body, whose materia is mortified in the flagrat: Thus there is
 a diversity of water, and a diversity of the life, and a diversity of
-the body, <span id="fr_35"></span>[2](#fn_35) or of the materia; as each
+the body, <span id="fr_35"></span>[2](#fn_35.md) or of the materia; as each
 body is, so is also its essential spirit.
 
 19\. Now we must consider this from the first original; as (1) from the
@@ -254,7 +254,7 @@ as much diversity of brimstone and salt, as there is variety of taste
 and fire to be found in all creatures, herbs, and trees; also all
 whatever lives and grows has brimstone and salt; for the saltish
 property attracts, and preserves the body; <span
-id="fr_36"></span>[1](#fn_36) and the brimstone has in it the oil or
+id="fr_36"></span>[1](#fn_36.md) and the brimstone has in it the oil or
 light, wherein the free lubet to manifestation consists, whence the
 growth arises.
 
@@ -300,7 +300,7 @@ called God's anger, and quenches it,
 
 so that God dwells in a meek light; and the first property to the
 enkindling of the light is fire, and wrath of the eternal nature, and
-makes <span id="fr_37"></span>[1](#fn_37) the dark world.
+makes <span id="fr_37"></span>[1](#fn_37.md) the dark world.
 
 26\. The properties of the first mother in the lubet and desire do also
 divide themselves in the salnitral flagrat of joyfulness into distinct
@@ -333,7 +333,7 @@ stand mutually in each other, but are severed into two principles, viz.
 into the kingdom of God, and of this world; and yet all is God's: But
 seeing Christ calls the devil "a prince of this world," and we also are
 able to declare how far, and in what he is a prince, and that this world
-is not his own, <span id="fr_38"></span>[2](#fn_38) but he is the
+is not his own, <span id="fr_38"></span>[2](#fn_38.md) but he is the
 poorest creature in this world, and also not at all in this world; now
 therefore look upon the first ground, upon the mother which has thus
 generated all creatures.
@@ -379,7 +379,7 @@ created the earth, which we are thus to consider of.
 with the impression into three forms, viz. into Sulphur, Mercury, and
 Sal, and in the impression all become rising and moving, which is not in
 the still nothing, and so forces itself into the highest anguish, even
-to <span id="fr_39"></span>[1](#fn_39) the salnitral flagrat, where then
+to <span id="fr_39"></span>[1](#fn_39.md) the salnitral flagrat, where then
 is the original of the fire: Thus the source whirls in itself, as a
 boiling of water upon the fire: for the austere desire is attractive,
 and the fiery is expulsive, which is a sulphur; and the astringent
@@ -410,7 +410,7 @@ the fire in the salnitral flagrat each property separates itself in
 itself, and the whole materia is particularised, viz. to metals, stones,
 and earth.
 
-35\. The highest metal, <span id="fr_40"></span>[1](#fn_40) as gold,
+35\. The highest metal, <span id="fr_40"></span>[1](#fn_40.md) as gold,
 arises from the liberty, which is comprised all along in the flagrat in
 the astringent impression; and it is not free from the materia of the
 rest, for all is comprised or wrapt up together; but seeing the liberty
@@ -429,7 +429,7 @@ and yet all is brought into essence in the flagrat; so that the same
 flash or glance becomes also material in the flagrat; and therefore they
 are hard, and of a blinking glance, like an eye; for so also is the
 original of the eye or sight in the womb, <span
-id="fr_41"></span>[2](#fn_41) when the life enkindles; all according to
+id="fr_41"></span>[2](#fn_41.md) when the life enkindles; all according to
 the right of eternity.
 
 37\. And therefore they are of so great power, efficacy, and virtue, in
@@ -440,7 +440,7 @@ that they are so nigh to the Deity, and bear the
 incorporated names of the divine power in them; as also gold is nigh to
 the divine essentiality, or heavenly corporality: If man could open \[or
 disclose\] the dead body, and reduce it to a flying <span
-id="fr_42"></span>[1](#fn_42) moving spirit, which only can be effected
+id="fr_42"></span>[1](#fn_42.md) moving spirit, which only can be effected
 through the divine motion, then it should be seen what it could be,
 which no reason believes or understands without divine sight \[or
 vision\].
@@ -461,7 +461,7 @@ such a light as the spirit is in the essence.
 
 39\. And thus also we are to consider of the metals; what kind of spirit
 each of them has, such a glance and lustre it yields, and also such a
-body <span id="fr_43"></span>[2](#fn_43) it has.
+body <span id="fr_43"></span>[2](#fn_43.md) it has.
 
 40\. As the mind acts and moves the thoughts and senses from the highest
 to the lowest, and comprehends and commands by the thoughts from the
@@ -471,7 +471,7 @@ viz. to the greatest darkness; and this world, with the sun, stars, and
 elements, and with every creaturely being, is nothing else but a
 manifestation of the eternity of the eternal will and mind; and as it
 was in the beginning, so it still stands in its seething and
-vegetation, <span id="fr_44"></span>[3](#fn_44) and so it still puts
+vegetation, <span id="fr_44"></span>[3](#fn_44.md) and so it still puts
 forward to light and darkness, to evil and good. And all things consist
 in these first three forms, viz. in Sulphur, Mercury, and Sal, as one
 degree in order after another; for so likewise are the quires of the
@@ -483,56 +483,56 @@ their distinction.
 
 ### Footnotes
 
-<span id="fn_23"></span>[22:1](sat07.htm#fr_23) Mysterium.
+<span id="fn_23"></span>[22:1](sat07.htm#fr_23.md) Mysterium.
 
-<span id="fn_24"></span>[22:2](sat07.htm#fr_24) Similitude, likeness, or
+<span id="fn_24"></span>[22:2](sat07.htm#fr_24.md) Similitude, likeness, or
 signature.
 
-<span id="fn_25"></span>[22:3](sat07.htm#fr_25) Palpable.
+<span id="fn_25"></span>[22:3](sat07.htm#fr_25.md) Palpable.
 
-<span id="fn_26"></span>[23:1](sat07.htm#fr_26) Or apprehends, or
+<span id="fn_26"></span>[23:1](sat07.htm#fr_26.md) Or apprehends, or
 conceives.
 
-<span id="fn_27"></span>[23:2](sat07.htm#fr_27) Or stands.
+<span id="fn_27"></span>[23:2](sat07.htm#fr_27.md) Or stands.
 
-<span id="fn_28"></span>[23:3](sat07.htm#fr_28) Or to the nature of the
+<span id="fn_28"></span>[23:3](sat07.htm#fr_28.md) Or to the nature of the
 pregnatrix.
 
-<span id="fn_29"></span>[24:1](sat07.htm#fr_29) Stars.
+<span id="fn_29"></span>[24:1](sat07.htm#fr_29.md) Stars.
 
-<span id="fn_30"></span>[25:1](sat07.htm#fr_30) Or substance.
+<span id="fn_30"></span>[25:1](sat07.htm#fr_30.md) Or substance.
 
-<span id="fn_31"></span>[25:2](sat07.htm#fr_31) Boiling.
+<span id="fn_31"></span>[25:2](sat07.htm#fr_31.md) Boiling.
 
-<span id="fn_32"></span>[25:3](sat07.htm#fr_32) Or separates itself in
+<span id="fn_32"></span>[25:3](sat07.htm#fr_32.md) Or separates itself in
 itself.
 
-<span id="fn_33"></span>[25:4](sat07.htm#fr_33) Report, clash.
+<span id="fn_33"></span>[25:4](sat07.htm#fr_33.md) Report, clash.
 
-<span id="fn_34"></span>[26:1](sat07.htm#fr_34) Sinks.
+<span id="fn_34"></span>[26:1](sat07.htm#fr_34.md) Sinks.
 
-<span id="fn_35"></span>[26:2](sat07.htm#fr_35) Corpus.
+<span id="fn_35"></span>[26:2](sat07.htm#fr_35.md) Corpus.
 
-<span id="fn_36"></span>[27:1](sat07.htm#fr_36) Corpus.
+<span id="fn_36"></span>[27:1](sat07.htm#fr_36.md) Corpus.
 
-<span id="fn_37"></span>[28:1](sat07.htm#fr_37) Gives, or affords.
+<span id="fn_37"></span>[28:1](sat07.htm#fr_37.md) Gives, or affords.
 
-<span id="fn_38"></span>[28:2](sat07.htm#fr_38) Or propriety.
+<span id="fn_38"></span>[28:2](sat07.htm#fr_38.md) Or propriety.
 
-<span id="fn_39"></span>[29:1](sat07.htm#fr_39) Or until.
+<span id="fn_39"></span>[29:1](sat07.htm#fr_39.md) Or until.
 
-<span id="fn_40"></span>[30:1](sat07.htm#fr_40) Or the highest or
+<span id="fn_40"></span>[30:1](sat07.htm#fr_40.md) Or the highest or
 chiefest of the metals.
 
-<span id="fn_41"></span>[30:2](sat07.htm#fr_41) Body.
+<span id="fn_41"></span>[30:2](sat07.htm#fr_41.md) Body.
 
-<span id="fn_42"></span>[31:1](sat07.htm#fr_42) Liquid.
+<span id="fn_42"></span>[31:1](sat07.htm#fr_42.md) Liquid.
 
-<span id="fn_43"></span>[31:2](sat07.htm#fr_43) Corpus.
+<span id="fn_43"></span>[31:2](sat07.htm#fr_43.md) Corpus.
 
-<span id="fn_44"></span>[31:3](sat07.htm#fr_44) Boiling, growing, and
+<span id="fn_44"></span>[31:3](sat07.htm#fr_44.md) Boiling, growing, and
 waxing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](sat08)
+[Next: Chapter IV](sat08.md)

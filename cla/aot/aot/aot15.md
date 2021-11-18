@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot14) 
-[Next](aot16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot14.md) 
+[Next](aot16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -24,7 +24,7 @@ Heritage
 
 <span class="smallcaps">Apollonius</span> is said to have been very
 beautiful to look upon (i. 7, 12; iv. 1); <span
-id="fr_114"></span>[\*](#fn_114) but beyond this we have no very
+id="fr_114"></span>[\*](#fn_114.md) but beyond this we have no very
 definite description of his person. His manner was ever mild and gentle
 (i. 36; ii. 22) and modest (iv. 31; viii. 15), and in this, says Damis,
 he was more like an Indian than a Greek (iii. 36); yet occasionally he
@@ -149,7 +149,7 @@ in the first century of our era.
 
 ### Footnotes
 
-<span id="fn_114"></span>[126:\*](aot15.htm#fr_114) Rathgeber (G.) in
+<span id="fn_114"></span>[126:\*](aot15.htm#fr_114) Rathgeber (G..md) in
 his Grossgriechenland and Pythagoras (Gotha; 1866), a work of marvellous
 bibliographical industry, refers to three supposed portraits of
 Apollonius (p. 621). (i) In the Campidoglio Museum of the Vatican,
@@ -175,4 +175,4 @@ letterpress devotes an angry and contemptuous paragraph to Apollonius,
 
 ------------------------------------------------------------------------
 
-[Next: Section XV. From his Sayings and Sermons](aot16)
+[Next: Section XV. From his Sayings and Sermons](aot16.md)

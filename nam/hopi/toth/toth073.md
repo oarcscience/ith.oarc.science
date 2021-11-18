@@ -1,27 +1,27 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth072)  [Next](toth074) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth072)  [Next](toth074.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 70. THE COYOTE AND THE RED EAGLE. <span id="fr_140"></span>[2](#fn_138)
+## 70. THE COYOTE AND THE RED EAGLE. <span id="fr_140"></span>[2](#fn_138.md)
 
 In Mishóngnovi the people were living. North of the village at the bluff
 Kwaná Vüvi lived the Red Eagle, and east of the village at
 Where-Coyotes'-Heads-are-put-in (Ishqöttangat) <span
-id="fr_141"></span>[3](#fn_139), lived the Coyote. He had children.
+id="fr_141"></span>[3](#fn_139.md), lived the Coyote. He had children.
 During the day it was very hot and he went to hunt something for them,
 but did not kill anything. So he returned to his children, who were very
 thirsty. They were living only a very short time. Now he went after
@@ -36,7 +36,7 @@ danced on one leg and sang as follows:
 Tipoki homponcholo  
 Yep nu (Here I)  
 Cholo, cholo, chololololo. <span
-id="fr_142"></span>[1](toth074.htm#fn_140)
+id="fr_142"></span>[1](toth074.htm#fn_140.md)
 
 The Coyote laughed at the Red Eagle and spilled the water. Now he ran
 back to the spring again, and again filled his mouth with water. Now he
@@ -63,15 +63,15 @@ did not catch him, and thus he did not kill him.
 
 ### Footnotes
 
-<span id="fn_137"></span>[198:1](toth072.htm#fr_139) Told by Sik'áhpik'i
+<span id="fn_137"></span>[198:1](toth072.htm#fr_139.md) Told by Sik'áhpik'i
 (Shupaúlavi)
 
-<span id="fn_138"></span>[198:2](toth073.htm#fr_140) Told by Lomavântiwa
+<span id="fn_138"></span>[198:2](toth073.htm#fr_140.md) Told by Lomavântiwa
 (Shupaúlavi).
 
-<span id="fn_139"></span>[198:3](toth073.htm#fr_141) So called because
+<span id="fn_139"></span>[198:3](toth073.htm#fr_141.md) So called because
 the Hopi throw the heads of coyotes and other game there.
 
 ------------------------------------------------------------------------
 
-[Next: 71. The Coyote and the Turkeys](toth074)
+[Next: 71. The Coyote and the Turkeys](toth074.md)

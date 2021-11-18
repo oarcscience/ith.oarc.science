@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](fons00)    [Text](fons.txt)
+[Contents](#contents)    [Start Reading](fons00)    [Text](fons.txt.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ a more Christian intellectual current. However, in 1846, a scholar named
 Solomon Munk announced that he had discovered that Avicebron was the
 same person as Gabirol.
 
-A volume of [Gabirol's poetry](../sig/index) is also available at this
+A volume of [Gabirol's poetry](../sig/index.md) is also available at this
 site.
 
 Production Notes: for technical reasons this text has been broken down
@@ -49,17 +49,17 @@ original book.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](fons00)  
-[Introduction](fons01)  
+<span id="contents"></span> [Title Page](fons00.md)  
+[Introduction](fons01.md)  
 <span id="section_000"></span>
 
 ### Demonstration of Simple Substances
 
-[Part I](fons02)  
-[Part II](fons03)  
-[Part III](fons04)  
-[Part IV](fons05)  
-[Part V](fons06)  
-[Part VI](fons07)  
-[Part VII](fons08)  
-[Bibliography](fons09)  
+[Part I](fons02.md)  
+[Part II](fons03.md)  
+[Part III](fons04.md)  
+[Part IV](fons05.md)  
+[Part V](fons06.md)  
+[Part VI](fons07.md)  
+[Part VII](fons08.md)  
+[Bibliography](fons09.md)  

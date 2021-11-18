@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index)  [Index](index)  [Previous](eaha05) 
-[Next](eaha07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index)  [Index](index)  [Previous](eaha05.md) 
+[Next](eaha07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Euripides and His Age*, by Gilbert Murray, \[1913\], at Intangible
 Textual Heritage
 
@@ -285,7 +285,7 @@ was worth. A cynic or a hypocrite trained in a sophistic school might
 offer occasional help with the theory.
 
 Perhaps the earliest touch of Euripides’ bitterness against his country
-comes, as we have seen, in the *Hecuba* ([p. 86](eaha05.htm#page_86)).
+comes, as we have seen, in the *Hecuba* ([p. 86](eaha05.htm#page_86).md).
 But the period we have just reached, soon after the *Heracles*, is
 marked by one of the most ironic and enigmatical plays he ever wrote.
 The *Ion* is interesting in every line and contains one scene which is
@@ -793,4 +793,4 @@ the current theologies.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](eaha07)
+[Next: Chapter VI](eaha07.md)

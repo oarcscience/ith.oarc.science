@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst046)  [Next](inst048) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst046)  [Next](inst048.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,10 +51,10 @@ called the Son of David and Abraham, not because he was born of a
 virgin, and yet created in the air, but because, as Paul explains, he
 was “made of the seed of David, according to the flesh,” (<span
 id="iv.ii.xiv-p8.1"></span>[Rom.
-1:3](../../../bib/kjv/rom001.htm#003)<span id="iv.ii.xiv-p8.1"></span>),
+1:3](../../../bib/kjv/rom001.htm#003)<span id="iv.ii.xiv-p8.1"></span>.md),
 as the same apostle elsewhere says, that he came of the Jews (<span
 id="iv.ii.xiv-p8.2"></span>[Rom.
-9:5](../../../bib/kjv/rom009.htm#005)<span id="iv.ii.xiv-p8.2"></span>).
+9:5](../../../bib/kjv/rom009.htm#005)<span id="iv.ii.xiv-p8.2"></span>.md).
 Wherefore, our Lord himself not contented with the name of man,
 frequently calls himself the Son of man, wishing to express more clearly
 that he was a man by true human descent. The Holy Spirit having so
@@ -64,44 +64,44 @@ mortals would have had the effrontery to darken it with their glosses?
 Many other passages are at hand, were it wished to produce more: for
 instance, that one of Paul, that “God sent forth his Son, made of a
 woman,” (<span id="iv.ii.xiv-p8.3"></span>[Gal.
-4:4](../../../bib/kjv/gal004.htm#004)<span id="iv.ii.xiv-p8.3"></span>),
+4:4](../../../bib/kjv/gal004.htm#004)<span id="iv.ii.xiv-p8.3"></span>.md),
 and innumerable others, which show that he was subject to hunger,
 thirst, cold, and the other infirmities of our nature. But from the many
 we must chiefly select those which may conduce to build up our minds in
 true faith, as when it is said, “Verily, he took not on him the nature
 of angels, but he took on him the seed of Abraham,” “that through death
 he might destroy him that had the power of death,” (<span
-id="iv.ii.xiv-p8.4"></span>[Heb. 2:16](../../../bib/kjv/heb002.htm#016),
-[14](../../../bib/kjv/heb002.htm#014)<span id="iv.ii.xiv-p8.4"></span>).
+id="iv.ii.xiv-p8.4"></span>[Heb. 2:16](../../../bib/kjv/heb002.htm#016.md),
+[14](../../../bib/kjv/heb002.htm#014)<span id="iv.ii.xiv-p8.4"></span>.md).
 Again, “Both he that sanctifieth and they who are sanctified are all of
 one: for which cause he is not ashamed to call them brethren.”
 “Wherefore in all things it behoved him to be made like unto his
 brethren, that he might be a merciful and faithful high priest.” (<span
-id="iv.ii.xiv-p8.5"></span>[Heb. 2:11](../../../bib/kjv/heb002.htm#011),
-[17](../../../bib/kjv/heb002.htm#017)<span id="iv.ii.xiv-p8.5"></span>).
+id="iv.ii.xiv-p8.5"></span>[Heb. 2:11](../../../bib/kjv/heb002.htm#011.md),
+[17](../../../bib/kjv/heb002.htm#017)<span id="iv.ii.xiv-p8.5"></span>.md).
 Again “We have not an high priest which cannot be touched with the
 feeling of our infirmities,” (<span id="iv.ii.xiv-p8.6"></span>[Heb.
-4:15](../../../bib/kjv/heb004.htm#015)<span
+4:15](../../../bib/kjv/heb004.htm#015.md)<span
 id="iv.ii.xiv-p8.6"></span>), and the like. To the same effect is the
 passage to which we lately referred, in which Paul distinctly declares,
 that the sins of the world behoved to be expiated in our flesh (<span
 id="iv.ii.xiv-p8.7"></span>[Rom.
-8:3](../../../bib/kjv/rom008.htm#003)<span id="iv.ii.xiv-p8.7"></span>).
+8:3](../../../bib/kjv/rom008.htm#003)<span id="iv.ii.xiv-p8.7"></span>.md).
 And certainly every thing which the Father conferred on Christ pertains
 to us for this reason, that “he is the head,” that from him the whole
 body is “fitly joined together, and compacted by that which every joint
 supplieth,” (<span id="iv.ii.xiv-p8.8"></span>[Eph.
-4:16](../../../bib/kjv/eph004.htm#016)<span
+4:16](../../../bib/kjv/eph004.htm#016.md)<span
 id="iv.ii.xiv-p8.8"></span>). Nay, in no other way could it hold true as
 is said, that the Spirit was given to him without measure (<span
 id="iv.ii.xiv-p8.9"></span>[John
-1:16](../../../bib/kjv/joh001.htm#016)<span
+1:16](../../../bib/kjv/joh001.htm#016.md)<span
 id="iv.ii.xiv-p8.9"></span>), and that out of his fulness have all we
 received; since nothing could be more absurd than that God, in his own
 essence, should be enriched by an adventitious gift. For this reason
 also, Christ himself elsewhere says, “For their sakes I sanctify
 myself,” (<span id="iv.ii.xiv-p8.10"></span>[John
-17:19](../../../bib/kjv/joh017.htm#019)<span
+17:19](../../../bib/kjv/joh017.htm#019.md)<span
 id="iv.ii.xiv-p8.10"></span>).
 
 <span id="iv.ii.xiv-p9"></span>2. The passages which they produce in
@@ -112,7 +112,7 @@ Christ, instead of a body, assumed a phantom, because it is elsewhere
 said, that he was made in the likeness of man, and found in fashion as a
 man. Thus he altogether overlooks what Paul is then discussing (<span
 id="iv.ii.xiv-p9.1"></span>[Phil.
-2:7](../../../bib/kjv/phi002.htm#007)<span id="iv.ii.xiv-p9.1"></span>).
+2:7](../../../bib/kjv/phi002.htm#007)<span id="iv.ii.xiv-p9.1"></span>.md).
 His object is not to show what kind of body Christ assumed, but that,
 when he might have justly asserted his divinity he was pleased to
 exhibit nothing but the attributes of a mean and despised man. For, in
@@ -129,12 +129,12 @@ instead of being resplendent with divine glory, the human form only
 appeared in a mean and abject condition? Nor would the words of Peter,
 that he was “put to death in the flesh, but quickened by the Spirits”
 (<span id="iv.ii.xiv-p9.2"></span>[1 Pet.
-3:18](../../../bib/kjv/pe1003.htm#018)<span
+3:18](../../../bib/kjv/pe1003.htm#018.md)<span
 id="iv.ii.xiv-p9.2"></span>), hold true, unless the Son of God had
 become weak in the nature of man. This is explained more clearly by
 Paul, when he declares that “he was crucified through weakness,” (<span
 id="iv.ii.xiv-p9.3"></span>[2 Cor.
-13:4](../../../bib/kjv/co2013.htm#004)<span
+13:4](../../../bib/kjv/co2013.htm#004.md)<span
 id="iv.ii.xiv-p9.3"></span>). And hence his exaltation; for it is
 distinctly said, that Christ acquired new glory after he humbled
 himself. This could fitly apply only to a man endued with a body and a
@@ -142,7 +142,7 @@ soul. Manes dreams of an aerial body, because Christ is called the
 second Adam, the Lord from heaven. But the apostle does not there speak
 of the essence of his body as heavenly, but of the spiritual life which
 derived from Christ quickens us (<span id="iv.ii.xiv-p9.4"></span>[I
-Cor. 15:47](../../../bib/kjv/co1015.htm#047)<span
+Cor. 15:47](../../../bib/kjv/co1015.htm#047.md)<span
 id="iv.ii.xiv-p9.4"></span>). This life Paul and Peter, as we have seen,
 separate from his flesh. Nay, that passage admirably confirms the
 doctrine of the orthodox, as to the human nature of Christ. If his body
@@ -155,13 +155,13 @@ frivolous and despicable evasion to say, that Christ is called the Son
 of man, because he was promised to men; it being obvious that, in the
 Hebrew idiom, the Son of man means a true man: and Christ, doubtless,
 retained the idiom of his own tongue.24  <span
-id="fr_238"></span>[239](#fn_238) Moreover, there cannot be a doubt as
+id="fr_238"></span>[239](#fn_238.md) Moreover, there cannot be a doubt as
 to what is to be understood by the sons of Adam. Not to go farther, a
 passage in the eighth psalm, which the apostles apply to Christ, will
 abundantly suffice: “What is man, that thou art mindful of him? and the
 son of man, that thou visitest him?” (<span
 id="iv.ii.xiv-p10.1"></span>[Ps
-8:4](../../../bib/kjv/psa008.htm#004)<span
+8:4](../../../bib/kjv/psa008.htm#004.md)<span
 id="iv.ii.xiv-p10.1"></span>). Under this figure is expressed the true
 humanity of Christ. For although he was not immediately descended of an
 earthly father, yet he originally sprang from Adam. Nor could it
@@ -174,7 +174,7 @@ and they who are sanctified are all of one.” The context proves that
 this refers to a community of nature; for it is immediately added, “For
 which cause he is not ashamed to call them brethren,” (<span
 id="iv.ii.xiv-p10.2"></span>[Heb.
-2:11](../../../bib/kjv/heb002.htm#011)<span
+2:11](../../../bib/kjv/heb002.htm#011.md)<span
 id="iv.ii.xiv-p10.2"></span>). Had he said at first that believers are
 of God, where could there have been any ground for being ashamed of
 persons possessing such dignity? But when Christ of his boundless grace
@@ -193,18 +193,18 @@ dispute is also ignorantly raised as to the term *first-born*. It is
 alleged that Christ ought to have been the first son of Adam, in order
 that he might be the first-born among the brethren (<span
 id="iv.ii.xiv-p10.3"></span>[Rom.
-8:29](../../../bib/kjv/rom008.htm#029)<span
+8:29](../../../bib/kjv/rom008.htm#029.md)<span
 id="iv.ii.xiv-p10.3"></span>). But primogeniture refers not to age, but
 to degree of honour and pre-eminence of virtue. There is just as little
 colour for the frivolous assertion that Christ assumed the nature of
 man, and not that of angels (<span id="iv.ii.xiv-p10.4"></span>[Heb.
-2:16](../../../bib/kjv/heb002.htm#016)<span
+2:16](../../../bib/kjv/heb002.htm#016.md)<span
 id="iv.ii.xiv-p10.4"></span>), because it was the human race that he
 restored to favour. The apostle, to magnify the honour which Christ has
 conferred upon us, contrasts us with the angels, to whom we are in this
 respect preferred. And if due weight is given to the testimony of Moses
 (<span id="iv.ii.xiv-p10.5"></span>[Gen.
-3:15](../../../bib/kjv/gen003.htm#015)<span
+3:15](../../../bib/kjv/gen003.htm#015.md)<span
 id="iv.ii.xiv-p10.5"></span>), when he says that the seed of the woman
 would bruise the head of the serpent, the dispute is at an end. For the
 words there used refer not to Christ alone, but to the whole human race.
@@ -221,14 +221,14 @@ the term *seed* been used allegorically, Paul surely would not have
 omitted to notice it, when he affirms clearly, and without figure, that
 the promise was not given “to seeds, as of many; but as of one, And to
 thy seed, which is Christ,” (<span id="iv.ii.xiv-p11.1"></span>[Gal.
-3:16](../../../bib/kjv/gal003.htm#016)<span
+3:16](../../../bib/kjv/gal003.htm#016.md)<span
 id="iv.ii.xiv-p11.1"></span>). With similar absurdity they pretend that
 he was called the Son of David for no other reason but because he had
 been promised, and was at length in due time manifested. For Paul, after
 he had called him the Son of David, by immediately subjoining
 “*according to the flesh*”, certainly designates his nature. So also
 (<span id="iv.ii.xiv-p11.2"></span>[Rom.
-9:5](../../../bib/kjv/rom009.htm#005)<span
+9:5](../../../bib/kjv/rom009.htm#005.md)<span
 id="iv.ii.xiv-p11.2"></span>), while declaring him to be “God blessed
 for ever,” he mentions separately, that, “as concerning the flesh, he
 was descended from the Jews.” Again if he had not been truly begotten of
@@ -236,7 +236,7 @@ the seed of David, what is the meaning of the expression, that he is the
 “fruit of his loins;” or what the meaning of the promise, “Of the fruit
 of thy body will I set upon thy throne?” (<span
 id="iv.ii.xiv-p11.3"></span>[Ps.
-132:11](../../../bib/kjv/psa132.htm#011)<span
+132:11](../../../bib/kjv/psa132.htm#011.md)<span
 id="iv.ii.xiv-p11.3"></span>). Moreover their mode of dealing with the
 genealogy of Christ, as given by Matthew, is mere sophistry; for though
 he reckons up the progenitors not of Mary, but of Joseph, yet as he was
@@ -280,18 +280,18 @@ fathers are different. But while I admit that the power assigned to the
 woman is passive, I hold that the same thing is affirmed
 indiscriminately of her and of the male. Christ is not said to have been
 made by a woman, but of a woman (<span id="iv.ii.xiv-p11.4"></span>[Gal.
-4:4](../../../bib/kjv/gal004.htm#004)<span
+4:4](../../../bib/kjv/gal004.htm#004.md)<span
 id="iv.ii.xiv-p11.4"></span>). But some of this herd, laying aside all
 shame, publicly ask whether we mean to maintain that Christ was
 procreated of the proper seed of a Virgin.24  <span
-id="fr_239"></span>[240](#fn_239) I, in my turn, asks whether they are
+id="fr_239"></span>[240](#fn_239.md) I, in my turn, asks whether they are
 not forced to admit that he was nourished to maturity in the Virgin’s
 womb. Justly, therefore, we infer from the words of Matthew, that
 Christ, inasmuch as he was begotten of Mary, was procreated of her seed;
 as a similar generation is denoted when Boaz is said to have been
 begotten of Rachab (<span id="iv.ii.xiv-p12.1"></span>[Matt.
-1:5](../../../bib/kjv/mat001.htm#005),
-[16](../../../bib/kjv/mat001.htm#016)<span
+1:5](../../../bib/kjv/mat001.htm#005.md),
+[16](../../../bib/kjv/mat001.htm#016.md)<span
 id="iv.ii.xiv-p12.1"></span>). Matthew does not here describe the Virgin
 as the channel through which Christ flowed, but distinguishes his
 miraculous from an ordinary birth, in that Christ was begotten by her of
@@ -312,18 +312,18 @@ difficulty is easily solved by Paul’s antithesis, “As by one man sin
 entered into the world, and death by sin”—“even so by the righteousness
 of one the free gift came upon all men unto justification of life,”
 (<span id="iv.ii.xiv-p13.1"></span>[Rom.
-5:12](../../../bib/kjv/rom005.htm#012),
-[18](../../../bib/kjv/rom005.htm#018)<span
+5:12](../../../bib/kjv/rom005.htm#012.md),
+[18](../../../bib/kjv/rom005.htm#018.md)<span
 id="iv.ii.xiv-p13.1"></span>). Corresponding to this is another passage,
 “The first man is of the earth, earthy: the second man is the Lord from
 heaven,” (<span id="iv.ii.xiv-p13.2"></span>[1 Cor.
-15:47](../../../bib/kjv/co1015.htm#047)<span
+15:47](../../../bib/kjv/co1015.htm#047.md)<span
 id="iv.ii.xiv-p13.2"></span>). Accordingly, the same apostle, in another
 passage, teaching that Christ was sent “in the likeness of sinful flesh,
 that the righteousness of the law might be fulfilled in us,” distinctly
 separates him from the common lot, as being true man, and yet without
 fault and corruption (<span id="iv.ii.xiv-p13.3"></span>[Rom.
-8:3](../../../bib/kjv/rom008.htm#003)<span
+8:3](../../../bib/kjv/rom008.htm#003.md)<span
 id="iv.ii.xiv-p13.3"></span>). It is childish trifling to maintain, that
 if Christ is free from all taint, and was begotten of the seed of Mary,
 by the secret operation of the Spirit, it is not therefore the seed of
@@ -354,13 +354,13 @@ beginning.
 
 ### Footnotes
 
-<span id="fn_238"></span>[239](inst047.htm#fr_238) <span
+<span id="fn_238"></span>[239](inst047.htm#fr_238.md) <span
 id="iv.ii.xiv-p9.5"></span>
 
 <span id="iv.ii.xiv-p10"></span>45 245 The last clause of the sentence
 is omited in the French.
 
-<span id="fn_239"></span>[240](inst047.htm#fr_239) <span
+<span id="fn_239"></span>[240](inst047.htm#fr_239.md) <span
 id="iv.ii.xiv-p11.5"></span>
 
 <span id="iv.ii.xiv-p12"></span>46 246 Latin, “An dicere velimus ex
@@ -369,4 +369,4 @@ semine menstruali virginis procreatur esse Christum.”
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 14. - HOW TWO NATURES CONSTITUTE THE PERSON OF THE
-MEDIATOR.](inst048)
+MEDIATOR.](inst048.md)

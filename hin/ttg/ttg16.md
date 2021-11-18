@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg15)  [Next](ttg17) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg15)  [Next](ttg17.md) 
 
 ------------------------------------------------------------------------
 
@@ -424,4 +424,4 @@ king returned to catch him again.
 
 [Next: Sixteenth Goblin: The King who died for Love of his General's
 Wife; the General follows him in Death. Which is the more
-worthy?](ttg17)
+worthy?](ttg17.md)

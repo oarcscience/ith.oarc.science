@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr25)  [Next](ppr27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr25)  [Next](ppr27.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Land Divine!
 
 ------------------------------------------------------------------------
 
-[Next: Hymn of the God of Flowers (Mexican)](ppr27)
+[Next: Hymn of the God of Flowers (Mexican)](ppr27.md)

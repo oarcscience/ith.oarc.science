@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat18)  [Next](sat20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat18)  [Next](sat20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -41,7 +41,7 @@ manifests itself out of itself, then this form stands with the root in
 the mystery of eternity; but if the form brings itself forth into
 another lust, so that two properties must dwell in one, then from thence
 arises the enmity and abominate; for there has been from eternity only
-the one element in motion, <span id="fr_291"></span>[1](#fn_290) and the
+the one element in motion, <span id="fr_291"></span>[1](#fn_290.md) and the
 free lubet of eternity, which proceeded forth with its motion from the
 great mystery of eternity as a spirit, which spirit is God's.
 
@@ -63,7 +63,7 @@ are in the dominion of the four elements,
 <span id="page_197">p. 197</span>
 
 nothing else but a strife and a contrary will, a self-envying, <span
-id="fr_292"></span>[1](#fn_291) a desire of the abominate, a lust of
+id="fr_292"></span>[1](#fn_291.md) a desire of the abominate, a lust of
 death.
 
 3\. For the lust which arises out of the desire must die; if the will
@@ -223,7 +223,7 @@ God's anger, I will have none of thee, thou art an abomination before
 God." And though the resigned will is sometimes captivated with false
 lust, when it overwhelms and overpowers it with the devil's desire and
 insinuation of its imagination, yet the resigned will does forthwith cry
-to the word <span id="fr_293"></span>[1](#fn_292) of God, that God's
+to the word <span id="fr_293"></span>[1](#fn_292.md) of God, that God's
 will does again bring it out of the abomination of death.
 
 17\. The resigned will has no rest here in this cottage, but must always
@@ -303,7 +303,7 @@ drawn into God.
 24\. He is a shepherd, and teacher of Christ, who enters in through the
 door of Christ, that is, who speaks and teaches by Christ's spirit;
 without this there is only the form, viz. the history <span
-id="fr_294"></span>[1](#fn_293) that was once brought to pass, and that
+id="fr_294"></span>[1](#fn_293.md) that was once brought to pass, and that
 a man need only accept of it, and comfort himself therewith: but this
 will remains without, for it will be a child of an assumed grace, and
 not wholly die to its self-hood in the grace, and become a child of
@@ -374,7 +374,7 @@ Keep you from that doctrine which teaches of self-ful abilities, and of
 the works of justification.
 
 31\. A true Christian is himself the great and anxious work which
-continually desires to work <span id="fr_295"></span>[1](#fn_294) in
+continually desires to work <span id="fr_295"></span>[1](#fn_294.md) in
 God's will, and forces against the self-ful lusts of self-hood, and
 wills continually so to do, and yet is many times hindered by self-hood:
 He breaks self-hood, as a vessel, wherein he lies captive, and buds
@@ -390,7 +390,7 @@ it is only an outward \[expressed\] form
 <span id="page_204">p. 204</span>
 
 of the new-birth; a Christian must be one spirit with Christ, and
-have <span id="fr_296"></span>[1](#fn_295) Christ's will and life in
+have <span id="fr_296"></span>[1](#fn_295.md) Christ's will and life in
 him; the form does not renew him, neither comforting, or giving good
 words does at all help or avail, but a mortifying of the evil inbred
 will, which is God's child, and born out of Christ's death, no other
@@ -480,7 +480,7 @@ into the anxious cabinet of covetousness, envy, and self-ful pleasure of
 the flesh, viz. into a vessel that is separated from God, viz. into the
 impression of nature, and steals from his Lord and Master who has set
 him up for a steward; he is a sacrilegious person, <span
-id="fr_297"></span>[1](#fn_296) let him excuse himself, and pretend what
+id="fr_297"></span>[1](#fn_296.md) let him excuse himself, and pretend what
 he pleases.
 
 37\. A true Christian acknowledges himself for a servant of God, to whom
@@ -513,7 +513,7 @@ instrument of God.
 workest in the working word of God in his will, or whether thou standest
 only in the form of Christendom, and workest thy own self-fulness in
 falsehood: Thou wilt find, how thou art become an abomination before the
-Most High, and thy casting forth <span id="fr_298"></span>[2](#fn_297)
+Most High, and thy casting forth <span id="fr_298"></span>[2](#fn_297.md)
 from the Most High out of this form (which thou in thy self-hood hast
 introduced into his expressed form) shall presently follow; and that
 because thou coverest thyself with the true form, and art a false child
@@ -547,7 +547,7 @@ manifests the turba; and then all false lust or imagination becomes
 manifest, and each thing enters into its eternal keeper, for all things
 are generated out of imagination: So also it shall receive its property
 in the imagination, and every imagination <span
-id="fr_299"></span>[1](#fn_298) reaps its own work which it has wrought;
+id="fr_299"></span>[1](#fn_298.md) reaps its own work which it has wrought;
 for to that end all things have appeared, that the eternity might be
 manifest in a time: With deeds of wonder it brought itself into the form
 of time, and with deeds of wonder it carries itself forth again out of
@@ -556,7 +556,7 @@ the time into its first place.
 42\. All things enter again into that from whence they proceeded; but
 they keep their own form and model, as they have introduced themselves
 in the expressed word; and everything shall also be received of its
-likeness, and the end is always; <span id="fr_300"></span>[2](#fn_299)
+likeness, and the end is always; <span id="fr_300"></span>[2](#fn_299.md)
 and as all things generate themselves in the expressed word, so also
 they are signed in their inward form, which also signs the outward.
 
@@ -628,30 +628,30 @@ all things.
 
 ### Footnotes
 
-<span id="fn_290"></span>[196:1](sat19.htm#fr_291) Or working property.
+<span id="fn_290"></span>[196:1](sat19.htm#fr_291.md) Or working property.
 
-<span id="fn_291"></span>[197:1](sat19.htm#fr_292) Our own enemies.
+<span id="fn_291"></span>[197:1](sat19.htm#fr_292.md) Our own enemies.
 
-<span id="fn_292"></span>[200:1](sat19.htm#fr_293) Voice or breath.
+<span id="fn_292"></span>[200:1](sat19.htm#fr_293.md) Voice or breath.
 
-<span id="fn_293"></span>[202:1](sat19.htm#fr_294) That Christ once died
+<span id="fn_293"></span>[202:1](sat19.htm#fr_294.md) That Christ once died
 and suffered for us, etc.
 
-<span id="fn_294"></span>[203:1](sat19.htm#fr_295) Or works desire.
+<span id="fn_294"></span>[203:1](sat19.htm#fr_295.md) Or works desire.
 
-<span id="fn_295"></span>[204:1](sat19.htm#fr_296) Bear, or carry.
+<span id="fn_295"></span>[204:1](sat19.htm#fr_296.md) Bear, or carry.
 
-<span id="fn_296"></span>[206:1](sat19.htm#fr_297) Text, a pilferer from
+<span id="fn_296"></span>[206:1](sat19.htm#fr_297.md) Text, a pilferer from
 God and his substance.
 
-<span id="fn_297"></span>[206:2](sat19.htm#fr_298) Spewing out.
+<span id="fn_297"></span>[206:2](sat19.htm#fr_298.md) Spewing out.
 
-<span id="fn_298"></span>[207:1](sat19.htm#fr_299) Lubet or longing
+<span id="fn_298"></span>[207:1](sat19.htm#fr_299.md) Lubet or longing
 desire.
 
-<span id="fn_299"></span>[207:2](sat19.htm#fr_300) Or, this is always
+<span id="fn_299"></span>[207:2](sat19.htm#fr_300.md) Or, this is always
 the end.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](sat20)
+[Next: Chapter XVI](sat20.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb16)  [Next](ftb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb16)  [Next](ftb18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -28,19 +28,19 @@ Textual Heritage
 
 <span id="img_18000"></span> <span align="CENTER"> [![Yannik of the
 Woods](tn/18000.jpg)  
-Click to enlarge](img/18000.jpg)  
+Click to enlarge](img/18000.jpg.md)  
 Yannik of the Woods  
 </span>
 
 <span id="page_181">p. 181</span>
 
-<span id="img_18100"></span> ![Yannik, the Fairy Child](img/18100.jpg)
+<span id="img_18100"></span> ![Yannik, the Fairy Child](img/18100.jpg.md)
 
 <span id="img_18101"></span>
 
 |                     |
 |---------------------|
-| ![T](img/18101.jpg) |
+| ![T](img/18101.jpg.md) |
 
 HE boy Yannik lived in the woods and fields. That was long, long ago,
 when within the rocky shores of Finistère there were few houses or
@@ -152,4 +152,4 @@ anger.
 
 ------------------------------------------------------------------------
 
-[Next: The Hazel Scepter](ftb18)
+[Next: The Hazel Scepter](ftb18.md)

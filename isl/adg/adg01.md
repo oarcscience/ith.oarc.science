@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg00)  [Next](adg02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg00)  [Next](adg02.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Lebanon - Beirut - P.O.Box 25/155 Al-Ghobayri - Phone:01/840392</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Written For](adg02)
+[Next: Written For](adg02.md)

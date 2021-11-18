@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd08) 
-[Next](iwd10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd08.md) 
+[Next](iwd10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Irish Witchcraft and Demonology*, by St. John D. Seymour, \[1913\], at
 Intangible Textual Heritage
 
@@ -138,7 +138,7 @@ either dreamed, or else there came something and turned about the chair
 on which her shirt was, but she could not well see what it was." Her
 sentence was a rebuke before the congregation; considering the state of
 Scotland at that period it must be admitted she escaped very well. <span
-id="fr_51"></span>[1](#fn_51)
+id="fr_51"></span>[1](#fn_51.md)
 
 <span id="page_200">p. 200</span>
 
@@ -306,8 +306,8 @@ for the missing articles, they found lying on the parlour floor an apron
 which two days before had been locked up in another apartment. This
 apron, when they found it, was rolled up tight, and tied fast with a
 string of its own material, which had upon it five strange knots <span
-id="fr_52"></span>[1](#fn_52) (Tisdall <span
-id="fr_53"></span>[2](#fn_53) says nine). These she proceeded to
+id="fr_52"></span>[1](#fn_52.md) (Tisdall <span
+id="fr_53"></span>[2](#fn_53) says nine.md). These she proceeded to
 unloose, and having done so, she found a flannel cap, which had belonged
 to old Mrs. Haltridge, wrapped up in the middle of the apron. When she
 saw this she was frightened, and threw both cap and apron to young Mrs.
@@ -412,7 +412,7 @@ eating and drinking damnation to themselves, crucifying Christ afresh,
 and taking all out of the hands of the Devil!"
 
 Finally the accused were brought up for trial at Carrigfergus before
-Judges Upton and Macartney <span id="fr_54"></span>[1](#fn_54) on 31st
+Judges Upton and Macartney <span id="fr_54"></span>[1](#fn_54.md) on 31st
 March 1711. Amongst the witnesses examined
 
 <span id="page_214">p. 214</span>
@@ -618,21 +618,21 @@ more to say."
 
 ### Footnotes
 
-<span id="fn_51"></span>[199:1](iwd09.htm#fr_51) C. K. Sharpe, *op.
+<span id="fn_51"></span>[199:1](iwd09.htm#fr_51.md) C. K. Sharpe, *op.
 cit*.
 
-<span id="fn_52"></span>[208:1](iwd09.htm#fr_52) A man in the Orkneys
+<span id="fn_52"></span>[208:1](iwd09.htm#fr_52.md) A man in the Orkneys
 was ruined by nine knots tied in a blue thread (Dalyell's *Darker
 Superstitions of Scotland*).
 
-<span id="fn_53"></span>[208:2](iwd09.htm#fr_53) The Rev. Dr. Tisdall,
+<span id="fn_53"></span>[208:2](iwd09.htm#fr_53.md) The Rev. Dr. Tisdall,
 who has given such a full account of the trial, was Vicar of Belfast.
 For his attitude towards the Presbyterians, see Witherow's *Memorials of
 Presbyterianism in Ireland*, pp. 118, 159. Yet his narrative of the
 trial is not biassed, for all his statements can be home out by other
 evidence.
 
-<span id="fn_54"></span>[213:1](iwd09.htm#fr_54) James Macartney became
+<span id="fn_54"></span>[213:1](iwd09.htm#fr_54.md) James Macartney became
 second puisne justice of the King's Bench in 1701, puisne justice of
 Common Pleas (vice A. Upton) in 1714, and retired in 1726. Anthony Upton
 became puisne Justice of Common Pleas, was succeeded as above, and
@@ -640,4 +640,4 @@ committed suicide in 1718. Both were natives of co. Antrim.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: A.D. 1807 to Present Day](iwd10)
+[Next: Chapter IX: A.D. 1807 to Present Day](iwd10.md)

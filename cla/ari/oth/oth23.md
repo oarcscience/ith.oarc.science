@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth22)  [Next](oth24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth22)  [Next](oth24.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ spherical also.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 12](oth24)
+[Next: Chapter 12](oth24.md)

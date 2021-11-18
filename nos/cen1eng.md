@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](preface)  [Next](cen2eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](preface)  [Next](cen2eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -607,6 +607,6 @@ but he dies too soon and the war ends.
 
 ------------------------------------------------------------------------
 
-[Next: Century II](cen2eng)
+[Next: Century II](cen2eng.md)
 
   

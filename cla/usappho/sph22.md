@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph21)  [Next](sph23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph21)  [Next](sph23.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM21">21</span>
 
-Ἕμεθεν δ᾽ ἔχεισθα λάθαν. [\[transcription\]](xlatall.htm#35)
+Ἕμεθεν δ᾽ ἔχεισθα λάθαν. [\[transcription\]](xlatall.htm#35.md)
 
 Thou forgettest me.
 
 ------------------------------------------------------------------------
 
-[Next: 22: Or lovest another...](sph23)
+[Next: 22: Or lovest another...](sph23.md)

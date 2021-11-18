@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Hindu
-Articles](../../hin/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Hindu
+Articles](../../hin/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -2335,4 +2335,4 @@ taken away my husband from me,--who, has left me for the sake of gain.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Hindu Articles](../../hin/etc/index)
+[Journals](../index) [Hindu Articles](../../hin/etc/index.md)

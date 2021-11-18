@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah54)  [Next](oah56) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah54)  [Next](oah56.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ of Arbroohk, but he failed to bring forth any harvest.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah56)
+[Next: Chapter II](oah56.md)

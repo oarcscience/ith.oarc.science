@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh10)  [Next](seh12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh10)  [Next](seh12.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ Gokul."
 
 ------------------------------------------------------------------------
 
-[Next: The Saraswati Puja](seh12)
+[Next: The Saraswati Puja](seh12.md)

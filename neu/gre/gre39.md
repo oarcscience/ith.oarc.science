@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre38)  [Next](gre40) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre38)  [Next](gre40.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ foretelling.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXV: Grettir goes to Thorhall-stead, and has to do with
-Glam](gre40)
+Glam](gre40.md)

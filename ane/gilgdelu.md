@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [Ancient Near East](index) 
+[Intangible Textual Heritage](../index)  [Ancient Near East](index.md) 
 
 ------------------------------------------------------------------------
 

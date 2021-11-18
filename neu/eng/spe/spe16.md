@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe15)  [Next](spe17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe15)  [Next](spe17.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 <span id="img_pl25"></span>
 
 [![Tutored Bears](tn/pl25.jpg)  
-Click to enlarge](img/pl25.jpg)  
+Click to enlarge](img/pl25.jpg.md)  
 Tutored Bears  
 
  
@@ -42,15 +42,15 @@ brutes. The plates that illustrate this chapter relate to both these
 modes of diverting the public, and prove the invention of them to be
 more ancient than is generally supposed. The tutored bear lying down at
 the command of his master, represented on the top of [plate
-twenty-five](#img_pl25), is taken from a manuscript of the tenth
+twenty-five](#img_pl25.md), is taken from a manuscript of the tenth
 century; and the three dancing bears beneath it are as early as the
 fourteenth century. I have already had occasion to make mention of these
 delineations; and the other two require no explanation. <span
-id="fr_690"></span>[1](#fn_689)
+id="fr_690"></span>[1](#fn_689.md)
 
 On we find a bear standing on its head, and another dancing with a
 monkey on its back; the original occurs in a book of prayers in the
-Harleian Collection, <span id="fr_691"></span>[2](#fn_690) written
+Harleian Collection, <span id="fr_691"></span>[2](#fn_690.md) written
 towards the close of the thirteenth century.
 
 I shall only observe, that there is but one among these six drawings in
@@ -75,7 +75,7 @@ taken young and tamed. The great Caledonian
 forest was so well supplied with bears that it furnished a considerable
 supply for the barbarous sports of Rome. It is supposed that bears
 became extinct in Britain before the tenth century. <span
-id="fr_692"></span>[1](#fn_691)
+id="fr_692"></span>[1](#fn_691.md)
 
 TRICKS PERFORMED BY APES AND MONKEYS.--Thomas Cartwright, in his
 *Admonition to Parliament against the Use of the Common Prayer*,
@@ -91,12 +91,12 @@ and the palace was crowded on such occasions with cheats, buffoons,
 rope-dancers, tale-tellers, jugglers, and pantomimical performers. They
 call those," says he, "jugglers, who play upon the vielle, and teach
 apes, bears," and perhaps we may add, dogs, "to dance." <span
-id="fr_693"></span>[2](#fn_692)
+id="fr_693"></span>[2](#fn_692.md)
 
 Apes and monkeys seem always to have been favourite actors in the
 joculator's troop of animals. A specimen of the performance of both, as
 far back as the fourteenth century, is given on plate twenty-six. <span
-id="fr_694"></span>[3](#fn_693) Leaping or tumbling over a chain or cord
+id="fr_694"></span>[3](#fn_693.md) Leaping or tumbling over a chain or cord
 held by the juggler, as we here see it depicted, was a trick well
 received at Bartholomew Fair in the time of Ben Jonson; and in the
 prologue to a comedy written by him, which bears that title, in 1614, it
@@ -130,7 +130,7 @@ the bill, "as, well as any
 <span id="img_pl26"></span>
 
 [![Tutored Animals](tn/pl26.jpg)  
-Click to enlarge](img/pl26.jpg)  
+Click to enlarge](img/pl26.jpg.md)  
 Tutored Animals  
 
  
@@ -138,21 +138,21 @@ Tutored Animals
 <span id="page_197">p. 197</span>
 
 \[paragraph continues\] Christian." <span
-id="fr_695"></span>[1](#fn_694) But all these feats were afterwards
+id="fr_695"></span>[1](#fn_694.md) But all these feats were afterwards
 outdone by a brother monkey, mentioned before, who performed many
 wonderful tricks at the Haymarket Theatre, both as a rope-dancer and an
-equilibrist. <span id="fr_696"></span>[2](#fn_695)
+equilibrist. <span id="fr_696"></span>[2](#fn_695.md)
 
 TRICKS PERFORMED BY HORSES IN THE THIRTEENTH CENTURY.--We are told that,
 in the thirteenth century, a horse was exhibited by the joculators which
 danced upon a rope; and oxen were rendered so docile as to ride upon
 horses, holding trumpets to their mouths as though they were sounding
-them. <span id="fr_697"></span>[3](#fn_696) If we refer to [plate
-twenty-seven](#img_pl27) we shall find the representation of several
+them. <span id="fr_697"></span>[3](#fn_696.md) If we refer to [plate
+twenty-seven](#img_pl27.md) we shall find the representation of several
 surprising tricks performed by horses, far exceeding those displayed in
 the present day (1800). At the top is depicted the cruel diversion of
 baiting a horse with dogs, from a fourteenth century manuscript. <span
-id="fr_698"></span>[4](#fn_697)
+id="fr_698"></span>[4](#fn_697.md)
 
 \* This wretched sport lingered on until the seventeenth century. In
 Evelyn's *Diary*, on August 17th, 1667, occurs the following entry:
@@ -164,10 +164,10 @@ to get money, under pretence that the horse had killed a man, which was
 false. I would not be persuaded to be a spectator."
 
 In the centre of the plate is a horse dancing upon his hind feet to the
-music of the pipe and tabor; <span id="fr_699"></span>[5](#fn_698) and
+music of the pipe and tabor; <span id="fr_699"></span>[5](#fn_698.md) and
 opposite to him is another horse rearing up and attacking the joculator,
 who opposes him with a small shield and a cudgel. <span
-id="fr_700"></span>[6](#fn_699) These mock combats, to which the animals
+id="fr_700"></span>[6](#fn_699.md) These mock combats, to which the animals
 were properly trained, were constantly regulated by some kind of musical
 instrument. The two performances delineated at the bottom of the plate
 are more astonishing than those preceding them.
@@ -184,7 +184,7 @@ Here it is deemed worthy to note, that in the year 1612, at a grand
 court festival, Mons. Pluvinel, riding-master to Louis XIII. of France,
 with three other gentlemen, accompanied by six esquires bearing their
 devices, executed a grand ballette-dance upon managed horses. <span
-id="fr_701"></span>[7](#fn_700) Something of the same kind is now done
+id="fr_701"></span>[7](#fn_700.md) Something of the same kind is now done
 (1800) at Astley's and the Circus; but at these places the dancing is
 performed by the horses moving upon their four feet according to the
 direction of their riders; and of course it is by no means so surprising
@@ -196,7 +196,7 @@ TRICKS BY HORSES IN QUEEN ANNE'S REIGN.--Horses are animals exceedingly
 
 susceptible of instruction, and their performances have been extended so
 far as to bear the appearance of rational discernment. In the Harleian
-Library <span id="fr_702"></span>[1](#fn_701) is a show-bill, published
+Library <span id="fr_702"></span>[1](#fn_701.md) is a show-bill, published
 in the reign of queen Anne, which is thus prefaced: "To be seen, at the
 Ship upon Great Tower Hill, the finest taught horse in the world." The
 abilities of the animal are specified as follows: "He fetches and
@@ -240,8 +240,8 @@ creature and its docility could not have escaped their notice; and yet
 the only trick performed by the dog, that occurs in the ancient
 paintings, is simply that of sitting upon his haunches in an upright
 position, which he might have been taught to do with very little
-trouble. Three specimens are given, one on [plate twenty-six](#img_pl26)
-and two on [plate twenty-eight](#img_pl28); they are all from the
+trouble. Three specimens are given, one on [plate twenty-six](#img_pl26.md)
+and two on [plate twenty-eight](#img_pl28.md); they are all from the
 oft-cited Oxford manuscript of 1344.
 
  
@@ -249,7 +249,7 @@ oft-cited Oxford manuscript of 1344.
 <span id="img_pl27"></span>
 
 [![Tricks taught to Horses](tn/pl27.jpg)  
-Click to enlarge](img/pl27.jpg)  
+Click to enlarge](img/pl27.jpg.md)  
 Tricks taught to Horses  
 
  
@@ -294,7 +294,7 @@ to the great amusement and disport of the polite spectators. One of the
 dogs at Sadler's Wells acted the part of a lady, and was carried by two
 other dogs; some of them were seated at a table, and waited on by
 others; and the whole concluded with the attack and storming of a fort,
-entirely performed by dogs. <span id="fr_703"></span>[1](#fn_702)
+entirely performed by dogs. <span id="fr_703"></span>[1](#fn_702.md)
 
 THE HARE AND TABOR, AND LEARNED PIG.--It is astonishing what may be
 effected by constant exertion and continually tormenting even the most
@@ -312,8 +312,8 @@ invention. A hare that beat the tabor is mentioned by Jonson, in his
 comedy of *Bartholmew Fayre*, acted at the commencement of the
 seventeenth century; and a representation of the same feat, taken from a
 drawing on a manuscript upwards of four hundred years old, is given on
-plate [twenty-two](spe15.htm#img_pl22). <span
-id="fr_704"></span>[1](#fn_703)
+plate [twenty-two](spe15.htm#img_pl22.md). <span
+id="fr_704"></span>[1](#fn_703.md)
 
 And here I cannot help mentioning a very ridiculous show of a learned
 pig, which of late days attracted much of the public notice, and at the
@@ -332,8 +332,8 @@ was afterwards reduced to half a crown; and finally to one shilling.
 A DANCING COCK AND THE DESERTER BIRD.--The joculators did not confine
 themselves to the tutoring of quadrupeds, but extended their practice to
 birds also; and a curious specimen of their art appears on [plate
-twenty-six](#img_pl26), where a cock is represented dancing on stilts to
-the music of a pipe and tabor. <span id="fr_705"></span>[2](#fn_704)
+twenty-six](#img_pl26.md), where a cock is represented dancing on stilts to
+the music of a pipe and tabor. <span id="fr_705"></span>[2](#fn_704.md)
 
 In the present day (1800), this may probably be considered as a mere
 effort of the illuminator's fancy, and admit of a doubt whether such a
@@ -386,7 +386,7 @@ much opposed by the clergy, and particularly by Paulinus, bishop of
 Nola, in the ninth century, who in one of his sermons tells us, that
 those concerned in it were wont to clothe themselves with skins of
 cattle, and put upon them the heads of beasts. <span
-id="fr_706"></span>[1](#fn_705) What effect his preaching may have had
+id="fr_706"></span>[1](#fn_705.md) What effect his preaching may have had
 at the time, I know not: the custom, however, was not totally
 suppressed, but may be readily traced from vestiges remaining of it, to
 the modern times. Dr Johnson, in his *Journey to the Western Islands of
@@ -397,14 +397,14 @@ which other men beat with sticks; he runs with all this noise round the
 house, which all the company quits in a counterfeited fright; the door
 is then shut, and no readmission obtained after their pretended terror,
 but by the repetition of a verse of poetry, which those acquainted with
-the custom are provided with. <span id="fr_707"></span>[2](#fn_706) The
+the custom are provided with. <span id="fr_707"></span>[2](#fn_706.md) The
 ancient court games, described in a former chapter, are certainly
 off-shoots from the Saturnalian disfigurements; and from the same stock
 we may pertinently derive the succeeding masquings and disguisements of
 the person frequently practised at certain seasons of the year; and
 hence also came the modern masquerades. Warton says, that certain court
 theatrical amusements were called mascarades very anciently in
-France. <span id="fr_708"></span>[3](#fn_707)
+France. <span id="fr_708"></span>[3](#fn_707.md)
 
 MUMMINGS AND MASQUERADES.--In the middle ages, mummings were very
 common. Mumm is said to be derived from the Danish word *mumme*, or
@@ -423,7 +423,7 @@ the mansions of the nobility, on occasions of festivity, it also
 frequently happened that the whole company appeared in borrowed
 characters; and, full license of speech being granted to every one, the
 discourses were not always kept within the bounds of decency. <span
-id="fr_709"></span>[1](#fn_708) These spectacles were exhibited with
+id="fr_709"></span>[1](#fn_708.md) These spectacles were exhibited with
 great splendour in former times and particularly during the reign of
 Henry VIII.; they have ceased, however, of late years to attract the
 notice of the opulent; and the regular masquerades which succeeded them,
@@ -435,7 +435,7 @@ The mummeries practised by the lower classes of the people usually took
 place at the Christmas holidays; and such persons as could not procure
 masks rubbed their faces over with soot, or painted them; hence
 Sebastian Brant, in his *Ship of Fools*, <span
-id="fr_710"></span>[2](#fn_709) alluding to this custom, says:--
+id="fr_710"></span>[2](#fn_709.md) alluding to this custom, says:--
 
 The one hath a visor ugley set on his face,  
   Another hath on a vile counterfaite vesture,  
@@ -445,7 +445,7 @@ Or painteth his visage with fume in such case,
 It appears that many abuses were committed under the sanction of these
 disguisements; and for this reason an ordinance was established, by
 which a man was liable to punishment who appeared in the streets of
-London with "a painted visage." <span id="fr_711"></span>[3](#fn_710) In
+London with "a painted visage." <span id="fr_711"></span>[3](#fn_710.md) In
 the third year of the reign of Henry VIII. it was ordained that no
 persons should appear abroad like mummers, covering their faces with
 vizors, and in disguised apparel, under pain of imprisonment for three
@@ -453,7 +453,7 @@ months. The same act enforced the penalty of 20s. against such as kept
 vizors or masks in their houses for the purpose of mumming.
 
 Bourne, in his *Vulgar Antiquities*, <span
-id="fr_712"></span>[4](#fn_711) speaks of a kind of mumming practised in
+id="fr_712"></span>[4](#fn_711.md) speaks of a kind of mumming practised in
 the North about Christmas time, which consisted in "changing of clothes
 between the men and the women, who, when dressed in each other's habits,
 go," says he, "from one neighbour's house to another, and partake of
@@ -471,7 +471,7 @@ orations.
 <span id="img_pl28"></span>
 
 [![Animals imitated](tn/pl28.jpg)  
-Click to enlarge](img/pl28.jpg)  
+Click to enlarge](img/pl28.jpg.md)  
 Animals imitated  
 
  
@@ -483,7 +483,7 @@ of Isabel of Bavaria, the queen of Charles VI. of France, she had
 several rich donations brought to her by mummers in different
 disguisements; one resembling a bear, another an unicorn, others like a
 company of Moors, and others as Turks or Saracens. <span
-id="fr_713"></span>[1](#fn_712)
+id="fr_713"></span>[1](#fn_712.md)
 
 When queen Elizabeth was entertained at Kenilworth castle, various
 spectacles were contrived for her amusement, and some of them produced
@@ -496,7 +496,7 @@ placed himself before her, and, after holding some discourse with a
 counterfeit echo, repeated a poetical oration in her praise, which was
 well received. This man was Thomas Gascoyne the poet; and the verses he
 spoke on the occasion were his own composition. The circumstance took
-place on the 10th of July 1575. <span id="fr_714"></span>[2](#fn_713)
+place on the 10th of July 1575. <span id="fr_714"></span>[2](#fn_713.md)
 
 The savage men, or wodehouses, as they are sometimes called, frequently
 made their appearance in the public shows; they were sometimes clothed
@@ -507,7 +507,7 @@ PARTIAL IMITATIONS OF ANIMALS.--The jugglers and the minstrels,
 observing how lightly these ridiculous disguisements were relished by
 the people in general, turned their talents towards the imitating of
 different animals, and rendered their exhibitions more pleasing by the
-addition of their new acquirements. On [plate twenty-eight](#img_pl28)
+addition of their new acquirements. On [plate twenty-eight](#img_pl28.md)
 are three specimens of their performances, all taken from the fourteenth
 century Bodleian MS. that has supplied so many of our illustrations. One
 of them presents to us the resemblance of a stag, and another that of a
@@ -541,7 +541,7 @@ In the reign of queen Anne, a man whose name was Clench, a native of
 Barnet, made his appearance at London. He performed at the corner of
 Bartholomew Lane, behind the Royal Exchange. His price for admittance
 was one shilling each person. I have his advertisement before me; <span
-id="fr_715"></span>[1](#fn_714) which states that he "imitated the
+id="fr_715"></span>[1](#fn_714.md) which states that he "imitated the
 horses, the huntsmen, and a pack of hounds, a sham doctor, an old woman,
 a drunken man, the bells, the flute, the double curtell, and the organ
 with three voices, by his own natural voice, to the greatest
@@ -549,10 +549,10 @@ perfection." He then professes himself to "be the only man that could
 ever attain to so great an art." He had, however, a rival, who is noted
 in one of the papers of the *Spectator*, and called the whistling man.
 His excellency consisted in counterfeiting the notes of all kinds of
-singing birds. <span id="fr_716"></span>[2](#fn_715) The same
+singing birds. <span id="fr_716"></span>[2](#fn_715.md) The same
 performance was exhibited in great perfection by the bird-tutor
 associated with Breslaw the juggler, mentioned a few pages back. This
-man assumed the name of Rosignol, <span id="fr_717"></span>[3](#fn_716)
+man assumed the name of Rosignol, <span id="fr_717"></span>[3](#fn_716.md)
 and, after he had quitted Breslaw, appeared on the stage at Covent
 Garden Theatre, where, in addition to his imitation of the birds, he
 executed a concerto on a fiddle without strings; that is, he made the
@@ -575,7 +575,7 @@ high antiquity. Fitz-Stephen, who lived in the reign of Henry II., tells
 us that, in the forenoon of every holiday, during the winter season, the
 young Londoners were amused with boars opposed to each other in battle,
 or with bulls and full-grown bears baited by dogs. <span
-id="fr_718"></span>[4](#fn_717) This author makes no mention of horses;
+id="fr_718"></span>[4](#fn_717.md) This author makes no mention of horses;
 and I believe the baiting of these noble and useful animals was never a
 general practice: it was, however, no doubt, partially performed; and
 the manner in which it was carried into execution appears on plate
@@ -591,16 +591,16 @@ metropolis set apart for the baiting of beasts, and especially the
 district of Saint Saviour's parish in Southwark, called Paris Garden;
 which place contained two bear-gardens, said to have been the first that
 were made near London; and in them, according to Stow, were scaffolds
-for the spectators to stand upon: <span id="fr_719"></span>[1](#fn_718)
+for the spectators to stand upon: <span id="fr_719"></span>[1](#fn_718.md)
 and this indulgence, we are told, they paid for in the following manner:
 "Those who go to Paris Garden, the Bell Savage, or Theatre, to behold
 bear-baiting, enterludes, or fence-play, must not account of any
 pleasant spectacle, unless first they pay one pennie at the gate,
 another at the entrie of the scaffold, and a third for quiet
-standing." <span id="fr_720"></span>[2](#fn_719) One Sunday afternoon in
+standing." <span id="fr_720"></span>[2](#fn_719.md) One Sunday afternoon in
 January 1583, the scaffolds being over-charged with spectators, fell
 down during the performance; and a great number of persons were killed
-or maimed by the accident. <span id="fr_721"></span>[3](#fn_720)
+or maimed by the accident. <span id="fr_721"></span>[3](#fn_720.md)
 
 BULL AND BEAR-BAITING PATRONISED BY ROYALTY.--Bull and bear-baiting is
 not encouraged by persons of rank and opulence in the present day
@@ -621,15 +621,15 @@ fighting and combating of wild and domestic beasts within the realm of
 England for the space of fourteen years." Prince Arthur had a bear-ward;
 when he visited the prior of Durham in 1530 with his troop of bears and
 apes, he received a gratuity of five shillings. <span
-id="fr_722"></span>[4](#fn_721)
+id="fr_722"></span>[4](#fn_721.md)
 
 Erasmus, who visited England in the reign of Henry VIII., says, there
 were "many herds of bears maintained in this country for the purpose of
-baiting." <span id="fr_723"></span>[5](#fn_722) When queen Mary visited
+baiting." <span id="fr_723"></span>[5](#fn_722.md) When queen Mary visited
 her sister the princess Elizabeth during her confinement at Hatfield
 House, the next morning, after mass, a grand exhibition of bear-baiting
 was made for their amusement, with which, it is said, "their highnesses
-were right well content." <span id="fr_724"></span>[6](#fn_723) Queen
+were right well content." <span id="fr_724"></span>[6](#fn_723.md) Queen
 Elizabeth, on the 25th of May 1559, soon after her accession to the
 throne, gave a splendid dinner to the French ambassadors, who afterwards
 were entertained with the baiting of bulls and bears, and the queen
@@ -639,19 +639,19 @@ herself stood with the ambassadors looking on the
 
 pastime till six at night. The day following, the same ambassadors went
 by water to Paris Garden, where they saw another baiting of bulls and of
-bears; <span id="fr_725"></span>[1](#fn_724) and again, twenty-seven
+bears; <span id="fr_725"></span>[1](#fn_724.md) and again, twenty-seven
 years posterior, queen Elizabeth received the Danish ambassador at
 Greenwich, who was treated with the sight of a bear and bull-baiting,
 "tempered," says Holinshed, "with other merry disports"; <span
-id="fr_726"></span>[2](#fn_725) and, for the diversion of the populace,
+id="fr_726"></span>[2](#fn_725.md) and, for the diversion of the populace,
 there was a horse with an ape upon his back; which highly pleased them,
 so that they expressed "their inward-conceived joy and delight with
 shrill shouts and variety of gestures." <span
-id="fr_727"></span>[3](#fn_726)
+id="fr_727"></span>[3](#fn_726.md)
 
 BULL AND BEAR-BAITING, HOW PERFORMED.--The manner in which these sports
 were exhibited towards the close of the sixteenth century, is thus
-described by Hentzner, <span id="fr_728"></span>[4](#fn_727) who was
+described by Hentzner, <span id="fr_728"></span>[4](#fn_727.md) who was
 present at one of the performances: "There is a place built in the form
 of a theatre, which serves for baiting of bulls and bears; they are
 fastened behind, and then worried by great English bull-dogs; but not
@@ -676,7 +676,7 @@ and, when he was loose, to shake his ears twice or thrice with the blood
 and the slaver hanging about his physiognomy." The same writer tells us,
 that thirteen bears were provided for this occasion, and they were
 baited with a great sort of ban-dogs. <span
-id="fr_729"></span>[5](#fn_728) In the foregoing relations, we find no
+id="fr_729"></span>[5](#fn_728.md) In the foregoing relations, we find no
 mention made of a ring put into the nose of the bear when he was baited;
 which certainly was the more modern practice; hence the expression by
 the duke of Newcastle, in the *Humorous Lovers*, printed in 1617: "I
@@ -700,7 +700,7 @@ boy, go fetch me a bagpipe; we will walk the streets in triumph, and
 give the people notice of our sport."
 
 BAITING IN QUEEN ANNE'S TIME.--The two following advertisements, <span
-id="fr_730"></span>[1](#fn_729) which were published in the reign of
+id="fr_730"></span>[1](#fn_729.md) which were published in the reign of
 queen Anne, may serve as a specimen of the elegant manner in which these
 pastimes were announced to the public:
 
@@ -736,7 +736,7 @@ regarded as a manly sport. After the Restoration this pastime was
 generally resumed with much zest. Sir Miles Stapleton replaced the ring
 for bull-baiting and the stone to which it was affixed in the
 market-place of Bedale, Yorkshire, in 1661. <span
-id="fr_731"></span>[2](#fn_730)
+id="fr_731"></span>[2](#fn_730.md)
 
 \* Bull-baiting was, however, considered more the sport of the populace
 than of gentlefolk. It was followed up in the Southwark Bear Garden, but
@@ -777,14 +777,14 @@ folk could no longer be set at naught, and bull-baiting was made illegal
 in 1835. Nevertheless the sport was still continued, after an illicit
 fashion, in a few places. It is said that there were bull-baitings at
 Wirksworth in 1840, at Eccles in 1842, and at West Derby in 1853. <span
-id="fr_732"></span>[1](#fn_731)
+id="fr_732"></span>[1](#fn_731.md)
 
 \* BULL-RUNNING AT TUTBURY AND STAMFORD.--The bull-running, as practiced
 at Tutbury and Stamford, and probably in other parts of England in old
 days, was a very different pastime, for which more could be said as a
 sport than the worrying of a chained-up brute. The bull-running at
 Tutbury was first described with any detail by Dr Plot in 1686. <span
-id="fr_733"></span>[2](#fn_732) A court of minstrels was established at
+id="fr_733"></span>[2](#fn_732.md) A court of minstrels was established at
 Tutbury by John of Gaunt who held their festival on August 16, the
 morrow of the feast of the Assumption. At the conclusion of the
 festivities a bull was given them at the priory gate by the prior of
@@ -804,7 +804,7 @@ Derbyshire, he
 <span id="img_pl29"></span>
 
 [![Sword and Buckler](tn/pl29.jpg)  
-Click to enlarge](img/pl29.jpg)  
+Click to enlarge](img/pl29.jpg.md)  
 Sword and Buckler  
 
  
@@ -817,7 +817,7 @@ this tenure devolved upon the earls and afterwards the dukes of
 Devonshire. Dr Plot considered that John of Gaunt had introduced this
 custom from Spain in imitation of the bull-fights of that nation. But Dr
 Pegge, in 1765, pointed out the absurdity of this contention. <span
-id="fr_734"></span>[1](#fn_733) The duke of Devonshire suppressed this
+id="fr_734"></span>[1](#fn_733.md) The duke of Devonshire suppressed this
 riotous custom in 1788.
 
 \* From time immemorial the town of Stamford annually celebrated, on
@@ -841,7 +841,7 @@ An attempt was made to stop the sport in 1788, but it survived until
 metropolitan police, the last bull-running, by the successful
 introduction of a smuggled-in bull, was accomplished amid fierce
 excitement. In a later year there was a feeble and last attempt to renew
-the ancient custom. <span id="fr_735"></span>[2](#fn_734)
+the ancient custom. <span id="fr_735"></span>[2](#fn_734.md)
 
 SWORD-PLAY.--The sword-dance, or, more properly, a combat with swords
 and bucklers, regulated by music, was exhibited by the Saxon gleemen. We
@@ -849,19 +849,19 @@ have spoken on this subject in a former chapter, and resume it here,
 because the jugglers of the middle ages were famous for their skill in
 handling the sword.
 
-The combat, represented on the centre of [plate twenty-nine](#img_pl29),
+The combat, represented on the centre of [plate twenty-nine](#img_pl29.md),
 taken from a thirteenth century manuscript, <span
-id="fr_736"></span>[3](#fn_735) varies, in several respects, from that
+id="fr_736"></span>[3](#fn_735.md) varies, in several respects, from that
 on , though both, I presume, are different modifications of the same
 performance, as well as that on the top of , <span
-id="fr_737"></span>[4](#fn_736) which is carried into execution without
+id="fr_737"></span>[4](#fn_736.md) which is carried into execution without
 the assistance of a minstrel.
 
 These combats bore some resemblance to those performed by the Roman
 gladiators; for which reason the jugglers were sometimes called
 gladiators by the early historians. *Mimi, salii, balatrones, emiliani,
 gladiatores, palestrite--et tota joculatorum copia*, are the titles
-given them by John of Salisbury. <span id="fr_738"></span>[5](#fn_737)
+given them by John of Salisbury. <span id="fr_738"></span>[5](#fn_737.md)
 It also appears that they instituted schools for teaching the art of
 defence in
 
@@ -883,7 +883,7 @@ to try masteries with sword and buckler; more were frightened than hurt,
 hurt than killed therewith, it being accounted unmanly to strike beneath
 the knee. But since that desperate traytor Rowland Yorke first used
 thrusting with rapiers, swords and bucklers are disused." <span
-id="fr_739"></span>[1](#fn_738) Jonson, in the induction to his play
+id="fr_739"></span>[1](#fn_738.md) Jonson, in the induction to his play
 called *Bartholomew Fair*, speaks of "the sword and buckler age in
 Smithfield"; and again, in the *Two Angry Women of Abbington*, a comedy
 by Henry Porter, printed in 1599, we have the following observation:
@@ -897,12 +897,12 @@ Such exercises had been practised by day and by night, to the great
 annoyance of the peaceable inhabitants of the city; and by the statute
 of Edward I. the offenders were subjected to the punishment of
 imprisonment for forty days; to which was afterwards added a mulct of
-forty marks. <span id="fr_740"></span>[2](#fn_739) These restrictions
+forty marks. <span id="fr_740"></span>[2](#fn_739.md) These restrictions
 certainly admitted of some exceptions; for it is well known that there
 were seminaries at London, wherein youth were taught the use of arms,
 held publicly after the institution of this ordinance. "The art of
 defence and use of weapons," says Stow, "is taught by professed
-masters"; <span id="fr_741"></span>[3](#fn_740) but these most probably
+masters"; <span id="fr_741"></span>[3](#fn_740.md) but these most probably
 were licensed by the city governors, and under their control. The author
 of a description of the colleges and schools in and about London, which
 he calls *The Third University of England*, printed in black letter in
@@ -932,8 +932,8 @@ part of England." Stow informs us, that the young Londoners, on
 holidays, after the evening prayer, were permitted to exercise
 themselves with their wasters and bucklers before their masters' doors.
 This pastime, I imagine, is represented by the fourteenth century
-drawing at the bottom of [plate twenty-nine](#img_pl29), <span
-id="fr_742"></span>[1](#fn_741) from whence the annexed engraving is
+drawing at the bottom of [plate twenty-nine](#img_pl29.md), <span
+id="fr_742"></span>[1](#fn_741.md) from whence the annexed engraving is
 taken, where clubs or bludgeons are substituted for swords.
 
 \* THE MASTERS OF DEFENCE.--"The Maisters of the Noble Science of
@@ -942,7 +942,7 @@ consolidated in the reign of Elizabeth. Among the Sloane MSS. of the
 British Museum is an interesting book compiled in 1575, which contains a
 record of this Association of Masters, with its rules, notes of prizes
 played by them, and many other details. <span
-id="fr_743"></span>[2](#fn_742) The Association consisted first of the
+id="fr_743"></span>[2](#fn_742.md) The Association consisted first of the
 "Scholler," or probationer; secondly, the "Free Scholler," which was the
 junior grade; then the "Provost," or assistant master; and lastly the
 "Maister." From the masters was chosen the small governing body known as
@@ -1046,7 +1046,7 @@ man for his temper and evenness in fighting."
 PUBLIC SWORD-PLAY.--The following show-bill, dated July 13, 1709,
 contains the common mode of challenging and answering used by the
 combatants of those days; it is selected from a great number now lying
-before me; <span id="fr_744"></span>[1](#fn_743) and, being rather
+before me; <span id="fr_744"></span>[1](#fn_743.md) and, being rather
 curious, I shall transcribe it without making any alteration.
 
 "At the Bear Garden in Hockley in the Hole, near Clerkenwell Green, a
@@ -1080,7 +1080,7 @@ I believe, from the
 
 manner of using it; one hand being placed at the middle, and the other
 equally between the end and the middle." <span
-id="fr_745"></span>[1](#fn_744) The quarter-staff was formerly used by
+id="fr_745"></span>[1](#fn_744.md) The quarter-staff was formerly used by
 the English, and especially in the western parts of the kingdom. I have
 seen a small pamphlet of 1625 with this title: "Three to One; being an
 English-Spanish combat, performed by a western gentleman of Tavystock,
@@ -1102,11 +1102,11 @@ one hand in the middle, and by the other between the middle and the end.
 When attacking, the latter hand shifted from one quarter of the staff to
 the other, giving the weapon a rapid circular motion, which brought the
 ends on the adversary at unexpected points. <span
-id="fr_746"></span>[2](#fn_745)
+id="fr_746"></span>[2](#fn_745.md)
 
 \* In the old *Playe of Robyn Hode* mention is made of his meeting a
 stout friar with "a quarter-staffe in his hande," and of the blows they
-exchanged with these weapons. <span id="fr_747"></span>[3](#fn_746)
+exchanged with these weapons. <span id="fr_747"></span>[3](#fn_746.md)
 Bouts at quarter-staff are of frequent occurrence in all ballad
 histories of Robin Hood. When Robin encountered Arthur a Bland, the
 tanner of Nottingham, we are told that--
@@ -1143,7 +1143,7 @@ Striving to aim each other to maim
 And knock for knock they hastily dealt,  
   Which held for two hours and more;  
 That all the wood rang at every bang  
-  They plied their work so sore. <span id="fr_748"></span>[1](#fn_747)
+  They plied their work so sore. <span id="fr_748"></span>[1](#fn_747.md)
 
  
 
@@ -1151,172 +1151,172 @@ That all the wood rang at every bang
 
 ### Footnotes
 
-<span id="fn_689"></span>[195:1](spe16.htm#fr_690) The two in the middle
+<span id="fn_689"></span>[195:1](spe16.htm#fr_690.md) The two in the middle
 are from the Bodleian MS. 264.
 
-<span id="fn_690"></span>[195:2](spe16.htm#fr_691) No. 6563.
+<span id="fn_690"></span>[195:2](spe16.htm#fr_691.md) No. 6563.
 
-<span id="fn_691"></span>[196:1](spe16.htm#fr_692) Harting's *Extinct
+<span id="fn_691"></span>[196:1](spe16.htm#fr_692.md) Harting's *Extinct
 British Animals*, 19.
 
-<span id="fn_692"></span>[196:2](spe16.htm#fr_693) *Essais Hist. sur
+<span id="fn_692"></span>[196:2](spe16.htm#fr_693.md) *Essais Hist. sur
 Paris*, vol. ii. p. 178.
 
-<span id="fn_693"></span>[196:3](spe16.htm#fr_694) The tumbling ape is
+<span id="fn_693"></span>[196:3](spe16.htm#fr_694.md) The tumbling ape is
 from Bodleian MS. No. 264.
 
-<span id="fn_694"></span>[197:1](spe16.htm#fr_695) From a Miscellaneous
+<span id="fn_694"></span>[197:1](spe16.htm#fr_695.md) From a Miscellaneous
 Collection of Papers, Harl. Lib. 5931.
 
-<span id="fn_695"></span>[197:2](spe16.htm#fr_696) Granger, *Biog.
+<span id="fn_695"></span>[197:2](spe16.htm#fr_696.md) Granger, *Biog.
 Hist.* vol. iv. p. 353.
 
-<span id="fn_696"></span>[197:3](spe16.htm#fr_697) *Mem. sur Ann.
+<span id="fn_696"></span>[197:3](spe16.htm#fr_697.md) *Mem. sur Ann.
 Cheval*, tom. i. p. 247.
 
-<span id="fn_697"></span>[197:4](spe16.htm#fr_698) Roy. Lib. No. 2, B.
+<span id="fn_697"></span>[197:4](spe16.htm#fr_698.md) Roy. Lib. No. 2, B.
 vii.
 
-<span id="fn_698"></span>[197:5](spe16.htm#fr_699) Roy. Lib. 20 D. iv.
+<span id="fn_698"></span>[197:5](spe16.htm#fr_699.md) Roy. Lib. 20 D. iv.
 
-<span id="fn_699"></span>[197:6](spe16.htm#fr_700) This and the two
+<span id="fn_699"></span>[197:6](spe16.htm#fr_700.md) This and the two
 illustrations at the bottom of the Plate are from Bodleian MSS. No. 264.
 
-<span id="fn_700"></span>[197:7](spe16.htm#fr_701) Menestrier, *Trait.
+<span id="fn_700"></span>[197:7](spe16.htm#fr_701.md) Menestrier, *Trait.
 de Tournois*, p, 218.
 
-<span id="fn_701"></span>[198:1](spe16.htm#fr_702) No. 5938.
+<span id="fn_701"></span>[198:1](spe16.htm#fr_702.md) No. 5938.
 
-<span id="fn_702"></span>[199:1](spe16.htm#fr_703) \* In Chambers's
+<span id="fn_702"></span>[199:1](spe16.htm#fr_703.md) \* In Chambers's
 *Book of Days*, i. 293-295, there is an illustrated account of a
 wonderfully trained troup of dogs and monkeys that performed in London
 in 1753, under the name of "Mrs Midnight's Animal Commedians."
 
-<span id="fn_703"></span>[200:1](spe16.htm#fr_704) Harl. MSS. No. 6563.
+<span id="fn_703"></span>[200:1](spe16.htm#fr_704.md) Harl. MSS. No. 6563.
 
-<span id="fn_704"></span>[200:2](spe16.htm#fr_705) *Ibid*.
+<span id="fn_704"></span>[200:2](spe16.htm#fr_705.md) *Ibid*.
 
-<span id="fn_705"></span>[201:1](spe16.htm#fr_706) Du Cange, *Glossary*,
+<span id="fn_705"></span>[201:1](spe16.htm#fr_706.md) Du Cange, *Glossary*,
 in vocibus *Cervula* et *Kalends*.
 
-<span id="fn_706"></span>[201:2](spe16.htm#fr_707) See also Bourne's
+<span id="fn_706"></span>[201:2](spe16.htm#fr_707.md) See also Bourne's
 *Vulgar Errors*, edited by Brand, p. 175.
 
-<span id="fn_707"></span>[201:3](spe16.htm#fr_708) *History of English
+<span id="fn_707"></span>[201:3](spe16.htm#fr_708.md) *History of English
 Poetry*, vol. i. p. 237.
 
-<span id="fn_708"></span>[202:1](spe16.htm#fr_709) *Mem. Anc. Cheval*,
+<span id="fn_708"></span>[202:1](spe16.htm#fr_709.md) *Mem. Anc. Cheval*,
 tom. ii. p. 68.
 
-<span id="fn_709"></span>[202:2](spe16.htm#fr_710) Translated by
+<span id="fn_709"></span>[202:2](spe16.htm#fr_710.md) Translated by
 Alexander Barclay, and printed by Pynson in 1508.
 
-<span id="fn_710"></span>[202:3](spe16.htm#fr_711) Stow's *Survey*, fol.
+<span id="fn_710"></span>[202:3](spe16.htm#fr_711.md) Stow's *Survey*, fol.
 680.
 
-<span id="fn_711"></span>[202:4](spe16.htm#fr_712) Chap. xvi.
+<span id="fn_711"></span>[202:4](spe16.htm#fr_712.md) Chap. xvi.
 
-<span id="fn_712"></span>[203:1](spe16.htm#fr_713) *Chron*. tom. i. iv.
+<span id="fn_712"></span>[203:1](spe16.htm#fr_713.md) *Chron*. tom. i. iv.
 chap. 157, Lord Berners' translation.
 
-<span id="fn_713"></span>[203:2](spe16.htm#fr_714) See Nichols'
+<span id="fn_713"></span>[203:2](spe16.htm#fr_714.md) See Nichols'
 *Progresses*, vol. i.
 
-<span id="fn_714"></span>[204:1](spe16.htm#fr_715) Miscell. Collect.
+<span id="fn_714"></span>[204:1](spe16.htm#fr_715.md) Miscell. Collect.
 Harl. Lib. No. 115.
 
-<span id="fn_715"></span>[204:2](spe16.htm#fr_716) Vol. viii. No. 570.
+<span id="fn_715"></span>[204:2](spe16.htm#fr_716.md) Vol. viii. No. 570.
 
-<span id="fn_716"></span>[204:3](spe16.htm#fr_717) Literally,
+<span id="fn_716"></span>[204:3](spe16.htm#fr_717.md) Literally,
 nightingale.
 
-<span id="fn_717"></span>[204:4](spe16.htm#fr_718) *Description of
+<span id="fn_717"></span>[204:4](spe16.htm#fr_718.md) *Description of
 London*. See also Stow's Survey, p. 78.
 
-<span id="fn_718"></span>[205:1](spe16.htm#fr_719) *Survey of London*,
+<span id="fn_718"></span>[205:1](spe16.htm#fr_719.md) *Survey of London*,
 ubi supra.
 
-<span id="fn_719"></span>[205:2](spe16.htm#fr_720) Lambarde's
+<span id="fn_719"></span>[205:2](spe16.htm#fr_720.md) Lambarde's
 *Perambulation of Kent*, published A.D. 1570, p. 248.
 
-<span id="fn_720"></span>[205:3](spe16.htm#fr_721) \* This accident
+<span id="fn_720"></span>[205:3](spe16.htm#fr_721.md) \* This accident
 produced a pamphlet entitled "A Godly Exhortation by occasion of the
 late Judgment of God shewed at Paris Garden, 13 January, 1583, upon
 divers Persons, whereof some were killed and many hurt at a
 Bear-bating."
 
-<span id="fn_721"></span>[205:4](spe16.htm#fr_722) Harting's *Extinct
+<span id="fn_721"></span>[205:4](spe16.htm#fr_722.md) Harting's *Extinct
 British Animals*, 27, 28. Mr Harting makes a curious blunder over the
 account roll of Durham Abbey, and imagines that the prior himself kept
 bears and apes.
 
-<span id="fn_722"></span>[205:5](spe16.htm#fr_723) *Erasmi Adagia*, p.
+<span id="fn_722"></span>[205:5](spe16.htm#fr_723.md) *Erasmi Adagia*, p.
 361.
 
-<span id="fn_723"></span>[205:6](spe16.htm#fr_724) *Life of Sir Thomas
+<span id="fn_723"></span>[205:6](spe16.htm#fr_724.md) *Life of Sir Thomas
 Pope*, sect. iii. p. 85.
 
-<span id="fn_724"></span>[206:1](spe16.htm#fr_725) Nichols'
+<span id="fn_724"></span>[206:1](spe16.htm#fr_725.md) Nichols'
 *Progresses*, vol. i. p. 40.
 
-<span id="fn_725"></span>[206:2](spe16.htm#fr_726) *Chronicle of Eng.*
+<span id="fn_725"></span>[206:2](spe16.htm#fr_726.md) *Chronicle of Eng.*
 vol. iii. fol. 1552.
 
-<span id="fn_726"></span>[206:3](spe16.htm#fr_727) Nichols'
+<span id="fn_726"></span>[206:3](spe16.htm#fr_727.md) Nichols'
 *Progresses*, vol. ii. p. 228.
 
-<span id="fn_727"></span>[206:4](spe16.htm#fr_728) *Itinerary*, printed
+<span id="fn_727"></span>[206:4](spe16.htm#fr_728.md) *Itinerary*, printed
 in Latin, A.D. 1598. See Lord Orford's translation, Strawberry Hill, p.
 42.
 
-<span id="fn_728"></span>[206:5](spe16.htm#fr_729) Nichols'
+<span id="fn_728"></span>[206:5](spe16.htm#fr_729.md) Nichols'
 *Progresses*, vol. i. fol. 249.
 
-<span id="fn_729"></span>[207:1](spe16.htm#fr_730) Harl. MSS. No. 15.
+<span id="fn_729"></span>[207:1](spe16.htm#fr_730.md) Harl. MSS. No. 15.
 
-<span id="fn_730"></span>[207:2](spe16.htm#fr_731) The details are given
+<span id="fn_730"></span>[207:2](spe16.htm#fr_731.md) The details are given
 in his *Household Books*: see *Ancestor*, Nos. ii. and iii.
 
-<span id="fn_731"></span>[208:1](spe16.htm#fr_732) *Notes and Queries*,
+<span id="fn_731"></span>[208:1](spe16.htm#fr_732.md) *Notes and Queries*,
 Ser. VI. i 86, 105, 186.
 
-<span id="fn_732"></span>[208:2](spe16.htm#fr_733) *Natural History of
+<span id="fn_732"></span>[208:2](spe16.htm#fr_733.md) *Natural History of
 Staffordshire*, 439.
 
-<span id="fn_733"></span>[209:1](spe16.htm#fr_734) *Archæologia*, ii.
+<span id="fn_733"></span>[209:1](spe16.htm#fr_734.md) *Archæologia*, ii.
 86-91.
 
-<span id="fn_734"></span>[209:2](spe16.htm#fr_735) There is a good
+<span id="fn_734"></span>[209:2](spe16.htm#fr_735.md) There is a good
 summary of the history of the Stamford bull-running in Chambers's *Book
 of Days*, ii, 574-576.
 
-<span id="fn_735"></span>[209:3](spe16.htm#fr_736) Roy. Lib. No. 14, E.
+<span id="fn_735"></span>[209:3](spe16.htm#fr_736.md) Roy. Lib. No. 14, E.
 iii.
 
-<span id="fn_736"></span>[209:4](spe16.htm#fr_737) Roy. Lib. No. 20, D.
+<span id="fn_736"></span>[209:4](spe16.htm#fr_737.md) Roy. Lib. No. 20, D.
 vi.
 
-<span id="fn_737"></span>[209:5](spe16.htm#fr_738) Johan.
+<span id="fn_737"></span>[209:5](spe16.htm#fr_738.md) Johan.
 Sarisburiensis, *De Nugis Curialium*, lib. i. cap. viii. p. 34.
 
-<span id="fn_738"></span>[210:1](spe16.htm#fr_739) *Worthies of
+<span id="fn_738"></span>[210:1](spe16.htm#fr_739.md) *Worthies of
 England*, A.D. 1662.
 
-<span id="fn_739"></span>[210:2](spe16.htm#fr_740) Maitland's *History
+<span id="fn_739"></span>[210:2](spe16.htm#fr_740.md) Maitland's *History
 of London*, book i, chap. xi.
 
-<span id="fn_740"></span>[210:3](spe16.htm#fr_741) *Survey of London*,
+<span id="fn_740"></span>[210:3](spe16.htm#fr_741.md) *Survey of London*,
 chap. ii.
 
-<span id="fn_741"></span>[211:1](spe16.htm#fr_742) Bodleian MSS. No.
+<span id="fn_741"></span>[211:1](spe16.htm#fr_742.md) Bodleian MSS. No.
 264.
 
-<span id="fn_742"></span>[211:2](spe16.htm#fr_743) \* These rules are
+<span id="fn_742"></span>[211:2](spe16.htm#fr_743.md) \* These rules are
 printed in full and many other extracts given in the chapter entitled
 "Prize-players and prize-fighters," of Mr A. Hutton's valuable book,
 *The Sword and the Centuries* (1901).
 
-<span id="fn_743"></span>[213:1](spe16.htm#fr_744) In a Miscellaneous
+<span id="fn_743"></span>[213:1](spe16.htm#fr_744.md) In a Miscellaneous
 Collection of Title-pages, Bills, etc., in the Harleian Library, No.
 115.
 
@@ -1324,17 +1324,17 @@ Collection of Title-pages, Bills, etc., in the Harleian Library, No.
 particulars of the prize-fighting heroes of queen Anne's days, such as
 Donald MacBane and James Figs.
 
-<span id="fn_744"></span>[214:1](spe16.htm#fr_745) Dictionary, word
+<span id="fn_744"></span>[214:1](spe16.htm#fr_745.md) Dictionary, word
 *Quarter-staff*.
 
-<span id="fn_745"></span>[214:2](spe16.htm#fr_746) *Century Dictionary*.
+<span id="fn_745"></span>[214:2](spe16.htm#fr_746.md) *Century Dictionary*.
 
-<span id="fn_746"></span>[214:3](spe16.htm#fr_747) Child's *Ballads*,
+<span id="fn_746"></span>[214:3](spe16.htm#fr_747.md) Child's *Ballads*,
 iii. 127.
 
-<span id="fn_747"></span>[215:1](spe16.htm#fr_748) Child's *Ballads*,
+<span id="fn_747"></span>[215:1](spe16.htm#fr_748.md) Child's *Ballads*,
 iii. 138.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](spe17)
+[Next: Chapter VII](spe17.md)

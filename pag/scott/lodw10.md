@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](lodw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](lodw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0756778565/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -889,7 +889,7 @@ original publication I was strongly impressed with the belief that the
 narrative was like some of Swift's advertisements, a jocular experiment
 upon the credulity of the public. But it was certainly published *bona
 fide*, and Mr. Hone, on the authority of Mr. Brayfield, has since fully
-explained the wonder. <span id="fr_84"></span>[85](#fn_84)
+explained the wonder. <span id="fr_84"></span>[85](#fn_84.md)
 
       Many such impositions have been detected, and many others have
 been successfully concealed; but to know what has been discovered in
@@ -1296,7 +1296,7 @@ recovering the exercise of her reason, faith, and hope, having cast up a
 short and silent prayer to God, she turns about, and bespeaks her: ' In
 the name of God, mother, why do you trouble me ?' ' Peace,' say's the
 spectrum; ' I will do thee no hurt.' ' What will you have of me ?' says
-the daughter."&c.  <span id="fr_85"></span>[86](#fn_85) Dunton, the
+the daughter."&c.  <span id="fr_85"></span>[86](#fn_85.md) Dunton, the
 narrator an probably the contriver of the story, proceeds to inform us a
 length of a commission which the wife of Mr. Leckie receives from the
 ghost to deliver to Atherton, Bishop of Waterford, a guilty and
@@ -1459,17 +1459,17 @@ burning them for their pains.
 
 ### Footnotes
 
-<span id="fn_80"></span>[81](lodw09.htm#fr_80) omitted.
+<span id="fn_80"></span>[81](lodw09.htm#fr_80.md) omitted.
 
-<span id="fn_81"></span>[82](lodw09.htm#fr_81) omitted.
+<span id="fn_81"></span>[82](lodw09.htm#fr_81.md) omitted.
 
-<span id="fn_82"></span>[83](lodw09.htm#fr_82) omitted.
+<span id="fn_82"></span>[83](lodw09.htm#fr_82.md) omitted.
 
-<span id="fn_83"></span>[84](lodw09.htm#fr_83) omitted.
+<span id="fn_83"></span>[84](lodw09.htm#fr_83.md) omitted.
 
-<span id="fn_84"></span>[85](lodw10.htm#fr_84) See Hone's " Every Day
+<span id="fn_84"></span>[85](lodw10.htm#fr_84.md) See Hone's " Every Day
 Book," p. 62.
 
-<span id="fn_85"></span>[86](lodw10.htm#fr_85) "Apparition Evidence."
+<span id="fn_85"></span>[86](lodw10.htm#fr_85.md) "Apparition Evidence."
 
      THE END

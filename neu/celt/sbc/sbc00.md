@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](sbc01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](sbc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,13 +66,13 @@ MCMXI.
 <span id="img_spine"></span>
 
 [![Front Cover and Spine](tn/spine.jpg)  
-Click to enlarge](img/spine.jpg)  
+Click to enlarge](img/spine.jpg.md)  
 Front Cover and Spine  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 Scanned at Intangible Textual Heritage, January, 2007. Proofed and
@@ -83,4 +83,4 @@ attribution is included in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](sbc01)
+[Next: Preface](sbc01.md)

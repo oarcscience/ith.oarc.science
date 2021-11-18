@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo13)  [Next](sdo15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo13)  [Next](sdo15.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ establishment of the ceremonial camp.
 
 ------------------------------------------------------------------------
 
-[Next: The Third Day](sdo15)
+[Next: The Third Day](sdo15.md)

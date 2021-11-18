@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd15)  [Next](odd17) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd15)  [Next](odd17.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,14 +126,14 @@ weather was hot and dry. Whilst the Jackal was in it, the bullock's skin
 crinkled up so tightly with the heat that it became too hard for him to
 bite through, and so he could not get out again.
 
-The Mahars  <span id="fr_60"></span>[1](#fn_60) of the village all came
+The Mahars  <span id="fr_60"></span>[1](#fn_60.md) of the village all came
 out to bury the dead bullock. The Jackal, who was inside it, feared that
 if they caught him they would kill him--and that if they did not
 discover him he would be buried alive--so on their approach he called
 out, 'People, people! take care how you touch me, for I am a great
 saint.' The poor people were very much frightened when they heard the
 dead bullock talking, and thought that some mighty spirit must indeed
-possess it.  <span id="fr_61"></span>[2](#fn_61) 'Who are you, sir, and
+possess it.  <span id="fr_61"></span>[2](#fn_61.md) 'Who are you, sir, and
 what do you want?' they cried. 'I,' answered the Jackal, 'am a very holy
 saint. I am also the god of your village, and I am very angry with you
 because you never worship me, nor bring me offerings.'--'O my Lord,'
@@ -153,7 +153,7 @@ many, many miles, but he got away in spite of them all.
 
 On, on, he ran--on, on, for a very long way, until at last he came to a
 place where a little kid lived under a little sicakai  <span
-id="fr_62"></span>[3](#fn_62) tree. All her relations and friends were
+id="fr_62"></span>[3](#fn_62.md) tree. All her relations and friends were
 away, and when she saw him coming she thought to herself, 'Unless I
 frighten this Jackal he will eat me.' So she ran as hard as she could up
 against the sicakai-tree, which made all the branches shake, and the
@@ -288,7 +288,7 @@ none of her friends of the treasure she had found, and the poor stupid
 Brahman and his family did not know what they had lost, for they had
 never thought of opening any of the melons; so that for all the precious
 stones they sold they only got a few pice. <span
-id="fr_63"></span>[4](#fn_63)
+id="fr_63"></span>[4](#fn_63.md)
 
 Next day when they looked out of the window, the melon plant was again
 covered with fine ripe melons, and again the woman who had bought those
@@ -386,7 +386,7 @@ So, running into his cave, he fetched thence a small chattee, and gave
 it to the Brahman, saying, 'Take this chattee; whenever you or any of
 the family are hungry, you will always find in it as good a dinner as
 this.' And putting his paw into the chattee, he extracted thence currie,
-and rice, and pilau,  <span id="fr_64"></span>[5](#fn_64) and all sorts
+and rice, and pilau,  <span id="fr_64"></span>[5](#fn_64.md) and all sorts
 of good things, enough to feast a hundred men; and the more he took out
 of the chattee, the more remained inside.
 
@@ -519,19 +519,19 @@ happily for the rest of their days.
 
 ### Footnotes
 
-<span id="fn_60"></span>[1](odd16.htm#fr_60) The lowest castes employed
+<span id="fn_60"></span>[1](odd16.htm#fr_60.md) The lowest castes employed
 as scavengers in every village.
 
-<span id="fn_61"></span>[2](odd16.htm#fr_61) See Notes.
+<span id="fn_61"></span>[2](odd16.htm#fr_61.md) See Notes.
 
-<span id="fn_62"></span>[3](odd16.htm#fr_62) Acacia concinna.
+<span id="fn_62"></span>[3](odd16.htm#fr_62.md) Acacia concinna.
 
-<span id="fn_63"></span>[4](odd16.htm#fr_63) A pice is equal to about
+<span id="fn_63"></span>[4](odd16.htm#fr_63.md) A pice is equal to about
 1/2d.
 
-<span id="fn_64"></span>[5](odd16.htm#fr_64) Cooked meat with almonds,
+<span id="fn_64"></span>[5](odd16.htm#fr_64.md) Cooked meat with almonds,
 raisins, and spice.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Tit for Tat](odd17)
+[Next: XIII. Tit for Tat](odd17.md)

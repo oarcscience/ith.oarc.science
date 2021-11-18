@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov09)  [Next](hlov11) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov09)  [Next](hlov11.md) 
 
 ------------------------------------------------------------------------
 
@@ -186,4 +186,4 @@ into the heart of the flame and was lost.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Pele's Tree](hlov11)
+[Next: VI. Pele's Tree](hlov11.md)

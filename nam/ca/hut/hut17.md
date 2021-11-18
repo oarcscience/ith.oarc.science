@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut16)  [Next](hut18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut16)  [Next](hut18.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XIV.
 
-### The Coming of White Men. <span id="fr_44"></span>[1](#fn_44)
+### The Coming of White Men. <span id="fr_44"></span>[1](#fn_44.md)
 
 <span id="page_201">p. 201</span>
 
@@ -26,7 +26,7 @@ only one night they went up the river with their train.
 
 ### Footnotes
 
-<span id="fn_44"></span>[200:1](hut17.htm#fr_44) Told at Hupa, July
+<span id="fn_44"></span>[200:1](hut17.htm#fr_44.md) Told at Hupa, July
 1902, by the wife of Dan Miskût. She was born at Medildiñ and lived
 there until her marriage. She appears to be about 75 years old. Her
 younger brother at the time of this incident was a small child. He was
@@ -35,4 +35,4 @@ years.
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Young Man who Threw Himself with the Arrow](hut18)
+[Next: XV. The Young Man who Threw Himself with the Arrow](hut18.md)

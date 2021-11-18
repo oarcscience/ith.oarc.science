@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had00)  [Next](had02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had00)  [Next](had02.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ any material change.
 
 ------------------------------------------------------------------------
 
-[Next: Abbreviations](had02)
+[Next: Abbreviations](had02.md)

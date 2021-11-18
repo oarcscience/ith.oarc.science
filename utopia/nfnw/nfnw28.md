@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw27)  [Next](nfnw29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw27)  [Next](nfnw29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ concluded she smiling.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX: A Resting-place On The Upper Thames](nfnw29)
+[Next: Chapter XXIX: A Resting-place On The Upper Thames](nfnw29.md)

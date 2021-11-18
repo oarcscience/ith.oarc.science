@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../index)  [Piri Re'is Index](index) 
+[Intangible Textual Heritage](../index)  [Piri Re'is Index](index.md) 
 
 ------------------------------------------------------------------------
 
 ### Key to the Piri Re'is Map
 
 Click on the outlined areas to jump to the translation.  
-[Jump to translation](#starttrans)
+[Jump to translation](#starttrans.md)
 
 <table style="width:100%;" data-border="1" data-cellspacing="0" data-cellpadding="0">
 <colgroup>

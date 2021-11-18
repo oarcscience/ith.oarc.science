@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp21)  [Next](hmvp23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp21)  [Next](hmvp23.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ This daitya had a
 
 <span id="img_14900"></span> <span align="CENTER"> [![THE NRISINGHA
 AVATĀRA.](tn/14900.jpg)  
-Click to enlarge](img/14900.jpg)  
+Click to enlarge](img/14900.jpg.md)  
 THE NRISINGHA AVATĀRA.  
 </span>
 
@@ -38,7 +38,7 @@ neither man nor animal, and slew him. By the assumption of this form the
 of the deity, because in a former incarnation he had slain his brother,
 is a most interesting one. And as it teaches the wonderful efficacy of
 Vishnu's worship, it is given at some length. It is taken mostly from
-the "Vishnu Purāna." <span id="fr_153"></span>[\*](#fn_153)
+the "Vishnu Purāna." <span id="fr_153"></span>[\*](#fn_153.md)
 
 "Hiranyakasipu, the son of Diti, had formerly brought the three worlds
 under his authority, confiding in a boon bestowed upon him by Brahmā,.
@@ -208,14 +208,14 @@ letter, for it was evening when Vishnu slew him; this is neither day nor
 night. It was done under the droppings of the thatch, and this,
 according to a Hindu proverb, is out of the earth, and he was not killed
 by a man or an ordinary animal." <span
-id="fr_154"></span>[\*](hmvp23.htm#fn_154)
+id="fr_154"></span>[\*](hmvp23.htm#fn_154.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_153"></span>[150:\*](hmvp22.htm#fr_153) Page 126 ff.
+<span id="fn_153"></span>[150:\*](hmvp22.htm#fr_153.md) Page 126 ff.
 
 ------------------------------------------------------------------------
 
-[Next: 5. The Vāmana or Dwarf Avatāra](hmvp23)
+[Next: 5. The Vāmana or Dwarf Avatāra](hmvp23.md)

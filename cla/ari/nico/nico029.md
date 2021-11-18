@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico028) 
-[Next](nico030) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico028.md) 
+[Next](nico030.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ man endures death not because it is noble but to fly from evil.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. Five kinds of courage improperly so called](nico030)
+[Next: Chapter 8. Five kinds of courage improperly so called](nico030.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Next](toc)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Next](toc.md)
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ DESERET NEWS PRINTING AND PUBLISHING ESTABLISHMENT.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](toc)
+[Next: Contents](toc.md)

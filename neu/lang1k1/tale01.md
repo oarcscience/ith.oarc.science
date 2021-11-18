@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](illu)  [Next](tale02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](illu)  [Next](tale02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ Sultan daily with a fresh wife, and
 <span id="img_00300"></span>
 
 [![SCHEHERAZADE, DINARZADE, AND THE SULTAN](tn/00300.jpg)  
-Click to enlarge](img/00300.jpg)  
+Click to enlarge](img/00300.jpg.md)  
 SCHEHERAZADE, DINARZADE, AND THE SULTAN  
 
 <span class="contnote">\[paragraph continues\]</span> I implore you, by
@@ -183,4 +183,4 @@ your highness permit me to do as my sister asks?" said she.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Merchant and the Genius](tale02)
+[Next: The Story of the Merchant and the Genius](tale02.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl08)  [Next](orl10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl08)  [Next](orl10.md) 
 
 ------------------------------------------------------------------------
 
@@ -1072,4 +1072,4 @@ If you to hear that other strain resort.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 10](orl10)
+[Next: Canto 10](orl10.md)

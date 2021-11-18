@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Shinto](../index) 
+[Sacred-Texts](../../index) [Shinto](../index.md) 
 
 ------------------------------------------------------------------------
 

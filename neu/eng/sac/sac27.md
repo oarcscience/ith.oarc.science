@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac26)  [Next](sac28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac26)  [Next](sac28.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,10 +75,10 @@ which recur each year. But with regard to the
 <span class="contnote">\[paragraph continues\]</span> May year, during
 the first week of May the sun's declination is changing by over a
 quarter of a degree daily, so that we must not expect to find the
-declination of 16° 20´ (see [p. 22](sac06.htm#page_22)) rigidly adhered
+declination of 16° 20´ (see [p. 22](sac06.htm#page_22).md) rigidly adhered
 to.
 
-As I have shown ([p. 23](sac06.htm#page_23)), the sun's passage through
+As I have shown ([p. 23](sac06.htm#page_23).md), the sun's passage through
 this declination four times on its annual path on the dates stated
 accurately divides the year into four equal part's. But this accuracy
 might have been neglected by the early observers, so that, for instance,
@@ -94,7 +94,7 @@ following diagram:—
 
 [![FIG. 50.—Place of first appearance of the May sun, in British
 latitudes.](tn/fig50.jpg)  
-Click to enlarge](img/fig50.jpg)  
+Click to enlarge](img/fig50.jpg.md)  
 FIG. 50.—Place of first appearance of the May sun, in British
 latitudes.  
 
@@ -109,7 +109,7 @@ with a sea horizon, are shown in .
 [![FIG. 51.—Showing the influence of the height of the sky-line on the
 apparent place of sunrise in May and August. The double circle shows the
 tabular place of sun's centre.](tn/fig51.jpg)  
-Click to enlarge](img/fig51.jpg)  
+Click to enlarge](img/fig51.jpg.md)  
 FIG. 51.—Showing the influence of the height of the sky-line on the
 apparent place of sunrise in May and August. The double circle shows the
 tabular place of sun's centre.  
@@ -118,4 +118,4 @@ tabular place of sun's centre.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. The Merry Maidens Circle](sac28)
+[Next: Chapter XXV. The Merry Maidens Circle](sac28.md)

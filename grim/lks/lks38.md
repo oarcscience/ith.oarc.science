@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks37)  [Next](lks39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks37)  [Next](lks39.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ like reasoning creatures; obey the living breath, the law which I speak.
 
 ------------------------------------------------------------------------
 
-[Next: Ye Greter Curse](lks39)
+[Next: Ye Greter Curse](lks39.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc37)  [Next](sfoc39) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc37)  [Next](sfoc39.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ explained it in detail.
 
 ------------------------------------------------------------------------
 
-[Next: This is for Hunting Birds](sfoc39)
+[Next: This is for Hunting Birds](sfoc39.md)

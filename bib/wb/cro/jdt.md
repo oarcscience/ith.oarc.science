@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](tob)  [Next](aes) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](tob)  [Next](aes.md) 
 
 ------------------------------------------------------------------------
 
@@ -1342,4 +1342,4 @@ Izraelovim.
 
 ------------------------------------------------------------------------
 
-[Next: Additions to Esther](aes)
+[Next: Additions to Esther](aes.md)

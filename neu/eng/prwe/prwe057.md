@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe056)  [Next](prwe058) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe056)  [Next](prwe058.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ on the BARGEST.
 
 ------------------------------------------------------------------------
 
-[Next: Morva or Morveth](prwe058)
+[Next: Morva or Morveth](prwe058.md)

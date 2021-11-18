@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das10)  [Next](das12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das10)  [Next](das12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -31,11 +31,11 @@ On Bismark Street is found the House of Prayer, one of the many churches
 established throughout the country by Bishop Grace. Here several times
 each year the leader visits his congregation, and the day on which
 "Daddy Grace" <span
-id="fr_46"></span>[1](#fn_46) [16](das26.htm#xref_16) returns to his
+id="fr_46"></span>[1](#fn_46) [16](das26.htm#xref_16.md) returns to his
 flock is always a gala occasion. Regular members and visitors from
 outlying districts crowd the heavy lumber benches of the House of
 Prayer. The air is tense with excitement. Above the confusion can be
-heard the strident but rhythmic beat of drums. [23](das26.htm#xref_23)
+heard the strident but rhythmic beat of drums. [23](das26.htm#xref_23.md)
 Bright splashes of color are given by the crepe paper decorations and
 the vividly contrasting military costumes of members of the church
 organizations, among which are the Lilies of the Valley, the Queens, the
@@ -63,7 +63,7 @@ to his own statement, the Holy Prophet, as his followers call him, is of
 Portuguese birth. His long dark hair which falls to his shoulders, his
 piercing eyes, his pointed beard, and sideburns all combine to give him
 a distinguished and unusual appearance. <span
-id="fr_47"></span>[1](#fn_47)
+id="fr_47"></span>[1](#fn_47.md)
 
 The procession continues to the front of the church, where, with much
 ceremony, the Bishop seats himself upon a lofty throne set far back on
@@ -81,11 +81,11 @@ indicating that he is scarcely aware of this carefully planned
 reception.
 
 Between the musical numbers several of the congregation rise and loudly
-testify to the miracles that Bishop Grace [22](das26.htm#xref_22) has
+testify to the miracles that Bishop Grace [22](das26.htm#xref_22.md) has
 performed in their behalf. A flourishing sale is conducted in
 consecrated handkerchiefs and copies of a newspaper published by the
 cult. These are believed to possess unusual healing
-powers. [8](das26.htm#xref_8), [12](das26.htm#xref_12) A ready market is
+powers. [8](das26.htm#xref_8), [12](das26.htm#xref_12.md) A ready market is
 also found for large pictures of the Bishop, for it is said that to chew
 up his likeness will cure many kinds of illness.
 
@@ -97,14 +97,14 @@ one. At first the procession is orderly and fairly quiet, but as time
 passes, the music becomes increasingly loud. Above the brass instruments
 the steady throb of the drum can be heard. Voices are raised in
 accompaniment, feet stamp, shoulders sway, and hands
-clap. [19](das26.htm#xref_19)
+clap. [19](das26.htm#xref_19.md)
 
 Around and around the procession winds. The singing and dancing become
 wilder and more abandoned. Many now close their eyes, dancing blindly
 and stumbling into those near them and into the benches and posts. By
 this time the music is almost deafening and the noise made by the
 worshipers is equally loud. The muscles of their bodies twitching
-convulsively, they continue in their dance. [46](das26.htm#xref_46)
+convulsively, they continue in their dance. [46](das26.htm#xref_46.md)
 
 Occasionally one of the participants stops, and, regardless of the
 hindrance to the rest of the worshipers, jumps up and down wildly,
@@ -203,38 +203,38 @@ Shortly after a visit from the Bishop we pursued our course
 
 of research in Brownville. We found a number of people who had been
 named for week days or the month in which they had been born. Thursday
-Jones, <span id="fr_48"></span>[1](#fn_48) when questioned about this
+Jones, <span id="fr_48"></span>[1](#fn_48.md) when questioned about this
 particular custom, replied, "Dey name me dat way jis cuz uh happen tuh
 be bawn on Tursday, I guess. Sech tings seem tuh be in our fambly. I hab
 an uncle whose name is Monday Collins. It seem tuh come duh fus ting tuh
 folks' mine tuh name duh babies fuh duh day dey is bawn
-on." [20](das26.htm#xref_20)
+on." [20](das26.htm#xref_20.md)
 
-Another man <span id="fr_49"></span>[2](#fn_49) told us, "We hab membuhs
+Another man <span id="fr_49"></span>[2](#fn_49.md) told us, "We hab membuhs
 in our fambly name Monday, Friday, July an Augus. Dey jis didn tink ub
-any name tuh call em but duh day dey wuz bawn. [20](das26.htm#xref_20)
+any name tuh call em but duh day dey wuz bawn. [20](das26.htm#xref_20.md)
 Deah wuz two brudduhs call July an Augus an deah two sons wuz name aftuh
 um. Some uh deze names go all duh way back tuh slabery time. Duh chillun
 jis name aftuh duh kin."
 
 "Ise quainted wid two ole men, one call Uncle Friday, duh othuh Uncle
 July," was the statement of a third Brownville resident. <span
-id="fr_50"></span>[3](#fn_50) "One wuz bawn on Good Friday an duh othuh
-on duh Foth uh July." [20](das26.htm#xref_20)
+id="fr_50"></span>[3](#fn_50.md) "One wuz bawn on Good Friday an duh othuh
+on duh Foth uh July." [20](das26.htm#xref_20.md)
 
 We learned that certain foods are viewed with suspicion and are never
-eaten or allowed to be brought into the house. [65](das26.htm#xref_65)
+eaten or allowed to be brought into the house. [65](das26.htm#xref_65.md)
 The exact reason why these foods are forbidden was not explained to us.
 One woman said, "One ting I do lak is peanuts, but I dohn eat um. An I
 dohn let nobody else eat um in muh house. I dohn know jis wy, but it
-bring bad luck all duh week." <span id="fr_51"></span>[4](#fn_51)
+bring bad luck all duh week." <span id="fr_51"></span>[4](#fn_51.md)
 
-The palmetto tree, Robert McNichols <span id="fr_52"></span>[5](#fn_52)
+The palmetto tree, Robert McNichols <span id="fr_52"></span>[5](#fn_52.md)
 told us, supplies an edible substance in the form of palmetto cabbage
 taken from the center of the tree, about a foot below the top. This is
 the terminal bud of the tree, white in color, tender, and resembling the
 ordinary northern cabbage. It may be eaten cooked or
-uncooked. [45a](das26.htm#xref_45a)
+uncooked. [45a](das26.htm#xref_45a.md)
 
 From the same tree a wine is made. We learned two different recipes for
 the preparation of this beverage. The wine is sometimes made from the
@@ -244,51 +244,51 @@ is put in a container
 <span id="page_49">p. 49</span>
 
 where it is allowed to ferment, after which it is strained and sugar
-added. <span id="fr_53"></span>[1](#fn_53) [45b](das26.htm#xref_45b) The
+added. <span id="fr_53"></span>[1](#fn_53) [45b](das26.htm#xref_45b.md) The
 wine may also be made from the dark blue palmetto berries. These are
 placed in a container until fermentation occurs after which the juice is
 extracted and sweetened. The wine is a clear dark brown and is said to
 have an excellent flavor. Incidentally, the palmetto tree serves a
 variety of other purposes. Palmetto fibre is used in making baskets,
 rugs, bottle holders, and numerous other
-objects. [45](das26.htm#xref_45)
+objects. [45](das26.htm#xref_45.md)
 
 Many of the Brownville residents are skilled in palmetto weaving and
 also in woodcarving. Walking sticks were brought to our attention. One
-had a lizard carved on its handle, <span id="fr_54"></span>[2](#fn_54)
+had a lizard carved on its handle, <span id="fr_54"></span>[2](#fn_54.md)
 while the likeness of a snake twisted its body realistically about the
-length of the stick. [50](das26.htm#xref_50),
- [70a](das26.htm#xref_70a)-h On a similar stick of dull, yellowish wood
+length of the stick. [50](das26.htm#xref_50.md),
+ [70a](das26.htm#xref_70a.md)-h On a similar stick of dull, yellowish wood
 the tense, erect head of the large reptile which wrapped itself about
-the cane formed the handle. [50](das26.htm#xref_50) In the gaping mouth
+the cane formed the handle. [50](das26.htm#xref_50.md) In the gaping mouth
 was held a ball. Even the smallest detail had been delicately and
 artistically executed. We could learn little of the history of the stick
 except that it had been carved many years ago by an old Negro who had
 given it to the present owner and soon afterward moved away from the
-section. <span id="fr_55"></span>[3](#fn_55) The snake
-decorating [50](das26.htm#xref_50) a third cane had eyes of
-rhinestones [41c](das26.htm#xref_41c) which gleamed and flashed as the
-stick was moved about. <span id="fr_56"></span>[4](#fn_56)
+section. <span id="fr_55"></span>[3](#fn_55.md) The snake
+decorating [50](das26.htm#xref_50.md) a third cane had eyes of
+rhinestones [41c](das26.htm#xref_41c.md) which gleamed and flashed as the
+stick was moved about. <span id="fr_56"></span>[4](#fn_56.md)
 
 Crude hand-carved wooden table utensils were in use in several
-households. [70a](das26.htm#xref_70a)-h We were shown a fork with only
+households. [70a](das26.htm#xref_70a.md)-h We were shown a fork with only
 two prongs set wide apart on the far sides of the base. One of the
 Spoons was about the size of an average tablespoon, but with a bowl of
-considerably greater depth. <span id="fr_57"></span>[5](#fn_57)
+considerably greater depth. <span id="fr_57"></span>[5](#fn_57.md)
 
 One Negro showed much ingenuity in the carving of a linked chain <span
-id="fr_58"></span>[6](#fn_58) with a box-like object attached. inside
+id="fr_58"></span>[6](#fn_58.md) with a box-like object attached. inside
 the box was a small wooden ball. This entire contraption had been made
-from one solid piece of wood. [70f](das26.htm#xref_70f)-h Another man
+from one solid piece of wood. [70f](das26.htm#xref_70f.md)-h Another man
 employed his spare time in the carving of small wooden
 
 <span id="page_50">p. 50</span>
 
 dolls, jointed and so designed that they could stand
-alone. [41e](das26.htm#xref_41e)-i <span id="fr_59"></span>[1](#fn_59)
+alone. [41e](das26.htm#xref_41e)-i <span id="fr_59"></span>[1](#fn_59.md)
 
 An old Negro living in very poor circumstances owned a number of
-interesting objects. <span id="fr_60"></span>[2](#fn_60) These he said
+interesting objects. <span id="fr_60"></span>[2](#fn_60.md) These he said
 he had inherited from a grandfather who had come to this country from
 Santo Domingo, West Indies. Among the objects were old coins, a pistol,
 and a pocketbook made of shells clamped together with metal bands. The
@@ -296,21 +296,21 @@ most significant item, however, was a carved stone fig. The grainy
 texture and the slight splits in the skin had been executed with great
 skill. The fig had been carried as a charm by the old man's ancestor,
 but where this forebear had obtained it we were unable to
-learn. [8](das26.htm#xref_8),  [32](das26.htm#xref_32),
- [34c](das26.htm#xref_34c)
+learn. [8](das26.htm#xref_8),  [32](das26.htm#xref_32.md),
+ [34c](das26.htm#xref_34c.md)
 
 On the Ogeechee Road not far from Brownville we came in contact with a
-Negro <span id="fr_61"></span>[3](#fn_61) whose favorite pastime was
-carving. [70a](das26.htm#xref_70a) He showed us the figure of a man,
+Negro <span id="fr_61"></span>[3](#fn_61.md) whose favorite pastime was
+carving. [70a](das26.htm#xref_70a.md) He showed us the figure of a man,
 about twenty-seven inches high, with heavy shoulders and torso
 overbalancing the lower part of the figure. The head was large and
 square, the eyes were painted on roughly, and the nose and mouth were
 attached pieces of wood. A wooden crane and other birds carved by the
-same man bore a crude, primitive stamp. [70c](das26.htm#xref_70c),
- [70d](das26.htm#xref_70d),  [70g](das26.htm#xref_70g)
+same man bore a crude, primitive stamp. [70c](das26.htm#xref_70c.md),
+ [70d](das26.htm#xref_70d),  [70g](das26.htm#xref_70g.md)
 
 Near by on the Ogeechee Road we found Tony William Delegal, <span
-id="fr_62"></span>[4](#fn_62) an old man, well over one hundred years
+id="fr_62"></span>[4](#fn_62.md) an old man, well over one hundred years
 old, who was formerly a slave of Major John Thomas, Harris Neck,
 plantation owner. His dark eyes are filmed, his once powerful shoulders
 are bent, but Uncle Tony can still recall incidents which took place
@@ -333,14 +333,14 @@ Dhun.
 
 In the heart of the thriving Brownville community live fortune tellers,
 root doctors, and vendors of magic charms who conduct flourishing
-businesses. [22a](das26.htm#xref_22a),  [22e](das26.htm#xref_22e),
- [48](das26.htm#xref_48) There is a ready market for their wares which
+businesses. [22a](das26.htm#xref_22a),  [22e](das26.htm#xref_22e.md),
+ [48](das26.htm#xref_48.md) There is a ready market for their wares which
 are used for the various activities of daily living. Numerous
 perplexities pertaining to. matters of business, luck, and love affairs
 are thought to be solved by the mere possession of certain
-charms. [8](das26.htm#xref_8)
+charms. [8](das26.htm#xref_8.md)
 
-Mattie Sampson, <span id="fr_63"></span>[1](#fn_63) a robust young Negro
+Mattie Sampson, <span id="fr_63"></span>[1](#fn_63.md) a robust young Negro
 woman, told us that she does an active mail order business as
 representative of the Lucky Heart Company, the Sweet Georgia Brown
 Company, and the Curio Products Company. She supports herself
@@ -382,8 +382,8 @@ ovuh deah bed aw doeway tuh protec duh whole house." Some of em use
 *Black Cat Incense an Powduh*."
 
 A few blocks from Mattie Sampson lives William Edwards <span
-id="fr_64"></span>[1](#fn_64) who follows the diverse trades of root
-doctor, [48](das26.htm#xref_48) piano tuner, and watchman at a filling
+id="fr_64"></span>[1](#fn_64.md) who follows the diverse trades of root
+doctor, [48](das26.htm#xref_48.md) piano tuner, and watchman at a filling
 station. For a while the old man stubbornly insisted that, although he
 had been a popular root doctor in his younger days, he had not treated a
 patient in years. After a good deal of casual friendly conversation, he
@@ -398,10 +398,10 @@ make muh medicine frum King Physics. It grows on duh salts an is bery
 plentiful neah Montgomery, but yuh hab tuh know how tuh fine it.
 
 "Duh spiduh is bote good and ebil an is useful tuh man. I make a
-medicine out uh duh spiduh [5](das26.htm#xref_5) by stooin eel skin in
+medicine out uh duh spiduh [5](das26.htm#xref_5.md) by stooin eel skin in
 lahd wid it. Wen dis is done, I hab a saave dat will stop any kine uh
 pain. On duh iluns, specialty St. Catherine, duh spiduh is hel in high
-regahd by some uh duh people. [53](das26.htm#xref_53)
+regahd by some uh duh people. [53](das26.htm#xref_53.md)
 
 "I make muh medicine out uh King Physic root, an Indian Ash, an Tukish
 Wine. Wen I wuz a boy I lun many tings frum duh ole people bout herbs
@@ -421,19 +421,19 @@ sweet milk an ebryting will be all right in twenty-fo hours.
 "Duh spiduh web is good fuh stoppin duh blood wen anybody git cut. I
 make a saave by stooin physic vine leaves an talluh an spiduh tuhgedduh.
 Dis saave will relieve any bruise aw ole so. It draw all duh pizen out
-uh duh so. [48a](das26.htm#xref_48a),  [48b](das26.htm#xref_48b)
+uh duh so. [48a](das26.htm#xref_48a),  [48b](das26.htm#xref_48b.md)
 
 "Tuh keep ghos away, missus, yuh hab tuh go in duh woods an fine a tree
 dat wuz strik by lightin, an git some uh duh bahk an put some unduh duh
 doe step an carry a piece in yuh pocket. No ghos would ebuh bodduh yuh
 agen. I done dat an ain been bodduh since. Now all yuh hab tuh do tuh
 keep witches frum ridin yuh is keep a Bible unduh yuh pilluh at
-night." [12](das26.htm#xref_12)
+night." [12](das26.htm#xref_12.md)
 
-Another root doctor <span id="fr_65"></span>[1](#fn_65) in the section
+Another root doctor <span id="fr_65"></span>[1](#fn_65.md) in the section
 told us that he had been born with a special knowledge of healing and
 had studied the science of herbs from the time he was a small
-boy. [48](das26.htm#xref_48) Some of the herbs he uses in his mixtures
+boy. [48](das26.htm#xref_48.md) Some of the herbs he uses in his mixtures
 are Golden Seal, Yellow Dust, Golden Thread, Hippo Root, Pink Root, Lady
 Slipper, Yellow Root, Blood Root, Rattlesnake Master, Black Snake Root,
 and John the Conqueror.
@@ -443,7 +443,7 @@ an I know head uh time zackly wut kine uh herbs tuh gadduh in awduh tuh
 cuo im."
 
 He had been born with this power to foretell the future, he
-asserted. [22a](das26.htm#xref_22a),  [22e](das26.htm#xref_22e) "Outside
+asserted. [22a](das26.htm#xref_22a),  [22e](das26.htm#xref_22e.md) "Outside
 uh dreams," he went on, "I kin use leaves an coffee grouns an a suttn
 kine uh seed known as duh sensitive aw jumpin seed. Yuh fine deze seeds
 at suttn times long duh sho uh duh Wes Indies. Yuh hab tuh keep duh
@@ -451,80 +451,80 @@ seeds in a closed containuh aw dey will jis disappeah. Tuh tell fawchuns
 yuh spread duh seeds out fo yuh on duh groun an dey'll moob bout. Dey
 moob cawdn tuh wut yuh tinkin. Tellin fawchuns is jis a mattuh uh
 concentratin yuh imagination on suttn tings. Den ebryting will appeah to
-Yuh." [22b](das26.htm#xref_22b)-d
+Yuh." [22b](das26.htm#xref_22b.md)-d
 
 <span id="page_54">p. 54</span>
 
 Conjure is being practiced all the time, the root doctor informed us.
 "Frawgs an lizuds an sech tings is injected intuh people's bodies an duh
 people den fall ill an sometime
-die. [5](das26.htm#xref_5), [15](das26.htm#xref_15) Udduh strange tings
+die. [5](das26.htm#xref_5), [15](das26.htm#xref_15.md) Udduh strange tings
 is happenin, too. Take duh story uh dem people wut fly back tuh Africa.
 Das all true. Yuh jis hab tuh possess magic knowledge tuh be able tuh
-cumplish dis. [69c](das26.htm#xref_69c) Not long ago I see a man vanish
+cumplish dis. [69c](das26.htm#xref_69c.md) Not long ago I see a man vanish
 intuh tin eah by snappin his finguhs. Hab yuh heahd uh duh man wut wuz
 put in prison in Springfield? He jis flied away frum duh jail an wuz
-nebuh caught agen. [68b](das26.htm#xref_68b),  [69c](das26.htm#xref_69c)
+nebuh caught agen. [68b](das26.htm#xref_68b),  [69c](das26.htm#xref_69c.md)
 Yes, ma'am, I know wut yuh hab tuh hab in awduh tuh fly aw vanish away,
 but it is mighty hahd tuh git. It's duh bone ub a black cat."
 
-A woman <span id="fr_66"></span>[1](#fn_66) informant, too, had heard
+A woman <span id="fr_66"></span>[1](#fn_66.md) informant, too, had heard
 about flying Africans and persons who could disappear at
-will. [69c](das26.htm#xref_69c) She said also that she had often been
+will. [69c](das26.htm#xref_69c.md) She said also that she had often been
 ridden by witches. "Dey seem tuh come frum. noweah an staht chokin
-yuh. [69](das26.htm#xref_69) Witches an root men hab duh same magic
+yuh. [69](das26.htm#xref_69.md) Witches an root men hab duh same magic
 powuh."
 
 Relative to the custom of placing food and possessions on a new grave
 this woman spoke earnestly. "Dis wuz a common ting wen I wuz young. Dey
 use tuh put duh tings a pusson use las on duh
-grabe. [47](das26.htm#xref_47) Dis wuz suppose tuh satisfy duh spirit an
+grabe. [47](das26.htm#xref_47.md) Dis wuz suppose tuh satisfy duh spirit an
 keep it frum followin yuh back tuh duh house, I knowd a uhmun at
 Burroughs wut use tuh carry food tuh uh daughtuh grabe ebry
-day. [58](das26.htm#xref_58) She would take a basket uh cooked food,
+day. [58](das26.htm#xref_58.md) She would take a basket uh cooked food,
 cake, pies, an wine. Den she would carry dishes too an set out a regluh
 dinnuh fuh duh daughtuh an uhsef. She say duh daughtuh's spirit meet uh
 deah an dey dine tuhgedduh."
 
-Another woman <span id="fr_67"></span>[2](#fn_67) told us that on
+Another woman <span id="fr_67"></span>[2](#fn_67.md) told us that on
 holidays she carried food to her husband's grave and left it there for
-the spirit to come and get. [58](das26.htm#xref_58) "I carry duh kine uh
+the spirit to come and get. [58](das26.htm#xref_58.md) "I carry duh kine uh
 food we use tuh hab tuh eat on duh days be wuz off frum wuk," she said.
 "I take cooked chicken an cake an pie an cigahs--he like tuh smoke attuh
-eatin. [58a](das26.htm#xref_58a),  [58b](das26.htm#xref_58b) I do dis
+eatin. [58a](das26.htm#xref_58a),  [58b](das26.htm#xref_58b.md) I do dis
 cuz I know he will be lookin fuh me tuh bring it.
 
 "Ebuh since I kin membuh I hab heahd bout spirits wanduhin roun at
-night," [59](das26.htm#xref_59) she continued. "Muh mothuh nebuh
+night," [59](das26.htm#xref_59.md) she continued. "Muh mothuh nebuh
 
 <span id="page_55">p. 55</span>
 
 would let us go tuh bed at night widout leabin plenty uh watuh in duh
 pails fuh duh spirits tuh drink wile yuh sleep. Ef yuh dohn leab no
 watuh dey wohn leh yuh res good. I tink das wy hags ride some
-folks, [69](das26.htm#xref_69) cuz dey dohn leab no watuh. I blieb
+folks, [69](das26.htm#xref_69.md) cuz dey dohn leab no watuh. I blieb
 witches is people dat's sole deah soul tuh duh debil. Dey hab duh powuh
 tuh change frum deah own shape tuh anyting dey wants tuh
-be, [68](das26.htm#xref_68) so dey kin tawment udduh folks. Wen a ghos
+be, [68](das26.htm#xref_68.md) so dey kin tawment udduh folks. Wen a ghos
 is roun I kin feel duh hot eah."
 
 We found that belief in supernatural beings such as witches and ghosts
 was widespread throughout the community.
 
 "Witches is lak folks," one woman said. <span
-id="fr_68"></span>[1](#fn_68) "Dey done sell demsefs tuh duh debil an he
+id="fr_68"></span>[1](#fn_68.md) "Dey done sell demsefs tuh duh debil an he
 make em do anyting he wants tuh. Some git a grudge gense yuh an stahts
-tuh ride yuh. [69](das26.htm#xref_69) No mattuh wut yuh do, dey kin git
+tuh ride yuh. [69](das26.htm#xref_69.md) No mattuh wut yuh do, dey kin git
 in yuh house. Sometime dey come lak a mouse, sometime a rabbit, an
-sometime eben a roach. [68](das26.htm#xref_68) I membuh heahin bout a
+sometime eben a roach. [68](das26.htm#xref_68.md) I membuh heahin bout a
 witch wut come ebry night lak a rabbit an rode a woman. A man wut knowd
 duh woman laid a trap fuh duh witch. Duh witch scape frum duh house, but
 duh dogs track uh down. Wen she see she wuz caught, she beg duh man not
 tuh do nuttn tuh uh an she wouldn nebuh do no mo witchin."
 
-A Negro preacher <span id="fr_69"></span>[2](#fn_69) in a near by
+A Negro preacher <span id="fr_69"></span>[2](#fn_69.md) in a near by
 section said that he had been in the habit of seeing ghosts all his
-life. [56](das26.htm#xref_56), [59](das26.htm#xref_59) "Once wuz jis
+life. [56](das26.htm#xref_56), [59](das26.htm#xref_59.md) "Once wuz jis
 aftuh muh fathuh died. I saw him all dressed up an weahin a Stetson hat.
 I called muh mothuh an said, 'Mothuh, heah come Papa.' Wen I tun roun,
 he wuz gone.
@@ -537,29 +537,29 @@ wuzn no bigguhn dawls. Den dey disappeah. I see ghos mos any time, so
 Ise used to it now."
 
 That he was frequently visited by both witches and ghosts was the
-assertion of another man. <span id="fr_70"></span>[3](#fn_70) "Duh
-witches come in an strangle me," [69](das26.htm#xref_69) he said, "but
+assertion of another man. <span id="fr_70"></span>[3](#fn_70.md) "Duh
+witches come in an strangle me," [69](das26.htm#xref_69.md) he said, "but
 duh ghos yuh jis see, an no
 
 <span id="page_56">p. 56</span>
 
 hahm come frum um. Jis las night attuh I gone tuh bed a ghos come in muh
-house. [59](das26.htm#xref_59) I hab tuh git up an run im out. Sometime
+house. [59](das26.htm#xref_59.md) I hab tuh git up an run im out. Sometime
 dey pull duh cubbuh right off muh bed."
 
 The same man said considerable conjuring was being practiced in the
 neighborhood, but that he kept a careful distance from people who were
-believed to be able to "do tings tuh yuh." [15](das26.htm#xref_15)
+believed to be able to "do tings tuh yuh." [15](das26.htm#xref_15.md)
 
 "Yuh see," he volunteered, "I hab muh leg fix once. Dat wuz back in
 1893. Fus muh foot swell up, den muh leg. It wuz so bad I couldn walk. A
 man tole me tuh go tuh Doctuh Buzzud, a root
-doctuh. [48](das26.htm#xref_48) Doctuh Buzzud gimme some root medicine
-an in no time I wuz all right." [6](das26.htm#xref_6)
+doctuh. [48](das26.htm#xref_48.md) Doctuh Buzzud gimme some root medicine
+an in no time I wuz all right." [6](das26.htm#xref_6.md)
 
 A more recent case of attempted conjure was told us by the woman <span
-id="fr_71"></span>[1](#fn_71) who had been the intended
-victim. [15](das26.htm#xref_15) We found her living in new quarters
+id="fr_71"></span>[1](#fn_71.md) who had been the intended
+victim. [15](das26.htm#xref_15.md) We found her living in new quarters
 where she had hurriedly moved to escape the evil influences directed
 towards her by the downstairs tenants in her former residence. Stout and
 middle-aged, she had not yet recovered from her fright at the time she
@@ -574,7 +574,7 @@ Sometime dey would beat on a sycamo tree in front uh duh house an call
 muh name, 'Tressie, Tressie, Tressie, wake up! Yuh gwine tuh sleep alluh
 time?'
 
-"Dey bun all kine uh powduh unduh muh winduh. [8b](das26.htm#xref_8b) I
+"Dey bun all kine uh powduh unduh muh winduh. [8b](das26.htm#xref_8b.md) I
 moob muh bedruhm, but dey fine it out an somehow dey make holes unduh
 muh bed. Attuh twelve o'clock dey staht bunnin powduh an roots an callin
 muh name agen. Duh nex mawnin I fine all kines uh tings on muh poach,
@@ -609,27 +609,27 @@ made one for us out of a hollow log, across the end of which he tightly
 stretched a goat skin. He fastened the skin to the log by means of a
 number of wooden Pegs. Unlike modern drums, this one was taller than it
 was wide, measuring about eighteen inches in length and ten inches in
-diameter. [25](das26.htm#xref_25)
+diameter. [25](das26.htm#xref_25.md)
 
-The drum maker, James Collier, <span id="fr_72"></span>[1](#fn_72) a
+The drum maker, James Collier, <span id="fr_72"></span>[1](#fn_72.md) a
 middle-aged, intelligent, well-educated Negro, said he had made a number
 of drums in this primitive manner. Collier told us that he had heard of
 drums having been used during funeral ceremonies in former years. The
 mourners beat the drum while on the way to the cemetery; after arriving
 they marched around the, grave in a ring and beat the drum and
-shouted. [24](das26.htm#xref_24) "They call it the dead march,"
+shouted. [24](das26.htm#xref_24.md) "They call it the dead march,"
 explained the man.
 
 "The spirit don't stay in the grave," he went on. "When the funeral
 procession stahts tuh leave, the spirit leaves the body an follows the
 people frum the graveyahd. It nevuh stays with the
-body." [66](das26.htm#xref_66) A little later he volunteered the
+body." [66](das26.htm#xref_66.md) A little later he volunteered the
 additional information, "Fuh the spirit tuh rest in the grave folks
 
 <span id="page_58">p. 58</span>
 
 have tuh be buried at home. They nevuh feel right ef they buried frum
-home. The spirit jist wanduh aroun. [1](das26.htm#xref_1)
+home. The spirit jist wanduh aroun. [1](das26.htm#xref_1.md)
 
 "I have seen something I think wuz a ghost. I have no explanation of it,
 but I think it wuz supuhnatural. I have heard of witchcraft, cunjuh an
@@ -639,7 +639,7 @@ them the less yuh know.
 "I have heard about a magic hoe that folks put in the gahden. They speak
 certain words tuh it; then the hoe goes ahead an cultivates the gahden
 without anyone touching it. They jist tell it tuh do the wuk and it does
-it." [39](das26.htm#xref_39)
+it." [39](das26.htm#xref_39.md)
 
 We questioned Collier again about his personal experiences with
 supernatural beings and he related the following story:
@@ -653,7 +653,7 @@ wuz in back of the Union Station.
 stahted fuh home. It wuz beginnin of night. Muh brothuh he had
 rheumatism an he wuz hobblin along on a stick. We stahted along by a
 fence tuh get tuh West Broad Street an wen we had gone about a hundred
-yards we saw a lady comin tuhwards us. [59](das26.htm#xref_59) She wuz
+yards we saw a lady comin tuhwards us. [59](das26.htm#xref_59.md) She wuz
 very feah, very feah, an she wuz all dressed in black and had on a long
 black veil. Her dress wuz black silk and rustled as she walked.
 
@@ -666,7 +666,7 @@ an we say, 'No--we not afraid.'
 gone a short ways wen all of a sudden we look in the cemetery an we see
 a little white thing risin up out of the groun. It wuz kinduh hazy an
 shadowy an it spring up from the groun an streak out tuh meet us on the
-path ahead. it looked like a lill animal. [54](das26.htm#xref_54)
+path ahead. it looked like a lill animal. [54](das26.htm#xref_54.md)
 
 "The lady, wen she see the lill white sumpms a comin, she daht out like
 lightin an she go right tuh meet it. Wen she get tuh it she disappeah
@@ -683,12 +683,12 @@ cause we're not supuhstitious."
 
 ### Footnotes
 
-<span id="fn_46"></span>[43:1](das11.htm#fr_46) Though the meetings of
+<span id="fn_46"></span>[43:1](das11.htm#fr_46.md) Though the meetings of
 Bishop Grace are common to many parts of the United States, it was
 thought well to include an accurate description of the House of Prayer
 as it was found in this Community.
 
-<span id="fn_47"></span>[44:1](das11.htm#fr_47) Details of the early
+<span id="fn_47"></span>[44:1](das11.htm#fr_47.md) Details of the early
 life of "Daddy Grace" are clothed in obscurity and little can be learned
 of the real origin of the House of Prayer. Some claim that he is of West
 Indian birth, others that he was born Marcilino Manuel Garcia in
@@ -712,83 +712,83 @@ occasional arrests, secure in the knowledge that no earthly force can
 ever conquer "Daddy." See *Time* (New York), March 7,1938, XXXI, No. 10,
 p. 30.
 
-<span id="fn_48"></span>[48:1](das11.htm#fr_48) Thursday Jones,
+<span id="fn_48"></span>[48:1](das11.htm#fr_48.md) Thursday Jones,
 Brownville.
 
-<span id="fn_49"></span>[48:2](das11.htm#fr_49) John Blackshear, 625
+<span id="fn_49"></span>[48:2](das11.htm#fr_49.md) John Blackshear, 625
 Grapevine Avenue.
 
-<span id="fn_50"></span>[48:3](das11.htm#fr_50) William Mikell, 616 West
+<span id="fn_50"></span>[48:3](das11.htm#fr_50.md) William Mikell, 616 West
 32nd Street.
 
-<span id="fn_51"></span>[48:4](das11.htm#fr_51) Beatrice Ward, 832 West
+<span id="fn_51"></span>[48:4](das11.htm#fr_51.md) Beatrice Ward, 832 West
 35th Street.
 
-<span id="fn_52"></span>[48:5](das11.htm#fr_52) Robert McNichols,
+<span id="fn_52"></span>[48:5](das11.htm#fr_52.md) Robert McNichols,
 Brownville.
 
-<span id="fn_53"></span>[49:1](das11.htm#fr_53) Ibid.
+<span id="fn_53"></span>[49:1](das11.htm#fr_53.md) Ibid.
 
-<span id="fn_54"></span>[49:2](das11.htm#fr_54) Made by and property of
+<span id="fn_54"></span>[49:2](das11.htm#fr_54.md) Made by and property of
 William Brown, Florence Street.
 
-<span id="fn_55"></span>[49:3](das11.htm#fr_55) Property of Henry
+<span id="fn_55"></span>[49:3](das11.htm#fr_55.md) Property of Henry
 Haynes, 41st and Harden Streets.
 
-<span id="fn_56"></span>[49:4](das11.htm#fr_56) Crawford Smith, 1704
+<span id="fn_56"></span>[49:4](das11.htm#fr_56.md) Crawford Smith, 1704
 Ogeechee Avenue.
 
-<span id="fn_57"></span>[49:5](das11.htm#fr_57) Made by and property of
+<span id="fn_57"></span>[49:5](das11.htm#fr_57.md) Made by and property of
 Alfred Wilcher, 610 West 31st Street.
 
-<span id="fn_58"></span>[49:6](das11.htm#fr_58) Ibid.
+<span id="fn_58"></span>[49:6](das11.htm#fr_58.md) Ibid.
 
-<span id="fn_59"></span>[50:1](das11.htm#fr_59) Made by and property of
+<span id="fn_59"></span>[50:1](das11.htm#fr_59.md) Made by and property of
 Marion Ralph, 2411 Harden Street.
 
-<span id="fn_60"></span>[50:2](das11.htm#fr_60) Julian Linder, 612 West
+<span id="fn_60"></span>[50:2](das11.htm#fr_60.md) Julian Linder, 612 West
 36th Street.
 
-<span id="fn_61"></span>[50:3](das11.htm#fr_61) Lee Ross, Ogeecheetown,
+<span id="fn_61"></span>[50:3](das11.htm#fr_61.md) Lee Ross, Ogeecheetown,
 near Brownville.
 
-<span id="fn_62"></span>[50:4](das11.htm#fr_62) Tony William Delegal,
+<span id="fn_62"></span>[50:4](das11.htm#fr_62.md) Tony William Delegal,
 Ogeecheetown, near Brownville.
 
-<span id="fn_63"></span>[51:1](das11.htm#fr_63) Mattie Sampson, West
+<span id="fn_63"></span>[51:1](das11.htm#fr_63.md) Mattie Sampson, West
 32nd Street.
 
-<span id="fn_64"></span>[52:1](das11.htm#fr_64) William Edwards, corner
+<span id="fn_64"></span>[52:1](das11.htm#fr_64.md) William Edwards, corner
 West Broad and 32nd Streets.
 
-<span id="fn_65"></span>[53:1](das11.htm#fr_65) George W. Little, 737
+<span id="fn_65"></span>[53:1](das11.htm#fr_65.md) George W. Little, 737
 West 34th Street.
 
-<span id="fn_66"></span>[54:1](das11.htm#fr_66) Florence Postell, 928
+<span id="fn_66"></span>[54:1](das11.htm#fr_66.md) Florence Postell, 928
 West 51st Street.
 
-<span id="fn_67"></span>[54:2](das11.htm#fr_67) Bessie Reese, 2407
+<span id="fn_67"></span>[54:2](das11.htm#fr_67.md) Bessie Reese, 2407
 Harden Street.
 
-<span id="fn_68"></span>[55:1](das11.htm#fr_68) Emma English, 628 West
+<span id="fn_68"></span>[55:1](das11.htm#fr_68.md) Emma English, 628 West
 36th Street.
 
-<span id="fn_69"></span>[55:2](das11.htm#fr_69) Barry Higgins, 1810 West
+<span id="fn_69"></span>[55:2](das11.htm#fr_69.md) Barry Higgins, 1810 West
 Broad Street.
 
-<span id="fn_70"></span>[55:3](das11.htm#fr_70) Albert Jenkins, 627 West
+<span id="fn_70"></span>[55:3](das11.htm#fr_70.md) Albert Jenkins, 627 West
 36th Street.
 
-<span id="fn_71"></span>[56:1](das11.htm#fr_71) Tressie Cook, 911 West
+<span id="fn_71"></span>[56:1](das11.htm#fr_71.md) Tressie Cook, 911 West
 38th Street.
 
-<span id="fn_72"></span>[57:1](das11.htm#fr_72) James Collier, 806 West
+<span id="fn_72"></span>[57:1](das11.htm#fr_72.md) James Collier, 806 West
 39th Street.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Tatemville](das12)
+[Next: Tatemville](das12.md)
 
 </div>

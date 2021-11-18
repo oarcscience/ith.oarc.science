@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy06)  [Next](phy08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy06)  [Next](phy08.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![G](img/01501.jpg) |
+| ![G](img/01501.jpg.md) |
 
 REAT were the preparations the next evening among the Elfin community
 for the coming feast and dance in the Magher-Glass of Glen Rushen.
@@ -87,7 +87,7 @@ The powerful battery of her expressive eyes seemed utterly to fail in
 <span id="img_01700"></span>
 
 [![UDDEREEK AND ESTELLA.](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 UDDEREEK AND ESTELLA.  
 
 obtaining the proper range and elevation. Every shot, every dart, well
@@ -159,4 +159,4 @@ heart, she swiftly followed on his trail.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](phy08)
+[Next: Chapter V](phy08.md)

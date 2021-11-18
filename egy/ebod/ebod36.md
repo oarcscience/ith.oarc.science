@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod35)  [Next](ebod37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod35)  [Next](ebod37.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ neither harm nor ill."
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXII.](ebod37)
+[Next: Plate XXXII.](ebod37.md)

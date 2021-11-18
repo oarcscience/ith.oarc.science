@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Next](lam01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Next](lam01.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,13 +24,13 @@ Textual Heritage
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 Scanned at Intangible Textual Heritage, May 2007. Proofed and Formatted
@@ -81,4 +81,4 @@ What and where they be!—<em>Tennyson</em>.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Preface](lam01)
+[Next: Preface](lam01.md)

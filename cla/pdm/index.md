@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Esoteric](../../eso/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Esoteric](../../eso/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pdm00)
+[Contents](#contents)    [Start Reading](pdm00.md)
 
 ------------------------------------------------------------------------
 
@@ -37,20 +37,20 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte)
 This is a short biography of Pythagoras, written from a Theosophical,
 esoteric perspective. No actual texts of Pythagoras have survived: we
 only have second hand summaries and pastiches, such as the [Golden
-Verses](../gvp/index). However, his impact on successive thinkers has
+Verses](../gvp/index.md). However, his impact on successive thinkers has
 been enormous. This work serves as a short, readable introduction to the
 man, his thought and times, and the modern esoteric interpretation of
 his place in the history of ideas.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pdm00)  
-[Contents](pdm01)  
-[Chapter I. Greece in the Sixth Century](pdm02)  
-[Chapter II. Years of Travel](pdm03)  
+<span id="contents"></span> [Title Page](pdm00.md)  
+[Contents](pdm01.md)  
+[Chapter I. Greece in the Sixth Century](pdm02.md)  
+[Chapter II. Years of Travel](pdm03.md)  
 [Chapter III. The Temple of Delphi—The Science of Apollo—Theory of
-Divination—The Pythoness Theoclea](pdm04)  
-[Chapter IV. The Order and the Doctrine](pdm05)  
+Divination—The Pythoness Theoclea](pdm04.md)  
+[Chapter IV. The Order and the Doctrine](pdm05.md)  
 [Chapter V. Marriage of Pythagoras—Revolution at Croton—The Master's
-End—The School and its Destiny](pdm06)  
-[Advertisements](pdm07)  
+End—The School and its Destiny](pdm06.md)  
+[Advertisements](pdm07.md)  

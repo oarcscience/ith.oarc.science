@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Next](pge01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Next](pge01.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ NO .............
 
 ------------------------------------------------------------------------
 
-[Next: Preface](pge01)
+[Next: Preface](pge01.md)

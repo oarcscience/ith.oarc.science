@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](pol02)  [Next](pol04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](pol02)  [Next](pol04.md) 
 
 ------------------------------------------------------------------------
 
@@ -1207,4 +1207,4 @@ perfect state, and describe how it comes into being and is established.
 
 ------------------------------------------------------------------------
 
-[Next: Book IV](pol04)
+[Next: Book IV](pol04.md)

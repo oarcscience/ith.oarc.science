@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap55) 
-[Next](bap57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap55.md) 
+[Next](bap57.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ cities. And Jepthan returned in peace. And the
 women came out to meet him with dances. And he had an only begotten
 daughter; the same came out first in the dances to meet her father. And
 when Jepthan saw her he fainted and said: Rightly is thy name called
-Seila, <span id="fr_132"></span>[1](#fn_132) that thou shouldest be
+Seila, <span id="fr_132"></span>[1](#fn_132.md) that thou shouldest be
 offered for a sacrifice. And now who will put my heart in the balance
 and weigh my soul? and I will stand and see whether one will outweigh
 *the other*, the rejoicing that is come or the affliction which cometh
@@ -51,7 +51,7 @@ was overtaken in his vow, \[and\] if I offer not myself willingly for a
 sacrifice, I fear lest my death be not acceptable, and that I shall lose
 my life to no purpose. These things will I tell unto the mountains, and
 after that I will return. And her father said: Go. 4.  <span
-id="fr_133"></span>[1](#fn_133)And Seila the daughter of Jepthan went
+id="fr_133"></span>[1](#fn_133.md)And Seila the daughter of Jepthan went
 forth, she and the virgins that were her fellows, and came and told it
 to the wise men of the people. And no man could answer
 
@@ -131,14 +131,14 @@ was buried with his fathers.
 
 ### Footnotes
 
-<span id="fn_132"></span>[191:1](bap56.htm#fr_132) XL. 1. *Seila*. The
+<span id="fn_132"></span>[191:1](bap56.htm#fr_132.md) XL. 1. *Seila*. The
 name, according to Dr. Cohn, may mean "she who was demanded."
 
-<span id="fn_133"></span>[192:1](bap56.htm#fr_133) 4 *end*. The addition
+<span id="fn_133"></span>[192:1](bap56.htm#fr_133.md) 4 *end*. The addition
 in R, "and when she departeth, she shall fall into the bosom of her
 mothers," may be genuine. "Her mothers," an unusual phrase, would
 correspond to the ordinary one "her (your, their) fathers."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLI](bap57)
+[Next: Chapter XLI](bap57.md)

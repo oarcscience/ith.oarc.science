@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](coz01)  [Next](coz03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](coz01)  [Next](coz03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,19 +22,19 @@ refinement of faculty, involving, as it does, a discrete perception of
 immaterial essences.
 
 It has been asserted that the Chaldæan Magi <span
-id="fr_3"></span>[\*](#fn_3) preserved their occult learning among their
+id="fr_3"></span>[\*](#fn_3.md) preserved their occult learning among their
 race by continual tradition from Father to Son. Diodorus says: "They
 learn these things, not after the same fashion as the Greeks: for
 amongst the Chaldæans, philosophy is delivered by tradition in the
 family, the Son receiving it from his Father, being exempted from all
 other employment; and thus having their parents for their teachers, they
 learn all things fully and abundantly, believing more firmly what is
-communicated to them." <span id="fr_4"></span>[†](#fn_4)
+communicated to them." <span id="fr_4"></span>[†](#fn_4.md)
 
 The remains then of this oral tradition seems to exist in these Oracles,
 which should be studied in the light of the Kabalah and of Egyptian
 Theology. Students are aware that the Kabalah <span
-id="fr_5"></span>[‡](#fn_5) is susceptible
+id="fr_5"></span>[‡](#fn_5.md) is susceptible
 
 <span id="page_8">p. 8</span>
 
@@ -541,7 +541,7 @@ finer perception realised the true Utopia to be within.
 
 And the first step in that admirable progress was a return to the simple
 life; hardly, indeed, a return, for most of the Magi were thus brought
-up from birth. <span id="fr_6"></span>[\*](#fn_6) The hardihood
+up from birth. <span id="fr_6"></span>[\*](#fn_6.md) The hardihood
 engendered by the rugged life, coupled with that wisdom which directed
 their association, rendered these children of Nature peculiarly
 receptive of Nature's Truths. "Stoop not down," says the Oracle, "to the
@@ -643,22 +643,22 @@ the adytum of God-nourished Silence!
 
 ### Footnotes
 
-<span id="fn_3"></span>[7:\*](coz02.htm#fr_3) This powerful Guild was
+<span id="fn_3"></span>[7:\*](coz02.htm#fr_3.md) This powerful Guild was
 the guardian of Chaldæan philosophy, which exceeded the bounds of their
 country, and diffused itself into Persia and Arabia that borders upon
 it; for which reason the learning of the Chaldæans, Persians and
 Arabians is comprehended under the general title of Chaldæan.
 
-<span id="fn_4"></span>[7:†](coz02.htm#fr_4) *Diodorus, lib. I*.
+<span id="fn_4"></span>[7:†](coz02.htm#fr_4.md) *Diodorus, lib. I*.
 
-<span id="fn_5"></span>[7:‡](coz02.htm#fr_5) *Vide* *Kabalah Denudata*,
+<span id="fn_5"></span>[7:‡](coz02.htm#fr_5.md) *Vide* *Kabalah Denudata*,
 by MacGregor Mathers.
 
-<span id="fn_6"></span>[20:\*](coz02.htm#fr_6) They renounced rich
+<span id="fn_6"></span>[20:\*](coz02.htm#fr_6.md) They renounced rich
 attire and the wearing of gold. Their raiment was white upon occasion;
 their beds the ground, and their food nothing but herbs, cheese and
 bread.
 
 ------------------------------------------------------------------------
 
-[Next: The Oracles of Zoroaster](coz03)
+[Next: The Oracles of Zoroaster](coz03.md)

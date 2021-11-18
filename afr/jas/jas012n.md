@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas011n)  [Next](jas013n)   
- \[[12. Grace Before Meat.](jas012)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas011n)  [Next](jas013n.md)   
+ \[[12. Grace Before Meat.](jas012.md)\]
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ Harris, Nights, 152-153 and see number 59b.
 
 ------------------------------------------------------------------------
 
-[Next: Note 13. Seeing Trouble.](jas013n)
+[Next: Note 13. Seeing Trouble.](jas013n.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac27)  [Next](sac29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac27)  [Next](sac29.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,9 +17,9 @@ Considered*, by Norman Lockyer, \[1906\], at Intangible Textual Heritage
 ### THE MERRY MAIDENS CIRCLE (LAT. 50° 4´ N.)
 
 ONE of the best preserved circles that I know of is near Penzance. It is
-called the Merry Maidens <span id="fr_109"></span>[1](#fn_109)
+called the Merry Maidens <span id="fr_109"></span>[1](#fn_109.md)
 (Dawns-Maen), and is thus described by Lukis <span
-id="fr_110"></span>[2](#fn_110) (p. 1):—
+id="fr_110"></span>[2](#fn_110) (p. 1.md):—
 
 “This very perfect Circle, which is 75 feet 8 inches in diameter, stands
 in a cultivated field which slopes gently to the south.
@@ -71,7 +71,7 @@ The descriptions of the locality given by Borlase
 <span id="page_267">p. 267</span>
 
 and Lukis, however, do not exhaust the points of interest. Edmonds <span
-id="fr_111"></span>[1](#fn_111) writes as follows:—
+id="fr_111"></span>[1](#fn_111.md) writes as follows:—
 
 "A cave still perfect . . . is on an eminence in the tenement of Boleit
 (Boleigh) in St. Buryan, and about a furlong south-west of the village
@@ -94,7 +94,7 @@ This fougou is situated on a hill on the other side of the Lamorna
 Valley, near the village of Castallack, and the site of the Roundago
 shown in the 1-inch Ordnance map.
 
-Borlase <span id="fr_112"></span>[2](#fn_112) says that many similar
+Borlase <span id="fr_112"></span>[2](#fn_112.md) says that many similar
 caves were to be seen "in these parts" in his time, and others had been
 destroyed by converting the stones to other uses.
 
@@ -120,7 +120,7 @@ subsequently show that the circle which formerly existed here, like the
 others named, was located on an important sight-line.
 
 Mr. Horton Bolitho was good enough to make a careful examination of the
-barrows A and B of Borlase. <span id="fr_113"></span>[1](#fn_113) In A
+barrows A and B of Borlase. <span id="fr_113"></span>[1](#fn_113.md) In A
 (S. 69° W.) he found a long stone still lying in the barrow, suggesting
 that the barrow had been built round it, and that the apex of the barrow
 formed a new alignment. In B there is either another recumbent long
@@ -151,7 +151,7 @@ My wife and I visited the Merry Maidens at Easter, 1905, for the purpose
 
 [![FIG. 52.—The Merry Maidens (looking East).&lt;br&gt; Photo. by Lady
 Lockyer.](tn/fig52.jpg)  
-Click to enlarge](img/fig52.jpg)  
+Click to enlarge](img/fig52.jpg.md)  
 FIG. 52.—The Merry Maidens (looking East).  
 Photo. by Lady Lockyer.  
 
@@ -198,7 +198,7 @@ In connection with this there is another sight-line which must not be
 passed over; from the circle the bearing of the church of St. Burian is
 about N. 64° W.; like the fougou it is situated on a hill, and near it
 are ancient crosses which I suspect were menhirs first and crosses
-afterwards. <span id="fr_114"></span>[1](#fn_114) However this may be,
+afterwards. <span id="fr_114"></span>[1](#fn_114.md) However this may be,
 we see in this azimuth of 64° three times repeated that the May and
 August sunrises and sunsets and the February and November sunsets were
 provided for.
@@ -274,7 +274,7 @@ took place at about the same time, and represent the first operations.
 The next alignment has an azimuth of S. 69° W. from the circle; it would
 be the same within a degree from the site of the one which has
 disappeared; altitude of sky-line 32´; this line is to a stone cross on
-rising ground, <span id="fr_115"></span>[1](#fn_115) doubtless a
+rising ground, <span id="fr_115"></span>[1](#fn_115.md) doubtless a
 re-dressing of an old, menhir, and on the line nearer the circle are the
 remains of a barrow.
 
@@ -326,7 +326,7 @@ is marked with a \*.
 
 [![FIG. 53.—25-inch Ordinance Map of Merry Maidens, showing
 alignments.](tn/fig53.jpg)  
-Click to enlarge](img/fig53.jpg)  
+Click to enlarge](img/fig53.jpg.md)  
 FIG. 53.—25-inch Ordinance Map of Merry Maidens, showing alignments.  
 
 <span id="page_276">p. 276</span>
@@ -445,7 +445,7 @@ TABLE OF ALIGNMENTS.
 
 ### Footnotes
 
-<span id="fn_109"></span>[265:1](sac28.htm#fr_109) I may here remark
+<span id="fn_109"></span>[265:1](sac28.htm#fr_109.md) I may here remark
 that "9 maidens" is very common as a name for a circle in Cornwall. It
 is a short title for 19 maidens. Lukis implies that Dawns-Maen once
 consisted of 20 stones. If all the circles followed suit it would be
@@ -454,18 +454,18 @@ with a gap on the eastern side. The "pipers" are, of course, the
 musicians who keep the maidens merry, as does the "blind fiddler" at
 Boscowen-un Circle.
 
-<span id="fn_110"></span>[265:2](sac28.htm#fr_110) *Prehistoric Stone
+<span id="fn_110"></span>[265:2](sac28.htm#fr_110.md) *Prehistoric Stone
 Monuments, Cornwall*.
 
-<span id="fn_111"></span>[267:1](sac28.htm#fr_111) *The Land's End
+<span id="fn_111"></span>[267:1](sac28.htm#fr_111.md) *The Land's End
 District*, p. 46.
 
-<span id="fn_112"></span>[267:2](sac28.htm#fr_112) *Antiquities*, p.
+<span id="fn_112"></span>[267:2](sac28.htm#fr_112.md) *Antiquities*, p.
 274.
 
-<span id="fn_113"></span>[268:1](sac28.htm#fr_113) Nænia, p. 214.
+<span id="fn_113"></span>[268:1](sac28.htm#fr_113.md) Nænia, p. 214.
 
-<span id="fn_114"></span>[271:1](sac28.htm#fr_114) In A.D. 658 a council
+<span id="fn_114"></span>[271:1](sac28.htm#fr_114.md) In A.D. 658 a council
 assembled at Nantes decreed:—"As in remote places and in woodlands there
 stand certain stones which the people often worship, and at which vows
 are made, and to which oblations are presented—we decree that they be
@@ -479,7 +479,7 @@ brought down a storm upon their heads, they contented themselves with
 putting a cross on top of the stones."—*Book of Brittany*, by
 Baring-Gould, p. 20.
 
-<span id="fn_115"></span>[273:1](sac28.htm#fr_115) With regard to this
+<span id="fn_115"></span>[273:1](sac28.htm#fr_115.md) With regard to this
 Mr. Horton Bolitho, has sent me the following note:—"The rising ground
 here is called locally 'Lanine Hill' (spelt Lanyon and pronounced
 Lanine); this is worth noticing, as it is the same name as the dolmen
@@ -490,4 +490,4 @@ saint."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI. The Tregaseal Circles](sac29)
+[Next: Chapter XXVI. The Tregaseal Circles](sac29.md)

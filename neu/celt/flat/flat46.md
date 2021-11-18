@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat45)  [Next](flat47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat45)  [Next](flat47.md) 
 
 ------------------------------------------------------------------------
 
@@ -238,4 +238,4 @@ My constant prayer -- ' May peace be with thee still !' "
 ------------------------------------------------------------------------
 
 [Next: Letter from Sir Walter Scott to the author of the Irish Fairy
-Legends](flat47)
+Legends](flat47.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe236)  [Next](prwe238) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe236)  [Next](prwe238.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ paraphernalia to the gentlemen of the shears.
 
 ------------------------------------------------------------------------
 
-[Next: The Mayor of St Germans](prwe238)
+[Next: The Mayor of St Germans](prwe238.md)

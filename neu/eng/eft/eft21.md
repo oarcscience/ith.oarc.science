@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft20)  [Next](eft22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft20)  [Next](eft22.md) 
 
 ------------------------------------------------------------------------
 
 # Henny-Penny
 
 <span id="img_021"></span> [![](tn/021.jpg)  
-Click to enlarge](img/021.jpg)
+Click to enlarge](img/021.jpg.md)
 
 ONE day Henny-penny was picking up corn in the cornyard
 when--whack!--something hit her upon the head. 'Goodness gracious me!'
@@ -93,4 +93,4 @@ the king the sky was a-falling.
 
 ------------------------------------------------------------------------
 
-[Next: Childe Rowland](eft22)
+[Next: Childe Rowland](eft22.md)

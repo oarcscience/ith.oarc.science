@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](rwy06)  [Next](rwy08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](rwy06)  [Next](rwy08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Relax With Yoga*, by Arthur Liebers, \[1960\], at Intangible Textual
 Heritage
 
@@ -89,7 +89,7 @@ position.
 <span id="img_05100"></span> <span align="CENTER"> [![With practice,
 you'll be able to straighten your leg completely in the Toe-Finger
 Pose.](tn/05100.jpg)  
-Click to enlarge](img/05100.jpg)  
+Click to enlarge](img/05100.jpg.md)  
 With practice, you'll be able to straighten your leg completely in the
 Toe-Finger Pose.  
 </span>
@@ -110,7 +110,7 @@ your toes.
 
 <span id="img_05200"></span> <span align="CENTER">
 [![Hastapadangustasana, or Toe-Finger Pose](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)  
+Click to enlarge](img/05200.jpg.md)  
 Hastapadangustasana, or Toe-Finger Pose  
 </span>
 
@@ -150,7 +150,7 @@ exhaling. (1) Bend forward, reaching the toes, and exhale for
 
 <span id="img_05400"></span> <span align="CENTER"> [![Hastapadasana, or
 Hand-Leg Pose](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 Hastapadasana, or Hand-Leg Pose  
 </span>
 
@@ -202,4 +202,4 @@ sano"—a sound mind in a sound body.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Specific Postures For Relaxation](rwy08)
+[Next: 7. Specific Postures For Relaxation](rwy08.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah09)  [Next](sah11) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah09)  [Next](sah11.md) 
 
 ------------------------------------------------------------------------
 
@@ -2672,4 +2672,4 @@ leaves nothing that can sin, suffer, be punished or destroyed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI - Some Objections Answered](sah11) 
+[Next: Chapter XI - Some Objections Answered](sah11.md) 

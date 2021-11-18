@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt35)  [Next](pyt37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt35)  [Next](pyt37.md) 
 
 ------------------------------------------------------------------------
 
@@ -210,4 +210,4 @@ to thee.
 ------------------------------------------------------------------------
 
 [Next: 34. New-Birth of the Deceased King as a God in Heaven, Utterance
-570](pyt37)
+570](pyt37.md)

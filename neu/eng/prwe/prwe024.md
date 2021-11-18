@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe023)  [Next](prwe025) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe023)  [Next](prwe025.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ more, and this once happy couple became poor and wretched.
 
 ------------------------------------------------------------------------
 
-[Next: Changelings](prwe025)
+[Next: Changelings](prwe025.md)

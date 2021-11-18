@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXXVI) 
-[Previous](satl075)  [Next](satl077) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXXVI.md) 
+[Previous](satl075)  [Next](satl077.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ habitasse.
 
 ------------------------------------------------------------------------
 
-[Next: LXXVII](satl077)
+[Next: LXXVII](satl077.md)

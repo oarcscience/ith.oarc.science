@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog14)  [Next](hlog16) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog14)  [Next](hlog16.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,4 +237,4 @@ powerful in both resistance and watchfulness.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Hawaiian Ghost Testing](hlog16)
+[Next: XI. Hawaiian Ghost Testing](hlog16.md)

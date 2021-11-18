@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](amo)  [Next](jon) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](amo)  [Next](jon.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ judge the mount of Esau; and the kingdom shall be the LORD'S.
 
 ------------------------------------------------------------------------
 
-[Next: Jonah](jon)
+[Next: Jonah](jon.md)

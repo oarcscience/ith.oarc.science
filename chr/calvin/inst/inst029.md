@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst028)  [Next](inst030) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst028)  [Next](inst030.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ only dwell in tabernacles of clay, but are themselves in part dust and
 ashes. But God having not only deigned to animate a vessel of clay, but
 to make it the habitation of an immortal spirit, Adam might well glory
 in the great liberality of his Maker.12  <span
-id="fr_113"></span>[114](#fn_113)
+id="fr_113"></span>[114](#fn_113.md)
 
 <span id="iv.i.xvi-p14"></span>2. Moreover, there can be no question
 that man consists of a body and a soul; meaning by soul, an immortal
@@ -116,7 +116,7 @@ a spirit. But though the two terms, while they are used together differ
 in their meaning, still, when spirit is used by itself it is equivalent
 to soul, as when Solomon speaking of death says, that the spirit returns
 to God who gave it (<span id="iv.i.xvi-p14.1"></span>[Eccles.
-12:7](../../../bib/kjv/ecc012.htm#007)<span
+12:7](../../../bib/kjv/ecc012.htm#007.md)<span
 id="iv.i.xvi-p14.1"></span>). And Christ, in commending his spirit to
 the Father, and Stephen his to Christ, simply mean, that when the soul
 is freed from the prison-house of the body, God becomes its perpetual
@@ -155,7 +155,7 @@ thoughts of things which never existed, but foreboding future events. I
 briefly touch on topics which even profane writers describe with a more
 splendid eloquence. For pious readers, a simple reference is sufficient.
 Were not the soul some kind of essence separated from the body,
-Scripture would not teach12  <span id="fr_114"></span>[115](#fn_114)
+Scripture would not teach12  <span id="fr_114"></span>[115](#fn_114.md)
 that we dwell in houses of clay, and at death remove from a tabernacle
 of flesh; that we put off that which is corruptible, in order that, at
 the last day, we may finally receive according to the deeds done in the
@@ -205,7 +205,7 @@ tend,
 <span id="iv.i.xvi-p19"></span>Man looks aloft, and with erected eyes,
 
 <span id="iv.i.xvi-p20"></span>Beholds his own hereditary skies.”12
- <span id="fr_115"></span>[116](#fn_115)
+ <span id="fr_115"></span>[116](#fn_115.md)
 
 <span id="iv.i.xvi-p22"></span>Only let it be understood, that the image
 of God which is beheld or made conspicuous by these external marks, is
@@ -227,7 +227,7 @@ the Holy Spirit, and by what marks, or lineaments, the likeness is
 expressed. And since the expression, “Let us make man in our own image,”
 is used in the person of the Son also, it follows that he is the image
 of himself—a thing utterly absurd. Add that, according to the figment of
-Osiander,12  <span id="fr_116"></span>[117](#fn_116) Adam was formed
+Osiander,12  <span id="fr_116"></span>[117](#fn_116.md) Adam was formed
 after the model or type of the man Christ. Hence Christ, in as much as
 he was to be clothed with flesh, was the idea according to which Adam
 was formed, whereas the Scriptures teach very differently—viz. that he
@@ -274,7 +274,7 @@ tacit antithesis, as it were, setting man apart from the crowd, and
 exalting him above all the other creatures. But it cannot be denied that
 the angels also were created in the likeness of God, since, as Christ
 declares (<span id="iv.i.xvi-p23.2"></span>[Mt.
-22:30](../../../bib/kjv/mat022.htm#030)<span
+22:30](../../../bib/kjv/mat022.htm#030.md)<span
 id="iv.i.xvi-p23.2"></span>), our highest perfection will consist in
 being like them. But it is not without good cause that Moses commends
 the favour of God towards us by giving us this peculiar title, the more
@@ -294,18 +294,18 @@ called the second Adam, because he restores us to true and substantial
 integrity. For although Paul, contrasting the quickening Spirit which
 believers receive from Christ, with the living soul which Adam was
 created (<span id="iv.i.xvi-p24.1"></span>[1 Cor.
-15:45](../../../bib/kjv/co1015.htm#045)<span
+15:45](../../../bib/kjv/co1015.htm#045.md)<span
 id="iv.i.xvi-p24.1"></span>), commends the richer measure of grace
 bestowed in regeneration, he does not, however, contradict the
 statement, that the end of regeneration is to form us anew in the image
 of God. Accordingly, he elsewhere shows that the new man is renewed
 after the image of him that created him (<span
 id="iv.i.xvi-p24.2"></span>[Col.
-3:19](../../../bib/kjv/col003.htm#019)<span
+3:19](../../../bib/kjv/col003.htm#019.md)<span
 id="iv.i.xvi-p24.2"></span>). To this corresponds another passage, “Put
 ye on the new man, who after God is created,” (<span
 id="iv.i.xvi-p24.3"></span>[Eph.
-4:24](../../../bib/kjv/eph004.htm#024)<span
+4:24](../../../bib/kjv/eph004.htm#024.md)<span
 id="iv.i.xvi-p24.3"></span>). We must now see what particulars Paul
 comprehends under this renovation. In the first place, he mentions
 knowledge, and in the second, true righteousness and holiness. Hence we
@@ -321,7 +321,7 @@ which we are so renewed as to bear the image of God in knowledge,
 purity, righteousness, and true holiness. This being established, the
 imagination of Osiander, as to bodily form, vanishes of its own accord.
 As to that passage of St Paul (<span id="iv.i.xvi-p24.4"></span>[1 Cor.
-11:7](../../../bib/kjv/co1011.htm#007)<span
+11:7](../../../bib/kjv/co1011.htm#007.md)<span
 id="iv.i.xvi-p24.4"></span>), in which the man alone to the express
 exclusion of the woman, is called the image and glory of God, it is
 evident from the context, that it merely refers to civil order. I
@@ -331,7 +331,7 @@ eternal life. The same thing, in different terms, is declared by St John
 when he says, that the light which was from the beginning, in the
 eternal Word of God, was the light of man (<span
 id="iv.i.xvi-p24.5"></span>[John
-1:4](../../../bib/kjv/joh001.htm#004)<span id="iv.i.xvi-p24.5"></span>).
+1:4](../../../bib/kjv/joh001.htm#004)<span id="iv.i.xvi-p24.5"></span>.md).
 His object being to extol the singular grace of God in making man excel
 the other animals, he at the same time shows how he was formed in the
 image of God, that he may separate him from the common herd, as
@@ -345,7 +345,7 @@ the Spirit. Its full lustre, however, will be displayed in heaven. But
 in order to know the particular properties in which it consists, it will
 be proper to treat of the faculties of the soul. For there is no
 solidity in Augustine’s speculation,12  <span
-id="fr_117"></span>[118](#fn_117) that the soul is a mirror of the
+id="fr_117"></span>[118](#fn_117.md) that the soul is a mirror of the
 Trinity, inasmuch as it comprehends within itself, intellect, will, and
 memory. Nor is there probability in the opinion of those who place
 likeness to God in the dominion bestowed upon man, as if he only
@@ -359,7 +359,7 @@ necessary to advert to the dream of the Manichees, which Servetus has
 attempted in our day to revive. Because it is said that God breathed
 into man’s nostrils the breath of life (<span
 id="iv.i.xvi-p26.1"></span>[Gen.
-2:7](../../../bib/kjv/gen002.htm#007)<span id="iv.i.xvi-p26.1"></span>),
+2:7](../../../bib/kjv/gen002.htm#007)<span id="iv.i.xvi-p26.1"></span>.md),
 they thought that the soul was a transmission of the substance of God;
 as if some portion of the boundless divinity had passed into man. It
 cannot take long time to show how many gross and foul absurdities this
@@ -375,18 +375,18 @@ divine nature, if we hold that the soul is of the essence of God, or a
 secret influx of divinity. Who does not shudder at a thing so monstrous?
 Paul, indeed, quoting from Aratus, tells us we are his offspring (<span
 id="iv.i.xvi-p26.2"></span>[Acts
-17:28](../../../bib/kjv/act017.htm#028)<span
+17:28](../../../bib/kjv/act017.htm#028.md)<span
 id="iv.i.xvi-p26.2"></span>); not in substance, however, but in quality,
 in as much as he has adorned us with divine endowments. Meanwhile, to
 lacerate the essence of the Creator, in order to assign a portion to
 each individual, is the height of madness. It must, therefore, be held
 as certain, that souls, notwithstanding of their having the divine image
 engraven on them, are created just as angels are. Creation, however, is
-not a transfusion of essence,12  <span id="fr_118"></span>[119](#fn_118)
+not a transfusion of essence,12  <span id="fr_118"></span>[119](#fn_118.md)
 but a commencement of it out of nothing. Nor, though the spirit is given
 by God, and when it quits the flesh again returns to him, does it follow
 that it is a portion withdrawn from his essence.12  <span
-id="fr_119"></span>[120](#fn_119) Here, too, Osiander, carried away by
+id="fr_119"></span>[120](#fn_119.md) Here, too, Osiander, carried away by
 his illusions entangled himself in an impious error, by denying that the
 image of God could be in man without his essential righteousness; as if
 God were unable, by the mighty power of his Spirit, to render us
@@ -396,7 +396,7 @@ can never so blind the eyes of intelligent readers as to prevent them
 from discerning in them a revival of Manicheism. But from the words of
 Paul, when treating of the renewal of the image (<span
 id="iv.i.xvi-p28.1"></span>[2 Cor.
-3:18](../../../bib/kjv/co2003.htm#018)<span
+3:18](../../../bib/kjv/co2003.htm#018.md)<span
 id="iv.i.xvi-p28.1"></span>), the inference is obvious, that man was
 conformable to God, not by an influx of substance, but by the grace and
 virtue of the Spirit. He says, that by beholding the glory of Christ, we
@@ -450,12 +450,12 @@ pleasant, but also useful to be known; nor do I forbid any who are
 inclined to prosecute the study. First, I admit that there are five
 senses, which Plato (in Theæteto) prefers calling organs, by which all
 objects are brought into a common sensorium, as into a kind of
-receptacle:12  <span id="fr_120"></span>[121](#fn_120) Next comes the
+receptacle:12  <span id="fr_120"></span>[121](#fn_120.md) Next comes the
 imagination (*phantasia*), which distinguishes between the objects
 brought into the sensorium: Next, reason, to which the general power of
 Judgment belongs: And, lastly, intellect, which contemplates with fixed
 and quiet look whatever reason discursively revolves. In like manner,12
- <span id="fr_121"></span>[122](#fn_121) to intellect, fancy, and
+ <span id="fr_121"></span>[122](#fn_121.md) to intellect, fancy, and
 reason, the three cognitive faculties of the soul, correspond three
 appetite faculties—viz. will—whose office is to choose whatever reason
 and intellect propound; irascibility, which seizes on what is set before
@@ -473,7 +473,7 @@ disposed to quarrel with the view, that there are three principles of
 action—viz. sense, intellect, and appetite. But let us rather adopt a
 division adapted to all capacities—a thing which certainly is not to be
 obtained from philosophers. For they,12  <span
-id="fr_122"></span>[123](#fn_122) when they would speak most plainly,
+id="fr_122"></span>[123](#fn_122.md) when they would speak most plainly,
 divide the soul into appetite and intellect, but make both double. To
 the latter they sometimes give the name of *contemplative*, as being
 contented with mere knowledge and having no active powers (which
@@ -561,7 +561,7 @@ its power was weak, I answer, that the degree conferred was sufficient
 to take away every excuse. For surely the Deity could not be tied down
 to this condition,—to make man such, that he either could not or would
 not sin. Such a nature might have been more excellent;13  <span
-id="fr_123"></span>[124](#fn_123) but to expostulate with God as if he
+id="fr_123"></span>[124](#fn_123.md) but to expostulate with God as if he
 had been bound to confer this nature on man, is more than unjust, seeing
 he had full right to determine how much or how little He would give. Why
 He did not sustain him by the virtue of perseverance is hidden in his
@@ -578,7 +578,7 @@ his own glory.
 
 ### Footnotes
 
-<span id="fn_113"></span>[114](inst029.htm#fr_113) <span
+<span id="fn_113"></span>[114](inst029.htm#fr_113.md) <span
 id="iv.i.xvi-p12.1"></span>
 
 <span id="iv.i.xvi-p13"></span>20 120 On man’s first original, see
@@ -590,77 +590,77 @@ magis a morte sensus ullus aut corpori aut animæ quam ante natales.
 Eadem enim vanitas in futurum etiam se propagat et in mortis quoque
 tempora ipsa sibi vitam mentitur.”—Plin. Hist. Nat. lib. 7 c. 56.
 
-<span id="fn_114"></span>[115](inst029.htm#fr_114) <span
+<span id="fn_114"></span>[115](inst029.htm#fr_114.md) <span
 id="iv.i.xvi-p14.2"></span>
 
 <span id="iv.i.xvi-p15"></span>21 121 <span
 id="iv.i.xvi-p15.1"></span>[Job
-4:19](../../../bib/kjv/job004.htm#019)<span id="iv.i.xvi-p15.1"></span>;
+4:19](../../../bib/kjv/job004.htm#019.md)<span id="iv.i.xvi-p15.1"></span>;
 <span id="iv.i.xvi-p15.2"></span>[2 Cor.
-5:4](../../../bib/kjv/co2005.htm#004)<span id="iv.i.xvi-p15.2"></span>;
+5:4](../../../bib/kjv/co2005.htm#004.md)<span id="iv.i.xvi-p15.2"></span>;
 <span id="iv.i.xvi-p15.3"></span>[2 Pet.
-1:13](../../../bib/kjv/pe2001.htm#013),
-[14](../../../bib/kjv/pe2001.htm#014)<span id="iv.i.xvi-p15.3"></span>;
+1:13](../../../bib/kjv/pe2001.htm#013.md),
+[14](../../../bib/kjv/pe2001.htm#014.md)<span id="iv.i.xvi-p15.3"></span>;
 <span id="iv.i.xvi-p15.4"></span>[2 Cor.
-5:10](../../../bib/kjv/co2005.htm#010)<span id="iv.i.xvi-p15.4"></span>;
+5:10](../../../bib/kjv/co2005.htm#010.md)<span id="iv.i.xvi-p15.4"></span>;
 7:1; <span id="iv.i.xvi-p15.5"></span>[1 Pet.
-2:25](../../../bib/kjv/pe1002.htm#025)<span id="iv.i.xvi-p15.5"></span>;
+2:25](../../../bib/kjv/pe1002.htm#025.md)<span id="iv.i.xvi-p15.5"></span>;
 1:9; 2:11; <span id="iv.i.xvi-p15.6"></span>[Heb.
-13:17](../../../bib/kjv/heb013.htm#017)<span
+13:17](../../../bib/kjv/heb013.htm#017.md)<span
 id="iv.i.xvi-p15.6"></span>; <span id="iv.i.xvi-p15.7"></span>[2 Cor.
-1:23](../../../bib/kjv/co2001.htm#023)<span id="iv.i.xvi-p15.7"></span>;
+1:23](../../../bib/kjv/co2001.htm#023.md)<span id="iv.i.xvi-p15.7"></span>;
 <span id="iv.i.xvi-p15.8"></span>[Mt.
-10:28](../../../bib/kjv/mat010.htm#028)<span
+10:28](../../../bib/kjv/mat010.htm#028.md)<span
 id="iv.i.xvi-p15.8"></span>; <span id="iv.i.xvi-p15.9"></span>[Luke
-12:5](../../../bib/kjv/luk012.htm#005)<span id="iv.i.xvi-p15.9"></span>;
+12:5](../../../bib/kjv/luk012.htm#005.md)<span id="iv.i.xvi-p15.9"></span>;
 <span id="iv.i.xvi-p15.10"></span>[Heb
-12:9](../../../bib/kjv/heb012.htm#009)<span
+12:9](../../../bib/kjv/heb012.htm#009.md)<span
 id="iv.i.xvi-p15.10"></span>; <span id="iv.i.xvi-p15.11"></span>[Luke
-16:22](../../../bib/kjv/luk016.htm#022)<span
+16:22](../../../bib/kjv/luk016.htm#022.md)<span
 id="iv.i.xvi-p15.11"></span>; <span id="iv.i.xvi-p15.12"></span>[2 Cor.
-5:6](../../../bib/kjv/co2005.htm#006)<span id="iv.i.xvi-p15.12"></span>;
+5:6](../../../bib/kjv/co2005.htm#006.md)<span id="iv.i.xvi-p15.12"></span>;
 8; <span id="iv.i.xvi-p15.13"></span>[Acts
-23:8](../../../bib/kjv/act023.htm#008)<span
+23:8](../../../bib/kjv/act023.htm#008.md)<span
 id="iv.i.xvi-p15.13"></span>.
 
-<span id="fn_115"></span>[116](inst029.htm#fr_115) <span
+<span id="fn_115"></span>[116](inst029.htm#fr_115.md) <span
 id="iv.i.xvi-p20.1"></span>
 
 <span id="iv.i.xvi-p21"></span>22 122 Ovid, Metam. Lib. I.—Dryden’s
 Translation.
 
-<span id="fn_116"></span>[117](inst029.htm#fr_116) <span
+<span id="fn_116"></span>[117](inst029.htm#fr_116.md) <span
 id="iv.i.xvi-p22.1"></span>
 
 <span id="iv.i.xvi-p23"></span>23 123 As to Osiander’s absurd fancy, see
 Book 2. cap 12. sec. 5, squ. In <span id="iv.i.xvi-p23.1"></span>[Rom.
-8:3](../../../bib/kjv/rom008.htm#003)<span id="iv.i.xvi-p23.1"></span>,
+8:3](../../../bib/kjv/rom008.htm#003.md)<span id="iv.i.xvi-p23.1"></span>,
 Christ is said to have been sent by the Father in the likeness of sinful
 flesh, but nowhere is Adam said to have been formed in the likeness of
 Christ’s future flesh, although Tertullian somewhere says so.
 
-<span id="fn_117"></span>[118](inst029.htm#fr_117) <span
+<span id="fn_117"></span>[118](inst029.htm#fr_117.md) <span
 id="iv.i.xvi-p24.6"></span>
 
 <span id="iv.i.xvi-p25"></span>24 124 See Aug. Lib. de Trin. 10, et Lib.
 de Civit. Dei, 11. See farther, Calvin, in Psycho pannychia et Comment.
 in Genes.
 
-<span id="fn_118"></span>[119](inst029.htm#fr_118) <span
+<span id="fn_118"></span>[119](inst029.htm#fr_118.md) <span
 id="iv.i.xvi-p26.3"></span>
 
 <span id="iv.i.xvi-p27"></span>25 125 The French adds, “comme si on
 tiroit le vin d’un vaisseau en une bouteille; ”—as if one were to draw
 wine out of a cask into a bottle.
 
-<span id="fn_119"></span>[120](inst029.htm#fr_119) <span
+<span id="fn_119"></span>[120](inst029.htm#fr_119.md) <span
 id="iv.i.xvi-p27.1"></span>
 
 <span id="iv.i.xvi-p28"></span>26 126 The French is, “qu’il le coupe de
 sa substance comme une branche d’arbre;”—that he cuts it from his
 substance like a branch from a tree.
 
-<span id="fn_120"></span>[121](inst029.htm#fr_120) <span
+<span id="fn_120"></span>[121](inst029.htm#fr_120.md) <span
 id="iv.i.xvi-p30.1"></span>
 
 <span id="iv.i.xvi-p31"></span>27 127 The French is “Et que par iceux
@@ -671,19 +671,19 @@ channels, all objects which present themselves to the sight, taste,
 smell, or touch, drop into the common sensorium, as into a cistern which
 receives on either side.”
 
-<span id="fn_121"></span>[122](inst029.htm#fr_121) <span
+<span id="fn_121"></span>[122](inst029.htm#fr_121.md) <span
 id="iv.i.xvi-p31.1"></span>
 
 <span id="iv.i.xvi-p32"></span>28 128 See Arist. lib. 1 Ethic. cap.
 ult.; item, lib. 6 cap. 2.
 
-<span id="fn_122"></span>[123](inst029.htm#fr_122) <span
+<span id="fn_122"></span>[123](inst029.htm#fr_122.md) <span
 id="iv.i.xvi-p33.1"></span>
 
 <span id="iv.i.xvi-p34"></span>29 129 See Themist. lib. 3 De Anima, 49,
 De Dupl. Intellectu.
 
-<span id="fn_123"></span>[124](inst029.htm#fr_123) <span
+<span id="fn_123"></span>[124](inst029.htm#fr_123.md) <span
 id="iv.i.xvi-p36.1"></span>
 
 <span id="iv.i.xvi-p37"></span>30 130 See August. lib 11, super Gen.
@@ -693,4 +693,4 @@ cap. 7,8,9, and De Corrept. et Gratia ad Valent., cap. 11.
 
 [Next: CHAPTER 16. - THE WORLD, CREATED BY GOD, STILL CHERISHED AND
 PROTECTED BY HIM. EACH AND ALL OF ITS PARTS GOVERNED BY HIS
-PROVIDENCE.](inst030)
+PROVIDENCE.](inst030.md)

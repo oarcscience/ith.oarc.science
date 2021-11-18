@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ American](../../index)  [Northwest](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cht00)
+[Contents](#contents)    [Start Reading](cht00.md)
 
 ------------------------------------------------------------------------
 
@@ -47,52 +47,52 @@ dead, in a story worthy of the Twilight Zone.
 
 ------------------------------------------------------------------------
 
-[Title Page](cht00)  
-[Contents](cht01)  
-[Introduction](cht02)  
-[Alphabet](cht03)  
+[Title Page](cht00.md)  
+[Contents](cht01.md)  
+[Introduction](cht02.md)  
+[Alphabet](cht03.md)  
 <span id="section_000"></span>
 
 ### Myths
 
-[1. CikLa](cht04)  
-[2. Okulâ'm](cht05)  
-[3. AnêktcXô'lEmiX](cht06)  
-[4. The Salmon](cht07)  
-[5. Raven and Gull](cht08)  
-[6. Coyote](cht09)  
-[7. The Crane](cht10)  
-[8. Ênts!X](cht11)  
-[9. The Crow](cht12)  
-[10. Câ'xaL](cht13)  
-[11. Stikua'](cht14)  
-[12. The Skunk](cht15)  
-[13. Robin and Blue-Jay](cht16)  
-[18. Blue-Jay and Iô'i](cht17)  
-[15. Blue-Jay and Iô'i](cht18)  
-[16. Blue-Jay and Iô'i](cht19)  
-[17. Ckulkulô'L](cht20)  
-[18. The Panther](cht21)  
+[1. CikLa](cht04.md)  
+[2. Okulâ'm](cht05.md)  
+[3. AnêktcXô'lEmiX](cht06.md)  
+[4. The Salmon](cht07.md)  
+[5. Raven and Gull](cht08.md)  
+[6. Coyote](cht09.md)  
+[7. The Crane](cht10.md)  
+[8. Ênts!X](cht11.md)  
+[9. The Crow](cht12.md)  
+[10. Câ'xaL](cht13.md)  
+[11. Stikua'](cht14.md)  
+[12. The Skunk](cht15.md)  
+[13. Robin and Blue-Jay](cht16.md)  
+[18. Blue-Jay and Iô'i](cht17.md)  
+[15. Blue-Jay and Iô'i](cht18.md)  
+[16. Blue-Jay and Iô'i](cht19.md)  
+[17. Ckulkulô'L](cht20.md)  
+[18. The Panther](cht21.md)  
 <span id="section_001"></span>
 
 ### Beliefs, Customs, and Tales
 
-[The Soul and the Shamans](cht22)  
-[How Cultee's Grandfather Acquired a Guardian Spirit](cht23)  
-[The Four Cousins](cht24)  
-[The GiLâ'unaLX](cht25)  
-[The Elk Hunter](cht26)  
-[Pregnancy and Birth](cht27)  
-[Puberty](cht28)  
-[Marriage](cht29)  
-[Death](cht30)  
-[Whaling](cht31)  
-[Elk Hunting](cht32)  
-[The Potlatch](cht33)  
-[War](cht34)  
+[The Soul and the Shamans](cht22.md)  
+[How Cultee's Grandfather Acquired a Guardian Spirit](cht23.md)  
+[The Four Cousins](cht24.md)  
+[The GiLâ'unaLX](cht25.md)  
+[The Elk Hunter](cht26.md)  
+[Pregnancy and Birth](cht27.md)  
+[Puberty](cht28.md)  
+[Marriage](cht29.md)  
+[Death](cht30.md)  
+[Whaling](cht31.md)  
+[Elk Hunting](cht32.md)  
+[The Potlatch](cht33.md)  
+[War](cht34.md)  
 <span id="section_002"></span>
 
 ### Historical Tales
 
-[War Between Quileute and Clatsop](cht35)  
-[The First Ship Seen by the Clatsop](cht36)  
+[War Between Quileute and Clatsop](cht35.md)  
+[The First Ship Seen by the Clatsop](cht36.md)  

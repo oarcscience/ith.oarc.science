@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXVI) 
-[Previous](satl065)  [Next](satl067) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXVI.md) 
+[Previous](satl065)  [Next](satl067.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ improbi ternos pugnos sustulerunt. Nam pernae missionem dedimus.
 
 ------------------------------------------------------------------------
 
-[Next: LXVII](satl067)
+[Next: LXVII](satl067.md)

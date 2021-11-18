@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut05)  [Next](tut07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut05)  [Next](tut07.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 HER AND SUTI, OVERSEERS OF WORKS AT THEBES, IN THE REIGN OF AMENHETEP
 III
 
-\[British Museum Stele No. 475-9 <span id="fr_25"></span>[1](#fn_25)\]
+\[British Museum Stele No. 475-9 <span id="fr_25"></span>[1](#fn_25.md)\]
 
 1\. A Hymn of Praise to Amen when he riseth as Horus of the Two Horizons
 by Suti, the, Overseer of the Works of Amen, \[and by\] <u>H</u>er
@@ -21,16 +21,16 @@ by Suti, the, Overseer of the Works of Amen, \[and by\] <u>H</u>er
 Ra, Beautiful (or Beneficent) One of every day! Thou shootest up
 
 2\. at sunrise (or dawn) without fail, <span
-id="fr_26"></span>[2](#fn_26) Khepera, <span
-id="fr_27"></span>[3](#fn_27)
+id="fr_26"></span>[2](#fn_26.md) Khepera, <span
+id="fr_27"></span>[3](#fn_27.md)
 
 <span id="page_47">p. 47</span>
 
 great one of works. Thy radiance is in thy face, \[thou\] Unknown. \[As
-for\] shining metal <span id="fr_28"></span>[1](#fn_28) it doth not
+for\] shining metal <span id="fr_28"></span>[1](#fn_28.md) it doth not
 resemble thy splendours.
 
-3\. Being designed <span id="fr_29"></span>[2](#fn_29) thou didst mould
+3\. Being designed <span id="fr_29"></span>[2](#fn_29.md) thou didst mould
 into form thy members; giving birth, but he was not born; One by himself
 by reason of his power or abilities), Traverser of Eternity, He who is
 over (or Chief of) the ways of millions of years, maintaining his Divine
@@ -56,7 +56,7 @@ peoples)
 
 7\. direct their gaze upon thee, they cease not to do so. When Thy
 Majesty setteth, thou makest haste (?) to rise up early in the
-morning, <span id="fr_30"></span>[1](#fn_30) thy sparkling rays flash in
+morning, <span id="fr_30"></span>[1](#fn_30.md) thy sparkling rays flash in
 the eyes (or penetrate the eyes).
 
 <span id="page_49">p. 49</span>
@@ -74,7 +74,7 @@ sky). \[Men\] cry out joyfully at
 
 10\. his rising \[and\] at his setting likewise. \[He is\] the fashioner
 \[of what\] the ground produceth, Khnem Amen of the Henmemet, <span
-id="fr_31"></span>[1](#fn_31) conqueror of the Two Lands, from the great
+id="fr_31"></span>[1](#fn_31.md) conqueror of the Two Lands, from the great
 one to the little one. \[Thou\] Mother splendid of
 
 <span id="page_50">p. 50</span>
@@ -145,31 +145,31 @@ bandlets on the day of the festival of Ug.
 
 ### Footnotes
 
-<span id="fn_25"></span>[46:1](tut06.htm#fr_25) This monument has been
+<span id="fn_25"></span>[46:1](tut06.htm#fr_25.md) This monument has been
 published by Pierret, *Recueil*, tome I., p. 20 and by Birch, *Trans.
 Soc. Bibl. Arch*., Vol. VIII: p. 143 ff.
 
-<span id="fn_26"></span>[46:2](tut06.htm#fr_26) Literally, "he maketh
+<span id="fn_26"></span>[46:2](tut06.htm#fr_26.md) Literally, "he maketh
 not cessation."
 
-<span id="fn_27"></span>[46:3](tut06.htm#fr_27) Or "Creator." Here Amen
+<span id="fn_27"></span>[46:3](tut06.htm#fr_27.md) Or "Creator." Here Amen
 is identified with the ancient god of Creation.
 
-<span id="fn_28"></span>[47:1](tut06.htm#fr_28) Tcham, perhaps gilded
+<span id="fn_28"></span>[47:1](tut06.htm#fr_28.md) Tcham, perhaps gilded
 copper, or even gold itself. The caps of the obelisks; were covered with
 it.
 
-<span id="fn_29"></span>[47:2](tut06.htm#fr_29) Meaning perhaps, thou
+<span id="fn_29"></span>[47:2](tut06.htm#fr_29.md) Meaning perhaps, thou
 didst design thine own form."
 
-<span id="fn_30"></span>[48:1](tut06.htm#fr_30) The text is probably
+<span id="fn_30"></span>[48:1](tut06.htm#fr_30.md) The text is probably
 corrupt here; the writer meant to say "When Thy Majesty setteth, thou
 shinest and risest upon the Tuat" (the Underworld).
 
-<span id="fn_31"></span>[49:1](tut06.htm#fr_31) A class of celestial
+<span id="fn_31"></span>[49:1](tut06.htm#fr_31.md) A class of celestial
 beings.
 
 ------------------------------------------------------------------------
 
 [Next: The Cult of Aten, The God and Disk of the Sun, Its Origin,
-Development And Decline](tut07)
+Development And Decline](tut07.md)

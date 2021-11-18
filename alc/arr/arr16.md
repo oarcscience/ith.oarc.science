@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr15)  [Next](arr17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr15)  [Next](arr17.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ plant life, the minerals being of the first manifestation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Medicine From Metals](arr17)
+[Next: Chapter I: The Medicine From Metals](arr17.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste40)  [Next](ste42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste40)  [Next](ste42.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,7 +285,7 @@ thereupon the Destroying Angel *thrust in his sickle into the Earth, and
 gathered the Vine of the Earth, and cast it into the great Wine press of
 the Wrath of God*. And this made a potion, *compounded of several
 ingredients, but not diluted with water*; (ch. 14. 10.)  <span
-id="fr_14"></span>[1](#fn_14) and was indeed a potion of fire and
+id="fr_14"></span>[1](#fn_14.md) and was indeed a potion of fire and
 brimstone and all burning materials mixt together. The similitudes of
 Scripture are seldom nice and exact, but rather bold, noble and great;
 and according to the circumstances which we have observ’d, This
@@ -318,9 +318,9 @@ before thee; for thy judgments are made manifest*.
 
 ### Footnotes
 
-<span id="fn_14"></span>[293:1](ste41.htm#fr_14) τοῦ κεκουρασμένου
+<span id="fn_14"></span>[293:1](ste41.htm#fr_14.md) τοῦ κεκουρασμένου
 ἀκράτου.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](ste42)
+[Next: Chapter XI](ste42.md)

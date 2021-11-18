@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw09)  [Next](sahw11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw09)  [Next](sahw11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -46,7 +46,7 @@ that inspired the little poem which I have put at the head of this
 chapter.
 
 In a little Handbook of Doctrine lately published by teachers of the
-Jōdo Sect <span id="fr_72"></span>[\*](#fn_72) and therefore identical
+Jōdo Sect <span id="fr_72"></span>[\*](#fn_72.md) and therefore identical
 in teaching with what the Shinshu hold, there is a
 
 <span id="page_72">p. 72</span>
@@ -58,15 +58,15 @@ He is there described as a Being whose Length of Life is Immeasurable in
 Past, Present, and Future. He never had a beginning. He will never have
 an end, His life at this present moment fills everything. If we picture
 Him to ourselves, His form is such as the Japanese artists delight to
-paint,—colossal in stature, <span id="fr_73"></span>[\*](#fn_73) with a
+paint,—colossal in stature, <span id="fr_73"></span>[\*](#fn_73.md) with a
 face "as the sun shining in his strength,"—*enkō no kebutsu*, <span
-id="fr_74"></span>[†](#fn_74) the personified Buddha of Perfect Light.
+id="fr_74"></span>[†](#fn_74.md) the personified Buddha of Perfect Light.
 His Light is as immeasurable as His Life: it has had no beginning, it
 will have no end, it is as boundless in space as it is in time. It
 illuminates the Ten Quarters (*jippō*), which is the Buddhist equivalent
 for the Universe, and there is no place which it is does not reach.
 Wherever He is, He is king, and the Buddhas and Bodhisattvas of
-[the](errata.htm#6) Ten Quarters are "the Angels of His that do Him
+[the](errata.htm#6.md) Ten Quarters are "the Angels of His that do Him
 service," there is none that rendereth Him not homage.
 
 Yet, though the Universe is not large enough to contain Him, he has
@@ -94,7 +94,7 @@ Incarnation was the visible embodiment of His Compassion: it was
 undertaken "for us men and for our salvation," and it is this that gives
 to the Believer in Salvation by Faith the assurance that Amida is no
 mere name, but that in Him Essence and Name are one and
-indivisible. <span id="fr_75"></span>[\*](#fn_75) Compassion is the
+indivisible. <span id="fr_75"></span>[\*](#fn_75.md) Compassion is the
 Heart of Buddha.
 
 <span id="page_74">p. 74</span>
@@ -197,9 +197,9 @@ the Ineffable' of the Gnostics.
 
 ### Footnotes
 
-<span id="fn_72"></span>[71:\*](sahw10.htm#fr_72) Jōdo Seikun.
+<span id="fn_72"></span>[71:\*](sahw10.htm#fr_72.md) Jōdo Seikun.
 
-<span id="fn_73"></span>[72:\*](sahw10.htm#fr_73) I think we should
+<span id="fn_73"></span>[72:\*](sahw10.htm#fr_73.md) I think we should
 remember that there are certain passages in the Old Testament which also
 give "anthropomorphic" descriptions of God which must evidently be taken
 in a figurative sense. It is interesting to compare Hippolytus,
@@ -207,10 +207,10 @@ Philosophumena, Bk. ix. 462–3 (Ed. Migne), and to remember that the sect
 there described had its origin at the time at which, and in the locality
 from which, the mission started which brought the Amida Books to China.
 
-<span id="fn_74"></span>[72:†](sahw10.htm#fr_74) Cf. Col. i. 16. εἰκὼν
+<span id="fn_74"></span>[72:†](sahw10.htm#fr_74.md) Cf. Col. i. 16. εἰκὼν
 του θεου του ἀορατου.
 
-<span id="fn_75"></span>[73:\*](sahw10.htm#fr_75) These last phrases are
+<span id="fn_75"></span>[73:\*](sahw10.htm#fr_75.md) These last phrases are
 ascribed to the Chinese Patriarch *Zendō*. If any of my readers will
 take the trouble to verify my statements by comparing them with the
 Japanese handbook from which I have summarized them, he will, I think,
@@ -231,4 +231,4 @@ flourished about A.D. 620.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Hōzō Biku.](sahw11)
+[Next: Chapter IX. Hōzō Biku.](sahw11.md)

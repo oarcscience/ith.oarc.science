@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg19) [Next](aflg21)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg19) [Next](aflg21.md)
 
 ------------------------------------------------------------------------
 
@@ -8,9 +8,9 @@ American](../index) [Index](index) [Previous](aflg19) [Next](aflg21)
 ## C<span class="small">HAPTER</span> XX ANIMISM AND FOLK-TALES OF RECENT INTRODUCTION; MIXED FOREIGN AND INDIGENOUS BELIEFS
 
    <span class="small">The Story of "Brer Rabbit"
-(*[352](#pp_352)-362*), and other Tales (*[363](#pp_363)-364*).</span>
+(*[352](#pp_352)-362*), and other Tales (*[363](#pp_363)-364*.md).</span>
 
-   <span id="pp_352"></span>**352.**[\*](#pp_352) There are many stories
+   <span id="pp_352"></span>**352.**[\*](#pp_352.md) There are many stories
 current of undoubted foreign origin, chiefly African, modified more or
 less by local conditions. Among these are the celebrated adventures of
 Brer Rabbit, who, through the Spanish form of the word (*conejo*) is
@@ -22,12 +22,12 @@ these two sources that I was able to glean the details given here.
 
  
 
-<span id="story_114"></span>[\*](#story_114)T<span
+<span id="story_114"></span>[\*](#story_114.md)T<span
 class="small">HE</span> S<span class="small">TORY OF</span> K<span
 class="small">ONESO</span> (B<span class="small">RER</span> R<span
 class="small">ABBIT</span>)
 
->    <span id="pp_353"></span>**353.**[\*](#pp_353) There was once a
+>    <span id="pp_353"></span>**353.**[\*](#pp_353.md) There was once a
 > Koneso; but although he was a rabbit, he had short ears just like any
 > other person. He traveled about all over the country, and he had
 > plenty of children everywhere. Yes; he gave a lot of trouble to the
@@ -37,7 +37,7 @@ class="small">ABBIT</span>)
 > could not kill him, and he continued doing just what he liked. But at
 > last he himself got tired of everybody, and went away to another
 > country. Now, the country he went to was ruled by a nafudi,<span
-> id="page_372_fr_1"></span>[1](#page_372_note_1) who was celebrated as
+> id="page_372_fr_1"></span>[1](#page_372_note_1.md) who was celebrated as
 > having a very beautiful daughter. Koneso happened to see this lovely
 > woman one day, and forthwith went and asked the father to give her to
 > him for a wife. But the nafudi told him he must first of all bring him
@@ -53,7 +53,7 @@ class="small">ABBIT</span>)
 > back with them to the nafudi, but the latter said, "I can not let
 > anyone like you have my daughter. Hang your impudence!" And with this,
 > he pulled sharply at Koneso's ears.<span
-> id="page_372_fr_2"></span>[2](#page_372_note_2) But with the pull,
+> id="page_372_fr_2"></span>[2](#page_372_note_2.md) But with the pull,
 > Koneso's ears got stretched and hung down a good way over his neck.
 > When Koneso found that he had now got long ears, he became very angry,
 > and told the nafudi he would show him what he could do. Whereupon, he
@@ -77,7 +77,7 @@ class="small">ABBIT</span>)
 > make a long story short, the nafudi recognizing his helplessness, gave
 > Koneso his daughter.
 >
->    <span id="pp_354"></span>**354.**[\*](#pp_354) Koneso after a time
+>    <span id="pp_354"></span>**354.**[\*](#pp_354.md) Koneso after a time
 > got homesick, and came back to his own country. He went one day deep
 > into the forest and began to pull the big vine-ropes from off the
 > trees. Tiger heard him, and coming up, asked him what all the noise
@@ -101,7 +101,7 @@ class="small">ABBIT</span>)
 > is why, whenever Tiger kills game, he always leaves behind something
 > for the carrion-crow to peck at.
 >
->    <span id="pp_355"></span>**355.**[\*](#pp_355) Some time after,
+>    <span id="pp_355"></span>**355.**[\*](#pp_355.md) Some time after,
 > Tiger met Koneso and told him that he was going to kill him for
 > playing such a trick. But Koneso begged so hard, saying that he was
 > only skin and bones, and that even if he ate him, he would not satisfy
@@ -132,9 +132,9 @@ class="small">ABBIT</span>)
 > love to see it closer." And when the silly hawk bent her face down,
 > Koneso immediately threw a handful of sand into her eyes, and so
 > blinded her, which gave him the opportunity of getting away from
-> Tiger.<span id="page_374_fr_1"></span>[1](#page_374_note_1)
+> Tiger.<span id="page_374_fr_1"></span>[1](#page_374_note_1.md)
 >
->    <span id="pp_356"></span>**356.**[\*](#pp_356) There was once a
+>    <span id="pp_356"></span>**356.**[\*](#pp_356.md) There was once a
 > celebrated Konehu, walking along the bush, when he met a female Tiger.
 > The latter, who was hungry, wanted to go out hunting, but did not like
 > to leave her three little cubs at home without anyone in charge of the
@@ -151,7 +151,7 @@ class="small">ABBIT</span>)
 > remaining cub three times to be fed, and its mother was none the
 > wiser. Next day, however, the surviving whelp bit Konehu. So he killed
 > it, left its carcass close by the hollow log, and made tracks
-> elsewhere.<span id="page_374_fr_2"></span>[2](#page_374_note_2) He
+> elsewhere.<span id="page_374_fr_2"></span>[2](#page_374_note_2.md) He
 > knew that Tiger would follow him, so he traveled a long, long way
 > before he rested. He next built a house on very high posts, posts too
 > high for anyone to climb up, and then started making the roof which
@@ -208,7 +208,7 @@ class="small">ABBIT</span>)
 > "Nonsense, woman," says Konehu. "Look, look down there. Don't you see
 > that beautiful yellow stone \[gold\]? If you could only fetch it you
 > would be a rich woman. You would have a new husband, and get new
-> cubs."<span id="page_375_fr_1"></span>[1](#page_375_note_1) Now what
+> cubs."<span id="page_375_fr_1"></span>[1](#page_375_note_1.md) Now what
 > he was pointing at in the water was only the reflection of the sun
 > overhead. Tiger, however, being both silly and greedy, dived in, and
 > quickly came up to the surface to breathe. "Oh!" he tells her, "you
@@ -230,9 +230,9 @@ class="small">ABBIT</span>)
 > does just what he tells her, and waits for the meat to come. Soon,
 > bumpty, bumpty, down the hill comes the big rock, faster and faster it
 > speeds, until falling on Tiger, it kills and buries her.<span
-> id="page_375_fr_2"></span>[2](#page_375_note_2)
+> id="page_375_fr_2"></span>[2](#page_375_note_2.md)
 >
->    <span id="pp_357"></span>**357.**[\*](#pp_357) Konehu was a lazy
+>    <span id="pp_357"></span>**357.**[\*](#pp_357.md) Konehu was a lazy
 > man, and would not labor for his living. He was hungry. One fine
 > morning he sat at the foot of a high overhanging cliff, waiting for
 > some one to come along. By and by he saw a company of men approaching.
@@ -256,7 +256,7 @@ class="small">ABBIT</span>)
 > to pick up all their game and provisions. But these had all
 > disappeared. And so had Konehu!
 >
->    <span id="pp_358"></span>**358.**[\*](#pp_358) On another occasion
+>    <span id="pp_358"></span>**358.**[\*](#pp_358.md) On another occasion
 > Konehu was again hungry, but the people all about knew what a tricky
 > man he was, and refused to give him anything to eat, unless he paid or
 > worked for it. He had nothing to give, so he had to work. He asked for
@@ -270,21 +270,21 @@ class="small">ABBIT</span>)
 > cooked rice for supper. Instead of a solid heavy-wood pounder, he had
 > used a hollow-bamboo one, and the more he pounded the rice with it,
 > the quicker it became filled.<span
-> id="page_376_fr_1"></span>[1](#page_376_note_1)
+> id="page_376_fr_1"></span>[1](#page_376_note_1.md)
 >
->    <span id="pp_359"></span>**359.**[\*](#pp_359) An exploit next
+>    <span id="pp_359"></span>**359.**[\*](#pp_359.md) An exploit next
 > takes place wherein our friend Konehu fools a fellow-traveler over
 > some kokerite seeds (*Maximiliana regia*). He was sitting on a rock
 > one day eating kokerite nuts. Holding them in close proximity to his
 > crutch, he was breaking them on the hard surface with a stone. While
 > eating the kernels, a traveler passed, and the latter was invited to
 > taste them. He ate with great gusto, and asked Konehu what they
-> were.<span id="page_376_fr_2"></span>[2](#page_376_note_2) "Eheu, edo
+> were.<span id="page_376_fr_2"></span>[2](#page_376_note_2.md) "Eheu, edo
 > testiculos meos. Quare nonne edes tuoes," inquit. Itaque hostes,
 > testiculos suos prehens, lapide pulsavit, atque tanto modo se
 > vulneravit ut morietur.
 >
->    <span id="pp_360"></span>**360.**[\*](#pp_360) One day Konehu met a
+>    <span id="pp_360"></span>**360.**[\*](#pp_360.md) One day Konehu met a
 > man carrying two quakes of yams. The yams looked just splendid, and
 > Konehu, not having any of his own, determined on possessing himself of
 > them. "Those are fine yams," he said, "what are you going to do with
@@ -310,7 +310,7 @@ class="small">ABBIT</span>)
 > pieces, but the result was that she bled to death, and he recognized
 > only too late that he had again been tricked.
 >
->    <span id="pp_361"></span>**361.**[\*](#pp_361) The way in which
+>    <span id="pp_361"></span>**361.**[\*](#pp_361.md) The way in which
 > Konehu managed to get the advantage of everybody soon spread abroad.
 > Among others, it reached the ear of a head-man at one of the
 > settlements. This man had a big field and several wives: he was indeed
@@ -326,7 +326,7 @@ class="small">ABBIT</span>)
 > carefully placed it point upwards on the ground, over the dung, at the
 > same time pressing his palms around the edge just as if there was some
 > live animal underneath.<span
-> id="page_377_fr_1"></span>[1](#page_377_note_1) When a few feet
+> id="page_377_fr_1"></span>[1](#page_377_note_1.md) When a few feet
 > distant, the owner saw Konehu in this extraordinary attitude, he asked
 > him what he was doing. "I have just caught a bird here," says Konehu,
 > "and am afraid of it getting away. Do you happen to have a quake with
@@ -342,7 +342,7 @@ class="small">ABBIT</span>)
 > edge of the troolie cap, and saw that he had indeed been outwitted by
 > the very man he had boasted to despise.
 >
->    <span id="pp_362"></span>**362.**[\*](#pp_362) The time at last
+>    <span id="pp_362"></span>**362.**[\*](#pp_362.md) The time at last
 > arrived when mere mention of Konehu's name made everyone spit. All had
 > been fooled by him at some time or another, and now left him strictly
 > to himself. His wife went off with another man. Poor Konehu did not
@@ -360,7 +360,7 @@ class="small">ABBIT</span>)
 > back one morning, he hid himself behind a big tree whence he could
 > observe everything taking place in the house without himself being
 > seen. He waited and waited. By and by he saw the deer leg ([Sect.
-> *98*](aflg08.htm#pp_98)) change into a beautiful woman, and he then
+> *98*](aflg08.htm#pp_98).md) change into a beautiful woman, and he then
 > knew who it was that had been minding him so carefully. He rushed
 > forward and held her fast. He wanted her to be his wife, but she
 > resolutely declined, though she promised to remain and continue as his
@@ -376,7 +376,7 @@ class="small">ABBIT</span>)
 > luck in hunting and fishing, as well as his abundance of provisions,
 > became now almost proverbial, but whenever questioned as to how he
 > managed to secure such luck, and what binas ([Sect.
-> *233*](aflg14.htm#pp_233)) he employed, he always remained silent. The
+> *233*](aflg14.htm#pp_233).md) he employed, he always remained silent. The
 > neighbors' envy and curiosity were not to be baffled by his silence.
 > They said, "Let us ask Konehu to a paiwarri, and make him drunk. Then
 > he will tell us!" So they held a big feast, and they had many jars of
@@ -396,7 +396,7 @@ class="small">ABBIT</span>)
  
 
 <span id="story_115"></span><span
-id="pp_363"></span>**363.**[\*](#pp_363) T<span class="small">HE</span>
+id="pp_363"></span>**363.**[\*](#pp_363.md) T<span class="small">HE</span>
 W<span class="small">OMAN AND THE</span> S<span
 class="small">ERPENT</span> O<span class="small">ROLI</span>
 
@@ -409,7 +409,7 @@ class="small">ERPENT</span> O<span class="small">ROLI</span>
 > (everything being made so quickly) the girl knew that something was
 > wrong, but she could not say definitely what. As a matter of fact it
 > was really the terrible snake Oroli ([Sect.
-> *235*](aflg14.htm#pp_235)), who had come disguised as a man, decorated
+> *235*](aflg14.htm#pp_235).md), who had come disguised as a man, decorated
 > with boar's teeth and beautiful feathers. And when at the wedding
 > feast the bridegroom did not want to eat with the others, and could be
 > prevailed on to do so only on the condition that he should be provided
@@ -433,7 +433,7 @@ class="small">ERPENT</span> O<span class="small">ROLI</span>
  
 
 <span id="story_116"></span><span
-id="pp_364"></span>**364.**[\*](#pp_364) T<span class="small">HE</span>
+id="pp_364"></span>**364.**[\*](#pp_364.md) T<span class="small">HE</span>
 P<span class="small">IAI AND THE</span> E<span
 class="small">ARTHQUAKE</span> P<span class="small">EOPLE</span> (C)
 
@@ -481,7 +481,7 @@ class="small">ARTHQUAKE</span> P<span class="small">EOPLE</span> (C)
 
 ------------------------------------------------------------------------
 
-[Next](aflg21)
+[Next](aflg21.md)
 
 ------------------------------------------------------------------------
 
@@ -489,49 +489,49 @@ class="small">ARTHQUAKE</span> P<span class="small">EOPLE</span> (C)
 
 <span id="footnotes_page_372">p. 372</span>
 
-<span id="page_372_note_1"></span>[1](#page_372_fr_1) *Nafudi* is the
+<span id="page_372_note_1"></span>[1](#page_372_fr_1.md) *Nafudi* is the
 Arawak term for the head of a settlement, for a "boss," and used to be
 applied to a chieftain or cacique, in the same sense that it would be
 and still is applied to the King or to the Governor.
 
-<span id="page_372_note_2"></span>[2](#page_372_fr_2) It is a common
+<span id="page_372_note_2"></span>[2](#page_372_fr_2.md) It is a common
 trick for the Indians to give a sharp downward tug on their children's
 ears when the youngsters are naughty or disobedient.
 
 <span id="footnotes_page_374">p. 374</span>
 
-<span id="page_374_note_1"></span>[1](#page_374_fr_1) The rest of this
+<span id="page_374_note_1"></span>[1](#page_374_fr_1.md) The rest of this
 story is fairly similar to the following Warrau version.
 
-<span id="page_374_note_2"></span>[2](#page_374_fr_2) In the Arawak
+<span id="page_374_note_2"></span>[2](#page_374_fr_2.md) In the Arawak
 version of the story as told on the Pomeroon, the slaughter of all three
 youngsters is wilfully done on the one occasion by throwing them into
 boiling water in a pot, which the miscreant covers with a baking-stone.
 
 <span id="footnotes_page_375">p. 375</span>
 
-<span id="page_375_note_1"></span>[1](#page_375_fr_1) The exploit of the
+<span id="page_375_note_1"></span>[1](#page_375_fr_1.md) The exploit of the
 yellow stone in the water has been met with only in the Pomeroon Warrau
 version of the story.
 
-<span id="page_375_note_2"></span>[2](#page_375_fr_2) From Cayenne comes
+<span id="page_375_note_2"></span>[2](#page_375_fr_2.md) From Cayenne comes
 a variation of the story of the Tiger in a pit, covered over with a
 stone (Cou, <span class="small">I</span>, 272-3).
 
 <span id="footnotes_page_376">p. 376</span>
 
-<span id="page_376_note_1"></span>[1](#page_376_fr_1) Although Father
+<span id="page_376_note_1"></span>[1](#page_376_fr_1.md) Although Father
 Gumilla, upward of two centuries ago, speaks of indigenous rice growing
 luxuriantly on the Orinoco, thus far I have not met with any records of
 its having been cultivated by the Indians previous to the Conquest.—W.
 E. R.
 
-<span id="page_376_note_2"></span>[2](#page_376_fr_2) The Arawaks on the
+<span id="page_376_note_2"></span>[2](#page_376_fr_2.md) The Arawaks on the
 Essequibo have the same story.
 
 <span id="footnotes_page_377">p. 377</span>
 
-<span id="page_377_note_1"></span>[1](#page_377_fr_1) The spathe of this
+<span id="page_377_note_1"></span>[1](#page_377_fr_1.md) The spathe of this
 palm (*Manicaria* sp.) was used as a hat by the Warrau and Arawak males.
 
  

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm36)  [Next](rrm38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm36)  [Next](rrm38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -249,7 +249,7 @@ building.'
 The. material whereof the Garter was composed at first is an *arcanum*,
 nor is it described by any writer before Polydore Virgil, and he only
 speaks of it in general terms. The Garter was originally without a
-motto <span id="fr_13"></span>[1](#fn_13). As to the appointments of the
+motto <span id="fr_13"></span>[1](#fn_13.md). As to the appointments of the
 Order, we may gain the most authentic idea of them from the effigies of
 some of the first knights. Sir William Fitz-warin was buried on the
 north side of the chancel of the church of Wantage, in Berkshire, in the
@@ -471,10 +471,10 @@ strange natural things.
 
 ### Footnotes
 
-<span id="fn_13"></span>[321:1](rrm37.htm#fr_13) A proof that it did not
+<span id="fn_13"></span>[321:1](rrm37.htm#fr_13.md) A proof that it did not
 originate with Edward the Third.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: Rosicrucian Supposed Means of Magic Through Signs,
-Sigils, and Figures](rrm38)
+Sigils, and Figures](rrm38.md)

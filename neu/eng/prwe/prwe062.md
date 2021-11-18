@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe061)  [Next](prwe063) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe061)  [Next](prwe063.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Beyond this I have been unable to glean any story worth preserving.
 
 ------------------------------------------------------------------------
 
-[Next: The Old Man of Cury](prwe063)
+[Next: The Old Man of Cury](prwe063.md)

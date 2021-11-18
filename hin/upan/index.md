@@ -9,9 +9,9 @@ alttext1: ""
 titleh1: "The Upanishads"
 ---
 <span class="c_e"><span class="c_t">[Upanishads, Part One (SBE
-1)](../sbe01/index)</span></span>  
+1)](../sbe01/index.md)</span></span>  
 <span class="c_e"><span class="c_t">[Upanishads, Part Two (SBE
-15)](../sbe15/index)</span></span>  
+15)](../sbe15/index.md)</span></span>  
 
 The Sacred Books of the East started off with the Max Müller translation
 of the Upanishads; complete extexts of these key works are available

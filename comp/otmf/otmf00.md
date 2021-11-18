@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Comparative
-Religion](../index)  [Index](index)  [Next](otmf01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Comparative
+Religion](../index)  [Index](index)  [Next](otmf01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *On the Migration of Fables*, by Max Müller, \[1881\], at Intangible
 Textual Heritage
 
@@ -30,7 +30,7 @@ because it was published prior to 1923.
 hatched," is a well-known proverb in English, and most people, if asked
 what was its origin, would probably appeal to La Fontaine's delightful
 fable, *La Laitière et le Pot au Lait*. <span
-id="fr_0"></span>[1](#fn_0) We all know Perrette, lightly stepping along
+id="fr_0"></span>[1](#fn_0.md) We all know Perrette, lightly stepping along
 from her village to the town, carrying the milk-pail on her head, and in
 her day-dreams selling her milk for a good sum, then buying a hundred
 eggs, then selling the chickens, then buying a pig, fattening it,
@@ -41,14 +41,14 @@ home that she may escape a flogging from her husband.
 
 Did La Fontaine invent this fable? or did he merely follow the example
 of Sokrates, who, as we know from the Phædon, <span
-id="fr_1"></span>[2](#fn_1) occupied himself in prison, during the last
+id="fr_1"></span>[2](#fn_1.md) occupied himself in prison, during the last
 days of his life, with turning into verse some of the fables, or, as he
 calls them, the myths of Æsop.
 
 <span id="page_140">p. 140</span>
 
 La Fontaine published the first six books of his fables in 1668, <span
-id="fr_2"></span>[1](#fn_2) and it is well known that the subjects of
+id="fr_2"></span>[1](#fn_2.md) and it is well known that the subjects of
 most of these early fables were taken from Æsop, Phædrus, Horace, and
 other classical fabulists, if we may adopt this word "fabuliste," which
 La Fontaine was the first to introduce into French.
@@ -98,7 +98,7 @@ collection was made, well known to all Sanskrit scholars by the name of
 Hitopade*s*a, *i.e.*, Salutary Advice. Both these books have been
 published in England and Germany, and there are translations of them in
 English, German, French, and other languages. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 The first question which we have to answer refers to the date of these
 collections, and dates in the history
@@ -148,10 +148,10 @@ me. Then I get up, and give her</span>
 gave a kick with his foot, and broke the pot. All the rice fell over
 him, and made him quite white. Therefore, I say, 'He who makes foolish
 plans for the future will be white all over, like the father of
-Soma*s*arman.'" <span id="fr_4"></span>[1](#fn_4)</span>
+Soma*s*arman.'" <span id="fr_4"></span>[1](#fn_4.md)</span>
 
 I shall at once proceed to read you the same story, though slightly
-modified, from the Hitopade*s*a. <span id="fr_5"></span>[2](#fn_5) The
+modified, from the Hitopade*s*a. <span id="fr_5"></span>[2](#fn_5.md) The
 Hitopade*s*a professes to be taken from the Pañ*k*atantra and some other
 books; and in this case it would seem as if some other authority had
 been followed. You will see, at all events, how much freedom there was
@@ -183,7 +183,7 @@ will doubt that we have here
 <span id="page_144">p. 144</span>
 
 in the stories of the Pañ*k*atantra and Hitopade*s*a the first germs of
-La Fontaine's fable. <span id="fr_6"></span>[1](#fn_6) But how did that
+La Fontaine's fable. <span id="fr_6"></span>[1](#fn_6.md) But how did that
 fable travel all the way from India to France? How did it doff its
 Sanskrit garment and don the light dress of modern French? How was the
 stupid Brahman born again as the brisk milkmaid, "*cotillon simple et
@@ -300,7 +300,7 @@ has found a fable of the jackal declining to visit the sick lion,
 <span id="page_148">p. 148</span>
 
 who went to see him did not turn back." <span
-id="fr_7"></span>[1](#fn_7) Without, however, pronouncing any decided
+id="fr_7"></span>[1](#fn_7.md) Without, however, pronouncing any decided
 opinion on this vexed question, what I wish to place clearly before you
 is this, that the spreading of Aryan myths, legends, and fables, dating
 from a pro-ethnic period, has nothing whatever to do with the spreading
@@ -310,7 +310,7 @@ tradition, but through more or less faithful translations of literary
 works. Those who like may doubt whether *Zeus* was Dyaus, whether
 *Daphne* was Ahanâ, whether *La Belle au Bois* was the mother of two
 children, called *L’Aurore* and *Le Jour*, <span
-id="fr_8"></span>[2](#fn_8) but the fact that a collection of fables
+id="fr_8"></span>[2](#fn_8.md) but the fact that a collection of fables
 was, in the sixth century of our era, brought from India to Persia, and
 by means of various translations naturalized among Persians, Arabs,
 Greeks, Jews, and all the rest, admits of no doubt or cavil. Several
@@ -328,7 +328,7 @@ to Constantinople, Italy, and France; Buddhist fables
 
 <span id="page_149">p. 149</span>
 
-were through Mongolian <span id="fr_9"></span>[1](#fn_9) conquerors
+were through Mongolian <span id="fr_9"></span>[1](#fn_9.md) conquerors
 (13th century) carried to Russia and the eastern parts of Europe. Greek
 stories may have reached Persia and India at the time of Alexander's
 conquests and during the reigns of the Diadochi, and even Christian
@@ -362,7 +362,7 @@ one place was present also in the other, and that while the Trojan horse
 forms an essential part of a mythological cycle, there is nothing truly
 mythological or legendary in the Indian story. The idea of a hunter
 disguising himself in the skin of an animal, or even of one animal
-assuming the disguise of another, <span id="fr_10"></span>[1](#fn_10)
+assuming the disguise of another, <span id="fr_10"></span>[1](#fn_10.md)
 are familiar in every part of the world, and if that is so, then the
 step from hiding under the skin of a large animal to that of hiding in a
 wooden animal is not very great.
@@ -383,9 +383,9 @@ his famous "Traite de l’Origine des Romans," published at Paris in 1670,
 two years after the appearance of the first collection of La Fontaine's
 fables. Since his time the evidence has become more plentiful, and the
 whole subject has been more fully and more profoundly treated by
-Sylvestre de Sacy, <span id="fr_11"></span>[1](#fn_11) Loiseleur
-Deslongchamps, <span id="fr_12"></span>[2](#fn_12) and Professor
-Benfey. <span id="fr_13"></span>[3](#fn_13) But though we have a more
+Sylvestre de Sacy, <span id="fr_11"></span>[1](#fn_11.md) Loiseleur
+Deslongchamps, <span id="fr_12"></span>[2](#fn_12.md) and Professor
+Benfey. <span id="fr_13"></span>[3](#fn_13.md) But though we have a more
 accurate knowledge of the stations by which the Eastern fables reached
 their last home in the West, Bishop Huet knew as well as we do that they
 came originally from India through Persia by way of Bagdad and
@@ -409,7 +409,7 @@ after the fall of the Omeyyades became a convert to Mohammedanism, and
 rose to high office at the court of the Khalifs. Being in possession of
 important secrets of state, he became dangerous in the eyes of the
 Khalif Almansur, and was foully murdered. <span
-id="fr_14"></span>[1](#fn_14) In the preface, Abdallah ibn Almokaffa
+id="fr_14"></span>[1](#fn_14.md) In the preface, Abdallah ibn Almokaffa
 tells us that he translated these fables from Pehlevi, the ancient
 language of Persia; and that they had been translated into Pehlevi
 (about two hundred years before his time) by Barzûyeh, the physician of
@@ -435,7 +435,7 @@ There is another account of the journey of this
 <span class="contnote">\[paragraph continues\]</span> Persian physician
 to India. It has the sanction of Firdúsi, in the great Persian epic, the
 Shah Nâmeh, and it is considered by some <span
-id="fr_15"></span>[1](#fn_15) as more original than the one just quoted.
+id="fr_15"></span>[1](#fn_15.md) as more original than the one just quoted.
 According to it, the Persian physician read in a book that there existed
 in India trees or herbs supplying a medicine with which the dead could
 be restored to life. At the command of the king he went to India in
@@ -445,7 +445,7 @@ that the medicine of which he had read as having the power of restoring
 men to life had to be understood in a higher and more spiritual sense,
 and that what was really meant by it were ancient books of wisdom
 preserved in India, which imparted life to those who were dead in their
-folly and sins. <span id="fr_16"></span>[2](#fn_16) Thereupon the
+folly and sins. <span id="fr_16"></span>[2](#fn_16.md) Thereupon the
 physician translated these books, and one of them was the collection of
 fables, the "Kalila and Dimnah."
 
@@ -506,9 +506,9 @@ I shall be amply repaid for the pains and expense which I have bestowed
 upon him; but if, on the other hand, he disappoints my hopes, the rod
 which I have here shall be the instrument with which I will make him
 feel the displeasure of a justly-offended parent. <span
-id="fr_17"></span>[1](#fn_17) At these words he suddenly raised the band
+id="fr_17"></span>[1](#fn_17.md) At these words he suddenly raised the band
 which held the stick towards the jar, and broke it, and the contents ran
-down upon his head and face." <span id="fr_18"></span>[1](#fn_17)
+down upon his head and face." <span id="fr_18"></span>[1](#fn_17.md)
 …</span>
 
 You will have observed the coincidences between the Arabic and the
@@ -551,7 +551,7 @@ into Greek must have been made from an Arabic MS. of the "Kalila and
 Dimna," in some places more perfect, in others less perfect, than the
 one published by De Sacy. The Greek text has been published, though very
 imperfectly, under the title of "Stephanites and Ichnelates." <span
-id="fr_19"></span>[1](#fn_18) Here our fable is told as follows (p.
+id="fr_19"></span>[1](#fn_18.md) Here our fable is told as follows (p.
 337):—
 
 <span class="small">"It is said that a beggar kept some honey and butter
@@ -565,7 +565,7 @@ And what with their calves</span>
 <span id="page_157">p. 157</span>
 
 <span class="small">and the harvests, I shall become rich in five years,
-and build a house with four wings, <span id="fr_20"></span>[1](#fn_19)
+and build a house with four wings, <span id="fr_20"></span>[1](#fn_19.md)
 ornamented with gold, and buy all kinds of servants, and marry a wife.
 She will give me a child, and I shall call him Beauty It will be a boy,
 and I shall educate him properly; and if I see him lazy, I shall give
@@ -581,7 +581,7 @@ along from East to West.
 
 There is, first of all, an Italian translation of the "Stephanites and
 Ichnelates," which was published at Ferrara in 1583. <span
-id="fr_21"></span>[2](#fn_20) The title is, "Del Governo de’ Regni.
+id="fr_21"></span>[2](#fn_20.md) The title is, "Del Governo de’ Regni.
 Sotto morali essempi di animali ragionanti tra loro. Tratti prima di
 lingua Indiana in Agarena da Lelo Demno Saraceno. Et poi dall’ Agarena
 nella Greca da Simeone Setto, philosopho Antiocheno. Et hora tradotti di
@@ -590,7 +590,7 @@ Nuti.
 
 There is, besides, a Latin translation, or rather a free rendering of
 the Greek translation by the learned Jesuit, Petrus Possinus, which was
-published at Rome in 1666. <span id="fr_22"></span>[3](#fn_21) This may
+published at Rome in 1666. <span id="fr_22"></span>[3](#fn_21.md) This may
 have been, and, according to some authorities, has really been one of
 the sources from which La Fontaine drew his inspirations. But though La
 Fontaine may have consulted this work
@@ -613,22 +613,22 @@ translation was translated by another converted Jew, Johannes of Capua,
 into Latin. His translation was finished between 1263-1278, and, under
 the title of "Directorium Humanæ Vitæ," it became very soon a popular
 work with the select reading public of the thirteenth century. <span
-id="fr_23"></span>[1](#fn_22) In the "Directorium," and in Joel's
+id="fr_23"></span>[1](#fn_22.md) In the "Directorium," and in Joel's
 translation, the name of Sendebar is substituted for that of Bidpay. The
 "Directorium" was translated into German at the command of Eberhard, the
-great Duke of Würtemberg, <span id="fr_24"></span>[2](#fn_23) and both
+great Duke of Würtemberg, <span id="fr_24"></span>[2](#fn_23.md) and both
 the Latin text and the German translation occur, in repeated editions,
 among the rare books printed between 1480 and the end of the fifteenth
-century. <span id="fr_25"></span>[3](#fn_24) A Spanish translation,
+century. <span id="fr_25"></span>[3](#fn_24.md) A Spanish translation,
 founded both on the German and the Latin texts, appeared at Burgos in
-1493; <span id="fr_26"></span>[4](#fn_25) and from these different
+1493; <span id="fr_26"></span>[4](#fn_25.md) and from these different
 sources flowed in the sixteenth century the Italian
 
 <span id="page_159">p. 159</span>
 
-renderings of Firenzuola (1548) <span id="fr_27"></span>[1](#fn_26) and
-Doni (1552). <span id="fr_28"></span>[2](#fn_27) As these Italian
-translations were repeated in French <span id="fr_29"></span>[3](#fn_28)
+renderings of Firenzuola (1548) <span id="fr_27"></span>[1](#fn_26.md) and
+Doni (1552). <span id="fr_28"></span>[2](#fn_27.md) As these Italian
+translations were repeated in French <span id="fr_29"></span>[3](#fn_28.md)
 and English, before the end of the sixteenth century, they might no
 doubt have supplied La Fontaine with subjects for his fables.
 
@@ -638,7 +638,7 @@ poet, of the name of Nasr Allah, translated the work of Abdallah ibn
 Almokaffa into Persian about 1150. This Persian translation was enlarged
 in the fifteenth century by another Persian poet, Husain ben Ali called
 el Vaez, under the title of "Anvári Suhaili." <span
-id="fr_30"></span>[4](#fn_29) This name will be familiar to many members
+id="fr_30"></span>[4](#fn_29.md) This name will be familiar to many members
 of the Indian Civil Service, as being one of the old Haileybury
 class-books which had to be construed by all who wished to gain high
 honors in Persia. This work, or
@@ -690,21 +690,21 @@ After the conquest of Spain by the Mohammedans, Arabic literature had
 found a new home in Western Europe, and among the numerous works
 translated from Arabic into Latin or Spanish, we find towards the end of
 the thirteenth century (1289) a Spanish translation of our fables,
-called "Calila é Dymna." <span id="fr_31"></span>[1](#fn_30) In this the
+called "Calila é Dymna." <span id="fr_31"></span>[1](#fn_30.md) In this the
 name of the philosopher is changed from Bidpai to Bundobel. This, or
 another translation from Arabic, was turned into Latin verse by Raimond
 de Béziers in 1313 (not published).
 
 Lastly, we find in the same century another translation from Arabic
 straight into Latin verse, by Baldo, which became known under the name
-of "Æsopus alter." <span id="fr_32"></span>[2](#fn_31)
+of "Æsopus alter." <span id="fr_32"></span>[2](#fn_31.md)
 
 From these frequent translations, and translations of translations, in
 the eleventh, twelfth, and thirteenth centuries, we see quite clearly
 that these Indian fables were extremely popular, and were, in fact, more
 widely read in Europe than the Bible, or any other book. They were not
 only read in translations, 'but having been introduced into
-sermons, <span id="fr_33"></span>[3](#fn_32) homilies, and works on
+sermons, <span id="fr_33"></span>[3](#fn_32.md) homilies, and works on
 morality, they were improved upon, acclimatized, localized, moralized,
 till at last it is almost impossible to recognize their Oriental
 features under their homely disguises.
@@ -744,7 +744,7 @@ It was a book intended to teach the principles of Christian morality by
 examples taken from ancient fables. It was evidently a most successful
 book, and was translated into several modern languages. There is an old
 translation of it in English, first printed by Rastell, <span
-id="fr_34"></span>[1](#fn_33) and
+id="fr_34"></span>[1](#fn_33.md) and
 
 <span id="page_163">p. 163</span>
 
@@ -772,7 +772,7 @@ with her husbond on horsebacke, she sayde to her self: 'Goo we, goo we.'
 Sodaynlye she smote the ground with her fote, myndynge to spurre the
 horse, but her fote slypped, and she fell in the dyche, and there lay
 all her mylke, and so she was farre from her purpose, and never had that
-she hopid to have." <span id="fr_35"></span>[1](#fn_34)</span>
+she hopid to have." <span id="fr_35"></span>[1](#fn_34.md)</span>
 
 <span id="page_164">p. 164</span>
 
@@ -784,7 +784,7 @@ attempt to fill the gap that divides the fable of the thirteenth century
 from La Fontaine. Suffice it to say, that the milkmaid, having once
 taken the place of the Brahman, maintained it against all corners. We
 find her as Dona Truhana, in the famous "Conde Lucanor," the work of the
-Infante Don Juan Manuel, <span id="fr_36"></span>[1](#fn_35) who died in
+Infante Don Juan Manuel, <span id="fr_36"></span>[1](#fn_35.md) who died in
 1347, the grandson of St. Ferdinand, the nephew of Alfonso the Wise,
 though himself not a king, yet more powerful than a king; renowned both
 by his sword and by his pen, and possibly not ignorant of Arabic, the
@@ -792,7 +792,7 @@ language of his enemies. We find her again in the "Contes et Nouvelles"
 of Bonaventure des Periers, published in the sixteenth century, a book
 which we know that La Fontaine was well acquainted with. We find her
 after La Fontaine in all the languages of Europe. <span
-id="fr_37"></span>[2](#fn_36)
+id="fr_37"></span>[2](#fn_36.md)
 
 You see now before your eyes the bridge on which our fables came to us
 from East to West. The same bridge which brought us Perrette brought us
@@ -805,7 +805,7 @@ carried by Barzûyeh from India to the court of
 
 <span id="img_16500"></span> <span align="CENTER"> [![OLD COLLECTION OF
 INDIAN FABLES.](tn/16500.jpg)  
-Click to enlarge](img/16500.jpg)  
+Click to enlarge](img/16500.jpg.md)  
 OLD COLLECTION OF INDIAN FABLES.  
 </span>
 
@@ -830,7 +830,7 @@ Pañ*k*atantra, which found their way from India to Europe. The most
 important among them is the "Book of the Seven Wise Masters, or the Book
 of Sindbad," the history of which has lately been written, with great
 learning and ingenuity, by Signor Comparetti. <span
-id="fr_38"></span>[1](#fn_37)
+id="fr_38"></span>[1](#fn_37.md)
 
 These large collections of fables and stories mark what may be called
 the high roads on which the literary products of the East were carried
@@ -883,7 +883,7 @@ the iconoclastic policy of the Emperor Leo, and that he wrote the most
 learned theological works of his time, cannot be easily questioned.
 
 Among the works ascribed to him is a story called "Barlaam and
-Joasaph." <span id="fr_39"></span>[1](#fn_38) There has been a fierce
+Joasaph." <span id="fr_39"></span>[1](#fn_38.md) There has been a fierce
 controversy as to whether he was the author of it or not. Though for our
 own immediate purposes it would be of little consequence whether the
 book was written by Joannes Damascenus or by some less distinguished
@@ -901,7 +901,7 @@ has now been proved to be spurious; and it should be borne in mind,
 besides, that the controversy on the procession of the Holy Ghost from
 the Father and the Son, or from the Father through the Son, dates a
 century later than Joannes. The fact, again, that the author does not
-mention Mohammedanism, <span id="fr_40"></span>[1](#fn_39) proves
+mention Mohammedanism, <span id="fr_40"></span>[1](#fn_39.md) proves
 nothing against the authorship of Joannes, because, as he places Barlaam
 and Joasaph in the early centuries of Christianity, he would have ruined
 his story by any allusion to Mohammed's religion, then only a hundred
@@ -915,7 +915,7 @@ On the contrary, the author of "Barlaam and Joasaph" quotes the same
 authors whom Joannes Damascenus quotes most frequently—*e*g*.*, Basilius
 and Gregorius Nazianzenus. And no one but Joannes could have taken long
 passages from his own works without saying where he borrowed them. <span
-id="fr_41"></span>[2](#fn_40)
+id="fr_41"></span>[2](#fn_40.md)
 
 <span id="page_170">p. 170</span>
 
@@ -927,7 +927,7 @@ tries by all means in his power to keep him ignorant of the miseries of
 the world, and to create in him a taste for pleasure and enjoyment. A
 Christian hermit, however, gains access to the prince, and instructs him
 in the doctrines of the Christian religion. The young prince is not only
-baptized, but resolves to give [up](errata.htm#0) all his earthly
+baptized, but resolves to give [up](errata.htm#0.md) all his earthly
 riches; and after having converted his own father and many of his
 subjects, he follows his teacher into the desert."
 
@@ -940,7 +940,7 @@ one of the chief attractions of this manual of Christian theology
 consisted in a number of fables and parables with which it is enlivened.
 Most of them have been traced to an Indian source. I shall mention one
 only which has found its way into almost every literature of the
-world: <span id="fr_42"></span>[1](#fn_41)—
+world: <span id="fr_42"></span>[1](#fn_41.md)—
 
 <span class="small">"A man was pursued by a unicorn, and while he tried
 to flee from it, he fell into a pit. In falling he stretched out both
@@ -957,7 +957,7 @@ open, ready to devour him, and when examining the place on which his
 feet rested, the heads of four serpents glared at him. Then he looked
 up, and observed drops of honey falling down from the tree to which he
 clung. Suddenly the unicorn, the dragon, the mice, and the serpents were
-all [forgotten](errata.htm#1), and his mind was intent only on catching
+all [forgotten](errata.htm#1.md), and his mind was intent only on catching
 the drops of sweet honey trickling down from the tree."</span>
 
 An explanation is hardly required. The unicorn is Death, always chasing
@@ -967,7 +967,7 @@ four serpents are the four elements which compose the human body; the
 dragon below is meant for the jaws of hell. Surrounded by all these
 horrors, man is yet able to forget them all, and to think only of the
 pleasures of life, which, like a few drops of honey, fall into his mouth
-from the tree of life. <span id="fr_43"></span>[1](#fn_42)
+from the tree of life. <span id="fr_43"></span>[1](#fn_42.md)
 
 But what is still more curious is, that the author of "Barlaam and
 Josaphat" has evidently taken his very hero, the Indian Prince Josaphat,
@@ -979,19 +979,19 @@ embracing the life of a hermit
 
 <span id="page_172">p. 172</span>
 
-become a Buddha. <span id="fr_44"></span>[1](#fn_43) The great object of
+become a Buddha. <span id="fr_44"></span>[1](#fn_43.md) The great object of
 his father is to prevent this. He therefore keeps the young prince, when
 he grows up, in his garden and palaces, surrounded by all pleasures
 which might turn his mind from contemplation to enjoyment. More
 especially he is to know nothing of illness, old age, and death, which
 might open his eyes to the misery and unreality of life. After a time,
 however, the prince receives permission to drive out; and then follow
-the four drives, <span id="fr_45"></span>[2](#fn_44) so famous in
+the four drives, <span id="fr_45"></span>[2](#fn_44.md) so famous in
 Buddhist history. The places where these drives took place were
 commemorated by towers still standing in the time of Fa Hian's visit to
 India, early in the fifth century after Christ, and even in the time of
 Hiouen Thsang, in the seventh century. I shall read you a short account
-of the three drives: <span id="fr_46"></span>[3](#fn_45)—
+of the three drives: <span id="fr_46"></span>[3](#fn_45.md)—
 
 "One day when the prince with a large retinue was driving through the
 eastern gate of the city, on the way to one of his parks, he met on the
@@ -1098,7 +1098,7 @@ what happens
 
 to all men; and that no one can escape old age, and that in the end all
 men must die. Thereupon he returns home to meditate on death, till at
-last a hermit appears, <span id="fr_47"></span>[1](#fn_46) and opens
+last a hermit appears, <span id="fr_47"></span>[1](#fn_46.md) and opens
 before his eyes a higher view of life, as contained in the Gospel of
 Christ.
 
@@ -1117,8 +1117,8 @@ canon of the Buddhists to the pages of the Greek writer. The driver who
 conducts Buddha then he flees by night from his palace where he leaves
 his wife, his only son, and all his treasures, in order to devote
 himself to a contemplative life, is called Chandaka, in Burmese,
-Sanna. <span id="fr_48"></span>[2](#fn_47) The friend and companion of
-Barlaam is called Zardan. <span id="fr_49"></span>[3](#fn_48) Reinaud
+Sanna. <span id="fr_48"></span>[2](#fn_47.md) The friend and companion of
+Barlaam is called Zardan. <span id="fr_49"></span>[3](#fn_48.md) Reinaud
 
 <span id="page_176">p. 176</span>
 
@@ -1129,20 +1129,20 @@ the author of the "Kitáb-al-Fihrist," are both meant for Bodhisattva, a
 corruption quite intelligible with the system of transcribing that name
 with Persian letters. Professor Benfey has identified Theudas, the
 sorcerer in "Barlaam and Joasaph," with the Devadatta of the Buddhist
-scriptures. <span id="fr_50"></span>[1](#fn_49)
+scriptures. <span id="fr_50"></span>[1](#fn_49.md)
 
 How palpable these coincidences are between the two stories is best
 shown by the fact that they were pointed out, independently of each
 other, by scholars in France, Germany, and England. I place France
 first, because in point of time M. Laboulaye was the first who called
 attention to it in one of his charming articles in the "Débats." <span
-id="fr_51"></span>[2](#fn_50) A more detailed comparison
+id="fr_51"></span>[2](#fn_50.md) A more detailed comparison
 
 <span id="page_177">p. 177</span>
 
-was given by Dr. Liebrecht. <span id="fr_52"></span>[1](#fn_51) And,
+was given by Dr. Liebrecht. <span id="fr_52"></span>[1](#fn_51.md) And,
 lastly, Mr. Beal, in his translation of the "Travels of Fa Hian," <span
-id="fr_53"></span>[2](#fn_52) called attention to the same fact—viz.,
+id="fr_53"></span>[2](#fn_52.md) called attention to the same fact—viz.,
 that the story of Josaphat was borrowed from the "Life of Buddha." I
 could mention the names of two or three scholars besides who happened to
 read the two books, and who could not help seeing, what was as clear as
@@ -1162,7 +1162,7 @@ early as 1204, a King of Norway translated it into Icelandic, and at a
 later time it was translated by a Jesuit missionary into Tagala, the
 classical language of the Philippine Islands. But this is not all,
 Barlaam and Josaphat have actually risen to the rank of saints, both in
-the Eastern and in the Western [churches](errata.htm#2). In the Eastern
+the Eastern and in the Western [churches](errata.htm#2.md). In the Eastern
 church the 26th of August is the saints’ day of Barlaam and Josaphat; in
 the
 
@@ -1203,7 +1203,7 @@ en soit supposé: il y auroit de la témerité à desavouer qu’il y ait
 jamais eû de Barlaam ni de Josaphat. Le témoignage du Martyrologe, qui
 les met au nombre des Saints, et leur intercession que Saint Jean
 Damascene reclame à la fin de cette histoire ne permettent pas d’en
-douter." <span id="fr_54"></span>[1](#fn_53)
+douter." <span id="fr_54"></span>[1](#fn_53.md)
 
 With us the question as to the historical or purely imaginary character
 of Josaphat has assumed a new and totally different aspect. We willingly
@@ -1256,20 +1256,20 @@ and injustice of the world.
 
 ### Footnotes
 
-<span id="fn_0"></span>[139:1](#fr_0) La Fontaine, *Fables*, livre vii.,
+<span id="fn_0"></span>[139:1](#fr_0.md) La Fontaine, *Fables*, livre vii.,
 fable 10.
 
-<span id="fn_1"></span>[139:2](#fr_1) Phædon, 61, 5: Μετὰ δὲ τὸν θεόν,
+<span id="fn_1"></span>[139:2](#fr_1.md) Phædon, 61, 5: Μετὰ δὲ τὸν θεόν,
 ἐννοήσας, ὅτι τὸν ποιητὴν δέοι, εἴπερ μέλλοι ποιητὴς εἶναι, ποιεῖν
 μυθους, ἀλλ᾽ οὐ λόγους, καὶ αὐτὸς οὐκ ἦ μυθολογικός, διὰ ταῦτα δὴ οὑς
 προχείρους εἶχον καὶ ἠπιστάμην μύθους τοὺς Αἰσώπου, τούτων ἐποίησα οἶς
 πρώτοις ἐνέτυχου.
 
-<span id="fn_2"></span>[140:1](#fr_2) Robert, *Fables Inédites*, des
+<span id="fn_2"></span>[140:1](#fr_2.md) Robert, *Fables Inédites*, des
 XII<sup>e</sup>, XIII<sup>e</sup>, et XIV<sup>e</sup> Siècles; Paris,
 1825; vol. i. p. ccxxvii.
 
-<span id="fn_3"></span>[141:1](#fr_3) *Paṇtschatantrum sine
+<span id="fn_3"></span>[141:1](#fr_3.md) *Paṇtschatantrum sine
 Quinquepartitum*, edidit I. G. L. Kosegarten. Bonnæ, 1848.
 
 *Pantschatantra, Fünf Bücher indischer Fablen, aus dem Sanskrit
@@ -1282,19 +1282,19 @@ Sanskrit. London, 1864.
 *Hitopade*s*a, eine alte indische Fabelsammlung aus dem Sanskrit zum
 ersten Mal in das Deutsche übersetzt*. Von Max Muller. Leipzig, 1844.
 
-<span id="fn_4"></span>[143:1](#fr_4) *Pañ*k*atantra*, v. 10.
+<span id="fn_4"></span>[143:1](#fr_4.md) *Pañ*k*atantra*, v. 10.
 
-<span id="fn_5"></span>[143:2](#fr_5) *Hitopade*s*a*, ed. Max Muller, p.
+<span id="fn_5"></span>[143:2](#fr_5.md) *Hitopade*s*a*, ed. Max Muller, p.
 120; German translation, p. 159.
 
-<span id="fn_6"></span>[144:1](#fr_6) Note A, page 188.
+<span id="fn_6"></span>[144:1](#fr_6.md) Note A, page 188.
 
-<span id="fn_7"></span>[148:1](#fr_7) *Hottentot Fables and Tales*, by
+<span id="fn_7"></span>[148:1](#fr_7.md) *Hottentot Fables and Tales*, by
 Dr. W. H. I. Bleek, London, 1894, p. 19.
 
-<span id="fn_8"></span>[148:2](#fr_8) *Academy*, vol. v. p. 548.
+<span id="fn_8"></span>[148:2](#fr_8.md) *Academy*, vol. v. p. 548.
 
-<span id="fn_9"></span>[149:1](#fr_9) *Die Märchen des Siddhi-kür*, or
+<span id="fn_9"></span>[149:1](#fr_9.md) *Die Märchen des Siddhi-kür*, or
 *Tales of an Enchanted Corpse*, translated front Kalmuk into German by
 B. Jülg, 1866. (This is based on the Vetâlapañ*k*avi*ms*ati.) *Die
 Geschichte des Ardschi-Bordschi Chan*, translated from Mongolian by Dr.
@@ -1304,7 +1304,7 @@ Said Iftikhar eddin Mohammed ben Abou Nasr, who died A*D*. 1280. See
 Barbier de Meynard, "Description de la Ville de Kazvin," *Journal
 Asiatique*, 1857, p. 284; Lancereau, *Pantchatantra*, p. xxv.
 
-<span id="fn_10"></span>[150:1](#fr_10) Plato's expression, "As I have
+<span id="fn_10"></span>[150:1](#fr_10.md) Plato's expression, "As I have
 put on the lion's skin" (*Kratylos*, 411), seems to show that he knew
 the fable of an animal or a man having assumed the lion's skin without
 the lion's courage. The proverb ὄνος παρὰ Κυμαίους seems to be applied
@@ -1330,61 +1330,61 @@ their fable and proverb from the Pañ*k*atantra; but it is not so easy to
 determine positively whether the fable was carried from the Greeks to
 the East, or whether it arose independently in two places.
 
-<span id="fn_11"></span>[151:1](#fr_11) *Calilah et Dimna, ou, Fables de
+<span id="fn_11"></span>[151:1](#fr_11.md) *Calilah et Dimna, ou, Fables de
 Bidpai, en Arabe, précédées d’un Mémoire sur l’origine de ce livre*. Par
 Sylvestre de Sacy. Paris, 1816.
 
-<span id="fn_12"></span>[151:2](#fr_12) Loiseleur Deslongchamps, *Essai
+<span id="fn_12"></span>[151:2](#fr_12.md) Loiseleur Deslongchamps, *Essai
 sur les Fables Indiennes, et sur leur Introduction en Europe*. Paris,
 1838.
 
-<span id="fn_13"></span>[151:3](#fr_13) *Pantschatantra, Fünf Bücher
+<span id="fn_13"></span>[151:3](#fr_13.md) *Pantschatantra, Fünf Bücher
 indischer Fabeln, Märchen und Erzählungen, mit Einleitung*. Von. Th.
 Benfey. Leipzig, 1859.
 
-<span id="fn_14"></span>[152:1](#fr_14) See Weil, *Geschichte der
+<span id="fn_14"></span>[152:1](#fr_14.md) See Weil, *Geschichte der
 Chalifen*, vol. ii. p. 84.
 
-<span id="fn_15"></span>[153:1](#fr_15) Benfey, p. 60.
+<span id="fn_15"></span>[153:1](#fr_15.md) Benfey, p. 60.
 
-<span id="fn_16"></span>[153:2](#fr_16) Cf. *Barlaam et Joasaph*, ed.
+<span id="fn_16"></span>[153:2](#fr_16.md) Cf. *Barlaam et Joasaph*, ed.
 Boissonade, p. 37.
 
-<span id="fn_17"></span>[155:1](#fr_18) *Kalila and Dimna; or, the
+<span id="fn_17"></span>[155:1](#fr_18.md) *Kalila and Dimna; or, the
 Fables of Bidpai, translated from the Arabic*. By the Rev. Wyndham
 Knatchbull, A. M. Oxford, 1819.
 
-<span id="fn_18"></span>[156:1](#fr_19) *Specimen Sapientiæ Indorum
+<span id="fn_18"></span>[156:1](#fr_19.md) *Specimen Sapientiæ Indorum
 Veterum, id est Liber Ethico-Politicus pervetustus, dictus Arabice
 Kalilah ve Dinanah, Græce Stephanites et Ichnelates, nunc primum Græce
 ex MS. Cod. Halsteiniano prodit cum versione Latina, opera S. G.
 Starkii*. Berolini, 1697.
 
-<span id="fn_19"></span>[157:1](#fr_20) This expression, a four-winged
+<span id="fn_19"></span>[157:1](#fr_20.md) This expression, a four-winged
 house, occurs also in the Pañ*k*atantra. As it does not occur in the
 Arabic text, published by De Sacy, it is clear that Symeon must have
 followed another Arabic text in which this adjective, belonging to the
 Sanskrit, and no doubt to the Pehlevi text, also, had been preserved.
 
-<span id="fn_20"></span>[157:2](#fr_21) Note B, p. 190.
+<span id="fn_20"></span>[157:2](#fr_21.md) Note B, p. 190.
 
-<span id="fn_21"></span>[157:3](#fr_22) Note C, p. 191.
+<span id="fn_21"></span>[157:3](#fr_22.md) Note C, p. 191.
 
-<span id="fn_22"></span>[158:1](#fr_23) Note D, p. 192.
+<span id="fn_22"></span>[158:1](#fr_23.md) Note D, p. 192.
 
-<span id="fn_23"></span>[158:2](#fr_24) Note E, p. 193.
+<span id="fn_23"></span>[158:2](#fr_24.md) Note E, p. 193.
 
-<span id="fn_24"></span>[158:3](#fr_25) Benfey, *Orient and Occident*,
+<span id="fn_24"></span>[158:3](#fr_25.md) Benfey, *Orient and Occident*,
 vol. i. p. 138.
 
-<span id="fn_25"></span>[158:4](#fr_26) Ibid. vol. i. p. 501. Its title
+<span id="fn_25"></span>[158:4](#fr_26.md) Ibid. vol. i. p. 501. Its title
 is: "Exemplario contra los engaños y peligros del mundo," ibid. pp. 167,
 168.
 
-<span id="fn_26"></span>[159:1](#fr_27) *Discorsi degli animali, di
+<span id="fn_26"></span>[159:1](#fr_27.md) *Discorsi degli animali, di
 Messer Agnolo Firenzuola, in prose di M. A. F.* (Fiorenza, 1548.)
 
-<span id="fn_27"></span>[159:2](#fr_28) *La Moral Filosophia del Doni,
+<span id="fn_27"></span>[159:2](#fr_28.md) *La Moral Filosophia del Doni,
 tratta da gli antichi scrittori*. Vinegia, 1552.
 
 *Trattati Diversi di Sendebar Indian, filosopho morale*. Vinegia, 1552.
@@ -1400,7 +1400,7 @@ attendeva a conservarlo, e ogni giorno lo guardava mille volte, e gli
 pareva cent’ anni ogni hora, che e gli indugiava a empierlo di Mele,"
 etc.
 
-<span id="fn_28"></span>[159:3](#fr_29) *Le Plaisant et Facétieux
+<span id="fn_28"></span>[159:3](#fr_29.md) *Le Plaisant et Facétieux
 Discours des Animaux, novellement traduict de Tuscan en François*. Lyon,
 1556, par Gabriel Cottier.
 
@@ -1408,25 +1408,25 @@ Discours des Animaux, novellement traduict de Tuscan en François*. Lyon,
 Ange Firenzuola, le Second Extraict des Traictez de Sandebar Indien, par
 Pierre de La Rivey*. Lyon, 1579.
 
-<span id="fn_29"></span>[159:4](#fr_30) *The Anvar-i Suhaili, or the
+<span id="fn_29"></span>[159:4](#fr_30.md) *The Anvar-i Suhaili, or the
 Lights of Canopus, being the Persian version of the Fables of Pilpay, or
 the Book, Kalílah and Damnah, rendered into Persian by Husain Vá’iz
 U’l-Káshifi, literally translated by E. B. Eastwick*. Hertford, 1854.
 
-<span id="fn_30"></span>[161:1](#fr_31) Note F, p. 194.
+<span id="fn_30"></span>[161:1](#fr_31.md) Note F, p. 194.
 
-<span id="fn_31"></span>[161:2](#fr_32) Note G, p. 194.
+<span id="fn_31"></span>[161:2](#fr_32.md) Note G, p. 194.
 
-<span id="fn_32"></span>[161:3](#fr_33) Note H, p. 196.
+<span id="fn_32"></span>[161:3](#fr_33.md) Note H, p. 196.
 
-<span id="fn_33"></span>[162:1](#fr_34) *Dialogues of Creatures
+<span id="fn_33"></span>[162:1](#fr_34.md) *Dialogues of Creatures
 moralysed*, sm. 4to, circ. 1517. It is generally attributed to the press
 of John Rastell, but the opinion of Mr. Haslewood, <span
 id="page_163">p. 163</span> in his preface to the reprint of 1816, that
 the book was printed on the continent, is perhaps the correct one.
 (*Quaritch's Catalogue*, July, 1870.)
 
-<span id="fn_34"></span>[163:1](#fr_35) The Latin text is more simple:
+<span id="fn_34"></span>[163:1](#fr_35.md) The Latin text is more simple:
 "Unde cum quedam domina dedisset ancille sue lac ut venderet et lac
 portaret ad urbem juxta fossatum cogitare cepit quod de p̃cio lactis
 emerit gallinam qua faceret pullos quos auctos in gallinas venderet et
@@ -1442,19 +1442,19 @@ He quotes Elynandus, in *Gestis Romanorum*. First edition, "per Gerardum
 leeu in oppido Goudensi inceptum; munere Dei finitus est, Anno Domini,
 1480."
 
-<span id="fn_35"></span>[164:1](#fr_36) Note I, p. 197.
+<span id="fn_35"></span>[164:1](#fr_36.md) Note I, p. 197.
 
-<span id="fn_36"></span>[164:2](#fr_37) My learned German translator,
+<span id="fn_36"></span>[164:2](#fr_37.md) My learned German translator,
 Dr. Felix Liebrecht, says in a note: "Other books in which our story
 appears before La Fontaine are *Esopus*, by Burkhard Waldis, ed. H.
 Kurz, Leipzig, 1862, ii. 177; note to *Des Bettlers Kaufmannschaft;* and
 Oesterley, in Kirchoff's *Wendunmuth*, v. 44, note to i. 171, *Vergebene
 Anschleg reich zuwerden* (Bibl. des liter. Vereins zu Stuttg. No. 99).
 
-<span id="fn_37"></span>[166:1](#fr_38) *Ricerche intorno al Libro di
+<span id="fn_37"></span>[166:1](#fr_38.md) *Ricerche intorno al Libro di
 Sindibad*. Milano, 1869.
 
-<span id="fn_38"></span>[168:1](#fr_39) The Greek text was first
+<span id="fn_38"></span>[168:1](#fr_39.md) The Greek text was first
 published in 1832 by Boissonade, in his *Anecdota Græca*, vol. iv. The
 title, as given in some MSS. is: Ἱστορία ψυχωφελὴς ἐκ τῆς ἐνδοτέρας τῶν
 Αἰθιόπων χώρας, τῆς Ἰνδῶν λεγομένης, πρὸς τὴν ἁγίαν πόλιν μετενεχθεῖσα
@@ -1473,10 +1473,10 @@ At the end the author says: Ἐως ὦδε τὸ πέρας τοῦ παρό�
 διήγησις. See also Wiener, *Jahrbücher*, vol. lxiii. pp. 44-83; vol.
 lxxii. pp. 274-288; vol. lxxiii. pp. 176–202.
 
-<span id="fn_39"></span>[169:1](#fr_40) Littré, *Journal des Savants*,
+<span id="fn_39"></span>[169:1](#fr_40.md) Littré, *Journal des Savants*,
 1865, p. 337.
 
-<span id="fn_40"></span>[169:2](#fr_41) The *Martyrologium Romanum*,
+<span id="fn_40"></span>[169:2](#fr_41.md) The *Martyrologium Romanum*,
 whatever its authority may be, states distinctly that the acts of
 Barlaam and Josaphat were written by Sanctus Joannes Damascenus. "Aped
 Indos Persis finitimos sanctorum Barlaam et Josaphat, quorum actus
@@ -1487,25 +1487,25 @@ Patriarcha per Conch. Florent. cap. 5: οὐχ ἦττον δὲ καὶ ὁ Ἰ
 μέγας τοῦ Δαμασκοῦ ὀφθ αλμὸς ἐν τῷ βίῳ Βαρλαὰμ καὶ Ἰωσάφατ τῶν Ἰνδῶν
 μαρτυρεῖ λέγων."
 
-<span id="fn_41"></span>[170:1](#fr_42) The story of the caskets, well
+<span id="fn_41"></span>[170:1](#fr_42.md) The story of the caskets, well
 known from the *Merchant of Venice*, occurs in *Barlaam and Josaphat*,
 though it is used there for a different purpose.
 
-<span id="fn_42"></span>[171:1](#fr_43) Cf. Benfey, *Pantschatantra*,
+<span id="fn_42"></span>[171:1](#fr_43.md) Cf. Benfey, *Pantschatantra*,
 vol. i. p. 80; vol. ii. p. 528; *Les Avadanas, Contes et Apologues
 indiens*, par Stanislas Julien, i. pp. 132, 191 *Gesta Romanorum*, cap.
 168; *Homáyun Nameh*, cap. iv.; Grimm, *Deutsche Mythologie*, pp. 758,
 759; Liebrecht, *Jahrbücher für Rom. and Engl. Literatur*, 1860.
 
-<span id="fn_43"></span>[172:1](#fr_44) *Lalita Vistara*, ed. Calcutt.,
+<span id="fn_43"></span>[172:1](#fr_44.md) *Lalita Vistara*, ed. Calcutt.,
 p. 120.
 
-<span id="fn_44"></span>[172:2](#fr_45) Ibid., p. 225.
+<span id="fn_44"></span>[172:2](#fr_45.md) Ibid., p. 225.
 
-<span id="fn_45"></span>[172:3](#fr_46) See M. M.'s *Chips from a German
+<span id="fn_45"></span>[172:3](#fr_46.md) See M. M.'s *Chips from a German
 Workshop*, Amer. ed., vol. i. p. 207.
 
-<span id="fn_46"></span>[175:1](#fr_47) Minayeff, *Mélanges Asiatiques*,
+<span id="fn_46"></span>[175:1](#fr_47.md) Minayeff, *Mélanges Asiatiques*,
 vi. 5, p. 584, remarks: "According to a legend in the *Mahâvastu* of
 Ya*s*as or Ya*s*oda (in a less complete form to be found in Schiefner,
 *Eine tibetische Lebensbeschreibung Sâkyamunis*, p. 247; Hardy, *Manual
@@ -1514,10 +1514,10 @@ of Buddhism*, p. 187; Bigandet, *The Life or Legend of Gaudama*, p.
 the dream which induces him to leave his paternal house, and proclaims
 to him the true doctrine.
 
-<span id="fn_47"></span>[175:2](#fr_48) *Journal of the American
+<span id="fn_47"></span>[175:2](#fr_48.md) *Journal of the American
 Oriental Society*, vol. iii. p. 21.
 
-<span id="fn_48"></span>[175:3](#fr_49) In some places one might almost
+<span id="fn_48"></span>[175:3](#fr_49.md) In some places one might almost
 believe that Joannes Damascenus did not only hear the story of Buddha,
 as he says, from the mouth of people <span id="page_176">p. 176</span>
 who had brought it to him from India, but that he had before him the
@@ -1542,28 +1542,28 @@ pravedhayamâna*h* sarvângapratyangai*h*, trembling in all his limbs;
 ἐστερήμενος τοὺς ὀδόντας, toothless, is kha*nd*adanta; ἐγκεκομένα λαλῶν,
 stammering, is khurakhurâva*s*aktaka*nth*a.
 
-<span id="fn_49"></span>[176:1](#fr_50) *Zeitschrift der Deutschen
+<span id="fn_49"></span>[176:1](#fr_50.md) *Zeitschrift der Deutschen
 Morgenländischen Gesellschaft*, vol. xxiv p. 480.
 
-<span id="fn_50"></span>[176:2](#fr_51) *Débats*, 1859, 21 and 26
+<span id="fn_50"></span>[176:2](#fr_51.md) *Débats*, 1859, 21 and 26
 Juillet.
 
-<span id="fn_51"></span>[177:1](#fr_52) *Die Quellen des Barlaam and
+<span id="fn_51"></span>[177:1](#fr_52.md) *Die Quellen des Barlaam and
 Josaphat, in Jahrbuch für roman. and engl. Litteratur*, vol. ii. p. 314,
 1860.
 
-<span id="fn_52"></span>[177:2](#fr_53) *Travels of Fah-hian and
+<span id="fn_52"></span>[177:2](#fr_53.md) *Travels of Fah-hian and
 Sung-gun, Buddhist Pilgrims from China to India*. (400 A*D*. and 518
 A*D*.) Translated from the Chinese by Samuel Beal. London, Trübner & Co.
 1869.
 
-<span id="fn_53"></span>[179:1](#fr_54) Littré, Journal Les Savants,
+<span id="fn_53"></span>[179:1](#fr_54.md) Littré, Journal Les Savants,
 1865, p. 337.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](otmf01)
+[Next: Appendix](otmf01.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis47)  [Next](kis49) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis47)  [Next](kis49.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ was beside it.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](kis49)
+[Next: Part IV](kis49.md)

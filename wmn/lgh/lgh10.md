@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh09) 
-[Next](lgh11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh09.md) 
+[Next](lgh11.md) 
 
 ------------------------------------------------------------------------
 
@@ -798,4 +798,4 @@ will be pre-eminent.
 
 ------------------------------------------------------------------------
 
-[Next: Iphigeneia](lgh11)
+[Next: Iphigeneia](lgh11.md)

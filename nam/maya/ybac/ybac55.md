@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac54)  [Next](ybac56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac54)  [Next](ybac56.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ other, killing, enslaving, and sacrificing themselves to the demons. As
 to the bad example, if they have had such, or today have it from some,
 the King has remedied it, and daily does remedy it by his Justices, and
 by the constant preaching and persevering opposition of the men of
-religion <span id="fr_47"></span>[\*](#fn_47) to those who set such
+religion <span id="fr_47"></span>[\*](#fn_47.md) to those who set such
 examples, or have set them; for the teaching is evangelical, and
 scandals and had examples are necessary things. So I believe it has been
 among these people, that they might understand, separating the gold from
@@ -77,11 +77,11 @@ thou dost quickly give pardon."
 
 ### Footnotes
 
-<span id="fn_47"></span>[112:\*](ybac55.htm#fr_47) *Los religiosos* was
+<span id="fn_47"></span>[112:\*](ybac55.htm#fr_47.md) *Los religiosos* was
 used specifically for the members of the monastic orders, in distinction
 from the regular clergy, whose heads were the Bishops, in whom alone
 rested inquisitorial rights.
 
 ------------------------------------------------------------------------
 
-[Next: LII. Criticism and Correction of Certain Statements](ybac56)
+[Next: LII. Criticism and Correction of Certain Statements](ybac56.md)

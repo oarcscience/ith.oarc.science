@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa18)  [Next](zfa20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa18)  [Next](zfa20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Heritage
 
 <span id="page_182">p. 182</span>
 
-### THE STORY OF DEER PARK <span id="fr_39"></span>[1](#fn_39)
+### THE STORY OF DEER PARK <span id="fr_39"></span>[1](#fn_39.md)
 
 BRAHMADATTA, king of Bârânasî, one day went out hunting in the forest,
 where he saw two groups of deer, each of which consisted of five hundred
@@ -118,10 +118,10 @@ about in as they pleased and came to be known as Deer Park.
 
 ### Footnotes
 
-<span id="fn_39"></span>[182:1](zfa19.htm#fr_39) Deer Park in Benares
+<span id="fn_39"></span>[182:1](zfa19.htm#fr_39.md) Deer Park in Benares
 was the place where Buddha first caused the Wheel of the Good Law to
 revolve. See the beginning of the *Sutra of Forty-two Chapters*.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Gem-Hunting](zfa20)
+[Next: The Story of the Gem-Hunting](zfa20.md)

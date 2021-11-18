@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa16)  [Next](psa18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa16)  [Next](psa18.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### CHAPTER XVI.
 
-SHREE [SHOOKDEO](errata.htm#1) said,--O great king! when Shree Krishnù
+SHREE [SHOOKDEO](errata.htm#1.md) said,--O great king! when Shree Krishnù
 was eight years of age, he one day said to Jusodha, "Mother! I will go
 and take the cows to feed; do you prevail on my father to send me with
 the cowherds." Hearing this, Jusodha spoke to Nund Jee on the subject.
@@ -92,4 +92,4 @@ glance, (a glance like nectar,) restored them all to life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII](psa18)
+[Next: Chapter XVII](psa18.md)

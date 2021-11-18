@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic061)  [Next](lfic063) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic061)  [Next](lfic063.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ and pursuits; it is called
 
 ------------------------------------------------------------------------
 
-[Next: The Flight of the Sluggard](lfic063)
+[Next: The Flight of the Sluggard](lfic063.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm10)  [Next](tmm12) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm10)  [Next](tmm12.md) 
 
 ------------------------------------------------------------------------
 
@@ -460,4 +460,4 @@ Heaven and earth wept at the death of Moses.--Deut. Rabba 11.
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Ruth](tmm12)
+[Next: Midrash Ruth](tmm12.md)

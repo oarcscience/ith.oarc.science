@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm07)  [Next](amm09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm07)  [Next](amm09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -739,7 +739,7 @@ not accidents. Close to these candelabra
 
 <span id="img_fig09"></span> <span align="CENTER"> [![Figure. 9. Indian
 Lamp Tree](tn/fig09.jpg)  
-Click to enlarge](img/fig09.jpg)  
+Click to enlarge](img/fig09.jpg.md)  
   
 </span>
 
@@ -792,7 +792,7 @@ of which that at Hildeshiem is such a fine example, were
 
 <span id="img_fig11"></span> <span align="CENTER"> [![Figure 11. The
 Golden Candlestick from the arch of Titus](tn/fig11.jpg)  
-Click to enlarge](img/fig11.jpg)  
+Click to enlarge](img/fig11.jpg.md)  
   
 </span>
 
@@ -918,4 +918,4 @@ midst of which the sun god advances into the firmament' (Renouf,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Planetary Spheres](amm09)
+[Next: Chapter VI. The Planetary Spheres](amm09.md)

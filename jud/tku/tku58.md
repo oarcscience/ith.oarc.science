@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku57)  [Next](tku59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku57)  [Next](tku59.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,11 +17,11 @@ Inferior He.
 
 138\. And that Spirit proceedeth from the hidden brain, and She is
 called the Spirit of Life, and through that Spirit <span
-id="fr_230"></span>[1](#fn_228) will all men understand ChKMThA,
+id="fr_230"></span>[1](#fn_228.md) will all men understand ChKMThA,
 *Chokmatha*, Wisdom, in the time of King Messiah.
 
 139\. As it is written, Isa. xi. 2: "And the Spirit of Wisdom and
-Understanding, RYC <span id="fr_231"></span>[1](#fn_228) ChKMH VBINH,
+Understanding, RYC <span id="fr_231"></span>[1](#fn_228.md) ChKMH VBINH,
 *Ruach Chokmah Va-Binah*, shall rest upon Him," &c.
 
 140\. This nose is life in every part; perfect joy, rest of spirit, and
@@ -69,7 +69,7 @@ other lire, mercy unto mercy is denoted.
 
 ### Footnotes
 
-<span id="fn_228"></span>[273:1](tku58.htm#fr_231) Speaking of the
+<span id="fn_228"></span>[273:1](tku58.htm#fr_231.md) Speaking of the
 unity, the "Sepher Yetzirah" says: "One is She, the Spirit of the Elohim
 of life (blessed and more than blessed be His name who is the life of
 ages), Voice, and Spirit, and Word--this is She the Spirit of holiness."
@@ -77,4 +77,4 @@ ages), Voice, and Spirit, and Word--this is She the Spirit of holiness."
 ------------------------------------------------------------------------
 
 [Next: Chapter VI: Concerning the Beard of the Most Holy Ancient
-One.](tku59)
+One.](tku59.md)

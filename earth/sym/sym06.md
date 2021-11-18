@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](sym05) 
-[Next](sym07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](sym05.md) 
+[Next](sym07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -264,7 +264,7 @@ the whole voyage. I would not give a rope yarn for a sailor who would
 not go wherever the captain had courage to lead the way. I would not put
 up with it; there is but one Slim in the ship, and we'll heave him
 overboard, if you say the word; at least, I'd clap the ruffles <span
-id="fr_0"></span>[\*](#fn_0) on him, and keep him out of harm's way the
+id="fr_0"></span>[\*](#fn_0.md) on him, and keep him out of harm's way the
 rest of the voyage."
 
 Whether it was honest indignation that prompted Will's advice, or
@@ -287,7 +287,7 @@ upon my track during the short interval of night. On the 2d Nov. in lat.
 with raw, drizzly weather. I edged away to the eastward, intending to
 keep near the ice, and hauled to the southward, when a clear sea would
 permit. The first day, we kept the 'blink of the ice' <span
-id="fr_1"></span>[\*](#fn_1) in sight, and found it to trend nearly East
+id="fr_1"></span>[\*](#fn_1.md) in sight, and found it to trend nearly East
 and West. Made no southing this day. The second, we were
 
 <span id="page_50">p. 50</span>
@@ -296,7 +296,7 @@ enabled to haul up S. E. and by E. and continued this course without
 nearing the ice. The following day, hauled up S. E., set the engine in
 motion, and made rapid way; we observed this day at noon, in 75° 22´ S.
 I was elated with the prospect of reaching a much higher southern
-[latitude](errata.htm#0) than any former navigator had been able to
+[latitude](errata.htm#0.md) than any former navigator had been able to
 gain, and pushed on as fast as canvas and steam could drive my vessel.
 
 We had no interval of night in this high latitude, the sun's declination
@@ -455,12 +455,12 @@ soon fast asleep.
 
 ### Footnotes
 
-<span id="fn_0"></span>[48:\*](sym06.htm#fr_0) Handcuffs.
+<span id="fn_0"></span>[48:\*](sym06.htm#fr_0.md) Handcuffs.
 
-<span id="fn_1"></span>[49:\*](sym06.htm#fr_1) 'Blink of the ice.'—This
+<span id="fn_1"></span>[49:\*](sym06.htm#fr_1.md) 'Blink of the ice.'—This
 is an arch formed upon the clouds by the reflection of light from the
 packed ice.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](sym07)
+[Next: Chapter IV](sym07.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ioy06)  [Next](ioy08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ioy06)  [Next](ioy08.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ the
 
 [![A YOSEMITE HUNTER.&lt;BR&gt; He wears a false deer's head, to deceive
 the game.](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)  
+Click to enlarge](img/03200.jpg.md)  
 A YOSEMITE HUNTER.  
 He wears a false deer's head, to deceive the game.  
 
@@ -74,7 +74,7 @@ were in some degree
 
 [![INDIAN SWEAT LODE.&lt;BR&gt; Used by the Yosemite hunters before
 starting after game.](tn/03400.jpg)  
-Click to enlarge](img/03400.jpg)  
+Click to enlarge](img/03400.jpg.md)  
 INDIAN SWEAT LODE.  
 Used by the Yosemite hunters before starting after game.  
 
@@ -183,7 +183,7 @@ used by the
 [![CHUCK'-AH.&lt;BR&gt; Storehouse for nuts and acorns, thatched with
 pine branches, points downward, to keep out mice and
 squirrels.](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)  
+Click to enlarge](img/03900.jpg.md)  
 CHUCK'-AH.  
 Storehouse for nuts and acorns, thatched with pine branches, points
 downward, to keep out mice and squirrels.  
@@ -246,7 +246,7 @@ made near by,
 [![HO'-YAS AND ME-TATS'.&lt;BR&gt; Rude mortars and pestles for grinding
 acorn meal. The holes have been worn in the granite by constant
 use.](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 HO'-YAS AND ME-TATS'.  
 Rude mortars and pestles for grinding acorn meal. The holes have been
 worn in the granite by constant use.  
@@ -354,7 +354,7 @@ the shape
 
 [![A WOOD GATHERER.&lt;BR&gt; As in all Indian tribes, the women do most
 of the work.](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)  
+Click to enlarge](img/04700.jpg.md)  
 A WOOD GATHERER.  
 As in all Indian tribes, the women do most of the work.  
 
@@ -385,4 +385,4 @@ esculenta*).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Five: Religious Ceremonies and Beliefs](ioy08)
+[Next: Chapter Five: Religious Ceremonies and Beliefs](ioy08.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](cen4eng)  [Next](cen6eng) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](cen4eng)  [Next](cen6eng.md) 
 
 ------------------------------------------------------------------------
 
@@ -607,6 +607,6 @@ Through those of Hesse and Thuringia, and some Saxons.
 
 ------------------------------------------------------------------------
 
-[Next: Century VI](cen6eng)
+[Next: Century VI](cen6eng.md)
 
   

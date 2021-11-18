@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq11)  [Next](sfq13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq11)  [Next](sfq13.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ the heritage of dead Faithless."
 <span id="img_03700"></span>
 
 [![](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)
+Click to enlarge](img/03700.jpg.md)
 
 "Wherever I am, my secret aid shall follow you," she answered, and then
 she left him.
@@ -164,4 +164,4 @@ House of Pride.
 
 ------------------------------------------------------------------------
 
-[Next: Una and the Woodland Knight](sfq13)
+[Next: Una and the Woodland Knight](sfq13.md)

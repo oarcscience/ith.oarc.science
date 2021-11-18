@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain41)  [Next](ain43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain41)  [Next](ain43.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ and of tiswin.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Children of Cloud](ain43)
+[Next: The Story of the Children of Cloud](ain43.md)

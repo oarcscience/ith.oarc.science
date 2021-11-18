@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim63)  [Next](sim65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim63)  [Next](sim65.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ The man with the moccasins was a rabbit; the man-eater was a fox.
 
 ------------------------------------------------------------------------
 
-[Next: A Warrior Cared for by Wolves](sim65)
+[Next: A Warrior Cared for by Wolves](sim65.md)

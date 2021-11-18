@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal000)  [Next](njal002) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal000)  [Next](njal002.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ in Norway.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Hrut Woos Unna](njal002)
+[Next: 2. Hrut Woos Unna](njal002.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic099)  [Next](lfic101) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic099)  [Next](lfic101.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ moment, but we are not at liberty to publish all we know on the subject,
 
 ------------------------------------------------------------------------
 
-[Next: The Corpse-freighted Barque](lfic101)
+[Next: The Corpse-freighted Barque](lfic101.md)

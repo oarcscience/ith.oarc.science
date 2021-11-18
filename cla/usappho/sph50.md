@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph49)  [Next](sph51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph49)  [Next](sph51.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM49">49</span>
 
 Πλήρησ μὲν ἐφαίνετ᾽ ἀ σελάννα  
-αἰ δ᾽ ὠσ περὶ Βῶμον ἐσταθησαν. [\[transcription\]](xlatall.htm#71)
+αἰ δ᾽ ὠσ περὶ Βῶμον ἐσταθησαν. [\[transcription\]](xlatall.htm#71.md)
 
 The moon rose full, and as around an altar, stood the women.
 
@@ -22,4 +22,4 @@ for her, as a number of fragments shows.
 
 ------------------------------------------------------------------------
 
-[Next: 50: Thus sometimes, the Cretan women, tender footed...](sph51)
+[Next: 50: Thus sometimes, the Cretan women, tender footed...](sph51.md)

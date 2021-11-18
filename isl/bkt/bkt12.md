@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt11)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt11.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ some food, she was already supplied, and though it was in winter, the
 choicest summer fruits were standing before her. To his inquiry whence
 she had obtained it all, she replied, "From Allah, who satisfieth every
 one according to his own pleasure, and giveth no account of his
-proceedings."<span id="page_250_fr_*"></span>[\*](#page_250_note_*) When
+proceedings."<span id="page_250_fr_*"></span>[\*](#page_250_note_*.md) When
 Zachariah saw this, he prayed to Allah <span id="page_251">p. 251</span>
 to perform a miracle even in his case, and to bless him with a son,
 notwithstanding his advanced age. Then Gabried called to him, "Allah
@@ -137,7 +137,7 @@ challenged to perform new miracles in the sight of the whole people.
    Christ then created, at the will of Allah, various kinds of birds out
 of clay, which he animated with his breath, so that they ate and drank,
 and, flew up and down like natural birds.<span
-id="page_254_fr_*"></span>[\*](#page_254_note_*) He healed in one day by
+id="page_254_fr_*"></span>[\*](#page_254_note_*.md) He healed in one day by
 his prayer fifty thousand blind and leprous persons, whose cure the best
 physicians of those times had been unable to effect. He recovered many
 dead, who, after he had recalled them to life, married again, and had
@@ -382,7 +382,7 @@ Moses before him had proclaimed.
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Islam](../index) [Index](index)
+[Sacred-Texts](../../index) [Islam](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -390,7 +390,7 @@ Moses before him had proclaimed.
 
 <span id="footnotes_page_250">p. 250</span>
 
-   <span id="page_250_note_*"></span>[\*](#page_250_fr_*) The general
+   <span id="page_250_note_*"></span>[\*](#page_250_fr_*.md) The general
 defection of the Church had, long before Mohammed's time, spread into
 Arabia, where Christianity had been early and extensively planted.
 
@@ -405,7 +405,7 @@ curious as it is sad to observe how this idolatry affected him.—*E. T.*
 
 <span id="footnotes_page_254">p. 254</span>
 
-   <span id="page_254_note_*"></span>[\*](#page_254_fr_*) In the
+   <span id="page_254_note_*"></span>[\*](#page_254_fr_*.md) In the
 original, it is said, Christ was able to tell the people what food they
 had taken, and what provisions they had laid up in store. This whole
 legend shows how painfully deceived Mohammed was by those who spoke to

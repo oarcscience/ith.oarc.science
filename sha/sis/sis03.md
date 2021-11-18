@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sis02)  [Next](sis04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sis02)  [Next](sis04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shamanism in Siberia*, by M.A. Czaplicka, \[1914\], at Intangible
 Textual Heritage
 
@@ -327,4 +327,4 @@ bazin-yat*, 'the ancestor (spirit) leaps upon, strangles him'.\[3\]
 
 ------------------------------------------------------------------------
 
-[Next: B. The Shaman's Preparatory Period](sis04)
+[Next: B. The Shaman's Preparatory Period](sis04.md)

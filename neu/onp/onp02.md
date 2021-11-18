@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp01) [Next](onp03)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp01) [Next](onp03.md)
 
 ------------------------------------------------------------------------
 
@@ -90,11 +90,11 @@ is called *fornyrthislag,* “old-lore meter” (as in *Hiálmar’s Death
 Song*), if the number of unstressed syllables in each “short-line” is
 restricted, and *málaháttr,* “speech meter” (as in stanzas 3-8 of
 *Hákonarmól*), if the number of unstressed syllables is expanded.<span
-id="page_xiii_fr_1"></span>[1](#page_xiii_note_1) The measure called
+id="page_xiii_fr_1"></span>[1](#page_xiii_note_1.md) The measure called
 *lióthaháttr,* “chant meter” (as in *Sólarlióth*) is peculiar in that
 each distich is formed by a “long-line” followed by a “full-line” with
 (generally) three stresses<span
-id="page_xiii_fr_2"></span>[2](#page_xiii_note_2) and alliterating in
+id="page_xiii_fr_2"></span>[2](#page_xiii_note_2.md) and alliterating in
 itself. It is the (not invariable) rule that the alliteration in the
 second (even) “short-line” falls on the first stress only, whereas the
 first (odd) “short-line” may have two alliterative syllables.
@@ -105,8 +105,8 @@ alternating with unstressed syllable(s). Of the six mutations possible
 with a minimum of two accented and two unaccented syllables within a
 “short-line,” only one is not permitted, viz., x x x´ x´. All others
 occur, viz., x´ x x´ x—x´ x´ x x—x x´ x´ x—x´ x x x´—x x´ x x´—<span
-id="page_xiii_fr_3"></span>[3](#page_xiii_note_3) and will be found in
-this version.<span id="page_xiii_fr_4"></span>[4](#page_xiii_note_4)
+id="page_xiii_fr_3"></span>[3](#page_xiii_note_3.md) and will be found in
+this version.<span id="page_xiii_fr_4"></span>[4](#page_xiii_note_4.md)
 
  With slight exceptions, the poems here dealt with belong to Eddic art
 practice, which differs from Skaldic poetry in several <span
@@ -156,7 +156,7 @@ Anglo-Saxon literature, and the specialists in Old Norse not at all, and
 have therefore avoided dwelling on moot points. While of course leaning
 on the explorations of predecessors, I have generally sailed my own
 course—between reefs innumerable—with only occasional reference to the
-tracks of others.<span id="page_xv_fr_5"></span>[5](#page_xv_note_5)
+tracks of others.<span id="page_xv_fr_5"></span>[5](#page_xv_note_5.md)
 Nevertheless I am afraid that in the notes I have erred both in giving
 too little and too much. On the one hand the whole world and
 *Weltanschauung* of the ancient North clamored for elucidation; on the
@@ -185,7 +185,7 @@ translation, *The Poetic Edda* (University of Texas Press, 1928).
 
 ------------------------------------------------------------------------
 
-[Next](onp03)
+[Next](onp03.md)
 
 ------------------------------------------------------------------------
 
@@ -193,27 +193,27 @@ translation, *The Poetic Edda* (University of Texas Press, 1928).
 
 <span id="footnotes_page_xiii">p. xiii</span>
 
-<span id="page_xiii_note_1"></span>[1](#page_xiii_fr_1) A few examples
+<span id="page_xiii_note_1"></span>[1](#page_xiii_fr_1.md) A few examples
 of *kvithuháttr,* in which the odd lines have three, the even four,
 syllables, are found in the *Lay of Víkar*.
 
-<span id="page_xiii_note_2"></span>[2](#page_xiii_fr_2) The efforts,
+<span id="page_xiii_note_2"></span>[2](#page_xiii_fr_2.md) The efforts,
 notably of Heusler, to show that this line is but an expanded two-stress
 line, fail to convince me and, in fact, seem contradicted by the
 evidence. Cf. *The Journal of English and Germanic Philology,* 1931, pp.
 475 f.
 
-<span id="page_xiii_note_3"></span>[3](#page_xiii_fr_3) Adherence to
+<span id="page_xiii_note_3"></span>[3](#page_xiii_fr_3.md) Adherence to
 these “Sievers Types” is not a matter of credulity on my part, as some
 of the critics of my Edda translation seem to imply, but of simple
 observation of the rhythmic facts.
 
-<span id="page_xiii_note_4"></span>[4](#page_xiii_fr_4) The question of
+<span id="page_xiii_note_4"></span>[4](#page_xiii_fr_4.md) The question of
 long or short syllable need not concern the reader of the translation.
 
 <span id="footnotes_page_xv">p. xv</span>
 
-<span id="page_xv_note_5"></span>[5](#page_xv_fr_5) The originals
+<span id="page_xv_note_5"></span>[5](#page_xv_fr_5.md) The originals
 (nearly all) are most easily accessible in Heusler-Ranisch, *Eddica
 Minora,* and (all) in F. Jónsson’s *Den Norsk-Islandske
 Skjaldedigtning*.

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah64)  [Next](oah66) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah64)  [Next](oah66.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ resurrection of those who are born in darkness.
 
 16\. God said: Thou shalt remain, and thy people with thee. For since
 thou hast volunteered to leave thy high estate and come and dwell for
-one dan <span id="fr_13"></span>[\*](#fn_13) on the lowest of all
+one dan <span id="fr_13"></span>[\*](#fn_13.md) on the lowest of all
 places, laboring for the blind and dumb, thou shalt be recompensed with
 the love of millions in time to come.
 
@@ -236,8 +236,8 @@ intercourse.
 
 ### Footnotes
 
-<span id="fn_13"></span>[85:\*](oah65.htm#fr_13) Two hundred years.
+<span id="fn_13"></span>[85:\*](oah65.htm#fr_13.md) Two hundred years.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](oah66)
+[Next: Chapter IX](oah66.md)

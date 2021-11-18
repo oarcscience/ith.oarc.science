@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb29)  [Next](brfb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb29)  [Next](brfb31.md) 
 
 </div>
 
@@ -498,6 +498,6 @@ in the winter nights.
 
 ------------------------------------------------------------------------
 
-[Next: Story of the King Who Would Be Stronger Than Fate](brfb31)
+[Next: Story of the King Who Would Be Stronger Than Fate](brfb31.md)
 
 </div>

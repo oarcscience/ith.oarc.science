@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](sjf01) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](sjf01.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](sjf01)
+[Next: Preface](sjf01.md)

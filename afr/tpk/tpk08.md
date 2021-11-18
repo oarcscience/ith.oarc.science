@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk07)  [Next](tpk09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk07)  [Next](tpk09.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Thus said the living God and owner of life, to overcome white bondage
 and filth and black hypocrisy amongst your own black skin you have to
 fast hard or the white man is very filthy and the black man is an
 hypocrite and hypocrite means a crook, a filthy man that class of white
-folks who cut with the crook [they](errata.htm#1) are called
+folks who cut with the crook [they](errata.htm#1.md) are called
 Black-White.
 
 Always have a basin of fine or coarse salt on your fast table as long as
@@ -36,4 +36,4 @@ months is needed.
 
 ------------------------------------------------------------------------
 
-[Next: Department](tpk09)
+[Next: Department](tpk09.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml11)  [Next](yml13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml11)  [Next](yml13.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ of folklore on this continent from New Mexico, Jalisco, and Oaxaca (Boas
 
 ------------------------------------------------------------------------
 
-[Next: The Wax Monkey](yml13)
+[Next: The Wax Monkey](yml13.md)

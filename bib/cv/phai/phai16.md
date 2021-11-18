@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai15) 
-[Next](phai17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai15.md) 
+[Next](phai17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -228,7 +228,7 @@ but imperfectly successful, it nevertheless was of very great
 importance, inasmuch as it seemed to give new strength to the bonds that
 united the eastern with the western tribes. Not only was Gilead not
 lost; it even became a very vigorous member of the body politic. <span
-id="fr_243"></span>[1](#fn_243)
+id="fr_243"></span>[1](#fn_243.md)
 
 The times of agitation and insecurity which followed upon the conquest
 of Palestine invited attacks by the eastern nomads, and once more the
@@ -259,7 +259,7 @@ seized by force and to be maintained with injustice; and in this way he
 soon destroyed those fair beginnings out of which even at that time a
 kingdom might have arisen within the house of Joseph. The one permanent
 fruit of his activity was that Shechem was destroyed as a Canaanite city
-and rebuilt for Israel. <span id="fr_244"></span>[1](#fn_244)
+and rebuilt for Israel. <span id="fr_244"></span>[1](#fn_244.md)
 
 The most important change of the period of the judges went on gradually
 and in silence. The old population of the country, which, according to
@@ -285,7 +285,7 @@ that the Israelites should have brought with them out of the desert the
 cultus they observed in the time of the kings (Exod. xxii. xxiii.
 xxiv.), which throughout presupposed the fields and gardens of
 Palestine; they borrowed it from the Canaanites. <span
-id="fr_245"></span>[1](#fn_245)
+id="fr_245"></span>[1](#fn_245.md)
 
 This is confirmed by the fact that they took over from these the
 "Bamoth" or "high places" also, notwithstanding the prohibition in
@@ -299,7 +299,7 @@ quitted the wilderness and adopted a settled agricultural life, is
 attested alike by historical and prophetical tradition. Doubtless Baal,
 as the god of the land of Canaan, and Jehovah, as the God of the nation
 of Israel, were in the first instance co-ordinated. <span
-id="fr_246"></span>[2](#fn_246)
+id="fr_246"></span>[2](#fn_246.md)
 
 But it was not to be expected that the divinity of the land should
 permanently be different from the God of the dominant people. In
@@ -339,7 +339,7 @@ of the individual for the good of the nation.
 
 ### Footnotes
 
-<span id="fn_243"></span>[445:1](phai16.htm#fr_243) It is probable that
+<span id="fn_243"></span>[445:1](phai16.htm#fr_243.md) It is probable that
 Manasseh's migration to the territory eastward of Jordan took place from
 the west, and later than the time of Moses. The older portions of the
 Hexateuch speak not of two and a half but only of two trans-Jordanic
@@ -352,22 +352,22 @@ also worth noticing that Jair's colonisation of northern Gilead did not
 take place until the time of the judges (Judg. x. 3 seq.), but is
 related also in Num. xxxii. 39-42.
 
-<span id="fn_244"></span>[446:1](phai16.htm#fr_244) On the narratives
+<span id="fn_244"></span>[446:1](phai16.htm#fr_244.md) On the narratives
 contained in the Book of Judges see Bleek, *Einl. ins Alte Testament*
 (4th ed.), §§ 88-98, and especially the sections on Barak and Sisera,
 Gideon, Jephthah, Samson, the Danite migration, and the Benjamites of
 Gibeah (§§ 93-98).
 
-<span id="fn_245"></span>[447:1](phai16.htm#fr_245) In the earliest case
+<span id="fn_245"></span>[447:1](phai16.htm#fr_245.md) In the earliest case
 where the feast of the ingathering, afterwards the chief feast of the
 Israelites, is mentioned, it is celebrated by Canaanites of Shechem in
 honour of Baal (Judg. ix. 27).
 
-<span id="fn_246"></span>[447:2](phai16.htm#fr_246) In Judges v. Jehovah
+<span id="fn_246"></span>[447:2](phai16.htm#fr_246.md) In Judges v. Jehovah
 retains his original abode in the wilderness of Sinai, and only on
 occasions of necessity quits it to come to Palestine.
 
 ------------------------------------------------------------------------
 
 [Next: 3. The Foundation of the Kingdom, and the First Three
-Kings](phai17)
+Kings](phai17.md)

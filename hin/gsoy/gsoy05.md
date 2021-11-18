@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy04) 
-[Next](gsoy06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](gsoy04.md) 
+[Next](gsoy06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425482597/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ man is not confused by that. Just as a man, having cast off his worn-out
 clothes, obtains others which are new, so the owner of the body, having
 thrown away old bodies goes to new ones. Weapons do not cut him; fire
 does not burn him; waters do not wet him; the wind does not dry him away
-. . ." <span id="fr_30"></span>[1](#fn_30)
+. . ." <span id="fr_30"></span>[1](#fn_30.md)
 
 This point being clear the Teacher goes on to the next. He says in verse
 ii 39 that what he has given is knowledge, based upon his own
@@ -116,7 +116,7 @@ always do work which ought to be done, without
 
 personal attachment. Janaka and others attained perfection through work,
 so, having regard to the welfare of the world, it is proper for you to
-work." <span id="fr_31"></span>[2](#fn_31) There is great significance
+work." <span id="fr_31"></span>[2](#fn_31.md) There is great significance
 in the words which have been translated "the welfare of the world." They
 are *loka-sangraha*, *loka* means the inhabitants; *sangraha* means
 their holding or combining together, their living in harmony. This means
@@ -150,7 +150,7 @@ attainable unattained, yet I engage in work. Certainly if I did not
 always engage in work without laziness, people on all sides would follow
 my path. These worlds would become lost if I did not work; I would be
 the maker of confusion, and would ruin these creatures." <span
-id="fr_32"></span>[3](#fn_32) No reason can be given why he should thus
+id="fr_32"></span>[3](#fn_32.md) No reason can be given why he should thus
 work, except that he loves the world.
 
 But let no man be discouraged in this work because he himself is small.
@@ -170,7 +170,7 @@ in his own *karma*. Better is one's own *dharma* though inglorious, than
 the well-performed *dharma* of another. He who does the duty determined
 by his own state incurs no fault. By worshipping in his own *karma*
 (work) him from whom all beings come, him by whom all this is spread
-out, a man attains perfection." <span id="fr_33"></span>[4](#fn_33)
+out, a man attains perfection." <span id="fr_33"></span>[4](#fn_33.md)
 
 The words *dharma* and *karma* here require explanation. *Dharma* means
 where you stand. Each man has to some extent unfolded the flower of his
@@ -203,7 +203,7 @@ none is favorite; but those who worship me with devotion are in me and I
 also am in them. Even if a great evildoer worships me, not devoted to
 anything else, he must be considered good, for he has determined well.
 Quickly he becomes a man of *dharma* and attains constant peace." <span
-id="fr_34"></span>[5](#fn_34) It is clear, then, that this yoga is a way
+id="fr_34"></span>[5](#fn_34.md) It is clear, then, that this yoga is a way
 of thinking, and acting, inspired by love, which releases a man from
 bondage to his own personality.
 
@@ -213,13 +213,13 @@ me," says the Divine, "like a collection of pearls on a
 
 <span id="page_49">p. 49</span>
 
-string." <span id="fr_35"></span>[6](#fn_35) And the reward of the path
+string." <span id="fr_35"></span>[6](#fn_35.md) And the reward of the path
 of yoga is the full realization of this unity: "At the end of many lives
 the man having wisdom approaches me. By devotion he understands me,
 according to what I really am; then, having truly known me, he enters
 that (state) immediately. Although always doing work, having me for
 goal, through my grace he obtains the eternal indestructible
-goal." <span id="fr_36"></span>[7](#fn_36)
+goal." <span id="fr_36"></span>[7](#fn_36.md)
 
 The love of man for God is more than reciprocated; "He who has no
 dislike for any being, but is friendly and kind, without greed or
@@ -230,7 +230,7 @@ not repelled, and who does not avoid the world, free from the agitations
 of delight, impatience and fear, is dear to me. Those devotees who are
 intent upon this deathless way of life, thus declared, full of faith,
 with me as (their) supreme—they are above all dear to me." <span
-id="fr_37"></span>[8](#fn_37)
+id="fr_37"></span>[8](#fn_37.md)
 
 Some of the devotional verses suggest a great absence of self-reliance
 *if* they are taken out of their general context, as, for instance:
@@ -246,7 +246,7 @@ this no suggestion anywhere that man should lean upon an external God,
 an entity. This devotion is required to the "me" which is *all* life,
 and not a portion of life in some external form, however grand. Shrī
 Krishna speaks for that one life "equally present in all." <span
-id="fr_38"></span>[9](#fn_38)
+id="fr_38"></span>[9](#fn_38.md)
 
 The objective side of this is by no means ignored in this teaching of
 the importance of the soul, indeed, of all souls. While the souls bring
@@ -280,7 +280,7 @@ described as *tāmasic*, and one in which energy was most prominent would
 be spoken of as *rājasic*.
 
 The same adjectives are applied very fully in the *Gītā* to the
-personalities of men. <span id="fr_39"></span>[10](#fn_39) In the early
+personalities of men. <span id="fr_39"></span>[10](#fn_39.md) In the early
 stages of human awakening we have the very material or *tāmasic* man,
 who is sluggish and scarcely cares to move, unless he is stirred by a
 strong stimulus from the outside. Next comes the man in whom *rajas* has
@@ -324,7 +324,7 @@ immersed and lost in it. "Be thou above the three attributes of Nature,
 O Arjuna," says the Teacher, "without the pairs of opposites (such as
 heat and cold, praise and blame, riches and poverty), always steadfast
 in *sattwa*, careless of possessions, having the (real) self." <span
-id="fr_40"></span>[11](#fn_40)
+id="fr_40"></span>[11](#fn_40.md)
 
 These laws work out in a multitude of ways in life, but there are three
 main principles behind them all—principles of the evolution of
@@ -368,7 +368,7 @@ of (this) knowledge. As fire reduces fuel to ashes, so does the fire of
 knowledge reduce all *karmas* to ashes. There is indeed no purifier in
 the world like knowledge. He who is accomplished finds the same in the
 self in course of time. Having attained (this) knowledge he very soon
-goes to the peace of the Beyond." <span id="fr_41"></span>[12](#fn_41)
+goes to the peace of the Beyond." <span id="fr_41"></span>[12](#fn_41.md)
 The word "knowledge" (*jnāna*) in the *Gītā* means always something
 known—high or low. "Wisdom" is *buddhi*, meaning the faculty of
 understanding the life side of the world.
@@ -381,7 +381,7 @@ enquiring mind, so as to gain some understanding. The unbalanced
 character is unfit for the higher path, no matter how great the progress
 it may have made along one line. Three practices are prescribed;
 reverence, enquiry and service—in the original, *pranipāta*,
-*pariprashna* and *sevā*. <span id="fr_42"></span>[13](#fn_42) The first
+*pariprashna* and *sevā*. <span id="fr_42"></span>[13](#fn_42.md) The first
 means bowing, or respect for the Divine in all beings and events, which
 is the same thing as Patanjali's *īshwara-pranidhāna*. The second is
 enquiry or questioning, resembling Patanjali's *swādhyāya*. The third is
@@ -446,7 +446,7 @@ conscious of the life around him, and therefore less liable to merely
 personal interests and motives. The things that he must do are described
 by Shrī Krishna as follows: "Acts of *yajna*, *dāna* and *tapas* should
 not be given up, but should be done without personal attachment or
-desire for results." <span id="fr_43"></span>[14](#fn_43) These three
+desire for results." <span id="fr_43"></span>[14](#fn_43.md) These three
 kinds of action which alone the *sannyāsī* is permitted to do, and which
 in fact he must do, are sacrifice, gift and effort.
 
@@ -503,37 +503,37 @@ reality.
 
 ### Footnotes
 
-<span id="fn_30"></span>[43:1](gsoy05.htm#fr_30) Verses ii 11, 12, 13,
+<span id="fn_30"></span>[43:1](gsoy05.htm#fr_30.md) Verses ii 11, 12, 13,
 22, 23.
 
-<span id="fn_31"></span>[45:2](gsoy05.htm#fr_31) iii 19, 20.
+<span id="fn_31"></span>[45:2](gsoy05.htm#fr_31.md) iii 19, 20.
 
-<span id="fn_32"></span>[46:3](gsoy05.htm#fr_32) iii 22-24.
+<span id="fn_32"></span>[46:3](gsoy05.htm#fr_32.md) iii 22-24.
 
-<span id="fn_33"></span>[47:4](gsoy05.htm#fr_33) xviii 45-47, and iii
+<span id="fn_33"></span>[47:4](gsoy05.htm#fr_33.md) xviii 45-47, and iii
 35.
 
-<span id="fn_34"></span>[48:5](gsoy05.htm#fr_34) ix 26-31.
+<span id="fn_34"></span>[48:5](gsoy05.htm#fr_34.md) ix 26-31.
 
-<span id="fn_35"></span>[49:6](gsoy05.htm#fr_35) vii 7.
+<span id="fn_35"></span>[49:6](gsoy05.htm#fr_35.md) vii 7.
 
-<span id="fn_36"></span>[49:7](gsoy05.htm#fr_36) vii 19 and xviii 55,
+<span id="fn_36"></span>[49:7](gsoy05.htm#fr_36.md) vii 19 and xviii 55,
 56.
 
-<span id="fn_37"></span>[49:8](gsoy05.htm#fr_37) xii 13-15, 20.
+<span id="fn_37"></span>[49:8](gsoy05.htm#fr_37.md) xii 13-15, 20.
 
-<span id="fn_38"></span>[50:9](gsoy05.htm#fr_38) xiii 27, 28.
+<span id="fn_38"></span>[50:9](gsoy05.htm#fr_38.md) xiii 27, 28.
 
-<span id="fn_39"></span>[51:10](gsoy05.htm#fr_39) xviii 7-9, 26-28.
+<span id="fn_39"></span>[51:10](gsoy05.htm#fr_39.md) xviii 7-9, 26-28.
 
-<span id="fn_40"></span>[53:11](gsoy05.htm#fr_40) ii 45.
+<span id="fn_40"></span>[53:11](gsoy05.htm#fr_40.md) ii 45.
 
-<span id="fn_41"></span>[55:12](gsoy05.htm#fr_41) iv 33-39.
+<span id="fn_41"></span>[55:12](gsoy05.htm#fr_41.md) iv 33-39.
 
-<span id="fn_42"></span>[55:13](gsoy05.htm#fr_42) iv 34.
+<span id="fn_42"></span>[55:13](gsoy05.htm#fr_42.md) iv 34.
 
-<span id="fn_43"></span>[58:14](gsoy05.htm#fr_43) xviii 5, 6.
+<span id="fn_43"></span>[58:14](gsoy05.htm#fr_43.md) xviii 5, 6.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Four. Shankaracharya's Gnyana-Yoga](gsoy06)
+[Next: Chapter Four. Shankaracharya's Gnyana-Yoga](gsoy06.md)

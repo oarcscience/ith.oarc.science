@@ -1,6 +1,6 @@
 <div>
 
-[Intangible Textual Heritage](../index) [Press](../press)
+[Intangible Textual Heritage](../index) [Press](../press.md)
 
 ------------------------------------------------------------------------
 

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth02)  [Next](oth04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth02)  [Next](oth04.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ subdivided into motion away from and motion towards the centre.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](oth04)
+[Next: Chapter 4](oth04.md)

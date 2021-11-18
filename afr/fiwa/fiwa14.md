@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa13)  [Next](fiwa15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa13)  [Next](fiwa15.md) 
 
 ------------------------------------------------------------------------
 
@@ -627,4 +627,4 @@ the wetting of its contents by rain or its injury in any other way.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: The Fetich--Superstition in Customs](fiwa15)
+[Next: Chapter XIII: The Fetich--Superstition in Customs](fiwa15.md)

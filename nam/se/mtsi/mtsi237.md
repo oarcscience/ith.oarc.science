@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi236)  [Next](mtsi238) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi236)  [Next](mtsi238.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ home without killing anything.
 
 ------------------------------------------------------------------------
 
-[Next: 38. The Man Who Treated a Ghost](mtsi238)
+[Next: 38. The Man Who Treated a Ghost](mtsi238.md)

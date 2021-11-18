@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw17)  [Next](gsw19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw17)  [Next](gsw19.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_234">p. 234</span>
 
-<span id="img_23400"></span> ![FROM A TURKOMAN CARPET](img/23400.jpg)
+<span id="img_23400"></span> ![FROM A TURKOMAN CARPET](img/23400.jpg.md)
 
 ### CHAPTER XIV
 
@@ -42,7 +42,7 @@ centuries the prophecy was unfulfilled, until Harun-al-Rashid,
 <span id="img_23500"></span> <span align="CENTER"> [![THE IMAM TAKING
 THE POISONED GRAPES FROM THE CALIPH&lt;br&gt; &lt;i&gt;From a Persian
 picture&lt;/i&gt;.](tn/23500.jpg)  
-Click to enlarge](img/23500.jpg)  
+Click to enlarge](img/23500.jpg.md)  
 THE IMAM TAKING THE POISONED GRAPES FROM THE CALIPH  
 *From a Persian picture*.  
 </span>
@@ -156,7 +156,7 @@ the Sacred
 
 <span id="img_24100"></span> <span align="CENTER"> [![THE OLD COURT,
 SHOWING NADIR'S FOUNTAIN IN THE FOREGROUND](tn/24100.jpg)  
-Click to enlarge](img/24100.jpg)  
+Click to enlarge](img/24100.jpg.md)  
 THE “OLD COURT,” SHOWING NADIR'S FOUNTAIN IN THE FOREGROUND  
 </span>
 
@@ -204,7 +204,7 @@ There are four porches, the most beautiful of which is known as "The
 Golden Porch of Nadir." It was indeed built by *Sultan* Husein, but was
 enriched by the mighty Afshar, may Allah forgive him, who not only paved
 and panelled it with white marble brought from distant Maragha, <span
-id="fr_66"></span>[1](#fn_64) but covered the walls with tiles cased in
+id="fr_66"></span>[1](#fn_64.md) but covered the walls with tiles cased in
 gold.
 
 The inscription in great golden letters on a blue ground is very
@@ -218,7 +218,7 @@ Of his power of perception they relate that
 <span id="img_24500"></span> <span align="CENTER"> [![THE GOLDEN PORCH
 OF NADIR SHAH&lt;br&gt; (With group of Shrine
 officials)](tn/24500.jpg)  
-Click to enlarge](img/24500.jpg)  
+Click to enlarge](img/24500.jpg.md)  
 THE GOLDEN PORCH OF NADIR SHAH  
 (With group of Shrine officials)  
 </span>
@@ -268,7 +268,7 @@ world."
 
 After admiring the glorious blue tiling and the Golden Porch, we
 approached a grating of steel covered with brass, through which we could
-see the sacred *haram*. <span id="fr_67"></span>[1](#fn_65) This we
+see the sacred *haram*. <span id="fr_67"></span>[1](#fn_65.md) This we
 touched, and then bowing towards the Shrine, left our shoes at the
 *Kafshkan*, which was in charge of a man who really seemed to be worthy
 to be a Vizier, as, although hundreds of pairs of shoes are always in
@@ -332,14 +332,14 @@ with silver, to the *Dar-ul-Huffaz*,
 <span id="img_25100"></span> <span align="CENTER"> [![THE TOMB
 CHAMBER&lt;br&gt; &lt;i&gt;From a Persian
 picture&lt;/i&gt;.](tn/25100.jpg)  
-Click to enlarge](img/25100.jpg)  
+Click to enlarge](img/25100.jpg.md)  
 THE TOMB CHAMBER  
 *From a Persian picture*.  
 </span>
 
 <span id="page_252">p. 252</span> <span id="page_253">p. 253</span>
 
-or "Place of the Reciters," <span id="fr_68"></span>[1](#fn_66) which
+or "Place of the Reciters," <span id="fr_68"></span>[1](#fn_66.md) which
 resembles the "Place of Greatness," but is not so magnificent.
 
 Here we prostrated ourselves, touching the ground with the sides of our
@@ -391,14 +391,14 @@ hung jewelled aigrettes, daggers, swords, and other offerings of
 
 <span id="img_25500"></span> <span align="CENTER"> [![THE GOLDEN DOOR AT
 THE FOOT OF THE TOMB](tn/25500.jpg)  
-Click to enlarge](img/25500.jpg)  
+Click to enlarge](img/25500.jpg.md)  
 THE GOLDEN DOOR AT THE FOOT OF THE TOMB  
 </span>
 
 <span id="page_256">p. 256</span> <span id="page_257">p. 257</span>
 
 such value that the treasure of Karun <span
-id="fr_69"></span>[1](#fn_67) is nothing in comparison.
+id="fr_69"></span>[1](#fn_67.md) is nothing in comparison.
 
 We pilgrims, after kissing the blessed lock, moved round to "The Foot of
 the Saint," and here, after prostrating ourselves close to a second
@@ -427,20 +427,20 @@ fulfilled the great desire of my life.
 
 ### Footnotes
 
-<span id="fn_64"></span>[244:1](gsw18.htm#fr_66) Maragha is near Tabriz,
+<span id="fn_64"></span>[244:1](gsw18.htm#fr_66.md) Maragha is near Tabriz,
 and over 1000 miles distant from Meshed.
 
-<span id="fn_65"></span>[248:1](gsw18.htm#fr_67) Haram is the name for
+<span id="fn_65"></span>[248:1](gsw18.htm#fr_67.md) Haram is the name for
 the sacred tomb chamber.
 
-<span id="fn_66"></span>[253:1](gsw18.htm#fr_68) The exact meaning is
+<span id="fn_66"></span>[253:1](gsw18.htm#fr_68.md) The exact meaning is
 that the man knows the Koran by heart and has the title of *Hafiz*.
 To-day, in Persia, this title is unknown, whereas a *Hafiz* is highly
 honoured by Sunnis.
 
-<span id="fn_67"></span>[257:1](gsw18.htm#fr_69) Karun, the Korah of the
+<span id="fn_67"></span>[257:1](gsw18.htm#fr_69.md) Karun, the Korah of the
 Old Testament, corresponds to the Croesus of the Greek world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. The Pilgrimage Is Accepted](gsw19)
+[Next: Chapter XV. The Pilgrimage Is Accepted](gsw19.md)

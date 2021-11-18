@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva18)  [Next](rva20) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva18)  [Next](rva20.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XIX. Macuilxochitl Icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Ayya, yao, xochitlycaca umpan iuitza tlamacazecatla tlamocoyoalca.
 
@@ -71,4 +71,4 @@ the flower-god Xochipilli.
 
 ------------------------------------------------------------------------
 
-[Next: XX. Hymn to the God of Merchants.](rva20) 
+[Next: XX. Hymn to the God of Merchants.](rva20.md) 

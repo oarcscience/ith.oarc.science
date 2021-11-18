@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Next](srf01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Next](srf01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,9 +17,9 @@
 <span id="img_front"></span>
 
 [![PETRUSHKA HOLDS THE WOLVES AT BAY](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 PETRUSHKA HOLDS THE WOLVES AT BAY  
 
 ------------------------------------------------------------------------
 
-[Next: Contents](srf01)
+[Next: Contents](srf01.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp88) 
-[Next](alp90) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp88.md) 
+[Next](alp90.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ should be read in two portions, in the morning and evening. This prayer
 has been translated into thirty-six languages, of which English is one.
 
 An example of the work of Nerses the Gracious, entitled "The Arrival of
-the Crusaders," is given in this volume on page [58](alp44.htm#page_58).
+the Crusaders," is given in this volume on page [58](alp44.htm#page_58.md).
 
 This is hardly a representative poem and is not the best specimen of the
 author's work. It was inserted because of the interest of the Crusades
@@ -325,7 +325,7 @@ As she spoke their light to banish.
      Cleared was heaven's face  
 And the sun arose in splendour;  
      Then a Child appeared,  
-Sweet the Name He had, and tender." <span id="fr_39"></span>[1](#fn_39)
+Sweet the Name He had, and tender." <span id="fr_39"></span>[1](#fn_39.md)
 
 HOVHANNES ERZINGATZI (*b*. 1250) was educated in a monastery on the
 confines of Georgia and Armenia under a bishop who was renowned for his
@@ -360,7 +360,7 @@ With my load I followed, leaping.
 With that burden that thou bearest.'"
 
 In another poem, entitled "Like an Ocean is this World," which appears
-on page [59](alp45.htm#page_59) of
+on page [59](alp45.htm#page_59.md) of
 
 <span id="page_174">p. 174</span>
 
@@ -399,17 +399,17 @@ of the world, showing how the wicked prosper and the righteous suffer.
 Thou not entirely destroy us?"
 
 An extract from this long poem is given in this volume on page
-[xv](alp06.htm#page_xv).
+[xv](alp06.htm#page_xv.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_39"></span>[173:1](alp89.htm#fr_39) All the metrical
+<span id="fn_39"></span>[173:1](alp89.htm#fr_39.md) All the metrical
 translations quoted are by Miss Z. C. Boyajian. Like her other
 translations in this volume they are almost literal renderings, and the
 original metre has been kept.
 
 ------------------------------------------------------------------------
 
-[Next: End of Armenian Kingdom](alp90)
+[Next: End of Armenian Kingdom](alp90.md)

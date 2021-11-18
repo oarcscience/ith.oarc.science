@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das24)  [Next](das26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das24)  [Next](das26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -21,13 +21,13 @@ Intangible Textual Heritage
 The Negroes of St. Marys live scattered about the town and its
 outskirts. In the past few years many of the very old people have died
 and there remain only a few who are past eighty years old. We went to
-see Hettie Campbell, <span id="fr_156"></span>[1](#fn_156) who was only
+see Hettie Campbell, <span id="fr_156"></span>[1](#fn_156.md) who was only
 seventy-two. Her mother had belonged to Dr. Wright of St. Marys and all
 her ante-bellum knowledge had been imparted to her by her mother and her
 stepfather, Andrew King. When we drove up she was sitting on the porch
 of her small house. The front garden was a packed dirt yard with formal
 plantings of flowers and shrubbery. During most of our talk Hettie's
-son, Horace, <span id="fr_157"></span>[2](#fn_157) stood in the doorway,
+son, Horace, <span id="fr_157"></span>[2](#fn_157.md) stood in the doorway,
 half interested in and half amused by the conversation.
 
 We asked Hettie to tell us about the old times.
@@ -47,7 +47,7 @@ sings
 
 <span id="page_178">p. 178</span>
 
-all night. [38](das26.htm#xref_38)An wen the sun rise, we stahts tuh
+all night. [38](das26.htm#xref_38.md)An wen the sun rise, we stahts tuh
 dance. It ain so long since they stop that back in the woods but these
 young people they does new kines uh dances."
 
@@ -58,7 +58,7 @@ We asked what sort of music they had for the dances.
 
 "They mosly have guitah now," said Hettie, "an we use tuh use guitah
 too, but we makes em frum goad an we beats drums too. We makes em frum
-coon hide stretched ovuh hoops. [25](das26.htm#xref_25) Muh step-fathuh,
+coon hide stretched ovuh hoops. [25](das26.htm#xref_25.md) Muh step-fathuh,
 Andrew King, who lived down the Satilla Rivuh, use tuh tell me how it
 wuz in the ole days. He tell me they bring a boatload of them Africans
 ovuh frum a ilun tuh theah plantation. That wuz jis befo the waw an they
@@ -69,9 +69,9 @@ of food.
 
 "Thas a hahd un, ma'am. Mos people eat wut they kin git but I knowd
 Chahlotte Froman who wouldn tech chicken. They all say that chicken wuz
-a duhty animal an they ain gonuh eat em. [65](das26.htm#xref_65) They
+a duhty animal an they ain gonuh eat em. [65](das26.htm#xref_65.md) They
 keeps chicken cuz frizzle chicken is a wise chicken. it sho kin fine wut
-you caahn fine." [13a](das26.htm#xref_13a)
+you caahn fine." [13a](das26.htm#xref_13a.md)
 
 We asked about conjure.
 
@@ -82,7 +82,7 @@ still roun an we've all heahd bout em an knows bout em but theah ain
 nobody much wut's ole nuff tuh pay much tention tuh em." Horace smiled
 with the superiority of the younger generation.
 
-Later we visited Henry Williams <span id="fr_158"></span>[1](#fn_158)
+Later we visited Henry Williams <span id="fr_158"></span>[1](#fn_158.md)
 whose little house sat back in a clump of tall, overgrown brush that
 grew close to the dilapidated paling fence. Henry, who sat on his sunny
 porch, was strong and healthy looking for his eighty-seven years. The
@@ -122,7 +122,7 @@ out lak a beehive an thas weah they lib.
 
 "They buil a big 'boo-boo-no' fuh the chief. Patty he wuz the chief son
 an he have three straight mahks slantin down on he right cheek an that
-wuz a bran tuh show who he wuz. [14](das26.htm#xref_14) He wuz the waw
+wuz a bran tuh show who he wuz. [14](das26.htm#xref_14.md) He wuz the waw
 chief son and doze mahks tell whut tribe he belong tuh. Wen I knowd im,
 he stay down in a lill house on the alley neah the ribbuh. I sho heahd
 im talk a lot. Ise hole duh bide fuh im wen he scrapes em with a
@@ -131,9 +131,9 @@ givin the king some uh the cassaba."
 
 We asked Uncle Henry about the dances and the customs of long ago.
 
-"I sho, see dances wut give thanks fuh the crop [38](das26.htm#xref_38)
+"I sho, see dances wut give thanks fuh the crop [38](das26.htm#xref_38.md)
 an we prays in the night an dance wen the sun rise. I know the Buzzud
-Lope too. [17](das26.htm#xref_17) I seen em do that an they use tuh have
+Lope too. [17](das26.htm#xref_17.md) I seen em do that an they use tuh have
 big Satdy night doins. Roun Christmas we git three days'
 
 <span id="page_180">p. 180</span>
@@ -146,13 +146,13 @@ back, the patrol will git yuh an then yuh gits whipped."
 We asked him about witch doctors and taboos.
 
 "I tell yuh, missus, they ain many wut knows bout roots yuh tuhday. Some
-does come tuh sell hans an chahms [8](das26.htm#xref_8) all they's a
+does come tuh sell hans an chahms [8](das26.htm#xref_8.md) all they's a
 heap uh signs fuh the bad an good luck ef I have time tuh study bout em.
 Now the Jordan family, ole man Jordan, he dohn let none uh his family
 eat rabbit. Theah's the ole man an Ahnt Tillah an theah chillun, Sally
 an Austin. He use tuh tell the boy, 'Dohn yuh go shoot no rabbits roun
 yuh; we dohn none of us eats rabbit. Thas bad luck fuh us.' He sho wuz
-strick bout it." [65](das26.htm#xref_65)
+strick bout it." [65](das26.htm#xref_65.md)
 
 We questioned the old man further about his recollections of the beliefs
 and practices of his ancestors. It appeared, however, that for the
@@ -207,12 +207,12 @@ packed, sand yard. Jim Myers owned a good deal of land and there was a
 well-to-do feeling about the whole place, though it was old-fashioned
 and isolated in the extreme.
 
-Uncle Jim <span id="fr_159"></span>[1](#fn_159) came down the log steps
+Uncle Jim <span id="fr_159"></span>[1](#fn_159.md) came down the log steps
 to greet us. His bare feet manipulated the round treads easily. He was a
 big man, slightly bent from rheumatism, very black with a white fringe
 of a beard. His eyes were rheumy with age. Around his ankles were two
 brass wires, which helped to take the pain out of his
-legs. [12b](das26.htm#xref_12b)
+legs. [12b](das26.htm#xref_12b.md)
 
 "Uncle Jim," we said, "tell us about the times when you were a boy."
 
@@ -237,13 +237,13 @@ that way they lun how too. They sked to give em a hoe. It's shahp and
 they might frail roun with it."
 
 We asked Uncle Jim if he could see spirits. "No'm, I ain nevuh seen em.
-I wuzn bawn with a caul [4](das26.htm#xref_4) an I caahn see em. Now,
+I wuzn bawn with a caul [4](das26.htm#xref_4.md) an I caahn see em. Now,
 muh brothuh he kin see em cuz he wuz bawn with a caul. He see em all the
 time. Spirits is alluz roun in time of fewnuls an wen a pusson die, we
 have a settin-up and then we leave sumpm wut we got tuh eat in a dish by
-him to eat [54](das26.htm#xref_54)--that is, we use tuh do that--an we
+him to eat [54](das26.htm#xref_54.md)--that is, we use tuh do that--an we
 put salt on em in the ole days an we go up to em an we put our hands on
-theah chest to bid em feahwell." [31](das26.htm#xref_31)
+theah chest to bid em feahwell." [31](das26.htm#xref_31.md)
 
 We asked Uncle Jim if they used to have night funerals in the old days.
 "No'm, we alluz have our fewnuls in the day time but my great
@@ -267,8 +267,8 @@ sumpm special with
 
 <span id="page_183">p. 183</span>
 
-em but I ain unduhstood how it is. [35a](das26.htm#xref_35a),
- [35b](das26.htm#xref_35b) I tell you wut she tell me, how she get heah
+em but I ain unduhstood how it is. [35a](das26.htm#xref_35a.md),
+ [35b](das26.htm#xref_35b.md) I tell you wut she tell me, how she get heah
 on a big boat an she Ian down theah on Cumberland Ilun on a big dock in
 the time of Mr. Nightingale an she say they put em in a lill pick house
 to keep em safe an the chimbly of that same lill house is standin about
@@ -295,7 +295,7 @@ trip we encountered an old fashioned two-wheeled ox cart whose driver
 guided his oxen deftly to one side in order to let us pass.
 
 About three or four miles out on the road we turned in a gate and drove
-to the side of Shadwick Rudolph's <span id="fr_160"></span>[1](#fn_160)
+to the side of Shadwick Rudolph's <span id="fr_160"></span>[1](#fn_160.md)
 house. The old man greeted us smilingly. At first glance be did not
 appear to be the eighty-six years he claimed, but on closer observation
 we noticed that his eyes were dimmed from age. He talked with us for
@@ -318,7 +318,7 @@ an talk. They talk a lot an speak the African wuds an souns. I ain know
 wut they talk bout, mosly bout the times in Africa I think. One soun aw
 wud I membuh they say wuz 'cupla' but wut it mean I sho dohn know.
 
-"Fuh the longes time I have a wooden bowl [70](das26.htm#xref_70) bout
+"Fuh the longes time I have a wooden bowl [70](das26.htm#xref_70.md) bout
 lak the one Nanny Mammy have. It wuz holluhed out jis as smooth, an it
 wuz made of some kine uh dahk wood. Not long ago muh wife say she ain
 see da bowl in monuh yeah. She think mebbe one uh the chillun, muh grans
@@ -327,17 +327,17 @@ I mean, mustuh misplace it someway.
 "Theah's a lot uh things I membuh at the plantation. Muh grandmothuh,
 Sally, she make the bes rice cakes. She make em with brown shuguh. She
 ain mix em up with honey. I seed em make home-made drums theah too. They
-stretch a sheep-hide ovuh a roun bucket. [25](das26.htm#xref_25) Then
+stretch a sheep-hide ovuh a roun bucket. [25](das26.htm#xref_25.md) Then
 they beats the drum in the fewnul cession wen they mahches tuh the
-buryin groun. [24](das26.htm#xref_24) Long then wen a pusson die they
-have a settin-up [37a](das26.htm#xref_37a) an have a suppuh
-too. [37b](das26.htm#xref_37b),  [37c](das26.htm#xref_37c) Theah wuz an
+buryin groun. [24](das26.htm#xref_24.md) Long then wen a pusson die they
+have a settin-up [37a](das26.htm#xref_37a.md) an have a suppuh
+too. [37b](das26.htm#xref_37b),  [37c](das26.htm#xref_37c.md) Theah wuz an
 still is pussons wut put a dish uh food out on the poach fuh the spirit,
 but some of em take cooked food tuh the grave an leave it theah fuh the
-spirit. [58](das26.htm#xref_58) They say, too, that a frizzle chicken
-kin dig up any kine uh cunjuh. [13](das26.htm#xref_13) Theah's a lot uh
+spirit. [58](das26.htm#xref_58.md) They say, too, that a frizzle chicken
+kin dig up any kine uh cunjuh. [13](das26.htm#xref_13.md) Theah's a lot uh
 talk bout cunjuh these days mung the young folks, even mo than in the
-ole days." [15](das26.htm#xref_15)
+ole days." [15](das26.htm#xref_15.md)
 
 A short while later, our interview concluded, we thanked the old man for
 the information and took our leave. Looking back we saw him sitting on
@@ -348,25 +348,25 @@ reverie of the past.
 
 ### Footnotes
 
-<span id="fn_156"></span>[177:1](das25.htm#fr_156) Hettie Campbell, St.
+<span id="fn_156"></span>[177:1](das25.htm#fr_156.md) Hettie Campbell, St.
 Marys. Deceased autumn, 1939.
 
-<span id="fn_157"></span>[177:2](das25.htm#fr_157) Horace Campbell, St.
+<span id="fn_157"></span>[177:2](das25.htm#fr_157.md) Horace Campbell, St.
 Marys.
 
-<span id="fn_158"></span>[178:1](das25.htm#fr_158) Henry Williams, St.
+<span id="fn_158"></span>[178:1](das25.htm#fr_158.md) Henry Williams, St.
 Marys.
 
-<span id="fn_159"></span>[181:1](das25.htm#fr_159) Jim Myers, Mush Bluff
+<span id="fn_159"></span>[181:1](das25.htm#fr_159.md) Jim Myers, Mush Bluff
 Island.
 
-<span id="fn_160"></span>[183:1](das25.htm#fr_160) Shadwick Rudolph,
+<span id="fn_160"></span>[183:1](das25.htm#fr_160.md) Shadwick Rudolph,
 Folkston Road, near Woodbine.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](das26)
+[Next: Appendix](das26.md)
 
 </div>

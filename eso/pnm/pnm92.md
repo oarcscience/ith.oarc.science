@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm91)  [Next](pnm93) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm91)  [Next](pnm93.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ other elements.
 
 <span id="img_28300"></span> <span align="CENTER"> [![SYMBOLS OF THE
 ALCHEMISTS AND THEIR SIGNIFICATIONS.](tn/28300.jpg)  
-Click to enlarge](img/28300.jpg)  
+Click to enlarge](img/28300.jpg.md)  
 SYMBOLS OF THE ALCHEMISTS AND THEIR SIGNIFICATIONS.  
 </span>
 
@@ -74,10 +74,10 @@ SYMBOLS OF THE ALCHEMISTS AND THEIR SIGNIFICATIONS.
 
 <span id="img_28400"></span> <span align="CENTER"> [![SYMBOLS OF THE
 ALCHEMISTS, CONTINUED](tn/28400.jpg)  
-Click to enlarge](img/28400.jpg)  
+Click to enlarge](img/28400.jpg.md)  
 SYMBOLS OF THE ALCHEMISTS, CONTINUED  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: A Message From the Stars](pnm93)
+[Next: A Message From the Stars](pnm93.md)

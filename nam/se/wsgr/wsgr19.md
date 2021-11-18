@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr18)  [Next](wsgr20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr18)  [Next](wsgr20.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ rim on the edge
 <span id="img_09600"></span>
 
 [![](tn/09600.jpg)  
-Click to enlarge](img/09600.jpg)
+Click to enlarge](img/09600.jpg.md)
 
 <span id="page_97">p. 97</span>
 
@@ -219,4 +219,4 @@ Indians that her husband had come up to her.
 
 ------------------------------------------------------------------------
 
-[Next: The Maiden Who Loved a Star](wsgr20)
+[Next: The Maiden Who Loved a Star](wsgr20.md)

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao68)   
-[Previous](tao67)  [Next](tao69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao68.md)   
+[Previous](tao67)  [Next](tao69.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ nature of TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 69](tao69)
+[Next: Chapter 69](tao69.md)

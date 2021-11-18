@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg15)  [Next](leg17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg15)  [Next](leg17.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ and is between the two thighs of the Cow, shall read, "Listener,"
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of The Destruction Of Mankind, Chapter III.](leg17)
+[Next: The Legend Of The Destruction Of Mankind, Chapter III.](leg17.md)

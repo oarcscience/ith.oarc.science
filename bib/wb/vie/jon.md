@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](oba)  [Next](mic) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](oba)  [Next](mic.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ hữu và tay tả, lại với một số thú vật rất nhiều hay sao?
 
 ------------------------------------------------------------------------
 
-[Next: Micah](mic)
+[Next: Micah](mic.md)

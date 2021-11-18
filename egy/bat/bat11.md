@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat10)  [Next](bat12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat10)  [Next](bat12.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ them. Their work in the Tuat is to tow Ra along over the ways of this
  
 
 <span id="img_16400"></span> [![](tn/generic.jpg)  
-Click to view](img/16400.jpg)  
+Click to view](img/16400.jpg.md)  
 The Boat of Af, the dead Sun-god, in the Eighth Hour.
 
  
@@ -76,7 +76,7 @@ along." The eight gods
  
 
 <span id="img_16500"></span> [![](tn/generic.jpg)  
-Click to view](img/16500.jpg)
+Click to view](img/16500.jpg.md)
 
  
 
@@ -120,7 +120,7 @@ Of these gods it is said:
  
 
 <span id="img_16700"></span> [![](tn/generic.jpg)  
-Click to view](img/16700.jpg)  
+Click to view](img/16700.jpg.md)  
 Servants of the god Ra.
 
  
@@ -142,7 +142,7 @@ heads to pass under their swords after this god hath passed them by."
  
 
 <span id="img_16800"></span> [![](tn/generic.jpg)  
-Click to view](img/16800.jpg)  
+Click to view](img/16800.jpg.md)  
 (*Left*) Servants of the god Ra. (*Right*) First form of Tathenen.
 
  
@@ -170,7 +170,7 @@ The text which refers to these reads:
  
 
 <span id="img_16900"></span> [![](tn/generic.jpg)  
-Click to view](img/16900.jpg)  
+Click to view](img/16900.jpg.md)  
 (*Left*) Second form of Tathenen. (*Center*) Third form of Tathenen.
 (*Right*) Fourth form of Tathenen.
 
@@ -188,7 +188,7 @@ song of joy at their voices. After \[this
  
 
 <span id="img_17000"></span> [![](tn/generic.jpg)  
-Click to view](img/17000.jpg)  
+Click to view](img/17000.jpg.md)  
 The Circle Sesheta.
 
  
@@ -236,7 +236,7 @@ Each of these is seated upon an instrument for weaving. The text reads:
  
 
 <span id="img_17200"></span> [![](tn/generic.jpg)  
-Click to view](img/17200.jpg)  
+Click to view](img/17200.jpg.md)  
 The Circle Tuat.
 
  
@@ -258,7 +258,7 @@ with the name of TES-AKHEM-BAIU, and in it are seated:--
  
 
 <span id="img_17300"></span> [![](tn/generic.jpg)  
-Click to view](img/17300.jpg)  
+Click to view](img/17300.jpg.md)  
 The Circle As-neteru.
 
  
@@ -281,7 +281,7 @@ souls in whatsoever regions they are, and there is heard the
  
 
 <span id="img_17400"></span> [![](tn/generic.jpg)  
-Click to view](img/17400.jpg)  
+Click to view](img/17400.jpg.md)  
 The Circle Aakebi.
 
  
@@ -325,7 +325,7 @@ the name of TENS-SMA-KEKIU, and in it are seated:
  
 
 <span id="img_17600"></span> [![](tn/generic.jpg)  
-Click to view](img/17600.jpg)  
+Click to view](img/17600.jpg.md)  
 The Circle Nebt-semu-nifu.
 
  
@@ -346,7 +346,7 @@ is "NEBT-SEMU-NIFU."
  
 
 <span id="img_17700"></span> [![](tn/generic.jpg)  
-Click to view](img/17700.jpg)  
+Click to view](img/17700.jpg.md)  
 The door Tes-khaibitu-tuatiu.
 
  
@@ -375,7 +375,7 @@ The text reads:
  
 
 <span id="img_17800"></span> [![](tn/generic.jpg)  
-Click to view](img/17800.jpg)  
+Click to view](img/17800.jpg.md)  
 The Circle Hetepet-neb-s.
 
  
@@ -401,7 +401,7 @@ door having the name TES-RA-KHEFTIU-F, in it are:--
  
 
 <span id="img_17900"></span> [![](tn/generic.jpg)  
-Click to view](img/17900.jpg)  
+Click to view](img/17900.jpg.md)  
 The Circle Hetemet-khemiu.
 
  
@@ -425,7 +425,7 @@ souls cry out to Ra. The name of this Circle is HETEMET-KHEMIU."
  
 
 <span id="img_18000"></span> [![](tn/generic.jpg)  
-Click to view](img/18000.jpg)  
+Click to view](img/18000.jpg.md)  
 The Circle Hap-semu-s.
 
  
@@ -472,7 +472,7 @@ are:--
  
 
 <span id="img_18200"></span> [![](tn/generic.jpg)  
-Click to view](img/18200.jpg)  
+Click to view](img/18200.jpg.md)  
 The Circle Sehert-baiu-s.
 
  
@@ -493,7 +493,7 @@ out to Ra. The name of this Circle is SEHERT-BAIU-S."
  
 
 <span id="img_18300"></span> [![](tn/generic.jpg)  
-Click to view](img/18300.jpg)  
+Click to view](img/18300.jpg.md)  
 The Circle Aat-setekau.
 
  
@@ -515,7 +515,7 @@ names are:--
  
 
 <span id="img_18400"></span> [![](tn/generic.jpg)  
-Click to view](img/18400.jpg)  
+Click to view](img/18400.jpg.md)  
 The door Tes-amem-mit-em-sheta-f.
 
  
@@ -538,4 +538,4 @@ god Nu, who appears to be over the "chamber of destruction."
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. The Ninth Division of the Tuat, Which Is Called
-Best-Aru-Ankhet-Kheperu](bat12)
+Best-Aru-Ankhet-Kheperu](bat12.md)

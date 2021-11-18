@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc29)  [Next](fotc31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc29)  [Next](fotc31.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -32,4 +32,4 @@ reconciled by the mediation of indifferent friends and neighbours.
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Sir Lauchlan Maclean in 1598](fotc31)
+[Next: The Death of Sir Lauchlan Maclean in 1598](fotc31.md)

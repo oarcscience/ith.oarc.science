@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl31)  [Next](isl33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl31)  [Next](isl33.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ Apostle. Of like fashion are all the innovators--the Jahmīya, the
 Murji’a--deviators in their innovations, who dissent from the Book and
 the *Sunna*, and that upon which the Prophet and his Companions take
 their stand and the Community have unanimously agreed, as do the
-Qadarīya, Mu‘tazila. . . . <span id="fr_139"></span>[4](#fn_139)
+Qadarīya, Mu‘tazila. . . . <span id="fr_139"></span>[4](#fn_139.md)
 
  
 
@@ -178,7 +178,7 @@ over it save God?
 
 *Answer*: It has no agent who makes it as it really is save God, and no
 one with power over it so that it will be as it really is, in the sense
-that he creates it, save God. <span id="fr_140"></span>[5](#fn_140)
+that he creates it, save God. <span id="fr_140"></span>[5](#fn_140.md)
 
  
 
@@ -218,21 +218,21 @@ evil.
 
 *Answer*: Certainly. And if He declared it to be good, it would be good;
 and if He commanded it, no one could gainsay Him. <span
-id="fr_141"></span>[6](#fn_141)
+id="fr_141"></span>[6](#fn_141.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_139"></span>[193:4](isl32.htm#fr_139) <span
+<span id="fn_139"></span>[193:4](isl32.htm#fr_139.md) <span
 id="page_249">p. 249</span> W. Klein, trans., *Kitāb al-Ibāna ‘an Usul
 al-Diyāna* (New Haven, 1940), pp. 47-49.
 
-<span id="fn_140"></span>[193:5](isl32.htm#fr_140) R. J. McCarthy S.J.,
+<span id="fn_140"></span>[193:5](isl32.htm#fr_140.md) R. J. McCarthy S.J.,
 trans., *Kitāb al-Luma‘* (Beirut, 1953), pp. 55, 56.
 
-<span id="fn_141"></span>[193:6](isl32.htm#fr_141) *Ibid*., pp. 99, 100.
+<span id="fn_141"></span>[193:6](isl32.htm#fr_141.md) *Ibid*., pp. 99, 100.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Al-Juwaynī](isl33)
+[Next: 4. Al-Juwaynī](isl33.md)

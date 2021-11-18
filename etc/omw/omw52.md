@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw51)  [Next](omw53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw51)  [Next](omw53.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ once more.
 ------------------------------------------------------------------------
 
 [Next: Math, the Son of Mathonwy: Part III. Gwydion and
-Arianrhod](omw53)
+Arianrhod](omw53.md)

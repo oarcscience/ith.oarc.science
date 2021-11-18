@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index)  [Celtic
-Folklore](../celt/index) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md)  [Celtic
+Folklore](../celt/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ many of the stories in these books center around cattle raids, they have
 numerous supernatural incidents and remnants of pre-Christian religious
 beliefs.
 
--   [Volume I.](hroiv1) \[1905\] *393,186 bytes*  
+-   [Volume I.](hroiv1.md) \[1905\] *393,186 bytes*  
     The first volume contains five separate stories, the "Courtship of
     Etain," the "Boar of Mac Datho," the "Sick-bed of Cuchulain," the
     "Death of the Sons of Usnach" (Book of Leinster version), and the
@@ -26,7 +26,7 @@ beliefs.
     "Tain bo Cuailnge." Two versions are given of the "Courtship of
     Etain "; and the "Sick-bed of Cuchulain".
 
--   [Volume II.](hroiv2) \[1906\] *230,468 bytes*  
+-   [Volume II.](hroiv2.md) \[1906\] *230,468 bytes*  
     This part includes the five "Tains" or Cattle-Forays of Fraech (Tain
     bo Fraich), Dartaid (The Raid for Dartaid's Cattle), Regamon (The
     Raid for the Cattle of Regamon), Flidais (The Driving of the Cattle

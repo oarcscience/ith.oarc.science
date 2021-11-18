@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq08)  [Next](sfq10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq08)  [Next](sfq10.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ sprang at her to devour her; but, when he came nearer, he was amazed at
 the sight of her loveliness, and all his rage turned to pity. Instead of
 tearing her to pieces, he kissed her weary feet and licked her lily hand
 as if he knew how innocent and wronged she was. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 When Una saw the gentleness of this kingly creature, she could not help
 weeping.
@@ -187,9 +187,9 @@ and Una's heart was filled with joy.
 
 ### Footnotes
 
-<span id="fn_1"></span>[18:1](sfq09.htm#fr_1) The figure of the lion may
+<span id="fn_1"></span>[18:1](sfq09.htm#fr_1.md) The figure of the lion may
 be taken as the emblem of Honour, which always pays respect to Truth.
 
 ------------------------------------------------------------------------
 
-[Next: In the Hands of the Enemy](sfq10)
+[Next: In the Hands of the Enemy](sfq10.md)

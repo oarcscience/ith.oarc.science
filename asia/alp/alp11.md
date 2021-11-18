@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp10) 
-[Next](alp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp10.md) 
+[Next](alp12.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Lest thou my loved one banish with thy light;
 
 ------------------------------------------------------------------------
 
-[Next: Black Eyes](alp12)
+[Next: Black Eyes](alp12.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas002n)  [Next](jas004n)   
- \[[3. Tiger as Riding-horse.](jas003)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas002n)  [Next](jas004n.md)   
+ \[[3. Tiger as Riding-horse.](jas003.md)\]
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ The story is coupled here with the murder in midstream.
 
 ------------------------------------------------------------------------
 
-[Next: Note 4. Tiger's Sheep-skin Suit.](jas004n)
+[Next: Note 4. Tiger's Sheep-skin Suit.](jas004n.md)

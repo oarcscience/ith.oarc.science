@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu23)  [Next](tmu25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu23)  [Next](tmu25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ of ten kinds: and so is niyama. There are eight āsanas. Prāṇāyāma is of
 three kinds; praṭyāhāra is of five kinds: so also is ḍhāraṇā. Ḍhyāna is
 of two kinds, and samāḍhi is of one kind only.
 
-"Under yama (forbearance) are ten: <span id="fr_121"></span>[1](#fn_120)
+"Under yama (forbearance) are ten: <span id="fr_121"></span>[1](#fn_120.md)
 ahimsā, saṭya, asṭeya brahmacharya, ḍayā, ārjava, kshamā, ḍhṛṭi,
 miṭāhāra, and śaucha. Of these, ahimsā is the not causing of any pain to
 any living being at any time through the actions of one's mind, speech,
@@ -107,7 +107,7 @@ ease with the body erect,) pressing the right side (of the thigh) with
 the hollow of left heel and *vice versa*. Rest your hands on the knees,
 spread out the fingers, open your mouth and carefully fix your gaze on
 the tip of your nose. This is always praised by the yogins. Siḍḍha <span
-id="fr_122"></span>[1](#fn_121) is (the sitting at ease with the body
+id="fr_122"></span>[1](#fn_121.md) is (the sitting at ease with the body
 erect), pressing the perineum with the left heel and placing the heel of
 the right foot above the genital organ, concentrating the mind between
 the two eyebrows. Bhaḍra is (the sitting at ease with the body
@@ -157,7 +157,7 @@ rides upon prāṇa. Lying in the middle of the navel and above it, is the
 seat of kunḍalinī. The kunḍalinī śakṭi is of the form of eight prakṛṭis
 (matter) and coils itself eight ways or (times). The movement of vāyus
 (vital airs) checks duly the food and drink all round by the side of
-skanḍha. <span id="fr_123"></span>[1](#fn_122) It closes by its head
+skanḍha. <span id="fr_123"></span>[1](#fn_122.md) It closes by its head
 (the opening of) the brahmaranḍhra, and during the time of (the practice
 of) yoga is awakened by the fire (in the apāna); then it shines with
 great brilliancy in the ākāś of the heart in the shape of wisdom.
@@ -178,9 +178,9 @@ poison share is of the sun and the nectar of the moon. They both direct
 (or indicate) time and Sushumnā is the enjoyer (or consumer) of time. To
 the back and on the side of Sushumnā are situate Sarasvaṭī and Kuhūḥ
 respectively. Between Yaśasvinī and Kuhūḥ stands Vāruṇī. Between Pasha
-and Sarasvaṭī lies Payasvinī. <span id="fr_124"></span>[1](#fn_123)
+and Sarasvaṭī lies Payasvinī. <span id="fr_124"></span>[1](#fn_123.md)
 Between Gānḍhārī and Sarasvaṭī is situated Yaśasvinī. <span
-id="fr_125"></span>[2](#fn_124) In the centre of the navel is Alambusā.
+id="fr_125"></span>[2](#fn_124.md) In the centre of the navel is Alambusā.
 In front of Sushumnā there is Kuhūḥ, which proceeds as far as the
 genital organ. Above and below kunḍalinī is situated Vāruṇī, which
 proceeds everywhere. Yaśasvinī which is beautiful (or belonging to the
@@ -211,7 +211,7 @@ spread in the body. It moves in the seventy-two thousand nādis and
 pervades all over the body along with the fire. The five vāyus beginning
 with Naga go towards the skin, the bones, etc. The Prāṇa which is in the
 navel separates the food and drink which is there and brings about the
-rasas (juices) and others. <span id="fr_126"></span>[1](#fn_125) Placing
+rasas (juices) and others. <span id="fr_126"></span>[1](#fn_125.md) Placing
 the water above the fire and the food above (or in) the water, it goes
 to the Apāna and along with it, fans up the fire in the centre of the
 body. The fire thus fanned up by the Apāna gradually increases in
@@ -250,24 +250,24 @@ with fruits, roots, flowers, and water. (Else) either in a temple or on
 the banks of a river or in a village or in a town, he should build a
 beautiful monastery. It should be neither too long nor too high, should
 have a small door, should be besmeared well with cow-dung and should
-have every sort of protection. <span id="fr_127"></span>[1](#fn_126)
+have every sort of protection. <span id="fr_127"></span>[1](#fn_126.md)
 There listening to the exposition of veḍānṭa, he should begin to
 practise yoga, In the beginning having worshipped Vināyaka <span
-id="fr_128"></span>[2](#fn_127) (Gaṇeśa), he should salute his
+id="fr_128"></span>[2](#fn_127) (Gaṇeśa.md), he should salute his
 Ishta-Ḍevaṭā (tutelary deity) and sitting in any of the above-mentioned
 postures on a soft seat, facing either the east or the north and having
 conquered them, the learned man keeping his head and neck erect and
 fixing his gaze on the tip of his nose, should see the sphere of the
 moon between his eyebrows and drink the nectar (flowing therefrom
 through his eyes. Inhaling the air through Idā <span
-id="fr_129"></span>[3](#fn_128) for the space of twelve māṭrās, <span
-id="fr_130"></span>[4](#fn_129) he should contemplate on the sphere of
-fire <span id="fr_131"></span>[5](#fn_130) situated in the belly as
+id="fr_129"></span>[3](#fn_128.md) for the space of twelve māṭrās, <span
+id="fr_130"></span>[4](#fn_129.md) he should contemplate on the sphere of
+fire <span id="fr_131"></span>[5](#fn_130.md) situated in the belly as
 surrounded with flames and having as its seed र (ra); then he should
 exhale it through Piṅgalā. Again inhaling it through Piṅgalā <span
-id="fr_132"></span>[3](#fn_128) and retaining it (within), he should
+id="fr_132"></span>[3](#fn_128) and retaining it (within.md), he should
 exhale it through Idā. For the period of twenty-eight months, <span
-id="fr_133"></span>[6](#fn_131) he should practise six times at every
+id="fr_133"></span>[6](#fn_131.md) he should practise six times at every
 sitting through the three sanḍhyās (morning, noon, and evening)
 
 <span id="page_180">p. 180</span>
@@ -279,17 +279,17 @@ and there is the manifestation of nāḍa (internal sound).
 "Prāṇāyāma is said to be the union of Prāṇa and Apāna. It is of three
 kinds—expiration, inspiration, and cessation. They are associated with
 the letters of the (Samskṛṭ) alphabet <span
-id="fr_134"></span>[1](#fn_132) (for the right performance of
+id="fr_134"></span>[1](#fn_132.md) (for the right performance of
 prāṇāyāma). Therefore Praṇava (<span class="smallcaps">Om</span>) only
 is said to be Prāṇāyāma. Sitting in the paḍma posture, the person should
 meditate that there is at the tip of his nose Gāyaṭrī, <span
-id="fr_135"></span>[2](#fn_133) a girl of red complexion surrounded by
+id="fr_135"></span>[2](#fn_133.md) a girl of red complexion surrounded by
 the numberless rays of the image of the moon and mounted on a hamsa
 (swan) and having a mace in her hand. She is the visible symbol of the
 letter A. The letter U has as its visible symbol Sāviṭrī, <span
-id="fr_136"></span>[2](#fn_133) a young woman of white colour having a
+id="fr_136"></span>[2](#fn_133.md) a young woman of white colour having a
 disk in her hand and riding on a garuda (eagle). The letter M has as its
-visible symbol Sarasvaṭī, <span id="fr_137"></span>[2](#fn_133) an aged
+visible symbol Sarasvaṭī, <span id="fr_137"></span>[2](#fn_133.md) an aged
 woman of black colour riding on a bull, having a trident in her hand. He
 should meditate that the single letter—the supreme light—the praṇava
 (<span class="smallcaps">Om</span>)—is the origin or source of these
@@ -330,7 +330,7 @@ milk and ghee is excellent. One sticking to this rule becomes firm in
 his practice and gets no ṭāpa (or burning sensation in the body). As
 lions, elephants and tigers are gradually tamed, so also the breath,
 when rightly managed (comes under control); else it kills the
-practitioner. <span id="fr_138"></span>[1](#fn_134)
+practitioner. <span id="fr_138"></span>[1](#fn_134.md)
 
 "He should (as far as is consistent with his health and safety) properly
 exhale it, properly inhale it or retain it properly. Thus (only) will he
@@ -342,7 +342,7 @@ practice of Prāṇāyāma, the air easily forces its way up through the
 mouth of the Sushumnā which is in the middle. By the contraction of the
 muscles of the neck and by the contraction of the one below (*viz*.,)
 Apāna, the Prāṇa (breath) goes into the Sushumnā which is in the middle
-from the west nādi. <span id="fr_139"></span>[2](#fn_135) Drawing
+from the west nādi. <span id="fr_139"></span>[2](#fn_135.md) Drawing
 
 <span id="page_182">p. 182</span>
 
@@ -372,8 +372,8 @@ worlds. By kevala-restraint of breath, the knowledge of kunḍalinī
 arises. Then he becomes lean in body, serene in face and clear-eyed,
 hears the (spiritual) sounds distinctly, becomes free from all diseases
 and conquers his (binḍu) seminal fluid, <span
-id="fr_140"></span>[1](#fn_136) his gastric fire being increased. <span
-id="fr_141"></span>[2](#fn_137)
+id="fr_140"></span>[1](#fn_136.md) his gastric fire being increased. <span
+id="fr_141"></span>[2](#fn_137.md)
 
 "Centring one's mind on an inward object whilst his eyes are looking
 outside without the shutting and opening of his eyelids, has been called
@@ -399,7 +399,7 @@ the destruction of the mind. Therefore he should practise the
 Khecharīmuḍrā. Then he attains to the state of Unmanī and falls into the
 yoga sleep (trance). To one who obtains this yoga sleep, time does not
 exist. Placing the mind in the midst of śakṭi and śakṭi <span
-id="fr_142"></span>[1](#fn_138) in the midst of the mind and looking on
+id="fr_142"></span>[1](#fn_138.md) in the midst of the mind and looking on
 the mind with the mind, O Śāndilya be happy. Place the Āṭma in the midst
 of ākāś and ākāś in the midst of Āṭmā, and having reduced everything to
 ākāś, do not think of anything else. You should not (then) entertain
@@ -442,7 +442,7 @@ tongue with effort and when the breath goes up through (the upper hole),
 then the fluctuations of prāṇa are stopped. When the consciousness
 (samviṭ) is merged in prāṇa, and when through practice the prāṇa goes
 through the upper hole into the ḍvāḍasānṭa <span
-id="fr_143"></span>[1](#fn_139) (the twelfth centre) above the palate,
+id="fr_143"></span>[1](#fn_139) (the twelfth centre.md) above the palate,
 then the fluctuations of prāṇa are stopped. When the eye of
 consciousness (*viz*., the spiritual or third eye) becomes calm and
 clear so as to be able to distinctly see in the transparent ākāś at a
@@ -450,7 +450,7 @@ distance of twelve digits from the tip of his nose, then the
 fluctuations of prāṇa are stopped. When the thoughts arising in the mind
 are bound up in the calm contemplation of the world of ṭāraka (star or
 eye) between one's eyebrows and are (thus) destroyed, then the
-fluctuations cease. When the [knowledge](errata.htm#12) which is of the
+fluctuations cease. When the [knowledge](errata.htm#12.md) which is of the
 form of the knowable,
 
 <span id="page_185">p. 185</span>
@@ -497,7 +497,7 @@ chiṭṭa (mind) both move in the ākāś (khecharī), then the person with his
 tongue raised up becomes immortal. Firmly pressing the yoni (perineum)
 by the left heel, stretching out the right leg, grasping the feet with
 both hands and inhaling the air through the nostrils, practise
-kaṇtha-banḍha, <span id="fr_144"></span>[1](#fn_140) retaining the air
+kaṇtha-banḍha, <span id="fr_144"></span>[1](#fn_140.md) retaining the air
 upwards. By that, all afflictions are destroyed; then poison is digested
 as if it were nectar. Asthma, splenetic disease, the turning up of the
 anus and the numbness of the skin are removed. This is the means of
@@ -541,20 +541,20 @@ hundred births.
 "Through the samyama of ṭāra (<span class="smallcaps">Om</span>), he
 knows all things. By retaining the mind at the tip of his nose, he
 acquires a knowledge of Inḍra-world; <span
-id="fr_145"></span>[1](#fn_141) below that, he acquires a knowledge of
-Agni-(fire) world. <span id="fr_146"></span>[1](#fn_141) Through the
+id="fr_145"></span>[1](#fn_141.md) below that, he acquires a knowledge of
+Agni-(fire) world. <span id="fr_146"></span>[1](#fn_141.md) Through the
 samyama of chiṭṭa in the eye, he gets a knowledge of all worlds: in the
 ear, a knowledge of Yama-(the god of death) world: <span
-id="fr_147"></span>[1](#fn_141) in the sides of the ear, a knowledge of
-Nṛṛṭi-world: <span id="fr_148"></span>[1](#fn_141) in the back of it
+id="fr_147"></span>[1](#fn_141.md) in the sides of the ear, a knowledge of
+Nṛṛṭi-world: <span id="fr_148"></span>[1](#fn_141.md) in the back of it
 (the ear), a knowledge of Varuṇa-world: <span
-id="fr_149"></span>[1](#fn_141) in the left ear, a knowledge of
-Vāyu-world: <span id="fr_150"></span>[1](#fn_141) in the throat, a
-knowledge of Soma-(moon) world: <span id="fr_151"></span>[1](#fn_141) in
+id="fr_149"></span>[1](#fn_141.md) in the left ear, a knowledge of
+Vāyu-world: <span id="fr_150"></span>[1](#fn_141.md) in the throat, a
+knowledge of Soma-(moon) world: <span id="fr_151"></span>[1](#fn_141.md) in
 the left eye, a knowledge of Śiva-world: <span
-id="fr_152"></span>[1](#fn_141) in the head, a knowledge of
-Brahmā-world: <span id="fr_153"></span>[1](#fn_141) in the soles of the
-feet, a knowledge of Aṭala world: <span id="fr_154"></span>[2](#fn_142)
+id="fr_152"></span>[1](#fn_141.md) in the head, a knowledge of
+Brahmā-world: <span id="fr_153"></span>[1](#fn_141.md) in the soles of the
+feet, a knowledge of Aṭala world: <span id="fr_154"></span>[2](#fn_142.md)
 in the feet, a knowledge of Viṭala world: in the ankles, a knowledge of
 Niṭala (rather Suṭala) world: in the calves, a knowledge of Suṭala
 (rather Ṭalāṭāla world): in the knees, a knowledge of Mahāṭala world: in
@@ -635,7 +635,7 @@ known makes everything else known. It is without hands and feet, without
 eyes and ears, without tongue or without body, and is unreachable and
 undefinable. From which, vāk (speech) and mind return, being unable to
 obtain (or reach) It. It is to be cognised by jñāna and yoga. <span
-id="fr_155"></span>[1](#fn_143) From which, prajñā of old sprang. That
+id="fr_155"></span>[1](#fn_143.md) From which, prajñā of old sprang. That
 which is one and non-dual, that which pervades everything like ākāś,
 which is extremely subtle, without a blemish, actionless, saṭ (be-ness)
 only, the essence of the bliss of consciousness, beneficent, calm and
@@ -669,8 +669,8 @@ sakalā-nishkalā aspect. Then the Lord desired (or willed) by his
 spiritual wisdom (thus): May I become many?; may I bring forth? Then
 from this Person who was contemplating and whose desires are fulfilled,
 three letters sprang up. Three vyāhṛṭis, <span
-id="fr_156"></span>[1](#fn_144) the three-footed Gāyaṭrī, <span
-id="fr_157"></span>[1](#fn_144) the three Veḍas, the three ḍevas, the
+id="fr_156"></span>[1](#fn_144.md) the three-footed Gāyaṭrī, <span
+id="fr_157"></span>[1](#fn_144.md) the three Veḍas, the three ḍevas, the
 three varṇas (colours or castes) and the three fires sprang. That
 Supreme Lord who is endowed with all kinds of wealth, who is all
 pervading, who is situated in the hearts of all beings, who is the Lord
@@ -679,7 +679,7 @@ He is Inḍra: He is all the ḍevas: He is all the bhūṭas (elements or
 beings): He only is before: He only is behind: He only is on our left:
 He only is on our right: He only is below: He only is above: He only is
 the all. That form of him as Ḍaṭṭāṭreya, <span
-id="fr_158"></span>[2](#fn_145) who sports with his Śakṭi, who is kind
+id="fr_158"></span>[2](#fn_145.md) who sports with his Śakṭi, who is kind
 to his devotees, who is brilliant as fire, resembling the petals or a
 red lotus and is of four hands, who is mild and shines sinlessly—this is
 His sakalā form."
@@ -721,62 +721,62 @@ Upanishaḍ."
 
 ### Footnotes
 
-<span id="fn_120"></span>[173:1](tmu24.htm#fr_121) Under yama and niyama
+<span id="fn_120"></span>[173:1](tmu24.htm#fr_121.md) Under yama and niyama
 Paṭañjali has five kinds only.
 
-<span id="fn_121"></span>[175:1](tmu24.htm#fr_122) In the explanation
+<span id="fn_121"></span>[175:1](tmu24.htm#fr_122.md) In the explanation
 one more posture is introduced.
 
-<span id="fn_122"></span>[176:1](tmu24.htm#fr_123) In Varāha Upanishaḍ
+<span id="fn_122"></span>[176:1](tmu24.htm#fr_123.md) In Varāha Upanishaḍ
 and later on, this is named "Kanḍha". Herein is described the web of
 life.
 
-<span id="fn_123"></span>[177:1](tmu24.htm#fr_124) This should be
+<span id="fn_123"></span>[177:1](tmu24.htm#fr_124.md) This should be
 perhaps—between Piṅgalā and Payasvinī is Pūshā.
 
-<span id="fn_124"></span>[177:2](tmu24.htm#fr_125) Yaśasvinī should be
+<span id="fn_124"></span>[177:2](tmu24.htm#fr_125.md) Yaśasvinī should be
 "Śāṅkhinī."
 
-<span id="fn_125"></span>[178:1](tmu24.htm#fr_126) Here the process of
+<span id="fn_125"></span>[178:1](tmu24.htm#fr_126.md) Here the process of
 digestion of food is described.
 
-<span id="fn_126"></span>[179:1](tmu24.htm#fr_127) Both by physical
+<span id="fn_126"></span>[179:1](tmu24.htm#fr_127.md) Both by physical
 protection and that of manṭras to scare away evil spirits.
 
-<span id="fn_127"></span>[179:2](tmu24.htm#fr_128) He is the son of
+<span id="fn_127"></span>[179:2](tmu24.htm#fr_128.md) He is the son of
 Śiva, having an elephant's face symbolical of wisdom. He is considered
 as the remover of all obstacles, and as such is he invoked and
 worshipped in the beginning of every religious rite.
 
-<span id="fn_128"></span>[179:3](tmu24.htm#fr_132) Idā and Piṅgalā are
+<span id="fn_128"></span>[179:3](tmu24.htm#fr_132.md) Idā and Piṅgalā are
 the two nādis upon which our breaths alternate from the left nostril to
 the right and *vice versa* and between which is Sushumnā. Hence these
 two terms are applied to and mean the left and right nostrils.
 
-<span id="fn_129"></span>[179:4](tmu24.htm#fr_130) According to
+<span id="fn_129"></span>[179:4](tmu24.htm#fr_130.md) According to
 Yogaṭaṭṭva-Upanishaḍ, a māṭrā is the time occupied in circling the knee
 once with the palm of the hand and filliping the fingers.
 
-<span id="fn_130"></span>[179:5](tmu24.htm#fr_131) According to
+<span id="fn_130"></span>[179:5](tmu24.htm#fr_131.md) According to
 Varāha-Upanishaḍ the seat of fire is the mūlāḍhāra (sacral plexus).
 
-<span id="fn_131"></span>[179:6](tmu24.htm#fr_133) The original is not
+<span id="fn_131"></span>[179:6](tmu24.htm#fr_133.md) The original is not
 clear. It says, "For the space of 3, 4, 3, 4, 7, 3 and 4 months" which
 when added becomes 28.
 
-<span id="fn_132"></span>[180:1](tmu24.htm#fr_134) According to the
+<span id="fn_132"></span>[180:1](tmu24.htm#fr_134.md) According to the
 Manṭra Sāsṭra, Prāṇāyāma is performed through the letters of Samskṛṭ
 alphabet, the vowels corresponding to inspiration, etc.
 
-<span id="fn_133"></span>[180:2](tmu24.htm#fr_137) These are the
+<span id="fn_133"></span>[180:2](tmu24.htm#fr_137.md) These are the
 Goddesses representing Śakṭi and being the wives of Brahmā, Vishṇu, and
 Ruḍra.
 
-<span id="fn_134"></span>[181:1](tmu24.htm#fr_138) This passage clearly
+<span id="fn_134"></span>[181:1](tmu24.htm#fr_138.md) This passage clearly
 indicates the dreadful consequences of the performance of Prāṇāyāma
 rashly and without a guru.
 
-<span id="fn_135"></span>[181:2](tmu24.htm#fr_139) As already pointed
+<span id="fn_135"></span>[181:2](tmu24.htm#fr_139.md) As already pointed
 out, the Sushumnā nādi is between Idā and Piṅgalā. If Prāṇa which
 alternates ordinarily between Idā and Piṅgalā is restrained by long
 <span id="page_182">p. 182</span> kumbhaka, then it along with the soul,
@@ -786,46 +786,46 @@ breath and in the navel, from the Sarasvaṭī nādi on the west. After such
 entry it is that the yogin becomes dead to the world, being in the state
 called trance.
 
-<span id="fn_136"></span>[182:1](tmu24.htm#fr_140) Through such and
+<span id="fn_136"></span>[182:1](tmu24.htm#fr_140.md) Through such and
 other methods of Prāṇāyāma prescribed in this passage and the subsequent
 ones, chronic diseases that defy European doctors will be rooted out.
 
-<span id="fn_137"></span>[182:2](tmu24.htm#fr_141) He becomes an
+<span id="fn_137"></span>[182:2](tmu24.htm#fr_141.md) He becomes an
 Ūrḍhva-rēṭas—his vital energy goes up.
 
-<span id="fn_138"></span>[183:1](tmu24.htm#fr_142) There are six centres
+<span id="fn_138"></span>[183:1](tmu24.htm#fr_142.md) There are six centres
 of energy in the body (mūlāḍhāra, sacral plexus, etc.), which are
 presided over by six sakṭis (goddesses of energy).
 
-<span id="fn_139"></span>[184:1](tmu24.htm#fr_143) This twelfth centre
+<span id="fn_139"></span>[184:1](tmu24.htm#fr_143.md) This twelfth centre
 is identified by some with the pituitary body in the head, there being
 six centres in the brain besides the six below the brain.
 
-<span id="fn_140"></span>[186:1](tmu24.htm#fr_144) Lit., binding the air
+<span id="fn_140"></span>[186:1](tmu24.htm#fr_144.md) Lit., binding the air
 up the throat.
 
-<span id="fn_141"></span>[187:1](tmu24.htm#fr_153) These correspond
+<span id="fn_141"></span>[187:1](tmu24.htm#fr_153.md) These correspond
 severally to the several directions and the ḍevaṭās presiding over them,
 corresponding respectively to east, south-east, south, southwest, west,
 north-west, north, and north-east.
 
-<span id="fn_142"></span>[187:2](tmu24.htm#fr_154) The fourteen worlds,
+<span id="fn_142"></span>[187:2](tmu24.htm#fr_154.md) The fourteen worlds,
 lokas and ṭalas are referred to; the order in ṭalas seems to be wrong,
 Ṭalaṭala should be in the middle.
 
-<span id="fn_143"></span>[189:1](tmu24.htm#fr_155) Some texts leave the
+<span id="fn_143"></span>[189:1](tmu24.htm#fr_155.md) Some texts leave the
 words "and yoga".
 
-<span id="fn_144"></span>[190:1](tmu24.htm#fr_157) These relate to the
+<span id="fn_144"></span>[190:1](tmu24.htm#fr_157.md) These relate to the
 Gāyaṭrī manṭras depending upon sound.
 
-<span id="fn_145"></span>[190:2](tmu24.htm#fr_158) According to
+<span id="fn_145"></span>[190:2](tmu24.htm#fr_158.md) According to
 Bhāgavaṭa, he is one of the minor incarnations of Vishṇu.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 23. Yogaṭaṭṭva-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu25)
+[Next: 23. Yogaṭaṭṭva-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu25.md)
 
 </div>

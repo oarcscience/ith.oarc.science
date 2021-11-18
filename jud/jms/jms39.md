@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms38)  [Next](jms40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms38)  [Next](jms40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 #### A.—A NOTE ABOUT THE SOURCES
 
 Although this book is concerned primarily with the Jewish Middle Ages
-(c. 1000-1600), <span id="fr_0"></span>[\*](#fn_0) it has been necessary
+(c. 1000-1600), <span id="fr_0"></span>[\*](#fn_0.md) it has been necessary
 to pay considerable attention to source material originating in earlier
 periods, particularly to the Talmud. This encyclopedia of Jewish law,
 customs and beliefs was accepted as the final word on all matters
@@ -159,11 +159,11 @@ referred to in the notes is fully indicated there.
 
 ### Footnotes
 
-<span id="fn_0"></span>[315:\*](jms39.htm#fr_0) See S. W. Baron, *A
+<span id="fn_0"></span>[315:\*](jms39.htm#fr_0.md) See S. W. Baron, *A
 Social and Religious History of the Jews*, N. Y. 1937, III, 116; and
 Abrahams, *Jewish Life in the Middle Ages*, Introd., for a discussion of
 the application of the term "Middle Ages" to Jewish history.
 
 ------------------------------------------------------------------------
 
-[Next: B. Hebrew Sources, Printed](jms40)
+[Next: B. Hebrew Sources, Printed](jms40.md)

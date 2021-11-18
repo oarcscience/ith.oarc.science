@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck26)  [Next](peck28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck26)  [Next](peck28.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ reddened with her warm blood.
 
 ------------------------------------------------------------------------
 
-[Next: The Clinging Koala](peck28)
+[Next: The Clinging Koala](peck28.md)

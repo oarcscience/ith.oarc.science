@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str02)  [Next](str04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str02)  [Next](str04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -15,12 +15,12 @@ Stukeley, \[1740\], at Intangible Textual Heritage
 
 <span id="img_pl01"></span> <span align="CENTER"> [![Plate 1: A
 Druid](tn/pl01.jpg)  
-Click to enlarge](img/pl01.jpg)  
+Click to enlarge](img/pl01.jpg.md)  
 Plate 1: A Druid  
 </span>
 
 <span id="img_00100"></span> ![Title: Stonehenge: A Work of the British
-Druids Describd](img/00100.jpg)
+Druids Describd](img/00100.jpg.md)
 
 ### CHAP. I.
 
@@ -129,7 +129,7 @@ thereupon.
 of the Roman Road and Wansdike Just above Calston, May 20, 1724. This
 demonstrates that Wansdike was made before the Roman
 Road.](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 Plate 2. Prospect of the Roman Road and Wansdike Just above Calston, May
 20, 1724. This demonstrates that Wansdike was made before the Roman
 Road.  
@@ -274,7 +274,7 @@ advanc'd post of the *Belgæ* northwards, and that it was
 
 <span id="img_pl03"></span> <span align="CENTER"> [![Plate 3. Prospect
 of Stonehenge from the East by Vespasians camp](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 Plate 3. Prospect of Stonehenge from the East by Vespasians camp  
 </span>
 
@@ -417,7 +417,7 @@ originally design’d measure,
 <span id="img_pl04"></span> <span align="CENTER"> [![Plate 4. A View a
 little beyond Woodyates where the Ikening Street crosses part of a
 Druids barrow. Jun. 9, 1724.](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 Plate 4. A View a little beyond Woodyates where the Ikening Street
 crosses part of a Druids barrow. Jun. 9, 1724.  
 </span>
@@ -468,4 +468,4 @@ believe, which will be shown in its proper place.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](str04)
+[Next: Chapter II](str04.md)

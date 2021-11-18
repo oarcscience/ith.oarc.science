@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc05)  [Next](ogc07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc05)  [Next](ogc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ which occurs in the things of Nature.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](ogc07)
+[Next: Chapter 7](ogc07.md)

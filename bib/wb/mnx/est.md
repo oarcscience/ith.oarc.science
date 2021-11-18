@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Next](jon) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Next](jon.md) 
 
 ------------------------------------------------------------------------
 
@@ -746,4 +746,4 @@ ooilley e chynney.
 
 ------------------------------------------------------------------------
 
-[Next: Jonah](jon)
+[Next: Jonah](jon.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha08)  [Next](maha10) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha08)  [Next](maha10.md) 
 
 ------------------------------------------------------------------------
 
@@ -1026,6 +1026,6 @@ Rites (Sangskara)."
 ------------------------------------------------------------------------
 
 [Next: Chapter 10 - Rites relating to Vriddhi Shraddha, Funeral Rites,
-and Purnabhisheka](maha10)
+and Purnabhisheka](maha10.md)
 
   

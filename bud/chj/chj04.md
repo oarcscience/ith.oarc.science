@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj03)  [Next](chj05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj03)  [Next](chj05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -24,15 +24,15 @@ Appearance</span>
 
 <span class="smallcaps">The</span> Sūtras which are commonly received as
 giving an authentic account of the teachings of the S’akyamuni, <span
-id="fr_1"></span>[1](#fn_1) will also furnish us with certain
+id="fr_1"></span>[1](#fn_1.md) will also furnish us with certain
 geographical and other data which are necessary for us if we would form
 a correct picture of India in the sixth century B.C., the India in which
-S’akyamuni taught and laboured. <span id="fr_2"></span>[2](#fn_2)
+S’akyamuni taught and laboured. <span id="fr_2"></span>[2](#fn_2.md)
 
 We need not take a very wide geographical survey. What actually concerns
 us is a small portion of the valley of the Ganges, comprising
 practically the two districts of Oudh and Behar, <span
-id="fr_3"></span>[3](#fn_3) stretching to the east as far as Patna, to
+id="fr_3"></span>[3](#fn_3.md) stretching to the east as far as Patna, to
 the west as far as Allahabad. The Himalayas form the northern boundary
 of S’akyamuni's country, the Ganges is practically its southern limit;
 the only exception being that Bodhigaya and the district intimately
@@ -52,7 +52,7 @@ country in which the Wheel of the Law was set in motion.
 The India of S’akyamuni's time was under the domination of an Aryan
 race, which had conquered the land and brought into it institutions not
 unlike those which we find in some other Aryan countries, Athens, for
-instance. <span id="fr_4"></span>[1](#fn_4) They had divided the
+instance. <span id="fr_4"></span>[1](#fn_4.md) They had divided the
 population into four great castes, of whom the fourth, possibly also the
 third, may have been mixed with some of the conquered races, whilst the
 two higher ones certainly belonged to the nobility of the conquest. In
@@ -72,7 +72,7 @@ distinguished
 
 from one another by tribal names as well, such as Licchāvis, Vrijjis,
 Mallas, Andhas, etc., some of which remain to the present day. The
-S’akyan nobles, <span id="fr_5"></span>[1](#fn_5) it is said, welcomed
+S’akyan nobles, <span id="fr_5"></span>[1](#fn_5.md) it is said, welcomed
 the person of S’akyamuni, their kinsman prophet, whose teachings
 encouraged them in their resistance to Brahman usurpations, but they
 were not always equally willing to adopt his practical teachings. The
@@ -80,7 +80,7 @@ Brahmans, ultimately victorious in the struggle for political and
 religious supremacy in India, have had their revenge on these S’akyan
 tribes by refusing to consider them as families of pure descent. It is
 hard to determine the point. All Buddhists claim that S’akyamuni's
-lineage came from *Ikshvaku*, <span id="fr_6"></span>[2](#fn_6) the
+lineage came from *Ikshvaku*, <span id="fr_6"></span>[2](#fn_6.md) the
 descendant of Manu, the descendant of Brahma. Licchāvis ruled later, by
 virtue of Kshatriyan descent, in Nepaul, Bhutan, Ladakh, and (through
 marriage) in Tibet, and the Licchāvi dynasty in Nepaul was succeeded by
@@ -105,8 +105,8 @@ Bodhisattva *Manjuśri* (Jap. *Monju*), whose chief temple is at
 *Wu-tai-chan*, near Pekin, who is the patron deity, *par excellence*, of
 the western and northern tribes of China, and who is considered to be
 perpetually reincarnated in the person of the *Manchu* sovereign of
-China. <span id="fr_7"></span>[1](#fn_7) It seems probable, therefore,
-that *Manjuśri* <span id="fr_8"></span>[2](#fn_8) was originally the
+China. <span id="fr_7"></span>[1](#fn_7.md) It seems probable, therefore,
+that *Manjuśri* <span id="fr_8"></span>[2](#fn_8.md) was originally the
 deified hero of one of the tribes of Northern China, possibly the
 *Mantsze*, that he distinguished himself during his lifetime by his
 successful development and colonization of Nepaul, and that he was
@@ -137,7 +137,7 @@ they had penetrated as far as Turkestan in their travels.
 To the lowest class, the Sudras, belonged one at least of S’akyamuni's
 disciples, Upali, the barber. But there are traces of lower strata of
 society more degraded even than the Sudras. There is a record of a
-mission, <span id="fr_9"></span>[1](#fn_9) conducted by the master in
+mission, <span id="fr_9"></span>[1](#fn_9.md) conducted by the master in
 person, to a tribe of cannibals, whom he
 
 <span id="page_10">p. 10</span>
@@ -150,7 +150,7 @@ probably savages whose name was given to them from their worship of
 serpents (still practised in India). In the Nepaulese legend they appear
 as the original inhabitants of the swamps opened up by the civilizing
 Manjuśri. Driven out by Manjuśri, they take refuge in *Nāgaloka*, <span
-id="fr_10"></span>[1](#fn_10) the world of the Nāgas, or serpents, which
+id="fr_10"></span>[1](#fn_10.md) the world of the Nāgas, or serpents, which
 to the Nepaulese is Thibet. Strange to say, the Thibetan records also
 speak of Nāgas and Nāgaloka; but in their case Nāgaloka is China. This
 seems to me to be another instance of a very early intercourse between
@@ -158,7 +158,7 @@ India and China, or at least with those districts of Central Asia which
 had early connections with that empire.
 
 Hindoo philosophy, such as we now understand it, <span
-id="fr_11"></span>[2](#fn_11)
+id="fr_11"></span>[2](#fn_11.md)
 
 <span id="page_11">p. 11</span>
 
@@ -173,7 +173,7 @@ theological system which was to fetter the intellect as it had fettered
 the social liberties of the people; but the system was not yet
 completed, and there were many among the Kshatriyas who openly resisted
 the pretensions of the sacerdotal class. <span
-id="fr_12"></span>[1](#fn_12) It was, also, a period of great religious
+id="fr_12"></span>[1](#fn_12.md) It was, also, a period of great religious
 zeal and inquiry. Time and again, in reading the biographical notices
 connected with the proceedings of S’akyamuni, we find that his converts
 were men who had for years been searchers after truth; in some cases,
@@ -184,7 +184,7 @@ time there was but one path known for the searcher after truth to
 follow—the way of austerities and penance, which brought power and
 influence to the sacerdotal Brahmans, without always leading the
 searcher to the much-coveted enlightenment and peace. <span
-id="fr_13"></span>[2](#fn_13)
+id="fr_13"></span>[2](#fn_13.md)
 
 <span id="page_12">p. 12</span>
 
@@ -196,7 +196,7 @@ miles from the place where S’akyamuni went to his rest, apparently in
 the same year as his more celebrated rival. Jainism and Buddhism are
 kindred faiths, and the Jainists and Buddhists seem to have always
 looked upon one another as brethren, or, at least, as spiritual
-cousins. <span id="fr_14"></span>[1](#fn_14)
+cousins. <span id="fr_14"></span>[1](#fn_14.md)
 
 It was in such a country and in such an age that S’akyamuni was born.
 The son of Suddhodhana, King of Kapilavastu, and of his wife, the Lady
@@ -204,7 +204,7 @@ Māyā, his birth is said to have been accompanied with marvels which
 really belong to a later chapter of our book, and his boyhood was marked
 by a singular precocity of intellect and purity of character. The wise
 men summoned to the palace at the time of his birth, <span
-id="fr_15"></span>[2](#fn_15) and especially one of their number, the
+id="fr_15"></span>[2](#fn_15.md) and especially one of their number, the
 aged sage Asita, told the happy father that the newborn babe would be
 either an epoch-making emperor or a world-saving Buddha; and the father,
 feeling perhaps that charity should begin at home, determined that, if
@@ -217,7 +217,7 @@ he was surrounded
 
 with nothing but objects pleasant for his eye to rest upon, and the most
 beautiful person in his harem was his wife, the carefully selected
-Princess Yasodhārā. <span id="fr_16"></span>[1](#fn_16)
+Princess Yasodhārā. <span id="fr_16"></span>[1](#fn_16.md)
 
 Many incidents, however, show that his mind was not at ease in the midst
 of all his luxury, and this feeling of dissatisfaction was increased by
@@ -289,7 +289,7 @@ Pain must be taken in its widest sense); the root of Pain, which is the
 Lust that is in the human heart; the end to be attained, which is the
 Destruction of Desire; and the way to obtain it. Desire, Karma, the
 wheel of Life and Death: the quenching of Desire, the Destruction of
-Karma, the Peace of Nirvana. <span id="fr_17"></span>[1](#fn_17) Karma
+Karma, the Peace of Nirvana. <span id="fr_17"></span>[1](#fn_17.md) Karma
 is no Nemesis, such as in Æschylus pursues the unjust and the slayer.
 Nemesis is vengeful, seems to be given to wrath, and to be guided by
 anger; Nemesis, to men's eyes, is fitful, irregular, and therefore
@@ -302,25 +302,25 @@ right actions, etc., which leads in time to the destruction of evil
 Karma by the quenching of Desire, and it seems to have been S’akyamuni's
 life-work to instil into his hearers the way of the Noble Path, which
 alone can lead to emancipation. Of philosophy he spoke but little; <span
-id="fr_18"></span>[2](#fn_18) the so-called Philosophy of Buddhism was a
+id="fr_18"></span>[2](#fn_18.md) the so-called Philosophy of Buddhism was a
 later product.
 
 <span id="page_16">p. 16</span>
 
 He did not profess to teach a new doctrine. What he taught was the "Way
-of the Buddhas." <span id="fr_19"></span>[1](#fn_19) He recognized that
-there had been Buddhas before him, <span id="fr_20"></span>[2](#fn_20)
+of the Buddhas." <span id="fr_19"></span>[1](#fn_19.md) He recognized that
+there had been Buddhas before him, <span id="fr_20"></span>[2](#fn_20.md)
 as there would be Buddhas after him. He was thus enabled freely to adopt
 many things that seemed good in systems other than his own, and
 flexibility has always been a mark of his religion. To us it will seem
 easy to conjecture the quarter from which he got his idea of a weekly
-sabbath, <span id="fr_21"></span>[3](#fn_21) and the fact that the Order
+sabbath, <span id="fr_21"></span>[3](#fn_21.md) and the fact that the Order
 of Monks kept their sabbath days for many centuries after the Nirvana
 will make it easier for us to recognize and admit the doctrine held by a
 large section of northern Buddhists, that Buddha also taught, personally
 and during his earthly life, the salvation worked out for many by
 another Buddha, who is Boundless in Life, Light, and Compassion, and
-whom Japan knows as Amitābha. <span id="fr_22"></span>[4](#fn_22)
+whom Japan knows as Amitābha. <span id="fr_22"></span>[4](#fn_22.md)
 
 <span id="page_17">p. 17</span>
 
@@ -342,28 +342,28 @@ of the highest of all truths.
 
 ### Footnotes
 
-<span id="fn_1"></span>[5:1](chj04.htm#fr_1) *Cf*., in Japanese, "Buddha
+<span id="fn_1"></span>[5:1](chj04.htm#fr_1.md) *Cf*., in Japanese, "Buddha
 no Juseiron" (by Maeda); in English, "Buddhism in Translation" (Warren),
 "Gospel of Buddha" (Paul Carus); and in German, "Die Reden des Gotama
 Buddhas" (Neumann). The first of these is the most useful for the
 purposes of this book, because it has been compiled from a frankly
 Mahāyānistic point of view.
 
-<span id="fn_2"></span>[5:2](chj04.htm#fr_2) The importance of the sixth
+<span id="fn_2"></span>[5:2](chj04.htm#fr_2.md) The importance of the sixth
 century B.C., which inaugurated so many movements of a religious and
 philosophical nature, it is hard to overestimate.
 
-<span id="fn_3"></span>[5:3](chj04.htm#fr_3) Behar is said to derive its
+<span id="fn_3"></span>[5:3](chj04.htm#fr_3.md) Behar is said to derive its
 name from *Vihara*, a Buddhist monastery. It was one of the last, as it
 was also one of the first, strongholds of Buddhism in India.
 
-<span id="fn_4"></span>[6:1](chj04.htm#fr_4) In Athens we find, *e.g.*,
+<span id="fn_4"></span>[6:1](chj04.htm#fr_4.md) In Athens we find, *e.g.*,
 the population of the autochthons divided into four classes
 corresponding to the four castes of India. *Cf*. Grote's "Hist. of
 Greece," chap. x. For the Aryan races, see Hunter, "Brief History of the
 Indian people," chap. iv. pp. 52–73.
 
-<span id="fn_5"></span>[7:1](chj04.htm#fr_5) The documents tell us how
+<span id="fn_5"></span>[7:1](chj04.htm#fr_5.md) The documents tell us how
 eagerly the S’akyans of Kapilavastu and Magadha welcomed the teachings
 of Buddha. The very name S’akyamuni implies that he was officially
 accepted as the "teacher of the S’akyans," and that his creed became, as
@@ -374,12 +374,12 @@ claim as a religious teacher by demonstrating to the satisfaction of the
 S’akyan nobles that he was as skilful in the use of arms as they were
 themselves.
 
-<span id="fn_6"></span>[7:2](chj04.htm#fr_6) Hewett, "Notes on Early
+<span id="fn_6"></span>[7:2](chj04.htm#fr_6.md) Hewett, "Notes on Early
 History of India," pt. ii., in *J.R.A.S*, April, 1889, p. 276, has a
 note to show that the *Ikshvakus* came from Assyria and the Euphrates
 valley.
 
-<span id="fn_7"></span>[8:1](chj04.htm#fr_7) Prof. Pelliot, in "Bulletin
+<span id="fn_7"></span>[8:1](chj04.htm#fr_7.md) Prof. Pelliot, in "Bulletin
 de L’École Française de l’Extrēme Orient," viii. 3 and 4, has an account
 of a recent find of manuscripts and books which will do much to settle
 the question of Manjuśri. According to the Tibetan history recently
@@ -401,10 +401,10 @@ the Chinese market bearing the Manjuśri influence, at least in later
 revisions. But it is impossible to dogmatize with the scanty information
 at hand.
 
-<span id="fn_8"></span>[8:2](chj04.htm#fr_8) Sylvain Levi, "Histoire du
+<span id="fn_8"></span>[8:2](chj04.htm#fr_8.md) Sylvain Levi, "Histoire du
 Nepal," vol. ii. p. 69.
 
-<span id="fn_9"></span>[9:1](chj04.htm#fr_9) This incident is of
+<span id="fn_9"></span>[9:1](chj04.htm#fr_9.md) This incident is of
 importance as showing one of the best features of the creed as taught by
 S’akyamuni. The Brahman religion frankly left out of consideration all
 those who were not of the "Twice-born," which was the name given to the
@@ -419,7 +419,7 @@ have been as distasteful to the Kshatriyas as it was to the Brahmans.
 See Watanabe's "Story of Kalmasapada," published by Pali Text Society,
 1910.
 
-<span id="fn_10"></span>[10:1](chj04.htm#fr_10) See Sylvain Levi,
+<span id="fn_10"></span>[10:1](chj04.htm#fr_10.md) See Sylvain Levi,
 *l.c.*, and the Analytical Index to the Tibetan "History of the Rise,
 Progress, and Downfall of Buddhism in India," edited by Sarat Chandra
 Das (Calcutta, 1908). See also article on "Serpent Worshiper India," by
@@ -429,7 +429,7 @@ asserts that it was a Nāga king that revealed to Nāgārjuna, in the
 Dragon Palace under the Sea, the holy text of the Avataṃsaka, or Kegon
 Scriptures.
 
-<span id="fn_11"></span>[10:2](chj04.htm#fr_11) I think it may be shown
+<span id="fn_11"></span>[10:2](chj04.htm#fr_11.md) I think it may be shown
 that there was very little philosophy before S’akyamuni's time, nothing
 like the six definite schools which appear in later centuries. The
 philosophy of the Hindoos arose partly from the need for definite
@@ -439,43 +439,43 @@ contact with extraneous thought, especially Greek. It is interesting to
 trace the contemporaneous development of philosophy in India and in
 Greece.
 
-<span id="fn_12"></span>[11:1](chj04.htm#fr_12) The order of the castes
+<span id="fn_12"></span>[11:1](chj04.htm#fr_12.md) The order of the castes
 in Buddhist authors is (1) Kshatriyas, (2) Brahmans, (3) Vaiśyas, (4)
 Sudras. See *J.R.A.S*, April, 1894, pp. 341 ff.
 
-<span id="fn_13"></span>[11:2](chj04.htm#fr_13) And yet S’akyamuni's
+<span id="fn_13"></span>[11:2](chj04.htm#fr_13.md) And yet S’akyamuni's
 preaching was nothing new. He was appealing to truths which had been
 overlaid and forgotten. Nichiren speaks of a Buddhism before Buddha.
 
-<span id="fn_14"></span>[12:1](chj04.htm#fr_14) It is quite in
+<span id="fn_14"></span>[12:1](chj04.htm#fr_14.md) It is quite in
 accordance with the proper fitness of things that in *Kim* Rudyard
 Kipling should make the old Lama seek a home for himself at Benares in a
 Jain monastery.
 
-<span id="fn_15"></span>[12:2](chj04.htm#fr_15) A Chinese legend,
+<span id="fn_15"></span>[12:2](chj04.htm#fr_15.md) A Chinese legend,
 undoubtedly false, says that Laotze was present on that occasion. It is
 perhaps also worthy of notice that later Chinese legend credits Laotze
 with a virgin birth from the side of his mother, which is very much like
 that ascribed to S’akyamuni in the Buddhist traditions. The same claim
 was made for Jinghis Khan and Christ.
 
-<span id="fn_16"></span>[13:1](chj04.htm#fr_16) Out of whom later
+<span id="fn_16"></span>[13:1](chj04.htm#fr_16.md) Out of whom later
 Buddhist legend has developed the goddess *Tarā*, the spiritual consort
 of the glorified S’akyamuni, intended, possibly, to offset the claims of
 the B.V.M. as S’akyamuni in the Mahāyāna was intended to offset those of
 Christ.
 
-<span id="fn_17"></span>[15:1](chj04.htm#fr_17) If we remember that most
+<span id="fn_17"></span>[15:1](chj04.htm#fr_17.md) If we remember that most
 Pali writers speak of the Enlightenment as the *Nibbana* and of the
 Death as *Parinibbana*, we shall have some light on the word *Nirvana*.
 S’akyamuni had had a vision of the Truth, and "the Truth had made him
 free." He had many doubts and troubles after that, but he was at peace
 (*J.AŚ.B.*, Jan. 1908, p. 9, *note*).
 
-<span id="fn_18"></span>[15:2](chj04.htm#fr_18) Neumann, "Buddha"
+<span id="fn_18"></span>[15:2](chj04.htm#fr_18.md) Neumann, "Buddha"
 (Danish edit.).
 
-<span id="fn_19"></span>[16:1](chj04.htm#fr_19)
+<span id="fn_19"></span>[16:1](chj04.htm#fr_19.md)
 
 <div style="margin-left: 32px">
 
@@ -487,10 +487,10 @@ free." He had many doubts and troubles after that, but he was at peace
 
 </div>
 
-<span id="fn_20"></span>[16:2](chj04.htm#fr_20) There is a list given of
+<span id="fn_20"></span>[16:2](chj04.htm#fr_20.md) There is a list given of
 these pre-Buddhistic Buddhas, in, *e.g.*, Hardy's "Manual of Buddhism."
 
-<span id="fn_21"></span>[16:3](chj04.htm#fr_21) *Sabbath*. In the
+<span id="fn_21"></span>[16:3](chj04.htm#fr_21.md) *Sabbath*. In the
 *Proceedings* of the Asiatic Society of Bengal, vol. iv. part 1, Jan.
 1908, there is an article by Mr. H. C. Norman, showing that the question
 of the keeping of the *Uposathas* or sabbath days was one of the causes
@@ -498,7 +498,7 @@ that led to the convening of As’oka's Council. The sabbath was, however,
 a Babylonian and Assyrian institution as well as a Jewish one. See
 Mahler, "Der Sabbat," in *Z.D.M.G.*, vol. lxii. part i. p. 36, etc.
 
-<span id="fn_22"></span>[16:4](chj04.htm#fr_22) On this point the
+<span id="fn_22"></span>[16:4](chj04.htm#fr_22.md) On this point the
 Japanese Buddhists with few exceptions are very clear. They place the
 Sūtras in which S’akyamuni spoke of Amitābha in that period of silence
 towards the end of his ministerial life when we lose our track of him,
@@ -531,4 +531,4 @@ Letters," for which see Irenæus, ii. 24.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Buddha and his Greatest Disciple](chj05)
+[Next: Chapter III. The Buddha and his Greatest Disciple](chj05.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb32)  [Next](orfb34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb32)  [Next](orfb34.md) 
 
 </div>
 
@@ -172,6 +172,6 @@ when he was poor, and the two lived happy for ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The White Slipper](orfb34)
+[Next: The White Slipper](orfb34.md)
 
 </div>

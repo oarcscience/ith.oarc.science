@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sft00)  [Next](sft02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sft00)  [Next](sft02.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Authors Preface
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Art of Story-Telling](sft02)
+[Next: Chapter I: The Art of Story-Telling](sft02.md)

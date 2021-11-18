@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw06) [Next](scw08)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw06) [Next](scw08.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -281,4 +281,4 @@ Such the Magnificence of our Lord God on earth.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw08)
+[Next](scw08.md)

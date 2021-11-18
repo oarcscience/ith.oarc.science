@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh07)  [Next](msh09) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh07)  [Next](msh09.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ to Andalus"?
 ------------------------------------------------------------------------
 
 [Next: V. The Problem Of The Vicegerent In Ibn Rushd And Ibn
-Tufail](msh09)
+Tufail](msh09.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc002)  [Next](ffcc120) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc002)  [Next](ffcc120.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -229,11 +229,11 @@ daughter is carding, another daughter is teazing, while a third
 daughter, supposed to be working, is away in the background conversing
 in low whispers with the son of a neighbouring crofter. Neighbour wives
 and neighbour daughters are knitting, sewing, or embroidering.' <span
-id="fr_4"></span>[1](#fn_4) Then when the bad weather for fishing has
+id="fr_4"></span>[1](#fn_4.md) Then when the bad weather for fishing has
 been fully discussed by the men, and the latest gossip by the women, and
 the foolish talk of the youths and maidens in the corners is finished,
 the one who occupies the chair of honour in the midst of the
-*ceilidh* <span id="fr_5"></span>[2](#fn_5) looks around to be sure that
+*ceilidh* <span id="fr_5"></span>[2](#fn_5.md) looks around to be sure that
 everybody is comfortable and ready; and, as his first story begins, even
 the babes by instinct cease their noise and crying, and young and old
 bend forward eagerly to hear every word. It does
@@ -377,7 +377,7 @@ is an active belief in the 'fair-folk', in ghosts, in death-warnings, in
 death-candles and phantom-funerals, and in witchcraft and black magic.
 Thence on to Newcastle-Emlyn and its valley, where many of the
 Mabinogion stories took form, or at least from where they drew rich
-material in the way of folk-lore, <span id="fr_6"></span>[1](#fn_6) are
+material in the way of folk-lore, <span id="fr_6"></span>[1](#fn_6.md) are
 environments purely Welsh and as yet little disturbed by the commercial
 materialism of the age.
 
@@ -455,7 +455,7 @@ thanksgiving and praise. Then after the sixth century the new religion
 had come proclaiming a more mystic Light of the World in the Son of God,
 and to the pious half-pagan monks who succeeded the Druids the Archangel
 St. Michael appeared in vision on the Sacred Mount. <span
-id="fr_7"></span>[1](#fn_7) And before St. Augustine came to Britain the
+id="fr_7"></span>[1](#fn_7.md) And before St. Augustine came to Britain the
 Celts of Cornwall had already combined in their own mystical way the
 spiritual message of primitive Christianity with the pure nature-worship
 of their ancestors; and their
@@ -489,7 +489,7 @@ Brittany are to be regarded as the two poles of the modern Celtic world,
 but it is believed by Celtic mystics that they are much more than this,
 that they are two of its psychic centres, with Tara and Carnac as two
 respective points of focus from which the Celtic influence of each
-country radiates. <span id="fr_8"></span>[1](#fn_8) With such a
+country radiates. <span id="fr_8"></span>[1](#fn_8.md) With such a
 psychical point of view, it makes no difference at all whether one
 scholar argues Carnac to be Celtic and another pre-Celtic, for if
 pre-Celtic, as it most likely is, it has certainly been bequeathed to
@@ -589,12 +589,12 @@ shall call each to join their invisible company.
 
 ### Footnotes
 
-<span id="fn_4"></span>[6:1](ffcc110.htm#fr_4) Alexander Carmichael,
+<span id="fn_4"></span>[6:1](ffcc110.htm#fr_4.md) Alexander Carmichael,
 *Carmina Gadelica* (Edinburgh, 1900), i, p. xix.
 
-<span id="fn_5"></span>[6:2](ffcc110.htm#fr_5) The *ceilidh* of the
+<span id="fn_5"></span>[6:2](ffcc110.htm#fr_5.md) The *ceilidh* of the
 Western Hebrides corresponds to the *veillée* of Lower Brittany (see pp.
-[221](ffcc126.htm#page_221) *ff.*), and to similar story-telling
+[221](ffcc126.htm#page_221) *ff.*.md), and to similar story-telling
 festivals which formerly flourished among all the Celtic peoples. 'The
 *ceilidh* is a literary entertainment where stories and tales, poems,
 and ballads, are rehearsed and recited, and songs are sung, conundrums
@@ -602,21 +602,21 @@ are put, proverbs are quoted, and many other literary matters are
 related and discussed.'--Alexander Carmichael, *Carmina Gadelica*, i, p.
 xviii.
 
-<span id="fn_6"></span>[10:1](ffcc110.htm#fr_6) I am indebted for this
+<span id="fn_6"></span>[10:1](ffcc110.htm#fr_6.md) I am indebted for this
 information to the late Mr. Davies, the competent scholar and
 antiquarian of Newcastle-Emlyn, where for many years he has been vicar.
 
-<span id="fn_7"></span>[12:1](ffcc110.htm#fr_7) In the Gnosis, St.
+<span id="fn_7"></span>[12:1](ffcc110.htm#fr_7.md) In the Gnosis, St.
 Michael symbolizes the sun, and thus very appropriately at St. Michael's
 Mount, Cornwall, at Mont St. Michel, Carnac, and also at Mont St. Michel
 on the coast of Normandy, replaced the Great God of Light and Life, held
 in supreme honour among the ancient Celts.
 
-<span id="fn_8"></span>[13:1](ffcc110.htm#fr_8) In this connexion we may
+<span id="fn_8"></span>[13:1](ffcc110.htm#fr_8.md) In this connexion we may
 think of the North and South Magnetic Poles of the earth as centres of
 definite yet invisible forces which can be detected, and to some extent
 measured scientifically.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Taking of Evidence: I. General Introduction](ffcc120)
+[Next: Chapter II. Taking of Evidence: I. General Introduction](ffcc120.md)

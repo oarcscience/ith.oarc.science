@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp00)  [Next](flwp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp00)  [Next](flwp02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ variety of his powers, the beauty of his diction, the magnificence of
 his conceptions, and his luminous development of the abstruse dogmas of
 the ancients, is unrivalled among the disciples of Plato. As, therefore,
 of all his philosophical works that are extant, I have translated the
-whole of some, and parts of others, <span id="fr_0"></span>[\*](#fn_0) I
+whole of some, and parts of others, <span id="fr_0"></span>[\*](#fn_0.md) I
 was also desirous to present
 
 <span id="page_vi">p. vi</span>
@@ -41,7 +41,7 @@ and originally
 consisted of eighteen arguments, wants only the first argument to render
 it complete; and of this I have endeavoured to collect the substance,
 from what Philoponus has written against it. There is a Latin
-translation of the work of Philoponus <span id="fr_2"></span>[\*](#fn_2)
+translation of the work of Philoponus <span id="fr_2"></span>[\*](#fn_2.md)
 in which these Arguments are alone to be found—by Joannes Mahotius:
 Lugdun. 1557. fol.; from which, as the learned reader will perceive, I
 have frequently been enabled to correct the printed Greek text. The
@@ -62,7 +62,7 @@ neglected, and even unknown to many *who are called scholars*, in this
 country, yet they are so much esteemed in France and Germany, that such
 of his works as were only before extant in manuscript, have been
 recently published by the very learned Professors Boissonade, Victor
-Cousin, and Creuzer. <span id="fr_3"></span>[\*](#fn_3) The second
+Cousin, and Creuzer. <span id="fr_3"></span>[\*](#fn_3.md) The second
 
 <span id="page_ix">p. ix</span>
 
@@ -73,7 +73,7 @@ himself alone the merits and praises of all \[the Platonic
 philosophers\]." The eulogy therefore, of Ammonius Hermeas, "that
 Proclus possessed the power of unfolding the opinions of the ancients,
 and a scientific judgment of the nature of things, in the highest
-perfection possible to humanity," <span id="fr_4"></span>[\*](#fn_4)
+perfection possible to humanity," <span id="fr_4"></span>[\*](#fn_4.md)
 
 <span id="page_x">p. x</span>
 
@@ -100,7 +100,7 @@ to search farther."
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:\*](flwp01.htm#fr_0) I have translated the
+<span id="fn_0"></span>[v:\*](flwp01.htm#fr_0.md) I have translated the
 whole of his Six Books on the Theology of Plato, and have added a
 Seventh Book, in order to supply the deficiency of another Book on <span
 id="page_vi">p. vi</span> this subject, which was written by Proclus,
@@ -109,21 +109,21 @@ of his Commentary on the First Book of Euclid. I have also translated
 nearly the whole of his Scholia on the Cratylus; and have given a
 translation of the substance of his Commentaries on the First Alcibiades
 and Parmenides of Plato. These are from the Greek. From the barbarous
-Latin version of Morbeka, <span id="fr_1"></span>[†](#fn_1) I have also
+Latin version of Morbeka, <span id="fr_1"></span>[†](#fn_1.md) I have also
 translated his admirable Treatise on Providence and Fate; all which are
 published. And I am now waiting for an opportunity, which I trust will
 soon be afforded me, of publishing my Translation of his Solution of Ten
 Doubts concerning Providence, and his Treatise on the Subsistence of
 Evil.
 
-<span id="fn_1"></span>[v:†](flwp01.htm#fr_1) This Morbeka was
+<span id="fn_1"></span>[v:†](flwp01.htm#fr_1.md) This Morbeka was
 Archbishop of Corinth in the twelfth century.
 
-<span id="fn_2"></span>[vii:\*](flwp01.htm#fr_2) The Greek edition of
+<span id="fn_2"></span>[vii:\*](flwp01.htm#fr_2.md) The Greek edition of
 this work of Philoponus against Proclus was printed at Venice, 1535,
 fol.
 
-<span id="fn_3"></span>[viii:\*](flwp01.htm#fr_3) Of the works of
+<span id="fn_3"></span>[viii:\*](flwp01.htm#fr_3.md) Of the works of
 Proclus, the first of these Professors has published the Scholia on the
 Cratylus; the second, the Commentaries on the First Alcibiades, and Five
 out of the Seven existing Books on the Parmenides of Plato; and also,
@@ -137,7 +137,7 @@ them, and in the above-mentioned publications. The last of them, in
 particular, has adopted most of my emendations of the Greek text of the
 Theological Elements.
 
-<span id="fn_4"></span>[ix:\*](flwp01.htm#fr_4) Ει δε τι και ημεις
+<span id="fn_4"></span>[ix:\*](flwp01.htm#fr_4.md) Ει δε τι και ημεις
 δυνηθειημεν εισενεγκειν περι την του βιβλιου σαφηνειαν, απονημονευσαντες
 των εξηγησεων του θειου ημων διδασκαλου Προκλου του πλατωνικου διαδοχου,
 του εις <span id="page_x">p. x</span> ακρον της ανθρωπινης φυσεως την τε
@@ -147,4 +147,4 @@ Theological Elements.
 
 ------------------------------------------------------------------------
 
-[Next: On Light](flwp02)
+[Next: On Light](flwp02.md)

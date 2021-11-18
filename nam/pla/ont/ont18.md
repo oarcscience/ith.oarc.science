@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont17)  [Next](ont19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont17)  [Next](ont19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -58,7 +58,7 @@ for a background, hundreds of white tipis, uniform in shape,
 
 <span id="img_20800"></span> <span align="CENTER"> [![CROW TIPI IN 1896
 (MADE OF SKINS). REAR VIEW.](tn/20800.jpg)  
-Click to enlarge](img/20800.jpg)  
+Click to enlarge](img/20800.jpg.md)  
 CROW TIPI IN 1896 (MADE OF SKINS). REAR VIEW.  
 </span>
 
@@ -81,7 +81,7 @@ been secured upon the spot in
 
 <span id="img_20900"></span> <span align="CENTER"> [![CROW TIPI IN 1906
 (MADE OF COTTON DUCK). FRONT VIEW.](tn/20900.jpg)  
-Click to enlarge](img/20900.jpg)  
+Click to enlarge](img/20900.jpg.md)  
 CROW TIPI IN 1906 (MADE OF COTTON DUCK). FRONT VIEW.  
 </span>
 
@@ -103,7 +103,7 @@ designs and the make-up of the medicine bundles were always
 
 <span id="img_21000"></span> <span align="CENTER"> [![BIG ROCK
 TIPI.](tn/21000.jpg)  
-Click to enlarge](img/21000.jpg)  
+Click to enlarge](img/21000.jpg.md)  
 BIG ROCK TIPI.  
 </span>
 
@@ -123,7 +123,7 @@ their origin have been handed down
 
 <span id="img_21100"></span> <span align="CENTER"> [![SERPENT
 TIPI.](tn/21100.jpg)  
-Click to enlarge](img/21100.jpg)  
+Click to enlarge](img/21100.jpg.md)  
 SERPENT TIPI.  
 </span>
 
@@ -143,7 +143,7 @@ that he
 
 <span id="img_21200"></span> <span align="CENTER"> [![CROSS STRIPE OR
 BEAVER TIPI.](tn/21200.jpg)  
-Click to enlarge](img/21200.jpg)  
+Click to enlarge](img/21200.jpg.md)  
 CROSS STRIPE OR BEAVER TIPI.  
 </span>
 
@@ -166,7 +166,7 @@ animals, or other articles, that
 <span id="img_21300"></span> <span align="CENTER"> [![THUNDER TIPI (ON
 LEFT), RED STRIPE TIPI (IN CENTRE).&lt;br&gt; (Thunder Tipi was painted
 blue, with Thunder-bird at the back.)](tn/21300.jpg)  
-Click to enlarge](img/21300.jpg)  
+Click to enlarge](img/21300.jpg.md)  
 THUNDER TIPI (ON LEFT), RED STRIPE TIPI (IN CENTRE).  
 (Thunder Tipi was painted blue, with Thunder-bird at the back.)  
 </span>
@@ -223,7 +223,7 @@ liquid scraped from a hide.
 
 <span id="img_21500"></span> <span align="CENTER"> [![BLACK BUFFALO
 TIPI.](tn/21500.jpg)  
-Click to enlarge](img/21500.jpg)  
+Click to enlarge](img/21500.jpg.md)  
 BLACK BUFFALO TIPI.  
 </span>
 
@@ -308,7 +308,7 @@ protective
 
 <span id="img_21800"></span> <span align="CENTER"> [![OTTER
 TIPI.](tn/21800.jpg)  
-Click to enlarge](img/21800.jpg)  
+Click to enlarge](img/21800.jpg.md)  
 OTTER TIPI.  
 </span>
 
@@ -331,7 +331,7 @@ belonging to it and
 
 <span id="img_21900"></span> <span align="CENTER"> [![WAR TIPI OF
 RUNNING RABBIT.](tn/21900.jpg)  
-Click to enlarge](img/21900.jpg)  
+Click to enlarge](img/21900.jpg.md)  
 WAR TIPI OF RUNNING RABBIT.  
 </span>
 
@@ -382,7 +382,7 @@ of two wounded comrades, by carrying one with him on his own horse
 <span id="img_22100"></span> <span align="CENTER"> [![WAR TIPI (REAR
 VIEW).&lt;br&gt; (The crooked lines represent rivers where famous fights
 took place.)](tn/22100.jpg)  
-Click to enlarge](img/22100.jpg)  
+Click to enlarge](img/22100.jpg.md)  
 WAR TIPI (REAR VIEW).  
 (The crooked lines represent rivers where famous fights took place.)  
 </span>
@@ -403,7 +403,7 @@ and pictographs of
 
 <span id="img_22200"></span> <span align="CENTER"> [![MY OWN DECORATED
 TIPI.](tn/22200.jpg)  
-Click to enlarge](img/22200.jpg)  
+Click to enlarge](img/22200.jpg.md)  
 MY OWN DECORATED TIPI.  
 </span>
 
@@ -462,4 +462,4 @@ their religious faith.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Sun-Dance Camp](ont19)
+[Next: Chapter XVI. The Sun-Dance Camp](ont19.md)

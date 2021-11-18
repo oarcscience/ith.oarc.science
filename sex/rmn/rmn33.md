@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn32)  [Next](rmn34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn32)  [Next](rmn34.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ impatient lust which chides his delay, and summons him to proceed to
 closer endearments.
 
 At the feet of the two lovers we may see the pastoral crook (*pedum*),
-the seven-reeded flute <span id="fr_39"></span>[1](#fn_39) (*syrinx*),
+the seven-reeded flute <span id="fr_39"></span>[1](#fn_39) (*syrinx*.md),
 the rattle-drum (*tympanum*) on which is Painted a cistrum, the thyrsus,
 and a cercle sans fond.
 
@@ -58,10 +58,10 @@ his charming compositions.
 
 ### Footnotes
 
-<span id="fn_39"></span>[66:1](rmn33.htm#fr_39) The present example has
+<span id="fn_39"></span>[66:1](rmn33.htm#fr_39.md) The present example has
 eight; but this was probably an oversight of the painter, to whom we are
 indebted for this delicious fresco.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXIII: A Satyr and a Bacchante](rmn34)
+[Next: Plate XXXIII: A Satyr and a Bacchante](rmn34.md)

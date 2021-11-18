@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft14)  [Next](zft16) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft14)  [Next](zft16.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Coyote And The Beetle](zft16)
+[Next: The Coyote And The Beetle](zft16.md)

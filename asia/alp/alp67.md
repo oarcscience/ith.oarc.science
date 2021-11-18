@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp66) 
-[Next](alp68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp66.md) 
+[Next](alp68.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 <span id="page_101">p. 101</span>
 
-### DANCE SONG <span id="fr_12"></span>[1](#fn_12)
+### DANCE SONG <span id="fr_12"></span>[1](#fn_12.md)
 
 ##### FOLK SONG
 
@@ -61,8 +61,8 @@ And my bridegroom you shall be!"
 
 ### Footnotes
 
-<span id="fn_12"></span>[101:1](alp67.htm#fr_12) Haberban.
+<span id="fn_12"></span>[101:1](alp67.htm#fr_12.md) Haberban.
 
 ------------------------------------------------------------------------
 
-[Next: Ballad](alp68)
+[Next: Ballad](alp68.md)

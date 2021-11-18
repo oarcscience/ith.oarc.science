@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm41)  [Next](bnm43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm41)  [Next](bnm43.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ the wise men of their tribe could answer.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Crocodile Has A Wide Mouth.](bnm43)
+[Next: Why The Crocodile Has A Wide Mouth.](bnm43.md)

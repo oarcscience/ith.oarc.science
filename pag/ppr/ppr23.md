@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr22)  [Next](ppr24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr22)  [Next](ppr24.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ to follow the divine example and to perform good works in the Way.
 
 ------------------------------------------------------------------------
 
-[Next: Prayer of the Singer (Mexican)](ppr24)
+[Next: Prayer of the Singer (Mexican)](ppr24.md)

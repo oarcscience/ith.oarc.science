@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ere16)  [Next](ere18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ere16)  [Next](ere18.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-# CHAPTER IX. <span id="fr_6"></span>[1](#fn_6)
+# CHAPTER IX. <span id="fr_6"></span>[1](#fn_6.md)
 
 R. Eliezer the Kapar said: Keep aloof from anger, for by being angry at
 others you will add to your transgression. Love your admonisher, for by
@@ -79,9 +79,9 @@ circle is the Temple, which will be rebuilt in the near future. Amen.
 
 ### Footnotes
 
-<span id="fn_6"></span>[28:1](ere17.htm#fr_6) Chapters VIII. and X. are
+<span id="fn_6"></span>[28:1](ere17.htm#fr_6.md) Chapters VIII. and X. are
 a repetition of what was stated in other places.
 
 ------------------------------------------------------------------------
 
-[Next: The Chapter on Peace](ere18)
+[Next: The Chapter on Peace](ere18.md)

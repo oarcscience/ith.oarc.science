@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,11 +165,11 @@ the Universe
 15 OXO 30 TEX
 
 THE CALL OR KEY OF THE THIRTY AETHYRS <span id="Back"></span>  
-MADARIATZA das perifa LIL[1](#1)cahisa micaolazoda saanire caosago od
+MADARIATZA das perifa LIL[1](#1.md)cahisa micaolazoda saanire caosago od
 fifisa balzodizodarasa Iaida. Nonua gohulime: Micama adoianu MADA faoda
 beliorebe, soba ooaona cahisa luciftias peripesol, das aberaasasa
 nonuafe netaaibe caosaji od tilabe adapehaheta damepelozoda, tooata
-nonuafe jimicalazodoma larasada tofejilo marebe yareryo IDOIGO[2](#2);
+nonuafe jimicalazodoma larasada tofejilo marebe yareryo IDOIGO[2](#2.md);
 od torezodulape yaodafe gohola, Caosaga, tabaoreda saanir od
 caharisateosa yorepoila tiobela busadire, tilabe noalanu paida oresaba,
 od dodaremeni zodayolana. Elazodape tilaba paremeji peripesatza, od ta
@@ -191,14 +191,14 @@ Ozodazodama pelapeli IADANAMADA!
 
 **THE CALL OR KEY OF THE THIRTY AETHYRS**
 
-O Ye Heavens which dwell in the first Aire[1](#1), ye are mighty in the
+O Ye Heavens which dwell in the first Aire[1](#1.md), ye are mighty in the
 parts of the Earth, and execute therein the Judgment of the Highest!
 Unto you it is said: Behold the Face of your God, the beginning of
 Comfort, whose eyes are the brightness of the Heavens, which provided
 you for the Government of the Earth, and her unspeakable variety,
 furnishing you with the power of understanding to dispose of all things
 according to the Foresight of Him that Sitteth on the Holy
-Throne[2](#2), and rose up in the Beginning, saying: The Earth, let her
+Throne[2](#2.md), and rose up in the Beginning, saying: The Earth, let her
 be governed by her parts, and let there be Division in her, that the
 glory of her may be always ecstasy and imitation of orgasm. Her course,
 let it run with the Heavens; and as an handmaid let her serve them. One
@@ -336,7 +336,7 @@ WEH = Bill Heidrick (William E. Heidrick, TG OTO)
 
 ------------------------------------------------------------------------
 
-[Back](#Back)
+[Back](#Back.md)
 
 1.  <span id="1"></span>Or other Aire as may be willed.
 2.  <span id="2"></span>This name may be appropriately varied with the
@@ -346,4 +346,4 @@ WEH = Bill Heidrick (William E. Heidrick, TG OTO)
 
  
 
-> [**Back to Liber 418**](418)
+> [**Back to Liber 418**](418.md)

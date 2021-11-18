@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm06) 
-[Next](cdm08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm06.md) 
+[Next](cdm08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -79,7 +79,7 @@ till I meet death; and when I am dead the buds will fall off my tree."
 
 <span id="an_p_30">30</span>. The smith's sons would all three start and
 try their fortune; and each got his horse and hound and club and
-sword. <span id="fr_64"></span>[1](#fn_64)
+sword. <span id="fr_64"></span>[1](#fn_64.md)
 
 <span id="an_p_31">31</span>. They rose with the dawn and saddled their
 black steeds and called their black dogs, and hung their gleaming
@@ -98,9 +98,9 @@ so they took the world for their pillow and started on their way.
 
 ### Footnotes
 
-<span id="fn_64"></span>[43:1](cdm07.htm#fr_64) In a Berneray version
+<span id="fn_64"></span>[43:1](cdm07.htm#fr_64.md) In a Berneray version
 three sons start together.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Ways](cdm08)
+[Next: The Three Ways](cdm08.md)

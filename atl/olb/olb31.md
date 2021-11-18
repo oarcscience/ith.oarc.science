@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb30)  [Next](olb32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb30)  [Next](olb32.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -14,9 +14,9 @@ Textual Heritage
 
 ### <span class="smallcaps">This is inscribed in all our Citadels.</span>
 
-How our Denmark <span id="fr_44"></span>[\*](#fn_44) was lost to us 1602
+How our Denmark <span id="fr_44"></span>[\*](#fn_44.md) was lost to us 1602
 years after the submersion of Atland <span
-id="fr_45"></span>[†](#fn_45). Through the mad wantonness of Wodin, Magy
+id="fr_45"></span>[†](#fn_45.md). Through the mad wantonness of Wodin, Magy
 had become master of the east part of Scandinavia. They dare not come
 over the hills and over the sea. The mother would not prevent it. She
 said, I see no danger in their weapons, but much in taking the
@@ -135,12 +135,12 @@ Watch! watch! watch!
 
 ### Footnotes
 
-<span id="fn_44"></span>[111:\*](olb31.htm#fr_44) Dêna marks, the low
+<span id="fn_44"></span>[111:\*](olb31.htm#fr_44.md) Dêna marks, the low
 marches.
 
-<span id="fn_45"></span>[111:†](olb31.htm#fr_45) 2193-1602 is 691 years
+<span id="fn_45"></span>[111:†](olb31.htm#fr_45.md) 2193-1602 is 691 years
 before Christ.
 
 ------------------------------------------------------------------------
 
-[Next: How it fared afterwards with the Magy](olb32)
+[Next: How it fared afterwards with the Magy](olb32.md)

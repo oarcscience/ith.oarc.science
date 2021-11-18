@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi135)  [Next](mtsi137) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi135)  [Next](mtsi137.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ modern tales of trifling value.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Origin of the Indians](mtsi137)
+[Next: 1. Origin of the Indians](mtsi137.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil70)  [Next](egil72) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil70)  [Next](egil72.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Then Egil composed a stave:
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXI. Egil's sadness.](egil72)
+[Next: CHAPTER LXXI. Egil's sadness.](egil72.md)

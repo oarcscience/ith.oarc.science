@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt21)  [Next](crt23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt21)  [Next](crt23.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_17000"></span>
 
 [![Belle Isoult and Sir Tristram drink the love draught](tn/17000.jpg)  
-Click to enlarge](img/17000.jpg)  
+Click to enlarge](img/17000.jpg.md)  
 Belle Isoult and Sir Tristram drink the love draught  
 
 <span id="page_171">p. 171</span>
@@ -664,4 +664,4 @@ after that there was much feasting and every appearance of rejoicing.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](crt23)
+[Next: Introduction](crt23.md)

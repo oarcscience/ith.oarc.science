@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd01)  [Next](pbd03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd01)  [Next](pbd03.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ neighbors. The belief is obviously a locally colored variant of the
 widespread were-wolf superstition, which is not yet entirely foreign to
 the emotional life of civilized peoples. The California Indians had
 worked out their form of this concept very definitely. Thus Dr. Kroeber
-says: <span id="fr_0"></span>[1](#fn_0)
+says: <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_444">p. 444</span>
 
@@ -101,9 +101,9 @@ psychological material.
 
 ### Footnotes
 
-<span id="fn_0"></span>[443:1](pbd02.htm#fr_0) A. L. Kroeber, "Religion
+<span id="fn_0"></span>[443:1](pbd02.htm#fr_0.md) A. L. Kroeber, "Religion
 of the Indians of California," present series, IV, 331, 1907.
 
 ------------------------------------------------------------------------
 
-[Next: Origin Account](pbd03)
+[Next: Origin Account](pbd03.md)

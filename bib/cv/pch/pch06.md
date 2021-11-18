@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch05) 
-[Next](pch07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch05.md) 
+[Next](pch07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -29,8 +29,8 @@ rational principle of action in taboo: it is mechanical; arbitrary,
 because its sole *basis* is the *arbitrary association of ideas;*
 irrational, because its principle is \[in the words of Mr. Lang\] 'that
 causal connection in thought is equivalent to causative connection in
-fact.'" <span id="fr_18"></span>[2](#fn_18) Again, Dr. Jevons lays it
-down <span id="fr_19"></span>[3](#fn_19)
+fact.'" <span id="fr_18"></span>[2](#fn_18.md) Again, Dr. Jevons lays it
+down <span id="fr_19"></span>[3](#fn_19.md)
 
 <span id="page_5">p. 5</span>
 
@@ -65,7 +65,7 @@ men never observed the phenomena of contagion from corpse to mourners,
 and from mourners to their families; or, observing it, never sought to
 act on the experience? Is it not notorious that among contemporary
 primitives there is often an intense and vigilant fear of contagious
-disease? <span id="fr_20"></span>[1](#fn_20)
+disease? <span id="fr_20"></span>[1](#fn_20.md)
 
 The only fair objection to accepting such a basis for one species of
 taboo is that for other species no such explanation is available. But
@@ -103,7 +103,7 @@ It may be that he would not at once reject such a conclusion; for the
 apparent motive of much of his treatment of taboo is the sanctification
 of it as an element in the ancestry of the Christian religion. For this
 purpose he is ready to go to notable lengths, as when <span
-id="fr_21"></span>[1](#fn_21) he allows cannibalism to be sometimes
+id="fr_21"></span>[1](#fn_21.md) he allows cannibalism to be sometimes
 "religious in intention." But while insisting at one point on the
 absolute unreasonedness and immediate certitude of the notion of taboo,
 apparently in order to place it on all fours with the "direct
@@ -113,12 +113,12 @@ admits in so many words, as we have seen, that it is "arbitrary" and
 phenomenon. Rather the purpose of that aspersion seems to be to open the
 way for another aggrandisement of religion as having *suppressed*
 irrational taboo. On the one hand we are told <span
-id="fr_22"></span>[2](#fn_22) that the savage's fallacious belief in the
+id="fr_22"></span>[2](#fn_22.md) that the savage's fallacious belief in the
 transmissibility of taboo was "the sheath which enclosed and protected a
 conception that was to blossom and bear a priceless fruit—the conception
 of Social Obligation." This is an arguable thesis, not framed by Dr.
 Jevons for the purposes of his theorem, but spontaneously set forth by
-several missionaries. <span id="fr_23"></span>[3](#fn_23) Here we need
+several missionaries. <span id="fr_23"></span>[3](#fn_23.md) Here we need
 but note the implication of the old fallacy that when any good is seen
 to follow upon an evil we *must* assume the evil to have been a
 *conditio sine quâ non* of the good. The missionaries and
@@ -131,7 +131,7 @@ code—a thesis not to be substantiated either deductively or inductively.
 But with this problem we need not now concern ourselves, since Dr.
 Jevons himself turns the tables on it. After the claim has been made for
 the salvatory action of taboo, we read <span
-id="fr_24"></span>[1](#fn_24) that "it was only among the minority of
+id="fr_24"></span>[1](#fn_24.md) that "it was only among the minority of
 mankind, and there only under exceptional circumstances, that the
 institution bore its best fruit......Indeed, in many respects the
 evolution of taboo has been fatal to the progress of humanity." And
@@ -147,7 +147,7 @@ progress later.</span>
 
 </div>
 
-But now is introduced <span id="fr_25"></span>[2](#fn_25) the theorem of
+But now is introduced <span id="fr_25"></span>[2](#fn_25.md) the theorem of
 the process by which taboo has been *converted into* an element of
 civilisation: it is this:—
 
@@ -156,11 +156,11 @@ civilisation: it is this:—
 From the fallacy of magic man was delivered by religion; and there are
 reasons.....for believing that it was by the same aid he escaped from
 the irrational restrictions of taboo. <span
-id="fr_26"></span>[3](#fn_26)
+id="fr_26"></span>[3](#fn_26.md)
 
 In the higher forms of religion.....the trivial and absurd restrictions
 are cast off, and those alone retained which are essential to morality
-*and religion*. <span id="fr_27"></span>[4](#fn_27)
+*and religion*. <span id="fr_27"></span>[4](#fn_27.md)
 
 </div>
 
@@ -170,7 +170,7 @@ does not hold scientifically or logically good. The fact remains that
 irrational taboo as such was, in the terms of the argument, strictly
 religious; that religion in this aspect had "no sense in it," inasmuch
 as taboo had passed from a primitive precaution to a priest-made
-convention; <span id="fr_28"></span>[5](#fn_28) and that what religion
+convention; <span id="fr_28"></span>[5](#fn_28.md) and that what religion
 is alleged to deliver man from is just religion. Thus alternately does
 religion figure for the apologist as a rational tendency correcting an
 irrational, and as an irrational tendency doing good which a rational
@@ -181,35 +181,35 @@ does such a contradiction emerge.
 
 ### Footnotes
 
-<span id="fn_18"></span>[4:2](pch06.htm#fr_18) Jevons, Introduction
+<span id="fn_18"></span>[4:2](pch06.htm#fr_18.md) Jevons, Introduction
 cited, p. 91; Lang, *Myth, Ritual, and Religion*, 1st ed. i, 95.
 
-<span id="fn_19"></span>[4:3](pch06.htm#fr_19) As cited, pp. 11-12. Cp.
+<span id="fn_19"></span>[4:3](pch06.htm#fr_19.md) As cited, pp. 11-12. Cp.
 p. 68, where the question is begged with much simplicity.
 
-<span id="fn_20"></span>[5:1](pch06.htm#fr_20) *E.g.*, Turner, *Samoa a
+<span id="fn_20"></span>[5:1](pch06.htm#fr_20.md) *E.g.*, Turner, *Samoa a
 Hundred Years Ago*, 1884, pp. 306, 322.
 
-<span id="fn_21"></span>[6:1](pch06.htm#fr_21) P. 201.
+<span id="fn_21"></span>[6:1](pch06.htm#fr_21.md) P. 201.
 
-<span id="fn_22"></span>[6:2](pch06.htm#fr_22) P. 87.
+<span id="fn_22"></span>[6:2](pch06.htm#fr_22.md) P. 87.
 
-<span id="fn_23"></span>[6:3](pch06.htm#fr_23) *E.g.*, Rev. Richard
+<span id="fn_23"></span>[6:3](pch06.htm#fr_23.md) *E.g.*, Rev. Richard
 Taylor, *Te Ika a Maui: or, New Zealand and its Inhabitants*, 1870, pp.
 8, 163 *sq*.; Rev. J. Buller, *Forty Years in New Zealand*, 1878, p.
 203.
 
-<span id="fn_24"></span>[7:1](pch06.htm#fr_24) P. 88.
+<span id="fn_24"></span>[7:1](pch06.htm#fr_24.md) P. 88.
 
-<span id="fn_25"></span>[7:2](pch06.htm#fr_25) P. 89.
+<span id="fn_25"></span>[7:2](pch06.htm#fr_25.md) P. 89.
 
-<span id="fn_26"></span>[7:3](pch06.htm#fr_26) P. 91.
+<span id="fn_26"></span>[7:3](pch06.htm#fr_26.md) P. 91.
 
-<span id="fn_27"></span>[7:4](pch06.htm#fr_27) P. 93.
+<span id="fn_27"></span>[7:4](pch06.htm#fr_27.md) P. 93.
 
-<span id="fn_28"></span>[7:5](pch06.htm#fr_28) Cp. Rev. R. Taylor, as
+<span id="fn_28"></span>[7:5](pch06.htm#fr_28.md) Cp. Rev. R. Taylor, as
 cited, ch. viii.
 
 ------------------------------------------------------------------------
 
-[Next: § 3. Dr. Jevons’ Theories of Religious Evolution](pch07)
+[Next: § 3. Dr. Jevons’ Theories of Religious Evolution](pch07.md)

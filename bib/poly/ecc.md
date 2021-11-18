@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Proverbs](pro)  [Song of Solomon](sol)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Proverbs](pro)  [Song of Solomon](sol.md)
 
 ------------------------------------------------------------------------
 
@@ -9,26 +9,26 @@
 
 ------------------------------------------------------------------------
 
-[Ecclesiastes 1](ecc001)  
+[Ecclesiastes 1](ecc001.md)  
 
-[Ecclesiastes 2](ecc002)  
+[Ecclesiastes 2](ecc002.md)  
 
-[Ecclesiastes 3](ecc003)  
+[Ecclesiastes 3](ecc003.md)  
 
-[Ecclesiastes 4](ecc004)  
+[Ecclesiastes 4](ecc004.md)  
 
-[Ecclesiastes 5](ecc005)  
+[Ecclesiastes 5](ecc005.md)  
 
-[Ecclesiastes 6](ecc006)  
+[Ecclesiastes 6](ecc006.md)  
 
-[Ecclesiastes 7](ecc007)  
+[Ecclesiastes 7](ecc007.md)  
 
-[Ecclesiastes 8](ecc008)  
+[Ecclesiastes 8](ecc008.md)  
 
-[Ecclesiastes 9](ecc009)  
+[Ecclesiastes 9](ecc009.md)  
 
-[Ecclesiastes 10](ecc010)  
+[Ecclesiastes 10](ecc010.md)  
 
-[Ecclesiastes 11](ecc011)  
+[Ecclesiastes 11](ecc011.md)  
 
-[Ecclesiastes 12](ecc012)  
+[Ecclesiastes 12](ecc012.md)  

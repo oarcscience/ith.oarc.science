@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim78)  [Next](sim80) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim78)  [Next](sim80.md) 
 
 ------------------------------------------------------------------------
 
@@ -258,4 +258,4 @@ They traveled fast and were not many days in getting home.
 
 ------------------------------------------------------------------------
 
-[Next: A Racoon Story](sim80)
+[Next: A Racoon Story](sim80.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos00)  [Next](dos02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos00)  [Next](dos02.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,11 +13,11 @@ HERE is a fairy tale which I found in an old Hindoo manuscript.
 As the title shows, it is a solar myth. Literally translated, its name
 is: *The glory of the Going Down of the Sun*. But this is only the
 exoteric, physical envelope of the inner, mystical meaning, which is:
-*The Divine Lustre* <span id="fr_0"></span>[a](#fn_0) *of the Descent*
+*The Divine Lustre* <span id="fr_0"></span>[a](#fn_0.md) *of the Descent*
 (*Incarnation*) *of Him Who took Three Steps*: i.e. Wishnu, or the Sun,
 the later Krishna, or Hindoo Apollo. And this epithet of the Sun is
 explained by the well-known passage in the Rig-Weda (I. 22. 17  <span
-id="fr_1"></span>[b](#fn_1)), '*Three steps did Wishnu stride: thrice
+id="fr_1"></span>[b](#fn_1).md), '*Three steps did Wishnu stride: thrice
 did* 
 
 <span id="page_x">p. x</span>
@@ -56,7 +56,7 @@ older than Thales;) according to which it is the duty of PURUSHA, the
 archetype of the spirit of man, the Primæval Male, to hunt for and
 pursue PRAKRITI, the feminine personification of material Nature, the
 Eternal Feminine, till he finds her: when instantly she disappears 'like
-an actress <span id="fr_2"></span>[c](#fn_2).' In this respect, the
+an actress <span id="fr_2"></span>[c](#fn_2.md).' In this respect, the
 story somewhat recalls the *Gita-Gowind* of Jayadewa, which according to
 one school of interpreters, deals with the Soul, personified as the
 lovely Rádhá, in its search after the Divine. For among the Hindoos, the
@@ -121,7 +121,7 @@ What! you think that *that* will come back again, like sun and moon?
 
 He did not answer for a moment. Then he said slowly, in a low voice, as
 if speaking rather to himself than me: How should it not return? *na
-jáyate mriyate wa kadáchit* <span id="fr_3"></span>[d](#fn_3).
+jáyate mriyate wa kadáchit* <span id="fr_3"></span>[d](#fn_3.md).
 
 I looked at him, but said nothing. He continued to gaze steadily at the
 burning pyre, in silence, and I did the same. The flames were dying
@@ -154,27 +154,27 @@ island, seen far away in the haze, over a hot and glittering sea.
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:a](dos01.htm#fr_0) *Shrí* also means a Sacred
+<span id="fn_0"></span>[ix:a](dos01.htm#fr_0.md) *Shrí* also means a Sacred
 Lotus, and it is the name of the twelfth Digit of the Moon: thus
 indicating the position of this story in the series to which it belongs:
 for an account of which, and the manuscript, I may refer the reader to
 the preface to her predecessor *Shashiní*, entitled *A Digit of the
 Moon*.
 
-<span id="fn_1"></span>[ix:b](dos01.htm#fr_1) Cp. also I. 154, 155, and
+<span id="fn_1"></span>[ix:b](dos01.htm#fr_1.md) Cp. also I. 154, 155, and
 elsewhere. It should be observed that learned doctors differ as to the
 interpretation of the *three strides*: but this is not the place to
 examine their views.
 
-<span id="fn_2"></span>[xi:c](dos01.htm#fr_2) From this point of view,
+<span id="fn_2"></span>[xi:c](dos01.htm#fr_2.md) From this point of view,
 the period of Night would be the reign of *Tamas*, one of the three
 great categories of that philosophy: the Quality of *Darkness*, as
 opposed to *Light*, *Ignorance*, as opposed to *Knowledge*, *Evil*, as
 opposed to *Good*, the World *Below*, as opposed to the World *Above*.
 
-<span id="fn_3"></span>[xiii:d](dos01.htm#fr_3) From the Bhagwad-Gítá:
+<span id="fn_3"></span>[xiii:d](dos01.htm#fr_3.md) From the Bhagwad-Gítá:
 IT *is never born and never dies*.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](dos02)
+[Next: Contents](dos02.md)

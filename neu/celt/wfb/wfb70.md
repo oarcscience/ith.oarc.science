@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb69)  [Next](wfb71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb69)  [Next](wfb71.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ somewhere near your house."
 
 ------------------------------------------------------------------------
 
-[Next: Melangell's Lambs](wfb71)
+[Next: Melangell's Lambs](wfb71.md)

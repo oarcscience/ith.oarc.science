@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft12)  [Next](tft14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft12)  [Next](tft14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -49,7 +49,7 @@ would
 <span id="img_05100"></span> <span align="CENTER"> [![ONE DAY HE
 WANDERED AWAY UPON THE MOUNTAIN AND LAY DOWN AND WENT TO SLEEP, GRIEVING
 OVER HIS TROUBLES.](tn/05100.jpg)  
-Click to enlarge](img/05100.jpg)  
+Click to enlarge](img/05100.jpg.md)  
 ONE DAY HE WANDERED AWAY UPON THE MOUNTAIN AND LAY DOWN AND WENT TO
 SLEEP, GRIEVING OVER HIS TROUBLES.  
 </span>
@@ -104,4 +104,4 @@ decision of the goddesses.
 
 ------------------------------------------------------------------------
 
-[Next: Eleven: How the Louse Got the Black Streak Down His Back](tft14)
+[Next: Eleven: How the Louse Got the Black Streak Down His Back](tft14.md)

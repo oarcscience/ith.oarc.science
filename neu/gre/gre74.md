@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre73)  [Next](gre75) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre73)  [Next](gre75.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ or sixteen winters in outlawry, as Sturla Thordson has said.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXX: Of the Bonders who owned Drangey between
-them](gre75)
+them](gre75.md)

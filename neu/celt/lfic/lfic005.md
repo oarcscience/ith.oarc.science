@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic004)  [Next](lfic006) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic004)  [Next](lfic006.md) 
 
 ------------------------------------------------------------------------
 
@@ -211,4 +211,4 @@ counties of the Pale. Ruz, ''arose."
 
 ------------------------------------------------------------------------
 
-[Next: Adventures of Gilla na Chreck an Gour](lfic006)
+[Next: Adventures of Gilla na Chreck an Gour](lfic006.md)

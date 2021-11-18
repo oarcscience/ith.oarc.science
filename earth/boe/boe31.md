@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe30)  [Next](boe32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe30)  [Next](boe32.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ The Sun, for instance, when describing a certain segment
 
 [![PLATE XXXIX. &lt;i&gt;Kepler's diagram of The Law connecting the
 relative distances of the planets&lt;/i&gt;.](tn/pl39.jpg)  
-Click to enlarge](img/pl39.jpg)  
+Click to enlarge](img/pl39.jpg.md)  
 PLATE XXXIX. *Kepler's diagram of The Law connecting the relative
 distances of the planets*.  
 
@@ -52,7 +52,7 @@ A.D.)&lt;br&gt; 1. The Sun. 2. Excentric sphere. 3. Surrounding sphere.
 4. Complement of the surrounding sphere. 5. Centre of the world. 6.
 Centre of the excentric sphere.&lt;br&gt; (From &lt;i&gt;The History of
 the Planetary Systems from Thales to Kepler&lt;/i&gt;; J. L. E. Dreyer,
-1906.)](img/fig093.jpg)  
+1906.)](img/fig093.jpg.md)  
 FIGURE 93. *The excentric sphere of Mahmud ibn Muhammed ibn Omar al
 Jagmini* (c. 13th century A.D.)  
 1. The Sun. 2. Excentric sphere. 3. Surrounding sphere. 4. Complement of
@@ -77,7 +77,7 @@ Spheres&lt;/i&gt;'' &lt;i&gt;of Nasir-Eddin Attûsi&lt;/i&gt;&lt;br&gt;
 (13th century A.D.)&lt;br&gt; (From &lt;i&gt;The History of the
 Planetary Systems from Thales to Kepler&lt;/i&gt;; J. L. E. Dreyer,
 1906, pp. 269-270.)](tn/fig094.jpg)  
-Click to enlarge](img/fig094.jpg)  
+Click to enlarge](img/fig094.jpg.md)  
 FIGURE 94. *The* '*'Guiding Spheres*'' *of Nasir-Eddin Attûsi*  
 (13th century A.D.)  
 (From *The History of the Planetary Systems from Thales to Kepler*; J.
@@ -118,7 +118,7 @@ briefly, that a planet did not
 [![FIGURE 95. &lt;i&gt;The movement described by Mars,
 1580-1596&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Astronomia Nova&lt;/i&gt;;
 Johann Kepler, 1609.)](tn/fig095.jpg)  
-Click to enlarge](img/fig095.jpg)  
+Click to enlarge](img/fig095.jpg.md)  
 FIGURE 95. *The movement described by Mars, 1580-1596*.  
 (From *Astronomia Nova*; Johann Kepler, 1609.)  
 
@@ -142,7 +142,7 @@ excentric. S. Centre of the equant. The centre of the star-bearing
 circle at the top is the centre of the epicycle.&lt;br&gt; (From
 &lt;i&gt;Theoricæ Novæ&lt;/i&gt;; Georg Peurbach,
 1581.)](tn/fig096.jpg)  
-Click to enlarge](img/fig096.jpg)  
+Click to enlarge](img/fig096.jpg.md)  
 FIGURE 96. *Theory of three centres and the movement of Venus*.  
 M. Centre of the world. E. Centre of the excentric. S. Centre of the
 equant. The centre of the star-bearing circle at the top is the centre
@@ -160,7 +160,7 @@ that was to
 account for all the mysteries of the heavenly movements fell of itself.
 
 Dante's favorite description of the heavens was "wheels upon wheels,"
-and Jagmini's diagram ([Fig. 93](#img_fig093)) shows the "excentric
+and Jagmini's diagram ([Fig. 93](#img_fig093).md) shows the "excentric
 wheel" of the Sun, itself a solid spherical body the edges of whose
 wheel touch two other surfaces, in the common centre of which is the
 Earth. But the centre of
@@ -168,7 +168,7 @@ Earth. But the centre of
 <span id="img_fig097"></span> ![FIGURE 97. &lt;i&gt;The relation of the
 harmony of the Microcosmos to the Macrocosmos&lt;/i&gt;.&lt;br&gt; (From
 &lt;i&gt;Microcosmi Historia&lt;/i&gt;; Robert Fludd,
-1621.)](img/fig097.jpg)  
+1621.)](img/fig097.jpg.md)  
 FIGURE 97. *The relation of the harmony of the Microcosmos to the
 Macrocosmos*.  
 (From *Microcosmi Historia*; Robert Fludd, 1621.)
@@ -182,7 +182,7 @@ by other bodies moving in its epicycle and un-equally exposed to its
 light, and this phenomenon he calls "the anomaly of illumination." The
 movements of the five planets, particularly those of Mercury and Venus,
 required, he said, "the introducing of a system of guiding spheres," and
-this theory, when fully worked out ([Fig. 94](#img_fig094))
+this theory, when fully worked out ([Fig. 94](#img_fig094).md)
 
 <span id="page_234">p. 234</span>
 
@@ -191,7 +191,7 @@ nor a circle at all, but a curious closed curve
 
 <span id="img_fig098"></span> ![FIGURE 98. The Balance.&lt;br&gt; (From
 &lt;i&gt;Mundus Subterraneus&lt;/i&gt;; Athanasius Kircher, 1678, Vol.
-II.)](img/fig098.jpg)  
+II.)](img/fig098.jpg.md)  
 FIGURE 98. The Balance.  
 (From *Mundus Subterraneus*; Athanasius Kircher, 1678, Vol. II.)
 
@@ -202,4 +202,4 @@ not really one."
 
 ------------------------------------------------------------------------
 
-[Next: The World Octaves](boe32)
+[Next: The World Octaves](boe32.md)

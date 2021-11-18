@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb28)  [Next](olb30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb28)  [Next](olb30.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-### <span class="smallcaps">This is about the Geertmen.</span> <span id="fr_38"></span>[\*](#fn_38)
+### <span class="smallcaps">This is about the Geertmen.</span> <span id="fr_38"></span>[\*](#fn_38.md)
 
 When Hellenia or Min-erva died, the priests pretended to be with us, and
 in order to make it appear so, they deified Hellenia. They refused to
@@ -34,7 +34,7 @@ tales the stupid people were estranged from us, and at last they
 attacked us; but as we had built our stone city wall with two horns down
 to the sea, they could not get at us. Then, to and behold I an Egyptian
 high priest, bright of eye, clear of brain, and enlightened of mind,
-whose name was Cecrops <span id="fr_39"></span>[\*](#fn_39), came to
+whose name was Cecrops <span id="fr_39"></span>[\*](#fn_39.md), came to
 give them advice.
 
 When he saw that with his people he could not storm our wall, he sent
@@ -60,7 +60,7 @@ things stood there they went with Geert. The sea-king of
 
 the Tyrians brought them altogether through the strait which at that
 time ran into the Red Sea (now re-established as the Suez Canal) <span
-id="fr_40"></span>[\*](#fn_40). At last they landed at the Punjab,
+id="fr_40"></span>[\*](#fn_40.md). At last they landed at the Punjab,
 called in our language the Five Rivers, because five rivers flow
 together to the sea. Here they settled, and called it Geertmania. The
 King of Tyre afterwards, seeing that all his best sailors were gone,
@@ -74,15 +74,15 @@ of the virtues of the Geertmen, as every one can plainly understand.
 
 ### Footnotes
 
-<span id="fn_38"></span>[101:\*](olb29.htm#fr_38) Here follows the
+<span id="fn_38"></span>[101:\*](olb29.htm#fr_38.md) Here follows the
 narrative contained in page from 48 to 56.
 
-<span id="fn_39"></span>[103:\*](olb29.htm#fr_39) Sêkrops is Cecrops.
+<span id="fn_39"></span>[103:\*](olb29.htm#fr_39.md) Sêkrops is Cecrops.
 
-<span id="fn_40"></span>[105:\*](olb29.htm#fr_40) Strête, at present
+<span id="fn_40"></span>[105:\*](olb29.htm#fr_40.md) Strête, at present
 restored as the Suez Canal. Pangab is the Indus.
 
 ------------------------------------------------------------------------
 
 [Next: In the Year One Thousand and Five after Atland was submerged,
-this was inscribed on the Eastern Wall of Fryasburgt](olb30)
+this was inscribed on the Eastern Wall of Fryasburgt](olb30.md)

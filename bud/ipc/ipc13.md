@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc12)  [Next](ipc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc12)  [Next](ipc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -90,7 +90,7 @@ Antiochus, the Greek king,
 of which the generals of Antiochus are the rulers, everywhere the double
 system of medical aid of the Beloved of the Angels (Asoka) is
 established, both medical aid for men and medical aid for
-animals." <span id="fr_155"></span>[\*](#fn_154)
+animals." <span id="fr_155"></span>[\*](#fn_154.md)
 
 Indeed, these conclusions are completely confirmed by a second passage
 on the Girnar Rock.
@@ -99,7 +99,7 @@ on the Girnar Rock.
 rajah) Ptolemaios, and Gengakenos and Magas . . . have been induced to
 permit . . . both here and in foreign countries everywhere (the people)
 follow the doctrine of the religion of Devanampiya (the friend of the
-Angels) wherever it reacheth." <span id="fr_156"></span>[†](#fn_155)
+Angels) wherever it reacheth." <span id="fr_156"></span>[†](#fn_155.md)
 
 The king's name is never actually mentioned on the inscriptions. He is
 called the "Friend of the Angels" or Devas. According to Polybius,
@@ -139,13 +139,13 @@ Philo, Josephus, and Pliny, if they know nothing very definite, disprove
 this. Philo declares that their laws, which. differ radically from the
 Jewish laws, date from Moses. "Our law giver trained into fellowship
 great numbers of pupils whom he calls Essenes." <span
-id="fr_157"></span>[\*](#fn_156) He repeats this statement in the same
+id="fr_157"></span>[\*](#fn_156.md) He repeats this statement in the same
 work. He says likewise that they possess commentaries of ancient men who
 were founders of the school. This throws the Therapeuts back a long way.
 Josephus also gives to the Essenes Moses as a law giver, and states that
 anyone who blasphemed him was to be punished with death. He says, too,
 that the Essenes are as old as the Pharisees and Sadducees. <span
-id="fr_158"></span>[†](#fn_157) And Pliny the elder, who witnessed the
+id="fr_158"></span>[†](#fn_157.md) And Pliny the elder, who witnessed the
 Essene gatherings on the shores of the Dead Sea, their central haunt,
 affirms that they had existed there "through thousands of ages."
 
@@ -164,7 +164,7 @@ principal persons draw up their colony from all quarters as to a
 fatherland of Therapeuts, unto a well-regarded spot which lies on Lake
 Marea, on a somewhat low hill, very well situated both with regard to
 security and the mildness of the air." <span
-id="fr_159"></span>[\*](#fn_158) In fact Egypt swarmed with monks, for
+id="fr_159"></span>[\*](#fn_158.md) In fact Egypt swarmed with monks, for
 many centuries after Christ as well as before, and it was difficult to
 distinguish the sect of Christians from the worshippers of Serapis, whom
 we shall by-and-by show to have been S’iva a little disguised. From
@@ -185,7 +185,7 @@ But a question arises: Were the Essenes and the Therapeuts the same, or
 closely like each other? Some Christian apologists deny this, and they
 cite Josephus to show that the Essenes dwelt in cities and "employed
 themselves solely to the labour of agriculture." <span
-id="fr_160"></span>[†](#fn_159)
+id="fr_160"></span>[†](#fn_159.md)
 
 I think a description of a Buddhist monastery may throw a light on these
 and similar contradictions.
@@ -230,7 +230,7 @@ Christ. and explains
 
 <span id="img_pl14"></span> <span align="CENTER"> [![PLATE 14.&lt;br&gt;
 BUDDHIST MONASTERY, SIAM.](tn/pl14.jpg)  
-Click to enlarge](img/pl14.jpg)  
+Click to enlarge](img/pl14.jpg.md)  
 PLATE 14.  
 BUDDHIST MONASTERY, SIAM.  
 </span>
@@ -284,12 +284,12 @@ regulations. A culprit who "threw away a dead dog" was to receive a
 thousand blows with the horse-goad, and one thousand with the Craosha
 charana. A culprit who slew a dog with a "prickly back" and a "woolly
 muzzle" was to receive a similar punishment. <span
-id="fr_161"></span>[\*](#fn_160) This Zoroaster was particular about the
+id="fr_161"></span>[\*](#fn_160.md) This Zoroaster was particular about the
 number of gnats, ants, lizards that the devout were enjoined to
-kill. <span id="fr_162"></span>[†](#fn_161) This Zoroaster proclaimed a
+kill. <span id="fr_162"></span>[†](#fn_161.md) This Zoroaster proclaimed a
 god who loved to see on his altar a "hundred horses, a thousand cows,
 ten thousand small cattle," and so on. <span
-id="fr_163"></span>[‡](#fn_162) But the second Zoroaster proclaimed a
+id="fr_163"></span>[‡](#fn_162.md) But the second Zoroaster proclaimed a
 bloodless altar, and sought to tear the network of the first Zoroaster
 to shreds. What was the meaning of this? Simply that the Buddhist
 Wanderers had by this time invaded Persia, and had fastened their
@@ -320,7 +320,7 @@ followers. He promises the putting away of sins by a laver (of his own),
 and, if my memory still serves me, Mithras there (in the kingdom of
 Satan) sets his mark on the foreheads of his soldiers, celebrates also
 the oblation of bread, and introduces an image of the resurrection, and
-before a sword wreathes a crown." <span id="fr_164"></span>[\*](#fn_163)
+before a sword wreathes a crown." <span id="fr_164"></span>[\*](#fn_163.md)
 
 Here is another passage:—
 
@@ -331,7 +331,7 @@ thereupon a crown is put upon his head, is admonished to resist and cast
 it off, and, if he likes, transfer it to his shoulders, saying that
 Mithras is his crown. He even has his virgins and his ascetics
 (continentes). Let us take note of the devices of the devil, who is wont
-to ape some of God's things." <span id="fr_165"></span>[†](#fn_164)
+to ape some of God's things." <span id="fr_165"></span>[†](#fn_164.md)
 
 From this it is plain that the worshippers of Mithras had the simple
 rites of Buddhist and Christian, baptism and the bloodless altar; also
@@ -357,7 +357,7 @@ through the comedy of giving up his gold and silver, and baring his
 breast and feet, a form that once had a meaning. Mithras was born in a
 cave; and at Easter there was the ceremony called by Tertullian the
 "image of the resurrection." The worshippers, Fermicus tells us, <span
-id="fr_166"></span>[\*](#fn_165) placed by night a stone image on a bier
+id="fr_166"></span>[\*](#fn_165.md) placed by night a stone image on a bier
 in a cave and went through the forms of mourning. The dead god was then
 placed in a tomb, and after a time withdrawn from it. Then lights were
 lit, and poems of rejoicing sounded out: and the priest comforted the
@@ -406,7 +406,7 @@ then the greater.
 "I have tried the life of the recluse. Solitude brings no escape from
 spiritual danger. If it closes some avenues of temptation, there are few
 in whose case it does not open more. Yet the
-[Therapeutæ](errata.htm#29), a
+[Therapeutæ](errata.htm#29.md), a
 
 <span id="page_172">p. 172</span>
 
@@ -469,7 +469,7 @@ Greek language for holiness (Essen or Essaios—Hosios, holy), inasmuch as
 they have shown themselves pre-eminent by devotion to the service of
 God; not in the sacrifice of living animals, but rather in the
 determination to make their own minds fit for a holy offering." <span
-id="fr_167"></span>[\*](#fn_166)
+id="fr_167"></span>[\*](#fn_166.md)
 
 Plainly here the Essenes are pronounced of the same faith as the
 Gymnosophists of India, who abstain from the bloody sacrifice, that is
@@ -493,7 +493,7 @@ it is announced that on the occasion of the consecration of the famous
 Buddhist tope at Ruanwelli (160 to 137 B.C.), Buddhist monks came from
 all parts, including "30,000 from the vicinity of A’lasadda, the capital
 of the Yona country." (Alexandria, the capital of Greece). <span
-id="fr_168"></span>[\*](#fn_167)
+id="fr_168"></span>[\*](#fn_167.md)
 
 Dr. Lightfoot, the champion controversialist of his day, springs up at
 this and maintains that the Yona country is Bactria alone, and that the
@@ -532,43 +532,43 @@ red hot iron beds?
 
 ### Footnotes
 
-<span id="fn_154"></span>[163:\*](ipc13.htm#fr_155) Translation by
+<span id="fn_154"></span>[163:\*](ipc13.htm#fr_155.md) Translation by
 Prinsep, "Journ. Bung. As. Soc., "Vol. VII., p. 159.
 
-<span id="fn_155"></span>[163:†](ipc13.htm#fr_156) *Ibid*, p. 261.
+<span id="fn_155"></span>[163:†](ipc13.htm#fr_156.md) *Ibid*, p. 261.
 
-<span id="fn_156"></span>[164:\*](ipc13.htm#fr_157) Fragment of "Apology
+<span id="fn_156"></span>[164:\*](ipc13.htm#fr_157.md) Fragment of "Apology
 for the Jews."
 
-<span id="fn_157"></span>[164:†](ipc13.htm#fr_158) "Antiquities," Book
+<span id="fn_157"></span>[164:†](ipc13.htm#fr_158.md) "Antiquities," Book
 XVIII., C.1.
 
-<span id="fn_158"></span>[165:\*](ipc13.htm#fr_159) Vita Contemp.
+<span id="fn_158"></span>[165:\*](ipc13.htm#fr_159.md) Vita Contemp.
 
-<span id="fn_159"></span>[165:†](ipc13.htm#fr_160) "Antiq.," XVIII., 1,
+<span id="fn_159"></span>[165:†](ipc13.htm#fr_160.md) "Antiq.," XVIII., 1,
 par. 5.
 
-<span id="fn_160"></span>[168:\*](ipc13.htm#fr_161) "Zendavesta,"
+<span id="fn_160"></span>[168:\*](ipc13.htm#fr_161.md) "Zendavesta,"
 Fargard, XXX.
 
-<span id="fn_161"></span>[168:†](ipc13.htm#fr_162) *Ibid*, XIV.
+<span id="fn_161"></span>[168:†](ipc13.htm#fr_162.md) *Ibid*, XIV.
 
-<span id="fn_162"></span>[168:‡](ipc13.htm#fr_163) "Khordah Avesta,"
+<span id="fn_162"></span>[168:‡](ipc13.htm#fr_163.md) "Khordah Avesta,"
 XII.
 
-<span id="fn_163"></span>[169:\*](ipc13.htm#fr_164) Pres., V., Hoer,
+<span id="fn_163"></span>[169:\*](ipc13.htm#fr_164.md) Pres., V., Hoer,
 Chap. XI.
 
-<span id="fn_164"></span>[169:†](ipc13.htm#fr_165) "De Corona," XV.
+<span id="fn_164"></span>[169:†](ipc13.htm#fr_165.md) "De Corona," XV.
 
-<span id="fn_165"></span>[170:\*](ipc13.htm#fr_166) "De Errore," XXIII.
+<span id="fn_165"></span>[170:\*](ipc13.htm#fr_166.md) "De Errore," XXIII.
 
-<span id="fn_166"></span>[173:\*](ipc13.htm#fr_167) Philo, "Every
+<span id="fn_166"></span>[173:\*](ipc13.htm#fr_167.md) Philo, "Every
 virtuous man is free."
 
-<span id="fn_167"></span>[174:\*](ipc13.htm#fr_168) "Mahâwanso"
+<span id="fn_167"></span>[174:\*](ipc13.htm#fr_168.md) "Mahâwanso"
 (Turnour's translation), p. 171.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Essene Jesus](ipc14)
+[Next: Chapter XI. The Essene Jesus](ipc14.md)

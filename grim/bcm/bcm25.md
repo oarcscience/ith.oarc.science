@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm24)  [Next](bcm26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm24)  [Next](bcm26.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ the Occult Sciences*, with derivatives from the first of these works,
 such as the *Queen of the Hairy Flies*, the *Green Butterfly*, &c., form
 a class by themselves, and, with one exception, they are quite unserious
 publications, which can scarcely be called spurious, as they are almost
-without pretence. <span id="fr_64"></span>[1](#fn_64) They belong to the
+without pretence. <span id="fr_64"></span>[1](#fn_64.md) They belong to the
 late end of the eighteenth century. Dr. Encausse, the head of the French
 Martinists, suggests that they were all fabricated at Rome and
 infers--as seen previously--that we owe them to the industry of priests,
@@ -73,7 +73,7 @@ request, after due consideration, most readers will find it impossible
 to grant. The work, it has been said, is a romance, and the first thing
 which it makes clear is that even the addition of a thousand years to
 the date in the title is insufficient. <span
-id="fr_65"></span>[1](#fn_65) It is the narrative of a man who "formed
+id="fr_65"></span>[1](#fn_65.md) It is the narrative of a man who "formed
 part of the expedition to Egypt," and was "an officer in the army of the
 genius." The reference is, of course, to Napoleon and at best the date
 of composition is little more than a century ago. While in Egypt, the
@@ -159,7 +159,7 @@ description which here follows.
 
 ### Footnotes
 
-<span id="fn_64"></span>[113:1](bcm25.htm#fr_64) Much depends, however,
+<span id="fn_64"></span>[113:1](bcm25.htm#fr_64.md) Much depends, however,
 on the point of view of the critic. A work which, even in its own
 country, seems almost unknown, *Le Triple Vocabulaire Infernal*, a
 Manual of Demonomania, by Finellan, defines the Cabala as the art of
@@ -169,11 +169,11 @@ the Black Pullet; (3) That of the Queen of Hairy Flies; and (4) That of
 the Black Screech Owl. The works containing these mysteries are, it is
 said, exceedingly rare.
 
-<span id="fn_65"></span>[115:1](bcm25.htm#fr_65) It is not impossible
+<span id="fn_65"></span>[115:1](bcm25.htm#fr_65.md) It is not impossible
 that the middle of the nineteenth century may be the period to which it
 should be assigned.
 
 ------------------------------------------------------------------------
 
 [Next: Section 7: Talismans of the Sage of the Pyramids: I to
-III](bcm26)
+III](bcm26.md)

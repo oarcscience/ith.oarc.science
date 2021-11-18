@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac12)  [Next](sac14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac12)  [Next](sac14.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ F. Gaillard, a member
 <span id="page_97">p. 97</span>
 
 of the Paris Anthropological Society and of the Polymathic Society of
-Morbihan at Plouharnel. <span id="fr_17"></span>[1](#fn_17)
+Morbihan at Plouharnel. <span id="fr_17"></span>[1](#fn_17.md)
 
 M. Gaillard is a firm believer in the orientation theory, and accepts
 the view that a very considerable number of the alignments are
@@ -82,7 +82,7 @@ before anything certain can be said about them.
 
 I append a reproduction of one of M. Gaillard's plans, which will give
 an idea of his use of the index Menhir. It shows the alignments at Le
-Ménec, lat. 47½° ([Fig. 26](#img_fig26)). The line A—Soleil runs across
+Ménec, lat. 47½° ([Fig. 26](#img_fig26).md). The line A—Soleil runs across
 the stone alignments and is fixed from A by the menhir B, but there does
 not seem any good reason for selecting B except that it appears to fall
 in the line of the solstitial azimuth according to M. Gaillard. But if
@@ -111,7 +111,7 @@ many well-planned and
 <span id="img_fig26"></span>
 
 [![FIG. 26.—Alignments at Le Ménec.](tn/fig26.jpg)  
-Click to enlarge](img/fig26.jpg)  
+Click to enlarge](img/fig26.jpg.md)  
 FIG. 26.—Alignments at Le Ménec.  
 
 approximately accurate observations, has put the solstitial orientation
@@ -131,7 +131,7 @@ N.E., or rather
 <span id="img_fig27"></span>
 
 [![FIG. 27.—Menhir (A) on Melon Island.](tn/fig27.jpg)  
-Click to enlarge](img/fig27.jpg)  
+Click to enlarge](img/fig27.jpg.md)  
 FIG. 27.—Menhir (A) on Melon Island.  
 
 between N. 50° E. and N. 55° E. I had ascertained, moreover, the
@@ -157,7 +157,7 @@ the monuments are, on the contrary, complex; we find a cromlech with
 
 [![FIG. 28.—Melon Island, allowing Menhir (A) and Cromlech (B and
 C).](tn/fig28.jpg)  
-Click to enlarge](img/fig28.jpg)  
+Click to enlarge](img/fig28.jpg.md)  
 FIG. 28.—Melon Island, allowing Menhir (A) and Cromlech (B and C).  
 
 an avenue leading to it of a length of 800 metres, another of 300
@@ -185,14 +185,14 @@ in the small island of Melon
 <span id="img_fig29"></span>
 
 [![FIG. 29.—Menhirs of St. Dourzal, D, E, F.](tn/fig29.jpg)  
-Click to enlarge](img/fig29.jpg)  
+Click to enlarge](img/fig29.jpg.md)  
 FIG. 29.—Menhirs of St. Dourzal, D, E, F.  
 
 <span class="contnote">\[paragraph continues\]</span> (canton of
 Ploudalmézeau, latitude 48° 29´ 05″) a few metres from a tumulus
 surrounded by the ruins of a cromlech (B and C), has the section such
 that the faces, parallel and remarkably plane, are oriented N. 54° E.
-(Figs. [27](#img_fig27) and [28](#img_fig28)).
+(Figs. [27](#img_fig27) and [28](#img_fig28).md).
 
 “At 1300 metres in the same azimuth there is a line of three large
 menhirs (D, E, F), of which one (E) is overthrown. The direction of the
@@ -203,7 +203,7 @@ line passes exactly
 by the menhir A. Prolonged towards the N.E. it meets at 3k. 700m. an
 overturned block of 2m. 50 in height, which is without doubt a menhir;
 towards the S.W. it passes a little to the south some lines of the
-island of Molène. . . . ([Fig. 29](#img_fig29)).
+island of Molène. . . . ([Fig. 29](#img_fig29).md).
 
 “There exists in the neighbourhood other groups, forming also lines of
 the same orientation and that of
@@ -211,7 +211,7 @@ the same orientation and that of
 <span id="img_fig30"></span>
 
 [![FIG. 30.—Alignment at Lagatjar, G G´.](tn/fig30.jpg)  
-Click to enlarge](img/fig30.jpg)  
+Click to enlarge](img/fig30.jpg.md)  
 FIG. 30.—Alignment at Lagatjar, G G´.  
 
 the winter solstice. It is advisable to remark that orientations well
@@ -231,7 +231,7 @@ than fifty years ago a menhir at K,
 which is to-day broken and overturned. This megalith, known in the
 country by the name of 'pierre du Conseil' (a bronze axe was found
 underneath it) gives with a dolmen situated near Camaret the direction
-of the sunrise on June 21 ([Fig. 31](#img_fig31)).
+of the sunrise on June 21 ([Fig. 31](#img_fig31).md).
 
 "I have just spoken of the lines perpendicular to the solstitial one;
 there exists more especially in the complex monuments another
@@ -243,7 +243,7 @@ particularity which merits
 the direction of the dolmen. From the pierre du Conseil the dolmen marks
 the sunrise place at the summer solstice, and the avenue G G´ H H´ the
 sunset place on the same day.](tn/fig31.jpg)  
-Click to enlarge](img/fig31.jpg)  
+Click to enlarge](img/fig31.jpg.md)  
 FIG. 31.—Alignments at Lagatjar, showing the pierre du Conseil and the
 direction of the dolmen. From the pierre du Conseil the dolmen marks the
 sunrise place at the summer solstice, and the avenue G G´ H H´ the
@@ -252,7 +252,7 @@ sunset place on the same day.
 attention. Between two monuments, M and N, on a solstitial line,
 sometimes other menhirs are noticed, the line joining them being
 inclined 12° to the solstitial line, always towards the east" ([Fig
-32](#img_fig32)).
+32](#img_fig32).md).
 
 I must call particular attention to this important observation of
 Lieutenant Devoir, for it gives us the amplitude 24° N., the direction
@@ -275,7 +275,7 @@ solstitial alignments. The one at Kerloas (11 metres high) heads
 [![FIG. 32.—Menhirs, M N on N.E.-S.W. solstitial alignment. Menhirs 1,
 2, on May-August years alignment, sunrise May-August, sunset
 November-February.](tn/fig32.jpg)  
-Click to enlarge](img/fig32.jpg)  
+Click to enlarge](img/fig32.jpg.md)  
 FIG. 32.—Menhirs, M N on N.E.-S.W. solstitial alignment. Menhirs 1, 2,
 on May-August years alignment, sunrise May-August, sunset
 November-February.  
@@ -309,11 +309,11 @@ Stonehenge.
 
 ### Footnotes
 
-<span id="fn_17"></span>[97:1](sac13.htm#fr_17) "L’Astronomie
+<span id="fn_17"></span>[97:1](sac13.htm#fr_17.md) "L’Astronomie
 Prehistorique." Published in "Les Sciences Populaires, revue mensuelle
 internationale," and issued separately by the administration des
 "Sciences populaires," 15 Rue Lebrun, Paris.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Astronomical Hints For Archæologists](sac14)
+[Next: Chapter XI. Astronomical Hints For Archæologists](sac14.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc073) 
-[Next](motc075) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc073.md) 
+[Next](motc075.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ them all.
 
 ------------------------------------------------------------------------
 
-[Next: 75. Origin Of The Bear: The Bear Songs](motc075)
+[Next: 75. Origin Of The Bear: The Bear Songs](motc075.md)

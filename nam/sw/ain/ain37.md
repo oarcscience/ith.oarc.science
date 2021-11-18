@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain36)  [Next](ain38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain36)  [Next](ain38.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ open all night.
 (This has happened to me, O all my relatives.)
 
 And it was my own bones that I raked up, and with them made a fire that
-showed me the [opposite](errata.htm#29) land, the Land of the Enemy.
+showed me the [opposite](errata.htm#29.md) land, the Land of the Enemy.
 
 (This was done, my relatives.)
 
@@ -157,7 +157,7 @@ And this way I spoke to him, and he told me the news of the weakness of
 the Apaches.
 
 And I ran out of the house, and went westward, and found the old woman
-doctor, [Tawquahdahmawks](errata.htm#30).
+doctor, [Tawquahdahmawks](errata.htm#30.md).
 
 And I said to her:
 
@@ -181,7 +181,7 @@ she told me this, and I went out from there and strengthened myself four
 times.
 
 And I spread the news when I got home, and set the
-[doctor](errata.htm#31) over it.
+[doctor](errata.htm#31.md) over it.
 
 And there was the stump of the doctor's pipe standing there, and smoking
 itself, and I imbibed it, and smoked it toward the enemy, and the, smoke
@@ -278,7 +278,7 @@ they camped a man prophesied, and said:
 
 "Now we have heard our war-speech, and are on our way, and I foresee the
 way beautiful with flowers, even the big trees covered with flowers,
-[and](errata.htm#32) I can see that we come to the enemy and conquer
+[and](errata.htm#32.md) I can see that we come to the enemy and conquer
 then easily.
 
 And the road to the east is lined with white flowers, and the Apaches,
@@ -422,4 +422,4 @@ short time that we rejoice over our enemy."
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of the Gambler's War](ain38)
+[Next: Notes on the Story of the Gambler's War](ain38.md)

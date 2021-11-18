@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ath01)  [Next](ath03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ath01)  [Next](ath03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -563,4 +563,4 @@ cannot so dwell in what is not Divine that they are one.
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](ath03)
+[Next: 101-150](ath03.md)

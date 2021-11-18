@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps20)  [Next](rps22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps20)  [Next](rps22.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Omega and Lady Pettersburgh, King of Kings.
 ------------------------------------------------------------------------
 
 [Next: Chapter 20. The Royal Swaddling of Jesus and John the
-Baptist](rps22)
+Baptist](rps22.md)

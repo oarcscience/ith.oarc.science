@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Confucianism](../../cfu/index)  [Index](index)  [Previous](aow06) 
-[Next](aow08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Confucianism](../../cfu/index)  [Index](index)  [Previous](aow06.md) 
+[Next](aow08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of War*, by Lionel Giles, \[1910\], at Intangible Textual
 Heritage
 
@@ -86,7 +86,7 @@ dispensed with in the State, so military chastisement can never be
 allowed to fall into abeyance in the Empire. All one can say is that
 this power will be exercised wisely by some, foolishly by others, and
 that among those who bear arms some will be loyal and others
-rebellious. <span id="fr_127"></span>[1](#fn_127)
+rebellious. <span id="fr_127"></span>[1](#fn_127.md)
 
 </div>
 
@@ -110,7 +110,7 @@ flogging in the market-place, are all done by officials. But the
 wielding of huge armies, the throwing down of fortified cities, the
 haling of women and children into captivity, and the beheading of
 traitors—this is also work which is done by officials. The objects of
-the rack <span id="fr_128"></span>[1](#fn_128) and of military weapons
+the rack <span id="fr_128"></span>[1](#fn_128.md) and of military weapons
 are essentially the same. There is no intrinsic difference between the
 punishment of flogging and cutting off heads in war. For the lesser
 infractions of law, which are easily dealt with, only a small amount of
@@ -119,11 +119,11 @@ For more serious outbreaks of lawlessness, which are hard to suppress, a
 greater amount of force is necessary: hence the use of military weapons
 and wholesale decapitation. In both cases, however, the end in view is
 to get rid of wicked people, and to give comfort and relief to the
-good <span id="fr_129"></span>[2](#fn_129) …
+good <span id="fr_129"></span>[2](#fn_129.md) …
 
 Chi-sun asked Jan Yu, saying: "Have you, Sir, acquired your military
 aptitude by study, or is it innate?" Jan Yu replied: "It has been
-acquired by study." <span id="fr_130"></span>[3](#fn_130) "How can that
+acquired by study." <span id="fr_130"></span>[3](#fn_130.md) "How can that
 be so," said Chi-sun, "seeing that you are a disciple of Confucius?" "It
 is a fact," replied Jan Yu; "I was taught by Confucius. It is fitting
 that the great Sage should exercise both civil and military functions,
@@ -147,19 +147,19 @@ the way in
 <div style="font-size: 90%">
 
 which, through sheer lack of reasoning, men unhappily lose sight of
-fundamental principles. <span id="fr_131"></span>[1](#fn_131)
+fundamental principles. <span id="fr_131"></span>[1](#fn_131.md)
 
 When the Duke of Chou was minister under Ch‘êng Wang, he regulated
 ceremonies and made music, and venerated the arts of scholarship and
 learning; yet when the barbarians of the River Huai revolted, <span
-id="fr_132"></span>[2](#fn_132) he sallied forth and chastised them.
+id="fr_132"></span>[2](#fn_132.md) he sallied forth and chastised them.
 When Confucius held office under the Duke of Lu, and a meeting was
-convened at Chia-ku, <span id="fr_133"></span>[3](#fn_133) he said: "If
+convened at Chia-ku, <span id="fr_133"></span>[3](#fn_133.md) he said: "If
 pacific negotiations are in progress, warlike preparations should have
 been made beforehand." He rebuked and shamed the Marquis of Ch‘i, who
 cowered under him and dared not proceed to violence. How can it be said
 that these two great Sages had no knowledge of military matters? <span
-id="fr_134"></span>[4](#fn_134)
+id="fr_134"></span>[4](#fn_134.md)
 
 </div>
 
@@ -170,15 +170,15 @@ appeals to the authority of the Classics:—
 
 Our Master Confucius, answering Duke Ling of Wei, said: "I have never
 studied matters connected with armies and battalions." <span
-id="fr_135"></span>[5](#fn_135) Replying to K‘ung Wên-tzŭ, he said: "I
+id="fr_135"></span>[5](#fn_135.md) Replying to K‘ung Wên-tzŭ, he said: "I
 have not been instructed about buff-coats and weapons." <span
-id="fr_136"></span>[6](#fn_136) "But if we turn to the meeting at
-Chia-ku, <span id="fr_137"></span>[7](#fn_137) we find that he used
+id="fr_136"></span>[6](#fn_136.md) "But if we turn to the meeting at
+Chia-ku, <span id="fr_137"></span>[7](#fn_137.md) we find that he used
 armed force against the men of Lai, <span
-id="fr_138"></span>[8](#fn_138) so that the marquis of Ch‘i was
+id="fr_138"></span>[8](#fn_138.md) so that the marquis of Ch‘i was
 overawed. Again, when the inhabitants of Pi revolted, he ordered his
 officers to attack them, whereupon they were defeated and fled in
-confusion. <span id="fr_139"></span>[9](#fn_139) He once tittered the
+confusion. <span id="fr_139"></span>[9](#fn_139.md) He once tittered the
 words: "If I fight, I
 
 </div>
@@ -187,12 +187,12 @@ words: "If I fight, I
 
 <div style="font-size: 90%">
 
-conquer." <span id="fr_140"></span>[1](#fn_140) And Jan Yu also said:
+conquer." <span id="fr_140"></span>[1](#fn_140.md) And Jan Yu also said:
 "The Sage exercises both civil and military functions." <span
-id="fr_141"></span>[2](#fn_141) Can it be a fact that Confucius never
+id="fr_141"></span>[2](#fn_141.md) Can it be a fact that Confucius never
 studied or received instruction in the art of war? We can only say that
 he did not specially choose matters connected with armies and fighting
-to be the subject of his teaching. <span id="fr_142"></span>[3](#fn_142)
+to be the subject of his teaching. <span id="fr_142"></span>[3](#fn_142.md)
 
 </div>
 
@@ -201,10 +201,10 @@ Sun Hsing-yen, the editor of Sun Tzŭ, writes in similar strain:—
 <div style="font-size: 90%">
 
 Confucius said: "I am unversed in military matters." <span
-id="fr_143"></span>[4](#fn_143) He also said: "If I fight, I
-conquer." <span id="fr_144"></span>[4](#fn_143) Confucius ordered
+id="fr_143"></span>[4](#fn_143.md) He also said: "If I fight, I
+conquer." <span id="fr_144"></span>[4](#fn_143.md) Confucius ordered
 ceremonies and regulated music. Now war constitutes one of the five
-classes of State ceremonial, <span id="fr_145"></span>[5](#fn_144) and
+classes of State ceremonial, <span id="fr_145"></span>[5](#fn_144.md) and
 must not be treated as an independent branch of study. Hence, the words
 "I am unversed in" must be taken to mean that there are things which
 even an inspired Teacher does not know. Those who have to lead an army
@@ -212,13 +212,13 @@ and devise stratagems, must learn the art of war. But if one can command
 the services of a good general like Sun Tzŭ, who was employed by Wu
 Tzŭ-hsü, there is no need to learn it oneself. Hence the remark added by
 Confucius: "If I fight, I conquer." <span
-id="fr_146"></span>[6](#fn_145)
+id="fr_146"></span>[6](#fn_145.md)
 
 The men of the present day, however, wilfully interpret these words of
 Confucius in their narrowest sense, as though he meant that books on the
 art of war were not worth reading. With blind persistency, they adduce
 the example of Chao Kua, who pored over his father's books to no
-purpose, <span id="fr_147"></span>[7](#fn_146) as a proof that all
+purpose, <span id="fr_147"></span>[7](#fn_146.md) as a proof that all
 military theory is useless. Again, seeing
 
 </div>
@@ -233,29 +233,29 @@ immoral and unworthy of a sage. These people ignore the fact that the
 studies of our scholars and the civil administration of our officials
 also require steady application and practice before efficiency is
 reached. The ancients were particularly chary of allowing mere novices
-to botch their work. <span id="fr_148"></span>[1](#fn_147) Weapons are
-baneful <span id="fr_149"></span>[2](#fn_148) and fighting perilous; and
+to botch their work. <span id="fr_148"></span>[1](#fn_147.md) Weapons are
+baneful <span id="fr_149"></span>[2](#fn_148.md) and fighting perilous; and
 unless a general is in constant practice, he ought not to hazard other
-men's lives in battle. <span id="fr_150"></span>[3](#fn_149) Hence it is
+men's lives in battle. <span id="fr_150"></span>[3](#fn_149.md) Hence it is
 essential that Sun Tzŭ's 13 chapters should be studied. <span
-id="fr_151"></span>[4](#fn_150)
+id="fr_151"></span>[4](#fn_150.md)
 
 Hsiang Liang used to instruct his nephew Chi <span
-id="fr_152"></span>[5](#fn_151) in the art of war. Chi got a rough idea
+id="fr_152"></span>[5](#fn_151.md) in the art of war. Chi got a rough idea
 of the art in its general bearings, but would not pursue his studies to
 their proper outcome, the consequence being that he was finally defeated
 and overthrown. He did not realise that the tricks and artifices of war
 are beyond verbal computation. Duke Hsiang of Sung <span
-id="fr_153"></span>[6](#fn_152) and King Yen of Hsü <span
-id="fr_154"></span>[7](#fn_153) were brought to destruction by their
+id="fr_153"></span>[6](#fn_152.md) and King Yen of Hsü <span
+id="fr_154"></span>[7](#fn_153.md) were brought to destruction by their
 misplaced humanity. The treacherous and underhand nature of war
 necessitates the use of guile and stratagem suited to the occasion.
 There is a case on record of Confucius himself having violated an
-extorted oath, <span id="fr_155"></span>[8](#fn_154) and also of his
+extorted oath, <span id="fr_155"></span>[8](#fn_154.md) and also of his
 having left the Sung State in disguise. <span
-id="fr_156"></span>[9](#fn_155) Can we then recklessly arraign Sun Tzŭ
+id="fr_156"></span>[9](#fn_155.md) Can we then recklessly arraign Sun Tzŭ
 for disregarding truth and honesty? <span
-id="fr_157"></span>[10](#fn_156)
+id="fr_157"></span>[10](#fn_156.md)
 
 </div>
 
@@ -263,97 +263,97 @@ id="fr_157"></span>[10](#fn_156)
 
 ### Footnotes
 
-<span id="fn_127"></span>[xlv:1](aow07.htm#fr_127) *Shih Chi*, ch. 25,
+<span id="fn_127"></span>[xlv:1](aow07.htm#fr_127.md) *Shih Chi*, ch. 25,
 fol. 1: \#.
 
-<span id="fn_128"></span>[xlvi:1](aow07.htm#fr_128) The first Instance
+<span id="fn_128"></span>[xlvi:1](aow07.htm#fr_128.md) The first Instance
 of \# in the *P‘ei Wên Yün Fu* is from Ssŭ-ma Ch‘ien's letter to \# Jên
 An (see \#, ch. 41, f. 9 *r*°), where M. Chavannes translates it "la
 cangue et la chaîne." But in the present passage it seems rather to
 indicate some single instrument of torture.
 
-<span id="fn_129"></span>[xlvi:2](aow07.htm#fr_129) \#.
+<span id="fn_129"></span>[xlvi:2](aow07.htm#fr_129.md) \#.
 
-<span id="fn_130"></span>[xlvi:3](aow07.htm#fr_130) Cf. *Shih Chi*, cf.
+<span id="fn_130"></span>[xlvi:3](aow07.htm#fr_130.md) Cf. *Shih Chi*, cf.
 47, f. 11 *v*°.
 
-<span id="fn_131"></span>[xlvii:1](aow07.htm#fr_131) \#.
+<span id="fn_131"></span>[xlvii:1](aow07.htm#fr_131.md) \#.
 
-<span id="fn_132"></span>[xlvii:2](aow07.htm#fr_132) See *Shu Ching*,
+<span id="fn_132"></span>[xlvii:2](aow07.htm#fr_132.md) See *Shu Ching*,
 preface § 55.
 
-<span id="fn_133"></span>[xlvii:3](aow07.htm#fr_133) See *Tso Chuan*, \#
+<span id="fn_133"></span>[xlvii:3](aow07.htm#fr_133.md) See *Tso Chuan*, \#
 X. 2; *Shih Chi*, ch. 47, t. 4 *r*°.
 
-<span id="fn_134"></span>[xlvii:4](aow07.htm#fr_134) \#.
+<span id="fn_134"></span>[xlvii:4](aow07.htm#fr_134.md) \#.
 
-<span id="fn_135"></span>[xlvii:5](aow07.htm#fr_135) *Lun Yü*, XV, 1.
+<span id="fn_135"></span>[xlvii:5](aow07.htm#fr_135.md) *Lun Yü*, XV, 1.
 
-<span id="fn_136"></span>[xlvii:6](aow07.htm#fr_136) *Tso Chuan*, \#,
+<span id="fn_136"></span>[xlvii:6](aow07.htm#fr_136.md) *Tso Chuan*, \#,
 XI.
 
-<span id="fn_137"></span>[xlvii:7](aow07.htm#fr_137) See *supra*.
+<span id="fn_137"></span>[xlvii:7](aow07.htm#fr_137.md) See *supra*.
 
-<span id="fn_138"></span>[xlvii:8](aow07.htm#fr_138) *Tso Chuan*, \#, X.
+<span id="fn_138"></span>[xlvii:8](aow07.htm#fr_138.md) *Tso Chuan*, \#, X.
 2.
 
-<span id="fn_139"></span>[xlvii:9](aow07.htm#fr_139) *Ibid.* XII. 5;
+<span id="fn_139"></span>[xlvii:9](aow07.htm#fr_139.md) *Ibid.* XII. 5;
 *Chia Yü*, ch. 1 *ad fin*.
 
-<span id="fn_140"></span>[xlviii:1](aow07.htm#fr_140) I have failed to
-trace this utterance. See note [2](aow06.htm#fn_122) on [p.
-xliii](aow06.htm#page_xliii).
+<span id="fn_140"></span>[xlviii:1](aow07.htm#fr_140.md) I have failed to
+trace this utterance. See note [2](aow06.htm#fn_122.md) on [p.
+xliii](aow06.htm#page_xliii.md).
 
-<span id="fn_141"></span>[xlviii:2](aow07.htm#fr_141) See *supra*.
+<span id="fn_141"></span>[xlviii:2](aow07.htm#fr_141.md) See *supra*.
 
-<span id="fn_142"></span>[xlviii:3](aow07.htm#fr_142) \#, *loc. cit.*:
+<span id="fn_142"></span>[xlviii:3](aow07.htm#fr_142.md) \#, *loc. cit.*:
 \#.
 
-<span id="fn_143"></span>[xlviii:4](aow07.htm#fr_144) See *supra*.
+<span id="fn_143"></span>[xlviii:4](aow07.htm#fr_144.md) See *supra*.
 
-<span id="fn_144"></span>[xlviii:5](aow07.htm#fr_145) *Viz.*, \#. the
+<span id="fn_144"></span>[xlviii:5](aow07.htm#fr_145.md) *Viz.*, \#. the
 other four being \#, \#, \# and \# "worship, mourning, entertainment of
 guests and festive rites." See *Shu Ching*, II, 1, iii. 8, and *Chou
 Li*, IX, fol. 49.
 
-<span id="fn_145"></span>[xlviii:6](aow07.htm#fr_146) Preface to Sun
+<span id="fn_145"></span>[xlviii:6](aow07.htm#fr_146.md) Preface to Sun
 Tzŭ: \#.
 
-<span id="fn_146"></span>[xlviii:7](aow07.htm#fr_147) See [p.
-166](aow21.htm#page_166).
+<span id="fn_146"></span>[xlviii:7](aow07.htm#fr_147.md) See [p.
+166](aow21.htm#page_166.md).
 
-<span id="fn_147"></span>[xlix:1](aow07.htm#fr_148) This is a rather
+<span id="fn_147"></span>[xlix:1](aow07.htm#fr_148.md) This is a rather
 obscure allusion to *Tso Chuan*, \#, XXXI. 4, where Tzŭ-ch‘an says: \#
 "If you have a piece of beautiful brocade, you will nor employ a mere
 learner to make it up."
 
-<span id="fn_148"></span>[xlix:2](aow07.htm#fr_149) Cf. *Tao Tê Ching*,
+<span id="fn_148"></span>[xlix:2](aow07.htm#fr_149.md) Cf. *Tao Tê Ching*,
 ch. 31: \#.
 
-<span id="fn_149"></span>[xlix:3](aow07.htm#fr_150) Sun Hsing-yen might
+<span id="fn_149"></span>[xlix:3](aow07.htm#fr_150.md) Sun Hsing-yen might
 have quoted Confucius again. See *Lun Yü*, XIII. 29, 30.
 
-<span id="fn_150"></span>[xlix:4](aow07.htm#fr_151) \#.
+<span id="fn_150"></span>[xlix:4](aow07.htm#fr_151.md) \#.
 
-<span id="fn_151"></span>[xlix:5](aow07.htm#fr_152) Better known as
+<span id="fn_151"></span>[xlix:5](aow07.htm#fr_152.md) Better known as
 Hsiang \# Yü \[B.C. 233–202\].
 
-<span id="fn_152"></span>[xlix:6](aow07.htm#fr_153) The third among the
-\# (or \#) enumerated on [p. 141](aow19.htm#page_141). For the incident
+<span id="fn_152"></span>[xlix:6](aow07.htm#fr_153.md) The third among the
+\# (or \#) enumerated on [p. 141](aow19.htm#page_141.md). For the incident
 referred to, see *Tso Chuan*, \#, XXII. 4.
 
-<span id="fn_153"></span>[xlix:7](aow07.htm#fr_154) See *supra*, [p.
-xvi](aow03.htm#page_xvi), note [4](aow03.htm#fn_25).
+<span id="fn_153"></span>[xlix:7](aow07.htm#fr_154.md) See *supra*, [p.
+xvi](aow03.htm#page_xvi), note [4](aow03.htm#fn_25.md).
 
-<span id="fn_154"></span>[xlix:8](aow07.htm#fr_155) *Shih Chi*, ch. 47,
+<span id="fn_154"></span>[xlix:8](aow07.htm#fr_155.md) *Shih Chi*, ch. 47,
 f. 7 *r*°.
 
-<span id="fn_155"></span>[xlix:9](aow07.htm#fr_156) *Ibid*., ch. 38, f.
+<span id="fn_155"></span>[xlix:9](aow07.htm#fr_156.md) *Ibid*., ch. 38, f.
 8 *v*°.
 
-<span id="fn_156"></span>[xlix:10](aow07.htm#fr_157) \# <span
+<span id="fn_156"></span>[xlix:10](aow07.htm#fr_157.md) \# <span
 id="page_l">p. l</span> \#.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](aow08)
+[Next: Bibliography](aow08.md)

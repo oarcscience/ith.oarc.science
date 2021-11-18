@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow17)  [Next](wow19) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow17)  [Next](wow19.md) 
 
 ------------------------------------------------------------------------
 
@@ -272,4 +272,4 @@ noise I made stirred him up and I heard him crawling after me.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two: What We Saw From The Ruined House](wow19)
+[Next: Chapter Two: What We Saw From The Ruined House](wow19.md)

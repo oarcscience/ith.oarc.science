@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](kas01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](kas01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Contents](kas01)
+[Next: Contents](kas01.md)

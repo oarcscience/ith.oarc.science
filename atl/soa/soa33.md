@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa32)  [Next](soa34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa32)  [Next](soa34.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ of which fastened together constituted a book.
 
 ------------------------------------------------------------------------
 
-[Next: Food](soa34)
+[Next: Food](soa34.md)

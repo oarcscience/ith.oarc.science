@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll07)  [Next](tll09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll07)  [Next](tll09.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ To explain the possibility of the process by which the etheric form
 evolved into a more physical form, and the soft-boned physical form
 ultimately developed into a structure such as man possesses to-day, it
 is only necessary to refer to the permanent physical atom. <span
-id="fr_13"></span>[1](#fn_13) Containing as it does the essence of all
+id="fr_13"></span>[1](#fn_13.md) Containing as it does the essence of all
 the forms through which
 
 <span id="page_22">p. 22</span>
@@ -82,11 +82,11 @@ the appropriate kind of matter.
 
 ### Footnotes
 
-<span id="fn_13"></span>[21:1](tll08.htm#fr_13) For a further account of
+<span id="fn_13"></span>[21:1](tll08.htm#fr_13.md) For a further account of
 the permanent atoms on all the planes, and the potentialities contained
 in them with reference to the processes of death and re-birth, see
 "Man's Place in Universe." pp. 76-80.
 
 ------------------------------------------------------------------------
 
-[Next: Organs of Vision](tll09)
+[Next: Organs of Vision](tll09.md)

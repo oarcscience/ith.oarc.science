@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes06)  [Next](tes08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes06)  [Next](tes08.md) 
 
 ------------------------------------------------------------------------
 
-### 4. (THE SLY YOUNG MAN.) <span id="fr_6"></span>[1](#fn_6)
+### 4. (THE SLY YOUNG MAN.) <span id="fr_6"></span>[1](#fn_6.md)
 
 There were two brothers, one married, the other unmarried. The married
 one lived in one place; the unmarried one, in another. They did not want
@@ -18,7 +18,7 @@ having quite a merry time with his sister-in-law. They were hugging and
 kissing, and talking and playing with each other. He thought, "My
 brother is not here. Probably he is off hunting wild reindeer." The
 others meanwhile took off their breeches <span
-id="fr_7"></span>[2](#fn_7) and made love right before him, though
+id="fr_7"></span>[2](#fn_7.md) and made love right before him, though
 unaware of his presence. At the most critical moment the young man
 entered the house. The woman, however, shook herself free, swifter than
 a she-ermine, and in a moment the man too was hidden beneath the
@@ -234,7 +234,7 @@ much
 ado, cutoff the head of his sister-in-law. "There you are!" said he.
 "You shall have no more paramours." He gave his brother the old man's
 daughter and took for himself the old woman's daughter. After that they
-lived on. <span id="fr_8"></span>[1](#fn_8)
+lived on. <span id="fr_8"></span>[1](#fn_8.md)
 
 Told by Innocent Karyakin, a Tundra Yukaghir man, on the western tundra
 of the Kolyma country, winter of 1895.
@@ -243,18 +243,18 @@ of the Kolyma country, winter of 1895.
 
 ### Footnotes
 
-<span id="fn_6"></span>[14:1](tes07.htm#fr_6) This tale represents a
+<span id="fn_6"></span>[14:1](tes07.htm#fr_6.md) This tale represents a
 mixture of some Russian and Yakut episodes adapted to the ideas and
 customs of the tundra inhabitants. Some details are curious enough;
 such, for instance, as nails driven into the flesh of the heel, which
 undoubtedly represent spurs, etc.
 
-<span id="fn_7"></span>[14:2](tes07.htm#fr_7) Women also wear breeches
+<span id="fn_7"></span>[14:2](tes07.htm#fr_7.md) Women also wear breeches
 among the Chukchee, the Lamut, the Yukaghir, etc.
 
-<span id="fn_8"></span>[19:1](tes07.htm#fr_8) See Bolte und Polívka, *l.
+<span id="fn_8"></span>[19:1](tes07.htm#fr_8.md) See Bolte und Polívka, *l.
 c.*, vol. 2, 1.--F. B.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Creation Story](tes08)
+[Next: 5. Creation Story](tes08.md)

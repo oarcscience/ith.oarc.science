@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../../journals/index) [Zoroastrianism](../index)
+Heritage](../../index) [Journals](../../journals/index) [Zoroastrianism](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -26,21 +26,21 @@ from <em>The Open Court</em>, vol. XXI, 3, p. 189 [1907].</span></td>
 
 ------------------------------------------------------------------------
 
-[God and His Immortals](../../journals/oc/lm-ghi1) (vol. XXI, 1, pp.
+[God and His Immortals](../../journals/oc/lm-ghi1.md) (vol. XXI, 1, pp.
 33-42) \[1907\]  
-[God and His Immortals: Their Counterparts](../../journals/oc/lm-ghi2)
+[God and His Immortals: Their Counterparts](../../journals/oc/lm-ghi2.md)
 (vol. XXI, 3, pp. 164-168) \[1907\]  
 [God Hypothetically Conceived As More Than
-Personal](../../journals/oc/lm-gmp) (vol. XXI, 9, pp. 547-556)
+Personal](../../journals/oc/lm-gmp) (vol. XXI, 9, pp. 547-556.md)
 \[1907\]  
-[God and the World Physical](../../journals/oc/lm-gwp) (vol. XXII, 4,
+[God and the World Physical](../../journals/oc/lm-gwp.md) (vol. XXII, 4,
 pp. 216-223) \[1908\]  
    
 **see also Mills' short commentary on Rumi:**  
-["God Has No Opposite"](../../journals/oc/lm-ghno) (vol. XXII, 10, pp.
+["God Has No Opposite"](../../journals/oc/lm-ghno.md) (vol. XXII, 10, pp.
 577-580) \[1908\]  
 
 ------------------------------------------------------------------------
 
 [Intangible Textual
-Heritage](../../index) [Journals](../../journals/index) [Zoroastrianism](../index)
+Heritage](../../index) [Journals](../../journals/index) [Zoroastrianism](../index.md)

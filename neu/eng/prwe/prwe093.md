@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe092)  [Next](prwe094) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe092)  [Next](prwe094.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ out at sea, marked by a line drawn from the rocks off St Agnes, known as
 
 ------------------------------------------------------------------------
 
-[Next: Fire Worship](prwe094)
+[Next: Fire Worship](prwe094.md)

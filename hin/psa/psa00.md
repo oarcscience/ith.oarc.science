@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](psa01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](psa01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,19 +25,19 @@
 <span id="img_spine"></span>
 
 [![Spine](tn/spine.jpg)  
-Click to enlarge](img/spine.jpg)  
+Click to enlarge](img/spine.jpg.md)  
 Spine  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 Scanned at Intangible Textual Heritage, April, 2006. Proofed and
@@ -48,4 +48,4 @@ attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Translation](psa01)
+[Next: Preface to the Translation](psa01.md)

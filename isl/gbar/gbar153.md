@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar152) [Next](gbar154)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar152) [Next](gbar154.md)
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ God, and giveth it to Satan, the enemy of God.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar154)
+[Next](gbar154.md)

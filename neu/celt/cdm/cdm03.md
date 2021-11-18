@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm02) 
-[Next](cdm04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm02.md) 
+[Next](cdm04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -25,9 +25,9 @@ Textual Heritage
 killing of the monster that guarded the rowan-tree, and his
 betrothal*.\]
 
-1\. Fraoch, son of Idad <span id="fr_39"></span>[1](#fn_39) of
+1\. Fraoch, son of Idad <span id="fr_39"></span>[1](#fn_39.md) of
 Connaught, was a son of Bébinn from the *Sídh*, <span
-id="fr_40"></span>[2](#fn_40) whose sister hight Boyne (*Bofind*). Of
+id="fr_40"></span>[2](#fn_40) whose sister hight Boyne (*Bofind*.md). Of
 the heroes of Erin and of Alba the most beautiful man was he, save only
 that he was short-lived. Twelve cows his mother gave him from the
 *Sídh;* white with red ears were they. For seven years he kept household
@@ -52,7 +52,7 @@ hue like to a beetle's back, with four black-grey brooch-rings on each,
 and each with a pin of red gold: with fifty pale white tunics having
 animal figures chased in gold. Also fifty silver shields edged with
 gold. For each man's hand a lance like to a candle such as befitted a
-palace, <span id="fr_41"></span>[1](#fn_41) each having fifty rivets of
+palace, <span id="fr_41"></span>[1](#fn_41.md) each having fifty rivets of
 white-bronze, with knobs of burnished gold: the spear-points from below
 were of carbuncle inwrought, while the front irons of the spears were
 chased with precious stones, so that night shone as ’twere by the rays
@@ -109,12 +109,12 @@ They accordingly name themselves after their true names, which they
 gave.
 
 "Here," said they, "is Fraoch, son of Idad." <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 This the steward declares to the king and queen.
 
 "An illustrious young hero," quoth Ailill, "let him come into the
-*Liss*." <span id="fr_43"></span>[2](#fn_43)
+*Liss*." <span id="fr_43"></span>[2](#fn_43.md)
 
 And quarters were allotted them.
 
@@ -178,7 +178,7 @@ the strings the figures would move all about. The harpers having played,
 twelve of Ailill and of Mève's folk died of sorrow and of grief.
 
 10\. Gentle and melodious this Triad; theirs were the chants of
-child-birth. <span id="fr_44"></span>[1](#fn_44) Three noble brothers
+child-birth. <span id="fr_44"></span>[1](#fn_44.md) Three noble brothers
 were they: Sorrow-strain, Joy-strain, Sleep-strain, and Boyne from the
 Shee (*Sídhe*) their mother: it is of this music which Uaithne the
 Dagda's harp played that the three are named. What time children were
@@ -251,7 +251,7 @@ with Ailill and Mève. They ask him his errand.
 
 Your company is indeed not displeasing to the household," said Ailill.
 "Your arrival is preferable to your departure. <span
-id="fr_45"></span>[1](#fn_45)"
+id="fr_45"></span>[1](#fn_45.md)"
 
 "We shall stay with you another week, then," said Fraoch.
 
@@ -288,7 +288,7 @@ They each then part.
 14\. "I am fearing indeed," quoth Ailill, "the eloping of yon daughter
 with Fraoch.
 
-"’Twere not in vain <span id="fr_46"></span>[1](#fn_46) even should she
+"’Twere not in vain <span id="fr_46"></span>[1](#fn_46.md) even should she
 be given him; he would come to us with his cattle to aid us at the
 *Tāin*," said Mève.
 
@@ -300,9 +300,9 @@ of?" he quoth.
 "Will ye give me your daughter?" said Fraoch.
 
 "She will be given thee," said Ailill, "if thou give me her
-purchase-price <span id="fr_47"></span>[2](#fn_47) which I shall name."
+purchase-price <span id="fr_47"></span>[2](#fn_47.md) which I shall name."
 
-"[Thou](errata.htm#0) shalt have it," said Fraoch.
+"[Thou](errata.htm#0.md) shalt have it," said Fraoch.
 
 "Sixty black-grey steeds to me," said Ailill, "with their bridle-bits of
 gold, and twelve milch-cows, each in milk, and each having a white
@@ -323,7 +323,7 @@ Then he marched out of the house.
 against us. What is good is, let us dash after him and slay him
 forthwith ere he work us ruin."
 
-That were <span id="fr_48"></span>[1](#fn_48) a pity and a loss of
+That were <span id="fr_48"></span>[1](#fn_48.md) a pity and a loss of
 honour to us," said Mève.
 
 "It shall not be a loss of honour for us," said Ailill, "the way I shall
@@ -337,7 +337,7 @@ a-hunting until midday, until they are tired."
 Thereafter they set off to the river to bathe themselves.
 
 "Fraoch! I am told," said Ailill, "thou art expert in water; get into
-this *linn* <span id="fr_49"></span>[2](#fn_49) that we may behold thy
+this *linn* <span id="fr_49"></span>[2](#fn_49.md) that we may behold thy
 swimming."
 
 "What kind of *linn* is it?" said Fraoch.
@@ -374,7 +374,7 @@ He then goes off and breaks a branch from off the tree, and brings it on
 his back across the water. And the remark of Find-abair was:
 
 "Is that not beautiful that ye see?" Beautiful she thought it to see
-Fraoch over the black linn: <span id="fr_50"></span>[1](#fn_50) the body
+Fraoch over the black linn: <span id="fr_50"></span>[1](#fn_50.md) the body
 of great whiteness, the hair of great loveliness, the face so well
 formed; the eye of deep grey, and he a tender youth without fault,
 without blemish; with his face small below and broad above; his build
@@ -504,7 +504,7 @@ warrior-braves. And Fraoch spake:
 
 "I possess no treasure which I would not give up on behalf of the girl,
 for she has brought me the word to save my life." <span
-id="fr_51"></span>[1](#fn_51)
+id="fr_51"></span>[1](#fn_51.md)
 
 "Of treasures thou hast none which can save her if she bring not the
 ring back," Quoth Ailill.
@@ -528,7 +528,7 @@ And the girl sent her maid.
 <span id="page_16">p. 16</span>
 
 "I swear by my people's god," she said, "should anyone be found to
-protect me from the tyrant's stroke, <span id="fr_52"></span>[1](#fn_52)
+protect me from the tyrant's stroke, <span id="fr_52"></span>[1](#fn_52.md)
 I shall no longer be in thy power should the ring be found."
 
 Should the ring be found," said Ailill, "I shall certainly not prevent
@@ -592,7 +592,7 @@ their own bounds.
 
 ### Footnotes
 
-<span id="fn_39"></span>[1:1](cdm03.htm#fr_39) mc̄ Idaid (Book of the Dun
+<span id="fn_39"></span>[1:1](cdm03.htm#fr_39.md) mc̄ Idaid (Book of the Dun
 Cow, facsimile, p. 63<sup>b</sup>, line 27); Idaith (Book of Leinster);
 Fiduig (Egerton, 1782); Idhaig (Edinburgh, MS. XL.); m<sup>c</sup>
 Fei<sup>t</sup> (Book of Dean of Lismore). Hence nominative Idad,
@@ -600,39 +600,39 @@ genitive Idaid, the form of the oldest manuscript, seems preferable: it
 would readily yield the other variants in regular development. Fraoch
 may be pronounced as Fraech.
 
-<span id="fn_40"></span>[1:2](cdm03.htm#fr_40) Pronounce *Shee*.
+<span id="fn_40"></span>[1:2](cdm03.htm#fr_40.md) Pronounce *Shee*.
 
-<span id="fn_41"></span>[2:1](cdm03.htm#fr_41) For brightness, *i.e.*
+<span id="fn_41"></span>[2:1](cdm03.htm#fr_41.md) For brightness, *i.e.*
 
-<span id="fn_42"></span>[4:1](cdm03.htm#fr_42) Mac Idhuidh—Egerton,
+<span id="fn_42"></span>[4:1](cdm03.htm#fr_42.md) Mac Idhuidh—Egerton,
 1782.
 
-<span id="fn_43"></span>[4:2](cdm03.htm#fr_43) Outer court.
+<span id="fn_43"></span>[4:2](cdm03.htm#fr_43.md) Outer court.
 
-<span id="fn_44"></span>[6:1](cdm03.htm#fr_44) Uaithne.
+<span id="fn_44"></span>[6:1](cdm03.htm#fr_44.md) Uaithne.
 
-<span id="fn_45"></span>[8:1](cdm03.htm#fr_45) Lit., "Your addition is
+<span id="fn_45"></span>[8:1](cdm03.htm#fr_45.md) Lit., "Your addition is
 better than your diminution."
 
-<span id="fn_46"></span>[9:1](cdm03.htm#fr_46) "Love's labour lost."
+<span id="fn_46"></span>[9:1](cdm03.htm#fr_46.md) "Love's labour lost."
 
-<span id="fn_47"></span>[9:2](cdm03.htm#fr_47) Dowry from the
+<span id="fn_47"></span>[9:2](cdm03.htm#fr_47.md) Dowry from the
 bridegroom; *cf*. marriage-settlement.
 
-<span id="fn_48"></span>[10:1](cdm03.htm#fr_48) Lit., is.
+<span id="fn_48"></span>[10:1](cdm03.htm#fr_48.md) Lit., is.
 
-<span id="fn_49"></span>[10:2](cdm03.htm#fr_49) Pool.
+<span id="fn_49"></span>[10:2](cdm03.htm#fr_49.md) Pool.
 
-<span id="fn_50"></span>[11:1](cdm03.htm#fr_50) Eg. version adds: *in
+<span id="fn_50"></span>[11:1](cdm03.htm#fr_50.md) Eg. version adds: *in
 the Brei*.
 
-<span id="fn_51"></span>[15:1](cdm03.htm#fr_51) Lit., in pledge for my
+<span id="fn_51"></span>[15:1](cdm03.htm#fr_51.md) Lit., in pledge for my
 soul.
 
-<span id="fn_52"></span>[16:1](cdm03.htm#fr_52) This rendering only
+<span id="fn_52"></span>[16:1](cdm03.htm#fr_52.md) This rendering only
 paraphrases the original, where *sarol mogreiss* seems to convey the
 ideas of oppression and servility.
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Fraoch](cdm04)
+[Next: The Death of Fraoch](cdm04.md)

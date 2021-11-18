@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca20)  [Next](ntca22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca20)  [Next](ntca22.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ return at a later time.
 
 So far as the material with which they have to work is concerned their
 means are very limited. All cutting must be done with chipped bits of
-flint or quartzite, <span id="fr_176"></span>[1](#fn_176) which are
+flint or quartzite, <span id="fr_176"></span>[1](#fn_176.md) which are
 firmly fixed into the end of a curved or straight piece of wood or into
 the handle of a spear-thrower, the cement used in this part being the
 resin which is obtained from the leaf stalks of a species of Triodia
@@ -115,7 +115,7 @@ forehead-bands, necklets and armlets and a conventional pubic tassel,
 shell, or in the case of the women, a small apron, the Central
 Australian native is naked. The waist-band of the men, and armlets and
 necklets of men and women, have already been described, <span
-id="fr_177"></span>[2](#fn_177) and the only real
+id="fr_177"></span>[2](#fn_177.md) and the only real
 
 <span id="page_571">p. 571</span> <span id="page_572">p. 572</span>
 
@@ -147,7 +147,7 @@ shilling piece made of a few short strands of fur-string flattened out
 into a fan shape and attached to the pubic hairs. As the string,
 especially at corrobboree times, is covered with white kaolin or gypsum,
 it serves as a decoration rather than a covering. <span
-id="fr_178"></span>[1](#fn_178)
+id="fr_178"></span>[1](#fn_178.md)
 
 Amongst the Arunta and Luritcha the women normally wear nothing, but
 amongst tribes further north, especially the Kaitish and Warramunga, a
@@ -243,7 +243,7 @@ and implements, one group of natives is especially skilled in making one
 article, and another in making something else, and the one group barters
 what it makes for the products of another, living, it may be, a hundred
 miles away. Recently Mr. Roth has called special attention to this in
-his work. <span id="fr_179"></span>[1](#fn_179)
+his work. <span id="fr_179"></span>[1](#fn_179.md)
 
 The spears are of various forms, and in different districts at least six
 distinct kinds will be met with, of which the first two are confined to
@@ -312,7 +312,7 @@ The total weight is 368 gm. The second form of wooden spear is the one
 most commonly met with throughout the Urabunna, Ilpirra, Luritcha, and
 Arunta tribes. The main part of the shaft may be made of one piece of a
 light wood such as the shoots of *Tecoma Australis*, <span
-id="fr_180"></span>[1](#fn_180) but it is more usual to have the
+id="fr_180"></span>[1](#fn_180.md) but it is more usual to have the
 terminal part made from a separate piece. In the specimen figured (110A)
 the total length is 2 m. 90 cm., and the short terminal part measures 40
 cm.; this is spliced on to the main part and round the splicing resin is
@@ -493,7 +493,7 @@ smooth. Though we have never seen it employed for this purpose, it
 appears that sometimes the implement is used as a rude form of musical
 instrument, the sound being produced by rubbing the crenate edge over a
 piece of hard wood such, for example, as another spear-thrower. <span
-id="fr_181"></span>[1](#fn_181)
+id="fr_181"></span>[1](#fn_181.md)
 
 A very important use, lastly, of the spear-thrower is that of
 fire-making. When this is in process a shield made of soft wood is
@@ -612,7 +612,7 @@ and is, or was, made by the Arunta, Kaitish, Warramunga, and other
 tribes living to the north. In the case of the Arunta tribe the stones
 were procured in special localities, which were the property of local
 groups of men without the permission of whom the stone could not be
-removed. <span id="fr_182"></span>[1](#fn_182) One favourite quarry lies
+removed. <span id="fr_182"></span>[1](#fn_182.md) One favourite quarry lies
 out to the north-east of Alice Springs.
 
 In the case of these ground axes the head is fixed in between the two
@@ -689,12 +689,12 @@ only to the nature of the haft, the flake being practically, except so
 far as size is concerned, the same in all of them. This weapon is
 evidently very widely distributed, as it has been described from many
 localities. Lumholtz figures one in his work <span
-id="fr_183"></span>[1](#fn_183) which is identical in form with those
+id="fr_183"></span>[1](#fn_183.md) which is identical in form with those
 met with in the Centre, while again those figured by Roth are such as
 might have been collected amongst any of the tribes extending through
 the northern territory. One of the better class of these knives is also
 figured and described by Dr. Stirling in his work. <span
-id="fr_184"></span>[2](#fn_184)
+id="fr_184"></span>[2](#fn_184.md)
 
 As a general rule the blade is trigonal in section for its whole length,
 but in the case of some of them there is a fourth surface close to the
@@ -833,7 +833,7 @@ the more convex side; the other surface is marked by wider and more
 uneven grooves. In the poorer specimens the grooves are less even and
 the whole weapon is more clumsy in make and appearance. The Luritcha
 boomerangs are undoubtedly rougher than those of the Arunta and northern
-tribes, <span id="fr_185"></span>[1](#fn_185) there being but little
+tribes, <span id="fr_185"></span>[1](#fn_185.md) there being but little
 attempt to smooth down the flatter side, while the grooves on the other
 face are roughly cut. In one of these the end held in the hand is
 narrower than the opposite one, and the grooves terminate abruptly at a
@@ -995,7 +995,7 @@ black is painted running round the part where the notch occurs, as if
 again to indicate the junction of the head and handle parts.
 
 In his description of the weapon Roth <span
-id="fr_186"></span>[1](#fn_186) gives a very ingenious explanation of
+id="fr_186"></span>[1](#fn_186.md) gives a very ingenious explanation of
 the way in which this curious modification of a boomerang is especially
 useful. The beak catches on the stick or boomerang with which the native
 at whom it is thrown defends himself, and by its means the weapon,
@@ -1074,7 +1074,7 @@ a particular frog. This particular instrument is only used in one
 ceremony and is not allowed to be seen by the women, but there are
 instruments made of almost precisely the same form, but simply more
 carefully finished off, which are in common use. The latter are called
-*Trora*, <span id="fr_187"></span>[1](#fn_187) and are more frequently
+*Trora*, <span id="fr_187"></span>[1](#fn_187.md) and are more frequently
 met with in the south than in the north
 
 <span id="page_605">p. 605</span> <span id="page_606">p. 606</span>
@@ -1143,7 +1143,7 @@ When used the trumpet is simply placed to the mouth, and by singing
 through it the sound is intensified. Trumpets such as these are, apart
 from the interesting use concerned with magic, generally used in
 corrobborees such as the *Atnimokita* which has been described by Dr.
-Stirling. <span id="fr_188"></span>[1](#fn_188)
+Stirling. <span id="fr_188"></span>[1](#fn_188.md)
 
 PITCHIS
 
@@ -1264,7 +1264,7 @@ in fur-string and evidently used as charms.
 
 In the southern Arunta and the Urabunna bags which are as well formed
 and skilfully knitted as those in use amongst highly civilised peoples,
-are often met with. <span id="fr_189"></span>[1](#fn_189) In many cases
+are often met with. <span id="fr_189"></span>[1](#fn_189.md) In many cases
 the string used is made out of the fibres obtained from the reeds which
 grow around the margins of the mound springs which exist especially in
 the district occupied by the Urabunna tribe. The one figured (Fig. 119,
@@ -1334,49 +1334,49 @@ ROCK PAINTINGS
 <span id="img_ntca124"></span>
 
 [![Fig. 124. Native Rock Paintings (to face page 615)](tn/ntca124.jpg)  
-Click to enlarge](img/ntca124.jpg)  
+Click to enlarge](img/ntca124.jpg.md)  
 Fig. 124. Native Rock Paintings (to face page 615)  
 
 <span id="img_arock01"></span>
 
 [![Native Rock Paintings (detail 1)](tn/arock01.jpg)  
-Click to enlarge](img/arock01.jpg)  
+Click to enlarge](img/arock01.jpg.md)  
   
 
 <span id="img_arock02"></span>
 
 [![Native Rock Paintings (detail 2)](tn/arock02.jpg)  
-Click to enlarge](img/arock02.jpg)  
+Click to enlarge](img/arock02.jpg.md)  
   
 
 <span id="img_arock03"></span>
 
 [![Native Rock Paintings (detail 3)](tn/arock03.jpg)  
-Click to enlarge](img/arock03.jpg)  
+Click to enlarge](img/arock03.jpg.md)  
   
 
 <span id="img_arock04"></span>
 
 [![Native Rock Paintings (detail 4)](tn/arock04.jpg)  
-Click to enlarge](img/arock04.jpg)  
+Click to enlarge](img/arock04.jpg.md)  
   
 
 <span id="img_arock05"></span>
 
 [![Native Rock Paintings (detail 5)](tn/arock05.jpg)  
-Click to enlarge](img/arock05.jpg)  
+Click to enlarge](img/arock05.jpg.md)  
   
 
 <span id="img_arock06"></span>
 
 [![Native Rock Paintings (detail 6)](tn/arock06.jpg)  
-Click to enlarge](img/arock06.jpg)  
+Click to enlarge](img/arock06.jpg.md)  
   
 
 <span id="img_arock07"></span>
 
 [![Native Rock Paintings (detail 7)](tn/arock07.jpg)  
-Click to enlarge](img/arock07.jpg)  
+Click to enlarge](img/arock07.jpg.md)  
   
 
  
@@ -1411,7 +1411,7 @@ which the artist has drawn his inspiration. Those represented in Fig.
 there is practically but little variation in them from place to place.
 The majority of those represented exist on the roof and walls of shallow
 caves lying around the base of Ayers Rock far out in the desert region
-away to the south of Lake Amadeus. <span id="fr_190"></span>[1](#fn_190)
+away to the south of Lake Amadeus. <span id="fr_190"></span>[1](#fn_190.md)
 The materials used are red and yellow ochre, charcoal and some white
 material such as kaolin or calcined gypsum.
 
@@ -1571,11 +1571,11 @@ piece of wood, in shape resembling a large Churinga, is fixed into the
 top of the helmet and ornamented with lines and concentric circles of
 spots. In some of the corrobborees decorated objects, such as sticks
 carried in the hand, are used, or, as in the Atnimokita
-corrobboree, <span id="fr_191"></span>[1](#fn_191) a pole of special
+corrobboree, <span id="fr_191"></span>[1](#fn_191.md) a pole of special
 form is erected, after having been carefully painted with spiral lines
 of yellow and spots of white and yellow on a red ground. A very frequent
 decoration takes the form of twigs of green tree tied on to the leg just
-above the ankle (Fig. 127). <span id="fr_192"></span>[2](#fn_192)
+above the ankle (Fig. 127). <span id="fr_192"></span>[2](#fn_192.md)
 
 <span id="page_624">p. 624</span>
 
@@ -1960,7 +1960,7 @@ Australian scheme of design, it is perhaps worth noting that amongst the
 natives of the Papuan Gulf district of New Guinea, Haddon in dealing
 with the shields has described designs consisting of concentric circles
 and spirals, which are clearly derivatives of drawings of the human
-face. In his monograph <span id="fr_193"></span>[1](#fn_193) the drawing
+face. In his monograph <span id="fr_193"></span>[1](#fn_193.md) the drawing
 of a shield (Pl. 6, Fig. 92) is strikingly suggestive in this
 connection. Not only is this the case, but he describes the Papuan
 bull-roarers and ceremonial tablets which, just like the Australian
@@ -2015,79 +2015,79 @@ the *Tundun* or bull-roarer of the south-east.
 
 ### Footnotes
 
-<span id="fn_176"></span>[569:1](ntca21.htm#fr_176) Of course since the
+<span id="fn_176"></span>[569:1](ntca21.htm#fr_176.md) Of course since the
 advent of the white man the iron axe and knife are rapidly supplanting
 the stone weapon. These are passed on from tribe to tribe, so that in
 the desert parts where the natives have never seen a white man, iron
 implements may be found.
 
-<span id="fn_177"></span>[569:2](ntca21.htm#fr_177) Special forms of
+<span id="fn_177"></span>[569:2](ntca21.htm#fr_177.md) Special forms of
 necklets are dealt with under the head of Magic.
 
-<span id="fn_178"></span>[572:1](ntca21.htm#fr_178) Excellent
+<span id="fn_178"></span>[572:1](ntca21.htm#fr_178.md) Excellent
 descriptions and illustrations of this and various other objects used in
 the Arunta tribe have been given by Dr. Stirling in the Report on the
 work of the Horn Exped., vol. iv.
 
-<span id="fn_179"></span>[575:1](ntca21.htm#fr_179) *Op. cit*., p. 132.
+<span id="fn_179"></span>[575:1](ntca21.htm#fr_179.md) *Op. cit*., p. 132.
 Whilst this bartering has been described by previous writers, Mr. Roth's
 account is by far the most valuable and detailed one yet published. The
 custom appears to be better organised amongst Mr. Roth's tribes than
 amongst those in the Centre.
 
-<span id="fn_180"></span>[577:1](ntca21.htm#fr_180) Amongst the Luritcha
+<span id="fn_180"></span>[577:1](ntca21.htm#fr_180.md) Amongst the Luritcha
 especially another wood is most commonly used, but we have been unable
 to identify the tree from which it is derived.
 
-<span id="fn_181"></span>[584:1](ntca21.htm#fr_181) We are indebted for
+<span id="fn_181"></span>[584:1](ntca21.htm#fr_181.md) We are indebted for
 this information to Mr. C. E. Cowle.
 
-<span id="fn_182"></span>[590:1](ntca21.htm#fr_182) Mr. Howitt has
+<span id="fn_182"></span>[590:1](ntca21.htm#fr_182.md) Mr. Howitt has
 already described how a certain quarry whence suitable stone for the
 manufacture of axe heads were obtained was regarded as the property of a
 particular local group in Victoria, and also how other local groups
 claimed possession of swan eggs laid in their locality, and further how
 these rights were inherited. *Kamilaroi and Kurnai*, p. 232.
 
-<span id="fn_183"></span>[592:1](ntca21.htm#fr_183) *Among Cannibals*,
+<span id="fn_183"></span>[592:1](ntca21.htm#fr_183.md) *Among Cannibals*,
 p. 48.
 
-<span id="fn_184"></span>[592:2](ntca21.htm#fr_184) *Op. cit*., p. 96,
+<span id="fn_184"></span>[592:2](ntca21.htm#fr_184.md) *Op. cit*., p. 96,
 Pl. 6.
 
-<span id="fn_185"></span>[596:1](ntca21.htm#fr_185) This was pointed out
+<span id="fn_185"></span>[596:1](ntca21.htm#fr_185.md) This was pointed out
 to us by Mr. C. E. Cowle, who is well acquainted with this tribe.
 
-<span id="fn_186"></span>[602:1](ntca21.htm#fr_186) *Op. cit*., p. 143.
+<span id="fn_186"></span>[602:1](ntca21.htm#fr_186.md) *Op. cit*., p. 143.
 
-<span id="fn_187"></span>[604:1](ntca21.htm#fr_187) The form of these is
+<span id="fn_187"></span>[604:1](ntca21.htm#fr_187.md) The form of these is
 similar to that figured by Brough Smith, vol. i., p. 356. He states that
 it is called *Koorn-goon*.
 
-<span id="fn_188"></span>[607:1](ntca21.htm#fr_188) *Op. cit*., p. 72.
+<span id="fn_188"></span>[607:1](ntca21.htm#fr_188.md) *Op. cit*., p. 72.
 
-<span id="fn_189"></span>[611:1](ntca21.htm#fr_189) These are often used
+<span id="fn_189"></span>[611:1](ntca21.htm#fr_189.md) These are often used
 for carrying *pituri* in, and are similar to the well-known dilly bags
 of other tribes. *Pituri* consists of the dried leaves of *Duboisia
 Hopwoodii* and is used as a narcotic by the natives.
 
-<span id="fn_190"></span>[615:1](ntca21.htm#fr_190) The figures are
+<span id="fn_190"></span>[615:1](ntca21.htm#fr_190.md) The figures are
 copied from drawings made by Dr. Stirling and one of the authors during
 the Horn Expedition to Central Australia, and have been already
 described by Dr. Stirling. *Report of the Horn Expedition*, Pt. IV.
 
-<span id="fn_191"></span>[623:1](ntca21.htm#fr_191) Dr. Stirling has
+<span id="fn_191"></span>[623:1](ntca21.htm#fr_191.md) Dr. Stirling has
 described a part of this Atnimokita corrobboree, *op. cit p*. 72.
 
-<span id="fn_192"></span>[623:2](ntca21.htm#fr_192) These are also shown
+<span id="fn_192"></span>[623:2](ntca21.htm#fr_192.md) These are also shown
 in a photograph taken by one of the authors, and reproduced in the
 *Report of the Horn Expedition*, Pt. IV., pl. 14; they are also
 described and figured by Roth, *op. cit*., p. 118, pl. 16.
 
-<span id="fn_193"></span>[634:1](ntca21.htm#fr_193) “The Decorative Art
+<span id="fn_193"></span>[634:1](ntca21.htm#fr_193.md) “The Decorative Art
 of British New Guinea,” Royal Irish Academy, *Cunningham Memoirs*, No.
 X., 1894.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix A. The Names of the Natives](ntca22)
+[Next: Appendix A. The Names of the Natives](ntca22.md)

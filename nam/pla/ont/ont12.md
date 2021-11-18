@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont11)  [Next](ont13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont11)  [Next](ont13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -55,7 +55,7 @@ slowly
 
 <span id="img_14000"></span> <span align="CENTER"> [![ITOMINA AND LITTLE
 NATOYA IN A SNOWDRIFT.](tn/14000.jpg)  
-Click to enlarge](img/14000.jpg)  
+Click to enlarge](img/14000.jpg.md)  
 ITOMINA AND LITTLE NATOYA IN A SNOWDRIFT.  
 </span>
 
@@ -319,7 +319,7 @@ his body for the Sand Hills, but had returned to
 
 <span id="img_14900"></span> <span align="CENTER"> [![“THE DEAD WERE
 PLACED UPON SCAFFOLDS IN TREES.”](tn/14900.jpg)  
-Click to enlarge](img/14900.jpg)  
+Click to enlarge](img/14900.jpg.md)  
 “THE DEAD WERE PLACED UPON SCAFFOLDS IN TREES.”  
 </span>
 
@@ -369,7 +369,7 @@ act of mourning was to make their lodges smaller by
 
 <span id="img_15100"></span> <span align="CENTER"> [![“THE DEAD WERE
 ALSO PLACED UPON THE SUMMIT OF A HIGH HILL”](tn/15100.jpg)  
-Click to enlarge](img/15100.jpg)  
+Click to enlarge](img/15100.jpg.md)  
 “THE DEAD WERE ALSO PLACED UPON THE SUMMIT OF A HIGH HILL”  
 </span>
 
@@ -387,7 +387,7 @@ barefooted, wearing neither moccasins nor leggings. They also cut off
 the manes and tails of their saddle horses as a mourning sign, although
 they had a superstition against cutting off horses’ tails.
 
-When Wakes-up-last <span id="fr_18"></span>[1](#fn_14) murdered all his
+When Wakes-up-last <span id="fr_18"></span>[1](#fn_14.md) murdered all his
 children in October, 1903, their grandmother, who had made a vow in
 their behalf at the Sun-dance, sacrificed her ornaments to the Sun. She
 hung them in the trees close to our camp on Badger Creek.
@@ -438,9 +438,9 @@ together.
 
 ### Footnotes
 
-<span id="fn_14"></span>[152:1](ont12.htm#fr_18) See
-[Appendix](ont44.htm#an_152).
+<span id="fn_14"></span>[152:1](ont12.htm#fr_18.md) See
+[Appendix](ont44.htm#an_152.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Reminiscences of Father De Smet](ont13)
+[Next: Chapter X. Reminiscences of Father De Smet](ont13.md)

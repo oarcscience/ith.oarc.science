@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb02)  [Next](olfb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb02)  [Next](olfb04.md) 
 
 </div>
 
@@ -264,6 +264,6 @@ J. Brill, Leiden.)
 
 ------------------------------------------------------------------------
 
-[Next: The Blue Parrot](olfb04)
+[Next: The Blue Parrot](olfb04.md)
 
 </div>

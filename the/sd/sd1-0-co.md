@@ -1,5 +1,5 @@
-[Back to Esoteric Sacred Texts](../../eso/index)  
-[Back to Sacred Texts Main Index](../../index)  
+[Back to Esoteric Sacred Texts](../../eso/index.md)  
+[Back to Sacred Texts Main Index](../../index.md)  
 
 ------------------------------------------------------------------------
 
@@ -173,7 +173,7 @@ London, October, 1888.
 
 PAGE.
 
-[INTRODUCTION ... xvii.](sd1-0-in)
+[INTRODUCTION ... xvii.](sd1-0-in.md)
 
 > The Need of such a Book ... xix.  
 > The Antiquity of Documents and MSS. ... xxiii.  
@@ -185,7 +185,7 @@ PAGE.
 
 ##### COSMOGENESIS.
 
-[PROEM ... 1](sd1-0-pr)
+[PROEM ... 1](sd1-0-pr.md)
 
 > The Oldest MSS. in the world and its Symbolism ... 2  
 > The One Life, Active and Passive ... 4  
@@ -199,11 +199,11 @@ PAGE.
 
 ##### BOOK I. -- PART I. COSMIC EVOLUTION.
 
-[SEVEN STANZAS FROM THE BOOK OF DZYAN ... 27](sd1-1-01)
+[SEVEN STANZAS FROM THE BOOK OF DZYAN ... 27](sd1-1-01.md)
 
 -------
 
-[STANZA I. -- THE NIGHT OF THE UNIVERSE... 35](sd1-1-02)
+[STANZA I. -- THE NIGHT OF THE UNIVERSE... 35](sd1-1-02.md)
 
 > The Seven Eternities ... 36  
 > "Time" ... 37  
@@ -218,7 +218,7 @@ PAGE.
 
 ###### \[\[Vol. 1, Page\]\] x CONTENTS.
 
-[STANZA II. -- THE IDEA OF DIFFERENTIATION ... 53](sd1-1-03)
+[STANZA II. -- THE IDEA OF DIFFERENTIATION ... 53](sd1-1-03.md)
 
 > The Absolute knows Itself not ... 55  
 > The Germ of Life was not yet ... 57  
@@ -226,7 +226,7 @@ PAGE.
 
 -------
 
-[STANZA III. -- THE AWAKENING OF KOSMOS ... 62](sd1-1-04)
+[STANZA III. -- THE AWAKENING OF KOSMOS ... 62](sd1-1-04.md)
 
 > The Great Vibration ... 63  
 > Nature's Symbols ... 65  
@@ -239,7 +239,7 @@ PAGE.
 
 -------
 
-[STANZA IV. -- THE SEPTENARY HIERARCHIES ... 86](sd1-1-05)
+[STANZA IV. -- THE SEPTENARY HIERARCHIES ... 86](sd1-1-05.md)
 
 > The Sons of the Fire ... 86  
 > The Vehicle of the Universe -- the Dhyan Chohans ... 89  
@@ -251,7 +251,7 @@ PAGE.
 -------
 
 [STANZA V. -- FOHAT: THE CHILD OF THE SEPTENARY HIERARCHIES ...
-106](sd1-1-06)
+106](sd1-1-06.md)
 
 > The Fiery Whirlwind and the Primordial Seven ... 106  
 > They Produce Fohat ... 108  
@@ -267,7 +267,7 @@ PAGE.
 
 -------
 
-[STANZA VI. -- OUR WORLD, ITS GROWTH AND DEVELOPMENT ... 136](sd1-1-07)
+[STANZA VI. -- OUR WORLD, ITS GROWTH AND DEVELOPMENT ... 136](sd1-1-07.md)
 
 > The Logos ... 136  
 > Mystery of the Female Logos ... 137
@@ -285,7 +285,7 @@ PAGE.
 
 -------
 
-[THEOSOPHICAL MISCONCEPTIONS ... 152](sd1-1-08)
+[THEOSOPHICAL MISCONCEPTIONS ... 152](sd1-1-08.md)
 
 > The Planetary Divisions and the Human Principles ... 153  
 > The Moon ... 155  
@@ -295,7 +295,7 @@ PAGE.
 
 -------
 
-[EXPLANATIONS CONCERNING THE GLOBES AND THE MONADS ... 170](sd1-1-09)
+[EXPLANATIONS CONCERNING THE GLOBES AND THE MONADS ... 170](sd1-1-09.md)
 
 > The Lunar Chain and the Earth Chain ... 172  
 > The Earth, the Child of the Moon ... 173  
@@ -306,7 +306,7 @@ PAGE.
 
 -------
 
-[STANZA VI. -- CONTINUED ... 191](sd1-1-10)
+[STANZA VI. -- CONTINUED ... 191](sd1-1-10.md)
 
 > "Creation" in the Fourth Round ... 191  
 > The "Curse," "Sin," and "War" ... 193  
@@ -315,12 +315,12 @@ PAGE.
 
 -------
 
-[STANZA VII. -- THE PARENTS OF MAN ON EARTH ... 213](sd1-1-11)
+[STANZA VII. -- THE PARENTS OF MAN ON EARTH ... 213](sd1-1-11.md)
 
 > Divisions of the Hierarchies ... 214  
 > Correlations of Beings ... 223  
 > What incarnates in Animal Man ... 233  
-> [Formation of Man: the Thinker ... 238](sd1-1-12)  
+> [Formation of Man: the Thinker ... 238](sd1-1-12.md)  
 > Occult and Kabalistic Pneumatics ... 243  
 > Akasa and Ether ... 257  
 > The Invisible "Lives" ... 259  
@@ -335,7 +335,7 @@ PAGE.
 
 -------
 
-[SUMMING UP ... 269](sd1-1-13)
+[SUMMING UP ... 269](sd1-1-13.md)
 
 > The pith and marrow of the Secret Doctrine ... 273  
 > Hermes in Christian Garb ... 285  
@@ -348,7 +348,7 @@ PAGE.
 
 §§
 
-[I. SYMBOLISM AND IDEOGRAPHS ... 303](sd1-2-01)
+[I. SYMBOLISM AND IDEOGRAPHS ... 303](sd1-2-01.md)
 
 > Emblem and Symbol differ ... 305  
 > Magic Potency of Sound ... 307  
@@ -356,7 +356,7 @@ PAGE.
 
 -------
 
-[II. THE MYSTERY LANGUAGE AND ITS KEYS ... 310](sd1-2-02)
+[II. THE MYSTERY LANGUAGE AND ITS KEYS ... 310](sd1-2-02.md)
 
 > Egypt's many Religions ... 311  
 > The Jews and their System ... 313  
@@ -365,7 +365,7 @@ PAGE.
 
 -------
 
-[III. PRIMORDIAL SUBSTANCE AND DIVINE THOUGHT ... 325](sd1-2-03)
+[III. PRIMORDIAL SUBSTANCE AND DIVINE THOUGHT ... 325](sd1-2-03.md)
 
 > Divine Thought, or Cineritious Matter? ... 327  
 > Ether and Intelligence ... 330  
@@ -375,14 +375,14 @@ PAGE.
 
 -------
 
-[IV. CHAOS -- THEOS -- KOSMOS ... 342](sd1-2-04)
+[IV. CHAOS -- THEOS -- KOSMOS ... 342](sd1-2-04.md)
 
 > The Union of Chaos and Spirit ... 343  
 > The Birth of Mind ... 345
 
 -------
 
-[V. THE HIDDEN DEITY, ITS SYMBOLS AND GLYPHS ... 349](sd1-2-05)
+[V. THE HIDDEN DEITY, ITS SYMBOLS AND GLYPHS ... 349](sd1-2-05.md)
 
 > The Gnostic Idea ... 351  
 > International Correlation of Gods ... 355
@@ -393,14 +393,14 @@ PAGE.
 
 §§ PAGE.
 
-[VI. THE MUNDANE EGG ... 359](sd1-2-06)
+[VI. THE MUNDANE EGG ... 359](sd1-2-06.md)
 
 > Egg-born Logoi ... 363  
 > The Winged Globe ... 365
 
 -------
 
-[VII. THE DAYS AND NIGHTS OF BRAHMA ... 368](sd1-2-07)
+[VII. THE DAYS AND NIGHTS OF BRAHMA ... 368](sd1-2-07.md)
 
 > Human Gods and Divine Men ... 369  
 > The Rebirth of Gods ... 371  
@@ -408,7 +408,7 @@ PAGE.
 
 -------
 
-[VIII. THE LOTUS AS A UNIVERSAL SYMBOL ... 379](sd1-2-08)
+[VIII. THE LOTUS AS A UNIVERSAL SYMBOL ... 379](sd1-2-08.md)
 
 > Exoteric and Esoteric ... 381  
 > The Purity of *early* Phallicism ... 383  
@@ -416,7 +416,7 @@ PAGE.
 
 -------
 
-[IX. DEUS LUNUS ... 386](sd1-2-09)
+[IX. DEUS LUNUS ... 386](sd1-2-09.md)
 
 > A Glance at the Lunar Myth ... 387  
 > A Key-note to the Moon ... 389  
@@ -425,7 +425,7 @@ PAGE.
 
 -------
 
-[X. TREE AND SERPENT AND CROCODILE WORSHIP ... 403](sd1-2-10)
+[X. TREE AND SERPENT AND CROCODILE WORSHIP ... 403](sd1-2-10.md)
 
 > Degeneration of the Symbol ... 405  
 > The Seven-headed Dragons ... 407  
@@ -433,7 +433,7 @@ PAGE.
 
 -------
 
-[XI. DEMON EST DEUS INVERSUS ... 411](sd1-2-11)
+[XI. DEMON EST DEUS INVERSUS ... 411](sd1-2-11.md)
 
 > Death is Life ... 413  
 > The Fall of the Angels ... 418  
@@ -441,7 +441,7 @@ PAGE.
 
 -------
 
-[XII. THE THEOGONY OF THE CREATIVE GODS ... 424](sd1-2-12)
+[XII. THE THEOGONY OF THE CREATIVE GODS ... 424](sd1-2-12.md)
 
 > The Point within the Circle ... 426  
 > The Logos or Verbum ... 429  
@@ -455,14 +455,14 @@ PAGE.
 
 §§ PAGE.
 
-[XIII. THE SEVEN CREATIONS ... 445](sd1-2-13)
+[XIII. THE SEVEN CREATIONS ... 445](sd1-2-13.md)
 
 > The Gnostic and the Hindu Versions ... 449  
 > The Seven Puranic "Creations" ... 450
 
 -------
 
-[XIV. THE FOUR ELEMENTS. ... 460](sd1-2-14)
+[XIV. THE FOUR ELEMENTS. ... 460](sd1-2-14.md)
 
 > The "Gods" and the "Elements" ... 463  
 > The Language of the Elements ... 464  
@@ -470,7 +470,7 @@ PAGE.
 
 -------
 
-[XV. ON KWAN-SHI-YIN AND KWAN-YIN ... 470](sd1-2-15)
+[XV. ON KWAN-SHI-YIN AND KWAN-YIN ... 470](sd1-2-15.md)
 
 > Kwan-Shi-Yin and Phallicism ... 471  
 > The Real Meaning ... 472
@@ -481,7 +481,7 @@ PAGE.
 
 §§
 
-[I. REASONS FOR THESE ADDENDA ... 477](sd1-3-01)
+[I. REASONS FOR THESE ADDENDA ... 477](sd1-3-01.md)
 
 > Occultism *versus* Materialism ... 479  
 > The Sabbath of the Mystic ... 481
@@ -489,18 +489,18 @@ PAGE.
 -------
 
 [II. MODERN PHYSICISTS ARE PLAYING AT BLIND MAN'S BUFF ...
-482](sd1-3-02)
+482](sd1-3-02.md)
 
 -------
 
-[III. AN LUMEN SIT CORPUS NEC NON? ... 483](sd1-3-03)
+[III. AN LUMEN SIT CORPUS NEC NON? ... 483](sd1-3-03.md)
 
 > The Hypothetical Ether ... 485  
 > Scientific Theories of its Constitution ... 489
 
 -------
 
-[IV. IS GRAVITATION A LAW? ... 490](sd1-3-04)
+[IV. IS GRAVITATION A LAW? ... 490](sd1-3-04.md)
 
 > Intelligences or Blind Forces? ... 493  
 > The Cause of Attraction ... 498
@@ -511,14 +511,14 @@ PAGE.
 
 §§ PAGE.
 
-[V. THE THEORIES OF ROTATION SCIENCE ... 500](sd1-3-05)
+[V. THE THEORIES OF ROTATION SCIENCE ... 500](sd1-3-05.md)
 
 > Conflicting Hypotheses ... 502  
 > More Hypotheses ... 505
 
 -------
 
-[VI. THE MASKS OF SCIENCE ... 506](sd1-3-06)
+[VI. THE MASKS OF SCIENCE ... 506](sd1-3-06.md)
 
 > What are the "Forces?" ... 508  
 > The View of the Occultists ... 510  
@@ -528,13 +528,13 @@ PAGE.
 -------
 
 [VII. AN ATTACK ON THE SCIENTIFIC THEORY OF FORCE BY A MAN OF SCIENCE
-... 523](sd1-3-07)
+... 523](sd1-3-07.md)
 
 > Ether and Atoms ... 527
 
 -------
 
-[VIII. LIFE, FORCE, OR GRAVITY? ... 529](sd1-3-08)
+[VIII. LIFE, FORCE, OR GRAVITY? ... 529](sd1-3-08.md)
 
 > Dr. Richardson on Nervous Ether ... 531  
 > The Senses and their Action ... 535  
@@ -542,7 +542,7 @@ PAGE.
 
 -------
 
-[IX. THE SOLAR THEORY ... 540](sd1-3-09)
+[IX. THE SOLAR THEORY ... 540](sd1-3-09.md)
 
 > The Primordial Element ... 542  
 > Elements and *Meta*-Elements ... 546  
@@ -551,7 +551,7 @@ PAGE.
 
 -------
 
-[X. THE COMING FORCE ... 554](sd1-3-10)
+[X. THE COMING FORCE ... 554](sd1-3-10.md)
 
 > Mr. Keeley, an Unconscious Occultist ... 557  
 > Inter-Etheric Waves ... 561  
@@ -559,7 +559,7 @@ PAGE.
 
 -------
 
-[Xl. ON THE ELEMENTS AND ATOMS ... 566](sd1-3-11)
+[Xl. ON THE ELEMENTS AND ATOMS ... 566](sd1-3-11.md)
 
 > Metaphysical Chemistry ... 569  
 > What are the Seven Planets? ... 575  
@@ -571,28 +571,28 @@ PAGE.
 
 §§ PAGE.
 
-[XII. ANCIENT THOUGHT IN MODERN DRESS ... 579](sd1-3-12)
+[XII. ANCIENT THOUGHT IN MODERN DRESS ... 579](sd1-3-12.md)
 
 > All-Potential Unity ... 583  
 > The "Seventh" in Chemistry ... 585
 
 -------
 
-[XIII. THE MODERN NEBULAR THEORY ... 588](sd1-3-13)
+[XIII. THE MODERN NEBULAR THEORY ... 588](sd1-3-13.md)
 
 > Forces are Emanations ... 591  
 > What is the Nebula? ... 595
 
 -------
 
-[XIV. FORCES -- MODES OF MOTION OR INTELLIGENCES? ... 601](sd1-3-14)
+[XIV. FORCES -- MODES OF MOTION OR INTELLIGENCES? ... 601](sd1-3-14.md)
 
 > The Vital Principle ... 603  
 > Occult and Physical Science ... 605
 
 -------
 
-[XV. GODS, MONADS, AND ATOMS ... 610](sd1-3-15)
+[XV. GODS, MONADS, AND ATOMS ... 610](sd1-3-15.md)
 
 > The Gods of the Ancients -- the Monads ... 613  
 > The Monad and the Duad ... 617  
@@ -603,7 +603,7 @@ PAGE.
 
 -------
 
-[XVI. CYCLIC EVOLUTION AND KARMA ... 634](sd1-3-16)
+[XVI. CYCLIC EVOLUTION AND KARMA ... 634](sd1-3-16.md)
 
 > Karmic Cycles and Universal Ethics ... 637  
 > Destiny and Karma ... 639  
@@ -611,7 +611,7 @@ PAGE.
 
 -------
 
-[XVII. THE ZODIAC AND ITS ANTIQUITY ... 647](sd1-3-17)
+[XVII. THE ZODIAC AND ITS ANTIQUITY ... 647](sd1-3-17.md)
 
 > The Jewish Patriarchs and the Signs of the Zodiac ... 651  
 > Zodiacal Cycles ... 656  
@@ -619,15 +619,15 @@ PAGE.
 
 -------
 
-[XVIII. SUMMARY OF THE MUTUAL POSITION ... 668](sd1-3-18)
+[XVIII. SUMMARY OF THE MUTUAL POSITION ... 668](sd1-3-18.md)
 
 > Science Confesses her Ignorance ... 669  
 > Materialism is leading Europe towards a catastrophe ... 675
 
 -------
 
-\[\[[Contents](sd2-0-co) of Volume 2\]\]
+\[\[[Contents](sd2-0-co.md) of Volume 2\]\]
 
 ------------------------------------------------------------------------
 
-[Secret Doctrine Homepage](index)
+[Secret Doctrine Homepage](index.md)

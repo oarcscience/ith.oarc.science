@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod13)  [Next](fcod15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod13)  [Next](fcod15.md) 
 
 ------------------------------------------------------------------------
 
@@ -556,4 +556,4 @@ local constable, who according to tradition buried them on the sea-shore
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: Cremation, Embalming](fcod15)
+[Next: Chapter XII: Cremation, Embalming](fcod15.md)

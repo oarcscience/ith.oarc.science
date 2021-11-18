@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad09)  [Next](mrad11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad09)  [Next](mrad11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -137,9 +137,9 @@ and feeding a lion; she got the shape of the Duce's figure, only she
 labeled him "Black Bird." And here is a part of the jacket design of
 "wings" on the "Literary Guild" books—and below is what Craig made of
 it. She added the comment: "Motion—the thing is traveling, point first"
-([fig. 22, 22a](#img_fig022)):
+([fig. 22, 22a](#img_fig022).md):
 
-<span id="img_fig022"></span> ![Fig. 22, Fig. 22a](img/fig022.jpg)
+<span id="img_fig022"></span> ![Fig. 22, Fig. 22a](img/fig022.jpg.md)
 
 Another volume was described as follows: "A pale blue book. Lonely
 prairie country, stretch
@@ -162,11 +162,11 @@ it, and give you a laugh or two. Observe the jolly little tourists, and
 what they have turned into! And then the efforts of Craig's subconscious
 mind at French. They taught it to her in a "finishing school" on Fifth
 Avenue, and you can see that it was finished before it began ([fig. 23,
-23a](#img_fig023)):
+23a](#img_fig023).md):
 
 <span id="page_77">p. 77</span>
 
-<span id="img_fig023"></span> ![Fig. 23, Fig. 23a](img/fig023.jpg)
+<span id="img_fig023"></span> ![Fig. 23, Fig. 23a](img/fig023.jpg.md)
 
 <span id="page_78">p. 78</span>
 
@@ -256,4 +256,4 @@ fifty-one to begin such a career.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](mrad11)
+[Next: Chapter X](mrad11.md)

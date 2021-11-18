@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Next](ere01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Next](ere01.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -13,7 +13,7 @@ Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 
 <span id="page_xvii">p. xvii</span>
 
-#### SYNOPSIS OF SUBJECTS <span id="fr_0"></span>[1](#fn_0)
+#### SYNOPSIS OF SUBJECTS <span id="fr_0"></span>[1](#fn_0.md)
 
 ###### OF
 
@@ -55,7 +55,7 @@ account of the following four
 things the estates of the citizens are destroyed, etc. Do not fret
 thyself to be equal to the evil-doers. There is no sitting above,
 neither is there eating, etc.,
-[1](ere01.htm#page_1)-[6](ere01.htm#page_6)
+[1](ere01.htm#page_1)-[6](ere01.htm#page_6.md)
 
 ### CHAPTERS III. TO VI.
 
@@ -75,7 +75,7 @@ guests, and R. Jehoshua. A man shall never be angry at his meals. Always
 shall a man try to agree with the majority of the people. Hillel the
 Elder, his wife, and the poor man. One shall not begin to eat the heads,
 but the leaves, of garlic or onions,
-[6](ere01.htm#page_6)-[12](ere05.htm#page_12)
+[6](ere01.htm#page_6)-[12](ere05.htm#page_12.md)
 
 ### CHAPTERS VII. TO IX.
 
@@ -89,7 +89,7 @@ One should not use a slice of bread to cover therewith a dish. Five
 things said Rabbi in regard to bread. One who comes to the table to take
 his meal shall not take his portion and give it to the waiter. Guests
 must not give anything to the son of the host, etc.,
-[12](ere05.htm#page_12)-[15](ere08.htm#page_15)
+[12](ere05.htm#page_12)-[15](ere08.htm#page_15.md)
 
 ### CHAPTERS X. AND XI.
 
@@ -101,7 +101,7 @@ neighbor when he is washing himself. He who walks the road. A common
 informer is considered a murderer. He who hates his neighbor without
 cause is also considered such. One who sets a definite time for the
 redemption of Israel through Messiah will have no share in the world to
-come, [16](ere09.htm#page_16)-[19](ere11.htm#page_19)
+come, [16](ere09.htm#page_16)-[19](ere11.htm#page_19.md)
 
 <span id="page_xix">p. xix</span>
 
@@ -130,7 +130,7 @@ complain that another one is beautiful and you are ugly. Let. your ears
 not listen to vain talk. Be not afraid of the court of justice on earth.
 If you perform all the commandments with joy, etc. All that is said
 above is a warning to you,
-[25](ere13.htm#page_25)-[27](ere14.htm#page_27)
+[25](ere13.htm#page_25)-[27](ere14.htm#page_27.md)
 
 ### CHAPTERS V. TO IX
 
@@ -147,7 +147,7 @@ etc. If you keep your mouth from slander, you will spend all the days of
 life in peace. When you see your neighbor has become poor, do not refuse
 to help him. If you lower yourself, the Lord will lift you up. This
 world resembles the eyeball of a Man, etc.,
-[27](ere14.htm#page_27)-[31](ere18.htm#page_31)
+[27](ere14.htm#page_27)-[31](ere18.htm#page_31.md)
 
 ### THE CHAPTER ON PEACE.
 
@@ -163,17 +163,17 @@ in that the covenant of the priests was made with peace. When the
 Messiah shall come to Israel, he will begin with peace. Great is peace,
 in that all the benedictions and prayers conclude with peace. He who
 loves peace runs after peace, offers peace, and answers peace, the Holy
-One, etc., [31](ere18.htm#page_31)-[33](ere18.htm#page_33)
+One, etc., [31](ere18.htm#page_31)-[33](ere18.htm#page_33.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[xvii:1](#fr_0) Redactors note: for technical
+<span id="fn_0"></span>[xvii:1](#fr_0.md) Redactors note: for technical
 reasons, the Synopsis of Subjects for this volume has been moved from
 its original location in volume one. The page numbers (from volume I)
 have been retained, hence the gap in page numbers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II.](ere01)
+[Next: Chapter II.](ere01.md)

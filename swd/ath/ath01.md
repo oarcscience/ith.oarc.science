@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ath00)  [Next](ath02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ath00)  [Next](ath02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766171663/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -553,4 +553,4 @@ Hell, and in other works.)
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](ath02)
+[Next: 51-100](ath02.md)

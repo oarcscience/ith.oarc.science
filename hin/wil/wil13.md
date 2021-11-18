@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil12)  [Next](wil14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil12)  [Next](wil14.md) 
 
 ------------------------------------------------------------------------
 
@@ -414,4 +414,4 @@ dead, birth is certain."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Story of the Great God: Siva or Mahadev](wil14)
+[Next: Chapter XII. The Story of the Great God: Siva or Mahadev](wil14.md)

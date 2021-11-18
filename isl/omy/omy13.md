@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy12)  [Next](omy14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy12)  [Next](omy14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -29,7 +29,7 @@ class="margnote">The Worlds perceived and conceived.</span> The first is
 the Perceived, the second the Conceived World. The Perceived World is
 also called The Material, Visible, Created, and Lower World. The
 Conceived World is spoken of as the Invisible, Spiritual, or Future
-World, and the World of Command <span id="fr_14"></span>[2](#fn_14):
+World, and the World of Command <span id="fr_14"></span>[2](#fn_14.md):
 this division is based on the words,
 
 <span id="page_30">p. 30</span>
@@ -40,7 +40,7 @@ described in detail, but of the spiritual world we must be content with
 a mere outline, for none but those who have gone hence, and entered into
 the spiritual life, can know the condition thereof: as Jesus Christ has
 said, "Except a man be born again he cannot enter into the kingdom of
-heaven <span id="fr_15"></span>[1](#fn_15)."
+heaven <span id="fr_15"></span>[1](#fn_15.md)."
 
 <span class="margnote">Inhabitants of the Invisible World.</span>There
 are two classes of beings in the Invisible World, those whose existence
@@ -86,7 +86,7 @@ assert that God does not create a single leaf upon a tree without the
 intervention of seven angels. The human soul, though compounded both of
 the material and the immaterial, is reckoned amongst this class. It is
 the masterpiece of creation, and the whole material world is placed
-under its control <span id="fr_16"></span>[1](#fn_16).
+under its control <span id="fr_16"></span>[1](#fn_16.md).
 
 <span class="margnote">Powers.</span>The Powers who form the second
 class are the Genii and Devils. They are created of fire, and constitute
@@ -110,14 +110,14 @@ Sufiistic account of the works of God, physically considered.
 
 ### Footnotes
 
-<span id="fn_14"></span>[29:2](omy13.htm#fr_14) <span
+<span id="fn_14"></span>[29:2](omy13.htm#fr_14.md) <span
 id="img_02900"></span> ![](img/02900.jpg) The command of God <span
 id="img_02901"></span> ![](img/02901.jpg) (*kun fa kán*), "be and it
 was," is here alluded to. The Sufis in their poetry frequently <span
 id="page_30">p. 30</span> speak of God as the Lord of *káf* and *nún*,
 *i.e.* of the two letters composing the word of command kun "be."
 
-<span id="fn_15"></span>[30:1](omy13.htm#fr_15) <span
+<span id="fn_15"></span>[30:1](omy13.htm#fr_15.md) <span
 id="img_03001"></span> ![](img/03001.jpg)
 
 The Mohammedans although denying the Divinity of Our Lord recognize the
@@ -142,14 +142,14 @@ Has blotted out the library of all the People's creeds."
 
 </div>
 
-<span id="fn_16"></span>[32:1](omy13.htm#fr_16) The accompanying table
+<span id="fn_16"></span>[32:1](omy13.htm#fr_16.md) The accompanying table
 of the Mohammedan Cosmogony may assist the reader in understanding this
 and the following chapters.
 
 <span id="img_03200"></span> <span align="CENTER"> [![](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)</span>
+Click to enlarge](img/03200.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. Concerning the Works of God, Metaphysically
-Considered](omy14)
+Considered](omy14.md)

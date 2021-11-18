@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap02) 
-[Next](chap04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap02.md) 
+[Next](chap04.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ disposal.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4: About Women Who Are To Be Held in Contempt](chap04)
+[Next: Chapter 4: About Women Who Are To Be Held in Contempt](chap04.md)

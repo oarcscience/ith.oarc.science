@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep05)  [Next](nep07) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep05)  [Next](nep07.md) 
 
 ------------------------------------------------------------------------
 
@@ -183,4 +183,4 @@ T U V W X Y Z
 
 ------------------------------------------------------------------------
 
-[Next: An Alphabet of Lessons for Children](nep07)
+[Next: An Alphabet of Lessons for Children](nep07.md)

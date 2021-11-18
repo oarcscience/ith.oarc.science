@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](hgg03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](hgg03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -284,7 +284,7 @@ field in which a person is buried for those who are to bring the paschal
 lamb, but not for those who desire to eat heave-offering. What is the
 meaning of investigate? Said R. Jehudah in the name of Samuel: A man
 blows upon the unclean land as he walks along. <span
-id="fr_25"></span>[1](#fn_25) And R. Hyya bar Abha in the name of Ula
+id="fr_25"></span>[1](#fn_25.md) And R. Hyya bar Abha in the name of Ula
 said: An unclean place of this sort that is trodden is clean for those
 who bring their paschal lambs; as it is a case of Kareth, they did not
 insist upon their decisions, but for those who desired to eat
@@ -461,7 +461,7 @@ but "the vain fellows that are in thee."
 
 ### Footnotes
 
-<span id="fn_25"></span>[50:1](hgg04.htm#fr_25) *I.e.*, one who is on
+<span id="fn_25"></span>[50:1](hgg04.htm#fr_25.md) *I.e.*, one who is on
 the way, bringing the paschal lamb, and comes across a field in which a
 human body was buried, he may examine it by blowing as he walks, along;
 and if there is a bone of the size of a barley, and he notices it and

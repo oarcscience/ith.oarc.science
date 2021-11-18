@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi268)  [Next](mtsi270) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi268)  [Next](mtsi270.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ woman were told to wander around and go westward.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Lodge Boy And Thrown-Away](mtsi270)
+[Next: 5. Lodge Boy And Thrown-Away](mtsi270.md)

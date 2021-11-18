@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lord Dunsany](../index)  [Index](index) 
-[Previous](adta09)  [Next](adta11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lord Dunsany](../index)  [Index](index.md) 
+[Previous](adta09)  [Next](adta11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3ST7Y/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3ST7Y/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dreamer's Tales*, by Lord Dunsany, \[1910\], at Intangible Textual
 Heritage
 
@@ -236,6 +236,6 @@ been silent already for four thousand years.
 
 ------------------------------------------------------------------------
 
-[Next: The Hashish Man](adta11)
+[Next: The Hashish Man](adta11.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](toc05)  [Next](toc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](toc05)  [Next](toc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Trial of Christ*, by David K. Breed, \[1948\], at Intangible
 Textual Heritage
 
@@ -38,7 +38,7 @@ John 18:12-19:16; inclusive.</span>
 </div>
 
 We quote the record, as given in the Authorized Version: <span
-id="fr_4"></span>[5](#fn_4)
+id="fr_4"></span>[5](#fn_4.md)
 
 ST. MATTHEW, in Chapters 26 and 27, verses as numbered:
 
@@ -192,7 +192,7 @@ against Jesus to put him to death; and f ouiid none.
 <span id="page_23">p. 23</span>
 
 56\. For many bare false witness against him, but their witness <span
-id="fr_5"></span>[6](#fn_5) agreed not together.
+id="fr_5"></span>[6](#fn_5.md) agreed not together.
 
 57\. And there arose certain, and bare false witness against him,
 saying,
@@ -611,11 +611,11 @@ took Jesus, and led him away."
 
 ### Footnotes
 
-<span id="fn_4"></span>[17:5](toc06.htm#fr_4) We quote in the Order of
+<span id="fn_4"></span>[17:5](toc06.htm#fr_4.md) We quote in the Order of
 the Canon of Scripture, knowing most scholars hold Mark was the earliest
 of the writers.
 
-<span id="fn_5"></span>[23:6](toc06.htm#fr_5) Consult other translations
+<span id="fn_5"></span>[23:6](toc06.htm#fr_5.md) Consult other translations
 on this verse; compare, Thayer's *Greek-English Lexicon;* Revised
 Standard says "their testimony did not agree"; Weymouth, accord;
 Goodspeed, "their evidence did not agree"; from all of which we see that
@@ -623,4 +623,4 @@ the testimony was conflicting even from the mouths of false witnesses.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Reversible Errors](toc07)
+[Next: Chapter IV. Reversible Errors](toc07.md)

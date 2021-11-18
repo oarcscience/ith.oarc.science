@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi011)  [Next](mtsi013) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi011)  [Next](mtsi013.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ greatest medicine there is.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Origin of Tobacco (Second Version)](mtsi013)
+[Next: 11. The Origin of Tobacco (Second Version)](mtsi013.md)

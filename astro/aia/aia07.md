@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia06)  [Next](aia08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia06)  [Next](aia08.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,17 +23,17 @@ body, so also do the twelve houses represent, not only the several parts
 of man, but his actions, quality of life, and living. And the curiosity
 and judgment of our forefathers in astrology was such, that they have
 allotted to every house a particular signification; and so distinguished
-human accidents <span id="fr_10"></span>[1](#fn_10) throughout the whole
+human accidents <span id="fr_10"></span>[1](#fn_10.md) throughout the whole
 twelve houses. He that understands the questions appertaining to each of
 them, shall not want sufficient grounds whereon to judge or give a
 rational answer upon any contingent accident, and success thereof.
 
 *Of the* FIRST *House, and its Signification*. <span
-id="fr_11"></span>[2](#fn_11)
+id="fr_11"></span>[2](#fn_11.md)
 
 The first house contains all that part of heaven from the line where the
-[figure 1](aia05.htm#img_fig01) stands unto the [figure
-2](aia25.htm#img_fig02), where the second house begins: it is
+[figure 1](aia05.htm#img_fig01.md) stands unto the [figure
+2](aia25.htm#img_fig02.md), where the second house begins: it is
 *one-third* of the distance between the horizon and meridian below the
 earth. It has signification
 
@@ -46,7 +46,7 @@ signifies the common people, or general state of that kingdom where the
 figure is erected. And as it is the first house, it represents the head
 and face of man; so that if either ♄ or ♂ be in this house, either at
 the time of a question or at the time of birth, you may observe some
-blemish in the face, <span id="fr_12"></span>[1](#fn_12) or in that
+blemish in the face, <span id="fr_12"></span>[1](#fn_12.md) or in that
 member appropriated to the sign that is then upon the cusp of the house;
 as, if ♈ be in the ascendant, the mark, mole, or scar is, without fail,
 in the head or face; and if few degrees of the sign ascend, the mark is
@@ -72,7 +72,7 @@ doth also joy in this
 
 house, because it represents the head, and he the tongue, fancy, and
 memory; when he is well dignified and posited in this house, he produces
-good orators; <span id="fr_13"></span>[1](#fn_13) it is called the
+good orators; <span id="fr_13"></span>[1](#fn_13.md) it is called the
 Ascendant, because when the ☉ and planets come to the cusp of this
 house, they ascend, or then arise, and are visible in our horizon.
 
@@ -93,7 +93,7 @@ It has consignificators, ♃ and ♉; for if ♃ be placed in this house, or
 be lord hereof, it is an argument of an estate or fortune; ☉ and ♂ are
 never well placed in this house: either of them shew dispersion of
 substance, according to the capacity and quality of him that is either
-born or asks the question <span id="fr_14"></span>[2](#fn_14).
+born or asks the question <span id="fr_14"></span>[2](#fn_14.md).
 
 *The* THIRD *House*
 
@@ -123,7 +123,7 @@ nature of the grounds one purchases, whether vineyards, cornfields, &c.,
 and shews whether the ground be woody, stony, or barren.
 
 The sign of the fourth denotes the town, the lord thereof, the
-governor; <span id="fr_15"></span>[1](#fn_15) it rules the breast and
+governor; <span id="fr_15"></span>[1](#fn_15.md) it rules the breast and
 lungs; and of colours, the red: its consignificators are ♋, and the ☉:
 we call it the angle of the Earth, or *Imum Cœli*: it is feminine, and
 the north angle. In nativities or questions this fourth house represents
@@ -162,7 +162,7 @@ the rectum. The house is a feminine and cadent house, unfortunate as
 having no aspect to the ascendant. Of colours, *black*; ♂ rejoices in
 this house, but its consignificators are the sign ♍ and planet ♀: we
 usually find that ♂ and ♀ in conjunction in this house are arguments of
-a good physician. <span id="fr_16"></span>[1](#fn_16)
+a good physician. <span id="fr_16"></span>[1](#fn_16.md)
 
 *The* SEVENTH *House*.
 
@@ -179,7 +179,7 @@ sweethearts, their shape, description, condition, nobly or ignobly born;
 in an annual ingress, whether war or peace may be expected; of victory,
 who overcomes and who is worsted fugitives or runaways, banished or
 outlawed men. It has consignificators ♎ and ☽; ♄ or ♂ unfortunate
-herein, shew ill in marriage. <span id="fr_17"></span>[1](#fn_17) Of
+herein, shew ill in marriage. <span id="fr_17"></span>[1](#fn_17.md) Of
 colour, a dark black. It rules the haunches, and the navel, to the
 buttocks, is called the angle of the west, and is masculine.
 
@@ -190,7 +190,7 @@ legacies, and testaments of men deceased; dowry of the wife, portion of
 the maid, whether much or little, easy to be obtained or with
 difficulty. In duels, it represents the adversary's second; in lawsuits,
 the defendant's friends; what kind of death a man shall die; it
-signifies fear and anguish of mind; <span id="fr_18"></span>[2](#fn_18)
+signifies fear and anguish of mind; <span id="fr_18"></span>[2](#fn_18.md)
 also who shall be heir to the deceased. It rules the privy parts. Of
 colours, the green and black. Of signs, it has ♏ for consignificator and
 ♄ . The hemorrhoids, the stone, stranguary, and bladder, are ruled by
@@ -212,7 +212,7 @@ placed, it naturally signifies a devout man in his religion, or one
 modestly given. I have often observed when the Dragon's tail, ♄, or ♂
 have been unfortunately placed in this house, the querent has either
 been little better than an atheist or a desperate sectarian. <span
-id="fr_19"></span>[1](#fn_19) ☉ rejoices to be in this house, which is
+id="fr_19"></span>[1](#fn_19.md) ☉ rejoices to be in this house, which is
 masculine and cadent.
 
 *The* TENTH *House*.
@@ -266,42 +266,42 @@ therefore I will say nothing of them.
 
 ### Footnotes
 
-<span id="fn_10"></span>[27:1](aia07.htm#fr_10) The term *accidents*
+<span id="fn_10"></span>[27:1](aia07.htm#fr_10.md) The term *accidents*
 here signifies the events of life generally.
 
-<span id="fn_11"></span>[27:2](aia07.htm#fr_11) See [Fig
-1](aia05.htm#img_fig01).
+<span id="fn_11"></span>[27:2](aia07.htm#fr_11.md) See [Fig
+1](aia05.htm#img_fig01.md).
 
-<span id="fn_12"></span>[28:1](aia07.htm#fr_12) This is verified in the
+<span id="fn_12"></span>[28:1](aia07.htm#fr_12.md) This is verified in the
 nativity of Lord Brougham, who was born with ♄ ascending in ♏; he has a
 very great natural defect in the face, a nervous catching of the muscles
 of the mouth. &c.
 
-<span id="fn_13"></span>[29:1](aia07.htm#fr_13) Lord Brougham, who is
+<span id="fn_13"></span>[29:1](aia07.htm#fr_13.md) Lord Brougham, who is
 one of the nest orators of the age, was born with ☿ just rising.
 
-<span id="fn_14"></span>[29:2](aia07.htm#fr_14) ☽ in this house, if in
+<span id="fn_14"></span>[29:2](aia07.htm#fr_14.md) ☽ in this house, if in
 good aspect to ♃, gives the native wealth. The Duke of Wellington had ☽
 in this house in △ to ♃ in the 10th.
 
-<span id="fn_15"></span>[30:1](aia07.htm#fr_15) This alludes to
+<span id="fn_15"></span>[30:1](aia07.htm#fr_15.md) This alludes to
 questions of sieges, which were too frequent in the land in the author's
 time.
 
-<span id="fn_16"></span>[31:1](aia07.htm#fr_16) This alludes to
+<span id="fn_16"></span>[31:1](aia07.htm#fr_16.md) This alludes to
 questions regarding sickness. and by no means to nativities.
 
-<span id="fn_17"></span>[32:1](aia07.htm#fr_17) We always find that ♄,
+<span id="fn_17"></span>[32:1](aia07.htm#fr_17.md) We always find that ♄,
 ♂, or ♅, in this house are *causes* of ill-fortune in marriage, or the
 married state, in nativities, let them be aspected how they will; and in
 questions, we have no opinion of them, though ever so strongly
 dignified. The Duke of Wellington had both ♄ and ♂ in the 7th, and was
 unfortunate in marriage.
 
-<span id="fn_18"></span>[32:2](aia07.htm#fr_18) This alludes to the
+<span id="fn_18"></span>[32:2](aia07.htm#fr_18.md) This alludes to the
 significator of the querent being placed in the 9th house.
 
-<span id="fn_19"></span>[33:1](aia07.htm#fr_19) This merely alludes to
+<span id="fn_19"></span>[33:1](aia07.htm#fr_19.md) This merely alludes to
 horary questions, and can have no kind of *influence* this way, these
 things being at the most *symbols* of a good or bad man; for in
 nativities the mind is influenced by the Moon and Mercury only. The
@@ -318,4 +318,4 @@ correct, when the very data on which they depended were often erroneous?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Of Saturn, and his Signification](aia08)
+[Next: Chapter V. Of Saturn, and his Signification](aia08.md)

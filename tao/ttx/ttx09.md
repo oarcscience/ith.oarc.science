@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx08) [Next](ttx10)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx08) [Next](ttx10.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ stopping; for T<span class="small">AO</span> is the beginning and end of
 the visible creation. The rising of wind, the gathering of Clouds—all
 are *necessities*; the rolling of thunder, and the fall of rain, alike
 *must be*, and that without end.<span
-id="page_74_fr_*"></span>[\*](#page_74_note_*) \[The operations of
+id="page_74_fr_*"></span>[\*](#page_74_note_*.md) \[The operations of
 T<span class="small">AO</span> are as\] the apparition of a ghost, the
 disappearance of <span id="page_75">p. 75</span> a lightning-flash, the
 soaring of a dragon, the alighting of a phœnix. They resemble the
@@ -112,7 +112,7 @@ are ever contented, and have no cares. They use the sky as their canopy,
 the earth as their chariot, the four seasons as their horses, and the
 Yin and Yang as their postilions; riding upon the clouds they soar
 through the fleecy mists of Heaven, and dwell with the Creator.<span
-id="page_76_fr_*"></span>[\*](#page_76_note_*) Perfectly free and
+id="page_76_fr_*"></span>[\*](#page_76_note_*.md) Perfectly free and
 knowing no restraints, they advance through the empyrean; going slowly
 or rapidly as they wish. They cause the rain-stars to sprinkle moisture
 on the roads, and the wind-stars to sweep the dust; the lightning serves
@@ -296,7 +296,7 @@ or the places to which they are indigenous, be altered.
    Wherefore, those who have arrived at a thorough understanding of the
 T<span class="small">AO</span>, revert to a condition of pure repose;
 those who investigate the things around them, enter, at last, upon
-absolute inaction.<span id="page_80_fr_*"></span>[\*](#page_80_note_*)
+absolute inaction.<span id="page_80_fr_*"></span>[\*](#page_80_note_*.md)
 Nourishing their constitutions by tranquillity, and resting their
 spirits in indifference, they enter the Door of Heaven. And what is it
 that is thus called the Heavenly? It is that which is homogeneous, pure,
@@ -341,7 +341,7 @@ comply with their demands. From this it may be seen that the acquisition
 \[of empire\] is a matter of opportunity, and not the result of
 struggling for it, and that its successful government lies in
 spontaneous action, and not in the exercise of mere Imperial power.<span
-id="page_81_fr_*"></span>[\*](#page_81_note_*)
+id="page_81_fr_*"></span>[\*](#page_81_note_*.md)
 
    The ground which occupies a low position does not struggle to secure
 a lofty one; and therefore it is tranquil, and out of danger. Water
@@ -389,9 +389,9 @@ limit, and to reach that which has no end; they understand all things
 thoroughly, without any misconception or delusion; they respond to all
 requirements as the echo to a sound, and that untiringly; and this
 ability may be called the endowment of Heaven.<span
-id="page_82_fr_*"></span>[\*](#page_82_note_*) Thus those who are in
+id="page_82_fr_*"></span>[\*](#page_82_note_*.md) Thus those who are in
 possession of the True Doctrine are pliable in will but strong in
-action;<span id="page_82_fr_dagger"></span>[†](#page_82_note_dagger)
+action;<span id="page_82_fr_dagger"></span>[†](#page_82_note_dagger.md)
 their hearts are perfectly unbiassed, and their decisions are therefore
 just. Those who are long in making up their minds but strong when they
 come to act are mild and pliant, tranquil and quiescent; inwardly they
@@ -401,10 +401,10 @@ opportunity—or, they always act at the right moment; they follow all
 things in their march and revolutions; they never take the initiative in
 anything, but only respond when influence is brought to bear upon them.
 Therefore the noble ought to adopt humble designations,<span
-id="page_82_fr_ddagger"></span>[‡](#page_82_note_ddagger) and lofty
+id="page_82_fr_ddagger"></span>[‡](#page_82_note_ddagger.md) and lofty
 structures should be built on low foundations. They use the small to
 direct or control the great;<span
-id="page_82_fr_sect"></span>[§](#page_82_note_sect) a motive power from
+id="page_82_fr_sect"></span>[§](#page_82_note_sect.md) a motive power from
 within exercises its influence abroad. <span id="page_83">p. 83</span>
 Pliant in action, they can yet be firm; yielding, they can yet be
 strong; adapting themselves to circumstances as they change, they still
@@ -499,10 +499,10 @@ taking different directions <span id="page_85">p. 85</span> —flowing
 this way and that, without order or design—it can never be utterly
 dispersed. Its cutting power is such that it will work its way through
 stone and metal; its strength so great that the whole world is succoured
-by it.<span id="page_85_fr_*"></span>[\*](#page_85_note_*) It floats
+by it.<span id="page_85_fr_*"></span>[\*](#page_85_note_*.md) It floats
 lazily through the regions of formlessness, soaring and fluttering above
 the realms of obscurity;<span
-id="page_85_fr_dagger"></span>[†](#page_85_note_dagger) it worms its way
+id="page_85_fr_dagger"></span>[†](#page_85_note_dagger.md) it worms its way
 backwards and forwards among valleys and watercourses, it seethes and
 overflows its banks in vast and desert wilds. Whether there be a
 superfluity of it, or a scarcity, the world is supplied according to its
@@ -520,7 +520,7 @@ Lao Tsze said, "That which is the weakest thing in all the world is able
 to overcome the strongest. Issuing from nothingness it returns to
 nowhere; and from this I know that there is advantage in
 non-action."<span
-id="page_85_fr_ddagger"></span>[‡](#page_85_note_ddagger)
+id="page_85_fr_ddagger"></span>[‡](#page_85_note_ddagger.md)
 
    Now Formlessness is the first progenitor of Form, and Silence is the
 first ancestor of Sound. The son of Formlessness is Light; its grandson
@@ -568,7 +568,7 @@ given T<span class="small">AO</span>, the Creation will come into being.
 Thus the Principle of this One pervades the Four Seas; the permeation of
 it fills up all Heaven and Earth. In compactness it is as pure as an
 unpolished gem; in a state of diffusion, it is turbid as foul
-water.<span id="page_86_fr_*"></span>[\*](#page_86_note_*) Yet, turbid
+water.<span id="page_86_fr_*"></span>[\*](#page_86_note_*.md) Yet, turbid
 as it is, it becomes gradually clear; from hollowness it becomes full;
 it ripples placidly like a deep abyss; it drifts along like floating
 clouds; to all appearance non-existing, it yet exists; to all appearance
@@ -654,18 +654,18 @@ approaches nearly to the Principle \[which is his guide\].
 
    And now as regards what is called Happiness. Surely it cannot be said
 necessarily to consist in dwelling on the Ching T‘ai or the Chung
-Hua,<span id="page_88_fr_*"></span>[\*](#page_88_note_*) sauntering
+Hua,<span id="page_88_fr_*"></span>[\*](#page_88_note_*.md) sauntering
 through Yün Mêng<span
-id="page_88_fr_dagger"></span>[†](#page_88_note_dagger) or Sha
-Chin,<span id="page_88_fr_ddagger"></span>[‡](#page_88_note_ddagger)
+id="page_88_fr_dagger"></span>[†](#page_88_note_dagger.md) or Sha
+Chin,<span id="page_88_fr_ddagger"></span>[‡](#page_88_note_ddagger.md)
 listening to the Chin Shao<span
-id="page_88_fr_sect"></span>[§](#page_88_note_sect) or the Lin
-Ying,<span id="page_88_fr_dvert"></span>[‖](#page_88_note_dvert)
+id="page_88_fr_sect"></span>[§](#page_88_note_sect.md) or the Lin
+Ying,<span id="page_88_fr_dvert"></span>[‖](#page_88_note_dvert.md)
 regaling the mouth with fried and boiled, fragrant and savoury viands,
 flying on swift steeds along level roads, or entrapping or shooting the
 wild goose? What *I* call Happiness consists in the acquirement, by man,
 of what he ought, or has a right, to obtain.<span
-id="page_88_fr_para"></span>[¶](#page_88_note_para) And what is this
+id="page_88_fr_para"></span>[¶](#page_88_note_para.md) And what is this
 acquirement of what he ought to obtain? It consists in not finding
 happiness in empty show, or regarding frugal simplicity as a matter of
 sadness; to remain secluded in accordance with the principle Yin, and to
@@ -683,7 +683,7 @@ the True Way. To those who have accomplished the self-acquirement \[of
 the Principle of Nature\], it is enough to live beneath lofty trees and
 in hollow caves, in order to enjoy relaxation of the spirits; but to
 those who have not accomplished this, though the Empire be regarded as
-their house,<span id="page_89_fr_*"></span>[\*](#page_89_note_*) and the
+their house,<span id="page_89_fr_*"></span>[\*](#page_89_note_*.md) and the
 whole population as their servants and concubines, it would not be
 sufficient for the nourishment of their life. Those who are able to
 arrive at a condition of joylessness—*i.e.*, apathy—will never be
@@ -694,7 +694,7 @@ its highest form.
 musicians playing flutes and lutes, in spreading silken carpets and soft
 cushions, in wearing featherwork and ivory, in listening to the slow
 cadences of the music played in the corrupt district north of Chao
-Kô,<span id="page_89_fr_dagger"></span>[†](#page_89_note_dagger) in
+Kô,<span id="page_89_fr_dagger"></span>[†](#page_89_note_dagger.md) in
 collecting wanton or enticing beauties, in arranging banquets of wine
 and pledging one another in goblets, prolonging their revelries far into
 the night, in shooting birds on the wing with powerful crossbows, and
@@ -706,7 +706,7 @@ taken from them, they feel as though they had suddenly suffered
 bereavement, and are as vexed and miserable as though all were over with
 them. And why? Because they do not use their hearts in the enjoyment of
 outward things, but use outward things as a means of delighting their
-hearts.<span id="page_89_fr_ddagger"></span>[‡](#page_89_note_ddagger)
+hearts.<span id="page_89_fr_ddagger"></span>[‡](#page_89_note_ddagger.md)
 While the music is being played, they are merry; but when the song comes
 to an end, they are sad. Mirth and sadness, alternating, give birth one
 to another; and when their spirits are under the baleful spell \[of
@@ -715,9 +715,9 @@ cause of all this is sought for, it is found to lie in the fact that
 they have never grasped the substance of true enjoyment; the injury of
 which they are the subject grows ever day by day, and they lose all
 mastery over themselves.<span
-id="page_89_fr_sect"></span>[§](#page_89_note_sect) Therefore, if the
+id="page_89_fr_sect"></span>[§](#page_89_note_sect.md) Therefore, if the
 heart has <span id="page_90">p. 90</span> not attained the True
-Medium,<span id="page_90_fr_*"></span>[\*](#page_90_note_*) but accepts
+Medium,<span id="page_90_fr_*"></span>[\*](#page_90_note_*.md) but accepts
 its endowment \[of happiness\] from outward things, it is self-deceived.
 If the outward skin be not wetted, no moisture can penetrate to the
 bones and marrow; if things be not first admitted into the thoughts,
@@ -725,7 +725,7 @@ they will not accumulate in the interior. Wherefore, such things as
 enter from the outside, will never cease \[to flow in\] as long as there
 is no resolution to control the heart; and such things as proceed from
 the heart—wishes, intentions, desires, etc.,—will not be carried into
-execution<span id="page_90_fr_dagger"></span>[†](#page_90_note_dagger)
+execution<span id="page_90_fr_dagger"></span>[†](#page_90_note_dagger.md)
 if there be no response from outside. Therefore, however simple men may
 be, they yet know the pleasure of listening to virtuous words and
 beneficial projects; however degenerate they may be, they yet know how
@@ -766,7 +766,7 @@ understood, desires, predilections, and aversions will no longer be in
 the heart. Consequently, if there be no joy, there will be no anger; if
 there be no happiness, there will be no sadness. All things springing
 from the same source,<span
-id="page_91_fr_*"></span>[\*](#page_91_note_*) there is no difference
+id="page_91_fr_*"></span>[\*](#page_91_note_*.md) there is no difference
 between right and wrong. The processes of transmutation and nourishment
 springing from the glory of that source,—*i.e.*, the Light of
 Heaven—birth is much the same thing as death. Now the world possesses
@@ -826,7 +826,7 @@ the disposition and the life being completed, predilections and
 aversions come into existence. Wherefore, the relationships which exist
 between men of culture are such as are settled once for all, and the
 course adopted by maidens is an unvarying course.<span
-id="page_92_fr_*"></span>[\*](#page_92_note_*) Squares and compasses,
+id="page_92_fr_*"></span>[\*](#page_92_note_*.md) Squares and compasses,
 hooks and lines, are not necessary to form or regulate the characters of
 such; \[they are as they should be, naturally\]. \[Their principles\]
 are as eternal as Heaven and Earth. If they ascend eminences, they have
@@ -844,14 +844,14 @@ with the Creator!
 
    He to whom this is possible will bury gold in the mountain and pearls
 in the deep abyss;<span
-id="page_92_fr_dagger"></span>[†](#page_92_note_dagger) he will prize
+id="page_92_fr_dagger"></span>[†](#page_92_note_dagger.md) he will prize
 neither goods nor wealth, he will covet neither power nor fame. Thus he
 does not regard physical comfort as true happiness, nor penury as
 pitiable, nor an honourable position as one of tranquillity, nor a
 humble one as anything to be feared. His <span id="page_93">p. 93</span>
 body, spirit, breath, and will all dwell in their appointed places, and
 conform to the working of the Cosmos.<span
-id="page_93_fr_*"></span>[\*](#page_93_note_*)
+id="page_93_fr_*"></span>[\*](#page_93_note_*.md)
 
    Now the Body is the dwelling-place of the life; the Breath is the
 complementary part of the life; the Spirit is the controller of the
@@ -926,7 +926,7 @@ repose, they will daily attain their full proportion and the man will
 become robust; but if they be overworked they will daily diminish, and
 the man will become decrepit. Wherefore the Sage nourishes and fosters
 his spirit, moderates his breath,<span
-id="page_94_fr_*"></span>[\*](#page_94_note_*) and tranquillises his
+id="page_94_fr_*"></span>[\*](#page_94_note_*.md) and tranquillises his
 person, so that he sinks and floats, looks up and looks down, together
 with the T<span class="small">AO</span>. When he has nothing to do, he
 just takes his ease; when pressed, he exerts himself. He takes his ease
@@ -937,7 +937,7 @@ to happen in exact response to whatever exigencies may arise.
 
 ------------------------------------------------------------------------
 
-[Next](ttx10)
+[Next](ttx10.md)
 
 ------------------------------------------------------------------------
 
@@ -945,62 +945,62 @@ to happen in exact response to whatever exigencies may arise.
 
 <span id="footnotes_page_74">p. 74</span>
 
-<span id="page_74_note_*"></span>[\*](#page_74_fr_*) The text implies
+<span id="page_74_note_*"></span>[\*](#page_74_fr_*.md) The text implies
 that all these natural phenomena mutually respond to requirements; that
 when they happen it is because they cannot but happen; that the need is,
 in fact, itself the cause of that which comes to relieve it.
 
 <span id="footnotes_page_76">p. 76</span>
 
-<span id="page_76_note_*"></span>[\*](#page_76_fr_*) Who, says the
+<span id="page_76_note_*"></span>[\*](#page_76_fr_*.md) Who, says the
 Commentator, is T<span class="small">AO</span>.
 
 <span id="footnotes_page_80">p. 80</span>
 
-<span id="page_80_note_*"></span>[\*](#page_80_fr_*) The Commentary
+<span id="page_80_note_*"></span>[\*](#page_80_fr_*.md) The Commentary
 says, \#\#\#. Independent of outward affairs; nothing is able to force
 or to disturb them.
 
 <span id="footnotes_page_81">p. 81</span>
 
-<span id="page_81_note_*"></span>[\*](#page_81_fr_*) Thus the Commentary
+<span id="page_81_note_*"></span>[\*](#page_81_fr_*.md) Thus the Commentary
 explains the text, which runs \#\#\#, \#\#\#. *Shêng* here means the
 Emperor, not a Sage.
 
 <span id="footnotes_page_82">p. 82</span>
 
-<span id="page_82_note_*"></span>[\*](#page_82_fr_*) \#\#\#, which I
+<span id="page_82_note_*"></span>[\*](#page_82_fr_*.md) \#\#\#, which I
 render in the sense of \#\#\#. See *Lun-yü*, chapter vi., 2.
 
-<span id="page_82_note_dagger"></span>[†](#page_82_fr_dagger) \#\#\#.
+<span id="page_82_note_dagger"></span>[†](#page_82_fr_dagger.md) \#\#\#.
 The first two characters do not mean vacillating and undecided, as they
 appear to; but imply extreme caution, and great wariness in making up
 one's mind. The reverse, in fact, of headstrong.
 
-<span id="page_82_note_ddagger"></span>[‡](#page_82_fr_ddagger)
+<span id="page_82_note_ddagger"></span>[‡](#page_82_fr_ddagger.md)
 "Marquises and Earls ought to call themselves orphans, widowers, or
 unworthy ones."—C<span class="small">OMM</span>.
 
-<span id="page_82_note_sect"></span>[§](#page_82_fr_sect) As in the case
+<span id="page_82_note_sect"></span>[§](#page_82_fr_sect.md) As in the case
 of a small handle, which works a huge machine. Or, the agent is
 insignificant; that which is involved in it is great.
 
 <span id="footnotes_page_85">p. 85</span>
 
-<span id="page_85_note_*"></span>[\*](#page_85_fr_*) The text runs
+<span id="page_85_note_*"></span>[\*](#page_85_fr_*.md) The text runs
 \#\#\#. The Commentary explains it as meaning that water is able to
 support the ships of all the world on its broad bosom. The first
 character means to *cross* or *ford* when in connection with \#\#\#.
 
-<span id="page_85_note_dagger"></span>[†](#page_85_fr_dagger) That is,
+<span id="page_85_note_dagger"></span>[†](#page_85_fr_dagger.md) That is,
 in the form of clouds.
 
-<span id="page_85_note_ddagger"></span>[‡](#page_85_fr_ddagger) This
+<span id="page_85_note_ddagger"></span>[‡](#page_85_fr_ddagger.md) This
 quotation does not appear in this form in any edition of the *Tao Tê
 Ching* I possess. The words here used, \#\#\#, are quite different from
 those employed in the 43rd chap. according to Lü Tsû, where the first,
 second, and sixth characters are omitted, and \#\#\# is used instead of
-\#\#\#. See [page 27](ttx02.htm#page_27). In another copy, the \#\#\# is
+\#\#\#. See [page 27](ttx02.htm#page_27.md). In another copy, the \#\#\# is
 used, but the other three characters still do not appear.
 Huai-nan-Tsze's Commentator says he is referring to water. But how does
 Dr. Chalmers reconcile his translation of this sentence (*Tao Tê Ching*,
@@ -1009,79 +1009,79 @@ and 5 from bottom?
 
 <span id="footnotes_page_86">p. 86</span>
 
-<span id="page_86_note_*"></span>[\*](#page_86_fr_*) \#\#\# and \#\#\#
+<span id="page_86_note_*"></span>[\*](#page_86_fr_*.md) \#\#\# and \#\#\#
 might here be rendered "homogeneous" and "heterogeneous" respectively.
 
 <span id="footnotes_page_88">p. 88</span>
 
-<span id="page_88_note_*"></span>[\*](#page_88_fr_*) Two famous towers
+<span id="page_88_note_*"></span>[\*](#page_88_fr_*.md) Two famous towers
 which used to exist in the State of Chu.—C<span
 class="small">OMM</span>.
 
-<span id="page_88_note_dagger"></span>[†](#page_88_fr_dagger) A
+<span id="page_88_note_dagger"></span>[†](#page_88_fr_dagger.md) A
 celebrated lake.
 
-<span id="page_88_note_ddagger"></span>[‡](#page_88_fr_ddagger) A
+<span id="page_88_note_ddagger"></span>[‡](#page_88_fr_ddagger.md) A
 pleasaunce which belonged to Chou Hsin, at Chü-lu Hsien in Chihli.
 
-<span id="page_88_note_sect"></span>[§](#page_88_fr_sect) The Music of
+<span id="page_88_note_sect"></span>[§](#page_88_fr_sect.md) The Music of
 the Emperor Shun.
 
-<span id="page_88_note_dvert"></span>[‖](#page_88_fr_dvert) The Music of
+<span id="page_88_note_dvert"></span>[‖](#page_88_fr_dvert.md) The Music of
 the Emperor Chuan Hsü.
 
-<span id="page_88_note_para"></span>[¶](#page_88_fr_para) \#\#\#. I take
+<span id="page_88_note_para"></span>[¶](#page_88_fr_para.md) \#\#\#. I take
 this to mean *self-mastery*.
 
 <span id="footnotes_page_89">p. 89</span>
 
-<span id="page_89_note_*"></span>[\*](#page_89_fr_*) That is, though
+<span id="page_89_note_*"></span>[\*](#page_89_fr_*.md) That is, though
 they attain Imperial power.
 
-<span id="page_89_note_dagger"></span>[†](#page_89_fr_dagger) The
+<span id="page_89_note_dagger"></span>[†](#page_89_fr_dagger.md) The
 capital of the wicked Emperor Chou Hsin. On hearing this music, the
 blind musician Kuang exclaimed, "That is the music of a lost State!"
 
-<span id="page_89_note_ddagger"></span>[‡](#page_89_fr_ddagger) That is,
+<span id="page_89_note_ddagger"></span>[‡](#page_89_fr_ddagger.md) That is,
 they do not seek enjoyment within, but from without; they allow
 themselves to be under the control of outward things instead of
 controlling their own hearts.
 
-<span id="page_89_note_sect"></span>[§](#page_89_fr_sect) \#\#\#.
+<span id="page_89_note_sect"></span>[§](#page_89_fr_sect.md) \#\#\#.
 
 <span id="footnotes_page_90">p. 90</span>
 
-<span id="page_90_note_*"></span>[\*](#page_90_fr_*) If \#\#\# is to be
+<span id="page_90_note_*"></span>[\*](#page_90_fr_*.md) If \#\#\# is to be
 accepted in this and other passages as here rendered, it suggest the
 idea that Huai-nan Tsze had not given up all Confucianist theories when
 he wrote his treatise.
 
-<span id="page_90_note_dagger"></span>[†](#page_90_fr_dagger) Or,
+<span id="page_90_note_dagger"></span>[†](#page_90_fr_dagger.md) Or,
 perhaps, "will cease." The phrase is simply \#\#\#.
 
 <span id="footnotes_page_91">p. 91</span>
 
-<span id="page_91_note_*"></span>[\*](#page_91_fr_*) "Which is
+<span id="page_91_note_*"></span>[\*](#page_91_fr_*.md) "Which is
 Heaven"—says the Commentary.
 
 <span id="footnotes_page_92">p. 92</span>
 
-<span id="page_92_note_*"></span>[\*](#page_92_fr_*) This means that no
+<span id="page_92_note_*"></span>[\*](#page_92_fr_*.md) This means that no
 virtuous girl gives her affections to more than one man, or marries
 again after her husband's death.—C<span class="small">OMM</span>.
 
-<span id="page_92_note_dagger"></span>[†](#page_92_fr_dagger) A
+<span id="page_92_note_dagger"></span>[†](#page_92_fr_dagger.md) A
 reference to Shun, who said to have done this. The Commentary affirms
 that it means the putting away of covetous and lustful desires.
 
 <span id="footnotes_page_93">p. 93</span>
 
-<span id="page_93_note_*"></span>[\*](#page_93_fr_*) Alluding of course
+<span id="page_93_note_*"></span>[\*](#page_93_fr_*.md) Alluding of course
 to the theory \#\#\#.
 
 <span id="footnotes_page_94">p. 94</span>
 
-<span id="page_94_note_*"></span>[\*](#page_94_fr_*) Here used in the
+<span id="page_94_note_*"></span>[\*](#page_94_fr_*.md) Here used in the
 sense of passions.
 
  

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Egypt](../../egy/index)  [Index](index)  [Previous](stle13) 
-[Next](stle15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Egypt](../../egy/index)  [Index](index)  [Previous](stle13.md) 
+[Next](stle15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0865433623/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stolen Legacy*, by George G. M. James, \[1954\], at Intangible Textual
 Heritage
 
@@ -222,7 +222,7 @@ between 4 and 5 thousand B.C. This means that the doctrines of the early
 Ionians arose neither at their time (the fifth century B.C.), nor at the
 time of Pentateuch (the eighth century B.C.), nor yet at the time of
 Moses (the eleventh century B.C.), but at the time of the Memphite
-Theology ([between](errata.htm#18) 4 and 5 thousand B.C.) and therefore
+Theology ([between](errata.htm#18) 4 and 5 thousand B.C..md) and therefore
 definitely point to Egyptian origin.
 
 2\. The Eleatic philosophers have been named as (i) Zenophanes who was a
@@ -318,7 +318,7 @@ even, finite and infinite, and positive and negative. This principle of
 <span id="page_169">p. 169</span>
 
 opposites was copied by and used in the teachings of Heracleitus,
-[Parmenides](errata.htm#19), Democritus, Socrates, Plato and Aristotle.
+[Parmenides](errata.htm#19.md), Democritus, Socrates, Plato and Aristotle.
 
 \(b\) *The doctrine of Harmony*, defined as the union of opposites. This
 idea was copied by and used in the teachings of Heracleitus, Socrates,
@@ -645,4 +645,4 @@ Christianity as its perpetual rival.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](stle15)
+[Next: Notes](stle15.md)

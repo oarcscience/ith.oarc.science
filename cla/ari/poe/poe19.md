@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe18)  [Next](poe20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe18)  [Next](poe20.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ from one play to another?
 ------------------------------------------------------------------------
 
 [Next: XIX. Thought, or the Intellectual element, and Diction in
-Tragedy](poe20)
+Tragedy](poe20.md)

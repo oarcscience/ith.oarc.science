@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt40)  [Next](blt42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt40)  [Next](blt42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -165,7 +165,7 @@ themselves without and within.
 song, keeping time by touching with the clenched hands—the right and
 left alternately—the wrappings of the pipe, occasionally making the sign
 for buffalo. Now, too, one could occasionally hear the word
-*Nai-ai'* <span id="fr_36"></span>[1](#fn_36) in the song. After singing
+*Nai-ai'* <span id="fr_36"></span>[1](#fn_36.md) in the song. After singing
 this song for about ten minutes, it was changed to the antelope song,
 and, instead of touching the roll with the clenched hands, which
 represented the heavy tread of buffalo, they closed the hands, leaving
@@ -402,9 +402,9 @@ men have seen such cures and believe in them.
 
 ### Footnotes
 
-<span id="fn_36"></span>[280:1](blt41.htm#fr_36) My shelter; my
+<span id="fn_36"></span>[280:1](blt41.htm#fr_36.md) My shelter; my
 covering; my robe.
 
 ------------------------------------------------------------------------
 
-[Next: The Blackfoot Of To-day](blt42)
+[Next: The Blackfoot Of To-day](blt42.md)

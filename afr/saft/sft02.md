@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sft01)  [Next](sft03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sft01)  [Next](sft03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003CN6KYW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *South-African Folk-Tales*, by James A. Honeÿ, \[1910\], at Intangible
 Textual Heritage
 
@@ -150,6 +150,6 @@ CAMBRIDGE, MASS., June, 1910.
 ------------------------------------------------------------------------
 
 [Next: Origin Of The Difference In Modes Of Life between Hottentots And
-Bushmen](sft03)
+Bushmen](sft03.md)
 
 </div>

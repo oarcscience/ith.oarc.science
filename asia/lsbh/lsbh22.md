@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh21)  [Next](lsbh23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh21)  [Next](lsbh23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -94,8 +94,8 @@ sheep."
 
 DCXXXII\. Another lunatic when asked "Where is thy native land?"
 replied, "The place where I was born was Sinjâr <span
-id="fr_117"></span>[1](#fn_117), and I was reared in the Monastery of
-Mâr Behnâm <span id="fr_118"></span>[2](#fn_118)," because in the
+id="fr_117"></span>[1](#fn_117.md), and I was reared in the Monastery of
+Mâr Behnâm <span id="fr_118"></span>[2](#fn_118.md)," because in the
 majority of cases demoniacs were accustomed to be carried there bound in
 fetters, so that they might be benefited by the power of the saint.
 
@@ -161,15 +161,15 @@ hungry they will depart."
 
 DCXLI\. Another lunatic was a Jacobite, and a certain Greek said to him,
 "Wilt thou take a *zûzâ* and curse Jacob Bûrde‘âyâ?" <span
-id="fr_119"></span>[1](#fn_119) And he replied, "No, but give me the
+id="fr_119"></span>[1](#fn_119.md) And he replied, "No, but give me the
 half of one and I will curse thee and Leo <span
-id="fr_120"></span>[2](#fn_120), who is much more honourable than Jacob,
+id="fr_120"></span>[2](#fn_120.md), who is much more honourable than Jacob,
 and to
 
 <span id="page_161">p. 161</span>
 
 these I will also add for the Marcianus who was an emperor <span
-id="fr_121"></span>[1](#fn_121)."
+id="fr_121"></span>[1](#fn_121.md)."
 
 DCXLII\. Another lunatic was boasting that he was a king in the time of
 Hercules, and when a certain nobleman said to him, "Thou art the king of
@@ -275,19 +275,19 @@ be divided among the poor and the lunatics who are not able to work."
 
 ### Footnotes
 
-<span id="fn_117"></span>[158:1](lsbh22.htm#fr_117) A city in the
+<span id="fn_117"></span>[158:1](lsbh22.htm#fr_117.md) A city in the
 mountains about four days’ journey east of Môsul.
 
-<span id="fn_118"></span>[158:2](lsbh22.htm#fr_118) See Hoffmann,
+<span id="fn_118"></span>[158:2](lsbh22.htm#fr_118.md) See Hoffmann,
 *Auszüge*, p. 17 ff.
 
-<span id="fn_119"></span>[160:1](lsbh22.htm#fr_119) Born at Edessa A.D.
+<span id="fn_119"></span>[160:1](lsbh22.htm#fr_119.md) Born at Edessa A.D.
 154, died A.D. 222.
 
-<span id="fn_120"></span>[160:2](lsbh22.htm#fr_120) *I.e.*, Leo the
+<span id="fn_120"></span>[160:2](lsbh22.htm#fr_120.md) *I.e.*, Leo the
 Pope; he was born about A.D. 400, and died about A.D. 461.
 
-<span id="fn_121"></span>[161:1](lsbh22.htm#fr_121) Emperor of the East
+<span id="fn_121"></span>[161:1](lsbh22.htm#fr_121.md) Emperor of the East
 A.D. 450–457.
 
 <div class="filenav">
@@ -295,6 +295,6 @@ A.D. 450–457.
 ------------------------------------------------------------------------
 
 [Next: The Eighteenth Chapter: Stories of Thieves and of
-Robbers](lsbh23)
+Robbers](lsbh23.md)
 
 </div>

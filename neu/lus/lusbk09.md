@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lusbk08)  [Next](lusbk09a) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lusbk08)  [Next](lusbk09a.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ her son in favour of the Portuguese. The island of Love, like that of
 Delos, floats on the ocean. It is then explained by the poet that these
 seeming realities are only allegorical.
 
-RED <span id="fr_557"></span>[1](#fn_552) rose the dawn; roll’d o’er the
+RED <span id="fr_557"></span>[1](#fn_552.md) rose the dawn; roll’d o’er the
 low’ring sky,  
 The scatt’ring clouds of tawny purple fly.  
 While yet the day-spring struggled with the gloom,  
@@ -44,7 +44,7 @@ Gen’rous, as to thy friends, thy sails resign,
 My will commands it, and the power is mine:  
 In vain thy art, in vain thy might withstands,  
 Thy sails, and rudders too, my will demands: <span
-id="fr_558"></span>[1](#fn_553)  
+id="fr_558"></span>[1](#fn_553.md)  
 Such be the test, thy boasted truth to try,  
 Each other test despis’d, I fix’d deny.  
 And has my regent sued two days in vain!  
@@ -71,7 +71,7 @@ Yet, though in chains I stand, my fleet is free.
 The bitter taunts of scorn the brave disdain;  
 Few be my words, your arts, your threats are vain.  
 My sov’reign’s fleet I yield not to your sway; <span
-id="fr_559"></span>[2](#fn_554)  
+id="fr_559"></span>[2](#fn_554.md)  
 Safe shall my fleet to Lisboa’s strand convey  
 The glorious tale of all the toils I bore,  
 Afric surrounded, and the Indian shore
@@ -179,13 +179,13 @@ When piercing sudden through the dreadful roar
 The yelling shrieks of thousands strike the shore:  
 Presaging horror through the monarch’s breast  
 Crept cold; and gloomy o’er the distant east,  
-Through Gata’s hills <span id="fr_560"></span>[1](#fn_555) the whirling
+Through Gata’s hills <span id="fr_560"></span>[1](#fn_555.md) the whirling
 tempest sigh’d,  
 And westward sweeping to the blacken’d tide,  
 Howl’d o’er the trembling palace as it past,  
 And o’er the gilded walls a gloomy twilight cast;  
 Then, furious, rushing to the darken’d bay, <span
-id="fr_561"></span>[2](#fn_556)  
+id="fr_561"></span>[2](#fn_556.md)  
 Resistless swept the black-wing’d night away,  
 With all the clouds that hover’d o’er the fight,  
 And o’er the weary combat pour’d the light.
@@ -284,7 +284,7 @@ So, shall this palace, smoking in the dust,
 And yon proud city, weep thy arts unjust.  
 The Moors I knew, and, for their fraud prepar’d,  
 I left my fix’d command my navy’s guard: <span
-id="fr_562"></span>[1](#fn_557)
+id="fr_562"></span>[1](#fn_557.md)
 
 <span id="page_259">p. 259</span>
 
@@ -303,7 +303,7 @@ And force, or death withholds me from my bands:
 Thus judge, and swift unfurl the homeward sail,  
 Catch the first breathing of the eastern gale,  
 Unmindful of my fate on India’s shore: <span
-id="fr_563"></span>[1](#fn_558)  
+id="fr_563"></span>[1](#fn_558.md)  
 Let but my monarch know, I wish no more.’  
 Each, panting while I spoke, impatient cries,  
 The tear-drop bursting in their manly eyes,  
@@ -354,7 +354,7 @@ The treach’rous Moors sank down in faint dismay,
 And speechless at his feet the council lay:  
 Abrupt, with outstretched arms, the monarch cries,  
 "What yet-------" but dar’d not meet the hero’s eyes,  
-"What yet may save!" <span id="fr_564"></span>[1](#fn_559)--Great VASCO
+"What yet may save!" <span id="fr_564"></span>[1](#fn_559.md)--Great VASCO
 stern rejoins,  
 "Swift, undisputing, give th’ appointed signs:  
 High o’er thy loftiest tower my flag display,  
@@ -376,7 +376,7 @@ And GAMA to his fleet triumphant rode.
   Soft came the eastern gale on balmy wings:  
 Each joyful sailor to his labour springs;  
 Some o’er the bars their breasts robust recline,  
-And, with firm tugs, the rollers <span id="fr_565"></span>[1](#fn_560)
+And, with firm tugs, the rollers <span id="fr_565"></span>[1](#fn_560.md)
 from the brine,  
 Reluctant dragg’d, the slime-brown’d anchors raise;  
 Each gliding rope some nimble hand obeys;  
@@ -400,7 +400,7 @@ All these, provided by the faithful Moor,
 All these, and India’s gems, the navy bore:  
 The Moor attends, Mozaide, whose zealous care  
 To GAMA’S eyes unveil’d each treach’rous snare: <span
-id="fr_566"></span>[2](#fn_561)
+id="fr_566"></span>[2](#fn_561.md)
 
 <span id="page_262">p. 262</span>
 
@@ -412,7 +412,7 @@ What man may dare his seeming ills arraign,
 Or what the grace of Heaven’s designs explain!  
 Far didst thou from thy friends a stranger roam,  
 There wast thou call’d to thy celestial home. <span
-id="fr_567"></span>[1](#fn_562)
+id="fr_567"></span>[1](#fn_562.md)
 
   With rustling sound now swell’d the steady sail;  
 The lofty masts reclining to the gale,  
@@ -441,7 +441,7 @@ How sweet to tell what woes, what toils they bore,
 The tribes, and wonders of each various shore!  
 These thoughts, the traveller’s lov’d reward, employ,  
 And swell each bosom with unutter’d joy. <span
-id="fr_568"></span>[1](#fn_563)
+id="fr_568"></span>[1](#fn_563.md)
 
   The queen of love, by Heaven’s eternal grace,  
 The guardian goddess of the Lusian race;  
@@ -456,7 +456,7 @@ These toils, these woes, her yearning cares employ,
 To bathe, and balsam in the streams of joy.  
 Amid the bosom of the wat’ry waste,  
 Near where the bowers of Paradise were plac’d, <span
-id="fr_569"></span>[1](#fn_564)  
+id="fr_569"></span>[1](#fn_564.md)  
 An isle, array’d in all the pride of flowers,  
 Of fruits, of fountains, and of fragrant bowers,  
 She means to offer to their homeward prows,  
@@ -467,7 +467,7 @@ The heav’n-topp’d column of their deathless praise.
   The goddess now ascends her silver car,  
 (Bright was its hue as love’s translucent star);  
 Beneath the reins the stately birds, <span
-id="fr_570"></span>[2](#fn_565) that sing  
+id="fr_570"></span>[2](#fn_565.md) that sing  
 Their sweet-ton’d death-song spread the snowy wing;  
 The gentle winds beneath her chariot sigh,  
 And virgin blushes purple o’er the sky:  
@@ -479,7 +479,7 @@ O’er fair Idalia’s bowers the goddess rode,
 And by her altars sought Idalia’s god:  
 The youthful Bowyer of the heart was there;  
 His falling kingdom claim’d his earnest care. <span
-id="fr_571"></span>[3](#fn_566)
+id="fr_571"></span>[3](#fn_566.md)
 
 <span id="page_265">p. 265</span>
 
@@ -489,7 +489,7 @@ Against the world, rebellious and astray,
 He means to lead them, and resume his sway:  
 For base-born passions, at his shrine, ’twas told,  
 Each nobler transport of the breast controll’d.  
-A young Actæon, <span id="fr_572"></span>[1](#fn_567) scornful of his
+A young Actæon, <span id="fr_572"></span>[1](#fn_567.md) scornful of his
 lore,  
 Morn after morn pursues the foamy boar,
 
@@ -502,7 +502,7 @@ And sweet, and dread his punishment decrees.
 Before his ravish’d sight, in sweet surprise,  
 Naked in all her charms, shall Dian rise;  
 With love’s fierce flames his frozen heart shall burn, <span
-id="fr_573"></span>[1](#fn_568)  
+id="fr_573"></span>[1](#fn_568.md)  
 Coldly his suit, the nymph, unmov’d, shall spurn.
 
 <span id="page_267">p. 267</span>
@@ -512,7 +512,7 @@ Ah, may he never fall the hapless prey!
 
   Enrag’d, he sees a venal herd, the shame  
 Of human race, assume the titled name; <span
-id="fr_574"></span>[1](#fn_569)
+id="fr_574"></span>[1](#fn_569.md)
 
 <span id="page_268">p. 268</span>
 
@@ -551,7 +551,7 @@ Divine the melody, the song divine.
   Already, now, began the vengeful war,  
 The witness of the god’s benignant care;  
 On the hard bosoms of the stubborn crowd <span
-id="fr_575"></span>[1](#fn_570)  
+id="fr_575"></span>[1](#fn_570.md)  
 An arrowy shower the bowyer train bestow’d;
 
 <span id="page_269">p. 269</span>
@@ -571,7 +571,7 @@ One knee display’d, she treads the flow’ry strand,
 The gather’d robe falls loosely from her hand;  
 Half-seen her bosom heaves the living snow,  
 And on her smiles the living roses glow.  
-The bowyer god, <span id="fr_576"></span>[1](#fn_571) whose subtle
+The bowyer god, <span id="fr_576"></span>[1](#fn_571.md) whose subtle
 shafts ne’er fly  
 Misaim’d, in vain, in vain on earth or sky,  
 With rosy smiles the mother power receives;  
@@ -619,7 +619,7 @@ There, to the greedy riotous embrace
 Resign each bidden charm with dearest grace.  
 Thus, from my native waves a hero line  
 Shall rise, and o’er the East illustrious shine; <span
-id="fr_577"></span>[1](#fn_572)  
+id="fr_577"></span>[1](#fn_572.md)  
 Thus, shall the rebel world thy prowess know,  
 And what the boundless joys our friendly powers bestow."
 
@@ -630,7 +630,7 @@ Blaz’d to the sun-beam as the chariot roll’d:
 Their silver harness shining to the day,  
 The swans, on milk-white pinions, spring away,  
 Smooth gliding o’er the clouds of lovely blue;  
-And Fame <span id="fr_578"></span>[2](#fn_573) (so will’d the god)
+And Fame <span id="fr_578"></span>[2](#fn_573) (so will’d the god.md)
 before them flew:
 
 <span id="page_271">p. 271</span>
@@ -655,7 +655,7 @@ The smiles of wonder and delight are seen,
 Whose glossy, simp’ring eye bespeaks her name,  
 Credulity, attends the goddess Fame.  
 Fir’d by the heroes’ praise, the wat’ry gods, <span
-id="fr_579"></span>[1](#fn_574)  
+id="fr_579"></span>[1](#fn_574.md)  
 With ardent speed forsake their deep abodes;  
 Their rage by vengeful Bacchus rais’d of late,  
 Now stung remorse, and love succeeds to hate.  
@@ -687,7 +687,7 @@ Lo, Venus comes! Oh, soft, ye surges, sleep,
 Smooth be the bosom of the azure deep,  
 Lo, Venus comes! and in her vig’rous train  
 She brings the healing balm of love-sick pain.  
-White as her swans, <span id="fr_580"></span>[1](#fn_575) and stately as
+White as her swans, <span id="fr_580"></span>[1](#fn_575.md) and stately as
 they rear  
 Their snowy crests when o’er the lake they steer,  
 Slow moving on, behold, the fleet appears,  
@@ -720,12 +720,12 @@ Arabia’s balm was sprinkled o’er the air.
 Before the fleet, to catch the heroes’ view,  
 The floating isle fair Acidalia drew:  
 Soon as the floating verdure caught their sight, <span
-id="fr_581"></span>[1](#fn_576)  
+id="fr_581"></span>[1](#fn_576.md)  
 She fix’d, unmov’d, the island of delight.  
 So when in child-birth of her Jove-sprung load,  
 The sylvan goddess and the bowyer god,  
 In friendly pity of Latona’s woes, <span
-id="fr_582"></span>[2](#fn_577)  
+id="fr_582"></span>[2](#fn_577.md)  
 Amid the waves the Delian isle arose.  
 And now, led smoothly o’er the furrow’d tide,  
 Right to the isle of joy the vessels glide:  
@@ -764,7 +764,7 @@ Long thus, and various, ev’ry riv’let strays,
 Till closing, now, their long meand’ring maze,  
 Where in a smiling vale the mountains end,  
 Form’d in a crystal lake the waters blend: <span
-id="fr_583"></span>[1](#fn_578)  
+id="fr_583"></span>[1](#fn_578.md)  
 Fring’d was the border with a woodland shade,  
 In ev’ry leaf of various green array’d,  
 Each yellow-ting’d, each mingling tint between  
@@ -784,7 +784,7 @@ A thousand boughs aloft to heav’n display
 Their fragrant apples, shining to the day;  
 The orange here perfumes the buxom air,  
 And boasts the golden hue of Daphne’s hair. <span
-id="fr_584"></span>[1](#fn_579)  
+id="fr_584"></span>[1](#fn_579.md)  
 Near to the ground each spreading bough descends,  
 Beneath her yellow load the citron bends;
 
@@ -827,7 +827,7 @@ In cultur’d garden, free, uncultur’d flows,
 The flavour sweeter, and the hue more fair,  
 Than e’er was foster’d by the hand of care.  
 The cherry here in shining crimson glows;  
-And, stain’d with lover’s blood, <span id="fr_585"></span>[1](#fn_580)
+And, stain’d with lover’s blood, <span id="fr_585"></span>[1](#fn_580.md)
 in pendent rows,
 
 <span id="page_277">p. 277</span>
@@ -849,7 +849,7 @@ To grace the feast of heroes and the fair,
 Soft let the leaves, with grateful umbrage, hide  
 The green-tinged orange of thy mellow side.  
 A thousand flowers of gold, of white and red,  
-Far o’er the shadowy vale <span id="fr_586"></span>[1](#fn_581) their
+Far o’er the shadowy vale <span id="fr_586"></span>[1](#fn_581.md) their
 carpets spread,  
 Of fairer tap’stry, and of richer bloom,  
 Than ever glow’d in Persia’s boasted loom:  
@@ -859,7 +859,7 @@ Here o’er the wat’ry mirror’s lucid bed
 Narcissus, self-enamour’d, hangs the head;  
 And here, bedew’d with love’s celestial tears,  
 The woe-mark’d flower of slain Adonis <span
-id="fr_587"></span>[2](#fn_582) rears
+id="fr_587"></span>[2](#fn_582.md) rears
 
 <span id="page_278">p. 278</span>
 
@@ -867,7 +867,7 @@ Its purple head, prophetic of the reign
 When lost Adonis shall revive again.  
 At strife appear the lawns and purpled skies,  
 Which from each other stole the beauteous dyes: <span
-id="fr_588"></span>[1](#fn_583)  
+id="fr_588"></span>[1](#fn_583.md)  
 The lawn in all Aurora’s lustre glows,  
 Aurora steals the blushes of the rose,  
 The rose displays the blushes that adorn  
@@ -890,7 +890,7 @@ And o’er the lily’s milk-white bosom glows.
 Fresh in the dew, far o’er the painted dales,  
 Each fragrant herb her sweetest scent exhales.  
 The hyacinth bewrays the doleful *Ai* <span
-id="fr_589"></span>[1](#fn_584)  
+id="fr_589"></span>[1](#fn_584.md)  
 And calls the tribute of Apollo’s sigh;  
 Still on its bloom the mournful flower retains  
 The lovely blue that dy’d the stripling’s veins.  
@@ -935,9 +935,9 @@ And song and joy imparadis’d the bowers.
   And soon the fleet their ready anchors threw:  
 Lifted on eager tip-toe at the view,  
 On nimble feet that bounded to the strand  
-The second Argonauts <span id="fr_590"></span>[1](#fn_585) elance to
+The second Argonauts <span id="fr_590"></span>[1](#fn_585.md) elance to
 land.  
-Wide o’er the beauteous isle <span id="fr_591"></span>[2](#fn_586) the
+Wide o’er the beauteous isle <span id="fr_591"></span>[2](#fn_586.md) the
 lovely fair  
 Stray through the distant glades, devoid of care.
 
@@ -1067,7 +1067,7 @@ Thus, yielding freely to the am’rous eyes
 What to the am’rous hands their fear denies.  
 Some well assume Diana’s virgin shame,  
 When on her naked sports the hunter <span
-id="fr_592"></span>[1](#fn_587) came
+id="fr_592"></span>[1](#fn_587.md) came
 
 <span id="page_285">p. 285</span>
 
@@ -1190,7 +1190,7 @@ And shall I see him riot on thy charms,
 Dissolv’d in joy, exulting in thine arms?  
 Oh burst, ye lightnings, round my destin’d head,  
 Oh pour your flashes------" Madd’ning as he said, <span
-id="fr_593"></span>[1](#fn_588)
+id="fr_593"></span>[1](#fn_588.md)
 
 <span id="page_288">p. 288</span>
 
@@ -1265,7 +1265,7 @@ Like transport riots o’er the humbler plain,
 W here each, in gen’rous triumph o’er his peers,  
 His lovely bride to ev’ry bride prefers.
 
-  "Hence, ye profane!" <span id="fr_594"></span>[1](#fn_589)--the song
+  "Hence, ye profane!" <span id="fr_594"></span>[1](#fn_589.md)--the song
 melodious rose,  
 By mildest zephyrs wafted through the boughs,  
 Unseen the warblers of the holy strain--  
@@ -1312,7 +1312,7 @@ To tyrant power be dreadful; from the jaws
 Of fierce oppression guard the peasant’s cause.  
 If youthful fury pant for shining arms,  
 Spread o’er the eastern world the dread alarms; <span
-id="fr_595"></span>[1](#fn_590)
+id="fr_595"></span>[1](#fn_590.md)
 
 <span id="page_291">p. 291</span>
 
@@ -1329,17 +1329,17 @@ Shall ever with us share our isle divine."
 
 ### Footnotes
 
-<span id="fn_552"></span>[252:1](lusbk09.htm#fr_557) Mickle, in place of
+<span id="fn_552"></span>[252:1](lusbk09.htm#fr_557.md) Mickle, in place of
 the first seventeen stanzas of this canto, has inserted about three
 hundred lines of his own composition; in this respect availing himself
 of the licence he had claimed in his preface.
 
-<span id="fn_553"></span>[253:1](lusbk09.htm#fr_558) *Thy sails, and
+<span id="fn_553"></span>[253:1](lusbk09.htm#fr_558.md) *Thy sails, and
 rudders too, my will demands*.--According to history.
 
-<span id="fn_554"></span>[253:2](lusbk09.htm#fr_559) *My sov’reign’s
+<span id="fn_554"></span>[253:2](lusbk09.htm#fr_559.md) *My sov’reign’s
 fleet I yield not to your sway*.--The circumstance of
-[GAMA’S](errata.htm#7) refusing to put his fleet into the power of the
+[GAMA’S](errata.htm#7.md) refusing to put his fleet into the power of the
 zamorim, is thus rendered by Fanshaw:--
 
 "The Malabar protests that he shall rot  
@@ -1347,7 +1347,7 @@ In prison, if he send not for the ships.
 *He* (*constant*, and with noble anger hot)  
 His haughty menace weighs not at two chips."
 
-<span id="fn_555"></span>[256:1](lusbk09.htm#fr_560) *Through Gata’s
+<span id="fn_555"></span>[256:1](lusbk09.htm#fr_560.md) *Through Gata’s
 hills*.--The hills of Gata or Gate, mountains which form a natural
 barrier on the eastern side of the kingdom of Malabar.
 
@@ -1355,26 +1355,26 @@ barrier on the eastern side of the kingdom of Malabar.
 They guard the fertile walls of Malabar."  
                                          LUSIAD, vii.
 
-<span id="fn_556"></span>[256:2](lusbk09.htm#fr_561) *Then, furious,
+<span id="fn_556"></span>[256:2](lusbk09.htm#fr_561.md) *Then, furious,
 rushing to the darken’d bay*.--For the circumstances of the battle, and
 the tempest which then happened, see the Life of GAMA.
 
-<span id="fn_557"></span>[258:1](lusbk09.htm#fr_562) *I left my fix’d
+<span id="fn_557"></span>[258:1](lusbk09.htm#fr_562.md) *I left my fix’d
 command my navy’s guard*.--See the Life of GAMA.
 
-<span id="fn_558"></span>[259:1](lusbk09.htm#fr_563) *Unmindful of my
+<span id="fn_558"></span>[259:1](lusbk09.htm#fr_563.md) *Unmindful of my
 fate on India’s shore*.--This most magnanimous resolution, to sacrifice
 his own safety or his life for the safe return of the fleet, is strictly
 true.--See the Life of GAMA.
 
-<span id="fn_559"></span>[260:1](lusbk09.htm#fr_564) *Abrupt--the
+<span id="fn_559"></span>[260:1](lusbk09.htm#fr_564.md) *Abrupt--the
 monarch, cries--"What yet may save!"*--GAMA’s declaration, that no
 message from him to the fleet could alter the orders he had already
 left, and his rejection of any further treaty, have a necessary effect
 in the conduct of the poem. They hasten the catastrophe, and give a
 verisimilitude to the abrupt and full submission of the zamorim.
 
-<span id="fn_560"></span>[261:1](lusbk09.htm#fr_565) *The
+<span id="fn_560"></span>[261:1](lusbk09.htm#fr_565.md) *The
 rollers*--*i.e*. the capstans.--The capstan is a cylindrical windlass,
 worked with bars, which are moved from hole to hole as it turns round.
 It is used on board ship to weigh the anchors, raise the masts, etc. The
@@ -1387,7 +1387,7 @@ Pello trabalho, huns puxao pella amarra,
 Outros quebrao co peito duro a barra."  
                                            STANZA X.
 
-<span id="fn_561"></span>[261:2](lusbk09.htm#fr_566)
+<span id="fn_561"></span>[261:2](lusbk09.htm#fr_566.md)
 
                *Mozaide, whose zealous care  
 To Gama’s eyes reveal’d each treach’rous snare*.
@@ -1398,7 +1398,7 @@ is not a warrior, the unexpected friend of GAMA bears a much more
 considerable part in the action of the Lusiad than the faithful Achates,
 the friend of the hero, bears in the business of the .Æneid.
 
-<span id="fn_562"></span>[262:1](lusbk09.htm#fr_567) *There wast thou
+<span id="fn_562"></span>[262:1](lusbk09.htm#fr_567.md) *There wast thou
 call’d to thy celestial home*.--This exclamatory address to the Moor
 Monzaida, however it may appear digressive, has a double propriety. The
 conversion of the Eastern world is the great purpose of the expedition
@@ -1420,7 +1420,7 @@ knowledge of affairs must have certainly foreseen. By the known dangers
 he encountered, by the loss he thus voluntarily sustained, and by his
 after constancy, his sincerity is undoubtedly proved.
 
-<span id="fn_563"></span>[263:1](lusbk09.htm#fr_568) *The joy of the
+<span id="fn_563"></span>[263:1](lusbk09.htm#fr_568.md) *The joy of the
 fleet on the homeward departure from India*.--We are now come to that
 part of the Lusiad, which, in the conduct of the poem, is parallel to
 the great catastrophe of the Iliad, when, on the death of Hector,
@@ -1447,13 +1447,13 @@ plan and conduct, than may be produced in two principal parts of the
 poem of Camoëns, and of the Paradise Lost.--See the Dissertation which
 follows this book.
 
-<span id="fn_564"></span>[264:1](lusbk09.htm#fr_569) *Near where the
+<span id="fn_564"></span>[264:1](lusbk09.htm#fr_569.md) *Near where the
 bowers of Paradise were plac’d*.--Between the mouth of the Ganges and
 Euphrates.
 
-<span id="fn_565"></span>[264:2](lusbk09.htm#fr_570) Swans.
+<span id="fn_565"></span>[264:2](lusbk09.htm#fr_570.md) Swans.
 
-<span id="fn_566"></span>[264:3](lusbk09.htm#fr_571) *His falling
+<span id="fn_566"></span>[264:3](lusbk09.htm#fr_571.md) *His falling
 kingdom claim’d his earnest care*.--This fiction, in poetical conduct,
 bears a striking resemblance to the digressive histories with which
 Homer enriches and adorns his poems, particularly to the beautiful
@@ -1471,7 +1471,7 @@ of the best and most rational institutions; and which, however contrary
 to each other, all agree in deriving their authority from the same
 source.
 
-<span id="fn_567"></span>[265:1](lusbk09.htm#fr_572) *A young
+<span id="fn_567"></span>[265:1](lusbk09.htm#fr_572.md) *A young
 Actæon*.--The French translator has the following characteristic note:
 "This passage is an eternal monument of the freedoms taken by Camoëns,
 and at the same time a proof of the imprudence of poets; an authentic
@@ -1526,7 +1526,7 @@ king of Portugal." His majesty was as good as his promise, and became,
 as a warrior and politician, one of the greatest of the Portuguese
 monarchs.
 
-<span id="fn_568"></span>[266:1](lusbk09.htm#fr_573) *With love’s fierce
+<span id="fn_568"></span>[266:1](lusbk09.htm#fr_573.md) *With love’s fierce
 flames his frozen heart shall burn*.--"It is said, that upon the faith
 of a portrait Don Sebastian fell in love with Margaret of France,
 daughter of Henry II., and demanded her in marriage, but was refused.
@@ -1593,7 +1593,7 @@ escaped the Spanish yoke, which soon followed his defeat at Alcazar; a
 yoke which sunk Portugal into an abyss of misery, from which, in all
 probability, she will never emerge into her former splendour.
 
-<span id="fn_569"></span>[267:1](lusbk09.htm#fr_574)
+<span id="fn_569"></span>[267:1](lusbk09.htm#fr_574.md)
 
 *Enraged, he sees a venal herd, the shame  
 Of human race, assume the titled name*.--
@@ -1604,7 +1604,7 @@ his courtiers, to whom he has done no injustice. Those who are
 acquainted with the Portuguese history, will readily acknowledge
 this."--CASTERA.
 
-<span id="fn_570"></span>[268:1](lusbk09.htm#fr_575) *On the hard bosoms
+<span id="fn_570"></span>[268:1](lusbk09.htm#fr_575.md) *On the hard bosoms
 of the stubborn crowd*.--There is an elegance in the original of this
 line, which the English language will not admit:--
 
@@ -1612,9 +1612,9 @@ line, which the English language will not admit:--
 
 *i.e*., In the hard hearts of the hard vulgar.
 
-<span id="fn_571"></span>[269:1](lusbk09.htm#fr_576) Cupid.
+<span id="fn_571"></span>[269:1](lusbk09.htm#fr_576.md) Cupid.
 
-<span id="fn_572"></span>[270:1](lusbk09.htm#fr_577)
+<span id="fn_572"></span>[270:1](lusbk09.htm#fr_577.md)
 
 *Thus from my native waves a hero line  
 Shall rise, and o’er the East illustrious shine*.--
@@ -1624,14 +1624,14 @@ heroes to be produced by the union of the Portuguese with the Nereids,
 is to be understood the other Portuguese, who, following the steps of
 GAMA, established illustrious colonies in India."--CASTERA.
 
-<span id="fn_573"></span>[270:2](lusbk09.htm#fr_578) *And Fame--a
+<span id="fn_573"></span>[270:2](lusbk09.htm#fr_578.md) *And Fame--a
 giant-goddess*.--This passage affords a striking instance of the
 judgment of Camoëns. Virgil’s celebrated description of Fame is in his
 eye, but he copies it, as Virgil, in his best imitations, copies after
 Homer. He adopts some circumstances, but, by adding others, he makes a
 new picture, which justly may be called his own.
 
-<span id="fn_574"></span>[271:1](lusbk09.htm#fr_579) *The wat’ry
+<span id="fn_574"></span>[271:1](lusbk09.htm#fr_579.md) *The wat’ry
 gods*.--To mention the gods in the masculine gender, and immediately to
 apply to them--
 
@@ -1650,7 +1650,7 @@ Expedior."
 <span class="contnote">\[paragraph continues\]</span> This is in the
 manner of the Greek poets, who use the word Θεὸς for god or goddess.
 
-<span id="fn_575"></span>[272:1](lusbk09.htm#fr_580) *White as her
+<span id="fn_575"></span>[272:1](lusbk09.htm#fr_580.md) *White as her
 swans*.--A distant fleet compared to swans on a lake is certainly a
 happy thought. The allusion to the pomp of Venus, whose agency is
 immediately concerned, gives it besides a peculiar propriety. This
@@ -1660,7 +1660,7 @@ liberty taken by Fanshaw:--
 "The pregnant *sails* on Neptune’s surface creep,  
 Like her own *swans*, in *gate*, *out-chest*, and *fether*."
 
-<span id="fn_576"></span>[273:1](lusbk09.htm#fr_581) *Soon as the
+<span id="fn_576"></span>[273:1](lusbk09.htm#fr_581.md) *Soon as the
 floating verdure caught their sight*.--As the departure of GAMA from
 India was abrupt, he put into one of the beautiful islands of Anchediva
 for fresh water. "While he was here careening his ships," says Faria, "a
@@ -1674,13 +1674,13 @@ waves; it is an allusion to a singular event related by Barros." He then
 proceeds to the story of Timoja, as if the genius of Camoëns stood in
 need of so weak an assistance.
 
-<span id="fn_577"></span>[273:2](lusbk09.htm#fr_582) *In friendly pity
+<span id="fn_577"></span>[273:2](lusbk09.htm#fr_582.md) *In friendly pity
 of Latona’s woes*.--Latona, pregnant by Jupiter, was persecuted by Juno,
 who sent the serpent Python in pursuit of her. Neptune, in pity of her
 distress, raised the island of Delos for her refuge, where she was
 delivered of Apollo and Diana.--OVID, Met.
 
-<span id="fn_578"></span>[274:1](lusbk09.htm#fr_583) *Form’d in a
+<span id="fn_578"></span>[274:1](lusbk09.htm#fr_583.md) *Form’d in a
 crystal lake the waters blend*.--Castera also attributes this to
 history. "The Portuguese actually found in this island," says he, "a
 fine piece of water ornamented with hewn stones and magnificent
@@ -1692,7 +1692,7 @@ colour, from whence the Portuguese conjectured, says Osorius, that the
 Anchedivian islands had in former ages been inhabited by
 Christians.--Vid. Osor. l. iv.
 
-<span id="fn_579"></span>[275:1](lusbk09.htm#fr_584)
+<span id="fn_579"></span>[275:1](lusbk09.htm#fr_584.md)
 
 *The orange here perfumes the buxom air,  
 And boasts the golden hue of Daphne’s hair*.
@@ -1729,7 +1729,7 @@ b. 1. c. 1. st. 8, 9), the poetry consists entirely in the happiness of
 the epithets. In Camoëns, all the three requisites are admirably
 attained and blended together.
 
-<span id="fn_580"></span>[276:1](lusbk09.htm#fr_585) *And stain’d with
+<span id="fn_580"></span>[276:1](lusbk09.htm#fr_585.md) *And stain’d with
 lover’s blood*.--Pyramus and Thisbe:--
 
 "Arborei foetus aspergine cædis in atram  
@@ -1742,7 +1742,7 @@ Signa tene cædis: pullosque et lectibus aptos
 Semper habe fœtus gemini monumenta cruoris."  
                                                   OVID, Met.
 
-<span id="fn_581"></span>[277:1](lusbk09.htm#fr_586) *The shadowy
+<span id="fn_581"></span>[277:1](lusbk09.htm#fr_586.md) *The shadowy
 vale*.--Literal from the original,--*O sombrio valle*-- which Fanshaw,
 however, has translated, "the gloomy valley," and thus has given us a
 funereal, where the author intended a festive, landscape. It must be
@@ -1751,7 +1751,7 @@ infinitely the best part all of Fanshaw’s translation. And indeed the
 dullest prose translation might obscure, but could not possibly throw a
 total eclipse over, so admirable an original.
 
-<span id="fn_582"></span>[277:2](lusbk09.htm#fr_587) *The woe-mark’d
+<span id="fn_582"></span>[277:2](lusbk09.htm#fr_587.md) *The woe-mark’d
 flower of slain Adonis--water’d by the tears of love*.--The Anemone.
 "This," says Castera, "is applicable to the celestial Venus, for,
 according to my theology, her amour with Adonis had <span
@@ -1767,7 +1767,7 @@ British Druids, as we are told by Dr. Stukely. In the same manner Cupid,
 in the fable of Psyche, is interpreted by mythologists, to signify the
 Divine Love weeping over the degeneracy of human nature.
 
-<span id="fn_583"></span>[278:1](lusbk09.htm#fr_588)
+<span id="fn_583"></span>[278:1](lusbk09.htm#fr_588.md)
 
 *At strife appear the lawns and purpled skies,  
 Who from each other stole the beauteous dyes*.
@@ -1788,7 +1788,7 @@ receive in their course the tribute of a hundred and a hundred rivers,
 and which even in the dog-days carry their waves triumphant to the
 ocean."
 
-<span id="fn_584"></span>[279:1](lusbk09.htm#fr_589) *The hyacinth
+<span id="fn_584"></span>[279:1](lusbk09.htm#fr_589.md) *The hyacinth
 bewrays the doleful* Ai.--Hyacinthus, a youth beloved of Apollo, by whom
 he was accidentally slain, and afterwards turned into a flower:--
 
@@ -1800,13 +1800,13 @@ Ipse suos gemitus foliis inscribit; et Ai, Ai,
 Flos habet inscriptum: funestaque littera ducta est.  
                                                   OVID, Met.
 
-<span id="fn_585"></span>[280:1](lusbk09.htm#fr_590) *The second
+<span id="fn_585"></span>[280:1](lusbk09.htm#fr_590.md) *The second
 Argonauts*.--The expedition of the Golden Fleece was esteemed, in
 ancient poetry, one of the most daring adventures, the success of which
 was accounted miraculous. The allusions of Camoëns to this voyage,
 though in the spirit of his age, are by no means improper.
 
-<span id="fn_586"></span>[280:2](lusbk09.htm#fr_591) *Wide o’er the
+<span id="fn_586"></span>[280:2](lusbk09.htm#fr_591.md) *Wide o’er the
 beauteous isle the lovely fair*.--We now come to the passage condemned
 by Voltaire as so lascivious, that no nation in Europe, except the
 Portuguese and Italians, could bear it. The fate of Camoëns has hitherto
@@ -1902,10 +1902,10 @@ Spenser also, where he does not follow Tasso, is often gross; and even
 in some instances, where the expression is most delicate, the picture is
 nevertheless indecently lascivious.
 
-<span id="fn_587"></span>[284:1](lusbk09.htm#fr_592) *The
+<span id="fn_587"></span>[284:1](lusbk09.htm#fr_592.md) *The
 hunter*.--Acteon.
 
-<span id="fn_588"></span>[287:1](lusbk09.htm#fr_593) *Madd’ning as he
+<span id="fn_588"></span>[287:1](lusbk09.htm#fr_593.md) *Madd’ning as he
 said*.--At the end of his Homer Mr. Pope has given an index of the
 instances of imitative and sentimental harmony contained in his
 translations. He has also often even in his notes pointed out the
@@ -1926,14 +1926,14 @@ twice as much, though fatigued with the chase of a couple of miles,
 provided the supposition be allowed, that he treads on the last steps of
 his flying mistress.
 
-<span id="fn_589"></span>[289:1](lusbk09.htm#fr_594) *Hence, ye
+<span id="fn_589"></span>[289:1](lusbk09.htm#fr_594.md) *Hence, ye
 profane*.--We have already observed, that in every other poet the love
 scenes are generally described as those of guilt and remorse. The
 contrary character of those of Camoëns not only gives them a delicacy
 unknown to other moderns, but, by the fiction of the spousal rites, the
 allegory and machinery of the poem are most happily conducted.
 
-<span id="fn_590"></span>[290:1](lusbk09.htm#fr_595) *Spread o’er the
+<span id="fn_590"></span>[290:1](lusbk09.htm#fr_595.md) *Spread o’er the
 eastern world the dread alarms*.--This admonition places the whole
 design of the poem before us. To extirpate <span id="page_291">p.
 291</span> Mohammedanism, and propagate Christianity, were professed as
@@ -1957,4 +1957,4 @@ power soon became the sword of tyranny and rapine.
 
 ------------------------------------------------------------------------
 
-[Next: Dissertation on the Fiction of the Island of Venus](lusbk09a)
+[Next: Dissertation on the Fiction of the Island of Venus](lusbk09a.md)

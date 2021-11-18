@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt05)  [Next](ebt07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt05)  [Next](ebt07.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ although these are few and far between, as the plough obliterates it
 all. The line usually crosses a river at a known ford or ferry. Sighting
 tumps not marked on the map are also to be found.
 
-Two specific proofs are illustrated in [Plate IV](ebt05.htm#img_pl04)
+Two specific proofs are illustrated in [Plate IV](ebt05.htm#img_pl04.md)
 and explained in the Table of Illustrations. Also from the highest point
 of the earthworks of Dinedor Camp the spire of All Saints' Church can be
 seen precisely between the pinnacles of Hereford Cathedral, thus showing
@@ -46,4 +46,4 @@ a sighting tump and two churches on one ley. The Offa Street example
 
 ------------------------------------------------------------------------
 
-[Next: The Ley](ebt07)
+[Next: The Ley](ebt07.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray025)  [Next](pray027) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray025)  [Next](pray027.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,8 +35,8 @@ command of the Lord, and not without a promise, the two things of
 primary importance in prayer. But all such reasons are inapplicable to
 the dead, with whom the Lord, in withdrawing them from our society, has
 left us no means of intercourse (<span id="iii.xxiv-p1.1"></span>[Eccl.
-9:5](../../../bib/kjv/ecc009.htm#005),
-[6](../../../bib/kjv/ecc009.htm#006)<span id="iii.xxiv-p1.1"></span>),
+9:5](../../../bib/kjv/ecc009.htm#005.md),
+[6](../../../bib/kjv/ecc009.htm#006)<span id="iii.xxiv-p1.1"></span>.md),
 and to whom, so far as we can conjecture, he has left no means of
 intercourse with us. But if any one allege that they certainly must
 retain the same charity for us, as they are united with us in one faith,
@@ -55,4 +55,4 @@ bids us look only to the will of God.
 
 ------------------------------------------------------------------------
 
-[Next: 25.](pray027)
+[Next: 25.](pray027.md)

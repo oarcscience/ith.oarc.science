@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm90)  [Next](pnm92) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm90)  [Next](pnm92.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -82,7 +82,7 @@ The circles next surrounding the hierarchies, are
 
 <span id="img_27700"></span> <span align="CENTER"> [![Symbol of the
 Universal Spirit of Nature](tn/27700.jpg)  
-Click to enlarge](img/27700.jpg)  
+Click to enlarge](img/27700.jpg.md)  
 Symbol of the Universal Spirit of Nature  
 </span>
 
@@ -232,4 +232,4 @@ what they mean by Nature.
 
 ------------------------------------------------------------------------
 
-[Next: Symbols of the Alchemists](pnm92)
+[Next: Symbols of the Alchemists](pnm92.md)

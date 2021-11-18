@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](ama01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](ama01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@
 
 [![VATICAN, WOUNDED AMAZON.&lt;BR&gt; ATTRIBUTED TO
 PHEIDIAS.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 VATICAN, WOUNDED AMAZON.  
 ATTRIBUTED TO PHEIDIAS.  
 
@@ -26,4 +26,4 @@ ATTRIBUTED TO PHEIDIAS.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ama01)
+[Next: Contents](ama01.md)

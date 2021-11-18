@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu11)  [Next](yfhu13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu11)  [Next](yfhu13.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -146,7 +146,7 @@ desire, when acting upon a certain faculty,
 <span id="page_148">p. 148</span>
 
 cannot cause that faculty to become fully alive. Nor can such a desire
-[marshal](errata.htm#0) all the unused forces of the system and
+[marshal](errata.htm#0.md) all the unused forces of the system and
 concentrate them all upon the attainment of the one thing wanted. And it
 is true that the desires of most people are neither continuous nor very
 deep. They are shallow, occasional wishes without enough power to stir
@@ -365,4 +365,4 @@ optimist lives in that mental sunshine that makes all things grow*.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Concentration and the Power Back of
-Suggestion](yfhu13)
+Suggestion](yfhu13.md)

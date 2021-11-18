@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](twi09)  [Next](twi11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](twi09)  [Next](twi11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Tune With the Infinite*, by Ralph Waldo Trine, \[1910\], at
 Intangible Textual Heritage
 
@@ -230,7 +230,7 @@ or if they do, they are immediately sent out of his mind, and so he is
 not influenced by this order of thought from without. He does not
 attract it to him. He is in another current of thought. Consequently the
 weakening, failure-bringing thoughts of the fearing, the
-[vacillating](errata.htm#1), the pessimistic about him, have no
+[vacillating](errata.htm#1.md), the pessimistic about him, have no
 influence upon him. The one who is of the negative, fearing kind not
 only has his energies and his physical agents weakened, or even
 paralyzed through the influence of this
@@ -408,4 +408,4 @@ all the unrest and the turmoil about us, can realize and say—
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Coming into Fullness of Power](twi11)
+[Next: VIII. Coming into Fullness of Power](twi11.md)

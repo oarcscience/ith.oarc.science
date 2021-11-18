@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap67) 
-[Next](bap69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap67.md) 
+[Next](bap69.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ rebuke my people because they have sinned.
 
 the Philistines went forth to meet the children of Israel, and smote
 them. And there was there a certain Golia <span
-id="fr_149"></span>[1](#fn_148), a Philistine, which came even unto the
+id="fr_149"></span>[1](#fn_148.md), a Philistine, which came even unto the
 ark, and Ophni and Phinees the sons of Heli
 
 <span id="page_224">p. 224</span>
@@ -109,10 +109,10 @@ the ghost.
 
 ### Footnotes
 
-<span id="fn_148"></span>[223:1](bap68.htm#fr_149) LIV. 3. That Goliath
+<span id="fn_148"></span>[223:1](bap68.htm#fr_149.md) LIV. 3. That Goliath
 was the slayer of Eli's sons, and that Saul brought the tidings to Eli,
 is also said in the Targum on Samuel and in the *Midrash Samuel* (Cohn).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LV](bap69)
+[Next: Chapter LV](bap69.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cair00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cairtxt.zip)
+[Contents](#contents)    [Start Reading](cair00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cairtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -49,20 +49,20 @@ Allen Giles (b. Dec. 8, 1845, d. Feb. 13, 1935), was a British diplomat
 and an old China hand. He is best known for his role in developing the
 Wade-Giles system of transliterating Chinese. Giles was the father of
 Lionel Giles, who was also a distinguished orientalist, and translator
-of [Sun Tzu's Art of War](../artwar.txt), among
-[others](../../cat/srchauth.htm?search_str=lionel+giles).
+of [Sun Tzu's Art of War](../artwar.txt.md), among
+[others](../../cat/srchauth.htm?search_str=lionel+giles.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cair00)  
-[Preface](cair01)  
-[Contents](cair02)  
-[Lecture I. B.C. 3000-1200](cair03)  
-[Lecture II. B.C. 1200-500](cair04)  
-[Lecture III. B.C. 500-300](cair05)  
-[Lecture IV. B.C. 300-200](cair06)  
-[Lecture V. B.C. 200-A.D. 100](cair07)  
-[Lecture VI. A.D. 100-600](cair08)  
-[Lecture VII. A.D. 600-1000](cair09)  
-[Lecture VIII. A.D. 1000-1915](cair10)  
-[Index](cair11)  
+<span id="contents"></span> [Title Page](cair00.md)  
+[Preface](cair01.md)  
+[Contents](cair02.md)  
+[Lecture I. B.C. 3000-1200](cair03.md)  
+[Lecture II. B.C. 1200-500](cair04.md)  
+[Lecture III. B.C. 500-300](cair05.md)  
+[Lecture IV. B.C. 300-200](cair06.md)  
+[Lecture V. B.C. 200-A.D. 100](cair07.md)  
+[Lecture VI. A.D. 100-600](cair08.md)  
+[Lecture VII. A.D. 600-1000](cair09.md)  
+[Lecture VIII. A.D. 1000-1915](cair10.md)  
+[Index](cair11.md)  

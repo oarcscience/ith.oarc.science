@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre07)  [Next](vre09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre07)  [Next](vre09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ convert for the mere sky-blue healthy-minded moralist; and you likewise
 enter into the aversion of the latter to what seems to him the diseased
 subjectivism of the Methodist, dying to live, as he calls it, and making
 of paradox and the inversion of natural appearances the essence of God's
-truth. <span id="fr_84"></span>[1](#fn_84)
+truth. <span id="fr_84"></span>[1](#fn_84.md)
 
  
 
@@ -78,10 +78,10 @@ never been able to intoxicate, to make shed tears,
 <span id="page_165">p. 165</span>
 
 <span class="small">or put to sleep. And how it sees into things, and
-how it mocks!" <span id="fr_85"></span>[1](#fn_85)</span>
+how it mocks!" <span id="fr_85"></span>[1](#fn_85.md)</span>
 
 Recent works on the psychology of character have had much to say upon
-this point. <span id="fr_86"></span>[2](#fn_86) Some persons are born
+this point. <span id="fr_86"></span>[2](#fn_86.md) Some persons are born
 with an inner constitution which is harmonious and well balanced from
 the outset. Their impulses are consistent with one another, their will
 follows without trouble the guidance of their intellect, their passions
@@ -116,7 +116,7 @@ as the doughty platform combatant, when shrinking from blaming some lad
 or lass for doing their work badly. An unkind look or word has availed
 to make me shrink into myself as a snail into its shell, while, on the
 platform, opposition makes me speak my best." <span
-id="fr_87"></span>[1](#fn_87)</span>
+id="fr_87"></span>[1](#fn_87.md)</span>
 
 This amount of inconsistency will only count as amiable weakness; but a
 stronger degree of heterogeneity may make havoc of the subject's life.
@@ -130,7 +130,7 @@ mistakes.
 Heterogeneous personality has been explained as the result of
 inheritance—the traits of character of incompatible and antagonistic
 ancestors are supposed to be preserved alongside of each other. <span
-id="fr_88"></span>[2](#fn_88) This explanation may pass for what it is
+id="fr_88"></span>[2](#fn_88.md) This explanation may pass for what it is
 worth—it certainly needs corroboration. But whatever the cause of
 heterogeneous personality may be, we find the extreme examples of it in
 the psychopathic temperament, of which I spoke in my first lecture. All
@@ -207,7 +207,7 @@ themselves to chastity and the higher life, he heard a voice in the
 garden say, "*Sume*, *lege*" (take and read), and opening the Bible at
 random, saw the text, "not in chambering and wantonness," etc., which
 seemed directly sent to his address, and laid the inner storm to rest
-forever. <span id="fr_89"></span>[1](#fn_89) Augustine's psychological
+forever. <span id="fr_89"></span>[1](#fn_89.md) Augustine's psychological
 genius
 
 <span id="page_169">p. 169</span>
@@ -246,7 +246,7 @@ all but did it, yet I did not do it. And I made another effort, and
 almost succeeded, yet I did not reach it, and did not grasp it,
 hesitating to die to death, and live to life, and the evil to which I
 was so wonted held me more than the better life I had not tried." <span
-id="fr_90"></span>[1](#fn_90)
+id="fr_90"></span>[1](#fn_90.md)
 
 <span id="page_170">p. 170</span>
 
@@ -404,7 +404,7 @@ fatal thought which had exiled
 
 <span class="small">me thither, and which I was tempted to curse. The
 days which followed this discovery were the saddest of my life." <span
-id="fr_91"></span>[93](#fn_91)</span>
+id="fr_91"></span>[93](#fn_91.md)</span>
 
 <span id="page_175">p. 175</span>
 
@@ -452,7 +452,7 @@ deviation his extreme parsimony; and thus advanced by degrees into
 larger transactions and incipient wealth. I did not hear, or have
 forgotten, the continued course of his life, but the final result was,
 that he more than recovered his lost possessions, and died an inveterate
-miser, worth £60,000." <span id="fr_92"></span>[1](#fn_92)</span>
+miser, worth £60,000." <span id="fr_92"></span>[1](#fn_92.md)</span>
 
 <span id="page_177">p. 177</span>
 
@@ -565,7 +565,7 @@ formulating an idea of a future existence or a future Heaven. The Heaven
 that I have within myself is as attractive as any that has been promised
 or that I can imagine; and I am willing to let the growth lead where it
 will, as long as the anger and their brood have no part in misguiding
-it." <span id="fr_93"></span>[1](#fn_93)
+it." <span id="fr_93"></span>[1](#fn_93.md)
 
 The older medicine used to speak of two ways, *lysis* and *crisis*, one
 gradual, the other abrupt, in which one might recover from a bodily
@@ -645,7 +645,7 @@ up the life of the conventional world, recognizing it to be no life, but
 a parody on life, which its superfluities simply keep us from
 comprehending,"—and Tolstoy thereupon embraced the life of the peasants,
 and has felt right and happy, or at least relatively so, ever
-since. <span id="fr_94"></span>[1](#fn_94)
+since. <span id="fr_94"></span>[1](#fn_94.md)
 
 As I interpret his melancholy, then, it was not merely an accidental
 vitiation of his humors, though it was doubtless also that. It was
@@ -747,7 +747,7 @@ world! Thou must be beaten, must beg, suffer hunger, cold, nakedness,
 and a thousand calamities, though I cannot now endure that the wind
 should blow upon thee. But yet I must venture you all with God, though
 it goeth to the quick to leave you." <span
-id="fr_95"></span>[1](#fn_95)</span>
+id="fr_95"></span>[1](#fn_95.md)</span>
 
 The "hue of resolution" is there, but the full flood of ecstatic
 liberation seems never to have poured over poor John Bunyan's soul.
@@ -760,7 +760,7 @@ invite you to study its peculiarities and concomitants in some detail.
 
 ### Footnotes
 
-<span id="fn_84"></span>[164:1](vre08.htm#fr_84) E.g., "Our young people
+<span id="fn_84"></span>[164:1](vre08.htm#fr_84.md) E.g., "Our young people
 are diseased with the theological problems of original sin, origin of
 evil, predestination, and the like. These never presented a practical
 difficulty to any man—never darkened across any man's road, who did not
@@ -768,21 +768,21 @@ go out of his way to seek them. These are the soul's mumps, and measles,
 and whooping-coughs, etc. <span class="smallcaps">Emerson</span>:
 Spiritual Laws.
 
-<span id="fn_85"></span>[165:1](vre08.htm#fr_85) Notes sur la Vie, p. 1.
+<span id="fn_85"></span>[165:1](vre08.htm#fr_85.md) Notes sur la Vie, p. 1.
 
-<span id="fn_86"></span>[165:2](vre08.htm#fr_86) See, for example, F.
+<span id="fn_86"></span>[165:2](vre08.htm#fr_86.md) See, for example, F.
 Paulhan, in his book Les Caractères, 1894, who contrasts les Equilibrés,
 les Unifiés, with les Inquiets, les Contrariants, les Incohérents, les
 Emiettés, as so many diverse psychic types.
 
-<span id="fn_87"></span>[166:1](vre08.htm#fr_87) <span
+<span id="fn_87"></span>[166:1](vre08.htm#fr_87.md) <span
 class="smallcaps">Annie Besant</span>: an Autobiography, p. 82.
 
-<span id="fn_88"></span>[166:2](vre08.htm#fr_88) <span
+<span id="fn_88"></span>[166:2](vre08.htm#fr_88.md) <span
 class="smallcaps">Smith Baker</span>, in Journal of Nervous and Mental
 Diseases, September, 1893.
 
-<span id="fn_89"></span>[168:1](vre08.htm#fr_89) <span
+<span id="fn_89"></span>[168:1](vre08.htm#fr_89.md) <span
 class="smallcaps">Louis Gourdon</span> (Essai sur la Conversion de Saint
 Augustine, Paris, Fischbacher, 1900) has shown by an analysis of
 Augustine's writings immediately after the date of his conversion (A.D.
@@ -792,10 +792,10 @@ life, but it was to the neo-platonic spiritualism and only a halfway
 stage toward Christianity. The latter he appears not fully and radically
 to have embraced until four years more had passed.
 
-<span id="fn_90"></span>[169:1](vre08.htm#fr_90) Confessions, Book
+<span id="fn_90"></span>[169:1](vre08.htm#fr_90.md) Confessions, Book
 VIII., Chaps. v., vii., xi., abridged.
 
-<span id="fn_91"></span>[174:93](vre08.htm#fr_91) <span
+<span id="fn_91"></span>[174:93](vre08.htm#fr_91.md) <span
 class="smallcaps">Th. Jouffroy</span>: Nouveaux Mélanges philosophiques,
 2me edition, p. 83. I add two other cases of counter-conversion dating
 from a certain moment. The first is from Professor Starbuck's manuscript
@@ -920,19 +920,19 @@ a controlling part when they make irruption into the conscious life.
 When we treat of sudden 'conversion,' I shall make as much use as I can
 of this hypothesis of subconscious incubation.
 
-<span id="fn_92"></span>[176:1](vre08.htm#fr_92) Op. cit., Letter III.,
+<span id="fn_92"></span>[176:1](vre08.htm#fr_92.md) Op. cit., Letter III.,
 abridged.
 
-<span id="fn_93"></span>[180:1](vre08.htm#fr_93) <span
+<span id="fn_93"></span>[180:1](vre08.htm#fr_93.md) <span
 class="smallcaps">H. Fletcher</span>: Menticulture, or the A-B-C of True
 Living, New York and Chicago, 1899, pp. 26, 36, abridged.
 
-<span id="fn_94"></span>[182:1](vre08.htm#fr_94) I have considerably
+<span id="fn_94"></span>[182:1](vre08.htm#fr_94.md) I have considerably
 abridged Tolstoy's words in my translation.
 
-<span id="fn_95"></span>[185:1](vre08.htm#fr_95) In my quotations from
+<span id="fn_95"></span>[185:1](vre08.htm#fr_95.md) In my quotations from
 Bunyan I have omitted certain intervening portions of the text.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture IX. Conversion](vre09)
+[Next: Lecture IX. Conversion](vre09.md)

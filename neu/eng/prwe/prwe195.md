@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe194)  [Next](prwe196) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe194)  [Next](prwe196.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ work the machine.
 
 ------------------------------------------------------------------------
 
-[Next: Pitmen's Omens and Goblins](prwe196)
+[Next: Pitmen's Omens and Goblins](prwe196.md)

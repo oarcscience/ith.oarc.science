@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf11)  [Next](taf13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf11)  [Next](taf13.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ the same. (5) The <span id="img_03703"></span> ![](img/03703.jpg)
 the theory of non-ego*. The book foreshadows the Mâdhyamika philosophy
 of Nâgârjuna, for the two forms of truth are distinguished there, Pure
 Truth (*Parmârtha-satya*) and Practical Truth (*Samvṛtti-satya*), <span
-id="fr_54"></span>[1](taf13.htm#fn_54) and the *Çûnyatâ* theory also is
+id="fr_54"></span>[1](taf13.htm#fn_54.md) and the *Çûnyatâ* theory also is
 proclaimed. (6) The <span id="img_03801"></span> ![](img/03801.jpg)
 *Shih pu shan yeh tao ching*, *a sûtra on the ten no-good deeds*. (7)
 The <span id="img_03802"></span> ![](img/03802.jpg) *Shih shih fa wu
@@ -59,4 +59,4 @@ These last four works are very short, all translated by Jih-ch‘êng
 ------------------------------------------------------------------------
 
 [Next: Chinese Translations of the ''Discourse on the Awakening of
-Faith.''](taf13)
+Faith.''](taf13.md)

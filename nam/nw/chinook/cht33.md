@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht32)  [Next](cht34) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht32)  [Next](cht34.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ dentalia, then every one receives two fathoms of short dentalia.
 
 ------------------------------------------------------------------------
 
-[Next: War](cht34)
+[Next: War](cht34.md)

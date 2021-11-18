@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah85)  [Next](oah87) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah85)  [Next](oah87.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ darkness ate neither flesh nor fish.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](oah87)
+[Next: Chapter III](oah87.md)

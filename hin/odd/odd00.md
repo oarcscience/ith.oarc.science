@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](odd01) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](odd01.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ AND TO THOSE IN INDIA WHO LOVE ENGLAND.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Third English Edition](odd01)
+[Next: Preface to the Third English Edition](odd01.md)

@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr21)  [Next](arr23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr21)  [Next](arr23.md) 
 
 ------------------------------------------------------------------------
 
 ### SECTION III
 
-"Know, my Son, that the [philosophers](errata.htm#1) bind up their
+"Know, my Son, that the [philosophers](errata.htm#1.md) bind up their
 matter with a strong chain that it may contend with the
 
 <span id="page_140">p. 140</span>
@@ -62,4 +62,4 @@ invested with the red garment, and the scarlet colour is put on."
 
 ------------------------------------------------------------------------
 
-[Next: Section IV](arr23)
+[Next: Section IV](arr23.md)

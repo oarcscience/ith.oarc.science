@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc07)  [Next](moc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc07)  [Next](moc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -68,7 +68,7 @@ skeleton found at Santa Verna measures 5 feet 9 inches in length. "The
 man was of a noble type," writes an excavator; "he must have stood 6
 feet high, his skull is massive and shapely, the jaws and teeth are even
 and regular, and the limbs powerful." <span
-id="fr_77"></span>[1](#fn_77) The Mediterranean Neolithic man was of
+id="fr_77"></span>[1](#fn_77.md) The Mediterranean Neolithic man was of
 slight build and medium stature.
 
 The earliest Cretans were of the Mediterranean racial type, but among
@@ -107,7 +107,7 @@ ornamented with coarse moulding or roughly painted red lines; flint
 flakes, knives and scrapers; millstones; rounded stone pebbles, that
 could be used for a variety of purposes-hearth stones; heating stones;
 missiles; polishers, &c.", and "an amulet or two of bone or slate,
-perforated for suspension". <span id="fr_78"></span>[1](#fn_78)
+perforated for suspension". <span id="fr_78"></span>[1](#fn_78.md)
 
 In France the most remarkable link between the Palæolithic and later
 ages is formed by the Cro-Magnon racial type which first appeared in the
@@ -127,12 +127,12 @@ identified by archæologists as having inhabited the south-west of Europe
 in prehistoric times." Varieties of the type have occurred owing to the
 proximity of other races, but it is still common and easily detected.
 Individuals with the Cro-Magnon skull and "disharmonic face" are also
-found among present-day Berbers. <span id="fr_79"></span>[1](#fn_79)
+found among present-day Berbers. <span id="fr_79"></span>[1](#fn_79.md)
 Skeletons of Cro-Magnon man of the Palæolithic Period have been found as
 far north as Belgium. Dr. Schliz finds traces at the present time of
 Cro-Magnon man throughout western Europe, and believes that even the
 Neanderthal-Spy (Mousterian) type has also left a slight but
-recognizable impress. <span id="fr_80"></span>[2](#fn_80) The high
+recognizable impress. <span id="fr_80"></span>[2](#fn_80.md) The high
 average stature and weight of the Scottish people, which has long
 puzzled ethnologists, may be due to a strong Palæolithic intermixture in
 early Neolithic times. The evidence obtained from the Glasgow graveyard,
@@ -187,7 +187,7 @@ the present Age was inaugurated by the raising of the land to more or
 less its present level with a gradual improvement of the climate.
 
 Traces of man in the Azillan stage of culture have been found in
-Scotland. <span id="fr_81"></span>[1](#fn_81) The MacArthur cave, which
+Scotland. <span id="fr_81"></span>[1](#fn_81.md) The MacArthur cave, which
 overlooks Oban, was inhabited when the sea was 30 feet above its present
 level, and the Highland troglodytes--the earliest visitors--who were
 hunters and fishermen, left behind bone and horn implements, including
@@ -202,7 +202,7 @@ The cave is situated about 15 feet above the present sea-level.
 
 Associated with these caves and other early settlements, chiefly on the
 ridges of the old coast-lines, are heaps of shells. These have been
-found as far north as Caithness. <span id="fr_82"></span>[2](#fn_82)
+found as far north as Caithness. <span id="fr_82"></span>[2](#fn_82.md)
 
 Those early settlers, of the "river-bed" race, are
 
@@ -212,7 +212,7 @@ believed to be of the same mixed stock, surviving from Palæolithic
 times, as the famous "beach-combers" of the Danish "kitchen middens".
 When the earliest Mediterranean racial pioneers of the Neolithic Age
 entered these islands, they met and mingled with the troglodytes who are
-referred to in Gaelic folk-tales. <span id="fr_83"></span>[1](#fn_83)
+referred to in Gaelic folk-tales. <span id="fr_83"></span>[1](#fn_83.md)
 
 "It may quite well be", says Professor James Geikie, that Neolithic man
 appeared in southern Europe before Palæolithic man had vanished from the
@@ -222,7 +222,7 @@ Robert Munro argues, after reviewing the latest evidence, that in Europe
 there was "no break in the continuity of human occupation from late
 Palæolithic to Neolithic times", and accepts Dr. Keith's view that
 "Palæolithic blood is as rife in the British people of today as in those
-of the European continent". <span id="fr_84"></span>[2](#fn_84) Dr.
+of the European continent". <span id="fr_84"></span>[2](#fn_84.md) Dr.
 Keith finds everywhere in England numerous representatives of the
 "river-bed" Palæolithic folks.
 
@@ -254,7 +254,7 @@ between the early Neolithic peoples of the British Isles and the
 Mediterranean and the bulk of the population, both ancient and modern,
 of Egypt and East Africa, that the description of the bones of an Early
 Briton of that remote epoch might apply in all essential details to an
-inhabitant of Somaliland." <span id="fr_85"></span>[1](#fn_85)
+inhabitant of Somaliland." <span id="fr_85"></span>[1](#fn_85.md)
 
 It is not necessary to assume that they waged a war of extermination
 against the Palæolithic huntsmen and fishermen of Europe, so as to
@@ -369,7 +369,7 @@ To pour their blood around Cromm Cruaich.
 They would ask from him speedily  
 In return for one-third of their healthy issue:  
 Great was the horror and the scare of him. <span
-id="fr_86"></span>[1](#fn_86)
+id="fr_86"></span>[1](#fn_86.md)
 
 The mother-goddess of ancient Europe was similarly remembered as a
 devourer of children. She survives in English folk-lore as a fierce
@@ -403,15 +403,15 @@ trunks of trees.
 It is not to be marvelled at that the ancient goddess should be
 remembered in Leicester district. The city's name is fragrant with
 ancient memories. It was called after Llyr, the British sea-god, <span
-id="fr_87"></span>[1](#fn_87) who became the King Lear of the legend on
+id="fr_87"></span>[1](#fn_87.md) who became the King Lear of the legend on
 which one of Shakespeare's great dramas was based. "He (King Lear) it
 was", wrote Geoffrey of Monmouth in the twelfth century, "that builded
 the city on the River Soar, that in the British is called Kaerleir, but
 in the Saxon Leicester (Leirchester)." <span
-id="fr_88"></span>[2](#fn_88)
+id="fr_88"></span>[2](#fn_88.md)
 
 Black Annis Bower was a cave upon the Dane Hills, <span
-id="fr_89"></span>[3](#fn_89) which, during the past century, became
+id="fr_89"></span>[3](#fn_89.md) which, during the past century, became
 filled up with
 
 <span id="page_63">p. 63</span>
@@ -444,7 +444,7 @@ Vast talons, foul with human flesh, there grew
 In place of hands, and features livid blue  
 Glar'd in her visage; whilst the obscene waist  
 Warm skins of human victims close embraced. <span
-id="fr_90"></span>[1](#fn_90)
+id="fr_90"></span>[1](#fn_90.md)
 
 She appears to be identical with the "Yellow Muilearteach" of Gaelic
 legend:
@@ -452,7 +452,7 @@ legend:
 Her face was blue black of the lustre of coal,  
 And her bone-tufted tooth was like red rust.  
 In her head was one deep pool-like eye  
-Swifter than a star in a winter sky. <span id="fr_91"></span>[2](#fn_91)
+Swifter than a star in a winter sky. <span id="fr_91"></span>[2](#fn_91.md)
 
 <span id="page_64">p. 64</span>
 
@@ -474,7 +474,7 @@ The embroidered skirt that was round her body;
 They took the apple from the wretch.
 
 She had also a "girdle" like Aphrodite. <span
-id="fr_92"></span>[1](#fn_92) In India there is a ferocious goddess, who
+id="fr_92"></span>[1](#fn_92.md) In India there is a ferocious goddess, who
 resembles Annis of Leicester. This is Black Kali. She is usually
 depicted dancing the "dance of fertility", like the Aurignacian and
 Bushman deities. Modern artists have given her normal eyes, but have
@@ -484,7 +484,7 @@ victims. It would appear that Kali, whose body was smeared with the
 sacrificial blood, was a form of the earth-goddess; her harvest form was
 Jagadgauri, the yellow woman; while as the love and fertility deity she
 was the beautiful Lakshmi or Sri, she was Durga as the goddess of
-war. <span id="fr_93"></span>[2](#fn_93) The Greek goddess Demeter was
+war. <span id="fr_93"></span>[2](#fn_93.md) The Greek goddess Demeter was
 black at Phigalia (Chapter VIII), but the ancient black statue of her
 was only a memory in the days of Pausanias. No doubt the rites
 associated with her worship were abandoned when "old times had gone and
@@ -495,7 +495,7 @@ manners changed". Still the memory of Black Demeter
 survived as the mother of Persephone, the young corn-goddess. The "Green
 Demeter" was the green corn, and the "yellow Demeter" the ripened
 harvest grain. As the Roman Ceres her name is perpetuated in
-cereals--the gifts of the goddess. <span id="fr_94"></span>[1](#fn_94)
+cereals--the gifts of the goddess. <span id="fr_94"></span>[1](#fn_94.md)
 
 The Libyan goddess Neith was depicted with a green face. Her symbols
 included the "shuttle" or thunderbolt, the bow and arrows of deities of
@@ -513,7 +513,7 @@ wand. Isis-Hathor, who personified all the goddesses of Egypt in late
 times, is referred to significantly in a Philae text as follows:--
 
 Kindly is she as Bast (the cat-goddess)  
-Terrible is she as Sekhet. <span id="fr_95"></span>[2](#fn_95)
+Terrible is she as Sekhet. <span id="fr_95"></span>[2](#fn_95.md)
 
 The association of the Cretan mother-goddess with trees and mountains
 will be dealt with more intimately in a later chapter. Here, however, it
@@ -541,7 +541,7 @@ in the Ey Commons, or Fields of May. Here it was that the people, if
 they saw cause, deposed or punished their governors, their barons, or
 their kings." When the maypole was brought from the forest the youths
 and maidens joined in singing songs, of which the chorus was: "We have
-brought the Summer home". <span id="fr_96"></span>[1](#fn_96) Scrimmages
+brought the Summer home". <span id="fr_96"></span>[1](#fn_96.md) Scrimmages
 took place between youths who were attired to represent winter and
 spring. A seventeenth-century writer says that "a company of yonkers, on
 May-day morning, before day, went into the country to fetch home a
@@ -552,7 +552,7 @@ about it till they could not
 
 <span id="page_67">p. 67</span>
 
-stand so steady as the pole did." <span id="fr_97"></span>[1](#fn_97)
+stand so steady as the pole did." <span id="fr_97"></span>[1](#fn_97.md)
 The maypole customs and the "motes" held under oak-trees are evidently
 relics of tree-worship. Probably the human representative of the Cretan
 goddess, seated below her tree, dispensed justice and ushered in the
@@ -560,7 +560,7 @@ season of fertility and growth, like the May Queen.
 
 In Scotland., where there are "motes" also, it is found that certain
 "church lands" were anciently associated with magical and religious
-ceremonies. <span id="fr_98"></span>[2](#fn_98) Twisting paths leading
+ceremonies. <span id="fr_98"></span>[2](#fn_98.md) Twisting paths leading
 to wells and hillocks remain as "rights of way". It is of interest to
 find, too, that the habit of swearing by the earth was also prevalent.
 In a Gaelic story it is related that when the heroes formed a compact to
@@ -572,7 +572,7 @@ alliance cemented, was", writes Dr. Farnell, "the invocation of Zeus,
 Helios, and Ge (the Earth Mother). "And doubtless", he adds, "one of the
 earliest forms of oath taken was some kind of primitive communion,
 whereby both parties place themselves in sacred contact with some divine
-force." <span id="fr_99"></span>[3](#fn_99)
+force." <span id="fr_99"></span>[3](#fn_99.md)
 
 Ge or Gaia was a vague and ancient deity who was sometimes identified
 with the "earth snake". She was the mother of Titans, Cyclopes, and
@@ -616,7 +616,7 @@ writes Professor Kuno Meyer, "so that every
 
 man who had lived with her came to die of old age, and her grandsons and
 great-grandsons were tribes and races". <span
-id="fr_100"></span>[1](#fn_100) In several stories she appears before a
+id="fr_100"></span>[1](#fn_100.md) In several stories she appears before a
 hero as a repulsive hag and suddenly transforms herself into a beautiful
 girl.
 
@@ -700,7 +700,7 @@ opinion of some anthropologists, like Bachofen, that women exercised a
 greater influence than men in developing primitive religious ideas.
 "Wherever", he comments "gynæocracy meets us, the mystery of religion is
 bound up with it, and lends to motherhood an incorporation of some
-divinity." <span id="fr_101"></span>[1](#fn_101) The evidence gleaned
+divinity." <span id="fr_101"></span>[1](#fn_101.md) The evidence gleaned
 from certain folktales suggests that women trained young huntsmen and
 warriors to perform feats of strength and skill. When the Irish
 Cuchullin visited Alban, to complete his military education, he was
@@ -733,78 +733,78 @@ years of pre-Hellenic civilization.
 
 ### Footnotes
 
-<span id="fn_77"></span>[52:1](moc08.htm#fr_77) *Malta and the
+<span id="fn_77"></span>[52:1](moc08.htm#fr_77.md) *Malta and the
 Mediterranean Race*, R. N. Bradley, pp. 72 *et seq*.
 
-<span id="fn_78"></span>[53:1](moc08.htm#fr_78) *History of Civilization
+<span id="fn_78"></span>[53:1](moc08.htm#fr_78.md) *History of Civilization
 in Palestine*, pp. 9 *et seq*.
 
-<span id="fn_79"></span>[54:1](moc08.htm#fr_79) *The Races of Europe*,
+<span id="fn_79"></span>[54:1](moc08.htm#fr_79.md) *The Races of Europe*,
 pp. 172 *et seq*.
 
-<span id="fn_80"></span>[54:2](moc08.htm#fr_80) *Archiv für
+<span id="fn_80"></span>[54:2](moc08.htm#fr_80.md) *Archiv für
 Anthropologie*, Band 351 St. 239 *et seq*.
 
-<span id="fn_81"></span>[56:1](moc08.htm#fr_81) For earlier traces of
+<span id="fn_81"></span>[56:1](moc08.htm#fr_81.md) For earlier traces of
 Palæolithic man see *The Stone Ages in North Britain and Ireland*, by
 Rev. Frederick Smith (London & Glasgow, 1909). Dr. A. H. Keane calls the
 author the "Boucher de Perthes of Scotland".
 
-<span id="fn_82"></span>[56:2](moc08.htm#fr_82) Huxley & Laing's
+<span id="fn_82"></span>[56:2](moc08.htm#fr_82.md) Huxley & Laing's
 *Prehistoric Remains in Caithness* (London, 1886).
 
-<span id="fn_83"></span>[57:1](moc08.htm#fr_83) A cave-dweller in a
+<span id="fn_83"></span>[57:1](moc08.htm#fr_83.md) A cave-dweller in a
 Fingalian story is called Ciofach Mac a' Ghoill ("Ciofach, son of the
 stranger"). Another version refers to him as Ciuthach (pronounce
 "Kew'-ach"). Dealing with the legend of the Ciuthach, Professor W. J.
 Watson considers that he was a hero "of a different race from the Gael"
 (Celtic Review, January, 1914).
 
-<span id="fn_84"></span>[57:2](moc08.htm#fr_84) *Prehistoric Britain*,
+<span id="fn_84"></span>[57:2](moc08.htm#fr_84.md) *Prehistoric Britain*,
 p. 234. (London, 1914 ).
 
-<span id="fn_85"></span>[58:1](moc08.htm#fr_85) *The Ancient Egyptians*,
+<span id="fn_85"></span>[58:1](moc08.htm#fr_85.md) *The Ancient Egyptians*,
 p. 58.
 
-<span id="fn_86"></span>[61:1](moc08.htm#fr_86) *Celtic Myth and
+<span id="fn_86"></span>[61:1](moc08.htm#fr_86.md) *Celtic Myth and
 Legend*, p. 39.
 
-<span id="fn_87"></span>[62:1](moc08.htm#fr_87) *Celtic Myth and
+<span id="fn_87"></span>[62:1](moc08.htm#fr_87.md) *Celtic Myth and
 Legend*, pp. 252 *et seq*.
 
-<span id="fn_88"></span>[62:2](moc08.htm#fr_88) "Kaer" and "Chester"
+<span id="fn_88"></span>[62:2](moc08.htm#fr_88.md) "Kaer" and "Chester"
 signify cities. London was "Kaer-lud", called after the god Lud, whose
 name lingers also in "Ludgate".
 
-<span id="fn_89"></span>[62:3](moc08.htm#fr_89) It is suggested that
+<span id="fn_89"></span>[62:3](moc08.htm#fr_89.md) It is suggested that
 "Dane" is a corruption of the Celtic "Danann".
 
-<span id="fn_90"></span>[63:1](moc08.htm#fr_90) *County Folk-lore*
+<span id="fn_90"></span>[63:1](moc08.htm#fr_90.md) *County Folk-lore*
 (Leicestershire and Rutland), by C. J. Billson, Vol. I., London, 1895
 (Folk-lore Society's Publications).
 
-<span id="fn_91"></span>[63:2](moc08.htm#fr_91) Campbell's *West
+<span id="fn_91"></span>[63:2](moc08.htm#fr_91.md) Campbell's *West
 Highland Tales*, Vol. III, p. 138.
 
-<span id="fn_92"></span>[64:1](moc08.htm#fr_92) *Waifs and Strays of
+<span id="fn_92"></span>[64:1](moc08.htm#fr_92.md) *Waifs and Strays of
 Celtic Tradition*, Vol. IV, pp. 142 et seq. (London, 1891).
 
-<span id="fn_93"></span>[64:2](moc08.htm#fr_93) *Indian Myth and
+<span id="fn_93"></span>[64:2](moc08.htm#fr_93.md) *Indian Myth and
 Legend*, pp. xl. and 149-50.
 
-<span id="fn_94"></span>[65:1](moc08.htm#fr_94) *Golden Bough* ("Spirits
+<span id="fn_94"></span>[65:1](moc08.htm#fr_94.md) *Golden Bough* ("Spirits
 of the Corn and the Wild"), Vol. I, pp. 35 *et seq*. (third edition).
 
-<span id="fn_95"></span>[65:2](moc08.htm#fr_95) *Religion of the Ancient
+<span id="fn_95"></span>[65:2](moc08.htm#fr_95.md) *Religion of the Ancient
 Egyptians*, A. Wiedemann, p. 138 (London, 1897).
 
-<span id="fn_96"></span>[66:1](moc08.htm#fr_96) Quoted in *County
+<span id="fn_96"></span>[66:1](moc08.htm#fr_96.md) Quoted in *County
 Folk-lore*, Vol. I, pp. 29 *et seq*.
 
-<span id="fn_97"></span>[67:1](moc08.htm#fr_97) Brand's Antiquities,
+<span id="fn_97"></span>[67:1](moc08.htm#fr_97.md) Brand's Antiquities,
 Vol. I, pp. 238 *et seq*.
 
-<span id="fn_98"></span>[67:2](moc08.htm#fr_98) According to Caesar, the
+<span id="fn_98"></span>[67:2](moc08.htm#fr_98.md) According to Caesar, the
 Druids of Gaul held sessions at consecrated places of meeting which,
 from other sources, we learn were called *nemeta*. In old Irish the term
 appears as *nemed*, and in modern Scottish Gaelic it is *neimhidh*,
@@ -812,16 +812,16 @@ which signifies "church land". The English rendering is *Navity* or
 *Nevity*.--Professor W. J. Watson in *Celtic Review* (1915), Vol. X, pp.
 263 *et seq*.
 
-<span id="fn_99"></span>[67:3](moc08.htm#fr_99) *Cults of the Greek
+<span id="fn_99"></span>[67:3](moc08.htm#fr_99.md) *Cults of the Greek
 States*, Vol. III, p. 5.
 
-<span id="fn_100"></span>[69:1](moc08.htm#fr_100) *Ancient Irish
+<span id="fn_100"></span>[69:1](moc08.htm#fr_100.md) *Ancient Irish
 Poetry*, p. 88.
 
-<span id="fn_101"></span>[71:1](moc08.htm#fr_101) *Das Mutterrecht*, p.
+<span id="fn_101"></span>[71:1](moc08.htm#fr_101.md) *Das Mutterrecht*, p.
 xv.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. History in Myth and Legend--Schliemann's
-Discoveries](moc09)
+Discoveries](moc09.md)

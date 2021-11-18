@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc00)  [Next](moc02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc00)  [Next](moc02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -107,7 +107,7 @@ to follow the style of the Minoan artists themselves, as displayed in
 the relics of frescoes, and in pottery, seal engravings and impressions,
 &c., recently unearthed. The colours are confined to those used by the
 native craftsmen, while the decorative borders are essentially Cretan in
-character. In the Plate facing [p. 248](moc15.htm#page_248) a suggestive
+character. In the Plate facing [p. 248](moc15.htm#page_248.md) a suggestive
 parallel is drawn between Celtic and Minoan patterns and symbols. It
 will be noted that the Celtic treatment of complicated patterns of
 common origin is more thorough and logical than the Minoan, as, for
@@ -141,23 +141,23 @@ Vasiliki pottery?--a delight in natural objects, a marked absence of
 formalism in the best work, and an extreme and arresting grace,
 especially in the ivory work. Yet it is possible to overestimate the
 artistic value of such works as the "Harvester Vase" ([p.
-212](moc14.htm#page_212)), with its liveliness of movement and
+212](moc14.htm#page_212).md), with its liveliness of movement and
 expression, and to commend even its defects, and forget that there are
 finer examples of low relief in Egypt, where the artists have left us in
 no doubt as to what they meant; it is possible also to infuse our art
 criticisms with archæological enthusiasm, as when, for instance, we gaze
-on the fresco of the Cup Bearer ([p. 118](moc11.htm#page_118)), which is
+on the fresco of the Cup Bearer ([p. 118](moc11.htm#page_118).md), which is
 an impression of a very ordinary, good-looking, young man, with formal
 eyes, and hand and arm out of drawing. Yet while, as a whole, Cretan art
 is very unequal, there are a few masterpieces which set it on a high
 level. The ivory figurine of "The Leaper" is one of these ([p.
-48](moc07.htm#page_48)). Its Parisian elegance and Greek-like accuracy
+48](moc07.htm#page_48).md). Its Parisian elegance and Greek-like accuracy
 and beauty of modelling take the eye at once. It is much worn, but the
 unbroken parts exhibit fine craftsmanship. The bones and muscles of the
 arm and hand especially are expressed with the modesty and animation of
 nature; there is none of the gross exaggeration so often found in
 Assyrian art. Another outstanding masterpiece is the bull's head in
-steatite ([p. 108](moc10.htm#page_108)). We are struck by its fine
+steatite ([p. 108](moc10.htm#page_108).md). We are struck by its fine
 dignity, the noble poise of the head, the alert eye, the mobility of the
 pricked ears, and the
 
@@ -165,16 +165,16 @@ pricked ears, and the
 
 combination of naturalism with simplicity, grace, and loftiness of
 treatment. A contrast is presented by the other bull's head in plaster
-relief ([p. 124](moc11.htm#page_124)), with the magnificent blaze of the
+relief ([p. 124](moc11.htm#page_124).md), with the magnificent blaze of the
 great eye and the exhausted gasp of mouth and nostrils; the noble animal
 has evidently fallen a victim in the ring; it is powerful and grand even
 when death takes it. Special mention may also be made of the goat
 suckling its kid, an admirable piece of realism characterized by grace
-and insight ([p. 152](moc12.htm#page_152)).
+and insight ([p. 152](moc12.htm#page_152).md).
 
 The spirit of naturalism pulsating in Cretan art is also found in
 Palæolithic art, of which two notable examples are given ([p.
-20](moc06.htm#page_20)) from the cave paintings. These remarkable relics
+20](moc06.htm#page_20).md) from the cave paintings. These remarkable relics
 of the Pleistocene Age are typical products of Palæolithic art, the
 advanced condition of which suggests a long history, and even the
 existence, in such remote times, not only of devoted personal study, but
@@ -187,4 +187,4 @@ D. A. MACKENZIE.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](moc02)
+[Next: Contents](moc02.md)

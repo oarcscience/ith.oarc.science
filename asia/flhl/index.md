@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](flhl00)    [Page
-Index](pageidx)    [Text \[Zipped\]](flhl.txt.gz)
+[Contents](#contents)    [Start Reading](flhl00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](flhl.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -67,57 +67,57 @@ different pagination.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](flhl00)  
-[Contents](flhl01)  
-[Introduction](flhl02)  
-[A Mohammedan Legend: Introductory And Apologetic](flhl03)  
+<span id="contents"></span> [Title Page](flhl00.md)  
+[Contents](flhl01.md)  
+[Introduction](flhl02.md)  
+[A Mohammedan Legend: Introductory And Apologetic](flhl03.md)  
 <span id="section_000"></span>
 
 ### I. Saints, Sinners, and Miracles
 
-[I. A Learned Moslem's Ideas On Cosmogony](flhl04)  
-[II. Our Father Adam](flhl05)  
-[III. Noah and Og](flhl06)  
-[IV. Job and His Family](flhl07)  
-[V. Abraham, ''the Friend of God''](flhl08)  
-[VI. Lot and the Tree of the Cross](flhl09)  
-[VII. The Deaths of Moses and Aaron](flhl10)  
-[VIII. David and Solomon](flhl11)  
-[IX. El Khudr](flhl12)  
-[X. Simon The Just](flhl13)  
-[Notes](flhl14)  
+[I. A Learned Moslem's Ideas On Cosmogony](flhl04.md)  
+[II. Our Father Adam](flhl05.md)  
+[III. Noah and Og](flhl06.md)  
+[IV. Job and His Family](flhl07.md)  
+[V. Abraham, ''the Friend of God''](flhl08.md)  
+[VI. Lot and the Tree of the Cross](flhl09.md)  
+[VII. The Deaths of Moses and Aaron](flhl10.md)  
+[VIII. David and Solomon](flhl11.md)  
+[IX. El Khudr](flhl12.md)  
+[X. Simon The Just](flhl13.md)  
+[Notes](flhl14.md)  
 <span id="section_001"></span>
 
 ### Legends and Anecdotes
 
-[I. Bâb El Khalìl, The Jaffa Gate at Jerusalem](flhl15)  
-[II. Turbet Birket Mamilla](flhl16)  
-[III. En Nebi Daûd](flhl17)  
-[IV. Bâb el Asbât](flhl18)  
-[V. Detective Stories](flhl19)  
-[VI. Scraps of Unwritten History](flhl20)  
-[VII. Judgements of Karakash](flhl21)  
-[VIII. The Saragossan Purim](flhl22)  
-[IX. Sultan Mahmûd's Autograph](flhl23)  
-[X. The Right Answer](flhl24)  
-[Notes](flhl25)  
+[I. Bâb El Khalìl, The Jaffa Gate at Jerusalem](flhl15.md)  
+[II. Turbet Birket Mamilla](flhl16.md)  
+[III. En Nebi Daûd](flhl17.md)  
+[IV. Bâb el Asbât](flhl18.md)  
+[V. Detective Stories](flhl19.md)  
+[VI. Scraps of Unwritten History](flhl20.md)  
+[VII. Judgements of Karakash](flhl21.md)  
+[VIII. The Saragossan Purim](flhl22.md)  
+[IX. Sultan Mahmûd's Autograph](flhl23.md)  
+[X. The Right Answer](flhl24.md)  
+[Notes](flhl25.md)  
 <span id="section_002"></span>
 
 ### Ideas and Superstitions
 
-[I. Folks Gentle and Simple](flhl26)  
-[II. The Secret of Success](flhl27)  
-[III. Origin of Three Well-Known Sayings](flhl28)  
-[IV. Moral Tales](flhl29)  
-[V. The Angel of Death](flhl30)  
-[VI. The Underground Folk](flhl31)  
-[VII. Nursery Tales](flhl32)  
-[VIII. Satire](flhl33)  
-[IX. About Women](flhl34)  
-[X. About Animals](flhl35)  
-[XI. About Plants](flhl36)  
-[XII. About Coffee](flhl37)  
-[XIII. Some Magic Cures](flhl38)  
-[XIV. A Popular Calendar and Some Sayings](flhl39)  
-[Notes](flhl40)  
-[Translation of a Jewish Amulet](flhl41)  
+[I. Folks Gentle and Simple](flhl26.md)  
+[II. The Secret of Success](flhl27.md)  
+[III. Origin of Three Well-Known Sayings](flhl28.md)  
+[IV. Moral Tales](flhl29.md)  
+[V. The Angel of Death](flhl30.md)  
+[VI. The Underground Folk](flhl31.md)  
+[VII. Nursery Tales](flhl32.md)  
+[VIII. Satire](flhl33.md)  
+[IX. About Women](flhl34.md)  
+[X. About Animals](flhl35.md)  
+[XI. About Plants](flhl36.md)  
+[XII. About Coffee](flhl37.md)  
+[XIII. Some Magic Cures](flhl38.md)  
+[XIV. A Popular Calendar and Some Sayings](flhl39.md)  
+[Notes](flhl40.md)  
+[Translation of a Jewish Amulet](flhl41.md)  

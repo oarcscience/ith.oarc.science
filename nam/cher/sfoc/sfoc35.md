@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc34)  [Next](sfoc36) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc34)  [Next](sfoc36.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ sticks or bread?"
 
 ------------------------------------------------------------------------
 
-[Next: To Treat the Black Yellowness](sfoc36)
+[Next: To Treat the Black Yellowness](sfoc36.md)

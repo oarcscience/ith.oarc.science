@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft16)  [Next](ftft18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft16)  [Next](ftft18.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_117">p. 117</span>
 
 <span id="img_11700"></span> ![The Laughing Apple and the Weeping
-Apple](img/11700.jpg)
+Apple](img/11700.jpg.md)
 
 <span id="img_iinit"></span>
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N olden time lived a Padishah who had three sons. <span
 id="img_11701"></span>
@@ -92,7 +92,7 @@ id="img_11900"></span>
 
 |                                             |
 |---------------------------------------------|
-| ![He accosted the old woman](img/11900.jpg) |
+| ![He accosted the old woman](img/11900.jpg.md) |
 
 Hardly had the question left his lips than the old woman struck him on
 the mouth crying: "Silence! their names are forbidden here!"
@@ -121,7 +121,7 @@ id="img_12000"></span>
 
 |                                                                 |
 |-----------------------------------------------------------------|
-| ![The shepherd struck him violently in the face](img/12000.jpg) |
+| ![The shepherd struck him violently in the face](img/12000.jpg.md) |
 
 Being thus placated, the shepherd said to the youth: "I will now kill a
 sheep, so that I may make a leathern bottle of its skin; slip you into
@@ -146,7 +146,7 @@ bed on which lay a lovely maiden, beautiful as the moon at the full,
 <span id="img_12100"></span>
 
 [![The youth was beside himself with astonishment](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)  
+Click to enlarge](img/12100.jpg.md)  
 The youth was beside himself with astonishment  
 
 <span id="page_122">p. 122</span>
@@ -198,7 +198,7 @@ understand. A thief has been here!"
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE maiden wept continually and sighed: "Oh, my apples! Oh, my apples!"
 When it came to the ears of her father, the Padishah, he ordered the
@@ -279,7 +279,7 @@ willing to do so, but only in the presence of the Padishah of that land.
 
 |                     |
 |---------------------|
-| ![H](img/hinit.jpg) |
+| ![H](img/hinit.jpg.md) |
 
 E was brought before the Padishah, to whom the affair was explained. The
 monarch consented to be a witness, and the rosary was handed to the
@@ -310,4 +310,4 @@ As they attained happiness, we will now seek our divan.
 
 ------------------------------------------------------------------------
 
-[Next: The Crow-Peri](ftft18)
+[Next: The Crow-Peri](ftft18.md)

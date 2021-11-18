@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft32)  [Next](pft34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft32)  [Next](pft34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### TILIN, THE RICE BIRD  <span id="fr_111"></span>[112](pft68.htm#fn_111)
+### TILIN, THE RICE BIRD  <span id="fr_111"></span>[112](pft68.htm#fn_111.md)
 
 *Igorot*
 
@@ -112,4 +112,4 @@ neighboring tribes in Mindanao.
 
 ------------------------------------------------------------------------
 
-[Next: How the Moon and the Stars Came to Be](pft34)
+[Next: How the Moon and the Stars Came to Be](pft34.md)

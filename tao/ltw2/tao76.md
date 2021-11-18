@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao76)   
-[Previous](tao75)  [Next](tao77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao76.md)   
+[Previous](tao75)  [Next](tao77.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ at the bottom, the tender and delicate are placed on top.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 77](tao77)
+[Next: Chapter 77](tao77.md)

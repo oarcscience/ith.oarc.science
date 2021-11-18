@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor09)  [Next](yor11) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor09)  [Next](yor11.md) 
 
 ------------------------------------------------------------------------
 
@@ -324,4 +324,4 @@ ceremonies are held.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Proverbs.](yor11)
+[Next: Chapter XIII: Proverbs.](yor11.md)

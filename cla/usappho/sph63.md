@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph62)  [Next](sph64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph62)  [Next](sph64.md) 
 
 ------------------------------------------------------------------------
 
 62
 
 Βροδοπάχεεσ ἄγναι Χάριτεσ, δεῦτε Διοσ
-κόραι. [\[transcription\]](xlatall.htm#84)
+κόραι. [\[transcription\]](xlatall.htm#84.md)
 
 Come rosy-armed Graces, virgin daughters of Zeus.
 
@@ -17,4 +17,4 @@ it, was written in the metre of this fragment. Philostratus, about A.D.
 
 ------------------------------------------------------------------------
 
-[Next: 63: But Ares said he would forcibly drag Hephaestus.](sph64)
+[Next: 63: But Ares said he would forcibly drag Hephaestus.](sph64.md)

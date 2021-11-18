@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl05)  [Next](irl07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl05)  [Next](irl07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -32,7 +32,7 @@ sunless Nor were of an amazing blondness, for no light but of their own
 making had ever struck their skins. Their size, as did that of Titans
 and Atlans, varied with their age and with the age of the parent. Thus,
 a son of a man of a hundred years age would be three times the size of a
-son of a man of thirty. <span id="fr_22"></span>[23](#fn_22)
+son of a man of thirty. <span id="fr_22"></span>[23](#fn_22.md)
 
 Further, the race from Nor, who are called Nortans, are a straight race
 of men. There had been no intermingling
@@ -81,9 +81,9 @@ us.
 brings you here. Follow me now to the Princess Vanue, chief Elder, for
 an oral check; and forget your fear, for soon you will be going to where
 fear is not. Your message spells danger to us, as well as to your poor,
-helpless fellows in Mu." <span id="fr_23"></span>[24](#fn_23)
+helpless fellows in Mu." <span id="fr_23"></span>[24](#fn_23.md)
 
-It had been the words "Princess [Vanue](errata.htm#6), chief Elder" that
+It had been the words "Princess [Vanue](errata.htm#6.md), chief Elder" that
 had struck a new kind of fear into me. The chief Elders had been
 described to me in Tean City. They are the oldest  of the race, and are
 given official power, according to the yalue of their achievements to
@@ -298,13 +298,13 @@ would be more than one could well stand. An overpowering, devastating
 ecstasy. . . .
 
 Well, it would be an interesting death. <span
-id="fr_24"></span>[25](#fn_24)
+id="fr_24"></span>[25](#fn_24.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_22"></span>[50:23](irl06.htm#fr_22) Proportionately this
+<span id="fn_22"></span>[50:23](irl06.htm#fr_22.md) Proportionately this
 would not be true. A man of a hundred considering he did not stop
 growing at the usual age, would certainly not be three times as large as
 at thirty. A baby doubles its weight in six months, doubles it again in
@@ -319,7 +319,7 @@ be able better to perform their mission. The reader will see the methods
 of this stimulated growth demonstrated further on in this
 manuscript.—Ed.
 
-<span id="fn_23"></span>[52:24](irl06.htm#fr_23) The Nortans, as did the
+<span id="fn_23"></span>[52:24](irl06.htm#fr_23.md) The Nortans, as did the
 Atlans and Titans, spoke the universal language of space; a language
 originated by a Titan Elder of the far past. The name of the language is
 Mantong. The original individual language of each race has fallen into
@@ -328,7 +328,7 @@ the same language of which the alphabetical key was published in the
 January 1944 issue of Amazing Stories, and also as an appendix to this
 book.—Ed.
 
-<span id="fn_24"></span>[58:25](irl06.htm#fr_24) This reference to death
+<span id="fn_24"></span>[58:25](irl06.htm#fr_24.md) This reference to death
 from mere association with the Elders is singularly intriguing.
 According to Mr. Shaver, the Titans, Atlans and Nortans had the ability
 to bestow beneficial forces upon less favored mortals, such as Mu-tan
@@ -368,4 +368,4 @@ voice that spoke to Abraham.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Conclave of the Elders](irl07)
+[Next: Chapter VI. Conclave of the Elders](irl07.md)

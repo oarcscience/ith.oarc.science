@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](lit02)  [Next](lit04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](lit02)  [Next](lit04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Lessons in Truth*, by H. Emilie Cady, \[1894\], at Intangible Textual
 Heritage
 
@@ -210,4 +210,4 @@ are, or ever will be, capable of desiring.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson 3](lit04)
+[Next: Lesson 3](lit04.md)

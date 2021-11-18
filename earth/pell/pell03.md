@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](pell02)  [Next](pell04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](pell02)  [Next](pell04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pellucidar*, by Edgar Rice Burroughs, \[1915\], at Intangible Textual
 Heritage
 
@@ -455,4 +455,4 @@ mean baffling mystery.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Shooting the Chutes—and After](pell04)
+[Next: Chapter III. Shooting the Chutes—and After](pell04.md)

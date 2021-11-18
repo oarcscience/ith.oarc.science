@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](fsgr02)  [Next](fsgr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](fsgr02)  [Next](fsgr04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Five Stages of Greek Religion*, by Gilbert Murray, \[1925\], at
 Intangible Textual Heritage
 
@@ -113,7 +113,7 @@ the Greek as well as the English. I am reluctant, however, to publish a
 text which I have not examined in the MSS., and I feel also that, while
 an edition of Sallustius is rather urgently needed, it ought to be an
 edition with a full commentary.<span
-id="an_fr_xvi_1"></span>[xvi\_1](fsgr03.htm#an_fn_xvi_1)
+id="an_fr_xvi_1"></span>[xvi\_1](fsgr03.htm#an_fn_xvi_1.md)
 
 I was first led to these studies by the wish to fill up certain puzzling
 blanks of ignorance in my own mind, and doubtless the little book bears
@@ -131,7 +131,7 @@ G. M.
 
 <div class="footnote">
 
-<span id="an_fn_xvi_1"></span>[xvi\_1](fsgr03.htm#an_fr_xvi_1) Professor
+<span id="an_fn_xvi_1"></span>[xvi\_1](fsgr03.htm#an_fr_xvi_1.md) Professor
 Nock's edition (Cambridge 1926) has admirably filled this gap.
 
 </div>
@@ -140,6 +140,6 @@ Nock's edition (Cambridge 1926) has admirably filled this gap.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](fsgr04)
+[Next: Contents](fsgr04.md)
 
 </div>

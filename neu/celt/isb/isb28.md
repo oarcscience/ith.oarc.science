@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb27)  [Next](isb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb27)  [Next](isb29.md) 
 
 ------------------------------------------------------------------------
 
@@ -370,4 +370,4 @@ fight like a lion.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant's Causeway--Coleraine--Portrush](isb29)
+[Next: The Giant's Causeway--Coleraine--Portrush](isb29.md)

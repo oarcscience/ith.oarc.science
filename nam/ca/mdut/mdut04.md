@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut03)  [Next](mdut05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut03)  [Next](mdut05.md) 
 
 ------------------------------------------------------------------------
 
@@ -731,4 +731,4 @@ anything, his work all completed. The end, it is said.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Coyote's Adventures](mdut05)
+[Next: 3. Coyote's Adventures](mdut05.md)

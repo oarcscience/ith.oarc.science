@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar179) [Next](gbar181)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar179) [Next](gbar181.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ things, but what booteth a corrupted leaf?'
 
 ------------------------------------------------------------------------
 
-[Next](gbar181)
+[Next](gbar181.md)

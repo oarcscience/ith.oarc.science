@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd21)  [Next](odd23) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd21)  [Next](odd23.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ A BLIND Man and a Deaf Man once entered into partnership. The Deaf Man
 was to see for the Blind Man, and the Blind Man was to hear for the Deaf
 Man.
 
-One day both went to a nautch  <span id="fr_67"></span>[1](#fn_67)
+One day both went to a nautch  <span id="fr_67"></span>[1](#fn_67.md)
 together. The Deaf Man said, 'The dancing is very good, but the music is
 not worth listening to;' and the Blind Man said, 'On the contrary, I
 think the music very good, but the dancing is not worth looking at.'
@@ -144,7 +144,7 @@ said the Blind Man; 'and do you lead me to a tree; then I will climb up
 first, and you shall climb up afterwards, and so we shall be out of
 their way.' The Deaf Man thought this good advice, so he pushed the
 donkey and the bundles of treasure into the bushes, and led the Blind
-Man to a high supari  <span id="fr_68"></span>[2](#fn_68) tree that grew
+Man to a high supari  <span id="fr_68"></span>[2](#fn_68.md) tree that grew
 close by; but he was a very cunning man, this Deaf Man, and instead of
 letting the Blind Man climb up first and following him, he got up first
 and let the Blind Man clamber after, so that he was further out of
@@ -250,12 +250,12 @@ themselves.
 
 ### Footnotes
 
-<span id="fn_67"></span>[1](odd22.htm#fr_67) Musical and dancing
+<span id="fn_67"></span>[1](odd22.htm#fr_67.md) Musical and dancing
 entertainment.
 
-<span id="fn_68"></span>[2](odd22.htm#fr_68) Areca Catechu. the
+<span id="fn_68"></span>[2](odd22.htm#fr_68.md) Areca Catechu. the
 Betel-nut Palm.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. Muchie-Lal](odd23)
+[Next: XIX. Muchie-Lal](odd23.md)

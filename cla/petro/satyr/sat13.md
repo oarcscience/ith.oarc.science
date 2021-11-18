@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat12)  [Next](sat14) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat12)  [Next](sat14.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER TWELVE
 
-\[XCI <span id="XCI"></span>[(Latin)](../satyrlat/satl091) \] Arrived at
+\[XCI <span id="XCI"></span>[(Latin)](../satyrlat/satl091.md) \] Arrived at
 the Baths, I catch sight of Giton laden with towels and scrapers,
 leaning against a wall and wearing a look of melancholy embarrassment on
 his face. You could easily see he was an unwilling servant; and indeed,
@@ -48,7 +48,7 @@ round his neck, and to let him see he was restored to favor once more,
 and that my affection and confidence were as strong as ever, I pressed
 him closely to my heart.
 
-\[XCII <span id="XCII"></span>[(Latin)](../satyrlat/satl092) \] It was
+\[XCII <span id="XCII"></span>[(Latin)](../satyrlat/satl092.md) \] It was
 quite dark and the woman had completed my orders for dinner when
 Eumolpus knocked at the door. I called out "How many of you are there?"
 and immediately proceeded to spy through a chink in the door to see
@@ -108,7 +108,7 @@ attach value only to what is rich and rare. To their perverted taste
 anything that is allowable is held cheap, while they display a morbid
 predilection for forbidden luxuries.
 
-\[XCIII <span id="XCIII"></span>[(Latin)](../satyrlat/satl093) \] Facile
+\[XCIII <span id="XCIII"></span>[(Latin)](../satyrlat/satl093.md) \] Facile
 success, a rose without a thorn,  
 An instant victory, are things I scorn.  
 The Phasian bird from distant Colchis brought  
@@ -135,7 +135,7 @@ of compassion, was nullifying the obligation by then insulting him.
 Other remarks follow, all equally imbued with moderation and good sense,
 and coming with added grace from so beautiful a mouth.
 
-\[XCIV <span id="XCIV"></span>[(Latin)](../satyrlat/satl094) \] "Happy
+\[XCIV <span id="XCIV"></span>[(Latin)](../satyrlat/satl094.md) \] "Happy
 the mother of such a son!" exclaimed Eumolpus. "Go on, good youth, and
 prosper! Rare indeed is such a combination of wisdom and beauty. Never
 think all your words have been wasted; you have won a lover! I, I will
@@ -183,7 +183,7 @@ in the exercise of their craft; and that was why the servant from whom
 he snatched the instrument had expressed no sort of consternation, nor
 had Eumolpus made an effort to hinder the mimic tragedy.
 
-\[XCV <span id="XCV"></span>[(Latin)](../satyrlat/satl095) \] In the
+\[XCV <span id="XCV"></span>[(Latin)](../satyrlat/satl095.md) \] In the
 midst of this lovers' fooling, the landlord enters with another course
 of the dinner, and staring hard at us where we lay sprawling
 disgracefully on the floor, "Are you all drunk," he asked, "or runaways,
@@ -211,7 +211,7 @@ First and foremost, an old hag with sore eyes and a most filthy apron,
 and mounted on wooden clogs (an odd pair) hauls in a huge dog on a
 chain, and sets him at Eumolpus, who however made a gallant defense
 against all assailants with his candlestick. \[XCVI <span
-id="XCVI"></span>[(Latin)](../satyrlat/satl096) \] All this we saw
+id="XCVI"></span>[(Latin)](../satyrlat/satl096.md) \] All this we saw
 through a hole in the door, just made by the wrenching off of the handle
 of the wicket, and for my own part I wished him joy of his beating.
 
@@ -233,7 +233,7 @@ bedfellow," he went on, in a more subdued tone, "is a scornful jade; so
 if you love me, blackguard her in verse, will you, to make her feel
 ashamed of herself."
 
-\[XCVII <span id="XCVII"></span>[(Latin)](../satyrlat/satl097) \] Whilst
+\[XCVII <span id="XCVII"></span>[(Latin)](../satyrlat/satl097.md) \] Whilst
 Eumolpus was talking apart with Bargates, a crier attended by a public
 slave and a small crowd of curious persons besides, entered the inn, and
 brandishing a torch that gave more smoke than light, read out the follow
@@ -274,7 +274,7 @@ man's, certainly no suppliant's death, and least of all that of a man
 whom, even after our fatal quarrel, he still thought of as his dearest
 friend.
 
-\[XCVIII <span id="XCVIII"></span>[(Latin)](../satyrlat/satl098) \] Nor
+\[XCVIII <span id="XCVIII"></span>[(Latin)](../satyrlat/satl098.md) \] Nor
 was the public slave idle meanwhile, but snatching a cane from the
 innkeeper, he thrusts it under the bed, and even investigates every
 cranny in the walls. Giton kept shirking away from the stick, and
@@ -313,7 +313,7 @@ the raging waters overwhelm me, and me alone! For 'tis I am the subject,
 I the cause, of all these wicked doings! My death would reconcile two
 enemies."
 
-\[XCIX <span id="XCIX"></span>[(Latin)](../satyrlat/satl099) \] Touched
+\[XCIX <span id="XCIX"></span>[(Latin)](../satyrlat/satl099.md) \] Touched
 by our troubles, and above all stirred by Giton's blandishments,
 Eumolpus exclaimed, "Fools, fools; gifted as you are with qualities to
 ensure your happiness, you persist in leading a life of wretchedness,
@@ -357,4 +357,4 @@ stars, make our way on board.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Thirteen](sat14)
+[Next: Chapter Thirteen](sat14.md)

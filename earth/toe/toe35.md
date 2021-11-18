@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe34)  [Next](toe36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe34)  [Next](toe36.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ for himself.
 I will here give the opinion of a person who has had great opportunities
 for this purpose, who is an intelligent as well as an attentive
 observator, and who has had particularly this question in his view. It
-is from 'Tableaux de la Suisse' <span id="fr_76"></span>[26](#fn_76).
+is from 'Tableaux de la Suisse' <span id="fr_76"></span>[26](#fn_76.md).
 
 «Quand nous nous sommes trouvé sur ces points élevés, nous avons
 toujours considéré le total des montagnes prises ensemble, leurs
@@ -825,10 +825,10 @@ causes which, being general, must be every where perceived.
 
 ### Footnotes
 
-<span id="fn_76"></span>[v2:26](toe35.htm#fr_76) «Discours sur
+<span id="fn_76"></span>[v2:26](toe35.htm#fr_76.md) «Discours sur
 l'Histoire Naturelle de la Suisse.»
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. The Theory illustrated, by adducing examples from
-the different Quarters of the Globe](toe36)
+the different Quarters of the Globe](toe36.md)

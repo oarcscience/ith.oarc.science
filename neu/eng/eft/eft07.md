@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft06)  [Next](eft08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft06)  [Next](eft08.md) 
 
 ------------------------------------------------------------------------
 
 # Mr Vinegar
 
 <span id="img_008"></span> [![](tn/008.jpg)  
-Click to enlarge](img/008.jpg)
+Click to enlarge](img/008.jpg.md)
 
 MR and Mrs Vinegar lived in a vinegar bottle. Now, one day, when Mr
 Vinegar was from home, Mrs Vinegar, who was a very good housewife, was
@@ -102,10 +102,10 @@ skin.
  
 
 <span id="img_009"></span> [![](tn/009.jpg)  
-Click to enlarge](img/009.jpg)
+Click to enlarge](img/009.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Nix Nought Nothing](eft08)
+[Next: Nix Nought Nothing](eft08.md)

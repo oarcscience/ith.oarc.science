@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar55)  [Next](gar57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar55)  [Next](gar57.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -91,7 +91,7 @@ and modern times. Many clearly represent the tools used in building.
 Some of these marks, and more of those from Avignon, are to be
 recognised upon Lichfield's "Baphometic Tablet;" which may, after all,
 be no modern forgery, but a genuine register of such segli of the
-seventeenth century. <span id="fr_225"></span>[\*](#fn_223)
+seventeenth century. <span id="fr_225"></span>[\*](#fn_223.md)
 
 The mediæval guild of Masons, as we have seen, was no more a *secret
 society* than were the guilds of Carpenters, Cordwainers or Tailors.
@@ -123,11 +123,11 @@ century?
 
 ### Footnotes
 
-<span id="fn_223"></span>[385:\*](gar56.htm#fr_225) Most interesting of
+<span id="fn_223"></span>[385:\*](gar56.htm#fr_225.md) Most interesting of
 all, on account of their early date, are the Masons’ Marks at
 Westminster Hall, lately published by Dr. Freshfield, in the
 Archæologia, Vol. 50, Part I.
 
 ------------------------------------------------------------------------
 
-[Next: Masons’ Marks](gar57)
+[Next: Masons’ Marks](gar57.md)

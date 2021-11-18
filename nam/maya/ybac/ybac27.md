@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac26)  [Next](ybac28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac26)  [Next](ybac28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ they make a hole in the ground
 <span id="img_03802"></span>
 
 [![Madrid Codex](tn/03802.jpg)  
-Click to enlarge](img/03802.jpg)  
+Click to enlarge](img/03802.jpg.md)  
   
 
 The growing plant springs from the head of the god Itzamna. The plant,
@@ -94,7 +94,7 @@ which has chiefly to do with farm ceremonies.)
 <span id="img_03803"></span>
 
 [![Madrid Codex](tn/03803.jpg)  
-Click to enlarge](img/03803.jpg)  
+Click to enlarge](img/03803.jpg.md)  
   
 
 Itzamná plants the tree in the earth. Itzamná drops the seed in the
@@ -113,7 +113,7 @@ distribute all as between friends. In fishing they do the same.
 <span id="img_03900"></span>
 
 [![Madrid Codex](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)  
+Click to enlarge](img/03900.jpg.md)  
   
 
 The Fire-dog, or heat rays from the sun, burns the growth, while the
@@ -169,4 +169,4 @@ have little for their own need.
 
 [Next: XXIV. Method of Counting of the Yucatecans. Genealogies.
 Inheritances and Tutelage of the Orphans. The Succession of the
-Chiefs](ybac28)
+Chiefs](ybac28.md)

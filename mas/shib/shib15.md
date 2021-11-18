@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib14)  [Next](shib16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib14)  [Next](shib16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ The following are the official descriptions of these Banners:
 
 |                                  |
 |----------------------------------|
-| ![GRAND STANDARD](img/04100.jpg) |
+| ![GRAND STANDARD](img/04100.jpg.md) |
 
 "The <span class="smallcaps">Grand Standard</span> is of white woolen or
 silk stuff, six feet in height and five feet in width, made tripartite
@@ -43,7 +43,7 @@ twelve inches in height. The Cross to be crimson, edged with gold."
 
 |                                                           |
 |-----------------------------------------------------------|
-| ![BEAUCEANT&lt;i&gt;Per fesse&lt;/i&gt;.](img/04101.jpg) |
+| ![BEAUCEANT&lt;i&gt;Per fesse&lt;/i&gt;.](img/04101.jpg.md) |
 
 "The <span class="smallcaps">Beauceant</span> is of woolen or silk
 stuff, same form and dimensions as the Grand Standard, and suspended in
@@ -58,7 +58,7 @@ Beauceant upon their kite-shaped Shields, as an armorial bearing.
 
 |                                                           |
 |-----------------------------------------------------------|
-| ![BEAUCEANT&lt;i&gt;Per fesse&lt;/i&gt;.](img/04102.jpg) |
+| ![BEAUCEANT&lt;i&gt;Per fesse&lt;/i&gt;.](img/04102.jpg.md) |
 
 Anciently the Beauceant was sometimes divided *per pale*, that is,
 perpendicularly, but generally it was divided *per fesse*, horizontally.
@@ -79,7 +79,7 @@ the Order."
 <span class="small">UNDER THE JURISDICTION OF THE GRAND
 ENCAMPMENT.</span>
 
-<span id="img_04200"></span> ![Cross of Salem.](img/04200.jpg)
+<span id="img_04200"></span> ![Cross of Salem.](img/04200.jpg.md)
 
 <span class="smallcaps">Cross of Salem</span>.—This is worn by the Grand
 Master as the proper emblem of his office. It is borne before the Pope
@@ -87,13 +87,13 @@ in procession, and is therefore called the Pontifical Cross. When in
 purple enamel, and edged with gold, it is the insignia of the Grand
 Master and of Past Grand Masters.
 
-<span id="img_04201"></span> ![Patriarchal Cross.](img/04201.jpg)
+<span id="img_04201"></span> ![Patriarchal Cross.](img/04201.jpg.md)
 
 <span class="smallcaps">Patriarchal Cross</span>.—This Cross when in
 purple enamel, and edged with gold, is the insignia of all officers of
 the Grand Encampment below the Grand Master.
 
-<span id="img_04202"></span> ![Templar Cross](img/04202.jpg)
+<span id="img_04202"></span> ![Templar Cross](img/04202.jpg.md)
 
 <span class="smallcaps">Templar Cross</span>.—This Cross is formed of
 four equilateral triangles joined at the apices, and is called the Cross
@@ -109,14 +109,14 @@ States. This Cross was given the Templars by Pope Eugenius, and some
 think the Cross he gave them had its lower limb longer than the others,
 as in the Passion Cross.
 
-<span id="img_04204"></span> ![Passion Cross.](img/04204.jpg)
+<span id="img_04204"></span> ![Passion Cross.](img/04204.jpg.md)
 
 <span class="smallcaps">Passion Cross</span>.—When in red enamel, and
 edged with gold, the Passion Cross is the insignia of a Commander of a
 Commandery. This Cross appears on the Grand Standard of the Order in the
 United States.
 
-<span id="img_04205"></span> ![Cross of Malta.](img/04205.jpg)
+<span id="img_04205"></span> ![Cross of Malta.](img/04205.jpg.md)
 
 <span class="smallcaps">Cross of Malta</span>.—This Cross has not been
 adopted as insignia by the Grand Encampment. It is of white enamel, and
@@ -176,4 +176,4 @@ and maintain a Commandery.
 
 ------------------------------------------------------------------------
 
-[Next: Officers of a Commandery](shib16)
+[Next: Officers of a Commandery](shib16.md)

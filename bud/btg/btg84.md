@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg83)  [Next](btg85) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg83)  [Next](btg85.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ that heavenly wisdom which alone can give comfort to an afflicted heart.
 
 ------------------------------------------------------------------------
 
-[Next: The Mustard Seed](btg85)
+[Next: The Mustard Seed](btg85.md)

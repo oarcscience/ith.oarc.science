@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi158)  [Next](mtsi160) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi158)  [Next](mtsi160.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ good saddle.
 
 ------------------------------------------------------------------------
 
-[Next: 24. The Dead Wife](mtsi160)
+[Next: 24. The Dead Wife](mtsi160.md)

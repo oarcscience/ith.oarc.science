@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd07)  [Next](kjd09) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd07)  [Next](kjd09.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ G. B. H.
 
 ------------------------------------------------------------------------
 
-[Next: Newes from Scotland - Original Title Page,](kjd09)
+[Next: Newes from Scotland - Original Title Page,](kjd09.md)

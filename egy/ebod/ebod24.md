@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod23)  [Next](ebod25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod23)  [Next](ebod25.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ its place. The path of souls is opened \[to my soul\]."
 
 ------------------------------------------------------------------------
 
-[Next: Plate XVIII.](ebod25)
+[Next: Plate XVIII.](ebod25.md)

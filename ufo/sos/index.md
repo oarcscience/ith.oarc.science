@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sos00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sostxt.zip)
+[Contents](#contents)    [Start Reading](sos00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sostxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ This is one of the best contactee accounts of the 1950s. Mr. Angelucci's
 Secret of the Saucers is a memoir of a more innocent time, and a tale of
 spiritual growth. It was edited by Ray Palmer, the gray eminence behind
 FATE magazine, the publisher of the first flying saucer accounts, and
-the [Shaver mythos](../irl/index) before that. In fact, Angelucci's name
+the [Shaver mythos](../irl/index.md) before that. In fact, Angelucci's name
 doesn't appear on the title page, simply Palmer as editor. Angelucci is,
 strangely, only listed as a copyright holder.
 
@@ -83,20 +83,20 @@ disbelief, it works as science fiction as well.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sos00)  
-[Contents](sos01)  
-[Foreword](sos02)  
-[Chapter I. The Disk From Another World](sos03)  
-[Chapter II. I Travel in a Flying Saucer](sos04)  
-[Chapter III. My Meeting With Neptune](sos05)  
-[Chapter IV. “We Can Appear and Function As Earthmen, Orfeo!”](sos06)  
-[Chapter V. The Past Is Never Dead!](sos07)  
-[Chapter VI. Airplanes Do Disappear!](sos08)  
-[Chapter VII. Flying Saucer Convention In Hollywood](sos09)  
-[Chapter VIII. My Awakening On Another Planet](sos10)  
-[Chapter IX. The Trip East](sos11)  
-[Chapter X. Neptune Again and Phenomena in New Jersey](sos12)  
-[Chapter XI. I Have a Vision](sos13)  
-[Chapter XII. How to Know A Flying Saucer](sos14)  
-[Chapter XIII. Structure and Motive Forces of Flying Disks](sos15)  
-[Chapter XIV. The True Nature of the Saucer Mystery](sos16)  
+<span id="contents"></span> [Title Page](sos00.md)  
+[Contents](sos01.md)  
+[Foreword](sos02.md)  
+[Chapter I. The Disk From Another World](sos03.md)  
+[Chapter II. I Travel in a Flying Saucer](sos04.md)  
+[Chapter III. My Meeting With Neptune](sos05.md)  
+[Chapter IV. “We Can Appear and Function As Earthmen, Orfeo!”](sos06.md)  
+[Chapter V. The Past Is Never Dead!](sos07.md)  
+[Chapter VI. Airplanes Do Disappear!](sos08.md)  
+[Chapter VII. Flying Saucer Convention In Hollywood](sos09.md)  
+[Chapter VIII. My Awakening On Another Planet](sos10.md)  
+[Chapter IX. The Trip East](sos11.md)  
+[Chapter X. Neptune Again and Phenomena in New Jersey](sos12.md)  
+[Chapter XI. I Have a Vision](sos13.md)  
+[Chapter XII. How to Know A Flying Saucer](sos14.md)  
+[Chapter XIII. Structure and Motive Forces of Flying Disks](sos15.md)  
+[Chapter XIV. The True Nature of the Saucer Mystery](sos16.md)  

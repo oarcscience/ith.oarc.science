@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app81)  [Next](app83) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app81)  [Next](app83.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -70,7 +70,7 @@ and showers.
 
 13\. (<span class="smallcaps">Aristotle</span>, *Physics* 185a:
 *Antiphon's construction for the squaring of the circle by means of the
-inscription of triangles*). <span id="fr_110"></span>[1](#fn_103)
+inscription of triangles*). <span id="fr_110"></span>[1](#fn_103.md)
 
 14\. (*From 'Truth'*): (Nature? Mind?) if robbed of its material would
 have arranged many excellent things badly.
@@ -346,7 +346,7 @@ dangers, and hurries on in resolve, but shrinks back when the fact is
 upon him.
 
 57\. 'Illness is a holiday for cowards', <span
-id="fr_111"></span>[1](#fn_104) for they do not march into action.
+id="fr_111"></span>[1](#fn_104.md) for they do not march into action.
 
 58\. Whoever, when going against his neighbour with the intention of
 harming him, is afraid lest by failing to achieve his wishes he may get
@@ -443,7 +443,7 @@ an eagle; this is thought to mean victory, but Antiphon says 'You will
 lose', because the eagle pursues other birds and so comes after*).
 
 81\. (<span class="smallcaps">Seneca</span>: *Junius Otho published four
-books on 'Specious Pleas',* <span id="fr_112"></span>[1](#fn_105) *which
+books on 'Specious Pleas',* <span id="fr_112"></span>[1](#fn_105.md) *which
 were sometimes ascribed to Antiphon because there was so much about
 dreams in them*).
 
@@ -463,14 +463,14 @@ Sophist or the Orator*).
 
 ### Footnotes
 
-<span id="fn_103"></span>[145:1](app82.htm#fr_110) Valueless. See
+<span id="fn_103"></span>[145:1](app82.htm#fr_110.md) Valueless. See
 *Companion*, pp. 396-7.
 
-<span id="fn_104"></span>[151:1](app82.htm#fr_111) A proverb.
+<span id="fn_104"></span>[151:1](app82.htm#fr_111.md) A proverb.
 
-<span id="fn_105"></span>[153:1](app82.htm#fr_112) *Colores*, a
+<span id="fn_105"></span>[153:1](app82.htm#fr_112.md) *Colores*, a
 technical term in rhetoric: Quintilian, IV. ii. 88.
 
 ------------------------------------------------------------------------
 
-[Next: 88. Critias of Athens](app83)
+[Next: 88. Critias of Athens](app83.md)

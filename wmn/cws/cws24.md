@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws23)  [Next](cws25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws23)  [Next](cws25.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XX
 
-#### CONCERNING THE GREAT PYRAMID, AND THE INITIATIONS THEREIN <span id="fr_95"></span>[1](#fn_95)
+#### CONCERNING THE GREAT PYRAMID, AND THE INITIATIONS THEREIN <span id="fr_95"></span>[1](#fn_95.md)
 
 SEE the Great Pyramid, and can tell you all about it. My genius informs
 me that the number of the pyramids in Egypt corresponds to the number of
@@ -104,22 +104,22 @@ The Egyptians and Hindûs appear to be of the same race, having their
 mysteries in common. For I am shown one of each people riding together
 on an elephant. Both countries were colonised at the same time from
 Thibet, and from thence all the mysteries proceeded. <span
-id="fr_96"></span>[1](cws25.htm#fn_96) In Egypt the initiations were
+id="fr_96"></span>[1](cws25.htm#fn_96.md) In Egypt the initiations were
 generally in pyramids and temples. In India and Palestine they were
 underground, in caves. In Cana of Galilee there is a large cave, which
 was used for the purpose, with a "banqueting" room.
 
 I am counting the pyramids. I see thirty-six, but I think there are
-more. <span id="fr_97"></span>[2](cws25.htm#fn_97)
+more. <span id="fr_97"></span>[2](cws25.htm#fn_97.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_95"></span>[55:1](cws24.htm#fr_95) London, March 22, 1881.
+<span id="fn_95"></span>[55:1](cws24.htm#fr_95.md) London, March 22, 1881.
 Spoken in trance. Referred to in *Life of Anna Kingsford*, vol. ii, p.
 3.
 
 ------------------------------------------------------------------------
 
-[Next: No. XXI: Concerning The ''Man Of Power''](cws25)
+[Next: No. XXI: Concerning The ''Man Of Power''](cws25.md)

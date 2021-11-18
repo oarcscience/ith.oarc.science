@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat20)  [Next](flat22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat20)  [Next](flat22.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,4 +177,4 @@ Phooka."
 
 ------------------------------------------------------------------------
 
-[Next: The Haunted Castle](flat22)
+[Next: The Haunted Castle](flat22.md)

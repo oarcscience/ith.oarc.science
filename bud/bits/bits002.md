@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits001) [Next](bits003)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits001) [Next](bits003.md)
 
 ------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ Dîpamkara.
 
 ------------------------------------------------------------------------
 
-[Next: § 3. The Characteristics of a Future Buddha](bits003)
+[Next: § 3. The Characteristics of a Future Buddha](bits003.md)
 
  
 

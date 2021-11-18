@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic065)  [Next](lfic067) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic065)  [Next](lfic067.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ Fianna.
 
 ------------------------------------------------------------------------
 
-[Next: The Old Age of Oisin](lfic067)
+[Next: The Old Age of Oisin](lfic067.md)

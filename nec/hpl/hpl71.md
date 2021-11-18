@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl70)  [Next](hpl72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl70)  [Next](hpl72.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ Ones we shall dwell amidst wonder and glory for ever.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](hpl72)
+[Next: Part I](hpl72.md)

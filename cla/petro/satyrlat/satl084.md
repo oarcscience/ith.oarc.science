@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXXIV) 
-[Previous](satl083)  [Next](satl085) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXXIV.md) 
+[Previous](satl083)  [Next](satl085.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ posset. Nunc veteranus est latro et ipsis lenonibus doctior". &lt;. .
 
 ------------------------------------------------------------------------
 
-[Next: LXXXV](satl085)
+[Next: LXXXV](satl085.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste53)  [Next](ste55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste53)  [Next](ste55.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,11 +109,11 @@ Millenaries. For we are speaking now to such as believe the
 *Millennium*, but place it in the present Earth before the Renovation
 whereas the ancient Millenaries suppos’d the regeneration and renovation
 of the World before the kingdom of Christ came. As you may see in  <span
-id="fr_22"></span>[1](#fn_22)*Irenæus*,  <span
-id="fr_23"></span>[a](#fn_23) *Justin Martyr*,  <span
-id="fr_24"></span>[b](#fn_24) *Tertullian*,  <span
-id="fr_25"></span>[c](#fn_25) *Lactantius*, and  <span
-id="fr_26"></span>[d](#fn_26) the Author *ad Orthodoxos*. And the
+id="fr_22"></span>[1](#fn_22.md)*Irenæus*,  <span
+id="fr_23"></span>[a](#fn_23.md) *Justin Martyr*,  <span
+id="fr_24"></span>[b](#fn_24.md) *Tertullian*,  <span
+id="fr_25"></span>[c](#fn_25.md) *Lactantius*, and  <span
+id="fr_26"></span>[d](#fn_26.md) the Author *ad Orthodoxos*. And the
 neglect of this, I look upon as one reason, as we noted before, that
 brought that doctrine into discredit and decay. For when they plac’d the
 kingdom of the Saints upon this Earth, it became more capable of being
@@ -437,17 +437,17 @@ or in the New Jerusalem; Satan being bound for a thousand years.
 
 ### Footnotes
 
-<span id="fn_22"></span>[358:1](ste54.htm#fr_22) *li*. 5, *ch*. 32,
+<span id="fn_22"></span>[358:1](ste54.htm#fr_22.md) *li*. 5, *ch*. 32,
 *&c*.
 
-<span id="fn_23"></span>[358:a](ste54.htm#fr_23) *Dial. cum* Tryph.
+<span id="fn_23"></span>[358:a](ste54.htm#fr_23.md) *Dial. cum* Tryph.
 
-<span id="fn_24"></span>[358:b](ste54.htm#fr_24) *Contra Marc*.
+<span id="fn_24"></span>[358:b](ste54.htm#fr_24.md) *Contra Marc*.
 
-<span id="fn_25"></span>[358:c](ste54.htm#fr_25) *Li*. 7.
+<span id="fn_25"></span>[358:c](ste54.htm#fr_25.md) *Li*. 7.
 
-<span id="fn_26"></span>[358:d](ste54.htm#fr_26) *Quæst. & respon*. 93.
+<span id="fn_26"></span>[358:d](ste54.htm#fr_26.md) *Quæst. & respon*. 93.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](ste55)
+[Next: Chapter IX](ste55.md)

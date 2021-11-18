@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs49)  [Next](mhs51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs49)  [Next](mhs51.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ against the frivolity of such doctrines.
 
 ------------------------------------------------------------------------
 
-[Next: II. Roman Superstition Concerning Days](mhs51)
+[Next: II. Roman Superstition Concerning Days](mhs51.md)

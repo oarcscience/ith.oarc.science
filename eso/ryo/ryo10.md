@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo09) 
-[Next](ryo11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo09.md) 
+[Next](ryo11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Raja Yoga*, by Yogi Ramacharaka (William Walker Atkinson), \[1906\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ development in Western science. Until very recently the text books held
 that Consciousness and Mind were synonymous, and that the Mind was
 conscious of all of its activities, changes and modifications.
 
-[Leibnitz](errata.htm#4) was one of the first Western philosophers to
+[Leibnitz](errata.htm#4.md) was one of the first Western philosophers to
 advance the idea that there were planes of mental activity outside of
 the plane of consciousness, and
 
@@ -117,7 +117,7 @@ our being we only perceive the highest points—the lighted-up peaks of a
 continent whose lower levels remain in the shade. Beneath ordinary
 sensations are their components, that is to say, the elementary
 sensations, which must be combined into groups to reach our
-[consciousness](errata.htm#5)."
+[consciousness](errata.htm#5.md)."
 
 Maudsley says: "Examine closely and without bias the ordinary mental
 operations of daily life, and you will find that consciousness has not
@@ -126,7 +126,7 @@ have. In every conscious state there are at work conscious,
 sub-conscious, and infra-conscious energies, the last as indispensable
 as the first."
 
-Oliver [Wendell](errata.htm#6) Holmes said: "There are thoughts that
+Oliver [Wendell](errata.htm#6.md) Holmes said: "There are thoughts that
 never emerge into consciousness, which yet make their influence felt
 among the perceptible mental currents, just as the unseen planets sway
 the movements of those that are watched and mapped by the astronomer."
@@ -199,7 +199,7 @@ unhesitatingly wrote the result. I have best accomplished this by
 leading the (conscious) mind as far away as possible from the subject
 upon which I was writing."
 
-Prof. Barrett says: "The [mysteriousness](errata.htm#7) of our being is
+Prof. Barrett says: "The [mysteriousness](errata.htm#7.md) of our being is
 not confined to subtle physiological processes which we have in common
 with all animal life. There are higher and more capacious powers wrapped
 up in our human personality than are expressed even by what we know of
@@ -272,7 +272,7 @@ Continuing, Dr. Schofield says: "The Spirit of God is said to dwell in
 believers, and yet, as we have seen, His presence is not the subject of
 direct consciousness. We would include, therefore, in the
 supra-conscious, all such spiritual ideas, together with conscience—the
-voice of God, as Max [Müller](errata.htm#8) calls it—which is surely a
+voice of God, as Max [Müller](errata.htm#8.md) calls it—which is surely a
 half-conscious faculty. Moreover, the supra-conscious, like the
 sub-conscious, is, as we have said, best apprehended when the conscious
 mind is not active. Visions, meditations, prayers, and even dreams have
@@ -537,7 +537,7 @@ entirely; it may remain latent below the horizon of consciousness.
 Moreover it may produce an effect upon movement, or upon other ideas,
 when thus active below the horizon of consciousness."
 
-[Leibnitz](errata.htm#9) says: "It does not follow that because we do
+[Leibnitz](errata.htm#9.md) says: "It does not follow that because we do
 not perceive thought that it does not exist. It is a great source of
 error to believe that there is no perception in the mind but that of
 which it is conscious."
@@ -698,4 +698,4 @@ that it has in store for me.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson IX. The Mental Planes](ryo11)
+[Next: Lesson IX. The Mental Planes](ryo11.md)

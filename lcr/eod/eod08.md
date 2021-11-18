@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod07)  [Next](eod09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod07)  [Next](eod09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -23,16 +23,16 @@ Textual Heritage
 #### EARLY MUMMIES.
 
 In the earliest known (Second Dynasty) examples of Egyptian attempts at
-mummification <span id="fr_24"></span>[2](#fn_24) the corpse was swathed
+mummification <span id="fr_24"></span>[2](#fn_24.md) the corpse was swathed
 in a large series of bandages, which were moulded into shape to
 represent the form of the body. In a later (probably Fifth Dynasty)
 mummy, found in 1892 by Professor Flinders Petrie at Medlin, the
 superficial bandages had been impregnated with a resinous paste, which
 while still plastic was moulded into the form of the body, special care
 being bestowed upon the modelling of the face <span
-id="fr_25"></span>[3](#fn_25) and the organs of reproduction, so as to
+id="fr_25"></span>[3](#fn_25.md) and the organs of reproduction, so as to
 leave no room for doubt as to the identity and the sex. Professor Junker
-has described <span id="fr_26"></span>[4](#fn_26) an interesting series
+has described <span id="fr_26"></span>[4](#fn_26.md) an interesting series
 of variations of these practices. In two graves the bodies were covered
 with a layer of stucco plaster. First the corpse was covered with a fine
 linen cloth: then the plaster was put on, and modelled into the form of
@@ -43,7 +43,7 @@ was
 2.WATER-COLOUR SKETCH BY MRS. CECIL FIRTH, REPRESENTING A RESTORATION
 OF THE EARLY MUMMY FOUND AT MEDÛM BY PROF. FLINDERS PETRIE, NOW IN THE
 MUSEUM OF THE ROYAL COLLEGE OF SURGEONS IN LONDON](tn/fig02.jpg)  
-Click to enlarge](img/fig02.jpg)  
+Click to enlarge](img/fig02.jpg.md)  
 FIG. 2.—WATER-COLOUR SKETCH BY MRS. CECIL FIRTH, REPRESENTING A
 RESTORATION OF THE EARLY MUMMY FOUND AT MEDÛM BY PROF. FLINDERS PETRIE,
 NOW IN THE MUSEUM OF THE ROYAL COLLEGE OF SURGEONS IN LONDON  
@@ -52,7 +52,7 @@ NOW IN THE MUSEUM OF THE ROYAL COLLEGE OF SURGEONS IN LONDON
 <span id="img_fig03"></span> <span align="CENTER"> [![FIG. 3.A MOULD
 TAKEN FROM A LIFE-MASK FOUND IN THE PYRAMID OF TETA BY MR.
 QUIBELL](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 FIG. 3.—A MOULD TAKEN FROM A LIFE-MASK FOUND IN THE PYRAMID OF TETA BY
 MR. QUIBELL  
 </span>
@@ -77,21 +77,21 @@ were made upon the wrapped mummy itself. Thus the mummy was intended to
 be the portrait as well as the actual bodily remains of the dead. In
 view of certain differences of opinion as to the original significance
 of the funerary ritual, which I shall have occasion to discuss later on
-(see [p. 20](#page_20)), it is important to keep these facts clearly in
+(see [p. 20](#page_20).md), it is important to keep these facts clearly in
 mind.
 
 A discovery made by Mr. J. E. Quibell in the course of his excavations
-at Sakkara <span id="fr_27"></span>[1](#fn_27) suggests that, as an
+at Sakkara <span id="fr_27"></span>[1](#fn_27.md) suggests that, as an
 outcome of these practices a new procedure may have been devised in the
 Pyramid Age—the making of a death-mask. For he discovered what may be
 the mask taken directly from the face of the Pharaoh Teta ([Fig.
-3](#img_fig03)).
+3](#img_fig03).md).
 
 About this time also the practice originated of making a life-size
 portrait statue of the dead man's head and placing it along with the
 actual body in the burial chamber. These "reserve heads," as they have
 been called, were usually made of fine limestone, but Junker found one
-made of Nile mud. <span id="fr_28"></span>[2](#fn_28)
+made of Nile mud. <span id="fr_28"></span>[2](#fn_28.md)
 
 Junker believes that there was an intimate relationship between the
 plaster-covered heads and the reserve-heads. They were both expressions
@@ -116,7 +116,7 @@ the complete figure of the dead \[placed in a special hidden chamber,
 now commonly called the *serdab*\] was introduced." The ancient
 Egyptians themselves called the *serdab* the *pr-twt* or "statue-house,"
 and the group of chambers, forming the tomb-chapel in the mastaba, was
-known to them as the "*ka*-house". <span id="fr_29"></span>[1](#fn_29)
+known to them as the "*ka*-house". <span id="fr_29"></span>[1](#fn_29.md)
 
 It is important to remember that, even when the custom of making a
 statue of the deceased became fully established, the original idea of
@@ -131,19 +131,19 @@ times simply a portrait of the deceased.
 
 With this custom there also persisted a remembrance of its original
 significance. Professor Garstang records the fact that in the XII
-Dynasty, <span id="fr_30"></span>[2](#fn_30) when a painted mask was
+Dynasty, <span id="fr_30"></span>[2](#fn_30.md) when a painted mask was
 placed upon the wrapped mummy, no statue or statuette was found in the
 tomb. The undertakers
 
 <span id="img_fig04"></span> <span align="CENTER"> [![FIG. 4.PORTRAIT
 STATUE OF AN EGYPTIAN LADY OF THE PYRAMID AGE](tn/fig04.jpg)  
-Click to enlarge](img/fig04.jpg)  
+Click to enlarge](img/fig04.jpg.md)  
 FIG. 4.—PORTRAIT STATUE OF AN EGYPTIAN LADY OF THE PYRAMID AGE  
 </span>
 
 <span id="page_19">p. 19</span>
 
-apparently realized that the mummy <span id="fr_31"></span>[1](#fn_31)
+apparently realized that the mummy <span id="fr_31"></span>[1](#fn_31.md)
 which was provided with the life-like mask was therefore fulfilling the
 purposes for which statues
 
@@ -156,7 +156,7 @@ statues. All these varied experiments were inspired by the same desire,
 to preserve the likeness of the deceased. But when the sculptors
 attained their object, and created those marvellous life-like portraits,
 which must ever remain marvels of technical skill and artistic feeling
-([Fig. 4](#img_fig04)), the old ideas that surged through the minds of
+([Fig. 4](#img_fig04).md), the old ideas that surged through the minds of
 the Pre-dynastic Egyptians, as they contemplated the desiccated remains
 of the dead, were strongly reinforced. The earlier people's thoughts
 were turned more specifically than heretofore to the contemplation of
@@ -178,7 +178,7 @@ his vitalized statue. This prompted a more intense and searching
 investigation of the problems concerning the nature of the elements of
 vitality of which the corpse was deprived at the time of death. Out of
 these inquiries in course of time a highly complex system of philosophy
-developed. <span id="fr_32"></span>[2](#fn_32)
+developed. <span id="fr_32"></span>[2](#fn_32.md)
 
 <span id="page_20">p. 20</span>
 
@@ -193,9 +193,9 @@ voluntarily, was to present offerings of blood to stimulate the
 physiological functions of the heart. But the element of vitality which
 left the body at death had to be restored to the statue, which
 represented the deceased in the *ka*-house. <span
-id="fr_33"></span>[1](#fn_33)
+id="fr_33"></span>[1](#fn_33.md)
 
-In my earlier attempts <span id="fr_34"></span>[2](#fn_34) to interpret
+In my earlier attempts <span id="fr_34"></span>[2](#fn_34.md) to interpret
 these problems, I adopted the view that the making of portrait statues
 was the direct outcome of the practice of mummification. But Dr. Alan
 Gardiner, whose intimate knowledge of the early literature enables him
@@ -207,7 +207,7 @@ in response to the twofold desire to preserve both the actual body and a
 representation of the features of the dead. But I think this suggestion
 does not give adequate recognition to the fact that the earliest
 attempts at funerary portraiture were made upon the wrappings of the
-actual mummies. <span id="fr_35"></span>[3](#fn_35) This fact and the
+actual mummies. <span id="fr_35"></span>[3](#fn_35.md) This fact and the
 evidence which I have already
 
 <span id="page_21">p. 21</span>
@@ -234,8 +234,8 @@ have tried to depict. No doubt the modellers made use of the skill they
 had acquired in the practice of the older art of rough impressionism.
 
 Once the statue was made a stone-house (the *serdab*) was provided for
-it above ground. <span id="fr_36"></span>[1](#fn_36) As the dolmen is a
-crude copy of the *serdab* <span id="fr_37"></span>[2](#fn_37) it can be
+it above ground. <span id="fr_36"></span>[1](#fn_36.md) As the dolmen is a
+crude copy of the *serdab* <span id="fr_37"></span>[2](#fn_37.md) it can be
 claimed as one of the ultimate results of the practice
 
 <span id="page_22">p. 22</span>
@@ -246,7 +246,7 @@ realized that the body itself could be rendered incorruptible and its
 distinctive traits could be kept alive by means of a portrait statue.
 There are reasons for supposing that primitive man did not realize or
 contemplate the possibility of his own existence coming to an end. <span
-id="fr_38"></span>[1](#fn_38) Even when he witnessed the death of his
+id="fr_38"></span>[1](#fn_38.md) Even when he witnessed the death of his
 fellows he does not appear to have appreciated the fact that it was
 really the end of life and not merely a kind of sleep from which the
 dead might awake. But if the corpse were destroyed or underwent a
@@ -257,7 +257,7 @@ preservation of the body from corruption implied a continuation of
 existence becomes intelligible. At first the subterranean chambers in
 which the actual body was housed were developed into a many-roomed house
 for the deceased, complete in every detail. <span
-id="fr_39"></span>[2](#fn_39) But when the statue took over the function
+id="fr_39"></span>[2](#fn_39.md) But when the statue took over the function
 of representing the deceased, a dwelling was provided for it above
 ground. This developed into the temple where the relatives and friends
 of the dead came and made the offerings of food which were regarded as
@@ -267,7 +267,7 @@ The evolution of the temple was thus the direct outcome of the ideas
 that grew up in connexion with the preservation of the dead. For at
 first it was nothing more than the dwelling place of the reanimated
 dead. But when, for reasons which I shall explain later (see [p.
-30](eod10.htm#page_30)), the dead king became deified, his temple of
+30](eod10.htm#page_30).md), the dead king became deified, his temple of
 offerings became the building where food and drink were presented to the
 god, not merely to maintain his existence, but also to restore his
 consciousness, and so afford an opportunity for his successor, the
@@ -291,44 +291,44 @@ a place in temple services.
 
 ### Footnotes
 
-<span id="fn_24"></span>[16:2](eod08.htm#fr_24) G. Elliot Smith, "The
+<span id="fn_24"></span>[16:2](eod08.htm#fr_24.md) G. Elliot Smith, "The
 Earliest Evidence of Attempts at Mummification in Egypt," *Report
 British Association*, 1912, p. 612: compare also J. Garstang, "Burial
 Customs of Ancient Egypt," London, 1907, pp. 29 and 30. Professor
 Garstang did not recognize that mummification had been attempted.
 
-<span id="fn_25"></span>[16:3](eod08.htm#fr_25) G. Elliot Smith, "The
+<span id="fn_25"></span>[16:3](eod08.htm#fr_25.md) G. Elliot Smith, "The
 History of Mummification in Egypt," *Proc. Royal Philosophical Society
 of Glasgow*, 1910: also "Egyptian Mummies," *Journal of Egyptian
 Archæology*, Vol. I, Part III, July, 1914, Plate XXXI.
 
-<span id="fn_26"></span>[16:4](eod08.htm#fr_26) "Excavations of the
+<span id="fn_26"></span>[16:4](eod08.htm#fr_26.md) "Excavations of the
 Vienna Imperial Academy of Sciences at the Pyramids of Gizah, 1914,"
 *Journal of Egyptian Archæology*, Vol. I, Oct. 1914, p. 250.
 
-<span id="fn_27"></span>[17:1](eod08.htm#fr_27)" Excavations at
+<span id="fn_27"></span>[17:1](eod08.htm#fr_27.md)" Excavations at
 Saqqara," 1907-8, p. 113.
 
-<span id="fn_28"></span>[17:2](eod08.htm#fr_28) The great variety of
+<span id="fn_28"></span>[17:2](eod08.htm#fr_28.md) The great variety of
 experiments that were being made at the beginning of the Pyramid Age
 bears ample testimony to the fact that the original inventors of these
 devices were actually at work in Lower Egypt. at that time.
 
-<span id="fn_29"></span>[18:1](eod08.htm#fr_29) Aylward M. Blackman,
+<span id="fn_29"></span>[18:1](eod08.htm#fr_29.md) Aylward M. Blackman,
 "The Ka-House and the Serdab," *Journal of Egyptian Archæology*, Vol.
 Ill, Part IV, Oct., 1916, p. 250. The word *serdab* is merely the Arabic
 word used by the native workmen, which has been adopted and converted
 into a technical term by European archaeologists.
 
-<span id="fn_30"></span>[18:2](eod08.htm#fr_30) *Op. cit.* p. 171.
+<span id="fn_30"></span>[18:2](eod08.htm#fr_30.md) *Op. cit.* p. 171.
 
-<span id="fn_31"></span>[19:1](eod08.htm#fr_31) It is a remarkable fact
+<span id="fn_31"></span>[19:1](eod08.htm#fr_31.md) It is a remarkable fact
 that Professor Garstang, who brought to light perhaps the best, and
 certainly the best-preserved, collection of Middle Kingdom mummies ever
 discovered, failed to recognize the fact that they had really been
 embalmed (*op. cit.* p. 171).
 
-<span id="fn_32"></span>[19:2](eod08.htm#fr_32) The reader who wishes
+<span id="fn_32"></span>[19:2](eod08.htm#fr_32.md) The reader who wishes
 for fuller information as to the reality of these beliefs and how
 seriously they were held will find them still in active <span
 id="page_20">p. 20</span> operation in China. An admirable account of
@@ -338,14 +338,14 @@ China," especially Vol. IV, Book II. It represents the fully developed
 Babylonian, Indian and Central Asiatic influences, as well as by
 accretions developed locally in China.
 
-<span id="fn_33"></span>[20:1](eod08.htm#fr_33) A. M. Blackman, "The
+<span id="fn_33"></span>[20:1](eod08.htm#fr_33.md) A. M. Blackman, "The
 Ka-House and the Serdab," The *Journal of Egyptian Archæology*, Vol.
 III, Part IV, Oct., 1916, p. 250.
 
-<span id="fn_34"></span>[20:2](eod08.htm#fr_34) "Migrations of Early
+<span id="fn_34"></span>[20:2](eod08.htm#fr_34.md) "Migrations of Early
 Culture," p. 37.
 
-<span id="fn_35"></span>[20:3](eod08.htm#fr_35) Dr. Alan Gardiner
+<span id="fn_35"></span>[20:3](eod08.htm#fr_35.md) Dr. Alan Gardiner
 (Davies and Gardiner, "The Tomb of Amenemhēt," 1915, p. 83, footnote)
 has, I think, overlooked certain statements in my writings and
 underestimated the antiquity of the embalmer's art; for he attributes to
@@ -375,21 +375,21 @@ the souls of the viscera as distinct individuals with animal forms" (p.
 deities were first given animal forms in the Nineteenth Dynasty
 (Reisner).
 
-<span id="fn_36"></span>[21:1](eod08.htm#fr_36) The Arabic word conveys
+<span id="fn_36"></span>[21:1](eod08.htm#fr_36.md) The Arabic word conveys
 the idea of being "hidden underground," because the house is exposed by
 excavation.
 
-<span id="fn_37"></span>[21:2](eod08.htm#fr_37) *Op. cit. supra*,
+<span id="fn_37"></span>[21:2](eod08.htm#fr_37.md) *Op. cit. supra*,
 Ridgeway Essays; also *Man*, 1913, p. 193.
 
-<span id="fn_38"></span>[22:1](eod08.htm#fr_38) See Alan H. Gardiner,
+<span id="fn_38"></span>[22:1](eod08.htm#fr_38.md) See Alan H. Gardiner,
 "Life and Death (Egyptian)," Hastings’ *Encyclopædia of Religion and
 Ethics*.
 
-<span id="fn_39"></span>[22:2](eod08.htm#fr_39) See the quotation from
+<span id="fn_39"></span>[22:2](eod08.htm#fr_39.md) See the quotation from
 Mr. Quibell's account in my statement in the *Report of the British
 Association for* 1914, p. 215.
 
 ------------------------------------------------------------------------
 
-[Next: The Significance of Libations](eod09)
+[Next: The Significance of Libations](eod09.md)

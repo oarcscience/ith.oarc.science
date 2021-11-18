@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm01)  [Next](rrm03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm01)  [Next](rrm03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ philosopher, divine, and physician (1486-1535); John Baptist von
 Helmont, a remarkable chemist and physician (1577-1644); Dr. Henry More
 (1614-1687), and lastly and chiefly (in regard of whom this whole Book
 is but the translation and exposition of his highly-prized and very
-scarce works), our own countryman <span id="fr_0"></span>[1](#fn_0),
+scarce works), our own countryman <span id="fr_0"></span>[1](#fn_0.md),
 Robert Flood or Fludd (Robertus de Fluctibus)
 
 <span id="page_ix">p. ix</span>
@@ -77,7 +77,7 @@ LONDON, *April* 6*th*, 1879.
 
 ### Footnotes
 
-<span id="fn_0"></span>[viii:1](rrm02.htm#fr_0) In regard to the value
+<span id="fn_0"></span>[viii:1](rrm02.htm#fr_0.md) In regard to the value
 and rarity of Robert Fludd's books it may be mentioned that Isaac
 D’Israeli says that 'forty' and <span id="page_ix">p. ix</span>
 'seventy' 'pounds' were given for a 'single volume' abroad in his
@@ -89,4 +89,4 @@ offered--especially when encountered by foreigners and Americans.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the First Edition](rrm03)
+[Next: Preface to the First Edition](rrm03.md)

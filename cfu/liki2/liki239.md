@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki238)  [Next](liki240) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki238)  [Next](liki240.md) 
 
 ------------------------------------------------------------------------
 
@@ -448,6 +448,6 @@ well.
 
 ------------------------------------------------------------------------
 
-[Next: XL. Kwan Î or The Meaning of the Ceremony of Capping](liki240)
+[Next: XL. Kwan Î or The Meaning of the Ceremony of Capping](liki240.md)
 
   

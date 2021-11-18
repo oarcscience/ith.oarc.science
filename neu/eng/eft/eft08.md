@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft07)  [Next](eft09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft07)  [Next](eft09.md) 
 
 ------------------------------------------------------------------------
 
 # Nix Nought Nothing
 
 <span id="img_010"></span> [![](tn/010.jpg)  
-Click to enlarge](img/010.jpg)
+Click to enlarge](img/010.jpg.md)
 
 THERE once lived a king and a queen as many a one has been. They were
 long married and had no children; but at last a baby boy came to the
@@ -162,4 +162,4 @@ death. And they lived happy all their days.
 
 ------------------------------------------------------------------------
 
-[Next: Jack Hannaford](eft09)
+[Next: Jack Hannaford](eft09.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc01)  [Next](blc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc01)  [Next](blc03.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ position of Babylon on the Euphrates as its centre. It shows also the
 mountains as the source of the river, the land of Assyria, Bît-Iakinu,
 and the swamps at the mouth of the Euphrates. \[No.
 92,687.\]](tn/001.png)  
-Click to enlarge](img/001.png)  
+Click to enlarge](img/001.png.md)  
 Babylonian map of the world, showing the ocean surrounding the world and
 making the position of Babylon on the Euphrates as its centre. It shows
 also the mountains as the source of the river, the land of Assyria,
@@ -58,4 +58,4 @@ Bît-Iakinu, and the swamps at the mouth of the Euphrates. \[No.
 
 ------------------------------------------------------------------------
 
-[Next: The Object of the Babylonian Legend of the Creation](blc03)
+[Next: The Object of the Babylonian Legend of the Creation](blc03.md)

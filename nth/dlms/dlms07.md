@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](dlms06)  [Next](dlms08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](dlms06)  [Next](dlms08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dore Lectures on Mental Science*, by Thomas Troward, \[1909\], at
 Intangible Textual Heritage
 
@@ -194,6 +194,6 @@ shall see Him as He is" (I. John iii. 2).
 
 ------------------------------------------------------------------------
 
-[Next: The Creative Power of Thought](dlms08)
+[Next: The Creative Power of Thought](dlms08.md)
 
 </div>

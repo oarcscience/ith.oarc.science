@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr22)  [Next](rhr24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr22)  [Next](rhr24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -28,12 +28,12 @@ and curious fragment of autobiography:--
 
 "I was descended from a noble family of London in
 
-<span id="img_31500"></span> ![Horoscope of John Heydon](img/31500.jpg)
+<span id="img_31500"></span> ![Horoscope of John Heydon](img/31500.jpg.md)
 
 <span class="contnote">\[paragraph continues\]</span> England, being
 born of a complete tall stature, small limbs, but in every part
 proportionable, of a dark flaxen haire, it curling as you see in the
-Effigies, <span id="fr_99"></span>[1](#fn_99) and the above figures of
+Effigies, <span id="fr_99"></span>[1](#fn_99.md) and the above figures of
 
 <span id="page_316">p. 316</span>
 
@@ -43,7 +43,7 @@ Spirit Taphza Benezelthar Thascraphimarah. I had the small pox and
 rickets very
 
 <span id="img_31600"></span> ![Taphza Benezelthar Thascraphimarah
-](img/31600.jpg)
+](img/31600.jpg.md)
 
 young--Ascendent to Conjunction, Mars, and Sol to the quartile of
 Saturn. I was at Tardebich in Warwickshire, neer Hewel, where my mother
@@ -55,7 +55,7 @@ Linacre, the minister of the Gospel at Golton; of him I learned the
 Latine and Greek perfectly, and then was fitted for Oxford. But the
 Warrs began, and the Sun came to the body of Saturn and frustrated that
 design; and whereas you are pleased to stile me a noble-natured, sweet
-gentleman, <span id="fr_100"></span>[1](#fn_100) you see my
+gentleman, <span id="fr_100"></span>[1](#fn_100.md) you see my
 nativity:--Mercury, Venus, and Saturn are strong, and by them the
 Dragon's head and Mars, I judge my behaviour full of rigour, and
 acknowledge my conversation austere. In my devotion I love to use the
@@ -106,7 +106,7 @@ bashful. Yet you may read my qualities on my countenance. About the time
 I travelled into Spain, Italy, Turkey, and Arabia, the Ascendent was
 then directed to the Trine of the Moon, Sextile of Mercury and Quartile
 of Venus. I studied philosophy and writ this treatise, <span
-id="fr_101"></span>[1](#fn_101) and the 'Temple of Wisdome,' &c.
+id="fr_101"></span>[1](#fn_101.md) and the 'Temple of Wisdome,' &c.
 Conversation, age, or travell hath not been able to affront or enrage
 me, yet I have one part of the modesty which I have seldom discovered in
 another, that is (to speak truly), I am not so much afraid of Death as
@@ -180,7 +180,7 @@ Geomancy,
 and the character of my spirit Taphzabnezeltharthaseraphimarah,
 
 <span id="img_32100"></span> ![
-Taphzabnezeltharthaseraphimarah](img/32100.jpg)
+Taphzabnezeltharthaseraphimarah](img/32100.jpg.md)
 
 projected by a learned lord for the honour (? hour) of birth. Now let
 any astrologer, geomancer, philosopher, &c., judge my geniture; the
@@ -237,7 +237,7 @@ than to consider what an odd
 
 <span id="page_323">p. 323</span>
 
-errour he hath committed. <span id="fr_102"></span>[1](#fn_102) Had the
+errour he hath committed. <span id="fr_102"></span>[1](#fn_102.md) Had the
 stars favoured me, I might have been happy in that sweet sex.
 
 "I remember also that this Quartile of Saturn imprisoned me at a
@@ -539,7 +539,7 @@ and unprofitable chaos, are matters which will scarcely interest the
 serious student. His alchemical theories and experiments belong to the
 lowest dregs of this much degraded science, except in those parts which
 are bodily stolen from Eugenius Philalethes; <span
-id="fr_103"></span>[1](#fn_103) and all that is of value in his
+id="fr_103"></span>[1](#fn_103.md) and all that is of value in his
 numerical mysticism, geomantic revelations, astromancy, and
 investigations of spiritual mysteries, is derived from anterior writers.
 His medical treatises are disfigured by his gross superstition and
@@ -567,17 +567,17 @@ appear from the following
 
 ### Footnotes
 
-<span id="fn_99"></span>[315:1](rhr23.htm#fr_99) The portraits prefixed
+<span id="fn_99"></span>[315:1](rhr23.htm#fr_99.md) The portraits prefixed
 to several of John Heydon's works represent him as a young, beardless
 man, of an amiable but melancholy countenance.
 
-<span id="fn_100"></span>[316:1](rhr23.htm#fr_100) This account is
+<span id="fn_100"></span>[316:1](rhr23.htm#fr_100.md) This account is
 addressed to the high priest or grand master of the Rosicrucians, in
 whose presence he represents himself to be standing.
 
-<span id="fn_101"></span>[318:1](rhr23.htm#fr_101) "The Holy Guide."
+<span id="fn_101"></span>[318:1](rhr23.htm#fr_101.md) "The Holy Guide."
 
-<span id="fn_102"></span>[323:1](rhr23.htm#fr_102) "I could be content
+<span id="fn_102"></span>[323:1](rhr23.htm#fr_102.md) "I could be content
 that we might procreate like trees, without conjunction, or that there
 were any way to perpetuate the world without this trivial and vulgar way
 of coition: it is the foolishest act a wise man commits in all his life,
@@ -587,10 +587,10 @@ committed. I speak not in prejudice, nor am averse from that sweet sex,
 but naturally amorous of all that is beautiful."--*Religio Medici*, pt.
 ii. sec. 9.
 
-<span id="fn_103"></span>[332:1](rhr23.htm#fr_103) Compare the "Temple
+<span id="fn_103"></span>[332:1](rhr23.htm#fr_103.md) Compare the "Temple
 of Wisdome," vol. i., last pages, with the Preface to Vaughan's
 "Euphrates," and also with the "Occult Philosophy" of Agrippa, book iv.
 
 ------------------------------------------------------------------------
 
-[Next: Apologue for an Epilogue](rhr24)
+[Next: Apologue for an Epilogue](rhr24.md)

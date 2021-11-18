@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-2-3) [Next](gjb-4)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-2-3) [Next](gjb-4.md)
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ moreover the Greek original for the veil or curtain of the temple
 made accessible for the general world of scholarship, in German
 translation, by A. Berendts, in 1906.<span
 id="page_100_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_100_note_1)
+class="small">1</span></sup>](#page_100_note_1.md)
 
    The consensus of learned opinion in Germany (and elsewhere apparently
 no notice whatever has been taken of the 'find') from the start has been
@@ -116,7 +116,7 @@ in a somewhat popular but <span id="page_101">p. 101</span> highly
 suggestive treatment, which he boldly entitled 'A New Source for the
 Earliest History of Christianity.'<span
 id="page_101_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_101_note_1) Though Seeberg's
+class="small">1</span></sup>](#page_101_note_1.md) Though Seeberg's
 reputation as a specialist on questions of origins forbade the rejection
 of his view as that of an irresponsible eccentric, no attention was paid
 to it, perhaps because he had not attempted to work out his theory in
@@ -125,7 +125,7 @@ the University of Dorpat, who had just published a very valuable and
 thorough-going study of the History of the Passion. In 1908 Frey
 produced a substantial volume,<span
 id="page_101_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_101_note_2) in which he treated the
+class="small">2</span></sup>](#page_101_note_2.md) in which he treated the
 material to an acute analysis and with minute elaboration, and in other
 respects showed a remarkable grasp of all the puzzling complexities of a
 whole series of problems which an intensive scrutiny of the passages
@@ -220,7 +220,7 @@ disposed of, or indeed in any way answered.
 > \[then\] be given them a ruler who would set them free and subject to
 > them all that is not in submission; but no one of whom we speak
 > (?),<span id="page_104_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_104_note_1) would himself be
+> class="small">1</span></sup>](#page_104_note_1.md) would himself be
 > subjected. 7. Some reviled, but others got faith.
 >
 >    8. And when he had been brought to Archelaus and the doctors of the
@@ -228,7 +228,7 @@ disposed of, or indeed in any way answered.
 > until then. 9. And to this he made answer and spake: "I am pure;
 > \[for\] the Spirit of God hath led me on, and \[I live on\] cane and
 > roots and tree-food.<span id="page_104_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_104_note_2) 10. But when they
+> class="small">2</span></sup>](#page_104_note_2.md) 10. But when they
 > threatened to put him to torture if he would not cease from those
 > words and deeds, he nevertheless said: "It is meet for you \[rather\]
 > to cease from your heinous works and cleave unto the Lord your God."
@@ -772,7 +772,7 @@ forgeries.'
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Fourth Gospel Proem](gjb-4)
+[Next: IV. The Fourth Gospel Proem](gjb-4.md)
 
 ------------------------------------------------------------------------
 
@@ -780,31 +780,31 @@ forgeries.'
 
 <span id="footnotes_page_100">p. 100</span>
 
-<span id="page_100_note_1"></span>[1](#page_100_fr_1) *'Die Zeugnisse
+<span id="page_100_note_1"></span>[1](#page_100_fr_1.md) *'Die Zeugnisse
 vom Christentum im slavischen "De bello judaico" des Josephus'—Texte und
 Untersuchtungen*, N.F. xiv. 4.
 
 <span id="footnotes_page_101">p. 101</span>
 
-<span id="page_101_note_1"></span>[1](#page_101_fr_1) '*Eine neue Quelle
+<span id="page_101_note_1"></span>[1](#page_101_fr_1.md) '*Eine neue Quelle
 zur Geschichte des Urchristentums*,' in the periodical *Reformation*,
 1906, NNr. 19 and 20.
 
-<span id="page_101_note_2"></span>[2](#page_101_fr_2) *Der slavische
+<span id="page_101_note_2"></span>[2](#page_101_fr_2.md) *Der slavische
 Josephusbericht über die urchristliche Geschichte nebst seimen
 Parallelen*, Dorpat, 1908.
 
 <span id="footnotes_page_104">p. 104</span>
 
-<span id="page_104_note_1"></span>[1](#page_104_fr_1) This is uncertain.
+<span id="page_104_note_1"></span>[1](#page_104_fr_1.md) This is uncertain.
 It seems to mean "no one who had ceased from evil works." This clause,
 however, which comes at the end of the sentence in the Slavonic, may
 belong to the next sentence; in which case it would read: "At his words
 some reviled, etc." (p. 33, n. 1).
 
-<span id="page_104_note_2"></span>[2](#page_104_fr_2) Ger. *Holzspäne*,
+<span id="page_104_note_2"></span>[2](#page_104_fr_2.md) Ger. *Holzspäne*,
 'chips,' 'shavings,'—a quite impossible meaning. It occurs again at the
-end of § III. {[p. 106](#page_106)}
+end of § III. {[p. 106](#page_106.md)}
 
  
 

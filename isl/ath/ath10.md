@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath09)  [Next](ath11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath09)  [Next](ath11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -223,7 +223,7 @@ creates also the choice, and He then creates the act corresponding to
 this power and choice. Thus the action is "acquired" by the creature.
 
 Of the categories existence is the first substratum, and to this the
-other [predicatables](errata.htm#30) \[?—JBH\] are added: none of these
+other [predicatables](errata.htm#30.md) \[?—JBH\] are added: none of these
 others are separable or per se, they can only exist in the essence. It
 is admitted that such qualities exist in the ens, but they are only
 adjuncts which come into being with the ens and go out of existence
@@ -342,7 +342,7 @@ and became an Ash‘arite,
 
 <span id="page_220">p. 220</span>
 
-and in 484 he was appointed president of the [Nazimite](errata.htm#31)
+and in 484 he was appointed president of the [Nazimite](errata.htm#31.md)
 Academy at Baghdad. Gradually, however, he became a prey to spiritual
 unrest, and in 488 resigned his post and retired to Syria, where he
 spent some years in study and the practices of devotion. In 499 he
@@ -452,7 +452,7 @@ endorsed
 
 <span id="page_224">p. 224</span>
 
-the Plotinian [terminology](errata.htm#32). Macdonald summarises his
+the Plotinian [terminology](errata.htm#32.md). Macdonald summarises his
 work under four heads: (i.) he established an orthodox mysticism: (ii.)
 he popularised the use of philosophy; (iii.) he rendered philosophy
 subordinate to theology, and (iv.) he restored the fear of God when the
@@ -492,4 +492,4 @@ consider that that school contains the best promise for modern Islam.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Western Philosophy](ath11)
+[Next: Chapter IX. Western Philosophy](ath11.md)

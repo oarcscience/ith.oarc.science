@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](ssw25) 
-[Next](ssw27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](ssw25.md) 
+[Next](ssw27.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sadi's Scroll of Wisdom*, by Arthur N. Wollaston, \[1906\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 Regard this globe, resplendent like gold,  
 The roof of which is firm without pillars!  
 Regard the curtain of the revolving sphere!  
-Regard its glittering lamps! <span id="fr_12"></span>[1](#fn_12)  
+Regard its glittering lamps! <span id="fr_12"></span>[1](#fn_12.md)  
 One is a shepherd, and another a sovereign;  
 One is a suppliant for justice, another covets a throne;  
 One is happy, and another miserable;  
@@ -74,12 +74,12 @@ To another bright daylight is as night.
 
 ### Footnotes
 
-<span id="fn_12"></span>[57:1](ssw26.htm#fr_12) The stars.
+<span id="fn_12"></span>[57:1](ssw26.htm#fr_12.md) The stars.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Against Placing Hope in Created Beings](ssw27)
+[Next: Against Placing Hope in Created Beings](ssw27.md)
 
 </div>

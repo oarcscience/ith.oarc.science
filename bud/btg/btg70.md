@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg69)  [Next](btg71) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg69)  [Next](btg71.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ inherit bliss everlasting."
 
 ------------------------------------------------------------------------
 
-[Next: Luxurious Living](btg71)
+[Next: Luxurious Living](btg71.md)

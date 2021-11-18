@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe065)  [Next](prwe067) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe065)  [Next](prwe067.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ Logan Rock, is certainly one not to be desired.
 
 ------------------------------------------------------------------------
 
-[Next: Mincamber, Main-Amber or Ambrose's Stone](prwe067)
+[Next: Mincamber, Main-Amber or Ambrose's Stone](prwe067.md)

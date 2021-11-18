@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis27)  [Next](kis29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis27)  [Next](kis29.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ hold the Crystal Egg in his hand and wish, to get all he could think of.
 
 ------------------------------------------------------------------------
 
-[Next: Part VIII](kis29)
+[Next: Part VIII](kis29.md)

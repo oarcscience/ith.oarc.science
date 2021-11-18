@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort15)  [Next](kort17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort15)  [Next](kort17.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ out in the night-time to pass water; and there (on
 <span id="page_66">p. 66</span> <span id="page_67">p. 67</span>
 
 the sea), upright blocks of ice were submerged in the water. "O
-Stone-Face! <span id="fr_28"></span>[1](#fn_28) what success have you
+Stone-Face! <span id="fr_28"></span>[1](#fn_28.md) what success have you
 had in catching fish)?" He went back into the house, "With whom have you
 been talking"' He said, "(I inquired) what success Stone-Face has had
 catching fish with a small drag-net; and they answered, 'All right!'"
@@ -76,7 +76,7 @@ first; then one of his sides fell down detached.
 
 The others climbed up. "Cook (this meat)!" (Ermine-Woman) said, "Where
 does it come from?" He said, "The Chukchee <span
-id="fr_29"></span>[2](#fn_29) passed by and left it." They began to cook
+id="fr_29"></span>[2](#fn_29.md) passed by and left it." They began to cook
 it. As soon as the (water in the) kettle began to boll, he felt unwell.
 The woman said, "What is the matter with you?" He said, "I am unwell."
 They ate the meat, and he died.
@@ -90,7 +90,7 @@ That is all.
 
 ### Footnotes
 
-<span id="fn_28"></span>[67:1](kort16.htm#fr_28) GIwIŁe' STONE-FACE.
+<span id="fn_28"></span>[67:1](kort16.htm#fr_28.md) GIwIŁe' STONE-FACE.
 Standing columns of natural rock frequent on the shore cliffs and
 mountains of these countries, also the large bowlders lying about are
 considered by the natives to be human-like beings, petrified, but still
@@ -98,12 +98,12 @@ leading a mysterious life of their own (cf. Bogoras, The Chukchee,
 Publications of the Jesup North Pacific Expedition, vol. vii, p. 285).
 Ermine-Man pretends to have seen one of these beings catching fish in
 the sea, but it was only a standing block of ice, too unstable to be
-considered as a living [being](errata.htm#2).
+considered as a living [being](errata.htm#2.md).
 
-<span id="fn_29"></span>[67:2](kort16.htm#fr_29) The Reindeer Koryak and
+<span id="fn_29"></span>[67:2](kort16.htm#fr_29.md) The Reindeer Koryak and
 the Reindeer Chukchee call each other mutually by the same name,
 Ta'nnñItan (cf. The Chukchee, *l. c.*, p. 11).
 
 ------------------------------------------------------------------------
 
-[Next: 13. Eme'mqut and the Kamaks](kort17)
+[Next: 13. Eme'mqut and the Kamaks](kort17.md)

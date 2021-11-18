@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss15)  [Next](oss17) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss15)  [Next](oss17.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,4 +220,4 @@ after the stormy winds are laid!
 
 ------------------------------------------------------------------------
 
-[Next: Croma](oss17)
+[Next: Croma](oss17.md)

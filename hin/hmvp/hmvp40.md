@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp39)  [Next](hmvp41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp39)  [Next](hmvp41.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ army associated with Rāma in the destruction of Rāvana was King
 
 <span id="img_39400"></span> <span align="CENTER">
 [![SUGRIVA.](tn/39400.jpg)  
-Click to enlarge](img/39400.jpg)  
+Click to enlarge](img/39400.jpg.md)  
 SUGRIVA.  
 </span>
 
@@ -39,7 +39,7 @@ gods to—
  In forms that change at will arrayed,  
  Of wizard skill and hero might,  
  Outstrippers of the wind in flight," <span
-id="fr_362"></span>[\*](#fn_362)</span>
+id="fr_362"></span>[\*](#fn_362.md)</span>
 
 </div>
 
@@ -50,7 +50,7 @@ sylvan forms." Of Sugriva it is said—
 
 <span class="small">               "That noblest fire,  
 The Sun, was great Sugriva's sire." <span
-id="fr_363"></span>[†](#fn_363)</span>
+id="fr_363"></span>[†](#fn_363.md)</span>
 
 </div>
 
@@ -78,12 +78,12 @@ hero:—
  Drove forth the king in woods to stray;  
  In all thy search for Sitā, he  
  Thy ready friend and help will be." <span
-id="fr_364"></span>[‡](#fn_364)</span>
+id="fr_364"></span>[‡](#fn_364.md)</span>
 
 </div>
 
 Rāma discovers his retreat, hears the story of his wrongs, promises to
-slay [Bāli](errata.htm#2), the usurper, and assist Sugriva to regain his
+slay [Bāli](errata.htm#2.md), the usurper, and assist Sugriva to regain his
 throne; Sugriva on his part
 
 <span id="page_396">p. 396</span>
@@ -91,7 +91,7 @@ throne; Sugriva on his part
 solemnly promises to aid Rāma in his search and to enable him to release
 Sitā from Rāvana's bonds. Rāma very soon fulfils his part of the
 compact. He marches with Sugriva and the others to Bāli's city; Sugriva
-challenges [Bāli](errata.htm#3) to fight, and just as he is getting the
+challenges [Bāli](errata.htm#3.md) to fight, and just as he is getting the
 worst of it, Rāma lets fly his arrow, which gives Bāli his mortal wound.
 Ere this chief dies, he strongly reproves Rāma for slaying one who had
 never harmed him and for slaying him too in a secret and cowardly
@@ -109,10 +109,10 @@ manner. He asks—
  And thought not of a stranger's blow.  
  But now thine evil heart is shown,  
  A yawning well, with grass o’ergrown.  
- Thou wearest virtue's badge, <span id="fr_365"></span>[\*](#fn_365) but
+ Thou wearest virtue's badge, <span id="fr_365"></span>[\*](#fn_365.md) but
 guile  
  And meanest sin thy soul defile." <span
-id="fr_366"></span>[†](#fn_366)</span>
+id="fr_366"></span>[†](#fn_366.md)</span>
 
 </div>
 
@@ -132,7 +132,7 @@ in search of Sita,
 
 <span id="img_39700"></span> <span align="CENTER"> [![MONKEYS
 CONSTRUCTING THE BRIDGE AT LANKA.](tn/39700.jpg)  
-Click to enlarge](img/39700.jpg)  
+Click to enlarge](img/39700.jpg.md)  
 MONKEYS CONSTRUCTING THE BRIDGE AT LANKA.  
 </span>
 
@@ -170,7 +170,7 @@ city of the foe than
  Again in furious fight they met;  
  With streams of blood their limbs were wet,  
  Each grasping his opponent's waist." <span
-id="fr_367"></span>[\*](#fn_367)</span>
+id="fr_367"></span>[\*](#fn_367.md)</span>
 
 </div>
 
@@ -194,7 +194,7 @@ continues\]</span>  Gained with light leap the upper air,
  And breath, and strength, and spirit there;  
  Then, joyous as for victory won,  
  Returned to Raghu's royal son." <span
-id="fr_368"></span>[\*](#fn_368)</span>
+id="fr_368"></span>[\*](#fn_368.md)</span>
 
 </div>
 
@@ -212,7 +212,7 @@ may be gained from the fact that
  Some Vānars still their lives could save;  
  Some through his nostrils found a way,  
  Some through his ears resought the day." <span
-id="fr_369"></span>[†](#fn_369)</span>
+id="fr_369"></span>[†](#fn_369.md)</span>
 
 </div>
 
@@ -224,7 +224,7 @@ now he attacks Sugriva, who hurled a hill at him, but
 <div style="margin-left: 32px">
 
 <span class="small">"The giant's chest the stroke repelled." <span
-id="fr_370"></span>[‡](#fn_370)</span>
+id="fr_370"></span>[‡](#fn_370.md)</span>
 
 </div>
 
@@ -241,7 +241,7 @@ flew, and broke it across his knee. Then
  The giant stooped his foe to seize,  
  And bore him thence, as bears the breeze  
  A cloud in autumn through the sky." <span
-id="fr_371"></span>[§](#fn_371)</span>
+id="fr_371"></span>[§](#fn_371.md)</span>
 
 </div>
 
@@ -265,7 +265,7 @@ triumph was of short duration, for
  Swift to the sky the Vānar rose,  
  Then lightly, like a flying ball,  
  High overleapt the city wall." <span
-id="fr_372"></span>[\*](#fn_372)</span>
+id="fr_372"></span>[\*](#fn_372.md)</span>
 
 </div>
 
@@ -289,7 +289,7 @@ now attacked Sugriva;
  Raised his huge hand and smote his foe,  
  And in the dust the giant lay,  
  Gasping in blood his soul away." <span
-id="fr_373"></span>[†](#fn_373)</span>
+id="fr_373"></span>[†](#fn_373.md)</span>
 
 </div>
 
@@ -352,7 +352,7 @@ expedition to Ceylon, was the son of Vāyu, by a Vānar or monkey mother.
 
 <span id="img_40200"></span> <span align="CENTER">
 [![HANUMAN.](tn/40200.jpg)  
-Click to enlarge](img/40200.jpg)  
+Click to enlarge](img/40200.jpg.md)  
 HANUMAN.  
 </span>
 
@@ -376,7 +376,7 @@ HANUMAN.
 <span class="small"><span class="contnote">\[paragraph
 continues\]</span>  Thus spoke the god: the conquered dame  
  Rejoiced in heart, nor feared the shame." <span
-id="fr_374"></span>[\*](#fn_374)</span>
+id="fr_374"></span>[\*](#fn_374.md)</span>
 
 </div>
 
@@ -423,7 +423,7 @@ power:
 <span class="small"><span class="contnote">\[paragraph
 continues\]</span>  And reach him ere his course be sped,  
  With burning beams engarlanded." <span
-id="fr_375"></span>[\*](#fn_375)</span>
+id="fr_375"></span>[\*](#fn_375.md)</span>
 
 </div>
 
@@ -432,7 +432,7 @@ and his brother were wounded in the fight, and nothing else could
 restore them, Hanumān fled to the Himalayas from Ceylon, and returned
 almost immediately with the medicinal herbs that grew there, though, on
 reaching the hills, he had some difficulty <span
-id="fr_376"></span>[†](#fn_376) in finding them:
+id="fr_376"></span>[†](#fn_376.md) in finding them:
 
 <div style="margin-left: 32px">
 
@@ -463,13 +463,13 @@ id="fr_376"></span>[†](#fn_376) in finding them:
  The sons of Raghu lived again;  
  And dead and dying Vānars, healed,  
  Rose vigorous from the battle-field." <span
-id="fr_377"></span>[\*](#fn_377)</span>
+id="fr_377"></span>[\*](#fn_377.md)</span>
 
 </div>
 
 <span class="contnote">\[paragraph continues\]</span> Hanumān is
 described in the "Uttara Kānda" of the Rāmāyana, <span
-id="fr_378"></span>[†](#fn_378) as a being possessed of great learning.
+id="fr_378"></span>[†](#fn_378.md) as a being possessed of great learning.
 "The chief of the monkeys, measureless, seeking to acquire grammar,
 looking up to the sun, bent on inquiry, go went from the mountain where
 the sun rises to that where he sets, apprehending the mighty collection.
@@ -491,7 +491,7 @@ he came to the exile as Sugriva's envoy:
  All grammar's varied rules to hear.  
  For his long speech how well he spoke!  
  In all its length no rule he broke." <span
-id="fr_379"></span>[‡](#fn_379)</span>
+id="fr_379"></span>[‡](#fn_379.md)</span>
 
 </div>
 
@@ -502,7 +502,7 @@ to feed them, and a sacrilegious act to injure them.
 
 <span id="page_406">p. 406</span>
 
-##### 3. NALA. <span id="fr_380"></span>[\*](#fn_380)
+##### 3. NALA. <span id="fr_380"></span>[\*](#fn_380.md)
 
 Nala, another of the monkey chiefs, was a son of Visvakarma; and as the
 son of the architect of the gods, the builder of their beautiful cities,
@@ -528,7 +528,7 @@ thus addressed him:
  An easy passage o’er the tide,  
  And like a city's paven street  
  Shall be the road beneath thy feet." <span
-id="fr_381"></span>[†](#fn_381)</span>
+id="fr_381"></span>[†](#fn_381.md)</span>
 
 </div>
 
@@ -554,7 +554,7 @@ continues\]</span>  Who, born of one of Vānar race,
  Call Nala to perform his part,  
  And he, divinely taught and skilled,  
  A bridge athwart the sea shall build." <span
-id="fr_382"></span>[\*](#fn_382)</span>
+id="fr_382"></span>[\*](#fn_382.md)</span>
 
 </div>
 
@@ -572,7 +572,7 @@ will complete it, said—
  Thine ear with praises of my skill?  
  Command the Vānar hosts to lay  
  Foundations for the bridge to-day." <span
-id="fr_383"></span>[†](#fn_383)</span>
+id="fr_383"></span>[†](#fn_383.md)</span>
 
 </div>
 
@@ -616,7 +616,7 @@ the bridge:
  The whole stupendous work was done.  
  O’er the broad way the Vānars sped,  
  Nor swayed it with their countless tread." <span
-id="fr_384"></span>[\*](#fn_384)</span>
+id="fr_384"></span>[\*](#fn_384.md)</span>
 
 </div>
 
@@ -629,7 +629,7 @@ This chief is said to have sprung from Agni, and is described as
 <span class="small">                     "Bright as flame,  
  Who in his splendour, might, and worth,  
  Surpassed the sire who gave him birth." <span
-id="fr_385"></span>[†](#fn_385)</span>
+id="fr_385"></span>[†](#fn_385.md)</span>
 
 </div>
 
@@ -655,7 +655,7 @@ said—
 
 <span class="small">"Two hundred thousand of our best  
  With thee, my lord, shall seek the West." <span
-id="fr_386"></span>[\*](#fn_386)</span>
+id="fr_386"></span>[\*](#fn_386.md)</span>
 
 </div>
 
@@ -672,7 +672,7 @@ other unsuccessful leaders returned to Rāma and Sugriva, and said—
  The tangled thicket and the waste,  
  And dens and dingles hard to pass  
  For creeping plants and matted grass." <span
-id="fr_387"></span>[†](#fn_387)</span>
+id="fr_387"></span>[†](#fn_387.md)</span>
 
 </div>
 
@@ -723,7 +723,7 @@ continues\]</span>  So fiercely fought the demon crew,
  Looks down upon the milky deep.  
  Let fleet Hanumān bring us thence,  
  Those herbs of wondrous influence." <span
-id="fr_388"></span>[\*](#fn_388)</span>
+id="fr_388"></span>[\*](#fn_388.md)</span>
 
 </div>
 
@@ -736,43 +736,43 @@ with renewed vigour.
 
 ### Footnotes
 
-<span id="fn_362"></span>[395:\*](hmvp40.htm#fr_362) Griffiths's
+<span id="fn_362"></span>[395:\*](hmvp40.htm#fr_362.md) Griffiths's
 "Rāmāyana," i. 92.
 
-<span id="fn_363"></span>[395:†](hmvp40.htm#fr_363) Ibid., i. 93.
+<span id="fn_363"></span>[395:†](hmvp40.htm#fr_363.md) Ibid., i. 93.
 
-<span id="fn_364"></span>[395:‡](hmvp40.htm#fr_364) Ibid., iii. 337.
+<span id="fn_364"></span>[395:‡](hmvp40.htm#fr_364.md) Ibid., iii. 337.
 
-<span id="fn_365"></span>[396:\*](hmvp40.htm#fr_365) The dress of a
+<span id="fn_365"></span>[396:\*](hmvp40.htm#fr_365.md) The dress of a
 hermit.
 
-<span id="fn_366"></span>[396:†](hmvp40.htm#fr_366) Griffiths's
+<span id="fn_366"></span>[396:†](hmvp40.htm#fr_366.md) Griffiths's
 "Rāmāyana," iv. 91.
 
-<span id="fn_367"></span>[398:\*](hmvp40.htm#fr_367) Griffiths's
+<span id="fn_367"></span>[398:\*](hmvp40.htm#fr_367.md) Griffiths's
 "Rāmāyana," v. 121.
 
-<span id="fn_368"></span>[399:\*](hmvp40.htm#fr_368) Griffiths's
+<span id="fn_368"></span>[399:\*](hmvp40.htm#fr_368.md) Griffiths's
 "Rāmāyana," v. 122.
 
-<span id="fn_369"></span>[399:†](hmvp40.htm#fr_369) Ibid., v. 197.
+<span id="fn_369"></span>[399:†](hmvp40.htm#fr_369.md) Ibid., v. 197.
 
-<span id="fn_370"></span>[399:‡](hmvp40.htm#fr_370) Ibid., v. 198.
+<span id="fn_370"></span>[399:‡](hmvp40.htm#fr_370.md) Ibid., v. 198.
 
-<span id="fn_371"></span>[399:§](hmvp40.htm#fr_371) Ibid., v. 199.
+<span id="fn_371"></span>[399:§](hmvp40.htm#fr_371.md) Ibid., v. 199.
 
-<span id="fn_372"></span>[400:\*](hmvp40.htm#fr_372) Griffiths's
+<span id="fn_372"></span>[400:\*](hmvp40.htm#fr_372.md) Griffiths's
 "Rāmāyana," v. 199.
 
-<span id="fn_373"></span>[400:†](hmvp40.htm#fr_373) Ibid., v. 229.
+<span id="fn_373"></span>[400:†](hmvp40.htm#fr_373.md) Ibid., v. 229.
 
-<span id="fn_374"></span>[403:\*](hmvp40.htm#fr_374) Griffiths's
+<span id="fn_374"></span>[403:\*](hmvp40.htm#fr_374.md) Griffiths's
 "Rāmāyana," iv. 272.
 
-<span id="fn_375"></span>[404:\*](hmvp40.htm#fr_375) Griffiths's
+<span id="fn_375"></span>[404:\*](hmvp40.htm#fr_375.md) Griffiths's
 "Rāmāyana," iv. 275.
 
-<span id="fn_376"></span>[404:†](hmvp40.htm#fr_376) In seeking for these
+<span id="fn_376"></span>[404:†](hmvp40.htm#fr_376.md) In seeking for these
 leaves, Hanumān was exposed to considerable danger. Kālanemi, an uncle
 of Rāvana, was promised the half of the kingdom if he would slay
 Hanumān. To effect this, he went to the Himalayas and, disguised as a
@@ -786,42 +786,42 @@ telling him that he saw through his disguise, took him by the feet, and
 whirled him through the air to Lanka, where he fell before the throne in
 Rāvana's palace.
 
-<span id="fn_377"></span>[405:\*](hmvp40.htm#fr_377) Griffiths's
+<span id="fn_377"></span>[405:\*](hmvp40.htm#fr_377.md) Griffiths's
 "Rāmāyana," iv. 225.
 
-<span id="fn_378"></span>[405:†](hmvp40.htm#fr_378) Muir, O. S. T., iv.
+<span id="fn_378"></span>[405:†](hmvp40.htm#fr_378.md) Muir, O. S. T., iv.
 490.
 
-<span id="fn_379"></span>[405:‡](hmvp40.htm#fr_379) Griffiths's
+<span id="fn_379"></span>[405:‡](hmvp40.htm#fr_379.md) Griffiths's
 "Rāmāyana," iv. 25.
 
-<span id="fn_380"></span>[406:\*](hmvp40.htm#fr_380) This Nala must not
+<span id="fn_380"></span>[406:\*](hmvp40.htm#fr_380.md) This Nala must not
 be confounded with another person of the same name, whose history is
 given in the Mahābhārata. Nala of the Mahābhārata was King of Nishadha,
 the husband of Damayanti, whom he obtained in marriage, although Indra,
 Agni, Varuna, and Yama were amongst the suitors for her hand.
 
-<span id="fn_381"></span>[406:†](hmvp40.htm#fr_381) Griffiths's
+<span id="fn_381"></span>[406:†](hmvp40.htm#fr_381.md) Griffiths's
 "Rāmāyana," v. 66.
 
-<span id="fn_382"></span>[407:\*](hmvp40.htm#fr_382) Griffiths's
+<span id="fn_382"></span>[407:\*](hmvp40.htm#fr_382.md) Griffiths's
 "Rāmāyana," v. 67.
 
-<span id="fn_383"></span>[407:†](hmvp40.htm#fr_383) Ibid., v. 68.
+<span id="fn_383"></span>[407:†](hmvp40.htm#fr_383.md) Ibid., v. 68.
 
-<span id="fn_384"></span>[408:\*](hmvp40.htm#fr_384) Griffiths's
+<span id="fn_384"></span>[408:\*](hmvp40.htm#fr_384.md) Griffiths's
 "Rāmāyana," v. 68.
 
-<span id="fn_385"></span>[408:†](hmvp40.htm#fr_385) Ibid., v. 94.
+<span id="fn_385"></span>[408:†](hmvp40.htm#fr_385.md) Ibid., v. 94.
 
-<span id="fn_386"></span>[409:\*](hmvp40.htm#fr_386) Griffiths's
+<span id="fn_386"></span>[409:\*](hmvp40.htm#fr_386.md) Griffiths's
 "Rāmāyana," iv. 208.
 
-<span id="fn_387"></span>[409:†](hmvp40.htm#fr_387) Ibid., iv. 224.
+<span id="fn_387"></span>[409:†](hmvp40.htm#fr_387.md) Ibid., iv. 224.
 
-<span id="fn_388"></span>[410:\*](hmvp40.htm#fr_388) Griffiths's
+<span id="fn_388"></span>[410:\*](hmvp40.htm#fr_388.md) Griffiths's
 "Rāmāyana," v. 152.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Demigods of the Mahābhārata](hmvp41)
+[Next: Chapter IV. The Demigods of the Mahābhārata](hmvp41.md)

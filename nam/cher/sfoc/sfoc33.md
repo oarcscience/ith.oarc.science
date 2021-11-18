@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc32)  [Next](sfoc34) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc32)  [Next](sfoc34.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ fire on the hearth.
 
 ------------------------------------------------------------------------
 
-[Next: To Treat the Great Chill](sfoc34)
+[Next: To Treat the Great Chill](sfoc34.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar027) [Next](gbar029)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar027) [Next](gbar029.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Abraham escaped death.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar029)
+[Next](gbar029.md)
 
  
 

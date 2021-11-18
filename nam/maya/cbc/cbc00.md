@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index)  [Next](cbc01) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index)  [Next](cbc01.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ American](../../index)  [Maya](../index)  [Index](index)  [Next](cbc01) 
 
 ------------------------------------------------------------------------
 
-[Next: Preface](cbc01)
+[Next: Preface](cbc01.md)

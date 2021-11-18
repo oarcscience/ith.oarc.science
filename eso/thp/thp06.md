@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](thp05) 
-[Next](thp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](thp05.md) 
+[Next](thp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766100413/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ mental state which, for want of a better word, we may call our emotional
 conception of ourselves. It is the "self" which we *feel* ourselves to
 be which takes forms of our own creating. For this reason our thought
 must be so grounded upon knowledge that we shall feel
-[the](errata.htm#0) truth of it, and thus be able to produce in
+[the](errata.htm#0.md) truth of it, and thus be able to produce in
 ourselves that mental attitude of feeling which corresponds to the
 condition which we desire to externalise.
 
@@ -116,4 +116,4 @@ from you because you know them to be part and parcel of your own being.
 
 ------------------------------------------------------------------------
 
-[Next: V. Submission](thp07)
+[Next: V. Submission](thp07.md)

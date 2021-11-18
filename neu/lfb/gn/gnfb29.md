@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb28)  [Next](gnfb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb28)  [Next](gnfb30.md) 
 
 </div>
 
@@ -103,6 +103,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: Allerleirauh; or, the Many-Furred Creature](gnfb30)
+[Next: Allerleirauh; or, the Many-Furred Creature](gnfb30.md)
 
 </div>

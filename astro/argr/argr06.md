@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](argr05)  [Next](argr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](argr05)  [Next](argr07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Astrology and Religion Among the Greeks and Romans*, by Franz Cumont,
 \[1912\], at Intangible Textual Heritage
 
@@ -76,7 +76,7 @@ conception.</span>
 
 <span class="contnote">\[paragraph continues\]</span> It furnishes the
 key to the interpretation of Homer as well as of the Bible. <span
-id="fr_4"></span>[1](#fn_4) In particular, all the Old Testament should
+id="fr_4"></span>[1](#fn_4.md) In particular, all the Old Testament should
 be explained by a series of sidereal myths. The patriarchs are
 "personifications of the sun or moon," and the traditions of the Sacred
 Books are "variations of certain 'motifs,' whose real significance is to
@@ -85,7 +85,7 @@ be found only when they are transferred to phenomena in the heavens."
 Such is a wholly impartial summary of the theories professed by the
 advocates of the *Altorientalische Weltanschauung*. I borrow it, with
 slight abbreviation, from an address delivered by Morris Jastrow, Jr.,
-at the Oxford Congress in 1908. <span id="fr_5"></span>[2](#fn_5) Now of
+at the Oxford Congress in 1908. <span id="fr_5"></span>[2](#fn_5.md) Now of
 this system. it may be said that what is true in it is not new, and what
 is new is not true. That Babylon was the mother of astronomy,
 star-worship, and astrology, that thence these sciences and these
@@ -111,7 +111,7 @@ equinoxes been brought into the religious cosmology of the East! But
 what becomes of all these symbolical explanations, if the fact be
 established that the Orientals never had a suspicion of this famous
 precession before the genius of Hipparchus discovered it? <span
-id="fr_6"></span>[1](#fn_6) Just as the dreams of Dupuis vanished when
+id="fr_6"></span>[1](#fn_6.md) Just as the dreams of Dupuis vanished when
 the date of the Egyptian zodiacs was settled, so the Babylonian mirage
 was dispelled when scholars advanced methodically through the desert of
 cuneiform inscriptions and determined the date when astronomy began to
@@ -129,7 +129,7 @@ result of a long process of speculative reasoning carried on in
 restricted learned circles. Even astrology, which the theory presupposes
 as a foundation, is not a product of primitive popular fancies but is
 rather an advanced scientific hypothesis." <span
-id="fr_7"></span>[2](#fn_7) In this first lecture, then, we shall have
+id="fr_7"></span>[2](#fn_7.md) In this first lecture, then, we shall have
 to begin by asking ourselves at what date a scientific astronomy and
 astrology were developed at Babylon, and then proceed to examine how
 they led to the formation of
@@ -144,7 +144,7 @@ character.
 Let us consult, the historians of astronomy. The original documents of
 Chaldean erudition have been deciphered and published during these last
 twenty years mainly by the industry of Strassmaier and Kugler, <span
-id="fr_8"></span>[1](#fn_8) and we are able to-day to realise to some
+id="fr_8"></span>[1](#fn_8.md) and we are able to-day to realise to some
 extent what knowledge the Babylonians possessed at different periods.
 
 Now here is one first discovery pregnant with consequences: before the
@@ -186,7 +186,7 @@ tables. Farther back there was no certainty in regard to the calculation
 of time. It is from that moment that the records of eclipses begin which
 Ptolemy used, and which are still sometimes employed by men of science
 for the purpose of testing their lunar theories. The oldest is dated
-March 21, 721 B.C. <span id="fr_9"></span>[1](#fn_9)
+March 21, 721 B.C. <span id="fr_9"></span>[1](#fn_9.md)
 
 For the period of the Sargonides, who reigned over Nineveh from the year
 722, the documents of the famous library of Ashurbanapal, and especially
@@ -297,7 +297,7 @@ previously impossible. But for several centuries the development of the
 two sciences went on side by side in East and West, and to a large
 extent independently. It would now be impossible to say to whom amongst
 the Greeks or the Babylonians belongs the credit of certain
-discoveries. <span id="fr_10"></span>[1](#fn_10) But it is the peculiar
+discoveries. <span id="fr_10"></span>[1](#fn_10.md) But it is the peculiar
 distinction of the Chaldeans that they made *religion* profit by these
 new conceptions and based upon them a learned theology. In Greece
 science always remained laic, in Chaldea it was sacerdotal.
@@ -422,7 +422,7 @@ antiquity, has remarked that "the tendency which dominates the whole
 Babylonian astronomy is to discover all that is periodic in celestial
 phenomena, and to reduce it to a numerical expression in such a manner
 as to be able to *predict* its repetition in the future." <span
-id="fr_11"></span>[1](#fn_11) The scientific discoveries which were made
+id="fr_11"></span>[1](#fn_11.md) The scientific discoveries which were made
 from the Assyrian period onwards enabled astrologers, as we have seen,
 to foresee certain events with an absolute certainty which no other kind
 of prognostication attained. An endless perspective reaching far into
@@ -438,7 +438,7 @@ lost the flavour of the school, but which
 <span id="page_14">p. 14</span>
 
 nevertheless permeated the entire Babylonian religion, and at least in
-part transformed it." <span id="fr_12"></span>[1](#fn_12)
+part transformed it." <span id="fr_12"></span>[1](#fn_12.md)
 
 The development of the old Babylonian religion bears no relation to
 astronomical theories. It was rather political circumstances which gave
@@ -463,7 +463,7 @@ astral principle in this grouping. Prof. Jastrow, the best judge in
 these matters, does not hesitate to regard the truly sidereal cult,
 which grew up at Babylon under the influence of the learned theories
 developed by the priestly caste, as *a new religion*. I quote his
-words: <span id="fr_13"></span>[2](#fn_13)
+words: <span id="fr_13"></span>[2](#fn_13.md)
 
 <span class="small">The Star-worship which developed in Babylon and
 Assyria in connection with the science of the observation of the heavens
@@ -529,8 +529,8 @@ establishing itself in the sixth century B.C., during the period of the
 short-lived glory of the second Babylonian empire, and after its fall,
 when new ideas derived from East and West were introduced, first by the
 Persians and afterwards by the Greeks, into the valley of the
-Euphrates. <span id="fr_14"></span>[1](#fn_14) If, as we shall
-show, <span id="fr_15"></span>[2](#fn_15) the Platonic dialogue, the
+Euphrates. <span id="fr_14"></span>[1](#fn_14.md) If, as we shall
+show, <span id="fr_15"></span>[2](#fn_15.md) the Platonic dialogue, the
 *Epinomis*, is inspired by this religion, it had already formulated some
 of its chief dogmas before the fourth century. The essential
 characteristics of its theology are known to us, not from native texts,
@@ -541,7 +541,7 @@ all the inhabitants of Chaldea, that is, lower Mesopotamia, and next the
 members of the Babylonian priesthood. Thus at the period of the
 Achamenid kings, in the official processions of Babylon, there walked
 first the magi, as Quintus Curtius states, <span
-id="fr_16"></span>[3](#fn_16) that is to say the Persian priests
+id="fr_16"></span>[3](#fn_16.md) that is to say the Persian priests
 established in the conquered capital, then the *Chaldaei*, that is the
 native sacerdotal body. Later the epithet Χαλδαῖος was applied as a
 title of honour to the Greeks who had studied in the Babylonian schools
@@ -555,7 +555,7 @@ of the antiquity,
 <span id="page_17">p. 17</span>
 
 or an undue depreciation of the worth, of the data furnished us by
-Diodorus Siculus, <span id="fr_17"></span>[1](#fn_17) Philo of
+Diodorus Siculus, <span id="fr_17"></span>[1](#fn_17.md) Philo of
 Alexandria, and other writers on the religious and cosmic system of the
 "Chaldeans." These pieces of information, as might be expected, are of
 value only for the period immediately preceding these authors. They
@@ -699,7 +699,7 @@ The Chaldeans admitted, it appears, that the principle of life, which
 warms and animates the human body, was of the same essence as the fires
 of heaven. From these the soul received its qualities at birth, and at
 that moment the stars determined its fate here below. <span
-id="fr_18"></span>[1](#fn_18) Intelligence was divine, and allowed the
+id="fr_18"></span>[1](#fn_18.md) Intelligence was divine, and allowed the
 soul to enter into relations with the gods above. By contemplating the
 stars the faithful received from them the revelation of all knowledge as
 well as all prescience. The priestly astrologers were always to some
@@ -710,7 +710,7 @@ conceived the idea that after death pious souls re-ascend
 <span id="page_21">p. 21</span>
 
 to the divine stars, whence they came, and in this celestial abode
-obtain a glorious immortality. <span id="fr_19"></span>[1](#fn_19)
+obtain a glorious immortality. <span id="fr_19"></span>[1](#fn_19.md)
 
 To sum up, at the moment when the Greeks conquered Mesopotamia under
 Alexander, they found above a deep substratum of mythology a learned
@@ -725,62 +725,62 @@ philosophy.
 
 ### Footnotes
 
-<span id="fn_4"></span>[4:1](argr06.htm#fr_4) See e.g. Fries, *Studien
+<span id="fn_4"></span>[4:1](argr06.htm#fr_4.md) See e.g. Fries, *Studien
 zur Odyssee* (Mitt. Vorderasiat. Gesellschaft), 1910.
 
-<span id="fn_5"></span>[4:2](argr06.htm#fr_5) *Transactions of the Third
+<span id="fn_5"></span>[4:2](argr06.htm#fr_5.md) *Transactions of the Third
 International Congress for the History of Religions*. Oxford, 1908, i,
 p. 234; cf. Jastrow, *Die Religion Babyloniens and Assyriens*, ii
 (1910), p. 432.
 
-<span id="fn_6"></span>[5:1](argr06.htm#fr_6) See below, Lecture II, [p.
-34](argr07.htm#page_34).
+<span id="fn_6"></span>[5:1](argr06.htm#fr_6.md) See below, Lecture II, [p.
+34](argr07.htm#page_34.md).
 
-<span id="fn_7"></span>[5:2](argr06.htm#fr_7) Jastrow, *l.c.*, p.
+<span id="fn_7"></span>[5:2](argr06.htm#fr_7.md) Jastrow, *l.c.*, p.
 236.--Since this lecture was written, an excellent paper on this subject
 has been published by Carl Bezold, *Astronomie, Himmelschau and
 Astrallehre bei den Babyloniern* (Sitzungsb. Akad. Heidelberg, 1911,
 Abh. No. 2).
 
-<span id="fn_8"></span>[6:1](argr06.htm#fr_8) F. X. Kugler, S. J., *Die
+<span id="fn_8"></span>[6:1](argr06.htm#fr_8.md) F. X. Kugler, S. J., *Die
 Babylonische Mondrechnung*, 1900, and *Sternkunde and Sterndienst in
 Babel*, 1907--1909 (in progress). A clear and able resume of Kugler's
-researches has been given by Schiaparelli; see below, [p. 13](#page_13).
+researches has been given by Schiaparelli; see below, [p. 13](#page_13.md).
 
-<span id="fn_9"></span>[7:1](argr06.htm#fr_9) One of these eclipses is
+<span id="fn_9"></span>[7:1](argr06.htm#fr_9.md) One of these eclipses is
 noted both in Ptolemy's *Almagest* and in a cuneiform tablet, see Boll,
 in Pauly-Wissowa's *Realencyclopädie*, s. v. "Finsternisse," col. 2354.
 
-<span id="fn_10"></span>[10:1](argr06.htm#fr_10) See below, Lecture II,
-[p. 26](argr07.htm#page_26), on the cycle of Meton.
+<span id="fn_10"></span>[10:1](argr06.htm#fr_10.md) See below, Lecture II,
+[p. 26](argr07.htm#page_26.md), on the cycle of Meton.
 
-<span id="fn_11"></span>[13:1](argr06.htm#fr_11) Schiaparelli, *I
+<span id="fn_11"></span>[13:1](argr06.htm#fr_11.md) Schiaparelli, *I
 Primordi ed i Progressi dell’ Astronomia presso i Babilonesi* (Extr. of
 "Scientia," Rivista di Scienza, iii), Bologna, 1908, p. 22.
 
-<span id="fn_12"></span>[14:1](argr06.htm#fr_12) Jastrow, Die Religion
+<span id="fn_12"></span>[14:1](argr06.htm#fr_12.md) Jastrow, Die Religion
 Babyloniens and Assyriens, ii, p. 432.
 
-<span id="fn_13"></span>[14:2](argr06.htm#fr_13) Jastrow, op. cit., ii,
+<span id="fn_13"></span>[14:2](argr06.htm#fr_13.md) Jastrow, op. cit., ii,
 p. 455.
 
-<span id="fn_14"></span>[16:1](argr06.htm#fr_14) Jastrow, *l.c.*
+<span id="fn_14"></span>[16:1](argr06.htm#fr_14.md) Jastrow, *l.c.*
 
-<span id="fn_15"></span>[16:2](argr06.htm#fr_15) See below, Lecture II,
-[p. 28](argr07.htm#page_28).
+<span id="fn_15"></span>[16:2](argr06.htm#fr_15.md) See below, Lecture II,
+[p. 28](argr07.htm#page_28.md).
 
-<span id="fn_16"></span>[16:3](argr06.htm#fr_16) Quint. Curtius, v, 1,
+<span id="fn_16"></span>[16:3](argr06.htm#fr_16.md) Quint. Curtius, v, 1,
 22.
 
-<span id="fn_17"></span>[17:1](argr06.htm#fr_17) Diodor. Sic., ii,
+<span id="fn_17"></span>[17:1](argr06.htm#fr_17.md) Diodor. Sic., ii,
 29--31; Philo, *De Migr. Abrah.*, 32; *Quis Rerum div. Heres sit*, 20
 etc.
 
-<span id="fn_18"></span>[20:1](argr06.htm#fr_18) See below, Lecture II,
-[p. 31](argr07.htm#page_31).
+<span id="fn_18"></span>[20:1](argr06.htm#fr_18.md) See below, Lecture II,
+[p. 31](argr07.htm#page_31.md).
 
-<span id="fn_19"></span>[21:1](argr06.htm#fr_19) See below, Lecture VI.
+<span id="fn_19"></span>[21:1](argr06.htm#fr_19.md) See below, Lecture VI.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture II. Babylon and Greece](argr07)
+[Next: Lecture II. Babylon and Greece](argr07.md)

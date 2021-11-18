@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk22)  [Next](htk24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk22)  [Next](htk24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -27,16 +27,16 @@ at Intangible Textual Heritage
 
 ### VERSE 19
 
-O DARK One, <span id="fr_141"></span>[1](#fn_141) wondrous and excelling
-in every way, <span id="fr_142"></span>[2](#fn_142) becomes the
-accomplishment, <span id="fr_143"></span>[3](#fn_143) of those
-worshippers <span id="fr_144"></span>[4](#fn_144) who living in this
-world <span id="fr_145"></span>[5](#fn_145) freely make offering to Thee
-in worship <span id="fr_146"></span>[6](#fn_146) of the greatly <span
-id="fr_147"></span>[7](#fn_147) satisfying flesh, together with hair and
-bone, <span id="fr_148"></span>[8](#fn_148) of cats, camels,
-sheep, <span id="fr_149"></span>[9](#fn_149) buffaloes, goats, and
-men. <span id="fr_150"></span>[10](#fn_150)
+O DARK One, <span id="fr_141"></span>[1](#fn_141.md) wondrous and excelling
+in every way, <span id="fr_142"></span>[2](#fn_142.md) becomes the
+accomplishment, <span id="fr_143"></span>[3](#fn_143.md) of those
+worshippers <span id="fr_144"></span>[4](#fn_144.md) who living in this
+world <span id="fr_145"></span>[5](#fn_145.md) freely make offering to Thee
+in worship <span id="fr_146"></span>[6](#fn_146.md) of the greatly <span
+id="fr_147"></span>[7](#fn_147.md) satisfying flesh, together with hair and
+bone, <span id="fr_148"></span>[8](#fn_148.md) of cats, camels,
+sheep, <span id="fr_149"></span>[9](#fn_149.md) buffaloes, goats, and
+men. <span id="fr_150"></span>[10](#fn_150.md)
 
 COMMENTARY
 
@@ -93,34 +93,34 @@ Sālokya and other forms of liberation.
 
 ### Footnotes
 
-<span id="fn_141"></span>[89:1](htk23.htm#fr_141) Asitā: That is Kālikā
+<span id="fn_141"></span>[89:1](htk23.htm#fr_141.md) Asitā: That is Kālikā
 v. *post*.
 
-<span id="fn_142"></span>[89:2](htk23.htm#fr_142) *Pratipadam*. The
+<span id="fn_142"></span>[89:2](htk23.htm#fr_142.md) *Pratipadam*. The
 Śyāmarahasya-sārasaṁgraha reads *pratidinam* (every day) (K.B.), which
 seems preferable, for, as K.B. says, the worship (*pūjā*) is the general
 daily *pūjā*, upon which daily advancement in *siddhi* would follow.
 
-<span id="fn_143"></span>[89:3](htk23.htm#fr_143) *Siddhi*: success in
+<span id="fn_143"></span>[89:3](htk23.htm#fr_143.md) *Siddhi*: success in
 work; accomplishment of all which is desired (V).
 
-<span id="fn_144"></span>[89:4](htk23.htm#fr_144) *Sat*, that is,
+<span id="fn_144"></span>[89:4](htk23.htm#fr_144.md) *Sat*, that is,
 *sādhu* (wise, good, pious). *Satāṁ* = *Sādhakānām* (V).
 
-<span id="fn_145"></span>[89:5](htk23.htm#fr_145) That is, among men.
+<span id="fn_145"></span>[89:5](htk23.htm#fr_145.md) That is, among men.
 
-<span id="fn_146"></span>[89:6](htk23.htm#fr_146) *Pūjāyāṁ api* (see
-note [2](#fn_142)), *ante*.
+<span id="fn_146"></span>[89:6](htk23.htm#fr_146.md) *Pūjāyāṁ api* (see
+note [2](#fn_142).md), *ante*.
 
 *Pūjāyāṁ*: *Naimittika* or occasional worship (V). The force of the
 particle *api* is that the offering is not confined to special *Sādhanā*
 but is made in ordinary worship also. (K.B.)
 
-<span id="fn_147"></span>[89:7](htk23.htm#fr_147) *Param* (K.B.).
+<span id="fn_147"></span>[89:7](htk23.htm#fr_147) *Param* (K.B..md).
 
-<span id="fn_148"></span>[89:8](htk23.htm#fr_148) That is flesh and all.
+<span id="fn_148"></span>[89:8](htk23.htm#fr_148.md) That is flesh and all.
 
-<span id="fn_149"></span>[89:9](htk23.htm#fr_149) *Maiṣaṁ*. The
+<span id="fn_149"></span>[89:9](htk23.htm#fr_149.md) *Maiṣaṁ*. The
 Śyāmarahasya-sārasaṁgraha gives also *mauṣam*, of rat's flesh. The
 Fetkāriṇī-Tantra has both sheep and rat's flesh (K.B.).
 
@@ -128,7 +128,7 @@ Fetkāriṇī-Tantra has both sheep and rat's flesh (K.B.).
 sheep, camels, and buffaloes together with bone, hair and skin *Dākṣiṇā*
 is ever beneficial like a Mother.'
 
-<span id="fn_150"></span>[89:10](htk23.htm#fr_150) As to this human
+<span id="fn_150"></span>[89:10](htk23.htm#fr_150.md) As to this human
 sacrifice, K. B. says that Kings alone, and not any other, are entitled
 to make human sacrifice, citing the Yāmala quoted in the Kālīkalpalatā
 (*Rājā naravaliṁ dadyān nānyopi parameśvari*). For inner sense see
@@ -138,6 +138,6 @@ Svarūpa-vyākhyā *post*.
 
 ------------------------------------------------------------------------
 
-[Next: Verse 20](htk24)
+[Next: Verse 20](htk24.md)
 
 </div>

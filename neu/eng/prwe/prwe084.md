@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe083)  [Next](prwe085) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe083)  [Next](prwe085.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ dead.
 
 ------------------------------------------------------------------------
 
-[Next: The Tradition of Lyonesse or Lethowsow](prwe085)
+[Next: The Tradition of Lyonesse or Lethowsow](prwe085.md)

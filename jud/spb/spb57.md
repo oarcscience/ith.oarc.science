@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb56)  [Next](spb58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb56)  [Next](spb58.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -59,7 +59,7 @@ minds. O turn this day in lovingkindness and tender mercy to the prayers
 of thy servants who pour out their souls before thee. May thy
 lovingkindness not depart from us. Give us our needful sustenance, and
 let us not be in want of the gifts of flesh and blood. Remove from us
-care and [sorrow](errata.htm#10), distress and fear, shame and contempt.
+care and [sorrow](errata.htm#10.md), distress and fear, shame and contempt.
 Let thy grace be with us, that we may rear our children to keep thy
 commandments and to fulfil thy will all the days of their life. O God,
 take us not hence in the midst of our days. Let us complete in peace the
@@ -77,6 +77,6 @@ Amen, and Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Night Prayer for Young Children](spb58)
+[Next: Night Prayer for Young Children](spb58.md)
 
 </div>

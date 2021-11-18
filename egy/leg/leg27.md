@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg26)  [Next](leg28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg26)  [Next](leg28.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ thee back, Seba fiend! Hail! Hail!"
 
 ------------------------------------------------------------------------
 
-[Next: II.--The Narrative of Isis](leg28)
+[Next: II.--The Narrative of Isis](leg28.md)

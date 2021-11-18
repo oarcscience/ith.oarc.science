@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce35)  [Next](jce37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce35)  [Next](jce37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -203,16 +203,16 @@ But before going any farther I make a few observations, to calculate the
 distance we have gone over, and note them in my journal. We have crossed
 two hundred and seventy leagues of sea since leaving Port Gräuben; and
 we are six hundred and twenty leagues from Iceland, under England.
- <span id="fr_11"></span>[12](#fn_11)
+ <span id="fr_11"></span>[12](#fn_11.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_11"></span>[12](jce36.htm#fr_11) This distance carries the
+<span id="fn_11"></span>[12](jce36.htm#fr_11.md) This distance carries the
 travellers as far as under the Pyrenees if the league measures three
 miles. (Trans.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXV. An Electric Storm](jce37)
+[Next: Chapter XXXV. An Electric Storm](jce37.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb60)  [Next](ptb62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb60)  [Next](ptb62.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ require to be considered in the following mode.
 For the investigation of these circumstances, the two angles on the
 horizon, both the ascendant and the western, must in all cases be
 re-marked; but more especially the western angle and its preceding
-house, <span id="fr_205"></span>[2](#fn_205) which is inconjunct with
+house, <span id="fr_205"></span>[2](#fn_205.md) which is inconjunct with
 the ascendant. After these angles have been noted, it must be observed
 in what manner the malefic planets may be configurated with them: for,
 if both the malefics, or even if one of them, should be stationed bodily
@@ -88,7 +88,7 @@ cataract, or cold, by a white film, or by other similar disorders.
 Venus, if in one of the angles before-mentioned, and especially if she
 be in that of the west, and Saturn be in conjunction or in configuration
 with her, or be changing place with her, <span
-id="fr_206"></span>[1](#fn_206) while Mars, at the same time, is in
+id="fr_206"></span>[1](#fn_206.md) while Mars, at the same time, is in
 elevation above her, or in opposition to her, will produce impotence in
 the native, if a male; and, if a female, will render her liable to
 abortion, or to produce children stillborn, or not capable of being
@@ -119,7 +119,7 @@ approach to him.
 Further, should the malefics be in angles, and the luminaries, either
 together or in opposition, be brought up to them; or, if the malefics be
 brought up to the luminaries, especially when the Moon may be in her
-nodes, or in her bend, <span id="fr_207"></span>[2](#fn_207) or in
+nodes, or in her bend, <span id="fr_207"></span>[2](#fn_207.md) or in
 obnoxious signs, such as Aries, Taurus, Cancer, Scorpio, and Capricorn,
 the body will then be afflicted with excrescences, distortions, lameness
 or paralysis.
@@ -167,7 +167,7 @@ disturbance of the fluids; especially in the chest, throat, and stomach.
 If in familiarity with Mars, he will tend to produce greater dryness,
 and will increase ulcers, abscesses, loss of hair, scarified sores,
 erysipelas, tetters, blackness of bile, insanity, epilepsy, <span
-id="fr_208"></span>[1](#fn_208) and similar disorders.
+id="fr_208"></span>[1](#fn_208.md) and similar disorders.
 
 Some of the properties, peculiar to disease, arise out of the various
 character of the signs which may contain the above-mentioned
@@ -213,17 +213,17 @@ support and profit from the exhibition.
 
 ### Footnotes
 
-<span id="fn_205"></span>[103:2](ptb61.htm#fr_205) The sixth house.
+<span id="fn_205"></span>[103:2](ptb61.htm#fr_205.md) The sixth house.
 
-<span id="fn_206"></span>[105:1](ptb61.htm#fr_206) This seems to imply,
+<span id="fn_206"></span>[105:1](ptb61.htm#fr_206.md) This seems to imply,
 if Saturn be in one of Venus's places of dignity, and Venus in one of
 Saturn's. Such a counterposition is technically termed "mutual
 reception."
 
-<span id="fn_207"></span>[105:2](ptb61.htm#fr_207) In her extreme
+<span id="fn_207"></span>[105:2](ptb61.htm#fr_207.md) In her extreme
 latitude, whether north or south.
 
-<span id="fn_208"></span>[106:1](ptb61.htm#fr_208) Της ιερας νοσου
+<span id="fn_208"></span>[106:1](ptb61.htm#fr_208.md) Της ιερας νοσου
 literally, "the holy disease," which authors have explained to mean
 epilepsy. Perhaps the disease was anciently called holy, because the
 patient, when possessed by the fit, seemed to be under the influence of
@@ -231,4 +231,4 @@ some supernatural agency.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Quality of the Mind](ptb62)
+[Next: Chapter XVIII. The Quality of the Mind](ptb62.md)

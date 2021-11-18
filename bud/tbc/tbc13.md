@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](tbc12)  [Next](tbc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](tbc12)  [Next](tbc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddhist Catechism*, by Henry S. Olcott \[1908\], at Intangible
 Textual Heritage
 
@@ -268,6 +268,6 @@ Guna Megu Wini-Lankara,
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](tbc14)
+[Next: Bibliography](tbc14.md)
 
 </div>

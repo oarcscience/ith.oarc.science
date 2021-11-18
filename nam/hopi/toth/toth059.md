@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth058)  [Next](toth060) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth058)  [Next](toth060.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 56. THE TOAD AND THE SNOW KATCÍNAS. <span id="fr_124"></span>[1](#fn_122)
+## 56. THE TOAD AND THE SNOW KATCÍNAS. <span id="fr_124"></span>[1](#fn_122.md)
 
 Halíksai! A long time ago they were living in Oraíbi. There was a kiva
 in the northern part of the village called the Chórzhovi (Bluebird
@@ -68,9 +68,9 @@ still living there.
 
 ### Footnotes
 
-<span id="fn_122"></span>[180:1](toth059.htm#fr_124) Told by Kwáyeshva
+<span id="fn_122"></span>[180:1](toth059.htm#fr_124.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 57. The Locust That Came To Life While Being Roasted](toth060)
+[Next: 57. The Locust That Came To Life While Being Roasted](toth060.md)

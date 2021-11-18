@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft10)  [Next](pft12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft10)  [Next](pft12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,12 +14,12 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE STORY OF SAYEN  <span id="fr_68"></span>[69](pft68.htm#fn_68)
+### THE STORY OF SAYEN  <span id="fr_68"></span>[69](pft68.htm#fn_68.md)
 
 *Tinguian*
 
 In the depths of a dark forest where people seldom went, lived a wizened
-old Alan.  <span id="fr_69"></span>[70](pft68.htm#fn_69) The skin on her
+old Alan.  <span id="fr_69"></span>[70](pft68.htm#fn_69.md) The skin on her
 wrinkled face was as tough as a carabao hide, and her long arms with
 fingers pointing back from the wrist were horrible to look at. Now this
 frightful creature had a son whose name was Sayen, and he was as
@@ -65,7 +65,7 @@ there he began killing the people on all sides.
 Terror spread through the town. No one could stop his terrible work of
 destruction until Danepan came down out of her house, and begged him to
 spare part of the people that she might have some from whom to borrow
-fire.  <span id="fr_70"></span>[71](pft68.htm#fn_70) Her great beauty
+fire.  <span id="fr_70"></span>[71](pft68.htm#fn_70.md) Her great beauty
 amazed him and he ceased killing, and asked her to prepare some
 betel-nut for him to chew, as he was very tired. She did so, and when he
 had chewed the nut he spat on the people he had killed and they came to
@@ -74,7 +74,7 @@ life again. Then he married Danepan and took her to his home.
 Now it happened about this time that the people of Magosang were in
 great trouble. At the end of a successful hunt, while they were dividing
 the meat among themselves, the Komow,  <span
-id="fr_71"></span>[72](pft68.htm#fn_71) a murderous spirit that looks
+id="fr_71"></span>[72](pft68.htm#fn_71.md) a murderous spirit that looks
 like a man, would come to them and ask how many they had caught. If they
 answered, "Two," then he would say that he had caught two also; and when
 they went home, they would find two people in the town dead. As often as
@@ -101,7 +101,7 @@ arrived and said:
 "We do not know where Sayen is," answered the people; and just then he
 sprang out and killed the Komow, and the people were greatly relieved.
 
-Now when Kaboniyan,  <span id="fr_72"></span>[73](pft68.htm#fn_72) a
+Now when Kaboniyan,  <span id="fr_72"></span>[73](pft68.htm#fn_72.md) a
 great spirit, heard what Sayen had done, he went to him and said:
 
 "Sayen you are a brave man because you have killed the Komow, Tomorrow I
@@ -132,7 +132,7 @@ captured was a great mystery. For it was not known that one was the
 spirit Kaboniyan, and the other the son of an Alan.
 
 If he was surrounded in a river, Sayen would become a fish  <span
-id="fr_73"></span>[74](pft68.htm#fn_73) and hide so that people could
+id="fr_73"></span>[74](pft68.htm#fn_73.md) and hide so that people could
 not find him. And if he was entrapped in a town, he would become a
 chicken and go under the house in a chicken-coop. In this way he escaped
 many times.
@@ -145,4 +145,4 @@ caught in the trap and killed.
 
 ------------------------------------------------------------------------
 
-[Next: The Sun and the Moon](pft12)
+[Next: The Sun and the Moon](pft12.md)

@@ -1,25 +1,25 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft56)  [Next](sfft58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft56)  [Next](sfft58.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE MERMAID WIFE. <span id="fr_88"></span>[2](#fn_88)
+### THE MERMAID WIFE. <span id="fr_88"></span>[2](#fn_88.md)
 
 A STORY is told of an inhabitant of Unst, who, in walking on the sandy
-margin of a voe, <span id="fr_89"></span>[3](#fn_89) saw a number of
+margin of a voe, <span id="fr_89"></span>[3](#fn_89.md) saw a number of
 mermen and mermaids dancing by moonlight, and several seal-skins strewed
 beside them on the ground. At his approach they immediately fled to
 secure their garbs, and, taking upon themselves the form of seals,
@@ -71,12 +71,12 @@ much better."
 
 ### Footnotes
 
-<span id="fn_88"></span>[189:2](sfft57.htm#fr_88) *Folk-Lore and
+<span id="fn_88"></span>[189:2](sfft57.htm#fr_88.md) *Folk-Lore and
 Legends, Scotland*. W. W. Gibbings.
 
-<span id="fn_89"></span>[189:3](sfft57.htm#fr_89) A deep inlet, or
+<span id="fn_89"></span>[189:3](sfft57.htm#fr_89.md) A deep inlet, or
 creek.
 
 ------------------------------------------------------------------------
 
-[Next: The Seal-Catcher's Adventure](sfft58)
+[Next: The Seal-Catcher's Adventure](sfft58.md)

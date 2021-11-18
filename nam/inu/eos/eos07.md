@@ -1,23 +1,23 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index) 
-[Siberian](../../../asia/index.htm#siberia)  [Index](index) 
-[Previous](eos06)  [Next](eos08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index.md) 
+[Siberian](../../../asia/index.htm#siberia)  [Index](index.md) 
+[Previous](eos06)  [Next](eos08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAB3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eskimo of Siberia*, by Waldemar Bogoras, \[1913\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-### 6. The Girl in the Iron Box. <span id="fr_3"></span>[2](#fn_3)
+### 6. The Girl in the Iron Box. <span id="fr_3"></span>[2](#fn_3.md)
 
    There was a shaman who knew everything. All the people of the
 surrounding country sent for him in cases of calamity. When somebody
@@ -125,11 +125,11 @@ Indian Point, May, 1901.
 
 ### Footnotes
 
-<span id="fn_3"></span>[424:2](eos07.htm#fr_3) Compare a similar tale,
+<span id="fn_3"></span>[424:2](eos07.htm#fr_3.md) Compare a similar tale,
 Bogoras, [Chukchee Texts (*sic*, Chukchee Mythology--CW), Vol. VIII of
-this series, p. 107](../../../asia/cm/cm20). In the Eskimo version the
+this series, p. 107](../../../asia/cm/cm20.md). In the Eskimo version the
 Russian (or Turko-Mongol) elements of this tale are more prominent.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Eagle-Boy.](eos08)
+[Next: 7. The Eagle-Boy.](eos08.md)

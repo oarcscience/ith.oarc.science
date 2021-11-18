@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt04)  [Next](crt06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt04)  [Next](crt06.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ of Arthur-Pendragon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter First](crt06)
+[Next: Chapter First](crt06.md)

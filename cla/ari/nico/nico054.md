@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico053) 
-[Next](nico055) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico053.md) 
+[Next](nico055.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ other moral, virtues.
 ------------------------------------------------------------------------
 
 [Next: Chapter 1. Reasons for studying intellectual virtue: intellect
-divided into the contemplative and the calculative](nico055)
+divided into the contemplative and the calculative](nico055.md)

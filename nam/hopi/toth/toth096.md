@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth095)  [Next](toth097) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth095)  [Next](toth097.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 93. THE CROW AND THE HAWK. <span id="fr_177"></span>[1](#fn_175)
+## 93. THE CROW AND THE HAWK. <span id="fr_177"></span>[1](#fn_175.md)
 
 Alíksai! At Macáhtoika the Crow was living. She had three children.
 South of Muñáovi lived the Hawk. He had four children. They were always
@@ -78,9 +78,9 @@ where he also hatches his broods.
 
 ### Footnotes
 
-<span id="fn_175"></span>[232:1](toth096.htm#fr_177) Told by Kwáyeshva
+<span id="fn_175"></span>[232:1](toth096.htm#fr_177.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 94. The Red Eagle Song](toth097)
+[Next: 94. The Red Eagle Song](toth097.md)

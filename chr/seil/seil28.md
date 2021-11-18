@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil27)  [Next](seil29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil27)  [Next](seil29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -34,10 +34,10 @@ nothing more to choose, because one cannot release himself; only it is
 to be seen to that if one have not made his election duly and ordinately
 and without disordered tendencies, repenting let him see to living a
 good life in his election. It does not appear that this election is a
-Divine vocation, <span id="fr_14"></span>[15](seil83.htm#fn_14) as being
+Divine vocation, <span id="fr_14"></span>[15](seil83.htm#fn_14.md) as being
 an election out of order and awry. Many err in this, setting up a
 perverse or bad election as a Divine <span
-id="fr_15"></span>[16](seil83.htm#fn_15) vocation; for every Divine
+id="fr_15"></span>[16](seil83.htm#fn_15.md) vocation; for every Divine
 vocation is always pure and clear, without mixture of flesh, or of any
 other inordinate tendency.
 
@@ -54,4 +54,4 @@ to God our Lord should come from him.
 
 ------------------------------------------------------------------------
 
-[Next: Times for Making Election](seil29)
+[Next: Times for Making Election](seil29.md)

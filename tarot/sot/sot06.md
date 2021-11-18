@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot05) 
-[Next](sot07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot05.md) 
+[Next](sot07.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ understanding open in my heart.
 
 ------------------------------------------------------------------------
 
-[Next: Card XX. Judgment](sot07)
+[Next: Card XX. Judgment](sot07.md)

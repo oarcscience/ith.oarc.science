@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb16)  [Next](blfb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb16)  [Next](blfb18.md) 
 
 </div>
 
@@ -609,6 +609,6 @@ queen departed to their own kingdom and lived happily ever after.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The Water-Lily. The Gold-Spinners](blfb18)
+[Next: The Water-Lily. The Gold-Spinners](blfb18.md)
 
 </div>

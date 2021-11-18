@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar170) [Next](gbar172)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar170) [Next](gbar172.md)
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ servants.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar172)
+[Next](gbar172.md)

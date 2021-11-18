@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](mht15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](mht15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0893144177/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 |                     |
 |---------------------|
-| ![I](img/08700.jpg) |
+| ![I](img/08700.jpg.md) |
 
 NITIATION into the Mysteries was defined by the ancient philosophers as
 life’s supreme adventure and as the greatest good that can be conferred
@@ -281,7 +281,7 @@ INTERPRETATION OF FIGURES AND TEXT
 
 *SECTION I*.
 
-(*Figure* I, page [34](mht04.htm#page_34)) The highly decorated title
+(*Figure* I, page [34](mht04.htm#page_34).md) The highly decorated title
 page of the manuscript is a valuable key to the interpretation of the
 entire work. De Givry describes the emblems thus: "This author’s
 symbolism is Egyptianized in the fashion of the day. On the title page
@@ -387,7 +387,7 @@ and purposes are transmuted into the gold of soul power.
 
 *SECTION II*.
 
-(*Figure* II, page [40](mht05.htm#page_40)) In his notes on the
+(*Figure* II, page [40](mht05.htm#page_40).md) In his notes on the
 *Trinosophia*, de Givry concerns himself solely with the alchemical
 import of the symbolism of this figure. He says of the second plate that
 it "represents a man gazing into a prophetic cup forming a magic mirror.
@@ -538,7 +538,7 @@ Great Work which our author contemplates.
 
 *SECTION III*.
 
-(*Figure* III, page [44](mht06.htm#page_44)) Two lions, one red and the
+(*Figure* III, page [44](mht06.htm#page_44).md) Two lions, one red and the
 other black, guard the Crown. The Crown is Kether, the fountain of
 wisdom. The king of beasts symbolizes nobility and rulership. In ancient
 times, figures of lions adorned the thrones of princes. These animals
@@ -655,7 +655,7 @@ away from his spiritual quest for enlightenment and immortality.
 
 SECTION IV.
 
-(*Figure* IV, page [48](mht07.htm#page_48)) Upon an altar formed of the
+(*Figure* IV, page [48](mht07.htm#page_48).md) Upon an altar formed of the
 twelve whorls of a winged serpent twisted about a spear rests the cup of
 Everlastingness. The device is derived from the cyclic serpent so often
 used in the Rites of Serapis. The twelve coils of the snake are
@@ -750,7 +750,7 @@ distilling vessel, escape from the heated inferno below.
 
 *SECTION V*.
 
-(*Figure* V, page [50](mht08.htm#page_50)) The strange bird hovering
+(*Figure* V, page [50](mht08.htm#page_50).md) The strange bird hovering
 above the altar fire is the sacred Ibis, symbol of Thoth, the Egyptian
 god of wisdom and letters, and the patron of alchemy. It is the volatile
 philosophical Mercury which can remain in a suspended state only "when
@@ -867,7 +867,7 @@ buried that the Universal Self may be born from its seed.
 
 *SECTION VI*.
 
-(*Figure* VI, page [54](mht09.htm#page_54)) The altar which our author
+(*Figure* VI, page [54](mht09.htm#page_54).md) The altar which our author
 describes as being composed of
 
 <span id="page_104">p. 104</span>
@@ -1034,7 +1034,7 @@ from the chamber by the right-hand path.
 
 *SECTION VII*.
 
-(*Figure* VII, page [60](mht10.htm#page_60)) The key to the seventh
+(*Figure* VII, page [60](mht10.htm#page_60).md) The key to the seventh
 plate is equilibrium, this being the
 
 <span id="page_107">p. 107</span>
@@ -1145,7 +1145,7 @@ washed away and life is prepared for a supersubstantial existence.
 
 *SECTION VIII*.
 
-(*Figure* VIII, page [62](mht11.htm#page_62)) In the sky blazes the
+(*Figure* VIII, page [62](mht11.htm#page_62).md) In the sky blazes the
 philosophical sun, within it the face of the Logos. Its rays are
 concealed by the same clouds which must ever hide the Divine Light from
 the eyes of the profane. The Lion is now crowned, its coronet
@@ -1235,7 +1235,7 @@ Sagittarius which looms in front and above.
 
 *SECTION IX*.
 
-(*Figure* IX, [p. 66](mht12.htm#page_66)) As this section signifies
+(*Figure* IX, [p. 66](mht12.htm#page_66).md) As this section signifies
 Sagittarius it is most appropriate that the figure of a horse should
 appear in the symbolism. The Trojan Horse, concealing within its body
 the army of conquering Greeks, represents the occult force of this
@@ -1328,7 +1328,7 @@ Rose Cross.
 
 *SECTION X*.
 
-(*Figure* X, [p. 70](mht13.htm#page_70)) A man robed in a green garment
+(*Figure* X, [p. 70](mht13.htm#page_70).md) A man robed in a green garment
 edged with gold, and bearing a lance, is arising amidst vaporous clouds
 from an open sarcophogus. Above the human figure is suspended a golden
 crown of light. The whole symbolizes the annual rebirth of the sun in
@@ -1403,7 +1403,7 @@ original celestial state.
 
 *SECTION XI*.
 
-(*Figure* XI, page [72](mht14.htm#page_72)) As the tenth illustration
+(*Figure* XI, page [72](mht14.htm#page_72).md) As the tenth illustration
 represents the final liberation of the Divine Man from his physical
 limitations, so the eleventh depicts the attempt of the intellect to
 break away from bondage to the animal soul. The powerful man with his
@@ -1492,7 +1492,7 @@ Hall of Wisdom.
 
 *SECTION XII*.
 
-(*Figure* XII, page [76](mht15.htm#page_76)) The pilgrimage of the adept
+(*Figure* XII, page [76](mht15.htm#page_76).md) The pilgrimage of the adept
 is at last completed. In the heavens
 
 <span id="page_115">p. 115</span>

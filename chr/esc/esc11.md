@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc10)  [Next](esc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc10)  [Next](esc12.md) 
 
 ------------------------------------------------------------------------
 
@@ -613,4 +613,4 @@ come quickly."*
 ------------------------------------------------------------------------
 
 [Next: Lecture X. The Epistles to the Seven Churches of Asia, Considered
-as Applying to Seven Periods of the Gospel Church, Part II](esc12)
+as Applying to Seven Periods of the Gospel Church, Part II](esc12.md)

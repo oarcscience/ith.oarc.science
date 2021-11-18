@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar103) [Next](gbar105)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar103) [Next](gbar105.md)
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ of men?
 
 ------------------------------------------------------------------------
 
-[Next](gbar105)
+[Next](gbar105.md)

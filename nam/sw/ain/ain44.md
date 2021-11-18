@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain43)  [Next](ain45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain43)  [Next](ain45.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 In Emory's report, before alluded to, also in Captain Johnston's, we
 find variants of The Story of the Children of Cloud.
-[Thirsty](errata.htm#38) Hawk, the Maricopa, told Emory "that in bygone
+[Thirsty](errata.htm#38.md) Hawk, the Maricopa, told Emory "that in bygone
 days a woman of surpassing beauty resided in a green spot in the
 mountains, near where we were encamped. All-the men admired and paid
 court to her. She received the tributes of their devotion, grain, skins,
@@ -38,4 +38,4 @@ children or of these buildings, the vahahkkees.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Tcheunassat Seeven](ain45)
+[Next: The Story of Tcheunassat Seeven](ain45.md)

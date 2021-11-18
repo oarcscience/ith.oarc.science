@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom11)  [Next](yom13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom11)  [Next](yom13.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -297,7 +297,7 @@ and peace, will they increase unto thee." What means "years of life"?
 Are there any years not of life? Said R. Elazar: Those are the years of
 man when his circumstances change from evil to good. Said R. Brachia: It
 is written further \[ibid. viii. 4\]: "Unto you, O men, <span
-id="fr_24"></span>[1](#fn_24) I call." By this scholars are meant, who
+id="fr_24"></span>[1](#fn_24.md) I call." By this scholars are meant, who
 are weak like women, and perform feats as men. R. Brachia said again: He
 who wishes to bring a drink-offering on the altar should let scholars
 drink wine (which will be just as good). The same says again: When a man
@@ -342,7 +342,7 @@ is mentioned: once, to know that it is linen; the second time, that it
 be twisted six times; once, that it should be twisted; and once, that
 even the articles of dress of which it is not said "linen" should be of
 linen; the fifth time, to prohibit (those not of linen). <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 How do we know that "Shesh" means "linen"? Because it is written "bad"
 (in some places, as equivalent to "Shesh") which signifies "only," and
@@ -577,13 +577,13 @@ anointed for war and all the congregation means, the Sanhedrin.
 
 ### Footnotes
 
-<span id="fn_24"></span>[104:1](yom12.htm#fr_24) Men is in Hebrew here
+<span id="fn_24"></span>[104:1](yom12.htm#fr_24.md) Men is in Hebrew here
 ‏אישים‎ (not ‏אגשים‎), as if the plural of ‏אשה‎ --woman.
 
-<span id="fn_25"></span>[105:1](yom12.htm#fr_25) *Shesh* (linen) means
+<span id="fn_25"></span>[105:1](yom12.htm#fr_25) *Shesh* (linen.md) means
 also *six*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: Regulations Concerning Fasting on the Day of
-Atonement; What May Be Done Thereon, And What May Not Be Done.](yom13)
+Atonement; What May Be Done Thereon, And What May Not Be Done.](yom13.md)

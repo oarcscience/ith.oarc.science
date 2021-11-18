@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah16)  [Next](sah18) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah16)  [Next](sah18.md) 
 
 ------------------------------------------------------------------------
 
@@ -657,4 +657,4 @@ strength. Emptiness; unfaithfulness; desolation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII - Fruitage](sah18) 
+[Next: Chapter XVIII - Fruitage](sah18.md) 

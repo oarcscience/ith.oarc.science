@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth45)  [Next](doth47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth45)  [Next](doth47.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@
 
 ### (<span class="smallcaps">From Chap. VII. Of the Gate of Love.</span>)
 
-### (*See also* [p. 47](doth40.htm#page_47).)
+### (*See also* [p. 47](doth40.htm#page_47)..md)
 
 ### <span class="smallcaps">Habits of those that love God.</span>
 
@@ -25,13 +25,13 @@ are too numerous to recount. Nevertheless, I will mention a few of them
 that come opportunely to my mind.
 
 These men have learned to know their God with a practical and fruitful
-knowledge. <span id="fr_25"></span>[\*](#fn_22) . . . They have
+knowledge. <span id="fr_25"></span>[\*](#fn_22.md) . . . They have
 recognised His delight in them and how He shapes their way, and they
 perceive that it is He who makes their lives to
 
 <span id="page_58">p. 58</span>
 
-flow as a gentle stream, <span id="fr_26"></span>[\*](#fn_23) and that
+flow as a gentle stream, <span id="fr_26"></span>[\*](#fn_23.md) and that
 it is He who nourishes and supports them. They have recognised His rule
 and His restraining power in all those affairs—whether of religion,
 ethics, holiness, and physical purity, or of the world—in which He has
@@ -39,7 +39,7 @@ given them permission to occupy themselves, and liberty of choice as to
 their conduct. And it has become clear to them, and they firmly believe,
 that all their affairs and their every movement are conducted by the
 decree of the Creator, blessed be He, and by His pleasure. And they have
-resolved <span id="fr_27"></span>[†](#fn_24) not to be guided by their
+resolved <span id="fr_27"></span>[†](#fn_24.md) not to be guided by their
 own preferences, but to rest in perfect trust upon the Creator, trusting
 that He will choose what is best and what is proper for them.
 
@@ -50,7 +50,7 @@ good intentions, and even when weakness prevents the attainment of their
 ideals in the fulfilment of God's law, they will choose to do these
 things at any future time when they may be enabled to by the help of
 God, and they will hope and pray for that time, appointed by Him. <span
-id="fr_28"></span>[‡](#fn_25)
+id="fr_28"></span>[‡](#fn_25.md)
 
 The longing after pleasures is rooted out, because there has entered
 into them a longing to serve the Creator, and the fire of passion is
@@ -97,20 +97,20 @@ class="small">\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Footnotes
 
-<span id="fn_22"></span>[57:\*](doth46.htm#fr_25) *Yadang*.
+<span id="fn_22"></span>[57:\*](doth46.htm#fr_25.md) *Yadang*.
 
-<span id="fn_23"></span>[58:\*](doth46.htm#fr_26) *Hu menahelem*.
+<span id="fn_23"></span>[58:\*](doth46.htm#fr_26.md) *Hu menahelem*.
 
-<span id="fn_24"></span>[58:†](doth46.htm#fr_27) Literally, "made a
+<span id="fn_24"></span>[58:†](doth46.htm#fr_27.md) Literally, "made a
 stand against being," etc.
 
-<span id="fn_25"></span>[58:‡](doth46.htm#fr_28) *Betach* implies a kind
+<span id="fn_25"></span>[58:‡](doth46.htm#fr_28.md) *Betach* implies a kind
 of trust and confidence that gives rest and quiet contentment.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](doth47)
+[Next: Advertisements](doth47.md)
 
 </div>

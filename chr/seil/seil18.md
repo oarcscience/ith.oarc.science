@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil17)  [Next](seil19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil17)  [Next](seil19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Intangible Textual Heritage
 **First Prelude**. The first Prelude is the narrative and it will be
 here how Our Lady went forth from Nazareth, about nine months with
 child, as can be piously meditated, <span
-id="fr_8"></span>[9](seil83.htm#fn_8) seated on an ass, and accompanied
+id="fr_8"></span>[9](seil83.htm#fn_8.md) seated on an ass, and accompanied
 by Joseph and a maid, taking an ox, to go to Bethlehem to pay the
 tribute which Caesar imposed on all those lands (p. 135).
 
@@ -33,7 +33,7 @@ be here to see with the sight of the imagination the road from Nazareth
 to Bethlehem; considering the length and the breadth, and whether such
 road is level or through valleys or over hills; likewise looking at the
 place or cave of the Nativity, <span
-id="fr_9"></span>[10](seil83.htm#fn_9) how large, how small, how low,
+id="fr_9"></span>[10](seil83.htm#fn_9.md) how large, how small, how low,
 how high, and how it was prepared.
 
 **Third Prelude**. The third will be the same, and in the same form, as
@@ -161,4 +161,4 @@ the third Addition, I will enter into the Exercise.
 
 ------------------------------------------------------------------------
 
-[Next: Second Day](seil19)
+[Next: Second Day](seil19.md)

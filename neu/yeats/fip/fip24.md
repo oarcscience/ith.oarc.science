@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip23)  [Next](fip25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip23)  [Next](fip25.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ I.
 
 Little Cowboy, what have you heard,  
   Up on the lonely rath's green mound?  
-Only the plaintive yellow bird <span id="fr_10"></span>[1](#fn_10)  
+Only the plaintive yellow bird <span id="fr_10"></span>[1](#fn_10.md)  
   Sighing in sultry fields around,  
 Chary, chary, chary, chee-ee!--  
 Only the grasshopper and the bee?-- <span id="page_82">p. 82</span>  
@@ -95,9 +95,9 @@ Pouf! he flung the dust in my face,
 
 ### Footnotes
 
-<span id="fn_10"></span>[81:1](fip24.htm#fr_10) "Yellow bird", the
+<span id="fn_10"></span>[81:1](fip24.htm#fr_10.md) "Yellow bird", the
 yellow-bunting, or *yorlin*.
 
 ------------------------------------------------------------------------
 
-[Next: Master and Man, by T. Crofton Croker](fip25)
+[Next: Master and Man, by T. Crofton Croker](fip25.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss18)  [Next](oss20) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss18)  [Next](oss20.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,10 +32,10 @@ Who comes towards my son, with the murmur of a song? His staff is in his
 hand, his gray hair loose on the wind. Surly joy lightens his face. He
 often looks back to Caros. It is Ryno of songs, he that went to view the
 foe. "What does Caros, king of ships?" said the son of the now mournful
-Ossian: "spreads he the wings  <span id="fr_55"></span>[1](#fn_55) of
+Ossian: "spreads he the wings  <span id="fr_55"></span>[1](#fn_55.md) of
 his pride, bard of the times of old?" "He spreads them, Oscar," replied
 the bard," but it is behind his gathered heap. <span
-id="fr_56"></span>[2](#fn_56) He looks over his stones
+id="fr_56"></span>[2](#fn_56.md) He looks over his stones
 
 <span id="page_262">p. 262</span>
 
@@ -63,7 +63,7 @@ He came not over the streamy Carun. The bard returned with his song.
 Gray night grows dim on Crona. The feast of shells is spread. A hundred
 oaks burn to the wind; faint light gleams over the heath. The ghosts of
 Ardven pass through the beam, and show their dim and distant forms.
-Comala  <span id="fr_57"></span>[3](#fn_57) is half unseen on her
+Comala  <span id="fr_57"></span>[3](#fn_57.md) is half unseen on her
 meteor; Hidallan is sullen and dim, like the darkened moon behind the
 mist of night.
 
@@ -248,14 +248,14 @@ times in the desert; we shall sing on the breeze of the rock!
 
 ### Footnotes
 
-<span id="fn_55"></span>[261:1](oss19.htm#fr_55) The Roman eagle.
+<span id="fn_55"></span>[261:1](oss19.htm#fr_55.md) The Roman eagle.
 
-<span id="fn_56"></span>[261:2](oss19.htm#fr_56) Agricola's wall, which
+<span id="fn_56"></span>[261:2](oss19.htm#fr_56.md) Agricola's wall, which
 Carausius repaired.
 
-<span id="fn_57"></span>[262:3](oss19.htm#fr_57) This is the scene of
+<span id="fn_57"></span>[262:3](oss19.htm#fr_57.md) This is the scene of
 Comala's death, which is the subject of the dramatic poem.
 
 ------------------------------------------------------------------------
 
-[Next: Cathlin of Clutha](oss20)
+[Next: Cathlin of Clutha](oss20.md)

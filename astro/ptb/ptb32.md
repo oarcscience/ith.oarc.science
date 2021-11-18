@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb31)  [Next](ptb33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb31)  [Next](ptb33.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ by the state of the surrounding atmosphere.
 
 The natives of those countries which lie under the more remote northern
 parallels (that is to say, under the Arctic circle and beyond it <span
-id="fr_79"></span>[1](#fn_79)) have their zenith far distant from the
+id="fr_79"></span>[1](#fn_79).md) have their zenith far distant from the
 zodiac and the Sun's heat. Their constitutions, therefore, abound in
 cold, and are also highly imbued with moisture, which is in itself a
 most nutritive quality, and, in these latitudes, is not exhausted by
@@ -91,10 +91,10 @@ to take at least a brief notice of them.
 
 ### Footnotes
 
-<span id="fn_79"></span>[41:1](ptb32.htm#fr_79) "Under the Bears," in
+<span id="fn_79"></span>[41:1](ptb32.htm#fr_79.md) "Under the Bears," in
 the Greek.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Familiarity of the Regions of the Earth with the
-Triplicities and the Planets](ptb33)
+Triplicities and the Planets](ptb33.md)

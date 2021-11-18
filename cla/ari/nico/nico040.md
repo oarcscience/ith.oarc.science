@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico039) 
-[Next](nico041) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico039.md) 
+[Next](nico041.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ is without a name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7. Truthfulness, boastfulness, mock-modesty](nico041)
+[Next: Chapter 7. Truthfulness, boastfulness, mock-modesty](nico041.md)

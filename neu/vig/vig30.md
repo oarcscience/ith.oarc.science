@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig29)  [Next](vig31) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig29)  [Next](vig31.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,13 +33,13 @@ in to Hagi, so as to be there in good time whilst people were still
 asleep. Then Klængr said--"We’ll try a scheme; here are cattle about in
 the homestead; we will drive them on to the buildings, under which
 Thorvald is asleep, and so we shall get him to come out."  <span
-id="fr_27"></span>[1](#fn_27) They did this, and Thorvald woke up and
+id="fr_27"></span>[1](#fn_27.md) They did this, and Thorvald woke up and
 rushed out of doors. Klængr made at him, and gave him a mortal wound;
 but went away again without daring to declare himself the slayer,
 because there were so many people about on the spot. So he went out to
 one of the islands, and there declared that he had killed Thorvald. The
 right of claiming atonement belonged to Thorarin and Thord, and they
-treated the case as one of murder.  <span id="fr_28"></span>[2](#fn_28)
+treated the case as one of murder.  <span id="fr_28"></span>[2](#fn_28.md)
 When the suit was being brought before the Thing, Glum was quiet at
 home, but whilst the Thing was going on he went about in the districts
 of Fliot and Svarvadardal, begging for help to meet the execution of the
@@ -143,12 +143,12 @@ And blood with blood repay!"
 
 ### Footnotes
 
-<span id="fn_27"></span>[1](vig30.htm#fr_27) The caves must have been
+<span id="fn_27"></span>[1](vig30.htm#fr_27.md) The caves must have been
 level with the ground and probably covered with turf or sod.
 
-<span id="fn_28"></span>[2](vig30.htm#fr_28) Because the slayer had not
+<span id="fn_28"></span>[2](vig30.htm#fr_28.md) Because the slayer had not
 on the spot avowed the deed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII](vig31)
+[Next: Chapter XXVIII](vig31.md)

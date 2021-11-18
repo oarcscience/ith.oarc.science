@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth01)  [Next](doth03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth01)  [Next](doth03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ Series."
 
 Only a small part of the original finds a place in the following pages;
 but I have in my translation—sometimes literal, now and again a
-summarised [paraphrase](errata.htm#0)—endeavoured to give a selection of
+summarised [paraphrase](errata.htm#0.md)—endeavoured to give a selection of
 passages connected by the author's central thought,
 
 <span id="page_6">p. 6</span>
@@ -172,7 +172,7 @@ the truth and in lying—there was no book dealing with the Duties of the
 Heart and Mind.
 
 It was to supply this want that he wrote, in Arabic, the book which was
-destined in its Hebrew Translation <span id="fr_0"></span>[\*](#fn_0) to
+destined in its Hebrew Translation <span id="fr_0"></span>[\*](#fn_0.md) to
 become one of the most popular as well as the most authoritative
 expositions of spiritual Judaism. This work has never appeared in
 English.
@@ -264,7 +264,7 @@ gratitude, small or great.
 The ethical system of Bachye is distinctly Oriental. All the impulse to
 virtuous conduct springs from the point of contact between the human
 soul and the unseen soul of the universe. It is the individual in
-communion with God, the creature bowed in [awesome](errata.htm#1)
+communion with God, the creature bowed in [awesome](errata.htm#1.md)
 gratitude before the Creator, who recognises the obligations of ethical
 conduct; not the citizen seeking the best way to become a good citizen
 and preserve the State. Moreover, the development is not from the outer
@@ -293,12 +293,12 @@ not limited by time, or place, or circumstance.
 
 ### Footnotes
 
-<span id="fn_0"></span>[10:\*](doth02.htm#fr_0) By Jehudah Ibn Tibbon.
+<span id="fn_0"></span>[10:\*](doth02.htm#fr_0.md) By Jehudah Ibn Tibbon.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Wisdom, the Highest Good](doth03)
+[Next: Wisdom, the Highest Good](doth03.md)
 
 </div>

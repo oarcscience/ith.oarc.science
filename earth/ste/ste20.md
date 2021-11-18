@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste19)  [Next](ste21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste19)  [Next](ste21.md) 
 
 ------------------------------------------------------------------------
 
@@ -740,4 +740,4 @@ of Men, and of other Animals.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](ste21)
+[Next: Chapter V](ste21.md)

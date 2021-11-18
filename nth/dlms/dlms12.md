@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](dlms11)  [Next](dlms13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](dlms11)  [Next](dlms13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dore Lectures on Mental Science*, by Thomas Troward, \[1909\], at
 Intangible Textual Heritage
 
@@ -254,6 +254,6 @@ all things new."
 
 ------------------------------------------------------------------------
 
-[Next: The Shepherd and the Stone](dlms13)
+[Next: The Shepherd and the Stone](dlms13.md)
 
 </div>

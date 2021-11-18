@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps17)  [Next](rps19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps17)  [Next](rps19.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ what they are talking about.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 17. Speaking in Tongues](rps19)
+[Next: Chapter 17. Speaking in Tongues](rps19.md)

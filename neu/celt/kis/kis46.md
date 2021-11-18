@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis45)  [Next](kis47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis45)  [Next](kis47.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ sprang from the shoulders of the Glashan and went into the mist.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](kis47)
+[Next: Part II](kis47.md)

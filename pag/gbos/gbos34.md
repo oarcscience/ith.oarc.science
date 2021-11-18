@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos33)  [Next](gbos35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos33)  [Next](gbos35.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,4 +182,4 @@ High Priest and Magus (or High Priestess and Witch Queen)."
 
 ------------------------------------------------------------------------
 
-[Next: The Third-Degree Initiation](gbos35)
+[Next: The Third-Degree Initiation](gbos35.md)

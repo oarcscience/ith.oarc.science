@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm12)  [Next](tdm14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm12)  [Next](tdm14.md) 
 
 ------------------------------------------------------------------------
 
@@ -1065,4 +1065,4 @@ dread apprehension filled the hearts of every one.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](tdm14)
+[Next: Chapter XII](tdm14.md)

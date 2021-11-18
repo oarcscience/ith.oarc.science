@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Next](asw01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Next](asw01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ Sexuality](../index)  [Index](index)  [Next](asw01) 
 
 ------------------------------------------------------------------------
 
-[Next: I. Origin of the Cross](asw01)
+[Next: I. Origin of the Cross](asw01.md)

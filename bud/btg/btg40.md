@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg39)  [Next](btg41) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg39)  [Next](btg41.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ Buddha, died.
 
 ------------------------------------------------------------------------
 
-[Next: Name And Form](btg41)
+[Next: Name And Form](btg41.md)

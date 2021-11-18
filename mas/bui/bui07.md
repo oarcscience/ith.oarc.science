@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui06)  [Next](bui08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui06)  [Next](bui08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ emblems of moral truth; that there were great secret orders using the
 Drama of Faith as a rite of initiation; and that a hidden doctrine was
 kept for those accounted worthy, after trial, to be entrusted with it.
 Secret societies, born of the nature and need of man, there have been
-almost since recorded history began; <span id="fr_53"></span>[1](#fn_53)
+almost since recorded history began; <span id="fr_53"></span>[1](#fn_53.md)
 but as yet we have come upon no separate and distinct order of builders.
 For aught we know there may have been such in plenty, but we have no
 intimation, much less a record, of the fact. That is to say, history has
@@ -81,7 +81,7 @@ while they may have employed and trained ordinary workmen, were men of
 learning and influence. Such glimpses of early architects as we have
 con-firm this inference, as, for example, the noble hymn to the Sun-god
 written by Suti and Hor, two architects employed by Amenhotep III, of
-Egypt. <span id="fr_54"></span>[1](#fn_54) Just when the builders began
+Egypt. <span id="fr_54"></span>[1](#fn_54.md) Just when the builders began
 to form orders of their own no one knows, but it was perhaps when the
 Mystery-cults began to journey abroad into other lands. What we have to
 keep in mind is that all the arts had their home in the temple, from
@@ -108,7 +108,7 @@ the building of the Hebrew temple, of the friendship of Solomon and
 Hiram I, of Tyre, and of the harmony between the two peoples; and
 Phoenician tradition has it that Solomon presented Hiram with a
 duplicate of the temple, which was erected in Tyre. <span
-id="fr_55"></span>[1](#fn_55)
+id="fr_55"></span>[1](#fn_55.md)
 
 Clearly, the two nations were drawn closely together, and this fact
 carried with it a mingling of religious influences and ideas, as was
@@ -137,7 +137,7 @@ name later—an Order of builders who erected temples, stadia, and
 theaters in Asia Minor, and who were at the same time an order of the
 Mysteries under the tutelage of Bacchus before that worship declined, as
 it did later in Athens and Rome, into mere revelry. <span
-id="fr_56"></span>[1](#fn_56) As
+id="fr_56"></span>[1](#fn_56.md) As
 
 <span id="page_77">p. 77</span>
 
@@ -147,19 +147,19 @@ Titans and his return to life. So that, blending the symbols of
 Astronomy with those of Architecture, by a slight change made by a
 natural process, how easy for the master-artist of the temple-builders
 to become the hero of the ancient drama of immortality. <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 <span id="page_78">p. 78</span>
 
 <span class="contnote">\[paragraph continues\]</span> Whether or not
 this fact can be verified from history, such is the form in which the
 tradition has come down to us, surviving through long ages and
-triumphing over all vicissitude. <span id="fr_58"></span>[1](#fn_58)
+triumphing over all vicissitude. <span id="fr_58"></span>[1](#fn_58.md)
 Secret orders have few records and their story is hard to tell, but this
 account is perfectly in accord with the spirit and setting of the
 situation, and there is neither fact nor reason against it. While this
 does not establish it as true historically, it surely gives it validity
-as a prophecy, if nothing more. <span id="fr_59"></span>[2](#fn_59)
+as a prophecy, if nothing more. <span id="fr_59"></span>[2](#fn_59.md)
 
 <span id="page_79">p. 79</span>
 
@@ -193,14 +193,14 @@ Collegia, to the architects and Masons of the Middle Ages. Since he
 wrote, however, much new material has come to light, but the date of the
 advent of the builders in Rome is still uncertain. Some trace it to the
 very founding of the city, while others go no further back than King
-Numa, the friend of Pythagoras. <span id="fr_60"></span>[1](#fn_60) By
+Numa, the friend of Pythagoras. <span id="fr_60"></span>[1](#fn_60.md) By
 any account, they were of great antiquity, and their influence in Roman
 history was far-reaching. They followed the Roman legions to remote
 places, building cities, bridges, and temples, and it was but natural
 that Mithra, the patron god of soldiers, should have influenced their
 orders. Of this an example may be seen in the remains of the ancient
 Roman villa at Morton, on the Isle of Wight. <span
-id="fr_61"></span>[2](#fn_61)
+id="fr_61"></span>[2](#fn_61.md)
 
 As Rome grew in power and became a vast, all-embracing empire, the
 individual man felt, more
@@ -336,7 +336,7 @@ humble apprentice suffered cruel torture and death, but they became the
 
 <span class="contnote">\[paragraph continues\]</span> Four Crowned
 Martyrs, the story of whose heroic fidelity unto death haunted the
-legends of later times. <span id="fr_62"></span>[1](#fn_62) They were
+legends of later times. <span id="fr_62"></span>[1](#fn_62.md) They were
 the patron saints alike of Lombard and Tuscan builders, and, later, of
 the working Masons of the Middle Ages, as witness the poem in their
 praise in the oldest record of the Craft, the *Regius MS*.
@@ -405,7 +405,7 @@ mentioning that builders were sent for from Gaul to build the church at
 Wearmouth, uses phrases and words found in the Edict of King Rotharis.
 For a long time the changes in style of architecture, appearing
 simultaneously everywhere over Europe, from Italy to England, puzzled
-students. <span id="fr_63"></span>[1](#fn_63) Further knowledge of this
+students. <span id="fr_63"></span>[1](#fn_63.md) Further knowledge of this
 powerful and widespread order explains it. It also accounts for the fact
 that no individual architect can be named as the designer of any of the
 great cathedrals. Those cathedrals were the work, not of individual
@@ -450,7 +450,7 @@ belittle the Free-masons
 as incapable of designing a cathedral, while puzzling the while as to
 who did draw the plans for those dreams of beauty and prayer. Hereafter,
 if any one asks to know who uplifted those massive piles in which was
-portrayed the great drama of [mediaeval](errata.htm#2) worship, he need
+portrayed the great drama of [mediaeval](errata.htm#2.md) worship, he need
 not remain uncertain. With the decline of Gothic architecture the order
 of Free-masons also suffered decline, as we shall see, but did not cease
 to exist—continuing its symbolic tradition amidst varying, and often
@@ -461,23 +461,23 @@ spiritual faith by allegory and moral science by symbols.
 
 ### Footnotes
 
-<span id="fn_53"></span>[73:1](bui07.htm#fr_53) *Primitive Secret
+<span id="fn_53"></span>[73:1](bui07.htm#fr_53.md) *Primitive Secret
 Societies*, by H. Webster; *Secret Societies of all Ages and Lands*, by
 W. C. Heckethorn.
 
-<span id="fn_54"></span>[74:1](bui07.htm#fr_54) We may add the case of
+<span id="fn_54"></span>[74:1](bui07.htm#fr_54.md) We may add the case of
 Weshptah, one of the viziers of the Fifth Dynasty in Egypt, about 2700
 B. C., and also the royal architect, for whom the great tomb was built,
 endowed, and furnished by the king (*Religion in Egypt*, by Breasted,
 lecture ii); also the statue of Semut, chief of Masons under Queen
 Hatasu, now in Berlin.
 
-<span id="fn_55"></span>[75:1](bui07.htm#fr_55) *Historians His. World*,
+<span id="fn_55"></span>[75:1](bui07.htm#fr_55.md) *Historians His. World*,
 vol. ii, chap. iii. Josephus gives an elaborate account of the temple,
 including the correspondence between Solomon and Hiram of Tyre (*Jewish
 Antiquities*, bk. viii, chaps. 2-6).
 
-<span id="fn_56"></span>[76:1](bui07.htm#fr_56) *Symbolism of Masonry*,
+<span id="fn_56"></span>[76:1](bui07.htm#fr_56.md) *Symbolism of Masonry*,
 Mackey, chap. vi; also in Mackey's *Encyclopedia of Masonry*, both of
 which were drawn from *History* <span id="page_77">p. 77</span> *of
 Masonry*, by Laurie, chap. i; and Laurie in turn derived his facts from
@@ -497,7 +497,7 @@ Persia, and India. Surely here are facts not to be swept aside as
 romance because, forsooth, they do not fit certain theories. Moreover,
 they explain many things, as we shall see.
 
-<span id="fn_57"></span>[77:1](bui07.htm#fr_57) Rabbinic legend has it
+<span id="fn_57"></span>[77:1](bui07.htm#fr_57.md) Rabbinic legend has it
 that all the workmen on the temple were killed, so that they should not
 build another temple devoted to idolatry (*Jewish Encyclopedia*, article
 "Freemasonry"). Other legends equally absurd cluster about the temple
@@ -508,7 +508,7 @@ What the legend is trying to tell us, however, is that at the building
 of the temple the Mysteries mingled with Hebrew faith, each .mutually
 influencing the other.
 
-<span id="fn_58"></span>[78:1](bui07.htm#fr_58) Strangely enough, there
+<span id="fn_58"></span>[78:1](bui07.htm#fr_58.md) Strangely enough, there
 is a sect or tribe called the Druses, now inhabiting the Lebanon
 district, who claim to be not only the descendants of the Phoenicians,
 but *the builders of King Solomon's temple*. So persistent and important
@@ -527,13 +527,13 @@ get it? What may this fact set in the fixed and changeless East mean?
 Freemasonry," and the discussion following, *Ars Quatuor Coronatorum*,
 iv. 7-19.)
 
-<span id="fn_59"></span>[78:2](bui07.htm#fr_59) Rawlinson, in his
+<span id="fn_59"></span>[78:2](bui07.htm#fr_59.md) Rawlinson, in his
 *History of Phoenicia*, says the people "had for ages possessed the
 mason's art, it having been brought in very early days from Egypt." Sir
 C. Warren found on the foundation stones at Jerusalem Mason's marks in
 Phoenician letters (A. Q. C;., ii, 125; iii, 68).
 
-<span id="fn_60"></span>[80:1](bui07.htm#fr_60) See essay on "A Masonic
+<span id="fn_60"></span>[80:1](bui07.htm#fr_60.md) See essay on "A Masonic
 Built City," by S. R. Forbes, a study of the plan and building of Rome,
 *Ars Quatuor Coronatorum*, iv, 86. As there will be many references to
 the proceedings of the Coronatorum Lodge of Research, it will be
@@ -544,10 +544,10 @@ brevity. For an account of the Collegia in early Christian times, see
 *Encyclopedia of Freemasonry*, and Gould, *His. Masonry*, vol. i, chap.
 i.
 
-<span id="fn_61"></span>[80:2](bui07.htm#fr_61) See *Masonic Character
+<span id="fn_61"></span>[80:2](bui07.htm#fr_61.md) See *Masonic Character
 of Roman Villa at Morton*, by J. F. Crease (*A. Q. C.*, iii, 38-59).
 
-<span id="fn_62"></span>[86:1](bui07.htm#fr_62) Their names were
+<span id="fn_62"></span>[86:1](bui07.htm#fr_62.md) Their names were
 Claudius, Nicostratus, Simphorianus, Castorius, and Simplicius. Later
 their bodies were brought from Rome to Toulouse where they were placed
 in a chapel erected in their honor in the church of St. Sernin
@@ -563,9 +563,9 @@ became saints of the church, and reign with Solomon! Once the fresco was
 whitewashed, but the coating fell off and they stood forth with
 compasses and trowel as before.
 
-<span id="fn_63"></span>[89:1](bui07.htm#fr_63) *History of Middle
+<span id="fn_63"></span>[89:1](bui07.htm#fr_63.md) *History of Middle
 Ages*, Hallam, vol. ii, 547.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Free-masons](bui08)
+[Next: Chapter I. Free-masons](bui08.md)

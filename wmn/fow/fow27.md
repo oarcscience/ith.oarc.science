@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow26)  [Next](fow28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow26)  [Next](fow28.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ For that which thou hast heard me speak to-night.'"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI: Daughters](fow28)
+[Next: Chapter XXVI: Daughters](fow28.md)

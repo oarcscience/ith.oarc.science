@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop21)  [Next](pop23) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop21)  [Next](pop23.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ build on a rock but upon the sand.'
 
 ------------------------------------------------------------------------
 
-[Next: The Eighteenth Figure](pop23)
+[Next: The Eighteenth Figure](pop23.md)

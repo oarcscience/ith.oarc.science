@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby08)  [Next](piby10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby08)  [Next](piby10.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,9 +25,9 @@ and Mrs. Flanagan, Brother Charles McLaurin, Sister Letica Johnson,
 Brother and Sister Adam Costly, Brother and Sister W.D. Sullivan, Sister
 Sarah Johnson, Brother G.W. Roberts, Rev. J.J. Derricks, Rev. A.J.
 Green, Rev. W. Barclift, Sister Bertha Johnson, Her holiness, the
-Shepherdess Miriam <span id="fr_0"></span>[1](#fn_0) , Her Holiness the
+Shepherdess Miriam <span id="fr_0"></span>[1](#fn_0.md) , Her Holiness the
 <span id="page_40">p. 40</span> Shepherdmiss Muriel <span
-id="fr_1"></span>[2](#fn_1), Brother F.L. Redd. These are those who
+id="fr_1"></span>[2](#fn_1.md), Brother F.L. Redd. These are those who
 followed the shepherd from place to place.
 
 And it came to pass that his holiness, the shepherd, traveled to
@@ -50,11 +50,11 @@ their industrial and national independence.
 
 ### Footnotes
 
-<span id="fn_0"></span>[40:1](piby09.htm#fr_0) The wife of the author.
+<span id="fn_0"></span>[40:1](piby09.htm#fr_0.md) The wife of the author.
 
-<span id="fn_1"></span>[40:2](piby09.htm#fr_1) The daughter of the
+<span id="fn_1"></span>[40:2](piby09.htm#fr_1.md) The daughter of the
 author.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5. Athlicanity Preached](piby10)
+[Next: Chapter 5. Athlicanity Preached](piby10.md)

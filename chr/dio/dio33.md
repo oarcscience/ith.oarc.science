@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio32)  [Next](dio34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio32)  [Next](dio34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ id="page_170">p. 170</span> <span id="ii.iv.ii.ix-Page_170"></span>
 powerful and great men, and this when they were contriving the building,
 not with a view to injustice towards other people, but on behalf of
 their own safety? And that counsel devised in heaven to deceive and
-mislead Achab <span id="fr_132"></span>[133](#fn_132) ; and those
+mislead Achab <span id="fr_132"></span>[133](#fn_132.md) ; and those
 mundane and meritricious passions of the Canticles; and all the other
 sacred compositions which appear in the description of God, which stick
 at nothing, as projections, and multiplications of hidden things, and
@@ -277,11 +277,11 @@ truths of the Oracles.
 
 ### Footnotes
 
-<span id="fn_132"></span>[170:133](dio33.htm#fr_132) <span
+<span id="fn_132"></span>[170:133](dio33.htm#fr_132.md) <span
 id="ii.iv.ii.ix-p3.1"></span><span id="ii.iv.ii.ix-p3.2"></span>[1Kings
-22:20](../../bib/kjv/kg1022.htm#020)<span id="ii.iv.ii.ix-p3.2"></span>.
+22:20](../../bib/kjv/kg1022.htm#020.md)<span id="ii.iv.ii.ix-p3.2"></span>.
 
 ------------------------------------------------------------------------
 
 [Next: Letter X. To John, Theologos, Apostle and Evangelist, imprisoned
-in the Isle of Patmos.](dio34)
+in the Isle of Patmos.](dio34.md)

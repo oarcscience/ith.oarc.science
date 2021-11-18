@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl30)  [Next](orl32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl30)  [Next](orl32.md) 
 
 ------------------------------------------------------------------------
 
@@ -1247,4 +1247,4 @@ I till another season shall delay.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 32](orl32)
+[Next: Canto 32](orl32.md)

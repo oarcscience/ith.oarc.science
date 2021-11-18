@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont27)  [Next](ont29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont27)  [Next](ont29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -148,7 +148,7 @@ In the following myths about Old Man, related by Spotted Eagle, the
 reader will observe the striking contrast between their crude character,
 and the beauty of conception, dignity of imagery and vividness of
 description, characterising the star-legends as told by
-Brings-down-the-Sun. <span id="fr_35"></span>[1](#fn_31)
+Brings-down-the-Sun. <span id="fr_35"></span>[1](#fn_31.md)
 
 *Old Man Plays with the Ground Squirrels and Punishes the Lynx and the
 Birch Tree*.
@@ -389,7 +389,7 @@ a much less honourable manner.
 "Men and women formerly did not live together as they do now, they were
 in separate bands like animals. Old Man was the means of bringing them
 together. The women were then camped on Crow Lodge River, beside a
-piskun, <span id="fr_36"></span>[1](#fn_32) and secured their game by
+piskun, <span id="fr_36"></span>[1](#fn_32.md) and secured their game by
 driving them over a high cliff. They were skilled in the art of tanning,
 and knew how to make good clothes and lodges from skins. The men, on the
 other hand, killed their game with bows and arrows. They did not know
@@ -550,14 +550,14 @@ constant and expert observation of weather signs.
 
 ### Footnotes
 
-<span id="fn_31"></span>[338:1](ont28.htm#fr_35) The ancient Indian
+<span id="fn_31"></span>[338:1](ont28.htm#fr_35.md) The ancient Indian
 traditions of Old Man have left their impress in many geographical names
 of this region, as Old Man's River, Old Man Mountains, Old Man's Slide,
 and Old-Man-on-His-Back Plateau.
 
-<span id="fn_32"></span>[346:1](ont28.htm#fr_36) See
-[Appendix](ont44.htm#an_437).
+<span id="fn_32"></span>[346:1](ont28.htm#fr_36.md) See
+[Appendix](ont44.htm#an_437.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI. Onesta And The Bear Spear](ont29)
+[Next: Chapter XXVI. Onesta And The Bear Spear](ont29.md)

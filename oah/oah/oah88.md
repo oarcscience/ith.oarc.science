@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah87)  [Next](oah89) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah87)  [Next](oah89.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ shooting amiss in Jehovih's worlds.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah89)
+[Next: Chapter II](oah89.md)

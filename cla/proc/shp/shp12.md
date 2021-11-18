@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp11)  [Next](shp13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp11)  [Next](shp13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -218,4 +218,4 @@ the laws.
 
 [Next: X. How Justinian Created a New Law Permitting Him to Marry a
 Courtesan On Her Promise to Repent Her Past; and the Truth About the
-Apparent Quarrels of a Happy Pair](shp13)
+Apparent Quarrels of a Happy Pair](shp13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst045)  [Next](inst047) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst045)  [Next](inst047.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ overwhelmed with every curse? It is not without cause, therefore, that
 Paul, when he would set forth Christ as the Mediator, distinctly
 declares him to be man. There is, says he, “one Mediator between God and
 man, the man Christ Jesus,” (<span id="iv.ii.xiii-p12.1"></span>[1 Tim.
-2:5](../../../bib/kjv/ti1002.htm#005)<span
+2:5](../../../bib/kjv/ti1002.htm#005.md)<span
 id="iv.ii.xiii-p12.1"></span>). He might have called him God, or at
 least, omitting to call him God he might also have omitted to call him
 man; but because the Spirit, speaking by his mouth, knew our infirmity,
@@ -99,7 +99,7 @@ indeed, he intimates the same thing in another place, where he explains
 at greater length that he is not a high priest who “cannot be touched
 with the feeling of our infirmities; but was in all points tempted like
 as we are, yet without sin,” (<span id="iv.ii.xiii-p12.2"></span>[Heb.
-4:15](../../../bib/kjv/heb004.htm#015)<span
+4:15](../../../bib/kjv/heb004.htm#015.md)<span
 id="iv.ii.xiii-p12.2"></span>).
 
 <span id="iv.ii.xiii-p13"></span>2. This will become still clearer if we
@@ -118,13 +118,13 @@ Son of God and Son of man. Hence that holy brotherhood which he commends
 with his own lips, when he says, “I ascend to my Father, and your
 Father, to my God, and your God,” (<span
 id="iv.ii.xiii-p13.1"></span>[John
-20:17](../../../bib/kjv/joh020.htm#017)<span
+20:17](../../../bib/kjv/joh020.htm#017.md)<span
 id="iv.ii.xiii-p13.1"></span>). In this way, we have a sure inheritance
 in the heavenly kingdom, because the only Son of God, to whom it
 entirely belonged, has adopted us as his brethren; and if brethren, then
 partners with him in the inheritance (<span
 id="iv.ii.xiii-p13.2"></span>[Rom.
-8:17](../../../bib/kjv/rom008.htm#017)<span
+8:17](../../../bib/kjv/rom008.htm#017.md)<span
 id="iv.ii.xiii-p13.2"></span>). Moreover, it was especially necessary
 for this cause also that he who was to be our Redeemer should be truly
 God and man. It was his to swallow up death: who but Life could do so?
@@ -171,7 +171,7 @@ first ordering of creation, while the state of nature was entire, he was
 appointed head of angels and men; for which reason Paul designates him
 “the first-born of every creature,” (<span
 id="iv.ii.xiii-p15.1"></span>[Col.
-1:15](../../../bib/kjv/col001.htm#015)<span
+1:15](../../../bib/kjv/col001.htm#015.md)<span
 id="iv.ii.xiii-p15.1"></span>). But since the whole Scripture proclaims
 that he was clothed with flesh in order to become a Redeemer, it is
 presumptuous to imagine any other cause or end. We know well why Christ
@@ -186,8 +186,8 @@ the shedding of blood being the symbol of expiation. Thus, too, the
 prophets, in discoursing of him, foretold that he would be the Mediator
 between God and man. It is sufficient to refer to the very remarkable
 prophecy of Isaiah (<span id="iv.ii.xiii-p15.2"></span>[Isa.
-53:4](../../../bib/kjv/isa053.htm#004),
-[5](../../../bib/kjv/isa053.htm#005)<span
+53:4](../../../bib/kjv/isa053.htm#004.md),
+[5](../../../bib/kjv/isa053.htm#005.md)<span
 id="iv.ii.xiii-p15.2"></span>), in which he foretells that he was
 “smitten for our iniquities;” that “the chastisement of our peace was
 upon him;” that as a priest “he was made an offering for sin;” “that by
@@ -201,7 +201,7 @@ limits gives too much indulgence to a foolish curiosity.
 declared the cause of his advent to be, that by appeasing God he might
 bring us from death unto life. To the same effect was the testimony of
 the Apostles concerning him (<span id="iv.ii.xiii-p16.1"></span>[John
-1:9](../../../bib/kjv/joh001.htm#009)<span
+1:9](../../../bib/kjv/joh001.htm#009.md)<span
 id="iv.ii.xiii-p16.1"></span>; 10:14). Thus John, before teaching that
 the Word was made flesh, narrates the fall of man. But above all, let us
 listen to our Saviour himself when discoursing of his office: “God so
@@ -212,27 +212,27 @@ the Son of God: and they that hear shall live.” “I am the resurrection
 and the life: he that believeth in me, though he were dead, yet shall he
 live.” “The Son of man is come to save that which was lost.” Again,
 “They that be whole need not a physician.”24  <span
-id="fr_236"></span>[237](#fn_236) I should never have done were I to
+id="fr_236"></span>[237](#fn_236.md) I should never have done were I to
 quote all the passages. Indeed, the Apostles, with one consent, lead us
 back to this fountain; and assuredly, if he had not come to reconcile
 God, the honour of his priesthood would fall, seeing it was his office
 as priest to stand between God and men, and “offer both gifts and
 sacrifices for sins,” (<span id="iv.ii.xiii-p17.3"></span>[Heb.
-5:1](../../../bib/kjv/heb005.htm#001)<span
+5:1](../../../bib/kjv/heb005.htm#001.md)<span
 id="iv.ii.xiii-p17.3"></span>); nor could he be our righteousness, as
 having been made a propitiation for us in order that God might not
 impute to us our sins (<span id="iv.ii.xiii-p17.4"></span>[2 Cor.
-5:19](../../../bib/kjv/co2005.htm#019)<span
+5:19](../../../bib/kjv/co2005.htm#019.md)<span
 id="iv.ii.xiii-p17.4"></span>). In short, he would be stript of all the
 titles with which Scripture invests him. Nor could Paul’s doctrine stand
 “What the law could not do, in that it was weak through the flesh, God
 sending his own Son in the likeness of sinful flesh, and for sin,
 condemned sin in the flesh,” (<span id="iv.ii.xiii-p17.5"></span>[Rom.
-8:3](../../../bib/kjv/rom008.htm#003)<span
+8:3](../../../bib/kjv/rom008.htm#003.md)<span
 id="iv.ii.xiii-p17.5"></span>). Nor what he states in another passage:
 “The grace of God that bringeth salvation has appeared to all men,”
 (<span id="iv.ii.xiii-p17.6"></span>[Tit.
-2:11](../../../bib/kjv/tit002.htm#011)<span
+2:11](../../../bib/kjv/tit002.htm#011.md)<span
 id="iv.ii.xiii-p17.6"></span>). In fine, the only end which the
 Scripture uniformly assigns for the Son of God voluntarily assuming our
 nature, and even receiving it as a command from the Father, is, that he
@@ -244,11 +244,11 @@ again.”—“This commandment have I received of my Father.” “As Moses
 lifted up the serpent in the wilderness, even so must the Son of man be
 lifted up.” “Father, save me from this hour: but for this cause came I
 unto this hour. Father, glorify thy name.”24  <span
-id="fr_237"></span>[238](#fn_237) Here he distinctly assigns as the
+id="fr_237"></span>[238](#fn_237.md) Here he distinctly assigns as the
 reason for assuming our nature, that he might become a propitiatory
 victim to take away sin. For the same reason Zacharias declares (<span
 id="iv.ii.xiii-p18.3"></span>[Luke
-1:79](../../../bib/kjv/luk001.htm#079)<span
+1:79](../../../bib/kjv/luk001.htm#079.md)<span
 id="iv.ii.xiii-p18.3"></span>), that he came “to perform the mercy
 promised to our fathers,” “to give light to them that sit in darkness,
 and in the shadow of death.” Let us remember that all these things are
@@ -256,9 +256,9 @@ affirmed of the Son of God, in whom, as Paul elsewhere declares, were
 “hid all the treasures of wisdom and knowledge,” and save whom it was
 his determination “not to know any thing,” (<span
 id="iv.ii.xiii-p18.4"></span>[Col.
-2:3](../../../bib/kjv/col002.htm#003)<span
+2:3](../../../bib/kjv/col002.htm#003.md)<span
 id="iv.ii.xiii-p18.4"></span>; <span id="iv.ii.xiii-p18.5"></span>[1
-Cor. 2:2](../../../bib/kjv/co1002.htm#002)<span
+Cor. 2:2](../../../bib/kjv/co1002.htm#002.md)<span
 id="iv.ii.xiii-p18.5"></span>).
 
 <span id="iv.ii.xiii-p19"></span>5. Should any one object, that in this
@@ -280,7 +280,7 @@ children by Jesus Christ to himself, according to the good pleasure of
 his will, to the praise of the glory of his grace, wherein he has made
 us accepted in the Beloved: In whom we have redemption through his
 blood,” (<span id="iv.ii.xiii-p19.1"></span>[Eph.
-1:4-7](../../../bib/kjv/eph001.htm#004)<span
+1:4-7](../../../bib/kjv/eph001.htm#004.md)<span
 id="iv.ii.xiii-p19.1"></span>). Here certainly the fall of Adam is not
 presupposed as anterior in point of time, but our attention is directed
 to what God predetermined before all ages, when he was pleased to
@@ -295,20 +295,20 @@ Christ, justly prays for the Ephesians that God would strengthen them
 with all saints what is the breadth and length, and depth and height;
 and to know the love of Christ which passeth knowledge,” (<span
 id="iv.ii.xiii-p19.2"></span>[Eph.
-3:16](../../../bib/kjv/eph003.htm#016),
-[18](../../../bib/kjv/eph003.htm#018)<span
+3:16](../../../bib/kjv/eph003.htm#016.md),
+[18](../../../bib/kjv/eph003.htm#018.md)<span
 id="iv.ii.xiii-p19.2"></span>); as if he intended of set purpose to set
 barriers around our minds, and prevent them from declining one iota from
 the gift of reconciliation whenever mention is made of Christ.
 Wherefore, seeing it is as Paul declares it to be, “a faithful saying,
 and worthy of all acceptation, that Christ Jesus came into the world to
 save sinners,” (<span id="iv.ii.xiii-p19.3"></span>[1 Tim.
-1:15](../../../bib/kjv/ti1001.htm#015)<span
+1:15](../../../bib/kjv/ti1001.htm#015.md)<span
 id="iv.ii.xiii-p19.3"></span>), in it I willingly acquiesce. And since
 the same Apostle elsewhere declares that the grace which is now
 manifested by the Gospel “was given us in Christ Jesus before the world
 began,” (<span id="iv.ii.xiii-p19.4"></span>[2 Tim.
-1:9](../../../bib/kjv/ti2001.htm#009)<span
+1:9](../../../bib/kjv/ti2001.htm#009.md)<span
 id="iv.ii.xiii-p19.4"></span>), I am resolved to adhere to it firmly
 even to the end. This moderation is unjustly vituperated by Osiander,
 who has unhappily, in the present day, again agitated this question,
@@ -319,7 +319,7 @@ repudiated by any passage of Scripture. As if Paul did not lay a curb on
 perverse curiosity when after speaking of the redemption obtained by
 Christ, he bids us “avoid foolish questions,” (<span
 id="iv.ii.xiii-p19.5"></span>[Tit.
-3:9](../../../bib/kjv/tit003.htm#009)<span
+3:9](../../../bib/kjv/tit003.htm#009.md)<span
 id="iv.ii.xiii-p19.5"></span>). To such insanity have some proceeded in
 their preposterous eagerness to seem acute, that they have made it a
 question whether the Son of God might not have assumed the nature of an
@@ -328,7 +328,7 @@ detestation, Osiander excuses by the pretext that it is no where
 distinctly refuted in Scripture; as if Paul, when he counted nothing
 valuable or worth knowing “save Jesus Christ and him crucified,” (<span
 id="iv.ii.xiii-p19.6"></span>[I Cor.
-2:2](../../../bib/kjv/co1002.htm#002)<span
+2:2](../../../bib/kjv/co1002.htm#002.md)<span
 id="iv.ii.xiii-p19.6"></span>), were admitting, that the author of
 salvation is an ass. He who elsewhere declares that Christ was by the
 eternal counsel of the Father appointed “head over all things to the
@@ -355,14 +355,14 @@ excellence was engraven on Adam had its origin in this, that by means of
 the only begotten Son he approximated to the glory of his Maker. Man,
 therefore, was created in the image of God (<span
 id="iv.ii.xiii-p20.1"></span>[Gen.
-1:27](../../../bib/kjv/gen001.htm#027)<span
+1:27](../../../bib/kjv/gen001.htm#027.md)<span
 id="iv.ii.xiii-p20.1"></span>), and in him the Creator was pleased to
 behold, as in a mirror, his own glory. To this degree of honour he was
 exalted by the kindness of the only begotten Son. But I add, that as the
 Son was the common head both of men and angels, so the dignity which was
 conferred on man belonged to the angels also. For when we hear them
 called the sons of God (<span id="iv.ii.xiii-p20.2"></span>[Ps.
-82:6](../../../bib/kjv/psa082.htm#006)<span
+82:6](../../../bib/kjv/psa082.htm#006.md)<span
 id="iv.ii.xiii-p20.2"></span>), it would be incongruous to deny that
 they were endued with some quality in which they resembled the Father.
 But if he was pleased that his glory should be represented in men and
@@ -371,7 +371,7 @@ Osiander to say, that angels were postponed to men, because they did not
 bear the image of Christ. They could not constantly enjoy the immediate
 presence of God if they were not like to him; nor does Paul teach (<span
 id="iv.ii.xiii-p20.3"></span>[Col.
-3:10](../../../bib/kjv/col003.htm#010)<span
+3:10](../../../bib/kjv/col003.htm#010.md)<span
 id="iv.ii.xiii-p20.3"></span>) that men are renewed in the image of God
 in any other way than by being associated with angels, that they may be
 united together under one head. In fine, if we believe Christ, our
@@ -395,14 +395,14 @@ that he might restore the lost race of man; and in this way would have
 been created in the image of Adam. For why should he be alarmed at what
 the Scripture plainly teaches, that “he was in all points tempted like
 as we are, yet without sin?” (<span id="iv.ii.xiii-p21.1"></span>[Heb.
-4:15](../../../bib/kjv/heb004.htm#015)<span
+4:15](../../../bib/kjv/heb004.htm#015.md)<span
 id="iv.ii.xiii-p21.1"></span>). Hence Luke, also, hesitates not to
 reckon him in his genealogy as a son of Adam (<span
 id="iv.ii.xiii-p21.2"></span>[Luke
-3:38](../../../bib/kjv/luk003.htm#038)<span
+3:38](../../../bib/kjv/luk003.htm#038.md)<span
 id="iv.ii.xiii-p21.2"></span>). I should like to know why Christ is
 termed by Paul the second Adam (<span id="iv.ii.xiii-p21.3"></span>[1
-Cor. 15:47](../../../bib/kjv/co1015.htm#047)<span
+Cor. 15:47](../../../bib/kjv/co1015.htm#047.md)<span
 id="iv.ii.xiii-p21.3"></span>), unless it be that a human condition was
 decreed him, for the purpose of raising up the ruined posterity of Adam.
 For if in point of order, that condition was antecedent to creation, he
@@ -427,7 +427,7 @@ rational person will grant, that Christ could have had no supremacy over
 the angels, so that they might enjoy him as their prince, unless in so
 far as he was man. But it is easy to infer from the words of Paul (<span
 id="iv.ii.xiii-p21.4"></span>[Col.
-1:15](../../../bib/kjv/col001.htm#015)<span
+1:15](../../../bib/kjv/col001.htm#015.md)<span
 id="iv.ii.xiii-p21.4"></span>), that inasmuch as he is the eternal Word
 of God, he is the first-born of every creature, not because he is
 created, or is to be reckoned among the creatures, but because the
@@ -435,7 +435,7 @@ entire structure of the world, such as it was from the beginning, when
 adorned with exquisite beauty had no other beginning; then, inasmuch as
 he was made man, he is the first-born from the dead. For in one short
 passage (<span id="iv.ii.xiii-p21.5"></span>[Col.
-1:16-18](../../../bib/kjv/col001.htm#016)<span
+1:16-18](../../../bib/kjv/col001.htm#016.md)<span
 id="iv.ii.xiii-p21.5"></span>), the Apostle calls our attention to both
 views: that by the Son all things were created, so that he has dominion
 over angels; and that he became man, in order that he might begin to be
@@ -457,7 +457,7 @@ afterwards says that he has a much stronger passage to produce, namely,
 the prophecy of Adam, who, when the woman was brought to him, said,
 “This is now bone of my bone, and flesh of my flesh,” (<span
 id="iv.ii.xiii-p21.6"></span>[Gen.
-2:23](../../../bib/kjv/gen002.htm#023)<span
+2:23](../../../bib/kjv/gen002.htm#023.md)<span
 id="iv.ii.xiii-p21.6"></span>). But how does he prove it to be a
 prophecy? Because in Matthew Christ attributes the same expression to
 God! as if every thing which God has spoken by man contained a prophecy.
@@ -474,7 +474,7 @@ with more subtlety. Paul gives no countenance to Osiander’s dream, when,
 after saying that “we are members of his body, of his flesh, and of his
 bones,” he immediately adds, “This is a great mystery,” (<span
 id="iv.ii.xiii-p21.7"></span>[Eph.
-5:30-32](../../../bib/kjv/eph005.htm#030)<span
+5:30-32](../../../bib/kjv/eph005.htm#030.md)<span
 id="iv.ii.xiii-p21.7"></span>). For he meant not to refer to the sense
 in which Adam used the words, but sets forth, under the figure and
 similitude of marriage, the sacred union which makes us one with Christ.
@@ -488,36 +488,36 @@ solid nurture of the children of God is this sober truth, that “when the
 fulness of the time was come, God sent forth his Son, made of a woman,
 made under the law, to redeem them who were under the law,” (<span
 id="iv.ii.xiii-p21.8"></span>[Gal.
-4:4](../../../bib/kjv/gal004.htm#004),
-[5](../../../bib/kjv/gal004.htm#005)<span
+4:4](../../../bib/kjv/gal004.htm#004.md),
+[5](../../../bib/kjv/gal004.htm#005.md)<span
 id="iv.ii.xiii-p21.8"></span>).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_236"></span>[237](inst046.htm#fr_236) <span
+<span id="fn_236"></span>[237](inst046.htm#fr_236.md) <span
 id="iv.ii.xiii-p16.2"></span>
 
 <span id="iv.ii.xiii-p17"></span>43 243 <span
 id="iv.ii.xiii-p17.1"></span>[John
-3:16](../../../bib/kjv/joh003.htm#016)<span
+3:16](../../../bib/kjv/joh003.htm#016.md)<span
 id="iv.ii.xiii-p17.1"></span>; 5:25; <span
 id="iv.ii.xiii-p17.2"></span>[Mt.
-18:11](../../../bib/kjv/mat018.htm#011)<span
+18:11](../../../bib/kjv/mat018.htm#011.md)<span
 id="iv.ii.xiii-p17.2"></span>; 9:12.
 
-<span id="fn_237"></span>[238](inst046.htm#fr_237) <span
+<span id="fn_237"></span>[238](inst046.htm#fr_237.md) <span
 id="iv.ii.xiii-p17.7"></span>
 
 <span id="iv.ii.xiii-p18"></span>44 244 <span
 id="iv.ii.xiii-p18.1"></span>[Luke
-24:46](../../../bib/kjv/luk024.htm#046)<span
+24:46](../../../bib/kjv/luk024.htm#046.md)<span
 id="iv.ii.xiii-p18.1"></span>; <span id="iv.ii.xiii-p18.2"></span>[John
-10:17](../../../bib/kjv/joh010.htm#017)<span
+10:17](../../../bib/kjv/joh010.htm#017.md)<span
 id="iv.ii.xiii-p18.2"></span>; 3:14; 12:27, 28.
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 13. - CHRIST CLOTHED WITH THE TRUE SUBSTANCE OF HUMAN
-NATURE.](inst047)
+NATURE.](inst047.md)

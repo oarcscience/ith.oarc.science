@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](mat)  [Next](luk) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](mat)  [Next](luk.md) 
 
 ------------------------------------------------------------------------
 
@@ -2498,4 +2498,4 @@ kupu ki nga tohu e whai ana i muri. Amine.
 
 ------------------------------------------------------------------------
 
-[Next: Luke](luk)
+[Next: Luke](luk.md)

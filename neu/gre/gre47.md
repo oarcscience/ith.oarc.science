@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre46)  [Next](gre48) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre46)  [Next](gre48.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ therewith, and turned homeward when they were ready.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLIII: The Onset on Atli at the Pass and the Slaying of
-Gunnar and Thorgeir](gre48)
+Gunnar and Thorgeir](gre48.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft02)  [Next](sfft04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft02)  [Next](sfft04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 
 <span id="img_03400"></span> ![](img/03400.jpg)  
 Donald, Dougald and Duncan starting out to seek their fortune.--Page
-[35](#page_35),  
+[35](#page_35.md),  
 *Scottish Fairy Tales*.
 
  
@@ -496,9 +496,9 @@ Troll; "what is your business?"
  
 
 <span id="img_05000"></span> <span align="CENTER"> [![](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)</span>  
+Click to enlarge](img/05000.jpg.md)</span>  
 "I am come about a situation," said Donald; "perhaps you may want a
-servant,"--Page [51](#page_51).  
+servant,"--Page [51](#page_51.md).  
 *Scottish Fairy Tales*.
 
  
@@ -930,10 +930,10 @@ And Donald went up to Flora, and Dougald went
  
 
 <span id="img_06400"></span> <span align="CENTER"> [![](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)</span>  
+Click to enlarge](img/06400.jpg.md)</span>  
 The next morning Duncan and his brothers found a handsome young man
 standing by the door and two fair maidens seated by him.--Page
-[64](#page_64).  
+[64](#page_64.md).  
 *Scottish Fairy Tales*.
 
  
@@ -974,4 +974,4 @@ I know for one, I should have felt, like the Trolls, most uncomfortable.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the White Pet](sfft04)
+[Next: The Story of the White Pet](sfft04.md)

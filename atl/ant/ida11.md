@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida10)  [Next](ida12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida10)  [Next](ida12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -140,7 +140,7 @@ lacked only one page, the one with which she had been polishing my door.
 This manuscript, this notebook, have you any idea what it was? Merely
 the *Voyage to Atlantis* of the mythologist Denis de Milet, which is
 mentioned by Diodorus and the loss of which I had so often heard
-Berlioux deplore. <span id="fr_10"></span>[1](#fn_10)
+Berlioux deplore. <span id="fr_10"></span>[1](#fn_10.md)
 
 "This inestimable document contained numerous quotations from the
 Critias. It gave an abstract of the illustrious dialogue, the sole
@@ -393,7 +393,7 @@ meaning, the new Atlantis, is dazzlingly apparent from this
 demonstration."
 
 I looked at Morhange. His astonishment was without
-[bounds](errata.htm#7). The Berber prefix *ti* had literally stunned
+[bounds](errata.htm#7.md). The Berber prefix *ti* had literally stunned
 him.
 
 "Have you had occasion, sir, to verify this very ingenious etymology?"
@@ -486,7 +486,7 @@ And he added:
 
 ### Footnotes
 
-<span id="fn_10"></span>[134:1](ida11.htm#fr_10) How did the Voyage to
+<span id="fn_10"></span>[134:1](ida11.htm#fr_10.md) How did the Voyage to
 Atlantis arrive at Dax? I have found, so far, only one credible
 hypothesis: it might have been discovered in Africa by the traveller, de
 Behagle, a member of the Roger-Ducos Society, who studied at the college
@@ -495,4 +495,4 @@ Leroux.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Red Marble Hall](ida12)
+[Next: Chapter X. The Red Marble Hall](ida12.md)

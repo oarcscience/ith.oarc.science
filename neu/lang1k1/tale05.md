@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale04)  [Next](tale06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale04)  [Next](tale06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ the manner of your death."
 <span id="img_02500"></span>
 
 [![THE GENIUS COMES OUT OF THE JAR](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)  
+Click to enlarge](img/02500.jpg.md)  
 THE GENIUS COMES OUT OF THE JAR  
 
 <span id="page_26">p. 26</span> <span id="page_27">p. 27</span>
@@ -165,4 +165,4 @@ Listen, and I will tell you."
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Greek King and the Physician Douban](tale06)
+[Next: The Story of the Greek King and the Physician Douban](tale06.md)

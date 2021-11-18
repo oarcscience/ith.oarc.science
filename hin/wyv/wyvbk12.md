@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk11)  [Next](wyvbk13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk11)  [Next](wyvbk13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -373,7 +373,7 @@ mine.
 the blossomless,  
 Urged onward by Brihaspati, release us from our pain and  
 grief;  
-90 [Release](errata.htm#4) me from the curse's plague and woe that comes
+90 [Release](errata.htm#4.md) me from the curse's plague and woe that comes
 from  
 Varuna;  
 Free me from Yama's fetter, from sin and offence against the  
@@ -488,4 +488,4 @@ Shines forth the One Imperial Lord.
 
 ------------------------------------------------------------------------
 
-[Next: Book XIII](wyvbk13)
+[Next: Book XIII](wyvbk13.md)

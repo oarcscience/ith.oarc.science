@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas060n)  [Next](jas062n)   
- \[[61. The Fasting Trial (fragment).](jas061)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas060n)  [Next](jas062n.md)   
+ \[[61. The Fasting Trial (fragment).](jas061.md)\]
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ song in the Jamaica versions suggests this connection.
 
 ------------------------------------------------------------------------
 
-[Next: Note 62. Man is Stronger.](jas062n)
+[Next: Note 62. Man is Stronger.](jas062n.md)

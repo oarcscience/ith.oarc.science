@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen11)  [Next](gen13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen11)  [Next](gen13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -41,10 +41,10 @@ accompanying her daughter, this lady made up her mind to do so, because
 she would not allow her young daughter to go alone.
 
 In a suburban field the "field palace" was built. <span
-id="fr_89"></span>[1](#fn_88) It was of wood, and surrounded by a fence
+id="fr_89"></span>[1](#fn_88.md) It was of wood, and surrounded by a fence
 of newly cut branches of trees. In front stood a huge *torii* <span
-id="fr_90"></span>[2](#fn_89) of logs, and within the compound were the
-quarters of the Kandzkasa. <span id="fr_91"></span>[3](#fn_90) Here the
+id="fr_90"></span>[2](#fn_89.md) of logs, and within the compound were the
+quarters of the Kandzkasa. <span id="fr_91"></span>[3](#fn_90.md) Here the
 Saigû took up her residence, where her mother also accompanied her. When
 the sixteenth of September, which was fixed for the departure, arrived,
 the ceremony of her last consecration was duly performed on the banks of
@@ -78,7 +78,7 @@ with a twig of Sakaki (divine tree):—
     But though you dauntless fly so far,  
   Your sleeve may yet be wet with dew,  
     Before you cross Suzukah." <span
-id="fr_92"></span>[4](#fn_91)</span>
+id="fr_92"></span>[4](#fn_91.md)</span>
 
 </div>
 
@@ -141,7 +141,7 @@ In the course of a few days the strength of the Emperor began to
 decline, and at last he quietly and peacefully passed away. And now the
 Court went into general mourning, and Genji, being one of the principal
 mourners, put on a dress of Wistaria  cloth; <span
-id="fr_93"></span>[5](#fn_92) so frequently did misfortune fall on him
+id="fr_93"></span>[5](#fn_92.md) so frequently did misfortune fall on him
 in the course of a few years, and his cares became really great.
 
 The funeral and the weekly requiems were performed with all due pomp and
@@ -180,7 +180,7 @@ owing, it seems, to the circumstance that there was no immediate issue
 of the Imperial blood suitable for this office.
 
 In February the youngest daughter of the Udaijin became the
-Naishi-no-Kami, <span id="fr_94"></span>[6](#fn_93) in the place of the
+Naishi-no-Kami, <span id="fr_94"></span>[6](#fn_93.md) in the place of the
 former one, who had left office and become a nun after the death of the
 ex-Emperor.
 
@@ -220,14 +220,14 @@ been taken away by Genji.
 
 The summer had passed without any particular events, and autumn arrived.
 Genji, wishing to have a little change, went to the monastery of
-Unlinin, <span id="fr_95"></span>[7](#fn_94) and spent some days in the
+Unlinin, <span id="fr_95"></span>[7](#fn_94.md) and spent some days in the
 chamber of a rissh (discipline-master), who was a brother of his mother.
 Maple-trees were changing their tints, and the beautiful scenery around
 this spot made him almost forget his home. His daily amusement was to
 gather together several monks, and make them discuss before him.
 
 He himself perused the so-called "sixty volumes," <span
-id="fr_96"></span>[8](#fn_95) and would get the monks to explain any
+id="fr_96"></span>[8](#fn_95.md) and would get the monks to explain any
 point which was not clear to his understanding.
 
 When he came to reflect on the various circumstances taking place in the
@@ -276,7 +276,7 @@ a minute, and loudly reciting,
 
 <span class="small">"The white rainbow crossed the sun,  
   And the Prince was frightened," <span
-id="fr_97"></span>[9](#fn_96)</span>
+id="fr_97"></span>[9](#fn_96.md)</span>
 
 </div>
 
@@ -288,7 +288,7 @@ of the late Emperor she retired to her private residence. She fully
 participated in all those inglorious mortifications to which Genji and
 his father-in-law were subjected. She was convinced she would never
 suffer such cruel treatment as that which Seki-Foojin <span
-id="fr_98"></span>[10](#fn_97) did at the hands of her rival, but she
+id="fr_98"></span>[10](#fn_97.md) did at the hands of her rival, but she
 was also convinced that some sort of misfortune was; inevitable.
 
 <span id="page_163">p. 163</span>
@@ -307,7 +307,7 @@ with him, she said, "Suppose, that while I do not see you for some time,
 my features become changed, what would you think?"
 
 The little Prince, who watched her face, replied, "Like Shikib? <span
-id="fr_99"></span>[11](#fn_98)—no—that can't be." The Princess smiled a
+id="fr_99"></span>[11](#fn_98.md)—no—that can't be." The Princess smiled a
 little, and said, "No, that is not so; Shikib's is changed by age, but
 suppose mine were different from hers, and my hair became shorter than
 hers, and I wore a black dress like a chaplain-in-waiting, and I could
@@ -316,7 +316,7 @@ the Prince also a little downcast.
 
 Serene was his face, and finely pencilled were his eyebrows. He was
 growing up fast, and his teeth were a little decayed and
-blackened, <span id="fr_100"></span>[12](#fn_99) which gave a peculiar
+blackened, <span id="fr_100"></span>[12](#fn_99.md) which gave a peculiar
 beauty to his smile, and the prettiness of his appearance only served to
 increase her regret; and with a profound pensiveness she returned to her
 residence.
@@ -355,7 +355,7 @@ Genji came to pay his New Year's visit on the seventh day, but he saw no
 signs of the season. All nobles who used to pay visits of felicitation,
 now shunned her house and gathered at the mansion of Udaijin, near her
 own. The only things which caught Genji's attention in her mansion was a
-white horse, <span id="fr_101"></span>[13](#fn_100) which was being
+white horse, <span id="fr_101"></span>[13](#fn_100.md) which was being
 submitted to her inspection as on former occasions. When he entered, he
 noticed that all the hangings of the room and the dresses of the inmates
 were of the dark hues of conventual life. The only things that there
@@ -404,7 +404,7 @@ and played together. They both well remembered how they used to compete
 with each other in such matters as studying and playing, and they still
 kept their rivalry alive. They would sometimes send for some scholars,
 and would compose poems together, or play the "Covering Rhymes." <span
-id="fr_102"></span>[14](#fn_101) They seldom appeared at Court, while in
+id="fr_102"></span>[14](#fn_101.md) They seldom appeared at Court, while in
 the outer world different scandals about them were increasing day by
 day.
 
@@ -433,7 +433,7 @@ years old, was present. He was the second boy by his wife, Udaijin's
 daughter, and a tolerable player on the Sôh-flute. Both his countenance
 and disposition were amiable. The party was in full enjoyment when the
 boy rose and sang "Takasago" (high sand). <span
-id="fr_103"></span>[15](#fn_102) When he proceeded to the last clause of
+id="fr_103"></span>[15](#fn_102.md) When he proceeded to the last clause of
 his song,
 
 <div style="margin-left: 32px">
@@ -478,7 +478,7 @@ height. Many poems, both in Chinese and Japanese, were composed by those
 present, most of whom paid high compliment to Genji. He felt proud, and
 unconsciously exclaimed, "The son of King Yuen, the brother of King Mu;"
 and would have added, "the King Ching's—" <span
-id="fr_104"></span>[16](#fn_103) but there he paused.
+id="fr_104"></span>[16](#fn_103.md) but there he paused.
 
 <span id="page_167">p. 167</span>
 
@@ -591,63 +591,63 @@ the design which she had been forming for some time.
 
 ### Footnotes
 
-<span id="fn_88"></span>[157:1](gen12.htm#fr_89) A temporary residence
+<span id="fn_88"></span>[157:1](gen12.htm#fr_89.md) A temporary residence
 expressly built for the Saigû to undergo purification.
 
-<span id="fn_89"></span>[157:2](gen12.htm#fr_90) A peculiar gate erected
+<span id="fn_89"></span>[157:2](gen12.htm#fr_90.md) A peculiar gate erected
 in front of the sacred places.
 
-<span id="fn_90"></span>[157:3](gen12.htm#fr_91) Shinto priests.
+<span id="fn_90"></span>[157:3](gen12.htm#fr_91.md) Shinto priests.
 
-<span id="fn_91"></span>[158:4](gen12.htm#fr_92) Name of a river of the
+<span id="fn_91"></span>[158:4](gen12.htm#fr_92.md) Name of a river of the
 province of Ise, which the travellers had to cross.
 
-<span id="fn_92"></span>[159:5](gen12.htm#fr_93) A dress made of the
+<span id="fn_92"></span>[159:5](gen12.htm#fr_93.md) A dress made of the
 bark of the Wistaria was worn by those who were in deep mourning for
 near relatives.
 
-<span id="fn_93"></span>[160:6](gen12.htm#fr_94) This was an office held
+<span id="fn_93"></span>[160:6](gen12.htm#fr_94.md) This was an office held
 by a Court lady, whose duty it was to act as a medium of communication
 in the transmitting of messages between the Emperor and State officials
 
-<span id="fn_94"></span>[161:7](gen12.htm#fr_95) It is said that the
+<span id="fn_94"></span>[161:7](gen12.htm#fr_95.md) It is said that the
 tomb of the authoress of this work is to be found at this spot.
 
-<span id="fn_95"></span>[161:8](gen12.htm#fr_96) In the Tendai sect of
+<span id="fn_95"></span>[161:8](gen12.htm#fr_96.md) In the Tendai sect of
 Buddhists there are sixty volumes of the theological writings which are
 considered most authoritative for their doctrine.
 
-<span id="fn_96"></span>[162:9](gen12.htm#fr_97) A passage of a Chinese
+<span id="fn_96"></span>[162:9](gen12.htm#fr_97.md) A passage of a Chinese
 history. The story is, that a Prince of a certain Chinese kingdom
 contrived to have assassinated an Emperor, his enemy. When he sent off
 the assassin this event took place. The allusion here seems to imply the
 allegation that Genji intended high treason.
 
-<span id="fn_97"></span>[162:10](gen12.htm#fr_98) She was the favorite
+<span id="fn_97"></span>[162:10](gen12.htm#fr_98.md) She was the favorite
 of the first Emperor of the Hung dynasty in China, and the rival of the
 Empress. When the Emperor died, the Empress, a clever and disdainful
 woman, revenged herself by cutting off her feet, and her arms, and
 making away with her son.
 
-<span id="fn_98"></span>[163:11](gen12.htm#fr_99) This seems to have
+<span id="fn_98"></span>[163:11](gen12.htm#fr_99.md) This seems to have
 been the name of an aged attendant.
 
-<span id="fn_99"></span>[163:12](gen12.htm#fr_100) Among Japanese
+<span id="fn_99"></span>[163:12](gen12.htm#fr_100.md) Among Japanese
 children it often happens that the milk teeth become black and decayed,
 which often gives a charm to their expression.
 
-<span id="fn_100"></span>[164:13](gen12.htm#fr_101) It was the custom to
+<span id="fn_100"></span>[164:13](gen12.htm#fr_101.md) It was the custom to
 show a white horse on the seventh day of the new year to the Empress,
 the superstition being that this was a protestation against evil
 spirits.
 
-<span id="fn_101"></span>[165:14](gen12.htm#fr_102) A game consisting in
+<span id="fn_101"></span>[165:14](gen12.htm#fr_102.md) A game consisting in
 opening Chinese poetry books and covering the rhymes, making others
 guess them.
 
-<span id="fn_102"></span>[166:15](gen12.htm#fr_103) Name of a ballad.
+<span id="fn_102"></span>[166:15](gen12.htm#fr_103.md) Name of a ballad.
 
-<span id="fn_103"></span>[166:16](gen12.htm#fr_104) In Chinese history
+<span id="fn_103"></span>[166:16](gen12.htm#fr_104.md) In Chinese history
 it is recorded that in giving an injunction to his son, Duke Choau, a
 great statesman of the eleventh century B.C., used these words: "I am
 the son of King Yuen, the brother of King Mu, and the uncle of King
@@ -660,6 +660,6 @@ the above quotation in reference to himself.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Villa of Falling Flowers](gen13)
+[Next: Chapter XI: Villa of Falling Flowers](gen13.md)
 
 </div>

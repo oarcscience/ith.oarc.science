@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo00)  [Next](aoo02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo00)  [Next](aoo02.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ strength and purpose.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](aoo02)
+[Next: Chapter II](aoo02.md)

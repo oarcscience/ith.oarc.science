@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw72)  [Next](omw74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw72)  [Next](omw74.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_25300"></span>
 
 [![Ma-ui](tn/25300.jpg)  
-Click to enlarge](img/25300.jpg)  
+Click to enlarge](img/25300.jpg.md)  
 Ma-ui  
 
 # POLYNESIAN
@@ -182,7 +182,7 @@ for them that he went down to
 the lower world, and that he went searching through the upper world for
 it.
 
-In Kahiki-mo-e <span id="fr_26"></span>[1](#fn_26) they have a tale
+In Kahiki-mo-e <span id="fr_26"></span>[1](#fn_26.md) they have a tale
 about Ma-ui that the Hawaiians do not know. There they tell how he went
 down to the lower world and sought out his great-great-grand mother,
 Ma-hui’a. She was glad to see Ma-ui of whom she had heard in the lower
@@ -329,8 +329,8 @@ alae, the mud-hen, has a red streak on her head to this day.
 
 ### Footnotes
 
-<span id="fn_26"></span>[257:1](omw73.htm#fr_26) New Zealand.
+<span id="fn_26"></span>[257:1](omw73.htm#fr_26.md) New Zealand.
 
 ------------------------------------------------------------------------
 
-[Next: How Ma-Ui Strove to Win Immortality For All Creatures](omw74)
+[Next: How Ma-Ui Strove to Win Immortality For All Creatures](omw74.md)

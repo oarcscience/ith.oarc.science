@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto21)  [Next](gto23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto21)  [Next](gto23.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,8 +43,8 @@ song:
 
 "She, methought, her face all flushing,  
   Bathed my locks in reddest blood,  
-Flames of light <span id="fr_12"></span>[1](#fn_12) so rosy blushing,  
-  Woden's balm <span id="fr_13"></span>[1](#fn_12) so bright and good  
+Flames of light <span id="fr_12"></span>[1](#fn_12.md) so rosy blushing,  
+  Woden's balm <span id="fr_13"></span>[1](#fn_12.md) so bright and good  
 Still I see her fingers glowing,  
   Bright with gems and blazing rings,  
 Steeped in blood so freely flowing,  
@@ -157,8 +157,8 @@ What, my love, doth this betoken?--
 
 ### Footnotes
 
-<span id="fn_12"></span>[101:1](gto22.htm#fr_13) Periphrasis for blood.
+<span id="fn_12"></span>[101:1](gto22.htm#fr_13.md) Periphrasis for blood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. Gisli's Slaying](gto23)
+[Next: Chapter XVIII. Gisli's Slaying](gto23.md)

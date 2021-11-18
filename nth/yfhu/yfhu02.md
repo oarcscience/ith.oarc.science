@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu01)  [Next](yfhu03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu01)  [Next](yfhu03.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -150,4 +150,4 @@ are true to the best that is in you*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Ruling Principle In Man](yfhu03)
+[Next: Chapter I. The Ruling Principle In Man](yfhu03.md)

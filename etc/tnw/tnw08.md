@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw07)  [Next](tnw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw07)  [Next](tnw09.md) 
 
 ------------------------------------------------------------------------
 
@@ -424,4 +424,4 @@ history of the creation."
 
 ------------------------------------------------------------------------
 
-[Next: 8. Physics: The Knot](tnw09)
+[Next: 8. Physics: The Knot](tnw09.md)

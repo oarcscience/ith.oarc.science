@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst04)  [Next](myst06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst04)  [Next](myst06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -37,11 +37,11 @@ contribution of the twentieth century to man’s quest of the Real, it
 entered the philosophic arena from several different directions;
 penetrating and modifying current conceptions not only of philosophy but
 of religion, science, art and practical life. It was applied by Driesch
- <span id="fr_21"></span>[22](#fn_21) and other biologists in the sphere
-of organic life. Bergson,  <span id="fr_22"></span>[23](#fn_22) starting
+ <span id="fr_21"></span>[22](#fn_21.md) and other biologists in the sphere
+of organic life. Bergson,  <span id="fr_22"></span>[23](#fn_22.md) starting
 from psychology, developed its intellectual and metaphysical
 implications; whilst Rudolph Eucken  <span
-id="fr_23"></span>[24](#fn_23) constructed from, or beside it, a
+id="fr_23"></span>[24](#fn_23.md) constructed from, or beside it, a
 philosophy of the Spirit, of man’s relations to the Real. <span
 id="page_27">p. 27</span> <span id="an_iii.ii-Page_27"></span>
 
@@ -55,7 +55,7 @@ spiritual worlds, as instinct with initiative and spontaneity: as above
 all things free. For them, nature, though conditioned by the matter with
 which she works, is stronger than her chains. Pushing out from within,
 ever seeking expression, she buds and breaks forth into original
-creation.  <span id="fr_24"></span>[25](#fn_24) The iron “laws” of the
+creation.  <span id="fr_24"></span>[25](#fn_24.md) The iron “laws” of the
 determinists are merely her observed habits, not her fetters: and man,
 seeing nature in the terms of “cause and effect,” has been the dupe of
 his own limitations and prejudices.
@@ -90,7 +90,7 @@ that reverence which is their due, Vitalism would identify itself with
 the mystic philosopher, <span id="page_28">p. 28</span> <span
 id="an_iii.ii-Page_28"></span> Heracleitus; who, in the fifth century
 B.C., introduced its central idea to the European world  <span
-id="fr_25"></span>[26](#fn_25) : for his “Logos” or Energizing Fire is
+id="fr_25"></span>[26](#fn_25.md) : for his “Logos” or Energizing Fire is
 but another symbol for that free and living Spirit of Becoming, that
 indwelling creative power, which Vitalism acknowledges as the very soul
 or immanent reality of things. It is in essence both a Hellenic and a
@@ -118,7 +118,7 @@ should have no negations. It is a vision, not a map.
 
 <span id="an_iii.ii-p12"></span>The primary difference between Vitalism
 and the classic philosophic schools is this. Its focal point is not
-Being but Becoming.  <span id="fr_26"></span>[27](#fn_26) Translated
+Being but Becoming.  <span id="fr_26"></span>[27](#fn_26.md) Translated
 into Platonic language, not the changeless One, the Absolute,
 transcending all succession, but rather His energizing Thought—the Son,
 the Creative Logos—is the supreme reality which it proposes as
@@ -126,7 +126,7 @@ accessible to human consciousness.
 
 <span id="an_iii.ii-p14"></span>“All things,” said Heracleitus, “are in
 a state of flux.” “Everything happens through strife.” “Reality is a
-condition of unrest.”  <span id="fr_27"></span>[28](#fn_27) Such is also
+condition of unrest.”  <span id="fr_27"></span>[28](#fn_27.md) Such is also
 the opinion of Bergson and Alexander; who, agreeing in this with the
 conclusions of physical science, look upon the Real as dynamic rather
 than static, as *becoming* rather than *being* <span id="page_29">p.
@@ -136,7 +136,7 @@ see in Time—the precession or flux of things—the very stuff of reality—
 > <span id="an_iii.ii-p15.1"></span> “From the fixed lull of Heaven she
 > saw  
 > Time like a pulse shake fierce  
-> Through all the worlds”—  <span id="fr_28"></span>[29](#fn_28)  
+> Through all the worlds”—  <span id="fr_28"></span>[29](#fn_28.md)  
 
 <span id="an_iii.ii-p17"></span>said Rossetti of the Blessed Damozel. So
 Bergson, while ignoring if he does not deny the existence of the “fixed
@@ -145,7 +145,7 @@ of Time, the vast unending storm of life and love. Reality, says
 Bergson, is pure creative Life; a definition which excludes those ideas
 of perfection and finality involved in the idealist’s concept of Pure
 Being as the Absolute and Unchanging One.  <span
-id="fr_29"></span>[30](#fn_29) This life, as he sees it, is fed from
+id="fr_29"></span>[30](#fn_29.md) This life, as he sees it, is fed from
 within rather than upheld from without. It evolves by means of its own
 inherent and spontaneous creative power. The biologist’s Nature “so
 careful of the type”; the theologian’s Creator transcending His
@@ -162,10 +162,10 @@ Creation, Activity, Movement; this, says Vitalism, rather than any
 merely apparent law and order, any wholeness, is the essential quality
 of the Realms the Real: and life is an eternal Becoming, a ceaseless
 changefulness. At its highest it may be conceived as “the universe
-flowering into deity,”  <span id="fr_30"></span>[31](#fn_30) As the
+flowering into deity,”  <span id="fr_30"></span>[31](#fn_30.md) As the
 Hermetic philosophers found in the principle of analogy, <span
 id="an_iii.ii-p20.1"></span> *“Quod inferius sicut quod superius,”*
- <span id="fr_31"></span>[32](#fn_31) the Key of Creation, so we are
+ <span id="fr_31"></span>[32](#fn_31.md) the Key of Creation, so we are
 invited to see in that uninterrupted change which is the condition of
 our normal consciousness, a true image, a microcosm of the living
 universe as a part of which that consciousness has been evolved.
@@ -180,7 +180,7 @@ id="page_30">p. 30</span> <span id="an_iii.ii-Page_30"></span> universe.
 We must perceive in it, as some mystics have done, “the beating of the
 Heart of God”; and agree with Heracleitus that “there is but one wisdom,
 to understand the knowledge by which all things are steered through the
-All.”  <span id="fr_32"></span>[33](#fn_32) Union with
+All.”  <span id="fr_32"></span>[33](#fn_32.md) Union with
 reality—apprehension of it—will upon this hypothesis be union with life
 at its most intense point: in its most dynamic aspect. It will be a
 deliberate harmony set up with the Logos which that same philosopher
@@ -219,7 +219,7 @@ photographed, never was at rest—it recreates a picture of life, of
 motion. This rather jerky representation of divine harmony, from which
 innumerable moments are left out, is useful for practical purposes: but
 it is not reality, because it is not alive.  <span
-id="fr_33"></span>[34](#fn_33) <span id="page_31">p. 31</span> <span
+id="fr_33"></span>[34](#fn_33.md) <span id="page_31">p. 31</span> <span
 id="an_iii.ii-Page_31"></span>
 
 <span id="an_iii.ii-p26"></span>This “real world,” then, is the result
@@ -250,7 +250,7 @@ inextinguishable, by which you are aware that a greater truth exists.
 This truth, whose neighbourhood you feel, and for which you long, is
 Life. You are in it all the while, “like a fish in the sea, like a bird
 in the air,” as St. Mechthild of Hackborn said many centuries ago.
- <span id="fr_34"></span>[35](#fn_34)
+ <span id="fr_34"></span>[35](#fn_34.md)
 
 <span id="an_iii.ii-p29"></span>Give yourself, then, to this divine and
 infinite life, this mysterious Cosmic activity in which you are
@@ -292,7 +292,7 @@ is the mystics’ secret in a nutshell. “When I stand empty *in* God’s
 will and empty *of* God’s will and of all His works and of God Himself,”
 cries Eckhart with his usual violence of language, *“then* am I above
 all creatures and am neither God nor creature, but I am what I was and
-evermore shall be.”  <span id="fr_35"></span>[36](#fn_35) He attains,
+evermore shall be.”  <span id="fr_35"></span>[36](#fn_35.md) He attains,
 that is to say, by this escape from a narrow selfhood, not to identity
 with God—that were only conceivable upon a basis of pantheism—but to an
 identity with his own substantial life, and through it with the life of
@@ -326,7 +326,7 @@ radiance, we know, for good or evil, what we are. “We are not pure
 intellects . . . around our conceptional and logical thought there
 remains a vague, nebulous Somewhat, the substance at whose expense the
 luminous nucleus we call the intellect is formed.”  <span
-id="fr_36"></span>[37](#fn_36) In this aura, this diffused
+id="fr_36"></span>[37](#fn_36.md) In this aura, this diffused
 sensitiveness, we are asked to find man’s medium of communication with
 the Universal Life.
 
@@ -337,11 +337,11 @@ does not want to peep, but to live. Hence he cannot be satisfied with
 anything less than a total and permanent adjustment of his being to the
 greater life of reality. This alone can resolve the disharmonies between
 the self and the world, and give meaning and value to human life.  <span
-id="fr_37"></span>[38](#fn_37) The possibility of this adjustment—of
+id="fr_37"></span>[38](#fn_37.md) The possibility of this adjustment—of
 union between man’s life and that “independent spiritual life” which is
 the stuff of reality—is the theme alike of mysticism and of Eucken’s
 spiritual vitalism or Activistic Philosophy.  <span
-id="fr_38"></span>[39](#fn_38) Reality, says Eucken, is an independent
+id="fr_38"></span>[39](#fn_38.md) Reality, says Eucken, is an independent
 spiritual world, unconditioned by the apparent world of sense. To know
 it and to live in it is man’s true destiny. His point of contact with it
 is personality: the inward fount of his being: his heart, not his head.
@@ -360,7 +360,7 @@ freedom of the infinite is to be attained. We are amphibious creatures:
 our life moves upon two levels at once—the natural and the spiritual.
 The key to the puzzle of man lies in the fact that he is “the meeting
 point of various stages of Reality.”  <span
-id="fr_39"></span>[40](#fn_39) All his difficulties and triumphs are
+id="fr_39"></span>[40](#fn_39.md) All his difficulties and triumphs are
 grounded in this. The whole question for him is, which world shall be
 central for him—the real, vital, all-embracing life we call spirit, or
 the lower life of sense? Shall “Existence,” the superficial obvious
@@ -437,7 +437,7 @@ deeps into which only the very greatest contemplatives have looked.
 These, coming forth, have declared with Ruysbroeck that “God according
 to the Persons is Eternal Work, but according to the Essence and Its
 perpetual stillness He is Eternal Rest.”  <span
-id="fr_40"></span>[41](#fn_40)
+id="fr_40"></span>[41](#fn_40.md)
 
 <span id="an_iii.ii-p46"></span>The full spiritual consciousness of the
 true mystic is developed not in one, but in two apparently opposite but
@@ -445,7 +445,7 @@ really complementary directions:—
 
 > <span id="an_iii.ii-p46.1"></span> “. . . io vidi  
 > Ambo le corte del ciel manifeste.”  <span
-> id="fr_41"></span>[42](#fn_41)  
+> id="fr_41"></span>[42](#fn_41.md)  
 
 <span id="an_iii.ii-p48"></span>On the one hand he is intensely aware
 of, and knows himself to be at one with that active World of Becoming,
@@ -468,7 +468,7 @@ the body is clad in the cloth,” she said, “and the flesh in the skin and
 the bones in the flesh and the heart in the whole, so are we, soul and
 body, clad in the Goodness of God and enclosed. Yea, and more homely:
 for all these may waste and wear away, but the Goodness of God is ever
-whole.”  <span id="fr_42"></span>[43](#fn_42) Many mystical poets and
+whole.”  <span id="fr_42"></span>[43](#fn_42.md) Many mystical poets and
 pantheistic mystics never pass beyond this degree of lucidity.
 
 <span id="an_iii.ii-p50"></span>On the other hand, the full mystic
@@ -497,7 +497,7 @@ up, above the reason, into naked vision. There the Divine Unity dwells
 and calls them. Hence their bare vision, cleansed and free, penetrates
 the activity <span id="page_37">p. 37</span> <span
 id="an_iii.ii-Page_37"></span> of all created things, and pursues it to
-search it out even to its height.”  <span id="fr_43"></span>[44](#fn_43)
+search it out even to its height.”  <span id="fr_43"></span>[44](#fn_43.md)
 
 <span id="an_iii.ii-p53"></span>Though philosophy has striven since
 thought began—and striven in vain—to resolve the paradox of Being and
@@ -520,11 +520,11 @@ nature of Reality. “Whatever be the limits of your knowledge, we
 know”—they would say—“that the world has another aspect than this: the
 aspect which is present to the Mind of God.” “Tranquillity according to
 His essence, activity according to His nature: perfect stillness,
-perfect fecundity,”  <span id="fr_44"></span>[45](#fn_44) says
+perfect fecundity,”  <span id="fr_44"></span>[45](#fn_44.md) says
 Ruysbroeck again, this is the two-fold character of the Absolute. That
 which to us is action, to Him, they declare, is rest, “His very peace
 and stillness coming from the brimming fullness of His infinite life.”
- <span id="fr_45"></span>[46](#fn_45) That which to us is Many, to that
+ <span id="fr_45"></span>[46](#fn_45.md) That which to us is Many, to that
 Transcendent Knower is One. Our World of Becoming rests on the bosom of
 that Pure Being which has ever been the final Object of man’s quest: the
 “river in which we cannot bathe twice” is the stormy flood of life
@@ -532,7 +532,7 @@ flowing toward that divine sea. “How glorious,” says the Voice of the
 Eternal to St. Catherine of Siena, “is that soul which has indeed been
 able to pass from the stormy ocean to Me, the Sea Pacific, and in that
 Sea, which is Myself, to fill the pitcher of her heart.”  <span
-id="fr_46"></span>[47](#fn_46)
+id="fr_46"></span>[47](#fn_46.md)
 
 <span id="an_iii.ii-p57"></span>The evolution of the mystic
 consciousness, then, brings its possessors to this transcendent point of
@@ -543,7 +543,7 @@ id="an_iii.ii-Page_38"></span> most mystical of philosophers discerned a
 hidden unity beneath the battle, transcending all created opposites, and
 taught his disciples that “Having hearkened not unto me but unto the
 Logos, it is wise to confess that all things are *one.”*  <span
-id="fr_47"></span>[48](#fn_47) This is the secret at which the
+id="fr_47"></span>[48](#fn_47.md) This is the secret at which the
 idealists’ and concept of Pure Being has tried, so timidly, to hint: and
 which the Vitalists’ more intimate, more actual concept of Becoming has
 tried, so unnecessarily, to destroy. We shall see the glorious raiment
@@ -561,7 +561,7 @@ intuition of the achieved Perfection of God. “‘In the midst of silence a
 hidden word was spoken to me.’ Where is this Silence, and where is the
 place in which this word is spoken? It is in the purest that the soul
 can produce, in her noblest part, in the Ground, even the Being of the
-Soul.”  <span id="fr_48"></span>[49](#fn_48) So Eckhart: and here he
+Soul.”  <span id="fr_48"></span>[49](#fn_48.md) So Eckhart: and here he
 does but subscribe to a universal tradition. The mystics have always
 insisted that “Be still, be still, and *know* ” is the condition of
 man’s purest and most direct apprehensions of reality: that he
@@ -581,7 +581,7 @@ vetus. . . . Semper agens, semper quietus: colligens et non egens:
 portans et implens et protegens; creans et nutriens et perficiens:
 quaerens cum nihil desit tibi. . . . Quid dicimus, Deus meus, vita mea,
 dulcedo mea sancta? Aut quid dicit aliquis, cum de te dicit?”  <span
-id="fr_49"></span>[50](#fn_49) <span id="page_39">p. 39</span> <span
+id="fr_49"></span>[50](#fn_49.md) <span id="page_39">p. 39</span> <span
 id="an_iii.ii-Page_39"></span>
 
 <span id="an_iii.ii-p63"></span>It has been said that “Whatever we may
@@ -603,13 +603,13 @@ philosophy finds it difficult to accommodate and to describe?
 <span id="an_iii.ii-p64"></span>“We must,” says Plato in the “Timaeus,”
 “make a distinction of the two great forms of being, and ask, ‘What is
 that which Is and has no Becoming, and what is that which is always
-becoming and never Is?’“  <span id="fr_50"></span>[51](#fn_50) Without
+becoming and never Is?’“  <span id="fr_50"></span>[51](#fn_50.md) Without
 necessarily subscribing to the Platonic answer to this question, we may
 surely acknowledge that the question itself is sound and worth asking;
 that it expresses a perennial demand of human nature; and that the
 analogy of man’s other instincts and cravings assures us that these his
 fundamental demands always indicate the existence of a supply.  <span
-id="fr_51"></span>[52](#fn_51) The great defect of Vitalism, considered
+id="fr_51"></span>[52](#fn_51.md) The great defect of Vitalism, considered
 as a system, is that it only answers half the question; the half which
 Absolute Idealism disdained to answer at all.
 
@@ -619,10 +619,10 @@ transcendental world which humanity has attained, declares that there
 are two aspects, two planes of discoverable Reality. We have seen also
 that hints of these two planes—often clear statements concerning
 them—abound in mystical literature of the personal first-hand type.
- <span id="fr_52"></span>[53](#fn_52) Pure Being, <span id="page_40">p.
+ <span id="fr_52"></span>[53](#fn_52.md) Pure Being, <span id="page_40">p.
 40</span> <span id="an_iii.ii-Page_40"></span> says Boutroux in the
 course of his exposition of Boehme,  <span
-id="fr_53"></span>[54](#fn_53) has two characteristic manifestations. It
+id="fr_53"></span>[54](#fn_53.md) has two characteristic manifestations. It
 shows itself to us as Power, by means of strife, of the struggle and
 opposition of its own qualities. But it shows itself to us as Reality,
 in harmonizing and reconciling within itself these discordant opposites.
@@ -657,7 +657,7 @@ they find in this Absolute, in defiance of the metaphysicians, a
 personal object of love, the goal of their quest, a “Living One who
 lives first and lives perfectly, and Who, touching me, the inferior,
 derivative life, can cause me to live by Him and for His sake”  <span
-id="fr_54"></span>[55](#fn_54) .
+id="fr_54"></span>[55](#fn_54.md) .
 
 <span id="an_iii.ii-p73"></span>( *b* ) But, contradicting the nihilism
 of Eastern contemplatives, they see also a reality in the dynamic side
@@ -697,7 +697,7 @@ succession, real efforts, and the continuous sense of limitation and
 inadequacy are the very means in and through which man apprehends
 increasingly (if only he thus loves and wills) the contrasting yet
 sustaining Simultaneity, Spontaneity, Infinity, and pure action of the
-Eternal Life of God.”  <span id="fr_55"></span>[56](#fn_55)
+Eternal Life of God.”  <span id="fr_55"></span>[56](#fn_55.md)
 
 <span id="an_iii.ii-p76"></span>Over and over again—as Being and
 Becoming, as Eternity and Time, as Transcendence and Immanence, Reality
@@ -799,27 +799,27 @@ id="an_iii.ii-Page_44"></span>
 
 ### Footnotes
 
-<span id="fn_21"></span>[26:22](myst05.htm#fr_21) <span
+<span id="fn_21"></span>[26:22](myst05.htm#fr_21.md) <span
 id="an_iii.ii-p1.2"></span>
 
 <span id="an_iii.ii-p2"></span> “The Science and Philosophy of
 Organism,” Gifford Lectures. 1907-8.
 
-<span id="fn_22"></span>[26:23](myst05.htm#fr_22) <span
+<span id="fn_22"></span>[26:23](myst05.htm#fr_22.md) <span
 id="an_iii.ii-p2.1"></span>
 
 <span id="an_iii.ii-p3"></span> “Les Données Immédiates de la
 Conscience” (1889), “Matière et Mémoire” (1896), “L’Evolution Créatrice”
 (1907).
 
-<span id="fn_23"></span>[26:24](myst05.htm#fr_23) <span
+<span id="fn_23"></span>[26:24](myst05.htm#fr_23.md) <span
 id="an_iii.ii-p3.1"></span>
 
 <span id="an_iii.ii-p4"></span> “Der Kampf um einen geistigen
 Lebensinhalt” (1896), “Der Sinn und Wert den Lebens” (1908), &c. See
 Bibliography.
 
-<span id="fn_24"></span>[27:25](myst05.htm#fr_24) <span
+<span id="fn_24"></span>[27:25](myst05.htm#fr_24.md) <span
 id="an_iii.ii-p5.1"></span>
 
 <span id="an_iii.ii-p6"></span> The researches of Driesch ( *op. cit* .)
@@ -830,13 +830,13 @@ the embryo sea-urchin, and de Vries’ extraordinary description of the
 escaped stock of evening primrose, varying now this way, now that, “as
 if swayed by a restless internal tide.”
 
-<span id="fn_25"></span>[28:26](myst05.htm#fr_25) <span
+<span id="fn_25"></span>[28:26](myst05.htm#fr_25.md) <span
 id="an_iii.ii-p9.1"></span>
 
 <span id="an_iii.ii-p10"></span> The debt to Heracleitus is acknowledged
 by Schiller. See “Studies in Humanism,” pp. 39, 40.
 
-<span id="fn_26"></span>[28:27](myst05.htm#fr_26) <span
+<span id="fn_26"></span>[28:27](myst05.htm#fr_26.md) <span
 id="an_iii.ii-p12.1"></span>
 
 <span id="an_iii.ii-p13"></span> See, for the substance of this and the
@@ -847,17 +847,17 @@ English readers with Bergson’s philosophy; and to Prof. Willdon Carr’s
 paper on “Bergson’s Theory of Knowledge, read before the Aristotelian
 Society, December 1908.
 
-<span id="fn_27"></span>[28:28](myst05.htm#fr_27) <span
+<span id="fn_27"></span>[28:28](myst05.htm#fr_27.md) <span
 id="an_iii.ii-p14.1"></span>
 
 <span id="an_iii.ii-p15"></span> Heracleitus, Fragments, 46, 84.
 
-<span id="fn_28"></span>[29:29](myst05.htm#fr_28) <span
+<span id="fn_28"></span>[29:29](myst05.htm#fr_28.md) <span
 id="an_iii.ii-p15.5"></span>
 
 <span id="an_iii.ii-p16"></span> First edition, canto x.
 
-<span id="fn_29"></span>[29:30](myst05.htm#fr_29) <span
+<span id="fn_29"></span>[29:30](myst05.htm#fr_29.md) <span
 id="an_iii.ii-p17.1"></span>
 
 <span id="an_iii.ii-p18"></span> E.g. St. Augustine’s “That alone is
@@ -867,23 +867,23 @@ Simultaneity, Eternity, in God . . . stand out, in man’s deepest
 consciousness, with even painful contrast, against all mere Succession,
 all sheer flux and change.” (“Eternal Life,” p. 365.)
 
-<span id="fn_30"></span>[29:31](myst05.htm#fr_30) <span
+<span id="fn_30"></span>[29:31](myst05.htm#fr_30.md) <span
 id="an_iii.ii-p19.1"></span>
 
 <span id="an_iii.ii-p20"></span> S. Alexander, “Space, Time and Deity,”
 vol. ii, p. 410.
 
-<span id="fn_31"></span>[29:32](myst05.htm#fr_31) <span
+<span id="fn_31"></span>[29:32](myst05.htm#fr_31.md) <span
 id="an_iii.ii-p20.2"></span>
 
 <span id="an_iii.ii-p21"></span> See below, Pt. I. Cap. VII.
 
-<span id="fn_32"></span>[30:33](myst05.htm#fr_32) <span
+<span id="fn_32"></span>[30:33](myst05.htm#fr_32.md) <span
 id="an_iii.ii-p22.1"></span>
 
 <span id="an_iii.ii-p23"></span> Heracleitus, *op. cit* .
 
-<span id="fn_33"></span>[30:34](myst05.htm#fr_33) <span
+<span id="fn_33"></span>[30:34](myst05.htm#fr_33.md) <span
 id="an_iii.ii-p24.1"></span>
 
 <span id="an_iii.ii-p25"></span> On the complete and undivided nature of
@@ -891,23 +891,23 @@ our experience in its wholeness,” and the sad work our analytic brains
 make of it when they come to pull it to pieces, Bradley has some
 valuable contributory remarks in ho “Oxford Lectures on Poetry,” p. 15.
 
-<span id="fn_34"></span>[31:35](myst05.htm#fr_34) <span
+<span id="fn_34"></span>[31:35](myst05.htm#fr_34.md) <span
 id="an_iii.ii-p27.1"></span>
 
 <span id="an_iii.ii-p28"></span> “Liber Specialis Gratiae,” I. ii. cap.
 xxvi.
 
-<span id="fn_35"></span>[32:36](myst05.htm#fr_35) <span
+<span id="fn_35"></span>[32:36](myst05.htm#fr_35.md) <span
 id="an_iii.ii-p31.1"></span>
 
 <span id="an_iii.ii-p32"></span> Meister Eckhart, Pred. lxxxvii.
 
-<span id="fn_36"></span>[33:37](myst05.htm#fr_36) <span
+<span id="fn_36"></span>[33:37](myst05.htm#fr_36.md) <span
 id="an_iii.ii-p34.1"></span>
 
 <span id="an_iii.ii-p35"></span> Willdon Carr, *op. cit* .
 
-<span id="fn_37"></span>[33:38](myst05.htm#fr_37) <span
+<span id="fn_37"></span>[33:38](myst05.htm#fr_37.md) <span
 id="an_iii.ii-p36.1"></span>
 
 <span id="an_iii.ii-p37"></span> “It seems as if man could never escape
@@ -921,66 +921,66 @@ universe. Can man rise to this spiritual level? On the possibility of
 his doing so rests all our hope of supplying any meaning or value to
 life” (“Der Sinn und Wert des Lebens,” p. 81).
 
-<span id="fn_38"></span>[33:39](myst05.htm#fr_38) <span
+<span id="fn_38"></span>[33:39](myst05.htm#fr_38.md) <span
 id="an_iii.ii-p37.1"></span>
 
 <span id="an_iii.ii-p38"></span> The essentials of Eucken’s teaching
 will be found conveniently summarized in “Der Sinn und Wert des Lebens.”
 
-<span id="fn_39"></span>[34:40](myst05.htm#fr_39) <span
+<span id="fn_39"></span>[34:40](myst05.htm#fr_39.md) <span
 id="an_iii.ii-p38.1"></span>
 
 <span id="an_iii.ii-p39"></span> “Der Sinn und Wert den Lebens,” p. 121.
 
-<span id="fn_40"></span>[35:41](myst05.htm#fr_40) <span
+<span id="fn_40"></span>[35:41](myst05.htm#fr_40.md) <span
 id="an_iii.ii-p44.1"></span>
 
 <span id="an_iii.ii-p45"></span> “De Septem Gradibus Amoral” cap. xiv.
 
-<span id="fn_41"></span>[35:42](myst05.htm#fr_41) <span
+<span id="fn_41"></span>[35:42](myst05.htm#fr_41.md) <span
 id="an_iii.ii-p46.4"></span>
 
 <span id="an_iii.ii-p47"></span> Par. xxx. 95.
 
-<span id="fn_42"></span>[36:43](myst05.htm#fr_42) <span
+<span id="fn_42"></span>[36:43](myst05.htm#fr_42.md) <span
 id="an_iii.ii-p48.1"></span>
 
 <span id="an_iii.ii-p49"></span> “Revelations of Divine Love.” cap. vi.
 
-<span id="fn_43"></span>[37:44](myst05.htm#fr_43) <span
+<span id="fn_43"></span>[37:44](myst05.htm#fr_43.md) <span
 id="an_iii.ii-p51.1"></span>
 
 <span id="an_iii.ii-p52"></span> Ruysbroeck, “Samuel,” cap. viii.
 
-<span id="fn_44"></span>[37:45](myst05.htm#fr_44) <span
+<span id="fn_44"></span>[37:45](myst05.htm#fr_44.md) <span
 id="an_iii.ii-p53.1"></span>
 
 <span id="an_iii.ii-p54"></span> *Ibid.,* “De Vera Contemplatione,” cap.
 xii.
 
-<span id="fn_45"></span>[37:46](myst05.htm#fr_45) <span
+<span id="fn_45"></span>[37:46](myst05.htm#fr_45.md) <span
 id="an_iii.ii-p54.1"></span>
 
 <span id="an_iii.ii-p55"></span> Von Hügel, “The Mystical Element of
 Religion,” vol. ii. p. 132.
 
-<span id="fn_46"></span>[37:47](myst05.htm#fr_46) <span
+<span id="fn_46"></span>[37:47](myst05.htm#fr_46.md) <span
 id="an_iii.ii-p55.1"></span>
 
 <span id="an_iii.ii-p56"></span> St. Catherine of Siena, Dialogo, cap.
 lxxxix.
 
-<span id="fn_47"></span>[38:48](myst05.htm#fr_47) <span
+<span id="fn_47"></span>[38:48](myst05.htm#fr_47.md) <span
 id="an_iii.ii-p57.1"></span>
 
 <span id="an_iii.ii-p58"></span> Heracleitus, *op. cit* .
 
-<span id="fn_48"></span>[38:49](myst05.htm#fr_48) <span
+<span id="fn_48"></span>[38:49](myst05.htm#fr_48.md) <span
 id="an_iii.ii-p59.1"></span>
 
 <span id="an_iii.ii-p60"></span> Meister Eckhart, Pred. i.
 
-<span id="fn_49"></span>[38:50](myst05.htm#fr_49) <span
+<span id="fn_49"></span>[38:50](myst05.htm#fr_49.md) <span
 id="an_iii.ii-p61.2"></span>
 
 <span id="an_iii.ii-p62"></span> Aug. Conf., bk. i. cap. iv. “What art
@@ -997,19 +997,19 @@ given in Palmer’s “Oriental Mysticism,” pp. 22,23. “First and last, End
 and Limit of all things, incomparable and unchangeable, always near yet
 always far,” &c. This probably owes something to Platonic influence.
 
-<span id="fn_50"></span>[39:51](myst05.htm#fr_50) <span
+<span id="fn_50"></span>[39:51](myst05.htm#fr_50.md) <span
 id="an_iii.ii-p64.1"></span>
 
 <span id="an_iii.ii-p65"></span> “Timaeus,” § 27.
 
-<span id="fn_51"></span>[39:52](myst05.htm#fr_51) <span
+<span id="fn_51"></span>[39:52](myst05.htm#fr_51.md) <span
 id="an_iii.ii-p65.1"></span>
 
 <span id="an_iii.ii-p66"></span> “A natural craving,” said Aquinas,
 “cannot be in vain.” Philosophy is creeping back to this “mediaeval’
 point of view. Compare “Summa Contra Gentiles,” I. ii. cap. lxxix.
 
-<span id="fn_52"></span>[39:53](myst05.htm#fr_52) <span
+<span id="fn_52"></span>[39:53](myst05.htm#fr_52.md) <span
 id="an_iii.ii-p67.1"></span>
 
 <span id="an_iii.ii-p68"></span> Compare Dante’s vision in Par. xxx.,
@@ -1017,18 +1017,18 @@ where he sees Reality first as the streaming River of Light, the flux of
 things; and then, when his sight has been purged, as achieved
 Perfection, the Sempiternal Rose.
 
-<span id="fn_53"></span>[40:54](myst05.htm#fr_53) <span
+<span id="fn_53"></span>[40:54](myst05.htm#fr_53.md) <span
 id="an_iii.ii-p68.1"></span>
 
 <span id="an_iii.ii-p69"></span> E. Boutroux, “Le Philosophe Allemand,
 Jacob Boehme.” p. 18.
 
-<span id="fn_54"></span>[40:55](myst05.htm#fr_54) <span
+<span id="fn_54"></span>[40:55](myst05.htm#fr_54.md) <span
 id="an_iii.ii-p71.1"></span>
 
 <span id="an_iii.ii-p72"></span> F. von Hügel: “Eternal Life, p. 385.
 
-<span id="fn_55"></span>[41:56](myst05.htm#fr_55) <span
+<span id="fn_55"></span>[41:56](myst05.htm#fr_55.md) <span
 id="an_iii.ii-p74.2"></span>
 
 <span id="an_iii.ii-p75"></span> *Op. Cit* ., p. 387.
@@ -1037,6 +1037,6 @@ id="an_iii.ii-p74.2"></span>
 
 ------------------------------------------------------------------------
 
-[Next: III. Mysticism and Psychology](myst06)
+[Next: III. Mysticism and Psychology](myst06.md)
 
 </div>

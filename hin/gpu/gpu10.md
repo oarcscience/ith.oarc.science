@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu09)  [Next](gpu11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu09)  [Next](gpu11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -61,7 +61,7 @@ should be remembered and meditated upon repeatedly.
 
 10-11. The Fish, the Tortoise, the Boar, the Man-lion, the Dwarf,
 Paraśurāma, Rāma, Kṛiṣṇa, Buddha, and also Kalkī <span
-id="fr_68"></span>[1](#fn_66):
+id="fr_68"></span>[1](#fn_66.md):
 
 These ten names should always be meditated upon by the wise. Those who
 recite them near the diseased are called relatives.
@@ -70,7 +70,7 @@ recite them near the diseased are called relatives.
 millions of great sins are quickly reduced to ashes.
 
 Even the dying Ajāmila reached heaven by pronouncing the name Hari,
-which had been given to his son.  <span id="fr_69"></span>[2](#fn_67)
+which had been given to his son.  <span id="fr_69"></span>[2](#fn_67.md)
 How much more then is its effect when it is pronounced with faith!
 
 <span id="page_63">p. 63</span>
@@ -86,7 +86,7 @@ do not bring the man who meditates on the name Hari."
 
 17-20. One should worship the Achyuta, Keśava, Nārāyaṇa, Kṛiṣṇa,
 Dāmodara, Vāsudeva, Hari, Śrīdhara, Mādhavam, Gopīkāvallabham,
-Rāmachandra, the Lord of Jānakī. <span id="fr_70"></span>[1](#fn_68)
+Rāmachandra, the Lord of Jānakī. <span id="fr_70"></span>[1](#fn_68.md)
 
 "O servants, do not go near those sinless people who take refuge in the
 lotus-eyed Vāsudeva and Viṣṇu, who is the supporter of the earth, and
@@ -138,7 +138,7 @@ sake of this that the wise pray for a righteous son in this world,
 
 The sons, seeing their father lying upon the ground with eyes
 half-closed, should not covet his earned wealth. <span
-id="fr_71"></span>[1](#fn_69)
+id="fr_71"></span>[1](#fn_69.md)
 
 A good son will make such gifts as will prolong his father's life, and
 free him from misery when he goes into the next world.
@@ -153,7 +153,7 @@ The eight great gifts are the effacers of great sins, and should be
 given in the last days. Hear now their good effects:
 
 35-36. There are three kinds of holy sesamums generated from my sweat.
-Asuras, Dānavas and Daityas <span id="fr_72"></span>[2](#fn_70) are
+Asuras, Dānavas and Daityas <span id="fr_72"></span>[2](#fn_70.md) are
 gratified by the gift of these sesamums.
 
 White, black and brown are the three kinds of sesamums. The gift of
@@ -178,7 +178,7 @@ Bala.
 
 41-44. Hear this great secret, O Tārkshya, about this most supreme gift,
 by which are pleased the dwellers in Bhū, Bhūvar and Swar worlds. <span
-id="fr_73"></span>[1](#fn_71)
+id="fr_73"></span>[1](#fn_71.md)
 
 Brahmā and others, sages, shining ones, and those who are in the
 assembly of the King of Justice are gratified by the gift of gold, and
@@ -205,7 +205,7 @@ And by gifts of the seven grains the standard-bearer of the King of
 Justice and others who stand at the gates are propitiated.
 
 Rices, barley, wheat, kidney beans, māṣa, <span
-id="fr_74"></span>[1](#fn_72) panic seeds; dwarf-peas: these are called
+id="fr_74"></span>[1](#fn_72.md) panic seeds; dwarf-peas: these are called
 the seven grains.
 
 49-52. It has been observed by the sages that the gift of a plot of land
@@ -226,7 +226,7 @@ twice-born, is reborn for many times as a beggar, without even a village
 hut.
 
 The king who, through pride, does not make gifts of land, shall dwell in
-hell as long as Śeṣa <span id="fr_75"></span>[2](#fn_73) supports the
+hell as long as Śeṣa <span id="fr_75"></span>[2](#fn_73.md) supports the
 earth.
 
 Therefore shall a king especially make gifts of land; though for others,
@@ -257,7 +257,7 @@ of a hundred cows while suffering from diseases, the gift of a thousand
 when dying and bereft of mental faculties,
 
 And the gift of one hundred thousand cows after death <span
-id="fr_76"></span>[1](#fn_74), are equal. A gift made to a deserving
+id="fr_76"></span>[1](#fn_74.md), are equal. A gift made to a deserving
 person, who has bathed at the sacred waters, increases a hundred
 thousand fold.
 
@@ -302,11 +302,11 @@ fill it with water, and in it place the raft:
 
 Having placed the things which are born from the body of the sun in it,
 dedicate the cow there in accordance with the scriptures. <span
-id="fr_77"></span>[1](#fn_75)
+id="fr_77"></span>[1](#fn_75.md)
 
 Present the cloths, with ornaments to a Brāhmiṇ; properly worship with
 fragrances, flowers, and coloured rice <span
-id="fr_78"></span>[2](#fn_76),
+id="fr_78"></span>[2](#fn_76.md),
 
 Take hold of the tail of the cow, place a foot in the boat, and, having
 honoured a Brāhmiṇ, recite this mantra:--
@@ -329,7 +329,7 @@ Yama on the great path. Salutations to thee, Vaitaraṇī, Queen of the
 shining ones!
 
 "May cows be in front of me; may cows be behind me; may cows be in my
-heart <span id="fr_79"></span>[1](#fn_77); and may I dwell in the midst
+heart <span id="fr_79"></span>[1](#fn_77.md); and may I dwell in the midst
 of cows.
 
 "May she who is the Goddess of Prosperity for all creatures, who is the
@@ -347,19 +347,19 @@ Vaitaraṇī observance. The wise man, desiring to cross that river, should
 make a gift of a cow.
 
 That river, O Bird, does not appear in the Great Way after the gift of a
-cow. <span id="fr_80"></span>[2](#fn_78) Therefore it is necessary to
+cow. <span id="fr_80"></span>[2](#fn_78.md) Therefore it is necessary to
 give a cow at all sacred times.
 
 <span id="page_72">p. 72</span>
 
 87-88. At all the sacred bathing-places, like the Ganges, and in the
 dwelling-places of Brāhmiṇs; at the eclipses of the sun and moon, at the
-crossing over <span id="fr_81"></span>[1](#fn_79), on the day of the new
+crossing over <span id="fr_81"></span>[1](#fn_79.md), on the day of the new
 moon.
 
 At the equinoctial and solstitial points, at Vyatīpāta, <span
-id="fr_82"></span>[2](#fn_80) on Yuga days <span
-id="fr_83"></span>[3](#fn_81) and at other sacred times,--the supreme
+id="fr_82"></span>[2](#fn_80.md) on Yuga days <span
+id="fr_83"></span>[3](#fn_81.md) and at other sacred times,--the supreme
 gift of a cow should be made.
 
 89\. That verily is called the sacred time, in which faith is produced,
@@ -473,60 +473,60 @@ behalf of a dying man are without doubt slayers of Brāhmaṇ.
 
 ### Footnotes
 
-<span id="fn_66"></span>[62:1](gpu10.htm#fr_68) The ten avatāras,
+<span id="fn_66"></span>[62:1](gpu10.htm#fr_68.md) The ten avatāras,
 descents or incarnations of Viṣṇu, which appeared in archaic and ancient
 times, except Kalkī, who is still to come.
 
-<span id="fn_67"></span>[62:2](gpu10.htm#fr_69) Ajāmila was a man of
+<span id="fn_67"></span>[62:2](gpu10.htm#fr_69.md) Ajāmila was a man of
 very evil life, who named his son Nārāyaṇa, and happened to call him as
 he was dying.
 
-<span id="fn_68"></span>[63:1](gpu10.htm#fr_70) Names of Vishnu.
+<span id="fn_68"></span>[63:1](gpu10.htm#fr_70.md) Names of Vishnu.
 
-<span id="fn_69"></span>[65:1](gpu10.htm#fr_71) They may expect
+<span id="fn_69"></span>[65:1](gpu10.htm#fr_71.md) They may expect
 ancestral property, but not that earned by the father.
 
-<span id="fn_70"></span>[65:2](gpu10.htm#fr_72) Classes of non-human
+<span id="fn_70"></span>[65:2](gpu10.htm#fr_72.md) Classes of non-human
 beings.
 
-<span id="fn_71"></span>[66:1](gpu10.htm#fr_73) Physical, astral and
+<span id="fn_71"></span>[66:1](gpu10.htm#fr_73.md) Physical, astral and
 lower mental worlds.
 
-<span id="fn_72"></span>[67:1](gpu10.htm#fr_74) A kind of spotted grain.
+<span id="fn_72"></span>[67:1](gpu10.htm#fr_74.md) A kind of spotted grain.
 
-<span id="fn_73"></span>[67:2](gpu10.htm#fr_75) The eternal serpent.
+<span id="fn_73"></span>[67:2](gpu10.htm#fr_75.md) The eternal serpent.
 
-<span id="fn_74"></span>[68:1](gpu10.htm#fr_76) That is, given by
+<span id="fn_74"></span>[68:1](gpu10.htm#fr_76.md) That is, given by
 another for one.
 
-<span id="fn_75"></span>[70:1](gpu10.htm#fr_77) Probably the
+<span id="fn_75"></span>[70:1](gpu10.htm#fr_77.md) Probably the
 afore-mentioned cow, ghee, gold, silk, etc. are closely connected with
 sacrifice and therefore with the sun.
 
-<span id="fn_76"></span>[70:2](gpu10.htm#fr_78) Akṣata, whole rice
+<span id="fn_76"></span>[70:2](gpu10.htm#fr_78.md) Akṣata, whole rice
 coloured with turmeric and saffron, and used to honour persons by
 sprinkling over them.
 
-<span id="fn_77"></span>[71:1](gpu10.htm#fr_79) Note here, that the cow
+<span id="fn_77"></span>[71:1](gpu10.htm#fr_79.md) Note here, that the cow
 is merely a symbol.
 
-<span id="fn_78"></span>[71:2](gpu10.htm#fr_80) Note the subjective
+<span id="fn_78"></span>[71:2](gpu10.htm#fr_80.md) Note the subjective
 character of the "river."
 
-<span id="fn_79"></span>[72:1](gpu10.htm#fr_81) The passing of the sun
+<span id="fn_79"></span>[72:1](gpu10.htm#fr_81.md) The passing of the sun
 from one constellation to another.
 
-<span id="fn_80"></span>[72:2](gpu10.htm#fr_82) When the sun and moon
+<span id="fn_80"></span>[72:2](gpu10.htm#fr_82.md) When the sun and moon
 are on opposite sides of either solstice, and the minutes declination
 are the same.
 
-<span id="fn_81"></span>[72:3](gpu10.htm#fr_83) Every month there is a
+<span id="fn_81"></span>[72:3](gpu10.htm#fr_83.md) Every month there is a
 day called Yuga--the last or last but one.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. An Account of the Rites for the Dying](gpu11)
+[Next: Chapter IX. An Account of the Rites for the Dying](gpu11.md)
 
 </div>

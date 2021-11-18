@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth026)  [Next](toth028) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth026)  [Next](toth028.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 24. HOW PÖ'OKONG WON A BRIDE. <span id="fr_65"></span>[1](#fn_63)
+## 24. HOW PÖ'OKONG WON A BRIDE. <span id="fr_65"></span>[1](#fn_63.md)
 
 Halíksai! In Oraíbi they were living. There were a great many people. At
 Pik'áchvi lived a family who had a pretty maiden who persistently
@@ -339,9 +339,9 @@ on his back and returned to his home where he remained.
 
 ### Footnotes
 
-<span id="fn_63"></span>[92:1](toth027.htm#fr_65) Told by Tangákhoyoma
+<span id="fn_63"></span>[92:1](toth027.htm#fr_65.md) Told by Tangákhoyoma
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 25. How the Antelope Maiden Was Reconciled](toth028)
+[Next: 25. How the Antelope Maiden Was Reconciled](toth028.md)

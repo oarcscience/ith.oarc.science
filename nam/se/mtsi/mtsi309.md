@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi308) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi308.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ work.
 myth is one in the Tuggle series (Creek 90) shown by the native words
 which it contains to be from the Yuchi. It is very similar to the story
 recorded by Speck from the same people (Yuchi, pp. 103-104). <span
-id="fr_91"></span>[1](#fn_90) The only Creek origin myth of which I know
+id="fr_91"></span>[1](#fn_90.md) The only Creek origin myth of which I know
 is one obtained by Dr. Speck from the Taskigi Creeks, but these have
 been in such close contact with the Yuchi that it is questionable
 whether the story was not originally from the latter tribe. The
@@ -139,11 +139,11 @@ appears to be hinted at in that of the Yuchi. Of course it is possible
 that it is transplanted from the Biblical story of the flood, although
 it may be entirely native, since apart from this one feature birds seem
 to have played a considerable part in the beginning of things. <span
-id="fr_92"></span>[2](#fn_91) The Earth-diver story is found all over
+id="fr_92"></span>[2](#fn_91.md) The Earth-diver story is found all over
 the eastern part of North America and even reaches California. An
 analysis and study of the distribution of the story has been made by
 Gladys A. Reichard, and the results incorporated in an article in
-JAFL, <span id="fr_93"></span>[3](#fn_92) vol. 34, pp. 274-277. She
+JAFL, <span id="fr_93"></span>[3](#fn_92.md) vol. 34, pp. 274-277. She
 cites versions from the Timagami, Missasagua, Ojibwa (of Sault Ste.
 Marie, North Shore, Western Ontario, and Minnesota), the Montagnais,
 Eastern Cree, Saulteaux, Swampy Cree, Wood Cree, Plains Cree, Western
@@ -182,7 +182,7 @@ Reichard in JAFL, vol. 34, pp. 372-374. She notes its occurrence among
 the Shoshoni, Crow, Blackfoot, Hidatsa, Gros Ventre, Arapaho, Wichita,
 Omaha, Sauk and Fox, Assiniboin, Pawnee, Menominee, Ojibwa, Micmac,
 Cherokee, Iroquois, Kiowa, Tsimshian, and Newettee. It also occurs among
-the Kickapoo. <span id="fr_94"></span>[1](#fn_93)
+the Kickapoo. <span id="fr_94"></span>[1](#fn_93.md)
 
 4\. Corn Woman: Natchez 7 and 8; Koasati 6; Creek 5, 6, 7; Cherokee 3.
 Sometimes this is made a part of the story of Orphan.
@@ -201,7 +201,7 @@ Waterman in JAFL, vol. 27, pp. 49-50.
 7\. The Magic Passage of the Ocean: Natchez 9; Alabama 12; Koasati 12,
 13. As shown by the numbers, this is sometimes bound up with the story
 of Orphan. A detail occurs in Iroquois 116 and certain episodes in
-Kickapoo 10. <span id="fr_95"></span>[2](#fn_94)
+Kickapoo 10. <span id="fr_95"></span>[2](#fn_94.md)
 
 8\. The Wicked Mother-in-law: Koasati 12, 14; Alabama 12; Natchez 9.
 
@@ -474,22 +474,22 @@ Kutenai.
 
 ### Footnotes
 
-<span id="fn_90"></span>[269:1](mtsi309.htm#fr_91) See also Gatschet in
+<span id="fn_90"></span>[269:1](mtsi309.htm#fr_91.md) See also Gatschet in
 Am. Anthrop. (o. s.), VI, pp. 279-280.
 
-<span id="fn_91"></span>[269:2](mtsi309.htm#fr_92) In a paper entitled
+<span id="fn_91"></span>[269:2](mtsi309.htm#fr_92.md) In a paper entitled
 "Mythology of the Indians of Louisiana and the Texas Coast," published
 in the Journal of American Folk-Lore. vol. XX, no. LXXIX, pp. 285-289, I
 mistakenly quoted Du Pratz as having stated that earth was brought from
 beyond the horizon by the cardinal. What he does say is that this bird
 brought fire to men after the flood.
 
-<span id="fn_92"></span>[269:3](mtsi309.htm#fr_93) These letters refer
+<span id="fn_92"></span>[269:3](mtsi309.htm#fr_93.md) These letters refer
 to the Journal of American Folk-Lore.
 
-<span id="fn_93"></span>[270:1](mtsi309.htm#fr_94) Personal information
+<span id="fn_93"></span>[270:1](mtsi309.htm#fr_94.md) Personal information
 from T. Michelson.
 
-<span id="fn_94"></span>[270:2](mtsi309.htm#fr_95) The Iroquois numbers
+<span id="fn_94"></span>[270:2](mtsi309.htm#fr_95.md) The Iroquois numbers
 are those in the report by Curtin and Hewitt. The Kickapoo numbers are
 those in the publication by Jones and Michelson.

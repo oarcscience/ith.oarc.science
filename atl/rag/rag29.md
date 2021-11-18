@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag28)  [Next](rag30) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag28)  [Next](rag30.md) 
 
 ------------------------------------------------------------------------
 
@@ -372,4 +372,4 @@ Let us go a step further in the argument.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Bridge](rag30)
+[Next: Chapter III. The Bridge](rag30.md)

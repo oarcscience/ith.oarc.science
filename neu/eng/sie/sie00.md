@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index)  [Next](sie01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index)  [Next](sie01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of Innocence and of Experience*, by William Blake, \[1789-1794\],
 at Intangible Textual Heritage
 
@@ -21,4 +21,4 @@ at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Frontispiece](sie01)
+[Next: Frontispiece](sie01.md)

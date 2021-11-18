@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](gbt55)  [Next](gbt57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](gbt55)  [Next](gbt57.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766157350/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ THEORY: The higher octave of the *two*, consequently covering the *Sixth
 house* and demonstrating the features of the noble Virgo-type. So this
 must be a woman always inclined to help and to serve, to make herself
 useful, a nurse perhaps, a household woman of good
-[standing](errata.htm#2) a good hostess. There are also qualities of
+[standing](errata.htm#2.md) a good hostess. There are also qualities of
 science in this house, as it is the house of the Academy and Minerva. So
 she may be as an incarnation of Minerva herself, protecting science and
 craftsmanship as the Dame of Wands protects the arts. She must have many
@@ -57,4 +57,4 @@ technical and industrial works*.
 
 ------------------------------------------------------------------------
 
-[Next: Page of Pentacles](gbt57)
+[Next: Page of Pentacles](gbt57.md)

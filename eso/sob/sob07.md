@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob06) 
-[Next](sob08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob06.md) 
+[Next](sob08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -86,7 +86,7 @@ seeds of disease.
 
 <span id="page_29">p. 29</span>
 
-[Once](errata.htm#4) more, remember that the mouth affords no protection
+[Once](errata.htm#4.md) more, remember that the mouth affords no protection
 to the respiratory organs, and cold air, dust and impurities and germs
 readily enter by that door. On the other hand, the nostrils and nasal
 passages show evidence of the careful design of nature in this respect.
@@ -176,4 +176,4 @@ of the subject as unimportant.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Four Methods of Respiration](sob08)
+[Next: Chapter VII. The Four Methods of Respiration](sob08.md)

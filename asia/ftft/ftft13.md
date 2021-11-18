@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft12)  [Next](ftft14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft12)  [Next](ftft14.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_77">p. 77</span>
 
-<span id="img_07700"></span> ![The Simpleton](img/07700.jpg)
+<span id="img_07700"></span> ![The Simpleton](img/07700.jpg.md)
 
 <span id="img_07701"></span> ![](img/07701.jpg)
 
@@ -18,7 +18,7 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 T the time when Allah had many servants and mankind much sorrow, there
 was a poor woman who had three sons and a daughter. The youngest son was
@@ -60,7 +60,7 @@ have strayed into the Dew's locality. The eldest brother, after a little
 reflection, resolved to go to the Dew and demand the girl.
 
 <span id="img_07800"></span> ![O my stomach! O my stomach! cried the
-youth](img/07800.jpg)
+youth](img/07800.jpg.md)
 
 Walking along, smoking his chibouque and smelling the flowers, he came
 to a baking-oven by the roadside. By the oven stood a grey-bearded man,
@@ -90,7 +90,7 @@ sweet apples.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE Dew with the three faces was waiting on the road to see which bridge
 the youth would choose, the wooden or the iron one; which apples he
@@ -132,7 +132,7 @@ this also was shattered at the trial.
 
 |                     |
 |---------------------|
-| ![F](img/finit.jpg) |
+| ![F](img/finit.jpg.md) |
 
 OR the third time the youth raised a storm, after which he collected all
 the remaining ploughshares and had them made into a spear. This time it
@@ -173,7 +173,7 @@ such
 <span id="img_08100"></span>
 
 [![He chose the wooden bridge](tn/08100.jpg)  
-Click to enlarge](img/08100.jpg)  
+Click to enlarge](img/08100.jpg.md)  
 He chose the wooden bridge  
 
 <span id="page_82">p. 82</span>
@@ -188,7 +188,7 @@ wended their way homeward.
 <span id="img_08200"></span>
 
 [![The Dew's spirit departed through his nose.](tn/08200.jpg)  
-Click to enlarge](img/08200.jpg)  
+Click to enlarge](img/08200.jpg.md)  
 The Dew's spirit departed through his nose.  
 
 While in the stomach of the Dew the brothers and sister had become very
@@ -216,7 +216,7 @@ listen.
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 O be brief he killed the Dew and delivered the three maidens, whom the
 wizard had robbed from their father, the Sultan, seven years before. The
@@ -266,7 +266,7 @@ Grasping his spear firmly in his hand, he severed the snake in two, Then
 he stretched himself out under the tree, where, overcome by fatigue and
 the great heat, he fell sound asleep.
 
-<span id="img_08400"></span> ![He seized the black one](img/08400.jpg)
+<span id="img_08400"></span> ![He seized the black one](img/08400.jpg.md)
 
 Meanwhile came the little birds' mother, who was the emerald anka, queen
 of the Peris. Seeing the sleeping youth, she mistook him for the enemy
@@ -332,8 +332,8 @@ was given in marriage to the son of the Vezir. The rejoicings lasted
 forty days and forty nights, but happiness until the end of their days.
 
 <span id="img_08600"></span> ![The Anka flew away to the land of the
-three maidens](img/08600.jpg)
+three maidens](img/08600.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Turban, the Magic Whip and the Magic Carpet](ftft14)
+[Next: The Magic Turban, the Magic Whip and the Magic Carpet](ftft14.md)

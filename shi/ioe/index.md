@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,28 +23,28 @@
 ------------------------------------------------------------------------
 
 This is a short but very concise introduction to Asian art by the author
-of [The Book of Tea](../../bud/tea). Written from a Japanese
+of [The Book of Tea](../../bud/tea.md). Written from a Japanese
 perspective, and focusing on Japanese art, one of the major themes is
 the relationship between spirituality, particularly Buddhism, and the
 evolution of Asian art.
 
 ------------------------------------------------------------------------
 
-[Title Page](ioe00)  
-[Table of Contents](ioe01)  
-[Introduction](ioe02)  
-[The Range of Ideals](ioe03)  
-[The Primitive Art of Japan](ioe04)  
-[Confucianism--Northern China](ioe05)  
-[Laoism and Taoism--Southern China](ioe06)  
-[Buddhism and Indian Art](ioe07)  
-[The Asuka Period: 550 to 700 A.D.](ioe08)  
-[The Nara Period: 700 to 800 A.D.](ioe09)  
-[The Heian Period: 800 to 900 A.D.](ioe10)  
-[The Fujiwara Period: 900 to 1200 A.D.](ioe11)  
-[The Kamakura Period: 1200-1400 A.D.](ioe12)  
-[Ashikaga Period: 1400-1600 A.D.](ioe13)  
-[Toyotomi and Early Tokugawa Period: 1600-1700 A.D.](ioe14)  
-[Later Tokugawa Period: 1700-1850 A.D.](ioe15)  
-[The Meiji Period: 1850 to the Present Day](ioe16)  
-[The Vista](ioe17)  
+[Title Page](ioe00.md)  
+[Table of Contents](ioe01.md)  
+[Introduction](ioe02.md)  
+[The Range of Ideals](ioe03.md)  
+[The Primitive Art of Japan](ioe04.md)  
+[Confucianism--Northern China](ioe05.md)  
+[Laoism and Taoism--Southern China](ioe06.md)  
+[Buddhism and Indian Art](ioe07.md)  
+[The Asuka Period: 550 to 700 A.D.](ioe08.md)  
+[The Nara Period: 700 to 800 A.D.](ioe09.md)  
+[The Heian Period: 800 to 900 A.D.](ioe10.md)  
+[The Fujiwara Period: 900 to 1200 A.D.](ioe11.md)  
+[The Kamakura Period: 1200-1400 A.D.](ioe12.md)  
+[Ashikaga Period: 1400-1600 A.D.](ioe13.md)  
+[Toyotomi and Early Tokugawa Period: 1600-1700 A.D.](ioe14.md)  
+[Later Tokugawa Period: 1700-1850 A.D.](ioe15.md)  
+[The Meiji Period: 1850 to the Present Day](ioe16.md)  
+[The Vista](ioe17.md)  

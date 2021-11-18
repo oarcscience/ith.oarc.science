@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar136) [Next](gbar138)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar136) [Next](gbar138.md)
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ after the punishment of which I have spoken.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar138)
+[Next](gbar138.md)

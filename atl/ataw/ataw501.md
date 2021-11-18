@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw406)  [Next](ataw502) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw406)  [Next](ataw502.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -257,16 +257,16 @@ picture
  
 
 <span id="img_35500"></span> <span align="CENTER"> [![](tn/35500.jpg)  
-Click to enlarge](img/35500.jpg)</span>  
+Click to enlarge](img/35500.jpg.md)</span>  
 ARCH OF LAS MONJAS, PALENQUE, CENTRAL AMERICA.
 
  
 
 <span id="page_357">p. 357</span>
 
-on [page 355](#img_35500) of the Arch of Las Monjas, Palenque. If now we
+on [page 355](#img_35500.md) of the Arch of Las Monjas, Palenque. If now we
 took at the representation of the "Treasure-house of Atreus" at Mycenæ,
-on [page 354](#img_35400)--one of the oldest structures in Greece--we
+on [page 354](#img_35400.md)--one of the oldest structures in Greece--we
 find precisely the same form of arch, filled in in the same way.
 
 Rosengarten ("Architectural Styles," p. 59) says:
@@ -295,4 +295,4 @@ standard of refinement, wealth, prosperity, or civilization.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The Egyptian Colony.](ataw502)
+[Next: Chapter II: The Egyptian Colony.](ataw502.md)

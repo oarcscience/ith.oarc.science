@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl09)  [Previous](aen08) 
-[Next](aen10) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl09)  [Previous](aen08.md) 
+[Next](aen10.md) 
 
 ------------------------------------------------------------------------
 
@@ -1168,4 +1168,4 @@ And sends him safe to cheer his anxious host.
 
 ------------------------------------------------------------------------
 
-[Next: Book X](aen10)
+[Next: Book X](aen10.md)

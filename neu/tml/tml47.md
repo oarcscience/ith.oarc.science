@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -70,7 +70,7 @@ warfare; well known was he indeed unto valiant men. . . . I do not
 believe that ne is still alive."
 
 Hildebrand was deeply moved, and he spake, saying: "Now do I call to
-witness Irmin, <span id="fr_122"></span>[1](#fn_122) the god of my
+witness Irmin, <span id="fr_122"></span>[1](#fn_122.md) the god of my
 people, that I dare not combat with thee, because that thou art so near
 of kin."
 
@@ -93,7 +93,7 @@ Mournfully did Hildebrand shake his head.
 
 "Seafarers have told me, his son protested, "that they heard from the
 east of warfare above the Wendel-sea. <span
-id="fr_123"></span>[1](#fn_123) 'Twas told them: '*Hildebrand,
+id="fr_123"></span>[1](#fn_123.md) 'Twas told them: '*Hildebrand,
 Heribrand's son, is dead*.'"
 
 "O ruling god! What fate is ours?" cried Hildebrand. . . . "For thirty
@@ -217,17 +217,17 @@ So Dietrich vanished from sight. And nevermore was he seen among men.
 Yet when the wind is high, and the world is tempest-stricken, the sound
 of hoofs are heard in mid-air, and men know then that Dietrich, seated
 on his black steed, is pursuing the stag as of old across the
-heavens. <span id="fr_124"></span>[1](#fn_124)
+heavens. <span id="fr_124"></span>[1](#fn_124.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_122"></span>[449:1](tml47.htm#fr_122) Irmin's Way is the
+<span id="fn_122"></span>[449:1](tml47.htm#fr_122.md) Irmin's Way is the
 "Milky Way".
 
-<span id="fn_123"></span>[450:1](tml47.htm#fr_123) The Mediterranean.
+<span id="fn_123"></span>[450:1](tml47.htm#fr_123.md) The Mediterranean.
 
-<span id="fn_124"></span>[453:1](tml47.htm#fr_124) Like Odin,
+<span id="fn_124"></span>[453:1](tml47.htm#fr_124.md) Like Odin,
 Charlemagne, King Arthur, &c, he is the Wild Huntsman in the Raging
 Host.

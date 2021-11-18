@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw07) 
-[Next](ptw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw07.md) 
+[Next](ptw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ at Intangible Textual Heritage
 <span id="page_59">p. 59</span>
 
 <span id="img_05900"></span> ![Vade retro satanas. Nunquam mihi suade
-vana. Sunt mala quæ libas. Ipse venena bibas.](img/05900.jpg)  
+vana. Sunt mala quæ libas. Ipse venena bibas.](img/05900.jpg.md)  
 Vade retro satanas. Nunquam mihi suade vana. Sunt mala quæ libas. Ipse
 venena bibas.
 
@@ -51,7 +51,7 @@ authority they possessed at the time of the Inquisition. In consequence
 of the power of the Church over the citizens of the country—a power
 which the former abused very freely—it became necessary to have secret
 societies and places where the members could secretly meet and exchange
-[their](errata.htm#12) opinions without being overheard by spies and
+[their](errata.htm#12.md) opinions without being overheard by spies and
 traitors. Secret orders of all kinds were, therefore,
 
 <span id="page_60">p. 60</span>
@@ -102,7 +102,7 @@ mountebanks; and especially the Catholic as well as the Protestant
 "Jesuits" were not slow to see their advantage, and to gain admission to
 the lodges under the disguise of Rosicrucians.
 
-They pretended to be in communication with [certain](errata.htm#13)
+They pretended to be in communication with [certain](errata.htm#13.md)
 unknown superiors, some grand patriarch of Jerusalem, or some invisible
 somebody, whose orders had to be obeyed without asking any questions,
 but whose names must not be revealed; and to make such supposed orders
@@ -318,7 +318,7 @@ disobedience. The mist of the morning had turned into a fine rain, which
 made their position very uncomfortable. They grew impatient, and
 consulted with each other what was to be done. While they were
 discussing the subject, some proposing to follow
-[Schroepfer](errata.htm#14) into the bushes, and others objecting,
+[Schroepfer](errata.htm#14.md) into the bushes, and others objecting,
 saying that by doing so they might interrupt his incantations, or at
 least give him a welcome excuse for not obtaining the treasure, a
 stranger approached. His appearance was so sudden that it almost
@@ -480,7 +480,7 @@ to try to comprehend their meaning.
 The highest rank in the highest degree was that of *Regent*. The Regents
 were the superiors of the order, and only the most useful and virtuous
 members were admitted to that rank, after having passed through long and
-severe probations. <span id="fr_11"></span>[\*](#fn_11)
+severe probations. <span id="fr_11"></span>[\*](#fn_11.md)
 
 Soon the *Illuminati* became objects of fear and suspicion for the
 Governments, especially in Bavaria. A Protestant clergyman, *Lange*, was
@@ -490,7 +490,7 @@ list of some of its prominent members. This was the signal for a
 universal inquisition and persecution. Many of the noblest and most
 eminent persons were imprisoned or banished, others fled, and a price
 was set upon Weishapt's head, who, however, escaped to *Gotha*, where he
-found an asylum. <span id="fr_12"></span>[†](#fn_12)
+found an asylum. <span id="fr_12"></span>[†](#fn_12.md)
 
 Still the order of the *Illuminati* continued to exist, and between them
 and the *Rosicrucians* there existed the same animosity as now between
@@ -534,7 +534,7 @@ the religious department, and soon followed the issue of the infamous
 "*religious edict*" of July 9, 1788. In this edict everybody was warned
 by order of the King to subordinate his own reason to the dogmas of the
 Church; and those who should contravene this order were
-[threatened](errata.htm#15) with the loss of the offices they held and
+[threatened](errata.htm#15.md) with the loss of the offices they held and
 with imprisonment. They generously permitted everybody to believe what
 he pleased, but they strongly prohibited any expression of opinion in
 regard to religious matters, if such opinions were not sanctioned by the
@@ -546,7 +546,7 @@ having first been submitted to the clerical authorities for approval.
 The excitement caused by this shameful edict was terrible. The
 Illuminati led by the bookseller *Nicolay*, at Berlin, protested against
 it; but their writings were confiscated. Woellner surrounded himself
-with "Rosicrucians" and [pietists](errata.htm#16) and a "spiritual
+with "Rosicrucians" and [pietists](errata.htm#16.md) and a "spiritual
 examination board" was instituted, which examined every candidate for an
 office in regard to his creed before he could be appointed. They
 examined all clergymen and school teachers and ejected everyone who was
@@ -569,10 +569,10 @@ absurdity.
 
 ### Footnotes
 
-<span id="fn_11"></span>[67:\*](ptw08.htm#fr_11) See *Weishaupt*,
+<span id="fn_11"></span>[67:\*](ptw08.htm#fr_11.md) See *Weishaupt*,
 "Intercourse with Man."
 
-<span id="fn_12"></span>[67:†](ptw08.htm#fr_12) This took place in the
+<span id="fn_12"></span>[67:†](ptw08.htm#fr_12.md) This took place in the
 year 1758, under the reign of *Maximillian Joseph*, who has been called
 *The Beloved* on account of his goodness. The doctrines of Weishaupt
 were none other than the doctrines of Christ; but they were not in
@@ -583,4 +583,4 @@ the servants of darkness and evil.
 ------------------------------------------------------------------------
 
 [Next: Appendix: The Principles of Yoga-Philosophy of the Rosicrucians
-and Alchemists](ptw09)
+and Alchemists](ptw09.md)

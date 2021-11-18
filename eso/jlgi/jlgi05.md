@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi04) 
-[Next](jlgi06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi04.md) 
+[Next](jlgi06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus, the Last Great Initiate*, by Edouard Schuré, \[1908\], at
 Intangible Textual Heritage
 
@@ -72,14 +72,14 @@ therapeutes; for their only acknowledged ministry with regard to the
 public was that of healing disease, both physical and moral. "They
 studied with great diligence," says Josephus, "certain medical writings
 dealing with the occult virtues of plants and minerals." <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 Some of them possessed the gift of prophecy, as, e. g., Menahim, who had
 prophesied to Herod that he should reign. "They serve God," said Philo,
 "with great piety, not by offering victims but by sanctifying the
 spirit; avoiding towns, they devote themselves to the arts of peace; not
 a single slave is to be found among them; they are all free and work for
-one another." <span id="fr_17"></span>[2](#fn_17) The rules of the Order
+one another." <span id="fr_17"></span>[2](#fn_17.md) The rules of the Order
 were strict; in order to enter, a year's novitiate was necessary. If one
 had given sufficient proofs of temperance, he was admitted to the
 ablutions,
@@ -99,7 +99,7 @@ first interpretation of the sacred books of Moses and the prophets was
 here given. But the explanation of the texts allowed of three
 significations, just as there were three degrees of initiation. Very few
 attained to the highest degree. All this wonderfully resembles the
-organization of the Pythagoreans, <span id="fr_18"></span>[1](#fn_18)
+organization of the Pythagoreans, <span id="fr_18"></span>[1](#fn_18.md)
 but certainly it was almost the same among the ancient prophets, for it
 is to he found wherever initiation has existed. It must be added that
 the Essenes professed the essential dogma of the Orphic and Pythagorean
@@ -134,7 +134,7 @@ precept." Indifferent to the outward pomp of worship at Jerusalem,
 repelled by the harshness of the Sadducees, and the prayers of the
 Pharisees, as well as by the pedantry of the synagogue, Jesus was
 attracted towards the Essenes by natural affinity. <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 <span id="page_43">p. 43</span>
 
@@ -206,7 +206,7 @@ saints from on high and the power of God; and the Cherubim, the
 Seraphim, the Ophanim, all the angels of *Might*, all the angels of the
 *Lord*, *i. e.* of the Elect and *of the other Might,* serving on earth
 and above the waters, shall raise their voices." <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 At these revelations the words of the prophets, read and meditated upon
 times innumerable, appeared before the eyes of the Nazarene, with a
@@ -238,7 +238,7 @@ chalice* as a symbol of the final initiation, containing *the wine of
 the Lord's vineyard*, symbol of divine inspiration. Some said that Moses
 and the seventy had drunk therefrom; others trace it back from Abraham,
 who received from Melchisedek this very initiation under the elements of
-bread and wine. <span id="fr_21"></span>[1](#fn_21) The Eiders never
+bread and wine. <span id="fr_21"></span>[1](#fn_21.md) The Eiders never
 offered the cup to anyone in whom they had not recognized, with distinct
 certainty, the signs of a prophetic mission. But no one could define
 this mission, he was to find it himself; such is the law of the
@@ -298,7 +298,7 @@ were ominous; Tiberius, at the age of seventy-four, was rapidly
 hastening his death by scenes of debauchery at Capreae; Pontius Pilate
 was persecuting the Jews with redoubled fury; while, in Egypt, the
 priests had given forth that the Phœnix was about to spring again to
-birth from her ashes. <span id="fr_22"></span>[1](#fn_22)
+birth from her ashes. <span id="fr_22"></span>[1](#fn_22.md)
 
 Jesus, who felt the prophetic calling even more emphatic within his
 soul, though as yet he was still feeling his way, came also to the
@@ -334,7 +334,7 @@ preacher's fiery eyes met the Galilean's calm, gentle gaze. A quiver ran
 through the man of the wilderness as he saw the look of wondrous
 sweetness beaming from the eyes of Jesus, and involuntarily the question
 escaped his lips: "Art thou the Messiah?" <span
-id="fr_23"></span>[1](#fn_23)
+id="fr_23"></span>[1](#fn_23.md)
 
 <span id="page_50">p. 50</span>
 
@@ -586,13 +586,13 @@ all his brethren.
 
 ### Footnotes
 
-<span id="fn_16"></span>[40:1](jlgi05.htm#fr_16) Josephus, "Wars of the
+<span id="fn_16"></span>[40:1](jlgi05.htm#fr_16.md) Josephus, "Wars of the
 Jews," xxx. 2, &c.; "Antiquities," xiii. 5-9; xviii. 1-5.
 
-<span id="fn_17"></span>[40:2](jlgi05.htm#fr_17) Philo, "On the
+<span id="fn_17"></span>[40:2](jlgi05.htm#fr_17.md) Philo, "On the
 Contemplative Life."
 
-<span id="fn_18"></span>[41:1](jlgi05.htm#fr_18) Points in common
+<span id="fn_18"></span>[41:1](jlgi05.htm#fr_18.md) Points in common
 between Essenes and Pythagoreans: Prayer at sunrise; linen garments,
 fraternal love-feasts; one year's novitiate; three degrees of
 initiation; organization of the Order and community of possessions
@@ -602,7 +602,7 @@ principles of Theogony, what Philo calls Logic; (2) Physics or
 Cosmogony; (3) Morals, *i. e.*, everything dealing with man, the
 conscience to which the healers specially devoted themselves.
 
-<span id="fn_19"></span>[42:1](jlgi05.htm#fr_19) Points in common
+<span id="fn_19"></span>[42:1](jlgi05.htm#fr_19.md) Points in common
 between the doctrines of the Essenes and those of Jesus: "Love of one's
 neighbor, emphasized as one's first <span id="page_43">p. 43</span>
 duty; prohibition of the oath as witnesses to truth; hatred of lying;
@@ -610,19 +610,19 @@ meekness; institution of the Supper, borrowed from the fraternal
 love-feasts of the Essenes, but with a new significance, that of
 sacrifice."
 
-<span id="fn_20"></span>[45:1](jlgi05.htm#fr_20) Book of Henoch, chaps.
+<span id="fn_20"></span>[45:1](jlgi05.htm#fr_20.md) Book of Henoch, chaps.
 xlviii. and lxi. This passage shows that the doctrine of the Word, the
 Trinity found in the Gospel of John existed in Israel long before the
 time of Jesus, and came from the very depths of esoteric prophecy. In
 the Book of Henoch, the Lord of Spirits represents the Father, the Elect
 represents the Son, and the other Might, the Holy Ghost.
 
-<span id="fn_21"></span>[46:1](jlgi05.htm#fr_21) Genesis xiv. 18
+<span id="fn_21"></span>[46:1](jlgi05.htm#fr_21.md) Genesis xiv. 18
 
-<span id="fn_22"></span>[48:1](jlgi05.htm#fr_22) Tacitus, Annals, vi.
+<span id="fn_22"></span>[48:1](jlgi05.htm#fr_22.md) Tacitus, Annals, vi.
 28, 31.
 
-<span id="fn_23"></span>[49:1](jlgi05.htm#fr_23) According to the
+<span id="fn_23"></span>[49:1](jlgi05.htm#fr_23.md) According to the
 Gospels, John immediately recognized Jesus as the Messiah, and baptized
 him as such. There are contradictory <span id="page_50">p. 50</span>
 accounts on this point, for, at a later time, when a prisoner of Antipas
@@ -638,6 +638,6 @@ Baptist, a popular prophet of Judaea.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. The Public Life of Jesus—Popular and Esoteric
-Instruction—Miracles—Apostles—Women](jlgi06)
+Instruction—Miracles—Apostles—Women](jlgi06.md)
 
 </div>

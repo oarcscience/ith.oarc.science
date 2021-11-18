@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain18)  [Next](ain20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain18)  [Next](ain20.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ There seems to have been no original bead work among Pima Indians.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Tawquahdahmawks and her Canal](ain20)
+[Next: The Story of Tawquahdahmawks and her Canal](ain20.md)

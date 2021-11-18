@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr05)  [Next](abr07) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr05)  [Next](abr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ sinking \[Saved House, in Arabic: Al-Bayt Al-\`Ateeq\].
 
 ------------------------------------------------------------------------
 
-[Next: Building The Holy House](abr07)
+[Next: Building The Holy House](abr07.md)
 
 </div>
 

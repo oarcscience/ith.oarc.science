@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXIII) 
-[Previous](satl112)  [Next](satl114) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXIII.md) 
+[Previous](satl112)  [Next](satl114.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ Iurat verbis Eumolpus conceptissimis. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXIV](satl114)
+[Next: CXIV](satl114.md)

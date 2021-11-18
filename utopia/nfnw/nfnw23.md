@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw22)  [Next](nfnw24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw22)  [Next](nfnw24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -222,4 +222,4 @@ certainly going to be a hot day?"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV: Up The Thames: The Second Day](nfnw24)
+[Next: Chapter XXIV: Up The Thames: The Second Day](nfnw24.md)

@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat22)  [Next](yat24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat22)  [Next](yat24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### XXIV. GRIZZLY BEAR AND DEER. <span id="fr_145"></span>[319](#fn_141)
+### XXIV. GRIZZLY BEAR AND DEER. <span id="fr_145"></span>[319](#fn_141.md)
 
 <span id="page_207">p. 207</span>
 
@@ -38,7 +38,7 @@ smoke each other outside!" They dug a hole in the ground. "Let us smoke
 each other!" (said Deer's children). "You go in first!" (Grizzly Bear's
 children said to them). "Yes, yes!" The fawns now went in. (Grizzly
 Bear's children) put in pine-needles, and then caused (Deer's children)
-to smoke. <span id="fr_146"></span>[321](#fn_142) "Enough now!" they
+to smoke. <span id="fr_146"></span>[321](#fn_142.md) "Enough now!" they
 said, "I am all smoke now." "Yes," said (Grizzly Bear's children). Now
 they came out again. "Do you go in," they said, "Grizzly Bear children!"
 Then they put in pitchwood and pine-needles again, and caused (Grizzly
@@ -84,7 +84,7 @@ Grizzly-Bear Woman, and proceeded to gnaw the rock; she moved clear
 around it. "O rock!" said the fawns, singing, "go upwards! rise up!" And
 then it did so. It rose up while Grizzly-Bear Woman kept gnawing at it.
 Only a little was left of the rock. <span
-id="fr_147"></span>[328](#fn_143) For two days she gnawed the rock, when
+id="fr_147"></span>[328](#fn_143.md) For two days she gnawed the rock, when
 suddenly she died, let her hands drop down on the ground.
 
 They hastened down. And then they cut up her belly, pulled out (her)
@@ -97,18 +97,18 @@ head and threw it to the west; (her) backbone they threw to the east.
 
 ### Footnotes
 
-<span id="fn_141"></span>[203:319](yat23.htm#fr_145) Compare Dixon's
+<span id="fn_141"></span>[203:319](yat23.htm#fr_145.md) Compare Dixon's
 "Maidu Myths," p. 79, where further parallels are given (see also
 Dixon's "Northern Maidu," p. 341). The Takelma of Oregon have a similar
 myth.
 
-<span id="fn_142"></span>[207:321](yat23.htm#fr_146) wu'lwisindja, "I am
+<span id="fn_142"></span>[207:321](yat23.htm#fr_146.md) wu'lwisindja, "I am
 fanning smoke into house" (from Dr Dixon's notes). The method of smoking
 here employed seems to have been to fan the smoke of burning pine
 needles into the temporarily constructed sweat-house; cf. Dixon's "Maidu
 Myths," p. 79.
 
-<span id="fn_143"></span>[208:328](yat23.htm#fr_147) Information was
+<span id="fn_143"></span>[208:328](yat23.htm#fr_147.md) Information was
 secured from Betty Brown of two rocks with a circular notch said to have
 been bitten in by a grizzly bear in pursuit of the deer that stood on
 top. They are a short distance east of the hamlet of Montgomery Creek
@@ -117,4 +117,4 @@ thought of by Round Mountain Jack as the scene of the mythical incident.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Creation of Men](yat24)
+[Next: I. The Creation of Men](yat24.md)

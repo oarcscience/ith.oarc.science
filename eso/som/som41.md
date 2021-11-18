@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som40) 
-[Next](som42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som40.md) 
+[Next](som42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -153,7 +153,7 @@ physical man, and produces most of our nervous disorders. Expression is
 normal when the intellect decides how the emotion is going to manifest.
 "He that is slow to anger is better than the mighty; and he that ruleth
 his spirit than he that taketh a city." <span
-id="fr_106"></span>[108](#fn_106)
+id="fr_106"></span>[108](#fn_106.md)
 
 **THE CONFLICT OF DESIRE**
 
@@ -197,7 +197,7 @@ sex desire. But too great an expression of this desire is destructive,
 for it depletes the vitality and demagnetizes the one who overindulges.
 This is the meaning, and the whole meaning, of the story of Samson and
 Delilah. "He that hath an ear, let him hear." <span
-id="fr_107"></span>[109](#fn_107) All people look, and occasionally
+id="fr_107"></span>[109](#fn_107.md) All people look, and occasionally
 someone sees.
 
 **SEX NOT NECESSARY TO THE EXPRESSION OF LOVE**
@@ -358,10 +358,10 @@ thought to the great Whole. This alone is real and lasting.
 
 ### Footnotes
 
-<span id="fn_106"></span>[302:108](som41.htm#fr_106) Prov. 16:32
+<span id="fn_106"></span>[302:108](som41.htm#fr_106.md) Prov. 16:32
 
-<span id="fn_107"></span>[303:109](som41.htm#fr_107) Rev. 2:7.
+<span id="fn_107"></span>[303:109](som41.htm#fr_107.md) Rev. 2:7.
 
 ------------------------------------------------------------------------
 
-[Next: The Atonement](som42)
+[Next: The Atonement](som42.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil63)  [Next](egil65) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil63)  [Next](egil65.md) 
 
 ------------------------------------------------------------------------
 
@@ -255,4 +255,4 @@ Song that all could hear.'
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXIV. Egil's life is given him.](egil65)
+[Next: CHAPTER LXIV. Egil's life is given him.](egil65.md)

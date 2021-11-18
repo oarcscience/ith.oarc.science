@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai18) 
-[Next](phai20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai18.md) 
+[Next](phai20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ and Kings. Contemporaneously also certain collections of laws and
 decisions of the priests, of which we have an example in Ex. xxi. xxii.,
 were committed to writing. Somewhat later, perhaps, the legends about
 the patriarchs and primitive times, the origin of which cannot be
-assigned to a very early date, <span id="fr_256"></span>[1](#fn_256)
+assigned to a very early date, <span id="fr_256"></span>[1](#fn_256.md)
 received literary shape. Specially
 
 <span id="page_465">p. 465</span>
@@ -82,7 +82,7 @@ production of simple domestic necessaries.
 Commerce was in old time followed exclusively by the Canaanite towns, so
 that the word "Canaanite" was used in the general sense of "trader." But
 by and by Israel began to tread in Canaan's footsteps (Hos. xii. 8,
-9), <span id="fr_257"></span>[1](#fn_257) The towns grew more
+9), <span id="fr_257"></span>[1](#fn_257.md) The towns grew more
 influential than the
 
 <span id="page_466">p. 466</span>
@@ -222,7 +222,7 @@ The cultus, as to place, time, matter, and form, belonged almost
 entirely to the inheritance which Israel had received from Canaan; to
 distinguish what belonged to the worship of Jehovah from that which
 belonged to Baal was no easy matter. <span
-id="fr_258"></span>[1](#fn_258) It was the channel through which also
+id="fr_258"></span>[1](#fn_258.md) It was the channel through which also
 paganism could and did ever anew gain admittance into the worship of
 Jehovah. Yet that publicity of the cultus which arose out of the very
 nature of Jehovah, and in consequence of which the teraphim even were
@@ -265,7 +265,7 @@ antiquity.
 
 ### Footnotes
 
-<span id="fn_256"></span>[464:1](phai19.htm#fr_256) Even the Jehovistic
+<span id="fn_256"></span>[464:1](phai19.htm#fr_256.md) Even the Jehovistic
 narratives about the patriarchs belong to the time when Israel had
 already become a powerful kingdom; Moab, Ammon,, and Edom had been
 subjugated (Gen. xxvii. 29), and vigorous frontier wars were being
@@ -274,17 +274,17 @@ Gilead (Gen. xxxi. 52). In Gen. xxvii. 40 allusion is made to the
 constantly repeated subjugations of Edom by Judah, alternating with
 successful revolts on the part of the former; see Delitzsch on ‏כאשׁר‎.
 
-<span id="fn_257"></span>[465:1](phai19.htm#fr_257) "Canaan (*i.e.*,
+<span id="fn_257"></span>[465:1](phai19.htm#fr_257.md) "Canaan (*i.e.*,
 Ephraim Canaanised) has deceitful balances in his hand, and <span
 id="page_466">p. 466</span> loves to overreach. Ephraim indeed saith, I
 am become rich, I have gained wealth; but all his profits will not
 suffice for (expiation of) the guilt which he has incurred."
 
-<span id="fn_258"></span>[469:1](phai19.htm#fr_258) The description of
+<span id="fn_258"></span>[469:1](phai19.htm#fr_258.md) The description of
 the cultus by the Prophet Hosea shows this very clearly. It is obvious
 enough, however, that the object was to serve *Jehovah*, and not any
 foreign deity, by this worship.
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Fall of Samaria.](phai20)
+[Next: 6. The Fall of Samaria.](phai20.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](jer)  [Next](eze) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](jer)  [Next](eze.md) 
 
 ------------------------------------------------------------------------
 
@@ -571,4 +571,4 @@ hast been wroth against us -- exceedingly?
 
 ------------------------------------------------------------------------
 
-[Next: Ezekiel](eze)
+[Next: Ezekiel](eze.md)

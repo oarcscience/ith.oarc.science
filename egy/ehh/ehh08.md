@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh07)  [Next](ehh09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh07)  [Next](ehh09.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ the grain (vol. i., p. 31), gods armed with knives, and connected with
 the harvest, gods of the seasons, each holding a notched palm-stick, the
 god of the year, the gods of SOTHIS and ORION (vol. i., p. 32)
 Osiris-Unnefer, Akhabit, Anubis, the "Eater of the Ass," <span
-id="fr_47"></span>[1](#fn_47) etc. To the left of the Boat are six
+id="fr_47"></span>[1](#fn_47.md) etc. To the left of the Boat are six
 deities, each with a phallus in the form of a knife, the double god
 HORUS-SET (Vol. i., p. 29), various animal- and bird-headed gods,
 goddesses both with and without uraei on their heads, the "Crook"
@@ -75,7 +75,7 @@ abundance.
  
 
 <span id="img_11300"></span> [![](tn/generic.jpg)  
-Click to view](img/11300.jpg)  
+Click to view](img/11300.jpg.md)  
 Nekht spearing the Eater of the Ass.
 
  
@@ -123,7 +123,7 @@ URNES, and would travel about with the god, would have the power of
 entering the earth and the Tuat and of going so far as the pillars which
 supported the heavens, would travel over the serpent AMU-AA (i.e., the
 Eater of the Ass), would eat the bread intended for the Boat of the
-Earth, <span id="fr_48"></span>[1](#fn_48) and would partake of the
+Earth, <span id="fr_48"></span>[1](#fn_48.md) and would partake of the
 perfumed unguent of the god TATUBA. Moreover, it is stated that the man
 who makes offerings to the BAIU-TUATIU (i.e., the divine souls of the
 Tuat), mentioning them by their names, shall in very truth receive
@@ -143,16 +143,16 @@ Osiris and RA were admitted.
 
 ### Footnotes
 
-<span id="fn_47"></span>[113:1](ehh08.htm#fr_47) This is a name given to
+<span id="fn_47"></span>[113:1](ehh08.htm#fr_47.md) This is a name given to
 the serpent which is seen attacking an ass in the XIth Chapter of the
 Book of the Dead, and which is a form of the god Set; the Ass is
 probably a form of the sun-god RA. THE EATER OF THE GREAT PHALLUS, i.e.,
 the Ass, was also a power of evil, yet here he is found seated among
 beneficent gods.
 
-<span id="fn_48"></span>[115:1](ehh08.htm#fr_48) See within, page 126.
+<span id="fn_48"></span>[115:1](ehh08.htm#fr_48.md) See within, page 126.
 
 ------------------------------------------------------------------------
 
 [Next: Second Division of the Tuat. II. The Kingdom of
-Khenti-Amenti-Osiris According to the Book of Gates](ehh09)
+Khenti-Amenti-Osiris According to the Book of Gates](ehh09.md)

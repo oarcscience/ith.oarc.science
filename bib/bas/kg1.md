@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](sa2)  [Next](kg2) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](sa2)  [Next](kg2.md) 
 
 ------------------------------------------------------------------------
 
@@ -3333,4 +3333,4 @@ done.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Kings](kg2)
+[Next: 2 Kings](kg2.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/cym)  [Previous](../cor/cor) 
-[Next](../ham/ham) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/cym)  [Previous](../cor/cor.md) 
+[Next](../ham/ham.md) 
 
 ------------------------------------------------------------------------
 
@@ -5496,4 +5496,4 @@ Index](../index)  [First Folio](../ff/cym)  [Previous](../cor/cor) 
 
 ------------------------------------------------------------------------
 
-[Next: Hamlet](../ham/ham) 
+[Next: Hamlet](../ham/ham.md) 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe097)  [Next](prwe099) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe097)  [Next](prwe099.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ had been cast on 'em."\]
 
 ------------------------------------------------------------------------
 
-[Next: The Hooting Cairn](prwe099)
+[Next: The Hooting Cairn](prwe099.md)

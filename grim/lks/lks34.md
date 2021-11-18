@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks33)  [Next](lks35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks33)  [Next](lks35.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ of Truth in voice and in understanding!
 
 ------------------------------------------------------------------------
 
-[Next: Ye Constraynte](lks35)
+[Next: Ye Constraynte](lks35.md)

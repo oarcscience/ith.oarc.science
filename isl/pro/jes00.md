@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](zjo01)  [Next](jes01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](zjo01)  [Next](jes01.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ God is the Knower of everything.
 
 ------------------------------------------------------------------------
 
-[Next: The Pregnancy of Mary With Jesus And His Birth (PUT)](jes01)
+[Next: The Pregnancy of Mary With Jesus And His Birth (PUT)](jes01.md)

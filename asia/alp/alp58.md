@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp57) 
-[Next](alp59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp57.md) 
+[Next](alp59.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ He came past, and vanished fleet.
 When my lover rode away  
 Not a farewell did I say;  
      None there is to help him now--  
-     Sourb Carapet, <span id="fr_9"></span>[1](#fn_9) bless his way!
+     Sourb Carapet, <span id="fr_9"></span>[1](#fn_9.md) bless his way!
 
  
 
@@ -49,9 +49,9 @@ Not a farewell did I say;
 
 ### Footnotes
 
-<span id="fn_9"></span>[81:1](alp58.htm#fr_9) The patron saint of
+<span id="fn_9"></span>[81:1](alp58.htm#fr_9.md) The patron saint of
 lovers.
 
 ------------------------------------------------------------------------
 
-[Next: Complaints](alp59)
+[Next: Complaints](alp59.md)

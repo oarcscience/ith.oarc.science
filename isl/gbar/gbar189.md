@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar188) [Next](gbar190)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar188) [Next](gbar190.md)
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ one stone upon another.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar190)
+[Next](gbar190.md)

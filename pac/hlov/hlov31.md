@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov30)  [Next](hlov32) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov30)  [Next](hlov32.md) 
 
 ------------------------------------------------------------------------
 
@@ -309,4 +309,4 @@ institutions.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix: Polynesian Language](hlov32)
+[Next: Appendix: Polynesian Language](hlov32.md)

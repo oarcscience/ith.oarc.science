@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby22)  [Next](sby24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby22)  [Next](sby24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ sect, and distinguish them from every other religious body. They cherish
 two fundamental beliefs. They believe in a deity of the first degree,
 God; and in a deity of the second degree, who, they seem to think, is
 composed of three persons in one, Melek Ṭâ’ûs, Šeiḫ ‘Adî and
-Yezid. <span id="fr_132"></span>[1](#fn_131)
+Yezid. <span id="fr_132"></span>[1](#fn_131.md)
 
 ### I
 
@@ -70,7 +70,7 @@ as having nothing to do with
 
 the affairs of the world, except once a year, on New Year's day, when he
 sits on his throne, calls the gods unto him, and delivers the power into
-the hands of [the](errata.htm#15) god who is to descend to the earth. To
+the hands of [the](errata.htm#15.md) god who is to descend to the earth. To
 sum up, the Yezidis' conception of a personal God is transcendental and
 static of the extreme type. In this it resembles somewhat the Platonic
 idea of the absolute. They call God in the Kurdish Khuda, and believe
@@ -83,10 +83,10 @@ sacrifice.
 
 ### Footnotes
 
-<span id="fn_131"></span>[145:1](sby23.htm#fr_132) <span
+<span id="fn_131"></span>[145:1](sby23.htm#fr_132.md) <span
 id="page_167">p. 167</span> P. Anastase: *Al-Mašrik*, Vol. II, p. 151;
 Bedrus Efendi Ar-Riḍwani, his letter to A. N. Andrus, April 22, 1887.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Deity of the Second Degree: 1. Melek Ṭâ’ûs](sby24)
+[Next: II. The Deity of the Second Degree: 1. Melek Ṭâ’ûs](sby24.md)

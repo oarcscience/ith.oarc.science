@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph05)  [Next](sph07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph05)  [Next](sph07.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
      αμφὶ δ᾽ ὔδωρ  
 ψῖχρον ὤνεμοσ κελάδει δἰ ὔσδων  
 μαλίνων, αἰθυσσομένων δὲ φύλλων  
-     κῶμα κατάρρει. [\[transcription\]](xlatall.htm#9)
+     κῶμα κατάρρει. [\[transcription\]](xlatall.htm#9.md)
 
 And by the cool stream the breeze murmurs through apple branches and
 slumber pours down from quivering leaves.
@@ -26,4 +26,4 @@ of the garden of the nymphs.
 
 ------------------------------------------------------------------------
 
-[Next: 6: Come, goddess of Cyprus...](sph07)
+[Next: 6: Come, goddess of Cyprus...](sph07.md)

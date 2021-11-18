@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere23)  [Next](ere25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere23)  [Next](ere25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -266,4 +266,4 @@ therefore be allowed its full share in stating the initial conditions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII: The Colleges Of Unreason—continued](ere25)
+[Next: Chapter XXII: The Colleges Of Unreason—continued](ere25.md)

@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [China](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [China](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,9 +13,9 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](fs00)  
+[Contents](#contents)    [Start Reading](fs00.md)  
 [Buy this book at
-Amazon](https://www.amazon.com/exec/obidos/ASIN/0486431894/internetsacredte)
+Amazon](https://www.amazon.com/exec/obidos/ASIN/0486431894/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -45,12 +45,12 @@ or not you believe in geomancy, evidence of its use is all around us.
 
 ------------------------------------------------------------------------
 
-[Title Page](fs00)  
-[Contents](fs01)  
-[Chapter I: Introductory](fs02)  
-[Chapter II: The Laws of Nature](fs03)  
-[Chapter III: The Numerical Proportions of Nature](fs04)  
-[Chapter IV: The Breath of Nature](fs05)  
-[Chapter V: The Forms and Outlines of Nature](fs06)  
-[Chapter VI: The History and Literature of Feng-Shui](fs07)  
-[Chapter VII: Conclusion](fs08)  
+[Title Page](fs00.md)  
+[Contents](fs01.md)  
+[Chapter I: Introductory](fs02.md)  
+[Chapter II: The Laws of Nature](fs03.md)  
+[Chapter III: The Numerical Proportions of Nature](fs04.md)  
+[Chapter IV: The Breath of Nature](fs05.md)  
+[Chapter V: The Forms and Outlines of Nature](fs06.md)  
+[Chapter VI: The History and Literature of Feng-Shui](fs07.md)  
+[Chapter VII: Conclusion](fs08.md)  

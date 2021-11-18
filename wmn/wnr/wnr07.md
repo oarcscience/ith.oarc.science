@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr06)  [Next](wnr08) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr06)  [Next](wnr08.md) 
 
 ------------------------------------------------------------------------
 
@@ -343,4 +343,4 @@ erroneously attributed to Mr. Roosevelt."\]
 
 ------------------------------------------------------------------------
 
-[Next: VI. Cries Of Despair](wnr08)
+[Next: VI. Cries Of Despair](wnr08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe030)  [Next](prwe032) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe030)  [Next](prwe032.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ a long time.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Miners - the Knockers](prwe032)
+[Next: The Fairy Miners - the Knockers](prwe032.md)

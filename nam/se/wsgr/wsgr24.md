@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr23)  [Next](wsgr25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr23)  [Next](wsgr25.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ And this is the legend of the wild iris.
 
 ------------------------------------------------------------------------
 
-[Next: The Pecan Tree's Best Friend](wsgr25)
+[Next: The Pecan Tree's Best Friend](wsgr25.md)

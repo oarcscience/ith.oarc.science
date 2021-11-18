@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Astrology](../index) 
-[Index](index)  [Previous](hba06)  [Next](hba08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Astrology](../index.md) 
+[Index](index)  [Previous](hba06)  [Next](hba08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Hindu Book of Astrology*, by Bhakti Seva, \[1902\], at Intangible
 Textual Heritage
 
@@ -164,4 +164,4 @@ consolers of the world.
 
 ------------------------------------------------------------------------
 
-[Next: Taurus](hba08)
+[Next: Taurus](hba08.md)

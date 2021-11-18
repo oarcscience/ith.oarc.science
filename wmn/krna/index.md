@@ -4,7 +4,7 @@ title: "The Koranna of Mother Goddess, Index"
 ---
 <span class="p-small2"> </span>
 
-[Women](../index)
+[Women](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -33,13 +33,13 @@ joanne@mothergoddess.org.
 
 You can purchase a printed copy of this book at LuLu.com:
 
-[Buy this book at LuLu.com](https://www.lulu.com/content/804604)  
+[Buy this book at LuLu.com](https://www.lulu.com/content/804604.md)  
 
 ------------------------------------------------------------------------
 
-[Introduction](krna00)  
-[Chapters 1 to 4](krna01)  
-[Chapters 5 to 9](krna02)  
-[Chapters 10 to 19](krna03)  
-[Chapters 20 to 39](krna04)  
-[Chapters 40 to 114](krna05)  
+[Introduction](krna00.md)  
+[Chapters 1 to 4](krna01.md)  
+[Chapters 5 to 9](krna02.md)  
+[Chapters 10 to 19](krna03.md)  
+[Chapters 20 to 39](krna04.md)  
+[Chapters 40 to 114](krna05.md)  

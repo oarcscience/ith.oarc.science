@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp42) 
-[Next](alp44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp42.md) 
+[Next](alp44.md) 
 
 ------------------------------------------------------------------------
 
@@ -195,10 +195,10 @@ What boots the joy which needs must make us mourn?
  
 
 <span id="img_05700"></span> ![ISLAND, MONASTERY OF AGHTAMAR, LAKE
-VAN.](img/05700.jpg)
+VAN.](img/05700.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: The Arrival of the Crusaders](alp44)
+[Next: The Arrival of the Crusaders](alp44.md)

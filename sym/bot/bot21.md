@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot20) 
-[Next](bot22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot20.md) 
+[Next](bot22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -74,9 +74,9 @@ to express its influence, it was again divided, Libra being inserted
 between, making the Zodiac of twelve Houses as we now know it.
 
 It is believed by some authorities that the symbol of Virgo (see Plate
-No. 6 of the coloured [Frontispiece](bot00.htm#img_front)) was adapted
+No. 6 of the coloured [Frontispiece](bot00.htm#img_front).md) was adapted
 from the symbol of Scorpio (shown in No. 8 of [same
-Plate](bot00.htm#img_front)) and their
+Plate](bot00.htm#img_front).md) and their
 
 <span id="page_201">p. 201</span>
 
@@ -355,6 +355,6 @@ by those born during the Sagittarius or Gemini periods.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Libra—The Balance](bot22)
+[Next: Chapter VII. Libra—The Balance](bot22.md)
 
 </div>

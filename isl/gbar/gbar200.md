@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar199) [Next](gbar201)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar199) [Next](gbar201.md)
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ assembled themselves together, took counsel to catch him in his talk.
 
 ------------------------------------------------------------------------
 
-[Next](gbar201)
+[Next](gbar201.md)

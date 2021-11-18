@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp00) [Next](onp02)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp00) [Next](onp02.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp00) [N
 
 ------------------------------------------------------------------------
 
-[Next](onp02)
+[Next](onp02.md)
 
  
 

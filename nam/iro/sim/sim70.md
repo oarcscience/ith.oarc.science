@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim69)  [Next](sim71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim69)  [Next](sim71.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ The chief promised and the snakes went away.
 
 ------------------------------------------------------------------------
 
-[Next: The Hunter Who Became A Fish](sim71)
+[Next: The Hunter Who Became A Fish](sim71.md)

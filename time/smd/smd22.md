@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd21)  [Next](smd23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd21)  [Next](smd23.md) 
 
 ------------------------------------------------------------------------
 
@@ -191,4 +191,4 @@ Of Odin, the delights of other days.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. The Meaning of the Ancient Myths](smd23)
+[Next: Chapter XXI. The Meaning of the Ancient Myths](smd23.md)

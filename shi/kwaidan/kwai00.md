@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Next](kwai01) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Next](kwai01.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ digitized version.
 
 ------------------------------------------------------------------------
 
-[Next: Table Of Contents](kwai01)
+[Next: Table Of Contents](kwai01.md)

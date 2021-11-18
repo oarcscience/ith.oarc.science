@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](atec14)  [Next](atec16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](atec14)  [Next](atec16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88BE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88BE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *At the Earth's Core*, by Edgar Rice Burroughs, \[1914\], at Intangible
 Textual Heritage
 
@@ -707,4 +707,4 @@ time; I do not know.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Back to Earth](atec16)
+[Next: XV. Back to Earth](atec16.md)

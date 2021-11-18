@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim13)  [Next](anim15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim13)  [Next](anim15.md) 
 
 ------------------------------------------------------------------------
 
@@ -371,4 +371,4 @@ a sense of fear alone.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Home of the Soul](anim15)
+[Next: Chapter XIII. The Home of the Soul](anim15.md)

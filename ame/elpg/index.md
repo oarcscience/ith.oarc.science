@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,10 +9,10 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](elpg00)  
-[European Backgrounds of the Germans Settled in Pennsylvania](elpg01)  
-[Immigration Trends are Divided into Three General Periods](elpg02)  
-[Pioneer Immigrants were Farmers and Tradesmen](elpg03)  
-[Language and Education at First Neglected, Then Promoted](elpg04)  
-[Religious Groups were Numerous Before the Revolution](elpg05)  
-[The Derivation of Family Names](elpg06)  
+[Title Page](elpg00.md)  
+[European Backgrounds of the Germans Settled in Pennsylvania](elpg01.md)  
+[Immigration Trends are Divided into Three General Periods](elpg02.md)  
+[Pioneer Immigrants were Farmers and Tradesmen](elpg03.md)  
+[Language and Education at First Neglected, Then Promoted](elpg04.md)  
+[Religious Groups were Numerous Before the Revolution](elpg05.md)  
+[The Derivation of Family Names](elpg06.md)  

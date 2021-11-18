@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp14)  [Next](potp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp14)  [Next](potp16.md) 
 
 ------------------------------------------------------------------------
 
@@ -290,7 +290,7 @@ north), and then set off at
 
 [![ICEBERGS.&lt;br&gt; Beautiful scenery, showing the icebergs and ship
 floating and sailing in open water.](tn/14100.jpg)  
-Click to enlarge](img/14100.jpg)  
+Click to enlarge](img/14100.jpg.md)  
 ICEBERGS.  
 Beautiful scenery, showing the icebergs and ship floating and sailing in
 open water.  
@@ -888,7 +888,7 @@ south.
 
 [![NORTHERN ENTRANCE.&lt;br&gt; Globe showing entrance to the interior
 of the earth at the North Pole.](tn/17100.jpg)  
-Click to enlarge](img/17100.jpg)  
+Click to enlarge](img/17100.jpg.md)  
 NORTHERN ENTRANCE.  
 Globe showing entrance to the interior of the earth at the North Pole.  
 
@@ -949,4 +949,4 @@ the poles--if there be such places?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Why it is Warmer Near the Poles](potp16)
+[Next: Chapter XII. Why it is Warmer Near the Poles](potp16.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca37)  [Next](fsca39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca37)  [Next](fsca39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ at Intangible Textual Heritage
 
 <span id="page_163">p. 163</span>
 
-<span id="img_16300"></span> ![Egyptian Sphynx.](img/16300.jpg)
+<span id="img_16300"></span> ![Egyptian Sphynx.](img/16300.jpg.md)
 
 ### The Sphynx
 
@@ -53,10 +53,10 @@ Corunna.
 The strange combination of human and animal features in the figure known
 as the sphynx is of
 
-<span id="img_16400"></span> ![Theban, or Greek Sphynx.](img/16400.jpg)
+<span id="img_16400"></span> ![Theban, or Greek Sphynx.](img/16400.jpg.md)
 
 frequent occurrence in both Greek and Egyptian mythology and art. The
-Egyptian [sphynx](errata.htm#4) is supposed to represent the combination
+Egyptian [sphynx](errata.htm#4.md) is supposed to represent the combination
 of physical power, or the kings, as incarnations of such attributes.
 They are also associated with the special forms and attributes of the
 great Egyptian deities Osiris and Ammon, Neph or Jupiter, and Phreh or
@@ -79,7 +79,7 @@ sphynx in its female form, and also departed from the Egyptian type by
 adding wings to the lion's body.
 
 "There is a great difference," says Sir Gardiner Wilkinson in his
-account of the sphynx, <span id="fr_17"></span>[\*](#fn_17) between the
+account of the sphynx, <span id="fr_17"></span>[\*](#fn_17.md) between the
 Greek and Egyptian sphynxes. The latter is human-headed, ram-headed, or
 hawk-headed, and is always male; while the Greek is female, with the
 head of a woman, and always has wings, which the Egyptian never has."
@@ -99,7 +99,7 @@ into the abyss.
 The sphynx occurs upon a coin of Chios (B.C. 478–412). It is represented
 seated before an amphore, above which is a bunch of grapes. Chios was
 famed for its wine, and the sphynx was a symbol of Dionysius. <span
-id="fr_18"></span>[\*](#fn_18)
+id="fr_18"></span>[\*](#fn_18.md)
 
 The Emperor Augustus, on his seal, used the device of the sphynx—"maid's
 face, bird's wings, and lion's paws"—"implying," says Mrs. Bury Palliser
@@ -211,18 +211,18 @@ back.
 Asgill (Bart. 1701).
 
 <span id="img_17000"></span> ![A Sphynx passant guardant, wings
-endorsed.](img/17000.jpg)
+endorsed.](img/17000.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_17"></span>[165:\*](fsca38.htm#fr_17) "Manners and Customs
+<span id="fn_17"></span>[165:\*](fsca38.htm#fr_17.md) "Manners and Customs
 of the Ancient Egyptians."
 
-<span id="fn_18"></span>[166:\*](fsca38.htm#fr_18) W. Noel Humphry's
+<span id="fn_18"></span>[166:\*](fsca38.htm#fr_18.md) W. Noel Humphry's
 "Coin Collector's Manual."
 
 ------------------------------------------------------------------------
 
-[Next: The Phœnix Bird of the Sun](fsca39)
+[Next: The Phœnix Bird of the Sun](fsca39.md)

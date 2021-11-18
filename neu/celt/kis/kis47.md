@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis46)  [Next](kis48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis46)  [Next](kis48.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ pipe out of his ear, and smoked all through the night.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](kis48)
+[Next: Part III](kis48.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ros03)  [Next](ros05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ros03)  [Next](ros05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ four hundred zuz (silver coins), two men, one belonging to their party
 and one to ours. The former gave his evidence and went out, to the
 latter they (the Beth Din) said, "Tell us what was the appearance of the
 moon?" "I went up," replied he, "to Maale Adumim, <span
-id="fr_45"></span>[1](#fn_43) and I saw it crouching between two rocks.
+id="fr_45"></span>[1](#fn_43.md) and I saw it crouching between two rocks.
 Its head was like a calf, its cars like a goat, its horns like a stag,
 and its tail was lying across its thigh. I gazed upon it and shuddered,
 and fell backwards; and if you do not believe me, behold, here I have
@@ -69,7 +69,7 @@ as a reward, and he who bribed you shall be taken to the whipping-post
 be received only from those who were known (to be of good character).
 
 MISHNA: Formerly bonfires were lighted (to announce the appearance of
-the new moon); but when the Cutheans <span id="fr_46"></span>[2](#fn_44)
+the new moon); but when the Cutheans <span id="fr_46"></span>[2](#fn_44.md)
 practised their deceit, it was ordained that messengers should be sent
 out. How were these bonfires lighted? They brought long staves of cedar
 wood, canes, and branches of the olive tree, and bundles of tow which
@@ -95,7 +95,7 @@ lighted, but not for a month of thirty days? It should have been done
 for a month of thirty days, and not at all for a month of twenty-nine
 days. Said Abayi: That would cause the people a loss of work for two
 days (because they would wait to see if the bonfires would be lit or not
-and thus lose a second day). <span id="fr_47"></span>[1](#fn_45)
+and thus lose a second day). <span id="fr_47"></span>[1](#fn_45.md)
 
 "*How were these bonfires lighted? They brought long staves of cedar
 wood*," etc. R. Jehudah says: There are four kinds of cedars: the common
@@ -129,7 +129,7 @@ MISHNA: There was a large court in Jerusalem called Beth
 the witnesses met, and where they were examined by the Beth Din. Great
 feasts were made there for (the witnesses) in order to induce them to
 come frequently. At first they did not stir from there all day (on the
-Sabbath), <span id="fr_48"></span>[1](#fn_46) till R. Gamaliel, the
+Sabbath), <span id="fr_48"></span>[1](#fn_46.md) till R. Gamaliel, the
 elder, ordained that they might go two thousand ells on every side; and
 not only these (witnesses) but also a midwife, going to perform her
 professional duties, and those who go to assist others in case of
@@ -216,7 +216,7 @@ two).
 
 "*R. Elazar b. Zadok said: If it had not been seen at its proper time it
 was not consecrated*," etc. We have learned in a Boraitha, Pelimo <span
-id="fr_49"></span>[1](#fn_47) said: If the new moon appear at its proper
+id="fr_49"></span>[1](#fn_47.md) said: If the new moon appear at its proper
 time it was not customary to consecrate it, but if it appeared out of
 its proper time they used to consecrate it. R. Eliezer, however, said:
 In neither case would they consecrate it, for it is written \[Lev. xxv.
@@ -247,7 +247,7 @@ not make pictures of my ministers that minister before me, such as the
 sun, moon, stars or planets? It was different with R. Gamaliel, for
 others made it for him. But others made one for R. Jehudah, yet Samuel
 said to him: "Thou, sagacious one, destroy that figure!" <span
-id="fr_50"></span>[2](#fn_48) In the latter case the figure was
+id="fr_50"></span>[2](#fn_48.md) In the latter case the figure was
 embossed, and he was afraid that one might suspect the owner (of using
 it as an idol). Need one be
 
@@ -308,7 +308,7 @@ morning of the twenty-ninth day, and threw clods of earth at it, saying:
 hide thyself!'"
 
 Said Rabbi to R. Hyya: "Go to Entob and consecrate the month and send
-back to me as a password <span id="fr_51"></span>[1](#fn_49) 'David, the
+back to me as a password <span id="fr_51"></span>[1](#fn_49.md) 'David, the
 King of Israel, still lives.'"
 
 The rabbis taught: Once it happened that the heavens were thick with
@@ -320,7 +320,7 @@ tradition, from the house of my grandfather, the consecration of the
 moon cannot take place at a period less than twenty-nine and a half
 days, two-thirds and .0052 (*i.e.*, seventy-three 'Halaqim),of an hour.
 On that self-same day the mother of Ben Zaza died and R. Gamaliel
-delivered a great funeral oration, <span id="fr_52"></span>[2](#fn_50)
+delivered a great funeral oration, <span id="fr_52"></span>[2](#fn_50.md)
 not because she specially deserved it, but in order that the people
 might know that the new moon had not yet been consecrated by the Beth
 Din.
@@ -385,12 +385,12 @@ their duty (to heed the teachings of the leaders).
 
 ### Footnotes
 
-<span id="fn_43"></span>[42:1](ros04.htm#fr_45) The name of a place
+<span id="fn_43"></span>[42:1](ros04.htm#fr_45.md) The name of a place
 between Jerusalem and Jericho.
 
-<span id="fn_44"></span>[42:2](ros04.htm#fr_46) Samaritans.
+<span id="fn_44"></span>[42:2](ros04.htm#fr_46.md) Samaritans.
 
-<span id="fn_45"></span>[43:1](ros04.htm#fr_47) The thirtieth day from
+<span id="fn_45"></span>[43:1](ros04.htm#fr_47.md) The thirtieth day from
 the last New Moon was always New Moon, but in intercalary months the
 thirty-first day was also New Moon (second day). In the latter case the
 thirtieth day (first day of New Moon) belonged to the passing month, and
@@ -404,23 +404,23 @@ lighted, the next day would have had to be observed as New Year's Day
 again, and the people would consequently have lost a second
 day.--*Rasht*.
 
-<span id="fn_46"></span>[44:1](ros04.htm#fr_48) For if they had already
+<span id="fn_46"></span>[44:1](ros04.htm#fr_48.md) For if they had already
 traveled two thousand ells, they were prohibited from journeying more
 than four cubits more.
 
-<span id="fn_47"></span>[46:1](ros04.htm#fr_49) The name of a Tana, a
+<span id="fn_47"></span>[46:1](ros04.htm#fr_49.md) The name of a Tana, a
 contemporary of Rabbi.
 
-<span id="fn_48"></span>[46:2](ros04.htm#fr_50) Literally "put out the
+<span id="fn_48"></span>[46:2](ros04.htm#fr_50.md) Literally "put out the
 eyes of that figure!"
 
-<span id="fn_49"></span>[48:1](ros04.htm#fr_51) This device was resorted
+<span id="fn_49"></span>[48:1](ros04.htm#fr_51.md) This device was resorted
 to, because in the days of Rabbi, the Romans had prohibited the Jews,
 under penalty of death, to consecrate the moon.
 
-<span id="fn_50"></span>[48:2](ros04.htm#fr_52) No funerals or funeral
+<span id="fn_50"></span>[48:2](ros04.htm#fr_52.md) No funerals or funeral
 orations were or are permitted on the holidays.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III.](ros05)
+[Next: Chapter III.](ros05.md)

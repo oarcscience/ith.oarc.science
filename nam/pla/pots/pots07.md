@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pots06)  [Next](pots08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pots06)  [Next](pots08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803270089/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ the canoe,
 <span id="img_03800"></span>
 
 [![THERE WAS NO BOY THERE, ONLY A PILE OF BONES](tn/03800.jpg)  
-Click to enlarge](img/03800.jpg)  
+Click to enlarge](img/03800.jpg.md)  
 “THERE WAS NO BOY THERE, ONLY A PILE OF BONES”  
 
 <span id="page_39">p. 39</span>
@@ -152,7 +152,7 @@ were going along he shouted, and only
 <span id="img_04000"></span>
 
 [![ONLY BONES LAY THERE](tn/04000.jpg)  
-Click to enlarge](img/04000.jpg)  
+Click to enlarge](img/04000.jpg.md)  
 “ONLY BONES LAY THERE”  
 
 <span id="page_41">p. 41</span>
@@ -200,7 +200,7 @@ In this way he treated
 <span id="img_04200"></span>
 
 [![ITS HEAD WAS SO HEAVY THAT IT THREW IT DOWN](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 “ITS HEAD WAS SO HEAVY THAT IT THREW IT DOWN”  
 
 <span id="page_43">p. 43</span>
@@ -264,4 +264,4 @@ Then Bluejay gave it up and became quiet.
 
 ------------------------------------------------------------------------
 
-[Next: The Girl Who Was the Ring](pots08)
+[Next: The Girl Who Was the Ring](pots08.md)

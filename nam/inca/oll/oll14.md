@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll13)  [Next](oll15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll13)  [Next](oll15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -84,8 +84,8 @@ Safety he sees in headless trunks,
 
 <span id="page_386">p. 386</span>
 
-The *sunchu* <span id="fr_63"></span>[1](#fn_63) and the *nucchu* <span
-id="fr_64"></span>[2](#fn_64) red  
+The *sunchu* <span id="fr_63"></span>[1](#fn_63.md) and the *nucchu* <span
+id="fr_64"></span>[2](#fn_64.md) red  
 Are sent to all he would destroy.  
 Doubtless you have not forgot  
 That I was Hanan-suyu's Chief.  
@@ -120,11 +120,11 @@ And carry off the willing girls.
 
 ### Footnotes
 
-<span id="fn_63"></span>[386:1](oll14.htm#fr_63) *Sunchu*, a very large
+<span id="fn_63"></span>[386:1](oll14.htm#fr_63.md) *Sunchu*, a very large
 *composita* with a yellow flower, growing round Cuzco. It was one of
 those which were used on sacred festivals.
 
-<span id="fn_64"></span>[386:2](oll14.htm#fr_64) *Nucchu* is a *salvia*,
+<span id="fn_64"></span>[386:2](oll14.htm#fr_64.md) *Nucchu* is a *salvia*,
 also considered sacred. A red flower. Perhaps these flowers were sent as
 a summons from the Inca, but I have not seen the custom mentioned
 elsewhere.
@@ -133,6 +133,6 @@ elsewhere.
 
 ------------------------------------------------------------------------
 
-[Next: Scene 4](oll15)
+[Next: Scene 4](oll15.md)
 
 </div>

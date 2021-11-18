@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm13)  [Next](bcm15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm13)  [Next](bcm15.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ however, significant variations from the known copies.
 
 The *Lemegeton* is divided into four parts, which control the offices of
 all spirits at the will of the operator, from whom the ordinary
-conditions are exacted. <span id="fr_33"></span>[1](#fn_33) With the
+conditions are exacted. <span id="fr_33"></span>[1](#fn_33.md) With the
 exception of the first part, which gave materials to Wierus, this
 curious, and in many respects memorable, work has never been printed,
 although it has been taxed surreptitiously for contributions by most
@@ -28,7 +28,7 @@ makers of Rituals and Grimoires. It deals,. as I have said, with the
 evocation of all classes of spirits, evil, indifferent and good; its
 opening Rites are those of Lucifer, Bel, Astaroth and the whole cohort
 of Infernus; it is entitled *Goëtia*, which sufficiently explains
-itself, <span id="fr_34"></span>[2](#fn_34) and contains the forms of
+itself, <span id="fr_34"></span>[2](#fn_34.md) and contains the forms of
 conjuration
 
 <span id="page_65">p. 65</span>
@@ -78,12 +78,12 @@ that this production is later than others of the cycle.
 
 ### Footnotes
 
-<span id="fn_33"></span>[64:1](bcm14.htm#fr_33) See Part ii. c. 1 of the
+<span id="fn_33"></span>[64:1](bcm14.htm#fr_33.md) See Part ii. c. 1 of the
 present work.
 
-<span id="fn_34"></span>[64:2](bcm14.htm#fr_34) It is the Greek word
+<span id="fn_34"></span>[64:2](bcm14.htm#fr_34.md) It is the Greek word
 γοητεία, *i.e.* Witchcraft.
 
 ------------------------------------------------------------------------
 
-[Next: Section 3: The Pauline Art](bcm15)
+[Next: Section 3: The Pauline Art](bcm15.md)

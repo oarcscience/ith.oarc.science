@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre08)  [Next](gre10) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre08)  [Next](gre10.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ So there they took much spoil and sailed back to Barra in the autumn.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](gre10)
+[Next: Chapter V](gre10.md)

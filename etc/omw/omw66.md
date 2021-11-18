@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw65)  [Next](omw67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw65)  [Next](omw67.md) 
 
 ------------------------------------------------------------------------
 
@@ -221,4 +221,4 @@ before Yama took them they had a hundred descendants.
 
 ------------------------------------------------------------------------
 
-[Next: Damayantī's Choice](omw67)
+[Next: Damayantī's Choice](omw67.md)

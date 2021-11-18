@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc20) 
-[Next](dsc22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc20.md) 
+[Next](dsc22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -253,11 +253,11 @@ situation. Will you develop a Will that is potent with the strength of
 the All-God? that is flexible at need; rigid at need; ever strong to
 save and motived by the highest, the best and the noblest within you?
 When that great spiritual giant, Sri Ramakrishna
-[Paramahamsa](errata.htm#29) was lying very ill at the Cossipur Garden,
+[Paramahamsa](errata.htm#29.md) was lying very ill at the Cossipur Garden,
 Pandit S. T. is reported to have said to him "Sir, I have read in the
 Shastras that Saints like you can cure diseases of the body at will. You
 will be free from all your ailment if only you concentrate your mind
-upon the Spot—[Ramakrishna](errata.htm#30) Swami was suffering from
+upon the Spot—[Ramakrishna](errata.htm#30.md) Swami was suffering from
 cancer in the throat—with the will that it be cured. Won't you try it
 once? Now listen to the noble reply of this perfect soul. "O, how could
 you say such a thing, being a Pandit yourself? Can I ever be inclined to
@@ -561,4 +561,4 @@ trust yourself: and nothing can long ensnare your manhood.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Character-Building](dsc22)
+[Next: Chapter XX. Character-Building](dsc22.md)

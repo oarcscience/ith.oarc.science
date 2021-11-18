@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tot03)  [Next](tot05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tot03)  [Next](tot05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977574/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977574/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1065,4 +1065,4 @@ At the door Tilak turned and said: "We will meet again."
 
 ------------------------------------------------------------------------
 
-[Next: III. The Great Preparation](tot05)
+[Next: III. The Great Preparation](tot05.md)

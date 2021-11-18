@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku05)  [Next](lku07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku05)  [Next](lku07.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ Till relations are enrolled from Kapokanokano
 
 ------------------------------------------------------------------------
 
-[Next: The Sixth Era](lku07)
+[Next: The Sixth Era](lku07.md)

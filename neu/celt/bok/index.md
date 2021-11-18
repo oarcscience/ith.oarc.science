@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ Sagas](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bok00)    [Page
-Index](pageidx)    [Text \[Zipped\]](bok.txt.gz)
+[Contents](#contents)    [Start Reading](bok00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](bok.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,39 +42,39 @@ amazing manuscript.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bok00)  
-[Prefatory Note](bok01)  
-[Preface to Second Edition](bok02)  
-[List of Plates](bok03)  
-[Introduction](bok04)  
+<span id="contents"></span> [Title Page](bok00.md)  
+[Prefatory Note](bok01.md)  
+[Preface to Second Edition](bok02.md)  
+[List of Plates](bok03.md)  
+[Introduction](bok04.md)  
 <span id="section_000"></span>
 
 ### Illustrations
 
-[Plate I. A Page of the Eusebian Canons. Fol. 5 R](bok05)  
-[Plate II. The Virgin and Child. Fol. 7 V.](bok06)  
+[Plate I. A Page of the Eusebian Canons. Fol. 5 R](bok05.md)  
+[Plate II. The Virgin and Child. Fol. 7 V.](bok06.md)  
 [Plate III. Portion of the ''Argument'' to the Gospel of St. John. fol.
-19 V](bok07)  
-[Plate IV. The Evangelical Symbols. Fol. 27 V.](bok08)  
-[Plate V. Portrait of St. Matthew](bok09)  
+19 V](bok07.md)  
+[Plate IV. The Evangelical Symbols. Fol. 27 V.](bok08.md)  
+[Plate V. Portrait of St. Matthew](bok09.md)  
 [Plate VI. The Opening Words of St. Matthew's Gospel. Fol. 29
-R.](bok10)  
-[Plate VII. Portrait of St. Mark or St. Luke. Fol. 32 V](bok11)  
-[Plate VIII. The Eight-Circled Cross. Fol. 33 R](bok12)  
-[Plate IX. The Monogram Page. Fol. 34 R.](bok13)  
-[Plate X. A Page of the Text. Fol. 104 R](bok14)  
-[Plate XI. Tunc Crucifixerent XPI Cum Os latrones. Fol. 124 R](bok15)  
-[Plate XII. The Evangelical Symbols. Fol. 129 V](bok16)  
+R.](bok10.md)  
+[Plate VII. Portrait of St. Mark or St. Luke. Fol. 32 V](bok11.md)  
+[Plate VIII. The Eight-Circled Cross. Fol. 33 R](bok12.md)  
+[Plate IX. The Monogram Page. Fol. 34 R.](bok13.md)  
+[Plate X. A Page of the Text. Fol. 104 R](bok14.md)  
+[Plate XI. Tunc Crucifixerent XPI Cum Os latrones. Fol. 124 R](bok15.md)  
+[Plate XII. The Evangelical Symbols. Fol. 129 V](bok16.md)  
 [Plate XIII. The Opening Words of St. Mark's Gospel. Fol. 130
-R](bok17)  
-[Plate XIV. The Opening Word of St. Luke's Gospel. Fol. 188 R](bok18)  
-[Plate XV. The Genealogy of Christ. Fol. 200 R.](bok19)  
-[Plate XVI. The Genealogy—continued. Fol. 200 V](bok20)  
-[Plate XVII. The Genealogy—continued. Fol. 201 R](bok21)  
-[Plate XVIII. Portrait of St. John. Fol. 291 V.](bok22)  
-[Plate XIX. The Opening Words of St. John's Gospel. Fol. 292 R](bok23)  
-[Plate XX. Compound Letters](bok24)  
-[Plate XXI. Compound Letters](bok25)  
-[Plate XXII. Compound Letters](bok26)  
-[Plate XXIII. Compound Letters](bok27)  
-[Plate XXIV. Compound Letters](bok28)  
+R](bok17.md)  
+[Plate XIV. The Opening Word of St. Luke's Gospel. Fol. 188 R](bok18.md)  
+[Plate XV. The Genealogy of Christ. Fol. 200 R.](bok19.md)  
+[Plate XVI. The Genealogy—continued. Fol. 200 V](bok20.md)  
+[Plate XVII. The Genealogy—continued. Fol. 201 R](bok21.md)  
+[Plate XVIII. Portrait of St. John. Fol. 291 V.](bok22.md)  
+[Plate XIX. The Opening Words of St. John's Gospel. Fol. 292 R](bok23.md)  
+[Plate XX. Compound Letters](bok24.md)  
+[Plate XXI. Compound Letters](bok25.md)  
+[Plate XXII. Compound Letters](bok26.md)  
+[Plate XXIII. Compound Letters](bok27.md)  
+[Plate XXIV. Compound Letters](bok28.md)  

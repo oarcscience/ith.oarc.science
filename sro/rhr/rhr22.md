@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr21)  [Next](rhr23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr21)  [Next](rhr23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -62,7 +62,7 @@ he called himself Doctor Zheil, and in Holland Carnobius. According to
 Herthodt, his true name was Childe, while Langlet du Fresnoy writes it
 Thomas Vagan, by a characteristic French blunder. His nom de plume was
 Eugenius not Irenæus Philalethes, as Figuier states. <span
-id="fr_97"></span>[1](#fn_97) The life of this adept is involved in an
+id="fr_97"></span>[1](#fn_97.md) The life of this adept is involved in an
 almost Rosicrucian uncertainty; he was a mystery even to his publishers,
 who received his works from "an unknown person." Nearly all that is
 ascertained concerning him, and concerning his marvellous
@@ -191,7 +191,7 @@ passage by a writer whom he does not name:--"*Vidi aliquando Olympicas
 domos, non procul a Fluviolo et Civitate notâ, quas S. Spiritus vocari
 imaginamur. Helicon est de quo loquor, aut biceps Parnassus, in quo
 Equus Pegasus fontem aperuit perennis aquæ adhuc stillantem*, <span
-id="fr_98"></span>[1](#fn_98) *in quo Diana se lavat, cui Venus ut
+id="fr_98"></span>[1](#fn_98.md) *in quo Diana se lavat, cui Venus ut
 Pedissequa et Saturnus ut Anteambulo, conjunguntur. Intelligenti nimium,
 inexperto minimum hoc erit dictum*." Quoting afterwards the description
 of the Elysium of the Brachmans--"I have seen (saith Apollonius) the
@@ -233,13 +233,13 @@ acquaintance with this Fraternity as to their persons."
 
 ### Footnotes
 
-<span id="fn_97"></span>[309:1](rhr22.htm#fr_97) Irenæus Philalethes was
+<span id="fn_97"></span>[309:1](rhr22.htm#fr_97.md) Irenæus Philalethes was
 the pseudonym of George Starkey, the American disciple of Thomas
 Vaughan.
 
-<span id="fn_98"></span>[313:1](rhr22.htm#fr_98) See Introduction,
-*ante*, [p. 10](rhr03.htm#page_10).
+<span id="fn_98"></span>[313:1](rhr22.htm#fr_98.md) See Introduction,
+*ante*, [p. 10](rhr03.htm#page_10.md).
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](rhr23)
+[Next: Introduction](rhr23.md)

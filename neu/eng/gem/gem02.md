@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](gem01)  [Next](gem03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](gem01)  [Next](gem03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Histories of the Kings of Britain, by Geoffry of Monmouth*, tr. by
 Sebastian Evans, \[1904\], at Intangible Textual Heritage
 
@@ -932,4 +932,4 @@ third of the Latin kings.
 
 ------------------------------------------------------------------------
 
-[Next: Book II](gem03)
+[Next: Book II](gem03.md)

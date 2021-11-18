@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb09)  [Next](gnfb11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb09)  [Next](gnfb11.md) 
 
 </div>
 
@@ -532,6 +532,6 @@ La Princesse Pimprenella et Le Prince Romarin.
 
 ------------------------------------------------------------------------
 
-[Next: Prince Featherhead and the Princess Celandine](gnfb11)
+[Next: Prince Featherhead and the Princess Celandine](gnfb11.md)
 
 </div>

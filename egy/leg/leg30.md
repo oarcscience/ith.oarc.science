@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg29)  [Next](leg31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg29)  [Next](leg31.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,13 +13,13 @@ the temple can be. But more especially must such a disposition of mind
 be highly acceptable to that goddess to whose service you are dedicated,
 for her especial characteristics are wisdom and foresight, and her very
 name seems to express the peculiar relation which she bears to
-knowledge. For "Isis" <span id="fr_261"></span>[1](#fn_259) is a Greek
+knowledge. For "Isis" <span id="fr_261"></span>[1](#fn_259.md) is a Greek
 word, and means "knowledge," and
 
 <span id="page_200">p. 200</span>
 
 \[paragraph continues\] "Typhon," <span
-id="fr_262"></span>[1](leg31.htm#fn_260) the name of her professed
+id="fr_262"></span>[1](leg31.htm#fn_260.md) the name of her professed
 adversary, is also a Greek word, and means "pride and insolence." This
 latter name is well adapted to one who, full of ignorance and error,
 tears in pieces and conceals that holy doctrine which the goddess
@@ -45,7 +45,7 @@ eternal and self-existent Being (τὸ ὂν).
 
 ### Footnotes
 
-<span id="fn_259"></span>[199:1](leg30.htm#fr_261) The Egyptian form of
+<span id="fn_259"></span>[199:1](leg30.htm#fr_261.md) The Egyptian form of
 the name is AS-T, <span id="img_19900"></span> ![](img/19900.jpg), <span
 id="img_19901"></span> ![](img/19901.jpg), or <span
 id="img_19902"></span> ![](img/19902.jpg). Plutarch wishes to derive the
@@ -53,4 +53,4 @@ name from some form of οῖ᾽δα.
 
 ------------------------------------------------------------------------
 
-[Next: Section III](leg31)
+[Next: Section III](leg31.md)

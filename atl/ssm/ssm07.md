@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm06)  [Next](ssm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm06)  [Next](ssm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Fig. 1. Fine, straight, horizontal lines. Symbol for Space.
 Fig. 2. Symbolizing the Seven-headed Serpent as the Deity moving through
 Space. The surrounding circle is the symbol for the Universe.
 
-Fig. 3. Wavy [horizontal](errata.htm#3) lines symbolize Earthly Waters.
+Fig. 3. Wavy [horizontal](errata.htm#3.md) lines symbolize Earthly Waters.
 
 Fig. 4. The Circle. The monotheistic symbol of the Deity.
 
@@ -42,7 +42,7 @@ Sun's affinitive Forces to the Earth's Light Forces.
 <span id="img_08800"></span>
 
 [![](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)
+Click to enlarge](img/08800.jpg.md)
 
 Fig. 11. Vertical, wavy lines from the Sun, symbolize the Sun's
 affinitive Force to the Earth's Heat Force.
@@ -88,7 +88,7 @@ are all working in a circle from a Center and proceeding
 <span id="img_09000"></span>
 
 [![&lt;I&gt;Tablet No. 1231&lt;/I&gt;](tn/09000.jpg)  
-Click to enlarge](img/09000.jpg)  
+Click to enlarge](img/09000.jpg.md)  
 *Tablet No. 1231*  
 
 in an Easterly direction.
@@ -109,7 +109,7 @@ causing so much controversy among scientists today.
 <span id="img_09100"></span>
 
 [![](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)
+Click to enlarge](img/09100.jpg.md)
 
 How long ago this was written I cannot say: but certainly more than
 12,000 years ago.
@@ -145,7 +145,7 @@ command of the Creator--His first command in Creation.
 
 [![''Let Land Appear''&lt;BR&gt;''And waters covered the face of the
 earth''](tn/09300.jpg)  
-Click to enlarge](img/09300.jpg)  
+Click to enlarge](img/09300.jpg.md)  
 ''Let Land Appear''  
 ''And waters covered the face of the earth''  
 
@@ -177,7 +177,7 @@ THE TALE OF THE CREATION.--The following is what I found in the old
 Oriental Naacal writing, supplemented by the Mexican Tablets:
 
 <span id="img_09400"></span>
-![&lt;I&gt;Naacal&lt;/I&gt;](img/09400.jpg)  
+![&lt;I&gt;Naacal&lt;/I&gt;](img/09400.jpg.md)  
 *Naacal*
 
 "Originally the Universe was only a soul or spirit. Everything was
@@ -198,7 +198,7 @@ Serpent)
 <span id="img_09500"></span>
 
 [![&lt;I&gt;No. 328&lt;/I&gt;](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 *No. 328*  
 
 the Creator, gave seven great commands."
@@ -211,11 +211,11 @@ were given to the Four Great Primary Forces. That these Forces were the
 executors of the Creator's commands throughout the Creation.
 
 <span id="img_09600"></span>
-![&lt;I&gt;Naacal&lt;/I&gt;](img/09600.jpg)  
+![&lt;I&gt;Naacal&lt;/I&gt;](img/09600.jpg.md)  
 *Naacal*
 
 <span id="img_09601"></span> ![&lt;I&gt;Mexican No.
-1231&lt;/I&gt;](img/09601.jpg)  
+1231&lt;/I&gt;](img/09601.jpg.md)  
 *Mexican No. 1231*
 
 "*The First Command*: 'Let the gases, which are scattered throughout
@@ -223,7 +223,7 @@ space and without form and order, be brought together and out of them
 let worlds be formed.'
 
 <span id="img_09602"></span> ![&lt;I&gt;Mexican No.
-339&lt;/I&gt;](img/09602.jpg)  
+339&lt;/I&gt;](img/09602.jpg.md)  
 *Mexican No. 339*
 
 Then the gases were brought together in the form of whirling masses."
@@ -241,7 +241,7 @@ were formed."
 form the waters and the atmosphere.'
 
 <span id="img_09700"></span> ![&lt;I&gt;Mexican No.
-1267&lt;/I&gt;](img/09700.jpg)  
+1267&lt;/I&gt;](img/09700.jpg.md)  
 *Mexican No. 1267*
 
 \[paragraph continues\] And the gases were separated. One part went to
@@ -249,7 +249,7 @@ form the waters, the remainder formed the atmosphere. The waters settled
 upon the face of the Earth so that no land appeared anywhere."
 
 <span id="img_09701"></span> ![&lt;I&gt;Naacal No.
-10&lt;/I&gt;](img/09701.jpg)  
+10&lt;/I&gt;](img/09701.jpg.md)  
 *Naacal No. 10*
 
 "The gases which did not form the waters, went to form the atmosphere.
@@ -258,7 +258,7 @@ in the atmosphere, which gave birth to light. Then there was light upon
 the face of the Earth."
 
 <span id="img_09702"></span> ![&lt;I&gt;Naacal No.
-11&lt;/I&gt;](img/09702.jpg)  
+11&lt;/I&gt;](img/09702.jpg.md)  
 *Naacal No. 11*
 
 "And the shafts of the Sun met the shafts of the Earth's heat which was
@@ -269,7 +269,7 @@ contained in her atmosphere
 and gave it life. Then there was heat to warm the face of the earth."
 
 <span id="img_09800"></span> ![&lt;I&gt;Mexican No.
-51&lt;/I&gt;](img/09800.jpg)  
+51&lt;/I&gt;](img/09800.jpg.md)  
 *Mexican No. 51*
 
 "*The Fourth Command*: 'Let the fires that are within the earth raise
@@ -303,7 +303,7 @@ No. 2</em></p></td>
 </table>
 
 <span id="img_09804"></span> ![&lt;I&gt;Mexican No.
-328&lt;/I&gt;](img/09804.jpg)  
+328&lt;/I&gt;](img/09804.jpg.md)  
 *Mexican No. 328*
 
  
@@ -317,7 +317,7 @@ and out of particles of
 mud formed cosmic eggs. From these eggs life came forth as commanded."
 
 <span id="img_09900"></span> ![&lt;I&gt;Naacal No.
-13&lt;/I&gt;](img/09900.jpg)  
+13&lt;/I&gt;](img/09900.jpg.md)  
 *Naacal No. 13*
 
 "*The Sixth Command*: 'Let Life come forth on the land.' And the shafts
@@ -346,7 +346,7 @@ can
 
 [![&lt;I&gt;Mexican Tablet No. 1584&lt;BR&gt; Creation of the First
 Pair&lt;BR&gt; Man and Woman&lt;/I&gt;](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 *Mexican Tablet No. 1584  
 Creation of the First Pair  
 Man and Woman*  
@@ -472,7 +472,7 @@ would be answered.
 
 A glyph, generally a circle but sometimes oblong with two parallel lines
 drawn through its center dividing it into three parts as shown [Cut.
-1](#img_10500) (Niven's Mexican Tablet No. 2379), is a common universal
+1](#img_10500) (Niven's Mexican Tablet No. 2379.md), is a common universal
 symbol.
 
 It is found among the cliff writings of our western
@@ -484,11 +484,11 @@ Maya writings of Yucatan. It appears in a writing on Inscription Rock,
 northeast Brazil
 
 <span id="img_10500"></span> ![&lt;I&gt;Cut 1. Mexican No.
-2379&lt;/I&gt;](img/10500.jpg)  
+2379&lt;/I&gt;](img/10500.jpg.md)  
 *Cut 1. Mexican No. 2379*
 
 <span id="img_10501"></span> ![&lt;I&gt;Cut 2. A paragraph in the Sacred
-Inspired Writings (Naacal writing)&lt;/I&gt;](img/10501.jpg)  
+Inspired Writings (Naacal writing)&lt;/I&gt;](img/10501.jpg.md)  
 *Cut 2. A paragraph in the Sacred Inspired Writings (Naacal writing)*
 
 near the boundary of British Guiana, and in other various American
@@ -499,7 +499,7 @@ Babylonians and Egyptians.
 
 In the Oriental Naacal writings of the Sacred Inspired Writings, The
 Books of the Golden Age, it is one of three glyphs forming a paragraph.
-([See Cut. 2.](#img_10501)) The paragraph reads: (<span
+([See Cut. 2.](#img_10501).md) The paragraph reads: (<span
 id="img_10600"></span> ![](img/10600.jpg) Hun)-The Creator is one.
 (<span id="img_10601"></span> ![](img/10601.jpg) Lahun, two)--He is two
 in one. (<span id="img_10602"></span> ![](img/10602.jpg) Mehen,
@@ -534,7 +534,7 @@ pyramid or keystone. The rows are so placed that they count-one, two,
 three.
 
 <span id="img_10700"></span> ![&lt;I&gt;Cut 3. The Mysterious
-Writing&lt;/I&gt;](img/10700.jpg)  
+Writing&lt;/I&gt;](img/10700.jpg.md)  
 *Cut 3. The Mysterious Writing*
 
 The two figures forming Cut 3 are written with the Naga form of
@@ -599,7 +599,7 @@ inscriptions. I have selected one which appears to me to be relative to
 the creation of the first pair.
 
 <span id="img_10900"></span> ![&lt;I&gt;Uighur
-writing&lt;/I&gt;](img/10900.jpg)  
+writing&lt;/I&gt;](img/10900.jpg.md)  
 *Uighur writing*
 
 1st Line. Numerals one, two and three with their hidden meaning as
@@ -620,7 +620,7 @@ referred to, the Uighur plain letter M <span id="img_11001"></span>
 <span id="img_11002"></span> ![&lt;I&gt;The evolution of the Uighur
 letter M&lt;BR&gt; 1, Naga Mu. 2. Uighur Mu. 3. Second changing the
 right leg to be the longer. 4. Third, the last pattern handed down to
-the Chinese&lt;/I&gt;.](img/11002.jpg)  
+the Chinese&lt;/I&gt;.](img/11002.jpg.md)  
 *The evolution of the Uighur letter M  
 1, Naga Mu. 2. Uighur Mu. 3. Second changing the right leg to be the
 longer. 4. Third, the last pattern handed down to the Chinese*.
@@ -647,7 +647,7 @@ gravelly sand with little or no actual soil.
 <span id="img_11003"></span>
 
 [![&lt;I&gt;The Waters of the Mother of Life&lt;/I&gt;](tn/11003.jpg)  
-Click to enlarge](img/11003.jpg)  
+Click to enlarge](img/11003.jpg.md)  
 *The Waters of the Mother of Life*  
 
  
@@ -705,7 +705,7 @@ such as eggs, et cetera.
 <span id="img_11200"></span>
 
 [![&lt;I&gt;Egyptian Vignette&lt;/I&gt;](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 *Egyptian Vignette*  
 
 HORUS IN COMBAT WITH APHOPHIS.--This vignette comes from an Egyptian
@@ -857,4 +857,4 @@ modified to suit the people of his times.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Symbols Used In Religious Teachings](ssm08)
+[Next: Chapter V. Symbols Used In Religious Teachings](ssm08.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Next](wois01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Next](wois01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -49,13 +49,13 @@ because it was published prior to 1923.
 
 <span id="img_fcover"></span> <span align="CENTER"> [![Front
 Cover](tn/fcover.jpg)  
-Click to enlarge](img/fcover.jpg)  
+Click to enlarge](img/fcover.jpg.md)  
 Front Cover  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -63,6 +63,6 @@ Title Page
 
 ------------------------------------------------------------------------
 
-[Next: Contents](wois01)
+[Next: Contents](wois01.md)
 
 </div>

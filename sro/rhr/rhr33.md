@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr32)  [Next](rhr34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr32)  [Next](rhr34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
 
 # ADDITIONAL NOTES.
 
-### <span id="an_n01">NUMBER I</span>. ([p. 17](rhr03.htm#page_17)).
+### <span id="an_n01">NUMBER I</span>. ([p. 17](rhr03.htm#page_17).md).
 
 ACCORDING to the "Kabbala Denudata" of the Baron Knorr de Rosenroth, the
 Rose signifies the Shecinah. The reason is given in the Zohar, sect.
@@ -43,7 +43,7 @@ Rosicrucians."
 
 <span id="page_435">p. 435</span>
 
-### <span id="an_n02">NUMBER II</span>. ([p. 18](rhr03.htm#page_18)).
+### <span id="an_n02">NUMBER II</span>. ([p. 18](rhr03.htm#page_18).md).
 
 It is the sign of Mercury, but its position in the twelfth clavis of
 Basil Valentine indicates a further and more arcane importance. "The
@@ -62,7 +62,7 @@ superfluous and the addition of what is wanting for the performance of
 the Hermetic opus. On this point, see Pernetz, "Dictionnaire
 Mytho-Hermétique."
 
-### <span id="an_n03">NUMBER III</span>. ([p. 57](rhr05.htm#page_57)).
+### <span id="an_n03">NUMBER III</span>. ([p. 57](rhr05.htm#page_57).md).
 
 This is a common and significant superstition. Perhaps it originated in
 the Phœnix legend; it is dear to mystical writers, at any rate, and has
@@ -73,7 +73,7 @@ aspect.
 
 <span id="page_436">p. 436</span>
 
-### <span id="an_n04">NUMBER IV</span>. ([p. 169](rhr13.htm#page_169)).
+### <span id="an_n04">NUMBER IV</span>. ([p. 169](rhr13.htm#page_169).md).
 
 The symbolical representation of the tetrad under the figure of a
 four-square garden, enclosure, house, or city is very common among
@@ -101,7 +101,7 @@ Come never shepherde therein."</span>
 
 </div>
 
-### <span id="an_n05">NUMBER V</span>. ([p. 223](rhr18.htm#page_223)).
+### <span id="an_n05">NUMBER V</span>. ([p. 223](rhr18.htm#page_223).md).
 
 The appendix to a series of epistles, entitled "Selenia Augustalia," and
 written by Johann Valentin Andreas, contains an account, thus arranged,
@@ -204,7 +204,7 @@ VIII\. Johan Valentin, nat. 1631, 9 Aug.; obiit 1632, 5 Sept.
 
 IX\. Patientia, nat. 1632, 25 Octob.; obiit 1632; 6 Decemb.
 
-### <span id="an_n06">NUMBER VI</span>. ([p. 388](rhr29.htm#page_388)).
+### <span id="an_n06">NUMBER VI</span>. ([p. 388](rhr29.htm#page_388).md).
 
 In the first volume of his "Philosophical Dictionary" Voltaire, however,
 recounts what he considered to be the best exploit ever performed in
@@ -243,4 +243,4 @@ longer manufacture gold, nor could he anywhere discover his philosopher.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix of Additional Documents](rhr34)
+[Next: Appendix of Additional Documents](rhr34.md)

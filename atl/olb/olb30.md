@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb29)  [Next](olb31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb29)  [Next](olb31.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-### <span class="smallcaps">In the Year One Thousand and Five after Atland was submerged, this was inscribed on the Eastern Wall of Fryasburgt.</span> <span id="fr_41"></span>[†](#fn_41)
+### <span class="smallcaps">In the Year One Thousand and Five after Atland was submerged, this was inscribed on the Eastern Wall of Fryasburgt.</span> <span id="fr_41"></span>[†](#fn_41.md)
 
 After twelve years had elapsed without our seeing any Italians in
 Almanland, there came three ships, finer than any that we possessed or
@@ -25,12 +25,12 @@ women more beautiful than had ever been seen before. They were from
 Troy, a town that the Greeks had taken. All these treasures he offered
 to the mother, but the mother would have nothing to do with them. At
 last, when he found that there was nothing to be got from her, he went
-to Walhallagara <span id="fr_42"></span>[‡](#fn_42) (Walcheren).
+to Walhallagara <span id="fr_42"></span>[‡](#fn_42) (Walcheren.md).
 There there was established a Burgtmaagd whose name was Kaat,
 
 <span id="page_106">p. 106</span> <span id="page_107">p. 107</span>
 
-but who was commonly called Kalip <span id="fr_43"></span>[\*](#fn_43),
+but who was commonly called Kalip <span id="fr_43"></span>[\*](#fn_43.md),
 because her lower lip stuck out like a mast-head. Here he tarried for
 years, to the scandal of all that knew it. According to the report of
 the maidens, he obtained a lamp from her; but it did him no good,
@@ -91,15 +91,15 @@ snakes, in which no man of decent habits can set his foot.
 
 ### Footnotes
 
-<span id="fn_41"></span>[105:†](olb30.htm#fr_41) 2193-1005 is 1188
+<span id="fn_41"></span>[105:†](olb30.htm#fr_41.md) 2193-1005 is 1188
 before Christ.
 
-<span id="fn_42"></span>[105:‡](olb30.htm#fr_42) Walhallagâra is
+<span id="fn_42"></span>[105:‡](olb30.htm#fr_42.md) Walhallagâra is
 Walcheren.
 
-<span id="fn_43"></span>[107:\*](olb30.htm#fr_43)Kalip, called by Homer
+<span id="fn_43"></span>[107:\*](olb30.htm#fr_43.md)Kalip, called by Homer
 Kalipso.
 
 ------------------------------------------------------------------------
 
-[Next: This is inscribed in all our Citadels](olb31)
+[Next: This is inscribed in all our Citadels](olb31.md)

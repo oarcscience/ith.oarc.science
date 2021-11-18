@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm48)  [Next](rotm50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm48)  [Next](rotm50.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -166,6 +166,6 @@ and loved.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLIX. Dallach Fareth to Rose-Dale: Crow Telleth of his
-Errand: the Kindreds Eat Their Meat in Silver-Dale](rotm50)
+Errand: the Kindreds Eat Their Meat in Silver-Dale](rotm50.md)
 
 </div>

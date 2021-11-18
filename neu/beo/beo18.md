@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo17)  [Next](beo19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo17)  [Next](beo19.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ benefits of the past, but will repay them to the orphaned boy.
 
 ------------------------------------------------------------------------
 
-[Next: Part XVIII](beo19)
+[Next: Part XVIII](beo19.md)

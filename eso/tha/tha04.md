@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha03)  [Next](tha05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha03)  [Next](tha05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ this question was considered when the patient was in good health, and
 the conclusion arrived at was that the etheric double contained no
 granules. In the last paragraph it was stated that the inner aura, as
 far as could be discovered, had no colour, and in [Chapter
-II](tha03.htm#chap02) the striae of the etheric double seemed to be the
+II](tha03.htm#chap02.md) the striae of the etheric double seemed to be the
 origin of the rose colour occasionally perceived. If the striae of the
 inner aura and the etheric double are, as is very likely, continuous,
 the descriptions
@@ -143,7 +143,7 @@ interesting and unlooked for results, and was the first instance that
 seemed likely to afford any assistance in elucidating the nature of the
 ultra-outer aura.
 
-<span id="case18">Case 18</span>. (Fig. [19](#img_fig19)). W.B.,
+<span id="case18">Case 18</span>. (Fig. [19](#img_fig19).md). W.B.,
 twenty-nine years of age was first examined in 1914. She was a stout
 largely built woman with rather small bones. Four years previously she
 was thin but rapidly gained flesh, and became fat and flabby. Her net
@@ -161,7 +161,7 @@ almost classed as wide, being
 <span id="img_fig19"></span>
 
 [![Fig. 19](tn/fig19.jpg)  
-Click to enlarge](img/fig19.jpg)  
+Click to enlarge](img/fig19.jpg.md)  
 Fig. 19  
 
 nine inches and a half in breadth, narrowing down to four and a half
@@ -178,7 +178,7 @@ inches all over her body. The complementary coloured band exhibited a
 yellow patch on her back commencing as high up as the lower dorsal
 vertebræ, and increasing in breadth over the sacrum. It is interesting
 to note that the surface electricity (see page
-[103](tha06.htm#page_103)), was even all over the body, and reached a
+[103](tha06.htm#page_103).md), was even all over the body, and reached a
 high intensity.
 
 She was examined a second time in November of the same year. This was
@@ -203,7 +203,7 @@ There was no doubt about the enlargement of the outer aura.
 
 The woman was then placed upon an insulated stool and electrically
 charged by means of the large Wimshurst machine. The auras vanished in
-the usual manner (page [91](tha06.htm#page_91)), but the operation was
+the usual manner (page [91](tha06.htm#page_91).md), but the operation was
 continued some short time after they had disappeared.
 
 <span id="page_50">p. 50</span>
@@ -221,7 +221,7 @@ information, and at the same time confirms the observations made in the
 last case.
 
 Case 11 continued. In June, 1915, the artist's model previously referred
-to ([case 11](tha02.htm#case11)), was first scrutinized very carefully,
+to ([case 11](tha02.htm#case11).md), was first scrutinized very carefully,
 to ensure that her auras were in their normal condition. Search was
 especially made for an ultra-outer aura, of which, however, not the
 slightest indication could be detected. The inner aura had the average
@@ -263,13 +263,13 @@ unlikely that it may be always present, whether the outer is wide or
 not, but too faint for our existing means of observation. Auras of an
 average breadth, and even narrow ones, can be enlarged by statical
 electricity, as will be described later on. (Page
-[93](tha06.htm#page_93).)
+[93](tha06.htm#page_93)..md)
 
 The common size and shape of the outer aura has been fully described in
-[chapter I](tha02.htm#chap01). It consists of a faint amorphous cloud
+[chapter I](tha02.htm#chap01.md). It consists of a faint amorphous cloud
 and appears entirely structure-less, capable of being illuminated, but
 not, in the ordinary acceptation of the word, auto-luminous. (See page
-[78](tha05.htm#page_78).)
+[78](tha05.htm#page_78)..md)
 
 During a prolonged inspection it will be evident that the aura is not
 absolutely stable, as it constantly undergoes changes in various parts.
@@ -327,7 +327,7 @@ people. By careful observation it will be seen that these rays are
 formed chiefly by prolongations of the inner aura, and for some short
 time after the removal of the observer's hand, the inner aura will
 remain intensified. This phenomenon has already been utilized for
-demonstration purposes. (Page [7](tha02.htm#page_7).)
+demonstration purposes. (Page [7](tha02.htm#page_7)..md)
 
 A well marked case of external influence producing a ray will be
 described later on. On one occasion a ray passing between two people's
@@ -397,7 +397,7 @@ holds a hand near to any part of the body of another, rays proceed from
 the one to the other. The structure of one such compound ray was
 elucidated by the following observation:
 
-A Negro ([case 6](tha02.htm#case06)), came to have his aura inspected.
+A Negro ([case 6](tha02.htm#case06).md), came to have his aura inspected.
 This was very coarse in texture and of a hazy brown colour. When the
 observer's hand was held near his body, the usual conjoint ray was
 formed and could be easily analysed into light coloured rays
@@ -436,4 +436,4 @@ that by an effort the gap can be more or less easily bridged.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Optical Problems](tha05)
+[Next: Chapter IV. Optical Problems](tha05.md)

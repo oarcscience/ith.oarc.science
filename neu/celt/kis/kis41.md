@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis40)  [Next](kis42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis40)  [Next](kis42.md) 
 
 ------------------------------------------------------------------------
 
@@ -165,4 +165,4 @@ reins and went back towards the Town of the Red Castle.
 
 ------------------------------------------------------------------------
 
-[Next: Part V](kis42)
+[Next: Part V](kis42.md)

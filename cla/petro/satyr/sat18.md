@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat17) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat17.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ that I disordered my bed with the repeated efforts of a sort of
 imaginary voluptuousness. But all my struggles remained unavailing. At
 last continual disappointment wore my patience out, and I cursed the
 evil enchantment that oppressed me. \[CXXXIX <span
-id="CXXXIX"></span>[(Latin)](../satyrlat/satl139) \] Presently however,
+id="CXXXIX"></span>[(Latin)](../satyrlat/satl139.md) \] Presently however,
 recovering my self-control, and drawing what consolation I might from
 remembering how many heroes of antiquity had been persecuted by the
 anger of the gods, I broke out into these lines:
@@ -103,7 +103,7 @@ love for you; now this may very likely be useful to us on occasion,
 Encolpius. Well then! play the fond lover, you; I will keep up the same
 role I have been acting all along."
 
-\[CXL <span id="CXL"></span>[(Latin)](../satyrlat/satl140) \] He was
+\[CXL <span id="CXL"></span>[(Latin)](../satyrlat/satl140.md) \] He was
 still speaking when a matron entered, a lady of the highest distinction,
 Philomela by name, who in earlier days had won many a fat legacy by the
 charms of her youth; but who being old now and past her prime, used to
@@ -174,7 +174,7 @@ mountebanks, and swindlers, live, unless they were now and again to toss
 a little purse or a jingling bag of money as baits to the crowd? Just as
 dumb beasts are enticed by food, so men are to be caught only with
 something solid in the way of expectations to bite at. \[CXLI <span
-id="CXLI"></span>[(Latin)](../satyrlat/satl141) \] The ship from Africa
+id="CXLI"></span>[(Latin)](../satyrlat/satl141.md) \] The ship from Africa
 with your money and your slaves has not arrived, as you promised. Our
 fortune-hunters are tired out, and already stint their generosity.
 Either I am much mistaken, or the jade Fortune has begun to repent of

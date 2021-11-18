@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](intro)  [Next](chap02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](intro)  [Next](chap02.md) 
 
 ------------------------------------------------------------------------
 
@@ -620,4 +620,4 @@ displayed, gave him back his robe, and he departed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2: Concerning Women Who Deserve To Be Praised](chap02)
+[Next: Chapter 2: Concerning Women Who Deserve To Be Praised](chap02.md)

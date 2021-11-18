@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar51)  [Next](gar53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar51)  [Next](gar53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -43,7 +43,7 @@ the Dog-shaped one. Renounce false witnessing, that ye may be set free,
 that ye may be saved from the same rivers. Renounce boastings and pride,
 that ye may be saved from the burning pits of Ariel. Renounce self-love,
 that ye may be saved from the judgments of *Orcus*. <span
-id="fr_215"></span>[\*](#fn_213) Renounce talkativeness, that
+id="fr_215"></span>[\*](#fn_213.md) Renounce talkativeness, that
 
 <span id="page_357">p. 357</span>
 
@@ -97,10 +97,10 @@ that ye shall be destroyed for ever."
 
  
 
-<span id="img_fig16"></span> ![FIG. 16.](img/fig16.jpg)  
+<span id="img_fig16"></span> ![FIG. 16.](img/fig16.jpg.md)  
 FIG. 16.
 
-[(\*)](gar71.htm#an_fig16)
+[(\*)](gar71.htm#an_fig16.md)
 
  
 
@@ -108,7 +108,7 @@ FIG. 16.
 
 ### Footnotes
 
-<span id="fn_213"></span>[356:\*](gar52.htm#fr_215) These regions and
+<span id="fn_213"></span>[356:\*](gar52.htm#fr_215.md) These regions and
 the shapes of their Rulers seem to have been suggested to our author by
 the Egyptian mummy-ease paintings of the *Gates* <span id="page_357">p.
 357</span> in which are seated so many genii with heads of hawk, baboon,
@@ -119,4 +119,4 @@ papyrus-ritual buried with him.
 
 ------------------------------------------------------------------------
 
-[Next: Talismanic Leaden Scrolls](gar53)
+[Next: Talismanic Leaden Scrolls](gar53.md)

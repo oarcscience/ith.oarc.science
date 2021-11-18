@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva01)  [Next](rva03) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva01)  [Next](rva03.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### II. Uitznaoac yautl icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Ahuia tlacochcalco notequioa ayayui nocaquia tlacatl, ya
 nechyapinauia, ayaca nomati, nitetzauiztli, auia, ayaca nomati niya,
@@ -99,4 +99,4 @@ they were promptly put to death by their captors.
 
 ------------------------------------------------------------------------
 
-[Next: III. Hymn of Tlaloc](rva03) 
+[Next: III. Hymn of Tlaloc](rva03.md) 

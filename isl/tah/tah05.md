@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah04)  [Next](tah06) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah04)  [Next](tah06.md) 
 
 ------------------------------------------------------------------------
 
@@ -302,4 +302,4 @@ knowledge of God.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The Knowledge Of God](tah06)
+[Next: Chapter II: The Knowledge Of God](tah06.md)

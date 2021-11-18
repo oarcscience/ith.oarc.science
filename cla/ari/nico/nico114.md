@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico113) 
-[Next](nico115) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico113.md) 
+[Next](nico115.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ we have said before, in virtuous activities.
 ------------------------------------------------------------------------
 
 [Next: Chapter 7. Happiness in the highest sense is the contemplative
-life](nico115)
+life](nico115.md)

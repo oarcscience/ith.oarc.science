@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb25)  [Next](isb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb25)  [Next](isb27.md) 
 
 ------------------------------------------------------------------------
 
@@ -524,4 +524,4 @@ their shilling a day.
 
 ------------------------------------------------------------------------
 
-[Next: Newry, Armagh, Belfast--from Dundalk to Newry](isb27)
+[Next: Newry, Armagh, Belfast--from Dundalk to Newry](isb27.md)

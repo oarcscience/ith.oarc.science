@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl004)  [Next](cohl006) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl004)  [Next](cohl006.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ know that I have the true words and I preach them," adds Cornplanter.
 
 ------------------------------------------------------------------------
 
-[Next: A Time of Trouble](cohl006)
+[Next: A Time of Trouble](cohl006.md)

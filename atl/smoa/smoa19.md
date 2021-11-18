@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa18)  [Next](smoa20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa18)  [Next](smoa20.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -76,7 +76,7 @@ He drank the note of warbling buhl that called unto its mate, or
 osprey's shriek and thrush's note low-hidden in the rose's nest of
 bloom. Afar were ships of fishers toiling in from work of early morn,
 and galleys gay with colors wove in silk and fiber of the shrub <span
-id="fr_12"></span>[\*](#fn_12) which stronger holds.
+id="fr_12"></span>[\*](#fn_12.md) which stronger holds.
 
 The people at their prayers looked like the flies
 
@@ -97,7 +97,7 @@ sank.
 younger. The man who learned to read each thought made no reply, but
 wheeled well in line with stars, to eye unaided all invisible, the
 trumpet-shapen instrument, whose base was metal of that ruddy hue <span
-id="fr_13"></span>[†](#fn_13) and gold en-beaten in one gleaming mass,
+id="fr_13"></span>[†](#fn_13.md) and gold en-beaten in one gleaming mass,
 with stones that studded here and there the base.
 
 Great dull, white pebbles to the eye of ignorance, but holding meaning
@@ -202,11 +202,11 @@ carven lilies as have we. The golden lotus—white, too, they employ.”
 
 ### Footnotes
 
-<span id="fn_12"></span>[125:\*](smoa19.htm#fr_12) Cotton.
+<span id="fn_12"></span>[125:\*](smoa19.htm#fr_12.md) Cotton.
 
-<span id="fn_13"></span>[126:†](smoa19.htm#fr_13) Copper.
+<span id="fn_13"></span>[126:†](smoa19.htm#fr_13.md) Copper.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII. Battle on Mars as described by the watching sage.
-The army of shadows](smoa20)
+The army of shadows](smoa20.md)

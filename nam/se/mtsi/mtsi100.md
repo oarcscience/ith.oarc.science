@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi099)  [Next](mtsi101) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi099)  [Next](mtsi101.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ This is how they tell it.
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Deer Women](mtsi101)
+[Next: 8. The Deer Women](mtsi101.md)

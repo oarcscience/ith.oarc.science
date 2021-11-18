@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki211)  [Next](liki213) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki211)  [Next](liki213.md) 
 
 ------------------------------------------------------------------------
 
@@ -385,6 +385,6 @@ the statements there and those of this paragraph; 'all,' says Khan Hâo,
 ------------------------------------------------------------------------
 
 [Next: XIII. Sang Fû Hsiâo Kî or Record of Smaller Matters in the Dress
-of Mourning](liki213)
+of Mourning](liki213.md)
 
   

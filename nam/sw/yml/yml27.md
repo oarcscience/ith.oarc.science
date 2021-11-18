@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml26)  [Next](yml28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml26)  [Next](yml28.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ families were removed to the southern part of the sierra Bacatete.
 
 ------------------------------------------------------------------------
 
-[Next: War Between the Yaquis and the Pimas](yml28)
+[Next: War Between the Yaquis and the Pimas](yml28.md)

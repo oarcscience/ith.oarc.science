@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp12)  [Next](twp14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp12)  [Next](twp14.md) 
 
 ------------------------------------------------------------------------
 
@@ -316,4 +316,4 @@ trustworthy modern interpretations. Many are not trustworthy.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](twp14)
+[Next: Chapter XII](twp14.md)

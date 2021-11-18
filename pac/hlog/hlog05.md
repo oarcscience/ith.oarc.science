@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog04)  [Next](hlog06) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog04)  [Next](hlog06.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,4 +9,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: I. The Ghost of Wahaula Temple](hlog06)
+[Next: I. The Ghost of Wahaula Temple](hlog06.md)

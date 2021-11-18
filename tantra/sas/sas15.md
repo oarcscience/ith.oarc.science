@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas14)  [Next](sas16)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas14)  [Next](sas16.md)  
 
 ------------------------------------------------------------------------
 
@@ -1376,4 +1376,4 @@ with the brilliant yet soft light which is that of the Moon-Cit
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Sixteen: Matter and Consciousness](sas16)
+Next: [Chapter Sixteen: Matter and Consciousness](sas16.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml05)  [Next](yml07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml05)  [Next](yml07.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ coming of baptism and going away to the north (Mason 1914: 148-149).
 
 ------------------------------------------------------------------------
 
-[Next: The Ku Bird](yml07)
+[Next: The Ku Bird](yml07.md)

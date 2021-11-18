@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,8 +22,8 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](roli00)    [Page
-Index](pageidx)    [Text \[Zipped\]](rolitxt.zip)
+[Contents](#contents)    [Start Reading](roli00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](rolitxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -39,64 +39,64 @@ Californian creation mythology.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](roli00)  
-[Contents](roli01)  
-[Editor's Note](roli02)  
-[Introduction](roli03)  
+<span id="contents"></span> [Title Page](roli00.md)  
+[Contents](roli01.md)  
+[Editor's Note](roli02.md)  
+[Introduction](roli03.md)  
 <span id="section_000"></span>
 
 ### Initiation Ceremonies
 
-[The Toloache Ceremony](roli04)  
-[Wanawut, the Sacred Net](roli05)  
-[The Sand Painting](roli06)  
-[The Ant Ordeal](roli07)  
-[The Chungichnish Ceremony of Unish Matakish](roli08)  
-[Wukunish, the Girls’ Ceremony](roli09)  
-[Sacred Chungichnish Objects](roli10)  
+[The Toloache Ceremony](roli04.md)  
+[Wanawut, the Sacred Net](roli05.md)  
+[The Sand Painting](roli06.md)  
+[The Ant Ordeal](roli07.md)  
+[The Chungichnish Ceremony of Unish Matakish](roli08.md)  
+[Wukunish, the Girls’ Ceremony](roli09.md)  
+[Sacred Chungichnish Objects](roli10.md)  
 <span id="section_001"></span>
 
 ### Mourning Ceremonies
 
-[The Image Ceremony](roli11)  
-[The Notish Ceremony](roli12)  
+[The Image Ceremony](roli11.md)  
+[The Notish Ceremony](roli12.md)  
 
  
 
-[Ceremonial Songs](roli13)  
+[Ceremonial Songs](roli13.md)  
 <span id="section_002"></span>
 
 ### Myths
 
-[Introduction](roli14)  
-[Luiseño Creation: Third Version](roli15)  
-[Luiseño Creation: Fourth Version](roli16)  
-[Origin of the Notish Mourning Ceremony](roli17)  
-[A Chungichnish Story](roli18)  
-[Nahachish](roli19)  
-[The Spirit Wife](roli20)  
-[The Dance of the Spirits](roli21)  
-[The Spring Behind the Cemetery](roli22)  
-[The Walking Tamyush](roli23)  
-[How Coyote Killed the Frog](roli24)  
-[The Flood](roli25)  
+[Introduction](roli14.md)  
+[Luiseño Creation: Third Version](roli15.md)  
+[Luiseño Creation: Fourth Version](roli16.md)  
+[Origin of the Notish Mourning Ceremony](roli17.md)  
+[A Chungichnish Story](roli18.md)  
+[Nahachish](roli19.md)  
+[The Spirit Wife](roli20.md)  
+[The Dance of the Spirits](roli21.md)  
+[The Spring Behind the Cemetery](roli22.md)  
+[The Walking Tamyush](roli23.md)  
+[How Coyote Killed the Frog](roli24.md)  
+[The Flood](roli25.md)  
 <span id="section_003"></span>
 
 ### Traditional Knowledge
 
-[Ancestral Landmarks and Descent of Songs](roli26)  
-[Clans Or Traditional Groups](roli27)  
-[Star Lore And Calendar](roli28)  
-[The Origin of Music](roli29)  
+[Ancestral Landmarks and Descent of Songs](roli26.md)  
+[Clans Or Traditional Groups](roli27.md)  
+[Star Lore And Calendar](roli28.md)  
+[The Origin of Music](roli29.md)  
 <span id="section_004"></span>
 
 ### Appendices
 
 [Appendix I. Games, Arts, And Industries Of The Diegueños And
-Luiseños](roli30)  
-[Appendix II. Notes On The Luiseños (A. L. Kroeber)](roli31)  
+Luiseños](roli30.md)  
+[Appendix II. Notes On The Luiseños (A. L. Kroeber)](roli31.md)  
 
  
 
-[Plates](roli32)  
-[Erratum](roli33)  
+[Plates](roli32.md)  
+[Erratum](roli33.md)  

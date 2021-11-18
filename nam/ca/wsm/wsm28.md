@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm27)  [Next](wsm29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm27)  [Next](wsm29.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,9 +16,9 @@ Eagle, Bullet Hawk (Kini’<sup>i</sup>), Red Tail Hawk
 
 The people were hunting deer. Each night they brought home meat. When
 they brought it home they saw that a small kind of fly (Pakü̃'wund) <span
-id="fr_31"></span>[32](#fn_31) stole it. They went hunting again and
+id="fr_31"></span>[32](#fn_31.md) stole it. They went hunting again and
 brought home a whole, unbutchered deer. Pakü͆wund came back. He flew
-along, lit on [the](errata.htm#1) deer, and flew away with the whole
+along, lit on [the](errata.htm#1.md) deer, and flew away with the whole
 thing. The
 
 <span id="page_286">p. 286</span>
@@ -98,9 +98,9 @@ Hawk had sung his song while Pakü̃'wund was chasing him.
 
 ### Footnotes
 
-<span id="fn_31"></span>[285:32](wsm28.htm#fr_31) "Something like a
+<span id="fn_31"></span>[285:32](wsm28.htm#fr_31.md) "Something like a
 small animal."
 
 ------------------------------------------------------------------------
 
-[Next: The Sky Brothers (Death Valley, California. Shoshoni)](wsm29)
+[Next: The Sky Brothers (Death Valley, California. Shoshoni)](wsm29.md)

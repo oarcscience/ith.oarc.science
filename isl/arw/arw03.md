@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](arw02)  [Next](arw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](arw02)  [Next](arw04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3QRQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabian Wisdom*, by John Wortabet, \[1913\], at Intangible Textual
 Heritage
 
@@ -78,9 +78,9 @@ tried to do was for ordinary readers—and for them alone.
 
 Many proverbs are common to all languages, and in them all—notably among
 Semitic nations—there is often an exaggeration, <span
-id="fr_0"></span>[1](#fn_0) or a one-sided view, <span
-id="fr_1"></span>[2](#fn_1) or a paradox, <span
-id="fr_2"></span>[3](#fn_2) which must be taken with
+id="fr_0"></span>[1](#fn_0.md) or a one-sided view, <span
+id="fr_1"></span>[2](#fn_1.md) or a paradox, <span
+id="fr_2"></span>[3](#fn_2.md) which must be taken with
 
 <span id="page_14">p. 14</span>
 
@@ -112,15 +112,15 @@ All they that hate me love death."
 
 ### Footnotes
 
-<span id="fn_0"></span>[13:1](arw03.htm#fr_0) "A fool throws a stone
+<span id="fn_0"></span>[13:1](arw03.htm#fr_0.md) "A fool throws a stone
 into a well, and a thousand wise men cannot get it out."
 
-<span id="fn_1"></span>[13:2](arw03.htm#fr_1) "A man is safe when
+<span id="fn_1"></span>[13:2](arw03.htm#fr_1.md) "A man is safe when
 alone." "Paradise without human companions is not worth living in."
 
-<span id="fn_2"></span>[13:3](arw03.htm#fr_2) "Do no good, and you will
+<span id="fn_2"></span>[13:3](arw03.htm#fr_2.md) "Do no good, and you will
 meet with no evil."
 
 ------------------------------------------------------------------------
 
-[Next: The First Chapter of the Koran](arw04)
+[Next: The First Chapter of the Koran](arw04.md)

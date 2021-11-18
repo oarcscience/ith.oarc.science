@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 2nd Aethyr,  
-Which is Called ARN**[**1**](#1)
+Which is Called ARN**[**1**](#1.md)
 
 In the first place, there is again the woman riding on the bull, which
 is the reflection of BABALON, that rideth on The Beast. And also there
@@ -14,15 +14,15 @@ Serpent, and not of Eve and Adam; and therefore when he had slain his
 brother, who was the first murderer, having sacrificed living things to
 his demon, had Cain the mark upon his brow, which is the mark of the
 Beast spoken of in the Apocalypse, and is the sign of
-initiation[**2**](#2).
+initiation[**2**](#2.md).
 
 The shedding of blood is necessary, for God did not hear the children of
-Eve until blood was shed[**3**](#3). And that is external religion; but
+Eve until blood was shed[**3**](#3.md). And that is external religion; but
 Cain spake not with God, nor had the mark of initiation upon his brow,
 so that he was shunned by all men, until he had shed blood. And this
 blood was the blood of his brother. This is a mystery of the sixth key
 of the Taro, which ought not to be called The Lovers, but The
-Brothers[**4**](#4).
+Brothers[**4**](#4.md).
 
 In the middle of the card stands Cain; in his right hand is the Hammer
 of Thor with which he hath slain his brother, and it is all wet with his
@@ -32,7 +32,7 @@ with his hood spread behind her head; and on his left hand is a figure
 somewhat like the Hindoo Kali, but much more seductive. Yet I know it to
 be Lilith. And above him is the Great Sigil of the Arrow, downward, but
 it is struck through the heart of the child. This Child is also
-Abel[**5**](#5). And the meaning of this part of the card is obscure,
+Abel[**5**](#5.md). And the meaning of this part of the card is obscure,
 but that is the correct drawing of the Taro card; and that is the
 correct magical fable from which the Hebrew scribes, who were not
 complete Initiates, stole their legend of the Fall and the subsequent
@@ -45,7 +45,7 @@ heard.
 
 I cannot get any idea of the source of what I have been saying. All I
 can say is, that there is a sort of dew, like mist, upon the Stone, and
-yet it has become hot to the touch[**6**](#6).
+yet it has become hot to the touch[**6**](#6.md).
 
 All I get is that the Apocalypse was the recension of a dozen or so
 totally disconnected allegories, that were pieced together, and
@@ -57,8 +57,8 @@ miracles, which only deceived the most ignorant, and Theology, which
 only suited pedants.
 
 So a man got hold of this recension, and turned it Christian, and
-imitated the style of John.[**7**](#7) And this explains why the end of
-the world does not happen every few years, as advertised[**8**](#8).
+imitated the style of John.[**7**](#7.md) And this explains why the end of
+the world does not happen every few years, as advertised[**8**](#8.md).
 
 There is nothing whatever in the Stone but a White Rose. And a voice
 comes: there shall be no more red roses, for she hath crushed all the
@@ -66,36 +66,36 @@ blood of all things into her cup.
 
 It seemed at one time as if the rose was in the breast of a beautiful
 woman, high-bosomed, tall, stately, yet who danced like a snake. But
-there was no subsistence in this vision[**9**](#9).
+there was no subsistence in this vision[**9**](#9.md).
 
 And now I see the white Rose, as if it were in the beak of a swan, in
 the picture by Michael Angelo in Venice. And that legend too is the
 legend of BABALON.
 
 But all this is before the veil of the Aethyr. Now will I go and make
-certain preparations[**10**](#10), and I will return and repeat the call
+certain preparations[**10**](#10.md), and I will return and repeat the call
 of the Aethyr yet again.
 
 Biskra.  
 December 18, 1909. 9:20 - 10:5 a.m.
 
 It is not a question of being unable to get into the Aethyr, and trying
-to struggle through; but one is not anywhere near it[**11**](#11).
+to struggle through; but one is not anywhere near it[**11**](#11.md).
 
 A voice comes: When thy dust shall strew the earth whereon She walketh,
 then mayest thou bear the impress of Her foot. And thou thinkest to
 behold Her face!
 
 The Stone is become of the most brilliant whiteness, and yet, in that
-whiteness, all the other colours are implicit[**12**](#12). The colour
+whiteness, all the other colours are implicit[**12**](#12.md). The colour
 of anything is but its dullness, its obstructiveness. So is it with
 these visions. All that they *are* is falsity. Every idea merely marks
 where the mind of the Seer was too stupid to receive the light, and
 therefore reflected it. Therefore, as the pure light is colourless, so
-is the pure soul black[**13**](#13).
+is the pure soul black[**13**](#13.md).
 
 And this is the Mystery of the incest of CHAOS with his
-daughter[**14**](#14).
+daughter[**14**](#14.md).
 
 There is nothing whatever visible.
 
@@ -107,17 +107,17 @@ which it can cast a symbol, even as the emptiness of space is not heated
 by the fire of the sun. And so pure is the light that it preventeth the
 formation of images, and therefore have men called it darkness. For with
 any lesser light, the mind responds, and makes for itself divers
-palaces[**15**](#15). It is that which is written: "In my Father's house
+palaces[**15**](#15.md). It is that which is written: "In my Father's house
 there are many mansions"; and if the house be destroyed, how much more
 the mansions that are therein! For this is the victory of BABALON over
-the Magician that ensorcelled[**16**](#16) her. For as the Mother she is
+the Magician that ensorcelled[**16**](#16.md) her. For as the Mother she is
 3 by 52, and as the harlot she is 6 by 26; but she is also 12 by 13, and
-that is the pure unity[**17**](#17). Moreover she is 4 by 39, that is,
+that is the pure unity[**17**](#17.md). Moreover she is 4 by 39, that is,
 victory over the power of the 4, and in 2 by 78 hath she destroyed the
-great Sorcerer[**18**](#18). Thus is she the synthesis of 1 and 2 and 3
+great Sorcerer[**18**](#18.md). Thus is she the synthesis of 1 and 2 and 3
 and 4, which being added are 10, therefore could she set her daughter
 upon her own throne, and defile her own bed with her
-virginity[**19**](#19).
+virginity[**19**](#19.md).
 
 And I ask the Angel if there is any way by which I can make myself
 worthy to behold the Mysteries of this Aethyr.
@@ -127,7 +127,7 @@ silence the Call of the Aethyr, and wait patiently upon the favour of
 the Angel, for He is a mighty Angel, and never yet have I heard the
 whisper of his wing.
 
-This is the translation of the Call of the Aethyr[**20**](#20).
+This is the translation of the Call of the Aethyr[**20**](#20.md).
 
 O ye heavens which dwell in the first Aire, and are mighty in the parts
 of the earth, and execute therein the judgment of the highest, to you it
@@ -144,10 +144,10 @@ round with the heavens (that is, let her way be always harmonious with
 heaven), and as an handmaid let her serve them (that is, the Virgin of
 Eternity climbing into the bed of CHAOS). One season let it confound
 another (that is, let there be unwearying variety of
-predicates)[**21**](#21)}, and let there be no creature upon or within
+predicates)[**21**](#21.md)}, and let there be no creature upon or within
 her the same (that is, let there be an unwearying variety of
-subjects)[**22**](#22). All her members let them differ in their
-qualities, and let there be no one creature[**23**](#23) equal with
+subjects)[**22**](#22.md). All her members let them differ in their
+qualities, and let there be no one creature[**23**](#23.md) equal with
 another (for if there were any duplication or omission, there would be
 no perfection in the whole). The reasonable creatures of the earth and
 men, let them vex and weed out one another (this is, the destruction of
@@ -160,7 +160,7 @@ Adepts, and the "Cave" is the Cave of the Mountain of Abiegnus, and the
 "Beast" is he upon whom BABALON rideth, and the "Field" is the supernal
 Eden.) Confound her understanding with darkness. (This sentence is
 explained by what has been said concerning Binah.) For why, it rejoiceth
-me concerning the Virgin and the Man[**24**](#24). (Kelly did not
+me concerning the Virgin and the Man[**24**](#24.md). (Kelly did not
 understand this Call at all, and he would not believe this sentence was
 written so, for it seemed to contradict the rest of the Call, so he
 altered it.) One while let her be known and another while a stranger,
@@ -173,7 +173,7 @@ lower heavens beneath you, let them serve you. (This is a command for
 the whole of things to join in universal rapture.) Govern those that
 govern; cast down such as fall; bring forth those that increase; and
 destroy the rotten. (This means that everything shall take its own
-pleasure in its own way.[**25**](#25)) No place let it remain in one
+pleasure in its own way.[**25**](#25).md) No place let it remain in one
 number. ("No place" is the infinite Ain . . . "Let remain in one
 number"; that is, let it be concentrated in Kether.) Add and diminish
 until the stars be numbered. (It is a mystery of the Logos being
@@ -188,12 +188,12 @@ initial ARR, cursing, when it was really the initial of AChD, unity, and
 AHBH, love. So that it was the most horrible and wicked blasphemy of the
 blackest of all the black brothers to begin Barashith with a beth, with
 the letter of the Magician. Yet, by this simple device, hath he created
-the whole illusion of sorrow.[**26**](#26)) Open the mysteries of your
+the whole illusion of sorrow.[**26**](#26).md) Open the mysteries of your
 creation, and make us partakers of the undefiled knowledge. (The word
 here is "IADNAMAD" is not the ordinary word for knowledge. It is a word
 of eight letters, which is the secret name of God, summarized in the
 letter cheth; for which see the Aethyr which correspondeth to that
-letter, the twelfth Aethyr.[**27**](#27))
+letter, the twelfth Aethyr.[**27**](#27).md)
 
 Now from time to time I have looked into the Stone, but never is there
 any image therein, or any hint thereof; but now there are three arrows,
@@ -208,7 +208,7 @@ This is the letter Aleph in the Alphabet of Arrows.
 
 (I want to say that while I was doing the translation of the Call of the
 Aethyrs, the soles of my feet were burning, as if I were on red hot
-steel.[**28**](#28))
+steel.[**28**](#28).md)
 
 And now the fire was spread all over me, and parches me, and tortures
 me. And my sweat is bitter like poison. And all my blood is acrid in my
@@ -216,10 +216,10 @@ veins, like gleet. I seem to be all festering, rotting; and the worms
 eating me while I am yet alive.
 
 A voice, neither in myself nor out of myself, is saying: Remember
-Prometheus; remember Ixion[**29**](#29).
+Prometheus; remember Ixion[**29**](#29.md).
 
-I am tearing[**30**](#30) at nothing. I will not heed. For even this
-dust[**31**](#31) must be consumed with fire.
+I am tearing[**30**](#30.md) at nothing. I will not heed. For even this
+dust[**31**](#31.md) must be consumed with fire.
 
 And now, although there is no image, at last there is a sense of
 obstacle, as if one were at length drawing near to the frontier of the
@@ -229,11 +229,11 @@ But I am dying.
 
 I can neither strive nor wait. There is agony in my ears, and in my
 throat, and mine eyes have been so long blind that I cannot remember
-that there ever was such a thing as sight[**32**](#32).
+that there ever was such a thing as sight[**32**](#32.md).
 
 And it cometh to me that I should go away, and await the coming of the
 veil of the Aethyr; not here. I think I will go to the Hot
-Springs[**33**](#33).
+Springs[**33**](#33.md).
 
 So I put away the Stone upon my breast.
 
@@ -241,8 +241,8 @@ Biskra
 10:15-11:52 a.m.
 
 Flashes of lightning are playing in the Stone, at the top; and at the
-bottom of the Stone there is a black pyramid[**34**](#34), and at the
-top thereof is a vesica piscis. The vesica piscis[**35**](#35) is of
+bottom of the Stone there is a black pyramid[**34**](#34.md), and at the
+top thereof is a vesica piscis. The vesica piscis[**35**](#35.md) is of
 colourless brilliance.
 
 The two curves of Pisces are thus:
@@ -251,11 +251,11 @@ The two curves of Pisces are thus:
 but larger with thick curves.\]
 
 They are the same curves as the curves of vesica piscis, but turned
-round[**36**](#36)}.
+round[**36**](#36.md)}.
 
 And a voice comes: How can that which is buried in the
-pyramids[**37**](#37) behold that which descendeth unto its
-apex[**38**](#38)?
+pyramids[**37**](#37.md) behold that which descendeth unto its
+apex[**38**](#38.md)?
 
 Again it comes to me, without voice: Therefore is motherhood the symbol
 of the Masters. For first they must give up their virginity to be
@@ -264,52 +264,52 @@ and wane, and they must surround it with the Universal Fluid. And they
 must feed it with the blood for fire. Then is the child a living thing.
 And afterwards is much suffering and much joy, and after that are they
 torn asunder, and this is all their thank, that they give it to
-suck[**39**](#39).
+suck[**39**](#39.md).
 
 All this while the vision in the Shew-Stone stays as it was, save that
 the lightning grows more vehement and clear; and behind the vesica
-piscis is a black cross[**40**](#40) extending to the top and to the
+piscis is a black cross[**40**](#40.md) extending to the top and to the
 edges of the Stone. And now blackness spreads, and swallows up the
 images.
 
 Now there is naught but a vast black triangle having the apex
-downwards[**41**](#41), and in the centre of the black triangle is the
+downwards[**41**](#41.md), and in the centre of the black triangle is the
 face of Typhon, the Lord of the Tempest, and he crieth aloud: Despair!
 Despair! For thou mayest deceive the Virgin, and thou mayest cojole the
 Mother; but what wilt thou say unto the ancient Whore that is throned in
 Eternity? For if she will not, there is neither force nor cunning, nor
 any wit, that may prevail upon her.
 
-Thou canst not woo her with love[**42**](#42), for she *is* love. And
+Thou canst not woo her with love[**42**](#42.md), for she *is* love. And
 she hath all, and hath no need of thee.
 
-And thou canst not woo her with gold[**43**](#43), for all the Kings and
+And thou canst not woo her with gold[**43**](#43.md), for all the Kings and
 captains of the earth, and all the gods of heaven, have showered their
 gold upon her. Thus hath she all, and hath no need of thee.
 
 And thou canst not woo her with knowledge, for knowledge is the thing
-that she hath spurned[**44**](#44). She hath it all, and hath no need of
+that she hath spurned[**44**](#44.md). She hath it all, and hath no need of
 thee.
 
-And thou canst not woo her with wit[**45**](#45), for her Lord is Wit.
+And thou canst not woo her with wit[**45**](#45.md), for her Lord is Wit.
 
 She hath it all, and hath no need of thee. Despair! Despair!
 
 Nor canst thou cling to her knees and ask for pity; nor canst thou cling
 to her heart and ask for love; nor canst thou put thine arms about her
-neck, and ask for understanding; for thou had all these[**46**](#46),
+neck, and ask for understanding; for thou had all these[**46**](#46.md),
 and they avail thee not. Despair! Despair!
 
-Then I took the Flaming Sword[**47**](#47), and I let it loose against
+Then I took the Flaming Sword[**47**](#47.md), and I let it loose against
 Typhon, so that his head was cloven asunder, and the black triangle
-dissolved in lightnings[**48**](#48).
+dissolved in lightnings[**48**](#48.md).
 
 But as he parted his voice broke out again: Nor canst thou win her with
 the Sword, for her eyes are fixed upon the eyes of Him in whose hand is
-the hilt of the Sword[**49**](#49). Despair! Despair!
+the hilt of the Sword[**49**](#49.md). Despair! Despair!
 
 And the echo of that cry was his word, which is identical, although it
-be diverse: Nor canst thou win her by the Serpent[**50**](#50), for it
+be diverse: Nor canst thou win her by the Serpent[**50**](#50.md), for it
 was the Serpent that seduced her first. Despair! Despair!
 
 (Yet he cried thus as he fled:)
@@ -318,7 +318,7 @@ I am Leviathan, the great Lost Serpent of the Sea. I writhe eternally in
 torment, and I lash the ocean with my tail into a whirlpool of foam that
 is vemonous and bitter, and I have no purpose. I go no whither. I can
 neither live nor die. I can but rave and rave in my death agony. I am
-the Crocodile[**51**](#51) that eateth up the children of men. And
+the Crocodile[**51**](#51.md) that eateth up the children of men. And
 through the malice of BABALON I hunger, hunger, hunger.
 
 All this while the Stone is more inert than ever yet; a thousand times
@@ -331,28 +331,28 @@ murder. Yet, because a single thought alone informs it, I have hope
 therein.
 
 I think the Rose has a hundred and fifty-six petals, and though it be
-black, it has the luminous blush[**52**](#52).
+black, it has the luminous blush[**52**](#52.md).
 
 There it is, in the midst of the Stone, and I cannot see anyone who
 wears it.
 
-Aha! Aha! Aha! Shut out the sight[**53**](#53)!
+Aha! Aha! Aha! Shut out the sight[**53**](#53.md)!
 
 Holy, Holy, Holy art thou!
 
 Light, Life and Love are like three glow-worms at thy feet: the whole
 universe of stars, the dewdrops on the grass whereon thou walkest!
 
-I am quite blind[**54**](#54).
+I am quite blind[**54**](#54.md).
 
-Thou art Nuit! Strain, strain, strain my whole soul[**55**](#55)!
+Thou art Nuit! Strain, strain, strain my whole soul[**55**](#55.md)!
 
 A ka dua  
 Tuf ur biu  
 Bi a'a chefu  
-Dudu ner af an nuteru[**56**](#56).
+Dudu ner af an nuteru[**56**](#56.md).
 
-Falutli! Falutli[**57**](#57)!
+Falutli! Falutli[**57**](#57.md)!
 
 I cling unto the burning Aethyr like Lucifer that fell through the
 Abyss, and by the fury of his flight kindled the air.
@@ -376,9 +376,9 @@ Truth! What shall I say? My tongue cleaveth to my jaws, O thou Medusa
 that hast turned me to stone! Yet is that stone the stone of the
 philosophers. Yet is that tongue Hadit.
 
-Aha! Aha[**58**](#58)!
+Aha! Aha[**58**](#58.md)!
 
-Yea! Let me take the form of Hadit[**59**](#59) before thee, and sing:
+Yea! Let me take the form of Hadit[**59**](#59.md) before thee, and sing:
 
 A ka dua  
 Tuf ur biu  
@@ -411,7 +411,7 @@ must assert itself.
 It must shut out the Aethyr, or else it is dead.
 
 Every pulse aches, and beats furiously. Every nerve stings like a
-serpent. And my skin is icy cold[**60**](#60).
+serpent. And my skin is icy cold[**60**](#60.md).
 
 Neither God nor man can penetrate the Mystery of the Aethyr.
 
@@ -421,11 +421,11 @@ And even that which understandeth cannot hear its voice. For to the
 profane the voice of the Neophyte is called silence, and to the Neophyte
 the voice of the Zelator is called silence. And so ever is it.
 
-Sight is fire, and is the first angle of the Tablet[**61**](#61); spirit
+Sight is fire, and is the first angle of the Tablet[**61**](#61.md); spirit
 is hearing, and is the centre thereof; thou, therefore, who art all
 spirit and fire, and hast no duller elements in thy star; thou art come
 to sight at the end of thy will. And if thou wilt hear the voice of the
-Aethyr[**62**](#62), do thou invoke it in the night, having no other
+Aethyr[**62**](#62.md), do thou invoke it in the night, having no other
 light but the light of the half moon. Then mayest thou hear the voice,
 though it may be that thou understandeth it not. Yet shall it be a
 potent spell, whereby thou mayest lay bare the womb of thy understanding
@@ -438,7 +438,7 @@ Aha! Aha! Aha! Aha! Aha! Aha! Aha!
 A ka dua  
 Tuf ur biu  
 Bi a'a chefu  
-Dudu ner af an nuteru[**63**](#63).
+Dudu ner af an nuteru[**63**](#63.md).
 
 . . . . . . . . . . . . .
 
@@ -449,7 +449,7 @@ December 18, 1909 3:10 - 4:25 p.m.
 
 An olvah nu arenu olvah. Diraeseu adika va paretanu poliax poliax in vah
 rah ahum subre fifal. Lerthexanax. Mama ra-la hum fifala
-maha[**64**](#64).
+maha[**64**](#64.md).
 
 All this is the melody of a flute, very faint and clear. And there is
 sort of a sub-tinkle of a bell.
@@ -461,7 +461,7 @@ And the voice comes: this is the Song of the Sphinx, which she singeth
 ever in the ears of men.
 
 And it is the song of the syrens. And whoever heareth it is
-lost[**65**](#65). I III  
+lost[**65**](#65.md). I III  
 Mu pa telai, O chi balae  
 Tu wa melai Wa pa malae: --  
 A, a, a Ut! Ut! Ut!  
@@ -508,7 +508,7 @@ Before Ra Hoor Khuit! -- Hadit! -- Nuit!
 
 **IV**
 
-To the God OAI[**66**](#66)  
+To the God OAI[**66**](#66.md)  
 Be praise  
 In the end and the beginning!  
 And may none fall  
@@ -525,7 +525,7 @@ nympholept. For it was not a nymph, but I myself that walked upon the
 earth taking my pleasure. So also there were many images of Pan, and men
 adored them, and as a beautiful god he made their olives bear double and
 their vines increase; but some were slain by the god, for it was I that
-had woven the garlands about him[**67**](#67).
+had woven the garlands about him[**67**](#67.md).
 
 Now cometh a song.
 
@@ -567,13 +567,13 @@ plain.
 
 A whole series of beautiful visions of deserts and sunsets and islands
 in the sea, green beyond imagination . . . . But there is no subsistence
-in them[**68**](#68).
+in them[**68**](#68.md).
 
 A voice goes on: this is the holiness of fruitless love and aimless
 toil. For in doing the thing for the things's sake is concentration, and
 this is the holiest of them that suit not the means to the end. For
 therein is faith and sympathy and a knowledge of the true
-Magick[**69**](#69).
+Magick[**69**](#69.md).
 
 Oh my beloved, that fliest in the air like a dove, beware of the falcon!
 oh my beloved, that springest upon the earth like a gazelle, beware of
@@ -586,7 +586,7 @@ Now I will describe the Angel of the Aethyr until the voice begins
 again.
 
 He is like one's idea of Sappho and Calypso, and all seductive and
-deadly things[**70**](#70); heavy eye-lids, long lashes, a face like
+deadly things[**70**](#70.md); heavy eye-lids, long lashes, a face like
 ivory, wonderful barbaric jewellery, intensely red lips, a very small
 mouth, tiny ears, a Grecian face. Over the shoulders is a black robe
 with a green collar; the robe is spangled with golden stars; the tunic
@@ -594,28 +594,28 @@ is a pure soft blue.
 
 Now the whole Aethyr is swallowed up in a forest of unquenchable fire,
 and fearlessly through it all a show-white eagle flies. And the eagle
-cries: the house also of death[**71**](#71). Come away! The volume of
+cries: the house also of death[**71**](#71.md). Come away! The volume of
 the book is open, the Angel waiteth without, for the summer is at hand.
 Come away! For the Aeon is measured, and thy spans allotted. Come away!
-For the mighty sounds have entered into every angle[**72**](#72). And
+For the mighty sounds have entered into every angle[**72**](#72.md). And
 they have awakened the Angels of the Aethyrs that slept these three
-hundred years[**73**](#73).
+hundred years[**73**](#73.md).
 
 For in the Holy letter Shin, that is the Resurrection in the Book of
 Thoth, that is the Holy Spirit in the Trinity, that is three hundred in
-the tale of the years[**74**](#74), hath the tomb been opened, so that
+the tale of the years[**74**](#74.md), hath the tomb been opened, so that
 this great wisdom might be revealed.
 
 Come away! For the Second Triad is completed, and there remaineth only
 the Lord of the Aeon, the Avenger, the Child both Crowned and
 Conquering, the Lord of the Sword and the Sun, the Babe in the Lotus,
 pure from his birth, the Child of suffering, the Father of justice, unto
-whom be the glory throughout all the Aeon[**75**](#75)!
+whom be the glory throughout all the Aeon[**75**](#75.md)!
 
 Come away! For that which was to be accomplished is accomplished, seeing
 that thou hadst faith unto the end of all.
 
-In the letter N the Voice of the Aethyr is ended[**76**](#76).
+In the letter N the Voice of the Aethyr is ended[**76**](#76.md).
 
 Biskra, Algeria.  
 December 20, 1909. 8:35 - 9:15 p.m.

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo18)  [Next](beo20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo18)  [Next](beo20.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ their sovran king. -- They were clansmen good.
 
 ------------------------------------------------------------------------
 
-[Next: Part XIX](beo20)
+[Next: Part XIX](beo20.md)

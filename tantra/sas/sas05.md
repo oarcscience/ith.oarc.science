@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas04)  [Next](sas06)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas04)  [Next](sas06.md)  
 
 ------------------------------------------------------------------------
 
@@ -619,4 +619,4 @@ facts in short which are not "foul" with or without the qualifying
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Six: Shakti and Shakta](sas06)
+Next: [Chapter Six: Shakti and Shakta](sas06.md)

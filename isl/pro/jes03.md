@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes02)  [Next](jes04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes02)  [Next](jes04.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ each other.
 ------------------------------------------------------------------------
 
 [Next: Some Additions of Narrations About The Messiah, Jesus
-(PUH)](jes04)
+(PUH)](jes04.md)

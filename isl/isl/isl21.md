@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl20)  [Next](isl22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl20)  [Next](isl22.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ is the product of these two trees" (meaning the vine and the date-palm).
 . . . It has likewise been disputed whether a person who gets drunk with
 any of these liquors is to be punished. Some have said he is not; the
 learned in the Law, however, have determined otherwise <span
-id="fr_74"></span>[26](#fn_74)
+id="fr_74"></span>[26](#fn_74.md)
 
  
 
@@ -114,18 +114,18 @@ does not exist in the juice but in the liquor after it has been
 essentially changed. The case is different with respect to selling arms
 at a time of tumult, since in that instance the evil is established and
 exists in the original thing, arms being the instruments of sedition and
-rebellion <span id="fr_75"></span>[27](#fn_75)
+rebellion <span id="fr_75"></span>[27](#fn_75.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_74"></span>[132:26](isl21.htm#fr_74) *Ibid*., pp. 607, 608.
+<span id="fn_74"></span>[132:26](isl21.htm#fr_74.md) *Ibid*., pp. 607, 608.
 
-<span id="fn_75"></span>[132:27](isl21.htm#fr_75) Paul Horster, *Zur
+<span id="fn_75"></span>[132:27](isl21.htm#fr_75.md) Paul Horster, *Zur
 Anwendung des Islamischen Rechts im 16. Jahrhundert* (Stuttgart, 1935),
 p. 67.
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Universality of The Law](isl22)
+[Next: 6. The Universality of The Law](isl22.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp19) 
-[Next](alp21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp19.md) 
+[Next](alp21.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 <span id="page_18">p. 18</span>
 
-### THE LITTLE LAKE <span id="fr_3"></span>[1](#fn_3)
+### THE LITTLE LAKE <span id="fr_3"></span>[1](#fn_3.md)
 
 ##### BY BEDROS TOURIAN
 
@@ -82,10 +82,10 @@ For a despairing man has gazed
 
 ### Footnotes
 
-<span id="fn_3"></span>[18:1](alp20.htm#fr_3) This and the other
+<span id="fn_3"></span>[18:1](alp20.htm#fr_3.md) This and the other
 translations by Miss Alice Stone Blackwell are reprinted from Armenian
 Poems, by the translator's kind permission.
 
 ------------------------------------------------------------------------
 
-[Next: Spring](alp21)
+[Next: Spring](alp21.md)

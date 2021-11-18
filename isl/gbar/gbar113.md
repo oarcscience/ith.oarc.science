@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar112) [Next](gbar114)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar112) [Next](gbar114.md)
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ The disciples answered: 'No, Lord; therefore explain it to us.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar114)
+[Next](gbar114.md)

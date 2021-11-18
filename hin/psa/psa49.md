@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa48)  [Next](psa50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa48)  [Next](psa50.md) 
 
 ------------------------------------------------------------------------
 
@@ -242,4 +242,4 @@ in her own house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLIX](psa50)
+[Next: Chapter XLIX](psa50.md)

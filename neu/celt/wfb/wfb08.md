@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb07)  [Next](wfb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb07)  [Next](wfb09.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ He became sad, sullen and silent, took to his bed and before long died.
 
 ------------------------------------------------------------------------
 
-[Next: Lowri Dafydd Earns a Purse of Gold](wfb09)
+[Next: Lowri Dafydd Earns a Purse of Gold](wfb09.md)

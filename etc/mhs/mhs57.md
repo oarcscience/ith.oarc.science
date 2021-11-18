@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs56)  [Next](mhs58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs56)  [Next](mhs58.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ had been gnawed by rats would be falsely accused of some wrong-doing.
 
 ------------------------------------------------------------------------
 
-[Next: II. Spirits Assume The Forms Of Black Animals](mhs58)
+[Next: II. Spirits Assume The Forms Of Black Animals](mhs58.md)

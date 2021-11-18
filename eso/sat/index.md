@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ lulu.com](https://www.lulu.com/content/2742583)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sat00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sattxt.zip)
+[Contents](#contents)    [Start Reading](sat00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sattxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -69,40 +69,40 @@ appreciated.--JBH.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sat00)  
-[Introduction](sat01)  
-[Contents](sat02)  
+<span id="contents"></span> [Title Page](sat00.md)  
+[Introduction](sat01.md)  
+[Contents](sat02.md)  
 <span id="section_000"></span>
 
 ### Signatura Rerum
 
-[Title Page](sat03)  
-[Preface to the Reader](sat04)  
-[Chapter I](sat05)  
-[Chapter II](sat06)  
-[Chapter III](sat07)  
-[Chapter IV](sat08)  
-[Chapter V](sat09)  
-[Chapter VI](sat10)  
-[Chapter VII](sat11)  
-[Chapter VIII](sat12)  
-[Chapter IX](sat13)  
-[Chapter X](sat14)  
-[Chapter XI](sat15)  
-[Chapter XII](sat16)  
-[Chapter XIII](sat17)  
-[Chapter XIV](sat18)  
-[Chapter XV](sat19)  
-[Chapter XVI](sat20)  
-[Postscript by the Translator](sat21)  
+[Title Page](sat03.md)  
+[Preface to the Reader](sat04.md)  
+[Chapter I](sat05.md)  
+[Chapter II](sat06.md)  
+[Chapter III](sat07.md)  
+[Chapter IV](sat08.md)  
+[Chapter V](sat09.md)  
+[Chapter VI](sat10.md)  
+[Chapter VII](sat11.md)  
+[Chapter VIII](sat12.md)  
+[Chapter IX](sat13.md)  
+[Chapter X](sat14.md)  
+[Chapter XI](sat15.md)  
+[Chapter XII](sat16.md)  
+[Chapter XIII](sat17.md)  
+[Chapter XIV](sat18.md)  
+[Chapter XV](sat19.md)  
+[Chapter XVI](sat20.md)  
+[Postscript by the Translator](sat21.md)  
 <span id="section_001"></span>
 
 ### The Supersensual Life
 
-[Dialog I](sat22)  
-[Dialogue II](sat23)  
+[Dialog I](sat22.md)  
+[Dialogue II](sat23.md)  
 
  
 
-[Of Heaven and Hell](sat24)  
-[The Way from Darkness to True Illumination](sat25)  
+[Of Heaven and Hell](sat24.md)  
+[The Way from Darkness to True Illumination](sat25.md)  

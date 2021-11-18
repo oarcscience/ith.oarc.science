@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](tawo13)  [Next](tawo15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](tawo13)  [Next](tawo15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales of Wonder*, by Lord Dunsany, \[1916\], at Intangible Textual
 Heritage
 
@@ -879,6 +879,6 @@ are taken in the thing shall be a matter for the hangman.
 
 ------------------------------------------------------------------------
 
-[Next: A Tale of the Equator](tawo15)
+[Next: A Tale of the Equator](tawo15.md)
 
 </div>

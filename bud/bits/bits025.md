@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits024) [Next](bits026)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits024) [Next](bits026.md)
 
 ------------------------------------------------------------------------
 
@@ -230,7 +230,7 @@ fast by nominalism.
 
 ------------------------------------------------------------------------
 
-[Next: § 26. Ignorance](bits026)
+[Next: § 26. Ignorance](bits026.md)
 
  
 

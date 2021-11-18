@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb18)  [Next](spb20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb18)  [Next](spb20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 see Service for the Festivals*.
 
 *The following prayer (Amidah) to "as in ancient years," [p.
-237](#page_237), is said standing*.
+237](#page_237.md), is said standing*.
 
 <span class="small">O Lord, open thou my lips, and my mouth shall
 declare thy praise.</span>
@@ -65,7 +65,7 @@ killest and quickenest, and causest salvation to spring forth?
 rememberest thy creatures unto life?</span>
 
 Yea, faithful art thou to quicken the dead. Blessed art thou, O Lord,
-who quickenest the dead. <span id="fr_21"></span>[\*](#fn_19)
+who quickenest the dead. <span id="fr_21"></span>[\*](#fn_19.md)
 
 Thou art holy, and thy name is holy, and holy beings praise thee daily.
 (Selah.) Blessed art thou, O Lord, the holy God.
@@ -115,7 +115,7 @@ art thou, O Lord, the holy God.
 
 <span class="small">the holy King.</span>
 
- <span id="fr_22"></span>[\*](#fn_20) Thou didst institute the Sabbath,
+ <span id="fr_22"></span>[\*](#fn_20.md) Thou didst institute the Sabbath,
 and didst accept its offerings; thou didst command its special
 obligations with the order of its drink offerings. They that find
 delight in it shall inherit glory for everlasting; they that taste it
@@ -201,7 +201,7 @@ all-good, whose mercies fail not; thou, merciful Being, whose
 lovingkindnesses never cease, we have ever hoped in thee.
 
 *On Chanukah say, "We thank thee also," etc. [p.
-63](spb05.htm#page_63)*.
+63](spb05.htm#page_63.md)*.
 
 <span id="page_235">p. 235</span>
 
@@ -241,7 +241,7 @@ tinges and in every hour with thy peace.
 
 *On the Sabbath of Penitence say:—*
 
-In the book of life, blessing, peace and good [sustenance](errata.htm#3)
+In the book of life, blessing, peace and good [sustenance](errata.htm#3.md)
 may we be remembered and inscribed before thee, we and all thy people
 the house of Israel, for a happy life and for peace. Blessed art thou, O
 Lord, who makest peace.
@@ -323,7 +323,7 @@ spices.
 
 Talmud Babli: Treatise Cerithoth 6, a.
 
-The compound forming the incense <span id="fr_23"></span>[\*](#fn_21)
+The compound forming the incense <span id="fr_23"></span>[\*](#fn_21.md)
 consisted of balm, onycha, galbanum and frankincense, in quantities
 weighing seventy manehs each; of myrrh, cassia, spikenard and saffron,
 each sixteen manehs by weight; of costus twelve, of aromatic bark three,
@@ -480,7 +480,7 @@ fear.
 UNITY HYMN FOR THE SABBATH DAY
 
 *In some Congregations the following is said before "Blessed be he who
-spake," [p. 19](spb05.htm#page_19)*.
+spake," [p. 19](spb05.htm#page_19.md)*.
 
 Of old thou didst rest on the seventh day; thou didst therefore bless
 the Sabbath.
@@ -599,16 +599,16 @@ everlasting to everlasting.
 
 ### Footnotes
 
-<span id="fn_19"></span>[227:\*](spb19.htm#fr_21) *When the Reader
+<span id="fn_19"></span>[227:\*](spb19.htm#fr_21.md) *When the Reader
 repeats the Amidah, the following is added to "holy God," [p.
-229](#page_229)*.
+229](#page_229.md)*.
 
 Reader.—We will reverence and sanctify thee according to the mystic
 utterance of the holy Seraphim, who hallow thy name in the sanctuary, as
 it is written by the hand of thy prophet, And they called one unto the
 other and said,
 
-<span id="fn_20"></span>[229:\*](spb19.htm#fr_22) *On Sabbath and New
+<span id="fn_20"></span>[229:\*](spb19.htm#fr_22.md) *On Sabbath and New
 Moon*.
 
 Thou didst form thy world from of old; thou hadst finished thy work on
@@ -664,12 +664,12 @@ appointed unto them statutes for the beginnings of the months. Blessed
 art thou, O Lord, who sanctifiest the Sabbath, Israel and the beginnings
 of the months.
 
-<span id="fn_21"></span>[239:\*](spb19.htm#fr_23) Exod. xxx. 31–38.
+<span id="fn_21"></span>[239:\*](spb19.htm#fr_23.md) Exod. xxx. 31–38.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Hymn of Glory](spb20)
+[Next: Hymn of Glory](spb20.md)
 
 </div>

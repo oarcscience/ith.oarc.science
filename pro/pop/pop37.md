@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop36)  [Next](pop38) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop36)  [Next](pop38.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ their eyrie.'
 ------------------------------------------------------------------------
 
 [Next: Elucidations of the Prognostications and Conclusion of Doctor
-Paracelsus](pop38)
+Paracelsus](pop38.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow12)  [Next](fow14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow12)  [Next](fow14.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ Nights."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII: Red-Haired Girls](fow14)
+[Next: Chapter XII: Red-Haired Girls](fow14.md)

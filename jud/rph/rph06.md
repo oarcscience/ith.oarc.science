@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph05)  [Next](rph07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph05)  [Next](rph07.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ ADOLPH JELLINEK
 
 None of the gnostic systems has so often been compelled, under the hands
 of the critics, to change its birthplace as the so-called Kabbalah; no
-monument of Oriental Philosophy <span id="fr_0"></span>[1](#fn_0) has
+monument of Oriental Philosophy <span id="fr_0"></span>[1](#fn_0.md) has
 called forth such conflicting hypotheses as to the time and place of its
 composition, as the universal code of the Kabbalists, the Zohar;
 finally, no writer of the history of philosophy has until now undertaken
@@ -61,7 +61,7 @@ author of this work. (Compare Tholuck, "de Ortu Cabbalae," p. 3-4.)
 In company with another author of a French work (Matter, "Histoire
 Critique du Gnosticisme") Franck defends the view that the Kabbalistic
 science evolved from the theology of the Parsees. <span
-id="fr_1"></span>[2](#fn_1) Against this opinion Gieseler (in the review
+id="fr_1"></span>[2](#fn_1.md) Against this opinion Gieseler (in the review
 of Matter's
 
 <span id="page_xvii">p. xvii</span>
@@ -149,10 +149,10 @@ The question of the origin and age of the Kabbalah is most closely
 connected with the inquiry as to the time and place of the composition
 of the Zohar. This question does not seem to us to have been
 sufficiently answered. The Zohar, in its entire range, contains no less
-than an uniform system; <span id="fr_2"></span>[3](#fn_2) repetitions
+than an uniform system; <span id="fr_2"></span>[3](#fn_2.md) repetitions
 are often found there; passages are met with which have been borrowed
 from the Talmud and Midrash; the language is of various coloring; <span
-id="fr_3"></span>[4](#fn_3) and because the system developed gradually,
+id="fr_3"></span>[4](#fn_3.md) and because the system developed gradually,
 there must of necessity be found therein graduations. From the Zohar,
 then, we are to be shown what doctrines formed its original elements;
 how it developed under the hands of various teachers; what elements of
@@ -211,9 +211,9 @@ sects of the Jews and of the Secret Doctrine or Kabbalah II, 309 ff.).
 
 The correction referred to, I would rather call an outward one. The
 quotations from the Kabbalistic works were so corrupt, <span
-id="fr_4"></span>[5](#fn_4) the reference to page numbers full of
+id="fr_4"></span>[5](#fn_4.md) the reference to page numbers full of
 mistakes (at times absent altogether), the annotations were so often
-misplaced, <span id="fr_5"></span>[6](#fn_5) that I was compelled to
+misplaced, <span id="fr_5"></span>[6](#fn_5.md) that I was compelled to
 spend much time upon correction. Believe me, it is only necessary to
 look at the folio volume of the Zohar, edition Sulzbach, to see that it
 is no small trouble and loss of time to look there for a given passage.
@@ -241,7 +241,7 @@ May 20th, 1844.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xv:1](rph06.htm#fr_0) This term introduced by
+<span id="fn_0"></span>[xv:1](rph06.htm#fr_0.md) This term introduced by
 Mosheim is still to be put forward in the investigations of gnosticism,
 "for"--as Baur (the Christian Gnosis, p. 4) justly remarks--"the very
 name is to express at once the demand to place oneself in an entirely
@@ -250,7 +250,7 @@ gauge than the usual one of our critical reason and phantasy for the
 speculations that present themselves here." This viewpoint of
 orientalism should generally be adhered to in religious philosophy.
 
-<span id="fn_1"></span>[xvi:2](rph06.htm#fr_1) Though Mr. Franck agrees
+<span id="fn_1"></span>[xvi:2](rph06.htm#fr_1.md) Though Mr. Franck agrees
 with Matter in the turning point of the investigation--in the
 pre-Christian, Zoroastrian origin of the Kabbalistic philosophy--yet
 there prevails the great difference between them in that, while the
@@ -261,7 +261,7 @@ l’original), the first one proves the great advance of the Kabbalah on
 Zoroastrism. Besides, the mode of investigation of our author is quite a
 different one.
 
-<span id="fn_2"></span>[xix:3](rph06.htm#fr_2) Thus we find on the very
+<span id="fn_2"></span>[xix:3](rph06.htm#fr_2.md) Thus we find on the very
 first page of the Zohar--according to the Sulzbach edition and generally
 all those bearing the name of ‏זהר גדול‎--traces of the Hindoo cosmogony
 which, though, have been modified by the author through the influence of
@@ -270,17 +270,17 @@ Judaism. In explaining the creation, it speaks there of the "seed"
 modified by transmutation in the "letters." .(‏מאן ההוא זרעז אינון אתוון
 וכו׳‎)
 
-<span id="fn_3"></span>[xix:4](rph06.htm#fr_3) It is noteworthy that in
+<span id="fn_3"></span>[xix:4](rph06.htm#fr_3.md) It is noteworthy that in
 the old passages the Jerusalemean ‏שרנא‎ appears for the Babylonian
 Kane,. Comp. Nedarim, 66b; Fuerst, "Lehrgebaeude der aramaeischen
 Idiome," p. 17.
 
-<span id="fn_4"></span>[xxi:5](rph06.htm#fr_4) Compare only for example
+<span id="fn_4"></span>[xxi:5](rph06.htm#fr_4.md) Compare only for example
 p. 155, note 1, of the French original.
 
-<span id="fn_5"></span>[xxi:6](rph06.htm#fr_5) P. 142, note \*\* is to
+<span id="fn_5"></span>[xxi:6](rph06.htm#fr_5.md) P. 142, note \*\* is to
 be struck and part of note 3 must refer to p. 143.
 
 ------------------------------------------------------------------------
 
-[Next: Foreword to the Second French Edition](rph07)
+[Next: Foreword to the Second French Edition](rph07.md)

@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc02)  [Next](mlc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc02)  [Next](mlc04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -967,7 +967,7 @@ beverage.
 
 <span id="img_p044"></span> <span align="CENTER"> [![The Spirit That
 Clears the Way](tn/p044.jpg)  
-Click to enlarge](img/p044.jpg)  
+Click to enlarge](img/p044.jpg.md)  
 The Spirit That Clears the Way  
 </span>
 
@@ -1406,6 +1406,6 @@ sculpture, and little architecture that will live.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Mythology and Intellectual Progress](mlc04)
+[Next: Chapter II. Mythology and Intellectual Progress](mlc04.md)
 
 </div>

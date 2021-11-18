@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](co2)  [Next](eph) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](co2)  [Next](eph.md) 
 
 ------------------------------------------------------------------------
 
@@ -519,4 +519,4 @@ Christ be with your spirit. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Ephesians](eph)
+[Next: Ephesians](eph.md)

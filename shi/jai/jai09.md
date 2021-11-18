@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai08)  [Next](jai10) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai08)  [Next](jai10.md) 
 
 ------------------------------------------------------------------------
 
@@ -607,4 +607,4 @@ and simple things to human respect.
 
 ------------------------------------------------------------------------
 
-[Next: The Rule of the Dead](jai10)
+[Next: The Rule of the Dead](jai10.md)

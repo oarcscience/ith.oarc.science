@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](lit14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](lit14.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Lessons in Truth*, by H. Emilie Cady, \[1894\], at Intangible Textual
 Heritage
 
@@ -13,1403 +13,1403 @@ Heritage
 
 ###  
 
-abundance, [64](lit07.htm#page_64)
+abundance, [64](lit07.htm#page_64.md)
 
-affirmation(s), [49](lit05.htm#page_49)-[58](lit06.htm#page_58),
-[81](lit09.htm#page_81), [83](lit09.htm#page_83),
-[97](lit10.htm#page_97), [106](lit11.htm#page_106),
-[108](lit11.htm#page_108), [129](lit13.htm#page_129); for deliverance,
-[16](lit02.htm#page_16); for freedom, [74](lit08.htm#page_74); four
-comprehensive, [52](lit06.htm#page_52)-[55](lit06.htm#page_55); of
-Elijah, [67](lit07.htm#page_67); repetition of, [51](lit06.htm#page_51),
-[55](lit06.htm#page_55); specific usefulness of,
-[56](lit06.htm#page_56); to overcome timidity, [73](lit08.htm#page_73)
+affirmation(s), [49](lit05.htm#page_49)-[58](lit06.htm#page_58.md),
+[81](lit09.htm#page_81), [83](lit09.htm#page_83.md),
+[97](lit10.htm#page_97), [106](lit11.htm#page_106.md),
+[108](lit11.htm#page_108), [129](lit13.htm#page_129.md); for deliverance,
+[16](lit02.htm#page_16); for freedom, [74](lit08.htm#page_74.md); four
+comprehensive, [52](lit06.htm#page_52)-[55](lit06.htm#page_55.md); of
+Elijah, [67](lit07.htm#page_67); repetition of, [51](lit06.htm#page_51.md),
+[55](lit06.htm#page_55.md); specific usefulness of,
+[56](lit06.htm#page_56); to overcome timidity, [73](lit08.htm#page_73.md)
 
-All-Good, [26](lit04.htm#page_26), [35](lit04.htm#page_35)
+All-Good, [26](lit04.htm#page_26), [35](lit04.htm#page_35.md)
 
-All-perfection, [22](lit03.htm#page_22), [129](lit13.htm#page_129)
+All-perfection, [22](lit03.htm#page_22), [129](lit13.htm#page_129.md)
 
-anger, to be denied, [46](lit05.htm#page_46), [82](lit09.htm#page_82)
+anger, to be denied, [46](lit05.htm#page_46), [82](lit09.htm#page_82.md)
 
-animal part of man, [6](lit02.htm#page_6), [7](lit02.htm#page_7)
+animal part of man, [6](lit02.htm#page_6), [7](lit02.htm#page_7.md)
 
-anxiety, [57](lit06.htm#page_57), [69](lit07.htm#page_69),
-[99](lit10.htm#page_99), [128](lit13.htm#page_128)
+anxiety, [57](lit06.htm#page_57), [69](lit07.htm#page_69.md),
+[99](lit10.htm#page_99), [128](lit13.htm#page_128.md)
 
 appearance(s), negative,
-[42](lit05.htm#page_42)-[43](lit05.htm#page_43); of evil,
-[44](lit05.htm#page_44), [52](lit06.htm#page_52),
-[57](lit06.htm#page_57); of weakness, [52](lit06.htm#page_52)
+[42](lit05.htm#page_42)-[43](lit05.htm#page_43.md); of evil,
+[44](lit05.htm#page_44), [52](lit06.htm#page_52.md),
+[57](lit06.htm#page_57); of weakness, [52](lit06.htm#page_52.md)
 
-apostles, [95](lit10.htm#page_95)
+apostles, [95](lit10.htm#page_95.md)
 
-argument, [26](lit04.htm#page_26), [29](lit04.htm#page_29),
-[128](lit13.htm#page_128)
+argument, [26](lit04.htm#page_26), [29](lit04.htm#page_29.md),
+[128](lit13.htm#page_128.md)
 
-Artist, master, [123](lit12.htm#page_123)
+Artist, master, [123](lit12.htm#page_123.md)
 
-asceticism, [12](lit02.htm#page_12)
+asceticism, [12](lit02.htm#page_12.md)
 
-ask(ing), [65](lit07.htm#page_65), [106](lit11.htm#page_106),
-[115](lit12.htm#page_115), [125](lit13.htm#page_125)
+ask(ing), [65](lit07.htm#page_65), [106](lit11.htm#page_106.md),
+[115](lit12.htm#page_115), [125](lit13.htm#page_125.md)
 
-aspiration, [49](lit05.htm#page_49)
+aspiration, [49](lit05.htm#page_49.md)
 
-astronomy, [76](lit08.htm#page_76)
+astronomy, [76](lit08.htm#page_76.md)
 
-attitude toward God, [53](lit06.htm#page_53)
+attitude toward God, [53](lit06.htm#page_53.md)
 
-automatons, [32](lit04.htm#page_32)
+automatons, [32](lit04.htm#page_32.md)
 
-beauty, [99](lit10.htm#page_99)
+beauty, [99](lit10.htm#page_99.md)
 
-Being, [19](lit03.htm#page_19); statement of,
-[17](lit02.htm#page_17)-[26](lit04.htm#page_26)
+Being, [19](lit03.htm#page_19.md); statement of,
+[17](lit02.htm#page_17)-[26](lit04.htm#page_26.md)
 
-being, [11](lit02.htm#page_11), [19](lit03.htm#page_19),
-[66](lit07.htm#page_66), [77](lit09.htm#page_77),
-[84](lit09.htm#page_84), [89](lit10.htm#page_89),
-[90](lit10.htm#page_90), [92](lit10.htm#page_92),
-[96](lit10.htm#page_96), [101](lit11.htm#page_101),
-[102](lit11.htm#page_102), [105](lit11.htm#page_105),
-[111](lit11.htm#page_111), [120](lit12.htm#page_120),
-[128](lit13.htm#page_128)
+being, [11](lit02.htm#page_11), [19](lit03.htm#page_19.md),
+[66](lit07.htm#page_66), [77](lit09.htm#page_77.md),
+[84](lit09.htm#page_84), [89](lit10.htm#page_89.md),
+[90](lit10.htm#page_90), [92](lit10.htm#page_92.md),
+[96](lit10.htm#page_96), [101](lit11.htm#page_101.md),
+[102](lit11.htm#page_102), [105](lit11.htm#page_105.md),
+[111](lit11.htm#page_111), [120](lit12.htm#page_120.md),
+[128](lit13.htm#page_128.md)
 
-beseeching, [79](lit09.htm#page_79), [102](lit11.htm#page_102)
+beseeching, [79](lit09.htm#page_79), [102](lit11.htm#page_102.md)
 
-Bible, [65](lit07.htm#page_65)
+Bible, [65](lit07.htm#page_65.md)
 
-birth, new, [79](lit09.htm#page_79), [84](lit09.htm#page_84); spiritual,
-[76](lit08.htm#page_76)
+birth, new, [79](lit09.htm#page_79), [84](lit09.htm#page_84.md); spiritual,
+[76](lit08.htm#page_76.md)
 
-birthright, [55](lit06.htm#page_55)
+birthright, [55](lit06.htm#page_55.md)
 
-blood, [31](lit04.htm#page_31)
+blood, [31](lit04.htm#page_31.md)
 
-body, [25](lit04.htm#page_25), [31](lit04.htm#page_31),
-[34](lit04.htm#page_34), [43](lit05.htm#page_43),
-[78](lit09.htm#page_78), [104](lit11.htm#page_104),
-[114](lit12.htm#page_114), [132](lit13.htm#page_132); envy of parts of,
-[46](lit05.htm#page_46); torturing, [37](lit04.htm#page_37)
+body, [25](lit04.htm#page_25), [31](lit04.htm#page_31.md),
+[34](lit04.htm#page_34), [43](lit05.htm#page_43.md),
+[78](lit09.htm#page_78), [104](lit11.htm#page_104.md),
+[114](lit12.htm#page_114), [132](lit13.htm#page_132.md); envy of parts of,
+[46](lit05.htm#page_46); torturing, [37](lit04.htm#page_37.md)
 
-bondage, [12](lit02.htm#page_12), [74](lit08.htm#page_74),
-[106](lit11.htm#page_106), [110](lit11.htm#page_110),
-[114](lit12.htm#page_114); freedom from through denial,
-[47](lit05.htm#page_47); to false beliefs, [14](lit02.htm#page_14); to
-the flesh, [6](lit02.htm#page_6), [7](lit02.htm#page_7),
-[10](lit02.htm#page_10)
+bondage, [12](lit02.htm#page_12), [74](lit08.htm#page_74.md),
+[106](lit11.htm#page_106), [110](lit11.htm#page_110.md),
+[114](lit12.htm#page_114.md); freedom from through denial,
+[47](lit05.htm#page_47); to false beliefs, [14](lit02.htm#page_14.md); to
+the flesh, [6](lit02.htm#page_6), [7](lit02.htm#page_7.md),
+[10](lit02.htm#page_10.md)
 
-books, [27](lit04.htm#page_27), [28](lit04.htm#page_28),
-[90](lit10.htm#page_90), [95](lit10.htm#page_95),
-[110](lit11.htm#page_110)
+books, [27](lit04.htm#page_27), [28](lit04.htm#page_28.md),
+[90](lit10.htm#page_90), [95](lit10.htm#page_95.md),
+[110](lit11.htm#page_110.md)
 
-bugaboos, [42](lit05.htm#page_42), [47](lit05.htm#page_47)
+bugaboos, [42](lit05.htm#page_42), [47](lit05.htm#page_47.md)
 
 <span id="page_ii">p. ii</span>
 
-business, [62](lit07.htm#page_62)
+business, [62](lit07.htm#page_62.md)
 
-Center, perfect, [124](lit13.htm#page_124)
+Center, perfect, [124](lit13.htm#page_124.md)
 
-center of being, [66](lit07.htm#page_66), [89](lit10.htm#page_89),
-[91](lit10.htm#page_91), [100](lit11.htm#page_100),
-[111](lit11.htm#page_111), [113](lit11.htm#page_113),
-[121](lit12.htm#page_121), [128](lit13.htm#page_128)
+center of being, [66](lit07.htm#page_66), [89](lit10.htm#page_89.md),
+[91](lit10.htm#page_91), [100](lit11.htm#page_100.md),
+[111](lit11.htm#page_111), [113](lit11.htm#page_113.md),
+[121](lit12.htm#page_121), [128](lit13.htm#page_128.md)
 
-channel(s), [33](lit04.htm#page_33), [80](lit09.htm#page_80),
-[86](lit09.htm#page_86), [110](lit11.htm#page_110),
-[119](lit12.htm#page_119)
+channel(s), [33](lit04.htm#page_33), [80](lit09.htm#page_80.md),
+[86](lit09.htm#page_86), [110](lit11.htm#page_110.md),
+[119](lit12.htm#page_119.md)
 
-child(ren), [27](lit04.htm#page_27), [30](lit04.htm#page_30),
-[32](lit04.htm#page_32), [35](lit04.htm#page_35),
-[42](lit05.htm#page_42), [90](lit10.htm#page_90),
-[94](lit10.htm#page_94), [104](lit11.htm#page_104),
-[129](lit13.htm#page_129)
+child(ren), [27](lit04.htm#page_27), [30](lit04.htm#page_30.md),
+[32](lit04.htm#page_32), [35](lit04.htm#page_35.md),
+[42](lit05.htm#page_42), [90](lit10.htm#page_90.md),
+[94](lit10.htm#page_94), [104](lit11.htm#page_104.md),
+[129](lit13.htm#page_129.md)
 
-child(ren), of God, [9](lit02.htm#page_9), [45](lit05.htm#page_45),
-[53](lit06.htm#page_53), [54](lit06.htm#page_54),
-[58](lit06.htm#page_58), [128](lit13.htm#page_128),
-[131](lit13.htm#page_131), [132](lit13.htm#page_132)
+child(ren), of God, [9](lit02.htm#page_9), [45](lit05.htm#page_45.md),
+[53](lit06.htm#page_53), [54](lit06.htm#page_54.md),
+[58](lit06.htm#page_58), [128](lit13.htm#page_128.md),
+[131](lit13.htm#page_131), [132](lit13.htm#page_132.md)
 
-Christ, gospel of, [130](lit13.htm#page_130); indwelling,
-[10](lit02.htm#page_10), [28](lit04.htm#page_28),
-[84](lit09.htm#page_84), [90](lit10.htm#page_90),
-[91](lit10.htm#page_91),
-[94](lit10.htm#page_94)-[95](lit10.htm#page_95),
-[107](lit11.htm#page_107), [110](lit11.htm#page_110),
-[111](lit11.htm#page_111),
-[120](lit12.htm#page_120)-[121](lit12.htm#page_121),
-[124](lit13.htm#page_124), [126](lit13.htm#page_126),
-[128](lit13.htm#page_128), [129](lit13.htm#page_129); mind of,
-[98](lit10.htm#page_98), [99](lit10.htm#page_99); place of meeting,
-[89](lit10.htm#page_89); way of, [16](lit02.htm#page_16)
+Christ, gospel of, [130](lit13.htm#page_130.md); indwelling,
+[10](lit02.htm#page_10), [28](lit04.htm#page_28.md),
+[84](lit09.htm#page_84), [90](lit10.htm#page_90.md),
+[91](lit10.htm#page_91.md),
+[94](lit10.htm#page_94)-[95](lit10.htm#page_95.md),
+[107](lit11.htm#page_107), [110](lit11.htm#page_110.md),
+[111](lit11.htm#page_111.md),
+[120](lit12.htm#page_120)-[121](lit12.htm#page_121.md),
+[124](lit13.htm#page_124), [126](lit13.htm#page_126.md),
+[128](lit13.htm#page_128), [129](lit13.htm#page_129.md); mind of,
+[98](lit10.htm#page_98), [99](lit10.htm#page_99.md); place of meeting,
+[89](lit10.htm#page_89); way of, [16](lit02.htm#page_16.md)
 
-Christ Spirit, [13](lit02.htm#page_13)
+Christ Spirit, [13](lit02.htm#page_13.md)
 
-circumstances, [13](lit02.htm#page_13), [14](lit02.htm#page_14),
-[30](lit04.htm#page_30), [47](lit05.htm#page_47),
-[127](lit13.htm#page_127); can be changed, [40](lit05.htm#page_40);
-controlled by thoughts, [43](lit05.htm#page_43)
+circumstances, [13](lit02.htm#page_13), [14](lit02.htm#page_14.md),
+[30](lit04.htm#page_30), [47](lit05.htm#page_47.md),
+[127](lit13.htm#page_127); can be changed, [40](lit05.htm#page_40.md);
+controlled by thoughts, [43](lit05.htm#page_43.md)
 
-clay, [107](lit11.htm#page_107)
+clay, [107](lit11.htm#page_107.md)
 
-closet of our being, [105](lit11.htm#page_105)
+closet of our being, [105](lit11.htm#page_105.md)
 
-comfort, spring of, [8](lit02.htm#page_8)
+comfort, spring of, [8](lit02.htm#page_8.md)
 
-Comforter, [78](lit09.htm#page_78)
+Comforter, [78](lit09.htm#page_78.md)
 
-communion, [101](lit11.htm#page_101), [103](lit11.htm#page_103),
-[109](lit11.htm#page_109), [112](lit11.htm#page_112),
-[131](lit13.htm#page_131)
+communion, [101](lit11.htm#page_101), [103](lit11.htm#page_103.md),
+[109](lit11.htm#page_109), [112](lit11.htm#page_112.md),
+[131](lit13.htm#page_131.md)
 
-companionship, [101](lit11.htm#page_101), [130](lit13.htm#page_130)
+companionship, [101](lit11.htm#page_101), [130](lit13.htm#page_130.md)
 
-concentrating, [107](lit11.htm#page_107)
+concentrating, [107](lit11.htm#page_107.md)
 
-conditions, denial of, [43](lit05.htm#page_43); troublesome,
-[40](lit05.htm#page_40), [49](lit05.htm#page_49),
-[57](lit06.htm#page_57)-[58](lit06.htm#page_58); two, for revelation,
-[109](lit11.htm#page_109)-[110](lit11.htm#page_110)
+conditions, denial of, [43](lit05.htm#page_43.md); troublesome,
+[40](lit05.htm#page_40), [49](lit05.htm#page_49.md),
+[57](lit06.htm#page_57)-[58](lit06.htm#page_58.md); two, for revelation,
+[109](lit11.htm#page_109)-[110](lit11.htm#page_110.md)
 
-consciousness, awakened, [129](lit13.htm#page_129); error,
-[40](lit05.htm#page_40), [46](lit05.htm#page_46); human,
-[6](lit02.htm#page_6), [7](lit02.htm#page_7), [11](lit02.htm#page_11),
-[71](lit08.htm#page_71), [83](lit09.htm#page_83),
-[92](lit10.htm#page_92), [97](lit10.htm#page_97),
-[100](lit11.htm#page_100), [107](lit11.htm#page_107),
-[109](lit11.htm#page_109), [122](lit12.htm#page_122),
-[132](lit13.htm#page_132); inner, [15](lit02.htm#page_15),
-[62](lit07.htm#page_62), [77](lit09.htm#page_77),
-[89](lit10.htm#page_89), [94](lit10.htm#page_94),
-[96](lit10.htm#page_96); new, [108](lit11.htm#page_108); of indwelling
-Father, [78](lit09.htm#page_78)-[79](lit09.htm#page_79),
-[80](lit09.htm#page_80), [88](lit09.htm#page_88),
-[89](lit10.htm#page_89), [102](lit11.htm#page_102),
-[121](lit12.htm#page_121), [124](lit13.htm#page_124); of Mary,
-[93](lit10.htm#page_93); spiritual, [64](lit07.htm#page_64),
-[79](lit09.htm#page_79), [82](lit09.htm#page_82),
-[84](lit09.htm#page_84)
+consciousness, awakened, [129](lit13.htm#page_129.md); error,
+[40](lit05.htm#page_40), [46](lit05.htm#page_46.md); human,
+[6](lit02.htm#page_6), [7](lit02.htm#page_7), [11](lit02.htm#page_11.md),
+[71](lit08.htm#page_71), [83](lit09.htm#page_83.md),
+[92](lit10.htm#page_92), [97](lit10.htm#page_97.md),
+[100](lit11.htm#page_100), [107](lit11.htm#page_107.md),
+[109](lit11.htm#page_109), [122](lit12.htm#page_122.md),
+[132](lit13.htm#page_132); inner, [15](lit02.htm#page_15.md),
+[62](lit07.htm#page_62), [77](lit09.htm#page_77.md),
+[89](lit10.htm#page_89), [94](lit10.htm#page_94.md),
+[96](lit10.htm#page_96); new, [108](lit11.htm#page_108.md); of indwelling
+Father, [78](lit09.htm#page_78)-[79](lit09.htm#page_79.md),
+[80](lit09.htm#page_80), [88](lit09.htm#page_88.md),
+[89](lit10.htm#page_89), [102](lit11.htm#page_102.md),
+[121](lit12.htm#page_121), [124](lit13.htm#page_124.md); of Mary,
+[93](lit10.htm#page_93); spiritual, [64](lit07.htm#page_64.md),
+[79](lit09.htm#page_79), [82](lit09.htm#page_82.md),
+[84](lit09.htm#page_84.md)
 
-contradictions, seeming, [96](lit10.htm#page_96)
+contradictions, seeming, [96](lit10.htm#page_96.md)
 
-conversation, idle, [11](lit02.htm#page_11)
+conversation, idle, [11](lit02.htm#page_11.md)
 
-courage, [14](lit02.htm#page_14), [56](lit06.htm#page_56),
-[118](lit12.htm#page_118)
+courage, [14](lit02.htm#page_14), [56](lit06.htm#page_56.md),
+[118](lit12.htm#page_118.md)
 
-creations of God, [20](lit03.htm#page_20)
+creations of God, [20](lit03.htm#page_20.md)
 
-creative cause, [20](lit03.htm#page_20)
+creative cause, [20](lit03.htm#page_20.md)
 
-creative energy, [18](lit03.htm#page_18)
+creative energy, [18](lit03.htm#page_18.md)
 
-criticism, fear of, [72](lit08.htm#page_72)
+criticism, fear of, [72](lit08.htm#page_72.md)
 
-cure, [77](lit09.htm#page_77)
+cure, [77](lit09.htm#page_77.md)
 
-death, power over, [78](lit09.htm#page_78); seeming,
-[118](lit12.htm#page_118); unreality of, [44](lit05.htm#page_44)
+death, power over, [78](lit09.htm#page_78.md); seeming,
+[118](lit12.htm#page_118); unreality of, [44](lit05.htm#page_44.md)
 
-decree, [51](lit06.htm#page_51)
+decree, [51](lit06.htm#page_51.md)
 
-deliver(ance), [6](lit02.htm#page_6), [15](lit02.htm#page_15),
-[16](lit02.htm#page_16), [26](lit04.htm#page_26),
-[54](lit06.htm#page_54), [55](lit06.htm#page_55),
-[82](lit09.htm#page_82), [89](lit10.htm#page_89),
-[91](lit10.htm#page_91), [111](lit11.htm#page_111),
-[114](lit12.htm#page_114), [126](lit13.htm#page_126),
-[127](lit13.htm#page_127)
+deliver(ance), [6](lit02.htm#page_6), [15](lit02.htm#page_15.md),
+[16](lit02.htm#page_16), [26](lit04.htm#page_26.md),
+[54](lit06.htm#page_54), [55](lit06.htm#page_55.md),
+[82](lit09.htm#page_82), [89](lit10.htm#page_89.md),
+[91](lit10.htm#page_91), [111](lit11.htm#page_111.md),
+[114](lit12.htm#page_114), [126](lit13.htm#page_126.md),
+[127](lit13.htm#page_127.md)
 
-demand and supply, law of, [50](lit06.htm#page_50),
-[64](lit07.htm#page_64), [66](lit07.htm#page_66),
-[67](lit07.htm#page_67), [105](lit11.htm#page_105)
+demand and supply, law of, [50](lit06.htm#page_50.md),
+[64](lit07.htm#page_64), [66](lit07.htm#page_66.md),
+[67](lit07.htm#page_67), [105](lit11.htm#page_105.md)
 
-demons, power to cast out, [121](lit12.htm#page_121)
+demons, power to cast out, [121](lit12.htm#page_121.md)
 
-demonstration, [15](lit02.htm#page_15), [118](lit12.htm#page_118)
+demonstration, [15](lit02.htm#page_15), [118](lit12.htm#page_118.md)
 
 <span id="page_iii">p. iii</span>
 
-denial(s), [37](lit04.htm#page_37)-[48](lit05.htm#page_48),
-[51](lit06.htm#page_51), [56](lit06.htm#page_56),
-[83](lit09.htm#page_83), [97](lit10.htm#page_97),
-[108](lit11.htm#page_108); how spoken, [48](lit05.htm#page_48); of fear,
-[47](lit05.htm#page_47); of four common error thoughts,
-[44](lit05.htm#page_44)-[46](lit05.htm#page_46); repetition of,
-[51](lit06.htm#page_51), specific usefulness of, [56](lit06.htm#page_56)
+denial(s), [37](lit04.htm#page_37)-[48](lit05.htm#page_48.md),
+[51](lit06.htm#page_51), [56](lit06.htm#page_56.md),
+[83](lit09.htm#page_83), [97](lit10.htm#page_97.md),
+[108](lit11.htm#page_108); how spoken, [48](lit05.htm#page_48.md); of fear,
+[47](lit05.htm#page_47.md); of four common error thoughts,
+[44](lit05.htm#page_44)-[46](lit05.htm#page_46.md); repetition of,
+[51](lit06.htm#page_51), specific usefulness of, [56](lit06.htm#page_56.md)
 
-denominations, [124](lit13.htm#page_124)
+denominations, [124](lit13.htm#page_124.md)
 
-deprivation, [39](lit05.htm#page_39)
+deprivation, [39](lit05.htm#page_39.md)
 
-desire(s), [22](lit03.htm#page_22), [31](lit04.htm#page_31),
-[43](lit05.htm#page_43), [47](lit05.htm#page_47),
-[49](lit05.htm#page_49), [50](lit06.htm#page_50),
-[54](lit06.htm#page_54), [57](lit06.htm#page_57),
-[64](lit07.htm#page_64), [65](lit07.htm#page_65),
-[66](lit07.htm#page_66), [67](lit07.htm#page_67),
-[68](lit07.htm#page_68), [78](lit09.htm#page_78),
-[80](lit09.htm#page_80), [84](lit09.htm#page_84),
-[86](lit09.htm#page_86), [90](lit10.htm#page_90),
-[96](lit10.htm#page_96), [99](lit10.htm#page_99),
-[100](lit11.htm#page_100), [101](lit11.htm#page_101),
-[105](lit11.htm#page_105), [107](lit11.htm#page_107),
-[114](lit12.htm#page_114), [115](lit12.htm#page_115),
-[121](lit12.htm#page_121)
+desire(s), [22](lit03.htm#page_22), [31](lit04.htm#page_31.md),
+[43](lit05.htm#page_43), [47](lit05.htm#page_47.md),
+[49](lit05.htm#page_49), [50](lit06.htm#page_50.md),
+[54](lit06.htm#page_54), [57](lit06.htm#page_57.md),
+[64](lit07.htm#page_64), [65](lit07.htm#page_65.md),
+[66](lit07.htm#page_66), [67](lit07.htm#page_67.md),
+[68](lit07.htm#page_68), [78](lit09.htm#page_78.md),
+[80](lit09.htm#page_80), [84](lit09.htm#page_84.md),
+[86](lit09.htm#page_86), [90](lit10.htm#page_90.md),
+[96](lit10.htm#page_96), [99](lit10.htm#page_99.md),
+[100](lit11.htm#page_100), [101](lit11.htm#page_101.md),
+[105](lit11.htm#page_105), [107](lit11.htm#page_107.md),
+[114](lit12.htm#page_114), [115](lit12.htm#page_115.md),
+[121](lit12.htm#page_121.md)
 
-destiny, [7](lit02.htm#page_7)
+destiny, [7](lit02.htm#page_7.md)
 
-Devil, [52](lit06.htm#page_52), [127](lit13.htm#page_127)
+Devil, [52](lit06.htm#page_52), [127](lit13.htm#page_127.md)
 
-difference(s), [124](lit13.htm#page_124), [125](lit13.htm#page_125)
+difference(s), [124](lit13.htm#page_124), [125](lit13.htm#page_125.md)
 
-digestion, [31](lit04.htm#page_31)
+digestion, [31](lit04.htm#page_31.md)
 
-disappointment, [22](lit03.htm#page_22), [38](lit05.htm#page_38)
+disappointment, [22](lit03.htm#page_22), [38](lit05.htm#page_38.md)
 
-discouragement, [31](lit04.htm#page_31), [61](lit07.htm#page_61),
-[74](lit08.htm#page_74), [102](lit11.htm#page_102),
-[109](lit11.htm#page_109), [118](lit12.htm#page_118)
+discouragement, [31](lit04.htm#page_31), [61](lit07.htm#page_61.md),
+[74](lit08.htm#page_74), [102](lit11.htm#page_102.md),
+[109](lit11.htm#page_109), [118](lit12.htm#page_118.md)
 
-disease, [34](lit04.htm#page_34)
+disease, [34](lit04.htm#page_34.md)
 
-dissatisfaction, [49](lit05.htm#page_49)
+dissatisfaction, [49](lit05.htm#page_49.md)
 
-diversity of gifts, [116](lit12.htm#page_116)-[117](lit12.htm#page_117),
-[121](lit12.htm#page_121), [122](lit12.htm#page_122)
+diversity of gifts, [116](lit12.htm#page_116)-[117](lit12.htm#page_117.md),
+[121](lit12.htm#page_121), [122](lit12.htm#page_122.md)
 
-Divine Mind, [26](lit04.htm#page_26), [29](lit04.htm#page_29)
+Divine Mind, [26](lit04.htm#page_26), [29](lit04.htm#page_29.md)
 
-divine plan, [43](lit05.htm#page_43)
+divine plan, [43](lit05.htm#page_43.md)
 
-divine presence, [114](lit12.htm#page_114), [119](lit12.htm#page_119)
+divine presence, [114](lit12.htm#page_114), [119](lit12.htm#page_119.md)
 
-divine spark, [66](lit07.htm#page_66)
+divine spark, [66](lit07.htm#page_66.md)
 
-Divine, prompting of within us, [49](lit05.htm#page_49)
+Divine, prompting of within us, [49](lit05.htm#page_49.md)
 
-divine voice, [80](lit09.htm#page_80)
+divine voice, [80](lit09.htm#page_80.md)
 
-divinity, [84](lit09.htm#page_84), [89](lit10.htm#page_89)
+divinity, [84](lit09.htm#page_84), [89](lit10.htm#page_89.md)
 
-doing, [11](lit02.htm#page_11), [50](lit06.htm#page_50)
+doing, [11](lit02.htm#page_11), [50](lit06.htm#page_50.md)
 
-dominion, man's, [7](lit02.htm#page_7), [10](lit02.htm#page_10),
-[20](lit03.htm#page_20), [58](lit06.htm#page_58),
-[66](lit07.htm#page_66)
+dominion, man's, [7](lit02.htm#page_7), [10](lit02.htm#page_10.md),
+[20](lit03.htm#page_20), [58](lit06.htm#page_58.md),
+[66](lit07.htm#page_66.md)
 
-doubt, [57](lit06.htm#page_57), [83](lit09.htm#page_83),
-[106](lit11.htm#page_106)
+doubt, [57](lit06.htm#page_57), [83](lit09.htm#page_83.md),
+[106](lit11.htm#page_106.md)
 
-dream, [81](lit09.htm#page_81)
+dream, [81](lit09.htm#page_81.md)
 
-education, [19](lit03.htm#page_19)
+education, [19](lit03.htm#page_19.md)
 
-Emerson, [9](lit02.htm#page_9), [68](lit07.htm#page_68),
-[70](lit07.htm#page_70),
-[71](lit08.htm#page_71)-[72](lit08.htm#page_72), [73](lit08.htm#page_73)
+Emerson, [9](lit02.htm#page_9), [68](lit07.htm#page_68.md),
+[70](lit07.htm#page_70.md),
+[71](lit08.htm#page_71)-[72](lit08.htm#page_72), [73](lit08.htm#page_73.md)
 
-emotional side, [90](lit10.htm#page_90)
+emotional side, [90](lit10.htm#page_90.md)
 
-energy, [99](lit10.htm#page_99)
+energy, [99](lit10.htm#page_99.md)
 
-environment, [14](lit02.htm#page_14), [15](lit02.htm#page_15)
+environment, [14](lit02.htm#page_14), [15](lit02.htm#page_15.md)
 
-envy, denial of, [47](lit05.htm#page_47), [82](lit09.htm#page_82)
+envy, denial of, [47](lit05.htm#page_47), [82](lit09.htm#page_82.md)
 
-equilibrium, [96](lit10.htm#page_96)
+equilibrium, [96](lit10.htm#page_96.md)
 
-error, [21](lit03.htm#page_21),
-[25](lit04.htm#page_25)-[26](lit04.htm#page_26),
-[53](lit06.htm#page_53), [125](lit13.htm#page_125)
+error, [21](lit03.htm#page_21.md),
+[25](lit04.htm#page_25)-[26](lit04.htm#page_26.md),
+[53](lit06.htm#page_53), [125](lit13.htm#page_125.md)
 
 error thoughts, four common,
-[44](lit05.htm#page_44)-[46](lit05.htm#page_46)
+[44](lit05.htm#page_44)-[46](lit05.htm#page_46.md)
 
-escape, [14](lit02.htm#page_14)
+escape, [14](lit02.htm#page_14.md)
 
-establishing the word, [51](lit06.htm#page_51)
+establishing the word, [51](lit06.htm#page_51.md)
 
-evil(s), [32](lit04.htm#page_32), [44](lit05.htm#page_44),
-[51](lit06.htm#page_51), [52](lit06.htm#page_52),
-[55](lit06.htm#page_55), [56](lit06.htm#page_56),
-[66](lit07.htm#page_66), [89](lit10.htm#page_89),
-[91](lit10.htm#page_91), [108](lit11.htm#page_108),
-[113](lit11.htm#page_113), [127](lit13.htm#page_127)
+evil(s), [32](lit04.htm#page_32), [44](lit05.htm#page_44.md),
+[51](lit06.htm#page_51), [52](lit06.htm#page_52.md),
+[55](lit06.htm#page_55), [56](lit06.htm#page_56.md),
+[66](lit07.htm#page_66), [89](lit10.htm#page_89.md),
+[91](lit10.htm#page_91), [108](lit11.htm#page_108.md),
+[113](lit11.htm#page_113), [127](lit13.htm#page_127.md)
 
-expectation, [111](lit11.htm#page_111), [112](lit11.htm#page_112)
+expectation, [111](lit11.htm#page_111), [112](lit11.htm#page_112.md)
 
-experience, [32](lit04.htm#page_32)
+experience, [32](lit04.htm#page_32.md)
 
 <span id="page_iv">p. iv</span>
 
-external, [22](lit03.htm#page_22), [25](lit04.htm#page_25),
-[32](lit04.htm#page_32), [37](lit04.htm#page_37),
-[39](lit05.htm#page_39), [53](lit06.htm#page_53),
-[54](lit06.htm#page_54), [71](lit08.htm#page_71),
-[78](lit09.htm#page_78), [82](lit09.htm#page_82),
-[94](lit10.htm#page_94), [103](lit11.htm#page_103),
-[109](lit11.htm#page_109), [128](lit13.htm#page_128)
+external, [22](lit03.htm#page_22), [25](lit04.htm#page_25.md),
+[32](lit04.htm#page_32), [37](lit04.htm#page_37.md),
+[39](lit05.htm#page_39), [53](lit06.htm#page_53.md),
+[54](lit06.htm#page_54), [71](lit08.htm#page_71.md),
+[78](lit09.htm#page_78), [82](lit09.htm#page_82.md),
+[94](lit10.htm#page_94), [103](lit11.htm#page_103.md),
+[109](lit11.htm#page_109), [128](lit13.htm#page_128.md)
 
-eye, single, [127](lit13.htm#page_127), [129](lit13.htm#page_129),
-[133](lit13.htm#page_133)
+eye, single, [127](lit13.htm#page_127), [129](lit13.htm#page_129.md),
+[133](lit13.htm#page_133.md)
 
-faculties, spiritual, [79](lit09.htm#page_79)
+faculties, spiritual, [79](lit09.htm#page_79.md)
 
-failure, seeming, [118](lit12.htm#page_118)-[119](lit12.htm#page_119),
-[122](lit12.htm#page_122), [130](lit13.htm#page_130)
+failure, seeming, [118](lit12.htm#page_118)-[119](lit12.htm#page_119.md),
+[122](lit12.htm#page_122), [130](lit13.htm#page_130.md)
 
-faith, [55](lit06.htm#page_55),
-[59](lit06.htm#page_59)-[69](lit07.htm#page_69),
-[80](lit09.htm#page_80), [97](lit10.htm#page_97),
-[106](lit11.htm#page_106), [107](lit11.htm#page_107),
-[108](lit11.htm#page_108), [114](lit12.htm#page_114),
-[116](lit12.htm#page_116), [125](lit13.htm#page_125); blind,
-[61](lit07.htm#page_61); understanding, [62](lit07.htm#page_62)
+faith, [55](lit06.htm#page_55.md),
+[59](lit06.htm#page_59)-[69](lit07.htm#page_69.md),
+[80](lit09.htm#page_80), [97](lit10.htm#page_97.md),
+[106](lit11.htm#page_106), [107](lit11.htm#page_107.md),
+[108](lit11.htm#page_108), [114](lit12.htm#page_114.md),
+[116](lit12.htm#page_116), [125](lit13.htm#page_125.md); blind,
+[61](lit07.htm#page_61); understanding, [62](lit07.htm#page_62.md)
 
-faith healer, [124](lit13.htm#page_124)
+faith healer, [124](lit13.htm#page_124.md)
 
-false accusation, [13](lit02.htm#page_13)
+false accusation, [13](lit02.htm#page_13.md)
 
-false beliefs, [8](lit02.htm#page_8), [14](lit02.htm#page_14),
-[51](lit06.htm#page_51); about God, [41](lit05.htm#page_41); arise only
-in human mind, [40](lit05.htm#page_40); can be changed
-[40](lit05.htm#page_40); consequence of, [40](lit05.htm#page_40)
+false beliefs, [8](lit02.htm#page_8), [14](lit02.htm#page_14.md),
+[51](lit06.htm#page_51); about God, [41](lit05.htm#page_41.md); arise only
+in human mind, [40](lit05.htm#page_40.md); can be changed
+[40](lit05.htm#page_40); consequence of, [40](lit05.htm#page_40.md)
 
-Father, access to, [23](lit03.htm#page_23), [91](lit10.htm#page_91);
-desire of, [96](lit10.htm#page_96); indwelling, [8](lit02.htm#page_8),
-[21](lit03.htm#page_21), [39](lit05.htm#page_39),
-[54](lit06.htm#page_54),
-[77](lit09.htm#page_77)-[78](lit09.htm#page_78),
-[79](lit09.htm#page_79), [91](lit10.htm#page_91),
-[93](lit10.htm#page_93), [94](lit10.htm#page_94),
-[99](lit10.htm#page_99), [102](lit11.htm#page_102),
-[104](lit11.htm#page_104), [111](lit11.htm#page_111),
-[114](lit12.htm#page_114), [124](lit13.htm#page_124),
-[128](lit13.htm#page_128), [129](lit13.htm#page_129),
-[130](lit13.htm#page_130), [131](lit13.htm#page_131),
-[132](lit13.htm#page_132), [133](lit13.htm#page_133); oneness with,
-[44](lit05.htm#page_44), [54](lit06.htm#page_54),
-[78](lit09.htm#page_78), [91](lit10.htm#page_91),
-[108](lit11.htm#page_108); receiving from, [96](lit10.htm#page_96),
-[110](lit11.htm#page_110); waiting upon, [101](lit11.htm#page_101),
-[109](lit11.htm#page_109)
+Father, access to, [23](lit03.htm#page_23), [91](lit10.htm#page_91.md);
+desire of, [96](lit10.htm#page_96); indwelling, [8](lit02.htm#page_8.md),
+[21](lit03.htm#page_21), [39](lit05.htm#page_39.md),
+[54](lit06.htm#page_54.md),
+[77](lit09.htm#page_77)-[78](lit09.htm#page_78.md),
+[79](lit09.htm#page_79), [91](lit10.htm#page_91.md),
+[93](lit10.htm#page_93), [94](lit10.htm#page_94.md),
+[99](lit10.htm#page_99), [102](lit11.htm#page_102.md),
+[104](lit11.htm#page_104), [111](lit11.htm#page_111.md),
+[114](lit12.htm#page_114), [124](lit13.htm#page_124.md),
+[128](lit13.htm#page_128), [129](lit13.htm#page_129.md),
+[130](lit13.htm#page_130), [131](lit13.htm#page_131.md),
+[132](lit13.htm#page_132), [133](lit13.htm#page_133.md); oneness with,
+[44](lit05.htm#page_44), [54](lit06.htm#page_54.md),
+[78](lit09.htm#page_78), [91](lit10.htm#page_91.md),
+[108](lit11.htm#page_108); receiving from, [96](lit10.htm#page_96.md),
+[110](lit11.htm#page_110); waiting upon, [101](lit11.htm#page_101.md),
+[109](lit11.htm#page_109.md)
 
-Father-Mother God, [22](lit03.htm#page_22), [35](lit04.htm#page_35),
-[65](lit07.htm#page_65), [130](lit13.htm#page_130),
-[132](lit13.htm#page_132), [133](lit13.htm#page_133)
+Father-Mother God, [22](lit03.htm#page_22), [35](lit04.htm#page_35.md),
+[65](lit07.htm#page_65), [130](lit13.htm#page_130.md),
+[132](lit13.htm#page_132), [133](lit13.htm#page_133.md)
 
-fear, [31](lit04.htm#page_31), [45](lit05.htm#page_45),
-[47](lit05.htm#page_47), [57](lit06.htm#page_57),
-[69](lit07.htm#page_69), [72](lit08.htm#page_72),
-[89](lit10.htm#page_89), [120](lit12.htm#page_120),
-[121](lit12.htm#page_121)
+fear, [31](lit04.htm#page_31), [45](lit05.htm#page_45.md),
+[47](lit05.htm#page_47), [57](lit06.htm#page_57.md),
+[69](lit07.htm#page_69), [72](lit08.htm#page_72.md),
+[89](lit10.htm#page_89), [120](lit12.htm#page_120.md),
+[121](lit12.htm#page_121.md)
 
-forgiveness, [13](lit02.htm#page_13), [82](lit09.htm#page_82)
+forgiveness, [13](lit02.htm#page_13), [82](lit09.htm#page_82.md)
 
-formulas, healing, [90](lit10.htm#page_90)
+formulas, healing, [90](lit10.htm#page_90.md)
 
-fountain(head), [13](lit02.htm#page_13), [23](lit03.htm#page_23),
-[33](lit04.htm#page_33), [47](lit05.htm#page_47),
-[53](lit06.htm#page_53)
+fountain(head), [13](lit02.htm#page_13), [23](lit03.htm#page_23.md),
+[33](lit04.htm#page_33), [47](lit05.htm#page_47.md),
+[53](lit06.htm#page_53.md)
 
-fowls, [105](lit11.htm#page_105)
+fowls, [105](lit11.htm#page_105.md)
 
-freedom, [47](lit05.htm#page_47), [58](lit06.htm#page_58),
-[113](lit11.htm#page_113), [131](lit13.htm#page_131)
+freedom, [47](lit05.htm#page_47), [58](lit06.htm#page_58.md),
+[113](lit11.htm#page_113), [131](lit13.htm#page_131.md)
 
-fulfillment, [67](lit07.htm#page_67), [100](lit11.htm#page_100),
-[101](lit11.htm#page_101), [105](lit11.htm#page_105),
-[107](lit11.htm#page_107), [132](lit13.htm#page_132)
+fulfillment, [67](lit07.htm#page_67), [100](lit11.htm#page_100.md),
+[101](lit11.htm#page_101), [105](lit11.htm#page_105.md),
+[107](lit11.htm#page_107), [132](lit13.htm#page_132.md)
 
-geology, [76](lit08.htm#page_76)
+geology, [76](lit08.htm#page_76.md)
 
-geometry, [62](lit07.htm#page_62)
+geometry, [62](lit07.htm#page_62.md)
 
-giants or pygmies, [119](lit12.htm#page_119)
+giants or pygmies, [119](lit12.htm#page_119.md)
 
-gift(s), [80](lit09.htm#page_80); diversity of,
-[116](lit12.htm#page_116)-[117](lit12.htm#page_117); spiritual,
-[113](lit11.htm#page_113)-[122](lit12.htm#page_122)
+gift(s), [80](lit09.htm#page_80.md); diversity of,
+[116](lit12.htm#page_116)-[117](lit12.htm#page_117.md); spiritual,
+[113](lit11.htm#page_113)-[122](lit12.htm#page_122.md)
 
-giving, [65](lit07.htm#page_65), [96](lit10.htm#page_96)
+giving, [65](lit07.htm#page_65), [96](lit10.htm#page_96.md)
 
-God, access to, [28](lit04.htm#page_28); as central sun,
-[62](lit07.htm#page_62); as creative cause, [16](lit02.htm#page_16),
-[64](lit07.htm#page_64), [91](lit10.htm#page_91); as invincible,
-[125](lit13.htm#page_125); as love, [18](lit03.htm#page_18),
-[52](lit06.htm#page_52), [54](lit06.htm#page_54),
-[71](lit08.htm#page_71), [92](lit10.htm#page_92),
-[100](lit11.htm#page_100); as Omnipotence, [32](lit04.htm#page_32),
-[52](lit06.htm#page_52), [54](lit06.htm#page_54),
-[93](lit10.htm#page_93), [116](lit12.htm#page_116),
-[128](lit13.htm#page_128); as perfect health, [80](lit09.htm#page_80);
-as personal being, [17](lit02.htm#page_17), [18](lit03.htm#page_18),
-[22](lit03.htm#page_22); as power, [19](lit03.htm#page_19),
-[71](lit08.htm#page_71); as Principle, [22](lit03.htm#page_22),
-[131](lit13.htm#page_131); as Spirit, [18](lit03.htm#page_18),
-[64](lit07.htm#page_64); as substance, [19](lit03.htm#page_19),
-[52](lit06.htm#page_52), [54](lit06.htm#page_54),
-[64](lit07.htm#page_64), [130](lit13.htm#page_130),
-[131](lit13.htm#page_131); as total of all good,
-[39](lit05.htm#page_39), [43](lit05.htm#page_43),
-[64](lit07.htm#page_64), [84](lit09.htm#page_84); as wisdom and
-intelligence, [19](lit03.htm#page_19), [52](lit06.htm#page_52),
-[54](lit06.htm#page_54), [71](lit08.htm#page_71); attitude unchanged,
-[55](lit06.htm#page_55), [103](lit11.htm#page_103); business of,
-[86](lit09.htm#page_86); but one, [18](lit03.htm#page_18); cannot be
-sick, hurt, afraid, [54](lit06.htm#page_54), [131](lit13.htm#page_131);
-children of, [9](lit02.htm#page_9); coming into visibility,
-[70](lit07.htm#page_70), [72](lit08.htm#page_72),
-[73](lit08.htm#page_73), [75](lit08.htm#page_75); consciousness of,
-[90](lit10.htm#page_90), [128](lit13.htm#page_128); control of our
-thoughts, [31](lit04.htm#page_31); cut off from,
-[83](lit09.htm#page_83); deep things of, [78](lit09.htm#page_78),
-[84](lit09.htm#page_84); desire of, [67](lit07.htm#page_67),
-[99](lit10.htm#page_99), [107](lit11.htm#page_107); displeasure of,
-[35](lit04.htm#page_35); expression of, [39](lit05.htm#page_39); gifts
-of, [84](lit09.htm#page_84), [118](lit12.htm#page_118),
-[125](lit13.htm#page_125); giver of all good gifts,
-[77](lit09.htm#page_77), [103](lit11.htm#page_103),
-[115](lit12.htm#page_115); happiness, health, and power from,
-[47](lit05.htm#page_47); has need of you, [75](lit08.htm#page_75); heart
-of, [65](lit07.htm#page_65);
+God, access to, [28](lit04.htm#page_28.md); as central sun,
+[62](lit07.htm#page_62); as creative cause, [16](lit02.htm#page_16.md),
+[64](lit07.htm#page_64), [91](lit10.htm#page_91.md); as invincible,
+[125](lit13.htm#page_125); as love, [18](lit03.htm#page_18.md),
+[52](lit06.htm#page_52), [54](lit06.htm#page_54.md),
+[71](lit08.htm#page_71), [92](lit10.htm#page_92.md),
+[100](lit11.htm#page_100); as Omnipotence, [32](lit04.htm#page_32.md),
+[52](lit06.htm#page_52), [54](lit06.htm#page_54.md),
+[93](lit10.htm#page_93), [116](lit12.htm#page_116.md),
+[128](lit13.htm#page_128); as perfect health, [80](lit09.htm#page_80.md);
+as personal being, [17](lit02.htm#page_17), [18](lit03.htm#page_18.md),
+[22](lit03.htm#page_22); as power, [19](lit03.htm#page_19.md),
+[71](lit08.htm#page_71); as Principle, [22](lit03.htm#page_22.md),
+[131](lit13.htm#page_131); as Spirit, [18](lit03.htm#page_18.md),
+[64](lit07.htm#page_64); as substance, [19](lit03.htm#page_19.md),
+[52](lit06.htm#page_52), [54](lit06.htm#page_54.md),
+[64](lit07.htm#page_64), [130](lit13.htm#page_130.md),
+[131](lit13.htm#page_131.md); as total of all good,
+[39](lit05.htm#page_39), [43](lit05.htm#page_43.md),
+[64](lit07.htm#page_64), [84](lit09.htm#page_84.md); as wisdom and
+intelligence, [19](lit03.htm#page_19), [52](lit06.htm#page_52.md),
+[54](lit06.htm#page_54), [71](lit08.htm#page_71.md); attitude unchanged,
+[55](lit06.htm#page_55), [103](lit11.htm#page_103.md); business of,
+[86](lit09.htm#page_86); but one, [18](lit03.htm#page_18.md); cannot be
+sick, hurt, afraid, [54](lit06.htm#page_54), [131](lit13.htm#page_131.md);
+children of, [9](lit02.htm#page_9.md); coming into visibility,
+[70](lit07.htm#page_70), [72](lit08.htm#page_72.md),
+[73](lit08.htm#page_73), [75](lit08.htm#page_75.md); consciousness of,
+[90](lit10.htm#page_90), [128](lit13.htm#page_128.md); control of our
+thoughts, [31](lit04.htm#page_31.md); cut off from,
+[83](lit09.htm#page_83); deep things of, [78](lit09.htm#page_78.md),
+[84](lit09.htm#page_84); desire of, [67](lit07.htm#page_67.md),
+[99](lit10.htm#page_99), [107](lit11.htm#page_107.md); displeasure of,
+[35](lit04.htm#page_35); expression of, [39](lit05.htm#page_39.md); gifts
+of, [84](lit09.htm#page_84), [118](lit12.htm#page_118.md),
+[125](lit13.htm#page_125.md); giver of all good gifts,
+[77](lit09.htm#page_77), [103](lit11.htm#page_103.md),
+[115](lit12.htm#page_115.md); happiness, health, and power from,
+[47](lit05.htm#page_47); has need of you, [75](lit08.htm#page_75.md); heart
+of, [65](lit07.htm#page_65.md);
 
 <span id="page_v">p. v</span>
 
-held by His own laws, [51](lit06.htm#page_51); how he regards man,
-[8](lit02.htm#page_8); human longing to know, [88](lit09.htm#page_88);
-immanent, [84](lit09.htm#page_84), [124](lit13.htm#page_124);
-impersonality of, [22](lit03.htm#page_22); indwelling,
-[15](lit02.htm#page_15), [88](lit09.htm#page_88),
-[91](lit10.htm#page_91), [104](lit11.htm#page_104),
-[124](lit13.htm#page_124), [129](lit13.htm#page_129); infinite supply
-of, [66](lit07.htm#page_66); in movement, [119](lit12.htm#page_119);
-inner presence of, [78](lit09.htm#page_78), [80](lit09.htm#page_80);
-invisible, [50](lit06.htm#page_50); law of His being,
-[34](lit04.htm#page_34); manifesting Himself through us,
-[55](lit06.htm#page_55), [82](lit09.htm#page_82),
-[91](lit10.htm#page_91), [122](lit12.htm#page_122),
-[124](lit13.htm#page_124); motherhood of, [133](lit13.htm#page_133);
-nature of, [37](lit04.htm#page_37); need not be beseeched,
-[34](lit04.htm#page_34),
-[79](lit09.htm#page_79)-[80](lit09.htm#page_80); never changes,
-[127](lit13.htm#page_127), [132](lit13.htm#page_132); not an autocrat,
-[7](lit02.htm#page_7); oneness with, [53](lit06.htm#page_53),
-[54](lit06.htm#page_54), [55](lit06.htm#page_55),
-[73](lit08.htm#page_73), [115](lit12.htm#page_115),
-[129](lit13.htm#page_129)-[130](lit13.htm#page_130); our attempts to
-limit, [123](lit12.htm#page_123); our desire and power to please,
-[31](lit04.htm#page_31), [61](lit07.htm#page_61); our relation to,
-[32](lit04.htm#page_32)-[33](lit04.htm#page_33); plans of,
-[52](lit06.htm#page_52); pleasing and placating,
-[37](lit04.htm#page_37); promises of, [65](lit07.htm#page_65); pushing
-on divine spark, [66](lit07.htm#page_66); quantity of, made manifest,
-[14](lit02.htm#page_14); revelation of, [76](lit08.htm#page_76),
-[80](lit09.htm#page_80), [84](lit09.htm#page_84),
-[92](lit10.htm#page_92), [93](lit10.htm#page_93); seeking,
-[79](lit09.htm#page_79), [82](lit09.htm#page_82),
-[96](lit10.htm#page_96), [99](lit10.htm#page_99); standard of faith,
-[61](lit07.htm#page_61); submission to, [49](lit05.htm#page_49); things
-joined together by, [62](lit07.htm#page_62); turning to in desperation,
-[38](lit05.htm#page_38), [113](lit11.htm#page_113); waiting upon,
-[95](lit10.htm#page_95), [96](lit10.htm#page_96),
-[100](lit11.htm#page_100), [102](lit11.htm#page_102),
-[104](lit11.htm#page_104), [105](lit11.htm#page_105),
-[109](lit11.htm#page_109), [110](lit11.htm#page_110),
-[117](lit12.htm#page_117), [120](lit12.htm#page_120); works in
-stillness, [101](lit11.htm#page_101); wrong thoughts about,
-[30](lit04.htm#page_30), [34](lit04.htm#page_34),
-[41](lit05.htm#page_41)
+held by His own laws, [51](lit06.htm#page_51.md); how he regards man,
+[8](lit02.htm#page_8); human longing to know, [88](lit09.htm#page_88.md);
+immanent, [84](lit09.htm#page_84), [124](lit13.htm#page_124.md);
+impersonality of, [22](lit03.htm#page_22.md); indwelling,
+[15](lit02.htm#page_15), [88](lit09.htm#page_88.md),
+[91](lit10.htm#page_91), [104](lit11.htm#page_104.md),
+[124](lit13.htm#page_124), [129](lit13.htm#page_129.md); infinite supply
+of, [66](lit07.htm#page_66); in movement, [119](lit12.htm#page_119.md);
+inner presence of, [78](lit09.htm#page_78), [80](lit09.htm#page_80.md);
+invisible, [50](lit06.htm#page_50.md); law of His being,
+[34](lit04.htm#page_34.md); manifesting Himself through us,
+[55](lit06.htm#page_55), [82](lit09.htm#page_82.md),
+[91](lit10.htm#page_91), [122](lit12.htm#page_122.md),
+[124](lit13.htm#page_124); motherhood of, [133](lit13.htm#page_133.md);
+nature of, [37](lit04.htm#page_37.md); need not be beseeched,
+[34](lit04.htm#page_34.md),
+[79](lit09.htm#page_79)-[80](lit09.htm#page_80.md); never changes,
+[127](lit13.htm#page_127), [132](lit13.htm#page_132.md); not an autocrat,
+[7](lit02.htm#page_7); oneness with, [53](lit06.htm#page_53.md),
+[54](lit06.htm#page_54), [55](lit06.htm#page_55.md),
+[73](lit08.htm#page_73), [115](lit12.htm#page_115.md),
+[129](lit13.htm#page_129)-[130](lit13.htm#page_130.md); our attempts to
+limit, [123](lit12.htm#page_123.md); our desire and power to please,
+[31](lit04.htm#page_31), [61](lit07.htm#page_61.md); our relation to,
+[32](lit04.htm#page_32)-[33](lit04.htm#page_33.md); plans of,
+[52](lit06.htm#page_52.md); pleasing and placating,
+[37](lit04.htm#page_37); promises of, [65](lit07.htm#page_65.md); pushing
+on divine spark, [66](lit07.htm#page_66.md); quantity of, made manifest,
+[14](lit02.htm#page_14); revelation of, [76](lit08.htm#page_76.md),
+[80](lit09.htm#page_80), [84](lit09.htm#page_84.md),
+[92](lit10.htm#page_92), [93](lit10.htm#page_93.md); seeking,
+[79](lit09.htm#page_79), [82](lit09.htm#page_82.md),
+[96](lit10.htm#page_96), [99](lit10.htm#page_99.md); standard of faith,
+[61](lit07.htm#page_61); submission to, [49](lit05.htm#page_49.md); things
+joined together by, [62](lit07.htm#page_62.md); turning to in desperation,
+[38](lit05.htm#page_38), [113](lit11.htm#page_113.md); waiting upon,
+[95](lit10.htm#page_95), [96](lit10.htm#page_96.md),
+[100](lit11.htm#page_100), [102](lit11.htm#page_102.md),
+[104](lit11.htm#page_104), [105](lit11.htm#page_105.md),
+[109](lit11.htm#page_109), [110](lit11.htm#page_110.md),
+[117](lit12.htm#page_117), [120](lit12.htm#page_120.md); works in
+stillness, [101](lit11.htm#page_101.md); wrong thoughts about,
+[30](lit04.htm#page_30), [34](lit04.htm#page_34.md),
+[41](lit05.htm#page_41.md)
 
-Godhood, realization of, [58](lit06.htm#page_58)
+Godhood, realization of, [58](lit06.htm#page_58.md)
 
-God-possessed, [73](lit08.htm#page_73)
+God-possessed, [73](lit08.htm#page_73.md)
 
-good, [19](lit03.htm#page_19), [32](lit04.htm#page_32),
-[33](lit04.htm#page_33), [50](lit06.htm#page_50),
-[52](lit06.htm#page_52), [55](lit06.htm#page_55),
-[57](lit06.htm#page_57), [62](lit07.htm#page_62),
-[64](lit07.htm#page_64), [66](lit07.htm#page_66),
-[67](lit07.htm#page_67), [80](lit09.htm#page_80),
-[84](lit09.htm#page_84), [101](lit11.htm#page_101),
-[103](lit11.htm#page_103), [107](lit11.htm#page_107),
-[108](lit11.htm#page_108),
-[114](lit12.htm#page_114)-[115](lit12.htm#page_115),
-[117](lit12.htm#page_117)-[118](lit12.htm#page_118),
-[126](lit13.htm#page_126), [127](lit13.htm#page_127); absence of,
-[43](lit05.htm#page_43)-[44](lit05.htm#page_44); all things working
-together for, [14](lit02.htm#page_14); invisible,
-[51](lit06.htm#page_51); God is total of, [18](lit03.htm#page_18),
-[39](lit05.htm#page_39)
+good, [19](lit03.htm#page_19), [32](lit04.htm#page_32.md),
+[33](lit04.htm#page_33), [50](lit06.htm#page_50.md),
+[52](lit06.htm#page_52), [55](lit06.htm#page_55.md),
+[57](lit06.htm#page_57), [62](lit07.htm#page_62.md),
+[64](lit07.htm#page_64), [66](lit07.htm#page_66.md),
+[67](lit07.htm#page_67), [80](lit09.htm#page_80.md),
+[84](lit09.htm#page_84), [101](lit11.htm#page_101.md),
+[103](lit11.htm#page_103), [107](lit11.htm#page_107.md),
+[108](lit11.htm#page_108.md),
+[114](lit12.htm#page_114)-[115](lit12.htm#page_115.md),
+[117](lit12.htm#page_117)-[118](lit12.htm#page_118.md),
+[126](lit13.htm#page_126), [127](lit13.htm#page_127.md); absence of,
+[43](lit05.htm#page_43)-[44](lit05.htm#page_44.md); all things working
+together for, [14](lit02.htm#page_14.md); invisible,
+[51](lit06.htm#page_51); God is total of, [18](lit03.htm#page_18.md),
+[39](lit05.htm#page_39.md)
 
-gospel, [130](lit13.htm#page_130), [131](lit13.htm#page_131)
+gospel, [130](lit13.htm#page_130), [131](lit13.htm#page_131.md)
 
-grain, [118](lit12.htm#page_118), [119](lit12.htm#page_119)
+grain, [118](lit12.htm#page_118), [119](lit12.htm#page_119.md)
 
-gratification, [40](lit05.htm#page_40)
+gratification, [40](lit05.htm#page_40.md)
 
-growth, [32](lit04.htm#page_32), [48](lit05.htm#page_48),
-[81](lit09.htm#page_81), [85](lit09.htm#page_85),
-[86](lit09.htm#page_86), [96](lit10.htm#page_96),
-[108](lit11.htm#page_108); through prayer, [44](lit05.htm#page_44)
+growth, [32](lit04.htm#page_32), [48](lit05.htm#page_48.md),
+[81](lit09.htm#page_81), [85](lit09.htm#page_85.md),
+[86](lit09.htm#page_86), [96](lit10.htm#page_96.md),
+[108](lit11.htm#page_108); through prayer, [44](lit05.htm#page_44.md)
 
-guidance, [84](lit09.htm#page_84), [118](lit12.htm#page_118)
+guidance, [84](lit09.htm#page_84), [118](lit12.htm#page_118.md)
 
-Hale, [101](lit11.htm#page_101)
+Hale, [101](lit11.htm#page_101.md)
 
-happiness, [47](lit05.htm#page_47), [65](lit07.htm#page_65),
-[107](lit11.htm#page_107)
+happiness, [47](lit05.htm#page_47), [65](lit07.htm#page_65.md),
+[107](lit11.htm#page_107.md)
 
-harm, safe from, [91](lit10.htm#page_91)
+harm, safe from, [91](lit10.htm#page_91.md)
 
-harmony, [13](lit02.htm#page_13), [31](lit04.htm#page_31),
-[53](lit06.htm#page_53)-[54](lit06.htm#page_54), [96](lit10.htm#page_96)
+harmony, [13](lit02.htm#page_13), [31](lit04.htm#page_31.md),
+[53](lit06.htm#page_53)-[54](lit06.htm#page_54), [96](lit10.htm#page_96.md)
 
-healer(s), [84](lit09.htm#page_84), [112](lit11.htm#page_112)
+healer(s), [84](lit09.htm#page_84), [112](lit11.htm#page_112.md)
 
-healing, [114](lit12.htm#page_114), [115](lit12.htm#page_115),
-[116](lit12.htm#page_116), [117](lit12.htm#page_117),
-[119](lit12.htm#page_119), [121](lit12.htm#page_121),
-[125](lit13.htm#page_125)
+healing, [114](lit12.htm#page_114), [115](lit12.htm#page_115.md),
+[116](lit12.htm#page_116), [117](lit12.htm#page_117.md),
+[119](lit12.htm#page_119), [121](lit12.htm#page_121.md),
+[125](lit13.htm#page_125.md)
 
-health, [47](lit05.htm#page_47), [55](lit06.htm#page_55),
-[66](lit07.htm#page_66), [76](lit08.htm#page_76),
-[77](lit09.htm#page_77), [80](lit09.htm#page_80),
-[82](lit09.htm#page_82), [90](lit10.htm#page_90),
-[91](lit10.htm#page_91), [92](lit10.htm#page_92),
-[99](lit10.htm#page_99), [110](lit11.htm#page_110),
-[114](lit12.htm#page_114)
+health, [47](lit05.htm#page_47), [55](lit06.htm#page_55.md),
+[66](lit07.htm#page_66), [76](lit08.htm#page_76.md),
+[77](lit09.htm#page_77), [80](lit09.htm#page_80.md),
+[82](lit09.htm#page_82), [90](lit10.htm#page_90.md),
+[91](lit10.htm#page_91), [92](lit10.htm#page_92.md),
+[99](lit10.htm#page_99), [110](lit11.htm#page_110.md),
+[114](lit12.htm#page_114.md)
 
-heart, [31](lit04.htm#page_31), [66](lit07.htm#page_66),
-[67](lit07.htm#page_67)-[68](lit07.htm#page_68),
-[76](lit08.htm#page_76), [82](lit09.htm#page_82),
-[83](lit09.htm#page_83), [88](lit09.htm#page_88),
-[104](lit11.htm#page_104), [113](lit11.htm#page_113),
-[116](lit12.htm#page_116), [130](lit13.htm#page_130)
+heart, [31](lit04.htm#page_31), [66](lit07.htm#page_66.md),
+[67](lit07.htm#page_67)-[68](lit07.htm#page_68.md),
+[76](lit08.htm#page_76), [82](lit09.htm#page_82.md),
+[83](lit09.htm#page_83), [88](lit09.htm#page_88.md),
+[104](lit11.htm#page_104), [113](lit11.htm#page_113.md),
+[116](lit12.htm#page_116), [130](lit13.htm#page_130.md)
 
-heirs, [9](lit02.htm#page_9)
+heirs, [9](lit02.htm#page_9.md)
 
-Holy One, [117](lit12.htm#page_117)
+Holy One, [117](lit12.htm#page_117.md)
 
-Holy Spirit, [86](lit09.htm#page_86), [100](lit11.htm#page_100),
-[117](lit12.htm#page_117), [119](lit12.htm#page_119),
-[128](lit13.htm#page_128), [132](lit13.htm#page_132)
+Holy Spirit, [86](lit09.htm#page_86), [100](lit11.htm#page_100.md),
+[117](lit12.htm#page_117), [119](lit12.htm#page_119.md),
+[128](lit13.htm#page_128), [132](lit13.htm#page_132.md)
 
-homesickness, [88](lit09.htm#page_88)
+homesickness, [88](lit09.htm#page_88.md)
 
-hunger, [22](lit03.htm#page_22), [84](lit09.htm#page_84),
-[88](lit09.htm#page_88), [99](lit10.htm#page_99)
+hunger, [22](lit03.htm#page_22), [84](lit09.htm#page_84.md),
+[88](lit09.htm#page_88), [99](lit10.htm#page_99.md)
 
-hymn, [103](lit11.htm#page_103)
+hymn, [103](lit11.htm#page_103.md)
 
 <span id="page_vi">p. vi</span>
 
-hypnotism, [77](lit09.htm#page_77)
+hypnotism, [77](lit09.htm#page_77.md)
 
-I, [21](lit03.htm#page_21), [23](lit03.htm#page_23),
-[25](lit04.htm#page_25), [125](lit13.htm#page_125),
-[128](lit13.htm#page_128)
+I, [21](lit03.htm#page_21), [23](lit03.htm#page_23.md),
+[25](lit04.htm#page_25), [125](lit13.htm#page_125.md),
+[128](lit13.htm#page_128.md)
 
-I AM, [97](lit10.htm#page_97)
+I AM, [97](lit10.htm#page_97.md)
 
-ideas, [70](lit07.htm#page_70)
+ideas, [70](lit07.htm#page_70.md)
 
-idleness, [11](lit02.htm#page_11)
+idleness, [11](lit02.htm#page_11.md)
 
-ignorance, [34](lit04.htm#page_34), [37](lit04.htm#page_37),
-[53](lit06.htm#page_53), [86](lit09.htm#page_86),
-[120](lit12.htm#page_120), [124](lit13.htm#page_124)
+ignorance, [34](lit04.htm#page_34), [37](lit04.htm#page_37.md),
+[53](lit06.htm#page_53), [86](lit09.htm#page_86.md),
+[120](lit12.htm#page_120), [124](lit13.htm#page_124.md)
 
-illumination, [30](lit04.htm#page_30), [95](lit10.htm#page_95),
-[96](lit10.htm#page_96), [100](lit11.htm#page_100),
-[127](lit13.htm#page_127)
+illumination, [30](lit04.htm#page_30), [95](lit10.htm#page_95.md),
+[96](lit10.htm#page_96), [100](lit11.htm#page_100.md),
+[127](lit13.htm#page_127.md)
 
-ill will, [46](lit05.htm#page_46)
+ill will, [46](lit05.htm#page_46.md)
 
-immunity, [89](lit10.htm#page_89)
+immunity, [89](lit10.htm#page_89.md)
 
-imperfection, [82](lit09.htm#page_82)
+imperfection, [82](lit09.htm#page_82.md)
 
-importuning, [53](lit06.htm#page_53), [125](lit13.htm#page_125)
+importuning, [53](lit06.htm#page_53), [125](lit13.htm#page_125.md)
 
-individual(ity), [24](lit03.htm#page_24), [32](lit04.htm#page_32),
-[33](lit04.htm#page_33),
-[70](lit07.htm#page_70)-[75](lit08.htm#page_75),
-[111](lit11.htm#page_111), [132](lit13.htm#page_132),
-[133](lit13.htm#page_133)
+individual(ity), [24](lit03.htm#page_24), [32](lit04.htm#page_32.md),
+[33](lit04.htm#page_33.md),
+[70](lit07.htm#page_70)-[75](lit08.htm#page_75.md),
+[111](lit11.htm#page_111), [132](lit13.htm#page_132.md),
+[133](lit13.htm#page_133.md)
 
-induement of power, [96](lit10.htm#page_96), [100](lit11.htm#page_100)
+induement of power, [96](lit10.htm#page_96), [100](lit11.htm#page_100.md)
 
-inefficiency, [53](lit06.htm#page_53), [57](lit06.htm#page_57),
-[72](lit08.htm#page_72)
+inefficiency, [53](lit06.htm#page_53), [57](lit06.htm#page_57.md),
+[72](lit08.htm#page_72.md)
 
-inharmony, [13](lit02.htm#page_13)
+inharmony, [13](lit02.htm#page_13.md)
 
-inheritance, [9](lit02.htm#page_9)
+inheritance, [9](lit02.htm#page_9.md)
 
-inlet, [9](lit02.htm#page_9), [86](lit09.htm#page_86)
+inlet, [9](lit02.htm#page_9), [86](lit09.htm#page_86.md)
 
-inner presence, [78](lit09.htm#page_78)
+inner presence, [78](lit09.htm#page_78.md)
 
-inner working, [89](lit10.htm#page_89), [93](lit10.htm#page_93)
+inner working, [89](lit10.htm#page_89), [93](lit10.htm#page_93.md)
 
-insight, spiritual, [86](lit09.htm#page_86), [95](lit10.htm#page_95)
+insight, spiritual, [86](lit09.htm#page_86), [95](lit10.htm#page_95.md)
 
-inspiration, [57](lit06.htm#page_57)
+inspiration, [57](lit06.htm#page_57.md)
 
-intellect, [7](lit02.htm#page_7), [9](lit02.htm#page_9),
-[25](lit04.htm#page_25), [27](lit04.htm#page_27),
-[28](lit04.htm#page_28), [34](lit04.htm#page_34),
-[71](lit08.htm#page_71), [75](lit08.htm#page_75),
-[82](lit09.htm#page_82), [90](lit10.htm#page_90),
-[94](lit10.htm#page_94), [95](lit10.htm#page_95),
-[132](lit13.htm#page_132)
+intellect, [7](lit02.htm#page_7), [9](lit02.htm#page_9.md),
+[25](lit04.htm#page_25), [27](lit04.htm#page_27.md),
+[28](lit04.htm#page_28), [34](lit04.htm#page_34.md),
+[71](lit08.htm#page_71), [75](lit08.htm#page_75.md),
+[82](lit09.htm#page_82), [90](lit10.htm#page_90.md),
+[94](lit10.htm#page_94), [95](lit10.htm#page_95.md),
+[132](lit13.htm#page_132.md)
 
-intellectual perception, [29](lit04.htm#page_29),
-[44](lit05.htm#page_44), [59](lit06.htm#page_59),
-[76](lit08.htm#page_76), [79](lit09.htm#page_79),
-[82](lit09.htm#page_82), [90](lit10.htm#page_90)
+intellectual perception, [29](lit04.htm#page_29.md),
+[44](lit05.htm#page_44), [59](lit06.htm#page_59.md),
+[76](lit08.htm#page_76), [79](lit09.htm#page_79.md),
+[82](lit09.htm#page_82), [90](lit10.htm#page_90.md)
 
-intelligence, God is, [19](lit03.htm#page_19); no absence of,
-[44](lit05.htm#page_44)
+intelligence, God is, [19](lit03.htm#page_19.md); no absence of,
+[44](lit05.htm#page_44.md)
 
-intolerance, [56](lit06.htm#page_56)
+intolerance, [56](lit06.htm#page_56.md)
 
-introspection, [85](lit09.htm#page_85), [96](lit10.htm#page_96)
+introspection, [85](lit09.htm#page_85), [96](lit10.htm#page_96.md)
 
-intuition, [62](lit07.htm#page_62), [76](lit08.htm#page_76),
-[90](lit10.htm#page_90), [93](lit10.htm#page_93),
-[94](lit10.htm#page_94)
+intuition, [62](lit07.htm#page_62), [76](lit08.htm#page_76.md),
+[90](lit10.htm#page_90), [93](lit10.htm#page_93.md),
+[94](lit10.htm#page_94.md)
 
-invisible, [60](lit07.htm#page_60), [68](lit07.htm#page_68),
-[79](lit09.htm#page_79), [121](lit12.htm#page_121),
-[125](lit13.htm#page_125)
+invisible, [60](lit07.htm#page_60), [68](lit07.htm#page_68.md),
+[79](lit09.htm#page_79), [121](lit12.htm#page_121.md),
+[125](lit13.htm#page_125.md)
 
-Isreal, Children of, [6](lit02.htm#page_6)
+Isreal, Children of, [6](lit02.htm#page_6.md)
 
-jealousy, denial of, [46](lit05.htm#page_46), [82](lit09.htm#page_82)
+jealousy, denial of, [46](lit05.htm#page_46), [82](lit09.htm#page_82.md)
 
-Jericho, walls of, [15](lit02.htm#page_15)
+Jericho, walls of, [15](lit02.htm#page_15.md)
 
-Jesus, as healer, [115](lit12.htm#page_115); as seeming failure,
-[118](lit12.htm#page_118)-[119](lit12.htm#page_119); communed with
-Father, [110](lit11.htm#page_110); purpose of teachings of,
-[78](lit09.htm#page_78); questions based on intuition,
-[76](lit08.htm#page_76); talked with Mary, [93](lit10.htm#page_93);
-teachings of, [82](lit09.htm#page_82), [85](lit09.htm#page_85),
-[86](lit09.htm#page_86); treatments for illumination,
-[95](lit10.htm#page_95); typifies divine self of individuality,
-[71](lit08.htm#page_71)
+Jesus, as healer, [115](lit12.htm#page_115.md); as seeming failure,
+[118](lit12.htm#page_118)-[119](lit12.htm#page_119.md); communed with
+Father, [110](lit11.htm#page_110.md); purpose of teachings of,
+[78](lit09.htm#page_78.md); questions based on intuition,
+[76](lit08.htm#page_76); talked with Mary, [93](lit10.htm#page_93.md);
+teachings of, [82](lit09.htm#page_82), [85](lit09.htm#page_85.md),
+[86](lit09.htm#page_86.md); treatments for illumination,
+[95](lit10.htm#page_95.md); typifies divine self of individuality,
+[71](lit08.htm#page_71.md)
 
-John the Baptist, [71](lit08.htm#page_71)
+John the Baptist, [71](lit08.htm#page_71.md)
 
-joy, [55](lit06.htm#page_55), [65](lit07.htm#page_65),
-[84](lit09.htm#page_84), [88](lit09.htm#page_88),
-[107](lit11.htm#page_107), [111](lit11.htm#page_111),
-[127](lit13.htm#page_127); spring of, [8](lit02.htm#page_8),
-[77](lit09.htm#page_77)
+joy, [55](lit06.htm#page_55), [65](lit07.htm#page_65.md),
+[84](lit09.htm#page_84), [88](lit09.htm#page_88.md),
+[107](lit11.htm#page_107), [111](lit11.htm#page_111.md),
+[127](lit13.htm#page_127); spring of, [8](lit02.htm#page_8.md),
+[77](lit09.htm#page_77.md)
 
-kingdom of heaven, [27](lit04.htm#page_27), [78](lit09.htm#page_78)
+kingdom of heaven, [27](lit04.htm#page_27), [78](lit09.htm#page_78.md)
 
 <span id="page_vii">p. vii</span>
 
-knowledge, of spiritual things, [26](lit04.htm#page_26),
-[49](lit05.htm#page_49), [90](lit10.htm#page_90),
-[110](lit11.htm#page_110), [128](lit13.htm#page_128); of the Father,
-[91](lit10.htm#page_91), [124](lit13.htm#page_124); source of,
-[19](lit03.htm#page_19); spiritual, [11](lit02.htm#page_11)
+knowledge, of spiritual things, [26](lit04.htm#page_26.md),
+[49](lit05.htm#page_49), [90](lit10.htm#page_90.md),
+[110](lit11.htm#page_110), [128](lit13.htm#page_128.md); of the Father,
+[91](lit10.htm#page_91), [124](lit13.htm#page_124.md); source of,
+[19](lit03.htm#page_19); spiritual, [11](lit02.htm#page_11.md)
 
-lack, [65](lit07.htm#page_65), [97](lit10.htm#page_97)
+lack, [65](lit07.htm#page_65), [97](lit10.htm#page_97.md)
 
-law, [30](lit04.htm#page_30),
-[62](lit07.htm#page_62)-[64](lit07.htm#page_64),
-[68](lit07.htm#page_68), [127](lit13.htm#page_127),
-[131](lit13.htm#page_131)-[132](lit13.htm#page_132); divine,
-[7](lit02.htm#page_7), [10](lit02.htm#page_10), [34](lit04.htm#page_34),
-[51](lit06.htm#page_51), [53](lit06.htm#page_53),
-[67](lit07.htm#page_67), [69](lit07.htm#page_69),
-[86](lit09.htm#page_86), [132](lit13.htm#page_132); of demand and
-supply, [49](lit05.htm#page_49), [65](lit07.htm#page_65),
-[67](lit07.htm#page_67), [105](lit11.htm#page_105)
+law, [30](lit04.htm#page_30.md),
+[62](lit07.htm#page_62)-[64](lit07.htm#page_64.md),
+[68](lit07.htm#page_68), [127](lit13.htm#page_127.md),
+[131](lit13.htm#page_131)-[132](lit13.htm#page_132.md); divine,
+[7](lit02.htm#page_7), [10](lit02.htm#page_10), [34](lit04.htm#page_34.md),
+[51](lit06.htm#page_51), [53](lit06.htm#page_53.md),
+[67](lit07.htm#page_67), [69](lit07.htm#page_69.md),
+[86](lit09.htm#page_86), [132](lit13.htm#page_132.md); of demand and
+supply, [49](lit05.htm#page_49), [65](lit07.htm#page_65.md),
+[67](lit07.htm#page_67), [105](lit11.htm#page_105.md)
 
-lesson, [120](lit12.htm#page_120)
+lesson, [120](lit12.htm#page_120.md)
 
-life, [77](lit09.htm#page_77), [78](lit09.htm#page_78),
-[80](lit09.htm#page_80), [90](lit10.htm#page_90),
-[92](lit10.htm#page_92), [95](lit10.htm#page_95),
-[97](lit10.htm#page_97), [100](lit11.htm#page_100),
-[113](lit11.htm#page_113), [120](lit12.htm#page_120),
-[121](lit12.htm#page_121), [132](lit13.htm#page_132); higher,
-[84](lit09.htm#page_84); new, [83](lit09.htm#page_83),
-[110](lit11.htm#page_110), [119](lit12.htm#page_119); no absence of,
-[44](lit05.htm#page_44); of God, [34](lit04.htm#page_34); of Spirit,
-[13](lit02.htm#page_13), [129](lit13.htm#page_129); renewing of,
-[104](lit11.htm#page_104); Source of, [53](lit06.htm#page_53)
+life, [77](lit09.htm#page_77), [78](lit09.htm#page_78.md),
+[80](lit09.htm#page_80), [90](lit10.htm#page_90.md),
+[92](lit10.htm#page_92), [95](lit10.htm#page_95.md),
+[97](lit10.htm#page_97), [100](lit11.htm#page_100.md),
+[113](lit11.htm#page_113), [120](lit12.htm#page_120.md),
+[121](lit12.htm#page_121), [132](lit13.htm#page_132.md); higher,
+[84](lit09.htm#page_84); new, [83](lit09.htm#page_83.md),
+[110](lit11.htm#page_110), [119](lit12.htm#page_119.md); no absence of,
+[44](lit05.htm#page_44); of God, [34](lit04.htm#page_34.md); of Spirit,
+[13](lit02.htm#page_13), [129](lit13.htm#page_129.md); renewing of,
+[104](lit11.htm#page_104); Source of, [53](lit06.htm#page_53.md)
 
-light, [28](lit04.htm#page_28), [62](lit07.htm#page_62),
-[83](lit09.htm#page_83), [84](lit09.htm#page_84),
-[87](lit09.htm#page_87), [90](lit10.htm#page_90),
-[94](lit10.htm#page_94), [95](lit10.htm#page_95),
-[96](lit10.htm#page_96), [97](lit10.htm#page_97),
-[99](lit10.htm#page_99), [100](lit11.htm#page_100),
-[124](lit13.htm#page_124),
-[126](lit13.htm#page_126)-[127](lit13.htm#page_127),
-[129](lit13.htm#page_129)
+light, [28](lit04.htm#page_28), [62](lit07.htm#page_62.md),
+[83](lit09.htm#page_83), [84](lit09.htm#page_84.md),
+[87](lit09.htm#page_87), [90](lit10.htm#page_90.md),
+[94](lit10.htm#page_94), [95](lit10.htm#page_95.md),
+[96](lit10.htm#page_96), [97](lit10.htm#page_97.md),
+[99](lit10.htm#page_99), [100](lit11.htm#page_100.md),
+[124](lit13.htm#page_124.md),
+[126](lit13.htm#page_126)-[127](lit13.htm#page_127.md),
+[129](lit13.htm#page_129.md)
 
-limitation(s), [22](lit03.htm#page_22), [107](lit11.htm#page_107),
-[115](lit12.htm#page_115), [119](lit12.htm#page_119),
-[123](lit12.htm#page_123), [124](lit13.htm#page_124),
-[130](lit13.htm#page_130)
+limitation(s), [22](lit03.htm#page_22), [107](lit11.htm#page_107.md),
+[115](lit12.htm#page_115), [119](lit12.htm#page_119.md),
+[123](lit12.htm#page_123), [124](lit13.htm#page_124.md),
+[130](lit13.htm#page_130.md)
 
-Lord, [111](lit11.htm#page_111), [112](lit11.htm#page_112),
-[129](lit13.htm#page_129), [133](lit13.htm#page_133)
+Lord, [111](lit11.htm#page_111), [112](lit11.htm#page_112.md),
+[129](lit13.htm#page_129), [133](lit13.htm#page_133.md)
 
-love, [11](lit02.htm#page_11), [13](lit02.htm#page_13),
-[66](lit07.htm#page_66), [68](lit07.htm#page_68),
-[77](lit09.htm#page_77), [78](lit09.htm#page_78),
-[80](lit09.htm#page_80), [82](lit09.htm#page_82),
-[92](lit10.htm#page_92), [97](lit10.htm#page_97),
-[99](lit10.htm#page_99), [100](lit11.htm#page_100),
-[107](lit11.htm#page_107), [111](lit11.htm#page_111),
-[114](lit12.htm#page_114), [116](lit12.htm#page_116),
-[117](lit12.htm#page_117), [132](lit13.htm#page_132); God is,
-[18](lit03.htm#page_18), [43](lit05.htm#page_43),
-[100](lit11.htm#page_100); law of, [7](lit02.htm#page_7); new,
-[83](lit09.htm#page_83); of parents, [32](lit04.htm#page_32),
-[133](lit13.htm#page_133); universal, [21](lit03.htm#page_21)
+love, [11](lit02.htm#page_11), [13](lit02.htm#page_13.md),
+[66](lit07.htm#page_66), [68](lit07.htm#page_68.md),
+[77](lit09.htm#page_77), [78](lit09.htm#page_78.md),
+[80](lit09.htm#page_80), [82](lit09.htm#page_82.md),
+[92](lit10.htm#page_92), [97](lit10.htm#page_97.md),
+[99](lit10.htm#page_99), [100](lit11.htm#page_100.md),
+[107](lit11.htm#page_107), [111](lit11.htm#page_111.md),
+[114](lit12.htm#page_114), [116](lit12.htm#page_116.md),
+[117](lit12.htm#page_117), [132](lit13.htm#page_132.md); God is,
+[18](lit03.htm#page_18), [43](lit05.htm#page_43.md),
+[100](lit11.htm#page_100); law of, [7](lit02.htm#page_7.md); new,
+[83](lit09.htm#page_83); of parents, [32](lit04.htm#page_32.md),
+[133](lit13.htm#page_133); universal, [21](lit03.htm#page_21.md)
 
-man, composite, [25](lit04.htm#page_25); deals directly with Father,
-[91](lit10.htm#page_91); highest manifestation, [20](lit03.htm#page_20);
-inner, [71](lit08.htm#page_71); intellectual, [30](lit04.htm#page_30),
-[39](lit05.htm#page_39), [94](lit10.htm#page_94); outer,
-[71](lit08.htm#page_71), [72](lit08.htm#page_72),
-[78](lit09.htm#page_78); purpose of, [96](lit10.htm#page_96); servant or
-child of God, [8](lit02.htm#page_8); ultimate aim of,
-[15](lit02.htm#page_15)
+man, composite, [25](lit04.htm#page_25.md); deals directly with Father,
+[91](lit10.htm#page_91); highest manifestation, [20](lit03.htm#page_20.md);
+inner, [71](lit08.htm#page_71); intellectual, [30](lit04.htm#page_30.md),
+[39](lit05.htm#page_39), [94](lit10.htm#page_94.md); outer,
+[71](lit08.htm#page_71), [72](lit08.htm#page_72.md),
+[78](lit09.htm#page_78); purpose of, [96](lit10.htm#page_96.md); servant or
+child of God, [8](lit02.htm#page_8.md); ultimate aim of,
+[15](lit02.htm#page_15.md)
 
-manhood, spiritual, [32](lit04.htm#page_32)
+manhood, spiritual, [32](lit04.htm#page_32.md)
 
-manifestation(s), [19](lit03.htm#page_19)-[20](lit03.htm#page_20),
-[21](lit03.htm#page_21), [24](lit03.htm#page_24),
-[43](lit05.htm#page_43), [53](lit06.htm#page_53),
-[54](lit06.htm#page_54), [64](lit07.htm#page_64),
-[68](lit07.htm#page_68), [70](lit07.htm#page_70),
-[91](lit10.htm#page_91), [93](lit10.htm#page_93),
-[94](lit10.htm#page_94), [99](lit10.htm#page_99),
-[100](lit11.htm#page_100), [106](lit11.htm#page_106),
-[109](lit11.htm#page_109), [111](lit11.htm#page_111),
-[114](lit12.htm#page_114), [116](lit12.htm#page_116),
-[117](lit12.htm#page_117), [119](lit12.htm#page_119),
-[121](lit12.htm#page_121),
-[124](lit13.htm#page_124)-[125](lit13.htm#page_125),
-[128](lit13.htm#page_128), [132](lit13.htm#page_132),
-[133](lit13.htm#page_133)
+manifestation(s), [19](lit03.htm#page_19)-[20](lit03.htm#page_20.md),
+[21](lit03.htm#page_21), [24](lit03.htm#page_24.md),
+[43](lit05.htm#page_43), [53](lit06.htm#page_53.md),
+[54](lit06.htm#page_54), [64](lit07.htm#page_64.md),
+[68](lit07.htm#page_68), [70](lit07.htm#page_70.md),
+[91](lit10.htm#page_91), [93](lit10.htm#page_93.md),
+[94](lit10.htm#page_94), [99](lit10.htm#page_99.md),
+[100](lit11.htm#page_100), [106](lit11.htm#page_106.md),
+[109](lit11.htm#page_109), [111](lit11.htm#page_111.md),
+[114](lit12.htm#page_114), [116](lit12.htm#page_116.md),
+[117](lit12.htm#page_117), [119](lit12.htm#page_119.md),
+[121](lit12.htm#page_121.md),
+[124](lit13.htm#page_124)-[125](lit13.htm#page_125.md),
+[128](lit13.htm#page_128), [132](lit13.htm#page_132.md),
+[133](lit13.htm#page_133.md)
 
-Mary, [93](lit10.htm#page_93)
+Mary, [93](lit10.htm#page_93.md)
 
-mathematics, [62](lit07.htm#page_62)
+mathematics, [62](lit07.htm#page_62.md)
 
-mechanical steps to spiritual life, [48](lit05.htm#page_48),
-[50](lit06.htm#page_50)
+mechanical steps to spiritual life, [48](lit05.htm#page_48.md),
+[50](lit06.htm#page_50.md)
 
-meditation, [11](lit02.htm#page_11), [109](lit11.htm#page_109)
+meditation, [11](lit02.htm#page_11), [109](lit11.htm#page_109.md)
 
-meekness, [13](lit02.htm#page_13)
+meekness, [13](lit02.htm#page_13.md)
 
-memory, [54](lit06.htm#page_54), [56](lit06.htm#page_56)
+memory, [54](lit06.htm#page_54), [56](lit06.htm#page_56.md)
 
-mental scientist, [125](lit13.htm#page_125)
+mental scientist, [125](lit13.htm#page_125.md)
 
-mental side, [90](lit10.htm#page_90), [97](lit10.htm#page_97)
+mental side, [90](lit10.htm#page_90), [97](lit10.htm#page_97.md)
 
-metaphysics, [27](lit04.htm#page_27), [70](lit07.htm#page_70),
-[126](lit13.htm#page_126), [127](lit13.htm#page_127),
-[130](lit13.htm#page_130), [132](lit13.htm#page_132)
+metaphysics, [27](lit04.htm#page_27), [70](lit07.htm#page_70.md),
+[126](lit13.htm#page_126), [127](lit13.htm#page_127.md),
+[130](lit13.htm#page_130), [132](lit13.htm#page_132.md)
 
-Methodist, [126](lit13.htm#page_126)
+Methodist, [126](lit13.htm#page_126.md)
 
-method of studying, [5](lit01.htm#page_5)
+method of studying, [5](lit01.htm#page_5.md)
 
-millennium, [123](lit12.htm#page_123)-[124](lit13.htm#page_124)
+millennium, [123](lit12.htm#page_123)-[124](lit13.htm#page_124.md)
 
-Mind, universal, [24](lit03.htm#page_24), [26](lit04.htm#page_26),
-[29](lit04.htm#page_29), [30](lit04.htm#page_30),
-[33](lit04.htm#page_33), [70](lit07.htm#page_70),
-[123](lit12.htm#page_123)
+Mind, universal, [24](lit03.htm#page_24), [26](lit04.htm#page_26.md),
+[29](lit04.htm#page_29), [30](lit04.htm#page_30.md),
+[33](lit04.htm#page_33), [70](lit07.htm#page_70.md),
+[123](lit12.htm#page_123.md)
 
-mind(s), carnal, [25](lit04.htm#page_25),
-[39](lit05.htm#page_39)-[40](lit05.htm#page_40); cleansing of,
-[44](lit05.htm#page_44); conditions of, [63](lit07.htm#page_63);
-exhilaration of, [31](lit04.htm#page_31); human, [6](lit02.htm#page_6),
-[13](lit02.htm#page_13), [14](lit02.htm#page_14),
-[21](lit03.htm#page_21), [25](lit04.htm#page_25),
-[33](lit04.htm#page_33), [56](lit06.htm#page_56),
-[100](lit11.htm#page_100), [102](lit11.htm#page_102),
-[103](lit11.htm#page_103), [106](lit11.htm#page_106),
-[123](lit12.htm#page_123), [125](lit13.htm#page_125),
-[132](lit13.htm#page_132); infinite, [116](lit12.htm#page_116);
-influence of, [75](lit08.htm#page_75); laws of,
-[127](lit13.htm#page_127); of Christ, [97](lit10.htm#page_97),
-[99](lit10.htm#page_99), [107](lit11.htm#page_107); of God,
-[54](lit06.htm#page_54); spiritualizing, [37](lit04.htm#page_37);
-training of, [51](lit06.htm#page_51); unawakened,
-[84](lit09.htm#page_84)
+mind(s), carnal, [25](lit04.htm#page_25.md),
+[39](lit05.htm#page_39)-[40](lit05.htm#page_40.md); cleansing of,
+[44](lit05.htm#page_44); conditions of, [63](lit07.htm#page_63.md);
+exhilaration of, [31](lit04.htm#page_31); human, [6](lit02.htm#page_6.md),
+[13](lit02.htm#page_13), [14](lit02.htm#page_14.md),
+[21](lit03.htm#page_21), [25](lit04.htm#page_25.md),
+[33](lit04.htm#page_33), [56](lit06.htm#page_56.md),
+[100](lit11.htm#page_100), [102](lit11.htm#page_102.md),
+[103](lit11.htm#page_103), [106](lit11.htm#page_106.md),
+[123](lit12.htm#page_123), [125](lit13.htm#page_125.md),
+[132](lit13.htm#page_132); infinite, [116](lit12.htm#page_116.md);
+influence of, [75](lit08.htm#page_75.md); laws of,
+[127](lit13.htm#page_127); of Christ, [97](lit10.htm#page_97.md),
+[99](lit10.htm#page_99), [107](lit11.htm#page_107.md); of God,
+[54](lit06.htm#page_54); spiritualizing, [37](lit04.htm#page_37.md);
+training of, [51](lit06.htm#page_51.md); unawakened,
+[84](lit09.htm#page_84.md)
 
 <span id="page_viii">p. viii</span>
 
-mind cure, [77](lit09.htm#page_77)
+mind cure, [77](lit09.htm#page_77.md)
 
-miracles, [116](lit12.htm#page_116)
+miracles, [116](lit12.htm#page_116.md)
 
-money, [84](lit09.htm#page_84)
+money, [84](lit09.htm#page_84.md)
 
-Most High, [78](lit09.htm#page_78), [83](lit09.htm#page_83),
-[88](lit09.htm#page_88)-[98](lit10.htm#page_98),
-[109](lit11.htm#page_109), [112](lit11.htm#page_112)
+Most High, [78](lit09.htm#page_78), [83](lit09.htm#page_83.md),
+[88](lit09.htm#page_88)-[98](lit10.htm#page_98.md),
+[109](lit11.htm#page_109), [112](lit11.htm#page_112.md)
 
-motherhood of God, [133](lit13.htm#page_133)
+motherhood of God, [133](lit13.htm#page_133.md)
 
-music, [11](lit02.htm#page_11)
+music, [11](lit02.htm#page_11.md)
 
-name, secret, [93](lit10.htm#page_93)
+name, secret, [93](lit10.htm#page_93.md)
 
-Nazarene, [12](lit02.htm#page_12), [16](lit02.htm#page_16),
-[37](lit04.htm#page_37), [38](lit05.htm#page_38),
-[65](lit07.htm#page_65), [70](lit07.htm#page_70),
-[78](lit09.htm#page_78)
+Nazarene, [12](lit02.htm#page_12), [16](lit02.htm#page_16.md),
+[37](lit04.htm#page_37), [38](lit05.htm#page_38.md),
+[65](lit07.htm#page_65), [70](lit07.htm#page_70.md),
+[78](lit09.htm#page_78.md)
 
-need, call of, [77](lit09.htm#page_77)
+need, call of, [77](lit09.htm#page_77.md)
 
-negation, [46](lit05.htm#page_46), [47](lit05.htm#page_47)
+negation, [46](lit05.htm#page_46), [47](lit05.htm#page_47.md)
 
-neighbor's wife, [68](lit07.htm#page_68)
+neighbor's wife, [68](lit07.htm#page_68.md)
 
-nervousness, [12](lit02.htm#page_12)
+nervousness, [12](lit02.htm#page_12.md)
 
-new birth, [79](lit09.htm#page_79), [84](lit09.htm#page_84)
+new birth, [79](lit09.htm#page_79), [84](lit09.htm#page_84.md)
 
-new creature, [109](lit11.htm#page_109)
+new creature, [109](lit11.htm#page_109.md)
 
-ocean, [20](lit03.htm#page_20)
+ocean, [20](lit03.htm#page_20.md)
 
-offspring, of God, [21](lit03.htm#page_21)
+offspring, of God, [21](lit03.htm#page_21.md)
 
-old age, unreality of, [45](lit05.htm#page_45)
+old age, unreality of, [45](lit05.htm#page_45.md)
 
-omnipotence, [19](lit03.htm#page_19), [32](lit04.htm#page_32),
-[52](lit06.htm#page_52), [54](lit06.htm#page_54),
-[116](lit12.htm#page_116)
+omnipotence, [19](lit03.htm#page_19), [32](lit04.htm#page_32.md),
+[52](lit06.htm#page_52), [54](lit06.htm#page_54.md),
+[116](lit12.htm#page_116.md)
 
-omnipresence, [19](lit03.htm#page_19), [44](lit05.htm#page_44),
-[53](lit06.htm#page_53), [54](lit06.htm#page_54),
-[55](lit06.htm#page_55),
+omnipresence, [19](lit03.htm#page_19), [44](lit05.htm#page_44.md),
+[53](lit06.htm#page_53), [54](lit06.htm#page_54.md),
+[55](lit06.htm#page_55.md),
 
-omniscience, [19](lit03.htm#page_19), [52](lit06.htm#page_52),
-[54](lit06.htm#page_54), [116](lit12.htm#page_116)
+omniscience, [19](lit03.htm#page_19), [52](lit06.htm#page_52.md),
+[54](lit06.htm#page_54), [116](lit12.htm#page_116.md)
 
-oneness with God, [44](lit05.htm#page_44), [52](lit06.htm#page_52),
-[54](lit06.htm#page_54), [55](lit06.htm#page_55),
-[73](lit08.htm#page_73), [78](lit09.htm#page_78),
-[91](lit10.htm#page_91), [106](lit11.htm#page_106),
-[130](lit13.htm#page_130), [132](lit13.htm#page_132)
+oneness with God, [44](lit05.htm#page_44), [52](lit06.htm#page_52.md),
+[54](lit06.htm#page_54), [55](lit06.htm#page_55.md),
+[73](lit08.htm#page_73), [78](lit09.htm#page_78.md),
+[91](lit10.htm#page_91), [106](lit11.htm#page_106.md),
+[130](lit13.htm#page_130), [132](lit13.htm#page_132.md)
 
-opinion, [28](lit04.htm#page_28), [29](lit04.htm#page_29),
-[83](lit09.htm#page_83)
+opinion, [28](lit04.htm#page_28), [29](lit04.htm#page_29.md),
+[83](lit09.htm#page_83.md)
 
-order, of divine law, [7](lit02.htm#page_7)
+order, of divine law, [7](lit02.htm#page_7.md)
 
-orthodox, [125](lit13.htm#page_125), [126](lit13.htm#page_126)
+orthodox, [125](lit13.htm#page_125), [126](lit13.htm#page_126.md)
 
-others, service for, [84](lit09.htm#page_84), [87](lit09.htm#page_87),
-[88](lit09.htm#page_88), [96](lit10.htm#page_96),
-[110](lit11.htm#page_110), [129](lit13.htm#page_129)
+others, service for, [84](lit09.htm#page_84), [87](lit09.htm#page_87.md),
+[88](lit09.htm#page_88), [96](lit10.htm#page_96.md),
+[110](lit11.htm#page_110), [129](lit13.htm#page_129.md)
 
-outlet, [9](lit02.htm#page_9), [86](lit09.htm#page_86)
+outlet, [9](lit02.htm#page_9), [86](lit09.htm#page_86.md)
 
-outreaching, [104](lit11.htm#page_104)
+outreaching, [104](lit11.htm#page_104.md)
 
-outspeaking, [109](lit11.htm#page_109)
+outspeaking, [109](lit11.htm#page_109.md)
 
-outworking, [88](lit09.htm#page_88), [93](lit10.htm#page_93),
-[97](lit10.htm#page_97)
+outworking, [88](lit09.htm#page_88), [93](lit10.htm#page_93.md),
+[97](lit10.htm#page_97.md)
 
-overconfidence, [56](lit06.htm#page_56)
+overconfidence, [56](lit06.htm#page_56.md)
 
-oversensitiveness, [12](lit02.htm#page_12)
+oversensitiveness, [12](lit02.htm#page_12.md)
 
-Oversoul, [108](lit11.htm#page_108)
+Oversoul, [108](lit11.htm#page_108.md)
 
-pain, unreality of, [45](lit05.htm#page_45)
+pain, unreality of, [45](lit05.htm#page_45.md)
 
-passivity, [105](lit11.htm#page_105), [107](lit11.htm#page_107)
+passivity, [105](lit11.htm#page_105), [107](lit11.htm#page_107.md)
 
-patience, [29](lit04.htm#page_29), [94](lit10.htm#page_94)
+patience, [29](lit04.htm#page_29), [94](lit10.htm#page_94.md)
 
-Paul, [29](lit04.htm#page_29), [90](lit10.htm#page_90),
-[97](lit10.htm#page_97), [116](lit12.htm#page_116),
-[117](lit12.htm#page_117)
+Paul, [29](lit04.htm#page_29), [90](lit10.htm#page_90.md),
+[97](lit10.htm#page_97), [116](lit12.htm#page_116.md),
+[117](lit12.htm#page_117.md)
 
-peace, [13](lit02.htm#page_13), [76](lit08.htm#page_76),
-[80](lit09.htm#page_80), [85](lit09.htm#page_85),
-[92](lit10.htm#page_92)
+peace, [13](lit02.htm#page_13), [76](lit08.htm#page_76.md),
+[80](lit09.htm#page_80), [85](lit09.htm#page_85.md),
+[92](lit10.htm#page_92.md)
 
-Pentecost, [86](lit09.htm#page_86)
+Pentecost, [86](lit09.htm#page_86.md)
 
-people, two classes of, [26](lit04.htm#page_26)
+people, two classes of, [26](lit04.htm#page_26.md)
 
 <span id="page_ix">p. ix</span>
 
-personality, [14](lit02.htm#page_14), [22](lit03.htm#page_22),
-[70](lit07.htm#page_70)-[75](lit08.htm#page_75),
-[96](lit10.htm#page_96), [101](lit11.htm#page_101),
-[132](lit13.htm#page_132)
+personality, [14](lit02.htm#page_14), [22](lit03.htm#page_22.md),
+[70](lit07.htm#page_70)-[75](lit08.htm#page_75.md),
+[96](lit10.htm#page_96), [101](lit11.htm#page_101.md),
+[132](lit13.htm#page_132.md)
 
-Pharisees, [30](lit04.htm#page_30)
+Pharisees, [30](lit04.htm#page_30.md)
 
-physiology, [76](lit08.htm#page_76)
+physiology, [76](lit08.htm#page_76.md)
 
-Pilate, [13](lit02.htm#page_13), [118](lit12.htm#page_118)
+Pilate, [13](lit02.htm#page_13), [118](lit12.htm#page_118.md)
 
-poise, [73](lit08.htm#page_73), [74](lit08.htm#page_74)
+poise, [73](lit08.htm#page_73), [74](lit08.htm#page_74.md)
 
-possessions, [38](lit05.htm#page_38), [68](lit07.htm#page_68),
-[82](lit09.htm#page_82), [85](lit09.htm#page_85),
-[88](lit09.htm#page_88)
+possessions, [38](lit05.htm#page_38), [68](lit07.htm#page_68.md),
+[82](lit09.htm#page_82), [85](lit09.htm#page_85.md),
+[88](lit09.htm#page_88.md)
 
-poverty, [45](lit05.htm#page_45), [89](lit10.htm#page_89),
-[114](lit12.htm#page_114), [127](lit13.htm#page_127)
+poverty, [45](lit05.htm#page_45), [89](lit10.htm#page_89.md),
+[114](lit12.htm#page_114), [127](lit13.htm#page_127.md)
 
-power, [84](lit09.htm#page_84), [99](lit10.htm#page_99),
-[108](lit11.htm#page_108), [113](lit11.htm#page_113),
-[114](lit12.htm#page_114), [132](lit13.htm#page_132),
-[133](lit13.htm#page_133); adverse, [52](lit06.htm#page_52); desire for,
-[88](lit09.htm#page_88); God is, [19](lit03.htm#page_19); induement of,
-[96](lit10.htm#page_96), [100](lit11.htm#page_100); indwelling,
-[94](lit10.htm#page_94); in word of faith, [51](lit06.htm#page_51); key
-to, [92](lit10.htm#page_92); kingdom of, [78](lit09.htm#page_78); like
-that of Jesus, [39](lit05.htm#page_39); lives within us,
-[16](lit02.htm#page_16); new, [83](lit09.htm#page_83),
-[120](lit12.htm#page_120); of faith,
-[60](lit07.htm#page_60)-[61](lit07.htm#page_61); of omnipotent love,
-[55](lit06.htm#page_55); of the Spirit, [112](lit11.htm#page_112),
-[129](lit13.htm#page_129); omnipotent, [93](lit10.htm#page_93); secret
-of, [11](lit02.htm#page_11); Source of, [53](lit06.htm#page_53),
-[90](lit10.htm#page_90); spring of, [8](lit02.htm#page_8); that
-spiritual understanding gives, [74](lit08.htm#page_74); the one,
-[44](lit05.htm#page_44), [127](lit13.htm#page_127); through
-affirmations, [56](lit06.htm#page_56); to bring invisible good into
-expression, [50](lit06.htm#page_50); to heal, [114](lit12.htm#page_114),
-[115](lit12.htm#page_115); weakened through negation,
-[47](lit05.htm#page_47)
+power, [84](lit09.htm#page_84), [99](lit10.htm#page_99.md),
+[108](lit11.htm#page_108), [113](lit11.htm#page_113.md),
+[114](lit12.htm#page_114), [132](lit13.htm#page_132.md),
+[133](lit13.htm#page_133); adverse, [52](lit06.htm#page_52.md); desire for,
+[88](lit09.htm#page_88); God is, [19](lit03.htm#page_19.md); induement of,
+[96](lit10.htm#page_96), [100](lit11.htm#page_100.md); indwelling,
+[94](lit10.htm#page_94); in word of faith, [51](lit06.htm#page_51.md); key
+to, [92](lit10.htm#page_92); kingdom of, [78](lit09.htm#page_78.md); like
+that of Jesus, [39](lit05.htm#page_39.md); lives within us,
+[16](lit02.htm#page_16); new, [83](lit09.htm#page_83.md),
+[120](lit12.htm#page_120.md); of faith,
+[60](lit07.htm#page_60)-[61](lit07.htm#page_61.md); of omnipotent love,
+[55](lit06.htm#page_55); of the Spirit, [112](lit11.htm#page_112.md),
+[129](lit13.htm#page_129); omnipotent, [93](lit10.htm#page_93.md); secret
+of, [11](lit02.htm#page_11); Source of, [53](lit06.htm#page_53.md),
+[90](lit10.htm#page_90); spring of, [8](lit02.htm#page_8.md); that
+spiritual understanding gives, [74](lit08.htm#page_74.md); the one,
+[44](lit05.htm#page_44), [127](lit13.htm#page_127.md); through
+affirmations, [56](lit06.htm#page_56.md); to bring invisible good into
+expression, [50](lit06.htm#page_50); to heal, [114](lit12.htm#page_114.md),
+[115](lit12.htm#page_115.md); weakened through negation,
+[47](lit05.htm#page_47.md)
 
-practice the presence of God, [11](lit02.htm#page_11)
+practice the presence of God, [11](lit02.htm#page_11.md)
 
-prayer, [44](lit05.htm#page_44),
-[101](lit11.htm#page_101)-[102](lit11.htm#page_102),
-[103](lit11.htm#page_103), [126](lit13.htm#page_126)
+prayer, [44](lit05.htm#page_44.md),
+[101](lit11.htm#page_101)-[102](lit11.htm#page_102.md),
+[103](lit11.htm#page_103), [126](lit13.htm#page_126.md)
 
-preaching, [97](lit10.htm#page_97), [99](lit10.htm#page_99)
+preaching, [97](lit10.htm#page_97), [99](lit10.htm#page_99.md)
 
-Presence, [50](lit06.htm#page_50), [81](lit09.htm#page_81),
-[106](lit11.htm#page_106), [114](lit12.htm#page_114)
+Presence, [50](lit06.htm#page_50), [81](lit09.htm#page_81.md),
+[106](lit11.htm#page_106), [114](lit12.htm#page_114.md)
 
-pride, [72](lit08.htm#page_72)
+pride, [72](lit08.htm#page_72.md)
 
-Principle, [22](lit03.htm#page_22), [131](lit13.htm#page_131),
-[132](lit13.htm#page_132), [133](lit13.htm#page_133)
+Principle, [22](lit03.htm#page_22), [131](lit13.htm#page_131.md),
+[132](lit13.htm#page_132), [133](lit13.htm#page_133.md)
 
-principle(s), [57](lit06.htm#page_57)-[58](lit06.htm#page_58),
-[67](lit07.htm#page_67), [118](lit12.htm#page_118),
-[122](lit12.htm#page_122)
+principle(s), [57](lit06.htm#page_57)-[58](lit06.htm#page_58.md),
+[67](lit07.htm#page_67), [118](lit12.htm#page_118.md),
+[122](lit12.htm#page_122.md)
 
-prison, [55](lit06.htm#page_55)
+prison, [55](lit06.htm#page_55.md)
 
-prodigal son, [82](lit09.htm#page_82)
+prodigal son, [82](lit09.htm#page_82.md)
 
-projections of God, [21](lit03.htm#page_21)
+projections of God, [21](lit03.htm#page_21.md)
 
-promises, [65](lit07.htm#page_65)
+promises, [65](lit07.htm#page_65.md)
 
-prophecy, [116](lit12.htm#page_116)
+prophecy, [116](lit12.htm#page_116.md)
 
-prosperity, [91](lit10.htm#page_91)
+prosperity, [91](lit10.htm#page_91.md)
 
-purpose, [116](lit12.htm#page_116), [120](lit12.htm#page_120)
+purpose, [116](lit12.htm#page_116), [120](lit12.htm#page_120.md)
 
-quiet, [11](lit02.htm#page_11), [50](lit06.htm#page_50),
-[108](lit11.htm#page_108)
+quiet, [11](lit02.htm#page_11), [50](lit06.htm#page_50.md),
+[108](lit11.htm#page_108.md)
 
-radiating, [33](lit04.htm#page_33), [35](lit04.htm#page_35),
-[47](lit05.htm#page_47), [96](lit10.htm#page_96),
-[129](lit13.htm#page_129)
+radiating, [33](lit04.htm#page_33), [35](lit04.htm#page_35.md),
+[47](lit05.htm#page_47), [96](lit10.htm#page_96.md),
+[129](lit13.htm#page_129.md)
 
-reality, [121](lit12.htm#page_121)
+reality, [121](lit12.htm#page_121.md)
 
-realization, [16](lit02.htm#page_16), [78](lit09.htm#page_78),
-[79](lit09.htm#page_79), [80](lit09.htm#page_80),
-[89](lit10.htm#page_89), [103](lit11.htm#page_103),
-[115](lit12.htm#page_115)
+realization, [16](lit02.htm#page_16), [78](lit09.htm#page_78.md),
+[79](lit09.htm#page_79), [80](lit09.htm#page_80.md),
+[89](lit10.htm#page_89), [103](lit11.htm#page_103.md),
+[115](lit12.htm#page_115.md)
 
-reasoning, [76](lit08.htm#page_76), [90](lit10.htm#page_90)
+reasoning, [76](lit08.htm#page_76), [90](lit10.htm#page_90.md)
 
-receiving, [65](lit07.htm#page_65), [79](lit09.htm#page_79),
-[96](lit10.htm#page_96),
-[106](lit11.htm#page_106)-[107](lit11.htm#page_107),
-[110](lit11.htm#page_110)
+receiving, [65](lit07.htm#page_65), [79](lit09.htm#page_79.md),
+[96](lit10.htm#page_96.md),
+[106](lit11.htm#page_106)-[107](lit11.htm#page_107.md),
+[110](lit11.htm#page_110.md)
 
-recognition, [114](lit12.htm#page_114), [129](lit13.htm#page_129),
-[130](lit13.htm#page_130), [133](lit13.htm#page_133)
+recognition, [114](lit12.htm#page_114), [129](lit13.htm#page_129.md),
+[130](lit13.htm#page_130), [133](lit13.htm#page_133.md)
 
-Red Sea, [7](lit02.htm#page_7)
+Red Sea, [7](lit02.htm#page_7.md)
 
-relationships, [21](lit03.htm#page_21)
+relationships, [21](lit03.htm#page_21.md)
 
-relaxing, [105](lit11.htm#page_105)
+relaxing, [105](lit11.htm#page_105.md)
 
 <span id="page_x">p. x</span>
 
-religious science, [126](lit13.htm#page_126)
+religious science, [126](lit13.htm#page_126.md)
 
-repetition, of affirmations and denials, [52](lit06.htm#page_52),
-[54](lit06.htm#page_54), [104](lit11.htm#page_104)
+repetition, of affirmations and denials, [52](lit06.htm#page_52.md),
+[54](lit06.htm#page_54), [104](lit11.htm#page_104.md)
 
-reservoir, [33](lit04.htm#page_33)
+reservoir, [33](lit04.htm#page_33.md)
 
-responsibility, [57](lit06.htm#page_57)
+responsibility, [57](lit06.htm#page_57.md)
 
-restlessness, [88](lit09.htm#page_88)
+restlessness, [88](lit09.htm#page_88.md)
 
-results, [10](lit02.htm#page_10), [30](lit04.htm#page_30),
-[63](lit07.htm#page_63), [83](lit09.htm#page_83),
-[109](lit11.htm#page_109), [120](lit12.htm#page_120),
-[125](lit13.htm#page_125), [129](lit13.htm#page_129)
+results, [10](lit02.htm#page_10), [30](lit04.htm#page_30.md),
+[63](lit07.htm#page_63), [83](lit09.htm#page_83.md),
+[109](lit11.htm#page_109), [120](lit12.htm#page_120.md),
+[125](lit13.htm#page_125), [129](lit13.htm#page_129.md)
 
-resurrection, [118](lit12.htm#page_118), [119](lit12.htm#page_119)
+resurrection, [118](lit12.htm#page_118), [119](lit12.htm#page_119.md)
 
-revealing, [78](lit09.htm#page_78),
-[89](lit10.htm#page_89)-[90](lit10.htm#page_90), [93](lit10.htm#page_93)
+revealing, [78](lit09.htm#page_78.md),
+[89](lit10.htm#page_89)-[90](lit10.htm#page_90), [93](lit10.htm#page_93.md)
 
-revelation, [26](lit04.htm#page_26), [28](lit04.htm#page_28),
-[29](lit04.htm#page_29), [80](lit09.htm#page_80),
-[84](lit09.htm#page_84), [91](lit10.htm#page_91),
-[92](lit10.htm#page_92)-[93](lit10.htm#page_93),
-[94](lit10.htm#page_94), [96](lit10.htm#page_96),
-[100](lit11.htm#page_100), [109](lit11.htm#page_109),
-[110](lit11.htm#page_110)
+revelation, [26](lit04.htm#page_26), [28](lit04.htm#page_28.md),
+[29](lit04.htm#page_29), [80](lit09.htm#page_80.md),
+[84](lit09.htm#page_84), [91](lit10.htm#page_91.md),
+[92](lit10.htm#page_92)-[93](lit10.htm#page_93.md),
+[94](lit10.htm#page_94), [96](lit10.htm#page_96.md),
+[100](lit11.htm#page_100), [109](lit11.htm#page_109.md),
+[110](lit11.htm#page_110.md)
 
-reward(s), [84](lit09.htm#page_84), [113](lit11.htm#page_113)
+reward(s), [84](lit09.htm#page_84), [113](lit11.htm#page_113.md)
 
-rheumatism, [31](lit04.htm#page_31)
+rheumatism, [31](lit04.htm#page_31.md)
 
-roots, [104](lit11.htm#page_104)
+roots, [104](lit11.htm#page_104.md)
 
-rules, [28](lit04.htm#page_28), [51](lit06.htm#page_51),
-[58](lit06.htm#page_58)
+rules, [28](lit04.htm#page_28), [51](lit06.htm#page_51.md),
+[58](lit06.htm#page_58.md)
 
-salvation, [28](lit04.htm#page_28), [88](lit09.htm#page_88),
-[93](lit10.htm#page_93), [97](lit10.htm#page_97),
-[110](lit11.htm#page_110)
+salvation, [28](lit04.htm#page_28), [88](lit09.htm#page_88.md),
+[93](lit10.htm#page_93), [97](lit10.htm#page_97.md),
+[110](lit11.htm#page_110.md)
 
-satiation, [37](lit04.htm#page_37)
+satiation, [37](lit04.htm#page_37.md)
 
-Scriptures, [84](lit09.htm#page_84)
+Scriptures, [84](lit09.htm#page_84.md)
 
-secret, [91](lit10.htm#page_91)-[92](lit10.htm#page_92),
-[95](lit10.htm#page_95), [96](lit10.htm#page_96),
-[99](lit10.htm#page_99), [127](lit13.htm#page_127)
+secret, [91](lit10.htm#page_91)-[92](lit10.htm#page_92.md),
+[95](lit10.htm#page_95), [96](lit10.htm#page_96.md),
+[99](lit10.htm#page_99), [127](lit13.htm#page_127.md)
 
-secret spring, [65](lit07.htm#page_65)
+secret spring, [65](lit07.htm#page_65.md)
 
 secret place of Most High,
-[88](lit09.htm#page_88)-[98](lit10.htm#page_98); finding,
-[99](lit10.htm#page_99)-[112](lit11.htm#page_112)
+[88](lit09.htm#page_88)-[98](lit10.htm#page_98.md); finding,
+[99](lit10.htm#page_99)-[112](lit11.htm#page_112.md)
 
-sects, [124](lit13.htm#page_124)
+sects, [124](lit13.htm#page_124.md)
 
-seed, [104](lit11.htm#page_104), [119](lit12.htm#page_119)
+seed, [104](lit11.htm#page_104), [119](lit12.htm#page_119.md)
 
-seeking God, [79](lit09.htm#page_79), [80](lit09.htm#page_80),
-[84](lit09.htm#page_84), [87](lit09.htm#page_87),
-[100](lit11.htm#page_100), [119](lit12.htm#page_119),
-[124](lit13.htm#page_124), [127](lit13.htm#page_127)
+seeking God, [79](lit09.htm#page_79), [80](lit09.htm#page_80.md),
+[84](lit09.htm#page_84), [87](lit09.htm#page_87.md),
+[100](lit11.htm#page_100), [119](lit12.htm#page_119.md),
+[124](lit13.htm#page_124), [127](lit13.htm#page_127.md)
 
-seeking, spiritual, [85](lit09.htm#page_85), [90](lit10.htm#page_90)
+seeking, spiritual, [85](lit09.htm#page_85), [90](lit10.htm#page_90.md)
 
-self, divine, [93](lit10.htm#page_93), [108](lit11.htm#page_108),
-[113](lit11.htm#page_113); human, [39](lit05.htm#page_39),
-[127](lit13.htm#page_127); ignorance of, [30](lit04.htm#page_30); real,
-[39](lit05.htm#page_39)-[40](lit05.htm#page_40),
-[54](lit06.htm#page_54), [66](lit07.htm#page_66); spiritual,
-[7](lit02.htm#page_7), [25](lit04.htm#page_25), [72](lit08.htm#page_72)
+self, divine, [93](lit10.htm#page_93), [108](lit11.htm#page_108.md),
+[113](lit11.htm#page_113); human, [39](lit05.htm#page_39.md),
+[127](lit13.htm#page_127); ignorance of, [30](lit04.htm#page_30.md); real,
+[39](lit05.htm#page_39)-[40](lit05.htm#page_40.md),
+[54](lit06.htm#page_54), [66](lit07.htm#page_66.md); spiritual,
+[7](lit02.htm#page_7), [25](lit04.htm#page_25), [72](lit08.htm#page_72.md)
 
-selfish(ness), [56](lit06.htm#page_56), [72](lit08.htm#page_72),
-[79](lit09.htm#page_79), [80](lit09.htm#page_80),
-[82](lit09.htm#page_82), [85](lit09.htm#page_85),
-[99](lit10.htm#page_99)
+selfish(ness), [56](lit06.htm#page_56), [72](lit08.htm#page_72.md),
+[79](lit09.htm#page_79), [80](lit09.htm#page_80.md),
+[82](lit09.htm#page_82), [85](lit09.htm#page_85.md),
+[99](lit10.htm#page_99.md)
 
-self-reliance, [32](lit04.htm#page_32)
+self-reliance, [32](lit04.htm#page_32.md)
 
-sense man, [6](lit02.htm#page_6)
+sense man, [6](lit02.htm#page_6.md)
 
-senses, [26](lit04.htm#page_26),
-[29](lit04.htm#page_29)-[30](lit04.htm#page_30), [62](lit07.htm#page_62)
+senses, [26](lit04.htm#page_26.md),
+[29](lit04.htm#page_29)-[30](lit04.htm#page_30), [62](lit07.htm#page_62.md)
 
-separateness, [25](lit04.htm#page_25), [124](lit13.htm#page_124),
-[130](lit13.htm#page_130)
+separateness, [25](lit04.htm#page_25), [124](lit13.htm#page_124.md),
+[130](lit13.htm#page_130.md)
 
-serenity, [108](lit11.htm#page_108)
+serenity, [108](lit11.htm#page_108.md)
 
-Sermon on the Mount, [70](lit07.htm#page_70)
+Sermon on the Mount, [70](lit07.htm#page_70.md)
 
-servants of the Most High, [8](lit02.htm#page_8)
+servants of the Most High, [8](lit02.htm#page_8.md)
 
-service, [84](lit09.htm#page_84), [86](lit09.htm#page_86)
+service, [84](lit09.htm#page_84), [86](lit09.htm#page_86.md)
 
-shoulders, stooped, [31](lit04.htm#page_31)
+shoulders, stooped, [31](lit04.htm#page_31.md)
 
-sickness, [37](lit04.htm#page_37), [45](lit05.htm#page_45),
-[53](lit06.htm#page_53), [78](lit09.htm#page_78),
-[82](lit09.htm#page_82), [89](lit10.htm#page_89),
-[112](lit11.htm#page_112),
-[113](lit11.htm#page_113)-[114](lit12.htm#page_114),
-[119](lit12.htm#page_119), [127](lit13.htm#page_127)
+sickness, [37](lit04.htm#page_37), [45](lit05.htm#page_45.md),
+[53](lit06.htm#page_53), [78](lit09.htm#page_78.md),
+[82](lit09.htm#page_82), [89](lit10.htm#page_89.md),
+[112](lit11.htm#page_112.md),
+[113](lit11.htm#page_113)-[114](lit12.htm#page_114.md),
+[119](lit12.htm#page_119), [127](lit13.htm#page_127.md)
 
-signs and wonders, [106](lit11.htm#page_106)
+signs and wonders, [106](lit11.htm#page_106.md)
 
-silence, [54](lit06.htm#page_54), [79](lit09.htm#page_79),
-[90](lit10.htm#page_90),
-[101](lit11.htm#page_101)-[109](lit11.htm#page_109)
+silence, [54](lit06.htm#page_54), [79](lit09.htm#page_79.md),
+[90](lit10.htm#page_90.md),
+[101](lit11.htm#page_101)-[109](lit11.htm#page_109.md)
 
-simplicity, [70](lit07.htm#page_70)
+simplicity, [70](lit07.htm#page_70.md)
 
-sin, [78](lit09.htm#page_78), [112](lit11.htm#page_112)
+sin, [78](lit09.htm#page_78), [112](lit11.htm#page_112.md)
 
-slaves of circumstance, [8](lit02.htm#page_8)
+slaves of circumstance, [8](lit02.htm#page_8.md)
 
 <span id="page_xi">p. xi</span>
 
-Solomon, [81](lit09.htm#page_81)-[82](lit09.htm#page_82)
+Solomon, [81](lit09.htm#page_81)-[82](lit09.htm#page_82.md)
 
-Son, [91](lit10.htm#page_91), [95](lit10.htm#page_95),
-[104](lit11.htm#page_104)
+Son, [91](lit10.htm#page_91), [95](lit10.htm#page_95.md),
+[104](lit11.htm#page_104.md)
 
-soul, [25](lit04.htm#page_25)
+soul, [25](lit04.htm#page_25.md)
 
-Source, [23](lit03.htm#page_23), [53](lit06.htm#page_53),
-[109](lit11.htm#page_109)
+Source, [23](lit03.htm#page_23), [53](lit06.htm#page_53.md),
+[109](lit11.htm#page_109.md)
 
-Spirit, [17](lit02.htm#page_17), [18](lit03.htm#page_18),
-[21](lit03.htm#page_21), [25](lit04.htm#page_25),
-[29](lit04.htm#page_29), [33](lit04.htm#page_33),
-[54](lit06.htm#page_54), [64](lit07.htm#page_64),
-[95](lit10.htm#page_95), [96](lit10.htm#page_96),
-[97](lit10.htm#page_97), [108](lit11.htm#page_108),
-[111](lit11.htm#page_111), [112](lit11.htm#page_112),
-[116](lit12.htm#page_116), [118](lit12.htm#page_118),
-[119](lit12.htm#page_119), [120](lit12.htm#page_120),
-[121](lit12.htm#page_121)-[122](lit12.htm#page_122),
-[126](lit13.htm#page_126), [127](lit13.htm#page_127),
-[128](lit13.htm#page_128), [129](lit13.htm#page_129); as Divine Mind,
-[26](lit04.htm#page_26); fulfillment of our desires,
-[50](lit06.htm#page_50); manifestation of, [94](lit10.htm#page_94); of
-truth, [19](lit03.htm#page_19), [28](lit04.htm#page_28),
-[29](lit04.htm#page_29), [62](lit07.htm#page_62),
-[84](lit09.htm#page_84), [91](lit10.htm#page_91); union with man,
-[91](lit10.htm#page_91)
+Spirit, [17](lit02.htm#page_17), [18](lit03.htm#page_18.md),
+[21](lit03.htm#page_21), [25](lit04.htm#page_25.md),
+[29](lit04.htm#page_29), [33](lit04.htm#page_33.md),
+[54](lit06.htm#page_54), [64](lit07.htm#page_64.md),
+[95](lit10.htm#page_95), [96](lit10.htm#page_96.md),
+[97](lit10.htm#page_97), [108](lit11.htm#page_108.md),
+[111](lit11.htm#page_111), [112](lit11.htm#page_112.md),
+[116](lit12.htm#page_116), [118](lit12.htm#page_118.md),
+[119](lit12.htm#page_119), [120](lit12.htm#page_120.md),
+[121](lit12.htm#page_121)-[122](lit12.htm#page_122.md),
+[126](lit13.htm#page_126), [127](lit13.htm#page_127.md),
+[128](lit13.htm#page_128), [129](lit13.htm#page_129.md); as Divine Mind,
+[26](lit04.htm#page_26.md); fulfillment of our desires,
+[50](lit06.htm#page_50); manifestation of, [94](lit10.htm#page_94.md); of
+truth, [19](lit03.htm#page_19), [28](lit04.htm#page_28.md),
+[29](lit04.htm#page_29), [62](lit07.htm#page_62.md),
+[84](lit09.htm#page_84), [91](lit10.htm#page_91.md); union with man,
+[91](lit10.htm#page_91.md)
 
-spirit, [29](lit04.htm#page_29)
+spirit, [29](lit04.htm#page_29.md)
 
-spirits, power to discern, [116](lit12.htm#page_116)
+spirits, power to discern, [116](lit12.htm#page_116.md)
 
-spiritual scientist, [125](lit13.htm#page_125)
+spiritual scientist, [125](lit13.htm#page_125.md)
 
-stagnation, [33](lit04.htm#page_33), [86](lit09.htm#page_86)
+stagnation, [33](lit04.htm#page_33), [86](lit09.htm#page_86.md)
 
-stillness, [12](lit02.htm#page_12), [90](lit10.htm#page_90),
-[97](lit10.htm#page_97), [101](lit11.htm#page_101),
-[104](lit11.htm#page_104)
+stillness, [12](lit02.htm#page_12), [90](lit10.htm#page_90.md),
+[97](lit10.htm#page_97), [101](lit11.htm#page_101.md),
+[104](lit11.htm#page_104.md)
 
-"still small voice," [72](lit08.htm#page_72), [75](lit08.htm#page_75)
+"still small voice," [72](lit08.htm#page_72), [75](lit08.htm#page_75.md)
 
-straining, [104](lit11.htm#page_104), [107](lit11.htm#page_107),
-[111](lit11.htm#page_111)
+straining, [104](lit11.htm#page_104), [107](lit11.htm#page_107.md),
+[111](lit11.htm#page_111.md)
 
-strength, [56](lit06.htm#page_56), [80](lit09.htm#page_80)
+strength, [56](lit06.htm#page_56), [80](lit09.htm#page_80.md)
 
-submission, [41](lit05.htm#page_41), [114](lit12.htm#page_114)
+submission, [41](lit05.htm#page_41), [114](lit12.htm#page_114.md)
 
-substance, [19](lit03.htm#page_19), [44](lit05.htm#page_44),
-[50](lit06.htm#page_50), [60](lit07.htm#page_60),
-[64](lit07.htm#page_64), [105](lit11.htm#page_105),
-[115](lit12.htm#page_115), [130](lit13.htm#page_130)
+substance, [19](lit03.htm#page_19), [44](lit05.htm#page_44.md),
+[50](lit06.htm#page_50), [60](lit07.htm#page_60.md),
+[64](lit07.htm#page_64), [105](lit11.htm#page_105.md),
+[115](lit12.htm#page_115), [130](lit13.htm#page_130.md)
 
-suffering, [6](lit02.htm#page_6), [14](lit02.htm#page_14),
-[40](lit05.htm#page_40), [130](lit13.htm#page_130),
-[133](lit13.htm#page_133); freedom from, [7](lit02.htm#page_7),
-[114](lit12.htm#page_114)
+suffering, [6](lit02.htm#page_6), [14](lit02.htm#page_14.md),
+[40](lit05.htm#page_40), [130](lit13.htm#page_130.md),
+[133](lit13.htm#page_133); freedom from, [7](lit02.htm#page_7.md),
+[114](lit12.htm#page_114.md)
 
-sun, [34](lit04.htm#page_34), [42](lit05.htm#page_42),
-[104](lit11.htm#page_104)
+sun, [34](lit04.htm#page_34), [42](lit05.htm#page_42.md),
+[104](lit11.htm#page_104.md)
 
-supplication, [102](lit11.htm#page_102)
+supplication, [102](lit11.htm#page_102.md)
 
-supply, [15](lit02.htm#page_15),
-[49](lit05.htm#page_49)-[50](lit06.htm#page_50),
-[53](lit06.htm#page_53), [54](lit06.htm#page_54),
-[64](lit07.htm#page_64)-[65](lit07.htm#page_65),
-[66](lit07.htm#page_66), [67](lit07.htm#page_67),
-[68](lit07.htm#page_68)
+supply, [15](lit02.htm#page_15.md),
+[49](lit05.htm#page_49)-[50](lit06.htm#page_50.md),
+[53](lit06.htm#page_53), [54](lit06.htm#page_54.md),
+[64](lit07.htm#page_64)-[65](lit07.htm#page_65.md),
+[66](lit07.htm#page_66), [67](lit07.htm#page_67.md),
+[68](lit07.htm#page_68.md)
 
-taking, [67](lit07.htm#page_67), [79](lit09.htm#page_79),
-[105](lit11.htm#page_105)
+taking, [67](lit07.htm#page_67), [79](lit09.htm#page_79.md),
+[105](lit11.htm#page_105.md)
 
-talk, [13](lit02.htm#page_13)
+talk, [13](lit02.htm#page_13.md)
 
-teacher(s), [19](lit03.htm#page_19), [38](lit05.htm#page_38),
-[84](lit09.htm#page_84), [89](lit10.htm#page_89),
-[93](lit10.htm#page_93),
-[94](lit10.htm#page_94)-[95](lit10.htm#page_95),
-[111](lit11.htm#page_111), [112](lit11.htm#page_112),
-[114](lit12.htm#page_114), [120](lit12.htm#page_120)
+teacher(s), [19](lit03.htm#page_19), [38](lit05.htm#page_38.md),
+[84](lit09.htm#page_84), [89](lit10.htm#page_89.md),
+[93](lit10.htm#page_93.md),
+[94](lit10.htm#page_94)-[95](lit10.htm#page_95.md),
+[111](lit11.htm#page_111), [112](lit11.htm#page_112.md),
+[114](lit12.htm#page_114), [120](lit12.htm#page_120.md)
 
-temporal things, [32](lit04.htm#page_32)
+temporal things, [32](lit04.htm#page_32.md)
 
-thanksgiving, [68](lit07.htm#page_68), [106](lit11.htm#page_106),
-[111](lit11.htm#page_111)
+thanksgiving, [68](lit07.htm#page_68), [106](lit11.htm#page_106.md),
+[111](lit11.htm#page_111.md)
 
-theology, [124](lit13.htm#page_124)
+theology, [124](lit13.htm#page_124.md)
 
-thinking, [24](lit03.htm#page_24)-[36](lit04.htm#page_36),
-[102](lit11.htm#page_102), [133](lit13.htm#page_133); false,
-[30](lit04.htm#page_30), [34](lit04.htm#page_34)
+thinking, [24](lit03.htm#page_24)-[36](lit04.htm#page_36.md),
+[102](lit11.htm#page_102), [133](lit13.htm#page_133.md); false,
+[30](lit04.htm#page_30), [34](lit04.htm#page_34.md)
 
-Thomas Didymus, [93](lit10.htm#page_93)
+Thomas Didymus, [93](lit10.htm#page_93.md)
 
-thought(s), at random, [30](lit04.htm#page_30); centered on God,
-[12](lit02.htm#page_12), [129](lit13.htm#page_129); control bodies and
-circumstances, [43](lit05.htm#page_43); highest,
-[96](lit10.htm#page_96); negative, [31](lit04.htm#page_31); of Divine
-Mind, [29](lit04.htm#page_29); of fear and grief,
-[31](lit04.htm#page_31); right, [10](lit02.htm#page_10),
-[30](lit04.htm#page_30), [97](lit10.htm#page_97),
-[109](lit11.htm#page_109), [133](lit13.htm#page_133); seed,
-[95](lit10.htm#page_95); turn away from external,
-[82](lit09.htm#page_82); wrong, [24](lit03.htm#page_24),
-[30](lit04.htm#page_30), [31](lit04.htm#page_31),
-[102](lit11.htm#page_102), [133](lit13.htm#page_133)
+thought(s), at random, [30](lit04.htm#page_30.md); centered on God,
+[12](lit02.htm#page_12), [129](lit13.htm#page_129.md); control bodies and
+circumstances, [43](lit05.htm#page_43.md); highest,
+[96](lit10.htm#page_96); negative, [31](lit04.htm#page_31.md); of Divine
+Mind, [29](lit04.htm#page_29.md); of fear and grief,
+[31](lit04.htm#page_31); right, [10](lit02.htm#page_10.md),
+[30](lit04.htm#page_30), [97](lit10.htm#page_97.md),
+[109](lit11.htm#page_109), [133](lit13.htm#page_133.md); seed,
+[95](lit10.htm#page_95.md); turn away from external,
+[82](lit09.htm#page_82); wrong, [24](lit03.htm#page_24.md),
+[30](lit04.htm#page_30), [31](lit04.htm#page_31.md),
+[102](lit11.htm#page_102), [133](lit13.htm#page_133.md)
 
-thought images, [103](lit11.htm#page_103)
+thought images, [103](lit11.htm#page_103.md)
 
-time, [11](lit02.htm#page_11); fullness of, [10](lit02.htm#page_10),
-[85](lit09.htm#page_85), [86](lit09.htm#page_86)
+time, [11](lit02.htm#page_11); fullness of, [10](lit02.htm#page_10.md),
+[85](lit09.htm#page_85), [86](lit09.htm#page_86.md)
 
-timidity, [57](lit06.htm#page_57),
-[72](lit08.htm#page_72)-[73](lit08.htm#page_73)
+timidity, [57](lit06.htm#page_57.md),
+[72](lit08.htm#page_72)-[73](lit08.htm#page_73.md)
 
-transition periods, [120](lit12.htm#page_120)
+transition periods, [120](lit12.htm#page_120.md)
 
-treating, [120](lit12.htm#page_120)
+treating, [120](lit12.htm#page_120.md)
 
-trust, [15](lit02.htm#page_15), [68](lit07.htm#page_68),
-[106](lit11.htm#page_106)
+trust, [15](lit02.htm#page_15), [68](lit07.htm#page_68.md),
+[106](lit11.htm#page_106.md)
 
 <span id="page_xii">p. xii</span>
 
-Truth, [10](lit02.htm#page_10), [11](lit02.htm#page_11),
-[27](lit04.htm#page_27)-[28](lit04.htm#page_28),
-[29](lit04.htm#page_29), [31](lit04.htm#page_31),
-[38](lit05.htm#page_38), [42](lit05.htm#page_42),
-[61](lit07.htm#page_61)-[62](lit07.htm#page_62),
-[75](lit08.htm#page_75), [77](lit09.htm#page_77),
-[82](lit09.htm#page_82),
-[83](lit09.htm#page_83)-[84](lit09.htm#page_84),
-[87](lit09.htm#page_87), [90](lit10.htm#page_90),
-[92](lit10.htm#page_92), [95](lit10.htm#page_95),
-[96](lit10.htm#page_96), [97](lit10.htm#page_97),
-[109](lit11.htm#page_109), [115](lit12.htm#page_115),
-[120](lit12.htm#page_120)-[121](lit12.htm#page_121),
-[124](lit13.htm#page_124)-[125](lit13.htm#page_125),
-[126](lit13.htm#page_126), [128](lit13.htm#page_128),
-[134](lit13.htm#page_134); knowledge of, [26](lit04.htm#page_26),
-[114](lit12.htm#page_114); of Being, [13](lit02.htm#page_13); repetition
-of, [51](lit06.htm#page_51); revelation of, [77](lit09.htm#page_77);
-search for, [10](lit02.htm#page_10),
-[99](lit10.htm#page_99)-[100](lit11.htm#page_100),
-[113](lit11.htm#page_113); statement(s) of, [12](lit02.htm#page_12),
-[64](lit07.htm#page_64), [82](lit09.htm#page_82),
-[90](lit10.htm#page_90), [99](lit10.htm#page_99)
+Truth, [10](lit02.htm#page_10), [11](lit02.htm#page_11.md),
+[27](lit04.htm#page_27)-[28](lit04.htm#page_28.md),
+[29](lit04.htm#page_29), [31](lit04.htm#page_31.md),
+[38](lit05.htm#page_38), [42](lit05.htm#page_42.md),
+[61](lit07.htm#page_61)-[62](lit07.htm#page_62.md),
+[75](lit08.htm#page_75), [77](lit09.htm#page_77.md),
+[82](lit09.htm#page_82.md),
+[83](lit09.htm#page_83)-[84](lit09.htm#page_84.md),
+[87](lit09.htm#page_87), [90](lit10.htm#page_90.md),
+[92](lit10.htm#page_92), [95](lit10.htm#page_95.md),
+[96](lit10.htm#page_96), [97](lit10.htm#page_97.md),
+[109](lit11.htm#page_109), [115](lit12.htm#page_115.md),
+[120](lit12.htm#page_120)-[121](lit12.htm#page_121.md),
+[124](lit13.htm#page_124)-[125](lit13.htm#page_125.md),
+[126](lit13.htm#page_126), [128](lit13.htm#page_128.md),
+[134](lit13.htm#page_134); knowledge of, [26](lit04.htm#page_26.md),
+[114](lit12.htm#page_114); of Being, [13](lit02.htm#page_13.md); repetition
+of, [51](lit06.htm#page_51); revelation of, [77](lit09.htm#page_77.md);
+search for, [10](lit02.htm#page_10.md),
+[99](lit10.htm#page_99)-[100](lit11.htm#page_100.md),
+[113](lit11.htm#page_113); statement(s) of, [12](lit02.htm#page_12.md),
+[64](lit07.htm#page_64), [82](lit09.htm#page_82.md),
+[90](lit10.htm#page_90), [99](lit10.htm#page_99.md)
 
-truth(s), [62](lit07.htm#page_62)-[63](lit07.htm#page_63),
-[64](lit07.htm#page_64)-[65](lit07.htm#page_65),
-[114](lit12.htm#page_114)
+truth(s), [62](lit07.htm#page_62)-[63](lit07.htm#page_63.md),
+[64](lit07.htm#page_64)-[65](lit07.htm#page_65.md),
+[114](lit12.htm#page_114.md)
 
-understanding, [26](lit04.htm#page_26), [71](lit08.htm#page_71),
-[90](lit10.htm#page_90), [132](lit13.htm#page_132); of divine law,
-[51](lit06.htm#page_51); spiritual, [7](lit02.htm#page_7),
-[26](lit04.htm#page_26), [28](lit04.htm#page_28),
-[76](lit08.htm#page_76)-[77](lit09.htm#page_77),
-[107](lit11.htm#page_107)
+understanding, [26](lit04.htm#page_26), [71](lit08.htm#page_71.md),
+[90](lit10.htm#page_90), [132](lit13.htm#page_132.md); of divine law,
+[51](lit06.htm#page_51); spiritual, [7](lit02.htm#page_7.md),
+[26](lit04.htm#page_26), [28](lit04.htm#page_28.md),
+[76](lit08.htm#page_76)-[77](lit09.htm#page_77.md),
+[107](lit11.htm#page_107.md)
 
-unforgiveness, [14](lit02.htm#page_14)
+unforgiveness, [14](lit02.htm#page_14.md)
 
-unity of the spirit, [123](lit12.htm#page_123)-[133](lit13.htm#page_133)
+unity of the spirit, [123](lit12.htm#page_123)-[133](lit13.htm#page_133.md)
 
-universe, [65](lit07.htm#page_65), [129](lit13.htm#page_129)
+universe, [65](lit07.htm#page_65), [129](lit13.htm#page_129.md)
 
-unknown, power to meet, [11](lit02.htm#page_11)
+unknown, power to meet, [11](lit02.htm#page_11.md)
 
-unselfishness, [84](lit09.htm#page_84)
+unselfishness, [84](lit09.htm#page_84.md)
 
-vacuum, [102](lit11.htm#page_102)
+vacuum, [102](lit11.htm#page_102.md)
 
-vessel(s), [116](lit12.htm#page_116), [123](lit12.htm#page_123)
+vessel(s), [116](lit12.htm#page_116), [123](lit12.htm#page_123.md)
 
-vine, [115](lit12.htm#page_115)
+vine, [115](lit12.htm#page_115.md)
 
-vision, [123](lit12.htm#page_123)-[124](lit13.htm#page_124)
+vision, [123](lit12.htm#page_123)-[124](lit13.htm#page_124.md)
 
-vivifying, [104](lit11.htm#page_104)
+vivifying, [104](lit11.htm#page_104.md)
 
-water, [20](lit03.htm#page_20)
+water, [20](lit03.htm#page_20.md)
 
-weakness, [58](lit06.htm#page_58)
+weakness, [58](lit06.htm#page_58.md)
 
-whole, [20](lit03.htm#page_20), [23](lit03.htm#page_23),
-[46](lit05.htm#page_46), [80](lit09.htm#page_80),
-[100](lit11.htm#page_100), [111](lit11.htm#page_111),
-[115](lit12.htm#page_115), [126](lit13.htm#page_126),
-[131](lit13.htm#page_131)
+whole, [20](lit03.htm#page_20), [23](lit03.htm#page_23.md),
+[46](lit05.htm#page_46), [80](lit09.htm#page_80.md),
+[100](lit11.htm#page_100), [111](lit11.htm#page_111.md),
+[115](lit12.htm#page_115), [126](lit13.htm#page_126.md),
+[131](lit13.htm#page_131.md)
 
-will, free, [25](lit04.htm#page_25), [40](lit05.htm#page_40),
-[118](lit12.htm#page_118); infinite, [118](lit12.htm#page_118); of God,
-[22](lit03.htm#page_22), [54](lit06.htm#page_54),
-[126](lit13.htm#page_126)
+will, free, [25](lit04.htm#page_25), [40](lit05.htm#page_40.md),
+[118](lit12.htm#page_118); infinite, [118](lit12.htm#page_118.md); of God,
+[22](lit03.htm#page_22), [54](lit06.htm#page_54.md),
+[126](lit13.htm#page_126.md)
 
-willfulness, [34](lit04.htm#page_34), [53](lit06.htm#page_53)
+willfulness, [34](lit04.htm#page_34), [53](lit06.htm#page_53.md)
 
-wisdom, [19](lit03.htm#page_19), [107](lit11.htm#page_107),
-[112](lit11.htm#page_112), [117](lit12.htm#page_117); of God,
-[34](lit04.htm#page_34), [70](lit07.htm#page_70),
-[132](lit13.htm#page_132); Source of, [53](lit06.htm#page_53),
-[77](lit09.htm#page_77)
+wisdom, [19](lit03.htm#page_19), [107](lit11.htm#page_107.md),
+[112](lit11.htm#page_112), [117](lit12.htm#page_117.md); of God,
+[34](lit04.htm#page_34), [70](lit07.htm#page_70.md),
+[132](lit13.htm#page_132); Source of, [53](lit06.htm#page_53.md),
+[77](lit09.htm#page_77.md)
 
-withdrawal, [105](lit11.htm#page_105)
+withdrawal, [105](lit11.htm#page_105.md)
 
-word(s), [70](lit07.htm#page_70), [83](lit09.htm#page_83),
-[84](lit09.htm#page_84), [92](lit10.htm#page_92),
-[95](lit10.htm#page_95), [127](lit13.htm#page_127); form of,
-[55](lit06.htm#page_55), [103](lit11.htm#page_103); speaking,
-[52](lit06.htm#page_52), [53](lit06.htm#page_53),
-[99](lit10.htm#page_99), [109](lit11.htm#page_109),
-[112](lit11.htm#page_112), [125](lit13.htm#page_125)
+word(s), [70](lit07.htm#page_70), [83](lit09.htm#page_83.md),
+[84](lit09.htm#page_84), [92](lit10.htm#page_92.md),
+[95](lit10.htm#page_95), [127](lit13.htm#page_127.md); form of,
+[55](lit06.htm#page_55), [103](lit11.htm#page_103.md); speaking,
+[52](lit06.htm#page_52), [53](lit06.htm#page_53.md),
+[99](lit10.htm#page_99), [109](lit11.htm#page_109.md),
+[112](lit11.htm#page_112), [125](lit13.htm#page_125.md)
 
-works, [113](lit11.htm#page_113), [116](lit12.htm#page_116),
-[120](lit12.htm#page_120), [121](lit12.htm#page_121)
+works, [113](lit11.htm#page_113), [116](lit12.htm#page_116.md),
+[120](lit12.htm#page_120), [121](lit12.htm#page_121.md)
 
-worship, [88](lit09.htm#page_88), [127](lit13.htm#page_127)
+worship, [88](lit09.htm#page_88), [127](lit13.htm#page_127.md)
 
-yield, to Spirit, [117](lit12.htm#page_117)
+yield, to Spirit, [117](lit12.htm#page_117.md)
 
-young people, [37](lit04.htm#page_37)
+young people, [37](lit04.htm#page_37.md)

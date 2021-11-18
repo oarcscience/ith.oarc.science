@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe25)  [Next](toe27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe25)  [Next](toe27.md) 
 
 ------------------------------------------------------------------------
 
@@ -403,7 +403,7 @@ I have only one more example to give concerning this great region of the
 Alps belonging to Savoy and Switzerland. It is from the author of Les
 Tableaux de la Suisse.
 
- <span id="fr_53"></span>[3](#fn_53) «On s'embarque à Fluelen à une
+ <span id="fr_53"></span>[3](#fn_53.md) «On s'embarque à Fluelen à une
 demi-lieue d'Altorf sur le lac des quatre Waldstoett ou cantons
 forestiers; les bords de ce lac sont des rochers souvent à pic et d'une
 très grande élévation et la profondeur de ses eaux proportionnée. Ces
@@ -670,10 +670,10 @@ could not be suspected of partiality in the observation.
 
 ### Footnotes
 
-<span id="fn_53"></span>[v2:3](toe26.htm#fr_53) Discours sur l'Hist.
+<span id="fn_53"></span>[v2:3](toe26.htm#fr_53.md) Discours sur l'Hist.
 Nat. de la Suisse, page CLV.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Facts in confirmation of the Theory, respecting
-those Operations which re-dissolve the Surface of the Earth](toe27)
+those Operations which re-dissolve the Surface of the Earth](toe27.md)

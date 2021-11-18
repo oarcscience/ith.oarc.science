@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe041)  [Next](prwe043) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe041)  [Next](prwe043.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ before.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Ointment](prwe043)
+[Next: The Fairy Ointment](prwe043.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](oph08)  [Next](oph10) 
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](oph08)  [Next](oph10.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ personifications for the different attributes of the dracontic god Hu.
 This deity was called "The Dragon Ruler of the World" and his car was
 drawn by serpents. His priests in accomadation with the general custom
 of the Ophite god, were called after him "Adders."  <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 In a poem of Taliessin, translated by Davies, in his Appendix No. 6, is
 the following enumeration of a Druid's titles:---
@@ -59,7 +59,7 @@ Egypt. The poem is entitled "the Elegy of Uther Pendragon;" that is, of
 Uther, "The Dragon's Head;" and it is not a little remarkable that the
 word "Draig" in the British language signifies, at the same time, a
 fiery serpent, a dragon, and the Supreme God."  <span
-id="fr_8"></span>[2](#fn_8)
+id="fr_8"></span>[2](#fn_8.md)
 
 In the second part of this poem is the following sacrificial rites of
 Uther Pendragon:----
@@ -186,7 +186,7 @@ hieroglyphic. From the Runic characters traced upon some of these stones
 it is conjectured that they were erected by the Danes. Such might have
 been the case; but the Danes themselves were a sect of Ophites, and had
 not the people of the country been Ophites also, they might not have
-suffered these monuments to remain."  <span id="fr_9"></span>[3](#fn_9)
+suffered these monuments to remain."  <span id="fr_9"></span>[3](#fn_9.md)
 
 Remains indicating the presence of Serpent Worship in Ireland are
 extremely scarce, but we must remember the story prevalent in the
@@ -200,12 +200,12 @@ his times.
 
 ### Footnotes
 
-<span id="fn_7"></span>[1](oph09.htm#fr_7) Davies' Mythol. of Druids.
+<span id="fn_7"></span>[1](oph09.htm#fr_7.md) Davies' Mythol. of Druids.
 
-<span id="fn_8"></span>[2](oph09.htm#fr_8) Owen's Dict. Art. Draig.
+<span id="fn_8"></span>[2](oph09.htm#fr_8.md) Owen's Dict. Art. Draig.
 
-<span id="fn_9"></span>[3](oph09.htm#fr_9) Moor's Hindu Pantheon 342.
+<span id="fn_9"></span>[3](oph09.htm#fr_9.md) Moor's Hindu Pantheon 342.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10](oph10)
+[Next: Chapter 10](oph10.md)

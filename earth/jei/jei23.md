@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei22)  [Next](jei24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei22)  [Next](jei24.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 How on our theory do we account for the moon and what do we claim to be
 its structure? We may answer those questions wholly in the words of the
-orthodox scientists and the [answer](errata.htm#105) will show how
+orthodox scientists and the [answer](errata.htm#105.md) will show how
 inevitably all real research into the structure of the heavenly bodies
 fits into the facts as we have discovered them--and this fitting in of
 every separate fact is the conclusive demonstration of the soundness of
@@ -95,7 +95,7 @@ interior.
 gas inside the moon; indeed he went so far as to suppose that the moon
 was partly hollow."
 
-And then Mr. [Grew](errata.htm#106) himself goes on to say that only in
+And then Mr. [Grew](errata.htm#106.md) himself goes on to say that only in
 case Mr. Wells were right, only indeed if the moon were hollow could he
 explain what is known to be a fact that the moon is very much lighter in
 proportion to its size than the earth. Not only that but it is lighter,
@@ -115,10 +115,10 @@ of the other.
 Only on our theory that both moon and earth are hollow can this
 difference be explained.
 
-And so whatever facts of astronomy or [cosmogony](errata.htm#107) the
+And so whatever facts of astronomy or [cosmogony](errata.htm#107.md) the
 reader wishes to bring forward it will be seen that our theory fits them
 fully and links them up into one consistent body of knowledge.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. A Note on Gravitation](jei24)
+[Next: Chapter XXI. A Note on Gravitation](jei24.md)

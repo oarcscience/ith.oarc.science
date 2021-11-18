@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow24)  [Next](wow26) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow24)  [Next](wow26.md) 
 
 ------------------------------------------------------------------------
 
@@ -294,4 +294,4 @@ old life of hope and tender helpfulness that had ceased for ever.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Nine: Wreckage](wow26)
+[Next: Chapter Nine: Wreckage](wow26.md)

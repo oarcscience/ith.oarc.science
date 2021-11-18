@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](nsd04)  [Next](nsd06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](nsd04)  [Next](nsd06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Shoshonean Dialects of Southern California*, by A. L.
 Kroeber, \[1909\], at Intangible Textual Heritage
 
@@ -95,7 +95,7 @@ for the great mass and most distinctive nouns of this class.
 
 Juaneño shows l where this is the noun-ending of Luiseño, Agua Caliente,
 and Cahuilla; t or t• as equivalent of the noun-ending t in these other
-dialects; <span id="fr_11"></span>[11](#fn_11) and te as equivalent of
+dialects; <span id="fr_11"></span>[11](#fn_11.md) and te as equivalent of
 their c. It will be recalled from what has been said in connection with
 Cahuilla that there is some approximation to this last equivalence in
 Luiseño, where the ending c, when followed by the subjective suffix -a
@@ -104,7 +104,7 @@ Cahuilla, does not show the subjective suffix -a of Luiseño and Agua
 Caliente.
 
 Altogether the dialect of San Juan Capistrano shows no approximation to
-Gabrielino <span id="fr_12"></span>[12](#fn_12) and cannot be considered
+Gabrielino <span id="fr_12"></span>[12](#fn_12.md) and cannot be considered
 in any way a link between the Gabrielino and Luiseño-Cahuilla groups.
 Within the Luiseño-Cahuilla group its closest relations are all to
 Luiseño. It is a subdivision or dialect of Luiseño rather than a branch
@@ -225,16 +225,16 @@ naqma´a no-tèle, hear my words!
 
 ### Footnotes
 
-<span id="fn_11"></span>[249:11](nsd05.htm#fr_11) On the other hand
+<span id="fn_11"></span>[249:11](nsd05.htm#fr_11.md) On the other hand
 Juaneño shows yu-t•, hair, where Luiseño has yu-la. This is one of many
 instances proving that the Shoshonean noun-endings can not be traced
 from dialect to dialect with only physiological modifications. Besides
 phonetic change, analogy or other psychological factors have often been
 of determining influence.
 
-<span id="fn_12"></span>[249:12](nsd05.htm#fr_12) Except the possible
+<span id="fn_12"></span>[249:12](nsd05.htm#fr_12.md) Except the possible
 relation of -m to Gabrielino -n on nouns with a possessive prefix.
 
 ------------------------------------------------------------------------
 
-[Next: Gabrielino](nsd06)
+[Next: Gabrielino](nsd06.md)

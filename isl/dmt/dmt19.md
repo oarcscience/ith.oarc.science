@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt18)  [Next](dmt20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt18)  [Next](dmt20.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ from Cureton's text of ash-Shahrastani, p*. 27.
 
 ------------------------------------------------------------------------
 
-[Next: III. A Short Creed by Al-Ash‘ari](dmt20)
+[Next: III. A Short Creed by Al-Ash‘ari](dmt20.md)

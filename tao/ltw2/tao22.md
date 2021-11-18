@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao22)   
-[Previous](tao21)  [Next](tao23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao22.md)   
+[Previous](tao21)  [Next](tao23.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ one, with sincerity, should take refuge in humility.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 23](tao23)
+[Next: Chapter 23](tao23.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar150) [Next](gbar152)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar150) [Next](gbar152.md)
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ to-day.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar152)
+[Next](gbar152.md)

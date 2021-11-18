@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly27)  [Next](lly29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly27)  [Next](lly29.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Royal Arches, and there they may all be seen today.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Po-ho-no](lly29)
+[Next: The Legend Of Po-ho-no](lly29.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl33)  [Next](hpl35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl33)  [Next](hpl35.md) 
 
 ------------------------------------------------------------------------
 
@@ -349,4 +349,4 @@ in the aether of faery.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1](hpl35)
+[Next: Chapter 1](hpl35.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc16)  [Next](osc18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc16)  [Next](osc18.md) 
 
 ------------------------------------------------------------------------
 
@@ -262,4 +262,4 @@ fire, will cease to be, and one more custom will pass into history.
 
 ------------------------------------------------------------------------
 
-[Next: (15) Hocktide--or Hoke Day](osc18)
+[Next: (15) Hocktide--or Hoke Day](osc18.md)

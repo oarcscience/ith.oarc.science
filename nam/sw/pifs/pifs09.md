@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs08)  [Next](pifs10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs08)  [Next](pifs10.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 | ![](img/03401.jpg) |
 
 OW there is a tail to you, *compadre* \[friend\]," said old Desiderio,
-nodding at Patricio <span id="fr_17"></span>[1](#fn_17) after we had sat
+nodding at Patricio <span id="fr_17"></span>[1](#fn_17.md) after we had sat
 awhile in silence around the crackling fire.
 
 Patricio had a broad strip of rawhide across his knee, and was scraping
@@ -51,10 +51,10 @@ before that--for Nah-chu-rú-chu had many strange adventures before he
 married Páh-hlee-oh, the Moon-Mother. Do you know why the
 rattlesnake--which is the king of all snakes and alone has the power of
 death in his mouth-always shakes his *guaje* <span
-id="fr_18"></span>[1](#fn_18) before he bites?"
+id="fr_18"></span>[1](#fn_18.md) before he bites?"
 
 "*Een-dah*!" chorused Ramon and Benito, and Fat Juan, and Tomas, <span
-id="fr_19"></span>[2](#fn_19) very eagerly; for they were particularly
+id="fr_19"></span>[2](#fn_19.md) very eagerly; for they were particularly
 fond of hearing about the exploits of the greatest of Tée-wahn
 medicine-men.
 
@@ -91,7 +91,7 @@ here and amuse ourselves with a game."
 play? For we have neither *pa-toles*, nor hoops, nor any other game
 here."
 
-"See! we will roll the *mah-khúr*, <span id="fr_20"></span>[1](#fn_20)
+"See! we will roll the *mah-khúr*, <span id="fr_20"></span>[1](#fn_20.md)
 for while I was waiting for you I made one that we might play"--and the
 false friend drew from beneath his blanket a pretty painted hoop; but
 really he had
@@ -104,7 +104,7 @@ really he had
 
 [![''AS HE CAUGHT THE HOOP HE WAS INSTANTLY CHANGED INTO A POOR
 COYOTE!''](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)  
+Click to enlarge](img/03700.jpg.md)  
 ''AS HE CAUGHT THE HOOP HE WAS INSTANTLY CHANGED INTO A POOR COYOTE!''  
 
  
@@ -134,7 +134,7 @@ him, and went away without hurting him. He could find nothing to eat
 save dry bones, and old thongs or soles of moccasins.
 
 On the fourth day he turned westward, and wandered until he came to
-Mesita. <span id="fr_21"></span>[1](#fn_21) There was no town of the
+Mesita. <span id="fr_21"></span>[1](#fn_21.md) There was no town of the
 Lagunas there then, and only a shepherd's hut and corral, in which were
 an old Quères Indian and his grandson, tending their goats.
 
@@ -172,7 +172,7 @@ them; and to-morrow morning you must go and bring one of them."
 
 The boy went away tending the goats, and the Coyote stayed with the old
 man. Next morning, when they awoke very early, they saw all the earth
-wrapped in a white *manta*. <span id="fr_22"></span>[1](#fn_22)
+wrapped in a white *manta*. <span id="fr_22"></span>[1](#fn_22.md)
 
 <span id="page_41">p. 41</span>
 
@@ -181,7 +181,7 @@ wrapped in a white *manta*. <span id="fr_22"></span>[1](#fn_22)
 <span id="img_04100"></span>
 
 [![''COYOTE, ARE YOU PEOPLE?''](tn/04100.jpg)  
-Click to enlarge](img/04100.jpg)  
+Click to enlarge](img/04100.jpg.md)  
 ''COYOTE, ARE YOU PEOPLE?''  
 
  
@@ -204,8 +204,8 @@ stayed there and was cleansed with the cleansing of the medicine-man;
 and then the old shepherd said to him:
 
 "Now, friend Nah-chu-rú-chu, there is a road. <span
-id="fr_23"></span>[1](#fn_23) But take with you this *faja*, <span
-id="fr_24"></span>[2](#fn_24) for though your power is great, you have
+id="fr_23"></span>[1](#fn_23.md) But take with you this *faja*, <span
+id="fr_24"></span>[2](#fn_24.md) for though your power is great, you have
 submitted to this evil. When you get home, he who did this to you will
 be first to know, and he will come pretending to be your friend, as if
 he had done nothing; and he will ask you to go hunting again. So you
@@ -243,7 +243,7 @@ hard that at last he said:
 "Then I will roll it to you; and if you can catch it before it unwinds,
 you may have it."
 
-So he wound it up, <span id="fr_25"></span>[1](#fn_25) and holding by
+So he wound it up, <span id="fr_25"></span>[1](#fn_25.md) and holding by
 one end gave it a push so that it ran away from him, unrolling as it
 went. The false friend jumped for it, but it was unrolled before he
 caught it-
@@ -259,7 +259,7 @@ enough for it to be spryer than that, you cannot have it."
 
 [![''AS HE SEIZED IT HE WAS CHANGED FROM A TALL YOUNG MAN INTO A GREAT
 RATTLESNAKE.''](tn/04500.jpg)  
-Click to enlarge](img/04500.jpg)  
+Click to enlarge](img/04500.jpg.md)  
 ''AS HE SEIZED IT HE WAS CHANGED FROM A TALL YOUNG MAN INTO A GREAT
 RATTLESNAKE.''  
 
@@ -275,13 +275,13 @@ tears rolling from his lidless eyes!
 "We, too, do this to each other!" said Nah-chu-rú-chu. He took from his
 medicine-pouch a pinch of the sacred meal and laid it on the snake's
 flat head for its food; and then a pinch of the corn-pollen to tame
-it. <span id="fr_26"></span>[1](#fn_26) And the snake ran out its red
+it. <span id="fr_26"></span>[1](#fn_26.md) And the snake ran out its red
 forked tongue, and licked them.
 
 "Now," said Nah-chu-rú-chu, "this mountain and all rocky places shall be
 your home. But you can never again do to another harm, without warning,
 as you did to me. For see, there is a *guaje* <span
-id="fr_27"></span>[2](#fn_27) in your tail, and whenever you would do
+id="fr_27"></span>[2](#fn_27.md) in your tail, and whenever you would do
 any one an injury, you must warn them beforehand with your rattle."
 
 "And is that the reason why Ch'ah-rah-ráh-deh always rattles to give
@@ -301,7 +301,7 @@ continues\]
 The people plowed and planted again, as they had not been able to do for
 several years, and all their work prospered. As for the people who lived
 in the Place of the Red Earth, they all moved down here, <span
-id="fr_28"></span>[1](#fn_28) because the Apaches were very bad; and
+id="fr_28"></span>[1](#fn_28.md) because the Apaches were very bad; and
 here their descendants live to this day."
 
 "Is that so?" sighed all the boys in chorus, sorry that the story was so
@@ -311,7 +311,7 @@ soon done.
 is a tail to you."
 
 "Well, then, I will tell a story which they showed me in Taos <span
-id="fr_29"></span>[2](#fn_29) last year," said the old man.
+id="fr_29"></span>[2](#fn_29.md) last year," said the old man.
 
 "Ah-h!" said the boys.
 
@@ -321,16 +321,16 @@ id="fr_29"></span>[2](#fn_29) last year," said the old man.
 
 ### Footnotes
 
-<span id="fn_17"></span>[34:1](pifs09.htm#fr_17) Pronounced
+<span id="fn_17"></span>[34:1](pifs09.htm#fr_17.md) Pronounced
 Pah-trée-see-oh.
 
-<span id="fn_18"></span>[35:1](pifs09.htm#fr_18) The Pueblo sacred
+<span id="fn_18"></span>[35:1](pifs09.htm#fr_18.md) The Pueblo sacred
 rattle.
 
-<span id="fn_19"></span>[35:2](pifs09.htm#fr_19) Pronounced Rah-móhn,
+<span id="fn_19"></span>[35:2](pifs09.htm#fr_19.md) Pronounced Rah-móhn,
 Bay-née-toh, Whahn, Toh-máhs.
 
-<span id="fn_20"></span>[36:1](pifs09.htm#fr_20) The game of *mah-khúr*,
+<span id="fn_20"></span>[36:1](pifs09.htm#fr_20.md) The game of *mah-khúr*,
 which the Pueblos learned from the Apaches many centuries ago, is a very
 simple one, but is a favorite with all witches as a snare for those whom
 they would injure. A small hoop of willow is painted gaily, and has
@@ -339,32 +339,32 @@ spoke-fashion. The challenger to a game rolls the hoop rapidly past the
 challenged, who must throw a lance through between the spokes before it
 ceases to roll.
 
-<span id="fn_21"></span>[39:1](pifs09.htm#fr_21) An outlying colony of
+<span id="fn_21"></span>[39:1](pifs09.htm#fr_21.md) An outlying colony of
 Laguna, forty miles from Isleta.
 
-<span id="fn_22"></span>[40:1](pifs09.htm#fr_22) This figure is always
+<span id="fn_22"></span>[40:1](pifs09.htm#fr_22.md) This figure is always
 used by the Pueblos in speaking of snow in connection with sacred
 things.
 
-<span id="fn_23"></span>[43:1](pifs09.htm#fr_23) That is, you can go
+<span id="fn_23"></span>[43:1](pifs09.htm#fr_23.md) That is, you can go
 home.
 
-<span id="fn_24"></span>[43:2](pifs09.htm#fr_24) A fine woven belt, with
+<span id="fn_24"></span>[43:2](pifs09.htm#fr_24.md) A fine woven belt, with
 figures in red and green.
 
-<span id="fn_25"></span>[44:1](pifs09.htm#fr_25) Like a roll of tape.
+<span id="fn_25"></span>[44:1](pifs09.htm#fr_25.md) Like a roll of tape.
 
-<span id="fn_26"></span>[47:1](pifs09.htm#fr_26) This same spell is
+<span id="fn_26"></span>[47:1](pifs09.htm#fr_26.md) This same spell is
 still used here by the *Hee-but-hái*, or snake-charmers.
 
-<span id="fn_27"></span>[47:2](pifs09.htm#fr_27) Pronounced Gwáh-heh.
+<span id="fn_27"></span>[47:2](pifs09.htm#fr_27.md) Pronounced Gwáh-heh.
 
-<span id="fn_28"></span>[48:1](pifs09.htm#fr_28) It is a proved fact
+<span id="fn_28"></span>[48:1](pifs09.htm#fr_28.md) It is a proved fact
 that there was such a migration.
 
-<span id="fn_29"></span>[48:2](pifs09.htm#fr_29) The most northern of
+<span id="fn_29"></span>[48:2](pifs09.htm#fr_29.md) The most northern of
 the Pueblo cities. Its people are also Tée-wahn.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Coyote and the Woodpecker](pifs10)
+[Next: VII. The Coyote and the Woodpecker](pifs10.md)

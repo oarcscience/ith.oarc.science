@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj44)  [Next](atfj46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj44)  [Next](atfj46.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_49"></span> <span align="CENTER"> [![49. The Fishermen are
 Astonished at the Extraordinary Light](tn/49.jpg)  
-Click to enlarge](img/49.jpg)  
+Click to enlarge](img/49.jpg.md)  
 49. The Fishermen are Astonished at the Extraordinary Light  
 </span>
 
@@ -248,6 +248,6 @@ now to Mikomoto, and is this size.</span>
 
 ------------------------------------------------------------------------
 
-[Next: XLIV. Human Fireflies](atfj46)
+[Next: XLIV. Human Fireflies](atfj46.md)
 
 </div>

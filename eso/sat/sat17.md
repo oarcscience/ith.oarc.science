@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat16)  [Next](sat18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat16)  [Next](sat18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -24,13 +24,13 @@ Textual Heritage
 
 ### CHAPTER XIII
 
-<span class="small">OF THE ENMITY <span id="fr_232"></span>[1](#fn_232)
+<span class="small">OF THE ENMITY <span id="fr_232"></span>[1](#fn_232.md)
 OF THE SPIRIT AND OF THE BODY, AND OF THEIR CURE AND REMEDY</span>
 
 1\. <span class="smallcaps">Everything</span> is in itself a senseless,
 and as a dead thing or being; it is only a manifestation of the spirit,
 which is in the body: The spirit is signed with the body; <span
-id="fr_233"></span>[2](#fn_233) whatever the spirit is in itself in an
+id="fr_233"></span>[2](#fn_233.md) whatever the spirit is in itself in an
 incomprehensible \[imperceptible\] operation, the same is the body in
 the comprehensible and visible working. There is one form of the seven
 forms of nature superior and chief; the other hang to it, and give their
@@ -44,7 +44,7 @@ anger.
 property, and the soul is a kernel to another body: Whatever lives and
 grows has its seed in it; God has comprehended all things in his word,
 and spoken them forth into a form, as the will had formed <span
-id="fr_234"></span>[3](#fn_234) itself in the desire, the expressed word
+id="fr_234"></span>[3](#fn_234.md) itself in the desire, the expressed word
 is a platform of the speaking, and has again the speaking in it; this
 same speaking is a seed to another image according to the first, for
 both work, viz. the speaking, and the spoken \[word\].
@@ -58,12 +58,12 @@ consists, which in the expressed word operates itself into four
 elements, but in the speaking word there is but one: The element in
 itself is neither hot nor cold, also neither dry nor moist; but it is a
 lubet, viz. a desiring will, wherein the divine wisdom makes the
-different <span id="fr_235"></span>[4](#fn_235)
+different <span id="fr_235"></span>[4](#fn_235.md)
 
 <span id="page_163">p. 163</span>
 
 and various colours; all according to the desire's property, in
-which <span id="fr_236"></span>[1](#fn_236) there is neither number nor
+which <span id="fr_236"></span>[1](#fn_236.md) there is neither number nor
 end: But in the four elements there is number and end; for with the
 expressing (in that they are become self-full) they have taken a
 beginning, and have formed themselves into a model or platform of a
@@ -92,7 +92,7 @@ know from whence the disease and enmity of our life arise, and what that
 is in us which makes us our own enemies,. and vex, perplex, and plague
 us in ourselves; much more necessary it is to know the cure, whereby we
 may cure ourselves in our self-hood, and bring ourselves into the limit
-of rest. <span id="fr_237"></span>[2](#fn_237)
+of rest. <span id="fr_237"></span>[2](#fn_237.md)
 
 7\. This we will delineate and declare, if there be any one that has a
 mind to enter upon it, and truly prove and try it; and we will set forth
@@ -110,7 +110,7 @@ Now the impression makes coldness, and
 <span id="page_164">p. 164</span>
 
 its compunction or attraction makes heat, so that <span
-id="fr_238"></span>[1](#fn_238) now there is a cold fire and an hot fire
+id="fr_238"></span>[1](#fn_238.md) now there is a cold fire and an hot fire
 in one thing; the cold makes in itself hardness and darkness, and the
 heat makes in itself the light, and yet there could be no light, if the
 oil in the Sulphur did not die in hot anguish, as the candle in the
@@ -144,7 +144,7 @@ more in the fire of the heat or cold, but it continually proceeds forth
 from the fire, and the fire draws it again continually into itself, and
 so it is the life of the fire; and this is the air, which in the fire is
 rightly called wind, by reason of the strength and force; and in that
-which is proceeded forth <span id="fr_239"></span>[2](#fn_239) it is
+which is proceeded forth <span id="fr_239"></span>[2](#fn_239.md) it is
 properly called air, by reason of its life of meekness.
 
 11\. And in the dying of the fire we are to understand the oil, whence
@@ -233,7 +233,7 @@ itself the four elements.
 chaos is the lubet of eternity in the abyss, which takes in itself a
 will to its own manifestation; this is all God; and the will conceives
 in itself a desire in the lubet; this is the chaos, or first
-astrum, <span id="fr_240"></span>[1](#fn_240) wherein consists the
+astrum, <span id="fr_240"></span>[1](#fn_240.md) wherein consists the
 eternal nature, which with the desire to nature introduces itself into
 seven forms, as is before mentioned, and so manifests the chaos, viz.
 the eternal hidden wisdom of God; and with the desire in the mercurial
@@ -255,7 +255,7 @@ painful source.
 
 of God, and understand us right, he stood after and in the creation in
 the dominion of the element; the mercurial wheel <span
-id="fr_241"></span>[1](#fn_241) in Sulphur stood in the light, and in
+id="fr_241"></span>[1](#fn_241.md) in Sulphur stood in the light, and in
 the free lubet of eternity; but he departed further with his desire into
 the four elements, viz. into the centre of darkness, from whence heat
 and cold arise.
@@ -315,7 +315,7 @@ unloose or dissolve itself in death, and also enter again into the
 mother, from whence it was created, and forsake its self-hood, that the
 pure body of the element (in which the true life in God's will-spirit
 does again enkindle the soul in the resigned will <span
-id="fr_242"></span>[1](#fn_242)) and the disappeared body from the pure
+id="fr_242"></span>[1](#fn_242).md) and the disappeared body from the pure
 element may become a mansion of the soul, viz. a paradisical budding
 \[or bloomy renovation in the eternal spring-time of paradise\].
 
@@ -333,7 +333,7 @@ drink: And it has incorporated itself in the humanity, and freely
 tenders itself to all souls with full desire: That soul which dies to
 its self-hood, and brings its hunger again into God's mercy, may enjoy
 this food, whereby it again becomes the first creature in God's
-love. <span id="fr_243"></span>[2](#fn_243)
+love. <span id="fr_243"></span>[2](#fn_243.md)
 
 29\. Now we are to consider how the poor soul captivated in God's anger,
 being void of the heavenly food, lives in mere anguish, and distress,
@@ -354,7 +354,7 @@ element; therefore it must enter again into that from whence the four
 elements arise.
 
 30\. Now in this time of the four elements there is mere pain and
-vexation; <span id="fr_244"></span>[1](#fn_244) the soul amuses itself
+vexation; <span id="fr_244"></span>[1](#fn_244.md) the soul amuses itself
 on the outward astrum, which forces into it, from whence its false
 imagination arises, and the body stirs up the poisonful mercurial wheel,
 from whence sickness and pains befall it; therefore the soul must be
@@ -397,9 +397,9 @@ runs into sadness, viz. into sickness, or a crazy dotage, wherein all
 joy is forgotten.
 
 34\. For if the life shall subsist in its own right, then the heat and
-cold must stand in equality, <span id="fr_245"></span>[1](#fn_245) that
+cold must stand in equality, <span id="fr_245"></span>[1](#fn_245.md) that
 so they may accord one with another, and no enmity or disaffection <span
-id="fr_246"></span>[2](#fn_246) be at all in any of them; the one must
+id="fr_246"></span>[2](#fn_246.md) be at all in any of them; the one must
 not exceed or over-top the other, but they must stand in one will; for
 the enkindled cold desires no heat, but only likeness: Every hunger
 desires only likeness for its food, but if the hunger be too strongly
@@ -422,19 +422,19 @@ malignity\].
 
 36\. Thus also in the same sickness it may withstand the enkindled wrath
 in the body; for if the cold poison be enkindled in the body, then its
-good falls into faintness; <span id="fr_247"></span>[3](#fn_247) and if
+good falls into faintness; <span id="fr_247"></span>[3](#fn_247.md) and if
 it cannot obtain the likeness of its essence for its help, it remains in
 faintness; and then the enkindled wrath also does immediately consume
 itself, and falls also into faintness; and so the natural death is in
 both, and the moving life in the body ceases; but if it attains the
-likeness, <span id="fr_248"></span>[4](#fn_248) then it gathers strength
+likeness, <span id="fr_248"></span>[4](#fn_248.md) then it gathers strength
 again, and the enkindled hunger of the disease must cease.
 
 37\. In like manner also we are to consider of the heat, which needs no
 cold property, but the likeness; yet it must be first freed from the
 wrath of the same likeness, and brought into its own highest joy and
 good, so that this likeness does not effectually <span
-id="fr_249"></span>[5](#fn_249) operate either in heat or cold, but in
+id="fr_249"></span>[5](#fn_249.md) operate either in heat or cold, but in
 its own love-desire,
 
 <span id="page_171">p. 171</span>
@@ -444,7 +444,7 @@ such a desire: All corruptions in the body proceed from the cold; if the
 brimstone be too vehemently enkindled by the heat, then the right and
 property of the cold dies, and enters into sorrow.
 
-38\. Mercury is the moving <span id="fr_250"></span>[1](#fn_250) life in
+38\. Mercury is the moving <span id="fr_250"></span>[1](#fn_250.md) life in
 all, and his mother is Sulphur; now the life and death lie in Sulphur,
 viz. in the wrestling mercurial wheel. In the Sulphur there is fire,
 light, and darkness; the impression causes darkness, coldness, and
@@ -521,19 +521,19 @@ are opened in equal accord; but the strife soon begins about the
 conquest between the darkness and light.
 
 45\. But now we are to consider what is to be done to Mercury, if he be
-enkindled <span id="fr_251"></span>[1](#fn_251) either in heat or cold,
+enkindled <span id="fr_251"></span>[1](#fn_251.md) either in heat or cold,
 whereby he raises up sickness and pains: Now it were very good that men
 had the right cure; but alas! it will remain hidden and covered by
 reason of the curse of the earth, and the abominations and sins of men,
 because they awaken this poison in Mercury with their immoderate
-bestiality. <span id="fr_252"></span>[2](#fn_252)
+bestiality. <span id="fr_252"></span>[2](#fn_252.md)
 
 <span id="page_173">p. 173</span>
 
 46\. Yet the poor captive has need of deliverance; and though men have
 not the high universal, which reaches the centre, and brings the wheel
 of life into its first property, yet men must take from the mercurial
-walm <span id="fr_253"></span>[1](#fn_253) of the earth its fruits
+walm <span id="fr_253"></span>[1](#fn_253.md) of the earth its fruits
 thereunto, seeing the body is also become earthly: A man must accord (or
 assimulate) one likeness with another, one salt with another, according
 as the inflammation is in the salt of the body: For observe, in what
@@ -543,10 +543,10 @@ the body and putrified, or whether it be yet fresh and burning), even
 such an herb, such a brimstone belongs to the cure, lest the heat or
 cold be terrified in the salniter, where the salt arises, by a strange
 might which comes into it, and generates a mort <span
-id="fr_254"></span>[2](#fn_254) salt, and sets open more and more the
+id="fr_254"></span>[2](#fn_254.md) salt, and sets open more and more the
 house of sadness: But it is not sufficient and powerful enough in its
 wild nature and property as it grows out of the walm <span
-id="fr_255"></span>[3](#fn_255) of the earth; it is not able to master
+id="fr_255"></span>[3](#fn_255.md) of the earth; it is not able to master
 the root of the enkindled Mercury in the brimstone, but it does more
 vehemently enkindle it in such a source and property.
 
@@ -605,7 +605,7 @@ according to its property) a fixed perfection; for "all was very good,"
 as Moses says, but with the curse the turba is introduced, so that the
 properties stand in the strife of Mercury; yet in each property, in
 every herb, or whatever is, in whatever grows or arises out of the
-walm <span id="fr_256"></span>[1](#fn_256) of the four elements, there
+walm <span id="fr_256"></span>[1](#fn_256.md) of the four elements, there
 is a fixity hidden; for all things which are in the four elements are
 originally sprung forth out of the eternal element, in which there is no
 strife, neither heat nor cold, but all things were in equal weight of
@@ -620,7 +620,7 @@ may be done in God's permission, who has again turned
 
 <span id="page_175">p. 175</span>
 
-his mercy towards us, <span id="fr_257"></span>[1](#fn_257) and again
+his mercy towards us, <span id="fr_257"></span>[1](#fn_257.md) and again
 opened paradise and its comprehension in man: Hath God given us power to
 become his children, and to rule over the world? Why then not over the
 curse of the earth? Let none hold it for impossible; there is required
@@ -632,71 +632,71 @@ written.
 
 ### Footnotes
 
-<span id="fn_232"></span>[162:1](sat17.htm#fr_232) Contrary will,
+<span id="fn_232"></span>[162:1](sat17.htm#fr_232.md) Contrary will,
 contrariety.
 
-<span id="fn_233"></span>[162:2](sat17.htm#fr_233) Or signs and marks
+<span id="fn_233"></span>[162:2](sat17.htm#fr_233.md) Or signs and marks
 itself in the body.
 
-<span id="fn_234"></span>[162:3](sat17.htm#fr_234) Or comprehended, or
+<span id="fn_234"></span>[162:3](sat17.htm#fr_234.md) Or comprehended, or
 conceived.
 
-<span id="fn_235"></span>[162:4](sat17.htm#fr_235) Colours of
+<span id="fn_235"></span>[162:4](sat17.htm#fr_235.md) Colours of
 distinction.
 
-<span id="fn_236"></span>[163:1](sat17.htm#fr_236) Element.
+<span id="fn_236"></span>[163:1](sat17.htm#fr_236.md) Element.
 
-<span id="fn_237"></span>[163:2](sat17.htm#fr_237) Into the desired end
+<span id="fn_237"></span>[163:2](sat17.htm#fr_237.md) Into the desired end
 or perfection of rest.
 
-<span id="fn_238"></span>[164:1](sat17.htm#fr_238) Thus now.
+<span id="fn_238"></span>[164:1](sat17.htm#fr_238.md) Thus now.
 
-<span id="fn_239"></span>[164:2](sat17.htm#fr_239) In the outward
+<span id="fn_239"></span>[164:2](sat17.htm#fr_239.md) In the outward
 principle in the expressed formed word.
 
-<span id="fn_240"></span>[166:1](sat17.htm#fr_240) Constellation.
+<span id="fn_240"></span>[166:1](sat17.htm#fr_240.md) Constellation.
 
-<span id="fn_241"></span>[167:1](sat17.htm#fr_241) Sphere.
+<span id="fn_241"></span>[167:1](sat17.htm#fr_241.md) Sphere.
 
-<span id="fn_242"></span>[168:1](sat17.htm#fr_242) Or in which the soul
+<span id="fn_242"></span>[168:1](sat17.htm#fr_242.md) Or in which the soul
 in the resigned will does again enkindle by its desire the true life in
 God's will-spirit, viz. in the eternal light or liberty.
 
-<span id="fn_243"></span>[168:2](sat17.htm#fr_243) Such a creature as it
+<span id="fn_243"></span>[168:2](sat17.htm#fr_243.md) Such a creature as it
 was at first, before it fell.
 
-<span id="fn_244"></span>[169:1](sat17.htm#fr_244) Source.
+<span id="fn_244"></span>[169:1](sat17.htm#fr_244.md) Source.
 
-<span id="fn_245"></span>[170:1](sat17.htm#fr_245) Equal essence.
+<span id="fn_245"></span>[170:1](sat17.htm#fr_245.md) Equal essence.
 
-<span id="fn_246"></span>[170:2](sat17.htm#fr_246) Or departure.
+<span id="fn_246"></span>[170:2](sat17.htm#fr_246.md) Or departure.
 
-<span id="fn_247"></span>[170:3](sat17.htm#fr_247) Into a swoon, or
+<span id="fn_247"></span>[170:3](sat17.htm#fr_247.md) Into a swoon, or
 impotency.
 
-<span id="fn_248"></span>[170:4](sat17.htm#fr_248) Or assimulate.
+<span id="fn_248"></span>[170:4](sat17.htm#fr_248.md) Or assimulate.
 
-<span id="fn_249"></span>[170:5](sat17.htm#fr_249) Or vehemently, by
+<span id="fn_249"></span>[170:5](sat17.htm#fr_249.md) Or vehemently, by
 force.
 
-<span id="fn_250"></span>[171:1](sat17.htm#fr_250) Stirring, active.
+<span id="fn_250"></span>[171:1](sat17.htm#fr_250.md) Stirring, active.
 
-<span id="fn_251"></span>[172:1](sat17.htm#fr_251) Enraged.
+<span id="fn_251"></span>[172:1](sat17.htm#fr_251.md) Enraged.
 
-<span id="fn_252"></span>[172:2](sat17.htm#fr_252) With their bestial
+<span id="fn_252"></span>[172:2](sat17.htm#fr_252.md) With their bestial
 lustful excess or disorder.
 
-<span id="fn_253"></span>[173:1](sat17.htm#fr_253) Seething.
+<span id="fn_253"></span>[173:1](sat17.htm#fr_253.md) Seething.
 
-<span id="fn_254"></span>[173:2](sat17.htm#fr_254) Mortifying.
+<span id="fn_254"></span>[173:2](sat17.htm#fr_254.md) Mortifying.
 
-<span id="fn_255"></span>[173:3](sat17.htm#fr_255) Seething.
+<span id="fn_255"></span>[173:3](sat17.htm#fr_255.md) Seething.
 
-<span id="fn_256"></span>[174:1](sat17.htm#fr_256) Seething.
+<span id="fn_256"></span>[174:1](sat17.htm#fr_256.md) Seething.
 
-<span id="fn_257"></span>[175:1](sat17.htm#fr_257) Or put his mercy into
+<span id="fn_257"></span>[175:1](sat17.htm#fr_257.md) Or put his mercy into
 us.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](sat18)
+[Next: Chapter XIV](sat18.md)

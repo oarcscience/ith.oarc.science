@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe346)  [Next](prwe348) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe346)  [Next](prwe348.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ district."--*Hals*.
 
 ------------------------------------------------------------------------
 
-[Next: St Chiwidden](prwe348)
+[Next: St Chiwidden](prwe348.md)

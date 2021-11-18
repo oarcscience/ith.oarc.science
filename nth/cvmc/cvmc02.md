@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc01)  [Next](cvmc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc01)  [Next](cvmc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ matter may be conducted upon both rational and scientific lines.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Mind](cvmc03)
+[Next: I. The Mind](cvmc03.md)

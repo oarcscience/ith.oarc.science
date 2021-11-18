@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal099)  [Next](njal101) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal099)  [Next](njal101.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Thingfield.
 
 ------------------------------------------------------------------------
 
-[Next: 101. Of Thorgeir Of Lightwater](njal101)
+[Next: 101. Of Thorgeir Of Lightwater](njal101.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow02)  [Next](vow04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow02)  [Next](vow04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
 THE Sacred Books of Hermes, says Mrs. Child in her admirable
-compendium, <span id="fr_0"></span>[1](#fn_0) containing the laws,
+compendium, <span id="fr_0"></span>[1](#fn_0.md) containing the laws,
 science, and theology of Egypt, were declared by the priests to have
 been composed during the reign of the Gods, preceding that of their
 first king, Menes. Allusions on very ancient monuments prove their great
@@ -65,7 +65,7 @@ Thus much concerning the Hermetic Books generally.
 
 The Fragments comprised in this reprint have been the subject of much
 learned research. In the early centuries of Christianity--Dr. Louis
-Menard tells us <span id="fr_1"></span>[1](#fn_1)--they enjoyed a high
+Menard tells us <span id="fr_1"></span>[1](#fn_1.md)--they enjoyed a high
 repute as of undoubted genuineness, the Fathers invoking their testimony
 on behalf of the Christian mysteries, while Lactantius--the "Christian
 Cicero"--said of them, "Hermes, I know not how, has discovered well-nigh
@@ -94,7 +94,7 @@ had before been presented under a mythological form.
 Another comparison is that which he institutes between some of the
 Hermetic writings and the Jewish and Christian Scriptures, especially
 the Book of Genesis and the fourth Gospel, and the works of Philo and
-the Shepherd of Hernias. <span id="fr_2"></span>[1](#fn_2) "The advent
+the Shepherd of Hernias. <span id="fr_2"></span>[1](#fn_2.md) "The advent
 of Christianity presents at first sight the appearance of a radical
 revolution in the manners and beliefs of the Western World. But history
 knows nothing of sudden changes and unanticipated transformations. To
@@ -185,7 +185,7 @@ born, and, the beliefs which were dying, met and clasped hands."
 In contrast to, and also, as we hold, in correction of, the view thus
 expressed concerning the relative philosophies of Greece and the East,
 we adduce the following passages from Mr. Plumptre's "History of
-Pantheism":-- <span id="fr_3"></span>[1](#fn_3)
+Pantheism":-- <span id="fr_3"></span>[1](#fn_3.md)
 
 "From our earliest childhood we have generally been taught to regard the
 Hebrews as those to whom we owe all our knowledge of theology and
@@ -317,10 +317,10 @@ E. M.
 
 ### Footnotes
 
-<span id="fn_0"></span>[i:1](vow03.htm#fr_0) "The Progress of Religious
+<span id="fn_0"></span>[i:1](vow03.htm#fr_0.md) "The Progress of Religious
 Ideas."
 
-<span id="fn_1"></span>[ii:1](vow03.htm#fr_1) Hermès Trismegistus.
+<span id="fn_1"></span>[ii:1](vow03.htm#fr_1.md) Hermès Trismegistus.
 Traduction complète; précédée d’une étude sur l’origine des livres
 Hermétiques. Par Dr. Louis Ménard, 2nd Ed., Paris, 1867.
 
@@ -328,12 +328,12 @@ This translation has been used, but not entirely followed, in the
 present work, as also have some of the notes, those which are not
 initialled being Dr. Menard's.
 
-<span id="fn_2"></span>[iii:1](vow03.htm#fr_2) A title identical with
+<span id="fn_2"></span>[iii:1](vow03.htm#fr_2.md) A title identical with
 that of the Pymander, or Shepherd, of Hermes.
 
-<span id="fn_3"></span>[v:1](vow03.htm#fr_3) Vol. I, B. II.
+<span id="fn_3"></span>[v:1](vow03.htm#fr_3.md) Vol. I, B. II.
 
 ------------------------------------------------------------------------
 
 [Next: The Hermetic System and the Significance of its Present
-Revival](vow04)
+Revival](vow04.md)

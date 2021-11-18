@@ -1,18 +1,18 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws49)  [Next](cws51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws49)  [Next](cws51.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XLVI
 
-#### CONCERNING CONSCIOUSNESS AND MEMORY IN RELATION TO PERSONALITY <span id="fr_178"></span>[1](#fn_178)
+#### CONCERNING CONSCIOUSNESS AND MEMORY IN RELATION TO PERSONALITY <span id="fr_178"></span>[1](#fn_178.md)
 
 CONSCIOUSNESS is not so much a thing as a condition. Now, if thou
 wouldst have a clear conception of that condition by means of analogy,
 take as an illustration the image of an incandescent globe,--a ball of
 fire, fluid and igneous throughout its whole mass. <span
-id="fr_179"></span>[2](#fn_179) Divide this globe in thought into
+id="fr_179"></span>[2](#fn_179.md) Divide this globe in thought into
 several successive zones, each containing its precedent. Thou wilt find
 that the central interior zone only contains the radiant point, or heart
 of the fiery mass, and that each successive zone constitutes a
@@ -144,14 +144,14 @@ one law is throughout all.
 
 ### Footnotes
 
-<span id="fn_178"></span>[113:1](cws50.htm#fr_178) Paris, January 15,
+<span id="fn_178"></span>[113:1](cws50.htm#fr_178.md) Paris, January 15,
 1883. Received in sleep (*Story of Anna Kingsford and Edward Maitland*,
 p. l00).
 
-<span id="fn_179"></span>[113:2](cws50.htm#fr_179) The idea is of a
+<span id="fn_179"></span>[113:2](cws50.htm#fr_179.md) The idea is of a
 globe self-luminous and heated from within.    E. M.
 
 ------------------------------------------------------------------------
 
 [Next: No. XLVII: Concerning The Substantial Ego As The True
-Subject](cws51)
+Subject](cws51.md)

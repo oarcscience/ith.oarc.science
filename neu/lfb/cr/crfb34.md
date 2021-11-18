@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb33)  [Next](crfb35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb33)  [Next](crfb35.md) 
 
 </div>
 
@@ -505,6 +505,6 @@ tailor, for "Honour and Glory" are apt to be very dangerous things.'
 
 ------------------------------------------------------------------------
 
-[Next: The Colony of Cats](crfb35)
+[Next: The Colony of Cats](crfb35.md)
 
 </div>

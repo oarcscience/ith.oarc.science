@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal109)  [Next](njal111) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal109)  [Next](njal111.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ without shedding tears.
 
 ------------------------------------------------------------------------
 
-[Next: 111. Of Hildignna And Mord Valgard's Son](njal111)
+[Next: 111. Of Hildignna And Mord Valgard's Son](njal111.md)

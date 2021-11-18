@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](rtae05)  [Next](rtae07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](rtae05)  [Next](rtae07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISA32/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Development of Religion and Thought in Ancient Egypt*, by James Henry
 Breasted, \[1912\], at Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ was I do not know, but any one familiar with the cemeteries of Egypt,
 ancient and modern, has found numerous bodies or portions of bodies
 indefinitely old which seemed about as well preserved as those of the
 living. This must have been a frequent experience of the ancient
-Egyptian, <span id="fr_124"></span>[1](#fn_124) and like Hamlet with the
+Egyptian, <span id="fr_124"></span>[1](#fn_124.md) and like Hamlet with the
 skull of Yorick in his hands, he must often have pondered deeply as he
 contemplated these silent witnesses. The surprisingly perfect state of
 preservation in which he found his ancestors whenever the digging of a
@@ -122,9 +122,9 @@ Christ, we find the little prince brought in on the arm of the Nile-god,
 accompanied apparently by another child. This second figure, identical
 in external appearance with that of the prince, is a being called by the
 Egyptians the "ka"; it was born with the prince, being communicated to
-him by the god. <span id="fr_125"></span>[1](#fn_125) This curious
+him by the god. <span id="fr_125"></span>[1](#fn_125.md) This curious
 comrade of an individual was corporeal <span
-id="fr_126"></span>[2](#fn_126) and the fortunes of the two were ever
+id="fr_126"></span>[2](#fn_126.md) and the fortunes of the two were ever
 afterward closely associated; but the ka was not an element of the
 personality, as is so often stated. It seems to me indeed from a study
 of the Pyramid Texts, that the nature of the ka has been fundamentally
@@ -133,55 +133,55 @@ fortunes of the individual *in the hereafter*, or it was in the world of
 the hereafter that he chiefly if not exclusively had his abode, and
 there he awaited the coming of his earthly companion. In the oldest
 inscriptions the death of a man may be stated by saying that "he goes to
-his ka"; <span id="fr_127"></span>[3](#fn_127) when Osiris dies he "goes
-to his ka." <span id="fr_128"></span>[4](#fn_128) Hence the dead are
+his ka"; <span id="fr_127"></span>[3](#fn_127.md) when Osiris dies he "goes
+to his ka." <span id="fr_128"></span>[4](#fn_128.md) Hence the dead are
 referred to as those "who have gone to their kas." <span
-id="fr_129"></span>[5](#fn_129) Moreover, the ka was really
+id="fr_129"></span>[5](#fn_129.md) Moreover, the ka was really
 
 <span id="page_53">p. 53</span>
 
 separated from its *protégé* by more than the mere distance to the
 cemetery, for in one passage the deceased "goes to his ka, to the
-sky." <span id="fr_130"></span>[1](#fn_130) Similarly the sojourn in the
+sky." <span id="fr_130"></span>[1](#fn_130.md) Similarly the sojourn in the
 hereafter is described as an association with the ka, <span
-id="fr_131"></span>[2](#fn_131) and one of the powers of the blessed
+id="fr_131"></span>[2](#fn_131.md) and one of the powers of the blessed
 dead was to have dominion over the other kas there. <span
-id="fr_132"></span>[3](#fn_132) In their relations with each other the
+id="fr_132"></span>[3](#fn_132.md) In their relations with each other the
 ka was distinctly superior to his mundane companion. In the oldest texts
 the sign for the ka, the uplifted arms, are frequently borne upon the
 standard which bears the signs for the gods. "Call upon thy ka, like
 Osiris, that he may protect thee from all anger of the dead," <span
-id="fr_133"></span>[4](#fn_133) says one to the deceased; and to be the
+id="fr_133"></span>[4](#fn_133.md) says one to the deceased; and to be the
 ka of a person is to have entire control over him. Thus in addressing
 Osiris it is said of Set, "He (Horus) has smitten Set for thee, bound;
-thou art his (Set's) ka." <span id="fr_134"></span>[5](#fn_134) In the
+thou art his (Set's) ka." <span id="fr_134"></span>[5](#fn_134.md) In the
 hereafter, at least, a person is under the dominion of his own ka. The
 ka assists the deceased by speaking to the great god on his behalf, and
 after this intercession, by introducing the dead man to the god
-(Re). <span id="fr_135"></span>[6](#fn_135) He forages for the deceased
+(Re). <span id="fr_135"></span>[6](#fn_135.md) He forages for the deceased
 and brings him food that they both may eat together, <span
-id="fr_136"></span>[7](#fn_136) and like two guests they sit together at
-the same table. <span id="fr_137"></span>[8](#fn_137) But the ka is ever
+id="fr_136"></span>[7](#fn_136.md) and like two guests they sit together at
+the same table. <span id="fr_137"></span>[8](#fn_137.md) But the ka is ever
 the protecting genius. The dead king Pepi "lives with his ka; he (the
 ka) expels the evil that is before Pepi, he removes the evil that is
 behind Pepi, like the boomerangs of the lord of Letopolis, which remove
 the evil that is before him and expel the evil that is behind
-him." <span id="fr_138"></span>[9](#fn_138) Notwithstanding their
+him." <span id="fr_138"></span>[9](#fn_138.md) Notwithstanding their
 intimate association, there was danger that the ka might fail
 
 <span id="page_54">p. 54</span>
 
 to recognize his *protégé*, and the departed therefore received a
 garment peculiar to him, by means of which the ka may not mistake him
-for an enemy whom he might slay. <span id="fr_139"></span>[1](#fn_139)
+for an enemy whom he might slay. <span id="fr_139"></span>[1](#fn_139.md)
 So strong was the ka, and so close was his union with his *protégé*,
 that to have control over a god or a man it was necessary to gain the
-power over his ka also, <span id="fr_140"></span>[2](#fn_140) and
+power over his ka also, <span id="fr_140"></span>[2](#fn_140.md) and
 complete justification of the deceased was only certain when his ka also
-was justified. <span id="fr_141"></span>[3](#fn_141) Thus united, the
+was justified. <span id="fr_141"></span>[3](#fn_141.md) Thus united, the
 deceased and his protecting genius lived a common life in the hereafter,
 and they said to the dead: "How beautiful it is in the company of thy
-ka!" <span id="fr_142"></span>[4](#fn_142) The mortuary priest whose
+ka!" <span id="fr_142"></span>[4](#fn_142.md) The mortuary priest whose
 duty it was to supply the needs of the deceased in the hereafter was for
 this reason called "servant of the ka," and whatever he furnished the ka
 was shared by him with his *protégé*, as we have seen him foraging for
@@ -203,7 +203,7 @@ enjoy
 
 <span id="page_55">p. 55</span>
 
-his protection. <span id="fr_143"></span>[1](#fn_143) As we stated
+his protection. <span id="fr_143"></span>[1](#fn_143.md) As we stated
 above, however, the ka was not an element of the personality, and we are
 not called upon to explain him physically or psychologically as such. He
 is roughly parallel with the later notion of the guardian angel as found
@@ -212,12 +212,12 @@ of such a being. It is of importance to note that in all probability the
 ka was originally the exclusive possession of kings, each of whom thus
 lived under the protection of his individual guardian genius, and that
 by a process of slow development the privilege of possessing a ka became
-universal among all the people. <span id="fr_144"></span>[2](#fn_144)
+universal among all the people. <span id="fr_144"></span>[2](#fn_144.md)
 
 The actual personality of the individual in life consisted, according to
 the Egyptian notion, in the visible body, and the invisible
 intelligence, the seat of the last being considered the "heart" or the
-"belly," <span id="fr_145"></span>[3](#fn_145) which indeed furnished
+"belly," <span id="fr_145"></span>[3](#fn_145.md) which indeed furnished
 the chief designations for the intelligence. Then the vital principle
 which, as so frequently among other peoples, was identified with the
 breath which animated the body, was not clearly distinguished from the
@@ -235,7 +235,7 @@ existence really for the first time at the death of the individual. All
 sorts of devices and ceremonies were resorted to that the deceased might
 at death become a ba, or as the Pyramid Texts, addressing the dead king,
 say, "that thou mayest become a ba among the gods, thou living as (or
-'in') thy ba." <span id="fr_146"></span>[1](#fn_146) There was a
+'in') thy ba." <span id="fr_146"></span>[1](#fn_146.md) There was a
 denominative verb "ba," meaning "to become a ba." Ba has commonly been
 translated as "soul," and the translation does indeed roughly correspond
 to the Egyptian idea. It is necessary to remember, however, in dealing
@@ -250,7 +250,7 @@ friend as existing in the body, or at least as being in outward
 appearance still possessed of a body, as we do, if we attempt to picture
 our departed friend at all. Hence, when depicted in mortuary paintings,
 the departed of course appears as he did in life. <span
-id="fr_147"></span>[2](#fn_147)
+id="fr_147"></span>[2](#fn_147.md)
 
 <span id="page_57">p. 57</span>
 
@@ -260,12 +260,12 @@ relatives and friends of the deceased, on the flat roof of the massive
 masonry tomb, the mortuary priest stood over the silent body and
 addressed the departed: "Thy bones perish not, thy flesh sickens not,
 thy members are not distant from thee." <span
-id="fr_148"></span>[1](#fn_148) Or he turns to the flesh of the dead
+id="fr_148"></span>[1](#fn_148.md) Or he turns to the flesh of the dead
 itself and says: "O flesh of this king Teti, decay not, perish not; let
-not thy odor be evil." <span id="fr_149"></span>[2](#fn_149) He utters a
+not thy odor be evil." <span id="fr_149"></span>[2](#fn_149.md) He utters a
 whole series of strophes, each concluding with the refrain: "King Pepi
 decays not, he rots not, he is not bewitched by your wrath, ye
-gods." <span id="fr_150"></span>[3](#fn_150)
+gods." <span id="fr_150"></span>[3](#fn_150.md)
 
 However effective these injunctions may have been, they were not
 considered sufficient. The motionless body must be resuscitated and
@@ -278,22 +278,22 @@ Sky-goddess
 
 will raise him up: "She sets on again for thee thy head, she gathers for
 thee thy bones, she unites for thee thy members, she brings for thee thy
-heart into thy body." <span id="fr_151"></span>[1](#fn_151) Sometimes
+heart into thy body." <span id="fr_151"></span>[1](#fn_151.md) Sometimes
 the priest assumes that the dead does not even enter the earth at
 interment and assures the mourning relatives: "His abomination is the
 earth, king Unis enters not Geb (the Earth-god). When he perishes,
 sleeping in his house on earth, his bones are restored, his injuries are
-removed." <span id="fr_152"></span>[2](#fn_152) But if the inexorable
+removed." <span id="fr_152"></span>[2](#fn_152.md) But if the inexorable
 fact be accepted that the body now lies in the tomb, the priest
 undauntedly calls upon the dead: "Arise, dwellers in your tombs. Loose
 your ⌈bandages,⌉ throw off the sand from thy (*sic!*) face. Lift thee up
 from upon thy left side, support thyself on thy right side. Raise thy
 face that thou mayest look at this which I have done for thee. I am thy
-son, I am thy heir." <span id="fr_153"></span>[3](#fn_153) He assures
+son, I am thy heir." <span id="fr_153"></span>[3](#fn_153.md) He assures
 the dead: "Thy bones are gathered together for thee, thy members are
 prepared for thee, thy ⌈impurities⌉ are thrown off for thee, thy
 bandages are loosed for thee. The tomb is opened for thee, the coffin is
-broken open for thee." <span id="fr_154"></span>[4](#fn_154) And yet the
+broken open for thee." <span id="fr_154"></span>[4](#fn_154.md) And yet the
 insistent fact of death so inexorably proclaimed by the unopened tomb
 led the priest to call upon the dead to waken and arise before each
 ceremony which he performed. As he brings food and drink we find him
@@ -301,7 +301,7 @@ calling: "Raise thee up, king Pepi, receive to thee thy water. Gather to
 thee thy bones, stand thou up upon thy two feet, being a glorious one
 before the glorious. Raise thee up for this thy bread which cannot dry
 up, and thy beer which cannot become stale." <span
-id="fr_155"></span>[5](#fn_155)
+id="fr_155"></span>[5](#fn_155.md)
 
 But even when so raised the dead was not in possession
 
@@ -311,17 +311,17 @@ of his senses and faculties, nor the power to control and use his body
 and limbs. His mourning friends could not abandon him to the uncertain
 future without aiding him to recover all his powers. "King Teti's mouth
 is opened for him, king Teti's nose is opened for him, king Teti's ears
-are opened for him," <span id="fr_156"></span>[1](#fn_156) says the
+are opened for him," <span id="fr_156"></span>[1](#fn_156.md) says the
 priest, and elaborate ceremonies were performed to accomplish this
 restoration of the senses and the faculty of speech. <span
-id="fr_157"></span>[2](#fn_157)
+id="fr_157"></span>[2](#fn_157.md)
 
 All this was of no avail, however, unless the unconscious body received
 again the seat of consciousness and feeling, which in this restoration
 of the mental powers was regularly the heart. "The heart of king Teti is
-not taken away," <span id="fr_158"></span>[3](#fn_158) says the ritual;
+not taken away," <span id="fr_158"></span>[3](#fn_158.md) says the ritual;
 or if it has gone the Sky-goddess "brings for thee thy heart into thy
-body (again)." <span id="fr_159"></span>[4](#fn_159)
+body (again)." <span id="fr_159"></span>[4](#fn_159.md)
 
 Several devices were necessary to make of this unresponsive mummy a
 living person, capable of carrying on the life hereafter. He has not
@@ -339,33 +339,33 @@ same effect as on Osiris.
 <span class="contnote">\[paragraph continues\]</span> "Raise thee up,"
 says the priest, "for this thy bread, which cannot dry up, and thy beer
 which cannot become stale, *by which thou shalt become a soul*." <span
-id="fr_160"></span>[1](#fn_160) The food which the priest offered
+id="fr_160"></span>[1](#fn_160.md) The food which the priest offered
 possessed the mysterious power of effecting the transformation of the
 dead man into a soul as the "eye of Horus" had once transformed Osiris.
 And it did more than this, for the priest adds, "by which thou shalt
-become one prepared." <span id="fr_161"></span>[2](#fn_161) To be "one
+become one prepared." <span id="fr_161"></span>[2](#fn_161.md) To be "one
 prepared" or, as the variants have it, "one equipped," is explained in
 the tombs of the Old Kingdom, where we find the owner boasting, "I am an
 excellent, equipped spirit, I know every secret charm of the
-court." <span id="fr_162"></span>[3](#fn_162) This man, a provincial
+court." <span id="fr_162"></span>[3](#fn_162.md) This man, a provincial
 noble, is proud of the fact that he was granted the great boon of
 acquaintance with the magical mortuary equipment used for the king at
 the court, an equipment intended to render the dead invulnerable and
 irresistible in the hereafter. We are able then to understand another
 noble of the same period when he says: "I am an excellent equipped
 spirit (literally, 'glorious one') whose mouth knows," <span
-id="fr_163"></span>[4](#fn_163) meaning his mouth is familiar with the
+id="fr_163"></span>[4](#fn_163.md) meaning his mouth is familiar with the
 mortuary magical equipment, which he is able to repeat whenever needed:
 Similarly one of the designations of the departed in the Pyramid Texts
 is "the glorious by reason of their equipped mouths." <span
-id="fr_164"></span>[5](#fn_164) Finally this strangely potent bread and
+id="fr_164"></span>[5](#fn_164.md) Finally this strangely potent bread and
 beer which the priest offers the dead, not only makes him a "soul" and
 makes him "prepared," but it also gives him "power" or makes him a
-"mighty one." <span id="fr_165"></span>[6](#fn_165) The "power"
+"mighty one." <span id="fr_165"></span>[6](#fn_165.md) The "power"
 conferred was in the first place intended to control the body of the
 dead and guide its actions, and without this power intended for this
 specific purpose it is evident the Egyptian believed the dead to be
-helpless. <span id="fr_166"></span>[7](#fn_166) This "power" was also
+helpless. <span id="fr_166"></span>[7](#fn_166.md) This "power" was also
 
 <span id="page_61">p. 61</span>
 
@@ -374,10 +374,10 @@ adversaries who awaited him in the beyond. It was so characteristic of
 the dead, that they might be spoken of as the "mighty" as we say the
 "blessed," and it was so tangible a part of the equipment of the
 departed that it underwent purification together with him. <span
-id="fr_167"></span>[1](#fn_167) This "power" finally gave the deceased
+id="fr_167"></span>[1](#fn_167.md) This "power" finally gave the deceased
 also "power" over all other powers within him, and the priest says to
 him, "Thou hast power over the powers that are in thee." <span
-id="fr_168"></span>[2](#fn_168)
+id="fr_168"></span>[2](#fn_168.md)
 
 From these facts it is evident that the Egyptians had developed a rude
 psychology of the dead, in accordance with which they endeavored to
@@ -392,7 +392,7 @@ deceased a "soul" (ba), in which capacity he again existed as a
 survive in the life hereafter. It is therefore not correct to attribute
 to the Egyptians a belief in the *immortality* of the soul strictly
 interpreted as imperishability or to speak of his "ideas of
-immortality." <span id="fr_169"></span>[3](#fn_169)
+immortality." <span id="fr_169"></span>[3](#fn_169.md)
 
 <span id="page_62">p. 62</span>
 
@@ -418,9 +418,9 @@ relation
 
 of Osiris to the dead, which is discernible in the Pyramid Texts,
 represents him as hostile to them, but this is an archaic survival of
-which only a trace remains. <span id="fr_170"></span>[1](#fn_170) As a
+which only a trace remains. <span id="fr_170"></span>[1](#fn_170.md) As a
 son of Geb the Earth-god, it was altogether natural to confide the dead
-to his charge. <span id="fr_171"></span>[2](#fn_171)
+to his charge. <span id="fr_171"></span>[2](#fn_171.md)
 
 It was the duty of every son to arrange the material equipment of his
 father for the life beyond—a duty so naturally and universally felt that
@@ -440,7 +440,7 @@ court, made up of the embalmers, mortuary priests, and mourners, bearing
 fragrant oil, aromatic gums, and fine linen, that all the ceremonies of
 embalmment, interment, and complete equipment for the hereafter might be
 completed at once, before the body should further perish. <span
-id="fr_172"></span>[3](#fn_172)
+id="fr_172"></span>[3](#fn_172.md)
 
 The erection of the tomb was an equally obvious duty incumbent upon sons
 and relatives, unless indeed that father was so attached to his own
@@ -455,10 +455,10 @@ father's name) in order that I might be with him in the same place; not,
 however, because I was not in a position to make a second tomb; but I
 did this in order that I might see this Zau every day, in order that I
 might be with him in the same place." <span
-id="fr_173"></span>[1](#fn_173) This pious son says further: "I buried
+id="fr_173"></span>[1](#fn_173.md) This pious son says further: "I buried
 my father, the count Zau, surpassing the splendor, surpassing the
 goodliness of any ⌈equal⌉ of his who was in this South" (meaning Upper
-Egypt). <span id="fr_174"></span>[2](#fn_174)
+Egypt). <span id="fr_174"></span>[2](#fn_174.md)
 
 From the thirty-fourth century on, as the tombs of the First Dynasty at
 Abydos show, it had become customary for favorite officials and
@@ -472,7 +472,7 @@ treasury and the royal quarries for the labor and the transportation
 necessary to procure him a great and sumptuous false door of massive
 limestone for his tomb, and he tells us the fact with great satisfaction
 and much circumstance in his tomb inscriptions. <span
-id="fr_175"></span>[3](#fn_175) We see the Pharaoh in the royal
+id="fr_175"></span>[3](#fn_175.md) We see the Pharaoh in the royal
 palanquin on the road which mounts from the valley to the desert
 plateau, whither he has ascended to inspect his pyramid, now slowly
 rising on the margin of the desert overlooking the valley. Here he
@@ -487,7 +487,7 @@ his *protégé*, and afterward orders the royal engineers and quarrymen
 who are at work upon a temple in the vicinity to bring for the fortunate
 Debhen two false doors of stone, the blocks for the façade of the tomb,
 and likewise a portrait statue of Debhen to be erected therein. <span
-id="fr_176"></span>[1](#fn_176) One of the leading nobles who was
+id="fr_176"></span>[1](#fn_176.md) One of the leading nobles who was
 flourishing at the close of the twenty-seventh century B.C. tells us in
 his autobiography how he was similarly favored: "Then I besought . . .
 the majesty of the king that there be brought for me a limestone
@@ -499,13 +499,13 @@ and he arrived with it in a large ship belonging to the court (that is,
 one of the royal galleys), together with its lid, the false door . . .
 (several other blocks the words for which are not quite certain in
 meaning), and one offering-tablet." <span
-id="fr_177"></span>[2](#fn_177)
+id="fr_177"></span>[2](#fn_177.md)
 
 In such cases as these, and indeed quite frequently, the king was
 expected to contribute to the embalmment and burial of a favorite noble.
 We have already seen how the Pharaoh sent out his body of mortuary
 officials, priests, and embalmers to meet Sebni, returning from the
-Sudan with his father's body. <span id="fr_178"></span>[3](#fn_178)
+Sudan with his father's body. <span id="fr_178"></span>[3](#fn_178.md)
 Similarly he despatched one of his commanders to rescue the body of an
 unfortunate noble who with his entire military escort had been massacred
 by the Bedwin on the shores of the Red Sea, while building
@@ -516,7 +516,7 @@ a ship for the voyage to Punt, the Somali coast, in all likelihood the
 land of Ophir of the Old Testament. Although the rescuer does not say so
 in his brief inscription, it is evident that the Pharaoh desired to
 secure the body of this noble also in order to prepare it properly for
-the hereafter. <span id="fr_179"></span>[1](#fn_179) Such solicitude can
+the hereafter. <span id="fr_179"></span>[1](#fn_179.md) Such solicitude can
 only have been due to the sovereign's personal attachment to a favorite
 official. This is quite evident in the case of Weshptah, one of the
 viziers of the Fifth Dynasty about 2700 B.C. The king, his family, and
@@ -533,7 +533,7 @@ to his chamber, where he prays to Re. He then makes all arrangements for
 Weshptah's burial, ordering an ebony coffin made and having the body
 anointed in his own presence. The dead noble's eldest son was then
 empowered to build the tomb, which the king furnished and endowed. <span
-id="fr_180"></span>[2](#fn_180) The noble whose pious son wished to rest
+id="fr_180"></span>[2](#fn_180.md) The noble whose pious son wished to rest
 in the same tomb with him (p. 64) enjoyed similar favor at the king's
 hands. His son says: "I requested as an honor from the majesty of my
 lord, the king of Egypt, Pepi II, who lives forever, that there be
@@ -545,7 +545,7 @@ father). His majesty caused that the custodian
 of the royal domain should bring a coffin of wood, festival perfume,
 oil, clothing, two hundred pieces of first-grade linen and of fine
 southern linen . . . taken from the White House (the royal treasury) of
-the court for this Zau." <span id="fr_181"></span>[1](#fn_181)
+the court for this Zau." <span id="fr_181"></span>[1](#fn_181.md)
 
 Interred thus in royal splendor and equipped with sumptuous furniture,
 the maintenance of the departed, in theory at least, *through all time*
@@ -560,7 +560,7 @@ intervals. The source of this income might be the revenues from the
 noble's own lands or from his offices and the perquisites belonging to
 his rank, from all of which a portion might be permanently diverted for
 the support of his tomb and its ritual. <span
-id="fr_182"></span>[2](#fn_182)
+id="fr_182"></span>[2](#fn_182.md)
 
 In a number of cases the legal instrument establishing these foundations
 has been engraved as a measure of safety on the wall inside the
@@ -568,7 +568,7 @@ tomb-chapel itself and has thus been preserved to us. At Siut Hepzefi
 the count and baron of the province has left us ten elaborate contracts
 on the inner wall of his tomb-chapel, intended to perpetuate the service
 which he desired to have regularly celebrated at his tomb or on his
-behalf. <span id="fr_183"></span>[3](#fn_183)
+behalf. <span id="fr_183"></span>[3](#fn_183.md)
 
 The amount of the endowment was sometimes surprisingly
 
@@ -587,7 +587,7 @@ of his daughter in the same way. In addition to such private resources,
 the death of a noble not infrequently resulted in further generosity on
 the part of the king, who might either increase the endowment which the
 noble had already made during his life, or even furnish it entirely from
-the royal revenues. <span id="fr_184"></span>[1](#fn_184)
+the royal revenues. <span id="fr_184"></span>[1](#fn_184.md)
 
 The privileges accruing to the dead from these endowments, while they
 were intended to secure him against all apprehension of hunger, thirst,
@@ -618,7 +618,7 @@ know anything in art, might serve as a body for the disembodied dead,
 who might thus return to enjoy a semblance at least of bodily presence
 in the temple, or again in the same way return to the tomb-chapel, where
 he might find other representations of his body in the secret chamber
-close by the chapel. <span id="fr_185"></span>[1](#fn_185)
+close by the chapel. <span id="fr_185"></span>[1](#fn_185.md)
 
 We discern in such usages the emergence of a more highly developed and
 more desirable hereafter, which has gradually supplanted the older and
@@ -629,69 +629,69 @@ gods eventually led by Osiris. But for the great of the earth, the king
 and his nobles at least, a happier destiny had now dawned. They might
 dwell at will with the Sun-god in his glorious celestial kingdom. In the
 royal tomb we can henceforth discern the emergence of this Solar
-hereafter (*cf.* pp. [140](rtae08.htm#page_140)–1).
+hereafter (*cf.* pp. [140](rtae08.htm#page_140)–1.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_124"></span>[49:1](rtae06.htm#fr_124) See also <span
+<span id="fn_124"></span>[49:1](rtae06.htm#fr_124.md) See also <span
 class="smallcaps">Prof. G. Elliot Smith</span>, *The History of
 Mummification in Egypt*, Proceedings of the Royal Philosophical Society
 of Glasgow, 1910.
 
-<span id="fn_125"></span>[52:1](rtae06.htm#fr_125) On the creation of
+<span id="fn_125"></span>[52:1](rtae06.htm#fr_125.md) On the creation of
 the kas in the beginning by the god see Brit. Mus. 797, *infra*, [p.
-45](rtae05.htm#page_45).
+45](rtae05.htm#page_45.md).
 
-<span id="fn_126"></span>[52:2](rtae06.htm#fr_126) Pyr. § 372.
+<span id="fn_126"></span>[52:2](rtae06.htm#fr_126.md) Pyr. § 372.
 
-<span id="fn_127"></span>[52:3](rtae06.htm#fr_127) BAR, I, 187, 253.
+<span id="fn_127"></span>[52:3](rtae06.htm#fr_127.md) BAR, I, 187, 253.
 
-<span id="fn_128"></span>[52:4](rtae06.htm#fr_128) Pyr. §§ 826, 832,
+<span id="fn_128"></span>[52:4](rtae06.htm#fr_128.md) Pyr. §§ 826, 832,
 836; *cf.* also "he goes *with* his ka," Pyr. § 17.
 
-<span id="fn_129"></span>[52:5](rtae06.htm#fr_129) <span
+<span id="fn_129"></span>[52:5](rtae06.htm#fr_129.md) <span
 class="smallcaps">Petrie</span>, *Deshasheh*, 7; <span
 class="smallcaps">Lepsius</span>, *Denkmaeler*, Text I, 19; Pyr. § 829.
 
-<span id="fn_130"></span>[53:1](rtae06.htm#fr_130) Pyr. § 1431.
+<span id="fn_130"></span>[53:1](rtae06.htm#fr_130.md) Pyr. § 1431.
 
-<span id="fn_131"></span>[53:2](rtae06.htm#fr_131) "How beautiful it is
+<span id="fn_131"></span>[53:2](rtae06.htm#fr_131.md) "How beautiful it is
 with thy ka (that is, in the company of thy ka = in the hereafter)
 forever," Pyr. § 2028.
 
-<span id="fn_132"></span>[53:3](rtae06.htm#fr_132) Pyr. § 267 and § 311.
+<span id="fn_132"></span>[53:3](rtae06.htm#fr_132.md) Pyr. § 267 and § 311.
 
-<span id="fn_133"></span>[53:4](rtae06.htm#fr_133) Pyr. § 63.
+<span id="fn_133"></span>[53:4](rtae06.htm#fr_133.md) Pyr. § 63.
 
-<span id="fn_134"></span>[53:5](rtae06.htm#fr_134) Pyr. § 587. See also
+<span id="fn_134"></span>[53:5](rtae06.htm#fr_134.md) Pyr. § 587. See also
 § 1609 and § 1623.
 
-<span id="fn_135"></span>[53:6](rtae06.htm#fr_135) Pyr. Ut. 440.
+<span id="fn_135"></span>[53:6](rtae06.htm#fr_135.md) Pyr. Ut. 440.
 
-<span id="fn_136"></span>[53:7](rtae06.htm#fr_136) Pyr. § 564.
+<span id="fn_136"></span>[53:7](rtae06.htm#fr_136.md) Pyr. § 564.
 
-<span id="fn_137"></span>[53:8](rtae06.htm#fr_137) Pyr. § 1357.
+<span id="fn_137"></span>[53:8](rtae06.htm#fr_137.md) Pyr. § 1357.
 
-<span id="fn_138"></span>[53:9](rtae06.htm#fr_138) Pyr. § 908.
+<span id="fn_138"></span>[53:9](rtae06.htm#fr_138.md) Pyr. § 908.
 
-<span id="fn_139"></span>[54:1](rtae06.htm#fr_139) Pyr. Ut. 591.
+<span id="fn_139"></span>[54:1](rtae06.htm#fr_139.md) Pyr. Ut. 591.
 
-<span id="fn_140"></span>[54:2](rtae06.htm#fr_140) Pyr. § 776.
+<span id="fn_140"></span>[54:2](rtae06.htm#fr_140.md) Pyr. § 776.
 
-<span id="fn_141"></span>[54:3](rtae06.htm#fr_141) Pyr. § 929.
+<span id="fn_141"></span>[54:3](rtae06.htm#fr_141.md) Pyr. § 929.
 
-<span id="fn_142"></span>[54:4](rtae06.htm#fr_142) Pyr. § 2028.
+<span id="fn_142"></span>[54:4](rtae06.htm#fr_142.md) Pyr. § 2028.
 
-<span id="fn_143"></span>[55:1](rtae06.htm#fr_143) Pyr. Texts. A later
+<span id="fn_143"></span>[55:1](rtae06.htm#fr_143.md) Pyr. Texts. A later
 example is found in the temple of Seti I, latter half of the fourteenth
 century B.C., in a relief where the ka is depicted as a woman, with the
 ka sign of uplifted arms on her head, embracing the name of Seti's Gurna
 temple. <span class="smallcaps">Champollion</span>, *Monuments*, pl.
 151, Nos. 2 and 3.
 
-<span id="fn_144"></span>[55:2](rtae06.htm#fr_144) I owe this last
+<span id="fn_144"></span>[55:2](rtae06.htm#fr_144.md) I owe this last
 remark to <span class="smallcaps">Steindorff</span>, who has recently
 published a reconsideration of the ka (*Zeitschrift für aegypt.
 Sprache*, 48,151, *ff*.), disproving the old notion that the mortuary
@@ -702,12 +702,12 @@ class="smallcaps">Steindorff</span> and to find that he had arrived at
 similar conclusions regarding the nature and function of the ka, though
 in making the ka so largely mortuary in function I differ with him.
 
-<span id="fn_145"></span>[55:3](rtae06.htm#fr_145) See above, pp. 44–45;
+<span id="fn_145"></span>[55:3](rtae06.htm#fr_145.md) See above, pp. 44–45;
 and my essay, *Zeitsch. für aegypt. Sprache*, 39, pp. 39 *ff*.
 
-<span id="fn_146"></span>[56:1](rtae06.htm#fr_146) Pyr. § 1943 b.
+<span id="fn_146"></span>[56:1](rtae06.htm#fr_146.md) Pyr. § 1943 b.
 
-<span id="fn_147"></span>[56:2](rtae06.htm#fr_147) There were other
+<span id="fn_147"></span>[56:2](rtae06.htm#fr_147.md) There were other
 *designations* of the dead, but there were not additional elements of
 his personality besides the ba and the body, as we find it so commonly
 stated in the current discussions of this subject. Thus the dead were
@@ -728,57 +728,57 @@ person in ancient Egypt as consisting, besides the body of a ka, a ba
 (soul), there was only the ka, the protecting genius, which was not an
 element of the personality as we have said.
 
-<span id="fn_148"></span>[57:1](rtae06.htm#fr_148) Pyr. § 725.
+<span id="fn_148"></span>[57:1](rtae06.htm#fr_148.md) Pyr. § 725.
 
-<span id="fn_149"></span>[57:2](rtae06.htm#fr_149) Pyr. § 722.
+<span id="fn_149"></span>[57:2](rtae06.htm#fr_149.md) Pyr. § 722.
 
-<span id="fn_150"></span>[57:3](rtae06.htm#fr_150) Pyr. Ut. 576; see
+<span id="fn_150"></span>[57:3](rtae06.htm#fr_150.md) Pyr. Ut. 576; see
 also preservation from decay by Isis and Nephthys, Pyr. § 1255.
 
-<span id="fn_151"></span>[58:1](rtae06.htm#fr_151) Pyr. § 835.
+<span id="fn_151"></span>[58:1](rtae06.htm#fr_151.md) Pyr. § 835.
 
-<span id="fn_152"></span>[58:2](rtae06.htm#fr_152) Pyr. § 308.
+<span id="fn_152"></span>[58:2](rtae06.htm#fr_152.md) Pyr. § 308.
 
-<span id="fn_153"></span>[58:3](rtae06.htm#fr_153) Pyr. §§ 1878–9.
+<span id="fn_153"></span>[58:3](rtae06.htm#fr_153.md) Pyr. §§ 1878–9.
 
-<span id="fn_154"></span>[58:4](rtae06.htm#fr_154) Pyr. § 2008–9.
+<span id="fn_154"></span>[58:4](rtae06.htm#fr_154.md) Pyr. § 2008–9.
 
-<span id="fn_155"></span>[58:5](rtae06.htm#fr_155) Pyr. §§ 858–9; see
+<span id="fn_155"></span>[58:5](rtae06.htm#fr_155.md) Pyr. §§ 858–9; see
 also the resuscitation before purification, Pyr. §§ 837, 841, and not
 uncommonly.
 
-<span id="fn_156"></span>[59:1](rtae06.htm#fr_156) Pyr. § 712.
+<span id="fn_156"></span>[59:1](rtae06.htm#fr_156.md) Pyr. § 712.
 
-<span id="fn_157"></span>[59:2](rtae06.htm#fr_157) See also Pyr. §§ 9,
+<span id="fn_157"></span>[59:2](rtae06.htm#fr_157.md) See also Pyr. §§ 9,
 10, and for the opening of the mouth, especially Ut. 20, 21, 22, 34, 38;
 for the opening of the eyes, Ut. 638, 639; for the opening of eyes,
 ears, nose, and mouth, see Pyr. § 1673.
 
-<span id="fn_158"></span>[59:3](rtae06.htm#fr_158) Pyr. § 748.
+<span id="fn_158"></span>[59:3](rtae06.htm#fr_158.md) Pyr. § 748.
 
-<span id="fn_159"></span>[59:4](rtae06.htm#fr_159) Pyr. § 828 = § 835;
+<span id="fn_159"></span>[59:4](rtae06.htm#fr_159.md) Pyr. § 828 = § 835;
 the heart may also be restored to the body by Horus, Pyr. Ut. 595, or by
 Nephthys, Ut. 628.
 
-<span id="fn_160"></span>[60:1](rtae06.htm#fr_160) Pyr. § 859.
+<span id="fn_160"></span>[60:1](rtae06.htm#fr_160.md) Pyr. § 859.
 
-<span id="fn_161"></span>[60:2](rtae06.htm#fr_161) *Ibid.*
+<span id="fn_161"></span>[60:2](rtae06.htm#fr_161.md) *Ibid.*
 
-<span id="fn_162"></span>[60:3](rtae06.htm#fr_162) BAR, I, 378.
+<span id="fn_162"></span>[60:3](rtae06.htm#fr_162.md) BAR, I, 378.
 
-<span id="fn_163"></span>[60:4](rtae06.htm#fr_163) BAR, I, 329.
+<span id="fn_163"></span>[60:4](rtae06.htm#fr_163.md) BAR, I, 329.
 
-<span id="fn_164"></span>[60:5](rtae06.htm#fr_164) Pyr. Ut. 473.
+<span id="fn_164"></span>[60:5](rtae06.htm#fr_164.md) Pyr. Ut. 473.
 
-<span id="fn_165"></span>[60:6](rtae06.htm#fr_165) Pyr. § 859.
+<span id="fn_165"></span>[60:6](rtae06.htm#fr_165.md) Pyr. § 859.
 
-<span id="fn_166"></span>[60:7](rtae06.htm#fr_166) Pyr. § 2096.
+<span id="fn_166"></span>[60:7](rtae06.htm#fr_166.md) Pyr. § 2096.
 
-<span id="fn_167"></span>[61:1](rtae06.htm#fr_167) Pyr. § 837.
+<span id="fn_167"></span>[61:1](rtae06.htm#fr_167.md) Pyr. § 837.
 
-<span id="fn_168"></span>[61:2](rtae06.htm#fr_168) Pyr. § 2011.
+<span id="fn_168"></span>[61:2](rtae06.htm#fr_168.md) Pyr. § 2011.
 
-<span id="fn_169"></span>[61:3](rtae06.htm#fr_169) The above does not
+<span id="fn_169"></span>[61:3](rtae06.htm#fr_169.md) The above does not
 exhaust the catalogue of qualities which were thought valuable to the
 dead and were communicated to him in the Pyramid Texts. Thus they say of
 the deceased: "His *fearfulness* (b’w) is on his head, his *terror* is
@@ -813,43 +813,43 @@ thereby, thou art an honored one thereby" (Pyr. § 2075), omitting the
 "equipment" or "preparation." It is also omitted in Pyr. § 2096 and §
 2098.
 
-<span id="fn_170"></span>[63:1](rtae06.htm#fr_170) Ut. 534.
+<span id="fn_170"></span>[63:1](rtae06.htm#fr_170.md) Ut. 534.
 
-<span id="fn_171"></span>[63:2](rtae06.htm#fr_171) Ut. 592.
+<span id="fn_171"></span>[63:2](rtae06.htm#fr_171.md) Ut. 592.
 
-<span id="fn_172"></span>[63:3](rtae06.htm#fr_172) BAR, I, 362–374.
+<span id="fn_172"></span>[63:3](rtae06.htm#fr_172.md) BAR, I, 362–374.
 
-<span id="fn_173"></span>[64:1](rtae06.htm#fr_173) BAR, I, 383; other
+<span id="fn_173"></span>[64:1](rtae06.htm#fr_173.md) BAR, I, 383; other
 examples of filial piety in the same respect, BAR, I, 181–7, 248, 274
 
-<span id="fn_174"></span>[64:2](rtae06.htm#fr_174) BAR, I, 382.
+<span id="fn_174"></span>[64:2](rtae06.htm#fr_174.md) BAR, I, 382.
 
-<span id="fn_175"></span>[64:3](rtae06.htm#fr_175) BAR, I, 237–240.
+<span id="fn_175"></span>[64:3](rtae06.htm#fr_175.md) BAR, I, 237–240.
 
-<span id="fn_176"></span>[65:1](rtae06.htm#fr_176) BAR, I, 210–212.
+<span id="fn_176"></span>[65:1](rtae06.htm#fr_176.md) BAR, I, 210–212.
 
-<span id="fn_177"></span>[65:2](rtae06.htm#fr_177) BAR, I, 308.
+<span id="fn_177"></span>[65:2](rtae06.htm#fr_177.md) BAR, I, 308.
 
-<span id="fn_178"></span>[65:3](rtae06.htm#fr_178) See above, [p.
-61](#page_61).
+<span id="fn_178"></span>[65:3](rtae06.htm#fr_178.md) See above, [p.
+61](#page_61.md).
 
-<span id="fn_179"></span>[66:1](rtae06.htm#fr_179) BAR, I, 360.
+<span id="fn_179"></span>[66:1](rtae06.htm#fr_179.md) BAR, I, 360.
 
-<span id="fn_180"></span>[66:2](rtae06.htm#fr_180) BAR, I, 242–9.
+<span id="fn_180"></span>[66:2](rtae06.htm#fr_180.md) BAR, I, 242–9.
 
-<span id="fn_181"></span>[67:1](rtae06.htm#fr_181) BAR, I, 382.
+<span id="fn_181"></span>[67:1](rtae06.htm#fr_181.md) BAR, I, 382.
 
-<span id="fn_182"></span>[67:2](rtae06.htm#fr_182) BAR, I, 200–9,
+<span id="fn_182"></span>[67:2](rtae06.htm#fr_182.md) BAR, I, 200–9,
 213–222, 226–230, 231, 349, 378, 535–593.
 
-<span id="fn_183"></span>[67:3](rtae06.htm#fr_183) BAR, I, 535–593. They
+<span id="fn_183"></span>[67:3](rtae06.htm#fr_183.md) BAR, I, 535–593. They
 will be found in substance *infra*, pp.
-[259](rtae12.htm#page_259)–[269](rtae12.htm#page_269).
+[259](rtae12.htm#page_259)–[269](rtae12.htm#page_269.md).
 
-<span id="fn_184"></span>[68:1](rtae06.htm#fr_184) So with the vizier,
+<span id="fn_184"></span>[68:1](rtae06.htm#fr_184.md) So with the vizier,
 Weshptah, above, p. 66; see also BAR, I, 378, 241, 213–230.
 
-<span id="fn_185"></span>[69:1](rtae06.htm#fr_185) The supposition that
+<span id="fn_185"></span>[69:1](rtae06.htm#fr_185.md) The supposition that
 these statues were intended to be those of the ka in particular is
 without foundation. Ka statues are nowhere mentioned in the Pyramid
 Texts, nor does the inscription regularly placed on such a statue ever
@@ -860,4 +860,4 @@ class="smallcaps">Steindorff</span>, *Zeitschr. für aegypt. Sprache*,
 ------------------------------------------------------------------------
 
 [Next: Lecture III. The Realms of the Dead—The Pyramid Texts—The Ascent
-to the Sky](rtae07)
+to the Sky](rtae07.md)

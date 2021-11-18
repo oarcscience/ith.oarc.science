@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft19)  [Next](meft21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft19)  [Next](meft21.md) 
 
 ------------------------------------------------------------------------
 
 # Scrapefoot
 
 <span id="img_020"></span> [![](tn/020.jpg)  
-Click to enlarge](img/020.jpg)
+Click to enlarge](img/020.jpg.md)
 
 ONCE upon a time, there were three Bears who lived in a castle in a
 great wood. One of them was a great big Bear, and one was a middling
@@ -79,4 +79,4 @@ as fast as he could go, and never went near the Bears' castle again.
 
 ------------------------------------------------------------------------
 
-[Next: The Pedlar of Swaffham](meft21)
+[Next: The Pedlar of Swaffham](meft21.md)

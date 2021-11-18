@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb07)  [Next](blfb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb07)  [Next](blfb09.md) 
 
 </div>
 
@@ -295,6 +295,6 @@ great lords of the Court.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Aladdin and the Wonderful Lamp](blfb09)
+[Next: Aladdin and the Wonderful Lamp](blfb09.md)
 
 </div>

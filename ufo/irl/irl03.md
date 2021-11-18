@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl02)  [Next](irl04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl02)  [Next](irl04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -54,7 +54,7 @@ was saying.
 
 been a mighty, living planet, swinging ponderously around a dying sun
 that it had never seen, being covered with clouds. Then that sun had
-gone out, and the deadly ter <span id="fr_11"></span>[12](#fn_11)
+gone out, and the deadly ter <span id="fr_11"></span>[12](#fn_11.md)
 stiffened the surface life into glittering death.
 
 "The planet's forests, which had lived in dense, dripping fog, had, in
@@ -163,7 +163,7 @@ centrifuges to remove poisons from the air. But I must impress upon you
 that it is impossible to shield us from all of the age poison; from that
 small amount that actually falls upon our own bodies and accumulates
 there as it does in the water. Eventually, if we remain on Mu, we will
-grow old, <span id="fr_12"></span>[13](#fn_12) and finally die."
+grow old, <span id="fr_12"></span>[13](#fn_12.md) and finally die."
 
 <span id="page_21">p. 21</span>
 
@@ -246,13 +246,13 @@ these sun's seeds, small but dense and active
 
 disintegrative particles, and I learned that keeping Atlan's peoples
 young was an increasingly difficult job for the technicons. I learned
-that the coordinators and rodite <span id="fr_13"></span>[14](#fn_13)
+that the coordinators and rodite <span id="fr_13"></span>[14](#fn_13.md)
 were preparing the plans and ships for our migration to a young,
 new-born sun, where the force setup of life conditions left a greater
 margin of exd for intake of power, where integrance went on at a faster
 pace, and where the infection that caused the occasional trouble with
 detrimental energy robotism or detrimental err <span
-id="fr_14"></span>[15](#fn_14) in the human did not occur.
+id="fr_14"></span>[15](#fn_14.md) in the human did not occur.
 
 W hen the lecture in the embryo laboratory was finished we filed back to
 the classroom, and there the Titan flipped the switch that controlled
@@ -323,10 +323,10 @@ the universe.
 
 ### Footnotes
 
-<span id="fn_11"></span>[18:12](irl03.htm#fr_11) Ter—the Lemurian word
+<span id="fn_11"></span>[18:12](irl03.htm#fr_11.md) Ter—the Lemurian word
 for cold.—Ed.
 
-<span id="fn_12"></span>[20:13](irl03.htm#fr_12) Impressed with the
+<span id="fn_12"></span>[20:13](irl03.htm#fr_12.md) Impressed with the
 implications contained in this portion of <span id="page_21">p.
 21</span> the story of Mutan Mion, we wrote Mr. Shaver for additional
 information on this theory of the cause of age. This information is
@@ -381,13 +381,13 @@ radio-active. The evil has reached an acute stage in our laboratory.'
 formerly allowed workers (young girls of twenty) to tongue-tip the
 brushes with which they painted the radioactive dials. They died of OLD
 AGE at twenty and twenty-five years! Not of a disease, but of age
-poison; [radioactive](errata.htm#2) particles, whose origination is from
+poison; [radioactive](errata.htm#2.md) particles, whose origination is from
 the disintegration of the heavy metals of which radium is a member!"—Ed.
 
-<span id="fn_13"></span>[24:14](irl03.htm#fr_13) Rodite—Life pattern
+<span id="fn_13"></span>[24:14](irl03.htm#fr_13.md) Rodite—Life pattern
 synchronizers.—Ed.
 
-<span id="fn_14"></span>[24:15](irl03.htm#fr_14) This is mainly due
+<span id="fn_14"></span>[24:15](irl03.htm#fr_14.md) This is mainly due
 (explains Mr. Shaver) to depolarization of the matter of the brain; it
 is no longer earth polared, it is sun polared—and hence inducts the
 disintegrant flows from the sun into the brain by simple dynamic
@@ -423,4 +423,4 @@ matter in an endless circle.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Terror in Tean City](irl04)
+[Next: Chapter III. Terror in Tean City](irl04.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf01)  [Next](sbf03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf01)  [Next](sbf03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -437,6 +437,6 @@ LONDON, 1911.
 
 ------------------------------------------------------------------------
 
-[Next: The Mantis Assumes The Form Of A Hartebeest](sbf03)
+[Next: The Mantis Assumes The Form Of A Hartebeest](sbf03.md)
 
 </div>

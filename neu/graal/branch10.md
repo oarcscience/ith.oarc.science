@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch09) 
-[Next](branch11) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch09.md) 
+[Next](branch11.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -761,5 +761,5 @@ King and Queen with great plenty of knights and barons.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XI](branch11)  
+XI](branch11.md)  
 </span>

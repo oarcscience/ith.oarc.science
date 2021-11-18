@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft46)  [Next](efft48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft46)  [Next](efft48.md) 
 
 ------------------------------------------------------------------------
 
-# THE WELL OF ST. LUDGVAN  <span id="fr_53"></span>[1](#fn_53)
+# THE WELL OF ST. LUDGVAN  <span id="fr_53"></span>[1](#fn_53.md)
 
 ST. LUDGVAN, an Irish missionary, had finished his work. On the
 hill-top, looking over the most beautiful of bays, the church stood with
@@ -47,7 +47,7 @@ until they thought it would fall. The saint was alone unmoved. He prayed
 on, until, like a flash of lightning, the demon vanished, shaking down a
 pinnacle in his flight. The demon, by spitting in the water, destroyed
 the spells of the water upon the eyes  <span
-id="fr_54"></span>[2](#fn_54) and the tongue too; but it fortunately
+id="fr_54"></span>[2](#fn_54.md) and the tongue too; but it fortunately
 retains its virtue of preventing any child baptised in it from being
 hanged with a cord of hemp. Upon a cord of silk it is stated to have no
 power.
@@ -116,13 +116,13 @@ it may be used whenever they present their children to be baptised.
 
 ### Footnotes
 
-<span id="fn_53"></span>[1](efft47.htm#fr_53) Robert Hunt, *Popular
+<span id="fn_53"></span>[1](efft47.htm#fr_53.md) Robert Hunt, *Popular
 Romances of the West of England*, 2nd series, p. 39.
 
-<span id="fn_54"></span>[2](efft47.htm#fr_54) It is curious that the
+<span id="fn_54"></span>[2](efft47.htm#fr_54.md) It is curious that the
 farm over which some of this water flows is called "Collurian" to this
 day.
 
 ------------------------------------------------------------------------
 
-[Next: The Hedley Kow](efft48)
+[Next: The Hedley Kow](efft48.md)

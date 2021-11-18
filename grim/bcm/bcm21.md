@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm20)  [Next](bcm22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm20)  [Next](bcm22.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ undoubtedly be regarded as an integral portion of the original work.
 
 ------------------------------------------------------------------------
 
-[Next: Section 3: The Grand Grimoire](bcm22)
+[Next: Section 3: The Grand Grimoire](bcm22.md)

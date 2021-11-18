@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray028)  [Next](pray030) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray028)  [Next](pray030.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@ sacrifices), it is manifest sacrilege to offer prayer to others. Hence
 it is said in the psalm: "If we have forgotten the name of our God, or
 stretched out our hands to a strange god, shall not God search this
 out?" (<span id="iii.xxvii-p1.1"></span>[Ps.
-44:20](../../../bib/kjv/psa044.htm#020),
-[21](../../../bib/kjv/psa044.htm#021)<span id="iii.xxvii-p1.1"></span>).
+44:20](../../../bib/kjv/psa044.htm#020.md),
+[21](../../../bib/kjv/psa044.htm#021)<span id="iii.xxvii-p1.1"></span>.md).
 Again, since it is only in faith that God desires to be invoked, and he
 distinctly enjoins us to frame our prayers according to the rule of his
 word: in fine, since faith is founded on the word, and is the parent of
@@ -42,7 +42,7 @@ mutual prayers; but says not one syllable concerning the dead; nay,
 James tacitly excludes the dead when he combines the two things, to
 "confess our sins one to another, and to pray one for another" (<span
 id="iii.xxvii-p1.2"></span>[James
-5:16](../../../bib/kjv/jam005.htm#016)<span
+5:16](../../../bib/kjv/jam005.htm#016.md)<span
 id="iii.xxvii-p1.2"></span>). Hence it is sufficient to condemn this
 error, that the beginning of right prayer springs from faith, and that
 faith comes by the hearing of the word of God, in which there is no
@@ -62,4 +62,4 @@ and Hypolyte, and similar phantoms.
 
 ------------------------------------------------------------------------
 
-[Next: 28.](pray030)
+[Next: 28.](pray030.md)

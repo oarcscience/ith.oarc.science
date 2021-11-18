@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut49)  [Next](hut51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut49)  [Next](hut51.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XLVII.
 
-### Formula of Medicine for Acquiring Wealth. <span id="fr_97"></span>[1](#fn_97)
+### Formula of Medicine for Acquiring Wealth. <span id="fr_97"></span>[1](#fn_97.md)
 
 <span id="page_338">p. 338</span>
 
-A young man grew at Xotūwaikût. <span id="fr_98"></span>[1](#fn_98)
+A young man grew at Xotūwaikût. <span id="fr_98"></span>[1](#fn_98.md)
 There was no water. Gulchs came out there, but there was no water in
 them nor anywhere in the world. He always went to get sweat-house wood
 in the morning. He always cried. When the sun went down he finished the
@@ -57,12 +57,12 @@ rich." This one was living when there was no water but his tears.
 
 ### Footnotes
 
-<span id="fn_97"></span>[336:1](hut50.htm#fr_97) Told at Hupa, December
+<span id="fn_97"></span>[336:1](hut50.htm#fr_97.md) Told at Hupa, December
 1901, by Henry Hostler.
 
-<span id="fn_98"></span>[338:1](hut50.htm#fr_98) Pactaw, opposite
+<span id="fn_98"></span>[338:1](hut50.htm#fr_98.md) Pactaw, opposite
 Weitchpec.
 
 ------------------------------------------------------------------------
 
-[Next: XLVIII. Formula of Medicine for Green Vomit](hut51)
+[Next: XLVIII. Formula of Medicine for Green Vomit](hut51.md)

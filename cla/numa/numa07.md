@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](numa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](numa06.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ There have been
 scattered through the pages of history even down to our own day men of
 whom we say that they were not great men, though they did a great work.
 In certain cases doubtless we can separate the man from his work and
-[justify](errata.htm#1) the assertion, but in other cases we are
+[justify](errata.htm#1.md) the assertion, but in other cases we are
 deceived by the man himself just as his contemporaries were and as he
 wished them to be. For it occasionally happens that a man who is called
 to rule over men and to reorganise a disordered government is able best

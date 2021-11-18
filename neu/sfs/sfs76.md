@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs75)  [Next](sfs77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs75)  [Next](sfs77.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -106,7 +106,7 @@ frightened, and cried out at the top of his voice: 'Jesus, Maria! my son
 has gone down to hell!' He then crept home very sorrowful.
 
 His son passed through the water into a town which is called
-Perdonkorten. <span id="fr_19"></span>[\*](#fn_19) In this town all the
+Perdonkorten. <span id="fr_19"></span>[\*](#fn_19.md) In this town all the
 population was enchanted. He walked and walked about the town, but
 nowhere was there anybody. Hunger took possession of him, but he could
 get nothing to eat. He bethought himself of going to catch some fish. He
@@ -381,9 +381,9 @@ on the back with a shovel. After that I took myself off.
 
 ### Footnotes
 
-<span id="fn_19"></span>[304:\*](sfs76.htm#fr_19) German,
+<span id="fn_19"></span>[304:\*](sfs76.htm#fr_19.md) German,
 'Wundergarten.'
 
 ------------------------------------------------------------------------
 
-[Next: LIX. The White Snake](sfs77)
+[Next: LIX. The White Snake](sfs77.md)

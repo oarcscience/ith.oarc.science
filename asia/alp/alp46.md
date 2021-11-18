@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp45) 
-[Next](alp47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp45.md) 
+[Next](alp47.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ The rock remains, gloomy and motionless.
 
 ------------------------------------------------------------------------
 
-[Next: The Crane](alp47)
+[Next: The Crane](alp47.md)

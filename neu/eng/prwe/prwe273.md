@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe272)  [Next](prwe274) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe272)  [Next](prwe274.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ The pilchard visits this coast in the early autumn. These are the "fish
 
 ------------------------------------------------------------------------
 
-[Next: To Choose a Wife](prwe274)
+[Next: To Choose a Wife](prwe274.md)

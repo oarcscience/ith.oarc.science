@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-09in) [Next](dob-10in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-09in) [Next](dob-10in.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ early morning, proceeded in his robes, and with his bowl in his hand,
 into Sâvatthi for alms.
 
 {1. This, for the reasons given above at [p.
-195](dob-06in.htm#p.%20195), is probably a gotta name; and, as such, a
+195](dob-06in.htm#p.%20195.md), is probably a gotta name; and, as such, a
 patronymic from the personal name, also Po*tth*apâda, meaning 'born
 under Po*tth*apâda (the old name for the 25th lunar asterism, afterwards
 called Bhadrapadâ). Buddhaghosa says that as a layman he had been a
@@ -84,7 +84,7 @@ brought a low stool, and sat down beside him. And to him thus seated the
 Exalted One said:
 
 {1. For notes on this list, see above, p. 14 {[p.
-13](dob-01tx.htm#p.%2013)}, § 17.
+13](dob-01tx.htm#p.%2013.md)}, § 17.
 
 2\. Idhâgamanâya pariyâya*m* akâsi. So M. I, 252, 326, 481, 514, &c.
 Perhaps 'since you made this change in your regular habits.'}
@@ -157,7 +157,7 @@ training others pass away.
    'And what is that training?' continued the Exalted One.
 
    \[*He then sets out the first part of the system of self-training for
-the* Bhikkhu, *as translated above,* [pp. 78-84](dob-02tx.htm#p.%2078),
+the* Bhikkhu, *as translated above,* [pp. 78-84](dob-02tx.htm#p.%2078.md),
 *from the* Sâma*ññ*a-phala, as follows:--
 
    1. *The introductory paragraphs on the appearance of a* Buddha, *his
@@ -308,8 +308,8 @@ Perhaps 'mind' is meant.
 2\. On these last three sections, which set out the fourth, fifth, and
 sixth stages of Deliverance (the Vimokkhas), see my former translation
 at p. 52 of my 'Buddhist Suttas' (S. B. E.) and the notes on [pp. 50,
-51](dob-01tx.htm#p.%2050). These stages are almost exactly the same as
-the views controverted above at [pp. 47, 48](dob-01tx.htm#p.%2047). And
+51](dob-01tx.htm#p.%2050.md). These stages are almost exactly the same as
+the views controverted above at [pp. 47, 48](dob-01tx.htm#p.%2047.md). And
 the doctrine of the sixth Vimokkha, as we see from M. I, 164, formed
 part of the teaching of Gotama's teacher, Â*l*âra Kâlâma.}
 
@@ -440,11 +440,11 @@ argument would apply{3}.'
 out below in § 23. But he advances this, more elementary, proposition,
 just to see how the Buddha would meet it. It is nearly the same as the
 first of the seven propositions about the soul controverted in the
-Brahma-*g*âla (above, [pp. 46-48](dob-01tx.htm#p.%2046)).
+Brahma-*g*âla (above, [pp. 46-48](dob-01tx.htm#p.%2046).md).
 
 2\. This sort of soul is nearly the same as the one referred to above,
-in the Brahma-*g*âla (§ 12, [p. 47](dob-01tx.htm#p.%2047)); and in the
-Sama*ññ*â-phala (§ 85, [p. 87](dob-02tx.htm#p.%2087)). It is a soul the
+in the Brahma-*g*âla (§ 12, [p. 47](dob-01tx.htm#p.%2047).md); and in the
+Sama*ññ*â-phala (§ 85, [p. 87](dob-02tx.htm#p.%2087).md). It is a soul the
 exact copy, in every respect, of the body, and material, but so subtle
 that it can be described as 'made of mind.'
 
@@ -505,7 +505,7 @@ opinion.'
    'This question is not calculated to profit, it is not
 
 <span class="small">{1. On these Ten Indeterminates see above, in the
-[Introduction to the Mahâli Sutta](dob-06in).}</span>
+[Introduction to the Mahâli Sutta](dob-06in.md).}</span>
 
 <span id="p. 255">{p. 255}</span>
 
@@ -626,7 +626,7 @@ answered: "No."
 the talk of those Sama*n*as and Brahmans turn out to be without good
 ground{3}?'
 
-{1. Compare above, [pp. 44-47](dob-01tx.htm#p.%2044).
+{1. Compare above, [pp. 44-47](dob-01tx.htm#p.%2044.md).
 
 2\. Buddhaghosa takes *g*ana*m* passa*m* as plurals.
 
@@ -960,5 +960,5 @@ Here ends the Po*tth*apâda Suttanta.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Subha
-Sutta](dob-10in)
+[Return to top](#top.md)   [Next: Introduction to the Subha
+Sutta](dob-10in.md)

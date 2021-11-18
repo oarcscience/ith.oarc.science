@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat77)  [Next](jat79) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat77)  [Next](jat79.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ it.
 
 ------------------------------------------------------------------------
 
-[Next: 77. The Tcactcini](jat79)
+[Next: 77. The Tcactcini](jat79.md)

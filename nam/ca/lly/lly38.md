@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly37)  [Next](lly39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly37)  [Next](lly39.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ Grasshoppers were also caught and eaten raw.
 
 ------------------------------------------------------------------------
 
-[Next: Clover Grasses, Grass Seeds, and Edible Roots](lly39)
+[Next: Clover Grasses, Grass Seeds, and Edible Roots](lly39.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj00)  [Next](igj02) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj00)  [Next](igj02.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](igj02)
+[Next: List of Illustrations](igj02.md)

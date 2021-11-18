@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai12)  [Next](jai14) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai12)  [Next](jai14.md) 
 
 ------------------------------------------------------------------------
 
@@ -781,4 +781,4 @@ local cults.
 
 ------------------------------------------------------------------------
 
-[Next: The Rise of the Military Power](jai14)
+[Next: The Rise of the Military Power](jai14.md)

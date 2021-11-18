@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp48) 
-[Next](alp50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp48.md) 
+[Next](alp50.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span id="img_06500"></span>
 
 [![ARTAVASD](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)  
+Click to enlarge](img/06500.jpg.md)  
 ARTAVASD  
 
 ### ARTAVASD
@@ -74,4 +74,4 @@ full of wickedness from his very birth, so also did he end.
 
 ------------------------------------------------------------------------
 
-[Next: Charm Verses](alp50)
+[Next: Charm Verses](alp50.md)

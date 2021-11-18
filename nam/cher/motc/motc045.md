@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc044) 
-[Next](motc046) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc044.md) 
+[Next](motc046.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ and not a lazy huhu; so you may go." And she drove him from the house.
 
 ------------------------------------------------------------------------
 
-[Next: 46. Why The Buzzard's Head Is Bare](motc046)
+[Next: 46. Why The Buzzard's Head Is Bare](motc046.md)

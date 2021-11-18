@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](hif06)  [Next](hif08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](hif06)  [Next](hif08.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ enormous quantities for ornamentation.
 ------------------------------------------------------------------------
 
 [Next: Sidebar: Who Dr. Heinrich Schliemann Was and the Treasures He
-Found](hif08)
+Found](hif08.md)

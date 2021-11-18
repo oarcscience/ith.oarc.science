@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe172)  [Next](prwe174) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe172)  [Next](prwe174.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ difficult.
 
 ------------------------------------------------------------------------
 
-[Next: Cornish Sorcerors](prwe174)
+[Next: Cornish Sorcerors](prwe174.md)

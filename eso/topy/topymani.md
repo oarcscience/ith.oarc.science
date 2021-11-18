@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Esoteric](../index)  [Thee Temple ov
-Psychic Youth](https://www.topy.net/topy/) \[External Site\] 
+[Sacred-Texts](../../index)  [Esoteric](../index.md)  [Thee Temple ov
+Psychic Youth](https://www.topy.net/topy/.md) \[External Site\] 
 
 ------------------------------------------------------------------------
 
@@ -367,7 +367,7 @@ remain at all times absolutely confidential, and will be stored in a
 locked vault. Sigils must be sent in a plastic baggie or wrapper.
 Completion ov 23 such monthly rituals qualifies one as a full initiate
 ov thee Temple. Applicants must also fill out and submit thee [Consent 
-form](https://www.topy.net/topy/consent.html)[.](https://www.eskimo.com/~carcosa/consent.html)
+form](https://www.topy.net/topy/consent.html)[.](https://www.eskimo.com/~carcosa/consent.html.md)
 
 Temple Ov Psychick Youth (TOPY)  
 PMB 145  
@@ -376,7 +376,7 @@ Portland, OR 97266
 
 Please include an email address with any Sigil submissions or
 information requests! Also, a courtesy message to thee  
-[Station Coordinator](mailto:%20Station@topy.org) to thee effect that
+[Station Coordinator](mailto:%20Station@topy.org.md) to thee effect that
 there is a mail submission/request will greatly expidite
 processing/replies as  
 otherwise Snailmail is answered quarterly.
@@ -794,7 +794,7 @@ protection through active truth.
 
 ------------------------------------------------------------------------
 
-[Back to T.O.P.Y.](https://www.eskimo.com/~carcosa/topy.html)
+[Back to T.O.P.Y.](https://www.eskimo.com/~carcosa/topy.html.md)
 
 ------------------------------------------------------------------------
 

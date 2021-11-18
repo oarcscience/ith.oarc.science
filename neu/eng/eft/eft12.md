@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft11)  [Next](eft13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft11)  [Next](eft13.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ did all the dirty work. And because she gave no name they called her
 'Cap o' Rushes'.
 
 <span id="img_016"></span> [![](tn/016.jpg)  
-Click to enlarge](img/016.jpg)
+Click to enlarge](img/016.jpg.md)
 
 Well, one day there was to be a great dance a little way off, and the
 servants were allowed to go and look on at the grand people. Cap o'
@@ -203,4 +203,4 @@ And so they were all happy ever after.
 
 ------------------------------------------------------------------------
 
-[Next: Teeny-Tiny](eft13)
+[Next: Teeny-Tiny](eft13.md)

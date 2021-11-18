@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps29)  [Next](rps31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps29)  [Next](rps31.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ I promoted Doctor Bell to the Rank of Kings for the Mistake he made.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 29. The Eternal Law Office](rps31)
+[Next: Chapter 29. The Eternal Law Office](rps31.md)

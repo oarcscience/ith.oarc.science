@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq46)  [Next](sfq48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq46)  [Next](sfq48.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ returned to the inner room whence they had come.
 
 ------------------------------------------------------------------------
 
-[Next: How Britomart rescued a Fair Lady from a Wicked Enchanter](sfq48)
+[Next: How Britomart rescued a Fair Lady from a Wicked Enchanter](sfq48.md)

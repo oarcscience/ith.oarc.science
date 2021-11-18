@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa11)  [Next](tsoa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa11)  [Next](tsoa13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -222,7 +222,7 @@ getting, get understanding," said Solomon.
 
 <div style="font-size: 90%;">
 
-"Happy is the man that findeth [wisdom](errata.htm#4),  
+"Happy is the man that findeth [wisdom](errata.htm#4.md),  
  And the man that getteth understanding.  
  For the gaining of it is better than the gaining of silver.  
  And the profit thereof than fine gold.  
@@ -449,7 +449,7 @@ consciousness. Do as Aladdin did
 <span id="page_188">p. 188</span>
 
 <span class="contnote">\[paragraph continues\]</span> —summon your
-[Genie](errata.htm#5), give him your Orders, then forget the matter,
+[Genie](errata.htm#5.md), give him your Orders, then forget the matter,
 secure in the knowledge that he will attend to it for you. When you
 waken, *you will have the answer!*
 
@@ -499,4 +499,4 @@ exist that you cannot solve.
 
 ------------------------------------------------------------------------
 
-[Next: VI. See Yourself Doing It](tsoa13)
+[Next: VI. See Yourself Doing It](tsoa13.md)

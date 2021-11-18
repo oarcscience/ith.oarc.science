@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](tpt17)  [Next](tpt19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](tpt17)  [Next](tpt19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486202496/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -356,4 +356,4 @@ plain from what I have said already, especially in Chapter II.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII.—It Is Shown That Scripture Teaches Only Very Simple
-Doctrines, Such As Suffice For Right Conduct](tpt19)
+Doctrines, Such As Suffice For Right Conduct](tpt19.md)

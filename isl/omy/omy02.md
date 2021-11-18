@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy01)  [Next](omy03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy01)  [Next](omy03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -25,7 +25,7 @@ Heritage
 ### PREFACE.
 
 THE following work is founded upon a Persian MS. treatise by ’Azíz bin
-Mohammed Nafasí <span id="fr_0"></span>[1](#fn_0), but I have
+Mohammed Nafasí <span id="fr_0"></span>[1](#fn_0.md), but I have
 endeavoured to give a clearer and more succinct account of the system
 than would have been afforded by a mere translation. The term Súfí is
 derived from the Arabic word *súf* "wool," in allusion to the dress
@@ -41,7 +41,7 @@ precepts. These tenets are found principally among the Shi’ites, or
 followers of ’Ali, and appear to have existed in Islamism from its very
 foundation; indeed the expression of the Corán, "I am the Truth" (Hacc),
 is the first principle of the system. They may be considered as forming
-the esoteric doctrine of that creed <span id="fr_1"></span>[1](#fn_1).
+the esoteric doctrine of that creed <span id="fr_1"></span>[1](#fn_1.md).
 Steering a mid course between the pantheism of India on the one hand and
 the deism of the Corán on the other, the Sufis’ cult is the religion of
 beauty, where heavenly perfection is considered under the imperfect type
@@ -95,7 +95,7 @@ E. H. PALMER.
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:1](omy02.htm#fr_0) The *Maksad i Aksá* or
+<span id="fn_0"></span>[ix:1](omy02.htm#fr_0.md) The *Maksad i Aksá* or
 "Remotest Aim." Vide *Hajji Khalfa*, ed. Flügel, Vol. VI. p. 90. This
 work was originally written in Turkish and translated into Persian by
 Khwárazím Shah. Some fragments of it were edited in Turkish and Latin by
@@ -105,10 +105,10 @@ Philosophical and Religious subjects, presented by Adam Bowen to the
 Library of Trinity College, Cambridge. It is marked R. 13. 32. in the
 Catalogue.
 
-<span id="fn_1"></span>[x:1](omy02.htm#fr_1) Cf. *La Poesie
+<span id="fn_1"></span>[x:1](omy02.htm#fr_1.md) Cf. *La Poesie
 philosophique et religieuse chez les Persans*, par M. Garcin de Tassy,
 p. 3.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](omy03)
+[Next: Contents](omy03.md)

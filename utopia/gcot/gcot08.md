@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot07)  [Next](gcot09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot07)  [Next](gcot09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -259,7 +259,7 @@ tenants, and fixes the rate-rent to be paid—such rate-rents not,
 however, being fixed arbitrarily by the department, but upon the
 essential principle adopted by other Assessment Committees —the really
 determining factor being the rate-rent which an average tenant is found
-willing to pay. <span id="fr_14"></span>[1](#fn_14)
+willing to pay. <span id="fr_14"></span>[1](#fn_14.md)
 
 *Law*
 
@@ -332,11 +332,11 @@ town.
 
 ### Footnotes
 
-<span id="fn_14"></span>[94:1](gcot08.htm#fr_14) This individual is
+<span id="fn_14"></span>[94:1](gcot08.htm#fr_14.md) This individual is
 known to Assessment Committees under the name of the 'hypothetical
 tenant'.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter Seven. Semi-Municipal Enterprise—Local Option—Temperance
-Reform](gcot09)
+Reform](gcot09.md)

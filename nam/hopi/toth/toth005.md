@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth004)  [Next](toth006) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth004)  [Next](toth006.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 4. THE WANDERINGS OF THE HOPI. <span id="fr_12"></span>[1](#fn_12)
+## 4. THE WANDERINGS OF THE HOPI. <span id="fr_12"></span>[1](#fn_12.md)
 
 A very long time ago they were living down below. Everything was good
 there at that time. That way of living was good down there. Everything
@@ -42,7 +42,7 @@ above and see how it was there, and then if the one above there wanted
 them, they wanted to try to go out. So the others were willing too that
 they wanted to find out about that, and then if they were permitted they
 wanted to move up there. So they were now thinking who should find out.
-So they made a Pawáok'aya, <span id="fr_13"></span>[2](#fn_13) sang over
+So they made a Pawáok'aya, <span id="fr_13"></span>[2](#fn_13.md) sang over
 it, and thus brought it to life. "Why do you want me?" the bird said.
 "Yes," the chief said, "we are not living well here, our hearts are not
 light, and they are troubling us here, and now I have been thinking
@@ -77,7 +77,7 @@ thinking about it.
 
 So they made another one, but this time a small one, and when they were
 singing over it it became alive. When it had become alive they saw that
-it was a Humming-bird (Tóhcha), <span id="fr_14"></span>[1](#fn_14)
+it was a Humming-bird (Tóhcha), <span id="fr_14"></span>[1](#fn_14.md)
 which is very small, but very swift and strong. "Why do you want me?"
 the bird said. "Yes," they said, "our children here are not with good
 hearts. We are not living well here; we are living here in trouble. So
@@ -206,7 +206,7 @@ down and there he saw his child running around with the others. "That is
 the way it will be," the maiden said to the chief; "if any one dies, he
 will go down there and he will remain there only four days, and after
 the four days he will come back again and live with his people." <span
-id="fr_15"></span>[1](#fn_15) Hereupon the chief was willing that she
+id="fr_15"></span>[1](#fn_15.md) Hereupon the chief was willing that she
 should remain and he did not throw her down, but he told her that she
 could not go with them right away. When they should leave, when they had
 slept, after the first day she might follow them. So she remained there
@@ -259,7 +259,7 @@ the Hopi have corn, because the smaller ears were really the corn.
 
 The chief had an elder brother, and he selected some: of the best
 foods-that tasted well, such as nö'okwiwi, <span
-id="fr_16"></span>[1](#fn_16) meats, etc. They were now ready to start,
+id="fr_16"></span>[1](#fn_16.md) meats, etc. They were now ready to start,
 and then the chief and his elder brother talked with each other and
 agreed that the elder brother should go with a party ahead towards the
 sunrise, and when he would arrive there he should touch the sun, at
@@ -314,9 +314,9 @@ began to war against each other. Whenever a certain party possessed
 something, another party would attack and kill them on account of those
 possessions. For that reason some of them built their villages on top of
 the bluffs and mesas, because they were afraid of other parties. Finally
-some of them arrived at Mû'enkapi. <span id="fr_17"></span>[1](#fn_17)
+some of them arrived at Mû'enkapi. <span id="fr_17"></span>[1](#fn_17.md)
 These were the Bear clan, Spider clan, Hide Strap clan, Blue-bird clan,
-and the Fat Cavity <span id="fr_18"></span>[2](#fn_18) clan; all of
+and the Fat Cavity <span id="fr_18"></span>[2](#fn_18.md) clan; all of
 which had derived their names from a dead bear upon which these
 different parties had come as they were traveling along.
 
@@ -339,7 +339,7 @@ towards Oraíbi. When the Spider clan arrived at Mû'enkapi they made
 marks or wrote on a certain bluff east of Mû'enkapi, saving that this
 place should always belong to the Hopi, that no one should take it away
 from them, because there was so much water there. Here the Hopi should
-always plant. <span id="fr_19"></span>[1](#fn_19)
+always plant. <span id="fr_19"></span>[1](#fn_19.md)
 
 Soon after the Spider clan had moved on towards Oraíbi the Snake clan
 arrived. When these Snake people saw the writing on the bluff they said.
@@ -350,7 +350,7 @@ and they also wrote the same thing on the bluff. But they all had heard
 that Skeleton was living where Oraíbi now is, and so they all traveled
 on towards Oraíbi. When the Bear clan arrived at Nátuwanpik'a, a place a
 very short distance west of Kuiwánva, <span
-id="fr_20"></span>[2](#fn_20) Skeleton came to meet them there. "We have
+id="fr_20"></span>[2](#fn_20.md) Skeleton came to meet them there. "We have
 arrived here,'' the Hón-wungwa said, "we would like to live here with
 you, and we want you to be our chief. Now, what do you think about it?
 Will you give us some land?" But Skeleton replied, "No, I shall not be
@@ -473,39 +473,39 @@ children are taken away from us, and we are being harassed and worried.
 
 ### Footnotes
 
-<span id="fn_12"></span>[16:1](toth005.htm#fr_12) Told by Yukíoma
+<span id="fn_12"></span>[16:1](toth005.htm#fr_12.md) Told by Yukíoma
 (Oraíbi).
 
-<span id="fn_13"></span>[16:2](toth005.htm#fr_13) Species of bird of a
+<span id="fn_13"></span>[16:2](toth005.htm#fr_13.md) Species of bird of a
 bluish black color.
 
-<span id="fn_14"></span>[17:1](toth005.htm#fr_14) I have not been able
+<span id="fn_14"></span>[17:1](toth005.htm#fr_14.md) I have not been able
 to fully identify this bird, but from the description given me, believe
 it to be the humming-bird, though it may be the wren.
 
-<span id="fn_15"></span>[20:1](toth005.htm#fr_15) This is the way the
+<span id="fn_15"></span>[20:1](toth005.htm#fr_15.md) This is the way the
 narrator stated it. The meaning is not quite clear but probably it
 refers to the belief of the Hopi that the souls of the dead remain in
 the grave three days, leaving the grave on the fourth day to travel to
 the skeleton house to live with the departed Hopi.
 
-<span id="fn_16"></span>[21:1](toth005.htm#fr_16) A stew prepared of
+<span id="fn_16"></span>[21:1](toth005.htm#fr_16.md) A stew prepared of
 mutton, shelled corn, etc.
 
-<span id="fn_17"></span>[22:1](toth005.htm#fr_17) A little stream, about
+<span id="fn_17"></span>[22:1](toth005.htm#fr_17.md) A little stream, about
 fifty miles north-west of Oraíbi.
 
-<span id="fn_18"></span>[22:2](toth005.htm#fr_18) Said to refer to
+<span id="fn_18"></span>[22:2](toth005.htm#fr_18.md) Said to refer to
 traces of fat found in the cavities of the cadaver of the bear when this
 party found the dead bear.
 
-<span id="fn_19"></span>[23:1](toth005.htm#fr_19) The narrator says that
+<span id="fn_19"></span>[23:1](toth005.htm#fr_19.md) The narrator says that
 this "writing" was effaced by Túba, the Hopi chief who founded Túba
 city, his wife Katcinmana, and others who wanted that land.
 
-<span id="fn_20"></span>[23:2](toth005.htm#fr_20) About a mile
+<span id="fn_20"></span>[23:2](toth005.htm#fr_20.md) About a mile
 north-west of Oraíbi.
 
 ------------------------------------------------------------------------
 
-[Next: 5. The Origin of Some Oraíbi Clans](toth006)
+[Next: 5. The Origin of Some Oraíbi Clans](toth006.md)

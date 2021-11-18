@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst16)  [Next](myst18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst16)  [Next](myst18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -144,7 +144,7 @@ It is a mental attitude under which all things give up to us the secret
 of their life. All artists are of necessity in some measure
 contemplative. In so far as they surrender themselves without selfish
 preoccupation, they see Creation from the point of view of God.  <span
-id="fr_629"></span>[630](#fn_629) “Innocence of eye” is little else than
+id="fr_629"></span>[630](#fn_629.md) “Innocence of eye” is little else than
 this: and only by its means can they see truly those things which they
 desire to show the world. I invite those to whom these statements seem a
 compound of cheap psychology and cheaper metaphysics to clear their
@@ -162,7 +162,7 @@ almost anything we please: a picture, a statue, a tree, a distant
 hillside, a growing plant, running water, little living things. We need
 not, with Kant, go to the starry heavens. “A little thing the quantity
 of an hazel nut” will do for us, as it did for Lady Julian long ago.
- <span id="fr_630"></span>[631](#fn_630) Remember, it is a practical
+ <span id="fr_630"></span>[631](#fn_630.md) Remember, it is a practical
 experiment on which we are set; not an opportunity of pretty and
 pantheistic meditation.
 
@@ -267,12 +267,12 @@ from his ordinary “external world,” constitute the typical experience of
 *rapture* or *ecstasy.* It is under the expansive formula of such abrupt
 ecstatic perception, “not by gradual steps, but by sudden ecstatic
 flights soaring aloft to the glorious things on high,”  <span
-id="fr_631"></span>[632](#fn_631) that the mystical consciousness of
+id="fr_631"></span>[632](#fn_631.md) that the mystical consciousness of
 Divine Transcendence is most clearly expressed. Those wide, exalted
 apprehensions of the Godhead which we owe to the mystics have usually
 been obtained, not by industrious meditation, but by “a transcending of
 all creatures, a perfect going forth from oneself: by standing in an
-ecstasy of mind.”  <span id="fr_632"></span>[633](#fn_632) Hence the
+ecstasy of mind.”  <span id="fr_632"></span>[633](#fn_632.md) Hence the
 experiences peculiar to these ecstatic states have a great value for the
 student of mysticism. It will be our duty to consider them in detail in
 a <span id="page_304">p. 304</span> <span id="an_iv.vi-Page_304"></span>
@@ -281,7 +281,7 @@ introversion, on the contrary, is bound up with the sense of Divine
 Immanence. Its emphasis is on the indwelling God Who may be found “by a
 journey towards the centre”: on the conviction indeed that “angels and
 archangels are with us, but He is more truly our own who is not only
-*with us* but *in us* .”  <span id="fr_633"></span>[634](#fn_633)
+*with us* but *in us* .”  <span id="fr_633"></span>[634](#fn_633.md)
 
 <span id="an_iv.vi-p22"></span>Contemplation—taking that term in its
 widest sense, as embracing all the degrees and kinds of mystical
@@ -305,7 +305,7 @@ have any meaning, in “the dim silence where lovers lose themselves.” “To
 mount to God,” says the writer of “De Adhaerando Deo,” “is to enter into
 one’s self. For he who inwardly entereth and intimately penetrateth into
 himself, gets above and beyond himself and truly mounts up to God.”
- <span id="fr_634"></span>[635](#fn_634)
+ <span id="fr_634"></span>[635](#fn_634.md)
 
 <span id="an_iv.vi-p24"></span>Says Tauler of this ineffable
 meeting-place, which is to the intellect an emptiness, and to the heart
@@ -313,7 +313,7 @@ a fulfillment of all desire, “All there is so still and mysterious and
 so desolate: for there is nothing there but God only, and nothing
 strange. . . . This Wilderness is the Quiet Desert of the Godhead, into
 which He leads all who are to receive this inspiration of God, now or in
-Eternity.”  <span id="fr_635"></span>[636](#fn_635) From this “quiet
+Eternity.”  <span id="fr_635"></span>[636](#fn_635.md) From this “quiet
 desert,” this still plane of being, so near to her though she is far
 from it, the normal self is separated by all the “unquiet desert” of
 sensual existence. Yet it stretches through and in her, the stuff of
@@ -323,7 +323,7 @@ Reality, the very Ground of her being, since it is, in Julian’s words,
 universe and with God. “God is near us, but we are far from Him, God is
 within, we are without, God is at home, we are in the far country,” said
 Meister Eckhart, struggling to express the nature of this “intelligible
-where.”  <span id="fr_636"></span>[637](#fn_636) Clearly, if the self is
+where.”  <span id="fr_636"></span>[637](#fn_636.md) Clearly, if the self is
 ever to become aware of it, definite work must be undertaken, definite
 powers of perception must be trained: and the consciousness which has
 been evolved to meet the exigencies of the World of Becoming must be
@@ -336,7 +336,7 @@ mystical passages, “When the soul returns into itself and reflects, it
 passes into . . . the region of that which is pure and everlasting,
 immortal and unchangeable: and, feeling itself kindred thereto, it
 dwells there under its own control, and has rest from its wanderings.”
- <span id="fr_637"></span>[638](#fn_637) In the “contemplation” of Plato
+ <span id="fr_637"></span>[638](#fn_637.md) In the “contemplation” of Plato
 and of the Platonic Schools generally, however, the emphasis lies at
 least as much on intellect as on intuition: with him the head and not
 the heart is the meeting-place between man and the Real. “Anciently,”
@@ -348,7 +348,7 @@ in it. . . . To this rank of philosophical contemplations may be
 referred those scholastic wits which spend much time in the study and
 subtle examination of the mysteries of faith, and have not for their end
 the increasing of divine love in their hearts.”  <span
-id="fr_638"></span>[639](#fn_638)
+id="fr_638"></span>[639](#fn_638.md)
 
 <span id="an_iv.vi-p30"></span>We cannot long read the works of the
 mystics without coming across descriptions—often first-hand descriptions
@@ -385,12 +385,12 @@ activities which the mystics mean to express in their use of this term.
 which I propose for the sake of clearness to use here—has nothing in
 common with petition. It is not articulate; it has no forms. “It is,”
 says “The Mirror of St. Edmund,” “naught else but yearning of soul.”
- <span id="fr_639"></span>[640](#fn_639) —the expression of man’s
+ <span id="fr_639"></span>[640](#fn_639.md) —the expression of man’s
 metaphysical thirst. In it, says Grou, “the soul is united to God in its
 ground, the created intelligence to the Intelligence Increate, without
 the intervention of imagination or reason, or of anything but a very
 simple attention of the mind and an equally simple application of the
-will.”  <span id="fr_640"></span>[641](#fn_640) On the psychological
+will.”  <span id="fr_640"></span>[641](#fn_640.md) On the psychological
 side its development involves a steady discipline of the mystic’s rich
 subliminal mind, slowly preparing the channels in which the deeper
 consciousness is to flow. This discipline reduces to some sort of order,
@@ -400,7 +400,7 @@ uncontrolled, uncultivated genius for the Absolute breaks out. To the
 subject himself, however, his orison seems rather a free and mutual act
 of love; a supernatural intercourse between the soul and the divine, or
 some aspect of the divine, sometimes full of light and joy, sometimes
-dark and bare.  <span id="fr_641"></span>[642](#fn_641) In some of its
+dark and bare.  <span id="fr_641"></span>[642](#fn_641.md) In some of its
 degrees it is a placid, trustful waiting upon messages from without. In
 others, it is an inarticulate communion, a wordless rapture, a silent
 gazing upon God. The mystics have exhausted all the resources of all
@@ -413,7 +413,7 @@ having intercourse with them, so by this deliberate intercourse the self
 enters more and more deeply into the Heart of Reality. Climbing like
 Dante step by step up the ladder of contemplation, it comes at last to
 the Empyrean, <span id="an_iv.vi-p36.1"></span>“ivi è perfetta, matura
-ed intera ciascuna disianza.”  <span id="fr_642"></span>[643](#fn_642)
+ed intera ciascuna disianza.”  <span id="fr_642"></span>[643](#fn_642.md)
 The true end of orison, like the true end of that mystical life within
 which it flowers, is the supreme meeting between Lover and Beloved,
 between God and the soul. Its method is the method of the mystic life,
@@ -430,7 +430,7 @@ conducted, this is the short way that thou art to take; not to let the
 Eye of thy Spirit enter into Matter or fill itself with any Thing
 whatever, either in Heaven or Earth, but to let it enter by a naked
 faith into the Light of the Majesty.”  <span
-id="fr_643"></span>[644](#fn_643)
+id="fr_643"></span>[644](#fn_643.md)
 
 <span id="an_iv.vi-p39"></span>“What this opening of the ghostly eye
 is,” says Hilton, “the greatest clerk on earth could not imagine by his
@@ -447,7 +447,7 @@ soul, a lively feeling of grace and privily of heart, the waking sleep
 of the spouse and tasting of heavenly savour burning in love and shining
 in light, entry of contemplation and reforming in feeling . . .* they
 are divers in showing of words, nevertheless they are all one in sense
-of soothfastness.”  <span id="fr_644"></span>[645](#fn_644)
+of soothfastness.”  <span id="fr_644"></span>[645](#fn_644.md)
 
 <span id="an_iv.vi-p41"></span>“Human industry,” says Hilton here, must
 be joined to “grace.” If the spiritual eye is to be opened, definite
@@ -486,15 +486,15 @@ they intend to describe the whole process of introversion: sometimes
 they reserve it for the “orison of union,” sometimes identify it with
 ecstasy. It has been pointed out by Delacroix that even St. Teresa’s
 classification of her own states is far from lucid, and varies in each
-of her principal works.  <span id="fr_645"></span>[646](#fn_645) Thus in
+of her principal works.  <span id="fr_645"></span>[646](#fn_645.md) Thus in
 the “Life” she appears to treat Recollection and Quiet as synonymous,
 whilst in “The Way of Perfection” these conditions are sharply
 differentiated. In “The Interior Castle” she adopts an entirely
 different system; the prayer of quiet being there called “tasting of
-God.”  <span id="fr_646"></span>[647](#fn_646) Finally, Augustine Baker,
+God.”  <span id="fr_646"></span>[647](#fn_646.md) Finally, Augustine Baker,
 in treating of the “Prayer of Interior Silence and Quiet,” insists that
 by the term “Quiet” St. Teresa did not mean this at all, but a form of
-“supernatural contemplation.”  <span id="fr_647"></span>[648](#fn_647)
+“supernatural contemplation.”  <span id="fr_647"></span>[648](#fn_647.md)
 <span id="page_309">p. 309</span> <span id="an_iv.vi-Page_309"></span>
 
 <span id="an_iv.vi-p46"></span>Thus we are gradually forced to the
@@ -508,18 +508,18 @@ predecessors. In his efforts towards self-analysis he divides and
 subdivides, combines and differentiates his individual moods. Hence the
 confusion of mind which falls upon those who try to harmonize different
 systems of contemplation: to identify St. Teresa’s “Four Degrees”  <span
-id="fr_648"></span>[649](#fn_648) with Hugh of St. Victor’s other four,
- <span id="fr_649"></span>[650](#fn_649) and with Richard of St.
+id="fr_648"></span>[649](#fn_648.md) with Hugh of St. Victor’s other four,
+ <span id="fr_649"></span>[650](#fn_649.md) and with Richard of St.
 Victor’s “four steps of ardent love”:  <span
-id="fr_650"></span>[651](#fn_650) or to accommodate upon this diagram
+id="fr_650"></span>[651](#fn_650.md) or to accommodate upon this diagram
 Hilton’s simple and poetic “three steps of contemplations—Knowing,
 Loving, and Knowing-and-Loving—where the adventurer rather than the
 map-maker speaks. Such fine shades, says Augustine Baker in this
 connection, are “nicely distinguished” by the author “rather out of a
 particular experience of the effects passing in his own soul  <span
-id="fr_651"></span>[652](#fn_651) which perhaps are not the same in all”
+id="fr_651"></span>[652](#fn_651.md) which perhaps are not the same in all”
 than for any more general reason.  <span
-id="fr_652"></span>[653](#fn_652)
+id="fr_652"></span>[653](#fn_652.md)
 
 <span id="an_iv.vi-p52"></span>Some diagram, however, some set scheme,
 the writer on introversion must have, if he is to describe with lucidity
@@ -599,13 +599,13 @@ this deliberate negation of thought, is an essential preliminary of the
 contemplative state. “Lovers put out the candles and draw the curtains
 when they wish to see the god and the goddess; and in the higher
 communion the night of thought is the light of perception.”  <span
-id="fr_653"></span>[654](#fn_653)
+id="fr_653"></span>[654](#fn_653.md)
 
 <span id="an_iv.vi-p56"></span>The education of the self in the
 successive degrees of orison has been compared by St. Teresa, in a
 celebrated passage in her Life, to four ways of watering the garden of
 the soul so that it may bring forth its flowers and fruits.  <span
-id="fr_654"></span>[655](#fn_654) The first and most primitive of these
+id="fr_654"></span>[655](#fn_654.md) The first and most primitive of these
 ways is meditation. This, she says, is like drawing water by hand from a
 deep well: the slowest and most laborious of all means of irrigation.
 Next to this is the orison of quiet, which is a little better and
@@ -626,7 +626,7 @@ watered it. We have but to direct the stream. In the fourth and highest
 stage, God Himself waters our garden with rain from heaven “drop by
 drop.” The attitude of the self is now that of perfect receptivity,
 “passive contemplation,” loving trust. Individual activity is sunk in
-the “great life of the All.”  <span id="fr_655"></span>[656](#fn_655)
+the “great life of the All.”  <span id="fr_655"></span>[656](#fn_655.md)
 
 <span id="an_iv.vi-p59"></span>The measure of the mystic’s real progress
 is and must always <span id="page_312">p. 312</span> <span
@@ -658,7 +658,7 @@ stripped of all his cleverness and merit, reduced to his “nothingness,”
 he can “meet God without intermediary.” This ground of the soul, this
 strange inward sanctuary to which the normal man so seldom penetrates,
 is, says Eckhart, “immediately receptive of the Divine Being,” and “no
-one can move it but God alone.”  <span id="fr_656"></span>[657](#fn_656)
+one can move it but God alone.”  <span id="fr_656"></span>[657](#fn_656.md)
 There the finite self encounters the Infinite; and, by a close and
 loving communion with and feeding on the attributes of the Divine
 Substance, is remade in the interests of the Absolute Life. This
@@ -674,7 +674,7 @@ the encounter of His Spirit, which is His love; and thus we are brought
 forth by God, out of <span id="page_313">p. 313</span> <span
 id="an_iv.vi-Page_313"></span> our selfhood, into the immersion of love,
 in which we possess blessedness and are one with God.”  <span
-id="fr_657"></span>[658](#fn_657)
+id="fr_657"></span>[658](#fn_657.md)
 
 #### <span id="an_iv.vi-p62.1"></span>Recollection
 
@@ -689,7 +689,7 @@ his reason; but can only be accomplished by the strenuous exercise of
 his will. These preparatory labours of the contemplative life—these
 first steps upon the ladder—are, says St. Teresa, very hard, and require
 greater courage than all the rest.  <span
-id="fr_658"></span>[659](#fn_658) All the scattered interests of the
+id="fr_658"></span>[659](#fn_658.md) All the scattered interests of the
 self have here to be collected; there must be a deliberate and unnatural
 act of attention, a deliberate expelling of all discordant images from
 the consciousness a hard and ungrateful task. Since the transcendental
@@ -720,7 +720,7 @@ for, shall arise unto thee, and under his most healing wings thou shalt
 greatly rejoice: ascending and descending in <span id="page_314">p.
 314</span> <span id="an_iv.vi-Page_314"></span> his bright and
 health-giving beams. Behold, this is the true Supersensual Ground of
-Life.”  <span id="fr_659"></span>[660](#fn_659)
+Life.”  <span id="fr_659"></span>[660](#fn_659.md)
 
 <span id="an_iv.vi-p68"></span>In this short paragraph Boehme has caught
 and described the psychological state in which all introversion must
@@ -741,7 +741,7 @@ never heard, and the great adventures of the spirit take place. It
 stands here between the two planes of its being; the Eye of Time is
 still awake. It knows that it wants to enter the inner world, that
 “interior palace where the King of Kings is guest”:  <span
-id="fr_660"></span>[661](#fn_660) but it must find some device to help
+id="fr_660"></span>[661](#fn_660.md) but it must find some device to help
 it over the threshold—rather, in the language of psychology, to shift
 that threshold and permit its subliminal intuition of the Absolute to
 emerge.
@@ -828,7 +828,7 @@ itself, for them to obey and so gather themselves together. At the first
 call of the will, they come back more and more quickly. At last, after
 countless exercises of this kind, God disposes them to a state of utter
 rest and of perfect contemplation.”  <span
-id="fr_661"></span>[662](#fn_661)
+id="fr_661"></span>[662](#fn_661.md)
 
 <span id="an_iv.vi-p76"></span>This description makes it clear that
 “recollection” is a form of spiritual gymnastics; less valuable for
@@ -848,7 +848,7 @@ in our work we ought to retire within ourselves, though it be only for a
 moment: that this remembrance of a God who companions us within, is a
 great help to us; finally, that we ought little by little to habituate
 ourselves to gentle and silent converse with Him, so that He may make us
-feel His presence in the soul.”  <span id="fr_662"></span>[663](#fn_662)
+feel His presence in the soul.”  <span id="fr_662"></span>[663](#fn_662.md)
 
 #### <span id="an_iv.vi-p77.1"></span>Quiet
 
@@ -891,7 +891,7 @@ struggles for complete concentration which mark the beginning of
 Recollection, there is now “a living, somehow self-acting
 recollection—with God, His peace, power, and presence, right in the
 midst of this rose of spiritual fragrance.”  <span
-id="fr_663"></span>[664](#fn_663) With this surrender to something
+id="fr_663"></span>[664](#fn_663.md) With this surrender to something
 bigger, as with the surrender of conversion, comes an immense relief of
 strain. This is “Quiet” in its most perfect form: this sinking, as it
 were, of the little child of the Infinite into its Father’s arms. The
@@ -904,7 +904,7 @@ beauty and power. Consciousness loses to find, and dies that it may
 live. No longer, in Rolle’s pungent phrase, is it a “Raunsaker of the
 myghte <span id="page_318">p. 318</span> <span
 id="an_iv.vi-Page_318"></span> of Godd and of His Majeste.”  <span
-id="fr_664"></span>[665](#fn_664) Thus the act by which it passes into
+id="fr_664"></span>[665](#fn_664.md) Thus the act by which it passes into
 the Quiet is a sacrament of the whole mystic quest: of the turning from
 doing to being, the abolition of separateness in the interests of the
 Absolute Life.
@@ -975,7 +975,7 @@ ignorance. When one knows nothing, it is opened and revealed. Then we
 shall become aware of the Divine Ignorance, and our ignorance will be
 ennobled and adorned with supernatural knowledge. And when we simply
 keep ourselves receptive, we are more perfect than when at work.”  <span
-id="fr_665"></span>[666](#fn_665)
+id="fr_665"></span>[666](#fn_665.md)
 
 <span id="an_iv.vi-p88"></span>The psychic state of Quiet has a further
 value for the mystic, as being the intellectual complement and
@@ -987,7 +987,7 @@ and peace, so that God may speak and work in him; . . . the best and
 noblest way in which thou mayst come into this work and life is by
 keeping silence, and letting God work and speak. When all the powers are
 withdrawn from their work and images, there is this word spoken.”  <span
-id="fr_666"></span>[667](#fn_666)
+id="fr_666"></span>[667](#fn_666.md)
 
 <span id="an_iv.vi-p90"></span>Eckhart’s view of the primary importance
 of “Quiet” as essentially the introverted state is shared by all those
@@ -1023,7 +1023,7 @@ and by being, but also He is in thee both thy cause and thy being. And
 therefore think on God as in this work as thou dost on thyself, and on
 thyself as thou dost on God, that He is as He is, and thou art as thou
 art, and that thy thought be not scattered nor departed but privied in
-Him that is All.”  <span id="fr_667"></span>[668](#fn_667)
+Him that is All.”  <span id="fr_667"></span>[668](#fn_667.md)
 
 <span id="an_iv.vi-p93"></span>“Let Him be so, I pray thee!” It is an
 admonition against spiritual worry, an entreaty to the individual,
@@ -1041,7 +1041,7 @@ ignorance is not a defect but thy highest perfection, and thine
 inactivity thy highest work. And so in this work thou must bring all thy
 works to nought and all thy powers into silence, if thou wilt in truth
 experience this birth within thyself.”  <span
-id="fr_668"></span>[669](#fn_668) <span id="page_321">p. 321</span>
+id="fr_668"></span>[669](#fn_668.md) <span id="page_321">p. 321</span>
 <span id="an_iv.vi-Page_321"></span>
 
 <span id="an_iv.vi-p95"></span>It is interesting to contrast these
@@ -1075,7 +1075,7 @@ is united to God; that in this last the soul has not to absorb the
 Divine Food. God deposits it with her, she knows not how. The orison of
 quiet, on the other hand, demands, it seems to me, a slight effort; but
 it is accompanied by so much sweetness that one hardly feels it.”  <span
-id="fr_669"></span>[670](#fn_669)
+id="fr_669"></span>[670](#fn_669.md)
 
 <span id="an_iv.vi-p97"></span>“A slight effort,” says St. Teresa. “A
 naked intent stretching,” says the “Pystle of Private Counsel.” These
@@ -1100,7 +1100,7 @@ from its context, and developed to excess, produced the foolish and
 dangerous exaggerations of Quietism: and these, in their turn, caused a
 wholesale condemnation of the principle of passivity, and made many
 superficial persons regard “naked orison” as an essentially heretical
-act.  <span id="fr_670"></span>[671](#fn_670) The accusation of Quietism
+act.  <span id="fr_670"></span>[671](#fn_670.md) The accusation of Quietism
 has been hurled at mystics whose only fault was a looseness of language
 which laid them open to misapprehension. Others, however, have certainly
 contrived, by a perversion and isolation of the teachings of great
@@ -1125,7 +1125,7 @@ found in fruitive inclination. . . . When a man possesses this rest in
 false idleness, and all loving adherence seems a hindrance to him, he
 clings to himself in his quietude and lives contrary to the first way in
 which man is united with God; and this is the beginning of all ghostly
-error.”  <span id="fr_671"></span>[672](#fn_671)
+error.”  <span id="fr_671"></span>[672](#fn_671.md)
 
 <span id="an_iv.vi-p102"></span>There can be no doubt that for selves of
 a certain psychical constitution, such a “false idleness” is only too
@@ -1157,7 +1157,7 @@ Augustine Baker, when “the flight is continued for a good space with a
 great swiftness, but withal with great stillness, quietness and ease,
 without any waving of the wings at all, or the least force used in any
 member, being in as much ease and stillness as if she were reposing in
-her nest.”  <span id="fr_672"></span>[673](#fn_672)
+her nest.”  <span id="fr_672"></span>[673](#fn_672.md)
 
 <span id="an_iv.vi-p105"></span>“According to the unanimous teaching of
 the most experienced and explicit of the specifically Theistic and
@@ -1170,7 +1170,7 @@ energy, an energy which is now penetrating, and finding expression by
 ever pore and fibre of the soul. The whole moral and spiritual creature
 expands and rests, yes; but this very rest is produced by Action,
 ‘unperceived because so fleet, so near, so all-fulfilling.’”  <span
-id="fr_673"></span>[674](#fn_673)
+id="fr_673"></span>[674](#fn_673.md)
 
 <span id="an_iv.vi-p107"></span>The great teachers of Quietism, having
 arrived at and experienced the psychological state of “quiet”: having
@@ -1197,7 +1197,7 @@ most secret and hidden part of the heart.” Here Molinos speaks the
 language of all mystics, yet the total result of his teaching was to
 suggest to the ordinary mind that there was a peculiar virtue in doing
 nothing at all, and that all deliberate spiritual activities were bad.
- <span id="fr_674"></span>[675](#fn_674)
+ <span id="fr_674"></span>[675](#fn_674.md)
 
 <span id="an_iv.vi-p110"></span>Much of the teaching of modern
 “mystical” cults is thus crudely quietistic. It insists on the necessity
@@ -1236,7 +1236,7 @@ All our life as it is in God is immersed in blessedness: all our life as
 it is in ourselves is immersed in active love. And though we live wholly
 in ourselves and wholly in God, it is but one life, but it is twofold
 and opposite according to our feeling—rich and poor hungry and
-fulfilled, active and quiet.”  <span id="fr_675"></span>[676](#fn_675)
+fulfilled, active and quiet.”  <span id="fr_675"></span>[676](#fn_675.md)
 The essential difference between this true “active” Quiet and Quietism
 of all kinds has been admirably expressed by Baron von Hügel. “Quietism,
 the doctrine of the One Act; passivity in a literal sense, as the
@@ -1248,7 +1248,7 @@ over Activity—an action which is all the more the soul’s very own,
 because the more occasioned, directed and informed by God’s action and
 stimulation—these and the other chief lines of the ancient experience
 and practice remain as true, correct, and necessary as ever.”  <span
-id="fr_676"></span>[677](#fn_676)
+id="fr_676"></span>[677](#fn_676.md)
 
 <span id="an_iv.vi-p114"></span>The “ever-increasing predominance of
 Action over Activity”—the deep and vital movement of the whole self, too
@@ -1295,7 +1295,7 @@ most flexile to all the operations of the Eternal Word. Whilst a tablet
 is unsteady, the painter is unable to delineate a true copy: so every
 act of our own selfish and proper spirit is productive of false and
 erroneous lineaments, it interrupts the work and defeats the design of
-this Adorable Artist.”  <span id="fr_677"></span>[678](#fn_677)
+this Adorable Artist.”  <span id="fr_677"></span>[678](#fn_677.md)
 
 <span id="an_iv.vi-p118"></span>The true mystics, in whom the Orison of
 Quiet develops to this state of receptivity, seldom use in describing it
@@ -1315,7 +1315,7 @@ fruition most full of delight. . . . The faculties of the soul now
 retain only the power of occupying themselves wholly with God; not one
 of them ventures to stir, neither can we move one of them without making
 great efforts to distract ourselves—and, indeed, I do not think we can
-do it at all at this time.”  <span id="fr_678"></span>[679](#fn_678)
+do it at all at this time.”  <span id="fr_678"></span>[679](#fn_678.md)
 <span id="page_327">p. 327</span> <span id="an_iv.vi-Page_327"></span>
 
 <span id="an_iv.vi-p120"></span>Here, then, we see the Orison of Silence
@@ -1326,7 +1326,7 @@ introducing the self into a new sphere of activity.
 <span id="an_iv.vi-p121"></span>The second degree of ardent love, says
 Richard of St. Victor, *binds* , sothat the soul which is possessed by
 it is unable to think of anything else: it is not only “insuperable,”
-but also “inseparable.”  <span id="fr_679"></span>[680](#fn_679) He
+but also “inseparable.”  <span id="fr_679"></span>[680](#fn_679.md) He
 compares it to the soul’s bridal; the irrevocable act, by which
 permanent union is initiated. The feeling-state which is the equivalent
 of the Quiet is just such a passive and joyous yielding-up of the virgin
@@ -1343,7 +1343,7 @@ id="an_iv.vi-Page_328"></span>
 
 ### Footnotes
 
-<span id="fn_629"></span>[301:630](myst17.htm#fr_629) <span
+<span id="fn_629"></span>[301:630](myst17.htm#fr_629.md) <span
 id="an_iv.vi-p8.1"></span>
 
 <span id="an_iv.vi-p9"></span> “The contemplative and the artist,” says
@@ -1356,69 +1356,69 @@ chain his heart to dulness, going over to the side of the contemplative
 he will recognize Love and Beauty” (J. Maritain, “Art et Scholastique,”
 p. 139).
 
-<span id="fn_630"></span>[301:631](myst17.htm#fr_630) <span
+<span id="fn_630"></span>[301:631](myst17.htm#fr_630.md) <span
 id="an_iv.vi-p10.1"></span>
 
 <span id="an_iv.vi-p11"></span> “Revelations of Divine Love,” cap. v.
 
-<span id="fn_631"></span>[303:632](myst17.htm#fr_631) <span
+<span id="fn_631"></span>[303:632](myst17.htm#fr_631.md) <span
 id="an_iv.vi-p18.1"></span>
 
 <span id="an_iv.vi-p19"></span> St. Bernard, “De Consideratione,” bk. v.
 cap. iii.
 
-<span id="fn_632"></span>[303:633](myst17.htm#fr_632) <span
+<span id="fn_632"></span>[303:633](myst17.htm#fr_632.md) <span
 id="an_iv.vi-p19.1"></span>
 
 <span id="an_iv.vi-p20"></span> “De Imitatione Christi,” I. iii. cap.
 xxxi.
 
-<span id="fn_633"></span>[304:634](myst17.htm#fr_633) <span
+<span id="fn_633"></span>[304:634](myst17.htm#fr_633.md) <span
 id="an_iv.vi-p20.1"></span>
 
 <span id="an_iv.vi-p21"></span> St. Bernard, *op. cit* ., bk. v. cap. v.
 So Lady Julian, “We are all in Him enclosed and He is enclosed in us”
 (“Revelations of Divine Love,” cap. lvii.).
 
-<span id="fn_634"></span>[304:635](myst17.htm#fr_634) <span
+<span id="fn_634"></span>[304:635](myst17.htm#fr_634.md) <span
 id="an_iv.vi-p22.1"></span>
 
 <span id="an_iv.vi-p23"></span> *Op. cit* ., cap. vii.
 
-<span id="fn_635"></span>[304:636](myst17.htm#fr_635) <span
+<span id="fn_635"></span>[304:636](myst17.htm#fr_635.md) <span
 id="an_iv.vi-p24.1"></span>
 
 <span id="an_iv.vi-p25"></span> Third Instruction (“The Inner Way,” p.
 323).
 
-<span id="fn_636"></span>[305:637](myst17.htm#fr_636) <span
+<span id="fn_636"></span>[305:637](myst17.htm#fr_636.md) <span
 id="an_iv.vi-p25.1"></span>
 
 <span id="an_iv.vi-p26"></span> Eckhart, Pred. lxix.
 
-<span id="fn_637"></span>[305:638](myst17.htm#fr_637) <span
+<span id="fn_637"></span>[305:638](myst17.htm#fr_637.md) <span
 id="an_iv.vi-p27.1"></span>
 
 <span id="an_iv.vi-p28"></span> Phaedo, 79c.
 
-<span id="fn_638"></span>[305:639](myst17.htm#fr_638) <span
+<span id="fn_638"></span>[305:639](myst17.htm#fr_638.md) <span
 id="an_iv.vi-p28.1"></span>
 
 <span id="an_iv.vi-p29"></span> “Holy Wisdom.” Treatise iii. § iv.cap.
 i.
 
-<span id="fn_639"></span>[306:640](myst17.htm#fr_639) <span
+<span id="fn_639"></span>[306:640](myst17.htm#fr_639.md) <span
 id="an_iv.vi-p32.1"></span>
 
 <span id="an_iv.vi-p33"></span> Cap. xvii.
 
-<span id="fn_640"></span>[306:641](myst17.htm#fr_640) <span
+<span id="fn_640"></span>[306:641](myst17.htm#fr_640.md) <span
 id="an_iv.vi-p33.1"></span>
 
 <span id="an_iv.vi-p34"></span> J. N. Grou, “L’Ecole de Jésus,” vol.
 ii., p. 8.
 
-<span id="fn_641"></span>[306:642](myst17.htm#fr_641) <span
+<span id="fn_641"></span>[306:642](myst17.htm#fr_641.md) <span
 id="an_iv.vi-p34.1"></span>
 
 <span id="an_iv.vi-p35"></span> “I discover all truths in the interior
@@ -1430,88 +1430,88 @@ is so sweet that I have sometimes passed a whole day and a night in it
 without interruption or standing in need of meat or drink” (MacEwen,
 “Antoinette Bourignan, Quietist,” p. 109).
 
-<span id="fn_642"></span>[307:643](myst17.htm#fr_642) <span
+<span id="fn_642"></span>[307:643](myst17.htm#fr_642.md) <span
 id="an_iv.vi-p36.2"></span>
 
 <span id="an_iv.vi-p37"></span> Par. xxii. 64.
 
-<span id="fn_643"></span>[307:644](myst17.htm#fr_643) <span
+<span id="fn_643"></span>[307:644](myst17.htm#fr_643.md) <span
 id="an_iv.vi-p37.1"></span>
 
 <span id="an_iv.vi-p38"></span> “Dialogues of the Supersensual Life,” p.
 66.
 
-<span id="fn_644"></span>[307:645](myst17.htm#fr_644) <span
+<span id="fn_644"></span>[307:645](myst17.htm#fr_644.md) <span
 id="an_iv.vi-p39.1"></span>
 
 <span id="an_iv.vi-p40"></span> Hilton, “The Scale of Perfection,” bk.
 ii., cap. xi.
 
-<span id="fn_645"></span>[308:646](myst17.htm#fr_645) <span
+<span id="fn_645"></span>[308:646](myst17.htm#fr_645.md) <span
 id="an_iv.vi-p42.1"></span>
 
 <span id="an_iv.vi-p43"></span> “Études sur le Mysticisme,” p. 18.
 
-<span id="fn_646"></span>[308:647](myst17.htm#fr_646) <span
+<span id="fn_646"></span>[308:647](myst17.htm#fr_646.md) <span
 id="an_iv.vi-p43.1"></span>
 
 <span id="an_iv.vi-p44"></span> Vida, cap. xiv.; “Camino do Perfeccion,”
 cap. xxxi.; “El Castillo Interior,” Moradas Cuartas, cap. ii.
 
-<span id="fn_647"></span>[308:648](myst17.htm#fr_647) <span
+<span id="fn_647"></span>[308:648](myst17.htm#fr_647.md) <span
 id="an_iv.vi-p44.1"></span>
 
 <span id="an_iv.vi-p45"></span> “Holy Wisdom,” Treatise iii. § ii. cap.
 vii.
 
-<span id="fn_648"></span>[309:649](myst17.htm#fr_648) <span
+<span id="fn_648"></span>[309:649](myst17.htm#fr_648.md) <span
 id="an_iv.vi-p46.1"></span>
 
 <span id="an_iv.vi-p47"></span> Meditation, Quiet, a nameless
 “intermediate” degree, and the Orison of Union (Vida, cap. xi.).
 
-<span id="fn_649"></span>[309:650](myst17.htm#fr_649) <span
+<span id="fn_649"></span>[309:650](myst17.htm#fr_649.md) <span
 id="an_iv.vi-p47.1"></span>
 
 <span id="an_iv.vi-p48"></span> Meditation, Soliloquy, Consideration,
 Rapture (Hugh of St. Victor, “De Contemplatione”).
 
-<span id="fn_650"></span>[309:651](myst17.htm#fr_650) <span
+<span id="fn_650"></span>[309:651](myst17.htm#fr_650.md) <span
 id="an_iv.vi-p48.1"></span>
 
 <span id="an_iv.vi-p49"></span> “De Quatuor Gradibus Violentae
 Charitatis.” *Vide* *supra,* p. 139.
 
-<span id="fn_651"></span>[309:652](myst17.htm#fr_651) <span
+<span id="fn_651"></span>[309:652](myst17.htm#fr_651.md) <span
 id="an_iv.vi-p49.1"></span>
 
 <span id="an_iv.vi-p50"></span> “The Scale of Perfection,” bk. I. caps.
 iv. to viii.
 
-<span id="fn_652"></span>[309:653](myst17.htm#fr_652) <span
+<span id="fn_652"></span>[309:653](myst17.htm#fr_652.md) <span
 id="an_iv.vi-p50.1"></span>
 
 <span id="an_iv.vi-p51"></span> “Holy Wisdom,” *loc. cit* ., § ii. cap.
 i.
 
-<span id="fn_653"></span>[311:654](myst17.htm#fr_653) <span
+<span id="fn_653"></span>[311:654](myst17.htm#fr_653.md) <span
 id="an_iv.vi-p54.2"></span>
 
 <span id="an_iv.vi-p55"></span> Coventry Patmore, ‘The Rod, the Root,
 and the Flower,” “Aurea Dicta,” xiii.
 
-<span id="fn_654"></span>[311:655](myst17.htm#fr_654) <span
+<span id="fn_654"></span>[311:655](myst17.htm#fr_654.md) <span
 id="an_iv.vi-p56.1"></span>
 
 <span id="an_iv.vi-p57"></span> Vida, cap. xi. §§ 10 and 11.
 
-<span id="fn_655"></span>[311:656](myst17.htm#fr_655) <span
+<span id="fn_655"></span>[311:656](myst17.htm#fr_655.md) <span
 id="an_iv.vi-p57.1"></span>
 
 <span id="an_iv.vi-p58"></span> The detailed analysis of these four
 degrees fills caps. xii.–xviii. of the *Vida* .
 
-<span id="fn_656"></span>[312:657](myst17.htm#fr_656) <span
+<span id="fn_656"></span>[312:657](myst17.htm#fr_656.md) <span
 id="an_iv.vi-p60.1"></span>
 
 <span id="an_iv.vi-p61"></span> Pred. i. This doctrine of man’s latent
@@ -1521,104 +1521,104 @@ contemplative process. In its extreme form, it can hardly be defended
 from the charge of pantheism; but the Christian mystics are usually
 careful to steer clear of this danger.
 
-<span id="fn_657"></span>[313:658](myst17.htm#fr_657) <span
+<span id="fn_657"></span>[313:658](myst17.htm#fr_657.md) <span
 id="an_iv.vi-p61.1"></span>
 
 <span id="an_iv.vi-p62"></span> Ruysbroeck, “De Calculo” (condensed).
 
-<span id="fn_658"></span>[313:659](myst17.htm#fr_658) <span
+<span id="fn_658"></span>[313:659](myst17.htm#fr_658.md) <span
 id="an_iv.vi-p63.1"></span>
 
 <span id="an_iv.vi-p64"></span> Vida, cap. xi. § 17.
 
-<span id="fn_659"></span>[314:660](myst17.htm#fr_659) <span
+<span id="fn_659"></span>[314:660](myst17.htm#fr_659.md) <span
 id="an_iv.vi-p66.1"></span>
 
 <span id="an_iv.vi-p67"></span> “Dialogues of the Supersensual Life,” p.
 56.
 
-<span id="fn_660"></span>[314:661](myst17.htm#fr_660) <span
+<span id="fn_660"></span>[314:661](myst17.htm#fr_660.md) <span
 id="an_iv.vi-p69.1"></span>
 
 <span id="an_iv.vi-p70"></span> St. Teresa, “Camino de Perfeccion,” cap.
 xxx.
 
-<span id="fn_661"></span>[316:662](myst17.htm#fr_661) <span
+<span id="fn_661"></span>[316:662](myst17.htm#fr_661.md) <span
 id="an_iv.vi-p74.1"></span>
 
 <span id="an_iv.vi-p75"></span> “Camino de Perfeccion,” cap. xxx.
 
-<span id="fn_662"></span>[316:663](myst17.htm#fr_662) <span
+<span id="fn_662"></span>[316:663](myst17.htm#fr_662.md) <span
 id="an_iv.vi-p76.1"></span>
 
 <span id="an_iv.vi-p77"></span> *Op. cit* ., cap. xxxi.
 
-<span id="fn_663"></span>[317:664](myst17.htm#fr_663) <span
+<span id="fn_663"></span>[317:664](myst17.htm#fr_663.md) <span
 id="an_iv.vi-p80.1"></span>
 
 <span id="an_iv.vi-p81"></span> F. von Hügel. “Letters to a Niece,” p.
 140.
 
-<span id="fn_664"></span>[318:665](myst17.htm#fr_664) <span
+<span id="fn_664"></span>[318:665](myst17.htm#fr_664.md) <span
 id="an_iv.vi-p81.1"></span>
 
 <span id="an_iv.vi-p82"></span> Prose Treatises of Richard Rolle
 (E.E.T.S. 20), p. 42.
 
-<span id="fn_665"></span>[319:666](myst17.htm#fr_665) <span
+<span id="fn_665"></span>[319:666](myst17.htm#fr_665.md) <span
 id="an_iv.vi-p86.1"></span>
 
 <span id="an_iv.vi-p87"></span> Meister Eckhart, Pred. ii.
 
-<span id="fn_666"></span>[319:667](myst17.htm#fr_666) <span
+<span id="fn_666"></span>[319:667](myst17.htm#fr_666.md) <span
 id="an_iv.vi-p88.1"></span>
 
 <span id="an_iv.vi-p89"></span> *Ibid.* , Pred. i.
 
-<span id="fn_667"></span>[320:668](myst17.htm#fr_667) <span
+<span id="fn_667"></span>[320:668](myst17.htm#fr_667.md) <span
 id="an_iv.vi-p91.1"></span>
 
 <span id="an_iv.vi-p92"></span> “An Epistle of Private Counsel” (B.M.
 Harl. 674). Printed, with slight textual variations, in “The Cloud of
 Unknowing, and other Treatises,” edited by Dom Justin McCann.
 
-<span id="fn_668"></span>[320:669](myst17.htm#fr_668) <span
+<span id="fn_668"></span>[320:669](myst17.htm#fr_668.md) <span
 id="an_iv.vi-p93.1"></span>
 
 <span id="an_iv.vi-p94"></span> Eckhart, Pred. ii.
 
-<span id="fn_669"></span>[321:670](myst17.htm#fr_669) <span
+<span id="fn_669"></span>[321:670](myst17.htm#fr_669.md) <span
 id="an_iv.vi-p95.1"></span>
 
 <span id="an_iv.vi-p96"></span> “Camino de Perfeccion,” cap. xxxiii. The
 whole chapter, which is a marvel of subtle analysis, should be read in
 this connection.
 
-<span id="fn_670"></span>[322:671](myst17.htm#fr_670) <span
+<span id="fn_670"></span>[322:671](myst17.htm#fr_670.md) <span
 id="an_iv.vi-p98.1"></span>
 
 <span id="an_iv.vi-p99"></span> Note, for instance, the cautious
 language of “Holy Wisdom,” Treatise iii. § III. cap. vii.
 
-<span id="fn_671"></span>[322:672](myst17.htm#fr_671) <span
+<span id="fn_671"></span>[322:672](myst17.htm#fr_671.md) <span
 id="an_iv.vi-p100.1"></span>
 
 <span id="an_iv.vi-p101"></span> Ruysbroeck, “De Ornatu Spiritalium
 Nuptiarum,” I. ii. caps. lxvi. (condensed).
 
-<span id="fn_672"></span>[323:673](myst17.htm#fr_672) <span
+<span id="fn_672"></span>[323:673](myst17.htm#fr_672.md) <span
 id="an_iv.vi-p103.1"></span>
 
 <span id="an_iv.vi-p104"></span> “Holy Wisdom,” Treatise iii. § iii.
 cap. vii.
 
-<span id="fn_673"></span>[323:674](myst17.htm#fr_673) <span
+<span id="fn_673"></span>[323:674](myst17.htm#fr_673.md) <span
 id="an_iv.vi-p105.1"></span>
 
 <span id="an_iv.vi-p106"></span> Von Hügel, “The Mystical Element of
 Religion,” vol. ii. p. 132.
 
-<span id="fn_674"></span>[324:675](myst17.htm#fr_674) <span
+<span id="fn_674"></span>[324:675](myst17.htm#fr_674.md) <span
 id="an_iv.vi-p108.1"></span>
 
 <span id="an_iv.vi-p109"></span> He goes so far as to say in one of his
@@ -1626,30 +1626,30 @@ id="an_iv.vi-p108.1"></span>
 hominem suas potentias anshilare,” and <span
 id="an_iv.vi-p109.2"></span>“velle operari active est Deum offendere.”
 
-<span id="fn_675"></span>[325:676](myst17.htm#fr_675) <span
+<span id="fn_675"></span>[325:676](myst17.htm#fr_675.md) <span
 id="an_iv.vi-p111.1"></span>
 
 <span id="an_iv.vi-p112"></span> “De Calculo,” cap. ix.
 
-<span id="fn_676"></span>[325:677](myst17.htm#fr_676) <span
+<span id="fn_676"></span>[325:677](myst17.htm#fr_676.md) <span
 id="an_iv.vi-p112.1"></span>
 
 <span id="an_iv.vi-p113"></span> “The Mystical Element of Religion,”
 vol. ii. p. 143.
 
-<span id="fn_677"></span>[326:678](myst17.htm#fr_677) <span
+<span id="fn_677"></span>[326:678](myst17.htm#fr_677.md) <span
 id="an_iv.vi-p116.1"></span>
 
 <span id="an_iv.vi-p117"></span> “Moyen Court,” cap. xxi. Madame Guyon’s
 vague and shifting language, however, sometimes lays her open to other
 and more strictly “quietistic” interpretations.
 
-<span id="fn_678"></span>[326:679](myst17.htm#fr_678) <span
+<span id="fn_678"></span>[326:679](myst17.htm#fr_678.md) <span
 id="an_iv.vi-p118.2"></span>
 
 <span id="an_iv.vi-p119"></span> Vida, cap. xvi. §§ 1 and 4.
 
-<span id="fn_679"></span>[327:680](myst17.htm#fr_679) <span
+<span id="fn_679"></span>[327:680](myst17.htm#fr_679.md) <span
 id="an_iv.vi-p121.1"></span>
 
 <span id="an_iv.vi-p122"></span> “De Quatuor Gradibus Violentae
@@ -1659,6 +1659,6 @@ Charitatis” (Migne, Patrologia Latina, vol. cxcvi. col. 1215 b).
 
 ------------------------------------------------------------------------
 
-[Next: VII. Introversion. Part II: Contemplation](myst18)
+[Next: VII. Introversion. Part II: Contemplation](myst18.md)
 
 </div>

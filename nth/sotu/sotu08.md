@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sotu07)  [Next](sotu09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sotu07)  [Next](sotu09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Universe*, by Nathan R. Wood, \[1932\], at Intangible
 Textual Heritage
 
@@ -325,7 +325,7 @@ when an electron shifts from one orbit to another, or, which is somewhat
 the same thing, that it occurs when the electron drops from one energy
 level to another, or that when an electron is stopped in its motion a
 unit or quantum of radiation is shaken off from it. And lastly it is
-said by a great physicist <span id="fr_0"></span>[\*](#fn_0) that all
+said by a great physicist <span id="fr_0"></span>[\*](#fn_0.md) that all
 that we can be sure of is that these units of energy are emitted by some
 sort of atomic shiver or shudder, and that we do not know just how it is
 done. In any case, they are units of energy, in strict and constant
@@ -418,7 +418,7 @@ light.
 Even the upholders of the extreme New Science, the most earnest
 disciples of Relativity, although they discard absolute motion, or
 motion with reference to the ether, regard ether as still a necessity. A
-leading and brilliant exponent <span id="fr_1"></span>[\*](#fn_1) of the
+leading and brilliant exponent <span id="fr_1"></span>[\*](#fn_1.md) of the
 new theories declares, for instance,—"This does not mean that the ether
 is abolished. We need an ether. The physical world is not to be analyzed
 into isolated particles of matter or electricity with featureless
@@ -684,7 +684,7 @@ passing into energy, and free from the impossibilities of substance,
 seems to be what ether really means. Is the remarkable idea of "ether" a
 vision, from the experimental side, of this omnipresent creative power?
 Witness the eloquent description of ether by a recent distinguished
-writer. <span id="fr_2"></span>[\*](#fn_2) "Ether is not to be explained
+writer. <span id="fr_2"></span>[\*](#fn_2.md) "Ether is not to be explained
 in terms of matter." Ether "has been spoken of as Absolute Space!!" "An
 electric charge must be composed of it." "Ether is the seat of
 prodigious energies,—energies beyond anything as yet accessible to man.
@@ -853,13 +853,13 @@ who lived and died and lives again.
 
 ### Footnotes
 
-<span id="fn_0"></span>[118:\*](sotu08.htm#fr_0) Robert Millikan.
+<span id="fn_0"></span>[118:\*](sotu08.htm#fr_0.md) Robert Millikan.
 
-<span id="fn_1"></span>[121:\*](sotu08.htm#fr_1) A. S. Eddington.
+<span id="fn_1"></span>[121:\*](sotu08.htm#fr_1.md) A. S. Eddington.
 
-<span id="fn_2"></span>[129:\*](sotu08.htm#fr_2) Sir Oliver Lodge.
+<span id="fn_2"></span>[129:\*](sotu08.htm#fr_2.md) Sir Oliver Lodge.
 
 ------------------------------------------------------------------------
 
 [Next: III. The Secret of the Universe and the Problem of Space, Motion
-and Time](sotu09)
+and Time](sotu09.md)

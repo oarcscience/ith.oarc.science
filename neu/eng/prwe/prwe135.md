@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe134)  [Next](prwe136) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe134)  [Next](prwe136.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ some especial character about them.
 
 ------------------------------------------------------------------------
 
-[Next: St Neot and the Fox](prwe136)
+[Next: St Neot and the Fox](prwe136.md)

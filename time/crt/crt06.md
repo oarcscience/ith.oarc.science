@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt05)  [Next](crt07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt05)  [Next](crt07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Intangible Textual Heritage
 <span id="image05"></span><span id="img_image05"></span>
 
 [![THE ADORATION OF THE SHEPHERDS.](tn/image05.jpg)  
-Click to enlarge](img/image05.jpg)  
+Click to enlarge](img/image05.jpg.md)  
   
 
 THE ADORATION OF THE SHEPHERDS.
@@ -45,7 +45,7 @@ development under Protestantism, it will be well to break off and turn
 awhile to countries where Catholic tradition remained unbroken. We shall
 come back later to Post-Reformation England and Protestant Germany.
 
-In French﻿ [3-1](crt22.htm#Note_3-1)<span id="Nanchor_3-1"></span> there
+In French﻿ [3-1](crt22.htm#Note_3-1.md)<span id="Nanchor_3-1"></span> there
 is little or no Christmas poetry, religious in character, before the
 fifteenth century; the earlier carols that have come down to us are
 songs rather of feasting and worldly rejoicing than of sacred things.
@@ -56,7 +56,7 @@ and was spread all over the country by the printing presses. Such
 for old airs or for specially composed music. “To a great extent,” says
 Mr. Gregory Smith, “they anticipate the spirit which stimulated the
 Reformers to turn the popular and often obscene songs into good and
-godly ballads.”﻿ [3-2](crt22.htm#Note_3-2)<span id="Nanchor_3-2"></span>
+godly ballads.”﻿ [3-2](crt22.htm#Note_3-2.md)<span id="Nanchor_3-2"></span>
 
 Some of the early *Noëls* are not unlike the English carols of the
 period, and are often half in Latin, half in French. Here are a few such
@@ -112,7 +112,7 @@ period, and are often half in Latin, half in French. Here are a few such
 <span class="i2">Et tous, de compagnie,</span>  
 <span class="i2">*Deprecemur eum*</span>  
 <span class="i2">Qu’à la fin de la vie,</span>  
-<span class="i2">*Det regnum beatum*.”﻿ [3-3](crt22.htm#Note_3-3)<span
+<span class="i2">*Det regnum beatum*.”﻿ [3-3](crt22.htm#Note_3-3.md)<span
 id="Nanchor_3-3"></span> </span>  
 
 </div>
@@ -197,7 +197,7 @@ the Nativity:﻿—
 <span class="i2">﻿—Ceux-là m'ont visitée</span>  
 <span class="i2">Par grande affection;</span>  
 <span class="i2">Moult me fut agréable</span>  
-<span class="i2">Leur visitation.”﻿ [3-4](crt22.htm#Note_3-4)<span
+<span class="i2">Leur visitation.”﻿ [3-4](crt22.htm#Note_3-4.md)<span
 id="Nanchor_3-4"></span> </span>  
 
 </div>
@@ -250,7 +250,7 @@ the late fifteenth century. Two stanzas may be quoted from him:﻿—
 <span class="i2">Comme il nous a droict apparty</span>  
 <span class="i4">Au céleste convy.</span>  
 <span class="i2">Saluons, etc.</span>  
-<span class="i4">Amen. Noel.”﻿ [3-5](crt22.htm#Note_3-5)<span
+<span class="i4">Amen. Noel.”﻿ [3-5](crt22.htm#Note_3-5.md)<span
 id="Nanchor_3-5"></span> </span>  
 
 </div>
@@ -283,7 +283,7 @@ pastorals:﻿—
 <span class="i2">Enflez vos cornemuses,</span>  
 <span class="i2">Dansez ensemblement,</span>  
 <span class="i2">Et vos doucettes muses,</span>  
-<span class="i2">Accollez doucement.”﻿ [3-6](crt22.htm#Note_3-6)<span
+<span class="i2">Accollez doucement.”﻿ [3-6](crt22.htm#Note_3-6.md)<span
 id="Nanchor_3-6"></span> </span>  
 
 </div>
@@ -316,7 +316,7 @@ carols, these have sometimes a very graceful effect:﻿—
 <span class="i2">Fors ung petit drappelet,</span>  
 <span class="i4">Noel nouvellet,</span>  
 <span class="i2">Pour envelopper le maistre,</span>  
-<span class="i4">O Noel nouvellet!”﻿ [3-7](crt22.htm#Note_3-7)<span
+<span class="i4">O Noel nouvellet!”﻿ [3-7](crt22.htm#Note_3-7.md)<span
 id="Nanchor_3-7"></span> </span>  
 
 </div>
@@ -353,7 +353,7 @@ id="Page_60"></span></span>
 <span class="i2">Tant il chantoit et flageoloit:</span>  
 <span class="i3">Adonc pris ma houlette</span>  
 <span class="i3">Pour aller voir Naulet.</span>  
-<span class="i3">Laissez paître, etc.”﻿ [3-8](crt22.htm#Note_3-8)<span
+<span class="i3">Laissez paître, etc.”﻿ [3-8](crt22.htm#Note_3-8.md)<span
 id="Nanchor_3-8"></span> </span>  
 
 </div>
@@ -448,7 +448,7 @@ Such *Noëls* with their vivid local colour, are valuable pictures of the
 manners of their time. They are, unfortunately, too long for quotation
 here, but any reader who cares to follow up the subject will find some
 interesting specimens in a little collection of French carols that can
-be bought for ten *centimes*.﻿ [3-9](crt22.htm#Note_3-9)<span
+be bought for ten *centimes*.﻿ [3-9](crt22.htm#Note_3-9.md)<span
 id="Nanchor_3-9"></span> They are of various dates; some probably were
 written as late as the eighteenth century. In that century, and indeed
 in the seventeenth, the best Christmas verses are those of a provincial
@@ -521,7 +521,7 @@ everywhere refused by host or hostess:﻿—
 <span class="i2">Vous venez un peu tard,</span>  
 <span class="i2">Ma maison est fort pleine,</span>  
 <span class="i2">Allez quelqu'autre
-part.”﻿ [3-10](crt22.htm#Note_3-10)<span id="Nanchor_3-10"></span>
+part.”﻿ [3-10](crt22.htm#Note_3-10.md)<span id="Nanchor_3-10"></span>
 </span>  
 
 </div>
@@ -569,8 +569,8 @@ Provençal *Noëls*:﻿—
 <span class="i2">Vendrien sèns èstre envita:</span>  
 <span class="i2">Trouvarien dins un petit estable</span>  
 <span class="i2">La lumiero emai la
-verita.”﻿ [24](crt24.htm#Footnote_24)<span
-id="FNanchor_24"></span>﻿ [3-11](crt22.htm#Note_3-11)<span
+verita.”﻿ [24](crt24.htm#Footnote_24.md)<span
+id="FNanchor_24"></span>﻿ [3-11](crt22.htm#Note_3-11.md)<span
 id="Nanchor_3-11"></span> </span>  
 
 </div>
@@ -581,14 +581,14 @@ As for La Monnoye, here is a translation of one of his satirical
 verses:﻿—“When in the time of frost Jesus Christ came into the world the
 ass and ox warmed Him with their breath in the stable. How many asses
 and oxen I know in this kingdom of Gaul! How many asses and oxen I know
-who would not have done as much!”﻿ [3-12](crt22.htm#Note_3-12)<span
+who would not have done as much!”﻿ [3-12](crt22.htm#Note_3-12.md)<span
 id="Nanchor_3-12"></span>
 
 Apart from the rustic *Noëls*, the eighteenth century produced little
 French Christmas poetry of any charm. Some of the carols most sung in
 French churches to-day belong, however, to this period, *e.g.*, the
 “Venez, divin Messie” of the Abbé
-Pellegrin.﻿ [3-13](crt22.htm#Note_3-13)<span id="Nanchor_3-13"></span>
+Pellegrin.﻿ [3-13](crt22.htm#Note_3-13.md)<span id="Nanchor_3-13"></span>
 
 One cannot leave the France of the seventeenth and eighteenth centuries
 without some mention of its Latin hymnody. From a date near 1700,
@@ -609,7 +609,7 @@ Street Chapel, London.
 
 Another fine Latin hymn of the eighteenth-century French Church is
 Charles Coffin's “Jam desinant
-suspiria.”﻿ [3-14](crt22.htm#Note_3-14)<span id="Nanchor_3-14"></span>
+suspiria.”﻿ [3-14](crt22.htm#Note_3-14.md)<span id="Nanchor_3-14"></span>
 It appeared in the Parisian Breviary in 1736, and is well known in
 English as “God from on high hath heard.”
 
@@ -618,7 +618,7 @@ killed the production of popular carols. The later nineteenth century,
 however, saw a revival of interest in the *Noël* as a literary form. In
 1875 the bicentenary of Saboly's death was celebrated by a competition
 for a *Noël* in the Provençal tongue, and something of the same kind has
-been done in Brittany.﻿ [3-15](crt22.htm#Note_3-15)<span
+been done in Brittany.﻿ [3-15](crt22.htm#Note_3-15.md)<span
 id="Nanchor_3-15"></span> The *Noël* has attracted by its aesthetic
 charm even poets who are anything but devout; Théophile Gautier, for
 instance, wrote a graceful Christmas carol, “Le ciel est noir, la terre
@@ -644,7 +644,7 @@ traditional strains the joys of *Noël*.
 Across the Pyrenees, in Spain, the late sixteenth and early seventeenth
 centuries saw a great output of Christmas verse. Among the chief writers
 were Juan López de Ubeda, Francisco de Ocaña, and José de
-Valdivielso.﻿ [3-16](crt22.htm#Note_3-16)<span id="Nanchor_3-16"></span>
+Valdivielso.﻿ [3-16](crt22.htm#Note_3-16.md)<span id="Nanchor_3-16"></span>
 Their *villancicos* remind one of the paintings of Murillo; they have
 the same facility, the same tender and graceful sentiment, without much
 depth. They lack the homely flavour, the quaintness that make the French
@@ -697,8 +697,8 @@ Here are a few stanzas by Ocaña:﻿—
 <span class="i2">y por darnos el vivir</span>  
 <span class="i2">padeció frio en el heno,</span>  
 <span class="i2">nuestro Jesus
-Nazareno.”﻿ [25](crt24.htm#Footnote_25)<span
-id="FNanchor_25"></span>﻿ [3-17](crt22.htm#Note_3-17)<span
+Nazareno.”﻿ [25](crt24.htm#Footnote_25.md)<span
+id="FNanchor_25"></span>﻿ [3-17](crt22.htm#Note_3-17.md)<span
 id="Nanchor_3-17"></span> </span>  
 
 </div>
@@ -768,8 +768,8 @@ given by Fernan Caballero in her sketch, “La Noche de Navidad.”
 <span class="i2">Todos le traen un don;</span>  
 <span class="i2">Yo soy chico y nada tengo;</span>  
 <span class="i2">Le traigo mi
-corazon.”﻿ [26](crt24.htm#Footnote_26)<span
-id="FNanchor_26"></span>﻿ [3-18](crt22.htm#Note_3-18)<span
+corazon.”﻿ [26](crt24.htm#Footnote_26.md)<span
+id="FNanchor_26"></span>﻿ [3-18](crt22.htm#Note_3-18.md)<span
 id="Nanchor_3-18"></span> </span>  
 
 </div>
@@ -814,8 +814,8 @@ cradle-song of the Blessed Virgin:﻿—
 <span class="i2">Fa la nanna, o paradiso</span>  
 <span class="i2">Del mio cor,</span>  
 <span class="i2">Redentor, ti bacio il
-viso.”﻿ [27](crt24.htm#Footnote_27)<span
-id="FNanchor_27"></span>﻿ [3-19](crt22.htm#Note_3-19)<span
+viso.”﻿ [27](crt24.htm#Footnote_27.md)<span
+id="FNanchor_27"></span>﻿ [3-19](crt22.htm#Note_3-19.md)<span
 id="Nanchor_3-19"></span> </span>  
 
 </div>
@@ -870,7 +870,7 @@ Latin cradle-song of unknown origin:﻿—
 <span class="i4">Nemo canit castius.</span>  
 <span class="i2">Millies tibi laudes canimus</span>  
 <span class="i4">Mille, mille,
-millies.”﻿ [3-21](crt22.htm#Note_3-21)<span id="Nanchor_3-21"></span>
+millies.”﻿ [3-21](crt22.htm#Note_3-21.md)<span id="Nanchor_3-21"></span>
 </span>  
 
 </div>
@@ -879,7 +879,7 @@ millies.”﻿ [3-21](crt22.htm#Note_3-21)<span id="Nanchor_3-21"></span>
 
 Curious little poems are found in Latin and other languages, making a
 dialogue of the cries of animals at the news of Christ's
-birth.﻿ [3-22](crt22.htm#Note_3-22)<span id="Nanchor_3-22"></span> The
+birth.﻿ [3-22](crt22.htm#Note_3-22.md)<span id="Nanchor_3-22"></span> The
 following French example is fairly typical:﻿—
 
 <div class="poem">
@@ -898,8 +898,8 @@ following French example is fairly typical:﻿—
 <span class="i2">De l'aller voir, dit: *Eamus*;</span>  
 <span class="i2">Et, droit sur ses pattes, le veau</span>  
 <span class="i2">Beugle deux fois: *Volo,
-Volo!* ”﻿ [28](crt24.htm#Footnote_28)<span
-id="FNanchor_28"></span>﻿ [3-23](crt22.htm#Note_3-23)<span
+Volo!* ”﻿ [28](crt24.htm#Footnote_28.md)<span
+id="FNanchor_28"></span>﻿ [3-23](crt22.htm#Note_3-23.md)<span
 id="Nanchor_3-23"></span> </span>  
 
 </div>
@@ -910,9 +910,9 @@ In Wales, in the early nineteenth century, carol-singing was more
 popular, perhaps, than in England; the carols were sung to the harp, in
 church at the *Plygain* or early morning service on Christmas Day, in
 the homes of the people, and at the doors of the houses by
-visitors.﻿ [3-24](crt22.htm#Note_3-24)<span id="Nanchor_3-24"></span> In
+visitors.﻿ [3-24](crt22.htm#Note_3-24.md)<span id="Nanchor_3-24"></span> In
 Ireland, too, the custom of carol-singing then
-prevailed.﻿ [3-25](crt22.htm#Note_3-25)<span id="Nanchor_3-25"></span>
+prevailed.﻿ [3-25](crt22.htm#Note_3-25.md)<span id="Nanchor_3-25"></span>
 Dr. Douglas Hyde, in his “Religious Songs of Connacht,” gives and
 translates an interesting Christmas hymn in Irish, from which two verses
 may be quoted. They set forth the great paradox of the Incarnation:﻿—
@@ -935,7 +935,7 @@ may be quoted. They set forth the great paradox of the Incarnation:﻿—
 <span class="i3">Mother﻿—younger, can it be?</span>  
 <span class="i2">Older, younger is the Son,</span>  
 <span class="i3">Younger, older, she than
-he.”﻿ [3-27](crt22.htm#Note_3-27)<span id="Nanchor_3-27"></span>
+he.”﻿ [3-27](crt22.htm#Note_3-27.md)<span id="Nanchor_3-27"></span>
 </span>  
 
 </div>
@@ -956,7 +956,7 @@ Gaelic by Mr. J. A. Campbell. It begins:﻿—
 <span class="i2">Son of the Dawn, Son of the Star,</span>  
 <span class="i2">Son of the Planet, Son of the Far \[twice\],</span>  
 <span class="i2">Sing hey the Gift, sing ho the
-Gift.”﻿ [3-28](crt22.htm#Note_3-28)<span id="Nanchor_3-28"></span>
+Gift.”﻿ [3-28](crt22.htm#Note_3-28.md)<span id="Nanchor_3-28"></span>
 </span>  
 
 </div>
@@ -968,7 +968,7 @@ Gift.”﻿ [3-28](crt22.htm#Note_3-28)<span id="Nanchor_3-28"></span>
 <span id="image06"></span><span id="img_image06"></span>
 
 [![THE FLIGHT INTO EGYPT: THE REST BY THE WAY](tn/image06.jpg)  
-Click to enlarge](img/image06.jpg)  
+Click to enlarge](img/image06.jpg.md)  
   
 
 THE FLIGHT INTO EGYPT: THE REST BY THE WAY
@@ -987,7 +987,7 @@ MASTER OF THE SEVEN SORROWS OF MARY
 
 [![SINGING “VOM HIMMEL HOCH” FROM A CHURCH TOWER AT
 CHRISTMAS.](tn/image07.jpg)  
-Click to enlarge](img/image07.jpg)  
+Click to enlarge](img/image07.jpg.md)  
   
 
 SINGING “VOM HIMMEL HOCH” FROM A CHURCH TOWER AT CHRISTMAS.
@@ -1093,8 +1093,8 @@ all Christmas hymns﻿—“Vom Himmel hoch, da komm ich her.”
 <span class="i2">Zu springen, singen immer frei</span>  
 <span class="i2">Das rechte Lied dem Gottessohn</span>  
 <span class="i2">Mit Herzenslust, den süssen
-Ton.”﻿ [29](crt24.htm#Footnote_29)<span
-id="FNanchor_29"></span>﻿ [3-29](crt22.htm#Note_3-29)<span
+Ton.”﻿ [29](crt24.htm#Footnote_29.md)<span
+id="FNanchor_29"></span>﻿ [3-29](crt22.htm#Note_3-29.md)<span
 id="Nanchor_3-29"></span> </span>  
 
 </div>
@@ -1139,8 +1139,8 @@ id="Page_73"></span></span>
 <span class="i2">Der lieget in Marie'n Schoss;</span>  
 <span class="i2">Er ist ein Kindlein worden klein,</span>  
 <span class="i2">Der alle Ding’ erhält allein.</span>  
-<span class="i7">*Kyrieleis!* ”﻿ [30](crt24.htm#Footnote_30)<span
-id="FNanchor_30"></span>﻿ [3-31](crt22.htm#Note_3-31)<span
+<span class="i7">*Kyrieleis!* ”﻿ [30](crt24.htm#Footnote_30.md)<span
+id="FNanchor_30"></span>﻿ [3-31](crt22.htm#Note_3-31.md)<span
 id="Nanchor_3-31"></span> </span>  
 
 </div>
@@ -1223,8 +1223,8 @@ Krippen hier,” and others. I give a few verses from the third:﻿—
 <span class="i6">Nun kann ich</span>  
 <span class="i6">Mich durch dich</span>  
 <span class="i6">Wohl zufrieden
-geben.”﻿ [31](crt24.htm#Footnote_31)<span
-id="FNanchor_31"></span>﻿ [3-33](crt22.htm#Note_3-33)<span
+geben.”﻿ [31](crt24.htm#Footnote_31.md)<span
+id="FNanchor_31"></span>﻿ [3-33](crt22.htm#Note_3-33.md)<span
 id="Nanchor_3-33"></span> </span>  
 
 </div>
@@ -1280,8 +1280,8 @@ verloren;</span>
 <span class="i5">Wohne in mir,</span>  
 <span class="i5">Mach mich ganz eines mit dir,</span>  
 <span class="i5">Den du zum Leben
-erkoren.”﻿ [32](crt24.htm#Footnote_32)<span
-id="FNanchor_32"></span>﻿ [3-35](crt22.htm#Note_3-35)<span
+erkoren.”﻿ [32](crt24.htm#Footnote_32.md)<span
+id="FNanchor_32"></span>﻿ [3-35](crt22.htm#Note_3-35.md)<span
 id="Nanchor_3-35"></span> </span>  
 
 </div>
@@ -1328,8 +1328,8 @@ The singing of sacred carols by country people continued, indeed, but
 the creative artistic impulse was lost. True carols after the
 Reformation tend to be doggerel, and no doubt many of the traditional
 pieces printed in such collections as Bramley and
-Stainer's﻿ [33](crt24.htm#Footnote_33)<span
-id="FNanchor_33"></span>﻿ [3-37](crt22.htm#Note_3-37)<span
+Stainer's﻿ [33](crt24.htm#Footnote_33.md)<span
+id="FNanchor_33"></span>﻿ [3-37](crt22.htm#Note_3-37.md)<span
 id="Nanchor_3-37"></span> are debased survivals from the Middle Ages, or
 perhaps new words written for old tunes. Such carols as “God rest you
 merry, gentlemen,” have unspeakably delightful airs, and the words charm
@@ -1491,7 +1491,7 @@ Southwell's “The Burning Babe,” few will be sorry to find it here:﻿—
 <span class="i3">And swiftly shrunk away:</span>  
 <span class="i2">And straight I callèd unto mind</span>  
 <span class="i3">That it was Christmas
-Day.”﻿ [3-38](crt22.htm#Note_3-38)<span id="Nanchor_3-38"></span>
+Day.”﻿ [3-38](crt22.htm#Note_3-38.md)<span id="Nanchor_3-38"></span>
 </span>  
 
 </div>
@@ -1532,7 +1532,7 @@ keep</span>
 <span class="i3">That glory's self should serve our griefs and
 fears,</span>  
 <span class="i3">And free Eternity submit to
-years﻿—”﻿ [3-39](crt22.htm#Note_3-39)<span id="Nanchor_3-39"></span>
+years﻿—”﻿ [3-39](crt22.htm#Note_3-39.md)<span id="Nanchor_3-39"></span>
 </span>  
 
 </div>
@@ -1572,7 +1572,7 @@ light,</span>
 <span class="i2">Furnish and deck my soul, that thou may'st
 have</span>  
 <span class="i2">A better lodging than a rack or
-grave.”﻿ [3-40](crt22.htm#Note_3-40)<span id="Nanchor_3-40"></span>
+grave.”﻿ [3-40](crt22.htm#Note_3-40.md)<span id="Nanchor_3-40"></span>
 </span>  
 
 </div>
@@ -1602,7 +1602,7 @@ And Vaughan:﻿—
 <span class="i5">O release him!</span>  
 <span class="i2">And let once more, by mystic birth,</span>  
 <span class="i2">The Lord of life be born in
-earth.”﻿ [3-41](crt22.htm#Note_3-41)<span id="Nanchor_3-41"></span>
+earth.”﻿ [3-41](crt22.htm#Note_3-41.md)<span id="Nanchor_3-41"></span>
 </span>  
 
 </div>
@@ -1640,7 +1640,7 @@ Italian worshipper of the *Bambino*:﻿—
 <span class="i4">Sweet Babe, for Thee,</span>  
 <span class="i4">Of ivory,</span>  
 <span class="i2">And plaster'd round with
-amber.”﻿ [3-42](crt22.htm#Note_3-42)<span id="Nanchor_3-42"></span>
+amber.”﻿ [3-42](crt22.htm#Note_3-42.md)<span id="Nanchor_3-42"></span>
 </span>  
 
 </div>
@@ -1692,7 +1692,7 @@ shake,</span>
 <span class="i3">Whom all the world is not enough to hold!</span>  
 <span class="i3">Who of His years, or of His age hath told?</span>  
 <span class="i2">Never such age so young, never a child so
-old.”﻿ [3-43](crt22.htm#Note_3-43)<span id="Nanchor_3-43"></span>
+old.”﻿ [3-43](crt22.htm#Note_3-43.md)<span id="Nanchor_3-43"></span>
 </span>  
 
 </div>
@@ -1730,7 +1730,7 @@ story of his Lord:﻿—
 <span class="i4">An easy cradle or a bed.</span>  
 <span class="i6">Sweet baby, then, forbear to weep;</span>  
 <span class="i6">Be still, my babe; sweet baby,
-sleep.”﻿ [3-44](crt22.htm#Note_3-44)<span id="Nanchor_3-44"></span>
+sleep.”﻿ [3-44](crt22.htm#Note_3-44.md)<span id="Nanchor_3-44"></span>
 </span>  
 
 </div>
@@ -1780,7 +1780,7 @@ id="Page_84"></span>
 <span class="i4">Where the hornèd oxen fed;</span>  
 <span class="i2">﻿—Peace, my darling, here's no danger;</span>  
 <span class="i4">Here's no ox a-near thy
-bed.”﻿ [3-45](crt22.htm#Note_3-45)<span id="Nanchor_3-45"></span>
+bed.”﻿ [3-45](crt22.htm#Note_3-45.md)<span id="Nanchor_3-45"></span>
 </span>  
 
 </div>
@@ -1812,7 +1812,7 @@ this hall,” and “Outlanders, whence come ye last?” are the work of
 unbelievers and bear witness only to the aesthetic charm of the
 Christmas story; but there are others, mostly from Roman or
 Anglo-Catholic sources, of real religious
-inspiration.﻿ [34](crt24.htm#Footnote_34)<span id="FNanchor_34"></span>
+inspiration.﻿ [34](crt24.htm#Footnote_34.md)<span id="FNanchor_34"></span>
 The most spontaneous are Christina Rossetti's, whose haunting rhythms
 and delicate feeling are shown at their best in her songs of the Christ
 Child. More studied and self-conscious are the austere Christmas verses
@@ -1830,7 +1830,7 @@ its solemn music takes us back to an earlier century:﻿—
 <span class="i4">Came down from heaven; and, in a manger laid,</span>  
 <span class="i4">The first, rich, offerings of our ransom paid:</span>  
 <span class="i2">Consider, O my soul, what morn is
-this!”﻿ [3-46](crt22.htm#Note_3-46)<span id="Nanchor_3-46"></span>
+this!”﻿ [3-46](crt22.htm#Note_3-46.md)<span id="Nanchor_3-46"></span>
 </span>  
 
 </div>
@@ -1862,7 +1862,7 @@ id="page_86">p. 86</span> <span id="Page_86"></span></span>
 <span class="i2">The mother's hair was a glory,</span>  
 <span class="i4">Though loosened and torn;</span>  
 <span class="i2">For under the eaves in the gloaming</span>  
-<span class="i4">A child was born.”﻿ [3-47](crt22.htm#Note_3-47)<span
+<span class="i4">A child was born.”﻿ [3-47](crt22.htm#Note_3-47.md)<span
 id="Nanchor_3-47"></span> </span>  
 
 </div>
@@ -1881,4 +1881,4 @@ id="page_89">p. 89</span> <span id="Page_89"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Christmas in Liturgy and Popular Devotion](crt07)
+[Next: Chapter IV. Christmas in Liturgy and Popular Devotion](crt07.md)

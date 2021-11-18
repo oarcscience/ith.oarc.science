@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,8 +18,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](yfhu00)    [Page
-Index](pageidx)    [Text \[Zipped\]](yfhu.txt.gz)
+[Contents](#contents)    [Start Reading](yfhu00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](yfhu.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -33,27 +33,27 @@ religion alone that can please the Infinite.* --p. 184-5
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](yfhu00)  
-[Contents](yfhu01)  
-[Foreword](yfhu02)  
-[Chapter I. The Ruling Principle In Man](yfhu03)  
-[Chapter II. How We Govern the Forces We Possess](yfhu04)  
-[Chapter III. The Use of Mind In Practical Action](yfhu05)  
-[Chapter IV. The Forces of the Subconscious](yfhu06)  
-[Chapter V. Training the Subconscious For Special Results](yfhu07)  
-[Chapter VI. The Power of Subjective Thought](yfhu08)  
-[Chapter VII. How Man Becomes What He Thinks](yfhu09)  
-[Chapter VIII. The Art of Changing For the Better](yfhu10)  
-[Chapter IX. He Can Who Thinks He Can](yfhu11)  
-[Chapter X. How We Secure What We Persistently Desire](yfhu12)  
-[Chapter XI. Concentration and the Power Back of Suggestion](yfhu13)  
-[Chapter XII. The Development of the Will](yfhu14)  
-[Chapter XIII. The Building of a Great Mind](yfhu15)  
-[Chapter XIV. How Character Determines Constructive Action](yfhu16)  
-[Chapter XV. The Art of Building Character](yfhu17)  
-[Chapter XVI. The Creative Forces In Man](yfhu18)  
-[Chapter XVII. The Building Power of Constructive Speech](yfhu19)  
-[Chapter XVIII. Imagination and the Master Mind](yfhu20)  
-[Chapter XIX. The Higher Forces In Man](yfhu21)  
-[Chapter XX. The Greatest Power In Man](yfhu22)  
-[Dust Jacket Copy](yfhu23)  
+<span id="contents"></span> [Title Page](yfhu00.md)  
+[Contents](yfhu01.md)  
+[Foreword](yfhu02.md)  
+[Chapter I. The Ruling Principle In Man](yfhu03.md)  
+[Chapter II. How We Govern the Forces We Possess](yfhu04.md)  
+[Chapter III. The Use of Mind In Practical Action](yfhu05.md)  
+[Chapter IV. The Forces of the Subconscious](yfhu06.md)  
+[Chapter V. Training the Subconscious For Special Results](yfhu07.md)  
+[Chapter VI. The Power of Subjective Thought](yfhu08.md)  
+[Chapter VII. How Man Becomes What He Thinks](yfhu09.md)  
+[Chapter VIII. The Art of Changing For the Better](yfhu10.md)  
+[Chapter IX. He Can Who Thinks He Can](yfhu11.md)  
+[Chapter X. How We Secure What We Persistently Desire](yfhu12.md)  
+[Chapter XI. Concentration and the Power Back of Suggestion](yfhu13.md)  
+[Chapter XII. The Development of the Will](yfhu14.md)  
+[Chapter XIII. The Building of a Great Mind](yfhu15.md)  
+[Chapter XIV. How Character Determines Constructive Action](yfhu16.md)  
+[Chapter XV. The Art of Building Character](yfhu17.md)  
+[Chapter XVI. The Creative Forces In Man](yfhu18.md)  
+[Chapter XVII. The Building Power of Constructive Speech](yfhu19.md)  
+[Chapter XVIII. Imagination and the Master Mind](yfhu20.md)  
+[Chapter XIX. The Higher Forces In Man](yfhu21.md)  
+[Chapter XX. The Greatest Power In Man](yfhu22.md)  
+[Dust Jacket Copy](yfhu23.md)  

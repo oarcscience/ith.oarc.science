@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ajp11)  [Next](ajp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ajp11)  [Next](ajp13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Jewish Proverbs*, by Abraham Cohen, \[1911\], at Intangible
 Textual Heritage
 
@@ -250,4 +250,4 @@ humanity flock to the above-mentioned places in Babylon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Colloquialisms](ajp13)
+[Next: Chapter IX: Colloquialisms](ajp13.md)

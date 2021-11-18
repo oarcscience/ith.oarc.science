@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib05)  [Next](shib07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib05)  [Next](shib07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 <span class="smallcaps">The</span> Council Chamber is suitably arrayed
 under the direction of the Prince Master of the Palace.
 
-<span id="img_01500"></span> ![FLOOR PLAN:](img/01500.jpg)
+<span id="img_01500"></span> ![FLOOR PLAN:](img/01500.jpg.md)
 
 <span id="img_note0"></span> ![](img/note0.jpg)
 
@@ -105,4 +105,4 @@ for the formation of the Grand Council.
 
 ------------------------------------------------------------------------
 
-[Next: The Records of our Fathers](shib07)
+[Next: The Records of our Fathers](shib07.md)

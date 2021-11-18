@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml15)  [Next](eml17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml15)  [Next](eml17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -224,7 +224,7 @@ and you will become strong and prosper. The gods and the goddesses will
 be good to you, and the evil ones will be thwarted, the mouths of those
 who utter spells against you will be closed. . . . I know all their
 names, and may those, whose names I know not, suffer also, and that
-quickly." <span id="fr_101"></span>[1](#fn_101)
+quickly." <span id="fr_101"></span>[1](#fn_101.md)
 
 Erman, the German Egyptologist, has translated an interesting papyrus by
 an unknown scribe, which contains the formulæ used to protect children.
@@ -244,9 +244,9 @@ The Egyptian ghosts, the enemies of the living, like the archaic
 deities, were of repulsive aspect. They came from tombs in mummy
 bandages with cheeks of decaying flesh, flat noses, and eyes of horror,
 and entered a room with averted faces, <span
-id="fr_102"></span>[1](#fn_102) which were suddenly turned on children,
+id="fr_102"></span>[1](#fn_102.md) which were suddenly turned on children,
 who at once died of fright. They killed sleeping babies by sucking their
-breath <span id="fr_103"></span>[2](#fn_103) when they kissed, or rather
+breath <span id="fr_103"></span>[2](#fn_103.md) when they kissed, or rather
 smelled, them, and if children were found crying they rocked them to
 sleep--the sleep of death.
 
@@ -483,16 +483,16 @@ resources of the royal treasury were strictly limited.
 
 ### Footnotes
 
-<span id="fn_101"></span>[176:1](eml16.htm#fr_101) The knotted cord was
+<span id="fn_101"></span>[176:1](eml16.htm#fr_101.md) The knotted cord was
 in general use throughout Europe. It is not yet uncommon in the
 Highlands of Scotland, where red neck cords protect children against the
 evil eye, while sprains. &c., are cured by knotted cords, a charm being
 repeated as each knot is tied.
 
-<span id="fn_102"></span>[177:1](eml16.htm#fr_102) Like Turnface in the
+<span id="fn_102"></span>[177:1](eml16.htm#fr_102.md) Like Turnface in the
 boat of the dead.
 
-<span id="fn_103"></span>[177:2](eml16.htm#fr_103) Cats are credited in
+<span id="fn_103"></span>[177:2](eml16.htm#fr_103.md) Cats are credited in
 Europe with taking away life by sucking children's breath as they lie
 asleep.
 
@@ -500,6 +500,6 @@ asleep.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: Father Gods and Mother Goddesses](eml17)
+[Next: Chapter XIV: Father Gods and Mother Goddesses](eml17.md)
 
 </div>

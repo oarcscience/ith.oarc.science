@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre16)  [Next](gre18) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre16)  [Next](gre18.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ Axefirth, whereof came the tale of Bodmod, and Grimulf, and Gerpir.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](gre18)
+[Next: Chapter XIII](gre18.md)

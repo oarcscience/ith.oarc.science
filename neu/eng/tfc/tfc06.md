@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc05)  [Next](tfc07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc05)  [Next](tfc07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -378,14 +378,14 @@ week—now rain, now shine. So the Goddess of Love overcasts the hearts
 
 <span id="img_03200"></span> <span align="CENTER"> [![The
 Knight](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)  
+Click to enlarge](img/03200.jpg.md)  
 The Knight  
 </span>
 
 <span id="page_33">p. 33</span>
 
 of her worshippers, and makes them as variable as the complexion of the
-day devoted to her worship. <span id="fr_17"></span>[\*](#fn_17)
+day devoted to her worship. <span id="fr_17"></span>[\*](#fn_17.md)
 
 When Arcite had sung his song he began thoughtfully to sigh at the
 remembrance of his native Thebes, warred on by the revengeful Juno.
@@ -419,7 +419,7 @@ above us, were it not that you are mad for love, and are weaponless, you
 should never quit this grove alive. I deny the pledge and bond which you
 pretend I made with you. Fool! again I tell you, love is free; and, in
 your despite, love her I will. But as you are a worthy knight, and of
-gentle <span id="fr_18"></span>[\*](#fn_18) blood, and desire to win her
+gentle <span id="fr_18"></span>[\*](#fn_18.md) blood, and desire to win her
 by battle, I here give you my word of honour that to-morrow, without
 disclosing the affair to any other being, I will not fail to be found
 here equipped as a knight, and I will bring accoutrements for you, and
@@ -637,7 +637,7 @@ hounds, and underneath her feet was the moon. Her statue was clad in
 bright green, and she had a bow in hand with a quiver of arrows. Her
 eyes were bent downwards towards the dark region of Pluto (of which
 dominion she was also queen). A woman in great need lay before her,
-imploring the aid of Lucina. <span id="fr_19"></span>[\*](#fn_19)
+imploring the aid of Lucina. <span id="fr_19"></span>[\*](#fn_19.md)
 
 The lists, with the temples and theatre, being finished at a great cost,
 I will leave speaking of Theseus for a time, and turn to Palamon and
@@ -1007,18 +1007,18 @@ AND NEXT BEGINS
 
 ### Footnotes
 
-<span id="fn_17"></span>[33:\*](tfc06.htm#fr_17) Friday was devoted to
+<span id="fn_17"></span>[33:\*](tfc06.htm#fr_17.md) Friday was devoted to
 the worship of the Goddess Venus. The Romans entitled it "The day of
 Venus"—"Dies Veneris."
 
-<span id="fn_18"></span>[34:\*](tfc06.htm#fr_18) The ancient term gentle
+<span id="fn_18"></span>[34:\*](tfc06.htm#fr_18.md) The ancient term gentle
 was used only to imply high breeding. A gentle knight was a knight of
 high family. In some parts of England, to this day, the best white bread
 is called "gentle bread," to distinguish it from the brown or common.
 
-<span id="fn_19"></span>[41:\*](tfc06.htm#fr_19) Diana, in the old
+<span id="fn_19"></span>[41:\*](tfc06.htm#fr_19.md) Diana, in the old
 mythology, passed also under the name of Lucina.
 
 ------------------------------------------------------------------------
 
-[Next: The Lawyer's Tale](tfc07)
+[Next: The Lawyer's Tale](tfc07.md)

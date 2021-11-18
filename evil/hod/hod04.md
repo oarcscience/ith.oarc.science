@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod03)  [Next](hod05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod03)  [Next](hod05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -77,7 +77,7 @@ makes this characteristic remark of the rude tribes of Brazil:
 of an evil principle over them; in many there dawns also a glimpse of
 the good; but they revere the one less than they fear the other. It
 might be thought that they hold the Good Being weaker in relation to the
-fate of man than the Evil." <span id="fr_1"></span>[1](#fn_1)</span>
+fate of man than the Evil." <span id="fr_1"></span>[1](#fn_1.md)</span>
 
 Capt. John Smith, the hero of the colonisation of Virginia, in 1607,
 describes the worship of Okee (a word
@@ -85,14 +85,14 @@ describes the worship of Okee (a word
 <span id="page_8">p. 8</span>
 
 which apparently means that which is above our control) as
-follows: <span id="fr_2"></span>[1](#fn_2)
+follows: <span id="fr_2"></span>[1](#fn_2.md)
 
 "There is yet in Virginia no place discouered to bee so Savage in which
 the savages haue not a religion, Deare, and Bow and Arrowes. All thinges
 that were able to do them hurt beyond their prevention they adore with
 their kinde of divine worship; as the fire, water, lightning, thunder,
 our ordinance peeces, horses, &c. But their chiefe God they worship is
-the Diuell. Him they call Oke, <span id="fr_3"></span>[2](#fn_3) and
+the Diuell. Him they call Oke, <span id="fr_3"></span>[2](#fn_3.md) and
 serue him more of feare than loue. They say they haue conference with
 him and fashion themselues as neare to his shape as they can imagine. In
 their Temples they haue his image euill favouredly carued and then
@@ -155,15 +155,15 @@ them to pray to his God for raine, for his Gods would not send him any.
 
 "And in this lamentable ignorance doe these poore soules sacrifice
 themselues to the Diuell, not knowing their Creator." (Original ed., pp.
-32, 33, 34.) <span id="fr_4"></span>[1](#fn_4)
+32, 33, 34.) <span id="fr_4"></span>[1](#fn_4.md)
 
 <span id="page_10">p. 10</span>
 
 Similar practices prevailed among almost all the Indian tribes who
 inhabited the islands and the two continents of America a few centuries
 ago. M. Bernhard Picart's illustration <span
-id="fr_5"></span>[1](#fn_5), drawn according to the report of Peter
-Martyr, <span id="fr_6"></span>[2](#fn_6) an eye-witness, proves that
+id="fr_5"></span>[1](#fn_5.md), drawn according to the report of Peter
+Martyr, <span id="fr_6"></span>[2](#fn_6.md) an eye-witness, proves that
 the tribes of Hispaniola, now commonly called Haiti, paid homage to the
 Supreme Being under the name of Jocanna, and their practices show that
 they were devil-worshippers of the worst kind. Even the most civilised
@@ -192,7 +192,7 @@ religious
 <span id="img_01100"></span> <span align="CENTER"> [![DEMONOLATROUS
 CEREMONIES OF THE OLD INHABITANTS OF HAITI. (After
 Picart.)](tn/generic.jpg)  
-Click to view](img/01100.jpg)  
+Click to view](img/01100.jpg.md)  
 DEMONOLATROUS CEREMONIES OF THE OLD INHABITANTS OF HAITI. (After
 Picart.)  
 </span>
@@ -207,7 +207,7 @@ burnt offering." (Judges, xi. 29-40).
 AMONG THE GREEKS.&lt;br&gt; \[Polyxena dies by the hand of Neoptolemus
 on the tomb of Achilles.--&lt;i&gt;After an ancient cameo in
 Berlin&lt;/i&gt;.\]](tn/generic.jpg)  
-Click to view](img/01200.jpg)  
+Click to view](img/01200.jpg.md)  
 HUMAN SACRIFICE AMONG THE GREEKS.  
 \[Polyxena dies by the hand of Neoptolemus on the tomb of
 Achilles.--*After an ancient cameo in Berlin*.\]  
@@ -243,7 +243,7 @@ FOR IPHIGENIA.&lt;br&gt; \[Agamemnon, her father, veils his head, while
 Diomedes and Odysseus deliver the virgin over to Kalchas, the priest.
 Artemis appears in the clouds and a nymph brings the
 hind.--&lt;i&gt;After a Pompeian fresco&lt;/i&gt;.\]](tn/generic.jpg)  
-Click to view](img/01300.jpg)  
+Click to view](img/01300.jpg.md)  
 A HIND SUBSTITUTED FOR IPHIGENIA.  
 \[Agamemnon, her father, veils his head, while Diomedes and Odysseus
 deliver the virgin over to Kalchas, the priest. Artemis appears in the
@@ -295,27 +295,27 @@ a final victory of justice, right, and truth.
 
 ### Footnotes
 
-<span id="fn_1"></span>[7:1](hod04.htm#fr_1) Quoted from Tylor,
+<span id="fn_1"></span>[7:1](hod04.htm#fr_1.md) Quoted from Tylor,
 *Primitive Culture*, II., p. 325.
 
-<span id="fn_2"></span>[8:1](hod04.htm#fr_2) "A map of Virginia. With a
+<span id="fn_2"></span>[8:1](hod04.htm#fr_2.md) "A map of Virginia. With a
 description of the covntrey, etc., written by Captaine Smith, etc.
 Oxford. Printed by Joseph Barnes. 1612."
 
-<span id="fn_3"></span>[8:2](hod04.htm#fr_3) In the little dictionary of
+<span id="fn_3"></span>[8:2](hod04.htm#fr_3.md) In the little dictionary of
 the language of the savages of Virginia which is printed in the same
 pamphlet, Captain Smith translates "Oke" simply by "gods."
 
-<span id="fn_4"></span>[9:1](hod04.htm#fr_4) See *The Works of Capt.
+<span id="fn_4"></span>[9:1](hod04.htm#fr_4.md) See *The Works of Capt.
 John Smith* of Willoughby etc. Edited by Edward Arber. Birmingham, 1884,
 pp. 74 ff.
 
-<span id="fn_5"></span>[10:1](hod04.htm#fr_5) *The Religious Ceremonies
+<span id="fn_5"></span>[10:1](hod04.htm#fr_5.md) *The Religious Ceremonies
 and Customs of the Several Nations of the Known World*. III., p. 129.
 
-<span id="fn_6"></span>[10:2](hod04.htm#fr_6) See his work, *De rebus
+<span id="fn_6"></span>[10:2](hod04.htm#fr_6.md) See his work, *De rebus
 oceanicis et novo orbe*.
 
 ------------------------------------------------------------------------
 
-[Next: Ancient Egypt](hod05)
+[Next: Ancient Egypt](hod05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos06)  [Next](pos08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos06)  [Next](pos08.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,14 +12,14 @@ B<span class="small">ORN</span> in the time of the Buddha Vipassi, in
 his native town of Bandhumatī, as the daughter of a wealthy burgess, she
 became a pious lay-adherent, and at the Master's death she made an
 offering to the shrine of his ashes of a golden umbrella
-[<sup>117</sup>](pos07.htm#22-1) surrounded with jewels. Reborn for this
+[<sup>117</sup>](pos07.htm#22-1.md) surrounded with jewels. Reborn for this
 in various heavens, she was, in this Buddha-dispensation, reborn at
 Kapilavatthu as the daughter of the chief wife of Khemaka, the Sākiyan,
 and named Nandā. But because of her excessive beauty, charm, and
 loveliness, she was known as Nandā the Fair.
 
 Now, on the day when she was to choose among her
-suitors,[<sup>118</sup>](pos07.htm#22-2) Carabhūta, her young Sākiyan
+suitors,[<sup>118</sup>](pos07.htm#22-2.md) Carabhūta, her young Sākiyan
 kinsman, died. Then her parents made her leave the world against her
 will. But she, even after she had entered the Order, was infatuated with
 her own beauty, and, fearing the Master's rebuke, avoided his presence.
@@ -86,7 +86,7 @@ class="small">ÑÑĀ</span>.
 
 The story of her past and present is like that of Nandā the Fair; but it
 was at Vesālī, in the princely family of the Licchavis, that she was
-reborn. [<sup>121</sup>](pos07.htm#23-3) There is this further
+reborn. [<sup>121</sup>](pos07.htm#23-3.md) There is this further
 difference: she attained Arahantship after hearing the Master preach the
 Dhamma, and it was when reflecting on the change that had come over her
 that she, in joy, uttered these verses:
@@ -121,7 +121,7 @@ Is vanquishèd–Ne'er shall I be again! (22)</p></td>
 > <sup>122</sup> The Bojjhangas or Sambojjhangas; lit., parts or limbs
 > of Bodhi. They were mindfulness, research in the Dhamma, energy, joy,
 > serenity, concentration, equanimity (*B. Psy.*, 84, *n.* 2. *Cf.* [Ps.
-> xxxi.](pos08.htm#XXXI)).
+> xxxi.](pos08.htm#XXXI).md).
 
 <span id="24-2"></span>
 
@@ -142,7 +142,7 @@ good in this rebirth and that, was born under this Buddha-dispensation
 in a poor family at Sāvatthī, and was married to a rush-plaiter. Her
 firstborn was a son, come for the last time to birth, who grew up to
 become the Elder Sumangala and an
-Arahant.[<sup>124</sup>](pos07.htm#24-3) And her name not becoming
+Arahant.[<sup>124</sup>](pos07.htm#24-3.md) And her name not becoming
 known, she was called in the Pali text a certain unknown Therī, and is
 known as Sumangala's mother. She became a Bhikkhunī, and one day, while
 reflecting on all she had suffered as a laywoman, she was much affected,
@@ -151,12 +151,12 @@ knowledge of the form and meaning of the Dhamma. Thereupon she
 exclaimed:
 
 <span id="23">O woman well set free! how free am I,</span>
-[<sup>125</sup>](pos07.htm#25-1)  
+[<sup>125</sup>](pos07.htm#25-1.md)  
 How throughly free from kitchen drudgery!  
 Me stained and squalid 'mong my cooking-pots  
 My brutal husband ranked as even less  
 Than the sunshades he sits and weaves
-alway.[<sup>126</sup>](pos07.htm#25-2) (23)  
+alway.[<sup>126</sup>](pos07.htm#25-2) (23.md)  
 <span id="24">  
 Purged now of all my former lust and hate,  
 I dwell, musing at ease beneath the shade  
@@ -168,7 +168,7 @@ Of spreading boughs–O, but 'tis well with me! (24)</span>
 
 > <sup>124</sup> This is the Elder Sumangala, who in his verse
 > (*Theragāthā*, 43) celebrates his release from three 'crooked things'
-> (*supra*, [Ps. xi.](pos06.htm#XI))–rom sickle, plough, and spade.
+> (*supra*, [Ps. xi.](pos06.htm#XI).md)–rom sickle, plough, and spade.
 
 <span id="25-1"></span>
 
@@ -179,7 +179,7 @@ Of spreading boughs–O, but 'tis well with me! (24)</span>
 
 > <sup>126</sup> In the Pali the first two lines depart from the *śloka*
 > metre, being apparently a curious variety of some metre I cannot
-> identify. See [Introduction.](pos04.htm#INTRODUCTION) The last two
+> identify. See [Introduction.](pos04.htm#INTRODUCTION.md) The last two
 > lines revert to the *śloka*, *sukhato* being an obvious gloss. Quite
 > literally, the quaint and elliptical passage runs: 'The shameless one
 > me "sunshade" only,' which the Commentary explains as 'My husband
@@ -195,12 +195,12 @@ Of spreading boughs–O, but 'tis well with me! (24)</span>
 Born of a respectable family, in the time of Kassapa Buddha, she won
 understanding, and became a Bhikkhunī, established in the precepts. But
 she reviled an Arahant Elder Sister by calling her a
-prostitute,[<sup>127</sup>](pos07.htm#25-3) and for this she went to
+prostitute,[<sup>127</sup>](pos07.htm#25-3.md) and for this she went to
 purgatory. In this Buddha-dispensation she was reborn in the kingdom of
 Kāsī as the child of a distinguished and prosperous citizen. But because
 of the persistent effect of her former evil speech, she became herself a
 prostitute. How she left the world and was ordained by special messenger
-is related in the Culla Vagga. [<sup>128</sup>](pos07.htm#26-1) For she
+is related in the Culla Vagga. [<sup>128</sup>](pos07.htm#26-1.md) For she
 wished to go to Sāvatthī to be ordained by the Exalted One. But the
 libertines of Benares barred the ways, so she sent and asked the Exalted
 One's advice, and he permitted her to be ordained by a messenger. Then
@@ -233,7 +233,7 @@ Accomplished is the bidding of the Lord. (26)</p></td>
 
 <span id="25-3"></span>
 
-> <sup>127</sup> *Cf.* [Ps. lxvi.](pos18.htm#LXVI)
+> <sup>127</sup> *Cf.* [Ps. lxvi.](pos18.htm#LXVI.md)
 
 <span id="26-1"></span>
 
@@ -244,7 +244,7 @@ Accomplished is the bidding of the Lord. (26)</p></td>
 <span id="26-2"></span>
 
 > <sup>129</sup> *Tisso vijjā*. The Brahmanic phrase, *tevijjo*, often
-> recurring below –*e.g.*, [Ps. xxxvii](pos09.htm#XXXVII).–and
+> recurring below –*e.g.*, [Ps. xxxvii](pos09.htm#XXXVII.md).–and
 > signifying 'versed in the three Vedas,' was, according to
 > *Anguttara-Nikāya*, i. 163-5, adopted by the Buddha and applied to the
 > three attainments of *paññā*, entitled reminiscence of former births,
@@ -256,9 +256,9 @@ Accomplished is the bidding of the Lord. (26)</p></td>
 
 She, too, having made her resolve under former Buddhas, and heaping up
 good of age-enduring efficacy in this rebirth and that, was born in the
-94th æon [<sup>130</sup>](pos07.htm#27-1) as a fairy. She worshipped
+94th æon [<sup>130</sup>](pos07.htm#27-1.md) as a fairy. She worshipped
 with offering of flowers a Silent (Pacceka) Buddha.
-[<sup>131</sup>](pos07.htm#27-2) And after many other births among men
+[<sup>131</sup>](pos07.htm#27-2.md) And after many other births among men
 and gods, she was, in this Buddha-dispensation, born at Rājagaha in the
 family of a leading burgess. When she had come to years of discretion
 she heard the Master teaching at the gate of Rājagaha, and, becoming a
@@ -293,20 +293,20 @@ The wildering gloom that long had closed me in. (28)</span></p></td>
 
 <span id="27-2"></span>
 
-> <sup>131</sup> *Cf.* [Ps. iii.](pos06.htm#III)
+> <sup>131</sup> *Cf.* [Ps. iii.](pos06.htm#III.md)
 
 ------------------------------------------------------------------------
 
 ### <span id="XXIV">XXIV Mettikā.</span>
 
 Heaping up merit under former Buddhas, she was born during the time of
-Siddhattha, [<sup>132</sup>](pos07.htm#28-1) the Exalted One, in a
+Siddhattha, [<sup>132</sup>](pos07.htm#28-1.md) the Exalted One, in a
 burgess's family, and worshipped at his shrine by offering there a
 jewelled girdle. After many births in heaven and on earth, through the
 merit thereof, she became, in this Buddha-dispensation, the child of an
 eminent brahmin at Rājagaha. In other respects her case is like the
 preceding one, save that it was another hill corresponding to Vulture's
-Peak up which she climbed. [<sup>133</sup>](pos07.htm#28-2)
+Peak up which she climbed. [<sup>133</sup>](pos07.htm#28-2.md)
 
 She, too, reflecting on what she had won, said in exultation:
 
@@ -354,12 +354,12 @@ The Triple Lore! The Buddha's will is done!(30)</p></td>
 THE GIJJHAKŪṬI (VULTURE PEAK) RANGE ABOVE OLD RĀJAGAHA.  
 <span class="small">To face p. 28.</span>
 
-### <span id="XXV">XXV Mittā.</span>[<sup>135</sup>](pos07.htm#29-1)
+### <span id="XXV">XXV Mittā.</span>[<sup>135</sup>](pos07.htm#29-1.md)
 
 Born in the time of Vipassi Buddha of a noble family, and become a lady
 of his father's court, she won meritorious karma by bestowing food and
 precious raiment on an Arahant Elder Sister.
-[<sup>136</sup>](pos07.htm#29-2) Born finally, in this
+[<sup>136</sup>](pos07.htm#29-2.md) Born finally, in this
 Buddha-dispensation, in the princely family of the Sākiyas, at
 Kapilavatthu, she left the world together with Great Pajāpatī the
 Gotamid, and, going through the requisite training for insight, not long
@@ -392,8 +392,8 @@ Heart's pain, heart's pining, have I trained away. (32)</span></p></td>
 <span id="29-1"></span>
 
 > <sup>135</sup> Mettā in the Commentary. Mittā=amica. *Cf.* [Ps.
-> viii.](pos06.htm#VIII) Both Mittā and Mettikā ([Ps.
-> xxiv.](pos07.htm#XXIV)) may be patronymics, derived ultimately from
+> viii.](pos06.htm#VIII.md) Both Mittā and Mettikā ([Ps.
+> xxiv.](pos07.htm#XXIV).md) may be patronymics, derived ultimately from
 > Mitra (Mithra), the Vedic propitious, friendly Day or Sun god.
 
 <span id="29-2"></span>
@@ -410,11 +410,11 @@ Heart's pain, heart's pining, have I trained away. (32)</span></p></td>
 ### <span id="XXVI">XXVI Abhayā's Mother.</span>
 
 Heaping up merit under former Buddhas, she, in the time of Tissa
-Buddha,[<sup>138</sup>](pos07.htm#30-1) saw him going round for alms,
+Buddha,[<sup>138</sup>](pos07.htm#30-1.md) saw him going round for alms,
 and with glad heart took his bowl and placed in it a spoonful of food.
 Reborn for that among gods and among men, she was born also for that, in
 this Buddha-dispensation, and became the town belle of Ujjenī, by name
-Padumavatī.[<sup>139</sup>](pos07.htm#30-2) And King Bimbisāra (of
+Padumavatī.[<sup>139</sup>](pos07.htm#30-2.md) And King Bimbisāra (of
 Magadha) heard of her, and expressed to his chaplain the wish to see
 her. By the power of his spells, the chaplain summoned a Yakkha who, by
 his might, brought the King to Ujjenī. And when she afterwards sent word
@@ -423,7 +423,7 @@ to the King that she was with child by him, he sent back word, saying:
 and called him Abhaya. When he was seven years old she told him who was
 his father, and sent him to Bimbisāra. The King loved the boy, and let
 him grow up with the boys of his court. His conversion and ordination is
-told in the Psalms of the Elders.[<sup>140</sup>](pos07.htm#30-3) And,
+told in the Psalms of the Elders.[<sup>140</sup>](pos07.htm#30-3.md) And,
 later on, his mother heard her son preach the Dhamma, and she, too, left
 the world and afterwards attained Arahantship, with thorough grasp of
 the Dhamma in form and meaning. She thereupon recalled and repeated the
@@ -454,11 +454,11 @@ Cool am I now and calm–Nibbana's peace. (34)</span>
 
 ------------------------------------------------------------------------
 
-### <span id="XXVII">XXVII Abhayā.</span>[<sup>141</sup>](pos07.htm#31-1)
+### <span id="XXVII">XXVII Abhayā.</span>[<sup>141</sup>](pos07.htm#31-1.md)
 
 She, too, having made her resolve under former Buddhas, and heaping up
 merit of age-enduring efficacy in this and that state of becoming, was,
-in the time of Sikhi Buddha,[<sup>142</sup>](pos07.htm#31-2) reborn in a
+in the time of Sikhi Buddha,[<sup>142</sup>](pos07.htm#31-2.md) reborn in a
 great noble's family, and became the chief queen of his father Aruṇa.
 And one day she worshipped the Exalted One with offering of red lotuses
 given her by the King, when Sikhi Buddha, at alms-time, entered the
@@ -467,7 +467,7 @@ Buddha-dispensation, born once more at Ujjenī in a respectable family,
 and became the playmate of Abhaya's mother. And when the latter had left
 the world, Abhayā, for love of her, also took orders. Dwelling with her
 at Rājagaha, she went one day to Cool-Grove to contemplate on a basis of
-some foul thing.[<sup>143</sup>](pos07.htm#31-3) The Master, seated in
+some foul thing.[<sup>143</sup>](pos07.htm#31-3.md) The Master, seated in
 his Fragrant Chamber, caused her to see before her the kind of object
 she had been directed to choose. Seeing the vision, dread seized her.
 Then the Master, sending forth glory, appeared as if seated before her,
@@ -518,7 +518,7 @@ herein, she turned the verses round into an address to herself.
 
 > <sup>144</sup> Lit. (as in many other verses), 'done is the will, or
 > rather the system or teaching (*sāsanaŋ*) of the Buddha.' Verses
-> [36](pos07.htm#36), [38](pos07.htm#38), and [41](pos08.htm#41) (except
+> [36](pos07.htm#36), [38](pos07.htm#38), and [41](pos08.htm#41.md) (except
 > the last two lines) are in the text identical, though varied in
 > translation.
 
@@ -567,4 +567,4 @@ Craving was dead, and the Lord's will was done. (38)</span></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto III. Psalms of Three Verses](pos08)
+[Next: Canto III. Psalms of Three Verses](pos08.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil05)  [Next](egil07) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil05)  [Next](egil07.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ Sogn, but in autumn made ready to go northwards to Throndheim.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER VI. Thorolf resolves to serve the king.](egil07)
+[Next: CHAPTER VI. Thorolf resolves to serve the king.](egil07.md)

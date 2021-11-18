@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas078n)  [Next](jas080n)   
- \[[79. Juggin Straw Blue.](jas079)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas078n)  [Next](jas080n.md)   
+ \[[79. Juggin Straw Blue.](jas079.md)\]
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ perhaps 99.
 
 ------------------------------------------------------------------------
 
-[Next: Note 80. The Witch and the Grain of Peas.](jas080n)
+[Next: Note 80. The Witch and the Grain of Peas.](jas080n.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat16)  [Next](aat18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat16)  [Next](aat18.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ came to life again.
 
 ------------------------------------------------------------------------
 
-[Next: 4. The House of Silver-Fox](aat18)
+[Next: 4. The House of Silver-Fox](aat18.md)

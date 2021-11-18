@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh10)  [Next](hloh12) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh10)  [Next](hloh12.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ The eyes meet at Kou."
 
 ------------------------------------------------------------------------
 
-[Next: VIII. A Shark Punished at Waikiki](hloh12)
+[Next: VIII. A Shark Punished at Waikiki](hloh12.md)

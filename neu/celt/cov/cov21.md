@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cov20)  [Next](cov22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cov20)  [Next](cov22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q2IE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q2IE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Candle of Vision*, by AE (George William Russell), \[1918\], at
 Intangible Textual Heritage
 
@@ -179,4 +179,4 @@ of the Kingdom of Light.
 
 ------------------------------------------------------------------------
 
-[Next: Earth](cov22)
+[Next: Earth](cov22.md)

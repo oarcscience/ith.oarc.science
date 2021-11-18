@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab33.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -14,18 +14,18 @@ Intangible Textual Heritage
 
 ### NOTES
 
-Page [1](saab03.htm#page_1). <span class="smallcaps">Laila</span>, <span
+Page [1](saab03.htm#page_1.md). <span class="smallcaps">Laila</span>, <span
 class="smallcaps">Majnún</span>.—all well-known Types of Eastern Lovers.
 <span class="smallcaps">Shírín</span> and her Suitors figure in Sec. XX.
 
-Page [1](saab03.htm#page_1). To <span class="smallcaps">Cozen the
+Page [1](saab03.htm#page_1.md). To <span class="smallcaps">Cozen the
 World</span>.—the Persian Mystics also represent the Deity Dice-ing with
 Human Destiny behind the Curtain.
 
-Page [2](saab03.htm#page_2). <span class="smallcaps">Censor</span>.—"the
+Page [2](saab03.htm#page_2.md). <span class="smallcaps">Censor</span>.—"the
 Appollonius of Keat's Lamia."
 
-Page [2](saab03.htm#page_2). <span class="smallcaps">No Room for
+Page [2](saab03.htm#page_2.md). <span class="smallcaps">No Room for
 Two</span>.—This Súfí Identification with Deity (further illustrated in
 the Story of Sect. XIX.) is shadowed in a Parable of Jelaladdín, of
 which here is an outline. "One knocked at the Beloved's Door; and a
@@ -36,7 +36,7 @@ in Solitude. And after a Year he returned, and knocked again at the
 Door. And again the Voice asked, 'Who is there?' and he said, 'It is
 Thyself!' and the Door was opened to him."
 
-Page [3](saab03.htm#page_3). <span class="smallcaps">The Poet's
+Page [3](saab03.htm#page_3.md). <span class="smallcaps">The Poet's
 Name</span>.—the name "<span class="smallcaps">Jami</span>," also
 signifying "A Cup." The Poet's <span class="smallcaps">Yúsuf</span> and
 <span class="smallcaps">Zulaikha</span> opens also with this Divine
@@ -55,19 +55,19 @@ To offer—boldly offer it in Thine!
 
 </div>
 
-Page [4](saab04.htm#page_4). <span class="smallcaps">Old
+Page [4](saab04.htm#page_4.md). <span class="smallcaps">Old
 Stories</span>.—"Yúsuf and Zulaikha," "Layla and Majnún," etc.
 
-Page [4](saab04.htm#page_4). <span class="smallcaps">Glasses Turn’d to
+Page [4](saab04.htm#page_4.md). <span class="smallcaps">Glasses Turn’d to
 Four</span>.—first notice of Spectacles in Oriental Poetry, perhaps.
 
 <span id="page_62">p. 62</span>
 
-Page [4](saab04.htm#page_4). "The Master," whose Verse is quoted, is
+Page [4](saab04.htm#page_4.md). "The Master," whose Verse is quoted, is
 Jellalladdín, the Great Sufi Teacher. The "King Himself" is Yacúb Beg,
 whose Father's Vision appears in the next Section.
 
-Page [7](saab05.htm#page_7). <span
+Page [7](saab05.htm#page_7.md). <span
 class="smallcaps">Sháhzemán</span>.—"Lord of the World, <span
 class="smallcaps">Sovereign</span>; <span
 class="smallcaps">Hasan</span>, <span
@@ -78,18 +78,18 @@ a dangerous Pilgrimage. He died (as History and a previous line in the
 Original tell) before Salámán was written, and was succeeded by his Son
 <span class="smallcaps">Yácúb</span>.
 
-Page [8](saab05.htm#page_8). <span class="smallcaps">Yún</span>.—or
+Page [8](saab05.htm#page_8.md). <span class="smallcaps">Yún</span>.—or
 "<span class="smallcaps">Yavan</span>," Son of Japhet, from whom the
 Country was called "<span class="smallcaps">Yúnan</span>,"—<span
 class="smallcaps">Ionia</span>, meant by the Persians to express <span
 class="smallcaps">Greece</span> generally. Sikander is, of course,
 Alexander the Great, of whose Ethics Jámi wrote, as Nizami of his Deeds.
 
-Page [9](saab06.htm#page_9). <span class="smallcaps">Káf</span>.—the
+Page [9](saab06.htm#page_9.md). <span class="smallcaps">Káf</span>.—the
 Fabulous Mountain supposed by Asiatics to surround the World, binding
 the Horizon on all sides.
 
-Page [9](saab06.htm#page_9). <span
+Page [9](saab06.htm#page_9.md). <span
 class="smallcaps">Seráb</span>.—miráge; but, of two Foreign Words, why
 not the more original Persian? identical with the Hebrew Sháráb; as in
 <span class="smallcaps">Isaiah</span> XV. 7; "The <span
@@ -98,7 +98,7 @@ class="smallcaps">Miráge</span>) shall become a Lake;"—rather, and
 better, than our Version, "The parched Ground shall become a Pool."—See
 <span class="smallcaps">Gesenius</span>.
 
-Page [11](saab07.htm#page_11). <span class="smallcaps">The
+Page [11](saab07.htm#page_11.md). <span class="smallcaps">The
 Deluge</span>: in the Kúran God engages to save Noah and his Family
 meaning all who believed in the Warning. One of Noah's Sons (Canaan or
 Yam, some think) would not believe. "And the Ark swam with them between
@@ -121,28 +121,28 @@ God answered, 'Oh Noah, verily he Is not of thy Family; this
 intercession of thine for him is not a righteous work.'"—Sale's <span
 class="smallcaps">Kurán</span>, Vol. II. p. 21.
 
-Page [13](saab08.htm#page_13). <span class="smallcaps">A Ring to Lead
+Page [13](saab08.htm#page_13.md). <span class="smallcaps">A Ring to Lead
 by</span>.—'<span class="smallcaps">Mihar</span>,' a Piece of Wood put
 through a Camel's Nose to guide him by.
 
-Page [14](saab08.htm#page_14). <span class="smallcaps">Sulayman and
+Page [14](saab08.htm#page_14.md). <span class="smallcaps">Sulayman and
 Balkís</span>.—Solomon and the Queen of Sheba.
 
-Page [15](saab09.htm#page_15). "<span
+Page [15](saab09.htm#page_15.md). "<span
 class="smallcaps">Mussulman</span>" is very usually derived from the
 same "<span class="smallcaps">Salem</span>" element as "<span
 class="smallcaps">Salámán</span>." So "Solomon," etc.
 
-Page [16](saab09.htm#page_16). <span class="smallcaps">The Eye's
+Page [16](saab09.htm#page_16.md). <span class="smallcaps">The Eye's
 Baby</span>: literally, <span class="smallcaps">Mardumak</span>—the
 <span class="smallcaps">Mannikin</span>, Or <span
 class="smallcaps">Pupil</span>, of the Eye, corresponding to the Image
 so frequently used by our old Poets.
 
-Page [17](saab09.htm#page_17). <span class="smallcaps">Years and
+Page [17](saab09.htm#page_17.md). <span class="smallcaps">Years and
 Courage</span>: the same Persian Word serving for Both.
 
-Page [17](saab09.htm#page_17). <span class="smallcaps">The
+Page [17](saab09.htm#page_17.md). <span class="smallcaps">The
 Ball</span>.—the Game of <span class="smallcaps">Chúgán</span>, for
 Centuries the Royal Game of Persia, and adopted (Ouseley thinks) under
 varying modifications of Name and Practice by other Nations, was played
@@ -152,7 +152,7 @@ strike, strove to drive a Ball through a Goal of upright Pillars. See
 <span class="smallcaps">Frontispiece</span> and <span
 class="smallcaps">Appendix</span>.
 
-Page [18](saab10.htm#page_18). <span class="smallcaps">Fitting The
+Page [18](saab10.htm#page_18.md). <span class="smallcaps">Fitting The
 Cord</span>.—bows being so gradually stiffened, to the Age and Strength
 of the Archer, as at last to need five Hundredweight of Pressure to
 bend, says an old Translation of Chardin, who describes all the Process
@@ -179,7 +179,7 @@ d’abord il soit rude à bander, jusqu’ à ce que la Flêche soit à moitié
 dessus; et qu ’ensuite il soit mou et aisé, jusqu’ à ce que le bout de
 la Flêche soit entré dans la Corde."
 
-Page [19](saab10.htm#page_19). <span class="smallcaps">The
+Page [19](saab10.htm#page_19.md). <span class="smallcaps">The
 Pleiads</span>.—i.e. compactly strung, as opposed to Discursive
 Rhetoric, which is compared to the scattered Stars of <span
 class="smallcaps">The Bier and its Mourners</span>, or what we call
@@ -189,31 +189,31 @@ his Friends, heretofore compact as <span class="smallcaps">The
 Pleiads</span>, disperse wide asunder as <span class="smallcaps">The
 Mourners</span>."
 
-Page [19](saab10.htm#page_19). <span class="smallcaps">Hátim's
+Page [19](saab10.htm#page_19.md). <span class="smallcaps">Hátim's
 Bounty</span>.—The Persian Type of Liberality, infinitely celebrated.
 
-Page [20](saab11.htm#page_20). <span class="smallcaps">An Alien
+Page [20](saab11.htm#page_20.md). <span class="smallcaps">An Alien
 Shah</span>.—the Hero of the Story being of <span
 class="smallcaps">Yúnan</span>—<span class="smallcaps">Ionia</span>, or
 <span class="smallcaps">Greece</span> generally, (the Persian Geography
 not being very precise,)—and so not of <span class="smallcaps">The
 Faith</span>.
 
-Page [21](saab11.htm#page_21). <span class="smallcaps">Adorning the
+Page [21](saab11.htm#page_21.md). <span class="smallcaps">Adorning the
 Bows</span>: with dark Indigo Paint, as the Archery Bow with a thin
 Papyrus-like Bark.
 
-Page [21](saab11.htm#page_21). <span class="smallcaps">A Grain of
+Page [21](saab11.htm#page_21.md). <span class="smallcaps">A Grain of
 Musk</span>.—a '<span class="smallcaps">Patch</span>,' sc.—"Noir comme
 le Musc."—De Sacy.
 
-Page [23](saab13.htm#page_23). <span class="smallcaps">Fortune's
+Page [23](saab13.htm#page_23.md). <span class="smallcaps">Fortune's
 Shadow</span>.—alluding to the Phœnix, the Shadow of whose wings
 foretold a Crown upon the Head it passed over.
 
 <span id="page_65">p. 65</span>
 
-Page [27](saab16.htm#page_27) and elsewhere—<span class="smallcaps">The
+Page [27](saab16.htm#page_27.md) and elsewhere—<span class="smallcaps">The
 Throne</span> is spoken of as 'under Foot.' The Persepolitan Sculpture
 still discovers its King keeping his Chair as Europeans do with a
 separate Footstool. But in Jámi's time The Throne was probably of the
@@ -232,18 +232,18 @@ of his having fallen so ill from Debauchery, that his Astrologers said
 his first must have taken place under an Evil conjunction of Stars—so he
 must be crowned again—which he was—Chardin looking on both times.\]
 
-Page [27](saab16.htm#page_27). <span
+Page [27](saab16.htm#page_27.md). <span
 class="smallcaps">Rakhsh</span>.—"<span
 class="smallcaps">Lightning</span>.' The name of <span
 class="smallcaps">Rustam's</span> famous Horse in the <span
 class="smallcaps">Shah-Nameh</span>.
 
-Page [27](saab16.htm#page_27). "<span class="smallcaps">Kai</span>"
+Page [27](saab16.htm#page_27.md). "<span class="smallcaps">Kai</span>"
 which almost signifies "Gigantic King," properly belongs to Khusrau, 3rd
 King of the Kaianian Dynasty; but is here borrowed for Parvíz as a more
 mythical Title than Shah or King.
 
-Page [27](saab16.htm#page_27). <span class="smallcaps">Khusrau
+Page [27](saab16.htm#page_27.md). <span class="smallcaps">Khusrau
 Parvíz</span> (Chosroc The Victorious), Son of <span
 class="smallcaps">Noshíravan</span> The Great; slain, after Thirty Years
 of Prosperous Reign, by his Son <span class="smallcaps">Shirúeh</span>,
@@ -256,7 +256,7 @@ famous Passage of Creation stolen from Genesis by the Kurán.
 
 <span id="page_66">p. 66</span>
 
-Page [28](saab17.htm#page_28). <span class="smallcaps">Seven and
+Page [28](saab17.htm#page_28.md). <span class="smallcaps">Seven and
 Four</span>: Planets?—adding Sun, Moon, and the Nodal Dragon's Head and
 Tail; according to the Sanscrit Astronomy adopted by Persia.
 
@@ -303,11 +303,11 @@ incomprehensible, qui a tiré tout d’un seul Coup de Pinceau '<span
 class="smallcaps">Koun Fikoun</span>,' n’a jamais fait un si beau
 portrait que le Globe de ton Visage."
 
-Page [29](saab18.htm#page_29). <span class="smallcaps">The Ten
+Page [29](saab18.htm#page_29.md). <span class="smallcaps">The Ten
 Intelligences</span>.—this passage finds its explanation in the last
 Section.
 
-Page [32](saab21.htm#page_32). <span class="smallcaps">Gau and
+Page [32](saab21.htm#page_32.md). <span class="smallcaps">Gau and
 Mahi</span>.—The Bull and Fish—the lowest Substantial Base of Earth. "He
 first made the Mountains; then cleared the Face of Earth from Sea; then
 fixed it fast on Gau; Gau on Mahi; and Mahi on Air; and Air on what? on
@@ -315,7 +315,7 @@ fixed it fast on Gau; Gau on Mahi; and Mahi on Air; and Air on what? on
 Nothing—Enough." Attar quoted in De Sacy's <span
 class="smallcaps">Pendnamah</span>, XXXV.
 
-Page [32](saab21.htm#page_32). The Sidereal Dragon, whose Head,
+Page [32](saab21.htm#page_32.md). The Sidereal Dragon, whose Head,
 according to the Pauránic (or Poetic) Astronomers of the East, devoured
 the Sun and Moon in Eclipse. "But <span class="smallcaps">we</span>
 know," said Ramachandra to Sir W. Jones, "that the supposed Head and
@@ -323,7 +323,7 @@ Tail of the Dragon mean only the <span class="smallcaps">Nodes</span>,
 or Points formed by Intersections of the Ecliptic and the Moon's Orbit."
 Sir W. Jones’ Works, Vol. IV. P. 74.
 
-Page [33](saab21.htm#page_33). "Iram Garden." "Mahomet," says Sir W.
+Page [33](saab21.htm#page_33.md). "Iram Garden." "Mahomet," says Sir W.
 Jones, "in the Chapter of The Morning, towards the end of his Alcoran,
 mentions a Garden called 'Irem,' which is no less celebrated by the
 Asiatic Poets than that of the Hesperides by the Greeks. It was planted,
@@ -331,7 +331,7 @@ as the Commentators say, by a King named Shedád,"—deep in the Sands of
 Arabia Felix—"and was once seen by an Arabian who wandered far into the
 Desert in search of a lost Camel."
 
-Page [34](saab21.htm#page_34). <span
+Page [34](saab21.htm#page_34.md). <span
 class="smallcaps">Wámik</span>.—Another Typical <span
 class="smallcaps">Lover of Azra, a Virgin</span>.
 
@@ -354,11 +354,11 @@ whereby indeed he <span class="smallcaps">Divineth</span>?—Gen. XLIV. 5.
 Our Reflecting Telescope is going some way to realize the Alexandrian
 Fable.
 
-Page [35](saab22.htm#page_35). <span class="smallcaps">The Cup of
+Page [35](saab22.htm#page_35.md). <span class="smallcaps">The Cup of
 Happiness and Tears</span>. κρατηρα μακρον ἡδονης καὶ δακρυων κιρνωντες
 εξεπινον αχρις ες μεθην.
 
-Page [36](saab22.htm#page_36). <span class="smallcaps">Hurl’d Him,
+Page [36](saab22.htm#page_36.md). <span class="smallcaps">Hurl’d Him,
 Etc</span>.—One Story is that Khusrau had promised if Firhád cut through
 a Mountain, and brought a Stream through, Shírín should be his. Firhád
 was on the point of achieving his Work, when Khusrau sent an old Woman
@@ -367,15 +367,15 @@ dead; whereon Firhád threw himself headlong from the Rock. The Sculpture
 at Beysitún (or Besitún), where Rawlinson has decyphered Darius and
 Xerxes, was traditionally called Firhád's.
 
-Page [36](saab22.htm#page_36). <span class="smallcaps">Will
+Page [36](saab22.htm#page_36.md). <span class="smallcaps">Will
 Discharged</span>.—He Mesmerizes Him!—See also further on this Power of
 the Will in Sections XXIII. and XXVI.
 
-Page [38](saab24.htm#page_38). <span class="smallcaps">The
+Page [38](saab24.htm#page_38.md). <span class="smallcaps">The
 Minion</span>.—"Shah" and "Sháhid" (Mistress)—a sort of Punning the
 Persian Poets are fond of.
 
-Page [41](saab26.htm#page_41). <span class="smallcaps">Anguish</span>.—
+Page [41](saab26.htm#page_41.md). <span class="smallcaps">Anguish</span>.—
 
 <div style="margin-left: 32px">
 
@@ -385,25 +385,25 @@ class="smallcaps">Hafiz</span>.
 
 </div>
 
-Page [44](saab28.htm#page_44). "<span class="smallcaps">Zuhrah</span>."
+Page [44](saab28.htm#page_44.md). "<span class="smallcaps">Zuhrah</span>."
 The Planetary and Celestial Venus.
 
 <span id="page_69">p. 69</span>
 
-Page [45](saab28.htm#page_45). <span class="smallcaps">The
+Page [45](saab28.htm#page_45.md). <span class="smallcaps">The
 Spirit.—"Maany</span>." The Mystical pass-word of the Súfís, to express
 the Transcendental New Birth of The Soul.
 
-Page [46](saab29.htm#page_46). <span class="smallcaps">My
+Page [46](saab29.htm#page_46.md). <span class="smallcaps">My
 Son</span>.—one sees Jámi taking Advantage of his Allegorical Shah to
 read a Lesson to the Real—whose Ears Advice, unlike Praise, scarce ever
 reached unless obliquely. The Warning (and doubtless with good Reason)
 is principally aimed at the Minister.
 
-Page [49](saab30.htm#page_49). The Story is of 'Generals,' though
+Page [49](saab30.htm#page_49.md). The Story is of 'Generals,' though
 enacted by 'Particulars.'
 
-Page [50](saab31.htm#page_50). "These Intelligences are only another
+Page [50](saab31.htm#page_50.md). "These Intelligences are only another
 Form of the Neo-Platonic Dæmones. The Neo-Platonists held that Matter
 and Spirit could have no Intercourse—they were, as it were,
 'incommensurate.' How then, granting this premise, was Creation

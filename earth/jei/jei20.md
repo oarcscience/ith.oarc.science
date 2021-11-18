@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei19)  [Next](jei21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei19)  [Next](jei21.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ we should wish his expert observations on the geology of the interior.
 
 ### OUR START
 
-Thus equipped we should leave some [northern](errata.htm#84) port, we
+Thus equipped we should leave some [northern](errata.htm#84.md) port, we
 may suppose it to be St. Johns, Newfoundland. In a little over a week we
 have arrived at Godhaven, Greenland. Here we would pick up a number of
 Eskimo helpers, some sleds and dogs, and other necessities for the
@@ -62,7 +62,7 @@ the average temperature has not been growing any colder. Furthermore
 <span id="img_32200"></span>
 
 [![Diagram of the Earth's Interior](tn/32200.jpg)  
-Click to enlarge](img/32200.jpg)  
+Click to enlarge](img/32200.jpg.md)  
   
 
 Diagram showing the earth as a hollow sphere with its polar openings and
@@ -160,7 +160,7 @@ condition in our museums.
 ### LANDING IN THE INTERIOR
 
 But we are approaching land and all eyes are strained to see what lies
-ahead. Perhaps it will turn out to be a [low-lying](errata.htm#85)
+ahead. Perhaps it will turn out to be a [low-lying](errata.htm#85.md)
 beach, and we make for it and quickly disembark, pull up our boats, take
 out our tents and prepare to make our first camp. We will naturally want
 fresh water, and as we are now no longer in a region where it is to be
@@ -185,7 +185,7 @@ banks. They
 <span id="img_32600"></span>
 
 [![Bisected Hollow Earth](tn/32600.jpg)  
-Click to enlarge](img/32600.jpg)  
+Click to enlarge](img/32600.jpg.md)  
   
 
 Showing the earth bisected centrally through the polar openings and at
@@ -342,7 +342,7 @@ condition.
 Would we find any people in this strange land? While we cannot speak
 with certainty here it is well to remember that the Eskimo, as we have
 shown in another chapter, always point to this part of the earth as
-their [ancestral](errata.htm#86) abode. And it is also note-worthy that
+their [ancestral](errata.htm#86.md) abode. And it is also note-worthy that
 there is a great deal of uncertainty as to the origin of the Chinese,
 and that it has been thought by some that the Chinese and Eskimo had a
 common origin. It is therefore likely that we would meet tribes here
@@ -429,7 +429,7 @@ systematically. Before we have been in it long we shall see that ranging
 from the plants and amphibious animals and shell fish which we have just
 described there are to be found here representatives of every group of
 animals and vegetables which we have seen since the beginning of the
-carboniferous [epoch](errata.htm#87) as occupying successive land
+carboniferous [epoch](errata.htm#87.md) as occupying successive land
 surfaces on the outside of our globe. Always when great climatic changes
 took place which of course happened slowly, giving gradual warning--or
 when geological changes wiped out a species on the exterior--always
@@ -445,9 +445,9 @@ missing links. Certainly that animal described by the Eskimo and named
 by them the arcla, may well be a representative of one of the cretaceous
 animals with a general outline somewhat after that of the kangaroo.
 These animals were reptiles, however, feeders on vegetable matter and
-with teeth set in several rows like a [tessellated](errata.htm#88)
+with teeth set in several rows like a [tessellated](errata.htm#88.md)
 pavement. As birds are well fitted to escape from both geological
-[upheavals](errata.htm#89) and climatic changes by their power of flight
+[upheavals](errata.htm#89.md) and climatic changes by their power of flight
 we should doubtless find in this refuge some of the very earliest
 species of birds, such as those with lizard-like beaks in which many
 teeth were set, birds entirely different from any existing orders on the
@@ -460,8 +460,8 @@ of which are not known to exist on the earth today.
 ### THE IRISH ELK AND OTHER ANIMALS
 
 Among mammals, besides the mammoth already mentioned, we shall find
-Carnivores, [Insectivores](errata.htm#90), Herbivores, and Primates, and
-many [representatives](errata.htm#91) of each class. Prominent among
+Carnivores, [Insectivores](errata.htm#90.md), Herbivores, and Primates, and
+many [representatives](errata.htm#91.md) of each class. Prominent among
 them will be an animal like our tapir or ant-eater, but his form will
 
 <span id="page_337">p. 337</span>
@@ -570,4 +570,4 @@ grasped it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Formation of the Earth](jei21)
+[Next: Chapter XVIII. The Formation of the Earth](jei21.md)

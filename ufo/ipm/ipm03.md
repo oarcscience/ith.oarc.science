@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm02)  [Next](ipm04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm02)  [Next](ipm04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ The number of those invited to take part in the seance being complete,
 we seated ourselves in a circle, with our hands resting upon the
 traditional round table of spiritistic circles. Mlle. Smith—who
 possesses a triple mediumship: visual, auditive, and typtological <span
-id="fr_0"></span>[\*](#fn_0)—began, in the most natural manner, to
+id="fr_0"></span>[\*](#fn_0.md)—began, in the most natural manner, to
 describe the various apparitions which passed before her eyes in the
 partially darkened room. Suddenly she stops and listens; she hears a
 name spoken in her ear, which she repeats to us with astonishment; then
@@ -311,7 +311,7 @@ faculties, which are the appanage and the consolation of her present
 life, has been able to enter into relation with the people and affairs
 of the planet Mars, and to unveil their mysteries to us. It is in this
 astronomical somnambulism that the phenomenon of glossolalia, <span
-id="fr_1"></span>[\*](#fn_1) appears, which consists of the fabrication
+id="fr_1"></span>[\*](#fn_1.md) appears, which consists of the fabrication
 and the use of an unknown language, and which is one of the principal
 objects of this study; we shall see, however, that analogous facts are
 likewise presented in the Hindoo cycle.
@@ -404,13 +404,13 @@ the closing chapters of this book.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:\*](ipm03.htm#fr_0) *I.e.*, Spirit-rapping—the
+<span id="fn_0"></span>[2:\*](ipm03.htm#fr_0.md) *I.e.*, Spirit-rapping—the
 faculty of obtaining responses by means of raps upon a table.
 
-<span id="fn_1"></span>[11:\*](ipm03.htm#fr_1) Glossolalia signifies the
+<span id="fn_1"></span>[11:\*](ipm03.htm#fr_1.md) Glossolalia signifies the
 "gift of tongues," or the ability to speak foreign languages without
 having consciously acquired them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Childhood and Youth of Mlle. Smith](ipm04)
+[Next: Chapter II. Childhood and Youth of Mlle. Smith](ipm04.md)

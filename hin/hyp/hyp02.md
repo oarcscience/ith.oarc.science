@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](hyp01)  [Next](hyp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](hyp01)  [Next](hyp03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -210,7 +210,7 @@ Perfect consciousness is gained through practice; Yoga is attained
 through practice; success in mudrâs comes by practice. Through practice
 is gained success in Prâṇâyâma. Death can be evaded of its prey through
 practice, and man becomes the conqueror of death by practice. And then
-let us gird up our loins, and with a firm [resolution](errata.htm#0)
+let us gird up our loins, and with a firm [resolution](errata.htm#0.md)
 engage in the practice, having faith in <span id="img__00501"></span>
 ![](img/_00501.jpg), and the success must be ours. May the Almighty
 Father, be pleased to shower His blessings on those who thus engage in
@@ -223,4 +223,4 @@ AJMER:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. On Âsanas](hyp03)
+[Next: Chapter 1. On Âsanas](hyp03.md)

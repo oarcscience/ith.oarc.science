@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](fons04)  [Next](fons06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](fons04)  [Next](fons06.md) 
 
 ------------------------------------------------------------------------
 
@@ -720,4 +720,4 @@ enjoyment.
 
 ------------------------------------------------------------------------
 
-[Next: Part V](fons06)
+[Next: Part V](fons06.md)

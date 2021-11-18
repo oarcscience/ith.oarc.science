@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Previous](tte1-0) [Next](tte1-2)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Previous](tte1-0) [Next](tte1-2.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ the kayak-coverings*, with a view to provide *an entire shelter for the
 kayaker*, or seal-hunter, with the exception only of the face, to
 protect him against the water. Only a small number of Eskimo have kayaks
 fitted for more than a single man;<span
-id="page_6_fr_1"></span>[1](#page_6_note_1) and still more
+id="page_6_fr_1"></span>[1](#page_6_note_1.md) and still more
 exceptionally, in the farthest north some are found who have no kayaks
 at all, from the sea being almost constantly frozen. (3) *The adaptation
 of a bladder filled with air to the harpoons or javelins*, in order, by
@@ -34,7 +34,7 @@ to prevent the harpoon sinking, should the hunter miss his aim. (4) *The
 very ingenious way in which the point of these weapons*, and of the
 spears with which the animals are finally killed, *are fitted into the
 shaft*, so that having penetrated <span id="page_7">p. 7</span> <span
-id="p007"></span>{see [picture](p007) facing page 7} the skin of the
+id="p007"></span>{see [picture](p007.md) facing page 7} the skin of the
 animal, the point is bent out of the shaft, which is either entirely
 loosened, while only the point with the line and the bladder remains
 attached to the animal, or keeps hanging at the point. Without this
@@ -96,8 +96,8 @@ Barrow, Simpson found nearly fifty houses with two *karrigi*, for 309
 inhabitants.
 
 *The dress* for men and women is much alike, consisting <span
-id="p008"></span>{see [picture](p008) facing page 8} <span
-id="page_9">p. 9</span> <span id="p009"></span>{see [picture](p009)
+id="p008"></span>{see [picture](p008.md) facing page 8} <span
+id="page_9">p. 9</span> <span id="p009"></span>{see [picture](p009.md)
 facing page 9} of trousers, and a jacket with a hood to be drawn up to
 cover the head (at least for men), and otherwise fitting tightly round
 the body, leaving no opening excepting for the face and the hands. The
@@ -165,7 +165,7 @@ bladder attached to its shaft; the *bird-arrow* or bird-spear
 (**nugfit**); the *lance* or spear (**anguvigaĸ**), the point of which
 is without barbs; *fishing-lines*, and various smaller articles.
 
-<span id="p010"></span>{see [picture](p010) facing page 10}
+<span id="p010"></span>{see [picture](p010.md) facing page 10}
 
 <span id="page_11">p. 11</span>
 
@@ -214,7 +214,7 @@ among the principal articles of trade.
 
 ------------------------------------------------------------------------
 
-[Next](tte1-2)
+[Next](tte1-2.md)
 
 ------------------------------------------------------------------------
 
@@ -222,7 +222,7 @@ among the principal articles of trade.
 
 <span id="footnotes_page_6">p. 6</span>
 
-<span id="page_6_note_1"></span>[1](#page_6_fr_1) Such kayaks, suited
+<span id="page_6_note_1"></span>[1](#page_6_fr_1.md) Such kayaks, suited
 for two people—one sitting behind the other—are the "baidars" of the
 Eskimo of Behring Strait.
 

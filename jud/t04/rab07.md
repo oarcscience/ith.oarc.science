@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab06)  [Next](rab08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab06)  [Next](rab08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 A. The period of thirty days must be counted to the following: to
 mourning, to calender clothes, to cutting of hair, to demand debts, to a
 woman of handsome form, to betrothal, to marriage, to a virgin, to a
-widow, to a Yebamah, <span id="fr_78"></span>[A1](#fn_78) to one who
+widow, to a Yebamah, <span id="fr_78"></span>[A1](#fn_78.md) to one who
 vowed against his wife, and to an indefinite Nazarite.
 
 B. "*To mourning*." How so? It is written \[Deut. xxxiv. 8\]: "And the
@@ -27,7 +27,7 @@ children of Israel wept for Moses in the plains of Moab thirty days."
 press. So is the decree of Rabbi. The sages, however, say: Colored but
 not white. But R. Meir said the reverse: White but not newly colored;
 old, however, is permitted in any case. *Funda, fascia, pileus*, <span
-id="fr_79"></span>[B1](#fn_79) and helmets are also permitted. To give
+id="fr_79"></span>[B1](#fn_79.md) and helmets are also permitted. To give
 garments to be pressed is permitted within the thirty days.
 
 The rabbis taught: "It is not permitted to calender clothes, whether
@@ -54,7 +54,7 @@ she must let grow. Said R.
 <span id="page_28">p. 28</span>
 
 Eliezer: As in both the head and nails the Torah prescribed a
-doing, <span id="fr_80"></span>[C1](#fn_80) and as the doing what is
+doing, <span id="fr_80"></span>[C1](#fn_80.md) and as the doing what is
 said by the head means that the hair shall be cut off, the same is the
 case with the nails; but R. Aqiba said: As the doing what is said by the
 head is meant to make her ugly, the same is the case with the nails (and
@@ -63,9 +63,9 @@ in II Samuel \[xix. 25\]: "And Mephibosheth the (grand-) son of Saul
 came down to meet the king, and he had not dressed his feet, nor trimmed
 his head." A support to R. Aqiba can be found in Daniel \[iv. 30\]:
 "Till his hair was grown like eagles' (feathers), and his *nails* <span
-id="fr_81"></span>[C2](#fn_81) were like birds' claws."
+id="fr_81"></span>[C2](#fn_81.md) were like birds' claws."
 
- <span id="fr_82"></span>[C3](#fn_82)Pin'has, the brother of Mar Samuel,
+ <span id="fr_82"></span>[C3](#fn_82.md)Pin'has, the brother of Mar Samuel,
 was in mourning. When Samuel came to condole with him and noticed that.
 his nails were untrimmed, he said to him: "Why dost thou not trim them?"
 And he answered him: "If this were the case with thee, wouldst thou
@@ -84,7 +84,7 @@ said: "It was explained to me by Samuel himself that there is no
 distinction made." Said R. Hyya bar Ashi in the name of Rabh: "With a
 nail file, however, it is not allowed."
 
- <span id="fr_83"></span>[C4](#fn_83)Rabh said (and Mar Zutra learned it
+ <span id="fr_83"></span>[C4](#fn_83.md)Rabh said (and Mar Zutra learned it
 in a Boraitha): "A
 
 <span id="page_29">p. 29</span>
@@ -111,7 +111,7 @@ her parents he may marry, and have the first intercourse with her; but
 after that they must be separated for seven days. This is only in case
 one of his parents dies; but if his wife dies, he is not allowed to
 marry again until three regular festivals have passed. <span
-id="fr_84"></span>[E1](#fn_84) R. Jehudah, however, said: Two, and he
+id="fr_84"></span>[E1](#fn_84.md) R. Jehudah, however, said: Two, and he
 may marry at the third. This is the case when he has grown-up children;
 but if they are yet little ones, or he is childless, he may marry even
 within the thirty days. It happened that the wife of R. Tarphon died,
@@ -135,53 +135,53 @@ sister's children." But still he did not cohabit with her for a long
 while. For how long? Said R. Papa: "Until after the thirty days."
 
 "*To a virgin*." The period in which to complain that one has not found
-virginity <span id="fr_85"></span>[E2](#fn_85) is limited till thirty
-days after the marriage. <span id="fr_86"></span>[E3](#fn_86)
+virginity <span id="fr_85"></span>[E2](#fn_85.md) is limited till thirty
+days after the marriage. <span id="fr_86"></span>[E3](#fn_86.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_78"></span>[27:A1](rab07.htm#fr_78)
+<span id="fn_78"></span>[27:A1](rab07.htm#fr_78.md)
 
 ### CHAPTER VII.
 
 A. Yebamah is called a woman whose husband died childless, leaving
 living brothers \[Deut. xxv. 5\].
 
-<span id="fn_79"></span>[27:B1](rab07.htm#fr_79) *B*. All these garments
+<span id="fn_79"></span>[27:B1](rab07.htm#fr_79.md) *B*. All these garments
 have Roman names, and were used those days, and we do not think it
 necessary to describe how they were made. The reader, however, will find
 it in "Hamashbir" and similar works.
 
-<span id="fn_80"></span>[28:C1](rab07.htm#fr_80) *C*. In the text it is
+<span id="fn_80"></span>[28:C1](rab07.htm#fr_80.md) *C*. In the text it is
 termed "Maasse," and in Yebamoth (48*a*) "Assiyah." The meaning of both
 is doing, and Rashi there explains that, although the two
 above-mentioned terms are not to be found in reference to the head, R.
 Aqiba and R. Eliezer maintain that the cutting off of the hair is also
 called a doing; hence the analogy.
 
-<span id="fn_81"></span>[28:C2](rab07.htm#fr_81) The verse begins with,
+<span id="fn_81"></span>[28:C2](rab07.htm#fr_81.md) The verse begins with,
 "and from men was he driven away," and concludes that his nails were
 like birds' claws; hence it is not an ornament.
 
-<span id="fn_82"></span>[28:C3](rab07.htm#fr_82) *Gemara* from Moed
+<span id="fn_82"></span>[28:C3](rab07.htm#fr_82.md) *Gemara* from Moed
 Katan.
 
-<span id="fn_83"></span>[28:C4](rab07.htm#fr_83) *Gemara* from Moed
+<span id="fn_83"></span>[28:C4](rab07.htm#fr_83.md) *Gemara* from Moed
 Katan.
 
-<span id="fn_84"></span>[29:E1](rab07.htm#fr_84) *E*. If she dies before
+<span id="fn_84"></span>[29:E1](rab07.htm#fr_84.md) *E*. If she dies before
 Passover, he may marry after Tabernacles; if after Passover, he must
 wait till the three festivals Pentecost, Tabernacles, and Passover have
 passed; and so on with the other festivals.
 
-<span id="fn_85"></span>[30:E2](rab07.htm#fr_85) Deut. xxii. 14.
+<span id="fn_85"></span>[30:E2](rab07.htm#fr_85.md) Deut. xxii. 14.
 
-<span id="fn_86"></span>[30:E3](rab07.htm#fr_86) Concerning a widow and
+<span id="fn_86"></span>[30:E3](rab07.htm#fr_86.md) Concerning a widow and
 the other subjects mentioned above, they are explained in their
 respective tracts; therefore we have omitted them here.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII.](rab08)
+[Next: Chapter VIII.](rab08.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob32) 
-[Next](tob34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob32.md) 
+[Next](tob34.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,12 +9,12 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob32) 
 
 <span id="img_wiar17"></span>
 
-![THE STARS.](img/wiar17.jpg)  
+![THE STARS.](img/wiar17.jpg.md)  
 THE STARS.
 
    <span id="img_msar17"></span>
 
-![THE STARS](img/msar17.jpg)  
+![THE STARS](img/msar17.jpg.md)  
 THE STARS
 
 17\. פ
@@ -127,4 +127,4 @@ The Star.
 
 ------------------------------------------------------------------------
 
-[Next: 18. The Moon](tob34)
+[Next: 18. The Moon](tob34.md)

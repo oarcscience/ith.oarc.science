@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb26)  [Next](ptb28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb26)  [Next](ptb28.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ the houses of the Moon and the Sun, which take no terms; and the
 malefics being found to have greater potency in those signs therefore
 take precedence in them. Mars, consequently, receives the first degrees
 in Cancer, and Saturn in Leo, by which arrangement a proper order is
-preserved. <span id="fr_69"></span>[1](#fn_69)
+preserved. <span id="fr_69"></span>[1](#fn_69.md)
 
 The respective quantities of degrees for the several terms is thus
 determined: viz. when there is no planet found to be lord by two rights
@@ -356,7 +356,7 @@ Sat.</p></td>
 
 ### Footnotes
 
-<span id="fn_69"></span>[35:1](ptb27.htm#fr_69) The cause of this
+<span id="fn_69"></span>[35:1](ptb27.htm#fr_69.md) The cause of this
 disposition is that Cancer, the house of the Moon, partakes of moisture,
 and counteracts Mars's dryness; while Leo, the Sun's house, is hot, and
 counteracts Saturn's cold.--Vide Chap. iv, and conclusion of Chap. vii
@@ -369,4 +369,4 @@ luminaries.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. The Places And Degrees Of Every Planet](ptb28)
+[Next: Chapter XXV. The Places And Degrees Of Every Planet](ptb28.md)

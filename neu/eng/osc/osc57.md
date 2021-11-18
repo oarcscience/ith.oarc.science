@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc56)  [Next](osc58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc56)  [Next](osc58.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ weird screech itself.
 
 ------------------------------------------------------------------------
 
-[Next: (17) The Howling of Dogs](osc58)
+[Next: (17) The Howling of Dogs](osc58.md)

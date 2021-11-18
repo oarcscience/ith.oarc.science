@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe22)  [Next](poe24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe22)  [Next](poe24.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ Concerning Tragedy and imitation by means of action this may suffice.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII. Epic Poetry](poe24)
+[Next: XXIII. Epic Poetry](poe24.md)

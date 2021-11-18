@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](gem09)  [Next](gem11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](gem09)  [Next](gem11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Histories of the Kings of Britain, by Geoffry of Monmouth*, tr. by
 Sebastian Evans, \[1904\], at Intangible Textual Heritage
 
@@ -158,7 +158,7 @@ devastated the land as far as the Severn sea, slaying the husbandmen
 <span class="margnote">The siege of Bath</span>with deadly wounds.
 Marching forth from thence they made for the country about Bath and
 besieged that city. When word of this was brought unto the King,
-[astonished](errata.htm#2) beyond measure at their wicked daring, he
+[astonished](errata.htm#2.md) beyond measure at their wicked daring, he
 bade judgment be done upon their hostages and hanged them out of hand,
 and, abandoning the expedition whereby he intended to repress the Picts
 and Scots, hurried away to disperse the leaguer. Howbeit, that which did
@@ -937,4 +937,4 @@ depart, nor are they slow to perform what they had been bidden to do.
 
 ------------------------------------------------------------------------
 
-[Next: Book X](gem11)
+[Next: Book X](gem11.md)

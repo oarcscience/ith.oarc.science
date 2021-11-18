@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws02)  [Next](cws04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws02)  [Next](cws04.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ emphatically renewed on finding her departure imminent. The present
 volume, however, does not exhaust the store of similar treasures left by
 her, but only such portion as comports with the form of publication here
 adopted. There still remain sundry lectures <span
-id="fr_31"></span>[1](#fn_31) and occasional papers, and the majority of
+id="fr_31"></span>[1](#fn_31.md) and occasional papers, and the majority of
 her conversations with her Genius; for, as is shown in this book, she
 was privileged in this respect far
 
@@ -57,7 +57,7 @@ the context.
 Although the questions of the derivation and significance of the matter
 herein contained have been treated with considerable fulness in *The
 Perfect Way*,--particularly in the preface to the revised and enlarged
-edition, <span id="fr_32"></span>[1](#fn_32)--some account is not the
+edition, <span id="fr_32"></span>[1](#fn_32.md)--some account is not the
 less called for here; and this, not only for the sake of those readers
 who may not have prior acquaintance with that book; but also because the
 removal of the personality concerned has made it possible to speak with
@@ -139,7 +139,7 @@ altogether superior--because interior--to those accessible to the mere
 lucid, sensitive, or clairvoyant; in that it is the inmost and highest
 sphere of man's manifold nature, the celestial, or "kingdom within."
 Attaining to this degree of inwardness, the soul is "clothed with the
-sun" <span id="fr_33"></span>[1](#fn_33) of full intelligence,
+sun" <span id="fr_33"></span>[1](#fn_33.md) of full intelligence,
 recovering all memories and discerning all principles and
 significations, in measure according to its capacity as developed by the
 experiences gained in its many earth-lives and in the intervals between,
@@ -189,7 +189,7 @@ depositary";--so far from the statement--extraordinary and remote from
 anticipation as it was--being found difficult of credence, it was at
 once recognised as affording the only solution which reconciled all the
 difficulties and accounted for all the facts. <span
-id="fr_34"></span>[1](#fn_34)
+id="fr_34"></span>[1](#fn_34.md)
 
 And so far, it may be well to add, from these experiences occurring in
 the first instance to persons predisposed to accept them, we were--both
@@ -206,7 +206,7 @@ were possible only because
 
 the veil of matter interposed between the worlds of sense and of reality
 had already, by dint of persistent earnest seeking inwards, and by the
-adoption of the mode of life <span id="fr_35"></span>[1](#fn_35) which
+adoption of the mode of life <span id="fr_35"></span>[1](#fn_35.md) which
 has always, by proficients in spiritual science, been insisted on as
 essential to the higher perceptions, become for us so rare and tenuous
 as to be readily penetrable. The period, moreover, was anterior to that
@@ -395,7 +395,7 @@ them recently--a dignitary of the Anglican Church--speaking, apparently,
 not alone for his order, but for mankind at large: "We weary ourselves
 vainly in endeavouring to shape these truths into a system. We have no
 faculties for such speculation. It is enough for us to rest in the
-language of the Apostles." <span id="fr_36"></span>[1](#fn_36) Such is
+language of the Apostles." <span id="fr_36"></span>[1](#fn_36.md) Such is
 the frank admission of the official guardians of the faith according to
 Ecclesiasticism, and the admission is one in respect of which it is hard
 to determine whether its candour or its courage is the most conspicuous.
@@ -438,14 +438,14 @@ them, and is already coming to its proper, because better, self, and
 turning wistful thoughts homewards. And hence it is that for those who,
 in virtue of their "ploughing with the heifer" of the spiritual
 consciousness, are able to "expound the riddle" <span
-id="fr_37"></span>[1](#fn_37) of the age, the epoch is no other than
+id="fr_37"></span>[1](#fn_37.md) of the age, the epoch is no other than
 "Othniel"--God's good time; the world is "Caleb"--one whose heart is
 right; "Kirjath-sepher"--the city of the letter--has already
 surrendered; and "Achsah"--the rending of the veil (that hid the
 Spirit)--is about to become the bride of the victor, bringing to him as
 her dowry the "upper and nether springs" of those blessed results in
 soul and mind and heart and life which ever flow from the full
-understanding of Divine things. <span id="fr_38"></span>[2](#fn_38) From
+understanding of Divine things. <span id="fr_38"></span>[2](#fn_38.md) From
 which it may be surely inferred that unless Ecclesiasticism also accept
 the new interpretation, which also is the old, and like a living garment
 participate in the growth of its wearer, it will find itself discarded
@@ -516,7 +516,7 @@ The restoration of the doctrine of a multiplicity of earth-lives
 <span id="page_xxx">p. xxx</span>
 
 involves as its corollary that of the doctrine of acquired destiny,
-called by the Hindûs "Karma." <span id="fr_39"></span>[1](#fn_39)
+called by the Hindûs "Karma." <span id="fr_39"></span>[1](#fn_39.md)
 
 5\. The interpretation of Christianity and of religion generally, in
 such manner as to exhibit the identity of the needs and perceptions of
@@ -546,7 +546,7 @@ spirituality (which is Christian).
 Going so far as do the illuminations in this book to realise the most
 sanguine anticipations of that "new birth of Esoteric Christianity, or
 new and higher religion in which philosophy, religion, and poetry shall
-be fused into a unity," <span id="fr_40"></span>[2](#fn_40) to the full
+be fused into a unity," <span id="fr_40"></span>[2](#fn_40.md) to the full
 satisfaction of man's highest needs and aspirations, their lamented
 recipient, Anna Kingsford, must, sooner or later, be recognised by all
 competent judges, as having made at once to science, philosophy,
@@ -613,7 +613,7 @@ Is it, perhaps, all premature?
 
 Have we thought the time nearer than it really is? Must I go, and sleep,
 and come again before the hour sounds?" <span
-id="fr_41"></span>[1](#fn_41)
+id="fr_41"></span>[1](#fn_41.md)
 
 It remains only to add, in regard to Part III and the Appendix, that the
 references to my own experiences are admitted with great reluctance, and
@@ -633,7 +633,7 @@ LONDON, *Whitsuntide*, 1869.
 
 ### Footnotes
 
-<span id="fn_31"></span>[xviii:1](cws03.htm#fr_31) Since the publication
+<span id="fn_31"></span>[xviii:1](cws03.htm#fr_31.md) Since the publication
 of the First Edition of this book there have been published *Addresses
 and Essays on Vegetarianism*, by Anna Kingsford and Edward Maitland (now
 out of print, but a new edition of which, with additions, is in course
@@ -642,16 +642,16 @@ Articles on Esoteric Christianity, by Anna Kingsford, and containing
 some Letters, on various subjects, by her and Edward Maitland.    S. H.
 H.
 
-<span id="fn_32"></span>[xix:1](cws03.htm#fr_32) The reference here is
+<span id="fn_32"></span>[xix:1](cws03.htm#fr_32.md) The reference here is
 to the preface to the Second Edition, which was published in 1887.    S.
 H. H.
 
-<span id="fn_33"></span>[xxi:1](cws03.htm#fr_33) The "woman" of the
+<span id="fn_33"></span>[xxi:1](cws03.htm#fr_33.md) The "woman" of the
 Apocalypse and all other mystical Scriptures is never a person, but
 always the soul. Hence the significance of the present title. Any such
 exaltation of a person would be an act of idolatry.    E. M.
 
-<span id="fn_34"></span>[xxii:1](cws03.htm#fr_34) In a letter dated
+<span id="fn_34"></span>[xxii:1](cws03.htm#fr_34.md) In a letter dated
 March 11, 1884, written to the late Lady Caithness, Anna Kingsford,
 referring to what a friend had described as her "gifts," said: "I have
 no occult powers whatever, and have never laid claim to them. Neither am
@@ -672,22 +672,22 @@ know, the immediate source and pattern of the mysteries of the Catholic
 Christian Church" (*Life of Anna Kingsford*, vol. ii, p. 167).    S. H.
 H.
 
-<span id="fn_35"></span>[xxiii:1](cws03.htm#fr_35) They were both
+<span id="fn_35"></span>[xxiii:1](cws03.htm#fr_35.md) They were both
 abstainers from flesh-foods and from alcoholic drink.    S. H. H.
 
-<span id="fn_36"></span>[xxvii:1](cws03.htm#fr_36) Canon Westcott on the
+<span id="fn_36"></span>[xxvii:1](cws03.htm#fr_36.md) Canon Westcott on the
 Atonement (Historic Faith, p. 133).
 
-<span id="fn_37"></span>[xxviii:1](cws03.htm#fr_37) Judges xiv, 12-18.
+<span id="fn_37"></span>[xxviii:1](cws03.htm#fr_37.md) Judges xiv, 12-18.
 
-<span id="fn_38"></span>[xxviii:2](cws03.htm#fr_38) Joshua xv, 13-19.
+<span id="fn_38"></span>[xxviii:2](cws03.htm#fr_38.md) Joshua xv, 13-19.
 
-<span id="fn_39"></span>[xxx:1](cws03.htm#fr_39) See Appendix,
+<span id="fn_39"></span>[xxx:1](cws03.htm#fr_39.md) See Appendix,
 "Definitions and Explanations."
 
-<span id="fn_40"></span>[xxx:2](cws03.htm#fr_40) Schelling.
+<span id="fn_40"></span>[xxx:2](cws03.htm#fr_40.md) Schelling.
 
-<span id="fn_41"></span>[xxxii:1](cws03.htm#fr_41) I cite this last
+<span id="fn_41"></span>[xxxii:1](cws03.htm#fr_41.md) I cite this last
 paragraph as showing how small in her own view appeared the work which
 she accomplished as compared to that which remained, and which she felt
 she had it in her to accomplish were only time and strength allowed: and
@@ -697,4 +697,4 @@ earth-lives.    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: Part The First: Illuminations](cws04)
+[Next: Part The First: Illuminations](cws04.md)

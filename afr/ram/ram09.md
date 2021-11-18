@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram08)  [Next](ram10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram08)  [Next](ram10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -88,7 +88,7 @@ could possible be avoided. These spirits would only be harboured by
 persons of the most malignant disposition, or who for some reason had a
 grudge against their kind. So the spirits sought out those who, through
 neglect or ill-treatment, had been soured and rendered bitter in heart
-against their fellows. <span id="fr_115"></span>[\*](#fn_115) Thus it
+against their fellows. <span id="fr_115"></span>[\*](#fn_115.md) Thus it
 happened that deformed persons, and those who through any infirmity were
 unable to take their place and act their part in life like their
 fellows, were believed to be possessed of the devil, or, in other words,
@@ -106,7 +106,7 @@ themselves devils incarnate as the king or high priest was incarnate
 god. Such being the case, the only hope of safety, the sole means of
 security, lay in the rigid enforcement of that curious Mosaic enactment:
 "Thou shall not suffer a witch to live." <span
-id="fr_116"></span>[\*](#fn_116)
+id="fr_116"></span>[\*](#fn_116.md)
 
 Let us now consider how man, as he groped his way towards a higher
 conception of truth and the facts with which he found himself surrounded
@@ -255,7 +255,7 @@ during which the villagers gather round her, awe-stricken, waiting for
 the oracle of the god, for she is now god-possessed. After such
 possession and revelations she may impose impossible tasks on men, and
 these they will attempt without question as their destiny. <span
-id="fr_117"></span>[\*](#fn_117) She may demand human sacrifices, and no
+id="fr_117"></span>[\*](#fn_117.md) She may demand human sacrifices, and no
 one dare deny her victims. Suppose she declares a victim must be offered
 to a mountain deity—for there are gods of the valleys and gods of the
 hills, deities of the river and of the forest—the victim is conducted to
@@ -279,7 +279,7 @@ After which, assuming a calm judicial manner, she goes from one to
 another touching each person's hand. As she touches the hand of the
 bewitcher, she starts back with a loud shriek and yells, "This is him,
 the murderer. Blood is in his hand." <span
-id="fr_118"></span>[\*](#fn_118) Having discovered the culprit, she next
+id="fr_118"></span>[\*](#fn_118.md) Having discovered the culprit, she next
 proceeds to prove his guilt. This she does by "finding the horns" he
 used in the prosecution of the unlawful art. These are generally the
 horns of a small species of antelope which are par excellence "witches’
@@ -289,7 +289,7 @@ lifts water from the stream, which she pours upon the ground, and then
 stoops to listen. Spirit voices direct her to the wizard's hiding-place.
 Arrived there, she begins to dig with a hoe she carries, muttering
 incantations as she works, and there she finds the incriminating
-horns. <span id="fr_119"></span>[†](#fn_119)
+horns. <span id="fr_119"></span>[†](#fn_119.md)
 
 <span id="page_123">p. 123</span>
 
@@ -307,14 +307,14 @@ such consequences keeps all persons within doors, and leaves the
 prophetess free to arrange for the tableau of the next day. So far is
 the fear of witchcraft carried, that whole villages have been known to
 partake of the ordeal poison in order to root out evil persons. <span
-id="fr_120"></span>[\*](#fn_120) If a man is guilty, he dies; if not
+id="fr_120"></span>[\*](#fn_120.md) If a man is guilty, he dies; if not
 guilty, even if caught in the act red-handed, he recovers—he was in that
 case not a thief, he was bewitched to make him steal. Such is the Wayao
 philosophy of trial by ordeal.
 
 Among the Bongo on the White Nile no communication can be had with the
 spirit world except by means of certain roots which are known to the
-magicians. <span id="fr_121"></span>[†](#fn_121) These are of service,
+magicians. <span id="fr_121"></span>[†](#fn_121.md) These are of service,
 not only in holding communication with the gods, but in warding off all
 evil influences. Had the secret been kept, the
 
@@ -325,7 +325,7 @@ been the happiest people under the sun, but in an evil hour some noted
 wizard discovered it and made the world unhappy. With this knowledge in
 their possession, old people may apparently be lying peaceably in their
 beds while their spirits range the forest by moonlight in search of the
-magic roots. <span id="fr_122"></span>[\*](#fn_122) These spirits assume
+magic roots. <span id="fr_122"></span>[\*](#fn_122.md) These spirits assume
 animal form, which remind us of the familiar stories of farmers wounding
 hares, and hearing of old women in the next village having broken arm or
 leg mysteriously, which they set and dressed without aid of doctor;
@@ -352,14 +352,14 @@ Dr. Schweinfurth, who is one of our best authorities on the usages of
 tribes living on the upper reaches of the Nile, says that some of them
 have hardly any religion. The Niam-niam, he says, have no religion, and
 use for divinity the word for lightning. <span
-id="fr_123"></span>[\*](#fn_123) It is curious so observant a traveller
+id="fr_123"></span>[\*](#fn_123.md) It is curious so observant a traveller
 should have been so far misled as to what constitutes religious
 observances. We are familiar in Zululand, Nyassa region, and in Uganda
 with the use of the term for lightning—in each case a different word—for
 heaven, thunder, or the god, and these peoples are among the most
 religious communities in Africa. When a man cannot knock his foot
 against a tree stump without attaching to it a supernatural
-significance <span id="fr_124"></span>[†](#fn_124) that man is religious
+significance <span id="fr_124"></span>[†](#fn_124.md) that man is religious
 whether he has a separate word for his god or not. The statement seems
 all the more inexplicable when we find the doctor himself saying that
 the same Niam-niam, who have no religion, "have a word for prayer"; that
@@ -383,7 +383,7 @@ attention of travellers but slightly, their deficiency is more than made
 up by the Bullom tribes of the West Coast. When they drink beer they
 pour out a few drops as a religious act; when they eat, particles of
 food are allowed to fall on the ground for the same purpose. <span
-id="fr_125"></span>[\*](#fn_125) They can neither walk nor sit, sow nor
+id="fr_125"></span>[\*](#fn_125.md) They can neither walk nor sit, sow nor
 reap, hunt nor fish, without performing acts of devotion and dutiful
 obedience to the gods. They move among divinities, and these may be
 disturbed by loud laughter, by improper movements, or by words which can
@@ -392,7 +392,7 @@ religious duties, but it is in the "witch palaver" their true devotion
 and fidelity to the will of the gods is seen to best advantage.
 
 Their three great palavers are, "sauce palaver," "woman palaver," and
-"witch palaver." <span id="fr_126"></span>[†](#fn_126) In the first,
+"witch palaver." <span id="fr_126"></span>[†](#fn_126.md) In the first,
 which refers to all ordinary offences, the case is conducted according
 to the ordinary rules of evidence, either by witnesses or the ordeal.
 The accused is held as guilty, and he must prove his innocence. If he
@@ -415,21 +415,21 @@ with. So it is, when a suspect is on trial for specific acts of
 witchcraft, a red hot-iron is applied to his skin, partly to jog his
 memory, but principally that the brand may be examined to determine how
 much skin adheres to the hot metal, whether the wound bleeds, and how
-its edges "curl." <span id="fr_127"></span>[\*](#fn_127) To each of
+its edges "curl." <span id="fr_127"></span>[\*](#fn_127.md) To each of
 these signs great importance is attached in determining presumption of
 guilt. This ordeal may be final and satisfactory, but the probabilities
 are against it. The show is too good to be over so soon, and the red-hot
 poker is succeeded by a jar of oil, which is placed on the fire till it
 boils. Into this boiling oil a stone, made red hot in the fire, is now
 dropped and the culprit directed to fish it out with his naked
-hand. <span id="fr_128"></span>[†](#fn_128) According to the condition
+hand. <span id="fr_128"></span>[†](#fn_128.md) According to the condition
 of the hand after the ordeal is the presumption of guilt or innocence.
 If
 
 <span id="page_128">p. 128</span>
 
 these means do not conclusively prove the case, he must drink "red
-water." <span id="fr_129"></span>[\*](#fn_129) This is a decoction which
+water." <span id="fr_129"></span>[\*](#fn_129.md) This is a decoction which
 is prepared by the priest in public from poisonous substances. After the
 preparation is made the priest washes his hands, as well as the mortar
 and pestle used, as a ceremonial act. The accused for a similar reason
@@ -467,7 +467,7 @@ defiled, and have done trespass against her husband, that the water that
 causeth the curse shall enter into her and become bitter, and her belly
 shall swell, and her thigh shall rot, and the woman shall be a curse
 among her people. And if the woman be not defiled but be clean, then she
-shall be free." <span id="fr_130"></span>[\*](#fn_130) The connection
+shall be free." <span id="fr_130"></span>[\*](#fn_130.md) The connection
 between this enactment in the Mosaic legislation and the practice among
 primitive men, it is not my province to trace in the present essay, but
 the resemblance is so striking that the inference seems plain enough.
@@ -484,7 +484,7 @@ witches, influenced the
 
 whole domestic and social life of the people. In Jutland a rowan growing
 out of the top of another tree is exceedingly efficacious against
-witchcraft. <span id="fr_131"></span>[\*](#fn_131) This tree has the
+witchcraft. <span id="fr_131"></span>[\*](#fn_131.md) This tree has the
 same virtue in Scotland, and I knew a worthy farmer's wife, who died
 only a few years ago, and who annually, in early summer, had a St.
 Andrew's cross made of rowan twigs, which she placed in the cowhouse as
@@ -493,7 +493,7 @@ for a similar purpose. In the island of Rum it was believed that if one
 of the family of Lachlin—a local family of note—shot a deer on the
 mountain of Finchra, he would either die on the spot or contract a
 distemper from which he could not recover. <span
-id="fr_132"></span>[†](#fn_132) This may belong to the class of totems
+id="fr_132"></span>[†](#fn_132.md) This may belong to the class of totems
 rather than to witchcraft. Traces of clan totems are frequently met with
 in the north and west of Scotland.
 
@@ -517,7 +517,7 @@ King and Queen of Fairyland. "I was," said Isabella when in the dock,
 that I could eat. The queen is brawly clothed in white linen and in
 white and brown cloth; and the king is a braw man, well-favoured and
 broad-faced. There were plenty of elf bulls, rowting and skoyling up and
-down, and affrighted me." <span id="fr_133"></span>[\*](#fn_133) Mr.
+down, and affrighted me." <span id="fr_133"></span>[\*](#fn_133.md) Mr.
 Kirk, from whom I quote, adds, that on the authority of local tradition,
 fairyland is well supplied with musical instruments and books of
 history, travel, plays, novels, biography, but no Bibles—the lack of the
@@ -529,7 +529,7 @@ primitive man had crystallised into a personal devil, supreme and
 all-powerful, with numerous attendant angels or messengers, and it is
 curious to note that something very nearly akin to this is met with in
 Ashantee, where the king has a thousand "Kra," or souls. <span
-id="fr_134"></span>[†](#fn_134) The Kra are the king's spies, a kind of
+id="fr_134"></span>[†](#fn_134.md) The Kra are the king's spies, a kind of
 secret service guild, and are called the king's souls, because when he
 dies they are all put to death that they may attend upon him in the land
 of shades. To strike, or even touch a Kra, is not only a deadly insult,
@@ -577,7 +577,7 @@ sacrifice the gods of the country who were worshipped by the people they
 expelled. The older inhabitants were compelled to retire before the
 advance of the Wayao, but their great god Kangomba remained undisturbed
 on Mount Socki, nor would he be displaced by the newer divinities or the
-arts of magic. <span id="fr_135"></span>[\*](#fn_135) So it is that the
+arts of magic. <span id="fr_135"></span>[\*](#fn_135.md) So it is that the
 present chief, Kapeni, when making annual supplication and sacrifice,
 asks some noted Wanyasa priest to come to his assistance. The Wanyasa
 are related to the people whose god Kangomba originally was, and their
@@ -643,51 +643,51 @@ and the importance attached to the office.
 
 ### Footnotes
 
-<span id="fn_115"></span>[115:\*](ram09.htm#fr_115) J. Sutton, MS.
+<span id="fn_115"></span>[115:\*](ram09.htm#fr_115.md) J. Sutton, MS.
 notes.
 
-<span id="fn_116"></span>[116:\*](ram09.htm#fr_116) Exod. xxii. 18.
+<span id="fn_116"></span>[116:\*](ram09.htm#fr_116.md) Exod. xxii. 18.
 
-<span id="fn_117"></span>[121:\*](ram09.htm#fr_117) Rev. Duff Macdonald.
+<span id="fn_117"></span>[121:\*](ram09.htm#fr_117.md) Rev. Duff Macdonald.
 
-<span id="fn_118"></span>[122:\*](ram09.htm#fr_118) Rev. Duff Macdonald.
+<span id="fn_118"></span>[122:\*](ram09.htm#fr_118.md) Rev. Duff Macdonald.
 
-<span id="fn_119"></span>[122:†](ram09.htm#fr_119) *Ibid*.
+<span id="fn_119"></span>[122:†](ram09.htm#fr_119.md) *Ibid*.
 
-<span id="fn_120"></span>[123:\*](ram09.htm#fr_120) Rev. Duff Macdonald.
+<span id="fn_120"></span>[123:\*](ram09.htm#fr_120.md) Rev. Duff Macdonald.
 
-<span id="fn_121"></span>[123:†](ram09.htm#fr_121) Schweinfurth.
+<span id="fn_121"></span>[123:†](ram09.htm#fr_121.md) Schweinfurth.
 
-<span id="fn_122"></span>[124:\*](ram09.htm#fr_122) Schweinfurth.
+<span id="fn_122"></span>[124:\*](ram09.htm#fr_122.md) Schweinfurth.
 
-<span id="fn_123"></span>[125:\*](ram09.htm#fr_123) Schweinfurth.
+<span id="fn_123"></span>[125:\*](ram09.htm#fr_123.md) Schweinfurth.
 
-<span id="fn_124"></span>[125:†](ram09.htm#fr_124) Rev. Duff Macdonald;
+<span id="fn_124"></span>[125:†](ram09.htm#fr_124.md) Rev. Duff Macdonald;
 Dr. Elmslie, MS. notes.
 
-<span id="fn_125"></span>[126:\*](ram09.htm#fr_125) Walker.
+<span id="fn_125"></span>[126:\*](ram09.htm#fr_125.md) Walker.
 
-<span id="fn_126"></span>[126:†](ram09.htm#fr_126) Winterbotham.
+<span id="fn_126"></span>[126:†](ram09.htm#fr_126.md) Winterbotham.
 
-<span id="fn_127"></span>[127:\*](ram09.htm#fr_127) Winterbotham.
+<span id="fn_127"></span>[127:\*](ram09.htm#fr_127.md) Winterbotham.
 
-<span id="fn_128"></span>[127:†](ram09.htm#fr_128) *Ibid*.; Rev. Duff
+<span id="fn_128"></span>[127:†](ram09.htm#fr_128.md) *Ibid*.; Rev. Duff
 Macdonald.
 
-<span id="fn_129"></span>[128:\*](ram09.htm#fr_129) Winterbotham.
+<span id="fn_129"></span>[128:\*](ram09.htm#fr_129.md) Winterbotham.
 
-<span id="fn_130"></span>[129:\*](ram09.htm#fr_130) Numbers. v. 12-28.
+<span id="fn_130"></span>[129:\*](ram09.htm#fr_130.md) Numbers. v. 12-28.
 
-<span id="fn_131"></span>[130:\*](ram09.htm#fr_131) Kamp.
+<span id="fn_131"></span>[130:\*](ram09.htm#fr_131.md) Kamp.
 
-<span id="fn_132"></span>[130:†](ram09.htm#fr_132) Martin.
+<span id="fn_132"></span>[130:†](ram09.htm#fr_132.md) Martin.
 
-<span id="fn_133"></span>[131:\*](ram09.htm#fr_133) Kirk.
+<span id="fn_133"></span>[131:\*](ram09.htm#fr_133.md) Kirk.
 
-<span id="fn_134"></span>[131:†](ram09.htm#fr_134) Kühne and Rameyer.
+<span id="fn_134"></span>[131:†](ram09.htm#fr_134.md) Kühne and Rameyer.
 
-<span id="fn_135"></span>[133:\*](ram09.htm#fr_135) Rev. Duff Macdonald.
+<span id="fn_135"></span>[133:\*](ram09.htm#fr_135.md) Rev. Duff Macdonald.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Harvest Festivals](ram10)
+[Next: Chapter VIII. Harvest Festivals](ram10.md)

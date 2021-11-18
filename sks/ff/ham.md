@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../ham/ham) 
-[Previous](mac)  [Next](lear) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../ham/ham.md) 
+[Previous](mac)  [Next](lear.md) 
 
 ------------------------------------------------------------------------
 
@@ -4930,4 +4930,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Tragedie of King Lear](lear) 
+[Next: The Tragedie of King Lear](lear.md) 

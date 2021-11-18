@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa12)  [Next](tsa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa12)  [Next](tsa14.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ so make expiation; but in capital cases the blood of the accused and of
 his posterity may cling to him (the witness) to the end of the world.
 For so we find it in the case of Cain, who slew his brother, as it is
 written: THE VOICE OF THE BLOODS OF THY BROTHER CRIES TO ME FROM THE
-GROUND <span id="fr_254"></span>[1](#fn_251);--not the blood of thy
+GROUND <span id="fr_254"></span>[1](#fn_251.md);--not the blood of thy
 brother, but the bloods of thy brother--his blood and that of his
 posterity."
 
@@ -70,7 +70,7 @@ man with the seal of the first Adam, and not one of
 <span id="page_80">p. 80</span>
 
 <span class="margnote">**M**.</span>them is like his fellow. <span
-id="fr_255"></span>[1](#fn_252) So every single person is forced to say,
+id="fr_255"></span>[1](#fn_252.md) So every single person is forced to say,
 The world was created for my sake.
 
 **T**. VIII. 4. Man was created one and alone in the world. And why was
@@ -93,12 +93,12 @@ the greatness of the King of kings of kings, blessed be He! who with one
 seal fashioned every one in the whole world, yet from the one seal go
 forth many impressions, as it is written: IT IS CHANGED AS CLAY UNDER
 THE SEAL, AND ALL THINGS STAND FORTH AS IN A GARMENT. <span
-id="fr_256"></span>[2](#fn_253)
+id="fr_256"></span>[2](#fn_253.md)
 
 6\. Why are faces unlike each other? Because of impostors--that none
 should break into his neighbour's field, or go in unto his neighbour's
 wife: AND FROM THE WICKED THEIR LIGHT IS WITHHOLDEN, AND THE HIGH ARM IS
-BROKEN. <span id="fr_257"></span>[3](#fn_254) R. Meir says: The Almighty
+BROKEN. <span id="fr_257"></span>[3](#fn_254.md) R. Meir says: The Almighty
 varied the fashion of the face, knowledge and voice; the fashion of the
 face and
 
@@ -110,7 +110,7 @@ knowledge because of thieves and robbers, and the voice because of
 lewdness.
 
 7\. Man was created last (in the order of creation). And why was he
-created last? Lest the heretics <span id="fr_258"></span>[1](#fn_255)
+created last? Lest the heretics <span id="fr_258"></span>[1](#fn_255.md)
 should say: We (mankind) were partners with God in his work.
 
 8\. Another explanation: Why was man created last? That if his mind
@@ -124,7 +124,7 @@ the world.
 propounded a parable: To what can it be compared? It is like a king who
 built a palace and dedicated it, and prepared a banquet and invited the
 guests; and so it is written: THE WISEST OF WOMEN HATH BUILDED HER
-HOUSE, <span id="fr_259"></span>[2](#fn_256)--that is the King of kings
+HOUSE, <span id="fr_259"></span>[2](#fn_256.md)--that is the King of kings
 of kings, blessed be He! who created his world in seven days by "wisdom
 "; SHE HATH HEWN OUT HER SEVEN PILLARS--these are the seven days of
 creation; SHE HATH KILLED HER BEASTS AND MINGLED HER WINE--these are the
@@ -136,38 +136,38 @@ etc.--these are mankind and the beasts.
 IV\. 5*c*. Perhaps you say: "Why do we take this trouble of bearing
 witness? " But has it not been written: HE BEING A WITNESS, WHETHER FIE
 HATH SEEN OR KNOWN, IF HE DO NOT UTTER IT, THEN SHALL HE BEAR HIS
-INIQUITY? <span id="fr_260"></span>[3](#fn_257) Or perhaps
+INIQUITY? <span id="fr_260"></span>[3](#fn_257.md) Or perhaps
 
 <span id="page_82">p. 82</span>
 
 <span class="margnote">**M**.</span>you say: "Why are we responsible for
 this man's blood?" But has it not been written: WHEN THE WICKED PERISH
-THERE IS REJOICING? <span id="fr_261"></span>[1](#fn_258)
+THERE IS REJOICING? <span id="fr_261"></span>[1](#fn_258.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_251"></span>[78:1](tsa13.htm#fr_254) Gen. 4. 10.
+<span id="fn_251"></span>[78:1](tsa13.htm#fr_254.md) Gen. 4. 10.
 
-<span id="fn_252"></span>[80:1](tsa13.htm#fr_255) Meaning that man was
+<span id="fn_252"></span>[80:1](tsa13.htm#fr_255.md) Meaning that man was
 created in one exemplar, in the shape of Adam: and that he must be
 regarded as representative of the whole of the human race.
 
-<span id="fn_253"></span>[80:2](tsa13.htm#fr_256) Job 38. 14.
+<span id="fn_253"></span>[80:2](tsa13.htm#fr_256.md) Job 38. 14.
 
-<span id="fn_254"></span>[80:3](tsa13.htm#fr_257) Job 38. 15.
+<span id="fn_254"></span>[80:3](tsa13.htm#fr_257.md) Job 38. 15.
 
-<span id="fn_255"></span>[81:1](tsa13.htm#fr_258) *Minim*, lit. "sects."
+<span id="fn_255"></span>[81:1](tsa13.htm#fr_258.md) *Minim*, lit. "sects."
 Jewish Christians are probably referred to.
 
-<span id="fn_256"></span>[81:2](tsa13.htm#fr_259) Prov. 9. 1. Cf. Prov.
+<span id="fn_256"></span>[81:2](tsa13.htm#fr_259.md) Prov. 9. 1. Cf. Prov.
 14. 1.
 
-<span id="fn_257"></span>[81:3](tsa13.htm#fr_260) Lev. 5. 1.
+<span id="fn_257"></span>[81:3](tsa13.htm#fr_260.md) Lev. 5. 1.
 
-<span id="fn_258"></span>[82:1](tsa13.htm#fr_261) Prov. 11. 10.
+<span id="fn_258"></span>[82:1](tsa13.htm#fr_261.md) Prov. 11. 10.
 
 ------------------------------------------------------------------------
 
-[Next: The Method of Legal Procedure in Capital Cases](tsa14)
+[Next: The Method of Legal Procedure in Capital Cases](tsa14.md)

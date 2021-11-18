@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb39)  [Next](ptb41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb39)  [Next](ptb41.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ in other similar figures, and operate effects like those of Mars and
 Mercury; exciting wars, heated and turbulent dispositions in the
 atmosphere, and in the constitutions of men, with all their evil
 consequences. The parts of the zodiac <span
-id="fr_108"></span>[1](#fn_108) in which they may be posited when they
+id="fr_108"></span>[1](#fn_108.md) in which they may be posited when they
 first appear, and the direction and inclination of their trains, point
 out the regions or places liable to be affected by the events which they
 threaten; and the form of the signs indicates the quality and nature of
@@ -61,7 +61,7 @@ Moon of the Year.
 
 ### Footnotes
 
-<span id="fn_108"></span>[62:1](ptb40.htm#fr_108) When a comet appears
+<span id="fn_108"></span>[62:1](ptb40.htm#fr_108.md) When a comet appears
 out of the zodiac, a line should be drawn from one zodiacal pole to the
 other, through the spot where it appears; and that spot is to be
 considered as being in familiarity with the same countries as those
@@ -71,4 +71,4 @@ hold familiarity with certain regions and countries.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The New Moon of the Year](ptb41)
+[Next: Chapter XI. The New Moon of the Year](ptb41.md)

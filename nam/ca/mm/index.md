@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Missions, ran for twenty years at mission San Gabriel.
 
 The real strength of this book is the illustrations. There is one major
 drawing for each of the twenty one missions, plus [a map showing their
-locations](mm24). I'm not so thrilled about the introduction, which
+locations](mm24.md). I'm not so thrilled about the introduction, which
 trivializes the native people and presents Mission life as utopian. My
 policy is to leave these texts intact as a witness to the historical
 context in which they were written. That said, it should be noted that
@@ -50,29 +50,29 @@ Native Californian population.
 
 ------------------------------------------------------------------------
 
-[Title Page](mm00)  
-[The Old Missions of California](mm01)  
-[Mission San Diego de Alcala](mm02)  
-[Mission San Carlos de Carmelo](mm03)  
-[Mission San Antonio de Padua](mm04)  
-[Mission San Gabriel Arcangel](mm05)  
-[Mission San Luis Obispo de Tolosa](mm06)  
-[Mission San Francisco de Assisi](mm07)  
-[Mission of San Juan Capistrano](mm08)  
-[Mission Santa Clara de Assisi](mm09)  
-[Mission San Buenaventura](mm10)  
-[Mission Santa Barbara](mm11)  
-[Mission La Purisima Concepcion](mm12)  
-[Mission Santa Cruz](mm13)  
-[Mission La Soledad](mm14)  
-[Mission San Jose de Guadalupe](mm15)  
-[Mission San Juan Bautista](mm16)  
-[Mission San Miguel Arcangel](mm17)  
-[Mission San Fernando Rey de Espana](mm18)  
-[Mission San Luis Rey de Franca](mm19)  
-[Mission Santa Ines](mm20)  
-[Mission San Rafael Arcangel](mm21)  
-[Mission San Francisco de Solano](mm22)  
-[Index](mm23)  
-[Locations of California Missions](mm24)  
-[End page](mm25)  
+[Title Page](mm00.md)  
+[The Old Missions of California](mm01.md)  
+[Mission San Diego de Alcala](mm02.md)  
+[Mission San Carlos de Carmelo](mm03.md)  
+[Mission San Antonio de Padua](mm04.md)  
+[Mission San Gabriel Arcangel](mm05.md)  
+[Mission San Luis Obispo de Tolosa](mm06.md)  
+[Mission San Francisco de Assisi](mm07.md)  
+[Mission of San Juan Capistrano](mm08.md)  
+[Mission Santa Clara de Assisi](mm09.md)  
+[Mission San Buenaventura](mm10.md)  
+[Mission Santa Barbara](mm11.md)  
+[Mission La Purisima Concepcion](mm12.md)  
+[Mission Santa Cruz](mm13.md)  
+[Mission La Soledad](mm14.md)  
+[Mission San Jose de Guadalupe](mm15.md)  
+[Mission San Juan Bautista](mm16.md)  
+[Mission San Miguel Arcangel](mm17.md)  
+[Mission San Fernando Rey de Espana](mm18.md)  
+[Mission San Luis Rey de Franca](mm19.md)  
+[Mission Santa Ines](mm20.md)  
+[Mission San Rafael Arcangel](mm21.md)  
+[Mission San Francisco de Solano](mm22.md)  
+[Index](mm23.md)  
+[Locations of California Missions](mm24.md)  
+[End page](mm25.md)  

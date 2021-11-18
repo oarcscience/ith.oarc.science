@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam05)  [Next](kam07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam05)  [Next](kam07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -173,7 +173,7 @@ particular owner) causes his damage. When I stated this before Samuel he
 said to me: Let us see; as to the liability for damage caused by one's
 stone, knife, or load (placed on public ground), we deduced it from the
 "pit" on, public ground, as explained *post*, page
-[111](kam08.htm#page_111) (in which the Scripture reads "ox" and "ass"),
+[111](kam08.htm#page_111) (in which the Scripture reads "ox" and "ass".md),
 and in all of them I read "an *ox*, but not a human being"; "an *ass*,
 but not vessels," and only as far as death is concerned (as the
 Scripture in this case speaks of death); as to damage, however, if to
@@ -212,7 +212,7 @@ shouldst not think that he is liable only when both the stumbling and
 the breaking were caused by the stone, and not if only the breaking was
 caused by the stone, as in reality he is liable even in such case, as we
 concur with R. Nathan's theory (which is explained on page
-[120](kam08.htm#page_120)).
+[120](kam08.htm#page_120).md).
 
 "*If intentionally*," etc. What means intentionally? Said Rabba, when he
 intended to lower them down from his shoulders (and while doing so they
@@ -345,7 +345,7 @@ falls in into public ground and some persons were injured thereby, he is
 liable for the damage.
 
 GEMARA: Said Rabh: It was taught only if his vessels were soiled, etc.
-(see page [60](#page_60)). Said R. Huna to Rabh: If this should be
+(see page [60](#page_60).md). Said R. Huna to Rabh: If this should be
 considered even his mud (he ought to be liable)? Rejoined Rabh: Do you
 understand that the water was not absorbed? I mean when it *was*
 absorbed, and yet he injured himself
@@ -543,7 +543,7 @@ thoroughfare; therefore he maintains that the first one fell diagonally
 and did not obstruct the whole thoroughfare, and the third one in his
 intention to walk on the unobstructed portion of the thoroughfare did
 not see the stumbling of the second and stumbled over him. <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 MISHNA *VI*.: If one was coming from one side of the street carrying a
 barrel, and the other one was coming from the other side carrying a
@@ -587,7 +587,7 @@ are punished, but here the act is only his.\] Resh Lakish said: If there
 were two cows on public ground, one of which was lying and the other one
 walking, and the latter kicked the former, she is not liable; if,
 however, the reverse was the case she is liable. (This was explained
-above, page [50](kam05.htm#page_50).)
+above, page [50](kam05.htm#page_50)..md)
 
 MISHNA *VII*.: Two that were on public ground, one running and the other
 one walking (ordinarily), or both of them running, and they injured each
@@ -709,7 +709,7 @@ not.
 
 R. Zbid in the name of Rabha supported the above statement by the
 expression of the verse, viz. \[Deut. xix. 5\]: "It (the iron)
-found," <span id="fr_18"></span>[1](#fn_18) but not when be *makes*
+found," <span id="fr_18"></span>[1](#fn_18.md) but not when be *makes*
 himself found to the iron. From this R. Eliezer b. Jacob said: One who
 drops out of his hand a stone, and another one puts out his head and is
 injured by it, he is free. Said R. Jose b. Hanina: He is not to be
@@ -727,7 +727,7 @@ demand their wages from their employer (and therefore he is guilty). How
 is the case? If the employer usually comes to town, what reason have the
 anonymous teachers for their assertion? If, on the other hand, he can be
 found only in the house, what is the reason of the first Tana? It is in
-a case where he is not certain, and the [employee](errata.htm#19) when
+a case where he is not certain, and the [employee](errata.htm#19.md) when
 knocking on the door or gate is told "In"; one holds that "in" means
 "come in" (and therefore they had the right to enter), and the other one
 holds that "in" means "stay where you are (and I will come out to you)."
@@ -936,7 +936,7 @@ dead ox they shall divide." Why "and the dead ox *also*"? To infer both.
 
 MISHNA *XII*.: There are cases when one is liable for the acts of his ox
 and is free if they are his own acts, and *vice versa*. How so? If one's
-ox cause disgrace the owner is free, <span id="fr_19"></span>[1](#fn_19)
+ox cause disgrace the owner is free, <span id="fr_19"></span>[1](#fn_19.md)
 but if he himself did so he is liable. If his ox blinded the eye of his
 slave or knocked out his teeth the owner is not liable (*i.e.*, the
 slave is not to be manumitted), but if he himself did it he is. If his
@@ -953,7 +953,7 @@ such a statement is not to be respected by the college), as those two
 mentioned are no exceptions (and are also of destructive nature); they
 can only constitute exceptions in case of the wounding (of an animal
 when he needed the blood) for his dog, <span
-id="fr_20"></span>[2](#fn_20) and in case of fire when he needed
+id="fr_20"></span>[2](#fn_20.md) and in case of fire when he needed
 
 <span id="page_79">p. 79</span>
 
@@ -1014,7 +1014,7 @@ vicious the small one, the burden of proof is upon the plaintiff.
 GEMARA: Said R. Hyya bar Abba: This statement (in the Mishna, that the
 plaintiff has the burden of proof) shows that Summachus' companions
 differ with him, for Summachus holds (*post*, page
-[106](kam08.htm#page_106)) that money, the ownership of which is
+[106](kam08.htm#page_106).md) that money, the ownership of which is
 doubtful, must be divided among its claimants. Said R. Abba bar Mamel to
 R. Hyya bar Abba: Does then Summachus hold so even if both of them claim
 to be positive in their statements? He answered: Yea. And whence do we
@@ -1078,21 +1078,21 @@ injury, and I will pay you.
 
 ### Footnotes
 
-<span id="fn_17"></span>[69:1](kam06.htm#fr_17) The text reads, "as the
+<span id="fn_17"></span>[69:1](kam06.htm#fr_17.md) The text reads, "as the
 cane of a blind one," and Rashi explains it, that when feeling the way
 with his cane, the blind man places it wherever it happens, longwise or
 crosswise. The above explanation, however, which is more lucid, is
 according to Tosphath.
 
-<span id="fn_18"></span>[73:1](kam06.htm#fr_18) The Hebrew term \[Deutr.
+<span id="fn_18"></span>[73:1](kam06.htm#fr_18.md) The Hebrew term \[Deutr.
 xix. 5\] being ‏ומצא‎, literally "it found."
 
-<span id="fn_19"></span>[78:1](kam06.htm#fr_19) As explained above, p.
+<span id="fn_19"></span>[78:1](kam06.htm#fr_19.md) As explained above, p.
 53, from the verse Levit. xxiv. 19.
 
-<span id="fn_20"></span>[78:2](kam06.htm#fr_20) According to the
+<span id="fn_20"></span>[78:2](kam06.htm#fr_20.md) According to the
 commentary of R. Hananel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV.](kam07)
+[Next: Chapter IV.](kam07.md)

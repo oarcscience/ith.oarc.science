@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm48)  [Next](bcm50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm48)  [Next](bcm50.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,13 +15,13 @@ marjory and rosemary, bound about with a thread woven by a virgin girl.
 It should be made on the day and in the hour of Mercury, the moon
 waxing. The ewer, in the canons of procedure established by *True Black
 Magic*, should be a pot of glazed earth, <span
-id="fr_148"></span>[2](#fn_147) filled with fresh spring
+id="fr_148"></span>[2](#fn_147.md) filled with fresh spring
 
 <span id="page_178">p. 178</span>
 
 water, in which some salt has been cast. The following Psalms should be
 recited over it:--*Domine, ne in furore tuo arguas me*, and *Domine,
-exaudi orationem meam*, <span id="fr_149"></span>[1](#fn_148) with the
+exaudi orationem meam*, <span id="fr_149"></span>[1](#fn_148.md) with the
 addition of this
 
 PRAYER
@@ -38,7 +38,7 @@ ADONAY*, Whose reign is without end. Amen*.
 The *Aspergillus* recommended by this Ritual differs somewhat from the
 former, being of vervain, periwinkle, sage, mint, valerian, ash and
 basil, taking care not to use hyssop <span
-id="fr_150"></span>[2](#fn_149) but rosemary in place thereof. It should
+id="fr_150"></span>[2](#fn_149.md) but rosemary in place thereof. It should
 be fitted with a handle of virgin hazel, three palms in length, and
 bound as before. The following characters should be engraved on one side
 of the said handle:--
@@ -46,7 +46,7 @@ of the said handle:--
  
 
 <span id="img_17800"></span> [![](tn/generic.jpg)  
-Click to view](img/17800.jpg)
+Click to view](img/17800.jpg.md)
 
  
 
@@ -77,7 +77,7 @@ hereto such virtue that this creature may receive a form, whereby our
 work may be accomplished! In the Name of the Father* ✠ *and of the Son*
 ✠ *and of the Holy Ghost*. ✠ *Amen*. . . . Recite the Seven Psalms which
 follow *Judicium tuum Regi da* and *Laudate Dominum omnes gentes*. <span
-id="fr_151"></span>[1](#fn_150)
+id="fr_151"></span>[1](#fn_150.md)
 
 The perfumes are aloes wood and incense for most occasions, and mace for
 the fumigation of the circle. The *Book of True Black Magic* omits mace
@@ -137,7 +137,7 @@ In concluding this portion of its ceremonial, the *Book of True Black
 Magic* states that there are occasions on which perfumes of a stinking
 or malodorous kind must be used. As the first point of their
 preparation, the operator must say over them: ADONAY, LAZAY, DELMAY,
-AMAY, SADAY, ELOY, <span id="fr_152"></span>[1](#fn_151) *by the
+AMAY, SADAY, ELOY, <span id="fr_152"></span>[1](#fn_151.md) *by the
 invocation, O Saviour, of Thy Most Holy Name, vouchsafe us, through this
 kind, the help of Thy grace, and may it assist us in all things which we
 need to fulfil; may all malice pass out herefrom, may it be blessed and
@@ -147,37 +147,37 @@ Asperge the stinking perfume with exorcised water, place it in the
 silken cloth and use it as needed, but always in the name of the Most
 Holy ADONAY. So doing, thou shalt obtain thy desire, says the
 "Manuscript discovered at Jerusalem in the Sepulchre of Solomon." <span
-id="fr_153"></span>[2](#fn_152)
+id="fr_153"></span>[2](#fn_152.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_146"></span>[177:1](bcm48.htm#fr_147) The mutilations of
+<span id="fn_146"></span>[177:1](bcm48.htm#fr_147.md) The mutilations of
 the Divine Names in the Grimoires are part of the distinguishing
 characteristics of these works, and hence they are preserved in the
 text. It may scarcely be necessary to inform the student that the words
 mentioned should read AHIH, ASHR, AHIH.
 
-<span id="fn_147"></span>[177:2](bcm49.htm#fr_148) The *Key of Solomon*
+<span id="fn_147"></span>[177:2](bcm49.htm#fr_148.md) The *Key of Solomon*
 offers choice between a vessel of brass, of lead varnished within and
 without, and of earth.
 
-<span id="fn_148"></span>[178:1](bcm49.htm#fr_149) Psalm vi. and Psalm
+<span id="fn_148"></span>[178:1](bcm49.htm#fr_149.md) Psalm vi. and Psalm
 xlii. in the Vulgate.
 
-<span id="fn_149"></span>[178:2](bcm49.htm#fr_150) The plant here
+<span id="fn_149"></span>[178:2](bcm49.htm#fr_150.md) The plant here
 condemned is prescribed by the *Key of Solomon*.
 
-<span id="fn_150"></span>[179:1](bcm49.htm#fr_151) As these Psalms,
+<span id="fn_150"></span>[179:1](bcm49.htm#fr_151.md) As these Psalms,
 lxxi. and cxvi. in the Vulgate, are widely separated from each other,
 and so also in the Authorised Version, it is difficult to determine
 those which are referred to in the text.
 
-<span id="fn_151"></span>[180:1](bcm49.htm#fr_152) The names given in
+<span id="fn_151"></span>[180:1](bcm49.htm#fr_152.md) The names given in
 the *Key of Solomon* are *Adonai, Lazai, Dalmai, Aima, Elohi*.
 
-<span id="fn_152"></span>[180:2](bcm49.htm#fr_153) A short way to Magic
+<span id="fn_152"></span>[180:2](bcm49.htm#fr_153.md) A short way to Magic
 by means of perfumes is given by Nyrauld in his work on Lycanthropy. To
 discern future events, fumigate yourself with linseed and seed of
 psellium, or with roots of violets and wild parsley. To drive away evil
@@ -192,4 +192,4 @@ continued almost indefinitely.
 
 ------------------------------------------------------------------------
 
-[Next: Section 9: Concerning the Time of Operation](bcm50)
+[Next: Section 9: Concerning the Time of Operation](bcm50.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits093) [Next](bits095)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits093) [Next](bits095.md)
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ alive. Stay you here!"
 
 ------------------------------------------------------------------------
 
-[Next: § 95. The Story of a Priest](bits095)
+[Next: § 95. The Story of a Priest](bits095.md)
 
  
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Next](sos01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Next](sos01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -34,13 +34,13 @@ required by law at the time.
 
 <span id="img_title1"></span> <span align="CENTER"> [![Title
 Page](tn/title1.jpg)  
-Click to enlarge](img/title1.jpg)  
+Click to enlarge](img/title1.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_title2"></span> <span align="CENTER"> [![Second Title Page
 (note no byline for Angelucci)](tn/title2.jpg)  
-Click to enlarge](img/title2.jpg)  
+Click to enlarge](img/title2.jpg.md)  
 Second Title Page (note no byline for Angelucci)  
 </span>
 
@@ -50,4 +50,4 @@ and Richard.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sos01)
+[Next: Contents](sos01.md)

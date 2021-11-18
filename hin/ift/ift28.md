@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift27) 
-[Next](ift29) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift27.md) 
+[Next](ift29.md) 
 
 ------------------------------------------------------------------------
 
 # How Sun, Moon, and Wind went out to Dinner
 
 <span id="img_74"></span> [![](tn/74.jpg)  
-Click to enlarge](img/74.jpg)
+Click to enlarge](img/74.jpg.md)
 
 <span id="img_75"></span> ![](img/75.jpg)NE day Sun, Moon, and Wind went
 out to dine with their uncle and aunts Thunder and Lightning. Their
@@ -57,4 +57,4 @@ even to this day.)
 
 ------------------------------------------------------------------------
 
-[Next: How the Wicked Sons were Duped](ift29)
+[Next: How the Wicked Sons were Duped](ift29.md)

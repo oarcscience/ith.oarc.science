@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw85) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw85.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_31100"></span>
 
 [![The Maidens of the Corn](tn/31100.jpg)  
-Click to enlarge](img/31100.jpg)  
+Click to enlarge](img/31100.jpg.md)  
 The Maidens of the Corn  
 
 # ZUÑI

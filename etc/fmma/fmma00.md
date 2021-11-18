@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Next](fmma01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Next](fmma01.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ domain in the United States because it was published prior to January
 
 ------------------------------------------------------------------------
 
-[Next: Preface](fmma01)
+[Next: Preface](fmma01.md)

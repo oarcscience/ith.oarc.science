@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft14)  [Next](eft16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft14)  [Next](eft16.md) 
 
 ------------------------------------------------------------------------
 
 # The Story of the Three Little Pigs
 
 <span id="img_038"></span> [![](tn/038.jpg)  
-Click to enlarge](img/038.jpg)
+Click to enlarge](img/038.jpg.md)
 
 Once upon a time when pigs spoke rhyme  
 And monkeys chewed tobacco,  
@@ -140,4 +140,4 @@ happy ever afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: The Master and His Pupil](eft16)
+[Next: The Master and His Pupil](eft16.md)

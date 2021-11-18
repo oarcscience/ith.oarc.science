@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-09tx) [Next](dob-10tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-09tx) [Next](dob-10tx.md)
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ xiv-xxviii); and must confine myself, here, to referring to those pages.
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: X. Subha Sutta](dob-10tx)
+[Return to top](#top)   [Next: X. Subha Sutta](dob-10tx.md)

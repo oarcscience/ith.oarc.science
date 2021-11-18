@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt06)  [Next](egt08) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt06)  [Next](egt08.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ that the volume comprises only one out of ten chapters of the
 
 ------------------------------------------------------------------------
 
-[Next: V.--The <u>H</u>adÎqatu'l-haqîqat.](egt08)
+[Next: V.--The <u>H</u>adÎqatu'l-haqîqat.](egt08.md)

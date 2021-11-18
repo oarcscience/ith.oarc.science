@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth024)  [Next](toth026) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth024)  [Next](toth026.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_89">p. 89</span>
 
-## 22. HOW PÖ'OKONG KILLED THE BEAR. <span id="fr_63"></span>[1](#fn_61)
+## 22. HOW PÖ'OKONG KILLED THE BEAR. <span id="fr_63"></span>[1](#fn_61.md)
 
 Mishóngnovi they were living, and a bear used to kill the people. At the
 Skeleton Katcina house lived the Pö'okong with his grandmother, and the
@@ -81,9 +81,9 @@ better.
 
 ### Footnotes
 
-<span id="fn_61"></span>[89:1](toth025.htm#fr_63) Told by Lomávântiwa
+<span id="fn_61"></span>[89:1](toth025.htm#fr_63.md) Told by Lomávântiwa
 (Shupaúlavi)
 
 ------------------------------------------------------------------------
 
-[Next: 23. The Pö'okongs Attend A Dance](toth026)
+[Next: 23. The Pö'okongs Attend A Dance](toth026.md)

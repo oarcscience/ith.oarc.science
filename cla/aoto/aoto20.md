@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto19) 
-[Next](aoto21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto19.md) 
+[Next](aoto21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -117,7 +117,7 @@ deck.
 
 Then they sailed away, and next day they got among the <span
 class="margnote"><span id="an_15:287">287</span></span> flying
-islands, <span id="fr_31"></span>[\*](#fn_31) whereon Telemachus
+islands, <span id="fr_31"></span>[\*](#fn_31.md) whereon Telemachus
 wondered whether he r. should be taken or should escape.
 
 All this time Ulysses was in the hut with Eumæus, and <span
@@ -134,7 +134,7 @@ till Telemachus returns from Pylos."
 Ulysses thanked Eumæus for his information, and then <span
 class="margnote"><span id="an_15:340">340</span></span> began to ask
 whether his father and mother were still living; he was told that
-Anticlea was dead, <span id="fr_32"></span>[†](#fn_32) and that Laertes,
+Anticlea was dead, <span id="fr_32"></span>[†](#fn_32.md) and that Laertes,
 though still alive, would be glad to follow her. Eumæus said he had been
 brought up in their service, and was better off formerly, for there was
 no getting a good word out of his mistress now, inasmuch as the suitors
@@ -153,7 +153,7 @@ with her.
 
 "I was born," he said, "in the island of Syra over against <span
 class="margnote"><span id="an_15:403">403</span></span> Ortygia, where
-the sun turns. <span id="fr_33"></span>[‡](#fn_33) It is not populous,
+the sun turns. <span id="fr_33"></span>[‡](#fn_33.md) It is not populous,
 but contains two cities which occupy the whole land between them, and my
 father was king over them both. A few days after my
 
@@ -200,16 +200,16 @@ where Eumæus lived.
 
 ### Footnotes
 
-<span id="fn_31"></span>[65:\*](aoto20.htm#fr_31) *i.e.* which seemed to
+<span id="fn_31"></span>[65:\*](aoto20.htm#fr_31.md) *i.e.* which seemed to
 fly past them.
 
-<span id="fn_32"></span>[65:†](aoto20.htm#fr_32) According to tradition,
+<span id="fn_32"></span>[65:†](aoto20.htm#fr_32.md) According to tradition,
 she had hanged herself on hearing a report of the death of her son.
 
-<span id="fn_33"></span>[65:‡](aoto20.htm#fr_33) See Chapter xii. near
+<span id="fn_33"></span>[65:‡](aoto20.htm#fr_33.md) See Chapter xii. near
 the beginning.
 
 ------------------------------------------------------------------------
 
 [Next: Book XVI. Ulysses and Telemachus Become Known to One
-Another](aoto21)
+Another](aoto21.md)

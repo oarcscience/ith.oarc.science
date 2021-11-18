@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb04)  [Next](mcb06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb04)  [Next](mcb06.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ that we return to ourselves and know that we are creatures. This
 no more God, we are no more, as Eckhart says, "One to one, one from One,
 one in One and the One in one, eternally." This is "where time comes in
 and all the properties of things which belong to time--existing beside
-the timeless." <span id="fr_79"></span>[1](#fn_79)
+the timeless." <span id="fr_79"></span>[1](#fn_79.md)
 
 <span id="page_79">p. 79</span>
 
@@ -116,7 +116,7 @@ full of significance and I am sure Eckhart had a *satori*.
 Eckhart's "little point" is the eye, that is to say, "The eye by which I
 see God is the same as the eye by which God sees me. My eye and God's
 eye are one and the same--one in seeing, one in knowing, and one in
-loving." <span id="fr_80"></span>[2](#fn_80) Eckhart says: "If my eye is
+loving." <span id="fr_80"></span>[2](#fn_80.md) Eckhart says: "If my eye is
 to distinguish colors, it must first be free from any color impressions.
 If I see blue or white, the seeing of my eyes is identical with what is
 seen." If the seeing is the seen and the seen is the seeing, the
@@ -143,7 +143,7 @@ his happiness from God alone, with God and in God and not at all from
 his knowledge, perfection, or love of God, or any such thing. Thus our
 Lord says very well that life eternal is to know God as the only true
 God and not that it is knowledge that God may be known. <span
-id="fr_81"></span>[3](#fn_81)
+id="fr_81"></span>[3](#fn_81.md)
 
 According to this, Eckhart distinguishes two kinds of knowledge: one is
 to know God as the only true God and the other is to know God through
@@ -152,7 +152,7 @@ creation is perceived by clearly distinguished ideas"; while the first
 kind is "daybreak knowledge" where "creatures are known in God," and "in
 which creatures are perceived without distinctions, all ideas being
 rejected, all comparisons done away in that One that God himself
-is." <span id="fr_82"></span>[4](#fn_82) Cannot this kind of knowledge
+is." <span id="fr_82"></span>[4](#fn_82.md) Cannot this kind of knowledge
 be called also the knowledge of impassableness? Is this not what a man
 gets when the "little point" makes him turn around God-way in which all
 creatures, all distinctions, all comparisons, all ideas are done away
@@ -169,7 +169,7 @@ you shall remain so, even where distinctions
 <span id="page_81">p. 81</span>
 
 are. Different things will all be parts of that One to you and will no
-longer stand in your way. <span id="fr_83"></span>[5](#fn_83)
+longer stand in your way. <span id="fr_83"></span>[5](#fn_83.md)
 
 Where distinctions are you cannot find "the One" or "Being," but when
 you are "that One," "wholly that One," all distinctions or all different
@@ -206,7 +206,7 @@ that he knows him. Now some people wish it to appear that the flower,
 the kernel of blessing is this awareness of the spirit, that it is
 knowing God. For if I have rapture and am unconscious of it, what good
 would it do and what would it mean? I cannot agree with this
-position. <span id="fr_84"></span>[6](#fn_84)
+position. <span id="fr_84"></span>[6](#fn_84.md)
 
 According to this, Eckhart is apparently not satisfied with merely
 knowing God and being conscious of this knowing on the part of the
@@ -234,7 +234,7 @@ retrogression, a quick retreat back to the upper level of the
 
 <span id="page_83">p. 83</span>
 
-natural order of things." <span id="fr_85"></span>[7](#fn_85) To be
+natural order of things." <span id="fr_85"></span>[7](#fn_85.md) To be
 conscious of knowing God is to know about God if this knowing follows
 the ordinary way of knowledge-process. But what kind of knowledge does
 he wish us to understand by the knowledge referred to in the following
@@ -254,7 +254,7 @@ foundation of spiritual blessing" and retreat to the natural order of
 things? What difference could there be between "spiritual blessing" and
 knowledge of absolute oneness? Is the rapture of spiritual bliss
 preferable to "stepping beyond creatures" or "jumping past creatures"
-and knowing God? <span id="fr_86"></span>[8](#fn_86)
+and knowing God? <span id="fr_86"></span>[8](#fn_86.md)
 
 Eckhart quotes John, 19:12, "A certain nobleman went out into a far
 country to receive for himself a kingdom, and to return." "The nobleman"
@@ -291,7 +291,7 @@ The real fact, however, is that as far as we are human beings we cannot
 express in words our understanding of Reality in its suchness. When we
 try to do so we are inevitably involved in a contradiction. Eckhart
 says, "God's sight and mine are far different--utterly
-dissimilar." <span id="fr_87"></span>[9](#fn_87) Inasmuch as he could
+dissimilar." <span id="fr_87"></span>[9](#fn_87.md) Inasmuch as he could
 make this statement in regard to God's sight as being utterly dissimilar
 to our human sight, he must be said to have had certain knowledge of God
 which enabled him to bring these tidings to the human world from the
@@ -300,10 +300,10 @@ other shore, from "the
 <span id="page_85">p. 85</span>
 
 inmost core of the divine nature in its solitude." <span
-id="fr_88"></span>[10](#fn_88) "If I am to see color, I must have that
+id="fr_88"></span>[10](#fn_88.md) "If I am to see color, I must have that
 in me which is sensitive to color, but I should never see color if I did
 not have the essence of color already." <span
-id="fr_89"></span>[11](#fn_89) Unless God was not already with us, in
+id="fr_89"></span>[11](#fn_89.md) Unless God was not already with us, in
 us, we could never know how dissimilar or how similar--which is after
 all the same thing--God was to us. In this connection Eckhart quotes St.
 Paul and St. John: "We shall know God as we are known by him" and again,
@@ -317,7 +317,7 @@ original sees itself in the image as well as in itself. Being in
 is the meaning of "returning."
 
 To quote Eckhart again, "The soul must step beyond or jump past
-creatures if it is to know God." <span id="fr_90"></span>[12](#fn_90)
+creatures if it is to know God." <span id="fr_90"></span>[12](#fn_90.md)
 But to know God is to know oneself as creature. To know God is "to go
 out" as the Biblical nobleman does according to Eckhart, and his
 "returning" means knowing oneself as creature by knowing God. When the
@@ -400,7 +400,7 @@ I do not think it is justifiable to use this "little point" for the
 support of the doctrine of impassableness. In other places Eckhart gives
 us statements quite contradictory to the idea of the "little point." For
 instance, in one of his sermons, "Into the Godhead," <span
-id="fr_91"></span>[13](#fn_91) we have the following:
+id="fr_91"></span>[13](#fn_91.md) we have the following:
 
 As long as the least of creatures absorb your attention, you will see
 nothing of God, however little that creature may be. Thus, in Book of
@@ -447,10 +447,10 @@ is neither light nor shadow.
 Let us consider other passages from Eckhart for our own further
 edification on the subject. The following are from the sermon with the
 title, "Distinctions Are Lost in God":  <span
-id="fr_92"></span>[14](#fn_92)
+id="fr_92"></span>[14](#fn_92.md)
 
 Man's last and highest parting occurs when, for God's sake, he takes
-leave of God. St. Paul <span id="fr_93"></span>[15](#fn_93) took leave
+leave of God. St. Paul <span id="fr_93"></span>[15](#fn_93.md) took leave
 of God for God's sake and gave up all that he might get from God, as
 well as all he might give--together with every idea of God. In parting
 with these, he parted with God for God's sake and yet God remained
@@ -506,7 +506,7 @@ understand it correctly, marks the turning point in the suchness of the
 Godhead. As long as the Godhead remains in its suchness, that is, in its
 naked essence, it is Emptiness itself, no sound comes from it, no odor
 issues from it, it is "above grace, above intelligence, above all
-desire," <span id="fr_94"></span>[16](#fn_94) it is altogether
+desire," <span id="fr_94"></span>[16](#fn_94.md) it is altogether
 unapproachable, unattainable, as Buddhist philosophers would say. But
 because of this "little point" left by it, it comes in contact with
 creatures by making "the soul turn back to itself and find itself and
@@ -515,7 +515,7 @@ of its creatureliness is the time also when God becomes aware of his
 contact with creatures. Or we can say that this is creation. In Sermon
 28 we have:
 
-Back in the Womb <span id="fr_95"></span>[17](#fn_95) from which I came,
+Back in the Womb <span id="fr_95"></span>[17](#fn_95.md) from which I came,
 I had no God and merely was, myself. I did not will or desire anything,
 for I was pure being, a knower of myself by divine truth. The I wanted
 myself and nothing else. And what I wanted I was, and what I was I
@@ -528,7 +528,7 @@ created being then I had a God. For before there were creatures, God was
 not God, but rather he was what he was. When creatures came to be and
 took on creaturely being, then God was no longer God as he is in
 himself, but God as he is with creatures. <span
-id="fr_96"></span>[18](#fn_96)
+id="fr_96"></span>[18](#fn_96.md)
 
 The Godhead must become God in order to make itself related to
 creatures. The Biblical God as the creator of the world is no longer God
@@ -540,7 +540,7 @@ ourselves. Eckhart says: "If a flea could have the intelligence by which
 to search the eternal abyss of divine being, out of which it came, we
 should say that God together with all that God is could not give
 fulfillment or satisfaction to the flea!" <span
-id="fr_97"></span>[19](#fn_97) A chronological God has to have the
+id="fr_97"></span>[19](#fn_97.md) A chronological God has to have the
 intelligence of the flea if he wants to delve into the very being of the
 flea. The rising of this intelligence in the soul, to use Eckhartian
 terminology, is the positing of the "little point."
@@ -549,37 +549,37 @@ terminology, is the positing of the "little point."
 
 ### Footnotes
 
-<span id="fn_79"></span>[78:1](mcb05.htm#fr_79) Blakney, p. 81.
+<span id="fn_79"></span>[78:1](mcb05.htm#fr_79.md) Blakney, p. 81.
 
-<span id="fn_80"></span>[79:2](mcb05.htm#fr_80) *Ibid*., p. 206.
+<span id="fn_80"></span>[79:2](mcb05.htm#fr_80.md) *Ibid*., p. 206.
 
-<span id="fn_81"></span>[80:3](mcb05.htm#fr_81) *Ibid*., p. 80.
+<span id="fn_81"></span>[80:3](mcb05.htm#fr_81.md) *Ibid*., p. 80.
 
-<span id="fn_82"></span>[80:4](mcb05.htm#fr_82) *Ibid*., p. 79.
+<span id="fn_82"></span>[80:4](mcb05.htm#fr_82.md) *Ibid*., p. 79.
 
-<span id="fn_83"></span>[81:5](mcb05.htm#fr_83) *Ibid*., p. 78.
+<span id="fn_83"></span>[81:5](mcb05.htm#fr_83.md) *Ibid*., p. 78.
 
-<span id="fn_84"></span>[82:6](mcb05.htm#fr_84) *Ibid*., p. 79.
+<span id="fn_84"></span>[82:6](mcb05.htm#fr_84.md) *Ibid*., p. 79.
 
-<span id="fn_85"></span>[83:7](mcb05.htm#fr_85) *Ibid*., pp. 79-80.
+<span id="fn_85"></span>[83:7](mcb05.htm#fr_85.md) *Ibid*., pp. 79-80.
 
-<span id="fn_86"></span>[83:8](mcb05.htm#fr_86) *Ibid*., p. 166.
+<span id="fn_86"></span>[83:8](mcb05.htm#fr_86.md) *Ibid*., p. 166.
 
-<span id="fn_87"></span>[84:9](mcb05.htm#fr_87) *Ibid*., p. 81.
+<span id="fn_87"></span>[84:9](mcb05.htm#fr_87.md) *Ibid*., p. 81.
 
-<span id="fn_88"></span>[85:10](mcb05.htm#fr_88) *Ibid*.
+<span id="fn_88"></span>[85:10](mcb05.htm#fr_88.md) *Ibid*.
 
-<span id="fn_89"></span>[85:11](mcb05.htm#fr_89) *Ibid*., p. 168.
+<span id="fn_89"></span>[85:11](mcb05.htm#fr_89.md) *Ibid*., p. 168.
 
-<span id="fn_90"></span>[85:12](mcb05.htm#fr_90) *Ibid*., p. 166.
+<span id="fn_90"></span>[85:12](mcb05.htm#fr_90.md) *Ibid*., p. 166.
 
-<span id="fn_91"></span>[88:13](mcb05.htm#fr_91) *Ibid*., pp. 165 *et
+<span id="fn_91"></span>[88:13](mcb05.htm#fr_91.md) *Ibid*., pp. 165 *et
 seq*.
 
-<span id="fn_92"></span>[89:14](mcb05.htm#fr_92) *Ibid*., pp. 203 *et
+<span id="fn_92"></span>[89:14](mcb05.htm#fr_92.md) *Ibid*., pp. 203 *et
 seq*.
 
-<span id="fn_93"></span>[89:15](mcb05.htm#fr_93) Eckhart quotes St. Paul
+<span id="fn_93"></span>[89:15](mcb05.htm#fr_93.md) Eckhart quotes St. Paul
 as saying: "I could wish to be cut off eternally from God for my
 friends' sake and for God's sake." This I understand corresponds to the
 King James version, Romans, 9:3, "But I could wish that myself were
@@ -588,16 +588,16 @@ flesh." I do not know how this discrepancy takes place between the two
 quotations as I have no Greek texts with me. Eckhart bases his argument
 on his Latin text, I believe.
 
-<span id="fn_94"></span>[91:16](mcb05.htm#fr_94) *Ibid*., p. 231.
+<span id="fn_94"></span>[91:16](mcb05.htm#fr_94.md) *Ibid*., p. 231.
 
-<span id="fn_95"></span>[91:17](mcb05.htm#fr_95) The original German is
+<span id="fn_95"></span>[91:17](mcb05.htm#fr_95.md) The original German is
 "*in miner ersten ursache*." The translator has substituted this term, I
 do not know whether this is a happy translation or not.
 
-<span id="fn_96"></span>[92:18](mcb05.htm#fr_96) Blakney, p. 228.
+<span id="fn_96"></span>[92:18](mcb05.htm#fr_96.md) Blakney, p. 228.
 
-<span id="fn_97"></span>[92:19](mcb05.htm#fr_97) *Ibid*., p. 229.
+<span id="fn_97"></span>[92:19](mcb05.htm#fr_97.md) *Ibid*., p. 229.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Living in the Light of Eternity](mcb06)
+[Next: IV. Living in the Light of Eternity](mcb06.md)

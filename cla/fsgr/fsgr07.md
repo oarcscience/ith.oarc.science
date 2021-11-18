@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](fsgr06)  [Next](fsgr08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](fsgr06)  [Next](fsgr08.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Five Stages of Greek Religion*, by Gilbert Murray, \[1925\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ for the dead, but far more bitterly for themselves, when they reflected
 what things they had done to the people of Mêlos, when taken by siege,
 to the people of Histiaea, and Skîonê and Torônê and Aegîna, and many
 more of the Hellenes.'<span
-id="an_fr_79_1"></span>[79\_1](fsgr07.htm#an_fn_79_1)
+id="an_fr_79_1"></span>[79\_1](fsgr07.htm#an_fn_79_1.md)
 
 The echo of that lamentation seems to ring behind most of the literature
 of the fourth century, and not the Athenian literature alone. Defeat can
@@ -62,7 +62,7 @@ other, a number of federations of tribes, which were generally strongest
 in the backward regions where the city state had been least developed.
 <u>Τὸ κοινὸν τῶν Αἰτωλῶν</u> or <u>τῶν Ἀχαιῶν</u> had become more
 important than Athens or Corinth, and Sparta was only strong by means of
-a League.<span id="an_fr_80_1"></span>[80\_1](fsgr07.htm#an_fn_80_1) By
+a League.<span id="an_fr_80_1"></span>[80\_1](fsgr07.htm#an_fn_80_1.md) By
 that time the Polis was recognized as a comparatively weak social
 organism, capable of very high culture but not quite able, as the
 Covenant of the League of Nations expresses it, 'to hold its own under
@@ -89,7 +89,7 @@ and their skill in war. They alone live still in a city unsacked,
 unwalled, unconquered, uncorrupted by faction, and have followed always
 the same modes of life. They have been the saviours of Hellas in the
 past, and one may hope that their freedom will be everlasting.'<span
-id="an_fr_81_1"></span>[81\_1](fsgr07.htm#an_fn_81_1) A great and
+id="an_fr_81_1"></span>[81\_1](fsgr07.htm#an_fn_81_1.md) A great and
 generous change in one who had 'learned by suffering' in the
 Peloponnesian War. Others no doubt merely gave their submission to the
 stronger powers that were now rising. There were openings for
@@ -103,7 +103,7 @@ their life-long devotion to 'Athens' or to 'Freedom' because the world
 considered such ideals out of date. They could look the ruined Athenians
 in the face, after the lost battle, and say with Demosthenes, '<u>Οὐκ
 ἔστιν, οὐκ ἔστιν ὅπως ἡμάρτετε</u>. It cannot be that you did wrong, it
-cannot be!'<span id="an_fr_82_1"></span>[82\_1](fsgr07.htm#an_fn_82_1)
+cannot be!'<span id="an_fr_82_1"></span>[82\_1](fsgr07.htm#an_fn_82_1.md)
 
 But in practical politics the currents of thought are inevitably
 limited. It is in philosophy and speculation that we find the richest
@@ -135,7 +135,7 @@ rages past. The world does not want truth, which is all that he could
 give it. It goes by appearances and judges its great men with their
 clothes on and their rich relations round them. After death, the judges
 will judge them naked, and alone; and then we shall see!<span
-id="an_fr_83_1"></span>[83\_1](fsgr07.htm#an_fn_83_1)
+id="an_fr_83_1"></span>[83\_1](fsgr07.htm#an_fn_83_1.md)
 
 Yet, in spite of all this, the child of the fifth century cannot keep
 his mind from politics. The speculations which would be scouted by the
@@ -166,7 +166,7 @@ Tyrants'; but the experience sickened him of such methods. There was no
 hope unless, by some lucky combination, a philosopher should become a
 king or some young king turn philosopher. 'Give me a city governed by a
 tyrant,' he says in the *Laws*,<span
-id="an_fr_84_1"></span>[84\_1](fsgr07.htm#an_fn_84_1) 'and let the
+id="an_fr_84_1"></span>[84\_1](fsgr07.htm#an_fn_84_1.md) 'and let the
 tyrant be young, with a good memory, quick at learning, of high courage,
 and a generous nature. . . . And besides, let him have a wise
 counsellor!' Ironical fortune granted him an opportunity to try the
@@ -196,7 +196,7 @@ said to have been intended as a counterblast to Plato's *Republic*, and
 it may have provoked Plato's casual remark in the *Laws* that 'Cyrus
 never so much as touched education'. No doubt the book suffered in
 persuasiveness from being so obviously fictitious.<span
-id="an_fr_85_1"></span>[85\_1](fsgr07.htm#an_fn_85_1) For example, the
+id="an_fr_85_1"></span>[85\_1](fsgr07.htm#an_fn_85_1.md) For example, the
 Cyrus of Xenophon dies peacefully in his bed after much affectionate and
 edifying advice to his family, whereas all Athens knew from Herodotus
 how the real Cyrus had been killed in a war against the Massagetae, and
@@ -240,14 +240,14 @@ c.</span> He had been friends with Gorgias and Prodicus, the great
 Sophists of the Periclean age. He seems to have been, at any rate till
 younger and more brilliant men cut him out, the recognized philosophic
 heir of Socrates.<span
-id="an_fr_87_1"></span>[87\_1](fsgr07.htm#an_fn_87_1) And late in life,
+id="an_fr_87_1"></span>[87\_1](fsgr07.htm#an_fn_87_1.md) And late in life,
 after the fall of Athens and the condemnation and death of his master,
 the man underwent a curious change of heart. He is taunted more than
 once with the lateness of his discovery of truth,<span
-id="an_fr_87_2"></span>[87\_2](fsgr07.htm#an_fn_87_2) and with his
+id="an_fr_87_2"></span>[87\_2](fsgr07.htm#an_fn_87_2.md) and with his
 childish subservience to the old *jeux d'esprit* of the Sceptics which
 professed to prove the impossibility of knowledge.<span
-id="an_fr_87_3"></span>[87\_3](fsgr07.htm#an_fn_87_3) It seems that he
+id="an_fr_87_3"></span>[87\_3](fsgr07.htm#an_fn_87_3.md) It seems that he
 had lost faith in speculation and dialectic and the elaborate <span
 id="page_88">p. 88</span> superstructures which Plato and others had
 built upon them; and he felt, like many moralists after him, a sort of
@@ -327,7 +327,7 @@ much larger scale. He would deface all the coinage current in the world.
 Every conventional stamp was false. The men stamped as generals and
 kings; the things stamped as honour and wisdom and happiness and riches;
 all were base metal with lying superscriptions. All must have the stamp
-defaced.<span id="an_fr_90_1"></span>[90\_1](fsgr07.htm#an_fn_90_1)
+defaced.<span id="an_fr_90_1"></span>[90\_1](fsgr07.htm#an_fn_90_1.md)
 
 This young man was Diogenes, afterwards the most famous of all the
 Cynics. He started by rejecting all stamps and superscriptions and
@@ -451,7 +451,7 @@ I will say what I think.'
 
 In spite of its false psychology the Cynic conception of life had a
 great effect in Greece. It came almost as a revelation to both men and
-women<span id="an_fr_95_1"></span>[95\_1](fsgr07.htm#an_fn_95_1) and
+women<span id="an_fr_95_1"></span>[95\_1](fsgr07.htm#an_fn_95_1.md) and
 profoundly influenced all the Schools. Here indeed, it seemed, was a way
 to baffle Fortune and to make one's own soul unafraid. What men wanted
 was <u>τὸ θαρρεῖν</u> 'to be of good cheer'; as we say now, to regain
@@ -533,7 +533,7 @@ that we now know that Man is not the centre of the universe. Let us
 forget that the majestic order which reigns, or seems to reign, among
 the stars, is matched by a brutal conflict and a chaos of jarring
 purposes in the realms of those sciences which deal with life.<span
-id="an_fr_98_1"></span>[98\_1](fsgr07.htm#an_fn_98_1) If we can recover
+id="an_fr_98_1"></span>[98\_1](fsgr07.htm#an_fn_98_1.md) If we can recover
 the imaginative outlook of the generations which stretched from, say,
 Meton in the fifth century before Christ to Copernicus in the sixteenth
 after, we shall be able to understand the spiritual exaltation with
@@ -581,7 +581,7 @@ wills and make the eternal Purpose your own.
 
 I will say no more of this great body of teaching, as I have dealt with
 it in a separate publication.<span
-id="an_fr_100_1"></span>[100\_1](fsgr07.htm#an_fn_100_1) But I would
+id="an_fr_100_1"></span>[100\_1](fsgr07.htm#an_fn_100_1.md) But I would
 point out two special advantages of a psychological kind which
 distinguish Stoicism from many systems of philosophy. First, though it
 never consciously faced the psychological problem of instinct, it did
@@ -600,7 +600,7 @@ illusion.
 The other great school of the fourth century, a school which, in the
 matter of ethics, may be called the only true rival of Stoicism, was
 also rooted in defeat. But it met defeat in a different spirit.<span
-id="an_fr_101_1"></span>[101\_1](fsgr07.htm#an_fn_101_1) Epicurus, son
+id="an_fr_101_1"></span>[101\_1](fsgr07.htm#an_fn_101_1.md) Epicurus, son
 of Neocles, of the old Athenian clan of the Philaïdae, was born on a
 colony in Samos in 341 <span class="smcap">b. c.</span> His father was
 evidently poor; else he would hardly have left Athens to live on a
@@ -653,7 +653,7 @@ life. Some of his letters to her have been preserved, and show a touch
 of intimate affection which of course must have existed between human
 beings from the remotest times, but of which we possess no earlier
 record. And fragments of his letters to his friends strike the same
-note.<span id="an_fr_103_1"></span>[103\_1](fsgr07.htm#an_fn_103_1)
+note.<span id="an_fr_103_1"></span>[103\_1](fsgr07.htm#an_fn_103_1.md)
 
 His first discovery was that men torture themselves with unnecessary
 fears. He must teach them courage, <u>θαρρεῖν ἀρὸ τῶν θεῶν, θαρρεῖν ἀρὸ
@@ -747,7 +747,7 @@ religious than scientific. As we can see from Lucretius it was taken
 almost as a revelation, from one who had saved mankind; whose intellect
 had pierced beyond the 'flaming walls of Heaven' and brought back to man
 the gospel of an intelligible universe.<span
-id="an_fr_106_1"></span>[106\_1](fsgr07.htm#an_fn_106_1)
+id="an_fr_106_1"></span>[106\_1](fsgr07.htm#an_fn_106_1.md)
 
 <span id="page_107">p. 107</span>
 
@@ -760,7 +760,7 @@ The doctrine thrilled them and seemed to bring freedom with it. They
 felt that such a teacher must be set up in Athens, the home of the great
 philosophers. They bought by subscription a house and garden in Athens
 for 80 minae (about £320)<span
-id="an_fr_107_1"></span>[107\_1](fsgr07.htm#an_fn_107_1) and presented
+id="an_fr_107_1"></span>[107\_1](fsgr07.htm#an_fn_107_1.md) and presented
 it to the Master. He crossed to Athens in 306 and, though he four times
 revisited Lampsacus and has left letters addressed *To Friends in
 Lampsacus*, he lived in the famous Garden for the rest of his life.
@@ -784,12 +784,12 @@ Garden, and spoken with the Deliverer.
 
 The Epicureans lived simply. They took neither flesh nor wine, and there
 is a letter extant, asking some one to send them a present of 'potted
-cheese'<span id="an_fr_108_1"></span>[108\_1](fsgr07.htm#an_fn_108_1) as
+cheese'<span id="an_fr_108_1"></span>[108\_1](fsgr07.htm#an_fn_108_1.md) as
 a special luxury. Their enemies, who were numerous and lively, make the
 obvious accusations about the hetairae, and cite an alleged letter of
 the Master to Leontion. 'Lord Paean, my dear little Leontion, your note
 fills me with such a bubble of excitement!'<span
-id="an_fr_108_2"></span>[108\_2](fsgr07.htm#an_fn_108_2) The problem of
+id="an_fr_108_2"></span>[108\_2](fsgr07.htm#an_fn_108_2.md) The problem of
 this letter well illustrates the difficulty <span id="page_109">p.
 109</span> of forming clear judgements about the details of ancient
 life. Probably the letter is a forgery: we are definitely informed that
@@ -809,7 +809,7 @@ it is much if it does not do harm.'
 
 This philosophy is often unjustly criticized. It is called selfish; but
 that it is certainly not. It is always aiming at the deliverance of
-mankind<span id="an_fr_109_1"></span>[109\_1](fsgr07.htm#an_fn_109_1)
+mankind<span id="an_fr_109_1"></span>[109\_1](fsgr07.htm#an_fn_109_1.md)
 and it bases its happiness on <u>φιλία</u>, Friendship or Affection,
 just as the early Christians based it on <u>ἀγάπη</u>, a word no whit
 stronger than <u>φιλία</u>, though it is conventionally translated
@@ -826,7 +826,7 @@ one who is a furlong deep. Just so in human life, wrong is wrong,
 falsehood is falsehood, and to talk of degrees is childish. Epicureanism
 had an easy and natural answer to these arguments, since pleasure and
 pain obviously admit of degrees.<span
-id="an_fr_110_1"></span>[110\_1](fsgr07.htm#an_fn_110_1)
+id="an_fr_110_1"></span>[110\_1](fsgr07.htm#an_fn_110_1.md)
 
 The school is blamed also for pursuing pleasure, on the ground that the
 direct pursuit of pleasure is self-defeating. But Epicurus never makes
@@ -836,7 +836,7 @@ He says that if you conquer your desires and fears, and live simply and
 love those about you, the natural sweetness of life will reveal itself.
 
 A truer criticism is one which appears dimly in Plutarch and
-Cicero.<span id="an_fr_110_2"></span>[110\_2](fsgr07.htm#an_fn_110_2)
+Cicero.<span id="an_fr_110_2"></span>[110\_2](fsgr07.htm#an_fn_110_2.md)
 There is a strange shadow of sadness hanging over this wise and kindly
 faith, which proceeds from the essential distrust of life that lies at
 its heart. The best that Epicurus has really to say of the world is that
@@ -854,7 +854,7 @@ is only half alive. We know that, as a matter of fact, this was not so.
 The Epicureans felt their doctrine to bring not mere comfort but
 inspiration and blessedness. The young Colotes, on first hearing the
 master speak, fell on his knees with tears and hailed him as a god.<span
-id="an_fr_111_1"></span>[111\_1](fsgr07.htm#an_fn_111_1) We may compare
+id="an_fr_111_1"></span>[111\_1](fsgr07.htm#an_fn_111_1.md) We may compare
 the rapturous phrases of Lucretius. What can be the explanation of this?
 
 Perhaps it is that a deep distrust of the world produces its own inward
@@ -888,7 +888,7 @@ of Phalaris he will think his thoughts and be glad. Illusion, the old
 Siren with whom man cannot live in peace, nor yet without her, has crept
 back unseen to the centre of the citadel. It was Epicurus, and not a
 Stoic or Cynic, who asserts that a Wise Man will be happy on the
-rack.<span id="an_fr_112_1"></span>[112\_1](fsgr07.htm#an_fn_112_1)
+rack.<span id="an_fr_112_1"></span>[112\_1](fsgr07.htm#an_fn_112_1.md)
 
 Strangely obliging, ironic Fortune gave to him also a chance of testing
 of his own doctrine. There is extant a letter written on his death-bed.
@@ -898,7 +898,7 @@ point, but there is marshalled against them the delight of my mind in
 thinking over our talks together. Take care of the children of
 Metrodorus in a way worthy of your life-long devotion <span
 id="page_113">p. 113</span> to me and to philosophy.'<span
-id="an_fr_113_1"></span>[113\_1](fsgr07.htm#an_fn_113_1) At least his
+id="an_fr_113_1"></span>[113\_1](fsgr07.htm#an_fn_113_1.md) At least his
 courage, and his kindness, did not fail.
 
 Epicureanism had certainly its sublime side; and from this very
@@ -909,9 +909,9 @@ careful and even profound scientific studies, and was expounded by the
 master in a vast array of volumes. But the result so attained was
 considered sufficient. Further research was not encouraged. Heterodoxy
 was condemned as something almost approaching 'parricide'.<span
-id="an_fr_113_2"></span>[113\_2](fsgr07.htm#an_fn_113_2) The pursuit of
+id="an_fr_113_2"></span>[113\_2](fsgr07.htm#an_fn_113_2.md) The pursuit of
 'needless knowledge' was deliberately frowned upon.<span
-id="an_fr_113_3"></span>[113\_3](fsgr07.htm#an_fn_113_3) When other
+id="an_fr_113_3"></span>[113\_3](fsgr07.htm#an_fn_113_3.md) When other
 philosophers were working out calculations about the size of the Sun and
 the commensurability of the sun-cycle and the moon-cycle, Epicurus
 contemptuously remarked that the Sun was probably about as big as it
@@ -919,7 +919,7 @@ looked, or perhaps smaller: since fires at a distance generally look
 bigger than they are. The various theories of learned men were all
 possible but none certain. And as for the cycles, how did any one know
 that there was not a new sun shot off and extinguished every day?<span
-id="an_fr_113_4"></span>[113\_4](fsgr07.htm#an_fn_113_4) It is not
+id="an_fr_113_4"></span>[113\_4](fsgr07.htm#an_fn_113_4.md) It is not
 surprising to find that none of <span id="page_114">p. 114</span> the
 great discoveries of the Hellenistic Age were due to the Epicurean
 school. Lucretius, writing 250 years later, appears to vary hardly in
@@ -984,7 +984,7 @@ providing a dowry for his widow, Herpyllis, to facilitate her getting a
 second husband, and thanking her for her goodness to him, he directs
 that his bones are to be laid in the same grave with those of his first
 wife, Pythias, whom he had rescued from robbers more than twenty years
-before.<span id="an_fr_116_1"></span>[116\_1](fsgr07.htm#an_fn_116_1)
+before.<span id="an_fr_116_1"></span>[116\_1](fsgr07.htm#an_fn_116_1.md)
 
 Other philosophers disliked him because he wore no long beard, dressed
 neatly and had good normal manners, and they despised his philosophy for
@@ -999,7 +999,7 @@ their freedom and their meaning, the Peripatetics instead of
 passionately saving souls diligently pursued knowledge, and in
 generation after generation produced scientific results which put all
 their rivals into the shade.<span
-id="an_fr_116_2"></span>[116\_2](fsgr07.htm#an_fn_116_2) In mathematics,
+id="an_fr_116_2"></span>[116\_2](fsgr07.htm#an_fn_116_2.md) In mathematics,
 astronomy, physics, botany, zoology, and biology, as well <span
 id="page_117">p. 117</span> as the human sciences of literature and
 history, the Hellenistic Age was one of the most creative known to our
@@ -1210,35 +1210,35 @@ record, and illustrates the true Peripatetic spirit.
 
 <div class="footnote">
 
-<span id="an_fn_79_1"></span>[79\_1](fsgr07.htm#an_fr_79_1) *Hellen.*
+<span id="an_fn_79_1"></span>[79\_1](fsgr07.htm#an_fr_79_1.md) *Hellen.*
 ii. 2, 3.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_80_1"></span>[80\_1](fsgr07.htm#an_fr_80_1) Cf. Tarn,
+<span id="an_fn_80_1"></span>[80\_1](fsgr07.htm#an_fr_80_1.md) Cf. Tarn,
 *Antigonus Gonatas*, p. 52, and authorities there quoted.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_81_1"></span>[81\_1](fsgr07.htm#an_fr_81_1) Lysias,
+<span id="an_fn_81_1"></span>[81\_1](fsgr07.htm#an_fr_81_1.md) Lysias,
 xxxiii.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_82_1"></span>[82\_1](fsgr07.htm#an_fr_82_1) Dem.
+<span id="an_fn_82_1"></span>[82\_1](fsgr07.htm#an_fr_82_1.md) Dem.
 *Crown*, 208.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_83_1"></span>[83\_1](fsgr07.htm#an_fr_83_1) 'Such-like
+<span id="an_fn_83_1"></span>[83\_1](fsgr07.htm#an_fr_83_1.md) 'Such-like
 trash', *Gorgias*, 519 <span class="smcap">a</span>; dust-storm, *Rep.*
 vi. 496; clothes, *Gorg.* 523 <span class="smcap">e</span>; 'democratic
 man', *Rep.* viii. 556 ff.
@@ -1247,14 +1247,14 @@ man', *Rep.* viii. 556 ff.
 
 <div class="footnote">
 
-<span id="an_fn_84_1"></span>[84\_1](fsgr07.htm#an_fr_84_1) *Laws*, 709
+<span id="an_fn_84_1"></span>[84\_1](fsgr07.htm#an_fr_84_1.md) *Laws*, 709
 <span class="smcap">e</span>, cf. Letter VII.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_85_1"></span>[85\_1](fsgr07.htm#an_fr_85_1) Aulus
+<span id="an_fn_85_1"></span>[85\_1](fsgr07.htm#an_fr_85_1.md) Aulus
 Gellius, xiv. 3; Plato, *Laws*, p. 695; Xen. *Cyrop.* viii. 7, compared
 with *Hdt.* i. 214.
 
@@ -1262,7 +1262,7 @@ with *Hdt.* i. 214.
 
 <div class="footnote">
 
-<span id="an_fn_87_1"></span>[87\_1](fsgr07.htm#an_fr_87_1) This is the
+<span id="an_fn_87_1"></span>[87\_1](fsgr07.htm#an_fr_87_1.md) This is the
 impression left by Xenophon, especially in the Symposium. Cf. Dümmler,
 *Antisthenica* (1882); *Akademika* (1889). Cf. the *Life of Antisthenes*
 in Diog. Laert.
@@ -1271,7 +1271,7 @@ in Diog. Laert.
 
 <div class="footnote">
 
-<span id="an_fn_87_2"></span>[87\_2](fsgr07.htm#an_fr_87_2) <u>Γέρων
+<span id="an_fn_87_2"></span>[87\_2](fsgr07.htm#an_fr_87_2.md) <u>Γέρων
 ὀψιμαθήϛ</u>, Plato, *Soph.* 251 <span class="smcap">b</span>, Isocr.
 *Helena*, i. 2.
 
@@ -1279,7 +1279,7 @@ in Diog. Laert.
 
 <div class="footnote">
 
-<span id="an_fn_87_3"></span>[87\_3](fsgr07.htm#an_fr_87_3) e. g. no
+<span id="an_fn_87_3"></span>[87\_3](fsgr07.htm#an_fr_87_3.md) e. g. no
 combination of subject and predicate can be true because one is
 different from the other. 'Man' is 'man' and 'good' is 'good'; but 'man'
 is not 'good'. Nor can 'a horse' possibly be 'running'; they are totally
@@ -1298,7 +1298,7 @@ are speaking of something else. See especially *Scholia Arist.*, p.
 
 <div class="footnote">
 
-<span id="an_fn_90_1"></span>[90\_1](fsgr07.htm#an_fr_90_1) <u>Τὸ
+<span id="an_fn_90_1"></span>[90\_1](fsgr07.htm#an_fr_90_1.md) <u>Τὸ
 νόμισμα παραχαράττειν</u>: see *Life* in Diog. Laert., fragments in
 Mullach, vol. ii, and the article in Pauly-Wissowa.
 
@@ -1306,7 +1306,7 @@ Mullach, vol. ii, and the article in Pauly-Wissowa.
 
 <div class="footnote">
 
-<span id="an_fn_95_1"></span>[95\_1](fsgr07.htm#an_fr_95_1) There were
+<span id="an_fn_95_1"></span>[95\_1](fsgr07.htm#an_fr_95_1.md) There were
 women among the Cynics. 'The doctrine also captured Metrocles' sister,
 Hipparchia. She loved Crates, his words, and his way of life, and paid
 no attention to any of her suitors, however rich or highborn or
@@ -1323,7 +1323,7 @@ food at dinners.' Diog. Laert. vi. 96 ff.
 
 <div class="footnote">
 
-<span id="an_fn_98_1"></span>[98\_1](fsgr07.htm#an_fr_98_1) e. g. the
+<span id="an_fn_98_1"></span>[98\_1](fsgr07.htm#an_fr_98_1.md) e. g. the
 struggle for existence among animals and plants; the <u>ἀλληλοφαγία</u>,
 or 'mutual devouring', of animals; and such points as the various
 advances in evolution which seem self-destructive. Thus, Man has learnt
@@ -1336,7 +1336,7 @@ diminishing size of the pelvis, tends to make normal birth impossible.
 
 <div class="footnote">
 
-<span id="an_fn_100_1"></span>[100\_1](fsgr07.htm#an_fr_100_1) *The
+<span id="an_fn_100_1"></span>[100\_1](fsgr07.htm#an_fr_100_1.md) *The
 Stoic Philosophy* (1915). See also Arnold's *Roman Stoicism* (1911);
 Bevan's *Stoics and Sceptics* (1913); and especially *Stoicorum Veterum
 Fragmenta* by von Arnim (1903-5).
@@ -1345,7 +1345,7 @@ Fragmenta* by von Arnim (1903-5).
 
 <div class="footnote">
 
-<span id="an_fn_101_1"></span>[101\_1](fsgr07.htm#an_fr_101_1) The chief
+<span id="an_fn_101_1"></span>[101\_1](fsgr07.htm#an_fr_101_1.md) The chief
 authorities on Epicurus are Usener's *Epicurea*, containing the *Life*
 from Diog. Laert., fragments and introduction: the papyrus fragments of
 Philodemus in *Volumina Herculanensia*; Diogenes of Oenoanda (text by
@@ -1356,7 +1356,7 @@ William, Teubner, 1907); the commentaries on Lucretius (Munro, Giussani,
 
 <div class="footnote">
 
-<span id="an_fn_103_1"></span>[103\_1](fsgr07.htm#an_fr_103_1) Epicurus
+<span id="an_fn_103_1"></span>[103\_1](fsgr07.htm#an_fr_103_1.md) Epicurus
 is the one philosopher who protests with real indignation against that
 inhuman superiority to natural sorrows which is so much prized by most
 of the ancient schools. To him such 'apathy' argues either a hard heart
@@ -1372,10 +1372,10 @@ barbarian prisoner (Fr. 194).
 
 <div class="footnote">
 
-<span id="an_fn_106_1"></span>[106\_1](fsgr07.htm#an_fr_106_1)
+<span id="an_fn_106_1"></span>[106\_1](fsgr07.htm#an_fr_106_1.md)
 Lucretius, i. 62-79, actually speaks of the great atheist in language
 taken from the Saviour Religions (see below,
-[162](fsgr08.htm#page_162)):
+[162](fsgr08.htm#page_162).md):
 
 <div class="poem">
 
@@ -1418,7 +1418,7 @@ see
 
 <div class="footnote">
 
-<span id="an_fn_107_1"></span>[107\_1](fsgr07.htm#an_fr_107_1) That is,
+<span id="an_fn_107_1"></span>[107\_1](fsgr07.htm#an_fr_107_1.md) That is,
 8,000 drachmae. Rents had risen violently in 314 and so presumably had
 land prices. Else one would say the Garden was about the value of a good
 farm. See Tarn in *The Hellenistic Age* (1923), p. 116.
@@ -1427,14 +1427,14 @@ farm. See Tarn in *The Hellenistic Age* (1923), p. 116.
 
 <div class="footnote">
 
-<span id="an_fn_108_1"></span>[108\_1](fsgr07.htm#an_fr_108_1) <u>τυρὸν
+<span id="an_fn_108_1"></span>[108\_1](fsgr07.htm#an_fr_108_1.md) <u>τυρὸν
 κυθρίδιον</u>, Fr. 182.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_108_2"></span>[108\_2](fsgr07.htm#an_fr_108_2) Fr. 143.
+<span id="an_fn_108_2"></span>[108\_2](fsgr07.htm#an_fr_108_2.md) Fr. 143.
 <u>Παιὰν ἄναξ, φίλον Λεοντάριον,</u> <u>οἴου κροτοθορύβου ἡμᾶς
 ἀνέπλησας,</u> <u>ἀναγνόντας σου τό ἐπιστόλιον.</u> Fr. 121 (from an
 enemy) implies that the Hetairae were expected to reform when they
@@ -1445,14 +1445,14 @@ entered the Garden. Cf. Fr. 62 <u>συνουσίη ὤνησε μὲν οὐδ�
 
 <div class="footnote">
 
-<span id="an_fn_109_1"></span>[109\_1](fsgr07.htm#an_fr_109_1) See
-[169](fsgr08.htm#page_169) below on Diogenes of Oenoanda.
+<span id="an_fn_109_1"></span>[109\_1](fsgr07.htm#an_fr_109_1.md) See
+[169](fsgr08.htm#page_169.md) below on Diogenes of Oenoanda.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_110_1"></span>[110\_1](fsgr07.htm#an_fr_110_1) Pleasures
+<span id="an_fn_110_1"></span>[110\_1](fsgr07.htm#an_fr_110_1.md) Pleasures
 and pains may be greater or less, but the complete 'removal of pain and
 fear' is a perfect end, not to be surpassed. Fr. 408-48, Ep. iii.
 129-31.
@@ -1461,7 +1461,7 @@ fear' is a perfect end, not to be surpassed. Fr. 408-48, Ep. iii.
 
 <div class="footnote">
 
-<span id="an_fn_110_2"></span>[110\_2](fsgr07.htm#an_fr_110_2) e. g.
+<span id="an_fn_110_2"></span>[110\_2](fsgr07.htm#an_fr_110_2.md) e. g.
 Plut. *Ne suaviter quidem vivi*, esp. chap. 17 (p. 1098 <span
 class="smcap">d</span>).
 
@@ -1469,7 +1469,7 @@ class="smcap">d</span>).
 
 <div class="footnote">
 
-<span id="an_fn_111_1"></span>[111\_1](fsgr07.htm#an_fr_111_1) Cf. Fr.
+<span id="an_fn_111_1"></span>[111\_1](fsgr07.htm#an_fr_111_1.md) Cf. Fr.
 141 when Epicurus writes to Colotes: 'Think of me as immortal, and go
 your ways as immortal too.'
 
@@ -1477,21 +1477,21 @@ your ways as immortal too.'
 
 <div class="footnote">
 
-<span id="an_fn_112_1"></span>[112\_1](fsgr07.htm#an_fr_112_1) Fr. 601;
+<span id="an_fn_112_1"></span>[112\_1](fsgr07.htm#an_fr_112_1.md) Fr. 601;
 cf. 598 ff.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_113_1"></span>[113\_1](fsgr07.htm#an_fr_113_1) Fr. 138;
+<span id="an_fn_113_1"></span>[113\_1](fsgr07.htm#an_fr_113_1.md) Fr. 138;
 cf. 177.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_113_2"></span>[113\_2](fsgr07.htm#an_fr_113_2) '<u>οἱ
+<span id="an_fn_113_2"></span>[113\_2](fsgr07.htm#an_fr_113_2.md) '<u>οἱ
 τούτοις ἀντιγράφοντες οὐ πάνυ τι μακρὰν</u> <u>τῆς τῶν πατραλοιῶν
 καταδίκης ἀφεστήκασιν</u>', Fr. 49. Usener, from Philodemus, *De Rhet.*
 This may be only a playful reference to Plato's phrase about being a
@@ -1502,7 +1502,7 @@ class="smcap">d</span>.
 
 <div class="footnote">
 
-<span id="an_fn_113_3"></span>[113\_3](fsgr07.htm#an_fr_113_3) Epicurus
+<span id="an_fn_113_3"></span>[113\_3](fsgr07.htm#an_fr_113_3.md) Epicurus
 congratulated himself (erroneously) that he came to Philosophy
 <u>καθαρὸς πάσης παιδείας</u>, 'undefiled by education'. Cf. Fr. 163 to
 Pythocles, <u>παιδείαν δὲ πᾶσαν, μακάριε, φεῦγε τὸ ἀκάτιον ἀράμενος</u>,
@@ -1512,14 +1512,14 @@ Pythocles, <u>παιδείαν δὲ πᾶσαν, μακάριε, φεῦγε 
 
 <div class="footnote">
 
-<span id="an_fn_113_4"></span>[113\_4](fsgr07.htm#an_fr_113_4) Fr.
+<span id="an_fn_113_4"></span>[113\_4](fsgr07.htm#an_fr_113_4.md) Fr.
 343-6.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_116_1"></span>[116\_1](fsgr07.htm#an_fr_116_1) Pythias
+<span id="an_fn_116_1"></span>[116\_1](fsgr07.htm#an_fr_116_1.md) Pythias
 was the niece, or ward, of Aristotle's friend, Hermias, an extraordinary
 man who rose from slavery to be first a free man and a philosopher, and
 later Prince or 'Dynast' of Assos and Atarneus. In the end he was
@@ -1532,8 +1532,8 @@ Roman *usus*.
 
 <div class="footnote">
 
-<span id="an_fn_116_2"></span>[116\_2](fsgr07.htm#an_fr_116_2) See note
-on [Dicaearchus](fsgr07.htm#an_Dicaearchus) at end of chapter.
+<span id="an_fn_116_2"></span>[116\_2](fsgr07.htm#an_fr_116_2.md) See note
+on [Dicaearchus](fsgr07.htm#an_Dicaearchus.md) at end of chapter.
 
 </div>
 
@@ -1541,6 +1541,6 @@ on [Dicaearchus](fsgr07.htm#an_Dicaearchus) at end of chapter.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Failure of Nerve](fsgr08)
+[Next: IV. The Failure of Nerve](fsgr08.md)
 
 </div>

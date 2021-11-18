@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index)
+[Sacred-Texts](../../index) [African](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ not just an error in the copy used for scanning or with this edition.
 
 ------------------------------------------------------------------------
 
-[Index](index)
+[Index](index.md)

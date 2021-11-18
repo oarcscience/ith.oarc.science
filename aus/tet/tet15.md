@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet14)  [Next](tet16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet14)  [Next](tet16.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ would not be told.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Costumes and Weapons](tet16)
+[Next: Chapter XIV. Costumes and Weapons](tet16.md)

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao61)   
-[Previous](tao60)  [Next](tao62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao61.md)   
+[Previous](tao60)  [Next](tao62.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ first practicing humility.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 62](tao62)
+[Next: Chapter 62](tao62.md)

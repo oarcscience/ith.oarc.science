@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim72)  [Next](sim74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim72)  [Next](sim74.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,7 +197,7 @@ The bear came and after a hard fight killed the Wind people.
 <span id="page_426">p. 426</span>
 
 When the brother and sister reached the next house an old
-DZOGÉO<sup>n</sup> <span id="fr_10"></span>[1](#fn_10) woman sat in
+DZOGÉO<sup>n</sup> <span id="fr_10"></span>[1](#fn_10.md) woman sat in
 front of it. She told them to go in, she would kill the bear. She had a
 great deal of bear fat. She told her three sons to make two fires on the
 tracks of the brother and sister, put a kettle over each fire and fill
@@ -240,9 +240,9 @@ way. The strength was in the tuft of hair.
 
 ### Footnotes
 
-<span id="fn_10"></span>[426:1](sim73.htm#fr_10) Very small people who
+<span id="fn_10"></span>[426:1](sim73.htm#fr_10.md) Very small people who
 usually live among rocks.
 
 ------------------------------------------------------------------------
 
-[Next: The Feast of the Whirlwinds](sim74)
+[Next: The Feast of the Whirlwinds](sim74.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](pell06)  [Next](pell08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](pell06)  [Next](pell08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pellucidar*, by Edgar Rice Burroughs, \[1915\], at Intangible Textual
 Heritage
 
@@ -435,4 +435,4 @@ And the wolf-dog pack was preparing to rush me.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. From Plight to Plight](pell08)
+[Next: Chapter VII. From Plight to Plight](pell08.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb21)  [Next](blfb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb21)  [Next](blfb23.md) 
 
 </div>
 
@@ -647,6 +647,6 @@ people just as they think they have obtained their heart's desires!\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Little Thumb](blfb23)
+[Next: Little Thumb](blfb23.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](mat)  [Next](luk) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](mat)  [Next](luk.md) 
 
 ------------------------------------------------------------------------
 
@@ -2362,4 +2362,4 @@ mindenütt, az Úr együtt munkálván velök, és megerõsítvén az ígét a j
 
 ------------------------------------------------------------------------
 
-[Next: Luke](luk)
+[Next: Luke](luk.md)

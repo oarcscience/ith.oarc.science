@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre69)  [Next](gre71) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre69)  [Next](gre71.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ sward on the cliff, and heaped stones up over it, and sat thereby.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXVI: Of the Dweller in the Cave under the Force](gre71)
+[Next: Chapter LXVI: Of the Dweller in the Cave under the Force](gre71.md)

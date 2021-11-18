@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre03)  [Next](gre05) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre03)  [Next](gre05.md) 
 
 ------------------------------------------------------------------------
 
@@ -627,4 +627,4 @@ Sagas](../index)  [Index](index)  [Previous](gre03)  [Next](gre05) 
 
 ------------------------------------------------------------------------
 
-[Next: Map of North-west Iceland \[201 kb\]](gre05)
+[Next: Map of North-west Iceland \[201 kb\]](gre05.md)

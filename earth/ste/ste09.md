@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste08)  [Next](ste10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste08)  [Next](ste10.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ inward parts, to shew in what order its Regions lay. Let us now close it
 up, and represent the Earth entire, and in larger proportions, more like
 an habitable World; as in this Figure, where you see the smooth convex
 of the Earth, and may imagine the great Abysse spread under it <span
-id="fr_4"></span>[2](#fn_4); which two are to be the only subject of our
+id="fr_4"></span>[2](#fn_4.md); which two are to be the only subject of our
 further contemplation.
 
 In this smooth Earth were the first Scenes of the World, and the first
@@ -52,7 +52,7 @@ demolish’d; and *Moses* saith, the *great Abysse*
 <span id="img_06500"></span>
 
 [![](tn/06500.jpg)  
-Click to enlarge](img/06500.jpg)
+Click to enlarge](img/06500.jpg.md)
 
 was broken open at the Deluge. Let us then suppose, that at a time
 appointed by Divine Providence, and from Causes made ready to do that
@@ -370,8 +370,8 @@ the old World*.
 
 ### Footnotes
 
-<span id="fn_4"></span>[64:2](ste09.htm#fr_4) *As at the aperture* a. a.
+<span id="fn_4"></span>[64:2](ste09.htm#fr_4.md) *As at the aperture* a. a.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](ste10)
+[Next: Chapter VII](ste10.md)

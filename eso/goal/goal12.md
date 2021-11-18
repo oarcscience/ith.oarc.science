@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal11)  [Next](goal13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal11)  [Next](goal13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -27,7 +27,7 @@ matter from a physical standpoint; but in their last analysis, viz.,
 their investigations into the molecule, atom, ion, and electron, and
 their deductions that, after all, the smallest particles of matter may
 be only "centers of force," they have invaded the realm of the
-[metaphysical](errata.htm#7). At this point the physicist stops to look
+[metaphysical](errata.htm#7.md). At this point the physicist stops to look
 around him for a base, a substantial foundation, to which he may unite
 his forces with the metaphysician's in pursuit of causation.
 
@@ -60,7 +60,7 @@ existence of the light, that we stumble and fall and perhaps destroy
 ourselves? No, as intelligent beings understanding the use of light,
 instead of looking at the lamp, we look around us and examine our
 pathway, and the light reveals to us the condition that
-[surrounds](errata.htm#8) us. This, then, is an illustration of what
+[surrounds](errata.htm#8.md) us. This, then, is an illustration of what
 *Revelation* is, and all revelation from the beginning of the world down
 to the present time is nothing more, nothing less, than a *light* in a
 dark place. One of the greatest lights that has ever been set in this
@@ -80,7 +80,7 @@ The great name of God was known from the earliest history of man to the
 time when Moses was called to deliver Israel from Egyptian bondage: but,
 like the name of the present day, it was to those early people only a
 word-sound or an appellation referring to a certain deity. But when
-Moses was commissioned to deliver [Israel](errata.htm#9) he was not
+Moses was commissioned to deliver [Israel](errata.htm#9.md) he was not
 given the name only, but he was given to know the meaning also, as we
 shall see further on.
 
@@ -345,4 +345,4 @@ the <span class="smallcaps">I will be what I will to be</span>.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Manifestation of Yahveh](goal13)
+[Next: Chapter IX. The Manifestation of Yahveh](goal13.md)

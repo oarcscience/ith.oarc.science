@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig26)  [Next](vig28) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig26)  [Next](vig28.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ When, however, they came off Ulfsdal, the ship went to pieces, and all
 the men and property on board her were lost. Glum got to the Thing with
 a hundred and twenty men, but he could not encamp nearer to the place
 itself than in the outer circle, or "verge" of the court.  <span
-id="fr_18"></span>[1](#fn_18) Einar, the son of Eyiolf, with the men of
+id="fr_18"></span>[1](#fn_18.md) Einar, the son of Eyiolf, with the men of
 Espihole, was already there. Word was sent to Glum that he was to
 present himself to the court, and produce his plea in answer to the
 indictment. Glum went accordingly, but the men were drawn up on both
@@ -66,7 +66,7 @@ Thing; then he protested solemnly against any judgment being given in
 the case before them. It followed from this protest that every suit
 before the court at once discontinued and fell to the ground. Men rode
 away, and the people of Espihole were very ill pleased with what had
-happened.  <span id="fr_19"></span>[2](#fn_19)  
+happened.  <span id="fr_19"></span>[2](#fn_19.md)  
         Thorarin declared that Glum had dealt vexatiously with them, but
 Einar replied, "The matter does not appear to me to be so very ugly, for
 the suit may be taken up again at the point where it left off."
@@ -90,18 +90,18 @@ with them.
 
 ### Footnotes
 
-<span id="fn_18"></span>[1](vig27.htm#fr_18) I believe that the word in
+<span id="fn_18"></span>[1](vig27.htm#fr_18.md) I believe that the word in
 the original "Fiörbaugsgardr’ occurs only twice in the sense of the
 verge or ring round the ground on which the Thing met. Mr. Dasent speaks
 of it as "an enclosed space near a court, a ‘verge’, or ‘liberty,’
 within which the Fiörbaugsmadr (that is one liable to the lesser
 outlawry) was safe." See preface to the Nial’s Saga, p. clxii.
 
-<span id="fn_19"></span>[2](vig27.htm#fr_19) The reason for this seems
+<span id="fn_19"></span>[2](vig27.htm#fr_19.md) The reason for this seems
 to be that the defendant was summoned to answer on a certain day, and
 when the sun rose again before he was formally called on, that day was
 over, and the whole proceedings were avoided.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV](vig28)
+[Next: Chapter XXV](vig28.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc123)  [Next](ffcc125) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc123)  [Next](ffcc125.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -96,14 +96,14 @@ weather, lest they should be kidnapped by them. These fairies were not
 Christians, and they were great thieves. They were fond of bright
 colours. They were sharp of hearing, and no word that reached the wind
 would escape them. If a fairy's proper name was discovered, the fairy to
-whom it belonged felt baffled. <span id="fr_47"></span>[1](#fn_46)
+whom it belonged felt baffled. <span id="fr_47"></span>[1](#fn_46.md)
 
 Some characteristics of the fairies seem to argue an ancient race, while
 other characteristics betray their origin in the workshop of the
 imagination; but generally speaking, the fairies are heterogeneous,
 consisting partly of the divinities of glens and forests and mountains,
 and partly of an early race of men more or less caricatured and equipped
-by fable with impossible attributes. <span id="fr_48"></span>[2](#fn_47)
+by fable with impossible attributes. <span id="fr_48"></span>[2](#fn_47.md)
 
 JESUS COLLEGE, OXFORD,  
 *October* 1910.
@@ -213,7 +213,7 @@ Llangefni again, and saw the same fairy woman who had given him the oil.
 well," he replied. Then the fairy woman added, "Tell me with which eye
 you see me best." "With this one," he said, pointing to the eye he had
 rubbed with the oil. And the fairy woman put her stick in that eye, and
-the farmer never saw with it again.' <span id="fr_49"></span>[1](#fn_48)
+the farmer never saw with it again.' <span id="fr_49"></span>[1](#fn_48.md)
 
 <span id="page_141">p. 141</span>
 
@@ -258,7 +258,7 @@ neighbours, like myself,
 
 thought I had seen one of the *Tylwyth Teg*. I was about twenty-four
 years old at the time of this incident.' <span
-id="fr_50"></span>[1](#fn_49)
+id="fr_50"></span>[1](#fn_49.md)
 
 ### TESTIMONY FROM A PROFESSOR OF WELSH
 
@@ -318,7 +318,7 @@ mother while hay-making was so unwise as to leave her babe alone in the
 field, the *Tylwyth Teg* might take it and leave in its place a
 hunchback, or some deformed object like a child. At night, the *Tylwyth
 Teg* would entice travellers to join their dance and then play all sorts
-of tricks on them.' <span id="fr_51"></span>[1](#fn_50)
+of tricks on them.' <span id="fr_51"></span>[1](#fn_50.md)
 
 Fairy Cows and Fairy Lake-Women.--'Some of the
 
@@ -455,7 +455,7 @@ seeing such islands trying to reach them; but when approached, the
 islands always disappeared. From a certain spot in Pembrokeshire, it is
 said that by standing on a turf taken from the yard of St. David's
 Cathedral, one may see the enchanted islands.' <span
-id="fr_52"></span>[1](#fn_51)
+id="fr_52"></span>[1](#fn_51.md)
 
 'Tylwyth Teg' as Spirits of Druids.--'By many of the old people the
 *Tylwyth Teg* were classed with spirits. They were not looked upon as
@@ -505,7 +505,7 @@ thought it spirits singing. Soon afterwards he and his brother in
 digging dikes in that field dug into a big hole, which they entered and
 followed to the end. There they found a place full of human bones and
 urns, and naturally decided on account of the singing that the bones and
-urns were of the *Tylwyth Teg*.' <span id="fr_53"></span>[1](#fn_52)
+urns were of the *Tylwyth Teg*.' <span id="fr_53"></span>[1](#fn_52.md)
 
 A Boy's Visit to the 'Tylwyth Teg's' King.--'About
 
@@ -533,7 +533,7 @@ He told his mother how he had been away for a fortnight, as he thought,
 but she told him it had been for two years. Though the boy often tried
 to find the way back to the *Tylwyth Teg* he never could. Finally, he
 went back to school, and became a most wonderful scholar and
-parson."' <span id="fr_54"></span>[1](#fn_53)
+parson."' <span id="fr_54"></span>[1](#fn_53.md)
 
 ### IN MERLIN'S COUNTRY; AND A VICAR'S TESTIMONY
 
@@ -544,7 +544,7 @@ own parish and in other regions
 <span id="page_150">p. 150</span>
 
 of Carmarthenshire, and is able to offer us evidence of the highest
-value, as follows:-- <span id="fr_55"></span>[1](#fn_54)
+value, as follows:-- <span id="fr_55"></span>[1](#fn_54.md)
 
 'Tylwyth Teg' Power over Children.--'The *Tylwyth Teg* were thought to
 be able to take children. "You mind, or the *Tylwyth Teg* will take you
@@ -593,7 +593,7 @@ estate of his deceased father, discovered the defrauder and recovered
 the estate, solely through having followed the advice given by the
 *Tylwyth Teg*, when (again as in the above account) they were called up
 as spirits by a *dyn hysbys*, a Mr. Harries, of Cwrt y Cadno, a place
-near Aberystwyth. <span id="fr_56"></span>[1](#fn_55)
+near Aberystwyth. <span id="fr_56"></span>[1](#fn_55.md)
 
 ### TESTIMONY FROM A JUSTICE OF THE PEACE
 
@@ -615,7 +615,7 @@ ab Don, *Gwyd* referring to a temperament in man's nature. His residence
 was among the stars, and called *Caer Gwydion*. His queen was
 *Gwenhidw*. I have heard my mother call the small fleece-like clouds
 which appear in fine weather the *Sheep of Gwenhidw*.' <span
-id="fr_57"></span>[1](#fn_56)
+id="fr_57"></span>[1](#fn_56.md)
 
 'Tylwyth Teg' as Aerial Beings.--Mr. Williams's testimony continues, and
 leads us directly to the Psychological or Psychical Theory:--'As aerial
@@ -626,7 +626,7 @@ almost always good.'
 
 Ghosts and Apparitions.--Our conversation finally drifted towards ghosts
 and apparitions, as usual, and to Druids. In the chapter dealing with
-Re-birth (pp. [390](ffcc270.htm#page_390)-1) we shall record what Mr.
+Re-birth (pp. [390](ffcc270.htm#page_390)-1.md) we shall record what Mr.
 Williams said about Druids, and here what he said about ghosts and
 apparitions:--'Sixty years ago there was hardly an individual who did
 not believe in apparitions; and in olden times Welsh families would
@@ -643,7 +643,7 @@ phantom funerals. One appeared to him once when he was with a friend.
 "Do you see it? Do you see it?" the old man excitedly asked. "No," said
 his friend. Then the old man placed his foot on his friend's foot, and
 said, "Do you see it now?" And the friend replied that he did.' <span
-id="fr_58"></span>[1](#fn_57)
+id="fr_58"></span>[1](#fn_57.md)
 
 Magic and Witchcraft.--Finally*,* we shall hear from Mr. Williams about
 Welsh magic and witchcraft, which cannot scientifically be divorced from
@@ -808,7 +808,7 @@ thing which beyond all doubt is true is that when Mr.------ died he left
 his son an estate worth about £50,000 (an amount probably greatly in
 excess of the true one); and people have always wondered ever since
 where it came from, if not in part from the golden image. <span
-id="fr_59"></span>[1](#fn_58)
+id="fr_59"></span>[1](#fn_58.md)
 
 <span id="page_158">p. 158</span>
 
@@ -856,7 +856,7 @@ is almost none. Belief in apparitions still exists to some extent. One
 may also hear of a person being pixy-led; the pixies may cause a
 traveller to lose his way at night if he crosses a field where they
 happen to be. To take your coat off and turn it inside out will break
-the pixy spell. <span id="fr_60"></span>[1](#fn_59) The *Verry Volk*
+the pixy spell. <span id="fr_60"></span>[1](#fn_59.md) The *Verry Volk*
 were always little people dressed in scarlet and green; and they
 generally showed themselves dancing on moonlight nights. I never heard
 of their making changelings, though they had the power of doing good or
@@ -876,7 +876,7 @@ could not find, placed them in position, then stretched the hide over
 them; and, as the farmer looked, the ox appeared as sound and fat as
 ever, but when he let it out to pasture in the morning he observed that
 it had a slight lameness in the leg lacking the missing bone.' <span
-id="fr_61"></span>[2](#fn_60)
+id="fr_61"></span>[2](#fn_60.md)
 
 <span id="page_160">p. 160</span>
 
@@ -922,7 +922,7 @@ rivers, or who are the
 <span id="page_161">p. 161</span>
 
 presiding spirits of sacred wells and fountains, <span
-id="fr_62"></span>[1](#fn_61) but these will have some consideration
+id="fr_62"></span>[1](#fn_61.md) but these will have some consideration
 later, in Section III. For the purposes of the present inquiry enough
 evidence has been offered to show the fundamental character of Brythonic
 fairy-folk as we have found them. And we can very appropriately close
@@ -1008,14 +1008,14 @@ the fairy-folk there.
 
 ### Footnotes
 
-<span id="fn_46"></span>[137:1](ffcc124.htm#fr_47) Sir John Rhy^s tells
+<span id="fn_46"></span>[137:1](ffcc124.htm#fr_47.md) Sir John Rhy^s tells
 me that this Snowdon fairy-lore was contributed by the late Lady Rhy^s,
 who as a girl lived in the neighbourhood of Snowdon and heard very much
 from the old people there, most of whom believed in the fairies; and she
 herself then used to be warned, in the manner mentioned, against being
 carried away into the under-lake Fairyland.
 
-<span id="fn_47"></span>[137:2](ffcc124.htm#fr_48) Cf. *Celtic Folklore,
+<span id="fn_47"></span>[137:2](ffcc124.htm#fr_48.md) Cf. *Celtic Folklore,
 Welsh* and *Manx*, pp. 683-4 n., where Sir John Rhy^s says of his
 friend, Professor A. C. Haddon:--'I find also that he, among others, has
 anticipated me in my theory as to the origins of the fairies; witness
@@ -1035,15 +1035,15 @@ told by men of the Iron Age of events which happened to men of the
 Bronze Age in their conflicts with men of the Neolithic Age, and
 possibly these, too, handed on traditions of the Palaeolithic Age.''
 
-<span id="fn_48"></span>[140:1](ffcc124.htm#fr_49) This is the one tale
+<span id="fn_48"></span>[140:1](ffcc124.htm#fr_49.md) This is the one tale
 I have found in North Wales about a midwife and fairies--a type of tale
 common to West Ireland, Isle of Man, Cornwall, and Brittany, but in a
 reverse version, the midwife there being (as she is sometimes in Welsh
 versions) one of the human race called in by fairies. if evidence of the
 oneness of the Celtic mind were needed we should find it here (Cf. pp.
-[50](ffcc121.htm#page_50), [54](ffcc121.htm#page_54),
-[127](ffcc123.htm#page_127), [175](ffcc125.htm#page_175),
-[182](ffcc125.htm#page_182), [205](ffcc126.htm#page_205)). There are in
+[50](ffcc121.htm#page_50), [54](ffcc121.htm#page_54.md),
+[127](ffcc123.htm#page_127), [175](ffcc125.htm#page_175.md),
+[182](ffcc125.htm#page_182), [205](ffcc126.htm#page_205).md). There are in
 this type of fairy tale, as the advocates of the Pygmy Theory may well
 hold, certain elements most likely traceable to a folk-memory of some
 early race, or special class of some early race, who knew the secrets of
@@ -1053,7 +1053,7 @@ idea--no matter what other ideas cluster round it--that fairies, like
 spirits, are only to be seen by an extra-human vision, or, as psychical
 researchers might say, by clairvoyance.
 
-<span id="fn_49"></span>[142:1](ffcc124.htm#fr_50) After this remarkable
+<span id="fn_49"></span>[142:1](ffcc124.htm#fr_50.md) After this remarkable
 story, Mrs. Jones told me about another very rare psychical experience
 of her own, which is here recorded because it Illustrates the working of
 the psychological law of the association of ideas:--'My husband, Price
@@ -1069,18 +1069,18 @@ Had this happened in West Ireland, it is almost certain that public
 opinion would have declared that Price Jones had been *taken* by the
 'gentry' or 'good people'.
 
-<span id="fn_50"></span>[143:1](ffcc124.htm#fr_51) Here we find the
+<span id="fn_50"></span>[143:1](ffcc124.htm#fr_51.md) Here we find the
 *Tylwyth Teg* showing quite the same characteristics as Welsh elves in
 general, as Cornish pixies, and as Breton *corrigans* or *lutins*; that
 is, given to dancing at night, to stealing children, and to deceiving
 traveller.
 
-<span id="fn_51"></span>[147:1](ffcc124.htm#fr_52) This folk-belief
+<span id="fn_51"></span>[147:1](ffcc124.htm#fr_52.md) This folk-belief
 partially sustains the view put forth in our chapter on Environment,
 that St. David's during pagan times was already a sacred spot and
 perhaps then the seat of a druidic oracle.
 
-<span id="fn_52"></span>[148:1](ffcc124.htm#fr_53) Here we have an
+<span id="fn_52"></span>[148:1](ffcc124.htm#fr_53.md) Here we have an
 example of the *Tylwyth Teg* being identified with a prehistoric race,
 quite in accordance with the argument of the Pygmy Theory. We have,
 however, as the essential idea, that the *Tylwyth Teg* heard singing
@@ -1090,23 +1090,23 @@ and the Pygmy Theory appears quite at its true relative value--as able
 to explain one subordinate ethnological strand in the complex fabric of
 the belief.
 
-<span id="fn_53"></span>[149:1](ffcc124.htm#fr_54) This story is much
+<span id="fn_53"></span>[149:1](ffcc124.htm#fr_54.md) This story is much
 like the one recorded by Giraldus Cambrensis about a boy going to
 Fairyland and returning to his mother (see this study, [p.
-324](ffcc250.htm#page_324)). The possibility that it may be an
+324](ffcc250.htm#page_324).md). The possibility that it may be an
 independent version of the folk-tale told to Cambrensis which has
 continued to live on among the people makes it highly interesting.
 
 Mr. Jones gives further evidence on the re-birth doctrine in Wales (pp.
-[388](ffcc270.htm#page_388)-9), and concerning Merlin and sacrifice to
-appease place-spirits (pp. [436](ffcc309.htm#page_436)-7).
+[388](ffcc270.htm#page_388)-9.md), and concerning Merlin and sacrifice to
+appease place-spirits (pp. [436](ffcc309.htm#page_436)-7.md).
 
-<span id="fn_54"></span>[150:1](ffcc124.htm#fr_55) As a result of his
+<span id="fn_54"></span>[150:1](ffcc124.htm#fr_55.md) As a result of his
 researches, the Rev. T. M. Morgan has just published a new work,
 entitled *The History and Antiquities of the Parish of Newchurch*
 (Carmarthen, 1910).
 
-<span id="fn_55"></span>[151:1](ffcc124.htm#fr_56) In these last two
+<span id="fn_55"></span>[151:1](ffcc124.htm#fr_56.md) In these last two
 anecdotes, as in modern 'Spiritualism', we observe a popular practice of
 necromancy or the calling up of spirits, so-called 'materialization' of
 spirits, and spirit communication through a human 'medium', who is the
@@ -1116,7 +1116,7 @@ fairies or the *Tylwyth Teg* were formerly the same to Welshmen as
 spirits are to Spiritualists now. We seem, therefore, to have proof of
 our Psychological Theory (see chap. xi).
 
-<span id="fn_56"></span>[152:1](ffcc124.htm#fr_57) Here we have a
+<span id="fn_56"></span>[152:1](ffcc124.htm#fr_57.md) Here we have a
 combination of many distinct elements and influences. As among mortals,
 so among the *Tylwyth Teg* there is a king; and this conception may have
 arisen directly from anthropomorphic influences on the ancient Brythonic
@@ -1128,7 +1128,7 @@ first, both gods were probably druidic or pagan, and the same, but
 *Gwynn ab Nudd* became a demon or evil god under Christian influences,
 while *Gwydion ab Don* seems to have curiously retained his original
 good reputation in spite of Christianity (cf. [p.
-320](ffcc250.htm#page_320)). The name *Gwenhidw* reminds us at once of
+320](ffcc250.htm#page_320).md). The name *Gwenhidw* reminds us at once of
 Arthur's queen *Gwenhwyvar* or 'White Apparition'; and the sheep of
 *Gwenhidw* can properly be explained by the Naturalistic Theory. It
 seems, however, that analogy was imaginatively suggested between the
@@ -1137,11 +1137,11 @@ being, and her sheep, the clouds, also of a necessarily ghost-like
 character. All this is an admirable illustration of the great complexity
 of the Fairy-Faith.
 
-<span id="fn_57"></span>[153:1](ffcc124.htm#fr_58) The parallel between
+<span id="fn_57"></span>[153:1](ffcc124.htm#fr_58.md) The parallel between
 this Welsh method of conferring vision and the Breton method is very
-striking (cf. [p. 215](ffcc126.htm#page_215))
+striking (cf. [p. 215](ffcc126.htm#page_215).md)
 
-<span id="fn_58"></span>[157:1](ffcc124.htm#fr_59) This is the substance
+<span id="fn_58"></span>[157:1](ffcc124.htm#fr_59.md) This is the substance
 of the story as it was told to me by a gentleman who lives within sight
 of the farm where the image is said to have been found. And one day he
 took me to the house and showed me the room and the place in the wall
@@ -1163,14 +1163,14 @@ forming like other cromlechs a darkened chamber in which novices when
 initiated were placed for a certain number of days--the interior being
 called the 'Womb or Court of Ceridwen'.
 
-<span id="fn_59"></span>[159:1](ffcc124.htm#fr_60) The same remedy is
+<span id="fn_59"></span>[159:1](ffcc124.htm#fr_60.md) The same remedy is
 prescribed in Brittany when mischievous *lutins* or *corrigans* lead a
 traveller astray, in Ireland when the *good people* lead a traveller
 astray; and at Rollright, Oxfordshire, England, an old woman told me
 that it is efficacious against being led astray through witchcraft.
 Obviously the fairy and witch spell are alike.
 
-<span id="fn_60"></span>[159:2](ffcc124.htm#fr_61) The same sort of a
+<span id="fn_60"></span>[159:2](ffcc124.htm#fr_61.md) The same sort of a
 story as this is told in Lower Brittany, where the *corrigans* or
 *lutins* slaughter a farmer's fat cow or ox and invite the farmer to
 partake of the feast it provides. If he does so with good grace and
@@ -1178,9 +1178,9 @@ humour, he finds his cow or ox perfectly whole in the morning, but if he
 refuses to join the feast or joins it unwillingly, in the morning he is
 likely to find his cow or ox actually dead and eaten.
 
-<span id="fn_61"></span>[161:1](ffcc124.htm#fr_62) See Sir John Rhy^s,
+<span id="fn_61"></span>[161:1](ffcc124.htm#fr_62.md) See Sir John Rhy^s,
 *Celtic Folk-Lore: Welsh and Manx* (Oxford, 1901), *passim*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Taking of Evidence: VI. In Cornwall](ffcc125)
+[Next: Chapter II. Taking of Evidence: VI. In Cornwall](ffcc125.md)

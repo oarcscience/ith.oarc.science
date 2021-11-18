@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc070) 
-[Next](motc072) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc070.md) 
+[Next](motc072.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ came a sound as of embers still crackling.
 
 ------------------------------------------------------------------------
 
-[Next: 72. The Hunter And Selu](motc072)
+[Next: 72. The Hunter And Selu](motc072.md)

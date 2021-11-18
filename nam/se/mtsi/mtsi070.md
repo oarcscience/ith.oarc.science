@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi069)  [Next](mtsi071) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi069)  [Next](mtsi071.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ having been so badly deceived.
 
 ------------------------------------------------------------------------
 
-[Next: 69. How Rabbit Got the Widow's Daughter](mtsi071)
+[Next: 69. How Rabbit Got the Widow's Daughter](mtsi071.md)

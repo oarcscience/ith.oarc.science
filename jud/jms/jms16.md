@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms15)  [Next](jms17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms15)  [Next](jms17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ happens to a man except at God's command"; "He decrees who shall be a
 scholar, and how much and for how long he shall study, and whether he
 will compose one, or two, or three books" and "just how many steps he
 will take in his lifetime, and how many men his eyes will
-behold."[1](jms35.htm#an_14_1) Essentially this was a thorough fatalism,
+behold."[1](jms35.htm#an_14_1.md) Essentially this was a thorough fatalism,
 though the rabbis were careful not to permit it to dominate the
 religious view of life.
 
@@ -77,7 +77,7 @@ in the elaborate comparisons between man and the world, between
 microcosmos and macroanthropos, which are to be found in Talmudic and
 medieval Jewish literature. Such treatises adduce parallels between the
 human body and the universe in the most minute
-detail.[2](jms35.htm#an_14_2)) Events predetermined in the mind of God
+detail.[2](jms35.htm#an_14_2).md) Events predetermined in the mind of God
 impinge upon one or another aspect of His universe long before they
 reach the final stage of occurrence on earth; the superior sensitivity
 of certain parts of the world, and even of parts of man's immediate
@@ -121,7 +121,7 @@ married a wife, or fathered a child, his affairs are successful or the
 reverse on three separate occasions, he may consider these to be
 portents of good or bad fortune. This passage was construed in later
 times as granting *carte blanche* to pursue the art, and to expand
-it.[3](jms35.htm#an_14_3)
+it.[3](jms35.htm#an_14_3.md)
 
 During the Middle Ages, taking omens from bodily phenomena was a very
 popular pastime among Christians and Jews. The following passages, from
@@ -146,7 +146,7 @@ his forehead, people are looking for him and want to see him; his palm,
 he will hold in his hand gold or silver; his nose \[he will be angry\];
 under his eyes and near his nose, he will weep. Itching in any part of
 the body is an omen. . . . God apprises man, through bodily phenomena,
-of what will transpire."[4](jms35.htm#an_14_4)
+of what will transpire."[4](jms35.htm#an_14_4.md)
 
 Sneezes also were regarded as in some degree portentous. According to
 primitive views sneezing is the work of the spirits, and this is why,
@@ -162,7 +162,7 @@ wait, O Lord." The ominous nature of the sneeze is not mentioned in
 medieval Jewish literature, beyond the recital of this legend, but the
 masses were probably alive to it. Several writers repeated the contrary
 Talmudic statement to the effect that sneezing during prayers is a good,
-and letting wind, a bad sign.[5](jms35.htm#an_14_5)
+and letting wind, a bad sign.[5](jms35.htm#an_14_5.md)
 
 Animals, too, were closely watched for signs of the future. The
 disconsolate howling of a dog is a certain indication that the angel of
@@ -191,7 +191,7 @@ immediately any goose or cock which upsets a dish or any other vessel.
 This is a sign of bad luck which the death of the fowl may help to
 avert. One of our authors grudgingly apprises us that "there are wise
 men who can foretell the future by means of trees and herbs," and then
-drops the subject without going into detail.[6](jms35.htm#an_14_6)
+drops the subject without going into detail.[6](jms35.htm#an_14_6.md)
 
 "No superstition," wrote Grimm, "struck deeper root throughout the
 entire Middle Ages than those omens comprised under the terms *aneganc*,
@@ -210,7 +210,7 @@ an act that involved some loss, for it was feared that the succeeding
 period would take its character from that act. If the tax-collector was
 making his rounds, or a friend was so thoughtless as to try to collect
 an old debt, they were put off until the next day. Why make bad enough
-worse?[7](jms35.htm#an_14_7)
+worse?[7](jms35.htm#an_14_7.md)
 
 A bucolic environment and interest are displayed in the prediction of
 weather from the omens. For instance, one list cites the following
@@ -221,7 +221,7 @@ earth, or stretch their necks toward the north, if the dogs paw holes in
 the ground, if the cattle dip their lips into the water when they are
 not thirsty, if spiders’ webs fall off of themselves when there is no
 wind to blow them down—all these are certain signs of the coming
-floods.[8](jms35.htm#an_14_8)
+floods.[8](jms35.htm#an_14_8.md)
 
 Among other such superstitions I may mention the following: A seminal
 pollution on the Day of Atonement was generally believed to token death
@@ -244,7 +244,7 @@ is true and irrefutable, for many men have tested it"! German Christians
 also held this view, and the idea met with in medieval Lorraine, that by
 covering the fire a girl could rid herself of a persistent suitor, is
 explicable only on the basis of the same
-conception.[9](jms35.htm#an_14_9)
+conception.[9](jms35.htm#an_14_9.md)
 
 Foodstuffs were on occasion regarded as tokens of good fortune. If eggs
 were not to be eaten on Saturday evening, the beginning of the week,
@@ -263,7 +263,7 @@ indication of the extreme tenuousness of some of these associations, was
 the avoidance of nuts, because *egoz* (nut) is arithmetically equivalent
 to *ḥet* (sin). In some communities it was customary to set the table
 for this meal completely with new linens and utensils, "as a good
-omen."[9a](jms35.htm#an_14_9a)
+omen."[9a](jms35.htm#an_14_9a.md)
 
 The portents which were read out of, or into, the accidents of life,
 were no doubt vastly more numerous than the literature discloses. Every
@@ -276,7 +276,7 @@ a cut of meat, can tell whether the
 
 <span id="page_214">p. 214</span>
 
-butcher had intercourse the night before"![10](jms35.htm#an_14_10) This
+butcher had intercourse the night before"![10](jms35.htm#an_14_10.md) This
 may not be foretelling the future, which is, after all, not so difficult
 if the alibis are prepared in advance, but it does involve a much rarer
 skill, discovering what happened last night, which, as any historian can
@@ -312,7 +312,7 @@ could count on one more year of life, at the least. These ten days are
 traditionally accepted as the period during which the fate of each man
 is determined in heaven. Light is universally regarded as a symbol of
 life. The association is logical and obvious, if we accept the
-premises.[12](jms35.htm#an_14_12)
+premises.[12](jms35.htm#an_14_12.md)
 
 Even more intimately bound up with the human being than light is man's
 shadow, which among primitive peoples is regarded as a part of the body,
@@ -343,7 +343,7 @@ commentator and philosopher, Naḥmanides. I should add that the Jewish
 basis for this custom was adduced from a rendering of Nu. 14:9 which
 gave the sense "their shadow is removed from them" to words which are
 usually otherwise translated. This custom was repeatedly mentioned by
-later German-Jewish writers.[13](jms35.htm#an_14_13)
+later German-Jewish writers.[13](jms35.htm#an_14_13.md)
 
 A related belief was that the reflection of a man who is doomed to die
 will show him with his eyes and mouth closed, even though he has them
@@ -353,7 +353,7 @@ peer into a basin of water with eyes and mouth gaping wide, to discover
 their fate. In time, we learn, this practice (oil occasionally being
 used instead of water) was transferred by Jews to the night of *Hoshana
 Rabbah*, though some observed it on *Yom
-Kippur*.[14](jms35.htm#an_14_14)
+Kippur*.[14](jms35.htm#an_14_14.md)
 
 Of a similar nature was the belief that if one saw his image with a halo
 encircling his head, this too was a token of imminent death; when God
@@ -369,7 +369,7 @@ in the Middle Ages, it seems, God still clung to His ancient ways. It
 is, further, "well known in medicine" that when a man has been bitten by
 any virulent animal, such as a mad dog, "if he beholds the image of the
 dog when he looks into water, the bite will be
-fatal."[15](jms35.htm#an_14_15)
+fatal."[15](jms35.htm#an_14_15.md)
 
 The familiar use of Scripture in divining (Bibliomancy) was not unknown
 to Jews. The Romans had thus employed Vergil; the Bible was already put
@@ -383,7 +383,7 @@ opening the Bible at random and taking the first word or sentence that
 strikes the eye as a portent, was also followed. Similarly, "if, upon
 awakening, one recalls a Biblical verse, this is to be regarded as a
 'minor prophecy,' and if it is an ominous passage, one should
-fast."[19](jms35.htm#an_14_19)
+fast."[19](jms35.htm#an_14_19.md)
 
 These methods required no special skill and could be readily applied by
 anyone. Many of the more highly reputed techniques, however, were not
@@ -411,7 +411,7 @@ up occasionally in the medieval period. One writer went so far as to
 explain the rite of examining the finger-nails by the light of the
 *Habdalah* candle on this ground: "We are accustomed to study our hands
 in the light because the wise man can read in them our fate and the good
-fortune which is about to befall us."[17](jms35.htm#an_14_17)
+fortune which is about to befall us."[17](jms35.htm#an_14_17.md)
 
 Casting lots (Sortilege) was a common divinatory practice during the
 Middle Ages. Though such simple devices as tossing a coin, throwing
@@ -432,7 +432,7 @@ North as well, but there is no such work which can definitely be traced
 to Northern Europe. These works comprised sets of rules for finding
 answers to specified questions by means of the twelve signs of the
 Zodiac, the twenty-two letters of the alphabet, the names of the twelve
-tribes, animals, birds, cosmic phenomena, etc.[18](jms35.htm#an_14_18)
+tribes, animals, birds, cosmic phenomena, etc.[18](jms35.htm#an_14_18.md)
 
 A man's name, the matrix of his character and personality, was also
 useful in deciphering his fate (Onomancy). One method, employed to
@@ -442,7 +442,7 @@ were of the same type, that is, both were Jews, followed the same trade
 or profession, possessed the same degree of learning, etc., the one
 whose name after the operation left the larger balance, was the
 superior. If they were dissimilar in type, then the smaller balance
-denoted the successful one.[19](jms35.htm#an_14_19)
+denoted the successful one.[19](jms35.htm#an_14_19.md)
 
 Geomancy, which, Thorndike says, "seems to have been nearly as popular
 in the medieval period as the ouija board is now" (or was in 1923, when
@@ -461,7 +461,7 @@ the Middle Ages, at least, any kind of writing material would do as
 well." Our sources tell us of "diviners who use sand and stones," and
 one refers more specifically to those who "make dots on paper or in
 sand." The reference is unmistakably to practitioners of
-geomancy.[20](jms35.htm#an_14_20)
+geomancy.[20](jms35.htm#an_14_20.md)
 
 These instances involved not merely the divinatory process itself, but
 also certain magical acts to which was attributed in the end the success
@@ -502,7 +502,7 @@ The oil and the discs are to be preserved, for the former now possesses
 miraculous healing powers, while the latter make potent amulets against
 evil spirits and the evil eye. These receipts indicate clearly the
 intimate connection between magic and
-divination.[21](jms35.htm#an_14_21)
+divination.[21](jms35.htm#an_14_21.md)
 
 Other methods, equally well known in Christian Europe, were to interpret
 the shapes assumed by drops of oil or melted wax floating on the surface
@@ -515,7 +515,7 @@ there, bow, encircle the spot once, bow again toward the east," and
 recite a charm which concludes, "If my venture is to prove successful,
 then you must remain in bloom; if not, then must you droop to the
 earth." Return in the morning and learn how your undertaking will turn
-out.[22](jms35.htm#an_14_22)
+out.[22](jms35.htm#an_14_22.md)
 
 #### THE DIVINING PRINCES
 
@@ -541,12 +541,12 @@ sight
 
 or some other evil. Even the holy patens "daruf man Got in der mess
 handelt and wandelt" were used by unscrupulous priests for this
-purpose.[23](jms35.htm#an_14_23)
+purpose.[23](jms35.htm#an_14_23.md)
 
 This technique was known to Jews in Talmudic times: "It is permitted to
 enquire of the 'princes of oil' and the 'princes of eggs,' but \[one
 does not do so because\] they lie." It may even be that Joseph's
-divining cup (Gen. 44:5) was similarly employed.[24](jms35.htm#an_14_24)
+divining cup (Gen. 44:5) was similarly employed.[24](jms35.htm#an_14_24.md)
 During the Middle Ages the Talmudic terminology was retained, and we
 read of "princes" of glass, the thumb-nail, etc. The "princes" were the
 figures that appeared upon the polished surfaces, and though "they lie"
@@ -585,7 +585,7 @@ procedure two or three times and she doesn't appear; she may
 <span id="page_221">p. 221</span>
 
 be asleep. When she departs the boy should say to her, 'Go in peace, and
-come again when my master wishes.'"[25](jms35.htm#an_14_25)
+come again when my master wishes.'"[25](jms35.htm#an_14_25.md)
 
 The details differed for the various materials employed, but the general
 outline of the performance was in all cases as it is here given. So
@@ -600,7 +600,7 @@ diviner on the ground that "in such matters it is customary to pay more
 than merely enough to cover the labor involved"—that is, he recognized
 the professional status of the plaintiff. It is significant that not a
 word of condemnation or censure was expressed in this
-decision.[26](jms35.htm#an_14_26)
+decision.[26](jms35.htm#an_14_26.md)
 
 While this means of divination seems to have been most often used in
 cases of theft, it was also employed to disclose events that were yet to
@@ -625,7 +625,7 @@ real enough, honest-to-goodness demons, though some few, like the
 priests who used their patens as crystals, "hetten glauben das allein
 die hailigen engel darin erscheinen möchten and chain tewfel." Dr.
 Hartlieb had no patience with such a notion; "dieselben haben gar vast
-geirret," he wrote.[27](jms35.htm#an_14_27)
+geirret," he wrote.[27](jms35.htm#an_14_27.md)
 
 The same questions agitated Jewish minds. In general the
 
@@ -649,7 +649,7 @@ delude men. Still a third group maintains that the angels penetrate the
 minds of men and so shape their thoughts as to create a true picture,
 which, although it is not perceived through the senses, possesses
 nevertheless subjective reality. This last corresponds to his own view
-of the matter.[28](jms35.htm#an_14_28)
+of the matter.[28](jms35.htm#an_14_28.md)
 
 #### NECROMANCY
 
@@ -681,7 +681,7 @@ spirits of dead and living celebrate the day of rest, the necromancer
 too must perforce call it a holiday. And finally, it is noted that "the
 questioner hears, but sees nothing, the questioned sees, but hears
 nothing, and others present neither see nor
-hear."[29](jms35.htm#an_14_29)
+hear."[29](jms35.htm#an_14_29.md)
 
 The Talmud knew two kinds of necromancy, one in which the dead is raised
 by naming him, the other in which he is questioned by means of a skull.
@@ -725,7 +725,7 @@ they invoked the dead, spirit and body, to gain the information they
 sought. Indeed, not only the spirit, but actually the body was believed
 to rise from the grave, for we are told that "if one were to open the
 grave while the necromancer is conversing with the dead it would be
-found empty."[30](jms35.htm#an_14_30)
+found empty."[30](jms35.htm#an_14_30.md)
 
 Other methods described in the sources comprise: 1. "incantations" at
 the grave, which were apparently not favored, for the word *laḥash*
@@ -753,7 +753,7 @@ question which I shall put to him'; and the deceased will immediately
 appear. But if he doesn't, repeat this invocation a second time, and if
 necessary, a third. When he appears place the bowl before him, and
 converse with him. Hold a myrtle wand in your
-hand."[31](jms35.htm#an_14_31)
+hand."[31](jms35.htm#an_14_31.md)
 
 #### BURIED TREASURE
 
@@ -821,7 +821,7 @@ literature. And then comes the grand climax, the glitter of gold and
 jewels through the broken earth. But at this juncture the
 treasure-hunter is apparently struck dumb—or else it is left for him to
 find the words which can adequately close his profitable
-adventure.[32](jms35.htm#an_14_32)
+adventure.[32](jms35.htm#an_14_32.md)
 
 The device was used not only to discover buried wealth, but also to
 obtain sought-after information. The rods were prepared in the same way,
@@ -833,7 +833,7 @@ still. By the almighty God, Amen." There follows a series of other
 conjurations, by "the three who were ready to die for the truth" (Dan.
 3:19ff.), by the Torah, by the Tetragrammaton, and by other, less
 comprehensible names, intended to impress upon the forked stick its
-owner's insistence upon a truthful reply.[33](jms35.htm#an_14_33)
+owner's insistence upon a truthful reply.[33](jms35.htm#an_14_33.md)
 
 There were also other methods of tracing hidden treasure. One of them
 required that a certain "holy and pure" name be inscribed on a small
@@ -852,7 +852,7 @@ ground
 
 <span id="page_227">p. 227</span>
 
-in the spot where the hidden thing lies."[34](jms35.htm#an_14_34) It
+in the spot where the hidden thing lies."[34](jms35.htm#an_14_34.md) It
 must be a mighty precious "thing" to warrant such heroic measures to
 recover it!
 
@@ -883,7 +883,7 @@ certain suspected sorceresses, "the sage" reproved them with the words,
 announcement be made in the synagogue, at a time when the suspects were
 present, that if any children were harmed "the teeth of these women
 would be ground with the stones that surround the well, and the guilty
-ones will die within the hour."[35](jms35.htm#an_14_35)
+ones will die within the hour."[35](jms35.htm#an_14_35.md)
 
 A popular medieval belief which was accepted by Jews was that the wounds
 of a murdered person begin to bleed again in the presence of the
@@ -903,7 +903,7 @@ again, of Solomon, before whom two claimants to an estate appeared, each
 maintaining he was the true son and heir. The judge had a bone from the
 dead man's body placed successively into two bowls containing blood
 drawn from their veins; the bone absorbed the blood of the real son, but
-rejected the blood of the impostor.[36](jms35.htm#an_14_36)
+rejected the blood of the impostor.[36](jms35.htm#an_14_36.md)
 
 Israel Isserlein's biographer relates an incident which, while it did
 not constitute an actual ordeal by fire for judicial purposes, involved
@@ -914,7 +914,7 @@ Wiener-Neustadt, Isserlein's home, and launched a vitriolic attack upon
 Judaism. The rabbi publicly offered to follow the cleric through a
 bonfire, to test the relative merits of Judaism and Christianity, but
 "the priest went his way and nothing came of the
-matter."[37](jms35.htm#an_14_37)
+matter."[37](jms35.htm#an_14_37.md)
 
 The trial by combat, or duel, was another form of the ordeal carried out
 under ecclesiastical auspices, with the aid of the prescribed ritual. In
@@ -948,8 +948,8 @@ record that "Elyes Blund, Jew of Lincoln, gives 200 marks and 2 marks of
 gold that the duel pledged against him at Nottingham, in the sixth year,
 may remain." Nor was it unknown for Jews on the continent to fight
 duels, relying upon the supernatural to judge the merit of their
-cause.[38](jms35.htm#an_14_38)
+cause.[38](jms35.htm#an_14_38.md)
 
 ------------------------------------------------------------------------
 
-[Next: 15. Dreams](jms17)
+[Next: 15. Dreams](jms17.md)

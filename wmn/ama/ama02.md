@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama01)  [Next](ama03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama01)  [Next](ama03.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 [![BERLIN MUSEUM, WOUNDED AMAZON.&lt;BR&gt; ATTRIBUTED TO POLYCLETUS,
 SCULPTOR.](tn/00100.jpg)  
-Click to enlarge](img/00100.jpg)  
+Click to enlarge](img/00100.jpg.md)  
 BERLIN MUSEUM, WOUNDED AMAZON.  
 ATTRIBUTED TO POLYCLETUS, SCULPTOR.  
 
@@ -462,7 +462,7 @@ the myth-mongers, a full thousand years later than the
 <span id="img_01600"></span>
 
 [![CAPITOL MUSEUM, WOUNDED AMAZON.](tn/01600.jpg)  
-Click to enlarge](img/01600.jpg)  
+Click to enlarge](img/01600.jpg.md)  
 CAPITOL MUSEUM, WOUNDED AMAZON.  
 
  
@@ -579,7 +579,7 @@ on her lance with her right hand (but this has been restored so as to
 <span id="img_02100"></span>
 
 [![VIENNA, WOUNDED AMAZON](tn/02100.jpg)  
-Click to enlarge](img/02100.jpg)  
+Click to enlarge](img/02100.jpg.md)  
 VIENNA, WOUNDED AMAZON  
 
  
@@ -634,4 +634,4 @@ admiration and pity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Amazons of Antiquity](ama03)
+[Next: Chapter II. The Amazons of Antiquity](ama03.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](frr00)
+[Contents](#contents)    [Start Reading](frr00.md)
 
 ------------------------------------------------------------------------
 
@@ -51,29 +51,29 @@ in etext from several sources, particuarly Project Gutenberg, this is
 the first version on the web which preserves the pagination and
 italicization of the first edition. This is vital for citation purposes.
 Greek and a few other characters have been transcribed in
-[Unicode](../../unicode), and a number of transcription errors found in
+[Unicode](../../unicode.md), and a number of transcription errors found in
 other etexts have been corrected.
 
 --J. B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](frr00)  
-[Preface](frr01)  
-[Contents](frr02)  
-[Quotes](frr03)  
-[Chapter I. Introductory](frr04)  
-[Chapter II. The Task of the Hero](frr05)  
-[Chapter III. The Freeing of the Waters](frr06)  
-[Chapter IV. Tammuz and Adonis](frr07)  
-[Chapter V. Medieval and Modern Forms of Nature Ritual](frr08)  
-[Chapter VI. The Symbols](frr09)  
-[Chapter VII. The Sword Dance](frr10)  
-[Chapter VIII. The Medicine Man](frr11)  
-[Chapter IX. The Fisher King](frr12)  
-[Chapter X. The Secret of the Grail (1): The Mysteries](frr13)  
+<span id="contents"></span> [Title Page](frr00.md)  
+[Preface](frr01.md)  
+[Contents](frr02.md)  
+[Quotes](frr03.md)  
+[Chapter I. Introductory](frr04.md)  
+[Chapter II. The Task of the Hero](frr05.md)  
+[Chapter III. The Freeing of the Waters](frr06.md)  
+[Chapter IV. Tammuz and Adonis](frr07.md)  
+[Chapter V. Medieval and Modern Forms of Nature Ritual](frr08.md)  
+[Chapter VI. The Symbols](frr09.md)  
+[Chapter VII. The Sword Dance](frr10.md)  
+[Chapter VIII. The Medicine Man](frr11.md)  
+[Chapter IX. The Fisher King](frr12.md)  
+[Chapter X. The Secret of the Grail (1): The Mysteries](frr13.md)  
 [Chapter XI. The Secret of the Grail (2): The Naassene
-Document](frr14)  
-[Chapter XII. Mithra and Attis](frr15)  
-[Chapter XIII. The Perilous Chapel](frr16)  
-[Chapter XIV. The Author](frr17)  
+Document](frr14.md)  
+[Chapter XII. Mithra and Attis](frr15.md)  
+[Chapter XIII. The Perilous Chapel](frr16.md)  
+[Chapter XIV. The Author](frr17.md)  

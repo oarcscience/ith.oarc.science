@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,6 +13,6 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](gio00)  
-[Foreword](gio01)  
-[The Story of Gio](gio02)  
+[Title Page](gio00.md)  
+[Foreword](gio01.md)  
+[The Story of Gio](gio02.md)  

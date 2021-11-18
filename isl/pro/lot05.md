@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](lot04)  [Next](jj00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](lot04)  [Next](jj00.md) 
 
 ------------------------------------------------------------------------
 
@@ -245,4 +245,4 @@ id="029_029"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Jacob and Joseph (PUT)](jj00)
+[Next: Jacob and Joseph (PUT)](jj00.md)

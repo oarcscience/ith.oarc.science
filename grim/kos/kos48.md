@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos47)  [Next](kos49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos47)  [Next](kos49.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ of Mercury; the wicks should have been made by a young girl; and the
 Candles should be made when the moon is in her increase, of the weight
 of half a pound each, and on them thou shalt engrave these characters
 with the Dagger, or the Burin of Art. (*See [Figure
-84](kos44.htm#img_kos14)*.)
+84](kos44.htm#img_kos14)*..md)
 
 After this thou shalt repeat over the Candles, Psalms cli.; ciii.;
 cvii., and shalt say:--
@@ -63,4 +63,4 @@ Circle, or any other purpose for which thou shalt require it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. Concerning the Precepts of the Art](kos49)
+[Next: Chapter XIII. Concerning the Precepts of the Art](kos49.md)

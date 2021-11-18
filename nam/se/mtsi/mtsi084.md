@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi083)  [Next](mtsi085) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi083)  [Next](mtsi085.md) 
 
 ------------------------------------------------------------------------
 
-### 82. THE ORIGIN OF RACES <span id="fr_16"></span>[1](#fn_16)
+### 82. THE ORIGIN OF RACES <span id="fr_16"></span>[1](#fn_16.md)
 
 There is an old story to the effect that some people once came to a very
 small pool of water to bathe. The man who entered this first came out
@@ -19,9 +19,9 @@ are the negroes.
 
 ### Footnotes
 
-<span id="fn_16"></span>[74:1](mtsi084.htm#fr_16) See footnote to next
+<span id="fn_16"></span>[74:1](mtsi084.htm#fr_16.md) See footnote to next
 story.
 
 ------------------------------------------------------------------------
 
-[Next: 83. The Origin of Races (Second Version)](mtsi085)
+[Next: 83. The Origin of Races (Second Version)](mtsi085.md)

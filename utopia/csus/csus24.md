@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus23)  [Next](csus25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus23)  [Next](csus25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ cattle and pigs were straying
 <span id="img_32400"></span>
 
 [![THE BETHEL COMMUNE, MISSOURI.](tn/32400.jpg)  
-Click to enlarge](img/32400.jpg)  
+Click to enlarge](img/32400.jpg.md)  
 THE BETHEL COMMUNE, MISSOURI.  
 
 <span id="page_325">p. 325</span>
@@ -62,7 +62,7 @@ THE BETHEL COMMUNE, MISSOURI.
 <span id="img_32500"></span>
 
 [![CHURCH AT BETHEL, MISSOURI.](tn/32500.jpg)  
-Click to enlarge](img/32500.jpg)  
+Click to enlarge](img/32500.jpg.md)  
 CHURCH AT BETHEL, MISSOURI.  
 
 about it, too, and altogether it did not look very prosperous. But the
@@ -260,4 +260,4 @@ lived by individual effort.
 
 ------------------------------------------------------------------------
 
-[Next: The Icarians](csus25)
+[Next: The Icarians](csus25.md)

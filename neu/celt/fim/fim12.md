@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fim11)  [Next](fim13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fim11)  [Next](fim13.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 T may possibly be considered that the above heading is a contradiction
 in terms, for, as Dr. E. B. Tylor remarks, "the distinction between a
@@ -26,7 +26,7 @@ manner in which Society compels obedience to it. If a judge or tribunal
 declares the rule, and punishes its infraction, it is a law; if it is
 left loosely to public opinion to practically accept the rule, and to
 visit those who disobey with blame, insult, and social exclusion, it is
-a custom." <span id="fr_139"></span>[1](#fn_135) But many of the
+a custom." <span id="fr_139"></span>[1](#fn_135.md) But many of the
 following customs originated in popular usage long before there was any
 law to enforce them; and they could only have continued, without being
 enforced by law, as long as popular opinion was unanimously in their
@@ -44,7 +44,7 @@ was called. We find the Deemsters, in 1417, informing Sir John Stanley
 that it was one of the constitutions "of old time" that every man was
 liable to perform the duties of "Watch and Ward" upon pain of life and
 limb, "for whosoever fails any night in his ward forfeiteth a wether to
-the warden; <span id="fr_140"></span>[2](#fn_136) and to the warden the
+the warden; <span id="fr_140"></span>[2](#fn_136.md) and to the warden the
 second night a calve; and the
 
 <span id="page_166">p. 166</span>
@@ -60,7 +60,7 @@ be careful; and that the night watch shall come at the sun setting, and
 not depart before the sun rising; and that the day watch shall come at
 the sun rising, and not depart before the sun setting." This "Watch and
 Ward" was kept on various points of vantage round the coast, where the
-existence of watch stations is [still](errata.htm#38) recorded by such
+existence of watch stations is [still](errata.htm#38.md) recorded by such
 names as *Cronk-ny-Arrey*, "Hill of the Watch," and *Cronk-ny-Arrey
 Laa*, "Hill of the Day Watch."
 
@@ -69,7 +69,7 @@ Laa*, "Hill of the Day Watch."
 We have already mentioned the Tenure by the presentation and custody of
 a Saint's Staff under St. Patrick's Day (see p. 108); the following
 customary payments are also noteworthy: An ox was formerly exacted from
-[the](errata.htm#39) tenants of the Bishop's Barony on the installation
+[the](errata.htm#39.md) tenants of the Bishop's Barony on the installation
 of each Bishop, as will be seen by the following extract from the
 ecclesiastical records:
 
@@ -227,7 +227,7 @@ the Executore and immediately the same daye being the second of July Ano
 1616 they did recover of the Executore vij<sup>s</sup> ij<sup>d</sup>
 after the accounte was made by me Edw Caloe Vic<sup>r</sup> (of Malew);"
 and, as we have seen above, purgation was included in the
-[ecclesiastical](errata.htm#40) laws in 1665. Moreover, as we shall see
+[ecclesiastical](errata.htm#40.md) laws in 1665. Moreover, as we shall see
 below; Bishop Wilson,, in the eighteenth century, approved of it and
 quoted Exodus xxii., 11., and Leviticus v., 1., in its favor.
 
@@ -352,7 +352,7 @@ with the time when he is to
 appear, and at whose suit; which, if he refuses to obey, he is fined or
 committed to prison, until he give bonds to appear and pay costs."
 
-Bishop Gibson (1695) <span id="fr_141"></span>[1](#fn_137) says that
+Bishop Gibson (1695) <span id="fr_141"></span>[1](#fn_137.md) says that
 "This stone, so marked is called a Token, which, being given to the
 plaintiff, he delivereth it to the Coroner of the place where the
 defendant resides, and the defendant, having received it, is bound to
@@ -424,7 +424,7 @@ to refuse it), and a severe penalty is laid upon any that, after this,
 revive the scandal. On the other hand, if a man will not swear to his
 own innocency, or cannot prevail with others to believe him, it is fit
 he should be treated as guilty, and the scandal removed by a proper
-censure." <span id="fr_142"></span>[1](#fn_138)
+censure." <span id="fr_142"></span>[1](#fn_138.md)
 
 #### EXCOMMUNICATION.
 
@@ -479,7 +479,7 @@ the Sumner 2d, and if the offender bring not a sheet he is to pay the
 Sumner 4d for furnishing him, and no appeal be from the Church, and none
 offending be privileged from censures." The 5th ecclesiastical
 constitution, passed under the superintendence of Bishop Wilson in 1703,
-makes the punishment of Penance and [Excommunication](errata.htm#41)
+makes the punishment of Penance and [Excommunication](errata.htm#41.md)
 still more severe. It runs as follows: "For the more effectual
 discouragement of Vice, if any Person shall incurr the censures of the
 Church, and, having done Penance, shall afterwards incurr the same
@@ -752,19 +752,19 @@ third. No reason is assigned for this curious notion.
 
 ### Footnotes
 
-<span id="fn_135"></span>[165:1](fim12.htm#fr_139) Anthropological Notes
+<span id="fn_135"></span>[165:1](fim12.htm#fr_139.md) Anthropological Notes
 and Queries--British Association.
 
-<span id="fn_136"></span>[165:2](fim12.htm#fr_140) There were two of
+<span id="fn_136"></span>[165:2](fim12.htm#fr_140.md) There were two of
 these officials in every parish, one for the day and the other for the
 night watch.
 
-<span id="fn_137"></span>[172:1](fim12.htm#fr_141) In Camden's
+<span id="fn_137"></span>[172:1](fim12.htm#fr_141.md) In Camden's
 Britannia.
 
-<span id="fn_138"></span>[173:1](fim12.htm#fr_142) History of the Isle
+<span id="fn_138"></span>[173:1](fim12.htm#fr_142.md) History of the Isle
 of Man. Manx Society, Vol. XVIII., pp. 113-14.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Proverbs and Sayings](fim13)
+[Next: Chapter X. Proverbs and Sayings](fim13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico054) 
-[Next](nico056) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico054.md) 
+[Next](nico056.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ is the virtue of each.
 ------------------------------------------------------------------------
 
 [Next: Chapter 2. The object of the former is truth, that of the latter
-truth corresponding with right desire](nico056)
+truth corresponding with right desire](nico056.md)

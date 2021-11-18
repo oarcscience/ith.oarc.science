@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph04)  [Next](sph06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph04)  [Next](sph06.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 Αστερεσ μέν ἀμφι κάλαν σελάνναν  
 ἆιψ ἀπυκρύπτοισι φάεννον εἶδοσ,  
 ὄπποτα πλήθοισα μάλιστα λάμπησ  
-ἀργυρια γᾶν. [\[transcription\]](xlatall.htm#8)
+ἀργυρια γᾶν. [\[transcription\]](xlatall.htm#8.md)
 
 The stars about the full moon lose their bright beauty when she, almost
 full, illumines all earth with silver.
@@ -25,4 +25,4 @@ Quoted by Eustathius of Thessalonica in the twelfth century.
 
 ------------------------------------------------------------------------
 
-[Next: 5: And by the cool stream the breeze murmurs...](sph06)
+[Next: 5: And by the cool stream the breeze murmurs...](sph06.md)

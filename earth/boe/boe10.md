@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe09)  [Next](boe11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe09)  [Next](boe11.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ these circular
 [![PLATE VI. THE PRIMORDIAL EARTH AND SEA&lt;br&gt; (From
 &lt;i&gt;Cosmographia Universalis&lt;/i&gt;, Sebastian Muenster,
 1599).](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 PLATE VI. THE PRIMORDIAL EARTH AND SEA  
 (From *Cosmographia Universalis*, Sebastian Muenster, 1599).  
 
@@ -76,14 +76,14 @@ Milky Way a "stitched seam" in the sky, and they speak with awe of a
 "certain being" who murmurs from time to time, "Long, long ago, when I
 was young, I sewed the sky together."
 
-The picture of the *kufa* ([Plate VII, A](#img_pl07a)) is given to make
+The picture of the *kufa* ([Plate VII, A](#img_pl07a).md) is given to make
 clearer what most of the writers on the old Akkadian cosmogony mean when
 they say, "The Akkadians or Chaldeans considered the Earth to be hollow
 and boat-shaped." For "boat-shaped" meant to them no elongated oval
 figure, but distinctly a hollow hemisphere, a round shell, even a
 "stretched skin." Plate VII, B shows Myer's construction of their world
 on just this model, and his interpretation is followed below. <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 Briefly, E is the convex side of the hollow Earth shell. From C to E
 stretches the Lower Firmament, or zone of the atmosphere--winds, storms
@@ -139,12 +139,12 @@ Warren's, first published in *The Journal of the Royal Asiatic Society*,
 1908. As he points out, no two of the other seven agree; certainly no
 one of the other seven bears any likeness to this beautiful construction
 of eight crystalline spheres surrounding a cubical, pyramidal, antipodal
-Earth-figure ([Plate VIII](#img_pl08)).
+Earth-figure ([Plate VIII](#img_pl08).md).
 
 "For the reconstruction of the Babylonian universe," he says, "we have
 no less than twelve most valuable data derived from the study of ancient
 Babylonian texts." Following is an abstract of the twelve data on which
-he modelled this translucent universe. <span id="fr_3"></span>[1](#fn_3)
+he modelled this translucent universe. <span id="fr_3"></span>[1](#fn_3.md)
 
 1\. In the Babylonian conception of the universe the
 
@@ -156,7 +156,7 @@ he modelled this translucent universe. <span id="fr_3"></span>[1](#fn_3)
 of four men. Drawn by Faucher-Gudin from a bas-relief at
 Koyunjik&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;The Dawn of
 Civilization&lt;/i&gt;; Gaston Maspero, 1894)](tn/pl07a.jpg)  
-Click to enlarge](img/pl07a.jpg)  
+Click to enlarge](img/pl07a.jpg.md)  
 PLATE VII. A. *A kufa laden with stoner and manned by a crew of four
 men. Drawn by Faucher-Gudin from a bas-relief at Koyunjik*.  
 (From *The Dawn of Civilization*; Gaston Maspero, 1894)  
@@ -166,7 +166,7 @@ men. Drawn by Faucher-Gudin from a bas-relief at Koyunjik*.
 [![PLATE VII. B. Construction of the Akkadian, Chaldean and Babylonian
 Universe.&lt;br&gt; (From &lt;i&gt;Qaballah&lt;/i&gt;; Isaac Myer,
 1888)](tn/pl07b.jpg)  
-Click to enlarge](img/pl07b.jpg)  
+Click to enlarge](img/pl07b.jpg.md)  
 PLATE VII. B. Construction of the Akkadian, Chaldean and Babylonian
 Universe.  
 (From *Qaballah*; Isaac Myer, 1888)  
@@ -190,7 +190,7 @@ Babylonian Tablets, etc., in the British Museum&lt;/i&gt;, 1906: Part
 XXII, Plate 48. The reading is taken from &lt;i&gt;The Babylonian
 Legends of the Creation&lt;/i&gt;. Brit. Mus. Pubs., 1921, p.
 3.)](tn/fig035.jpg)  
-Click to enlarge](img/fig035.jpg)  
+Click to enlarge](img/fig035.jpg.md)  
 FIGURE 35. *Babylonian* ''*Mappa Mundi*'' *inscribed on a Babylonian
 geographical tablet in the British Museum, No. 92,687. Showing the ocean
 surrounding the world, and marking the position of Babylon on the
@@ -305,7 +305,7 @@ he says, was among
 [![PLATE VIII. THE BABYLONIAN UNIVERSE&lt;br&gt; (From &lt;i&gt;The
 Universe as pictured in Milton's Paradise Lost&lt;/i&gt;;&lt;br&gt;
 William Fairfield Warren, 1915)](tn/pl08.jpg)  
-Click to enlarge](img/pl08.jpg)  
+Click to enlarge](img/pl08.jpg.md)  
 PLATE VIII. THE BABYLONIAN UNIVERSE  
 (From *The Universe as pictured in Milton's Paradise Lost*;  
 William Fairfield Warren, 1915)  
@@ -326,12 +326,12 @@ pretend to know."
 
 ### Footnotes
 
-<span id="fn_2"></span>[56:1](boe10.htm#fr_2) *Qabbalah*; Isaac Myer,
+<span id="fn_2"></span>[56:1](boe10.htm#fr_2.md) *Qabbalah*; Isaac Myer,
 1888, pp. 448-450.
 
-<span id="fn_3"></span>[58:1](boe10.htm#fr_3) Journal Royal Asiatic
+<span id="fn_3"></span>[58:1](boe10.htm#fr_3.md) Journal Royal Asiatic
 Society of Great Britain and Ireland, 1908, pp. 977-983.
 
 ------------------------------------------------------------------------
 
-[Next: The Egyptian Universe](boe11)
+[Next: The Egyptian Universe](boe11.md)

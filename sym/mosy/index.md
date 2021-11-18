@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mosy00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mosy.txt.gz)
+[Contents](#contents)    [Start Reading](mosy00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mosy.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Index](pageidx)    [Text \[Zipped\]](mosy.txt.gz)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 This is a study of the migration and mutation of symbols by a late 19th
-century Belgian lawyer and [Masonic](../../mas/index) scholar, Count
+century Belgian lawyer and [Masonic](../../mas/index.md) scholar, Count
 Goblet d'Alviella (*b*. 1846, *d*. 1925). Originally published in 1891
 in French, this book covers a huge web of interchangeable symbols, which
 are found over a wide range of cultures through the Near East, India,
@@ -58,47 +58,47 @@ in the development of religion.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mosy00)  
-[Introduction](mosy01)  
-[Postscriptum](mosy02)  
-[Contents](mosy03)  
-[The Author's Preface](mosy04)  
-[Chapter I. On Symbols Common to Different Races](mosy05)  
+<span id="contents"></span> [Title Page](mosy00.md)  
+[Introduction](mosy01.md)  
+[Postscriptum](mosy02.md)  
+[Contents](mosy03.md)  
+[The Author's Preface](mosy04.md)  
+[Chapter I. On Symbols Common to Different Races](mosy05.md)  
 <span id="section_000"></span>
 
 ### Chapter II. On the Gammadion or Swastika
 
-[I. Geographical Distribution of the Gammadion](mosy06)  
-[II. Different Interpretations of the Gammadion](mosy07)  
-[III. Probable Meaning of the Gammadion](mosy08)  
-[IV. The Birth-Place of the Gammadion](mosy09)  
+[I. Geographical Distribution of the Gammadion](mosy06.md)  
+[II. Different Interpretations of the Gammadion](mosy07.md)  
+[III. Probable Meaning of the Gammadion](mosy08.md)  
+[IV. The Birth-Place of the Gammadion](mosy09.md)  
 
  
 
 [Chapter III. On the Causes of Alteration in the Meaning and Form of
-Symbols](mosy10)  
+Symbols](mosy10.md)  
 <span id="section_001"></span>
 
 ### Chapter IV. Symbolism and Mythology of the Tree
 
-[I. The Sacred Tree and its Acolytes](mosy11)  
-[II. Signification of the Sacred Tree Amongst the Semites](mosy12)  
-[III. The Paradisaic Trees of the Aryans](mosy13)  
+[I. The Sacred Tree and its Acolytes](mosy11.md)  
+[II. Signification of the Sacred Tree Amongst the Semites](mosy12.md)  
+[III. The Paradisaic Trees of the Aryans](mosy13.md)  
 
  
 
-[Chapter V. On the Transmutation of Symbols](mosy14)  
+[Chapter V. On the Transmutation of Symbols](mosy14.md)  
 <span id="section_002"></span>
 
 ### Chapter VI. The Winged Globe, the Caduceus, and the Trisula
 
-[I. The Winged Globe Outside Egypt](mosy15)  
-[II. The Origins of the Caduceus](mosy16)  
-[III. The Transformations of the Trisula](mosy17)  
-[Conclusion](mosy18)  
+[I. The Winged Globe Outside Egypt](mosy15.md)  
+[II. The Origins of the Caduceus](mosy16.md)  
+[III. The Transformations of the Trisula](mosy17.md)  
+[Conclusion](mosy18.md)  
 
  
 
-[Addenda](mosy19)  
-[Index](mosy20)  
-[Opinions of the Press on the French Edition](mosy21)  
+[Addenda](mosy19.md)  
+[Index](mosy20.md)  
+[Opinions of the Press on the French Edition](mosy21.md)  

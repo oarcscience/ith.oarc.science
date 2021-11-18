@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc10)  [Next](mlc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc10)  [Next](mlc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -109,7 +109,7 @@ offerings to the gods in the event of recovery. The customary offering
 is five small wheaten loaves, called *shao ping*, and a pound of meat.
 
 <span id="img_p242"></span> <span align="CENTER"> [![](tn/p242.jpg)  
-Click to enlarge](img/p242.jpg)</span>  
+Click to enlarge](img/p242.jpg.md)</span>  
 The Magic Umbrellas
 
 The Wu Yüeh are stellar devils whom Yü Huang sent to be reincarnated on
@@ -301,7 +301,7 @@ has been gradually supplanted in popular favour by Chung K’uei, ‘the
 Protector against Evil Spirits.’
 
 <span id="img_p248"></span> <span align="CENTER"> [![](tn/p248.jpg)  
-Click to enlarge](img/p248.jpg)</span>  
+Click to enlarge](img/p248.jpg.md)</span>  
 P’an Kuan
 
 <span id="page_249">p. 249</span>
@@ -355,6 +355,6 @@ Spiritual Chaser of Demons for the Whole Empire. <span id="page_251">p.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Goddess of Mercy](mlc12)
+[Next: Chapter X. The Goddess of Mercy](mlc12.md)
 
 </div>

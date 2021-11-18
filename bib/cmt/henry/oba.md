@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Commentary](../index)  [Index](index)   
-[Amos](amo)  [Jonah](jon)
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Commentary](../index)  [Index](index.md)   
+[Amos](amo)  [Jonah](jon.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Obadiah Introduction](oba000)  
-[Obadiah Chapter 1](oba001)  
+[Obadiah Introduction](oba000.md)  
+[Obadiah Chapter 1](oba001.md)  

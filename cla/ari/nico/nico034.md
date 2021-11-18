@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico033) 
-[Next](nico035) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico033.md) 
+[Next](nico035.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ Here we conclude our account of temperance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. Liberality, prodigality, meanness](nico035)
+[Next: Chapter 1. Liberality, prodigality, meanness](nico035.md)

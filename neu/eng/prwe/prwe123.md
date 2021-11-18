@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe122)  [Next](prwe124) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe122)  [Next](prwe124.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ ground, to remain a monument of the impotent rage of two giants.
 
 ------------------------------------------------------------------------
 
-[Next: The Saint and Johana](prwe124)
+[Next: The Saint and Johana](prwe124.md)

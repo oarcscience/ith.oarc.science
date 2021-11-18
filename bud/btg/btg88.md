@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg87)  [Next](btg89) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg87)  [Next](btg89.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ And then he'll be reborn in hell."
 
 ------------------------------------------------------------------------
 
-[Next: The Last Days](btg89)
+[Next: The Last Days](btg89.md)

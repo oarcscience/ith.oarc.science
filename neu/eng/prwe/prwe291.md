@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe290)  [Next](prwe292) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe290)  [Next](prwe292.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ I find this superstition prevails also in the Midland counties.
 
 ------------------------------------------------------------------------
 
-[Next: Treading on Graves](prwe292)
+[Next: Treading on Graves](prwe292.md)

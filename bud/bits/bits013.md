@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int2) [Next](bits014)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int2) [Next](bits014.md)
 
 ------------------------------------------------------------------------
 
@@ -546,7 +546,7 @@ forth as long as life shall last."
 ------------------------------------------------------------------------
 
 [Next: § 14. King Milinda and Nâgasena Come to an
-Understanding](bits014)
+Understanding](bits014.md)
 
  
 

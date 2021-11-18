@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain42)  [Next](ain44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain42)  [Next](ain44.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ them there all. night, And the next day, when he came there and found
 they had staid in the water all night he said: "It is really so--you are
 my children.",
 
-So Cloud [acknowledged](errata.htm#37) them for his children and took
+So Cloud [acknowledged](errata.htm#37.md) them for his children and took
 them into his kee. And after a while the boys wanted to go back to their
 mother. and Cloud said: "You may go, but you must not speak to anybody
 on the Way. And I will be with you on the journey."
@@ -95,4 +95,4 @@ both turned into century plants.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Cloud](ain44)
+[Next: Notes on the Story of Cloud](ain44.md)

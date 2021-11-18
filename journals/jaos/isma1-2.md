@@ -1,32 +1,32 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Ismâ’ili
-materials](../../isl/isma/index)  
-[Previous](isma1-1) [Next](isma1-3)
+Heritage](../../index) [Journals](../index.md) [Ismâ’ili
+materials](../../isl/isma/index.md)  
+[Previous](isma1-1) [Next](isma1-3.md)
 
 ------------------------------------------------------------------------
 
 ## {Excerpts from Esh-Shahrastâny's *Book of Creeds and Sects*}
 
    "*The Bâṭinîyeh*.<span
-id="page_263_fr_para"></span>[¶](#page_263_note_para)—This appellation
+id="page_263_fr_para"></span>[¶](#page_263_note_para.md)—This appellation
 is affixed to them only because they give out that every thing outward
 has an inward; and every letter of revelation, an allegorical sense. And
 they have many appellations beside this, according to <span
 id="page_264">p. 264</span> the language of one and another people. For
 in ’Irâḳ, they are named the Bâṭinîyeh, and the Ḳarâmaṭeh, and the
-Mazdakîyeh;<span id="page_264_fr_*"></span>[\*](#page_264_note_*) and in
+Mazdakîyeh;<span id="page_264_fr_*"></span>[\*](#page_264_note_*.md) and in
 Khorasan, the Ta’lîmîyeh,<span
-id="page_264_fr_dagger"></span>[†](#page_264_note_dagger) and the
+id="page_264_fr_dagger"></span>[†](#page_264_note_dagger.md) and the
 Mulḥideh.<span
-id="page_264_fr_ddagger"></span>[‡](#page_264_note_ddagger) And they
+id="page_264_fr_ddagger"></span>[‡](#page_264_note_ddagger.md) And they
 say, 'We are Isma’îlîlyeh,<span
-id="page_264_fr_sect"></span>[§](#page_264_note_sect) for we are
+id="page_264_fr_sect"></span>[§](#page_264_note_sect.md) for we are
 distinguished from the parties of the Shî’ah, by this name and this
 impersonation.'
 
    "Now the ancient Bâṭinîyeh have mingled with their system something
 of the system of the sect of Philosophers,<span
-id="page_264_fr_dvert"></span>[‖](#page_264_note_dvert) and composed
+id="page_264_fr_dvert"></span>[‖](#page_264_note_dvert.md) and composed
 their books after that way. Say they respecting the Creator,—let him be
 exalted! 'As for us, we say not that he is existent, nor that he is
 non-existent; neither that he is one who knows, nor that he is ignorant;
@@ -50,7 +50,7 @@ despoil the divine essence of the attributes.
 
    "Say they, 'And in like manner we say, with regard to eternity, that
 he is not eternal, nor originated; on the contrary, the Eternal is his
-Amr and his Word,<span id="page_265_fr_*"></span>[\*](#page_265_note_*)
+Amr and his Word,<span id="page_265_fr_*"></span>[\*](#page_265_note_*.md)
 and that which is originated is his creation and his workmanship. He
 produced, by the Amr, the prime Intelligence, which is perfect in
 action; and by the intervention of that, he produced the secondary Soul,
@@ -73,13 +73,13 @@ world. And an Intelligence and a Soul which is universal, in the higher
 world, makes necessary that there should be in this world an
 impersonated Intelligence which is a whole, and of which the bearing is
 the bearing of a complete, mature impersonation,' which they name the
-Nâṭiḳ,<span id="page_265_fr_dagger"></span>[†](#page_265_note_dagger)
+Nâṭiḳ,<span id="page_265_fr_dagger"></span>[†](#page_265_note_dagger.md)
 and which is the Prophet, and an impersonated Soul which is also a
 whole, and of which the bearing is the bearing of an infant who is
 incomplete, tending to completion, or the bearing of the genital seed
 tending to perfection, <span id="page_266">p. 266</span> or the bearing
 of the female consorted with the male,' which they name the Asâs,<span
-id="page_266_fr_*"></span>[\*](#page_266_note_*) and which is the
+id="page_266_fr_*"></span>[\*](#page_266_note_*.md) and which is the
 Legatee.
 
    "Say they, 'And as the celestial spheres move as moved by the Soul
@@ -101,7 +101,7 @@ written upon within; and creatures are reckoned with; and the good one
 is separated from the bad one, and the obedient one, from the
 disobedient one; and the constituents of truth are joined to the whole
 Soul, and the constituents of falsehood to the false Sheitân.<span
-id="page_266_fr_dagger"></span>[†](#page_266_note_dagger) And so, from
+id="page_266_fr_dagger"></span>[†](#page_266_note_dagger.md) And so, from
 the time of motion up to rest is the beginning; and from the time of
 rest up to that which has no end is the completion.'
 
@@ -127,12 +127,12 @@ out of which it was created should be the aliment of every existence.'
    "And on the ground of this equivalence, they go to telling the
 numbers of the words and verses \[of the Ḳurân,\] and that the calling
 upon the divine name<span
-id="page_267_fr_*"></span>[\*](#page_267_note_*) is a composite of seven
+id="page_267_fr_*"></span>[\*](#page_267_note_*.md) is a composite of seven
 and of twelve; and that the extolling God is a composite of four words
 in one of the formulas of testimony, and of three words in the second
 formula of testimony; and that there are seven segments in the first,
 and six in the second; and that there are twelve letters in the
-second;<span id="page_267_fr_dagger"></span>[†](#page_267_note_dagger)
+second;<span id="page_267_fr_dagger"></span>[†](#page_267_note_dagger.md)
 and in like manner, with regard to every verse which admits of their
 calculating its number;—all which he who is intelligent exercises not
 his thought upon, without coming short of it, through fear of his
@@ -149,7 +149,7 @@ exigencies of his word, and asked <span id="page_268">p. 268</span> help
 of men, and fortified himself in castles. And the commencement of his
 going up to the castle of Alamût was in Sha’bân in the year 483. And
 that was after he had made journey to the country of his Imâm,<span
-id="page_268_fr_*"></span>[\*](#page_268_note_*) and had got from him
+id="page_268_fr_*"></span>[\*](#page_268_note_*.md) and had got from him
 how to call the men of his age; upon which he returned and called men
 with the first of a call to the doctrine of the appearance of a rightful
 Imâm taking his stand in every age, and of the distinction of the party
@@ -180,7 +180,7 @@ or on the part of another; and in like manner, whenever he is bound with
 an obligation, he is bound with it on his own part, or on the part <span
 id="page_269">p. 269</span> of another.' This is the first Article;
 which is a rupture with the Men of opinion and intellect.<span
-id="page_269_fr_*"></span>[\*](#page_269_note_*)
+id="page_269_fr_*"></span>[\*](#page_269_note_*.md)
 
    "And he states in the second Article, as follows: 'Since the need of
 a teacher is established, is then absolutely every teacher suitable, or
@@ -189,7 +189,7 @@ says that every teacher is suitable, is not allowed to deny a teacher
 adverse to himself, forasmuch as, when he so denies, he yields the point
 that there must of necessity be a reliable, rightful teacher.' So much
 for this. And this is a rupture with the Men of tradition.<span
-id="page_269_fr_dagger"></span>[†](#page_269_note_dagger)
+id="page_269_fr_dagger"></span>[†](#page_269_note_dagger.md)
 
    "And he states in the third Article, as follows: 'Since the need of a
 rightful teacher is established, must there not of necessity be
@@ -197,7 +197,7 @@ knowledge of the teacher, first of all, and possession of him, and
 afterwards instruction by him? or may there be instruction by every
 teacher, without his person being fixed upon, and his right being made
 clear? And the latter is a coming, back to the former,<span
-id="page_269_fr_ddagger"></span>[‡](#page_269_note_ddagger) forasmuch
+id="page_269_fr_ddagger"></span>[‡](#page_269_note_ddagger.md) forasmuch
 as, if one can not walk the way, except with one going before, and a
 companion, let there be the companion, and afterwards let the way be
 trod,'—which is a rupture with the Shî’ah.
@@ -217,14 +217,14 @@ this way is that which causes us to know the place of truth by the
 truth, with general knowledge. Then, after that, we know the truth the
 place of truth, with special knowledge; so that the rotation of
 questions is not requisite.' And by 'the truth' he here means only the
-having need;<span id="page_270_fr_*"></span>[\*](#page_270_note_*) and
+having need;<span id="page_270_fr_*"></span>[\*](#page_270_note_*.md) and
 by 'the place of truth,' him who is needed. And says he, 'By the having
 need we know the Imâm, and by the Imâm we know the measures of the
 having need; just as by potentiality we know necessity, that is, the
 Necessarily Existing, and by this know the measures of potentiality in
 things potential.' Says he, 'And the way to the profession of unity is,
 by the measuring of feather by feather, in like manner.'<span
-id="page_270_fr_dagger"></span>[†](#page_270_note_dagger)
+id="page_270_fr_dagger"></span>[†](#page_270_note_dagger.md)
 
    "Moreover, he states certain Articles which have respect to the
 confirmation of his doctrine, either by way of accommodation to, or by
@@ -248,19 +248,19 @@ testimony, and its being compounded of denial and affirmation, or denial
 and exception;' says he, 'so that not that which merits denial, is
 falsehood; and not that which merits affirmation, is truth. And by that
 is weighed the good and the bad, and the true and the false, and the
-other opposites.'<span id="page_271_fr_*"></span>[\*](#page_271_note_*)
+other opposites.'<span id="page_271_fr_*"></span>[\*](#page_271_note_*.md)
 And his main point is to come back, as respects every declaration and
 word \[of the Ḳurân,\] to the affirmation of a teacher; and that, as for
 the profession of unity, it is the profession of unity together with the
 doctrine of a Prophet, while it is the profession of unity; and that, as
 for the doctrine of a Prophet, it is the doctrine of a Prophet together
 with the doctrine of an Imâm, while it is the doctrine of a
-Prophet.<span id="page_271_fr_dagger"></span>[†](#page_271_note_dagger)
+Prophet.<span id="page_271_fr_dagger"></span>[†](#page_271_note_dagger.md)
 
    "This is the end of his system. He prohibited common people, however,
 from meddling with a matter of science; and in like manner, people of
 note, from examining the ancient Books;<span
-id="page_271_fr_ddagger"></span>[‡](#page_271_note_ddagger) except those
+id="page_271_fr_ddagger"></span>[‡](#page_271_note_ddagger.md) except those
 who knew the state of the case respecting every Book, and the degree
 attained by men in every science. And in respect to points relating to
 the Deity, he went not with his followers beyond his saying, 'Our Deity
@@ -294,19 +294,19 @@ will they, until they make thee the judge respecting that which is in
 controversy between them; after which, they will not find, in their
 souls, any fault pertaining to that which thou determinest; and they
 will submit themselves, with submission.'"<span
-id="page_272_fr_*"></span>[\*](#page_272_note_*)
+id="page_272_fr_*"></span>[\*](#page_272_note_*.md)
 
  
 
    "*The Ghâlîyeh*.<span
-id="page_272_fr_dagger"></span>[†](#page_272_note_dagger)—These are they
+id="page_272_fr_dagger"></span>[†](#page_272_note_dagger.md)—These are they
 who are extravagant in respect to the reality of their Imâms, to such a
 degree that they put them out of the limits of the creature-state, and
 pronounce bearings of the state of Deity to be in them. For often they
 liken one of their Imâms to God; and often they liken God to the
 creature; and they hold to the two extremes of extravagance and
 curtailment.<span
-id="page_272_fr_ddagger"></span>[‡](#page_272_note_ddagger) And their
+id="page_272_fr_ddagger"></span>[‡](#page_272_note_ddagger.md) And their
 assimilations have only grown out of the doctrines of the
 Incarnationists and the Transmigrationists, and the doctrines of the
 Jews and the Christians; inasmuch as the Jews liken the Creator to the
@@ -324,22 +324,22 @@ the intellect, and farther from anthropomorphism and incarnation.
 things, namely, anthropomorphism, and the coming forth, and the return,
 and transmigration. And there are appellations belonging to them; and in
 every country, they have an appellation. They are called in Iṣfahân the
-Khurramîyeh,<span id="page_273_fr_*"></span>[\*](#page_273_note_*) and
+Khurramîyeh,<span id="page_273_fr_*"></span>[\*](#page_273_note_*.md) and
 the Kûdîyeh;<span
-id="page_273_fr_dagger"></span>[†](#page_273_note_dagger) and in Rei,
+id="page_273_fr_dagger"></span>[†](#page_273_note_dagger.md) and in Rei,
 the Mazdakîyeh, and the Sinbâdîyeh;<span
-id="page_273_fr_ddagger"></span>[‡](#page_273_note_ddagger) and in
+id="page_273_fr_ddagger"></span>[‡](#page_273_note_ddagger.md) and in
 Adherbîjân, the Dhuḳûlîyeh;<span
-id="page_273_fr_sect"></span>[§](#page_273_note_sect) and in a certain
+id="page_273_fr_sect"></span>[§](#page_273_note_sect.md) and in a certain
 place, the Muḥammarîyeh;<span
-id="page_273_fr_dvert"></span>[‖](#page_273_note_dvert) and in
+id="page_273_fr_dvert"></span>[‖](#page_273_note_dvert.md) and in
 Mâ-warâ-l-nahr, the Mubeiyeḍhîyeh."<span
-id="page_273_fr_para"></span>[¶](#page_273_note_para)
+id="page_273_fr_para"></span>[¶](#page_273_note_para.md)
 
  
 
    "*The Nuṣairîyeh and the Isḥâḳîyeh*.<span
-id="page_273_fr_**"></span>[\*\*](#page_273_note_**)—They are among the
+id="page_273_fr_**"></span>[\*\*](#page_273_note_**.md)—They are among the
 Extravagants of the Shî’ah. And there is a set of them who defend their
 doctrine, and act the part of leaders in respect to their declarations.
 And there is a disagreement among them respecting the way to generalize
@@ -358,7 +358,7 @@ impersonations. And because there is not, after the Envoy of God,—let
 the divine benediction and peace be to him! any impersonation more
 excellent than ’Aly,—let benediction and peace be to him! and after him,
 his appropriated descendants,<span
-id="page_274_fr_*"></span>[\*](#page_274_note_*) who are the best of
+id="page_274_fr_*"></span>[\*](#page_274_note_*.md) who are the best of
 creatures, therefore, the true God appears in their form, and speaks
 with their tongue, and holds with their hands. So then, by virtue of
 this we generalize the name appropriate to the state of Deity so as to
@@ -368,24 +368,24 @@ from God,—let him be exalted! which is something that connects itself
 with the hidden sense of mysteries. Said the Prophet,—let the divine
 benediction and peace be to him! "I judge by the outward, and God has
 charge of secrets."<span
-id="page_274_fr_dagger"></span>[†](#page_274_note_dagger) And by virtue
+id="page_274_fr_dagger"></span>[†](#page_274_note_dagger.md) And by virtue
 of this, it was the lot of the Prophet,—let the divine benediction and
 peace be to him! to fight with polytheists, and the lot of ’Aly to fight
 with hypocrites. And by virtue of this, he likened him to ’Îsa Ibn
 Maryam, and said, "And if men may not have said respecting thee that
 which they say respecting ’Îsa Ibn Maryam, have not I, indeed, declared
 respecting thee with a declaration?"'<span
-id="page_274_fr_ddagger"></span>[‡](#page_274_note_ddagger)
+id="page_274_fr_ddagger"></span>[‡](#page_274_note_ddagger.md)
 
    "And often they affirm of him a participation in the envoyship,
 inasmuch as he said, 'Among you is one who fights on the ground of its
 allegorical sense, as I fight on the ground of its letter; is he not,
 indeed, the sewer of the sandal?'<span
-id="page_274_fr_sect"></span>[§](#page_274_note_sect) and so, that the
+id="page_274_fr_sect"></span>[§](#page_274_note_sect.md) and so, that the
 knowledge of the allegorical sense, and the fighting with hypocrites,
 and the disputing with the Jinns, and <span id="page_275">p. 275</span>
 the removing of the gate of Khaibar, not by corporeal power,<span
-id="page_275_fr_*"></span>[\*](#page_275_note_*) are the most convincing
+id="page_275_fr_*"></span>[\*](#page_275_note_*.md) are the most convincing
 proof that in him was a divine part, and a sovereign power from the
 Lord, or that it is he in whose form God appeared, and with whose hand
 he created, and with whose tongue he commanded. And by virtue of this,
@@ -413,7 +413,7 @@ They declare the imamship of both of them, and the imamship of their
 parent Zein el-’Âbidîn; except that among them are some who are constant
 to one of the two, and forward not the imamship to their descendants,
 and some who do forward.<span
-id="page_275_fr_dagger"></span>[†](#page_275_note_dagger) And we
+id="page_275_fr_dagger"></span>[†](#page_275_note_dagger.md) And we
 distinguish this party over and above the sects professing to be Shî’ah
 which we shall mention, only because those of the Shî’ah who are
 constant to El-Bâḳir, and declare his return, are in constancy like
@@ -434,26 +434,26 @@ for a shore; and whoever is elevated to the summit of verity, fears not
 a letting down; and there is a saying, 'Whoever has converse with God,
 is empty of men, and whoever cultivates familiarity with others than
 God, the Tempter makes a prey of him.'<span
-id="page_276_fr_*"></span>[\*](#page_276_note_*) And he was related, on
+id="page_276_fr_*"></span>[\*](#page_276_note_*.md) And he was related, on
 the father's side, to the stock of prophecy; and on the mother's side,
 he was related to Abû Bekr,—let God be gracious to him! And he cleared
 himself of that which any one of the Extravagants had to do with, and
 cleared himself of him, and cursed them; and he was clear of the
 peculiarities of the doctrines of the Râfiḍheh,<span
-id="page_276_fr_dagger"></span>[†](#page_276_note_dagger) and their
+id="page_276_fr_dagger"></span>[†](#page_276_note_dagger.md) and their
 fooleries, namely, the declaring of the disappearance and the
-return,<span id="page_276_fr_ddagger"></span>[‡](#page_276_note_ddagger)
+return,<span id="page_276_fr_ddagger"></span>[‡](#page_276_note_ddagger.md)
 and the coming forth,<span
-id="page_276_fr_sect"></span>[§](#page_276_note_sect) and
+id="page_276_fr_sect"></span>[§](#page_276_note_sect.md) and
 transmigration, and incarnation, and anthropomorphism.
 
    "But the Shî’ah were divided, after his day, and every one of them
 professed a doctrine, and desired to pass it on upon his followers, and
 referred its origin to him, and fixed it on him; while the master was
 clear of that, and of the system of the Mu’tazileh,<span
-id="page_276_fr_dvert"></span>[‖](#page_276_note_dvert) and also of the
+id="page_276_fr_dvert"></span>[‖](#page_276_note_dvert.md) and also of the
 doctrine of the Ḳadarîyeh.<span
-id="page_276_fr_para"></span>[¶](#page_276_note_para) This is his saying
+id="page_276_fr_para"></span>[¶](#page_276_note_para.md) This is his saying
 respecting volition, namely, 'God,—let him be exalted! wills by us
 something, and <span id="page_277">p. 277</span> wills from us
 something; and so, that which be wills by us he hides from us, and that
@@ -471,11 +471,11 @@ part, or on the part of any one else, in the case of a doing ill.'
 respecting him, and after his day, not on the ground of their being
 divisions of his partizans,—on the contrary, on the ground of their
 having to do with the root of his stock, and the branches of his
-descendants."<span id="page_277_fr_*"></span>[\*](#page_277_note_*)
+descendants."<span id="page_277_fr_*"></span>[\*](#page_277_note_*.md)
 
 ------------------------------------------------------------------------
 
-[Next](isma1-3)
+[Next](isma1-3.md)
 
 ------------------------------------------------------------------------
 
@@ -483,12 +483,12 @@ descendants."<span id="page_277_fr_*"></span>[\*](#page_277_note_*)
 
 <span id="footnotes_page_263">p. 263</span>
 
-<span id="page_263_note_para"></span>[¶](#page_263_fr_para) i. e. Party
+<span id="page_263_note_para"></span>[¶](#page_263_fr_para.md) i. e. Party
 of the hidden sense.
 
 <span id="footnotes_page_264">p. 264</span>
 
-<span id="page_264_note_*"></span>[\*](#page_264_fr_*) i. e. Party of
+<span id="page_264_note_*"></span>[\*](#page_264_fr_*.md) i. e. Party of
 Mazdak. Mazdak was the author of a modification of Magism, who was
 patronized by Kobâd, one of the Sâsânide kings, and put to death by
 Nûshirwân. For his opinions, see *The Dabistân*, transl. by Shea and
@@ -498,52 +498,52 @@ for the application of this name to the Ismâ’ilis, we do not know. But
 there is reason to believe that they may have derived some of their
 peculiar doctrines from a Persian source.
 
-<span id="page_264_note_dagger"></span>[†](#page_264_fr_dagger) i. e.
+<span id="page_264_note_dagger"></span>[†](#page_264_fr_dagger.md) i. e.
 Party of instruction. The ground of this appellation appears from some
 of Ḥasan Ibn Ṣabbâḥ's "articles," stated farther on by Esh-Shahrastâny.
 
-<span id="page_264_note_ddagger"></span>[‡](#page_264_fr_ddagger) i. e.
+<span id="page_264_note_ddagger"></span>[‡](#page_264_fr_ddagger.md) i. e.
 Heretics.
 
-<span id="page_264_note_sect"></span>[§](#page_264_fr_sect) i. e. Party
+<span id="page_264_note_sect"></span>[§](#page_264_fr_sect.md) i. e. Party
 of Isma’îl, son of Ja’far Eṣ-Ṣâdiḳ, the seventh and last Imâm of the
 Ismâ’ilis.
 
-<span id="page_264_note_dvert"></span>[‖](#page_264_fr_dvert) Those of
+<span id="page_264_note_dvert"></span>[‖](#page_264_fr_dvert.md) Those of
 the Muslim learned men who were influenced in their religious opinions
 by the study of Greek philosophy, introduced among them especially under
 the Khalifeh Mamûn, were called by this name.
 
 <span id="footnotes_page_265">p. 265</span>
 
-<span id="page_265_note_*"></span>[\*](#page_265_fr_*) It will be
+<span id="page_265_note_*"></span>[\*](#page_265_fr_*.md) It will be
 evident, farther on, that the Ismâ’ilian Word, or Amr, is a prime
 emanation from the Deity, having divine names and attributes, but
 distinct from the Deity itself.
 
-<span id="page_265_note_dagger"></span>[†](#page_265_fr_dagger) Nâṭiḳ,
+<span id="page_265_note_dagger"></span>[†](#page_265_fr_dagger.md) Nâṭiḳ,
 i. e. Utterer, is the name which the Ismâ’ilis give to every Prophet of
 a period, who declares the divine will for that time.
 
 <span id="footnotes_page_266">p. 266</span>
 
-<span id="page_266_note_*"></span>[\*](#page_266_fr_*) Asâs, i. e.
+<span id="page_266_note_*"></span>[\*](#page_266_fr_*.md) Asâs, i. e.
 Foundation, is the name given in the Ismâ’ilian system to first of seven
 supposed successors of every Nâṭiḳ, that is, the first of seven Imâms of
 each period, whose office it is to confirm his teaching by the
 disclosure of its allegorical sense.
 
-<span id="page_266_note_dagger"></span>[†](#page_266_fr_dagger) See Rev.
+<span id="page_266_note_dagger"></span>[†](#page_266_fr_dagger.md) See Rev.
 vi. 12-17; Id. xx. 5.
 
 <span id="footnotes_page_267">p. 267</span>
 
-<span id="page_267_note_*"></span>[\*](#page_267_fr_*) \#\#\# *In the
+<span id="page_267_note_*"></span>[\*](#page_267_fr_*.md) \#\#\# *In the
 name of God, the Merciful, the Compassionate*, of which the first part,
 *In the name of God*, consists in the original of seven letters, and the
 remainder, of twelve.
 
-<span id="page_267_note_dagger"></span>[†](#page_267_fr_dagger) The two
+<span id="page_267_note_dagger"></span>[†](#page_267_fr_dagger.md) The two
 "formulas" here referred to are \#\#\# i. e. *There is no Deity but
 God*; and \#\#\# i. e. *Muḥammed is the Prophet of God*. By "segments,"
 are meant separate syllables; to make these of the numbers mentioned,
@@ -552,7 +552,7 @@ pronounced Muḥmed.
 
 <span id="footnotes_page_268">p. 268</span>
 
-<span id="page_268_note_*"></span>[\*](#page_268_fr_*) The Fâṭimite
+<span id="page_268_note_*"></span>[\*](#page_268_fr_*.md) The Fâṭimite
 Khalîfeh Mustanṣer-billah, who reigned in Egypt when Ḥasan began his
 career, is undoubtedly here intended. Before Ḥasan established an
 independent dynasty, he went about in the character of an Ismâ’ilian
@@ -563,7 +563,7 @@ Dâ’i, advocating the legitimacy of the Fâṭimites, as descendants of
 
 <span id="footnotes_page_269">p. 269</span>
 
-<span id="page_269_note_*"></span>[\*](#page_269_fr_*) The amount of
+<span id="page_269_note_*"></span>[\*](#page_269_fr_*.md) The amount of
 this article seems to be, that religious instruction is necessary,
 contrary to the doctrine of those who hold that God is known by mere
 intellect and speculation; because whoever affirms the latter, if he
@@ -572,7 +572,7 @@ in so doing contradict his principle, by making circumstances personal
 to himself, independent of the possession of mere intellect and
 speculative faculty, requisite to the end.
 
-<span id="page_269_note_dagger"></span>[†](#page_269_fr_dagger)
+<span id="page_269_note_dagger"></span>[†](#page_269_fr_dagger.md)
 Exaggerators of ancient authority are here referred to. Esh-Shahrastâny
 elsewhere says that they were called Men of tradition, "because their
 aim is to get traditions, and to hand down accounts, and to base
@@ -582,16 +582,16 @@ Esh-Shahrastâny's *Book of Relig. and Philos. Sects*, ed. Cureton, p.
 160. That such a party were wanting in discrimination, as Ḥasan affirms,
 may easily be credited.
 
-<span id="page_269_note_ddagger"></span>[‡](#page_269_fr_ddagger) That
+<span id="page_269_note_ddagger"></span>[‡](#page_269_fr_ddagger.md) That
 is to say, the very statement of the latter alternative involves the
 affirmation of the former.
 
 <span id="footnotes_page_270">p. 270</span>
 
-<span id="page_270_note_*"></span>[\*](#page_270_fr_*) The need of a
+<span id="page_270_note_*"></span>[\*](#page_270_fr_*.md) The need of a
 teacher.
 
-<span id="page_270_note_dagger"></span>[†](#page_270_fr_dagger) The
+<span id="page_270_note_dagger"></span>[†](#page_270_fr_dagger.md) The
 meaning is, that one comes to the profession of the divine unity, with a
 full understanding of it, through the Imâm, precisely as it is through
 him that one attains to a complete conviction of his need of
@@ -599,7 +599,7 @@ instruction.
 
 <span id="footnotes_page_271">p. 271</span>
 
-<span id="page_271_note_*"></span>[\*](#page_271_fr_*) This "balance,"
+<span id="page_271_note_*"></span>[\*](#page_271_fr_*.md) This "balance,"
 or principle of judgment as to the true and the false, the good and the
 bad, and all opposites, was derived from the fundamental confession of
 faith among the Muslims, *There is no Deity but God*, which expresses
@@ -610,43 +610,43 @@ as mutually complementary. The general principle may be stated as
 follows: that what may be affirmed absolutely, as between any opposites,
 consists in the complementary relation to each other of those opposites.
 
-<span id="page_271_note_dagger"></span>[†](#page_271_fr_dagger) This
+<span id="page_271_note_dagger"></span>[†](#page_271_fr_dagger.md) This
 means, that the declaration *There is no Deity but God*, implies the
 doctrine of a Prophet to reveal the truth thus expressed, and that the
 doctrine of a Prophet, expressed in the declaration *Muḥammed is his
 Prophet*, implies that of an Imâm to carry on the Prophet's work.
 
-<span id="page_271_note_ddagger"></span>[‡](#page_271_fr_ddagger) The
+<span id="page_271_note_ddagger"></span>[‡](#page_271_fr_ddagger.md) The
 Scriptures of former periods, or previous Divine Revelations.
 
 <span id="footnotes_page_272">p. 272</span>
 
-<span id="page_272_note_*"></span>[\*](#page_272_fr_*) Ḳurân, Sur. iv.
+<span id="page_272_note_*"></span>[\*](#page_272_fr_*.md) Ḳurân, Sur. iv.
 v. 68. It is the edition of Flügel which is referred to in these notes,
 in all cases.
 
-<span id="page_272_note_dagger"></span>[†](#page_272_fr_dagger) i. e.
+<span id="page_272_note_dagger"></span>[†](#page_272_fr_dagger.md) i. e.
 Party of the Extravagants.
 
-<span id="page_272_note_ddagger"></span>[‡](#page_272_fr_ddagger) The
+<span id="page_272_note_ddagger"></span>[‡](#page_272_fr_ddagger.md) The
 writer means that they not only exalt the creature to the rank of the
 Deity, but also bring down the Deity to the level of the creature.
 
 <span id="footnotes_page_273">p. 273</span>
 
-<span id="page_273_note_*"></span>[\*](#page_273_fr_*) i. e. Party of
+<span id="page_273_note_*"></span>[\*](#page_273_fr_*.md) i. e. Party of
 the Voluptuous.
 
-<span id="page_273_note_dagger"></span>[†](#page_273_fr_dagger) i. e.
+<span id="page_273_note_dagger"></span>[†](#page_273_fr_dagger.md) i. e.
 Party of the Self-willed, probably. In this sense, the word seems to be
 originally Persian, as is Khurramîyeh.
 
-<span id="page_273_note_ddagger"></span>[‡](#page_273_fr_ddagger) i. e.
+<span id="page_273_note_ddagger"></span>[‡](#page_273_fr_ddagger.md) i. e.
 Party of the Followers of Sinbâd. Sinbâd was a leader of the Extravagant
 Shî’is, in Khorâsân, in the reign of the Khalîfeh Mamûn. See Weil's
 *Geschichte der Chalifen*, Bd. ii. s. 236.
 
-<span id="page_273_note_sect"></span>[§](#page_273_fr_sect) I can make
+<span id="page_273_note_sect"></span>[§](#page_273_fr_sect.md) I can make
 no sense of this word, however pronounced, either as Arabic, or Persian.
 But if we read Duḳûlîyeh, it is an Arabic word, meaning Self-hiders. Now
 from one of our new documents it appears, that certain Ismâ’ilian
@@ -655,40 +655,40 @@ Ajerbîjân, took from him the fashion of going abroad in mantles of
 Yemen, an article of dress covering the whole person, from the top of
 the head down; and the class of people there called, from that
 circumstance, Bâbekîyeh, may have been the same as those here named. See
-[p. 281](isma1-3.htm#page_281).
+[p. 281](isma1-3.htm#page_281.md).
 
-<span id="page_273_note_dvert"></span>[‖](#page_273_fr_dvert) i. e.
+<span id="page_273_note_dvert"></span>[‖](#page_273_fr_dvert.md) i. e.
 Party of the Reddened, because they wore red there.
 
-<span id="page_273_note_para"></span>[¶](#page_273_fr_para) i. e. Party
+<span id="page_273_note_para"></span>[¶](#page_273_fr_para.md) i. e. Party
 of the Whitened, because they wore white in that country.
 
-<span id="page_273_note_**"></span>[\*\*](#page_273_fr_**) The origin of
+<span id="page_273_note_**"></span>[\*\*](#page_273_fr_**.md) The origin of
 this name I do not know. The name Nuṣairyeh, signifying Little
 Christians, was probably given in derision. See *Zeitschrift d. Deutsch.
 Morgenländ Gesellschaft*, vol, iii. p. 308.
 
 <span id="footnotes_page_274">p. 274</span>
 
-<span id="page_274_note_*"></span>[\*](#page_274_fr_*) Appropriated as
+<span id="page_274_note_*"></span>[\*](#page_274_fr_*.md) Appropriated as
 dwelling-places of the Deity.
 
-<span id="page_274_note_dagger"></span>[†](#page_274_fr_dagger) A
+<span id="page_274_note_dagger"></span>[†](#page_274_fr_dagger.md) A
 traditionary saying.
 
-<span id="page_274_note_ddagger"></span>[‡](#page_274_fr_ddagger) A
+<span id="page_274_note_ddagger"></span>[‡](#page_274_fr_ddagger.md) A
 traditionary saying.
 
-<span id="page_274_note_sect"></span>[§](#page_274_fr_sect) Meaning,
+<span id="page_274_note_sect"></span>[§](#page_274_fr_sect.md) Meaning,
 does he not complete what I begin? This also is one of the traditionary
 sayings of the Prophet.
 
 <span id="footnotes_page_275">p. 275</span>
 
-<span id="page_275_note_*"></span>[\*](#page_275_fr_*) This must refer
+<span id="page_275_note_*"></span>[\*](#page_275_fr_*.md) This must refer
 to some tradition connected with the taking of Khaibar by Muḥammed.
 
-<span id="page_275_note_dagger"></span>[†](#page_275_fr_dagger) The
+<span id="page_275_note_dagger"></span>[†](#page_275_fr_dagger.md) The
 meaning is, that some regard one or the other of the two as the last
 Imâm, to whom the imamship still belongs, although he is for a season
 withdrawn from human view; while others consider the imamship as the
@@ -696,35 +696,35 @@ inheritance of successive generations in the line of his posterity.
 
 <span id="footnotes_page_276">p. 276</span>
 
-<span id="page_276_note_*"></span>[\*](#page_276_fr_*) This is probably
+<span id="page_276_note_*"></span>[\*](#page_276_fr_*.md) This is probably
 a traditionary saying of Muḥammed.
 
-<span id="page_276_note_dagger"></span>[†](#page_276_fr_dagger) i. e.
+<span id="page_276_note_dagger"></span>[†](#page_276_fr_dagger.md) i. e.
 Party of the Deserters, the name given to a party whose doctrinal belief
 Esh-Shahrastâny characterizes by saying that "they are extravagant in
 respect to the prophetic office and imamship, to such a degree that they
 come to the doctrine of incarnation \[of the Deity.\]" See
 Esh-Shahrastâny's *Book of Relig. and Philos. Sects*, p. 9.
 
-<span id="page_276_note_ddagger"></span>[‡](#page_276_fr_ddagger) The
+<span id="page_276_note_ddagger"></span>[‡](#page_276_fr_ddagger.md) The
 disappearance and return of the Imâm.
 
-<span id="page_276_note_sect"></span>[§](#page_276_fr_sect) The
+<span id="page_276_note_sect"></span>[§](#page_276_fr_sect.md) The
 manifestation of the Deity by emanation.
 
-<span id="page_276_note_dvert"></span>[‖](#page_276_fr_dvert) This was
+<span id="page_276_note_dvert"></span>[‖](#page_276_fr_dvert.md) This was
 essentially, as Esh-Shahrastâny expresses it, such an "extravagance in
 the way of thinking about the divine unity, as amounted to making God a
 vacuity by the denial of attributes." See Esh-Shahrastâny's *Book of
 Relig. and Philos. Sects*, p. 9.
 
-<span id="page_276_note_para"></span>[¶](#page_276_fr_para) i. e.
+<span id="page_276_note_para"></span>[¶](#page_276_fr_para.md) i. e.
 Maintainers of power \[in man,\] in opposition to the doctrine of
 absolute divine decrees.
 
 <span id="footnotes_page_277">p. 277</span>
 
-<span id="page_277_note_*"></span>[\*](#page_277_fr_*) Meaning, as
+<span id="page_277_note_*"></span>[\*](#page_277_fr_*.md) Meaning, as
 holding in common that the imamship is perpetuated in his family, while
 distinguished by particular attachment to one or another of his
 descendants.

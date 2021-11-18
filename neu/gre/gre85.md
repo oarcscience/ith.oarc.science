@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre84)  [Next](gre86) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre84)  [Next](gre86.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ words.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXI: Of the Carline's evil Gift to Grettir](gre86)
+[Next: Chapter LXXXI: Of the Carline's evil Gift to Grettir](gre86.md)

@@ -494,7 +494,7 @@ fresh-made skies were diamond-sown with those myriads of twinkling stars
 the moment his first-day's sun sank below the horizon; whereas, in fact,
 not a single star winked in that black vault until three years and a
 half after that memorable week's formidable industries had been
-completed.\[[\*\*](#NOTELIGHT)\] then one star appeared, all solitary
+completed.\[[\*\*](#NOTELIGHT.md)\] then one star appeared, all solitary
 and alone, and began to blink. Three years later another one appeared.
 The two blinked together for more than four years before a third joined
 them. At the end of the first hundred years there were not yet
@@ -1409,7 +1409,7 @@ them. He observes certain facts. For instance, that in all his life he
 never sees the day that he can satisfy one woman; also, that no woman
 ever sees the day that she can't overwork, and defeat, and put out of
 commission any ten masculine plants that can be put to bed to
-her.\[[\*\*](#NOTESANDWICH)\] He puts those strikingly suggestive and
+her.\[[\*\*](#NOTESANDWICH.md)\] He puts those strikingly suggestive and
 luminous facts together, and from them draws this astonishing
 conclusion: The Creator intended the woman to be restricted to one man.
 
@@ -1446,7 +1446,7 @@ misery; for he kept within those women's sight, always, stalwart
 watchmen whose splendid masculine forms made the poor lassies' mouths
 water but who hadn't anything to solace a candlestick with, these gentry
 being eunuchs. A eunuch is a person whose candle has been put out. By
-art.\[[\*\*](#NOTEPUBLISH)\]
+art.\[[\*\*](#NOTEPUBLISH.md)\]
 
 From time to time, as I go along, I will take up a Biblical statute and
 show you that it always violates a law of God, and then is imported into
@@ -1833,7 +1833,7 @@ star (61 Cygni) three and a half years to come to the earth, traveling
 at the rate of 186,000 miles per second. Arcturus had been shining 200
 years before it was visible from the earth. Remoter stars gradually
 became visible after thousands and thousands of years. -- The Editor
-\[M. T.\]   \[[Return to Reference](#REFLIGHT)\]
+\[M. T.\]   \[[Return to Reference](#REFLIGHT.md)\]
 
 <span id="NOTESANDWICH"></span>\*NOTE:  In the Sandwich Islands in 1866
 a buxom royal princess died. Occupying a place of distinguished honor at
@@ -1843,12 +1843,12 @@ accomplishments of the late princess those thirty-six stallions were
 called her *harem*, and the song said it had been her pride and boast
 that she kept the whole of them busy, and that several times it had
 happened that more than one of them had been able to charge overtime.
-\[M.T.\]  \[[Return to reference](#REFSANDWICH)\]
+\[M.T.\]  \[[Return to reference](#REFSANDWICH.md)\]
 
 <span id="NOTEPUBLISH"></span>\*NOTE:  I purpose publishing these
 Letters here in the world before I return to you. Two editions. One,
 unedited, for Bible readers and their children; the other, expurgated,
 for persons of refinement. \[M.T.\]  \[[Return to
-reference](#REFPUBLISH)\]
+reference](#REFPUBLISH.md)\]
 
 ------------------------------------------------------------------------

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vkk02)  [Next](vkk04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vkk02)  [Next](vkk04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Vampire, His Kith and Kin*, by Montague Summers, \[1928\], at
 Intangible Textual Heritage
 
@@ -3368,4 +3368,4 @@ statements find ample support in other writers.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Generation of the Vampire](vkk04)
+[Next: Chapter II. The Generation of the Vampire](vkk04.md)

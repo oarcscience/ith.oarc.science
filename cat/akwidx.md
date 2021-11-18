@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[Intangible Textual Heritage](../index)  [Index](index)   
-[Titles by Keyword](tkwidx)  [Subjects by Keyword](skwidx)
+[Intangible Textual Heritage](../index)  [Index](index.md)   
+[Titles by Keyword](tkwidx)  [Subjects by Keyword](skwidx.md)
 
 </div>
 
@@ -13,32 +13,32 @@
 
 ------------------------------------------------------------------------
 
-[Authors: A](ak_a)  
-[Authors: B](ak_b)  
-[Authors: C](ak_c)  
-[Authors: D](ak_d)  
-[Authors: E](ak_e)  
-[Authors: F](ak_f)  
-[Authors: G](ak_g)  
-[Authors: H](ak_h)  
-[Authors: I](ak_i)  
-[Authors: J](ak_j)  
-[Authors: K](ak_k)  
-[Authors: L](ak_l)  
-[Authors: M](ak_m)  
-[Authors: N](ak_n)  
-[Authors: O](ak_o)  
-[Authors: P](ak_p)  
-[Authors: Q](ak_q)  
-[Authors: R](ak_r)  
-[Authors: S](ak_s)  
-[Authors: T](ak_t)  
-[Authors: U](ak_u)  
-[Authors: V](ak_v)  
-[Authors: W](ak_w)  
-[Authors: X](ak_x)  
-[Authors: Y](ak_y)  
-[Authors: Z](ak_z)  
+[Authors: A](ak_a.md)  
+[Authors: B](ak_b.md)  
+[Authors: C](ak_c.md)  
+[Authors: D](ak_d.md)  
+[Authors: E](ak_e.md)  
+[Authors: F](ak_f.md)  
+[Authors: G](ak_g.md)  
+[Authors: H](ak_h.md)  
+[Authors: I](ak_i.md)  
+[Authors: J](ak_j.md)  
+[Authors: K](ak_k.md)  
+[Authors: L](ak_l.md)  
+[Authors: M](ak_m.md)  
+[Authors: N](ak_n.md)  
+[Authors: O](ak_o.md)  
+[Authors: P](ak_p.md)  
+[Authors: Q](ak_q.md)  
+[Authors: R](ak_r.md)  
+[Authors: S](ak_s.md)  
+[Authors: T](ak_t.md)  
+[Authors: U](ak_u.md)  
+[Authors: V](ak_v.md)  
+[Authors: W](ak_w.md)  
+[Authors: X](ak_x.md)  
+[Authors: Y](ak_y.md)  
+[Authors: Z](ak_z.md)  
 
 ------------------------------------------------------------------------
 
@@ -52,10 +52,10 @@ listed in this catalog is no indication of its copyright status, or lack
 thereof: some copyrighted items are listed here, and some files based on
 public domain material have specific restrictions on reuse. For more
 information on copyrights, please refer to the site [Terms of
-Service](../tos) and [Copyright](../cnote) pages.
+Service](../tos) and [Copyright](../cnote.md) pages.
 
 If you notice anything *at this site* that hasn't been cataloged here
-but should, please feel free to [contact us](../contact). (If so, please
+but should, please feel free to [contact us](../contact.md). (If so, please
 indicate which file you think should be cataloged by specifying its URL:
 there are tens of thousands of files at the site and we may or may not
 be able to guess which one you are referring to).
@@ -79,7 +79,7 @@ or know the exact title of a book.
 Note that the subject keywords are extracted from data manually supplied
 by the etext preparer. It is not a comprehensive listing of keywords,
 nor is it a full-text index of the site. To search the full text of the
-site, you will need to use [the search page](../search), (or the box at
+site, you will need to use [the search page](../search.md), (or the box at
 the upper right hand corner of this page).
 
 The term 'Author' here, for convenience, includes principal authors,

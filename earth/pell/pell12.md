@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](pell11)  [Next](pell13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](pell11)  [Next](pell13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88C8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pellucidar*, by Edgar Rice Burroughs, \[1915\], at Intangible Textual
 Heritage
 
@@ -367,4 +367,4 @@ I had seen her standing just behind me?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Kidnapped!](pell13)
+[Next: Chapter XII. Kidnapped!](pell13.md)

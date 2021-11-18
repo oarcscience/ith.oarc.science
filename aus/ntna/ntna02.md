@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna01)  [Next](ntna03) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna01)  [Next](ntna03.md) 
 
 ------------------------------------------------------------------------
 
@@ -391,4 +391,4 @@ Map of the Northern Territory 6
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Introduction](ntna03)
+[Next: Chapter I: Introduction](ntna03.md)

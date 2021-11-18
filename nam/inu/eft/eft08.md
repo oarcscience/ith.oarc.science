@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft07)  [Next](eft09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft07)  [Next](eft09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -163,7 +163,7 @@ old one:
 <span id="page_23">p. 23</span>
 
  "This is your child; name him after some dead one."<span
-id="page_23_fr_*"></span>[\*](#page_23_note_*)
+id="page_23_fr_*"></span>[\*](#page_23_note_*.md)
 
  "Let him be named after him who died of hunger in the north, at
 Amerdloq."
@@ -736,7 +736,7 @@ while it was hanging there, there came very often a noise
 <span id="img_034a"></span> <span align="CENTER"> [![Hunter in kayak.
 The creature behind is a monster that frightenes all the seal
 away.](tn/034a.jpg)  
-Click to enlarge](img/034a.jpg)  
+Click to enlarge](img/034a.jpg.md)  
 Hunter in kayak. The creature behind is a monster that frightenes all
 the seal away.  
 </span>
@@ -744,7 +744,7 @@ the seal away.
 <span id="img_034b"></span> <span align="CENTER"> [![Hunters
 encountering Sarqiserasak, a dangerous troll, who rows in a half kayak
 himself, and upsets all he meets with his paddle.](tn/034b.jpg)  
-Click to enlarge](img/034b.jpg)  
+Click to enlarge](img/034b.jpg.md)  
 Hunters encountering Sarqiserasak, a dangerous troll, who rows in a half
 kayak himself, and upsets all he meets with his paddle.  
 </span>
@@ -787,7 +787,7 @@ and then one came and called through the window:
 laugh and go away.
 
  The strong man had already got out the umiak<span
-id="page_35_fr_*"></span>[\*](#page_35_note_*) into the water to row out
+id="page_35_fr_*"></span>[\*](#page_35_note_*.md) into the water to row out
 to the whale. And then Qujâvârssuk came out, and they had already rowed
 away when Qujâvârssuk got his boat into the water. He got it full of
 water, and drew it up again on to the shore, and turned the stem in
@@ -879,13 +879,13 @@ there at a later time he died.
 
 <span id="footnotes_page_23">p. 23</span>
 
-<span id="page_23_note_*"></span>[\*](#page_23_fr_*) According to
+<span id="page_23_note_*"></span>[\*](#page_23_fr_*.md) According to
 custom. It is believed that the qualities of the dead are thus
 transferred to the living namesake.
 
 <span id="footnotes_page_35">p. 35</span>
 
-<span id="page_35_note_*"></span>[\*](#page_35_fr_*) Umiak: a large
+<span id="page_35_note_*"></span>[\*](#page_35_fr_*.md) Umiak: a large
 boat, as distinct from the small kayak.
 
  
@@ -920,4 +920,4 @@ boat, as distinct from the small kayak.
 
 ------------------------------------------------------------------------
 
-[Next: KÚNIGSEQ](eft09)
+[Next: KÚNIGSEQ](eft09.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor10)  [Next](sor12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor10)  [Next](sor12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -93,7 +93,7 @@ and unappeased, sees itself checked
 <span id="page_79">p. 79</span>
 
 by a cruel spell, a hideous metamorphosis. <span
-id="fr_33"></span>[1](#fn_33) Love that was drawing nigh, blindly, with
+id="fr_33"></span>[1](#fn_33.md) Love that was drawing nigh, blindly, with
 arms thrown wide, steps back shuddering. Yes! love may fly; but the fury
 of the tainted blood persists, the flesh burns in agonising, itching
 torments, while more agonising still, the inward conflagration rages,
@@ -153,7 +153,7 @@ the favour of the *Prince of this World?* 
 That great and puissant doctor of the Renaissance, Paracelsus, when he
 burned the wise books of ancient medicine *en masse*, Greek, Jewish, and
 Arab, declared he had learned nothing at all but from popular medicine,
-from the *good women*, <span id="fr_34"></span>[2](#fn_34) from
+from the *good women*, <span id="fr_34"></span>[2](#fn_34.md) from
 shepherds, and hangmen. The latter were often clever surgeons,—setters
 of broken or dislocated bones, and accomplished farriers.
 
@@ -177,12 +177,12 @@ great use, for the most various purposes, as calmants and as stimulants,
 of a wide family of herbs, of doubtful repute and perilous properties,
 which proved of the most decided advantage to their patients. These are
 appropriately known as the *Solanaceæ* (herbs of consolation). <span
-id="fr_35"></span>[3](#fn_35)
+id="fr_35"></span>[3](#fn_35.md)
 
 A profuse and familiar family of plants, the majority of whose species
 are to be found in extreme abundance, under our feet, in the hedgerows,
 in every field. So numerous a family, that a single one of its genera
-embraces eight hundred species. <span id="fr_36"></span>[4](#fn_36)
+embraces eight hundred species. <span id="fr_36"></span>[4](#fn_36.md)
 Nothing in the world easier to detect, nothing commoner. Yet these herbs
 are for the most part very risky to employ. Audacity was required to
 determine the doses, it may well be the audacity of genius.
@@ -191,7 +191,7 @@ To begin at the bottom of the ascending scale of their
 
 <span id="page_82">p. 82</span>
 
-potency. <span id="fr_37"></span>[5](#fn_37) The first to be named are
+potency. <span id="fr_37"></span>[5](#fn_37.md) The first to be named are
 simply pot-herbs, good to eat, and nothing more,—aubergines, tomatoes,
 inappropriately called love-apples. Others of these harmless varieties
 are the quintessence of all that is calming and soothing,—the mulleins
@@ -212,7 +212,7 @@ blotches, carbuncles, spreading eruptions, came weeping for succour in
 her affliction. With married women the scourge was still more cruel. The
 bosom, the most delicate thing in all nature, and its vessels, which
 form an interlaced flower of incomparable perfection below the
-skin, <span id="fr_38"></span>[6](#fn_38) is, by virtue of its liability
+skin, <span id="fr_38"></span>[6](#fn_38.md) is, by virtue of its liability
 to congestion and blocking of the veins and arteries, the most exquisite
 instrument of pain,—pain keen, pitiless, and never ceasing. How
 willingly would she have welcomed any and every poison to gain relief!
@@ -272,7 +272,7 @@ Another of these poisons, the *belladonna*, doubtless so named out of
 gratitude, was sovran for calming the convulsions that sometimes occur
 in childbirth, superadding peril to peril and terror to terror at this
 supreme crisis. But there! a motherly hand would slip in this soothing
-poison, <span id="fr_39"></span>[7](#fn_39) lull the mother to sleep,
+poison, <span id="fr_39"></span>[7](#fn_39.md) lull the mother to sleep,
 and lay a spell on the door of life; the infant, just as at the present
 day when chloroform is administered, worked out its own freedom by its
 own efforts, and forced its way to the world of living men.
@@ -345,7 +345,7 @@ belladonna, was the most marked general characteristic of the remedial
 measures taken to combat this class of disease. At the great popular
 gatherings, the Witches’ Sabbaths, we shall describe later, the
 *Witches’ herb*, infused in hydromel, beer, as well as in cider <span
-id="fr_40"></span>[8](#fn_40) and perry, the strong drinks of the West,
+id="fr_40"></span>[8](#fn_40.md) and perry, the strong drinks of the West,
 set the crowd dancing,—but in wanton, luxurious measures, showing no
 trace of epileptic violence.
 
@@ -384,7 +384,7 @@ microcosm of the individual human being.
 All is of a piece; solidarity rules throughout. The belly is the servant
 of the brain, and feeds it; but it is no less true that the brain,
 working ceaselessly to make the sugar required in the processes of
-digestion, <span id="fr_41"></span>[9](#fn_41) is no less active to
+digestion, <span id="fr_41"></span>[9](#fn_41.md) is no less active to
 assist the belly.
 
  
@@ -448,7 +448,7 @@ and saved her life.
 
 ### Footnotes
 
-<span id="fn_33"></span>[79:1](sor11.htm#fr_33) Leprosy was supposed due
+<span id="fn_33"></span>[79:1](sor11.htm#fr_33.md) Leprosy was supposed due
 to the Crusades, to be an importation from Asia; but as a matter of fact
 Europe had only herself to thank for the scourge. The war persistently
 waged by the Middle Ages against the flesh and against cleanliness was
@@ -465,10 +465,10 @@ ethereal ladies, the Percivals, Tristrams, Iseults, ever washed. Hence a
 cruel accident, highly unpoetical in such romantic surroundings,—the
 furious itches that tortured our thirteenth-century ancestors.
 
-<span id="fn_34"></span>[80:2](sor11.htm#fr_34) The polite, flattering
+<span id="fn_34"></span>[80:2](sor11.htm#fr_34.md) The polite, flattering
 name fear conferred upon the Sorceresses.
 
-<span id="fn_35"></span>[81:3](sor11.htm#fr_35) It is cruel to note the
+<span id="fn_35"></span>[81:3](sor11.htm#fr_35.md) It is cruel to note the
 ingratitude of mankind. A thousand other plants have usurped their
 place, a hundred exotic herbs have been preferred by fashion, while
 these poor, humble *Solanaceæ* that saved so many lives in former days
@@ -485,11 +485,11 @@ hence mankind will have forgotten the virtues of wheat? See Langlois, on
 the *soma* of India, and the *hom* of Persia (*Mém. de l’Académie des
 Inscriptions*, xix. 326).
 
-<span id="fn_36"></span>[81:4](sor11.htm#fr_36) *Dict. d’Histoire
+<span id="fn_36"></span>[81:4](sor11.htm#fr_36.md) *Dict. d’Histoire
 Naturelle* of M. d’Orbigny; article *Morelles* (Nightshades), by M.
 Duchartre, after Demal, etc.
 
-<span id="fn_37"></span>[82:5](sor11.htm#fr_37) I have not been able to
+<span id="fn_37"></span>[82:5](sor11.htm#fr_37.md) I have not been able to
 find this scale detailed in any work I have consulted. It is the more
 important, inasmuch as the witches who undertook this series of
 experiments, at the risk of being branded as poisoners, undoubtedly
@@ -503,21 +503,21 @@ General Botany). In this important monograph M. Pouchet has not
 disdained to draw from the ancient writers, Matthiole, Porta, Gessner,
 Sauvages, Gmelin, etc.
 
-<span id="fn_38"></span>[82:6](sor11.htm#fr_38) See plate in that
+<span id="fn_38"></span>[82:6](sor11.htm#fr_38.md) See plate in that
 excellent and quite inoffensive work, the *Cours de Physiologie* of M.
 Auzouz.
 
-<span id="fn_39"></span>[84:7](sor11.htm#fr_39) Madame La Chapelle and
+<span id="fn_39"></span>[84:7](sor11.htm#fr_39.md) Madame La Chapelle and
 M. Chaussier have returned to these practices of old-fashioned popular
 medicine with great advantage to their patients (Pouchet, *Solanées*, p.
 64).
 
-<span id="fn_40"></span>[86:8](sor11.htm#fr_40) Then quite a new
+<span id="fn_40"></span>[86:8](sor11.htm#fr_40.md) Then quite a new
 beverage. It first began to be manufactured in the twelfth century.
 
-<span id="fn_41"></span>[87:9](sor11.htm#fr_41) This is the great
+<span id="fn_41"></span>[87:9](sor11.htm#fr_41.md) This is the great
 discovery that makes Claude Bernard's name immortal.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Charms and Love Potions](sor12)
+[Next: 10. Charms and Love Potions](sor12.md)

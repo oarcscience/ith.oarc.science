@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont12)  [Next](ont14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont12)  [Next](ont14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -124,7 +124,7 @@ have food to eat and that we might live to be old.
 
 "When Big Lake was our head chief, an expedition, made up from the clan
 of Small Robes, crossed the Rocky Mountains to visit the Flathead
-Indians. They met there a Black Robe <span id="fr_19"></span>[1](#fn_15)
+Indians. They met there a Black Robe <span id="fr_19"></span>[1](#fn_15.md)
 (Father De Smet). He was a good man, so they persuaded him to return
 with them. We named him Innu-e-kinni (Long Teeth), because of the
 appearance of his teeth. He lived with us for a long time, occupying a
@@ -282,7 +282,7 @@ buffalo in the moon when the
 
 <span id="img_16200"></span> <span align="CENTER"> [![YELLOW BUFFALO
 TIPI.](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)  
+Click to enlarge](img/16200.jpg.md)  
 YELLOW BUFFALO TIPI.  
 </span>
 
@@ -357,7 +357,7 @@ securely fastened, just as they had left it, but when they looked
 inside Ma-sto-peta was gone. The Pipe still hung from the lodge poles
 over the spot where the body had lain, and everything, including his
 spear, bow and quiver full of arrows, were undisturbed. The women
-aroused the camp and [everybody](errata.htm#2) joined in the search.
+aroused the camp and [everybody](errata.htm#2.md) joined in the search.
 They thought perhaps he had come back to life and wandered away. They
 examined carefully the thicket around the lodge, but could find no
 signs. Some rode far out on the plains and watched from the high buttes.
@@ -411,9 +411,9 @@ after death."
 
 ### Footnotes
 
-<span id="fn_15"></span>[157:1](ont13.htm#fr_19) See
-[Appendix](ont44.htm#an_157).
+<span id="fn_15"></span>[157:1](ont13.htm#fr_19.md) See
+[Appendix](ont44.htm#an_157.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Sun Worship](ont14)
+[Next: Chapter XI. Sun Worship](ont14.md)

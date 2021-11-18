@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui02)  [Next](bui04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui02)  [Next](bui04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -69,7 +69,7 @@ beyond provision for the body; as the men of Egypt, for instance, wanted
 an indestructible resting-place, and so built the pyramids. As Capart
 says, prehistoric art shows that this utilitarian purpose was in almost
 every case blended with a religious, or at least a magical,
-purpose. <span id="fr_0"></span>[1](#fn_0) The spiritual instinct, in
+purpose. <span id="fr_0"></span>[1](#fn_0.md) The spiritual instinct, in
 seeking to recreate types and to set up more sympathetic relations with
 the universe, led to imitation, to ideas of proportion, to the passion
 for beauty, and to the effort after perfection.
@@ -132,7 +132,7 @@ what to gather, and how to rule. These are the two great intellectual
 Lamps of Architecture; the one consisting in a just and humble
 veneration of the works of God upon earth, and the other in an
 understanding of the dominion over those works which has been vested in
-man. <span id="fr_1"></span>[1](#fn_1)</span>
+man. <span id="fr_1"></span>[1](#fn_1.md)</span>
 
 </div>
 
@@ -156,7 +156,7 @@ columns was acquired through worshiping in the groves of the forest; and
 modern research has come to much the same view, for Sir Arthur Evans
 shows that in the first European age columns were gods. All over Europe
 the early morning of architecture was spent in the worship of great
-stones. <span id="fr_2"></span>[1](#fn_2)
+stones. <span id="fr_2"></span>[1](#fn_2.md)
 
 If we go to old Egypt, where the art of building seems first to have
 gathered power, and where its remains are best preserved, we may read
@@ -180,7 +180,7 @@ At any rate, the earliest known structure actually discovered, a
 prehistoric tomb found in the sands at Hieraconpolis, is already
 right-angled. As Lethaby reminds us, modern people take squareness very
 much for granted as being a self-evident form, but the discovery of the
-square was a great step in geometry. <span id="fr_3"></span>[1](#fn_3)
+square was a great step in geometry. <span id="fr_3"></span>[1](#fn_3.md)
 It opened a new era in the story of the builders. Early inventions must
 have seemed like revelations, as indeed they were; and it is not strange
 that skilled craftsmen were looked upon as magicians. If man knows as
@@ -199,7 +199,7 @@ its laws are the laws of the Eternal.
 
 Maspero tells us that the temples of Egypt, even from earliest times,
 were built in the image of the earth as the builders had imagined
-it. <span id="fr_4"></span>[1](#fn_4) For them the earth was a sort of
+it. <span id="fr_4"></span>[1](#fn_4.md) For them the earth was a sort of
 flat slab more long than wide, and the sky was a ceiling or vault
 supported by four great pillars. The pavement represented the earth; the
 four angles stood for the pillars; the ceiling, more often flat, though
@@ -217,7 +217,7 @@ point to the sunrise. Before the outer gates were obelisks and avenues
 of statues. Such were the shrines of the old solar religion, so oriented
 that on one day in the year the beams of the rising sun, or of some
 bright star that hailed his coming, should stream down the nave and
-illumine the altar. <span id="fr_5"></span>[1](#fn_5)
+illumine the altar. <span id="fr_5"></span>[1](#fn_5.md)
 
 Clearly, one ideal of the early builders was that of sacrifice, as seen
 in their use of the finest materials; and another was accuracy of
@@ -250,7 +250,7 @@ recollection and tradition, like the *Ka’aba* at Mecca. Whether it be an
 imitation of the triangle of zodiacal light, seen at certain times in
 the eastern sky at sunrise and sunset, or a feat of masonry used as a
 symbol of Heaven, as the Square was an emblem of Earth, no one may
-affirm. <span id="fr_6"></span>[1](#fn_6) In the Pyramid Texts the
+affirm. <span id="fr_6"></span>[1](#fn_6.md) In the Pyramid Texts the
 Sun-god, when he created all the other gods, is shown sitting on the
 apex of the sky in the form of a Phoenix—that
 
@@ -258,7 +258,7 @@ apex of the sky in the form of a Phoenix—that
 
 <span class="contnote">\[paragraph continues\]</span> Supreme God to
 whom two architects, Suti and Hor, wrote so noble a hymn of
-praise. <span id="fr_7"></span>[1](#fn_7)
+praise. <span id="fr_7"></span>[1](#fn_7.md)
 
 White with the worship of ages, ineffably beautiful and pathetic, is the
 old light-religion of humanity—a sublime nature-mysticism in which Light
@@ -272,7 +272,7 @@ emerged from the night of animalism, was a worship of the Light—his
 temple hung with stars, his altar a glowing flame, his ritual a woven
 hymn of night and day. No poet of our day, not even Shelley, has written
 lovelier lyrics in praise of the Light than those hymns of Ikhnaton in
-the morning of the world. <span id="fr_8"></span>[2](#fn_8) Memories of
+the morning of the world. <span id="fr_8"></span>[2](#fn_8.md) Memories of
 this religion of the dawn linger with
 
 <span id="page_15">p. 15</span>
@@ -304,22 +304,22 @@ of the years.
 
 ### Footnotes
 
-<span id="fn_0"></span>[6:1](bui03.htm#fr_0) *Primitive Art in Egypt*.
+<span id="fn_0"></span>[6:1](bui03.htm#fr_0.md) *Primitive Art in Egypt*.
 
-<span id="fn_1"></span>[8:1](bui03.htm#fr_1) Chapter iii, aphorism 2.
+<span id="fn_1"></span>[8:1](bui03.htm#fr_1.md) Chapter iii, aphorism 2.
 
-<span id="fn_2"></span>[9:1](bui03.htm#fr_2) *Architecture*, by Lethaby,
+<span id="fn_2"></span>[9:1](bui03.htm#fr_2.md) *Architecture*, by Lethaby,
 chap. i.
 
-<span id="fn_3"></span>[10:1](bui03.htm#fr_3) *Architecture*, by
+<span id="fn_3"></span>[10:1](bui03.htm#fr_3.md) *Architecture*, by
 Lethaby, chap. ii.
 
-<span id="fn_4"></span>[11:1](bui03.htm#fr_4) Dawn of Civilization.
+<span id="fn_4"></span>[11:1](bui03.htm#fr_4.md) Dawn of Civilization.
 
-<span id="fn_5"></span>[12:1](bui03.htm#fr_5) *Dawn of Astronomy*,
+<span id="fn_5"></span>[12:1](bui03.htm#fr_5.md) *Dawn of Astronomy*,
 Norman Lockyer.
 
-<span id="fn_6"></span>[13:1](bui03.htm#fr_6) Churchward, in his *Signs
+<span id="fn_6"></span>[13:1](bui03.htm#fr_6.md) Churchward, in his *Signs
 and Symbols of Primordial Man* (chap. xv), holds that the pyramid was
 typical of heaven, Shu, standing on seven steps, having lifted the sky
 from the earth in the form of a triangle; and that at each point stood
@@ -328,10 +328,10 @@ where Horns of the Horizon had his throne. This is, in so far, true; but
 the pyramid emblem was older than Osiris, Isis, and Horns, and runs hack
 into an obscurity beyond knowledge.
 
-<span id="fn_7"></span>[14:1](bui03.htm#fr_7) *Religion and Thought in
+<span id="fn_7"></span>[14:1](bui03.htm#fr_7.md) *Religion and Thought in
 Egypt*, by Breasted, lecture ix.
 
-<span id="fn_8"></span>[14:2](bui03.htm#fr_8) Ikhnaton, indeed, was a
+<span id="fn_8"></span>[14:2](bui03.htm#fr_8.md) Ikhnaton, indeed, was a
 grand, solitary, shining figure, "the first idealist in history," and a
 poetic thinker in whom the religion of Egypt attained its highest reach.
 Dr. Breasted puts his lyrics alongside the poems of Wordsworth and the
@@ -342,4 +342,4 @@ soul—"the first individual in time."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Working Tools](bui04)
+[Next: Chapter II. The Working Tools](bui04.md)

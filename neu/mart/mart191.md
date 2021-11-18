@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK VIII CHAPTER XXXVIII
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK VIII](book07) 
-[Previous](mart190)  [Next](mart192) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK VIII](book07.md) 
+[Previous](mart190)  [Next](mart192.md) </span>
 
 ------------------------------------------------------------------------
 

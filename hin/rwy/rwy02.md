@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](rwy01)  [Next](rwy03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](rwy01)  [Next](rwy03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Relax With Yoga*, by Arthur Liebers, \[1960\], at Intangible Textual
 Heritage
 
@@ -107,4 +107,4 @@ and belief.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Control of the Brain and Nervous System](rwy03)
+[Next: 2. Control of the Brain and Nervous System](rwy03.md)

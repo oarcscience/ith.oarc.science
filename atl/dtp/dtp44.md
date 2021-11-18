@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp43)  [Next](dtp45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp43)  [Next](dtp45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -230,7 +230,7 @@ instruments will be made which Atlantis once well knew, when the
 prismatic rays from a spectroscope will be found to be a source of heat,
 and of sound, so that the so-called 'flames' of the sun, and of the
 stars will produce music, harmonies divine. <span
-id="fr_34"></span>[1](#fn_34) Yea, further, for going on down, the dark
+id="fr_34"></span>[1](#fn_34.md) Yea, further, for going on down, the dark
 green solar spectrum of iron will be made to yield iron for use in the
 arts, and so with the other bands and lines, the intense greens, blues,
 and blue-greens give copper, lead, antimony and so on. It is by these
@@ -453,7 +453,7 @@ Poseid. I knew that Zailm's spirit, human soul, his individuality, were
 also mine; that I, Pierson, had been Zailm. I was able to form a fair
 remembering of Zailm's life, and of its events and his friends. I knew
 that the acts he did and the sins he committed were my
-[inheritance](errata.htm#25) and that I was responsible for them,
+[inheritance](errata.htm#25.md) and that I was responsible for them,
 because though his personality was not my personality, his individuality
 was, and is, mine. Although I knew not who Lolix was, or that she lived,
 yet for Zailm's (my) sin with her and for her tragic death, I must
@@ -535,7 +535,7 @@ better than I love life! I implore the one in the assemblage who seems
 to be a ruler of the nation to prohibit the wedding. Then the priest
 turns to me, now he looks at me, and, oh! my God! his look chills me in
 death! I seem to rise above the scene and yet my body still stands in a
-stony, petrified [rigidity](errata.htm#26).--------Now it seems some
+stony, petrified [rigidity](errata.htm#26.md).--------Now it seems some
 time elapses, and I see the young man who was to be wed. I see the
 Monarch, too, and they are both in the temple. Now the young man lifts
 the--my body of stone, and lets it drop into the Light on the great
@@ -650,8 +650,8 @@ ye doers of the Word, not hearers only.
 
 ### Footnotes
 
-<span id="fn_34"></span>[365:1](dtp44.htm#fr_34) Job xxxviii, 7.
+<span id="fn_34"></span>[365:1](dtp44.htm#fr_34.md) Job xxxviii, 7.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: After the Years, Return](dtp45)
+[Next: Chapter X: After the Years, Return](dtp45.md)

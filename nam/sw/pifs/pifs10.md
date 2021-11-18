@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs09)  [Next](pifs11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs09)  [Next](pifs11.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ sometimes spread their
 <span id="img_05000"></span>
 
 [![THE COYOTES AT SUPPER WITH THE WOODPECKERS.](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)  
+Click to enlarge](img/05000.jpg.md)  
 THE COYOTES AT SUPPER WITH THE WOODPECKERS.  
 
 wings, and displayed their bright under-side. They praised the supper
@@ -113,4 +113,4 @@ put on no false colors."
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Man Who Married the Moon](pifs11)
+[Next: VIII. The Man Who Married the Moon](pifs11.md)

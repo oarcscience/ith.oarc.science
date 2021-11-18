@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jce31)  [Next](jce33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jce31)  [Next](jce33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P884Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Journey to the Center of the Earth*, by Jules Verne, \[1877\], at
 Intangible Textual Heritage
 
@@ -106,7 +106,7 @@ given up the whole of the secret of its depth to the philosopher, who
 investigated it to the depth of 2,500 feet, it probably did not extend
 much farther. The immense mammoth cave in Kentucky is of gigantic
 proportions, since its vaulted roof rises five hundred feet  <span
-id="fr_9"></span>[10](#fn_9) above the level of an unfathomable lake and
+id="fr_9"></span>[10](#fn_9.md) above the level of an unfathomable lake and
 travellers have explored its ramifications to the extent of forty miles.
 But what were these cavities compared to that in which I stood with
 wonder and admiration, with its sky of luminous vapours, its bursts of
@@ -222,7 +222,7 @@ lime, and without hesitation I named these monstrous bones, which lay
 scattered about like decayed trunks of trees.
 
 "Here is the lower jaw of a mastodon,"  <span
-id="fr_10"></span>[11](#fn_10) I said. "These are the molar teeth of the
+id="fr_10"></span>[11](#fn_10.md) I said. "These are the molar teeth of the
 deinotherium; this femur must have belonged to the greatest of those
 beasts, the megatherium. It certainly is a menagerie, for these remains
 were not brought here by a deluge. The animals to which they belonged
@@ -284,14 +284,14 @@ asleep in the midst of the strangest thoughts.
 
 ### Footnotes
 
-<span id="fn_9"></span>[10](jce32.htm#fr_9) One hundred and twenty.
+<span id="fn_9"></span>[10](jce32.htm#fr_9.md) One hundred and twenty.
 (Trans.)
 
-<span id="fn_10"></span>[11](jce32.htm#fr_10) These animals belonged to
+<span id="fn_10"></span>[11](jce32.htm#fr_10.md) These animals belonged to
 a late geological period, the Pliocene, just before the glacial epoch,
 and therefore could have no connection with the carboniferous
 vegetation. (Trans.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXI. Preparations for a Voyage of Discovery](jce33)
+[Next: Chapter XXXI. Preparations for a Voyage of Discovery](jce33.md)

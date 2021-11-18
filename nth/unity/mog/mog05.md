@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](mog04)  [Next](mog06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](mog04)  [Next](mog06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Mysteries of Genesis*, by Charles Fillmore, \[1936\], at Intangible
 Textual Heritage
 
@@ -1023,4 +1023,4 @@ spiritual; Ham ("warm") represents the physical mind, and Japheth
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](mog06)
+[Next: Chapter 4](mog06.md)

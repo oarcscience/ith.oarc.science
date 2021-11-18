@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi159)  [Next](mtsi161) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi159)  [Next](mtsi161.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ looked all about but nothing was disturbed.
 
 ------------------------------------------------------------------------
 
-[Next: 25. The Hunter and His Ghostly Visitants](mtsi161)
+[Next: 25. The Hunter and His Ghostly Visitants](mtsi161.md)

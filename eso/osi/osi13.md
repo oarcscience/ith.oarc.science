@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](osi12)  [Next](osi14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](osi12)  [Next](osi14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5O7C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Occult Science in India*, by Louis Jacoilliot, \[1919\], at Intangible
 Textual Heritage
 
@@ -252,7 +252,7 @@ form with which we are familiar.
 
 It was not until they had passed through the first three of the
 contemplative states to which we have alluded that the Nirvanys and
-Yoguys were admitted to a [knowledge](errata.htm#4) of the higher
+Yoguys were admitted to a [knowledge](errata.htm#4.md) of the higher
 philosophical studies, and they were thus made acquainted with the
 secrets of human destiny, both present and future.
 
@@ -288,4 +288,4 @@ and flutters like the last flames of an expiring lamp.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Superior Guru—The Sacred Decade](osi14)
+[Next: Chapter II. The Superior Guru—The Sacred Decade](osi14.md)

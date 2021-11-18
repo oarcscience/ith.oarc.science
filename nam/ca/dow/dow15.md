@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow14)  [Next](dow16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow14)  [Next](dow16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -27,7 +27,7 @@ roundhouse. *Wek'-wek* flew close to him and saw him well.
 
 That night, when they had gone home, *Wek'-wek* said to *O-let'-te*,
 "Grandfather, I want to play *al'-leh* (the hand-game) with
-*Ke'-lok*." <span id="fr_10"></span>[11](#fn_10)
+*Ke'-lok*." <span id="fr_10"></span>[11](#fn_10.md)
 
 When *O-let'-te* heard *Wek'-wek* say he wanted to play *al'-leh* with
 *Ke'-lok* he laughed and said,
@@ -85,7 +85,7 @@ and he shot up into the sky,
 <span id="img_07700"></span> <span align="CENTER"> [![The Giant
 &lt;i&gt;Ke'-lok&lt;/i&gt; hurling hot Rocks at
 &lt;i&gt;Wek'-wek&lt;/i&gt;](tn/07700.jpg)  
-Click to enlarge](img/07700.jpg)  
+Click to enlarge](img/07700.jpg.md)  
 The Giant *Ke'-lok* hurling hot Rocks at *Wek'-wek*  
 </span>
 
@@ -177,7 +177,7 @@ smoke.
 
 *O-let'-te* directed *Wek'-wek* to fly quickly to the ocean and dive
 under the water, where he had two sisters named *Hoo-soo'-pe* <span
-id="fr_11"></span>[12](#fn_11) (the Mermaids), and stay with them while
+id="fr_11"></span>[12](#fn_11) (the Mermaids.md), and stay with them while
 the world was burning. So *Wek'-wek* went into the ocean and found his
 sisters and remained with them until the fire had burnt over all the
 land and had burnt itself out. While with them he killed a great many
@@ -192,14 +192,14 @@ he killed only what he needed to eat.
 
 ### Footnotes
 
-<span id="fn_10"></span>[75:11](dow15.htm#fr_10) Nowadays *al'-leh* is a
+<span id="fn_10"></span>[75:11](dow15.htm#fr_10.md) Nowadays *al'-leh* is a
 guessing game, played with two small bones, one wrapped or 'dressed' to
 distinguish it from the other. But in those days it was different, for
 *al'-leh* was played by hurling rocks with intent to kill.
 
-<span id="fn_11"></span>[81:12](dow15.htm#fr_11) See the story of
-*Ho-hā'-pe*, page [238](dow75.htm#page_238).
+<span id="fn_11"></span>[81:12](dow15.htm#fr_11.md) See the story of
+*Ho-hā'-pe*, page [238](dow75.htm#page_238.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Creation of Man](dow16)
+[Next: The Creation of Man](dow16.md)

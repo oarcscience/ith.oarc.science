@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap64) 
-[Next](bap66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap64.md) 
+[Next](bap66.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ thy son did Asaph prophesy in the wilderness
 | Ps. 99:6 |
 
 saying: *Moses and Aaron among his priests and Samuel among them*. <span
-id="fr_147"></span>[1](#fn_146) Behold the word is accomplished and the
+id="fr_147"></span>[1](#fn_146.md) Behold the word is accomplished and the
 prophecy come to pass. And these things endure thus, until they give an
 horn unto his anointed, and power cleaveth unto the throne of his king.
 Yet let my son stand here and minister, until there arise a light unto
@@ -107,10 +107,10 @@ unto this nation.
 
 ### Footnotes
 
-<span id="fn_146"></span>[218:1](bap65.htm#fr_147) LI. 6. The quotation
+<span id="fn_146"></span>[218:1](bap65.htm#fr_147.md) LI. 6. The quotation
 of Ps. 99:6 is a curious phenomenon, comparable to the mention of
 Jeremiah in LVI. 6.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LII](bap66)
+[Next: Chapter LII](bap66.md)

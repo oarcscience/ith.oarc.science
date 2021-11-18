@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe126)  [Next](prwe128) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe126)  [Next](prwe128.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ birth to pore and simple virtues.
 
 ------------------------------------------------------------------------
 
-[Next: St Keyne](prwe128)
+[Next: St Keyne](prwe128.md)

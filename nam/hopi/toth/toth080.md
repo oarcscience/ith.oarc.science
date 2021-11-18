@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth079)  [Next](toth081) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth079)  [Next](toth081.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,9 +18,9 @@ Textual Heritage
 
 <span id="page_210">p. 210</span>
 
-## 77. THE COYOTE AND THE KÓKONTU MAIDENS. <span id="fr_149"></span>[1](#fn_147)
+## 77. THE COYOTE AND THE KÓKONTU MAIDENS. <span id="fr_149"></span>[1](#fn_147.md)
 
-Halíksai! At Muñáovi the Kókontu <span id="fr_150"></span>[2](#fn_148)
+Halíksai! At Muñáovi the Kókontu <span id="fr_150"></span>[2](#fn_148.md)
 (Sing. Kóna) were living. But they were all maidens and were constantly
 grinding corn. There was a long row of them, and they were singing as
 they ground the corn. One time the Coyote came around and was going up
@@ -65,13 +65,13 @@ there dead.
 
 ### Footnotes
 
-<span id="fn_147"></span>[210:1](toth080.htm#fr_149) Told by Kwáyeshva
+<span id="fn_147"></span>[210:1](toth080.htm#fr_149.md) Told by Kwáyeshva
 (Oraíbi).
 
-<span id="fn_148"></span>[210:2](toth080.htm#fr_150) Small brownish
+<span id="fn_148"></span>[210:2](toth080.htm#fr_150.md) Small brownish
 animal with a short tail, and having white stripes running over its
 snout and head and along the back, living in rocks.
 
 ------------------------------------------------------------------------
 
-[Next: 78. The Coyote and the Grasshoppers](toth081)
+[Next: 78. The Coyote and the Grasshoppers](toth081.md)

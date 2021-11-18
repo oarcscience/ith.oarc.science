@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax27)  [Next](lax29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax27)  [Next](lax29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ Olaf now remained quietly in his home, and for a good many years.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX: Olaf's Second Journey to Norway, A.D. 975](lax29)
+[Next: Chapter XXIX: Olaf's Second Journey to Norway, A.D. 975](lax29.md)

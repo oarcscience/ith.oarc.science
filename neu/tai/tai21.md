@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai20)  [Next](tai22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai20)  [Next](tai22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ Carpathians for all their length, and bordering on Poland. Yarosláv was
 also Ígoŕ's father-in-law.
 
 Fourthly, Roman and Mstíslav Rostíslavič (ll. 495-516) of Smolénsk <span
-id="fr_10"></span>[†](#fn_10) are besought for aid. These campaigned
+id="fr_10"></span>[†](#fn_10.md) are besought for aid. These campaigned
 beyond the Tátra
 
 <span id="page_xxxviii">p. xxxviii</span>
@@ -237,9 +237,9 @@ too in which much poetry of very high quality abounds.
 
 ### Footnotes
 
-<span id="fn_10"></span>[xxxvii:†](tai21.htm#fr_10) More probably Román
+<span id="fn_10"></span>[xxxvii:†](tai21.htm#fr_10.md) More probably Román
 Mstíslavič (v. note).
 
 ------------------------------------------------------------------------
 
-[Next: The Versification](tai22)
+[Next: The Versification](tai22.md)

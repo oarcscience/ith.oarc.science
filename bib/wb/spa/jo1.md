@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](pe2)  [Next](jo2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](pe2)  [Next](jo2.md) 
 
 ------------------------------------------------------------------------
 
@@ -388,4 +388,4 @@ Dios, y la vida eterna.
 
 ------------------------------------------------------------------------
 
-[Next: 2 John](jo2)
+[Next: 2 John](jo2.md)

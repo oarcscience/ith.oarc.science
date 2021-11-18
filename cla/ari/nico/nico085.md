@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico084) 
-[Next](nico086) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico084.md) 
+[Next](nico086.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ others are friends incidentally and through a resemblance to these.
 ------------------------------------------------------------------------
 
 [Next: Chapter 5. The state of friendship distinguished from the
-activity of friendship and from the feeling of friendliness](nico086)
+activity of friendship and from the feeling of friendliness](nico086.md)

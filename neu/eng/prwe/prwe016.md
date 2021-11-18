@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe015)  [Next](prwe017) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe015)  [Next](prwe017.md) 
 
 ------------------------------------------------------------------------
 
@@ -281,4 +281,4 @@ dig."--PRYCE.
 ------------------------------------------------------------------------
 
 [Next: How Tom and the Tinkeard found the Tin, and how it led to Morva
-Fair](prwe017)
+Fair](prwe017.md)

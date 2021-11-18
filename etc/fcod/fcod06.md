@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod05)  [Next](fcod07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod05)  [Next](fcod07.md) 
 
 ------------------------------------------------------------------------
 
@@ -890,4 +890,4 @@ master to the shades?
 ------------------------------------------------------------------------
 
 [Next: Chapter IV: Wakes, Mutes, Wailers, Sin-Eating, Totemism,
-Death-Taxes](fcod07)
+Death-Taxes](fcod07.md)

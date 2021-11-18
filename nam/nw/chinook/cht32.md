@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht31)  [Next](cht33) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht31)  [Next](cht33.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ unsuccessful.
 
 ------------------------------------------------------------------------
 
-[Next: The Potlatch](cht33)
+[Next: The Potlatch](cht33.md)

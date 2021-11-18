@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca49)  [Next](fsca51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca49)  [Next](fsca51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ at Intangible Textual Heritage
 <span id="page_205">p. 205</span>
 
 <span id="img_20500"></span> ![Cat-a-Mountain saliant, collared and
-lined.](img/20500.jpg)
+lined.](img/20500.jpg.md)
 
 ### Cat-a-Mountain—Tiger Cat or Wild Cat
 
@@ -48,7 +48,7 @@ id="img_20600"></span>
 
 |                                                                        |
 |------------------------------------------------------------------------|
-| ![Crest, a Cat-a-Mountain, sejant, collared and lined.](img/20600.jpg) |
+| ![Crest, a Cat-a-Mountain, sejant, collared and lined.](img/20600.jpg.md) |
 
 heraldry published 1572, describes a musion as "a beaste that is enimie
 to myse and rattes." He adds also that he is "slye and wittie, and seeth
@@ -134,4 +134,4 @@ of the Earl of Belmore. It is the crest of De Burgh.
 
 ------------------------------------------------------------------------
 
-[Next: The Salamander](fsca51)
+[Next: The Salamander](fsca51.md)

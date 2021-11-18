@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](rac10)  [Next](rac12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](rac10)  [Next](rac12.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ Fionn band.
 
 The historic view of the Fians is taken by the annalists, by Keating,
 O'Curry, Dr. Joyce, and Dr. Douglas Hyde. <span
-id="fr_505"></span>[1](#fn_504) According to this view, they were a
+id="fr_505"></span>[1](#fn_504.md) According to this view, they were a
 species of militia maintained by the Irish kings for the support of the
 throne and the defence of the country. From Samhain to Beltane they were
 quartered on the people, and from Beltane to Samhain they lived by
@@ -212,7 +212,7 @@ pre-Celtic, these may be sought in an earlier connection of Ireland with
 Scandinavia in the early Bronze Age. Ireland had a flourishing
 civilisation then, and exported beautiful gold ornaments to Scandinavia,
 where they are still found in Bronze Age deposits. <span
-id="fr_506"></span>[1](#fn_505) This flourishing civilisation was
+id="fr_506"></span>[1](#fn_505.md) This flourishing civilisation was
 overwhelmed by the invasion of the Celtic barbarians. But if the
 Scandinavians borrowed gold and artistic decorations from Ireland, and
 if the Fionn saga or part of it was already in existence, why should
@@ -241,7 +241,7 @@ identical with the god Camulos. In a short time, Fionn, now a marauder
 and an outlaw, appeared at Conn's Court, and that same night slew one of
 the Tuatha Dea, who came yearly and destroyed the palace. For this he
 received his rightful heritage--the leadership of the Fians, formerly
-commanded by Cumal. <span id="fr_507"></span>[1](#fn_506) Another
+commanded by Cumal. <span id="fr_507"></span>[1](#fn_506.md) Another
 incident of Fionn's youth tells how he obtained his "thumb of
 knowledge." The eating of certain "salmon of knowledge" was believed to
 give inspiration, an idea perhaps derived from earlier totemistic
@@ -250,14 +250,14 @@ his pupil Fionn to cook it, forbidding him to taste it. But as he was
 turning the fish Fionn burnt his thumb and thrust it into his mouth,
 thus receiving the gift of inspiration. Hereafter he had only to suck
 his thumb in order to obtain secret information. <span
-id="fr_508"></span>[2](#fn_507) In another story the inspiration is
+id="fr_508"></span>[2](#fn_507.md) In another story the inspiration is
 already in his thumb, as Samson's strength was in his hair,
 
 <span id="page_150">p. 150</span>
 
 but the power is also partly in his tooth, under which, after ritual
 preparation, he has to place his thumb and chew it. <span
-id="fr_509"></span>[1](#fn_508)
+id="fr_509"></span>[1](#fn_508.md)
 
 Fionn had many wives and sweethearts, one of them, Saar, being mother of
 Oisin. Saar was turned into a fawn by a Druid, and fled from Fionn's
@@ -265,7 +265,7 @@ house. Long after he found a beast-child in the forest and recognised
 him as his son. He nourished him until his beast nature disappeared, and
 called him Oisin, "little fawn." Round this birth legend many stories
 sprang up--a sure sign of its popularity. <span
-id="fr_510"></span>[2](#fn_509) Oisin's fame as a poet far excelled that
+id="fr_510"></span>[2](#fn_509.md) Oisin's fame as a poet far excelled that
 of Fionn, and he became the ideal bard of the Gaels.
 
 By far the most passionate and tragic story of the saga is that of
@@ -281,7 +281,7 @@ agony, beseeching Fionn to bring him water in his hand, for if he did
 this he would heal him. In spite of repeated appeals, Fionn, after
 bringing the water, let it drip from his hands. Diarmaid's brave soul
 passed away, and on Fionn's character this dire blot was fixed for
-ever. <span id="fr_511"></span>[3](#fn_510)
+ever. <span id="fr_511"></span>[3](#fn_510.md)
 
 Other tales relate how several of the Fians were spirited away to the
 Land beyond the Seas, how they were rescued,
@@ -295,13 +295,13 @@ result of their exactions and demands. Fionn was told by his wife, a
 wise woman, never to drink out of a horn, but coming one day thirsty to
 a well, he forgot this tabu, and so brought the end near. He encountered
 the sons of Uirgrenn, whom he had slain, and in the fight with them he
-fell. <span id="fr_512"></span>[1](#fn_511) Soon after were fought
+fell. <span id="fr_512"></span>[1](#fn_511.md) Soon after were fought
 several battles, culminating in that of Gabhra in which all but a few
 Fians perished. Among the survivors were Oisin and Caoilte, who lingered
 on until the coming of S. Patrick. Caoilte remained on earth, but Oisin,
 whose mother was of the *síd* folk, went to fairyland for a time,
 ultimately returning and joining S. Patrick's company. <span
-id="fr_513"></span>[2](#fn_512) But a different version is given in the
+id="fr_513"></span>[2](#fn_512.md) But a different version is given in the
 eighteenth century poem of Michael Comyn, undoubtedly based on popular
 tales. Oisin met the Queen of Tír na n-Og and went with her to
 fairyland, where time passed as a dream until one day he stood on a
@@ -341,7 +341,7 @@ the puppets of the page of history.
 
 The earliest evidence of the attitude of the ecclesiastical world to
 these heroes is found in the *Agallamh na Senorach*, or "Colloquy of the
-Ancients." <span id="fr_514"></span>[1](#fn_513) This may have been
+Ancients." <span id="fr_514"></span>[1](#fn_513.md) This may have been
 composed in the thirteenth century, and its author knew scores of Fionn
 legends. Making use of the tradition that Caoilte and Oisin had met S.
 Patrick, be makes Caoilte relate many of the tales, usually in
@@ -496,21 +496,21 @@ And battles long ago."
 
 ### Footnotes
 
-<span id="fn_504"></span>[143:1](rac11.htm#fr_505) See Joyce, *OCR* 447.
+<span id="fn_504"></span>[143:1](rac11.htm#fr_505.md) See Joyce, *OCR* 447.
 
-<span id="fn_505"></span>[148:1](rac11.htm#fr_506) Montelius, *Les Temps
+<span id="fn_505"></span>[148:1](rac11.htm#fr_506.md) Montelius, *Les Temps
 Préhistoriques*, 57, 151; Reinach, BC xxi. 8.
 
-<span id="fn_506"></span>[149:1](rac11.htm#fr_507) The popular versions
+<span id="fn_506"></span>[149:1](rac11.htm#fr_507.md) The popular versions
 of this early part of the saga differ much in detail, but follow the
 main outlines in much the same way. See Curtin, *HTI* 204; Campbell,
 *LF* 33 f.; *WHT* iii. 348.
 
-<span id="fn_507"></span>[149:2](rac11.htm#fr_508) In a widespread group
+<span id="fn_507"></span>[149:2](rac11.htm#fr_508.md) In a widespread group
 of tales supernatural knowledge is obtained by eating part of some
 animal, usually a certain snake. in many of these tales the food is
 eaten by another person than he who obtained it, as in the case of
-Fionn. Cf. the Welsh story of Gwion, [p. 116](rac09.htm#page_116), and
+Fionn. Cf. the Welsh story of Gwion, [p. 116](rac09.htm#page_116.md), and
 the Scandinavian of Sigurd, and other parallels in Miss Cox,
 *Cinderella*, 496; Frazer, *Arch. Rev.* i. 172 f. The story is thus a
 folk-tale formula applied to Fionn, doubtless because it harmonised with
@@ -523,26 +523,26 @@ believe that his inspiration comes from the tongue of a mysterious river
 otter, caught by him. See Dell, *Bureau of Ethnol.* 3rd report; and Miss
 Buckland, *Jour. Anth. Inst.* xxii. 29.
 
-<span id="fn_508"></span>[150:1](rac11.htm#fr_509) *TOS* iv.; O'Curry,
+<span id="fn_508"></span>[150:1](rac11.htm#fr_509.md) *TOS* iv.; O'Curry,
 *MS. Mat.* 396; Joyce, *OCR* 194, 339.
 
-<span id="fn_509"></span>[150:2](rac11.htm#fr_510) For ballad versions
+<span id="fn_509"></span>[150:2](rac11.htm#fr_510.md) For ballad versions
 see Campbell, *LF* 198.
 
-<span id="fn_510"></span>[150:3](rac11.htm#fr_511) Numerous ballad
+<span id="fn_510"></span>[150:3](rac11.htm#fr_511.md) Numerous ballad
 versions are given in Campbell *LF* 152 f. The tale is localised in
 various parts of Ireland and the Highlands, many dolmens in Ireland
 being known as Diarmaid and Grainne's beds.
 
-<span id="fn_511"></span>[151:1](rac11.htm#fr_512) For an account
+<span id="fn_511"></span>[151:1](rac11.htm#fr_512.md) For an account
 differing from this annalistic version, see *ZCP* i. 465.
 
-<span id="fn_512"></span>[151:2](rac11.htm#fr_513) O'Grady, ii. 102.
+<span id="fn_512"></span>[151:2](rac11.htm#fr_513.md) O'Grady, ii. 102.
 This, on the whole, agrees with the Highland ballad version, *LF* 198.
 
-<span id="fn_513"></span>[152:1](rac11.htm#fr_514) *IT* iv.; O'Grady,
+<span id="fn_513"></span>[152:1](rac11.htm#fr_514.md) *IT* iv.; O'Grady,
 *Silva Gad.* text and translation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Gods and Men](rac12)
+[Next: Chapter IX. Gods and Men](rac12.md)

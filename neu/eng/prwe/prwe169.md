@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe168)  [Next](prwe170) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe168)  [Next](prwe170.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ that had been proved, they fined defendant Is. and the costs, £1 in all.
 
 ------------------------------------------------------------------------
 
-[Next: Ill-wishing](prwe170)
+[Next: Ill-wishing](prwe170.md)

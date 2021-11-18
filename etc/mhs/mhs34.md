@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs33)  [Next](mhs35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs33)  [Next](mhs35.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ hence to "fleece" or "pluck." Thus the phrase Il me l'a bien salé means
 
 ------------------------------------------------------------------------
 
-[Next: IV. Salt Employed To Confirm An Oath](mhs35)
+[Next: IV. Salt Employed To Confirm An Oath](mhs35.md)

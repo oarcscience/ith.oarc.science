@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar134) [Next](gbar136)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar134) [Next](gbar136.md)
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ give torment to the wretched sinner.
 
 ------------------------------------------------------------------------
 
-[Next](gbar136)
+[Next](gbar136.md)

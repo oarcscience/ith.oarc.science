@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi028)  [Next](mtsi030) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi028)  [Next](mtsi030.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ from a human being.
 
 ------------------------------------------------------------------------
 
-[Next: 28. The King of the Tie-Snakes](mtsi030)
+[Next: 28. The King of the Tie-Snakes](mtsi030.md)

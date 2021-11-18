@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl17)  [Next](flhl19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl17)  [Next](flhl19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ some tradition to explain the unusual ornament. In the case of the Bâb
 el Asbât the story has been preserved in current folk-lore, and is as
 follows:--
 
-Sultan Selìm <span id="fr_46"></span>[1](#fn_46) dreamed a dream in
+Sultan Selìm <span id="fr_46"></span>[1](#fn_46.md) dreamed a dream in
 which he imagined he was being torn in pieces by four lions. Awaking in
 terror, he sent at once for all the learned to interpret his vision. But
 they could not. He then had recourse to a famous sheykh who dwelt at a
@@ -87,7 +87,7 @@ The work on the walls was entrusted to the superintendence of two
 brothers, who were architects. Each of them had his own party of
 workmen, and his sphere of labour. They both began at Bâb el Asbât, one
 party working northwards and the other southwards. It took seven
-years <span id="fr_47"></span>[1](#fn_47) to complete the task. At the
+years <span id="fr_47"></span>[1](#fn_47.md) to complete the task. At the
 expiration of that time both working parties met again at Bâb el Khalìl.
 The architect who had been given the duty of enclosing the southern part
 of the city was however beheaded by the Sultan's orders, because he had
@@ -109,7 +109,7 @@ When Belkis, Queen of Sheba, visited Jerusalem, King Suleyman, enchanted
 by her loveliness, wished to marry her; but a mischief-maker told him
 that the queen was not human, but a jinnìyeh, having legs and hoofs like
 a donkey. The king ordered his informant, a jealous woman, <span
-id="fr_48"></span>[1](#fn_48) to hold her tongue on pain of death. But
+id="fr_48"></span>[1](#fn_48.md) to hold her tongue on pain of death. But
 the charge rankled in his mind, and he determined to see for himself
 that it was untrue. So he caused the Jân to build a spacious hall, whose
 floor was one huge pane of transparent crystal, through which could be
@@ -126,7 +126,7 @@ at the gates day and night, to prevent any one from getting near it. But
 all these precautions were vain, for Suleymân, wishing one day to
 convince her of the power of the name of Allah, by invoking that name,
 had the throne transported to Jerusalem in less time than it takes to
-relate. <span id="fr_49"></span>[1](#fn_49)
+relate. <span id="fr_49"></span>[1](#fn_49.md)
 
 When all was ready he sent for the queen to come and see his fine new
 building. On entering she was surprised to behold the king upon a throne
@@ -151,44 +151,44 @@ how to concoct a depilatory,
 by the use of which her limbs quickly became as smooth, white, and
 comely as if they had been of cast silver. Ever since that time," says a
 famous, learned, and veracious Arab historian, <span
-id="fr_50"></span>[1](#fn_50)" people have used bathing and
+id="fr_50"></span>[1](#fn_50.md)" people have used bathing and
 depilatories, and it is said that the bath-house is the same that is
 situated at the Bâb el Asbât, close to the Medresset es Salahìyeh, <span
-id="fr_51"></span>[2](#fn_51) and that it is the first bath-house ever
+id="fr_51"></span>[2](#fn_51.md) and that it is the first bath-house ever
 built."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_46"></span>[95:1](flhl18.htm#fr_46) Sultan Selìm conquered
+<span id="fn_46"></span>[95:1](flhl18.htm#fr_46.md) Sultan Selìm conquered
 Palestine in A.D. 1,527, and planned that thorough restoration of the
 walls of Jerusalem which was carried out by his son and successor,
 Suleyman, surnamed the Magnificent, who, on the extant inscriptions, is
 styled: "King of the Arabs, the Persians, and the Ram (Romans, *i.e.*
 Byzantines)."
 
-<span id="fn_47"></span>[96:1](flhl18.htm#fr_47) This statement that it
+<span id="fn_47"></span>[96:1](flhl18.htm#fr_47.md) This statement that it
 took seven years is an orientalism. According to the inscriptions still
 to he seen, the work was begun A.D. 1536 on the north side of the city,
 and finished on the south side A.D. 1539.
 
-<span id="fn_48"></span>[97:1](flhl18.htm#fr_48) Some of the learned say
+<span id="fn_48"></span>[97:1](flhl18.htm#fr_48.md) Some of the learned say
 it was a jinni who came to Suleymân with this tale about Belkis. The Jân
 feared lest the royal lady, whose mother had been a jinnìyeh, should be
 converted from idolatry to El Islâm and, on her marriage with the king,
 blab certain secrets of might to keep them (the Jân) for ever in the
 servitude to which El Hakìm had reduced them.
 
-<span id="fn_49"></span>[98:1](flhl18.htm#fr_49) He did this, of course,
+<span id="fn_49"></span>[98:1](flhl18.htm#fr_49.md) He did this, of course,
 before her conversion. It is a sin to play tricks upon a woman who is a
 true believer.
 
-<span id="fn_50"></span>[99:1](flhl18.htm#fr_50) Mejr-ed-dìn. "Uns El
+<span id="fn_50"></span>[99:1](flhl18.htm#fr_50.md) Mejr-ed-dìn. "Uns El
 Jelìl," vol. i. p. 125.
 
-<span id="fn_51"></span>[99:2](flhl18.htm#fr_51) Now St Anne's Church.
+<span id="fn_51"></span>[99:2](flhl18.htm#fr_51.md) Now St Anne's Church.
 
 ------------------------------------------------------------------------
 
-[Next: V. Detective Stories](flhl19)
+[Next: V. Detective Stories](flhl19.md)

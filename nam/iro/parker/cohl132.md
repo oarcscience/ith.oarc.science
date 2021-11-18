@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl131)  [Next](cohl133) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl131)  [Next](cohl133.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ Gai'wiio\` to the chiefs and head men there."
 
 ------------------------------------------------------------------------
 
-[Next: Section 122](cohl133)
+[Next: Section 122](cohl133.md)

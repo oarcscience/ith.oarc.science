@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh22)  [Next](lsbh24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh22)  [Next](lsbh24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ thief." The man replied, "If the thief had hearkened unto the counsel of
 the Gospel, he would not only have robbed me, but he would also have
 destroyed me and slain me; for he would have heard our Lord saying, 'The
 thief cometh not except to steal and to slay, and to destroy <span
-id="fr_122"></span>[1](#fn_122),' and how can He Who counselled the
+id="fr_122"></span>[1](#fn_122.md),' and how can He Who counselled the
 thief thus expose him?"
 
 DCLV\. When some thieves were stripping another man of his clothes he
@@ -154,13 +154,13 @@ eat, why didst thou not inform me? For I did not prepare food for thee."
 
 ### Footnotes
 
-<span id="fn_122"></span>[165:1](lsbh23.htm#fr_122) St. John x. 10.
+<span id="fn_122"></span>[165:1](lsbh23.htm#fr_122.md) St. John x. 10.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
 [Next: The Nineteenth Chapter: Stories of Wonderful Events and
-Occurrences](lsbh24)
+Occurrences](lsbh24.md)
 
 </div>

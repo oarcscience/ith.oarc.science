@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah96)  [Next](oah98) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah96)  [Next](oah98.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ fire, and otevans, and adavaysits.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](oah98)
+[Next: Chapter XI](oah98.md)

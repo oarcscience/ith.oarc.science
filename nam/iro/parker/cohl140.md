@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl139)  [Next](cohl141) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl139)  [Next](cohl141.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "Now it happened that they all wished to comfort him. So for his
 pleasure they started a game of lacrosse <span
-id="fr_95"></span>[2](#fn_95) and played the game well. It was a bright
+id="fr_95"></span>[2](#fn_95.md) and played the game well. It was a bright
 and beautiful day and they brought him out so that he might see the
 play. Soon he desired to be taken back into the house." Eniaiehuk.
 
@@ -16,9 +16,9 @@ play. Soon he desired to be taken back into the house." Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_95"></span>[79:2](cohl140.htm#fr_95) Games were often
+<span id="fn_95"></span>[79:2](cohl140.htm#fr_95.md) Games were often
 played to cheer and cure the sick. Special foods were given the players.
 
 ------------------------------------------------------------------------
 
-[Next: Section 130](cohl141)
+[Next: Section 130](cohl141.md)

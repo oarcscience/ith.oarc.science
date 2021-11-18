@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr08)  [Next](wsgr10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr08)  [Next](wsgr10.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ ends that look as if they had been bitten off.
 
 ------------------------------------------------------------------------
 
-[Next: Chief Two Hawks' Trail](wsgr10)
+[Next: Chief Two Hawks' Trail](wsgr10.md)

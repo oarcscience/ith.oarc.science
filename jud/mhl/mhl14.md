@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl13)  [Next](mhl15) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl13)  [Next](mhl15.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,4 +236,4 @@ I dread no evil; God is near.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](mhl15)
+[Next: Introduction](mhl15.md)

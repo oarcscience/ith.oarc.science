@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,25 +19,25 @@ Thought](../../index)  [Unity](../index) 
 
 ------------------------------------------------------------------------
 
-[Start Reading](jch00)    [Page Index](pageidx)    [Text
-\[Zipped\]](jchtxt.zip)
+[Start Reading](jch00)    [Page Index](pageidx.md)    [Text
+\[Zipped\]](jchtxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](jch00)  
-[Foreword](jch01)  
-[Contents](jch02)  
-[Chapter 1](jch03)  
-[Chapter 2](jch04)  
-[Chapter 3](jch05)  
-[Chapter 4](jch06)  
-[Chapter 5](jch07)  
-[Chapter 6](jch08)  
-[Chapter 7](jch09)  
-[Chapter 8](jch10)  
-[Chapter 9](jch11)  
-[Chapter 10](jch12)  
-[Chapter 11](jch13)  
-[Chapter 12](jch14)  
-[Question Helps](jch15)  
-[Index](jch16)  
+[Title Page](jch00.md)  
+[Foreword](jch01.md)  
+[Contents](jch02.md)  
+[Chapter 1](jch03.md)  
+[Chapter 2](jch04.md)  
+[Chapter 3](jch05.md)  
+[Chapter 4](jch06.md)  
+[Chapter 5](jch07.md)  
+[Chapter 6](jch08.md)  
+[Chapter 7](jch09.md)  
+[Chapter 8](jch10.md)  
+[Chapter 9](jch11.md)  
+[Chapter 10](jch12.md)  
+[Chapter 11](jch13.md)  
+[Chapter 12](jch14.md)  
+[Question Helps](jch15.md)  
+[Index](jch16.md)  

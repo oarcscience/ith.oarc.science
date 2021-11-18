@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bsd00)    [Page
-Index](pageidx)    [Text \[Zipped\]](bsd.txt.gz)
+[Contents](#contents)    [Start Reading](bsd00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](bsd.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,26 +43,26 @@ understand Japanese culture at a deep level.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bsd00)  
-[Dedication](bsd01)  
-[Contents](bsd02)  
-[Preface to the First Edition](bsd03)  
-[Introduction](bsd04)  
-[Epigrams](bsd05)  
-[Chapter I: Bushido As an Ethical System](bsd06)  
-[Chapter II: Sources of Bushido](bsd07)  
-[Chapter III: Rectitude or Justice](bsd08)  
-[Chapter IV: Courage, the Spirit of Daring and Bearing](bsd09)  
-[Chapter V: Benevolence, the Feeling of Distress](bsd10)  
-[Chapter VI: Politeness](bsd11)  
-[Chapter VII: Veracity and Sincerity](bsd12)  
-[Chapter VIII: Honour](bsd13)  
-[Chapter IX: The Duty of Loyalty](bsd14)  
-[Chapter X: The Education and Training of a Samurai](bsd15)  
-[Chapter XI: Self-Control](bsd16)  
-[Chapter XII: The Institutions of Suicide and Redress](bsd17)  
-[Chapter XIII: The Sword, The Soul of the Samurai](bsd18)  
-[Chapter XIV: The Training and Position of Woman](bsd19)  
-[Chapter XV: The Influence of Bushido](bsd20)  
-[Chapter XVI: Is Bushido Still Alive?](bsd21)  
-[Chapter XVII: The Future Of Bushido](bsd22)  
+<span id="contents"></span> [Title Page](bsd00.md)  
+[Dedication](bsd01.md)  
+[Contents](bsd02.md)  
+[Preface to the First Edition](bsd03.md)  
+[Introduction](bsd04.md)  
+[Epigrams](bsd05.md)  
+[Chapter I: Bushido As an Ethical System](bsd06.md)  
+[Chapter II: Sources of Bushido](bsd07.md)  
+[Chapter III: Rectitude or Justice](bsd08.md)  
+[Chapter IV: Courage, the Spirit of Daring and Bearing](bsd09.md)  
+[Chapter V: Benevolence, the Feeling of Distress](bsd10.md)  
+[Chapter VI: Politeness](bsd11.md)  
+[Chapter VII: Veracity and Sincerity](bsd12.md)  
+[Chapter VIII: Honour](bsd13.md)  
+[Chapter IX: The Duty of Loyalty](bsd14.md)  
+[Chapter X: The Education and Training of a Samurai](bsd15.md)  
+[Chapter XI: Self-Control](bsd16.md)  
+[Chapter XII: The Institutions of Suicide and Redress](bsd17.md)  
+[Chapter XIII: The Sword, The Soul of the Samurai](bsd18.md)  
+[Chapter XIV: The Training and Position of Woman](bsd19.md)  
+[Chapter XV: The Influence of Bushido](bsd20.md)  
+[Chapter XVI: Is Bushido Still Alive?](bsd21.md)  
+[Chapter XVII: The Future Of Bushido](bsd22.md)  

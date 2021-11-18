@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits072) [Next](bits074)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits072) [Next](bits074.md)
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ depravities.
 
 ------------------------------------------------------------------------
 
-[Next: § 74. The Four Intent Contemplations](bits074)
+[Next: § 74. The Four Intent Contemplations](bits074.md)
 
  
 

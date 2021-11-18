@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwaki)  [Next](pktwakn) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwaki)  [Next](pktwakn.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Queen
 
 <span id="img_waqu"></span> <span align="CENTER"> [![](tn/waqu.jpg)  
-Click to enlarge](img/waqu.jpg)</span>
+Click to enlarge](img/waqu.jpg.md)</span>
 
 The Wands throughout this suit are always in leaf, as it is a suit of
 life and animation. Emotionally and otherwise, the Queen's personality
@@ -35,4 +35,4 @@ jealousy, even deceit and infidelity.
 
 ------------------------------------------------------------------------
 
-[Next: Knight of Wands](pktwakn)
+[Next: Knight of Wands](pktwakn.md)

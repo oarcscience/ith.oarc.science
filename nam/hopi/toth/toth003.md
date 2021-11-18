@@ -1,28 +1,28 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth002)  [Next](toth004) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth002)  [Next](toth004.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 2. HURÚING WUHTI AND THE SUN <span id="fr_3"></span>[1](#fn_3)
+## 2. HURÚING WUHTI AND THE SUN <span id="fr_3"></span>[1](#fn_3.md)
 
 Alíksai! A very long time ago there was nothing here in the world but
 water. Only away off in the west where Hurúing Wuhti lived there was a
 small piece of land where she lived. She lived in a hill or bluff called
 Taláschomo. Hurúing Wuhti owned the moon, the stars, <span
-id="fr_4"></span>[2](#fn_4) and all the hard substances, such as beads,
+id="fr_4"></span>[2](#fn_4.md) and all the hard substances, such as beads,
 corals, shells, etc. Away in the east lived the Sun, painted up very
 beautifully. The Sun was very skillful. One time Hurúing Wuhti sent the
 Moon to the Sun, throwing him through (the intervening) space so that he
@@ -214,14 +214,14 @@ Shongópavi.
 
 ### Footnotes
 
-<span id="fn_3"></span>[5:1](toth003.htm#fr_3) Told by Kúhkiuma
+<span id="fn_3"></span>[5:1](toth003.htm#fr_3.md) Told by Kúhkiuma
 (Shupaúlavi).
 
-<span id="fn_4"></span>[5:2](toth003.htm#fr_4) This is the only instance
+<span id="fn_4"></span>[5:2](toth003.htm#fr_4.md) This is the only instance
 where I have heard the moon and stars spoken of as being owned or
 controlled by Hurúing Wuhti. The informant did not know the songs
 mentioned in this tale.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Coming of the Hopi From the Under-world](toth004)
+[Next: 3. Coming of the Hopi From the Under-world](toth004.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm18.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 # The Land of Green Mountains
 
-Ronald Booe <span id="fr_10"></span>[1](#fn_10) had rebelled against his
+Ronald Booe <span id="fr_10"></span>[1](#fn_10.md) had rebelled against his
 chief but was defeated in battle. Then all his followers deserted him,
 and he found that he would have to flee from his native land. It chanced
 that he had heard tell of the wonderful Land of Green Mountains nigh to
@@ -912,5 +912,5 @@ Donald.
 
 ### Footnotes
 
-<span id="fn_10"></span>[195:1](tsm19.htm#fr_10) Pronounced Boo'e. The
+<span id="fn_10"></span>[195:1](tsm19.htm#fr_10.md) Pronounced Boo'e. The
 name means "Yellow-haired Ronald".

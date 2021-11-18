@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs11)  [Next](sfs13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs11)  [Next](sfs13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ godchild, took the baby in her arms, and carried him to church. The
 little lad was properly christened. When they came out of church, the
 child's father took the godmother to an inn, and wanted to give her a
 little treat as godmother. But she said to him, 'Gossip, <span
-id="fr_0"></span>[\*](#fn_0) leave this alone, and come with me to my
+id="fr_0"></span>[\*](#fn_0.md) leave this alone, and come with me to my
 abode.' She took him with her to her apartment, which was very
 handsomely furnished. Afterwards she conducted him into great vaults,
 and through these vaults they went right into the underworld in the
@@ -139,7 +139,7 @@ successful in doctoring and curing till his taper burned out in limbo.
 
 ### Footnotes
 
-<span id="fn_0"></span>[52:\*](sfs12.htm#fr_0) The Slavonians are rich
+<span id="fn_0"></span>[52:\*](sfs12.htm#fr_0.md) The Slavonians are rich
 in terms, both masculine and feminine, expressing the various
 relationships between godparents and godchildren and their parents. We
 have only one form, 'gossip,' which thus has to do duty for both the
@@ -147,4 +147,4 @@ godmother and the father of the godchild.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Four Brothers](sfs13)
+[Next: IX. The Four Brothers](sfs13.md)

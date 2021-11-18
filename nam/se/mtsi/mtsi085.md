@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi084)  [Next](mtsi086) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi084)  [Next](mtsi086.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_75">p. 75</span>
 
-### 83. THE ORIGIN OF RACES <span id="fr_17"></span>[1](#fn_17)
+### 83. THE ORIGIN OF RACES <span id="fr_17"></span>[1](#fn_17.md)
 
 ### (SECOND VERSION)
 
@@ -30,7 +30,7 @@ it was to tell him about this gold. The book gave him this advantage.
 
 ### Footnotes
 
-<span id="fn_17"></span>[75:1](mtsi085.htm#fr_17) in this connection the
+<span id="fn_17"></span>[75:1](mtsi085.htm#fr_17.md) in this connection the
 following excerpt from a speech of the Seminole Chief Neamathla (Heniha
 ima~~l~~a) to the Governor of Florida is of interest:
 
@@ -91,4 +91,4 @@ Spanish Main in the Ship "Two Friends." London, 1819.)
 
 ------------------------------------------------------------------------
 
-[Next: 84. The Ordering of Field Work](mtsi086)
+[Next: 84. The Ordering of Field Work](mtsi086.md)

@@ -1,7 +1,7 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 </div>
 
@@ -24,15 +24,15 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ldjb00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ldjb.txt.gz)
+[Contents](#contents)    [Start Reading](ldjb00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ldjb.txt.gz.md)
 
 ------------------------------------------------------------------------
 
 This is an anthology of writings by the German Christian mystic, Jacob
 Boehme, edited by the occult writer, Franz Hartmann. Hartmann was a
-noted Theosophist, who also wrote [With the Adepts](../../sro/wta/index)
-and [In the Pronaos of the Temple of Wisdom](../../sro/ptw/index). Other
+noted Theosophist, who also wrote [With the Adepts](../../sro/wta/index.md)
+and [In the Pronaos of the Temple of Wisdom](../../sro/ptw/index.md). Other
 than organizing the quotes from diverse books of Boehme into a set of
 themes ('Angels,' 'The Christ,' 'Redemption'), Hartmann mostly lets
 Boehme speak for himself. Boehme, typical of mystics who have
@@ -42,30 +42,30 @@ it. This is a great reference work on the thought of this profound
 mystic for students of the occult.
 
 Also by Boehme at Intangible Textual Heritage: [The Signature of All
-Things](../sat/index), and [Confessions of Jacob Boehme](../cjb/index).
+Things](../sat/index), and [Confessions of Jacob Boehme](../cjb/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ldjb00)  
-[Preface](ldjb01)  
-[Contents](ldjb02)  
-[The Life of Jacob Boehme](ldjb03)  
-[Chapter I. Introduction](ldjb04)  
-[Chapter II. The Unity of the All](ldjb05)  
+<span id="contents"></span> [Title Page](ldjb00.md)  
+[Preface](ldjb01.md)  
+[Contents](ldjb02.md)  
+[The Life of Jacob Boehme](ldjb03.md)  
+[Chapter I. Introduction](ldjb04.md)  
+[Chapter II. The Unity of the All](ldjb05.md)  
 [Chapter III. The Seven Properties or Qualities of Eternal
-Nature](ldjb06)  
-[Chapter IV. Creation](ldjb07)  
-[Chapter V. The Angels](ldjb08)  
+Nature](ldjb06.md)  
+[Chapter IV. Creation](ldjb07.md)  
+[Chapter V. The Angels](ldjb08.md)  
 [Chapter VI. The Restoration of Nature and the Generation of
-Man](ldjb09)  
-[Chapter VII. Man](ldjb10)  
-[Chapter VIII. Nature, or the Third Principle](ldjb11)  
-[Chapter IX. Generation](ldjb12)  
-[Chapter X. The Christ](ldjb13)  
-[Chapter XI. Incarnation—The Celestial Virgin](ldjb14)  
-[Chapter XII. Redemption](ldjb15)  
-[Chapter XIII. Regeneration](ldjb16)  
-[Chapter XIV. Death and Eternal Life](ldjb17)  
-[Conclusion](ldjb18)  
-[Appendix](ldjb19)  
-[Index](ldjb20)  
+Man](ldjb09.md)  
+[Chapter VII. Man](ldjb10.md)  
+[Chapter VIII. Nature, or the Third Principle](ldjb11.md)  
+[Chapter IX. Generation](ldjb12.md)  
+[Chapter X. The Christ](ldjb13.md)  
+[Chapter XI. Incarnation—The Celestial Virgin](ldjb14.md)  
+[Chapter XII. Redemption](ldjb15.md)  
+[Chapter XIII. Regeneration](ldjb16.md)  
+[Chapter XIV. Death and Eternal Life](ldjb17.md)  
+[Conclusion](ldjb18.md)  
+[Appendix](ldjb19.md)  
+[Index](ldjb20.md)  

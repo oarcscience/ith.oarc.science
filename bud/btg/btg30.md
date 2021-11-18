@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg29)  [Next](btg31) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg29)  [Next](btg31.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ without the consent of his parents or guardians.
 
 ------------------------------------------------------------------------
 
-[Next: The Regulations](btg31)
+[Next: The Regulations](btg31.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo20)  [Next](hoo22) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo20)  [Next](hoo22.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ And pour abundance in a blameless tide. 20
 
 ------------------------------------------------------------------------
 
-[Next: XVII: To Pluto](hoo22)
+[Next: XVII: To Pluto](hoo22.md)

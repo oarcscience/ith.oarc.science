@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob07) 
-[Next](tob09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob07.md) 
+[Next](tob09.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Reading](../pkt/tarot0)  [Index](index)  [Previous](tob07) 
 
 <span id="img_05000"></span> [![GENERAL KEY TO MINOR
 ARCANA](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)  
+Click to enlarge](img/05000.jpg.md)  
 GENERAL KEY TO MINOR ARCANA  
 
 <span id="page_51">p. 51</span>
@@ -449,4 +449,4 @@ arcana*.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Connection Between the Major and Minor
-Arcana](tob09)
+Arcana](tob09.md)

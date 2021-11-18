@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr71)  [Next](corr73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr71)  [Next](corr73.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER LXXII. (LXXXIII.)
 
-#### SPINOZA TO \* \* \* \* <span id="fr_82"></span>[1](#fn_81)
+#### SPINOZA TO \* \* \* \* <span id="fr_82"></span>[1](#fn_81.md)
 
 \[*Spinoza gives the required explanation. Mentions the treatise of
 Huet, &c*.\]
@@ -57,8 +57,8 @@ The Hague, 15 July, 1676.
 
 ### Footnotes
 
-<span id="fn_81"></span>[409:1](corr72.htm#fr_82) Tschirnhausen.
+<span id="fn_81"></span>[409:1](corr72.htm#fr_82.md) Tschirnhausen.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXXIII. From Albert Burgh](corr73)
+[Next: Letter LXXIII. From Albert Burgh](corr73.md)

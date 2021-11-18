@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos26)  [Next](kos28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos26)  [Next](kos28.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ his righteousness endureth for ever.'
 
 ------------------------------------------------------------------------
 
-[Next: Plate V.](kos28)
+[Next: Plate V.](kos28.md)

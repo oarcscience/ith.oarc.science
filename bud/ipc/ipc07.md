@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc06)  [Next](ipc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc06)  [Next](ipc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ the form of mercy—Death of Buddha.</span>
 
 <span class="smallcaps">If</span> the Roman Catholics were told that St.
 Francois de Salis, or St. Jerome, "altogether ignored in nature any
-spiritual aspirations," <span id="fr_38"></span>[\*](#fn_38) they would
+spiritual aspirations," <span id="fr_38"></span>[\*](#fn_38.md) they would
 feel a little astonished. This is the view taken of Buddha by the Boden
 Professor of Sanskrit at Oxford. And yet the word "Buddha" means, he
 "who has attained the complete spiritual awakening." And Buddha's
@@ -259,10 +259,10 @@ sympathy, and equanimity; and so the second, and so the third, and so
 the fourth. And thus the whole wide world, above, below, around, and
 everywhere, does he continue to pervade with heart of pity, sympathy and
 equanimity, far-reaching, grown great, and beyond measure." <span
-id="fr_39"></span>[\*](#fn_39)
+id="fr_39"></span>[\*](#fn_39.md)
 
 "Verily this, Vâsettha, is the way to a state of union with Brahma," and
-he proceeds to announce that the Bhikshu, or [Buddhist](errata.htm#11)
+he proceeds to announce that the Bhikshu, or [Buddhist](errata.htm#11.md)
 beggar, "who is free from anger, free from malice, pure in mind, master
 of himself, will after death, when the body is dissolved, become united
 with Brahma." The Brahmins at once see the full force of this teaching.
@@ -280,11 +280,11 @@ Obey the eternal law of the heavens. Who keeps this law lives happily in
 this world and in the next.
 
 "For the enfranchised soul human suffering no longer exists." <span
-id="fr_40"></span>[†](#fn_40)
+id="fr_40"></span>[†](#fn_40.md)
 
 "In the darkness of this world few men see clearly. Very few soar
 heavenwards like a bird freed from a net." <span
-id="fr_41"></span>[‡](#fn_41)
+id="fr_41"></span>[‡](#fn_41.md)
 
 No doubt the discipline of extasia was expected to give vitality to this
 inner quickening. When actual visions of the Buddhas of the ten regions
@@ -296,7 +296,7 @@ heart of the eastern nations has
 
 been truer to its great teacher than their learned metaphysicians have
 been. The epoch of Buddha is called the "Era when the Milken Race
-(immortality) came into the world." <span id="fr_42"></span>[\*](#fn_42)
+(immortality) came into the world." <span id="fr_42"></span>[\*](#fn_42.md)
 This certainty of a heavenly kingdom was not to be confined, as in the
 orthodox Brahminism, to a priestly caste. A king had become a beggar
 that he might preach to beggars. In the Chinese *Dhammapada* there is a
@@ -311,14 +311,14 @@ at another fountain. the beautiful stranger was overcome with sleep, and
 placed her head on her fellow-traveller's lap. Suddenly the beautiful
 face became livid as a corpse, loathsome, a prey to hateful insects. The
 stranger was the great Buddha himself, who had put on this appearance to
-redeem poor Pundarî. <span id="fr_43"></span>[†](#fn_43) "There is a
+redeem poor Pundarî. <span id="fr_43"></span>[†](#fn_43.md) "There is a
 loveliness that is like a beautiful jar full of filth, a beauty that
 belongs to eyes, nose, mouth, body. It is this womanly beauty that
 causes sorrow, divides families, kills children."
 
 The penitent thief, too, is to be heard of in Buddhism. Buddha confronts
 a cruel bandit in his mountain retreat and converts him. <span
-id="fr_44"></span>[‡](#fn_44) All great movements, said St. Simon, must
+id="fr_44"></span>[‡](#fn_44.md) All great movements, said St. Simon, must
 begin by working on the emotion of the masses.
 
 Another originality of the teaching of Buddha was the necessity of
@@ -334,11 +334,11 @@ the bloody sacrifice of the Brahmins he was specially remorseless.
 "How can the system which requires the infliction of misery on others be
 called a religious system? . . How having a body defiled with blood will
 the shedding of blood restore it to purity? To seek a good by doing an
-evil is surely no safe plan!" <span id="fr_45"></span>[\*](#fn_45)
+evil is surely no safe plan!" <span id="fr_45"></span>[\*](#fn_45.md)
 
 Even a Buddha could only show the sinner the right path. "Tathâgatas are
 only preachers. You yourself must make the effort." <span
-id="fr_46"></span>[†](#fn_46)
+id="fr_46"></span>[†](#fn_46.md)
 
 Buddha's theology made another great advance on other creeds, a step
 which our century is only now attempting to overtake. He strongly
@@ -356,9 +356,9 @@ whimsically enforced by some of his followers. His own words are
 trenchant and clear: "A fault once committed is like milk, which grows
 not sour all at once. Patiently and silently, like a smothered ember,
 shall it inch by inch devour the fool." <span
-id="fr_47"></span>[‡](#fn_47) "Both a good action and an evil action
+id="fr_47"></span>[‡](#fn_47.md) "Both a good action and an evil action
 must ripen and bear their inevitable fruit." <span
-id="fr_48"></span>[§](#fn_48)
+id="fr_48"></span>[§](#fn_48.md)
 
 <span id="page_78">p. 78</span>
 
@@ -375,7 +375,7 @@ rewards of heaven, but of quite another region. From island to island
 the wanderer goes, each island being more delicious than the preceding
 one, but each being nearer to the iron-walled city of expiation. But the
 furies are cause and effect, and not an eternal Ahriman. There is no
-devil that Buddha cannot soften. <span id="fr_49"></span>[\*](#fn_49)
+devil that Buddha cannot soften. <span id="fr_49"></span>[\*](#fn_49.md)
 
 This suggests another great advance made by Buddha. In his day the
 beneficent God was deemed the god of a nation, a tribe; and all the gods
@@ -403,10 +403,10 @@ He clears out even the lowest of hells when he visits earth, and makes
 devils as well as good men happy. A fool outrages and insults him. "My
 son," he replies, "outrage addressed to heaven is like spittle aimed
 into the skies: it returns upon the author of the outrage." <span
-id="fr_50"></span>[\*](#fn_50) And he explained to his disciples that
+id="fr_50"></span>[\*](#fn_50.md) And he explained to his disciples that
 Tathâgata could never be made angry by foul actions and invectives. Such
 can only make him redouble his mercy and love. <span
-id="fr_51"></span>[†](#fn_51) When we reflect that the principle of
+id="fr_51"></span>[†](#fn_51.md) When we reflect that the principle of
 retaliation was the rude policy of the day in which he lived, and that
 aggregations of men were obliged to foster a love of revenge, war,
 plunder, and bloodshed in their midst, prompted by the mere instinct of
@@ -416,10 +416,10 @@ indeed noteworthy:—
 "By love alone can we conquer wrath. By good alone can we conquer evil.
 The whole world dreads violence. All men tremble in the presence of
 death. Do to others that which ye would have them do to you. Kill not.
-Cause no death." <span id="fr_52"></span>[‡](#fn_52)
+Cause no death." <span id="fr_52"></span>[‡](#fn_52.md)
 
 "Say no harsh words to thy neighbour. He will reply to thee in the same
-tone." <span id="fr_53"></span>[§](#fn_53)
+tone." <span id="fr_53"></span>[§](#fn_53.md)
 
 "I am injured and provoked, I have been beaten and plundered! They who
 speak thus will never cease to hate."
@@ -427,7 +427,7 @@ speak thus will never cease to hate."
 <span id="page_80">p. 80</span>
 
 "That which can cause hate to cease in the world is not hate, but the
-absence of hate." <span id="fr_54"></span>[\*](#fn_54)
+absence of hate." <span id="fr_54"></span>[\*](#fn_54.md)
 
 "If, like a trumpet trodden on in battle, thou corn-plainest not, thou
 hast attained Nirvâna."
@@ -437,7 +437,7 @@ of the bowman."
 
 "The awakened man goes not on revenge, but rewards with kindness the
 very being who has injured him, as the sandal-tree scents the axe of the
-woodman who fells it." <span id="fr_55"></span>[†](#fn_55)
+woodman who fells it." <span id="fr_55"></span>[†](#fn_55.md)
 
 I will now copy down a few miscellaneous sayings of Buddha:—
 
@@ -446,7 +446,7 @@ of their miraculous power. The wise are led out of this world when they
 have conquered Mara and his train."
 
 "A man is not a Śramana by outward acts." <span
-id="fr_56"></span>[‡](#fn_56)
+id="fr_56"></span>[‡](#fn_56.md)
 
 "Not by tonsure does an undisciplined man became a Śramana."
 
@@ -545,7 +545,7 @@ that man loves and enjoys he must tear himself.
 hence. Ye remain behind.
 
 "The place of refuge is ready for me." <span
-id="fr_57"></span>[\*](#fn_57)
+id="fr_57"></span>[\*](#fn_57.md)
 
 Before expiring, the teacher entered into the extasia of Samâdhi; and
 mighty thunders and earth-rockings announced the passing away of a great
@@ -558,60 +558,60 @@ Seek your salvation without weariness."
 
 ### Footnotes
 
-<span id="fn_38"></span>[69:\*](ipc07.htm#fr_38) Sir Monier
+<span id="fn_38"></span>[69:\*](ipc07.htm#fr_38.md) Sir Monier
 Monier-Williams, "Buddhism," p. 149.
 
-<span id="fn_39"></span>[75:\*](ipc07.htm#fr_39) Rhys Davids, "Buddhist
+<span id="fn_39"></span>[75:\*](ipc07.htm#fr_39.md) Rhys Davids, "Buddhist
 Suttas," p. 201.
 
-<span id="fn_40"></span>[75:†](ipc07.htm#fr_40) "Dhammapada" v. 90.
+<span id="fn_40"></span>[75:†](ipc07.htm#fr_40.md) "Dhammapada" v. 90.
 
-<span id="fn_41"></span>[75:‡](ipc07.htm#fr_41) *Ibid*, v. 174.
+<span id="fn_41"></span>[75:‡](ipc07.htm#fr_41.md) *Ibid*, v. 174.
 
-<span id="fn_42"></span>[76:\*](ipc07.htm#fr_42) Upham, "Hist.
+<span id="fn_42"></span>[76:\*](ipc07.htm#fr_42.md) Upham, "Hist.
 Buddhism," p. 48.
 
-<span id="fn_43"></span>[76:†](ipc07.htm#fr_43) "Chinese Dhammapada," p.
+<span id="fn_43"></span>[76:†](ipc07.htm#fr_43.md) "Chinese Dhammapada," p.
 35.
 
-<span id="fn_44"></span>[76:‡](ipc07.htm#fr_44) *Ibid*, p. 159.
+<span id="fn_44"></span>[76:‡](ipc07.htm#fr_44.md) *Ibid*, p. 159.
 
-<span id="fn_45"></span>[77:\*](ipc07.htm#fr_45) "Romantic History," p.
+<span id="fn_45"></span>[77:\*](ipc07.htm#fr_45.md) "Romantic History," p.
 159.
 
-<span id="fn_46"></span>[77:†](ipc07.htm#fr_46) *Ibid*, v. 71.
+<span id="fn_46"></span>[77:†](ipc07.htm#fr_46.md) *Ibid*, v. 71.
 
-<span id="fn_47"></span>[77:‡](ipc07.htm#fr_47) "Dhammapada," v. 71.
+<span id="fn_47"></span>[77:‡](ipc07.htm#fr_47.md) "Dhammapada," v. 71.
 
-<span id="fn_48"></span>[77:§](ipc07.htm#fr_48) Burnouf, Introd., p. 87.
+<span id="fn_48"></span>[77:§](ipc07.htm#fr_48.md) Burnouf, Introd., p. 87.
 
-<span id="fn_49"></span>[78:\*](ipc07.htm#fr_49) Beal, "Romantic
+<span id="fn_49"></span>[78:\*](ipc07.htm#fr_49.md) Beal, "Romantic
 History." Comp. "Story of the Five Hundred Merchants," p. 332, and "the
 Merchant," p. 342.
 
-<span id="fn_50"></span>[79:\*](ipc07.htm#fr_50) "Sutra of Forty-two
+<span id="fn_50"></span>[79:\*](ipc07.htm#fr_50.md) "Sutra of Forty-two
 Sections," Sect. VIII.
 
-<span id="fn_51"></span>[79:†](ipc07.htm#fr_51) *Ibid*, sect. VII.
+<span id="fn_51"></span>[79:†](ipc07.htm#fr_51.md) *Ibid*, sect. VII.
 
-<span id="fn_52"></span>[79:‡](ipc07.htm#fr_52) Sutra of Forty-two
+<span id="fn_52"></span>[79:‡](ipc07.htm#fr_52.md) Sutra of Forty-two
 Sections, Sect.. VII., v. 129. M. Léon Feer gives here the very words of
 Luke vi. 31.
 
-<span id="fn_53"></span>[79:§](ipc07.htm#fr_53) *Ibid*, v. 133.
+<span id="fn_53"></span>[79:§](ipc07.htm#fr_53.md) *Ibid*, v. 133.
 
-<span id="fn_54"></span>[80:\*](ipc07.htm#fr_54) Sutra of Forty-two
+<span id="fn_54"></span>[80:\*](ipc07.htm#fr_54.md) Sutra of Forty-two
 Sections v. 4, 5.
 
-<span id="fn_55"></span>[80:†](ipc07.htm#fr_55) This is claimed by the
+<span id="fn_55"></span>[80:†](ipc07.htm#fr_55.md) This is claimed by the
 Brahmins likewise, but it is quite foreign to their genius. *Vide*
 Hodgson, "Essays," p. 74.
 
-<span id="fn_56"></span>[80:‡](ipc07.htm#fr_56) "Dhammapada."
+<span id="fn_56"></span>[80:‡](ipc07.htm#fr_56.md) "Dhammapada."
 
-<span id="fn_57"></span>[83:\*](ipc07.htm#fr_57) Oldenburg, "Buddha," p.
+<span id="fn_57"></span>[83:\*](ipc07.htm#fr_57.md) Oldenburg, "Buddha," p.
 199.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. King Asoka](ipc08)
+[Next: Chapter V. King Asoka](ipc08.md)

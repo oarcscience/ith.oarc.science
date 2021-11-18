@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hby02)  [Next](hby04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hby02)  [Next](hby04.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ practicing the different branches of Yoga.
 
 ------------------------------------------------------------------------
 
-[Next: What is Yoga?](hby04)
+[Next: What is Yoga?](hby04.md)

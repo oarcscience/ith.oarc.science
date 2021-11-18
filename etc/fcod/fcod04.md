@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod03)  [Next](fcod05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod03)  [Next](fcod05.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ persecutions of the revengeful dead.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Death Warnings--When Does Death Take Place?](fcod05)
+[Next: Chapter II: Death Warnings--When Does Death Take Place?](fcod05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](msi00)  [Next](msi02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](msi00)  [Next](msi02.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ maintained, shared the general neglect. Knights, citizens, and serfs,
 travelled eastwards in company, taking with them their wives and
 children, singing psalms as they went, and looking with fearful eyes
 upon the sky, which they expected each minute to open, and to let the
-Son of God descend in glory." <span id="fr_0"></span>[1](#fn_0)
+Son of God descend in glory." <span id="fr_0"></span>[1](#fn_0.md)
 
 A panic occurred in Leeds in 1806, during which many in their fear "got
 religion" for a time, and indulged in a temporary repentance. A
@@ -208,9 +208,9 @@ And she keep her name alive.</td>
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:1](msi01.htm#fr_0) Mackay's *Popular
+<span id="fn_0"></span>[4:1](msi01.htm#fr_0.md) Mackay's *Popular
 Delusions*. London: 1869. Vol. i, p. 222.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Second](msi02)
+[Next: Chapter Second](msi02.md)

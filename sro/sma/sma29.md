@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma28)  [Next](sma30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma28)  [Next](sma30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -110,7 +110,7 @@ schöppen at any tribunal in Westphalia, which proves that, like the
 emperor, he had free access to them all. Hence it is clear that he also
 must have been initiated.
 
-The dignity and pre-eminence of the [Archbishop](errata.htm#25)
+The dignity and pre-eminence of the [Archbishop](errata.htm#25.md)
 
 <span id="page_375">p. 375</span>
 
@@ -138,7 +138,7 @@ brought into the court, not even a summons issued, without his
 approbation. There even lay a kind of appeal to him from the sentence of
 the count; and he could also, like the emperor, withdraw certain persons
 and causes from his jurisdiction. But as his power did not extend beyond
-his own [territory](errata.htm#26), the count might refer those causes
+his own [territory](errata.htm#26.md), the count might refer those causes
 in which he wished, but was prohibited, to proceed, to the courts in
 other territories; he might also, if he apprehended opposition from the
 Tribunal-lord, require him (if initiated) to be present at the
@@ -163,4 +163,4 @@ independent of their authority.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](sma30)
+[Next: Chapter V](sma30.md)

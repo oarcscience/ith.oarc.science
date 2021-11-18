@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp02) [Next](ycgp04)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp02) [Next](ycgp04.md)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ of the span of their life they took no heed."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp04)
+[Next](ycgp04.md)
 
  
 

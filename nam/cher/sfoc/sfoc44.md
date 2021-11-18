@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc43)  [Next](sfoc45) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc43)  [Next](sfoc45.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ formula*.)
 
 ------------------------------------------------------------------------
 
-[Next: Song for Painting](sfoc45)
+[Next: Song for Painting](sfoc45.md)

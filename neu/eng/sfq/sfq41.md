@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq40)  [Next](sfq42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq40)  [Next](sfq42.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ companion-knight took their steeds and went forth upon their journey.
 
 ------------------------------------------------------------------------
 
-[Next: How Britomart looked into the Magic Mirror](sfq42)
+[Next: How Britomart looked into the Magic Mirror](sfq42.md)

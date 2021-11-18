@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft10)  [Next](sfft12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft10)  [Next](sfft12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE STRANGE VISITOR. <span id="fr_34"></span>[2](#fn_34)
+### THE STRANGE VISITOR. <span id="fr_34"></span>[2](#fn_34.md)
 
 A WIFE, was sitting at her reel ae night;  
    And aye she sat, and aye she reeled, and aye she wished for company.
@@ -94,7 +94,7 @@ What way hae ye sic muckle muckle knees?
 <span id="page_86">p. 86</span>
 
 "FOR YOU!" (*At the top of the voice, with a wave of the arm and a stamp
-of the feet*.) <span id="fr_35"></span>[1](#fn_35)
+of the feet*.) <span id="fr_35"></span>[1](#fn_35.md)
 
  
 
@@ -102,12 +102,12 @@ of the feet*.) <span id="fr_35"></span>[1](#fn_35)
 
 ### Footnotes
 
-<span id="fn_34"></span>[83:2](sfft11.htm#fr_34) Chambers, *Popular
+<span id="fn_34"></span>[83:2](sfft11.htm#fr_34.md) Chambers, *Popular
 Rhymes of Scotland*.
 
-<span id="fn_35"></span>[86:1](sfft11.htm#fr_35) The figure is meant for
+<span id="fn_35"></span>[86:1](sfft11.htm#fr_35.md) The figure is meant for
 that of Death.
 
 ------------------------------------------------------------------------
 
-[Next: Rashin-coatie](sfft12)
+[Next: Rashin-coatie](sfft12.md)

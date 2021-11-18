@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc12)  [Next](busc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc12)  [Next](busc14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -81,7 +81,7 @@ give it to him and afterwards I will hear the doctrine." So, sitting
 down on a chair, she prepared the shuttle.
 
 The inhabitants of Ālavī waited on the Master, took his bowl, and stood
-for him to give thanks. <span id="fr_2"></span>[1](#fn_2) The Master
+for him to give thanks. <span id="fr_2"></span>[1](#fn_2.md) The Master
 thought, "I have come a journey of thirty leagues for the sake of a
 noble daughter, and now to-day she does not take the occasion. When she
 takes the occasion I will give thanks." And he sat down in silence. When
@@ -183,13 +183,13 @@ attained to Arahatship. (*Dhammapada Comm.* 174.)
 
 ### Footnotes
 
-<span id="fn_2"></span>[59:1](busc13.htm#fr_2) This consisted in giving
+<span id="fn_2"></span>[59:1](busc13.htm#fr_2.md) This consisted in giving
 them some instruction in the doctrine, as at his previous visit.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Questions of Mālunkyāputta](busc14)
+[Next: XI. The Questions of Mālunkyāputta](busc14.md)
 
 </div>

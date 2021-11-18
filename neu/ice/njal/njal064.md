@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal063)  [Next](njal065) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal063)  [Next](njal065.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ they join them in one company with Gizur the White and Geir the Priest.
 
 ------------------------------------------------------------------------
 
-[Next: 65. Of Fines And Atonements](njal065)
+[Next: 65. Of Fines And Atonements](njal065.md)

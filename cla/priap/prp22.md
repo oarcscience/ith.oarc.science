@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp21)  [Next](prp23) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp21)  [Next](prp23.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ his mentule may in vain beat throbbing on his navel.
 ------------------------------------------------------------------------
 
 [Next: 23. Here has the bailiff, now of this plentiful garden the
-guardian,](prp23)
+guardian,](prp23.md)

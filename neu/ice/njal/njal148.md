@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal147)  [Next](njal149) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal147)  [Next](njal149.md) 
 
 ------------------------------------------------------------------------
 
@@ -128,4 +128,4 @@ Kari stayed there six nights after that.
 
 ------------------------------------------------------------------------
 
-[Next: 149. Of Kari And Bjorn](njal149)
+[Next: 149. Of Kari And Bjorn](njal149.md)

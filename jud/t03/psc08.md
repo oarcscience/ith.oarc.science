@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc07)  [Next](psc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc07)  [Next](psc09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -288,7 +288,7 @@ have fallen off the trees."
 MISHNA: In places where it is customary to sell small cattle (sheep,
 goats, etc.) to Gentiles, it is lawful to do so, but not in places where
 this is not customary. Large cattle must not be sold to Gentiles at
-all, <span id="fr_43"></span>[1](#fn_43) nor calves nor foals of asses,
+all, <span id="fr_43"></span>[1](#fn_43.md) nor calves nor foals of asses,
 either sound or broken-legged. R. Jehudah permits the sale of the latter
 and Ben Bathyra permits the sale of a horse.
 
@@ -484,7 +484,7 @@ do so.
 
 GEMARA: Samuel said: "There is no fast-day, imposed by the community
 upon its members in Babylon, except the ninth day of Abh." <span
-id="fr_44"></span>[1](#fn_44) Shall we say that Samuel by this statement
+id="fr_44"></span>[1](#fn_44.md) Shall we say that Samuel by this statement
 means to assert, that eating at twilight on the eve of that day is also
 prohibited? Have we not heard that Samuel held to the contrary? Shall we
 assume, that at twilight on the eve of
@@ -692,13 +692,13 @@ were contrary to their wishes, namely: They would make use of plants
 (buds) growing on or near consecrated trees; they would eat fruit on
 Sabbath which had dropped off the trees on that day, and they allowed
 herbs to remain in the field as Peah. <span
-id="fr_45"></span>[1](#fn_45) All these things were contrary to the
+id="fr_45"></span>[1](#fn_45.md) All these things were contrary to the
 wishes of the sages.
 
 Six things were done by King Hezekiah, <span
-id="fr_46"></span>[2](#fn_46) three of which met with approval and three
+id="fr_46"></span>[2](#fn_46.md) three of which met with approval and three
 with disapproval: He caused the bones of his father to be transported on
-a litter of ropes, <span id="fr_47"></span>[3](#fn_47) and this was
+a litter of ropes, <span id="fr_47"></span>[3](#fn_47.md) and this was
 approved of; he caused the brazen serpent to be broken to pieces, and
 this was approved of; be secreted the book of medicine, and it was also
 approved. The following, however, are the three things done by him which
@@ -776,11 +776,11 @@ not to do so would be to suffer: so her servants brought her what she
 desired surreptitiously, in order that nobody should perceive it."
 
 Said R. Abbahu: "In Usha, where there was a sect of Minim, <span
-id="fr_48"></span>[1](#fn_48) it was ordained that the additional verse
+id="fr_48"></span>[1](#fn_48.md) it was ordained that the additional verse
 should be proclaimed in a loud voice, in order that the adherents of
 that sect should not say that the verse which was said in a still manner
 was one praising their own Deity; but in Neherdai, <span
-id="fr_49"></span>[2](#fn_49) where there were no Minim, even unto this
+id="fr_49"></span>[2](#fn_49.md) where there were no Minim, even unto this
 day the verse is said in a still manner."
 
 The rabbis taught: The inhabitants of Jericho were wont to do six
@@ -856,7 +856,7 @@ I do not say this because I would grudge you the herbs, but because the
 sages did not permit the herbs to be left as Peah.'"
 
 The rabbis taught: "Formerly the hides of the sacrificed animals were
-left in the chamber of Parvah. <span id="fr_50"></span>[1](#fn_50) At
+left in the chamber of Parvah. <span id="fr_50"></span>[1](#fn_50.md) At
 night the priests ministering during that week would divide those hides
 among themselves. The more powerful among the priests, however, would
 appropriate more than their share. So it was ordered that the division
@@ -885,7 +885,7 @@ and through their calumnies! Woe is me through the house of Kathros and
 through their pens! Woe is me on account of the house of Ishmael ben
 Piakhi and of their fists! for they were all high-priests, their sons
 were the treasurers, their sons-in-law were the chamberlains, and their
-servants would beat us with rods. <span id="fr_51"></span>[1](#fn_51)
+servants would beat us with rods. <span id="fr_51"></span>[1](#fn_51.md)
 
 The rabbis taught: Four shouts were sent up by (the people in) the court
 of the Temple. The first shout was: "Go away from the Temple, ye
@@ -939,27 +939,27 @@ that both are equal."
 
 ### Footnotes
 
-<span id="fn_43"></span>[90:1](psc08.htm#fr_43) This is a precautionary
+<span id="fn_43"></span>[90:1](psc08.htm#fr_43.md) This is a precautionary
 measure, lest the Gentiles put the cattle to work on Sabbath; but in the
 Schulchan Aruch this law is revoked.
 
-<span id="fn_44"></span>[94:1](psc08.htm#fr_44) In Palestine in times of
+<span id="fn_44"></span>[94:1](psc08.htm#fr_44.md) In Palestine in times of
 drouth especially, fast-days were imposed by the community upon its
 members in order to pray for rain, while in Babylon there hardly ever
 arose the necessity for such occasions.
 
-<span id="fn_45"></span>[99:1](psc08.htm#fr_45) See Levit. xxiii. 22,
+<span id="fn_45"></span>[99:1](psc08.htm#fr_45.md) See Levit. xxiii. 22,
 and Deut. xxiv. 19.
 
-<span id="fn_46"></span>[99:2](psc08.htm#fr_46) "Six things of
+<span id="fn_46"></span>[99:2](psc08.htm#fr_46.md) "Six things of
 Hezekiah." This is, in the original, not a continuation of the Mishna,
 but it begins with, "The rabbis taught," which signifies a Boraitha. In
 the edition of the Mishna, however, this is the continuation of the
 Mishna, and so it should be. See Tosphath Yomtav Sanhedrin, Chap. 7.
 
-<span id="fn_47"></span>[99:3](psc08.htm#fr_47) As a mark of disrespect.
+<span id="fn_47"></span>[99:3](psc08.htm#fr_47.md) As a mark of disrespect.
 
-<span id="fn_48"></span>[101:1](psc08.htm#fr_48) "In Usha" is in
+<span id="fn_48"></span>[101:1](psc08.htm#fr_48.md) "In Usha" is in
 accordance with the explanation of Rabbenu Hananel; for the Gemara does
 not mention any particular place. By "Minim" is meant the Jewish
 adherents of several different sects, who in addition to their own creed
@@ -967,18 +967,18 @@ accepted the doctrines of another religion. In this instance the
 Nazarenes, *i.e.*, the Jews who accepted the teachings of Jesus of
 Nazareth, are more particularly referred to.
 
-<span id="fn_49"></span>[101:2](psc08.htm#fr_49) Neherdai was the
+<span id="fn_49"></span>[101:2](psc08.htm#fr_49.md) Neherdai was the
 kingdom of Persia, and the Minim Jewish Christians did not exist then at
 all. (Not, as some one claimed, that they were driven out. See our
 History of the Talmud.)
 
-<span id="fn_50"></span>[103:1](psc08.htm#fr_50) One of the chambers
+<span id="fn_50"></span>[103:1](psc08.htm#fr_50.md) One of the chambers
 enumerated in Tract Midath in connection with the Temple.
 
-<span id="fn_51"></span>[104:1](psc08.htm#fr_51) See "Priester und
+<span id="fn_51"></span>[104:1](psc08.htm#fr_51.md) See "Priester und
 Cultus," of Buechler.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V: Regulations Concerning the Sacrifice of the Paschal
-Lamb](psc09)
+Lamb](psc09.md)

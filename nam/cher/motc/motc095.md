@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc094) 
-[Next](motc096) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc094.md) 
+[Next](motc096.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ Hemp-carrier's bravery and success that they gave him seven wives.
 
 ------------------------------------------------------------------------
 
-[Next: 96. The Seneca Peacemakers](motc096)
+[Next: 96. The Seneca Peacemakers](motc096.md)

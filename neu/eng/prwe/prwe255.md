@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe254)  [Next](prwe256) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe254)  [Next](prwe256.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ relapse.
 
 ------------------------------------------------------------------------
 
-[Next: Adders and the Milpreve](prwe256)
+[Next: Adders and the Milpreve](prwe256.md)

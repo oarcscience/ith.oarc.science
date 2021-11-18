@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg08)  [Next](btg10) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg08)  [Next](btg10.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ goodwill, and purposed in his heart to grant his request.
 
 ------------------------------------------------------------------------
 
-[Next: The Bodhisattva's Search](btg10)
+[Next: The Bodhisattva's Search](btg10.md)

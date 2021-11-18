@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sft04)  [Next](sft06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sft04)  [Next](sft06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1124,4 +1124,4 @@ Fairy Births and Human Midwives (continued)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Changelings](sft06)
+[Next: Chapter V: Changelings](sft06.md)

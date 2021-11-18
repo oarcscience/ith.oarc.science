@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic062)  [Next](lfic064) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic062)  [Next](lfic064.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ adopted by the giants to plague Odin and his court.
 
 ------------------------------------------------------------------------
 
-[Next: Beanriogain na Sciana Breaca](lfic064)
+[Next: Beanriogain na Sciana Breaca](lfic064.md)

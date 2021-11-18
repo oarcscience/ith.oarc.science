@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Miscellaneous](../../index)  [Christmas](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Miscellaneous](../../index)  [Christmas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0811817121/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0811817121/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0811817121/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](vsn00)
+[Contents](#contents)    [Start Reading](vsn00.md)
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ the poem. Henry Livingston Jr., a relative of Moore, has also been
 proposed as a possible author.
 
 This poem is the source of much of the modern mythology of Santa Claus.
-The original [St. Nicholas](../../../chr/lots/lots375) was a third
+The original [St. Nicholas](../../../chr/lots/lots375.md) was a third
 century bishop of Myra in Lycia (today, Anatolia in Southern Turkey).
 Before this poem, American Christmas traditions were based on the
 European. Some celebrated gift-giving on December 5th, the eve of St.
@@ -77,12 +77,12 @@ one narrative, set on Christmas Eve.
 
 Thomas H. Nast, who also invented the Elephant/Donkey symbols of the two
 major American political parties, created the first [modern Santa
-Claus](../santa.jpg) in 1881, based on Moore's poem. However, it took
+Claus](../santa.jpg.md) in 1881, based on Moore's poem. However, it took
 nearly a century until the canonical Santa Claus in a red and white
 trimmed suit appeared in a Coca-Cola ad in 1931. Modern illustrations
 (for instance, Arthur Rackham's 1931 St. Nick) show the reindeer as
 full-sized, rather than 'tiny:' in the [1848 Boyd
-illustrations](img/00800.jpg) they look about the size of dogs. The
+illustrations](img/00800.jpg.md) they look about the size of dogs. The
 ninth reindeer, Rudolph, was invented by a Montgomery Ward copywriter,
 Robert L. May, of Evanston Illinois, in 1939.
 
@@ -90,7 +90,7 @@ Robert L. May, of Evanston Illinois, in 1939.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Manuscript](vsn00)  
-[First Newspaper Publication](vsn01)  
-[First Book Publication](vsn02)  
-[Comparison](vsn03)  
+<span id="contents"></span> [Manuscript](vsn00.md)  
+[First Newspaper Publication](vsn01.md)  
+[First Book Publication](vsn02.md)  
+[Comparison](vsn03.md)  

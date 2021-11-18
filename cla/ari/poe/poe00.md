@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Next](poe01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Next](poe01.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Analysis of Contents](poe01)
+[Next: Analysis of Contents](poe01.md)

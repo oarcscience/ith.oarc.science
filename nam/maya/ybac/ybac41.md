@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac40)  [Next](ybac42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac40)  [Next](ybac42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ with the roadway prepared, they went devoutly to the image of
 **Sac-uvayeyab**. On arrival they offered incense in the usual way, cut
 of the head of a fowl, and placed the image on a wooden stand called
 **Sac-hia**, and then carried it ceremoniously and with dances they
-called **alcab-tan kam-ahau**. <span id="fr_36"></span>[\*](#fn_36) They
+called **alcab-tan kam-ahau**. <span id="fr_36"></span>[\*](#fn_36.md) They
 brought to the road the usual drinks, and on arriving at the house they
 set this image before the statue of **Itzamná**, and there made their
 offerings, and distributed them; to the<span id="img_06501"></span>
@@ -84,10 +84,10 @@ for freeing them from the ills indicated as to come.
 
 ### Footnotes
 
-<span id="fn_36"></span>[65:\*](ybac41.htm#fr_36) This may be rendered:
+<span id="fn_36"></span>[65:\*](ybac41.htm#fr_36.md) This may be rendered:
 "Hasten to receive the Lord."
 
 ------------------------------------------------------------------------
 
 [Next: XXXVIII. Sacrifices of the New Year of the Letter Cauac. The
-Evils Prophesied and Their Remedy in the Dance of the Fire](ybac42)
+Evils Prophesied and Their Remedy in the Dance of the Fire](ybac42.md)

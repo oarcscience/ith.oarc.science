@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar155) [Next](gbar157)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar155) [Next](gbar157.md)
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ seeing he keepeth not the Sabbath!'
 
 ------------------------------------------------------------------------
 
-[Next](gbar157)
+[Next](gbar157.md)

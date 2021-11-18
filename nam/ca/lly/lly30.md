@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly29)  [Next](lly31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly29)  [Next](lly31.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ Yo-sem-i-tes.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend Of Pi-wy-ack](lly31)
+[Next: The Legend Of Pi-wy-ack](lly31.md)

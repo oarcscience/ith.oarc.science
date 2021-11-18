@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft21)  [Next](zft23) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft21)  [Next](zft23.md) 
 
 ------------------------------------------------------------------------
 
@@ -210,4 +210,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: How The Rattlesnakes Came To Be What They Are](zft23)
+[Next: How The Rattlesnakes Came To Be What They Are](zft23.md)

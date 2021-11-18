@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Index](index)  [Previous](two06)  [Next](two08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Index](index)  [Previous](two06)  [Next](two08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXH3K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Worm Ouroboros*, by E. R. Eddison, \[1922\], at Intangible Textual
 Heritage
 
@@ -352,7 +352,7 @@ like a hobbled jackass."
 
 <span id="img_01600"></span> <span align="CENTER"> [![THE LORDS JUSS,
 GOLDRY BLUSZCO, SPITFIRE, AND BRANDOCH DAHA.](tn/01600.jpg)  
-Click to enlarge](img/01600.jpg)  
+Click to enlarge](img/01600.jpg.md)  
 THE LORDS JUSS, GOLDRY BLUSZCO, SPITFIRE, AND BRANDOCH DAHA.  
 </span>
 
@@ -613,4 +613,4 @@ teeming deep to Witchland.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Wrastling for Demonland](two08)
+[Next: II. The Wrastling for Demonland](two08.md)

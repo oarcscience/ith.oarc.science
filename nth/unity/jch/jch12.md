@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](jch11)  [Next](jch13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](jch11)  [Next](jch13.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Jesus Christ heals*, by Charles Fillmore, \[1939\], at Intangible
 Textual Heritage
 
@@ -422,4 +422,4 @@ way, and the truth, and the life."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11](jch13)
+[Next: Chapter 11](jch13.md)

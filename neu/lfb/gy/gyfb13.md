@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb12)  [Next](gyfb14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb12)  [Next](gyfb14.md) 
 
 </div>
 
@@ -349,6 +349,6 @@ reigned happily over it.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Gray Man](gyfb14)
+[Next: The Little Gray Man](gyfb14.md)
 
 </div>

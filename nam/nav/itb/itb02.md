@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb01) [Next](itb03)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb01) [Next](itb03.md)
 
 ------------------------------------------------------------------------
 
@@ -205,7 +205,7 @@ their canes to find water. White Bead Woman and the gods went to their
 homes and were not to be seen again. Coyote, a witch, had great power
 given to him by the gods. He had a series of adventures such as the Eye
 Juggler, Animals and the Rock Slabs, Giant and Coyote, Coyote and the
-Betting Animals<span id="page_5_fr_1"></span>[1](#page_5_note_1), Coyote
+Betting Animals<span id="page_5_fr_1"></span>[1](#page_5_note_1.md), Coyote
 and Skunk or the Hoadwinked Dancers, (Eye Juggler, Animals and the Rock
 Slabs, and the Skunk and Coyote are patterned after Lowie. 1908. p. 26.
 27), Changing Bear Maiden and so on, Coyote was finally killed by
@@ -331,7 +331,7 @@ important and interesting differences.
 
 ------------------------------------------------------------------------
 
-[Next](itb03)
+[Next](itb03.md)
 
 ------------------------------------------------------------------------
 
@@ -339,7 +339,7 @@ important and interesting differences.
 
 <span id="footnotes_page_5">p. 5</span>
 
-<span id="page_5_note_1"></span>[1](#page_5_fr_1) It is difficult to
+<span id="page_5_note_1"></span>[1](#page_5_fr_1.md) It is difficult to
 separate the sacred from the profane Coyote. Each informant believes
 differently as to when Coyote first lost his godliness. These first four
 stories Frank Goldtooth believed to be after the god Coyote died and

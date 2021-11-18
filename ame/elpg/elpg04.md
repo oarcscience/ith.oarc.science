@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](elpg03)  [Next](elpg05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](elpg03)  [Next](elpg05.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ But it did not "give way" in many homes, and towns!
 
 ------------------------------------------------------------------------
 
-[Next: Religious Groups were Numerous Before the Revolution](elpg05)
+[Next: Religious Groups were Numerous Before the Revolution](elpg05.md)

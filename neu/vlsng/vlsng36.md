@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng35)  [Next](vlsng37) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng35)  [Next](vlsng37.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXV: The Dreams of the Wives of the Giukings.](vlsng37)
+[Next: Chapter XXXV: The Dreams of the Wives of the Giukings.](vlsng37.md)

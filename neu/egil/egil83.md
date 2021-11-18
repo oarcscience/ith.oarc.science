@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil82)  [Next](egil84) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil82)  [Next](egil84.md) 
 
 ------------------------------------------------------------------------
 
@@ -291,4 +291,4 @@ In Bragi's town.'
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXXIII. Of Einar Helgi's son and Egil.](egil84)
+[Next: CHAPTER LXXXIII. Of Einar Helgi's son and Egil.](egil84.md)

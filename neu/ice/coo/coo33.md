@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](coo32)  [Next](coo34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](coo32)  [Next](coo34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Children of Odin*, by Padraic Colum, \[1920\], at Intangible
 Textual Heritage
 
@@ -149,4 +149,4 @@ heart, and that no other memory would be able to find a place there.
 
 ------------------------------------------------------------------------
 
-[Next: 8. How Brynhild was Won for Gunnar](coo34)
+[Next: 8. How Brynhild was Won for Gunnar](coo34.md)

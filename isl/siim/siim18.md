@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](siim17)  [Next](siim19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](siim17)  [Next](siim19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Studies in Islamic Mysticism*, by Reynold A. Nicholson, \[1921\], at
 Intangible Textual Heritage
 
@@ -164,7 +164,7 @@ living or dead has attained to such a height as he (750-761).
 
 ### Footnotes
 
-<span id="fn_614"></span>[195:1](siim17.htm#fr_616) K. on *v*. 501. Cf.
+<span id="fn_614"></span>[195:1](siim17.htm#fr_616.md) K. on *v*. 501. Cf.
 *Kashf al-Maḥjúb*, transl., p. 214. Concerning the *Quṭb* and the
 subordinate members of the Ṣúfí hierarchy see Blochet, *Études sur
 l’ésotérisme musulman* in the *Journal asiatique*, vol. 20 (1902), p. 49
@@ -172,14 +172,14 @@ foll.; Haneberg, *Ali Abulhasan Schadeli* in *ZDMG*., vol. 7, p. 21
 foll.; Flügel, *Scha‘rânî und sein Werk über die muhammadanische
 Glaubenslehre*, *ibid*. vol. 20, p. 37 foll.
 
-<span id="fn_615"></span>[195:2](siim17.htm#fr_617) Cf. pp.
-[87](siim07.htm#page_87) and [103](siim10.htm#page_103) foll.
+<span id="fn_615"></span>[195:2](siim17.htm#fr_617.md) Cf. pp.
+[87](siim07.htm#page_87) and [103](siim10.htm#page_103.md) foll.
 
-<span id="fn_616"></span>[195:3](siim17.htm#fr_618) 574 verses out of a
+<span id="fn_616"></span>[195:3](siim17.htm#fr_618.md) 574 verses out of a
 total of 761. The following verses have not been translated: 111-114,
 117-119, 122-125, 141-143, 164-167, 175-193, 195-196, 265-276, 334-393,
 503-505, 515-520, 549-574, 580-588, 602-613, 622-626, 632-636, 750-758.
 
 ------------------------------------------------------------------------
 
-[Next: vv. 1-100](siim19)
+[Next: vv. 1-100](siim19.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt87)  [Next](egt89) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt87)  [Next](egt89.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ well.
 ------------------------------------------------------------------------
 
 [Next: ON THE GREATNESS OF THE QUR'ÂN,--VERILY IT CONSISTS NOT IN ITS
-DIVISION INTO 'TENS' AND 'FIVES.'](egt89)
+DIVISION INTO 'TENS' AND 'FIVES.'](egt89.md)

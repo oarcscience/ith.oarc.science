@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](tbc08)  [Next](tbc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](tbc08)  [Next](tbc10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddhist Catechism*, by Henry S. Olcott \[1908\], at Intangible
 Textual Heritage
 
@@ -58,7 +58,7 @@ Teacher of the human race.
 these births, by what name do we call him?*
 
 A. Bodhisat, or Bodhisattva, Thus the Prince Siddhârtha Gautama was a
-[Bodhisattva](errata.htm#0) up to the moment when, under the blessed
+[Bodhisattva](errata.htm#0.md) up to the moment when, under the blessed
 Bodhi tree at Gaya, he became Buddha.
 
 111\. Q. *Have we any account of his various rebirths as a Bodhisattva?*
@@ -205,7 +205,7 @@ and a list of the other names by which the old Pâlî writers attempted to
 define it?*
 
 A. In the famous Dictionary of the Pâlî Language, by the late Mr. R. C.
-Childers, is a complete list. <span id="fr_8"></span>[\*](#fn_8)
+Childers, is a complete list. <span id="fr_8"></span>[\*](#fn_8.md)
 
 132\. Q. *But some people imagine that Nirvâṇa is some sort of heavenly
 place, a Paradise. Does Buddhism teach that?*
@@ -261,7 +261,7 @@ advantages of place, body, environment and teaching in his next stage of
 progress, which ward off the effects of bad Karma and help his higher
 evolution.
 
-140\. [ ](errata.htm#1) *What are they called?*
+140\. [ ](errata.htm#1.md) *What are they called?*
 
 A. *Gati Sampatti*, *Upâdhi Sampatti*, *Kâla Sampatti* and *Payoga
 Sampatti*.
@@ -346,7 +346,7 @@ that we should not merely not be evil, but that we should be positively
 good.
 
 149\. Q. *Who or what are the "Three Guides" <span
-id="fr_9"></span>[\*](#fn_9) that a Buddhist is supposed to follow?*
+id="fr_9"></span>[\*](#fn_9.md) that a Buddhist is supposed to follow?*
 
 A. They are disclosed in the formula called the Tisaraṇa: "I follow
 Buddha as my Guide: I follow the Law as my Guide: I follow the order as
@@ -394,7 +394,7 @@ publicly at the vihâras (temples):—
 I observe the precept to refrain from stealing.
 
 I observe the precept to abstain from unlawful sexual intercourse. <span
-id="fr_10"></span>[\*](#fn_10)
+id="fr_10"></span>[\*](#fn_10.md)
 
 I observe the precept to refrain from falsehood.
 
@@ -559,7 +559,7 @@ unerring KARMA, exactly that reward or punishment which he has deserved,
 no more and no less. No good deed or bad deed, however trifling, and
 however secretly committed, escapes the evenly-balanced scales of Karma.
 
-172\. Q. *What is Karma?* <span id="fr_11"></span>[\*](#fn_11)
+172\. Q. *What is Karma?* <span id="fr_11"></span>[\*](#fn_11.md)
 
 A. A causation operating on the moral, as well as on the physical and
 other planes. Buddhists say there is no miracle in human affairs what a
@@ -596,7 +596,7 @@ Buddha—that which he addressed to his five former companions?*
 <span id="page_48">p. 48</span>
 
 A. The *Dhammacakka-ppavattana sutta*,—the Sûtra of the Definition of
-the Rule of Doctrine. <span id="fr_12"></span>[\*](#fn_12)
+the Rule of Doctrine. <span id="fr_12"></span>[\*](#fn_12.md)
 
 178\. Q. *What subjects were treated by him in this. discourse?*
 
@@ -670,7 +670,7 @@ religions. In the *Brâhmajâta Sutta* the Buddha has
 <span id="page_51">p. 51</span>
 
 categorically described these and other superstitions as pagan, mean and
-spurious. <span id="fr_13"></span>[\*](#fn_13)
+spurious. <span id="fr_13"></span>[\*](#fn_13.md)
 
 187\. Q. *What striking contrasts are there between Buddhism and what
 may be properly called "religions?"*
@@ -793,7 +793,7 @@ fruitless."
 A. In the *Dhammapada* the Buddha said: "If a man foolishly does me
 wrong, I will return to him the protection of my ungrudging love; the
 more evil comes from him, the more good shall go from me." This is the
-path followed by the Arhat. <span id="fr_14"></span>[\*](#fn_14) To
+path followed by the Arhat. <span id="fr_14"></span>[\*](#fn_14.md) To
 return evil for evil is positively forbidden in Buddhism.
 
 <span id="page_56">p. 56</span>
@@ -814,14 +814,14 @@ who do so*.
 <span id="page_57">p. 57</span>
 
 <span class="contnote">\[paragraph continues\]</span> Let him refrain
-from even hurting any creature," <span id="fr_15"></span>[\*](#fn_15)
+from even hurting any creature," <span id="fr_15"></span>[\*](#fn_15.md)
 etc.
 
 203\. Q. *Does it approve of drunkenness?*
 
 A. In his *Dhammika Sutta* we are warned against drinking liquors,
 causing others to drink, or sanctioning the acts of those who
-drink. <span id="fr_16"></span>[†](#fn_16)
+drink. <span id="fr_16"></span>[†](#fn_16.md)
 
 204\. Q. *To what are we told that drunkenness leads?*
 
@@ -994,7 +994,7 @@ A. It considers "soul" to be a word used by the ignorant to express a
 false idea. If every thing is subject to change, then man is included,
 and every material part of him must change. That which is subject to
 change is not permanent: so there can be no immortal survival of a
-changeful thing. <span id="fr_17"></span>[\*](#fn_17)
+changeful thing. <span id="fr_17"></span>[\*](#fn_17.md)
 
 230\. Q. What is so objectionable in this word 'soul'?
 
@@ -1022,7 +1022,7 @@ having *Tanhâ*, will have a re-birth through the influence of Karma..
 233\. Q. *What is it that is born?*
 
 A. A new aggregation of Skandhas, or personality <span
-id="fr_18"></span>[\*](#fn_18)
+id="fr_18"></span>[\*](#fn_18.md)
 
 <span id="page_65">p. 65</span>
 
@@ -1054,7 +1054,7 @@ A. To the ripened Karma of the individual in his preceding births.
 235\. Q. *What is the force or energy that is at work, under the
 guidance of Karma, to produce the new being?*
 
-A. Tanhâ—the will to *live*. <span id="fr_19"></span>[\*](#fn_19)
+A. Tanhâ—the will to *live*. <span id="fr_19"></span>[\*](#fn_19.md)
 
 <span id="page_67">p. 67</span>
 
@@ -1079,7 +1079,7 @@ During this
 <span id="page_68">p. 68</span>
 
 life the Skandhas are constantly changing; <span
-id="fr_20"></span>[\*](#fn_20) and while the man A. B., of forty, is
+id="fr_20"></span>[\*](#fn_20.md) and while the man A. B., of forty, is
 identical, as regards. personality, with the youth A. B., of eighteen,
 yet, by the continual waste and reparation of his body, and change of
 mind and character, he is a different being. Nevertheless, the man in
@@ -1187,7 +1187,7 @@ Buddha's teaching is constructed?*
 <span id="page_72">p. 72</span>
 
 A. It is called *Paticca Samuppâdâ*. <span
-id="fr_21"></span>[\*](#fn_21)
+id="fr_21"></span>[\*](#fn_21.md)
 
 252\. Q. *Is it easily grasped?*
 
@@ -1223,11 +1223,11 @@ the individual temperament and spiritual development of the hearer.
 
 ### Footnotes
 
-<span id="fn_8"></span>[33:\*](tbc09.htm#fr_8) Mr. Childers takes a
+<span id="fn_8"></span>[33:\*](tbc09.htm#fr_8.md) Mr. Childers takes a
 highly pessimistic view of the Nirvâṇic state, regarding it as
 annihilation. Later students disagree with him.
 
-<span id="fn_9"></span>[38:\*](tbc09.htm#fr_9) *Sâranam*. Wijesinha
+<span id="fn_9"></span>[38:\*](tbc09.htm#fr_9.md) *Sâranam*. Wijesinha
 Mudaliyar writes me:—"This word has been hitherto very inappropriately
 and erroneously rendered *Refuge*, by European Pâlî scholars, and
 thoughtlessly so accepted by native Pâlî scholars. Neither Pâlî
@@ -1250,7 +1250,7 @@ the Order, as the destroyers of my fears;—the first by his preaching,
 the second by its axiomatic truth, the third by their various examples
 and precepts."
 
-<span id="fn_10"></span>[40:\*](tbc09.htm#fr_10) This qualified form
+<span id="fn_10"></span>[40:\*](tbc09.htm#fr_10.md) This qualified form
 refers, of course, to laymen who only profess to keep five Precepts: a
 Bhikkhu must observe strict celibacy. So, also, must the laic who binds
 himself to observe eight of the whole ten Precepts for specified periods
@@ -1259,14 +1259,14 @@ down by Buddha for all people. Though one may not be a Buddhist, yet the
 five and eight precepts may profitably be observed by all. It is the
 taking of the "Three Refuges" that constitutes one a Buddhist.
 
-<span id="fn_11"></span>[46:\*](tbc09.htm#fr_11) Karma is defined as the
+<span id="fn_11"></span>[46:\*](tbc09.htm#fr_11.md) Karma is defined as the
 sum total of a man's actions. The law of Cause and Effect is called the
 *Paticca Samuppada Dhamma*. In the *Anguttara Nikaya* the Buddha teaches
 that "my action is my possession, my action is my inheritance, my action
 is the womb which bears me, my action is my relative, my action is my
 refuge."
 
-<span id="fn_12"></span>[48:\*](tbc09.htm#fr_12) After the appearance of
+<span id="fn_12"></span>[48:\*](tbc09.htm#fr_12.md) After the appearance of
 the first edition, I received from one of the ablest Pâlî scholars of
 Ceylon, the late L. Corneille Wijesinha,. Esq., Mudaliar of Matale, what
 seems a better rendering of *Dhammacakka-ppavattana* than the one
@@ -1279,7 +1279,7 @@ entitled 'The Establishment of the Reign of Law.'" Having shown this to
 the High Priest, I am happy to be able to say that he assents to Mr.
 Wijesinha's rendering.
 
-<span id="fn_13"></span>[51:\*](tbc09.htm#fr_13) The mixing of these
+<span id="fn_13"></span>[51:\*](tbc09.htm#fr_13.md) The mixing of these
 arts and practices with Buddhism is a sign of deterioration. Their facts
 and phenomena are real and capable of scientific explanation. They are
 embraced in the term 'magic,' but when resorted to for selfish purposes,
@@ -1287,7 +1287,7 @@ attract bad influences about one, and impede spiritual advancement. When
 employed for harmless and beneficent purposes, such as healing the sick,
 saving life, etc., the Buddha permitted their use.
 
-<span id="fn_14"></span>[55:\*](tbc09.htm#fr_14) A Buddhist ascetic who,
+<span id="fn_14"></span>[55:\*](tbc09.htm#fr_14.md) A Buddhist ascetic who,
 by a prescribed course of practice, has attained to a superior state of
 spiritual and intellectual development. Arhats may be divided into the
 two general groups of the *Samathayânika* and *Sukkha Vipassaka*. The
@@ -1316,27 +1316,27 @@ without Arhats if the ascetics (Bhikkhus) in my congregations *well and
 truly keep my precepts*." (*Imecha Subhaddhabhikkhu samma vihareiyum
 asunno loko Arahantehiassa*.)
 
-<span id="fn_15"></span>[57:\*](tbc09.htm#fr_15) Kolb, in his 'History
+<span id="fn_15"></span>[57:\*](tbc09.htm#fr_15.md) Kolb, in his 'History
 of Culture,' says: "It is Buddhism we 'have to thank for the sparing of
 prisoners of war, who heretofore had been slain also for the
 discontinuance of the carrying away into captivity of the inhabitants of
 conquered lands."
 
-<span id="fn_16"></span>[57:†](tbc09.htm#fr_16) The 5th Sila has
+<span id="fn_16"></span>[57:†](tbc09.htm#fr_16.md) The 5th Sila has
 reference to the mere taking of intoxicants and stupefying drugs, which
 leads ultimately to drunkenness.
 
-<span id="fn_17"></span>[63:\*](tbc09.htm#fr_17) The 'soul' here
+<span id="fn_17"></span>[63:\*](tbc09.htm#fr_17.md) The 'soul' here
 criticised is the equivalent of the Greek *psuche*. The word "material"
 covers other states of matter than that of the physical body.
 
-<span id="fn_18"></span>[64:\*](tbc09.htm#fr_18)Upon reflection, I have
+<span id="fn_18"></span>[64:\*](tbc09.htm#fr_18.md)Upon reflection, I have
 substituted "personality" for "individuality" as written in the first
 edition. The successive appearances upon one or many earths, or
 "descents into generation," of the *tanhaically*-coherent parts
 (Skandhas) of a certain being are a succession of personalities. In each
 birth the *personality* differs from that of the previous or next
-succeeding birth. Karma, the *deus ex [machinâ](errata.htm#2)*, masks
+succeeding birth. Karma, the *deus ex [machinâ](errata.htm#2.md)*, masks
 (or shall we say reflects?) itself, now in the personalities of a sage,
 again as an artisan, and so on throughout the string of births. But
 though personalities ever shift, the one line of life along which they
@@ -1390,7 +1390,7 @@ and trance, the *javana chitta* is transferred to the object last
 created by the desires. The will to live brings all thoughts into
 objectivity.
 
-<span id="fn_19"></span>[66:\*](tbc09.htm#fr_19) The student my
+<span id="fn_19"></span>[66:\*](tbc09.htm#fr_19.md) The student my
 profitably consult Schopenhauer in this connection. Arthur Schopenhauer,
 a modern German philosopher of the most eminent ability, taught that
 "The Principle, or Radical, of Nature, and of all her objects, the human
@@ -1403,10 +1403,10 @@ complete renunciation of will, as far as it urges 'life' and is then
 extinguished in Nirvâṇa" (L.A. Sanders in the *Theosopist* for May 1382,
 p. 213).
 
-<span id="fn_20"></span>[68:\*](tbc09.htm#fr_20) Physiologically
+<span id="fn_20"></span>[68:\*](tbc09.htm#fr_20.md) Physiologically
 speaking, man's body is completely changed every seven years.
 
-<span id="fn_21"></span>[72:\*](tbc09.htm#fr_21) This fundamental or
+<span id="fn_21"></span>[72:\*](tbc09.htm#fr_21.md) This fundamental or
 basic principle may be designated in Pâlî, *Nidâna*—chain of causation
 or, literally, "Origination of dependence." Twelve Nidânas are
 specified, *viz*.: *Avijjâ*—ignorance of the truth of natural religion;
@@ -1421,6 +1421,6 @@ caste; *Jarâ*, *narana*, *sokaparidêsa*, *dukkha*, *domanassa*,
 
 ------------------------------------------------------------------------
 
-[Next: Part III. The Sangha](tbc10)
+[Next: Part III. The Sangha](tbc10.md)
 
 </div>

@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sgr06)  [Next](sgr08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sgr06)  [Next](sgr08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte.md)
 
 </div>
 
@@ -190,6 +190,6 @@ according to his faith, and it is so with you and with all of us.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7. Gratitude](sgr08)
+[Next: Chapter 7. Gratitude](sgr08.md)
 
 </div>

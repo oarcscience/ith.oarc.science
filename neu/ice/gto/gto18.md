@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto17)  [Next](gto19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto17)  [Next](gto19.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ the prey is almost in our hands."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Gisli Slips Through Bork's Fingers](gto19)
+[Next: Chapter XIV. Gisli Slips Through Bork's Fingers](gto19.md)

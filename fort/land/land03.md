@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](land02)  [Next](land04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](land02)  [Next](land04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *New Lands*, by Charles Fort, \[1923\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -370,4 +370,4 @@ The comet, which had been receding, kept on receding.
 
 ------------------------------------------------------------------------
 
-[Next: 4](land04)
+[Next: 4](land04.md)

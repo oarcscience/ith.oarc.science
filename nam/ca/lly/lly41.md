@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly40)  [Next](lly42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly40)  [Next](lly42.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ roasting on hot rocks or over a bed of coals.
 
 ------------------------------------------------------------------------
 
-[Next: Deer](lly42)
+[Next: Deer](lly42.md)

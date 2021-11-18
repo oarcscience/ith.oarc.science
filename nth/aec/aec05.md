@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec04)  [Next](aec06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec04)  [Next](aec06.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ people believe that they can improve the Creator's work? If human nature
 were the work of man it would require a great deal of rectification. But
 since it is created by God, we can be assured that it is potentially
 God-like. In fact, human nature and Divine Nature are
-[analogous](errata.htm#1). This is certain, if man had the power to
+[analogous](errata.htm#1.md). This is certain, if man had the power to
 change the nature of any species it would become either a hybrid, a
 freak or a monstrosity.
 
@@ -233,4 +233,4 @@ every aspiration, looks toward the achievement of this knowledge.
 
 ------------------------------------------------------------------------
 
-[Next: III. What Is Man?](aec06)
+[Next: III. What Is Man?](aec06.md)

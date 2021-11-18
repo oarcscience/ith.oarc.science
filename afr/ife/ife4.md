@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife3) [Next](ife5)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife3) [Next](ife5.md)
 
 ------------------------------------------------------------------------
 
@@ -230,7 +230,7 @@ With Odudúwa reigned.</td>
 
 ------------------------------------------------------------------------
 
-[Next](ife5)
+[Next](ife5.md)
 
 ------------------------------------------------------------------------
 
@@ -238,26 +238,26 @@ With Odudúwa reigned.</td>
 
 <span id="footnotes_page_22">p. 22</span>
 
-<span id="page_22_note_1"></span>[1](#page_22_fr_1) [See Note
-I](ife9.htm#I) on the Creation of the Earth.
+<span id="page_22_note_1"></span>[1](#page_22_fr_1.md) [See Note
+I](ife9.htm#I.md) on the Creation of the Earth.
 
-<span id="page_22_note_2"></span>[2](#page_22_fr_2) The Goddess of the
+<span id="page_22_note_2"></span>[2](#page_22_fr_2.md) The Goddess of the
 Sea.
 
-<span id="page_22_note_3"></span>[3](#page_22_fr_3) The Goddess of the
+<span id="page_22_note_3"></span>[3](#page_22_fr_3.md) The Goddess of the
 Lagoons.
 
 <span id="footnotes_page_24">p. 24</span>
 
-<span id="page_24_note_1"></span>[1](#page_24_fr_1) [See Note
-IV](ife9.htm#IV) on the Creation of Man.
+<span id="page_24_note_1"></span>[1](#page_24_fr_1.md) [See Note
+IV](ife9.htm#IV.md) on the Creation of Man.
 
 <span id="footnotes_page_26">p. 26</span>
 
-<span id="page_26_note_1"></span>[1](#page_26_fr_1) [See Note
-V](ife9.htm#V) on Obálufon.
+<span id="page_26_note_1"></span>[1](#page_26_fr_1.md) [See Note
+V](ife9.htm#V.md) on Obálufon.
 
-<span id="page_26_note_2"></span>[2](#page_26_fr_2) Palm-wine, an
+<span id="page_26_note_2"></span>[2](#page_26_fr_2.md) Palm-wine, an
 efficacious native intoxicant.
 
  

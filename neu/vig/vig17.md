@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig16)  [Next](vig18) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig16)  [Next](vig18.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ he. "You will have trouble on your hands," remarked Glum, "if Kálf, of
 Stockahlad should really be killed."  
         Now Glum himself had killed Kálf, at Stöckahlad, whilst Ingolf
 was away, and had thus taken vengeance for him,  <span
-id="fr_13"></span>[1](#fn_13) and the following day Kálf’s death was
+id="fr_13"></span>[1](#fn_13.md) and the following day Kálf’s death was
 publicly known. Thorkel said at once that a fellow had come thither who
 had taken the death on himself, so that everybody thought it was really
 so. The winter passed on, and Glum sent Ingolf northward, to the house
@@ -82,7 +82,7 @@ going to math himself with Glum, and so he left off going thither.
 
 ### Footnotes
 
-<span id="fn_13"></span>[1](vig17.htm#fr_13) This sentence appears to be
+<span id="fn_13"></span>[1](vig17.htm#fr_13.md) This sentence appears to be
 as sort of gloss introduced in one of the transcripts from the original
 MS, but I have inserted it in the text, as it is essential to the
 understanding of this strange story. It should be observed that there is
@@ -93,4 +93,4 @@ Stocka-*Hlad*, and the calf which Ingolf was made to kill was in the
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](vig18)
+[Next: Chapter XV](vig18.md)

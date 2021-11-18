@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sis04)  [Next](sis06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sis04)  [Next](sis06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shamanism in Siberia*, by M.A. Czaplicka, \[1914\], at Intangible
 Textual Heritage
 
@@ -599,4 +599,4 @@ answer satisfactorily he gives permission to enchant and destroy men.
 
 ------------------------------------------------------------------------
 
-[Next: Chaper X. The Accessories of the Shaman](sis06)
+[Next: Chaper X. The Accessories of the Shaman](sis06.md)

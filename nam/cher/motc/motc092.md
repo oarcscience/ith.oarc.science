@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc091) 
-[Next](motc093) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc091.md) 
+[Next](motc093.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ the village together.--Arranged from Curtin, Seneca manuscript.
 
 ------------------------------------------------------------------------
 
-[Next: 93. The Unseen Helpers](motc093)
+[Next: 93. The Unseen Helpers](motc093.md)

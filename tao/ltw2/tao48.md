@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao48)   
-[Previous](tao47)  [Next](tao49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao48.md)   
+[Previous](tao47)  [Next](tao49.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ mind that the Sage gains the world's favor.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 49](tao49)
+[Next: Chapter 49](tao49.md)

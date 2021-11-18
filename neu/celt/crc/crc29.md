@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc28)  [Next](crc30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc28)  [Next](crc30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ all.'
 It is then that the charioteer arose, and he put on his hero's dress of
 charioteering. This was his hero's dress of charioteering that he put
 on: his soft tunic of skin, light and airy, well-turned, <span
-id="fr_83"></span>[1](#fn_81) made of skin, sewn, of deer-skin, so that
+id="fr_83"></span>[1](#fn_81.md) made of skin, sewn, of deer-skin, so that
 it did not restrain the movement of his hands outside. He put on his
 black (?) upper-cloak over it outside: Simon Magus had made it for
 Darius, King of the Romans, so that Darius gave it to Conchobar, and
@@ -45,7 +45,7 @@ distinction to his master.
 
 He took the goads (?) of his horses, and his whip (?) inlaid in his
 right hand. He took the reins to hold back his horses in his left
-hand. <span id="fr_84"></span>[2](#fn_82) Then he put the iron inlaid
+hand. <span id="fr_84"></span>[2](#fn_82.md) Then he put the iron inlaid
 breastplates on the horses, so that they were covered from forehead to
 forefoot with spears
 
@@ -61,7 +61,7 @@ because there were the three gifts of charioteering on the charioteer
 that day, the leap over ———, and the straight ———, and the ———.
 
 Then the hero and the champion and he who made the fold of the
-Badb <span id="fr_85"></span>[1](#fn_83) of the men of the earth,
+Badb <span id="fr_85"></span>[1](#fn_83.md) of the men of the earth,
 Cuchulainn Mac Sualtaim, took his battle-array of battle and contest and
 strife. This was his battle-array of battle and contest and strife: he
 put on twenty-seven skin tunics, waxed, like board, equally thick, which
@@ -84,7 +84,7 @@ skins (?) about it over his silken skin-like apron. Then the royal hero
 took his battle-arms of battle and contest and strife. These then were
 his battle-arms of battle: he took his ivory-hilted, bright-faced
 weapon, with his eight little swords; he took his five-pointed spear,
-with his eight little spears; <span id="fr_86"></span>[1](#fn_84) he
+with his eight little spears; <span id="fr_86"></span>[1](#fn_84.md) he
 took his spear of battle, with his eight little darts; he took his
 javelin with his eight little javelins; his eight shields of feats, with
 his round shield, dark red, in which a boar that would be shown at a
@@ -282,7 +282,7 @@ Dubthach Doeltenga of Ulster said:
 <div style="margin-left: 32px">
 
 <span class="small">'If it is the Riastartha, there will be corpses  
-    Of men therefrom,' etc. <span id="fr_87"></span>[1](#fn_85)</span>
+    Of men therefrom,' etc. <span id="fr_87"></span>[1](#fn_85.md)</span>
 
 </div>
 
@@ -292,7 +292,7 @@ Andoe: Dubthach Doeltenga of Ulster came with Fiacha Fialdana from
 Imraith (?). Docha threw a spear at Fiacha, so that it went into
 Dubthach. Then Dubthach threw a spear at Mane, so that it went into
 Docha. The mothers of Dubthach and Docha were two sisters. Hence is
-Imroll Belaig Euin. <span id="fr_88"></span>[2](#fn_86)
+Imroll Belaig Euin. <span id="fr_88"></span>[2](#fn_86.md)
 
 (Or Imroll Belaig Euin is from this: the hosts go to Belach Euin, their
 two troops wait there. Diarmait Mac Conchobair comes from the north from
@@ -306,7 +306,7 @@ They meet then.
 
 'I have come,' said Diarmait, 'from Conchobar, who says to Medb and
 Ailill, that they let the cows go, and make whole all that they have
-done there, and bring the Bull <span id="fr_89"></span>[1](#fn_87) from
+done there, and bring the Bull <span id="fr_89"></span>[1](#fn_87.md) from
 the west hither to the Bull, that they may meet, because Medb has
 promised it.'
 
@@ -323,12 +323,12 @@ Imroll Belaig Euin.)
 
 Their forces rush at each other: there fall three twenties of them in
 each of the forces. Hence is Ard-in-Dirma. <span
-id="fr_90"></span>[2](#fn_88)
+id="fr_90"></span>[2](#fn_88.md)
 
 Ailill's folk put his king's crown on Tamun the fool; Ailill dare not
 have it on himself. Cuchulainn threw a stone at him at Ath Tamuin, so
 that his head broke thereby. Hence is Ath Tamuin and
-Tuga-im-Tamun. <span id="fr_91"></span>[3](#fn_89)
+Tuga-im-Tamun. <span id="fr_91"></span>[3](#fn_89.md)
 
 Then Oengus, son of Oenlam the Fair, a bold warrior of Ulster, turned
 all the host at Moda Loga (that is the same as Lugmod) as far as Ath Da
@@ -427,37 +427,37 @@ there.
 
 ### Footnotes
 
-<span id="fn_81"></span>[87:1](crc29.htm#fr_83) Lit. 'kneaded.'
+<span id="fn_81"></span>[87:1](crc29.htm#fr_83.md) Lit. 'kneaded.'
 
-<span id="fn_82"></span>[87:2](crc29.htm#fr_84) Gloss incorporated in
+<span id="fn_82"></span>[87:2](crc29.htm#fr_84.md) Gloss incorporated in
 test: '*i.e.* to direct his horses, in his left hand, for the great
 power of his charioteering.'
 
-<span id="fn_83"></span>[88:1](crc29.htm#fr_85) The Badb (scald-crow)
+<span id="fn_83"></span>[88:1](crc29.htm#fr_85) The Badb (scald-crow.md)
 was a war-goddess. This is an expressive term for the piled-up bodies of
 the slain.
 
-<span id="fn_84"></span>[89:1](crc29.htm#fr_86) In the margin: 'and his
+<span id="fn_84"></span>[89:1](crc29.htm#fr_86.md) In the margin: 'and his
 quiver,' probably an interpolation.
 
-<span id="fn_85"></span>[95:1](crc29.htm#fr_87) Rhetoric, fifty-four
+<span id="fn_85"></span>[95:1](crc29.htm#fr_87.md) Rhetoric, fifty-four
 lines.
 
-<span id="fn_86"></span>[95:2](crc29.htm#fr_88) *i.e.* the Random Throw
+<span id="fn_86"></span>[95:2](crc29.htm#fr_88.md) *i.e.* the Random Throw
 of Belach Euin.
 
-<span id="fn_87"></span>[96:1](crc29.htm#fr_89) *i.e.* bring Findbennach
+<span id="fn_87"></span>[96:1](crc29.htm#fr_89.md) *i.e.* bring Findbennach
 to meet the Dun of Cualnge.
 
-<span id="fn_88"></span>[96:2](crc29.htm#fr_90) The Height of the Troop.
+<span id="fn_88"></span>[96:2](crc29.htm#fr_90.md) The Height of the Troop.
 
-<span id="fn_89"></span>[96:3](crc29.htm#fr_91) *i.e.* Covering about
+<span id="fn_89"></span>[96:3](crc29.htm#fr_91.md) *i.e.* Covering about
 Tamun.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Continuation (from the Yellow Book of Lecan)](crc30)
+[Next: Continuation (from the Yellow Book of Lecan)](crc30.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp14)  [Next](dmp16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp14)  [Next](dmp16.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ and natron; you bury it in your chamber or in a hidden place.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XIII](dmp16)
+[Next: Col. XIII](dmp16.md)

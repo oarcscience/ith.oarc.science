@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat04.htm#XIII) 
-[Previous](satl012)  [Next](satl014) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat04.htm#XIII.md) 
+[Previous](satl012)  [Next](satl014.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ si nollet alienam rem domino reddere, ad interdictum veniret.
 
 ------------------------------------------------------------------------
 
-[Next: XIV](satl014)
+[Next: XIV](satl014.md)

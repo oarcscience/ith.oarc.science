@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](srg17)  [Next](srg19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](srg17)  [Next](srg19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Rose Garden*, by Florence Lederer, \[1920\], at Intangible
 Textual Heritage
 
@@ -119,6 +119,6 @@ I am back in the Rose Garden.
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](srg19)
+[Next: Epilogue](srg19.md)
 
 </div>

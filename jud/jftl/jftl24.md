@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl23)  [Next](jftl25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl23)  [Next](jftl25.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_23400"></span> <span align="CENTER"> [![He crouched on his
 throne and imagined he saw angels and demons and fairies. (&lt;i&gt;Page
 241&lt;/i&gt;).](tn/23400.jpg)  
-Click to enlarge](img/23400.jpg)  
+Click to enlarge](img/23400.jpg.md)  
 He crouched on his throne and imagined he saw angels and demons and
 fairies. (*Page 241*).  
 </span>
@@ -29,7 +29,7 @@ fairies. (*Page 241*).
 # The Paradise in the Sea
 
 Hiram, king of Tyre, was a foolish old man. He lived so long and grew to
-such a venerable age that he [absurdly](errata.htm#7) imagined he would
+such a venerable age that he [absurdly](errata.htm#7.md) imagined he would
 never die. The idea gained strength daily in his mind and thus he mused:
 
 "David, king of the Jews, I knew, and afterward his son, the wise King
@@ -226,4 +226,4 @@ of King David and King Solomon, was but a mortal and a foolish one.
 
 ------------------------------------------------------------------------
 
-[Next: The Rabbi's Bogey-Man](jftl25)
+[Next: The Rabbi's Bogey-Man](jftl25.md)

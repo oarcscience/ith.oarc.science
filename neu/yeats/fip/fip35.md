@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip34)  [Next](fip36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip34)  [Next](fip36.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ night, he is about to die.
 
 ------------------------------------------------------------------------
 
-[Next: A Dream, by William Allingham](fip36)
+[Next: A Dream, by William Allingham](fip36.md)

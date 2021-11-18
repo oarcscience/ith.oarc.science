@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi043)  [Next](mtsi045) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi043)  [Next](mtsi045.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ to the western side. So the Rabbit got rid of his rival.
 ------------------------------------------------------------------------
 
 [Next: 43. Rabbit Gets Man-eater Over to the Other Side of the Ocean
-(Fourth Version)](mtsi045)
+(Fourth Version)](mtsi045.md)

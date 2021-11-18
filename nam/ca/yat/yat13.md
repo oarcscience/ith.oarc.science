@@ -1,24 +1,24 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat12)  [Next](yat14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat12)  [Next](yat14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### XIII. THE FINDING OF FIRE.  <span id="fr_108"></span>[268](#fn_105)
+### XIII. THE FINDING OF FIRE.  <span id="fr_108"></span>[268](#fn_105.md)
 
 (Translated from Curtin's "Creation Myths of Primitive America," pp.
-365-70.)  <span id="fr_109"></span>[259](#fn_106)
+365-70.)  <span id="fr_109"></span>[259](#fn_106.md)
 
 <span id="page_170">p. 170</span>
 
@@ -208,17 +208,17 @@ every one had fire in all parts of the country.
 
 ### Footnotes
 
-<span id="fn_105"></span>[160:268](yat13.htm#fr_108) By the courtesy of
+<span id="fn_105"></span>[160:268](yat13.htm#fr_108.md) By the courtesy of
 Mrs. Curtin and Little, Brown, and Company permission was received to
 reprint Jeremiah Curtin's myth entire. No changes have been made in his
 spelling of Indian names, but the Indian translation gives them in more
 strictly phonetic form.
 
-<span id="fn_106"></span>[160:259](yat13.htm#fr_109) Curtin's version
+<span id="fn_106"></span>[160:259](yat13.htm#fr_109.md) Curtin's version
 was read to Betty Brown and translated by her sentence by sentence. It
 is of considerable linguistic interest to see how a connected English
 myth appears when translated back into the Indian.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Indian Medicine-Men](yat14)
+[Next: XIV. Indian Medicine-Men](yat14.md)

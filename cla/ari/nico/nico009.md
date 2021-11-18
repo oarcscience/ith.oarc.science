@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico008) 
-[Next](nico010) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico008.md) 
+[Next](nico010.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ experienced such chances and has ended wretchedly no one calls happy.
 ------------------------------------------------------------------------
 
 [Next: Chapter 10. Should no man be called happy while he
-lives?](nico010)
+lives?](nico010.md)

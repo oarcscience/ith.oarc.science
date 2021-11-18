@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap06) 
-[Next](chap08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap06.md) 
+[Next](chap08.md) 
 
 ------------------------------------------------------------------------
 
@@ -266,4 +266,4 @@ that the greatest evils may spring therefrom.
 ------------------------------------------------------------------------
 
 [Next: Chapter 8: The Sundry Names Given to the Sexual Parts of
-Man](chap08)
+Man](chap08.md)

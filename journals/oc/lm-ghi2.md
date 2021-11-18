@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Zoroastrian
-Articles](../../zor/etc/index)
+Heritage](../../index) [Journals](../index.md) [Zoroastrian
+Articles](../../zor/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ Articles](../../zor/etc/index)
 
 <span id="page_164">p. 164</span>
 
-## GOD AND HIS IMMORTALS: THEIR COUNTERPARTS.<span id="page_164_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_164_note_1)
+## GOD AND HIS IMMORTALS: THEIR COUNTERPARTS.<span id="page_164_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_164_note_1.md)
 
 <span class="small">BY LAWRENCE HEYWORTH MILLS.</span>
 
@@ -54,7 +54,7 @@ Articles](../../zor/etc/index)
 Life-Spirit-Lord, with His six characteristics, and in the pervading
 antithesis of the system the great Antagonistic Being, Angra
 Mainyu,<span id="page_164_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_164_note_2) the Evil Spirit,
+class="small">2</span></sup>](#page_164_note_2.md) the Evil Spirit,
 appears, and stands in great prominence as perhaps the most defined
 concept of the kind ever advanced in all well-known theology. He is the
 Creator of all that is averse to the Good.
@@ -67,10 +67,10 @@ and with incisive force throughout.
 
    Asha, the holy rhythm of fidelity in God and nature, first<span
 id="page_164_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_164_note_3) of the sacred and august
+class="small">3</span></sup>](#page_164_note_3.md) of the sacred and august
 six Attributes just above discussed,<span
 id="page_164_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_164_note_4) is met at every turn by
+class="small">4</span></sup>](#page_164_note_4.md) is met at every turn by
 its contradictory opposite, manifested, as might be expected, in the
 sinister shifts of subterfuge.
 
@@ -183,7 +183,7 @@ life itself be not the curse of all of us.
 and that of His saints in Earth and Heaven there was, and is, the ever
 dread alternative;—as seen above.<span
 id="page_167_fr_5"></span>[<sup><span
-class="small">5</span></sup>](#page_167_note_5)
+class="small">5</span></sup>](#page_167_note_5.md)
 
    Even where we are awake to see in Her, nature's soft second nurse,
 the sweet ending of a life well spent, a fight well fought,—yet, how we
@@ -220,7 +220,7 @@ this great fact has in it.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Zoroastrian Articles](../../zor/etc/index)
+[Journals](../index) [Zoroastrian Articles](../../zor/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -228,27 +228,27 @@ this great fact has in it.
 
 <span id="footnotes_page_164">p. 164</span>
 
-<span id="page_164_note_1"></span>[1](#page_164_fr_1) This is a
+<span id="page_164_note_1"></span>[1](#page_164_fr_1.md) This is a
 continuation of Professor Mills's article "[God and His
-Immortals](lm-ghi1)," which appeared in the January Number of *The Open
+Immortals](lm-ghi1.md)," which appeared in the January Number of *The Open
 Court*.
 
-<span id="page_164_note_2"></span>[2](#page_164_fr_2) Literally the
+<span id="page_164_note_2"></span>[2](#page_164_fr_2.md) Literally the
 "Torturing Spirit" from the idea of "tortion," but the literal ideas of
 etymology are seldom to be followed closely in defining the particular
 meanings of a word. Simply "evil" is the sense.
 
-<span id="page_164_note_3"></span>[3](#page_164_fr_3) So in the original
+<span id="page_164_note_3"></span>[3](#page_164_fr_3.md) So in the original
 documents,—the Gathas; Asha leads us to its interior force and meaning.
 Not so later; Vohu Manah gained the prior place, doubtless, from its
 pleasing significance.
 
-<span id="page_164_note_4"></span>[4](#page_164_fr_4) See the January
+<span id="page_164_note_4"></span>[4](#page_164_fr_4.md) See the January
 number.
 
 <span id="footnotes_page_167">p. 167</span>
 
-<span id="page_167_note_5"></span>[5](#page_167_fr_5) See the January
+<span id="page_167_note_5"></span>[5](#page_167_fr_5.md) See the January
 number.
 
  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit15)  [Next](bit17) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit15)  [Next](bit17.md) 
 
 ------------------------------------------------------------------------
 
@@ -791,4 +791,4 @@ walked solemnly round the heap whispering prayers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Representation of Buddhist Deities](bit17)
+[Next: Chapter XIV. Representation of Buddhist Deities](bit17.md)

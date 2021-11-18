@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh04)  [Next](boh06) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh04)  [Next](boh06.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ was taken not to anger them, and due honors paid.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Pomona](boh06)
+[Next: Chapter IV: Pomona](boh06.md)

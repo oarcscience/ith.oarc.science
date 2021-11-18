@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo19)  [Next](aoo21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo19)  [Next](aoo21.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ at in the after-times.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII](aoo21)
+[Next: Chapter XXII](aoo21.md)

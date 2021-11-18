@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr33)  [Next](wsgr35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr33)  [Next](wsgr35.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ had grown up.
 The stories in this book came mostly through the Tejas Indians, who
 belonged to certain tribes of east Texas, but the Comanches, Alabamas,
 Wacos, Wichitas, Tonkewas, Attakapas, and Karankawas <span
-id="fr_0"></span>[\*](#fn_0) gave us some of the stories. The peaceful
+id="fr_0"></span>[\*](#fn_0.md) gave us some of the stories. The peaceful
 Tejas Indians made treaties with the warlike tribes west of their
 country, such as the Comanches and Wacos. By doing this the Tejas people
 could go out of their own country to get the hides and meat of
@@ -715,9 +715,9 @@ what the Indians thought about the world in which they lived.
 
 ### Footnotes
 
-<span id="fn_0"></span>[187:\*](wsgr34.htm#fr_0) Wich´itas, Tom´kewas,
+<span id="fn_0"></span>[187:\*](wsgr34.htm#fr_0.md) Wich´itas, Tom´kewas,
 Attak´apas, Karank´awas.
 
 ------------------------------------------------------------------------
 
-[Next: Interesting Things to Do](wsgr35)
+[Next: Interesting Things to Do](wsgr35.md)

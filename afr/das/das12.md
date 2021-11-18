@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](das11)  [Next](das13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](das11)  [Next](das13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Drums and Shadows*, by Georgia Writer's Project, \[1940\], at
 Intangible Textual Heritage
 
@@ -24,26 +24,26 @@ largely by Negroes, some of whom are survivals of ante-bellum days.
 
 It is interesting to note that a number of these old people in speaking
 of their fellow-slaves frequently prefix "Golla" to the given
-name. <span id="fr_73"></span>[1](#fn_73)
+name. <span id="fr_73"></span>[1](#fn_73.md)
 
-H. H. Miller, <span id="fr_74"></span>[2](#fn_74) an educated old man of
+H. H. Miller, <span id="fr_74"></span>[2](#fn_74.md) an educated old man of
 this community, who has acquired considerable wealth, stated, "I knew
 many of the 'Golla' tribesmen who were brought to this country, when I
 was a boy. I think some can be found aroun these pahts now."
 
-A palsied old man, William Newkirk, <span id="fr_75"></span>[3](#fn_75)
+A palsied old man, William Newkirk, <span id="fr_75"></span>[3](#fn_75.md)
 who said he was born on the Newkirk place, obligingly replied to
 questions concerning root doctors and conjure, "Well, duh root doctuh
 wuz all we needed. Dey wuz bettuh dan duh doctuhs now-a-days. Deah wuzn
 all uh dis yuh cuttin an wen yuh sick, duh root doctuh would make some
 tea an gib yuh aw sumpm tuh rub wid an das all. Den fo yuh know it, yuh
-wuz all right. [48a](das26.htm#xref_48a) He would fix tings fuh yuh ef
+wuz all right. [48a](das26.htm#xref_48a.md) He would fix tings fuh yuh ef
 somebody done put sumpm down fuh yuh. Deah wuz many ways tuh wuk it.
 Sometime he would gib yuh sumpm tuh weah wid yuh aw sumpm tuh
-take." [6](das26.htm#xref_6)
+take." [6](das26.htm#xref_6.md)
 
 Spirits are a reality to Esther Jones, <span
-id="fr_76"></span>[4](#fn_76) obviously a woman
+id="fr_76"></span>[4](#fn_76.md) obviously a woman
 
 <span id="page_62">p. 62</span>
 
@@ -52,8 +52,8 @@ Adventist Church, her day of worship coming on Saturday instead of the
 customary Sunday, a day observed and anticipated by the average Negro.
 
 "Silvia Higgins," Esther testified, "wuz a medium. She talked with
-spirits all huh life. [56a](das26.htm#xref_56a),
- [56b](das26.htm#xref_56b) She used the rapping signal. I myself have
+spirits all huh life. [56a](das26.htm#xref_56a.md),
+ [56b](das26.htm#xref_56b.md) She used the rapping signal. I myself have
 seen the work and acts of spirits. I've I seen cheahs and tables move
 about a room. And I've seen a woman and a boy come intuh my yahd and
 then disappeah, and I know that the woman wuz dead. The boy wuz not dead
@@ -61,7 +61,7 @@ but wuz not anywheah in this vicinity. Silvia Higgins wuz my mothuh. She
 has been dead thirty-two yeahs."
 
 One of the most interesting Negroes in this settlement is Tonie
-Houston, <span id="fr_77"></span>[1](#fn_77) an old preacher, extremely
+Houston, <span id="fr_77"></span>[1](#fn_77.md) an old preacher, extremely
 gracious of manner and eager to be of help.
 
 "I bin yuh in dis town fo dey wuz no big buildings an duh streets wuz
@@ -80,28 +80,28 @@ wut come frum Africa aw obuhseas wuz call 'Golla,' and dey talk wuz call
 'Golla' talk." His knowledge of their language, gained by association
 with the Africans, was scant. Among the words he remembered were
 *musungo* tobacco, *mulafo* whiskey, and *sisure* chicken. A cow was
-called *gombay* [25g](das26.htm#xref_25g) and a hog *gulluh*.
+called *gombay* [25g](das26.htm#xref_25g.md) and a hog *gulluh*.
 
 To questions regarding the utensils, such as buckets, tubs, dishes, and
 tools, of these people, he answered, "Dey would make any ting dey
 needed. Dey made spoons, trays, buckets. Dey made piggins an mawtuh an
 pestle from a lawg ub wood. Dey would make wooden cuttuhs fuh meat an
 vegetubble an would dress some uh dem. wid pretty
-figyuhs." [70b](das26.htm#xref_70b)
+figyuhs." [70b](das26.htm#xref_70b.md)
 
 <span id="page_63">p. 63</span>
 
 For their meetings, he said "Golla" Tom or another would beat the drum
 signalling them to gather; then all would sing and dance in a circle to
-the accompaniment of the drum. [23](das26.htm#xref_23) The drums of
+the accompaniment of the drum. [23](das26.htm#xref_23.md) The drums of
 death would also sound, summoning to the "settin-up" or
-wake. [26](das26.htm#xref_26) "Dey would have some hot drinks,"
-recounted Tonie Houston, "sech as coffee an tea. [37](das26.htm#xref_37)
+wake. [26](das26.htm#xref_26.md) "Dey would have some hot drinks,"
+recounted Tonie Houston, "sech as coffee an tea. [37](das26.htm#xref_37.md)
 Den at duh time fuh buryin, duh drum would beat an all would lay flat on
 duh groun on dey faces befo duh body wuz placed in duh grave. Den all
 would rise and dance roun duh grave. Wen duh body wuz buried, duh drum
 would give signal wen all wuz tuh rise aw fall aw tuh dance aw
-sing." [18](das26.htm#xref_18)
+sing." [18](das26.htm#xref_18.md)
 
 As to the magic of conjure, he had been well acquainted with a "cunjuh
 man" who, he said, was a native of Africa and could disappear at will.
@@ -112,11 +112,11 @@ African, who, as affirmed by his relative, Solomon Davis, has not been
 heard of since his departure for his native land, some five or six years
 ago.
 
-Richard Wright, <span id="fr_78"></span>[1](#fn_78) bent with age and
+Richard Wright, <span id="fr_78"></span>[1](#fn_78.md) bent with age and
 rheumatism, talked at length about his childhood on the plantation,
 where he was one of seventy-five children owned by his "Boss." He
 attested to the skill exhibited in that day by the men in wood carving
-and the making of farm implements [70d](das26.htm#xref_70d) and by the
+and the making of farm implements [70d](das26.htm#xref_70d.md) and by the
 women in making cloth.
 
 He was staunch in his belief in signs as he declared, "Deah's many tings
@@ -134,14 +134,14 @@ eeduh sickness aw det tuh some uh yuh fambly aw close friens, wen
 
 <span id="page_64">p. 64</span>
 
-yuh heah duh owl holluh by yuh house. [44](das26.htm#xref_44) Now yuh
+yuh heah duh owl holluh by yuh house. [44](das26.htm#xref_44.md) Now yuh
 kin watch it. I ain see it fail yet.'
 
 The custom of spitting on money is a very old one, it seems. This, he
 explained, will cause it to "stick tuh yuh aw it will draw mo tuh yuh."
 
 Strolling down the sandy road with an ax across his shoulder and a dog
-at his heels, Jack Waldburg <span id="fr_79"></span>[1](#fn_79) hastily
+at his heels, Jack Waldburg <span id="fr_79"></span>[1](#fn_79.md) hastily
 removed his hat at the sight of us. He is of medium height and slightly
 bent; his hair and beard are quite gray but his sprightly appearance
 belies the eighty years he aims.
@@ -154,7 +154,7 @@ Hill in Bryan County. But I bin libin roun yuh bout tutty yeahs. Muh
 gran wuz a African. Das weah he come frum an be name wuz Buck Waldburg.
 He dahk in culluh an medium high wid strong buil. He hab long haiah. But
 granmudduh, she from deah, too, an she feah. She duh one wut lun me tuh
-make medicine frum root. [48b](das26.htm#xref_48b) She a midwife an tell
+make medicine frum root. [48b](das26.htm#xref_48b.md) She a midwife an tell
 me duh kine tuh use. I dohn make it no mo cuz I ain got a license."
 
 We asked if conjure were practiced by root men.
@@ -163,15 +163,15 @@ We asked if conjure were practiced by root men.
 it bad an I dohn fool wid um.
 
 "Now spirits is diffunt. Deah is good un an bad
-un. [56a](das26.htm#xref_56a) I caahn see um but uh feels um. Sometime
+un. [56a](das26.htm#xref_56a.md) I caahn see um but uh feels um. Sometime
 wen folks is comin tuh me I kin tell dey comin fo I see um, an wen yuh
-die yuh head tun backwud. [57](das26.htm#xref_57) Soon's yuh die it tun
+die yuh head tun backwud. [57](das26.htm#xref_57.md) Soon's yuh die it tun
 roun.
 
 "Duh folks frum Africa could see um. Dey natchul bawn in dat way. An
-wite dogs! [4c](das26.htm#xref_4c) Dey alluz kin see spirit. Muh brudduh
+wite dogs! [4c](das26.htm#xref_4c.md) Dey alluz kin see spirit. Muh brudduh
 Simon he bawn wid a caul an he see um an play wid
-um. [4](das26.htm#xref_4) Dey would climb trees an he climb attuh um so
+um. [4](das26.htm#xref_4.md) Dey would climb trees an he climb attuh um so
 muh mudduh give um some tea made frum caul uh women an bline um tuh um."
 
 We endeavored to gain some information as to the ingredients of this tea
@@ -191,7 +191,7 @@ coals on duh top. Wen it done, she take duh bread frum duh ashes an rub
 it wid a rough clawt aw brush an it would be pretty an brown. Dis," he
 concluded smacking his lips, "wuz bery fine wid fat meat aw surup."
 
-Justine Singleton <span id="fr_80"></span>[1](#fn_80) believed firmly in
+Justine Singleton <span id="fr_80"></span>[1](#fn_80.md) believed firmly in
 the existence of spirits as verified by her statement. "Yes, wen I wuz
 sick muh sistuh das dead come tuh me an I knowd dat it wuz huh an she
 done talk tuh me. She tole me tuh git some weepin willuh an bile it an
@@ -208,12 +208,12 @@ tell wut a man want. Soon's uh see im his spirit come tuh me. I lay down
 an sleep an know wen somebody want me. Deah spirit come an wake me. Many
 times uh go an fine em lookin fuh me."
 
-This man, whose name is Allen Parker <span id="fr_81"></span>[2](#fn_81)
+This man, whose name is Allen Parker <span id="fr_81"></span>[2](#fn_81.md)
 is unusually adept with his hands, as shown by his skill in mending
 clocks, watches, and firearms, in making chairs, baskets, piggins, bread
-trays, spoons and forks, [70d](das26.htm#xref_70d) and in carving
+trays, spoons and forks, [70d](das26.htm#xref_70d.md) and in carving
 figures of such animals as snakes, lizards, frogs, dogs, alligators and
-rabbits. [50b](das26.htm#xref_50b)
+rabbits. [50b](das26.htm#xref_50b.md)
 
 In reference to native Africans, he declared that he had known many of
 them but that few were left in this vicinity although he thought some
@@ -222,7 +222,7 @@ might be found around Darien.
 <span id="page_66">p. 66</span>
 
 It was with difficulty that Rosanna Williams <span
-id="fr_82"></span>[1](#fn_82) was persuaded to talk. She was suspicious
+id="fr_82"></span>[1](#fn_82.md) was persuaded to talk. She was suspicious
 and reticent and lived behind tightly locked doors in a house that to
 all appearance was deserted. After much coaxing she cast aside some of
 her mistrust and grudgingly responded to our friendly gestures.
@@ -232,7 +232,7 @@ ole country. Muh granpa wuz 'Golla' Dennerson, King uh his tribe. Wen
 muh pa wuz a lill boy, him an muh granpa wuz fool away wid a red
 hankuhchuh. Dey wuz sole tuh Chahls Grant on one uh duh iluns roun
 Brunswick. Muh pa wuz six foot tall an on is furud wuz a scah bout dis
-big." [14](das26.htm#xref_14) She indicated the end of her forefinger.
+big." [14](das26.htm#xref_14.md) She indicated the end of her forefinger.
 
 We questioned her more closely regarding this mark which from her
 description seemed to have been a small scar, oval in shape and slightly
@@ -264,7 +264,7 @@ various roots and weeds, which he used in the
 <span id="page_67">p. 67</span>
 
 preparation of medicines administered to the sick on the
-plantation. [48b](das26.htm#xref_48b)
+plantation. [48b](das26.htm#xref_48b.md)
 
 We returned to the subject of the mark, at the mention of which her eyes
 suddenly narrowed.
@@ -294,46 +294,46 @@ She hesitated, then cautiously raised her hand to the fastening at the
 neck of her dress and, baring her chest, allowed us a glimpse of the
 scar. It appeared to be an irregular circle the size of a fifty-cent
 piece with faint lines which seemed to run toward the
-center. [14](das26.htm#xref_14) Time, however, had obliterated any
+center. [14](das26.htm#xref_14.md) Time, however, had obliterated any
 design or pattern which it might once have had.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_73"></span>[61:1](das12.htm#fr_73) See Introduction.
+<span id="fn_73"></span>[61:1](das12.htm#fr_73.md) See Introduction.
 
-<span id="fn_74"></span>[61:2](das12.htm#fr_74) H. H. Miller, 461h and
+<span id="fn_74"></span>[61:2](das12.htm#fr_74.md) H. H. Miller, 461h and
 Pearl Streets.
 
-<span id="fn_75"></span>[61:3](das12.htm#fr_75) William Newkirk
+<span id="fn_75"></span>[61:3](das12.htm#fr_75.md) William Newkirk
 Tatemville.
 
-<span id="fn_76"></span>[61:4](das12.htm#fr_76) Esther Jones, 308 West
+<span id="fn_76"></span>[61:4](das12.htm#fr_76.md) Esther Jones, 308 West
 46th Street.
 
-<span id="fn_77"></span>[62:1](das12.htm#fr_77) Tonie Houston,
+<span id="fn_77"></span>[62:1](das12.htm#fr_77.md) Tonie Houston,
 Tatemville.
 
-<span id="fn_78"></span>[63:1](das12.htm#fr_78) Richard Wright,
+<span id="fn_78"></span>[63:1](das12.htm#fr_78.md) Richard Wright,
 Tatemville.
 
-<span id="fn_79"></span>[64:1](das12.htm#fr_79) Jack Waldburg,
+<span id="fn_79"></span>[64:1](das12.htm#fr_79.md) Jack Waldburg,
 Tatemville.
 
-<span id="fn_80"></span>[65:1](das12.htm#fr_80) Justine Singleton,
+<span id="fn_80"></span>[65:1](das12.htm#fr_80.md) Justine Singleton,
 Tatemville.
 
-<span id="fn_81"></span>[65:2](das12.htm#fr_81) Allen Parker,
+<span id="fn_81"></span>[65:2](das12.htm#fr_81.md) Allen Parker,
 Tatemville.
 
-<span id="fn_82"></span>[66:1](das12.htm#fr_82) Rosanna Williams,
+<span id="fn_82"></span>[66:1](das12.htm#fr_82.md) Rosanna Williams,
 Tatemville.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: White Bluff](das13)
+[Next: White Bluff](das13.md)
 
 </div>

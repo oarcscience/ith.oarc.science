@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu06)  [Next](tmu08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu06)  [Next](tmu08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,14 +21,14 @@ Intangible Textual Heritage
 
 <span id="page_31">p. 31</span>
 
-### KAIVALYA <span id="fr_7"></span>[1](#fn_7)-UPANISHAḌ
+### KAIVALYA <span id="fr_7"></span>[1](#fn_7.md)-UPANISHAḌ
 
 ### OF
 
 ### KṚSHṆA-YAJURVEḌA
 
 <span class="smallcaps">Harih-Om</span>. Then <span
-id="fr_8"></span>[2](#fn_8) Āśwalāyana went to Lord Parameshtī (Brahmā)
+id="fr_8"></span>[2](#fn_8) Āśwalāyana went to Lord Parameshtī (Brahmā.md)
 and addressed Him thus: "Please initiate me into Brahmaviḍyā (Divine
 Wisdom), which is the most excellent, which is ever enjoyed by the wise,
 which is mystic, and by which the learned, after having soon freed
@@ -41,7 +41,7 @@ Sannyāsa (renunciation) alone. Ascetics of pure mind through (the
 realisation of) the meaning well-ascertained by Veḍānṭa-Vijñāna and
 through Śannyāsa-Yoga enter into That which is above Swarga (heaven) and
 is in the cave (of the heart). They all attain Paramāṭmā <span
-id="fr_9"></span>[3](#fn_9) in the Brahma-world and are (finally)
+id="fr_9"></span>[3](#fn_9) in the Brahma-world and are (finally.md)
 emancipated.
 
 "Being seated in a pleasant posture in an unfrequented place with a pure
@@ -130,19 +130,19 @@ emancipation)—yea, he attains the Kaivalya State."
 
 ### Footnotes
 
-<span id="fn_7"></span>[31:1](tmu07.htm#fr_7) Lit., isolation- or
+<span id="fn_7"></span>[31:1](tmu07.htm#fr_7.md) Lit., isolation- or
 emancipation-Upanishaḍ.
 
-<span id="fn_8"></span>[31:2](tmu07.htm#fr_8) After attaining
+<span id="fn_8"></span>[31:2](tmu07.htm#fr_8.md) After attaining
 Sāḍhana-Chaṭushtaya or the four means of salvation.
 
-<span id="fn_9"></span>[31:3](tmu07.htm#fr_9) Hiraṇyagarbha or the
+<span id="fn_9"></span>[31:3](tmu07.htm#fr_9.md) Hiraṇyagarbha or the
 higher Self.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 6. Amṛṭabinḍu-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu08)
+[Next: 6. Amṛṭabinḍu-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu08.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos13)  [Next](pos15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos13)  [Next](pos15.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ S<span class="small">HE</span>, too, having made her resolve under
 former Buddhas, and heaping up good of age-enduring efficacy in this and
 that rebirth, till the preparation for achieving emancipation was
 gradually become perfect, was, in this Buddha-era, reborn at the town of
-Bhārukaccha, [<sup>304</sup>](pos14.htm#103-1) in a clansman's family.
+Bhārukaccha, [<sup>304</sup>](pos14.htm#103-1.md) in a clansman's family.
 When married, she bore one son, and he was given the name Vaḍḍha. From
 that time she was known as Vaḍḍha's mother. Hearing a Bhikkhu preach,
 she became a believer, and, handing her child over to her kin, she went
@@ -135,4 +135,4 @@ And I could touch Nibbana's utter peace. (212)</span></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto X. Psalms of Eleven Verses](pos15)
+[Next: Canto X. Psalms of Eleven Verses](pos15.md)

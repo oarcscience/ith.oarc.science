@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim22)  [Next](sim24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim22)  [Next](sim24.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 |                       |              |
 |-----------------------|--------------|
-| [O’ÓWA](errata.htm#1) | Owl (horned) |
+| [O’ÓWA](errata.htm#1) | Owl (horned.md) |
 | NOSGWAIS              | Toad         |
 | DZÓEGA                | Raccoon      |
 
@@ -248,4 +248,4 @@ crying dove (mourning dove), and that dove cries yet.
 
 ------------------------------------------------------------------------
 
-[Next: Okteondon And His Uncle](sim24)
+[Next: Okteondon And His Uncle](sim24.md)

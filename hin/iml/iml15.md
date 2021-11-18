@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml14)  [Next](iml16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml14)  [Next](iml16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
 
 ### CHAPTER X
 
-### Royal Rivals: the Pandavas and Kauravas <span id="fr_214"></span>[1](#fn_213)
+### Royal Rivals: the Pandavas and Kauravas <span id="fr_214"></span>[1](#fn_213.md)
 
 King Pandu's Two Wives--Pritha and the Sun God--Birth of Karna--The
 Indian Moses--Babe rescued from Floating Cradle--Pandu slays Brahman in
@@ -25,12 +25,12 @@ Faithful Bhil Prince--His Sacrifice.
 
 King Pandu became a mighty monarch, and was renowned as a warrior and a
 just ruler of his kingdom. He married two wives: Pritha, who was chief
-rani, and Madri <span id="fr_215"></span>[2](#fn_214), whom he loved
+rani, and Madri <span id="fr_215"></span>[2](#fn_214.md), whom he loved
 best.
 
 Now Pritha was of celestial origin, for her mother was a nymph; her
 father was a holy Brahman, and her brother, Vasudeva, was the father of
-Krishna. <span id="fr_216"></span>[3](#fn_215) When but a babe she had
+Krishna. <span id="fr_216"></span>[3](#fn_215.md) When but a babe she had
 been adopted by the Rajah of Shurasena, whose kingdom was among the
 Vindhya mountains. She was of pious heart, and ever showed reverence
 towards holy men. Once there came to the palace the great Rishi
@@ -38,7 +38,7 @@ Durvasas, and she ministered unto him faithfully by serving food at any
 hour he desired, and by kindling the sacred fire in the sacrificial
 chamber. After his stay, which was in length a full year, Durvasas, in
 reward for her services, imparted to Pritha a powerful charm <span
-id="fr_217"></span>[4](#fn_216), by
+id="fr_217"></span>[4](#fn_216.md), by
 
 <span id="page_174">p. 174</span>
 
@@ -91,7 +91,7 @@ Pritha, who was comely to behold, chose King Pandu at her swayamvara.
 Trembling with love, she placed the flower garland upon his shoulders.
 
 Madri came from the country of Madra <span
-id="fr_218"></span>[1](#fn_217), and was black-eyed and
+id="fr_218"></span>[1](#fn_217.md), and was black-eyed and
 dusky-complexioned. She had been purchased by Bhishma for the king with
 much gold, many jewels and elephants and horses, as was the marriage
 custom among her people.
@@ -115,9 +115,9 @@ away to live in a solitary place with his two wives.
 
 Some have told that Pandu never had children of his own, and that the
 gods were the fathers of his wives' great sons. Pritha was mother of
-Yudhishthira <span id="fr_219"></span>[1](#fn_218), son of Dharma, god
+Yudhishthira <span id="fr_219"></span>[1](#fn_218.md), son of Dharma, god
 of justice, and of Bhima, son of Vayu, the wind god, and also of
-Arjuna <span id="fr_220"></span>[2](#fn_219), son of mighty Indra,
+Arjuna <span id="fr_220"></span>[2](#fn_219.md), son of mighty Indra,
 monarch of heaven. Madri received from Pritha the charm which Durvasas
 had given her, and she became the mother of Nakula and Sahadeva, whose
 sires were the twin Aswins, sons of Surya, the sun god. These five
@@ -160,7 +160,7 @@ Gándhârá. When she was betrothed she went unto the king with eyes
 blindfolded, and ever after-wards she so appeared in his presence. She
 became the mother of a hundred sons, the eldest of whom was Duryodhana.
 These were the princes who were named the Kauravas, after the country of
-Kuru-jangala. <span id="fr_221"></span>[1](#fn_220)
+Kuru-jangala. <span id="fr_221"></span>[1](#fn_220.md)
 
 The widowed Pritha returned to Hastinapur with her three sons and the
 two sons of Madri also. When she told unto Dhritarashtra that Pandu his
@@ -179,9 +179,9 @@ boxing. As they grew up they shared work with the king's men; they
 marked the young calves, and every three years they counted and branded
 the cattle. Yet, despite all that could be done, the two families lived
 at enmity. Of all the young men Bhima <span
-id="fr_222"></span>[1](#fn_221), of the Pandavas <span
-id="fr_223"></span>[2](#fn_222), was the most powerful, and
-Duryodhana <span id="fr_224"></span>[3](#fn_223), the leader of the
+id="fr_222"></span>[1](#fn_221.md), of the Pandavas <span
+id="fr_223"></span>[2](#fn_222.md), was the most powerful, and
+Duryodhana <span id="fr_224"></span>[3](#fn_223.md), the leader of the
 Kauravas, was jealous of him. Bhima was ever the victor in sports and
 contests. The Kauravas could ill endure his triumphs, and at length they
 plotted among themselves to accomplish his death.
@@ -230,8 +230,8 @@ them instruction worthy of their rank and martial origin.
 
 Drona had no mother: his miraculous birth was accomplished by a
 beautiful nymph, and his sire was Bharadwaja, a most pious Brahman. Of
-similar origin was Drupada <span id="fr_225"></span>[1](#fn_224), son of
-a rajah named Prishata <span id="fr_226"></span>[2](#fn_225). Drona and
+similar origin was Drupada <span id="fr_225"></span>[1](#fn_224.md), son of
+a rajah named Prishata <span id="fr_226"></span>[2](#fn_225.md). Drona and
 Drupada were reared together like brothers by the wise Bharadwaja, and
 it was the hope of both sires that their sons would repeat their own
 lifelong friendship. But when, after happy youth, they grew into
@@ -240,9 +240,9 @@ manhood, fate parted them. The rajah retired from the throne, and
 <span id="page_180">p. 180</span>
 
 <span class="contnote">\[paragraph continues\]</span> Drupada ruled the
-kingdom of Panchala <span id="fr_227"></span>[1](#fn_226). Bharadwaja
+kingdom of Panchala <span id="fr_227"></span>[1](#fn_226.md). Bharadwaja
 died soon afterwards, and Drona married a wife named Kripa, who became
-the mother of his son Ashwatthama <span id="fr_228"></span>[2](#fn_227).
+the mother of his son Ashwatthama <span id="fr_228"></span>[2](#fn_227.md).
 The child was so named because at birth he uttered a cry like to the
 neighing of a horse. Drona devoted himself to rearing his son, while he
 accumulated the wisdom of the sages and performed sacred rites with
@@ -252,7 +252,7 @@ When the sage Jamadagni, son of Bhrigu, closed his career, he bestowed
 his great wealth on the sons of Brahmans. Drona received heavenly
 weapons and power to wield them. Then he bethought him to visit Drupada,
 the friend of his youth, and share his inheritance with him. <span
-id="fr_229"></span>[3](#fn_228)
+id="fr_229"></span>[3](#fn_228.md)
 
 Drona stood before the rajah and exclaimed: "Behold thy friend."
 
@@ -389,27 +389,27 @@ coming of illustrious Karna.
 
 ### Footnotes
 
-<span id="fn_213"></span>[173:1](iml15.htm#fr_214) *Pron*. pan´davas
+<span id="fn_213"></span>[173:1](iml15.htm#fr_214.md) *Pron*. pan´davas
 *and* kow´ravas.
 
-<span id="fn_214"></span>[173:2](iml15.htm#fr_215) *Pron*. pree´tha
+<span id="fn_214"></span>[173:2](iml15.htm#fr_215.md) *Pron*. pree´tha
 *and* ma-dree´.
 
-<span id="fn_215"></span>[173:3](iml15.htm#fr_216) Krishna of the
+<span id="fn_215"></span>[173:3](iml15.htm#fr_216.md) Krishna of the
 Yadavas was descended from the moon through Yadu: Bharata was descended
 through Puru, Yadu's brother.
 
-<span id="fn_216"></span>[173:4](iml15.htm#fr_217) A *mantra*.
+<span id="fn_216"></span>[173:4](iml15.htm#fr_217.md) A *mantra*.
 
-<span id="fn_217"></span>[175:1](iml15.htm#fr_218) Identified with
+<span id="fn_217"></span>[175:1](iml15.htm#fr_218.md) Identified with
 Cashmere by some of the authorities.
 
-<span id="fn_218"></span>[176:1](iml15.htm#fr_219) *Pron*.
+<span id="fn_218"></span>[176:1](iml15.htm#fr_219.md) *Pron*.
 yoo-dish´thi-ra (*h* sounded after *t*).
 
-<span id="fn_219"></span>[176:2](iml15.htm#fr_220) *Pron*. arjoo´na″.
+<span id="fn_219"></span>[176:2](iml15.htm#fr_220.md) *Pron*. arjoo´na″.
 
-<span id="fn_220"></span>[177:1](iml15.htm#fr_221) The upper part of the
+<span id="fn_220"></span>[177:1](iml15.htm#fr_221.md) The upper part of the
 Punjab, which was ruled over ultimately by the sons of Duryodhana.
 Another explanation is that the Kauravas, or Kuru brothers, were called
 after their eponymous ancestor, King Kuru. The Kuru people are believed
@@ -417,26 +417,26 @@ to be a group of the tribes mentioned in the *Rigveda*. The Kurus may
 have been late-comers who formed a military aristocracy, and displaced
 earlier settlers who opposed their rule.
 
-<span id="fn_221"></span>[178:1](iml15.htm#fr_222) *Pron*. bhee´ma.
+<span id="fn_221"></span>[178:1](iml15.htm#fr_222.md) *Pron*. bhee´ma.
 
-<span id="fn_222"></span>[178:2](iml15.htm#fr_223) The *Mahá-bhárata*
+<span id="fn_222"></span>[178:2](iml15.htm#fr_223.md) The *Mahá-bhárata*
 favours the Pandavas from the outset.
 
-<span id="fn_223"></span>[178:3](iml15.htm#fr_224) *Pron*.
+<span id="fn_223"></span>[178:3](iml15.htm#fr_224.md) *Pron*.
 door-yo´dhan-a.
 
-<span id="fn_224"></span>[179:1](iml15.htm#fr_225) *Pron*. droo´pa-da.
+<span id="fn_224"></span>[179:1](iml15.htm#fr_225.md) *Pron*. droo´pa-da.
 
-<span id="fn_225"></span>[179:2](iml15.htm#fr_226) *Pron*. prish´ata.
+<span id="fn_225"></span>[179:2](iml15.htm#fr_226.md) *Pron*. prish´ata.
 
-<span id="fn_226"></span>[180:1](iml15.htm#fr_227) *Pron*. pan-chal´a.
+<span id="fn_226"></span>[180:1](iml15.htm#fr_227.md) *Pron*. pan-chal´a.
 
-<span id="fn_227"></span>[180:2](iml15.htm#fr_228) *Pron*.
+<span id="fn_227"></span>[180:2](iml15.htm#fr_228.md) *Pron*.
 ash-wat-tha´ma. *Aswa*, a horse; *sthama*, sound or strength.
 
-<span id="fn_228"></span>[180:3](iml15.htm#fr_229) Apparently Drona had
+<span id="fn_228"></span>[180:3](iml15.htm#fr_229.md) Apparently Drona had
 a claim to part of the kingdom ruled over by Drupada.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Tournament](iml16)
+[Next: Chapter XI. The Tournament](iml16.md)

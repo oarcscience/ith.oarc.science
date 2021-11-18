@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba00)  [Next](mba02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba00)  [Next](mba02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ possible, and is certainly worthy of consideration when so high an
 authority as Professor Frazer, author of *The Golden Bough*, is found
 prepared to admit that the widespread "homogeneity of beliefs" may have
 been due to "homogeneity of race". It is shown ([Chapter
-1](mba07.htm#an_ch-01)) that certain ethnologists have accumulated data
+1](mba07.htm#an_ch-01).md) that certain ethnologists have accumulated data
 which establish a racial kinship between the Neolithic Europeans, the
 proto-Egyptians, the Sumerians, the southern Persians, and the
 Aryo-Indians.
@@ -154,7 +154,7 @@ were derived from the fierce and powerful Great Mother, Tiamat.
 
 In other dragon stories the heroes devise their plans after eating the
 dragon's heart. According to Philostratus, <span
-id="fr_0"></span>[1](#fn_0) Apollonius of Tyana was worthy of being
+id="fr_0"></span>[1](#fn_0.md) Apollonius of Tyana was worthy of being
 remembered for two things--his bravery in travelling among fierce robber
 tribes, not then subject to Rome, and his
 
@@ -179,7 +179,7 @@ it is the guardian, the book of spells; when he reads a page of the
 spells he knows what the birds of the sky, the fish of the deep, and the
 beasts of the hill say; the book gives him power to enchant "the heaven
 and the earth, the abyss, the mountains and the sea". <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 Magic and religion were never separated in Babylonia; not only the
 priests but also the gods performed magical ceremonies. Ea, Merodach's
@@ -253,12 +253,12 @@ the valley of the Tigris and Euphrates.
 
 ### Footnotes
 
-<span id="fn_0"></span>[viii:1](mba01.htm#fr_0) *Life of Apollonius of
+<span id="fn_0"></span>[viii:1](mba01.htm#fr_0.md) *Life of Apollonius of
 Tyana*, i, 20.
 
-<span id="fn_1"></span>[ix:1](mba01.htm#fr_1) *Egyptian Tales* (Second
+<span id="fn_1"></span>[ix:1](mba01.htm#fr_1.md) *Egyptian Tales* (Second
 Series), W. M. Flinders Petrie, pp. 98 *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mba02)
+[Next: Contents](mba02.md)

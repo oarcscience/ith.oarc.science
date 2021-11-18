@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck31)  [Next](peck33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck31)  [Next](peck33.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ by her black snake.
 
 ------------------------------------------------------------------------
 
-[Next: Another Legend](peck33)
+[Next: Another Legend](peck33.md)

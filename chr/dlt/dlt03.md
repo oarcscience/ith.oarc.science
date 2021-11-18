@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt02)  [Next](dlt04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt02)  [Next](dlt04.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ THE Christian Religion has its roots in, and has grown out of, the
 Jewish Religion. This is a statement of fact which nobody would be
 prepared to deny. The Old Testament was written by Jews, mainly about
 Jews, for Jews; the New Testament was written by Jews, <span
-id="fr_0"></span>[1](#fn_0) to whom the Old Testament was the "Word of
+id="fr_0"></span>[1](#fn_0.md) to whom the Old Testament was the "Word of
 God"; what the "Scriptures," *i.e.*, the Old Testament, said was to them
 authoritative as nothing else was; and therefore the New Testament, and
 especially the Gospels, is permeated with Jewish belief and thought.
@@ -31,10 +31,10 @@ teaching of the prophets. *Think not that I came to destroy the Law, or
 the Prophets: I came not to destroy, but to fulfil. For verily I say
 unto you, Till heaven and earth pass away, one jot or one tittle shall
 in no wise pass away from the law, till all things be
-accomplished*. <span id="fr_1"></span>[1](#fn_1) This principle is
+accomplished*. <span id="fr_1"></span>[1](#fn_1.md) This principle is
 further insisted upon in the words: *The scribes and the Pharisees sit
 in Moses' seat; all things therefore whatsoever they bid you, these do
-and observe*. <span id="fr_2"></span>[2](#fn_2) This second passage is
+and observe*. <span id="fr_2"></span>[2](#fn_2.md) This second passage is
 very pointed, for our Lord testifies to the correctness of Pharisaic
 teaching, though He goes on to denounce the failure of the Pharisees to
 carry out their teaching in practice. And it is upon this Pharisaic
@@ -85,7 +85,7 @@ among Christians generally that our religion must be studied and taught
 and understood from the point of view of its Founder. And since Christ
 was, according to the flesh, a Jew, brought up according to Jewish ideas
 (*cf.* Luke ii. 51), and deeply versed in the Jewish Scriptures,
-uncanonical <span id="fr_3"></span>[1](#fn_3) as well as canonical, we
+uncanonical <span id="fr_3"></span>[1](#fn_3.md) as well as canonical, we
 must look to Judaism--pre-Christian
 
 <span id="page_5">p. 5</span>
@@ -103,7 +103,7 @@ everything else, would give the lie; and clearly the men of our Lord's
 own day perceived that in His teaching there was something unique and
 different from that with which they were familiar--*And they were
 astonished at his teaching: for he taught them as having authority, and
-not as the scribes* <span id="fr_4"></span>[1](#fn_4)--but while, on the
+not as the scribes* <span id="fr_4"></span>[1](#fn_4.md)--but while, on the
 one hand, we see that the teaching of Christ was *sui generis*, that
 teaching itself tells us, on the other hand, that a very great deal of
 the content of Christianity constituted the natural development of
@@ -148,7 +148,7 @@ saying, Let us go and make a covenant with the Gentiles that are round
 about us; for since we were parted from them many evils have befallen
 us. And the saying was good in their eyes. And certain of the people
 were forward herein, and went to the king, <span
-id="fr_5"></span>[1](#fn_5) and he gave them licence to do after the
+id="fr_5"></span>[1](#fn_5.md) and he gave them licence to do after the
 ordinances of the Gentiles. And they built a place of exercise in
 Jerusalem according to the laws of the Gentiles; and they made
 themselves uncircumcised, and forsook the holy covenant, and joined
@@ -248,21 +248,21 @@ Apocalyptists.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](dlt03.htm#fr_0) The third Gospel and the
+<span id="fn_0"></span>[1:1](dlt03.htm#fr_0.md) The third Gospel and the
 Acts forming the only exceptions.
 
-<span id="fn_1"></span>[2:1](dlt03.htm#fr_1) Matt. v. 17, 18.
+<span id="fn_1"></span>[2:1](dlt03.htm#fr_1.md) Matt. v. 17, 18.
 
-<span id="fn_2"></span>[2:2](dlt03.htm#fr_2) Matt. xxiii. 2, 3.
+<span id="fn_2"></span>[2:2](dlt03.htm#fr_2.md) Matt. xxiii. 2, 3.
 
-<span id="fn_3"></span>[4:1](dlt03.htm#fr_3) For the justification of
+<span id="fn_3"></span>[4:1](dlt03.htm#fr_3.md) For the justification of
 this statement see below.
 
-<span id="fn_4"></span>[5:1](dlt03.htm#fr_4) Mark i. 22.
+<span id="fn_4"></span>[5:1](dlt03.htm#fr_4.md) Mark i. 22.
 
-<span id="fn_5"></span>[7:1](dlt03.htm#fr_5) Antiochus Epiphanes.
+<span id="fn_5"></span>[7:1](dlt03.htm#fr_5.md) Antiochus Epiphanes.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The Antecedents of the Gospel Teaching: The Old
-Testament](dlt04)
+Testament](dlt04.md)

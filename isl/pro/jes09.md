@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes08)  [Next](jes10) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes08)  [Next](jes10.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ additions compared to Mark are counted as so much.
 
 ------------------------------------------------------------------------
 
-[Next: Gospel of John](jes10)
+[Next: Gospel of John](jes10.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob04)  [Next](cob06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob04)  [Next](cob06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -316,7 +316,7 @@ no life to be recklessly destroyed; and that, speaking generally, each
 man in turn was to make his pilgrimage on earth as free as might be
 possible from harm and offence to others. Under the influence of this
 teaching, gentleness, kindness, and tolerance would gradually impregnate
-the [atmosphere](errata.htm#0) of man's daily life; and in that
+the [atmosphere](errata.htm#0.md) of man's daily life; and in that
 atmosphere the germ of sympathy would make strong and steady growth.
 
 To trace the stages in the growth of that soul-expanding germ would be
@@ -513,4 +513,4 @@ problems, and giving expression to it in the daily round of his life.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Teaching of Buddha](cob06)
+[Next: Chapter IV. The Teaching of Buddha](cob06.md)

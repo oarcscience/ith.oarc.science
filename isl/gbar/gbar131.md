@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar130) [Next](gbar132)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar130) [Next](gbar132.md)
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ truth free from all pride.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar132)
+[Next](gbar132.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob25)  [Next](lbob27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob25)  [Next](lbob27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -76,10 +76,10 @@ sins.
 5 And as I was praying, the heaven was opened, and I saw the woman which
 I had coveted, saluting me from heaven, and saying, Hermas, hail! and I
 looking upon her, answered, Lady, what dost thou do here? She
-[answered](errata.htm#11) me,  <span id="fr_1179"></span>[1](#fn_1179) I
+[answered](errata.htm#11) me,  <span id="fr_1179"></span>[1](#fn_1179.md) I
 am taken up hither to accuse thee of sin before the Lord.
 
-6 Lady, said I, wilt thou  <span id="fr_1180"></span>[2](#fn_1180)
+6 Lady, said I, wilt thou  <span id="fr_1180"></span>[2](#fn_1180.md)
 convince me? No, said she: but hear the words which I am about to speak
 unto thee. God who dwelleth in heaven, and hath made all things out of
 nothing, and hath multiplied them for his holy church's sake, is angry
@@ -131,7 +131,7 @@ bright as snow.
 
 17 And there came an old woman in a bright garment, having a book in her
 hand, and sat alone, and saluted me, saying,  <span
-id="fr_1181"></span>[1](#fn_1181) Hermas, hail! and I being full of
+id="fr_1181"></span>[1](#fn_1181.md) Hermas, hail! and I being full of
 sorrow, and weeping, answered, Hail, Lady!
 
 18 And she said unto me, Why art thou sad, Hermas, who wert wont to be
@@ -163,7 +163,7 @@ through their sins and iniquities, thou art wholly consumed in secular
 affairs.
 
 23 But now the mercy of God hath taken compassion upon thee, and upon
-thine house, and hath  <span id="fr_1182"></span>[1](#fn_1182) greatly
+thine house, and hath  <span id="fr_1182"></span>[1](#fn_1182.md) greatly
 comforted thee. Only as for thee, do not wander, but be of an even mind,
 and comfort thy house.
 
@@ -171,7 +171,7 @@ and comfort thy house.
 pleaseth; so shalt thou by teaching every day what is just cut off a
 great sin. Wherefore cease not to admonish thy sons, for the Lord knows
 that they will repent with all their heart,  <span
-id="fr_1183"></span>[2](#fn_1183) and they shall be written in the book
+id="fr_1183"></span>[2](#fn_1183.md) and they shall be written in the book
 of life.
 
 25 And when she had said this, she added unto me; Wilt thou hear me
@@ -204,7 +204,7 @@ Did my reading please thee? I answered, Lady, these last things please
 me; but what went before was severe and hard.
 
 32 She said unto me, these last things are for  <span
-id="fr_1184"></span>[3](#fn_1184) the righteous, but the foregoing for
+id="fr_1184"></span>[3](#fn_1184.md) the righteous, but the foregoing for
 the revolters and heathen.
 
 33 And as she was talking with me, two men appeared, and took her upon
@@ -217,7 +217,7 @@ Hermas, be of good cheer.
 
 <span class="small">*Again, of his neglect in correcting his talkative
 wife; and of his lewd sons*.</span> <span
-id="fr_1185"></span>[4](#fn_1185)
+id="fr_1185"></span>[4](#fn_1185.md)
 
 AS I was on the way to Cuma, about the same time that I went the year
 before, I began to call to mind the vision I formerly had. And again the
@@ -233,7 +233,7 @@ had esteemed me worthy, and had manifested unto me my former sins.
 
 3 And when I arose from prayer, behold I saw over against me the old
 woman whom I had seen the last year, walking and reading in a certain
-book. <span id="fr_1186"></span>[1](#fn_1186)
+book. <span id="fr_1186"></span>[1](#fn_1186.md)
 
 4 And she said unto me, Canst thou tell these things to the elect of
 God? I answered and said unto her, Lady, I cannot retain so many things
@@ -257,7 +257,7 @@ the betrayers of their parents, and have gone on in their treachery.
 
 10 And now have they added lewdness to their other sins, and the
 pollutions of their naughtiness: thus have they filled up the measure of
-their iniquities. But do thou  <span id="fr_1187"></span>[2](#fn_1187)
+their iniquities. But do thou  <span id="fr_1187"></span>[2](#fn_1187.md)
 upbraid thy sons with all these words; and thy wife, which shall be thy
 sister; and let her learn to refrain her tongue, with which she
 calumniates.
@@ -265,7 +265,7 @@ calumniates.
 11 And when she shall hear these things, she will refrain herself, and
 shall obtain mercy.
 
-12 And  <span id="fr_1188"></span>[3](#fn_1188) they also shall be
+12 And  <span id="fr_1188"></span>[3](#fn_1188.md) they also shall be
 instructed, when thou shalt have reproached them with these words, which
 the Lord has commanded to be revealed unto thee.
 
@@ -275,8 +275,8 @@ day; if they shall repent with all their hearts, and remove all doubts
 out of their hearts.
 
 14 For the Lord hath sworn by his glory concerning his  <span
-id="fr_1189"></span>[4](#fn_1189) elect, having determined this very
-time, that if any one shall  <span id="fr_1190"></span>[5](#fn_1190)
+id="fr_1189"></span>[4](#fn_1189.md) elect, having determined this very
+time, that if any one shall  <span id="fr_1190"></span>[5](#fn_1190.md)
 even now sin, he shall not be saved.
 
 15 For the repentance of the righteous has its end; the days of
@@ -295,7 +295,7 @@ hand, and whosoever shall not deny his life.
 
 19 For the Lord hath sworn by his Son, that whoso denieth his Son and
 him, being afraid of his life, he will also deny him in the  <span
-id="fr_1191"></span>[6](#fn_1191) world that is to come.
+id="fr_1191"></span>[6](#fn_1191.md) world that is to come.
 
 <span id="page_201">p. 201</span>
 
@@ -303,7 +303,7 @@ id="fr_1191"></span>[6](#fn_1191) world that is to come.
 mercy be favourable unto them.
 
 21 ¶ But thou, O Hermas! remember not the  <span
-id="fr_1192"></span>[1](#fn_1192) evils which thy sons have done,
+id="fr_1192"></span>[1](#fn_1192.md) evils which thy sons have done,
 neither neglect thy sister, but take care that they amend of their
 former sins.
 
@@ -335,7 +335,7 @@ for ever.
 good to thee, deny him again.
 
 30 The Lord is nigh to them that turn to him, as it is written in the
-book of Heldam and Modal, <span id="fr_1193"></span>[2](#fn_1193) who
+book of Heldam and Modal, <span id="fr_1193"></span>[2](#fn_1193.md) who
 prophesied to the people of Israel in the wilderness.
 
 31 ¶ Moreover, brethren, it was revealed to me, as I was I sleeping, by
@@ -348,19 +348,19 @@ sir? He answered me, It is the church of God.
 
 33 And I said unto him, Why then does she appear old? She is therefore,
 said he, an old woman, because she was  <span
-id="fr_1194"></span>[3](#fn_1194) the first of all the creation, and the
+id="fr_1194"></span>[3](#fn_1194.md) the first of all the creation, and the
 world was made for her.
 
 34 After this I saw a vision at home in my own house, and the old woman
 whom I had seen before, came to me and asked me, whether I had yet
-delivered  <span id="fr_1195"></span>[4](#fn_1195) her book to the
+delivered  <span id="fr_1195"></span>[4](#fn_1195.md) her book to the
 elders of the church? And I answered, that I had not yet.
 
 35 She replied, Thou hast well done, for I have certain words more to
 tell thee But when I shall have finished all the words, they shall be
 clearly understood by the elect.
 
-36  <span id="fr_1196"></span>[5](#fn_1196) And thou shalt write two
+36  <span id="fr_1196"></span>[5](#fn_1196.md) And thou shalt write two
 books, and send one to Clement and one to Grapte. For Clement shall send
 it to the foreign cities, because it is permitted to him so to do: but
 Grapte shall admonish the widows and orphans.
@@ -449,7 +449,7 @@ hand they have some glory above the others.
 
 <span id="page_203">p. 203</span>
 
-and yet thy  <span id="fr_1197"></span>[1](#fn_1197) defects are many.
+and yet thy  <span id="fr_1197"></span>[1](#fn_1197.md) defects are many.
 But thou shalt be purged from thy defects, as also all who doubt not
 shall be cleansed from all the sins which they have committed unto this
 day.
@@ -505,7 +505,7 @@ not underw stand what they mean?
 
 34 She answered and said unto me: You are very cunning, in that you are
 desirous to know those things which  <span
-id="fr_1198"></span>[2](#fn_1198) relate to the tower. Yea, said I,
+id="fr_1198"></span>[2](#fn_1198.md) relate to the tower. Yea, said I,
 Lady, that I may declare them unto the brethren, and they may rejoice,
 and hearing these things may glorify God with great glory.
 
@@ -520,7 +520,7 @@ and after this be no longer importunate with me about the revelation.
 
 37 For these revelations have an end, seeing they are fulfilled. But
 thou dost not leave off to desire revelations, for thou art very  <span
-id="fr_1199"></span>[1](#fn_1199) urgent.
+id="fr_1199"></span>[1](#fn_1199.md) urgent.
 
 38 As for the tower which thou seest built, it is myself, namely the
 church, which have appeared to thee both now and heretofore. Wherefore
@@ -532,17 +532,17 @@ receive from thee the revelation of all these things, declare them unto
 me.
 
 40 She answered me, Whatsoever is fit to be revealed unto thee shall be
-revealed:  <span id="fr_1200"></span>[2](#fn_1200) only let thy heart be
+revealed:  <span id="fr_1200"></span>[2](#fn_1200.md) only let thy heart be
 with the Lord, and doubt not, whatsoever thou shalt see.
 
 41 I asked her, Lady, why is the tower built upon the  <span
-id="fr_1201"></span>[3](#fn_1201) water? She replied, I said before to
+id="fr_1201"></span>[3](#fn_1201.md) water? She replied, I said before to
 thee that thou wert very wise to inquire diligently concerning the
 building, therefore thou shalt find the truth.
 
 42 Hear therefore why the tower is built upon the water: because your
 life is and shall be saved by water. For  <span
-id="fr_1202"></span>[4](#fn_1202) it is founded by the word of the
+id="fr_1202"></span>[4](#fn_1202.md) it is founded by the word of the
 almighty and honourable name, and is supported by the invisible power
 and virtue of God.
 
@@ -601,7 +601,7 @@ I would know what are they.
 
 56 She answered, They which lie upon the ground and are not polished,
 are those which God has approved, because they have walked in  <span
-id="fr_1203"></span>[1](#fn_1203) the law of the Lord, and directed
+id="fr_1203"></span>[1](#fn_1203.md) the law of the Lord, and directed
 their ways in his commandments.
 
 57 They which are brought and put in the building of the tower, are the
@@ -621,7 +621,7 @@ be no place for them to be put in, but they shall be rejected; for he
 only has this privilege who shall now be out into the tower.
 
 61 ¶ But would you know who they are that were cut out, and cast afar
-off from the tower?  <span id="fr_1204"></span>[2](#fn_1204) Lady, said
+off from the tower?  <span id="fr_1204"></span>[2](#fn_1204.md) Lady, said
 I, I desire it.
 
 62 They are the children of iniquity, who believed only in hypocrisy,
@@ -659,7 +659,7 @@ asking everything and discerning nothing?
 
 69 They are such as have faith indeed, but have withal the riches of
 this present world. When therefore any  <span
-id="fr_1205"></span>[1](#fn_1205) troubles arise, for the sake of their
+id="fr_1205"></span>[1](#fn_1205.md) troubles arise, for the sake of their
 riches and traffic, they deny the Lord.
 
 70 I answering, said unto her, When therefore will they be profitable to
@@ -683,7 +683,7 @@ doubting have forsaken the true way, thinking that they could find a
 better. But they wander and are miserable, going into desolate ways.
 
 74 Then for those stones which fell into the fire and were burnt, they
-are those who have  <span id="fr_1206"></span>[2](#fn_1206) for ever
+are those who have  <span id="fr_1206"></span>[2](#fn_1206.md) for ever
 departed from the living God; nor doth it ever come into their hearts to
 repent, by reason of the affection which they bear to their lusts and
 wickednesses which they commit.
@@ -811,7 +811,7 @@ shut out with your goods without the gate of the tower.
 highest seats, be not ye like unto those that work mischief.
 
 103 And they indeed carry about their poison in boxes, but ye contain
-your poison and  <span id="fr_1207"></span>[1](#fn_1207) infection in
+your poison and  <span id="fr_1207"></span>[1](#fn_1207.md) infection in
 your hearts, and will not purge them, and mix your sense with a pure
 heart, that ye may find mercy with the Great King.
 
@@ -865,7 +865,7 @@ already received?
 <span id="img_20900"></span> <span align="CENTER"> [![MARY SUPPORTING
 THE DEAD CHRIST ON HER KNEES. FROM A GREEK PAINTING IN DISTEMPER ON
 WOOD; TWELFTH CENTURY.](tn/20900.jpg)  
-Click to enlarge](img/20900.jpg)  
+Click to enlarge](img/20900.jpg.md)  
 MARY SUPPORTING THE DEAD CHRIST ON HER KNEES. FROM A GREEK PAINTING IN
 DISTEMPER ON WOOD; TWELFTH CENTURY.  
 </span>
@@ -892,7 +892,7 @@ doubtfulness of your heart.
 expect any thing but their departure; so you being weakened through your
 worldly affairs gave yourself up to sloth, and cast not away your
 solicitude from yourself upon the Lord: and your sense was confused,
- <span id="fr_1208"></span>[1](#fn_1208) and you grow old in your
+ <span id="fr_1208"></span>[1](#fn_1208.md) and you grow old in your
 sadness.
 
 121 But, sir, I would know why she sate upon a chair?
@@ -923,7 +923,7 @@ shew other things unto you, if you shall have peace with all your heart
 among each other.
 
 128 But in the third vision you saw her yet younger,  <span
-id="fr_1209"></span>[2](#fn_1209) fair and cheerful, and of a serene
+id="fr_1209"></span>[2](#fn_1209.md) fair and cheerful, and of a serene
 countenance.
 
 129 For as if some good news comes to him that is sad, he straightway
@@ -966,7 +966,7 @@ the Revelations which he had shewed unto me by his holy Church:
 
 4 And would grant repentance to all his servants who had been offended,
 that his great and honourable name might be glorified, and because he
-thought me worthy  <span id="fr_1210"></span>[1](#fn_1210) to whom he
+thought me worthy  <span id="fr_1210"></span>[1](#fn_1210.md) to whom he
 might shew his wonders, and, that I might honour him, and give thanks
 unto him.
 
@@ -981,12 +981,12 @@ cattle coming, that raises such a dust?
 
 7 It was about a furlong off from me. And behold I saw the dust rise
 more and more, insomuch that I began to suspect that there was  <span
-id="fr_1211"></span>[2](#fn_1211) somewhat extraordinary in it.
+id="fr_1211"></span>[2](#fn_1211.md) somewhat extraordinary in it.
 
 8 And the sun shone a little: and behold I saw a great beast, as it were
 a whale; and fiery locusts came out of his mouth. The height of the
 beast was about a hundred feet, and he had a head like a  <span
-id="fr_1212"></span>[3](#fn_1212) large earthen vessel.
+id="fr_1212"></span>[3](#fn_1212.md) large earthen vessel.
 
 9 I began to weep, and to pray unto the Lord that he would deliver me
 from it. Then I called to mind the word which I had heard; Doubt not,
@@ -997,7 +997,7 @@ it was that had taught me great things, I delivered myself bodily unto
 the beast.
 
 11 Now the beast came on in such a manner, as if it could  <span
-id="fr_1213"></span>[4](#fn_1213) at once have devoured a city.
+id="fr_1213"></span>[4](#fn_1213.md) at once have devoured a city.
 
 12 I came near unto it, and the beast extended its whole bulk upon the
 ground, and put forth nothing but its tongue, nor once moved itself till
@@ -1083,98 +1083,98 @@ for I thought that the beast was coming toward me.
 
 ### Footnotes
 
-<span id="fn_1179"></span>[197:1](lbob26.htm#fr_1179) In MS. Lambeth.
+<span id="fn_1179"></span>[197:1](lbob26.htm#fr_1179.md) In MS. Lambeth.
 Præcepta sum a Domino ut peccata tua arguam: I am commanded of the Lord
 to reprove thee for thy sins.
 
-<span id="fn_1180"></span>[197:2](lbob26.htm#fr_1180) In MS. Wilt thou
+<span id="fn_1180"></span>[197:2](lbob26.htm#fr_1180.md) In MS. Wilt thou
 accuse me?
 
-<span id="fn_1181"></span>[198:1](lbob26.htm#fr_1181) Vid. Hieron in
+<span id="fn_1181"></span>[198:1](lbob26.htm#fr_1181.md) Vid. Hieron in
 Hoseam, vii. 9.
 
-<span id="fn_1182"></span>[199:1](lbob26.htm#fr_1182) In Glory. Edit.
+<span id="fn_1182"></span>[199:1](lbob26.htm#fr_1182.md) In Glory. Edit.
 Oxon. Hath preserved thee in honour.
 
-<span id="fn_1183"></span>[199:2](lbob26.htm#fr_1183) So. MSS. Lamb. Et
+<span id="fn_1183"></span>[199:2](lbob26.htm#fr_1183.md) So. MSS. Lamb. Et
 describentur in libre vitæ.
 
-<span id="fn_1184"></span>[199:3](lbob26.htm#fr_1184) Edit. Oxon.
+<span id="fn_1184"></span>[199:3](lbob26.htm#fr_1184.md) Edit. Oxon.
 
-<span id="fn_1185"></span>[199:4](lbob26.htm#fr_1185) Et ejus modo.
+<span id="fn_1185"></span>[199:4](lbob26.htm#fr_1185.md) Et ejus modo.
 
-<span id="fn_1186"></span>[200:1](lbob26.htm#fr_1186) Clem. Alex. Strom.
+<span id="fn_1186"></span>[200:1](lbob26.htm#fr_1186.md) Clem. Alex. Strom.
 
-<span id="fn_1187"></span>[200:2](lbob26.htm#fr_1187) vi. Impropera.
+<span id="fn_1187"></span>[200:2](lbob26.htm#fr_1187.md) vi. Impropera.
 
-<span id="fn_1188"></span>[200:3](lbob26.htm#fr_1188) So one MS. in
+<span id="fn_1188"></span>[200:3](lbob26.htm#fr_1188.md) So one MS. in
 Coteler. Edit. Oxon. And she, &c.
 
-<span id="fn_1189"></span>[200:4](lbob26.htm#fr_1189) Day. Præfinita
+<span id="fn_1189"></span>[200:4](lbob26.htm#fr_1189.md) Day. Præfinita
 ista die etiam nunc si peccaverit aliquis Lat.
 
-<span id="fn_1190"></span>[200:5](lbob26.htm#fr_1190) Shall sin after
+<span id="fn_1190"></span>[200:5](lbob26.htm#fr_1190.md) Shall sin after
 it.
 
-<span id="fn_1191"></span>[200:6](lbob26.htm#fr_1191) Days that are
+<span id="fn_1191"></span>[200:6](lbob26.htm#fr_1191.md) Days that are
 coming.
 
-<span id="fn_1192"></span>[201:1](lbob26.htm#fr_1192) Injuries.
+<span id="fn_1192"></span>[201:1](lbob26.htm#fr_1192.md) Injuries.
 
-<span id="fn_1193"></span>[201:2](lbob26.htm#fr_1193) Eldad and Medad.
+<span id="fn_1193"></span>[201:2](lbob26.htm#fr_1193.md) Eldad and Medad.
 Numb. xi. 26, 27.
 
-<span id="fn_1194"></span>[201:3](lbob26.htm#fr_1194) See Dr. Grabe's
+<span id="fn_1194"></span>[201:3](lbob26.htm#fr_1194.md) See Dr. Grabe's
 Annot. to Bishop Bull's Def. Fid. Nic. p. 24. Fol. de S. Herma.
 
-<span id="fn_1195"></span>[201:4](lbob26.htm#fr_1195) Suum is added in
+<span id="fn_1195"></span>[201:4](lbob26.htm#fr_1195.md) Suum is added in
 the Lambeth MS.
 
-<span id="fn_1196"></span>[201:5](lbob26.htm#fr_1196) Origen. Philocal,
+<span id="fn_1196"></span>[201:5](lbob26.htm#fr_1196.md) Origen. Philocal,
 cap. 1.
 
-<span id="fn_1197"></span>[203:1](lbob26.htm#fr_1197) Lat. Exiguitatas.
+<span id="fn_1197"></span>[203:1](lbob26.htm#fr_1197.md) Lat. Exiguitatas.
 
-<span id="fn_1198"></span>[203:2](lbob26.htm#fr_1198) Are about.
+<span id="fn_1198"></span>[203:2](lbob26.htm#fr_1198.md) Are about.
 
-<span id="fn_1199"></span>[204:1](lbob26.htm#fr_1199) Edit. Oxon.
+<span id="fn_1199"></span>[204:1](lbob26.htm#fr_1199.md) Edit. Oxon.
 
-<span id="fn_1200"></span>[204:2](lbob26.htm#fr_1200) Clem. Alex. Strom.
+<span id="fn_1200"></span>[204:2](lbob26.htm#fr_1200.md) Clem. Alex. Strom.
 xii.
 
-<span id="fn_1201"></span>[204:3](lbob26.htm#fr_1201) Baptism.
+<span id="fn_1201"></span>[204:3](lbob26.htm#fr_1201.md) Baptism.
 
-<span id="fn_1202"></span>[204:4](lbob26.htm#fr_1202) Namely, the tower.
+<span id="fn_1202"></span>[204:4](lbob26.htm#fr_1202.md) Namely, the tower.
 
-<span id="fn_1203"></span>[205:1](lbob26.htm#fr_1203) In æquitatem
+<span id="fn_1203"></span>[205:1](lbob26.htm#fr_1203.md) In æquitatem
 Domini, Lat.
 
-<span id="fn_1204"></span>[205:2](lbob26.htm#fr_1204) Edit. Oxon.
+<span id="fn_1204"></span>[205:2](lbob26.htm#fr_1204.md) Edit. Oxon.
 
-<span id="fn_1205"></span>[206:1](lbob26.htm#fr_1205) Tribulation
+<span id="fn_1205"></span>[206:1](lbob26.htm#fr_1205.md) Tribulation
 arises.
 
-<span id="fn_1206"></span>[206:2](lbob26.htm#fr_1206) Finally.
+<span id="fn_1206"></span>[206:2](lbob26.htm#fr_1206.md) Finally.
 
-<span id="fn_1207"></span>[208:1](lbob26.htm#fr_1207) Medicaments.
+<span id="fn_1207"></span>[208:1](lbob26.htm#fr_1207.md) Medicaments.
 
-<span id="fn_1208"></span>[209:1](lbob26.htm#fr_1208) Broken, Contusus.
+<span id="fn_1208"></span>[209:1](lbob26.htm#fr_1208.md) Broken, Contusus.
 
-<span id="fn_1209"></span>[209:2](lbob26.htm#fr_1209) Honestam.
+<span id="fn_1209"></span>[209:2](lbob26.htm#fr_1209.md) Honestam.
 
-<span id="fn_1210"></span>[210:1](lbob26.htm#fr_1210) That he would shew
+<span id="fn_1210"></span>[210:1](lbob26.htm#fr_1210.md) That he would shew
 me.
 
-<span id="fn_1211"></span>[210:2](lbob26.htm#fr_1211) Aliquid divinitus.
+<span id="fn_1211"></span>[210:2](lbob26.htm#fr_1211.md) Aliquid divinitus.
 
-<span id="fn_1212"></span>[210:3](lbob26.htm#fr_1212) Vas. urnale.
+<span id="fn_1212"></span>[210:3](lbob26.htm#fr_1212.md) Vas. urnale.
 
-<span id="fn_1213"></span>[210:4](lbob26.htm#fr_1213) In ictu.
+<span id="fn_1213"></span>[210:4](lbob26.htm#fr_1213.md) In ictu.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Second Book of Hermas, Called His Commands](lbob27)
+[Next: The Second Book of Hermas, Called His Commands](lbob27.md)
 
 </div>

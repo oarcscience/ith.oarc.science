@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](dbn09)  [Next](dbn11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](dbn09)  [Next](dbn11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486414434/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Negro*, by W.E.B. Du Bois, \[1915\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -49,24 +49,24 @@ mankind after tens of thousands of years in unawakened savagery.
 It has often been assumed that the Negro is physically inferior to other
 races and markedly distinguishable from them; modern science gives no
 authority for such an assumption. The supposed inferiority cannot rest
-on color, <span id="fr_34"></span>[1](#fn_34) for that is "due to the
+on color, <span id="fr_34"></span>[1](#fn_34.md) for that is "due to the
 combined influences of a great number of factors of environment working
 
 <span id="page_63">p. 63</span>
 
 through physiological processes," and "however marked the contrasts may
 be, there is no corresponding difference in anatomical structure
-discoverable." <span id="fr_35"></span>[1](#fn_35) So, too, difference
+discoverable." <span id="fr_35"></span>[1](#fn_35.md) So, too, difference
 in texture of hair is a matter of degree, not kind, and is caused by
 heat, moisture, exposure, and the like.
 
 The bony skeleton presents no distinctly racial lines of variation.
 Prognathism "presents too many individual varieties to be taken as a
-distinctive character of race" <span id="fr_36"></span>[2](#fn_36)
+distinctive character of race" <span id="fr_36"></span>[2](#fn_36.md)
 Difference in physical measurements does not show the Negro to be a more
 primitive evolutionary form. Comparative ethnology to-day affords "no
 support to the view which sees in the so-called lower races of mankind a
-transition stage from beast to man." <span id="fr_37"></span>[3](#fn_37)
+transition stage from beast to man." <span id="fr_37"></span>[3](#fn_37.md)
 
 Much has been made of the supposed smaller brain of the Negro race; but
 this is as yet an unproved assumption, based on the uncritical
@@ -77,14 +77,14 @@ fall within the same limits as the whites; and finally, "neither size
 nor weight of the brain seems to be of importance" as an index of mental
 capacity. We may, therefore, say with Ratzel, "There is only one species
 of man. The variations are numerous, but do not go deep." <span
-id="fr_38"></span>[4](#fn_38)
+id="fr_38"></span>[4](#fn_38.md)
 
 To this we may add the word of the Secretary of the First Races
 Congress: "We are, then, under the necessity of concluding that an
 impartial investigator would be inclined to look upon the various
 important peoples of the world as to all intents and purposes
 essentially equal in intellect, enterprise, morality, and
-physique." <span id="fr_39"></span>[5](#fn_39)
+physique." <span id="fr_39"></span>[5](#fn_39.md)
 
 If these conclusions are true, we should expect to see in Africa the
 human drama play itself out much as in other lands, and such has
@@ -144,7 +144,7 @@ preparation of meal from millet and other crops, also from
 
 cassava, the fabrication of fermented drinks from grain, or the
 manufacture of cotton, are widely known and sedulously fostered." <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 Bücher reminds us of the deep impression made upon travelers when they
 sight suddenly the well-attended fields of the natives on emerging from
@@ -156,7 +156,7 @@ knows whether he will in the end be able to harvest what he has sown.
 Livingstone gives somewhere a graphic description of the devastations
 wrought by slave hunts; the people were lying about slain, the dwellings
 were demolished; in the fields, however, the grain was ripening and
-there was none to harvest it." <span id="fr_41"></span>[2](#fn_41)
+there was none to harvest it." <span id="fr_41"></span>[2](#fn_41.md)
 
 Sheep, goat, and chickens are domestic animals all over Africa, and Von
 Franzius considers Africa the home of the house cattle and the Negro as
@@ -195,7 +195,7 @@ they are good workers in iron and copper, using the sheepskin bellows
 for this purpose. The Ashantis of the Gold Coast know how to make
 "cotton fabrics, turn and glaze earthenware, forge iron, fabricate
 instruments and arms, embroider rugs and carpets, and set gold and
-precious stones." <span id="fr_42"></span>[1](#fn_42) Among the people
+precious stones." <span id="fr_42"></span>[1](#fn_42.md) Among the people
 of the banana zone we find rough basket work, coarse pottery, grass
 cloth, and spoons made of wood and ivory, The people of the millet zone,
 because of uncertain agricultural resources, quite generally turn to
@@ -314,7 +314,7 @@ from east to west. With his simple bellows and a charcoal
 
 fire he reduced the ore that is found in many parts of the continent and
 forged implements of great usefulness and beauty." <span
-id="fr_43"></span>[1](#fn_43)
+id="fr_43"></span>[1](#fn_43.md)
 
 Torday has argued recently, "I feel convinced by certain arguments that
 seem to prove to my satisfaction that we are indebted to the Negro for
@@ -341,7 +341,7 @@ B.C., and where, in the times of Ashur Nazir Pal, it was still used
 concurrently with bronze, while iron beads have been only recently
 discovered by Messrs. G. A. Wainwright and Bushe Fox in a predynastic
 grave, and where a piece of this metal, possibly a tool, was found in
-the masonry of the great pyramid." <span id="fr_44"></span>[2](#fn_44)
+the masonry of the great pyramid." <span id="fr_44"></span>[2](#fn_44.md)
 
 The Negro is a born trader. Lenz says, "our sharpest European merchants,
 even Jews and Armenians, can learn much of the cunning and trade of the
@@ -389,7 +389,7 @@ rings; on the Congo, clever wood and tablet carvings; in Loango,
 ornamented clothes and intricately designed mats; in Mayumbe, clothing
 of finely woven mat-work; in Kakongo, embroidered bats and also burnt
 clay pitchers; and among the Bayakas and Mantetjes, stuffs of woven
-grass." <span id="fr_45"></span>[1](#fn_45)
+grass." <span id="fr_45"></span>[1](#fn_45.md)
 
 A native Negro student tells of the development of trade among the
 Ashanti. "It was a part of the state system of Ashanti to encourage
@@ -414,7 +414,7 @@ too, be would have special men who directly traded for him. Important
 chiefs carried on the same system of trading with the coast as did the
 king. Thus every member of the state, from the king downward, took an
 active interest in the promotion of trade and in the keeping open of
-trade routes into the interior." <span id="fr_46"></span>[1](#fn_46)
+trade routes into the interior." <span id="fr_46"></span>[1](#fn_46.md)
 
 The trade thus encouraged and carried on in various parts of West Africa
 reached wide areas. From the Fish River to Kuka, and from Lagos to
@@ -443,7 +443,7 @@ the market itself, looks like an idea of justice consecrated by long
 <span id="page_72">p. 72</span>
 
 practice. Does not this remind us of the old Germanic 'market
-Place'?" <span id="fr_47"></span>[1](#fn_47)
+Place'?" <span id="fr_47"></span>[1](#fn_47.md)
 
 Turning now to Negro family and social life we find, as among all
 primitive peoples, polygamy and marriage by actual or simulated
@@ -497,7 +497,7 @@ times of war, where the members of the ward would not serve cordially
 under a stranger, they would in all cases face any danger with their own
 kinsman as their leader. The headman is always succeeded by his uterine
 brother, cousin, or nephew--the line of succession, that is to say,
-following the customary law." <span id="fr_48"></span>[1](#fn_48)
+following the customary law." <span id="fr_48"></span>[1](#fn_48.md)
 
 We may contrast this picture with the more warlike Bantus of Southeast
 Africa. Each tribe lived by itself in a town with from five to fifteen
@@ -531,7 +531,7 @@ peoples of Europe is close enough to add another
 <span id="page_74">p. 74</span>
 
 to the arguments which discredit the theory that there is any such thing
-as an Aryan type of institutions." <span id="fr_49"></span>[1](#fn_49)
+as an Aryan type of institutions." <span id="fr_49"></span>[1](#fn_49.md)
 
 While women are sold into marriage throughout Africa, nevertheless their
 status is far removed from slavery. In the first place the tracing of
@@ -548,7 +548,7 @@ offered a Negro than insulting his mother. 'Strike me,' cried a Mandingo
 to his enemy, 'but revile not my mother!' . . . The Herero swears 'By my
 mother's tears!' . . The Angola Negroes have a saying, 'As a mist
 lingers on the swamps, so lingers the love of father and mother.'" <span
-id="fr_50"></span>[2](#fn_50)
+id="fr_50"></span>[2](#fn_50.md)
 
 Black queens have often ruled African tribes. Among the Ba-Lolo, we are
 told, women take part in public assemblies where all-important questions
@@ -568,7 +568,7 @@ dominant forces in which the Negro lives. To him all the world is
 spirit. Miss Kingsley says, "If you want, for example, to understand the
 position of man in nature according to fetish, there is, as far as I
 know, no clearer statement of it made than is made by Goethe in his
-superb 'Prometheus.'" <span id="fr_51"></span>[3](#fn_51)
+superb 'Prometheus.'" <span id="fr_51"></span>[3](#fn_51.md)
 
 <span id="page_75">p. 75</span>
 
@@ -585,7 +585,7 @@ everyday affairs, under a grim pall of boredom, are liable to believe in
 fetish, though ashamed of so doing. For the African, whose mind has been
 soaked in fetish during his early and most impressionable years, the
 voice of fetish is almost irresistible when affliction comes to
-him." <span id="fr_52"></span>[1](#fn_52)
+him." <span id="fr_52"></span>[1](#fn_52.md)
 
 Ellis tells us of the spirit belief of the Ewe people, who believe that
 men and all nature have the indwelling "Kra," which is immortal; that
@@ -601,7 +601,7 @@ This kind of worship, the worship once most generally diffused
 throughout the world, and which held its ground among the Greeks and
 Italians in the most flourishing period of ancient civilization, as it
 does in China and Japan to-day, was, and is, virtually the religion of
-the Kaffirs." <span id="fr_53"></span>[2](#fn_53)
+the Kaffirs." <span id="fr_53"></span>[2](#fn_53.md)
 
 African religion does not, however, stop with fetish, but, as in the
 case of other peoples, tends toward polytheism and monotheism. Among the
@@ -621,14 +621,14 @@ families, the essential origin of every new-born babe's descent in the
 founder of its race and its consideration as a part of the God in Chief;
 the security with which the newly wedded wife not only may, but should,
 minister to her own God in an unfamiliar home." <span
-id="fr_54"></span>[1](#fn_54)
+id="fr_54"></span>[1](#fn_54.md)
 
 The Yoruba have a legend of a dying divinity. "This people . . . give
 evidence of a generalized system; a theocratic scheme, a well-conceived
 perceptible organization, reared in rhythmically proportioned manner."
 
 Miss Kingsley says, "The African has a great Over God." <span
-id="fr_55"></span>[2](#fn_55) Nassau, the missionary, declares, "After
+id="fr_55"></span>[2](#fn_55.md) Nassau, the missionary, declares, "After
 more than forty years' residence among these tribes, fluently using
 their language, conversant with their customs, dwelling intimately in
 their huts, associating with them in the various relations of teacher,
@@ -650,10 +650,10 @@ antique bellows of the village smithy; women who have hasted from their
 kitchen fire with hands white with the manioc dough or still grasping
 the partly scaled fish; and children checked in their play with tiny bow
 and arrow or startled from their dusty street pursuit of dog or goat,--I
-have yet to be asked, 'Who is God?'" <span id="fr_56"></span>[3](#fn_56)
+have yet to be asked, 'Who is God?'" <span id="fr_56"></span>[3](#fn_56.md)
 
 The basis of Egyptian religion was "of a purely Nigritian
-character," <span id="fr_57"></span>[4](#fn_57) and in its developed
+character," <span id="fr_57"></span>[4](#fn_57.md) and in its developed
 form Sudanese tribal gods were invoked and venerated by the priests. In
 Upper Egypt, near the confines of Ethiopia, paintings repeatedly
 represent black priests conferring on
@@ -687,7 +687,7 @@ and Cyprian were from Carthage, Arnobius from Sicca Veneria, Lactantius,
 and probably in like manner Minucius Felix, in spite of their Latin
 names, were natives of Africa, and not less so Augustine. In Africa the
 Church found its most zealous confessors of the faith and its most
-gifted defenders." <span id="fr_58"></span>[1](#fn_58)
+gifted defenders." <span id="fr_58"></span>[1](#fn_58.md)
 
 The Africa referred to here, however, was not Negroland, but Africa
 above the desert, where Negro blood was represented in the ancient
@@ -731,7 +731,7 @@ great horn of East Africa the influence of Semitic tongues is noted.
 Despite much effort on the part of students, it has been impossible to
 show any Asiatic origin for the Egyptian language. As Sergi maintains,
 "everything favors an African origin." <span
-id="fr_59"></span>[1](#fn_59) The most brilliant suggestion of modern
+id="fr_59"></span>[1](#fn_59.md) The most brilliant suggestion of modern
 days links together the Egyptian of North Africa and the Hottentot and
 Bushmen tongues of South Africa.
 
@@ -773,7 +773,7 @@ Till their near approach proclaimed them Matabili.
 And rushed out as if to chase the antelope.  
           The onset was as the voice of lightning,  
 And their javelins as the shaking of the forest in the autumn
-storm. <span id="fr_60"></span>[1](#fn_60)
+storm. <span id="fr_60"></span>[1](#fn_60.md)
 
 </div>
 
@@ -782,7 +782,7 @@ in form, color, and sound. Soyaux says of African industry, "Whoever
 denies to them independent invention and individual taste in their work
 either shuts his eyes intentionally before perfectly evident facts, or
 lack of knowledge renders him an incompetent judge." <span
-id="fr_61"></span>[2](#fn_61) M. Rutot had lately told us bow the Negro
+id="fr_61"></span>[2](#fn_61.md) M. Rutot had lately told us bow the Negro
 race brought art and sculpture to pre-historic Europe. The bones of the
 European Negroids are almost without exception found in company with
 drawings and sculpture in high and low relief; some of their sculptures,
@@ -807,7 +807,7 @@ wooden figures, cowry beads, and jars. The whole picture, the columns
 carved in colors in front of the colored altar, the old man sitting in
 the circle of those who reverenced him, the open scaffolding of ninety
 rafters, made a magnificent impression." <span
-id="fr_62"></span>[1](#fn_62)
+id="fr_62"></span>[1](#fn_62.md)
 
 The Germans have found, in Kamarun, towns built, castellated, and
 fortified in a manner that reminds one of the prehistoric cities of
@@ -842,7 +842,7 @@ bronze head Frobenius describes as "a head of marvelous
 
 beauty, wonderfully cast," and "almost equal in beauty and, at least, no
 less noble in form, and as ancient as the terra-cotta heads." <span
-id="fr_63"></span>[1](#fn_63)
+id="fr_63"></span>[1](#fn_63.md)
 
 In a park of monuments Frobenius saw the celebrated forge and hammer: a
 mighty mass of iron, like a falling drop in shape, and a block of quartz
@@ -889,7 +889,7 @@ the close of the eighteenth century. But even in my own time there were
 still smiths who knew the names of places along that wonderful trade
 route driven through the heart of the 'impenetrable forests of the
 Congo.' For every scrap of imported iron was carried over it." <span
-id="fr_64"></span>[1](#fn_64)
+id="fr_64"></span>[1](#fn_64.md)
 
 In disposition the Negro is among the most lovable of men. Practically
 all the great travelers who have spent any considerable time in Africa
@@ -909,7 +909,7 @@ every fold of clothing, the deep significance and essential import of
 every single action. Everyone may, without too greatly straining his
 attention, notice the very striking precision and weight with which the
 upper and lower native classes observe these niceties of
-intercourse." <span id="fr_65"></span>[2](#fn_65)
+intercourse." <span id="fr_65"></span>[2](#fn_65.md)
 
 All this does not mean that the African Negro is not human with the
 all-too-well-known foibles of humanity. Primitive life among them is,
@@ -949,7 +949,7 @@ even so we do not comprehend the ground of its geographical limitation
 and location; for wherever dark, woolly-haired men dwell, this ugly type
 also crops up. We are here in the presence of a refinement of science
 which to an unprejudiced eye will hardly hold water." <span
-id="fr_66"></span>[1](#fn_66)
+id="fr_66"></span>[1](#fn_66.md)
 
 In this restricted sense the Negro has no history, culture, or ability,
 for the simple fact that such human beings as have history and evidence
@@ -965,7 +965,7 @@ which would unfit an individual of the Negro race to take his part in
 modern civilization. We do not know of any demand made on the human body
 or mind in modern life that anatomical or ethnological evidence would
 prove to be beyond the powers of the Negro." <span
-id="fr_67"></span>[2](#fn_67)
+id="fr_67"></span>[2](#fn_67.md)
 
 'We have every reason to suppose that all races are capable, under
 proper guidance, of being fitted into the complex scheme of our modern
@@ -974,7 +974,7 @@ civilization, and the policy of artificially excluding them
 <span id="page_84">p. 84</span>
 
 from its benefits is as unjustifiable scientifically as it is ethically
-abhorrent." <span id="fr_68"></span>[1](#fn_68) What is, then, this
+abhorrent." <span id="fr_68"></span>[1](#fn_68.md) What is, then, this
 so-called "instinctive" modern prejudice against black folk?
 
 Lord Bryce says of the intermingling of blacks and whites in South
@@ -1028,114 +1028,114 @@ the answer in modern Negro slavery and the slave trade.
 
 ### Footnotes
 
-<span id="fn_34"></span>[62:1](dbn10.htm#fr_34) "Some authors write that
+<span id="fn_34"></span>[62:1](dbn10.htm#fr_34.md) "Some authors write that
 the Ethiopians paint the devil white, in disdain of our
 complexions."--Ludolf: *History of Ethiopia*, p. 72.
 
-<span id="fn_35"></span>[63:1](dbn10.htm#fr_35) Ripley: *Races of
+<span id="fn_35"></span>[63:1](dbn10.htm#fr_35.md) Ripley: *Races of
 Europ*e, pp. 58, 62.
 
-<span id="fn_36"></span>[63:2](dbn10.htm#fr_36) Denniker: *Races of
+<span id="fn_36"></span>[63:2](dbn10.htm#fr_36.md) Denniker: *Races of
 Men*, p. 63.
 
-<span id="fn_37"></span>[63:3](dbn10.htm#fr_37) G. Finot: *Race
+<span id="fn_37"></span>[63:3](dbn10.htm#fr_37.md) G. Finot: *Race
 Prejudice*. F. Herz: *Moderne Rassentheorien*.
 
-<span id="fn_38"></span>[63:4](dbn10.htm#fr_38) Ratzel: quoted in
+<span id="fn_38"></span>[63:4](dbn10.htm#fr_38.md) Ratzel: quoted in
 Spiller: *Inter-Racial Problems*, p. 31.
 
-<span id="fn_39"></span>[63:5](dbn10.htm#fr_39) Spiller: *Inter-Racial
+<span id="fn_39"></span>[63:5](dbn10.htm#fr_39.md) Spiller: *Inter-Racial
 Problems*, p. 35.
 
-<span id="fn_40"></span>[65:1](dbn10.htm#fr_40) Ratzel: *History of
+<span id="fn_40"></span>[65:1](dbn10.htm#fr_40.md) Ratzel: *History of
 Mankind*, II, 380 ff.
 
-<span id="fn_41"></span>[65:2](dbn10.htm#fr_41) *Industrial Evolution*,
+<span id="fn_41"></span>[65:2](dbn10.htm#fr_41.md) *Industrial Evolution*,
 p. 47.
 
-<span id="fn_42"></span>[66:1](dbn10.htm#fr_42) These and other
+<span id="fn_42"></span>[66:1](dbn10.htm#fr_42.md) These and other
 references in this chapter are from Schneider: *Culturfähigkeit des
 Negers*.
 
-<span id="fn_43"></span>[69:1](dbn10.htm#fr_43) Atlanta University
+<span id="fn_43"></span>[69:1](dbn10.htm#fr_43.md) Atlanta University
 Leaflet, No. 19.
 
-<span id="fn_44"></span>[69:2](dbn10.htm#fr_44) *Journal of the Royal
+<span id="fn_44"></span>[69:2](dbn10.htm#fr_44.md) *Journal of the Royal
 Anthropological Institute*, XLIII, 414, 415. Cf. also *The Crisis*, Vol.
 IX, p. 234.
 
-<span id="fn_45"></span>[70:1](dbn10.htm#fr_45) Bücher: *Industrial
+<span id="fn_45"></span>[70:1](dbn10.htm#fr_45.md) Bücher: *Industrial
 Revolution* (tr. by Wickett), pp. 57-58.
 
-<span id="fn_46"></span>[71:1](dbn10.htm#fr_46) Hayford: *Native
+<span id="fn_46"></span>[71:1](dbn10.htm#fr_46.md) Hayford: *Native
 Institutions*, pp. 95-96.
 
-<span id="fn_47"></span>[72:1](dbn10.htm#fr_47) Ratzel, II, 376.
+<span id="fn_47"></span>[72:1](dbn10.htm#fr_47.md) Ratzel, II, 376.
 
-<span id="fn_48"></span>[73:1](dbn10.htm#fr_48) Hayford: *Native
+<span id="fn_48"></span>[73:1](dbn10.htm#fr_48.md) Hayford: *Native
 Institutions*, pp. 76 ff.
 
-<span id="fn_49"></span>[74:1](dbn10.htm#fr_49) Impressions of South
+<span id="fn_49"></span>[74:1](dbn10.htm#fr_49.md) Impressions of South
 Africa, 3d ed., p. 352.
 
-<span id="fn_50"></span>[74:2](dbn10.htm#fr_50) William Schneider.
+<span id="fn_50"></span>[74:2](dbn10.htm#fr_50.md) William Schneider.
 
-<span id="fn_51"></span>[74:3](dbn10.htm#fr_51) *West African Studies*,
+<span id="fn_51"></span>[74:3](dbn10.htm#fr_51.md) *West African Studies*,
 Chap. V.
 
-<span id="fn_52"></span>[75:1](dbn10.htm#fr_52) *Op. cit*.
+<span id="fn_52"></span>[75:1](dbn10.htm#fr_52.md) *Op. cit*.
 
-<span id="fn_53"></span>[75:2](dbn10.htm#fr_53) *Impressions of South
+<span id="fn_53"></span>[75:2](dbn10.htm#fr_53.md) *Impressions of South
 Africa*.
 
-<span id="fn_54"></span>[76:1](dbn10.htm#fr_54) Frobenius: *Voice of
+<span id="fn_54"></span>[76:1](dbn10.htm#fr_54.md) Frobenius: *Voice of
 Africa*, Vol. I.
 
-<span id="fn_55"></span>[76:2](dbn10.htm#fr_55) *West African Studies*,
+<span id="fn_55"></span>[76:2](dbn10.htm#fr_55.md) *West African Studies*,
 p. 107.
 
-<span id="fn_56"></span>[76:3](dbn10.htm#fr_56) Nassau: *Fetishism in
+<span id="fn_56"></span>[76:3](dbn10.htm#fr_56.md) Nassau: *Fetishism in
 West Africa*, p. 36.
 
-<span id="fn_57"></span>[76:4](dbn10.htm#fr_57) *Encyclopædia
+<span id="fn_57"></span>[76:4](dbn10.htm#fr_57.md) *Encyclopædia
 Britannica*, 9th ed., XX, 362.
 
-<span id="fn_58"></span>[77:1](dbn10.htm#fr_58) *The African Provinces*,
+<span id="fn_58"></span>[77:1](dbn10.htm#fr_58.md) *The African Provinces*,
 II, 345.
 
-<span id="fn_59"></span>[78:1](dbn10.htm#fr_59) Mediterranean Race, p.
+<span id="fn_59"></span>[78:1](dbn10.htm#fr_59.md) Mediterranean Race, p.
 10.
 
-<span id="fn_60"></span>[79:1](dbn10.htm#fr_60) Stowe: *Native Races*,
+<span id="fn_60"></span>[79:1](dbn10.htm#fr_60.md) Stowe: *Native Races*,
 etc., pp. 553-554.
 
-<span id="fn_61"></span>[79:2](dbn10.htm#fr_61) Quoted in Schneider.
+<span id="fn_61"></span>[79:2](dbn10.htm#fr_61.md) Quoted in Schneider.
 
-<span id="fn_62"></span>[80:1](dbn10.htm#fr_62) Frobenius: *Voice of
+<span id="fn_62"></span>[80:1](dbn10.htm#fr_62.md) Frobenius: *Voice of
 Africa*, Vol. I, Chap. XIV.
 
-<span id="fn_63"></span>[81:1](dbn10.htm#fr_63) Frobenius: *Voice of
+<span id="fn_63"></span>[81:1](dbn10.htm#fr_63.md) Frobenius: *Voice of
 Africa*, Vol. I.
 
-<span id="fn_64"></span>[82:1](dbn10.htm#fr_64) Frobenius: *Voice of
+<span id="fn_64"></span>[82:1](dbn10.htm#fr_64.md) Frobenius: *Voice of
 Africa*, I, 14-15.
 
-<span id="fn_65"></span>[82:2](dbn10.htm#fr_65) Frobenius: *Voice of
+<span id="fn_65"></span>[82:2](dbn10.htm#fr_65.md) Frobenius: *Voice of
 Africa*, I, 272.
 
-<span id="fn_66"></span>[83:1](dbn10.htm#fr_66) Ratzel: *History of
+<span id="fn_66"></span>[83:1](dbn10.htm#fr_66.md) Ratzel: *History of
 Mankind*, II, 313.
 
-<span id="fn_67"></span>[83:2](dbn10.htm#fr_67) Atlanta University
+<span id="fn_67"></span>[83:2](dbn10.htm#fr_67.md) Atlanta University
 Publications, No. 11.
 
-<span id="fn_68"></span>[84:1](dbn10.htm#fr_68) Robert Lowie in the *New
+<span id="fn_68"></span>[84:1](dbn10.htm#fr_68.md) Robert Lowie in the *New
 Review*, Sept., 1914.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Trade in Men](dbn11)
+[Next: IX. The Trade in Men](dbn11.md)
 
 </div>

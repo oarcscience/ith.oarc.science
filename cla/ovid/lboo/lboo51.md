@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Previous](lboo50)  [Next](lboo52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Previous](lboo50)  [Next](lboo52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ ossa quieta, precor, tuta requiescite in urna,<br />
 ------------------------------------------------------------------------
 
 [Next: Elegy X: He Complains To Ceres That, During Her Festival, He Is
-Not Suffered To Share His Mistress' Couch.](lboo52)
+Not Suffered To Share His Mistress' Couch.](lboo52.md)

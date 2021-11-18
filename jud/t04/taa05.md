@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](taa04)  [Next](taa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](taa04)  [Next](taa06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
 ###### OF
 
-# VOLUME VIII.--TRACT TAANITH. <span id="fr_1"></span>[1](#fn_1)
+# VOLUME VIII.--TRACT TAANITH. <span id="fr_1"></span>[1](#fn_1.md)
 
 ### CHAPTER I.
 
@@ -25,7 +25,7 @@ rain in the prayer on the days of Tabernacles. Whence do we know that
 mention must be made. Who of the readers shall mention it on the feast
 of Passover. Must one repeat his prayer if he made no mention? Three men
 prayed to God for things that were not suitable. The congregation of
-Israel also prayed for an improper thing, [1](taa06.htm#page_1)-7
+Israel also prayed for an improper thing, [1](taa06.htm#page_1.md)-7
 
 MISHNA II. Till what time is the rain to be prayed for. What was eaten
 during the seven years of famine \[II Kings, viii.\] Jacob, our father,
@@ -38,7 +38,7 @@ pp. 18, 19). When there are famine and pestilence what shall be prayed
 for? The explanation of the passage "thou shalt truly tithe." When Aaron
 died the pillar of cloud left, etc. What happened to the disciples of
 Rabha when he died? About the measurements of the Gehenna and the Garden
-of Eden, [7](taa06.htm#page_7)-24
+of Eden, [7](taa06.htm#page_7.md)-24
 
 MISHNAS III. to V. From what time in fall must rain be prayed and fasted
 for if it has not descended? The punishment of one who leaves the
@@ -48,7 +48,7 @@ fast of hours considered? Until what time may food be partaken of on the
 day preceding the fast? If fast-days pass without answer, what shall be
 done? What would the elders do when they assembled in the morning? The
 query to Rabbi by the inhabitants of Nineveh. Not every one has a right
-to rend his clothes (when praying), [24](taa06.htm#page_24)-35
+to rend his clothes (when praying), [24](taa06.htm#page_24.md)-35
 
 ### CHAPTER II.
 
@@ -63,7 +63,7 @@ strewn on the heads of all? Who has a right to address the congregation?
 What the reader has to say to each benediction. The strife carried on
 between the Pharisees and Bathusees concerning the continual daily
 offering (see footnote, p. 44), Has one to complete his fast if rain
-descends? [36](taa07.htm#page_36)-46
+descends? [36](taa07.htm#page_36.md)-46
 
 ### CHAPTER III.
 
@@ -91,7 +91,7 @@ Amoraim who have prayed for rain that were or were not answered. The
 legend at length of Hanina b. Dosa, his wife, etc. How much rain should
 fall in order that the congregation should stop fasting? What happened
 with Samuel the Little when he ordered a fast,
-[46](taa07.htm#page_46)-77
+[46](taa07.htm#page_46.md)-77
 
 ### CHAPTER IV.
 
@@ -103,7 +103,7 @@ of the ninth of Ab. The festivals of the fifteenth of Ab and the Day of
 Atonement. The twenty-four watches which were in the land of Israel. How
 many watches were established by Moses, and how many by David. What did
 the men of the watches pray for? Who were the Gonebe Eli and Kotze
-Ketzioth (see note, [p. 84](taa09.htm#page_84))? Who were the family of
+Ketzioth (see note, [p. 84](taa09.htm#page_84).md)? Who were the family of
 Pa'hath Moab ben Jehudah, etc.? Whence do we know that the five
 calamities have happened on the seventeenth of Tamuz? Whence do we know
 that the second Temple was also burned on the ninth of Ab? Also that the
@@ -113,16 +113,16 @@ applicable to the ninth of Ab? The custom of Jehudah bar Ilai on the
 night preceding the ninth of Ab. What occurrence makes the fifteenth of
 Ab a festival? What Elazar has to say about the ring of righteousness
 that the Holy One, blessed be He, will make in the future in the Garden
-of Eden, [78](taa09.htm#page_78)-92
+of Eden, [78](taa09.htm#page_78.md)-92
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[xiii:1](taa05.htm#fr_1) See introduction to
+<span id="fn_1"></span>[xiii:1](taa05.htm#fr_1.md) See introduction to
 synopsis in Tract Sabbath, Vol. I., p. xxix.; also note at end of
 synopsis in Vol. V.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](taa06)
+[Next: Chapter I](taa06.md)

@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Celtic
-Fairies](../../celt/index.htm#fairies)  [Index](index) 
-[Previous](cof04)  [Next](cof06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md)  [Celtic
+Fairies](../../celt/index.htm#fairies)  [Index](index.md) 
+[Previous](cof04)  [Next](cof06.md) 
 
 ------------------------------------------------------------------------
 
@@ -218,19 +218,19 @@ The lengthy journey completed, I reached
 
 [![ELSIE IN 1920, STANDING NEAR WHERE THE GNOME WAS TAKEN IN
 1917](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 ELSIE IN 1920, STANDING NEAR WHERE THE GNOME WAS TAKEN IN 1917  
 
 <span id="img_04801"></span>
 
 [![FRANCES IN 1920](tn/04801.jpg)  
-Click to enlarge](img/04801.jpg)  
+Click to enlarge](img/04801.jpg.md)  
 FRANCES IN 1920  
 
 <span id="img_04900"></span>
 
 [![A. FRANCES AND THE FAIRIES](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 A. FRANCES AND THE FAIRIES  
 
 Photograph taken by Elsie. Bright sunny day in July, 1917. The "Midg"
@@ -465,4 +465,4 @@ in the affairs of man, and we can but trust and follow.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Reception of the First Photographs](cof06)
+[Next: Chapter III. Reception of the First Photographs](cof06.md)

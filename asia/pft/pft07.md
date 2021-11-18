@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft06)  [Next](pft08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft06)  [Next](pft08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,12 +25,12 @@ was in the room above, and said: "Come, Aponibolinayen, let us go to the
 field and plant some sugar-cane."
 
 So Aponibolinayen came down out of the house with a bamboo tube,  <span
-id="fr_41"></span>[42](pft68.htm#fn_41) and while she went to the spring
+id="fr_41"></span>[42](pft68.htm#fn_41.md) and while she went to the spring
 to fill it with water, Aponitolau made some cuttings, and they went
 together to the field, which was some distance from the house.
 
 Aponitolau loosened the earth with his long stick  <span
-id="fr_42"></span>[43](pft68.htm#fn_42) and set out the cuttings he had
+id="fr_42"></span>[43](pft68.htm#fn_42.md) and set out the cuttings he had
 brought, while his wife sprinkled them with water from the bamboo tube.
 And when they had filled the field, they returned home, happy to think
 of the splendid cane they should have.
@@ -99,7 +99,7 @@ companions of the beautiful girl, they may eat me."
 
 With a great effort he jumped up and frightened the stars till they all
 flew up, and when the pretty girl came looking for her dress she found
-Aponitolau sitting on it.  <span id="fr_43"></span>[44](pft68.htm#fn_43)
+Aponitolau sitting on it.  <span id="fr_43"></span>[44](pft68.htm#fn_43.md)
 "You must forgive us," she said, "for your sugar-cane is very sweet, and
 we wanted some to chew."
 
@@ -108,7 +108,7 @@ must tell our names according to our custom, for it is bad for us to
 talk until we know each other's names."
 
 Then he gave her some betel-nut and they chewed together,  <span
-id="fr_44"></span>[45](pft68.htm#fn_44) and he said:
+id="fr_44"></span>[45](pft68.htm#fn_44.md) and he said:
 
 "Now it is our custom to tell our names."
 
@@ -142,7 +142,7 @@ ventured to tell Gaygayoma of his wish to return to the earth.
 
 At first she would not listen to him, but he pleaded so hard that at
 last she consented to let him go for one moon  <span
-id="fr_45"></span>[46](pft68.htm#fn_45). If he did not return at the end
+id="fr_45"></span>[46](pft68.htm#fn_45.md). If he did not return at the end
 of that time, she said, she would send the stars to eat him. Then she
 called for the basket again, and they were lowered to the earth. There
 Aponitolau got out, but Gaygayoma and the baby returned to the sky.
@@ -200,4 +200,4 @@ the sky.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Dumalawi](pft08)
+[Next: The Story of Dumalawi](pft08.md)

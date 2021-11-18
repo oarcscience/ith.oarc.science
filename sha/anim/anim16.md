@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim15)  [Next](anim17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim15)  [Next](anim17.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ reascend from "The Land of No-Return."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Worship](anim17)
+[Next: Chapter XV. Worship](anim17.md)

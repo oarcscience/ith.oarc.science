@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu05)  [Next](cbu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu05)  [Next](cbu07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -54,16 +54,16 @@ fictitious Buddha, who received him as his disciple, and foretold that
 he would in a subsequent kalpa become Buddha, and bear the name by which
 he is now known. The time when this happened was too long ago to be
 expressed by common Chinese numerals. It was at a distance of numberless
-kalpas. <span id="fr_11"></span>[1](#fn_11) In modern Chinese temples,
+kalpas. <span id="fr_11"></span>[1](#fn_11.md) In modern Chinese temples,
 an image behind that of Julai sometimes represents Janteng. In the kalpa
 immediately preceding the present, Shakya is said to have risen to the
 rank of Bodhisattwa. He was then born in the heaven called
-Tushita, <span id="fr_12"></span>[2](#fn_12) and when the time was come
+Tushita, <span id="fr_12"></span>[2](#fn_12.md) and when the time was come
 his soul descended to our world. He came on a white elephant having six
 tusks. The date of Shakya's birth is very variously given. The Siamese,
 Peguans, and Singhalese, all using the Pali versions of the Buddhist
 classics, differ among themselves. The numbers as stated by them are
-B.C. 744, 638, and 624. <span id="fr_13"></span>[3](#fn_13) The Chinese
+B.C. 744, 638, and 624. <span id="fr_13"></span>[3](#fn_13.md) The Chinese
 historian, Ma Twan-lin, mentions two dates as assigned by various
 authorities to this event, viz., 1027 and 668. The former is what is
 commonly given in Chinese books. Burnouf rightly prefers the chronology
@@ -92,7 +92,7 @@ led to a designed altering of dates by the Northern or Southern school
 of Buddhism. The deception was an elaborate one, by whichever party it
 was practised, for the interval from the death of Buddha until modern
 times is in the writings of both schools filled up by a series of events
-and dates. <span id="fr_14"></span>[1](#fn_14) The lives of some of the
+and dates. <span id="fr_14"></span>[1](#fn_14.md) The lives of some of the
 patriarchs, as given in Chinese books, appear too long. Ananda, a
 favourite disciple of Buddha, is made to die eighty-three years after
 him. Of his successors in the office of patriarch, the first two held it
@@ -104,7 +104,7 @@ the most convincing argument for the claim of the Pali to be that which
 was spoken by Buddha himself, is that the ascertained interval between
 him and Ashôka is too short for the formation of a new language.
 
-The work called *San-kiau-yi-su* <span id="fr_15"></span>[2](#fn_15)
+The work called *San-kiau-yi-su* <span id="fr_15"></span>[2](#fn_15.md)
 places the Buddha called Shakyamuni in the seventh place among those
 whom
 
@@ -359,7 +359,7 @@ He is one of the fabulous Bodhisattwas. Manjusiri, another, follows hit.
 
 The scene is then suddenly changed to the paradises of the Devas. Indra
 receives Buddha in one of his palaces <span
-id="fr_16"></span>[1](#fn_16)
+id="fr_16"></span>[1](#fn_16.md)
 
 <span id="page_21">p. 21</span>
 
@@ -395,7 +395,7 @@ intended rather for developing the mythology of the great Bodhisattwas.
 As such, it is highly valued in China, where the images of Wen-shu
 (Manjusiri) and P‘u-hien are common in the temples. P‘u-hien in one
 speech mentions China under the name Chen-tan, <span
-id="fr_17"></span>[1](#fn_17) as a
+id="fr_17"></span>[1](#fn_17.md) as a
 
 <span id="page_22">p. 22</span>
 
@@ -425,7 +425,7 @@ perfect knowledge. Before he has reached the height of wisdom, I will go
 and trouble him." He went with bow and arrows, and attendant demons, to
 the tree where the object of his attack was sitting. He then addressed
 him—"Bodhisattwa! give up the monastic principle (*c‘hu-kia fa*), and
-become a 'wheel king.' <span id="fr_18"></span>[1](#fn_18) If you rise
+become a 'wheel king.' <span id="fr_18"></span>[1](#fn_18.md) If you rise
 not, I will shoot my darts at you." The Bodhisattwa was unmoved. The
 darts, as they fell, became lotus flowers. The king of the Maras then
 offered him his three daughters to attend on him. Shakyamuni said, "You
@@ -453,7 +453,7 @@ respect." The king of the Maras then returned to his palace.
 It was on the seventh day of the second month that Shakyamuni, after
 this victory, attained the rank of Buddha. This is described as entering
 into a state of reverie, emitting a bright light, and reflecting on the
-four modes of truth. <span id="fr_19"></span>[1](#fn_19) It is added,
+four modes of truth. <span id="fr_19"></span>[1](#fn_19.md) It is added,
 that he comes to the complete knowledge of the unreality of all he once
 knew as good and evil acting, long and short life, and the five paths of
 the metempsychosis, leading all living beings into a perpetual
@@ -560,26 +560,26 @@ weeks may be observed.
 
 ### Footnotes
 
-<span id="fn_11"></span>[12:1](cbu06.htm#fr_11) *A-send-gi-kap*. The
+<span id="fn_11"></span>[12:1](cbu06.htm#fr_11.md) *A-send-gi-kap*. The
 Sanscrit word *Asankhyâ* means "innumerable." *Kalpa* is applied to
 periods of time varying from a few hundreds to many thousand years.
 
-<span id="fn_12"></span>[12:2](cbu06.htm#fr_12) Tushita now pronounced
+<span id="fn_12"></span>[12:2](cbu06.htm#fr_12.md) Tushita now pronounced
 *Tushïto*.
 
-<span id="fn_13"></span>[12:3](cbu06.htm#fr_13) See Klaproth's *Life of
+<span id="fn_13"></span>[12:3](cbu06.htm#fr_13.md) See Klaproth's *Life of
 Buddha*, and Turnour's *Examination of the Pali Buddhistical Annals*.
 
-<span id="fn_14"></span>[13:1](cbu06.htm#fr_14) The suggestion of
+<span id="fn_14"></span>[13:1](cbu06.htm#fr_14.md) The suggestion of
 Turnour to account for the sixty-five years discrepancy of the
 Singhalese and Greek dates is, that dates were altered to reconcile
 Buddha's prophecies with facto. This throws light on the design of the
 Northern Buddhists in antedating Buddha's birth by 447 years.
 
-<span id="fn_15"></span>[13:2](cbu06.htm#fr_15) *San-kiau-yi-su*,
+<span id="fn_15"></span>[13:2](cbu06.htm#fr_15.md) *San-kiau-yi-su*,
 "Supplementary account of the three religions."
 
-<span id="fn_16"></span>[20:1](cbu06.htm#fr_16) The *Tau-li-t‘ien*, or
+<span id="fn_16"></span>[20:1](cbu06.htm#fr_16.md) The *Tau-li-t‘ien*, or
 "Heaven of the number 33;" in Sanscrit, *Triyastrimsas*. Sumeru is
 probably Elburz, an isolated mountain of the Caucasus range, 18,000 feet
 in height, and surrounded by low ground. The syllable *su*, like *el*,
@@ -588,16 +588,16 @@ forming its legends of the Deva worlds in their first form, must have
 lived in the vicinity of the Caucasus. *Su* = *El;* *Me* = *Bu;* *Ru* =
 *r*.
 
-<span id="fn_17"></span>[21:1](cbu06.htm#fr_17) *Hwa-yen-king*, chap.
+<span id="fn_17"></span>[21:1](cbu06.htm#fr_17.md) *Hwa-yen-king*, chap.
 xxvi. *Tan* means "country," as in Hindostan, Afghanistan.
 
-<span id="fn_18"></span>[22:1](cbu06.htm#fr_18) A king who rules the
+<span id="fn_18"></span>[22:1](cbu06.htm#fr_18.md) A king who rules the
 world, and causes the wheel of doctrine everywhere to revolve. The great
 Ashôka was a wheel king. The word is *Chakravarti* in Sanscrit, from
 *Chakra*, "wheel," the symbol of activity, whether of Buddha in
 preaching, or of kings like Ashôka in ruling.
 
-<span id="fn_19"></span>[23:1](cbu06.htm#fr_19) These are, *Ku*,
+<span id="fn_19"></span>[23:1](cbu06.htm#fr_19.md) These are, *Ku*,
 "misery," *Tsi*, "assembling," *Mie*, "destruction," and *Tau*, "the
 path," consisting in knowledge of misery, truth, and oppressive
 restraints, the need of separation from the ties of passion, the
@@ -607,4 +607,4 @@ regards the practical Buddhist life.
 ------------------------------------------------------------------------
 
 [Next: Chapter II: Life of Buddha From His Appearance as a Teacher at
-Benares to the Conversion of Rahula](cbu07)
+Benares to the Conversion of Rahula](cbu07.md)

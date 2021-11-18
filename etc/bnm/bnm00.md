@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Next](bnm01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Next](bnm01.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](bnm01)
+[Next: Preface](bnm01.md)

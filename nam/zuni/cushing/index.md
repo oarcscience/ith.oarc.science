@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Southwest](../../sw/index)  [Zuñi](../index) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Southwest](../../sw/index)  [Zuñi](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,24 +24,24 @@ Zuñi religion.
 
 ------------------------------------------------------------------------
 
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Zuñi Folk
-Tales](../zft/index) \[1901\] This is a superb collection of Zuñi folk
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Zuñi Folk
+Tales](../zft/index.md) \[1901\] This is a superb collection of Zuñi folk
 tales.
 
 This is a selection of excerpts from his writings.
 
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Outline of Zuñi
-Mytho-Sociologic Organization](cush00)
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Zuñi
-Fetiches](cush01) [<img src="../../../img/buycd.jpg" height="20" />](#)
-[Remarks on Shamanism](cush02)
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Form *and* Form
-and the Dance Drama](cush03)
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Corn Raising: The
-Decay of the Seed](cush04)
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Corn Raising: The
-Regeneration of the Seed](cush05)
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Clowns, Priests,
-and Festivals of the Kâ'-kâ](cush06)
-[<img src="../../../img/buycd.jpg" height="20" />](#) [Creation and the
-Origin of Corn](cush07)
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Outline of Zuñi
+Mytho-Sociologic Organization](cush00.md)
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Zuñi
+Fetiches](cush01) [<img src="../../../img/buycd.jpg" height="20" />](#.md)
+[Remarks on Shamanism](cush02.md)
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Form *and* Form
+and the Dance Drama](cush03.md)
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Corn Raising: The
+Decay of the Seed](cush04.md)
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Corn Raising: The
+Regeneration of the Seed](cush05.md)
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Clowns, Priests,
+and Festivals of the Kâ'-kâ](cush06.md)
+[<img src="../../../img/buycd.jpg" height="20" />](#.md) [Creation and the
+Origin of Corn](cush07.md)

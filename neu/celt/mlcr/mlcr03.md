@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mlcr02)  [Next](mlcr04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mlcr02)  [Next](mlcr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -1804,4 +1804,4 @@ detestation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Early Milesian Kings](mlcr04)
+[Next: Chapter IV: The Early Milesian Kings](mlcr04.md)

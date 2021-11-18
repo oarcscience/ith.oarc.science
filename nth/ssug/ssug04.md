@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssug03)  [Next](ssug05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssug03)  [Next](ssug05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Self-Suggestion and the New Huna Theory of Mesmerism and Hypnosis*, by
 Max Freedom Long, \[1958\], at Intangible Textual Heritage
 
@@ -161,7 +161,7 @@ tangle, or a starting point for controversy.
 With interest in autosuggestion and hypnosis beginning to grow as early
 as the year 1948, there had been offered several correspondence courses,
 some of them of the inexpensive "catch penny" kind, and a few laid out
-most [elaborately](errata.htm#1), often with the coining of a new
+most [elaborately](errata.htm#1.md), often with the coining of a new
 vocabulary of psychological terms. Some one of the several popular
 theories purporting to explain suggestion was usually given with
 arguments to support it.
@@ -277,4 +277,4 @@ after we have learned why each step is to be taken.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](ssug05)
+[Next: Chapter 4](ssug05.md)

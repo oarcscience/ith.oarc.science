@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](pe1)  [Next](jo1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](pe1)  [Next](jo1.md) 
 
 ------------------------------------------------------------------------
 
@@ -244,4 +244,4 @@ dicsõség, mind most, mind örökkön-örökké. Ámen.
 
 ------------------------------------------------------------------------
 
-[Next: 1 John](jo1)
+[Next: 1 John](jo1.md)

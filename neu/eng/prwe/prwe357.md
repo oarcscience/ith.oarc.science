@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe356)  [Next](prwe358) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe356)  [Next](prwe358.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ graves," &c.
 
 ------------------------------------------------------------------------
 
-[Next: Peculiar Words and Phrases](prwe358)
+[Next: Peculiar Words and Phrases](prwe358.md)

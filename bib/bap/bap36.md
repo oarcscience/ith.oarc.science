@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap35) 
-[Next](bap37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap35.md) 
+[Next](bap37.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ therefore he took his
 power from you and subdued you. And now arise and set Your heart to walk
 in the ways of your Lord and he shall direct you.
 
-5\.  <span id="fr_93"></span>[1](#fn_93) And the people said unto him:
+5\.  <span id="fr_93"></span>[1](#fn_93.md) And the people said unto him:
 Lo, this day see we that which Eldad and Modat prophesied in the days of
 Moses, saying: After that Moses resteth, the captainship of Moses shall
 be given unto Jesus the son of Naue. And Moses was not envious, but
@@ -86,7 +86,7 @@ for the sake of three persons, that is, the well of the water of Mara
 for Maria's sake, and the pillar of cloud for Aaron's sake, and the
 manna for the sake of Moses. And when these three came to an end, those
 three gifts were taken away from them. <span
-id="fr_94"></span>[1](#fn_94)
+id="fr_94"></span>[1](#fn_94.md)
 
 9\. Now the people and Jesus fought against the Amorites, and when the
 battle waxed strong against their enemies throughout all the days of
@@ -109,16 +109,16 @@ Jesus blessed him, and did so.
 
 ### Footnotes
 
-<span id="fn_93"></span>[134:1](bap36.htm#fr_93) XX. 5. The Targum, and
+<span id="fn_93"></span>[134:1](bap36.htm#fr_93.md) XX. 5. The Targum, and
 a Midrash quoted by Cohn, p. 320, say that Eldad and Medad, according to
 some, prophesied that Moses should die and Joshua should lead Israel
 into the Promised Land.
 
-<span id="fn_94"></span>[135:1](bap36.htm#fr_94) 8. In the same way Cohn
+<span id="fn_94"></span>[135:1](bap36.htm#fr_94.md) 8. In the same way Cohn
 cites Midrashim (*Seder Olam Rabbah*, etc.) which agree exactly with
 *Philo* as to the withdrawal of the three heavenly gifts. The Babylonian
 Talmud (*Taanith* 1, Rodkinson, p. 22) has the same story.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI](bap37)
+[Next: Chapter XXI](bap37.md)

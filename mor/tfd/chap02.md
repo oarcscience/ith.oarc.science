@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap01) [Next](chap03)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap01) [Next](chap03.md)
 
 ------------------------------------------------------------------------
 
@@ -253,4 +253,4 @@ papers in one morning.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Pilgrims to a Modern Zion](chap03)
+[Next: Chapter III: Pilgrims to a Modern Zion](chap03.md)

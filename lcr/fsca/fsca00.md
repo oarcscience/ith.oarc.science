@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Next](fsca01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Next](fsca01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ at Intangible Textual Heritage
 
 ###### MEMBER OF THE ROYAL IRISH ACADEMY, FELLOW OF THE ROYAL SOCIETY OF ANTIQUARIES OF IRELAND, A VICE-PRESIDENT OF THE EX-LIBRIS SOCIETY
 
-<span id="img_front"></span> ![ST. GEORGE AND THE DRAGON](img/front.jpg)
+<span id="img_front"></span> ![ST. GEORGE AND THE DRAGON](img/front.jpg.md)
 
 ### ILLUSTRATED
 
@@ -42,10 +42,10 @@ it was published prior to 1923.
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Preface](fsca01)
+[Next: Preface](fsca01.md)

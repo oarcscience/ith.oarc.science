@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos26)  [Next](gbos28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos26)  [Next](gbos28.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ All sit as Witches, and invite High Priestess to join them.
 
 ------------------------------------------------------------------------
 
-[Next: The Sabbat Rituals: Spring Equinox](gbos28)
+[Next: The Sabbat Rituals: Spring Equinox](gbos28.md)

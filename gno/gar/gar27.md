@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar26)  [Next](gar28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar26)  [Next](gar28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -123,7 +123,7 @@ Thus upon one gem we behold him holding forth in his bony hand the
 *lecythus* (long, pointed vase of oil), that regularly accompanied every
 Greek interment, whilst he leans with his elbow against a huge *amphora*
 of wine, as though recommending the enjoyment of its contents whilst yet
-in one's power. <span id="fr_89"></span>[\*](#fn_88) Another, a more
+in one's power. <span id="fr_89"></span>[\*](#fn_88.md) Another, a more
 fanciful composition, depicts Cupid casting the light of his torch into
 the depths of an immense Corinthian *crater* out of which a skeleton is
 throwing himself headlong, as though scared away by the hateful glare--a
@@ -133,7 +133,7 @@ foregoing
 <span id="page_182">p. 182</span>
 
 remarks ('Impronte Gemmarie,' ii. 10, 11). <span
-id="fr_90"></span>[\*](#fn_89) A skeleton, likewise, was often painted
+id="fr_90"></span>[\*](#fn_89.md) A skeleton, likewise, was often painted
 on the wall of tombs; for example, in that pathetic scene at Pompeii,
 where a mother is represented laying a mortuary fillet over the bones of
 her child. In all these cases the form is merely intended to symbolise
@@ -195,7 +195,7 @@ observed that in the most ancient monument of Greek sculpture whereof
 any account remains--the Coffer of Cypselus (executed earlier than 600
 B.C.)--*Night* was represented carrying in her arms two children, alike
 in all respects save colour; the one white, the other black, having
-their *legs crossed*: <span id="fr_91"></span>[\*](#fn_90) their names
+their *legs crossed*: <span id="fr_91"></span>[\*](#fn_90.md) their names
 being inscribed over them--*Sleep* and *Death*--for their mother was
 hastening to the aid of the expiring Memnon. Thus it is manifest that
 from the very dawn of pictorial art the crossed legs were the accepted
@@ -211,7 +211,7 @@ Cleopatra," the object of the design is indicated with equal truth and
 pathos by the placing of the beauteous infant genius at the knee of the
 dying queen, on which he rests his elbow to form a support for his head
 as though dropping off into a gentle slumber. The traditional
-attitude <span id="fr_92"></span>[\*](#fn_91) retained its significancy
+attitude <span id="fr_92"></span>[\*](#fn_91.md) retained its significancy
 well understood far down into the Middle Ages: witness so many
 cross-legged effigies of warriors resting from their toils--who for that
 sole reason popularly pass for crusaders.
@@ -219,13 +219,13 @@ sole reason popularly pass for crusaders.
 But in the whole long catalogue of emblems, not one expressed the
 *abstract* idea so definitely as that most frequently employed in such
 sense--the Gorgon's Head. Accepting the explanation already offered ([p.
-167](gar24.htm#page_167)), that at its origin this terrific visage was
+167](gar24.htm#page_167).md), that at its origin this terrific visage was
 designed for the "vera effigies" of the Queen of the dead, it was the
 most speaking emblem of her office that could possibly be chosen. In the
 Heroic ages it was universally *painted*, or embossed upon the warrior's
 shield; and with the progress of art, cut in cameo, became the regular
 decoration of the imperial breastplate; <span
-id="fr_93"></span>[†](#fn_92) in which post it served, as Lucian remarks
+id="fr_93"></span>[†](#fn_92.md) in which post it served, as Lucian remarks
 ('Philopatris'), "both to terrify enemies and to avert all danger from
 the wearer," conveying to all beholders the menace of death exactly as
 now by an un designed coincidence does the death's head and cross-bones
@@ -260,7 +260,7 @@ of death. Horace's simile must occur to every reader:--
 
 On this account the Foot became the peculiar attribute of the infernal
 deities; and the figure of one carved in stone was often dedicated in
-the temple of Serapis <span id="fr_94"></span>[\*](#fn_93)--apparently
+the temple of Serapis <span id="fr_94"></span>[\*](#fn_93.md)--apparently
 as an *ex voto* commemorating the donor's escape from the very threshold
 of his dark domain. Singularly related to this custom is what Moor
 notices of the pairs of feet carved in stone commonly seen in the
@@ -320,7 +320,7 @@ the inauspicious nature of the subject (so conspicuously set forth in
 Suetonius’ anecdote of the ring with the story presented by Sporus to
 Nero for a New Year's gift) has completely excluded it from the artist's
 repertory, so far as anything now remaining informs us. Stosch's
-Collection, amongst its immense [variety](errata.htm#10) of mythological
+Collection, amongst its immense [variety](errata.htm#10.md) of mythological
 designs, contains nothing of the sort, whilst Raspe gives for its
 representative only a single antique paste (and that, too, of very
 dubious attribution) where a god with quiver on shoulder is carrying off
@@ -334,7 +334,7 @@ from the same root as *death*), there was the best of reasons for
 excluding him from the province of art which admitted nought that was
 hideous or of evil augury. For there can be no doubt, that, to the
 popular imagination, he still continued the *Charun*, <span
-id="fr_95"></span>[\*](#fn_94) whom we still behold lording it over the
+id="fr_95"></span>[\*](#fn_94.md) whom we still behold lording it over the
 sepulchres of their Etruscan teachers in the arts, a giant of horrid
 aspect with pointed ears, and frisky grinning jaws, winged buskins on
 legs, extending with one hand a hissing serpent, with the other wielding
@@ -413,7 +413,7 @@ the *head* only of the woman. Inasmuch as the name signifies
 death, which acceptation explains why she is often represented armed
 with a sword, or carrying on her shoulder the funeral *lecythus*, and
 torch. For the same reason the Harpy holds a conspicuous place in the
-decorations of many ancient tombs, [unless](errata.htm#11), indeed, the
+decorations of many ancient tombs, [unless](errata.htm#11.md), indeed, the
 emblem may have been used there in its Egyptian sense.
 
 In what shape Death was personified by Euripides, in his Alcestis,
@@ -443,7 +443,7 @@ This last word can apply to nothing but the Harpy, of whom *claws* were
 the distinctive attribute:--
 
 "*Unguibus* ire parat nummos raptura Celæno." <span
-id="fr_96"></span>[\*](#fn_95)
+id="fr_96"></span>[\*](#fn_95.md)
 
 Nevertheless, a representation like this had in it nothing grotesque or
 offensive to the Athenian eye. Far different was the Pelasgic Κῆρ,
@@ -468,12 +468,12 @@ shrine to shrine.
 
 ### Footnotes
 
-<span id="fn_88"></span>[181:\*](gar27.htm#fr_89) Exactly the same
+<span id="fn_88"></span>[181:\*](gar27.htm#fr_89.md) Exactly the same
 lesson is taught by a drinking-cup in the Orléans Museum, the decoration
 of which is a dance of skeletons. (Mém. Soc. Antiq. de France, vol.
 xxxi.)
 
-<span id="fn_89"></span>[182:\*](gar27.htm#fr_90) Such a larva also
+<span id="fn_89"></span>[182:\*](gar27.htm#fr_90.md) Such a larva also
 points the moral of the scene embossed upon a lamp, published by De
 Witte (Mem. Soc. Antiq. de France, 1871), where a philosopher seated,
 and grasping a scroll, is apostrophising a skeleton standing before him;
@@ -481,17 +481,17 @@ at his feet lies an infant in swaddling-clothes. These adjuncts declare
 the subject of the philosopher's meditations--the destiny of Man coin
 birth to death.
 
-<span id="fn_90"></span>[183:\*](gar27.htm#fr_91) διεστραμμένους τοὺς
+<span id="fn_90"></span>[183:\*](gar27.htm#fr_91.md) διεστραμμένους τοὺς
 πόδας. The very obvious meaning of these words critics have contrived to
 misunderstand, and to render as "distorted." Nor is this all; entirely
 upon the authority of this blunder, Propertius "somnia *vana*" have been
 turned into "somnia *vara*," and ever since the whole tribe of Dreams
 are believed to walk bandy-legged.
 
-<span id="fn_91"></span>[184:\*](gar27.htm#fr_92) The child's skeleton
+<span id="fn_91"></span>[184:\*](gar27.htm#fr_92.md) The child's skeleton
 in the Pompeian painting above quoted, similarly folds his feet.
 
-<span id="fn_92"></span>[184:†](gar27.htm#fr_93)
+<span id="fn_92"></span>[184:†](gar27.htm#fr_93.md)
 
 Accipe belligeræ crudum thoraca Minervæ,  
 Ipsa Meduseæ quam timet ira comæ.  
@@ -499,21 +499,21 @@ Dum vacat hæc, Caesar, poterit lorica vocari,
 Pectore cum sacro sederit, Ægis erit.  
               'Mart.' vii. 1.
 
-<span id="fn_93"></span>[185:\*](gar27.htm#fr_94) A colossal example of
+<span id="fn_93"></span>[185:\*](gar27.htm#fr_94.md) A colossal example of
 the finest workmanship was exhumed at Alexandria a few years ago. It may
 have been contemporary with the coin of Commodus from that mint, which
 has for reverse a head of Serapis placed upon a foot for pedestal, with
 the date of his seventh year.
 
-<span id="fn_94"></span>[187:\*](gar27.htm#fr_95) As Etruria was the
+<span id="fn_94"></span>[187:\*](gar27.htm#fr_95.md) As Etruria was the
 only school of art for Rome until very late times, she supplied the
 *figures* equally with the *names* of all the Roman deities.
 
-<span id="fn_95"></span>[190:\*](gar27.htm#fr_96) The same picture must
+<span id="fn_95"></span>[190:\*](gar27.htm#fr_96.md) The same picture must
 have been in Horace's mind when he uses the figure . . . .
 
 "Mors atris circumvolat alis."
 
 ------------------------------------------------------------------------
 
-[Next: Tomb-Treasures](gar28)
+[Next: Tomb-Treasures](gar28.md)

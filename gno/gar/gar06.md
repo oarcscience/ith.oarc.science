@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar05)  [Next](gar07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar05)  [Next](gar07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ often quoted by the Fathers, had been lost ever since the eighth century
 Georgius Syncellus), until Bruce brought back three copies of it from
 Abyssinia. In the canon of that Church it takes its place in the Old
 Testament immediately before the Book of Job. <span
-id="fr_2"></span>[\*](#fn_2)
+id="fr_2"></span>[\*](#fn_2.md)
 
 <span id="page_19">p. 19</span>
 
@@ -74,10 +74,10 @@ the execution of divine vengeance on the angels, conclude the work.
 
  
 
-<span id="img_fig01"></span> ![Fig. 1.](img/fig01.jpg)  
+<span id="img_fig01"></span> ![Fig. 1.](img/fig01.jpg.md)  
 Fig. 1.
 
-[(\*)](gar71.htm#an_fig01)
+[(\*)](gar71.htm#an_fig01.md)
 
  
 
@@ -85,11 +85,11 @@ Fig. 1.
 
 ### Footnotes
 
-<span id="fn_2"></span>[18:\*](gar06.htm#fr_2) An English translation
+<span id="fn_2"></span>[18:\*](gar06.htm#fr_2.md) An English translation
 was made by Dr. Lawrence, Bishop of Cashel, of which the third edition,
 with notes, was published in 1837. The best German translation is that
 of Dillmann, 1857. *Cf*. Schodde *Book of Enoch*, 1882.
 
 ------------------------------------------------------------------------
 
-[Next: Gnosticism in its Beginning](gar07)
+[Next: Gnosticism in its Beginning](gar07.md)

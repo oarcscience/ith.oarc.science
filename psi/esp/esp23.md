@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp22)  [Next](esp24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp22)  [Next](esp24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -17,7 +17,7 @@ Textual Heritage
 
 ### APPENDIX TO CHAPTER 15
 
-#### <span class="smallcaps">Suggestions to Those Who May Care to Repeat These Experiments</span> <span id="fr_102"></span>[1](#fn_102)
+#### <span class="smallcaps">Suggestions to Those Who May Care to Repeat These Experiments</span> <span id="fr_102"></span>[1](#fn_102.md)
 
 It is hoped that others will repeat these experiments or, better still
 perform more advanced ones. Much depends upon the conditions of the
@@ -107,11 +107,11 @@ to.
 
 ### Footnotes
 
-<span id="fn_102"></span>[166:1](esp23.htm#fr_102) The views of Mrs.
+<span id="fn_102"></span>[166:1](esp23.htm#fr_102.md) The views of Mrs.
 Sinclair given in Mental Radio and already mentioned should be read by
 those interested in this phase. See also the abstract and discussion of
 Mrs. Sinclair's report by Dr. Prince, in B.S.P.R. Bulletin XVI.
 
 ------------------------------------------------------------------------
 
-[Next: Second Appendix to Chapter 15.](esp24)
+[Next: Second Appendix to Chapter 15.](esp24.md)

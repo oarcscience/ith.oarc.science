@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [Previous](satl054)  [Next](satl056) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [Previous](satl054)  [Next](satl056.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ palam prostare nudam in nebula linea?
 
 ------------------------------------------------------------------------
 
-[Next: LVI](satl056)
+[Next: LVI](satl056.md)

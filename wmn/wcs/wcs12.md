@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wcs11) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wcs11.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ practical life that the church has become the great materialistic force
 of the century; its ideas of a God, its teachings of a future life all
 falling within the realm of the physical senses; the incorporeal and
 spiritual are lost in the grossest forms of matter.<span
-id="fr_1"></span>[1](#fn_1) Although a body professing to inculcate pure
+id="fr_1"></span>[1](#fn_1.md) Although a body professing to inculcate pure
 spiritual truths, the church teaches **the** grossest form of
 materialism. It asserts principles contradictory to natural laws; it
 presents chaos as the normal condition of the infinite; it bids people
@@ -135,7 +135,7 @@ crime against itself, the church as a sin against heaven. Both church
 and state claiming to be of divine origin have assumed divine right to
 the control of man, also asserting the divine right of man over woman;
 while church and state have thought for man, man has assumed the right
-to think for woman.<span id="fr_2"></span>[2](#fn_2)
+to think for woman.<span id="fr_2"></span>[2](#fn_2.md)
 
     As man under fear of eternal damnation surrendered to the
 irresponsible power of church and state, so woman yielded to that power
@@ -254,7 +254,7 @@ that work; for all demands of equality which make the present a noted
 age in the world's history, have met their greatest opposition from this
 protective spirit. No less than during the darkest period of its history
 does the church still maintain the theory that education<span
-id="fr_3"></span>[3](#fn_3) and public life are not fitting for
+id="fr_3"></span>[3](#fn_3.md) and public life are not fitting for
 woman--indelicate for herself and injurious to the community. During the
 Christian ages, the church has not alone shown cruelty and contempt for
 woman, but has exhibited an impious and insolent disregard of her most
@@ -302,7 +302,7 @@ tortures, burnings, rackings and all the brutalities she has endured in
 the church, the state, the family, under the sanction of Christianity,
 would be incredible had we not the most undeniable evidence of their
 existence, not alone in the past but as shown by the teachings, laws and
-customs of the present time.<span id="fr_4"></span>[4](#fn_4) "She has
+customs of the present time.<span id="fr_4"></span>[4](#fn_4.md) "She has
 suffered under a theology which extended its, rule not only to her civil
 and political relations, but to her most insignificant domestic and
 personal concerns, regulating the commerce of husband and wife, of
@@ -359,7 +359,7 @@ her already vested rights of the ballot, in the former territory, now
 State of Washington, on the Pacific coast, in case of Nevada M. Bloomer
 \[a woman\] against John Wood and others, to have the women of that
 territory deprived of their already existing right of suffrage.<span
-id="fr_5"></span>[5](#fn_5) In line with the general opposition to the
+id="fr_5"></span>[5](#fn_5.md) In line with the general opposition to the
 enfranchisement of woman, men of even the most liberal tendencies
 declare that her political freedom will be used to sustain the church,
 apparently forgetting that man alone has placed the church in power and
@@ -385,12 +385,12 @@ knowledge upon this point is practical. When one has seen a cordon of
 police enforced by the mayor upon the platform, protecting the officers
 of such convention, while its members, standing upon seats, stamped,
 shouted, gesticulated, threatened with revolvers, acting more like
-uncaged wild beasts than like men<span id="fr_6"></span>[6](#fn_6) when
+uncaged wild beasts than like men<span id="fr_6"></span>[6](#fn_6.md) when
 one has witnessed the wildest enthusiasm at the mention of a name, the
 waving of flags, of hats, of handkerchiefs, the shaking of umbrellas,
 chairs, canes, with violent stamping, amid a hubbub of indistinguishable
 voices, all shouting; screaming so loud that people for blocks away are
-roused from slumber<span id="fr_7"></span>[7](#fn_7) in affright of a
+roused from slumber<span id="fr_7"></span>[7](#fn_7.md) in affright of a
 fire, or the approach of an ungovernable mob such objections to woman's
 freedom as her "emotions" fall to their lowest value.
 
@@ -416,7 +416,7 @@ compels her to pay twice the price for the same instructions.
 
     The careful student of history will discover that christianity has
 been of very little value in advancing civilization, but has done a
-great deal toward retarding it.<span id="fr_8"></span>[8](#fn_8)
+great deal toward retarding it.<span id="fr_8"></span>[8](#fn_8.md)
 "Civilization, a recognition of the rights of others at every point of
 contact," has been carried forward by means of rebellion against church
 teaching and church authority. The experience of science is familiar to
@@ -598,12 +598,12 @@ these institutions; its end will be a regenerated world.
 
 <span id="fn_page_526">p. 526</span>  
 
-<span id="fn_1"></span>[1.](#fr_1)  As the resurrection of a material
+<span id="fn_1"></span>[1.](#fr_1.md)  As the resurrection of a material
 body to dwell in a spiritual heaven.
 
 <span id="fn_page_529">p. 529</span>  
 
-<span id="fn_2"></span>[2.](#fr_2)  When a quarter of the human race
+<span id="fn_2"></span>[2.](#fr_2.md)  When a quarter of the human race
 assume to tell me what I must do, I may be too much disheartened by the
 circumstance to see clearly the absurdity of this command. This is the
 condition of women, for whom I have the same compassion that I would
@@ -616,7 +616,7 @@ Emerson*.
 
 <span id="fn_page_533">p. 533</span>  
 
-<span id="fn_3"></span>[3.](#fr_3)  When reading was first taught women
+<span id="fn_3"></span>[3.](#fr_3.md)  When reading was first taught women
 in America, said Dr. Clemence S. Lozier, it was opposed on the ground
 that she would forge her father's or husband's name should she learn to
 read and write. Geography met with like opposition on the ground of its
@@ -627,7 +627,7 @@ country.
 
 <span id="fn_page_535">p. 535</span>  
 
-<span id="fn_4"></span>[4.](#fr_4)  There are hard and ugly facts in
+<span id="fn_4"></span>[4.](#fr_4.md)  There are hard and ugly facts in
 this Christendom of ours, and its history includes the serfdom and
 nihilism of Russia, the drudgery of German women; the wrongs of the
 Irish peasant girl; the 20,000 little English girls sold each year to
@@ -639,7 +639,7 @@ editor.
 
 <span id="fn_page_537">p. 537</span>  
 
-<span id="fn_5"></span>[5.](#fr_5)  This case decided adversely to
+<span id="fn_5"></span>[5.](#fr_5.md)  This case decided adversely to
 woman's right of suffrage by the territorial Supreme Court, was appealed
 to the Supreme Court of the United States, through the efforts of Mr. A.
 S. Austin, a young and energetic attorney of Olympia, the state capital;
@@ -652,15 +652,15 @@ suffrage was constitutional, and that women are citizens.
 
 <span id="fn_page_538">p. 538</span>  
 
-<span id="fn_6"></span>[6.](#fr_6)  At a Democratic State Convention,
+<span id="fn_6"></span>[6.](#fr_6.md)  At a Democratic State Convention,
 Syracuse, N. Y.
 
-<span id="fn_7"></span>[7.](#fr_7)  This was the case at the Republican
+<span id="fn_7"></span>[7.](#fr_7.md)  This was the case at the Republican
 nominating convention, Chicago, 1880.
 
 <span id="fn_page_539">p. 539</span>  
 
-<span id="fn_8"></span>[8.](#fr_8)  The liberty and civilization of the
+<span id="fn_8"></span>[8.](#fr_8.md)  The liberty and civilization of the
 present are nothing else than the fragments of rights which the scaffold
 and stake have wrung from the strong hands of the usurpers.--*Wendell
 Phillips*.

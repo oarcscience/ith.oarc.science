@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf22)  [Next](taf24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf22)  [Next](taf24.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,14 +21,14 @@ and
 <span id="page_96">p. 96</span>
 
 clean in its self-nature; the eternal, the blessed, the self-regulating
-and the pure; <span id="fr_136"></span>[1](#fn_136) the tranquil, the
+and the pure; <span id="fr_136"></span>[1](#fn_136.md) the tranquil, the
 immutable, and the free. And there is no heterogeneity in all those
 Buddha-dharmas which, outnumbering the sands of the Ganges, can be
 neither identical (*ekârtha*) nor not-identical (*nânârtha*) \[with the
 essence of suchness\], and which therefore are out of the range of our
 comprehension. Accordingly suchness is called the Tathâgata's womb
 (*tathâgatagarbha*) or the Dharmakâya. <span
-id="fr_137"></span>[2](#fn_137)
+id="fr_137"></span>[2](#fn_137.md)
 
 It may be questioned: While it was stated before that suchness is devoid
 of all characteristics (*lakshana*), how can it now be said without
@@ -101,21 +101,21 @@ truthfully and adequately the principle of equality (*samatâ*)
 <span id="page_99">p. 99</span>
 
 among people; and do not cling to the individual existence of a sentient
-being. <span id="fr_138"></span>[1](#fn_138)
+being. <span id="fr_138"></span>[1](#fn_138.md)
 
 By virtue of such a great wisdom that works means of emancipation
-(*upâyâjñâ*?), <span id="fr_139"></span>[2](#fn_139) they annihilate
+(*upâyâjñâ*?), <span id="fr_139"></span>[2](#fn_139.md) they annihilate
 ignorance that knows no beginning; recognise the Dharmakâya in its
 original purity; spontaneously perform incomprehensible karma <span
-id="fr_140"></span>[3](#fn_140) as well as various unfettered moral
+id="fr_140"></span>[3](#fn_140.md) as well as various unfettered moral
 activities; manifest themselves throughout the universe (*dharmadhâtu*),
 identify themselves with suchness, and leave no traces of
-compulsion. <span id="fr_141"></span>[4](#fn_141)
+compulsion. <span id="fr_141"></span>[4](#fn_141.md)
 
 And how is this?
 
 Because all Tathâgatas are the Dharmakâya itself, <span
-id="fr_142"></span>[5](#fn_142) are the highest truth
+id="fr_142"></span>[5](#fn_142.md) are the highest truth
 (*paramârthasatya*) itself,
 
 <span id="page_100">p. 100</span>
@@ -138,7 +138,7 @@ evolving-consciousness (*pravrtti-vijñâna*), they imagine that it comes
 from some external sources, and so they give it a corporeal limitation.
 But the Body of Transformation \[or what amounts to the same thing, the
 Dharmakâya\] has nothing to do with limitation and measurement. <span
-id="fr_143"></span>[1](#fn_143)
+id="fr_143"></span>[1](#fn_143.md)
 
 The second aspect \[of the Dharmakâya\] depends on the
 activity-consciousness (*karmavijñâna*) by means of which the activity
@@ -152,15 +152,15 @@ This is called the Body of Bliss (*sambhogakâya*).
 
 The body has infinite forms. The form has infinite attributes. The
 attribute has infinite excellencies. And the accompanying rewards <span
-id="fr_144"></span>[1](#fn_144) of Bodhisattvas, that is, the region
+id="fr_144"></span>[1](#fn_144.md) of Bodhisattvas, that is, the region
 where they are predestined to be born \[by their previous karma\], also
 has infinite merits and ornamentations. Manifesting itself everywhere,
 the Body of Bliss is infinite, boundless, limitless, unintermittent \[in
 its action\], directly coming forth from the mind. <span
-id="fr_145"></span>[2](#fn_145)
+id="fr_145"></span>[2](#fn_145.md)
 
 All these merits being actualised through the perfuming of such spotless
-deeds as the pâramitâs <span id="fr_146"></span>[3](#fn_146), etc., as
+deeds as the pâramitâs <span id="fr_146"></span>[3](#fn_146.md), etc., as
 well as through the incomprehensible perfuming power \[of enlightenment
 *a priori*\], the Sambhogakâya
 
@@ -172,14 +172,14 @@ called the Body of Reward.
 What is recognised by common people (*prthagjana*), etc., is the
 coarsest form of the activity of the Dharmakâya. There is a variety of
 it according to the six different states of creation. <span
-id="fr_147"></span>[1](#fn_147) It has no attributes of infinite merits
+id="fr_147"></span>[1](#fn_147.md) It has no attributes of infinite merits
 and blessings.
 
 What is recognised by Bodhisattvas at the first stage is a finer form of
 the activity of the Dharmakâya. As they firmly believe in suchness, they
 can have a partial insight into it, and understand that the Body of the
 Tathâgata is not departing, is not coming, is free from arrest <span
-id="fr_148"></span>[2](#fn_148) \[i.e., the Tathâgata's work is eternal
+id="fr_148"></span>[2](#fn_148.md) \[i.e., the Tathâgata's work is eternal
 and constant\], that every thing is but a reflected shadow of the mind,
 not independent of suchness. But these Bodhisattvas have not yet freed
 themselves from the finest form of particularisation, because they have
@@ -196,7 +196,7 @@ By the finer form of the activity we understand
 
 the Body of Bliss (*sambhogakâya*). As long as they are possessed by the
 activity-consciousness, they would conceive the Body of Bliss. <span
-id="fr_149"></span>[1](#fn_149) But when they are liberated from it, all
+id="fr_149"></span>[1](#fn_149.md) But when they are liberated from it, all
 traces of individuation would become obliterated. Because all Tathâgatas
 come from \[one and the same\] Dharmakâya, have no distinction of
 this-ness and that-ness, have no corporeal forms that are characterised
@@ -213,14 +213,14 @@ mind (*citta*) from the very beginning are not a duality. So we speak of
 the real nature of matter just constitutes the norm of mind. Again we
 speak of \[the universe as\] a system of materiality (*dharmakâya*),
 seeing that the true nature of mind just constitutes the norm of
-matter. <span id="fr_150"></span>[2](#fn_150)
+matter. <span id="fr_150"></span>[2](#fn_150.md)
 
 Now depending on the Dharmakâya, all Tathâgatas manifest themselves in
 bodily forms and are incessantly
 
 <span id="page_104">p. 104</span>
 
-present at all points of space. <span id="fr_151"></span>[1](#fn_151)
+present at all points of space. <span id="fr_151"></span>[1](#fn_151.md)
 And Bodhisattvas in the ten quarters, according to their capabilities
 and wishes, are able to manifest infinite Bodies of Bliss and infinite
 lands of ornamentation, each one of which, though stamped with the marks
@@ -230,12 +230,12 @@ and this \[mutual fusion\] has no interruption.
 But the manifestation of the Dharmakâya in \[infinite\] bodily forms is
 not comprehensible to the thought and understanding of common-people;
 because it is the free and subtlest activity of suchness. <span
-id="fr_152"></span>[2](#fn_152)
+id="fr_152"></span>[2](#fn_152.md)
 
 Again, in order that all beings might be induced to step forward from
 the gate of birth-and-death to that of suchness, we endeavor to let them
 understand that those modes of existence such as matter (*rûpa*), etc.
-\[i.e., the five skandhas\] <span id="fr_153"></span>[3](#fn_153) are
+\[i.e., the five skandhas\] <span id="fr_153"></span>[3](#fn_153.md) are
 imperfect.
 
 Why are they imperfect?
@@ -256,11 +256,11 @@ however closely scrutinised, does not give any sign of \[indivisible\]
 oneness.
 
 It is even the same with the objects of non-aggregate
-(*asamskrta-dharma*). <span id="fr_154"></span>[1](#fn_154) They cannot
+(*asamskrta-dharma*). <span id="fr_154"></span>[1](#fn_154.md) They cannot
 have their own existence independent of the universe (*dharmadhâtu*). Be
 it therefore understood that the same may be said in regard to all
 objects without exception in the ten quarters of space. <span
-id="fr_155"></span>[2](#fn_155)
+id="fr_155"></span>[2](#fn_155.md)
 
 As a lost man who takes the east for the west,
 
@@ -278,28 +278,28 @@ suchness\], they would then enter into the gate of suchness.
 
 ### Footnotes
 
-<span id="fn_136"></span>[96:1](taf23.htm#fr_136) These four qualities
+<span id="fn_136"></span>[96:1](taf23.htm#fr_136.md) These four qualities
 are usually considered by Mahâyânists to be those of Nirvâna as well.
 
-<span id="fn_137"></span>[96:2](taf23.htm#fr_137) Observe here again
+<span id="fn_137"></span>[96:2](taf23.htm#fr_137.md) Observe here again
 that Dharmakâya is used in a sense quite different from its ordinary
 interpretation as the "Body of the Law."
 
-<span id="fn_138"></span>[99:1](taf23.htm#fr_138) The older translation
+<span id="fn_138"></span>[99:1](taf23.htm#fr_138.md) The older translation
 reads: "For they consider all sentient beings as their own self and do
 not cling to their individual forms. How is this? Because they know
 truthfully that all sentient beings as well as their own self come from
 one and the same suchness, and no distinction can be established among
 them."
 
-<span id="fn_139"></span>[99:2](taf23.htm#fr_139) Cf. the second, third,
+<span id="fn_139"></span>[99:2](taf23.htm#fr_139.md) Cf. the second, third,
 fourth, fifth, and seventh chapter of the Saddharma-pundarîka Sûtra, in
 which Buddha preaches about the means of salvation.
 
-<span id="fn_140"></span>[99:3](taf23.htm#fr_140) That is, "action in
+<span id="fn_140"></span>[99:3](taf23.htm#fr_140.md) That is, "action in
 inaction and inaction in action."
 
-<span id="fn_141"></span>[99:4](taf23.htm#fr_141) Açvaghosha's
+<span id="fn_141"></span>[99:4](taf23.htm#fr_141.md) Açvaghosha's
 conception of religious life as identical in its essence with poetry or
 fine art, I think, closely resembles that of Kant who says in his
 Critique of judgment that the production of fine art should appear as if
@@ -311,29 +311,29 @@ eine Spur zu zeigen, dass die Regel dem Künstler vor Augen geschwebt und
 seinen Gemüthskräften Fesseln angelegt habe." (*Kritik der
 Urtheilskraft*, Kirchmann's edition, p. 169.)
 
-<span id="fn_142"></span>[99:5](taf23.htm#fr_142) Cf. *Vajracchedikâ*,
+<span id="fn_142"></span>[99:5](taf23.htm#fr_142.md) Cf. *Vajracchedikâ*,
 Chap. XVII: "And why, O Subhûti, the <span id="page_100">p. 100</span>
 name of Tathâgata? It expresses true suchness (*bhûtatathatâ*). . . . It
 expresses that he had no origin. . . . It expresses the destruction of
 all qualities (*dharma*). . . . It expresses one who had no origin
 whatever. . . . Because, O Subhûti, no-origin is the highest goal,"
 
-<span id="fn_143"></span>[100:1](taf23.htm#fr_143) The older translation
+<span id="fn_143"></span>[100:1](taf23.htm#fr_143.md) The older translation
 reads simply: "They cannot thoroughly understand it \[i.e., the true
 nature of the *Nirmânakâya*.\]"
 
-<span id="fn_144"></span>[101:1](taf23.htm#fr_144) Buddhists distinguish
+<span id="fn_144"></span>[101:1](taf23.htm#fr_144.md) Buddhists distinguish
 two kinds of the retribution which we receive as the fruit of karma
 previously accumulated by ourselves: the first one called "principal" is
 our bodily existence; the second called "accompanying" is the region
 where we are destined to be born.
 
-<span id="fn_145"></span>[101:2](taf23.htm#fr_145) The older translation
+<span id="fn_145"></span>[101:2](taf23.htm#fr_145.md) The older translation
 has: "It is boundless, cannot be exhausted, is free from the signs of
 limitation. Manifesting itself wherever it should manifest itself, it
 always exists by itself and is never destroyed or lost."
 
-<span id="fn_146"></span>[101:3](taf23.htm#fr_146) The six Pâramitâs are
+<span id="fn_146"></span>[101:3](taf23.htm#fr_146.md) The six Pâramitâs are
 commonly enumerated: (1) charity (*dâna*); (2) morality (*çîla*); (3)
 patience (*ksânti*); (4) energy (*vîrya*); (5) meditation (*dhyâna*);
 (6) wisdom (*prajñâ*). When we speak of the ten Pâramitâs, the following
@@ -341,37 +341,37 @@ four are to be added: expediency (*upâya*); prayer or vow
 (*pranidhâna*); strength (*bala*); knowledge (*jñâna*). An explanation
 of the six Pâramitâs is given below.
 
-<span id="fn_147"></span>[102:1](taf23.htm#fr_147) The six states of
+<span id="fn_147"></span>[102:1](taf23.htm#fr_147.md) The six states of
 creation (*gati*) are: (1) *Deva* (gods); (2) *Manushya* (men); (3)
 *Asura* (demons); (4) *Preta* (ghosts); (5) *Tiryagryoni* (animals); (6)
 *Nâraka* (inhabitants of hell).
 
-<span id="fn_148"></span>[102:2](taf23.htm#fr_148) Cf. the
+<span id="fn_148"></span>[102:2](taf23.htm#fr_148.md) Cf. the
 *Vajracchedikâ Sûtra*, Chap. XXIX (*Sacred Books of the East*, Vol.
 XLIX., p. 142).
 
-<span id="fn_149"></span>[103:1](taf23.htm#fr_149) The last two
+<span id="fn_149"></span>[103:1](taf23.htm#fr_149.md) The last two
 sentences are missing in the older translation.
 
-<span id="fn_150"></span>[103:2](taf23.htm#fr_150) Cf. the following
+<span id="fn_150"></span>[103:2](taf23.htm#fr_150.md) Cf. the following
 passages from the *Prajñâ-pâramitâ-hrdaya Sûtra*: "Form (*rûpa*) is
 emptiness (*çûnyatâ*), and emptiness is indeed form. Emptiness is not
 different from form, form is not different from emptiness. What is form
 that is emptiness, what is emptiness that is form."
 
-<span id="fn_151"></span>[104:1](taf23.htm#fr_151) The older
+<span id="fn_151"></span>[104:1](taf23.htm#fr_151.md) The older
 translation: "Therefore it is preached that the Dharmakâya is
 omnipresent. The corporeal forms by which it manifests itself have no
 limitation."
 
-<span id="fn_152"></span>[104:2](taf23.htm#fr_152) This passage is
+<span id="fn_152"></span>[104:2](taf23.htm#fr_152.md) This passage is
 missing in the older translation.
 
-<span id="fn_153"></span>[104:3](taf23.htm#fr_153) They are matter
-(*rûpa*); sensation (*vedanâ*); idea ([*samjñâ*](errata.htm#9)); action
-(*samskâra*); and consciousness ([*vijñâna*](errata.htm#10)).
+<span id="fn_153"></span>[104:3](taf23.htm#fr_153.md) They are matter
+(*rûpa*); sensation (*vedanâ*); idea ([*samjñâ*](errata.htm#9).md); action
+(*samskâra*); and consciousness ([*vijñâna*](errata.htm#10).md).
 
-<span id="fn_154"></span>[105:1](taf23.htm#fr_154) All phenomena in the
+<span id="fn_154"></span>[105:1](taf23.htm#fr_154.md) All phenomena in the
 world, physical as well as mental, are divided into two great classes:
 (1) *Samskrtadharma*, i.e., that which consists of parts temporal or
 spatial; (2) *Asamskrtadharma*, i.e., that which does not consist of
@@ -388,7 +388,7 @@ namely, relation that obtains among things). As for the second class,
 subdivide it into three. For details see the two Çâstras above
 mentioned.
 
-<span id="fn_155"></span>[105:2](taf23.htm#fr_155) The last five
+<span id="fn_155"></span>[105:2](taf23.htm#fr_155.md) The last five
 paragraphs are missing in the older translation which has simply this
 instead: "The external world which consists in the six objects of sense
 does not exist independently of our mind, and the mind having no forms
@@ -397,4 +397,4 @@ ten quarters."
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Refutation of False Doctrines](taf24)
+[Next: 2. The Refutation of False Doctrines](taf24.md)

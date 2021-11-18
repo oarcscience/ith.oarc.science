@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo23)  [Next](hoo25) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo23)  [Next](hoo25.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ And grant my days a peaceful, blessed end.
 
 ------------------------------------------------------------------------
 
-[Next: XX: To the Clouds](hoo25)
+[Next: XX: To the Clouds](hoo25.md)

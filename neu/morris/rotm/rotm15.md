@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm14)  [Next](rotm16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm14)  [Next](rotm16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -225,6 +225,6 @@ the hunters were gotten back.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Murder Amongst the Folk of the Woodlanders](rotm16)
+[Next: Chapter XV. Murder Amongst the Folk of the Woodlanders](rotm16.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr01) 
-[Next](frr03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Arthur](../eng/index.htm#arthurian)  [Index](index)  [Previous](frr01.md) 
+[Next](frr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Resurrection feature. Relation between defunct heroes and special
 localities. Sanctity possibly antecedent to connection. *Mana* not
 necessarily a case of relics. Self-acting weapons frequent in Medieval
 Romance. Sir J. G. Frazer's theory holds good. Remarks on method and
-design of present Studies. pp. [1](frr04.htm#page_1)-10
+design of present Studies. pp. [1](frr04.htm#page_1.md)-10
 
 ### CHAPTER II
 
@@ -41,7 +41,7 @@ The two inter-dependent. Illness of King entails misfortune on Land.
 Enquiry into nature of King's disability. *Sone de Nansai*. For
 elucidation of problem necessary to bear in mind close connection
 between Land and Ruler. Importance of Waste Land *motif* for criticism.
-pp. [11](frr05.htm#page_11)-22
+pp. [11](frr05.htm#page_11.md)-22
 
 <span id="page_x">p. x</span>
 
@@ -56,7 +56,7 @@ poems and monologues. Professor von Schroeder's theory. *Mysterium und
 Mimus*. *<u>R</u>ishyaç<u>r</u>iñga* drama. Parallels with *Perceval*
 story. Result, the specific task of the Grail hero not a literary
 invention but an inheritance of Aryan tradition. pp.
-[23](frr06.htm#page_23)-31
+[23](frr06.htm#page_23.md)-31
 
 ### CHAPTER IV
 
@@ -79,7 +79,7 @@ general, hence lack of fixity in date. Details of the ritual. Parallels
 with the Grail legend examined. Dead Knight or Disabled King. Consequent
 misfortunes of Land. The Weeping Women. The Hairless Maiden. Position of
 Castle. Summing up. Can incidents of such remote antiquity be used as
-criticism for a Medieval text? pp. [32](frr07.htm#page_32)-48
+criticism for a Medieval text? pp. [32](frr07.htm#page_32.md)-48
 
 ### CHAPTER V
 
@@ -103,7 +103,7 @@ Impossibility of such parallels being fortuitous; the result of
 deliberate intention, not an accident of literary invention. If identity
 of central character be admitted his relation to Waste Land becomes
 fundamental factor in criticizing versions. Another African survival.
-pp. [49](frr08.htm#page_49)-61
+pp. [49](frr08.htm#page_49.md)-61
 
 ### CHAPTER VI
 
@@ -154,7 +154,7 @@ Chalice. Present form shows dislocation. Probability that three groups
 were once a combined whole and Symbols united. Evidence strengthens view
 advanced in last Chapter. Symbols originally a group connected with lost
 form of Fertility Ritual. Possible origin of Grail Knights to be found
-in Sword Dancers. pp. [77](frr10.htm#page_77)-95
+in Sword Dancers. pp. [77](frr10.htm#page_77.md)-95
 
 ### CHAPTER VIII
 
@@ -165,7 +165,7 @@ importance and antiquity. The *Rig-Veda* poem. Classical evidence, Mr F.
 Cornford. Traces of Medicine Man in the Grail romances. Gawain as
 Healer. Persistent tradition. Possible survival from pre-literary form.
 Evidence of the *Triads*. Peredur as Healer. Evolution of theme. *Le
-Dist de l'Erberie*. pp. [96](frr11.htm#page_96)-106
+Dist de l'Erberie*. pp. [96](frr11.htm#page_96.md)-106
 
 ### CHAPTER IX
 
@@ -193,7 +193,7 @@ Cumont. Connection of Fish and Dove. Fish as Fertility Symbol. Its use
 in Marriage ceremonies. Summing up of evidence. Fisher King inexplicable
 from Christian point of view. Folk-lore solution unsatisfactory. As a
 Ritual survival completely in place. Centre of action, and proof of
-soundness of theory. pp. [107](frr12.htm#page_107)-129
+soundness of theory. pp. [107](frr12.htm#page_107.md)-129
 
 ### CHAPTER X
 
@@ -212,7 +212,7 @@ attested form that connected with Nature cults. Attis-Adonis. Popularity
 of the Phrygian cult in Rome. Evidence as to Attis Mysteries. Utilized
 by Neo-Platonists as vehicle for teaching. Close connection with
 Mithraism. The Taurobolium. Details of Attis Mysteries. Parallels with
-the Grail romances. pp. [130](frr13.htm#page_130)-140
+the Grail romances. pp. [130](frr13.htm#page_130.md)-140
 
 ### CHAPTER XI
 
@@ -233,7 +233,7 @@ Christians. Significance of evidence. Vegetation cults as vehicle of
 high spiritual teaching. Exoteric and Esoteric parallels with the Grail
 tradition. Process of evolution sketched. Bleheris. *Perlesvaus*. Borron
 and the Mystery tradition. Christian Legendary, and Folk-tale,
-secondary, not primary, features. pp. [141](frr14.htm#page_141)-154
+secondary, not primary, features. pp. [141](frr14.htm#page_141.md)-154
 
 ### CHAPTER XII
 
@@ -249,7 +249,7 @@ Roman Empire. Cumont's evidence. Traces of cult in British Isles.
 Possible explanation of unorthodox character of Grail legend. Evidence
 of survival of cult in fifth century. The *Elucidation* a possible
 record of historic facts. Reason for connecting Grail with Arthurian
-tradition. pp. [155](frr15.htm#page_155)-164
+tradition. pp. [155](frr15.htm#page_155.md)-164
 
 ### CHAPTER XIII
 
@@ -265,7 +265,7 @@ Britain. Site of remains of Mithra-Attis cults. Traces of Mystery
 tradition in Medieval romance. *Owain Miles*. Bousset, *Himmelfahrt der
 Seele*. Parallels with romance. Appeal to Celtic scholars. Otherworld
 journeys a possible survival of Mystery tradition. The Templars, were
-they Naassenes? pp. [165](frr16.htm#page_165)-177
+they Naassenes? pp. [165](frr16.htm#page_165.md)-177
 
 <span id="page_xv">p. xv</span>
 
@@ -281,10 +281,10 @@ person. Conditions of identity. Mr E. Owen, and Bledri ap Cadivor.
 Evidence not complete but fulfils conditions of problem Professor Singer
 and possible character of Bleheris' text. Mr Alfred Nutt. Irish and
 Welsh parallels. Recapitulation of evolutionary process. Summary and
-conclusion. pp. [178](frr17.htm#page_178)-196
+conclusion. pp. [178](frr17.htm#page_178.md)-196
 
 INDEX pp. 197-202
 
 ------------------------------------------------------------------------
 
-[Next: Quotes](frr03)
+[Next: Quotes](frr03.md)

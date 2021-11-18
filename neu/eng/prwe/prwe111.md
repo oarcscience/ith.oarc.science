@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe110)  [Next](prwe112) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe110)  [Next](prwe112.md) 
 
 ------------------------------------------------------------------------
 
@@ -223,4 +223,4 @@ obdurate matter or thing, and 'hirgurue' is a trumpet." \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: The Suicide's Spearman](prwe112)
+[Next: The Suicide's Spearman](prwe112.md)

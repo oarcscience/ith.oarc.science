@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq56)  [Next](sfq58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq56)  [Next](sfq58.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_26000"></span>
 
 [![](tn/26000.jpg)  
-Click to enlarge](img/26000.jpg)
+Click to enlarge](img/26000.jpg.md)
 
 # The Squire of Low Degree
 
@@ -224,4 +224,4 @@ told him:--
 
 ------------------------------------------------------------------------
 
-[Next: ''For his Friend's Sake''](sfq58)
+[Next: ''For his Friend's Sake''](sfq58.md)

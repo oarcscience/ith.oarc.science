@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas133n)  [Next](jas135n)   
- \[[134. The Pannier-jar.](jas134)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas133n)  [Next](jas135n.md)   
+ \[[134. The Pannier-jar.](jas134.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ JAFL 32: 372, and note for references.
 
 ------------------------------------------------------------------------
 
-[Next: Note 135. Anansi kills his Grandmother.](jas135n)
+[Next: Note 135. Anansi kills his Grandmother.](jas135n.md)

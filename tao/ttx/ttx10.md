@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx09) [Next](ttx11)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx09) [Next](ttx11.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ and when to decline appointments. Thus, abiding in retirement and
 holding fast their principles, they wait for seasonable opportunities;
 and if a proper time arrives, they act. By this policy they are able to
 gain the highest offices in the State;<span
-id="page_96_fr_*"></span>[\*](#page_96_note_*) and when the occasion
+id="page_96_fr_*"></span>[\*](#page_96_note_*.md) and when the occasion
 presents itself, they strike out in some decisive action by which they
 achieve merit such as never had been achieved before. But if the
 opportunity does not offer, they just die when their time comes, and
@@ -255,7 +255,7 @@ Presence do not receive proper consideration from the sovereign, he will
 be lightly esteemed by those of his ministers who are at a distance. If
 you are naturally suspicious, you cannot have confidence in others; but
 if you are of a confiding nature, you will not suspect people.<span
-id="page_100_fr_*"></span>[\*](#page_100_note_*) The depraved have no
+id="page_100_fr_*"></span>[\*](#page_100_note_*.md) The depraved have no
 true friends. A perverted sovereign will have no upright ministers. A
 State in danger has no virtuous man to the front; there are no good men
 under a disorderly government. Those who sincerely love others will
@@ -270,7 +270,7 @@ sparse, no large animal will take up his abode in it. If a mountain is
 high and steep, it will easily fall; if a pool is full of water, it will
 overflow. Those who throw away jade and cling to a common stone, are
 blind. Those who cover up a sheep in a tiger's skin will incur
-ridicule.<span id="page_100_fr_dagger"></span>[†](#page_100_note_dagger)
+ridicule.<span id="page_100_fr_dagger"></span>[†](#page_100_note_dagger.md)
 <span id="page_101">p. 101</span> If you don't hold a coot by the
 collar, you will put it on upside down. If you don't look at the ground
 as you walk, you will fall. If the posts of a house are weak, the rooms
@@ -356,7 +356,7 @@ of the Sung dynasty.
 
 ------------------------------------------------------------------------
 
-[Next](ttx11)
+[Next](ttx11.md)
 
 ------------------------------------------------------------------------
 
@@ -364,19 +364,19 @@ of the Sung dynasty.
 
 <span id="footnotes_page_96">p. 96</span>
 
-<span id="page_96_note_*"></span>[\*](#page_96_fr_*) It must be observed
+<span id="page_96_note_*"></span>[\*](#page_96_fr_*.md) It must be observed
 that the whole bent of this treatise is political; the maxims are
 supposed to be addressed to rulers and sovereigns, to aid them in the
 proper government of their States.
 
 <span id="footnotes_page_100">p. 100</span>
 
-<span id="page_100_note_*"></span>[\*](#page_100_fr_*) Perhaps this
+<span id="page_100_note_*"></span>[\*](#page_100_fr_*.md) Perhaps this
 might be rendered, "If you doubt your*self*, have no confidence in your
 own integrity, you will have no confidence in others:" and so on. The
 text reads \#\#\#.
 
-<span id="page_100_note_dagger"></span>[†](#page_100_fr_dagger)
+<span id="page_100_note_dagger"></span>[†](#page_100_fr_dagger.md)
 Analogous to the idea of a daw in borrowed plumes, or an ass in a lion's
 skin.
 

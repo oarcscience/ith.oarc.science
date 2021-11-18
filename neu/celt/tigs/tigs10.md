@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tigs09)  [Next](tigs11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tigs09)  [Next](tigs11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -151,7 +151,7 @@ studied with the composer himself. This music appealed very much to
 both, and they were excited and enthusiastic over it. Our friend was
 giving many personal reminiscences of Dvorak, and his method of
 explaining the way he wanted his work done. I was sitting by, an
-interested listener, for some time. On [getting](errata.htm#0) up at
+interested listener, for some time. On [getting](errata.htm#0.md) up at
 last, and going into the drawing-room, I was startled and somewhat
 frightened to find a man standing there in a shadowy part of the room. I
 saw him distinctly, and could describe his appearance accurately. I
@@ -334,7 +334,7 @@ down in the demesne, and fell into his field. The woodranger came to him
 and told him he might as well cut up the tree, and take it away.
 Accordingly one day he set out for this purpose, taking with him two men
 and a cart. He got into the fields by a stile, while his men went on to
-a gate. As he [approached](errata.htm#1) a
+a gate. As he [approached](errata.htm#1.md) a
 
 <span id="page_213">p. 213</span>
 
@@ -543,4 +543,4 @@ experiences on the same road.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Legendary and Ancestral Ghosts](tigs11)
+[Next: Chapter IX. Legendary and Ancestral Ghosts](tigs11.md)

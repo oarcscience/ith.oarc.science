@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft31)  [Next](sfft33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft31)  [Next](sfft33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_115">p. 115</span>
 
-### HABITROT. <span id="fr_50"></span>[1](#fn_50)
+### HABITROT. <span id="fr_50"></span>[1](#fn_50.md)
 
 IN the old days, when spinning was the constant employment of women, the
 spinning-wheel had its, presiding genius or fairy. Her Border name was
@@ -148,7 +148,7 @@ will he tie you to the spinning-wheel."
 Accordingly the bride led her husband the next day to the flowery knoll,
 and bade him look through the self-bored stone. Great was his surprise
 to behold Habitrot dancing and jumping over her rock, <span
-id="fr_51"></span>[1](#fn_51) singing all the time this ditty to her
+id="fr_51"></span>[1](#fn_51.md) singing all the time this ditty to her
 sisterhood, while they kept time with their spindles:--
 
 "We who live in dreary den  
@@ -191,10 +191,10 @@ to be converted into yarn.
 
 ### Footnotes
 
-<span id="fn_50"></span>[115:1](sfft32.htm#fr_50) From the Wilkie MS.
+<span id="fn_50"></span>[115:1](sfft32.htm#fr_50.md) From the Wilkie MS.
 
-<span id="fn_51"></span>[119:1](sfft32.htm#fr_51) A Spinning-wheel.
+<span id="fn_51"></span>[119:1](sfft32.htm#fr_51.md) A Spinning-wheel.
 
 ------------------------------------------------------------------------
 
-[Next: The Tulman](sfft33)
+[Next: The Tulman](sfft33.md)

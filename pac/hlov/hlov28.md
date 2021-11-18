@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov27)  [Next](hlov29) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov27)  [Next](hlov29.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ usually say it is 1850° Fahrenheit.
 
 ------------------------------------------------------------------------
 
-[Next: III. Volcanic Activity](hlov29)
+[Next: III. Volcanic Activity](hlov29.md)

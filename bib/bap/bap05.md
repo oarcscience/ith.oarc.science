@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap04) 
-[Next](bap06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap04.md) 
+[Next](bap06.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ introduced to the modern world.
 
 The ATTRIBUTION TO PHILO I regard as due to the accident that the text
 was transmitted in company with genuine Philonic writings. <span
-id="fr_9"></span>[1](bap06.htm#fn_9) Certainly, if the *Antiquities* had
+id="fr_9"></span>[1](bap06.htm#fn_9.md) Certainly, if the *Antiquities* had
 come down to us by themselves, no one in his senses could have thought
 of connecting them with Philo; unless, indeed, knowing of but two Jewish
 authors, Philo and Josephus, he assumed that, since one had written a
@@ -50,4 +50,4 @@ history of the Jews, the other must needs have followed suit.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Original Language](bap06)
+[Next: 5. Original Language](bap06.md)

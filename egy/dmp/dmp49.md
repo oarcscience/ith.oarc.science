@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp48)  [Next](dmp50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp48)  [Next](dmp50.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ is also an αγωγιμον.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XVIII](dmp50)
+[Next: Verso Col. XVIII](dmp50.md)

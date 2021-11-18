@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot15) 
-[Next](sot17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot15.md) 
+[Next](sot17.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ knows no obstacles and cannot be withstood".
 
 ------------------------------------------------------------------------
 
-[Next: Card XV. The Devil](sot17)
+[Next: Card XV. The Devil](sot17.md)

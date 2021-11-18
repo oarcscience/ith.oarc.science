@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft33)  [Next](zft35) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft33)  [Next](zft35.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ Thus shortens my story.
 ------------------------------------------------------------------------
 
 [Next: The Maiden The Sun Made Love To, And Her Boys: Or The Origin Of
-Anger](zft35)
+Anger](zft35.md)

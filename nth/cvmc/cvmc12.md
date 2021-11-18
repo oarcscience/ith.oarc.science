@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ physician.
 The psychophysical treatment is deep breathing of fresh air to build up
 the brain and improve vitality, and concentration of attention upon the
 mucous membrane. Stimulating the nerves will improve the circulation and
-[eventually](errata.htm#1) restore tone to the membrane.
+[eventually](errata.htm#1.md) restore tone to the membrane.
 
 If the general condition is much below par, it will take several years
 to effect a cure; otherwise, a decided gain will accrue in a few months.

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../raj/raj) 
-[Previous](ta)  [Next](toa) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../raj/raj.md) 
+[Previous](ta)  [Next](toa.md) 
 
 ------------------------------------------------------------------------
 
@@ -3961,4 +3961,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Life of Timon of Athens](toa) 
+[Next: The Life of Timon of Athens](toa.md) 

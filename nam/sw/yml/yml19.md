@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml18)  [Next](yml20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml18)  [Next](yml20.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ So the six companions all went on to the *serco* of Teta Hiapsi.
 Takochai greeted Teta Hiapsi and said, "I have come to bet with you,
 Teta Hiapsi, to win from you all that you own."
 
-And Teta [Hiapsi](errata.htm#2) agreed to run a race.
+And Teta [Hiapsi](errata.htm#2.md) agreed to run a race.
 
 Now, Teta Hiapsi had a daughter who was something of a witch woman. It
 was known that she knew how to fly like a bird. But Takochai was now the
@@ -215,4 +215,4 @@ earth like stones. Here ends this tale.
 
 ------------------------------------------------------------------------
 
-[Next: The Man Who Became a Buzzard](yml20)
+[Next: The Man Who Became a Buzzard](yml20.md)

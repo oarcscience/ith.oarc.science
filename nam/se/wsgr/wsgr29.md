@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr28)  [Next](wsgr30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr28)  [Next](wsgr30.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ their arrows fly straight through the air.
 
 ------------------------------------------------------------------------
 
-[Next: The Cottonwood Remembers](wsgr30)
+[Next: The Cottonwood Remembers](wsgr30.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah33)  [Next](oah35) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah33)  [Next](oah35.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ meteor-like, steadily taking course to the new earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX](oah35)
+[Next: Chapter XIX](oah35.md)

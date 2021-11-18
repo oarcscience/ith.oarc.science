@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng11)  [Next](vlsng13) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng11)  [Next](vlsng13.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ payment).
 ------------------------------------------------------------------------
 
 [Next: Chapter XI: Of King Sigmund's last Battle, and of how he must
-yield up his Sword again.](vlsng13)
+yield up his Sword again.](vlsng13.md)

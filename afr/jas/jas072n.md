@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas071n)  [Next](jas073n)   
- \[[72. The Barking Puppy.](jas072)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas071n)  [Next](jas073n.md)   
+ \[[72. The Barking Puppy.](jas072.md)\]
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ water in order that it may not come back to life
 
 ------------------------------------------------------------------------
 
-[Next: Note 73. The Singing Bird.](jas073n)
+[Next: Note 73. The Singing Bird.](jas073n.md)

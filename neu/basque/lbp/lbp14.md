@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp13)  [Next](lbp15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp13)  [Next](lbp15.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ of whirlwinds; and on witnessing how futile are all its efforts, it
 casts itself headlong, roaring, into the valleys. Then to that fearful
 noise is mingled the pitiful cries of nature assailed and beaten.
 
-The *Echeco-Jauna* <span id="fr_47"></span>[1](#fn_47) sleeps
+The *Echeco-Jauna* <span id="fr_47"></span>[1](#fn_47.md) sleeps
 peacefully, as well as his faithful mastiff, without being disturbed by
 those dismal howlings so familiar to the sons of the mountains and of
 the forests. The mastiff, however, suddenly raises its enormous head,
@@ -66,21 +66,21 @@ And the echoing sound of the war-bugle rises above the noises of the
 storm, flies across the woods of Biscay, along the precipices of
 Guipuzcoa, and sweeps the arid plains of Alava. And the chieftains of
 the three tribes, from the heights of Gorbea, <span
-id="fr_48"></span>[1](#fn_48) Amboto, <span
-id="fr_49"></span>[2](#fn_49) and Aitzgorri, <span
-id="fr_50"></span>[3](#fn_50) repeat unceasingly the war cry, floating
+id="fr_48"></span>[1](#fn_48.md) Amboto, <span
+id="fr_49"></span>[2](#fn_49.md) and Aitzgorri, <span
+id="fr_50"></span>[3](#fn_50.md) repeat unceasingly the war cry, floating
 the standards of war lashed by the tempest. From Gorbea, from Amboto,
 and from Aitzgorri issue the call which no Basque ever leaves
 unanswered.
 
 Ia, ia, ia, ó, ó, ó! Bill-Zaar, in Vitoria, in Tolosa, and in
-Guernica! <span id="fr_51"></span>[4](#fn_51)
+Guernica! <span id="fr_51"></span>[4](#fn_51.md)
 
 And this call vibrated throughout the whole
 
 <span id="page_229">p. 229</span>
 
-\[paragraph continues\] Euscuara <span id="fr_52"></span>[1](#fn_52)
+\[paragraph continues\] Euscuara <span id="fr_52"></span>[1](#fn_52.md)
 nation, who replied with tremendous vehemence: "Ia, ia, ia, ó, ó, ó,
 bill-zaar, bill-zaar!"
 
@@ -105,7 +105,7 @@ scapular of Our Lady ad Nives."
 War, the scapular of Our Lady of Aránzanzu."
 
 "What work is that which so occupies you, noble daughter of
-Durango?" <span id="fr_53"></span>[2](#fn_53)
+Durango?" <span id="fr_53"></span>[2](#fn_53.md)
 
 <span id="page_230">p. 230</span>
 
@@ -122,9 +122,9 @@ and victory from the heights of Atlas, as they once did on the plains of
 Capua. They are going to assist their brothers of Castile; they are
 going to wash out the affront which stains the face of our common
 mother; they are going to die or conquer as they did in Regil, <span
-id="fr_54"></span>[1](#fn_54) as in Cannas, <span
-id="fr_55"></span>[2](#fn_55) as in Covadonga, <span
-id="fr_56"></span>[3](#fn_56) and as in Navas.
+id="fr_54"></span>[1](#fn_54.md) as in Cannas, <span
+id="fr_55"></span>[2](#fn_55.md) as in Covadonga, <span
+id="fr_56"></span>[3](#fn_56.md) and as in Navas.
 
 "Do you see, stranger, those three diaphanous clouds which float on the
 horizon? They enclose the souls of the ancient heroes who died for their
@@ -185,45 +185,45 @@ of a whole nation, who cried out:
 
 ### Footnotes
 
-<span id="fn_47"></span>[227:1](lbp14.htm#fr_47) *Echeco-Jauna*. The
+<span id="fn_47"></span>[227:1](lbp14.htm#fr_47.md) *Echeco-Jauna*. The
 head of the family, proprietor, &c.
 
-<span id="fn_48"></span>[228:1](lbp14.htm#fr_48) *Gorbea*. A mountain of
+<span id="fn_48"></span>[228:1](lbp14.htm#fr_48.md) *Gorbea*. A mountain of
 Alava, which overlooks the plains upon which stands the city of Vitoria.
 
-<span id="fn_49"></span>[228:2](lbp14.htm#fr_49) *Amboto*. A very high
+<span id="fn_49"></span>[228:2](lbp14.htm#fr_49.md) *Amboto*. A very high
 cliff situated on the frontiers of Guipuzcoa, Alava, and Biscay.
 
-<span id="fn_50"></span>[228:3](lbp14.htm#fr_50) *Aitzgorri*. Mountain
+<span id="fn_50"></span>[228:3](lbp14.htm#fr_50.md) *Aitzgorri*. Mountain
 of Guipuzcoa: a continuation of Aloña. It rises 1·800 metres above the
 level of the sea.
 
-<span id="fn_51"></span>[228:4](lbp14.htm#fr_51) *Guernica*, *Arriaga*,
+<span id="fn_51"></span>[228:4](lbp14.htm#fr_51.md) *Guernica*, *Arriaga*,
 and *Guerekiz*. The three camps where in ancient times were gathered
 together the *bill-zaars*, or meetings of the ancients. The first was in
 Alava, the second in Biscay, and the third in Guipuzcoa.
 
-<span id="fn_52"></span>[229:1](lbp14.htm#fr_52) "*Euscuara*, or
+<span id="fn_52"></span>[229:1](lbp14.htm#fr_52.md) "*Euscuara*, or
 *Euscara*. The name given by the Basque to those who speak it." See
 Essay on the Basque Language, by M. Julien Vinson, in "Basque Legends,"
 by the Rev. Wentworth Webster.
 
-<span id="fn_53"></span>[229:2](lbp14.htm#fr_53) *Durango*. Principal
+<span id="fn_53"></span>[229:2](lbp14.htm#fr_53.md) *Durango*. Principal
 town of Biscay.
 
-<span id="fn_54"></span>[230:1](lbp14.htm#fr_54) *Regil*. The ancient
+<span id="fn_54"></span>[230:1](lbp14.htm#fr_54.md) *Regil*. The ancient
 Errazill. A town close to Tolosa, of Guipuzcoa. Its inhabitants routed
 the Romans in the time of Augustus.
 
-<span id="fn_55"></span>[230:2](lbp14.htm#fr_55) *Cannas*. A celebrated
+<span id="fn_55"></span>[230:2](lbp14.htm#fr_55.md) *Cannas*. A celebrated
 battle gained by Hannibal against the Romans. A vanguard of the
 Carthaginian army which decided the victory was composed of Basque
 auxiliaries.
 
-<span id="fn_56"></span>[230:3](lbp14.htm#fr_56) *Covadonga*, *Navas*,
+<span id="fn_56"></span>[230:3](lbp14.htm#fr_56.md) *Covadonga*, *Navas*,
 and *Salado*. Three famous sanguinary battles, in which the Moors were
 routed: in these the Basque legions took an active part.
 
 ------------------------------------------------------------------------
 
-[Next: The Prophecy of Lara--Ballad](lbp15)
+[Next: The Prophecy of Lara--Ballad](lbp15.md)

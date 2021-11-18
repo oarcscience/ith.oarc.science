@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp09)  [Next](wgp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp09)  [Next](wgp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,9 +68,9 @@ young girls in a similar state of complete nakedness.
 
 ### Footnotes
 
-<span id="fn_66"></span>[96:67](wgp09.htm#fr_66) See Grimm, *Deutsche
+<span id="fn_66"></span>[96:67](wgp09.htm#fr_66.md) See Grimm, *Deutsche
 Mythologie*, pp. 341-349.
 
 ------------------------------------------------------------------------
 
-[Next: Plants and Flowers](wgp11)
+[Next: Plants and Flowers](wgp11.md)

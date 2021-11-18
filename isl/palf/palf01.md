@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf00)  [Next](palf02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf00)  [Next](palf02.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ GRATITUDE AND AFFECTION
 
 ------------------------------------------------------------------------
 
-[Next: Preface](palf02)
+[Next: Preface](palf02.md)

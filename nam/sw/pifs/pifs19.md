@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs18)  [Next](pifs20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs18)  [Next](pifs20.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ But I am going to eat you this very now!"
 <span id="page_107">p. 107</span>
 
 "No, friend Too-wháy-deh, it was another who did it. You will find him
-farther in, with the scissors <span id="fr_61"></span>[1](#fn_61) still
+farther in, with the scissors <span id="fr_61"></span>[1](#fn_61.md) still
 in his hand."
 
 So the Coyote let that Quail go, and dug and dug till he caught another.
@@ -66,9 +66,9 @@ Coyote never knew if the Quails were caught or not.
 
 ### Footnotes
 
-<span id="fn_61"></span>[107:1](pifs19.htm#fr_61) This indicates that
+<span id="fn_61"></span>[107:1](pifs19.htm#fr_61.md) This indicates that
 the tale is comparatively modern.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. The Accursed Lake](pifs20)
+[Next: XVII. The Accursed Lake](pifs20.md)

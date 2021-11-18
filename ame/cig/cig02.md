@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](cig01)  [Next](cig03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](cig01)  [Next](cig03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Coffee in the Gourd*, ed. J. Frank Dobie \[1923\], at Intangible
 Textual Heritage
 
@@ -64,6 +64,6 @@ June, 1935
 
 ------------------------------------------------------------------------
 
-[Next: The Texas Folk-Lore Society Since 1916](cig03)
+[Next: The Texas Folk-Lore Society Since 1916](cig03.md)
 
 </div>

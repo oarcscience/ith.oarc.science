@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar24)  [Next](gar26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar24)  [Next](gar26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -47,9 +47,9 @@ metaphorically supported by three great pillars,
 
 <span id="page_77">p. 77</span>
 
-which are denominated WISDOM, <span id="fr_12"></span>[\*](#fn_12)
-STRENGTH, <span id="fr_13"></span>[†](#fn_13) and BEAUTY: <span
-id="fr_14"></span>[‡](#fn_14) because there should be *wisdom* to
+which are denominated WISDOM, <span id="fr_12"></span>[\*](#fn_12.md)
+STRENGTH, <span id="fr_13"></span>[†](#fn_13.md) and BEAUTY: <span
+id="fr_14"></span>[‡](#fn_14.md) because there should be *wisdom* to
 contrive, *strength* to support, and *beauty* to adorn all great and
 important undertakings. The universe is the temple of the DEITY whom we
 serve: Wisdom, Strength, and Beauty are about His throne as pillars of
@@ -75,7 +75,7 @@ candidate be legally initiated therein.
 
 ### Footnotes
 
-<span id="fn_12"></span>[77:\*](gar25.htm#fr_12) WISDOM is represented
+<span id="fn_12"></span>[77:\*](gar25.htm#fr_12.md) WISDOM is represented
 by the Ionic column and the W. M.; because the Ionic column wisely
 combines the strength without the massiveness of the Doric; with the
 grace, without the exuberance of ornament, of the Corinthian; and
@@ -83,7 +83,7 @@ because it is the duty of the W. M. to superintend, instruct, and
 enlighten the Craft by his superior wisdom. SOLOMON, king of Israel, is
 also considered as the column of wisdom that supported the temple.
 
-<span id="fn_13"></span>[77:†](gar25.htm#fr_13) STRENGTH is represented
+<span id="fn_13"></span>[77:†](gar25.htm#fr_13.md) STRENGTH is represented
 by the Doric column and the S. W.; because the Doric is the strongest
 and most massive of the Orders, and because it is the duty of the S. W.,
 by an attentive superintendence of the Craft, to aid the W. M. in the
@@ -91,7 +91,7 @@ performance of his duties, and to strengthen and support his authority.
 HIRAM, king of Tyre, is also considered as the representative of the
 column of strength which supported the temple.
 
-<span id="fn_14"></span>[77:‡](gar25.htm#fr_14) BEAUTY is represented by
+<span id="fn_14"></span>[77:‡](gar25.htm#fr_14.md) BEAUTY is represented by
 the Corinthian column and the J. W,; because the Corinthian is the most
 beautiful and highly finished of the Orders, and because the situation
 of the J. W. in the S. enables him the better to observe that bright
@@ -104,4 +104,4 @@ on its base.
 
 ------------------------------------------------------------------------
 
-[Next: The Covering of the Lodge](gar26)
+[Next: The Covering of the Lodge](gar26.md)

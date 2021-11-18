@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc30)  [Next](sfoc32) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc30)  [Next](sfoc32.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ would *fan the disease* back into the body of the little one.
 
 ------------------------------------------------------------------------
 
-[Next: To Treat Gû<sup>n</sup>wani'gistû'<sup>n</sup>ï](sfoc32)
+[Next: To Treat Gû<sup>n</sup>wani'gistû'<sup>n</sup>ï](sfoc32.md)

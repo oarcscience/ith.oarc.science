@@ -1,7 +1,7 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Ismâ’ili
-materials](../../isl/isma/index)  
-[Previous](isma1-4)
+Heritage](../../index) [Journals](../index.md) [Ismâ’ili
+materials](../../isl/isma/index.md)  
+[Previous](isma1-4.md)
 
 ------------------------------------------------------------------------
 
@@ -65,20 +65,20 @@ Syria, Mr. Von Wildenbruch.
 
    . . . . . except me and my brother,"—let peace be to them both!
 Afterwards he said, "And no one knows us<span
-id="page_169_fr_*"></span>[\*](#page_169_note_*) with verity of
+id="page_169_fr_*"></span>[\*](#page_169_note_*.md) with verity of
 knowledge, except the Prophets and the Legatees, and the Believers,
 'whose hearts God opens'<span
-id="page_169_fr_dagger"></span>[†](#page_169_note_dagger) to the faith,
+id="page_169_fr_dagger"></span>[†](#page_169_note_dagger.md) to the faith,
 or our eminent Naḳîbs,<span
-id="page_169_fr_ddagger"></span>[‡](#page_169_note_ddagger) who are
+id="page_169_fr_ddagger"></span>[‡](#page_169_note_ddagger.md) who are
 elected, and whom we elect. Hearest thou not God, where he says, 'And
 whomsoever we direct and choose, when the signs of the Merciful are read
 to them, they fall down worshipping and weeping'?<span
-id="page_169_fr_sect"></span>[§](#page_169_note_sect) And he upbraids
+id="page_169_fr_sect"></span>[§](#page_169_note_sect.md) And he upbraids
 the other party, saying, 'And when it is said to them, "Worship ye the
 Merciful," they say, "And what is the Merciful? shall we worship that
 which thou commandest us?" and it increases their shyness,'<span
-id="page_169_fr_dvert"></span>[‖](#page_169_note_dvert)—meaning, that
+id="page_169_fr_dvert"></span>[‖](#page_169_note_dvert.md)—meaning, that
 they are shy of the disclosure to them of the knowledge of the verity of
 the science of the hidden sense, pertaining to the knowledge of the
 Prince of the believers ’Aly Ibn Abû Ṭâlib,—let peace from him be to
@@ -93,7 +93,7 @@ thou not the Ḳurân, where it says, <span id="page_170">p. 170</span>
 'Verily an Envoy has come to you from among yourselves, to whom it is a
 grievous thing that ye are corrupted, who is eager for your being
 believers, mild, compassionate,' and so on, to the end of the
-sûrah?<span id="page_170_fr_*"></span>[\*](#page_170_note_*) So then the
+sûrah?<span id="page_170_fr_*"></span>[\*](#page_170_note_*.md) So then the
 Merciful is a name of the Prince of the believers ’Aly Ibn Abû
 Ṭâlib,—let peace be to him! and the Compassionate is a name of
 Muḥammed,—let the divine benediction and peace be to him!"
@@ -119,9 +119,9 @@ of God'—meaning only them, these who pertain to him, and who are his
 of his wisdom, as seeing by the Light of God; for God is not beheld
 except by his Light, and how is it possible for man to see by his own
 light, or to be directed by the Candle?<span
-id="page_170_fr_dagger"></span>[†](#page_170_note_dagger) But that
+id="page_170_fr_dagger"></span>[†](#page_170_note_dagger.md) But that
 saying of his, 'sees by the Light of God,' means his Deity,<span
-id="page_170_fr_ddagger"></span>[‡](#page_170_note_ddagger) who bestows
+id="page_170_fr_ddagger"></span>[‡](#page_170_note_ddagger.md) who bestows
 upon him his acceptance, and to whom he will return. And they must of
 necessity return to the earth with their Master, whenever the Ḳâim,—let
 peace be to his memory! takes his stand."
@@ -138,7 +138,7 @@ something hidden, not outward, of something subtle, not gross;
 
    "And it is necessary for thee that thou shouldst acknowledge the Tâly
 in that which is made, and in that which appears, and its Measure<span
-id="page_171_fr_*"></span>[\*](#page_171_note_*) which it takes to
+id="page_171_fr_*"></span>[\*](#page_171_note_*.md) which it takes to
 itself, namely, its Spiritual Measure, and its Corporeal Measure; and
 that there is no distinction between the Sâbiḳ and the Tâly; and that
 one of them excells not the other, either in respect to spiritual
@@ -150,16 +150,16 @@ peace from him be to us! devoid of science. O Khâlid Ibn Zeid, the
 Prince of the belivers,—let peace from him be to us! is as when sandal
 is measured with sandal, part answering, all but a trifle, to part. For
 he is the reinforcement of the Nâṭiḳ,<span
-id="page_171_fr_dagger"></span>[†](#page_171_note_dagger) by means of
+id="page_171_fr_dagger"></span>[†](#page_171_note_dagger.md) by means of
 the Sâbiḳ, as something spiritual, without any thing corporeal, and the
 reinforcement of the Asâs of the higher world, in the image of
 El-Fatḥ,<span
-id="page_171_fr_ddagger"></span>[‡](#page_171_note_ddagger) by means of
+id="page_171_fr_ddagger"></span>[‡](#page_171_note_ddagger.md) by means of
 the Tâly. Hearest thou not the Prophet,—let peace be to him! who says,
 'I and ’Aly are like two *hés*, and the putting together of the two
 fore-fingers'?—wherein he shows thee that there is no distinction
 between the two, and between the Imâm<span
-id="page_171_fr_sect"></span>[§](#page_171_note_sect) and the
+id="page_171_fr_sect"></span>[§](#page_171_note_sect.md) and the
 Legatee,—let peace be to him! And if he \[’Aly\] shows miraculous signs,
 he says,—let peace be to him! 'But the Prophet,—let peace be to him and
 to his Family! has already brought to pass things miraeulous, beyond the
@@ -173,14 +173,14 @@ should be distinction made between the two. Has not God said in the
 Ḳurân, '"We distinguish not between his several Envoys, and we are
 resigned to him,"'—meaning by that his Envoys and his Legatees,—'and
 say, "We hear and we obey thy pardon, O our Lord! and to thee will be
-our coming,"'<span id="page_172_fr_*"></span>[\*](#page_172_note_*)—the
+our coming,"'<span id="page_172_fr_*"></span>[\*](#page_172_note_*.md)—the
 meaning of, 'O our Lord!' which points to the Amr of the Creator,—let it
 be magnified and glorified! being that there is no distinction between
 the two, because they are the Correspondents of the two Eternal
-Roots?<span id="page_172_fr_dagger"></span>[†](#page_172_note_dagger)
+Roots?<span id="page_172_fr_dagger"></span>[†](#page_172_note_dagger.md)
 And know thou, O Khâlid Ibn Zeid, that I shall by and by return to the
 Primary Attribute,<span
-id="page_172_fr_ddagger"></span>[‡](#page_172_note_ddagger) and explain
+id="page_172_fr_ddagger"></span>[‡](#page_172_note_ddagger.md) and explain
 it to thee with an explanation which thou wilt understand. As for the
 Prince of the believers,—let peace from him be to us! he is the Measure
 of the Tâly, which is that which causes bodies to be, and creates them,
@@ -201,7 +201,7 @@ Es-Sa’îr, while body is not known, after that, as long as its way is in
 the dust."
 
    "And know thou, that it is that on account of which the Sâbiḳ and the
-Tâly are named.<span id="page_173_fr_*"></span>[\*](#page_173_note_*)
+Tâly are named.<span id="page_173_fr_*"></span>[\*](#page_173_note_*.md)
 And the two match in respect to the state of being, because each of them
 is indispensable to its mate. For the Amr of the Creator,—let its memory
 be glorified! has made all things to be reciprocal and conjoined, so
@@ -209,7 +209,7 @@ that there is a conjunction in a reciprocity, and a reciprocity in a
 conjunction; while the Amr of the Creator is separate, without any
 reciprocal, or any resemblant, or any associate, or any like, or any
 image; and number applies not to it;<span
-id="page_173_fr_dagger"></span>[†](#page_173_note_dagger) nor are
+id="page_173_fr_dagger"></span>[†](#page_173_note_dagger.md) nor are
 conjectures applicable; and the intellect of man embraces it not,—let
 its name be blessed, clear of that which they say by a great
 superiority! And know thou, O Khâlid, that any thing pertaining to the
@@ -223,7 +223,7 @@ use of the water, it would not come to the pitcher; and its use consists
 in the union of the two things, one following the other. So then 'Glory
 be to him who created all the mates of that which the earth brings
 forth, and of themselves, and of that which they know not'!"<span
-id="page_173_fr_ddagger"></span>[‡](#page_173_note_ddagger)
+id="page_173_fr_ddagger"></span>[‡](#page_173_note_ddagger.md)
 
    Then said I, "O my master,—my life for thee! and what are 'the
 mates'?"
@@ -235,7 +235,7 @@ Imâms, one being of another, Light of Light, Imâm of Imâm, and thus
 ever, without intermission, without cessation, who are undiminished, up
 to the determined bound, and the known limit, which is our Ḳâim, 'on the
 day when riches profit not, nor sons, only be who brings to God a
-resigned heart.'"<span id="page_174_fr_*"></span>[\*](#page_174_note_*)
+resigned heart.'"<span id="page_174_fr_*"></span>[\*](#page_174_note_*.md)
 
    "So then the Sâbiḳ, of which the Correspondent is Muḥammed,—let the
 divine benediction and peace be to him! is the Creator as to spirits;
@@ -243,24 +243,24 @@ and the Tâly, of which the Correspondent is the Prince of the
 believers,—let peace from him be to us!—is the Creator as to bodies.
 Hearest thou not that which says, 'As for us, we cause to live, and we
 cause to die, and to us will be the coming'<span
-id="page_174_fr_dagger"></span>[†](#page_174_note_dagger)—wherein shows
+id="page_174_fr_dagger"></span>[†](#page_174_note_dagger.md)—wherein shows
 thee the origin of life, and considers the origin of death, as something
 hidden, not outward? Therefore understand thou that. And as for the Amr
 of the Creator, not anything is above it, and no occasion has to do with
 it, and it pertains not to any occasion;<span
-id="page_174_fr_ddagger"></span>[‡](#page_174_note_ddagger) and there is
+id="page_174_fr_ddagger"></span>[‡](#page_174_note_ddagger.md) and there is
 no deity like it; and not any thing resembles it; and it is 'the Hearer,
 the Knowing One.'<span
-id="page_174_fr_sect"></span>[§](#page_174_note_sect) That it is which
+id="page_174_fr_sect"></span>[§](#page_174_note_sect.md) That it is which
 committed all things to these two Higher Measures; and to them it will
 fall to reckon with creatures, on the day of reckoning. Hearest thou not
 that which says, 'Verily, to us will be their coming; and on us will
 devolve the reckoning with them'?<span
-id="page_174_fr_dvert"></span>[‖](#page_174_note_dvert) So then let the
+id="page_174_fr_dvert"></span>[‖](#page_174_note_dvert.md) So then let the
 Amr, namely, the Amr of the Creator,—let it be exalted! be glorified,
 clear of all things! forasmuch as it committed the same to the Sâbiḳ and
 the Tâly, and left to them Higher Similitudes and Earthly
-Resemblances,<span id="page_174_fr_para"></span>[¶](#page_174_note_para)
+Resemblances,<span id="page_174_fr_para"></span>[¶](#page_174_note_para.md)
 which renew themselves, without his giving to be seen in them, and are
 unchanged, without his causing to be known through them."
 
@@ -273,26 +273,26 @@ and Legatee. For, as for Muḥammed,—let the divine benediction and peace
 be to him! he reinforces the Nâṭiḳ in the first of the Transients; and
 so, when the law is finished for the latter, the Veil is withdrawn, as
 respects him, from the former.<span
-id="page_175_fr_*"></span>[\*](#page_175_note_*) And so be it known,
+id="page_175_fr_*"></span>[\*](#page_175_note_*.md) And so be it known,
 that his reinforcement is from both these Earthly Measures, having to
 him and to his Asâs accompanying him the force of the two Higher
 Measures; for the Prince of the believers,—let peace from him be to us!
 reinforces his Asâs, as something hidden, not outward,<span
-id="page_175_fr_dagger"></span>[†](#page_175_note_dagger) just as
+id="page_175_fr_dagger"></span>[†](#page_175_note_dagger.md) just as
 Muḥammed,—let peace be to him and to his Family! reinforces him. And so,
 what with the two Higher Measures, which reinforce the two Lower
 Measures, come to be the Four Measures. And in like manner, the two
 Lower Measures reinforce bodies which they set apart, and elect, and in
 which they consequently cause to appear and to dwell spirits inspired by
 the Pen;<span
-id="page_175_fr_ddagger"></span>[‡](#page_175_note_ddagger) and by and
+id="page_175_fr_ddagger"></span>[‡](#page_175_note_ddagger.md) and by and
 by I will acquaint thee with them, and their names, in order that the
 verity of thy knowledge may be made perfect."
 
    "O Khâlid Ibn Zeid, know thou that the Sâbiḳ delivered up its science
 and its reinforcement to the Meshiyeh, which was caused by the Sâbiḳ and
 the Tâly, upon their glorifying and hallowing.<span
-id="page_175_fr_sect"></span>[§](#page_175_note_sect) For all of them
+id="page_175_fr_sect"></span>[§](#page_175_note_sect.md) For all of them
 together form the council of sciences, and accordingly the Tâly
 committed thereto the reinforcernent of its science; whereupon it
 glorified, and its glorifying was that it said, 'Be thou glorified, O
@@ -300,12 +300,12 @@ Eternal of Eternals! verily, thou makest strong that which thou dost
 create.' And upon that, there came to it \[the Meshiyeh\] an
 Amr-reinforcernent, from the First Cause, which is the <span
 id="page_176">p. 176</span> Amr of the Creator, the Veritable
-Deity,<span id="page_176_fr_*"></span>[\*](#page_176_note_*)—let it be
+Deity,<span id="page_176_fr_*"></span>[\*](#page_176_note_*.md)—let it be
 exalted! whereby it strengthened it. Afterwards, the Meshiyeh beheld the
 Sâbiḳ with the eye of predestination, and beheld the Tâly with the eye
 of love; whereupon there came to be, for the two in the earth, a
 Correspondent,<span
-id="page_176_fr_dagger"></span>[†](#page_176_note_dagger) like to that
+id="page_176_fr_dagger"></span>[†](#page_176_note_dagger.md) like to that
 which had come to be, for the Sâbiḳ and the Tâly. And so it reinforces
 the Nâṭiḳ, with its Amr-reinforcement, and its reinforcements which are
 from the Sâbiḳ and the Tâly. The Prophet,—let the divine benediction and
@@ -314,18 +314,18 @@ denominates her 'the mother of her father,' with the meaning that she
 reinforces her father, with her Amr-reinforcements, and the
 reinforcements of the Sâbiḳ and the Tâly; for all that a certain party
 has said that the Fâṭimeh-Station,<span
-id="page_176_fr_ddagger"></span>[‡](#page_176_note_ddagger)—let peace be
+id="page_176_fr_ddagger"></span>[‡](#page_176_note_ddagger.md)—let peace be
 to her! was the Station of a male person, that is, Gabriel,—let peace be
 to him! And this is an error, because God says respecting them, 'As for
 them, they have the angels with the naming of woman, while yet they have
 no knowledge concerning it. That which they follow is not any thing but
 supposition, and their own desire, for all there has come to them
 direction from their Lord.'<span
-id="page_176_fr_sect"></span>[§](#page_176_note_sect) And it \[the
+id="page_176_fr_sect"></span>[§](#page_176_note_sect.md) And it \[the
 Meshiyeh\] teaches those things which are unknown, except to the two
 Higher Measures, by an aiding on their part, derived from his Word,—let
 it be exalted! through the medium of the two Asâses.<span
-id="page_176_fr_dvert"></span>[‖](#page_176_note_dvert) And as for this,
+id="page_176_fr_dvert"></span>[‖](#page_176_note_dvert.md) And as for this,
 again, it is a tradition handed down from the Prophet,—let the divine
 benediction and peace be to him! that he said, 'On the night when I was
 borne up to heaven, and entered the Garden, I ate a quince; and so,
@@ -338,9 +338,9 @@ of the reinforcement of the Sâbiḳ, together with the will of the Amr of
 the Creator,—let it be exalted! and efficiencies from the Tâly;
 whereupon Fâṭimeh,—let peace be to her! came to be, by the causation of
 the two Eternal Lights,<span
-id="page_177_fr_*"></span>[\*](#page_177_note_*) and on account of their
+id="page_177_fr_*"></span>[\*](#page_177_note_*.md) and on account of their
 manifestation by the two Lower Measures.<span
-id="page_177_fr_dagger"></span>[†](#page_177_note_dagger) And to her
+id="page_177_fr_dagger"></span>[†](#page_177_note_dagger.md) And to her
 pertain, in heaven, two Measures, and on the earth four. And by reason
 of that, the Prophet,—let the divine benediction and peace be to him!
 says, 'Verily, Fâṭimeh has two names in heaven, and on the earth
@@ -358,12 +358,12 @@ El-Ḥasan and El-Ḥusein, how was the beginning of the Amr to them."
 
    El-Bâḳir,—let his peace be to us! said, "As for the Envoy, his
 Station was the Sâbiḳ,<span
-id="page_177_fr_ddagger"></span>[‡](#page_177_note_ddagger) and he was
+id="page_177_fr_ddagger"></span>[‡](#page_177_note_ddagger.md) and he was
 its Correspondent. And in like manner was the Envoy<span
-id="page_177_fr_sect"></span>[§](#page_177_note_sect) resembled by a
+id="page_177_fr_sect"></span>[§](#page_177_note_sect.md) resembled by a
 Correspondent ’Abdallah Ibn Râwaḥah El-Anṣâry, who it is whom trouble
 befell, whose four side-teeth were broken, who hid himself in the
-cave.<span id="page_177_fr_dvert"></span>[‖](#page_177_note_dvert) For,
+cave.<span id="page_177_fr_dvert"></span>[‖](#page_177_note_dvert.md) For,
 as for the impersonation of Muḥammed,—let the divine benediction and
 peace be to him and to his Family! it did not absent itself, nor hide,
 <span id="page_178">p. 178</span> nor betake itself to flight, nor did
@@ -388,7 +388,7 @@ disgust at Fâṭimeh,—let peace be to her! But the primary Ḥasan and
 Ḥusein,—let peace be to them! came to be, as children of the Meshiyeh,
 while these were earthly impersonations. And they are Creators, by their
 sciences, to their Correlates;<span
-id="page_178_fr_*"></span>[\*](#page_178_note_*) forasmuch as two
+id="page_178_fr_*"></span>[\*](#page_178_note_*.md) forasmuch as two
 created ones have made them to descend with their aiding received from
 the two Roots; through the medium of the two Asâses; and they second the
 setting up of the Perfect, the Correlates, and the Measures. And they
@@ -404,7 +404,7 @@ is superior to the sovereignty of the Amr of the Creator,—let its memory
 <span id="page_179">p. 179</span> be exalted! and they 'act by his Amr.'
 Hearest thou not that which says, 'Nay, but honored servants, who
 precede him not in speaking, and who act by his Amr'<span
-id="page_179_fr_*"></span>[\*](#page_179_note_*)—meaning that they
+id="page_179_fr_*"></span>[\*](#page_179_note_*.md)—meaning that they
 create, and nourish, and endow, and enlarge, and cause to grow, by
 spiritual sciences received from the two Roots, through the medium of
 the two Asâses, and that they are signs of the reckoning, and the
@@ -419,7 +419,7 @@ operation of the Amr."
 
    Thereupon I said, "O my Master, did I not say to thee that thou
 shouldst disclose to me the verity of that which is of the Amr to
-them?"<span id="page_179_fr_dagger"></span>[†](#page_179_note_dagger)
+them?"<span id="page_179_fr_dagger"></span>[†](#page_179_note_dagger.md)
 
    He said, "Yes."
 
@@ -437,7 +437,7 @@ the foulness of acts of disobedience; and so the Amr kept itself clear
 therefrom. It created Light, which accordingly was. Afterwards, it
 willed to separate it, and so it separated it with the separation of a
 reality.<span
-id="page_179_fr_ddagger"></span>[‡](#page_179_note_ddagger) Whereupon,
+id="page_179_fr_ddagger"></span>[‡](#page_179_note_ddagger.md) Whereupon,
 after it had yielded to it in respect <span id="page_180">p. 180</span>
 to all that which it willed, the Amr exposed it to all things, namely,
 all good, and evil, and trial, whatever; it said, 'Be thou patient,' and
@@ -450,7 +450,7 @@ possessed of power, and activity, and a spirit of its own, which is the
 Tâly; and as for this, thou findest it in the Ḳurân, since it says,
 'Remember my favor towards thee and towards her who bore thee, when I
 aided thee with the Holy Spirit, that thou mightest talk with man in the
-cradle,'<span id="page_180_fr_*"></span>[\*](#page_180_note_*)—where
+cradle,'<span id="page_180_fr_*"></span>[\*](#page_180_note_*.md)—where
 'the Holy Spirit' is Muḥammed,—let the divine benediction be to him and
 to his Family! who is the Measure of the Sâbiḳ, and its Correspondent in
 the corporeal world; and the 'talking' which it mentions is the talking
@@ -462,9 +462,9 @@ aiding is concentrated in him; and the Lights branch out, Light after
 Light, to Imâm after Imâm, one inheriting from another the Light, the
 Light of God, which he made to enter into the two Eternal Roots. 'God
 directs to his Light whom he will.'<span
-id="page_180_fr_dagger"></span>[†](#page_180_note_dagger) And as for
+id="page_180_fr_dagger"></span>[†](#page_180_note_dagger.md) And as for
 that which I have told thee as to the elected impersonations,<span
-id="page_180_fr_ddagger"></span>[‡](#page_180_note_ddagger) I will by
+id="page_180_fr_ddagger"></span>[‡](#page_180_note_ddagger.md) I will by
 and by acquaint thee with them. Hear thou, O Khâlid Ibn Zeid, and
 consider thou those who, says God,—let his memory be glorified! 'when
 the signs of the Merciful are read to the down worshipping and
@@ -474,10 +474,10 @@ another in respect to science and rank, and that they rival one another
 in the two worlds, the spiritual and the corporeal, <span
 id="page_181">p. 181</span> while they transmit, united with them, in
 the periods and the revolutions, their Primary."<span
-id="page_181_fr_*"></span>[\*](#page_181_note_*)
+id="page_181_fr_*"></span>[\*](#page_181_note_*.md)
 
    And their names,<span
-id="page_181_fr_dagger"></span>[†](#page_181_note_dagger) O Khâlid Ibn
+id="page_181_fr_dagger"></span>[†](#page_181_note_dagger.md) O Khâlid Ibn
 Zeid, are Selmân and his Station, and El-Miḳdâd and his Station, and
 Ṣa’ṣa’h Ibn Ṣaukhân and his Station, and Saḳîneh and his Station, and
 Jâbir Ibn ’Abdallah and his Station, and Zeid El-Hijry and his Station,
@@ -491,7 +491,7 @@ way of the two Asâses, which are Muḥammed, the Truthful Envoy and the
 Nâṭiḳ, and the Prince of the believers ’Aly,—let peace from him be to
 us! And its Station is Selmân, the Correspondent of Jebrîl, and who is
 in the pattern of the corporeal world; and his Station is ’Ammâr,<span
-id="page_181_fr_ddagger"></span>[‡](#page_181_note_ddagger) the Likeness
+id="page_181_fr_ddagger"></span>[‡](#page_181_note_ddagger.md) the Likeness
 of Mîkâil, and his Correspondent; and his Station is Abû-d-Darr, the
 Station of Andarâil, and his Correspondent; and his Station is Uweis
 El-Ḳarny, the Likeness of Asrâḳîl and his Correspondent, and the Station
@@ -517,12 +517,12 @@ those to whom these names appertain, are the Favorites, while the rest
 are angels, but not Favorites,)—or, to return to what he says, a
 Believer 'whose heart God opens' with the faith,—which means the
 followers in their track, that is, ’Abdallah Ibn Râwaḥah and ’Othmân Ibn
-Ma’ṭûn;<span id="page_182_fr_*"></span>[\*](#page_182_note_*) and
+Ma’ṭûn;<span id="page_182_fr_*"></span>[\*](#page_182_note_*.md) and
 ’Othmân, this one, was a foster-brother to the Prince of the
 believers,—let his peace be to us!"
 
    Says Khâlid, Thereupon I said, "O son of the Envoy of God,<span
-id="page_182_fr_dagger"></span>[†](#page_182_note_dagger) I have heard
+id="page_182_fr_dagger"></span>[†](#page_182_note_dagger.md) I have heard
 thee say that the Merciful is a name pertaining to the Prince of the
 believers,—let peace from him be to us! and that the Compassionate is a
 name pertaining to the Envoy,—let peace be to him and to his Family! and
@@ -544,7 +544,7 @@ Sâbiḳ, whence the words, 'thy Lord is the Most Noble;' after which there
 is a reiteration, in order to a pointing to the Tâly, and so it is said,
 'is he who has taught by the Pen,who has taught <span id="page_183">p.
 183</span> that which he knew not,—nay indeed, as for man, he is
-rebellious,'<span id="page_183_fr_*"></span>[\*](#page_183_note_*)—'man'
+rebellious,'<span id="page_183_fr_*"></span>[\*](#page_183_note_*.md)—'man'
 meaning the race of Adam, who are rebellious in neglect of the covenant.
 And know thou, O Khâlid, that the Amr is not denoted by names, as
 qualities and attributes are not predicable of it."
@@ -584,27 +584,27 @@ is not; together with him, any deity. Had there been, each deity would
 have certainly gone off with that which it created, and one would have
 certainly been over the other. So then, glory be to God,—let him be
 exalted! clear of their associating!'<span
-id="page_184_fr_*"></span>[\*](#page_184_note_*) O Khâlid, there are men
+id="page_184_fr_*"></span>[\*](#page_184_note_*.md) O Khâlid, there are men
 who say concerning us that which we say not, and who make us of a
 lineage which does not belong to us. Far be it, far be it; they have
 gone out of the way, and are turned aside; and they lose, while we make
 profit. 'But as for these, they are those whose actions come to nought,
 in this world and the next.'<span
-id="page_184_fr_dagger"></span>[†](#page_184_note_dagger) 'That, indeed,
+id="page_184_fr_dagger"></span>[†](#page_184_note_dagger.md) 'That, indeed,
 is manifest losing.'<span
-id="page_184_fr_ddagger"></span>[‡](#page_184_note_ddagger) O Khâlid,
+id="page_184_fr_ddagger"></span>[‡](#page_184_note_ddagger.md) O Khâlid,
 hear thou what I say, and hold on to my instruction, and testify to that
 which thou hearest; for 'He utters not any speech, except there is a
 Prepared One, an Observer, at his side.'<span
-id="page_184_fr_sect"></span>[§](#page_184_note_sect)
+id="page_184_fr_sect"></span>[§](#page_184_note_sect.md)
 
    O Khâlid, Muḥammed and ’Aly,—let the divine benediction be to them
 both! are Creators who were created, empowered, described as 'honored
 servants, who precede him not in speaking, and who act by his Amr.'<span
-id="page_184_fr_dvert"></span>[‖](#page_184_note_dvert) O Khâlid, the
+id="page_184_fr_dvert"></span>[‖](#page_184_note_dvert.md) O Khâlid, the
 Amr, namely, the Amr of the Creator,—let it be exalted! 'the like of
 whom not any thing is, and who is the Hearer, the Knowing One,'<span
-id="page_184_fr_para"></span>[¶](#page_184_note_para) which is that
+id="page_184_fr_para"></span>[¶](#page_184_note_para.md) which is that
 which the searcher apprehends not, and which is not measured with men,
 committed <span id="page_185">p. 185</span> all things to these two
 Primaries, that is the Sâbiḳ and the Tâly, in which the Creator,—let its
@@ -614,10 +614,10 @@ its corporeity, so that they were such as thou hast heard them to be, as
 created out of the very Light. And their Lights branched out into three
 lights; namely, El-Jedd, and El-Fatḥ, and El-Khiyâl; and their
 Likenesses in respect to that which is corporeal are Ez-Zuhra,<span
-id="page_185_fr_*"></span>[\*](#page_185_note_*) El-Ḥasan, and
+id="page_185_fr_*"></span>[\*](#page_185_note_*.md) El-Ḥasan, and
 El-Ḥusein. Hast thou not, indeed, heard, in the recital which the man of
 note makes not up, and of which the common man is ignorant,<span
-id="page_185_fr_dagger"></span>[†](#page_185_note_dagger)—does it not
+id="page_185_fr_dagger"></span>[†](#page_185_note_dagger.md)—does it not
 say, "I have derived names for them from some of my names: for I am
 El-Maḥmûd, and this is Muḥammed; and I am El-’Aly, and this is ’Aly; and
 I am Fâṭim, and this is Fâṭimeh; and I am El-Iḥsân, and this is
@@ -628,10 +628,10 @@ which branched out enter into the two words, the saying of the Ḳurân,
 letters; for Light had its origin in the Creator,—let it be magnified
 and glorified! because it came to be by a volition on the part of the
 Amr, and so they were created."<span
-id="page_185_fr_ddagger"></span>[‡](#page_185_note_ddagger)
+id="page_185_fr_ddagger"></span>[‡](#page_185_note_ddagger.md)
 
    "Afterwards, it said to the Sâbiḳ, 'Thou art like the Ṣirâṭ,'<span
-id="page_185_fr_sect"></span>[§](#page_185_note_sect) and said to the
+id="page_185_fr_sect"></span>[§](#page_185_note_sect.md) and said to the
 Tâly, 'Thou art like the Balance.' The former gives transit, the latter
 weighs. So then, 'As for him whose balances are heavy, he will lead a
 pleasant life,'—meaning, on account of the knowledge of the Tâly, <span
@@ -639,7 +639,7 @@ id="page_186">p. 186</span> and its Likeness, the Prince of the
 believers,—let his peace be to us!—'and as for him whose balances are
 light, Hâwiyeh will be his mother; and what shall give thee to know what
 that is?—a burning fire;'<span
-id="page_186_fr_*"></span>[\*](#page_186_note_*) and oh the crying pains
+id="page_186_fr_*"></span>[\*](#page_186_note_*.md) and oh the crying pains
 of him who is tainted with a burning fire, inasmuch as he acknowedges
 not the Imâm, the Tâly, and, what is more, opposes him, and turns away
 from him to another, of diminished rank!"
@@ -660,7 +660,7 @@ your being pleased, and my being indignant is your being indignant.'"
 
    "So then they two became created out of the Light of the Amr,—meaning
 the caused and the Cause;<span
-id="page_186_fr_dagger"></span>[†](#page_186_note_dagger)—and they
+id="page_186_fr_dagger"></span>[†](#page_186_note_dagger.md)—and they
 produced the Lights, and so became Creators."
 
    "And there are set in the heavens seven Lights which are the Higher
@@ -673,7 +673,7 @@ themselves in the heavens, and Likenesses. And the Ḳurân has already
 expressed that, where it says, 'So, in two days, he made them to be
 seven heavens, and inspired <span id="page_187">p. 187</span> every
 heaven with its Amr.'<span
-id="page_187_fr_*"></span>[\*](#page_187_note_*) Consequently, inasmuch
+id="page_187_fr_*"></span>[\*](#page_187_note_*.md) Consequently, inasmuch
 as the celestial spheres are vacated, after they have made their round,
 and disappear, if the earths had been emptied of the Imâms, certainly
 they would have sunk and vanished; since they, \[the Imâms,\] O Khâlid,
@@ -683,18 +683,18 @@ of necessity have, in the earths, Ḥujjehs, who accept the covenant with
 him who is above the inhabitants of the heavens, and the covenant with
 him who is in the heavens, which is the covenant accepted in favor of
 the Chief of the earth, in the earth."<span
-id="page_187_fr_dagger"></span>[†](#page_187_note_dagger)
+id="page_187_fr_dagger"></span>[†](#page_187_note_dagger.md)
 
    "And there is no Imâm whose spirit is transmitted, except it goes
 where its Place<span
-id="page_187_fr_ddagger"></span>[‡](#page_187_note_ddagger) is; and it
+id="page_187_fr_ddagger"></span>[‡](#page_187_note_ddagger.md) is; and it
 has no elevation in spiritual degrees, as created, up to the limit of
 that which is corporeal, when the period is completed, and the seven is
 made out in full; for he who dies, among us, dies not without his soul's
 being ennobled, returning to that which is better for it than the state
 in which it has been. Hearest thou not the Ḳurân, where it says, 'And of
 us are only such as have their known Places,'?"<span
-id="page_187_fr_sect"></span>[§](#page_187_note_sect)—let their peace be
+id="page_187_fr_sect"></span>[§](#page_187_note_sect.md)—let their peace be
 to us! And so, as for these their Measures and their Places, let their
 peace be to us and to all believers!
 
@@ -706,20 +706,20 @@ the Sâbiḳ, that is, the Station of the Nâṭiḳ; and the 'Observer' is the
 Measure of the Tâly, that is, the Station of the Asâs. Hearest thou not
 the Ḳurân, where <span id="page_188">p. 188</span> it says, 'But after
 thou didst take me to thyself, thou wast, thou, the Observer of
-them,'<span id="page_188_fr_*"></span>[\*](#page_188_note_*)—meaning,
+them,'<span id="page_188_fr_*"></span>[\*](#page_188_note_*.md)—meaning,
 after the law was finished, I was discharged,—meaning, after I was
 refined as to my corporeal impersonation, to the degree of the spiritual
 world, thou wast, thou, the Imâm after me, and the Legatee? But know
 thou" . . . {here follow five lines of ellipsis} . . . "he is a
 polytheist; and whoever worships the Ma’na<span
-id="page_188_fr_dagger"></span>[†](#page_188_note_dagger) in its verity,
+id="page_188_fr_dagger"></span>[†](#page_188_note_dagger.md) in its verity,
 has hit the mark. And know thou, O Khâlid, that the meaning of that is,
 that whoever worships the Ism, is an unbeliever; and the Ism is that
 with which the Sâbiḳ is named, so that one is certainly an unbeliever,
 inasmuch as he worships that on the ground of its being the
 Creator,—meaning the Sâbiḳ. And whoever worships the Ism and the
 Ma’na,<span
-id="page_188_fr_ddagger"></span>[‡](#page_188_note_ddagger)—meaning the
+id="page_188_fr_ddagger"></span>[‡](#page_188_note_ddagger.md)—meaning the
 Sâbiḳ and the Tâly,—is a polytheist. But whoever knows that the Amr of
 the Creator,—let it be exalted! made these two Roots, he believes in its
 unity, and worships it. So then, glory be to that which hath indeed
@@ -758,7 +758,7 @@ When thou wouldst us, O Khâlid, seek us, with thine inmost soul, in the
 invisible realm, and thou wilt find us above that which is above; there
 is not above us any superior other than the Amr of the Creator,—let it
 be exalted! and the Sâbiḳ and the Tâly,<span
-id="page_189_fr_*"></span>[\*](#page_189_note_*)—a truth respecting
+id="page_189_fr_*"></span>[\*](#page_189_note_*.md)—a truth respecting
 which it is due to no one of those created out of clay, that a word
 should be uttered; and how shall that be apprehended by such as pass
 away, and are gone, and die? wherefore yield ye to our dictum, and
@@ -779,7 +779,7 @@ to whatever degree he wills. What, then, is this 'Word'? and what, this
 Prince of the believers ’Aly,—let peace from them both be to us! Hearest
 thou not God, who says in the Ḳurân, 'And it is the parable of a good
 Word like a good Tree, of which the root is fast, and the top is in
-heaven'?<span id="page_190_fr_*"></span>[\*](#page_190_note_*)—wherein
+heaven'?<span id="page_190_fr_*"></span>[\*](#page_190_note_*.md)—wherein
 the root of the Word and its top are made two limits, the root being the
 Sâbiḳ, and the top, the Tâly, which is the Measure of Muḥammed,—let the
 divine benediction be to him! And the 'Tree' is the Prince of the
@@ -802,7 +802,7 @@ sciences, acquire them from the Mines?"
 
    He replied, "Those Imâms,"—let their peace be to us! "whom God causes
 to inherit the prophetic gift."<span
-id="page_190_fr_dagger"></span>[†](#page_190_note_dagger)
+id="page_190_fr_dagger"></span>[†](#page_190_note_dagger.md)
 
    Then said I, "What if I meet with no Imâm?"
 
@@ -811,7 +811,7 @@ id="page_190_fr_dagger"></span>[†](#page_190_note_dagger)
 Imâms,"—let their peace be to us and to all believers! "or else thou
 shalt draw from a known book, to which the Ḳurân testifies, and which
 tradition authenticates, and the intellect approves, and from other
-books.<span id="page_190_fr_ddagger"></span>[‡](#page_190_note_ddagger)
+books.<span id="page_190_fr_ddagger"></span>[‡](#page_190_note_ddagger.md)
 But beware thou, and again beware. And be thou a servant sincere in the
 love of us, and thou shalt be saved."
 
@@ -821,7 +821,7 @@ love of us, and thou shalt be saved."
 thou it. And it is the mystery of the Almighty God, the 'flesh' and the
 'blood' of which the Mesîḥ,—let peace be to him! said to his disciples,
 'This is my flesh and my blood; so then, eat ye, and drink ye.'<span
-id="page_191_fr_*"></span>[\*](#page_191_note_*) And I have indeed
+id="page_191_fr_*"></span>[\*](#page_191_note_*.md) And I have indeed
 opened to thee the pasture, and have given thee to eat, and given thee
 to drink, and have drawn water for thee; so then, eat thou with good
 digestion, and drink thou to thine health; and behave thou uprightly
@@ -830,7 +830,7 @@ which I say. And let peace be to those who follow direction! And this is
 enough for men, and it is that they may be warned by it, and may know
 that he is one God, and that the possessors of hearts may
 consider'."<span
-id="page_191_fr_dagger"></span>[†](#page_191_note_dagger)
+id="page_191_fr_dagger"></span>[†](#page_191_note_dagger.md)
 
    Says Khâlid Ibn Zeid, There is, therefore, not, by God, not any deity
 except God. After this instruction, no vacillation is in my heart
@@ -855,17 +855,17 @@ he the Guardian!
    And know thou, O my brother, that the reinforcement which comes to
 man from the Imâm, is the intelligence of man; and that intelligence
 belongs to the Imâm, and thought to the Bâb,<span
-id="page_191_fr_ddagger"></span>[‡](#page_191_note_ddagger) and
+id="page_191_fr_ddagger"></span>[‡](#page_191_note_ddagger.md) and
 attention to the Ḥujjeh, and <span id="page_192">p. 192</span> memory to
 the Dâ’i, and speculation to the Madhûn; and that this reinforcement
 comes from the Imâm and his Ḥujjehs to man in a state of indifference,
 and not knowing where they are placed;<span
-id="page_192_fr_*"></span>[\*](#page_192_note_*) and that there is in
+id="page_192_fr_*"></span>[\*](#page_192_note_*.md) and that there is in
 man the imagining faculty, and the thinking faculty, and the attending
 faculty, and the knowing faculty, and the understanding faculty; and
 that they are a resemblance of the Higher Measures, that is, the
 Intelligence,<span
-id="page_192_fr_dagger"></span>[†](#page_192_note_dagger) and the Soul,
+id="page_192_fr_dagger"></span>[†](#page_192_note_dagger.md) and the Soul,
 and El-Jedd, and El-Fatḥ, and El-Khiyâl. Know thou that, and thou wilt
 be orthodox, if God will.
 
@@ -882,10 +882,10 @@ hallowing to its Maker! and that its Producer, as to its intelligence,
 was the Sâbiḳ, and as to its holy soul, the Tâly, and as to its heart,
 El-Jedd, and as to its power of sensation and growth, El-Fatḥ, and
 El-Khiyâl, and as to its form, the Hiyûly;<span
-id="page_192_fr_ddagger"></span>[‡](#page_192_note_ddagger) and that the
+id="page_192_fr_ddagger"></span>[‡](#page_192_note_ddagger.md) and that the
 Hiyûly and for in constitute its higher, right side, which is animals
 and man; and that its lower, left side, consists of minerals and
-plants.<span id="page_192_fr_sect"></span>[§](#page_192_note_sect) Thus
+plants.<span id="page_192_fr_sect"></span>[§](#page_192_note_sect.md) Thus
 it was predetermined by the Mighty One, the Knowing One.
 
  
@@ -904,7 +904,7 @@ bodily form; so that the earth is not without him the twinkling of an
 eye, and it happens not to him to disappear except at the time of his
 manifestation, and the transmission from one form to another. And an
 Imâm is not transmitted from this state of being, until another Imâm
-takes his stand,<span id="page_193_fr_*"></span>[\*](#page_193_note_*)
+takes his stand,<span id="page_193_fr_*"></span>[\*](#page_193_note_*.md)
 on acccount of the transmission of the Word of the Imâm from one Place
 of manifestation to another.
 
@@ -918,20 +918,20 @@ Knowing One. Let it be accomplished!
 
 <span id="footnotes_page_169">p. 169</span>
 
-<span id="page_169_note_*"></span>[\*](#page_169_fr_*) The Imâms.
+<span id="page_169_note_*"></span>[\*](#page_169_fr_*.md) The Imâms.
 
-<span id="page_169_note_dagger"></span>[†](#page_169_fr_dagger) Ḳurân,
+<span id="page_169_note_dagger"></span>[†](#page_169_fr_dagger.md) Ḳurân,
 Sûr. xlix. v. 3.
 
-<span id="page_169_note_ddagger"></span>[‡](#page_169_fr_ddagger) The
+<span id="page_169_note_ddagger"></span>[‡](#page_169_fr_ddagger.md) The
 Ḥujjehs of the Imâms. See *Journ. of Am. Or. Soc.*, vol. ii. [p. 290,
-note §](isma1-3.htm#page_290_note_sect); Ibid., [p. 280, note
-†](isma1-3.htm#page_280_note_dagger).
+note §](isma1-3.htm#page_290_note_sect.md); Ibid., [p. 280, note
+†](isma1-3.htm#page_280_note_dagger.md).
 
-<span id="page_169_note_sect"></span>[§](#page_169_fr_sect) Ḳurân, Sûr.
+<span id="page_169_note_sect"></span>[§](#page_169_fr_sect.md) Ḳurân, Sûr.
 xix. v. 59.
 
-<span id="page_169_note_dvert"></span>[‖](#page_169_fr_dvert) Ḳurân,
+<span id="page_169_note_dvert"></span>[‖](#page_169_fr_dvert.md) Ḳurân,
 Sûr. xxv, v. 61. The passage refers, properly, to those who rejected
 Muḥammed. El-Beiḍhâhy says, "The command to worship the Merciful
 increases their shyness of the faith." See *Beidhawii Commentarius*,
@@ -939,39 +939,39 @@ vol. ii. p. 44.
 
 <span id="footnotes_page_170">p. 170</span>
 
-<span id="page_170_note_*"></span>[\*](#page_170_fr_*) Ḳurân. Sûr. ix.
+<span id="page_170_note_*"></span>[\*](#page_170_fr_*.md) Ḳurân. Sûr. ix.
 vv. 129-130.
 
-<span id="page_170_note_dagger"></span>[†](#page_170_fr_dagger)
+<span id="page_170_note_dagger"></span>[†](#page_170_fr_dagger.md)
 *Es-Sirâj*, meaning one who is most enlightened with human science
 
-<span id="page_170_note_ddagger"></span>[‡](#page_170_fr_ddagger) The
+<span id="page_170_note_ddagger"></span>[‡](#page_170_fr_ddagger.md) The
 Deity of the "Believer."
 
 <span id="footnotes_page_171">p. 171</span>
 
-<span id="page_171_note_*"></span>[\*](#page_171_fr_*) The word *Ḥadd*,
+<span id="page_171_note_*"></span>[\*](#page_171_fr_*.md) The word *Ḥadd*,
 Measure, is used in this Risâleh as synonymous with Correspondent, or
 Representative.
 
-<span id="page_171_note_dagger"></span>[†](#page_171_fr_dagger) See
+<span id="page_171_note_dagger"></span>[†](#page_171_fr_dagger.md) See
 *Journ. of Am. Or. Soc.*, vol. ii. [p. 265, note
-†](isma1-2.htm#page_265_note_dagger).
+†](isma1-2.htm#page_265_note_dagger.md).
 
-<span id="page_171_note_ddagger"></span>[‡](#page_171_fr_ddagger)
+<span id="page_171_note_ddagger"></span>[‡](#page_171_fr_ddagger.md)
 El-Fatḥ is a super-human type of El-Ḥasan, who is the first Imâm in this
-system. See [p. 185](#page_185).
+system. See [p. 185](#page_185.md).
 
-<span id="page_171_note_sect"></span>[§](#page_171_fr_sect) The Imâm
+<span id="page_171_note_sect"></span>[§](#page_171_fr_sect.md) The Imâm
 *par éminence*, i. e. the Prophet, as the connection shows.
 
 <span id="footnotes_page_172">p. 172</span>
 
-<span id="page_172_note_*"></span>[\*](#page_172_fr_*) Ḳurân, Sûr. ii.
+<span id="page_172_note_*"></span>[\*](#page_172_fr_*.md) Ḳurân, Sûr. ii.
 v. 285. "We distinguish not etc." is properly the language of believers
 in Muḥammed's mission.
 
-<span id="page_172_note_dagger"></span>[†](#page_172_fr_dagger) The
+<span id="page_172_note_dagger"></span>[†](#page_172_fr_dagger.md) The
 argument proceeds upon the assumption that "O our Lord!" is addressed to
 the Envoy Muḥammed as representing the Amr, by virtue of his
 correspondence to the Sâbiḳ, one of the two Eternal Roots created by the
@@ -979,23 +979,23 @@ Amr. This being assumed, it follows that the Prince of the believers is
 co-equal with the Envoy Muḥammed, since he too represents the Amr by his
 correspondence to the other Eternal Root, namely, the Tâly.
 
-<span id="page_172_note_ddagger"></span>[‡](#page_172_fr_ddagger) The
+<span id="page_172_note_ddagger"></span>[‡](#page_172_fr_ddagger.md) The
 Light of the Amr, which constitutes the essence of the two Eternal
 Roots. See below.
 
 <span id="footnotes_page_173">p. 173</span>
 
-<span id="page_173_note_*"></span>[\*](#page_173_fr_*) See *Journ. of
-Am. Or. Soc.*, vol. ii. [pp. 300-302](isma1-4.htm#page_300). But it is
+<span id="page_173_note_*"></span>[\*](#page_173_fr_*.md) See *Journ. of
+Am. Or. Soc.*, vol. ii. [pp. 300-302](isma1-4.htm#page_300.md). But it is
 here affirmed that the Sâbiḳ and the Tâly are named from their being the
 creators of spirits and bodies, respectively, the former having a higher
 destiny than the latter.
 
-<span id="page_173_note_dagger"></span>[†](#page_173_fr_dagger) See
+<span id="page_173_note_dagger"></span>[†](#page_173_fr_dagger.md) See
 *Journ. of Am. Or. Soc.*, vol. ii. [p. 306, note
-§](isma1-4.htm#page_306_note_sect).
+§](isma1-4.htm#page_306_note_sect.md).
 
-<span id="page_173_note_ddagger"></span>[‡](#page_173_fr_ddagger) Ḳurân,
+<span id="page_173_note_ddagger"></span>[‡](#page_173_fr_ddagger.md) Ḳurân,
 Sûr. xxxvi. v. 36. According to El-Beiḍhâwy's interpretation of this
 verse, it means, 'Glory he to him who created the varieties and species
 of plants and trees, the male and the female, and the mates of what he
@@ -1004,23 +1004,23 @@ of." See *Beidhawii Comment.*, vol. ii. p. 160.
 
 <span id="footnotes_page_174">p. 174</span>
 
-<span id="page_174_note_*"></span>[\*](#page_174_fr_*) Ḳurân, Sûr. xxvi.
+<span id="page_174_note_*"></span>[\*](#page_174_fr_*.md) Ḳurân, Sûr. xxvi.
 vv. 88-89.
 
-<span id="page_174_note_dagger"></span>[†](#page_174_fr_dagger) Ḳurân,
+<span id="page_174_note_dagger"></span>[†](#page_174_fr_dagger.md) Ḳurân,
 Sûr. l. v. 42.
 
-<span id="page_174_note_ddagger"></span>[‡](#page_174_fr_ddagger) A
+<span id="page_174_note_ddagger"></span>[‡](#page_174_fr_ddagger.md) A
 denial that secondary causes connect themselves with the Amr.
 
-<span id="page_174_note_sect"></span>[§](#page_174_fr_sect) That is, the
+<span id="page_174_note_sect"></span>[§](#page_174_fr_sect.md) That is, the
 true God, these being among the epithets most frequently applied to God
 in the Ḳurân.
 
-<span id="page_174_note_dvert"></span>[‖](#page_174_fr_dvert) Ḳurân,
+<span id="page_174_note_dvert"></span>[‖](#page_174_fr_dvert.md) Ḳurân,
 Sûr. lxxxviii. vv. 25-26.
 
-<span id="page_174_note_para"></span>[¶](#page_174_fr_para) The "Higher
+<span id="page_174_note_para"></span>[¶](#page_174_fr_para.md) The "Higher
 Similitudes" are the super-human Muḥammed and ’Aly and the super-human
 Fâṭimeh, Ḥasan, and Ḥusein, called El-Jedd, El-Fatḥ, and El-Khiyâl,
 whose origin is explained in the sequel. The "Earthly Resemblances" are
@@ -1028,132 +1028,132 @@ the same beings embodied on earth.
 
 <span id="footnotes_page_175">p. 175</span>
 
-<span id="page_175_note_*"></span>[\*](#page_175_fr_*) That is, the
+<span id="page_175_note_*"></span>[\*](#page_175_fr_*.md) That is, the
 super-human Muḥammed shows himself under the Veil of the temporary
 Prophet, as soon as he has furnished the latter with the law which he is
 to establish.
 
-<span id="page_175_note_dagger"></span>[†](#page_175_fr_dagger) In other
+<span id="page_175_note_dagger"></span>[†](#page_175_fr_dagger.md) In other
 words, inspires with the allegorical sense of the established law, which
 it is the office of the Asâs to disclose, See *Journ. of Am. Or. Soc.*,
-vol ii. [p. 266, note \*](isma1-2.htm#page_266_note_*).
+vol ii. [p. 266, note \*](isma1-2.htm#page_266_note_*.md).
 
-<span id="page_175_note_ddagger"></span>[‡](#page_175_fr_ddagger)
+<span id="page_175_note_ddagger"></span>[‡](#page_175_fr_ddagger.md)
 Supernatural inspiration, conceived of as a pen inscribing characters on
 the spirit.
 
-<span id="page_175_note_sect"></span>[§](#page_175_fr_sect) ln the
+<span id="page_175_note_sect"></span>[§](#page_175_fr_sect.md) ln the
 Ismâ’ilian and Druze systems, the Meshiyeh is the Tâly. See *Journ. of
-Am. Or. Soc.*, vol ii. [p. 300, note §](isma1-4.htm#page_300_note_sect).
+Am. Or. Soc.*, vol ii. [p. 300, note §](isma1-4.htm#page_300_note_sect.md).
 
 <span id="footnotes_page_176">p. 176</span>
 
-<span id="page_176_note_*"></span>[\*](#page_176_fr_*) The conception of
+<span id="page_176_note_*"></span>[\*](#page_176_fr_*.md) The conception of
 the Amr as being the Veritable Deity, here distinctly expressed, and
 implied through the whole of this Risâleh, presents an important point
 of contrast with Ismâ’ilian doctrine, according to which the Amr is the
 prime emanation from the Absolute Deity. See *Journ. of Am. Or. Soc.*,
-vol. ii. pp. [265, note \*](isma1-2.htm#page_265_note_*),
-[299-300](isma1-4.htm#page_299).
+vol. ii. pp. [265, note \*](isma1-2.htm#page_265_note_*.md),
+[299-300](isma1-4.htm#page_299.md).
 
-<span id="page_176_note_dagger"></span>[†](#page_176_fr_dagger) Namely,
+<span id="page_176_note_dagger"></span>[†](#page_176_fr_dagger.md) Namely,
 to itself, that is, the super-human Fâṭimeh, who sustains a relation to
 the super-human Muḥammed and ’Aly, similar to that which the Meshiyeh
 sustains to the Sâbiḳ and the Tâly.
 
-<span id="page_176_note_ddagger"></span>[‡](#page_176_fr_ddagger)
+<span id="page_176_note_ddagger"></span>[‡](#page_176_fr_ddagger.md)
 *Menzeleh*, Station, is a term used in this Risâleh to signify
 impersonation.
 
-<span id="page_176_note_sect"></span>[§](#page_176_fr_sect) Ḳurân, Sûr.
+<span id="page_176_note_sect"></span>[§](#page_176_fr_sect.md) Ḳurân, Sûr.
 liii. v. 28, with a clause added. "They name the angels with the naming
 of woman," is explained by El-Beiḍhâwy to mean, "that they name each of
 them a daughter." See *Beidhawii Comment.*, vol. ii. p. 294.
 
-<span id="page_176_note_dvert"></span>[‖](#page_176_fr_dvert) The
+<span id="page_176_note_dvert"></span>[‖](#page_176_fr_dvert.md) The
 super-human Muḥammed and ’Aly.
 
 <span id="footnotes_page_177">p. 177</span>
 
-<span id="page_177_note_*"></span>[\*](#page_177_fr_*) The Sâbiḳ and the
-Tâly. See [p. 180](#page_180).
+<span id="page_177_note_*"></span>[\*](#page_177_fr_*.md) The Sâbiḳ and the
+Tâly. See [p. 180](#page_180.md).
 
-<span id="page_177_note_dagger"></span>[†](#page_177_fr_dagger) That is
+<span id="page_177_note_dagger"></span>[†](#page_177_fr_dagger.md) That is
 the super-human Muḥammed and ’Aly, for whom the super-human Fâṭimeh was
 created, that she might serve as their medium of communication with each
-Prophet and Legatee. See [p. 176](#page_176).
+Prophet and Legatee. See [p. 176](#page_176.md).
 
-<span id="page_177_note_ddagger"></span>[‡](#page_177_fr_ddagger) That
+<span id="page_177_note_ddagger"></span>[‡](#page_177_fr_ddagger.md) That
 is, the Sâbiḳ constituted the essential reality of the impersonated
 Muḥammed. This is sufficiently explained by what goes before.
 
-<span id="page_177_note_sect"></span>[§](#page_177_fr_sect) That is, the
+<span id="page_177_note_sect"></span>[§](#page_177_fr_sect.md) That is, the
 Envoy personified in Muḥammed.
 
-<span id="page_177_note_dvert"></span>[‖](#page_177_fr_dvert) Allusions
+<span id="page_177_note_dvert"></span>[‖](#page_177_fr_dvert.md) Allusions
 to well-known circumstances in the life of Muḥammed. See *Mohammed der
 Prophet*, von Dr. Gustav Weil, pp. 40, ff., and 127. ’Abdallah Râwaḥah
 El-Anṣâry was one of Muḥammed's most zealous partizans.
 
 <span id="footnotes_page_178">p. 178</span>
 
-<span id="page_178_note_*"></span>[\*](#page_178_fr_*) The Imâms.
+<span id="page_178_note_*"></span>[\*](#page_178_fr_*.md) The Imâms.
 
 <span id="footnotes_page_179">p. 179</span>
 
-<span id="page_179_note_*"></span>[\*](#page_179_fr_*) Ḳurân, Sûr. xxi.
+<span id="page_179_note_*"></span>[\*](#page_179_fr_*.md) Ḳurân, Sûr. xxi.
 vv. 26-27. El-Beiḍhâwy informs us that this passage was revealed "on
 account of the Khuzâ’ites, upon their saying that the angels are
 daughters of God." The proper sense of the last clause is: "who act at
 his bidding." See *Beidhawii Comment.*, vol. i. pp. 614-615.
 
-<span id="page_179_note_dagger"></span>[†](#page_179_fr_dagger) See [p.
-177](#page_177).
+<span id="page_179_note_dagger"></span>[†](#page_179_fr_dagger.md) See [p.
+177](#page_177.md).
 
-<span id="page_179_note_ddagger"></span>[‡](#page_179_fr_ddagger) Or,
+<span id="page_179_note_ddagger"></span>[‡](#page_179_fr_ddagger.md) Or,
 made it a distinct essence.
 
 <span id="footnotes_page_180">p. 180</span>
 
-<span id="page_180_note_*"></span>[\*](#page_180_fr_*) Ḳurân, Sûr. v. v.
+<span id="page_180_note_*"></span>[\*](#page_180_fr_*.md) Ḳurân, Sûr. v. v.
 109. These words, addreseed to Jesus, make a part of what it is supposed
 God will say, on the day of judgement, to remind the Prophets of their
 miracles, and so to reprove the infidels for their infidelity. See
 *Beidhawii Comment.*, vol. i. p. 279.
 
-<span id="page_180_note_dagger"></span>[†](#page_180_fr_dagger) Ḳurân,
+<span id="page_180_note_dagger"></span>[†](#page_180_fr_dagger.md) Ḳurân,
 Sûr. xxiv. v. 35.
 
-<span id="page_180_note_ddagger"></span>[‡](#page_180_fr_ddagger) See
-[p. 175](#page_175).
+<span id="page_180_note_ddagger"></span>[‡](#page_180_fr_ddagger.md) See
+[p. 175](#page_175.md).
 
 <span id="footnotes_page_181">p. 181</span>
 
-<span id="page_181_note_*"></span>[\*](#page_181_fr_*) The Light of the
+<span id="page_181_note_*"></span>[\*](#page_181_fr_*.md) The Light of the
 Amr.
 
-<span id="page_181_note_dagger"></span>[†](#page_181_fr_dagger) Namely,
+<span id="page_181_note_dagger"></span>[†](#page_181_fr_dagger.md) Namely,
 the names of the so-called "elected impersonations." It is probable that
 these names are all taken from friends of Muḥammed and ’Aly; but have
 not been able to identify them all. They are here applied to beings of a
 higher order than man, though not strictly spiritual.
 
-<span id="page_181_note_ddagger"></span>[‡](#page_181_fr_ddagger) ’Ammâr
+<span id="page_181_note_ddagger"></span>[‡](#page_181_fr_ddagger.md) ’Ammâr
 and Abû-d-Darr are known as names of friends of Muḥammed.
 
 <span id="footnotes_page_182">p. 182</span>
 
-<span id="page_182_note_*"></span>[\*](#page_182_fr_*) This person was
+<span id="page_182_note_*"></span>[\*](#page_182_fr_*.md) This person was
 another of Muḥammed's friends.
 
-<span id="page_182_note_dagger"></span>[†](#page_182_fr_dagger) El-Bâḳir
+<span id="page_182_note_dagger"></span>[†](#page_182_fr_dagger.md) El-Bâḳir
 is so called as a descendant of Muḥammed. See the statement of
 Esh-Shahrastâny on this point, *Journ. of Am. Or. Soc.*, vol ii. [p.
-276](isma1-2.htm#page_276).
+276](isma1-2.htm#page_276.md).
 
 <span id="footnotes_page_183">p. 183</span>
 
-<span id="page_183_note_*"></span>[\*](#page_183_fr_*) Ḳurân, Sûr. xcvi.
+<span id="page_183_note_*"></span>[\*](#page_183_fr_*.md) Ḳurân, Sûr. xcvi.
 vv. 1-6. According to El-Beḍhâwy, "Read thou with the name of thy Lord"
 is the same as to say, "Read thou the Ḳurân, beginning with the name of
 thy Lord, or asking help therewith." "By the Pen" is explained by this
@@ -1163,7 +1163,7 @@ remote is thereby known." See *Beidhawii Comment.*, vol ii. pp. 409-10.
 
 <span id="footnotes_page_184">p. 184</span>
 
-<span id="page_184_note_*"></span>[\*](#page_184_fr_*) Ḳurân, Sûr.
+<span id="page_184_note_*"></span>[\*](#page_184_fr_*.md) Ḳurân, Sûr.
 xxiii. vv. 93-94, slightly abridged. El-Beiḍhâwy develops the argument
 here employed, thus: "If there had been deities beside him, as they say,
 each one of them would have certainly gone off with that which it
@@ -1174,36 +1174,36 @@ as is the case with kings in this world, and so the sovereignty over all
 things would not have been in its hands alone." See *Beidhawii
 Comment.*, vol. ii. p. 11.
 
-<span id="page_184_note_dagger"></span>[†](#page_184_fr_dagger) Ḳurân,
+<span id="page_184_note_dagger"></span>[†](#page_184_fr_dagger.md) Ḳurân,
 Sûr. ii. v. 214.
 
-<span id="page_184_note_ddagger"></span>[‡](#page_184_fr_ddagger) Ḳurân,
+<span id="page_184_note_ddagger"></span>[‡](#page_184_fr_ddagger.md) Ḳurân,
 Sûr. xxii. v. 11; Id. xxxix v. 17.
 
-<span id="page_184_note_sect"></span>[§](#page_184_fr_sect) Ḳurân, Sûr.
+<span id="page_184_note_sect"></span>[§](#page_184_fr_sect.md) Ḳurân, Sûr.
 l. v. 17. The passage alludes to two angels supposed to stand, one on
 the right, and the other on the left, of man, during his course on
 earth, to take account of his good and bad deeds. See *Beidhawii
 Comment.*, vol. ii. p. 279.
 
-<span id="page_184_note_dvert"></span>[‖](#page_184_fr_dvert) See [p.
-179, note \*](#page_179_note_*).
+<span id="page_184_note_dvert"></span>[‖](#page_184_fr_dvert.md) See [p.
+179, note \*](#page_179_note_*.md).
 
-<span id="page_184_note_para"></span>[¶](#page_184_fr_para) Ḳurân, Sûr.
+<span id="page_184_note_para"></span>[¶](#page_184_fr_para.md) Ḳurân, Sûr.
 xlii. v. 9.
 
 <span id="footnotes_page_185">p. 185</span>
 
-<span id="page_185_note_*"></span>[\*](#page_185_fr_*) i. e. The
+<span id="page_185_note_*"></span>[\*](#page_185_fr_*.md) i. e. The
 Brilliant, meaning Fâṭimeh. Some intimation of what is symbolized under
 the names here given to the super-human Fâṭimeh, Ḥasan and Ḥusein, may
 be derived from *Journ. of Am. Or. Soc.*, vol. ii. [p. 312, note
-†](isma1-4.htm#page_312_note_dagger), and the passage there referred to.
+†](isma1-4.htm#page_312_note_dagger.md), and the passage there referred to.
 
-<span id="page_185_note_dagger"></span>[†](#page_185_fr_dagger) Meaning,
+<span id="page_185_note_dagger"></span>[†](#page_185_fr_dagger.md) Meaning,
 the Collection of traditions.
 
-<span id="page_185_note_ddagger"></span>[‡](#page_185_fr_ddagger) The
+<span id="page_185_note_ddagger"></span>[‡](#page_185_fr_ddagger.md) The
 words here mystified, signifying "be thou, and so it is," are those by
 which the creative power of God is so often expressed in the Ḳurân. The
 Creator's mandate, *Kun*, be thou, is here imagined to represent the
@@ -1212,38 +1212,38 @@ while in the result of that mandate, *fatekun*, and so it is, is found a
 symbol of the super-human Muḥammed and ’Aly, and the super-human
 Fâṭimeh, Ḥasan, and Ḥusein, as branches from that Light.
 
-<span id="page_185_note_sect"></span>[§](#page_185_fr_sect) See *Journ.
+<span id="page_185_note_sect"></span>[§](#page_185_fr_sect.md) See *Journ.
 of Am. Or. Soc.*, vol. ii. [p. 309, note
-‡](isma1-4.htm#page_309_note_ddagger).
+‡](isma1-4.htm#page_309_note_ddagger.md).
 
 <span id="footnotes_page_186">p. 186</span>
 
-<span id="page_186_note_*"></span>[\*](#page_186_fr_*) Ḳurân, Sûr. ci.
+<span id="page_186_note_*"></span>[\*](#page_186_fr_*.md) Ḳurân, Sûr. ci.
 vv. 5-8. El-Beiḍhâwy explains the clause "Hâwiyeh will be his mother" by
 "his dwelling-place will be the Fire." See *Beidhawii Comment.*, vol.
 ii. p. 414.
 
-<span id="page_186_note_dagger"></span>[†](#page_186_fr_dagger) That is,
+<span id="page_186_note_dagger"></span>[†](#page_186_fr_dagger.md) That is,
 the Light created by the Amr.
 
 <span id="footnotes_page_187">p. 187</span>
 
-<span id="page_187_note_*"></span>[\*](#page_187_fr_*) Ḳurân, Sûr. xli.
+<span id="page_187_note_*"></span>[\*](#page_187_fr_*.md) Ḳurân, Sûr. xli.
 v. 11. The " Amr" of each heaven is explained by El-Beiḍhâwy to mean
 "its business, that which is brought to pass by it, through being
 charged therewith, of choice, or by nature," alluding to planetary
 influences. See *Beidhawii Comment.*, vol ii. p. 220. In our text, these
 influences are personified.
 
-<span id="page_187_note_dagger"></span>[†](#page_187_fr_dagger) The Imâm
+<span id="page_187_note_dagger"></span>[†](#page_187_fr_dagger.md) The Imâm
 is here described under three aspects: first, as comprehended in the
 five Lights put forth from the Sâbiḳ and the Tâly, then, as prefigured
 in the seven Planets, and last, as existing in human form.
 
-<span id="page_187_note_ddagger"></span>[‡](#page_187_fr_ddagger) That
+<span id="page_187_note_ddagger"></span>[‡](#page_187_fr_ddagger.md) That
 is, an embodiment adapted to it.
 
-<span id="page_187_note_sect"></span>[§](#page_187_fr_sect) Ḳurân, Sûr.
+<span id="page_187_note_sect"></span>[§](#page_187_fr_sect.md) Ḳurân, Sûr.
 xxxvii. v. 164. This is interpreted by El-Beiḍhâwy as "a confession by
 the angels of their subordination, by way of disowning their being
 eternal;" "their known places," he adds, "in respect to knowledge, and
@@ -1252,74 +1252,74 @@ world." See *Beidhawii Comment.*, vol ii. p. 179.
 
 <span id="footnotes_page_188">p. 188</span>
 
-<span id="page_188_note_*"></span>[\*](#page_188_fr_*) Ḳurân, Sûr. v. v.
+<span id="page_188_note_*"></span>[\*](#page_188_fr_*.md) Ḳurân, Sûr. v. v.
 117. These words are a part of what Jesus, as is supposed, will say to
 God at the last day, in justification of himself, in view of the errors
 of Christians. In the application here made of them, it seems to be
 implied, that, if the "Observer" means the Legatee, the "Prepared One,"
 as the Observer's mate, must be the Prophet.
 
-<span id="page_188_note_dagger"></span>[†](#page_188_fr_dagger) See
+<span id="page_188_note_dagger"></span>[†](#page_188_fr_dagger.md) See
 *Journ. of Am. Or. Soc.*, vol. ii. [p. 289, note
-\*](isma1-3.htm#page_289_note_*).
+\*](isma1-3.htm#page_289_note_*.md).
 
-<span id="page_188_note_ddagger"></span>[‡](#page_188_fr_ddagger)
+<span id="page_188_note_ddagger"></span>[‡](#page_188_fr_ddagger.md)
 Compare what is said of the doctrine of the Nuṣairis, in *Journ. of Am.
-Or. Soc.*, vol. ii. [pp. 289-290](isma1-3.htm#page_289).
+Or. Soc.*, vol. ii. [pp. 289-290](isma1-3.htm#page_289.md).
 
 <span id="footnotes_page_189">p. 189</span>
 
-<span id="page_189_note_*"></span>[\*](#page_189_fr_*) See [p.
-185](#page_185).
+<span id="page_189_note_*"></span>[\*](#page_189_fr_*.md) See [p.
+185](#page_185.md).
 
 <span id="footnotes_page_190">p. 190</span>
 
-<span id="page_190_note_*"></span>[\*](#page_190_fr_*) Ḳurân, Sûr. xiv.
+<span id="page_190_note_*"></span>[\*](#page_190_fr_*.md) Ḳurân, Sûr. xiv.
 vv. 29-30, quoted *ad sensum*.
 
-<span id="page_190_note_dagger"></span>[†](#page_190_fr_dagger) See [p.
-180](#page_180).
+<span id="page_190_note_dagger"></span>[†](#page_190_fr_dagger.md) See [p.
+180](#page_180.md).
 
-<span id="page_190_note_ddagger"></span>[‡](#page_190_fr_ddagger) This
+<span id="page_190_note_ddagger"></span>[‡](#page_190_fr_ddagger.md) This
 passage suggests an important inquiry; to which, however, no
 satisfactory answer can be given, at present. Perhaps an acquaintance
 with the books of the Nuṣairis may serve to explain the allusion.
 
 <span id="footnotes_page_191">p. 191</span>
 
-<span id="page_191_note_*"></span>[\*](#page_191_fr_*) An allusion to
+<span id="page_191_note_*"></span>[\*](#page_191_fr_*.md) An allusion to
 the words of Christ in instituting the sacrament of the Last Supper.
 
-<span id="page_191_note_dagger"></span>[†](#page_191_fr_dagger) Ḳurân,
+<span id="page_191_note_dagger"></span>[†](#page_191_fr_dagger.md) Ḳurân,
 Sûr. xiv. v. 52.
 
-<span id="page_191_note_ddagger"></span>[‡](#page_191_fr_ddagger)
+<span id="page_191_note_ddagger"></span>[‡](#page_191_fr_ddagger.md)
 Respecting the Bâb, the Ḥujjeh, the Dâ’i, and the Madhan, see *Journ. of
 Am. Or. Soc.*, vol ii. [p. 280, notes
-†](isma1-3.htm#page_280_note_dagger), §, ‖, ¶.
+†](isma1-3.htm#page_280_note_dagger.md), §, ‖, ¶.
 
 <span id="footnotes_page_192">p. 192</span>
 
-<span id="page_192_note_*"></span>[\*](#page_192_fr_*) See [p. 187, note
-‡](#page_187_note_ddagger).
+<span id="page_192_note_*"></span>[\*](#page_192_fr_*.md) See [p. 187, note
+‡](#page_187_note_ddagger.md).
 
-<span id="page_192_note_dagger"></span>[†](#page_192_fr_dagger) "The
+<span id="page_192_note_dagger"></span>[†](#page_192_fr_dagger.md) "The
 Intelligence" and "the Soul" are names here applied to the super-human
 Muḥammed and ’Aly. Compare the Ismâ’ilian doctrine in *Journ. of Am. Or.
-Soc.*, vol. ii. [pp. 300-301](isma1-4.htm#page_300).
+Soc.*, vol. ii. [pp. 300-301](isma1-4.htm#page_300.md).
 
-<span id="page_192_note_ddagger"></span>[‡](#page_192_fr_ddagger) See
+<span id="page_192_note_ddagger"></span>[‡](#page_192_fr_ddagger.md) See
 *Journ. of Am. Or. Soc.*, vol. ii. [p. 300, note
-‡](isma1-4.htm#page_300_note_ddagger).
+‡](isma1-4.htm#page_300_note_ddagger.md).
 
-<span id="page_192_note_sect"></span>[§](#page_192_fr_sect) Compare the
+<span id="page_192_note_sect"></span>[§](#page_192_fr_sect.md) Compare the
 Ismâ’ilian cosmogony, in *Journ. of Am. Or. Soc.*, vol ii. [pp.
-302-306](isma1-4.htm#page_302).
+302-306](isma1-4.htm#page_302.md).
 
 <span id="footnotes_page_193">p. 193</span>
 
-<span id="page_193_note_*"></span>[\*](#page_193_fr_*) Namely, at the
-commencement of a new period. See [p. 175](#page_175).
+<span id="page_193_note_*"></span>[\*](#page_193_fr_*.md) Namely, at the
+commencement of a new period. See [p. 175](#page_175.md).
 
  
 

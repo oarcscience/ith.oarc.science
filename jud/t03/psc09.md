@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc08)  [Next](psc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc08)  [Next](psc10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -17,8 +17,8 @@ tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 REGULATIONS CONCERNING THE SACRIFICE OF THE PASCHAL LAMB.
 
 MISHNA: The continual (daily) offering <span
-id="fr_52"></span>[1](#fn_52) was slaughtered half an hour <span
-id="fr_53"></span>[2](#fn_53) after the eighth hour, and sacrificed half
+id="fr_52"></span>[1](#fn_52.md) was slaughtered half an hour <span
+id="fr_53"></span>[2](#fn_53.md) after the eighth hour, and sacrificed half
 an hour after the ninth hour; but on the day before Passover, whether
 that day happened to be a week-day or a Sabbath, it was slaughtered half
 an hour after the seventh hour, and sacrificed half an hour after the
@@ -94,7 +94,7 @@ nothing shall be sacrificed after the evening sacrifice? Said Rabha:
 
 <span id="page_108">p. 108</span>
 
-offerings, <span id="fr_54"></span>[1](#fn_54) and that means that the
+offerings, <span id="fr_54"></span>[1](#fn_54.md) and that means that the
 peace-offerings shall be the last.
 
 The rabbis taught: "The daily (evening) offering precedes the
@@ -146,7 +146,7 @@ rendered."
 
 MISHNA: If the Passover-sacrifice had not been slaughtered for the
 purpose of sacrificing it as a Passover-sacrifice, <span
-id="fr_55"></span>[1](#fn_55) or its blood had not been received for
+id="fr_55"></span>[1](#fn_55.md) or its blood had not been received for
 that purpose, or the blood had not been brought to the altar and
 sprinkled for that purpose, or if one act had been accomplished with it
 in order to make it a Passover-sacrifice and another not for that
@@ -376,7 +376,7 @@ circumcised renders him equal to being so."
 
 Does then R. Hisda hold that the supposition that a thing can be
 accomplished renders it equal to having been accomplished? Have we not
-learned (page [74](psc07.htm#page_74)) that he does not admit of that
+learned (page [74](psc07.htm#page_74).md) that he does not admit of that
 theory? Let us say, then, that he does not hold to the theory of that
 supposition only in the case of a lenient ordinance, but in the case of
 one that is rigorous he assents to the same.
@@ -466,7 +466,7 @@ concerning, Azel and his six sons in the eighth chapter and the same
 passage in the ninth chapter (see Chronicles viii. 38 and ibid. ix. 44)
 required so much space in the book of ancestry that the material whereon
 it was written had to be transported by four hundred camels." <span
-id="fr_56"></span>[1](#fn_56)
+id="fr_56"></span>[1](#fn_56.md)
 
 We have learned in a Boraitha: Anonymous teachers say: "If, when
 slaughtering the Passover-sacrifice, the intention originally was that
@@ -556,7 +556,7 @@ it matters not. Thus only the slaughterer, the sprinkler, and the one
 who burns the fat of the sacrifice are guilty if having leaven in their
 possession, but not one who on the 14th day (of Nissan) pinches off the
 head of the fowl, brought as a sacrifice, by the back of its
-neck." <span id="fr_57"></span>[1](#fn_57)
+neck." <span id="fr_57"></span>[1](#fn_57.md)
 
 "*R. Jehudah says: This rule applies to the continual daily offering*,"
 etc. What is the reason for R. Jehudah's statement? Because it is
@@ -627,7 +627,7 @@ and might even say it for the third time, although it never happened
 that there was occasion to say it thrice. R. Jehudah says: "It never
 happened that the third division read as far as the chapter commencing,
 'It is lovely to me, that the Lord heareth my voice' (Psalms
-cxvi.), <span id="fr_58"></span>[1](#fn_58) because they were few in
+cxvi.), <span id="fr_58"></span>[1](#fn_58.md) because they were few in
 number."
 
 The same things that were done on week-days were also done on the
@@ -819,29 +819,29 @@ Elish: This is after the manner of the Ishmaelitish meat-dealers.
 
 ### Footnotes
 
-<span id="fn_52"></span>[106:1](psc09.htm#fr_52) See Numbers xxviii. 3.
+<span id="fn_52"></span>[106:1](psc09.htm#fr_52.md) See Numbers xxviii. 3.
 
-<span id="fn_53"></span>[106:2](psc09.htm#fr_53) All hours mentioned in
+<span id="fn_53"></span>[106:2](psc09.htm#fr_53.md) All hours mentioned in
 Mishnaoth and Gemara are counted according to Palestinian time, The
 first hour in the morning is counted from our time, six o'clock.
 
-<span id="fn_54"></span>[108:1](psc09.htm#fr_54) The Hebrew term for
+<span id="fn_54"></span>[108:1](psc09.htm#fr_54.md) The Hebrew term for
 peace-offerings is "Hashlomim," and "Hashlom" also signifies "to
 complete," whence Rabha adduces that the peace-offerings complete the
 sacrifices for the day and nothing further must be sacrificed.
 
-<span id="fn_55"></span>[109:1](psc09.htm#fr_55) The manner of procedure
+<span id="fn_55"></span>[109:1](psc09.htm#fr_55.md) The manner of procedure
 necessary to make a Passover-offering efficacious will be more fully
 explained in Tract Zeba'him (Sacrifices).
 
-<span id="fn_56"></span>[116:1](psc09.htm#fr_56) According to the Aruch
+<span id="fn_56"></span>[116:1](psc09.htm#fr_56.md) According to the Aruch
 the passage commencing with Azel and ending with Azel in the one chapter
 required so much space, while the version rendered above is according to
 Rashi.
 
-<span id="fn_57"></span>[118:1](psc09.htm#fr_57) See Levit. v. 8.
+<span id="fn_57"></span>[118:1](psc09.htm#fr_57.md) See Levit. v. 8.
 
-<span id="fn_58"></span>[120:1](psc09.htm#fr_58) The Hallel prayer
+<span id="fn_58"></span>[120:1](psc09.htm#fr_58.md) The Hallel prayer
 consists of the recital of six chapters of Psalms, from cxiii. to
 cxviii. incl.
 
@@ -849,4 +849,4 @@ cxviii. incl.
 
 [Next: Chapter VI: Regulations Concerning Acts Which Supersede the Due
 Observance of the Sabbath; The Paschal Offering; What if One Sacrifice
-is Confounded with Another](psc10)
+is Confounded with Another](psc10.md)

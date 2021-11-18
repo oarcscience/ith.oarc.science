@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar15)  [Next](gar17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar15)  [Next](gar17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -140,7 +140,7 @@ Israel to the court of the women in the Temple."
 Or the following ODE may be sung:
 
 <span id="img_05900"></span> <span align="CENTER"> [![](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)</span>
+Click to enlarge](img/05900.jpg.md)</span>
 
 <div style="margin-left: 32px">
 
@@ -156,7 +156,7 @@ Like Hermon's dew so richly shed
 </div>
 
 <span id="img_06000"></span> <span align="CENTER"> [![](tn/06000.jpg)  
-Click to enlarge](img/06000.jpg)</span>
+Click to enlarge](img/06000.jpg.md)</span>
 
 <div style="margin-left: 32px">
 
@@ -182,4 +182,4 @@ expected of him incompatible with his civil, moral, or religions duties.
 
 ------------------------------------------------------------------------
 
-[Next: Obligation of Secrecy](gar17)
+[Next: Obligation of Secrecy](gar17.md)

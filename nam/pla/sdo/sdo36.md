@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo35)  [Next](sdo37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo35)  [Next](sdo37.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ so. Then she ululated shrilly several times.
 
 ------------------------------------------------------------------------
 
-[Next: The Ceremony](sdo37)
+[Next: The Ceremony](sdo37.md)

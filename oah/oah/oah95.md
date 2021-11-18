@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah94)  [Next](oah96) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah94)  [Next](oah96.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ amongst themselves.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](oah96)
+[Next: Chapter IX](oah96.md)

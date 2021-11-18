@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq54)  [Next](sfq56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq54)  [Next](sfq56.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,7 +138,7 @@ this peerless image of perfection, he
 <span id="img_25400"></span>
 
 [![](tn/25400.jpg)  
-Click to enlarge](img/25400.jpg)
+Click to enlarge](img/25400.jpg.md)
 
 too was terrified, and did homage to Britomart as to some celestial
 vision.
@@ -156,4 +156,4 @@ showed themselves to her such as indeed they were.
 
 ------------------------------------------------------------------------
 
-[Next: How Britomart ended her Quest](sfq56)
+[Next: How Britomart ended her Quest](sfq56.md)

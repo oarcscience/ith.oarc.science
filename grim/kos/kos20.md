@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos19)  [Next](kos21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos19)  [Next](kos21.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ## CHAPTER XV
 
-### OF THE EXPERIMENT OF SEEKING FAVOUR AND LOVE <span id="fr_68"></span>[1](#fn_68)
+### OF THE EXPERIMENT OF SEEKING FAVOUR AND LOVE <span id="fr_68"></span>[1](#fn_68.md)
 
 IF thou wishest to perform the Experiment of seeking favour and love,
 observe in what manner the Experiment is to be carried out, and if it be
@@ -46,7 +46,7 @@ shalt not succeed in any manner.
 
 For obtaining grace and love write down the following words
 
-SATOR, <span id="fr_69"></span>[1](#fn_69) AREPO, TENET, OPERA, ROTAS,
+SATOR, <span id="fr_69"></span>[1](#fn_69.md) AREPO, TENET, OPERA, ROTAS,
 IAH, IAH, IAH, ENAM, IAH, IAH, IAH, KETHER, CHOKMAH, BINAH, GEDULAH,
 GEBURAH, TIPHERETH, NETZACH, HOD, YESOD, MALKUTH, ABRAHAM, ISAAC, JACOB,
 SHADRACH, MESHACH, ABEDNEGO, be ye all present in my aid and for
@@ -59,13 +59,13 @@ desire brought to pass.
 
 ### Footnotes
 
-<span id="fn_68"></span>[59:1](kos20.htm#fr_68) This Chapter is taken
+<span id="fn_68"></span>[59:1](kos20.htm#fr_68.md) This Chapter is taken
 from 10862 Add. MSS.
 
-<span id="fn_69"></span>[60:1](kos20.htm#fr_69) This Incantation is also
+<span id="fn_69"></span>[60:1](kos20.htm#fr_69.md) This Incantation is also
 given in 1307 Sloane MSS., page 76.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVI. How Operations of Mockery, Invisibility, And Deceit
-Should Be Prepared](kos21)
+Should Be Prepared](kos21.md)

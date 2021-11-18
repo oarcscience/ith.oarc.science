@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca09) 
-[Next](lca11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca09.md) 
+[Next](lca11.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,10 +57,10 @@ sanctioned in endless forms, each looked upon as the only moral and
 possible form in its own time and country; and that the position of
 women under these different conditions has varied in the most remarkable
 way--that in some of the primitive societies where group-marriages <span
-id="fr_27"></span>[1](#fn_27) of one kind or another prevailed their
+id="fr_27"></span>[1](#fn_27.md) of one kind or another prevailed their
 dignity and influence were of the highest, that under some forms of
 Monogamy, as among the Nagas of Bengal, <span
-id="fr_28"></span>[2](#fn_28) women have been abjectly degraded, while
+id="fr_28"></span>[2](#fn_28.md) women have been abjectly degraded, while
 under other forms, as in Ancient Egypt and the later Roman Empire, they
 have been treated with respect; and so forth. We cannot fail, I say, to
 recognise the enormous diversity of practice which has existed over the
@@ -122,7 +122,7 @@ with their efforts towards a proud ascendancy over the body, there was
 <span id="page_140">p. 140</span>
 
 modern West) an equally vital and important truth <span
-id="fr_29"></span>[1](#fn_29), which will have to be rehabilitated. The
+id="fr_29"></span>[1](#fn_29.md), which will have to be rehabilitated. The
 practices of former races and times, however anomalous they may
 sometimes appear to us, were after all in the main the expression of
 needs and desires which *had* their place in human nature, and which
@@ -165,7 +165,7 @@ beings, it will not therefore confuse them, but will see that these
 different needs indicate different functions, all of which may have
 their place and purpose. If it has the good sense to tolerate a
 Nature-festival now and then, and a certain amount of
-animalism [141](lca15.htm#xref_141) let loose, it will not be so foolish
+animalism [141](lca15.htm#xref_141.md) let loose, it will not be so foolish
 as to be unable to
 
 <span id="page_142">p. 142</span>
@@ -274,7 +274,7 @@ permanent relations to others.
 
 Surely in some subtle way if one person sincerely love another, heart
 and soul, that other becomes a part of the lover, indissolubly wrought
-into his being <span id="fr_30"></span>[1](#fn_30) Mentally the two grow
+into his being <span id="fr_30"></span>[1](#fn_30.md) Mentally the two grow
 and become compact together. No thought that the lover thinks, no scene
 that he looks on, but the impress of his loved one in some way is on
 it--so that as long as he exists (here or anywhere) with his most
@@ -363,22 +363,22 @@ decades of years in, as it were, a state of evergrowing perfection.
 
 ### Footnotes
 
-<span id="fn_27"></span>[137:1](lca10.htm#fr_27) See Note on the
+<span id="fn_27"></span>[137:1](lca10.htm#fr_27.md) See Note on the
 Primitive Group-marriage, *infra*.
 
-<span id="fn_28"></span>[137:2](lca10.htm#fr_28) Letourneau ("Evolution
+<span id="fn_28"></span>[137:2](lca10.htm#fr_28.md) Letourneau ("Evolution
 of Marriage," p. 173) mentions also among the inferior races who have
 adopted Monogamy the Veddahs of Ceylon, the Bochimans of S. Africa, and
 the Kurnais of Australia.
 
-<span id="fn_29"></span>[140:1](lca10.htm#fr_29) See Remarks on the
+<span id="fn_29"></span>[140:1](lca10.htm#fr_29.md) See Remarks on the
 Early Star and Sex Worship, *infra*.
 
-<span id="fn_30"></span>[146:1](lca10.htm#fr_30) Perhaps this accounts
+<span id="fn_30"></span>[146:1](lca10.htm#fr_30.md) Perhaps this accounts
 for the feeling, which so many have experienced, that a great love, even
 though not apparently returned, justifies itself, and has its fruition
 in its own time and its own way.
 
 ------------------------------------------------------------------------
 
-[Next: Some Remarks on the Early Star and Sex Worships](lca11)
+[Next: Some Remarks on the Early Star and Sex Worships](lca11.md)

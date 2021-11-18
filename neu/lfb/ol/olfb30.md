@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb29)  [Next](olfb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb29)  [Next](olfb31.md) 
 
 </div>
 
@@ -414,6 +414,6 @@ the old times and the new, and whispering softly to each other:
 
 ------------------------------------------------------------------------
 
-[Next: The Silent Princess](olfb31)
+[Next: The Silent Princess](olfb31.md)
 
 </div>

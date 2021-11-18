@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp01)  [Next](orrp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp01)  [Next](orrp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,7 +125,7 @@ the destruction of the universe,
 <span id="page_ix">p. ix</span>
 
 the death of the wicked, and the eternal happiness of the good in a
-reconstructed world." <span id="fr_0"></span>[1](#fn_0)
+reconstructed world." <span id="fr_0"></span>[1](#fn_0.md)
 
 If this formulation of pagan doctrine surprises those who have been told
 that paganism was "a fashion rather than a faith," and are accustomed to
@@ -231,7 +231,7 @@ the arms of Christianity, and to recognize this does not mean to
 minimize the significance of Christianity. We are under no necessity of
 artificially darkening the heathen world; the light of the Evangel
 streams into it brightly enough without this." <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 Finally, the work of M. Cumont and others in the field of the ancient
 Oriental religions is not an isolated activity, but part of a larger
@@ -294,15 +294,15 @@ THE UNIVERSITY OF WISCONSIN.                   
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:1](orrp02.htm#fr_0) This summary of M.
+<span id="fn_0"></span>[ix:1](orrp02.htm#fr_0.md) This summary of M.
 Cumont's chapter is quoted from my review of the first edition of *Les
 religions orientales* in *Classical Philology*, III, 4, p. 467.
 
-<span id="fn_1"></span>[xii:1](orrp02.htm#fr_1) *Die Religion der
+<span id="fn_1"></span>[xii:1](orrp02.htm#fr_1.md) *Die Religion der
 Römer*, p. 116. For the significance of the pagan faiths, see an essay
 on "The Ancient Religions in Universal History," *American Journal of
 Philology*, XXIX 2, pp. 156-171.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](orrp03)
+[Next: Preface](orrp03.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp08)  [Next](itp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp08)  [Next](itp10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -135,7 +135,7 @@ negligible or servile characters.
 There is ample evidence indeed to show that the status of women among
 the early Dorians was one of freedom and honour--a survival, perhaps, of
 a matriarchal period. Addington Symonds, in his *Key of Blue*  <span
-id="fr_64"></span>[1](#fn_64) (p. 64), says:--"This masculine love did
+id="fr_64"></span>[1](#fn_64) (p. 64.md), says:--"This masculine love did
 not exclude marriage, nor had it the effect of lowering the position of
 women in society, since it is notorious that in those Dorian States
 where the love of comrades became an institution, women received *more*
@@ -151,7 +151,7 @@ wrestle naked, like the youths, to dance and sing in public, and to
 associate freely with men. Marriage was permitted only in the prime of
 life; and a free intercourse, outside the limits of marriage, between
 healthy men and women was encouraged and approved by public
-opinion." <span id="fr_65"></span>[2](#fn_65)
+opinion." <span id="fr_65"></span>[2](#fn_65.md)
 
 <span id="page_108">p. 108</span>
 
@@ -186,7 +186,7 @@ those who were rallied were as sensibly touched with it as if they had
 been formally and severely reprimanded; and so much the more because the
 Kings and the whole Senate, as well as the rest of the rest of the city,
 went to see and hear all that passed." <span
-id="fr_66"></span>[1](#fn_66)
+id="fr_66"></span>[1](#fn_66.md)
 
 This passage is particularly interesting here for two reasons:--(1)
 because it shows the respect of the men for the opinion of the
@@ -200,7 +200,7 @@ exercise by the banks of the Eurotas:--
 
 <span class="small">"Thrice eighty virgins we pursued the race,  
 Like men, anointed with the glistering oil."</span> <span
-id="fr_67"></span>[2](#fn_67)
+id="fr_67"></span>[2](#fn_67.md)
 
 <span class="contnote">\[paragraph continues\]</span> No wonder it has
 been said of the Spartans that
@@ -209,18 +209,18 @@ been said of the Spartans that
 
 they were "the most healthy of the Greeks, and that the most beautiful
 men as well as women were found amongst them." <span
-id="fr_68"></span>[1](#fn_68) Nor can we be surprised to read further in
+id="fr_68"></span>[1](#fn_68.md) Nor can we be surprised to read further in
 Plutarch the anecdote of Gorgo, wife of King Leonidas,--"who being told,
 in discourse with some foreign ladies, 'You women of Lacedaemon are they
 only of the world who have an empire over the men,' she briskly
 reparteed: 'A good reason, for we are the only women who bring forth
-Men.'" <span id="fr_69"></span>[2](#fn_69) All this goes to show clearly
+Men.'" <span id="fr_69"></span>[2](#fn_69.md) All this goes to show clearly
 enough that--however it may have been in other Greek States, or at other
 times--contempt and neglect of women did *not* prevail in Sparta in the
 period which we are considering; and it proves conclusively that the
 institution of military love among the Dorians did *not* rest upon
 inferiority in the character of the women, or on any insufficiency of
-access to them. <span id="fr_70"></span>[3](#fn_70) The love was an
+access to them. <span id="fr_70"></span>[3](#fn_70.md) The love was an
 independent and authentic phenomenon, self-produced out of the heart and
 temperament of the people, and not to be explained away by adventitious
 and subsidiary circumstances.
@@ -250,14 +250,14 @@ Certainly it is curious that the gradual fall of the status of women in
 Greece from those early days down to the 5th, 4th, and 3rd centuries,
 B.C., when the position of the wife became that of a domestic drudge,
 and her ideal was "to stay at home and mind the house" <span
-id="fr_71"></span>[1](#fn_71)--that this fall was
+id="fr_71"></span>[1](#fn_71.md)--that this fall was
 
 <span id="page_112">p. 112</span>
 
 simultaneous with the gradual decline of the honour in which manly love
 was held, and its gradual deterioration from a great civic institution
 into a mere personal pastime and indulgence. The growth of civilisation
-(as has elsewhere been remarked) <span id="fr_72"></span>[1](#fn_72) had
+(as has elsewhere been remarked) <span id="fr_72"></span>[1](#fn_72.md) had
 from the first the effect of accentuating the sex-passion. The luxurious
 selfishness of men was stimulated in a way that led to the ultimate
 enslavement of women; and it is possible that the simultaneous decay of
@@ -287,7 +287,7 @@ was active and salient among the women also. Plutarch, in his *Lycurgus*
 (c. 18), speaking of *paiderastia* among the Spartans, says:--"This sort
 of love was so much in fashion among them that the most staid and
 virtuous matrons would own publicly their passion to a modest and
-beautiful virgin." <span id="fr_73"></span>[1](#fn_73) The loves of the
+beautiful virgin." <span id="fr_73"></span>[1](#fn_73.md) The loves of the
 Lesbian women and of Sappho (B.C. 600) have been celebrated in all
 literature, and have in modern times been treated with more respect,
 perhaps, and understanding, than their counterpart among Greek men.
@@ -302,19 +302,19 @@ in connection
 
 with Sappho--presuppose equally close bonds among the men; just as these
 latter in Sparta had their counterpart in feminine associations." <span
-id="fr_74"></span>[1](#fn_74) And in another passage, rebutting the
+id="fr_74"></span>[1](#fn_74.md) And in another passage, rebutting the
 contention that these homosexual relations sprang from the seclusion of
 the sexes from each other, he says:--"The attempt breaks down utterly in
 face of the fact that just in Sparta and Lesbos, where we know most
 about this boy-love and girl-love, the sexes to the best of our
 knowledge, mixed with each other *more* freely than in the other Greek
-States." <span id="fr_75"></span>[2](#fn_75)
+States." <span id="fr_75"></span>[2](#fn_75.md)
 
 There appears to have been a curious custom in Sparta, connected with
 the ordinary marriage by capture, which may be mentioned here as
 suggesting some *wavering*, so to speak, at that time, of the line
 between male and female. "The bridegroom," says Müller, <span
-id="fr_76"></span>[3](#fn_76) "brought the young virgin, having carried
+id="fr_76"></span>[3](#fn_76.md) "brought the young virgin, having carried
 her off from the chorus of maidens or elsewhere, to the bride's
 maid--who cut short her hair, and left her lying in a man's dress and
 shoes, without a light, on a bed of rushes; until the bridegroom
@@ -357,46 +357,46 @@ problem.
 
 ### Footnotes
 
-<span id="fn_64"></span>[107:1](itp09.htm#fr_64) Published by John Lane
+<span id="fn_64"></span>[107:1](itp09.htm#fr_64.md) Published by John Lane
 (London, 1893).
 
-<span id="fn_65"></span>[107:2](itp09.htm#fr_65) Lowes Dickinson, *The
+<span id="fn_65"></span>[107:2](itp09.htm#fr_65.md) Lowes Dickinson, *The
 Greek View of Life*, p. 97.
 
-<span id="fn_66"></span>[109:1](itp09.htm#fr_66) Dacier's translation,
+<span id="fn_66"></span>[109:1](itp09.htm#fr_66.md) Dacier's translation,
 vol. i.
 
-<span id="fn_67"></span>[109:2](itp09.htm#fr_67) Translation by M. J.
+<span id="fn_67"></span>[109:2](itp09.htm#fr_67.md) Translation by M. J.
 Chapman (London, 1836).
 
-<span id="fn_68"></span>[110:1](itp09.htm#fr_68) Müller, *op. cit.*,
+<span id="fn_68"></span>[110:1](itp09.htm#fr_68.md) Müller, *op. cit.*,
 vol. ii., p. 327.
 
-<span id="fn_69"></span>[110:2](itp09.htm#fr_69) Dacier's *Plutarch*,
+<span id="fn_69"></span>[110:2](itp09.htm#fr_69.md) Dacier's *Plutarch*,
 vol. I., p. 215.
 
-<span id="fn_70"></span>[110:3](itp09.htm#fr_70) Though as regards the
+<span id="fn_70"></span>[110:3](itp09.htm#fr_70.md) Though as regards the
 latter, Symonds suggests (*A Problem in Greek Ethics*, p. 2) that in
 camp-life this may have been one contributing cause.
 
-<span id="fn_71"></span>[111:1](itp09.htm#fr_71) See *The Greek View of
+<span id="fn_71"></span>[111:1](itp09.htm#fr_71.md) See *The Greek View of
 Life*, p. 161.
 
-<span id="fn_72"></span>[112:1](itp09.htm#fr_72) *Civilisation: its
+<span id="fn_72"></span>[112:1](itp09.htm#fr_72.md) *Civilisation: its
 Cause and Cure*, by E. Carpenter, p. 26.
 
-<span id="fn_73"></span>[113:1](itp09.htm#fr_73) Dacier's translation of
+<span id="fn_73"></span>[113:1](itp09.htm#fr_73.md) Dacier's translation of
 Plutarch.
 
-<span id="fn_74"></span>[114:1](itp09.htm#fr_74) Bethe, *op. cit.*, p.
+<span id="fn_74"></span>[114:1](itp09.htm#fr_74.md) Bethe, *op. cit.*, p.
 442.
 
-<span id="fn_75"></span>[114:2](itp09.htm#fr_75) Bethe, *op. cit.*, p.
+<span id="fn_75"></span>[114:2](itp09.htm#fr_75.md) Bethe, *op. cit.*, p.
 440.
 
-<span id="fn_76"></span>[114:3](itp09.htm#fr_76) *Op. cit.*, ii., 229.
+<span id="fn_76"></span>[114:3](itp09.htm#fr_76.md) *Op. cit.*, ii., 229.
 See also Plutarch's *Lycurgus*, ch. xv.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Relation to Civic Life and Religion](itp10)
+[Next: Chapter VII. Relation to Civic Life and Religion](itp10.md)

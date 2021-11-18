@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar02) 
-[Next](mtar04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar02.md) 
+[Next](mtar04.md) 
 
 ------------------------------------------------------------------------
 
@@ -351,4 +351,4 @@ them, as to make them practically useless for higher occult purposes.
 
 ------------------------------------------------------------------------
 
-[Next: Methods of Divination](mtar04)
+[Next: Methods of Divination](mtar04.md)

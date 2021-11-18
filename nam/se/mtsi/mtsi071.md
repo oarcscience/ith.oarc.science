@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi070)  [Next](mtsi072) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi070)  [Next](mtsi072.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ And so Rabbit got the girl.
 ------------------------------------------------------------------------
 
 [Next: 70. How Rabbit Got the Widow's Daughter (Second
-Version)](mtsi072)
+Version)](mtsi072.md)

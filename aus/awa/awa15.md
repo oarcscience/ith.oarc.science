@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa14)  [Next](awa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa14)  [Next](awa16.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ its baleful influence.
 
 ------------------------------------------------------------------------
 
-[Next: Old Testament Parallels](awa16)
+[Next: Old Testament Parallels](awa16.md)

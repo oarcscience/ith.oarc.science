@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc16)  [Next](tlc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc16)  [Next](tlc18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -330,7 +330,7 @@ arrived at this!"
 
 <span id="img_25000"></span> <span align="CENTER"> [![“‘SHE FLUNG HER
 ARMS ABOUT MY NECK’”](tn/25000.jpg)  
-Click to enlarge](img/25000.jpg)  
+Click to enlarge](img/25000.jpg.md)  
 “‘SHE FLUNG HER ARMS ABOUT MY NECK’”  
 </span>
 
@@ -652,4 +652,4 @@ the rim of the horizon unwatched.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Zaemon's Summons](tlc18)
+[Next: Chapter XV. Zaemon's Summons](tlc18.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag30)  [Next](rag32) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag30)  [Next](rag32.md) 
 
 ------------------------------------------------------------------------
 
@@ -687,4 +687,4 @@ very knees of their hearts in adoration.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Biela's Comet](rag32)
+[Next: Chapter V. Biela's Comet](rag32.md)

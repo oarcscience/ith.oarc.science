@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg15)  [Next](morg17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg15)  [Next](morg17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -74,7 +74,7 @@ threat and let it fall down by the side.
 
 <span id="img_10500"></span> <span align="CENTER"> [![Candidate taking
 Entered Apprentice Obligation.](tn/10500.jpg)  
-Click to enlarge](img/10500.jpg)  
+Click to enlarge](img/10500.jpg.md)  
 Candidate taking Entered Apprentice Obligation.  
 </span>
 
@@ -107,4 +107,4 @@ hollow of your left.
 
 ------------------------------------------------------------------------
 
-[Next: Fellow Craft Degree](morg17)
+[Next: Fellow Craft Degree](morg17.md)

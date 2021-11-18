@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft16)  [Next](efft18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft16)  [Next](efft18.md) 
 
 ------------------------------------------------------------------------
 
 # GIANTS.
 
-### THE ORIGIN OF THE WREKIN.  <span id="fr_18"></span>[1](#fn_18)
+### THE ORIGIN OF THE WREKIN.  <span id="fr_18"></span>[1](#fn_18.md)
 
 ONCE upon a time there was a wicked old giant in Wales who, for some
 reason or other, had a very great spite against the Mayor of Shrewsbury
@@ -46,9 +46,9 @@ Ercall by the Wrekin's side.
 
 ### Footnotes
 
-<span id="fn_18"></span>[1](efft17.htm#fr_18) Miss C. S. Burne,
+<span id="fn_18"></span>[1](efft17.htm#fr_18.md) Miss C. S. Burne,
 *Shropshire Folk-Lore*, p. 2.
 
 ------------------------------------------------------------------------
 
-[Next: The Blinded Giant](efft18)
+[Next: The Blinded Giant](efft18.md)

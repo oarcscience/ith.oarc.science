@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](alt32)  [Next](alt34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](alt32)  [Next](alt34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VKXT10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Australian Legendary Tales*, by K. Langloh Parker, \[1897\], at
 Intangible Textual Heritage
 
@@ -79,4 +79,4 @@ beginning of Wayambeh, or turtle, in the creeks.
 
 ------------------------------------------------------------------------
 
-[Next: Wirreenun the Rainmaker](alt34)
+[Next: Wirreenun the Rainmaker](alt34.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe17)  [Next](spe19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe17)  [Next](spe19.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ nobility. In the sixteenth century, a knowledge of music was considered
 as a genteel accomplishment for persons of high rank. Henry VIII. not
 only sang well, but played upon several sorts of instruments; he also
 wrote songs, and composed the tunes <span
-id="fr_771"></span>[1](#fn_770) for them; and his example was followed
+id="fr_771"></span>[1](#fn_770.md) for them; and his example was followed
 by several of the nobility, his favourites.
 
 \* During Elizabeth's long reign, music was not only fashionable, but
@@ -40,7 +40,7 @@ of waiting visitors; and the lute, cittern, and virginals, for the
 amusement of waiting customers, were the necessary furniture of the
 barber's shop. They had music at dinner; music at supper; music at
 weddings; music at funerals; music at night; music at dawn; music at
-work; and music at play." <span id="fr_772"></span>[2](#fn_771) Dekker,
+work; and music at play." <span id="fr_772"></span>[2](#fn_771.md) Dekker,
 in the *Gull's Horn Book* of this reign, tells us that it was the
 customary part of the education of a young gentlewoman "to read and
 write; to play upon the virginals, lute, and cittern; and to read
@@ -51,7 +51,7 @@ that is, in London, "the best musicians in the kingdom, and equal to any
 in Europe for their skill, either in composing and setting of tunes, or
 singing, and playing upon any kind of instruments. The musicians have
 obtained of our sovereign lord the king, his letters patent to become a
-society and corporation." <span id="fr_773"></span>[3](#fn_772) To which
+society and corporation." <span id="fr_773"></span>[3](#fn_772.md) To which
 we may add, that the metropolis never abounded more, if so much as at
 
 <span id="page_230">p. 230</span>
@@ -61,7 +61,7 @@ music, but with others who pursue it merely for their amusement; nor
 must we omit the fair sex; with them the study of music is exceedingly
 fashionable; and indeed there are few young ladies of family who are not
 in some degree made acquainted with its rudiments. <span
-id="fr_774"></span>[1](#fn_773)
+id="fr_774"></span>[1](#fn_773.md)
 
 PUBLIC BALLAD-SINGERS.--The minstrel being deprived of all his honours,
 and having lost the protection of the opulent, dwindled into a mere
@@ -73,7 +73,7 @@ wakes, fairs, and church-ales. The ballads multiplied with extraordinary
 rapidity in the reigns of Elizabeth, James I., and Charles I. Warton
 speaks of two celebrated trebles; the one called Outroaringe Dick; and
 the other Wat Wimbas, who occasionally made twenty shillings a day by
-ballad-singing; <span id="fr_775"></span>[2](#fn_774) which is a strong
+ballad-singing; <span id="fr_775"></span>[2](#fn_774.md) which is a strong
 proof that these itinerants were highly esteemed by the common people.
 
 MUSIC HOUSES.--Towards the close of the seventeenth century, the
@@ -82,7 +82,7 @@ called music houses, where they performed concerts, consisting of vocal
 and instrumental music, for the entertainment of the public, at the same
 period there were music booths at Smithfield during the continuance of
 Bartholomew fair. An author of the time, <span
-id="fr_776"></span>[3](#fn_775) however, speaks very contemptibly of
+id="fr_776"></span>[3](#fn_775.md) however, speaks very contemptibly of
 these music meetings, professing that he "had rather have heard an old
 barber ring Whittington's bells upon a cittern than all the music the
 houses afforded."
@@ -140,7 +140,7 @@ pleasant to behold; which," adds he, "is much visited by strangers. It
 stands in the middle of the garden, covered with Cornish slate, on the
 point whereof he placed a punchinello, very well carved, which held a
 dial; but the winds have demolished it." <span
-id="fr_777"></span>[1](#fn_776)
+id="fr_777"></span>[1](#fn_776.md)
 
 'The exact date at which the grounds were first opened to the public is
 not known; but it is evident that the gardens were public before ever
@@ -155,7 +155,7 @@ harp, and there laughing, and there fine people walking is very
 diverting."
 
 \* The house," says a more modern author, Sir John Hawkins, <span
-id="fr_778"></span>[2](#fn_777) "seems to have been rebuilt since the
+id="fr_778"></span>[2](#fn_777.md) "seems to have been rebuilt since the
 time that Sir Samuel Moreland dwelt in it; and, there being a large
 garden belonging to it, planted with a
 
@@ -166,7 +166,7 @@ the name of Spring Gardens; and, the house being converted into a
 tavern, or place of entertainment, it was frequented by the votaries of
 pleasure." This account is perfectly consonant with the following
 passage in a paper of the *Spectator*, <span
-id="fr_779"></span>[1](#fn_778) dated May 20, 1712: "We now arrived at
+id="fr_779"></span>[1](#fn_778.md) dated May 20, 1712: "We now arrived at
 Spring Gardens, which is exquisitely pleasant at this time of the year.
 When I considered the fragrancy of the walks and bowers, with the choirs
 of birds that sung upon the trees, and the loose tribe of people that
@@ -174,7 +174,7 @@ walked underneath their shades, I could not but look upon the place as a
 kind of Mahometan paradise." In 1730 the house and gardens came into the
 hands of a gentleman whose name was Jonathan Tyers, who opened it with
 an advertisement of a *ridotto al fresco*; <span
-id="fr_780"></span>[2](#fn_779) a term which the people of this country
+id="fr_780"></span>[2](#fn_779.md) a term which the people of this country
 had till then been strangers to. These entertainments were several times
 repeated in the course of the summer, and numbers resorted to partake of
 them; which encouraged the proprietor to make his garden a place of
@@ -188,7 +188,7 @@ Roubiliac, a very famous statuary, to whom we owe several of the best
 monuments in Westminster Abbey.
 
 In 1760 a guide to Vauxhall Gardens was issued, <span
-id="fr_781"></span>[3](#fn_780) dedicated to the Princess Augusta. They
+id="fr_781"></span>[3](#fn_780.md) dedicated to the Princess Augusta. They
 are said to be "the first gardens of the kind in England." The season
 was from the beginning of May till the end of August; they were opened
 at five o'clock every evening, Sundays excepted. "In that part of the
@@ -222,14 +222,14 @@ an annual sailing match for a cup, eleven thousand were present. On July
 10th, 1813, a great dinner was held here, in honour of the battle of
 Vittoria, when the six royal dukes were present; ten, and even fifteen,
 guineas were given for a dinner ticket. <span
-id="fr_782"></span>[1](#fn_781) In 1822 they were sold by the Tyers'
+id="fr_782"></span>[1](#fn_781.md) In 1822 they were sold by the Tyers'
 family to Messrs Bish, Gye, & Hughes for £28,000.
 
 \* Fireworks were exhibited here as early as 1780. In 1802 the first
 balloon ascent was made from the Gardens by Garnerin and two companions.
 The fashion of the place began to decline in the reign of William IV.,
 but the end did not come until 1855. <span
-id="fr_783"></span>[2](#fn_782)
+id="fr_783"></span>[2](#fn_782.md)
 
 RANELAGH.--The success of the Vauxhall Gardens was an encouragement to
 another of a similar kind. A number of persons purchased the house and
@@ -241,7 +241,7 @@ morning concerts, but they were soon abandoned for those held in the
 evening. The entertainment of the auditors during the performance is,
 either walking round the room, or refreshing themselves with tea and
 coffee in the recesses thereof, which are conveniently adapted for that
-purpose. Sir John Hawkins <span id="fr_784"></span>[3](#fn_783) says,
+purpose. Sir John Hawkins <span id="fr_784"></span>[3](#fn_783.md) says,
 "The performance here, as at Vauxhall, is instrumental, intermixed with
 songs and ballad airs, calculated rather to please the vulgar than
 gratify those of a better taste."
@@ -259,7 +259,7 @@ and "The Messiah," together with "a ball with which the whole
 concludes." The place became specially celebrated for its masquerade
 balls, the first of which was given on May 24th, 1759, "being the Birth
 Day of his Royal Highness, George Prince of Wales." <span
-id="fr_785"></span>[4](#fn_784)
+id="fr_785"></span>[4](#fn_784.md)
 
 <span id="page_234">p. 234</span>
 
@@ -308,7 +308,7 @@ and was wholly lost until then found out; when a gentleman named Sadler,
 who had lately built a new music-house there, and being surveyor of the
 highways, had employed men to dig gravel in his garden, in the midst
 whereof they found it stopped up and covered with an arch of
-stone." <span id="fr_786"></span>[1](#fn_785)
+stone." <span id="fr_786"></span>[1](#fn_785.md)
 
 \* In the summer of 1700 Sadler's Wells came into high repute. In 1733
 
@@ -321,7 +321,7 @@ After the decease of Sadler, one Francis Forcer, a musician and composer
 of songs, became occupier of the wells and music-room; he was succeeded
 by his son, who first exhibited there the diversion of rope-dancing and
 tumbling, which were then performed abroad in the garden. <span
-id="fr_787"></span>[1](#fn_786) The place was taken afterwards by Mr
+id="fr_787"></span>[1](#fn_786.md) The place was taken afterwards by Mr
 Rosoman, and the wooden house was replaced in 1765 by a brick building.
 There is now (1800) a small theatre appropriated to feats of activity,
 but also furnished with a stage, scenes, and other decorations proper
@@ -374,7 +374,7 @@ therefore they are permitted to be performed on the Wednesdays and
 Fridays in Lent when plays are prohibited.
 
 BELL-RINGING.--It has been remarked by foreigners that the English are
-particularly fond of bell-ringing; <span id="fr_788"></span>[1](#fn_787)
+particularly fond of bell-ringing; <span id="fr_788"></span>[1](#fn_787.md)
 and indeed most of our churches have a ring of bells in the steeple,
 partly appropriated to that purpose. These bells are rung upon most
 occasions of joy and festivity, and sometimes at funerals, when they are
@@ -389,7 +389,7 @@ of changes has been introduced, wherein the succession of the bells is
 shifted continually, and by this means a varied combination of different
 sounds, exceedingly pleasant to the ear, is readily produced. This
 improvement in the art of ringing is thought to be peculiar to the
-people of this country. <span id="fr_789"></span>[2](#fn_788)
+people of this country. <span id="fr_789"></span>[2](#fn_788.md)
 
 \* Archbishop Egbert, in 750, ordered that "all priests, at the
 appointed hours of day and night, do sound the bells of their churches,
@@ -415,7 +415,7 @@ numbers on slips of paper. The Society of College Youths, the oldest
 association of ringers, founded in the sixteenth century, visited
 Cambridge in 1657, when he presented them with his new and elaborate
 principle that has ever since been known by his name. <span
-id="fr_790"></span>[3](#fn_789)
+id="fr_790"></span>[3](#fn_789.md)
 
 \* "The School of Recreation, or the Gentleman's Tutor," first issued in
 1684, gives instructions in twelve "most ingenious exercises." One of
@@ -430,7 +430,7 @@ Invention delighting the Mind, and for the Violence of its
 <span id="img_pl32"></span>
 
 [![Music](tn/pl32.jpg)  
-Click to enlarge](img/pl32.jpg)  
+Click to enlarge](img/pl32.jpg.md)  
 Music  
 
  
@@ -468,15 +468,15 @@ tunes.
 The small bells were not always held in the hand; they were sometimes
 suspended upon a stand, and struck with hammers, by which means one
 person could more readily play upon them. An example of this kind, of
-the fourteenth century, is given on [plate thirty-two](#img_pl32). <span
-id="fr_791"></span>[1](#fn_790)
+the fourteenth century, is given on [plate thirty-two](#img_pl32.md). <span
+id="fr_791"></span>[1](#fn_790.md)
 
 The figure in the original is designed as a representation of King
 David, and affixed to one of his psalms.
 
 \* An earlier instance of five small bells as thus suspended in frame
 and struck by a single hammer held in one hand occurs in a MS. of the
-ninth century. <span id="fr_792"></span>[2](#fn_791)
+ninth century. <span id="fr_792"></span>[2](#fn_791.md)
 
 BURLESQUE MUSIC.--The minstrels and joculators seem to have had the
 knack of converting every kind of amusement into a vehicle for
@@ -486,7 +486,7 @@ a fiddle, and using the tongs as a substitute for the bow.
 
 This, and such like vagaries, were frequently practised in the
 succeeding times; and they are neatly ridiculed in one of the papers
-belonging to the *Spectator*, <span id="fr_793"></span>[3](#fn_792)
+belonging to the *Spectator*, <span id="fr_793"></span>[3](#fn_792.md)
 where the author mentions "a tavern keeper who amused his company with
 whistling of different tunes, which he performed by applying the edge of
 a case knife to his lips. Upon laying down the knife he took up a pair
@@ -500,7 +500,7 @@ whistling to them at the same time in concert. In short the tobacco
 pipes became musical pipes in the hands of our virtuoso, who," says the
 writer, "confessed ingenuously that he broke such quantities of pipes
 that he almost broke himself, before he brought this piece of music to
-any tolerable perfection." <span id="fr_794"></span>[1](#fn_793) This
+any tolerable perfection." <span id="fr_794"></span>[1](#fn_793.md) This
 man also "played upon the frying-pan and gridiron, and declared he had
 layed down the tongs and key because it was unfashionable." I have heard
 an accompaniment to the violin exceedingly well performed with a
@@ -513,7 +513,7 @@ them with his fists, which feat he seemed to perform with great
 facility. The butchers have a sort of rough music, made with
 marrow-bones and cleavers, which they usually bring forward at weddings;
 and in the *Knave in Grain*, a play first acted in 1640, <span
-id="fr_795"></span>[2](#fn_794) ringing of basons is mentioned. This
+id="fr_795"></span>[2](#fn_794.md) ringing of basons is mentioned. This
 music, or something like it, I believe, is represented at the bottom of
 the twenty-third plate.
 
@@ -522,7 +522,7 @@ claims a principal place. In former times the residences of the
 nobility, or the mansions of the opulent, were not thought to be
 complete without a shovel-board table; and this fashionable piece of
 furniture was usually stationed in the great hall. <span
-id="fr_796"></span>[3](#fn_795) The tables for this diversion were
+id="fr_796"></span>[3](#fn_795.md) The tables for this diversion were
 sometimes very expensive, owing to the great pains and labour bestowed
 upon their construction. "It is remarkable," says Dr Plott, in his
 History of Staffordshire, "that in the hall at Chartley the
@@ -568,7 +568,7 @@ privy purse expenses of 1532 show that in January Lord William won £9 of
 the King at "shovilla bourde," and "My lord of Rocheforde won of the
 King at shovilla bourde and betting at the game £45." In the following
 month Lord Rocheford won £41, 12s. 6d. of the King at the same
-pastime. <span id="fr_797"></span>[1](#fn_796) It must be remembered
+pastime. <span id="fr_797"></span>[1](#fn_796.md) It must be remembered
 that these accounts take no notice of the royal wins, only of the
 losses.
 
@@ -585,7 +585,7 @@ that no enlargement upon the subject is necessary. I cannot help
 thinking it originated from an ancient game played with small bowls upon
 the ground; or indeed that it was, when first instituted, the same game
 transferred from the ground to the table. <span
-id="fr_798"></span>[2](#fn_797)
+id="fr_798"></span>[2](#fn_797.md)
 
 \* The word Billiards is derived from the old French word *billard*, a
 stick with a curved end, hence a billiard mace or cue. The earliest
@@ -613,7 +613,7 @@ therein which hath not a publick billiard table, neither are they
 wanting in many noble and private families in the country for the
 recreation of the mind and exercise of the body." Cotton describes the
 form of the billiard table as oblong, and it had six pockets after the
-fashion of the present table. <span id="fr_799"></span>[1](#fn_798) The
+fashion of the present table. <span id="fr_799"></span>[1](#fn_798.md) The
 bed of the table was made of oak, covered with fine green cloth, and the
 cushions were stuffed with "fine flox or cotton." Maces, then called
 masts, were used, made of lignum vitae or some other heavy wood and
@@ -665,7 +665,7 @@ alarmed at the risk of damage to the cloth. By the beginning of the
 nineteenth century cues had come into general use by all good players.
 The leather tip to the cue, which worked a revolution in play, was
 invented in 1807, by a French professional player named Mingaud. <span
-id="fr_800"></span>[1](#fn_799)
+id="fr_800"></span>[1](#fn_799.md)
 
 \* TRUCKS.--*The Compleat Gamester*, of 1674, gives several pages to an
 account of a game called Trucks. It is described as an Italian game,
@@ -727,7 +727,7 @@ are sports occasionally mentioned by the writers of the sixteenth and
 seventeenth centuries, and probably were analogous to the modern pastime
 called Justice Jervis, or Jarvis, which is confined to common
 pot-houses, and only practised by such as frequent the tap-rooms. <span
-id="fr_801"></span>[1](#fn_800) It requires a parallelogram to be made
+id="fr_801"></span>[1](#fn_800.md) It requires a parallelogram to be made
 by chalk, or by lines cut upon the middle of a table, about twelve or
 fourteen inches in breadth, and three or four feet in length: which is
 divided, latitudinally, into nine equal partitions, in every one of
@@ -762,7 +762,7 @@ the Swing, but
 <span id="page_243">p. 243</span>
 
 formerly it was known by the name of Meritot, or Merry-trotter. <span
-id="fr_802"></span>[1](#fn_801) This simple pastime was not confined to
+id="fr_802"></span>[1](#fn_801.md) This simple pastime was not confined to
 the children, at least in the last century, but practised by grown
 persons of both sexes, and especially by the rustics. Hence Gay:
 
@@ -771,10 +771,10 @@ Now high, now low, my Blouzalinda swung.
 
 \[paragraph continues\] It was also adopted at the watering-places by
 people of fashion, and the innovation is justly ridiculed in the
-*Spectator*. <span id="fr_803"></span>[2](#fn_802)
+*Spectator*. <span id="fr_803"></span>[2](#fn_802.md)
 
 Of late years a machine has been introduced to answer the purpose of the
-swing, <span id="fr_804"></span>[3](#fn_803) It consists of an axletree,
+swing, <span id="fr_804"></span>[3](#fn_803.md) It consists of an axletree,
 with four or six double arms inserted into it, like the spokes of a
 large water-wheel; every pair of arms is connected at the extremities by
 a round rod of iron, of considerable thickness, and upon it a box is
@@ -821,27 +821,27 @@ And among the anecdotes related of Prince Henry, son to James I., is the
 following: "His highness playing at shittle-cocke, with one farr taller
 than himself, and hittyng him by chance with the shittle-cocke upon the
 forehead, 'This is,' quoth he, 'the encounter of David with
-Goliath.'" <span id="fr_805"></span>[1](#fn_804)
+Goliath.'" <span id="fr_805"></span>[1](#fn_804.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_770"></span>[229:1](spe18.htm#fr_771) Hall, in the life of
+<span id="fn_770"></span>[229:1](spe18.htm#fr_771.md) Hall, in the life of
 that monarch.
 
-<span id="fn_771"></span>[229:2](spe18.htm#fr_772) Chappell's *Popular
+<span id="fn_771"></span>[229:2](spe18.htm#fr_772.md) Chappell's *Popular
 Music of the Olden Time*, i. 98.
 
-<span id="fn_772"></span>[229:3](spe18.htm#fr_773) A.D. 1604, in the
+<span id="fn_772"></span>[229:3](spe18.htm#fr_773.md) A.D. 1604, in the
 second year of the reign of James I. Treatise on College and Schools in
 and about London, printed 1615.
 
-<span id="fn_773"></span>[230:1](spe18.htm#fr_774) Some time ago the
+<span id="fn_773"></span>[230:1](spe18.htm#fr_774.md) Some time ago the
 spinnet was a favourite instrument among the ladies; afterwards the
 guitar; and now (1800) the harpsichord, or forte-piano.
 
-<span id="fn_774"></span>[230:2](spe18.htm#fr_775) At Braintree fair in
+<span id="fn_774"></span>[230:2](spe18.htm#fr_775.md) At Braintree fair in
 Essex. *Hist. Eng. Poet.* vol. iii. p. 292. This was a century and a
 half back, when twenty shillings was a considerable sum. The ancient
 ballads have frequently this colophon: "Printed by A.B. and are to be
@@ -850,73 +850,73 @@ Oliver Cromwell against the strolling fiddlers, silenced the
 ballad-singers, and obliged the sellers to shut up shop. Hawkins, Hist.
 Music, vol. iv. p. 113.
 
-<span id="fn_775"></span>[230:3](spe18.htm#fr_776) Edward Ward, author
+<span id="fn_775"></span>[230:3](spe18.htm#fr_776.md) Edward Ward, author
 of the *London Spy*, part xi. p. 255.
 
-<span id="fn_776"></span>[231:1](spe18.htm#fr_777) Vol. i. p. 12.
+<span id="fn_776"></span>[231:1](spe18.htm#fr_777.md) Vol. i. p. 12.
 
-<span id="fn_777"></span>[231:2](spe18.htm#fr_778) *Hist. Music*, vol.
+<span id="fn_777"></span>[231:2](spe18.htm#fr_778.md) *Hist. Music*, vol.
 v. p. 352 (1776).
 
-<span id="fn_778"></span>[232:1](spe18.htm#fr_779) Vol. v. No. 383.
+<span id="fn_778"></span>[232:1](spe18.htm#fr_779.md) Vol. v. No. 383.
 
-<span id="fn_779"></span>[232:2](spe18.htm#fr_780) Or entertainment of
+<span id="fn_779"></span>[232:2](spe18.htm#fr_780.md) Or entertainment of
 music in the open air.
 
-<span id="fn_780"></span>[232:3](spe18.htm#fr_781) *A Description of
+<span id="fn_780"></span>[232:3](spe18.htm#fr_781.md) *A Description of
 Vauxhall Gardens, being a proper companion and guide for all who visit
 that place. Illustrated with copper plates*. G. Hooper, 1762.
 
-<span id="fn_781"></span>[233:1](spe18.htm#fr_782) *A Brief Account of
+<span id="fn_781"></span>[233:1](spe18.htm#fr_782.md) *A Brief Account of
 the Royal Gardens, Vauxhall*. Published by the Proprietors, 1822.
 
-<span id="fn_782"></span>[233:2](spe18.htm#fr_783) The best account of
+<span id="fn_782"></span>[233:2](spe18.htm#fr_783.md) The best account of
 Vauxhall and its array of distinguished visitors is in Walford's edition
 of Thornbury's *Old and New London*, vol. vi. pp. 447-467.
 
-<span id="fn_783"></span>[233:3](spe18.htm#fr_784) *Hist. of Music*,
+<span id="fn_783"></span>[233:3](spe18.htm#fr_784.md) *Hist. of Music*,
 vol. v. pp. 352.3.
 
-<span id="fn_784"></span>[233:4](spe18.htm#fr_785) A large coloured
+<span id="fn_784"></span>[233:4](spe18.htm#fr_785.md) A large coloured
 print of this ball was issued by Robert Sayn, Fleet Street. There is a
 copy of it in a collection of Ranelagh views, advertisements, etc., in
 the British Museum, 840, m., 28.
 
-<span id="fn_785"></span>[234:1](spe18.htm#fr_786) A.D. 1683.
+<span id="fn_785"></span>[234:1](spe18.htm#fr_786.md) A.D. 1683.
 
-<span id="fn_786"></span>[235:1](spe18.htm#fr_787) There is no footnote
+<span id="fn_786"></span>[235:1](spe18.htm#fr_787.md) There is no footnote
 1 at this point, even though there is a reference to it in the body of
 the text--JBH.
 
-<span id="fn_787"></span>[236:1](spe18.htm#fr_788) See the Introduction.
+<span id="fn_787"></span>[236:1](spe18.htm#fr_788.md) See the Introduction.
 
-<span id="fn_788"></span>[236:2](spe18.htm#fr_789) Hawkins' *Hist. of
+<span id="fn_788"></span>[236:2](spe18.htm#fr_789.md) Hawkins' *Hist. of
 Music*, vol. iv. p. 211.
 
-<span id="fn_789"></span>[236:3](spe18.htm#fr_790) Gatty's *The Bell*
+<span id="fn_789"></span>[236:3](spe18.htm#fr_790.md) Gatty's *The Bell*
 (1848) 58-9.
 
-<span id="fn_790"></span>[237:1](spe18.htm#fr_791) Roy. Lib. 20. B. xi.
+<span id="fn_790"></span>[237:1](spe18.htm#fr_791.md) Roy. Lib. 20. B. xi.
 
-<span id="fn_791"></span>[237:2](spe18.htm#fr_792) Figured on p. 4 of
+<span id="fn_791"></span>[237:2](spe18.htm#fr_792.md) Figured on p. 4 of
 North's *English Bells and Bell Lore* (1888).
 
-<span id="fn_792"></span>[237:3](spe18.htm#fr_793) Vol. v. No. 570.
+<span id="fn_792"></span>[237:3](spe18.htm#fr_793.md) Vol. v. No. 570.
 
-<span id="fn_793"></span>[238:1](spe18.htm#fr_794) Vol. v. No. 570.
+<span id="fn_793"></span>[238:1](spe18.htm#fr_794.md) Vol. v. No. 570.
 
-<span id="fn_794"></span>[238:2](spe18.htm#fr_795) Garrick's *Col. Old
+<span id="fn_794"></span>[238:2](spe18.htm#fr_795.md) Garrick's *Col. Old
 Plays*, G. vol. ii.
 
-<span id="fn_795"></span>[238:3](spe18.htm#fr_796) See the Introduction.
+<span id="fn_795"></span>[238:3](spe18.htm#fr_796.md) See the Introduction.
 
-<span id="fn_796"></span>[239:1](spe18.htm#fr_797) Add MSS. 20,030.
+<span id="fn_796"></span>[239:1](spe18.htm#fr_797.md) Add MSS. 20,030.
 
-<span id="fn_797"></span>[239:2](spe18.htm#fr_798) See the
+<span id="fn_797"></span>[239:2](spe18.htm#fr_798.md) See the
 representation of ground billiards on the [thirty-second
-plate](#img_pl32).
+plate](#img_pl32.md).
 
-<span id="fn_798"></span>[240:1](spe18.htm#fr_799) \* In Strutt's short
+<span id="fn_798"></span>[240:1](spe18.htm#fr_799.md) \* In Strutt's short
 account of this game, which we have omitted, the strange mistake is made
 of saying that, at the beginning of the eighteenth century, the table
 was square with only three pockets all on one side. This blunder arose
@@ -924,28 +924,28 @@ from misunderstanding a small illustration on the frontispiece of *The
 School of Recreation*, first published in 1684, and which is a poor
 reduced copy of the wood-cut in Cotton's book.
 
-<span id="fn_799"></span>[241:1](spe18.htm#fr_800) \* Bennett's
+<span id="fn_799"></span>[241:1](spe18.htm#fr_800.md) \* Bennett's
 *Billiards* (4th edit.). p. 9.
 
-<span id="fn_800"></span>[242:1](spe18.htm#fr_801) \* Now (1902) better
+<span id="fn_800"></span>[242:1](spe18.htm#fr_801) \* Now (1902.md) better
 known and occasionally practised as "shove-halfpenny."
 
-<span id="fn_801"></span>[243:1](spe18.htm#fr_802) The first occurs in
+<span id="fn_801"></span>[243:1](spe18.htm#fr_802.md) The first occurs in
 Chaucer; the second in the vocabulary called *Orbis Sensualium Pictus*,
 as translated by Hoole, chap. cxxxvi. In Latin it is called *Oscillum*,
 and is described by an old author as a sort of game played with a rope
 depending from a beam, in which a boy or girl being seated, is driven
 backwards and forwards. Speght's *Glossary to Chaucer*.
 
-<span id="fn_802"></span>[243:2](spe18.htm#fr_803) Vol. viii. No. 496;
+<span id="fn_802"></span>[243:2](spe18.htm#fr_803.md) Vol. viii. No. 496;
 and again No. 492 in the same volume.
 
-<span id="fn_803"></span>[243:3](spe18.htm#fr_804) \* A picture of one
+<span id="fn_803"></span>[243:3](spe18.htm#fr_804.md) \* A picture of one
 is given in a chap-book of a fair, printed in 1778, where it is called
 an "Up and Down."
 
-<span id="fn_804"></span>[244:1](spe18.htm#fr_805) Harl. MS. 6391.
+<span id="fn_804"></span>[244:1](spe18.htm#fr_805.md) Harl. MS. 6391.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](spe19)
+[Next: Chapter II](spe19.md)

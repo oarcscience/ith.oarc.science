@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](abo06)  [Next](abo08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](abo06)  [Next](abo08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -25,7 +25,7 @@ Holy One, blessed be He."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_42"></span>[1](#fn_42)"*Said Aqabia b. Mahalallel, whoever
+ <span id="fr_42"></span>[1](#fn_42.md)"*Said Aqabia b. Mahalallel, whoever
 takes to his heart the following four things will never sin*": Whence he
 comes; whither he goes; what will become of him; and who is his judge.
 Whence he comes? from a dark place! Whither he goes? to a dark place!
@@ -78,7 +78,7 @@ silent; because He hath laid it upon him."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_43"></span>[1](#fn_43)Said R. Hananiah the Segan: Whoever
+ <span id="fr_43"></span>[1](#fn_43.md)Said R. Hananiah the Segan: Whoever
 takes the words of the Torah to his heart, all thoughts of the sword and
 hunger, of foolishness and fornication, evil thoughts in general and
 thoughts of adultery, thoughts of nonsense and thoughts of human cares,
@@ -194,7 +194,7 @@ MISHNA *F*. R. 'Halaphtha of the village of Hananiah said: "When ten sit
 and are occupied in words of Law the Shekhina is among them, as it is
 written \[Ps. lxxxii. 1\]: 'God standeth in the *Congregation* of God.'
 And whence is it proved of even five? It is written \[Amos, ix. 6\]:
-'And hath founded his *bundle* <span id="fr_44"></span>[1](#fn_44) on
+'And hath founded his *bundle* <span id="fr_44"></span>[1](#fn_44.md) on
 the earth' (and a bundle is at least of five). And whence even three? It
 is written \[Ps. lxxxii. 1\]: 'In the midst of judges doth he judge'
 (and the number of judges is generally three). And whence even two? It
@@ -229,7 +229,7 @@ leads such a life as to forget them.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_45"></span>[1](#fn_45)R. Hanina b. Dosa said: Whomsoever
+ <span id="fr_45"></span>[1](#fn_45.md)R. Hanina b. Dosa said: Whomsoever
 fear of sin precedes, his wisdom prevails, as it is written \[Ps. cxi.
 10\]: The beginning of wisdom is the fear of the Lord."
 
@@ -300,13 +300,13 @@ and the company of the vulgar waste a man's life away.
 MISHNA *L*. R. Elazar the Modai said: "He that profanes things sacred
 and contemns the festivals; he who causes his neighbor to blush in
 public, and annuls the covenant of Abraham our father, and acts
-barefacedly against the Torah, <span id="fr_46"></span>[1](#fn_46) even
+barefacedly against the Torah, <span id="fr_46"></span>[1](#fn_46.md) even
 though he is possessed of Torah and good deeds, he has no share in the
 world to come."
 
 MISHNA *H*. R. Ishmael said: "Be pliant with thy chief (although he is
 not deserving) and yielding to the impressment, <span
-id="fr_47"></span>[2](#fn_47) and receive every man with cheerfulness."
+id="fr_47"></span>[2](#fn_47.md) and receive every man with cheerfulness."
 
 MISHNA N. R. Aqiba said: "Mockery and frivolity are the forerunners of
 immorality. Tradition is the rampart about the Law; tithes (charity) are
@@ -374,13 +374,13 @@ year of drought it is undisturbed by care, and ceaseth not from yielding
 fruit.'"
 
 MISHNA *V*. R. Elazar b. 'Hasma said: "'Qinim' <span
-id="fr_48"></span>[1](#fn_48) and 'Pitteche Niddah' <span
-id="fr_49"></span>[2](#fn_49) are essentials of Torah; canons of
+id="fr_48"></span>[1](#fn_48.md) and 'Pitteche Niddah' <span
+id="fr_49"></span>[2](#fn_49.md) are essentials of Torah; canons of
 astronomy and geometry are after-courses of wisdom."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_50"></span>[3](#fn_50)"*Sleeping away the morning*." It
+ <span id="fr_50"></span>[3](#fn_50.md)"*Sleeping away the morning*." It
 means: One shall not wilfully sleep till past the hour of reading the
 Shema, for by so doing he neglects the Law, as it is written \[Prov.
 xxvi. 13\]: "As a door turneth upon its hinges, so doth the slothful
@@ -431,36 +431,36 @@ and not among the idlers in the markets."
 
 ### Footnotes
 
-<span id="fn_42"></span>[71:1](abo07.htm#fr_42) Chapter XIX. of the
+<span id="fn_42"></span>[71:1](abo07.htm#fr_42.md) Chapter XIX. of the
 original. The phraseology of these sentences is a little different in
 the Mishna.
 
-<span id="fn_43"></span>[72:1](abo07.htm#fr_43) Chapter XX. of the
+<span id="fn_43"></span>[72:1](abo07.htm#fr_43.md) Chapter XX. of the
 original.
 
-<span id="fn_44"></span>[75:1](abo07.htm#fr_44) Leeser translates it
+<span id="fn_44"></span>[75:1](abo07.htm#fr_44.md) Leeser translates it
 "vault," but the Talmud translates it literally.
 
-<span id="fn_45"></span>[76:1](abo07.htm#fr_45) Chapter XXII. of the
+<span id="fn_45"></span>[76:1](abo07.htm#fr_45.md) Chapter XXII. of the
 original.
 
-<span id="fn_46"></span>[73:1](abo07.htm#fr_46) This is according to
+<span id="fn_46"></span>[73:1](abo07.htm#fr_46.md) This is according to
 Maimonides; Rashi, however, says it means: one who says that Moses wrote
 in the Pentateuch ridiculous things, as, for instance, that Thimna was
 the concubine of Eliphaz \[Gen. xxxvi. 12\].
 
-<span id="fn_47"></span>[73:2](abo07.htm#fr_47) Maimonides explains it
+<span id="fn_47"></span>[73:2](abo07.htm#fr_47.md) Maimonides explains it
 otherwise.
 
-<span id="fn_48"></span>[80:1](abo07.htm#fr_48) The young doves
+<span id="fn_48"></span>[80:1](abo07.htm#fr_48.md) The young doves
 sacrificed by a woman after confinement.
 
-<span id="fn_49"></span>[80:2](abo07.htm#fr_49) The three kinds of blood
+<span id="fn_49"></span>[80:2](abo07.htm#fr_49.md) The three kinds of blood
 of menses, which are difficult to be distinguished from each other.
 
-<span id="fn_50"></span>[80:3](abo07.htm#fr_50) Chapter XXI. of the
+<span id="fn_50"></span>[80:3](abo07.htm#fr_50.md) Chapter XXI. of the
 original.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV.](abo08)
+[Next: Chapter IV.](abo08.md)

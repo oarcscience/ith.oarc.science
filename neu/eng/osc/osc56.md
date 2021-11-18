@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc55)  [Next](osc57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc55)  [Next](osc57.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ Yes, superstition was flouted, and so was intelligence.
 
 ------------------------------------------------------------------------
 
-[Next: (16) The Owl](osc57)
+[Next: (16) The Owl](osc57.md)

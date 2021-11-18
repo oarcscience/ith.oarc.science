@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](tbc06)  [Next](tbc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](tbc06)  [Next](tbc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q84/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Buddhist Catechism*, by Henry S. Olcott \[1908\], at Intangible
 Textual Heritage
 
@@ -46,6 +46,6 @@ editions and some the new.
 
 ------------------------------------------------------------------------
 
-[Next: Part I. The Life of the Buddha](tbc08)
+[Next: Part I. The Life of the Buddha](tbc08.md)
 
 </div>

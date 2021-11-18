@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac08)  [Next](sac10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac08)  [Next](sac10.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ into a narrow beam,
 [![FIG. 12.—The axis of the Temple of Karnak, looking south-east, from
 outside the north-west pylon (from a photograph by the
 author).](tn/fig12.jpg)  
-Click to enlarge](img/fig12.jpg)  
+Click to enlarge](img/fig12.jpg.md)  
 FIG. 12.—The axis of the Temple of Karnak, looking south-east, from
 outside the north-west pylon (from a photograph by the author).  
 
@@ -58,7 +58,7 @@ where the high priest performed
 Lepsius), showing the pylon at the open end, the various doors along the
 axis, the sanctuary at the closed end, and the temple at right
 angles.](tn/fig13.jpg)  
-Click to enlarge](img/fig13.jpg)  
+Click to enlarge](img/fig13.jpg.md)  
 FIG. 13.—Plan of the Temple of Ramses II. in the Memnonia at Thebes
 Lepsius), showing the pylon at the open end, the various doors along the
 axis, the sanctuary at the closed end, and the temple at right angles.  
@@ -67,7 +67,7 @@ axis, the sanctuary at the closed end, and the temple at right angles.
 
 his functions. The sanctuary was always blocked. There is no case in
 which the beam of light can pass absolutely through a temple (Figs.
-[12](#img_fig12) and [13](#img_fig13)).
+[12](#img_fig12) and [13](#img_fig13).md).
 
 In Britain the case was different, there was neither skill nor workers
 sufficient to erect such stately piles, and as a consequence one
@@ -99,14 +99,14 @@ also
 
 <span id="page_59">p. 59</span>
 
-surrounded by the earthen bank, shown in [Fig. 15](#img_fig15), of about
+surrounded by the earthen bank, shown in [Fig. 15](#img_fig15.md), of about
 300 feet in diameter, interrupted towards the
 
 <span id="img_fig14"></span>
 
 [![FIG 14.—One of the remaining Trilithons at
 Stonehenge](tn/fig14.jpg)  
-Click to enlarge](img/fig14.jpg)  
+Click to enlarge](img/fig14.jpg.md)  
 FIG 14.—One of the remaining Trilithons at Stonehenge  
 
 north-east by receiving into itself the banks forming an avenue before
@@ -124,7 +124,7 @@ which from a mediæval legend has been named the Friar's Heel.
 [![FIG. 15.—General plan; the outer circle, naos and avenue of
 Stonehenge. &lt;i&gt;F.H&lt;/i&gt;&lt;i&gt;.&lt;/i&gt; = Friar's
 Heel.](tn/fig15.jpg)  
-Click to enlarge](img/fig15.jpg)  
+Click to enlarge](img/fig15.jpg.md)  
 FIG. 15.—General plan; the outer circle, naos and avenue of Stonehenge.
 *F.H.* = Friar's Heel.  
 
@@ -157,4 +157,4 @@ earth was taken to form the bank, and which runs parallel to it.
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. Astronomical Observations at Stonehenge in
-1901](sac10)
+1901](sac10.md)

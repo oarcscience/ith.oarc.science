@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml06)  [Next](eml08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml06)  [Next](eml08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -154,7 +154,7 @@ Ra-Harmachis, saying: "O blessed lord! thou art he who distinguisheth
 between falsehood and truth."
 
 The god heard his cry with compassion, and turned round. <span
-id="fr_47"></span>[1](#fn_47) He caused a wide stream to flow between
+id="fr_47"></span>[1](#fn_47.md) He caused a wide stream to flow between
 the two brothers, and, behold! it was full of crocodiles. Then it came
 that Anpu and Bata stood confronting one another, one upon the right
 bank and the other upon the left. The elder brother twice smote his
@@ -184,7 +184,7 @@ So spake Bata, and he told his brother what was true regarding the
 woman. Then he called to witness the sun god, and said: "Great was thy
 wickedness in desiring to murder me by treachery." As he spoke he cut
 off a piece of his flesh and flung it into the stream, where it was
-devoured by a fish. <span id="fr_48"></span>[1](#fn_48) He sank fainting
+devoured by a fish. <span id="fr_48"></span>[1](#fn_48.md) He sank fainting
 upon the bank.
 
 Anpu was stricken with anguish; tears ran from his eyes. He desired
@@ -212,7 +212,7 @@ unto thee."
 
 Then Bata took his departure, and he went into the valley of the
 flowering acacia, which was across the ocean. <span
-id="fr_49"></span>[1](#fn_49) His elder brother returned home. He
+id="fr_49"></span>[1](#fn_49.md) His elder brother returned home. He
 lamented, throwing dust upon his head. He slew his wife and cast her to
 the dogs, and abandoned himself to mourning for his younger brother.
 
@@ -234,11 +234,11 @@ for Bata, so that he may not be alone."
 
 <span id="page_51">p. 51</span>
 
-Then the god Khnumu <span id="fr_50"></span>[1](#fn_50) fashioned a wife
+Then the god Khnumu <span id="fr_50"></span>[1](#fn_50.md) fashioned a wife
 whose body was more beautiful than any other woman's in the land,
 because that she was imbued with divinity.
 
-Then came the seven Hathors <span id="fr_51"></span>[2](#fn_51) and
+Then came the seven Hathors <span id="fr_51"></span>[2](#fn_51.md) and
 gazed upon her. In one voice they spoke, saying: "She shall surely die a
 speedy death."
 
@@ -246,7 +246,7 @@ Bata loved her dearly. Each day she remained in his house while he
 hunted wild beasts, and he carried them home and laid them at her feet.
 He warned her each day, saying: "Walk not outside, lest the sea may come
 up and carry thee away. I could not rescue thee from the sea
-spirit, <span id="fr_52"></span>[3](#fn_52) against whom I am as weak as
+spirit, <span id="fr_52"></span>[3](#fn_52.md) against whom I am as weak as
 thou art, because my soul is concealed in the highest blossom of the
 flowering acacia. If another should find my soul I must needs fight for
 it."
@@ -285,7 +285,7 @@ Then the king summoned before him his scribes, and they spake, saying:
 is gifted unto thee from a distant land. Command now that messengers be
 sent abroad to seek for her. Let many men go with the one who is sent to
 the valley of the flowering acacia so that they may bring the woman unto
-thee". <span id="fr_53"></span>[1](#fn_53)
+thee". <span id="fr_53"></span>[1](#fn_53.md)
 
 The king answered and said: "Wise are your words, and they are pleasant
 unto me."
@@ -308,13 +308,13 @@ then said: "Let the acacia be cut down and splintered in pieces."
 Workmen and warriors were sent abroad, and they reached the acacia. They
 severed from it the highest blossom, in which the soul of Bata was
 concealed. The petals were scattered, and Bata dropped down dead. <span
-id="fr_54"></span>[1](#fn_54)
+id="fr_54"></span>[1](#fn_54.md)
 
 A new day dawned, and the land grew bright. The acacia was then cut
 down.
 
 Meanwhile Anpu, the elder brother of Bata., went into his house, and he
-sat down and washed his hands. <span id="fr_55"></span>[2](#fn_55) He
+sat down and washed his hands. <span id="fr_55"></span>[2](#fn_55.md) He
 was given beer to drink, and it bubbled, and the wine had a foul smell.
 
 He seized his staff, put on his shoes and his garment, and armed himself
@@ -383,7 +383,7 @@ thou wilt do what I ask of thee."
 
 His Majesty took a vow to grant her the wish of her heart, and she said:
 "It is my desire to eat of the liver of the sacred bull, for he is
-naught to thee." <span id="fr_56"></span>[1](#fn_56)
+naught to thee." <span id="fr_56"></span>[1](#fn_56.md)
 
 Sorrowful was the king then, and his heart was troubled, because of the
 words which she spake. . . .
@@ -393,10 +393,10 @@ the bull should be offered in sacrifice.
 
 One of the king's chief servants went out, and when the bull was held
 high upon the shoulders of the people he smote its neck and it cast two
-drops of blood <span id="fr_57"></span>[2](#fn_57) towards the gate of
+drops of blood <span id="fr_57"></span>[2](#fn_57.md) towards the gate of
 the palace, and one drop fell upon the right side and one upon the left.
 There grew up in the night two stately Persea trees <span
-id="fr_58"></span>[3](#fn_58) from where the drops of blood fell down.
+id="fr_58"></span>[3](#fn_58.md) from where the drops of blood fell down.
 
 This great miracle was told unto the king, and the people rejoiced and
 made offerings of water and fruit to the sacred trees.
@@ -446,19 +446,19 @@ The new king (Bata) then said: "Summon before me the great men of my
 Court, so that I may now reveal unto them all that hath befallen me and
 the truth concerning the queen."
 
-His wife <span id="fr_59"></span>[1](#fn_59) was then brought before
+His wife <span id="fr_59"></span>[1](#fn_59.md) was then brought before
 him. He revealed
 
 <span id="page_57">p. 57</span>
 
 himself unto her, and she was judged before the great men, and they
-confirmed the sentence. <span id="fr_60"></span>[1](#fn_60)
+confirmed the sentence. <span id="fr_60"></span>[1](#fn_60.md)
 
 Then Anpu was summoned before His Majesty, and he was chosen to be the
 royal heir.
 
 When Bata had reigned for thirty years, <span
-id="fr_61"></span>[2](#fn_61) he came to his death, and on the day of
+id="fr_61"></span>[2](#fn_61.md) he came to his death, and on the day of
 his burial his elder brother stood in his place.
 
 Egyptian Love Songs
@@ -622,55 +622,55 @@ For she alone, my loved one,
 
 ### Footnotes
 
-<span id="fn_47"></span>[48:1](eml07.htm#fr_47) Ra is here in his human
+<span id="fn_47"></span>[48:1](eml07.htm#fr_47.md) Ra is here in his human
 form, walking through Egypt.
 
-<span id="fn_48"></span>[49:1](eml07.htm#fr_48) He was thus mutilated
+<span id="fn_48"></span>[49:1](eml07.htm#fr_48.md) He was thus mutilated
 like Osiris, Attis, Adonis, and other gods.
 
-<span id="fn_49"></span>[50:1](eml07.htm#fr_49) Probably in Syria.
+<span id="fn_49"></span>[50:1](eml07.htm#fr_49.md) Probably in Syria.
 
-<span id="fn_50"></span>[51:1](eml07.htm#fr_50) A creative god who
+<span id="fn_50"></span>[51:1](eml07.htm#fr_50.md) A creative god who
 resembles Ptah.
 
-<span id="fn_51"></span>[51:2](eml07.htm#fr_51) The seven Fates.
+<span id="fn_51"></span>[51:2](eml07.htm#fr_51.md) The seven Fates.
 
-<span id="fn_52"></span>[51:3](eml07.htm#fr_52) A non-Egyptian
+<span id="fn_52"></span>[51:3](eml07.htm#fr_52.md) A non-Egyptian
 conception apparently.
 
-<span id="fn_53"></span>[52:1](eml07.htm#fr_53) An early version of the
+<span id="fn_53"></span>[52:1](eml07.htm#fr_53.md) An early version of the
 Cinderella story.
 
-<span id="fn_54"></span>[53:1](eml07.htm#fr_54) Like the typical giant
+<span id="fn_54"></span>[53:1](eml07.htm#fr_54.md) Like the typical giant
 of European folklore, who conceals his soul and is betrayed by his wife.
 
-<span id="fn_55"></span>[53:2](eml07.htm#fr_55) The Egyptians always
+<span id="fn_55"></span>[53:2](eml07.htm#fr_55.md) The Egyptians always
 washed their hands before and after meals.
 
-<span id="fn_56"></span>[55:1](eml07.htm#fr_56) It was believed that the
+<span id="fn_56"></span>[55:1](eml07.htm#fr_56.md) It was believed that the
 soul was in the liver.
 
-<span id="fn_57"></span>[55:2](eml07.htm#fr_57) The belief that the soul
+<span id="fn_57"></span>[55:2](eml07.htm#fr_57.md) The belief that the soul
 was in the blood.
 
-<span id="fn_58"></span>[55:3](eml07.htm#fr_58) Out tree for the spirit
+<span id="fn_58"></span>[55:3](eml07.htm#fr_58.md) Out tree for the spirit
 and one for the soul.
 
-<span id="fn_59"></span>[56:1](eml07.htm#fr_59) Who was also his mother.
+<span id="fn_59"></span>[56:1](eml07.htm#fr_59.md) Who was also his mother.
 Bata was reborn as the son of his wife. The tale is based upon belief in
 the transmigration of souls.
 
-<span id="fn_60"></span>[57:1](eml07.htm#fr_60) The sentence is not
+<span id="fn_60"></span>[57:1](eml07.htm#fr_60.md) The sentence is not
 given, but is indicated by the prophecy of the seven Hathors, who said
 she would die "a speedy death" (a death by violence).
 
-<span id="fn_61"></span>[57:2](eml07.htm#fr_61) This suggests that he
+<span id="fn_61"></span>[57:2](eml07.htm#fr_61.md) This suggests that he
 was sacrificed at the Sed festival.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Racial Myths in Egypt and Europe](eml08)
+[Next: Chapter V: Racial Myths in Egypt and Europe](eml08.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](cab09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](cab09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cabala*, by Bernhard Pick, \[1913\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -18,419 +18,419 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
 
 ### INDEX
 
-Abraham, p. [21](cab04.htm#page_21).
+Abraham, p. [21](cab04.htm#page_21.md).
 
-Abulafia, Abraham, [40](cab04.htm#page_40); tries to convert Pope Martin
-IV, [42](cab04.htm#page_42); imagines himself the Messiah,
-[42](cab04.htm#page_42).
+Abulafia, Abraham, [40](cab04.htm#page_40.md); tries to convert Pope Martin
+IV, [42](cab04.htm#page_42.md); imagines himself the Messiah,
+[42](cab04.htm#page_42.md).
 
-Abulafia, Todros, [39](cab04.htm#page_39).
+Abulafia, Todros, [39](cab04.htm#page_39.md).
 
-Adam, book of, [33](cab04.htm#page_33).
+Adam, book of, [33](cab04.htm#page_33.md).
 
-Agobard, [20](cab04.htm#page_20).
+Agobard, [20](cab04.htm#page_20.md).
 
-Akiba, alphabet of, [18](cab04.htm#page_18).
+Akiba, alphabet of, [18](cab04.htm#page_18.md).
 
-Allen, [4](cab02.htm#page_4).
+Allen, [4](cab02.htm#page_4.md).
 
-Arithmetic, theosophical, [22](cab04.htm#page_22) et seq.
+Arithmetic, theosophical, [22](cab04.htm#page_22.md) et seq.
 
-Augustine, [87](cab07.htm#page_87).
+Augustine, [87](cab07.htm#page_87.md).
 
-Azariel, [33](cab04.htm#page_33), [67](cab07.htm#page_67).
-
- 
-
-Baal-shem, [98](cab08.htm#page_98).
-
-Bahir-book, teaches metempsychosis, [35](cab04.htm#page_35).
-
-Barnabas, [85](cab07.htm#page_85).
-
-Bartolocci, [15](cab03.htm#page_15), [58](cab06.htm#page_58),
-[91](cab07.htm#page_91).
-
-Basnage, [3](cab02.htm#page_3).
-
-Beer, [22](cab04.htm#page_22).
-
-Biesenthal, [105](cab08.htm#page_105).
-
-Bischoff, [105](cab08.htm#page_105), [109](cab08.htm#page_109).
-
-Bodenschatz, [18](cab04.htm#page_18).
-
-Boehme, [3](cab02.htm#page_3).
-
-Bogratschoff, [99](cab08.htm#page_99).
-
-Bonwetsch, [22](cab04.htm#page_22).
-
-Buddeus, [104](cab08.htm#page_104).
+Azariel, [33](cab04.htm#page_33), [67](cab07.htm#page_67.md).
 
  
 
-Cabala, name, [9](cab03.htm#page_9); origin, [12](cab03.htm#page_12);
-development, [16](cab04.htm#page_16); most important doctrines
-concerning men and creation, [66](cab07.htm#page_66); the realm of evil,
-[77](cab07.htm#page_77); psychology, [80](cab07.htm#page_80);
-metempsychosis, [81](cab07.htm#page_81); mystical interpretation,
-[83](cab07.htm#page_83); hermeneutical canons, [85](cab07.htm#page_85);
-its relation to Judaism, [95](cab08.htm#page_95); to Christianity,
-[100](cab08.htm#page_100); does not teach the Trinity,
-[105](cab08.htm#page_105); nor the Christ of the Christians,
-[106](cab08.htm#page_106).
+Baal-shem, [98](cab08.htm#page_98.md).
 
-Cassel, D., [99](cab08.htm#page_99).
+Bahir-book, teaches metempsychosis, [35](cab04.htm#page_35.md).
 
-Cassel, P., [75](cab07.htm#page_75).
+Barnabas, [85](cab07.htm#page_85.md).
 
-Chasidim, a Jewish sect, [98](cab08.htm#page_98).
+Bartolocci, [15](cab03.htm#page_15), [58](cab06.htm#page_58.md),
+[91](cab07.htm#page_91.md).
 
-Christ called Ichthys, [88](cab07.htm#page_88).
+Basnage, [3](cab02.htm#page_3.md).
 
-Cordovero, [57](cab06.htm#page_57).
+Beer, [22](cab04.htm#page_22.md).
 
-Cyclop. of McClintock and Strong, [13](cab03.htm#page_13),
-[36](cab04.htm#page_36), [40](cab04.htm#page_40),
-[50](cab05.htm#page_50), [51](cab05.htm#page_51),
-[57](cab06.htm#page_57), [59](cab06.htm#page_59),
-[61](cab06.htm#page_61), [62](cab06.htm#page_62),
-[63](cab06.htm#page_63), [85](cab07.htm#page_85),
-[94](cab07.htm#page_94), [97](cab08.htm#page_97),
-[101](cab08.htm#page_101).
+Biesenthal, [105](cab08.htm#page_105.md).
+
+Bischoff, [105](cab08.htm#page_105), [109](cab08.htm#page_109.md).
+
+Bodenschatz, [18](cab04.htm#page_18.md).
+
+Boehme, [3](cab02.htm#page_3.md).
+
+Bogratschoff, [99](cab08.htm#page_99.md).
+
+Bonwetsch, [22](cab04.htm#page_22.md).
+
+Buddeus, [104](cab08.htm#page_104.md).
 
  
 
-Dalman, [97](cab08.htm#page_97), [108](cab08.htm#page_108).
+Cabala, name, [9](cab03.htm#page_9); origin, [12](cab03.htm#page_12.md);
+development, [16](cab04.htm#page_16.md); most important doctrines
+concerning men and creation, [66](cab07.htm#page_66.md); the realm of evil,
+[77](cab07.htm#page_77); psychology, [80](cab07.htm#page_80.md);
+metempsychosis, [81](cab07.htm#page_81.md); mystical interpretation,
+[83](cab07.htm#page_83); hermeneutical canons, [85](cab07.htm#page_85.md);
+its relation to Judaism, [95](cab08.htm#page_95.md); to Christianity,
+[100](cab08.htm#page_100.md); does not teach the Trinity,
+[105](cab08.htm#page_105.md); nor the Christ of the Christians,
+[106](cab08.htm#page_106.md).
 
-Dodd, [88](cab07.htm#page_88).
+Cassel, D., [99](cab08.htm#page_99.md).
+
+Cassel, P., [75](cab07.htm#page_75.md).
+
+Chasidim, a Jewish sect, [98](cab08.htm#page_98.md).
+
+Christ called Ichthys, [88](cab07.htm#page_88.md).
+
+Cordovero, [57](cab06.htm#page_57.md).
+
+Cyclop. of McClintock and Strong, [13](cab03.htm#page_13.md),
+[36](cab04.htm#page_36), [40](cab04.htm#page_40.md),
+[50](cab05.htm#page_50), [51](cab05.htm#page_51.md),
+[57](cab06.htm#page_57), [59](cab06.htm#page_59.md),
+[61](cab06.htm#page_61), [62](cab06.htm#page_62.md),
+[63](cab06.htm#page_63), [85](cab07.htm#page_85.md),
+[94](cab07.htm#page_94), [97](cab08.htm#page_97.md),
+[101](cab08.htm#page_101.md).
 
  
 
-Edersheim, [21](cab04.htm#page_21).
+Dalman, [97](cab08.htm#page_97), [108](cab08.htm#page_108.md).
 
-Elisha ben-Abuja, [12](cab03.htm#page_12).
-
-En Soph, [34](cab04.htm#page_34).
-
-Emanations, treatise on the, [37](cab04.htm#page_37).
-
-Enoch, Book of, [19](cab04.htm#page_19).
-
-Etheridge, [4](cab02.htm#page_4).
-
-Eusebius, [22](cab04.htm#page_22), [88](cab07.htm#page_88).
-
-Eybenschütz, [64](cab06.htm#page_64).
+Dodd, [88](cab07.htm#page_88.md).
 
  
 
-Fludd, [3](cab02.htm#page_3).
+Edersheim, [21](cab04.htm#page_21.md).
 
-Franck, [5](cab02.htm#page_5).
+Elisha ben-Abuja, [12](cab03.htm#page_12.md).
 
-Frank, Jacob, [64](cab06.htm#page_64).
+En Soph, [34](cab04.htm#page_34.md).
+
+Emanations, treatise on the, [37](cab04.htm#page_37.md).
+
+Enoch, Book of, [19](cab04.htm#page_19.md).
+
+Etheridge, [4](cab02.htm#page_4.md).
+
+Eusebius, [22](cab04.htm#page_22), [88](cab07.htm#page_88.md).
+
+Eybenschütz, [64](cab06.htm#page_64.md).
 
  
 
-Galatino, [102](cab08.htm#page_102).
+Fludd, [3](cab02.htm#page_3.md).
 
-Geiger, [6](cab02.htm#page_6).
+Franck, [5](cab02.htm#page_5.md).
+
+Frank, Jacob, [64](cab06.htm#page_64.md).
+
+ 
+
+Galatino, [102](cab08.htm#page_102.md).
+
+Geiger, [6](cab02.htm#page_6.md).
 
 <span id="page_114">p. 114</span>
 
-Gematria, [85](cab07.htm#page_85).
+Gematria, [85](cab07.htm#page_85.md).
 
-Gikatilla, [42](cab04.htm#page_42).
+Gikatilla, [42](cab04.htm#page_42.md).
 
-Gill, [4](cab02.htm#page_4).
+Gill, [4](cab02.htm#page_4.md).
 
-Ginsburg, [7](cab02.htm#page_7).
+Ginsburg, [7](cab02.htm#page_7.md).
 
-God, His body described, [18](cab04.htm#page_18); is endless according
-to the Cabala, [66](cab07.htm#page_66); makes Himself known in the
+God, His body described, [18](cab04.htm#page_18.md); is endless according
+to the Cabala, [66](cab07.htm#page_66.md); makes Himself known in the
 creation by means of ten Sephiroth or emanations,
-[67](cab07.htm#page_67), [77](cab07.htm#page_77); which are divided into
+[67](cab07.htm#page_67), [77](cab07.htm#page_77.md); which are divided into
 groups and in this way yield three different forms as the diagrams show,
-[67](cab07.htm#page_67); the emanations, representing the first
+[67](cab07.htm#page_67.md); the emanations, representing the first
 manifestation of God form an ideal world; from which proceed by an
-emanation in different gradations four worlds, [74](cab07.htm#page_74).
+emanation in different gradations four worlds, [74](cab07.htm#page_74.md).
 
-Goldschmidt, [21](cab04.htm#page_21).
+Goldschmidt, [21](cab04.htm#page_21.md).
 
-Graetz, [7](cab02.htm#page_7), [52](cab05.htm#page_52),
-[75](cab07.htm#page_75).
+Graetz, [7](cab02.htm#page_7), [52](cab05.htm#page_52.md),
+[75](cab07.htm#page_75.md).
 
-Grünbaum, [22](cab04.htm#page_22).
+Grünbaum, [22](cab04.htm#page_22.md).
 
-Günsburg, [40](cab04.htm#page_40).
-
- 
-
-Helmont, [3](cab02.htm#page_3).
-
-Heredia, [101](cab08.htm#page_101).
-
-Horwitz, [60](cab06.htm#page_60).
-
-Hottinger, [92](cab07.htm#page_92).
+Günsburg, [40](cab04.htm#page_40.md).
 
  
 
-Interpretation, mystical, [83](cab07.htm#page_83).
+Helmont, [3](cab02.htm#page_3.md).
 
-Isaac the Blind, [33](cab04.htm#page_33); father of the Cabala,
-[34](cab04.htm#page_34).
+Heredia, [101](cab08.htm#page_101.md).
 
-Ishmaël ben Elisa, [13](cab03.htm#page_13).
+Horwitz, [60](cab06.htm#page_60.md).
 
- 
-
-Jehudah Halevi, [21](cab04.htm#page_21).
-
-Jellinek, [5](cab02.htm#page_5), [6](cab02.htm#page_6),
-[7](cab02.htm#page_7), [17](cab04.htm#page_17), [18](cab04.htm#page_18),
-[19](cab04.htm#page_19), [33](cab04.htm#page_33),
-[37](cab04.htm#page_37), [52](cab05.htm#page_52).
-
-Jezirah, book of, [20](cab04.htm#page_20); time and place of
-composition, [20](cab04.htm#page_20); contents, [21](cab04.htm#page_21);
-theosophical arithmetic, [22](cab04.htm#page_22).
-
-Joel, [6](cab02.htm#page_6), [105](cab08.htm#page_105).
-
-Josephus, [80](cab07.htm#page_80).
-
-Jost, [7](cab02.htm#page_7).
-
-Juchasin, [52](cab05.htm#page_52).
+Hottinger, [92](cab07.htm#page_92.md).
 
  
 
-Kahana, [99](cab08.htm#page_99).
+Interpretation, mystical, [83](cab07.htm#page_83.md).
 
-Kawana, doctrine of, [82](cab07.htm#page_82).
+Isaac the Blind, [33](cab04.htm#page_33.md); father of the Cabala,
+[34](cab04.htm#page_34.md).
 
-Kircher, [18](cab04.htm#page_18).
-
- 
-
-Landauer, [6](cab02.htm#page_6), [96](cab08.htm#page_96).
-
-Latif Ibn, [39](cab04.htm#page_39), [74](cab07.htm#page_74).
-
-Leon de Modena, [60](cab06.htm#page_60), [61](cab06.htm#page_61).
-
-Letters, combination of, [30](cab04.htm#page_30).
-
-Longfellow, [38](cab04.htm#page_38).
-
-Lully, [3](cab02.htm#page_3), [100](cab08.htm#page_100).
-
-Luria, [57](cab06.htm#page_57), [58](cab06.htm#page_58).
-
-Luzzatto, [65](cab06.htm#page_65).
+Ishmaël ben Elisa, [13](cab03.htm#page_13.md).
 
  
 
-Maasey Merkaba and Bereshit, [17](cab04.htm#page_17).
+Jehudah Halevi, [21](cab04.htm#page_21.md).
 
-Maimonides, [14](cab03.htm#page_14); denounces mysticism,
-[19](cab04.htm#page_19).
+Jellinek, [5](cab02.htm#page_5), [6](cab02.htm#page_6.md),
+[7](cab02.htm#page_7), [17](cab04.htm#page_17), [18](cab04.htm#page_18.md),
+[19](cab04.htm#page_19), [33](cab04.htm#page_33.md),
+[37](cab04.htm#page_37), [52](cab05.htm#page_52.md).
 
-Man the acme of creation, [79](cab07.htm#page_79).
+Jezirah, book of, [20](cab04.htm#page_20.md); time and place of
+composition, [20](cab04.htm#page_20); contents, [21](cab04.htm#page_21.md);
+theosophical arithmetic, [22](cab04.htm#page_22.md).
 
-Mathers, [8](cab02.htm#page_8).
+Joel, [6](cab02.htm#page_6), [105](cab08.htm#page_105.md).
 
-Medigo, Elias del, calls the Zohar a forgery, [57](cab06.htm#page_57).
+Josephus, [80](cab07.htm#page_80.md).
 
-Messiah, His coming, [78](cab07.htm#page_78); atonement of,
-[106](cab08.htm#page_106).
+Jost, [7](cab02.htm#page_7.md).
 
-Messiahship, [58](cab06.htm#page_58); teaches superfoetatio,
-[82](cab07.htm#page_82).
-
-Metatron, [25](cab04.htm#page_25), [38](cab04.htm#page_38),
-[75](cab07.htm#page_75).
-
-Metempsychosis, [81](cab07.htm#page_81).
-
-Midrash Konen, [33](cab04.htm#page_33).
-
-Milman, [4](cab02.htm#page_4).
-
-Mirandola, [3](cab02.htm#page_3), [55](cab06.htm#page_55),
-[101](cab08.htm#page_101).
-
-More, [3](cab02.htm#page_3).
-
-Morinus, [51](cab05.htm#page_51).
-
-Moses de Leon, [5](cab02.htm#page_5); author of the Zohar,
-[43](cab04.htm#page_43).
+Juchasin, [52](cab05.htm#page_52.md).
 
  
 
-Nachmanides, [36](cab04.htm#page_36). Nasir, [37](cab04.htm#page_37),
-[74](cab07.htm#page_74).
+Kahana, [99](cab08.htm#page_99.md).
 
-Neale, [88](cab07.htm#page_88).
+Kawana, doctrine of, [82](cab07.htm#page_82.md).
 
-Nechunjah Ben-Ha-Kanah, [13](cab03.htm#page_13),
-[35](cab04.htm#page_35).
-
-Nettesheim, [3](cab02.htm#page_3).
-
-Notarikon, [86](cab07.htm#page_86).
-
-Number, oracle, [86](cab07.htm#page_86).
+Kircher, [18](cab04.htm#page_18.md).
 
  
 
-Ophanim, [24](cab04.htm#page_24), [38](cab04.htm#page_38).
+Landauer, [6](cab02.htm#page_6), [96](cab08.htm#page_96.md).
 
-Oracula Sibyllina, [88](cab07.htm#page_88).
+Latif Ibn, [39](cab04.htm#page_39), [74](cab07.htm#page_74.md).
+
+Leon de Modena, [60](cab06.htm#page_60), [61](cab06.htm#page_61.md).
+
+Letters, combination of, [30](cab04.htm#page_30.md).
+
+Longfellow, [38](cab04.htm#page_38.md).
+
+Lully, [3](cab02.htm#page_3), [100](cab08.htm#page_100.md).
+
+Luria, [57](cab06.htm#page_57), [58](cab06.htm#page_58.md).
+
+Luzzatto, [65](cab06.htm#page_65.md).
+
+ 
+
+Maasey Merkaba and Bereshit, [17](cab04.htm#page_17.md).
+
+Maimonides, [14](cab03.htm#page_14.md); denounces mysticism,
+[19](cab04.htm#page_19.md).
+
+Man the acme of creation, [79](cab07.htm#page_79.md).
+
+Mathers, [8](cab02.htm#page_8.md).
+
+Medigo, Elias del, calls the Zohar a forgery, [57](cab06.htm#page_57.md).
+
+Messiah, His coming, [78](cab07.htm#page_78.md); atonement of,
+[106](cab08.htm#page_106.md).
+
+Messiahship, [58](cab06.htm#page_58.md); teaches superfoetatio,
+[82](cab07.htm#page_82.md).
+
+Metatron, [25](cab04.htm#page_25), [38](cab04.htm#page_38.md),
+[75](cab07.htm#page_75.md).
+
+Metempsychosis, [81](cab07.htm#page_81.md).
+
+Midrash Konen, [33](cab04.htm#page_33.md).
+
+Milman, [4](cab02.htm#page_4.md).
+
+Mirandola, [3](cab02.htm#page_3), [55](cab06.htm#page_55.md),
+[101](cab08.htm#page_101.md).
+
+More, [3](cab02.htm#page_3.md).
+
+Morinus, [51](cab05.htm#page_51.md).
+
+Moses de Leon, [5](cab02.htm#page_5.md); author of the Zohar,
+[43](cab04.htm#page_43.md).
+
+ 
+
+Nachmanides, [36](cab04.htm#page_36). Nasir, [37](cab04.htm#page_37.md),
+[74](cab07.htm#page_74.md).
+
+Neale, [88](cab07.htm#page_88.md).
+
+Nechunjah Ben-Ha-Kanah, [13](cab03.htm#page_13.md),
+[35](cab04.htm#page_35.md).
+
+Nettesheim, [3](cab02.htm#page_3.md).
+
+Notarikon, [86](cab07.htm#page_86.md).
+
+Number, oracle, [86](cab07.htm#page_86.md).
+
+ 
+
+Ophanim, [24](cab04.htm#page_24), [38](cab04.htm#page_38.md).
+
+Oracula Sibyllina, [88](cab07.htm#page_88.md).
 
 <span id="page_115">p. 115</span>
 
-Orelli, [98](cab08.htm#page_98).
+Orelli, [98](cab08.htm#page_98.md).
 
-Origen, [80](cab07.htm#page_80).
+Origen, [80](cab07.htm#page_80.md).
 
-Otto, [101](cab08.htm#page_101).
-
- 
-
-Paracelsus, [3](cab02.htm#page_3).
-
-Pauli, [105](cab08.htm#page_105).
-
-Perl, [99](cab08.htm#page_99).
-
-Philo, [80](cab07.htm#page_80), [81](cab07.htm#page_81).
-
-Picard, [61](cab06.htm#page_61).
-
-Pistorius, [101](cab08.htm#page_101).
-
-Plato, [80](cab07.htm#page_80), [81](cab07.htm#page_81).
-
-Proclus, [67](cab07.htm#page_67).
+Otto, [101](cab08.htm#page_101.md).
 
  
 
-Reuchlin, [3](cab02.htm#page_3), [101](cab08.htm#page_101).
+Paracelsus, [3](cab02.htm#page_3.md).
 
-Ricci, [101](cab08.htm#page_101). Rittengel, [101](cab08.htm#page_101).
+Pauli, [105](cab08.htm#page_105.md).
 
-Rosenroth, Knorr von, [43](cab04.htm#page_43), [45](cab05.htm#page_45),
-[58](cab06.htm#page_58), [103](cab08.htm#page_103).
+Perl, [99](cab08.htm#page_99.md).
 
-Rubin, [96](cab08.htm#page_96).
+Philo, [80](cab07.htm#page_80), [81](cab07.htm#page_81.md).
+
+Picard, [61](cab06.htm#page_61.md).
+
+Pistorius, [101](cab08.htm#page_101.md).
+
+Plato, [80](cab07.htm#page_80), [81](cab07.htm#page_81.md).
+
+Proclus, [67](cab07.htm#page_67.md).
 
  
 
-Sabbatai, Zebil, [61](cab06.htm#page_61); proclaims himself the Messiah,
-embraces Islamism, [62](cab06.htm#page_62); ruins thousands of Jewish
-families, [63](cab06.htm#page_63).
+Reuchlin, [3](cab02.htm#page_3), [101](cab08.htm#page_101.md).
 
-Sachs, [6](cab02.htm#page_6).
+Ricci, [101](cab08.htm#page_101). Rittengel, [101](cab08.htm#page_101.md).
 
-Samaël, prince of darkness, [77](cab07.htm#page_77); his wife called the
-harlot, [78](cab07.htm#page_78).
+Rosenroth, Knorr von, [43](cab04.htm#page_43), [45](cab05.htm#page_45.md),
+[58](cab06.htm#page_58), [103](cab08.htm#page_103.md).
 
-Sandalphon, [25](cab04.htm#page_25), [38](cab04.htm#page_38).
+Rubin, [96](cab08.htm#page_96.md).
 
-Schöttgen, [104](cab08.htm#page_104).
+ 
 
-Schürer, [81](cab07.htm#page_81).
+Sabbatai, Zebil, [61](cab06.htm#page_61.md); proclaims himself the Messiah,
+embraces Islamism, [62](cab06.htm#page_62.md); ruins thousands of Jewish
+families, [63](cab06.htm#page_63.md).
+
+Sachs, [6](cab02.htm#page_6.md).
+
+Samaël, prince of darkness, [77](cab07.htm#page_77.md); his wife called the
+harlot, [78](cab07.htm#page_78.md).
+
+Sandalphon, [25](cab04.htm#page_25), [38](cab04.htm#page_38.md).
+
+Schöttgen, [104](cab08.htm#page_104.md).
+
+Schürer, [81](cab07.htm#page_81.md).
 
 Scripture references:
 
 <div style="margin-left: 32px">
 
-Genesis XIV, 14, [86](cab07.htm#page_86); XXXVII, 3,
-[87](cab07.htm#page_87).
+Genesis XIV, 14, [86](cab07.htm#page_86.md); XXXVII, 3,
+[87](cab07.htm#page_87.md).
 
-Exodus, XIV, 19-21, [91](cab07.htm#page_91); XX, 20,
-[25](cab04.htm#page_25).
+Exodus, XIV, 19-21, [91](cab07.htm#page_91.md); XX, 20,
+[25](cab04.htm#page_25.md).
 
-Ps. XXXIV, 18, [18](cab04.htm#page_18); CXVIII, 22,
-[102](cab08.htm#page_102).
+Ps. XXXIV, 18, [18](cab04.htm#page_18.md); CXVIII, 22,
+[102](cab08.htm#page_102.md).
 
-Prov. III, 13, [38](cab04.htm#page_38).
+Prov. III, 13, [38](cab04.htm#page_38.md).
 
-Isa. VI, 2, [18](cab04.htm#page_18); 3, [105](cab08.htm#page_105); LIII,
-4, [107](cab08.htm#page_107); 5, [106](cab08.htm#page_106),
-[107](cab08.htm#page_107). Jer. XXV, 26, [92](cab07.htm#page_92).
+Isa. VI, 2, [18](cab04.htm#page_18); 3, [105](cab08.htm#page_105.md); LIII,
+4, [107](cab08.htm#page_107); 5, [106](cab08.htm#page_106.md),
+[107](cab08.htm#page_107). Jer. XXV, 26, [92](cab07.htm#page_92.md).
 
-Ezek. I, 20, [24](cab04.htm#page_24).
+Ezek. I, 20, [24](cab04.htm#page_24.md).
 
-Rom. XII, 3, 4, [107](cab08.htm#page_107).
+Rom. XII, 3, 4, [107](cab08.htm#page_107.md).
 
 </div>
 
-Selig, [98](cab08.htm#page_98).
+Selig, [98](cab08.htm#page_98.md).
 
-Sephiroth, [25](cab04.htm#page_25), [34](cab04.htm#page_34),
-[38](cab04.htm#page_38); opposed by a Sephirah of darkness,
-[77](cab07.htm#page_77).
+Sephiroth, [25](cab04.htm#page_25), [34](cab04.htm#page_34.md),
+[38](cab04.htm#page_38.md); opposed by a Sephirah of darkness,
+[77](cab07.htm#page_77.md).
 
-Seraphim, [24](cab04.htm#page_24).
+Seraphim, [24](cab04.htm#page_24.md).
 
-Simon ben Jochai, [4](cab02.htm#page_4), [5](cab02.htm#page_5);
-preexistence of soul, [80](cab07.htm#page_80).
+Simon ben Jochai, [4](cab02.htm#page_4), [5](cab02.htm#page_5.md);
+preexistence of soul, [80](cab07.htm#page_80.md).
 
-Steinschneider, [6](cab02.htm#page_6).
+Steinschneider, [6](cab02.htm#page_6.md).
 
-Stern, [7](cab02.htm#page_7).
+Stern, [7](cab02.htm#page_7.md).
 
-Strack, [50](cab05.htm#page_50).
+Strack, [50](cab05.htm#page_50.md).
 
-Superfoetatio, doctrine of, [82](cab07.htm#page_82).
+Superfoetatio, doctrine of, [82](cab07.htm#page_82.md).
 
-[Sandalphon](errata.htm#3), [38](cab04.htm#page_38).
-
- 
-
-Temurah, [91](cab07.htm#page_91).
-
-[Tetragrammaton](errata.htm#4), [93](cab07.htm#page_93).
-
-Tholuck, [105](cab08.htm#page_105).
-
-Tziruph, [91](cab07.htm#page_91).
+[Sandalphon](errata.htm#3), [38](cab04.htm#page_38.md).
 
  
 
-Vital, continues work of Luria, [59](cab06.htm#page_59); has many
-adherents, [60](cab06.htm#page_60).
+Temurah, [91](cab07.htm#page_91.md).
+
+[Tetragrammaton](errata.htm#4), [93](cab07.htm#page_93.md).
+
+Tholuck, [105](cab08.htm#page_105.md).
+
+Tziruph, [91](cab07.htm#page_91.md).
+
+ 
+
+Vital, continues work of Luria, [59](cab06.htm#page_59.md); has many
+adherents, [60](cab06.htm#page_60.md).
 
  
 
 Wakkar, endeavors to reconcile the Cabala with philosophy,
-[55](cab06.htm#page_55).
+[55](cab06.htm#page_55.md).
 
-Westcott, [6](cab02.htm#page_6).
+Westcott, [6](cab02.htm#page_6.md).
 
-Wordsworth, [84](cab07.htm#page_84).
+Wordsworth, [84](cab07.htm#page_84.md).
 
-World, the present, the best, [75](cab07.htm#page_75).
+World, the present, the best, [75](cab07.htm#page_75.md).
 
-Wünsche, [20](cab04.htm#page_20), [33](cab04.htm#page_33),
-[93](cab07.htm#page_93), [108](cab08.htm#page_108).
+Wünsche, [20](cab04.htm#page_20), [33](cab04.htm#page_33.md),
+[93](cab07.htm#page_93), [108](cab08.htm#page_108.md).
 
  
 
-Zohar, written by Moses de Leon, [43](cab04.htm#page_43); its
-supplementary portions, [46](cab05.htm#page_46); the late authorship
+Zohar, written by Moses de Leon, [43](cab04.htm#page_43.md); its
+supplementary portions, [46](cab05.htm#page_46.md); the late authorship
 proven from the reference to the Crusades and other events,
-[51](cab05.htm#page_51); becomes the text-book of the Cabala,
-[54](cab06.htm#page_54); its followers denounce the anti-Cabalists,
-[56](cab06.htm#page_56).
+[51](cab05.htm#page_51.md); becomes the text-book of the Cabala,
+[54](cab06.htm#page_54.md); its followers denounce the anti-Cabalists,
+[56](cab06.htm#page_56.md).
 
-Zunz, [6](cab02.htm#page_6), [94](cab07.htm#page_94).
+Zunz, [6](cab02.htm#page_6), [94](cab07.htm#page_94.md).
 
  

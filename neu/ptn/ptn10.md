@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ptn09)  [Next](ptn11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ptn09)  [Next](ptn11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641812X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XT7I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Popular Tales from the Norse*, by George Webbe Dasent, \[1904\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Intangible Textual Heritage
 they are in easy and charming English, have had many readers, and we are
 glad therefore to welcome a new edition. Of the Tales themselves and of
 Sir George Dasent's scholarly introduction to them nothing remains to be
-said, except perhaps that as they have [immemorial](errata.htm#0)
+said, except perhaps that as they have [immemorial](errata.htm#0.md)
 antiquity behind them, so as heirlooms of the whole Aryan race, they
 must survive to an indefinite future. The English-speaking world cannot
 desire a better translation than this of Sir George Dasent. What is new
@@ -98,4 +98,4 @@ EDINBURGH: DAVID DOUGLAS, 10 CASTLE STREET.
 
 ------------------------------------------------------------------------
 
-[Next: True and Untrue](ptn11)
+[Next: True and Untrue](ptn11.md)

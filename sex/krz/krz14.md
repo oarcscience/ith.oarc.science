@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz13)  [Next](krz15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz13)  [Next](krz15.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ sex-joy.
 
 ------------------------------------------------------------------------
 
-[Next: Does the Woman Need the Orgasm?](krz15)
+[Next: Does the Woman Need the Orgasm?](krz15.md)

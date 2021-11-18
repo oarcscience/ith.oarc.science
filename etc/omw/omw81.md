@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw80)  [Next](omw82) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw80)  [Next](omw82.md) 
 
 ------------------------------------------------------------------------
 
@@ -370,4 +370,4 @@ forth and took up their menial tasks.
 
 ------------------------------------------------------------------------
 
-[Next: Quetzalcoatl](omw82)
+[Next: Quetzalcoatl](omw82.md)

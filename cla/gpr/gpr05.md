@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gpr04)  [Next](gpr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gpr04)  [Next](gpr06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Greek Popular Religion*, by Martin P. Nilsson, \[1940\], at Intangible
 Textual Heritage
 
@@ -68,7 +68,7 @@ as is found in religions which have laid down their creeds in books. The
 Greeks had religious ideas, of course, but they never made them into a
 system. What the Greeks called theology was either metaphysics, or the
 doctrine of the persons and works of the various gods. <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 It is of the greatest importance to attain a well-founded knowledge of
 Greek popular religion, for the fate of Greek religion as a whole
@@ -134,7 +134,7 @@ Myths have much to tell about these disasters, and it is related that
 they were sometimes so great that the most extreme of all sacrifices, a
 human sacrifice, was offered. Two such sacrifices are recorded from
 historical times, one to Zeus Lykaios and one to Zeus Laphystios. <span
-id="fr_1"></span>[2](#fn_1) Zeus Lykaios received his name from the high
+id="fr_1"></span>[2](#fn_1.md) Zeus Lykaios received his name from the high
 mountain in southwestern Arcadia, Lykaion, on the top of which he had a
 famous sanctuary. Zeus Laphystios was named after the mountain
 Laphystion in Boeotia, although his cult belonged to Halos in Thessaly.
@@ -155,8 +155,8 @@ myth is weather magic such as is known to have been practiced at several
 places in Greece, including Mount Pelion, not far from Halos. At the
 time of the greatest heat young men girt with fresh ram fleeces went up
 to the top of this mountain in order to pray to Zeus Akraios for cool
-weather. <span id="fr_2"></span>[3](#fn_2) From this fleece, Zeus was
-called Melosios on Naxos, <span id="fr_3"></span>[4](#fn_3) and the
+weather. <span id="fr_2"></span>[3](#fn_2.md) From this fleece, Zeus was
+called Melosios on Naxos, <span id="fr_3"></span>[4](#fn_3.md) and the
 fleece, which was used in several rites, for example, in the initiation
 into the Eleusinian Mysteries, was called Zeus' fleece (*Dios kodion*).
 It is generally said to have been a means of purification and
@@ -188,7 +188,7 @@ cannot be cultivated, and the extent of such land was greater in
 antiquity. If our peasant passed a heap of stones, as he was likely to
 do, he might lay another stone upon it. If a tall stone was erected on
 top of the heap, he might place before it a bit of his provision as an
-offering ([Fig. 3](gpr12.htm#img_fig03)). He performed this act as a
+offering ([Fig. 3](gpr12.htm#img_fig03).md). He performed this act as a
 result of custom, without knowing the real reason for it, but he knew
 that a god was embodied in the stone heap and in the tall stone standing
 on top of it. He named the god Hermes after the stone heap (*herma*) in
@@ -218,7 +218,7 @@ protector of wayfarers, who dwelt in the stone heaps. Hermes, the guide
 of souls, is known not only from literature but also from pictures, in
 which he is represented with a magic rod in his hand, permitting the
 souls, small winged human figures, to ascend and sending them down again
-through the mouth of a large jar ([Fig. 2](gpr12.htm#img_fig02)) . Such
+through the mouth of a large jar ([Fig. 2](gpr12.htm#img_fig02).md) . Such
 jars were often used for burial purposes.
 
 Perhaps our peasant wanted to look after his stock, which grazed on the
@@ -238,7 +238,7 @@ Greece, Arcadia, the land of shepherds. Here, too, the herms were
 especially popular in cult. Attention has recently been drawn to a
 series of Arcadian herms, some of which are double or triple and
 inscribed with the names of various gods in the genitive <span
-id="fr_4"></span>[5](#fn_4) ([Fig. 1](gpr12.htm#img_fig01)). Other gods
+id="fr_4"></span>[5](#fn_4) ([Fig. 1](gpr12.htm#img_fig01).md). Other gods
 than Hermes were also embodied
 
 <span id="page_10">p. 10</span>
@@ -273,7 +273,7 @@ Kephisodotos, the gift of Kephisos. When the young man cut his long
 hair, he dedicated the locks to the neighboring river.
 
 The rivers each had their god. These gods are represented in the shape
-of a bull or a bull with a human head ([Fig. 6](gpr13.htm#img_fig06)).
+of a bull or a bull with a human head ([Fig. 6](gpr13.htm#img_fig06).md).
 Such a figure is sometimes called by the name of the great river
 
 <span id="page_11">p. 11</span>
@@ -322,7 +322,7 @@ of a man. Homer calls them beasts. They appear only in the myths of art
 and literature, and they seem to have been localized in two districts,
 Mount Pelion and northwestern Arcadia. There is no doubt that they were
 de-rived from popular belief. If the proposed etymology, according to
-which the word means "water whipper," <span id="fr_5"></span>[6](#fn_5)
+which the word means "water whipper," <span id="fr_5"></span>[6](#fn_5.md)
 is correct, they were water spirits. In that case, one might believe
 that they were originally spirits of the precipitous mountain torrents.
 At all events, their character is rough and violent. They resemble the
@@ -339,17 +339,17 @@ their name. It was proposed to assign to these daemons, which were
 confined to the Ionian area, the name of seilenoi--we know from
 inscriptions that they were so called--in distinction from the goatlike
 satyrs, which were supposed to be Dorian. <span
-id="fr_6"></span>[7](#fn_6) The attempt
+id="fr_6"></span>[7](#fn_6.md) The attempt
 
 <span id="page_13">p. 13</span>
 
 to make such a distinction has failed. Proper names prove that seilenoi
 were well known in the Peloponnesus also, <span
-id="fr_7"></span>[8](#fn_7) and their value as testimony is the greater
+id="fr_7"></span>[8](#fn_7.md) and their value as testimony is the greater
 because they prove that the seilenoi belong not only to mythology but
 also to popular belief. Moreover, there are archaic statuettes from
 Arcadia showing daemons with a human body and features of goats and
-other animals ([Fig. 4](gpr13.htm#img_fig04)). These goatlike daemons
+other animals ([Fig. 4](gpr13.htm#img_fig04).md). These goatlike daemons
 are sometimes called *panes*, and they are certainly akin to Pan. The
 seilenoi and the satyrs have intercourse with the nymphs, and very often
 they appear dancing and frolicking with the maenads, for they were made
@@ -386,12 +386,12 @@ cool caves, in the groves, in the meadows, and by the springs. There are
 also sea nymphs--the Nereids--and tree nymphs. The nymphs had cults at
 many places, especially at springs and in caves (Fig. 8). Caves with
 remains of such cults have been discovered. Most interesting is the cave
-at Vari on Mount Hymettus. <span id="fr_8"></span>[9](#fn_8) In the
+at Vari on Mount Hymettus. <span id="fr_8"></span>[9](#fn_8.md) In the
 fifth century B.C., a poor man of Theraean origin, Archedemos, who
 styles himself "caught by the nymphs," planted a garden, decorated the
 cave, and engraved inscriptions on its walls. Still more interesting is
 a cave which was recently discovered at Pitza in the neighborhood of
-Corinth. <span id="fr_9"></span>[10](#fn_9) The discovery is famous
+Corinth. <span id="fr_9"></span>[10](#fn_9.md) The discovery is famous
 especially for its well-preserved paintings on wood in Corinthian style.
 One of these tablets represents a sacrifice to the nymphs, and the other
 represents women. There are a lot of terracottas representing
@@ -406,7 +406,7 @@ brought offerings to the Moirai
 <span id="page_15">p. 15</span>
 
 for success in marriage and childbirth, <span
-id="fr_10"></span>[11](#fn_10) the Moirai may have succeeded the nymphs.
+id="fr_10"></span>[11](#fn_10.md) the Moirai may have succeeded the nymphs.
 The nymphs were very popular in cult. They were beautiful and kind and
 represented the gentle and benevolent aspects of nature and of almost
 all its parts. It is quite understandable that they were venerated by
@@ -420,7 +420,7 @@ and were supposed to be especially benevolent to those of their own sex.
 
 There is a great goddess who is very similar to the nymphs and who is
 accompanied by nymphs, namely Artemis, "Lady of the Wild Things" ([Fig.
-5](gpr13.htm#img_fig05)). She haunts the mountains and the meadows; she
+5](gpr13.htm#img_fig05).md). She haunts the mountains and the meadows; she
 is connected with the tree cult and with springs and rivers; she
 protects women in childbirth; and she watches over little children.
 Girls brought offerings to her before their marriage. Her aspect is
@@ -449,10 +449,10 @@ Cedreatis, after the cedar. Dances and masquerades of a very free and
 even lascivious character assumed a prominent place in many of her
 cults, in which men as well as women took part. Cymbals have been found
 in the temple of Artemis Limnatis in the borderland between Laconia and
-Messenia. <span id="fr_11"></span>[12](#fn_11) During the excavations of
+Messenia. <span id="fr_11"></span>[12](#fn_11.md) During the excavations of
 the British School in the famous sanctuary of Artemis Orthia at Sparta,
 a number of terracotta masks, representing grotesque faces of both men
-and women, were found ([Fig. 7](gpr13.htm#img_fig07)) . It is very
+and women, were found ([Fig. 7](gpr13.htm#img_fig07).md) . It is very
 probable that similar masks were worn by the dancers who performed in
 this cult. In these customs we find the popular background for the
 mythological Artemis who dances with her nymphs.
@@ -498,12 +498,12 @@ fertility which does not depend upon the efforts of man.
 Anyone who wishes to understand the religion of antiquity should have
 before him a living picture of the ancient landscape as it is
 represented in certain Pompeian frescoes <span
-id="fr_12"></span>[13](#fn_12) ([Fig. 9](gpr14.htm#img_fig09)) and in
+id="fr_12"></span>[13](#fn_12) ([Fig. 9](gpr14.htm#img_fig09).md) and in
 Strabo's description of the lowland at the mouth of
 
 <span id="page_18">p. 18</span>
 
-the river Alpheus. <span id="fr_13"></span>[14](#fn_13) "The whole
+the river Alpheus. <span id="fr_13"></span>[14](#fn_13.md) "The whole
 tract," Strabo says, "is full of shrines of Artemis, Aphrodite, and the
 nymphs, in flowery groves, due mainly to the abundance of water; there
 are numerous hermae on the roads and shrines of Poseidon on the
@@ -516,7 +516,7 @@ It outlived the fall of the great gods.
 This is not the end of the story. Our peasant certainly passed on his
 way other small sanctuaries or groves where he paid his respects. Not
 gods or nature daemons but heroes dwelt in them <span
-id="fr_14"></span>[15](#fn_14) ([Fig. 10](gpr14.htm#img_fig10)).
+id="fr_14"></span>[15](#fn_14) ([Fig. 10](gpr14.htm#img_fig10).md).
 Although modern scholars have proffered other opinions, the Greeks were
 persuaded that a hero was a man who had once lived, who died and was
 buried, and who lay in his grave at the place where he was venerated. I
@@ -557,10 +557,10 @@ and especially those with mythological names, are recorded. Very many
 were anonymous or called only by some such epithet as "the leader."
 Others were designated simply by the place where their cult was located.
 This fact emerges, for example, from the sacrificial calendar of the
-Marathonian tetrapolis, <span id="fr_15"></span>[16](#fn_15) in which we
+Marathonian tetrapolis, <span id="fr_15"></span>[16](#fn_15.md) in which we
 find four couples, each consisting of a hero and a heroine, and in
 addition to these some other heroes. In the inscription of the
-Salaminioi, <span id="fr_16"></span>[17](#fn_16) which was discovered
+Salaminioi, <span id="fr_16"></span>[17](#fn_16.md) which was discovered
 recently during the American excavations at Athens, we also find a
 series of heroes designated by the localities of their cults in the
 neighborhood of Sunium.
@@ -635,70 +635,70 @@ of Greek religion.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:1](gpr05.htm#fr_0) θεολογία is πρώτη
+<span id="fn_0"></span>[4:1](gpr05.htm#fr_0.md) θεολογία is πρώτη
 φιλοσοφία, Aristotle, *Metaphysica*, X, p. 1064a, ll. 33 ff. The persons
 and the works of the gods are described by Cornutus in a book entitled
 Ἐπιδορμή τῶν κατὰ τήν ἑλληνικήν θεολογίαν παραδεδομέων.
 
-<span id="fn_1"></span>[6:2](gpr05.htm#fr_1) Herodotus, VII, 197, and
+<span id="fn_1"></span>[6:2](gpr05.htm#fr_1.md) Herodotus, VII, 197, and
 Pseudo-Plato, *Minos*, p. 315c; Theophrastus in Porphyrius, *De
 abstinentia*, II, 27.
 
-<span id="fn_2"></span>[7:3](gpr05.htm#fr_2) C. Müller, ed., *Fragmenta
+<span id="fn_2"></span>[7:3](gpr05.htm#fr_2.md) C. Müller, ed., *Fragmenta
 historicorum Graecorum* (Paris, 1841-73), II, 262.
 
-<span id="fn_3"></span>[7:4](gpr05.htm#fr_3) Inscriptiones Graecae,
+<span id="fn_3"></span>[7:4](gpr05.htm#fr_3.md) Inscriptiones Graecae,
 consilio et auctoritate Academiae litterarum regiae borussicae editae
 (Berlin, 1873-), Vol. XII, Fasc. 5, No. 48; interpretation by A. B.
 Cook, Zeus; a Study in Ancient Religion (Cambridge, 1914-25), I, 164.
 
-<span id="fn_4"></span>[9:5](gpr05.htm#fr_4) K. Rhomaios, "Arkadikoi
+<span id="fn_4"></span>[9:5](gpr05.htm#fr_4.md) K. Rhomaios, "Arkadikoi
 Hermai," *Ephemeris archaiologike*, 1911, pp. 149 ff.
 
-<span id="fn_5"></span>[12:6](gpr05.htm#fr_5) P. Kretschmer in *Glotta*,
+<span id="fn_5"></span>[12:6](gpr05.htm#fr_5.md) P. Kretschmer in *Glotta*,
 X (1920), 50.
 
-<span id="fn_6"></span>[12:7](gpr05.htm#fr_6) There has been a lengthy
+<span id="fn_6"></span>[12:7](gpr05.htm#fr_6.md) There has been a lengthy
 discussion. I cite only E. Reisch, "Zur Vorgeschichte der attischen
 Tragödie," *Festschrift Theodor Gomperz dargebracht zum siebzigsten
 Geburtstage* (Vienna, 1902), pp. 451 ff., and the most recent work, F.
 Brommer, *Satyroi* (Dissertation, Munich, 1937).
 
-<span id="fn_7"></span>[13:8](gpr05.htm#fr_7) F. Solmsen in
+<span id="fn_7"></span>[13:8](gpr05.htm#fr_7.md) F. Solmsen in
 *Indogermanische Forschungen*, XXX (1912), 1 ff.
 
-<span id="fn_8"></span>[14:9](gpr05.htm#fr_8) *Amer. Journ. of
+<span id="fn_8"></span>[14:9](gpr05.htm#fr_8.md) *Amer. Journ. of
 Archaeology*, VII (1903), 263 ff.; the inscriptions in *Inscriptiones
 Graecae*, Editio minor (Berlin, 1913-), Vol. I, Nos. 778-800.
 
-<span id="fn_9"></span>[14:10](gpr05.htm#fr_9) Summary description in
+<span id="fn_9"></span>[14:10](gpr05.htm#fr_9.md) Summary description in
 *Archäologischer Anzeiger, Beiblatt zum Jahrbuch des archäologischen
 Instituts*, 1934, pp. 194 ff., and 1935, pp. 197 ff.
 
-<span id="fn_10"></span>[15:11](gpr05.htm#fr_10) J. C. Lawson, *Modern
+<span id="fn_10"></span>[15:11](gpr05.htm#fr_10.md) J. C. Lawson, *Modern
 Greek Folklore and Ancient Greek Religion; a Study in Survivals*
 (Cambridge, 1910), p. 121.
 
-<span id="fn_11"></span>[16:12](gpr05.htm#fr_11) H. Roehl, ed.,
+<span id="fn_11"></span>[16:12](gpr05.htm#fr_11.md) H. Roehl, ed.,
 *Inscriptiones Graecae antiquissimae praeter Atticas in Attica repertas*
 (Berlin, 1882), Nos. 50, 61, 73.
 
-<span id="fn_12"></span>[17:13](gpr05.htm#fr_12) M. Rostovtzeff, "Die
+<span id="fn_12"></span>[17:13](gpr05.htm#fr_12.md) M. Rostovtzeff, "Die
 hellenistisch-römische Architekturlandschaft," *Römische Mitteilungen*,
 XXVI (1911), 1 ff.
 
-<span id="fn_13"></span>[18:14](gpr05.htm#fr_13) Strabo, VIII, p. 343.
+<span id="fn_13"></span>[18:14](gpr05.htm#fr_13.md) Strabo, VIII, p. 343.
 
-<span id="fn_14"></span>[18:15](gpr05.htm#fr_14) The most comprehensive
+<span id="fn_14"></span>[18:15](gpr05.htm#fr_14.md) The most comprehensive
 treatment is by L. R. Farnell, *Greek Hero Cults and Ideas of
 Immortality* (Oxford, 1921).
 
-<span id="fn_15"></span>[19:16](gpr05.htm#fr_15) *Inscriptiones
+<span id="fn_15"></span>[19:16](gpr05.htm#fr_15.md) *Inscriptiones
 Graecae*, Editio minor, Vols. II-III, Pt. 1, No. 1358.
 
-<span id="fn_16"></span>[19:17](gpr05.htm#fr_16) Published by W.
+<span id="fn_16"></span>[19:17](gpr05.htm#fr_16.md) Published by W.
 Ferguson in *Hesperia*, VII (1938), 31 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Rural Customs and Festivals](gpr06)
+[Next: Rural Customs and Festivals](gpr06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Next](mrm01) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Next](mrm01.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ THE AFFECTIONATE TRIBUTE OF A FRIENDSHIP OF MANY YEARS.
 
 ------------------------------------------------------------------------
 
-[Next: Preface.](mrm01)
+[Next: Preface.](mrm01.md)

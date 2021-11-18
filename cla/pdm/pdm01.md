@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm00) 
-[Next](pdm02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Esoteric](../../eso/index)  [Index](index)  [Previous](pdm00.md) 
+[Next](pdm02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602063931/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Greece in the Sixth Century](pdm02)
+[Next: Chapter I. Greece in the Sixth Century](pdm02.md)

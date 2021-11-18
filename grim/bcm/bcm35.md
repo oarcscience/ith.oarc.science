@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm34)  [Next](bcm36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm34)  [Next](bcm36.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ symbolism of the Trumps Major redirected towards the Powers of the Deep.
 
 ------------------------------------------------------------------------
 
-[Next: Section 8: The Gold-Finding Hen](bcm36)
+[Next: Section 8: The Gold-Finding Hen](bcm36.md)

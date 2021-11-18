@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](hrl05)  [Next](hrl07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](hrl05)  [Next](hrl07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -495,4 +495,4 @@ brought out to see the country, to know the people.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7. Our Growing Modesty](hrl07)
+[Next: Chapter 7. Our Growing Modesty](hrl07.md)

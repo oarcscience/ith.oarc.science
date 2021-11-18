@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe079)  [Next](prwe081) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe079)  [Next](prwe081.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ saving is.
 
 ------------------------------------------------------------------------
 
-[Next: The Devil's Coit &c](prwe081)
+[Next: The Devil's Coit &c](prwe081.md)

@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Articles](../../bud/etc/index)
 
 <span id="page_551">p. 551</span>
 
-## BUDDHIST MEDITATIONS.<span id="page_551_fr_*"></span>[\*](#page_551_note_*)
+## BUDDHIST MEDITATIONS.<span id="page_551_fr_*"></span>[\*](#page_551_note_*.md)
 
 COMMUNICATED BY THE EDITOR.
 
@@ -493,7 +493,7 @@ And think there is an ego."]<span id="page_556_fr_*"></span><a href="#page_556_n
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -501,12 +501,12 @@ And think there is an ego."]<span id="page_556_fr_*"></span><a href="#page_556_n
 
 <span id="footnotes_page_551">p. 551</span>
 
-<span id="page_551_note_*"></span>[\*](#page_551_fr_*) Selected and
+<span id="page_551_note_*"></span>[\*](#page_551_fr_*.md) Selected and
 translated from the *Fukio Taikan*, by the Rev. A. Lloyd.
 
 <span id="footnotes_page_556">p. 556</span>
 
-<span id="page_556_note_*"></span>[\*](#page_556_fr_*) The bracketed
+<span id="page_556_note_*"></span>[\*](#page_556_fr_*.md) The bracketed
 passage is an editorial addition. Rev. A. Lloyd makes following comment
 on the Buddhist doctrine concerning "self":
 

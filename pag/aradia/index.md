@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
 
 #### \[1899\]
 
-[Jump to contents](#contents)    [Start reading](ara00)
+[Jump to contents](#contents)    [Start reading](ara00.md)
 
 ------------------------------------------------------------------------
 
@@ -57,29 +57,29 @@ standards of sacred-texts.
 
 ------------------------------------------------------------------------
 
-[Title Page](ara00)  
-[Preface](ara01)  
-[Contents](ara02)  
-[Chapter I. How Diana Gave Birth to Aradia](ara03)  
+[Title Page](ara00.md)  
+[Preface](ara01.md)  
+[Contents](ara02.md)  
+[Chapter I. How Diana Gave Birth to Aradia](ara03.md)  
 [Chapter II. The Sabbat: Treguenda or Witch-Meeting--How to Consecrate
-the Supper](ara04)  
-[Chapter III. How Diana Made the Stars and the Rain](ara05)  
-[Chapter IV.The Charm of the Stones Consecrated to Diana](ara06)  
-[Chapter V. The Conjuration of the Lemon and Pins](ara07)  
-[Chapter VI. A Spell To Win Love](ara08)  
+the Supper](ara04.md)  
+[Chapter III. How Diana Made the Stars and the Rain](ara05.md)  
+[Chapter IV.The Charm of the Stones Consecrated to Diana](ara06.md)  
+[Chapter V. The Conjuration of the Lemon and Pins](ara07.md)  
+[Chapter VI. A Spell To Win Love](ara08.md)  
 [Chapter VII. To Find or Buy Anything, or to Have Good Fortune
-Thereby](ara09)  
+Thereby](ara09.md)  
 [Chapter VIII. To Have a Good Vintage and Very Good Wine by the Aid of
-Diana](ara10)  
-[Chapter IX.Tana and Endamone, or Diana and Endymion](ara11)  
-[Chapter X. Madonna Diana](ara12)  
-[Chapter XI. The House of the Wind](ara13)  
-[Chapter XII. Tana, The Moon-Goddess](ara14)  
-[Chapter XIII. Diana and the Children](ara15)  
-[Chapter XIV. The Goblin Messengers of Diana and Mercury](ara16)  
-[Chapter XV. Laverna](ara17)  
-[Appendix: Comments on the Foregoing Texts](ara18)  
-[The Children of Diana, or How the Fairies Were Born](ara19)  
-[Diana, Queen of the Serpents, Giver of the Gift of Languages](ara20)  
-[Diana as Giving Beauty and Restoring Strength](ara21)  
-[Note](ara22)  
+Diana](ara10.md)  
+[Chapter IX.Tana and Endamone, or Diana and Endymion](ara11.md)  
+[Chapter X. Madonna Diana](ara12.md)  
+[Chapter XI. The House of the Wind](ara13.md)  
+[Chapter XII. Tana, The Moon-Goddess](ara14.md)  
+[Chapter XIII. Diana and the Children](ara15.md)  
+[Chapter XIV. The Goblin Messengers of Diana and Mercury](ara16.md)  
+[Chapter XV. Laverna](ara17.md)  
+[Appendix: Comments on the Foregoing Texts](ara18.md)  
+[The Children of Diana, or How the Fairies Were Born](ara19.md)  
+[Diana, Queen of the Serpents, Giver of the Gift of Languages](ara20.md)  
+[Diana as Giving Beauty and Restoring Strength](ara21.md)  
+[Note](ara22.md)  

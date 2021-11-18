@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cms38)  [Next](cms40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cms38)  [Next](cms40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ should not go on and on, and never stop growing. No matter what age or
 what circumstance, if life is thought, we can keep on thinking bigger
 things. There is no reason why a man who is already doing well should
 not be able mentally to conceive of a still better condition. What if we
-are active? There is always a greater activity [possible](errata.htm#3).
+are active? There is always a greater activity [possible](errata.htm#3.md).
 We can still see a little beyond what has come before. This is just what
 we should do, see, even though it be but a little beyond our former
 thought. If we always practice this, we will find that every year we
@@ -87,4 +87,4 @@ to yourself that life is without bounds.
 
 ------------------------------------------------------------------------
 
-[Next: Always Be Gathering](cms40)
+[Next: Always Be Gathering](cms40.md)

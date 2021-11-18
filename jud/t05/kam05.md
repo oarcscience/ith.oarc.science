@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam04)  [Next](kam06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam04)  [Next](kam06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -19,9 +19,9 @@ RULES REGULATING THE PRINCIPLE OF VICIOUSNESS AND NON-VICIOUSNESS IN THE
 FOUR PRINCIPAL TORT-FEASORS ENUMERATED IN THE FIRST MISHNA.
 
 MISHNA *I*.: What tendency makes the foot to be considered
-vicious? <span id="fr_10"></span>[1](#fn_10) That of breaking
+vicious? <span id="fr_10"></span>[1](#fn_10.md) That of breaking
 (everything in its way) while walking. An animal has a tendency to cause
-breakage while walking in her <span id="fr_11"></span>[2](#fn_11) usual
+breakage while walking in her <span id="fr_11"></span>[2](#fn_11.md) usual
 way. If, however, she were kicking (which is not her habit to do, and
 therefore considered a derivative of the horn), or there were gravel
 being kicked up from under her feet (which is sometimes her habit to do)
@@ -44,7 +44,7 @@ GEMARA: Said Rabhina to Rabha: (Let us see.) Does not the term "foot" in
 the Mishna mean the foot of the animal; and does not the term "animal"
 mean its foot? Why, then, the change of the terms in the Mishna? He
 answered: Our Mishna begins with "foot," because the same term was used
-in a previous Mishna (page [27](kam04.htm#page_27)), (but the proper
+in a previous Mishna (page [27](kam04.htm#page_27).md), (but the proper
 term is "animal").
 
 The rabbis taught: An animal has a tendency to walk in her usual way and
@@ -173,7 +173,7 @@ that in the usual case of
 <span class="contnote">\[paragraph continues\]</span> "gravel" the
 damage is paid out of the body, but the case in the above Mishna is that
 the coal was handled not in the usual way, and R. Elazar holds in this
-respect with R. Tarphon, who said (page [50](#page_50)) that where
+respect with R. Tarphon, who said (page [50](#page_50).md) that where
 damage was done by the horn in an unusual way on the premises of the
 plaintiff, the whole damage must be paid. In reality, however, it is not
 so. For what is the reason of the assertion that it is, according to R.
@@ -185,7 +185,7 @@ here that it is to be paid out of the body, it refers to that element
 (and in case of non-viciousness it is always paid out of the body).
 
 Said R. Sama, the son of R. Ashi, to Rabhina <span
-id="fr_12"></span>[1](#fn_12): (Even according to this theory) you can
+id="fr_12"></span>[1](#fn_12): (Even according to this theory.md) you can
 explain R. Jehudah's statement only in case of a non-vicious animal that
 became vicious, but how can you explain his statement when the animal is
 considered vicious from the beginning, as in the case of "gravel in the
@@ -388,7 +388,7 @@ highway? Said Rabha: R. Oshiyah meant to say if the animal jumped. R.
 Zera propounded a question: If it was rolling, what is the law? To what
 case has R. Zera reference? If the animal was standing on private ground
 and the article was rolling toward the private ground. <span
-id="fr_13"></span>[1](#fn_13) (Do we follow the place where it was
+id="fr_13"></span>[1](#fn_13.md) (Do we follow the place where it was
 consumed, and there is no liability, or do we follow the place wherefrom
 it was removed, and there *is* a liability?)
 
@@ -501,7 +501,7 @@ Joseph assigned another reason, viz., a house which is inhabited lasts
 longer (for the inhabitants make all the repairs necessary). What is the
 difference between these two reasons? There is a difference when the
 house is used for storing wood and straw. <span
-id="fr_14"></span>[1](#fn_14)
+id="fr_14"></span>[1](#fn_14.md)
 
 <span id="page_42">p. 42</span>
 
@@ -567,7 +567,7 @@ holds it means to exclude the ground of the defendant. "The ground of
 the defendant?" (Why should there be any liability?) Let the defendant
 say to the plaintiff: What right had you to place your fruit upon my
 ground? We must therefore say that they differ in cases stated by Ilpha
-and R. Oshiyah (see *supra*, page [38](#page_38)) (R. Meir holds, if in
+and R. Oshiyah (see *supra*, page [38](#page_38).md) (R. Meir holds, if in
 the middle of the highway only the value of the benefit is to be paid in
 both the case stated by Ilpha and that stated by R. Oshiyah. And R.
 Joseph maintains that it is not her usual habit, etc.,
@@ -656,7 +656,7 @@ also of the other theory, that it is considered his property (and if not
 liable for one reason is liable for the other reason), then what is the
 difference between R. Johanan and Resh Lakish? The difference is as to
 the liability for the four things (see above, page
-[6](kam04.htm#page_6)). (According to the one who holds that it is
+[6](kam04.htm#page_6).md). (According to the one who holds that it is
 because it is his arrow also, there is a liability; and according to the
 one who holds that it is because it is his property, there is none.)
 
@@ -865,12 +865,12 @@ but that he is not liable for *that* goring. This question remains
 undecided. Rabha said: If you should say that one who sets on his
 neighbor's dog is liable, it would follow that, if in such a case the
 dog turned on the one who sets him on and bit him, the owner is not
-liable. Why so? As stated above, page [39](#page_39), that one who does
+liable. Why so? As stated above, page [39](#page_39.md), that one who does
 an unusual thing, etc., which is the same in this case. The man was
 wrong in setting on the dog, and the dog should not bite him. Said R.
 Papa to Rabha: It was taught in the name of Resh Lakish in accordance
 with your theory in the case of two cows (see *post*, page
-[70](kam06.htm#page_70)). Rejoined Rabha: I in such a case hold him to
+[70](kam06.htm#page_70).md). Rejoined Rabha: I in such a case hold him to
 liability, for the reason that we can say to him: You had permission to
 step upon me, but had you then also permission to kick me?
 
@@ -970,7 +970,7 @@ Let a man (that kills another wilfully, but without warning, in which
 case he is neither to suffer the death penalty nor to be banished) pay a
 sum of money in atonement by the following *a fortiori* argument: An ox
 which is not liable to the payment of the four certain things (mentioned
-above, page [6](kam04.htm#page_6)) must nevertheless pay a sum of money
+above, page [6](kam04.htm#page_6).md) must nevertheless pay a sum of money
 in atonement; for a man who is liable to the payment of the above four
 things, is it not logical that he should be liable to the payment of a
 sum of money in atonement? To this the Scripture reads \[ibid. 30\],
@@ -1047,7 +1047,7 @@ one liable for unintentional as for intentional damage, and for an
 accidental as for a deliberate act. But do we not need this passage to
 make one liable for the pain (which is one of the four things explained
 above) where damages are paid? If so, let the passage say "wound for
-wound," why then "wound *instead* <span id="fr_15"></span>[1](#fn_15) of
+wound," why then "wound *instead* <span id="fr_15"></span>[1](#fn_15.md) of
 a wound"? Infer from this both.
 
 Rabba said: One who carries a stone in his lap without being aware of
@@ -1077,7 +1077,7 @@ rabbis differ. If he intended to throw four (ells) and threw it eight
 liable; as regards Sabbath he is free unless he said: Let it fall
 wherever it may; as regards banishment the above-quoted passage means to
 except such a case as to his liability to a slave. R. Simeon b. Gamaliel
-and the rabbis also differ. <span id="fr_16"></span>[1](#fn_16)
+and the rabbis also differ. <span id="fr_16"></span>[1](#fn_16.md)
 
 Rabba said again of one who drops his own vessel from the top of a roof,
 and before it reaches the ground another person strikes it with his cane
@@ -1110,8 +1110,8 @@ rule can be applied to the above case of the child).
 
 If (in the case of the child) a vicious ox killed it with his horns
 before it reached the ground, this is similar to the case of the
-Boraitha (post, pages [90](kam07.htm#page_90) and
-[91](kam07.htm#page_91)) in which R. Ishmael, the son of R. Johanan b.
+Boraitha (post, pages [90](kam07.htm#page_90.md) and
+[91](kam07.htm#page_91).md) in which R. Ishmael, the son of R. Johanan b.
 Broka, and the rabbis differ.
 
 The same also said: One who falls from the top of a roof by an
@@ -1128,7 +1128,7 @@ were burned he is liable (because the moment the live coal was placed on
 the clothes the latter were at once damaged).
 
 \[Said Rabha: Both these cases are explained in Mishnayoth. The first
-one in Tract [Sanhedrin](errata.htm#18), Mishna II., and the second in
+one in Tract [Sanhedrin](errata.htm#18.md), Mishna II., and the second in
 this tract, Chapter VIII., Mishna 5.\] He, however, propounded the
 following question: If one placed a live coal upon the breast of his
 neighbor's slave, is the slave considered in such case as his own body
@@ -1144,9 +1144,9 @@ it).
 
 ### Footnotes
 
-<span id="fn_10"></span>[30:1](kam05.htm#fr_10) See Gemara.
+<span id="fn_10"></span>[30:1](kam05.htm#fr_10.md) See Gemara.
 
-<span id="fn_11"></span>[30:2](kam05.htm#fr_11) We are compelled to use
+<span id="fn_11"></span>[30:2](kam05.htm#fr_11.md) We are compelled to use
 in our translation of this section for male and female animals the same
 terms used when speaking of human beings, for the following reasons:
 (*a*) The Bible translators use the same terms when speaking of animals,
@@ -1168,16 +1168,16 @@ gender in all other places, to correspond with the original.)
 very hard for the reader to comprehend the true sense of the
 discussions.
 
-<span id="fn_12"></span>[34:1](kam05.htm#fr_12) The Rabhina mentioned
+<span id="fn_12"></span>[34:1](kam05.htm#fr_12.md) The Rabhina mentioned
 here is Rabhina Zuta, a nephew of the first Rabhina, who is mentioned in
 Kethuboth 100*b*; for Rabhina, who was a disciple of Rabha and colleague
 of R. Ashi, died long before in the time of R. Sama, the son of R. Ashi.
 See Doroth Harishonim, Presburg, 1897.
 
-<span id="fn_13"></span>[39:1](kam05.htm#fr_13) According to Maimonides
+<span id="fn_13"></span>[39:1](kam05.htm#fr_13.md) According to Maimonides
 and others.
 
-<span id="fn_14"></span>[41:1](kam05.htm#fr_14) Rashi explains this that
+<span id="fn_14"></span>[41:1](kam05.htm#fr_14.md) Rashi explains this that
 the owner of the house used it for storing wood and straw, and the
 tenant lived in the same place used for such storage; and then as to
 "ruin," there is none, for it is being used; but as to repairs, the
@@ -1190,10 +1190,10 @@ according to Rabh, he need not pay, for the house is no more vacant; and
 according to R. Joseph he need pay, because he will not care to make
 repairs. We leave the choice to the reader.
 
-<span id="fn_15"></span>[54:1](kam05.htm#fr_15) The literal translation
+<span id="fn_15"></span>[54:1](kam05.htm#fr_15.md) The literal translation
 of the text reads "a wound *instead* (ta'hath) a wound."
 
-<span id="fn_16"></span>[55:1](kam05.htm#fr_16) In the last two cases
+<span id="fn_16"></span>[55:1](kam05.htm#fr_16.md) In the last two cases
 there is only a difference as regards Sabbath. In the first case, even
 if he said, "Let it fall wherever it may," there is also no liability,
 for the Scripture requires that it should be intentional work, and in
@@ -1202,4 +1202,4 @@ to his intention to do work.--Rashi.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III.](kam06)
+[Next: Chapter III.](kam06.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](cots00) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](cots00.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486430820/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486430820/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ towers, guns, and ditches.
 an iron door so wrought that it can be raised and let down, and locked
 in easily and strongly, its projections running into the grooves of the
 thick posts by a marvellous device), I saw a level space seventy
-paces <span id="fr_0"></span>[1](#fn_0) wide between the first and
+paces <span id="fr_0"></span>[1](#fn_0.md) wide between the first and
 second walls. From hence can be seen large palaces, all joined to the
 wall of the second circuit in such a manner as to appear all one palace.
 Arches run on a level with the middle height of the palaces, and are
@@ -1510,7 +1510,7 @@ much.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](cots01.htm#fr_0) A pace was 1-9/25 yard,
+<span id="fn_0"></span>[1](cots01.htm#fr_0.md) A pace was 1-9/25 yard,
 1,000 paces making a mile.
 
  

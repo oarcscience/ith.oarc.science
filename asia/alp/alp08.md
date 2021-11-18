@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp07) 
-[Next](alp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp07.md) 
+[Next](alp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ That bends her vines and roses sweet.
 
 ------------------------------------------------------------------------
 
-[Next: The Apple Tree](alp09)
+[Next: The Apple Tree](alp09.md)

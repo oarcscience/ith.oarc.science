@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg61)  [Next](cdg63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg61)  [Next](cdg63.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ præ timore tremebit.
 Post hac ex Colaterio nemore procedet ardea, quæ insulam per biennium
 circumvolabit. Nocturno clamore convocabit volatilia & omne genus
 volucrum associabit sibi. In culturas mortalium irruent, & omnia grana
-messium devocabunt (devocabunt) <span id="fr_218"></span>[\*](#fn_218)
+messium devocabunt (devocabunt) <span id="fr_218"></span>[\*](#fn_218.md)
 Sequetur fames populum, atque dira mortalitas famen.
 
 <span id="page_302">p. 302</span>
@@ -58,7 +58,7 @@ non minimum congregabunt.
 The sparks of destruction shall be changed into swans which shall sail
 upon dry ground as upon a river. They shall devour fishes among the
 fishes and shall swallow up men among men. Indeed when the age grows
-old <span id="fr_219"></span>[§](#fn_219) submarine lights shall be
+old <span id="fr_219"></span>[§](#fn_219.md) submarine lights shall be
 skilfully contrived
 
 <span id="page_303">p. 303</span>
@@ -70,15 +70,15 @@ arsenals and collect not a little money.
 
 ### Footnotes
 
-<span id="fn_218"></span>[301:\*](cdg62.htm#fr_218) *Usual reading*.
+<span id="fn_218"></span>[301:\*](cdg62.htm#fr_218.md) *Usual reading*.
 
-<span id="fn_219"></span>[302:§](cdg62.htm#fr_219) <span
+<span id="fn_219"></span>[302:§](cdg62.htm#fr_219.md) <span
 id="page_303">p. 303</span> *Superveniente vero Senectute*. These words
 are usually taken to mean "But when old age comes upon them." Senectus,
 however, has the meaning when used metonymically of "the old skin,
-slough of serpents." <span id="fr_220"></span>[†](#fn_221)And since the
+slough of serpents." <span id="fr_220"></span>[†](#fn_221.md)And since the
 inventions described have been made in the present period when the Sun
-behind the Sun <span id="fr_221"></span>[\*](#fn_220) is coming into
+behind the Sun <span id="fr_221"></span>[\*](#fn_220.md) is coming into
 conjunction with the Sun of our Solar system and regenerating its Force,
 Senectute appears to be an allusion to the skin of the World
 Serpent--Solar Force--which presses upon it (*Superveniente*) as the age
@@ -87,13 +87,13 @@ this planet which the closer approach of the Parent Sun ever initiates.
 <span class="small">LATIN TEXTS TAKEN FROM MERLIN AMBROSII BRITTANI,
 ETC. FRANCOFURTI TYPIS JOACHIMI BRATHERINGIJ, MDCIII.</span>
 
-<span id="fn_220"></span>[302:\*](cdg62.htm#fr_221) *Sun behind the Sun,
-pages* [88](cdg07.htm#page_88), [42](cdg05.htm#page_42),
-[142](cdg08.htm#page_142).
+<span id="fn_220"></span>[302:\*](cdg62.htm#fr_221.md) *Sun behind the Sun,
+pages* [88](cdg07.htm#page_88), [42](cdg05.htm#page_42.md),
+[142](cdg08.htm#page_142.md).
 
-<span id="fn_221"></span>[302:†](cdg62.htm#fr_220) *Smith, Latin-English
+<span id="fn_221"></span>[302:†](cdg62.htm#fr_220.md) *Smith, Latin-English
 Dictionary, page* 1014.
 
 ------------------------------------------------------------------------
 
-[Next: AAA. Cherubim](cdg63)
+[Next: AAA. Cherubim](cdg63.md)

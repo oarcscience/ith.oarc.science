@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](iwwk02)  [Next](iwwk04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](iwwk02)  [Next](iwwk04.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ with it.
 
 ------------------------------------------------------------------------
 
-[Next: On the Road](iwwk04)
+[Next: On the Road](iwwk04.md)

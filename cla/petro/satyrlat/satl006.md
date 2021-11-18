@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#VI)  [Previous](satl005) 
-[Next](satl007) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#VI)  [Previous](satl005.md) 
+[Next](satl007.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ holus vendebat et:
 
 ------------------------------------------------------------------------
 
-[Next: VII](satl007)
+[Next: VII](satl007.md)

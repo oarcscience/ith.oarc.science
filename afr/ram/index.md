@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ram00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ramtxt.zip)
+[Contents](#contents)    [Start Reading](ram00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ramtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -54,21 +54,21 @@ African spirituality.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ram00)  
-[Preface](ram01)  
-[Contents](ram02)  
-[Chapter I. Primitive Man and the Supernatural](ram03)  
-[Chapter II. Guarding Divinity](ram04)  
-[Chapter III. Evolution of Deity](ram05)  
-[Chapter IV. Sacrifice](ram06)  
-[Chapter V. Taboos](ram07)  
-[Chapter VI. Expulsion of Demons](ram08)  
-[Chapter VII. Witchcraft](ram09)  
-[Chapter VIII. Harvest Festivals](ram10)  
-[Chapter IX. Prophecy](ram11)  
-[Chapter X. Social Usages](ram12)  
-[Chapter XI. Acts of Devotion—Myths](ram13)  
-[Chapter XII. Woman](ram14)  
-[Chapter XIII. Courtesies of Life—Dress](ram15)  
-[Chapter XIV. Reforms](ram16)  
-[Index](ram17)  
+<span id="contents"></span> [Title Page](ram00.md)  
+[Preface](ram01.md)  
+[Contents](ram02.md)  
+[Chapter I. Primitive Man and the Supernatural](ram03.md)  
+[Chapter II. Guarding Divinity](ram04.md)  
+[Chapter III. Evolution of Deity](ram05.md)  
+[Chapter IV. Sacrifice](ram06.md)  
+[Chapter V. Taboos](ram07.md)  
+[Chapter VI. Expulsion of Demons](ram08.md)  
+[Chapter VII. Witchcraft](ram09.md)  
+[Chapter VIII. Harvest Festivals](ram10.md)  
+[Chapter IX. Prophecy](ram11.md)  
+[Chapter X. Social Usages](ram12.md)  
+[Chapter XI. Acts of Devotion—Myths](ram13.md)  
+[Chapter XII. Woman](ram14.md)  
+[Chapter XIII. Courtesies of Life—Dress](ram15.md)  
+[Chapter XIV. Reforms](ram16.md)  
+[Index](ram17.md)  

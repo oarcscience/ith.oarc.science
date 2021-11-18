@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](jo2)  [Next](jde) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](jo2)  [Next](jde.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ salute thee. Salute the friends by name.
 
 ------------------------------------------------------------------------
 
-[Next: Jude](jde)
+[Next: Jude](jde.md)

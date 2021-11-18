@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Next](efft01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Next](efft01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,9 +28,9 @@ Sagas](../../index)  [English Folklore](../index)  [Index](index) 
 ###### Scanned and redacted by Phillip Brown. Additional proofing and formatting \[April 2003\] at Intangible Textual Heritage by J. B. Hare. This text is in the public domain. These files may be used for any non-commercial purpose, provided this notice of attribution is left intact.
 
 <span id="img_hartland"></span> [![](tn/hartland.jpg)  
-Click to enlarge](img/hartland.jpg)  
+Click to enlarge](img/hartland.jpg.md)  
 Edwin Sidney Hartland
 
 ------------------------------------------------------------------------
 
-[Next: Jack the Giant Killer](efft01)
+[Next: Jack the Giant Killer](efft01.md)

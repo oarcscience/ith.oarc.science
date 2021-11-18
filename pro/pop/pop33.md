@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop32)  [Next](pop34) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop32)  [Next](pop34.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ wrath.'
 
 ------------------------------------------------------------------------
 
-[Next: The Twenty-Ninth Figure](pop34)
+[Next: The Twenty-Ninth Figure](pop34.md)

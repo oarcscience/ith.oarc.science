@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut10)  [Next](hut12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut10)  [Next](hut12.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # VIII.
 
-### Datcwindiñ Xonaïswe. <span id="fr_35"></span>[1](#fn_35)--Gooseberry-place Brush Dance.
+### Datcwindiñ Xonaïswe. <span id="fr_35"></span>[1](#fn_35.md)--Gooseberry-place Brush Dance.
 
 <span id="page_182">p. 182</span>
 
@@ -77,10 +77,10 @@ occasionally. When they became men they ceased coming back.
 
 ### Footnotes
 
-<span id="fn_35"></span>[179:1](hut11.htm#fr_35) Told at Hupa, July
+<span id="fn_35"></span>[179:1](hut11.htm#fr_35.md) Told at Hupa, July
 1902, by Mary Marshall.
 
 ------------------------------------------------------------------------
 
 [Next: IX. Mīmedakût Kyūwintsit.--At Mīmedakût She Pounded
-Acorns](hut12)
+Acorns](hut12.md)

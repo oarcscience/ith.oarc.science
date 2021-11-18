@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq62)  [Next](sfq64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq62)  [Next](sfq64.md) 
 
 ------------------------------------------------------------------------
 
@@ -192,4 +192,4 @@ till it came into the hands of its rightful owner, Florimell.
 
 ------------------------------------------------------------------------
 
-[Next: How the Good Horse Brigadore knew his own Master](sfq64)
+[Next: How the Good Horse Brigadore knew his own Master](sfq64.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had03)  [Next](had05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had03)  [Next](had05.md) 
 
 ------------------------------------------------------------------------
 
@@ -441,4 +441,4 @@ and when that state was over, he raised his head.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Īmān (Faith) And Islām (Submission)](had05)
+[Next: Chapter II: Īmān (Faith) And Islām (Submission)](had05.md)

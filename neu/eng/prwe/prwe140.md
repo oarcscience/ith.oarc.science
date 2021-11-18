@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe139)  [Next](prwe141) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe139)  [Next](prwe141.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ true meaning of this couplet.
 
 ------------------------------------------------------------------------
 
-[Next: St Nectan's Kieve and the Lonely Sisters](prwe141)
+[Next: St Nectan's Kieve and the Lonely Sisters](prwe141.md)

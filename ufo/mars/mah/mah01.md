@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah00)  [Next](mah02) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah00)  [Next](mah02.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ to the reservoir in the center of drawing, just north of the equator.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mah02)
+[Next: Contents](mah02.md)

@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Sappho](../index)  [Index](index)  [Previous](sap12)  [Next](sap14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Sappho](../index)  [Index](index)  [Previous](sap12)  [Next](sap14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419146114/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419146114/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sappho and Phaon*, by Mary Robinson, \[1796\], at Intangible Textual
 Heritage
 
@@ -35,4 +35,4 @@ Till life’s last hour, with Phaon’s self decays!
 
 ------------------------------------------------------------------------
 
-[Next: XI. Rejects the Influence of Reason.](sap14)
+[Next: XI. Rejects the Influence of Reason.](sap14.md)

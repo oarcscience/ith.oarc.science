@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb27)  [Next](spb29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb27)  [Next](spb29.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -25,15 +25,15 @@ sanctified us by thy commandments, and hast commanded us to. kindle
 \[*on Friday add:* the Sabbath and\] the Festival light.
 
 *On the Eve of Festivals, Afternoon Service is said as on Weekdays, see
-pp. [109](spb11.htm#page_109)–[128](spb12.htm#page_128), but omitting
-"And David said," [p. 123](spb12.htm#page_123), "O Guardian of Israel,"
-[p. 124](spb12.htm#page_124), "It is our duty" and "Kaddish," pp.
-[126](spb12.htm#page_126)–[127](spb12.htm#page_127)*.
+pp. [109](spb11.htm#page_109)–[128](spb12.htm#page_128.md), but omitting
+"And David said," [p. 123](spb12.htm#page_123.md), "O Guardian of Israel,"
+[p. 124](spb12.htm#page_124.md), "It is our duty" and "Kaddish," pp.
+[126](spb12.htm#page_126)–[127](spb12.htm#page_127.md)*.
 
 *For Evening Service, see pp.
-[159](spb15.htm#page_159)–[166](spb15.htm#page_166). Should the evening
+[159](spb15.htm#page_159)–[166](spb15.htm#page_166.md). Should the evening
 of the Festival fall on Friday, the Evening Service commences with "A
-Psalm, a Song for the Sabbath Day," [p. 156](spb14.htm#page_156)*.
+Psalm, a Song for the Sabbath Day," [p. 156](spb14.htm#page_156.md)*.
 
 *The following Amidah is said at the Evening, Morning and Afternoon
 Services of Passover, Pentecost, Tabernacles, and the Eighth Day of
@@ -73,7 +73,7 @@ Thou art holy, and thy name is holy, and holy beings praise thee daily.
 (Selah.) Blessed art thou, O Lord, the holy God.
 
 *When the Reader repeats the Amidah, the following is said, to "holy
-God," [p. 327](#page_327)*.
+God," [p. 327](#page_327.md)*.
 
 \* *Reader*.—We will sanctify thy name in the world even as they
 sanctify, it in the highest heavens, as it is written by the hand of thy
@@ -192,7 +192,7 @@ O Lord our God, bestow upon us the blessing of thy appointed times for
 life and peace, for joy and gladness, even as thou hast been pleased to
 promise that thou wouldst bless us. \[Our God and God of our fathers,
 accept our rest.\] Sanctify us by thy command with thy goodness, and
-gladden us with thy salvation; [commandments](errata.htm#7), and grant
+gladden us with thy salvation; [commandments](errata.htm#7.md), and grant
 our portion in thy Law; satisfy us purify our hearts to serve thee in
 truth; and let us inherit,
 
@@ -306,6 +306,6 @@ pleasant unto the Lord, as in the days of old, and as in ancient years.
 
 ------------------------------------------------------------------------
 
-[Next: Kiddush for Festivals](spb29)
+[Next: Kiddush for Festivals](spb29.md)
 
 </div>

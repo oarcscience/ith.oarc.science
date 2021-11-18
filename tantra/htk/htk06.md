@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk05)  [Next](htk07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk05)  [Next](htk07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -27,18 +27,18 @@ at Intangible Textual Heritage
 
 ### VERSE 2
 
-O MAHEŚI, <span id="fr_16"></span>[1](#fn_16) even should one of poor
-mind <span id="fr_17"></span>[2](#fn_17) at any time recite but once
+O MAHEŚI, <span id="fr_16"></span>[1](#fn_16.md) even should one of poor
+mind <span id="fr_17"></span>[2](#fn_17.md) at any time recite but once
 another doubled *Bīja* of Thine, composed of *Īśāna*, <span
-id="fr_18"></span>[3](#fn_18) and *Vāmaśravaṇa*, <span
-id="fr_19"></span>[4](#fn_19) and *Bindu;* <span
-id="fr_20"></span>[5](#fn_20) then, O Thou who hast great and formidable
-ear-rings of arrow form, <span id="fr_21"></span>[6](#fn_21) who bearest
+id="fr_18"></span>[3](#fn_18.md) and *Vāmaśravaṇa*, <span
+id="fr_19"></span>[4](#fn_19.md) and *Bindu;* <span
+id="fr_20"></span>[5](#fn_20.md) then, O Thou who hast great and formidable
+ear-rings of arrow form, <span id="fr_21"></span>[6](#fn_21.md) who bearest
 on Thy head the crescent moon, such an one becomes all powerful, <span
-id="fr_22"></span>[7](#fn_22) having conquered even the Lord of
-Speech <span id="fr_23"></span>[8](#fn_23) and the Wealth-Giver, <span
-id="fr_24"></span>[9](#fn_24) and charmed countless youthful women with
-lotus-like eyes. <span id="fr_25"></span>[10](#fn_25)
+id="fr_22"></span>[7](#fn_22.md) having conquered even the Lord of
+Speech <span id="fr_23"></span>[8](#fn_23.md) and the Wealth-Giver, <span
+id="fr_24"></span>[9](#fn_24.md) and charmed countless youthful women with
+lotus-like eyes. <span id="fr_25"></span>[10](#fn_25.md)
 
 COMMENTARY
 
@@ -108,47 +108,47 @@ frightful arrows (Bāna).
 
 ### Footnotes
 
-<span id="fn_16"></span>[47:1](htk06.htm#fr_16) <span id="page_48">p.
+<span id="fn_16"></span>[47:1](htk06.htm#fr_16.md) <span id="page_48">p.
 48</span> *Śakti* or *Maheśa* the Lord of even Brahmā, Viṣṇu and Rudra
 (V). The Devī as Īśvarī, (Ruler), of the Universe and Spouse of Nirguṇa
 Maheśvara. Īśvara, according to the Liṅga-Purāṇa, when associated with
 *Tamas*, is Rudra the Destroyer; with *Rajas*, the One born from the
 golden egg, Brahmā; and with *Sattva*, Viṣṇu.
 
-<span id="fn_17"></span>[47:2](htk06.htm#fr_17) <span id="page_49">p.
+<span id="fn_17"></span>[47:2](htk06.htm#fr_17.md) <span id="page_49">p.
 49</span> *Mandacetāh* who is not capable of devotion to thy lotus feet
 according to Commentator K.B.; for, as the Brahmāṇda-Purāṇa says, all
 sin is expiated by remembrance of the feet of the Supreme Śakti.
 
-<span id="fn_18"></span>[47:3](htk06.htm#fr_18) That is, *Ha*.
+<span id="fn_18"></span>[47:3](htk06.htm#fr_18.md) That is, *Ha*.
 
-<span id="fn_19"></span>[47:4](htk06.htm#fr_19) The 'left ear,' or long
+<span id="fn_19"></span>[47:4](htk06.htm#fr_19.md) The 'left ear,' or long
 vowel *ū*.
 
-<span id="fn_20"></span>[47:5](htk06.htm#fr_20) *Nāda-bindu*—that is, *H
+<span id="fn_20"></span>[47:5](htk06.htm#fr_20.md) *Nāda-bindu*—that is, *H
 + ū + ṁ = Hūṁ Hūṁ*. He who makes Japa of *Hūṁ* is more praiseworthy than
 Deva or Asura (Viśvasāra-Tantra) (K.B.)
 
-<span id="fn_21"></span>[47:6](htk06.htm#fr_21) Worn by Kālī: reading
+<span id="fn_21"></span>[47:6](htk06.htm#fr_21.md) Worn by Kālī: reading
 Bāna instead of Bāla as to which see *post*.
 
-<span id="fn_22"></span>[47:7](htk06.htm#fr_22) Viśvasāra (K.B.).
+<span id="fn_22"></span>[47:7](htk06.htm#fr_22) Viśvasāra (K.B..md).
 
-<span id="fn_23"></span>[47:8](htk06.htm#fr_23) *Bṛhaspati*, *Guru* of
+<span id="fn_23"></span>[47:8](htk06.htm#fr_23.md) *Bṛhaspati*, *Guru* of
 the *Devas*.
 
-<span id="fn_24"></span>[47:9](htk06.htm#fr_24) *Dhanada*, i.e.
+<span id="fn_24"></span>[47:9](htk06.htm#fr_24.md) *Dhanada*, i.e.
 *Kubera*, Lord of Wealth, King of the Yakṣas; according to one account
 the son, and, according to another, the grandson of Pulastya (see Muir,
 OṢ., T. iv, 481, 488; v, 483; i, 492).
 
-<span id="fn_25"></span>[47:10](htk06.htm#fr_25) That is, to them are
+<span id="fn_25"></span>[47:10](htk06.htm#fr_25.md) That is, to them are
 given eloquence and learning, riches and beauty.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Verse 3](htk07)
+[Next: Verse 3](htk07.md)
 
 </div>

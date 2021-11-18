@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim20)  [Next](sim22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim20)  [Next](sim22.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ good friends.
 
 ------------------------------------------------------------------------
 
-[Next: Man-Eater and his Brother Whirlwind](sim22)
+[Next: Man-Eater and his Brother Whirlwind](sim22.md)

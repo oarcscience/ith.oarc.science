@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-06tx) [Next](dob-08in)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-06tx) [Next](dob-08in.md)
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 ### \[IS THE SOUL DISTINCT FROM THE BODY?\]
 
    \[*This Sutta having been incorporated, word for word, as* [§§
-15-19](dob-06tx.htm#p.%20202), *inclusive, in the last Sutta, the reader
+15-19](dob-06tx.htm#p.%20202.md), *inclusive, in the last Sutta, the reader
 is referred to the translation given there.*
 
    The Mahâli Sutta must have already included, when the Dîgha was put
@@ -33,5 +33,5 @@ Mil. 350.)\]
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Introduction to the Kassapa-Sîhanâda
-Sutta](dob-08in)
+[Return to top](#top.md)   [Next: Introduction to the Kassapa-Sîhanâda
+Sutta](dob-08in.md)

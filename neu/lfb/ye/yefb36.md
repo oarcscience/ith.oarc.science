@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb35)  [Next](yefb37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb35)  [Next](yefb37.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_216">p. 216</span>
 
-THE WITCH <span id="fr_27"></span>[1](#fn_27)
+THE WITCH <span id="fr_27"></span>[1](#fn_27.md)
 
 Once upon a time there was a peasant whose wife died, leaving him with
 two children—twins—a boy and a girl.  For some years the poor man lived
@@ -226,12 +226,12 @@ care of them himself, and never let a stranger come near them.
 
 ### Footnotes
 
-<span id="fn_27"></span>[216:1](yefb36.htm#fr_27) From the Russian.
+<span id="fn_27"></span>[216:1](yefb36.htm#fr_27.md) From the Russian.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Hazel-Nut Child](yefb37)
+[Next: The Hazel-Nut Child](yefb37.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft05)  [Next](pft07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft05)  [Next](pft07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ oranges of Gawigawen of Adasen."
 
 Now Aponibolinayen did not realize that she had spoken aloud, but
 Aponitolau, her husband, lying in the spirit house  <span
-id="fr_29"></span>[30](pft68.htm#fn_29) outside, heard her talking and
+id="fr_29"></span>[30](pft68.htm#fn_29.md) outside, heard her talking and
 asked what it was she said. Fearing to tell him the truth lest he should
 risk his life in trying to get the oranges for her, she said: "I wish I
 had some biw" (a fruit).
@@ -58,7 +58,7 @@ Then Aponitolau took his net and went to the river, determined to please
 his wife if possible. When he had caught a nice fish he opened it with
 his knife and took out the eggs. Then he spat on the place he had cut,
 and it was healed and the fish swam away.  <span
-id="fr_30"></span>[31](pft68.htm#fn_30)
+id="fr_30"></span>[31](pft68.htm#fn_30.md)
 
 Pleased that he was able to gratify his wife's wishes, he hastened home
 with the eggs; and while his wife was roasting them over the fire, he
@@ -85,7 +85,7 @@ wound, and it was healed so that the deer ran away.
 But Aponibolinayen could not eat the liver any more than she could the
 fruit or the fish eggs; and when Aponitolau heard the dogs barking, he
 knew that she had thrown it away. Then he grew suspicious and, changing
-himself into a centipede,  <span id="fr_31"></span>[32](pft68.htm#fn_31)
+himself into a centipede,  <span id="fr_31"></span>[32](pft68.htm#fn_31.md)
 hid in a crack in the floor. And when his wife again wished for some of
 the oranges, he overheard her.
 
@@ -97,14 +97,14 @@ back, and I did not want you to risk your life."
 Nevertheless Aponitolau determined to go for the oranges, and he
 commanded his wife to bring him rice straw. After he had burned it he
 put the ashes in the water with which he washed his hair.  <span
-id="fr_32"></span>[33](pft68.htm#fn_32) Then she brought cocoanut oil
+id="fr_32"></span>[33](pft68.htm#fn_32.md) Then she brought cocoanut oil
 and rubbed his hair, and fetched a dark clout, a fancy belt, and a
 head-band, and she baked cakes for him to take on the journey.
-Aponitolau cut a vine  <span id="fr_33"></span>[34](pft68.htm#fn_33)
+Aponitolau cut a vine  <span id="fr_33"></span>[34](pft68.htm#fn_33.md)
 which he planted by the stove,  <span
-id="fr_34"></span>[35](pft68.htm#fn_34) and told his wife that if the
+id="fr_34"></span>[35](pft68.htm#fn_34.md) and told his wife that if the
 leaves wilted she would know that he was dead. Then he took his spear
-and head-ax  <span id="fr_35"></span>[36](pft68.htm#fn_35) and started
+and head-ax  <span id="fr_35"></span>[36](pft68.htm#fn_35.md) and started
 on the long journey.
 
 When Aponitolau arrived at the well of a giantess, all the betel-nut
@@ -138,7 +138,7 @@ never come back."
 Still Aponitolau did not heed.
 
 Soon he arrived at the place of Silit (loud thunder),  <span
-id="fr_36"></span>[37](pft68.htm#fn_36) who also asked him:
+id="fr_36"></span>[37](pft68.htm#fn_36.md) who also asked him:
 
 "Where are you going, Aponitolau?"
 
@@ -170,7 +170,7 @@ the spiders came up and asked why he was so sorrowful.
 "I am sad," answered Aponitolau, "because I cannot climb up this bank."
 
 Then the spider went to the top and spun a thread,  <span
-id="fr_37"></span>[38](pft68.htm#fn_37) and upon this Aponitolau climbed
+id="fr_37"></span>[38](pft68.htm#fn_37.md) and upon this Aponitolau climbed
 up into town.
 
 Now Gawigawen was asleep in his spirit house, and when he awoke and saw
@@ -181,7 +181,7 @@ get his spear and head-ax, but Aponitolau called to him, saying:
 some of your oranges for my wife."
 
 Then Gawigawen took him to the house and brought a whole carabao  <span
-id="fr_38"></span>[39](pft68.htm#fn_38) for him to eat, and he said:
+id="fr_38"></span>[39](pft68.htm#fn_38.md) for him to eat, and he said:
 
 "If you cannot eat all the carabao, you cannot have the oranges for your
 wife."
@@ -281,7 +281,7 @@ When Kanag reached the high bank outside the town, he jumped like a
 flitting bird up the bank into the town and went straight to the spirit
 house of Gawigawen. He noticed that the roofs of both the dwelling and
 the spirit houses were of hair, and that around the town were many
-heads,  <span id="fr_39"></span>[40](pft68.htm#fn_39) and he pondered:
+heads,  <span id="fr_39"></span>[40](pft68.htm#fn_39.md) and he pondered:
 
 "This is why my father did not return. Gawigawen is a brave man, but I
 will kill him."
@@ -315,7 +315,7 @@ with surprise.
 
 Then it was Kanag's turn and his spear went directly through the body of
 the giant. He ran quickly and cut off five of the heads,  <span
-id="fr_40"></span>[41](pft68.htm#fn_40) but the sixth he spared until
+id="fr_40"></span>[41](pft68.htm#fn_40.md) but the sixth he spared until
 Gawigawen should have shown him his father.
 
 As they went about the town together, Kanag found that the skin of his
@@ -347,4 +347,4 @@ great feast, and all were so happy that the whole world smiled.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Gaygayoma who Lives up Above](pft07)
+[Next: The Story of Gaygayoma who Lives up Above](pft07.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](doth01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](doth01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -50,13 +50,13 @@ because it was published prior to 1923.
 
 <span id="img_fcover"></span> <span align="CENTER"> [![Front Cover and
 Spine](tn/fcover.jpg)  
-Click to enlarge](img/fcover.jpg)  
+Click to enlarge](img/fcover.jpg.md)  
 Front Cover and Spine  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -64,6 +64,6 @@ Title Page
 
 ------------------------------------------------------------------------
 
-[Next: Editorial Note](doth01)
+[Next: Editorial Note](doth01.md)
 
 </div>

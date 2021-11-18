@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe257)  [Next](prwe259) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe257)  [Next](prwe259.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ informing me that he had charmed it in the manner related.
 
 ------------------------------------------------------------------------
 
-[Next: The Ash-Tree](prwe259)
+[Next: The Ash-Tree](prwe259.md)

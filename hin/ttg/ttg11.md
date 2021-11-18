@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg10)  [Next](ttg12) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg10)  [Next](ttg12.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ hastened to catch him again.
 ------------------------------------------------------------------------
 
 [Next: Eleventh Goblin: The King who won a Fairy as his Wife. Why did
-his counsellor's heart break?](ttg12)
+his counsellor's heart break?](ttg12.md)

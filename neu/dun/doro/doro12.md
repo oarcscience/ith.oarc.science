@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](doro11)  [Next](doro13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](doro11)  [Next](doro13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SU1O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3SU1O/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Don Rodriguez*, by Lord Dunsany, \[1922\], at Intangible Textual
 Heritage
 
@@ -548,6 +548,6 @@ fancies of youth!
 ------------------------------------------------------------------------
 
 [Next: The Eleventh Chronicle: How he Turned to Gardening and his Sword
-Rested](doro13)
+Rested](doro13.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork07)  [Next](gork09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork07)  [Next](gork09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -19,12 +19,12 @@ Intangible Textual Heritage
 
 ### CHAPTER V
 
-### DAY ON THE RIVER WITH KESHAB CHUNDER SEN <span id="fr_35"></span>[\*](#fn_35)
+### DAY ON THE RIVER WITH KESHAB CHUNDER SEN <span id="fr_35"></span>[\*](#fn_35.md)
 
 i
 
 <span class="smallcaps">It</span> was the day of the festival of
-Lakshmi. <span id="fr_36"></span>[†](#fn_36) Srî Râmakrishna was seated
+Lakshmi. <span id="fr_36"></span>[†](#fn_36.md) Srî Râmakrishna was seated
 in His room talking with Bijoy and Haralal, when a gentleman entered and
 announced that Keshab Sen had
 
@@ -42,7 +42,7 @@ was taken by Keshab's disciples to the steamer.
 which carried the Bhagavân came alongside, everybody was eager to have a
 glimpse of the Blessed One and crowded to the gangway. Keshab was
 anxious to see that He got on board in safety. Mahendra, <span
-id="fr_37"></span>[\*](#fn_37) who had been there for some time, looked
+id="fr_37"></span>[\*](#fn_37.md) who had been there for some time, looked
 at Him and noticed that He was in Samâdhi and as motionless as a statue.
 It was with great difficulty that He was brought back to
 sense-consciousness once more in order to be taken into the cabin on the
@@ -74,7 +74,7 @@ A Brâhmo said to the Bhagavân: Sir, these
 
 <span class="margnote">Powhâri Bâbâ of Gâzipur.</span>gentlemen have
 been fortunate enough to see  Powhâri Bâbâ <span
-id="fr_38"></span>[\*](#fn_38) at Gâzipur. The bâbâ is another holy man
+id="fr_38"></span>[\*](#fn_38.md) at Gâzipur. The bâbâ is another holy man
 like Thy revered self.
 
 Srî Râmakrishna had not yet recovered the power of speech. His heart was
@@ -537,7 +537,7 @@ the Real from the unreal) and true dispassion. God is the only Reality,
 the phenomenal universe is unreal.
 
 Along with this another thing is needed, that is intense devotion to
-God. The Gopis <span id="fr_39"></span>[\*](#fn_39) of
+God. The Gopis <span id="fr_39"></span>[\*](#fn_39.md) of
 
 <span id="page_164">p. 164</span>
 
@@ -601,7 +601,7 @@ and Kutilla stand in the way of His mission of love? I suppose His sport
 as a Divine Lover would have died a natural death from want of
 nourishment but for these obstructions, the *Jatillas* and *Kutillas*.
 Opposition adds zest to a thing. Râmânuja <span
-id="fr_40"></span>[\*](#fn_40) held the doctrine of Vishishtâdvaita
+id="fr_40"></span>[\*](#fn_40.md) held the doctrine of Vishishtâdvaita
 (qualified non-dualism). His Guru (spiritual guide), however,
 
 <span id="page_167">p. 167</span>
@@ -635,8 +635,8 @@ It is a difficult task to teach others. One
 <span class="margnote">Who is a true spiritual teacher?</span>can become
 a true spiritual teacher only when one has realized God and received a
 Divine commission from Him. So commissioned were Nârada, <span
-id="fr_41"></span>[\*](#fn_41) Sukadeva and Sankarâchârya: <span
-id="fr_42"></span>[†](#fn_42) If you are not commissioned, who will
+id="fr_41"></span>[\*](#fn_41.md) Sukadeva and Sankarâchârya: <span
+id="fr_42"></span>[†](#fn_42.md) If you are not commissioned, who will
 listen to you? You know Calcutta and her fondness for the latest
 sensation. Milk puffs up so long as it is over burning wood; but when
 the wood is withdrawn, the puffing ceases instantly. The people of
@@ -708,7 +708,7 @@ Sometimes I think that I do my duties unattached to the world, but I
 know not how I deceive myself and do them through attachment instead. I
 give alms to the poor, and behold, I seek for fame, Oh I know not how!"
 
-Shambhu (Mullik) <span id="fr_43"></span>[\*](#fn_43) talked of founding
+Shambhu (Mullik) <span id="fr_43"></span>[\*](#fn_43.md) talked of founding
 hospitals and dispensaries, schools and colleges, of God-vision and
 building roads, sinking wells and philanthropic digging tanks for the
 good of all. I works. said to him: "Yes, whatever comes in your way and
@@ -835,7 +835,7 @@ moonlight, the lighted streets!
 <span id="page_177">p. 177</span>
 
 Nandalâl got out at Colutolâ. The cab came to a stop before the door of
-Suresh Mitra's <span id="fr_44"></span>[\*](#fn_44) house. Suresh was
+Suresh Mitra's <span id="fr_44"></span>[\*](#fn_44.md) house. Suresh was
 very much attached to the Bhagavân, but he was not at home. He had gone
 to visit a newly-purchased garden at Kânkurgâchi. His people opened a
 room on the ground floor and invited the party to be seated there. The
@@ -877,7 +877,7 @@ Mahendra bowed low to the Master and started for their homes.
 
 ### Footnotes
 
-<span id="fn_35"></span>[142:\*](gork08.htm#fr_35) Keshab Chunder Sen
+<span id="fn_35"></span>[142:\*](gork08.htm#fr_35.md) Keshab Chunder Sen
 was the third great Brâhmo Samâj leader after Râjâ Râmmohun Roy. He was
 born in 1838 and died in 1884 A.D.
 
@@ -890,20 +890,20 @@ preacher anti orator. He accepted a great many of the teachings of
 Râmakrishna and regarded Him as one who had constant communion with
 Brahman.
 
-<span id="fn_36"></span>[142:†](gork08.htm#fr_36) Lakshmi, the goddess
+<span id="fn_36"></span>[142:†](gork08.htm#fr_36.md) Lakshmi, the goddess
 of fortune and prosperity.
 
-<span id="fn_37"></span>[143:\*](gork08.htm#fr_37) See note page
-[33](gork04.htm#page_33).
+<span id="fn_37"></span>[143:\*](gork08.htm#fr_37.md) See note page
+[33](gork04.htm#page_33.md).
 
-<span id="fn_38"></span>[145:\*](gork08.htm#fr_38) Powhâri Bâbâ was a
+<span id="fn_38"></span>[145:\*](gork08.htm#fr_38.md) Powhâri Bâbâ was a
 great Vaishnava Saint who lived for many years in an underground cave
 near Gâzipur. The name "Powhâri," which literally means "one who lives
 on air," was given to him because he could live for months without
 eating or drinking anything. He was regarded by all as the greatest
 Vaishnava Saint of the age.
 
-<span id="fn_39"></span>[163:\*](gork08.htm#fr_39) The milkmaids of
+<span id="fn_39"></span>[163:\*](gork08.htm#fr_39.md) The milkmaids of
 Vrindâvan who loved the Lord Srî <span id="page_164">p. 164</span>
 Krishna, then living among them as a shepherd-boy. When eleven years old
 He left Vrindâvan. Srî Krishna is looked upon as an Incarnation of God.
@@ -912,19 +912,19 @@ Love. Vrindâvan is the sacred forest near Mathurâ in India where the
 shepherd Krishna played his boyish sports with boys and girls and
 performed many miracles.
 
-<span id="fn_40"></span>[166:\*](gork08.htm#fr_40) See note page
-[370](gork15.htm#page_370).
+<span id="fn_40"></span>[166:\*](gork08.htm#fr_40.md) See note page
+[370](gork15.htm#page_370.md).
 
-<span id="fn_41"></span>[168:\*](gork08.htm#fr_41) Nârada. In the Hindu
+<span id="fn_41"></span>[168:\*](gork08.htm#fr_41.md) Nârada. In the Hindu
 Scriptures Nârada is described as the Ideal lover of God. He communed
 with the Lord under all conditions. The Lord Vishnu selected him as His
 most beloved messenger.
 
-<span id="fn_42"></span>[168:†](gork08.htm#fr_42) Sankarâchârya was the
+<span id="fn_42"></span>[168:†](gork08.htm#fr_42.md) Sankarâchârya was the
 commentator of the "Vedânta Sutras" and the greatest exponent of the
 Advaita (monistic) Vedânta. He lived in India in the eighth century A.D.
 
-<span id="fn_43"></span>[171:\*](gork08.htm#fr_43) Bâbu Shambhu Charan
+<span id="fn_43"></span>[171:\*](gork08.htm#fr_43.md) Bâbu Shambhu Charan
 Mullik was a Hindu multimillionaire of Calcutta. He had a large
 garden-house near the Temple of Dakshineswara where many a time he
 entertained Bhagavân Râmakrishna. It was in this garden-house
@@ -933,10 +933,10 @@ remained with Him for three days and three nights. Râmakrishna said to
 His disciples that during that time He was not conscious of His being a
 Hindu and that He could not enter into the Temple compound.
 
-<span id="fn_44"></span>[177:\*](gork08.htm#fr_44) Bâbu Suresh Chunder
+<span id="fn_44"></span>[177:\*](gork08.htm#fr_44.md) Bâbu Suresh Chunder
 Mitra was a devoted householder disciple of Râmakrishna. The Bhagavân
 used to call him Surendra. See Chapter VIII.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Sunday at the Temple](gork09)
+[Next: Chapter VI. Sunday at the Temple](gork09.md)

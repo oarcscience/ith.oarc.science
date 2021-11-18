@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl10)  [Next](mhl12) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl10)  [Next](mhl12.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ book "Cusari," which is given a later place in our volume.
 
 ------------------------------------------------------------------------
 
-[Next: Poems of Ibn Gebirol](mhl12)
+[Next: Poems of Ibn Gebirol](mhl12.md)

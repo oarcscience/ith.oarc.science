@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod19)  [Next](ebod21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod19)  [Next](ebod21.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ joy in Tenu."\[2\]
 
 ------------------------------------------------------------------------
 
-[Next: Plate XIV.](ebod21)
+[Next: Plate XIV.](ebod21.md)

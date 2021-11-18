@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw401)  [Next](ataw403) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw401)  [Next](ataw403.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -478,7 +478,7 @@ posterity, and which, being far beyond or below sunset, were the
  
 
 <span id="img_29500"></span> <span align="CENTER"> [![](tn/29500.jpg)  
-Click to enlarge](img/29500.jpg)</span>  
+Click to enlarge](img/29500.jpg.md)</span>  
 THE EMPIRE OF ATLANTIS.
 
  
@@ -906,4 +906,4 @@ covered large parts of Europe, Asia, Africa, and America.
 ------------------------------------------------------------------------
 
 [Next: Chapter III: The Gods of the Phoenicians Also Kings of
-Atlantis.](ataw403)
+Atlantis.](ataw403.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj22)  [Next](chj24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj22)  [Next](chj24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -39,13 +39,13 @@ The poem "Namudaishi" is a religious ballad, written in the ordinary
 7.5.7.5 metre of the Japanese *wasan*. It is not a great poem; but it
 gives a good summary of Kōbō's life as it appears to the ordinary
 Buddhist believer in Japan. And it has never yet been presented to the
-English-speaking public. <span id="fr_315"></span>[1](#fn_313)
+English-speaking public. <span id="fr_315"></span>[1](#fn_313.md)
 
 1\. On the fifth day of the middle decade of the sixth
 
 <span id="page_244">p. 244</span>
 
-month in the fifth year of Hoki, <span id="fr_316"></span>[1](#fn_314)
+month in the fifth year of Hoki, <span id="fr_316"></span>[1](#fn_314.md)
 in the Baron's Hall on the shore of Byōbu, in the land of Sanuki, a
 bright light shone. It was the birth of our great sage.
 
@@ -55,11 +55,11 @@ of he never told, not even to his mother.
 
 3\. In his heart there arose the desire to save mankind from all their
 sorrows and pains, and he sought on Mount Shashin <span
-id="fr_317"></span>[2](#fn_315) to accomplish this desire by the
+id="fr_317"></span>[2](#fn_315.md) to accomplish this desire by the
 sacrifice of his own life. Then angels came and saved him from death.
 
 4\. Whilst at play he built himself a pagoda of clay. The Four Heavenly
-Kings <span id="fr_318"></span>[3](#fn_316) at once came and stood guard
+Kings <span id="fr_318"></span>[3](#fn_316.md) at once came and stood guard
 over it. The Imperial Messenger passing by saw the prodigy and was
 amazed. "This," said he, "is a divine prodigy."
 
@@ -70,7 +70,7 @@ might put his trust.
 
 6\. In his search after truth he learned all Buddhist doctrines. Of all
 the Buddhas he learned to trust especially in Hōjō, <span
-id="fr_319"></span>[4](#fn_317) whom he made his special deity.
+id="fr_319"></span>[4](#fn_317.md) whom he made his special deity.
 
 7\. But \[his mind was so nimble\] that though he learned but one thing
 or two, he could thence deduce
@@ -86,7 +86,7 @@ forth against him; but he spat upon it, and with his saliva he killed
 it.
 
 9\. It was in the nineteenth year of his age that, looking up to Gonzō
-as his religious guide, <span id="fr_320"></span>[1](#fn_318) he took
+as his religious guide, <span id="fr_320"></span>[1](#fn_318.md) he took
 upon himself the vows of the Bodhisattva, and became a homeless
 S’ramana, striving after enlightenment, and wearing the black silk robes
 of the Buddhist priest.
@@ -94,16 +94,16 @@ of the Buddhist priest.
 10\. At Shusenji in the province of Idzu, and in other places besides,
 he discovered the hot springs bubbling out of the earth. And it was he
 that demonstrated to the world the use of coal. <span
-id="fr_321"></span>[2](#fn_319)
+id="fr_321"></span>[2](#fn_319.md)
 
 11\. Inside the tower of the Temple of Kumadera in Yamato there was
 revealed to him the doctrine which is above all others. <span
-id="fr_322"></span>[3](#fn_320) But as there was none whom he could
+id="fr_322"></span>[3](#fn_320.md) But as there was none whom he could
 question thereon, he received permission from the Emperor to go to China
 for study.
 
 12\. In company with the ambassadors <span
-id="fr_323"></span>[4](#fn_321) that were sent
+id="fr_323"></span>[4](#fn_321.md) that were sent
 
 <span id="page_246">p. 246</span>
 
@@ -115,34 +115,34 @@ to the usual port of debarkation.
 the which he described all the pains and perils of the voyage over the
 sea, with its storms and billows. And then were they allowed to land.
 
-14\. Keikwa the Ac’ārya <span id="fr_324"></span>[1](#fn_322) was
+14\. Keikwa the Ac’ārya <span id="fr_324"></span>[1](#fn_322.md) was
 delighted to welcome him, and having purified the Mandara <span
-id="fr_325"></span>[2](#fn_323) for him, committed to him the whole of
-the great law of the Ryōbu <span id="fr_326"></span>[3](#fn_324) in its
+id="fr_325"></span>[2](#fn_323.md) for him, committed to him the whole of
+the great law of the Ryōbu <span id="fr_326"></span>[3](#fn_324.md) in its
 entirety, to its lowest depths.
 
 15\. Keikwa the Ac’ārya told him that the secret treasure of the Shingon
 law lay hidden within the sacred books, and that it would be well for
 him to make use of the help of pictures. <span
-id="fr_327"></span>[4](#fn_325)
+id="fr_327"></span>[4](#fn_325.md)
 
 16\. \[From Keikwa\] Kōbō received over a hundred books explaining the
 Ryōbu Mandara as contained in the
 
 <span id="page_247">p. 247</span>
 
-doctrine of the Vajrayāna. <span id="fr_328"></span>[1](#fn_326) Also he
+doctrine of the Vajrayāna. <span id="fr_328"></span>[1](#fn_326.md) Also he
 received many sacred vessels and implements that had been handed down
-from the days of Amogha, <span id="fr_329"></span>[2](#fn_327) the
+from the days of Amogha, <span id="fr_329"></span>[2](#fn_327.md) the
 doctor of the Tripitaka.
 
-17\. The boy <span id="fr_330"></span>[3](#fn_328) whom he met wrote the
+17\. The boy <span id="fr_330"></span>[3](#fn_328.md) whom he met wrote the
 character for "dragon" upon the water. But our Sage, seeing that one
 small stroke had been omitted, took up his pen and supplied that which
 was wanting. Then the dragon revealed himself in his true form and flew
 away to the sky.
 
-18\. Under Prajnā, <span id="fr_331"></span>[4](#fn_329) the monk of
+18\. Under Prajnā, <span id="fr_331"></span>[4](#fn_329.md) the monk of
 Nālanda in Central India, and under Munis’ri, the Master of the
 Tripitaka, he studied Sanskrit, and was by them presented with many
 books of the Scriptures in Sanskrit.
@@ -160,10 +160,10 @@ memorial on a monument, moistening his inkslab with his tears, and
 erected it at Ryūgen.
 
 21\. Now, when he was about to return to his own land, standing on the
-sea-beach he threw his vajra <span id="fr_332"></span>[1](#fn_330)
+sea-beach he threw his vajra <span id="fr_332"></span>[1](#fn_330.md)
 towards Japan. Strange to say, the vajra flew straight across, and was
 found hanging on the branch of a pine-tree at Takano. <span
-id="fr_333"></span>[2](#fn_331)
+id="fr_333"></span>[2](#fn_331.md)
 
 22\. The secret doctrines which he had learned in the land of the Tang,
 together with many precious and rare objects for the protection of the
@@ -174,10 +174,10 @@ Palace.
 during his travels, he offered incantations before the treeless
 temple-ground (of the god of Kasui), straightway green leaves and bright
 flowers came forth in abundance on what had till then been the "Naked
-Mountain." <span id="fr_334"></span>[3](#fn_332)
+Mountain." <span id="fr_334"></span>[3](#fn_332.md)
 
 24\. Our land had once possessed the tea-plant, <span
-id="fr_335"></span>[4](#fn_333) but the use of tea had been quite
+id="fr_335"></span>[4](#fn_333.md) but the use of tea had been quite
 forgotten. Our Sage brought with him a millstone and some seeds of the
 tea-plant,
 
@@ -192,7 +192,7 @@ women. V. 29 is important.\]
 
 29\. In the second month of the second year of Kōnin (Feb., 811 A.D.),
 along with the Emperor Saga, he received the Kwanjō of the gods <span
-id="fr_336"></span>[1](#fn_334) from the hands of Ōnakatomi, the famous
+id="fr_336"></span>[1](#fn_334.md) from the hands of Ōnakatomi, the famous
 ritualist.
 
 30\. Then, beginning with Dengyō Daishi, he admitted into his Church the
@@ -210,13 +210,13 @@ streamed out from him, and the whole company, overawed and trembling,
 fell to the ground and worshipped him.
 
 32\. That he might pray for the prosperity of the Fujiwara House, <span
-id="fr_337"></span>[1](#fn_335) he set up an altar in the Nannendō (at
+id="fr_337"></span>[1](#fn_335.md) he set up an altar in the Nannendō (at
 Nara), and there offered worship to Kenjaku Son. <span
-id="fr_338"></span>[2](#fn_336) Thereupon the god (of Kasuga) made his
+id="fr_338"></span>[2](#fn_336) Thereupon the god (of Kasuga.md) made his
 appearance and chanted a song of praise.
 
 33\. From China he brought to Japan the soil upon which the eight
-pagodas, <span id="fr_339"></span>[3](#fn_337) had stood. This soil he
+pagodas, <span id="fr_339"></span>[3](#fn_337.md) had stood. This soil he
 divided amongst eighty-eight places (in Sanuki), so that they who suffer
 from illness, as the result of Karma either in the past life or present,
 might go round them on pilgrimage and so be cleansed from their sins.
@@ -226,23 +226,23 @@ there was no water at all. Everywhere, to the great joy of mankind,
 wells of pure water sprang up.
 
 35\. In the mountainous districts of the province of Kii, two dogs, one
-white and one black, and a hunter, <span id="fr_340"></span>[4](#fn_338)
+white and one black, and a hunter, <span id="fr_340"></span>[4](#fn_338.md)
 
 <span id="page_251">p. 251</span>
 
 came to show him the way, and brought him to a place where there had
 once been the shrine of an ancient Buddha. <span
-id="fr_341"></span>[1](#fn_339) The god was the guardian deity of that
+id="fr_341"></span>[1](#fn_339.md) The god was the guardian deity of that
 hunting-place.
 
 36\. Then Nyuzu appeared, the god of that place (Kōya), and offered him
 that place until the coming of Maitreya, <span
-id="fr_342"></span>[2](#fn_340) in order that the land might be blessed
+id="fr_342"></span>[2](#fn_340.md) in order that the land might be blessed
 by him (Kōbō).
 
 37\. When first he began to open up Mount Kōya, after he had found on a
 pine tree the vajra he had thrown, and after the sword. <span
-id="fr_343"></span>[3](#fn_341) had come out from the earth, then indeed
+id="fr_343"></span>[3](#fn_341.md) had come out from the earth, then indeed
 he knew that the place was the seat of ancient Buddhist worship.
 
 38\. Not only did he make the pool of Tōchi in Sanuki, but in other
@@ -252,7 +252,7 @@ a great number of bridges.
 <span id="page_252">p. 252</span>
 
 39\. In order to save men from the plague <span
-id="fr_344"></span>[1](#fn_342) he preached the inner meaning of the
+id="fr_344"></span>[1](#fn_342.md) he preached the inner meaning of the
 Heart-Sutra. The roads were filled with men that had been raised from
 the dead; the whole land enjoyed the blessings of peace.
 
@@ -265,7 +265,7 @@ our men of the Land of the Day-spring, and composed in the letters of
 our country a poem on the four verses of the Tathāgata.
 
 42\. The doctrines of S’akyamuni are eighty-four thousand in all, the
-last <span id="fr_345"></span>[2](#fn_343) being the teaching on Nirvana
+last <span id="fr_345"></span>[2](#fn_343.md) being the teaching on Nirvana
 which Buddha himself gave. The most important of these have been thus
 interpreted.
 
@@ -296,53 +296,53 @@ To Kōbō, "Who can hope to live for aye?"
 </div>
 
 44\. Thus any man who can write the *Kana* characters of the
-*Iroha*, <span id="fr_346"></span>[1](#fn_344) whether he understand
+*Iroha*, <span id="fr_346"></span>[1](#fn_344.md) whether he understand
 their meaning or not, becomes the disciple of our great Sage, and
 receives the happiness that comes from the Law.
 
 45\. This syllabary he founded on the Sanskrit alphabet, which we
 venerate as sacred, and arranged according to the principles of
-Nirvana, <span id="fr_347"></span>[2](#fn_345) handing it down to us in
+Nirvana, <span id="fr_347"></span>[2](#fn_345.md) handing it down to us in
 a word-picture of fifty syllables. Thus he provided for the education of
 future generations.
 
 46\. Basing his action on the expressed wish of the Emperor Saga, he
 founded in the Tōji Temple at Kyoto a shrine for the worship of
-Hachiman, <span id="fr_348"></span>[3](#fn_346) where he worshipped the
+Hachiman, <span id="fr_348"></span>[3](#fn_346.md) where he worshipped the
 god and laid upon him the duty of protecting the Imperial House.
 
 <span id="page_254">p. 254</span>
 
-47\. The god of Inari <span id="fr_349"></span>[1](#fn_347) appeared on
+47\. The god of Inari <span id="fr_349"></span>[1](#fn_347.md) appeared on
 Mount Fushimi and received from Kōbō's hand the sacrifice he offered.
 "Together, you and I," he swore, "we will protect this people."
 
 48\. When there was a drought, he received an order from the Emperor,
 and made supplication for rain in the Imperial Garden of Shinsen-yen.
 Then the Holy Maidens and the Nāga Princes <span
-id="fr_350"></span>[2](#fn_348) appeared, and there was a gentle rain
+id="fr_350"></span>[2](#fn_348.md) appeared, and there was a gentle rain
 over all the land.
 
-49\. To Kenne, <span id="fr_351"></span>[3](#fn_349) who had been his
+49\. To Kenne, <span id="fr_351"></span>[3](#fn_349.md) who had been his
 companion on his visit to China, he entrusted the sacred globe as an
 object of worship. "This," said he, "has been consecrated by many mystic
 enchantments."
 
 50\. He mastered all the five branches of knowledge; <span
-id="fr_352"></span>[4](#fn_350) he studied the whole of the ten Pitakas.
+id="fr_352"></span>[4](#fn_350.md) he studied the whole of the ten Pitakas.
 He was proficient in painting and in sculpture, and in order to promote
 the
 
 <span id="page_255">p. 255</span>
 
 intellectual welfare of his countrymen he founded the
-*Shugei-shuchi-in*. <span id="fr_353"></span>[1](#fn_351)
+*Shugei-shuchi-in*. <span id="fr_353"></span>[1](#fn_351.md)
 
 51\. During the second week of the first month in every year, there is
 held in the Imperial Palace a Festival of Prayer for the reigning
 Emperor. This was instituted by him; it was a most magnificent festival,
 and was maintained for a thousand years, even to the days of
-Meiji. <span id="fr_354"></span>[2](#fn_352)
+Meiji. <span id="fr_354"></span>[2](#fn_352.md)
 
 52\. On one day after the twentieth of the third month of the second
 year of Jōwa (A.D. 835) he foretold that he should die, and leaving
@@ -351,7 +351,7 @@ life.
 
 53\. For those whose affectionate desire should draw their minds to the
 Sage in after years, the prince painted a portrait of him. The
-prince <span id="fr_355"></span>[3](#fn_353) did indeed paint the face,
+prince <span id="fr_355"></span>[3](#fn_353.md) did indeed paint the face,
 but the eyes were painted in by the Sage himself.
 
 54\. When he died it was as though a bright light had gone out in the
@@ -372,28 +372,28 @@ a good example for succeeding ages.
 57\. Eighty years after his decease, an Imperial Messenger opened the
 gate of his sepulchre. His hair, they found, had grown long upon his
 head; they shaved it off and gave him a change of garments. <span
-id="fr_356"></span>[1](#fn_354)
+id="fr_356"></span>[1](#fn_354.md)
 
 58\. The Emperor that reigned in the days of Engi <span
-id="fr_357"></span>[2](#fn_355) (*i.e.* Daigo) was deeply impressed by
+id="fr_357"></span>[2](#fn_355) (*i.e.* Daigo.md) was deeply impressed by
 the lessons of his life, and honoured him with the title of Kōbō
-Daishi. <span id="fr_358"></span>[3](#fn_356)
+Daishi. <span id="fr_358"></span>[3](#fn_356.md)
 
 59\. When Shunnyū, the Imperial Messenger to the Temple in which our
 great Sage is worshipped, was unable to see the face of the Sage, the
 Sage himself guided the worshipper's hand to touch his knee. Never, as
 long as he lived, did the messenger forget that feeling. <span
-id="fr_359"></span>[4](#fn_357)
+id="fr_359"></span>[4](#fn_357.md)
 
 60\. The Emperors Kwampyō and Shirakawa, the retired Emperor, Go-Uda,
 and several others of our rulers had such faith in the Sage's merits
 that they made pilgrimages to Kōya to worship at his sanctuary.
 
 61\. Verily the teaching of the Tathāgata of the Dharma Kaya <span
-id="fr_360"></span>[5](#fn_358) (the Spiritual Body) has been handed
+id="fr_360"></span>[5](#fn_358) (the Spiritual Body.md) has been handed
 down without change and without break; through the long chain of our
 patriarchs the lamp of light has been handed down to us. <span
-id="fr_361"></span>[6](#fn_359)
+id="fr_361"></span>[6](#fn_359.md)
 
 <span id="page_257">p. 257</span> <span id="page_258">p. 258</span>
 
@@ -401,29 +401,29 @@ id="fr_361"></span>[6](#fn_359)
 
 ### Footnotes
 
-<span id="fn_313"></span>[243:1](chj23.htm#fr_315) There is an English
+<span id="fn_313"></span>[243:1](chj23.htm#fr_315.md) There is an English
 translation published in 1909, in a volume on Kōbō Daishi entitled
 "Namudaishi." But it was made by some Japanese who knew but little
 English, and had no English friend to correct his translation. It
 requires some knowledge of "English as she is spoke" to understand it.
 
-<span id="fn_314"></span>[244:1](chj23.htm#fr_316) *I.e.* June 15, A.D.
+<span id="fn_314"></span>[244:1](chj23.htm#fr_316.md) *I.e.* June 15, A.D.
 774.
 
-<span id="fn_315"></span>[244:2](chj23.htm#fr_317) Mount Shashin is in
+<span id="fn_315"></span>[244:2](chj23.htm#fr_317.md) Mount Shashin is in
 the Island of Shikoku. The word means "throwing away the body "; and the
 place "the Mountain of Self-oblation." The idea of religious suicide or
 self-immolation is one of the saddest features of mediæval Buddhism. It
 always gives me the idea of a diabolical perversion of Rom. xii. 1.
 
-<span id="fn_316"></span>[244:3](chj23.htm#fr_318) I.e. the Shi Tennō.
+<span id="fn_316"></span>[244:3](chj23.htm#fr_318.md) I.e. the Shi Tennō.
 Originally Hindu deities, they have been pressed by the Mahāyāna into
 the service of Buddhism.
 
-<span id="fn_317"></span>[244:4](chj23.htm#fr_319) Akas’agarba, a
+<span id="fn_317"></span>[244:4](chj23.htm#fr_319.md) Akas’agarba, a
 well-known Bodhisattva.
 
-<span id="fn_318"></span>[245:1](chj23.htm#fr_320) *Gonzō* must have
+<span id="fn_318"></span>[245:1](chj23.htm#fr_320.md) *Gonzō* must have
 been a monk of the Vinaya sect. See above chapter on Dharmagupta. To
 have a religious teacher seems to be a necessity in Buddhism. I have
 seen it stated that without a teacher one cannot be saved, because the
@@ -431,24 +431,24 @@ Way is the effect, the teacher is the Cause, and therefore, however much
 of the Way a man has acquired, if it is done without a teacher it is an
 effect without a cause, *i.e.* nothing.
 
-<span id="fn_319"></span>[245:2](chj23.htm#fr_321) Notice how quaintly
+<span id="fn_319"></span>[245:2](chj23.htm#fr_321.md) Notice how quaintly
 the practical Japanese mind mixes up the material with the spiritual.
 
-<span id="fn_320"></span>[245:3](chj23.htm#fr_322) The legend is that in
+<span id="fn_320"></span>[245:3](chj23.htm#fr_322.md) The legend is that in
 answer to earnest prayers for guidance he was told in a dream to look
 for a certain book in the Temple of Kumadera. He looked, and the book
 which he found was the "Vairoc’ana Sutra," brought to China from
 Southern India by way of the sea, and containing that Shingon doctrine
 which has such marvellous resemblances to the Egyptian speculations.
 
-<span id="fn_321"></span>[245:4](chj23.htm#fr_323) The ambassador on
+<span id="fn_321"></span>[245:4](chj23.htm#fr_323.md) The ambassador on
 this occasion was Fujiwara no Ason. The embassy took tribute to China.
 
-<span id="fn_322"></span>[246:1](chj23.htm#fr_324) Ac’ārya is an Indian
+<span id="fn_322"></span>[246:1](chj23.htm#fr_324.md) Ac’ārya is an Indian
 word unknown to the earliest periods of the Mahāyāna. Its use denotes a
 long association of Brahmans and Buddhists.
 
-<span id="fn_323"></span>[246:2](chj23.htm#fr_325) The Mandara is in one
+<span id="fn_323"></span>[246:2](chj23.htm#fr_325.md) The Mandara is in one
 sense the *pleroma*, *i.e.* the sum-total of the divine personalities
 that go to make up the Godhead. The word is also used (and here,
 according to the Japanese commentary) to denote a magic ring or circle,
@@ -456,7 +456,7 @@ used in sorcery. We must never forget the great part that sorcery plays
 in the Shingon, just as it did in the Egyptian Gnosticism, and its
 kindred Cabbala.
 
-<span id="fn_324"></span>[246:3](chj23.htm#fr_326) The Ryōbu doctrine is
+<span id="fn_324"></span>[246:3](chj23.htm#fr_326.md) The Ryōbu doctrine is
 that there are two worlds, of which one, the world of ideas, is fixed
 and eternal. The material world corresponds to the world of ideas, with
 this difference, that the one Idea in the Ideal World may have many
@@ -466,19 +466,19 @@ the Eternal Buddhas stand for. The same, however, holds good for the
 gods of China and Japan. And things which are equal to the same thing
 are equal to one another.
 
-<span id="fn_325"></span>[246:4](chj23.htm#fr_327) Shingonism has
+<span id="fn_325"></span>[246:4](chj23.htm#fr_327.md) Shingonism has
 undoubtedly always been a most potent stimulant of art.
 
-<span id="fn_326"></span>[247:1](chj23.htm#fr_328) *Vajrayāna*, *i.e.*
+<span id="fn_326"></span>[247:1](chj23.htm#fr_328.md) *Vajrayāna*, *i.e.*
 the Shingon, which explains the world by reference to the Diamond World,
 or World of Ideas (Vajradhātu). The use of this word seems to show that
 the Shingon is distinct from the other streams of the Mahāyāna.
 
-<span id="fn_327"></span>[247:2](chj23.htm#fr_329) Amogha (Jap. Fukū)
+<span id="fn_327"></span>[247:2](chj23.htm#fr_329) Amogha (Jap. Fukū.md)
 reached China from Southern India during the seventh century. He was a
 most prolific writer.
 
-<span id="fn_328"></span>[247:3](chj23.htm#fr_330) This boy is said to
+<span id="fn_328"></span>[247:3](chj23.htm#fr_330.md) This boy is said to
 have been a manifestation of Manjuśri, the Bodhisattva who represents
 Wisdom, and who is specially connected with China. We can see that
 Manjuśri, whose "true form" is that of a dragon, or Nāga, has a special
@@ -487,7 +487,7 @@ in the chapter on Nāgārjuna. His worship in China must at this time have
 been very popular, for Prajna went to China especially to make inquiries
 about him.
 
-<span id="fn_329"></span>[247:4](chj23.htm#fr_331) Prajnā brings us into
+<span id="fn_329"></span>[247:4](chj23.htm#fr_331.md) Prajnā brings us into
 close touch with Christianity, for it was he that collaborated with a
 Nestorian priest in the translation of a book out of the Hu language
 (Persian?) into Chinese. The book is said to have been a Buddhist Sūtra,
@@ -496,15 +496,15 @@ Munis'ri; but it is said that there was a Brahman also in their
 company—another indication pointing to the Hindu affinities of the
 Shingon.
 
-<span id="fn_330"></span>[248:1](chj23.htm#fr_332) The vajra is a little
+<span id="fn_330"></span>[248:1](chj23.htm#fr_332.md) The vajra is a little
 instrument of incantation, made of copper or some other metal, and
 looking somewhat like a thunderbolt, when held in the hand of the
 celebrant. It plays a large part in the Shingon ritual, and is an
 element in the names of many Shingon books and Shingon priests.
 
-<span id="fn_331"></span>[248:2](chj23.htm#fr_333) *I.e.* Kōya.
+<span id="fn_331"></span>[248:2](chj23.htm#fr_333.md) *I.e.* Kōya.
 
-<span id="fn_332"></span>[248:3](chj23.htm#fr_334) The story is that,
+<span id="fn_332"></span>[248:3](chj23.htm#fr_334.md) The story is that,
 when Kōbō started, he made a prayer at the Shrine of Usa Hachiman,
 commending himself to the protection of the gods. In answer to this
 prayer the god of Kasui (whose name is not given) promised to accompany
@@ -513,12 +513,12 @@ this Kōbō produced the trees and flowers. It is clear from this that
 Kōbō's object in going to China was to find a *moyen de vivre* for
 Buddhism and Shinto.
 
-<span id="fn_333"></span>[248:4](chj23.htm#fr_335) The same claim is
+<span id="fn_333"></span>[248:4](chj23.htm#fr_335.md) The same claim is
 made in the twelfth century for Eisai, the founder of the Sōtō sect. It
 would seem that in the long period of civil war the art of tea-growing
 was again lost.
 
-<span id="fn_334"></span>[249:1](chj23.htm#fr_336) This was evidently
+<span id="fn_334"></span>[249:1](chj23.htm#fr_336.md) This was evidently
 the formal inauguration of the Ryōbu Shinto. The Emperor, Saga Tenno,
 and Kōbō were baptized (Kwanjō) into the Shinto community by the chief
 ritualist of that faith. And the Shintoists in their turn were baptized
@@ -545,21 +545,21 @@ semi-independent baronies, and brought about precisely that state of
 affairs which Kwammu had been at such pains to avert when he tried to
 break the power of the great Nara monasteries.
 
-<span id="fn_335"></span>[250:1](chj23.htm#fr_337) The Fujiwara family
+<span id="fn_335"></span>[250:1](chj23.htm#fr_337.md) The Fujiwara family
 were coming into prominence at this time. For many years the head of
 this family was the practical director of the Emperor's councils; and
 the custom subsists to this day that the Empress of Japan is always a
 Fujiwara. The god of Kasuga, Ama no Koyane, is the deified progenitor of
 the Fujiwaras.
 
-<span id="fn_336"></span>[250:2](chj23.htm#fr_338) Kenjaku Son is a name
+<span id="fn_336"></span>[250:2](chj23.htm#fr_338.md) Kenjaku Son is a name
 given to the Bodhisattva Amoghapasa, often identified with Kwannon.
 
-<span id="fn_337"></span>[250:3](chj23.htm#fr_339) The eight pagodas are
+<span id="fn_337"></span>[250:3](chj23.htm#fr_339.md) The eight pagodas are
 the eight stupas in India built over the relics of S’akyamuni, whose
 ashes were divided amongst eight tribes.
 
-<span id="fn_338"></span>[250:4](chj23.htm#fr_340) Kōbō Daishi knew
+<span id="fn_338"></span>[250:4](chj23.htm#fr_340.md) Kōbō Daishi knew
 better than to forbid hunting. The experiment had been tried during the
 Nara period, with the result that the nobles and warriors, after a brave
 attempt to comply with the Buddhist law, <span id="page_251">p.
@@ -572,10 +572,10 @@ service over the dead body of the wild boar. The form of service, which
 is called *indō*, and is very ancient, was drawn up for the villages by
 Kōbō Daishi.
 
-<span id="fn_339"></span>[251:1](chj23.htm#fr_341) Said to be Kaśyapa
+<span id="fn_339"></span>[251:1](chj23.htm#fr_341.md) Said to be Kaśyapa
 Buddha, S’akyamuni's immediate predecessor.
 
-<span id="fn_340"></span>[251:2](chj23.htm#fr_342) Kōbō constantly
+<span id="fn_340"></span>[251:2](chj23.htm#fr_342.md) Kōbō constantly
 taught that Maitreya, the disciple of S’akyamuni, who has reached to
 Bodhisattvaship, and is now in the Tushita heaven, from whence he came
 once to lecture for Asangha (see above, Chapter XVI. p. 163), will come
@@ -583,7 +583,7 @@ again at the end of the age to restore all things by the confuting of
 heretics. This is not a universal belief among Japanese Buddhists; but
 it is very strongly held by the Japanese Shingon.
 
-<span id="fn_341"></span>[251:3](chj23.htm#fr_343) In India ruling
+<span id="fn_341"></span>[251:3](chj23.htm#fr_343.md) In India ruling
 families belonging to the so-called Sun Dynast make a great deal of the
 Sword. Kōbō Daishi, who was a Sanskritist, probably knew this, and it
 may have been he that pointed out the importance to the Imperial Family
@@ -591,23 +591,23 @@ of Japan (also a Sun Dynasty) of the Sacred Sword. We find the same idea
 with Attila and the Huns, and also perhaps in King Arthur's sword
 Excalibur.
 
-<span id="fn_342"></span>[252:1](chj23.htm#fr_344) This outbreak of
+<span id="fn_342"></span>[252:1](chj23.htm#fr_344.md) This outbreak of
 plague is assigned in the Commentary to the year 820. Murdoch does not
 mention it. The Commentary passes over without a word the clause
 concerning the men raised from the dead. The Heart-Sūtra is the *Prajnā
 Parāmitā Hridaya Sūtra*, a very short Sūtra, which will be found in
 S.B.E.
 
-<span id="fn_343"></span>[252:2](chj23.htm#fr_345) The Sects are not in
+<span id="fn_343"></span>[252:2](chj23.htm#fr_345.md) The Sects are not in
 agreement as to which is to be considered the last Sūtra that Buddha
 preached. Some say the Nirvana teachings came last, but others give that
 place to the "Saddharmapundarika" or the Amida books.
 
-<span id="fn_344"></span>[253:1](chj23.htm#fr_346) The word *Iroha*,
+<span id="fn_344"></span>[253:1](chj23.htm#fr_346.md) The word *Iroha*,
 like our English word "alphabet," represents the first three characters
 of the Japanese syllabary, as arranged by Kōbō Daishi.
 
-<span id="fn_345"></span>[253:2](chj23.htm#fr_347) This is a reference
+<span id="fn_345"></span>[253:2](chj23.htm#fr_347.md) This is a reference
 to the well-known text, of which the Iroha poem is but a paraphrase—
 
 <div style="margin-left: 32px">
@@ -624,14 +624,14 @@ Because they are subject to the law of origination and perishing:
 When this law of origination and perishing comes to an end  
 Calm will be found to be the true happiness."
 
-<span id="fn_346"></span>[253:3](chj23.htm#fr_348) *Hachiman*, a
+<span id="fn_346"></span>[253:3](chj23.htm#fr_348.md) *Hachiman*, a
 deification of the Japanese Empress Ōjin. Had Kōbō been contented with
 identifying Japanese deities with Buddhas he would have satisfied many
 minds. But his introduction of unnecessary Indian deities was much
 resented. Nichiren, for instance, accepts Amaterasu as Dainichi, and
 Ōjin as Hachiman, but attacks the other identifications most severely.
 
-<span id="fn_347"></span>[254:1](chj23.htm#fr_349) Inari is the farmers'
+<span id="fn_347"></span>[254:1](chj23.htm#fr_349.md) Inari is the farmers'
 god, the god of rice. Kōbō had already won the favour of the Imperial
 House, of the warriors, of the Fujiwaras, by his skilful identifications
 of deified heroes with Buddhas and Bodhisattvas. Now he claims the
@@ -640,15 +640,15 @@ same, it was a terrible prostitution of the truth, and we are not
 astonished that the manly samurai should always have had the utmost
 contempt for him as an ingenious and not over-scrupulous miracle-monger.
 
-<span id="fn_348"></span>[254:2](chj23.htm#fr_350) Nothing is said in
+<span id="fn_348"></span>[254:2](chj23.htm#fr_350.md) Nothing is said in
 the English translation of "Namudaishi" (to which I have already
 alluded) about the Nāgas and maidens. But they are mentioned in the
 Japanese original.
 
-<span id="fn_349"></span>[254:3](chj23.htm#fr_351) Kenne is otherwise
+<span id="fn_349"></span>[254:3](chj23.htm#fr_351.md) Kenne is otherwise
 unknown. The "sacred globe" (Jap. *hōshū*) is a crystal ball.
 
-<span id="fn_350"></span>[254:4](chj23.htm#fr_352) The five branches of
+<span id="fn_350"></span>[254:4](chj23.htm#fr_352.md) The five branches of
 knowledge are the same as the five "branches of learning" which we used
 sometimes to hear of as children. The expression "*ten* pitakas," or ten
 Collections of Scriptures, seems to point to a conclusion that I have
@@ -657,36 +657,36 @@ it out, that the Chinese Buddhist Canon represents a collection of the
 Holy Books of ever so many distinct religious bodies, each of which
 requires quite independent treatment.
 
-<span id="fn_351"></span>[255:1](chj23.htm#fr_353) A sort of College.
+<span id="fn_351"></span>[255:1](chj23.htm#fr_353.md) A sort of College.
 There were many of these founded during the reigns of the learned
 emperors. See Murdoch's "History of Japan," vol. i. p. 229.
 
-<span id="fn_352"></span>[255:2](chj23.htm#fr_354) This custom has now
+<span id="fn_352"></span>[255:2](chj23.htm#fr_354.md) This custom has now
 been given up.
 
-<span id="fn_353"></span>[255:3](chj23.htm#fr_355) The prince was
+<span id="fn_353"></span>[255:3](chj23.htm#fr_355.md) The prince was
 Shinnyo, the third son of the Emperor Heijo.
 
-<span id="fn_354"></span>[256:1](chj23.htm#fr_356) In the minds of his
+<span id="fn_354"></span>[256:1](chj23.htm#fr_356.md) In the minds of his
 followers, the Sage is still uncorrupted in his tomb, awaiting the
 coming of Maitreya. The Baptism of the Emperor Uda (if by Kōbō) must
 have been miraculous, for he did not come to the throne until 887.
 
-<span id="fn_355"></span>[256:2](chj23.htm#fr_357) The year-period Engi
+<span id="fn_355"></span>[256:2](chj23.htm#fr_357.md) The year-period Engi
 was from 908–922 A.D.
 
-<span id="fn_356"></span>[256:3](chj23.htm#fr_358) Kōbō's original name
+<span id="fn_356"></span>[256:3](chj23.htm#fr_358.md) Kōbō's original name
 was Kūkai, and ultra-imperialist Confucianists always speak of him as
 such. Kōbō Daishi means "The Great Teacher who spread the Law."
 
-<span id="fn_357"></span>[256:4](chj23.htm#fr_359) This story is to be
+<span id="fn_357"></span>[256:4](chj23.htm#fr_359.md) This story is to be
 found in Satow and Hawes’ "Handbook to Japan," p. 416 (2nd edition).
 
-<span id="fn_358"></span>[256:5](chj23.htm#fr_360) I.e. Vairoc’ana,
+<span id="fn_358"></span>[256:5](chj23.htm#fr_360.md) I.e. Vairoc’ana,
 whose body is a spiritual body, and therefore unchangeable and
 everlasting, without beginning or end.
 
-<span id="fn_359"></span>[256:6](chj23.htm#fr_361) The patriarchs of the
+<span id="fn_359"></span>[256:6](chj23.htm#fr_361.md) The patriarchs of the
 Shingon are well known. They are reckoned as eight: (1) Vairoc’ana, (2)
 Vajrasattva, (3) Nāgārjuna, (4) Nāgabodhi. These were in India. Then in
 China there were: (5) Vajrabodhi, (6) <span id="page_257">p. 257</span>
@@ -760,4 +760,4 @@ Great Master whom all the Western world reveres."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. The Buddhism of the Gempei Period](chj24)
+[Next: Chapter XXII. The Buddhism of the Gempei Period](chj24.md)

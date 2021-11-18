@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz16)  [Next](krz18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz16)  [Next](krz18.md) 
 
 ------------------------------------------------------------------------
 
@@ -228,7 +228,7 @@ life, and is quite normal.
 Now as the causes of this thing are mostly psychic, so should the
 remedies be. Nourishing diet, especially of shellfish, milk, eggs, may
 assist; running, horseback riding and muscle-beating over the lower
-spine, nates <span id="fr_2"></span>[\*](#fn_2), hips, thighs, and
+spine, nates <span id="fr_2"></span>[\*](#fn_2.md), hips, thighs, and
 abdomen, by way of a local tonic; with abundant sleep. But the chief
 need is to establish the right relation between the psychic natures of
 the lovers themselves. Especially does this depend upon the woman. If
@@ -285,8 +285,8 @@ worthwhile to live.
 
 ### Footnotes
 
-<span id="fn_2"></span>[47:\*](krz17.htm#fr_2) buttocks. *Ed.*
+<span id="fn_2"></span>[47:\*](krz17.htm#fr_2.md) buttocks. *Ed.*
 
 ------------------------------------------------------------------------
 
-[Next: Karezza the Beautifier](krz18)
+[Next: Karezza the Beautifier](krz18.md)

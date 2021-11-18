@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt10) [Next](bkt12)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt10) [Next](bkt12.md)
 
 ------------------------------------------------------------------------
 
@@ -370,7 +370,7 @@ men and spirits.
 prayed for his soul, begged for a mitigation of his bodily pains at the
 <span id="page_215">p. 215</span> trial he was to undergo before the
 angels Ankir and Munkir.<span
-id="page_215_fr_*"></span>[\*](#page_215_note_*)
+id="page_215_fr_*"></span>[\*](#page_215_note_*.md)
 
    This journey had fatigued Solomon so much, that he ordered the genii,
 on his return to Jerusalem, to weave strong silken carpets, which might
@@ -391,7 +391,7 @@ ridest on the winds as I once rode on Borak, <span id="page_216">p.
 216</span> who shall dwell in Paradise until the birth of Mohammed. Show
 thyself grateful, therefore, unto the only God, and, taking advantage of
 the ease with which thou canst travel from place to place, visit the
-cities of Jathrib,<span id="page_216_fr_*"></span>[\*](#page_216_note_*)
+cities of Jathrib,<span id="page_216_fr_*"></span>[\*](#page_216_note_*.md)
 where the greatest of prophets shall one day find shelter and
 protection, and of Mecca, the place of his birth, where now the holy
 temple stands which I and my son Ismael (peace be on him!) rebuilt after
@@ -917,7 +917,7 @@ ambassadors replied, "Be not astonished at us, for we are descended from
 men, and are the remnant of a Jewish community, which, notwithstanding
 all admonition, continued to desecrate the Sabbath until Allah cursed
 them, and turned them into apes.<span
-id="page_238_fr_*"></span>[\*](#page_238_note_*) Solomon was moved to
+id="page_238_fr_*"></span>[\*](#page_238_note_*.md) Solomon was moved to
 compassion and, to protect them from all farther animosity on the part
 of man, gave them a parchment, in which he secured to them forever the
 undisturbed possession of this valley.
@@ -1016,7 +1016,7 @@ the law, who were reading aloud in the Thora, forced his way, spite of
 the gate-keepers and sentinels, who would have hindered him, into the
 hall of state, where Sachr sojourned. No sooner did he hear the word of
 God, which had been revealed to Moses,<span
-id="page_242_fr_*"></span>[\*](#page_242_note_*) than he shrunk back
+id="page_242_fr_*"></span>[\*](#page_242_note_*.md) than he shrunk back
 into his native form, and flew in haste to the shore of the sea, where
 the signet ring dropped from him.
 
@@ -1169,7 +1169,7 @@ resurrection.
 
 ------------------------------------------------------------------------
 
-[Next](bkt12)
+[Next](bkt12.md)
 
 ------------------------------------------------------------------------
 
@@ -1177,7 +1177,7 @@ resurrection.
 
 <span id="footnotes_page_215">p. 215</span>
 
-   <span id="page_215_note_*"></span>[\*](#page_215_fr_*) These two
+   <span id="page_215_note_*"></span>[\*](#page_215_fr_*.md) These two
 angels make inquiry of the dead conceming his God and his faith, and
 torment him if he be not able to answer properly.
 
@@ -1186,17 +1186,17 @@ tomb) of the Rabbis.—Compare Maraccius, Prodrom., § iii., p. 90.
 
 <span id="footnotes_page_216">p. 216</span>
 
-   <span id="page_216_note_*"></span>[\*](#page_216_fr_*) The ancient
+   <span id="page_216_note_*"></span>[\*](#page_216_fr_*.md) The ancient
 name of Medina, where Mohammed died.
 
 <span id="footnotes_page_238">p. 238</span>
 
-   <span id="page_238_note_*"></span>[\*](#page_238_fr_*) Mohammed
+   <span id="page_238_note_*"></span>[\*](#page_238_fr_*.md) Mohammed
 mentions this in the Koran as a fact.
 
 <span id="footnotes_page_242">p. 242</span>
 
-   <span id="page_242_note_*"></span>[\*](#page_242_fr_*) There is an
+   <span id="page_242_note_*"></span>[\*](#page_242_fr_*.md) There is an
 allusion here to the peculiar ideas which both Mohammedans and Jews
 attach to the recitation of scriptural or imagined sacred words and
 sentences.

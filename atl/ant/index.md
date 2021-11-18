@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ida00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ida.txt.gz)
+[Contents](#contents)    [Start Reading](ida00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ida.txt.gz.md)
 
 |                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------|
@@ -51,32 +51,32 @@ scratch, from a 1920 edition of this translation of the book. Therefore
 it may differ slightly from the Project Gutenberg version, which was
 sourced from a 1964 Ace paperback edition. That edition has 192 pages
 and some obvious differences, e.g., a dedication in the Ace which does
-not appear in the 1920 printing. NOTE: [Unicode](../../unicode) is used
+not appear in the 1920 printing. NOTE: [Unicode](../../unicode.md) is used
 to display Greek in this text. I've also made [a sketch
-map](img/map.jpg) of the route in the book through the Sahara.
+map](img/map.jpg.md) of the route in the book through the Sahara.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ida00)  
-[Contents](ida01)  
-[Preface](ida02)  
-[Chapter I. A Southern Assignment](ida03)  
-[Chapter II. Captain de Saint-Avit](ida04)  
-[Chapter III. The Morhange-Saint-Avit Mission](ida05)  
-[Chapter IV. Towards Latitude 25](ida06)  
-[Chapter V. The Inscription](ida07)  
-[Chapter VI. The Disaster of the Lettuce](ida08)  
-[Chapter VII. The Country of Fear](ida09)  
-[Chapter VIII. Awakening At Ahaggar](ida10)  
-[Chapter IX. Atlantis](ida11)  
-[Chapter X. The Red Marble Hall](ida12)  
-[Chapter XI. Antinea](ida13)  
-[Chapter XII. Morhange Disappears](ida14)  
-[Chapter XIII. The Hetman of Jitomir's Story](ida15)  
-[Chapter XIV. Hours of Waiting](ida16)  
-[Chapter XV. The Lament of Tanit-Zerga](ida17)  
-[Chapter XVI. The Silver Hammer](ida18)  
-[Chapter XVII. The Maidens of the Rocks](ida19)  
-[Chapter XVIII. The Fire-Flies](ida20)  
-[Chapter XIX. The Tanezruft](ida21)  
-[Chapter XX. The Circle Is Complete](ida22)  
+<span id="contents"></span> [Title Page](ida00.md)  
+[Contents](ida01.md)  
+[Preface](ida02.md)  
+[Chapter I. A Southern Assignment](ida03.md)  
+[Chapter II. Captain de Saint-Avit](ida04.md)  
+[Chapter III. The Morhange-Saint-Avit Mission](ida05.md)  
+[Chapter IV. Towards Latitude 25](ida06.md)  
+[Chapter V. The Inscription](ida07.md)  
+[Chapter VI. The Disaster of the Lettuce](ida08.md)  
+[Chapter VII. The Country of Fear](ida09.md)  
+[Chapter VIII. Awakening At Ahaggar](ida10.md)  
+[Chapter IX. Atlantis](ida11.md)  
+[Chapter X. The Red Marble Hall](ida12.md)  
+[Chapter XI. Antinea](ida13.md)  
+[Chapter XII. Morhange Disappears](ida14.md)  
+[Chapter XIII. The Hetman of Jitomir's Story](ida15.md)  
+[Chapter XIV. Hours of Waiting](ida16.md)  
+[Chapter XV. The Lament of Tanit-Zerga](ida17.md)  
+[Chapter XVI. The Silver Hammer](ida18.md)  
+[Chapter XVII. The Maidens of the Rocks](ida19.md)  
+[Chapter XVIII. The Fire-Flies](ida20.md)  
+[Chapter XIX. The Tanezruft](ida21.md)  
+[Chapter XX. The Circle Is Complete](ida22.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste14)  [Next](ste16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste14)  [Next](ste16.md) 
 
 ------------------------------------------------------------------------
 
@@ -377,7 +377,7 @@ made, the Chanel of the Sea, or subterraneous Cavities. Either they must
 take that form which we have assign’d it before the Deluge, or else they
 must suppose it cover’d with Water, till the Sea-chanels were made, and
 the Mountains brought forth; As in that [Fig. pag.
-55](ste08.htm#img_05500)<span class="margnote">*Fig*. 2. *p*.
+55](ste08.htm#img_05500.md)<span class="margnote">*Fig*. 2. *p*.
 56.</span>. And no doubt it was once in this form, both reason and the
 authority of *Moses* assures us of it; and this is the Test which every
 opinion must be brought to, how the Earth emerg’d out of that watery
@@ -639,4 +639,4 @@ that can be a bar or hindrance to its reception.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](ste16)
+[Next: Title Page](ste16.md)

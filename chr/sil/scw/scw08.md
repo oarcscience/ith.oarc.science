@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw07) [Next](scw09)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw07) [Next](scw09.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -549,4 +549,4 @@ Place, Unplace, Day, Night, Joy, Pain, Time, Eternity.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw09)
+[Next](scw09.md)

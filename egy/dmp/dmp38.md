@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp37)  [Next](dmp39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp37)  [Next](dmp39.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ it on her until morning, for three, otherwise said four, days.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. VII](dmp39)
+[Next: Verso Col. VII](dmp39.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](dan)  [Next](joe) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](dan)  [Next](joe.md) 
 
 ------------------------------------------------------------------------
 
@@ -768,4 +768,4 @@ Gerechten wandeln drinnen; aber die Übertreter fallen drinnen.
 
 ------------------------------------------------------------------------
 
-[Next: Joel](joe)
+[Next: Joel](joe.md)

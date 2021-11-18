@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](moonbase)  [Next](mr-dec96) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](moonbase)  [Next](mr-dec96.md) 
 
 ### Project Moon Dust
 
@@ -1485,4 +1485,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Stanton Friedman Monthly Report Dec. 1996](mr-dec96)
+[Next: Stanton Friedman Monthly Report Dec. 1996](mr-dec96.md)

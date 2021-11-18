@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](mhl02)  [Next](mhl04) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](mhl02)  [Next](mhl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ demon-king.
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Tanhuma](mhl04)
+[Next: Midrash Tanhuma](mhl04.md)

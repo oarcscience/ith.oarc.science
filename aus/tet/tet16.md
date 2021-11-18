@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet15)  [Next](tet17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet15)  [Next](tet17.md) 
 
 ------------------------------------------------------------------------
 
@@ -233,4 +233,4 @@ times even to smell a stranger was considered a risk.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. The Amusements of Blacks](tet17)
+[Next: Chapter XV. The Amusements of Blacks](tet17.md)

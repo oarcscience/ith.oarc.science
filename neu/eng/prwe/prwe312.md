@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe311)  [Next](prwe313) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe311)  [Next](prwe313.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ iii, p. 178
 ------------------------------------------------------------------------
 
 [Next: Packs of Wool The Foundation of the Bridge of
-Wadebridge](prwe313)
+Wadebridge](prwe313.md)

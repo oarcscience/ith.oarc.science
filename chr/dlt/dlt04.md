@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt03)  [Next](dlt05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt03)  [Next](dlt05.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@
 IN the prophetical writings of the Old Testament we frequently come
 across such phrases as "The Day of the Lord," "Those days," "That day,"
 "The last days," etc., and around such expressions <span
-id="fr_6"></span>[1](#fn_6) "there centre certain conceptions and
+id="fr_6"></span>[1](#fn_6.md) "there centre certain conceptions and
 expectations; a brief study of these must be our present task. It is
 necessary, however, to explain at the outset that it is not with the
 whole subject of Eschatology in the Old Testament that we propose to
@@ -45,7 +45,7 @@ In drawing attention to some of the passages which deal with these, it
 will clearly be impossible to do so in an exhaustive manner; for, on the
 one hand, it would become tedious and take up a great deal of space
 unnecessarily, and, on the other, it would take us too far afield. <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 <span id="page_14">p. 14</span>
 
@@ -55,7 +55,7 @@ The earliest mention that we have of the "Day of the Lord" is in the
 book of Amos for the present we do not enquire as to the reasons why
 that "Day" was to come about; it is sufficient to say that it heralds
 the end of things, that it inaugurates a new era, <span
-id="fr_8"></span>[1](#fn_8) and that certain signs precede the opening
+id="fr_8"></span>[1](#fn_8.md) and that certain signs precede the opening
 of that era. The prophets very frequently connect what they say about
 this "Day" with the present conditions of the people, or with various
 historical events; but the underlying principles of their teaching
@@ -203,7 +203,7 @@ constituted a body of *popular beliefs* long current among the people
 before the prophets took them over and utilised them for the purpose of
 inculcating higher beliefs. As to the origin of these popular beliefs,
 this is not the place to discuss the question; <span
-id="fr_9"></span>[1](#fn_9) it is sufficient for us to note the use made
+id="fr_9"></span>[1](#fn_9.md) it is sufficient for us to note the use made
 of them by the prophets, for, as far as we are at present concerned, it
 is the prophetical basis which is our starting-point. Even in the
 history of eschatological beliefs, as contained in the Old Testament, it
@@ -359,7 +359,7 @@ eschatological teaching, is always against the wicked regarded as the
 enemies of Jehovah; this *trait*, too, is largely conditioned by the
 historical circumstances of the time. In its earliest form it may
 reasonably be assumed that the judgement was upon the powers of
-evil, <span id="fr_10"></span>[1](#fn_10) but this was adopted by the
+evil, <span id="fr_10"></span>[1](#fn_10.md) but this was adopted by the
 prophets and applied at one time to the wicked within the Israelite
 nation, at another to the Gentiles, who, as not being the worshippers of
 Jehovah, were usually regarded as the natural enemies both of the
@@ -389,7 +389,7 @@ the earth: therefore I will visit upon you all your iniquities* (iii.
 18: *Woe unto you that desire the day of the Lord? Wherefore would ye
 have the day of the Lord? it is darkness, and not light*. These words
 reveal the existence of a popular, but erroneous, conception of the "Day
-of the Lord." <span id="fr_11"></span>[1](#fn_11) In
+of the Lord." <span id="fr_11"></span>[1](#fn_11.md) In
 
 <span id="page_30">p. 30</span>
 
@@ -566,7 +566,7 @@ underlying principle
 <span id="page_38">p. 38</span>
 
 is acknowledged by most men to have been a true one. <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 In the preceding section we saw that one of the main elements of
 prophetic eschatological teaching was that in the final issue punishment
@@ -595,7 +595,7 @@ shall be excellent and comely, for them that are escaped of Israel. And
 it shall come to pass, that he that remaineth in Jerusalem shall be
 called holy, even every one that is written among the living in
 Jerusalem*. . . . Isaiah's doctrine of the "Remnant" <span
-id="fr_13"></span>[1](#fn_13) is important in connection with our
+id="fr_13"></span>[1](#fn_13.md) is important in connection with our
 present subject, for the belief that only a few, comparatively speaking,
 will deserve the reward of the Righteous in "that day" finds expression
 both in his writings as well as in those of later prophets; in x. 20
@@ -700,13 +700,13 @@ points, not altogether unimportant, must be considered.
 
 ### Footnotes
 
-<span id="fn_6"></span>[12:1](dlt04.htm#fr_6) With the question as to
+<span id="fn_6"></span>[12:1](dlt04.htm#fr_6.md) With the question as to
 how the ideas which gave birth to these expressions came into being
 themselves, we are not concerned here; the subject is fully dealt with
 in the writer's book, *The Evolution of the Messianic Idea* (1908), see
 especially chaps. x., xi., xvi.
 
-<span id="fn_7"></span>[13:1](dlt04.htm#fr_7) It may be thought that the
+<span id="fn_7"></span>[13:1](dlt04.htm#fr_7.md) It may be thought that the
 large number of references to be quoted in full in this and the
 following chapter is unnecessary, and that it would have sufficed to
 indicate chapter and verse; the reason why the present course has been
@@ -719,26 +719,26 @@ up, to show by quotations how the roots of the Gospel teaching
 concerning the subject under consideration are embedded in the Old
 Testament writings.
 
-<span id="fn_8"></span>[14:1](dlt04.htm#fr_8) Sometimes the "Day" is
+<span id="fn_8"></span>[14:1](dlt04.htm#fr_8.md) Sometimes the "Day" is
 used in a wide sense for the new era itself.
 
-<span id="fn_9"></span>[21:1](dlt04.htm#fr_9) See the writer's book
+<span id="fn_9"></span>[21:1](dlt04.htm#fr_9.md) See the writer's book
 referred to above, pp. 241 ff.
 
-<span id="fn_10"></span>[28:1](dlt04.htm#fr_10) *Cf.* *The Evolution of
+<span id="fn_10"></span>[28:1](dlt04.htm#fr_10.md) *Cf.* *The Evolution of
 the Messianic Idea*, chap. xiii.
 
-<span id="fn_11"></span>[29:1](dlt04.htm#fr_11) See *The Evolution of
+<span id="fn_11"></span>[29:1](dlt04.htm#fr_11.md) See *The Evolution of
 the Messianic Idea*, chap. xvi. pp. 241-248.
 
-<span id="fn_12"></span>[38:1](dlt04.htm#fr_12) *Cf.* the Gospel
+<span id="fn_12"></span>[38:1](dlt04.htm#fr_12.md) *Cf.* the Gospel
 teaching of the Kingdom of God, which shows still more pointedly the
 indissoluble connection between Ethics and Eschatology.
 
-<span id="fn_13"></span>[39:1](dlt04.htm#fr_13) See, on this subject,
+<span id="fn_13"></span>[39:1](dlt04.htm#fr_13.md) See, on this subject,
 *The Evolution of the Messianic Idea*, chap. xiv. pp. 206 ff.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Antecedents of the Gospel Teaching: Some Further
-Elements in the Old Testament](dlt05)
+Elements in the Old Testament](dlt05.md)

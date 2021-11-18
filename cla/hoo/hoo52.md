@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo51)  [Next](hoo53) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo51)  [Next](hoo53.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ And aid thy mystics, when on thee they call. 10
 
 ------------------------------------------------------------------------
 
-[Next: XLVIII: To Ippa](hoo53)
+[Next: XLVIII: To Ippa](hoo53.md)

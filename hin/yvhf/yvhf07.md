@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](yvhf06)  [Next](yvhf08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](yvhf06)  [Next](yvhf08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Vashisht or Heaven Found*, by Rishi Singh Gherwal, \[1930\], at
 Intangible Textual Heritage
 
@@ -67,7 +67,7 @@ for the salvation of suffering humanity.
 
 "By meditating on the heart, spiritual Wisdom awakens, all doubts
 vanish, and the mind is contented. This mind of ours, is susceptible to
-all kinds of influences, hankering after [worldly](errata.htm#2)
+all kinds of influences, hankering after [worldly](errata.htm#2.md)
 pleasures, and this is the greatest obstacle in the path of salvation.
 Control your. mind with the thought that these worldly objects are the
 merest tinsel compared to the liberation which is a veritable
@@ -231,7 +231,7 @@ divisions and subdivisions can be made. These seven states of Wisdom
 lead to Nirvana. They are Subeccha or right desire, Vicharan or
 contemplation, Tanumansi, the state in which the mind is alert,
 Satwapatti or the generation of the serenity of the mind, Asansakti or
-detachment of the mind from [worldly](errata.htm#3) things, Padarth
+detachment of the mind from [worldly](errata.htm#3.md) things, Padarth
 Bhavana, the perception of the truth and reality, and Turya or light.
 These states free the seeker from delusion, and lead gradually to
 complete Nirvana or salvation and to the end of pain and suffering.
@@ -331,4 +331,4 @@ itself."
 
 ------------------------------------------------------------------------
 
-[Next: Queen Chundalai, The Great Yogin](yvhf08)
+[Next: Queen Chundalai, The Great Yogin](yvhf08.md)

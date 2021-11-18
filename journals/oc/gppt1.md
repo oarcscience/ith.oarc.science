@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index) [Index](gppt0) [Next](gppt2)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index) [Index](gppt0) [Next](gppt2.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ EDMUNDS.</span>
  
 
    I GAVE some facts about the pre-Christian antiquity of the Pâli Texts
-in a [note](cabgb.htm#page_701) in *The Open Court* for November, 1898.
+in a [note](cabgb.htm#page_701.md) in *The Open Court* for November, 1898.
 The question of Hindû ideas reaching Palestine is still on its trial.
 The interchange of thought between Greece and India was part of the
 programme of Alexander, who took Greek artists on his Eastern
@@ -111,15 +111,15 @@ the whole East had in common.
 
 <span id="pp_1"></span>{1} THE CHRIST REMAINS \[ON EARTH\] FOR THE ÆON.
 
-<span class="small">[John xii. 34](../../bib/kjv/joh.htm#12:34). Udâna
+<span class="small">[John xii. 34](../../bib/kjv/joh.htm#12:34.md). Udâna
 VI. 1; and Book of the Great Decease, p. 23. (Translated in [S. B. E.
-XI. p. 40](../../bud/sbe11/sbe1103.htm#page_40)).</span>
+XI. p. 40](../../bud/sbe11/sbe1103.htm#page_40).md).</span>
 
    \[This is not a New Testament doctrine, but a current belief at the
 time of Christ. Commentators have been at a loss to identify he Old
 Testament passage which is supposed to be quoted. *The Twentieth Century
 New Testament* proposes the Aramaic version of [Isaiah ix.
-7](../../bib/kjv/isa.htm#9:7) as the source. Be that as it may, we have
+7](../../bib/kjv/isa.htm#9:7.md) as the source. Be that as it may, we have
 here a verbal Pâli parallel.\]
 
    Ânando, any one who has practised the four mystical
@@ -143,8 +143,8 @@ doubtful.\]
 
 <span id="pp_2"></span>{2} FEW THAT ARE SAVED.
 
-<span class="small">[Matth. vii. 13, 14](../../bib/kjv/mat.htm#7:13);
-[Luke xiii 23, 24](../../bib/kjv/luk.htm#13:23). A"nguttara Nikâyo I. 19
+<span class="small">[Matth. vii. 13, 14](../../bib/kjv/mat.htm#7:13.md);
+[Luke xiii 23, 24](../../bib/kjv/luk.htm#13:23.md). A"nguttara Nikâyo I. 19
 (Not before translated).</span>
 
    Monks! just as, in this India, there are only a few pleasant parks,
@@ -168,9 +168,9 @@ born again in hell, in the wombs of brutes or the haunt of ghosts.
 Second Book of Kings than to that of Christ, as related in the first
 chapter of Acts. There is no account of the Ascension in the Synoptical
 Gospels, except a single line in [Luke xxiv.
-51](../../bib/kjv/luk.htm#24:51),<span
+51](../../bib/kjv/luk.htm#24:51.md),<span
 id="page_116_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_116_note_1) while the Mark Appendix
+class="small">1</span></sup>](#page_116_note_1.md) while the Mark Appendix
 is a later addition. John refers to the Ascension as a spiritual fact;
 so does Paul; but the only pictorial account is that of Acts. In the
 Pâli legend, the hero is Dabbo the Mallian, a disciple of Buddha's who
@@ -184,7 +184,7 @@ venerable Dabbo the Mallian approached the Blessed One, saluted him and
 sat on one side, and so sitting, said to him: "O Auspicious One, my time
 is at hand to enter Nirvâ.na."<span
 id="page_116_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_116_note_2)--"Whatever you think
+class="small">2</span></sup>](#page_116_note_2.md)--"Whatever you think
 fit, O Dabbo."--Then the venerable Dabbo the Mallian rose from his seat,
 saluted the Blessed One, and keeping on his right hand, went up into the
 sky, and sat in the posture of meditation in the ether, in the empyrean.
@@ -196,7 +196,7 @@ Nirvâ.na.
    And when the venerable Dabbo the Mallian had thus gone up, meditated
 and ascended, there remained neither ashes nor soot of his body when
 passed away,<span id="page_117_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_117_note_1) consumed and burnt. Even
+class="small">1</span></sup>](#page_117_note_1.md) consumed and burnt. Even
 as, when ghee or oil is consumed and burnt, neither ashes nor soot
 remains, so was it with the body of the venerable Dabbo the Mallian. And
 forthwith the Blessed One, having understood the fact, gave vent on that
@@ -212,7 +212,7 @@ departed."
 
 <span id="pp_4"></span>{4} SUPERNATURAL BIRTH.
 
-<span class="small">[Luke i. 35](../../bib/kjv/luk.htm#1:35). Majjhima
+<span class="small">[Luke i. 35](../../bib/kjv/luk.htm#1:35.md). Majjhima
 Nikâyo, Sutta 38. Quoted in *The Questions of King Milindo*, p. 123, but
 *not* translated in S. B. E. XXXV.</span>
 
@@ -228,8 +228,8 @@ from the commentary.\]
 
 <span id="pp_5"></span>{5} THE SAVIOUR IS UNIQUE.
 
-<span class="small">[John i. 14](../../bib/kjv/joh.htm#1:14) and 18
-("only begotten";) [Hebrew ix. 26](../../bib/kjv/heb.htm#9:26) ("once,
+<span class="small">[John i. 14](../../bib/kjv/joh.htm#1:14.md) and 18
+("only begotten";) [Hebrew ix. 26](../../bib/kjv/heb.htm#9:26.md) ("once,
 at the end of the ages.") A"nguttara Nikâyo I. 15.</span>
 
    It is unlikely and impossible, O monks, for two Arahats who are
@@ -239,7 +239,7 @@ perfect Buddha, to arise in one world-system: this is quite likely.
 
    \[A similar statement is made of an emperor;<span
 id="page_117_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_117_note_2) and then it is denied
+class="small">2</span></sup>](#page_117_note_2.md) and then it is denied
 that a woman can be a Buddha, an emperor--strangely contradicted by
 fact--a Sakko, a Mâro, or a Brahmâ.\]
 
@@ -247,13 +247,13 @@ fact--a Sakko, a Mâro, or a Brahmâ.\]
 
 <span id="pp_6"></span>{6} SAVING FAITH IN THE LORD.
 
-<span class="small">[Luke xxiii. 42, 43](../../bib/kjv/luk.htm#23:42).
+<span class="small">[Luke xxiii. 42, 43](../../bib/kjv/luk.htm#23:42.md).
 Majjhima Nikâyo, Sutta 22.</span>
 
    Thus, O monks, is the Doctrine well taught by me--plain, patent,
 clear, and with the old cloth cut away.<span
 id="page_117_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_117_note_3) Seeing, O monks, <span
+class="small">3</span></sup>](#page_117_note_3.md) Seeing, O monks, <span
 id="page_118">p. 118</span> that the Doctrine is thus well taught
 \[etc.\], all those who have merely faith and love toward me are sure of
 Paradise hereafter.
@@ -262,7 +262,7 @@ Paradise hereafter.
 
 <span id="pp_7"></span>{7} HE WHO SEES THE TRUTH SEES THE LORD.
 
-<span class="small">[John xiv. 6](../../bib/kjv/joh.htm#14:6) and 9.  
+<span class="small">[John xiv. 6](../../bib/kjv/joh.htm#14:6.md) and 9.  
 Itivuttaka 92.</span>
 
    O monks, even if a monk should gather up the folds of his rob and
@@ -283,7 +283,7 @@ and can be equally well translanted *Truth* or *Religion*.\]
 
 ------------------------------------------------------------------------
 
-[Next](gppt2)
+[Next](gppt2.md)
 
 ------------------------------------------------------------------------
 
@@ -291,27 +291,27 @@ and can be equally well translanted *Truth* or *Religion*.\]
 
 <span id="footnotes_page_116">p. 116</span>
 
-<span id="page_116_note_1"></span>[1](#page_116_fr_1). The doubt thrown
+<span id="page_116_note_1"></span>[1](#page_116_fr_1.md). The doubt thrown
 upon this line in the margin of the Revised Version of 1881 was
 dispelled when the Sinai Syriac was found.
 
-<span id="page_116_note_2"></span>[2](#page_116_fr_2). See my defensive
+<span id="page_116_note_2"></span>[2](#page_116_fr_2.md). See my defensive
 note on this rendering in my translation of Dîgha 14. (*The Marvellous
 Birth of the Buddhas*: Philadelphia. 1899, p. 4.)
 
 <span id="footnotes_page_117">p. 117</span>
 
-<span id="page_117_note_1"></span>[1](#page_117_fr_1). Or, *passed into
+<span id="page_117_note_1"></span>[1](#page_117_fr_1.md). Or, *passed into
 Nirvâ.na*, as above. It is a special word, only used for the death of an
 Arahat.
 
-<span id="page_117_note_2"></span>[2](#page_117_fr_2). I was interested
+<span id="page_117_note_2"></span>[2](#page_117_fr_2.md). I was interested
 to learn lately from the lips of a Hindu that the ancient title
 *chakkavatti* is applied to-day to the Queen of England as Empress of
 India.
 
-<span id="page_117_note_3"></span>[3](#page_117_fr_3). Cf. [Mark ii.
-21](../../bib/kjv/mar.htm#2:21).
+<span id="page_117_note_3"></span>[3](#page_117_fr_3.md). Cf. [Mark ii.
+21](../../bib/kjv/mar.htm#2:21.md).
 
  
 

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Roma](../index)  [Index](index) 
-[Previous](egl09)  [Next](egl11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Roma](../index)  [Index](index.md) 
+[Previous](egl09)  [Next](egl11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428056998/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -985,7 +985,7 @@ anything about it at all.’ Do you know Old Frank?” he suddenly inquired.
 gets money in bank, *I* say there is somethin’ in it. An’ how do you
 suppose he made that money?” he inquired, with the air of one who is
 about to “come down with a stunner.” “He did it *a-dukkerin*’.”
- [171](egl13.htm#xref_171) But he pronounced the word *durkerin*’; and
+ [171](egl13.htm#xref_171.md) But he pronounced the word *durkerin*’; and
 I, detecting at once, as I thought, an affinity with the German
 “turkewava,” paused and stared, lost in thought. My pause was set down
 to amazement, and the Ancient Henry repeated—
@@ -1406,4 +1406,4 @@ taken to prison, to the place of which I know.”
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Gipsies In Egypt](egl11)
+[Next: Chapter X. Gipsies In Egypt](egl11.md)

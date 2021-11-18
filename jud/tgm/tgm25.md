@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm24)  [Next](tgm26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm24)  [Next](tgm26.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,10 +87,10 @@ man Saadiah was.
 <span id="img_12500"></span>
 
 [![](tn/12500.jpg)  
-Click to enlarge](img/12500.jpg)
+Click to enlarge](img/12500.jpg.md)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: 23. A Gift to the Caliph](tgm26)
+[Next: 23. A Gift to the Caliph](tgm26.md)

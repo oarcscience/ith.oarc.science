@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 5th Aethyr,  
-Which is Called LIT**[**1**](#1)
+Which is Called LIT**[**1**](#1.md)
 
 There is a shining pylon, above which is set the sigil of the eye,
 within the shining triangle. Light streams through the pylon from before
 the face of Isis-Hathor, for she weareth the lunar crown of cows' horns,
 with the disk in the centre; at her breast she beareth the child
-Horus[**2**](#2).
+Horus[**2**](#2.md).
 
 And there is a voice: thou knowest not how the Seven was united with the
 Four; much less then canst thou understand the marriage of the Eight and
-the Three. Yet there is a word wherein these are made one[**3**](#3),
+the Three. Yet there is a word wherein these are made one[**3**](#3.md),
 and therein is contained the Mystery that thou seekest, concerning the
 rending asunder of the veil of my Mother.
 
@@ -45,7 +45,7 @@ therein, yet there was a very strange atmosphere, which I could not
 understand.
 
 Suspended in the air there is a silver star, and on the forehead of each
-of the guardians there is a silver star[**4**](#4). It is a pentagram,
+of the guardians there is a silver star[**4**](#4.md). It is a pentagram,
 --- because, says the Angel, three and five are eight; three and eight
 are eleven. (There is another numerical reason that I cannot hear.)
 
@@ -56,9 +56,9 @@ gravely as if in solemn acquiescence, until the last one whispers the
 same words in my ears. But they have a different sense. I had taken them
 to be a denial of the existence of God, but the man who says them to me
 evidently means nothing of the sort: What he does mean I cannot tell at
-all. He slightly emphasized the word "there"[**5**](#5).
+all. He slightly emphasized the word "there"[**5**](#5.md).
 
-And now all is suddenly blotted out[**6**](#6), and instead appears the
+And now all is suddenly blotted out[**6**](#6.md), and instead appears the
 Angel of the Aethyr. He is all in black, burnished black scales, just
 edged with gold. He has vast wings, with terrible claws on the ends, and
 he has a fierce face, like a dragon's, and dreadful eyes that pierce one
@@ -100,13 +100,13 @@ of the Everlasting House, and beholding me at last have returned,
 declaring, "Fearful is the aspect of the Mighty and Terrible One." Happy
 are they that have known me for whom I am. And glory unto him that hath
 made a gallery of my throat for his arrow of truth, and the moon for his
-purity[**7**](#7).
+purity[**7**](#7.md).
 
 The moon waneth. The moon waneth. The moon waneth. For in that arrow is
 the Light of Truth that overmastereth the light of the sun, whereby she
-shines. The arrow is fledged with the plumes[**8**](#8) of Maat, that
+shines. The arrow is fledged with the plumes[**8**](#8.md) of Maat, that
 are the plumes of Amoun, and the shaft is the phallus of Amoun, the
-Concealed One. And the barb[**9**](#9) thereof is the star that thou
+Concealed One. And the barb[**9**](#9.md) thereof is the star that thou
 sawest in the place where was No God.
 
 And of them that guarded the star, there was not found one worthy to
@@ -114,16 +114,16 @@ wield the Arrow. And of them that worshipped there was not found one
 worthy to behold the Arrow. Yet the star that thou sawest was but the
 barb of the Arrow, and thou hadst not the wit to grasp the shaft, or the
 purity to divine the plumes. Now therefore is he blessed that is born
-under the sign of the Arrow[**10**](#10), and blessed is he that hath
+under the sign of the Arrow[**10**](#10.md), and blessed is he that hath
 the sigil of the head of the crowned lion and the body of the Snake and
-the Arrow therewith[**11**](#11).
+the Arrow therewith[**11**](#11.md).
 
 Yet do thou distinguish between the upward and the downward Arrows, for
 the upward arrow is straitened in its flight, and it is shot by a firm
-hand, for Jesod is Jod Tetragrammaton[**12**](#12), and Jod is a hand,
+hand, for Jesod is Jod Tetragrammaton[**12**](#12.md), and Jod is a hand,
 but the downward arrow is shot by the topmost point of the Jod; and that
-Jod is the Hermit[**13**](#13), and it is the minute point that is not
-extended, that is nigh unto the heart of Hadit[**14**](#14).
+Jod is the Hermit[**13**](#13.md), and it is the minute point that is not
+extended, that is nigh unto the heart of Hadit[**14**](#14.md).
 
 And now it is commanded thee that thou withdraw thyself from the Vision,
 and on the morrow, at the appointed hour, shall it be given thee
@@ -140,7 +140,7 @@ Now then art thou approached unto an august Arcanum; verily thou art
 come unto the ancient Marvel, the winged light, the Fountains of Fire,
 the Mystery of the Wedge. But it is not I that can reveal it, for I have
 never been permitted to behold it, who am but the watcher upon the
-threshold of the Aethyr[**15**](#15). My message is spoken, and my
+threshold of the Aethyr[**15**](#15.md). My message is spoken, and my
 mission is accomplished. And I withdraw myself, covering my face with my
 wings, before the presence of the Angel of the Aethyr.
 
@@ -150,7 +150,7 @@ And there is a little child in a mist of blue light; he hath golden
 hair, a mass of curls, and deep blue eyes. Yea, he is all golden, with a
 living, vivid gold. And in each hand he hath a snake; in the right hand
 a red, in the left a blue. And he hath red sandals, but no other
-garment[**16**](#16).
+garment[**16**](#16.md).
 
 And he sayeth: is not life a long initiation unto sorrow? And is not
 Isis the Lady of Sorrow? And she is my mother. Nature is her name, and
@@ -167,9 +167,9 @@ at the end thereof there is silence, and thou shalt commune with
 Nephthys.
 
 And having known these, there are the wings of Maut the
-Vulture[**17**](#17). Thou mayest draw to an head the bow of thy magical
+Vulture[**17**](#17.md). Thou mayest draw to an head the bow of thy magical
 will; thou mayest loose the shaft and pierce her to the heart. I am
-Eros[**18**](#18). Take then the bow and the quiver from my shoulders
+Eros[**18**](#18.md). Take then the bow and the quiver from my shoulders
 and slay me; for unless thou slay me, thou shalt not unveil the Mystery
 of the Aethyr.
 
@@ -209,7 +209,7 @@ shaft of the Arrow is the Father of all Life, and the barb of the Arrow
 is the Father of all Love. For that silver wedge is like a lotus flower,
 and the Eye within the Ateph Crown crieth: I watch. And the Shaft
 crieth: I work. And the Barb crieth: I wait. And the Voice of the Aethyr
-echoeth: It beams. It burns. It blooms[**19**](#19).
+echoeth: It beams. It burns. It blooms[**19**](#19.md).
 
 And now there cometh a strange thought; this Arrow is the source of all
 motion; it is infinite motion, yet it moveth not, so that there *is* no
@@ -217,7 +217,7 @@ motion. And therefore there is no matter. This Arrow is the glance of
 the Eye of Shiva. But because it moveth not, the universe is not
 destroyed. The universe is put forth and swallowed up in the quivering
 of the plumes of Maat, that are the plumes of the Arrow; but those
-plumes quiver not[**20**](#20).
+plumes quiver not[**20**](#20.md).
 
 And a voice comes: That which is above is *not* like that which is
 below.
@@ -227,7 +227,7 @@ which is above.
 
 And a third voice answers these two: What is above and what is below?
 For there is the division that divideth not, and the multiplication that
-multiplieth not. And the One is the many[**21**](#21). Behold, this
+multiplieth not. And the One is the many[**21**](#21.md). Behold, this
 Mystery is beyond understanding, for the winged globe is the crown, and
 the shaft is the wisdom, and the barb is the understanding. And the
 Arrow is one, and thou art lost in the Mystery, who art but as a babe
@@ -241,11 +241,11 @@ And a voice cometh: Thou didst seek the remedy of sorrow; therefore all
 sorrow is thy portion. This is that which is written: "God hath laid
 upon him the iniquity of us all." For as thy blood is mingled in the cup
 of BABALON, so is thine heart the universal heart. Yet is it bound about
-with the Green Serpent, the Serpent of Delight[**22**](#22).
+with the Green Serpent, the Serpent of Delight[**22**](#22.md).
 
 It is shown me that this heart is the heart that rejoiceth, and the
-serpent is the serpent of Death[**22**](#22) for herein all the symbols
-are interchangeable, for each one containeth in itself[**23**](#23) its
+serpent is the serpent of Death[**22**](#22.md) for herein all the symbols
+are interchangeable, for each one containeth in itself[**23**](#23.md) its
 own opposite. And this is the great Mystery of the Supernals that are
 beyond the Abyss. For below the Abyss, contradiction is division; but
 above the Abyss, contradiction is Unity. And there could be nothing true
@@ -257,9 +257,9 @@ of the pool, the mind of the Seer. But they send forth a wind that is a
 cloud of Angels, and they beat the water with their feet, and little
 waves splash up--- they are memories. For the seer hath no head; it is
 expanded into the universe, a vast and silent sea, crowned with the
-stars of night[**24**](#24).
+stars of night[**24**](#24.md).
 
-Yet in the very midst thereof is the arrow[**25**](#25). Little images
+Yet in the very midst thereof is the arrow[**25**](#25.md). Little images
 of things that were, are the foam upon the waves. And there is a contest
 between the Vision and the memories. I prayed unto the Lords of Vision,
 saying: O my Lords, take not away this wonder from my sight.

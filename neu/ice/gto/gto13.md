@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto12)  [Next](gto14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto12)  [Next](gto14.md) 
 
 ------------------------------------------------------------------------
 
@@ -228,4 +228,4 @@ so they did.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Thorgrim's Slaying](gto14)
+[Next: Chapter IX. Thorgrim's Slaying](gto14.md)

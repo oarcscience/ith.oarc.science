@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll05)  [Next](tll07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll05)  [Next](tll07.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ largest, however, with a breadth of wing of more than sixteen feet,
 exceeding the largest of our living birds of to-day; while most of the
 Dinosauria-the Dragons-were terrible beasts of prey, colossal reptiles
 which attained a length of from forty to fifty feet. <span
-id="fr_11"></span>[1](#fn_11) Subsequent excavations have laid bare
+id="fr_11"></span>[1](#fn_11.md) Subsequent excavations have laid bare
 skeletons of an even larger size. Professor Ray Lankester, at a meeting
 of the Royal Institution On 7th January, 1904, is reported to have
 referred to a brontosaurus
@@ -60,7 +60,7 @@ remarked is so closely allied to Reptiles in internal structure and by
 embryonal development that they undoubtedly originated out of a branch
 of this class . . . . . The derivation of birds from reptiles first took
 place in the Mesolithic epoch, and this moreover probably during the
-Trias." <span id="fr_12"></span>[1](#fn_12)
+Trias." <span id="fr_12"></span>[1](#fn_12.md)
 
 In the vegetable kingdom this epoch also saw the pine and the palm-tree
 gradually displace the giant tree ferns. In the later days of the
@@ -73,12 +73,12 @@ the Eocene and Miocene times.
 
 ### Footnotes
 
-<span id="fn_11"></span>[17:1](tll06.htm#fr_11) Ernst Haeckel's "History
+<span id="fn_11"></span>[17:1](tll06.htm#fr_11.md) Ernst Haeckel's "History
 of Creation," Vol. ii., pp. 22-56.
 
-<span id="fn_12"></span>[19:1](tll06.htm#fr_12) Ernst Haeckel's "
+<span id="fn_12"></span>[19:1](tll06.htm#fr_12.md) Ernst Haeckel's "
 History of Creation," vol. ii., pp. 226-7.
 
 ------------------------------------------------------------------------
 
-[Next: The Human Kingdom](tll07)
+[Next: The Human Kingdom](tll07.md)

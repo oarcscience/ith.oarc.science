@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste55)  [Next](ste57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste55)  [Next](ste57.md) 
 
 ------------------------------------------------------------------------
 
@@ -378,4 +378,4 @@ various changes from a *dark Chao*s to a *bright Star*.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](ste57)
+[Next: Title Page](ste57.md)

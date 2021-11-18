@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](abs09)  [Next](abs11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](abs09)  [Next](abs11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1931882584/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG0W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Abominable Snowmen*, by Ivan T. Sanderson, \[1961\], at Intangible
 Textual Heritage
 
@@ -60,7 +60,7 @@ We have seen a record of a skeleton fitting these dimensions
 
 <span id="img_map04"></span> <span align="CENTER"> [![MAP IV. NORTHERN
 CALIFORNIA](tn/map04.jpg)  
-Click to enlarge](img/map04.jpg)  
+Click to enlarge](img/map04.jpg.md)  
 MAP IV. NORTHERN CALIFORNIA  
 </span>
 
@@ -913,4 +913,4 @@ matters and, little by little, an amazing picture emerged.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Late North Americans](abs11)
+[Next: 7. Late North Americans](abs11.md)

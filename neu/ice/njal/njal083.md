@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal082)  [Next](njal084) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal082)  [Next](njal084.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ islands.
 
 ------------------------------------------------------------------------
 
-[Next: 84. Of Earl Sigurd](njal084)
+[Next: 84. Of Earl Sigurd](njal084.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk11)  [Next](tpk13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk11)  [Next](tpk13.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ Judges plotting out riddles with the woman how to get him.
 
 ------------------------------------------------------------------------
 
-[Next: The Rapers](tpk13)
+[Next: The Rapers](tpk13.md)

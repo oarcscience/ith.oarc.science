@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma20)  [Next](fmma22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma20)  [Next](fmma22.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ He died in 1066 and was buried in Westminster Abbey.
 
 ------------------------------------------------------------------------
 
-[Next: William The Conqueror. King From 1066-1087](fmma22)
+[Next: William The Conqueror. King From 1066-1087](fmma22.md)

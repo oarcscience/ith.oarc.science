@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida08)  [Next](ida10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida08)  [Next](ida10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -310,7 +310,7 @@ of brush near the surface. At first we could see nothing. The smoke
 blinded us.
 
 Eg-Anteouen stayed at one side of the opening of the cave. He was seated
-and, more [inscrutable](errata.htm#6) than ever, had begun again to blow
+and, more [inscrutable](errata.htm#6.md) than ever, had begun again to blow
 great puffs of gray smoke from his pipe.
 
 The burning brush cast a flickering light. I caught a glimpse of
@@ -496,4 +496,4 @@ In the name of God, am I or am I not at Ahaggar?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Awakening At Ahaggar](ida10)
+[Next: Chapter VIII. Awakening At Ahaggar](ida10.md)

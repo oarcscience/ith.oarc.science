@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](triangle)  [Next](ufofield) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](triangle)  [Next](ufofield.md) 
 
 ### Tuscaloosa (AL) News 10/23/1996
 
@@ -120,4 +120,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: Tales From the Dark Side of Flying Saucer Research](ufofield)
+[Next: Tales From the Dark Side of Flying Saucer Research](ufofield.md)

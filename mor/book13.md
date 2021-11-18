@@ -1,8 +1,8 @@
-[Previous: Mormon](book12)
+[Previous: Mormon](book12.md)
 
-[Next: Moroni](book14)
+[Next: Moroni](book14.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -2514,4 +2514,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Moroni](book14)
+[Next: Moroni](book14.md)

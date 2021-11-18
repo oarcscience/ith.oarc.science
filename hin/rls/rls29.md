@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls28.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_189">p. 189</span>
 
-### INDEX TO THE SAYINGS <span id="fr_16"></span>[1](#fn_16).
+### INDEX TO THE SAYINGS <span id="fr_16"></span>[1](#fn_16.md).
 
 \[*The references in this Index correspond to the numbering of the
 Sayings in this volume*.\]
@@ -1458,7 +1458,7 @@ Printed at the University Press Oxford by Frederick Hall
 
 ### Footnotes
 
-<span id="fn_16"></span>[189:1](rls29.htm#fr_16) This Index was made for
+<span id="fn_16"></span>[189:1](rls29.htm#fr_16.md) This Index was made for
 a collection of the Sayings of Ramakrishna which was sent to me in
 manuscript. When the MS. came to be printed there were several sayings
 which had been given twice. As these had to be left out when they

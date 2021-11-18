@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph07)  [Next](rph09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph07)  [Next](rph09.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ the testimony of a presumptive ancient tradition, and with no apparent
 motive than the desire to penetrate more intimately into the meaning of
 the Sacred Books--such is the doctrine found in the original writings
 and in the oldest fragments of the Kabbalah <span
-id="fr_9"></span>[1](#fn_9) when shifted and purified of all their
+id="fr_9"></span>[1](#fn_9.md) when shifted and purified of all their
 dross.
 
 It occurred to me that, at a time, when all historical researches, and
@@ -82,8 +82,8 @@ little into the depths of the system, that it would be very difficult
 and equally tedious to mention each one separately. Suffice it to know
 that they divide themselves into two schools, both founded in Palestine
 at about the same time, the middle of the sixteenth century. One was
-founded by Moses Corduero, <span id="fr_11"></span>[2](#fn_11) the other
-by Isaac Luria <span id="fr_12"></span>[3](#fn_13) who was regarded by a
+founded by Moses Corduero, <span id="fr_11"></span>[2](#fn_11.md) the other
+by Isaac Luria <span id="fr_12"></span>[3](#fn_13.md) who was regarded by a
 few Jews as the forerunner of Messiah.
 
 Notwithstanding the superstitious veneration which these two instilled
@@ -102,21 +102,21 @@ latter.
 
 I shall set aside those writers who made but a passing mention of the
 Kabbalah; writers like Richard Simon, <span
-id="fr_14"></span>[4](#fn_14) Burnet (Archaeologic Philosoph. ch. 4) and
-Huttingen; <span id="fr_15"></span>[5](#fn_15) or those who, confining
+id="fr_14"></span>[4](#fn_14) Burnet (Archaeologic Philosoph. ch. 4.md) and
+Huttingen; <span id="fr_15"></span>[5](#fn_15.md) or those who, confining
 their researches to biography, bibliography and history proper, do no
 more than indicate the sources where to look, as, for instance, to
-Wolf, <span id="fr_16"></span>[6](#fn_16) to Basnage, <span
-id="fr_17"></span>[7](#fn_17) and to Bartolocci; <span
-id="fr_18"></span>[8](#fn_18) in a word, to writers who are content to
+Wolf, <span id="fr_16"></span>[6](#fn_16.md) to Basnage, <span
+id="fr_17"></span>[7](#fn_17.md) and to Bartolocci; <span
+id="fr_18"></span>[8](#fn_18.md) in a word, to writers who are content to
 sum up, sometimes to repeat what others have said. To the latter class
 belong, as far as our subject is concerned, the authors of the
 "Introduction to the Philosophy of the Hebrews," <span
-id="fr_19"></span>[9](#fn_19) and the modern historians of philosophy
+id="fr_19"></span>[9](#fn_19.md) and the modern historians of philosophy
 who more or less, copied Brucker, as Brucker himself put under
 contribution the more neo-platonic and Arabic than the Kabbalistic
 dissertations of the Spanish rabbi Abraham Cohen Herrera. <span
-id="fr_20"></span>[10](#fn_20) After all these eliminations I have still
+id="fr_20"></span>[10](#fn_20.md) After all these eliminations I have still
 to put forth prominently a number of authors who have made a more
 serious study of the esoteric doctrine of the Hebrews, or to whom we
 must at least accord the credit of having drawn that doctrine from the
@@ -135,12 +135,12 @@ Lullus was initiated in this mysterious science, and what influence it
 exercised over his own doctrines.
 
 Under no consideration will I affirm with a historian of
-philosophy <span id="fr_21"></span>[11](#fn_21) that Raymond Lullus drew
+philosophy <span id="fr_21"></span>[11](#fn_21.md) that Raymond Lullus drew
 from this science the identity of God and Nature. That much is certain,
 though, that he had a lofty idea of the Kabbalah, and that he regarded
 it as a divine science and as a true revelation, whose light shone for
 the illumination of the rational soul; <span
-id="fr_22"></span>[12](#fn_22) and it is permitted to suppose that the
+id="fr_22"></span>[12](#fn_22.md) and it is permitted to suppose that the
 artificial methods used by the Kabbalists to link their opinions with
 the words of the Holy Writ, and their frequent use of the substitution
 of numbers and letters for ideas and for words, contributed a great deal
@@ -149,7 +149,7 @@ Raymond Lullus has already made the distinction between ancient and
 modern Kabbalists more than two and a half centuries before the
 existence of the two contending schools of Luria and Cordovera, the
 period to which some modern critics wished to ascribe the birth of the
-entire Kabbalistic science. <span id="fr_23"></span>[13](#fn_23)
+entire Kabbalistic science. <span id="fr_23"></span>[13](#fn_23.md)
 
 The example given by the Majorcan philosopher remained unimitated for a
 long time; for after him the study of Kabbalah was forgotten until the
@@ -165,7 +165,7 @@ for their extensive learning, were yet very far from entering into all
 the depths and into all the difficulties of the subject.
 
 Pico de la Mirandola made efforts to reduce to a few propositions <span
-id="fr_24"></span>[14](#fn_24)--the sources of which he does not
+id="fr_24"></span>[14](#fn_24.md)--the sources of which he does not
 indicate and between which a connection can hardly be found--a system
 just as extensive, just as many sided and just as strongly built as the
 one which is the subject of our investigations. It is true that these
@@ -183,10 +183,10 @@ more systematic and more lucid, but he was less learned and,
 unfortunately, had not the gift of drawing from the richest sources
 which were most worthy of his confidence. No more than the Italian
 author who, though born after him, was in advance of him on this
-road, <span id="fr_25"></span>[15](#fn_25) did Reuchlin cite his
+road, <span id="fr_25"></span>[15](#fn_25.md) did Reuchlin cite his
 authorities; but it is easy to recognize in him the scant critical
-spirit of Joseph of Castile <span id="fr_26"></span>[16](#fn_26) and not
-of the spurious Abraham ben Dior, <span id="fr_27"></span>[17](#fn_27) a
+spirit of Joseph of Castile <span id="fr_26"></span>[16](#fn_26.md) and not
+of the spurious Abraham ben Dior, <span id="fr_27"></span>[17](#fn_27.md) a
 
 <span id="page_xxxiii">p. xxxiii</span>
 
@@ -208,7 +208,7 @@ Of the two works which have established Reuchlin's fame, only one, "de
 Arte Cabbalistica" (published in Hagenau, 1517, fol.), contains an
 ordered exposition of the esoteric doctrine of the Hebrews; the other,
 ("de Verbo Mirifico") which, in fact, was the first published, <span
-id="fr_28"></span>[18](#fn_28) is only an
+id="fr_28"></span>[18](#fn_28.md) is only an
 
 <span id="page_xxxvi">p. xxxvi</span>
 
@@ -238,7 +238,7 @@ Occulta Philosophia" (published in Cologne in 1533 and 1531), the
 enthusiastic defender of all the reveries of mysticism, the impassionate
 adept of all the fantastic arts; and the other, the discouraged skeptic
 who deplores the uncertainty and the vanity of the sciences." <span
-id="fr_29"></span>[19](#fn_29) It is certainly not the first
+id="fr_29"></span>[19](#fn_29.md) It is certainly not the first
 personality, as one might suppose, which rendered the most service to
 the study of the Kabbalah. On the contrary, by losing sight of the
 
@@ -252,7 +252,7 @@ little in turning away from the Kabbalah the grave and serious minds.
 But Agrippa, the skeptic, Agrippa recovered from all his intoxications,
 and, so to speak, restored to the use of reason, recognized the rare
 antiquity of the Kabbalistic ideas and their relationship to the various
-sects of Gnosticism; <span id="fr_30"></span>[20](#fn_30) and it was
+sects of Gnosticism; <span id="fr_30"></span>[20](#fn_30.md) and it was
 also he who pointed out the resemblance between the diverse attributes
 recognized by the Kabbalists, otherwise called the ten Sefiroth and the
 ten mystic names spoken of by St. Jerome in his letter to Marcella. (De
@@ -260,7 +260,7 @@ Occulta Philos., lib. 3, ch. 11.)
 
 As far as I know, Postel was the first to translate into Latin the most
 ancient and the most obscure monument of the Kabbalah: "The Book of
-Formation" (Sefer Yetzirah), <span id="fr_31"></span>[21](#fn_31) a work
+Formation" (Sefer Yetzirah), <span id="fr_31"></span>[21](#fn_31.md) a work
 ascribed at times by a fabulous tradition to the patriarch Abraham, at
 times even to Adam himself. As far as can be judged from this
 translation, which is as obscure as its text, it appears to us in
@@ -284,27 +284,27 @@ consequently, under the influence of Judaism; the other was devoted to
 the Christian Kabbalists, or to use the words of the author, "to those
 who professing Christianity are always distinguished by a pious and
 honest life, and whose writings, therefore, no one would repulse as
-Jewish ramblings." <span id="fr_32"></span>[22](#fn_32) This was a wise
+Jewish ramblings." <span id="fr_32"></span>[22](#fn_32.md) This was a wise
 precaution taken against the prejudices of his age. But only the last
-volume appeared. <span id="fr_33"></span>[23](#fn_33)
+volume appeared. <span id="fr_33"></span>[23](#fn_33.md)
 
 This volume contains, besides the Latin translation of the Sefer
 Yetzirah and the two works of Reuchlin already mentioned, also a
 mystical, altogether arbitrary commentary on Pico de la Mirandola's
-theses, <span id="fr_34"></span>[24](#fn_34) a Latin translation of the
+theses, <span id="fr_34"></span>[24](#fn_34.md) a Latin translation of the
 work of Joseph of Castile which served as basis for "de Verbo Mirifico"
 and, finally, different treatises of two Jewish authors, one of whom was
 led by the study of the Kabbalah to embrace Christianity; this one Paul
 Ricci (Paulus Riccius), the physician of Emperor Maximilian I; the other
 is the son of the renowned Abravanel, or Judah Abravanel, better known
-as Leon the Hebrew. <span id="fr_35"></span>[25](#fn_35) The latter
+as Leon the Hebrew. <span id="fr_35"></span>[25](#fn_35.md) The latter
 doubtless merits a distinguished place in the general history of
 Mysticism by his "Dialogues on Love," <span
-id="fr_36"></span>[26](#fn_36) of which there are
+id="fr_36"></span>[26](#fn_36.md) of which there are
 
 <span id="page_xxxix">p. xxxix</span>
 
-several translations in French. <span id="fr_37"></span>[27](#fn_37)
+several translations in French. <span id="fr_37"></span>[27](#fn_37.md)
 But, as his work bears but indirectly upon the Kabbalah, it will be
 sufficient to point out casually from one of the most important
 viewpoints the ideas whence similar conclusions were drawn.
@@ -314,8 +314,8 @@ mystical foundation of the same traditions, contents himself by
 following Reuchlin's lead at a distance; and like him, he tries to
 demonstrate, by Kabbalistic procedure, all the essential beliefs of
 Christianity. This is the character of his work "Of the Heavenly
-Agriculture." <span id="fr_38"></span>[28](#fn_38) He is also the author
-of an introduction to the Kabbalah <span id="fr_39"></span>[29](#fn_39)
+Agriculture." <span id="fr_38"></span>[28](#fn_38.md) He is also the author
+of an introduction to the Kabbalah <span id="fr_39"></span>[29](#fn_39.md)
 in which he confines himself to the summing up, somewhat briefly, the
 opinions expressed by his predecessors. But unlike them he does not date
 back the tradition which he explains, to the patriarchs or to the father
@@ -324,7 +324,7 @@ were already in vogue at the time when Christ began to preach his
 doctrine, and that they have paved the way for the new covenant; for,
 according to him, those thousands of Jews who adopted the Gospel without
 abandoning the faith of their fathers were no others but the Kabbalists
-of those days. <span id="fr_40"></span>[30](#fn_40)
+of those days. <span id="fr_40"></span>[30](#fn_40.md)
 
 I shall yet mention here Joseph Voysin, whose chief merit
 
@@ -332,7 +332,7 @@ I shall yet mention here Joseph Voysin, whose chief merit
 
 about the Kabbalah is that he faithfully translated from the Zohar
 several texts on the nature of the soul, <span
-id="fr_41"></span>[31](#fn_41) and then hasten to works more important
+id="fr_41"></span>[31](#fn_41.md) and then hasten to works more important
 at least because of the influence they exerted.
 
 The name of Kirchner can not be spoken without deep reverence. He was a
@@ -343,7 +343,7 @@ discoveries. But it is also known that this remarkable scholar did not
 shine through those qualities which go to make up the critic and the
 philosopher, and that at times he exhibits even uncommon credulity. Such
 is the character he shows all through his exposition of the doctrines of
-the Kabbalists. <span id="fr_42"></span>[32](#fn_42) Thus, he does not
+the Kabbalists. <span id="fr_42"></span>[32](#fn_42.md) Thus, he does not
 doubt for a moment that the Kabbalah was first brought to Egypt by the
 patriarch Abraham, and that from Egypt it spread gradually through the
 remainder of the Orient, mingling with all the religions and all the
@@ -372,7 +372,7 @@ letter and senseless symbols.
 On the subject occupying us, there is today no work more complete, more
 exact and more worthy of respect due to much labor and sacrifice, than
 that of Baron of Rosenroth or "the Kabbalah Unveiled." <span
-id="fr_43"></span>[33](#fn_43) There are precious texts in that book
+id="fr_43"></span>[33](#fn_43.md) There are precious texts in that book
 which are accompanied by generally faithful translations, among them the
 most ancient fragments of the Zohar, the most important work of the
 Kabbalah; and where there are no texts it gives extensive analyses and
@@ -394,7 +394,7 @@ of view, it is not beyond the lash of criticism. Although much too
 severe in some of his expressions, Budde was not unjust when he said:
 "it is an obscure and confused work in which the necessary and the
 unnecessary, the useful and the superfluous, are thrown together
-pell-mell, in the same chaos." <span id="fr_44"></span>[34](#fn_44)
+pell-mell, in the same chaos." <span id="fr_44"></span>[34](#fn_44.md)
 
 <span id="page_xlii">p. xlii</span>
 
@@ -405,7 +405,7 @@ their proper place, that is in the collected works of this author? And I
 would say the same of the pretended Kabbalistic work of Herrera. This
 Spanish rabbi, remarkable for his philosophical erudition, was not
 content to substitute the modern traditions of the school of Isaac
-Luria <span id="fr_45"></span>[35](#fn_45) for the true principles of
+Luria <span id="fr_45"></span>[35](#fn_45.md) for the true principles of
 the Kabbalah; but he found also the secret of disfiguring these
 principles by mingling with them the ideas of Plato, Aristotle,
 Plotinus, Avicenna and Pico de la Mirandola--in short, all that he knew
@@ -435,9 +435,9 @@ this way, by including all the traditions composing the Zohar, we would
 have had before our eyes the entire chain of Kabbalistic traditions,
 starting with the moment when they were first written down until the
 point when their secret was completely violated by Moses de Leon. <span
-id="fr_46"></span>[36](#fn_46) Had this task been too difficult, it
+id="fr_46"></span>[36](#fn_46.md) Had this task been too difficult, it
 would, at least, have been possible to have devoted some space to the
-esteemed works of Nachmanides, <span id="fr_47"></span>[37](#fn_47) the
+esteemed works of Nachmanides, <span id="fr_47"></span>[37](#fn_47.md) the
 defender of the celebrated Moses hen Maimon, and whose Kabbalistic
 knowledge inspired admiration so intense that it was said to have been
 brought to him by the prophet Elijah from heaven.
@@ -462,7 +462,7 @@ the author of an attempt to reconcile the two
 <span id="page_xliv">p. xliv</span>
 
 sciences to which he had consecrated equal devotion. <span
-id="fr_48"></span>[38](#fn_48) Wachter's attention was first turned to
+id="fr_48"></span>[38](#fn_48.md) Wachter's attention was first turned to
 the Kabbalah in this way: A protestant of the confession of Augsburg,
 seduced by this system to which he was otherwise a stranger, converted
 himself publicly to Judaism, discarded his real name (Johann Peter
@@ -498,7 +498,7 @@ the ancient Hebrews, as far
 <span id="page_xlv">p. xlv</span>
 
 as can be judged by certain of their traditions which have been altered
-in many ways." <span id="fr_49"></span>[39](#fn_49) Evidently, nothing
+in many ways." <span id="fr_49"></span>[39](#fn_49.md) Evidently, nothing
 but the Kabbalistic traditions are referred to in these lines; for those
 which the Jews collected in the Talmud are either recitals (Haggadah) or
 ceremonial laws (Halakah).
@@ -508,7 +508,7 @@ unity of substance, Spinoza adds: "It is this principle which some of
 the Hebrews seem to have perceived as through a cloud when they thought
 that God, the Intelligence of God and the objects under the action of
 that intelligence, as of one and the same thing." <span
-id="fr_50"></span>[40](#fn_50) The historical sense of these words can
+id="fr_50"></span>[40](#fn_50.md) The historical sense of these words can
 not be mistaken if we juxtapose them with the following lines translated
 nearly literally from a Kabbalistic work, the most faithful commentary
 to the Zohar: "The knowledge of the Creator is not like the knowledge of
@@ -528,7 +528,7 @@ this very existence by virtue of which they find themselves united
 
 with the source of their being; and in measure as they deviate from it,
 they sink from that sublime and perfect state." <span
-id="fr_51"></span>[41](#fn_51)
+id="fr_51"></span>[41](#fn_51.md)
 
 What conclusion can be drawn from these words? Is it that the ideas and
 the Carthesian method, that the altogether independent development of
@@ -539,7 +539,7 @@ strange paradox which we would not even attempt to refute. Moreover, it
 is easy to see by the very citations given as authority, that Spinoza
 had but a very summary and uncertain idea of the Kabbalah, the
 importance of which he could have recognized only after the creation of
-his own system. <span id="fr_52"></span>[42](#fn_52) But, strangely,
+his own system. <span id="fr_52"></span>[42](#fn_52.md) But, strangely,
 having stripped Spinoza of all originality for the benefit of the
 Kabbalah, Wachter turned that doctrine itself into a miserable
 plagiarism, a characterless compilation to which have contributed all
@@ -559,17 +559,17 @@ sublime science, recognized the
 <span id="page_xlvii">p. xlvii</span>
 
 divinity of Christ and all the truths of the Christian religion. <span
-id="fr_53"></span>[43](#fn_53) He naively confesses that he judged him
+id="fr_53"></span>[43](#fn_53.md) He naively confesses that he judged him
 previously without having known him, and that he was influenced against
 him by prejudices and excited passions when he recorded his first
-impressions. <span id="fr_54"></span>[44](#fn_54) He makes equally an
+impressions. <span id="fr_54"></span>[44](#fn_54.md) He makes equally an
 honorable apology to the Kabbalah by distinguishing two essentially
 different doctrines by that name: the modern Kabbalah lies under the
 weight of his scorn and anathema; but the ancient Kabbalah which,
 according to him, lasted until the council of Nice, was a traditional
 science of the highest order, the origin of which loses itself in
 mysterious antiquity. The first Christians, the oldest fathers of the
-Church, had no other philosophy; <span id="fr_55"></span>[45](#fn_55)
+Church, had no other philosophy; <span id="fr_55"></span>[45](#fn_55.md)
 and it is this philosophy which led Spinoza upon the road of Truth. The
 author stubbornly insists upon this point and makes it the centre of his
 researches.
@@ -615,7 +615,7 @@ less sensible than the question. The work which carried off the
 prize--very little known and not deserving to be known--certainly does
 not cast any new light upon the very nature of the Kabbalah and what
 concerns the origin of this system, it contents itself with reproducing
-the most defaced fables. <span id="fr_56"></span>[46](#fn_56) It shows
+the most defaced fables. <span id="fr_56"></span>[46](#fn_56.md) It shows
 the Kabbalistic ideas in the hymns of Orpheus and in the philosophy of
 Thales and Pythagoras; it makes them contemporaries of the patriarchs,
 and, without any hesitation it hands them to us as the ancient wisdom of
@@ -625,7 +625,7 @@ was of the sect of the Illuminati who, following the
 <span id="page_xlix">p. xlix</span>
 
 example of all such associations, dated its annals back to the very
-cradle of humanity. <span id="fr_57"></span>[47](#fn_57)
+cradle of humanity. <span id="fr_57"></span>[47](#fn_57.md)
 
 But Rational Theology--as it is called in Germany--that is that
 absolutely independent method of expounding the Holy Scriptures, of
@@ -636,7 +636,7 @@ which referred to the heresies of that day. It desired also to find
 therein the explanation of the first verses of the Gospel of St. John,
 and tried to make it useful either for the study of Gnosticism or for
 the study of ecclesiastic history in general. <span
-id="fr_58"></span>[48](#fn_58) Tiedemann and Tennemann, at the same
+id="fr_58"></span>[48](#fn_58.md) Tiedemann and Tennemann, at the same
 time, had given the Kabbalah a kind of deed of possession in the history
 of philosophy, which was at first consecrated to it by Brucker. There
 soon appeared the school of Hegel which could not fail to make use of a
@@ -712,7 +712,7 @@ AD. FRANCK.
 
 ### Footnotes
 
-<span id="fn_9"></span>[xxvii:1](rph08.htm#fr_9) The Hebrew word ‏קבלה‎
+<span id="fn_9"></span>[xxvii:1](rph08.htm#fr_9.md) The Hebrew word ‏קבלה‎
 (Kabbalah), as its root ‏קבל‎ indicates, expresses the action of
 receiving: a doctrine received by tradition. The word Masorah (‏מסורה‎)
 designates the action of transmitting; a doctrine transmitted by
@@ -720,9 +720,9 @@ tradition. The orthography herein used has been used in Germany a long
 time (Kabbalah instead of Cabbala). It seems the orthography best fitted
 to the pronounciation of the Hebrew term, and it is the orthography
 recommended as most exact by Raymond Lullus in his book "de Auditu
-Kabbalistico." <span id="fr_10"></span>[1a](#fn_10)
+Kabbalistico." <span id="fr_10"></span>[1a](#fn_10.md)
 
-<span id="fn_10"></span>[xxvii:1a](rph08.htm#fr_10) The possible reason
+<span id="fn_10"></span>[xxvii:1a](rph08.htm#fr_10.md) The possible reason
 that the Kabbalists preferred to call their doctrine ‏קבלה‎ (acceptio)
 and not ‏מסורה‎ (traditio)--compare Peter Beer: Geschichte, Lehren and
 Meinungen aller bestandenen and noch bestehenden religioesen Secten der
@@ -731,54 +731,54 @@ name in which the term "teaching" is especially conspicuous; for the
 secret doctrine was to be imparted only to the pious who has been well
 tried and who has attained full manhood. Jellinek.
 
-<span id="fn_11"></span>[xxix:2](rph08.htm#fr_11) In Hebrew the name is
+<span id="fn_11"></span>[xxix:2](rph08.htm#fr_11.md) In Hebrew the name is
 ‏ר׳ משה קורדואירז‎, and perhaps the pronounciation should be Cordovero.
 Of Spanish origin, he flourished toward the middle of the sixteenth
 century, in Sephath, in Lower Galilee. <span
-id="fr_13"></span>[\*](#fn_12) His principal work was the "Garden of
+id="fr_13"></span>[\*](#fn_12.md) His principal work was the "Garden of
 Pomegranates" (‏פררם רמונים‎) published in Cracow. His little treatise
 on Mystic Ethics, "Deborah's Palm Tree" (‏תמר דבורה‎), was published in
 Mantua in 1623.
 
-<span id="fn_12"></span>[xxix:\*](rph08.htm#fr_13) More correctly in
+<span id="fn_12"></span>[xxix:\*](rph08.htm#fr_13.md) More correctly in
 Upper Galilee.--Jellinek.
 
-<span id="fn_13"></span>[xxix:3](rph08.htm#fr_12) In Hebrew Luria's name
+<span id="fn_13"></span>[xxix:3](rph08.htm#fr_12.md) In Hebrew Luria's name
 was ‏ר׳ יצחק אשבנזי‎ or, abbreviated ‏האר״ י‎. He also died in Sephath
 in 1572. Apart from detached treatises which show no proof of
 authenticity, he published nothing more. But his disciple, Chaim Vital,
 collected all his opinions into one system and embodied them under the
 title ‏עץ חיים‎.
 
-<span id="fn_14"></span>[xxx:4](rph08.htm#fr_14) Critical History of the
+<span id="fn_14"></span>[xxx:4](rph08.htm#fr_14.md) Critical History of the
 Old Testament, tome I, ch. 7.
 
-<span id="fn_15"></span>[xxx:5](rph08.htm#fr_15) Thes. philolog. and in
+<span id="fn_15"></span>[xxx:5](rph08.htm#fr_15.md) Thes. philolog. and in
 other writings--Discursus gemaricus de imcestu, etc.
 
-<span id="fn_16"></span>[xxx:6](rph08.htm#fr_16) Bibliotheca Hebraica,
+<span id="fn_16"></span>[xxx:6](rph08.htm#fr_16.md) Bibliotheca Hebraica,
 Hamb., 1721. 4 vols. 4 to.
 
-<span id="fn_17"></span>[xxx:7](rph08.htm#fr_17) Histoire des Juifs,
+<span id="fn_17"></span>[xxx:7](rph08.htm#fr_17.md) Histoire des Juifs,
 Paris and the Hague.
 
-<span id="fn_18"></span>[xxx:8](rph08.htm#fr_18) Magna Bibliotheca
+<span id="fn_18"></span>[xxx:8](rph08.htm#fr_18.md) Magna Bibliotheca
 Rabbinica. 4 vols. fol.
 
-<span id="fn_19"></span>[xxx:9](rph08.htm#fr_19) J. F. Buddeus,
+<span id="fn_19"></span>[xxx:9](rph08.htm#fr_19.md) J. F. Buddeus,
 Introductio ad Historiam philosophiae Hebraeorum, Halle, 1702 and 1721.
 8 Vo.
 
-<span id="fn_20"></span>[xxx:10](rph08.htm#fr_20) Yerira or Herera,
+<span id="fn_20"></span>[xxx:10](rph08.htm#fr_20.md) Yerira or Herera,
 belonged to the seventeenth century. His chief work, "Porta Coelorum"
 (the Gate of the Heavens) was composed in Spanish, his mother tongue,
 and translated first into Hebrew then into Latin by the author of the
 Kabbalah denudata. (This will be spoken of further on in this book.)
 
-<span id="fn_21"></span>[xxxi:11](rph08.htm#fr_21) Tennemann, Geschichte
+<span id="fn_21"></span>[xxxi:11](rph08.htm#fr_21.md) Tennemann, Geschichte
 der Philosophie, Vol. VIII, p. 837.
 
-<span id="fn_22"></span>[xxxi:12](rph08.htm#fr_22) Dicitur haec doctrina
+<span id="fn_22"></span>[xxxi:12](rph08.htm#fr_22.md) Dicitur haec doctrina
 Kabbala quod idem est secundum Hebraeos ut receptio veritatis cujus
 libet rei divinitis revelatae animae rationali . . . Est igitur Kabbala
 habitus anima rationalis ex recta ratione divinarum rerum cognitivus;
@@ -786,25 +786,25 @@ proper quod est de maximo etiam divino consequutive divina scientia
 vocari debet.--"De Auditu Kabbalistico, sive ad omnes scientias
 introductorium." Strasburg, 1651.
 
-<span id="fn_23"></span>[xxxi:13](rph08.htm#fr_23) Ibid, as above. The
+<span id="fn_23"></span>[xxxi:13](rph08.htm#fr_23.md) Ibid, as above. The
 opinion here mentioned will be fully discussed further on, in Part I of
 this book.
 
-<span id="fn_24"></span>[xxxii:14](rph08.htm#fr_24) Conclusiones
+<span id="fn_24"></span>[xxxii:14](rph08.htm#fr_24.md) Conclusiones
 cabalisticae, numero XLVII, secundum secretam doctrinam sapientium
 Hebraeorum, etc. Vol. I, p. 54 of his works, Basle edition. They were
 first published at Rome in 1486.
 
-<span id="fn_25"></span>[xxxii:15](rph08.htm#fr_25) Reuchlin was born in
+<span id="fn_25"></span>[xxxii:15](rph08.htm#fr_25.md) Reuchlin was born in
 1455; Juan Pico de la Mirandola in 1465.
 
-<span id="fn_26"></span>[xxxii:16](rph08.htm#fr_26) In Hebrew ‏יוספ
+<span id="fn_26"></span>[xxxii:16](rph08.htm#fr_26.md) In Hebrew ‏יוספ
 גיקטילא‎, Joseph ben Abraham Gikatilla. He was the author of a book
 entitled: "The Gate of Light" ‏שער אורת‎ which Paul Ricci translated
 into Latin and which Reuchlin apparently took as basis for his "de Verbo
 Mirifico."
 
-<span id="fn_27"></span>[xxxii:17](rph08.htm#fr_27) He is known under
+<span id="fn_27"></span>[xxxii:17](rph08.htm#fr_27.md) He is known under
 the name of ‏ראב״ד‎ (RABD), i.e., Rabbi Abraham ben David, or ben Dior.
 His commentary on the Sefer <span id="page_xxxiii">p. xxxiii</span>
 Yetzirah (in Hebrew) was printed with the text at Mantua in 1562, and at
@@ -815,7 +815,7 @@ Moses de Leon, to whom it was attempted to attribute the compilation of
 the Zohar. (See Geiger's "Scientific Journal for Jewish Theology," Vol.
 II, p. 312.)
 
-<span id="fn_28"></span>[xxxiii:18](rph08.htm#fr_28) Published in Basle
+<span id="fn_28"></span>[xxxiii:18](rph08.htm#fr_28.md) Published in Basle
 in 1494, fol. As this work is extremely rare and of great interest to
 the history of Mysticism, I feel obliged to give here a summary idea of
 its contents. Like "de Arte Cabbalistica" it is in the form of a
@@ -964,48 +964,48 @@ King and Lord of the chosen people. During the reign of Grace, He is
 called "Jesus," the "Deliverer," (‏יהשוה‎--Y’hoshu-ah) a point of view
 that does not lack truth and grandeur.
 
-<span id="fn_29"></span>[xxxvi:19](rph08.htm#fr_29) "De Incertudine et
+<span id="fn_29"></span>[xxxvi:19](rph08.htm#fr_29.md) "De Incertudine et
 vanitate scientiarum." Cologne, 1527; Paris, 1529; Antwerp, 1530.
 
-<span id="fn_30"></span>[xxxvii:20](rph08.htm#fr_30) "Ex hoc
+<span id="fn_30"></span>[xxxvii:20](rph08.htm#fr_30.md) "Ex hoc
 cabalisticae superstitionis judaico fermento prodierunt, Auto, Ophitae,
 Gnostici et Valentiniani haeretici, qui ipsi quoque cum discipulis suis
 graecam quamdam cabalam commenti sunt," etc. De Vanitate scient, c. 47.
 
-<span id="fn_31"></span>[xxxvii:21](rph08.htm#fr_31) Abrahami
+<span id="fn_31"></span>[xxxvii:21](rph08.htm#fr_31.md) Abrahami
 patriarchae liber Jezirah, ex hebraeo versus et coinmentariis
 illustratus a Guilelmo Postello. Paris, 1552, 16mo.
 
-<span id="fn_32"></span>[xxxviii:22](rph08.htm#fr_32) Scriptores collegi
+<span id="fn_32"></span>[xxxviii:22](rph08.htm#fr_32.md) Scriptores collegi
 qui christianam religionem professi, religiose honesteque vixerunt et
 quorum propterea libros, tanquam judaicam delirationem, detestari nemo
 potest.--Praef., p. 2.
 
-<span id="fn_33"></span>[xxxviii:23](rph08.htm#fr_33) Artis
+<span id="fn_33"></span>[xxxviii:23](rph08.htm#fr_33.md) Artis
 cabalisticae, h.e. reconditae theologiae et philosophiae scriptorum.
 Tome I. Basel, 1587, fol.
 
-<span id="fn_34"></span>[xxxviii:24](rph08.htm#fr_34) Archangeli
+<span id="fn_34"></span>[xxxviii:24](rph08.htm#fr_34.md) Archangeli
 Burgonovensis interpretationes in selectiora obscurioraque Cabalistorum
 dogmata. Ib. supr.
 
-<span id="fn_35"></span>[xxxviii:25](rph08.htm#fr_35) An exhaustive
+<span id="fn_35"></span>[xxxviii:25](rph08.htm#fr_35.md) An exhaustive
 character sketch of him and his times (by Delitsch) is given in Fuerst's
 "Orient," Year 1840.--Jellinek.
 
-<span id="fn_36"></span>[xxxviii:26](rph08.htm#fr_36) They were
+<span id="fn_36"></span>[xxxviii:26](rph08.htm#fr_36.md) They were
 translated into Italian under the title, "Dialoghi de amore, composti
 per Leone Medico, di natione hebreo e di poi fatto christiano," Rome
 1535, 4to, and Venice, 1541. It is to be noted, though, that he is cited
 by Herrera among the Jewish philosophers (philasophorum nostratium) as
 Rabbi Judah Abarbanel. (Irir. Porta coelor. Dissert. II, ch. 2).
 
-<span id="fn_37"></span>[xxxix:27](rph08.htm#fr_37) There is one Latin
+<span id="fn_37"></span>[xxxix:27](rph08.htm#fr_37.md) There is one Latin
 translation by Sarasin; three French by Sauvage, Pontus de Thiard and du
 Pare; four Spanish by Montesa, Garcilasso de la Vega, Yahija and Juan
 Costa of Arragonia.--Jellinek.
 
-<span id="fn_38"></span>[xxxix:28](rph08.htm#fr_38) "De celesti
+<span id="fn_38"></span>[xxxix:28](rph08.htm#fr_38.md) "De celesti
 Agricultura," comprising four books. The first is a refutation of the
 philosophers who repulse Christianity as contrary to reason; the second
 is directed against modern Judaism, against the Talmudic system, and
@@ -1016,93 +1016,93 @@ one do his part, and by calling all to catholic unity; in the fourth
 volume only does the author treat of the Kabbalah and of the use that
 can be made of it for the conversion of the Jews.
 
-<span id="fn_39"></span>[xxxix:29](rph08.htm#fr_39) Isagoge in
+<span id="fn_39"></span>[xxxix:29](rph08.htm#fr_39.md) Isagoge in
 Cabbalistarum eruditionem et introductoria theoremata cabalistica.
 
-<span id="fn_40"></span>[xxxix:30](rph08.htm#fr_40) ". . . Cabala cujus
+<span id="fn_40"></span>[xxxix:30](rph08.htm#fr_40.md) ". . . Cabala cujus
 praecipui (haud dubie) fuere cultores primi hebraeorum Christi auditorum
 et sacram ejus doctrinam atque fidei pietatem amplectentium, aemuli
 tamen paternae legis." De Coelesti Agricultura, lib. IV, ad init.
 
-<span id="fn_41"></span>[xl:31](rph08.htm#fr_41) Disputatio cabalistica
+<span id="fn_41"></span>[xl:31](rph08.htm#fr_41.md) Disputatio cabalistica
 R. Israel filii Mosis de anima, etc. Adjectis commentariis ex Zohar;
 Paris, 1655. His Theologia Judaeorum contains nothing of the Kabbalah.
 
-<span id="fn_42"></span>[xl:32](rph08.htm#fr_42) Oedipus Aegyptiacus,
+<span id="fn_42"></span>[xl:32](rph08.htm#fr_42.md) Oedipus Aegyptiacus,
 vol. II, part I. This work was published at Rome from 1652 to 1654.
 
-<span id="fn_43"></span>[xli:33](rph08.htm#fr_43) Kabbala Denudata, seu
+<span id="fn_43"></span>[xli:33](rph08.htm#fr_43.md) Kabbala Denudata, seu
 Doctrina Haebraeorum transcendentalis, etc., tome II, Solisb., 1677, 4
 to, tome II, liber Zohar restitutus. Franck, 1684, 4to.
 
-<span id="fn_44"></span>[xli:34](rph08.htm#fr_44) "Confusum et obscurum
+<span id="fn_44"></span>[xli:34](rph08.htm#fr_44.md) "Confusum et obscurum
 opus, in quo necessaria cum non necessariis, <span id="page_xlii">p.
 xlii</span> utilia cum inutilibis, confusa sunt, et in unum velut chaos
 conjecta."--Introd. ad Philos. hebr.
 
-<span id="fn_45"></span>[xlii:35](rph08.htm#fr_45) He himself said that
+<span id="fn_45"></span>[xlii:35](rph08.htm#fr_45.md) He himself said that
 having been taught by Israel Serug, the immediate disciple of Luria, he
 was of Luria's school.--Porta coelor IV, eh. 8).
 
-<span id="fn_46"></span>[xliii:36](rph08.htm#fr_46) Information
+<span id="fn_46"></span>[xliii:36](rph08.htm#fr_46.md) Information
 concerning all the names cited will he found in the first part of this
 book.
 
-<span id="fn_47"></span>[xliii:37](rph08.htm#fr_47) Nachmanides or Moses
+<span id="fn_47"></span>[xliii:37](rph08.htm#fr_47.md) Nachmanides or Moses
 hen Nachman, called by abbreviation Ramban (‏רמב״ן‎, was born in
 Granada, and flourished toward the close of the thirteenth century. He
 was a doctor, a philosopher and, more than all, a Kabbalist. His chief
 works are: "Commentary on the Pentateuch" ‏ביאור על התורה‎ "The Book of
 Faith and Hope" (‏ספר אמונה והבטחון‎) and the "Law of Man" ‏תורת האדם‎.
 
-<span id="fn_48"></span>[xliv:38](rph08.htm#fr_48) The work in which he
+<span id="fn_48"></span>[xliv:38](rph08.htm#fr_48.md) The work in which he
 pursued that aim has for title: "Concordia rationis et fidei, sive
 Harmonia philosphiae moralis et religionis Christianae." Amst., 1692,
 8vo).
 
-<span id="fn_49"></span>[xlv:39](rph08.htm#fr_49) Omnia, inquam, in Deo
+<span id="fn_49"></span>[xlv:39](rph08.htm#fr_49.md) Omnia, inquam, in Deo
 esse, et in Deo moveri cum Paulo affirmo, et forte etiam cum omnibus
 antiquis philosophis, licet alio modo, et auderem etiam dicere, cum
 antiquis omnibus Hebraeis, quantum ex quibusdam traditionibus, tametsi
 multis modis adulteratis conjicere licet.--Epist. XXI.
 
-<span id="fn_50"></span>[xlv:40](rph08.htm#fr_50) Hoc quidam Hebraeorum
+<span id="fn_50"></span>[xlv:40](rph08.htm#fr_50.md) Hoc quidam Hebraeorum
 quasi per nebulam vidisse yidentur, qui silicet etatuunt Deum, Dei
 intellectum, resque ab ipso intellectas, unum et ideas esse.--Eth. part
 II, prop. 7, Schol.
 
-<span id="fn_51"></span>[xlvi:41](rph08.htm#fr_51) Moses Cordovero,
+<span id="fn_51"></span>[xlvi:41](rph08.htm#fr_51.md) Moses Cordovero,
 "Pardes Rimonim," fol. 55a.
 
-<span id="fn_52"></span>[xlvi:42](rph08.htm#fr_52) He knew the modern
+<span id="fn_52"></span>[xlvi:42](rph08.htm#fr_52.md) He knew the modern
 Kabbalists much better, or, at least some of them, against whom he did
 not spare some abusive epithets: Logi etiam et in super novi nugatores
 alique kabbalistas, quorum insaniam numquam mirari satis potui. (Tract.
 theolo. polit., ch. 9.) It would be absurd to wish to apply this phrase
 to the Kabbalists in general.
 
-<span id="fn_53"></span>[xlvii:43](rph08.htm#fr_53) Non defuerunt viri
+<span id="fn_53"></span>[xlvii:43](rph08.htm#fr_53.md) Non defuerunt viri
 docti, qui posthabita philosophia vulgari, reconditam et antiquissimam
 Hebraeorum sectarentur. Quos inter memorandus mihi est Benedictus de
 Spinoza, qui ex philosophiae hujus rationibus, divinitatem Christi atque
 circa veritatem universae religionis christianae agnovit.--Elucid. Cab.
 praef., p. 7.
 
-<span id="fn_54"></span>[xlvii:44](rph08.htm#fr_54) Ib. supr., p. 13.
+<span id="fn_54"></span>[xlvii:44](rph08.htm#fr_54.md) Ib. supr., p. 13.
 
-<span id="fn_55"></span>[xlvii:45](rph08.htm#fr_55) Haec philosophia, ab
+<span id="fn_55"></span>[xlvii:45](rph08.htm#fr_55.md) Haec philosophia, ab
 Hebraeis accepta, et sacris Ecclesiae patribus tantopere commendata,
 post tempora nicaena mox expiravit.--Ib. supr.
 
-<span id="fn_56"></span>[xlviii:46](rph08.htm#fr_56) On the nature and
+<span id="fn_56"></span>[xlviii:46](rph08.htm#fr_56.md) On the nature and
 origin of the Kabbalists' doctrine of Emanation. Riga, 1786, 8.
 
-<span id="fn_57"></span>[xlix:47](rph08.htm#fr_57) See Tholuck, de Ortu
+<span id="fn_57"></span>[xlix:47](rph08.htm#fr_57.md) See Tholuck, de Ortu
 Cabbalae, Hamb., 1837, p. 3. Tholuck, de Ortu Cabbalae, 1837, p. 4.
 
-<span id="fn_58"></span>[xlix:48](rph08.htm#fr_58) Kabbalismus et
+<span id="fn_58"></span>[xlix:48](rph08.htm#fr_58.md) Kabbalismus et
 Pantheismus by M. Freystadt, Koenigsberg, 1832.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](rph09)
+[Next: Introduction](rph09.md)

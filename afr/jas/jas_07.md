@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas149)  [Next](jas150) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas149)  [Next](jas150.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,4 +7,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Old-time Fools.](jas150)
+[Next: Old-time Fools.](jas150.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq74)  [Next](sfq76) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq74)  [Next](sfq76.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ lovers, blew up a bitter storm of adversity.
 
 ------------------------------------------------------------------------
 
-[Next: In the Brigands' Den](sfq76)
+[Next: In the Brigands' Den](sfq76.md)

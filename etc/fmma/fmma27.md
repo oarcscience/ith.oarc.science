@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma26)  [Next](fmma28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma26)  [Next](fmma28.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ independence and acknowledged Bruce as her king.
 
 ------------------------------------------------------------------------
 
-[Next: Marco Polo. Lived From 1254-1324](fmma28)
+[Next: Marco Polo. Lived From 1254-1324](fmma28.md)

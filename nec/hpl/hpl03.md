@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl02)  [Next](hpl04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl02)  [Next](hpl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -218,4 +218,4 @@ window! The window!
 
 ------------------------------------------------------------------------
 
-[Next: Memory (1919)](hpl04)
+[Next: Memory (1919)](hpl04.md)

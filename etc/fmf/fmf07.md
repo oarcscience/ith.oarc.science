@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf06)  [Next](fmf08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf06)  [Next](fmf08.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ MORAL: Be Dignified and Serious, if possible.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Husband Who Showed Up and Did the Best He Knew
-How](fmf08)
+How](fmf08.md)

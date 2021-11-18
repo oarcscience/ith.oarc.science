@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth07)  [Next](oth09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth07)  [Next](oth09.md) 
 
 ------------------------------------------------------------------------
 
@@ -138,4 +138,4 @@ number the various places are.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](oth09)
+[Next: Chapter 9](oth09.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal010)  [Next](njal012) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal010)  [Next](njal012.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ a blow on the head, and he fell dead on the spot.
 
 ------------------------------------------------------------------------
 
-[Next: 12. Thiostolf's Flight](njal012)
+[Next: 12. Thiostolf's Flight](njal012.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil48)  [Next](egil50) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil48)  [Next](egil50.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ the king and of the queen.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XLIX. Slaying of Thorvald Proud.](egil50)
+[Next: CHAPTER XLIX. Slaying of Thorvald Proud.](egil50.md)

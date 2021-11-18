@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft42)  [Next](ftft44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft42)  [Next](ftft44.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_334">p. 334</span>
 
-<span id="img_33400"></span> ![The Forlorn Princess](img/33400.jpg)
+<span id="img_33400"></span> ![The Forlorn Princess](img/33400.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who had a daughter. This being his only child,
 the monarch lavished all his affection upon her and was never happy
@@ -56,7 +56,7 @@ half-man, half-dew, entered.<span id="img_33500"></span>
 
 |                                               |
 |-----------------------------------------------|
-| ![A half-man half-dew entered](img/33500.jpg) |
+| ![A half-man half-dew entered](img/33500.jpg.md) |
 
 The maiden trembled with fright at sight of the creature, and could not
 take her eyes off him. He went straight to the kitchen and observed that
@@ -84,7 +84,7 @@ retired to rest.<span id="img_33600"></span>
 
 |                                                                  |
 |------------------------------------------------------------------|
-| ![The Arab returned with a bundle of clean linen](img/33600.jpg) |
+| ![The Arab returned with a bundle of clean linen](img/33600.jpg.md) |
 
 Next morning the maiden rose betimes, and when the Dew had drunk his
 coffee, smoked his chibouque, and eaten his meal, he said to her: "My
@@ -98,7 +98,7 @@ Opening the door of the room indicated she called "Dady!"
 <span id="img_33601"></span>
 
 [![](tn/33601.jpg)  
-Click to enlarge](img/33601.jpg)
+Click to enlarge](img/33601.jpg.md)
 
 <span id="page_337">p. 337</span>
 
@@ -157,7 +157,7 @@ returned lest he should discover it and wreak his vengeance upon her.
 
 |                     |
 |---------------------|
-| ![M](img/minit.jpg) |
+| ![M](img/minit.jpg.md) |
 
 EANWHILE the Shahzada went to his father, saying: "Dear father and Shah!
 A certain Dew has a lovely daughter with whom I am deeply in love.
@@ -229,7 +229,7 @@ into another diamond-tree.
 
 |                                                            |
 |------------------------------------------------------------|
-| ![''Take hold of this foot,'' said the Dew](img/34000.jpg) |
+| ![''Take hold of this foot,'' said the Dew](img/34000.jpg.md) |
 
 Now said the Dew, "Take hold of this foot." His daughter did so and it
 broke off. It was put into a corner, where it became a golden stool. The
@@ -278,4 +278,4 @@ forty nights of festivities celebrated the happy event.
 
 ------------------------------------------------------------------------
 
-[Next: The Beautiful Helwa Maiden](ftft44)
+[Next: The Beautiful Helwa Maiden](ftft44.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi105)  [Next](mtsi107) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi105)  [Next](mtsi107.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ off. Then he returned to his camp, brought in a log, wrapped a blanket
 around it, laid it down and waited at, a little distance. He stood by a
 tree holding his gun.
 
-Now the [alligator](errata.htm#1) came back again and acted as before,
+Now the [alligator](errata.htm#1.md) came back again and acted as before,
 taking the log in its mouth. The man aimed at its mouth, and, when he
 fired, it ran away. Then he went off and slept. In the morning he came
 back. When he went to look for the alligator he came to a pond near
@@ -25,4 +25,4 @@ which was a nest. He saw the alligator lying bent over the nest dead.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Story of the Lizard](mtsi107)
+[Next: 14. Story of the Lizard](mtsi107.md)

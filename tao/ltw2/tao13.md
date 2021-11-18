@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao13)   
-[Previous](tao12)  [Next](tao14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao13.md)   
+[Previous](tao12)  [Next](tao14.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ he is best qualified to govern the empire.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 14](tao14)
+[Next: Chapter 14](tao14.md)

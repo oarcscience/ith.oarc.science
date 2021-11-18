@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc39)  [Next](mtc41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc39)  [Next](mtc41.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ Suddenly I find it is two years since I came to Chung-chou.
 Through my closed doors I hear nothing but the morning and evening
 drum;  
 From my upper windows all I see is the ships that come and go <span
-id="fr_27"></span>[1](#fn_25)  
+id="fr_27"></span>[1](#fn_25.md)  
 In vain the orioles tempt me with their song to stray beneath the
 flowering trees;  
 In vain the grasses lure me by their colour to sit beside the pond.  
@@ -38,7 +38,7 @@ rocks.
 
 ### Footnotes
 
-<span id="fn_25"></span>[70:1](mtc40.htm#fr_27) "The Emperor Saga of
+<span id="fn_25"></span>[70:1](mtc40.htm#fr_27.md) "The Emperor Saga of
 Japan (reigned A. D. 810-23) one day quoted to his Minister, Ono no
 Takamura, the couplet:
 
@@ -58,6 +58,6 @@ Emperor, to whom it belonged, had allowed no one to see it."—From the
 
 ------------------------------------------------------------------------
 
-[Next: After Collecting the Autumn Taxes](mtc41)
+[Next: After Collecting the Autumn Taxes](mtc41.md)
 
 </div>

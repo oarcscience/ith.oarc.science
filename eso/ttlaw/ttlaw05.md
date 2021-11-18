@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](ttlaw04) 
-[Next](ttlaw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](ttlaw04.md) 
+[Next](ttlaw06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -363,7 +363,7 @@ clearer ideas on this subject than we have. "The name was to the
 Egyptians the *idea* of the thing, without which it could not exist, and
 the knowledge of which therefore gave power over that which answered to
 it." "The *idea* of the thing represented its *soul*." <span
-id="fr_1"></span>[1](#fn_1) This is the same conception as the
+id="fr_1"></span>[1](#fn_1.md) This is the same conception as the
 "archetypal ideas" of Plato, only carried further, so as to apply, not
 only to classes, but to each individual of the class, and, as we shall
 see later, there is a good deal of truth in it.
@@ -689,9 +689,9 @@ the creative value of our word will grow accordingly.
 
 ### Footnotes
 
-<span id="fn_1"></span>[59:1](ttlaw05.htm#fr_1) "Out of Egypt" by Miss
+<span id="fn_1"></span>[59:1](ttlaw05.htm#fr_1.md) "Out of Egypt" by Miss
 Crouse. Gorham Press, Boston. U. S. A.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Law of Wholeness](ttlaw06)
+[Next: Chapter IV. The Law of Wholeness](ttlaw06.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas142n)  [Next](jas145n)   
- \[[143. Red Yam.](jas143)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas142n)  [Next](jas145n.md)   
+ \[[143. Red Yam.](jas143.md)\]
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ number 23.
 
 ------------------------------------------------------------------------
 
-[Next: Note 145. Fowl and Pretty Poll.](jas145n)
+[Next: Note 145. Fowl and Pretty Poll.](jas145n.md)

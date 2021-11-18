@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus31)  [Next](csus33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus31)  [Next](csus33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -295,7 +295,7 @@ failures of communistic experiments in this country, begun by people of
 culture and means, with a sincere desire to live the "better life." J.
 H. Noyes, the founder of the Perfectionist communes, gives, in his book
 on "American Socialisms," brief accounts of not less than forty-seven
-failures, <span id="fr_28"></span>[\*](#fn_28) many of them experiments
+failures, <span id="fr_28"></span>[\*](#fn_28.md) many of them experiments
 which promised well at first, and whose founders were high-minded,
 highly cultivated men and women, with sufficient means, one would think,
 to achieve success.
@@ -357,7 +357,7 @@ which I have spoken—for even the Icarians recall them.
 
 ### Footnotes
 
-<span id="fn_28"></span>[407:\*](csus32.htm#fr_28) Here is a list of
+<span id="fn_28"></span>[407:\*](csus32.htm#fr_28.md) Here is a list of
 titles, which I take from Noyes: The Alphadelphia Phalanx, Hopedale
 Community, Leroysville Phalanx, Bloomfield Association, Blue Springs
 Community, North American Phalanx, Ohio Phalanx, Brook Farm, Bureau
@@ -373,4 +373,4 @@ and the Peace Union Settlement.
 
 ------------------------------------------------------------------------
 
-[Next: IV.—Conditions and Possibilities of Communistic Living.](csus33)
+[Next: IV.—Conditions and Possibilities of Communistic Living.](csus33.md)

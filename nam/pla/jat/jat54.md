@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat53)  [Next](jat55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat53)  [Next](jat55.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ and asks for meat in vain."
 
 ------------------------------------------------------------------------
 
-[Next: 53. The Governor, Old Woman White Hands](jat55)
+[Next: 53. The Governor, Old Woman White Hands](jat55.md)

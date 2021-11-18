@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa09)  [Next](toa11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa09)  [Next](toa11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -82,7 +82,7 @@ master. Still, there was blood enough to bring fierce shouts from their
 adherents on the benches.
 
 Morse turned away from the action. He saw the beautiful mouth of Rana
-take on [cruel](errata.htm#7) lines, saw her eyes glaze with crimson
+take on [cruel](errata.htm#7.md) lines, saw her eyes glaze with crimson
 like some fierce beast. There was no hypnosis here. Morse knew Rana now;
 knew she could never hold him in trance again. He turned to Kiron who
 watched somewhat wearily, while making expert comments on the moves of
@@ -378,6 +378,6 @@ Milo. I yield my wreath."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX—The Initiation](toa11)
+[Next: Chapter IX—The Initiation](toa11.md)
 
 </div>

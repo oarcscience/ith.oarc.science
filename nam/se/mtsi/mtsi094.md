@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi093)  [Next](mtsi095) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi093)  [Next](mtsi095.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,9 +11,9 @@ American](../../index)  [Southeast](../index)  [Index](index) 
 
 ### 1. BEAR, TIGER, RATTLESNAKE, AND FIRE (12)
 
-Fire was going to teach Bear, Tiger, <span id="fr_23"></span>[1](#fn_23)
+Fire was going to teach Bear, Tiger, <span id="fr_23"></span>[1](#fn_23.md)
 and Rattlesnake together while they fasted. <span
-id="fr_24"></span>[2](#fn_24) While Fire was teaching them, all were to
+id="fr_24"></span>[2](#fn_24.md) While Fire was teaching them, all were to
 stay in one place, but Bear got tired and ran away. They had said Bear
 was to receive a rattle, and when he ran away Bear took the rattle with
 him and disappeared.
@@ -37,12 +37,12 @@ that it was through the fire that they received it. So it is said.
 
 ### Footnotes
 
-<span id="fn_23"></span>[87:1](mtsi094.htm#fr_23) Meaning Panther.
+<span id="fn_23"></span>[87:1](mtsi094.htm#fr_23.md) Meaning Panther.
 
-<span id="fn_24"></span>[87:2](mtsi094.htm#fr_24) This is in accordance
+<span id="fn_24"></span>[87:2](mtsi094.htm#fr_24.md) This is in accordance
 with the old usage when youth were initiated into the secrets of
 medicine.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Origin of Tobacco](mtsi095)
+[Next: 2. The Origin of Tobacco](mtsi095.md)

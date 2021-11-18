@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt41)  [Next](egt43) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt41)  [Next](egt43.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ will be altogether ruined.
 
 ------------------------------------------------------------------------
 
-[Next: A STORY.](egt43)
+[Next: A STORY.](egt43.md)

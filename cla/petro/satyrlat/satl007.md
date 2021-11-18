@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#VII)  [Previous](satl006) 
-[Next](satl008) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#VII)  [Previous](satl006.md) 
+[Next](satl008.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ ridens eum consalutavi, quid in loco tam deformi faceret quaesivi.
 
 ------------------------------------------------------------------------
 
-[Next: VIII](satl008)
+[Next: VIII](satl008.md)

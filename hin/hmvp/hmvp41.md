@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp40)  [Next](hmvp42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp40)  [Next](hmvp42.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -20,11 +20,11 @@ Intangible Textual Heritage
 connected with each other, a separate account of each would necessitate
 frequent repetition; they will therefore be noticed together, in a brief
 outline of the main story of the Mahābhārata. <span
-id="fr_389"></span>[\*](#fn_389)
+id="fr_389"></span>[\*](#fn_389.md)
 
 In the fifth generation from Soma (the Moon), the progenitor of the
 Lunar race, who reigned at Hastināpur, came two sons, Puru <span
-id="fr_390"></span>[†](#fn_390) and Yadu; from whom proceeded two
+id="fr_390"></span>[†](#fn_390.md) and Yadu; from whom proceeded two
 branches of the Lunar line. In the account of Krishna and Balarāma, who
 were born in the Yadu tribe, we have seen the end of that branch of the
 family. Sixteenth from Puru, the founder of the other
@@ -35,7 +35,7 @@ branch, came Bharata, from whom India takes its name, Bharatvarsha (the
 country of Bharata), in the present day. Twenty-third from Bharata came
 Sāntanu. This Sāntanu had two sons, Bhishma, by the goddess Gangā (the
 Ganges), and Vichitravīrya, by Satyavati. <span
-id="fr_391"></span>[\*](#fn_391) Satyavati had a son named Vyāsa before
+id="fr_391"></span>[\*](#fn_391.md) Satyavati had a son named Vyāsa before
 her marriage with Sāntanu; so that Bhishma, Vichitravīrya, and Vyāsa
 were half-brothers. Bhishma became a Brahmācharī (*i.e.* took a vow of
 celibacy). Vyāsa retired to the wilderness to live a life of
@@ -255,7 +255,7 @@ Vyāsa, seeing the discrepancy between the conduct of
 
 <span id="img_41900"></span> <span align="CENTER"> [![ARJUNA SHOOTING AT
 THE FISH](tn/41900.jpg)  
-Click to enlarge](img/41900.jpg)  
+Click to enlarge](img/41900.jpg.md)  
 ARJUNA SHOOTING AT THE FISH  
 </span>
 
@@ -302,7 +302,7 @@ pass the thirteenth year under assumed names, in various disguises.
 Whilst enjoying this forest life, Arjuna went to the Himalayas to
 perform severe penance in order to obtain celestial arms. "After some
 time, Siva, to reward him and prove his bravery, approached as a
-Kirātā, <span id="fr_392"></span>[\*](#fn_392) or wild mountaineer, at
+Kirātā, <span id="fr_392"></span>[\*](#fn_392.md) or wild mountaineer, at
 the moment that a demon named Mūka, in the form of a boar, attacked him.
 Siva and Arjuna shot together at the boar, which fell dead, and both
 claimed to have hit him first. This served as a pretext for Siva to have
@@ -355,7 +355,7 @@ the brothers had decided to take no active part in the
 
 <span id="img_42300"></span> <span align="CENTER"> [![BATTLE OF THE
 KURUS AND PĀNDAVAS](tn/42300.jpg)  
-Click to enlarge](img/42300.jpg)  
+Click to enlarge](img/42300.jpg.md)  
 BATTLE OF THE KURUS AND PĀNDAVAS  
 </span>
 
@@ -609,11 +609,11 @@ unattainable on earth."
 
 ### Footnotes
 
-<span id="fn_389"></span>[411:\*](hmvp41.htm#fr_389) This account of the
+<span id="fn_389"></span>[411:\*](hmvp41.htm#fr_389.md) This account of the
 Mahābhārata is taken in an abbreviated form almost entirely from Lecture
 XIII. of Monier Williams's "Indian Wisdom."
 
-<span id="fn_390"></span>[411:†](hmvp41.htm#fr_390) An interesting story
+<span id="fn_390"></span>[411:†](hmvp41.htm#fr_390.md) An interesting story
 is told of Puru. His father, Yayāti, married Devayāni, daughter of
 Sukra, the preceptor of the Daityas. Her husband loving her servant
 Sarmisthā also, Puru was born as their youngest son. The wife being
@@ -624,7 +624,7 @@ sons would bear it for him. They all refused to do this excepting Puru.
 As a reward for his piety, his father disinherited his other sons, and
 made Puru sole heir to his dominions.
 
-<span id="fn_391"></span>[412:\*](hmvp41.htm#fr_391) Satyavati was the
+<span id="fn_391"></span>[412:\*](hmvp41.htm#fr_391.md) Satyavati was the
 daughter of an Apsaras named Adrikā, who was condemned to live on earth
 in the form of a fish. Parasāra, a sage, met her daughter as he was
 crossing the river Yamunā, and Vyāsa was the result. He was born on an
@@ -633,10 +633,10 @@ an island). Vyāsa is said to have been the arranger of the Vedas, the
 compiler of the Mahābhārata and the Purānas, and the founder of the
 Vedanta system of philosophy.
 
-<span id="fn_392"></span>[421:\*](hmvp41.htm#fr_392) The Kirātās were
+<span id="fn_392"></span>[421:\*](hmvp41.htm#fr_392.md) The Kirātās were
 mountaineers, or foresters. In the Rāmāyana they are described as
 "islanders, who eat raw flesh, live in the waters, and are men-tigers."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Planets](hmvp42)
+[Next: Chapter V. The Planets](hmvp42.md)

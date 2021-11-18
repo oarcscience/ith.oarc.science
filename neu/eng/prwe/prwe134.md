@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe133)  [Next](prwe135) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe133)  [Next](prwe135.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ black tin ore and the white metal. \[b\]
 
 ------------------------------------------------------------------------
 
-[Next: St Neot, the Pigmy](prwe135)
+[Next: St Neot, the Pigmy](prwe135.md)

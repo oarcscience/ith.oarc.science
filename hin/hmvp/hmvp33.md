@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp32)  [Next](hmvp34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp32)  [Next](hmvp34.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Triad. As Brahmā was Creator, Vishnu Preserver, in order to
 
 <span id="img_26200"></span> <span align="CENTER">
 [![SIVA.](tn/26200.jpg)  
-Click to enlarge](img/26200.jpg)  
+Click to enlarge](img/26200.jpg.md)  
 SIVA.  
 </span>
 
@@ -46,7 +46,7 @@ amongst men, he is declared to be the Rudra of the Vedras. In some
 passages in the Vedras, Rudra is identified with Agni; yet "the
 distinctive epithets applied to him in the Rig-Veda appear sufficiently
 to prove that he was generally discriminated from Agni by his early
-worshippers." <span id="fr_234"></span>[\*](#fn_234)
+worshippers." <span id="fr_234"></span>[\*](#fn_234.md)
 
 Between the texts from the Brāhmanas relative to Rudra, and the earliest
 descriptions of the same deity which we discover in the Epic poems, a
@@ -60,7 +60,7 @@ his importance is immensely increased, his attributes are
 
 <span id="img_26400"></span> <span align="CENTER"> [![SIVA TEMPLE AT
 BENARES.](tn/26400.jpg)  
-Click to enlarge](img/26400.jpg)  
+Click to enlarge](img/26400.jpg.md)  
 SIVA TEMPLE AT BENARES.  
 </span>
 
@@ -75,10 +75,10 @@ occupies a prominent place in the Epic legends, he bas sunk down into a
 subordinate position, and is quite unable to compete in power and
 dignity with Rudra, who, together with Vishnu, now engrosses the almost
 exclusive worship of the Brāhmanical world." <span
-id="fr_235"></span>[\*](#fn_235)
+id="fr_235"></span>[\*](#fn_235.md)
 
 In the following texts from the Vedas, <span
-id="fr_236"></span>[†](#fn_236) referring to Rudra, will be seen the
+id="fr_236"></span>[†](#fn_236.md) referring to Rudra, will be seen the
 germs of some of the legends found in the later books concerning
 Siva:—"What can we utter to Rudra, the intelligent, the strong, the most
 bountiful, which shall be most pleasant to his heart, that so Aditi may
@@ -91,7 +91,7 @@ sky, with spirally braided hair, a brilliant form." "Far be from us thy
 cow-slaying and man-slaying weapon." In the same hymn Rudra is called
 the father of the Maruts or Storm-gods; to explain which the commentator
 introduces a legend of a later date which is found in the account of the
-Maruts. <span id="fr_237"></span>[‡](#fn_237) In another hymn Rudra is
+Maruts. <span id="fr_237"></span>[‡](#fn_237.md) In another hymn Rudra is
 thus addressed: "Thou fitly holdest arrows and a bow; fitly thou
 \[wearest\] a glorious necklace of every form \[of beauty\]."
 
@@ -100,11 +100,11 @@ thus addressed: "Thou fitly holdest arrows and a bow; fitly thou
 <span class="contnote">\[paragraph continues\]</span> The name Siva may
 have been connected with Rudra from a verse in the Vajasaneyi recension
 of the white "Yajur Veda," wherein Rudra is thus addressed: "Thou art
-gracious (Siva) by name." <span id="fr_238"></span>[\*](#fn_238) Other
+gracious (Siva) by name." <span id="fr_238"></span>[\*](#fn_238.md) Other
 epithets, which are afterwards extended into legends, are seen in a
 prayer in the same Veda: "Shine upon us, dweller in the mountain, with
 that blessed body of thine which is auspicious." <span
-id="fr_239"></span>[†](#fn_239) " May he who glides away, blue-necked
+id="fr_239"></span>[†](#fn_239.md) " May he who glides away, blue-necked
 and red-coloured, be gracious unto us." "Reverence to the blue-necked,
 to the thousand-eyed, to the bountiful, and to the lord of spirits, and
 to the lord of thieves."
@@ -117,7 +117,7 @@ toil and austerity?" The boy said, 'My evil has not been taken away, and
 a name has not been given to me. Give me a name.' Prajāpati said, 'Thou
 art Rudra.' Inasmuch as he gave him that name, Agni became his form, for
 Rudra is Agni. He was Rudra because he wept (from *rud*, to
-weep)." <span id="fr_240"></span>[‡](#fn_240) This account of the birth
+weep)." <span id="fr_240"></span>[‡](#fn_240.md) This account of the birth
 of Rudra agrees with that of the Vishnu and Mārkandeya Purānas, and to
 some extent with that of others.
 
@@ -150,7 +150,7 @@ seeing the gods driving by in their chariots, she was told that they
 were proceeding, at her father's invitation, to take part in a great
 sacrifice he was about to make. As Siva had offended him, Daksha had not
 invited him. The "Bhāgavata Purāna" <span
-id="fr_241"></span>[\*](#fn_241) gives the cause of this slight upon
+id="fr_241"></span>[\*](#fn_241.md) gives the cause of this slight upon
 Siva: "On one occasion the gods and Rishis were assembled at a sacrifice
 celebrated by the Prajāpatis. On Daksha's entrance, all rose to salute
 him excepting his father Brahmā and Mahādeva (Siva). Daksha, after
@@ -202,7 +202,7 @@ deluded in understanding, wearing matted hair and ashes and bones, let
 them undergo the initiation of Siva, in which spirituous liquors are the
 deity.' Hearing this imprecation, Siva and his followers left the
 assembly, while Daksha and the other Prajāpatis <span
-id="fr_242"></span>[\*](#fn_242) celebrated for a thousand years the
+id="fr_242"></span>[\*](#fn_242.md) celebrated for a thousand years the
 sacrifice in which Vishnu was the object of veneration."
 
 The enmity thus commenced between Siva and Daksha continued; and in
@@ -223,7 +223,7 @@ Jvara shall be allowed to range over the earth.
 
 <span id="page_270">p. 270</span>
 
-The Bhāgavata <span id="fr_243"></span>[\*](#fn_243) gives a more
+The Bhāgavata <span id="fr_243"></span>[\*](#fn_243.md) gives a more
 lengthy and somewhat different account of the termination of Daksha's
 ceremony. Sati (Umā) was most anxious to attend it. Though her husband
 tries to dissuade her, she "disregards his warning and goes; but, being
@@ -246,7 +246,7 @@ which he shows that he is the supreme deity, and that the troubles of
 his worshippers arise from imagining themselves to be different from
 him. Daksha himself worships Siva, and Umā, who had voluntarily given up
 herself to the flames, and thus become a *Sati*, <span
-id="fr_244"></span>[†](#fn_244)
+id="fr_244"></span>[†](#fn_244.md)
 
 <span id="page_271">p. 271</span>
 
@@ -271,10 +271,10 @@ first, the power to be obtained by penance (tapas), mortification of the
 body and suppression of the passions; and, secondly, the great virtue of
 abstract meditation, as leading to the loftiest spiritual knowledge, and
 ultimately to union, or actual identification with the great spirit of
-the universe." <span id="fr_245"></span>[\*](#fn_245)
+the universe." <span id="fr_245"></span>[\*](#fn_245.md)
 
 The following legend from the "Vāmana Purāna," <span
-id="fr_246"></span>[†](#fn_246) describes the ordinary life of Siva as
+id="fr_246"></span>[†](#fn_246.md) describes the ordinary life of Siva as
 an ascetic. Devi (Pārvati), oppressed with violent heat, thus addressed
 her lord: "O Isha! the heat increases in violence; hast thou no house to
 which we might repair, and there abide, protected from the wind, the
@@ -307,7 +307,7 @@ The home life of Siva and his spouse does not appear to have been of the
 happiest. As they could each bestow gifts upon their worshippers, it
 sometimes happened that the one wanted to bless those whom the other
 wished to curse. In the Rāmāyana and Mahābhārata <span
-id="fr_247"></span>[\*](#fn_247) is an account of a dispute between them
+id="fr_247"></span>[\*](#fn_247.md) is an account of a dispute between them
 in connection with the struggle between Rāma and Rāvana. In the earlier
 part of the contest, Rāma being unable
 
@@ -342,7 +342,7 @@ her sons Kartikeya and Ganesa.
 
 <span id="page_274">p. 274</span>
 
-In the "Vāmana Purāna" <span id="fr_248"></span>[\*](#fn_248) is a
+In the "Vāmana Purāna" <span id="fr_248"></span>[\*](#fn_248.md) is a
 legend explaining why Siva adopted the dress and habits of a religious
 mendicant. Formerly, when all things had been destroyed, and naught
 remained but one vast ocean, that lord who is incomprehensible (Brahmā)
@@ -374,7 +374,7 @@ The ordinary name by which Siva is known is
 
 <span class="contnote">\[paragraph continues\]</span> Mahādeva, the
 great god; the origin of this is taught in the Mahābhārata. <span
-id="fr_249"></span>[\*](#fn_249) The asuras had a boon bestowed by
+id="fr_249"></span>[\*](#fn_249.md) The asuras had a boon bestowed by
 Brahmā, that they should possess three castles which could be
 "destructible only by the deity who was able to overthrow them by a
 single arrow." Owing to this defence, they became hateful to the other
@@ -391,13 +391,13 @@ devoted to Siva's praise it is distinctly affirmed that Brahmā and
 Vishnu are inferior to him.
 
 The unity of the various deities is taught in the following
-legend. <span id="fr_250"></span>[†](#fn_250) As Lakshmi and Durgā were
+legend. <span id="fr_250"></span>[†](#fn_250.md) As Lakshmi and Durgā were
 sitting together in the presence of Siva, Lakshmi contended that her
 husband (Vishnu) was greater than Siva, because Siva had worshipped him.
 As they were conversing, Vishnu himself appeared, and, in order to
 convince his wife that he and Siva were equal, entered his body, and
 they became one. Another form of this story is found in the "Skanda
-Purāna." <span id="fr_251"></span>[‡](#fn_251) Siva asked Vishnu on one
+Purāna." <span id="fr_251"></span>[‡](#fn_251.md) Siva asked Vishnu on one
 occasion to assume the form of a beautiful woman, such as he did at the
 churning of the ocean to attract the attention of the asuras whilst the
 gods drank the amrita. Vishnu consenting, Siva became
@@ -410,7 +410,7 @@ tightly that their
 
 <span id="img_27600"></span> <span align="CENTER">
 [![HAR-HARI.](tn/27600.jpg)  
-Click to enlarge](img/27600.jpg)  
+Click to enlarge](img/27600.jpg.md)  
 HAR-HARI.  
 </span>
 
@@ -423,7 +423,7 @@ of his forehead; the reason of
 <span id="page_277">p. 277</span>
 
 this peculiarity is given in the Mahābhārata. <span
-id="fr_252"></span>[\*](#fn_252) As he was seated on the Himalayas,
+id="fr_252"></span>[\*](#fn_252.md) As he was seated on the Himalayas,
 where he had been engaged in austerities, Umā, attended by her
 companions, and dressed as an ascetic, came behind him and playfully put
 her hands over his eyes. The effect was tremendous. Suddenly the world
@@ -490,7 +490,7 @@ worshippers was in distress, Siva
 
 <span id="img_27900"></span> <span align="CENTER"> [![SIVA SLAYING AN
 ASURA.](tn/27900.jpg)  
-Click to enlarge](img/27900.jpg)  
+Click to enlarge](img/27900.jpg.md)  
 SIVA SLAYING AN ASURA.  
 </span>
 
@@ -505,7 +505,7 @@ elephant's hide, with a necklace of beads, and a garland of skulls,
 riding upon Nandi, accompanied by ghosts, goblins, spectres, witches,
 imps, sprites and evil spirits, Bholonāth came forth. On his forehead
 was the moon; he placed the Ganges on his head, <span
-id="fr_253"></span>[\*](#fn_253) and his eyes were very red. His most
+id="fr_253"></span>[\*](#fn_253.md) and his eyes were very red. His most
 destructive weapon was a trident: with this he slew the foe who was
 obnoxious to his follower."
 
@@ -523,7 +523,7 @@ organs.
 Several legends are given to explain how it came to be the
 representative of Siva. The probability is that it was an object of
 worship of some aboriginal tribe, incorporated into Hinduism. The "Padma
-Purāna" <span id="fr_254"></span>[†](#fn_254) teaches that it was the
+Purāna" <span id="fr_254"></span>[†](#fn_254.md) teaches that it was the
 result of a curse pronounced by Bhrigu. When that Sage was sent to
 discover which of the three gods was the greatest, he came to Siva's
 abode, but was prevented from entering immediately he arrived by a
@@ -537,7 +537,7 @@ After waiting for some time, Bhrigu's patience being exhausted, he said,
 treated me with contempt, in preferring the embraces of Pārvati, your
 forms of worship shall be the Linga and Yoni."
 
-The Vāmana <span id="fr_255"></span>[\*](#fn_255) makes it the result of
+The Vāmana <span id="fr_255"></span>[\*](#fn_255.md) makes it the result of
 a curse pronounced by a number of Sages. When Sati died at Daksha's
 sacrifice, Siva wandered from place to place like a madman, mourning her
 absence. He travelled from hermitage to hermitage, but could find no
@@ -551,7 +551,7 @@ worship to gods and men.
 
 As a specimen of the legends by which the worship of Siva under this
 form is inculcated, I give the following extract from the "Siva
-Purāna." <span id="fr_256"></span>[†](#fn_256) A Rākshas named Bhīma,
+Purāna." <span id="fr_256"></span>[†](#fn_256.md) A Rākshas named Bhīma,
 have obtained invincible might as a boon from Rāma, commenced exerting
 his newly acquired power by attacking the king of Kāmrupa. Having
 conquered the king, and seized his kingdom and riches, he placed him in
@@ -653,7 +653,7 @@ blessings. In times of sickness offerings are made to this deity
 
 <span id="img_28400"></span> <span align="CENTER">
 [![PANCHĀNANA.](tn/28400.jpg)  
-Click to enlarge](img/28400.jpg)  
+Click to enlarge](img/28400.jpg.md)  
 PANCHĀNANA.  
 </span>
 
@@ -666,68 +666,68 @@ recovery is. believed to be the result of the god's departure.
 
 ### Footnotes
 
-<span id="fn_234"></span>[263:\*](hmvp33.htm#fr_234) Muir, O. S. T., iv.
+<span id="fn_234"></span>[263:\*](hmvp33.htm#fr_234.md) Muir, O. S. T., iv.
 404.
 
-<span id="fn_235"></span>[265:\*](hmvp33.htm#fr_235) Muir, O. S. T., iv.
+<span id="fn_235"></span>[265:\*](hmvp33.htm#fr_235.md) Muir, O. S. T., iv.
 404.
 
-<span id="fn_236"></span>[265:†](hmvp33.htm#fr_236) Ibid., iv. 299 ff.
+<span id="fn_236"></span>[265:†](hmvp33.htm#fr_236.md) Ibid., iv. 299 ff.
 
-<span id="fn_237"></span>[265:‡](hmvp33.htm#fr_237) Part i. chap. vii.
+<span id="fn_237"></span>[265:‡](hmvp33.htm#fr_237.md) Part i. chap. vii.
 
-<span id="fn_238"></span>[266:\*](hmvp33.htm#fr_238) Muir, O. S. T., iv.
+<span id="fn_238"></span>[266:\*](hmvp33.htm#fr_238.md) Muir, O. S. T., iv.
 322.
 
-<span id="fn_239"></span>[266:†](hmvp33.htm#fr_239) Ibid., p. 326.
+<span id="fn_239"></span>[266:†](hmvp33.htm#fr_239.md) Ibid., p. 326.
 
-<span id="fn_240"></span>[266:‡](hmvp33.htm#fr_240) Ibid., iv. 341.
+<span id="fn_240"></span>[266:‡](hmvp33.htm#fr_240.md) Ibid., iv. 341.
 
-<span id="fn_241"></span>[267:\*](hmvp33.htm#fr_241) Muir, O. S. T., iv.
+<span id="fn_241"></span>[267:\*](hmvp33.htm#fr_241.md) Muir, O. S. T., iv.
 378 ff.
 
-<span id="fn_242"></span>[269:\*](hmvp33.htm#fr_242) The Prajāpatis,
+<span id="fn_242"></span>[269:\*](hmvp33.htm#fr_242.md) The Prajāpatis,
 seven, ten, or twenty-one in number, according to various authorities,
 are the fathers of the human race.
 
-<span id="fn_243"></span>[270:\*](hmvp33.htm#fr_243) Muir, O. S. T., iv.
+<span id="fn_243"></span>[270:\*](hmvp33.htm#fr_243.md) Muir, O. S. T., iv.
 382.
 
-<span id="fn_244"></span>[270:†](hmvp33.htm#fr_244) It is in imitation
+<span id="fn_244"></span>[270:†](hmvp33.htm#fr_244.md) It is in imitation
 of the wifely devotion of Umā, that widows were burned alive with the
 dead body of their husbands. Hence they were called Satis—faithful ones.
 
-<span id="fn_245"></span>[271:\*](hmvp33.htm#fr_245) "Indian Wisdom," p.
+<span id="fn_245"></span>[271:\*](hmvp33.htm#fr_245.md) "Indian Wisdom," p.
 325.
 
-<span id="fn_246"></span>[271:†](hmvp33.htm#fr_246) "Hindu Mythology,"
+<span id="fn_246"></span>[271:†](hmvp33.htm#fr_246.md) "Hindu Mythology,"
 p. 293.
 
-<span id="fn_247"></span>[272:\*](hmvp33.htm#fr_247) Ward, ii. 179.
+<span id="fn_247"></span>[272:\*](hmvp33.htm#fr_247.md) Ward, ii. 179.
 
-<span id="fn_248"></span>[274:\*](hmvp33.htm#fr_248) Kennedy, "Hindu
+<span id="fn_248"></span>[274:\*](hmvp33.htm#fr_248.md) Kennedy, "Hindu
 Mythology," p. 296.
 
-<span id="fn_249"></span>[275:\*](hmvp33.htm#fr_249) Muir, O. S. T., iv.
+<span id="fn_249"></span>[275:\*](hmvp33.htm#fr_249.md) Muir, O. S. T., iv.
 223.
 
-<span id="fn_250"></span>[275:†](hmvp33.htm#fr_250) Ward, ii. 190.
+<span id="fn_250"></span>[275:†](hmvp33.htm#fr_250.md) Ward, ii. 190.
 
-<span id="fn_251"></span>[275:‡](hmvp33.htm#fr_251) Ibid.
+<span id="fn_251"></span>[275:‡](hmvp33.htm#fr_251.md) Ibid.
 
-<span id="fn_252"></span>[277:\*](hmvp33.htm#fr_252) Muir, iv. 269.
+<span id="fn_252"></span>[277:\*](hmvp33.htm#fr_252.md) Muir, iv. 269.
 
-<span id="fn_253"></span>[280:\*](hmvp33.htm#fr_253) See "Gangā," part
+<span id="fn_253"></span>[280:\*](hmvp33.htm#fr_253.md) See "Gangā," part
 iii. chap. v.
 
-<span id="fn_254"></span>[280:†](hmvp33.htm#fr_254) Kennedy, "Hindu
+<span id="fn_254"></span>[280:†](hmvp33.htm#fr_254.md) Kennedy, "Hindu
 Mythology," p. 301.
 
-<span id="fn_255"></span>[281:\*](hmvp33.htm#fr_255) Kennedy, "Hindu
+<span id="fn_255"></span>[281:\*](hmvp33.htm#fr_255.md) Kennedy, "Hindu
 Mythology," p. 299.
 
-<span id="fn_256"></span>[281:†](hmvp33.htm#fr_256) Ibid., p. 310.
+<span id="fn_256"></span>[281:†](hmvp33.htm#fr_256.md) Ibid., p. 310.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Umā](hmvp34)
+[Next: Chapter VII. Umā](hmvp34.md)

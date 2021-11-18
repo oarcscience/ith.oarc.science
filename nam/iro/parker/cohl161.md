@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl160)  [Next](cohl162) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl160)  [Next](cohl162.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,8 +16,8 @@ masks, and secret masks. The beggar and thief masks form no part of the
 paraphernalia of the true society, and the secret masks are never used
 in public ceremonies in the council house at the midwinter ceremony. The
 False Face ceremonies have been well described, though by no means
-exhaustively, by Morgan <span id="fr_112"></span>[1](#fn_112) and
-Boyle <span id="fr_113"></span>[2](#fn_113). The main features are
+exhaustively, by Morgan <span id="fr_112"></span>[1](#fn_112.md) and
+Boyle <span id="fr_113"></span>[2](#fn_113.md). The main features are
 generally known.
 
 The paraphernalia of this society consist of the masks previously
@@ -39,7 +39,7 @@ Chief Delos Kettle said it was used to cure veneral diseases.
 
 There is some dispute as to the antiquity of the False Face Company.
 Doctor Beauchamp, in his History of the Iroquois, <span
-id="fr_114"></span>[3](#fn_114) says it is comparatively recent. From a
+id="fr_114"></span>[3](#fn_114.md) says it is comparatively recent. From a
 study of the Seneca society, however, the writer is inclined to believe
 that it is quite old with them,
 
@@ -74,15 +74,15 @@ Yea<sup>n</sup>sê<sup>n</sup>dâdi'yas, Doorkeepers' Dance.
 
 ### Footnotes
 
-<span id="fn_112"></span>[127:1](cohl161.htm#fr_112) Morgan, Fifth
+<span id="fn_112"></span>[127:1](cohl161.htm#fr_112.md) Morgan, Fifth
 Annual Report New York State Cabinet (Museum), 1852, p. 98.
 
-<span id="fn_113"></span>[127:2](cohl161.htm#fr_113) Boyle,
+<span id="fn_113"></span>[127:2](cohl161.htm#fr_113.md) Boyle,
 Archaeological Report, Provincial Museum, Toronto, 1898, p. 157.
 
-<span id="fn_114"></span>[127:3](cohl161.htm#fr_114) N. Y. State Mus.
+<span id="fn_114"></span>[127:3](cohl161.htm#fr_114.md) N. Y. State Mus.
 Bul. 78, p. 141.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Tobacco Throwing Ceremony](cohl162)
+[Next: The Tobacco Throwing Ceremony](cohl162.md)

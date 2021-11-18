@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj26)  [Next](chj28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj26)  [Next](chj28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -49,33 +49,33 @@ them.
 
 <span class="contnote">\[paragraph continues\]</span> One half of the
 population is stricken, and there is no house that has escaped
-scot-free. <span id="fr_417"></span>[1](#fn_415)
+scot-free. <span id="fr_417"></span>[1](#fn_415.md)
 
 Hence many minds are turning to religion. "A sharp sword is the Name of
-Mida," <span id="fr_418"></span>[2](#fn_416) say some, and turn in
+Mida," <span id="fr_418"></span>[2](#fn_416.md) say some, and turn in
 prayer to the Lord of the Western land, whilst others take up the magic
 charms and formula against disease, which belong to the Lord of the
-Eastern Quarter. <span id="fr_419"></span>[3](#fn_417) Others, again,
+Eastern Quarter. <span id="fr_419"></span>[3](#fn_417.md) Others, again,
 comfort themselves with the thought that disease is but a short-lived
 phenomenon, that old age and death are but phantasies, and stay
 themselves with the comfortable doctrines of the Hokke Truth. <span
-id="fr_420"></span>[4](#fn_418) Others, again, say that "the seven
+id="fr_420"></span>[4](#fn_418.md) Others, again, say that "the seven
 troubles come merely as a matter of rotation, soon to be succeeded by
-the seven forms of prosperity," <span id="fr_421"></span>[5](#fn_419)
+the seven forms of prosperity," <span id="fr_421"></span>[5](#fn_419.md)
 and with this thought they set themselves to the details of countless
 services and litanies. Others, again, in accordance with the doctrines
-of the Secret Shingon, <span id="fr_422"></span>[6](#fn_420) use copious
+of the Secret Shingon, <span id="fr_422"></span>[6](#fn_420.md) use copious
 sprinklings of Holy Water from the
 
 <span id="page_309">p. 309</span>
 
 five vases. Then, again, some enter into ecstatic meditation, and calmly
 contemplate the truth free from all care. <span
-id="fr_423"></span>[1](#fn_421) Some write the names of the Seven gods
-of luck <span id="fr_424"></span>[2](#fn_422) on pieces of paper, and
+id="fr_423"></span>[1](#fn_421.md) Some write the names of the Seven gods
+of luck <span id="fr_424"></span>[2](#fn_422.md) on pieces of paper, and
 affix them by the hundreds to the doorposts of their houses, whilst
 others do the same with the pictures of the Five Dairiki <span
-id="fr_425"></span>[3](#fn_423) and the various (Shinto) gods of Heaven
+id="fr_425"></span>[3](#fn_423) and the various (Shinto.md) gods of Heaven
 and Earth.
 
 In other parts of the country the lords are in fear. They remit taxes
@@ -103,7 +103,7 @@ signs to be seen of men attaining Buddhaship. When I look around me, my
 foolishness fills me with doubts about the future, when I look up to the
 sky I am filled with resentment, when I contemplate the earth I see
 matter for earnest thought. But when I come to examine things more
-closely <span id="fr_426"></span>[1](#fn_424) in the light of the
+closely <span id="fr_426"></span>[1](#fn_424.md) in the light of the
 Scriptures, I find that the whole world is in rebellion against what is
 right, and that men have universally become the slaves of evil; further,
 that on account of this not only have the good deities left the country,
@@ -113,14 +113,14 @@ and sorrows have befallen us. These are matters that we cannot help
 speaking of, and that we can but fear.
 
 *The Visitor*. I know that I am not the only one that bewails the
-sorrows of the Empire <span id="fr_427"></span>[2](#fn_425) and the
+sorrows of the Empire <span id="fr_427"></span>[2](#fn_425.md) and the
 miseries of my country. But I have never before heard the suggestion
 made that the gods and the saints were forsaking the country, and that
 demons and evil spirits were taking their places. Please tell me what
 Scriptural proof have you for your statement?
 
 *The Master*. The proofs are many and most varied. For instance, it is
-said in the "Konkōmyōkyō," <span id="fr_428"></span>[3](#fn_426)
+said in the "Konkōmyōkyō," <span id="fr_428"></span>[3](#fn_426.md)
 "Although this
 
 <span id="page_311">p. 311</span>
@@ -130,7 +130,7 @@ the land, it has no proper power or influence, for the people are
 backsliders at heart. They do not wish to hear it read, they do not
 offer it worship, nor respect, nor reverence. Neither are they able to
 pay proper respect and homage to the men of the Four sections when they
-see them. For this reason both we <span id="fr_429"></span>[1](#fn_427)
+see them. For this reason both we <span id="fr_429"></span>[1](#fn_427.md)
 and our families and all the hosts of heaven have lost our proper
 dignity and power; for men close their ears to the deep mysteries of the
 Sūtra; they turn with aversion from the sweet dew (of religion), and get
@@ -150,7 +150,7 @@ criminals and malefactors, they shall rage against one another, they
 shall slander one another, and even wag their tongues against the
 innocent. There shall be plagues and comets; two suns shall appear
 simultaneously in the sky, with disturbed courses; <span
-id="fr_430"></span>[2](#fn_428) two-coloured rainbows, black and white,
+id="fr_430"></span>[2](#fn_428.md) two-coloured rainbows, black and white,
 shall be seen with distressful omens; there shall be falling stars and
 earthquakes, and
 
@@ -175,13 +175,13 @@ they have lost the power to distinguish between truth and falsehood. In
 short, the whole world has departed from Buddha and the Holy Scriptures,
 and there is no desire to protect them. Can you wonder that the good
 deities and the saints should forsake the land, and that evil spirits
-and heretics <span id="fr_431"></span>[1](#fn_429) should bring about
+and heretics <span id="fr_431"></span>[1](#fn_429.md) should bring about
 calamities and distress?
 
 *The Visitor* (changing colour). The Emperor Ming-ti of the Later Han
 Dynasty understood the meaning of the vision of the Golden Man, and
 accepted the teaching that was brought to him on the White Horse, and
-our own Venerable Crown Prince, <span id="fr_432"></span>[2](#fn_430)
+our own Venerable Crown Prince, <span id="fr_432"></span>[2](#fn_430.md)
 when he had defeated the rebel Moriya, built temples and pagodas in our
 land. Ever since that time every one, from the Emperor down to the
 lowest of the people, has reverenced Buddhism and paid respect to the
@@ -194,7 +194,7 @@ others, erected in all parts of the land, bear witness to the continuity
 of the Faith; copies of the Scriptures are as plentiful as the stars in
 the firmament, and the overhanging roofs of the temples are like a
 protecting cloud over the land. The sons of S’ariputra <span
-id="fr_433"></span>[1](#fn_431) still set their faces to the Vulture's
+id="fr_433"></span>[1](#fn_431.md) still set their faces to the Vulture's
 Peak; the disciples of Kakuroku still preserve the holy garments and
 vessels of S’akyamuni. How can you say that the traces of the Three
 Precious Things have disappeared, and despise the teaching of the
@@ -220,14 +220,14 @@ thing to be dreaded. The rutting
 
 elephant can kill the body, but the soul may be saved: the evil
 knowledge which comes through bad friends will cast a man's soul into
-hell." <span id="fr_434"></span>[1](#fn_432) The same thing is said in
-the Saddharma pundarika Sūtra, <span id="fr_435"></span>[2](#fn_433) and
+hell." <span id="fr_434"></span>[1](#fn_432.md) The same thing is said in
+the Saddharma pundarika Sūtra, <span id="fr_435"></span>[2](#fn_433.md) and
 there is a passage in the Sūtra of the Great Decease which tells us that
 when, at the end of the Period of the Upright Law, all the saints shall
 have entered into Nirvana, there will be monks, in the period of Image
 Law, who shall recite the Sūtras only as a means of gaining a
 livelihood; who, although wearing the monkish *Kesa*, <span
-id="fr_436"></span>[3](#fn_434) shall be like hunters in search of prey,
+id="fr_436"></span>[3](#fn_434.md) shall be like hunters in search of prey,
 like cats watching for mice. Pretending to be wise and righteous, they
 will be full of jealousy and covetousness. Through them will the way of
 Buddhism be evil spoken of.
@@ -255,7 +255,7 @@ of the name of Honen, who wrote a book called the "Senchakushū," in
 which he abused the holy teachings of the age, and misled men by the
 thousands. Now this man, basing his arguments (*again I abbreviate*) on
 a mistaken interpretation of Nāgārjuna's writings, in which he follows
-Dōshaku, Donran, and Zendō, <span id="fr_437"></span>[1](#fn_435) his
+Dōshaku, Donran, and Zendō, <span id="fr_437"></span>[1](#fn_435.md) his
 predecessors in heresy, divides Buddhism into two gates, the gate of
 Holy Practices, and the gate of Faith in the Pure Land, and advises all
 men, in this age of decay, to embrace the latter. As to the other forms
@@ -263,27 +263,27 @@ of Buddhism, and as to the other Sūtras, including even the Saddharma
 pundarika and the Sūtras of the Shingon tradition, he uses four words to
 describe what should be our attitude towards them. "Give them up," he
 says, "close the books, lay them aside, fling them away." <span
-id="fr_438"></span>[2](#fn_436) By means of this doctrine he has misled
+id="fr_438"></span>[2](#fn_436.md) By means of this doctrine he has misled
 thousands of his followers, both lay and clerical.
 
 <span id="page_316">p. 316</span>
 
 Now, this teaching is in direct contradiction to one of Amida's
-Vows, <span id="fr_439"></span>[1](#fn_437) as contained in the three
+Vows, <span id="fr_439"></span>[1](#fn_437.md) as contained in the three
 Pure Land Sūtras in which alone he puts his trust. I mean the Vow that
 Amida takes to "clear away the five obstacles to the truth, and to
 remove the abuses of true Buddhism." It is in contradiction, likewise,
 to the teachings of the "whole life according to the five
-periods." <span id="fr_440"></span>[2](#fn_438) It can lead its author
+periods." <span id="fr_440"></span>[2](#fn_438.md) It can lead its author
 nowhere but to the lowest hell. We live in an age when saints are few;
 there are not many that can discern the dangerous nature of these
 teachings. Woe unto them! They do not smite the offender. Woe, woe! they
 acquiesce in the propagation of a false faith. From the princes and
 barons down to the common people, every one is now saying, that there
 are no Scriptures but the Three of the Pure Land, and no Buddha but the
-Triune Amida. <span id="fr_441"></span>[3](#fn_439) But in ancient days
+Triune Amida. <span id="fr_441"></span>[3](#fn_439.md) But in ancient days
 it was not so. The teachings which famous priests, <span
-id="fr_442"></span>[4](#fn_440) such as Dengyō, Gishin, Jikaku, and
+id="fr_442"></span>[4](#fn_440.md) such as Dengyō, Gishin, Jikaku, and
 Chisho, brought with them from over the seas were revered by all the
 people. Mountains, rivers, and valleys were consecrated by the erection
 of sacred images of the Buddhas, and pilgrims flocked from all parts to
@@ -292,7 +292,7 @@ worship at these holy places. S’akyamuni and
 <span id="page_317">p. 317</span>
 
 <span class="contnote">\[paragraph continues\]</span> Yakushi
-Nyorai, <span id="fr_443"></span>[1](#fn_441) Kokūzō and Jizō, duly
+Nyorai, <span id="fr_443"></span>[1](#fn_441.md) Kokūzō and Jizō, duly
 reverenced, bestowed peace after death upon their worshippers. Princes
 and nobles were generous in finding endowments for temples, and the
 services were frequent and reverent. And then came Hōnen, who turned
@@ -300,7 +300,7 @@ away from his master, rejected his disciples, and bade men worship none
 but the Buddha of the Western land.
 
 Hōnen pushed aside the Nyorai of the Eastern Quarter, <span
-id="fr_444"></span>[2](#fn_442) he exalted only the four volumes
+id="fr_444"></span>[2](#fn_442.md) he exalted only the four volumes
 containing the Three Books of the Pure Land, and threw away the whole
 sacred Canon of the "Whole Life in Five Periods." As a consequence of
 his preaching, men refused to make contributions to temples that were
@@ -328,9 +328,9 @@ than to repeat the vain Nembutsu.
 
 *The Visitor* (changing colour). Since the time when our true teacher
 S’akyamuni preached the Three Sūtras of the Pure Land, <span
-id="fr_445"></span>[1](#fn_443) we have had a succession of teachers
+id="fr_445"></span>[1](#fn_443.md) we have had a succession of teachers
 elaborating this theme. Donran Hōshi preached much on the Four
-S’āstras <span id="fr_446"></span>[2](#fn_444) and devoted himself
+S’āstras <span id="fr_446"></span>[2](#fn_444.md) and devoted himself
 solely to the subject of the Pure Land; Doshaku ceased to think about
 the great work of the Nirvana, and gave himself wholly to the service of
 the Western Direction; Zendō laid aside all miscellaneous devotions to
@@ -341,7 +341,7 @@ to the salvation of many? (*Ōjō nō hito sore ikubaku zo ya?*)
 
 Again, you must remember that Hōnen Shōnin, as a young man, went up
 Mount Tendai (*i.e.* Hieizan), where he read through sixty volumes <span
-id="fr_447"></span>[3](#fn_445) of Sūtras, though he was but a young
+id="fr_447"></span>[3](#fn_445.md) of Sūtras, though he was but a young
 man, and mastered the principal doctrines of all the eight sects. He
 read the Sūtras through, seven times in all, and no commentaries or
 biographies escaped his attention. His knowledge was as bright as the
@@ -354,7 +354,7 @@ lost his way in Buddhism, and could not lay hold of Nirvana. Then he
 studied more diligently and meditated more profoundly than he had ever
 done before, and at last, throwing aside the Sūtras, he devoted himself
 to the invocation of Amida's Name. This he did by revelation, <span
-id="fr_448"></span>[1](#fn_446) having been commanded to hand down to
+id="fr_448"></span>[1](#fn_446.md) having been commanded to hand down to
 posterity the practice of the Nembutsu.
 
 Men spoke of him as an incarnation of Seishi, or that he was Zendō come
@@ -367,7 +367,7 @@ Why do you lay on the august administration the blame for the
 misfortunes of recent years? And how do you dare to abuse the teachers
 and saints of the preceding ages? You are blowing hair to find a wound;
 you are cutting the skin to make the blood flow. <span
-id="fr_449"></span>[2](#fn_447) I have been astonished at the violence
+id="fr_449"></span>[2](#fn_447.md) I have been astonished at the violence
 of your language, and I advise you to be cautious and to fear, lest
 trouble befall you. Even now it is risky to be seen speaking to you.
 
@@ -385,7 +385,7 @@ prophet. But let me explain the whole matter to you. When our master
 Shaka was preaching the Sūtras of his whole life arranged according to
 the Five Periods, he preached his doctrines in a consecutive series so
 that he might the more easily distinguish the apparent Truth from the
-Absolute. <span id="fr_450"></span>[1](#fn_448) Donran, Dōshaku, and
+Absolute. <span id="fr_450"></span>[1](#fn_448.md) Donran, Dōshaku, and
 Zendō, however, seized hold of an Apparent Truth, and forgot the
 Absolute Truth that was yet to come. They did not understand the whole
 Truth of Buddhism. Hōnen was worse than they, for instead of merely
@@ -393,7 +393,7 @@ following, he went beyond them, and advocated the giving up, closing,
 laying aside, and flinging away of all the many thousand works of the
 Mahāyāna Scriptures, as well as of all the innumerable Buddhas,
 Bodhisattvas, and gods. And it was by such preaching that he deceived
-the people. <span id="fr_451"></span>[2](#fn_449)
+the people. <span id="fr_451"></span>[2](#fn_449.md)
 
 <span id="page_321">p. 321</span>
 
@@ -418,7 +418,7 @@ has to suffer for it. The most striking instance is that of the troubles
 from invasions by barbarians which followed the Tang Emperor Wutsung's
 attacks on Buddhism in the seventh century A.D.\] Hōnen himself lived
 during the administration of Gotoba; <span
-id="fr_452"></span>[1](#fn_450)
+id="fr_452"></span>[1](#fn_450.md)
 
 <span id="page_322">p. 322</span>
 
@@ -446,7 +446,7 @@ a true brother. I am scarcely worthy to be called a monk, yet I am
 trying to do my duty.
 
 Are you aware that during the year of Gennin (1224–5) the monks of the
-Enryakuji and Kōfukuji <span id="fr_453"></span>[1](#fn_451)
+Enryakuji and Kōfukuji <span id="fr_453"></span>[1](#fn_451.md)
 memorialized
 
 <span id="page_323">p. 323</span>
@@ -455,9 +455,9 @@ the throne on the subject of the punishment of Hōnen; and that, in
 consequence, the plates from which the Senchaku was printed were
 forfeited, and publicly burned as a thankoffering for the mercies of the
 Buddhas of the Three Worlds? Did you know that Inujin-nin of the
-Kanjin-in <span id="fr_454"></span>[1](#fn_452) was ordered to destroy
+Kanjin-in <span id="fr_454"></span>[1](#fn_452.md) was ordered to destroy
 the tomb of Hōnen? Or that Hōnen's disciples, Ryukwan, Shōkō, Jogaku,
-and Sassho, <span id="fr_455"></span>[2](#fn_453) were sent into exile
+and Sassho, <span id="fr_455"></span>[2](#fn_453.md) were sent into exile
 and have not yet been pardoned? I don't think you can say that the
 authorities have not been memorialized on the subject.
 
@@ -482,7 +482,7 @@ Buddhism. But he had not suffered for his crime
 <span id="page_324">p. 324</span>
 
 in hell, because the Brahman was a heretic, and the killing of a heretic
-is no murder. <span id="fr_456"></span>[1](#fn_454)\] Thus Buddha
+is no murder. <span id="fr_456"></span>[1](#fn_454.md)\] Thus Buddha
 provided for the preservation of his doctrines. But these men, the
 slanderers of Buddhism, have departed from the true ways. They have made
 graven images of Honen himself, and have carried his impious opinions
@@ -491,7 +491,7 @@ Shaka, and placed Amida in his stead. They have removed Akshobya from
 his seat, and placed thereon the Lord of the Western Paradise. They have
 ceased to copy out and reverence the Scriptures, and their zeal is only
 for the Three Books of the Pure Land. They refuse to hear the lectures
-of Tendai Daishi, <span id="fr_457"></span>[2](#fn_455) and have ears
+of Tendai Daishi, <span id="fr_457"></span>[2](#fn_455.md) and have ears
 only for those of Zendō. Woe be to this people. They disregard the
 warnings of S’akyamuni, and listen to the foolish words of the false
 prophets. If a man wish to secure the peace of the country, let him
@@ -523,7 +523,7 @@ should have for the slanderers of Buddhism: I am putting no limitations
 on the sons of Buddha. Beheading was the punishment assigned by the law
 of Buddhism before Shaka's times; the principle of the Sūtras since
 Nōnin has been only so accommodate the principles of the primitive faith
-to the prejudices of later ages. <span id="fr_458"></span>[1](#fn_456)
+to the prejudices of later ages. <span id="fr_458"></span>[1](#fn_456.md)
 If only all classes of people everywhere in the country would unite in
 abjuring error and following that which is righteous and true, what
 trouble or misfortune could happen?
@@ -562,7 +562,7 @@ to be peaceful and blest, you must consider well, and punish the wrong.
 
 Five misfortunes out of the seven mentioned in the *Yakushi Kyō* have
 befallen us. Two still remain—a foreign invasion and a rebellion. <span
-id="fr_459"></span>[1](#fn_457)
+id="fr_459"></span>[1](#fn_457.md)
 
 Two of the three mentioned in the *Mahāsampāta Sūtra* have been
 fulfilled, the one remaining is a foreign war.
@@ -633,16 +633,16 @@ warfare against heresy.\]
 
 ### Footnotes
 
-<span id="fn_415"></span>[308:1](chj27.htm#fr_417) A chronological study
+<span id="fn_415"></span>[308:1](chj27.htm#fr_417.md) A chronological study
 (if possible) would show that this statement is no exaggeration. During
 the whole thirteenth century Japan was visited, as were other countries,
 with the black plague.
 
-<span id="fn_416"></span>[308:2](chj27.htm#fr_418) This is a quotation
+<span id="fn_416"></span>[308:2](chj27.htm#fr_418.md) This is a quotation
 from a book called the "Hanshūsan." It reminds one of the "two-edged
 sword" of the New Testament.
 
-<span id="fn_417"></span>[308:3](chj27.htm#fr_419) The Lord of the
+<span id="fn_417"></span>[308:3](chj27.htm#fr_419.md) The Lord of the
 Eastern Quarter is Akshobya. The Sūtras connected with him are mostly
 incantations, very different from the Amida Sūtras. The Chinese are much
 given to magic and sorcery, even Confucius having written a book on the
@@ -651,16 +651,16 @@ translators took with him some of the Akshobya Sūtras. Those men, with a
 strange inconsistency, discouraged astrology whilst advocating the use
 of magic formulæ.
 
-<span id="fn_418"></span>[308:4](chj27.htm#fr_420) *Hokke Shinjitsu*,
+<span id="fn_418"></span>[308:4](chj27.htm#fr_420.md) *Hokke Shinjitsu*,
 "the Truth of the Hokke." I believe this to be the name of some
 interpretation of the "Saddharma pundarika," possibly a commentary. It
 is interesting to find the tenets of "Christian Science" thus
 anticipated in Japan.
 
-<span id="fn_419"></span>[308:5](chj27.htm#fr_421) As the seven fat kine
+<span id="fn_419"></span>[308:5](chj27.htm#fr_421.md) As the seven fat kine
 in Pharaoh's dream were succeeded by the seven lean ones.
 
-<span id="fn_420"></span>[308:6](chj27.htm#fr_422) According to the
+<span id="fn_420"></span>[308:6](chj27.htm#fr_422.md) According to the
 Secret Rules of the Shingon ritual, the Holy Water, which is used both
 for baptismal purposes and also for lustrations, is not absolutely pure.
 It is mixed with Five Treasures <span id="page_309">p. 309</span> (I do
@@ -668,15 +668,15 @@ not know what they are), Five Cereals, Five Drugs, and Five Species of
 Incense. When mixed, the water is placed in five jars or vessels on the
 altar, and used for lustrations.
 
-<span id="fn_421"></span>[309:1](chj27.htm#fr_423) The practice of Zen,
+<span id="fn_421"></span>[309:1](chj27.htm#fr_423.md) The practice of Zen,
 or meditation, is still in constant use, and it is always more popular
 in times of stress and anxiety.
 
-<span id="fn_422"></span>[309:2](chj27.htm#fr_424) The Seven gods of
+<span id="fn_422"></span>[309:2](chj27.htm#fr_424.md) The Seven gods of
 luck are to be seen constantly as charms on the doorposts of Buddhist
 houses. So are many of the Shinto deities.
 
-<span id="fn_423"></span>[309:3](chj27.htm#fr_425) I have never yet come
+<span id="fn_423"></span>[309:3](chj27.htm#fr_425.md) I have never yet come
 across the *Dairiki* (the Five Powerful Ones) in actual use. Their names
 are Kongōku, Ryūōku, Muibōku, Raidenku, Muryōrikiku. They are probably
 Chinese, and may have come into Japan through the Kegon sect, which,
@@ -687,31 +687,31 @@ invoked by means of amulets and charms. There are so many thousands of
 different amulets in use in Japan that it would be impossible to say
 that the Dairiki have now gone out of fashion.
 
-<span id="fn_424"></span>[310:1](chj27.htm#fr_426) Lit. "Looking through
+<span id="fn_424"></span>[310:1](chj27.htm#fr_426.md) Lit. "Looking through
 a hollow reed."
 
-<span id="fn_425"></span>[310:2](chj27.htm#fr_427) *Ten ka*, "under
+<span id="fn_425"></span>[310:2](chj27.htm#fr_427.md) *Ten ka*, "under
 Heaven."
 
-<span id="fn_426"></span>[310:3](chj27.htm#fr_428) I.e. Suvarnaprabhāsa
+<span id="fn_426"></span>[310:3](chj27.htm#fr_428.md) I.e. Suvarnaprabhāsa
 sūtra, "the Sūtra of the Golden Light" (see Nanjo's "Cat. Trip."). It is
 a late Sūtra, certainly much posterior to S’akyamuni's time. But it was
 much read in Japan in the early Buddhist centuries.
 
-<span id="fn_427"></span>[311:1](chj27.htm#fr_429) The speaker is one of
+<span id="fn_427"></span>[311:1](chj27.htm#fr_429.md) The speaker is one of
 the Four Guardian Kings whom Buddhism has adopted from the Hindus. They
 stand "at the four corners of the earth."
 
-<span id="fn_428"></span>[311:2](chj27.htm#fr_430) I am quite uncertain
+<span id="fn_428"></span>[311:2](chj27.htm#fr_430.md) I am quite uncertain
 of the translation.
 
-<span id="fn_429"></span>[312:1](chj27.htm#fr_431) *Gedō*, "outside of
+<span id="fn_429"></span>[312:1](chj27.htm#fr_431.md) *Gedō*, "outside of
 the way." It is a common word for all non-Buddhist
 religions—Confucianism, Manichaeism, Christianity.
 
-<span id="fn_430"></span>[312:2](chj27.htm#fr_432) I.e. Shōtoku Taishi.
+<span id="fn_430"></span>[312:2](chj27.htm#fr_432.md) I.e. Shōtoku Taishi.
 
-<span id="fn_431"></span>[313:1](chj27.htm#fr_433) If this translation
+<span id="fn_431"></span>[313:1](chj27.htm#fr_433.md) If this translation
 is the right one, I believe it refers to sects, such as the Kegon, who
 accepted as genuine the collection of Sūtras said to have been made
 independently by S’ariputra and Maudgalyāyana. The scene of all these
@@ -719,10 +719,10 @@ Sūtras is laid on the Vulture's Peak near Benares. I have not been able
 to identify Kakuroku; but there have always been sects that have laid
 much stress on the possession of personal relics of S’akyamuni.
 
-<span id="fn_432"></span>[314:1](chj27.htm#fr_434) *Cf*. St. Luke xii.
+<span id="fn_432"></span>[314:1](chj27.htm#fr_434.md) *Cf*. St. Luke xii.
 5.
 
-<span id="fn_433"></span>[314:2](chj27.htm#fr_435) I have omitted the
+<span id="fn_433"></span>[314:2](chj27.htm#fr_435.md) I have omitted the
 quotation from the Saddharma pundarika and abbreviated the one from the
 Sūtra of the Great Decease. I will here merely call attention to a
 parallelism between Christian and Buddhist history. About A.D. 70 or a
@@ -735,9 +735,9 @@ second Millennium is not yet finished, but one can see the dawn of
 better things beginning shortly after Clive's victory at Plassey—in the
 simultaneous and gradual religious awakening of both East and West.
 
-<span id="fn_434"></span>[314:3](chj27.htm#fr_436) The monk's stole.
+<span id="fn_434"></span>[314:3](chj27.htm#fr_436.md) The monk's stole.
 
-<span id="fn_435"></span>[315:1](chj27.htm#fr_437) I must refer my
+<span id="fn_435"></span>[315:1](chj27.htm#fr_437.md) I must refer my
 reader to what I have said concerning these Patriarchs of the Pure Land
 Sects in my little book, "Shinran and his Work" (Tokyo: Kyōbunkwan). I
 would also refer him to Dr. Haas’ very excellent treatise, "Amida unsere
@@ -746,54 +746,54 @@ Dr. Haas has made a very useful collection of the writings of leading
 Amidaists, and I am very thankful to have had the opportunity of
 consulting his work before sending these pages to the printer.
 
-<span id="fn_436"></span>[315:2](chj27.htm#fr_438) The words in Japanese
+<span id="fn_436"></span>[315:2](chj27.htm#fr_438.md) The words in Japanese
 are *sha* (<span id="img_31500"></span> ![](img/31500.jpg)), *hei*
 (<span id="img_31501"></span> ![](img/31501.jpg)), kaku (<span
 id="img_31502"></span> ![](img/31502.jpg)), bō (<span
 id="img_31503"></span> ![](img/31503.jpg)).
 
-<span id="fn_437"></span>[316:1](chj27.htm#fr_439) This charge is
+<span id="fn_437"></span>[316:1](chj27.htm#fr_439.md) This charge is
 perfectly true. As a matter of fact, the believers of the Pure Land
 sects never talk of any except the eighteenth Vow, leaving the other
 forty-seven strictly on one side. But then it is quite clear (see my
 Shinran and his Work") that there is a non-Buddhistic strain in their
 doctrines, which is almost Pauline.
 
-<span id="fn_438"></span>[316:2](chj27.htm#fr_440) According to the
+<span id="fn_438"></span>[316:2](chj27.htm#fr_440.md) According to the
 Tendai, who accept the whole of the Mahāyāna Canon, Shaka's ministerial
 life fell into five distinct periods, according to which the whole body
 of the Scriptures ought to be arranged.
 
-<span id="fn_439"></span>[316:3](chj27.htm#fr_441) *Amida sanzon*,
+<span id="fn_439"></span>[316:3](chj27.htm#fr_441.md) *Amida sanzon*,
 referring to the Three Bodies of Amida—a striking parallel to our
 conception of the Trinity.
 
-<span id="fn_440"></span>[316:4](chj27.htm#fr_442) All these priests
+<span id="fn_440"></span>[316:4](chj27.htm#fr_442.md) All these priests
 belong to the Tendai sect, which was marvellously comprehensive in its
 attempts to arrange all the Sūtras according to one system.
 
-<span id="fn_441"></span>[317:1](chj27.htm#fr_443) Yakushi Nyorai, the
+<span id="fn_441"></span>[317:1](chj27.htm#fr_443.md) Yakushi Nyorai, the
 Master of Medicines, had twelve disciples, and went about healing
 sickness.
 
-<span id="fn_442"></span>[317:2](chj27.htm#fr_444) I.e. Akshobya, whose
+<span id="fn_442"></span>[317:2](chj27.htm#fr_444.md) I.e. Akshobya, whose
 special virtues were magic and a supposed gift of long life.
 
-<span id="fn_443"></span>[318:1](chj27.htm#fr_445) We must remember that
+<span id="fn_443"></span>[318:1](chj27.htm#fr_445.md) We must remember that
 it is the constant teaching of Japanese Buddhism that these Sūtras were
 actually spoken by Buddha. The Visitor evidently belongs to the Tendai,
 but the Tendai opened its wide heart to Amida worship as well as to
 other forms.
 
-<span id="fn_444"></span>[318:2](chj27.htm#fr_446) The sect of the Four
+<span id="fn_444"></span>[318:2](chj27.htm#fr_446.md) The sect of the Four
 S’āstras is one which never reached Japan; it was purely Chinese.
 
-<span id="fn_445"></span>[318:3](chj27.htm#fr_447) Fasciculus, though
+<span id="fn_445"></span>[318:3](chj27.htm#fr_447.md) Fasciculus, though
 rather a pedantic word, would be a better translation for the word
 *Kwan*. *Kwan* is really a bundle of six or eight volumes, enclosed in a
 case. Sixty *kwan* would therefore be 360 volumes at least.
 
-<span id="fn_446"></span>[319:1](chj27.htm#fr_448) This was in A.D. 1206
+<span id="fn_446"></span>[319:1](chj27.htm#fr_448.md) This was in A.D. 1206
 or 1207. Honen (otherwise known as Genkū) acted upon it, left Hieizan,
 built himself a cabin at Kurodani, near Kyōto, and there commenced his
 preaching of salvation by faith, thus being the founder of the older
@@ -802,11 +802,11 @@ Shinran, who went much further than Hōnen in his preaching of Faith.
 This is, I think, due to the fact that Shinran's activities were at that
 time confined to remote districts.
 
-<span id="fn_447"></span>[319:2](chj27.htm#fr_449) Proverbial
+<span id="fn_447"></span>[319:2](chj27.htm#fr_449.md) Proverbial
 expressions for needlessly scratching old sores or raking up forgotten
 controversies.
 
-<span id="fn_448"></span>[320:1](chj27.htm#fr_450) According to the
+<span id="fn_448"></span>[320:1](chj27.htm#fr_450.md) According to the
 "Five Periods," Shaka preached (i) the *Kegon*, which was *absolute
 Truth*, but which was too strong for mortal ears. The Kegon was
 delivered in the Heavenly Regions; (ii) *Agon*, the elementary truth of
@@ -819,7 +819,7 @@ Saddharma pundarika, or the Amida books? It is very difficult to decide;
 it is also very difficult to fit the three Amide Sūtras into any place
 in the Canon.
 
-<span id="fn_449"></span>[320:2](chj27.htm#fr_451) One difficulty which
+<span id="fn_449"></span>[320:2](chj27.htm#fr_451.md) One difficulty which
 Amidaists have to face is that their doctrine of the Sole Supremacy of
 Amida is not quite borne out by the teaching of the three books
 themselves, in which there are many other Buddhas mentioned, though
@@ -827,7 +827,7 @@ undoubtedly in inferior positions to Amida. But of the joy with which
 the common people heard this simplified doctrine (from whatever source
 it was taken) there can be no doubt.
 
-<span id="fn_450"></span>[321:1](chj27.htm#fr_452) The Emperor Gotoba
+<span id="fn_450"></span>[321:1](chj27.htm#fr_452.md) The Emperor Gotoba
 reigned from A.D. 1184–1198. Then he abdicated in favour of his son
 Tsuchimikado, and became a monk. But asp a monk (Gotoba-*in*) he
 continued to direct affairs in the name of his two sons, Tsuchimikado
@@ -841,21 +841,21 @@ out that the Japanese loyalty to the sovereign has always been a far
 superior article to anything produced elsewhere Gotoba was a steadfast
 patron of Hōnen Shōnin. Hence Nichiren's criticism.
 
-<span id="fn_451"></span>[322:1](chj27.htm#fr_453) These two temples,
+<span id="fn_451"></span>[322:1](chj27.htm#fr_453.md) These two temples,
 the one at Hieizan, the other at Nara, represent practically the old
 Indian sects and the newly established Japonicized establishment. It is
 as though we should say "Canterbury and Westminster," to denote
 Anglicans and Roman Catholics in England.
 
-<span id="fn_452"></span>[323:1](chj27.htm#fr_454) I have not been able
+<span id="fn_452"></span>[323:1](chj27.htm#fr_454.md) I have not been able
 to find the particulars about this incident.
 
-<span id="fn_453"></span>[323:2](chj27.htm#fr_455) It is noteworthy that
+<span id="fn_453"></span>[323:2](chj27.htm#fr_455.md) It is noteworthy that
 Shinran is never mentioned by Nichiren. Still, though Shinran's main
 activities lay in districts far remote from the places where Nichiren
 laboured, he was also exiled.
 
-<span id="fn_454"></span>[324:1](chj27.htm#fr_456) It would be amusing,
+<span id="fn_454"></span>[324:1](chj27.htm#fr_456.md) It would be amusing,
 if it were not so inexpressibly sad, to remember that this treatise was
 written in 1258. In 1229 the Council of Toulouse revised the measures of
 Innocent III. for "the detection and punishment of heretics," and in
@@ -864,18 +864,18 @@ Dominicans. Three centuries later, the Dominicans and Nichirenists meet
 face to face in Japan! The parallel is very striking; it is one of the
 bitterest sarcasms of history.
 
-<span id="fn_455"></span>[324:2](chj27.htm#fr_457) Not Dengyō, but the
+<span id="fn_455"></span>[324:2](chj27.htm#fr_457.md) Not Dengyō, but the
 original founder of the Tendai in China.
 
-<span id="fn_456"></span>[325:1](chj27.htm#fr_458) I must confess myself
+<span id="fn_456"></span>[325:1](chj27.htm#fr_458.md) I must confess myself
 to be utterly at sea as to the interpretation of this sentence. I do not
 know where to look for a description of Buddhism before Buddha, and the
 Buddhist dictionary (*Bukkyō Iroha Jiten*) which I have consulted throws
 no light on Nōnin (<span id="img_32500"></span> ![](img/32500.jpg)).
 
-<span id="fn_457"></span>[326:1](chj27.htm#fr_459) The invasion came in
+<span id="fn_457"></span>[326:1](chj27.htm#fr_459.md) The invasion came in
 1280; the rebellions were really going on all the while.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI. The Mongols](chj28)
+[Next: Chapter XXVI. The Mongols](chj28.md)

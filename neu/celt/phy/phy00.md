@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Next](phy01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Next](phy01.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,13 +37,13 @@ attribution is left intact in all copies.
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_front"></span>
 
 [![](tn/front.jpg)  
-Click to enlarge](img/front.jpg)
+Click to enlarge](img/front.jpg.md)
 
  
 
@@ -65,4 +65,4 @@ EDWARD CALLOW.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](phy01)
+[Next: Preface](phy01.md)

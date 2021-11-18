@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Next](pifs01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Next](pifs01.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_front"></span>
 
 [![THE BOY IN THE HOUSE OF THE TRUES (SEE PAGE 115.)](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 THE BOY IN THE HOUSE OF THE TRUES (SEE PAGE 115.)  
 
 TO  
@@ -32,4 +32,4 @@ MY WIFE AND CHILD
 
 ------------------------------------------------------------------------
 
-[Next: Contents](pifs01)
+[Next: Contents](pifs01.md)

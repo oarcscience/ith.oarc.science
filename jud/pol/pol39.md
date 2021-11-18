@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol38)  [Next](pol40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol38)  [Next](pol40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -75,7 +75,7 @@ he loves figs and will fill thy basket with golden coin."
 
 When her husband approached the gates of the palace, he told his errand
 to the guards, saying, "I brought these figs to the emperor; empty my
-basket I pray, and fill [it](errata.htm#7) up again with gold."
+basket I pray, and fill [it](errata.htm#7.md) up again with gold."
 
 When this was told to the emperor, he ordered the old man to stand in
 the hallway of the palace, and all who
@@ -90,4 +90,4 @@ cocoanuts instead of figs thou mightest have suffered harder raps."
 
 ------------------------------------------------------------------------
 
-[Next: Proving a Claim](pol40)
+[Next: Proving a Claim](pol40.md)

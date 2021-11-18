@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr49)  [Next](corr51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr49)  [Next](corr51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -87,10 +87,10 @@ have any objection, send you a copy. Farewell.
 
 ### Footnotes
 
-<span id="fn_59"></span>[371:1](corr49.htm#fr_60) Francis Lana, of
+<span id="fn_59"></span>[371:1](corr49.htm#fr_60.md) Francis Lana, of
 Brescia, 1631-1687. The title of his book is, "Prodromo premesso all’
 Arte maestra." He also wrote "Magistræ naturæ et artis."
 
 ------------------------------------------------------------------------
 
-[Next: Letter LIII. From Fabritius](corr51)
+[Next: Letter LIII. From Fabritius](corr51.md)

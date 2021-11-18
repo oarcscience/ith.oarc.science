@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm32)  [Next](pnm34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm32)  [Next](pnm34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Laurence ed. \[1913\], at Intangible Textual Heritage
 <span class="smallcaps">These</span> things are Lunary, amongst the
 Elements, viz.: The earth, then the water, as well that of the sea as of
 the rivers; and all moist things, as the moisture of trees and animals,
-especially they which are white, as the whites of [eggs](errata.htm#2),
+especially they which are white, as the whites of [eggs](errata.htm#2.md),
 fat, sweat, phlegm, and the superfluities of bodies. Amongst tastes,
 salt and insipid; amongst metals, silver; amongst stones, crystal, the
 silver marcasite, and all those stones that are white and green. Also
@@ -86,4 +86,4 @@ Moon, as the tortoise, the echeneis, crabs, oysters, cockles and frogs.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXV. What Things Are Saturnine, or Under the Power of
-Saturn](pnm34)
+Saturn](pnm34.md)

@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo05)  [Next](hoo07) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo05)  [Next](hoo07.md) 
 
 ------------------------------------------------------------------------
 
 ###### I.
 
-### TO THE GODDESS PROTHYRÆA <span id="fr_45"></span>[\*](#fn_45).
+### TO THE GODDESS PROTHYRÆA <span id="fr_45"></span>[\*](#fn_45.md).
 
 ###### The FUMIGATION from STORAX.
 
@@ -39,7 +39,7 @@ And make the infant race thy constant care.
 
 ### Footnotes
 
-<span id="fn_45"></span>[114:\*](hoo06.htm#fr_45) An epithet of Diana's,
+<span id="fn_45"></span>[114:\*](hoo06.htm#fr_45.md) An epithet of Diana's,
 alluding to her presiding over gates, and being as it were the
 gate-keeper of life. It is remarkable that the first of these Hymns
 should be addressed to the goddess who ushers in our existence, and the
@@ -47,4 +47,4 @@ last to Death. This certainly proves the collection is complete.
 
 ------------------------------------------------------------------------
 
-[Next: II. To Night](hoo07)
+[Next: II. To Night](hoo07.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma03)  [Next](cma05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma03)  [Next](cma05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -143,7 +143,7 @@ mould. A great many people were waiting there, all very dry, very
 thirsty,--all hoping for water.
 
 "I sent for you to come," said Olelbis, "and you must hlaha <span
-id="fr_1"></span>[1](#fn_1) five nights. All my people, all my children,
+id="fr_1"></span>[1](#fn_1.md) five nights. All my people, all my children,
 are dry. I am dry myself I lost my wife five years ago. I don't know
 where she went, and we have no water since she left us. I want you to
 sing and to dance. I want you to find out where my wife is."
@@ -181,7 +181,7 @@ and the two girls sang for him.
 He danced five days and nights, and then said: "I can tell nothing. I
 know nothing about this woman, Mem Loimis."
 
-Every bola heris <span id="fr_2"></span>[1](#fn_2) that was lying inside
+Every bola heris <span id="fr_2"></span>[1](#fn_2.md) that was lying inside
 the sweat-house was terribly thirsty. One old man got up and said,--
 
 "What kind of a Hlahi have you here? What kind of a Hlahi is Kopus? He
@@ -512,14 +512,14 @@ spring,--wherever a drop fell a spring appeared.
 
 ### Footnotes
 
-<span id="fn_1"></span>[54:1](cma04.htm#fr_1) Hlaha means, "to perform
+<span id="fn_1"></span>[54:1](cma04.htm#fr_1.md) Hlaha means, "to perform
 as a Hlahi, or doctor."
 
-<span id="fn_2"></span>[55:1](cma04.htm#fr_2) Bola means "to tell one of
+<span id="fn_2"></span>[55:1](cma04.htm#fr_2.md) Bola means "to tell one of
 the creation myths;" bolas means "one of the myths;" bola heris is an
 actor in any of them, a personage mentioned or described in a creation
 myth.
 
 ------------------------------------------------------------------------
 
-[Next: Norwan](cma05)
+[Next: Norwan](cma05.md)

@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Hindu](../index)
+[Intangible Textual Heritage](../../index) [Hindu](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@
 
 ------------------------------------------------------------------------
 
-[<span class="small">note to the hypertext transcription</span>](note)  
+[<span class="small">note to the hypertext transcription</span>](note.md)  
 
 <table data-align="center">
 <colgroup>

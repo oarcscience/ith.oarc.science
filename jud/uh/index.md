@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000BD19YW/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000BD19YW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000BD19YW/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](uh00)    [Page
-Index](pageidx)    [Text \[Zipped\]](uhtxt.zip)
+[Contents](#contents)    [Start Reading](uh00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](uhtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ Index](pageidx)    [Text \[Zipped\]](uhtxt.zip)
 
 *Should enemies again assail us, the remembrance of the exodus of our
 fathers from Egypt will never fail to inspire us with new
-courage...*--[p. 34](uh14)
+courage...*--[p. 34](uh14.md)
 
 This is the text of a Haggadah, a book which describes the Seder dinner
 service at Pesach (Passover). The moving, participatory ceremony
@@ -52,48 +52,48 @@ illustrations and initials, (credited to Isidore Lipton in the
 appendix). The printed edition includes the Hebrew text and about forty
 pages of sheet music which had to be left out of this online
 presentation for technical reasons. Incidental Hebrew in the English
-text is presented using [Unicode](../../unicode).
+text is presented using [Unicode](../../unicode.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](uh00)  
-[Contents](uh01)  
-[Illustrations](uh02)  
-[The Seder—A Foreword](uh03)  
-[The Union Haggadah](uh04)  
-[Rites and Symbols of the Seder](uh05)  
-[Directions for Setting the Table](uh06)  
-[Order of the Service](uh07)  
+<span id="contents"></span> [Title Page](uh00.md)  
+[Contents](uh01.md)  
+[Illustrations](uh02.md)  
+[The Seder—A Foreword](uh03.md)  
+[The Union Haggadah](uh04.md)  
+[Rites and Symbols of the Seder](uh05.md)  
+[Directions for Setting the Table](uh06.md)  
+[Order of the Service](uh07.md)  
 <span id="section_000"></span>
 
 ### The Seder Service
 
-[Lighting the Festival Lights](uh08)  
-[Kiddush](uh09)  
-[The Four Questions](uh10)  
-[The Four Sons](uh11)  
-[The Story of the Oppression](uh12)  
-[Dayenu](uh13)  
-[The Passover Symbols](uh14)  
-[The Watch-night of the Eternal](uh15)  
-[Hallel](uh16)  
-[Blessings](uh17)  
+[Lighting the Festival Lights](uh08.md)  
+[Kiddush](uh09.md)  
+[The Four Questions](uh10.md)  
+[The Four Sons](uh11.md)  
+[The Story of the Oppression](uh12.md)  
+[Dayenu](uh13.md)  
+[The Passover Symbols](uh14.md)  
+[The Watch-night of the Eternal](uh15.md)  
+[Hallel](uh16.md)  
+[Blessings](uh17.md)  
 <span id="section_001"></span>
 
 ### After the Meal
 
-[Grace after the Meal](uh18)  
-[The Final Benediction](uh19)  
-[A Madrigal of Numbers](uh20)  
-[Ḥad Gadyo](uh21)  
-[Vay’hi Baḥatzi Halay'loh](uh22)  
+[Grace after the Meal](uh18.md)  
+[The Final Benediction](uh19.md)  
+[A Madrigal of Numbers](uh20.md)  
+[Ḥad Gadyo](uh21.md)  
+[Vay’hi Baḥatzi Halay'loh](uh22.md)  
 <span id="section_002"></span>
 
 ### Passover in History, Literature and Art
 
-[History of the Passover](uh23)  
-[Preparations for Passover](uh24)  
-[Survivals of the Ancient Passover](uh25)  
-[Passover and Christendom](uh26)  
-[Reform Judaism and Passover](uh27)  
-[The Haggadah](uh28)  
+[History of the Passover](uh23.md)  
+[Preparations for Passover](uh24.md)  
+[Survivals of the Ancient Passover](uh25.md)  
+[Passover and Christendom](uh26.md)  
+[Reform Judaism and Passover](uh27.md)  
+[The Haggadah](uh28.md)  

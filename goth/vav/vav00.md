@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Next](vav01) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Next](vav01.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ will be his sire's sire."--Rig-Veda (I.164.16).
 
 ------------------------------------------------------------------------
 
-[Next: Contents](vav01)
+[Next: Contents](vav01.md)

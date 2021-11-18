@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks25)  [Next](mks27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks25)  [Next](mks27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -267,7 +267,7 @@ Infinite Supply for the ideas which he needed (and which formed the seed
 of his success), but he also used the Creative Power of Thought in
 building up for himself an Idealistic Pattern of that which he hoped to
 manifest in material form, adding thereto, changing, improving its
-detail, from time [to](errata.htm#5) time—proceeding from the general
+detail, from time [to](errata.htm#5.md) time—proceeding from the general
 outline to the finished detail. I judge this to be the facts of the
 case, not alone from my recollection of the conversation two years ago,
 but also because I have found the same thing to be true
@@ -376,4 +376,4 @@ of the result of our dynamic experiment.—Francis Larimer Warner.
 
 ------------------------------------------------------------------------
 
-[Next: Part Twenty-Four](mks27)
+[Next: Part Twenty-Four](mks27.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc18)  [Next](sfoc20) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc18)  [Next](sfoc20.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ and medicine-drinking.
 
 ------------------------------------------------------------------------
 
-[Next: Description of Symptoms](sfoc20)
+[Next: Description of Symptoms](sfoc20.md)

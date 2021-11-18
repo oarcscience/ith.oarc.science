@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng05)  [Next](nblng07) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng05)  [Next](nblng07.md) 
 
 ------------------------------------------------------------------------
 
@@ -449,4 +449,4 @@ silver.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure V: How Siegfried First Saw Kriemhild.](nblng07)
+[Next: Adventure V: How Siegfried First Saw Kriemhild.](nblng07.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj18) 
-[Next](npj20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj18.md) 
+[Next](npj20.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ CHORUS.
 
 PRIEST.
 
-We who on shallow hills <span id="fr_90"></span>[1](#fn_88) have built
+We who on shallow hills <span id="fr_90"></span>[1](#fn_88.md) have built
 our home  
 In the heart's deep recess seek solitude.
 
@@ -65,7 +65,7 @@ the country of Tsu. Let us rest in this place.
 
 KOMACHI.
 
-Like a root-cut reed, <span id="fr_91"></span>[1](#fn_89)  
+Like a root-cut reed, <span id="fr_91"></span>[1](#fn_89.md)  
 Should the tide entice,  
 I would come, I think; but now  
 No wave asks; no stream stirs.  
@@ -98,7 +98,7 @@ To the River of Katsura, the boats, the moonlight.
 
 <span id="page_116">p. 116</span>
 
-Who are those rowing in the boats? <span id="fr_92"></span>[1](#fn_90)  
+Who are those rowing in the boats? <span id="fr_92"></span>[1](#fn_90.md)  
 Oh, I am weary. I will sit on this tree-stump and rest awhile.
 
 PRIEST.
@@ -127,14 +127,14 @@ Shall not make manifest its power?
 KOMACHI.
 
 I too am a poor withered bough.  
-But there are flowers at my heart, <span id="fr_93"></span>[2](#fn_91)  
+But there are flowers at my heart, <span id="fr_93"></span>[2](#fn_91.md)  
 Good enough, maybe, for an offering.  
 But why is this called Buddha's body?
 
 PRIEST.
 
 Hear then! This Stūpa is the Body of the Diamond Lord. <span
-id="fr_94"></span>[3](#fn_92) It is the symbol of his incarnation.
+id="fr_94"></span>[3](#fn_92.md) It is the symbol of his incarnation.
 
 KOMACHI.
 
@@ -163,12 +163,12 @@ And what is the virtue of the Stūpa?
 PRIEST.
 
 "He that has looked once upon the Stūpa, shall escape forever from the
-Three Paths of Evil." <span id="fr_95"></span>[1](#fn_93)
+Three Paths of Evil." <span id="fr_95"></span>[1](#fn_93.md)
 
 KOMACHI.
 
 "One thought can sow salvation in the heart." <span
-id="fr_96"></span>[2](#fn_94) Is that of less price?
+id="fr_96"></span>[2](#fn_94.md) Is that of less price?
 
 SECOND PRIEST.
 
@@ -203,7 +203,7 @@ it?
 
 PRIEST.
 
-It was an act of discord. <span id="fr_97"></span>[1](#fn_95)
+It was an act of discord. <span id="fr_97"></span>[1](#fn_95.md)
 
 KOMACHI.
 
@@ -211,19 +211,19 @@ Sometimes from discord salvation springs.
 
 SECOND PRIEST.
 
-From the malice of Daiba ... <span id="fr_98"></span>[2](#fn_96)
+From the malice of Daiba ... <span id="fr_98"></span>[2](#fn_96.md)
 
 KOMACHI.
 
-As from the mercy of Kwannon. <span id="fr_99"></span>[3](#fn_97)
+As from the mercy of Kwannon. <span id="fr_99"></span>[3](#fn_97.md)
 
 PRIEST.
 
-From the folly of Handoku ...  <span id="fr_100"></span>[4](#fn_98)
+From the folly of Handoku ...  <span id="fr_100"></span>[4](#fn_98.md)
 
 KOMACHI.
 
-As from the wisdom of Monju. <span id="fr_101"></span>[5](#fn_99)
+As from the wisdom of Monju. <span id="fr_101"></span>[5](#fn_99.md)
 
 SECOND PRIEST.
 
@@ -239,7 +239,7 @@ That which is called Illusion
 
 KOMACHI.
 
-Is Salvation. <span id="fr_102"></span>[6](#fn_100)
+Is Salvation. <span id="fr_102"></span>[6](#fn_100.md)
 
 SECOND PRIEST.
 
@@ -281,7 +281,7 @@ Recite a riddle, a jesting song.
 "Were I in Heaven  
 The Stūpa were an ill seat;  
 But here, in the world without,  
-What harm is done?" <span id="fr_103"></span>[1](#fn_101)
+What harm is done?" <span id="fr_103"></span>[1](#fn_101.md)
 
 CHORUS.
 
@@ -365,7 +365,7 @@ Sagittaries white and black.
 
 CHORUS.
 
-Tattered cloak, <span id="fr_104"></span>[1](#fn_102)
+Tattered cloak, <span id="fr_104"></span>[1](#fn_102.md)
 
 KOMACHI.
 
@@ -406,7 +406,7 @@ What do you want?
 
 KOMACHI.
 
-Let me go to Komachi. <span id="fr_105"></span>[1](#fn_103)
+Let me go to Komachi. <span id="fr_105"></span>[1](#fn_103.md)
 
 PRIEST.
 
@@ -431,7 +431,7 @@ KOMACHI.
 There were many who set their hearts on her,  
 But among them all  
 It was Shōshō who loved her best,  
-Shii no Shōshō of the Deep Grass. <span id="fr_106"></span>[2](#fn_104)
+Shii no Shōshō of the Deep Grass. <span id="fr_106"></span>[2](#fn_104.md)
 
 CHORUS (*speaking for* KOMACHI*, i. e. for the spirit of Sōshō*).
 
@@ -497,9 +497,9 @@ Was it his spirit that possessed me,
 Was it his anger that broke my wits?  
 If this be so, let me pray for the life hereafter,  
 Where alone is comfort;  
-Piling high the sands <span id="fr_107"></span>[1](#fn_105)  
-Till I be burnished as gold. <span id="fr_108"></span>[2](#fn_106)  
-See, I offer my flower <span id="fr_109"></span>[3](#fn_107) to
+Piling high the sands <span id="fr_107"></span>[1](#fn_105.md)  
+Till I be burnished as gold. <span id="fr_108"></span>[2](#fn_106.md)  
+See, I offer my flower <span id="fr_109"></span>[3](#fn_107.md) to
 Buddha,  
 1 hold it in both hands.  
 Oh may He lead me into the Path of Truth,  
@@ -511,67 +511,67 @@ Into the Path of Truth.
 
 ### Footnotes
 
-<span id="fn_88"></span>[114:1](npj19.htm#fr_90) The Kōyasan is not so
+<span id="fn_88"></span>[114:1](npj19.htm#fr_90.md) The Kōyasan is not so
 remote as most mountain temples.
 
-<span id="fn_89"></span>[115:1](npj19.htm#fr_91) See [p.
-113](npj18.htm#page_113).
+<span id="fn_89"></span>[115:1](npj19.htm#fr_91.md) See [p.
+113](npj18.htm#page_113.md).
 
-<span id="fn_90"></span>[116:1](npj19.htm#fr_92) Seami, writing c. 1430,
+<span id="fn_90"></span>[116:1](npj19.htm#fr_92.md) Seami, writing c. 1430,
 says: "Komachi was once a long play. After the words 'Who are those,'
 etc., there used to be a long lyric passage" (*Works*, p. 240).
 
-<span id="fn_91"></span>[116:2](npj19.htm#fr_93) "Heart flowers,"
+<span id="fn_91"></span>[116:2](npj19.htm#fr_93.md) "Heart flowers,"
 *kokoro no hana*, is a synonym for "poetry."
 
-<span id="fn_92"></span>[116:3](npj19.htm#fr_94) Vajrasattya, himself an
+<span id="fn_92"></span>[116:3](npj19.htm#fr_94.md) Vajrasattya, himself an
 emanation of Vairochana, the principal Buddha of the Shingon Sect.
 
-<span id="fn_93"></span>[117:1](npj19.htm#fr_95) From the Nirvāna Sūtra.
+<span id="fn_93"></span>[117:1](npj19.htm#fr_95.md) From the Nirvāna Sūtra.
 
-<span id="fn_94"></span>[117:2](npj19.htm#fr_96) From the Avatamsaka
+<span id="fn_94"></span>[117:2](npj19.htm#fr_96.md) From the Avatamsaka
 Sūtra.
 
-<span id="fn_95"></span>[118:1](npj19.htm#fr_97) Lit. "discordant
+<span id="fn_95"></span>[118:1](npj19.htm#fr_97.md) Lit. "discordant
 karma."
 
-<span id="fn_96"></span>[118:2](npj19.htm#fr_98) A wicked disciple who
+<span id="fn_96"></span>[118:2](npj19.htm#fr_98.md) A wicked disciple who
 in the end attained to illumination. Also called Datta; cp. Kumasaka, p.
 63.
 
-<span id="fn_97"></span>[118:3](npj19.htm#fr_99) The Goddess of Mercy.
+<span id="fn_97"></span>[118:3](npj19.htm#fr_99.md) The Goddess of Mercy.
 
-<span id="fn_98"></span>[118:4](npj19.htm#fr_100) A disciple so witless
+<span id="fn_98"></span>[118:4](npj19.htm#fr_100.md) A disciple so witless
 that he could not recite a single verse of Scripture.
 
-<span id="fn_99"></span>[118:5](npj19.htm#fr_101) God of Wisdom.
+<span id="fn_99"></span>[118:5](npj19.htm#fr_101.md) God of Wisdom.
 
-<span id="fn_100"></span>[118:6](npj19.htm#fr_102) From the Nirvāna
+<span id="fn_100"></span>[118:6](npj19.htm#fr_102.md) From the Nirvāna
 Sūtra.
 
-<span id="fn_101"></span>[119:1](npj19.htm#fr_103) The riddle depends on
+<span id="fn_101"></span>[119:1](npj19.htm#fr_103.md) The riddle depends on
 a pun between *sotoba* and *soto wa*, "without" "outside."
 
-<span id="fn_102"></span>[121:1](npj19.htm#fr_104) The words which
+<span id="fn_102"></span>[121:1](npj19.htm#fr_104.md) The words which
 follow suggest the plight of her lover Shōshō when he travelled to her
 house "a hundred nights all but one," to cut his notch on the bench.
 
-<span id="fn_103"></span>[122:1](npj19.htm#fr_105) The spirit of her
+<span id="fn_103"></span>[122:1](npj19.htm#fr_105.md) The spirit of her
 lover Shōshō has now entirely possessed her: this "possession-scene"
 lasts very much longer on the stage than the brief words would suggest.
 
-<span id="fn_104"></span>[122:2](npj19.htm#fr_106) Fukagusa the name of
+<span id="fn_104"></span>[122:2](npj19.htm#fr_106.md) Fukagusa the name of
 his native place, means "deep grass."
 
-<span id="fn_105"></span>[124:1](npj19.htm#fr_107) See *Hokkekyō*, II.
+<span id="fn_105"></span>[124:1](npj19.htm#fr_107.md) See *Hokkekyō*, II.
 18.
 
-<span id="fn_106"></span>[124:2](npj19.htm#fr_108) The colour of the
+<span id="fn_106"></span>[124:2](npj19.htm#fr_108.md) The colour of the
 saints in heaven.
 
-<span id="fn_107"></span>[124:3](npj19.htm#fr_109) Her "heart-flower."
+<span id="fn_107"></span>[124:3](npj19.htm#fr_109.md) Her "heart-flower."
 i.e. poetic talent.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](npj20)
+[Next: Chapter IV](npj20.md)

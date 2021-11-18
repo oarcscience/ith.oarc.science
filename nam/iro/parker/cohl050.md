@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl049)  [Next](cohl051) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl049)  [Next](cohl051.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 "'We, the messengers of the Creator, are of the opinion that the world
 will continue for three generations longer (or three hundred
-years). <span id="fr_43"></span>[1](#fn_43) Then will Gai'wiio\` be
+years). <span id="fr_43"></span>[1](#fn_43.md) Then will Gai'wiio\` be
 fulfilled.'"
 
 So they said and he said. Eniaiehuk.
@@ -21,9 +21,9 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_43"></span>[44:1](cohl050.htm#fr_43) Handsome Lake taught
+<span id="fn_43"></span>[44:1](cohl050.htm#fr_43.md) Handsome Lake taught
 that the world would end in the year 2100.
 
 ------------------------------------------------------------------------
 
-[Next: Section 40](cohl051)
+[Next: Section 40](cohl051.md)

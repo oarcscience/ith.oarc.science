@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](ham05)  [Next](ham07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](ham05)  [Next](ham07.md) 
 
 ------------------------------------------------------------------------
 
@@ -483,4 +483,4 @@ man's slave, he shall pay one-half of its value.
 
 ------------------------------------------------------------------------
 
-[Next: Paragraphs 200-282](ham07)
+[Next: Paragraphs 200-282](ham07.md)

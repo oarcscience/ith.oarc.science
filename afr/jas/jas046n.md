@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas045n)  [Next](jas047n)   
- \[[46. Why Tumble-bug Rolls in the Dung.](jas046)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas045n)  [Next](jas047n.md)   
+ \[[46. Why Tumble-bug Rolls in the Dung.](jas046.md)\]
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ number 35 in this collection.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Note 47. Why John-crow has a Bald Head.](jas047n)
+[Next: Note 47. Why John-crow has a Bald Head.](jas047n.md)

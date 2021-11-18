@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre24)  [Next](gre26) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre24)  [Next](gre26.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ joyance and fame.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI: Of Grettir and Biorn and the Bear](gre26)
+[Next: Chapter XXI: Of Grettir and Biorn and the Bear](gre26.md)

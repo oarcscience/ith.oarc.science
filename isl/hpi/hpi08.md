@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi07)  [Next](hpi09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi07)  [Next](hpi09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -152,7 +152,7 @@ God." Men would not have their delight in the minutiae of their language
 disturbed by general philosophic speculations. Many a word-form,
 originating with the translators of foreign works, was held in
 detestation by purist Grammarians. The beautiful art of
-[calligraphy](errata.htm#3), more decorative in its nature than
+[calligraphy](errata.htm#3.md), more decorative in its nature than
 constructive, like Arabic art in general, became developed in noble,
 delicate forms, and met with a wider expansion than scientific research
 into the language. In the very characters of the Arabic speech, we may
@@ -162,4 +162,4 @@ entire development of Arab culture.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Ethical Teaching](hpi09)
+[Next: 2. Ethical Teaching](hpi09.md)

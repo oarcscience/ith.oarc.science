@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt36)  [Next](crt38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt36)  [Next](crt38.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_30200"></span>
 
 [![The Demoiselle Blanchefleur](tn/30200.jpg)  
-Click to enlarge](img/30200.jpg)  
+Click to enlarge](img/30200.jpg.md)  
 The Demoiselle Blanchefleur  
 
 <span id="page_303">p. 303</span>
@@ -697,4 +697,4 @@ all your quests with as great honor and nobility as therein exhibited.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fifth](crt38)
+[Next: Chapter Fifth](crt38.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft04)  [Next](zft06) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft04)  [Next](zft06.md) 
 
 ------------------------------------------------------------------------
 
@@ -325,4 +325,4 @@ they be aught but poor to the end of their days? Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: How The Summer Birds Came](zft06)
+[Next: How The Summer Birds Came](zft06.md)

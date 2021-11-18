@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh12) 
-[Next](lgh14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh12.md) 
+[Next](lgh14.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,7 +171,7 @@ men showed a mighty mound of earth from which grew a knot of trees, and
 they called it the tomb and the grove of Protesilaus, in memory of whom
 those trees, as they said, showed a strange half human sympathy.
 
-"For ever when such height they had attain’d, [11](lgh14.htm#xref_11)  
+"For ever when such height they had attain’d, [11](lgh14.htm#xref_11.md)  
 That Ilium's walls were subject to their view,  
 The trees' tall summits wither’d at the sight,  
 A constant interchange of growth and blight."
@@ -182,4 +182,4 @@ A constant interchange of growth and blight."
 
 ------------------------------------------------------------------------
 
-[Next: Notes](lgh14)
+[Next: Notes](lgh14.md)

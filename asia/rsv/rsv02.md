@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv01)  [Next](rsv03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv01)  [Next](rsv03.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Heritage
 
 <span id="img__00500"></span> ![DEPARTMENT OF THE NAVY; BUREAU OF NAVAL
 PERSONNEL; WASHINGTON. D.C. 20370; IN REPLY REFER TO; December
-1966](img/_00500.jpg)
+1966](img/_00500.jpg.md)
 
 The naval establishment has traditionally emphasized the requirement for
 all personnel serving abroad to honor and respect the customs,
@@ -26,10 +26,10 @@ Counterinsurgency operations add new dimensions to this requirement.
 Operation Silver Lance, a Marine training exercise which took place on
 the U. S. west coast in March 1965, included simulation of the problems
 which arise when military personnel are not informed about the religious
-and [value](errata.htm#0) systems of a host country. This exercise
+and [value](errata.htm#0.md) systems of a host country. This exercise
 demonstrated that such a lack of information can create alienation of
 local peoples, a decrease in security, and a potential increase in
-[casualties](errata.htm#1). The experience gained was subsequently
+[casualties](errata.htm#1.md). The experience gained was subsequently
 determined to be applicable to the growing conflict in Vietnam.
 
 At the request of the Commanding General, Fleet Marine Force, Pacific,
@@ -108,8 +108,8 @@ winning the hearts and minds of the Vietnamese people to the desire for
 and defense of their own self-determination as a nation.
 
 <span id="img__00700"></span> ![(signed) JAMES W. KELLY; Rear Admiral,
-HC, USN Chief of Chaplains](img/_00700.jpg)
+HC, USN Chief of Chaplains](img/_00700.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](rsv03)
+[Next: Introduction](rsv03.md)

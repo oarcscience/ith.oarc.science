@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq73)  [Next](sfq75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq73)  [Next](sfq75.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ all their adventures. While they
 <span id="img_37300"></span>
 
 [![](tn/37300.jpg)  
-Click to enlarge](img/37300.jpg)
+Click to enlarge](img/37300.jpg.md)
 
 were chatting together, the Lady Serena wandered away into the fields to
 pluck some flowers. Then suddenly, from the forest near, the Blatant
@@ -153,4 +153,4 @@ were singing to their flocks.
 
 ------------------------------------------------------------------------
 
-[Next: Coridon and Pastorella](sfq75)
+[Next: Coridon and Pastorella](sfq75.md)

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca04)  [Next](fsca06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca04)  [Next](fsca06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -99,15 +99,15 @@ Lapidaria for stones. It permeated the whole life of the people in its
 religious uses, and entered romantically into the half-religious,
 half-mystical observances of chivalry, the very armour of the valiant
 knight being full of meanings which it was his duty to know." <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[17:\*](fsca05.htm#fr_0) "Decorative Heraldry,"
+<span id="fn_0"></span>[17:\*](fsca05.htm#fr_0.md) "Decorative Heraldry,"
 by G. W. Eve.
 
 ------------------------------------------------------------------------
 
-[Next: The Symbolism of Attitude or Position](fsca06)
+[Next: The Symbolism of Attitude or Position](fsca06.md)

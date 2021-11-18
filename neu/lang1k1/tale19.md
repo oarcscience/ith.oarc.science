@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale18)  [Next](tale20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale18)  [Next](tale20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -153,7 +153,7 @@ down-down-down to the depths of the horrible cavern,
 <span id="img_15700"></span>
 
 [![SINDBAD LOWERED INTO THE CAVERN](tn/15700.jpg)  
-Click to enlarge](img/15700.jpg)  
+Click to enlarge](img/15700.jpg.md)  
 SINDBAD LOWERED INTO THE CAVERN  
 
 <span id="page_158">p. 158</span> <span id="page_159">p. 159</span>
@@ -281,4 +281,4 @@ drunk of all that was set before them Sindbad began his tale.
 
 ------------------------------------------------------------------------
 
-[Next: Fifth Voyage](tale20)
+[Next: Fifth Voyage](tale20.md)

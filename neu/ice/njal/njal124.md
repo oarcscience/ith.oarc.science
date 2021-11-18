@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal123)  [Next](njal125) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal123)  [Next](njal125.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ comes ever before great tidings."
 
 ------------------------------------------------------------------------
 
-[Next: 125. Flosi's Journey From Home](njal125)
+[Next: 125. Flosi's Journey From Home](njal125.md)

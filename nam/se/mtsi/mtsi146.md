@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi145)  [Next](mtsi147) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi145)  [Next](mtsi147.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ brought in a fawn.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Deer Taboos](mtsi147)
+[Next: 11. The Deer Taboos](mtsi147.md)

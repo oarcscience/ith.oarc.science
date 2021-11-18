@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre42)  [Next](gre44) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre42)  [Next](gre44.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ he could get to meet the king.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIX: How Grettir would fain bear Iron before the
-King](gre44)
+King](gre44.md)

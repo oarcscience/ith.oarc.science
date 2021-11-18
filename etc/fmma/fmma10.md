@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma09)  [Next](fmma11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma09)  [Next](fmma11.md) 
 
 ------------------------------------------------------------------------
 
@@ -232,4 +232,4 @@ or sleeping. He died in 565 at the age of eighty-three years.
 
 ------------------------------------------------------------------------
 
-[Next: Mohammed. Lived from 570-632 A.D.](fmma11)
+[Next: Mohammed. Lived from 570-632 A.D.](fmma11.md)

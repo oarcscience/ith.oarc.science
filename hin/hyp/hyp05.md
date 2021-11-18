@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](hyp04)  [Next](hyp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](hyp04)  [Next](hyp06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121505755/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -567,7 +567,7 @@ id="an_46.">46.</span></span>
 
 *Note*.—<span id="img_03500"></span> <span align="CENTER">
 [![](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)</span>
+Click to enlarge](img/03500.jpg.md)</span>
 
 Translation: Fortunate are the parents and blessed is the country and
 the family where a Yogî is born. Anything given to such a Yogî, becomes
@@ -581,7 +581,7 @@ A Yogî far exceeds a thousand householders, a hundred vânaprasthas, and
 a thousand Brahmacharîs.
 
 <span id="img_03502"></span> <span align="CENTER"> [![](tn/03502.jpg)  
-Click to enlarge](img/03502.jpg)</span>
+Click to enlarge](img/03502.jpg.md)</span>
 
 Who can know the reality of the Raja Yoga? That country is very sacred
 where resides a man who knows it. By seeing and honouring him,
@@ -827,7 +827,7 @@ class="margnote"><span id="an_65.">65.</span></span>
 
 *Note*.—<span id="img_03800"></span> <span align="CENTER">
 [![](tn/03800.jpg)  
-Click to enlarge](img/03800.jpg)</span>
+Click to enlarge](img/03800.jpg.md)</span>
 
 In the centre of the body is the seat of fire, like heated gold.
 
@@ -925,7 +925,7 @@ id="an_72.">72.</span></span>
 
 *Note*.—<span id="img_03900"></span> <span align="CENTER">
 [![](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)</span>
+Click to enlarge](img/03900.jpg.md)</span>
 
 The sixteen vital parts mentioned by renowned Yogîs are the (1) thumbs,
 (2) ankles, (3) knees, (4) thighs, (5) the prepuce, (6) organs of
@@ -1381,7 +1381,7 @@ vajrāsane sthito yoghī chālayitvā cha kuṇḍalīm \|
 kuryādanantaraṃ bhastrāṃ kuṇḍalīmāśu bodhayet \|\| 115 \|\|
 
 The Yogî, sitting with Vajra-âsana and having moved Kuṇḍalî, should
-[perform](errata.htm#2) Bhastrikâ to awaken the Kuṇḍalî soon. <span
+[perform](errata.htm#2.md) Bhastrikâ to awaken the Kuṇḍalî soon. <span
 class="margnote"><span id="an_108.">108.</span></span>
 
 भानोराकुनछनं कुर्यात्कुण्डलीं छालयेत्ततः \|  
@@ -1413,7 +1413,7 @@ id="an_110.">110.</span></span>
 tena kuṇḍalinī tasyāḥ suṣhumṇāyā mukhaṃ dhruvam \|  
 jahāti tasmātprāṇo\|ayaṃ suṣhumṇāṃ vrajati svataḥ \|\| 118 \|\|
 
-By this [Kuṇḍalinî](errata.htm#3) leaves the entrance of the Suṣumnâ at
+By this [Kuṇḍalinî](errata.htm#3.md) leaves the entrance of the Suṣumnâ at
 once, and the Prâṇa enters it of itself. <span class="margnote"><span
 id="an_111.">111.</span></span>
 
@@ -1552,4 +1552,4 @@ iti haṭha-pradīpikāyāṃ tṝtīyopadeśaḥ \|
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. On Samâdhi.](hyp06)
+[Next: Chapter IV. On Samâdhi.](hyp06.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc08)  [Next](fotc10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc08)  [Next](fotc10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -48,4 +48,4 @@ unhurt, threw himself into the Tay, and escaped to the opposite bank.
 
 ------------------------------------------------------------------------
 
-[Next: The Conflict of Tuiteam-Tarbhach](fotc10)
+[Next: The Conflict of Tuiteam-Tarbhach](fotc10.md)

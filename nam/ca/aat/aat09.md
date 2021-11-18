@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat08)  [Next](aat10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat08)  [Next](aat10.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ he touched them, they turned back into sticks and shavings.
 
 ------------------------------------------------------------------------
 
-[Next: 9. The Mole and the Sun (Achomawi)](aat10)
+[Next: 9. The Mole and the Sun (Achomawi)](aat10.md)

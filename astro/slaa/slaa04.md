@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa03)  [Next](slaa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa03)  [Next](slaa05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -56,7 +56,7 @@ basis of mythology lies in the idolatrous worship of the solar great
 father, and the lunar great mother, who were the first objects of
 worship that the history of the race records.
 
-"The great father," says Faber, <span id="fr_6"></span>[1](#fn_6) "was
+"The great father," says Faber, <span id="fr_6"></span>[1](#fn_6.md) "was
 Noah viewed as a transmigratory reappearance of Adam, and multiplying
 himself into three sons at the beginning of each world, the great mother
 was the earth considered as an enormous ship floating on the vast abyss,
@@ -86,7 +86,7 @@ regarded the Moon as a man, and the Sun his wife. The story goes that
 she fell twice; the first time she was restored to heaven by an Indian,
 but the second time she set the forest blazing in a deluge of fire.
 
-Tylor <span id="fr_7"></span>[1](#fn_7) tells us that the Ottawa
+Tylor <span id="fr_7"></span>[1](#fn_7.md) tells us that the Ottawa
 Indians, in their story of Iosco, describe the Sun and Moon as brother
 and sister. "Two Indians," it is said, "sprang through a chasm in the
 sky, and found themselves in a pleasant moonlit land. There they saw the
@@ -184,7 +184,7 @@ position secured for them.
 
 In Finnish, the appellation "Paeivae," came to mean Sun and Sun-God,
 "Knu," Moon and Moon-God. Paeivae had two sons, one of whom was named
-"Panu." <span id="fr_8"></span>[1](#fn_8)
+"Panu." <span id="fr_8"></span>[1](#fn_8.md)
 
 There are many legends of the sun and moon that relate their disputes
 and marital troubles, for mythology reveals that as husband and wife the
@@ -216,7 +216,7 @@ it was to the moon when he found that the maiden no longer cared for
 him. The tears he sheds in consequence are what we call 'shooting
 stars.'"
 
-Thorpe <span id="fr_9"></span>[1](#fn_9) gives the following account of
+Thorpe <span id="fr_9"></span>[1](#fn_9.md) gives the following account of
 the relationship between the Sun and Moon:
 
 "The moon and the sun are brother and sister. They are the children of
@@ -287,7 +287,7 @@ charge of their departed souls, and they say she is evil. The sun and
 moon dwell together in their cabin at the end of the earth, and thither
 it was that four Indians made a mythic journey. The sun received the
 travellers kindly, and saved them from the harm the beautiful but
-hurtful moon must have done them." <span id="fr_10"></span>[1](#fn_10)
+hurtful moon must have done them." <span id="fr_10"></span>[1](#fn_10.md)
 
 In early Iroquois legends, the Sun and Moon are god and goddess of day
 and night, respectively, and acquired the characters of the great friend
@@ -350,7 +350,7 @@ the Arcadians.
 "Among the early Britons it was acknowledged that the solar 'Hu' was the
 father of all mankind. The Incas of Peru traced their genealogy from the
 sun, and called themselves Children of the Sun." <span
-id="fr_11"></span>[1](#fn_11)
+id="fr_11"></span>[1](#fn_11.md)
 
 It is natural that the diurnal motion of the sun and moon should have
 stimulated the imagination of ancient man, and led him to account for
@@ -378,7 +378,7 @@ the world in darkness, a hero sprang into a huge fire, descended into
 the shades below, and arose deified and glorious in the east as
 'Tonatiuh,' the sun. After him there leapt in another hero, but now the
 fire had grown thin, and he rose only in milder radiance as 'Metztli,'
-the moon." <span id="fr_12"></span>[1](#fn_12)
+the moon." <span id="fr_12"></span>[1](#fn_12.md)
 
 <span id="page_49">p. 49</span>
 
@@ -426,33 +426,33 @@ the ancient history of all nations.
 
 ### Footnotes
 
-<span id="fn_6"></span>[36:1](slaa04.htm#fr_6) *The Origin of Pagan
+<span id="fn_6"></span>[36:1](slaa04.htm#fr_6.md) *The Origin of Pagan
 Idolatry*, G. S. Faber.
 
-<span id="fn_7"></span>[37:1](slaa04.htm#fr_7) *Primitive Culture*,
+<span id="fn_7"></span>[37:1](slaa04.htm#fr_7.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_8"></span>[41:1](slaa04.htm#fr_8) Herr Schiefner calls
+<span id="fn_8"></span>[41:1](slaa04.htm#fr_8.md) Herr Schiefner calls
 attention to the similarity between this name and the Sanscrit "bhâme,"
 which he says is found in the Vedas, meaning the sun, and also an
 epithet for fire.
 
-<span id="fn_9"></span>[42:1](slaa04.htm#fr_9) *Northern Mythology*,
+<span id="fn_9"></span>[42:1](slaa04.htm#fr_9.md) *Northern Mythology*,
 Benjamin Thorpe.
 
-<span id="fn_10"></span>[45:1](slaa04.htm#fr_10) *Primitive Culture*,
+<span id="fn_10"></span>[45:1](slaa04.htm#fr_10.md) *Primitive Culture*,
 Edward B. Tylor.
 
-<span id="fn_11"></span>[47:1](slaa04.htm#fr_11) *The Origin of Pagan
+<span id="fn_11"></span>[47:1](slaa04.htm#fr_11.md) *The Origin of Pagan
 Idolatry*, G. S. Faber.
 
-<span id="fn_12"></span>[48:1](slaa04.htm#fr_12) *Primitive Culture*,
+<span id="fn_12"></span>[48:1](slaa04.htm#fr_12.md) *Primitive Culture*,
 Edward B. Tylor.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Solar Mythology](slaa05)
+[Next: Chapter III. Solar Mythology](slaa05.md)
 
 </div>

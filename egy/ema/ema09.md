@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ema08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ema08.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ of words of power to effect their cure. There is good reason for
 thinking that some diseases were attributed to the action of evil
 spirits or demons, which had the power of entering into human bodies and
 of vexing them in proportion to their malignant nature and
-influence, <span id="fr_139"></span>[1](#fn_139) but the texts do not
+influence, <span id="fr_139"></span>[1](#fn_139.md) but the texts do not
 afford much information on the matter. Incidentally, however, we have
 one interesting proof that foreign peoples believed that the Egyptians
 were able to cure the diseases caused by demoniacal possession, and the
@@ -27,8 +27,8 @@ exercise of their power
 
 on the occasion described was considered to be so noteworthy that the
 narrative of it was inscribed upon a stele <span
-id="fr_140"></span>[1](#fn_140) and setup in the temple <span
-id="fr_141"></span>[2](#fn_141) of the god Khonsu at Thebes, so that all
+id="fr_140"></span>[1](#fn_140.md) and setup in the temple <span
+id="fr_141"></span>[2](#fn_141.md) of the god Khonsu at Thebes, so that all
 men might read and know what a marvellous cure his priests had effected.
 It appears that king Rameses II. was in Mesopotamia "according to his
 wont, year by year," and all the chiefs of the countries round about
@@ -58,7 +58,7 @@ times, and said, "I have come unto thee, O my sovereign Lord, on behalf
 of the lady Bent-ent-resht, the younger sister of the royal spouse
 Râ-neferu, for, behold, an evil disease hath laid hold upon her body; I
 beseech thy Majesty to send a physician <span
-id="fr_142"></span>[1](#fn_142) to see her." Then the king straightway
+id="fr_142"></span>[1](#fn_142.md) to see her." Then the king straightway
 ordered the books of the "double house
 
 <span id="page_209">p. 209</span>
@@ -155,7 +155,7 @@ that already known to them. The knowledge of the art of procuring dreams
 and the skill to interpret them were greatly prized in Egypt as
 elsewhere in the East, and the priest or official who possessed such
 gifts sometimes rose to places of high. honour in the state, as we may
-see from the example of Joseph, <span id="fr_143"></span>[1](#fn_143)
+see from the example of Joseph, <span id="fr_143"></span>[1](#fn_143.md)
 for it was universally believed that glimpses of the future were
 revealed to man in dreams. As instances of dreams recorded in the
 Egyptian texts may be quoted those of Thothmes IV., king of Egypt about
@@ -175,7 +175,7 @@ stele
 
 which is dated on the 19th day of the month Hathor of the first year of
 Thothmes IV. proves that the royal dreamer carried out the wishes of the
-god. <span id="fr_144"></span>[1](#fn_144) Of Nut-Amen, the successor of
+god. <span id="fr_144"></span>[1](#fn_144.md) Of Nut-Amen, the successor of
 the great Piânkhi who came down from Gebel Barkal and conquered all
 Egypt from Syene to the sea, we read that in the first year of his reign
 he one night dreamed a dream wherein he saw two serpents, one on his
@@ -185,7 +185,7 @@ told:--"The land of the South is thine, and thou shalt have dominion
 over the land of the North: the White Crown and the Red Crown shall
 adorn thy head. The length and the breadth of the land shall be given
 unto thee, and the god Amen, the only god, shall be with thee." <span
-id="fr_145"></span>[2](#fn_145) The two serpents were the symbols of the
+id="fr_145"></span>[2](#fn_145.md) The two serpents were the symbols of the
 goddesses Nekhebet and Uatchet, the mistresses of the South and North
 respectively. As the result of his dream Nut-Amen invaded Egypt
 successfully and brought back much spoil, a portion of which he
@@ -200,7 +200,7 @@ pictures and reciting magical words. The following
 
 are examples of spells for procuring a vision and dreams, taken from
 British Museum Papyrus, No. 122, lines 64 ff. and 359 ff. <span
-id="fr_146"></span>[1](#fn_146) "To obtain a vision from \[the god\]
+id="fr_146"></span>[1](#fn_146.md) "To obtain a vision from \[the god\]
 Bes. Make a drawing of Besa, as shewn below, on your left hand, and
 envelope your hand in a strip of black cloth that has been consecrated
 to Isis (?) and lie down to sleep without speaking a word, even in
@@ -213,7 +213,7 @@ c Send the truthful seer out of the holy shrine, I beseech thee,
 Lampsuer, Sumarta, Baribas, Dardalam, Iorlex: O Lord send the sacred
 deity Anuth, Anuth, Salbana, Chambré, Breïth, now, now, quickly,
 quickly. Come in this very night.'" <span
-id="fr_147"></span>[2](#fn_147)
+id="fr_147"></span>[2](#fn_147.md)
 
 "To procure dreams: Take a clean linen bag and write upon it the names
 given below. Fold it up and make it into a lamp-wick, and set it alight,
@@ -288,9 +288,9 @@ to reach her he first reduced it to writing upon papyrus, then went to
 her tomb and read it there, and finally tied the papyrus to a statue or
 figure of his wife which was therein; since her double or spirit lived
 in the tomb she would, of course, read the writing and understand
-it. <span id="fr_148"></span>[1](#fn_148) It is a pity that we have no
+it. <span id="fr_148"></span>[1](#fn_148.md) It is a pity that we have no
 means of knowing what was the result of the husband's complaint.
-Elsewhere <span id="fr_149"></span>[2](#fn_149) we have a fragment of a
+Elsewhere <span id="fr_149"></span>[2](#fn_149.md) we have a fragment of a
 conversation which a priest of Amen called Khonsu-em-heb, who was
 searching for a suitable place in which to build his tomb, holds with
 the. double or spirit of some person whom he has disturbed, and the
@@ -302,7 +302,7 @@ the spirits of the dead
 
 who dwelt in them, and even the Arabic-speaking peoples of Egypt and the
 Sûdân, if we exclude the "antiquity grubber," have them in great respect
-for the same reason. <span id="fr_150"></span>[1](#fn_150) The modern
+for the same reason. <span id="fr_150"></span>[1](#fn_150.md) The modern
 peoples of the Sûdân firmly believe that the spirits of those slain in
 battle dwell on the field where they fell, or where their bodies are
 buried, and the soldiers in the tenth battalion of Lord Kitchener's army
@@ -320,7 +320,7 @@ them will, after dusk, approach the grave. Any one doing so is believed
 to be promptly halted by a phantom sentry, and even the words (in
 Arabic), 'Guard, turn out!' are often (so the story goes) plainly heard
 repeated at some distance off across the desert." <span
-id="fr_151"></span>[1](#fn_151)
+id="fr_151"></span>[1](#fn_151.md)
 
 <span id="page_222">p. 222</span>
 
@@ -347,7 +347,7 @@ whole land."
 
 \[paragraph continues\] And this prophecy was fulfilled, for the three
 boys became three of the kings of the Vth dynasty. <span
-id="fr_152"></span>[1](#fn_152) The Seven Hathor goddesses also could
+id="fr_152"></span>[1](#fn_152.md) The Seven Hathor goddesses also could
 predict the future of a human being, for in the well-known "Tale of Two
 Brothers" it is related that, when the god Khnemu, at the request of
 Râ-Harmachis, had created for Bata a wife "who was more beautiful in her
@@ -365,14 +365,14 @@ had seen him they said, "He shall die by means of a crocodile, or a
 serpent, or a dog." The story goes on to say how be escaped from the
 crocodile and the serpent, and though the end is wanting, it is quite
 clear that he was wounded by an accidental bite of his dog and so
-died. <span id="fr_153"></span>[2](#fn_153) The moral of all such
+died. <span id="fr_153"></span>[2](#fn_153.md) The moral of all such
 stories
 
 <span id="page_224">p. 224</span>
 
 is that there is no possibility of avoiding fate, and it is most
 probable that the modern Egyptian has only inherited his ancestors'
-views as to its immutability. <span id="fr_154"></span>[1](#fn_154) A
+views as to its immutability. <span id="fr_154"></span>[1](#fn_154.md) A
 man's life might, however, be happy or unhappy according as the hour of
 the day or the day itself was lucky or unlucky, and every day of the
 Egyptian year was divided into three parts, each of which was lucky or
@@ -385,7 +385,7 @@ favourable position that he permitted her to brine, forth her child. And
 when he had said, "O queen, now thou wilt give birth to a governor of
 the world," the child fell upon the ground while the earth quaked, and
 the lightnings flashed, and the thunder roared. <span
-id="fr_155"></span>[2](#fn_155) Thus it is quite evident that the future
+id="fr_155"></span>[2](#fn_155.md) Thus it is quite evident that the future
 of a child depended even upon the hour in which he was born.
 
 In magical papyri we are often told not to perform certain magical
@@ -400,7 +400,7 @@ There have come down to us, fortunately, papyri containing copies of the
 Egyptian calendar, in which each third of every day for three hundred
 and sixty days of the year is marked lucky or unlucky, and we know from
 other papyri why certain days were lucky or unlucky, and why others were
-only partly so <span id="fr_156"></span>[1](#fn_156). Taking the month
+only partly so <span id="fr_156"></span>[1](#fn_156.md). Taking the month
 Thoth, which was the first month of the Egyptian year, and began,
 according to the Gregorian Calendar, on August 29th, we find that the
 days are marked as follows:--
@@ -418,7 +418,7 @@ who drew up the calendar had good reasons for their classification of
 the days, as we may see from the following example. The 19th day of
 Thoth is, in the above list, marked wholly lucky, *i.e.*, each third of
 it is lucky, and the papyrus Sallier IV. <span
-id="fr_157"></span>[1](#fn_157) also marks it wholly lucky, and adds the
+id="fr_157"></span>[1](#fn_157.md) also marks it wholly lucky, and adds the
 reason:--"It is a day of festival in heaven and upon earth in the
 presence of Râ. It is the day when flame was hurled upon those who
 followed the boat containing the shrine of the gods; and on this day the
@@ -466,16 +466,16 @@ the first Osiris was born, on the second Heru-ur (Aroueris), on the
 third Set, on the fourth Isis, and on the fifth Nephthys; the first,
 third, and fifth of these days were unlucky, and no work of any kind was
 to be undertaken on them. The rubric which refers to these days <span
-id="fr_158"></span>[1](#fn_158) states that whosoever knoweth their
+id="fr_158"></span>[1](#fn_158.md) states that whosoever knoweth their
 names shall never suffer from thirst, that he shall never be smitten
 down by disease, and that the goddess Sekhet <span
-id="fr_159"></span>[2](#fn_159) shall never take possession of him; it
+id="fr_159"></span>[2](#fn_159.md) shall never take possession of him; it
 also directs that figures of the five gods mentioned above shall be
 drawn with unguent and *ânti* scent upon a piece of fine linen,
 evidently to serve as an amulet.
 
 From the life of Alexander the Great by Pseudo-Callisthenes <span
-id="fr_160"></span>[3](#fn_160) we learn that the Egyptians were skilled
+id="fr_160"></span>[3](#fn_160.md) we learn that the Egyptians were skilled
 in the art of casting nativities, and that knowing the exact moment of
 the birth of a man they proceeded to construct his horoscope. Nectanebus
 employed for the purpose a tablet made of gold and silver and acacia
@@ -485,15 +485,15 @@ wood, to which were fitted three belts. Upon the
 
 outer belt was Zeus with the thirty-six *decani* surrounding him; upon
 the second the twelve signs of the Zodiac were represented; and upon the
-third the sun and moon. <span id="fr_161"></span>[1](#fn_161) He set the
+third the sun and moon. <span id="fr_161"></span>[1](#fn_161.md) He set the
 tablet upon a tripod, and then emptied out of a small box upon it models
-of the seven stars <span id="fr_162"></span>[2](#fn_162) that were in
+of the seven stars <span id="fr_162"></span>[2](#fn_162.md) that were in
 the belts, and put into the middle belt eight precious stones; these he
 arranged in the places wherein he supposed the planets which they
 represented would be at the time of the birth of Olympias, and then told
 her fortune from them. But the use of the horoscope is much older than
 the time of Alexander the Great, for to a Greek horoscope <span
-id="fr_163"></span>[3](#fn_163) in the British Museum is attached "an
+id="fr_163"></span>[3](#fn_163.md) in the British Museum is attached "an
 introductory letter from some master of the art of astrology to his
 pupil, named Hermon, urging him to be very exact and careful in his
 application of the laws which he ancient Egyptians, with their laborious
@@ -505,7 +505,7 @@ death. In a magical
 
 <span id="page_230">p. 230</span>
 
-papyrus <span id="fr_164"></span>[1](#fn_164) we are told to "ascertain
+papyrus <span id="fr_164"></span>[1](#fn_164.md) we are told to "ascertain
 in what month the sick man took to his bed, and the name he received at
 his birth. Calculate the \[course of\] the moon, and see how many
 periods of thirty days have elapsed; then note in the table the number
@@ -519,7 +519,7 @@ the gods and man in the future life were able at will to assume the form
 of any animal, or bird, or plant, or living thing, which they pleased,
 and one of the greatest delights to which a man looked forward was the
 possession of that power. This is proved by the fact that no less than
-twelve <span id="fr_165"></span>[2](#fn_165) of the chapters of the Book
+twelve <span id="fr_165"></span>[2](#fn_165.md) of the chapters of the Book
 of the Dead are devoted to
 
 <span id="page_231">p. 231</span>
@@ -530,7 +530,7 @@ necessary to enable him to transform himself into a "hawk of gold," a
 giveth light in the darkness," a lotus, the god Ptah, a *bennu* bird
 (*i.e.*, phœnix), a heron, a "living soul," a swallow, the serpent Sata,
 and a crocodile; and another chapter <span
-id="fr_166"></span>[1](#fn_166) enabled him to transform himself into
+id="fr_166"></span>[1](#fn_166.md) enabled him to transform himself into
 "whatever form he pleaseth." Armed with this power he could live in the
 water in the form of a crocodile, in the form of a serpent he could
 glide over the rocks and ground, in the form of the birds mentioned
@@ -610,7 +610,7 @@ some form or other was most rare, if not unknown.
 
 ### Footnotes
 
-<span id="fn_139"></span>[206:1](ema09.htm#fr_139) As recently as 1895
+<span id="fn_139"></span>[206:1](ema09.htm#fr_139.md) As recently as 1895
 this belief existed in Ireland, for according to the *Times* of April 2,
 3, 6, and 8, Michael Cleary was charged on April 1 at Clonmel with
 having, on March 14, burnt his wife Bridget, aged 27, for being a witch,
@@ -633,42 +633,42 @@ Cleary 20 years, J. Dunne 3 years, P. Kennedy 5 years, W. Kennedy 18
 months, J. Kennedy 18 months, Boland Kennedy 6 months, Michael Kennedy 6
 months.
 
-<span id="fn_140"></span>[207:1](ema09.htm#fr_140) Originally published
+<span id="fn_140"></span>[207:1](ema09.htm#fr_140.md) Originally published
 by Prisse, *Monuments Égyptiens*, Paris, 1817, pl. 24.
 
-<span id="fn_141"></span>[207:2](ema09.htm#fr_141) It is now preserved
+<span id="fn_141"></span>[207:2](ema09.htm#fr_141.md) It is now preserved
 in the Bibliotèque Nationale at Paris; for a full description and
 translation of it see E. de Rougé, *Étude sur une stele Égyptienne*,
 Paris, 1858.
 
-<span id="fn_142"></span>[208:1](ema09.htm#fr_142) *Bekh khet*, "knower
+<span id="fn_142"></span>[208:1](ema09.htm#fr_142.md) *Bekh khet*, "knower
 of things."
 
-<span id="fn_143"></span>[214:1](ema09.htm#fr_143) See Genesis, Chapters
+<span id="fn_143"></span>[214:1](ema09.htm#fr_143.md) See Genesis, Chapters
 xi., xii.
 
-<span id="fn_144"></span>[215:1](ema09.htm#fr_144) See Vyse, *Appendix*,
+<span id="fn_144"></span>[215:1](ema09.htm#fr_144.md) See Vyse, *Appendix*,
 London, 1842, vol. iii., p. 114 ff.
 
-<span id="fn_145"></span>[215:2](ema09.htm#fr_145) See Brugsch, *Egypt
+<span id="fn_145"></span>[215:2](ema09.htm#fr_145.md) See Brugsch, *Egypt
 under the Pharaohs*, Vol. ii., p. 259.
 
-<span id="fn_146"></span>[216:1](ema09.htm#fr_146) See *Catalogue of
+<span id="fn_146"></span>[216:1](ema09.htm#fr_146.md) See *Catalogue of
 Greek Papyri*, vol. i. p. 118.
 
-<span id="fn_147"></span>[216:2](ema09.htm#fr_147) A sketch of the god
+<span id="fn_147"></span>[216:2](ema09.htm#fr_147.md) A sketch of the god
 Besa is given at the end of the papyrus. See the description of the
-"Metternichstele" above, [p. 147](ema06.htm#page_147) ff.
+"Metternichstele" above, [p. 147](ema06.htm#page_147.md) ff.
 
-<span id="fn_148"></span>[219:1](ema09.htm#fr_148) For the text see
+<span id="fn_148"></span>[219:1](ema09.htm#fr_148.md) For the text see
 Leemans, Monuments Égyptiens, Partie IL, pll. 183, 184, Leyden, 1846,
 fol.; for a transcript into hieroglyphics see Maspero, *Journal
 Asiatique*, Sér. 7, tom. 15, May and June, 1880, pp. 365-420.
 
-<span id="fn_149"></span>[219:2](ema09.htm#fr_149) See Golénischeff in
+<span id="fn_149"></span>[219:2](ema09.htm#fr_149.md) See Golénischeff in
 *Recueil de Travaux*, tom. iii., pp. 3-7.
 
-<span id="fn_150"></span>[220:1](ema09.htm#fr_150) When I visited the
+<span id="fn_150"></span>[220:1](ema09.htm#fr_150.md) When I visited the
 Pyramids of Meroë in 1898 1 took with me the local shêkh, and a man and
 a boy to look after the donkeys. Having come to within half a mile of
 the pyramids the three stopped and wished me to ride on by myself, and
@@ -686,7 +686,7 @@ soon as possible. He was firmly convinced that the prismatic compass
 which I used was a talisman, and when he reached home he thanked God
 fervently that he had not been molested by the spirits of the dead.
 
-<span id="fn_151"></span>[221:1](ema09.htm#fr_151) See the illustrated
+<span id="fn_151"></span>[221:1](ema09.htm#fr_151.md) See the illustrated
 paper *The Sketch*, No. 332, June 7, 1899, p. 277. The following from
 the Times of July 7, 1899, is worth quoting:--
 
@@ -728,51 +728,51 @@ the seventh month, old style, there are still persons found who every
 year clean and sweep the grave, and, offering up flowers and incense,
 mourn for and console the spirit of the dead.'"
 
-<span id="fn_152"></span>[223:1](ema09.htm#fr_152) See Erman, *Westcar
+<span id="fn_152"></span>[223:1](ema09.htm#fr_152.md) See Erman, *Westcar
 Papyrus*, Berlin, 1890, hieroglyphic transcript, pll. 9 and 10.
 
-<span id="fn_153"></span>[223:2](ema09.htm#fr_153) See Maspero, *Contes
+<span id="fn_153"></span>[223:2](ema09.htm#fr_153.md) See Maspero, *Contes
 Égyptiens*, pp. 29-46.
 
-<span id="fn_154"></span>[224:1](ema09.htm#fr_154) The uneducated
+<span id="fn_154"></span>[224:1](ema09.htm#fr_154.md) The uneducated
 Muhammadan believes that man's fate is written upon his skull, and that
 the sutures are the writing. No man, however, can read them. See the
 words of Zayn al-Mawasif in Burton's Alf Laylah wa Laylah, vol. viii.,
 p. 237.
 
-<span id="fn_155"></span>[224:2](ema09.htm#fr_155) See
+<span id="fn_155"></span>[224:2](ema09.htm#fr_155.md) See
 Pseudo-Callisthenes, I. 12.
 
-<span id="fn_156"></span>[225:1](ema09.htm#fr_156) See Brit. Mus.
+<span id="fn_156"></span>[225:1](ema09.htm#fr_156.md) See Brit. Mus.
 Papyrus, No. 10,474.
 
-<span id="fn_157"></span>[226:1](ema09.htm#fr_157) See Chabas, *Le
+<span id="fn_157"></span>[226:1](ema09.htm#fr_157.md) See Chabas, *Le
 Calendrier*, p. 24.
 
-<span id="fn_158"></span>[228:1](ema09.htm#fr_158) See Chabas, *op.
+<span id="fn_158"></span>[228:1](ema09.htm#fr_158.md) See Chabas, *op.
 cit.*, p. 104.
 
-<span id="fn_159"></span>[228:2](ema09.htm#fr_159) The Eye of Sekhet
+<span id="fn_159"></span>[228:2](ema09.htm#fr_159.md) The Eye of Sekhet
 seems to have taken the form of noxious vapours in the fields at
 sunrise; see Chabas, *op. cit.*, p. 78.
 
-<span id="fn_160"></span>[228:3](ema09.htm#fr_160) I. 4.
+<span id="fn_160"></span>[228:3](ema09.htm#fr_160.md) I. 4.
 
-<span id="fn_161"></span>[229:1](ema09.htm#fr_161) quote from my
+<span id="fn_161"></span>[229:1](ema09.htm#fr_161.md) quote from my
 *History of Alexander the Great*, Cambridge, 1889, p. 5.
 
-<span id="fn_162"></span>[229:2](ema09.htm#fr_162) *I.e.*, Sun, Moon,
+<span id="fn_162"></span>[229:2](ema09.htm#fr_162.md) *I.e.*, Sun, Moon,
 Zeus, Kronos, Aphrodite, and Hermes; we must add Mars according to
 Meusel's Greek text.
 
-<span id="fn_163"></span>[229:3](ema09.htm#fr_163) Published for the
+<span id="fn_163"></span>[229:3](ema09.htm#fr_163.md) Published for the
 first time by Kenyon, *Catalogue of Greek Papyri* vol. i. p. 132 ff.
 
-<span id="fn_164"></span>[230:1](ema09.htm#fr_164) *Leyden Pap. V.* (ed.
+<span id="fn_164"></span>[230:1](ema09.htm#fr_164.md) *Leyden Pap. V.* (ed.
 Leemans), col. xi., 1. 1 ff.
 
-<span id="fn_165"></span>[230:2](ema09.htm#fr_165) *I.e.*, Chapters
+<span id="fn_165"></span>[230:2](ema09.htm#fr_165.md) *I.e.*, Chapters
 LXXVII. to LXXXVIII.
 
-<span id="fn_166"></span>[231:1](ema09.htm#fr_166) *I.e.*, Chapter
+<span id="fn_166"></span>[231:1](ema09.htm#fr_166.md) *I.e.*, Chapter
 LXXVI.

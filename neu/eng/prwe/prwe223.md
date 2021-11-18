@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe222)  [Next](prwe224) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe222)  [Next](prwe224.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ and the young people singing some appropriate song.
 
 ------------------------------------------------------------------------
 
-[Next: Shrove Tuesday at St Ives](prwe224)
+[Next: Shrove Tuesday at St Ives](prwe224.md)

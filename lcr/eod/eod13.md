@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod12)  [Next](eod14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod12)  [Next](eod14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -33,16 +33,16 @@ appearance, the statue was still merely a dead thing. What were needed
 above all to enliven it, literally and actually, in other words, to
 animate it, were the eyes; and the Egyptian artist set to work and with
 truly marvellous skill reproduced the appearance of living eyes ([Fig.
-5](#img_fig05)), How ample was the justification for this belief will be
+5](#img_fig05).md), How ample was the justification for this belief will be
 appreciated by anyone who glances at the remarkable photographs recently
-published by Dr. Alan H. Gardiner. <span id="fr_90"></span>[1](#fn_90)
+published by Dr. Alan H. Gardiner. <span id="fr_90"></span>[1](#fn_90.md)
 The wonderful eyes will be seen to make the statue sparkle and live. To
 the concrete mind of the Egyptian this triumph of art was regarded
 
 <span id="img_fig05"></span> <span align="CENTER"> [![FIG. 5.STATUE OF
 AN EGYPTIAN NOBLE OF THE PYRAMID AGE TO SHOW THE TECHNICAL SKILL IN THE
 REPRESENTATION OF LIFE-LIKE EYES](tn/fig05.jpg)  
-Click to enlarge](img/fig05.jpg)  
+Click to enlarge](img/fig05.jpg.md)  
 FIG. 5.—STATUE OF AN EGYPTIAN NOBLE OF THE PYRAMID AGE TO SHOW THE
 TECHNICAL SKILL IN THE REPRESENTATION OF LIFE-LIKE EYES  
 </span>
@@ -66,7 +66,7 @@ rationalization cannot yet be arranged in orderly sequence.
 I refer to the question here and suggest certain aspects of it that seem
 worthy of investigation merely for the purpose of stimulating some
 student of early Egyptian literature to look into the matter
-further. <span id="fr_91"></span>[1](#fn_91)
+further. <span id="fr_91"></span>[1](#fn_91.md)
 
 As death was regarded as a kind of sleep and the closing of the eyes was
 the distinctive sign of the latter condition the open eyes were not
@@ -82,7 +82,7 @@ the reflection in the eye may have been interpreted as the "soul"
 dwelling within it. The eye was certainly regarded as peculiarly rich in
 "soul substance". It was not until Osiris received from Horus the eye
 which had been wrenched out in the latter's combat with Set that he
-"became a soul". <span id="fr_92"></span>[2](#fn_92)
+"became a soul". <span id="fr_92"></span>[2](#fn_92.md)
 
 It is a remarkable fact that this belief in the animating power of the
 eye spread as far east as Polynesia and America, and as far west as the
@@ -141,7 +141,7 @@ placed with the dead in the grave.
 Hathor's identification with the "Eye of Re" may possibly have been an
 expression of the same idea. But the rôle of the "Eye of Re" was due
 primarily to her association with the moon (*vide infra*, [p.
-56](eod14.htm#page_56)).
+56](eod14.htm#page_56).md).
 
 The apparently hopeless tangle of contradictions involved in these
 conceptions of Hathor will have to be unravelled. For "no eye is to be
@@ -175,28 +175,28 @@ of the Egyptian Punt Reliefs to be an Arabian word, *a-a-nete*,
 'tree-eyes' (*Punt und die Südarabischen Reiche*, p. 7), and to refer to
 the large lumps … as distinguished from the small round drops, which are
 supposed to be tree-tears or the tree-blood." <span
-id="fr_93"></span>[1](#fn_93)
+id="fr_93"></span>[1](#fn_93.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_90"></span>[52:1](eod13.htm#fr_90) "A New Masterpiece of
+<span id="fn_90"></span>[52:1](eod13.htm#fr_90.md) "A New Masterpiece of
 Egyptian Sculpture," The *Journal of Egyptian Archæology*, Vol. IV, Part
 I, Jan., 1917.
 
-<span id="fn_91"></span>[53:1](eod13.htm#fr_91) In all probability the
+<span id="fn_91"></span>[53:1](eod13.htm#fr_91.md) In all probability the
 main factor that was responsible for conferring such definite
 life-giving powers upon the eye was the identification of the moon with
 the Great Mother. The moon was the Eye of Re, the sky-god.
 
-<span id="fn_92"></span>[53:2](eod13.htm#fr_92) Breasted, "Religion and
+<span id="fn_92"></span>[53:2](eod13.htm#fr_92.md) Breasted, "Religion and
 Thought in Ancient Egypt," p. 59. The meaning of the phrase rendered "a
 soul" here would be more accurately given by the word "reanimated".
 
-<span id="fn_93"></span>[55:1](eod13.htm#fr_93) Wilfred H. Schoff, "The
+<span id="fn_93"></span>[55:1](eod13.htm#fr_93.md) Wilfred H. Schoff, "The
 Periplus of the Erythræan Sea," 1912, p. 164.
 
 ------------------------------------------------------------------------
 
-[Next: The Moon and the Sky-World](eod14)
+[Next: The Moon and the Sky-World](eod14.md)

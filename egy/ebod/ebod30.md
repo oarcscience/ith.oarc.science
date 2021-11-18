@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod29)  [Next](ebod31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod29)  [Next](ebod31.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ mightier than any other shining one."
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXV.](ebod31)
+[Next: Plate XXV.](ebod31.md)

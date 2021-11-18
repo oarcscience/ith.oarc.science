@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes06)  [Next](nes08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes06)  [Next](nes08.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Life has to bring."</td>
 
 |                     |
 |---------------------|
-| ![m](img/minit.jpg) |
+| ![m](img/minit.jpg.md) |
 
 ANY of the members of the human body were embodied in rhymes, commonly
 nursery rhymes. Here is one about the face; and as the nurse repeated
@@ -307,7 +307,7 @@ Chasin at a snail,
 The snail shot oot its horns  
 Like a hummil coo.  
 'Ah,' cried the foremost tailor,  
-'We're a’ stickit noo.'" <span id="fr_14"></span>[1](#fn_14)
+'We're a’ stickit noo.'" <span id="fr_14"></span>[1](#fn_14.md)
 
 "Wallace wicht  
 Upon a nicht  
@@ -367,8 +367,8 @@ rosit, and batter in a cappie. Amen."
 
 ### Footnotes
 
-<span id="fn_14"></span>[19:1](nes07.htm#fr_14) Cf. Henderson, p. 26.
+<span id="fn_14"></span>[19:1](nes07.htm#fr_14.md) Cf. Henderson, p. 26.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Boy Code of Honour](nes08)
+[Next: Chapter V. Boy Code of Honour](nes08.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou03)  [Next](hou05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou03)  [Next](hou05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ twelve men to explore it, Pedro de Sotomayor accompanying to
 chronicle the expedition. Obtaining at Tusayan, where he was well
 received, guides and carriers, with an ample supply of provisions,
 Cárdenas marched for twenty days, probably in a north-westerly
-direction, <span id="fr_0"></span>[1](#fn_0)
+direction, <span id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_3">p. 3</span>
 
@@ -81,7 +81,7 @@ higher than a man being in fact larger than the cathedral at
 
 <span id="img_00500"></span> <span align="CENTER"> [![PROBABLE ROUTE OF
 CÁRDENAS.](tn/00500.jpg)  
-Click to enlarge](img/00500.jpg)  
+Click to enlarge](img/00500.jpg.md)  
 PROBABLE ROUTE OF CÁRDENAS.  
 </span>
 
@@ -100,7 +100,7 @@ Gentibvs* shows a large lake, called Conibas, connecting by a very wide
 
 <span id="img_00600"></span> <span align="CENTER"> [![MAP FROM MAGIN,
 1611.](tn/00600.jpg)  
-Click to enlarge](img/00600.jpg)  
+Click to enlarge](img/00600.jpg.md)  
 MAP FROM MAGIN, 1611.  
 </span>
 
@@ -118,7 +118,7 @@ If the reader will look over the chapters on the Northern Mystery in my
 
 <span id="img_00700"></span> <span align="CENTER"> [![MAP BY JOHN
 HARRIS, 1705.](tn/00700.jpg)  
-Click to enlarge](img/00700.jpg)  
+Click to enlarge](img/00700.jpg.md)  
 MAP BY JOHN HARRIS, 1705.  
 </span>
 
@@ -149,40 +149,40 @@ similar journey, this time leaving at the junction of the Colorado and
 Gila Father Garcés who ascended the former stream to the Mojave country,
 whence crossing to Mission San Gabriel he proceeded to the Tulare
 Valley. There he heard from the natives of a great river coming in from
-the east or northeast. <span id="fr_1"></span>[2](#fn_1) Indeed it was
+the east or northeast. <span id="fr_1"></span>[2](#fn_1.md) Indeed it was
 long the prevailing opinion that there existed such a stream in that
 vicinity. From the Tulare country Garcés returned to San Gabriel and
 Mojave, and thence proceeded to the villages of the Moquis. From this
 place he probably wrote to Santa Fé concerning the rumor of this river;
 for all through the journey of Dominguez and Escalante they were in
-search of it. <span id="fr_2"></span>[3](#fn_2)
+search of it. <span id="fr_2"></span>[3](#fn_2.md)
 
 <span id="page_9">p. 9</span>
 
 The party consisted in all of nine persons. Besides the two priests
 there were Juan Pedro Cisneros, *alcalde mayor* of Zuñi, Bernardo Miera
 y Pacheco, *capitan miliciano* of Santa Fé, and five soldiers. <span
-id="fr_3"></span>[4](#fn_3) Having implored divine protection, on the
+id="fr_3"></span>[4](#fn_3.md) Having implored divine protection, on the
 day before named they took the road to Abiquiú, passed on to the Rio
 Chama, and on the 5th of August reached a point called Nieves, on the
 San Juan River, three leagues below the junction of the Navajo. Thence
 they passed down the north bank of the San Juan, crossing the several
 branches, until on the 10th they found themselves on a branch of the
 Mancos, some distance from the San Juan, and beyond the line of the
-present state of Colorado. <span id="fr_4"></span>[5](#fn_4) The 12th
+present state of Colorado. <span id="fr_4"></span>[5](#fn_4.md) The 12th
 they camped on the north bank of the Rio Dolores, in latitude 38°
-13´, <span id="fr_5"></span>[6](#fn_5) and were there joined by two
+13´, <span id="fr_5"></span>[6](#fn_5.md) and were there joined by two
 natives from Abiquiú, who had deserted their homes to follow the
-expedition. <span id="fr_6"></span>[7](#fn_6)
+expedition. <span id="fr_6"></span>[7](#fn_6.md)
 
     They now followed the general course of the Dolores <span
-id="fr_7"></span>[8](#fn_7) until the 23d, when they left the San Pedro,
+id="fr_7"></span>[8](#fn_7.md) until the 23d, when they left the San Pedro,
 which flows into the Dolores near La Sal, and crossed
 
 <span id="page_10">p. 10</span>
 
-over north-east to Rio San Francisco, <span id="fr_8"></span>[9](#fn_8)
-and again to the Rio San Javier <span id="fr_9"></span>[10](#fn_9) on
+over north-east to Rio San Francisco, <span id="fr_8"></span>[9](#fn_8.md)
+and again to the Rio San Javier <span id="fr_9"></span>[10](#fn_9.md) on
 the 28th, their course being for some distance east of north.
 
 Not far from their path was a ranchería of Yutas, which the Spaniards
@@ -191,7 +191,7 @@ Timpangotzis, or Lagunas, where they had been told to look for
 
 <span id="img_01000"></span> <span align="CENTER"> [![ESCALANTE'S ROUTE
 FROM SANTA FÉ TO UTAH LAKE](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 ESCALANTE'S ROUTE FROM SANTA FÉ TO UTAH LAKE  
 </span>
 
@@ -205,24 +205,24 @@ from proceeding, pretending ignorance of the country and danger from the
 Comanches. But the 3d of September saw them again on their way. Pursuing
 a north-west course, the second day they crossed and camped on the north
 bank of the Rio San Rafael, or Colorado, <span
-id="fr_10"></span>[11](#fn_10) in latitude 41° 4´. Their course thence
+id="fr_10"></span>[11](#fn_10.md) in latitude 41° 4´. Their course thence
 was north-westerly, and on the 9th they crossed a river called San
-Clemente, <span id="fr_11"></span>[12](#fn_11) flowing west. Signs of
+Clemente, <span id="fr_11"></span>[12](#fn_11.md) flowing west. Signs of
 buffaloes were abundant, and on the 11th they killed one. Two days
 afterward they crossed the Rio de San Buenaventura, <span
-id="fr_12"></span>[13](#fn_12) the boundary between the Yutas and the
+id="fr_12"></span>[13](#fn_12.md) the boundary between the Yutas and the
 Comanches, in latitude 41° 19´, at a place which the priests call Santa
 Cruz. Here were six large black poplars, on one of which they left an
 inscription. After resting two days they took the course of the San
 Buenaventura south-west ten leagues, and from a hill saw the junction of
 the San Clemente. Descending a little farther they found a river flowing
 in from the west, following which they reached a branch the 17th, naming
-it the San Cosme. <span id="fr_13"></span>[14](#fn_13)
+it the San Cosme. <span id="fr_13"></span>[14](#fn_13.md)
 
     From this point they proceeded westward, following up the Uintah,
 across the Duchesne, and over the mountains, with no small difficulty,
 to a river which they called Purísima, <span
-id="fr_14"></span>[15](#fn_14) and which they followed till on the 23d
+id="fr_14"></span>[15](#fn_14.md) and which they followed till on the 23d
 they came in sight of the lake which the natives called Timpanogos, but
 which is known now as Utah Lake.
 
@@ -256,7 +256,7 @@ the travellers whithersoever they would go; but they begged them to
 return and establish a mission in their midst; in token of which, and of
 their desire to adopt the Christian faith, they gave the priests a kind
 of hieroglyphic painting on deerskin. <span
-id="fr_15"></span>[16](#fn_15)
+id="fr_15"></span>[16](#fn_15.md)
 
 <span id="page_13">p. 13</span>
 
@@ -266,14 +266,14 @@ Merced de los
 
 <span id="img_01300"></span> <span align="CENTER"> [![TIMPANOGOS
 VALLEY.](tn/01300.jpg)  
-Click to enlarge](img/01300.jpg)  
+Click to enlarge](img/01300.jpg.md)  
 TIMPANOGOS VALLEY.  
 </span>
 
 <span id="page_14">p. 14</span>
 
 <span class="contnote">\[paragraph continues\]</span> Timpanogos, <span
-id="fr_16"></span>[17](#fn_16) and north of the river San Buenaventura
+id="fr_16"></span>[17](#fn_16.md) and north of the river San Buenaventura
 are the mountains which they have just crossed, extending north-east and
 south-west some seventy leagues, and having a width of forty leagues.
 From the surrounding heights flow four rivers of medium size,
@@ -293,7 +293,7 @@ Antonio de Padua, carries more water than the others, and from its rich
 banks, which would easily support three large towns, spring groves of
 larger trees. Santa Ana, they call the fourth river, which is north-west
 of the San Antonio, and not inferior to the others <span
-id="fr_17"></span>[18](#fn_17)—so they are told, for they do not visit
+id="fr_17"></span>[18](#fn_17.md)—so they are told, for they do not visit
 it. Besides these rivers, there are good springs of water both on plain
 and mountain-side; pasture lands are abundant, and in parts the fertile
 soil yields such quantities of flax and hemp that it seems they must
@@ -307,7 +307,7 @@ balmy, that it is a pleasure to breathe it, by day and by night. In the
 vicinity are other valleys equally delightful. Besides the products of
 the lake the Yutas hunt hares, and gather seeds from which they make
 *atole*. They might capture some buffaloes in the north-north-west but
-for the troublesome Comanches. <span id="fr_18"></span>[19](#fn_18) They
+for the troublesome Comanches. <span id="fr_18"></span>[19](#fn_18.md) They
 dwell in huts of osier, of which, likewise, many of their utensils are
 made; some of them wear clothes, the best of which are of the skins of
 rabbits and antelopes. There are in this region many people, of whom he
@@ -318,7 +318,7 @@ body of water toward the northwest, and this is what Father Escalante
 reports of it. "The other lake, with which this communicates," he says,
 "occupies, as they told us, many leagues, and its waters are injurious
 and extremely salt; because the Timpanois <span
-id="fr_19"></span>[20](#fn_19) assure us that he who wets any part of
+id="fr_19"></span>[20](#fn_19.md) assure us that he who wets any part of
 his body with this water, immediately feels an itching in the wet part.
 We were told that in the circuit of this lake there live a numerous and
 quiet nation, called Puaguampe, which means in our language Sorcerers;
@@ -336,7 +336,7 @@ they entered by the last pass of the Sierra Blanca de los Timpanogos,
 which is the same in which they are, by a route north one fourth
 north-west, and by that same way they say the Comanches make their
 raids, which do not seem to be very frequent." <span
-id="fr_20"></span>[21](#fn_20)
+id="fr_20"></span>[21](#fn_20.md)
 
     Continuing their journey the 26th of September with two guides, the
 Spaniards bend their course south-westwardly in the direction of
@@ -370,13 +370,13 @@ after Gualpi, at which latter place they call a meeting and propose to
 the natives temporal and spiritual submission. The Moquis will be
 friendly they say, but the further proposals they promptly decline.
 Thereupon the friars continue their way, reaching Zuñi November 24th and
-Santa Fé the 2d of January 1777. <span id="fr_21"></span>[22](#fn_21)
+Santa Fé the 2d of January 1777. <span id="fr_21"></span>[22](#fn_21.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](hou04.htm#fr_0) I say probably, though in
+<span id="fn_0"></span>[2:1](hou04.htm#fr_0.md) I say probably, though in
 my own mind there is little doubt. The Spaniards were exploring
 northward. They had lately traversed the region to their south-west, and
 instead of wishing to retrace their steps they would be likely to keep
@@ -573,7 +573,7 @@ Hist. Mex*., 325. These might be followed by a long list of modem
 writers, for which I will refer the reader to *Hist. North Mexican
 States*, this series.
 
-<span id="fn_1"></span>[8:2](hou04.htm#fr_1) On Father Font's map, 1777,
+<span id="fn_1"></span>[8:2](hou04.htm#fr_1.md) On Father Font's map, 1777,
 are laid down two rivers entering the region of the Tulare lakes from
 the north-east, one the *Rio de San Phelipe*, and the other called the
 *Rio de que se Viene Noticia por el P. Garces*. See *Font's Journal*,
@@ -582,7 +582,7 @@ MS.; *Serra, Memorial*, March 1773, MS.; *Garcés, Diario*, 246-348;
 vi. 59; *Palou, Not*., ii. 281-2; *Hist. Cal.; Hist..New Mew.; Hist.
 North Mex. States*, this series.
 
-<span id="fn_2"></span>[8:3](hou04.htm#fr_2) Probably it was the San
+<span id="fn_2"></span>[8:3](hou04.htm#fr_2.md) Probably it was the San
 Joaquin, or the Sacramento, of which they heard. Concerning a route from
 New Mexico to California Humboldt says: 'En considerant les voyages
 hardis des premiers conquerans espagnols au <span id="page_9">p.
@@ -591,12 +591,12 @@ hardis des premiers conquerans espagnols au <span id="page_9">p.
 trouver un chemin de terre dans la Nouvelle-Espagne, depuis Taos au port
 de Monterey.' Essai Pol., i. 317.
 
-<span id="fn_3"></span>[9:4](hou04.htm#fr_3) Don Joaquin Lain, vecino de
+<span id="fn_3"></span>[9:4](hou04.htm#fr_3.md) Don Joaquin Lain, vecino de
 la misma villa, Lorenzo Olivares de la villa del Paso, Lucrecio Muñiz,
 Andrés Muñiz, Juan de Aguilar y Simon Lucero.' *Diario*, in *Doc. Hist.
 Mex.*, ser. ii. tom. i. 378.
 
-<span id="fn_4"></span>[9:5](hou04.htm#fr_4) At the beginning of the
+<span id="fn_4"></span>[9:5](hou04.htm#fr_4.md) At the beginning of the
 journey their route was identical with what was later known as the old
 Spanish trail from Santa Fé to Los Angeles. Their course was at first
 north-west, but shortly after passing Abiquiú it pointed due north into
@@ -605,10 +605,10 @@ same as was later called the old Spanish trail from Santa Fé to Great
 Salt Lake. Captain J. N. Macomb of the topographical engineers has
 surveyed and mapped essentially the same trail.
 
-<span id="fn_5"></span>[9:6](hou04.htm#fr_5) Probably not so far north
+<span id="fn_5"></span>[9:6](hou04.htm#fr_5.md) Probably not so far north
 by some 40´.
 
-<span id="fn_6"></span>[9:7](hou04.htm#fr_6) Esta tarde nos alcanzaron
+<span id="fn_6"></span>[9:7](hou04.htm#fr_6.md) Esta tarde nos alcanzaron
 un coyote y un genízaro de Abiquiú, nombrados el primero Felipe y el
 segundo Juan Domingo; por vagar entre los gentiles, se huyeron sin
 permiso de sus superiores del dicho pueblo, pretestando querer
@@ -617,17 +617,17 @@ acompañarnos. No necesitábamos de ellos; mas por evitar las culpas, que
 solos entre los yutas, si intentabamos que regresasen, los admitimos por
 compañeros.' *Disrio, Doc. Hist. Mex*., ser. ii. tom. i. 392.
 
-<span id="fn_7"></span>[9:8](hou04.htm#fr_7) These streams are doubtless
+<span id="fn_7"></span>[9:8](hou04.htm#fr_7.md) These streams are doubtless
 those emptying into the Colorado not far from its junction with the
 Bunkara: Latitude 39° 13´ is here given, but that must be too high.
 Philip Harry, in *Simpson's Explor*., 490, says that up to the point
 first touched on the Dolores the priests' path and Macomb's survey are
 identical, but that they here diverge.
 
-<span id="fn_8"></span>[10:9](hou04.htm#fr_8) An affluent of the San
+<span id="fn_8"></span>[10:9](hou04.htm#fr_8.md) An affluent of the San
 Javier, or Grand River.
 
-<span id="fn_9"></span>[10:10](hou04.htm#fr_9) Called by the Yutas
+<span id="fn_9"></span>[10:10](hou04.htm#fr_9.md) Called by the Yutas
 *Tomiche*; to-day Grand River. It may here be observed that the route
 toward this region had been visited by Spaniards before, notably by Juan
 María de Ribera in 1761, and Spanish names had been given to places,
@@ -643,28 +643,28 @@ named stream. In *Simpson's Explor*., 489, is given a map of the present
 expedition, but it does not conform in every particular to Escalante's
 text.
 
-<span id="fn_10"></span>[11:11](hou04.htm#fr_10) Grand River; but the
+<span id="fn_10"></span>[11:11](hou04.htm#fr_10.md) Grand River; but the
 latitude given was about 1° 30´ too high.
 
-<span id="fn_11"></span>[11:12](hou04.htm#fr_11) White River, the point
+<span id="fn_11"></span>[11:12](hou04.htm#fr_11.md) White River, the point
 of crossing being near the Utah line.
 
-<span id="fn_12"></span>[11:13](hou04.htm#fr_12) Green River. The
+<span id="fn_12"></span>[11:13](hou04.htm#fr_12.md) Green River. The
 latitude given is at least 50´ too high. The crossing was above the
 junctions of White River and the Uintah with Green River. See Rep. Fr.
 Alonso de Posada, custodio de N. Mex., in *Doc. Hist. Mex.*, i. 439.
 
-<span id="fn_13"></span>[11:14](hou04.htm#fr_13) This is the north
+<span id="fn_13"></span>[11:14](hou04.htm#fr_13.md) This is the north
 branch of the Uintah. Indeed the narrative of the explorers makes their
 route in this vicinity unmistakable.
 
-<span id="fn_14"></span>[11:15](hou04.htm#fr_14) Now the Timpanogos.
+<span id="fn_14"></span>[11:15](hou04.htm#fr_14.md) Now the Timpanogos.
 'Proseguimos al noroeste media legua, pasamos á la otra bands del rio,
 subimos una corta cuesta y divisamos la laguna y dila-tado valle de
 Nuestra Señora de la Merced de los Timpanogotzis—así lo nom-bramos desde
 aquí.' Diario, *Doc. Hist. Mex.*, série ii. tom. i. 454.
 
-<span id="fn_15"></span>[12:16](hou04.htm#fr_15) The Spaniards asked
+<span id="fn_15"></span>[12:16](hou04.htm#fr_15.md) The Spaniards asked
 from them some token to show that they wished them to return, and the
 day after they brought them one; 'pero al traer la seña vió un
 compañero, que no sabia el órden dado, á las figuras de ella, y
@@ -681,11 +681,11 @@ ellos. Estas cuatro figuras de hombres estaban rudamente pintadas con
 tierra y almagre en un corto pedazo de gamuza.' *Diario, Doc. Hist.
 Mex*.. série ii. tom. i. 462-3.
 
-<span id="fn_16"></span>[14:17](hou04.htm#fr_16) Or, as it was also
+<span id="fn_16"></span>[14:17](hou04.htm#fr_16.md) Or, as it was also
 called, Timpagtzis, Timpanoautzis, ó Come Pescado. *Doc. Hist. Mex*.,
 série ii. tom. i. 464.
 
-<span id="fn_17"></span>[14:18](hou04.htm#fr_17) There is no difficulty
+<span id="fn_17"></span>[14:18](hou04.htm#fr_17.md) There is no difficulty
 in recognizing these land-marks, the Uintah Mountains, the San
 Buenaventura, or Green River; and in the four streams of the valley,
 their Aguas Calientes is Currant Creek; the second, their San Nicolás,
@@ -693,19 +693,19 @@ though more than three leagues from the first, and not corresponding in
 every other particular, is the Spanish River; the San Antonio is the
 Provo; and the Santa Aria, the River Jordan.
 
-<span id="fn_18"></span>[15:19](hou04.htm#fr_18) This is directly
+<span id="fn_18"></span>[15:19](hou04.htm#fr_18.md) This is directly
 opposite the direction in which we would expect to find the Comanches of
 to-day; but the Utes applied the term *comanche* to all hostile Indians.
 Buffaloes were common in aboriginal times in Cache and Powder River
 valleys as well as in eastern Oregon and Boisé valley.
 
-<span id="fn_19"></span>[15:20](hou04.htm#fr_19) Yet another form for
+<span id="fn_19"></span>[15:20](hou04.htm#fr_19.md) Yet another form for
 the name *Timpanogos*, as indeed before the end of the following page we
 have '*Timpanosis*,' 'Timpanogotzis,' and 'Timpanogo.' See note 17 this
 chapter. On Froisett's map, published at Salt Lake City in 1875, is the
 'Provo, or Timponayas' river.
 
-<span id="fn_20"></span>[16:21](hou04.htm#fr_20) As this is the first
+<span id="fn_20"></span>[16:21](hou04.htm#fr_20.md) As this is the first
 account we have of the Great Salt Lake and its people I will give the
 original entire: 'La otra laguna con quien esta se cominica, ocupa,
 segun nos informaron, muchas leguas y sus aguas son nocivas ó
@@ -735,7 +735,7 @@ see his summary in *Simpson's Explor*., 494. Warren, *Pacific Railroad
 Report*, xi. 35, examined the same copy of Escalante's narrative, then
 in the Peter Force library, which was used by Harry.
 
-<span id="fn_21"></span>[17:22](hou04.htm#fr_21) The journey into Utah
+<span id="fn_21"></span>[17:22](hou04.htm#fr_21.md) The journey into Utah
 of Dominguez and Escalante, as given in *Doc. Hist. Mex*., série ii.
 tom. i. 375-558, under title of *Diario y derrotero de los R. R. PP. Fr.
 Francisco Atanasio Dominguez y Fr. Silvestre Velez de Escalante, para
@@ -768,4 +768,4 @@ Cal*., this series.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Advent of Trappers and Travellers. 1778-1846.](hou05)
+[Next: Chapter II. Advent of Trappers and Travellers. 1778-1846.](hou05.md)

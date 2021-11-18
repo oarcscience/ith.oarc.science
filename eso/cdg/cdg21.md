@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg20)  [Next](cdg22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg20)  [Next](cdg22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ EVERYMAN'S LIBRARY EDITION, PAGES 186-188.
 
 ------------------------------------------------------------------------
 
-[Next: L. Panic Terrors. Origin of the Term](cdg22)
+[Next: L. Panic Terrors. Origin of the Term](cdg22.md)

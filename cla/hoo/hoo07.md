@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo06)  [Next](hoo08) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo06)  [Next](hoo08.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 NIGHT, parent goddess, source of sweet repose,  
 From whom at first both Gods and men arose,  
 Hear, blessed Venus, deck'd with starry light, <span
-id="fr_46"></span>[3](#fn_46)  
+id="fr_46"></span>[3](#fn_46.md)  
 In sleep's deep silence dwelling Ebon night!  
 Dreams and soft case attend thy dusky train, 5  
 Pleas'd with the length'ned gloom and **feaftful** strain.
@@ -36,10 +36,10 @@ Dispell the fears of Twilight's dreadful shade.
 
 ### Footnotes
 
-<span id="fn_46"></span>[115:3](hoo07.htm#fr_46) II. Ver. 3.\] See the
+<span id="fn_46"></span>[115:3](hoo07.htm#fr_46.md) II. Ver. 3.\] See the
 reason why Night is called Venus, in the notes to hymn, v. to
 Protogonus.
 
 ------------------------------------------------------------------------
 
-[Next: III: To Heaven](hoo08)
+[Next: III: To Heaven](hoo08.md)

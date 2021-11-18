@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr15) 
-[Next](idr17) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr15.md) 
+[Next](idr17.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ superstitions of the race.
 
 ------------------------------------------------------------------------
 
-[Next: Irish Superstitions](idr17)
+[Next: Irish Superstitions](idr17.md)

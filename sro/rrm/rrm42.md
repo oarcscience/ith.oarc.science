@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm41)  [Next](rrm43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm41)  [Next](rrm43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -376,4 +376,4 @@ cannot pass--OR BE.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII: Indian Mysterious Adoration of Forms. The Unity of
-the Mythologies Found in the Bhuddistic and Mohammedan Temples](rrm43)
+the Mythologies Found in the Bhuddistic and Mohammedan Temples](rrm43.md)

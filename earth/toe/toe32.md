@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe31)  [Next](toe33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe31)  [Next](toe33.md) 
 
 ------------------------------------------------------------------------
 
@@ -452,7 +452,7 @@ the west of Ireland, and the south-west of England and of France; and we
 shall soon be convinced that the sea has made ravages upon those coasts
 in proportion to its power, and has left them in a shape corresponding
 to the composition of the land, in destroying the softer, and leaving
-the harder parts <span id="fr_64"></span>[14](#fn_64).
+the harder parts <span id="fr_64"></span>[14](#fn_64.md).
 
 With those hard and rugged coasts of Britain and Ireland, let us
 contrast the east coasts; What a difference between these and the west
@@ -559,7 +559,7 @@ been employed in taking this view of the coast; nor is it upon every
 occasion that enlightened philosophers of this kind have given their
 thoughts upon the subject. M. de Spallanzani has given us the following
 observations with regard to the coast of Italy <span
-id="fr_65"></span>[15](#fn_65).
+id="fr_65"></span>[15](#fn_65.md).
 
 «Autant l'intérieur du petit bourg de Porto-venere et les rochers qui
 l'environnent sont a l'abri des tempêtes, autant les parties extérieures
@@ -842,7 +842,7 @@ islands and rocks pointing out to us what had been the former extent of
 our continent and land around. But, in following this connection of
 things, we cannot refuse to acknowledge that Ireland had formerly been
 in one mass of land with Britain, in like manner as the Orkneys had been
-with Scotland <span id="fr_66"></span>[16](#fn_66).
+with Scotland <span id="fr_66"></span>[16](#fn_66.md).
 
 It will be still less possible to refuse the junction of England with
 the continent of France; the testimony of that peculiar body of chalk
@@ -862,7 +862,7 @@ leave no manner of doubt.
 
 ### Footnotes
 
-<span id="fn_64"></span>[v2:14](toe32.htm#fr_64) M. de Lamblardie,
+<span id="fn_64"></span>[v2:14](toe32.htm#fr_64.md) M. de Lamblardie,
 *ingénieur des ponts et chaussées*, has made a calculation, seemingly
 upon good grounds, with regard to the wasting of a part of the coast of
 France, between the Seine and the Somme. This coast is composed of
@@ -874,10 +874,10 @@ form some idea of the time since the coast of France and that of England
 had been here united, or one continued mass of those strata which are
 the same on both those coasts.
 
-<span id="fn_65"></span>[v2:15](toe32.htm#fr_65) Observations sur la
+<span id="fn_65"></span>[v2:15](toe32.htm#fr_65.md) Observations sur la
 Physique, etc. Juillet 1786.
 
-<span id="fn_66"></span>[v2:16](toe32.htm#fr_66) I have the most
+<span id="fn_66"></span>[v2:16](toe32.htm#fr_66.md) I have the most
 satisfactory evidence of this fact, in finding the schistus of Galloway
 and of England in the opposite coast of Ireland, corresponding to its
 direction in stretching from the coasts of Britain.
@@ -885,4 +885,4 @@ direction in stretching from the coasts of Britain.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. The Theory Illustrated, with a View of the Summits of
-the Alps](toe33)
+the Alps](toe33.md)

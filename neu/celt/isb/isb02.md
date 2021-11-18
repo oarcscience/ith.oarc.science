@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb01)  [Next](isb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb01)  [Next](isb03.md) 
 
 ------------------------------------------------------------------------
 
@@ -402,4 +402,4 @@ and a Low Church coach adopted by travelling Christians of either party.
 
 ------------------------------------------------------------------------
 
-[Next: From Carlow to Waterford](isb03)
+[Next: From Carlow to Waterford](isb03.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](spc07)  [Next](spc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](spc07)  [Next](spc09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sacred Places in China*, by Carl F. Kupfer, \[1911\], at Intangible
 Textual Heritage
 
@@ -78,14 +78,14 @@ and girl are standing. They are called *Chin Tung* and *Yü Nü*, and are
 supposed to be the beings who serve as guides to departed spirits over
 the No-Alternative Bridge—in Purgatory—which all spirits must cross.
 
-Back of the grave is a wall built in the [shape](errata.htm#3) of a
+Back of the grave is a wall built in the [shape](errata.htm#3.md) of a
 horseshoe, reaching round to the front. In this wall three stone
 
 <span id="page_83">p. 83</span>
 
 <span id="img_08300"></span> <span align="CENTER"> [![CHOU FU
 TSZ.](tn/08300.jpg)  
-Click to enlarge](img/08300.jpg)  
+Click to enlarge](img/08300.jpg.md)  
 CHOU FU TSZ.  
 </span>
 
@@ -128,7 +128,7 @@ prevail. If all would practice the doctrine of benevolence
 
 <span id="img_08500"></span> <span align="CENTER"> [![CROSSING THE
 BRIDGE OF FATE—NO ALTERNATIVE.](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)  
+Click to enlarge](img/08500.jpg.md)  
 CROSSING THE BRIDGE OF FATE—NO ALTERNATIVE.  
 </span>
 
@@ -245,7 +245,7 @@ and was buried to his mother's left. His wives
 
 <span id="img_08900"></span> <span align="CENTER"> [![CHART OF THE
 ABSOLUTE.](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 CHART OF THE ABSOLUTE.  
 </span>
 
@@ -291,16 +291,16 @@ village.
 
 <span id="img_09100"></span> <span align="CENTER"> [![CHANG TIENSZ LXII,
 POPE OF THE TAOIST RELIGION.](tn/09100.jpg)  
-Click to enlarge](img/09100.jpg)  
+Click to enlarge](img/09100.jpg.md)  
 CHANG TIENSZ LXII, POPE OF THE TAOIST RELIGION.  
 </span>
 
 <span id="img_09101"></span> <span align="CENTER"> [![SHANG TSING
 KUNG—RESIDENCE CITY OF THE POPE.](tn/09101.jpg)  
-Click to enlarge](img/09101.jpg)  
+Click to enlarge](img/09101.jpg.md)  
 SHANG TSING KUNG—RESIDENCE CITY OF THE POPE.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Lung-Hu Shan—The Dragon-Tiger Mountain](spc09)
+[Next: Lung-Hu Shan—The Dragon-Tiger Mountain](spc09.md)

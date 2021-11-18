@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str11)  [Next](str13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str11)  [Next](str13.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -61,14 +61,14 @@ park at *Wilton*, which I call the tomb of *Carvilius*, is set within
 view of *Stonehenge*.
 
 In 1722, my late Lord *Pembroke*, Earl *Thomas*, who was pleas’d to
-favour my [inquiries](errata.htm#5) at this place, open’d a barrow, in
+favour my [inquiries](errata.htm#5.md) at this place, open’d a barrow, in
 order to find the position of the body observ’d in these early days. He
 pitch’d upon one of those south of *Stonehenge*, close upon the road
 thither from *Wilton:* and on the east side of the road. ’Tis one of the
 double barrows, or where two are inclos’d in one ditch: one of those,
 which I suppose the later kind, and of a fine turn’d bell-fashion.<span
 class="margnote">TAB. IX.</span> It may be seen in *Plate*
-[IX](str05.htm#img_pl09). On the west side, he made a section from the
+[IX](str05.htm#img_pl09.md). On the west side, he made a section from the
 top to the bottom, an intire segment, from center to circumference. The
 manner of composition of the barrow was good earth, quite thro’, except
 a coat of chalk of about two foot thickness, covering it quite over,
@@ -100,7 +100,7 @@ in which was inclos’d an urn full of bones. This urn was of unbak’d
 clay, of a dark reddish colour: crumbled into pieces. It had been rudely
 wrought with small mouldings round the verge, and other circular
 channels on the outside, with several indentures between, made with a
-pointed tool, as depicted in *Plate* [XXXII.](str14.htm#img_pl32) <span
+pointed tool, as depicted in *Plate* [XXXII.](str14.htm#img_pl32.md) <span
 class="margnote">TAB. XXXII.</span> where I have drawn all the sorts of
 things found in this barrow. The bones had been burnt, and crouded all
 together in a little heap, not so much as a hat crown would contain. The
@@ -109,7 +109,7 @@ magnitude. It appears to have been a girl of about
 
 <span id="img_pl23"></span> <span align="CENTER"> [![Plate 23. The Area
 of Stonehenge](tn/pl23.jpg)  
-Click to enlarge](img/pl23.jpg)  
+Click to enlarge](img/pl23.jpg.md)  
 Plate 23. The Area of Stonehenge  
 </span>
 
@@ -164,13 +164,13 @@ little bits of an urn, and black and red earth very rotten. Some small
 lumps of earth red as vermilion: some flints burnt thro’. Toward the
 bottom a great quantity of ashes and burnt bones. From this place I
 could count 128 barrows in sight. See a vast multiplicity of ’em, [TAB.
-XXXI.](str14.htm#img_pl31) <span class="margnote">TAB. XXXI.</span>
+XXXI.](str14.htm#img_pl31.md) <span class="margnote">TAB. XXXI.</span>
 
 Going from hence more southerly, there is a circular dish-like cavity
 dug in the chalk, 60 cubits in diameter, like a barrow revers’d. ’Tis
 near a great barrow, the least of the south-western group. ’Tis between
 it, and what I call the bushbarrow, set with thorn-trees, [TAB.
-XXXII.](str14.htm#img_pl32) This cavity is seven feet <span
+XXXII.](str14.htm#img_pl32.md) This cavity is seven feet <span
 class="margnote">TAB. XXXII.</span> deep in the middle, extremely well
 turn’d, and out of it, no doubt, the adjacent barrow is dug. The use of
 it seems to have been a place for sacrificing and feasting in memory of
@@ -229,7 +229,7 @@ ancienter than *Greek* or *Roman* times, *Psalm* lvi. 8.
 
  
 
-[TAB. XXXI](str14.htm#img_pl31). the barrows in *Lake-field*. This is as
+[TAB. XXXI](str14.htm#img_pl31.md). the barrows in *Lake-field*. This is as
 a church-yard, the burial-place of some town, or large family. I
 mention’d before, that the ditches observable here, are hounds of
 parishes, hundreds or lordships. The countrymen sometime call this
@@ -237,18 +237,18 @@ group, the prophets barrows. Because the *French* prophets 30 years ago,
 set up a standard on the largest barrow, and preach’d to the
 enthusiastic multitude.
 
-[TAB. XXXIII](str14.htm#img_pl33). bush-barrow, a barrow planted by the
+[TAB. XXXIII](str14.htm#img_pl33.md). bush-barrow, a barrow planted by the
 shepherds. ’Tis south of *Stonehenge*, and commands a pleasant prospect
 of the temple, the *cursus*, the avenue, and of all the barrows arounds
 this plain. You see the hills a little on this side *Abury*, whereon
 runs the *Wansdike*, the boundary of the *Belgic* kingdom.
 
-[TAB. XXXIV](str14.htm#img_pl34). the *tumulus* of *Carvilius* who
+[TAB. XXXIV](str14.htm#img_pl34.md). the *tumulus* of *Carvilius* who
 fought *Julius Cæsar*. ’Tis on the other side of *Wilton* (*Carvilium*)
 by Lord *Pembroke*'s park: and planted with four trees, as one of the
 visto's to the park.
 
-[TAB. XXXV](str14.htm#img_pl35). one of the temples at *Persepolis* a
+[TAB. XXXV](str14.htm#img_pl35.md). one of the temples at *Persepolis* a
 patriarchal one, open: but made after *Solomon*'s temple, square: with
 mouldings and ornaments. I take it to be of the same age as
 *Stonehenge*.
@@ -257,7 +257,7 @@ mouldings and ornaments. I take it to be of the same age as
 Prospect of the beginning of the Avenue to Stonehenge, 6 Aug.
 1723.&lt;br&gt; A. the beginning of the avenue. B. the old Kings
 barrows. C. the 7 Kings barrows. D. Vespasians camp.](tn/pl24.jpg)  
-Click to enlarge](img/pl24.jpg)  
+Click to enlarge](img/pl24.jpg.md)  
 Plate 24. The back Prospect of the beginning of the Avenue to
 Stonehenge, 6 Aug. 1723.  
 A. the beginning of the avenue. B. the old Kings barrows. C. the 7 Kings
@@ -266,4 +266,4 @@ barrows. D. Vespasians camp.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](str13)
+[Next: Chapter XI](str13.md)

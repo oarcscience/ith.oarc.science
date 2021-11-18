@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc001)  [Next](ffcc110) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc001)  [Next](ffcc110.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -39,9 +39,9 @@ inspiring for the writing down of one's deeper intuitions about the
 Fairy-Faith, than Carnac, under the shadow of the pagan tumulus and
 mount of the sacred fire, now dedicated by triumphant Christianity to
 the Archangel Michael. The very name of Carnac is significant; <span
-id="fr_0"></span>[1](#fn_0) and in two continents, Africa and Europe--to
+id="fr_0"></span>[1](#fn_0.md) and in two continents, Africa and Europe--to
 follow the certain evidence of archaeology alone <span
-id="fr_1"></span>[2](#fn_1)--there seem to have been no greater centres
+id="fr_1"></span>[2](#fn_1.md)--there seem to have been no greater centres
 for ancient religion than Karnak in Egypt and Carnac in Brittany. On the
 banks of the Nile the Children of Isis and Osiris erected temples as
 perfect as human art can make them; on the shores of the Morbihan the
@@ -316,7 +316,7 @@ until comparatively historical times.
 
 Over against the champions of the Pygmy Theory may be set two of its
 opponents, Dr. Bertram C. A. Windle and Mr. Andrew Lang. <span
-id="fr_2"></span>[1](#fn_2) Dr. Windle, in his Introduction to Tyson's
+id="fr_2"></span>[1](#fn_2.md) Dr. Windle, in his Introduction to Tyson's
 *Philological Essay concerning the Pygmies of the Ancients,* makes these
 six most destructive criticisms or points against the theory: (1) So far
 as our present knowledge teaches us, there never was a really Pygmy race
@@ -343,7 +343,7 @@ The Druid Theory to account for fairies is less widespread. It is that
 the folk-memory of the Druids and their magical practices is alone
 responsible for the Fairy-Faith. The first suggestion of this theory
 seems to have been made by the Rev. Dr. Cririe, in his *Scottish
-Scenery*, published in 1803. <span id="fr_3"></span>[2](#fn_3) Three
+Scenery*, published in 1803. <span id="fr_3"></span>[2](#fn_3.md) Three
 years later, the Rev. Dr. Graham published
 
 <span id="page_xx">p. xx</span>
@@ -511,7 +511,7 @@ W. Y. E. W.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xi:1](ffcc002.htm#fr_0) Quite appropriately it
+<span id="fn_0"></span>[xi:1](ffcc002.htm#fr_0.md) Quite appropriately it
 means *place of cairns* or *tumuli*--those prehistoric monuments
 religious and funereal in their purposes. *Carnac* seems to be a
 Gallo-Roman form. According to Professor J. Loth, the Breton (Celtic)
@@ -519,15 +519,15 @@ forms would be: old Celtic, *Carna\_co-s;* old Breton (ninth-eleventh
 century), *Carnoc;* Middle Breton (eleventh-sixteenth century),
 *Carneuc;* Modern Breton, *Carnec*.
 
-<span id="fn_1"></span>[xi:2](ffcc002.htm#fr_1) For we cannot offer any
+<span id="fn_1"></span>[xi:2](ffcc002.htm#fr_1.md) For we cannot offer any
 proof of what at first sight appears like a philological relation or
 identity between *Carnac* and *Karnak*.
 
-<span id="fn_2"></span>[xix:1](ffcc002.htm#fr_2) Andrew Lang, Kirk's
+<span id="fn_2"></span>[xix:1](ffcc002.htm#fr_2.md) Andrew Lang, Kirk's
 *Secret Commonwealth* (London, 1893), p. xviii; and *History of
 Scotland* (Edinburgh, 1900-07).
 
-<span id="fn_3"></span>[xix:2](ffcc002.htm#fr_3) Cf. David MacRitchie's
+<span id="fn_3"></span>[xix:2](ffcc002.htm#fr_3.md) Cf. David MacRitchie's
 published criticisms of our Psychological Theory <span id="page_xx">p.
 xx</span> in *The Celtic Review* (January 1910), entitled *Druids and
 Mound-Dwellers*; also his first part of these criticisms, ib. (October
@@ -535,4 +535,4 @@ Mound-Dwellers*; also his first part of these criticisms, ib. (October
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Environment](ffcc110)
+[Next: Chapter I: Environment](ffcc110.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc51)  [Next](osc53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc51)  [Next](osc53.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ sections that follow some proof of this statement will be forthcoming.
 
 ------------------------------------------------------------------------
 
-[Next: (12) Looking-Glass Omens](osc53)
+[Next: (12) Looking-Glass Omens](osc53.md)

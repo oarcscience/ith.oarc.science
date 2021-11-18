@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb20)  [Next](lifb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb20)  [Next](lifb22.md) 
 
 </div>
 
@@ -610,6 +610,6 @@ From 'Swaheli Tales,' by E. Steere.
 
 ------------------------------------------------------------------------
 
-[Next: The Bones of Djulung](lifb22)
+[Next: The Bones of Djulung](lifb22.md)
 
 </div>

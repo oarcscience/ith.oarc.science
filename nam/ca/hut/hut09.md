@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut08)  [Next](hut10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut08)  [Next](hut10.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 ### VI.
 
-### Litcūwdiñ yadeLtse. <span id="fr_31"></span>[1](#fn_31)--At Sand-place They Lived.
+### Litcūwdiñ yadeLtse. <span id="fr_31"></span>[1](#fn_31.md)--At Sand-place They Lived.
 
 <span id="page_172">p. 172</span>
 
@@ -58,9 +58,9 @@ The sisters continued to live there as before.
 
 ### Footnotes
 
-<span id="fn_31"></span>[169:1](hut09.htm#fr_31) Told at Hupa, June
+<span id="fn_31"></span>[169:1](hut09.htm#fr_31.md) Told at Hupa, June
 1901, by Oscar Brown.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Xonsadiñ Kûntcūwiltcwil.--Xonsadiñ Young Man](hut10)
+[Next: VII. Xonsadiñ Kûntcūwiltcwil.--Xonsadiñ Young Man](hut10.md)

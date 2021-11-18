@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph17)  [Next](rph19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph17)  [Next](rph19.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,9 +42,9 @@ dogmas of the pre-existence of the souls, of reminiscence and of
 metempsychosis. These various resemblances are so striking that the
 Kabbalists themselves--I refer to the modern Kabbalists--recognized
 them, and in order to explain them, they thought it best to make Plato a
-disciple of Jeremiah, <span id="fr_423"></span>[1](#fn_423) just as
+disciple of Jeremiah, <span id="fr_423"></span>[1](#fn_423.md) just as
 others made Aristotle a disciple of Simon the Just. <span
-id="fr_424"></span>[2](#fn_424)
+id="fr_424"></span>[2](#fn_424.md)
 
 But will any one dare to conclude from such superficial relations that
 the works of the Athenian philosopher inspired the first authors of the
@@ -166,9 +166,9 @@ understand the irrational, the rude and unbridled imagination in the
 most important passages of the Zohar? Can we explain that extraordinary
 description of the "White Head," those gigantic metaphors mingled with
 puerile details, that supposition of a secret revelation older than that
-of Sinai, and, [finally](errata.htm#20), those incredible efforts, aided
+of Sinai, and, [finally](errata.htm#20.md), those incredible efforts, aided
 by the most arbitrary means, to find their doctrine in the Holy
-Scriptures.? <span id="fr_425"></span>[3](#fn_425)
+Scriptures.? <span id="fr_425"></span>[3](#fn_425.md)
 
 In these different characters I recognize, indeed, a philosophy which,
 springing from the bosom of an eminently religious people, dares not
@@ -182,27 +182,27 @@ philosophy which openly avers that
 it holds its authority, power and enlightenment from reason only.
 Moreover, the Jews never denied their foreign teachers, nor did they
 refuse to pay respect to other nations for the knowledge they sometimes
-borrowed from them. <span id="fr_426"></span>[4](#fn_426) Thus we are
+borrowed from them. <span id="fr_426"></span>[4](#fn_426.md) Thus we are
 told by the Talmud that the Assyrians furnished them with the names of
 the months, of the angels and with the characters of the letters which
 they use to this day for the writing of their holy books. <span
-id="fr_427"></span>[5](#fn_427) Later on, when the Greek language began
+id="fr_427"></span>[5](#fn_427.md) Later on, when the Greek language began
 to spread among them, the most venerable teachers of the Mishnah spoke
-with admiration of it, <span id="fr_428"></span>[6](#fn_428) and
+with admiration of it, <span id="fr_428"></span>[6](#fn_428.md) and
 permitted even its use at religious ceremonies in place of the
-scriptural text. <span id="fr_429"></span>[7](#fn_429) During the Middle
+scriptural text. <span id="fr_429"></span>[7](#fn_429.md) During the Middle
 Ages, when the Jews were initiated by the Arabs into the philosophy of
 Aristotle, they did not hesitate to give the same honor to this
 philosopher as to their own, except, as we said before, that they made
 him a disciple of their oldest teachers, and ascribed a book to him in
 which they picture the head of the Lyceum acknowledging upon his
 deathbed the God and the Law of Israel. <span
-id="fr_430"></span>[8](#fn_430)
+id="fr_430"></span>[8](#fn_430.md)
 
 Finally, in a very remarkable passage previously quoted by us, we are
 informed by the Zohar itself that the books of the Orient come very
 close to the Divine Law and to some views taught by the School of Simeon
-ben Yohai. <span id="fr_431"></span>[9](#fn_431) It is added only that
+ben Yohai. <span id="fr_431"></span>[9](#fn_431.md) It is added only that
 this ancient wisdom was taught by the patriarch Abraham to the
 
 <span id="page_219">p. 219</span>
@@ -212,13 +212,13 @@ Bible, the Orient was populated. What then would have prevented the
 authors of the Kabbalah from dedicating also a souvenir to Plato? Could
 they not just as easily as their modern followers have him schooled by
 some prophet of the true God? According to Eusebius <span
-id="fr_432"></span>[10](#fn_432) this is exactly what Aristobulus <span
-id="fr_433"></span>[11](#fn_433) did when, after interpreting the Bible
+id="fr_432"></span>[10](#fn_432.md) this is exactly what Aristobulus <span
+id="fr_433"></span>[11](#fn_433.md) did when, after interpreting the Bible
 in accordance with the philosophy of Plato, he did not hesitate to
 accuse the latter of having taken his knowledge from the books of Moses.
 The same strategy is used by Philo against the head of the
-Portico. <span id="fr_434"></span>[12](#fn_434),  <span
-id="fr_435"></span>[13](#fn_435)
+Portico. <span id="fr_434"></span>[12](#fn_434.md),  <span
+id="fr_435"></span>[13](#fn_435.md)
 
 We are, therefore, entitled to the opinion that the origin of the
 Kabbalistic system is not to be looked for in the so-called Platonism.
@@ -228,11 +228,11 @@ Let us see if we can find it with the philosophers of Alexandria.
 
 ### Footnotes
 
-<span id="fn_423"></span>[214:1](rph18.htm#fr_423) Compare my review on
+<span id="fn_423"></span>[214:1](rph18.htm#fr_423.md) Compare my review on
 Lindo's English translation of the "Conciliator" by Manasseh ben Israel
 in Fuerst's "Orient" of 1848, col. 348.--Jellinek
 
-<span id="fn_424"></span>[214:2](rph18.htm#fr_424) Compare Aree-Nohem
+<span id="fn_424"></span>[214:2](rph18.htm#fr_424.md) Compare Aree-Nohem
 (The Roaring Lion) by Leon de Modena, ch. XV, p. 4-4 (edited by Dr.
 Julius Fuerst, Leipzig, 1840). Others maintain that Aristotle, while in
 Palestine with Alexander the Great, saw the works of Solomon, and that
@@ -240,7 +240,7 @@ these furnished him the principal elements for his philosophy. See
 ‏שבילי אמונה‎ (Paths of Faith), by R. Meir Aldoli. (Should be
 Aldabi--Jellinek.)
 
-<span id="fn_425"></span>[217:3](rph18.htm#fr_425) This last argument is
+<span id="fn_425"></span>[217:3](rph18.htm#fr_425.md) This last argument is
 a weak one; for it has been at all times the task of the Jewish
 religious philosophers to carry into the Bible the given contents of a
 philosophy. It has been done so from the time of Saadia to the time of
@@ -248,48 +248,48 @@ Hirsch. As to the arbitrary means, it is part of the nature of mysticism
 to look for and find symbols to replace its ideas. Indeed, Neoplatonism
 came forth from Platonism.--Jellinek
 
-<span id="fn_426"></span>[218:4](rph18.htm#fr_426) We must take into
+<span id="fn_426"></span>[218:4](rph18.htm#fr_426.md) We must take into
 consideration that the Talmudists were very scrupulous about mentioning
 the name of the originator of an opinion. Compare especially Abboth, ch.
 6, the saying: ‏כל האומר דבר בשם אומרן‎ (One who mentions anything in
 the name of the one who said it (at first), brings redemption into the
 world).--Jellinek
 
-<span id="fn_427"></span>[218:5](rph18.htm#fr_427) Jerusalem Talmud,
+<span id="fn_427"></span>[218:5](rph18.htm#fr_427.md) Jerusalem Talmud,
 Rosh-Hashanah ‏שמות הטלאסים והתדשים עלו עמהם מבבל‎ (The names of the
 angels and of the months came with them from Babylon). At another place
 (Tract. Sanhedrin, ch. XXI) it says, in speaking of Ezra, that the
 characters of the letters were changed by him, ‏נשתנה הכתב על ידו‎ and
 that these characters are still called ‏אשורי‎ (Assyrian).
 
-<span id="fn_428"></span>[218:6](rph18.htm#fr_428) The Talmudist applied
+<span id="fn_428"></span>[218:6](rph18.htm#fr_428.md) The Talmudist applied
 the Biblical passage ‏יפת אלהים ליפת‎ (May God enlarge the boundary of
 Japhet), Genesis IX, 27, to the Greek language.--Jellinek
 
-<span id="fn_429"></span>[218:7](rph18.htm#fr_429) Babylonian Talmud,
+<span id="fn_429"></span>[218:7](rph18.htm#fr_429.md) Babylonian Talmud,
 Tractat Megillah, ch. I, Tract. Sota, ad fin.
 
-<span id="fn_430"></span>[218:8](rph18.htm#fr_430) This book is called
+<span id="fn_430"></span>[218:8](rph18.htm#fr_430.md) This book is called
 ‏ספר התפוח‎, Book of the Apple.
 
-<span id="fn_431"></span>[218:9](rph18.htm#fr_431) Zohar, part I, fol.
+<span id="fn_431"></span>[218:9](rph18.htm#fr_431.md) Zohar, part I, fol.
 99, 100. Sect. ‏וירא‎.
 
-<span id="fn_432"></span>[219:10](rph18.htm#fr_432) Eusebius of
+<span id="fn_432"></span>[219:10](rph18.htm#fr_432.md) Eusebius of
 Caesarea, considered the father of Church history, (264-340).--Transl.
 
-<span id="fn_433"></span>[219:11](rph18.htm#fr_433) Aristobulus of
+<span id="fn_433"></span>[219:11](rph18.htm#fr_433.md) Aristobulus of
 Paneas, Jewish Alexandrian philosopher of the second or third century B.
 C.--Transl.
 
-<span id="fn_434"></span>[219:12](rph18.htm#fr_434) Quod omnis probus
+<span id="fn_434"></span>[219:12](rph18.htm#fr_434.md) Quod omnis probus
 liber, p. 873, Ed. Mangey.
 
-<span id="fn_435"></span>[219:13](rph18.htm#fr_435) Refers to the
+<span id="fn_435"></span>[219:13](rph18.htm#fr_435.md) Refers to the
 philosopher Zeno (360-270 B. C.), founder of the school of Stoics, so
 called because the disciples were taught on a "stoa" or porch.--Transl.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. Relation of the Kabbalah to the Alexandrian
-School](rph19)
+School](rph19.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd07)  [Next](pbd09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd07)  [Next](pbd09.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ killing them.
 
 ------------------------------------------------------------------------
 
-[Next: Rites Over the Suit](pbd09)
+[Next: Rites Over the Suit](pbd09.md)

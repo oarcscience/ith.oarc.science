@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV3F4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV3F4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0021YV3F4/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mhj300)    [Page
-Index](pageidx)    [Text \[Zipped\]](mhj3.txt.gz)
+[Contents](#contents)    [Start Reading](mhj300.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mhj3.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ interest because it contains extensive quotes from the actual literature
 of the Bavarian Illuminati. This is the most comprehensive work in
 English on the historical theory, structure and practice of the Bavarian
 Illuminati. It complements Robison's [Proofs of a
-Conspiracy](../pc/index), the other major contemporary account.
+Conspiracy](../pc/index.md), the other major contemporary account.
 
 Founded in 1776, shortly before the American Revolution, the Bavarian
 Illuminati were a secret society with a revolutionary ideology, and a
@@ -73,36 +73,36 @@ Hare, May 11th, 2008.*
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mhj300)  
+<span id="contents"></span> [Title Page](mhj300.md)  
 <span id="section_000"></span>
 
 ### Part III. The Antisocial Conspiracy
 
-[Preliminary Observations](mhj301)  
-[Chapter I. Spartacus-Weishaupt, Founder of the Illuminees](mhj302)  
-[Chapter II. Code of the Illuminees](mhj303)  
-[Chapter III. Of the Brother Insinuator, or the Recruiter](mhj304)  
-[Chapter IV. First Preparatory Degree: Novice](mhj305)  
+[Preliminary Observations](mhj301.md)  
+[Chapter I. Spartacus-Weishaupt, Founder of the Illuminees](mhj302.md)  
+[Chapter II. Code of the Illuminees](mhj303.md)  
+[Chapter III. Of the Brother Insinuator, or the Recruiter](mhj304.md)  
+[Chapter IV. First Preparatory Degree: Novice](mhj305.md)  
 [Chapter V. Second Preparatory Degree: The Brethren of
-Minerva](mhj306)  
-[Chapter VI. Third Preparatory Degree: The Minor Illuminee](mhj307)  
+Minerva](mhj306.md)  
+[Chapter VI. Third Preparatory Degree: The Minor Illuminee](mhj307.md)  
 [Chapter VII. Fourth Preparatory Degree: The Major Illuminee, or the
-Scotch Novice](mhj308)  
-[Chapter VIII. Intermediate Class: The Scotch Knight](mhj309)  
+Scotch Novice](mhj308.md)  
+[Chapter VIII. Intermediate Class: The Scotch Knight](mhj309.md)  
 [Chapter IX. The Lesser Mysteries; The Epopt or Priest of
-Illuminism](mhj310)  
+Illuminism](mhj310.md)  
 [Chapter X. Continuation of the Discourse on the Lesser
-Mysteries](mhj311)  
-[Chapter XI. The Regent, or the Prince Illuminee](mhj312)  
+Mysteries](mhj311.md)  
+[Chapter XI. The Regent, or the Prince Illuminee](mhj312.md)  
 [Chapter XII. Class of Grand Mysteries; the Mage or the Philosopher, and
-the Man King](mhj313)  
-[Chapter XIII. Government of the Order](mhj314)  
+the Man King](mhj313.md)  
+[Chapter XIII. Government of the Order](mhj314.md)  
 [Chapter XIV. Of the Government and Political Instructions for the
-Epopts](mhj315)  
+Epopts](mhj315.md)  
 [Chapter XV. Instructions for the Regent or Prince Illuminee, on the
-Government of the Order](mhj316)  
+Government of the Order](mhj316.md)  
 [Chapter XVI. Continuation of the Instructions on the Government of the
-Illuminees](mhj317)  
-[Chapter XVII. Instructions for the Provincial](mhj318)  
+Illuminees](mhj317.md)  
+[Chapter XVII. Instructions for the Provincial](mhj318.md)  
 [Chapter XVIII. Of the National Directors, of the Areopagites, and of
-the General of Illuminism](mhj319)  
+the General of Illuminism](mhj319.md)  

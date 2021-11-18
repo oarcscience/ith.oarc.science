@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist062) 
-[Next](hist064) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist062.md) 
+[Next](hist064.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ West Saxons by synodical authority.
 
 [Next: VIII. How Earconbert, King of Kent, ordered the idols to be
 destroyed, and of his daughter Earcongota, and his kinswoman Ethelberg,
-virgins consecrated to God. \[640 A.D.\]](hist064)
+virgins consecrated to God. \[640 A.D.\]](hist064.md)

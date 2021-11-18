@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu14)  [Next](tmu16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu14)  [Next](tmu16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_106">p. 106</span>
 
-### BRAHMOPANISHAḌ <span id="fr_62"></span>[1](#fn_62)
+### BRAHMOPANISHAḌ <span id="fr_62"></span>[1](#fn_62.md)
 
 ### OF
 
@@ -72,7 +72,7 @@ causes to know. He who knows thus obtains Brahman, the supreme, the
 support of all things, and the Ksheṭrajña. He obtains Brahman, the
 supreme, support of all things, and the Ksheṭrajña.
 
- <span id="fr_63"></span>[1](#fn_63) "The Pursuha has four seats—navel,
+ <span id="fr_63"></span>[1](#fn_63.md) "The Pursuha has four seats—navel,
 heart, neck, and head. There Brahman with the four feet specially
 shines. Those feet are jāgraṭa, svapna, sushupṭi, and ṭurya. In jāgraṭa
 he is Brahmā, in svapna Vishṇu, in sushupṭi Ruḍra, and in ṭurya the
@@ -94,7 +94,7 @@ has awakened knows everything.
 <span class="contnote">\[paragraph continues\]</span> All the Ḍevas are
 in the heart; in the heart are all the prāṇas: in the heart are prāṇa,
 jyoṭis and that three-plied holy thread. In the heart in Chaiṭanya, it
-(prāṇa) is.  <span id="fr_64"></span>[1](#fn_64) Put on the yajñopavīṭa
+(prāṇa) is.  <span id="fr_64"></span>[1](#fn_64.md) Put on the yajñopavīṭa
 (holy thread), the supreme, the holy, which came into existence along
 with the Prajāpaṭi, which gives long life and which is very excellent;
 let this give you strength and ṭejas. The wise man having shaved his
@@ -144,7 +144,7 @@ lotus-flower, with its head hanging down; it has a hole in the top. Know
 it to be the great abode of All. Know that during jāgraṭa it (jīva)
 dwells in the eye, and during svapna in the throat; during sushupṭi, it
 is in the heart and during ṭurya in the head.  <span
-id="fr_65"></span>[1](#fn_65) (Because buḍḍhi unites) the Praṭyagāṭma
+id="fr_65"></span>[1](#fn_65) (Because buḍḍhi unites.md) the Praṭyagāṭma
 with the Paramāṭma, the worship of sanḍhyā (union) arose. So we should
 perform sanḍhyāvanḍana (rites). The sanḍhyāvanḍana performed by ḍhyāna
 requires no water. It gives no trouble to the body or the speech. That
@@ -161,17 +161,17 @@ is all-pervading, that is like ghee in the milk, that is the source of
 
 ### Footnotes
 
-<span id="fn_62"></span>[106:1](tmu15.htm#fr_62) In this Upanishaḍ, the
+<span id="fn_62"></span>[106:1](tmu15.htm#fr_62.md) In this Upanishaḍ, the
 Southern Indian edition begins later on but the other portions also are
 given as being fuller.
 
-<span id="fn_63"></span>[107:1](tmu15.htm#fr_63) The South Indian
+<span id="fn_63"></span>[107:1](tmu15.htm#fr_63.md) The South Indian
 Edition begins here.
 
-<span id="fn_64"></span>[108:1](tmu15.htm#fr_64) This manṭra is repeated
+<span id="fn_64"></span>[108:1](tmu15.htm#fr_64.md) This manṭra is repeated
 whenever the holy thread is newly worn.
 
-<span id="fn_65"></span>[109:1](tmu15.htm#fr_65) The five sentences from
+<span id="fn_65"></span>[109:1](tmu15.htm#fr_65.md) The five sentences from
 here relating to Sanḍhyā are not to be found in the South Indian
 Edition.
 
@@ -179,6 +179,6 @@ Edition.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Vajrasūchi-Upanishaḍ of Sāmaveḍa](tmu16)
+[Next: 14. Vajrasūchi-Upanishaḍ of Sāmaveḍa](tmu16.md)
 
 </div>

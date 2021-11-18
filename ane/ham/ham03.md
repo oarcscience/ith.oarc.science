@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](ham02)  [Next](ham04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](ham02)  [Next](ham04.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ Laws; Contracts and Letters; etc.
 
 ------------------------------------------------------------------------
 
-[Next: Preamble](ham04)
+[Next: Preamble](ham04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic070)  [Next](lfic072) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic070)  [Next](lfic072.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ had a taste for legendary traditions.
 
 ------------------------------------------------------------------------
 
-[Next: An Broan Suan Or](lfic072)
+[Next: An Broan Suan Or](lfic072.md)

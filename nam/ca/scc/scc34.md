@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc33)  [Next](scc35) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc33)  [Next](scc35.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ That was the time they stopped being like us and scattered.
 
 ------------------------------------------------------------------------
 
-[Next: 33.--Yaudanchi Yokuts. Thunder And Whirlwind.](scc35)
+[Next: 33.--Yaudanchi Yokuts. Thunder And Whirlwind.](scc35.md)

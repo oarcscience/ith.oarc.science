@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -45,26 +45,26 @@ such as the Theseus, the Thebes myths, Heracles and Mount Olympus.
 
 ------------------------------------------------------------------------
 
-[Title Page](mog00)  
-[Contents](mog01)  
-[Chapter I. How Old is Greek Mythology?](mog02)  
+[Title Page](mog00.md)  
+[Contents](mog01.md)  
+[Chapter I. How Old is Greek Mythology?](mog02.md)  
 <span id="section_000"></span>
 
 ### Chapter II. Mycenaean Centers and Mythological Centers
 
-[Chapter II: Introduction](mog03)  
-[1. Argolis](mog04)  
-[2. Laconia](mog05)  
-[3. The Dominion of Pylos](mog06)  
-[4. The Rest of the Peloponnese](mog07)  
-[5. The Ionian Islands](mog08)  
-[6. Southern Boeotia](mog09)  
-[7. Northern Boeotia and Thessaly](mog10)  
-[8. Attica](mog11)  
-[9. Conclusion](mog12)  
+[Chapter II: Introduction](mog03.md)  
+[1. Argolis](mog04.md)  
+[2. Laconia](mog05.md)  
+[3. The Dominion of Pylos](mog06.md)  
+[4. The Rest of the Peloponnese](mog07.md)  
+[5. The Ionian Islands](mog08.md)  
+[6. Southern Boeotia](mog09.md)  
+[7. Northern Boeotia and Thessaly](mog10.md)  
+[8. Attica](mog11.md)  
+[9. Conclusion](mog12.md)  
 
  
 
-[Chapter III. Heracles](mog13)  
-[Chapter IV. Olympus](mog14)  
-[Index](mog15)  
+[Chapter III. Heracles](mog13.md)  
+[Chapter IV. Olympus](mog14.md)  
+[Index](mog15.md)  

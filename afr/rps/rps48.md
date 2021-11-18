@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps47)  [Next](rps49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps47)  [Next](rps49.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ O.K.C.L.C.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 47. The African Question](rps49)
+[Next: Chapter 47. The African Question](rps49.md)

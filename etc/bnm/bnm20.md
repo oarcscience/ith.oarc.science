@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm19)  [Next](bnm21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm19)  [Next](bnm21.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ everybody.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Peetweet Cries For Rain.](bnm21)
+[Next: Why The Peetweet Cries For Rain.](bnm21.md)

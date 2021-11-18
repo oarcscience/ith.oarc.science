@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl36)  [Next](orl38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl36)  [Next](orl38.md) 
 
 ------------------------------------------------------------------------
 
@@ -1379,4 +1379,4 @@ Rogero; and my canto I have done.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 38](orl38)
+[Next: Canto 38](orl38.md)

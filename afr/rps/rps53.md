@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps52)  [Next](rps54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps52)  [Next](rps54.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Life, PETTERSBURGH THE MONARCH of Creation (from the Throne) June 2,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 50. The Theological Lawgiver of Creation](rps54)
+[Next: Chapter 50. The Theological Lawgiver of Creation](rps54.md)

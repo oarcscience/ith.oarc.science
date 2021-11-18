@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc42)  [Next](mtc44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc42)  [Next](mtc44.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ This Spring, back through the Gorges of Pa,
 I have come to them safely, ten thousand leagues.  
     Two sisters I had  
 Who had put up their hair, but not twined the sash; <span
-id="fr_28"></span>[1](#fn_26)  
+id="fr_28"></span>[1](#fn_26.md)  
 Yesterday both were married and taken away  
 By good husbands in whom I may well trust.  
 I am freed at last from the thoughts that made me grieve,  
@@ -49,12 +49,12 @@ You and I may never be forced to part.
 
 ### Footnotes
 
-<span id="fn_26"></span>[73:1](mtc43.htm#fr_28) I.e., got married.
+<span id="fn_26"></span>[73:1](mtc43.htm#fr_28.md) I.e., got married.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Pine Trees in the Courtyard](mtc44)
+[Next: The Pine Trees in the Courtyard](mtc44.md)
 
 </div>

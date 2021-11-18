@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](rama01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](rama01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B55Q4M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Ramayana and Mahabharata*, by Romesh C. Dutt, \[1899\], at
 Intangible Textual Heritage
 
@@ -134,39 +134,39 @@ India; or, India as described in the 'Mahabharata and Ramayana." 1907.
 
 RAMAYANA
 
-[I. SITA-SWAYAMVARA (THE BRIDAL OF SITA)](rama01)  
-[II. VANA-GAMANA-ADESA (THE BANISHMENT)](rama02)  
-[III DASA-RATHA-VIYOGA (THE DEATH OF THE KING)](rama03)  
-[IV. RAMA-BHARATA-SAMBADA (THE MEETING OF THE PRINCES)](rama04)  
-[V. PANCHAVATI (ON THE BANKS OF THE GODAVARI)](rama05)  
-[VI. SITA-HARANA (SITA LOST)](rama06)  
-[VII. KISHKINDHA (IN THE NILGIRI MOUNTAINS)](rama07)  
-[VIII. SITA-SANDESA (SITA DISCOVERED)](rama08)  
-[IX. RAVANA-SABHA (THE COUNCIL OF WAR)](rama09)  
-[X. YUDDHA (THE: WAR IN CEYLON)](rama10)  
-[XI. RAJYA-ABHISHEKA (RAMA'S RETURN AND CONSECRATION)](rama11)  
-[XII. ASWA-MEDHA (SACRIFICE OF THE HORSE)](rama12)  
-[CONCLUSION](ramaconc)  
-[TRANSLATOR'S EPILOGUE](ramaepi)
+[I. SITA-SWAYAMVARA (THE BRIDAL OF SITA)](rama01.md)  
+[II. VANA-GAMANA-ADESA (THE BANISHMENT)](rama02.md)  
+[III DASA-RATHA-VIYOGA (THE DEATH OF THE KING)](rama03.md)  
+[IV. RAMA-BHARATA-SAMBADA (THE MEETING OF THE PRINCES)](rama04.md)  
+[V. PANCHAVATI (ON THE BANKS OF THE GODAVARI)](rama05.md)  
+[VI. SITA-HARANA (SITA LOST)](rama06.md)  
+[VII. KISHKINDHA (IN THE NILGIRI MOUNTAINS)](rama07.md)  
+[VIII. SITA-SANDESA (SITA DISCOVERED)](rama08.md)  
+[IX. RAVANA-SABHA (THE COUNCIL OF WAR)](rama09.md)  
+[X. YUDDHA (THE: WAR IN CEYLON)](rama10.md)  
+[XI. RAJYA-ABHISHEKA (RAMA'S RETURN AND CONSECRATION)](rama11.md)  
+[XII. ASWA-MEDHA (SACRIFICE OF THE HORSE)](rama12.md)  
+[CONCLUSION](ramaconc.md)  
+[TRANSLATOR'S EPILOGUE](ramaepi.md)
 
 MAHA-BHARATA
 
-[I. ASTRA DARSANA (THE TOURNAMENT)](maha01)  
-[II. SWAYAMVARA (THE BRIDE'S CHOICE)](maha02)  
-[III. RAJASUYA (THE IMPERIAL SACRIFICE)](maha03)  
-[IV. DYUTA (THE FATAL DICE)](maha04)  
-[V. PATIVRATA-MAHATMYA (WOMAN'S LOVE)](maha05)  
-[VI. GO-HARANA (CATTLE-LIFTNG)](maha06)  
-[VII. UDYOGA (THE COUNCIL OF WAR)](maha07)  
-[VIII. BHISHMA-BADHA (FALL OF BHISHMA)](maha08)  
-[IX. DRONA-BADHA (FALL OF DRONA)](maha09)  
-[X. KARNA-BADHA (FALL OF KARNA)](maha10)  
-[XI. SRADDHA (FUNERAL RITES)](maha11)  
-[XII. ASWA-MEDHA (SACRIFICE OF THE HORSE)](maha12)  
-[CONCLUSION](mahaconc)  
-[TRANSLATOR'S EPILOGUE](mahaepi)  
-[GLOSSARY](duttglos)
+[I. ASTRA DARSANA (THE TOURNAMENT)](maha01.md)  
+[II. SWAYAMVARA (THE BRIDE'S CHOICE)](maha02.md)  
+[III. RAJASUYA (THE IMPERIAL SACRIFICE)](maha03.md)  
+[IV. DYUTA (THE FATAL DICE)](maha04.md)  
+[V. PATIVRATA-MAHATMYA (WOMAN'S LOVE)](maha05.md)  
+[VI. GO-HARANA (CATTLE-LIFTNG)](maha06.md)  
+[VII. UDYOGA (THE COUNCIL OF WAR)](maha07.md)  
+[VIII. BHISHMA-BADHA (FALL OF BHISHMA)](maha08.md)  
+[IX. DRONA-BADHA (FALL OF DRONA)](maha09.md)  
+[X. KARNA-BADHA (FALL OF KARNA)](maha10.md)  
+[XI. SRADDHA (FUNERAL RITES)](maha11.md)  
+[XII. ASWA-MEDHA (SACRIFICE OF THE HORSE)](maha12.md)  
+[CONCLUSION](mahaconc.md)  
+[TRANSLATOR'S EPILOGUE](mahaepi.md)  
+[GLOSSARY](duttglos.md)
 
 ------------------------------------------------------------------------
 
-[Next: Book I: The Bridal of Sita](rama01)
+[Next: Book I: The Bridal of Sita](rama01.md)

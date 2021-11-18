@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia42)  [Next](aia44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia42)  [Next](aia44.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ scientific speculation.
 ------------------------------------------------------------------------
 
 [Next: The Effects of the ☐ or ☍ Aspects Between the
-Significators](aia44)
+Significators](aia44.md)

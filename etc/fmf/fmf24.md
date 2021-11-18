@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf23)  [Next](fmf25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf23)  [Next](fmf25.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ MORAL: Keep the Children in the Dark.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Last Day at School and The Tough Trustee's
-Farewell to the Young Voyagers](fmf25)
+Farewell to the Young Voyagers](fmf25.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm10)  [Next](rrm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm10)  [Next](rrm12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ difficult thing, is easy to those with money; nor will, the world
 inquire with too resolute a curiosity, if you have coolness and address,
 and if you have the art of accounting for things. The man of this order
 also is *solus*, and without wife or children to embarrass him in the
-private [disposition](errata.htm#0) of his affairs, or to follow him too
+private [disposition](errata.htm#0.md) of his affairs, or to follow him too
 closely into his by-corners. Thus it will be seen that philosophers may
 live in the world, and have all these gifts, and yet be never heard
 of--or, if heard of, only as they themselves wish or suggest.
@@ -223,4 +223,4 @@ the Rosicrucians, produce both.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Mythic History of the Fleur-de-Lis](rrm12)
+[Next: Chapter VIII: Mythic History of the Fleur-de-Lis](rrm12.md)

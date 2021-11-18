@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](saw02)  [Next](saw04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](saw02)  [Next](saw04.md) 
 
 ------------------------------------------------------------------------
 
@@ -441,4 +441,4 @@ so they were separated by God.
 
 ------------------------------------------------------------------------
 
-[Next: Book Four. The Voyage of Maeldune](saw04)
+[Next: Book Four. The Voyage of Maeldune](saw04.md)

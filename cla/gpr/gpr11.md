@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gpr10)  [Next](gpr12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gpr10)  [Next](gpr12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Greek Popular Religion*, by Martin P. Nilsson, \[1940\], at Intangible
 Textual Heritage
 
@@ -49,7 +49,7 @@ was shaken, but it was not destroyed.
 On occasion it broke out violently, and the people were seized by a kind
 of religious hysteria when they believed that their welfare and that of
 their city was threatened by impiety against the gods. The Athenian
-trials for impiety are famous. <span id="fr_149"></span>[1](#fn_149) The
+trials for impiety are famous. <span id="fr_149"></span>[1](#fn_149.md) The
 trials of Pericles' mistress, Aspasia, and of his friend, the
 philosopher Anaxagoras, had a very obvious political background. This is
 apparent also in the trial of Alcibiades for profanation of the
@@ -93,11 +93,11 @@ those of the Athenian middle class. He turned to oracles and seers on
 all occasions. Before Xenophon went to Asia Minor to join the expedition
 of Cyrus he asked the Delphic oracle to which gods he should sacrifice
 in order that he might make the voyage and return in safety. <span
-id="fr_150"></span>[2](#fn_150) When the Army of the Ten Thousand was at
+id="fr_150"></span>[2](#fn_150.md) When the Army of the Ten Thousand was at
 discord, he sacrificed and asked the gods if he should go back home. He
 did likewise when the chief command was offered to him and when he was
 thinking of settling the soldiers at Kotyora. <span
-id="fr_151"></span>[3](#fn_151) He firmly believed he was led by
+id="fr_151"></span>[3](#fn_151.md) He firmly believed he was led by
 presages and omens. A dream in which he saw a thunderbolt strike his
 father's house was the immediate cause
 
@@ -106,14 +106,14 @@ father's house was the immediate cause
 of his assembling the officers after the death of Cyrus in order to take
 counsel in the difficult situation of the army. A dream showed him the
 means of crossing the river Tigris when the army seemed to be cut off by
-the river and the mountains. <span id="fr_152"></span>[4](#fn_152) When
+the river and the mountains. <span id="fr_152"></span>[4](#fn_152.md) When
 he was riding from Ephesus in order to meet Cyrus, he heard the cry of a
 seated eagle to the right, and the seer who accompanied him said that it
 signified glory but many hardships. <span
-id="fr_153"></span>[5](#fn_153) And, finally, when someone sneezed
+id="fr_153"></span>[5](#fn_153.md) And, finally, when someone sneezed
 during an exhortatory speech to the soldiers after the murder of
 Clearchus, all the soldiers venerated the gods. <span
-id="fr_154"></span>[6](#fn_154) Xenophon firmly believed in presages,
+id="fr_154"></span>[6](#fn_154.md) Xenophon firmly believed in presages,
 and when they seemed to fail he took pains to explain that they finally
 proved to be true. I hardly need to refer to the many oracles and
 presages related by Herodotus.
@@ -141,7 +141,7 @@ to the oracles. We can be certain that people applied to the oracles on
 all occasions which were of some importance to them. But these questions
 pertaining to ordinary life are lost, with one exception. At Dodona
 there have been found several leaden tablets inscribed with questions
-which people asked the oracle. <span id="fr_155"></span>[7](#fn_155) It
+which people asked the oracle. <span id="fr_155"></span>[7](#fn_155.md) It
 is interesting to see what they were like. One Heraclides asks whether
 his wife will bear him a child, and Lysanias asks whether the child with
 which Amyla is pregnant is his. One man asks if it will be profitable
@@ -184,19 +184,19 @@ example is Nicias and the defeat of the Athenians before Syracuse. When
 the retreat was decided on the moon was eclipsed, and the seers
 interpreted this to mean that the army had to remain on the spot thrice
 nine days. Nicias obeyed, and the delay sealed their doom. <span
-id="fr_156"></span>[8](#fn_156) In his biography of Nicias, Plutarch
+id="fr_156"></span>[8](#fn_156.md) In his biography of Nicias, Plutarch
 deplores the untimely death of the seer Stilbides because after that no
 wise seer was at the side of Nicias. <span
-id="fr_157"></span>[9](#fn_157)
+id="fr_157"></span>[9](#fn_157.md)
 
 There were seers who intrigued on their own account. The seer Silanos,
 who was asked by Xenophon to consult the gods in regard to his plan to
 settle the soldiers at Kotyora, frustrated his intention because he
-wanted to go back to Greece. <span id="fr_158"></span>[10](#fn_158) In a
+wanted to go back to Greece. <span id="fr_158"></span>[10](#fn_158.md) In a
 military writer of the same age there is a very instructive prescription
 to the effect that a general should have a strict eye upon the seers
 during a siege and not allow them to sacrifice on their own account in
-the absence of the general. <span id="fr_159"></span>[11](#fn_159) They
+the absence of the general. <span id="fr_159"></span>[11](#fn_159.md) They
 might have a fatal influence on public opinion.
 
 The part played by the seers in war may seem to be of a special kind,
@@ -208,13 +208,13 @@ historically famous wars some small war
 was almost always going on in some corner of the country. The gods were
 constantly consulted in time of war for the sake of the psychological
 effect on the minds of the combatants. From the account in Xenophon of
-the events in Troas, <span id="fr_160"></span>[12](#fn_160) it seems
+the events in Troas, <span id="fr_160"></span>[12](#fn_160.md) it seems
 that seers circulated everywhere and offered their services to those who
 wanted and paid for them. It is striking that the seers whom he mentions
 were from backward provinces of Greece--Arcadia and Acarnania. Belief in
 the art was perhaps firmer in these regions. Some seers acquired a great
 fame. One of these was Tisamenus, who belonged to a famous family of
-seers from Olympia, the Iamidae, <span id="fr_161"></span>[13](#fn_161)
+seers from Olympia, the Iamidae, <span id="fr_161"></span>[13](#fn_161.md)
 and served as a seer in the great battles fought with the Persians. He
 even acquired Spartan citizenship.
 
@@ -241,7 +241,7 @@ This role of the oracles began before the Persian Wars.
 that when the Spartan king Cleomenes in 510 B.C. drove out the sons of
 Pisistratus and took the Acropolis of Athens, he seized in the temple a
 collection of oracles which had belonged to the Pisistratidae. <span
-id="fr_162"></span>[14](#fn_162) These oracles foretold many heavy blows
+id="fr_162"></span>[14](#fn_162.md) These oracles foretold many heavy blows
 that would be dealt by the Athenians to the Spartans. In this connection
 I may also recall the fact that the political adversaries of the
 Pisistratidae, the Alcmaeonidae, whom they had exiled, secured the help
@@ -273,7 +273,7 @@ the Persian king, where he used his
 oracles in order to persuade the king to undertake the campaign against
 Greece. He read a mass of oracles, and if something was unfavorable to
 the Persians, he concealed it, picking out the most favorable
-oracles. <span id="fr_163"></span>[15](#fn_163) We see what oracles were
+oracles. <span id="fr_163"></span>[15](#fn_163.md) We see what oracles were
 good for.
 
 There were many such collections of oracles, and their authority was
@@ -284,12 +284,12 @@ proves that criticism had begun to awaken. Speaking of a notorious *ex
 eventu* oracle referring to the battle at Artemisium, Herodotus says
 that he is unable to deny that oracles are true and that, as Bacis
 speaks so clearly, he is not willing to put forward or to tolerate any
-contradiction in this regard. <span id="fr_164"></span>[16](#fn_164) The
+contradiction in this regard. <span id="fr_164"></span>[16](#fn_164.md) The
 home of the Sibyl was not in Greece but in Asia Minor. Another
 collection ascribed to her was brought from the Greek colony of Cumae to
 Rome at about the same time. It is the famous *Sibylline Books*. A
 Sibylline oracle ascribed to 125 B.C. is preserved in Phlegon. <span
-id="fr_165"></span>[17](#fn_165) It is certainly not genuine. We need
+id="fr_165"></span>[17](#fn_165.md) It is certainly not genuine. We need
 only remark that it consists chiefly of prescriptions for sacrifices and
 purifications, though it also contains certain political allusions. In
 judging the much discussed problem of the *Sibylline Books*, it is
@@ -324,7 +324,7 @@ was the reason why the Pelargikon was inhabited. When the Spartans
 invaded Attica for the first time and devastated the fields, the
 Athenians were at discord as to whether they should go and fight the
 enemy, and the oracle mongers proffered numerous oracles which all were
-eager to hear. <span id="fr_166"></span>[18](#fn_166)
+eager to hear. <span id="fr_166"></span>[18](#fn_166.md)
 
 The most outstanding and flagrant example of the role of oracles and
 seers in political discussions and of their use to influence public
@@ -343,15 +343,15 @@ earn great glory in Sicily. His adversaries and even priests used the
 same methods. An embassy sent to the oracle of Ammon in the Great Oasis
 came back with the answer that the Athenians would take all Syracusans.
 Unfavorable sayings were concealed. <span
-id="fr_167"></span>[19](#fn_167) One of these oracles, one which came
+id="fr_167"></span>[19](#fn_167.md) One of these oracles, one which came
 from Dodona, is preserved, together with the interpretation given after
-the catastrophe. <span id="fr_168"></span>[20](#fn_168) It said that the
+the catastrophe. <span id="fr_168"></span>[20](#fn_168.md) It said that the
 Athenians would settle on Sikelia. According to the interpretation, the
 oracle meant a small hill with this name outside the gates of Athens.
 Thucydides relates that after the great catastrophe the wrath of the
 people turned not only against the politicians but also against the
 oracle mongers and seers who, pretending divine inspiration, had raised
-false hopes in them. <span id="fr_169"></span>[21](#fn_169)
+false hopes in them. <span id="fr_169"></span>[21](#fn_169.md)
 
 Plutarch relates several terrible omens which foreboded the catastrophe,
 beginning with the smashing of the herms and ending with the women's
@@ -407,21 +407,21 @@ who was a very well-known personage in the latter part of the fifth
 century B.C. He took a prominent part in the founding of the Athenian
 colony Thurii, and a decree preserved in an inscription proves that he
 moved proposals in the popular assembly concerning sacred matters. <span
-id="fr_170"></span>[22](#fn_170) He was one of the official exegetes.
+id="fr_170"></span>[22](#fn_170.md) He was one of the official exegetes.
 Together with Lampon is mentioned Hierocles. Aristophanes derides
 Hierocles as an oracle monger, but the people commissioned him to
 arrange certain sacrifices for Euboea which were prescribed by the
 oracle and perhaps gave him a plot of land on Euboea. <span
-id="fr_171"></span>[23](#fn_171) We shall later mention Diopeithes, a
+id="fr_171"></span>[23](#fn_171.md) We shall later mention Diopeithes, a
 friend of Nicias, whom Aristophanes calls avaricious in one passage and
-a great man in another. <span id="fr_172"></span>[24](#fn_172) He had a
+a great man in another. <span id="fr_172"></span>[24](#fn_172.md) He had a
 namesake at Sparta who must have been a person of consequence, for in
 the contest over the throne between Agesilaus and Leotychides he
 produced an oracle of Apollo directing the Spartans to beware of a lame
 kingship. Agesilaus had a lame leg. But the cunning Lysander outdid the
 Spartan Diopeithes, saying that the oracle referred to the illegitimate
 birth of Leotychides, for there was a rumor that he was the son not of
-King Agis but of Alcibiades. <span id="fr_173"></span>[25](#fn_173)
+King Agis but of Alcibiades. <span id="fr_173"></span>[25](#fn_173.md)
 
 By virtue of their profession these men were the defenders of the old
 religion when Sophists and unbelievers directed their attacks against
@@ -432,7 +432,7 @@ it. The trials for atheism were initiated
 by the seer Diopeithes. According to the biographer Satyros, Anaxagoras
 was accused by Thucydides, the son of Melesias, the chief political
 adversary of Pericles; but according to Plutarch, Diopeithes was the
-accuser. <span id="fr_174"></span>[26](#fn_174) Probably the two worked
+accuser. <span id="fr_174"></span>[26](#fn_174.md) Probably the two worked
 together. Diopeithes carried a law in the popular assembly authorizing
 trials of persons who did not believe in the divine and who disseminated
 teachings about the celestial phenomena. Here we find the kernel of the
@@ -447,7 +447,7 @@ explanation of such phenomena.
 
 Another story about the seer Lampon which is told by Plutarch is very
 illuminating in regard to the situation. <span
-id="fr_175"></span>[27](#fn_175) A ram with one horn only was brought to
+id="fr_175"></span>[27](#fn_175.md) A ram with one horn only was brought to
 Pericles. According to the notions of the ancients this was an ominous
 portent. Lampon interpreted it to mean that of the two rivals in
 Athenian politics, Pericles and Thucydides, the one to whom this ram had
@@ -469,15 +469,15 @@ The Sophists, in fact, were not so aggressive as these philosophers,
 although their criticism without doubt undermined faith in the gods.
 Critias advanced the opinion that some wise man had invented the gods in
 order to deter men from doing wrong in secret. <span
-id="fr_176"></span>[28](#fn_176) Prodicus took up the metonymical use of
+id="fr_176"></span>[28](#fn_176.md) Prodicus took up the metonymical use of
 the names of the gods which was already common in Homer and concluded
 that man considered as a god everything that was useful to him and that
 hence wine was called Dionysus, fire Hephaistos, bread Demeter, and so
-forth. <span id="fr_177"></span>[29](#fn_177) Protagoras was cautious,
+forth. <span id="fr_177"></span>[29](#fn_177.md) Protagoras was cautious,
 stating that he was not able to say of the gods whether they existed or
 not, nor what shape they had; he said that much prevents knowing
 this--the obscurity of the matter and the brevity of human life. <span
-id="fr_178"></span>[30](#fn_178) This is philosophy and must be passed
+id="fr_178"></span>[30](#fn_178.md) This is philosophy and must be passed
 over in an exposition of popular religion. The discussions of the
 Sophists were beyond the horizon of the common people, who listened to
 them partly in amusement and partly in irritation. It is characteristic
@@ -498,7 +498,7 @@ popularized them. In *The Clouds* he makes Socrates prove that Zeus does
 not exist by the fact that the thunderbolt hits not the wrongdoers but
 temples, mountaintops, and tall oaks. This the people understood. In
 another passage he gives a grotesque explanation of the rain which Zeus
-pours down. <span id="fr_179"></span>[31](#fn_179)
+pours down. <span id="fr_179"></span>[31](#fn_179.md)
 
 Moderns are astonished that natural philosophy and sophistic are
 confused, that Aristophanes makes Socrates represent them both. From the
@@ -529,7 +529,7 @@ dreams, and even
 <span id="page_137">p. 137</span>
 
 <span class="contnote">\[paragraph continues\]</span> Aristotle treated
-of the divine nature of dreams. <span id="fr_180"></span>[32](#fn_180)
+of the divine nature of dreams. <span id="fr_180"></span>[32](#fn_180.md)
 Everyone wanted to look into the future, as people still do. The defense
 of the oracles and of the art of the seers was a very important matter.
 
@@ -618,44 +618,44 @@ profoundly changed.
 
 ### Footnotes
 
-<span id="fn_149"></span>[122:1](gpr11.htm#fr_149) E. Derenne, Les
+<span id="fn_149"></span>[122:1](gpr11.htm#fr_149.md) E. Derenne, Les
 Procès d’impiété intentés aux philosopher à Athènes au V<sup>me</sup> et
 au IV<sup>me</sup> siècles avant J.-C. (Liege, 1930).
 
-<span id="fn_150"></span>[123:2](gpr11.htm#fr_150) *Anabasis*, III, 1, 5
+<span id="fn_150"></span>[123:2](gpr11.htm#fr_150.md) *Anabasis*, III, 1, 5
 ff.
 
-<span id="fn_151"></span>[123:3](gpr11.htm#fr_151) *Ibid*., V, 6, 16 ff.
+<span id="fn_151"></span>[123:3](gpr11.htm#fr_151.md) *Ibid*., V, 6, 16 ff.
 
-<span id="fn_152"></span>[124:4](gpr11.htm#fr_152) *Ibid*., III, 1, 11
+<span id="fn_152"></span>[124:4](gpr11.htm#fr_152.md) *Ibid*., III, 1, 11
 ff.; see also VI, 1, 22, and IV, 3, 8 ff.
 
-<span id="fn_153"></span>[124:5](gpr11.htm#fr_153) Ibid., VI, 1, 23.
+<span id="fn_153"></span>[124:5](gpr11.htm#fr_153.md) Ibid., VI, 1, 23.
 
-<span id="fn_154"></span>[124:6](gpr11.htm#fr_154) *Ibid*., III, 2, 9.
+<span id="fn_154"></span>[124:6](gpr11.htm#fr_154.md) *Ibid*., III, 2, 9.
 
-<span id="fn_155"></span>[125:7](gpr11.htm#fr_155) C. Carapanos, *Dodone
+<span id="fn_155"></span>[125:7](gpr11.htm#fr_155.md) C. Carapanos, *Dodone
 et ses ruines* (Paris, 1878), pp. 68 ff.
 
-<span id="fn_156"></span>[126:8](gpr11.htm#fr_156) Thucydides, VII, 50.
+<span id="fn_156"></span>[126:8](gpr11.htm#fr_156.md) Thucydides, VII, 50.
 
-<span id="fn_157"></span>[126:9](gpr11.htm#fr_157) *Nicias*, 23.
+<span id="fn_157"></span>[126:9](gpr11.htm#fr_157.md) *Nicias*, 23.
 
-<span id="fn_158"></span>[126:10](gpr11.htm#fr_158) Xenophon,
+<span id="fn_158"></span>[126:10](gpr11.htm#fr_158.md) Xenophon,
 *Anabasis*, V, 6, 29.
 
-<span id="fn_159"></span>[126:11](gpr11.htm#fr_159) Aeneas Tacticus,
+<span id="fn_159"></span>[126:11](gpr11.htm#fr_159.md) Aeneas Tacticus,
 *Poliorcetica*, 10, 4.
 
-<span id="fn_160"></span>[127:12](gpr11.htm#fr_160) *Anabasis*, VII, 8.
+<span id="fn_160"></span>[127:12](gpr11.htm#fr_160.md) *Anabasis*, VII, 8.
 
-<span id="fn_161"></span>[127:13](gpr11.htm#fr_161) L. Weniger, "Die
+<span id="fn_161"></span>[127:13](gpr11.htm#fr_161.md) L. Weniger, "Die
 Seher von Olympia," *Archiv Für Religionswissenschaft*, XVIII (1915), 53
 ff.
 
-<span id="fn_162"></span>[128:14](gpr11.htm#fr_162) Herodotus, V, 90.
+<span id="fn_162"></span>[128:14](gpr11.htm#fr_162.md) Herodotus, V, 90.
 
-<span id="fn_163"></span>[129:15](gpr11.htm#fr_163) Herodotus, VII, 6.
+<span id="fn_163"></span>[129:15](gpr11.htm#fr_163.md) Herodotus, VII, 6.
 See also H. Diels, "Über Epimenides von Kreta," *Sitzungsberichte der
 Königlich preussischen Akademie der Wissenschaften* (Berlin), 1891, pp.
 396 ff., and H. Bengtson, "Einzelpersönlichkeit and athenischer Staat
@@ -663,55 +663,55 @@ zur Zeit des Peisistratos and des Miltiades," *Sitzungsberichte der
 Bayerischen Akademie der Wissenschaften, Philos.-hist. Abt.* (Munich),
 1939, No. 1, pp. 26 ff.
 
-<span id="fn_164"></span>[129:16](gpr11.htm#fr_164) Herodotus, VIII, 77.
+<span id="fn_164"></span>[129:16](gpr11.htm#fr_164.md) Herodotus, VIII, 77.
 
-<span id="fn_165"></span>[129:17](gpr11.htm#fr_165) The text is printed
+<span id="fn_165"></span>[129:17](gpr11.htm#fr_165.md) The text is printed
 in H. Diels, *Sibyllinische Blätter* (Berlin, 1890), pp. 111 ff.
 
-<span id="fn_166"></span>[130:18](gpr11.htm#fr_166) Thucydides, II, 54,
+<span id="fn_166"></span>[130:18](gpr11.htm#fr_166.md) Thucydides, II, 54,
 17, 21.
 
-<span id="fn_167"></span>[131:19](gpr11.htm#fr_167) Plutarch, *Nicias*,
+<span id="fn_167"></span>[131:19](gpr11.htm#fr_167.md) Plutarch, *Nicias*,
 13.
 
-<span id="fn_168"></span>[131:20](gpr11.htm#fr_168) Pausanias, VIII, 11,
+<span id="fn_168"></span>[131:20](gpr11.htm#fr_168.md) Pausanias, VIII, 11,
 12.
 
-<span id="fn_169"></span>[131:21](gpr11.htm#fr_169) Thucydides, VIII, 1.
+<span id="fn_169"></span>[131:21](gpr11.htm#fr_169.md) Thucydides, VIII, 1.
 
-<span id="fn_170"></span>[133:22](gpr11.htm#fr_170) Aristophanes,
+<span id="fn_170"></span>[133:22](gpr11.htm#fr_170.md) Aristophanes,
 *Nubes*, vs. 332 and scholion; *Inscriptiones Graecae*, Editio minor,
 Vol. I, No. 76.
 
-<span id="fn_171"></span>[133:23](gpr11.htm#fr_171) Aristophanes, *Pax*,
+<span id="fn_171"></span>[133:23](gpr11.htm#fr_171.md) Aristophanes, *Pax*,
 vss. 1046 ff., and scholion.
 
-<span id="fn_172"></span>[133:24](gpr11.htm#fr_172) *Equites*, vs. 1085,
+<span id="fn_172"></span>[133:24](gpr11.htm#fr_172.md) *Equites*, vs. 1085,
 *Vespae*, vs. 380, and *Aves*, vs. 988.
 
-<span id="fn_173"></span>[133:25](gpr11.htm#fr_173) Plutarch,
+<span id="fn_173"></span>[133:25](gpr11.htm#fr_173.md) Plutarch,
 *Agesilaus*, 3.
 
-<span id="fn_174"></span>[134:26](gpr11.htm#fr_174) Diogenes Laertius,
+<span id="fn_174"></span>[134:26](gpr11.htm#fr_174.md) Diogenes Laertius,
 II, 12 ff.; Plutarch, *Pericles*, 32.
 
-<span id="fn_175"></span>[134:27](gpr11.htm#fr_175) Pericles, 6.
+<span id="fn_175"></span>[134:27](gpr11.htm#fr_175.md) Pericles, 6.
 
-<span id="fn_176"></span>[135:28](gpr11.htm#fr_176) *Sisyphus*, in
+<span id="fn_176"></span>[135:28](gpr11.htm#fr_176.md) *Sisyphus*, in
 Nauck, *Tragicorum Graecorum fragmenta*, pp. 771 ff.
 
-<span id="fn_177"></span>[135:29](gpr11.htm#fr_177) Frag. 5, in Diels,
+<span id="fn_177"></span>[135:29](gpr11.htm#fr_177.md) Frag. 5, in Diels,
 *Fragmente der Vorsokratiker*, II, 316.
 
-<span id="fn_178"></span>[135:30](gpr11.htm#fr_178) Frag. 4, in Diels,
+<span id="fn_178"></span>[135:30](gpr11.htm#fr_178.md) Frag. 4, in Diels,
 *Fragmente der Vorsokratiker*, II, 265.
 
-<span id="fn_179"></span>[136:31](gpr11.htm#fr_179) *Nubes*, vss. 399
+<span id="fn_179"></span>[136:31](gpr11.htm#fr_179.md) *Nubes*, vss. 399
 ff.
 
-<span id="fn_180"></span>[137:32](gpr11.htm#fr_180) *On Dreams* and *On
+<span id="fn_180"></span>[137:32](gpr11.htm#fr_180.md) *On Dreams* and *On
 Prophecy in Sleep*.
 
 ------------------------------------------------------------------------
 
-[Next: Illustrations 1-3](gpr12)
+[Next: Illustrations 1-3](gpr12.md)

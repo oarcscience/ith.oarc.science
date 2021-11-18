@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](wott01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](wott01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ Textual Heritage
 tractate Berakot, from the first Talmud ever published, printed by
 Joshua Soncino, Dec. 19, 1483, through the courtesy of the Library of
 the Jewish Theological Seminary.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 First page of the tractate Berakot, from the first Talmud ever
 published, printed by Joshua Soncino, Dec. 19, 1483, through the
 courtesy of the Library of the Jewish Theological Seminary.  
@@ -47,4 +47,4 @@ Miriam Ruth and Baruch Micah*
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](wott01)
+[Next: Table of Contents](wott01.md)

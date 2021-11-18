@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg52)  [Next](leg54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg52)  [Next](leg54.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ mysteries and imitations.
 
 ------------------------------------------------------------------------
 
-[Next: Section XXVI](leg54)
+[Next: Section XXVI](leg54.md)

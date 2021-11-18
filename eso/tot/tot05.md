@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tot04)  [Next](tot06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tot04)  [Next](tot06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977574/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417977574/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -253,4 +253,4 @@ so?
 
 ------------------------------------------------------------------------
 
-[Next: IV. Payment](tot06)
+[Next: IV. Payment](tot06.md)

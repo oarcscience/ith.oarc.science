@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602062145/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1602062145/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I630CY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I630CY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,8 +32,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I630CY/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](qm00)    [Page
-Index](pageidx)    [Text \[Zipped\]](qm.txt.gz)
+[Contents](#contents)    [Start Reading](qm00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](qm.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -52,37 +52,37 @@ coined the term 'Christian Science.'
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](qm00)  
-[Publisher's Note](qm01)  
-[Editor's Preface to the Second Edition](qm02)  
-[Contents](qm03)  
-[1. Biographical Sketch](qm04)  
-[2. History of the Manuscripts](qm05)  
-[3. Quimby's Restoration to Health](qm06)  
-[4. The Mesmeric Period](qm07)  
-[5. The Principles Discovered](qm08)  
-[6. The Intermediate Period](qm09)  
-[7. Early Writings](qm10)  
-[8. Contemporary Testimony](qm11)  
-[9. Letters from Patients](qm12)  
-[10. Letters to Patients](qm13)  
-[11. Letters to Patients and Inquirers](qm14)  
-[12. Mrs. Eddy 1862-1875](qm15)  
-[13. Questions and Answers](qm16)  
-[14. Christ or Science](qm17)  
-[15. The World of the Senses](qm18)  
-[16. Disease and Healing](qm19)  
-[17. God and Man](qm20)  
-[18. Religious Questions](qm21)  
-[19. Science, Life, Death](qm22)  
+<span id="contents"></span> [Title Page](qm00.md)  
+[Publisher's Note](qm01.md)  
+[Editor's Preface to the Second Edition](qm02.md)  
+[Contents](qm03.md)  
+[1. Biographical Sketch](qm04.md)  
+[2. History of the Manuscripts](qm05.md)  
+[3. Quimby's Restoration to Health](qm06.md)  
+[4. The Mesmeric Period](qm07.md)  
+[5. The Principles Discovered](qm08.md)  
+[6. The Intermediate Period](qm09.md)  
+[7. Early Writings](qm10.md)  
+[8. Contemporary Testimony](qm11.md)  
+[9. Letters from Patients](qm12.md)  
+[10. Letters to Patients](qm13.md)  
+[11. Letters to Patients and Inquirers](qm14.md)  
+[12. Mrs. Eddy 1862-1875](qm15.md)  
+[13. Questions and Answers](qm16.md)  
+[14. Christ or Science](qm17.md)  
+[15. The World of the Senses](qm18.md)  
+[16. Disease and Healing](qm19.md)  
+[17. God and Man](qm20.md)  
+[18. Religious Questions](qm21.md)  
+[19. Science, Life, Death](qm22.md)  
 <span id="section_000"></span>
 
 ### Appendix
 
-[List of Articles by Dr. P. P. Quimby](qm23)  
-[The Quimby-Eddy Controversy](qm24)  
+[List of Articles by Dr. P. P. Quimby](qm23.md)  
+[The Quimby-Eddy Controversy](qm24.md)  
 
  
 
-[Index](qm25)  
-[Photographic Reproductions of Manuscripts](qm26)  
+[Index](qm25.md)  
+[Photographic Reproductions of Manuscripts](qm26.md)  

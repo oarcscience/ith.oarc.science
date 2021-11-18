@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sjf06)  [Next](sjf08) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sjf06)  [Next](sjf08.md) 
 
 ------------------------------------------------------------------------
 
@@ -256,4 +256,4 @@ dead, and gone, and had ceased from the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI.](sjf08)
+[Next: Chapter VI.](sjf08.md)

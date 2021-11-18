@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr60)  [Next](corr62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr60)  [Next](corr62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### LETTER LXIII. (LIX.)
 
-#### \* \* \* \* \* TO SPINOZA. <span id="fr_67"></span>[1](#fn_66)
+#### \* \* \* \* \* TO SPINOZA. <span id="fr_67"></span>[1](#fn_66.md)
 
 \[*The writer exhorts Spinoza to publish the treatises on Ethics and on
 the Improvement of the Understanding.—Remarks on the definition of
@@ -94,10 +94,10 @@ Farewell.
 
 ### Footnotes
 
-<span id="fn_66"></span>[393:1](corr61.htm#fr_67) This letter is from
+<span id="fn_66"></span>[393:1](corr61.htm#fr_67.md) This letter is from
 Tschirnhausen, who had in the meantime, as appears from its contents,
 had an interview with Spinoza.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXIV. To Anon. \[Tschirnhausen\]](corr62)
+[Next: Letter LXIV. To Anon. \[Tschirnhausen\]](corr62.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa14)  [Next](smoa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa14)  [Next](smoa16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -245,7 +245,7 @@ at last."
 Ah, Philae, thou art but an island spot upon the sluggish or yet swifter
 stream, yet in the past, all dim to history lost, thou wast the
 birthplace of mine ancient sires, who sleep ’neath sand that drifts and
-drifts to tune of desert winds, and [jackal's](errata.htm#5) screams,
+drifts to tune of desert winds, and [jackal's](errata.htm#5.md) screams,
 and shadows chase across the spot where feet of emperors trod all
 stately!
 
@@ -327,4 +327,4 @@ ether bulk, yet all unseen so far and far it lies.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. The death of Prince Osiris’
-bride—Albirothisis](smoa16)
+bride—Albirothisis](smoa16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa27)  [Next](soa29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa27)  [Next](soa29.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ quantity.
 
 ------------------------------------------------------------------------
 
-[Next: Education](soa29)
+[Next: Education](soa29.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-3) [Next](bit-gint)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-3) [Next](bit-gint.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ it clear, that all the elements of being are lacking in an Ego.
 
 ------------------------------------------------------------------------
 
-[Next: General Introduction](bit-gint)
+[Next: General Introduction](bit-gint.md)
 
  
 

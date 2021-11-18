@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac35)  [Next](ybac37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac35)  [Next](ybac37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ today they pray to God for them. They are
 prudent and polite, and affable, with those who understand them; also
 extremely generous. They cannot keep a secret; and they are not as clean
 and proper in their persons and affairs as they should be, in spite of
-their washing like the ermines. <span id="fr_31"></span>[\*](#fn_31)
+their washing like the ermines. <span id="fr_31"></span>[\*](#fn_31.md)
 
 They were very devout and pious, rendering many devotions to their
 idols, burning incense before them, offering gifts of cotton, food and
@@ -150,7 +150,7 @@ mother.
 
 ### Footnotes
 
-<span id="fn_31"></span>[56:\*](ybac36.htm#fr_31) The text figures are
+<span id="fn_31"></span>[56:\*](ybac36.htm#fr_31.md) The text figures are
 from the Dresden codex, and probably show the goddess Ixchel, in the
 first as goddess of childbirth, or Lucina; in the second she bears the
 signs of 'new day,' spring, renewal time. The wife of Itzamná, in the
@@ -160,4 +160,4 @@ Maya pantheon she corresponded to Isis.
 
 [Next: XXXIII. Funerals. Burials of the Priests. Statues to Preserve the
 Ashes of the Chiefs, and the Honors They Paid to Them. Their Belief
-Regarding a Future Life, with Rewards and Punishments](ybac37)
+Regarding a Future Life, with Rewards and Punishments](ybac37.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil11)  [Next](egil13) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil11)  [Next](egil13.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ that were prepared for him.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XII. Hildirida's sons talk with Harold.](egil13)
+[Next: CHAPTER XII. Hildirida's sons talk with Harold.](egil13.md)

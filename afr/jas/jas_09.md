@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas_08)  [Next](jas_10) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas_08)  [Next](jas_10.md) 
 
 ------------------------------------------------------------------------
 
@@ -219,4 +219,4 @@ Woodpecker, 44, 132.
 
 ------------------------------------------------------------------------
 
-[Next: ABBREVIATIONS OF TITLES.](jas_10)
+[Next: ABBREVIATIONS OF TITLES.](jas_10.md)

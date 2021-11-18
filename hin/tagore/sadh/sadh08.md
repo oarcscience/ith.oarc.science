@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh07)  [Next](sadh09) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh07)  [Next](sadh09.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ madness of license, the soul ceases to be free. There is its hurt; there
 is its separation from the infinite, its agony of sin. Whenever at the
 call of temptation the soul falls away from the bondage of law, then,
 like a child deprived of the support of its mother's arms, it cries out,
-*Smite me not!*  <span id="fr_41"></span>[42](#fn_41) "Bind me," it
+*Smite me not!*  <span id="fr_41"></span>[42](#fn_41.md) "Bind me," it
 prays, "oh, bind me in the bonds of thy law; bind me within and without;
 hold me tight; let me in the clasp of thy law be bound up together with
 thy joy; protect me by thy firm hold from the deadly laxity of sin."
@@ -66,7 +66,7 @@ greater does he see himself to be, the broader becomes the field of his
 knowledge of self.
 
 The Upanishad says: *In the midst of activity alone wilt thou desire to
-live a hundred years.*  <span id="fr_42"></span>[43](#fn_42) It is the
+live a hundred years.*  <span id="fr_42"></span>[43](#fn_42.md) It is the
 saying of those who had amply tasted of the joy of the soul. Those who
 have fully realised the soul have never talked in mournful accents of
 the sorrowfulness of life or of the bondage of action. They are not like
@@ -151,7 +151,7 @@ The real truth is, we cannot live if we divide him who is truth itself
 into two parts. We must abide in him within as well as without. In
 whichever aspect we deny him we deceive ourselves and incur a loss.
 *Brahma has not left me, let me not leave Brahma.*  <span
-id="fr_43"></span>[44](#fn_43) If we say that we would realise him in
+id="fr_43"></span>[44](#fn_43.md) If we say that we would realise him in
 introspection alone and leave him out of our external activity, that we
 would enjoy him by the love in our heart, but not worship him by outward
 ministrations; or if we say the opposite, and overweight ourselves on
@@ -206,9 +206,9 @@ of action in the external universe.
 But true spirituality, as taught in our sacred lore, is calmly balanced
 in strength, in the correlation of the within and the without. The truth
 has its law, it has its joy. On one side of it is being chanted the
-*Bhayādasyāgnistapati*  <span id="fr_44"></span>[45](#fn_44) , on the
+*Bhayādasyāgnistapati*  <span id="fr_44"></span>[45](#fn_44.md) , on the
 other the *Ānandādhyeva khalvimāni bhūtāni jāyante.*  <span
-id="fr_45"></span>[46](#fn_45) Freedom is impossible of attainment
+id="fr_45"></span>[46](#fn_45.md) Freedom is impossible of attainment
 without submission to law, for Brahma is in one aspect bound by his
 truth, in the other free in his joy.
 
@@ -231,7 +231,7 @@ nothingness of inaction. That is why I would say that the true striving
 in the quest of truth, of *dharma*, consists not in the neglect of
 action but in the effort to attune it closer and closer to the eternal
 harmony. The text of this striving should be, *Whatever works thou
-doest, consecrate them to Brahma.*  <span id="fr_46"></span>[47](#fn_46)
+doest, consecrate them to Brahma.*  <span id="fr_46"></span>[47](#fn_46.md)
 That is to say, the soul is to dedicate itself to Brahma through all its
 activities. This dedication is the song of the soul, in this is its
 freedom. Joy reigns when all work becomes the path to the union with
@@ -287,9 +287,9 @@ must be able to say, "In my work is my joy, and in that joy does the joy
 of my joy abide."
 
 Whom does the Upanishad call *The chief among the knowers of Brahma?*
- <span id="fr_47"></span>[48](#fn_47) He is defined as *He whose joy is
+ <span id="fr_47"></span>[48](#fn_47.md) He is defined as *He whose joy is
 in Brahma, whose play is in Brahma, the active one.*  <span
-id="fr_48"></span>[49](#fn_48) Joy without the play of joy is no joy at
+id="fr_48"></span>[49](#fn_48.md) Joy without the play of joy is no joy at
 all--play without activity is no play. Activity is the play of joy. He
 whose joy is in Brahma, how can he live in inaction? For must he not by
 his activity provide that in which the joy of Brahma is to take form and
@@ -306,7 +306,7 @@ expression to the infinite.
 Brahma himself gives expression to his joy in just the same way. *By his
 many-sided activity, which radiates in all directions, does he fulfil
 the inherent want of his different creatures.*  <span
-id="fr_49"></span>[50](#fn_49) That inherent want is he himself, and so
+id="fr_49"></span>[50](#fn_49.md) That inherent want is he himself, and so
 he is in so many ways, in so many forms, giving himself. He works, for
 without working how could he give himself. His joy is ever dedicating
 itself in the dedication which is his creation.
@@ -314,11 +314,11 @@ itself in the dedication which is his creation.
 In this very thing does our own true meaning lie, in this is our
 likeness to our father. We must also give up ourselves in many- sided
 variously aimed activity. In the Vedas he is called *the giver of
-himself, the giver of strength.*  <span id="fr_50"></span>[51](#fn_50)
+himself, the giver of strength.*  <span id="fr_50"></span>[51](#fn_50.md)
 He is not content with giving us himself, but he gives us strength that
 we may likewise give ourselves. That is why the seer of the Upanishad
 prays to him who is thus fulfilling our wants, *May he grant us the
-beneficent mind*  <span id="fr_51"></span>[52](#fn_51) , may he fulfil
+beneficent mind*  <span id="fr_51"></span>[52](#fn_51.md) , may he fulfil
 that uttermost want of ours by granting us the beneficent mind. That is
 to say, it is not enough he should alone work to remove our want, but he
 should give us the desire and the strength to work with him in his
@@ -333,12 +333,12 @@ goaded on by want, but stimulated by the satisfaction of the soul. Such
 activity ceases to be a blind imitation of that of the multitude, a
 cowardly following of the dictates of fashion. Therein we begin to see
 that *He is in the beginning and in the end of the universe*  <span
-id="fr_52"></span>[53](#fn_52) , and likewise see that of our own work
+id="fr_52"></span>[53](#fn_52.md) , and likewise see that of our own work
 is he the fount and the inspiration, and at the end thereof is he, and
 therefore that all our activity is pervaded by peace and good and joy.
 
 The Upanishad says: *Knowledge, power, and action are of his nature.*
- <span id="fr_53"></span>[54](#fn_53) It is because this naturalness has
+ <span id="fr_53"></span>[54](#fn_53.md) It is because this naturalness has
 not yet been born in us that we tend to divide joy from work. Our day of
 work is not our day of joy-- for that we require a holiday; for,
 miserable that we are, we cannot find our holiday in our work. The river
@@ -375,42 +375,42 @@ and flower and fruit.
 
 ### Footnotes
 
-<span id="fn_41"></span>[42](sadh08.htm#fr_41) Mā mā himsīh.
+<span id="fn_41"></span>[42](sadh08.htm#fr_41.md) Mā mā himsīh.
 
-<span id="fn_42"></span>[43](sadh08.htm#fr_42) Kurvannēvēha karmāni
+<span id="fn_42"></span>[43](sadh08.htm#fr_42.md) Kurvannēvēha karmāni
 jijīvishet çatam samāh.
 
-<span id="fn_43"></span>[44](sadh08.htm#fr_43) Māham brahma nirākuryyām
+<span id="fn_43"></span>[44](sadh08.htm#fr_43.md) Māham brahma nirākuryyām
 mā mā brahma nirākarōt.
 
-<span id="fn_44"></span>[45](sadh08.htm#fr_44) "For fear of him the fire
+<span id="fn_44"></span>[45](sadh08.htm#fr_44.md) "For fear of him the fire
 doth burn," etc
 
-<span id="fn_45"></span>[46](sadh08.htm#fr_45) "From Joy are born all
+<span id="fn_45"></span>[46](sadh08.htm#fr_45.md) "From Joy are born all
 created things," etc.
 
-<span id="fn_46"></span>[47](sadh08.htm#fr_46) Yadyat karma prakurvīta
+<span id="fn_46"></span>[47](sadh08.htm#fr_46.md) Yadyat karma prakurvīta
 tadbrahmani samarpayet.
 
-<span id="fn_47"></span>[48](sadh08.htm#fr_47) Brahmavidāmvaristhah.
+<span id="fn_47"></span>[48](sadh08.htm#fr_47.md) Brahmavidāmvaristhah.
 
-<span id="fn_48"></span>[49](sadh08.htm#fr_48) Ātmakrīrha ātmaratih
+<span id="fn_48"></span>[49](sadh08.htm#fr_48.md) Ātmakrīrha ātmaratih
 kriyāvān.
 
-<span id="fn_49"></span>[50](sadh08.htm#fr_49) Bahudhā çakti yogāt
+<span id="fn_49"></span>[50](sadh08.htm#fr_49.md) Bahudhā çakti yogāt
 varņānanekān nihitārtho dadhāti.
 
-<span id="fn_50"></span>[51](sadh08.htm#fr_50) Ātmadā baladā.
+<span id="fn_50"></span>[51](sadh08.htm#fr_50.md) Ātmadā baladā.
 
-<span id="fn_51"></span>[52](sadh08.htm#fr_51) Sa no buddhya çubhayā
+<span id="fn_51"></span>[52](sadh08.htm#fr_51.md) Sa no buddhya çubhayā
 samyunaktu.
 
-<span id="fn_52"></span>[53](sadh08.htm#fr_52) Vichaiti chāntē
+<span id="fn_52"></span>[53](sadh08.htm#fr_52.md) Vichaiti chāntē
 viçvamādau.
 
-<span id="fn_53"></span>[54](sadh08.htm#fr_53) Svābhāvikījnāna bala
+<span id="fn_53"></span>[54](sadh08.htm#fr_53.md) Svābhāvikījnāna bala
 kriyā cha.
 
 ------------------------------------------------------------------------
 
-[Next: VII: The Realisation of Beauty](sadh09)
+[Next: VII: The Realisation of Beauty](sadh09.md)

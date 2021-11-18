@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav06)  [Next](vav08) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav06)  [Next](vav08.md) 
 
 ------------------------------------------------------------------------
 
@@ -382,4 +382,4 @@ telling another true story.
 ------------------------------------------------------------------------
 
 [Next: The Vampire's Fourth Story. Of A Woman Who Told The
-Truth.](vav08)
+Truth.](vav08.md)

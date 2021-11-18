@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen06) 
-[Previous](aenl05)  [Next](aenl07) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen06.md) 
+[Previous](aenl05)  [Next](aenl07.md) 
 
 ------------------------------------------------------------------------
 
@@ -941,4 +941,4 @@ ancora de prora iacitur; stant litore puppes.
 
 ------------------------------------------------------------------------
 
-[Next: Book VII](aenl07)
+[Next: Book VII](aenl07.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIYAY/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cuts00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cuts.txt.gz)
+[Contents](#contents)    [Start Reading](cuts00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cuts.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -47,12 +47,12 @@ Dawn, and most notably, Aleister Crowley.--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cuts00)  
-[Contents](cuts01)  
-[Introduction](cuts02)  
-[Letter I](cuts03)  
-[Letter II](cuts04)  
-[Letter III](cuts05)  
-[Letter IV](cuts06)  
-[Letter V](cuts07)  
-[Letter VI and Last](cuts08)  
+<span id="contents"></span> [Title Page](cuts00.md)  
+[Contents](cuts01.md)  
+[Introduction](cuts02.md)  
+[Letter I](cuts03.md)  
+[Letter II](cuts04.md)  
+[Letter III](cuts05.md)  
+[Letter IV](cuts06.md)  
+[Letter V](cuts07.md)  
+[Letter VI and Last](cuts08.md)  

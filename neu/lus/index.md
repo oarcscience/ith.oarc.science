@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ exceptional literary quality, but because it is in the public domain,
 and better than some of the rest. If you would like to read this poem
 casually, I recommend a modern translation such as Landeg White's (see
 box on right), or [William Atkinsons' prose translation of
-1972](https://www.amazon.com/exec/obidos/ASIN/0140440267/internetsacredte)
+1972](https://www.amazon.com/exec/obidos/ASIN/0140440267/internetsacredte.md)
 (in the Penguin Classics).
 
 Mickle employs ABAB couplets, where the original whereas Camõens used
@@ -70,21 +70,21 @@ the Internet, to my knowledge--JBH.
 
 ------------------------------------------------------------------------
 
-[Title Page and Front Matter](lus00)  
-[Editor’s Preface](lus01)  
-[The Life of Camoëns](lus02)  
-[Dissertation on the Lusiad, and on Epic Poetry](lus03)  
-[Mickle’s Introduction to the Lusiad](lus04)  
-[Mickle’s Sketch of the History of the Discovery of India](lus05)  
-[Contents](lus06)  
-[Book I](lusbk01)  
-[Book II](lusbk02)  
-[Book III](lusbk03)  
-[Book IV](lusbk04)  
-[Book V](lusbk05)  
-[Book VI](lusbk06)  
-[Book VII](lusbk07)  
-[Book VIII](lusbk08)  
-[Book IX](lusbk09)  
-[Dissertation on the Fiction of the Island of Venus](lusbk09a)  
-[Book X](lusbk10)  
+[Title Page and Front Matter](lus00.md)  
+[Editor’s Preface](lus01.md)  
+[The Life of Camoëns](lus02.md)  
+[Dissertation on the Lusiad, and on Epic Poetry](lus03.md)  
+[Mickle’s Introduction to the Lusiad](lus04.md)  
+[Mickle’s Sketch of the History of the Discovery of India](lus05.md)  
+[Contents](lus06.md)  
+[Book I](lusbk01.md)  
+[Book II](lusbk02.md)  
+[Book III](lusbk03.md)  
+[Book IV](lusbk04.md)  
+[Book V](lusbk05.md)  
+[Book VI](lusbk06.md)  
+[Book VII](lusbk07.md)  
+[Book VIII](lusbk08.md)  
+[Book IX](lusbk09.md)  
+[Dissertation on the Fiction of the Island of Venus](lusbk09a.md)  
+[Book X](lusbk10.md)  

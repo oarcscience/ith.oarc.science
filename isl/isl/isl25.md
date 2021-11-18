@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl24)  [Next](isl26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl24)  [Next](isl26.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ Is our estate eternally.
 Though from my gaze profound  
 Deep awe hath hid Thy Face,  
 In wondrous and ecstatic Grace  
-I feel Thee touch my inmost ground. <span id="fr_96"></span>[17](#fn_96)
+I feel Thee touch my inmost ground. <span id="fr_96"></span>[17](#fn_96.md)
 
 <span id="page_146">p. 146</span>
 
@@ -75,13 +75,13 @@ of the senses, to adhere to spiritual qualities, to ascend by means of
 Divine knowledge, to be occupied with that which is eternally the best,
 to give wise counsel to all people, faithfully to observe the truth, and
 to follow the Prophet in respect of the religious law. <span
-id="fr_97"></span>[18](#fn_97)
+id="fr_97"></span>[18](#fn_97.md)
 
 Love means that the attributes of the lover are changed into those of
 the Beloved. Now he lives in accordance with the saying of God: "When I
 love him, I will be his eye by which he sees and his hearing by which he
 hears and his hand by which he reaches out." <span
-id="fr_98"></span>[19](#fn_98)
+id="fr_98"></span>[19](#fn_98.md)
 
  
 
@@ -113,7 +113,7 @@ even makes it appear that he is dead! But death in reality will hardly
 be possible for him.' Then we climbed down and went out to where he lay
 and moved him, and lo! He was dead."
 
-Then Nūrī rose and went his way. <span id="fr_99"></span>[20](#fn_99)
+Then Nūrī rose and went his way. <span id="fr_99"></span>[20](#fn_99.md)
 
  
 
@@ -130,7 +130,7 @@ the mountains, that thou supposest fixed, passing by like clouds" (Sūra
 *samā‘*?" I replied, "Oh yes--sometimes I am present with someone I
 respect and honor, so I control myself, but when I am alone, I release
 the ecstacy upon my in-most heart, and become ecstatic." <span
-id="fr_100"></span>[21](#fn_100)
+id="fr_100"></span>[21](#fn_100.md)
 
  
 
@@ -148,7 +148,7 @@ the names of God, he was accused of claiming divinity. This accusation
 was apparently supported by his doctrine of the "unitive life,"
 according to which God manifests Himself on earth in His saints, and in
 the supreme mystical experience permits them a temporary union with
-Him. <span id="fr_101"></span>[22](#fn_101) These teachings scandalized
+Him. <span id="fr_101"></span>[22](#fn_101.md) These teachings scandalized
 the conventional, but he refused to recant. He was publicly scourged and
 crucified, and a wave of persecution of the Ṡūfīs of Baghdad ensued. His
 image among the later Ṡūfīs is that of a holy martyr, whose only fault
@@ -167,7 +167,7 @@ I am He whom I love, and He whom I love is I,
 We are two spirits dwelling in one body.  
 If thou seest me, thou seest Him,  
 And if thou seest Him, thou seest us both. <span
-id="fr_102"></span>[23](#fn_102)
+id="fr_102"></span>[23](#fn_102.md)
 
 Ibrāhīm ibn Fātik, his servant, said: "When al-Ḥallāj was brought to be
 crucified and saw the cross and the nails . . .
@@ -201,36 +201,36 @@ blow which broke his nose, and the blood ran onto his white robe. The
 mystic al-Shiblī, who was in the crowd, cried aloud and rent his
 garment, and Abū Ḥusayn al-Wasiṭī fell fainting, and so did other famous
 Ṡūfīs who were there, so that a riot nearly broke out. Then the
-executioners did their work." <span id="fr_103"></span>[24](#fn_103)
+executioners did their work." <span id="fr_103"></span>[24](#fn_103.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_96"></span>[149:17](isl25.htm#fr_96) Arberry, *op. cit.*,
+<span id="fn_96"></span>[149:17](isl25.htm#fr_96.md) Arberry, *op. cit.*,
 p. 50.
 
-<span id="fn_97"></span>[149:18](isl25.htm#fr_97) Quoted by al-Ghazālī
+<span id="fn_97"></span>[149:18](isl25.htm#fr_97.md) Quoted by al-Ghazālī
 in Margaret Smith, trans., *Readings from the Mystics of Islam*, p. 35.
 
-<span id="fn_98"></span>[149:19](isl25.htm#fr_98) *Ibid*., p. 36. This
+<span id="fn_98"></span>[149:19](isl25.htm#fr_98.md) *Ibid*., p. 36. This
 is not a quote from the Qur’ān, but a so-called *Ḥadīth Qudsī*,
 attributed to one of the prophets.
 
-<span id="fn_99"></span>[149:20](isl25.htm#fr_99) Ibn Yazdānyār, *op.
+<span id="fn_99"></span>[149:20](isl25.htm#fr_99.md) Ibn Yazdānyār, *op.
 cit.*
 
-<span id="fn_100"></span>[149:21](isl25.htm#fr_100) *Ibid*.
+<span id="fn_100"></span>[149:21](isl25.htm#fr_100.md) *Ibid*.
 
-<span id="fn_101"></span>[149:22](isl25.htm#fr_101) Al-Hallāj has been
+<span id="fn_101"></span>[149:22](isl25.htm#fr_101.md) Al-Hallāj has been
 carefully studied in a series of works by Professor Louis Massignon.
 
-<span id="fn_102"></span>[149:23](isl25.htm#fr_102) R. A. Nicholson,
+<span id="fn_102"></span>[149:23](isl25.htm#fr_102.md) R. A. Nicholson,
 trans., *The Legacy of Islam* (London, 1939), p. 218.
 
-<span id="fn_103"></span>[149:24](isl25.htm#fr_103) Massignon and Kraus,
+<span id="fn_103"></span>[149:24](isl25.htm#fr_103.md) Massignon and Kraus,
 eds., *Akhbār al-Hallāj* (Paris, 1936), pp. 7, 8, Arabic.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Antinomians](isl26)
+[Next: 3. The Antinomians](isl26.md)

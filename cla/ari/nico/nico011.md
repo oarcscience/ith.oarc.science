@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico010) 
-[Next](nico012) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico010.md) 
+[Next](nico012.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ produce any other change of the kind.
 ------------------------------------------------------------------------
 
 [Next: Chapter 12. Virtue is praiseworthy, but happiness is above
-praise](nico012)
+praise](nico012.md)

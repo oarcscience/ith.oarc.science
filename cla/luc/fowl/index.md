@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@
 This is the master index for the four volume Fowler and Fowler
 translation of the works of Lucian of Samosata. This includes most of
 Lucian's works, with the notable exception of [The Syrian
-Goddess](../tsg/index). There are other 'expurgations' noted in the
+Goddess](../tsg/index.md). There are other 'expurgations' noted in the
 Preface.
 
 ------------------------------------------------------------------------
@@ -33,10 +33,10 @@ this notice of attribution accompanies any copies.
 
 ------------------------------------------------------------------------
 
-[VOLUME I](../wl1/index)  
+[VOLUME I](../wl1/index.md)  
 
-[VOLUME II](../wl2/index)  
+[VOLUME II](../wl2/index.md)  
 
-[VOLUME III](../wl3/index)  
+[VOLUME III](../wl3/index.md)  
 
-[VOLUME IV](../wl4/index)
+[VOLUME IV](../wl4/index.md)

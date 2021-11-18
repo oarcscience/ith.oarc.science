@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct06) [Next](bct08)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct06) [Next](bct08.md)
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ Flood" came upon the earth in the days of Nâ<u>h</u>ôr. God opened the
 storehouse of the winds and whirlwinds, and they uprooted the idols and
 graven images, and they collected them together, and buried them under
 the earth, and they reared over them these mounds that are in the world.
-([*Book of the Bee*, chapter xxiii.](../bb/bb23)) God sent forth winds,
+([*Book of the Bee*, chapter xxiii.](../bb/bb23).md) God sent forth winds,
 and the whirlwind, and earthquakes on the earth, until the idols were
 broken one against another. Instead of repenting, men added to their
 sins. *Book of Adam* (iii. 24.)**\]**
@@ -128,7 +128,7 @@ incorrect. The city referred to is Ur, where, in recent years,
 excavations have been carried out by the British Museum and the
 University of Pennsylvania. (*See* my *Babylonian Life and History*,
 London, 1925, and the account of the excavations given at the end of the
-present work, [page 275](bct12.htm#page_275).)**\]**
+present work, [page 275](bct12.htm#page_275)..md)**\]**
 
  
 
@@ -318,7 +318,7 @@ woman whose name was "Naharyath" (or Shalmath, or Tona, or
 Ta<u>h</u>dif), and of her Sârâ was born. It was because of this
 \[fact\] that Abraham said, "She is my sister, the daughter of my
 father, but not the daughter of my mother" ([Gen. xx.
-2](../../bib/kjv/gen.htm#20:2), 5).
+2](../../bib/kjv/gen.htm#20:2), 5.md).
 
  
 
@@ -352,7 +352,7 @@ took up his son as an offering, but he at the same time \[fore\]saw in
 this \[act\] the crucifixion of Christ. And this thing did Christ openly
 proclaim before the multitudes of the Jews, saying, "Abraham, your
 father, wanted to see My days, and he saw and was glad" ([John viii.
-56](../../bib/kjv/joh.htm#8:56)). Abraham saw the day of the redemption
+56](../../bib/kjv/joh.htm#8:56).md). Abraham saw the day of the redemption
 \[<span id="fol_26a2"></span>Fol. 26*a*, col. 2\] of Adam, and he saw
 and rejoiced, and it was revealed unto him that Christ would suffer on
 behalf of Adam.
@@ -415,7 +415,7 @@ was called the "Father of Kings."
 
    Now, as concerning what the Apostle said, "there was no beginning to
 his days, and no end to his life" ([Heb. vii.
-3](../../bib/kjv/heb.htm#7:3)) \[<span id="fol_26b2"></span>Fol. 26*b*,
+3](../../bib/kjv/heb.htm#7:3).md) \[<span id="fol_26b2"></span>Fol. 26*b*,
 col. 2\], it has been thought by simple folk that he was not a man at
 all, and in their error they have said concerning him that he was God.
 God forbid that there should have been no beginning to his days or end
@@ -426,7 +426,7 @@ was at the time of his departure from this world. Now, he was the son of
 Mâlâkh, the son of Arpakhshar, the son of Shem, and he was not the son
 of one of the Patriarchs. And the Apostle said that none of his father's
 family had ever ministered <span id="page_153">p. 153</span> at the
-altar ([Heb. vii. 6](../../bib/kjv/heb.htm#7:6)). The name of his father
+altar ([Heb. vii. 6](../../bib/kjv/heb.htm#7:6).md). The name of his father
 is not written in the genealogies, because Matthew and Luke, the
 Evangelists \[only\] wrote down the \[names of the\] Fathers \[in chief,
 *i.e.* Patriarchs\]; and for this reason neither the name of his father
@@ -466,8 +466,8 @@ fire to <u>H</u>arrân and burned it.
 <u>K</u>entôrâ \[<span id="fol_27a2"></span>Fol. 27*a*, col. 2\], the
 daughter of Ba<u>kt</u>ôr, the king of the desert. And there were born
 unto him by her Zamrân, and Ya<u>k</u>shân, and Mâdhân, and Medhyân, and
-Ashbâk, and Shôh. \[*See* [Gen. xxv. 1](../../bib/kjv/gen.htm#25:1), 2;
-[1 Chron. i. 32](../../bib/kjv/ch1.htm#1:32). A marginal note in the
+Ashbâk, and Shôh. \[*See* [Gen. xxv. 1](../../bib/kjv/gen.htm#25:1.md), 2;
+[1 Chron. i. 32](../../bib/kjv/ch1.htm#1:32.md). A marginal note in the
 Syriac MS. says, "these sons of <u>K</u>entôrâ are called sons of Daran
 by the prophet."\] And from these are sprung the Arabs.
 
@@ -544,7 +544,7 @@ formation of Adam. The place in which it appeared was a type of the
 Church; the stone under his head, which he set up for an altar, was a
 type of the altar; and the oil which he poured out upon it was like the
 holy oil wherewith they anoint the altar. *Book of the Bee* ([chapter
-xxvii](../bb/bb27)).**\]**
+xxvii](../bb/bb27).md).**\]**
 
 <span id="page_157">p. 157</span>
 
@@ -663,13 +663,13 @@ id="fol_29b1"></span>Fol. 29*b*, col. 1\]. Now fix thine attention on
 these generations, and how they became mixed together. \[When\] they
 went forth from Egypt: Judah begot Pharez, Pharez begot
 <u>H</u>e<u>s</u>rôn (Hezron), Hezron begot Ârâm (Râm, [1 Chron. ii.
-9](../../bib/kjv/ch1.htm#2:9)), Ârâm begot Amminadab, Amminadab begot
+9](../../bib/kjv/ch1.htm#2:9).md), Ârâm begot Amminadab, Amminadab begot
 Na<u>h</u>shôn (Nahson), and Na<u>h</u>shôn was he who became prince of
 Judah. And Amminadab gave the sister of Na<u>h</u>shôn to \`Îr (so in
 the text, but read Eleazar), the son of Aaron, the priest; of her was
 born Phinehas, the great priest, who prayed "and the plague was stayed"
-([Num. xxv. 7](../../bib/kjv/num.htm#25:7), 8; [Ps. cvi.
-30](../../bib/kjv/psa.htm#106:30)). Behold, I have shown thee that from
+([Num. xxv. 7](../../bib/kjv/num.htm#25:7.md), 8; [Ps. cvi.
+30](../../bib/kjv/psa.htm#106:30).md). Behold, I have shown thee that from
 Amminadab, the priesthood of the children of Israel was transmitted by
 the sister of Na<u>h</u>shôn, and the kingdom by Na<u>h</u>shôn her
 brother. Observe also that the priesthood and the kingdom were
@@ -689,7 +689,7 @@ the seed of both, and that Christ should be born of the seed of Lot and
 Abraham. And from the seed of Ruth, the Moabitess, Obed was born, and
 from Obed, Jesse, and from Jesse, David, and from David, Solomon; these
 are the descendants of Ruth, the Moabitess, the daughter of Lot. And of
-Na\`mâ (Naamah, [1 Kings xiv. 21](../../bib/kjv/kg1.htm#14:21)), the
+Na\`mâ (Naamah, [1 Kings xiv. 21](../../bib/kjv/kg1.htm#14:21).md), the
 Ammonitess, another daughter of Lot, whom Solomon took to wife \[<span
 id="fol_30a1"></span>Fol. 30*a*, col. 1\], was born Rehoboam, who
 reigned after Solomon.
@@ -744,7 +744,7 @@ Yôfannâ (Jephunneh). These were born in Egypt.
 
    **\[**NOTE.--Moses was the son of Amram, the son of Kohath, the son
 of Levi; his mother's name was Yokâbâr (Jochebed). *Book of the Bee*
-([chapter xxix](../bb/bb29)).**\]**
+([chapter xxix](../bb/bb29).md).**\]**
 
  
 
@@ -767,7 +767,7 @@ Midian, to Reuel, the Cushite, the priest of Midian.
 "Shakwîthâ of Pharaoh's daughter." Various names are given to this
 princess, *e.g.* Makrî, Mary, Shîpôr, Tharmesîs, <u>T</u>armûthîsâ; Bar
 Hebraeus says she was the daughter of Amûnpthîs, or Amûnpâthîôs. *Book
-of the Bee* ([chapter xxix](../bb/bb29)).**\]**
+of the Bee* ([chapter xxix](../bb/bb29).md).**\]**
 
  
 
@@ -786,7 +786,7 @@ one hundred and twenty years on Mount Nebo.
  
 
    **\[**NOTES.--From Adam until the death of Moses was 3,868 years.
-*Book of the Bee* ([chapter xxx)](../bb/bb30). M<span
+*Book of the Bee* ([chapter xxx)](../bb/bb30.md). M<span
 class="small">OSES</span>' R<span class="small">OD</span>.-Adam cut the
 rod from a branch of the Tree of Good and Evil which grew in Paradise,
 and he used it as a staff all his life. It passed from hand to hand to
@@ -802,7 +802,7 @@ it remained until Christ showed it to Joseph, who took it to Egypt and
 brought it back to Nazareth. It passed to James, the brother of our
 Lord, but was stolen by Judas Iscariot, who gave it to the Jews who were
 crucifying our Lord; to them it "became a judgment and a fall." *Book of
-the Bee* ([chapter xxx](../bb/bb30)).**\]**
+the Bee* ([chapter xxx](../bb/bb30).md).**\]**
 
 <span id="page_167">p. 167</span>
 
@@ -832,4 +832,4 @@ THOUSAND YEARS CAME TO AN END</span>.
 
 ------------------------------------------------------------------------
 
-[Next](bct08)
+[Next](bct08.md)

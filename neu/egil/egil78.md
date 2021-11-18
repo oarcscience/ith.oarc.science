@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil77)  [Next](egil79) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil77)  [Next](egil79.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ either place.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXVIII. Egil and his band slay twenty-five men.](egil79)
+[Next: CHAPTER LXXVIII. Egil and his band slay twenty-five men.](egil79.md)

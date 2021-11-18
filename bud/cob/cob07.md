@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob06)  [Next](cob08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob06)  [Next](cob08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -209,7 +209,7 @@ here set forth a view of religion entirely independent of the soul
 theories on which all the various philosophies and religions then
 current in India were based." Speaking of re-incarnation he says, "There
 is no passage of a soul or I *in any sense* <span
-id="fr_23"></span>[1](#fn_22) from the one life to the other. Their
+id="fr_23"></span>[1](#fn_22.md) from the one life to the other. Their
 \[the Buddhists'\] whole view of the matter is independent of the
 time-honoured soul-theories held in common by all the followers *of
 every other creed*." Speaking of the interest that the Brahmans took in
@@ -245,7 +245,7 @@ satisfaction, his solution in every case, or rather in the one case
 which is decisive of the rest, being an unqualified negation. The
 uncompromising denial of the soul, which Dr Rhys Davids ascribes to
 Buddha, makes an end of all metaphysical speculation. If there is no
-soul, if the sense of self <span id="fr_24"></span>[1](#fn_23) is wholly
+soul, if the sense of self <span id="fr_24"></span>[1](#fn_23.md) is wholly
 delusive, we may know, without further inquiry, that there is no God (in
 
 <span id="page_106">p. 106</span>
@@ -271,7 +271,7 @@ Rhys Davids says that Buddha denied the existence of the soul *in the
 Christian sense of the word:* and one might infer from this that it was
 open to him to believe in the soul in some other sense of the word,--for
 example in the Brahmanic, which is diametrically opposite to the
-"Christian." <span id="fr_25"></span>[1](#fn_24) But whether Dr Rhys
+"Christian." <span id="fr_25"></span>[1](#fn_24.md) But whether Dr Rhys
 Davids has himself failed to distinguish between the Christian
 
 <span id="page_107">p. 107</span>
@@ -287,7 +287,7 @@ held in common by all the followers *of every other creed*," are
 decisive on this point. Besides, it stands to reason that if "death,
 *utter death*," is the inevitable sequel to Nirvâna, there is no room in
 Buddha's philosophy for the soul, in *any* sense of the word. <span
-id="fr_26"></span>[1](#fn_25)
+id="fr_26"></span>[1](#fn_25.md)
 
 My reason for setting forth in detail Dr Rhys Davids' interpretation of
 Buddha's philosophy is that it happens to be the one interpretation
@@ -341,7 +341,7 @@ support of their thesis that Buddha was a negative dogmatist
 <div style="margin-left: 32px">
 
 "Who dropped his plummet down the broad  
-Deep Universe, and said 'No God' <span id="fr_27"></span>[1](#fn_26)--  
+Deep Universe, and said 'No God' <span id="fr_27"></span>[1](#fn_26.md)--  
 Finding no bottom."
 
 </div>
@@ -399,7 +399,7 @@ authenticity of the latter is as strongly vouched for by external
 evidence as that of the former. That there are passages in the Buddhist
 Scriptures in which Buddha is represented as having authoritatively
 denied the Ego, may perhaps be provisionally admitted. <span
-id="fr_28"></span>[1](#fn_27) But surely, in the light of Dr Rhys
+id="fr_28"></span>[1](#fn_27.md) But surely, in the light of Dr Rhys
 Davids' assertion that Buddha both abstained from and discountenanced
 metaphysical speculation, we are free to conjecture that, as statements
 of Buddha's own metaphysical teaching, these passages are entirely
@@ -486,7 +486,7 @@ looking at "great matters" from standpoints which are exclusively
 Western. For example, that ultra-Stoical conception of life which makes
 it possible for him to say that "the true Buddhist saint does not mar
 the purity of his self-denial by lusting <span
-id="fr_29"></span>[1](#fn_28) after a positive happiness, which he,
+id="fr_29"></span>[1](#fn_28.md) after a positive happiness, which he,
 himself, shall enjoy hereafter," and which gives a strong bias to the
 general attitude which he and others have instinctively adopted towards
 Buddhism, is wholly foreign to Eastern modes of thought, and is in no
@@ -712,7 +712,7 @@ causes of which he is the result) for countless ages in the past; and
 those same causes (of which he is the temporary effect) will continue in
 other like temporary forms through countless ages yet to come. *In that
 sense alone, according to Buddhism, each of us has after death a
-continuing life*." <span id="fr_30"></span>[1](#fn_29) This is an
+continuing life*." <span id="fr_30"></span>[1](#fn_29.md) This is an
 interesting statement of Dr Rhys Davids' own ideas about human
 immortality, but as a statement of what Buddha taught it is utterly
 misleading. It is doubtless true that all the forces of Nature,
@@ -773,9 +773,9 @@ than real. I cannot find anything to show that he regarded the identity
 between A, who is living now, and B, the future inheritor of his Karma,
 as in any way different from the identity between the A of to-day and
 the A of twenty years ago or twenty years hence. <span
-id="fr_31"></span>[1](#fn_30) Thoroughgoing denial of the Ego destroys
+id="fr_31"></span>[1](#fn_30.md) Thoroughgoing denial of the Ego destroys
 the identity of a man from moment to moment as effectually as from life
-to life. <span id="fr_32"></span>[2](#fn_31) But--to quote
+to life. <span id="fr_32"></span>[2](#fn_31.md) But--to quote
 
 <span id="page_125">p. 125</span>
 
@@ -959,7 +959,7 @@ if he transmits his character to B, he transmits himself.
 It is here that Buddhism parts company with those Western interpreters
 of it who try, like Dr Paul Carus, to affiliate it to the (so-called)
 "religion of science." Whatever theory Dr Paul Carus may hold as to the
-identity <span id="fr_33"></span>[1](#fn_32) (or non-identity)
+identity <span id="fr_33"></span>[1](#fn_32) (or non-identity.md)
 
 <span id="page_132">p. 132</span>
 
@@ -1048,19 +1048,19 @@ the abyss that separates Eastern from Western thought.
 
 ### Footnotes
 
-<span id="fn_22"></span>[104:1](cob07.htm#fr_23) In all these extracts
+<span id="fn_22"></span>[104:1](cob07.htm#fr_23.md) In all these extracts
 from Dr Rhys Davids' writings the italics are mine.
 
-<span id="fn_23"></span>[105:1](cob07.htm#fr_24) By the "sense of self"
+<span id="fn_23"></span>[105:1](cob07.htm#fr_24.md) By the "sense of self"
 I mean that sense of one's own intrinsic reality, indivisible unity, and
 identity through all changes, which is of the essence of
 self-consciousness.
 
-<span id="fn_24"></span>[106:1](cob07.htm#fr_25) By "Christian," Dr Rhys
+<span id="fn_24"></span>[106:1](cob07.htm#fr_25.md) By "Christian," Dr Rhys
 Davids evidently means what belongs to the popular theology of
 Christendom, not what belongs to the inner creed of Christ.
 
-<span id="fn_25"></span>[107:1](cob07.htm#fr_26) Except perhaps in that
+<span id="fn_25"></span>[107:1](cob07.htm#fr_26.md) Except perhaps in that
 singular sense which the "new psychology" is said to have officially
 endorsed, and which Dr Paul Carus has elucidated by defining the soul as
 "the totality of our thoughts, sensations and aspirations," as "a system
@@ -1074,21 +1074,21 @@ it, bases its philosophy on the vulgar confusion between *matter* and
 *substance*. See "Buddhism and Its Christian Critics," *passim*, and, in
 particular, the middle paragraph of p. 80.)
 
-<span id="fn_26"></span>[109:1](cob07.htm#fr_27) To deny the Ego is to
+<span id="fn_26"></span>[109:1](cob07.htm#fr_27.md) To deny the Ego is to
 deny the Self, the Universal Self (or God) in Nature, and the
 individualized Self (or Soul) in Man.
 
-<span id="fn_27"></span>[111:1](cob07.htm#fr_28) But see Chapter VII.,
-[p. 197](cob09.htm#page_197).
+<span id="fn_27"></span>[111:1](cob07.htm#fr_28.md) But see Chapter VII.,
+[p. 197](cob09.htm#page_197.md).
 
-<span id="fn_28"></span>[114:1](cob07.htm#fr_29) "Lusting after
+<span id="fn_28"></span>[114:1](cob07.htm#fr_29.md) "Lusting after
 happiness." What a basely materialistic conception of happiness
 underlies this question-begging phrase!
 
-<span id="fn_29"></span>[122:1](cob07.htm#fr_30) The italics are mine.
+<span id="fn_29"></span>[122:1](cob07.htm#fr_30.md) The italics are mine.
 
-<span id="fn_30"></span>[124:1](cob07.htm#fr_31) I am understating my
-case. In one of the Milinda dialogues it is [expressly](errata.htm#2)
+<span id="fn_30"></span>[124:1](cob07.htm#fr_31.md) I am understating my
+case. In one of the Milinda dialogues it is [expressly](errata.htm#2.md)
 stated that the relation between "the name and form which is to end at
 death" and "the name and form which is born into the next existence" is
 exactly parallel to that between a "young girl" and the same girl (as we
@@ -1096,13 +1096,13 @@ should say) when "grown-up and marriageable." For all practical purposes
 this is equivalent to saying that the relation is one of identity. (See
 "Buddhism in Translation," pp. 236, 237.)
 
-<span id="fn_31"></span>[124:2](cob07.htm#fr_32) Dr Rhys Davids is
+<span id="fn_31"></span>[124:2](cob07.htm#fr_32.md) Dr Rhys Davids is
 justified from his own point of view in <span id="page_125">p.
 125</span> saying that "Man," as Buddha conceives of him, "is never the
 same for two consecutive moments, and there is within him no abiding
 principle whatever."
 
-<span id="fn_32"></span>[131:1](cob07.htm#fr_33) Dr Paul Carus professes
+<span id="fn_32"></span>[131:1](cob07.htm#fr_33.md) Dr Paul Carus professes
 to believe in personal identity. What he really believes in is
 "thumb-mark" identity. He tells us that "the continuous preservation of
 form is all that is and can be meant by sameness of personality." But if
@@ -1114,4 +1114,4 @@ him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. The Silence of Buddha](cob08)
+[Next: Chapter VI. The Silence of Buddha](cob08.md)

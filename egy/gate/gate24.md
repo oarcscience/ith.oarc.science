@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate23)  [Next](gate25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate23)  [Next](gate25.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ closing upon them."
  
 
 <span id="img_22100"></span> [![](tn/generic.jpg)  
-Click to view](img/22100.jpg)  
+Click to view](img/22100.jpg.md)  
 The gate of the Serpent Set-hra.
 
  
@@ -62,7 +62,7 @@ steering. At the head of the
  
 
 <span id="img_22200"></span> [![](tn/generic.jpg)  
-Click to view](img/22200.jpg)  
+Click to view](img/22200.jpg.md)  
 The Boat of Ra being towed through the Eighth Division of the Tuat by
 the gods thereof.
 
@@ -107,7 +107,7 @@ at Ra, who journeyeth in his boat, \[for he is\] Great of Mystery.
  
 
 <span id="img_22500"></span> [![](tn/generic.jpg)  
-Click to view](img/22500.jpg)  
+Click to view](img/22500.jpg.md)  
 The Four Herpiu Gods, and the Four Akiu Gods.
 
  
@@ -136,7 +136,7 @@ earth, even as to him that hath obtained dominion
  
 
 <span id="img_22600"></span> [![](tn/generic.jpg)  
-Click to view](img/22600.jpg)  
+Click to view](img/22600.jpg.md)  
 The Four Nubiu Gods, and the Four Khepau Gods.
 
  
@@ -160,11 +160,11 @@ allotted and green herbs to the souls who are in the Lake of SERSER
  
 
 <span id="img_22700"></span> [![](tn/generic.jpg)  
-Click to view](img/22700.jpg)  
+Click to view](img/22700.jpg.md)  
 The Tchatchau who give the bread of Maat.
 
 <span id="img_22701"></span> [![](tn/generic.jpg)  
-Click to view](img/22701.jpg)  
+Click to view](img/22701.jpg.md)  
 Souls who are in the Lake of Serser.
 
  
@@ -227,7 +227,7 @@ waters wherein they refresh themselves are cool
  
 
 <span id="img_23100"></span> [![](tn/generic.jpg)  
-Click to view](img/23100.jpg)  
+Click to view](img/23100.jpg.md)  
 Souls who are in the Lake of Serser. A god with a sceptre.
 
  
@@ -258,7 +258,7 @@ front of the enemies of Osiris,
  
 
 <span id="img_23200"></span> [![](tn/generic.jpg)  
-Click to view](img/23200.jpg)  
+Click to view](img/23200.jpg.md)  
 (*Far left*) Horus the Aged. (*Right*) The Burnt Enemies of Osiris.
 
  
@@ -282,7 +282,7 @@ you, O ye who are hostile to Ra. Ye shall be backed in pieces,
  
 
 <span id="img_23400"></span> [![](tn/generic.jpg)  
-Click to view](img/23400.jpg)
+Click to view](img/23400.jpg.md)
 
  
 
@@ -322,4 +322,4 @@ the waters of their libations are cool."
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. The Gate Of Ab-ta. The Ninth Division of the
-Tuat.](gate25)
+Tuat.](gate25.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs45) [Next](hbs47)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs45) [Next](hbs47.md)
 
 ------------------------------------------------------------------------
 
@@ -226,7 +226,7 @@ Our fathers lied unto us, and we repeat their lies.
 
 ------------------------------------------------------------------------
 
-[Next](hbs47)
+[Next](hbs47.md)
 
  
 

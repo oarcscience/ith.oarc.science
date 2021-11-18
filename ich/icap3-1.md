@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icap2-2)  [Next](icap3-2) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icap2-2)  [Next](icap3-2.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 ### SECTION I
 
-Chapter  <span id="fr_254"></span>[I](#fn_254). 1. Heaven is lofty and
+Chapter  <span id="fr_254"></span>[I](#fn_254.md). 1. Heaven is lofty and
 honourable; earth is low. (Their symbols), *Kh*ien and Khwăn, (with
 their respective meanings), were determined (in accordance with this).
 
@@ -69,7 +69,7 @@ middle (between heaven and earth).
 
 <span id="page_350">p. 350</span>
 
-Chapter  <span id="fr_255"></span>[II](#fn_255). 9. The sages set forth
+Chapter  <span id="fr_255"></span>[II](#fn_255.md). 9. The sages set forth
 the diagrams, inspected the emblems contained in them, and appended
 their explanations;--in this way the good fortune and bad (indicated by
 them) were made clear.
@@ -104,7 +104,7 @@ movement.'
 
 <span id="page_352">p. 352</span>
 
-Chapter  <span id="fr_256"></span>[III](#fn_256). 15. The Thwan speak of
+Chapter  <span id="fr_256"></span>[III](#fn_256.md). 15. The Thwan speak of
 the emblematic figures (of the complete diagrams). The Yâo speak of the
 changes (taking place: in the several lines).
 
@@ -133,7 +133,7 @@ explanations some are startling, and some are unexciting. Every one of
 those explanations has reference to the tendencies (indicated by the
 symbols).
 
-Chapter  <span id="fr_257"></span>[IV](#fn_257). 20. The Yî was made on
+Chapter  <span id="fr_257"></span>[IV](#fn_257.md). 20. The Yî was made on
 a principle of accordance with heaven and earth, and shows us therefore,
 without rent or confusion, the course (of things) in heaven and earth.
 
@@ -171,7 +171,7 @@ are not restricted to any form.
 
 <span id="page_355">p. 355</span>
 
-Chapter  <span id="fr_258"></span>[V](#fn_258). 24. The successive
+Chapter  <span id="fr_258"></span>[V](#fn_258.md). 24. The successive
 movement of the inactive and active operations constitutes what is
 called the course (of things).
 
@@ -215,7 +215,7 @@ active operations is (the presence of a) spiritual (power).
 
 <span id="page_358">p. 358</span>
 
-Chapter  <span id="fr_259"></span>[VI](#fn_259). 33. Yes, wide is the Yî
+Chapter  <span id="fr_259"></span>[VI](#fn_259.md). 33. Yes, wide is the Yî
 and great! If we speak of it in its farthest reaching, no limit can be
 set to it; if we speak of it with reference to what is near at hand,
 (its lessons are) still and correct; if we speak of it in connexion with
@@ -239,7 +239,7 @@ excellence seen in the ease and ready response (of its various
 operations) corresponds to the perfect operations (presented to us in
 the phenomena of nature).
 
-Chapter  <span id="fr_260"></span>[VII](#fn_260). 36. The Master
+Chapter  <span id="fr_260"></span>[VII](#fn_260.md). 36. The Master
 said:--'Is not the Yî a perfect book?' It was by the Yî that the sages
 exalted their virtue, and enlarged their sphere of occupation. Their
 wisdom was high, and their rules of conduct were solid. That loftiness
@@ -253,7 +253,7 @@ changes (of nature) take place between them. The nature (of man) having
 been completed, and being continually preserved, it is the gate of all
 good courses and righteousness.
 
-Chapter  <span id="fr_261"></span>[VIII](#fn_261). 38. The sage was able
+Chapter  <span id="fr_261"></span>[VIII](#fn_261.md). 38. The sage was able
 to survey all the complex phenomena under the sky. He then considered in
 his mind how they could be figured, and (by means of the diagrams)
 represented their material forms and their character. Hence these
@@ -373,7 +373,7 @@ him, (shows how) robbery is called out.'
 
 <span id="page_365">p. 365</span>
 
-Chapter  <span id="fr_262"></span>[IX](#fn_262). 49. To heaven belongs
+Chapter  <span id="fr_262"></span>[IX](#fn_262.md). 49. To heaven belongs
 (the number) 1; to earth, 2; to heaven, 3; to earth, 4; to heaven, 5; to
 earth, 6; to heaven, 7; to earth, 8; to heaven, 9; to earth, 10.
 
@@ -430,7 +430,7 @@ transformation may be said to know what is done by that spiritual
 
 <span id="page_367">p. 367</span>
 
-Chapter  <span id="fr_263"></span>[X](#fn_263). 59. In the Yî there are
+Chapter  <span id="fr_263"></span>[X](#fn_263.md). 59. In the Yî there are
 four things characteristic of the way of the sages. We should set the
 highest value on its explanations to guide
 
@@ -486,7 +486,7 @@ are four things indicating the way of the sages.'
 
 <span id="page_371">p. 371</span>
 
-Chapter  <span id="fr_264"></span>[XI](#fn_264). 66. The Master
+Chapter  <span id="fr_264"></span>[XI](#fn_264.md). 66. The Master
 said:--'What is it that the Yî does? The Yî opens up (the knowledge of
 the issues of) things, accomplishes the undertakings (of men), and
 embraces under it (the way of) all things under the sky. This and
@@ -580,7 +580,7 @@ fortunate or the reverse, to settle the doubts (of men).
 
 <span id="page_375">p. 375</span>
 
-Chapter  <span id="fr_265"></span>[XII](#fn_265), 75. It is said in the
+Chapter  <span id="fr_265"></span>[XII](#fn_265.md), 75. It is said in the
 Yî, 'Help is given to him from Heaven. There will be good fortune;
 advantage in every respect.' The Master
 
@@ -655,7 +655,7 @@ words, depended on their virtuous conduct.
 
 ### Footnotes
 
-<span id="fn_254"></span>[349:I](icap3-1.htm#fr_254) Chapter I is an
+<span id="fn_254"></span>[349:I](icap3-1.htm#fr_254.md) Chapter I is an
 attempt to show the correspondency between the phenomena of external
 nature ever changing, and the figures of the Yî King ever varying. The
 first four paragraphs, it is said, show, from the phenomena of
@@ -690,7 +690,7 @@ peculiar meaning of the character *k*ih (<span id="img_35000"></span>
 used in the sense of 'directing,' 'presiding over.' In paragraph 7,
 however, it resumes its ordinary significancy.
 
-<span id="fn_255"></span>[351:II](icap3-1.htm#fr_255) Chapter II,
+<span id="fn_255"></span>[351:II](icap3-1.htm#fr_255.md) Chapter II,
 paragraphs 9-14, is divided into two parts. The former contains
 paragraphs 9-12, and tells us how the sages, king Wăn and the duke of
 *K*âu, proceeded in making the Yî, so that the good fortune and bad of
@@ -717,7 +717,7 @@ places of the diagrams, I have no clue by which to trace my way. For the
 concluding sentence of paragraph 14 see the duke of *K*âu on the last
 line of hexagram 14.
 
-<span id="fn_256"></span>[353:III](icap3-1.htm#fr_256) Chapter III,
+<span id="fn_256"></span>[353:III](icap3-1.htm#fr_256.md) Chapter III,
 paragraphs 15-19, gives additional information about the constituent
 parts of the Yî, that is, the Text of the classic as we have it from
 king Wăn and his son. The imperial editors say that it expands the
@@ -740,7 +740,7 @@ It is observed by Žhâi *Kh*ing (early in the Ming dynasty) that the
 terms 'diagrams' and 'explanations' must be understood not only of the
 whole figures but also as embracing the several lines.
 
-<span id="fn_257"></span>[354:IV](icap3-1.htm#fr_257) Chapter IV,
+<span id="fn_257"></span>[354:IV](icap3-1.htm#fr_257.md) Chapter IV,
 paragraphs 20-23, is intended still more to exalt the Yî, and seems to
 say that the sage by means of it can make an exhaustive study of all
 principles and of human nature, till he attains to the knowledge of the
@@ -797,7 +797,7 @@ angels, and the genii of idolaters; and the Christian Chinese use it
 when they speak of God, of the Holy Spirit, of angels, and of the soul
 of man. For what else could they do?'
 
-<span id="fn_258"></span>[357:V](icap3-1.htm#fr_258) Chapter V,
+<span id="fn_258"></span>[357:V](icap3-1.htm#fr_258.md) Chapter V,
 paragraphs 24-32, Still shows us the Yî fashioned so as to give a
 picture of the phenomena of the external universe; but the writer dwells
 more on the latter, and the different paragraphs give an interesting
@@ -855,7 +855,7 @@ Appendix VI. The 'Spirit' is that of 'God;' and this settles the meaning
 of tâo in paragraph 24, as being the course of nature, in which,
 according to the author, 'God worketh all in all.'
 
-<span id="fn_259"></span>[359:VI](icap3-1.htm#fr_259) Chapter VI,
+<span id="fn_259"></span>[359:VI](icap3-1.htm#fr_259.md) Chapter VI,
 paragraphs 33-35, goes on further to celebrate the Yî as holding up the
 mirror to nature in all its operations and in its widest extent. The
 grandiloquent language, however, amounts only to this, that, when we
@@ -878,7 +878,7 @@ other, shows us how those names arose, and that it is foreign to the
 original concept of them to call them 'the male and female
 principles:'--with the last clause compare paragraphs 6-8.
 
-<span id="fn_260"></span>[360:VII](icap3-1.htm#fr_260) Chapter VII,
+<span id="fn_260"></span>[360:VII](icap3-1.htm#fr_260.md) Chapter VII,
 paragraphs 36, 37, is understood to set forth how the sages embodied the
 teachings of the Yî in their character and conduct. But when it is said
 that 'it was by the Yî that they exalted their virtue and enlarged their
@@ -898,7 +898,7 @@ occur here and elsewhere, they were added after the sage's time.' Their
 occurrence very seriously affects the question of the authorship of the
 Appendixes, which I have discussed in the Introduction, pages 28-31.
 
-<span id="fn_261"></span>[364:VIII](icap3-1.htm#fr_261) Chapter VIII,
+<span id="fn_261"></span>[364:VIII](icap3-1.htm#fr_261.md) Chapter VIII,
 paragraphs 38-48. In the first two paragraphs here we have an account of
 the formation of the diagrams, and of the explanation of the whole
 hexagrams and of the individual lines. 'The sage' in paragraph 38 is
@@ -934,7 +934,7 @@ questions categorically is beyond our power. The facts that suggest them
 increase the difficulty in ascribing this and the other additions to the
 Yî to the later sage.
 
-<span id="fn_262"></span>[366:IX](icap3-1.htm#fr_262) Chapter IX,
+<span id="fn_262"></span>[366:IX](icap3-1.htm#fr_262.md) Chapter IX,
 paragraphs 49-58, is of a different character from any of the preceding,
 and treats, unsatisfactorily, of the use of numbers in connexion with
 the figure of the Yî and the practice of divination.
@@ -954,8 +954,8 @@ undivided line, which is symbolical of the active operation in nature,
 and the even numbers to the weak or divided line, symbolical of its
 inaction. The phraseology of the paragraphs, however, can only be
 understood by a reference to 'the river map,' which has been given in
-the Introduction, pages [15](icintr02.htm#page_15),
-[16](icintr02.htm#page_16).
+the Introduction, pages [15](icintr02.htm#page_15.md),
+[16](icintr02.htm#page_16.md).
 
 The map, as it appeared on the back of 'the dragon-horse,' consisted of
 so many circles, and so many dark circular markings, the former, it was
@@ -1045,7 +1045,7 @@ nature? What wiser are we after all the affirmations about numbers?
 'transformations' = evolution:--the finish given by earth to the
 changing caused by Heaven.
 
-<span id="fn_263"></span>[370:X](icap3-1.htm#fr_263) Chapter X,
+<span id="fn_263"></span>[370:X](icap3-1.htm#fr_263.md) Chapter X,
 paragraphs 59-65, enlarges on the service rendered to men by the Yî,
 owing to the way in which it was made by the sages to express their
 views and carry into effect their wishes.
@@ -1084,7 +1084,7 @@ So the writer imagined. No words could indicate more clearly than those
 of paragraph 65 that the paragraphs between it and 59 did not come from
 Confucius, but from the compiler of the Great Appendix, whoever he was.
 
-<span id="fn_264"></span>[374:XI](icap3-1.htm#fr_264) Chapter XI,
+<span id="fn_264"></span>[374:XI](icap3-1.htm#fr_264.md) Chapter XI,
 paragraphs 66-74, treats of divination, and the scheme of it supplied in
 the Yî. That scheme must be referred first to Heaven, which produced the
 spirit-like things,--the divining-plant and the tortoise; and next to
@@ -1168,7 +1168,7 @@ greatest potentates. Surely, it is all very extravagant.
 The last two paragraphs resume the theme of the making of the Yî by the
 sages, and their teaching the practice of divination. Of the Ho map and
 the Lo writing, I have spoken in the introduction, pages
-[14](icintr02.htm#page_14)-[18](icintr02.htm#page_18). But if we accept
+[14](icintr02.htm#page_14)-[18](icintr02.htm#page_18.md). But if we accept
 the statement that the Lo writing had anything to do with the making of
 the Yî, we must except Fû-hsî from the sages to whom we are indebted for
 it. It was to the Great Yü, more than a thousand years later than
@@ -1177,7 +1177,7 @@ had anything to do with the Yî. Nor is either of these things mentioned
 in Section ii, paragraph 11, where the work of Fû-hsî is described more
 in detail.
 
-<span id="fn_265"></span>[378:XII](icap3-1.htm#fr_265) Chapter XII,
+<span id="fn_265"></span>[378:XII](icap3-1.htm#fr_265.md) Chapter XII,
 paragraphs 75-81, endeavours to show how we have in the Yî a
 representation of the changing phenomena of nature, and such a
 representation as words or speech could not convey.
@@ -1233,4 +1233,4 @@ stand between Heaven and the mass of men as they did.
 
 ------------------------------------------------------------------------
 
-[Next: Section II](icap3-2)
+[Next: Section II](icap3-2.md)

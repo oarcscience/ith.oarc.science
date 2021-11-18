@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog13)  [Next](hlog15) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog13)  [Next](hlog15.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,4 +196,4 @@ their future home.
 
 ------------------------------------------------------------------------
 
-[Next: X. The Old Man of the Mountain](hlog15)
+[Next: X. The Old Man of the Mountain](hlog15.md)

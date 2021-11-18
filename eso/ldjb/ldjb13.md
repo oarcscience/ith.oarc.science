@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb12)  [Next](ldjb14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb12)  [Next](ldjb14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ as can be everywhere, like Divinity itself." (*Princ*. xxiii.
 
 "<span class="smallcaps">Without</span> special divine aid, humanity
 would have gone to eternal perdition on account of the sin." <span
-id="fr_131"></span>[1](#fn_131) (*Hamberger*.)
+id="fr_131"></span>[1](#fn_131) (*Hamberger*..md)
 
 "Adam would have been lost eternally if the heart of God with the word
 of promise had not entered his soul, awakening the spiritual hope which
@@ -46,10 +46,10 @@ the warrior in the battle,
 <span id="page_199">p. 199</span>
 
 we would all be sure to perish in the horror of hell." <span
-id="fr_132"></span>[1](#fn_132) (*Aurora*, xiv. 104.)
+id="fr_132"></span>[1](#fn_132) (*Aurora*, xiv. 104..md)
 
 God, on account of His infinite mercy, desired to aid mankind. <span
-id="fr_133"></span>[2](#fn_133)
+id="fr_133"></span>[2](#fn_133.md)
 
 "God desires that all mankind shall be saved. He does not desire the
 death of the sinner, but that he become changed, and turning again to
@@ -65,7 +65,7 @@ x. 24.)
  
 
 There was no other way to save mankind, except that the Son or the Light
-of God should enter into them. <span id="fr_134"></span>[3](#fn_134)
+of God should enter into them. <span id="fr_134"></span>[3](#fn_134.md)
 
 "When the soul went out of the light of God and entered into the spirit
 of this world, then began the torment
@@ -95,13 +95,13 @@ the Father Himself, had to enter her, for in the Father she was anyhow;
 but she was turned away from the entrance to the generation of the heart
 (the beginning of the divine self-consciousness) of God, and her desires
 were directed towards this external world." <span
-id="fr_135"></span>[1](#fn_135) (*Three Principles*, xxii. 68.)
+id="fr_135"></span>[1](#fn_135) (*Three Principles*, xxii. 68..md)
 
  
 
 The preparations for that redemption were already made before the
 creation of this world, as the name of *Jesus* was embodied in
-man. <span id="fr_136"></span>[2](#fn_136)
+man. <span id="fr_136"></span>[2](#fn_136.md)
 
 <span id="page_201">p. 201</span>
 
@@ -123,13 +123,13 @@ this spark of divine love-light the whole world was to live, and Adam
 was already therein while his creation took place, as is also expressed
 by *Paul* (Eph. i. 13), where he says that man was elected in Christ
 before the foundation of the world was made." <span
-id="fr_137"></span>[1](#fn_137) (*Three Principles*, xvi. 107.)
+id="fr_137"></span>[1](#fn_137) (*Three Principles*, xvi. 107..md)
 
  
 
 As long as Adam had not ceased to resemble God, the Redeemer within him
 did not render Himself perceptible. This, however, took place
-immediately after the fall. <span id="fr_138"></span>[2](#fn_138)
+immediately after the fall. <span id="fr_138"></span>[2](#fn_138.md)
 
 "From all eternity stood the name *Jesus* in immovable love in man as
 the image of God. But when the
@@ -138,7 +138,7 @@ the image of God. But when the
 
 soul lost the light, then the Word spoke the name of *Jesus* into what
 was movable; into the faded *ens* of the heavenly world's
-substance." <span id="fr_139"></span>[1](#fn_139) (*Grace*, vii. 34.)
+substance." <span id="fr_139"></span>[1](#fn_139) (*Grace*, vii. 34..md)
 
 "Before the fall Adam received the divine light out of *Jehovah;* that
 is to say, out of the one only God, wherein was hidden the name of
@@ -156,13 +156,13 @@ that its voice might again begin to become active within the soul."
 opposition to evil, and manifested in him the power that bruises the
 heel of the serpent, which heretofore, at the time when sin had not yet
 appeared, had been hidden (latent) in the power of God, and in Jesus as
-the love of God, in divine unity." <span id="fr_140"></span>[2](#fn_140)
+the love of God, in divine unity." <span id="fr_140"></span>[2](#fn_140.md)
 (*Stiefel*, ii. 161.)
 
  
 
 The power of the future Redeemer became first of all active in
-Eve. <span id="fr_141"></span>[3](#fn_141)
+Eve. <span id="fr_141"></span>[3](#fn_141.md)
 
 "The in-speaking of the devil, wherefrom evil will originated, took
 place in Adam while he was still man and woman, and yet neither the one
@@ -188,7 +188,7 @@ become separated from him to constitute woman, the mother of all
 mankind. It was she in whom the voice of God promised again to introduce
 the living, holy substance from heaven, and to generate anew and in
 divine power the faded image of God that was contained therein." <span
-id="fr_142"></span>[1](#fn_142) (*Grace*, vii. 18.)
+id="fr_142"></span>[1](#fn_142) (*Grace*, vii. 18..md)
 
  
 
@@ -212,13 +212,13 @@ revealed by the power of the voice speaking into her in the name of
 Jesus, which (name) had evolved from Jehovah, and promised that in the
 fulness of time the holy, celestial love-essence would again be
 introduced into the weakened image." <span
-id="fr_143"></span>[1](#fn_143) (*Grace*, vii. 33.)
+id="fr_143"></span>[1](#fn_143) (*Grace*, vii. 33..md)
 
  
 
 From Eve, out of whom the Saviour as an incarnation was to issue in the
 fulness of time, the blissful power radiated and expanded over the whole
-of humanity. <span id="fr_144"></span>[2](#fn_144)
+of humanity. <span id="fr_144"></span>[2](#fn_144.md)
 
 "God spoke into the image of Adam, that had become weakened relatively
 to its divine life, His holy word, 'The seed of the woman shall bruise
@@ -241,7 +241,7 @@ perpetuated from man to man in his celestial part as a sound
 
 holy fiery light, until the time when Mary was awakened, when the time
 for the fulfilment of the covenant had arrived and the doors of the
-closed chamber were opened." <span id="fr_145"></span>[1](#fn_145)
+closed chamber were opened." <span id="fr_145"></span>[1](#fn_145.md)
 (*Mysterium*, xxiii. 31.)
 
  
@@ -249,7 +249,7 @@ closed chamber were opened." <span id="fr_145"></span>[1](#fn_145)
 This event could not take place earlier on account of the great depth of
 human corruption, but in the minds of those that were willing to submit
 to divine mercy this power resisted Satan, and even awakened prophets
-among them. <span id="fr_146"></span>[2](#fn_146)
+among them. <span id="fr_146"></span>[2](#fn_146.md)
 
 "Christ remained in Adam and Eve as a divine mystery, and did not take
 human substance in them. He remained motionless until the time (for His
@@ -265,7 +265,7 @@ within their spirit and soul, within their
 <span id="page_206">p. 206</span>
 
 desire for faith (spiritual knowledge)." <span
-id="fr_147"></span>[1](#fn_147) (*Stiefel*, ii, 453.)
+id="fr_147"></span>[1](#fn_147) (*Stiefel*, ii, 453..md)
 
 "The (astral) soul of Adam and Eve and of all human beings was still too
 rough, unmanageable, and impregnated by the first principle. Therefore
@@ -281,7 +281,7 @@ the *Word* was contained within the weakened interior image, and
 unfolded itself, and indicated to the external man what was to happen to
 him in the future, when it would manifest itself, and destroy therein
 death and the loathsomeness resulting from the battle taking place
-within the forms of life." <span id="fr_148"></span>[2](#fn_148)
+within the forms of life." <span id="fr_148"></span>[2](#fn_148.md)
 (*Stiefel*, 385.)
 
  
@@ -292,7 +292,7 @@ As our progenitors (in their terrestrial aspect) were
 
 governed by external reasoning, Eve believed that in giving birth to
 Cain the bruiser of the head of the serpent had already come into the
-world. <span id="fr_149"></span>[1](#fn_149)
+world. <span id="fr_149"></span>[1](#fn_149.md)
 
 "Hear and see what was Adam and Eve's desire before and after the fall.
 They desired the terrestrial kingdom, and Eve's mind was directed to
@@ -302,7 +302,7 @@ the head of the serpent, and that he was to drive the devil away. She
 did not think that it was for her to die to her own false, earthly, and
 fleshly will, and to be reborn in a divine will. Such a (selfish) will
 she carried within her seed, and Adam likewise, and from that resulted
-the will in the soul-essence. <span id="fr_150"></span>[2](#fn_150) The
+the will in the soul-essence. <span id="fr_150"></span>[2](#fn_150.md) The
 tree produced a branch of its own nature, for Cain's thoughts were bent
 upon becoming a lord of this earth. As Cain saw that Abel was higher in
 the love of God than he, his free animal will arose for the purpose of
@@ -315,7 +315,7 @@ of God." (*Mysterium*, xxvi. 23.)
 As an antithesis to Cain, there was born to Adam another son, namely,
 Abel, who was not so much an image of his earthly as rather of his
 celestial essentiality, that had been restored to a certain extent by
-divine mercy. <span id="fr_151"></span>[3](#fn_151)
+divine mercy. <span id="fr_151"></span>[3](#fn_151.md)
 
 "After the fall Jehovah spoke the name of Jesus in Adam into an actual
 life; that is to say, he manifested it in the celestial being that had
@@ -357,7 +357,7 @@ new branch from his loins." (*Mysterium*, xxix. 22.)
 
 In the place of Abel, Adam was to produce a third son, namely, Seth, in
 whom was to be perpetuated the line of generation from which the Saviour
-was to be born in the flesh. <span id="fr_152"></span>[1](#fn_152)
+was to be born in the flesh. <span id="fr_152"></span>[1](#fn_152.md)
 
 <span id="page_209">p. 209</span>
 
@@ -376,7 +376,7 @@ xxix. 26.)
 
 To Cain also was shown the mercy of the Lord, who protected him against
 his hellish enemies, so that he might repent. <span
-id="fr_153"></span>[1](#fn_153)
+id="fr_153"></span>[1](#fn_153.md)
 
 Cain was afraid that the spirits (elementals) that had influenced him to
 commit murder would kill him. To prevent this God decreed that whoever
@@ -413,7 +413,7 @@ spiritual contemplation." (*Mysterium*, xxx. 2.)
 
 In the descendants of Noah—Sem, Ham, and Japhet—are represented the
 mental tendencies of the three principal races of mankind before the
-flood. <span id="fr_154"></span>[1](#fn_154)
+flood. <span id="fr_154"></span>[1](#fn_154.md)
 
 "After the first terrestrial world of human quality had been drowned in
 the flood, its form became reconstituted again in Noah and his three
@@ -422,7 +422,7 @@ sons." (*Mysterium*, xxiv. 30.)
 "Sem represents the world of light; Japhet the world of fire, wherein,
 however, the light is visible. Japhet also represents an image of the
 Father, and Sem that of the Son; but Ham is an image of the external
-world." <span id="fr_155"></span>[2](#fn_155) (*Mysterium*, xxxi. 10.)
+world." <span id="fr_155"></span>[2](#fn_155) (*Mysterium*, xxxi. 10..md)
 
  
 
@@ -460,21 +460,21 @@ to force him to become submissive to
 <span id="page_212">p. 212</span>
 
 <span class="contnote">\[paragraph continues\]</span> Him and take away
-his scoffing self-will." <span id="fr_156"></span>[1](#fn_156)
+his scoffing self-will." <span id="fr_156"></span>[1](#fn_156.md)
 (*Mysterium*, xxxiv. 31.)
 
  
 
 The name of Abraham had not a terrestrial meaning, and in this, as in
 many other respects, he was an anti-type of Christ. <span
-id="fr_157"></span>[2](#fn_157)
+id="fr_157"></span>[2](#fn_157.md)
 
 "The great name which God was to give to Abraham in his seed was not to
 be taken in an especially terrestrial sense; for Abraham was upon this
 earth like a stranger, owning no principality or kingdom. He was to be
 in the promised seed and blessing a stranger upon the earth, and therein
 resembled Christ, whose kingdom was likewise not of this world." <span
-id="fr_158"></span>[3](#fn_158) (*Mysterium*, xxxvii. 23.)
+id="fr_158"></span>[3](#fn_158) (*Mysterium*, xxxvii. 23..md)
 
  
 
@@ -486,14 +486,14 @@ of Abraham's Adamic essence and of the word conceived of faith, or the
 substance of Christ; but Ishmael was only of Adam's own nature according
 to the corrupted quality, and not from the conceived word of faith,
 which was acting with superior strength upon Isaac." <span
-id="fr_159"></span>[4](#fn_159) (*Mysterium*, xl. 13.)
+id="fr_159"></span>[4](#fn_159) (*Mysterium*, xl. 13..md)
 
 <span id="page_213">p. 213</span>
 
 The same may be said about the sons of Isaac, in whom there is plainly
 represented an image of the first and the second Adam, and of the final
 conquest of the first by the second. <span
-id="fr_160"></span>[1](#fn_160)
+id="fr_160"></span>[1](#fn_160.md)
 
 "Esau and Jacob both, and also the races descending from them, have
 originated out of one seed. The former, coming solely out of the Adamic
@@ -530,7 +530,7 @@ image of Christ from the same seed of Esau's parents (as Jacob), and put
 it before him as a contrast to his brother (Esau). Moreover, Jacob by
 his gift and humility excited the greatest compassion in Esau, and
 therefore we should not condemn Esau." <span
-id="fr_161"></span>[1](#fn_161) (*Grace*, ix. 121.)
+id="fr_161"></span>[1](#fn_161) (*Grace*, ix. 121..md)
 
  
 
@@ -540,7 +540,7 @@ of nature, and were now led by them by means of oracles.
 
 "The idolatry of the heathen consisted in their departing from the one
 only God and turning to the magic generation of nature, selecting false
-gods from the powers of nature." <span id="fr_162"></span>[2](#fn_162)
+gods from the powers of nature." <span id="fr_162"></span>[2](#fn_162.md)
 (*Mysterium*, xi. 6.)
 
 <span id="page_215">p. 215</span>
@@ -570,7 +570,7 @@ ignorant of what either God or the devil is." (*Mysterium*, xxxvii.
 Those heathen who led a pure and blameless life arrived at a knowledge
 of the symbols of celestial things by means of their ability to see
 within the mirror of external nature. <span
-id="fr_163"></span>[1](#fn_163)
+id="fr_163"></span>[1](#fn_163.md)
 
 "The heathen remained within their own magic, but
 
@@ -620,7 +620,7 @@ ones. Only the children of wrath must be excepted, because in them the
 incorporation of the name of *Jesus* does not take place, but only the
 incorporation of wrath. The latter, however, never extends over whole
 races, but merely over such individuals among them as are like thistles
-among the wheat." <span id="fr_164"></span>[1](#fn_164) (*Grace*, x.
+among the wheat." <span id="fr_164"></span>[1](#fn_164.md) (*Grace*, x.
 24.)
 
  
@@ -652,7 +652,7 @@ earthly, and therefore God put before Himself the object to a covenant
 of mercy, so that His imagination might not enter into the terrestrial
 consciousness of man, and that His wrath-fire might not be ignited with
 the earthliness and the sins of mankind." <span
-id="fr_165"></span>[1](#fn_165) (*Tilk*. i. 289.)
+id="fr_165"></span>[1](#fn_165) (*Tilk*. i. 289..md)
 
  
 
@@ -702,7 +702,7 @@ The earthly and impure substance of the victim was to
 <span id="page_220">p. 220</span>
 
 be destroyed by the fire, but this fire was not of a terrestrial but of
-a celestial kind. <span id="fr_166"></span>[1](#fn_166)
+a celestial kind. <span id="fr_166"></span>[1](#fn_166.md)
 
 "The spirit of man has issued from God, and has gone from God (the
 Eternal) into time, and within the temporal it has become impure. Now it
@@ -773,7 +773,7 @@ and to enter into God as a sacrifice to His wrath-fire,
 <span id="page_222">p. 222</span>
 
 and thus to change the wrath into love." <span
-id="fr_167"></span>[1](#fn_167) (*Baptism*, ii. 2 5.)
+id="fr_167"></span>[1](#fn_167) (*Baptism*, ii. 2 5..md)
 
 "The victim, the wood, the smoke, were all terrestrial, and likewise was
 man earthly, as far as his external body is concerned; but after the
@@ -846,7 +846,7 @@ bread." (*Communion*, i. 33.)
 
 ### Footnotes
 
-<span id="fn_131"></span>[198:1](ldjb13.htm#fr_131) This does not mean
+<span id="fn_131"></span>[198:1](ldjb13.htm#fr_131.md) This does not mean
 to say that any extracosmic God worried or "studied" about finding a
 method by which he might save mankind; but the "Heart" of God moved,
 because its own love caused it to move.
@@ -869,7 +869,7 @@ impulse the latent will became active, at the second move the latent
 wisdom or light, and at the third move or impulse the third principle
 will enter from the latent state into activity.
 
-<span id="fn_132"></span>[199:1](ldjb13.htm#fr_132) Whether such an
+<span id="fn_132"></span>[199:1](ldjb13.htm#fr_132.md) Whether such an
 event took place some 1900 years ago or at any other date may be left to
 the historian to find out. At all events, the Bible account is a
 description of the redemption of the world from spiritual ignorance by
@@ -885,18 +885,18 @@ by example and words, taught men virtue. To the internal perception of
 the seer He is the type of the personification of the divine *Logos* in
 man.
 
-<span id="fn_133"></span>[199:2](ldjb13.htm#fr_133) The expression "God"
+<span id="fn_133"></span>[199:2](ldjb13.htm#fr_133.md) The expression "God"
 is here not to be taken as the primordial absolute Will, but as God in
 His aspect as the Father.
 
-<span id="fn_134"></span>[199:3](ldjb13.htm#fr_134) God never went
+<span id="fn_134"></span>[199:3](ldjb13.htm#fr_134.md) God never went
 outside of universal man, neither did His light become extinguished in
 him. In its macrocosmic aspect the "re-entering" of that light may be
 compared to a ray of light in the centre of a body penetrating to the
 periphery. In its microcosmic aspect it is comparable to the life giving
 power of the sun, awakening the life in an individual organism.
 
-<span id="fn_135"></span>[200:1](ldjb13.htm#fr_135) The true Christ is,
+<span id="fn_135"></span>[200:1](ldjb13.htm#fr_135.md) The true Christ is,
 therefore, neither an "Adept" nor a "*Mahatma*," nor a Reformer, a
 mortal person, nor anything whatsoever that differs from God, but he is
 Divinity itself manifesting itself in Humanity, and thereby saving
@@ -906,12 +906,12 @@ individual person receives Him (the light) in him or her. The redemption
 from spiritual darkness depends on the presence of the redeeming power
 of the spiritual light within the darkness itself.
 
-<span id="fn_136"></span>[200:2](ldjb13.htm#fr_136) As the future
+<span id="fn_136"></span>[200:2](ldjb13.htm#fr_136.md) As the future
 regenerated Man, the second Adam was contained hidden within the first
 Adam; likewise the name of *Jesus* was hidden in the name of *Jehovah*,
 the latter being Himself Universal Man.
 
-<span id="fn_137"></span>[201:1](ldjb13.htm#fr_137) Christ
+<span id="fn_137"></span>[201:1](ldjb13.htm#fr_137.md) Christ
 (*Atma-Buddhi*) being Divinity in Humanity, there can be no other
 Redeemer than He, because man cannot be saved from mortality in any
 other way than by becoming immortal; nor can he become immortal unless
@@ -921,28 +921,28 @@ the "Christ" or Redeemer, is not spoken of as an "it," but as "He," is
 evidently because the Word, by becoming human in man, naturally assumed
 the qualities of man.
 
-<span id="fn_138"></span>[201:2](ldjb13.htm#fr_138) There was no
+<span id="fn_138"></span>[201:2](ldjb13.htm#fr_138.md) There was no
 occasion for the voice of conscience to speak in "Adam" as long as he
 had not acted against the Law.
 
-<span id="fn_139"></span>[202:1](ldjb13.htm#fr_139) From all eternity
+<span id="fn_139"></span>[202:1](ldjb13.htm#fr_139.md) From all eternity
 there was in man latent the power of becoming divine; but that power did
 not act as long as there was no cause to incite it to do so. This cause
 was created by the second moving of the fundamental will (of God).
 
-<span id="fn_140"></span>[202:2](ldjb13.htm#fr_140) "Jesus" means
+<span id="fn_140"></span>[202:2](ldjb13.htm#fr_140.md) "Jesus" means
 "Wisdom." Divine wisdom is love.
 
-<span id="fn_141"></span>[202:3](ldjb13.htm#fr_141) Woman, being on the
+<span id="fn_141"></span>[202:3](ldjb13.htm#fr_141.md) Woman, being on the
 whole more refined, more submissive and intuitional than man, is also
 more receptive for the germ of true spirituality.
 
-<span id="fn_142"></span>[203:1](ldjb13.htm#fr_142) Whether a person is
+<span id="fn_142"></span>[203:1](ldjb13.htm#fr_142.md) Whether a person is
 of the male or the female gender, it is always in his or her female
 elements (in the intuitive faculties, and not in the fiery will), that
 the divine and redeeming power of the love-light becomes first manifest.
 
-<span id="fn_143"></span>[204:1](ldjb13.htm#fr_143) The "seed of woman"
+<span id="fn_143"></span>[204:1](ldjb13.htm#fr_143.md) The "seed of woman"
 is the universal female principle, the celestial image which finds its
 reflection and representation in terrestrial woman, upon the earth. For
 this reason woman is more beautiful than man. Beauty in a male results
@@ -950,17 +950,17 @@ from the presence of the female principle of beauty in him, combined
 with his strength. Strength (rigidity) without mildness (harmony) cannot
 be beautiful.
 
-<span id="fn_144"></span>[204:2](ldjb13.htm#fr_144) "Eve " means the
+<span id="fn_144"></span>[204:2](ldjb13.htm#fr_144.md) "Eve " means the
 celestial woman, the vehicle of the divine spirit, wherein the divine
 will moves, in a terrestrial aspect.
 
-<span id="fn_145"></span>[205:1](ldjb13.htm#fr_145) Jesus of Nazareth
+<span id="fn_145"></span>[205:1](ldjb13.htm#fr_145.md) Jesus of Nazareth
 represents the incarnation, personification, and fruition of the divine
 Logos in man. Likewise Mary represents the personification of the
 celestial virgin-mother, the universal celestial kingdom which furnishes
 the conditions necessary for the unfoldment of divinity in humanity.
 
-<span id="fn_146"></span>[205:2](ldjb13.htm#fr_146) It is obvious that,
+<span id="fn_146"></span>[205:2](ldjb13.htm#fr_146.md) It is obvious that,
 as Universal Man became more and more differentiated in His external
 forms as individual powers or human beings, the original power contained
 in Him must also have remained in all His successors; but as there may
@@ -975,7 +975,7 @@ of the divine Word, or the awakening of the Divinity in. Humanity—would
 have had to take place during the middle of the fourth race in the
 fourth "round."
 
-<span id="fn_147"></span>[206:1](ldjb13.htm#fr_147) "*Adam*" is the
+<span id="fn_147"></span>[206:1](ldjb13.htm#fr_147.md) "*Adam*" is the
 trunk of the tree representing humanity. He is the primordial man, or
 the collectivity of the first "anthropoid beings" (spirits;—not apes),
 which were of an ethereal kind.
@@ -999,34 +999,34 @@ from the fiery will.
 "*David*," the power of grace arising from the submission of one's
 personal will to one's divine will. (Compare *Mysterium Magnum*.)
 
-<span id="fn_148"></span>[206:2](ldjb13.htm#fr_148) The "*Christ*," the
+<span id="fn_148"></span>[206:2](ldjb13.htm#fr_148.md) The "*Christ*," the
 light, existed therein essentially, but not substantially. It was a
 state of feeling, but not of understanding. It may be compared to the
 heat in a body, which renders the body hot; but not luminous, until the
 ignition takes place.
 
-<span id="fn_149"></span>[207:1](ldjb13.htm#fr_149) "*Eve*," the soul of
+<span id="fn_149"></span>[207:1](ldjb13.htm#fr_149.md) "*Eve*," the soul of
 the world, had not yet become spiritually enlightened enough to produce
 a divine being.
 
-<span id="fn_150"></span>[207:2](ldjb13.htm#fr_150) "Eve imagined that
+<span id="fn_150"></span>[207:2](ldjb13.htm#fr_150.md) "Eve imagined that
 in Cain she had produced *Jehovah*, the future King of the external
 world; and likewise the apostles supposed that Christ Was going to
 establish au external kingdom." (*Three Principles*, xx. 50.)
 
-<span id="fn_151"></span>[207:3](ldjb13.htm#fr_151) It should be
+<span id="fn_151"></span>[207:3](ldjb13.htm#fr_151.md) It should be
 remembered that these allegorical names do not refer to individual men,
 but to states of the universal mind.
 
-<span id="fn_152"></span>[208:1](ldjb13.htm#fr_152) "*Seth*" is a ray of
+<span id="fn_152"></span>[208:1](ldjb13.htm#fr_152.md) "*Seth*" is a ray of
 love-light escaping from the fiery will. (*Mysterium Magnum*, xxix. 24.)
 
-<span id="fn_153"></span>[209:1](ldjb13.htm#fr_153) If "*Cain*"—*i.e.*,
+<span id="fn_153"></span>[209:1](ldjb13.htm#fr_153.md) If "*Cain*"—*i.e.*,
 the external " church,"—had been annihilated, there could have been no
 further progress therein. The destruction of the intellect would make an
 end to all prospects of its becoming spiritual.
 
-<span id="fn_154"></span>[210:1](ldjb13.htm#fr_154) "*Sem*," the
+<span id="fn_154"></span>[210:1](ldjb13.htm#fr_154.md) "*Sem*," the
 outbreathing of divine power.
 
 "*Ham*," a breath from the centre of nature, conceived within the
@@ -1034,7 +1034,7 @@ outbreathing of divine power.
 
 "*Japhet*," the will penetrated by light.
 
-<span id="fn_155"></span>[210:2](ldjb13.htm#fr_155) In regard to the
+<span id="fn_155"></span>[210:2](ldjb13.htm#fr_155.md) In regard to the
 Bible allegories Boehme says:—
 
 "The written Word is only an instrument wherewith the Spirit leads. The
@@ -1057,7 +1057,7 @@ out. Oh yes! All right! I claim the same thing. If the Word is taught in
 the spirit and power of Christ, then is this so." (*Mysterium* xxviii.
 51).
 
-<span id="fn_156"></span>[212:1](ldjb13.htm#fr_156) Those are the
+<span id="fn_156"></span>[212:1](ldjb13.htm#fr_156.md) Those are the
 favoured people of God in whom lives the light of Christ, and not those
 who exclaim, "Lord! Lord! " using the name of Christ in vain, while the
 devil is occupying their souls. Boehme says:—
@@ -1069,17 +1069,17 @@ and without Him we cannot know God. How can we, then, say anything about
 Him? If we wish to speak of Him truthfully, we must speak out of His
 Spirit, because He testifies of God." (*Threefold Life*, xi. 90.)
 
-<span id="fn_157"></span>[212:2](ldjb13.htm#fr_157) "Abraham," a
+<span id="fn_157"></span>[212:2](ldjb13.htm#fr_157.md) "Abraham," a
 collection of people—*i.e.*, of minds—in whom spirituality has become
 manifest. (See *Mysterium Magnum*, xli. 1.)
 
-<span id="fn_158"></span>[212:3](ldjb13.htm#fr_158) This again goes to
+<span id="fn_158"></span>[212:3](ldjb13.htm#fr_158.md) This again goes to
 show that Boehme's conception of these intracosmic powers and processes
 had nothing in common with the narrow views of orthodox "Christianity,"
 which sees in those Biblical personifications nothing but terrestrial
 men and women.
 
-<span id="fn_159"></span>[212:4](ldjb13.htm#fr_159) These
+<span id="fn_159"></span>[212:4](ldjb13.htm#fr_159.md) These
 representations of intracosmic powers, personified in the Bible, <span
 id="page_213">p. 213</span> are all to be found in the theogonies of the
 "heathen," although under different names.
@@ -1107,19 +1107,19 @@ all meet. This, then, is the test by which you must know whether the
 spirit speaks out of God or out of the devil." (*Threefold Life*, v.
 73.)
 
-<span id="fn_160"></span>[213:1](ldjb13.htm#fr_160) "*Esau*," gross,
+<span id="fn_160"></span>[213:1](ldjb13.htm#fr_160.md) "*Esau*," gross,
 sensual nature. (*Mysterium Magnum*, iv.)
 
-<span id="fn_161"></span>[214:1](ldjb13.htm#fr_161) Evidently all these
+<span id="fn_161"></span>[214:1](ldjb13.htm#fr_161.md) Evidently all these
 Bible allegories represent cosmic processes which have actually taken
 place in the history of the world. They are, so to say, the genealogy of
 Humanity, in which at the fulness of the times the Divinity became
 manifest.
 
-<span id="fn_162"></span>[214:2](ldjb13.htm#fr_162) The "heathen," then,
+<span id="fn_162"></span>[214:2](ldjb13.htm#fr_162.md) The "heathen," then,
 seem to be those prehistoric races that were cultivating magic arts.
 
-<span id="fn_163"></span>[215:1](ldjb13.htm#fr_163) "The mysteries of
+<span id="fn_163"></span>[215:1](ldjb13.htm#fr_163.md) "The mysteries of
 nature were not so deeply hidden to those (prehistorical) peoples as
 they are to us, because they were not so deeply hidden (immersed) in
 materiality and sin. Therefore they knew the relationship between the
@@ -1130,7 +1130,7 @@ of all beings, and he created them. He could therefore give to each its
 appropriate name, as if he were in these things himself, and (felt and)
 experienced their conditions himself." (*Three Principles*, xxi. 8.)
 
-<span id="fn_164"></span>[217:1](ldjb13.htm#fr_164) Thus it appears that
+<span id="fn_164"></span>[217:1](ldjb13.htm#fr_164.md) Thus it appears that
 a person's true Christianity does not depend on his or her being learned
 in regard to theology, nor in subscribing to a certain creed or belief,
 nor in going through certain ceremonies, but in their being penetrated
@@ -1166,20 +1166,20 @@ that the great mysteries of God may become manifest, and the wonders
 that are in His wisdom from eternity be revealed." (*Threefold Life*,
 xvi. 24.)
 
-<span id="fn_165"></span>[218:1](ldjb13.htm#fr_165) Surely an internal
+<span id="fn_165"></span>[218:1](ldjb13.htm#fr_165.md) Surely an internal
 and spiritual God could want no other sacrifices than internal and
 spiritual ones. The animals in man, the snake of envy, the peacock of
 vanity, the ox of self-will, &c., had to be killed, so that God could
 manifest Himself in the purified soul. Any external sacrifice could at
 best be a symbol of the internal one.
 
-<span id="fn_166"></span>[220:1](ldjb13.htm#fr_166) Such animal
+<span id="fn_166"></span>[220:1](ldjb13.htm#fr_166.md) Such animal
 sacrifices are still taking place, whenever man kills his sensual
 desires and sacrifices them upon the altar of his soul. Then the animal
 symbols in his astral light are destroyed by the magic fire of his
 spiritual will.
 
-<span id="fn_167"></span>[222:1](ldjb13.htm#fr_167) If the light of
+<span id="fn_167"></span>[222:1](ldjb13.htm#fr_167.md) If the light of
 wisdom, the Son, enters the fiery will, the Father, then does the Son
 become one with the Father, and the wrath of the Father becomes
 reconciled and changed into that light which is love.
@@ -1188,6 +1188,6 @@ reconciled and changed into that light which is love.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Incarnation—The Celestial Virgin](ldjb14)
+[Next: Chapter XI. Incarnation—The Celestial Virgin](ldjb14.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida07)  [Next](ida09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida07)  [Next](ida09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 #### THE DISASTER OF THE LETTUCE
 
 <span class="smallcaps">As</span> Eg-Anteouen and Bou-Djema came face to
-face, I fancied that both the Targa and the [Chaamba](errata.htm#5) gave
+face, I fancied that both the Targa and the [Chaamba](errata.htm#5.md) gave
 a sudden start which each immediately repressed. It was nothing more
 than a fleeting impression. Nevertheless, it was enough to make me
 resolve that as soon as I was alone with our guide,
@@ -64,7 +64,7 @@ this man tells me there are similar inscriptions in several caverns in
 western Ahaggar. These caves are near the road that he has to take
 returning home. He must pass by Tit. Now, from Tit, by way of Silet, is
 hardly two hundred kilometers. It is a quasi-classic route <span
-id="fr_5"></span>[1](#fn_5) as short again as the one that I shall have
+id="fr_5"></span>[1](#fn_5.md) as short again as the one that I shall have
 to take alone, after I leave you, from Shikh-Salah to Timissao. That is
 in part, you see, the reason which has made me decide to . . ."
 
@@ -217,7 +217,7 @@ a vessel*, an explanation which would have been pleasing to Gaffarel and
 to my venerated master Berlioux. That would apply well enough to the
 figure-heads of ships. There is a technical term that I cannot recall at
 this moment, not if you beat me a hundred times over. <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 "Then there is ἀντινηα, that you must relate to ἀντι and ναός, *she who
 holds herself before the* ναός, the ναός of the temple, *she who is
@@ -242,7 +242,7 @@ Liddel-Scott. This is only to show you, my dear friend, that epigraphy
 is but a relative science, always dependent on the discovery of a new
 text which contradicts the previous findings, when it is not merely at
 the mercy of the humors of the epigraphists and their pet conceptions of
-the universe. <span id="fr_7"></span>[1](#fn_7)
+the universe. <span id="fr_7"></span>[1](#fn_7.md)
 
 "That was rather my view of it," I said. "But I must admit my
 astonishment to find that, with such a sceptical opinion of the goal,
@@ -452,20 +452,20 @@ consciousness.
 
 ### Footnotes
 
-<span id="fn_5"></span>[85:1](ida08.htm#fr_5) The route and the stages
+<span id="fn_5"></span>[85:1](ida08.htm#fr_5.md) The route and the stages
 from Tit to Timissao were actually plotted out, as early as 1888, by
 Captain Bissuel. *Les Tuareg de l’Ouest*, itineraries 1 and 10. (Note by
 M. Leroux.)
 
-<span id="fn_6"></span>[90:1](ida08.htm#fr_6) It is perhaps worth noting
+<span id="fn_6"></span>[90:1](ida08.htm#fr_6.md) It is perhaps worth noting
 here that *Figures de Proues* is the exact title of a very remarkable
 collection of poems by Mme. Delarus-Mardrus. (Note by M. Leroux.)
 
-<span id="fn_7"></span>[91:1](ida08.htm#fr_7) Captain Morhange seems to
+<span id="fn_7"></span>[91:1](ida08.htm#fr_7.md) Captain Morhange seems to
 have forgotten in this enumeration, in places fanciful, the etymology of
 ἀνθίνεα, a Doric dialect form of ἀνθινὴ, from ἄνθος, *a flower*, and
 which would mean *which is in flower*. (Note by M. Leroux.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Country of Fear](ida09)
+[Next: Chapter VII. The Country of Fear](ida09.md)

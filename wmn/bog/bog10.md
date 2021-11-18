@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog09)  [Next](bog11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog09)  [Next](bog11.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ And all her avatars.
 
 ------------------------------------------------------------------------
 
-[Next: Amaterasu](bog11)
+[Next: Amaterasu](bog11.md)

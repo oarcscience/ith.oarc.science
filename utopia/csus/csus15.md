@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus14)  [Next](csus16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus14)  [Next](csus16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ and the floor beneath is as clean as though it were a
 <span id="img_13700"></span>
 
 [![SHAKER WOMEN AT WORK.](tn/13700.jpg)  
-Click to enlarge](img/13700.jpg)  
+Click to enlarge](img/13700.jpg.md)  
 SHAKER WOMEN AT WORK.  
 
 table to be eaten from. The walls are bare of pictures; not only because
@@ -124,7 +124,7 @@ qualified for the several offices to which they may be assigned. Such
 appointments, being communicated to the members of the Church concerned,
 and having received the mutual approbation of the Church, or the family
 concerned, are thereby confirmed and established until altered or
-repealed by the same authority." <span id="fr_15"></span>[\*](#fn_15)
+repealed by the same authority." <span id="fr_15"></span>[\*](#fn_15.md)
 
 "Although the society at New Lebanon is the centre of union to all the
 other societies, yet the more immediate duties of the Ministry in this
@@ -211,7 +211,7 @@ sisters take turns; a certain number, sufficient to
 <span id="img_14100"></span>
 
 [![SHAKER COSTUMES.](tn/14100.jpg)  
-Click to enlarge](img/14100.jpg)  
+Click to enlarge](img/14100.jpg.md)  
 SHAKER COSTUMES.  
 
 make the work light, serving a month at a time. The younger sisters do
@@ -311,7 +311,7 @@ make a motion as of gathering something to themselves:
 <span id="img_14400"></span>
 
 [![SHAKER WORSHIP—THE DANCE.](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 SHAKER WORSHIP—THE DANCE.  
 
 this is called gathering a blessing. In like manner, when any brother or
@@ -392,7 +392,7 @@ their wish to remain with the Shakers; while he that *confesseth* and
 mortality, but unto God, witnessed by those who have thoroughly
 experienced the practical results of the ordeal. 'My son, give glory to
 the God of heaven; *confess unto him*, and *tell* me what thou hast
-done.'" <span id="fr_16"></span>[\*](#fn_16)
+done.'" <span id="fr_16"></span>[\*](#fn_16.md)
 
 Another authority says on this subject:
 
@@ -403,7 +403,7 @@ forever. By so doing they find justification and acceptance with God,
 and receive that power by which they become dead indeed unto sin, and
 alive unto God, through Jesus Christ, and are enabled to follow his
 example, and walk even as he walked." <span
-id="fr_17"></span>[†](#fn_17)
+id="fr_17"></span>[†](#fn_17.md)
 
 A third writer reasons thus upon confession:
 
@@ -433,7 +433,7 @@ God; and he will then be convinced that a confession made before the
 light of God in one of his true witnesses can bring upon him a more
 awful sense of his accountability both to God and man than all his
 confessions in darkness had ever done." <span
-id="fr_18"></span>[\*](#fn_18)
+id="fr_18"></span>[\*](#fn_18.md)
 
 Community of property is one of the leading principles of the Shakers.
 "It is an established principle of faith in the Church, that all who are
@@ -548,7 +548,7 @@ from the
 <span id="img_15000"></span>
 
 [![SISTERS IN EVERY DAY COSTUME.](tn/15000.jpg)  
-Click to enlarge](img/15000.jpg)  
+Click to enlarge](img/15000.jpg.md)  
 SISTERS IN EVERY DAY COSTUME.  
 
 <span id="page_151">p. 151</span>
@@ -562,16 +562,16 @@ will not change it until they find something better.
 
 ### Footnotes
 
-<span id="fn_15"></span>[138:\*](csus15.htm#fr_15) "Summary View," etc.
+<span id="fn_15"></span>[138:\*](csus15.htm#fr_15.md) "Summary View," etc.
 
-<span id="fn_16"></span>[146:\*](csus15.htm#fr_16) "Plain Talks on
+<span id="fn_16"></span>[146:\*](csus15.htm#fr_16.md) "Plain Talks on
 Practical Religion," etc.
 
-<span id="fn_17"></span>[146:†](csus15.htm#fr_17) "Christ's First and
+<span id="fn_17"></span>[146:†](csus15.htm#fr_17.md) "Christ's First and
 Second Appearing. By Shakers."
 
-<span id="fn_18"></span>[147:\*](csus15.htm#fr_18) "Summary View," etc.
+<span id="fn_18"></span>[147:\*](csus15.htm#fr_18.md) "Summary View," etc.
 
 ------------------------------------------------------------------------
 
-[Next: IV.—A Visit To Mount Lebanon.](csus16)
+[Next: IV.—A Visit To Mount Lebanon.](csus16.md)

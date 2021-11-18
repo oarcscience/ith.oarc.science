@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm05)  [Next](bcm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm05)  [Next](bcm07.md) 
 
 ------------------------------------------------------------------------
 
-### § 2. The Distinction between White and Black Magic <span id="fr_6"></span>[1](#fn_6)
+### § 2. The Distinction between White and Black Magic <span id="fr_6"></span>[1](#fn_6.md)
 
 Having considered the possible standpoints from which the Rituals may be
 regarded, we come now to the distinctions that are made between them,
@@ -30,7 +30,7 @@ composition of malefic talismans by means of those influences. Esoteric
 Medicine, which consisted in the application of occult forces to the
 healing of disease in man, and included a traditional knowledge of the
 medicinal properties resident in some substances disregarded by ordinary
-pharmacy, <span id="fr_7"></span>[1](#fn_7) produced in its malpractice
+pharmacy, <span id="fr_7"></span>[1](#fn_7.md) produced in its malpractice
 the secret science of poisoning and the destruction of health, reason or
 life by unseen forces. The transmutation of metals by Alchemy resulted
 in their sophistication. In like manner, Divination, or the processes by
@@ -126,16 +126,16 @@ des gens plus embêtants que ces gens-là*.
 
 ### Footnotes
 
-<span id="fn_6"></span>[13:1](bcm06.htm#fr_6) It should be understood
+<span id="fn_6"></span>[13:1](bcm06.htm#fr_6.md) It should be understood
 that this section contains what was said upon the subject, and seemed
 then sufficient to say, in the original edition. It stands now
 substantially as it then stood; the extensions are in the preface and in
 the introductory part.
 
-<span id="fn_7"></span>[14:1](bcm06.htm#fr_7) I am not suggesting that
+<span id="fn_7"></span>[14:1](bcm06.htm#fr_7.md) I am not suggesting that
 the traditional knowledge was of value, but that, as a fact, it seems to
 have existed.
 
 ------------------------------------------------------------------------
 
-[Next: Section 3: The Unprinted Literature of Ceremonial Magic](bcm07)
+[Next: Section 3: The Unprinted Literature of Ceremonial Magic](bcm07.md)

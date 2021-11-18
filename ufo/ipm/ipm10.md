@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm09)  [Next](ipm11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm09)  [Next](ipm11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -134,7 +134,7 @@ pages.
 
 Without recurring to the strange and little-known visions which already
 haunted the childhood and youth of Mlle. Smith (see pp.
-[20](ipm04.htm#page_20)-[25](ipm04.htm#page_25)), I will retrace the
+[20](ipm04.htm#page_20)-[25](ipm04.htm#page_25).md), I will retrace the
 principal stages of her Asiatic romance from the birth of her
 mediumship.
 
@@ -270,7 +270,7 @@ This generalization of partial automatism at the beginning, this
 subjugation and absorption of the ordinary personality by the subliminal
 personality, does not always produce amnesia with Hélène, that unique
 impression which she might describe on awakening as being herself and
-some one else at the same time. (Compare, [p. 119](ipm06.htm#page_119).)
+some one else at the same time. (Compare, [p. 119](ipm06.htm#page_119)..md)
 It must be noted that in the particular case of the identification of
 the black-haired Hindoo woman with Mlle. Hélène Smith of Geneva, the
 problem of the causal connection is susceptible of two opposite
@@ -292,7 +292,7 @@ surface and in depth like a drop of oil, until it invades the whole
 impressionable and suggestible personality of the medium—this is why
 Mlle. Smith feels herself becoming this woman, and concludes from it
 that she formerly actually was that person (see p.
-[28](ipm04.htm#page_28)-[30](ipm04.htm#page_30)). But we must return
+[28](ipm04.htm#page_28)-[30](ipm04.htm#page_30).md). But we must return
 from this digression to the Hindoo dream.
 
 March 10.—After various waking visions relating to other subjects,
@@ -411,9 +411,9 @@ May 26.—In the course of this seance, as Hélène, in a silent
 somnambulism, incarnates the Hindoo princess, I hand her a sheet of
 paper and a pencil in the hope of obtaining some text or drawing. After
 divers scribblings she traces the single word *Simadini* in letters
-which are not at all like her usual hand (see [Fig. 34](#img_fig34)).
+which are not at all like her usual hand (see [Fig. 34](#img_fig34).md).
 
-<span id="img_fig34"></span> ![Fig. 34.](img/fig34.jpg)
+<span id="img_fig34"></span> ![Fig. 34.](img/fig34.jpg.md)
 
 Then taking a fresh sheet, she seems to write on it with a happy smile,
 folds it carefully and thrusts it in her corsage, takes it out again,
@@ -432,12 +432,12 @@ one of the first known examples of a handwriting of Mlle. Smith other
 than her own normal hand.
 
 First: When, four months later, Leopold began to communicate in writing
-(pp. [98](ipm06.htm#page_98)-[103](ipm06.htm#page_103)), a certain
+(pp. [98](ipm06.htm#page_98)-[103](ipm06.htm#page_103).md), a certain
 analogy in the formation of the letters, and the identical way of
 holding the pencil, caused us to believe that it was he who had already
-traced the word in [Fig. 34](#img_fig34). But he has always denied it,
+traced the word in [Fig. 34](#img_fig34.md). But he has always denied it,
 and we have never been able to discover the author of it. Secondly: I
-said above, ([p. 204](ipm08.htm#page_204)), that there had been
+said above, ([p. 204](ipm08.htm#page_204).md), that there had been
 divergences in the orthography of this name. Here, in substance, is a
 fragment of a letter which Mlle. Smith wrote me in the winter following
 (February 18, 1896), depicting to me the vexatious impressions which she
@@ -466,7 +466,7 @@ registering as a fact, inexplicable hitherto, this correction of a
 graphic automatism by an auditive automatism at the end of several
 months. Between the two orthographies, I have adopted the second, which
 has undergone no further changes, and figures only in the Martian texts
-([10](ipm08.htm#an_text10), [16](ipm08.htm#an_text16)).
+([10](ipm08.htm#an_text10), [16](ipm08.htm#an_text16).md).
 
 June 16.—Fuller repetition of the scene of the letter of the Hindoo
 prince. Impossible to learn the contents of it. I suggest to her to
@@ -548,7 +548,7 @@ supposed Asiatic pre-existence.
 
 Some of these scenes concern her life as a young Arab girl. One sees her
 there, for example, playing joyously with her little monkey, Mitidja; or
-copying an Arab text (see [Fig. 35](#img_fig35), [p. 312](#page_312)),
+copying an Arab text (see [Fig. 35](#img_fig35), [p. 312](#page_312).md),
 which her father, the sheik, surrounded by his tribes, furnishes her; or
 embarking on a strange boat, escorted by black Hindoos, for her new
 country, etc. But much the larger number of her somnambulistic trances
@@ -674,7 +674,7 @@ of the hill—answered quite well to the description given by Hélène in
 her visions of the 7th and 14th of April, but the construction of this
 fortress dates back only to 1510, and this locality is very far removed
 from the Kanara where Leopold locates this entire story (see pp.
-[286](#page_286)-[288](#page_288)).
+[286](#page_286)-[288](#page_288).md).
 
 As to Sivrouka and his surroundings, neither biographical dictionaries
 nor encyclopædias were able to furnish me the least hint on this
@@ -757,7 +757,7 @@ De Marlès is not of the highest order. This author is held in slight
 esteem in well-informed circles, as may be seen from the following
 passage in a letter of M. Barth, which merely expresses, in a vigorous
 and lively manner, an opinion which other specialists have
-confirmed: <span id="fr_21"></span>[\*](#fn_21)
+confirmed: <span id="fr_21"></span>[\*](#fn_21.md)
 
 "It is through a letter of M. Flournoy that I learn that there has
 existed since 1828 in Paris, printed in Roman characters, a history of
@@ -769,7 +769,7 @@ yesterday at the library of the Institute. It would have been impossible
 to have done worse, even in 1828. But sometimes we find pearls in a
 dung-hill, and perhaps this Sivrouka Nayaka is one of them.
 Unfortunately, the author gives no hint as to the
-[sources](errata.htm#5) of his information; and later, in his fourth
+[sources](errata.htm#5.md) of his information; and later, in his fourth
 volume, in which he narrates the history of the twelfth to the sixteenth
 centuries,
 
@@ -811,19 +811,19 @@ Vivien de Saint-Martin—*i.e.*, a Tchandraguiri, situated in South
 Kanara, and in the citadel of which a hitherto unknown inscription has
 been discovered which must date back to the time of King Harihara II.,
 of Vijayanagara, who reigned at the beginning of the fifteenth
-century. <span id="fr_22"></span>[\*](#fn_22) Here is something
+century. <span id="fr_22"></span>[\*](#fn_22.md) Here is something
 approaching the somnambulistic revelations of Mlle. Smith. While
 awaiting their definite confirmation by new archæological discoveries,
 traces of Sivrouka may be sought for in the earlier works upon which De
 Marlès must have drawn. Unfortunately these works are not easy to find,
 and are inconvenient to consult. Professor Michel, of the University of
 Liège, has had the kindness to run through those of Buchanan <span
-id="fr_23"></span>[†](#fn_23) and of Rennell <span
-id="fr_24"></span>[‡](#fn_24) but without result.
+id="fr_23"></span>[†](#fn_23.md) and of Rennell <span
+id="fr_24"></span>[‡](#fn_24.md) but without result.
 
 If De Marlès did not invent Sivrouka out of whole cloth, which is hardly
 supposable, it was very probably in the translation of Ferishta by
-Dow, <span id="fr_25"></span>[§](#fn_25) that he
+Dow, <span id="fr_25"></span>[§](#fn_25.md) that he
 
 <span id="page_303">p. 303</span>
 
@@ -895,8 +895,8 @@ absolutely free from error.
 
 In this particular case there are two divergences between De Marlès and
 Leopold: the latter has substituted a *k* for the *c* in Nayaca, and has
-omitted the *n* in Tchandraguiri (compare pp. [286](#page_286) and
-[288](#page_288)). Another mistake, which he immediately corrected,
+omitted the *n* in Tchandraguiri (compare pp. [286](#page_286.md) and
+[288](#page_288).md). Another mistake, which he immediately corrected,
 consisting in dictating first *Kanaraau*, was evidently a confusion such
 as frequently occurs in writing, occasioned by a too rapid passing from
 the word *Kanara* to the information following, and already about to
@@ -1081,9 +1081,9 @@ it the leaf? I think I have a pencil; I am going to try to make this
 sketch. . . ."
 
 After the usual struggle between the two methods of holding the pencil
-(see pp. [100](ipm06.htm#page_100)-[102](ipm06.htm#page_102)), she
+(see pp. [100](ipm06.htm#page_100)-[102](ipm06.htm#page_102).md), she
 yields to Leopold's manner of holding it, saying, "So much the worse";
-then traces, slowly and with great care, [Fig. 35](#img_fig35), from
+then traces, slowly and with great care, [Fig. 35](#img_fig35.md), from
 left to right, often raising her eyes to her imaginary model, as if
 copying a drawing. After
 
@@ -1113,7 +1113,7 @@ more
 
 <span id="img_fig35"></span> <span align="CENTER"> [![Fig.
 35](tn/fig35.jpg)  
-Click to enlarge](img/fig35.jpg)  
+Click to enlarge](img/fig35.jpg.md)  
   
 </span>
 
@@ -1195,7 +1195,7 @@ them:
  
 
 1\. The two words, **atiêyâ ganapatinâmâ**, which inaugurated the Hindoo
-language on the 6th of March, 1895 (see [p. 282](#page_282)), and which
+language on the 6th of March, 1895 (see [p. 282](#page_282).md), and which
 were invested at that moment, in the mouth of Simandini, with the
 evident meaning of a formula of salutation or of benediction, addressed
 to her late husband, inopportunely returned, were articulated in a
@@ -1397,7 +1397,7 @@ notice my actual words). It seems that this conversation contained some
 expression of anxiety in regard to my health, which had inspired several
 somnambulisms of Mlle. Smith during the preceding months (an example
 will be found on pp.
-[121](ipm06.htm#page_121)-[122](ipm06.htm#page_122)).
+[121](ipm06.htm#page_121)-[122](ipm06.htm#page_122).md).
 
 At the same time at which she attentively examines
 
@@ -1495,7 +1495,7 @@ sometimes
 <span id="page_325">p. 325</span>
 
 in auditive hallucinations, sometimes in her writings (see, *e.g.*,
-[Fig. 37](#img_fig37), [p. 333](#page_333)); sometimes, again, in the
+[Fig. 37](#img_fig37), [p. 333](#page_333).md); sometimes, again, in the
 course of words uttered in hemisomnambulism more or less marked. The
 list which has been collected of these detached terms shows the same
 mixture of pure Sanscrit and unknown words, which can only be connected
@@ -1513,7 +1513,7 @@ There must be added to these examples certain Hindoo words which have
 made irruptions into some Martian texts.
 
 These are *Adel*, a proper name, and *yestad*, "unknown," in [text
-13](ipm08.htm#an_text13); and (in [text 31](ipm08.htm#an_text31))
+13](ipm08.htm#an_text13); and (in [text 31](ipm08.htm#an_text31).md)
 *vadasa*, which, according to the rest of the sentence, seems to
 designate some divinities or some powers, and in which MM. de Saussure
 and Glardon suspect a mangled reminiscence of the Sanscrit term
@@ -1537,7 +1537,7 @@ the different hearers. I will confine myself to two versions.
 
 <span id="img_fig36"></span> <span align="CENTER"> [![Fig.
 36](tn/fig36.jpg)  
-Click to enlarge](img/fig36.jpg)  
+Click to enlarge](img/fig36.jpg.md)  
   
 </span>
 
@@ -1575,7 +1575,7 @@ gâya patisi. . . .**"
 It was towards the end of this same seance that Leopold, undoubtedly
 with the idea of doing honor to the distinguished presence of M. de
 Saussure, decided, after a scene of Martian translation ([text
-14](ipm08.htm#an_text14), by Esenale), to give us, in Hélène's voice,
+14](ipm08.htm#an_text14), by Esenale.md), to give us, in Hélène's voice,
 his interpretation of the Hindoo chant, which follows, *verbatim*, with
 its mixture of Sanscrit words: "Sing, bird, let us sing! **Gaya!** Adèl,
 Sivrouka, sing of the spring-time! Day and night I am happy! Let us
@@ -1601,7 +1601,7 @@ might be suspected in
 
 As to the melody of this plaintive ditty, M. Aug. de Morsier, who heard
 it at the seance of the 4th of September, 1898, has kindly noted it as
-exactly as possible (see [Fig. 36](#img_fig36)).
+exactly as possible (see [Fig. 36](#img_fig36).md).
 
 The preceding examples suffice to give an idea of Hélène's Hindoo, and
 it is time to conclude.
@@ -1755,7 +1755,7 @@ the seances has Simandini
 
 <span id="img_fig37"></span> <span align="CENTER"> [![Fig.
 37.](tn/fig37.jpg)  
-Click to enlarge](img/fig37.jpg)  
+Click to enlarge](img/fig37.jpg.md)  
   
 </span>
 
@@ -1770,7 +1770,7 @@ Click to enlarge](img/fig37.jpg)
 <span id="page_334">p. 334</span>
 
 ventured to *write* Sanscrit, and it is in French letters that her name
-was given (see [p. 288](#page_288)).
+was given (see [p. 288](#page_288).md).
 
 Still, Hélène subconsciously possesses a part, at least, of the
 Devanagari alphabet, since sometimes certain characters belonging to it
@@ -1783,7 +1783,7 @@ to that which has been seen in the case of the Martian) is connected
 with an access of spontaneous somnambulism and makes part of a whole
 troop of images and of Oriental terms.
 
-An interesting example is found in [Fig. 37](#img_fig37), which
+An interesting example is found in [Fig. 37](#img_fig37.md), which
 reproduces the end of a letter which Hélène wrote me from the country.
 All the rest of this six-page letter is perfectly normal, both as to
 handwriting and content, but suddenly, tired by her effort of prolonged
@@ -1793,7 +1793,7 @@ the last lines show the invasion of the Oriental dream.
 Kana, the slave, with his tame birds, and the brilliant plants of the
 tropics, substitute themselves little by little for the actual room. The
 letter reached me unfinished and without signature, as is shown in [Fig.
-37](#img_fig37); Hélène closed it mechanically during her somnambulism,
+37](#img_fig37.md); Hélène closed it mechanically during her somnambulism,
 without knowledge of this unusual termination, at which she was
 surprised and annoyed when I showed it to her later.
 
@@ -1834,7 +1834,7 @@ in
 
 <span id="img_fig38"></span> <span align="CENTER"> [![Fig.
 38](tn/fig38.jpg)  
-Click to enlarge](img/fig38.jpg)  
+Click to enlarge](img/fig38.jpg.md)  
   
 </span>
 
@@ -1907,7 +1907,7 @@ choose.
 First. From the point of view of psychopathology I should be tempted to
 cause this entire somnambulistic romance to be included in that which
 Freud calls *Abwehrpsychosen*, resulting from a sort of
-[autonomy](errata.htm#6) which frees the normal self from an affective
+[autonomy](errata.htm#6.md) which frees the normal self from an affective
 idea incompatible with it; which idea revenges itself by occasioning
 very diverse perturbations, according to the subjects, from disorders of
 innervation, coming to disturb the daily life (hysteria by somatic
@@ -1967,7 +1967,7 @@ this hypothesis of a contingent and superficial confusion between M. F.
 and Sivrouka. First, the Hindoo dream was evidently begun by a
 characteristic vision in which Simandini appeared, almost two months
 before the admission of M. F. to the seances (see pp.
-[279](#page_279)-[281](#page_281)). Instead of supposing that the
+[279](#page_279)-[281](#page_281).md). Instead of supposing that the
 subconsciousness of Mlle. Smith foresaw already the probable arrival of
 this new spectator, and reserved for him in advance a leading rôle in
 the romance of former existence which she was in process of elaborating
@@ -2006,24 +2006,24 @@ poor Princess Simandini.
 
 ### Footnotes
 
-<span id="fn_21"></span>[300:\*](ipm10.htm#fr_21) De Marlès’ *General
+<span id="fn_21"></span>[300:\*](ipm10.htm#fr_21.md) De Marlès’ *General
 History of India, Ancient and Modern. from the Year 2000 B.C. to our Own
 Time*s. Pp. 268-269. Paris, 1828.
 
-<span id="fn_22"></span>[302:\*](ipm10.htm#fr_22) Robert Sewell. *Lists
+<span id="fn_22"></span>[302:\*](ipm10.htm#fr_22.md) Robert Sewell. *Lists
 of Antiquarian Remains in the Presidency of Madras*. Vol i. p. 238
 (1882.) Citation by M. Barth. I have not been able to consult this work.
 
-<span id="fn_23"></span>[302:†](ipm10.htm#fr_23) Buchanan. *A Journey
+<span id="fn_23"></span>[302:†](ipm10.htm#fr_23.md) Buchanan. *A Journey
 from Madras through the Countries of Mysore, Canara, and Malabar*, etc.
 3 vols. 4to. London, 1807.
 
-<span id="fn_24"></span>[302:‡](ipm10.htm#fr_24) James Rennell.
+<span id="fn_24"></span>[302:‡](ipm10.htm#fr_24.md) James Rennell.
 *Description Historique et Géographique de l’Indostan*. Translated from
 the English. Paris, an. <span class="smallcaps">viii</span>. (5800). 3
 vols., 8vo and atlas 4to.
 
-<span id="fn_25"></span>[302:§](ipm10.htm#fr_25) Dow. *History of
+<span id="fn_25"></span>[302:§](ipm10.htm#fr_25.md) Dow. *History of
 Hindustan*. Translated from the Persian of Ferishta. London, 1803. M.
 Michel suggests Wilks's *Historical Sketches of the South of India*
 (London, 1810) as having possibly served as a source of information for
@@ -2034,4 +2034,4 @@ me.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Royal Cycle](ipm11)
+[Next: Chapter IX. The Royal Cycle](ipm11.md)

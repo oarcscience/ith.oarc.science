@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml15)  [Next](yml17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml15)  [Next](yml17.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ caught them. To this day, no one knows where they are.
 
 ------------------------------------------------------------------------
 
-[Next: The Walking Stone](yml17)
+[Next: The Walking Stone](yml17.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd12)  [Next](smd14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd12)  [Next](smd14.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ dreary winter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. December--The Tenth Month](smd14)
+[Next: Chapter XII. December--The Tenth Month](smd14.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Archimedes](../index)  [Index](index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Archimedes](../index)  [Index](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ prove that,
 <span id="page_521">p. 521</span>
 
 of the numbers named in the *Principles*, <span
-id="fr_0"></span>[1](#fn_0) some exceed in multitude the number of the
+id="fr_0"></span>[1](#fn_0.md) some exceed in multitude the number of the
 sand which is equal in magnitude to the sphere referred to, provided
 that the following assumptions be made."
 
@@ -208,7 +208,7 @@ right angles,
 *OF* = *OQ*, but *EQ* &lt; *CF* (since *EO* &lt; *CO*).
 
 Therefore ∠ *OEQ* : ∠ *OCF* &gt; *CO* : *EO*,  
-but &lt; *CF* : *EQ*. <span id="fr_1"></span>[1](#fn_1)
+but &lt; *CF* : *EQ*. <span id="fr_1"></span>[1](#fn_1.md)
 
 Doubling the angles,
 
@@ -383,7 +383,7 @@ distant from A<sub>1</sub>.
 
 #### APPLICATION TO THE NUMBER OF THE SAND
 
-By Assumption 5 \[[p. 523](#page_523)\],
+By Assumption 5 \[[p. 523](#page_523.md)\],
 
 (diam. of poppy-seed) ≮ (finger-breadth);
 
@@ -447,7 +447,7 @@ diameter may be arrived at as follows.
 
 </div>
 
-But, by the proposition above \[[p. 523](#page_523)\],
+But, by the proposition above \[[p. 523](#page_523.md)\],
 
 (diameter of "universe") &lt; 10,000,000,000 stadia.
 
@@ -464,7 +464,7 @@ For, by hypothesis,
 
 (earth) : ("universe") = ("universe") : (sphere of fixed stars).
 
-And \[[p. 523](#page_523)\]
+And \[[p. 523](#page_523.md)\]
 
 (diameter of "universe") &lt; 10,000 (diam. of earth);
 
@@ -502,9 +502,9 @@ consideration."
 
 ### Footnotes
 
-<span id="fn_0"></span>[521:1](#fr_0) A lost work of Archimedes.
+<span id="fn_0"></span>[521:1](#fr_0.md) A lost work of Archimedes.
 
-<span id="fn_1"></span>[523:1](#fr_1) The proposition here assumed is of
+<span id="fn_1"></span>[523:1](#fr_1.md) The proposition here assumed is of
 course equivalent to the trigonometrical formula which states that, if
 α, β are the circular measures of two angles, each less than a right
 angle, of which α is the greater, then

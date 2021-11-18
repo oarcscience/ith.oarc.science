@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale21)  [Next](tale23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale21)  [Next](tale23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ trunk round the stem of my tree, and with
 <span id="img_18300"></span>
 
 [![SINDAD LEFT BY THE ELEPHANTS IN THEIR BURIAL PLACE](tn/18300.jpg)  
-Click to enlarge](img/18300.jpg)  
+Click to enlarge](img/18300.jpg.md)  
 SINDAD LEFT BY THE ELEPHANTS IN THEIR BURIAL PLACE  
 
 one mighty effort tore it up by the roots, bringing me to the ground
@@ -237,4 +237,4 @@ remember Sindbad the Sailor.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Hunchback](tale23)
+[Next: The Little Hunchback](tale23.md)

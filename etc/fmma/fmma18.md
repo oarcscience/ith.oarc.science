@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma17)  [Next](fmma19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma17)  [Next](fmma19.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ of the Romans," until the year 1806, when Francis II resigned it.
 
 ------------------------------------------------------------------------
 
-[Next: Canute The Great. King From 1014-1035](fmma19)
+[Next: Canute The Great. King From 1014-1035](fmma19.md)

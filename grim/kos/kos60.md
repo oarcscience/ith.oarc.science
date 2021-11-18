@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos59)  [Next](kos61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos59)  [Next](kos61.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ Edingburgh University Press
 
 ------------------------------------------------------------------------
 
-[Next: Plate XV. The Mystical Alphabets](kos61)
+[Next: Plate XV. The Mystical Alphabets](kos61.md)

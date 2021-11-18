@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal004)  [Next](njal006) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal004)  [Next](njal006.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ the Baltic, commonly called in English, the Sound.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Hrut Sails Out To Iceland](njal006)
+[Next: 6. Hrut Sails Out To Iceland](njal006.md)

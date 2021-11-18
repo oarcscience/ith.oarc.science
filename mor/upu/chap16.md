@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap15) [Next](chap17)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap15) [Next](chap17.md)
 
 ------------------------------------------------------------------------
 
@@ -419,4 +419,4 @@ has been rewarded by the Church's assistance in looting the nation.
 
 ------------------------------------------------------------------------
 
-[Next: XVII The New Polygamy](chap17)
+[Next: XVII The New Polygamy](chap17.md)

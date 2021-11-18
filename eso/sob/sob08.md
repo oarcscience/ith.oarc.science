@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob07) 
-[Next](sob09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob07.md) 
+[Next](sob09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -37,9 +37,9 @@ turned upward, the back of the box being formed by the spinal column,
 the front by the breastbone and the sides by the ribs.
 
 The ribs are twenty-four in number, twelve on each side, and emerge from
-each side of the spinal column. [The](errata.htm#5) upper seven pairs
+each side of the spinal column. [The](errata.htm#5.md) upper seven pairs
 are known as "true ribs," being fastened to the
-[breastbone](errata.htm#6) direct, while the lower five pairs are called
+[breastbone](errata.htm#6.md) direct, while the lower five pairs are called
 (false ribs) or "floating ribs," because they are not so fastened, the
 upper two of them being fastened to the breastbone direct, while the
 lower five having no cartilages, their forward ends being free.
@@ -109,7 +109,7 @@ described in a preceding chapter.
 
 If the student has any doubts about what has been said regarding this
 form of breathing, let him try the experiment of expelling all the air
-from his lungs, then standing [erect](errata.htm#7), with hands at
+from his lungs, then standing [erect](errata.htm#7.md), with hands at
 sides, let him raise the shoulders and collar-bone and inhale. He will
 find that the amount of air inhaled far below normal. Then let him
 inhale a full breath, after dropping the shoulders and collar-bone, and
@@ -136,7 +136,7 @@ call your attention to its shortcomings.
 This form of respiration is far better than either of the two preceding
 forms, and of recent years many Western writers have extolled its
 merits, and have exploited it under the names of "Abdominal Breathing,"
-"Deep Breathing," [Diaphragmatic](errata.htm#8) Breathing," etc., etc.,
+"Deep Breathing," [Diaphragmatic](errata.htm#8.md) Breathing," etc., etc.,
 and much good has been accomplished by the attention of the public
 having been directed to the subject, and many having been induced to
 substitute it for the inferior and injurious methods above alluded to.
@@ -203,7 +203,7 @@ directions and every part of the machinery performs its natural work and
 functions.
 
 One of the most important features of this method of breathing, is the
-fact that the respiratory muscles are fully [called](errata.htm#9) into
+fact that the respiratory muscles are fully [called](errata.htm#9.md) into
 play, whereas in the other forms of breathing only a portion of these
 muscles are so used. In Complete Breathing, among other muscles, those
 controlling the ribs are actively used, which increases the space in
@@ -231,8 +231,8 @@ If you have studied the special features of the four given methods of
 breathing, you will at once see that the Complete Breath comprises all
 the advantageous features of the three other methods, plus the
 reciprocal advantages accruing from the combined action of the
-high-chest, mid-chest, and [diaphragmatic](errata.htm#10) regions, and
-the normal [rhythmn](errata.htm#11) thus obtained.
+high-chest, mid-chest, and [diaphragmatic](errata.htm#10.md) regions, and
+the normal [rhythmn](errata.htm#11.md) thus obtained.
 
 In our next chapter, we will take up the Complete Breath in practice,
 and will give full directions for the acquirement of this superior
@@ -240,4 +240,4 @@ method of breathing, with exercises, etc.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. How to Acquire the Yogi Complete Breath](sob09)
+[Next: Chapter VIII. How to Acquire the Yogi Complete Breath](sob09.md)

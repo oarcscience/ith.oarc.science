@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas27)  [Next](sas29)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas27)  [Next](sas29.md)  
 
 ------------------------------------------------------------------------
 
@@ -955,4 +955,4 @@ expurgation there revealed.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Twenty-nine: Kundalini Shakta (Yoga)](sas29)
+Next: [Chapter Twenty-nine: Kundalini Shakta (Yoga)](sas29.md)

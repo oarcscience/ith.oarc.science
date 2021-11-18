@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap03) [Next](chap05)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap03) [Next](chap05.md)
 
 ------------------------------------------------------------------------
 
@@ -396,4 +396,4 @@ Adam.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](chap05)
+[Next: Chapter 5](chap05.md)

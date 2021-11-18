@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd06)  [Next](odd08) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd06)  [Next](odd08.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,14 +9,14 @@
 
 <span id="img_10"></span> ![](img/10.jpg)
 
-SIU RAJAH,  <span id="fr_29"></span>[1](#fn_29) who reigned long years
-ago in the country of Agrabrum,  <span id="fr_30"></span>[2](#fn_30) had
+SIU RAJAH,  <span id="fr_29"></span>[1](#fn_29.md) who reigned long years
+ago in the country of Agrabrum,  <span id="fr_30"></span>[2](#fn_30.md) had
 an only son to whom he was passionately attached. The Prince, whose name
 was Logedas, was young and handsome, and had married the beautiful
 Princess, Parbuttee Bai.
 
 Now it came to pass that Siu Rajah's Wuzeer bad a daughter called
-Seventee  <span id="fr_31"></span>[3](#fn_31) Bai \[the Daisy Lady\] who
+Seventee  <span id="fr_31"></span>[3](#fn_31.md) Bai \[the Daisy Lady\] who
 was as fair as the morning. And beloved by all for her gentleness and
 goodness; and when Logedas Rajah saw her, he fell in love with her, and
 determined to marry her. But when Sui Rajah heard of this, he was very
@@ -533,18 +533,18 @@ after. And so may all who read this story live happily too!
 
 ### Footnotes
 
-<span id="fn_29"></span>[1](odd07.htm#fr_29) Or Singh Rajah, the Lion
+<span id="fn_29"></span>[1](odd07.htm#fr_29.md) Or Singh Rajah, the Lion
 King.
 
-<span id="fn_30"></span>[2](odd07.htm#fr_30) I am indebted to Sir
+<span id="fn_30"></span>[2](odd07.htm#fr_30.md) I am indebted to Sir
 Charles Trevelyan for pointing out that this is undoubtedly no other
 than 'Agrabham', the 'Land' or 'District' of Agra; as Bebhum, the Land
 of Heaven; jonam-bhum, the land of one's birth; Virabhum, Manbhum, and
 any others.
 
-<span id="fn_31"></span>[3](odd07.htm#fr_31) 'Chrysanthemum indicum.'
+<span id="fn_31"></span>[3](odd07.htm#fr_31.md) 'Chrysanthemum indicum.'
 Commonly called 'Christmas Daiy' in Bombay.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Truth's Triumph](odd08)
+[Next: IV. Truth's Triumph](odd08.md)

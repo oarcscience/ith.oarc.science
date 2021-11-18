@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar56)  [Next](gar58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar56)  [Next](gar58.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ been published gathered from regions the most widely separated. Their
 history is indeed full of interest but likewise of obscurity; "res alta
 nocte et caligine mersae." Many of them are traditional, and go back to
 the highest antiquity, being found on Phœnician <span
-id="fr_226"></span>[\*](#fn_224) and Greek buildings (as well as on
+id="fr_226"></span>[\*](#fn_224.md) and Greek buildings (as well as on
 vases and coins of the earliest times), and in still larger abundance
 and variety in all mediæval architecture. These marks were in the
 beginning religious symbols, many of them being identical with the
@@ -32,13 +32,13 @@ significance explains also their occurrence on Celtic monuments, as on
 the Stonehenge lintel, and the Newton Stone, Aberdeen, and so numerously
 on the Gallic coins; but they have for centuries, further back than can
 be traced, degenerated into the mere signatures of illiterate
-mechanics. <span id="fr_227"></span>[†](#fn_225) To illustrate this
+mechanics. <span id="fr_227"></span>[†](#fn_225.md) To illustrate this
 curious point, I shall adduce a
 
 <span id="page_387">p. 387</span>
 
 few of the most remarkable examples of lapidary symbolism, <span
-id="fr_228"></span>[\*](#fn_226) giving, as in duty bound, precedence to
+id="fr_228"></span>[\*](#fn_226.md) giving, as in duty bound, precedence to
 the late discovery at Stonehenge. The mark is cut upon the fallen impost
 lying across the supposed altar. It is nine inches long and clearly
 defined, and may be described as a semicircle of which the diameter
@@ -53,7 +53,7 @@ be concealed that our fashionable scepticism has impugned the reality of
 even this most venerable "handwriting on the wall." Dr. Thurman has
 hunted up three credible witnesses ready to make affidavit that they saw
 with their own eyes a certain stranger cut the sigil. <span
-id="fr_229"></span>[†](#fn_227) But inasmuch as it would be equally
+id="fr_229"></span>[†](#fn_227.md) But inasmuch as it would be equally
 facile, by means of *leading questions* dexterously put, to obtain the
 testimony of the same number of "bucolical juveniles" that they were
 present at the erection of Stonehenge itself, the genuineness of the
@@ -66,7 +66,7 @@ been published in the Archaeological Journal.
 But to proceed to actual Caste-marks. We find a casual allusion to their
 use in ancient writers, who state that the badges distinguishing the
 three orders of the Egyptian priest--xix. p. 78. <span
-id="fr_230"></span>[‡](#fn_228)
+id="fr_230"></span>[‡](#fn_228.md)
 
 <span id="page_388">p. 388</span>
 
@@ -86,7 +86,7 @@ and Brahma (the latter god having *five* heads) became, later, the
 famous "Solomon's Seal." This appellation it must have got in early
 times, as in virtue thereof it is sculptured along with the
 seven-branched candlestick upon Sivish tombs dating from the Lower
-Empire. <span id="fr_231"></span>[\*](#fn_229) The Hindoos still
+Empire. <span id="fr_231"></span>[\*](#fn_229.md) The Hindoos still
 venerate the figure as replete with virtue. Similarly the *Sherkun* is
 engraved on a large scale upon each side of the gate of the Fort at
 Agra, although the building is of Mohammedan work.
@@ -95,13 +95,13 @@ A point, *Puru*, is the Deity; self existing. A circle, *Brahm*,
 eternity. Hence a triangle within a circle is the emblem of Trinity in
 Unity; and the circle inscribed within a triangle the converse.
 
-Worshippers of [*Sacti*](errata.htm#24), the Female Principle, mark
+Worshippers of [*Sacti*](errata.htm#24.md), the Female Principle, mark
 their sacred vase with a right angle bisected by a line; and similarly
 the worshippers of Isis used so to mark the vessel necessary at her
 rites. But the Vishnaivas have for the same object a symbol of wondrous
 vitality and diffusion: for it is seen equally on Greek coins and vases,
 on the Newton Stone, Aberdeen, in ecclesiastical sculpture, where it
-takes the name "[Tetragrammaton](errata.htm#25),"
+takes the name "[Tetragrammaton](errata.htm#25.md),"
 
 <span id="page_389">p. 389</span>
 
@@ -129,7 +129,7 @@ Indo-Germanic race penetrated, was due to the same feeling that renders
 it still so respected in the land of its origin, its power as a talisman
 to protect all places where the figure is painted up. The exclamation
 "Swastika" the Hindoos still employ as a mode of assent, synonymous with
-"Amen," "So be it." <span id="fr_232"></span>[\*](#fn_230) As the symbol
+"Amen," "So be it." <span id="fr_232"></span>[\*](#fn_230.md) As the symbol
 of Resignation the Mark forms the distinctive badge of an ascetic. When
 a man desires to become a *Bandya* (Buddhist monk) the rites required
 for his initiation occupy three days, foremost amongst which the
@@ -156,7 +156,7 @@ denote their respective deities: others of truly Masonic aspect, are the
 wheel, crescent, heart, *vesica piscis*, all variously modified to
 express ritualistic differences. That the Gnostics borrowed many of
 these symbols directly from Buddhism, <span
-id="fr_233"></span>[\*](#fn_231) adding them to their old stock of
+id="fr_233"></span>[\*](#fn_231.md) adding them to their old stock of
 Egyptian devices, is apparent upon the inspection of any large
 collection of Abraxas gems. The lingering influence of this importation
 continually peep out where least to be expected. In the finest known MS.
@@ -192,7 +192,7 @@ combined, by two interlaced circles, <span id="img_39100"></span>
 
 ### Footnotes
 
-<span id="fn_224"></span>[386:\*](gar57.htm#fr_226) A most interesting
+<span id="fn_224"></span>[386:\*](gar57.htm#fr_226.md) A most interesting
 example is the stone in the second course of the Temple Wall, S.E.
 Jerusalem, discovered Jan. 1869 It bears two marks, deeply cut, <span
 id="img_38600"></span> ![](img/38600.jpg) and <span
@@ -206,11 +206,11 @@ fact of its being cut through ten feet of rubbish thrown from above
 proves it to have been done long *after* the city was inhabited, and
 therefore the work of Agrippa.
 
-<span id="fn_225"></span>[386:†](gar57.htm#fr_227) Who have introduced a
+<span id="fn_225"></span>[386:†](gar57.htm#fr_227.md) Who have introduced a
 refinement upon the old system, viz., the necessity of every mark
 terminating in an odd number of ends.
 
-<span id="fn_226"></span>[387:\*](gar57.htm#fr_228) Regular Masons’
+<span id="fn_226"></span>[387:\*](gar57.htm#fr_228.md) Regular Masons’
 marks are visible upon the great hewn stones of the Buddhist buildings
 at Sarnath, which are known to have been erected before the sixth
 century; and more of the same kind are found on the ruined buildings of
@@ -218,10 +218,10 @@ the same religion still to be traced incorporated into the Brahminical
 edifices within the neighbouring Benares. Sherring, 'Sacred City of the
 Hindus.'
 
-<span id="fn_227"></span>[387:†](gar57.htm#fr_229) It must be remembered
+<span id="fn_227"></span>[387:†](gar57.htm#fr_229.md) It must be remembered
 the stone is so hardened by weathering as to turn the best chisel!
 
-<span id="fn_228"></span>[387:‡](gar57.htm#fr_230) Lists of Masons’
+<span id="fn_228"></span>[387:‡](gar57.htm#fr_230.md) Lists of Masons’
 marks have been published in the following works: Archæologia (1845),
 for Scotland, by Prof. Chalmers; Marks <span id="page_388">p. 388</span>
 at Brechin, and signatures to St. Ninian's Roll, coming down to the date
@@ -234,16 +234,16 @@ curious of all are those given by Ouseley ('Travels,' pl. 82), as
 Old Palace (a Mohammedan building) of Saaditalat, near Ispahan; which
 nevertheless have a striking resemblance to the European class.
 
-<span id="fn_229"></span>[388:\*](gar57.htm#fr_231) Numerous examples
+<span id="fn_229"></span>[388:\*](gar57.htm#fr_231.md) Numerous examples
 may be seen in their catacomb at Rome, lately discovered.
 
-<span id="fn_230"></span>[389:\*](gar57.htm#fr_232) Or, to speak
+<span id="fn_230"></span>[389:\*](gar57.htm#fr_232.md) Or, to speak
 masonically, So mote it be!"
 
-<span id="fn_231"></span>[390:\*](gar57.htm#fr_233) Scythicus, the
+<span id="fn_231"></span>[390:\*](gar57.htm#fr_233.md) Scythicus, the
 preceptor of Manes, is actually declared by Epiphanius to have picked up
 his novel ideas during his visits to India as a trader from Alexandria.
 
 ------------------------------------------------------------------------
 
-[Next: Origin of Modern Freemasonry](gar58)
+[Next: Origin of Modern Freemasonry](gar58.md)

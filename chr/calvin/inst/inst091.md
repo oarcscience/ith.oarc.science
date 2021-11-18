@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst090)  [Next](inst092) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst090)  [Next](inst092.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,18 +105,18 @@ first, tribunals which might take cognisance of morals, animadvert on
 vices, and exercise the office of the keys. This order is mentioned by
 Paul in the First Epistle to the Corinthians under the name of
 governments (<span id="iv.iv.xii-p20.1"></span>[1 Cor.
-12:28](../../../bib/kjv/co1012.htm#028)<span
+12:28](../../../bib/kjv/co1012.htm#028.md)<span
 id="iv.iv.xii-p20.1"></span>): in like manner, in the Epistle to the
 Romans, when he says, “He that ruleth with diligence” (<span
 id="iv.iv.xii-p20.2"></span>[Rom.
-12:8](../../../bib/kjv/rom012.htm#008)<span
+12:8](../../../bib/kjv/rom012.htm#008.md)<span
 id="iv.iv.xii-p20.2"></span>). For he is not addressing magistrates,
 none of whom were then Christians, but those who were joined with
 pastors in the spiritual government of the Church. In the Epistle to
 Timothy, also, he mentions two kinds of presbyters, some who labour in
 the word, and others who do not perform the office of preaching, but
 rule well (<span id="iv.iv.xii-p20.3"></span>[1 Tim.
-5:17](../../../bib/kjv/ti1005.htm#017)<span
+5:17](../../../bib/kjv/ti1005.htm#017.md)<span
 id="iv.iv.xii-p20.3"></span>). By this latter class there is no doubt he
 means those who were appointed to the inspection of manners, and the
 whole use of the keys. For the power of which we speak wholly depends on
@@ -131,9 +131,9 @@ excommunication, solemn admonitions, and everything of that description,
 we must, of necessity, give some jurisdiction to the Church. Let the
 reader observe that we are not here treating of the general authority of
 doctrine, as in <span id="iv.iv.xii-p20.4"></span>[Mt.
-21](../../../bib/kjv/mat021.htm#000)<span id="iv.iv.xii-p20.4"></span>
+21](../../../bib/kjv/mat021.htm#000.md)<span id="iv.iv.xii-p20.4"></span>
 and <span id="iv.iv.xii-p20.5"></span>[John
-20](../../../bib/kjv/joh020.htm#000)<span id="iv.iv.xii-p20.5"></span>,
+20](../../../bib/kjv/joh020.htm#000.md)<span id="iv.iv.xii-p20.5"></span>,
 but maintaining that the right of the Sanhedrim is transferred to the
 fold of Christ. Till that time, the power of government had belonged to
 the Jews. This Christ establishes in his Church, in as far as it was a
@@ -144,18 +144,18 @@ the reader, that Christ in the same words makes a considerable
 difference between the two things, it will here be proper to explain.
 There are two passages which speak of binding and loosing. The one is
 <span id="iv.iv.xii-p20.6"></span>[Mt.
-16](../../../bib/kjv/mat016.htm#000)<span id="iv.iv.xii-p20.6"></span>,
+16](../../../bib/kjv/mat016.htm#000.md)<span id="iv.iv.xii-p20.6"></span>,
 where Christ, after promising that he will give the keys of the kingdom
 of heaven to Peter, immediately adds, “Whatsoever thou shalt bind on
 earth shall be bound in heaven; and whatsoever thou shalt loose on earth
 shall be loosed in heaven” (<span id="iv.iv.xii-p20.7"></span>[Mt.
-16:19](../../../bib/kjv/mat016.htm#019)<span
+16:19](../../../bib/kjv/mat016.htm#019.md)<span
 id="iv.iv.xii-p20.7"></span>). These words have the very same meaning as
 those in the Gospel of John, where, being about to send forth the
 disciples to preach, after breathing on them, he says, “Whose soever
 sins ye remit, they are remitted unto them; and whose soever sins ye
 retain, they are retained” (<span id="iv.iv.xii-p20.8"></span>[John
-20:23](../../../bib/kjv/joh020.htm#023)<span
+20:23](../../../bib/kjv/joh020.htm#023.md)<span
 id="iv.iv.xii-p20.8"></span>). I will give an interpretation, not
 subtle, not forced, not wrested, but genuine, natural, and obvious. This
 command concerning remitting and retaining sins, and that promise made
@@ -209,8 +209,8 @@ heathen man and a publican. Verily I say unto you, Whatsoever ye shall
 bind on earth shall be bound in heaven; and whatsoever ye shall loose on
 earth shall be loosed in heaven” (<span
 id="iv.iv.xii-p21.1"></span>[Matt.
-18:17](../../../bib/kjv/mat018.htm#017),
-[18](../../../bib/kjv/mat018.htm#018)<span
+18:17](../../../bib/kjv/mat018.htm#017.md),
+[18](../../../bib/kjv/mat018.htm#018.md)<span
 id="iv.iv.xii-p21.1"></span>). This passage is not altogether similar to
 the former, but is to be understood somewhat differently. But in saying
 that they are different, I do not mean that there is not much affinity
@@ -322,15 +322,15 @@ two things are to be considered: first, that this spiritual power be
 altogether distinct from the power of the sword; secondly, that it be
 not administered at the will of one individual, but by a lawful
 consistory (<span id="iv.iv.xii-p24.1"></span>[1 Cor.
-5:4](../../../bib/kjv/co1005.htm#004)<span
+5:4](../../../bib/kjv/co1005.htm#004.md)<span
 id="iv.iv.xii-p24.1"></span>). Both were observed in the purer times of
 the Church. For holy bishops did not exercise their power by fine,
 imprisonment, or other civil penalties, but as became them, employed the
 word of God only. For the severest punishment of the Church, and, as it
 were, her last thunderbolt, is excommunication, which is not used unless
-in necessity.56  <span id="fr_581"></span>[582](#fn_581) This, moreover,
+in necessity.56  <span id="fr_581"></span>[582](#fn_581.md) This, moreover,
 requires neither violence nor physical force, but is contented with the
-might of the word of God.  <span id="fr_582"></span>[583](#fn_582) In
+might of the word of God.  <span id="fr_582"></span>[583](#fn_582.md) In
 short, the jurisdiction of the ancient Church was nothing else than (if
 I may so speak) a practical declaration of what Paul teaches concerning
 the spiritual power of pastors. “The weapons of our warfare are not
@@ -339,7 +339,7 @@ casting down imaginations, and every high thing that exalteth itself
 against the knowledge of God, and bringing into captivity every thought
 to the obedience of Christ; and having in a readiness to revenge all
 disobedience” (<span id="iv.iv.xii-p26.1"></span>[2 Cor.
-10:4-6](../../../bib/kjv/co2010.htm#004)<span
+10:4-6](../../../bib/kjv/co2010.htm#004.md)<span
 id="iv.iv.xii-p26.1"></span>). As this is done by the preaching of
 doctrine, so in order that doctrine may not be held in derision, those
 who profess to be of the household of faith ought to be judged according
@@ -350,7 +350,7 @@ moreover, of keeping back from the communion of the Lord’s Supper, those
 who cannot be admitted without profaning this high ordinance. Hence,
 when Paul elsewhere asks, “What have I to do to judge them also that are
 without?” (<span id="iv.iv.xii-p26.2"></span>[1 Cor.
-5:12](../../../bib/kjv/co1005.htm#012)<span
+5:12](../../../bib/kjv/co1005.htm#012.md)<span
 id="iv.iv.xii-p26.2"></span>), he makes the members of the Church
 subject to censures for the correction of their vices, and intimates the
 existence of tribunals from which no believer is exempted.
@@ -376,7 +376,7 @@ done: this has grown obsolete, by whose fault I know not, unless it be
 by the sloth, or rather the pride, of teachers, who would have it seem
 that they only are somewhat” (Ambros. in <span
 id="iv.iv.xii-p27.1"></span>[1 Tim.
-5](../../../bib/kjv/ti1005.htm#000)<span id="iv.iv.xii-p27.1"></span>).
+5](../../../bib/kjv/ti1005.htm#000)<span id="iv.iv.xii-p27.1"></span>.md).
 We see how indignant this holy man was because the better state was in
 some degree impaired, and yet the order which then existed was at least
 tolerable. What, then, had he seen those shapeless ruins which exhibit
@@ -446,13 +446,13 @@ domination and worldly power when he said, “The princes of the Gentiles
 exercise dominion over them, and they that are great exercise authority
 upon them. But it shall not be so among you” (<span
 id="iv.iv.xii-p29.1"></span>[Matt.
-20:25](../../../bib/kjv/mat020.htm#025),
-[26](../../../bib/kjv/mat020.htm#026)<span
+20:25](../../../bib/kjv/mat020.htm#025.md),
+[26](../../../bib/kjv/mat020.htm#026.md)<span
 id="iv.iv.xii-p29.1"></span>). For he intimates not only that the office
 of pastor is distinct from the office of prince, but that the things
 differ so widely that they cannot be united in the same individual.
 Moses indeed held both (<span id="iv.iv.xii-p29.2"></span>[Exod.
-18:16](../../../bib/kjv/exo018.htm#016)<span
+18:16](../../../bib/kjv/exo018.htm#016.md)<span
 id="iv.iv.xii-p29.2"></span>); but, first, this was the effect of a rare
 miracle; and, secondly, it was temporary, until matters should be better
 arranged. For when a certain form is prescribed by the Lord, the civil
@@ -463,7 +463,7 @@ in the Church. Never did any bishop, so long as any true appearance of a
 church remained, think of usurping the right of the sword: so that, in
 the age of Ambrose, it was a common proverb, that emperors longed more
 for the priesthood than priests for imperial power.56  <span
-id="fr_583"></span>[584](#fn_583) For the expression which he afterwards
+id="fr_583"></span>[584](#fn_583.md) For the expression which he afterwards
 adds was fixed in all minds, Palaces belong to the emperor, churches to
 the priest.
 
@@ -488,13 +488,13 @@ curtailed their honour. For what, according to their view, can be more
 insulting than these words, “The kings of the Gentiles exercise
 authority over them”? “But ye shall not be so” (<span
 id="iv.iv.xii-p31.1"></span>[Luke
-22:25](../../../bib/kjv/luk022.htm#025),
-[26](../../../bib/kjv/luk022.htm#026)<span
+22:25](../../../bib/kjv/luk022.htm#025.md),
+[26](../../../bib/kjv/luk022.htm#026.md)<span
 id="iv.iv.xii-p31.1"></span>). And yet he imposes no harder law on his
 servants than he had previously laid on himself. “Who,” says he, “made
 me a judge or divider over you?” (<span
 id="iv.iv.xii-p31.2"></span>[Luke
-12:14](../../../bib/kjv/luk012.htm#014)<span
+12:14](../../../bib/kjv/luk012.htm#014.md)<span
 id="iv.iv.xii-p31.2"></span>) We see that he unreservedly refuses the
 office of judging; and this he would not have done if the thing had been
 in accordance with his office. To the subordination to which the Lord
@@ -545,7 +545,7 @@ conduct, that they were not at all true bishops. Had they had one spark
 of the apostolic spirit, they would doubtless have answered in the words
 of Paul, “The weapons of our warfare are not carnal,” but spiritual
 (<span id="iv.iv.xii-p32.1"></span>[2 Cor.
-10:4](../../../bib/kjv/co2010.htm#004)<span
+10:4](../../../bib/kjv/co2010.htm#004.md)<span
 id="iv.iv.xii-p32.1"></span>). But hurried away by blind cupidity, they
 lost themselves, and posterity, and the Church.
 
@@ -587,7 +587,7 @@ time have no need of being told, that the claim is not only fabulous but
 also absurd. But to say nothing of history, Gregory alone is a fit and
 most complete witness to this effect. For wherever he speaks of the
 emperor he calls him His Most Serene Lord, and himself his unworthy
-servant.57  <span id="fr_584"></span>[585](#fn_584) Again, in another
+servant.57  <span id="fr_584"></span>[585](#fn_584.md) Again, in another
 passage he says, “Let not our Lord in respect of worldly power be too
 soon offended with priests, but with excellent consideration, on account
 of him whose servants they are, let him while ruling them also pay them
@@ -665,7 +665,7 @@ no peril to the safety of the Church ensues; but they are borne blind
 and headlong by a lust for power, thinking that nothing can be safe
 unless they rule, as the prophet says, “with force and with cruelty”
 (<span id="iv.iv.xii-p37.1"></span>[Ezek.
-34:4](../../../bib/kjv/eze034.htm#004)<span
+34:4](../../../bib/kjv/eze034.htm#004.md)<span
 id="iv.iv.xii-p37.1"></span>).
 
 <span id="iv.iv.xii-p38"></span>15. To jurisdiction is annexed the
@@ -740,7 +740,7 @@ the part of pious kings and princes to maintain religion by laws,
 edicts, and sentences. In this way, when the emperor Maurice had
 commanded certain bishops to receive their neighbouring colleagues, who
 had been expelled by the Barbarians, Gregory confirms the order, and
-exhorts them to obey.57  <span id="fr_585"></span>[586](#fn_585) He
+exhorts them to obey.57  <span id="fr_585"></span>[586](#fn_585.md) He
 himself, when admonished by the same emperor to return to a good
 understanding with John, Bishop of Constantinople, endeavours to show
 that he is not to be blamed; but so far from boasting of immunity from
@@ -752,7 +752,7 @@ religious prince, in giving these commands to priests.
 
 ### Footnotes
 
-<span id="fn_581"></span>[582](inst091.htm#fr_581) <span
+<span id="fn_581"></span>[582](inst091.htm#fr_581.md) <span
 id="iv.iv.xii-p24.2"></span>
 
 <span id="iv.iv.xii-p25"></span>68 568 There is nothing repugnant to
@@ -762,7 +762,7 @@ that as the teachers of liberal arts and pursuits, so bishops also were
 often accustomed, in their judicial proceedings, to chastise with the
 rod.
 
-<span id="fn_582"></span>[583](inst091.htm#fr_582) <span
+<span id="fn_582"></span>[583](inst091.htm#fr_582.md) <span
 id="iv.iv.xii-p25.2"></span>
 
 <span id="iv.iv.xii-p26"></span>120 D120 It is truly unfortunate that
@@ -782,20 +782,20 @@ principles of the Reformation and the Gospel, holding fast to freedom of
 conscience, we erect this monument of reconciliation on this 27th of
 October 1903.
 
-<span id="fn_583"></span>[584](inst091.htm#fr_583) <span
+<span id="fn_583"></span>[584](inst091.htm#fr_583.md) <span
 id="iv.iv.xii-p29.3"></span>
 
 <span id="iv.iv.xii-p30"></span>69 569 This is stated by Ambrose, Hom.
 de Basilic. Tradend. See also August. De Fide et Operibus, cap. 4.
 
-<span id="fn_584"></span>[585](inst091.htm#fr_584) <span
+<span id="fn_584"></span>[585](inst091.htm#fr_584.md) <span
 id="iv.iv.xii-p34.1"></span>
 
 <span id="iv.iv.xii-p35"></span>70 570 Gregor. Lib. 2 Ep. 5; Lib. 3 Ep.
 20; Lib. 2 Ep. 61; Lib. 4 <span id="iv.iv.xii-p35.1"></span>Eph. 31:0,
 Eph. 34:0<span id="iv.iv.xii-p35.1"></span>.
 
-<span id="fn_585"></span>[586](inst091.htm#fr_585) <span
+<span id="fn_585"></span>[586](inst091.htm#fr_585.md) <span
 id="iv.iv.xii-p39.1"></span>
 
 <span id="iv.iv.xii-p40"></span>71 571 Lib. 1 Ep. 43; Lib. 4 <span
@@ -806,4 +806,4 @@ id="iv.iv.xii-p40.2"></span>Ep. 39<span id="iv.iv.xii-p40.2"></span>.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 12. - OF THE DISCIPLINE OF THE CHURCH, AND ITS PRINCIPAL
-USE IN CENSURES AND EXCOMMUNICATION.](inst092)
+USE IN CENSURES AND EXCOMMUNICATION.](inst092.md)

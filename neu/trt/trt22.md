@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt21)  [Next](trt23) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt21)  [Next](trt23.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ Graal, and the evil days of Arthur began.
 
 ------------------------------------------------------------------------
 
-[Next: The Fight for the Queen](trt23)
+[Next: The Fight for the Queen](trt23.md)

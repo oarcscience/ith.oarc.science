@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil22)  [Next](seil24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil22)  [Next](seil24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Intangible Textual Heritage
 
 **First Prelude**. The first Prelude is the narrative, which is of three
 pairs of men, and each one of them has acquired ten thousand ducats, not
-solely or as they ought <span id="fr_12"></span>[13](seil83.htm#fn_12)
+solely or as they ought <span id="fr_12"></span>[13](seil83.htm#fn_12.md)
 for God's love, and all want to save themselves and find in peace God
 our Lord, ridding themselves of the weight and hindrance to it which
 they have in the attachment for the thing acquired.
@@ -69,4 +69,4 @@ begs it, if only it be the service and praise of His Divine Goodness.
 
 ------------------------------------------------------------------------
 
-[Next: Fifth Day](seil24)
+[Next: Fifth Day](seil24.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](emec06)  [Next](emec08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](emec06)  [Next](emec08.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 # THE RELIGION UNDER THE ROMANS
 
 <span id="img_86"></span> [![](tn/generic.jpg)  
-Click to view](img/08700.jpg)
+Click to view](img/08700.jpg.md)
 
 Fig. 86.--Horus as the vault of Heaven.
 
@@ -33,7 +33,7 @@ Thebes, or of Neith, the queen of Sais, but by the
 <span id="page_88">p. 88</span>
 
 two arms of Horus, with the head hanging downwards, as the Almighty is
-painted by some of the early Italian masters (see Fig. [86](#img_86)).
+painted by some of the early Italian masters (see Fig. [86](#img_86).md).
 At the same time, either alone, or in his three characters of Horus the
 King, Horus the Scarabeus, and Horus-Ra, he sits in the sacred barge,
 which used to be filled with either Amun-Ra or Kneph-Ra. To Horus, with
@@ -49,12 +49,12 @@ Deuteronomy, who says, chap. xxxiii. 27, "The eternal God is thy refuge,
 and underneath are the everlasting arms."
 
 <span id="img_87"></span> [![](tn/generic.jpg)  
-Click to view](img/08800.jpg)
+Click to view](img/08800.jpg.md)
 
 Fig. 87.
 
 At times he forms one of a trinity in unity, with Ra and Osiris, as in
-Fig. [87](#img_87), a god with the two sceptres of Osiris, the hawk's
+Fig. [87](#img_87.md), a god with the two sceptres of Osiris, the hawk's
 head of Horus, and the sun of Ra. This is the god described to Eusebius,
 who tells us that when the oracle was consulted about the divine nature,
 by those who wished to understand this complicated mythology, it had
@@ -66,18 +66,18 @@ in unity, in name, at least,
 <span id="page_89">p. 89</span>
 
 agreeing with that afterwards adopted by the Christians--namely, the
-Great God, the Son God, and the Spirit God. In Fig. [88](#img_88), the
+Great God, the Son God, and the Spirit God. In Fig. [88](#img_88.md), the
 ugly grotesque human body is that of the great Pthah, the hawk's wings
 are those of the child Horus, and the ram's head is that of Kneph, the
 Spirit. But the favourite character of Horus is that of the Son. Instead
-of being a crowned king, the avenger of his Fig. [88](#img_88). father,
+of being a crowned king, the avenger of his Fig. [88](#img_88.md). father,
 he becomes a young man, or rather a child, with a finger on his mouth,
-as if he had not yet learned to talk, as in Fig. [89](#img_89). He is
+as if he had not yet learned to talk, as in Fig. [89](#img_89.md). He is
 sometimes seated, as a baby, within the leaves of a lotus flower
 representing the rising sun; and even while a baby, holds the sceptres
 of Osiris as judge of the (lead. Among the porcelain images, made to be
 worn as charms, and to be tied round the neck with a string, he is often
-a child in his mother's arms (see Fig. [90](#img_90)).
+a child in his mother's arms (see Fig. [90](#img_90).md).
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
 <colgroup>
@@ -146,7 +146,7 @@ wealthy Romans wore
 <span id="page_91">p. 91</span>
 
 upon their fingers gems engraved with the head of Hor-pi-krot, or Horus
-the child, called by them Harpocrates (see Fig. [91](#img_91)). The
+the child, called by them Harpocrates (see Fig. [91](#img_91).md). The
 Museums of Europe contain many statues of the Egyptian gods made about
 this time by Roman artists, or perhaps by Greek artists in Rome, such as
 Jupiter-Serapis, Diana-Triformis, and Harpocrates. The Emperor Hadrian
@@ -183,4 +183,4 @@ Click to view</a></p>
 
 ------------------------------------------------------------------------
 
-[Next: Christianity Under the Roman Emperors](emec08)
+[Next: Christianity Under the Roman Emperors](emec08.md)

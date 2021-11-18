@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof13)  [Next](otof15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof13)  [Next](otof15.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,7 +193,7 @@ South-west, they saw *nothing* until the Project was transferred to the
 Holloman Air Force Base at Alamogordo, New Mexico.
 
 During the next three months they saw a few but were unable to make
-[satisfactory](errata.htm#28) computations because of the "fireballs'"
+[satisfactory](errata.htm#28.md) computations because of the "fireballs'"
 great speed. Search parties have had no better luck. They have combed in
 vain the countryside beneath the point of disappearance; not a trace of
 telltale substance has been found on the ground!
@@ -201,7 +201,7 @@ telltale substance has been found on the ground!
 Theoreticians in the Air Force believe the "fireballs" are not natural
 phenomena but propelled objects. They bear similarity to the balls of
 fire, called "fireball fighters" or "foo fighters" which flew wing on
-Allied aircraft [over](errata.htm#29) Germany and Japan during 1944-45
+Allied aircraft [over](errata.htm#29.md) Germany and Japan during 1944-45
 and which have *never* been satisfactorily explained. Many of these
 "fireballs" are balls of kelly-green fire, blazing brightly, and race
 across the sky straight as bullets, parallel to the ground. Then they
@@ -224,7 +224,7 @@ S. weapons project and they are not self-destroying Russian
 reconnaissance devices. These "fireballs" are propelled, artificial
 objects. Their color is close to 5,200 angstroms on a spectrum
 chart--close to the green of burning *copper*. Copper is almost never
-found in meteorites; the friction of the air [oxidizes](errata.htm#30)
+found in meteorites; the friction of the air [oxidizes](errata.htm#30.md)
 it shortly after the meteor enters the upper atmosphere. However, a
 curious fact has been recorded by aerologists. Concentrations of copper
 particles are now present in the air of Arizona and New Mexico,
@@ -540,7 +540,7 @@ happen." (G. S. 30:15-16).
 
 When we use the term *Light* in the broader sense, it includes not only
 incandescent light but also light of shorter and longer wavelengths
-which [cannot](errata.htm#31) be picked up by the human eye. Examples
+which [cannot](errata.htm#31.md) be picked up by the human eye. Examples
 would be Infrared, Radio or Hertzian waves; Ultraviolet, X-Rays, Gamma
 Rays, and Secondary Cosmic Rays.
 
@@ -553,7 +553,7 @@ life and Light is a wave phenomenon, the diffraction of Light by the
 crystalline copper gives this "fireball" the qualities of *conscious
 thought*. Therefore, there must be a combination of copper, crystal, and
 Light properties in order to have a sentient "fireball". (See Plate
-XVIII, [p. 302](#page_302)).
+XVIII, [p. 302](#page_302).md).
 
 In reading the Chart on A Conception of Matter, read horizontally from
 left to right. The column on the extreme right indicates a return to the
@@ -585,7 +585,7 @@ therefore "Light waves *are* Thought Incarnate manifesting on and in
 substance". Remember Christ said: "I am the Light of the world!"
 
 In recent years, Lapis Lingua
-([Na<sub>4</sub>-<sub>5</sub>Al<sub>3</sub>Si<sub>3</sub>O<sub>12</sub>S](errata.htm#32)),
+([Na<sub>4</sub>-<sub>5</sub>Al<sub>3</sub>Si<sub>3</sub>O<sub>12</sub>S](errata.htm#32).md),
 has been used to stimulate subjects in telepathic experiments. In the
 Edgar Cayce readings on gems and stones, Lapis Lingua, a corrosive
 product of copper in its natural state, was often mentioned as
@@ -726,7 +726,7 @@ kind. It is believed that this stone was the Lapis Lingua, and that it
 is used not merely for ornamentation but to stimulate the pineal gland
 near the center of the forehead.
 
-All of the foregoing reference to the Lapis [Lingua](errata.htm#33) only
+All of the foregoing reference to the Lapis [Lingua](errata.htm#33.md) only
 shows more clearly the unusual qualities of copper and why it is used in
 crystalline form in the construction of the "fireballs".
 
@@ -811,7 +811,7 @@ Nostradamus possessed one of the few remaining crystal balls originally
 brought here by space visitors and left in temples in ancient Egypt.
 Several of these balls were unearthed near the Great Pyramid but they
 were done away with because they were thought to be of modern date and
-worthless! The great predictions of [Nostradamus](errata.htm#34) came
+worthless! The great predictions of [Nostradamus](errata.htm#34.md) came
 about through his use of a crystal ball from outer space!
 
 Prof. Reichenbach found that crystals radiate yellow light rays at the
@@ -1117,7 +1117,7 @@ shrinking.
 
 Dr. John W. Aldrich, of the U. S. Fish and Wildlife Service, says that
 fish are moving northward. Cod, once unknown in Greenland, is now a
-steady Eskimo dish. Whiting, halibut, king [mackerel](errata.htm#35) and
+steady Eskimo dish. Whiting, halibut, king [mackerel](errata.htm#35.md) and
 haddock are found farther and farther north in the Atlantic. New Jersey
 has sighted tropical flying fish! The tropical-fish hunting grounds of
 the future will be along the New Jersey and Maryland coasts instead of
@@ -1213,7 +1213,7 @@ area of greater warmth--the Sun and its family of twelve planets is
 moving into a region of space where cosmic ray bombardment and intense
 vibrational frequency will cause many drastic changes. Proof of the fact
 of a climate warm-up the world over are the many European avalanches
-during the past few years, and [absence](errata.htm#36) of the ice floes
+during the past few years, and [absence](errata.htm#36.md) of the ice floes
 that usually prevented ships from entering Northern European harbors.
 The government is well-aware of the mysterious change and has secret
 projects at the North Pole investigating all evidence.
@@ -1231,7 +1231,7 @@ by cosmic rays smashing into the atmosphere high above
 
 the Earth. *Unknown* particles or processes must be involved!" Dr.
 Sitte's conclusions were based on studies made in the Summer of 1953 at
-altitudes [of](errata.htm#37) ten-thousand to fourteen-thousand feet in
+altitudes [of](errata.htm#37.md) ten-thousand to fourteen-thousand feet in
 Colorado. Dr. Sitte is now a visiting professor at the University of Sao
 Paulo in Brazil. He has been investigating at Chacaltaya, Brazil,
 eighteen-thousand feet above sea level. He hopes to discover what
@@ -1304,7 +1304,7 @@ Prof. Albert Einstein's new unified field theory entered the picture at
 just the right moment. In brief, it tells us that gravity, electricity,
 and magnetism are all one and the same thing. As the Nineteenth Century
 drew to a close, scientists felt that they had built a perfect picture
-of the Universe on the basis of Sir [Isaac](errata.htm#38) Newton's law
+of the Universe on the basis of Sir [Isaac](errata.htm#38.md) Newton's law
 of gravitation. This was a mechanistic universe, set in a framework of
 *absolute* space and *absolute* time, in which the law of cause and
 effect operated without exception.
@@ -1400,7 +1400,7 @@ Cosmos as a Son of God and a potential god himself!
 In *The Saucers Speak!* mention was made of a Wyoming evangelist who
 claims he has had contact with Saucers for many years. He says they land
 near him, give off horrible stenches of burning
-[sulphur](errata.htm#39), and the occupants are hideous, beastly devils
+[sulphur](errata.htm#39.md), and the occupants are hideous, beastly devils
 with
 
 <span id="page_329">p. 329</span>
@@ -1486,7 +1486,7 @@ dangerous fault zones and other weakened and unbalanced conditions.
 
 *Before* the Ionian Island earthquake disaster, great exploding flashes
 of light were observed in various parts of Europe. The night *before*
-the big [New England](errata.htm#40) hurricane of 1954 there was a
+the big [New England](errata.htm#40.md) hurricane of 1954 there was a
 terrific explosion in Melrose, Massachusetts--cause *unknown*. Enormous
 exploding lights have been observed in the sky all over the world just
 *before* 
@@ -1565,7 +1565,7 @@ lines, the Saucers would undoubtedly have staged an evacuation
 operation. Space intelligences say they will assist in the event of
 major disaster. How much longer the Mediterranean area can stand stress
 and strain on the fault zones is not known, but the Saucers are keeping
-a sharp lookout. (See [Plate II](otof07.htm#img_pl02)).
+a sharp lookout. (See [Plate II](otof07.htm#img_pl02).md).
 
 On May 31, 1954, the Combat Operations Center at McChord Air Force Base,
 Washington, received eight reports of unidentified objects sighted over
@@ -1680,7 +1680,7 @@ Pacific Northwest because of the unstable and dangerous condition of the
 fault lines there.
 
 Many pilots from the Seattle-Tacoma Civilian Airport and pilots from
-McChord Air Force Base have reported [strange](errata.htm#41) UFO's.
+McChord Air Force Base have reported [strange](errata.htm#41.md) UFO's.
 These objects have also appeared on radar in this area. The Derringer
 Power Plant in Summer has had a great deal of difficulty with its power
 operation, and employees from the plant have observed strange flying
@@ -1751,7 +1751,7 @@ and Puyallup--Mount
 
 <span id="page_341">p. 341</span>
 
-\[paragraph continues\] [Rainier](errata.htm#42), where Kenneth Arnold
+\[paragraph continues\] [Rainier](errata.htm#42.md), where Kenneth Arnold
 saw the nine Saucers on Tuesday, June 24, 1947.
 
 There have been sightings near Lancaster, New York that are identical
@@ -2112,7 +2112,7 @@ have been frequently seen.
 
 Strings of moving lights have been observed in Plato and in 1869 thirty
 bright lights appeared on the crater floor all at once. They rapidly
-sorted [themselves](errata.htm#43) into groups--some would blaze
+sorted [themselves](errata.htm#43.md) into groups--some would blaze
 simultaneously, at the same moment other groups faded to a dull glow.
 This continued in a symphony of lights, as if they were all manipulated
 from a master keyboard. This was so sensational that the Royal Society
@@ -2484,7 +2484,7 @@ Needless to say, scientific facts are not going to satisfy Man's deeper
 longings. The important message that should be heralded from the
 housetops is: This is the hour of crisis on the planet Earth, and HELP
 HAS COME FROM OUTER SPACE to usher man into a
-[millennium](errata.htm#44) of peace, health, and abundant joy. Let's
+[millennium](errata.htm#44.md) of peace, health, and abundant joy. Let's
 not worry about the atomic structure of these people bringing the help,
 but let's realize that they are here and they are not going away.
 
@@ -2569,7 +2569,7 @@ them angels." (G. S. 209:1-3).
 
 This means that *the* Goodly Company is composed of those who have
 incarnated on Earth over and over again--in other
-[words](errata.htm#45), *The Wanderers*. The Saucer intelligences or the
+[words](errata.htm#45.md), *The Wanderers*. The Saucer intelligences or the
 Sons of Light are a goodly company, but they have not performed their
 duties through suffering on the Earth planet as the Knights of the Solar
 Cross or Wanderers have done. These latter servants are also
@@ -2610,24 +2610,24 @@ understand with thy heart."
 
 ### Footnotes
 
-<span id="fn_0"></span>[302:\*](otof14.htm#fr_0) <span id="page_303">p.
+<span id="fn_0"></span>[302:\*](otof14.htm#fr_0.md) <span id="page_303">p.
 303</span>The matter itself is above, beyond, and beneath both the
 wavicular and corpuscular (particle) forms.
 
-<span id="fn_1"></span>[302:\*\*](otof14.htm#fr_2) Wavicular means
+<span id="fn_1"></span>[302:\*\*](otof14.htm#fr_2.md) Wavicular means
 Temporal: for the moment; and particle (corpuscular) means the Timeless
 because it deposits, and because the corpuscular content is positive . .
 . it doesn't move.
 
-<span id="fn_2"></span>[302:\*\*\*](otof14.htm#fr_3) This spotlight of
+<span id="fn_2"></span>[302:\*\*\*](otof14.htm#fr_3.md) This spotlight of
 consciousness is a sunlight by itself.
 
-<span id="fn_3"></span>[302:\*\*\*\*](otof14.htm#fr_4) The copper
+<span id="fn_3"></span>[302:\*\*\*\*](otof14.htm#fr_4.md) The copper
 results are related to the field of the multiple dimension.
 
-<span id="fn_4"></span>[302:\*\*\*\*\*](otof14.htm#fr_6) Ideas
+<span id="fn_4"></span>[302:\*\*\*\*\*](otof14.htm#fr_6.md) Ideas
 incorporated from *Beyond Grandeur*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5. The Agents](otof15)
+[Next: Chapter 5. The Agents](otof15.md)

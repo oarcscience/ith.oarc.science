@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](enoc01)  [Next](noa01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](enoc01)  [Next](noa01.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ died and he carried with him his faithful wife in the Ark.
 
 ------------------------------------------------------------------------
 
-[Next: The Ark of Noah and its creation](noa01)
+[Next: The Ark of Noah and its creation](noa01.md)

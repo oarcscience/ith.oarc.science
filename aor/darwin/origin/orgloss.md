@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Darwin](../index)  [Index](index) 
-[Previous](or15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Darwin](../index)  [Index](index.md) 
+[Previous](or15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGUD04/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGUD04/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Origin of Species*, by Charles Darwin, 6th ed. \[1872\], at Intangible
 Textual Heritage
 
@@ -91,7 +91,7 @@ The summits of the stamens of flowers, in which the pollen or
 fertilising dust is produced.
 
 APLACENTALIA, APLACENTATA or Aplacental Mammals.  
-See [MAMMALIA](#MAMMALIA).
+See [MAMMALIA](#MAMMALIA.md).
 
 ARCHETYPAL  
 Of or belonging to the Archetype, or ideal primitive form upon which all
@@ -527,7 +527,7 @@ class, are called Placental mammals; the latter, or Aplacental mammals,
 include the marsupials and monotremes (Ornithorhynchus).
 
 MAMMIFEROUS  
-Having mammae or teats (see [MAMMALIA](#MAMMALIA))
+Having mammae or teats (see [MAMMALIA](#MAMMALIA).md)
 
 MANDIBLES  
 in insects, the first or uppermost pair of jaws, which are generally
@@ -539,7 +539,7 @@ MARSUPIALS
 An order of Mammalia in which the young are born in a very incomplete
 state of development, and carried by the mother, while sucking, in a
 ventral pouch (marsupium), such as the kangaroos, opossums, etc. (see
-[MAMMALIA](#MAMMALIA)).
+[MAMMALIA](#MAMMALIA).md).
 
 MAXILLAE  
 in insects, the second or lower pair of jaws, which are composed of
@@ -663,7 +663,7 @@ Jointed appendages to some of the organs of the mouth in insects and
 Crustacea.
 
 PAPILIONACEAE  
-An order of plants (see [LEGUMINOSAE](#LEGUMINOSAE)), The flowers of
+An order of plants (see [LEGUMINOSAE](#LEGUMINOSAE).md), The flowers of
 these plants are called papilionaceous, or butterfly-like, from the
 fancied resemblance of the expanded superior petals to the wings of a
 butterfly.
@@ -707,7 +707,7 @@ the other floral organs. The pistil is generally divisible into the
 ovary or germen, the style and the stigma.
 
 PLACENTALIA, PLACENTATA, or Placental Mammals  
-See [MAMMALIA](#MAMMALIA).
+See [MAMMALIA](#MAMMALIA.md).
 
 PLANTIGRADES  
 Quadrupeds which walk upon the whole sole of the foot, like the bears.

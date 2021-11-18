@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes23)  [Next](tes25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes23)  [Next](tes25.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ are getting old, and we have no children. Who will take care of us when
 we are still older? Who will bring us food?" So they prayed to God, and
 at last God gave them a daughter. The daughter grew up rapidly to
 womanhood. One day she went berrying. Then Raven-Man <span
-id="fr_30"></span>[1](#fn_30)
+id="fr_30"></span>[1](#fn_30.md)
 
 <span id="page_45">p. 45</span>
 
@@ -25,7 +25,7 @@ said to his father and mother, "Did you never have any other son or
 daughter? I long to have a brother or a sister." They did not tell him.
 "We had none whatever." He walked about in the vicinity, and shot in
 every direction with his blunt arrow. One time his arrow entered the
-house of the old woman, Underskin, <span id="fr_31"></span>[1](#fn_31)
+house of the old woman, Underskin, <span id="fr_31"></span>[1](#fn_31.md)
 through the chimney-hole. He almost cried for fright, still he went in
 to ask for his arrow. The old woman, Underskin, went out to meet him. "O
 you bad boy! Why are you wronging me? I am old and without defence. Why
@@ -53,14 +53,14 @@ may steam our little bones." She prepared the steam bath. They went to
 the bath house. Raven said, "You enter first," and the young man said,
 "No, you enter first." Raven got the better of the young man and pushed
 him into the bath house. It was as hot as an oven there, so the young
-man was roasted. <span id="fr_32"></span>[2](#fn_32) Raven took out the
+man was roasted. <span id="fr_32"></span>[2](#fn_32.md) Raven took out the
 body and ate it. Then he went home, and said to his wife, "Go and get
 your brother's bones, pick
 
 <span id="page_46">p. 46</span>
 
 them clean, put them into a bag, and hang them up on a tree." <span
-id="fr_33"></span>[1](#fn_33) She cried for a long time; then she sewed
+id="fr_33"></span>[1](#fn_33.md) She cried for a long time; then she sewed
 up a pouch, gathered all the bones, and put them into the pouch which
 she hung high up on a tree.
 
@@ -84,7 +84,7 @@ journey, he arrived at the house. His sister was sitting inside. "Why
 did you come?" she said. "He will devour you."--"Let him do it! I shall
 not demur. He devoured my brother, and I am no better than he." So she
 gave him food and drink, and they waited for Raven. Raven flew homeward
-croaking, "food, food, food." <span id="fr_34"></span>[2](#fn_34) He
+croaking, "food, food, food." <span id="fr_34"></span>[2](#fn_34.md) He
 alighted on the roof and turned into a young man. He entered the house.
 "Ah, ah, ah! we heard nothing, we saw nobody, but the little Russian
 bone came to us of its own will. He is Dot a strange man, he is my own
@@ -177,26 +177,26 @@ in the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_30"></span>[44:1](tes24.htm#fr_30) In local Russian,
+<span id="fn_30"></span>[44:1](tes24.htm#fr_30.md) In local Russian,
 literally Воронъ-Человѣкъ, though not in keeping with the spirit of the
 Russian language.--W. B.
 
-<span id="fn_31"></span>[45:1](tes24.htm#fr_31) In local Russian,
+<span id="fn_31"></span>[45:1](tes24.htm#fr_31.md) In local Russian,
 Цтарушка Подкожурнитса. Perhaps it is a reference to some insect, rather
 obscure at present. Compare the Chukchee tales about Bright-Woman
 (Tä'gi-ñe'ut, *Coleoptera Alla*) in Bogoras, "The Chukchee," 329.
 
-<span id="fn_32"></span>[45:2](tes24.htm#fr_32) See American parallels
+<span id="fn_32"></span>[45:2](tes24.htm#fr_32.md) See American parallels
 in Franz Boas, "Tsimshian Mythology" (*Thirty-first Annual Report,
 Bureau of American Ethnology*, Washington, 1916), 806.--F. B.
 
-<span id="fn_33"></span>[46:1](tes24.htm#fr_33) The ancient Yukaghir
+<span id="fn_33"></span>[46:1](tes24.htm#fr_33.md) The ancient Yukaghir
 used to gather the bones of their dead in pouches, and carried them
 along, or put them away in secret places.
 
-<span id="fn_34"></span>[46:2](tes24.htm#fr_34) In Russian, Кормъ,
+<span id="fn_34"></span>[46:2](tes24.htm#fr_34.md) In Russian, Кормъ,
 кормъ, кормъ imitative of the sound of the croaking.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Yukaghir Tale](tes25)
+[Next: 4. Yukaghir Tale](tes25.md)

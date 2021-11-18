@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm21)  [Next](tdm23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm21)  [Next](tdm23.md) 
 
 ------------------------------------------------------------------------
 
@@ -404,7 +404,7 @@ Under different circumstances he would have gone to the Tanos without
 any fear, and would have entered the village as a guest. Now, since the
 Queres of the Rito and the Tehuas had come to blows, it was possible
 that the latter had informed their relatives in the southeast of what
-[occurred](errata.htm#7), and thus made them suspicious of the Queres.
+[occurred](errata.htm#7.md), and thus made them suspicious of the Queres.
 He and his brother carried the implements of war, but they were not in
 war-paint. That looked very suspicious, and they might be taken for
 spies; and as soon as they should be noticed some of the Tanos might lie
@@ -592,7 +592,7 @@ the west, "Tyuonyi."
 To this speech the other replied by pointing at himself and at his
 comrades with the word "Tano;" then at the village, which was still
 dimly visible in the twilight, "Oga P’ Hoge." <span
-id="fr_11"></span>[1](#fn_11) Thereupon he made the gesture-sign for
+id="fr_11"></span>[1](#fn_11.md) Thereupon he made the gesture-sign for
 sleep, and breathed on Hayoue's hand. The latter responded to the
 compliment and gave Zashue a signal to come nearer. When Zashue rejoined
 the group they all greeted the Queres in the same manner, and the one
@@ -1012,7 +1012,7 @@ night; it was the mocking-birds' greeting to the hour of rest.
 
 ### Footnotes
 
-<span id="fn_11"></span>[453:1](tdm22.htm#fr_11) "Oga P’ Hoge" is the
+<span id="fn_11"></span>[453:1](tdm22.htm#fr_11.md) "Oga P’ Hoge" is the
 name given to Santa Fé by the Tehuas of Santa Clara. The Tehuas of San
 Juan call it "Cua P’ Hoge," the place or village of the shell beads, or
 of the shells (Olivilla ) from which they make the beads which they so
@@ -1020,4 +1020,4 @@ highly prize. In the sixteenth century that pueblo was already deserted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI](tdm23)
+[Next: Chapter XXI](tdm23.md)

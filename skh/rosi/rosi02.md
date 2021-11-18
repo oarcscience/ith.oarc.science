@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sikhism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](rosi01) 
-[Next](rosi03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sikhism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](rosi01.md) 
+[Next](rosi03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Sikhs*, by Dorothy Field, \[1914\], at Intangible
 Textual Heritage
 
@@ -24,16 +24,16 @@ Textual Heritage
 |                                                                                                            |                                 |
 |------------------------------------------------------------------------------------------------------------|---------------------------------|
 | CHAPTER I                                                                                                  | <span class="small">PAGE</span> |
-| <span class="smallcaps">The Sikh Gurus</span>                                                              | [9](rosi04.htm#page_9)          |
+| <span class="smallcaps">The Sikh Gurus</span>                                                              | [9](rosi04.htm#page_9.md)          |
 |                                                                                                            |                                 |
 | CHAPTER II                                                                                                 |                                 |
-| <span class="smallcaps">The Religious Origins of Sikhism—Hindu Monotheism and Connection with Islām</span> | [36](rosi05.htm#page_36)        |
+| <span class="smallcaps">The Religious Origins of Sikhism—Hindu Monotheism and Connection with Islām</span> | [36](rosi05.htm#page_36.md)        |
 |                                                                                                            |                                 |
 | CHAPTER III                                                                                                |                                 |
-| <span class="smallcaps">The Doctrines of the Sikhs</span>                                                  | [43](rosi06.htm#page_43)        |
+| <span class="smallcaps">The Doctrines of the Sikhs</span>                                                  | [43](rosi06.htm#page_43.md)        |
 |                                                                                                            |                                 |
 | CHAPTER IV                                                                                                 |                                 |
-| <span class="smallcaps">Hymns from the Granth Sāhib, and from the Granth of the Tenth Guru</span>          | [63](rosi07.htm#page_63)        |
+| <span class="smallcaps">Hymns from the Granth Sāhib, and from the Granth of the Tenth Guru</span>          | [63](rosi07.htm#page_63.md)        |
 
 </div>
 
@@ -41,6 +41,6 @@ Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Editorial Note](rosi03)
+[Next: Editorial Note](rosi03.md)
 
 </div>

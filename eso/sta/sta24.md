@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta23)  [Next](sta25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta23)  [Next](sta25.md) 
 
 ------------------------------------------------------------------------
 
@@ -142,7 +142,7 @@ and systems of "high-pressure" salesmanship--
 <span id="img_10100"></span>
 
 [![BAPHOMET, THE GOAT OF MENDES.](tn/10100.jpg)  
-Click to enlarge](img/10100.jpg)  
+Click to enlarge](img/10100.jpg.md)  
 BAPHOMET, THE GOAT OF MENDES.  
 
 From Levi's *Transcendental Magic*.
@@ -290,7 +290,7 @@ innermost circle is made of a
 <span id="img_10200"></span>
 
 [![A MAGICAL SWORD.](tn/10200.jpg)  
-Click to enlarge](img/10200.jpg)  
+Click to enlarge](img/10200.jpg.md)  
 A MAGICAL SWORD.  
 
 From Levi's *The Magical Ritual*.
@@ -310,7 +310,7 @@ ut Deus* upon the other. The sword should be consecrated on Sunday.
 <span id="img_10201"></span>
 
 [![A MAGIC CIRCLE.](tn/10201.jpg)  
-Click to enlarge](img/10201.jpg)  
+Click to enlarge](img/10201.jpg.md)  
 A MAGIC CIRCLE.  
 
 From *The Complete Book of Magic Science* (unpublished).
@@ -473,7 +473,7 @@ courteously receive thee at all times where thou dost appear unto me.'
 <span id="img_10300"></span>
 
 [![THE PENTAGRAM.](tn/10300.jpg)  
-Click to enlarge](img/10300.jpg)  
+Click to enlarge](img/10300.jpg.md)  
 THE PENTAGRAM.  
 
 From Levi's *Transcendental Magic*.
@@ -487,7 +487,7 @@ of force, the awakening of which is the supreme secret of white magic.
 <span id="img_10301"></span>
 
 [![FORM OF PACT WITH THE SPIRIT OF JUPITER.](tn/10301.jpg)  
-Click to enlarge](img/10301.jpg)  
+Click to enlarge](img/10301.jpg.md)  
 FORM OF PACT WITH THE SPIRIT OF JUPITER.  
 
 From *The Complete Book of Magic Science*.
@@ -597,7 +597,7 @@ signifies the fall of the Morning Star.
 
 [![THE PENTACLES OF THE SEVEN PLANETS AND THE SEALS AND CHARACTERS OF
 THE PLANETARY ANGELS.](tn/10400.jpg)  
-Click to enlarge](img/10400.jpg)  
+Click to enlarge](img/10400.jpg.md)  
 THE PENTACLES OF THE SEVEN PLANETS AND THE SEALS AND CHARACTERS OF THE
 PLANETARY ANGELS.  
 
@@ -609,4 +609,4 @@ intelligence of the planet.
 
 ------------------------------------------------------------------------
 
-[Next: The Elements and Their Inhabitants](sta25)
+[Next: The Elements and Their Inhabitants](sta25.md)

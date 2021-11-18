@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Next](ema01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Next](ema01.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ intact.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ema01)
+[Next: Preface](ema01.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg02)  [Next](ttg04) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg02)  [Next](ttg04.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ even at the cost of life.
 ------------------------------------------------------------------------
 
 [Next: Third Goblin: The Parrot and the Thrush. Which are worse, men or
-women?](ttg04)
+women?](ttg04.md)

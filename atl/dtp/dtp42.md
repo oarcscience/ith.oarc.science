@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp41)  [Next](dtp43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp41)  [Next](dtp43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -103,7 +103,7 @@ legatee, and then? I speak to thee also now, Phylos
 his own actions shall find the deed become part of the great karma of
 the human race, and himself responsible for its fruition, because, 'Till
 heaven and earth pass, one jot or one tittle hall in no wise pass from
-the law till all be fulfilled.' <span id="fr_31"></span>[1](#fn_31) Only
+the law till all be fulfilled.' <span id="fr_31"></span>[1](#fn_31.md) Only
 thus can Phylos ever come to us again."
 
 "Well spoken, my son!" was Mol Lang's sole comment.
@@ -297,7 +297,7 @@ the occult realm which is His Kingdom."
 Mol Lang arose, and I did also. He put his arm about me and said:
 
 "My son, the desert is before thy feet. Its hot sands will scorch their
-soles, yet heed thine own intuition <span id="fr_32"></span>[1](#fn_32)
+soles, yet heed thine own intuition <span id="fr_32"></span>[1](#fn_32.md)
 which reveals God unto thy soul, and thou shalt come out of that desert.
 Be thou faithful unto death, and thou shalt have a crown of life from
 our Father. God be with thee and keep thee; I, also, will guard thee."
@@ -477,7 +477,7 @@ and thus find--me. Use all things as
 
 abusing none. Drugs, as drugs; food, as not gluttonously; drinks, as not
 bibulously; society, as a study; marriage <span
-id="fr_33"></span>[1](#fn_33) as a Way, but continency as His Highway.
+id="fr_33"></span>[1](#fn_33.md) as a Way, but continency as His Highway.
 The most of our race must go by the lower path, for the Cliff-brow Way
 is too dizzy; none can walk it, save He holds their hands, and few there
 be that will to let Him, for desires tempt them. But they that refuse
@@ -579,13 +579,13 @@ and---she was gone!
 
 ### Footnotes
 
-<span id="fn_31"></span>[340:1](dtp42.htm#fr_31) Matthew, v. 18.
+<span id="fn_31"></span>[340:1](dtp42.htm#fr_31.md) Matthew, v. 18.
 
-<span id="fn_32"></span>[345:1](dtp42.htm#fr_32) St. John, xvi, 13.
+<span id="fn_32"></span>[345:1](dtp42.htm#fr_32.md) St. John, xvi, 13.
 
-<span id="fn_33"></span>[350:1](dtp42.htm#fr_33) Cor. vii; 1 to 9; also
+<span id="fn_33"></span>[350:1](dtp42.htm#fr_33.md) Cor. vii; 1 to 9; also
 29, 31, 32, 36, 37 and 38.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Old Teachers Taught Of God](dtp43)
+[Next: Chapter VIII: Old Teachers Taught Of God](dtp43.md)

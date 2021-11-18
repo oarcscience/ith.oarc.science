@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib05)  [Next](sib07) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib05)  [Next](sib07.md) 
 
 ------------------------------------------------------------------------
 
@@ -470,4 +470,4 @@ O happy on the earth shall be that man\].
 
 ------------------------------------------------------------------------
 
-[Next: Book V.](sib07)
+[Next: Book V.](sib07.md)

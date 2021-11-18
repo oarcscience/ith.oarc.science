@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](ktm01)  [Next](ktm03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](ktm01)  [Next](ktm03.md) 
 
 ------------------------------------------------------------------------
 
@@ -245,4 +245,4 @@ rapture of our cry of "Mother?"
 
 ------------------------------------------------------------------------
 
-[Next: The Vision of Siva](ktm03)
+[Next: The Vision of Siva](ktm03.md)

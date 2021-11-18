@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](krz09)  [Next](krz11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](krz09)  [Next](krz11.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ ideal.
 
 ------------------------------------------------------------------------
 
-[Next: The Wine of Sex](krz11)
+[Next: The Wine of Sex](krz11.md)

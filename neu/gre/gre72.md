@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre71)  [Next](gre73) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre71)  [Next](gre73.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ when he was seventeen years of age, and no tale there is of him.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXVIII: How Thorod, the Son of Snorri Godi went against
-Grettir](gre73)
+Grettir](gre73.md)

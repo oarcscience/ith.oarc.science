@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo42)  [Next](hoo44) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo42)  [Next](hoo44.md) 
 
 ------------------------------------------------------------------------
 
 ###### XXXVIII.
 
-### TO CORYBAS  <span id="fr_100"></span>[\*](#fn_100)
+### TO CORYBAS  <span id="fr_100"></span>[\*](#fn_100.md)
 
 ###### The FUMIGATION from FRANKINCENSE.
 
@@ -29,7 +29,7 @@ And by fix'd fate, drive fancy's fears away.
 
 ### Footnotes
 
-<span id="fn_100"></span>[169:\*](hoo43.htm#fr_100) The following
+<span id="fn_100"></span>[169:\*](hoo43.htm#fr_100.md) The following
 curious passage is preserved to us by Athenagoras, in Legat. i. pro
 Christianis; in which Orpheus describes the generation of the celestial
 or intellectual earth, "But Phanes or Protogonus, produced another dire
@@ -47,7 +47,7 @@ obscure dragon, since obscurity is an apt symbol of a material nature.
 
 Corybas is likewise said, v. 7. to kill his two brothers. Now since
 Corybas is Protogonus, his two brothers may be considered as Æther and
-Chaos, whose [occult](errata.htm#8) union formed the achytypal egg of
+Chaos, whose [occult](errata.htm#8.md) union formed the achytypal egg of
 thc universe: and Protogonus bursting forth from this egg, and by this
 means dispersing Æther and Chaos, may be aptly represented under the
 symbol of Corybas destroying his two brothers. For, according to
@@ -56,4 +56,4 @@ powers of exemplars, by contrary and most remote adumbrations.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIX: To Ceres](hoo44)
+[Next: XXXIX: To Ceres](hoo44.md)

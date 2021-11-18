@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar190) [Next](gbar192)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar190) [Next](gbar192.md)
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ for whom God hath made all."
 
 ------------------------------------------------------------------------
 
-[Next](gbar192)
+[Next](gbar192.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont02)  [Next](ont04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont02)  [Next](ont04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="img_00100"></span> <span align="CENTER"> [![HERD OF BUFFALO ON
 THE PLAINS](tn/00100.jpg)  
-Click to enlarge](img/00100.jpg)  
+Click to enlarge](img/00100.jpg.md)  
 HERD OF BUFFALO ON THE PLAINS  
 </span>
 
@@ -152,4 +152,4 @@ have the pathetic spectacle of a dying race.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. My Introduction to the Blackfeet](ont04)
+[Next: Chapter I. My Introduction to the Blackfeet](ont04.md)

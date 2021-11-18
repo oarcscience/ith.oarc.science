@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh04)  [Next](seh06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh04)  [Next](seh06.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ made in especial to the Editors of the *Modern Review* and the
 
 ------------------------------------------------------------------------
 
-[Next: Life in the Hindu Quarter of Calcutta](seh06)
+[Next: Life in the Hindu Quarter of Calcutta](seh06.md)

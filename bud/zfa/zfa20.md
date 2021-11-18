@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa19)  [Next](zfa21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa19)  [Next](zfa21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Heritage
 
 <span id="page_186">p. 186</span>
 
-### THE STORY OF THE GEM-HUNTING <span id="fr_40"></span>[1](#fn_40)
+### THE STORY OF THE GEM-HUNTING <span id="fr_40"></span>[1](#fn_40.md)
 
 IN ancient times there was a king who had among his valuable possessions
 a precious stone which he most highly prized. An attendant of his one
@@ -78,10 +78,10 @@ will find the way to heavenly bliss.
 
 ### Footnotes
 
-<span id="fn_40"></span>[186:1](zfa20.htm#fr_40) This story was told by
+<span id="fn_40"></span>[186:1](zfa20.htm#fr_40.md) This story was told by
 the Rev. Shaku to illustrate Chapter 9 of the *Sutra of Forty-two
 Chapters*.
 
 ------------------------------------------------------------------------
 
-[Next: The Sacrifice for a Stanza](zfa21)
+[Next: The Sacrifice for a Stanza](zfa21.md)

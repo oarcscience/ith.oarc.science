@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe352)  [Next](prwe354) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe352)  [Next](prwe354.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ tradition of the kind with which I am acquainted in this county.
 
 ------------------------------------------------------------------------
 
-[Next: Saracen](prwe354)
+[Next: Saracen](prwe354.md)

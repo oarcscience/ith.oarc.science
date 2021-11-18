@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa22)  [Next](psa24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa22)  [Next](psa24.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ of Krishnù, until his return from grazing the cows in the jungles.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII](psa24)
+[Next: Chapter XXIII](psa24.md)

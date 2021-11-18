@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc054) 
-[Next](motc056) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc054.md) 
+[Next](motc056.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ deserted even while still Indian country.
 
 ------------------------------------------------------------------------
 
-[Next: 56. The Snake Boy](motc056)
+[Next: 56. The Snake Boy](motc056.md)

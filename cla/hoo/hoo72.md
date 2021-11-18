@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo71)  [Next](hoo73) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo71)  [Next](hoo73.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ And far avert disease of ev'ry kind.
 
 ------------------------------------------------------------------------
 
-[Next: LXVIII: To The Furies](hoo73)
+[Next: LXVIII: To The Furies](hoo73.md)

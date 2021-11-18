@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar086) [Next](gbar088)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar086) [Next](gbar088.md)
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ shalt not set they foot there.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar088)
+[Next](gbar088.md)

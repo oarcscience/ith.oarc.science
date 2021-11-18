@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos45)  [Next](kos47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos45)  [Next](kos47.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ and sanctified through Thy Name. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Of the Water, And of the Hyssop](kos47)
+[Next: Chapter XI. Of the Water, And of the Hyssop](kos47.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](th2)  [Next](ti2) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](th2)  [Next](ti2.md) 
 
 ------------------------------------------------------------------------
 
@@ -419,4 +419,4 @@ to it, have been turned away from the faith. Grace be with you.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Timothy](ti2)
+[Next: 2 Timothy](ti2.md)

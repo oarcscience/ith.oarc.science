@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb16)  [Next](gyfb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb16)  [Next](gyfb18.md) 
 
 </div>
 
@@ -451,6 +451,6 @@ And that is all this story.
 
 ------------------------------------------------------------------------
 
-[Next: The White Wolf](gyfb18)
+[Next: The White Wolf](gyfb18.md)
 
 </div>

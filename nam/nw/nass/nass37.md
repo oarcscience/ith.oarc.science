@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass36)  [Next](nass38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass36)  [Next](nass38.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ came.
 
 ------------------------------------------------------------------------
 
-[Next: Growing-Up-Like-One-Who-Has-A-Grandmother](nass38)
+[Next: Growing-Up-Like-One-Who-Has-A-Grandmother](nass38.md)

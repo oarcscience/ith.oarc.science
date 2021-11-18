@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp86) 
-[Next](alp88) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp86.md) 
+[Next](alp88.md) 
 
 ------------------------------------------------------------------------
 
@@ -215,4 +215,4 @@ as the sea." The lark replied, "I am doing what I can."
 
 ------------------------------------------------------------------------
 
-[Next: The Crusades](alp88)
+[Next: The Crusades](alp88.md)

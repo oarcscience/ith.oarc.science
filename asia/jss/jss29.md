@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss28)  [Next](jss30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss28)  [Next](jss30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -96,7 +96,7 @@ Mindiu appears.
 
 ### MINDIÚ QUBUN NOYAN
 
-PAGE [105](jss13.htm#page_105)
+PAGE [105](jss13.htm#page_105.md)
 
 The story of the birth of Mindiú Qúbun Noyan, whose father was one of
 the fifty-five Tengeris, is interesting as having parallels in many
@@ -127,7 +127,7 @@ dancing air which Mother Earth gave to Esege Malan.
 
 ### THE BURNING OF THE DEAD
 
-PAGE [101](jss12.htm#page_101)
+PAGE [101](jss12.htm#page_101.md)
 
 It is almost certain that in Mongol mythology there was once a long myth
 about the Cuckoo from which we could get some idea of why this bird is
@@ -150,7 +150,7 @@ A Buriat will never kill or shoot at a cuckoo.
 
 ### THE MORNING STAR
 
-PAGE [124](jss14.htm#page_124)
+PAGE [124](jss14.htm#page_124.md)
 
 There was once a Mongol myth about Solobung Yubún, the morning star,
 but, so far as I could find, only fragments of it remain.
@@ -178,7 +178,7 @@ Myths of Primitive America.")
 
 ### A SHAMAN STORY
 
-PAGE [111](jss13.htm#page_111)
+PAGE [111](jss13.htm#page_111.md)
 
 The Buriats believe that the spirit can leave the body and return to it,
 even after having been away several days. Many of our Indian tribes have
@@ -197,7 +197,7 @@ while his spirit is away.
 
 ### BURIAT BURIAL OF THE DEAD.
 
-PAGE [102](jss12.htm#page_102)
+PAGE [102](jss12.htm#page_102.md)
 
 For three days after death the spirit remains near the body. .It is
 lonely and sad, and is sorry to go from among the living. The Buriats
@@ -216,7 +216,7 @@ Darkening Land in the west."
 
 ### GESIR BOGDO
 
-PAGE [127](jss15.htm#page_127)
+PAGE [127](jss15.htm#page_127.md)
 
 The idea of a man's life being in one place and his body in another is
 common to many mythologies. In Mongol tales, no matter how the man is
@@ -255,7 +255,7 @@ could perform if it had the volition and desire of a person.
 
 ### THE IRON HERO
 
-PAGE [164](jss18.htm#page_164)
+PAGE [164](jss18.htm#page_164.md)
 
 The stubborn battles fought by the heroes of Buriat mythology are
 strikingly similar to those fought by mythologic Kelts. Buriat heroes
@@ -278,7 +278,7 @@ losing party is cut off at once.
 
 ### HÚNKUVAI
 
-PAGE [206](jss23.htm#page_206)
+PAGE [206](jss23.htm#page_206.md)
 
 A prominent characteristic of Buriat myths is the wisdom of the horse,
 which in many instances is sent from heaven in answer to prayers. These
@@ -309,7 +309,7 @@ castle, a place to which no ship could go ("Hero-Tales of Ireland").
 
 ### BRINGING TO LIFE
 
-PAGE [170](jss18.htm#page_170)
+PAGE [170](jss18.htm#page_170.md)
 
 Bringing to life is one of the most ordinary acts in Mongol as well as
 in other mythologies: usually where there are hundreds of skeletons and
@@ -351,7 +351,7 @@ long?"
 
 ### THE WORLD BEFORE THIS
 
-PAGE [130](jss16.htm#page_130)
+PAGE [130](jss16.htm#page_130.md)
 
 In Mongol myths we find a conception of "a world before this world," a
 common conception in the Creation myths of the Indians of the Pacific
@@ -381,7 +381,7 @@ not Mongols, but Marat and Mangathai, evil spirits.
 
 ### ALTIN SHAGOY
 
-PAGE [232](jss25.htm#page_232)
+PAGE [232](jss25.htm#page_232.md)
 
 Mongol, Aryan, and Indian ideas agree as to the way a father should
 treat the man who wishes to marry his daughter. In Gaelic myths the
@@ -395,4 +395,4 @@ to the new son-in-law.
 
 ------------------------------------------------------------------------
 
-[Next: Indexes](jss30)
+[Next: Indexes](jss30.md)

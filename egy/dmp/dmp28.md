@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp27)  [Next](dmp29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp27)  [Next](dmp29.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ You do it on the fourteenth of the lunar month. Very excellent.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XXVI](dmp29)
+[Next: Col. XXVI](dmp29.md)

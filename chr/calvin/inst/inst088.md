@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst087)  [Next](inst089) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst087)  [Next](inst089.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ supply the deficiency of the written word by traditions. Answer.
 
 <span id="iv.iv.ix-p18"></span>15. Argument founded on <span
 id="iv.iv.ix-p18.1"></span>[Mt.
-18:17](../../../bib/kjv/mat018.htm#017)<span
+18:17](../../../bib/kjv/mat018.htm#017.md)<span
 id="iv.iv.ix-p18.1"></span>. Answer.
 
 <span id="iv.iv.ix-p19"></span>16. Objections founded on Infant Baptism,
@@ -98,7 +98,7 @@ dogmas, and the interpretation of them. Before we begin to treat of each
 in particular, I wish to remind the pious reader, that whatever is
 taught respecting the power of the Church, ought to have reference to
 the end for which Paul declares (<span id="iv.iv.ix-p20.1"></span>[2
-Cor. 10:8](../../../bib/kjv/co2010.htm#008)<span
+Cor. 10:8](../../../bib/kjv/co2010.htm#008.md)<span
 id="iv.iv.ix-p20.1"></span>; 13:10) that it was given—namely, for
 edification, and not for destruction, those who use it lawfully deeming
 themselves to be nothing more than servants of Christ, and, at the same
@@ -108,7 +108,7 @@ of Christ, which cannot be unimpaired, unless that which he received of
 the Father is left to him—viz. to be the only Master of the Church. For
 it was not said of any other but of himself alone, “Hear him” (<span
 id="iv.iv.ix-p20.2"></span>[Mt.
-17:5](../../../bib/kjv/mat017.htm#005)<span
+17:5](../../../bib/kjv/mat017.htm#005.md)<span
 id="iv.iv.ix-p20.2"></span>). Ecclesiastical power, therefore, is not to
 be mischievously adorned, but it is to be confined within certain
 limits, so as not to be drawn hither and thither at the caprice of men.
@@ -132,24 +132,24 @@ he bring them forward to be heard by the people, before he has
 instructed them what they are to speak, lest they should speak anything
 but his own word. Moses, the prince of all the prophets, was to be heard
 in preference to others (<span id="iv.iv.ix-p21.1"></span>[Exod.
-3:4](../../../bib/kjv/exo003.htm#004)<span id="iv.iv.ix-p21.1"></span>;
+3:4](../../../bib/kjv/exo003.htm#004.md)<span id="iv.iv.ix-p21.1"></span>;
 <span id="iv.iv.ix-p21.2"></span>[Deut.
-17:9](../../../bib/kjv/deu017.htm#009)<span
+17:9](../../../bib/kjv/deu017.htm#009.md)<span
 id="iv.iv.ix-p21.2"></span>); but he is previously furnished with his
 orders, that he may not be able to speak at all except from the Lord.
 Accordingly, when the people embraced his doctrine, they are said to
 have believed the Lord, and his servant Moses (<span
 id="iv.iv.ix-p21.3"></span>[Exod.
-14:31](../../../bib/kjv/exo014.htm#031)<span
+14:31](../../../bib/kjv/exo014.htm#031.md)<span
 id="iv.iv.ix-p21.3"></span>). It was also provided under the severest
 sanctions, that the authority of the priests should not be despised
 (<span id="iv.iv.ix-p21.4"></span>[Exod.
-17:9](../../../bib/kjv/exo017.htm#009)<span
+17:9](../../../bib/kjv/exo017.htm#009.md)<span
 id="iv.iv.ix-p21.4"></span>). But the Lord, at the same time, shows in
 what terms they were to be heard, when he says that he made his covenant
 with Levi, that the law of truth might be in his mouth (<span
 id="iv.iv.ix-p21.5"></span>[Mal.
-2:4-6](../../../bib/kjv/mal002.htm#004)<span
+2:4-6](../../../bib/kjv/mal002.htm#004.md)<span
 id="iv.iv.ix-p21.5"></span>). A little after he adds, “The priest’s lips
 should keep knowledge, and they should seek the law at his mouth; for he
 is the messenger of the Lord of hosts.” Therefore, if the priest would
@@ -158,7 +158,7 @@ him faithfully deliver the commands which he has received from his
 Maker. When the mode of hearing, then, is treated of, it is expressly
 said, “According to the sentence of the law which they shall teach thee”
 (<span id="iv.iv.ix-p21.6"></span>[Deut.
-17:11](../../../bib/kjv/deu017.htm#011)<span
+17:11](../../../bib/kjv/deu017.htm#011.md)<span
 id="iv.iv.ix-p21.6"></span>).
 
 <span id="iv.iv.ix-p22"></span>3. The nature of the power conferred upon
@@ -166,7 +166,7 @@ the prophets in general is elegantly described by Ezekiel: “Son of man,
 I have made thee a watchman unto the house of Israel: therefore hear the
 word at my mouth, and give them warning from me” (<span
 id="iv.iv.ix-p22.1"></span>[Ezek.
-3:17](../../../bib/kjv/eze003.htm#017)<span
+3:17](../../../bib/kjv/eze003.htm#017.md)<span
 id="iv.iv.ix-p22.1"></span>). Is not he who is ordered to hear at the
 mouth of the Lord prohibited from devising anything of himself? And what
 is meant by giving a warning from the Lord, but just to speak so as to
@@ -175,7 +175,7 @@ his own but the Lord’s? The same thing is expressed by Jeremiah in
 different terms, “The prophet that hath a dream, let him tell a dream;
 and he that hath my word, let him speak my word faithfully” (<span
 id="iv.iv.ix-p22.2"></span>[Jer.
-23:28](../../../bib/kjv/jer023.htm#028)<span
+23:28](../../../bib/kjv/jer023.htm#028.md)<span
 id="iv.iv.ix-p22.2"></span>). Surely God here declares the law to all,
 and it is a law which does not allow any one to teach more than he has
 been ordered. He afterwards gives the name of chaff to whatever has not
@@ -183,12 +183,12 @@ proceeded from himself alone. Accordingly, none of the prophets opened
 his mouth unless preceded by the word of the Lord. Hence we so often
 meet with the expressions, “The word of the Lord, The burden of the
 Lord, Thus saith the Lord, The mouth of the Lord hath spoken it.”55
- <span id="fr_568"></span>[569](#fn_568) And justly, for Isaiah exclaims
+ <span id="fr_568"></span>[569](#fn_568.md) And justly, for Isaiah exclaims
 that his lips are unclean (<span id="iv.iv.ix-p23.1"></span>[Isa.
-6:5](../../../bib/kjv/isa006.htm#005)<span id="iv.iv.ix-p23.1"></span>);
+6:5](../../../bib/kjv/isa006.htm#005)<span id="iv.iv.ix-p23.1"></span>.md);
 and Jeremiah confesses that he knows not how to speak because he is a
 child (<span id="iv.iv.ix-p23.2"></span>[Jer.
-1:6](../../../bib/kjv/jer001.htm#006)<span id="iv.iv.ix-p23.2"></span>).
+1:6](../../../bib/kjv/jer001.htm#006)<span id="iv.iv.ix-p23.2"></span>.md).
 Could anything proceed from the unclean lips of the one, and the
 childish lips of the other, if they spoke their own language, but what
 was unclean or childish? But their lips were holy and pure when they
@@ -199,20 +199,20 @@ declares, “See, I have this day set thee over the nations, and over the
 kingdoms, to root out, and to pull down, and to destroy, and to throw
 down, to build, and to plant,” he at the same time gives the reason,
 “Behold, I have put my words in thy mouth ” (<span
-id="iv.iv.ix-p23.3"></span>[Jer. 1:9](../../../bib/kjv/jer001.htm#009),
-[10](../../../bib/kjv/jer001.htm#010)<span id="iv.iv.ix-p23.3"></span>).
+id="iv.iv.ix-p23.3"></span>[Jer. 1:9](../../../bib/kjv/jer001.htm#009.md),
+[10](../../../bib/kjv/jer001.htm#010)<span id="iv.iv.ix-p23.3"></span>.md).
 
 <span id="iv.iv.ix-p24"></span>4. Now, if you look to the apostles, they
 are commended by many distinguished titles, as the Light of the world,
 and the Salt of the earth, to be heard in Christ’s stead, whatever they
 bound or loosed on earth being bound or loosed in heaven (<span
 id="iv.iv.ix-p24.1"></span>[Matt.
-5:13](../../../bib/kjv/mat005.htm#013),
-[14](../../../bib/kjv/mat005.htm#014)<span id="iv.iv.ix-p24.1"></span>;
+5:13](../../../bib/kjv/mat005.htm#013.md),
+[14](../../../bib/kjv/mat005.htm#014.md)<span id="iv.iv.ix-p24.1"></span>;
 <span id="iv.iv.ix-p24.2"></span>[Luke
-10:16](../../../bib/kjv/luk010.htm#016)<span
+10:16](../../../bib/kjv/luk010.htm#016.md)<span
 id="iv.iv.ix-p24.2"></span>; <span id="iv.iv.ix-p24.3"></span>[John
-20:23](../../../bib/kjv/joh020.htm#023)<span
+20:23](../../../bib/kjv/joh020.htm#023.md)<span
 id="iv.iv.ix-p24.3"></span>). But they declare in their own name what
 the authority was which their office conferred on them—viz. if they are
 apostles they must not speak their own pleasure, but faithfully deliver
@@ -220,12 +220,12 @@ the commands of him by whom they are sent. The words in which Christ
 defined their embassy are sufficiently clear, “Go ye, therefore, and
 teach all nations, teaching them to observe all things whatsoever I have
 commanded you” (<span id="iv.iv.ix-p24.4"></span>[Matt.
-28:19](../../../bib/kjv/mat028.htm#019),
-[20](../../../bib/kjv/mat028.htm#020)<span id="iv.iv.ix-p24.4"></span>).
+28:19](../../../bib/kjv/mat028.htm#019.md),
+[20](../../../bib/kjv/mat028.htm#020)<span id="iv.iv.ix-p24.4"></span>.md).
 Nay, that none might be permitted to decline this law, he received it
 and imposed it on himself. “My doctrine is not mine, but his that sent
 me” (<span id="iv.iv.ix-p24.5"></span>[John
-7:16](../../../bib/kjv/joh007.htm#016)<span
+7:16](../../../bib/kjv/joh007.htm#016.md)<span
 id="iv.iv.ix-p24.5"></span>). He who always was the only and eternal
 counsellor of the Father, who by the Father was constituted Lord and
 Master of all, yet because he performed the ministry of teaching,
@@ -242,7 +242,7 @@ differs very much from that of former times. First, if it is true, as
 Christ says, “Neither knoweth any man the Father save the Son, and he to
 whomsoever the Son will reveal him” (<span
 id="iv.iv.ix-p25.1"></span>[Mt.
-11:27](../../../bib/kjv/mat011.htm#027)<span
+11:27](../../../bib/kjv/mat011.htm#027.md)<span
 id="iv.iv.ix-p25.1"></span>), then those who wish to attain to the
 knowledge of God behoved always to be directed by that eternal wisdom.
 For how could they have comprehended the mysteries of God in their mind,
@@ -253,7 +253,7 @@ in a mirror. When I say this, I mean that God never manifested himself
 to men by any other means than by his Son, that is, his own only wisdom,
 light, and truth. From this fountain Adam, Noah, Abraham, Isaac, Jacob,
 and others, drew all the heavenly doctrine which they possessed.  <span
-id="fr_569"></span>[570](#fn_569) From the same fountain all the
+id="fr_569"></span>[570](#fn_569.md) From the same fountain all the
 prophets also drew all the heavenly oracles which they published. For
 this wisdom did not always display itself in one manner. With the
 patriarchs he employed secret revelations, but, at the same time, in
@@ -269,7 +269,7 @@ illustrious form to the Church, he was pleased to commit and consign his
 word to writing, that the priests might there seek what they were to
 teach the people, and every doctrine delivered be brought to it as a
 test (<span id="iv.iv.ix-p27.1"></span>[Mal.
-2:7](../../../bib/kjv/mal002.htm#007)<span id="iv.iv.ix-p27.1"></span>).
+2:7](../../../bib/kjv/mal002.htm#007)<span id="iv.iv.ix-p27.1"></span>.md).
 Accordingly, after the promulgation of the Law, when the priests are
 enjoined to teach from the mouth of the Lord, the meaning is, that they
 are not to teach anything extraneous or alien to that kind of doctrine
@@ -285,7 +285,7 @@ ample form, the better to satisfy weak consciences, he commanded the
 prophecies also to be committed to writing, and to be held part of his
 word. To these at the same time were added historical details, which are
 also the composition of prophets, but dictated by the Holy Spirit;
- <span id="fr_570"></span>[571](#fn_570) I include the Psalms among the
+ <span id="fr_570"></span>[571](#fn_570.md) I include the Psalms among the
 Prophecies, the quality which we attribute to the latter belonging also
 to the former. The whole body, therefore, composed of the Law, the
 Prophets, the Psalms, and Histories, formed the word of the Lord to his
@@ -297,13 +297,13 @@ people from the mouth of God. This is gathered from a celebrated passage
 of Malachi, in which it is enjoined to remember the Law, and give heed
 to it until the preaching of the Gospel (<span
 id="iv.iv.ix-p28.1"></span>[Mal.
-4:4](../../../bib/kjv/mal004.htm#004)<span id="iv.iv.ix-p28.1"></span>).
+4:4](../../../bib/kjv/mal004.htm#004)<span id="iv.iv.ix-p28.1"></span>.md).
 For he thus restrains men from all adventitious doctrines, and does not
 allow them to deviate in the least from the path which Moses had
 faithfully pointed out. And the reason why David so magnificently extols
 the Law, and pronounces so many encomiums on it (<span
-id="iv.iv.ix-p28.2"></span>[Ps. 19:0](../../../bib/kjv/psa019.htm#000),
-[Ps. 119:0](../../../bib/kjv/psa119.htm#000)<span
+id="iv.iv.ix-p28.2"></span>[Ps. 19:0](../../../bib/kjv/psa019.htm#000.md),
+[Ps. 119:0](../../../bib/kjv/psa119.htm#000.md)<span
 id="iv.iv.ix-p28.2"></span>), was, that the Jews might not long after
 any extraneous aid, all perfection being included in it.
 
@@ -316,8 +316,8 @@ whereas the light was previously dim. It was no ordinary blessing which
 the apostle intended to publish when he wrote: “God, who at sundry times
 and in divers manners, spake in time past unto the fathers by the
 prophets, hath in these last days spoken unto us by his Son” (<span
-id="iv.iv.ix-p29.1"></span>[Heb. 1:1](../../../bib/kjv/heb001.htm#001),
-[2](../../../bib/kjv/heb001.htm#002)<span id="iv.iv.ix-p29.1"></span>);
+id="iv.iv.ix-p29.1"></span>[Heb. 1:1](../../../bib/kjv/heb001.htm#001.md),
+[2](../../../bib/kjv/heb001.htm#002)<span id="iv.iv.ix-p29.1"></span>.md);
 for he intimates, nay, openly declares, that God will not henceforth, as
 formerly, speak by this one and by that one, that he will not add
 prophecy to prophecy, or revelation to revelation, but has so completed
@@ -331,7 +331,7 @@ for ourselves, or admit any one devised by others. With good cause,
 therefore, the Father appointed the Son our teacher, with special
 prerogative, commanding that he and no human being should be heard. When
 he said, “Hear him” (<span id="iv.iv.ix-p29.2"></span>[Mt.
-17:5](../../../bib/kjv/mat017.htm#005)<span
+17:5](../../../bib/kjv/mat017.htm#005.md)<span
 id="iv.iv.ix-p29.2"></span>), he commended his office to us, in few
 words, indeed, but words of more weight and energy than is commonly
 supposed, for it is just as if he had withdrawn us from all doctrines of
@@ -344,11 +344,11 @@ himself? Nay, every mouth should be stopped when once he has spoken, in
 whom, according to the pleasure of our heavenly Father, “are hid all the
 treasures of wisdom and knowledge” (<span
 id="iv.iv.ix-p29.3"></span>[Col.
-2:3](../../../bib/kjv/col002.htm#003)<span id="iv.iv.ix-p29.3"></span>),
+2:3](../../../bib/kjv/col002.htm#003)<span id="iv.iv.ix-p29.3"></span>.md),
 and spoken as became the Wisdom of God (which is in no part defective)
 and the Messiah (from whom the revelation of all things was expected)
 (<span id="iv.iv.ix-p29.4"></span>[John
-4:25](../../../bib/kjv/joh004.htm#025)<span
+4:25](../../../bib/kjv/joh004.htm#025.md)<span
 id="iv.iv.ix-p29.4"></span>); in other words, has so spoken as to leave
 nothing to be spoken by others after him.
 
@@ -362,21 +362,21 @@ apostles than was formerly permitted to the prophets—namely, to expound
 the ancient Scriptures, and show that the things there delivered are
 fulfilled in Christ: this, however, they could not do unless from the
 Lord; that is, unless the Spirit of Christ went before, and in a manner
-dictated words to them.  <span id="fr_571"></span>[572](#fn_571) For
+dictated words to them.  <span id="fr_571"></span>[572](#fn_571.md) For
 Christ thus defined the terms of their embassy, when he commanded them
 to go and teach, not what they themselves had at random fabricated, but
 whatsoever he had commanded (<span id="iv.iv.ix-p31.1"></span>[Mt.
-28:20](../../../bib/kjv/mat028.htm#020)<span
+28:20](../../../bib/kjv/mat028.htm#020.md)<span
 id="iv.iv.ix-p31.1"></span>). And nothing can be plainer than his words
 in another passage, “Be not ye called Rabbi: for one is your Master,
 even Christ” (<span id="iv.iv.ix-p31.2"></span>[Mt.
-23:8-10](../../../bib/kjv/mat023.htm#008)<span
+23:8-10](../../../bib/kjv/mat023.htm#008.md)<span
 id="iv.iv.ix-p31.2"></span>). To impress this more deeply in their
 minds, he in the same place repeats it twice. And because from ignorance
 they were unable to comprehend the things which they had heard and
 learned from the lips of their Master, the Spirit of truth is promised
 to guide them unto all truth (<span id="iv.iv.ix-p31.3"></span>[John
-14:26](../../../bib/kjv/joh014.htm#026)<span
+14:26](../../../bib/kjv/joh014.htm#026.md)<span
 id="iv.iv.ix-p31.3"></span>; 16:13). The restriction should be carefully
 attended to. The office which he assigns to the Holy Spirit is to bring
 to remembrance what his own lips had previously taught.
@@ -386,7 +386,7 @@ instructed by his Master as to the extent of what was permitted to him,
 leaves nothing more to himself or others than to dispense the doctrine
 delivered by God. “If any man speak, let him speak as the oracles of
 God” (<span id="iv.iv.ix-p32.1"></span>[1 Peter
-4:11](../../../bib/kjv/pe1004.htm#011)<span
+4:11](../../../bib/kjv/pe1004.htm#011.md)<span
 id="iv.iv.ix-p32.1"></span>); that is, not hesitatingly, as those are
 wont whose convictions are imperfect, but with the full confidence which
 becomes a servant of God, provided with a sure message. What else is
@@ -400,8 +400,8 @@ down of strongholds; casting down imaginations, and every high thing
 that exalteth itself against the knowledge of God, and bringing into
 captivity every thought to the obedience of Christ” (<span
 id="iv.iv.ix-p32.2"></span>[2 Cor.
-10:4](../../../bib/kjv/co2010.htm#004),
-[5](../../../bib/kjv/co2010.htm#005)<span id="iv.iv.ix-p32.2"></span>).
+10:4](../../../bib/kjv/co2010.htm#004.md),
+[5](../../../bib/kjv/co2010.htm#005)<span id="iv.iv.ix-p32.2"></span>.md).
 Here is the supreme power with which pastors of the Church, by whatever
 name they are called, should be invested— namely, to dare all boldly for
 the word of God, compelling all the virtue, glory, wisdom, and rank of
@@ -413,7 +413,7 @@ the rebellious and petulant, to bind and loose; in fine, if need be, to
 fire and fulminate, but all in the word of God. Although, as I have
 observed, there is this difference between the apostles and their
 successors, they were sure and authentic amanuenses of the Holy Spirit;
- <span id="fr_572"></span>[573](#fn_572) and, therefore, their writings
+ <span id="fr_572"></span>[573](#fn_572.md) and, therefore, their writings
 are to be regarded as the oracles of God, whereas others have no other
 office than to teach what is delivered and sealed in the holy
 Scriptures. We conclude, therefore, that it does not now belong to
@@ -424,7 +424,7 @@ whole Church, is bound to do. In regard to individuals, Paul certainly
 had been appointed an apostle to the Corinthians, and yet he declares
 that he has no dominion over their faith (<span
 id="iv.iv.ix-p33.1"></span>[2 Cor.
-1:24](../../../bib/kjv/co2001.htm#024)<span
+1:24](../../../bib/kjv/co2001.htm#024.md)<span
 id="iv.iv.ix-p33.1"></span>). Who will now presume to arrogate a
 dominion to which the apostle declares that he himself was not
 competent? But if he had acknowledged such licence in teaching, that
@@ -433,14 +433,14 @@ delivered, he never would have laid it down as a rule to the
 Corinthians, that while two or three prophets spoke, the others should
 judge, and that, if anything was revealed to one sitting by, the first
 should be silent (<span id="iv.iv.ix-p33.2"></span>[1 Cor.
-14:29](../../../bib/kjv/co1014.htm#029),
-[30](../../../bib/kjv/co1014.htm#030)<span id="iv.iv.ix-p33.2"></span>).
+14:29](../../../bib/kjv/co1014.htm#029.md),
+[30](../../../bib/kjv/co1014.htm#030)<span id="iv.iv.ix-p33.2"></span>.md).
 Thus he spared none, but subjected the authority of all to the censure
 of the word of God. But it will be said, that with regard to the whole
 Church the case is different. I answer, that in another place Paul meets
 the objection also when he says, that faith cometh by hearing, and
 hearing by the word of God (<span id="iv.iv.ix-p33.3"></span>[Rom.
-10:17](../../../bib/kjv/rom010.htm#017)<span
+10:17](../../../bib/kjv/rom010.htm#017.md)<span
 id="iv.iv.ix-p33.3"></span>). In other words, if faith depends upon the
 word of God alone, if it regards and reclines on it alone, what place is
 left for any word of man? He who knows what faith is can never hesitate
@@ -487,12 +487,12 @@ given not less to private believers than to the whole Church. For
 although the Lord spake to the twelve apostles, when he said, “Lo! I am
 with you alway, even unto the end of the world” (<span
 id="iv.iv.ix-p35.1"></span>[Mt.
-28:20](../../../bib/kjv/mat028.htm#020)<span
+28:20](../../../bib/kjv/mat028.htm#020.md)<span
 id="iv.iv.ix-p35.1"></span>); and again, “I will pray the Father, and he
 shall give you another Comforter, that he may abide with you for ever:
 even the Spirit of truth” (<span id="iv.iv.ix-p35.2"></span>[John
-14:16](../../../bib/kjv/joh014.htm#016),
-[17](../../../bib/kjv/joh014.htm#017)<span id="iv.iv.ix-p35.2"></span>),
+14:16](../../../bib/kjv/joh014.htm#016.md),
+[17](../../../bib/kjv/joh014.htm#017)<span id="iv.iv.ix-p35.2"></span>.md),
 he made these promises not only to the twelve, but to each of them
 separately, nay, in like manner, to other disciples whom he already had
 received, or was afterwards to receive. When they interpret these
@@ -513,11 +513,11 @@ ignorance, falsehood, or darkness, but of sure revelation, wisdom,
 truth, and light, from whom they can, without deception, learn the
 things which have been given to them (<span
 id="iv.iv.ix-p35.3"></span>[1 Cor.
-2:12](../../../bib/kjv/co1002.htm#012)<span
+2:12](../../../bib/kjv/co1002.htm#012.md)<span
 id="iv.iv.ix-p35.3"></span>); in other words, “what is the hope of their
 calling, and what the riches of the glory of their inheritance in the
 saints” (<span id="iv.iv.ix-p35.4"></span>[Eph.
-1:18](../../../bib/kjv/eph001.htm#018)<span
+1:18](../../../bib/kjv/eph001.htm#018.md)<span
 id="iv.iv.ix-p35.4"></span>). But while believers, even those of them
 who are endued with more excellent graces, obtain in the present life
 only the first-fruits, and, as it were, a foretaste of the Spirit,
@@ -528,7 +528,7 @@ from the right path, being left without that Spirit, by whose teaching
 alone truth is discerned from falsehood. For all confess with Paul, that
 “they have not yet reached the goal” (<span
 id="iv.iv.ix-p35.5"></span>[Phil.
-3:12](../../../bib/kjv/phi003.htm#012)<span
+3:12](../../../bib/kjv/phi003.htm#012.md)<span
 id="iv.iv.ix-p35.5"></span>). Accordingly, they rather aim at daily
 progress than glory in perfection.
 
@@ -547,11 +547,11 @@ than he knows to be expedient. I am aware, it is usual here to object,
 that Christ hath cleansed the Church “with the washing of water by the
 word: that he might present it to himself a glorious Church, not having
 spot or wrinkle” (<span id="iv.iv.ix-p36.1"></span>[Eph.
-5:26](../../../bib/kjv/eph005.htm#026),
-[27](../../../bib/kjv/eph005.htm#027)<span id="iv.iv.ix-p36.1"></span>),
+5:26](../../../bib/kjv/eph005.htm#026.md),
+[27](../../../bib/kjv/eph005.htm#027)<span id="iv.iv.ix-p36.1"></span>.md),
 and that it is therefore called the “pillar and ground of the truth”
 (<span id="iv.iv.ix-p36.2"></span>[1 Tim.
-3:15](../../../bib/kjv/ti1003.htm#015)<span
+3:15](../../../bib/kjv/ti1003.htm#015.md)<span
 id="iv.iv.ix-p36.2"></span>). But the former passage rather shows what
 Christ daily performs in it, than what he has already perfected. For if
 he daily sanctifies all his people, purifies, refines them, and wipes
@@ -569,7 +569,7 @@ entirely remove every remaining defect. For unless we admit this, we
 shall be constrained to hold with the Pelagians, that the righteousness
 of believers is perfected in this life: like the Cathari and Donatists
 we shall tolerate no infirmity in the Church.56  <span
-id="fr_573"></span>[574](#fn_573) The other passage, as we have
+id="fr_573"></span>[574](#fn_573.md) The other passage, as we have
 elsewhere seen (chap. 1 sec. 10), has a very different meaning from what
 they put upon it. For when Paul instructed Timothy, and trained him to
 the office of a true bishop, he says, he did it in order that he might
@@ -584,9 +584,9 @@ more children, tossed to and fro, and carried about with every wind of
 doctrine, by the sleight of men, and cunning craftiness, whereby they
 lie in wait to deceive; but, speaking the truth in love, may grow up
 into him in all things, who is the head, even Christ”? (<span
-id="iv.iv.ix-p37.1"></span>[Eph. 4:11](../../../bib/kjv/eph004.htm#011),
-[14](../../../bib/kjv/eph004.htm#014),
-[15](../../../bib/kjv/eph004.htm#015)<span id="iv.iv.ix-p37.1"></span>)
+id="iv.iv.ix-p37.1"></span>[Eph. 4:11](../../../bib/kjv/eph004.htm#011.md),
+[14](../../../bib/kjv/eph004.htm#014.md),
+[15](../../../bib/kjv/eph004.htm#015)<span id="iv.iv.ix-p37.1"></span>.md)
 The reason, therefore, why the truth, instead of being extinguished in
 the world, remains unimpaired, is, because he has the Church as a
 faithful guardian, by whose aid and ministry it is maintained. But if
@@ -624,7 +624,7 @@ perfect guide of her path. At the same time, she will remember the use
 which God wishes to be derived from his Spirit. “When he, the Spirit of
 truth, is come, he will guide you into all truth” (<span
 id="iv.iv.ix-p38.1"></span>[John
-16:13](../../../bib/kjv/joh016.htm#013)<span
+16:13](../../../bib/kjv/joh016.htm#013.md)<span
 id="iv.iv.ix-p38.1"></span>). How? “He shall bring to your remembrance
 all things whatsoever I have said unto you.” He declares, therefore,
 that nothing more is to be expected of his Spirit than to enlighten our
@@ -632,7 +632,7 @@ minds to perceive the truth of his doctrine. Hence Chrysostom most
 shrewdly observes, “Many boast of the Holy Spirit, but with those who
 speak their own it is a false pretence. As Christ declared that he spoke
 not of himself (<span id="iv.iv.ix-p38.2"></span>[John
-12:50](../../../bib/kjv/joh012.htm#050)<span
+12:50](../../../bib/kjv/joh012.htm#050.md)<span
 id="iv.iv.ix-p38.2"></span>; 14:10), because he spoke according to the
 Law and the Prophets; so, if anything contrary to the Gospel is obtruded
 under the name of the Holy Spirit, let us not believe it. For as Christ
@@ -657,7 +657,7 @@ the apostles themselves behoved orally to supply what they had less
 clearly taught, since Christ said to them, “I have yet many things to
 say unto you, but ye cannot bear them now” (<span
 id="iv.iv.ix-p39.1"></span>[John
-16:12](../../../bib/kjv/joh016.htm#012)<span
+16:12](../../../bib/kjv/joh016.htm#012.md)<span
 id="iv.iv.ix-p39.1"></span>), and that these are the points which have
 been received, without writing, merely by use and custom. But what
 effrontery is this? The disciples, I admit, were ignorant and almost
@@ -682,7 +682,7 @@ declare that nothing which the Church teaches and decrees can be
 gainsayed, when he enjoined that every one who presumes to contradict
 should be regarded as a heathen man and a publican? (<span
 id="iv.iv.ix-p40.1"></span>[Mt.
-18:17](../../../bib/kjv/mat018.htm#017)<span
+18:17](../../../bib/kjv/mat018.htm#017.md)<span
 id="iv.iv.ix-p40.1"></span>.) First, there is here no mention of
 doctrine, but her authority to censure, for correction is asserted, in
 order that none who had been admonished or reprimanded might oppose her
@@ -744,14 +744,14 @@ that this new dogma was then wholly unknown.
 
 ### Footnotes
 
-<span id="fn_568"></span>[569](inst088.htm#fr_568) <span
+<span id="fn_568"></span>[569](inst088.htm#fr_568.md) <span
 id="iv.iv.ix-p22.3"></span>
 
 <span id="iv.iv.ix-p23"></span>59 559 The French adds, “Vision receue du
 Seigneur; Le Seigneur des armees l’a dit,”—A vision received from the
 Lord; The Lord of hosts hath spoken it.
 
-<span id="fn_569"></span>[570](inst088.htm#fr_569) <span
+<span id="fn_569"></span>[570](inst088.htm#fr_569.md) <span
 id="iv.iv.ix-p25.2"></span>
 
 <span id="iv.iv.ix-p26"></span>116 D116 This section admirably expresses
@@ -764,7 +764,7 @@ completely concealed in the Old Testament, whereas He is completely
 revealed in the New; nor for the idea that Old Testament saints trusted
 in God, whereas New Testament saints trust in Christ.
 
-<span id="fn_570"></span>[571](inst088.htm#fr_570) <span
+<span id="fn_570"></span>[571](inst088.htm#fr_570.md) <span
 id="iv.iv.ix-p27.2"></span>
 
 <span id="iv.iv.ix-p28"></span>117 D117 Although Calvin uses the term
@@ -776,7 +776,7 @@ previous assertion that historical details “are also the composition of
 prophets,” which assertion takes into account the human factor in the
 process of the inscripturation of revelation.
 
-<span id="fn_571"></span>[572](inst088.htm#fr_571) <span
+<span id="fn_571"></span>[572](inst088.htm#fr_571.md) <span
 id="iv.iv.ix-p30.1"></span>
 
 <span id="iv.iv.ix-p31"></span>118 D118 This assertion that the Spirit
@@ -791,7 +791,7 @@ faculties peculiar to the human instruments, thereby ensuring a
 Scripture characterized by differences of vocabulary, syntax, grammar,
 literary style, historical setting, and theological approach.
 
-<span id="fn_572"></span>[573](inst088.htm#fr_572) <span
+<span id="fn_572"></span>[573](inst088.htm#fr_572.md) <span
 id="iv.iv.ix-p32.3"></span>
 
 <span id="iv.iv.ix-p33"></span>119 D119 The expression, “sure and
@@ -803,7 +803,7 @@ subscribed to such a “dictation theory” of Inspiration is abundantly
 clear from the many relevant portions of the Institutes. (See also notes
 on sections 6 and 8 of this chapter.)
 
-<span id="fn_573"></span>[574](inst088.htm#fr_573) <span
+<span id="fn_573"></span>[574](inst088.htm#fr_573.md) <span
 id="iv.iv.ix-p36.3"></span>
 
 <span id="iv.iv.ix-p37"></span>60 560 The French adds, “Or, nos
@@ -812,4 +812,4 @@ opponents themselves regard all those as heretics.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 9. - OF COUNCILS AND THEIR AUTHORITY](inst089)
+[Next: CHAPTER 9. - OF COUNCILS AND THEIR AUTHORITY](inst089.md)

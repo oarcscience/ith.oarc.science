@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt00)  [Next](pyt02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt00)  [Next](pyt02.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ SAMUEL A. B. MERCER
 
 ------------------------------------------------------------------------
 
-[Next: Contents](pyt02)
+[Next: Contents](pyt02.md)

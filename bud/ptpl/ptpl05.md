@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ptpl04)  [Next](ptpl06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ptpl04)  [Next](ptpl06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2W0U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Principal Teachings of The True Sect of Pure Land*, by Yejitsu Okusa,
 \[1915\], at Intangible Textual Heritage
 
@@ -68,7 +68,7 @@ Kwanzeon-ji was
 
 removed from Tsukushi, and the first school was established in Shōsei
 Garden, better known by the name of Kikoku-tei. In 1754, this school was
-[transferred](errata.htm#8) to Takakura, Kyōto, and the curriculum was
+[transferred](errata.htm#8.md) to Takakura, Kyōto, and the curriculum was
 prepared on an extended scale. This is what is known as the Takakura
 College. Among the many noted scholars that were educated at the
 College, there were the following: Yekū, Yenen, Yerin, Zuiye, Jinrei,
@@ -85,14 +85,14 @@ the sciences and
 <span id="page_46">p. 46</span>
 
 philosophies of the East and West will be studied. In 1901, this new
-department was [transferred](errata.htm#9) to Sugamo, Tōkyō, and another
+department was [transferred](errata.htm#9.md) to Sugamo, Tōkyō, and another
 enlargement and innovation was carried out in order to meet all the
 requirements of modern education. It can safely be said that this
 College at present offers a most complete course of study for
 investigators of Buddhism. After its removal to Tōkyō, the College was
 first presided by Kiyozawa Mansi; and Nanjō Bunyū was his successor.
 
-In 1911, this College was again [transferred](errata.htm#10) to
+In 1911, this College was again [transferred](errata.htm#10.md) to
 Takakura, Kyōto, and the name of Shinshū Daigaku was changed to that of
 Shinshū Ōtani Daigaku. It was first presided by Ōtani Yeiryō, younger
 brother of the present Hosshu, Shōnyo Shōnin. He was then the chief of
@@ -150,7 +150,7 @@ hall. We have at present about 2500 of such travelling preachers. In the
 larger towns there are some stationary teachers whose mission is to
 visit factories, educational institutions, young men's associations,
 etc.; they may also respond to invitations from the
-[military](errata.htm#11) post stationed there. There are about 120
+[military](errata.htm#11.md) post stationed there. There are about 120
 stationary teachers. We have, further, several tens of the religious
 advisers who are sent to teach in the penitentiaries at the request of
 the government.
@@ -170,4 +170,4 @@ our brethren to enlightenment.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Canonical Books](ptpl06)
+[Next: I. The Canonical Books](ptpl06.md)

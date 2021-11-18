@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb44)  [Next](olb46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb44)  [Next](olb46.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -55,19 +55,19 @@ Now I must return to my story.
 
 After the great flood of which my father wrote an account, there came
 many Jutlanders and Letlanders out of the Baltic, or bad sea <span
-id="fr_73"></span>[\*](#fn_73). They were driven down the Kattegat in
+id="fr_73"></span>[\*](#fn_73.md). They were driven down the Kattegat in
 their boats by the ice as far as the coast of Denmark, and there they
 remained. There was not a creature to be seen; so they took possession
 of the land, and named it after themselves, Jutland. Afterwards many of
 the Denmarkers returned from the higher lands, but they settled more to
 the south; and when the mariners returned who had not been lost, they
-all went together to Zeeland <span id="fr_74"></span>[†](#fn_74). By
+all went together to Zeeland <span id="fr_74"></span>[†](#fn_74.md). By
 this arrangement the Jutlanders retained the laud to which Wr-alda had
 conducted them. The Zeeland skippers, who were not satisfied to live
 upon fish, and who hated the Gauls, took to robbing the Phœnician ships.
 In the south-west point of Scandinavia there lies Lindasburgt, called
 Lindasnôse, built by one Apol, as is written in the book <span
-id="fr_75"></span>[‡](#fn_75). All the people
+id="fr_75"></span>[‡](#fn_75.md). All the people
 
 <span id="page_200">p. 200</span> <span id="page_201">p. 201</span>
 
@@ -85,7 +85,7 @@ By the disruption of our land they had lost themselves, and had missed
 Flymond. The merchant who was with them wished to buy new ships from us,
 and for that purpose had brought all kinds of valuables, which they had
 stolen from the Celtic country and Phœnician <span
-id="fr_76"></span>[\*](#fn_76) ships. As we had no ships, I gave them
+id="fr_76"></span>[\*](#fn_76.md) ships. As we had no ships, I gave them
 active horses and four armed couriers to Friso; because at Stavere,
 along the Alberga, the best ships of war were built of hard oak which
 never rots. While these sea rovers remained with us, some of the Jutmen
@@ -128,18 +128,18 @@ afterwards, and Witte was chosen in his place.
 
 ### Footnotes
 
-<span id="fn_73"></span>[199:\*](olb45.htm#fr_73) *Balda jefta kvade sê*
+<span id="fn_73"></span>[199:\*](olb45.htm#fr_73.md) *Balda jefta kvade sê*
 is the Baltic. *Juttarland* is Jutland.
 
-<span id="fn_74"></span>[199:†](olb45.htm#fr_74) Zeeland is the Danish
+<span id="fn_74"></span>[199:†](olb45.htm#fr_74.md) Zeeland is the Danish
 Islands.
 
-<span id="fn_75"></span>[199:‡](olb45.htm#fr_75) See page
-[124](olb33.htm#page_124).
+<span id="fn_75"></span>[199:‡](olb45.htm#fr_75.md) See page
+[124](olb33.htm#page_124.md).
 
-<span id="fn_76"></span>[201:\*](olb45.htm#fr_76) *Phonisjar* are Punics
+<span id="fn_76"></span>[201:\*](olb45.htm#fr_76.md) *Phonisjar* are Punics
 or Carthaginians.
 
 ------------------------------------------------------------------------
 
-[Next: What Friso did further](olb46)
+[Next: What Friso did further](olb46.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jdg)  [Next](sa1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jdg)  [Next](sa1.md) 
 
 ------------------------------------------------------------------------
 
@@ -335,4 +335,4 @@ uDavide.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Samuel](sa1)
+[Next: 1 Samuel](sa1.md)

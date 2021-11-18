@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml09)  [Next](iml11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml09)  [Next](iml11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ alphabetic signs appears to have been introduced by Semites before the
 close of the Vedic period; from these evolved ultimately the scientific
 Sanskrit alphabet and grammar.
 
-In the Iranian period <span id="fr_128"></span>[1](#fn_127) there were
+In the Iranian period <span id="fr_128"></span>[1](#fn_127.md) there were
 social divisions of the people, but the hereditary system does not
 appear to have obtained until the close of Rigvedic times. Kings might
 be elected, or a military aristocracy might impose its sway over an
@@ -134,7 +134,7 @@ their social inferiority was ever emphasized; they might become traders,
 but never Kshatriyas or Brahmans.
 
 The most renowned of early Brahmans were the Rishis, the poets <span
-id="fr_129"></span>[1](#fn_128) who composed the "new songs" to the
+id="fr_129"></span>[1](#fn_128.md) who composed the "new songs" to the
 
 <span id="page_80">p. 80</span>
 
@@ -175,7 +175,7 @@ For the performance of some sacrifices a day of preparation
 <span id="img_08000"></span>
 
 [![GROUP OF PRESENT-DAY BRAHMANS&lt;br&gt; photo. Frith](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 GROUP OF PRESENT-DAY BRAHMANS  
 photo. Frith  
 
@@ -198,7 +198,7 @@ in that (south-westerly) direction, for that is Nirriti's region; he
 thus consigns pain to Nirriti's region. . . .
 
 Outside the fire altars he throws it, &c. <span
-id="fr_130"></span>[1](#fn_129)
+id="fr_130"></span>[1](#fn_129.md)
 
 Human failings may be imputed to Brahmans, but it must be recognized
 that the ideals of their caste were of a high order. They were supposed
@@ -253,7 +253,7 @@ solitude and of simple
 <span id="img_08200"></span>
 
 [![SADHUS (RELIGIOUS MENDICANTS) AT BENARES](tn/08200.jpg)  
-Click to enlarge](img/08200.jpg)  
+Click to enlarge](img/08200.jpg.md)  
 SADHUS (RELIGIOUS MENDICANTS) AT BENARES  
 
  
@@ -298,7 +298,7 @@ it receives its tributaries, and signifying "collected waters" became in
 the *Brahmanas* the name of the world-encircling ocean, across which in
 due time loomed the ships which "once in three years" carried to
 Solomon's order "gold, and silver, ivory (or elephants' tusks), and
-apes, and peacocks". <span id="fr_131"></span>[1](#fn_130)
+apes, and peacocks". <span id="fr_131"></span>[1](#fn_130.md)
 
 In the *Yajurveda* we find that Aryan civilization has developed greatly
 in the course of three or four centuries. Powerful tribes have
@@ -314,7 +314,7 @@ those priests who have studied and teach Vedic lore, are the human
 gods."
 
 The offerings to the deities are "consecrated by the feeding of
-priests". <span id="fr_132"></span>[2](#fn_131)
+priests". <span id="fr_132"></span>[2](#fn_131.md)
 
 Even the gods become dependent upon the priests, who provided them by
 offering sacrifices with the "food" they required, and also with the
@@ -332,7 +332,7 @@ Priests might also accumulate in heaven credit balances
 
 [![A YOGI ON A BED OF SPIKES&lt;br&gt; &lt;i&gt;An example of
 present-day austerities&lt;/i&gt;.](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 A YOGI ON A BED OF SPIKES  
 *An example of present-day austerities*.  
 
@@ -400,7 +400,7 @@ spikenard", and to cause the heart of an ungallant swain to suffer from
 
 Warriors were charmed against spells, cattle and sheep were charmed
 against wild beasts, a house was charmed against evil spirits and
-demons. <span id="fr_133"></span>[1](#fn_132) Greedy demons of disease,
+demons. <span id="fr_133"></span>[1](#fn_132.md) Greedy demons of disease,
 who devoured the flesh of patients, were greatly feared: Brahmans
 performed ceremonies of riddance and
 
@@ -417,7 +417,7 @@ Thus do thou, O cough, fly forth along the expanse of the earth.
 As the rays of the sun swiftly to a distance fly,  
 Thus do thou, O cough, fly forth along the flood of the sea.  
                                     *Atharva-veda*, vi, 105. <span
-id="fr_134"></span>[1](#fn_133)
+id="fr_134"></span>[1](#fn_133.md)
 
 A Scottish Highland charm similarly invokes the Powers, or the "King of
 the Elements":
@@ -434,7 +434,7 @@ all gods, of one accord release us.
 If awake or asleep, to sin inclined, I have committed a sin, may what
 has been, and what shall be, as if from a wooden post, release
 me.          *Atharva-veda*, vi, 115. 1-2. <span
-id="fr_135"></span>[2](#fn_134)
+id="fr_135"></span>[2](#fn_134.md)
 
 Another hymn of this character concludes:
 
@@ -443,7 +443,7 @@ Having cast off diseases from their bodies,
 From lameness free and not deformed in members,  
 There may we see our parents and our children.  
                                *Atharva-veda*, vi, 120. <span
-id="fr_136"></span>[3](#fn_135)
+id="fr_136"></span>[3](#fn_135.md)
 
 While the tribes were spreading southward and eastward,
 
@@ -490,7 +490,7 @@ all diseases and accidents". One official record states that the victim,
 after being stabbed by the priest, was "literally cut to pieces". Each
 person who was "so fortunate as to procure it carried away a morsel of
 the flesh, and presented it to the idol of his own village". <span
-id="fr_137"></span>[1](#fn_136)
+id="fr_137"></span>[1](#fn_136.md)
 
 From the practice of sacrificing human beings arose the conception that
 the first act of Creation was, if not human sacrifice, at least the
@@ -512,7 +512,7 @@ Agni came from his mouth, and Vayu from his breath.
 "When the gods, performing sacrifice, bound Purusha as a victim, there
 were seven sticks (stuck up) for it (around the fire). . . . With
 sacrifice the gods performed the sacrifice. These were the earliest
-rites." <span id="fr_138"></span>[2](#fn_137)
+rites." <span id="fr_138"></span>[2](#fn_137.md)
 
 "From his (Purusha's) navel arose the air, from his head the sky, from
 his ears the four quarters; in this
@@ -523,7 +523,7 @@ manner (the gods) formed the worlds." This conception resembles closely
 the story in Teutonic mythology of the cutting up by the gods of the
 body of the chaos giant Ymer; his skull became the sky, his bones the
 rocks, his blood the sea, and so on. One of the Chinese P’an Ku <span
-id="fr_139"></span>[1](#fn_138) myths is of similar character; the world
+id="fr_139"></span>[1](#fn_138.md) myths is of similar character; the world
 is composed of different parts of his body. The Babylonian Merodach also
 divided the body of the chaos demon, Tiawath or Tiamat; her head became
 the sky, her body the earth, and her blood the rivers which fill the
@@ -566,7 +566,7 @@ it."
 After the sacrifice, the food was divided and the fragments that
 remained were carefully burned, "for none of it must be eaten by dogs;
 that would be desecration, and misfortune would follow in its
-wake". <span id="fr_140"></span>[1](#fn_139)
+wake". <span id="fr_140"></span>[1](#fn_139.md)
 
 The purpose of this annual sacrifice was evidently to secure fertility
 and prosperity generally, and we refer to it here so fully because of
@@ -574,7 +574,7 @@ the light it throws on the Indian ceremonial which it resembles closely
 in some of its details.
 
 There are two direct references to the horse sacrifice in the
-*Rigveda*. <span id="fr_141"></span>[2](#fn_140) The animal is "covered
+*Rigveda*. <span id="fr_141"></span>[2](#fn_140.md) The animal is "covered
 with rich trappings" and led thrice round the altar. It is accompanied
 by a goat, which is killed first to "announce the sacrifice to the
 gods". A goat was also slain at a burial to inform the gods that the
@@ -627,7 +627,7 @@ animals of the chase; she also presided at birth, and women invoked her
 aid. Virgins and youths took a prominent part at this harvest festival.
 The Roman horse sacrifice took place on 15 October. The animal was
 offered to Mars; the head was conveyed to the king's house <span
-id="fr_142"></span>[1](#fn_141) and decorated with loaves, and the blood
+id="fr_142"></span>[1](#fn_141.md) and decorated with loaves, and the blood
 was preserved until April, when it was mixed by virgins with the blood
 of calves; this mixture was given to shepherds to ensure the increase of
 flocks which were fumigated. In the *Mahábhárata* the king and the
@@ -636,7 +636,7 @@ cleansed of their sins.
 
 The Persians, and other peoples of Aryan speech and custom, sacrificed
 horses regularly. But the custom was not confined to Indo-Europeans. The
-Scythians, <span id="fr_143"></span>[2](#fn_142) who were probably
+Scythians, <span id="fr_143"></span>[2](#fn_142.md) who were probably
 Mongols, not only offered horses to the Spirit of Fertility, but also,
 like the Buriats, to the dead. The Patagonians sacrificed horses to tree
 spirits. In this connection it may be noted that some European horse
@@ -673,7 +673,7 @@ the eater of the whole universe; this whole universe is his food."
 After a year of purification the Creator slaughtered his horse body. "He
 gave up the animal to the gods. Therefore they (the gods) slaughter the
 purified animal, representing in its nature, as Prajápati, all deities.
-He (the Creator) is the Ashwameda <span id="fr_144"></span>[1](#fn_143)
+He (the Creator) is the Ashwameda <span id="fr_144"></span>[1](#fn_143.md)
 who shines."
 
 The gods performed the sacrifice to overcome the demons, the
@@ -730,7 +730,7 @@ Thus the first Being, as a commentator remarked, "whose nature
 comprehended all elements, who is eternal, who is not conceived by
 thought, sprang forth by himself. . . . He consumed all sins, for unless
 one is in a worldly state he cannot consume sins. . . . Being mortal he
-created immortals." <span id="fr_145"></span>[1](#fn_144)
+created immortals." <span id="fr_145"></span>[1](#fn_144.md)
 
 From the myth of the chaos-giant Purusha we pass to the higher
 pantheistic conception of Brahmă, the soul of the Universe.
@@ -739,66 +739,66 @@ pantheistic conception of Brahmă, the soul of the Universe.
 
 ### Footnotes
 
-<span id="fn_127"></span>[78:1](iml10.htm#fr_128) A convenient term as
+<span id="fn_127"></span>[78:1](iml10.htm#fr_128.md) A convenient term as
 explained in our Introduction.
 
-<span id="fn_128"></span>[79:1](iml10.htm#fr_129) "A Rishi, 'seer', is
+<span id="fn_128"></span>[79:1](iml10.htm#fr_129.md) "A Rishi, 'seer', is
 primarily a composer of hymns. . . . The Rishis ultimately become the
 representatives of a sacred past." *Vedic Index of Names and Subjects*,
 vol. i, pp. 115-117 (1912).
 
-<span id="fn_129"></span>[81:1](iml10.htm#fr_130) *Satapatha Brahmana*,
+<span id="fn_129"></span>[81:1](iml10.htm#fr_130.md) *Satapatha Brahmana*,
 trans. by Prof. Eggeling (*Sacred Books of the East*, No. XLIII, p.
 170).
 
-<span id="fn_130"></span>[84:1](iml10.htm#fr_131) 1 *Kings*, x, 22.
+<span id="fn_130"></span>[84:1](iml10.htm#fr_131.md) 1 *Kings*, x, 22.
 
-<span id="fn_131"></span>[84:2](iml10.htm#fr_132) *Satapatha Brahmana*,
+<span id="fn_131"></span>[84:2](iml10.htm#fr_132.md) *Satapatha Brahmana*,
 translated by Processor Eggeling, Part I, p. 374 . (*Sacred Books of the
 East*).
 
-<span id="fn_132"></span>[86:1](iml10.htm#fr_133) There are formulas in
+<span id="fn_132"></span>[86:1](iml10.htm#fr_133.md) There are formulas in
 Gaelic for blessing a house, &c. The customs of nailing horse-shoes upon
 doors and hanging up holly at Christmas for protection against evil
 spirits indicate the persistence of ceremonial practices long after
 ancient beliefs haw. been forgotten.
 
-<span id="fn_133"></span>[87:1](iml10.htm#fr_134) Bloomfield's
+<span id="fn_133"></span>[87:1](iml10.htm#fr_134.md) Bloomfield's
 *Atharva-veda* (*Sacred Books of the East*, vol. xlii).
 
-<span id="fn_134"></span>[87:2](iml10.htm#fr_135) Bloomfield's
+<span id="fn_134"></span>[87:2](iml10.htm#fr_135.md) Bloomfield's
 translation.
 
-<span id="fn_135"></span>[87:3](iml10.htm#fr_136) *A History of Sanskrit
+<span id="fn_135"></span>[87:3](iml10.htm#fr_136.md) *A History of Sanskrit
 Literature*, Professor Macdonell, p. 199.
 
-<span id="fn_136"></span>[89:1](iml10.htm#fr_137) *Omens and
+<span id="fn_136"></span>[89:1](iml10.htm#fr_137.md) *Omens and
 Superstitions of Southern India*, by Edgar Thurston, p. 799 et req.,
 1912.
 
-<span id="fn_137"></span>[89:2](iml10.htm#fr_138) Muir's *Original
+<span id="fn_137"></span>[89:2](iml10.htm#fr_138.md) Muir's *Original
 Sanskrit Texts*, vol. i, pp. 9-10.
 
-<span id="fn_138"></span>[90:1](iml10.htm#fr_139) P’an Ku in his giant
+<span id="fn_138"></span>[90:1](iml10.htm#fr_139.md) P’an Ku in his giant
 form. Like the Egyptian Ptah, he is now a dwarf and anon a giant.
 
-<span id="fn_139"></span>[91:1](iml10.htm#fr_140) *A Journey in Southern
+<span id="fn_139"></span>[91:1](iml10.htm#fr_140.md) *A Journey in Southern
 Siberia*, by Jeremiah Curtin, pp. 44-8.
 
-<span id="fn_140"></span>[91:2](iml10.htm#fr_141) *Rigveda*, i, 162, and
+<span id="fn_140"></span>[91:2](iml10.htm#fr_141.md) *Rigveda*, i, 162, and
 i, 163.
 
-<span id="fn_141"></span>[93:1](iml10.htm#fr_142) That is, the so-called
+<span id="fn_141"></span>[93:1](iml10.htm#fr_142.md) That is, the so-called
 "royal house", or house of the "king of the sacred rites".
 
-<span id="fn_142"></span>[93:2](iml10.htm#fr_143) A broad-headed people.
+<span id="fn_142"></span>[93:2](iml10.htm#fr_143.md) A broad-headed people.
 
-<span id="fn_143"></span>[94:1](iml10.htm#fr_144) Horse sacrifice.
+<span id="fn_143"></span>[94:1](iml10.htm#fr_144.md) Horse sacrifice.
 
-<span id="fn_144"></span>[96:1](iml10.htm#fr_145) The *Brihad Aranyaka
+<span id="fn_144"></span>[96:1](iml10.htm#fr_145.md) The *Brihad Aranyaka
 Upanishad*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Mysteries of Creation, the World's Ages, and Soul
-Wandering](iml11)
+Wandering](iml11.md)

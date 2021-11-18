@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](chap04)  [Next](chap06) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](chap04)  [Next](chap06.md) 
 
 ------------------------------------------------------------------------
 
@@ -687,4 +687,4 @@ dominos vel defensores, et plebeos vel laboratores.'
 
 ------------------------------------------------------------------------
 
-[Next: The 'De Civitate Dei' in Later Days](chap06)
+[Next: The 'De Civitate Dei' in Later Days](chap06.md)

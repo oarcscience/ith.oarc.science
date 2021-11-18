@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err17) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err17.md) 
 
 ------------------------------------------------------------------------
 
@@ -866,7 +866,7 @@ If the person whose name was mentioned were guilty, the six magical
 words 'compelled the demon to make the sieve spin round.' Pierre
 D'Abanne--the author of a most entertaining manuscript work on the
 elements of magic, preserved in the Bibliothèque de l'Arsenal <span
-id="fr_43"></span>[1](#fn_43)--recounts that he used this method three
+id="fr_43"></span>[1](#fn_43.md)--recounts that he used this method three
 times with the most complete success, and then gave it up; fearing that
 the demon, in revenge for having been compelled to tell the truth three
 times in succession to one man--greatly, no doubt, to his chargin, since
@@ -973,7 +973,7 @@ In this case we can infer that *nomen est omen*.
 Shoes or gloves when boiled in water yield a liquid which if not
 palatable is however of great use in witchcraft, though I am not
 informed as to the exact manner in which this *soupe au shoe* is served
-up. <span id="fr_44"></span>[1](#fn_44)
+up. <span id="fr_44"></span>[1](#fn_44.md)
 
 When children see a *lucciola*, a fire-fly, they sing a strange little
 song which is also an incantation for luck:--
@@ -1252,7 +1252,7 @@ conjuring-stone, renders all this unnecessary, the owner by the mere act
 of possession becomes a grand past-master Voodoo, or *multote*, and
 requires no further initiation. Even the chief black sorcerer in
 Missouri, or the king, has never been able to get one. <span
-id="fr_45"></span>[1](#fn_45) It would be useless to attempt to palm off
+id="fr_45"></span>[1](#fn_45.md) It would be useless to attempt to palm off
 a similar black pebble for a real one, since it is said that there are
 in all North America only six-or rather five, mine being one of the
 half-dozen--and their possessors are all well known, as is every mark in
@@ -1412,14 +1412,14 @@ BRONZE ETRUSCAN AMULET AGAINST THE EVIL EYE
 
 ### Footnotes
 
-<span id="fn_43"></span>[365:1](err18.htm#fr_43) It has been several
+<span id="fn_43"></span>[365:1](err18.htm#fr_43.md) It has been several
 times published; the last edition is by Scheibele of Stuttgart (in his
 *Kloster*).
 
-<span id="fn_44"></span>[367:1](err18.htm#fr_44) In Voodoo if a woman
+<span id="fn_44"></span>[367:1](err18.htm#fr_44.md) In Voodoo if a woman
 gets another's shoes which have just been taken off, and takes off her
 own and laces them inside the other pair, and so leaves them till
 morning, the man is sure to fall in love with her.--Note by MARY A. OWEN
 
-<span id="fn_45"></span>[372:1](err18.htm#fr_45) This remarkable man who
+<span id="fn_45"></span>[372:1](err18.htm#fr_45.md) This remarkable man who
 was known as "King Alexander" died while this work was being printed.

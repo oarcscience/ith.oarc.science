@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plato](../index)  [Index](index)  [Previous](laws01)  [Next](laws03) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plato](../index)  [Index](index)  [Previous](laws01)  [Next](laws03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1294,4 +1294,4 @@ Cle. Excellent; and now let us begin to frame the State.
 
 ------------------------------------------------------------------------
 
-[Next: BOOK IV](laws03)
+[Next: BOOK IV](laws03.md)

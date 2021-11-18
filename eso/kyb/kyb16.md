@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](kyb15)  [Next](kyb17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](kyb15)  [Next](kyb17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NHRC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NHRC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Kybalion*, by Three Initiates, \[1912\], at Intangible Textual
 Heritage
 
@@ -316,4 +316,4 @@ Reconciler of differing: theories, and opposing doctrines.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Hermetic Axioms](kyb17)
+[Next: Chapter XV. Hermetic Axioms](kyb17.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico112) 
-[Next](nico114) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico112.md) 
+[Next](nico114.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ secondary and fractional way, as are the activities.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6. Happiness is a good activity, not amusement](nico114)
+[Next: Chapter 6. Happiness is a good activity, not amusement](nico114.md)

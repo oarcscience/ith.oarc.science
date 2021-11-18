@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta33)  [Next](sta35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta33)  [Next](sta35.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,7 +126,7 @@ not to be discovered by curiosity
 <span id="img_14100"></span>
 
 [![JOHANN VALENTIN ANDREÆ.](tn/14100.jpg)  
-Click to enlarge](img/14100.jpg)  
+Click to enlarge](img/14100.jpg.md)  
 JOHANN VALENTIN ANDREÆ.  
 
 From a rare print.
@@ -261,7 +261,7 @@ of these is a stage player, a man with
 <span id="img_14200"></span>
 
 [![A SYMBOLIC DIAGRAM OF THE OPERATIONS OF NATURE.](tn/14200.jpg)  
-Click to enlarge](img/14200.jpg)  
+Click to enlarge](img/14200.jpg.md)  
 A SYMBOLIC DIAGRAM OF THE OPERATIONS OF NATURE.  
 
 From *Fludd's Collectio Operum*.
@@ -438,7 +438,7 @@ law. As an imperishable reminder of their
 <span id="img_14300"></span>
 
 [![THE ALCHEMICAL ANDROGYNE ](tn/14300.jpg)  
-Click to enlarge](img/14300.jpg)  
+Click to enlarge](img/14300.jpg.md)  
 THE ALCHEMICAL ANDROGYNE  
 
 From the *Turbæ Philosophorum*.
@@ -459,7 +459,7 @@ by the composite figure above shown.
 <span id="img_14301"></span>
 
 [![A ROSICRUCIAN TITLE PAGE.](tn/14301.jpg)  
-Click to enlarge](img/14301.jpg)  
+Click to enlarge](img/14301.jpg.md)  
 A ROSICRUCIAN TITLE PAGE.  
 
 From Maier's *Viatorium*.
@@ -613,7 +613,7 @@ representing the formula of the Universal Medicine.
 <span id="img_14400"></span>
 
 [![THE ELEMENTARY WORLD.](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 THE ELEMENTARY WORLD.  
 
 From *Musæum Hermeticum Reformatum et Amplificatum*.
@@ -637,4 +637,4 @@ preserve and keep each of them." (See first English translation, London,
 
 ------------------------------------------------------------------------
 
-[Next: Fifteen Rosicrucian and Qabbalistic Diagrams](sta35)
+[Next: Fifteen Rosicrucian and Qabbalistic Diagrams](sta35.md)

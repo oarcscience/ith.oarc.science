@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst099)  [Next](inst101) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst099)  [Next](inst101.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,20 +172,20 @@ and offered to us in him within its proper limits. For why is it that
 the very same apostle who bids us “stand fast in the liberty wherewith
 Christ hath made us free, and be not again entangled with the yoke of
 bondage” (<span id="iv.iv.xxi-p37.1"></span>[Gal.
-5:1](../../../bib/kjv/gal005.htm#001)<span
+5:1](../../../bib/kjv/gal005.htm#001.md)<span
 id="iv.iv.xxi-p37.1"></span>), in another passage forbids slaves to be
 solicitous about their state (<span id="iv.iv.xxi-p37.2"></span>[1 Cor.
-7:21](../../../bib/kjv/co1007.htm#021)<span
+7:21](../../../bib/kjv/co1007.htm#021.md)<span
 id="iv.iv.xxi-p37.2"></span>), unless it be that spiritual liberty is
 perfectly compatible with civil servitude? In this sense the following
 passages are to be understood: “There is neither Jew nor Greek, there is
 neither bond nor free, there is neither male nor female” (<span
 id="iv.iv.xxi-p37.3"></span>[Gal.
-3:28](../../../bib/kjv/gal003.htm#028)<span
+3:28](../../../bib/kjv/gal003.htm#028.md)<span
 id="iv.iv.xxi-p37.3"></span>). Again, “There is neither Greek nor Jew,
 circumcision nor uncircumcision, barbarian, Scythian, bond nor free: but
 Christ is all and in all” (<span id="iv.iv.xxi-p37.4"></span>[Col.
-3:11](../../../bib/kjv/col003.htm#011)<span
+3:11](../../../bib/kjv/col003.htm#011.md)<span
 id="iv.iv.xxi-p37.4"></span>). It is thus intimated, that it matters not
 what your condition is among men, nor under what laws you live, since in
 them the kingdom of Christ does not at all consist.
@@ -261,7 +261,7 @@ regards the people? And, What obedience is due to the magistrate?
 magistrates, the Lord has not only declared that he approves and is
 pleased with it, but, moreover, has strongly recommended it to us by the
 very honourable titles which he has conferred upon it. To mention a,
-few.64  <span id="fr_677"></span>[678](#fn_677) When those who bear the
+few.64  <span id="fr_677"></span>[678](#fn_677.md) When those who bear the
 office of magistrate are called gods, let no one suppose that there is
 little weight in that appellation. It is thereby intimated that they
 have a commission from God, that they are invested with divine
@@ -276,8 +276,8 @@ God? To the same effect Wisdom affirms, by the mouth of Solomon, “By me
 kings reign, and princes decree justice. By me princes rule, and nobles,
 even all the judges of the earth” (<span
 id="iv.iv.xxi-p41.7"></span>[Prov.
-8:15](../../../bib/kjv/pro008.htm#015),
-[16](../../../bib/kjv/pro008.htm#016)<span
+8:15](../../../bib/kjv/pro008.htm#015.md),
+[16](../../../bib/kjv/pro008.htm#016.md)<span
 id="iv.iv.xxi-p41.7"></span>). For it is just as if it had been said,
 that it is not owing to human perverseness that supreme power on earth
 is lodged in kings and other governors, but by Divine Providence, and
@@ -288,13 +288,13 @@ enumerates offices of rule among the gifts of God, which, distributed
 variously, according to the measure of grace, ought to be employed by
 the servants of Christ for the edification of the Church (<span
 id="iv.iv.xxi-p41.8"></span>[Rom.
-12:8](../../../bib/kjv/rom012.htm#008)<span
+12:8](../../../bib/kjv/rom012.htm#008.md)<span
 id="iv.iv.xxi-p41.8"></span>). In that place, however, he is properly
 speaking of the senate of grave men who were appointed in the primitive
 Church to take charge of public discipline. This office, in the Epistle
 to the Corinthians, he calls κυβερνήσεις, *governments* (<span
 id="iv.iv.xxi-p41.9"></span>[1 Cor.
-12:28](../../../bib/kjv/co1012.htm#028)<span
+12:28](../../../bib/kjv/co1012.htm#028.md)<span
 id="iv.iv.xxi-p41.9"></span>). Still, as we see that civil power has the
 same end in view, there can be no doubt that he is recommending every
 kind of just government. He speaks much more clearly when he comes to a
@@ -302,8 +302,8 @@ proper discussion of the subject. For he says that “there is no power
 but of God: the powers that be are ordained of God;” that rulers are the
 ministers of God, “not a terror to good works, but to the evil” (<span
 id="iv.iv.xxi-p41.10"></span>[Rom.
-13:1](../../../bib/kjv/rom013.htm#001),
-[3](../../../bib/kjv/rom013.htm#003)<span
+13:1](../../../bib/kjv/rom013.htm#001.md),
+[3](../../../bib/kjv/rom013.htm#003.md)<span
 id="iv.iv.xxi-p41.10"></span>). To this we may add the examples of
 saints, some of whom held the offices of kings, as David, Josiah, and
 Hezekiah; others of governors, as Joseph and Daniel; others of civil
@@ -314,7 +314,7 @@ lawful, but the most sacred, and by far the most honourable, of all
 stations in mortal life.
 
 <span id="iv.iv.xxi-p42"></span>5. Those who are desirous to introduce
-anarchy65  <span id="fr_678"></span>[679](#fn_678) object that, though
+anarchy65  <span id="fr_678"></span>[679](#fn_678.md) object that, though
 anciently kings and judges presided over a rude people, yet that, in the
 present day, that servile mode of governing does not at all accord with
 the perfection which Christ brought with his gospel. Herein they betray
@@ -323,15 +323,15 @@ themselves a perfection of which not even a hundredth part is seen in
 them. But be they what they may, the refutation is easy. For when David
 says, “Be wise now therefore, O ye kings: be instructed, ye judges of
 the earth;” “Kiss the Son, lest he be angry” (<span
-id="iv.iv.xxi-p43.1"></span>[Ps. 2:10](../../../bib/kjv/psa002.htm#010),
-[12](../../../bib/kjv/psa002.htm#012)<span
+id="iv.iv.xxi-p43.1"></span>[Ps. 2:10](../../../bib/kjv/psa002.htm#010.md),
+[12](../../../bib/kjv/psa002.htm#012.md)<span
 id="iv.iv.xxi-p43.1"></span>), he does not order them to lay aside their
 authority and return to private life, but to make the power with which
 they are invested subject to Christ, that he may rule over all. In like
 manner, when Isaiah predicts of the Church, “Kings shall be thy
 nursing-fathers, and their queens thy nursing-mothers” (<span
 id="iv.iv.xxi-p43.2"></span>[Isaiah
-49:23](../../../bib/kjv/isa049.htm#023)<span
+49:23](../../../bib/kjv/isa049.htm#023.md)<span
 id="iv.iv.xxi-p43.2"></span>), he does not bid them abdicate their
 authority; he rather gives them the honourable appellation of patrons of
 the pious worshippers of God; for the prophecy refers to the advent of
@@ -342,7 +342,7 @@ which Paul, admonishing Timothy, that prayers are to be offered up in
 the public assembly for kings, subjoins the reason, “that we may lead a
 quiet and peaceable life in all godliness and honesty” (<span
 id="iv.iv.xxi-p43.3"></span>[1 Tim.
-2:2](../../../bib/kjv/ti1002.htm#002)<span
+2:2](../../../bib/kjv/ti1002.htm#002.md)<span
 id="iv.iv.xxi-p43.3"></span>). In these words, he recommends the
 condition of the Church to their protection and guardianship.
 
@@ -373,16 +373,16 @@ for the Lord, who is with you in the judgment. Wherefore now let the
 fear of the Lord be upon you; take heed and do it: for there is no
 iniquity with the Lord our God, nor respect of persons, nor taking of
 gifts” (<span id="iv.iv.xxi-p44.1"></span>[2 Chr.
-19:6](../../../bib/kjv/ch2019.htm#006),
-[7](../../../bib/kjv/ch2019.htm#007)<span id="iv.iv.xxi-p44.1"></span>,
+19:6](../../../bib/kjv/ch2019.htm#006.md),
+[7](../../../bib/kjv/ch2019.htm#007.md)<span id="iv.iv.xxi-p44.1"></span>,
 compared with <span id="iv.iv.xxi-p44.2"></span>[Deut.
-1:16](../../../bib/kjv/deu001.htm#016)<span
+1:16](../../../bib/kjv/deu001.htm#016.md)<span
 id="iv.iv.xxi-p44.2"></span>, &c.). And in another passage it is said,
 “God standeth in the congregation of the mighty; he judgeth among the
 gods” (<span id="iv.iv.xxi-p44.3"></span>[Psalm
-82:1](../../../bib/kjv/psa082.htm#001)<span
+82:1](../../../bib/kjv/psa082.htm#001.md)<span
 id="iv.iv.xxi-p44.3"></span>; <span id="iv.iv.xxi-p44.4"></span>[Isaiah
-3:14](../../../bib/kjv/isa003.htm#014)<span
+3:14](../../../bib/kjv/isa003.htm#014.md)<span
 id="iv.iv.xxi-p44.4"></span>), that they may be animated to duty when
 they hear that they are the ambassadors of God, to whom they must one
 day render an account of the province committed to them. This admonition
@@ -401,7 +401,7 @@ religion and Christian piety, what else do they than assail God himself,
 who cannot but be insulted when his servants are disgraced? These men
 not only speak evil of dignities, but would not even have God to reign
 over them (<span id="iv.iv.xxi-p45.1"></span>[1 Sam.
-7:7](../../../bib/kjv/sa1007.htm#007)<span
+7:7](../../../bib/kjv/sa1007.htm#007.md)<span
 id="iv.iv.xxi-p45.1"></span>). For if this was truly said of the people
 of Israel, when they declined the authority of Samuel, how can it be
 less truly said in the present day of those who allow themselves to
@@ -411,8 +411,8 @@ exercise lordship over them; and they that exercise authority upon them
 are called benefactors. But ye shall not be so: but he that is greatest
 among you, let him be as the younger; and he that is chief; as he that
 doth serve” (<span id="iv.iv.xxi-p45.2"></span>[Luke
-22:25](../../../bib/kjv/luk022.htm#025),
-[26](../../../bib/kjv/luk022.htm#026)<span
+22:25](../../../bib/kjv/luk022.htm#025.md),
+[26](../../../bib/kjv/luk022.htm#026.md)<span
 id="iv.iv.xxi-p45.2"></span>); he by these words prohibited all
 Christians from becoming kings or governors. Dexterous expounders! A
 dispute had arisen among the disciples as to which of them should be
@@ -432,7 +432,7 @@ disrelished by heroic and more excellent natures. But Scripture, to
 obviate these unjust judgments, affirms expressly that it is by divine
 wisdom that “kings reign,” and gives special command “to honour the
 king” (<span id="iv.iv.xxi-p45.3"></span>[1 Peter
-2:17](../../../bib/kjv/pe1002.htm#017)<span
+2:17](../../../bib/kjv/pe1002.htm#017.md)<span
 id="iv.iv.xxi-p45.3"></span>).
 
 <span id="iv.iv.xxi-p46"></span> 8. And certainly it were a very idle
@@ -446,7 +446,7 @@ it is not easy to determine which of these has the advantage in point of
 utility, so equal are the terms on which they meet. Monarchy is prone to
 tyranny. In an aristocracy, again, the tendency is not less to the
 faction of a few, while in popular ascendancy there is the strongest
-tendency to sedition.65  <span id="fr_679"></span>[680](#fn_679) When
+tendency to sedition.65  <span id="fr_679"></span>[680](#fn_679.md) When
 these three forms of government, of which philosophers treat, are
 considered in themselves, I, for my part, am far from denying that the
 form which greatly surpasses the others is aristocracy, either pure or
@@ -508,7 +508,7 @@ under them in purity and safety. On the other hand, the sacred history
 sets down anarchy among the vices, when it states that there was no king
 in Israel, and, therefore, every one did as he pleased (<span
 id="iv.iv.xxi-p48.1"></span>[Judges
-21:25](../../../bib/kjv/jdg021.htm#025)<span
+21:25](../../../bib/kjv/jdg021.htm#025.md)<span
 id="iv.iv.xxi-p48.1"></span>). This rebukes the folly of those who would
 neglect the care of divine things, and devote themselves merely to the
 administration of justice among men; as if God had appointed rulers in
@@ -522,20 +522,20 @@ righteousness, and deliver the spoiled out of the hand of the oppressor:
 and do no wrong, do no violence to the stranger, the fatherless, nor the
 widow, neither shed innocent blood” (<span
 id="iv.iv.xxi-p48.2"></span>[Jer.
-22:3](../../../bib/kjv/jer022.htm#003)<span
+22:3](../../../bib/kjv/jer022.htm#003.md)<span
 id="iv.iv.xxi-p48.2"></span>). To the same effect is the exhortation in
 the Psalm, “Defend the poor and fatherless; do justice to the afflicted
 and needy. Deliver the poor and needy; rid them out of the hand of the
 wicked” (<span id="iv.iv.xxi-p48.3"></span>[Ps.
-82:3](../../../bib/kjv/psa082.htm#003),
-[4](../../../bib/kjv/psa082.htm#004)<span id="iv.iv.xxi-p48.3"></span>).
+82:3](../../../bib/kjv/psa082.htm#003.md),
+[4](../../../bib/kjv/psa082.htm#004)<span id="iv.iv.xxi-p48.3"></span>.md).
 Moses also declared to the princes whom he had substituted for himself,
 “Hear the causes between your brethren, and judge righteously between
 every man and his brother, and the stranger that is with him. Ye shall
 not respect persons in judgment; but ye shall hear the small as well as
 the great: ye shall not be afraid of the face of man, for the judgment
 is God’s” (<span id="iv.iv.xxi-p48.4"></span>[Deut.
-1:16](../../../bib/kjv/deu001.htm#016)<span
+1:16](../../../bib/kjv/deu001.htm#016.md)<span
 id="iv.iv.xxi-p48.4"></span>). I say nothing as to such passages as
 these, “He shall not multiply horses to himself, nor cause the people to
 return to Egypt;” “neither shall he multiply wives to himself; neither
@@ -544,7 +544,7 @@ him a copy of this law in a book;” “and it shall be with him, and he
 shall read therein all the days of his life, that he may learn to fear
 the Lord his God;” “that his heart be not lifted up above his brethren”
 (<span id="iv.iv.xxi-p48.5"></span>[Deut.
-17:16-20](../../../bib/kjv/deu017.htm#016)<span
+17:16-20](../../../bib/kjv/deu017.htm#016.md)<span
 id="iv.iv.xxi-p48.5"></span>). In here explaining the duties of
 magistrates, my exposition is intended not so much for the instruction
 of magistrates themselves, as to teach others why there are magistrates,
@@ -559,7 +559,7 @@ that hath an high look and a proud heart will not I suffer. Mine eyes
 shall be upon the faithful of the land, that they may dwell with me: he
 that walketh in a perfect way, he shall serve me” (<span
 id="iv.iv.xxi-p48.6"></span>[Psalm
-101:4-6](../../../bib/kjv/psa101.htm#004)<span
+101:4-6](../../../bib/kjv/psa101.htm#004.md)<span
 id="iv.iv.xxi-p48.6"></span>). But as rulers cannot do this unless they
 protect the good against the injuries of the bad, and give aid and
 protection to the oppressed, they are armed with power to curb manifest
@@ -573,7 +573,7 @@ of the wicked cannot be restrained, without strict discipline and the
 infliction of punishment. The two things are comprehended by the prophet
 when he enjoins kings and other rulers to execute “judgment and
 righteousness” (<span id="iv.iv.xxi-p48.7"></span>[Jer.
-21:12](../../../bib/kjv/jer021.htm#012)<span
+21:12](../../../bib/kjv/jer021.htm#012.md)<span
 id="iv.iv.xxi-p48.7"></span>; 22:3). It is righteousness (justice) to
 take charge of the innocent, to defend and avenge them, and set them
 free: it is judgment to withstand the audacity of the wicked, to repress
@@ -582,7 +582,7 @@ their violence, and punish their faults.
 <span id="iv.iv.xxi-p49"></span>10. But here a difficult, and, as it
 seems, a perplexing question arises. If all Christians are forbidden to
 kill, and the prophet predicts concerning the holy mountain of the Lord,
-that is, the Church,65  <span id="fr_680"></span>[681](#fn_680) “They
+that is, the Church,65  <span id="fr_680"></span>[681](#fn_680.md) “They
 shall not hurt or destroy,” how can magistrates be at once pious and yet
 shedders of blood? But if we understand that the magistrate, in
 inflicting punishment, acts not of himself, but executes the very
@@ -592,7 +592,7 @@ Lawgiver himself puts the sword into the hands of his ministers, that
 they may employ it against all murderers. It belongs not to the pious to
 afflict and hurt; but to avenge the afflictions of the pious, at the
 command of God, is neither to afflict nor hurt.65  <span
-id="fr_681"></span>[682](#fn_681) I wish it could always be present to
+id="fr_681"></span>[682](#fn_681.md) I wish it could always be present to
 our mind, that nothing is done here by the rashness of man, but all in
 obedience to the authority of God. When it is the guide, we never stray
 from the right path, unless, indeed, divine justice is to be placed
@@ -601,12 +601,12 @@ dare not give the law to it, why should we bring a charge against its
 ministers? “He beareth not the sword in vain,” says Paul, “for he is the
 minister of God, a revenger to execute wrath on him that doeth evil”
 (<span id="iv.iv.xxi-p51.1"></span>[Rom.
-13:4](../../../bib/kjv/rom013.htm#004)<span
+13:4](../../../bib/kjv/rom013.htm#004.md)<span
 id="iv.iv.xxi-p51.1"></span>). Wherefore, if princes and other rulers
 know that nothing will be more acceptable to God than their obedience,
 let them give themselves to this service if they are desirous to improve
 their piety, justice, and integrity to God. This was the feeling of
-Moses65  <span id="fr_682"></span>[683](#fn_682) when, recognising
+Moses65  <span id="fr_682"></span>[683](#fn_682.md) when, recognising
 himself as destined to deliver his people by the power of the Lord, he
 laid violent hands on the Egyptian, and afterwards took vengeance on the
 people for sacrilege, by slaying three thousand of them in one day. This
@@ -624,7 +624,7 @@ bloody testament, not to allow the grey hairs of Joab and Shimei to go
 to the grave in peace? Both, by their sternness, sanctified the hands
 which they would have polluted by showing mercy, inasmuch as they
 executed the vengeance committed to them by God. Solomon says,65  <span
-id="fr_683"></span>[684](#fn_683) “It is an abomination to kings to
+id="fr_683"></span>[684](#fn_683.md) “It is an abomination to kings to
 commit wickedness; for the throne is established by righteousness.”
 Again, “A king that sitteth in the throne of judgment, scattereth away
 all evil with his eyes.” Again, “A wise king scattereth the wicked, and
@@ -647,7 +647,7 @@ those who would either favour an unseasonable severity, or think that
 any tribunal could be accounted just that is not presided over by mercy,
 that best and surest counsellor of kings, and, as Solomon declares,
 “upholder of the throne” (<span id="iv.iv.xxi-p53.2"></span>[Prov.
-20:28](../../../bib/kjv/pro020.htm#028)<span
+20:28](../../../bib/kjv/pro020.htm#028.md)<span
 id="iv.iv.xxi-p53.2"></span>). This, as was truly said by one of old,
 should be the primary endowment of princes. The magistrate must guard
 against both extremes; he must neither, by excessive severity, rather
@@ -697,12 +697,12 @@ condemned all wars, when the soldiers ask counsel as to the way of
 salvation, they would have been told to cast away their arms, and
 withdraw altogether from military service. Whereas it was said (<span
 id="iv.iv.xxi-p55.1"></span>[Luke
-3:14](../../../bib/kjv/luk003.htm#014)<span
+3:14](../../../bib/kjv/luk003.htm#014.md)<span
 id="iv.iv.xxi-p55.1"></span>), Concuss no one, do injury to no one, be
 contented with your pay. Those whom he orders to be contented with their
 pay he certainly does not forbid to serve” (August. <span
 id="iv.iv.xxi-p55.2"></span>[Ep.
-5](../../../bib/kjv/eph005.htm#000)<span id="iv.iv.xxi-p55.2"></span> ad
+5](../../../bib/kjv/eph005.htm#000.md)<span id="iv.iv.xxi-p55.2"></span> ad
 Marcell.) But all magistrates must here be particularly cautious not to
 give way, in the slightest degree, to their passions. Or rather, whether
 punishments are to be inflicted, they must not be borne headlong by
@@ -738,14 +738,14 @@ proportion to the office which they sustained, without offending piety,
 expended liberally of the public funds; and we read in Ezekiel, that a
 very large extent of territory was assigned to kings (<span
 id="iv.iv.xxi-p56.1"></span>[Ezek.
-48:21](../../../bib/kjv/eze048.htm#021)<span
+48:21](../../../bib/kjv/eze048.htm#021.md)<span
 id="iv.iv.xxi-p56.1"></span>). In that passage, indeed, he is depicting
 the spiritual kingdom of Christ, but still he borrows his representation
 from lawful dominion among men. Princes, however, must remember, in
 their turn, that their revenues are not so much private chests as
 treasuries of the whole people (this Paul testifies, <span
 id="iv.iv.xxi-p56.2"></span>[Rom.
-13:6](../../../bib/kjv/rom013.htm#006)<span
+13:6](../../../bib/kjv/rom013.htm#006.md)<span
 id="iv.iv.xxi-p56.2"></span>), which they cannot, without manifest
 injustice, squander or dilapidate; or rather, that they are almost the
 blood of the people, which it were the harshest inhumanity not to spare.
@@ -802,7 +802,7 @@ pleased to exercise, as it were, the childhood of that people, until the
 fulness of the time should come when he was fully to manifest his wisdom
 to the world, and exhibit the reality of those things which were then
 adumbrated by figures (<span id="iv.iv.xxi-p58.1"></span>[Gal.
-3:24](../../../bib/kjv/gal003.htm#024)<span
+3:24](../../../bib/kjv/gal003.htm#024.md)<span
 id="iv.iv.xxi-p58.1"></span>; 4:4). The judicial law, given them as a
 kind of polity, delivered certain forms of equity and justice, by which
 they might live together innocently and quietly. And as that exercise in
@@ -843,7 +843,7 @@ Jewish law, or from each other (August. de Civit. Dei, Lib. 19 c. 17).
 The law of God forbids to steal. The punishment appointed for theft in
 the civil polity of the Jews may be seen in <span
 id="iv.iv.xxi-p59.1"></span>[Exodus
-22](../../../bib/kjv/exo022.htm#000)<span id="iv.iv.xxi-p59.1"></span>.
+22](../../../bib/kjv/exo022.htm#000.md)<span id="iv.iv.xxi-p59.1"></span>.
 Very ancient laws of other nations punished theft by exacting the double
 of what was stolen, while subsequent laws made a distinction between
 theft manifest and not manifest. Other laws went the length of punishing
@@ -851,7 +851,7 @@ with exile, or with branding, while others made the punishment capital.
 Among the Jews, the punishment of the false witness was to “do unto him
 as he had thought to have done with his brother” (<span
 id="iv.iv.xxi-p59.2"></span>[Deut.
-19:19](../../../bib/kjv/deu019.htm#019)<span
+19:19](../../../bib/kjv/deu019.htm#019.md)<span
 id="iv.iv.xxi-p59.2"></span>). In some countries, the punishment is
 infamy, in others hanging, in others crucifixion. All laws alike avenge
 murder with blood, but the kinds of death are different. In some
@@ -894,7 +894,7 @@ inasmuch as they are forbidden to take revenge, cite before a judge, or
 go to law. But when Paul, on the contrary, clearly declares that he is
 the minister of God to us for good (<span
 id="iv.iv.xxi-p60.1"></span>[Rom.
-13:4](../../../bib/kjv/rom013.htm#004)<span
+13:4](../../../bib/kjv/rom013.htm#004.md)<span
 id="iv.iv.xxi-p60.1"></span>), we thereby understand that he was so
 ordained of God, that, being defended by his hand and aid against the
 dishonesty and injustice of wicked men, we may live quiet and secure.
@@ -943,7 +943,7 @@ more carefully to beware of polluting it by our fault.
 judicial distinction know, that they repudiate the holy ordinance of
 God, and one of those gifts which to the pure are pure, unless, indeed,
 they would charge Paul with a crime,65  <span
-id="fr_684"></span>[685](#fn_684) because he repelled the calumnies of
+id="fr_684"></span>[685](#fn_684.md) because he repelled the calumnies of
 his accusers, exposing their craft and wickedness, and, at the tribunal,
 claimed for himself the privilege of a Roman citizen, appealing, when
 necessary, from the governor to Cæsar’s judgment-seat. There is nothing
@@ -967,7 +967,7 @@ anticipate the vengeance of the heavenly Judge. By no means, for we are
 to consider that the vengeance of the magistrate is the vengeance not of
 man, but of God, which, as Paul says, he exercises by the ministry of
 man for our good (<span id="iv.iv.xxi-p63.6"></span>[Rom.
-13:8](../../../bib/kjv/rom013.htm#008)<span
+13:8](../../../bib/kjv/rom013.htm#008.md)<span
 id="iv.iv.xxi-p63.6"></span>).
 
 <span id="iv.iv.xxi-p64"></span>20. No more are we at variance with the
@@ -975,8 +975,8 @@ words of Christ, who forbids us to resist evil, and adds, “Whosoever
 shall smite thee on thy right cheek, turn to him the other also. And if
 any man will sue thee at the law, and take away thy coat, let him have
 thy cloak also” (<span id="iv.iv.xxi-p64.1"></span>[Matt.
-5:39](../../../bib/kjv/mat005.htm#039),
-[40](../../../bib/kjv/mat005.htm#040)<span
+5:39](../../../bib/kjv/mat005.htm#039.md),
+[40](../../../bib/kjv/mat005.htm#040.md)<span
 id="iv.iv.xxi-p64.1"></span>). He would have the minds of his followers
 to be so abhorrent to everything like retaliation, that they would
 sooner allow the injury to be doubled than desire to repay it. From this
@@ -990,8 +990,8 @@ whole of life but the endurance of a perpetual cross. Meanwhile, they
 must do good to those who injure them, and pray for those who curse
 them, and (this is their only victory) strive to overcome evil with good
 (<span id="iv.iv.xxi-p64.2"></span>[Rom.
-12:20](../../../bib/kjv/rom012.htm#020),
-[21](../../../bib/kjv/rom012.htm#021)<span
+12:20](../../../bib/kjv/rom012.htm#020.md),
+[21](../../../bib/kjv/rom012.htm#021.md)<span
 id="iv.iv.xxi-p64.2"></span>). Thus affected, they will not seek eye for
 eye, and tooth for tooth (as the Pharisees taught their disciples to
 long for vengeance), but (as we are instructed by Christ), they will
@@ -1012,12 +1012,12 @@ openly, that patience and good-will may be retained within the secret of
 the heart, and that may be done openly which we see may do good to those
 to whom we ought to wish well (August. <span
 id="iv.iv.xxi-p64.3"></span>[Ep.
-5](../../../bib/kjv/eph005.htm#000)<span id="iv.iv.xxi-p64.3"></span>
+5](../../../bib/kjv/eph005.htm#000.md)<span id="iv.iv.xxi-p64.3"></span>
 ad. Marcell.).
 
 <span id="iv.iv.xxi-p65"></span>21. The usual objection, that law-suits
 are universally condemned by Paul (<span id="iv.iv.xxi-p65.1"></span>[1
-Cor. 6:6](../../../bib/kjv/co1006.htm#006)<span
+Cor. 6:6](../../../bib/kjv/co1006.htm#006.md)<span
 id="iv.iv.xxi-p65.1"></span>), is false. It may easily be understood
 from his words, that a rage for litigation prevailed in the Church of
 Corinth to such a degree, that they exposed the gospel of Christ, and
@@ -1055,17 +1055,17 @@ because they know this is expedient for the public good, and yet the
 opinion which those persons have of magistrates is, that they are a kind
 of necessary evils. But Peter requires something more of us when he
 says, “Honour the king” (<span id="iv.iv.xxi-p66.1"></span>[1 Pet.
-2:17](../../../bib/kjv/pe1002.htm#017)<span
+2:17](../../../bib/kjv/pe1002.htm#017.md)<span
 id="iv.iv.xxi-p66.1"></span>); and Solomon, when he says, “My son, fear
 thou the Lord and the king” (<span id="iv.iv.xxi-p66.2"></span>[Prov.
-24:21](../../../bib/kjv/pro024.htm#021)<span
+24:21](../../../bib/kjv/pro024.htm#021.md)<span
 id="iv.iv.xxi-p66.2"></span>). For, under the term honour, the former
 includes a sincere and candid esteem, and the latter, by joining the
 king with God, shows that he is invested with a kind of sacred
 veneration and dignity. We have also the remarkable injunction of Paul,
 “Be subject not only for wrath, but also for conscience sake” (<span
 id="iv.iv.xxi-p66.3"></span>[Rom.
-13:5](../../../bib/kjv/rom013.htm#005)<span
+13:5](../../../bib/kjv/rom013.htm#005.md)<span
 id="iv.iv.xxi-p66.3"></span>). By this he means, that subjects, in
 submitting to princes and governors, are not to be influenced merely by
 fear (just as those submit to an armed enemy who see vengeance ready to
@@ -1084,19 +1084,19 @@ offices and burdens, which relate to the common defence, or in executing
 any other orders. “Let every soul,” says Paul, “be subject unto the
 higher powers.” “Whosoever, therefore, resisteth the power, resisteth
 the ordinance of God” (<span id="iv.iv.xxi-p67.1"></span>[Rom.
-13:1](../../../bib/kjv/rom013.htm#001),
-[2](../../../bib/kjv/rom013.htm#002)<span id="iv.iv.xxi-p67.1"></span>).
+13:1](../../../bib/kjv/rom013.htm#001.md),
+[2](../../../bib/kjv/rom013.htm#002)<span id="iv.iv.xxi-p67.1"></span>.md).
 Writing to Titus, he says, “Put them in mind to be subject to
 principalities and powers, to obey magistrates, to be ready to every
 good work” (<span id="iv.iv.xxi-p67.2"></span>[Tit.
-3:1](../../../bib/kjv/tit003.htm#001)<span
+3:1](../../../bib/kjv/tit003.htm#001.md)<span
 id="iv.iv.xxi-p67.2"></span>). Peter also says, “Submit yourselves to
 every human creature” (or rather, as I understand it, “ordinance of
 man”), “for the Lord’s sake: whether it be to the king, as supreme; or
 unto governors, as unto them that are sent by him for the punishment of
 evil-doers, and for the praise of them that do well” (<span
 id="iv.iv.xxi-p67.3"></span>[1 Pet.
-2:13](../../../bib/kjv/pe1002.htm#013)<span
+2:13](../../../bib/kjv/pe1002.htm#013.md)<span
 id="iv.iv.xxi-p67.3"></span>). Moreover, to testify that they do not
 feign subjection, but are sincerely and cordially subject, Paul adds,
 that they are to commend the safety and prosperity of those under whom
@@ -1105,8 +1105,8 @@ supplications, prayers, intercessions, and giving of thanks, be made for
 all men; for kings, and for all that are in authority: that we may lead
 a quiet and peaceable life in all godliness and honesty” (<span
 id="iv.iv.xxi-p67.4"></span>[1 Tim.
-2:1](../../../bib/kjv/ti1002.htm#001),
-[2](../../../bib/kjv/ti1002.htm#002)<span id="iv.iv.xxi-p67.4"></span>).
+2:1](../../../bib/kjv/ti1002.htm#001.md),
+[2](../../../bib/kjv/ti1002.htm#002)<span id="iv.iv.xxi-p67.4"></span>.md).
 Let no man here deceive himself, since we cannot resist the magistrate
 without resisting God. For, although an unarmed magistrate may seem to
 be despised with impunity, yet God is armed, and will signally avenge
@@ -1163,7 +1163,7 @@ tyrannically are raised up by him to punish the people for their
 iniquity. Still all alike possess that sacred majesty with which he has
 invested lawful power. I will not proceed further without subjoining
 some distinct passages to this effect.65  <span
-id="fr_685"></span>[686](#fn_685) We need not labour to prove that an
+id="fr_685"></span>[686](#fn_685.md) We need not labour to prove that an
 impious king is a mark of the Lord’s anger, since I presume no one will
 deny it, and that this is not less true of a king than of a robber who
 plunders your goods, an adulterer who defiles your bed, and an assassin
@@ -1183,13 +1183,13 @@ is so often set before us in Scripture, and that special act of
 distributing kingdoms, and setting up as kings whomsoever he pleases. In
 Daniel it is said, “He changeth the times and the seasons: he removeth
 kings, and setteth up kings” (<span id="iv.iv.xxi-p71.1"></span>[Dan.
-2:21](../../../bib/kjv/dan002.htm#021),
-[37](../../../bib/kjv/dan002.htm#037)<span
+2:21](../../../bib/kjv/dan002.htm#021.md),
+[37](../../../bib/kjv/dan002.htm#037.md)<span
 id="iv.iv.xxi-p71.1"></span>). Again, “That the living may know that the
 Most High ruleth in the kingdom of men, and giveth it to whomsoever he
 will” (<span id="iv.iv.xxi-p71.2"></span>[Dan.
-4:17](../../../bib/kjv/dan004.htm#017),
-[25](../../../bib/kjv/dan004.htm#025)<span
+4:17](../../../bib/kjv/dan004.htm#017.md),
+[25](../../../bib/kjv/dan004.htm#025.md)<span
 id="iv.iv.xxi-p71.2"></span>). Similar sentiments occur throughout
 Scripture, but they abound particularly in the prophetical books. What
 kind of king Nebuchadnezzar, he who stormed Jerusalem, was, is well
@@ -1201,15 +1201,15 @@ given thee a kingdom, power, and strength, and glory. And wheresoever
 the children of men dwell, the beasts of the field and the fowls of the
 heaven hath he given into thine hand, and hath made thee ruler over them
 all” (<span id="iv.iv.xxi-p71.3"></span>[Dan.
-2:37](../../../bib/kjv/dan002.htm#037),
-[38](../../../bib/kjv/dan002.htm#038)<span
+2:37](../../../bib/kjv/dan002.htm#037.md),
+[38](../../../bib/kjv/dan002.htm#038.md)<span
 id="iv.iv.xxi-p71.3"></span>). Again, he says to his son Belshazzar,
 “The most high God gave Nebuchadnezzar thy father a kingdom, and
 majesty, and glory, and honour: and for the majesty that he gave him,
 all people, nations, and languages, trembled and feared before him”
 (<span id="iv.iv.xxi-p71.4"></span>[Dan.
-5:18](../../../bib/kjv/dan005.htm#018),
-[19](../../../bib/kjv/dan005.htm#019)<span
+5:18](../../../bib/kjv/dan005.htm#018.md),
+[19](../../../bib/kjv/dan005.htm#019.md)<span
 id="iv.iv.xxi-p71.4"></span>). When we hear that the king was appointed
 by God, let us, at the same time, call to mind those heavenly edicts as
 to honouring and fearing the king, and we shall have no doubt that we
@@ -1230,7 +1230,7 @@ servants. And he will take your men-servants, and your maid-servants,
 and your goodliest young men, and your asses, and put them to his work.
 He will take the tenth of your sheep: and ye shall be his servants”
 (<span id="iv.iv.xxi-p71.5"></span>[1 Sam.
-8:11](../../../bib/kjv/sa1008.htm#011)<span
+8:11](../../../bib/kjv/sa1008.htm#011.md)<span
 id="iv.iv.xxi-p71.5"></span>-l7). Certainly these things could not be
 done legally by kings, whom the law trained most admirably to all kinds
 of restraint; but it was called justice in regard to the people, because
@@ -1255,7 +1255,7 @@ of Babylon, and that will not put their neck under the yoke of the king
 of Babylon, that nation will I punish, saith the Lord, with the sword,
 and with famine, and with pestilence, until I have consumed them by his
 hand” (<span id="iv.iv.xxi-p72.1"></span>[Jer.
-27:5-8](../../../bib/kjv/jer027.htm#005)<span
+27:5-8](../../../bib/kjv/jer027.htm#005.md)<span
 id="iv.iv.xxi-p72.1"></span>). Therefore “bring your necks under the
 yoke of the king of Babylon, and serve him and his people, and live” (v.
 12). We see how great obedience the Lord was pleased to demand for this
@@ -1279,18 +1279,18 @@ pleasure that he should reign. To this effect we have general
 declarations in Scripture. Solomon says—“For the transgression of a
 land, many are the princes thereof” (<span
 id="iv.iv.xxi-p73.1"></span>[Prov.
-28:2](../../../bib/kjv/pro028.htm#002)<span
+28:2](../../../bib/kjv/pro028.htm#002.md)<span
 id="iv.iv.xxi-p73.1"></span>). Job says—“He looseth the bond of kings,
 and girdeth their loins with a girdle” (<span
 id="iv.iv.xxi-p73.2"></span>[Job.
-12:18](../../../bib/kjv/job012.htm#018)<span
+12:18](../../../bib/kjv/job012.htm#018.md)<span
 id="iv.iv.xxi-p73.2"></span>). This being confessed, nothing remains for
 us but to serve and live. There is in Jeremiah another command in which
 the Lord thus orders his people—“Seek the peace of the city whither I
 have caused you to be carried away captives, and pray unto the Lord for
 it: for in the peace thereof shall ye have peace” (<span
 id="iv.iv.xxi-p73.3"></span>[Jer.
-29:7](../../../bib/kjv/jer029.htm#007)<span
+29:7](../../../bib/kjv/jer029.htm#007.md)<span
 id="iv.iv.xxi-p73.3"></span>). Here the Israelites, plundered of all
 their property, torn from their homes, driven into exile, thrown into
 miserable bondage, are ordered to pray for the prosperity of the victor,
@@ -1305,8 +1305,8 @@ master, the Lord’s anointed, to stretch forth mine hand against him,
 seeing he is the anointed of the Lord.” “Mine eyes spare thee; and I
 said, I will not put forth mine hand against my lord; for he is the
 Lord’s anointed” (<span id="iv.iv.xxi-p73.4"></span>[1 Sam.
-24:6](../../../bib/kjv/sa1024.htm#006),
-[11](../../../bib/kjv/sa1024.htm#011)<span
+24:6](../../../bib/kjv/sa1024.htm#006.md),
+[11](../../../bib/kjv/sa1024.htm#011.md)<span
 id="iv.iv.xxi-p73.4"></span>). Again,—“Who can stretch forth his hand
 against the Lord’s anointed, and be guiltless”? “As the Lord liveth the
 Lord shall smite him, or his day shall come to die, or he shall descend
@@ -1341,7 +1341,7 @@ which doubtless the Lord is chastising by such scourges. In this way
 humility will curb our impatience. And let us reflect that it belongs
 not to us to cure these evils, that all that remains for us is to
 implore the help of the Lord, in whose hands are the hearts of kings,
-and inclinations of kingdoms.65  <span id="fr_686"></span>[687](#fn_686)
+and inclinations of kingdoms.65  <span id="fr_686"></span>[687](#fn_686.md)
 “God standeth in the congregation of the mighty; he judgeth among the
 gods.” Before his face shall fall and be crushed all kings and judges of
 the earth, who have not kissed his anointed, who have enacted unjust
@@ -1373,7 +1373,7 @@ directed by the hand of God, as seemed to him good, and did his work
 without knowing it, had nought but evil in their thoughts.
 
 <span id="iv.iv.xxi-p77"></span>31. But whatever may be thought of the
-acts of the men themselves,65  <span id="fr_687"></span>[688](#fn_687)
+acts of the men themselves,65  <span id="fr_687"></span>[688](#fn_687.md)
 the Lord by their means equally executed his own work, when he broke the
 bloody sceptres of insolent kings, and overthrew their intolerable
 dominations. Let princes hear and be afraid; but let us at the same time
@@ -1413,7 +1413,7 @@ no injury is done when it is subordinated to the special and truly
 supreme power of God. On this ground Daniel denies that he had sinned in
 any respect against the king when he refused to obey his impious decree
 (<span id="iv.iv.xxi-p79.1"></span>[Dan.
-6:22](../../../bib/kjv/dan006.htm#022)<span
+6:22](../../../bib/kjv/dan006.htm#022.md)<span
 id="iv.iv.xxi-p79.1"></span>), because the king had exceeded his limits,
 and not only been injurious to men, but, by raising his horn against
 God, had virtually abrogated his own power. On the other hand, the
@@ -1421,11 +1421,11 @@ Israelites are condemned for having too readily obeyed the impious edict
 of the king. For, when Jeroboam made the golden calf, they forsook the
 temple of God, and, in submissiveness to him, revolted to new
 superstitions (<span id="iv.iv.xxi-p79.2"></span>[1 Kings
-12:28](../../../bib/kjv/kg1012.htm#028)<span
+12:28](../../../bib/kjv/kg1012.htm#028.md)<span
 id="iv.iv.xxi-p79.2"></span>). With the same facility posterity had
 bowed before the decrees of their kings. For this they are severely
 upbraided by the Prophet (<span id="iv.iv.xxi-p79.3"></span>[Hosea
-5:11](../../../bib/kjv/hos005.htm#011)<span
+5:11](../../../bib/kjv/hos005.htm#011.md)<span
 id="iv.iv.xxi-p79.3"></span>). So far is the praise of modesty from
 being due to that pretence by which flattering courtiers cloak
 themselves, and deceive the simple, when they deny the lawfulness of
@@ -1437,17 +1437,17 @@ suppliants. I know the imminent peril to which subjects expose
 themselves by this firmness, kings being most indignant when they are
 contemned. As Solomon says, “The wrath of a king is as messengers of
 death” (<span id="iv.iv.xxi-p79.4"></span>[Prov.
-16:14](../../../bib/kjv/pro016.htm#014)<span
+16:14](../../../bib/kjv/pro016.htm#014.md)<span
 id="iv.iv.xxi-p79.4"></span>). But since Peter, one of heaven’s heralds,
 has published the edict, “We ought to obey God rather than men” (<span
 id="iv.iv.xxi-p79.5"></span>[Acts
-5:29](../../../bib/kjv/act005.htm#029)<span
+5:29](../../../bib/kjv/act005.htm#029.md)<span
 id="iv.iv.xxi-p79.5"></span>), let us console ourselves with the
 thought, that we are rendering the obedience which the Lord requires,
 when we endure anything rather than turn aside from piety. And that our
 courage may not fail, Paul stimulates us by the additional consideration
 (<span id="iv.iv.xxi-p79.6"></span>[1 Cor.
-7:23](../../../bib/kjv/co1007.htm#023)<span
+7:23](../../../bib/kjv/co1007.htm#023.md)<span
 id="iv.iv.xxi-p79.6"></span>), that we were redeemed by Christ at the
 great price which our redemption cost him, in order that we might not
 yield a slavish obedience to the depraved wishes of men, far less do
@@ -1459,37 +1459,37 @@ homage to their impiety.
 
 ### Footnotes
 
-<span id="fn_677"></span>[678](inst100.htm#fr_677) <span
+<span id="fn_677"></span>[678](inst100.htm#fr_677.md) <span
 id="iv.iv.xxi-p40.1"></span>
 
 <span id="iv.iv.xxi-p41"></span>49 649 <span
 id="iv.iv.xxi-p41.1"></span>[Exod.
-22:8](../../../bib/kjv/exo022.htm#008),
-[9](../../../bib/kjv/exo022.htm#009)<span id="iv.iv.xxi-p41.1"></span>;
+22:8](../../../bib/kjv/exo022.htm#008.md),
+[9](../../../bib/kjv/exo022.htm#009.md)<span id="iv.iv.xxi-p41.1"></span>;
 <span id="iv.iv.xxi-p41.2"></span>[Ps.
-82:1](../../../bib/kjv/psa082.htm#001),
-[6](../../../bib/kjv/psa082.htm#006)<span id="iv.iv.xxi-p41.2"></span>;
+82:1](../../../bib/kjv/psa082.htm#001.md),
+[6](../../../bib/kjv/psa082.htm#006.md)<span id="iv.iv.xxi-p41.2"></span>;
 <span id="iv.iv.xxi-p41.3"></span>[John
-10:34](../../../bib/kjv/joh010.htm#034),
-[35](../../../bib/kjv/joh010.htm#035)<span id="iv.iv.xxi-p41.3"></span>;
+10:34](../../../bib/kjv/joh010.htm#034.md),
+[35](../../../bib/kjv/joh010.htm#035.md)<span id="iv.iv.xxi-p41.3"></span>;
 <span id="iv.iv.xxi-p41.4"></span>[Deut.
-1:16](../../../bib/kjv/deu001.htm#016),
-[17](../../../bib/kjv/deu001.htm#017)<span id="iv.iv.xxi-p41.4"></span>;
+1:16](../../../bib/kjv/deu001.htm#016.md),
+[17](../../../bib/kjv/deu001.htm#017.md)<span id="iv.iv.xxi-p41.4"></span>;
 <span id="iv.iv.xxi-p41.5"></span>[2 Chr.
-19:6](../../../bib/kjv/ch2019.htm#006),
-[7](../../../bib/kjv/ch2019.htm#007)<span id="iv.iv.xxi-p41.5"></span>;
+19:6](../../../bib/kjv/ch2019.htm#006.md),
+[7](../../../bib/kjv/ch2019.htm#007.md)<span id="iv.iv.xxi-p41.5"></span>;
 <span id="iv.iv.xxi-p41.6"></span>[Prov.
-8:15](../../../bib/kjv/pro008.htm#015)<span
+8:15](../../../bib/kjv/pro008.htm#015.md)<span
 id="iv.iv.xxi-p41.6"></span>.
 
-<span id="fn_678"></span>[679](inst100.htm#fr_678) <span
+<span id="fn_678"></span>[679](inst100.htm#fr_678.md) <span
 id="iv.iv.xxi-p42.1"></span>
 
 <span id="iv.iv.xxi-p43"></span>50 650 French, “Ceux qui voudroyent que
 les hommes vesquissent pesle mesle comme rats en paille;”—Those who
 would have men to live pell-mell like rats among straw.
 
-<span id="fn_679"></span>[680](inst100.htm#fr_679) <span
+<span id="fn_679"></span>[680](inst100.htm#fr_679.md) <span
 id="iv.iv.xxi-p46.1"></span>
 
 <span id="iv.iv.xxi-p47"></span>51 651 French “On conte trois especes de
@@ -1503,21 +1503,21 @@ or Duke, or otherwise; Aristocracy, which is a government composed of
 the chiefs and people of note; and Democracy, which is a popular
 government, in which each of the people has power.
 
-<span id="fn_680"></span>[681](inst100.htm#fr_680) <span
+<span id="fn_680"></span>[681](inst100.htm#fr_680.md) <span
 id="iv.iv.xxi-p49.1"></span>
 
 <span id="iv.iv.xxi-p50"></span>52 652 <span
 id="iv.iv.xxi-p50.1"></span>[Exod.
-20:13](../../../bib/kjv/exo020.htm#013)<span
+20:13](../../../bib/kjv/exo020.htm#013.md)<span
 id="iv.iv.xxi-p50.1"></span>; <span id="iv.iv.xxi-p50.2"></span>[Deut.
-5:17](../../../bib/kjv/deu005.htm#017)<span
+5:17](../../../bib/kjv/deu005.htm#017.md)<span
 id="iv.iv.xxi-p50.2"></span>; <span id="iv.iv.xxi-p50.3"></span>[Mt.
-5:21](../../../bib/kjv/mat005.htm#021)<span
+5:21](../../../bib/kjv/mat005.htm#021.md)<span
 id="iv.iv.xxi-p50.3"></span>; <span id="iv.iv.xxi-p50.4"></span>[Isa.
-11:9](../../../bib/kjv/isa011.htm#009)<span
+11:9](../../../bib/kjv/isa011.htm#009.md)<span
 id="iv.iv.xxi-p50.4"></span>; 65:25.
 
-<span id="fn_681"></span>[682](inst100.htm#fr_681) <span
+<span id="fn_681"></span>[682](inst100.htm#fr_681.md) <span
 id="iv.iv.xxi-p50.5"></span>
 
 <span id="iv.iv.xxi-p51"></span>53 653 The French adds, “Pourtant il est
@@ -1534,78 +1534,78 @@ the hands of magistrates. Just as when a prince forbids all his subjects
 to beat or hurt any one, he nevertheless prohibits not his officers from
 executing the justice which he has specially committed to them.
 
-<span id="fn_682"></span>[683](inst100.htm#fr_682) <span
+<span id="fn_682"></span>[683](inst100.htm#fr_682.md) <span
 id="iv.iv.xxi-p51.2"></span>
 
 <span id="iv.iv.xxi-p52"></span>54 654 <span
 id="iv.iv.xxi-p52.1"></span>[Exod
-2:12](../../../bib/kjv/exo002.htm#012)<span
+2:12](../../../bib/kjv/exo002.htm#012.md)<span
 id="iv.iv.xxi-p52.1"></span>; <span id="iv.iv.xxi-p52.2"></span>[Acts
-7:21](../../../bib/kjv/act007.htm#021)<span
+7:21](../../../bib/kjv/act007.htm#021.md)<span
 id="iv.iv.xxi-p52.2"></span>; <span id="iv.iv.xxi-p52.3"></span>[Exod.
-32:26](../../../bib/kjv/exo032.htm#026)<span
+32:26](../../../bib/kjv/exo032.htm#026.md)<span
 id="iv.iv.xxi-p52.3"></span>; <span id="iv.iv.xxi-p52.4"></span>[1 Kings
-2:5](../../../bib/kjv/kg1002.htm#005)<span id="iv.iv.xxi-p52.4"></span>;
+2:5](../../../bib/kjv/kg1002.htm#005.md)<span id="iv.iv.xxi-p52.4"></span>;
 <span id="iv.iv.xxi-p52.5"></span>[Ps
-101:8](../../../bib/kjv/psa101.htm#008)<span
+101:8](../../../bib/kjv/psa101.htm#008.md)<span
 id="iv.iv.xxi-p52.5"></span>; 45:8.
 
-<span id="fn_683"></span>[684](inst100.htm#fr_683) <span
+<span id="fn_683"></span>[684](inst100.htm#fr_683.md) <span
 id="iv.iv.xxi-p52.6"></span>
 
 <span id="iv.iv.xxi-p53"></span>55 655 <span
 id="iv.iv.xxi-p53.1"></span>[Prov
-16:12](../../../bib/kjv/pro016.htm#012)<span
+16:12](../../../bib/kjv/pro016.htm#012.md)<span
 id="iv.iv.xxi-p53.1"></span>; 20:26; 25:4, 5; 17:15; 17:14; 24:24.
 
-<span id="fn_684"></span>[685](inst100.htm#fr_684) <span
+<span id="fn_684"></span>[685](inst100.htm#fr_684.md) <span
 id="iv.iv.xxi-p62.1"></span>
 
 <span id="iv.iv.xxi-p63"></span>56 656 <span
 id="iv.iv.xxi-p63.1"></span>[Acts
-22:0](../../../bib/kjv/act022.htm#000), [Acts
-24:0](../../../bib/kjv/act024.htm#000)<span
+22:0](../../../bib/kjv/act022.htm#000.md), [Acts
+24:0](../../../bib/kjv/act024.htm#000.md)<span
 id="iv.iv.xxi-p63.1"></span>:12; 16:37; 22:25; 25:10; <span
 id="iv.iv.xxi-p63.2"></span>[Lev.
-19:18](../../../bib/kjv/lev019.htm#018)<span
+19:18](../../../bib/kjv/lev019.htm#018.md)<span
 id="iv.iv.xxi-p63.2"></span>; <span id="iv.iv.xxi-p63.3"></span>[Mt.
-5:39](../../../bib/kjv/mat005.htm#039)<span
+5:39](../../../bib/kjv/mat005.htm#039.md)<span
 id="iv.iv.xxi-p63.3"></span>; <span id="iv.iv.xxi-p63.4"></span>[Deut.
-32:35](../../../bib/kjv/deu032.htm#035)<span
+32:35](../../../bib/kjv/deu032.htm#035.md)<span
 id="iv.iv.xxi-p63.4"></span>; <span id="iv.iv.xxi-p63.5"></span>[Rom.
-12:19](../../../bib/kjv/rom012.htm#019)<span
+12:19](../../../bib/kjv/rom012.htm#019.md)<span
 id="iv.iv.xxi-p63.5"></span>.
 
-<span id="fn_685"></span>[686](inst100.htm#fr_685) <span
+<span id="fn_685"></span>[686](inst100.htm#fr_685.md) <span
 id="iv.iv.xxi-p69.1"></span>
 
 <span id="iv.iv.xxi-p70"></span>57 657 <span
 id="iv.iv.xxi-p70.1"></span>[Job
-34:30](../../../bib/kjv/job034.htm#030)<span
+34:30](../../../bib/kjv/job034.htm#030.md)<span
 id="iv.iv.xxi-p70.1"></span>; <span id="iv.iv.xxi-p70.2"></span>[Hos.
-13:11](../../../bib/kjv/hos013.htm#011)<span
+13:11](../../../bib/kjv/hos013.htm#011.md)<span
 id="iv.iv.xxi-p70.2"></span>; <span id="iv.iv.xxi-p70.3"></span>[Isa.
-3:4](../../../bib/kjv/isa003.htm#004)<span id="iv.iv.xxi-p70.3"></span>;
+3:4](../../../bib/kjv/isa003.htm#004.md)<span id="iv.iv.xxi-p70.3"></span>;
 10:5: <span id="iv.iv.xxi-p70.4"></span>[Deut.
-28:29](../../../bib/kjv/deu028.htm#029)<span
+28:29](../../../bib/kjv/deu028.htm#029.md)<span
 id="iv.iv.xxi-p70.4"></span>.
 
-<span id="fn_686"></span>[687](inst100.htm#fr_686) <span
+<span id="fn_686"></span>[687](inst100.htm#fr_686.md) <span
 id="iv.iv.xxi-p74.1"></span>
 
 <span id="iv.iv.xxi-p75"></span>58 658 <span
 id="iv.iv.xxi-p75.1"></span>[Dan.
-9:7](../../../bib/kjv/dan009.htm#007)<span id="iv.iv.xxi-p75.1"></span>;
+9:7](../../../bib/kjv/dan009.htm#007.md)<span id="iv.iv.xxi-p75.1"></span>;
 <span id="iv.iv.xxi-p75.2"></span>[Prov.
-21:1](../../../bib/kjv/pro021.htm#001)<span
+21:1](../../../bib/kjv/pro021.htm#001.md)<span
 id="iv.iv.xxi-p75.2"></span>; <span id="iv.iv.xxi-p75.3"></span>[Psalm
-82:1](../../../bib/kjv/psa082.htm#001)<span
+82:1](../../../bib/kjv/psa082.htm#001.md)<span
 id="iv.iv.xxi-p75.3"></span>; 2:10; <span
 id="iv.iv.xxi-p75.4"></span>[Isaiah
-10:1](../../../bib/kjv/isa010.htm#001)<span
+10:1](../../../bib/kjv/isa010.htm#001.md)<span
 id="iv.iv.xxi-p75.4"></span>.
 
-<span id="fn_687"></span>[688](inst100.htm#fr_687) <span
+<span id="fn_687"></span>[688](inst100.htm#fr_687.md) <span
 id="iv.iv.xxi-p77.1"></span>
 
 <span id="iv.iv.xxi-p78"></span>59 659 The French adds, “Car les uns les
@@ -1616,4 +1616,4 @@ feeling, as we have said.
 
 ------------------------------------------------------------------------
 
-[Next: ONE HUNDRED APHORISMS,](inst101)
+[Next: ONE HUNDRED APHORISMS,](inst101.md)

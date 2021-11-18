@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph00)  [Next](sph02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph00)  [Next](sph02.md) 
 
 ------------------------------------------------------------------------
 
@@ -218,4 +218,4 @@ is only a contemporary prejudice.
 
 ------------------------------------------------------------------------
 
-[Next: 1: Hymn to Aphrodite](sph02)
+[Next: 1: Hymn to Aphrodite](sph02.md)

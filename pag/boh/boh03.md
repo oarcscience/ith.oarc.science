@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh02)  [Next](boh04) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh02)  [Next](boh04.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ the night of October 31st.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The Celts: Their Religion and Festivals](boh04)
+[Next: Chapter II: The Celts: Their Religion and Festivals](boh04.md)

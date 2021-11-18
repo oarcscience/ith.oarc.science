@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth081)  [Next](toth083) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth081)  [Next](toth083.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_212">p. 212</span>
 
-## 79. THE COYOTE AND THE GRASSHOPPER. <span id="fr_152"></span>[1](#fn_150)
+## 79. THE COYOTE AND THE GRASSHOPPER. <span id="fr_152"></span>[1](#fn_150.md)
 
 Halíksai! In Oraíbi the people were living. At Grasshopper Bluff
 (Tö'tölchomo), the Grasshopper Old Man (Tö'töl Wuhtaka) and his wife
@@ -28,10 +28,10 @@ The two were great friends. When it was planting time the Grasshopper
 also wanted to plant but he said to his wife that he was not going to
 plant alone, others were going to help him, so she should put up a good
 deal of food. She prepared some múhpiki, <span
-id="fr_153"></span>[2](#fn_151) some qö'ma, <span
-id="fr_154"></span>[3](#fn_152) and filled a jug with water. All this
+id="fr_153"></span>[2](#fn_151.md) some qö'ma, <span
+id="fr_154"></span>[3](#fn_152.md) and filled a jug with water. All this
 her husband took on his back, took some seeds, and went to his field.
-Here he seated himself in the kísi <span id="fr_155"></span>[4](#fn_153)
+Here he seated himself in the kísi <span id="fr_155"></span>[4](#fn_153.md)
 that he had built in his field and waited, but nobody came. It was
 nearly noon and still nobody came. So he ate his food all alone. When he
 had eaten he took the seed, went into the field and planted all alone.
@@ -98,18 +98,18 @@ scattered out at that time they would be just living at one place now.
 
 ### Footnotes
 
-<span id="fn_150"></span>[212:1](toth082.htm#fr_152) Told by Macáhongva
+<span id="fn_150"></span>[212:1](toth082.htm#fr_152.md) Told by Macáhongva
 (Oraíbi).
 
-<span id="fn_151"></span>[212:2](toth082.htm#fr_153) Rolls of thin wafer
+<span id="fn_151"></span>[212:2](toth082.htm#fr_153.md) Rolls of thin wafer
 bread (píki).
 
-<span id="fn_152"></span>[212:3](toth082.htm#fr_154) Meal of sweet corn.
+<span id="fn_152"></span>[212:3](toth082.htm#fr_154.md) Meal of sweet corn.
 
-<span id="fn_153"></span>[212:4](toth082.htm#fr_155) Shade, shadow,
+<span id="fn_153"></span>[212:4](toth082.htm#fr_155.md) Shade, shadow,
 umbrella, etc., in this case a booth or temporary shelter in the field,
 built of branches and brush.
 
 ------------------------------------------------------------------------
 
-[Next: 80. The Three Maidens and the Coyote](toth083)
+[Next: 80. The Three Maidens and the Coyote](toth083.md)

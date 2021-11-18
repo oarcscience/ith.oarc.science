@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](facade)  [Next](i2e) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](facade)  [Next](i2e.md) 
 
 ------------------------------------------------------------------------
 
@@ -280,4 +280,4 @@ Guider to the path of truth.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction of 2nd Edition](i2e)
+[Next: Introduction of 2nd Edition](i2e.md)

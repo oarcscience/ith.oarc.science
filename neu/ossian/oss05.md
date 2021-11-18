@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss04)  [Next](oss06) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss04)  [Next](oss06.md) 
 
 ------------------------------------------------------------------------
 
@@ -451,7 +451,7 @@ Highlands were divided into clans. The king, when he kept his court in
 the mountains, was considered by the whole nation as the chief of their
 blood. The small number, as well as the presence of their prince,
 prevented those divisions which, afterward, sprung forth into so many
-separate tribes. When the seat of [government](errata.htm#2) was removed
+separate tribes. When the seat of [government](errata.htm#2.md) was removed
 to the south, those who remained in the Highlands were, of course,
 neglected. They naturally formed themselves into small societies
 independent of
@@ -525,7 +525,7 @@ nature.
 <span id="page_73">p. 73</span>
 
 \[paragraph continues\] So well adapted are the sounds of the words to
-the sentiments, that, even without any [knowledge](errata.htm#3) of the
+the sentiments, that, even without any [knowledge](errata.htm#3.md) of the
 language, they pierce and dissolve the heart. Successful love is
 expressed with peculiar tenderness and elegance. In all their
 compositions, except the heroic, which was solely calculated to animate
@@ -845,7 +845,7 @@ The subject of the poem is the same with that of the epic poem of
 Fingal. Caribh Mac-Starn is the same with Ossian's Swaran, the son of
 Starno. His single combats with, and his victory over, all the heroes of
 Ireland, excepting the "celebrated dog of Tara," *i. e.* Cuthullin,
-afford matter for two hundred lines of [tolerable](errata.htm#4) poetry.
+afford matter for two hundred lines of [tolerable](errata.htm#4.md) poetry.
 Cribh's progress in search of Cuthullin, and his intrigue with the
 gigantic Emir-bragal, that hero's wife, enables the poet to extend his
 piece to four hundred lines. This author, it is true, makes Cuthullin a
@@ -1001,7 +1001,7 @@ discussion of the pretensions of Ireland was become in some measure
 necessary. If the Irish poems concerning the Fiona should appear
 ridiculous, it is but justice to observe, that they are scarcely more so
 than the poems of other nations at that period. On other subjects, the
-bards of Ireland have displayed a [genius](errata.htm#5) for poetry. It
+bards of Ireland have displayed a [genius](errata.htm#5.md) for poetry. It
 was alone in matters of antiquity that they were monstrous in their
 fables. Their love-sonnets,
 
@@ -1016,4 +1016,4 @@ in another language.
 
 ------------------------------------------------------------------------
 
-[Next: A Critical Dissertation...](oss06)
+[Next: A Critical Dissertation...](oss06.md)

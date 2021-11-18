@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp05)  [Next](dmp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp05)  [Next](dmp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ nothing \[in the world better (?)\] than it (?).
 
 ------------------------------------------------------------------------
 
-[Next: Col. IV.](dmp07)
+[Next: Col. IV.](dmp07.md)

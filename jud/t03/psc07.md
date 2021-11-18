@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc06)  [Next](psc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc06)  [Next](psc08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -19,17 +19,17 @@ PROHIBITING LEAVEN TO BE SEEN OR FOUND IN THE HOUSE OF AN ISRAELITE.
 
 MISHNA: The law (prohibiting leaven to be seen or found in the house) on
 Passover is transgressed by the following articles: Babylonian
-Kuthach, <span id="fr_32"></span>[1](#fn_32) Median beer (made of wheat
+Kuthach, <span id="fr_32"></span>[1](#fn_32.md) Median beer (made of wheat
 or barley), Edomite vinegar (made by the fermentation of barley and
-wine), Egyptian zeethum, <span id="fr_33"></span>[2](#fn_33) the dough
+wine), Egyptian zeethum, <span id="fr_33"></span>[2](#fn_33.md) the dough
 of bran used by dyers, the dough used by cooks, <span
-id="fr_34"></span>[3](#fn_34) and the paste used by scribes (to paste
+id="fr_34"></span>[3](#fn_34.md) and the paste used by scribes (to paste
 the sheets of paper together). R. Eliezer says, also the ornaments used
 by women. This is the general rule: What is composed of any kind of
 grain can cause a transgression of the law of Passover, and they that
 become guilty of such a transgression incur the penalty attached to the
 transgression of a negative commandment <span
-id="fr_35"></span>[4](#fn_35) (*i.e.*, a commandment commencing with
+id="fr_35"></span>[4](#fn_35.md) (*i.e.*, a commandment commencing with
 "thou shalt not"); but not the penalty of Kareth (being cut off).
 
 GEMARA: The rabbis taught: "Three things were said in reference to
@@ -50,7 +50,7 @@ fat flesh of a virgin she-goat, and
 three-year-old wine. As a general thing, all things that are good for
 the eyes affect the heart and other parts of the body, while those that
 are good for the heart affect the eyes, excepting moist ginger <span
-id="fr_36"></span>[1](#fn_36) and pepper-pods and the three things
+id="fr_36"></span>[1](#fn_36.md) and pepper-pods and the three things
 mentioned above."
 
 Median beer and Edomite vinegar are prohibited, because they are both
@@ -80,7 +80,7 @@ is, because the rich women would leave it for the use of the daughters
 of the poor scribes, and he does not concur in the opinion that it means
 glue, because it would in that event be called "paste used by
 shoemakers." Said R. Oshiya: "It is glue, and the reason it is called
-'[paste](errata.htm#7) used by scribes' is because scribes also paste
+'[paste](errata.htm#7.md) used by scribes' is because scribes also paste
 their sheets together therewith."
 
 "*R. Eliezer says also ornaments of women*." What connection have
@@ -147,7 +147,7 @@ Whence does R. Eliezer adduce that the use of leaven combined with the
 other ingredients constitutes a transgression of the law? From the
 passage, "Nothing that is leavened shall ye eat," and he means to say
 that "nothing" includes also leaven combined with the ingredients. How
-will he explain the "whosoever" <span id="fr_37"></span>[1](#fn_37) in
+will he explain the "whosoever" <span id="fr_37"></span>[1](#fn_37.md) in
 the other passage \[Exod. xii. 15\]? That includes women, who must also
 not eat leavened bread on Passover.
 
@@ -161,7 +161,7 @@ eating of unleavened bread \[Deut. xvi. 3\] being written together, we
 might assume that only those who are obliged to eat Matzoth must not eat
 Chometz; and as the women are not obliged to eat Matzoth, because the
 positive commandment ordaining the eating of Matzoth is dependent upon
-the time, <span id="fr_38"></span>[2](#fn_38) we might assume that women
+the time, <span id="fr_38"></span>[2](#fn_38.md) we might assume that women
 may eat Chometz; hence we are told by the passage, "Whosoever eateth
 leavened bread, etc., shall be cut off."
 
@@ -289,7 +289,7 @@ is not culpable.
 Said Rabba to R. Hisda: "If thou dost not admit of this supposition, how
 then can it be allowed to cook on a festival for the Sabbath?" and R.
 Hisda answered: "By means of the Erub of cooked things." <span
-id="fr_39"></span>[1](#fn_39) "May, then, a biblical prohibition be
+id="fr_39"></span>[1](#fn_39.md) "May, then, a biblical prohibition be
 disregarded even by means of such an Erub?" queried Rabba, and R. Hisda
 replied: "Cooking on a festival for the Sabbath is, according to
 biblical law, permissible, and the sages only prohibited it as a
@@ -361,7 +361,7 @@ be culpable of transgressing the law contained in the passage \[Exod.
 xii. 16\], 'No manner of work shall be done on them (the
 festival-days),' and R. Eliezer did not reply. Should be not have said:
 'My reason is based upon "supposition"'?" Rejoined R. Jeremiah: "And
-according to thy [opinion](errata.htm#8), does the teaching in another
+according to thy [opinion](errata.htm#8.md), does the teaching in another
 Boraitha, that R. Eliezer said to R. Jehoshua: Will not, according to
 thy decree, a man be culpable for the transgression of the law, 'It
 shall not be seen nor found in thy house,' and the failure of R.
@@ -471,7 +471,7 @@ may even cross each other.
 MISHNA: If the fourteenth (of Nissan) fall on the Sabbath, all leaven
 must be removed *before* the Sabbath commences. Such is the dictum of R.
 Meir; but the sages say that it should be done at the proper time. R.
-Elazer <span id="fr_40"></span>[1](#fn_40) ben Zadok says: "The
+Elazer <span id="fr_40"></span>[1](#fn_40.md) ben Zadok says: "The
 heave-offering must be removed before the Sabbath, and non-consecrated
 things at the proper time."
 
@@ -547,7 +547,7 @@ entitled to be ranked as rabbis). They were R. Shesheth and R. Jehoshua.
 R. Papa said: "If I had not wedded a priest's daughter I should never
 have become rich;" but R. Kahana said: "If I had not married a priest's
 daughter I should never have gone into exile"; <span
-id="fr_41"></span>[1](#fn_41) and he was asked: "What hast thou suffered
+id="fr_41"></span>[1](#fn_41.md) and he was asked: "What hast thou suffered
 thereby; didst thou not flee to a place of learning?" and he answered:
 "I did not go into exile voluntarily (to improve my learning or to
 better my condition), but was compelled to flee from the persecution of
@@ -650,7 +650,7 @@ by any other man." Does this refer to R. Aqiba and his companions? Were
 they accorded that place merely because they were martyrs; did they then
 possess no other merits? Therefore this must refer to the two brothers
 who sacrificed themselves at Lud (Lydda). <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 It is written \[Zechariah xiv. 9\]: "And the Lord will be king over all
 the earth; on that day shall the Lord be (acknowledged) one, and His
@@ -687,43 +687,43 @@ pronounced Adonai.
 
 ### Footnotes
 
-<span id="fn_32"></span>[68:1](psc07.htm#fr_32) This is explained to be
+<span id="fn_32"></span>[68:1](psc07.htm#fr_32.md) This is explained to be
 a mixture of mouldy bread with milk and salt, used as a sauce for food.
 
-<span id="fn_33"></span>[68:2](psc07.htm#fr_33) According to the Talmud,
+<span id="fn_33"></span>[68:2](psc07.htm#fr_33.md) According to the Talmud,
 this is a mixture of barley, salt, and wild saffron, while according to
 Pliny, who calls it "zythum," it is a medicine of Egyptian origin.
 
-<span id="fn_34"></span>[68:3](psc07.htm#fr_34) A dough used to attract
+<span id="fn_34"></span>[68:3](psc07.htm#fr_34.md) A dough used to attract
 the impurities in a pot where food is boiling.
 
-<span id="fn_35"></span>[68:4](psc07.htm#fr_35) The penalty for such
+<span id="fn_35"></span>[68:4](psc07.htm#fr_35.md) The penalty for such
 transgression is chastisement with thirty-nine stripes.
 
-<span id="fn_36"></span>[69:1](psc07.htm#fr_36) The Hebrew term which we
+<span id="fn_36"></span>[69:1](psc07.htm#fr_36.md) The Hebrew term which we
 render with ginger is Zangbila, and according to other versions it is
 supposed to be sandal-wood.
 
-<span id="fn_37"></span>[71:1](psc07.htm#fr_37) Both passages quoted
+<span id="fn_37"></span>[71:1](psc07.htm#fr_37.md) Both passages quoted
 contain the word "Kol," Hebrew for "all"; and the Passages should read:
 "All that is leavened shall ye not eat" and "All who eat leavened bread
 shall be cut off," etc. Hence the analogous comparison made in the above
 paragraph.
 
-<span id="fn_38"></span>[71:2](psc07.htm#fr_38) *Vide* page
-[71](#page_71).
+<span id="fn_38"></span>[71:2](psc07.htm#fr_38.md) *Vide* page
+[71](#page_71.md).
 
-<span id="fn_39"></span>[74:1](psc07.htm#fr_39) See introduction to
+<span id="fn_39"></span>[74:1](psc07.htm#fr_39.md) See introduction to
 Tract Erubin.
 
-<span id="fn_40"></span>[78:1](psc07.htm#fr_40) According to Strack,
+<span id="fn_40"></span>[78:1](psc07.htm#fr_40.md) According to Strack,
 referring to Frankl, Brill, and Bacher. But Heilpern in, his Seder
 Hadoreth and Mielziner in his introduction to the Talmud, Eliezer.
 
-<span id="fn_41"></span>[80:1](psc07.htm#fr_41) R. Kahana was forced to
+<span id="fn_41"></span>[80:1](psc07.htm#fr_41.md) R. Kahana was forced to
 flee from Babylon to Palestine.
 
-<span id="fn_42"></span>[82:1](psc07.htm#fr_42) It is related in Tract
+<span id="fn_42"></span>[82:1](psc07.htm#fr_42.md) It is related in Tract
 Taanith that a daughter of a prince in that city having been murdered,
 the crime was attributed to all the Israelites, when, in order to save
 their co-religionists, who were innocent of the crime, two brothers went
@@ -733,4 +733,4 @@ also innocent), thus shielding their brethren from persecution.--RASHI.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV: Regulations Concerning Work Which May and Must not be
-Performed on the Day Before Passover](psc08)
+Performed on the Day Before Passover](psc08.md)

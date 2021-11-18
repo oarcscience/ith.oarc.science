@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo24)  [Next](hoo26) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo24)  [Next](hoo26.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ On mother Earth with fruitful show'rs to fall.
 
 ------------------------------------------------------------------------
 
-[Next: XXI: To the Sea, or Tethys](hoo26)
+[Next: XXI: To the Sea, or Tethys](hoo26.md)

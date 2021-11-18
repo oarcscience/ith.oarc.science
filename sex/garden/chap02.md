@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap01) 
-[Next](chap03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap01.md) 
+[Next](chap03.md) 
 
 ------------------------------------------------------------------------
 
@@ -779,4 +779,4 @@ imperils himself, and exposes himself to the greatest troubles.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3: About Men Who Are To Be Held in Contempt](chap03)
+[Next: Chapter 3: About Men Who Are To Be Held in Contempt](chap03.md)

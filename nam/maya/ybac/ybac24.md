@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac23)  [Next](ybac25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac23)  [Next](ybac25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -122,16 +122,16 @@ waist, leaving one end hang in front and one behind. These ends were
 embroidered by their wives with much care and with featherwork. They
 wore large square mantles, which they threw over the shoulders. They
 wore sandals of hemp or deerskin tanned dry, and then no other
-garments. <span id="fr_20"></span>[\*](#fn_20)
+garments. <span id="fr_20"></span>[\*](#fn_20.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_20"></span>[33:\*](ybac24.htm#fr_20) The foregoing portrait
+<span id="fn_20"></span>[33:\*](ybac24.htm#fr_20.md) The foregoing portrait
 of Nezahualpilli, king of Tezcoco, attributed to Ixtlilxochitl, although
 Mexican, illustrates well the garments here described.
 
 ------------------------------------------------------------------------
 
-[Next: XXI. Food and Drink of the Indians of Yucatan](ybac25)
+[Next: XXI. Food and Drink of the Indians of Yucatan](ybac25.md)

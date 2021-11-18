@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft48)  [Next](eft50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft48)  [Next](eft50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -72,7 +72,7 @@ hangings. And he had hardly crawled in there when that master came home;
 Atdlarneq looked through a little hole, and saw him.
 
  And his cheeks were made of copper.<span
-id="page_137_fr_*"></span>[\*](#page_137_note_*)
+id="page_137_fr_*"></span>[\*](#page_137_note_*.md)
 
  He had but just sat down, when he began to sniff, and said:
 
@@ -130,7 +130,7 @@ again.
 
 <span id="footnotes_page_137">p. 137</span>
 
-<span id="page_137_note_*"></span>[\*](#page_137_fr_*) There is a
+<span id="page_137_note_*"></span>[\*](#page_137_fr_*.md) There is a
 fabulous being in Eskimo folklore supposed to have cheeks of copper,
 with which he can deliver terrible blows by a side movement of the head.
 Naughty children are frequently threatened with "Copper-cheeks" as a
@@ -168,4 +168,4 @@ kind of bogey.
 
 ------------------------------------------------------------------------
 
-[Next: ÁNGÁNGŬJUK](eft50)
+[Next: ÁNGÁNGŬJUK](eft50.md)

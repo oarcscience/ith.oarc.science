@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj34)  [Next](atfj36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj34)  [Next](atfj36.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_38"></span> <span align="CENTER"> [![38. Hanano San Takes
 the Cherry Branch From the Youth](tn/38.jpg)  
-Click to enlarge](img/38.jpg)  
+Click to enlarge](img/38.jpg.md)  
 38. Hanano San Takes the Cherry Branch From the Youth  
 </span>
 
@@ -209,6 +209,6 @@ cherry tree remains another tree is planted beside it, as is usual.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIV. A Story of Mount Kanzanrei](atfj36)
+[Next: XXXIV. A Story of Mount Kanzanrei](atfj36.md)
 
 </div>

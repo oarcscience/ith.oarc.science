@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index)  [Next](gto01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index)  [Next](gto01.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ EDMONSTON AND DOUGLAS, EDINBURGH.
 <span id="img_front"></span>
 
 [![GISLI IN SÆBOL.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 GISLI IN SÆBOL.  
 
 #### THE STORY
@@ -51,7 +51,7 @@ GISLI IN SÆBOL.
 
 ### WITH ILLUSTRATIONS BY C. E. ST. JOHN MILDMAY
 
-<span id="img_tp00"></span> ![Graysteel](img/tp00.jpg)  
+<span id="img_tp00"></span> ![Graysteel](img/tp00.jpg.md)  
 Graysteel
 
 #### EDINBURGH: EDMONSTON AND DOUGLAS
@@ -64,4 +64,4 @@ Graysteel
 
 ------------------------------------------------------------------------
 
-[Next: Notice](gto01)
+[Next: Notice](gto01.md)

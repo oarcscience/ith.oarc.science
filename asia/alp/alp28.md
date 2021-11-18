@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp27) 
-[Next](alp29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp27.md) 
+[Next](alp29.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ But the wise, like water sweet,
 
 ------------------------------------------------------------------------
 
-[Next: Morning](alp29)
+[Next: Morning](alp29.md)

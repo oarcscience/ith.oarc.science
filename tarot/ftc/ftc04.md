@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](ftc03)  [Next](ftc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](ftc03)  [Next](ftc05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte.md)
 
 </div>
 
@@ -352,6 +352,6 @@ and twelve signs of the Zodiac.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Selected Pack of Thirty-two Cards](ftc05)
+[Next: Chapter III. The Selected Pack of Thirty-two Cards](ftc05.md)
 
 </div>

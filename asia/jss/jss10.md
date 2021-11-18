@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss09)  [Next](jss11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss09)  [Next](jss11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -345,23 +345,23 @@ had turned to ice,
 <span id="img_08000"></span> <span align="CENTER"> [![ARKOKOFF, HIS
 WIFE, SON, AND SON'S WIFE.&lt;br&gt; In background a Buriat
 official](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 ARKOKOFF, HIS WIFE, SON, AND SON'S WIFE.  
 In background a Buriat official  
 </span>
 
-*Page* [61](jss09.htm#page_61)
+*Page* [61](jss09.htm#page_61.md)
 
 <span id="img_08001"></span> <span align="CENTER"> [![LAZAREFF AND HIS
 RELATIVES.&lt;br&gt; Lazareff stands at the end dressed in white. Vassya
 stands in the centre](tn/08001.jpg)  
-Click to enlarge](img/08001.jpg)  
+Click to enlarge](img/08001.jpg.md)  
 LAZAREFF AND HIS RELATIVES.  
 Lazareff stands at the end dressed in white. Vassya stands in the
 centre  
 </span>
 
-*Page* [60](jss09.htm#page_60)
+*Page* [60](jss09.htm#page_60.md)
 
  
 
@@ -540,24 +540,24 @@ experience with cockroaches. The moment daylight
 WIFE.&lt;br&gt; The other persons of the group are neighbors who crowded
 around to listen to Kongoroff. K. sits at the end of the picture near
 his wife, who is standing](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 KONGOROFF AND HIS WIFE.  
 The other persons of the group are neighbors who crowded around to
 listen to Kongoroff. K. sits at the end of the picture near his wife,
 who is standing  
 </span>
 
-*Page* [85](#page_85)
+*Page* [85](#page_85.md)
 
 <span id="img_08401"></span> <span align="CENTER"> [![ANDREI
 MIHAILOVITCH, MIKILOFF AND HIS YOUNG WIFE&lt;br&gt; AT RIGHT,
 VASSYA.](tn/08401.jpg)  
-Click to enlarge](img/08401.jpg)  
+Click to enlarge](img/08401.jpg.md)  
 ANDREI MIHAILOVITCH, MIKILOFF AND HIS YOUNG WIFE  
 AT RIGHT, VASSYA.  
 </span>
 
-*Page* [28](jss06.htm#page_28)
+*Page* [28](jss06.htm#page_28.md)
 
  
 
@@ -627,4 +627,4 @@ degree intoxicated.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. A Birthday in Siberia](jss11)
+[Next: Chapter VII. A Birthday in Siberia](jss11.md)

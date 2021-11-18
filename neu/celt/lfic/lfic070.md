@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic069)  [Next](lfic071) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic069)  [Next](lfic071.md) 
 
 ------------------------------------------------------------------------
 
@@ -388,4 +388,4 @@ follow.
 
 ------------------------------------------------------------------------
 
-[Next: Fios Fath an Aaon Sceil](lfic071)
+[Next: Fios Fath an Aaon Sceil](lfic071.md)

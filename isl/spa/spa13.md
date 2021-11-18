@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa12)  [Next](spa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa12)  [Next](spa14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -60,26 +60,26 @@ Doth the empyrean ever any opportunity for continuance allow?
 
 To-day, I perceive the crisis of a contingency on the world impending;  
 But the future may make apparent unto it some other event. <span
-id="fr_305"></span>[\*](#fn_305)
+id="fr_305"></span>[\*](#fn_305.md)
 
 <span class="smallcaps">The Severed</span> had never beheld Bijāpūr,
-even in his dreams; <span id="fr_306"></span>[†](#fn_306)  
+even in his dreams; <span id="fr_306"></span>[†](#fn_306.md)  
 But, at last, that presenteth itself, which his destiny decreed!
 
 #### II.
 
 When, in the shape of a shield, the hair on the forehead is
-plaited <span id="fr_307"></span>[‡](#fn_307)  
+plaited <span id="fr_307"></span>[‡](#fn_307.md)  
 The roses wreathed therein, impart the intrinsic virtues of the sun.
 
 The live-coal-like ruby in her nose jewel <span
-id="fr_308"></span>[§](#fn_308) is fire itself;  
-And the red bulāḳ, <span id="fr_309"></span>[§§](#fn_309) like unto a
+id="fr_308"></span>[§](#fn_308.md) is fire itself;  
+And the red bulāḳ, <span id="fr_309"></span>[§§](#fn_309.md) like unto a
 spark of fire, is placed by its side.
 
 <span id="page_253">p. 253</span>
 
-The chamkala’ī <span id="fr_310"></span>[\*](#fn_310) on her forehead is
+The chamkala’ī <span id="fr_310"></span>[\*](#fn_310.md) on her forehead is
 hence red with her lover's blood,  
 That every jewel therein, for piercing, is like a lancet disposed.
 
@@ -211,7 +211,7 @@ Account as wind or as dust, the world's pains and pleasures:
 The free man is not disquieted, by either its troubles or its cares.
 
 Their coming, and their going, are more speedy than the dawn; <span
-id="fr_311"></span>[\*](#fn_311)  
+id="fr_311"></span>[\*](#fn_311.md)  
 For I have, myself, experienced the heat and the cold of time.
 
 Show thou no hankering for the fare on the board of fortune;  
@@ -231,7 +231,7 @@ The permanence of their duration is, than that of the flower no more.
 Turn thy back, O <span class="smallcaps">Separated</span>! unto evil;
 thy face towards good,  
 That, on the Great Day of Assembly, <span
-id="fr_312"></span>[\*](#fn_312) thou mayest not, with fear, be pale.
+id="fr_312"></span>[\*](#fn_312.md) thou mayest not, with fear, be pale.
 
 #### VII.
 
@@ -245,7 +245,7 @@ No! my heart shall never wax cold unto faithfulness;
 Nor, in this world, will thy nature, unto tyranny grow cold.
 
 Nal, with all his wrongs, did not his back on Daman turn; <span
-id="fr_313"></span>[†](#fn_313)  
+id="fr_313"></span>[†](#fn_313.md)  
 Then how can any one's heart now, unto thee turn cold?
 
 What clamour did the unscathed raise on him always;  
@@ -341,7 +341,7 @@ But, in the alley of his beloved, the world humiliated him.
 
 When He, of His omnipotence, first the pen produced,  
 The destiny of every one, He then with its tongue <span
-id="fr_314"></span>[\*](#fn_314) wrote down.
+id="fr_314"></span>[\*](#fn_314.md) wrote down.
 
 <span id="page_260">p. 260</span>
 
@@ -391,7 +391,7 @@ Until misery and adversity its companions it maketh.
 
 Good fortune, by its own words, saith, "I am not lasting,"  
 If thou shouldst but reverse the letters of that word. <span
-id="fr_315"></span>[\*](#fn_315)
+id="fr_315"></span>[\*](#fn_315.md)
 
 The pigeon of vitality, it bringeth quickly down from its flight,  
 When the falcon of destiny spreadeth its pillions to the wind.
@@ -487,17 +487,17 @@ When, turning my back upon A<u>tt</u>ak, I weeping began.
 How shall I now pine after the rocks and shrubs of my country?  
 For, having made my parting salutation, I bade them farewell.
 
-Embedded in my heart, from Roh <span id="fr_316"></span>[\*](#fn_316) an
+Embedded in my heart, from Roh <span id="fr_316"></span>[\*](#fn_316.md) an
 arrow I brought away—  
 I failed to bid adieu to my bower, or its sacrifice to become. <span
-id="fr_317"></span>[†](#fn_317)
+id="fr_317"></span>[†](#fn_317.md)
 
 With much toil, in the world I had a garden laid out;  
 And, as yet, I had not smelt a flower, when from it I was torn.
 
 The blue heavens laughed from delight until they grew red,  
 When facing Ho<u>dd</u>aey's mountain <span
-id="fr_318"></span>[‡](#fn_318) I turned from it away.
+id="fr_318"></span>[‡](#fn_318.md) I turned from it away.
 
 There is no magician in the Dakhan that can charm me;  
 For I am a prisoner become, in a dragon's cavern profound.
@@ -505,9 +505,9 @@ For I am a prisoner become, in a dragon's cavern profound.
 <span id="page_264">p. 264</span>
 
 The assignment of union was hung on the horns of the deer, <span
-id="fr_319"></span>[\*](#fn_319)  
+id="fr_319"></span>[\*](#fn_319.md)  
 When I crossed to the other bank of Narbada's swift stream. <span
-id="fr_320"></span>[†](#fn_320)
+id="fr_320"></span>[†](#fn_320.md)
 
 The riches of association were a hoard that I gloated over;  
 But in absence's wars, I have to a mere thread and fibre changed.
@@ -547,7 +547,7 @@ For He brought us into this abode, grief and misery to endure!
 Living, O friend! <span class="smallcaps">The Separated</span> would not
 have left thee;  
 But ’tis the king's tyranny that hath, by force, parted us! <span
-id="fr_321"></span>[\*](#fn_321)
+id="fr_321"></span>[\*](#fn_321.md)
 
 #### XVI.
 
@@ -615,7 +615,7 @@ In hatching each other's ruin are wolves ever thus occupied?
 <span id="page_267">p. 267</span>
 
 As yet, the day of doom hath not been viewed by human eye;  
-But its operations <span id="fr_322"></span>[\*](#fn_322) I, to-day,
+But its operations <span id="fr_322"></span>[\*](#fn_322.md) I, to-day,
 perceive; since all are for themselves.
 
 Never yet have I found, in any one, either fidelity or truth;  
@@ -629,13 +629,13 @@ I find the world hath countless women, and but few, few men!
 
 ### Footnotes
 
-<span id="fn_305"></span>[252:\*](spa13.htm#fr_305) The poet here
+<span id="fn_305"></span>[252:\*](spa13.htm#fr_305.md) The poet here
 appears to refer to some chance of release from captivity.
 
-<span id="fn_306"></span>[252:†](spa13.htm#fr_306) Bijāpūr, the name of
+<span id="fn_306"></span>[252:†](spa13.htm#fr_306.md) Bijāpūr, the name of
 the fortress in which he was confined.
 
-<span id="fn_307"></span>[252:‡](spa13.htm#fr_307) This refers to a
+<span id="fn_307"></span>[252:‡](spa13.htm#fr_307.md) This refers to a
 custom prevalent amongst all the Af<u>gh</u>ān tribes in the days of the
 poet, and still observed by the <u>Gh</u>alzīs and other tribes of
 Central Af<u>gh</u>ānistān, of plaiting the front hair of young girls,
@@ -648,64 +648,64 @@ hair in this manner will be found in <span class="smallcaps">Captain L.
 W. Hart's</span> work of "<span class="smallcaps">Sketches of Afghan
 Costume</span>," lithographed by <span class="smallcaps">Haghe</span>.
 
-<span id="fn_308"></span>[252:§](spa13.htm#fr_308) An ornament worn by
+<span id="fn_308"></span>[252:§](spa13.htm#fr_308.md) An ornament worn by
 women in the left nostril.
 
-<span id="fn_309"></span>[252:§§](spa13.htm#fr_309) A ring of gold worn
+<span id="fn_309"></span>[252:§§](spa13.htm#fr_309.md) A ring of gold worn
 in the cartilage of the nose.
 
-<span id="fn_310"></span>[253:\*](spa13.htm#fr_310) An ornament for the
+<span id="fn_310"></span>[253:\*](spa13.htm#fr_310.md) An ornament for the
 forehead. These names are Indian, not Af<u>gh</u>ān; but Af<u>gh</u>āns
 bordering on the Panjāb and India have borrowed these terms and
 ornaments from the people of those parts.
 
-<span id="fn_311"></span>[256:\*](spa13.htm#fr_311) The coming and
+<span id="fn_311"></span>[256:\*](spa13.htm#fr_311.md) The coming and
 departure of day is very rapid in the East, there being but little
 twilight.
 
-<span id="fn_312"></span>[257:\*](spa13.htm#fr_312) The resurrection.
+<span id="fn_312"></span>[257:\*](spa13.htm#fr_312.md) The resurrection.
 
-<span id="fn_313"></span>[257:†](spa13.htm#fr_313) The names Nal and
+<span id="fn_313"></span>[257:†](spa13.htm#fr_313.md) The names Nal and
 Daman, Wāmik and Æaẓrā, Majnūn and Laylā, are those of lovers,
 celebrated in Eastern poetry.
 
-<span id="fn_314"></span>[259:\*](spa13.htm#fr_314) The nib of the pen.
+<span id="fn_314"></span>[259:\*](spa13.htm#fr_314.md) The nib of the pen.
 
-<span id="fn_315"></span>[261:\*](spa13.htm#fr_315) This very pretty
+<span id="fn_315"></span>[261:\*](spa13.htm#fr_315.md) This very pretty
 idea of the poet's is a play upon the Arabic word <span
 id="img_26100"></span> ![](img/26100.jpg) *ik-bāl*, signifying, 'good
 fortune,' which, if read backwards, becomes <span id="img_26101"></span>
 ![](img/26101.jpg) *lā-bakā*, meaning, 'without stability or
 permanence.'
 
-<span id="fn_316"></span>[263:\*](spa13.htm#fr_316) Roh is the name
+<span id="fn_316"></span>[263:\*](spa13.htm#fr_316.md) Roh is the name
 applied to the Af<u>gh</u>ān countries generally; hence the name of
 Rohilahs, by which the Af<u>gh</u>āns are sometimes distinguished.
 
-<span id="fn_317"></span>[263:†](spa13.htm#fr_317) See third note at
-page [139](spa09.htm#page_139).
+<span id="fn_317"></span>[263:†](spa13.htm#fr_317.md) See third note at
+page [139](spa09.htm#page_139.md).
 
-<span id="fn_318"></span>[263:‡](spa13.htm#fr_318) See third note at
-page [247](spa11.htm#page_247).
+<span id="fn_318"></span>[263:‡](spa13.htm#fr_318.md) See third note at
+page [247](spa11.htm#page_247.md).
 
-<span id="fn_319"></span>[264:\*](spa13.htm#fr_319) Referring to the
+<span id="fn_319"></span>[264:\*](spa13.htm#fr_319.md) Referring to the
 custom of Eastern governments, of granting assignments on persons or
 revenues of villages, for payment of money. An assignment on a deer's
 horns is a proverb, with reference to any impracticable, or very
 difficult matter next to impossible, it being first necessary to catch
 your deer.
 
-<span id="fn_320"></span>[264:†](spa13.htm#fr_320) A river of Central
+<span id="fn_320"></span>[264:†](spa13.htm#fr_320.md) A river of Central
 India.
 
-<span id="fn_321"></span>[265:\*](spa13.htm#fr_321) Referring to his
+<span id="fn_321"></span>[265:\*](spa13.htm#fr_321.md) Referring to his
 captivity in India.
 
-<span id="fn_322"></span>[267:\*](spa13.htm#fr_322) All ties will then
+<span id="fn_322"></span>[267:\*](spa13.htm#fr_322.md) All ties will then
 be broken; for all will be so much occupied with their own affairs and
 interests, that they will pay no attention to others, however dear they
 may have been in this world.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](spa14)
+[Next: Introduction](spa14.md)

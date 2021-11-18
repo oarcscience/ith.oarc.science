@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj19)  [Next](atfj21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj19)  [Next](atfj21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_22"></span> <span align="CENTER"> [![22. Tarada Sees the
 Mysterious Figure of a Girl](tn/22.jpg)  
-Click to enlarge](img/22.jpg)  
+Click to enlarge](img/22.jpg.md)  
 22. Tarada Sees the Mysterious Figure of a Girl  
 </span>
 
 ### XVIII
 
-### CAPE OF THE WOMAN'S SWORD <span id="fr_29"></span>[1](#fn_29)
+### CAPE OF THE WOMAN'S SWORD <span id="fr_29"></span>[1](#fn_29.md)
 
 DOWN in the Province of Higo are a group of large islands, framing with
 the mainland veritable little inland seas, deep bays, and narrow
@@ -195,7 +195,7 @@ dissatisfied by being at the bottom of the sea.
 
 ### Footnotes
 
-<span id="fn_29"></span>[110:1](atfj20.htm#fr_29) The title to this old
+<span id="fn_29"></span>[110:1](atfj20.htm#fr_29.md) The title to this old
 and hitherto untold legend is not much less curious than the story
 itself, which was told to me by a man called Fukuga, who journeys much
 up and down the southern coast in search of pearls and coral.
@@ -204,6 +204,6 @@ up and down the southern coast in search of pearls and coral.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. How Yogodayu Won A Battle](atfj21)
+[Next: XIX. How Yogodayu Won A Battle](atfj21.md)
 
 </div>

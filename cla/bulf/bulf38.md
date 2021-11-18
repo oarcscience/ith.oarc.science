@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf37) [Next](bulf39) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf37) [Next](bulf39.md) 
 
 # CHAPTER XXXIX.
 
@@ -240,4 +240,4 @@ him but a verdant plain.
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XL. The Death Of Baldur- The Elves- Runic Letters-
-Skalds- Iceland.](bulf39)
+Skalds- Iceland.](bulf39.md)

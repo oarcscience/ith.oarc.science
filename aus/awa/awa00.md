@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Next](awa01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Next](awa01.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ WESTON-SUPER-MARE.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](awa01)
+[Next: Preface](awa01.md)

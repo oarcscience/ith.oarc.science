@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap07) 
-[Next](bap09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap07.md) 
+[Next](bap09.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ to personate any individual prophet, priest or scribe.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Purpose](bap09)
+[Next: 8. Purpose](bap09.md)

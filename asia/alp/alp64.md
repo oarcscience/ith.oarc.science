@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp63) 
-[Next](alp65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp63.md) 
+[Next](alp65.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ My Hovhannes unmarried stayed!
 
 ------------------------------------------------------------------------
 
-[Next: The Tale of Rosiphelee](alp65)
+[Next: The Tale of Rosiphelee](alp65.md)

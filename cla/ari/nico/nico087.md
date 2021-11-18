@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico086) 
-[Next](nico088) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico086.md) 
+[Next](nico088.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ i.e. it is because of their unlikeness to the friendship of virtue.
 ------------------------------------------------------------------------
 
 [Next: Chapter 7. In unequal friendships a proportion must be
-maintained](nico088)
+maintained](nico088.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal087)  [Next](njal089) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal087)  [Next](njal089.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ he fared back to the Southern isles.
 
 ------------------------------------------------------------------------
 
-[Next: 89. Njal's Sons And Kari Come Out To Iceland](njal089)
+[Next: 89. Njal's Sons And Kari Come Out To Iceland](njal089.md)

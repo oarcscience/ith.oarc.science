@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat45)  [Next](jat47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat45)  [Next](jat47.md) 
 
 ------------------------------------------------------------------------
 
-### 44. COYOTE AND THE MEXICANS. <span id="fr_64"></span>[1](#fn_64)
+### 44. COYOTE AND THE MEXICANS. <span id="fr_64"></span>[1](#fn_64.md)
 
 One time, they say, they caught Coyote for his lying and put him in a
 sack. They started to carry him to California, where the judge lived.
@@ -45,9 +45,9 @@ That is why apples are sold for money.
 
 ### Footnotes
 
-<span id="fn_64"></span>[235:1](jat46.htm#fr_64) This is a Mexican folk
+<span id="fn_64"></span>[235:1](jat46.htm#fr_64.md) This is a Mexican folk
 tale which is told in Spanish by the Mexicans in New Mexico.
 
 ------------------------------------------------------------------------
 
-[Next: 45. How Mole Won the Race](jat47)
+[Next: 45. How Mole Won the Race](jat47.md)

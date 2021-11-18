@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](pre04)  [Next](pre06) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](pre04)  [Next](pre06.md) 
 
 ------------------------------------------------------------------------
 
@@ -5328,4 +5328,4 @@ which divers things have the same name in common.\]"
 
 ------------------------------------------------------------------------
 
-[Next: Abbreviations](pre06)
+[Next: Abbreviations](pre06.md)

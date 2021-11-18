@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps39)  [Next](rps41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps39)  [Next](rps41.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ with pay.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 39. New Testament Port](rps41)
+[Next: Chapter 39. New Testament Port](rps41.md)

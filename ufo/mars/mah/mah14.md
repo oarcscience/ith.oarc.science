@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah13)  [Next](mah15) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah13)  [Next](mah15.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ The realm of Physics presents another interesting study to the Martian
 student. We have advanced to the study of Nature's laws to a point which
 would appear to your understanding most incomprehensible. Long ago we
 mastered the knowledge of the method of releasing Interatomic
-Energy, <span id="fr_0"></span>[2](#fn_0) a knowledge which in the brain
+Energy, <span id="fr_0"></span>[2](#fn_0.md) a knowledge which in the brain
 of an unscrupulous person would be most disastrous, not only to himself
 but to those about him. The energy locked up in an atom of matter is
 tremendous, and the release of this power is only a matter of knowing
@@ -194,7 +194,7 @@ The knowledge and use of this element on Mars has been utilized in the
 solution of our transportation problem. Instead of cumbersome railroads
 consuming energy at a great loss, we use an almost perfect flying or
 floating ship. It is made buoyant by being screened from the
-gravitational pull of the planet. <span id="fr_1"></span>[3](#fn_1)
+gravitational pull of the planet. <span id="fr_1"></span>[3](#fn_1.md)
 
 Another subject of importance, that takes no little time to understand
 by the Martian student is the part played by the planet's satellites in
@@ -216,7 +216,7 @@ is lost in the intense brilliance cast by the Solar Orb on this planet.
 
 ### Footnotes
 
-<span id="fn_0"></span>[:2](mah14.htm#fr_0) The Popular Science Monthly,
+<span id="fn_0"></span>[:2](mah14.htm#fr_0.md) The Popular Science Monthly,
 May, 1920, printed the following--"Sir Oliver Lodge thinks that man is
 not yet civilized enough to use the energy hidden in ordinary matter.
 The time will come when atomic energy will take the place of coal as a
@@ -236,7 +236,7 @@ NOTE (By the Editor in 1920) --This article was published more than two
 months after the revelation above was received, but is another striking
 confirmation of the truth of these revelations.
 
-<span id="fn_1"></span>[:3](mah14.htm#fr_1) In the February issue of the
+<span id="fn_1"></span>[:3](mah14.htm#fr_1.md) In the February issue of the
 "Electrical Experimenter," (1920) which was published about a month
 after this information was received by revelation, the following article
 appeared--another startling confirmation of the truth contained herein,
@@ -277,4 +277,4 @@ gravitation."
 ------------------------------------------------------------------------
 
 [Next: Chapter XII: Education And Training Of The Individual, Vocational
-Determination, School Age, Marriage And Science (Continued)](mah15)
+Determination, School Age, Marriage And Science (Continued)](mah15.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb18)  [Next](lifb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb18)  [Next](lifb20.md) 
 
 </div>
 
@@ -281,6 +281,6 @@ From 'Fairy Tales and Traditions of the South of Ireland.'
 
 ------------------------------------------------------------------------
 
-[Next: The Rich Brother and the Poor Brother](lifb20)
+[Next: The Rich Brother and the Poor Brother](lifb20.md)
 
 </div>

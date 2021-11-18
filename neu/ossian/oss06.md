@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss05)  [Next](oss07) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss05)  [Next](oss07.md) 
 
 ------------------------------------------------------------------------
 
@@ -176,8 +176,8 @@ his life. The poem is divided into twenty-nine stanzas, of ten lines
 each; and every stanza begins with these words, "Pugnavimus ensibus," We
 have fought with our swords. Olaus's version is in many places so
 obscure as to be hardly intelligible. I have subjoined the whole below,
-exactly as he has published it (See [p. 181](oss07.htm#page_181)); <span
-id="fr_28"></span>[1](#fn_28) and shall translate as much as may give
+exactly as he has published it (See [p. 181](oss07.htm#page_181).md); <span
+id="fr_28"></span>[1](#fn_28.md) and shall translate as much as may give
 the English reader an idea of the spirit and strain of this kind of
 poetry.
 
@@ -746,7 +746,7 @@ should be distinguished to such a degree,
 
 <span id="page_111">p. 111</span>
 
-that not only the [heroes](errata.htm#6) of Homer, but even those of the
+that not only the [heroes](errata.htm#6.md) of Homer, but even those of the
 polite and refined Virgil, are left far behind by those of Ossian.
 
 After these general observations on the genius and spirit of our author,
@@ -2022,7 +2022,7 @@ Achilles is visited by the ghost of Patroclus; and in the Odyssey, when
 Ulysses meets his mother in the shades. On both these occasions, the
 heroes, melted with tenderness, lament their not having it in their
 power to throw their arms round the ghost, "that we might," say they,
-"in [mutual](errata.htm#7) embrace, enjoy the delight of grief. "
+"in [mutual](errata.htm#7.md) embrace, enjoy the delight of grief. "
 
 Κρυεροῖο τοταρπῶμεσθα γόαιο.
 
@@ -2295,7 +2295,7 @@ The shock of two encountering armies, the noise and the tumult of
 battle, afford one of the most grand and awful subjects of description;
 on which all epic poets have exerted their strength. Let us first hear
 Homer. The following description is a favorite one, for we find it twice
-repeated in the same words. <span id="fr_29"></span>[1](#fn_29) "When
+repeated in the same words. <span id="fr_29"></span>[1](#fn_29.md) "When
 now the conflicting hosts joined in the field of battle, then were
 mutually opposed shields, and swords, and the strength of armed men. The
 bossy bucklers were dashed against each other. The universal tumult
@@ -2313,7 +2313,7 @@ the boisterous north; not so loud in the woods of the mountain, the
 noise of the flame, when rising in its fury to consume the forest; not
 so loud the wind among the lofty oaks, when the wrath of the worm rages;
 as was the clamor of the Greeks and Trojans, when, roaring terrible,
-they rushed against each other." <span id="fr_30"></span>[2](#fn_30)
+they rushed against each other." <span id="fr_30"></span>[2](#fn_30.md)
 
 <span id="page_160">p. 160</span>
 
@@ -2353,7 +2353,7 @@ sea by the western wind; black as pitch it appears from afar sailing
 over the ocean, and carrying the dreadful storm. He shrinks at the
 sight, and drives his flock into the cave: such, under the Ajaces, moved
 on the dark, the thickened phalanx to the war." <span
-id="fr_31"></span>[1](#fn_31)--"They came," says Ossian, "over the
+id="fr_31"></span>[1](#fn_31.md)--"They came," says Ossian, "over the
 desert like stormy clouds, when the winds roll them over the heath;
 their edges are tinged with lightning; and the echoing groves foresee
 the storm." The edges of the clouds tinged with lightning, is a sublime
@@ -2365,7 +2365,7 @@ scenery.
 
 Homer compares the regular appearance of an army, to "clouds that are
 settled on the mountain-top, in the day of calmness, when the strength
-of the north wind sleeps." <span id="fr_32"></span>[2](#fn_32) Ossian,
+of the north wind sleeps." <span id="fr_32"></span>[2](#fn_32.md) Ossian,
 with full as much propriety, compares the appearance of a disordered
 army, to "the mountain cloud, when the. blast hath entered its womb, and
 scatters the curling gloom on every side." Ossian's clouds assume a
@@ -2394,7 +2394,7 @@ beheld him rushing along the plain, shining in his armor, like the star
 of autumn bright are its beams, distinguished amidst the multitude of
 stars in the dark hour of night. It rises in its splendor; but its
 splendor is fatal; betokening to miserable men the destroying
-heat." <span id="fr_33"></span>[1](#fn_33) The first appearance of
+heat." <span id="fr_33"></span>[1](#fn_33.md) The first appearance of
 Fingal is, in like manner, compared by Ossian to a star or meteor.
 "Fingal, tall in his ship, stretched his bright lance before him.
 Terrible was the gleam of his steel; it was like the green meteor of
@@ -2415,7 +2415,7 @@ springs of water
 bubble around it; it is fair and flourishing; it is fanned by the breath
 of all the winds, and loaded with white blossoms; when the sudden blast
 of a whirlwind descending, roots it out from its bed, and stretches it
-on the dust." <span id="fr_34"></span>[1](#fn_34) To this, elegant as it
+on the dust." <span id="fr_34"></span>[1](#fn_34.md) To this, elegant as it
 is, we may oppose the following simile of Ossian's, relating to the
 death of the three sons of Usnoth. "They fell, like three young oaks
 which stood alone on the hill. The traveller saw the lovely trees, and
@@ -2456,7 +2456,7 @@ battle, like Mars, the destroyer of men, when lie rushes to war. Terror,
 his beloved son, strong and fierce, attends him; who fills with dismay
 the most valiant hero. They come from Thrace armed against the Ephyrians
 and Phlegyans; nor do they regard the prayers of either, but dispose of
-success at their will." <span id="fr_35"></span>[1](#fn_35) The idea
+success at their will." <span id="fr_35"></span>[1](#fn_35.md) The idea
 here is undoubtedly noble, but observe what a figure Ossian sets before
 the astonished imagination, and with what sublimely terrible
 circumstances he has heightened it. "He rushed, in the sound of his
@@ -2529,7 +2529,7 @@ poetry receives from the intervention of the Deity. "The nations shall
 rush like the rushing of many waters; but God shall rebuke them, and
 they shall fly far off, and shall be chased as the chaff of the
 "mountains before the wind, and like the down of the thistle before the
-whirlwind." <span id="fr_36"></span>[1](#fn_36)
+whirlwind." <span id="fr_36"></span>[1](#fn_36.md)
 
 <span id="page_167">p. 167</span>
 
@@ -2584,7 +2584,7 @@ affrighted Jewish spies made to their leader, of the land of Canaan.
 up the inhabitants thereof; and all the people that we saw in it are men
 of a great stature: and there saw we giants, the sons of Anak, which
 come of the giants; and we were in our own sight as grasshoppers, and so
-we were in their sight." <span id="fr_37"></span>[1](#fn_37)
+we were in their sight." <span id="fr_37"></span>[1](#fn_37.md)
 
 With regard to personifications, I formerly observed that Ossian was
 sparing, and I accounted for his being so. Allegorical personages he has
@@ -2908,7 +2908,7 @@ and more affecting idea of the venerable and aged bard. "Such were the
 words of the bards in the days of the song; when the king heard the
 music of harps, and the tales of other times. The chiefs gathered from
 all their hills, and heard the lovely sound. They praised the voice of
-Cona, <span id="fr_38"></span>[1](#fn_38) the first among a thousand
+Cona, <span id="fr_38"></span>[1](#fn_38.md) the first among a thousand
 bards. But age is now on my tongue, and my soul has failed. I hear,
 sometimes, the ghosts of bards, and learn their pleasant song. But
 memory fails on my mind; I hear the call of years. They say, as they
@@ -2991,32 +2991,32 @@ proudly assign him a place among those whose works are to last for ages.
 
 ### Footnotes
 
-<span id="fn_28"></span>[93:1](oss06.htm#fr_28) See the note at the end
+<span id="fn_28"></span>[93:1](oss06.htm#fr_28.md) See the note at the end
 of the Dissertation.
 
-<span id="fn_29"></span>[159:1](oss06.htm#fr_29) Iliad, iv. 46; and
+<span id="fn_29"></span>[159:1](oss06.htm#fr_29.md) Iliad, iv. 46; and
 Iliad, viii. 60.
 
-<span id="fn_30"></span>[159:2](oss06.htm#fr_30) Iliad, xiv. 393.
+<span id="fn_30"></span>[159:2](oss06.htm#fr_30.md) Iliad, xiv. 393.
 
-<span id="fn_31"></span>[161:1](oss06.htm#fr_31) Iliad, iv. 275.
+<span id="fn_31"></span>[161:1](oss06.htm#fr_31.md) Iliad, iv. 275.
 
-<span id="fn_32"></span>[161:2](oss06.htm#fr_32) Iliad, v. 522.
+<span id="fn_32"></span>[161:2](oss06.htm#fr_32.md) Iliad, v. 522.
 
-<span id="fn_33"></span>[162:1](oss06.htm#fr_33) Iliad, xxii. 26.
+<span id="fn_33"></span>[162:1](oss06.htm#fr_33.md) Iliad, xxii. 26.
 
-<span id="fn_34"></span>[163:1](oss06.htm#fr_34) Iliad, xvii. 58.
+<span id="fn_34"></span>[163:1](oss06.htm#fr_34.md) Iliad, xvii. 58.
 
-<span id="fn_35"></span>[164:1](oss06.htm#fr_35) Iliad, xiii. 298
+<span id="fn_35"></span>[164:1](oss06.htm#fr_35.md) Iliad, xiii. 298
 
-<span id="fn_36"></span>[166:1](oss06.htm#fr_36) Isaiah, xvii. 13
+<span id="fn_36"></span>[166:1](oss06.htm#fr_36.md) Isaiah, xvii. 13
 
-<span id="fn_37"></span>[168:1](oss06.htm#fr_37) Numbers, xiii. 32,38
+<span id="fn_37"></span>[168:1](oss06.htm#fr_37.md) Numbers, xiii. 32,38
 
-<span id="fn_38"></span>[178:1](oss06.htm#fr_38) Ossian himself is
+<span id="fn_38"></span>[178:1](oss06.htm#fr_38.md) Ossian himself is
 poetically called the voice of Cona.
 
 ------------------------------------------------------------------------
 
 [Next: Funeral Song by Regner Lodbrog, translated by Olaus
-Wormius](oss07)
+Wormius](oss07.md)

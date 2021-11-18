@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi115)  [Next](mtsi117) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi115)  [Next](mtsi117.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ This is how it has always been told.
 
 ------------------------------------------------------------------------
 
-[Next: 24. The Theft of Fire](mtsi117)
+[Next: 24. The Theft of Fire](mtsi117.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb05)  [Next](ftb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb05)  [Next](ftb07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -26,19 +26,19 @@ Textual Heritage
 
 <span id="img_04400"></span> <span align="CENTER"> [![Yolanda's fingers
 never stopped](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)  
+Click to enlarge](img/04400.jpg.md)  
 Yolanda's fingers never stopped  
 </span>
 
 <span id="page_45">p. 45</span>
 
-<span id="img_04500"></span> ![Lady Yolanda's Thimble](img/04500.jpg)
+<span id="img_04500"></span> ![Lady Yolanda's Thimble](img/04500.jpg.md)
 
 <span id="img_04501"></span>
 
 |                     |
 |---------------------|
-| ![A](img/04501.jpg) |
+| ![A](img/04501.jpg.md) |
 
 LL the warriors of Brittany had gone away to the Crusades. With helmets
 and spears, and with banners flying, they had set out for the East. They
@@ -221,4 +221,4 @@ spinning-wheel.
 
 ------------------------------------------------------------------------
 
-[Next: The Witch of Lok Island](ftb07)
+[Next: The Witch of Lok Island](ftb07.md)

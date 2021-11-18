@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf02) [Next](bulf04) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf02) [Next](bulf04.md) 
 
 # CHAPTER IV.
 
@@ -368,4 +368,4 @@ beloved. Byron alludes to Delos in his "Don Juan":
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER V. Phaeton.](bulf04)
+Next: [CHAPTER V. Phaeton.](bulf04.md)

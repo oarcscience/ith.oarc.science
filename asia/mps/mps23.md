@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps22) 
-[Next](mps24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps22.md) 
+[Next](mps24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -100,15 +100,15 @@ mine own home, whose can I not bear (to leave)?
 my testament addressed to Rosten. I will confide thee to him, and
 entreat him to care for thee as befits one brought up by me. Should I
 die, slay not thyself; do not the deed of Satan; weep thereupon, fill
-the channel <span id="fr_16"></span>[1](#fn_16) of the eyes."
+the channel <span id="fr_16"></span>[1](#fn_16.md) of the eyes."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_16"></span>[122:1](mps23.htm#fr_16) Irrigation canal.
+<span id="fn_16"></span>[122:1](mps23.htm#fr_16.md) Irrigation canal.
 
 ------------------------------------------------------------------------
 
 [Next: XXI. The Testament of Avt’handil to King Rostevan When He Stole
-Away](mps24)
+Away](mps24.md)

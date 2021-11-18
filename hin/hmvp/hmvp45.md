@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp44)  [Next](hmvp46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp44)  [Next](hmvp46.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ cleansing from all past, present, and future sins, is
 
 <span id="img_46000"></span> <span align="CENTER">
 [![GANGĀ.](tn/46000.jpg)  
-Click to enlarge](img/46000.jpg)  
+Click to enlarge](img/46000.jpg.md)  
 GANGĀ.  
 </span>
 
@@ -73,12 +73,12 @@ As soon as they were seated, Rāma said-
  Purging all sinners, to the sea.  
  The three-pathed Gangā thus obtained,  
  The gods their heavenly homes regained.'" <span
-id="fr_426"></span>[\*](#fn_426)</span>
+id="fr_426"></span>[\*](#fn_426.md)</span>
 
 </div>
 
 The sage next tells Rāma that there was a mighty King of Ayodha named
-Sāgara <span id="fr_427"></span>[†](#fn_427) who, being childless,
+Sāgara <span id="fr_427"></span>[†](#fn_427.md) who, being childless,
 
 <span id="page_462">p. 462</span>
 
@@ -96,7 +96,7 @@ hundred years. At length the saint, pleased with Sāgara's worship, said—
  Maintainer of thy race and heir;  
  And of the other there shall be  
  Some sixty thousand born to thee." <span
-id="fr_428"></span>[\*](#fn_428)</span>
+id="fr_428"></span>[\*](#fn_428.md)</span>
 
 </div>
 
@@ -127,7 +127,7 @@ continues\]</span>  Then Sumati, the younger, gave
  Forth speeding from each dark retreat,  
  All peers in valour, years, and might,  
  The sixty thousand came to light." <span
-id="fr_429"></span>[\*](#fn_429)</span>
+id="fr_429"></span>[\*](#fn_429.md)</span>
 
 </div>
 
@@ -145,7 +145,7 @@ sacrifice, and fearing that he might even lose his crown,
 <span class="small">"Veiling his form in demon guise,  
  Came down upon the appointed day,  
  And drove the victim horse away." <span
-id="fr_430"></span>[†](#fn_430)</span>
+id="fr_430"></span>[†](#fn_430.md)</span>
 
 </div>
 
@@ -185,7 +185,7 @@ continues\]</span>  The priests began the rites so well,
  Sea-garlanded from shore to shore;  
  Yea, dig her up with might and main,  
  Until you see the horse again." <span
-id="fr_431"></span>[\*](#fn_431)</span>
+id="fr_431"></span>[\*](#fn_431.md)</span>
 
 </div>
 
@@ -223,7 +223,7 @@ search until the horse is found. At length they
  His bosom flusht with passion's tide;  
  Then, by his might, that proud array  
  All scorched to heaps of ashes lay." <span
-id="fr_432"></span>[\*](#fn_432),</span>
+id="fr_432"></span>[\*](#fn_432.md),</span>
 
 </div>
 
@@ -254,7 +254,7 @@ this moment his uncle Garuda appears and consoles him, saying—
  To draw the goddess from the sky.  
  Return, and with thee take the steed;  
  So shall thy grandsire's rite succeed." <span
-id="fr_433"></span>[†](#fn_433)</span>
+id="fr_433"></span>[†](#fn_433.md)</span>
 
 </div>
 
@@ -276,7 +276,7 @@ severe austerities, until at length Brahmā said—
  Thy fervent rites have won my grace.  
  Well hast thou wrought thine awful task:  
  Some boon in turn, O hermit, ask." <span
-id="fr_434"></span>[\*](#fn_434)
+id="fr_434"></span>[\*](#fn_434.md)
 
 To which Bhagirath replies as follows—
 
@@ -304,7 +304,7 @@ To this the god replies—
  To hold her in her mid descent,  
  For earth alone will never bear  
  These torrents hurled from upper air." <span
-id="fr_435"></span>[†](#fn_435)</span>
+id="fr_435"></span>[†](#fn_435.md)</span>
 
 </div>
 
@@ -330,7 +330,7 @@ commanded to descend to earth:
  'And all my flood shall sweep  
  And whirl him in its whelming tide  
  To hell's profoundest deep.'" <span
-id="fr_436"></span>[\*](#fn_436)</span>
+id="fr_436"></span>[\*](#fn_436.md)</span>
 
 </div>
 
@@ -354,7 +354,7 @@ followed until her waters touched the ashes, when—
  Their spirits gained beatitude,  
  And all in heavenly bodies dressed  
  Rose to the skies’ eternal rest." <span
-id="fr_437"></span>[†](#fn_437)</span>
+id="fr_437"></span>[†](#fn_437.md)</span>
 
 </div>
 
@@ -375,7 +375,7 @@ As a reward for his meritorious work, Brahmā' said to him—
  And, god-like, rank in heaven retain.  
  Gangā thine eldest child shall be,  
  Called from thy name Bhagirathi." <span
-id="fr_438"></span>[\*](#fn_438)</span>
+id="fr_438"></span>[\*](#fn_438.md)</span>
 
 </div>
 
@@ -396,16 +396,16 @@ Female rivers:—The Godāvarī, the Kāveri, the Atreyī, the Karaloyā, the
 Bahudā, the Gomati, the Sarayu, the Gandakī, the Varahī, the
 Charmanwatī, the Shatadru, the Vipāshā, the Goutamī, the Karmanāshā, the
 Airāvatī, the Chandrabhāgā, the Vitastā, the Sindhu, the Krishnā, the
-Vetravatī, the Bhairavā. <span id="fr_439"></span>[†](#fn_439)
+Vetravatī, the Bhairavā. <span id="fr_439"></span>[†](#fn_439.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_426"></span>[461:\*](hmvp45.htm#fr_426) Griffiths's
+<span id="fn_426"></span>[461:\*](hmvp45.htm#fr_426.md) Griffiths's
 "Rāmāyana," i. 171.
 
-<span id="fn_427"></span>[461:†](hmvp45.htm#fr_427) Sāgara's birth was
+<span id="fn_427"></span>[461:†](hmvp45.htm#fr_427.md) Sāgara's birth was
 supernatural. His father Bāhu, King of Ayodha, was expelled from his
 kingdom. The mother of Sāgara <span id="page_462">p. 462</span>
 accompanied her husband to the forest, but, owing to a poisonous drug
@@ -425,37 +425,37 @@ but he issued from his mother's thigh with such lustre that he blinded
 his persecutors. And because he was born from the thigh (*uru*) of his
 mother, he was called Aurva.
 
-<span id="fn_428"></span>[462:\*](hmvp45.htm#fr_428) Griffiths's "
+<span id="fn_428"></span>[462:\*](hmvp45.htm#fr_428.md) Griffiths's "
 Rāmāyana," i. 174.
 
-<span id="fn_429"></span>[463:\*](hmvp45.htm#fr_429) Griffiths's
+<span id="fn_429"></span>[463:\*](hmvp45.htm#fr_429.md) Griffiths's
 Rāmāyana," i. 175.
 
-<span id="fn_430"></span>[463:†](hmvp45.htm#fr_430) Ibid., 177.
+<span id="fn_430"></span>[463:†](hmvp45.htm#fr_430.md) Ibid., 177.
 
-<span id="fn_431"></span>[464:\*](hmvp45.htm#fr_431) Griffiths's "
+<span id="fn_431"></span>[464:\*](hmvp45.htm#fr_431.md) Griffiths's "
 Rāmāyana," i. 177.
 
-<span id="fn_432"></span>[465:\*](hmvp45.htm#fr_432) Griffiths's
+<span id="fn_432"></span>[465:\*](hmvp45.htm#fr_432.md) Griffiths's
 "Rāmāyana," i. 183.
 
-<span id="fn_433"></span>[465:†](hmvp45.htm#fr_433) Ibid., 186.
+<span id="fn_433"></span>[465:†](hmvp45.htm#fr_433.md) Ibid., 186.
 
-<span id="fn_434"></span>[466:\*](hmvp45.htm#fr_434) Griffiths's
+<span id="fn_434"></span>[466:\*](hmvp45.htm#fr_434.md) Griffiths's
 "Rāmāyana," i. 190.
 
-<span id="fn_435"></span>[466:†](hmvp45.htm#fr_435) Ibid.
+<span id="fn_435"></span>[466:†](hmvp45.htm#fr_435.md) Ibid.
 
-<span id="fn_436"></span>[467:\*](hmvp45.htm#fr_436) Griffiths's
+<span id="fn_436"></span>[467:\*](hmvp45.htm#fr_436.md) Griffiths's
 "Rāmāyana," i. 193.
 
-<span id="fn_437"></span>[467:†](hmvp45.htm#fr_437) Ibid., 196.
+<span id="fn_437"></span>[467:†](hmvp45.htm#fr_437.md) Ibid., 196.
 
-<span id="fn_438"></span>[468:\*](hmvp45.htm#fr_438) Griffiths's
+<span id="fn_438"></span>[468:\*](hmvp45.htm#fr_438.md) Griffiths's
 "Rāmāyana," i. 197.
 
-<span id="fn_439"></span>[468:†](hmvp45.htm#fr_439) Ward, ii. 217.
+<span id="fn_439"></span>[468:†](hmvp45.htm#fr_439.md) Ward, ii. 217.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Sacred Trees](hmvp46)
+[Next: Chapter IX. Sacred Trees](hmvp46.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi114)  [Next](mtsi116) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi114)  [Next](mtsi116.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ It is told that way.
 
 ------------------------------------------------------------------------
 
-[Next: 23. Heron and Humming Bird](mtsi116)
+[Next: 23. Heron and Humming Bird](mtsi116.md)

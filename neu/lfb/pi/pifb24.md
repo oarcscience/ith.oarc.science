@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb23)  [Next](pifb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb23)  [Next](pifb25.md) 
 
 </div>
 
@@ -342,6 +342,6 @@ holy man who had been such a good friend.
 
 ------------------------------------------------------------------------
 
-[Next: The Water of Life](pifb25)
+[Next: The Water of Life](pifb25.md)
 
 </div>

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl13)  [Next](jftl15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl13)  [Next](jftl15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ to the man whom they had followed.
 <span id="img_13400"></span> <span align="CENTER"> [![They saw the land
 rise up like a huge mountain and a tremendous stream of water gush
 forth. (&lt;i&gt;Page 138&lt;/i&gt;).](tn/13400.jpg)  
-Click to enlarge](img/13400.jpg)  
+Click to enlarge](img/13400.jpg.md)  
 They saw the land rise up like a huge mountain and a tremendous stream
 of water gush forth. (*Page 138*).  
 </span>
@@ -432,4 +432,4 @@ which brought them such terrible disasters.
 
 ------------------------------------------------------------------------
 
-[Next: The Outcast Prince](jftl15)
+[Next: The Outcast Prince](jftl15.md)

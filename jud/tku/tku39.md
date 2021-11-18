@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku38)  [Next](tku40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku38)  [Next](tku40.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ thousand lords of inspection who reside above the eyelids.
 610\. In the eyelids radiate one thousand four hundred myriads (of
 hairs), which adhere to the edges and form the eyelashes; and far above
 these is the inspection of the eye of the Ancient of Days. <span
-id="fr_107"></span>[1](#fn_106)
+id="fr_107"></span>[1](#fn_106.md)
 
 611\. And as often as those eyelids (*of Microprosopus*) are raised, the
 same eye (*i.e., that of Microprosopus*) appeareth, just as when the
@@ -109,7 +109,7 @@ there is mercy, there is also vengeance.
 
 630\. The first colour is red, hidden and inclosed within red; in
 comparison with it, all other reds do not seem to be (*red*). <span
-id="fr_108"></span>[1](#fn_107)
+id="fr_108"></span>[1](#fn_107.md)
 
 631\. Around this red goeth a certain black thread (*of colour*), and
 surroundeth it.
@@ -119,15 +119,15 @@ from the abyss once in a thousand years into the great sea.
 
 <span id="page_189">p. 189</span>
 
-633\. And when that stone <span id="fr_109"></span>[1](#fn_108) goeth
+633\. And when that stone <span id="fr_109"></span>[1](#fn_108.md) goeth
 forth there cometh a tempest and a storm upon the great sea <span
-id="fr_110"></span>[2](#fn_109) and its waters are troubled, and (*their
+id="fr_110"></span>[2](#fn_109.md) and its waters are troubled, and (*their
 motion soundeth as*) a voice, and they are heard by the great fish which
 is called Leviathan.
 
 634\. And this stone goeth forth, and is whirled onward in the current
 of the sea, and goeth forth thence; and this, is so great a
-blackness <span id="fr_111"></span>[3](#fn_110) that beside it all other
+blackness <span id="fr_111"></span>[3](#fn_110.md) that beside it all other
 blacknesses are as nought (otherwise, now it is withdrawn because all
 the other paths are hidden and enshrouded by it).
 
@@ -161,7 +161,7 @@ the washing, which are all twins."
 
 640\. What is this, "From the washing?" From that white brilliance of
 the excellent holy eye; for all are twins, the one (*colour*) is as the
-other. <span id="fr_112"></span>[1](#fn_111)
+other. <span id="fr_112"></span>[1](#fn_111.md)
 
 641\. But truly doth not he (the author of the Canticles) say that the
 teeth are each in turn like a shorn flock; and thou sayest that all
@@ -178,7 +178,7 @@ Spirit of Wisdom.
 eye." When? "When Tetragrammaton shall bring again Zion."
 
 645\. Also it is written, Num. xiv. 14: "By whom Thou, O Tetragrammaton!
-art seen eye to eye:" <span id="fr_113"></span>[2](#fn_112) and then the
+art seen eye to eye:" <span id="fr_113"></span>[2](#fn_112.md) and then the
 opening of the eyes is toward good.
 
 646\. For there is so opening of the eyes toward good, and there is also
@@ -212,7 +212,7 @@ those eyes (*of Microprosopus*).
 which altereth not from this aspect unto any other aspect.
 
 652\. And therefore is it written OINK, <span
-id="fr_114"></span>[1](#fn_113) (*instead of* OINIK) "They shall behold
+id="fr_114"></span>[1](#fn_113) (*instead of* OINIK.md) "They shall behold
 Thine eye:" not Thine eyes, (*seeing* OINK *is written*) without the
 second I, *Yod*.
 
@@ -243,7 +243,7 @@ mercies."
 
 658\. And the mercy of Microprosopus, which is called mercies plain and
 unqualified, seeing that in Him there are right and left, <span
-id="fr_115"></span>[1](tku40.htm#fn_114) (*symbolizing the balance of*)
+id="fr_115"></span>[1](tku40.htm#fn_114) (*symbolizing the balance of*.md)
 justice and Mercy. And therefore is it said: "And in great mercies will
 I gather thee;" those, namely, of the Ancient of Days.
 
@@ -263,38 +263,38 @@ the Israelites.
 
 ### Footnotes
 
-<span id="fn_106"></span>[186:1](tku39.htm#fr_107) True to all the
+<span id="fn_106"></span>[186:1](tku39.htm#fr_107.md) True to all the
 previous symbolism, the eye of the Ancient of Days, Macroprosopus, is
 here spoken of, instead of eyes in the plural number, seeing that, as I
 have before remarked, he is rather to be symbolized by a profile than by
 a full face.
 
-<span id="fn_107"></span>[188:1](tku39.htm#fr_108) Meaning that it Is so
+<span id="fn_107"></span>[188:1](tku39.htm#fr_108.md) Meaning that it Is so
 brilliant that all other red colours seem poor and pale in comparison
 with it.
 
-<span id="fn_108"></span>[189:1](tku39.htm#fr_109) Cf. Rev. viii. 8.
+<span id="fn_108"></span>[189:1](tku39.htm#fr_109.md) Cf. Rev. viii. 8.
 This also suggests alchemical symbolism.
 
-<span id="fn_109"></span>[189:2](tku39.htm#fr_110) The great sea is
+<span id="fn_109"></span>[189:2](tku39.htm#fr_110.md) The great sea is
 Binah. and the great fish is Leviathan: "whose head is broken by the
 waters of the great sea." (See the Introduction, "Book of Concealed
 Mystery," i. § 28; Ps. lxxiv. 13. and Rev. xiii.)
 
-<span id="fn_110"></span>[189:3](tku39.htm#fr_111) Cf. the "blackest of
+<span id="fn_110"></span>[189:3](tku39.htm#fr_111.md) Cf. the "blackest of
 the black" of Hermes Trismegistus.
 
-<span id="fn_111"></span>[190:1](tku39.htm#fr_112) *I.e.*. the black and
+<span id="fn_111"></span>[190:1](tku39.htm#fr_112.md) *I.e.*. the black and
 the red, which are here represented as simultaneously involving each
 other.
 
-<span id="fn_112"></span>[190:2](tku39.htm#fr_113) In our version it is
+<span id="fn_112"></span>[190:2](tku39.htm#fr_113.md) In our version it is
 translated "face to face," and not "eye to eye"; but in the original
 Hebrew it is OIN BOIN, *Ayin Be-Ayin*, "eye to eye."
 
-<span id="fn_113"></span>[191:1](tku39.htm#fr_114) OINK signifies "thine
+<span id="fn_113"></span>[191:1](tku39.htm#fr_114.md) OINK signifies "thine
 eye," in the singular.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXII: Concerning the Nose of Microprosopus](tku40)
+[Next: Chapter XXXII: Concerning the Nose of Microprosopus](tku40.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Next](moq01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Next](moq01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysteries of the Qabalah*, by Elias Gewurz, \[1922\], at Intangible
 Textual Heritage
 
@@ -17,7 +17,7 @@ Textual Heritage
 
 <span id="img_cover"></span> <span align="CENTER">
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 </span>
 
@@ -34,7 +34,7 @@ Cover
 ###### And prepared for publication by one of them whose symbol is
 
 <span id="img_00100"></span> ![Star of David with a dot
-enclosed.](img/00100.jpg)
+enclosed.](img/00100.jpg.md)
 
 #### Published by
 
@@ -46,7 +46,7 @@ enclosed.](img/00100.jpg)
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -54,7 +54,7 @@ Title Page
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
@@ -64,4 +64,4 @@ because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](moq01)
+[Next: Contents](moq01.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico060) 
-[Next](nico062) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico060.md) 
+[Next](nico062.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ practical as of philosophic wisdom there must be a controlling kind.
 ------------------------------------------------------------------------
 
 [Next: Chapter 8. Relations between practical wisdom and political
-science](nico062)
+science](nico062.md)

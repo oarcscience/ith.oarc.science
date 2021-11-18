@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar30)  [Next](gar32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar30)  [Next](gar32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -103,12 +103,12 @@ accompanied, either on obverse or reverse, with its proper title,
 written variously **ΧΝΟϒΒΙΣ**, **ΧΝΟϒΦΙΣ**, and **ΧΝΟϒΜΙΣ**, accordingly
 as the engraver fancied he could best master that difficulty to the
 Greek mouth, the true sound of our letter **B**. This name
-Salmasius <span id="fr_128"></span>[\*](#fn_127) considers as a
+Salmasius <span id="fr_128"></span>[\*](#fn_127.md) considers as a
 rendering of the Coptic **ΧΝΟϒΒ**, *gold*; and hence explains another
 title which sometimes takes its place, **ΧΟΛΧΝΟϒΒΙΣ**, as "All-golden."
 Jablonsky, however, derives the word more plausibly from **ΧΝΟϒΜ**,
 *good*, and **ΙΣ**, *spirit*, and thus makes "Agothodæmon" to be the
-literal translation of the name. <span id="fr_129"></span>[†](#fn_128)
+literal translation of the name. <span id="fr_129"></span>[†](#fn_128.md)
 
 This last had become in the third century the popular name for the
 hooded snake of Egypt. Lampridius has "Heliogabalus Ægyptios dracunculos
@@ -163,11 +163,11 @@ punch-marks.
 
 ### Footnotes
 
-<span id="fn_127"></span>[217:\*](gar31.htm#fr_128) He has treated the
+<span id="fn_127"></span>[217:\*](gar31.htm#fr_128.md) He has treated the
 subject at some length in that learned miscellany of his, the treatise
 'De Anno Climacterico.'
 
-<span id="fn_128"></span>[217:†](gar31.htm#fr_129) The prototype appears
+<span id="fn_128"></span>[217:†](gar31.htm#fr_129.md) The prototype appears
 to have been that ancient figure of Atmon (the Sun) designated as
 **ΗFΕ** "The Serpent" *par éminence*, and which was a winged serpent
 having human arms and feet. He is thus painted on mummy-cases as
@@ -175,4 +175,4 @@ guardian of the inmate.
 
 ------------------------------------------------------------------------
 
-[Next: The Chnuphis Serpent](gar32)
+[Next: The Chnuphis Serpent](gar32.md)

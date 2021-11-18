@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm34)  [Next](rrm36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm34)  [Next](rrm36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ explain.
 <span id="img_29900"></span>
 
 [![Figs. 232-238](tn/29900.jpg)  
-Click to enlarge](img/29900.jpg)  
+Click to enlarge](img/29900.jpg.md)  
 Figs. 232-238  
 
 <div align="center">
@@ -176,7 +176,7 @@ Church,
 <span id="img_30000"></span>
 
 [![Figs. 239-242](tn/30000.jpg)  
-Click to enlarge](img/30000.jpg)  
+Click to enlarge](img/30000.jpg.md)  
 Figs. 239-242  
 
 <div align="center">
@@ -208,7 +208,7 @@ whip, as if chasing away the evil genii.
 <span id="img_30100"></span>
 
 [![Fig. 243, 244](tn/30100.jpg)  
-Click to enlarge](img/30100.jpg)  
+Click to enlarge](img/30100.jpg.md)  
 Fig. 243, 244  
 
 <div align="center">
@@ -251,7 +251,7 @@ Fig. 249: Anubis walking; in each hand, a long
 <span id="img_30200"></span>
 
 [![Figs 245-248](tn/30200.jpg)  
-Click to enlarge](img/30200.jpg)  
+Click to enlarge](img/30200.jpg.md)  
 Figs 245-248  
 
 <div align="center">
@@ -286,7 +286,7 @@ the number of days of the solar circle.
 <span id="img_30300"></span>
 
 [![Figs. 249-251](tn/30300.jpg)  
-Click to enlarge](img/30300.jpg)  
+Click to enlarge](img/30300.jpg.md)  
 Figs. 249-251  
 
 The following group of figures gives some of the significant hieroglyphs
@@ -313,7 +313,7 @@ crested head. In his hand is a long hooked staff. It was perhaps the
 signet of some chief teacher or, apostle among the Gnostics, and its
 impression one of the tokens serving
 
-<span id="img_30400"></span> ![Fig. 252](img/30400.jpg)
+<span id="img_30400"></span> ![Fig. 252](img/30400.jpg.md)
 
 for mutual recognition mentioned by Epiphanius. Neatly engraved in a
 beautiful red sard, fashioned to an octagon form; a shape never met in
@@ -375,7 +375,7 @@ the
 <span id="img_30600"></span>
 
 [![Figs. 253, 254](tn/30600.jpg)  
-Click to enlarge](img/30600.jpg)  
+Click to enlarge](img/30600.jpg.md)  
 Figs. 253, 254  
 
 <div align="center">
@@ -406,7 +406,7 @@ Gnostics:
 <span id="img_30700"></span>
 
 [![Figs. 255-257](tn/30700.jpg)  
-Click to enlarge](img/30700.jpg)  
+Click to enlarge](img/30700.jpg.md)  
 Figs. 255-257  
 
 In fig. 255 we have the representation of the Gnostic Female Power in
@@ -432,7 +432,7 @@ and 'decrescent' moons, placed back to back, with a trace or line,
 implying that the 'Microcosmos', or 'Man', is made as between the
 'Moons'. This
 
-<span id="img_30800"></span> ![Fig. 258](img/30800.jpg)  
+<span id="img_30800"></span> ![Fig. 258](img/30800.jpg.md)  
 Fig. 258
 
 figure suggests a likeness to the sign of the 'Twins', and to that of
@@ -450,4 +450,4 @@ Fig. 258 is referred to in a previous part of our book as fig. 313.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Strange Speculations of the
-Transcendentalists](rrm36)
+Transcendentalists](rrm36.md)

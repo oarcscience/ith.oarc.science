@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei00)  [Next](jei02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei00)  [Next](jei02.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ nutshell.--Observing the planets.--Observing conditions on our own
 planet, the Earth.--Peary and the polar orifice.--The fact of
 gravitation and our theory.--Facts which we have gathered together in
 one volume for the first time in the history of scientific thought.--The
-final test [21](jei04.htm#page_21)
+final test [21](jei04.htm#page_21.md)
 
 CHAPTER II.
 
@@ -53,8 +53,8 @@ not a Planet?--Our theory of the evolution of the nebula.--Referring
 
 to the Dumb-bell nebula.--Detailed proofs promised.--The
 comet.--Professor Moulton's 'Descriptive Astronomy" quoted.--On the
-[occurrence](errata.htm#0) of cellular structure throughout the universe
-[36](jei05.htm#page_36)
+[occurrence](errata.htm#0.md) of cellular structure throughout the universe
+[36](jei05.htm#page_36.md)
 
 CHAPTER III.
 
@@ -75,7 +75,7 @@ atmosphere of Mars.--The spectrum of the light from Mars.--Polar caps
 are not carbon-dioxide.--How the astronomers are misled.--Corroborative
 facts from Venus.--E. Walter Maunder quoted.--Polar caps of Venus and
 Mars ought to have common explanation.--Hector MacPherson
-quoted.--Professor Proctor on Mercury [65](jei06.htm#page_65)
+quoted.--Professor Proctor on Mercury [65](jei06.htm#page_65.md)
 
 CHAPTER IV.
 
@@ -91,7 +91,7 @@ premier scientific body.--Actual ice conditions in the far north.--Ice
 only from fresh water.--Within five and a half degrees of the
 pole.--What Barrington thought the actual conformation of the polar
 regions was like.--Observations of a Dutch sea captain.--The northwest
-passage [100](jei07.htm#page_100)
+passage [100](jei07.htm#page_100.md)
 
 <span id="page_9">p. 9</span>
 
@@ -114,7 +114,7 @@ Hayes really points out is the discovery which will be made through our
 theory.--The temperatures of the polar regions.--Sir David Brewster's
 guess.--Hayes' observations which support our theory are in agreement
 with those of Wrangell.--Esquimaux tells Hayes there are other tribesmen
-far to the north.--Animal life around the pole [111](jei08.htm#page_111)
+far to the north.--Animal life around the pole [111](jei08.htm#page_111.md)
 
 CHAPTER VI.
 
@@ -130,7 +130,7 @@ plentiful.--Esquimaux remains.--Where did these Esquimaux go?--Whale and
 other animals and their winter quarters.--Why do herbivorous bears go
 north?--The Ross gull.--Greely tells of his discoveries.--The farther
 north the warmer.--His observations on the tidal flows.--Open water and
-warmer near the polar orifice [135](jei08.htm#page_135)
+warmer near the polar orifice [135](jei08.htm#page_135.md)
 
 CHAPTER VII.
 
@@ -144,7 +144,7 @@ explorer.--His observations of bird and insect life
 in the far north.--Animal observations confirmed in voyage after
 voyage.--Explorers unnecessarily afraid of the ice he says.--Esquimaux
 go naked.--Warm weather comes with winds from north
-[159](jei10.htm#page_159)
+[159](jei10.htm#page_159.md)
 
 CHAPTER VIII
 
@@ -169,7 +169,7 @@ sleep for the heat.--The whole matter of location is a riddle to him,
 says Nansen.--Even when he reaches land Nansen cannot identify
 it.--Location is incomprehensible, he says.--It must be a land hitherto
 unknown he thinks.--Payer's map does not help him.--What this proves
-[165](jei11.htm#page_165)
+[165](jei11.htm#page_165.md)
 
 CHAPTER IX
 
@@ -192,7 +192,7 @@ show him to be inaccurate.--Statement of Matthew Henson.--Congress is
 placed in a dilemma.--Investigation a year after clamor had died down
 brings in verdict that Peary did not prove claims.--Summing up of, the
 lessons of this controversy.--A note following the news of Peary's
-death. [190](jei12.htm#page_190)
+death. [190](jei12.htm#page_190.md)
 
 CHAPTER X.
 
@@ -203,7 +203,7 @@ discovered pole.--All his other claims to Arctic discoveries have been
 proved false.--Peary's own self-contradictions.--His "discoveries"
 eliminated from official maps.--Peary and his missing "data."--Dr.
 Tittman's adverse testimony.--Hon. S. D. Fess of Ohio on Cook's
-claims.--He demolishes them utterly [211](jei13.htm#page_211)
+claims.--He demolishes them utterly [211](jei13.htm#page_211.md)
 
 CHAPTER XI.
 
@@ -221,7 +221,7 @@ years old.--Contradictions in that view.--Other similar
 discoveries.--Another description.--Freezing was instantaneous.--The
 interior of the earth the habitat of the Mammoth.--The Mastodon.--The
 Mammoth banquet.--A description of the fresh meat.--D’Annunzio tastes it
-and entertains his friends with it. [220](jei14.htm#page_220)
+and entertains his friends with it. [220](jei14.htm#page_220.md)
 
 CHAPTER XII.
 
@@ -238,7 +238,7 @@ did not know where they bred.--Driftwood and seeds of plants.--More
 about reindeer.--Millions of birds.--The only place where certain birds
 could migrate.--For instance, there is the sand-piper.--The "Arctic
 Highlanders."--Animal life more abundant in the Arctic than in the
-tropics.--A veritable paradise [247](jei15.htm#page_247)
+tropics.--A veritable paradise [247](jei15.htm#page_247.md)
 
 CHAPTER XIII.
 
@@ -246,7 +246,7 @@ OTHER INTERESTING ANIMALS OF THE INTERIOR
 
 Robert S. Cook's observations.--An unknown animal, the arcla.--Curious
 remains in the Antarctic.--The Mylodon.--An Eskimo tradition
-[265](jei16.htm#page_265)
+[265](jei16.htm#page_265.md)
 
 CHAPTER XIV.
 
@@ -260,9 +260,9 @@ point.--Professor Bruce on the Aurora in Venus.--Other evidence that the
 Aurora is due to the interior sun.--Its light continuous during Arctic
 night.--The nearer the pole the better the auroral display.--The sun's
 corona and the Aurora seem similar.--Earlier scientists have seen
-[similarity](errata.htm#1) between auroral and sun light.--Difference of
+[similarity](errata.htm#1.md) between auroral and sun light.--Difference of
 behavior between Aurora light and electric light
-[272](jei17.htm#page_272)
+[272](jei17.htm#page_272.md)
 
 CHAPTER XV
 
@@ -281,7 +281,7 @@ from the north.--Dr. Nicholas Senn's observations of the Eskimo and
 
 \[paragraph continues\] Chinese type.--Eskimo ideas as to their origin
 and home.--Their faith that the stock of their ancestors still survives
-over the polar lip [292](jei18.htm#page_292)
+over the polar lip [292](jei18.htm#page_292.md)
 
 CHAPTER XVI.
 
@@ -293,7 +293,7 @@ the location of the Garden of Eden.--A common birthplace of many widely
 distributed animal species.--The interior of the earth fulfills this
 description.--An Antarctic mystery that only our theory will
 solve.--Where did these human beings come from?--A race in the interior
-[312](jei19.htm#page_312)
+[312](jei19.htm#page_312.md)
 
 CHAPTER XVII
 
@@ -306,7 +306,7 @@ parasitic plants.--Insect and animal life.--How the Mammoth is
 trapped.--Are there people in this country.--No changes of light or
 season.--The interior sun and radium.--The geologist will find iron
 ore.--Animals, birds and insects.--The Irish elk.--Mineral
-wealth.--Emerging at the other end [321](jei20.htm#page_321)
+wealth.--Emerging at the other end [321](jei20.htm#page_321.md)
 
 CHAPTER XVIII.
 
@@ -329,7 +329,7 @@ ceaseless trembling.--A
 
 confession of scientific bankruptcy.--The earth does not get hotter the
 farther one penetrates; that is true only up to a certain point near the
-surface [341](jei21.htm#page_341)
+surface [341](jei21.htm#page_341.md)
 
 CHAPTER XIX.
 
@@ -345,7 +345,7 @@ inhabited on inner as well as outer surfaces.--Symmes' theory cannot be
 taken seriously.--Symmes would explain polar caps of planets and
 planetary rings by refraction.--But this idea will not hold
 water.--Symmes on sun-spots.--A synopsis of our own theory showing how
-utterly different it is from that of Symmes[358](jei22.htm#page_358)
+utterly different it is from that of Symmes[358](jei22.htm#page_358.md)
 
 CHAPTER XX.
 
@@ -354,14 +354,14 @@ THE MOON
 The moon was not hurled off from the revolving earth.--The "capture"
 theory.--Scientists admit that the moon is hollow.--The moon's weight in
 relation to that of earth shows that both are hollow
-[373](jei23.htm#page_373)
+[373](jei23.htm#page_373.md)
 
 CHAPTER XXI.
 
 A NOTE ON GRAVITATION
 
 Gravitation and centrifugal force.--The gravitational pull in the
-interior [377](jei24.htm#page_377)
+interior [377](jei24.htm#page_377.md)
 
 CHAPTER XXII.
 
@@ -396,7 +396,7 @@ to be facetious.--The San Antonio Express admits that we have
 discredited the orthodox school-day teachings of astronomy.--A note on
 comparisons with Jules Verne; he dealt in fancies, we deal in facts.--A
 great religious leader endorses our theory.--Western woman student of
-cosmogony thinks we are on right track [380](jei25.htm#page_380)
+cosmogony thinks we are on right track [380](jei25.htm#page_380.md)
 
 CHAPTER XXIII.
 
@@ -407,7 +407,7 @@ continental mass.--The Pittsburgh Leader thinks it has disposed of
 us.--But it prints our reply to Dominian.--The Constitution of the
 Earth.--The argument from the mammoth.--The Red Snow.--Mr. Dominian
 astraddle of a floating log.--A few points Mr. Dominian forgot to
-mention.--We never heard from him again [424](jei26.htm#page_424)
+mention.--We never heard from him again [424](jei26.htm#page_424.md)
 
 CHAPTER XXIV
 
@@ -415,7 +415,7 @@ OUR COUNTRY AND OUR THEORY
 
 A world of inconceivable riches.--It ought to be discovered by the
 United States.--Will America grasp her opportunity?--But we must not
-delay.--A benefit to mankind [434](jei27.htm#page_434)
+delay.--A benefit to mankind [434](jei27.htm#page_434.md)
 
 <span id="page_16">p. 16</span>
 
@@ -430,8 +430,8 @@ theory explain the red pollen of the far north?--What have the orthodox
 scientists to say in regard to the Mammoth?--How, aside from our theory,
 could those human remains in the Antarctic be explained?--And why cannot
 the orthodox scientists agree about the genesis of the moon?
-[442](jei28.htm#page_442)
+[442](jei28.htm#page_442.md)
 
 ------------------------------------------------------------------------
 
-[Next: Illustrations](jei02)
+[Next: Illustrations](jei02.md)

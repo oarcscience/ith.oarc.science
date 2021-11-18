@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](tmmi03)  [Next](tmmi05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](tmmi03)  [Next](tmmi05.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ as compared with the remainder of California.
 
 ------------------------------------------------------------------------
 
-[Next: Meteor Myths](tmmi05)
+[Next: Meteor Myths](tmmi05.md)

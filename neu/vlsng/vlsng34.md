@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng33)  [Next](vlsng35) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng33)  [Next](vlsng35.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ the corresponding passage of the short lay of Sigurd.--Tr.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII: Gudrun wedded to Alii.](vlsng35)
+[Next: Chapter XXXIII: Gudrun wedded to Alii.](vlsng35.md)

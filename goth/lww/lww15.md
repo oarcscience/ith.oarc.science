@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww14)  [Next](lww16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww14)  [Next](lww16.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ through the opening.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI--A Visit of Sympathy](lww16)
+[Next: Chapter XVI--A Visit of Sympathy](lww16.md)

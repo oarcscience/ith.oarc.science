@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK XI CHAPTER IV
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK XI](book10) 
-[Previous](mart328)  [Next](mart330) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK XI](book10.md) 
+[Previous](mart328)  [Next](mart330.md) </span>
 
 ------------------------------------------------------------------------
 

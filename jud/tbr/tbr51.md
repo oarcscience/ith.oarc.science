@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tbr50)  [Next](tbr52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tbr50)  [Next](tbr52.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,8 +12,8 @@ Textual Heritage
 #### The Order of the Benedictions about Various Objects at the End of Sabbath.
 
 <span class="margnote">**M**.</span>VIII. 5. The School of Shammai say:
-Lamp and food and spices <span id="fr_417"></span>[5](#fn_416) and
-*Habdalah*. <span id="fr_418"></span>[6](#fn_417) But the
+Lamp and food and spices <span id="fr_417"></span>[5](#fn_416.md) and
+*Habdalah*. <span id="fr_418"></span>[6](#fn_417.md) But the
 
 <span id="page_69">p. 69</span>
 
@@ -37,41 +37,41 @@ says the *Habdalah*. And if he has only one cup he reserves it for after
 the meal, and strings them altogether \[in a Benediction\] after it; and
 one says the *Habdalah* at the end of sabbath, and at the end of a
 festival, and at the end of the Day of Atonement, and at the end of a
-sabbath for a festival, <span id="fr_419"></span>[1](#fn_418) and the
+sabbath for a festival, <span id="fr_419"></span>[1](#fn_418.md) and the
 end of a festival for the ordinary day of the feast.
 
 He who is accustomed \[to use such forms\] says many *Habdaloth*, <span
-id="fr_420"></span>[2](#fn_419) and he who is not accustomed says one or
+id="fr_420"></span>[2](#fn_419.md) and he who is not accustomed says one or
 two.
 
 In the Lecture Hall, the School of Shammai say: One person says the
 Benediction for them all, and the School of Hillel say: Each single one
-says the Benediction for himself. <span id="fr_421"></span>[3](#fn_420)
+says the Benediction for himself. <span id="fr_421"></span>[3](#fn_420.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_416"></span>[68:5](tbr51.htm#fr_417) *spices*. As the
+<span id="fn_416"></span>[68:5](tbr51.htm#fr_417.md) *spices*. As the
 custom of burning spices at the close of meals (*M*. VI. 6, *supra*, [p.
-48](tbr40.htm#page_48)) "was intermitted on the sabbath, the bringing in
+48](tbr40.htm#page_48).md) "was intermitted on the sabbath, the bringing in
 of spices became associated with the end of the sabbath" (Abrahams on
 SA, p. 216).
 
-<span id="fn_417"></span>[68:6](tbr51.htm#fr_418) *Habdalah*, [p.
-39](tbr33.htm#page_39).
+<span id="fn_417"></span>[68:6](tbr51.htm#fr_418.md) *Habdalah*, [p.
+39](tbr33.htm#page_39.md).
 
-<span id="fn_418"></span>[69:1](tbr51.htm#fr_419) *for a festival*. When
+<span id="fn_418"></span>[69:1](tbr51.htm#fr_419.md) *for a festival*. When
 a sabbath immediately precedes a festival.
 
-<span id="fn_419"></span>[69:2](tbr51.htm#fr_420) *Habdaloth*. The
+<span id="fn_419"></span>[69:2](tbr51.htm#fr_420.md) *Habdaloth*. The
 plural may refer to vanity in the Benedictions, or in the citations from
 Scripture, or to the enumeration of various "distinctions."
 
-<span id="fn_420"></span>[69:3](tbr51.htm#fr_421) *Each . . for
+<span id="fn_420"></span>[69:3](tbr51.htm#fr_421.md) *Each . . for
 himself*. Perhaps because they are continually coming and going. Cf.
-*supra*, [p. 63](tbr44.htm#page_63).
+*supra*, [p. 63](tbr44.htm#page_63.md).
 
 ------------------------------------------------------------------------
 
-[Next: M. VIII. 6. The Wording of the Benediction over the Lamp](tbr52)
+[Next: M. VIII. 6. The Wording of the Benediction over the Lamp](tbr52.md)

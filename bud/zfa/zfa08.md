@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa07)  [Next](zfa09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa07)  [Next](zfa09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ monk assented and recited the following gâtha:
 <span class="small">"Commit no wrong, but good deeds do,  
   And let thy heart be pure,  
 All Buddhas teach this truth,  
-  Which will for aye endure." <span id="fr_27"></span>[1](#fn_27)</span>
+  Which will for aye endure." <span id="fr_27"></span>[1](#fn_27.md)</span>
 
 </div>
 
@@ -190,7 +190,7 @@ Tato nam dukkham anveti, cakkara va vahato padam.
 "Manopubbangamâ dhammâ, manosetthâ, manomayâ;  
 Manasâ ce pasannena bhâsati vâ karoti vâ,  
 Tato nam sukhara anveti, châyâ va anapâyinî." <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 </div>
 
@@ -270,7 +270,7 @@ of pure-heartedness.
 
 ### Footnotes
 
-<span id="fn_27"></span>[69:1](zfa08.htm#fr_27) Translation by Dr. Paul
+<span id="fn_27"></span>[69:1](zfa08.htm#fr_27.md) Translation by Dr. Paul
 Carus. In Pâli:
 
 <div style="margin-left: 32px">
@@ -281,7 +281,7 @@ Sacittapariyodapanam: etam Buddhâna sâsanam.
 
 </div>
 
-<span id="fn_28"></span>[75:1](zfa08.htm#fr_28) All that is, is the
+<span id="fn_28"></span>[75:1](zfa08.htm#fr_28.md) All that is, is the
 result of thought, it is founded on thought, it is made of thought. If a
 man speaks or acts with an evil thought, pain follows him, as the wheel
 follows the foot of the ox that draws the carriage. All that is, is the
@@ -291,4 +291,4 @@ shadow that never leaves him.
 
 ------------------------------------------------------------------------
 
-[Next: What is Buddhism?](zfa09)
+[Next: What is Buddhism?](zfa09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron08)  [Next](ron10) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron08)  [Next](ron10.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,10 +101,10 @@ Wotan's spear
 Was splintered by Siegfried,
 
 <span id="img_13600"></span> [![](tn/13600.jpg)  
-Click to enlarge](img/13600.jpg)
+Click to enlarge](img/13600.jpg.md)
 
 The ravens of Wotan  
-             See [p. 128](ron08.htm#page_128)
+             See [p. 128](ron08.htm#page_128.md)
 
  
 
@@ -204,12 +204,12 @@ position, looks with fixed eyes and without moving towards the Rhine,
 over which the light of dawn is spreading*.\]
 
 <span id="img_13800"></span> [![](tn/13800.jpg)  
-Click to enlarge](img/13800.jpg)
+Click to enlarge](img/13800.jpg.md)
 
 "The ring upon my hand--  
 . . . ah, be implored!  
 For Wotan fling it away!"  
-                  See [p. 129](ron08.htm#page_129)
+                  See [p. 129](ron08.htm#page_129.md)
 
  
 
@@ -359,10 +359,10 @@ Gutrune
 But 'twas Brünnhild' lay beside thee.
 
 <span id="img_14000"></span> [![](tn/14000.jpg)  
-Click to enlarge](img/14000.jpg)
+Click to enlarge](img/14000.jpg.md)
 
 The wooing of Grimhilde, the mother of Hagen  
-                                       See [p. 135](#page_135)
+                                       See [p. 135](#page_135.md)
 
  
 
@@ -470,10 +470,10 @@ With weapons keen!
 Hoiho! Ho! Hagen!
 
 <span id="img_14200"></span> [![](tn/14200.jpg)  
-Click to enlarge](img/14200.jpg)
+Click to enlarge](img/14200.jpg.md)
 
 "Swear to me Hagen, my son!"  
-                      See [p. 138](#page_138)
+                      See [p. 138](#page_138.md)
 
  
 
@@ -1408,4 +1408,4 @@ height, the curtain falls*.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Third Act](ron10)
+[Next: The Third Act](ron10.md)

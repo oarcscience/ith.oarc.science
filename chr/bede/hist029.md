@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist028) 
-[Next](hist030) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist028.md) 
+[Next](hist030.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -491,4 +491,4 @@ captive by the delight which he unwillingly bears within him.
 ------------------------------------------------------------------------
 
 [Next: XXVIII. How Pope Gregory wrote to the bishop of Aries to help
-Augustine in the work of God. \[601 A.D.\]](hist030)
+Augustine in the work of God. \[601 A.D.\]](hist030.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktswpa)  [Next](pktsw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktswpa)  [Next](pktsw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Ten
 
 <span id="img_sw10"></span> <span align="CENTER"> [![](tn/sw10.jpg)  
-Click to enlarge](img/sw10.jpg)</span>
+Click to enlarge](img/sw10.jpg.md)</span>
 
 A prostrate figure, pierced by all the swords belonging to the card.
 *Divinatory Meanings*: Whatsoever is intimated by the design; also pain,
@@ -30,4 +30,4 @@ of these are permanent; also power and authority.
 
 ------------------------------------------------------------------------
 
-[Next: Nine of Swords](pktsw09)
+[Next: Nine of Swords](pktsw09.md)

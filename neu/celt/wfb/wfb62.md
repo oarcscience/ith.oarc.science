@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb61)  [Next](wfb63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb61)  [Next](wfb63.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ perished, which is a very great pity.
 
 ------------------------------------------------------------------------
 
-[Next: St. Winifred's Well](wfb63)
+[Next: St. Winifred's Well](wfb63.md)

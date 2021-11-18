@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb30)  [Next](isb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb30)  [Next](isb32.md) 
 
 ------------------------------------------------------------------------
 
@@ -507,4 +507,4 @@ fair judge.
 
 ------------------------------------------------------------------------
 
-[Next: Dublin At Last](isb32)
+[Next: Dublin At Last](isb32.md)

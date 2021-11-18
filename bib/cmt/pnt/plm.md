@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Commentary](../index)  [Index](index)   
-[Titus](tit)  [Hebrews](heb)
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Commentary](../index)  [Index](index.md)   
+[Titus](tit)  [Hebrews](heb.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[Philemon Introduction](plm000)  
-[Philemon Chapter 1](plm001)  
+[Philemon Introduction](plm000.md)  
+[Philemon Chapter 1](plm001.md)  

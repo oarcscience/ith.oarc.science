@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](smog02)  [Next](smog04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](smog02)  [Next](smog04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Smoky God*, by Willis George Emerson, \[1908\], at Intangible
 Textual Heritage
 
@@ -87,7 +87,7 @@ At first I thought he favored my
 
 <span id="img_04900"></span> <span align="CENTER"> [![“Twenty-eight
 years—long, tedious, frightful years of suffering.”](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 “Twenty-eight years—long, tedious, frightful years of suffering.”  
 </span>
 
@@ -192,7 +192,7 @@ We put in at Hammerfest, latitude
 <span id="img_05700"></span> <span align="CENTER"> [![“A vessel larger
 than our little fishing sloop could not have threaded its way among the
 icebergs.”](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 “A vessel larger than our little fishing sloop could not have threaded
 its way among the icebergs.”  
 </span>
@@ -220,7 +220,7 @@ After many narrow escapes, we arrived at Spitzbergen on the 23d of June,
 and anchored at Wijade Bay for a short time, where we were quite
 successful in our catches. We then lifted anchor and sailed through the
 Hinlopen Strait, and coasted along the North-East-Land. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 A strong wind came up from the southwest, and my father said that we had
 better take advantage of it and try to reach Franz Josef Land, where,
@@ -244,7 +244,7 @@ one or two acres, yet the air was
 <span id="page_62">p. 62</span>
 
 warm and tranquil. It seemed to be at that point where the Gulf Stream's
-influence is most keenly felt. <span id="fr_2"></span>[1](#fn_2)
+influence is most keenly felt. <span id="fr_2"></span>[1](#fn_2.md)
 
 On the east coast there were numerous icebergs, yet here we were in open
 water. Far to the west of us,
@@ -253,7 +253,7 @@ water. Far to the west of us,
 
 however, were icepacks, and still farther to the westward the ice
 appeared like ranges of low hills. In front of us, and directly to the
-north, lay an open sea. <span id="fr_3"></span>[1](#fn_3)
+north, lay an open sea. <span id="fr_3"></span>[1](#fn_3.md)
 
 My father was an ardent believer in Odin and Thor, and had frequently
 told me they were gods who came from far beyond the "North Wind."
@@ -264,7 +264,7 @@ There was a tradition, my father
 
 explained, that still farther northward was a land more beautiful than
 any that mortal man had ever known, and that it was inhabited by the
-"Chosen." <span id="fr_4"></span>[1](#fn_4)
+"Chosen." <span id="fr_4"></span>[1](#fn_4.md)
 
 My youthful imagination was fired by the ardor, zeal and religious
 fervor
@@ -280,7 +280,7 @@ to go with me and explore—to go far beyond where man has ever ventured?"
 I answered affirmatively. "Very well," he replied. "May the god Odin
 protect us!" and, quickly adjusting the sails, he glanced at our
 compass, turned the prow in due northerly direction through an open
-channel, and our voyage had begun. <span id="fr_5"></span>[1](#fn_5)
+channel, and our voyage had begun. <span id="fr_5"></span>[1](#fn_5.md)
 
 <span id="page_66">p. 66</span>
 
@@ -305,13 +305,13 @@ On the third day we came to an island. Its shores were washed by an open
 sea. My father determined to land and explore for a day. This new land
 was destitute of timber, but we found a large accumulation of drift-wood
 on the northern shore. Some of the trunks of the trees were forty feet
-long and two feet in diameter. <span id="fr_6"></span>[1](#fn_6)
+long and two feet in diameter. <span id="fr_6"></span>[1](#fn_6.md)
 
 <span id="page_68">p. 68</span>
 
 After one day's exploration of the coast line of this island, we lifted
 anchor and turned our prow to the north in an open sea. <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 I remember that neither my father nor myself had tasted food for almost
 
@@ -325,7 +325,7 @@ the physical needs.
 Instead of the cold being intense as we had anticipated, it was really
 warmer and more pleasant than it had been while in Hammerfest on the
 north coast of Norway, some six weeks before. <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 <span id="page_70">p. 70</span>
 
@@ -361,13 +361,13 @@ with the great white flakes of falling snow. Whether it covered a
 treacherous iceberg, or some other hidden obstacle against which our
 little sloop would dash and send us to a watery grave, or was merely the
 phenomenon of an Arctic fog, there was no way to determine. <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 <span id="page_73">p. 73</span>
 
 <span id="img_07300"></span> <span align="CENTER"> [![“By what miracle
 we escaped being dashed to destruction, I do not know.”](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)  
+Click to enlarge](img/07300.jpg.md)  
 “By what miracle we escaped being dashed to destruction, I do not
 know.”  
 </span>
@@ -462,11 +462,11 @@ be seen the green-tinted sea, and above, the purple sky.
 
 ### Footnotes
 
-<span id="fn_1"></span>[60:1](smog03.htm#fr_1) *It will be remembered
+<span id="fn_1"></span>[60:1](smog03.htm#fr_1.md) *It will be remembered
 that Andree started on his fatal balloon voyage from the northwest coast
 of Spitzbergen*.
 
-<span id="fn_2"></span>[62:1](smog03.htm#fr_2) *Sir John Barrow, Bart.,
+<span id="fn_2"></span>[62:1](smog03.htm#fr_2.md) *Sir John Barrow, Bart.,
 F.R.S., in his work entitled "Voyages of Discovery and Research Within
 the Arctic Regions," says on page* 57: *"Mr. Beechey refers to what has
 frequently been found and noticed—the mildness of the temperature on the
@@ -476,14 +476,14 @@ freezing-point. The brilliant and lively effect of a clear day, when the
 sun shines forth with a pure sky, whose azure hue is so intense as to
 find no parallel even in the boasted Italian sky."*
 
-<span id="fn_3"></span>[63:1](smog03.htm#fr_3) *Captain Kane, on page*
+<span id="fn_3"></span>[63:1](smog03.htm#fr_3.md) *Captain Kane, on page*
 299*, quoting from Morton's Journal on Monday, the* 26*th of December,
 says: "As far as I could see, the open passages were fifteen miles or
 more wide, with sometimes mashed ice separating them. But it is all
 small ice, and I think it either drives out to the open space to the
 north or rots and sinks, as I could see none ahead to the north."*
 
-<span id="fn_4"></span>[64:1](smog03.htm#fr_4) *We find the following in
+<span id="fn_4"></span>[64:1](smog03.htm#fr_4.md) *We find the following in
 "Deutsche Mythologie," page* 778*, from the pen of Jakob Grimm; "Then
 the sons of Bor built in the middle of the universe the city called
 Asgard, where dwell the gods and their kindred, and from that abode work
@@ -492,12 +492,12 @@ it. There is in that city a place called Hlidskjalf, and when Odin is
 seated there upon his lofty throne he sees over the whole world and
 discerns all the actions of men."*
 
-<span id="fn_5"></span>[65:1](smog03.htm#fr_5) *Hall writes, on page*
+<span id="fn_5"></span>[65:1](smog03.htm#fr_5.md) *Hall writes, on page*
 288: *"On the* 23*rd of January the two Esquimaux, accompanied by two of
 the sea men*, <span id="page_66">p. 66</span> *went to Cape Lupton. They
 reported a sea of open water extending as far as the eye could reach."*
 
-<span id="fn_6"></span>[67:1](smog03.htm#fr_6) *Greely tells us in vol.*
+<span id="fn_6"></span>[67:1](smog03.htm#fr_6.md) *Greely tells us in vol.*
 1*, page* 100*, that: "Privates Connell and Frederick found a large
 coniferous tree on the beach, just above the extreme high-water mark. It
 was nearly thirty inches in circumference, some thirty feet long, and
@@ -506,7 +506,7 @@ id="page_68">p. 68</span> *within a couple of years. A portion of it was
 cut up for fire-wood, and for the first time in that valley, a bright,
 cheery camp-fire gave comfort to man."*
 
-<span id="fn_7"></span>[68:1](smog03.htm#fr_7) *Dr. Kane says, on page*
+<span id="fn_7"></span>[68:1](smog03.htm#fr_7.md) *Dr. Kane says, on page*
 379 *of his works: "I cannot imagine what becomes of the ice. A strong
 current sets in constantly to the north; but, from altitudes of more
 than five hundred feet, I saw only narrow strips of ice, with great
@@ -514,7 +514,7 @@ spaces of open water, from ten to fifteen miles in breadth, between
 them. It must, therefore, either go to an open space in the north, or
 dissolve."*
 
-<span id="fn_8"></span>[69:1](smog03.htm#fr_8) *Captain Peary's second
+<span id="fn_8"></span>[69:1](smog03.htm#fr_8.md) *Captain Peary's second
 voyage relates another circumstance which may serve to confirm a
 conjecture which has long keen maintained by some, that an open sea,
 free of ice, exists at or near the Pole. "On the second of November,"
@@ -526,7 +526,7 @@ temperatures. May not this," he asks, "be occasioned by the wind blowing
 over an open sea in the quarter from which the wind blows? And tend to
 confirm the opinion that at or near the Pole an open sea exists?"*
 
-<span id="fn_9"></span>[72:1](smog03.htm#fr_9) *On page* 284 *of his
+<span id="fn_9"></span>[72:1](smog03.htm#fr_9.md) *On page* 284 *of his
 works, Hall writes: "From the top of Providence Berg, a dark fog was
 seen to the north, indicating water. At* 10 *a. m. three of the men
 (Kruger, Nindemann and Hobby) went to Cape* <span id="page_75">p.
@@ -537,4 +537,4 @@ pieces of ice upon it."*
 
 ------------------------------------------------------------------------
 
-[Next: Part Three: Beyond the North Wind](smog04)
+[Next: Part Three: Beyond the North Wind](smog04.md)

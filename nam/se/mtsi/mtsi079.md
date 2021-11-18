@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi078)  [Next](mtsi080) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi078)  [Next](mtsi080.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ way, and no one can be blamed except themselves."
 
 ------------------------------------------------------------------------
 
-[Next: 78. Rabbit's Imposition is Detected](mtsi080)
+[Next: 78. Rabbit's Imposition is Detected](mtsi080.md)

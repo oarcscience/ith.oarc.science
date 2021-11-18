@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](abo09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](abo09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -110,7 +110,7 @@ of Mordecai."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_90"></span>[1](#fn_88)There are four things which bear
+ <span id="fr_90"></span>[1](#fn_88.md)There are four things which bear
 good fruit in this world, and yield greater benefits for the world to
 come, if man observes
 
@@ -315,14 +315,14 @@ Five possessions had the Holy One, blessed be He, in this world, and
 these are they: Torah, one possession; Heaven and earth, one possession;
 Abraham, one possession; Israel, one possession; the Sanctuary, one
 possession. Torah, whence? As it is written \[Prov. viii. 22\]: "The
-Lord created <span id="fr_91"></span>[1](#fn_89) me as the beginning of
+Lord created <span id="fr_91"></span>[1](#fn_89.md) me as the beginning of
 his way; the first of his works from the commencement." Heaven and
 earth, whence? As it is written \[Is. lxvi. 2\] "The heaven is my
 throne, and the earth is my footstool where is there a house that ye can
 build unto me? and where is the place of my rest?" And it is also
 written \[Ps. civ. 24\]: "How manifold are thy works, O Lord! in wisdom
 hast thou made them all; the earth is full of thy riches." <span
-id="fr_92"></span>[1](#fn_89) Abraham, whence? It is written \[Gen. xiv.
+id="fr_92"></span>[1](#fn_89.md) Abraham, whence? It is written \[Gen. xiv.
 19\]: "And he blessed him, and said, Blessed be Abram
 
 <span id="page_142">p. 142</span>
@@ -335,7 +335,7 @@ the excellent--in them is all my delight." The Sanctuary, whence? As it
 is written \[Ex. xv. 7\]: "The sanctuary, O Lord, which thy hands have
 established." And it is also written \[Ps. lxxviii, 54\]: "And he
 brought them to his holy territory, even to this mount, which his right
-hand had acquired." <span id="fr_93"></span>[1](#fn_90)
+hand had acquired." <span id="fr_93"></span>[1](#fn_90.md)
 
 Whatsoever the Holy One, blessed be He, created in this world, He
 created not but for his glory, as it is written \[Ps. xliii. 7\]: "Every
@@ -351,7 +351,7 @@ maketh it honorable.'"
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_94"></span>[2](#fn_91)R. Simeon said there are three
+ <span id="fr_94"></span>[2](#fn_91.md)R. Simeon said there are three
 crowns: the crown of Torah, that of priesthood, and that of kingdom; the
 crown of a good name, however, is above all. Concerning the crown of
 priesthood: If one would offer all the gold and silver in the world for
@@ -371,7 +371,7 @@ come ye to the water" (meaning the Torah). Occupy thyself with the words
 of the Torah, and do not occupy thyself with idle things.
 
 It happened to R. Elazar b. Simeon, etc. <span
-id="fr_95"></span>[1](#fn_92)
+id="fr_95"></span>[1](#fn_92.md)
 
 Three things were said of charitable men: he who gives charity may be
 blessed, but if he gives it in the form of a loan is still better; but
@@ -449,19 +449,19 @@ END OF TRACT ABOTH AND OF ABOTH OF R. NATHAN.
 
 ### Footnotes
 
-<span id="fn_88"></span>[136:1](abo10.htm#fr_90) Chapter XL. of the
+<span id="fn_88"></span>[136:1](abo10.htm#fr_90.md) Chapter XL. of the
 original.
 
-<span id="fn_89"></span>[141:1](abo10.htm#fr_92) The Hebrew terms for
+<span id="fn_89"></span>[141:1](abo10.htm#fr_92.md) The Hebrew terms for
 these are derived from the verb ‏קנה‎, which the Talmud translates
 literally, "to possess," "to acquire."
 
-<span id="fn_90"></span>[142:1](abo10.htm#fr_93) The Hebrew terms for
+<span id="fn_90"></span>[142:1](abo10.htm#fr_93.md) The Hebrew terms for
 these are derived from the verb ‏קנה‎, which the Talmud translates
 literally, "to possess," "to acquire."
 
-<span id="fn_91"></span>[142:2](abo10.htm#fr_94) Chapter XLI. of the
+<span id="fn_91"></span>[142:2](abo10.htm#fr_94.md) Chapter XLI. of the
 original.
 
-<span id="fn_92"></span>[143:1](abo10.htm#fr_95) See Section Festivals,
+<span id="fn_92"></span>[143:1](abo10.htm#fr_95.md) See Section Festivals,
 Vol. VIII., Tract Taanith, pp. 52-53, the legend at length.

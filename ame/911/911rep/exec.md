@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Americana](../../index) 
-[9/11](../index)  [Index](index)  [Next](fm) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Americana](../../index.md) 
+[9/11](../index)  [Index](index)  [Next](fm.md) 
 
 ------------------------------------------------------------------------
 
@@ -979,7 +979,7 @@ structures are too complex and too secret.
 <span id="img_exec_1"></span>
 
 [![](tn/exec_1.jpg)  
-Click to enlarge](img/exec_1.jpg)
+Click to enlarge](img/exec_1.jpg.md)
 
 -   This National Intelligence Director (NID) should be located in the
     Executive Office of the President and report directly to the
@@ -1090,4 +1090,4 @@ recommended, and we will participate vigorously in that debate.
 ------------------------------------------------------------------------
 
 [Next: Contents, List of Illustrations and Tables, Members, and
-Staff](fm)
+Staff](fm.md)

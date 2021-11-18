@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal145)  [Next](njal147) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal145)  [Next](njal147.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ before.
 
 ------------------------------------------------------------------------
 
-[Next: 147. Kari Comes To Bjorn's House In The Mark](njal147)
+[Next: 147. Kari Comes To Bjorn's House In The Mark](njal147.md)

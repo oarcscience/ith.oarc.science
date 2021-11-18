@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft20)  [Next](meft22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft20)  [Next](meft22.md) 
 
 ------------------------------------------------------------------------
 
 # The Pedlar of Swaffham
 
 <span id="img_021"></span> [![](tn/021.jpg)  
-Click to enlarge](img/021.jpg)
+Click to enlarge](img/021.jpg.md)
 
 IN the old days when London Bridge was lined with shops from one end to
 the other, and salmon swam under the arches, there lived at Swaffham, in
@@ -70,4 +70,4 @@ And there it stands to this day to witness if I lie.
 
 ------------------------------------------------------------------------
 
-[Next: The Old Witch](meft22)
+[Next: The Old Witch](meft22.md)

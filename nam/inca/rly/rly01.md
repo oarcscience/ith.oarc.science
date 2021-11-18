@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inca](../index) [Index](index) [Previous](rly00) [Next](rly02)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inca](../index) [Index](index) [Previous](rly00) [Next](rly02.md)
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ American](../../index) [Inca](../index) [Index](index) [Previous](rly00) [Ne
 
 ------------------------------------------------------------------------
 
-[Next](rly02)
+[Next](rly02.md)

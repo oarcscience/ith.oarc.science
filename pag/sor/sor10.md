@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor09)  [Next](sor11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor09)  [Next](sor11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -158,7 +158,7 @@ intoxication, without a risk of losing self-control?
 
 Is there a brain, that not being petrified, crystallised in the barren
 dogmas of Aquinas, is still free to receive life, and the vigorous sap
-of life? Three Wizards <span id="fr_32"></span>[1](#fn_32) essay the
+of life? Three Wizards <span id="fr_32"></span>[1](#fn_32.md) essay the
 task; by innate vigour of mind, they force their way to Nature's source;
 but bold and intrepid as their genius is, it has not, it cannot have,
 the adaptability, the power, of the popular spirit. So Satan has re-
@@ -199,7 +199,7 @@ over-suddenly in her bosom.
 
 Have you ever seen the Agave, that rude, harsh native of the African
 plains, spiky, bitter, sharp-thorned, with pointed spears instead of
-leaves? This Aloe [lives](errata.htm#4) and dies every ten years. One
+leaves? This Aloe [lives](errata.htm#4.md) and dies every ten years. One
 morning, the wondrous flower-shoot, so long growing silently and
 
 <span id="page_74">p. 74</span>
@@ -306,10 +306,10 @@ womb great Nature's self.
 
 ### Footnotes
 
-<span id="fn_32"></span>[72:1](sor10.htm#fr_32) Albertus Magnus, Roger
+<span id="fn_32"></span>[72:1](sor10.htm#fr_32.md) Albertus Magnus, Roger
 Bacon, Arnold of Villeneuve—the last-named discoverer of the art of
 distilling spirit from the grape.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Satan the Healer](sor11)
+[Next: 9. Satan the Healer](sor11.md)

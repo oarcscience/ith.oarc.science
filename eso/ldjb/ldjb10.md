@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb09)  [Next](ldjb11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb09)  [Next](ldjb11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -96,13 +96,13 @@ his interior, as the sun is illuminating the world." (*Stiefel*, i. 36.)
 "In Paradise there is perfect life without disturbance, and a perpetual
 day, and the paradisiacal man is clear like transparent glass, and he is
 fully penetrated by the light of the divine sun." <span
-id="fr_39"></span>[1](#fn_39) (*Signature*, xi. 5 1.)
+id="fr_39"></span>[1](#fn_39) (*Signature*, xi. 5 1..md)
 
  
 
 His body likewise appeared luminous, because its terrestrial substance
 was absorbed in the celestial essence. It radiated a pure, divine
-light. <span id="fr_40"></span>[2](#fn_40)
+light. <span id="fr_40"></span>[2](#fn_40.md)
 
 "The inner holy corporeity of the pure element penetrated through the
 four elements and kept the *Limus* of earth—that is to say, the external
@@ -156,7 +156,7 @@ His mind was pure and uncomplicated, childlike, unsophisticated, and
 devoted to God; he did not need to speculate about the unknown, because
 he had the power to perceive that which he wanted to know. He enjoyed
 the perception of divine and terrestrial things. <span
-id="fr_41"></span>[1](#fn_41)
+id="fr_41"></span>[1](#fn_41.md)
 
 "The mind of Adam was innocent like that of a child, playing with the
 wonders of its Father. There was in him no self-knowledge of evil will,
@@ -184,7 +184,7 @@ he might behold them, and give a name to each according to its special
 essence and power. And Adam knew that he was within every creature, and
 he gave to each its appropriate name. God can see into the hearts of all
 things, and the same could be done by Adam." <span
-id="fr_42"></span>[1](#fn_42) (*Three* [*Principles*](errata.htm#0), x.
+id="fr_42"></span>[1](#fn_42) (*Three* [*Principles*](errata.htm#0.md), x.
 17.)
 
  
@@ -194,7 +194,7 @@ things existed in him and he in all, and there was nothing that could
 have done him any external injury. To express it in other words, all
 things existed subjectively in his mind, as they now do in ours, but his
 mind was his " body," and where the centre of his consciousness was,
-there was his "form." <span id="fr_43"></span>[2](#fn_43)
+there was his "form." <span id="fr_43"></span>[2](#fn_43.md)
 
 <span id="page_145">p. 145</span>
 
@@ -212,7 +212,7 @@ of His holy being."
 (*Mysterium*, xvi. 12.) "Everything was subject to Adam; his rule
 extended into heaven and over the earth, and in all elements and stars.
 This was because divine power was manifested in him." <span
-id="fr_44"></span>[1](#fn_44) (*Mysterium*, xvi. 2.)
+id="fr_44"></span>[1](#fn_44) (*Mysterium*, xvi. 2..md)
 
 "The will-spirit of man penetrated through all creatures, and was
 injured by none, because none could grasp it. No creature can apprehend
@@ -221,7 +221,7 @@ to become penetrated by it; thus it was then the case with the
 will-spirit of man." (*Grace*, vii. 2.)
 
 "Before his fall, man could rule over the sun and the stars. Everything
-was in his power. <span id="fr_45"></span>[2](#fn_45) Fire, air, water,
+was in his power. <span id="fr_45"></span>[2](#fn_45.md) Fire, air, water,
 and earth could not tame him; no fire burned him, no water drowned, no
 air suffocated him; all that lived stood in awe of him." (*Threefold
 Life*, xi. 23.)
@@ -230,7 +230,7 @@ Life*, xi. 23.)
 or terrify him. His body could pass through earth and rocks without
 breaking anything in them; for a man who could be overpowered by the
 terrestrial nature, or who could be broken to pieces, would not be
-eternal." <span id="fr_46"></span>[3](#fn_46) (*Menschwerdung*, i. 2,
+eternal." <span id="fr_46"></span>[3](#fn_46.md) (*Menschwerdung*, i. 2,
 13.)
 
 <span id="page_146">p. 146</span>
@@ -255,7 +255,7 @@ it lovely to the sight and good to the taste." (*Mysterium*, xvii. 5.)
 "Thus the holy divine world was predominant through all the three
 principles of the human quality, and there was an equal accord, and no
 enmity or opposite will was manifest betwixt the principles." <span
-id="fr_47"></span>[1](#fn_47) (*Mysterium*, xvii. 20.)
+id="fr_47"></span>[1](#fn_47) (*Mysterium*, xvii. 20..md)
 
  
 
@@ -296,14 +296,14 @@ dwelling-place, and be fortified therein." (*Mysterium*, xvii. 7.)
 did not bloom and bear fruits in the whole of the world by means of the
 earth, although it was manifest everywhere, but only in the Garden of
 Eden, wherein Adam was tempted, did it become revealed in its full
-magnificence." <span id="fr_48"></span>[1](#fn_48) (*Letters*, xxxix.
+magnificence." <span id="fr_48"></span>[1](#fn_48.md) (*Letters*, xxxix.
 28.)
 
  
 
 For all that, man, although having been endowed with great splendour by
 the Creator, did not yet enjoy true similarity with God. <span
-id="fr_49"></span>[2](#fn_49)
+id="fr_49"></span>[2](#fn_49.md)
 
 "In Adam was manifest the kingdom of grace, the divine life, because he
 lived in the temperature (harmony) of the qualities, but he did not know
@@ -336,7 +336,7 @@ Son, and thus the soul should put her immutable will into the heart of
 God. Then would she be in heaven and Paradise, and enjoy the
 inexpressible happiness of God the Father, which He enjoys in the Son,
 and she would hear the inexpressible words in the heart of God." <span
-id="fr_50"></span>[1](#fn_50) (*Three Principles*, x. 14.)
+id="fr_50"></span>[1](#fn_50) (*Three Principles*, x. 14..md)
 
 "Adam was conceived in the love of God and born into this world. He was
 in possession of a divine substantiality, and his soul was of the will,
@@ -351,7 +351,7 @@ of God in the Word of Life." (*Menschwerdung*, i. 10, 2.)
 
 "The living soul, from the eternal will of the Father, was breathed into
 man, and this will has no other purpose than to give birth to His only
-Son. <span id="fr_51"></span>[1](#fn_51) Of this will God the Father
+Son. <span id="fr_51"></span>[1](#fn_51.md) Of this will God the Father
 infused into man, and this is the eternal soul of man. The soul ought to
 put her regenerated will into the eternal will of the Father, in the
 heart of God. Then will she receive the power of the heart of God and
@@ -396,7 +396,7 @@ originates." (*Eye*, vii.)
 within herself and conceive of herself as the nothing, when she will
 sprout like a branch out of the tree of divine life, and eat of the love
 of God; or she may in her own self-will rise up in the fire and desire
-to become a separate tree." <span id="fr_52"></span>[1](#fn_52) (*Forty
+to become a separate tree." <span id="fr_52"></span>[1](#fn_52.md) (*Forty
 Questions*, ii. 2.)
 
  
@@ -405,7 +405,7 @@ There existed in man also the third principle, wherein resides sensual
 desire. He was not endowed with this principle for the purpose of
 surrendering himself to it, but that he might introduce it into the
 light of God, and glorify Him by means of that light. <span
-id="fr_53"></span>[2](#fn_53)
+id="fr_53"></span>[2](#fn_53.md)
 
 "Man was a mixed individuality, and destined to be an image according to
 the inner, and also according to the outer world; but as the symbol of
@@ -433,7 +433,7 @@ everything as with one will." (*Tilk*., i. 542.)
 
 "The soul of Adam could have ruled powerfully over the external
 principle if she had entered again with her will into the heart of God,
-into the word of the Lord." <span id="fr_54"></span>[1](#fn_54) (*Forty
+into the word of the Lord." <span id="fr_54"></span>[1](#fn_54.md) (*Forty
 Questions*, iv. 2.)
 
  
@@ -460,7 +460,7 @@ he was a lord of the earth, and it was his destiny to unfold the
 wonders of the earth. If it had not been for that purpose, God might
 have endowed him with an angelic body; but in that case the
 substantiated being with its wonderful qualities would not have been
-unfolded." <span id="fr_55"></span>[1](#fn_55) (*Menschwerdung*, ii.
+unfolded." <span id="fr_55"></span>[1](#fn_55.md) (*Menschwerdung*, ii.
 12.)
 
  
@@ -468,7 +468,7 @@ unfolded." <span id="fr_55"></span>[1](#fn_55) (*Menschwerdung*, ii.
 But while in Adam all the three principles were originally in unity and
 harmony, there was attracting him outwardly in a powerful manner, not
 only the heart of God, but also the devil and the kingdom of the
-terrestrial world. <span id="fr_56"></span>[2](#fn_56)
+terrestrial world. <span id="fr_56"></span>[2](#fn_56.md)
 
 "Man stood in three principles, and they were in equal concordance in
 him, but not outside of him; for the dark world had a desire different
@@ -494,7 +494,7 @@ image; he lives in me and I in
 him; he must be obedient to me, for I have all nay members (organs) in
 him and he has his members in me, and I am greater than he. He shall be
 my steward, and manifest my power and wonders.'" <span
-id="fr_57"></span>[1](#fn_57) (*Three Principles*, xi. 33.)
+id="fr_57"></span>[1](#fn_57) (*Three Principles*, xi. 33..md)
 
  
 
@@ -508,7 +508,7 @@ into the unity of God. This the devil begrudged to them, and he deluded
 the seven qualities of life by awakening within them a perverted desire,
 persuading them that it were good, and that they would become wise, if
 the qualities, each according to its own kind, would enter into their
-own accord, <span id="fr_58"></span>[2](#fn_58) and that in this way the
+own accord, <span id="fr_58"></span>[2](#fn_58.md) and that in this way the
 spirit would taste and recognise that which was good and evil." (*Tabulæ
 Principiæ*, 68.)
 
@@ -525,13 +525,13 @@ that which is sour; she wanted to taste these and the other
 <span id="page_154">p. 154</span>
 
 qualities all in their separateness, although it had been prohibited to
-Adam by God." <span id="fr_59"></span>[1](#fn_59) (*Grace*, iii. 34.)
+Adam by God." <span id="fr_59"></span>[1](#fn_59) (*Grace*, iii. 34..md)
 
  
 
 Owing to this perverted desire, there grew in him the tree of
 temptation, wherein the terrestrial qualities, as such, became
-manifest. <span id="fr_60"></span>[2](#fn_60)
+manifest. <span id="fr_60"></span>[2](#fn_60.md)
 
 "Adam's spirit was lusting after terrestrial fruit, such as was of the
 nature of the corrupted earth, and therefore nature formed for him a
@@ -565,7 +565,7 @@ calls it the tree of knowledge of good and evil." (*Mysterium*, xvii.
 The forthcoming of the tree of temptation is not to be wondered at,
 because Adam was endowed with great powers, and an earthly form as a
 protection to him against the powers of hell. <span
-id="fr_61"></span>[1](#fn_61)
+id="fr_61"></span>[1](#fn_61.md)
 
 "Reason (man's reasoning) says, 'Why did God permit Adam to draw the
 tree of temptation out of the earth by means of his imagination?' Christ
@@ -588,7 +588,7 @@ and to introduce them into evil desire; and therefore God put before
 them the tree of life, and of the knowledge of good and evil, by means
 of which the breaking up (the death) of the external body was
 inaugurated. He did this lest man should long after the centre of the
-dark world." <span id="fr_62"></span>[2](#fn_62) (*Mysterium*, xvii.
+dark world." <span id="fr_62"></span>[2](#fn_62.md) (*Mysterium*, xvii.
 38.)
 
 <span id="page_156">p. 156</span>
@@ -607,7 +607,7 @@ the glory of God." (*Three Principles*, xii. 17.)
 "The image of God does not sleep. In it there is no time. With sleep,
 time became manifest in man. He fell asleep in the angelic world, and
 awoke relatively to the external world." <span
-id="fr_63"></span>[1](#fn_63) (*Mysterium*, xix. 4.)
+id="fr_63"></span>[1](#fn_63) (*Mysterium*, xix. 4..md)
 
 "After Adam had been overcome, the *tincture*, wherein the beautiful
 virgin had previously dwelt, became terrestrial, faint, and feeble. The
@@ -626,21 +626,21 @@ strong power became rigid bones. Then the celestial virgin went into the
 <span id="page_157">p. 157</span>
 
 celestial ether, into the principle of power." <span
-id="fr_64"></span>[1](#fn_64) (*Three Principles*, xiii. 2.)
+id="fr_64"></span>[1](#fn_64) (*Three Principles*, xiii. 2..md)
 
  
 
 This impotency was to be a means of salvation for Adam, and moreover
 there was given to him the terrestrial woman in the place of the
 celestial virgin, who had passed away from him. <span
-id="fr_65"></span>[2](#fn_65) This was done to save him from arriving at
+id="fr_65"></span>[2](#fn_65.md) This was done to save him from arriving at
 a still greater depth of degradation. <span
-id="fr_66"></span>[3](#fn_66)
+id="fr_66"></span>[3](#fn_66.md)
 
 "When Adam left God and entered into selfishness, God permitted it to
 happen that a deep sleep fell upon Adam. If it had not been for that
 circumstance, he would in his selfishness even have become a devil by
-the power of the fire." <span id="fr_67"></span>[4](#fn_67) (*Stiefel*,
+the power of the fire." <span id="fr_67"></span>[4](#fn_67.md) (*Stiefel*,
 ii. 363.)
 
 "When the devil saw that lust resided in Adam, he acted still more
@@ -662,7 +662,7 @@ substance, she was formed out
 <span id="page_158">p. 158</span>
 
 of a "rib," which at that time had not yet degenerated into stiff
-bone. <span id="fr_68"></span>[1](#fn_68)
+bone. <span id="fr_68"></span>[1](#fn_68.md)
 
 "Eve has been extracted from Adam, not as a mere spirit, but entirely
 substantial. It should be said that Adam received a cleft, and that the
@@ -673,7 +673,7 @@ xiii. 14.)
 very inferior to man.' This is, however, not so, but the *Fiat*, in its
 aspect as sharp attraction (the first quality), took her from all
 essences and qualities of each power of Adam." <span
-id="fr_69"></span>[2](#fn_69) (*Three Principles*, xiii. 18.)
+id="fr_69"></span>[2](#fn_69) (*Three Principles*, xiii. 18..md)
 
 "Adam's body had not yet received hard bones and osseous substance. This
 took place only when Eve tasted the apple and gave to Adam to eat
@@ -681,7 +681,7 @@ thereof." "It is true that the infection and the terrestrial death were
 already in him as a tendency and deadly disease, but the 'bones' and
 'ribs' were nevertheless still power and strength, and thus Eve was
 created out of that power or strength which (later on) was to become
-*rib*." <span id="fr_70"></span>[3](#fn_70) (*Three Principles*, xiii.
+*rib*." <span id="fr_70"></span>[3](#fn_70.md) (*Three Principles*, xiii.
 13.)
 
  
@@ -714,7 +714,7 @@ and bone of my bone. She will be called *woman*, because she has been
 taken from man.' Eve likewise began to put her imagination into Adam,
 and each one ignited the desire of the other. Where, then, is the pure
 chastity and virginity? Is this not animal? Has not the external image
-become an animal?" <span id="fr_71"></span>[1](#fn_71) (*Forty
+become an animal?" <span id="fr_71"></span>[1](#fn_71.md) (*Forty
 Questions*, xxxvi. 6.)
 
  
@@ -757,7 +757,7 @@ For the purpose of seducing mankind, the devil availed himself
 especially of the services of the serpent, which, being a living symbol
 of the tree of temptation, caused them to imagine that, by eating the
 forbidden fruit, they would become godlike. <span
-id="fr_72"></span>[1](#fn_72)
+id="fr_72"></span>[1](#fn_72.md)
 
 "The devil introduced his poisonous imagination into
 
@@ -769,7 +769,7 @@ left the harmony of unity and went into the multiplicity of the
 qualities. The devil, by means of the serpent, represented to him that
 he would become like God, and that his eyes would open; which then
 actually took place in the fall, so that they could now recognise,
-taste, see, and feel evil and good." <span id="fr_73"></span>[1](#fn_73)
+taste, see, and feel evil and good." <span id="fr_73"></span>[1](#fn_73.md)
 (*Mysterium*, xvii. 37.)
 
 "The devil mixed lies and truth together, and said to the first human
@@ -787,12 +787,12 @@ god." (*Mysterium*, xx. 16.)
 that the latter, in consequence of the division of its powers that
 formerly were in paradisiacal unity, formed itself into a serpent. Thus
 he used the snake as his instrument." <span
-id="fr_74"></span>[2](#fn_74) (*Letters*, xxxix. 21.)
+id="fr_74"></span>[2](#fn_74) (*Letters*, xxxix. 21..md)
 
 "The snake was a living symbol of the tree of temptation. The tree of
 temptation was in mute power, and the serpent was in a living power, and
 the serpent attached itself to that tree, being of its own
-nature." <span id="fr_75"></span>[3](#fn_75) (*Mysterium*, xx. 20.)
+nature." <span id="fr_75"></span>[3](#fn_75) (*Mysterium*, xx. 20..md)
 
  
 
@@ -802,7 +802,7 @@ After Adam had introduced his perverted desire into
 
 <span class="contnote">\[paragraph continues\]</span> Eve, the latter
 was the first to be seduced to fall away from God. <span
-id="fr_76"></span>[1](#fn_76)
+id="fr_76"></span>[1](#fn_76.md)
 
 "The lust originated in Adam, but thereupon this perverted desire began
 to be excited in the woman." (*Stiefel*, ii. 375.)
@@ -825,7 +825,7 @@ She thought it would be a good thing to be a goddess, and she consented;
 and in consenting she fell from the divine harmony, from the peace in
 God, and from divine faith, and entered with her desire into the serpent
 and into the cunning, the desire, and vanity of the devil." <span
-id="fr_77"></span>[2](#fn_77) (*Mysterium*, xx. 25.)
+id="fr_77"></span>[2](#fn_77) (*Mysterium*, xx. 25..md)
 
  
 
@@ -846,7 +846,7 @@ the vanity of the earth." (*Mysterium*, xviii. 31.)
 "In the external part of the soul originated the terrestrial lust to eat
 of the manifold qualities; but in the interior fiery part of it
 originated lust for pride, to know evil and good, and to be like
-God." <span id="fr_78"></span>[1](#fn_78) (*Mysterium*, xviii. 30.)
+God." <span id="fr_78"></span>[1](#fn_78) (*Mysterium*, xviii. 30..md)
 
 Thus the first act of the great drama ended, and a god became a man. In
 the second act He rises again upward toward His former divine state, no
@@ -857,64 +857,64 @@ and wise, a conqueror over "matter," and a true Lord over all.
 
 ### Footnotes
 
-<span id="fn_39"></span>[142:1](ldjb10.htm#fr_39) The term "Paradise"
+<span id="fn_39"></span>[142:1](ldjb10.htm#fr_39.md) The term "Paradise"
 means a state of purity and innocence and happiness, but not necessarily
 knowledge. Man had to learn to know evil so as to be able to realise
 good.
 
-<span id="fn_40"></span>[142:2](ldjb10.htm#fr_40) His thoughts and will
+<span id="fn_40"></span>[142:2](ldjb10.htm#fr_40.md) His thoughts and will
 were pure, and therefore his spirit (the union of will and thought)
 manifested itself in producing a pure and luminous form, not burdened
 with the gross material elements which form at present the bodies of
 human beings. Then, as now, his body was the product of his own
 thoughts.
 
-<span id="fn_41"></span>[143:1](ldjb10.htm#fr_41) Logical proof is only
+<span id="fn_41"></span>[143:1](ldjb10.htm#fr_41.md) Logical proof is only
 useful as long as we are blind in regard to the nature of a thing After
 that thing has become a part of ourselves and we perceive it, no more
 proof of its existence will be required.
 
-<span id="fn_42"></span>[144:1](ldjb10.htm#fr_42) Adam was in harmony
+<span id="fn_42"></span>[144:1](ldjb10.htm#fr_42.md) Adam was in harmony
 with creation and as one with all nature. Therefore he could experience
 the feelings of all beings in nature within himself, and express them
 accordingly.
 
-<span id="fn_43"></span>[144:2](ldjb10.htm#fr_43) Even now man is still
+<span id="fn_43"></span>[144:2](ldjb10.htm#fr_43.md) Even now man is still
 there where his consciousness exists; but as his physical body is too
 gross to follow the movements of his thoughts, the body becomes
 unconscious whenever his consciousness concentrates itself at another
 place.
 
-<span id="fn_44"></span>[145:1](ldjb10.htm#fr_44) This was the divine
+<span id="fn_44"></span>[145:1](ldjb10.htm#fr_44.md) This was the divine
 Man, out of whom the world was created, while the natural man is a
 product of the world.
 
-<span id="fn_45"></span>[145:2](ldjb10.htm#fr_45) Because everything was
+<span id="fn_45"></span>[145:2](ldjb10.htm#fr_45.md) Because everything was
 within his own will, within himself.
 
-<span id="fn_46"></span>[145:3](ldjb10.htm#fr_46) This celestial Adam
+<span id="fn_46"></span>[145:3](ldjb10.htm#fr_46.md) This celestial Adam
 has not died, but still exists in all of us; but on account of our state
 of degeneration, caused by the attraction of the lower principles, we
 have forgotten our own divine nature.
 
-<span id="fn_47"></span>[146:1](ldjb10.htm#fr_47) It was Adam's own
+<span id="fn_47"></span>[146:1](ldjb10.htm#fr_47.md) It was Adam's own
 state of feeling and thinking that created an Eden for him, and thus
 each human being creates his or her own Paradise.
 
-<span id="fn_48"></span>[147:1](ldjb10.htm#fr_48) This Paradise
+<span id="fn_48"></span>[147:1](ldjb10.htm#fr_48.md) This Paradise
 (*Deva-loca* or *Devachan*) is described in Eastern books as an
 "illusion;" but it is no more an illusion to its inhabitants than the
 dream called "terrestrial existence" is an illusion to us. On the
 contrary, it is far more permanent and beautiful than this terrestrial
 world.
 
-<span id="fn_49"></span>[147:2](ldjb10.htm#fr_49) He could not enjoy
+<span id="fn_49"></span>[147:2](ldjb10.htm#fr_49.md) He could not enjoy
 similarity with God, because he did not possess divine self-knowledge.
 To attain this knowledge of self he had to eat from the tree of the
 self-knowledge of good and evil, and then return to his original divine
 state.
 
-<span id="fn_50"></span>[148:1](ldjb10.htm#fr_50) This the soul can
+<span id="fn_50"></span>[148:1](ldjb10.htm#fr_50.md) This the soul can
 surely not do by seeking for the Son or the Heart of God in anything
 outside of her own sphere, and with which she is in no way related.
 Therefore the meaning of the words, "Thou shalt worship only one God,"
@@ -922,16 +922,16 @@ is "Thou shalt have faith in no other God except the one who is seeking
 to reveal Himself within your own conscience, and not worship any
 strange idols, such as exist in the imagination of men."
 
-<span id="fn_51"></span>[149:1](ldjb10.htm#fr_51) God being a unity, has
+<span id="fn_51"></span>[149:1](ldjb10.htm#fr_51.md) God being a unity, has
 no other will or object in view than to give birth to His Son, *i.e.*,
 to manifest His outspoken Word as wisdom in man.
 
-<span id="fn_52"></span>[150:1](ldjb10.htm#fr_52) The spiritual will of
+<span id="fn_52"></span>[150:1](ldjb10.htm#fr_52.md) The spiritual will of
 man is free; not so the will of semi-animal man, for freedom depends on
 the extent of knowledge. When man's knowledge becomes divine, then will
 his will be free—wholly free.
 
-<span id="fn_53"></span>[150:2](ldjb10.htm#fr_53) Man requires the
+<span id="fn_53"></span>[150:2](ldjb10.htm#fr_53.md) Man requires the
 material (animal) element in him to endow him with strength to rise
 above it by the power of God. Man may be regarded as a god crucified
 within an animal. The god furnishes him with wisdom, the animal with
@@ -939,22 +939,22 @@ strength. We are to overcome the animal in us by the power of divine
 wisdom. He who has nothing to overcome can gain no victory. We cannot
 rise above a thing as long as we have not attained its highest level.
 
-<span id="fn_54"></span>[151:1](ldjb10.htm#fr_54) It would be foolish to
+<span id="fn_54"></span>[151:1](ldjb10.htm#fr_54.md) It would be foolish to
 worry about what Adam ought or ought not to have done. The meaning is,
 that we who have "Adam" in us should enter now with our will into the
 will of God.
 
-<span id="fn_55"></span>[152:1](ldjb10.htm#fr_55) If primordial man had
+<span id="fn_55"></span>[152:1](ldjb10.htm#fr_55.md) If primordial man had
 never fallen from his purely spiritual state and "refused to create," he
 would never have learned to know the wonders of creation, the unfoldment
 of the third principle. The external world, as we know it, was created
 by Adam's fall.
 
-<span id="fn_56"></span>[152:2](ldjb10.htm#fr_56) The "devil" means
+<span id="fn_56"></span>[152:2](ldjb10.htm#fr_56.md) The "devil" means
 spiritual will perverted. If it is perverted in a personal being, then
 will there be a personal devil.
 
-<span id="fn_57"></span>[153:1](ldjb10.htm#fr_57) God (Christ), nature,
+<span id="fn_57"></span>[153:1](ldjb10.htm#fr_57) God (Christ.md), nature,
 and the devil (Antichrist—*i.e.*, Christ perverted) are seeking to
 attain self-consciousness in man. Man's consciousness is, therefore,
 continually changing, and in reality not his own. Only when the
@@ -962,11 +962,11 @@ principle of either good or evil has become self-conscious in man, and
 he has become identified with it, will he know his true impersonal self.
 Only then will he be a free and responsible agent.
 
-<span id="fn_58"></span>[153:2](ldjb10.htm#fr_58) It was his desire that
+<span id="fn_58"></span>[153:2](ldjb10.htm#fr_58.md) It was his desire that
 the lower qualities should become conscious in himself, each according
 to its own nature.
 
-<span id="fn_59"></span>[154:1](ldjb10.htm#fr_59) This is the difference
+<span id="fn_59"></span>[154:1](ldjb10.htm#fr_59.md) This is the difference
 between life in the terrestrial and life in the celestial states of
 nature, that the former is differentiated into forms, each of which
 loves to live in the consciousness of its own illusive self—*i.e.*, in a
@@ -977,13 +977,13 @@ of the other. while all strive towards unity and rest in it, like a
 tree, whose many branches and leaves receive their life all from one
 common trunk.
 
-<span id="fn_60"></span>[154:2](ldjb10.htm#fr_60) This "tree of
+<span id="fn_60"></span>[154:2](ldjb10.htm#fr_60.md) This "tree of
 temptation" is still growing in every human being, as is represented in
 the allegorical "Adam." The lower qualities in man still strive for
 outward manifestation, and can be overcome in no other way than by his
 rising above them into the higher ones.
 
-<span id="fn_61"></span>[155:1](ldjb10.htm#fr_61) It is self-evident
+<span id="fn_61"></span>[155:1](ldjb10.htm#fr_61.md) It is self-evident
 that man can attain knowledge of a thing only by giving attention to it.
 In doing so, he directs his consciousness to it. Man's consciousness
 became centred within the lower principles constituting the sensual
@@ -992,22 +992,22 @@ Supreme. If it had not been for this attraction which the material world
 exercised upon man, he might have sunk still lower, and approached
 absolute evil, the kingdom of Lucifer.
 
-<span id="fn_62"></span>[155:2](ldjb10.htm#fr_62) "Adam would have
+<span id="fn_62"></span>[155:2](ldjb10.htm#fr_62.md) "Adam would have
 fallen into the unfathomable abyss of hell, if, <span id="page_156">p.
 156</span> besides the celestial state, which in consequence of his sin
 became perverted into a hellish one, there had not been still another,
 namely, the terrestrial region " (*Hamberger*).
 
-<span id="fn_63"></span>[156:1](ldjb10.htm#fr_63) God (divine
+<span id="fn_63"></span>[156:1](ldjb10.htm#fr_63.md) God (divine
 self-consciousness) never sleeps; it is only nature in man that causes
 him to sleep and wake alternatively. No man is fully awake and
 self-conscious as long as he has not found his own god.
 
-<span id="fn_64"></span>[157:1](ldjb10.htm#fr_64) The "history of Adam"
+<span id="fn_64"></span>[157:1](ldjb10.htm#fr_64.md) The "history of Adam"
 is nothing else but the history of mankind as a whole. Its truth may be
 recognised by every one capable of self-examination.
 
-<span id="fn_65"></span>[157:2](ldjb10.htm#fr_65) Adam having lost the
+<span id="fn_65"></span>[157:2](ldjb10.htm#fr_65.md) Adam having lost the
 power to recognise the true woman, the eternal virgin within himself, it
 was necessary that he should have an external objective substitute to
 whom he might be attracted, so as to stimulate his power to love; which
@@ -1015,15 +1015,15 @@ would have entirely died out without such an object, or would have
 degraded him still lower by turning into desire for still lower beings
 in the scale of evolution.
 
-<span id="fn_66"></span>[157:3](ldjb10.htm#fr_66) From such a
+<span id="fn_66"></span>[157:3](ldjb10.htm#fr_66.md) From such a
 degradation may have resulted the tribe of the monkeys descended from
 aboriginal man. (See *Secret Doctrine*, by H. P. Blavatsky.)
 
-<span id="fn_67"></span>[157:4](ldjb10.htm#fr_67) The "*Sal-nitre*"
+<span id="fn_67"></span>[157:4](ldjb10.htm#fr_67.md) The "*Sal-nitre*"
 means the fiery material element in man, wherein reside his sensual
 attractions; in other words, his *Kama-rupa*.
 
-<span id="fn_68"></span>[158:1](ldjb10.htm#fr_68) The woman is made out
+<span id="fn_68"></span>[158:1](ldjb10.htm#fr_68.md) The woman is made out
 of the more refined and spiritual essences of man; for this reason woman
 even to-day is more refined and intuitional than man; while the
 organisation of the body and also the mind of the male is on the whole
@@ -1034,18 +1034,18 @@ could any woman be visible and tangible and man's associate if she had
 none of the male and grossly material elements of Adam in her
 organisation.
 
-<span id="fn_69"></span>[158:2](ldjb10.htm#fr_69) It was a part of the
+<span id="fn_69"></span>[158:2](ldjb10.htm#fr_69.md) It was a part of the
 higher and more celestial elements which left "Adam" at the time of the
 creation of "Eve."
 
-<span id="fn_70"></span>[158:3](ldjb10.htm#fr_70) It may be well to
+<span id="fn_70"></span>[158:3](ldjb10.htm#fr_70.md) It may be well to
 remember that at the time of Jacob Boehme it was considered a crime to
 disbelieve even in the literal and external interpretation of the Bible
 allegories, and that his explanations would have been incomprehensible
 and unacceptable if his expressions had not been such as to correspond
 with those of the Bible.
 
-<span id="fn_71"></span>[159:1](ldjb10.htm#fr_71) Woman in all
+<span id="fn_71"></span>[159:1](ldjb10.htm#fr_71.md) Woman in all
 departments of life is a saviour of man. Even the most degraded woman
 may be a saviour for still more degraded man, by keeping alive in him a
 feeling for an ideal—a low ideal, it is true, but one that keeps him
@@ -1053,23 +1053,23 @@ from sinking into still lower depths, and which may become more refined.
 The mission of woman to save man ceases only when man has found the
 celestial virgin within himself.
 
-<span id="fn_72"></span>[160:1](ldjb10.htm#fr_72) The "serpent" is the
+<span id="fn_72"></span>[160:1](ldjb10.htm#fr_72.md) The "serpent" is the
 *astral light*, in whose folds and temptations the will of man is
 entangled.
 
-<span id="fn_73"></span>[161:1](ldjb10.htm#fr_73) Evil desires always
+<span id="fn_73"></span>[161:1](ldjb10.htm#fr_73.md) Evil desires always
 enter the heart of man silently and worm-like, until the soul becomes
 entangled therein as in the folds of a serpent.
 
-<span id="fn_74"></span>[161:2](ldjb10.htm#fr_74) The serpent is not
+<span id="fn_74"></span>[161:2](ldjb10.htm#fr_74.md) The serpent is not
 himself the devil, but the devil is the evil will that causes the
 serpent to move.
 
-<span id="fn_75"></span>[161:3](ldjb10.htm#fr_75) There is no mortal man
+<span id="fn_75"></span>[161:3](ldjb10.htm#fr_75.md) There is no mortal man
 to whose tree of life the serpent of desire is not attached during his
 terrestrial existence.
 
-<span id="fn_76"></span>[162:1](ldjb10.htm#fr_76) If woman represents
+<span id="fn_76"></span>[162:1](ldjb10.htm#fr_76.md) If woman represents
 the will and man the intellectual power of mankind as a whole, it
 naturally follows that the will was seduced by the desire before the
 intellect followed in its track. If the intellect had become seduced
@@ -1077,12 +1077,12 @@ first, it would have become separated from the "woman," and man would
 have become a clever fool, an intellectual maniac, an unspiritual but
 cunning scientist, without any soul or faith—a "materialist."
 
-<span id="fn_77"></span>[162:2](ldjb10.htm#fr_77) Actual "sin" begins
+<span id="fn_77"></span>[162:2](ldjb10.htm#fr_77.md) Actual "sin" begins
 only where there is a knowledge of evil. A mere evil desire does not
 constitute "sin" as long as the desire has not the consent of the
 intellect.
 
-<span id="fn_78"></span>[163:1](ldjb10.htm#fr_78) The more man seeks for
+<span id="fn_78"></span>[163:1](ldjb10.htm#fr_78.md) The more man seeks for
 the object of his existence in external and sensual things, the more
 will he depart from his spiritual faith or point of gravitation from his
 own divine centre or God. He becomes experienced in external and
@@ -1099,6 +1099,6 @@ Christ, Lucifer will be revealed in him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Nature, or the Third Principle](ldjb11)
+[Next: Chapter VIII. Nature, or the Third Principle](ldjb11.md)
 
 </div>

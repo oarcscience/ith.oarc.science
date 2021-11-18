@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft32)  [Next](meft34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft32)  [Next](meft34.md) 
 
 ------------------------------------------------------------------------
 
 # Tamlane
 
 <span id="img_049"></span> [![](tn/049.jpg)  
-Click to enlarge](img/049.jpg)
+Click to enlarge](img/049.jpg.md)
 
 YOUNG TAMLANE was son of Earl Murray, and Burd Janet was daughter of
 Dunbar, Earl of March. And when they were young they loved one another
@@ -61,7 +61,7 @@ me.'
 'But how to save you, Tamlane?' quoth Burd Janet.
 
 <span id="img_048"></span> [![](tn/048.jpg)  
-Click to enlarge](img/048.jpg)
+Click to enlarge](img/048.jpg.md)
 
 'You must spring upon me suddenly, and I will fall to the ground. Then
 seize me quick, and whatever change befall me, for they will exercise
@@ -125,4 +125,4 @@ had again been sained by the holy water and made Christian once more.
 
 ------------------------------------------------------------------------
 
-[Next: The Stars in the Sky](meft34)
+[Next: The Stars in the Sky](meft34.md)

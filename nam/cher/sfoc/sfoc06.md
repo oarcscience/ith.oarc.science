@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc05)  [Next](sfoc07) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc05)  [Next](sfoc07.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ pronouncing our word fox. In the same way "bet" becomes *wëtï*, and
 
 ------------------------------------------------------------------------
 
-[Next: The Inâli Manuscript](sfoc07)
+[Next: The Inâli Manuscript](sfoc07.md)

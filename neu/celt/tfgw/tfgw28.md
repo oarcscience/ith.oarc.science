@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw27)  [Next](tfgw29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw27)  [Next](tfgw29.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ The Four-Leafed Shamrock
 
 ------------------------------------------------------------------------
 
-[Next: note](tfgw29)
+[Next: note](tfgw29.md)

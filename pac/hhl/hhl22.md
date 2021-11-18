@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl21)  [Next](hhl23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl21)  [Next](hhl23.md) 
 
 ------------------------------------------------------------------------
 
@@ -177,4 +177,4 @@ of her forefathers.
 
 ------------------------------------------------------------------------
 
-[Next: XIX. First Hawaiian Printing](hhl23)
+[Next: XIX. First Hawaiian Printing](hhl23.md)

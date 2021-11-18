@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](osgp02)  [Next](osgp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](osgp02)  [Next](osgp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029U2WGY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Origin and Significance of the Great Pyramid*, by C. Staniland
 Wake, \[1882\], at Intangible Textual Heritage
 
@@ -59,7 +59,7 @@ scientific facts supposed to be embodied in it, several modern writers
 have affirmed that the design for the Great Pyramid must have been
 derived from an inspired source. The originator of this theory was John
 Taylor who in 1859, published a book on the subject <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 <span id="page_3">p. 3</span>
 
@@ -81,7 +81,7 @@ astronomical fact, seeing that "the vertical height of the Great Pyramid
 multiplied by 10 to the 9th power (10<sup>9</sup>) tells the mean
 distance of the sun from the earth—that is, one thousand million times
 the pyramid's height, or 91,840,000 miles." <span
-id="fr_1"></span>[\*](#fn_1) Moreover,
+id="fr_1"></span>[\*](#fn_1.md) Moreover,
 
 <span id="page_4">p. 4</span>
 
@@ -139,7 +139,7 @@ the centre of the group, were on the same meridian above. This relative
 position of Alpha Draconis and Alcyone being an extraordinary one, as it
 could not occur again for a whole siderial year, it is thought to mark
 the date of the building of the Great Pyramid. <span
-id="fr_2"></span>[\*](#fn_2) It should be mentioned, however, that the
+id="fr_2"></span>[\*](#fn_2.md) It should be mentioned, however, that the
 date named is not the only possible one. Mr. Richard A. Proctor the
 astronomer, after stating that the Pole-star was in the required
 position about 3,350 B.C., as well as in 2,170 B.C., says "either of
@@ -153,7 +153,7 @@ the slant passage as intended to bear on the Pole-star at its sub-polar
 passage, we get the date of the pyramid assigned as about 3,350 years
 B.C., with a probable limit of error of not more than 200 years either
 way, and perhaps of only fifty years." <span
-id="fr_3"></span>[\*](#fn_3)
+id="fr_3"></span>[\*](#fn_3.md)
 
 The testimony of Mr. Proctor is important as he has recently performed
 very valuable work in pointing out the true astronomical meaning of the
@@ -173,9 +173,9 @@ gives an entirely different explanation of them. He declares, indeed,
 "that they are mere coincidences, and that they would still remain if
 the pyramid had no existence." The fact that they exist, and are in
 themselves so singular, shows simply how little value there is in the
-argument from mere coincidence. <span id="fr_4"></span>[\*](#fn_4) In
+argument from mere coincidence. <span id="fr_4"></span>[\*](#fn_4.md) In
 support of this opinion, Mr. Proctor refers to "the
-[multitude](errata.htm#0) of relations, independent of the pyramid,
+[multitude](errata.htm#0.md) of relations, independent of the pyramid,
 which have turned up while Pyramidalists have been endeavouring to
 connect the pyramid with the solar system." "These coincidences," he
 says, "are altogether more curious than any coincidence between the
@@ -183,7 +183,7 @@ Pyramid and astronomical numbers: the former are as close and remarkable
 as they are real; the latter, which are only imaginary, have only been
 established by the process which schoolboys call 'fudging,' and now new
 measures have left the work to be done all over again." <span
-id="fr_5"></span>[†](#fn_5) The new measures here referred to show that
+id="fr_5"></span>[†](#fn_5.md) The new measures here referred to show that
 the base of the pyramid is
 
 <span id="page_9">p. 9</span>
@@ -318,7 +318,7 @@ platform";
 <span id="page_15">p. 15</span>
 
 and, apart from the reasons assigned by him for the differences in
-size <span id="fr_6"></span>[\*](#fn_6) between the Pyramids of Cheops,
+size <span id="fr_6"></span>[\*](#fn_6.md) between the Pyramids of Cheops,
 and those of Cephren, his brother, and Mycerinus and Asychis, his son
 and grandson, Mr. Proctor has conclusively established the astrological
 purpose of the Great Pyramid. Elsewhere, he says, "remembering the
@@ -364,12 +364,12 @@ must have been in view through that tunnel for more than an hour at a
 time. But, apart from the mystical significance which an astrologer
 would attribute to such a relation, it may be shown that this slant
 tunnel is precisely what the astrologer would require in order to get
-the horoscope correctly." <span id="fr_7"></span>[\*](#fn_7) Mr. Proctor
+the horoscope correctly." <span id="fr_7"></span>[\*](#fn_7.md) Mr. Proctor
 supports his view as to the astrological object of the pyramid by
 reference to the fact that in the account given by Ebn Abd Al Hôkm of
 the contents of the Pyramids of Ghizeh, those assigned to the East or
 Great Pyramid "relate entirely to astrology and associated
-mysteries." <span id="fr_8"></span>[†](#fn_8) The Arab writer, or rather
+mysteries." <span id="fr_8"></span>[†](#fn_8.md) The Arab writer, or rather
 the earlier historian, Masoudi, whose account he repeats, says, "in the
 eastern pyramid were inscribed the heavenly spheres, and figures
 representing the stars and planets in the forms in which they were
@@ -380,7 +380,7 @@ with which his forefathers had sacrificed to the stars,
 
 and their circles; together with the history and chronicles of time
 past, of that which is to come, and of every future event which would
-take place in Egypt." <span id="fr_9"></span>[\*](#fn_9)
+take place in Egypt." <span id="fr_9"></span>[\*](#fn_9.md)
 
 The connection of astrology with the Great Pyramid is thus confirmed by
 ancient testimony, but this does not support the notion that the chief
@@ -388,7 +388,7 @@ object of its erection was astrological. An early Arab writer, Jafer Ben
 Mohammed Balkhi, who was himself an astrologer, says that the pyramids
 were built for refuge against an approaching destruction of every
 created being, by submersion or by fire, which was foreseen by wise men
-previous to the flood. <span id="fr_10"></span>[†](#fn_10) The founder
+previous to the flood. <span id="fr_10"></span>[†](#fn_10.md) The founder
 of the Great Pyramid had undoubtedly a more permanent object in its
 erection than its use as a horoscope for the benefit of himself and his
 family. Mr. Proctor speaks of the religious observances associated with
@@ -399,7 +399,7 @@ in character, and in all probability the priests who made them
 <span id="page_19">p. 19</span>
 
 of the heavenly host," of which astrology vas the natural offspring.
-Religion has here [a](errata.htm#1) secondary character, however, and it
+Religion has here [a](errata.htm#1.md) secondary character, however, and it
 is quite subsidiary to the astrological purpose with which the pyramid
 is supposed to have been erected. The reverse of this would be nearer
 the truth, and it will be hereafter shown that whatever may have been
@@ -409,48 +409,48 @@ its temporary purpose, its primary object was religious.
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:\*](osgp03.htm#fr_0) "The Great Pyramid: Why
+<span id="fn_0"></span>[2:\*](osgp03.htm#fr_0.md) "The Great Pyramid: Why
 was it built? and who built it?"
 
-<span id="fn_1"></span>[3:\*](osgp03.htm#fr_1) Mr. Proctor regards this
+<span id="fn_1"></span>[3:\*](osgp03.htm#fr_1.md) Mr. Proctor regards this
 fact as a mere coincidence, although he deems it probable that the
 smaller unit of measurement used <span id="page_4">p. 4</span> by the
 Great Pyramid builders was intended to have a relation to the earth's
 diameter, as stated in the text.—"Myths and Marvels of Astronomy" (Ed.
 188o), pp. 66, 73.
 
-<span id="fn_2"></span>[6:\*](osgp03.htm#fr_2) I have taken the opinions
+<span id="fn_2"></span>[6:\*](osgp03.htm#fr_2.md) I have taken the opinions
 of the Pyramidalists from the 9th edition of an ingenious work by Dr.
 Seiss, of Philadelphia, entitled "A Miracle in Stone."
 
-<span id="fn_3"></span>[7:\*](osgp03.htm#fr_3) *Knowledge* Vol. i. pp.
+<span id="fn_3"></span>[7:\*](osgp03.htm#fr_3.md) *Knowledge* Vol. i. pp.
 242-400 This agrees very well with one of the dates given by Diodorus,
 but 2,170 B.C. is a preferable date on grounds which will be referred to
 *infra*.
 
-<span id="fn_4"></span>[8:\*](osgp03.htm#fr_4) They must, however, have
+<span id="fn_4"></span>[8:\*](osgp03.htm#fr_4.md) They must, however, have
 been more than mere coincidences if the builders of the pyramid had the
 astronomical knowledge displayed in its perfect orientation and in its
 other admitted astronomical features. See *infra*.
 
-<span id="fn_5"></span>[8:†](osgp03.htm#fr_5) See Mr. Petrie's letter to
+<span id="fn_5"></span>[8:†](osgp03.htm#fr_5.md) See Mr. Petrie's letter to
 *The Academy*, Dec. 17, 1881. Mr. Proctor's views are taken from
 *Knowledge*, Vol. i. unless otherwise stated.
 
-<span id="fn_6"></span>[15:\*](osgp03.htm#fr_6) The size of each Pyramid
+<span id="fn_6"></span>[15:\*](osgp03.htm#fr_6.md) The size of each Pyramid
 is usually supposed to denote the length of the reign of the Monarch by
 whom it was constructed.
 
-<span id="fn_7"></span>[17:\*](osgp03.htm#fr_7) "Myths and Marvels of
+<span id="fn_7"></span>[17:\*](osgp03.htm#fr_7.md) "Myths and Marvels of
 Astronomy" (Ed. 1880), p. 101.
 
-<span id="fn_8"></span>[17:†](osgp03.htm#fr_8) Ditto, p. 103.
+<span id="fn_8"></span>[17:†](osgp03.htm#fr_8.md) Ditto, p. 103.
 
-<span id="fn_9"></span>[18:\*](osgp03.htm#fr_9) See Appendix II.
+<span id="fn_9"></span>[18:\*](osgp03.htm#fr_9.md) See Appendix II.
 
-<span id="fn_10"></span>[18:†](osgp03.htm#fr_10) Vyse, "Operations at
+<span id="fn_10"></span>[18:†](osgp03.htm#fr_10.md) Vyse, "Operations at
 the Pyramids of Gizeh," Vol. p. 319.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Early Egyptian Civilization](osgp04)
+[Next: Chapter II. Early Egyptian Civilization](osgp04.md)

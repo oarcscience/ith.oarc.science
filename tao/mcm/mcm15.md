@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm14)  [Next](mcm16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm14)  [Next](mcm16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -88,8 +88,8 @@ When the pond dries up, and the fishes are left
 upon dry ground, to moisten them with the breath, or to damp them with
 spittle, is not to be compared with leaving them, in the first instance,
 in their native rivers and lakes. And better than praising Yao <span
-id="fr_24"></span>[1](#fn_24) and blaming Chieh <span
-id="fr_25"></span>[2](#fn_25) would be leaving them both and attending
+id="fr_24"></span>[1](#fn_24.md) and blaming Chieh <span
+id="fr_25"></span>[2](#fn_25.md) would be leaving them both and attending
 to the development of Tao.
 
 .        .        .        .        .
@@ -187,7 +187,7 @@ conspicuous. Rulers were mere beacons, while the people were free as the
 wild deer. They were upright without being conscious of duty to their
 neighbours. They loved one another without being conscious of charity.
 They were true without being conscious of loyalty. They were honest
-without being [conscious](errata.htm#1) of good faith. They acted freely
+without being [conscious](errata.htm#1.md) of good faith. They acted freely
 in all things without recognising obligations to any one. Thus their
 deeds left no trace; their affairs were not handed down to posterity.
 
@@ -257,7 +257,7 @@ of happiness."
 .        .        .        .        .
 
 A man who plays for counters will play well. If he stakes his
-girdle, <span id="fr_26"></span>[1](#fn_26) he will be nervous; if
+girdle, <span id="fr_26"></span>[1](#fn_26.md) he will be nervous; if
 yellow gold, he will lose his wits. His skill is the same in each case,
 but he is distracted by the value of his stake. And every one who
 attaches
@@ -509,16 +509,16 @@ slow, yet advance quickly.
 
 ### Footnotes
 
-<span id="fn_24"></span>[95:1](mcm15.htm#fr_24) A legendary Emperor,
+<span id="fn_24"></span>[95:1](mcm15.htm#fr_24.md) A legendary Emperor,
 whose reign, with that of his successor Shun, may be regarded as the
 Golden Age of China.
 
-<span id="fn_25"></span>[95:2](mcm15.htm#fr_25) The last sovereign of
+<span id="fn_25"></span>[95:2](mcm15.htm#fr_25.md) The last sovereign of
 the Hsia dynasty, and a typical tyrant.
 
-<span id="fn_26"></span>[100:1](mcm15.htm#fr_26) In which he keeps his
+<span id="fn_26"></span>[100:1](mcm15.htm#fr_26.md) In which he keeps his
 loose cash.
 
 ------------------------------------------------------------------------
 
-[Next: Personal Anecdotes](mcm16)
+[Next: Personal Anecdotes](mcm16.md)

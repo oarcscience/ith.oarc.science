@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK V CHAPTER XII
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK V](book04) 
-[Previous](mart099)  [Next](mart101) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK V](book04.md) 
+[Previous](mart099)  [Next](mart101.md) </span>
 
 ------------------------------------------------------------------------
 

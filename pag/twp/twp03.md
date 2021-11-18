@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](twp02)  [Next](twp04) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](twp02)  [Next](twp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ perform any proper *Miracles*; those are things to be done only by the
 produced by them, though chiefly such Wonders as the Apostle calls in 2.
 *Thes.* 2. 9. *Lying wonders*. There are *wonderful Storms* in the
 *great* World, and *wonderful Wounds* in the *little* World, <span
-id="fr_0"></span>[1](#fn_0) often effected by these *evil Causes*. They
+id="fr_0"></span>[1](#fn_0.md) often effected by these *evil Causes*. They
 do things which transcend the ordinary *Course* of Nature, and which
 puzzle the ordinary *Sense* of Mankind. Some *strange* things are done
 by them in a way of *Real Production*. They do really *Torment*, they do
@@ -89,7 +89,7 @@ especially Two Acts concur hereunto. The *First* is, Their *Covenanting*
 with the Witches. There is a most hellish *League* made between them,
 with various *Rites* and *Ceremonies*. The *Witches* promise to serve
 the *Devils*, and the *Devils* promise to *help* the witches; *How?* It
-is not convenient <span id="fr_1"></span>[1](#fn_1) to be related. The
+is not convenient <span id="fr_1"></span>[1](#fn_1.md) to be related. The
 *Second* is, their *Representing* of the Witches. And hereby indeed
 these are drawn into *Snares* and *Cords* of Death. The Devils, when
 they go upon the Errands of the *Witches*, do bear their *Names*; and
@@ -178,7 +178,7 @@ by the punishment of others, to preserve some from being infected by
 others, to diminish the number of evil-doers, to make Secure the life of
 the well-disposed, and to punish the most detestable crimes of which the
 human mind can conceive, it is to punish with the utmost rigor the
-witches . . . . <span id="fr_2"></span>[1](#fn_2) Now, it is not within
+witches . . . . <span id="fr_2"></span>[1](#fn_2.md) Now, it is not within
 the power of princes to pardon a crime which the law of God punishes
 with the penalty of death--such as are the crimes of witches. Moreover,
 princes do gravely insult God in pardoning such horrible crimes
@@ -203,18 +203,18 @@ by the ordinary rules. . . .
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](twp03.htm#fr_0) i. e., in Man--the
+<span id="fn_0"></span>[2:1](twp03.htm#fr_0.md) i. e., in Man--the
 microcosm. The "great world" is the universe.
 
-<span id="fn_1"></span>[3:1](twp03.htm#fr_1) i. e., not seemly: perhaps
+<span id="fn_1"></span>[3:1](twp03.htm#fr_1.md) i. e., not seemly: perhaps
 because the details are too vile, perhaps because the preacher will not
 tempt his hearers.
 
-<span id="fn_2"></span>[5:1](twp03.htm#fr_2) Bodin then proceeds to
+<span id="fn_2"></span>[5:1](twp03.htm#fr_2.md) Bodin then proceeds to
 enumerate fifteen distinct crimes, all horrid, of which every witch is
 guilty, and argues that, in default of proof, violent presumption should
 suffice for the sentence of witches to death.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Beginnings of the Witch-Persecutions.](twp04)
+[Next: II. The Beginnings of the Witch-Persecutions.](twp04.md)

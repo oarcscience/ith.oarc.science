@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb11)  [Next](pifb13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb11)  [Next](pifb13.md) 
 
 </div>
 
@@ -432,6 +432,6 @@ him.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Brothers](pifb13)
+[Next: The Three Brothers](pifb13.md)
 
 </div>

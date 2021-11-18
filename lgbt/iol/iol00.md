@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Next](iol01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Next](iol01.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ intact.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](iol01)
+[Next: Contents](iol01.md)

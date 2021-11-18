@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat07)  [Next](sat09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat07)  [Next](sat09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -40,11 +40,11 @@ fire, air, water, and earth, as is above mentioned.
 
 2\. For so we are to consider of the creation of this world, that the
 whole essence of eternity has moved itself in the place <span
-id="fr_45"></span>[1](#fn_45) of this world, and the whole form was
+id="fr_45"></span>[1](#fn_45.md) of this world, and the whole form was
 enkindled and stirred, and that in the desire to manifestation; and
 there the generation divided itself in the flagrat of the enkindled fire
 into four parts, viz. into fire, water, and earth, and the air is its
-moving egressive <span id="fr_46"></span>[2](#fn_46) spirit; as is to be
+moving egressive <span id="fr_46"></span>[2](#fn_46.md) spirit; as is to be
 considered in Sulphur, which consists in these four things.
 
 3\. In like manner also the astrum is thus generated out of the first
@@ -56,7 +56,7 @@ operation, and so only grows into a form as the spirit is.
 4\. The first mother of all things, viz. the lubet with the desire, does
 especially introduce itself into seven forms, and yet continues
 steadfast in three only, but manifests itself in seven forms. <span
-id="fr_47"></span>[3](#fn_47)
+id="fr_47"></span>[3](#fn_47.md)
 
 5\. The first form is astringent, viz. an austere attraction, which is a
 cause of coldness and salt, and all corporality.
@@ -64,9 +64,9 @@ cause of coldness and salt, and all corporality.
 <span id="page_33">p. 33</span>
 
 6\. The second form is the compunction, <span
-id="fr_48"></span>[1](#fn_48) viz. the drawing or motion, and causes the
+id="fr_48"></span>[1](#fn_48.md) viz. the drawing or motion, and causes the
 feeling, also pricking, aking, tormenting; the affection <span
-id="fr_49"></span>[2](#fn_49) of bitterness, enmity and friendliness,
+id="fr_49"></span>[2](#fn_49.md) of bitterness, enmity and friendliness,
 joy and sorrow.
 
 7\. The third form is the great anguish in the impression, which causes
@@ -144,7 +144,7 @@ itself, viz. God in the time, and the time in God, and the one is not
 the other, but they come from one eternal original; thus the temporal
 spirit's hunger gives a temporal body, and the eternal spirit's hunger
 affords an eternal body, and are both mutually in each other, and yet
-are distinct. <span id="fr_50"></span>[1](#fn_50)
+are distinct. <span id="fr_50"></span>[1](#fn_50.md)
 
 15\. The seven forms make them a body according to their hunger out of
 their own property; therefore all whatever the spirit has in all
@@ -187,7 +187,7 @@ of the divine \[man\]; so also the metalline property in Sulphur is the
 noblest, most excellent, and highest, for it is the highest spirit.
 
 21\. Understand it thus: In the heavenly being there is also a property
-of a seething, <span id="fr_51"></span>[1](#fn_51) when the liberty is
+of a seething, <span id="fr_51"></span>[1](#fn_51.md) when the liberty is
 apprehended and enkindled in the highest desire, wherein the joyfulness
 arises; this is effected in the heavenly Sulphur, where it is made
 essential in the heavenly Mercury, viz. in the eternal word, which is a
@@ -246,7 +246,7 @@ child shut up in himself as a black raven, not in his gray form, but in
 a darkish cast: He is a great lord, but his dominion, by reason of the
 golden child which he has in his bowels, stands not in his own power: He
 is not father of the child, but Mercury is he which forms <span
-id="fr_52"></span>[1](#fn_52) the child; but he puts his morning mantle
+id="fr_52"></span>[1](#fn_52.md) the child; but he puts his morning mantle
 upon it, that he can have no joy with the golden child; he corporises
 the fair child; for he is its fiat or creator, and hides and covers it
 close under his mantle: He cannot give it the body from his own
@@ -258,15 +258,15 @@ the free desire in the highest degree of corporality in the fixed death,
 where yet there is no death, but an enclosing, and in the similitude a
 representation of the divine heavenly essentiality.
 
-27\. Mercurius is the master-workman <span id="fr_53"></span>[1](#fn_53)
+27\. Mercurius is the master-workman <span id="fr_53"></span>[1](#fn_53.md)
 of this child, which Saturn hides; when he gets it into his hunger, he
 casts off his black cloak, and rejoices in it; but he is too malignant
-in his fire-wrath, <span id="fr_54"></span>[2](#fn_54) he devours the
+in his fire-wrath, <span id="fr_54"></span>[2](#fn_54.md) he devours the
 child, and turns it wholly to his own property: When he is most sharply
 hungry in the fire, then Sol must be given him (it is his wife) that his
 hunger may be appeased; and then when he is satisfied, he labours in the
 materia of the child with his own hunger or fire, <span
-id="fr_55"></span>[3](#fn_55) and fills up his sufficed desire out of
+id="fr_55"></span>[3](#fn_55.md) and fills up his sufficed desire out of
 Sol's property, which he before had eaten, and nourishes the child till
 it gets upon it all the four elements with the constellation, and he
 grows exceeding pregnant with the child, and then it belongs \[or is fit
@@ -274,7 +274,7 @@ for\] a strange fire, and yet not strange, an earnest fire; and then the
 father gives it the soul, viz. the fire-spirit; and its first mother,
 which Mercury did eat down in its hunger, which was fixed and perfect,
 \[gives\] the soul's-spirit, viz. the light-life: Then the death <span
-id="fr_56"></span>[4](#fn_56) arises, and the child is born, and becomes
+id="fr_56"></span>[4](#fn_56.md) arises, and the child is born, and becomes
 afterwards its own, and a child of the liberty, and cares no more for
 its work-master: It is better than its father, but not better than its
 mother, in whose seed it lay, before the father wrought in it; it
@@ -286,7 +286,7 @@ science.
 28\. Further, we are to consider of the degrees, what the liberty, viz.
 the eternal lubet, gives to the hunger of the other forms in Sulphur, in
 the property of the other planets; the form of the birth is as a turning
-wheel, <span id="fr_57"></span>[5](#fn_57) which Mercury causes in the
+wheel, <span id="fr_57"></span>[5](#fn_57.md) which Mercury causes in the
 Sulphur.
 
 29\. The birth of the highest degree turns round (viz. the desire), for
@@ -306,7 +306,7 @@ separate in the fire, viz. the colours of the virtue; then Luna arises
 out of the yellow and turns into white, by reason of the divine
 meekness; and because its original is from Sol's colour, therefore it
 has a perpetual hunger after Sol, and receives the sun's lustre into it,
-puts it on <span id="fr_58"></span>[1](#fn_58) and shines with it.
+puts it on <span id="fr_58"></span>[1](#fn_58.md) and shines with it.
 
 30\. Now as the superior is, so is likewise the inferior (namely
 metals), therefore silver is the next degree to gold; and as gold is
@@ -337,7 +337,7 @@ property, and lets Mercury hatch it.
 32\. The desire of the free lubet is fixed and steadfast, as concerning
 the property of the desire only, which brings its will again from the
 body into the combat in the senses, and makes Jupiter, that is on the
-orb <span id="fr_59"></span>[2](#fn_59) upwards under Saturn under the
+orb <span id="fr_59"></span>[2](#fn_59.md) upwards under Saturn under the
 saturnine power; its metal is tin, and it is the third degree; for the
 lubet of the liberty in the desire proceeds forth into the desire of the
 austereness, and so it gives itself into the fiat.
@@ -385,7 +385,7 @@ each thing according to its property he builds, and breaks down.
 
 36\. According to Saturn's property he builds, and according to his own
 property he distinguishes and dissipates <span
-id="fr_60"></span>[1](#fn_60) the hardness
+id="fr_60"></span>[1](#fn_60.md) the hardness
 
 <span id="page_40">p. 40</span>
 
@@ -435,7 +435,7 @@ and ability, which is hard and tough; she is only the
 
 <span id="page_41">p. 41</span>
 
-mother <span id="fr_61"></span>[1](#fn_61) to her child without a
+mother <span id="fr_61"></span>[1](#fn_61.md) to her child without a
 creaturely soul; Mars is her soul, and Saturn makes her body.
 
 41\. The spirit of Sol may tincture Mars and Venus, and change them into
@@ -496,45 +496,45 @@ animals.
 
 ### Footnotes
 
-<span id="fn_45"></span>[32:1](sat08.htm#fr_45) Loco.
+<span id="fn_45"></span>[32:1](sat08.htm#fr_45.md) Loco.
 
-<span id="fn_46"></span>[32:2](sat08.htm#fr_46) Outgoing, breathing.
+<span id="fn_46"></span>[32:2](sat08.htm#fr_46.md) Outgoing, breathing.
 
-<span id="fn_47"></span>[32:3](sat08.htm#fr_47) Or in a sevenfold form.
+<span id="fn_47"></span>[32:3](sat08.htm#fr_47.md) Or in a sevenfold form.
 
-<span id="fn_48"></span>[33:1](sat08.htm#fr_48) Or sting.
+<span id="fn_48"></span>[33:1](sat08.htm#fr_48.md) Or sting.
 
-<span id="fn_49"></span>[33:2](sat08.htm#fr_49) Stirring up, or moving.
+<span id="fn_49"></span>[33:2](sat08.htm#fr_49.md) Stirring up, or moving.
 
-<span id="fn_50"></span>[34:1](sat08.htm#fr_50) The one is not the
+<span id="fn_50"></span>[34:1](sat08.htm#fr_50.md) The one is not the
 other.
 
-<span id="fn_51"></span>[35:1](sat08.htm#fr_51) Boiling, or decoction.
+<span id="fn_51"></span>[35:1](sat08.htm#fr_51.md) Boiling, or decoction.
 
-<span id="fn_52"></span>[36:1](sat08.htm#fr_52) Or fashions.
+<span id="fn_52"></span>[36:1](sat08.htm#fr_52.md) Or fashions.
 
-<span id="fn_53"></span>[37:1](sat08.htm#fr_53) Or faber.
+<span id="fn_53"></span>[37:1](sat08.htm#fr_53.md) Or faber.
 
-<span id="fn_54"></span>[37:2](sat08.htm#fr_54) In a strange fire, and
+<span id="fn_54"></span>[37:2](sat08.htm#fr_54.md) In a strange fire, and
 yet not strange; when the cloak is laid aside, it needs only its own
 fire.
 
-<span id="fn_55"></span>[37:3](sat08.htm#fr_55) Here must be its own
+<span id="fn_55"></span>[37:3](sat08.htm#fr_55.md) Here must be its own
 fire only from within and from without.
 
-<span id="fn_56"></span>[37:4](sat08.htm#fr_56) And it is the tincture
+<span id="fn_56"></span>[37:4](sat08.htm#fr_56.md) And it is the tincture
 which tinctures the body.
 
-<span id="fn_57"></span>[37:5](sat08.htm#fr_57) Or rotation.
+<span id="fn_57"></span>[37:5](sat08.htm#fr_57.md) Or rotation.
 
-<span id="fn_58"></span>[38:1](sat08.htm#fr_58) Draws it to itself.
+<span id="fn_58"></span>[38:1](sat08.htm#fr_58.md) Draws it to itself.
 
-<span id="fn_59"></span>[38:2](sat08.htm#fr_59) Wheel, or sphere.
+<span id="fn_59"></span>[38:2](sat08.htm#fr_59.md) Wheel, or sphere.
 
-<span id="fn_60"></span>[39:1](sat08.htm#fr_60) Attenuates, destroys.
+<span id="fn_60"></span>[39:1](sat08.htm#fr_60.md) Attenuates, destroys.
 
-<span id="fn_61"></span>[41:1](sat08.htm#fr_61) Woman, wife.
+<span id="fn_61"></span>[41:1](sat08.htm#fr_61.md) Woman, wife.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](sat09)
+[Next: Chapter V](sat09.md)

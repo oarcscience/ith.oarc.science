@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod01)  [Next](eod03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod01)  [Next](eod03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -40,7 +40,7 @@ an essay on the spread of certain customs and beliefs in ancient times
 under the title "On the Significance of the Geographical Distribution of
 the Practice of Mummification," and in my Rylands Lecture two weeks
 later I summed up the general conclusions. <span
-id="fr_0"></span>[1](#fn_0) In view of the lively controversies that
+id="fr_0"></span>[1](#fn_0.md) In view of the lively controversies that
 followed the publication of the former of these addresses, I devoted my
 next Rylands Lecture (9 February, 1916) to the discussion of "The
 Relationship of the Egyptian Practice of Mummification to the
@@ -194,7 +194,7 @@ on the *ka* and the *fravashi* I have merely hinted at the vast
 complexity of these elements of confusion.
 
 Had I been familiar with \[Archbishop\] Söderblom's important
-monograph, <span id="fr_1"></span>[1](#fn_1) when I was writing Chapters
+monograph, <span id="fr_1"></span>[1](#fn_1.md) when I was writing Chapters
 I and III, I might have attempted to indicate how vital a part the
 confusion of the individual *genius* with the mythical wonder-beast has
 played in the history of the myths relating to the latter. For the
@@ -354,14 +354,14 @@ G. ELLIOT SMITH.     
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](eod02.htm#fr_0) "The Influence of Ancient
+<span id="fn_0"></span>[v:1](eod02.htm#fr_0.md) "The Influence of Ancient
 Egyptian Civilisation in the East and in America," *Bulletin of the John
 Rylands Library*, January-March, 1916.
 
-<span id="fn_1"></span>[ix:1](eod02.htm#fr_1) Nathan Söderblom, "Les
+<span id="fn_1"></span>[ix:1](eod02.htm#fr_1.md) Nathan Söderblom, "Les
 Fravashis Étude sur les Traces dans le Mazdéisme d’une Ancienne
 Conception sur la Survivance des Morts," Paris, 1899.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](eod03)
+[Next: Contents](eod03.md)

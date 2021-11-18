@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst089)  [Next](inst091) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst089)  [Next](inst091.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,9 +140,9 @@ snares to miserable souls. For they have not been more scrupulous than
 the Scribes and Pharisees in laying burdens on the shoulders of others,
 which they would not touch with their finger (<span
 id="iv.iv.xi-p36.1"></span>[Mt
-23:4](../../../bib/kjv/mat023.htm#004)<span id="iv.iv.xi-p36.1"></span>;
+23:4](../../../bib/kjv/mat023.htm#004.md)<span id="iv.iv.xi-p36.1"></span>;
 <span id="iv.iv.xi-p36.2"></span>[Luke
-11:16](../../../bib/kjv/luk011.htm#016)<span
+11:16](../../../bib/kjv/luk011.htm#016.md)<span
 id="iv.iv.xi-p36.2"></span>). I have elsewhere shown (Book 3 chap. 4
 sec. 4-7) how cruel murder they commit by their doctrine of auricular
 confession. The same violence is not apparent in other laws, but those
@@ -204,11 +204,11 @@ they enjoined things necessary to salvation.
 <span id="iv.iv.xi-p38"></span>3. Many are greatly puzzled with this
 question, from not distinguishing, with sufficient care, between what is
 called the external forum and the forum of conscience56  <span
-id="fr_577"></span>[578](#fn_577) (Book 3 chap. 19 sec 15). Moreover,
+id="fr_577"></span>[578](#fn_577) (Book 3 chap. 19 sec 15.md). Moreover,
 the difficulty is increased by the terms in which Paul enjoins obedience
 to magistrates, “not only for wrath, but also for conscience sake”
 (<span id="iv.iv.xi-p39.1"></span>[Rom.
-13:5](../../../bib/kjv/rom013.htm#005)<span
+13:5](../../../bib/kjv/rom013.htm#005.md)<span
 id="iv.iv.xi-p39.1"></span>); and from which it would follow, that civil
 laws also bind the conscience. But if this were so, nothing that we have
 said of spiritual government, in the last chapter, and are to say in
@@ -225,7 +225,7 @@ man to suppress what he knows in himself, but following him out until it
 bring him to conviction. This is what Paul means, when he says that
 conscience bears witness, “our thoughts the meanwhile accusing or else
 excusing each other” (<span id="iv.iv.xi-p39.2"></span>[Rom.
-2:15](../../../bib/kjv/rom002.htm#015)<span
+2:15](../../../bib/kjv/rom002.htm#015.md)<span
 id="iv.iv.xi-p39.2"></span>). Simple knowledge, therefore, might exist
 in a man, as it were, shut up, and therefore the sense which sists men
 before the judgment-seat of God has been placed over him as a sentinel,
@@ -233,13 +233,13 @@ to observe and spy out all his secrets, that nothing may remain buried
 in darkness. Hence the old proverb, Conscience is a thousand witnesses.
 For this reason, Peter also uses the “answer of a good conscience
 towards God” (<span id="iv.iv.xi-p39.3"></span>[1 Pet.
-3:21](../../../bib/kjv/pe1003.htm#021)<span
+3:21](../../../bib/kjv/pe1003.htm#021.md)<span
 id="iv.iv.xi-p39.3"></span>); for tranquillity of mind, when, persuaded
 of the grace of Christ, we with boldness present ourselves before God.
 And the author of the Epistle to the Hebrews says, that we have “no more
 conscience of sins,” that we are freed or acquitted, so that sin no
 longer accuses us (<span id="iv.iv.xi-p39.4"></span>[Heb.
-10:2](../../../bib/kjv/heb010.htm#002)<span
+10:2](../../../bib/kjv/heb010.htm#002.md)<span
 id="iv.iv.xi-p39.4"></span>).
 
 <span id="iv.iv.xi-p40"></span>4. Wherefore, as works have respect to
@@ -248,7 +248,7 @@ is nothing but inward integrity of heart. In this sense, Paul says, that
 “the end of the commandment is charity out of a pure heart, and of a
 good conscience, and of faith unfeigned” (<span
 id="iv.iv.xi-p40.1"></span>[1 Tim.
-1:5](../../../bib/kjv/ti1001.htm#005)<span id="iv.iv.xi-p40.1"></span>).
+1:5](../../../bib/kjv/ti1001.htm#005)<span id="iv.iv.xi-p40.1"></span>.md).
 He afterwards, in the same chapter, shows how widely it differs from
 intellect, saying, the, “some having put away” a good conscience,
 “concerning faith have made shipwreck.” For by these words he intimates,
@@ -257,7 +257,7 @@ piously and holily. Sometimes, indeed, it is extended to men also, as
 when Paul declares, “Herein do I exercise myself, to have always a
 conscience void of offence toward God, and toward men” (<span
 id="iv.iv.xi-p40.2"></span>[Acts
-24:16](../../../bib/kjv/act024.htm#016)<span
+24:16](../../../bib/kjv/act024.htm#016.md)<span
 id="iv.iv.xi-p40.2"></span>). But this is said, because the benefits of
 a good conscience flow forth and reach even to men. Properly speaking,
 however, it respects God alone, as I have already said. Hence a law may
@@ -275,8 +275,8 @@ to idols, “If any man say unto you, This is offered in sacrifice unto
 idols, eat not for his sake that showed it, and for conscience sake;”
 “conscience, I say, not thine own, but of the other” (<span
 id="iv.iv.xi-p40.3"></span>[1 Cor.
-10:28](../../../bib/kjv/co1010.htm#028),
-[29](../../../bib/kjv/co1010.htm#029)<span id="iv.iv.xi-p40.3"></span>).
+10:28](../../../bib/kjv/co1010.htm#028.md),
+[29](../../../bib/kjv/co1010.htm#029)<span id="iv.iv.xi-p40.3"></span>.md).
 A believer would sin, if, after being warned, he should still eat such
 kind of meat. But however necessary abstinence may be in respect of a
 brother, as prescribed by the Lord, conscience ceases not to retain its
@@ -289,7 +289,7 @@ if the observance of them was in itself necessary, we say that the
 restraint thus laid on the conscience is unlawful. Our consciences have
 not to do with men but with God only. Hence the common distinction
 between the earthly forum and the forum of conscience.56  <span
-id="fr_578"></span>[579](#fn_578) When the whole world was enveloped in
+id="fr_578"></span>[579](#fn_578.md) When the whole world was enveloped in
 the thickest darkness of ignorance, it was still held (like a small ray
 of light which remained unextinguished) that conscience was superior to
 all human judgments. Although this, which was acknowledged in word, was
@@ -306,7 +306,7 @@ are bound by the general command of God, which enjoins us to submit to
 magistrates. And this is the point on which Paul’s discussion turns—viz.
 that magistrates are to be honoured, because they are ordained of God
 (<span id="iv.iv.xi-p42.1"></span>[Rom.
-13:1](../../../bib/kjv/rom013.htm#001)<span
+13:1](../../../bib/kjv/rom013.htm#001.md)<span
 id="iv.iv.xi-p42.1"></span>). Meanwhile, he does not at all teach that
 the laws enacted by them reach to the internal government of the soul,
 since he everywhere proclaims that the worship of God, and the spiritual
@@ -366,13 +366,13 @@ obedience. For this reason James says, “He that speaketh evil of his
 brother, and judgeth his brother, speaketh evil of the law, and judgeth
 the law:” “There is one lawgiver, who is able to save and to destroy”
 (<span id="iv.iv.xi-p44.1"></span>[Jas.
-4:11](../../../bib/kjv/jam004.htm#011),
-[12](../../../bib/kjv/jam004.htm#012)<span id="iv.iv.xi-p44.1"></span>).
+4:11](../../../bib/kjv/jam004.htm#011.md),
+[12](../../../bib/kjv/jam004.htm#012)<span id="iv.iv.xi-p44.1"></span>.md).
 We hear how God claims it as his own peculiar privilege to rule us by
 his laws. This had been said before by Isaiah, though somewhat
 obscurely, “The Lord is our judge, the Lord is our lawgiver, the Lord is
 our king; he will save us” (<span id="iv.iv.xi-p44.2"></span>[Isa.
-33:22](../../../bib/kjv/isa033.htm#022)<span
+33:22](../../../bib/kjv/isa033.htm#022.md)<span
 id="iv.iv.xi-p44.2"></span>). Both passages show that the power of life
 and death belongs to him who has power over the soul. Nay, James clearly
 expresses this. This power no man may assume to himself. God, therefore,
@@ -381,7 +381,7 @@ as the only King of souls, or, as the words of Isaiah express it, he is
 our king and judge, and lawgiver and saviour. So Peter, when he reminds
 pastors of their duty, exhorts them to feed the flock without lording it
 over the heritage (<span id="iv.iv.xi-p44.3"></span>[1 Pet.
-5:2](../../../bib/kjv/pe1005.htm#002)<span id="iv.iv.xi-p44.3"></span>);
+5:2](../../../bib/kjv/pe1005.htm#002)<span id="iv.iv.xi-p44.3"></span>.md);
 meaning by heritage the body of believers. If we duly consider that it
 is unlawful to transfer to man what God declares to belong only to
 himself, we shall see that this completely cuts off all the power
@@ -417,7 +417,7 @@ wisdom and knowledge are hidden in Christ, and from this he concludes
 that believers should beware of being led away from the flock of Christ
 by vain philosophy, according to the constitutions of men (<span
 id="iv.iv.xi-p45.1"></span>[Col.
-2:10](../../../bib/kjv/col002.htm#010)<span
+2:10](../../../bib/kjv/col002.htm#010.md)<span
 id="iv.iv.xi-p45.1"></span>). In the end of the chapter, he still more
 decisively condemns all ἐθελοθρησκειας that is, fictitious modes of
 worship which men themselves devise or receive from others, and all
@@ -452,7 +452,7 @@ subjected to the will of men, wherein do we err when we are unable to
 tolerate this in the present day? especially when we are enjoined to
 worship God according to the elements of this world—a thing which Paul
 declares to be adverse to Christ (<span id="iv.iv.xi-p46.1"></span>[Col
-2:20](../../../bib/kjv/col002.htm#020)<span
+2:20](../../../bib/kjv/col002.htm#020.md)<span
 id="iv.iv.xi-p46.1"></span>). On the other hand, the mode in which they
 lay consciences under the strict necessity of observing whatever they
 enjoin, is not unknown. When we protest against this, we make common
@@ -464,7 +464,7 @@ when once religion begins to be composed of such vain fictions, the
 perversion is immediately succeeded by the abominable depravity with
 which our Lord upbraids the Pharisees of making the commandment of God
 void through their traditions (<span id="iv.iv.xi-p47.1"></span>[Mt.
-15:3](../../../bib/kjv/mat015.htm#003)<span
+15:3](../../../bib/kjv/mat015.htm#003.md)<span
 id="iv.iv.xi-p47.1"></span>). I am unwilling to dispute with our present
 legislators in my own words;—let them gain the victory if they can clear
 themselves from this accusation of Christ. But how can they do so,
@@ -500,7 +500,7 @@ matters,—matters which, if the judgment of God is to decide, are free.
 But now, as if this were a small evil, those frivolous elements of this
 world (as Paul terms them in his Epistle to the Galatians, <span
 id="iv.iv.xi-p47.2"></span>[Gal.
-4:9](../../../bib/kjv/gal004.htm#009)<span id="iv.iv.xi-p47.2"></span>)
+4:9](../../../bib/kjv/gal004.htm#009)<span id="iv.iv.xi-p47.2"></span>.md)
 are deemed of more value than the heavenly oracles of God. He who is all
 but acquitted for adultery is judged in meat; and he to whom whoredom is
 permitted is forbidden to marry. This, forsooth, is all that is gained
@@ -518,7 +518,7 @@ to which they are so pleasing, that the Church seems to be altogether
 defaced when they are taken away. But this is just what Paul says, that
 they “have indeed a show of wisdom in will-worship, and humility, and
 neglecting of the body” (<span id="iv.iv.xi-p48.1"></span>[Col.
-2:23](../../../bib/kjv/col002.htm#023)<span
+2:23](../../../bib/kjv/col002.htm#023.md)<span
 id="iv.iv.xi-p48.1"></span>); a most salutary admonition, of which we
 ought never to lose sight. Human traditions, he says, deceive by an
 appearance of wisdom. Whence this show? Just that being framed by men,
@@ -587,8 +587,8 @@ they reach the extreme of harshness. This Paul elegantly intimated by
 these words,—“If ye be dead with Christ from the rudiments of the world,
 why, as though living in the world, are ye subject to ordinances? Touch
 not, taste not, handle not” (<span id="iv.iv.xi-p50.2"></span>[Col.
-2:20](../../../bib/kjv/col002.htm#020),
-[21](../../../bib/kjv/col002.htm#021)<span id="iv.iv.xi-p50.2"></span>).
+2:20](../../../bib/kjv/col002.htm#020.md),
+[21](../../../bib/kjv/col002.htm#021)<span id="iv.iv.xi-p50.2"></span>.md).
 For while the word ἅπτεσθαι signifies both to eat and to touch, it is
 doubtless taken in the former sense, that there may not be a superfluous
 repetition. Here, therefore, he most admirably describes the progress of
@@ -622,8 +622,8 @@ and his ancient people, by training them like children by means of signs
 and figures, and training us more simply, without so much external show.
 Paul’s words are, “The heir, as long as he is a child,”—“is under tutors
 and governors” (<span id="iv.iv.xi-p51.2"></span>[Gal.
-4:1](../../../bib/kjv/gal004.htm#001),
-[2](../../../bib/kjv/gal004.htm#002)<span id="iv.iv.xi-p51.2"></span>).
+4:1](../../../bib/kjv/gal004.htm#001.md),
+[2](../../../bib/kjv/gal004.htm#002)<span id="iv.iv.xi-p51.2"></span>.md).
 This was the state of the Jews under the law. But we are like adults
 who, being freed from tutory and curatory, have no need of puerile
 rudiments. God certainly foresaw what kind of people he was to have in
@@ -635,7 +635,7 @@ dissimilitude between the ancient and his new people Christ expressed
 when he said to the woman of Samaria, “The hour cometh, and now is, when
 the true worshippers shall worship the Father in spirit and in truth”
 (<span id="iv.iv.xi-p51.3"></span>[John
-4:23](../../../bib/kjv/joh004.htm#023)<span
+4:23](../../../bib/kjv/joh004.htm#023.md)<span
 id="iv.iv.xi-p51.3"></span>). This, no doubt, had always been done; but
 the new worshippers differ from the old in this, that while under Moses
 the spiritual worship of God was shadowed, and, as it were, entangled by
@@ -679,14 +679,14 @@ your fathers, nor commanded them in the day that I brought them out of
 the land of Egypt, concerning burnt-offerings or sacrifices: but this
 thing commanded I them, saying, Obey my voice ” (<span
 id="iv.iv.xi-p52.1"></span>[Jer.
-7:22](../../../bib/kjv/jer007.htm#022)<span
+7:22](../../../bib/kjv/jer007.htm#022.md)<span
 id="iv.iv.xi-p52.1"></span>). Of fictitious works he elsewhere speaks,
 “Wherefore do you spend your money for that which is not bread”? (<span
 id="iv.iv.xi-p52.2"></span>[Isa.
-55:2](../../../bib/kjv/isa055.htm#002)<span id="iv.iv.xi-p52.2"></span>;
+55:2](../../../bib/kjv/isa055.htm#002.md)<span id="iv.iv.xi-p52.2"></span>;
 29:13). Again, “In vain do they worship me, teaching for doctrines the
 commandments of men” (<span id="iv.iv.xi-p52.3"></span>[Mt.
-15:9](../../../bib/kjv/mat015.htm#009)<span
+15:9](../../../bib/kjv/mat015.htm#009.md)<span
 id="iv.iv.xi-p52.3"></span>). They cannot, therefore, excuse themselves
 from the charge of allowing wretched people to seek in these external
 frivolities a righteousness which they may present to God, and by which
@@ -717,7 +717,7 @@ many admonitions of God, spontaneously entangle themselves in these
 deadly fetters. But if, without any regard to circumstances, you would
 simply know the character belonging at all times to those human
 traditions which ought to be repudiated by the Church, and condemned by
-all the godly,56  <span id="fr_579"></span>[580](#fn_579) the definition
+all the godly,56  <span id="fr_579"></span>[580](#fn_579.md) the definition
 which we formerly gave is clear and certain—viz. That they include all
 the laws enacted by men, without authority from the word of God, for the
 purpose either of prescribing the mode of divine worship, or laying a
@@ -744,8 +744,8 @@ The instance is, when the apostles assembled in council, announced to
 all the Gentiles as the opinion of the council, that they should
 “abstain from pollution of idols, and from fornication, and from things
 strangled, and from blood” (<span id="iv.iv.xi-p55.1"></span>[Acts
-15:20](../../../bib/kjv/act015.htm#020),
-[29](../../../bib/kjv/act015.htm#029)<span id="iv.iv.xi-p55.1"></span>).
+15:20](../../../bib/kjv/act015.htm#020.md),
+[29](../../../bib/kjv/act015.htm#029)<span id="iv.iv.xi-p55.1"></span>.md).
 We have already explained, how, in order to extol themselves, they
 falsely assume the name of Church (Chap. 8 sec. 10-13). If, in regard to
 the present cause, we remove all masks and glosses (a thing, indeed,
@@ -757,11 +757,11 @@ and wanton and luxuriate in enacting new laws. Does not the law which
 was once given to the Church endure for ever? “What things soever I
 command you, observe to do it: thou shalt not add thereto, nor diminish
 from it” (<span id="iv.iv.xi-p55.2"></span>[Deut.
-12:32](../../../bib/kjv/deu012.htm#032)<span
+12:32](../../../bib/kjv/deu012.htm#032.md)<span
 id="iv.iv.xi-p55.2"></span>). And in another place, “Add thou not unto
 his words, lest he reprove thee, and thou be found a liar” (<span
 id="iv.iv.xi-p55.3"></span>[Prov.
-30:6](../../../bib/kjv/pro030.htm#006)<span
+30:6](../../../bib/kjv/pro030.htm#006.md)<span
 id="iv.iv.xi-p55.3"></span>). Since they cannot deny that this was said
 to the Church, what else do they proclaim but their contumacy, when,
 notwithstanding of such prohibitions, they profess to add to the
@@ -791,20 +791,20 @@ day that I brought them out of the land of Egypt, concerning
 burnt-offerings or sacrifices; but this thing commanded I them, saying,
 Obey my voice, and I will be your God, and ye shall be my people: and
 walk ye in all the ways that I have commanded you” (<span
-id="iv.iv.xi-p55.4"></span>[Jer. 7:22](../../../bib/kjv/jer007.htm#022),
-[23](../../../bib/kjv/jer007.htm#023)<span id="iv.iv.xi-p55.4"></span>).
+id="iv.iv.xi-p55.4"></span>[Jer. 7:22](../../../bib/kjv/jer007.htm#022.md),
+[23](../../../bib/kjv/jer007.htm#023)<span id="iv.iv.xi-p55.4"></span>.md).
 “I earnestly protested unto your fathers, in the day that I brought them
 out of the land of Egypt, even unto this day, rising early and
 protesting, saying, Obey my voice” (<span
 id="iv.iv.xi-p55.5"></span>[Jer.
-11:7](../../../bib/kjv/jer011.htm#007)<span
+11:7](../../../bib/kjv/jer011.htm#007.md)<span
 id="iv.iv.xi-p55.5"></span>). There are other passages of the same kind,
 but the most noted of all is, “Hath the Lord as great delight in
 burnt-offerings and sacrifices, as in obeying the voice of the Lord?
 Behold, to obey is better than sacrifice, and to hearken than the fat of
 rams. For rebellion is as the sin of witchcraft, and stubbornness is as
 iniquity and idolatry” (<span id="iv.iv.xi-p55.6"></span>[1 Sam.
-15](../../../bib/kjv/sa1015.htm#000)<span id="iv.iv.xi-p55.6"></span>:
+15](../../../bib/kjv/sa1015.htm#000.md)<span id="iv.iv.xi-p55.6"></span>:
 22, 23). It is easy, therefore, to prove, that whenever human inventions
 in this respect are defended by the authority of the Church, they cannot
 be vindicated from the charge of impiety, and that the name of Church is
@@ -869,7 +869,7 @@ ordinance, which are not to be disapproved. Afterwards came foolish
 imitators, who, by ever and anon patching various fragments together,
 have left us those sacerdotal vestments which we see in the mass, those
 altar ornaments, those gesticulations, and whole farrago of useless
-observances.56  <span id="fr_580"></span>[581](#fn_580) But they object,
+observances.56  <span id="fr_580"></span>[581](#fn_580.md) But they object,
 that in old time the persuasion was, that those things which were done
 with the consent of the whole Church proceeded from the apostles. Of
 this they quote Augustine as a witness. I will give the explanation in
@@ -923,7 +923,7 @@ apostles and elders of the primitive Church, according to them,
 sanctioned a decree without any authority from Christ, by which they
 commanded all the Gentiles to abstain from meat offered to idols, from
 things strangled, and from blood (<span id="iv.iv.xi-p60.1"></span>[Acts
-15:20](../../../bib/kjv/act015.htm#020)<span
+15:20](../../../bib/kjv/act015.htm#020.md)<span
 id="iv.iv.xi-p60.1"></span>). If this was lawful for them, why should
 not their successors be allowed to imitate the example as often as
 occasion requires? Would that they would always imitate them both in
@@ -980,7 +980,7 @@ conscience of the idol unto this hour eat it as a thing offered unto an
 idol; and their conscience being weak is defiled.”—“But take heed lest
 by any means this liberty of yours become a stumbling-block to them that
 are weak” (<span id="iv.iv.xi-p61.1"></span>[1 Cor.
-8:4-9](../../../bib/kjv/co1008.htm#004)<span
+8:4-9](../../../bib/kjv/co1008.htm#004.md)<span
 id="iv.iv.xi-p61.1"></span>). Any one who duly considers these things
 will not be imposed upon by the gloss which these men employ when, as a
 cloak to their tyranny, they pretend that the apostles had begun by
@@ -1003,7 +1003,7 @@ heard without exception; for the thing asked of us is not to consent to
 errors, but only to submit to the strict commands of those set over
 us,—commands which we are not at liberty to decline (<span
 id="iv.iv.xi-p62.1"></span>[1 Pet.
-2:18](../../../bib/kjv/pe1002.htm#018)<span
+2:18](../../../bib/kjv/pe1002.htm#018.md)<span
 id="iv.iv.xi-p62.1"></span>). But here also the Lord comes to the
 succour of his word, and frees us from this bondage by asserting the
 liberty which he has purchased for us by his sacred blood, and the
@@ -1024,11 +1024,11 @@ therefore, behold, I will proceed to do a marvellous work among the
 people, even a marvellous work and a wonder; for the wisdom of their
 wise men shall perish, and the understanding of their prudent men shall
 be hid” (<span id="iv.iv.xi-p62.2"></span>[Isaiah
-29:13-14](../../../bib/kjv/isa029.htm#013)<span
+29:13-14](../../../bib/kjv/isa029.htm#013.md)<span
 id="iv.iv.xi-p62.2"></span>). And in another place, “But in vain do they
 worship me, teaching for doctrines the commandments of men” (<span
 id="iv.iv.xi-p62.3"></span>[Mt.
-15:9](../../../bib/kjv/mat015.htm#009)<span
+15:9](../../../bib/kjv/mat015.htm#009.md)<span
 id="iv.iv.xi-p62.3"></span>). And, indeed, when the children of Israel
 polluted themselves with manifold idolatries, the cause of the whole
 evil is ascribed to that impure mixture caused by their disregarding the
@@ -1037,7 +1037,7 @@ sacred history relates that the new inhabitants who had been brought by
 the king of Assyria from Babylon to inhabit Samaria were torn and
 destroyed by wild beasts, because they knew not the judgment or statutes
 of the God of that land (<span id="iv.iv.xi-p62.4"></span>[2 Kings
-17:24-34](../../../bib/kjv/kg2017.htm#024)<span
+17:24-34](../../../bib/kjv/kg2017.htm#024.md)<span
 id="iv.iv.xi-p62.4"></span>). Though they had done nothing wrong in
 ceremonies, still their empty show could not have been approved by God.
 Meanwhile he ceased not to punish them for the violation of his worship
@@ -1049,14 +1049,14 @@ that part of the reverence due to him consists in worshipping him simply
 in the way which he commands, without mingling any inventions of our
 own. And, accordingly, pious princes are repeatedly praised (<span
 id="iv.iv.xi-p62.5"></span>[2 Kings
-22:1](../../../bib/kjv/kg2022.htm#001)<span id="iv.iv.xi-p62.5"></span>,
+22:1](../../../bib/kjv/kg2022.htm#001.md)<span id="iv.iv.xi-p62.5"></span>,
 &c.) for acting according to all his precepts, and not declining either
 to the right hand or the left. I go further: although there be no open
 manifestation of impiety in fictitious worship, it is strictly condemned
 by the Spirit, inasmuch as it is a departure from the command of God.
 The altar of Ahaz, a model of which had been brought from Damascus
 (<span id="iv.iv.xi-p62.6"></span>[2 Kings
-16:10](../../../bib/kjv/kg2016.htm#010)<span
+16:10](../../../bib/kjv/kg2016.htm#010.md)<span
 id="iv.iv.xi-p62.6"></span>), might have seemed to give additional
 ornament to the temple, seeing it was his intention there to offer
 sacrifices to God only, and to do it more splendidly than at the first
@@ -1068,8 +1068,8 @@ anything. Accordingly, the guilt of Manasses is aggravated by the
 circumstance of having erected a new altar at Jerusalem, of which the
 Lord said, “In Jerusalem will I put my name” (<span
 id="iv.iv.xi-p62.7"></span>[2 Kings
-22:3](../../../bib/kjv/kg2022.htm#003),
-[4](../../../bib/kjv/kg2022.htm#004)<span id="iv.iv.xi-p62.7"></span>),
+22:3](../../../bib/kjv/kg2022.htm#003.md),
+[4](../../../bib/kjv/kg2022.htm#004)<span id="iv.iv.xi-p62.7"></span>.md),
 because the authority of God was thereby professedly rejected.
 
 <span id="iv.iv.xi-p63"></span>24. Many wonder why God threatens so
@@ -1112,13 +1112,13 @@ to have been extraordinary and special. He, though a private man,
 offered sacrifice to God, and did it not without approbation, because he
 did it not from a rash movement of his own mind, but by divine
 inspiration (<span id="iv.iv.xi-p64.1"></span>[Judges
-13:19](../../../bib/kjv/jdg013.htm#019)<span
+13:19](../../../bib/kjv/jdg013.htm#019.md)<span
 id="iv.iv.xi-p64.1"></span>). How much God abominates all the devices of
 men in his worship, we have a striking proof in the case of one not
 inferior to Manoah—viz. Gideon, whose ephod brought ruin not only on
 himself and his family, but on the whole people (<span
 id="iv.iv.xi-p64.2"></span>[Judges
-8:27](../../../bib/kjv/jdg008.htm#027)<span
+8:27](../../../bib/kjv/jdg008.htm#027.md)<span
 id="iv.iv.xi-p64.2"></span>). In short, every adventitious invention, by
 which men desire to worship God, is nothing else than a pollution of
 true holiness.
@@ -1126,10 +1126,10 @@ true holiness.
 <span id="iv.iv.xi-p65"></span>26. Why then, they ask, did Christ say
 that the intolerable burdens, imposed by Scribes and Pharisees, were to
 be borne? (<span id="iv.iv.xi-p65.1"></span>[Mt.
-23:3](../../../bib/kjv/mat023.htm#003)<span id="iv.iv.xi-p65.1"></span>)
+23:3](../../../bib/kjv/mat023.htm#003)<span id="iv.iv.xi-p65.1"></span>.md)
 Nay, rather, why did he say in another place that we were to beware of
 the leaven of the Pharisees? (<span id="iv.iv.xi-p65.2"></span>[Mt.
-16:6](../../../bib/kjv/mat016.htm#006)<span id="iv.iv.xi-p65.2"></span>)
+16:6](../../../bib/kjv/mat016.htm#006)<span id="iv.iv.xi-p65.2"></span>.md)
 meaning by leaven, as the Evangelist Matthew explains it, whatever of
 human doctrine is mingled with the pure word of God. What can be plainer
 than that we are enjoined to shun and beware of their whole doctrine?
@@ -1175,7 +1175,7 @@ and without which concord can have no existence. Wherefore, if we would
 provide for the safety of the Church, we must always carefully attend to
 Paul’s injunction, that all things be done decently and in order (<span
 id="iv.iv.xi-p66.1"></span>[1 Cor.
-14:40](../../../bib/kjv/co1014.htm#040)<span
+14:40](../../../bib/kjv/co1014.htm#040.md)<span
 id="iv.iv.xi-p66.1"></span>). But seeing there is such diversity in the
 manners of men, such variety in their minds, such repugnance in their
 judgments and dispositions, no policy is sufficiently firm unless
@@ -1231,8 +1231,8 @@ consist in that nugatory pomp which gives nothing but evanescent
 splendour, but in that arrangement which removes all confusion,
 barbarism, contumacy, all turbulence and dissension. Of the former class
 we have examples (<span id="iv.iv.xi-p68.1"></span>[1 Cor.
-11:5](../../../bib/kjv/co1011.htm#005),
-[21](../../../bib/kjv/co1011.htm#021)<span id="iv.iv.xi-p68.1"></span>),
+11:5](../../../bib/kjv/co1011.htm#005.md),
+[21](../../../bib/kjv/co1011.htm#021)<span id="iv.iv.xi-p68.1"></span>.md),
 where Paul says, that profane entertainments must not be intermingled
 with the sacred Supper of the Lord; that women must not appear in public
 uncovered. And there are many other things which we have in daily
@@ -1356,14 +1356,14 @@ in themselves are not chargeable with any impiety.
 
 ### Footnotes
 
-<span id="fn_577"></span>[578](inst090.htm#fr_577) <span
+<span id="fn_577"></span>[578](inst090.htm#fr_577.md) <span
 id="iv.iv.xi-p38.1"></span>
 
 <span id="iv.iv.xi-p39"></span>64 564 French, “entre le siege judicial
 de Dieu, qui est spirituel, et la justice terrestre des hommes;”—between
 the judgment-seat of God and the terrestrial justice of men.
 
-<span id="fn_578"></span>[579](inst090.htm#fr_578) <span
+<span id="fn_578"></span>[579](inst090.htm#fr_578.md) <span
 id="iv.iv.xi-p41.1"></span>
 
 <span id="iv.iv.xi-p42"></span>65 565 French, “Et de fait, tel a eté le
@@ -1374,13 +1374,13 @@ the common distinction which has been held by all the schools, that
 human and civil jurisdictions are quite different from those which touch
 the conscience.
 
-<span id="fn_579"></span>[580](inst090.htm#fr_579) <span
+<span id="fn_579"></span>[580](inst090.htm#fr_579.md) <span
 id="iv.iv.xi-p53.1"></span>
 
 <span id="iv.iv.xi-p54"></span>66 566 Calvin on the Necessity of
 Reforming the Church.
 
-<span id="fn_580"></span>[581](inst090.htm#fr_580) <span
+<span id="fn_580"></span>[581](inst090.htm#fr_580.md) <span
 id="iv.iv.xi-p57.1"></span>
 
 <span id="iv.iv.xi-p58"></span>67 567 French, “Mais depuis sont survenus
@@ -1396,4 +1396,4 @@ Mass, with all the other garniture.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 11. - OF THE JURISDICTION OF THE CHURCH, AND THE ABUSES
-OF IT, AS EXEMPLIFIED IN THE PAPACY.](inst091)
+OF IT, AS EXEMPLIFIED IN THE PAPACY.](inst091.md)

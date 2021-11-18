@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil71)  [Next](seil73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil71)  [Next](seil73.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 ### OF THE MYSTERIES DONE FROM THE HOUSE OF HEROD TO THAT OF PILATE
 
-Matthew 26, <span id="fr_28"></span>[29](seil83.htm#fn_28) Luke 23, Mark
+Matthew 26, <span id="fr_28"></span>[29](seil83.htm#fn_28.md) Luke 23, Mark
 15, and John 19.
 
 **First Point.** First: Herod sends Him back to Pilate. By this they
@@ -35,4 +35,4 @@ Priests saw Him, they shouted, saying: "\`Crucify, crucify Him!'"
 
 ------------------------------------------------------------------------
 
-[Next: Mysteries Done from the House of Pilate to the Cross](seil73)
+[Next: Mysteries Done from the House of Pilate to the Cross](seil73.md)

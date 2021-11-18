@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm23)  [Next](bcm25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm23)  [Next](bcm25.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ be given in this place.
 The *Verus Jesuitarum Libellus*, or "True Magical Work of the Jesuits,
 containing most powerful conjurations for all evil spirits of whatever
 state, condition and office they are, and a most powerful and approved
-conjuration of the Spirit Uriel; <span id="fr_61"></span>[1](#fn_61) to
+conjuration of the Spirit Uriel; <span id="fr_61"></span>[1](#fn_61.md) to
 which is added Cyprian's Invocation of Angels, and his Conjuration of
 the Spirits guarding Hidden Treasures, together with a form for their
 dismissal,"--purports to have been published at Paris in the Latin
@@ -46,7 +46,7 @@ millions--the number is not specified and depends upon the cupidity of
 the operator--of the best Spanish gold; otherwise, says the Conjuration,
 I will condemn thy body (*sic*) and thy soul. In the second. formula,
 the spirit is cited by the knowledge and exorcising power of
-Agrippa, <span id="fr_62"></span>[1](#fn_62) which again puts a definite
+Agrippa, <span id="fr_62"></span>[1](#fn_62.md) which again puts a definite
 limit to the antiquity of the collection, were it otherwise necessary.
 The third Invocation is addressed to the spirit *Zayariel*, who is
 conjured by *Agla Scheffert* and the great *Jehova Podashocheia*. The
@@ -72,7 +72,7 @@ much more complete than the rest and has so much connection with the
 *Summum Bonum*, the desire of the eyes of all Ceremonial Magic, that it
 may be held necessary to give it. it is, however, an operation of
 Necromancy and will be found in its proper place in the Second
-Part. <span id="fr_63"></span>[1](#fn_63) The *Verus Jesuitarum
+Part. <span id="fr_63"></span>[1](#fn_63.md) The *Verus Jesuitarum
 Libellus* closes with a fuliginous conjuration of the entire hierarchy
 of Infernus, which continues for many pages and contains more
 unintelligible words than several combined Grimoires. In the absence of
@@ -101,17 +101,17 @@ command thee, O Spirit *Rumoar*, even by Lucifer, thy mighty sovereign."
 
 ### Footnotes
 
-<span id="fn_61"></span>[110:1](bcm24.htm#fr_61) The modern reprint of
+<span id="fn_61"></span>[110:1](bcm24.htm#fr_61.md) The modern reprint of
 Scheible reads *Usiel* throughout, as does also the MS. English
 translation. Supposing the latter to have followed the original edition,
 it would seem conclusive that the blunder--for such it evidently
 is--occurs also in that.
 
-<span id="fn_62"></span>[111:1](bcm24.htm#fr_62) Cornelius Agrippa died
+<span id="fn_62"></span>[111:1](bcm24.htm#fr_62.md) Cornelius Agrippa died
 in 1535
 
-<span id="fn_63"></span>[112:1](bcm24.htm#fr_63) Part II. c. 9.
+<span id="fn_63"></span>[112:1](bcm24.htm#fr_63.md) Part II. c. 9.
 
 ------------------------------------------------------------------------
 
-[Next: Section 6: The Black Pullet](bcm25)
+[Next: Section 6: The Black Pullet](bcm25.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth04)  [Next](oth06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth04)  [Next](oth06.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,4 +134,4 @@ or infinite, but has its limit.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](oth06)
+[Next: Chapter 6](oth06.md)

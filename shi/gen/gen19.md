@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -134,10 +134,10 @@ Daini-no-Naishi-no-Ske, Chiûjiô-no-Miôbu, and Hiôye-no-Miôbu took the
 right, on the side of the Kokiden.
 
 The first picture selected was the illustration of the " Bamboo
-Cutter," <span id="fr_125"></span>[1](#fn_124) by the left, as it was
+Cutter," <span id="fr_125"></span>[1](#fn_124.md) by the left, as it was
 the most appropriate to come first for the discussion of its merits, as
 being the parent of romance To compete with this, that of
-"Toshikagè," <span id="fr_126"></span>[2](#fn_125) from
+"Toshikagè," <span id="fr_126"></span>[2](#fn_125.md) from
 
 <span id="page_214">p. 214</span>
 
@@ -154,12 +154,12 @@ aside. When she made her appearance in this world she was, after all, a
 creature of bamboo; and, indeed, we may consider her even lower than
 ourselves. It may also be true that she threw a bright radiance over the
 inside of a cottage, but she never shone in the august society of a
-palace. Abe-no-ôshi's <span id="fr_127"></span>[3](#fn_126) spending
+palace. Abe-no-ôshi's <span id="fr_127"></span>[3](#fn_126.md) spending
 millions of money in order to get the so-called fire-proof rat, which,
 when obtained, was consumed in the flames in a moment, is simply
-ridiculous. Prince Kuramochi's <span id="fr_128"></span>[4](#fn_127)
+ridiculous. Prince Kuramochi's <span id="fr_128"></span>[4](#fn_127.md)
 pretended jewel branch was simply a delusion. Besides, this picture is
-by Kose-no-Ômi, with notes <span id="fr_129"></span>[5](#fn_128) by
+by Kose-no-Ômi, with notes <span id="fr_129"></span>[5](#fn_128.md) by
 Tsurayuki. These are not very uncommon. The paper is Kamiya, only
 covered with Chinese satin. The outer cover is reddish purple, and the
 centre stick is purple Azedarach. These are very common ornaments. Now
@@ -211,12 +211,12 @@ Then Daini-no-Naishi-no-Ske, of the right, replied,
     Beyond the star-bespangled sky;  
   Looks down with ease on depths that lie  
     A thousand fathoms ’neath his eye." <span
-id="fr_130"></span>[6](#fn_129)</span>
+id="fr_130"></span>[6](#fn_129.md)</span>
 
 </div>
 
 Upon this, the Empress-mother interceded. She said, that "The exalted
-nobility of Lord Hiôye <span id="fr_131"></span>[7](#fn_130) may not,
+nobility of Lord Hiôye <span id="fr_131"></span>[7](#fn_130.md) may not,
 indeed, be passed over without notice, yet the name of Narihira could
 not altogether be eclipsed by his.
 
@@ -404,7 +404,7 @@ this period.
 
 ### Footnotes
 
-<span id="fn_124"></span>[213:1](gen19.htm#fr_125) A short romance,
+<span id="fn_124"></span>[213:1](gen19.htm#fr_125.md) A short romance,
 supposed to be the oldest work of the kind ever written in Japan, as the
 authoress states. The story is, that once upon a time there was an aged
 man whose occupation was to cut bamboo. One day he found a knot in a
@@ -415,35 +415,35 @@ she refused to listen to their addresses, and kept her maiden reputation
 unsullied. Finally, in leaving this world, she ascended into the moon,
 from which she professed to have originally come down.
 
-<span id="fn_125"></span>[213:2](gen19.htm#fr_126) This is another old
+<span id="fn_125"></span>[213:2](gen19.htm#fr_126.md) This is another old
 romance, and Toshikagè is its principal hero. When twelve or thirteen
 years of age he was sent to China, but the ship in which he was, being
 driven by a hurricane to Persia, he met there with a mystic stranger,
 from whom he learned secrets of the "Kin;" from thence he reached China,
 and afterwards returned to Japan.
 
-<span id="fn_126"></span>[214:3](gen19.htm#fr_127) This man was one of
+<span id="fn_126"></span>[214:3](gen19.htm#fr_127.md) This man was one of
 the maiden's suitors. He was told by her that if he could get for her
 the skin of the fireproof rat she might possibly accept his hand. With
 this object he gave a vast sum of money to a Chinese merchant, who
 brought him what he professed to be the skin of the fire-proof rat, but
 when it was put to the test, it burnt away, and he lost his suit.
 
-<span id="fn_127"></span>[214:4](gen19.htm#fr_128) This Prince was
+<span id="fn_127"></span>[214:4](gen19.htm#fr_128.md) This Prince was
 another suitor of the maiden. His task was to find a sacred island
 called Hôrai, and to get a branch of a jewelled tree which grew in this
 island. He pretended to have embarked for this purpose, but really
 concealed himself in an obscure place. He had an artificial branch made
 by some goldsmith; but, of course, this deception was at once detected.
 
-<span id="fn_128"></span>[214:5](gen19.htm#fr_129) Japanese pictures
+<span id="fn_128"></span>[214:5](gen19.htm#fr_129.md) Japanese pictures
 usually have explanatory notes written on them.
 
-<span id="fn_129"></span>[215:6](gen19.htm#fr_130) It seems that this
+<span id="fn_129"></span>[215:6](gen19.htm#fr_130.md) It seems that this
 stanza alludes to some incident in the Shiô-Sammi, at the same time
 praising the picture.
 
-<span id="fn_130"></span>[215:7](gen19.htm#fr_131) This seems to be the
+<span id="fn_130"></span>[215:7](gen19.htm#fr_131.md) This seems to be the
 name of the hero in the story alluded to above.
 
  

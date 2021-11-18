@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs16)  [Next](sfs18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs16)  [Next](sfs18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ clothes-chest, adorned him with periwinkles, and performed the marriage
 ceremony that very evening. The other spinsters were somewhat mortified
 at Hanka's good fortune, but finally were content at it, hoping that
 they, too, would get rings on their fingers, <span
-id="fr_2"></span>[\*](#fn_2) now that the idle hand, as they nicknamed
+id="fr_2"></span>[\*](#fn_2.md) now that the idle hand, as they nicknamed
 Hanka, had obtained a husband. The next day our young bridegroom ordered
 his horses to be harnessed, and when all was ready, placed the tearful
 bride beside him in a handsome carriage, gave his hand to his
@@ -271,9 +271,9 @@ much in favour of the Slavonic tale.\]
 
 ### Footnotes
 
-<span id="fn_2"></span>[83:\*](sfs17.htm#fr_2) Literally, 'Would come
+<span id="fn_2"></span>[83:\*](sfs17.htm#fr_2.md) Literally, 'Would come
 under the garland.'
 
 ------------------------------------------------------------------------
 
-[Next: XIII. Are You Angry?](sfs18)
+[Next: XIII. Are You Angry?](sfs18.md)

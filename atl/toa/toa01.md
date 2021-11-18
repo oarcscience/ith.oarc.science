@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa00)  [Next](toa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa00)  [Next](toa02.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -41,8 +41,8 @@ Flower" at the same time.
 
 By the time the title had changed to All Around in December of 1915, the
 magazine was basically one of fantastic and swashbuckling adventure, and
-it is easy to believe that the [instantaneous](errata.htm#0) and
-startling success [achieved](errata.htm#1) by Edgar Rice Burroughs
+it is easy to believe that the [instantaneous](errata.htm#0.md) and
+startling success [achieved](errata.htm#1.md) by Edgar Rice Burroughs
 beginning in 1912 was influential in the pattern of stories adopted by
 the magazine. Indeed, Burroughs was represented in the February 1916
 issue with "Beyond Thirty," a fantastic which loomed as
@@ -91,6 +91,6 @@ it is' a fitting novel for the "Time-Lost" series.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](toa02)
+[Next: Contents](toa02.md)
 
 </div>

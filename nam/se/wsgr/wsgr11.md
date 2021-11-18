@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr10)  [Next](wsgr12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr10)  [Next](wsgr12.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ eyes, because he is still afraid a little bear is around.
 
 ------------------------------------------------------------------------
 
-[Next: Old Woolly Bird's Sacrifice](wsgr12)
+[Next: Old Woolly Bird's Sacrifice](wsgr12.md)

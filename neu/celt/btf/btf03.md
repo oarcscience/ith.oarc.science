@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf02)  [Next](btf04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf02)  [Next](btf04.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ Dedication
 
 ------------------------------------------------------------------------
 
-[Next: The Tailor and the Three Beasts ](btf04)
+[Next: The Tailor and the Three Beasts ](btf04.md)

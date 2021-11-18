@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd14)  [Next](odd16) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd14)  [Next](odd16.md) 
 
 ------------------------------------------------------------------------
 
 # XI.
 
-# SINGH RAJAH  <span id="fr_58"></span>[1](#fn_58) AND THE CUNNING LITTLE JACKALS
+# SINGH RAJAH  <span id="fr_58"></span>[1](#fn_58.md) AND THE CUNNING LITTLE JACKALS
 
 <span id="img_25"></span> ![](img/25.jpg)
 
@@ -74,17 +74,17 @@ round and round the well, singing, 'Ao! Ao! Ao! Ao! The King of the
 Forest is dead, is dead We have killed the great Lion who would have
 killed us! Ao! Ao! Ao! Ao! Ring-a-ting--ding-a-ting!
 Ring-a-ting--ding-a-ting! Ao! Ao l Ao!' <span
-id="fr_59"></span>[2](#fn_59)
+id="fr_59"></span>[2](#fn_59.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_58"></span>[1](odd15.htm#fr_58) Lion King.
+<span id="fn_58"></span>[1](odd15.htm#fr_58.md) Lion King.
 
-<span id="fn_59"></span>[2](odd15.htm#fr_59) See Notes.
+<span id="fn_59"></span>[2](odd15.htm#fr_59.md) See Notes.
 
 ------------------------------------------------------------------------
 
 [Next: XII. The Jackal, the Barber, and the Brahman who had seven
-daughters](odd16)
+daughters](odd16.md)

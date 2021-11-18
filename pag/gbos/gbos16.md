@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos15)  [Next](gbos17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos15)  [Next](gbos17.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ What of the Church's charge that they wore girdles or cords?
 
 ------------------------------------------------------------------------
 
-[Next: The Eightfold Way](gbos17)
+[Next: The Eightfold Way](gbos17.md)

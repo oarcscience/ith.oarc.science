@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf39) [Next](bulf41) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf39) [Next](bulf41.md) 
 
 # CHAPTER XLI.
 
@@ -301,4 +301,4 @@ Iona with the cave of Staffa, opposite:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XLII. Beowulf.](bulf41)
+Next: [CHAPTER XLII. Beowulf.](bulf41.md)

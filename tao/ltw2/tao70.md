@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao70)   
-[Previous](tao69)  [Next](tao71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao70.md)   
+[Previous](tao69)  [Next](tao71.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ poor people but keeps TAO, like a gem hidden in his bosom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 71](tao71)
+[Next: Chapter 71](tao71.md)

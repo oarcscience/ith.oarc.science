@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn43)  [Next](rmn45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn43)  [Next](rmn45.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ preserved.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XLIV: Spinthria](rmn45)
+[Next: Plate XLIV: Spinthria](rmn45.md)

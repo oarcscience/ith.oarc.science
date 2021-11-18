@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha05)  [Next](sha07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha05)  [Next](sha07.md) 
 
 ------------------------------------------------------------------------
 
@@ -460,4 +460,4 @@ The light words I uttered were spoken in jest.
 
 ------------------------------------------------------------------------
 
-[Next: Act III. The Love-Making](sha07)
+[Next: Act III. The Love-Making](sha07.md)

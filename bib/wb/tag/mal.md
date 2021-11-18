@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](zac)  [Next](mat) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](zac)  [Next](mat.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ magulang; baka ako'y dumating at saktan ko ang lupa ng sumpa.
 
 ------------------------------------------------------------------------
 
-[Next: Matthew](mat)
+[Next: Matthew](mat.md)

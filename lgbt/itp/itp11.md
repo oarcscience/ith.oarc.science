@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](itp10)  [Next](itp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](itp10)  [Next](itp12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO6SI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ ruled with great severity. The bulk of the common people were divided
 into three classes: farmers, artisans, and merchants."
 
 In the book, *Bushido, the Soul of Japan*, <span
-id="fr_93"></span>[1](#fn_93) by Inazo Nitobe, which during the last ten
+id="fr_93"></span>[1](#fn_93.md) by Inazo Nitobe, which during the last ten
 years has had a large circulation, an interesting account is given of
 the moral and social ideal of these Samurai. The author explains that
 Bu-shi or Bu-ké means *Fighting Knight*; and so Bushido means literally
@@ -138,7 +138,7 @@ us of the Constitution of Arcadia, which required all youths under
 thirty to practise music, in order that this gentle art might alleviate
 the rigors of the inclement region. It is to its influence that he
 attributes the absence of cruelty in that part of the Arcadian
-mountains." <span id="fr_94"></span>[1](#fn_94)
+mountains." <span id="fr_94"></span>[1](#fn_94.md)
 
 In this connection it may be mentioned that Mr. Lowes Dickinson, in a
 letter from Japan (*Manchester Guardian*, 12th Sept., 1913), insists
@@ -185,7 +185,7 @@ the theatres, the story-tellers' booths, the preachers' dais, the
 musical recitations, the novels--have taken for their chief theme the
 stories of the Samurai. The peasants round the open fire in their huts
 never tire of repeating the achievements of Yoshitsune <span
-id="fr_95"></span>[1](#fn_95) and his faithful retainer Benkei, or of
+id="fr_95"></span>[1](#fn_95.md) and his faithful retainer Benkei, or of
 the two brave Soga brothers; the dusky urchins listen with gaping mouths
 until the last stick burns out and the fire dies in its embers, still
 leaving their hearts aglow with the tale that is told. . . Samurai grew
@@ -195,7 +195,7 @@ pursuits the military class itself did not aid commerce; but there was
 no channel of human activity, no avenue of thought, which did not
 receive in some measure an impetus from Bushido. Intellectual and moral
 Japan was directly or indirectly the work of knighthood." <span
-id="fr_96"></span>[2](#fn_96)
+id="fr_96"></span>[2](#fn_96.md)
 
 There is only one fault to be found with this
 
@@ -259,7 +259,7 @@ storytellers themselves--as I shall do presently--to show the matter in
 its true light.
 
 Mr. Suyewo-Iwaya, of Tokio, in an article on *Comrade-Love in Japan*,
-says <span id="fr_97"></span>[1](#fn_97):--"From 1200 A.D. onwards the
+says <span id="fr_97"></span>[1](#fn_97.md):--"From 1200 A.D. onwards the
 Samurai became prominent in Japan. To them it seemed more manly and
 heroic that men should love men and consort with them, than to give
 themselves over to women. For several centuries this view had sway far
@@ -299,7 +299,7 @@ Kawamura, and Oyama,
 and Admirals Togo and Yamamoto. Mr. Suweyo Iwaya says (Ibid., pp. 467,
 468) that the knightlings (corresponding to the Dorian *eromenoi*) were
 called *Kosho*, and Dr. Karsch-Haack, <span
-id="fr_98"></span>[1](#fn_98) drawing his information partly from Iwaya
+id="fr_98"></span>[1](#fn_98.md) drawing his information partly from Iwaya
 and partly from other sources, says that "the Samurai, including the
 military and nobility, in the feudal period from the 12th century
 onwards, were reckoned the first and most honorable class in Japan, and
@@ -334,7 +334,7 @@ produce manliness and efficiency in the population; but he says that
 until it was abolished in 1868--a law which considerably limited normal
 intercourse between man and woman, imposing the death penalty on any
 young man under thirty who had dealings of sexual nature with a
-woman. <span id="fr_99"></span>[1](#fn_99) This law arose out of the
+woman. <span id="fr_99"></span>[1](#fn_99.md) This law arose out of the
 circumstance that the population of Satsuma was of a very warlike breed,
 and as generally ten to twenty thousand men would be absent from home on
 military campaigns, they would naturally be in continual anxiety about
@@ -359,7 +359,7 @@ learns of this, he throws himself on the enemy and dies a hero's death.
 The story ends with the remark: "Hirata's death was the simple result of
 his heartfelt devotion to Yoshida, and his self-forgetting friendship
 compelled him to this tragic end. But such blossoms of knightly courage
-in the feudal times are [familiar](errata.htm#0) to all, and we know how
+in the feudal times are [familiar](errata.htm#0.md) to all, and we know how
 much this sort of love-intimacy was prized, and what tears this manner
 of dying elicited."
 
@@ -373,7 +373,7 @@ age, and in the service or retinue of the lord Funakawa, falls
 desperately in love with Ukyo, a youth of sixteen, also a Samurai, and
 in the retinue of another lord, Sakuragawa. Ukyo is wonderfully
 beautiful, well-formed, and well-mannered, but Unemé finds no
-[opportunity](errata.htm#1) to approach him or to confess his passion. A
+[opportunity](errata.htm#1.md) to approach him or to confess his passion. A
 chance meeting only makes matters worse. "Tortured by unsatisfied
 longing he falls into a sheer love-sickness. To impart his secret to
 anyone he does not dare. Even his doctor fails to fathom the cause of
@@ -456,7 +456,7 @@ that--"Pornography was by no means the purpose of his literary activity,
 but rather an untampered reproduction of real life, to which, of course,
 a poetical side may always be found. His works are wanting neither in
 charming freshness, nor in deep feeling, nor in poetic beauty." <span
-id="fr_100"></span>[1](#fn_100) Saikaku describes, in one place, the
+id="fr_100"></span>[1](#fn_100.md) Saikaku describes, in one place, the
 loves of the young Okura and the eighteen-year-old Geki--both sons of
 Shinto priests. "For two years this comrade-alliance lasted, and during
 this
@@ -547,7 +547,7 @@ Maruo the two become close friends. They unite their lives, and one
 night the spirit of Maruo appears to the two sleepers and blesses their
 union.
 
-Dr. Haack rightly says, <span id="fr_101"></span>[1](#fn_101) with
+Dr. Haack rightly says, <span id="fr_101"></span>[1](#fn_101.md) with
 regard to this and the other works of Saikaku:--"How is it possible to
 justify the complete neglect of this literature? Saikaku's work does not
 only belong to the history of literature generally, but is also a mine
@@ -564,7 +564,7 @@ profound influence and result in sealing and confirming the lofty
 standard of honour represented by Bushido.
 
 Dr. Friedrich Kraus, in his book on Japan, <span
-id="fr_102"></span>[2](#fn_102)
+id="fr_102"></span>[2](#fn_102.md)
 
 <span id="page_160">p. 160</span>
 
@@ -577,7 +577,7 @@ for the sake of a loved friend.
 
 I may say that a friend of my own who took part in the same war confirms
 this view, and Karsch-Haack says <span
-id="fr_103"></span>[1](#fn_103):--"If it is true, as eye-witnesses of
+id="fr_103"></span>[1](#fn_103.md):--"If it is true, as eye-witnesses of
 the campaign have declared, that comrade-love is still--as a legacy from
 the Samurai--much favored in both the Japanese army and navy, and that
 it has contributed not a little to the marvelous results of their late
@@ -589,12 +589,12 @@ stand in the way of the same."
 
 ### Footnotes
 
-<span id="fn_93"></span>[139:1](itp11.htm#fr_93) Simpkin and Marshall,
+<span id="fn_93"></span>[139:1](itp11.htm#fr_93.md) Simpkin and Marshall,
 2/6.
 
-<span id="fn_94"></span>[142:1](itp11.htm#fr_94) *Bushido*, p. 26.
+<span id="fn_94"></span>[142:1](itp11.htm#fr_94.md) *Bushido*, p. 26.
 
-<span id="fn_95"></span>[144:1](itp11.htm#fr_95) Yoshitsuné was brother
+<span id="fn_95"></span>[144:1](itp11.htm#fr_95.md) Yoshitsuné was brother
 to Yoritomo (above mentioned), who was one of the first and most
 renowned of the Samurai. Yoshitsuné and his retainer Benkei were
 inseparable, and together they performed such feats of heroism that
@@ -603,29 +603,29 @@ land. Adopting many disguises and in constant peril of their lives they
 wandered far and passed through many adventures, till at last they died
 together in a wild country in the North of Japan.
 
-<span id="fn_96"></span>[144:2](itp11.htm#fr_96) *Bushido*, pp. 107,
+<span id="fn_96"></span>[144:2](itp11.htm#fr_96.md) *Bushido*, pp. 107,
 108.
 
-<span id="fn_97"></span>[147:1](itp11.htm#fr_97) In the *Jahrbuch für
+<span id="fn_97"></span>[147:1](itp11.htm#fr_97.md) In the *Jahrbuch für
 homosexuelle Zwischenstufen*, Vol. iv. (1902), p. 265 *et seq*.
 
-<span id="fn_98"></span>[149:1](itp11.htm#fr_98) *Forschungen ueber
+<span id="fn_98"></span>[149:1](itp11.htm#fr_98.md) *Forschungen ueber
 gleichgeschlechtliche Liebe* (Munich, 1906), p. 79.
 
-<span id="fn_99"></span>[150:1](itp11.htm#fr_99) The explanation is
+<span id="fn_99"></span>[150:1](itp11.htm#fr_99.md) The explanation is
 reported by Dr. Karsch-Haack as having been verbally given to him by a
 commercial man residing in Japan.
 
-<span id="fn_100"></span>[155:1](itp11.htm#fr_100) Karsch-Haack, *op.
+<span id="fn_100"></span>[155:1](itp11.htm#fr_100.md) Karsch-Haack, *op.
 cit.*, p. 115.
 
-<span id="fn_101"></span>[159:1](itp11.htm#fr_101) *Op. cit.*, p. 117.
+<span id="fn_101"></span>[159:1](itp11.htm#fr_101.md) *Op. cit.*, p. 117.
 
-<span id="fn_102"></span>[159:2](itp11.htm#fr_102) *Das Geschlechtsleben
+<span id="fn_102"></span>[159:2](itp11.htm#fr_102.md) *Das Geschlechtsleben
 der Japaner* (Leipzig, 1911).
 
-<span id="fn_103"></span>[160:1](itp11.htm#fr_103) *Op. cit.*, p. 121.
+<span id="fn_103"></span>[160:1](itp11.htm#fr_103.md) *Op. cit.*, p. 121.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](itp12)
+[Next: Conclusion](itp12.md)

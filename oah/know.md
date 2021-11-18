@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [Oahspe](index)
+[Intangible Textual Heritage](../index)  [Oahspe](index.md)
 
 ------------------------------------------------------------------------
 

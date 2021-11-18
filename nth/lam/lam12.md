@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam11)  [Next](lam13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam11)  [Next](lam13.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ Personality is the mask which he wears.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Reality](lam13)
+[Next: XI. Reality](lam13.md)

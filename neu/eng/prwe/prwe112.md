@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe111)  [Next](prwe113) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe111)  [Next](prwe113.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ declared that the self-murderer "walks the earth."
 
 ------------------------------------------------------------------------
 
-[Next: The Suicide's Ghost](prwe113)
+[Next: The Suicide's Ghost](prwe113.md)

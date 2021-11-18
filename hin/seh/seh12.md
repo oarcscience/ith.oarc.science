@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh11)  [Next](seh13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh11)  [Next](seh13.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,7 +109,7 @@ images first set up for worship?
 The name Saraswati occurs in the Vedas themselves, and we can gather its
 primitive significance from the fact that it was applied to that river
 on whose banks were performed all the holiest sacrifices. The word is a
-[synonym](errata.htm#1) also for Savitri, which is one of the names of
+[synonym](errata.htm#1.md) also for Savitri, which is one of the names of
 the Gayatri, or national prayer. So that in a very special sense it is
 said by Hindus of this, their Divine Wisdom, that she is the eternal
 consort of the Creator, and sprang, full-grown, from the countenance of
@@ -213,4 +213,4 @@ abide with us!"
 
 ------------------------------------------------------------------------
 
-[Next: The Durga Puja](seh13)
+[Next: The Durga Puja](seh13.md)

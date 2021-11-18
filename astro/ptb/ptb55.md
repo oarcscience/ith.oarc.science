@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb54)  [Next](ptb56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb54)  [Next](ptb56.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ governance of the ruling places. And the method now about to be laid
 down seems, of all others, the most consonant with reason, and with
 nature: because the influence of the prorogatory places, as well as of
 the rulers of those places, and the disposal of the anæretic <span
-id="fr_153"></span>[1](#fn_153) places or stars, perform the whole
+id="fr_153"></span>[1](#fn_153.md) places or stars, perform the whole
 operation of regulating the duration of life. Each of these influences
 is to be distinguished in the mode pointed out in the chapters
 immediately ensuing.
@@ -31,10 +31,10 @@ immediately ensuing.
 
 ### Footnotes
 
-<span id="fn_153"></span>[88:1](ptb55.htm#fr_153) The epithet *anæretic*
+<span id="fn_153"></span>[88:1](ptb55.htm#fr_153.md) The epithet *anæretic*
 is a term of art, adopted from the Greek, signifying fatal, or
 destructive.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Prorogatory Places](ptb56)
+[Next: Chapter XII. The Prorogatory Places](ptb56.md)

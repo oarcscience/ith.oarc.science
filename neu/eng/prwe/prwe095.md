@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe094)  [Next](prwe096) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe094)  [Next](prwe096.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ of May and those of Midsummer have a similar origin?
 
 ------------------------------------------------------------------------
 
-[Next: The Garrack Zans, or Holy Rock](prwe096)
+[Next: The Garrack Zans, or Holy Rock](prwe096.md)

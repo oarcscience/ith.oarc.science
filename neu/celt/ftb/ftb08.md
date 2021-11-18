@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb07)  [Next](ftb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb07)  [Next](ftb09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -24,20 +24,20 @@ Textual Heritage
 
 <span id="img_07200"></span> <span align="CENTER"> [![Milk flowed like
 water of a spring](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)  
+Click to enlarge](img/07200.jpg.md)  
 Milk flowed like water of a spring  
 </span>
 
 <span id="page_73">p. 73</span>
 
 <span id="img_07300"></span> ![Little White-Thorn and the Talking
-Bird](img/07300.jpg)
+Bird](img/07300.jpg.md)
 
 <span id="img_07301"></span>
 
 |                     |
 |---------------------|
-| ![L](img/07301.jpg) |
+| ![L](img/07301.jpg.md) |
 
 ONG ago when the oak trees used in building the oldest boat at Brest
 were but acorns, there lived a poor widow whose name was Ninor. Her
@@ -366,4 +366,4 @@ the poor.
 
 ------------------------------------------------------------------------
 
-[Next: Princess Ahez and the Lost City](ftb09)
+[Next: Princess Ahez and the Lost City](ftb09.md)

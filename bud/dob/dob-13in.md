@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-12tx) [Next](dob-13tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-12tx) [Next](dob-13tx.md)
 
 ------------------------------------------------------------------------
 
@@ -85,8 +85,8 @@ Appendix viii.
 2\. In the well-known story of the Bodhisattva giving his body to feed a
 tigress (No. 1, verse 12).
 
-3\. See the remarks above on [p. 206](dob-08in).}
+3\. See the remarks above on [p. 206](dob-08in.md).}
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: XIII. Tevi*gg*a Sutta](dob-13tx)
+[Return to top](#top)   [Next: XIII. Tevi*gg*a Sutta](dob-13tx.md)

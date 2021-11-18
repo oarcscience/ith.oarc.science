@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass30)  [Next](nass32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass30)  [Next](nass32.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ teeth, they devour them.
 
 ------------------------------------------------------------------------
 
-[Next: The Stars](nass32)
+[Next: The Stars](nass32.md)

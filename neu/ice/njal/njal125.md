@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal124)  [Next](njal126) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal124)  [Next](njal126.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ that is, about three o'clock when one of the church services took place.
 
 ------------------------------------------------------------------------
 
-[Next: 126. Of Portents At Bergthorsknoll](njal126)
+[Next: 126. Of Portents At Bergthorsknoll](njal126.md)

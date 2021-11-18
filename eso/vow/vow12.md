@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow11)  [Next](vow13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow11)  [Next](vow13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ not the place to treat such a question, but because he is perceptible to
 the senses. Having then produced this unique Being who holds the first
 rank among creatures and the second after Himself, He found His
 offspring beautiful and filled with all manner of good, and He loved it
-as His own child. <span id="fr_33"></span>[1](#fn_33) He willed, then,
+as His own child. <span id="fr_33"></span>[1](#fn_33.md) He willed, then,
 that another should be able to contemplate this Being so great and so
 perfect whom He had drawn forth from Himself, and to this end He created
 man, endowed with reason and intelligence.
@@ -77,10 +77,10 @@ beginning He knew what should be and what should please Him.
 
 ### Footnotes
 
-<span id="fn_33"></span>[54:1](vow12.htm#fr_33) This "second God" is the
+<span id="fn_33"></span>[54:1](vow12.htm#fr_33.md) This "second God" is the
 Visible Universe, which in most Hermetic writings is spoken of as the
 "Son of God"--"the word made flesh."
 
 ------------------------------------------------------------------------
 
-[Next: Part V](vow13)
+[Next: Part V](vow13.md)

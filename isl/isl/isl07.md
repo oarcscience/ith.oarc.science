@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl06)  [Next](isl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl06)  [Next](isl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ and is merciful; He teaches and guides them, but if they disbelieve He
 well as those who seek to preserve man's free will have each been able
 to find support in the Qur’ān for their views. While God has personal
 qualities, no Muslim would refer to Him as personal (*shakhsī*). <span
-id="fr_3"></span>[4](#fn_3)
+id="fr_3"></span>[4](#fn_3.md)
 
 Man is invited to believe, but in the end God is unknowable, except
 insofar as He has chosen to reveal Himself; the way to Him lies through
@@ -155,9 +155,9 @@ The eyes attain Him not, but He attains the eyes;
 
 ### Footnotes
 
-<span id="fn_3"></span>[43:4](isl07.htm#fr_3) Louis Gardet, "Allah,"
+<span id="fn_3"></span>[43:4](isl07.htm#fr_3.md) Louis Gardet, "Allah,"
 *Encyclopedia of Islam* (2nd ed.).
 
 ------------------------------------------------------------------------
 
-[Next: 4. He Commands](isl08)
+[Next: 4. He Commands](isl08.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[2 Corinthians](co2)  [Ephesians](eph)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[2 Corinthians](co2)  [Ephesians](eph.md)
 
 ------------------------------------------------------------------------
 
@@ -9,14 +9,14 @@
 
 ------------------------------------------------------------------------
 
-[Galatians 1](gal001)  
+[Galatians 1](gal001.md)  
 
-[Galatians 2](gal002)  
+[Galatians 2](gal002.md)  
 
-[Galatians 3](gal003)  
+[Galatians 3](gal003.md)  
 
-[Galatians 4](gal004)  
+[Galatians 4](gal004.md)  
 
-[Galatians 5](gal005)  
+[Galatians 5](gal005.md)  
 
-[Galatians 6](gal006)  
+[Galatians 6](gal006.md)  

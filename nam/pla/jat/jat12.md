@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat11)  [Next](jat13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat11)  [Next](jat13.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Pueblo Indians scrape this off and use it for their medicine also.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Origin of Sheep and Cattle](jat13)
+[Next: 11. The Origin of Sheep and Cattle](jat13.md)

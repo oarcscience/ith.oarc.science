@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw09)  [Next](tfgw11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw09)  [Next](tfgw11.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ Tom Connors and the Dead Girl
 
 ------------------------------------------------------------------------
 
-[Next: The Farmer of Tralee and the Fairy Cows](tfgw11)
+[Next: The Farmer of Tralee and the Fairy Cows](tfgw11.md)

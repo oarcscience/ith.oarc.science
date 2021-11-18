@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal129)  [Next](njal131) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal129)  [Next](njal131.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ was at home the whole winter till Yule was over.
 
 ------------------------------------------------------------------------
 
-[Next: 131. Njal's And Bergthora's Bones Found](njal131)
+[Next: 131. Njal's And Bergthora's Bones Found](njal131.md)

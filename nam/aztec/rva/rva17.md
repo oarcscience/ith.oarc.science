@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva16)  [Next](rva18) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva16)  [Next](rva18.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XVII. Totochtin incuic Tezcatzoncatl.
 
-[English](#english)
+[English](#english.md)
 
 ![](rva03.jpg)
 
@@ -73,4 +73,4 @@ to Hymn XIII.)
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. Hymn to the Master of Waters.](rva18) 
+[Next: XVIII. Hymn to the Master of Waters.](rva18.md) 

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml23)  [Next](iml25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml23)  [Next](iml25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ and took up water and sprinkled it in the name of each dead hero.
 Yudhishthira poured out the oblation for Karna, his brother, and he gave
 great gifts to his widows and his children. Thereafter all the remaining
 bodies of the slain were burned on the battlefield. <span
-id="fr_285"></span>[1](#fn_284)
+id="fr_285"></span>[1](#fn_284.md)
 
 Yudhishthira was proclaimed rajah in the city of Hastinapur, and he wore
 the great jewel in his crown. A great sacrifice was offered up, and
@@ -121,7 +121,7 @@ let loose, and was allowed to wander wheresoever it desired. A great
 army, which was led by Arjuna, followed the horse.
 
 Now it was the custom in those days that when the sacred horse entered a
-raj <span id="fr_286"></span>[1](#fn_285), that raj was proclaimed to be
+raj <span id="fr_286"></span>[1](#fn_285.md), that raj was proclaimed to be
 subject to the king who performed the ceremony. And if any ruler
 detained the horse, he was compelled to fight with the army which
 followed the wandering animal. Should he be overcome in battle, the
@@ -130,7 +130,7 @@ and followed the horse from kingdom to kingdom. For a whole year the
 animal was allowed to wander thus.
 
 The horse was let loose on the night of full moon in the month of
-Choitro. <span id="fr_287"></span>[2](#fn_286)
+Choitro. <span id="fr_287"></span>[2](#fn_286.md)
 
 Arjuna met with many adventures. He fought against a rajah and the son
 of a rajah, who had a thousand wives in the country of Malwa, and
@@ -170,7 +170,7 @@ Pandava hero. But Arjuna spurned him, saying: "If I were thy sire, thou
 wouldst have no fear of me."
 
 Then the rajah challenged Arjuna to battle, and was victorious on that
-day. <span id="fr_288"></span>[1](#fn_287) He took all the great men
+day. <span id="fr_288"></span>[1](#fn_287.md) He took all the great men
 prisoners, and he severed Arjuna's head from his body with a
 crescent-bladed arrow. The rajah's mother, Chitrangada, was stricken
 with sorrow, as was also Ulupi, the daughter of Vasuka, the king of
@@ -229,7 +229,7 @@ mantras. Then a golden altar was erected with four broad layers of
 golden bricks, and stakes of sacred wood from the forest and from
 Himalaya, and it was canopied and winged with gold-brocaded silk.
 
-Then eight pits were dug for Homa <span id="fr_289"></span>[1](#fn_288)
+Then eight pits were dug for Homa <span id="fr_289"></span>[1](#fn_288.md)
 of milk and butter to be made ready for the sacrificial fire, and in
 skins were wrapped up portions of every kind of vegetable and curative
 herb which grew in the kingdom, and these were placed in the Homa pits.
@@ -275,7 +275,7 @@ reveal?"
 
 Said Nákula: "Thus speaketh the horse--'In other such ceremonies the
 horse which is sacrificed departs unto Swarga <span
-id="fr_290"></span>[1](#fn_289), but I shall rise far above Swarga,
+id="fr_290"></span>[1](#fn_289.md), but I shall rise far above Swarga,
 because that Krishna is here'."
 
 Then Dhaumya, having washed the horse, gave a scimitar to Bhima with
@@ -397,7 +397,7 @@ Asura,
 
 [![THE RETURN OF THE HEROES SLAIN IN BATTLE&lt;br&gt; &lt;i&gt;From the
 painting by Warwick Goble&lt;/i&gt;.](tn/32000.jpg)  
-Click to enlarge](img/32000.jpg)  
+Click to enlarge](img/32000.jpg.md)  
 THE RETURN OF THE HEROES SLAIN IN BATTLE  
 *From the painting by Warwick Goble*.  
 
@@ -465,7 +465,7 @@ Then the night was haunted by a black woman with yellow teeth who
 grinned horribly at house doors. All the inhabitants of the city were
 stricken with terror. . . . Evil spirits came also and robbed the jewels
 of the women and the weapons of the men. . . . At length the
-chakra <span id="fr_291"></span>[1](#fn_290) of Krishna went up to
+chakra <span id="fr_291"></span>[1](#fn_290.md) of Krishna went up to
 heaven, and his chariot and horses followed it. . . . The end of the
 Yádavas was not afar off, and the day came when Apsaras called out of
 heaven: "Depart from hence," and all the people heard them.
@@ -650,26 +650,26 @@ Thus ends sublimely the story of the Great War of the Bharatas.
 
 ### Footnotes
 
-<span id="fn_284"></span>[312:1](iml24.htm#fr_285) No widows were burned
+<span id="fn_284"></span>[312:1](iml24.htm#fr_285.md) No widows were burned
 with their husbands, for the Satí (or Suttee) ceremony had not yet
 become general in India; nor did the Brahmans officiate at the pyres.
 
-<span id="fn_285"></span>[313:1](iml24.htm#fr_286) Royal territory.
+<span id="fn_285"></span>[313:1](iml24.htm#fr_286.md) Royal territory.
 
-<span id="fn_286"></span>[313:2](iml24.htm#fr_287) The Easter full moon.
+<span id="fn_286"></span>[313:2](iml24.htm#fr_287.md) The Easter full moon.
 
-<span id="fn_287"></span>[314:1](iml24.htm#fr_288) Here we meet with the
+<span id="fn_287"></span>[314:1](iml24.htm#fr_288.md) Here we meet with the
 familiar father-and-son-combat theme of which the stories of the Persian
 Sohrab and Rustem, the Germanic Hildebrand and Hadubrand, and the Celtic
 Cuchullin and Conlaoch are representative variants. Arjuna had effected
 a temporary exogamous marriage according to matriarchal customs.
 
-<span id="fn_288"></span>[316:1](iml24.htm#fr_289) Offerings.
+<span id="fn_288"></span>[316:1](iml24.htm#fr_289.md) Offerings.
 
-<span id="fn_289"></span>[317:1](iml24.htm#fr_290) Indra's heaven.
+<span id="fn_289"></span>[317:1](iml24.htm#fr_290.md) Indra's heaven.
 
-<span id="fn_290"></span>[322:1](iml24.htm#fr_291) Celestial weapon.
+<span id="fn_290"></span>[322:1](iml24.htm#fr_291.md) Celestial weapon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Nala and Damayantí](iml25)
+[Next: Chapter XX. Nala and Damayantí](iml25.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](edu02)  [Next](edu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](edu02)  [Next](edu04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -100,7 +100,7 @@ holiday cooked food for Sabbath; (*b*) to put
 
 <span id="page_14">p. 14</span>
 
-together the parts of a chandelier on a [holiday](errata.htm#50), and
+together the parts of a chandelier on a [holiday](errata.htm#50.md), and
 (*c*) to bake (on a holiday) big loaves of bread, but only small ones.
 He said: During all the time they were baking in my father's house only
 thin loaves, and he was answered: We can make no conclusion from your
@@ -124,4 +124,4 @@ Tract Beitzah.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](edu04)
+[Next: Chapter IV](edu04.md)

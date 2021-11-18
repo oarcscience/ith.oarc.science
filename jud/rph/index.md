@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ comes to the conclusion that the doctrines of the Kabbalah had their
 origin during the Babylonian exile circa 500 B.C.E., which was also the
 time when Zoroaster was active in the same geographical region. This
 thesis is worth considering, and potentially adds more weight to the
-already numerous contributions of [Zoroastrianism](../../zor/index) to
+already numerous contributions of [Zoroastrianism](../../zor/index.md) to
 world culture.
 
 --John Bruno Hare
@@ -48,60 +48,60 @@ world culture.
 PRODUCTION NOTES: This text has extensive quotes in Hebrew and Greek.
 Viewing the Hebrew and Greek text requires that your browser be set up
 correctly to view Unicode: for more information, please refer to [the
-Unicode instruction page](../../unicode). In particular, please follow
+Unicode instruction page](../../unicode.md). In particular, please follow
 the instructions on that page before firing off an email to me that the
 file is defective: it isn't, if you can't see the Hebrew or Greek text,
 *the problem is your browser*.
 
 ------------------------------------------------------------------------
 
-[Title Page](rph00)  
-[Dedication Page](rph01)  
-[Errata](rph02)  
-[Diagram of the Sephiroth](rph03)  
-[Summary of Contents](rph04)  
-[Preface to the English Translation](rph05)  
-[Preface to the German Translation of the First French Edition](rph06)  
-[Foreword to the Second French Edition](rph07)  
-[Preface of the Author](rph08)  
-[Introduction](rph09)  
+[Title Page](rph00.md)  
+[Dedication Page](rph01.md)  
+[Errata](rph02.md)  
+[Diagram of the Sephiroth](rph03.md)  
+[Summary of Contents](rph04.md)  
+[Preface to the English Translation](rph05.md)  
+[Preface to the German Translation of the First French Edition](rph06.md)  
+[Foreword to the Second French Edition](rph07.md)  
+[Preface of the Author](rph08.md)  
+[Introduction](rph09.md)  
 <span id="section_000"></span>
 
 ### Part One
 
-[Chapter I. The Antiquity of the Kabbalah](rph10)  
+[Chapter I. The Antiquity of the Kabbalah](rph10.md)  
 [Chapter II. The Kabbalistic Books. Authenticity of the Sefer
-Yetzirah](rph11)  
-[Chapter III. The Authenticity of the Zohar](rph12)  
+Yetzirah](rph11.md)  
+[Chapter III. The Authenticity of the Zohar](rph12.md)  
 <span id="section_001"></span>
 
 ### Part Two
 
 [Chapter I. The Doctrine Contained in the Kabbalistic Books. Analysis of
-the Sefer Yetzirah](rph13)  
+the Sefer Yetzirah](rph13.md)  
 [Chapter II. Analysis of the Zohar. Allegorical Method Of The
-Kabbalists](rph14)  
+Kabbalists](rph14.md)  
 [Chapter III. Analysis of the Zohar. The Kabbalists' Conception of the
-Nature of God](rph15)  
+Nature of God](rph15.md)  
 [Chapter IV. Analysis of the Zohar. The Kabbalists' View Of The
-World](rph16)  
+World](rph16.md)  
 [Chapter V. Analysis of the Zohar. View of the Kabbalists on the Human
-Soul](rph17)  
+Soul](rph17.md)  
 <span id="section_002"></span>
 
 ### Part Three
 
 [Chapter I. Systems Which Offer Some Resemblance to the Kabbalah.
-Relation of the Kabbalah to the Philosophy of Plato](rph18)  
+Relation of the Kabbalah to the Philosophy of Plato](rph18.md)  
 [Chapter II. Relation of the Kabbalah to the Alexandrian
-School](rph19)  
+School](rph19.md)  
 [Chapter III. Relation of the Kabbalah to the Doctrine of
-Philo](rph20)  
-[Chapter IV. Relation of the Kabbalah to Christianity](rph21)  
+Philo](rph20.md)  
+[Chapter IV. Relation of the Kabbalah to Christianity](rph21.md)  
 [Chapter V. Relation of the Kabbalah to the Religion of the Chaldeans
-and Persians](rph22)  
+and Persians](rph22.md)  
 
  
 
-[Appendix](rph23)  
-[Index](rph24)  
+[Appendix](rph23.md)  
+[Index](rph24.md)  

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](coo07)  [Next](coo09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](coo07)  [Next](coo09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZFM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Children of Odin*, by Padraic Colum, \[1920\], at Intangible
 Textual Heritage
 
@@ -338,4 +338,4 @@ greatly Gerda, the Giant maid.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Heimdall and Little Hnossa: How All Things Came to Be](coo09)
+[Next: 8. Heimdall and Little Hnossa: How All Things Came to Be](coo09.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](taa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](taa08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -111,7 +111,7 @@ person should not partake of two different kinds of dishes of meat, nor
 may he drink any wine. Rabbon Simeon ben Gamaliel says: "He should
 change" (his ordinary mode of living). R. Jehudah considers it
 obligatory for a person to turn over the bed places, <span
-id="fr_39"></span>[1](#fn_39) but the sages do not coincide with him.
+id="fr_39"></span>[1](#fn_39.md) but the sages do not coincide with him.
 
 Rabbon Simeon ben Gamaliel said: Never were there any more joyous
 festivals in Israel than the 15th of Abh and the Day of Atonement, for
@@ -282,7 +282,7 @@ would carry past the guards appointed to watch for any men who would
 violate the decree, and when stopped would claim that they were about to
 take down some doves from their dovecots. Having safely eluded the
 guards and arrived at the Temple, they would take the ladders apart and
-carry in the wood for the altar. <span id="fr_40"></span>[1](#fn_40) To
+carry in the wood for the altar. <span id="fr_40"></span>[1](#fn_40.md) To
 these men and those emulating their example the passage may be applied
 \[Proverbs, x. 7\]: "The memory of the just is to be blessed."
 
@@ -355,7 +355,7 @@ days (included the day of their return, that is) were in reality forty
 less one, and Abayi said that in that year the month of Tamuz was a full
 month of thirty days, as it is written \[Lam. i. 15\]: "He hath called
 an assembly against me to crush my young men." <span
-id="fr_41"></span>[1](#fn_41)
+id="fr_41"></span>[1](#fn_41.md)
 
 Further, it is written \[Numb. xiv. 1\]: "And all the congregation
 lifted up their voice, and cried aloud, and the people wept that night."
@@ -406,7 +406,7 @@ That the city of Bethar was taken on the 9th of Abh is traditional.
 Boraitha: When Torosnopos the Wicked destroyed the Temple, a decree was
 promulgated that Rabbon Gamaliel (the First) should be executed. A
 certain master came into the house of learning, and said that the man of
-the nose <span id="fr_42"></span>[1](#fn_42) was being looked for
+the nose <span id="fr_42"></span>[1](#fn_42.md) was being looked for
 (*i.e.*, the most prominent member of the community). R. Gamaliel
 understood that he was meant thereby, and hid himself. The same master
 surreptitiously came to the place where R. Gamaliel was concealed and
@@ -516,7 +516,7 @@ occurs and ends with the 9th itself.
 
 "*On the day before the* 9*th of Abh a person should not partake of two
 dishes*." Said R. Jehudah: "This applies only to the time from the sixth
-hour on (12 [P.M.](errata.htm#16)). but previous to that time
+hour on (12 [P.M.](errata.htm#16).md). but previous to that time
 
 <span id="page_90">p. 90</span>
 
@@ -687,13 +687,13 @@ END OF TRACT TAANITH.
 
 ### Footnotes
 
-<span id="fn_39"></span>[80:1](taa09.htm#fr_39) It was the general
+<span id="fn_39"></span>[80:1](taa09.htm#fr_39.md) It was the general
 custom among the Israelites of that day to turn over the couches on
 which they sate during the day, and slept during the night, on any
 occasion of mourning and also as a sign of their being in actual
 mourning.
 
-<span id="fn_40"></span>[84:1](taa09.htm#fr_40) The names Gonebe Eli,
+<span id="fn_40"></span>[84:1](taa09.htm#fr_40.md) The names Gonebe Eli,
 Kotze Ketzi'oth, and Salmai Hanthophathai were not in reality proper
 names, but signified the following: Gonebe Eli means those who stole the
 pestle; Ketzi'oth means dry figs or cinnamon, from the Arabic cassia;
@@ -702,10 +702,10 @@ easily established, as alluding to the means employed by those pious men
 safely to elude the guards appointed to watch for the firstfruits and
 the wood for the altar.
 
-<span id="fn_41"></span>[86:1](taa09.htm#fr_41) How it is inferred from
+<span id="fn_41"></span>[86:1](taa09.htm#fr_41.md) How it is inferred from
 the passage is not understood by us, nor explained by any commentary.
 
-<span id="fn_42"></span>[87:1](taa09.htm#fr_42) The expression in the
+<span id="fn_42"></span>[87:1](taa09.htm#fr_42.md) The expression in the
 original is 'Hotam, meaning *nose*; but Abraham Krochmal asserts that
 'Hotam should read 'Hotham, meaning a *seal*, and thus the passage would
 read "the man of the seal," *i.e.*, the prince of the community.

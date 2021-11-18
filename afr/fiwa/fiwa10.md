@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa09)  [Next](fiwa11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa09)  [Next](fiwa11.md) 
 
 ------------------------------------------------------------------------
 
@@ -530,4 +530,4 @@ which are repeated after him by the audience." '
 ------------------------------------------------------------------------
 
 [Next: Chapter IX: The Fetich--Witchcraft--A Black
-Art--Demonology](fiwa11)
+Art--Demonology](fiwa11.md)

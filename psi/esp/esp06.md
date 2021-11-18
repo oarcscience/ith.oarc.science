@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp05)  [Next](esp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp05)  [Next](esp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -186,7 +186,7 @@ cooperation and open-mindedness has marked the trail of these three
 years of research, this spirit centering chiefly in the contributions
 and attitudes of the colleagues already mentioned, in the valuable work
 of certain of the graduate assistants of this Department, namely, Miss
-Sara Ownbey <span id="fr_3"></span>[1](#fn_3), Mr. C. E. Stuart and Mr.
+Sara Ownbey <span id="fr_3"></span>[1](#fn_3.md), Mr. C. E. Stuart and Mr.
 J. G. Pratt, who have been my principal assistants, and of the major
 subjects who have spent hundreds of laborious hours in monotonous
 experimentation. At every point we have met only with friendly
@@ -210,9 +210,9 @@ over-appreciate her share in whatever of merit it may have.
 
 ### Footnotes
 
-<span id="fn_3"></span>[4:1](esp06.htm#fr_3) Miss Ownbey has been
+<span id="fn_3"></span>[4:1](esp06.htm#fr_3.md) Miss Ownbey has been
 married since the above writing, and is now Mrs. George Zirkle.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1. Clarification of the Problem](esp07)
+[Next: Chapter 1. Clarification of the Problem](esp07.md)

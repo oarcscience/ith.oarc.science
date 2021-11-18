@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui09)  [Next](bui11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui09)  [Next](bui11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ and exalting, moves with measured step, using geometrical figures, and
 cannot free itself from numbers without dying away into discord. Surely
 it is not strange that a science whereby men obtained such glimpses of
 the unity and order of the world should be hallowed among them,
-imparting its form to their faith. <span id="fr_99"></span>[1](#fn_99)
+imparting its form to their faith. <span id="fr_99"></span>[1](#fn_99.md)
 Having revealed so much, mathematics came to wear mystical meanings in a
 way quite alien to our prosaic habit of thinking—faith in our day having
 betaken itself to other symbols.
@@ -98,7 +98,7 @@ of building to utter their highest thought. Everywhere in literature,
 philosophy, and life it is so, and naturally so. Shakespeare speaks of
 "square-men," and when Spenser would build in stately lines the Castle
 of Temperance, he makes use of the Square, Circle, and Triangle: <span
-id="fr_100"></span>[1](#fn_100)
+id="fr_100"></span>[1](#fn_100.md)
 
 <div style="margin-left: 32px">
 
@@ -123,7 +123,7 @@ cathedrals, tombs, and monuments, where we should expect to come upon
 them, but in the designs and decorations of dwellings, on vases,
 pottery, and trinkets, in the water-marks used by paper-makers and
 printers, and even as initial letters in books—everywhere one finds the
-old, familiar emblems. <span id="fr_101"></span>[1](#fn_101) Square,
+old, familiar emblems. <span id="fr_101"></span>[1](#fn_101.md) Square,
 Rule, Plumb-line, the perfect Ashlar, the two Pillars, the Circle within
 the parallel lines, the Point within the Circle, the Compasses, the
 Winding Staircase, the numbers Three, Five, Seven, Nine, the double
@@ -137,7 +137,7 @@ the revival of symbolism under Albertus Magnus in 1249,
 that a whole book might be filled with it. Typical are the lines left by
 a poet who, writing in 1623, sings of God as the great Logician whom the
 conclusion never fails, and whose counsel rules without command: <span
-id="fr_102"></span>[1](#fn_102)
+id="fr_102"></span>[1](#fn_102.md)
 
 <div style="margin-left: 32px">
 
@@ -178,7 +178,7 @@ Upon the Level, by the Square.</span>
 
 </div>
 
-Some of our Masonic writers <span id="fr_103"></span>[1](#fn_103)—more
+Some of our Masonic writers <span id="fr_103"></span>[1](#fn_103.md)—more
 than one likes to admit—have erred by confusing Freemasonry with
 Guild-masonry, to the discredit of the
 
@@ -191,7 +191,7 @@ had mystical meanings for them long since lost to us. As well say that
 the philosophy of Pythagoras was repeating the Multiplication Table!
 Albert Pike held that we are "not warranted in assuming that, among
 Masons generally—in the *body* of Masonry—the symbolism of Freemasonry
-is of earlier date then 1717." <span id="fr_104"></span>[1](#fn_104)
+is of earlier date then 1717." <span id="fr_104"></span>[1](#fn_104.md)
 Surely that is to err. If we had only the Mason's Marks that have come
 down to us, nothing else would be needed to prove it an error. Of
 course, for deeper minds all emblems have deeper meanings, and there may
@@ -208,7 +208,7 @@ Therefore it is not strange that men of note and learning, attracted by
 the wealth of symbolism in Masonry, as well as by its spirit of
 fraternity—perhaps, also, by its secrecy—began at an early date to ask
 to be accepted as members of the order: hence *Accepted Masons*. <span
-id="fr_105"></span>[1](#fn_105) How far back the custom of admitting
+id="fr_105"></span>[1](#fn_105.md) How far back the custom of admitting
 such men to the Lodges goes is not clear, but hints of it are
 discernible in the oldest documents of the order; and this whether or no
 we accept as historical the membership of Prince Edwin in the tenth
@@ -224,9 +224,9 @@ century, of whom the *Regius Poem* says,
 that he was amply skilled in the knowledge, as well as the practice, of
 the art, although, as Gould points out, the *Regius MS* contains
 intimations of thoughts above the heads of many to whom it was
-read. <span id="fr_106"></span>[2](#fn_106) Similar traces of Accepted
+read. <span id="fr_106"></span>[2](#fn_106.md) Similar traces of Accepted
 Masons are found in the *Cooke MS*, compiled in 1400 or earlier. Hope
-suggests <span id="fr_107"></span>[3](#fn_107) that the
+suggests <span id="fr_107"></span>[3](#fn_107.md) that the
 
 <span id="page_161">p. 161</span>
 
@@ -320,7 +320,7 @@ the lofty wisdom it is said to have added to the order; but no one has
 yet done so. Did all that high, Hermetic mysticism evaporate entirely,
 leaving not a wraith behind, going as mysteriously as it came to that
 far place which no mortal may explore? <span
-id="fr_108"></span>[1](#fn_108)
+id="fr_108"></span>[1](#fn_108.md)
 
 Howbeit, the *fact* to be noted is that, thus early—and earlier, for the
 Lodge had been in existence some time when Ashmole was initiated—the
@@ -335,7 +335,7 @@ also two of the neophytes. No doubt this is the Lodge which Conder, the
 historian of the Company, has traced back to 1620, "and were the books
 of the Company prior to that date in existence, we should no doubt be
 able to trace the custom of receiving accepted members back to
-pre-reformation times." <span id="fr_109"></span>[1](#fn_109) From an
+pre-reformation times." <span id="fr_109"></span>[1](#fn_109.md) From an
 entry in the books of the Company, dated 1665, it appears that
 
 <div style="margin-left: 32px">
@@ -350,7 +350,7 @@ we cannot say for certain, but we can say that as early as 1620, and
 inferentially very much earlier, there were certain members of the
 Masons' Company and others who met from time to time to form a Lodge for
 the purpose of Speculative Masonry. <span
-id="fr_110"></span>[2](#fn_110)</span>
+id="fr_110"></span>[2](#fn_110.md)</span>
 
 </div>
 
@@ -389,7 +389,7 @@ following note by Aubrey: "This day \[May 18, 1681 \] is a great
 convention at St. Pauls Church of the fraternity, of the free \[then he
 crossed out the word Free and inserted Accepted\] Masons; where Sir
 Christopher Wren is to be adopted a Brother: and Sir Henry Goodric of ye
-Tower and divers others." <span id="fr_111"></span>[1](#fn_111) From
+Tower and divers others." <span id="fr_111"></span>[1](#fn_111.md) From
 which we may infer that there were Assemblies before 1717, and that they
 were of sufficient importance to be known to a non-Mason. Other evidence
 might be adduced, but this is enough to show that Speculative Masonry,
@@ -433,7 +433,7 @@ wise and beautiful truth.
 
 ### Footnotes
 
-<span id="fn_99"></span>[154:1](bui10.htm#fr_99) There is a beautiful
+<span id="fn_99"></span>[154:1](bui10.htm#fr_99.md) There is a beautiful
 lecture on the moral meaning of Geometry by Dr. Hutchinson, in *The
 Spirit of Masonry*—one of the oldest, as it is one of the noblest, books
 in our Masonic literature. Plutarch reports Plato as saying, "God is
@@ -447,20 +447,20 @@ magnitude: number absolute, in arithmetic; number applied, in music; and
 so forth—whereof we read in the *Old Charges* (see "The Great Symbol,"
 by Klein, *A. Q. C.*, x, 82).
 
-<span id="fn_100"></span>[155:1](bui10.htm#fr_100) Faerie Queene, bk.
+<span id="fn_100"></span>[155:1](bui10.htm#fr_100.md) Faerie Queene, bk.
 ii, canto ix, 22.
 
-<span id="fn_101"></span>[156:1](bui10.htm#fr_101) *Lost Language of
+<span id="fn_101"></span>[156:1](bui10.htm#fr_101.md) *Lost Language of
 Symbolism*, by Bayley, also *A New Light on the Renaissance*, by the
 same author; *Architecture of the Renaissance in England*, by J. A.
 Gotch; and "Notes on Some Masonic Symbols," by W. H. Rylands, *A. Q.
 C.*, viii, 84. Indeed, the literature is as prolific as the facts.
 
-<span id="fn_102"></span>[157:1](bui10.htm#fr_102) J. V. Andreae,
+<span id="fn_102"></span>[157:1](bui10.htm#fr_102.md) J. V. Andreae,
 *Ehreneich Hohenfelder von Aister Haimb*. A verbatim translation of the
 second line quoted would read, "Unless in God he has his building."
 
-<span id="fn_103"></span>[158:1](bui10.htm#fr_103) When, for example,
+<span id="fn_103"></span>[158:1](bui10.htm#fr_103.md) When, for example,
 Albert Pike, in his letter, "Touching Masonic Symbolism," speaks of the
 "poor, rude, unlettered, uncultivated working Stone-masons," who
 attended the Assemblies, he is obviously confounding Free-masons with
@@ -486,22 +486,22 @@ knowledge which it embodies was drawn out of the practical experience
 and experiments of manual labor." This describes the Comacine Masters,
 but not the poor, rude, unlettered Stone-masons whom Pike had in mind.
 
-<span id="fn_104"></span>[159:1](bui10.htm#fr_104) Letter "Touching
+<span id="fn_104"></span>[159:1](bui10.htm#fr_104.md) Letter "Touching
 Masonic Symbolism."
 
-<span id="fn_105"></span>[160:1](bui10.htm#fr_105) Some Lodges, however,
+<span id="fn_105"></span>[160:1](bui10.htm#fr_105.md) Some Lodges, however,
 would never admit such members. As late as April 24, 1786, two brothers
 were proposed as members of Domatic Lodge, No. 177, London, and were
 rejected because they were not Operative Masons (*History Lion and Lamb
 Lodge*, 192, London, by Abbott).
 
-<span id="fn_106"></span>[160:2](bui10.htm#fr_106) "On the Antiquity of
+<span id="fn_106"></span>[160:2](bui10.htm#fr_106.md) "On the Antiquity of
 Masonic Symbolism," *A. Q. C.*, iii, 7.
 
-<span id="fn_107"></span>[160:3](bui10.htm#fr_107) *Historical Essay on
+<span id="fn_107"></span>[160:3](bui10.htm#fr_107.md) *Historical Essay on
 Architecture*, chap. xxi.
 
-<span id="fn_108"></span>[164:1](bui10.htm#fr_108) Those who wish to
+<span id="fn_108"></span>[164:1](bui10.htm#fr_108.md) Those who wish to
 pursue this Quixotic quest will find the literature abundant and very
 interesting. For example, such essays as that by F. W. Brockbank in
 *Manchester Association for Research*, vol. i, 1909-10; and another by
@@ -519,13 +519,13 @@ which would be of no value if they had been. (Read *The Rosicrucian
 Cosmo-Conception, or Christian Occult Science*, by Max Heindel, and be
 instructed in matters whereof no mortal knoweth.)
 
-<span id="fn_109"></span>[165:1](bui10.htm#fr_109) *The Hole Craft and
+<span id="fn_109"></span>[165:1](bui10.htm#fr_109.md) *The Hole Craft and
 Fellowship of Masons*, by Edward Conder.
 
-<span id="fn_110"></span>[165:2](bui10.htm#fr_110) *Ibid.*,
+<span id="fn_110"></span>[165:2](bui10.htm#fr_110.md) *Ibid.*,
 Introduction.
 
-<span id="fn_111"></span>[167:1](bui10.htm#fr_111) Whether Sir
+<span id="fn_111"></span>[167:1](bui10.htm#fr_111.md) Whether Sir
 Christopher Wren was ever Grand Master, as tradition affirms, is open to
 debate, and some even doubt his membership in the order (Gould, *History
 of Masonry*). Unfortunately, he has left no record, and the
@@ -546,4 +546,4 @@ age, is given as a reason for the organization of the first Grand Lodge.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Grand Lodge of England](bui11)
+[Next: Chapter IV. Grand Lodge of England](bui11.md)

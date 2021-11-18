@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio08)  [Next](dio10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio08)  [Next](dio10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ intended it to be. And to the supercelestial lives It gives the
 immaterial and godlike, and unchangeable immortality; and the unswerving
 and undeviating perpetual movement; whilst extending Itself through
 excess of goodness, even to the life of demons <span
-id="fr_46"></span>[47](#fn_46) . For, neither has this its being from
+id="fr_46"></span>[47](#fn_46.md) . For, neither has this its being from
 another cause, but from It life has both its being and its continuance.
 Further, It bequeaths even to men the angelic life, so far as is
 possible to compound being, and through an overflowing love towards man
@@ -95,12 +95,12 @@ unutterable by human speech.
 
 ### Footnotes
 
-<span id="fn_46"></span>[84:47](dio09.htm#fr_46) <span
+<span id="fn_46"></span>[84:47](dio09.htm#fr_46.md) <span
 id="ii.ii.ii.vi-p5.1"></span><span id="ii.ii.ii.vi-p5.2"></span>[Rom.
-xi. 29](../../bib/kjv/rom011.htm#029)<span
+xi. 29](../../bib/kjv/rom011.htm#029.md)<span
 id="ii.ii.ii.vi-p5.2"></span>, "For the gifts of God are without
 repentance."
 
 ------------------------------------------------------------------------
 
-[Next: Caput VII.](dio10)
+[Next: Caput VII.](dio10.md)

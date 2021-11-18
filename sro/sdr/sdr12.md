@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr11)  [Next](sdr13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr11)  [Next](sdr13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ activity.
 
 This journey of the life forms from world to world has been in progress
 since the beginning of the present world period, and was made by the
-lower forms of life as they [climbed](errata.htm#22) the spiral stairway
+lower forms of life as they [climbed](errata.htm#22.md) the spiral stairway
 of evolution. A writer on the subject has said of this point: "It is the
 spiral character of the progress accomplished by the life impulses that
 develop the various kingdoms of Nature which accounts for the gaps now
@@ -83,7 +83,7 @@ into the required form—the much talked of missing link. \* \* \* The
 impulse to the new evolution of higher forms is really given by rushes
 of spiritual monads coming round the cycle in a state fit for the
 inhabitation of new forms. These superior life impulses burst the
-[chrysalis](errata.htm#23) of the older form on the planet they invade,
+[chrysalis](errata.htm#23.md) of the older form on the planet they invade,
 and throw off an efflorescence of something higher. The forms which have
 gone on merely repeating themselves for millenniums start afresh into
 growth; with relative rapidity they rise through the intermediate into
@@ -246,7 +246,7 @@ With the passing away of Lemuria—the home of the Third Race—there arose
 from the depths of the Atlantic Ocean the future home of the people of
 the Fourth Race—the continent of Atlantis. Atlantis was situated in the
 space now occupied by a portion of the Atlantic Ocean, beginning at what
-is now known as the [Caribbean](errata.htm#24) Sea, and extending over
+is now known as the [Caribbean](errata.htm#24.md) Sea, and extending over
 to the region now known as Africa. What we now know as Cuba and the West
 Indies were the highest points of the continent of Atlantis, the lower
 portions being now buried beneath the waves of the Atlantic Ocean.
@@ -492,4 +492,4 @@ rounder."
 
 ------------------------------------------------------------------------
 
-[Next: Part XII. The Aura and Auric Colors](sdr13)
+[Next: Part XII. The Aura and Auric Colors](sdr13.md)

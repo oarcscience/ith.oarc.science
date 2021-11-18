@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng01)  [Next](vlsng03) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng01)  [Next](vlsng03.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Of Sigi, the Son of Odin.](vlsng03)
+[Next: Chapter I: Of Sigi, the Son of Odin.](vlsng03.md)

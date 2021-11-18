@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft55)  [Next](efft57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft55)  [Next](efft57.md) 
 
 ------------------------------------------------------------------------
 
 # GHOSTS.
 
-## A BISHOP'S GHOST <span id="fr_64"></span>[1](#fn_64)
+## A BISHOP'S GHOST <span id="fr_64"></span>[1](#fn_64.md)
 
 HENRY BURGWASH, who became Bishop of Lincoln on the 28th of May 1320, is
 chiefly memorable on account of a curious ghost story recorded of him in
@@ -67,9 +67,9 @@ was no more seen.
 
 ### Footnotes
 
-<span id="fn_64"></span>[1](efft56.htm#fr_64) Chambers's *Book of Days*,
+<span id="fn_64"></span>[1](efft56.htm#fr_64.md) Chambers's *Book of Days*,
 vol. 1. p. 690.
 
 ------------------------------------------------------------------------
 
-[Next: A Clergyman's Ghost](efft57)
+[Next: A Clergyman's Ghost](efft57.md)

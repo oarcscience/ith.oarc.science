@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod25)  [Next](ebod27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod25)  [Next](ebod27.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ deceit."
 
 ------------------------------------------------------------------------
 
-[Next: Plate XX.](ebod27)
+[Next: Plate XX.](ebod27.md)

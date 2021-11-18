@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp27)  [Next](prp29) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp27)  [Next](prp29.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ balls in all openness, I must call a tool a tool, a coynte a coynte.
 ------------------------------------------------------------------------
 
 [Next: 29. Dreadful wi' sickle and dire with thy greater part, O
-Priapus!](prp29)
+Priapus!](prp29.md)

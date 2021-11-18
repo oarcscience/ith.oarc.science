@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe353)  [Next](prwe355) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe353)  [Next](prwe355.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ with this country for tin at a very early period.
 
 ------------------------------------------------------------------------
 
-[Next: The Tinner of Chyannor](prwe355)
+[Next: The Tinner of Chyannor](prwe355.md)

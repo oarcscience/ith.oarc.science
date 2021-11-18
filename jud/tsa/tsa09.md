@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa08)  [Next](tsa10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa08)  [Next](tsa10.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ ineligible.
 
 2\. If a man say, "I place confidence in my father," or "I place
 confidence in thy father," or " I place confidence in three herdsmen,"
- <span id="fr_201"></span>[1](#fn_200)--R. Meir holds that he may
+ <span id="fr_201"></span>[1](#fn_200.md)--R. Meir holds that he may
 retract; but the majority hold that he cannot retract.
 
 If a man is bound to his neighbour on oath, his neighbour saying to him,
@@ -48,7 +48,7 @@ refuse a judge regarded by all as expert.
 
 If a man say, "I place confidence in my father," "I place confidence in
 thy father," or "I place confidence in three herdsmen," he may
-retract. <span id="fr_202"></span>[1](#fn_201)
+retract. <span id="fr_202"></span>[1](#fn_201.md)
 
 If a man is bound to his neighbour on oath, his neighbour saying to him,
 "Swear to me by thy life " or "by this or these objects held in my hand"
@@ -66,9 +66,9 @@ neighbour had accepted the oath.
 <span class="margnote">**M**.</span>III. 3. These are disqualified (as
 witnesses or judges): a dice-player, a usurer, pigeon-flyers, and those
 who trade with the Sabbatic growth. <span
-id="fr_203"></span>[2](#fn_202) R. Shimeon said: At first only the
+id="fr_203"></span>[2](#fn_202.md) R. Shimeon said: At first only the
 description *gatherers of the Sabbatic growth* was used, but since
-oppressors <span id="fr_204"></span>[3](#fn_203) have grown many, the
+oppressors <span id="fr_204"></span>[3](#fn_203.md) have grown many, the
 prohibition is narrowed down to those who trade with the Sabbatic
 growth. R. Jehuda maintained that
 
@@ -88,7 +88,7 @@ beast or living creature or bird--can never be regarded as reformed
 until he destroy those things which cause his disqualification and
 effect a complete reformation. One who trades with the Sabbatic
 growth--that is to say, one who remains idle the other six years and
-when the year of release <span id="fr_205"></span>[1](#fn_204) arrives
+when the year of release <span id="fr_205"></span>[1](#fn_204.md) arrives
 begins to stretch his hands and feet and trade with the fruits of
 transgression--can never be regarded as reformed until, when the next
 year of release approaches, he is examined and found to have effected a
@@ -110,16 +110,16 @@ and in non-capital and
 <span class="margnote">**T**.</span>
 
 capital case; but for testimony which a woman is eligible to give, they
-too are eligible. <span id="fr_206"></span>[1](#fn_205)
+too are eligible. <span id="fr_206"></span>[1](#fn_205.md)
 
 M. III. 4. These are reckoned as kinsfolk: a brother, paternal or
 maternal uncle, brother-in-law, father's and mother's brother-in-law,
 step-son, father-in-law, wife's sister's husband;--these together with
 their sons, their sons-in-law, and a man's step-son (but not the
 latter's children). R. Jose said: Such is the Mishnah of R. Akiba <span
-id="fr_207"></span>[2](#fn_206) but the first Mishnah <span
-id="fr_208"></span>[2](#fn_206) included uncle, first-cousin, and all
-eligible to be heirs, <span id="fr_209"></span>[3](#fn_207) and those
+id="fr_207"></span>[2](#fn_206.md) but the first Mishnah <span
+id="fr_208"></span>[2](#fn_206.md) included uncle, first-cousin, and all
+eligible to be heirs, <span id="fr_209"></span>[3](#fn_207.md) and those
 who at the time were relatives; but relatives who had since become
 estranged were eligible (as judges or witnesses). R. Jehuda holds that
 if a man's daughter die and leave children, her husband is still
@@ -165,50 +165,50 @@ and have since become his son-in-law, he cannot bring forward his
 handwriting to support his evidence, but others may do so.
 
 If he have received from him a house or field for the payment of a
-hundred *manae*, <span id="fr_210"></span>[1](#fn_208) and he have
+hundred *manae*, <span id="fr_210"></span>[1](#fn_208.md) and he have
 evidence concerning the fact, he cannot bring forward the evidence; for
 no man may testify on his own behalf.
 
 Among persons disqualified to act as judges or witnesses are also to be
 included robbers, herdsmen and extortioners, and all suspect concerning
-property. <span id="fr_211"></span>[2](#fn_209) Their evidence is always
+property. <span id="fr_211"></span>[2](#fn_209.md) Their evidence is always
 invalid.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_200"></span>[57:1](tsa09.htm#fr_201) The most disreputable
+<span id="fn_200"></span>[57:1](tsa09.htm#fr_201.md) The most disreputable
 of the population.
 
-<span id="fn_201"></span>[58:1](tsa09.htm#fr_202) The Vienna MS. and the
+<span id="fn_201"></span>[58:1](tsa09.htm#fr_202.md) The Vienna MS. and the
 Venice edition (the textus receptus) add: "from the verdict,--so R.
 Meir; but the majority say that he cannot retract."
 
-<span id="fn_202"></span>[58:2](tsa09.htm#fr_203) Lev. 25. 1 ff.
+<span id="fn_202"></span>[58:2](tsa09.htm#fr_203.md) Lev. 25. 1 ff.
 
-<span id="fn_203"></span>[58:3](tsa09.htm#fr_204) In the matter of
+<span id="fn_203"></span>[58:3](tsa09.htm#fr_204.md) In the matter of
 taxation and economic pressure.
 
-<span id="fn_204"></span>[59:1](tsa09.htm#fr_205) Deut. 15. 2.
+<span id="fn_204"></span>[59:1](tsa09.htm#fr_205.md) Deut. 15. 2.
 
-<span id="fn_205"></span>[60:1](tsa09.htm#fr_206) According to *Rosh
+<span id="fn_205"></span>[60:1](tsa09.htm#fr_206.md) According to *Rosh
 ha-Shana* 22 *a*, their evidence is valid only in matters relating to
 marriage.
 
-<span id="fn_206"></span>[60:2](tsa09.htm#fr_208) Referring to earlier,
+<span id="fn_206"></span>[60:2](tsa09.htm#fr_208.md) Referring to earlier,
 and presumably oral, compilations from which R. Jehuda ha-Nasi drew for
 his final authoritative Mishnah.
 
-<span id="fn_207"></span>[60:3](tsa09.htm#fr_209) Relatives on the
+<span id="fn_207"></span>[60:3](tsa09.htm#fr_209.md) Relatives on the
 father's side. See *B. Bathra* 8. 1 ff
 
-<span id="fn_208"></span>[61:1](tsa09.htm#fr_210) A *manê* was
+<span id="fn_208"></span>[61:1](tsa09.htm#fr_210.md) A *manê* was
 equivalent to the earlier shekel.
 
-<span id="fn_209"></span>[61:2](tsa09.htm#fr_211) That is, any one whose
+<span id="fn_209"></span>[61:2](tsa09.htm#fr_211.md) That is, any one whose
 honesty has ever been called in question.
 
 ------------------------------------------------------------------------
 
-[Next: The Method of Legal Procedure in Non-Capital Cases](tsa10)
+[Next: The Method of Legal Procedure in Non-Capital Cases](tsa10.md)

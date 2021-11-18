@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm10)  [Next](pnm12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm10)  [Next](pnm12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -93,7 +93,7 @@ And, as Virgil sings:
 The Orb that's measur’d round about with Lines—  
 It doth the Heavens' Starry Way make known,  
 And strange Eclipses of the Sun and Moon;  
-[Arcturus](errata.htm#0) also, and the Stars of Rain,  
+[Arcturus](errata.htm#0.md) also, and the Stars of Rain,  
 The Seven Stars likewise, and Charles, his wain;  
 Why Winter Suns make tow’rds the West so fast;  
 What makes the Nights so long ere they be past?</span>
@@ -122,14 +122,14 @@ and mysteries of *Seals;* and, as Apuleius saith, it teacheth us rightly
 to understand and to be skilled in the Ceremonial Laws, the equity of
 Holy things and rule of Religions. But to recollect myself.)
 
-These three principal faculties <span id="fr_0"></span>[\*](#fn_0) Magic
+These three principal faculties <span id="fr_0"></span>[\*](#fn_0.md) Magic
 comprehends, unites and actuates; deservedly, therefore, was it by the
 Ancients esteemed as the highest and most sacred Philosophy. It was, as
 we find, brought to light by most sage authors and most famous
 
 <span id="page_41">p. 41</span>
 
-writers, <span id="fr_1"></span>[\*](#fn_1) amongst which principally
+writers, <span id="fr_1"></span>[\*](#fn_1.md) amongst which principally
 Zamolxis and Zoroaster were so famous that many believed they were the
 inventors of this Science. Their track Abbaris the Hyperborean,
 Charmondas, Danigeron, Eudoxus, Hermippus followed. There were also
@@ -164,10 +164,10 @@ that is merely Magical, that doth not comprehend these three Faculties.
 
 ### Footnotes
 
-<span id="fn_0"></span>[40:\*](pnm11.htm#fr_0) Natural, Mathematical and
+<span id="fn_0"></span>[40:\*](pnm11.htm#fr_0.md) Natural, Mathematical and
 Theological (Spiritual) Philosophy.
 
-<span id="fn_1"></span>[41:\*](pnm11.htm#fr_1) The author here gives a
+<span id="fn_1"></span>[41:\*](pnm11.htm#fr_1.md) The author here gives a
 valuable list of mystic writers and teachers up to A. D. 1509. At this
 date Agrippa was a "teacher of theology" at Dole, France, where he
 "attracted great attention by his lectures; but having by his bitter
@@ -177,4 +177,4 @@ accused of heresy, and obliged to leave," going to Cologne.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Of the Four Elements, Their Qualities, and Mutual
-Mixtions](pnm12)
+Mixtions](pnm12.md)

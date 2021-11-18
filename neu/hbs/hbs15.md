@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs14) [Next](hbs16)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs14) [Next](hbs16.md)
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ For her children and their father that at Kósovo were slain.
 
 ------------------------------------------------------------------------
 
-[Next](hbs16)
+[Next](hbs16.md)
 
  
 

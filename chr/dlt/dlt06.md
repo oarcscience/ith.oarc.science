@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt05)  [Next](dlt07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt05)  [Next](dlt07.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ Rabbinical schools; and it embodies religious ideas which in many points
 sharply conflicted with the strict scholastic orthodoxy of the
 Pharisees. The main energies of the latter were devoted to the
 development of the "Oral tradition," in order to build a hedge around
-the Law, <span id="fr_16"></span>[1](#fn_16) and fix a sharp line of
+the Law, <span id="fr_16"></span>[1](#fn_16.md) and fix a sharp line of
 demarcation between Israel and the outside world. The Apocalyptists, on
 the other hand, though loyal to the Law, did not make it their exclusive
 preoccupation. They were much more deeply interested in "transcendental
@@ -59,7 +59,7 @@ its supernatural colouring; in the place of the old antithesis,
 thus acquires an "other-worldliness" which was in marked contrast to the
 strictly practical and narrow purview of scholastic Pharisaism, and
 formed a distinct advance towards the lofty spirituality of the New
-Testament. <span id="fr_17"></span>[1](#fn_17) Herein, once more,
+Testament. <span id="fr_17"></span>[1](#fn_17.md) Herein, once more,
 prophetical influence is seen to be asserting itself. But there is
 another feature in this literature which is of the highest importance;
 in the words of Professor Charles:
@@ -103,7 +103,7 @@ vindicated; and, in order to justify its contention, it sketched in
 outline the history of the world and of mankind, the origin of evil and
 its course, and the final consummation of all things; and thus, in fact,
 it presented a Semitic philosophy of religion." <span
-id="fr_18"></span>[1](#fn_18)
+id="fr_18"></span>[1](#fn_18.md)
 
  
 
@@ -136,7 +136,7 @@ well known that the people looked for the "Restoration
 
 <span id="page_71">p. 71</span>
 
-of Israel" <span id="fr_19"></span>[1](#fn_19) when the Messiah should
+of Israel" <span id="fr_19"></span>[1](#fn_19.md) when the Messiah should
 come, and believed that at His appearing their hopes regarding an ideal
 future would be realised; but this expectation and these hopes had been
 formulated and fostered by the Apocalyptists, basing much of their
@@ -200,7 +200,7 @@ Fourth Book of Esdras* laid it under contribution. With the earlier
 Fathers and Apologists it had all the weight of a canonical book, but
 towards the close of the third and the beginning of the fourth centuries
 it began to be discredited, and finally fell under the ban of the
-Church." <span id="fr_20"></span>[1](#fn_20)
+Church." <span id="fr_20"></span>[1](#fn_20.md)
 
 In the quotations from this work which will be given below the
 references are from Professor Charles's edition; it will not be
@@ -304,23 +304,23 @@ different books are edited by leading German scholars.
 
 ### Footnotes
 
-<span id="fn_16"></span>[66:1](dlt06.htm#fr_16) "Make a fence to the
+<span id="fn_16"></span>[66:1](dlt06.htm#fr_16.md) "Make a fence to the
 Torah" (*Pirqe Aboth*, i. 1), which Dr Taylor, in his edition of the
 work, paraphrases in the words: "Impose additional restrictions so as to
 keep at a safe distance from the forbidden ground."
 
-<span id="fn_17"></span>[67:1](dlt06.htm#fr_17) *Cf.* Oesterley and Box,
+<span id="fn_17"></span>[67:1](dlt06.htm#fr_17.md) *Cf.* Oesterley and Box,
 *op. cit.* pp. 34, 211.
 
-<span id="fn_18"></span>[69:1](dlt06.htm#fr_18) Professor Charles in
+<span id="fn_18"></span>[69:1](dlt06.htm#fr_18.md) Professor Charles in
 *Encycl. Bibl.* i. 213, 214.
 
-<span id="fn_19"></span>[71:1](dlt06.htm#fr_19) *Cf.* Luke ii. 38.
+<span id="fn_19"></span>[71:1](dlt06.htm#fr_19.md) *Cf.* Luke ii. 38.
 
-<span id="fn_20"></span>[73:1](dlt06.htm#fr_20) *The Book of Enoch*, pp.
+<span id="fn_20"></span>[73:1](dlt06.htm#fr_20.md) *The Book of Enoch*, pp.
 1, 2.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V. The Antecedents of the Gospel Teaching: The
-Apocalyptic Literature.](dlt07)
+Apocalyptic Literature.](dlt07.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp34)  [Next](prp36) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp34)  [Next](prp36.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ word 'bugger' is derived, as is the Italian *bugiardo* and the French
 
 ------------------------------------------------------------------------
 
-[Next: 36. We all show special notes of bodily shape:](prp36)
+[Next: 36. We all show special notes of bodily shape:](prp36.md)

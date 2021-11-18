@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll17)  [Next](tll19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll17)  [Next](tll19.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ this early race.
 
 ------------------------------------------------------------------------
 
-[Next: The Arts continued](tll19)
+[Next: The Arts continued](tll19.md)

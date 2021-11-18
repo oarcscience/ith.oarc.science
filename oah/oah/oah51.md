@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah50)  [Next](oah52) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah50)  [Next](oah52.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ all.
 
 5\. But mortals were thick in tongue, and could not say Yeshuah, and
 they said I. E. Su; hence came the name of many men, Iesu, <span
-id="fr_10"></span>[3](#fn_10) signifying, without evil, which is the
+id="fr_10"></span>[3](#fn_10.md) signifying, without evil, which is the
 ultimate salvation of the soul.
 
 6\. Jehovih spake through God, saying: The time of the end of dawn
@@ -115,7 +115,7 @@ Most High Jehovih!
 20\. The five Lords came forward. God said: Join hands and receive ye
 from the Father. By virtue of the Power, Wisdom and Love of Jehovih,
 vested in me, receive I thee as the highest chosen; and I proclaim thee
-Lord <span id="fr_11"></span>[4](#fn_11) of earth, in Jehovih's name!
+Lord <span id="fr_11"></span>[4](#fn_11.md) of earth, in Jehovih's name!
 Accept this crown from heaven above, the like of which cannot be woven
 from earthly things; by its power shalt thou remain in accord with
 Yesuah and the kingdoms above.
@@ -136,12 +136,12 @@ voices in concert!
 
 ### Footnotes
 
-<span id="fn_10"></span>[55:3](oah51.htm#fr_10) The original of iesus,
+<span id="fn_10"></span>[55:3](oah51.htm#fr_10.md) The original of iesus,
 or jesu, or jesus. See tablet Se'moin, Saphah, and v. 34.
 
-<span id="fn_11"></span>[56:4](oah51.htm#fr_11) Where hands are joined
+<span id="fn_11"></span>[56:4](oah51.htm#fr_11.md) Where hands are joined
 the persons are addressed as one person
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](oah52)
+[Next: Chapter IX](oah52.md)

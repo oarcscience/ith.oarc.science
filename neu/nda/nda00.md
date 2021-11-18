@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Iceland](../ice/index)  [Index](index) 
-[Next](nda01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Iceland](../ice/index)  [Index](index.md) 
+[Next](nda01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HK2G4O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Norse Discovery of America*, by A.M Reeves, N.L. Beamish and R.B.
 Anderson, \[1906\], at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ J. W. BUEL, Ph.D.,
 
 <span id="img_front"></span> <span align="CENTER"> [![LEIF ERIKSON
 DISCOVERS A NEW WORLD(From a drawing by Heller.)](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 LEIF ERIKSON DISCOVERS A NEW WORLD(From a drawing by Heller.)  
 </span>
 
@@ -66,4 +66,4 @@ plague known as the Black Death.</span>
 
 ------------------------------------------------------------------------
 
-[Next: List of Photogravures](nda01)
+[Next: List of Photogravures](nda01.md)

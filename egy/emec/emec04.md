@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](emec03)  [Next](emec05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](emec03)  [Next](emec05.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 # THE RELIGION OF LOWER EGYPT.
 
 <span id="img_76"></span> [![](tn/generic.jpg)  
-Click to view](img/05900.jpg)
+Click to view](img/05900.jpg.md)
 
 Fig. 76
 
@@ -56,9 +56,9 @@ proofs that the gods were worshipped in fear rather than in love; that
 the sacrifices were made less than they used to be in thankfulness for
 blessings received, and more often than formerly, as an atonement to
 turn aside punishment that is dreaded. Pthah, the great god of Memphis,
-is now an ugly dwarf, with an enlarged head (see Fig. [77](#img_77)),
+is now an ugly dwarf, with an enlarged head (see Fig. [77](#img_77).md),
 and he sometimes holds a club over his head, as if in the act of
-threatening his worshippers with vengeance (see Fig. [78](#img_78)). He
+threatening his worshippers with vengeance (see Fig. [78](#img_78).md). He
 is the father of a brood of children as ugly and malicious as himself.
 These are the Cabeiri, whose office
 
@@ -69,9 +69,9 @@ great trial on the day of judgment. Their name is derived from the
 Egyptian word KBA, *punishment*, and IRI, *to do*, Osiris, *the judge*,
 from OSH, *a decree*, and IRI, *to do*. As we have before mentioned,
 Typhon, the hippopotamus, the accuser in the trial-scene, page
-[51](emec03.htm#page_51), was one of them. For the purpose of torturing
+[51](emec03.htm#page_51.md), was one of them. For the purpose of torturing
 their victims, they are armed with swords, snakes, and lizards, as in
-Fig. [79](#img_79), where they accompany their father Pthah, with his
+Fig. [79](#img_79.md), where they accompany their father Pthah, with his
 enlarged head.
 
 <table data-cellspacing="0" data-border="0" data-cellpadding="9" width="798">
@@ -125,12 +125,12 @@ Cabeiri are twenty-one or twenty-two in number, and Kneph, with the
 ram's head, would seem to be the god who helped the deceased to imprison
 them. On the monuments of the city of Sais the kings are not, like those
 of Thebes, presenting their offerings to Ammon Ra, but to these
-threatening Cabeiri. Fig. [80](#img_80) represents Pharaoh Hophra on his
+threatening Cabeiri. Fig. [80](#img_80.md) represents Pharaoh Hophra on his
 knees, presenting two cones of baked clay, typical of his gifts, to one
 of these monsters, with a double
 
 <span id="img_80"></span> [![](tn/generic.jpg)  
-Click to view](img/06200.jpg)
+Click to view](img/06200.jpg.md)
 
 Fig. 80.
 
@@ -148,7 +148,7 @@ the natives of
 Lower Egypt. The Cynocephalus, or dog-faced monkey, plays an important
 part in the world below, and among the spirits of the dead. Four of
 these usually guard the bottomless pit of hell fire, sitting one at each
-corner of it, as in Fig. [79](#img_79). On the papyri they join the
+corner of it, as in Fig. [79](#img_79.md). On the papyri they join the
 souls of the departed in worshipping the sun, when on its journey under
 ground, after sinking into the arms of the ocean; and when they
 accompany the boa' of Ra, as on the tablet (Egypt Inscript., pl. 46), we
@@ -158,7 +158,7 @@ valley of the shadow of death.
 Another Phenician deity is the foreign Venus, chiefly worshipped at
 Memphis, who, unlike the Egyptian goddesses, is wholly unclothed. She is
 Athor under a new form, having her long hair falling in two locks on her
-shoulders, and having a basket on her head (see Fig. [81](#img_81)). She
+shoulders, and having a basket on her head (see Fig. [81](#img_81).md). She
 shows us a front view, and stands upon a lion that walks side-ways. She
 stands between two gods, each on the top of a small temple with a door.
 One is the Egyptian Chem, who, with his right arm raised, holds the
@@ -186,7 +186,7 @@ spear and shield in one hand, and a battle-axe in the other, with which
 he is prepared to strike down his terrified worshippers.
 
 <span id="img_81"></span> [![](tn/generic.jpg)  
-Click to view](img/06400.jpg)
+Click to view](img/06400.jpg.md)
 
 Fig. 81.
 
@@ -202,7 +202,7 @@ The goddess Anaita, who is mentioned by Strabo as a
 
 Persian goddess, was another divinity, whom the people of Memphis
 supplicated to withhold her punishments. She wears the crown of Osiris,
-and at the bottom of the tablet, Fig. [81](#img_81), [p. 64](#page_64),
+and at the bottom of the tablet, Fig. [81](#img_81), [p. 64](#page_64.md),
 she is threatening to destroy with her battleaxe the worshippers who
 have covered her altar with their various offerings. But the human mind,
 when it has created for itself so much to be feared, by a natural effort
@@ -213,10 +213,10 @@ take the place of his judge, and that Anaita and Ranpo were waiting to
 attack him, and the Cabeiri to torture him and thrust him into the pit
 of fire. Every king of Sais professed that he was beloved by Neith, as
 the kings of Thebes said they were beloved by Amun-Ra. The people of
-Lower Egypt lived under the shadow of her wings (see Fig. [76](#img_76),
-page [59](#page_59)), as the people of Upper Egypt lived under the
-winged sun (see Fig. [1](emec02.htm#img_1), page
-[1](emec02.htm#page_1)).
+Lower Egypt lived under the shadow of her wings (see Fig. [76](#img_76.md),
+page [59](#page_59).md), as the people of Upper Egypt lived under the
+winged sun (see Fig. [1](emec02.htm#img_1.md), page
+[1](emec02.htm#page_1).md).
 
 Thus we see that in Lower Egypt the priests taught far less worthy views
 of their gods than had been formerly held in Upper Egypt; and it is of
@@ -283,10 +283,10 @@ to the god of the Nile who fills the canals with water. Then follow his
 prayers to numerous gods and temples. At length arrives the day of
 judgment, and he is brought before the god Osiris and his forty-two
 assessors, to have his conduct weighed in the great scales, as described
-in page [51](emec03.htm#page_51). After the trial we are shown the lake
+in page [51](emec03.htm#page_51.md). After the trial we are shown the lake
 of fire into which the wicked are to be thrown (see page
-[72](#page_72)), and the gods of punishment, the Cabeiri, with swords in
-their hands (see Fig. [79](#img_79)). These, however, do him no injury,
+[72](#page_72).md), and the gods of punishment, the Cabeiri, with swords in
+their hands (see Fig. [79](#img_79).md). These, however, do him no injury,
 they are in his case overcome, and each safely imprisoned in a cell
 under ground, or under the river Nile.
 
@@ -369,7 +369,7 @@ they might spend their youth in monastic retirement, and as it was said,
 in these caverns beneath his waves.
 
 <span id="img_82"></span> [![](tn/generic.jpg)  
-Click to view](img/07000.jpg)
+Click to view](img/07000.jpg.md)
 
 Fig. 82.
 
@@ -388,7 +388,7 @@ divine agents; and hence fire and water received divine honours, as the
 two purest of the elements, and every day when the temple of Serapis in
 Alexandria was opened, the singer standing on the steps of the portico
 sprinkled water over the marble floor while he held forth fire to the
-people (see Fig. [82](#img_82)), and though he and most of his hearers
+people (see Fig. [82](#img_82).md), and though he and most of his hearers
 were
 
 <span id="page_71">p. 71</span>
@@ -396,15 +396,15 @@ were
 Greeks, he called upon the god in the Egyptian language. A vase of
 water, or sometimes of wine, and metal cup containing a small charcoal
 fire, Were often presented to the altar, as figurative of divine honours
-(see Fig. [60](emec03.htm#img_60)).
+(see Fig. [60](emec03.htm#img_60).md).
 
 The waters were also thought to be peopled by some kind of ghosts or
 spiritual beings, and we see them represented among the sculptures on
-the sarcophagus of Oimenepthah I. (see Fig. [82a](#img_82a)). They are
+the sarcophagus of Oimenepthah I. (see Fig. [82a](#img_82a).md). They are
 in the form of men, but
 
 <span id="img_82a"></span> [![](tn/generic.jpg)  
-Click to view](img/07100.jpg)
+Click to view](img/07100.jpg.md)
 
 Fig. 82a.
 
@@ -448,7 +448,7 @@ purification of the Virgin Mary, more resembles the worship of the
 goddess Neith than the purification of the Temple by Judas Maccabœus.
 
 <span id="img_07200"></span> [![](tn/generic.jpg)  
-Click to view](img/07200.jpg)
+Click to view](img/07200.jpg.md)
 
 Pit of Fire.
 
@@ -456,4 +456,4 @@ Pit of Fire.
 
 ------------------------------------------------------------------------
 
-[Next: The Religion Under the Persian Conquerors](emec05)
+[Next: The Religion Under the Persian Conquerors](emec05.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic05)  [Next](tic07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic05)  [Next](tic07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,9 +33,9 @@ of the devil's arts. 20. Perfection consists in charity. 21. Indiscreet
 zeal. 22. Danger of detraction*.
 
 1\. BEFORE going farther, I wish you to consider the state to which
-mortal sin <span id="fr_45"></span>[1](#fn_45) brings this magnificent
+mortal sin <span id="fr_45"></span>[1](#fn_45.md) brings this magnificent
 and beautiful castle, this pearl of the East, this tree of life, planted
-beside the living waters of life <span id="fr_46"></span>[2](#fn_46)
+beside the living waters of life <span id="fr_46"></span>[2](#fn_46.md)
 
 <span id="page_46">p. 46</span>
 
@@ -44,7 +44,7 @@ blackness can compare to its obscurity. Suffice it to say that the sun
 in the centre of the soul, which gave it such splendour and beauty, is
 totally eclipsed, though the spirit is as fitted to enjoy God's presence
 as is the crystal to reflect the sun. <span
-id="fr_47"></span>[3](#fn_47)
+id="fr_47"></span>[3](#fn_47.md)
 
 2\. While the soul is in mortal sin nothing can profit it; none of its
 good works merit an eternal reward, since they do not proceed from God
@@ -53,7 +53,7 @@ The soul separated from Him is no longer pleasing in His eyes, because
 by committing a mortal sin, instead of seeking to please God, it prefers
 to gratify the devil, the prince of darkness, and so comes to share his
 blackness. I knew a person to whom our Lord revealed the result of a
-mortal sin <span id="fr_48"></span>[4](#fn_48) and who said she thought
+mortal sin <span id="fr_48"></span>[4](#fn_48.md) and who said she thought
 no one who realized its effects could ever commit it, but would suffer
 unimaginable torments to avoid it. This vision made her very desirous
 for all to grasp this truth, therefore I beg you, my daughters, to pray
@@ -102,8 +102,8 @@ this, which delivers us over to evil which is eternal.
 
 5\. This is what we must dread and pray God to deliver us from, for we
 are weakness itself, and unless He guards the city, in vain shall we
-labour to defend it. <span id="fr_49"></span>[5](#fn_49) The person of
-whom I spoke <span id="fr_50"></span>[6](#fn_50) said that she had
+labour to defend it. <span id="fr_49"></span>[5](#fn_49.md) The person of
+whom I spoke <span id="fr_50"></span>[6](#fn_50.md) said that she had
 learnt two things from the vision granted her. The first was, a great
 fear of offending God; seeing how terrible were the consequences, she
 constantly begged Him to preserve her from falling into sin. Secondly,
@@ -136,7 +136,7 @@ need for me to do my best to explain these spiritual subjects to you,
 for we often hear how beneficial prayer is for our souls; our
 Constitutions oblige us to pray so many hours a day, yet tell us nothing
 of what part we ourselves can take in it and very little of the work God
-does in the soul by its means. <span id="fr_51"></span>[7](#fn_51) It
+does in the soul by its means. <span id="fr_51"></span>[7](#fn_51.md) It
 will be helpful, in setting it before you in various ways, to consider
 this heavenly edifice within us, so little understood by men, near as
 they often come to it. Our Lord gave me grace to understand something of
@@ -148,8 +148,8 @@ well known.
 8\. Now let us turn at last to our castle with its many mansions. You
 must not think of a suite of rooms placed in succession, but fix your
 eyes on the keep, the court inhabited by the King. <span
-id="fr_52"></span>[8](#fn_52) Like the kernel of the palmito, <span
-id="fr_53"></span>[9](#fn_53) from which several rinds
+id="fr_52"></span>[8](#fn_52.md) Like the kernel of the palmito, <span
+id="fr_53"></span>[9](#fn_53.md) from which several rinds
 
 <span id="page_50">p. 50</span>
 
@@ -205,7 +205,7 @@ Secondly, our understanding and will become more noble and capable of
 good in every way when we turn from ourselves to God: it is very
 injurious never to raise our minds above the mire of our own faults. I
 described how murky and fetid are the streams that spring from the
-source of a soul in mortal sin. <span id="fr_54"></span>[10](#fn_54)
+source of a soul in mortal sin. <span id="fr_54"></span>[10](#fn_54.md)
 Thus (although the case is
 
 <span id="page_52">p. 52</span>
@@ -217,7 +217,7 @@ timid, weak, and cowardly thoughts, such as: 'I wonder whether people
 are noticing me or not! If I follow this course, will harm come to me?
 Dare I begin this work? Would it not be presumptuous? Is it right for
 any one as faulty as myself to speak on sublime spiritual
-subjects? <span id="fr_55"></span>[11](#fn_55) Will not people think too
+subjects? <span id="fr_55"></span>[11](#fn_55.md) Will not people think too
 well of me, if I make myself singular? Extremes are bad, even in virtue;
 sinful as I am I shall only fall the lower. Perhaps I shall fail and be
 a source of scandal to good people; such a person as I am has no need of
@@ -260,7 +260,7 @@ for their advocates to do battle for them, because we creatures possess
 little strength for self-defence. Indeed in every state of life all our
 help must come from God; may He in His mercy grant it us, Amen! What a
 miserable life we lead! As I have spoken more fully in other
-writings <span id="fr_56"></span>[12](#fn_56) on the ill that results
+writings <span id="fr_56"></span>[12](#fn_56.md) on the ill that results
 from ignoring the need of humility and self-knowledge, I will treat
 
 <span id="page_54">p. 54</span>
@@ -316,9 +316,9 @@ strength for the combat, but we must be keenly on the watch against the
 devils's arts, lest he deceive us in the form of an angel of light. He
 creeps in gradually, in numberless ways, and does us much harm, though
 we do not discover it until too late. <span
-id="fr_57"></span>[13](#fn_57)
+id="fr_57"></span>[13](#fn_57.md)
 
-19\. As I said elsewhere, <span id="fr_58"></span>[14](#fn_58) he works
+19\. As I said elsewhere, <span id="fr_58"></span>[14](#fn_58.md) he works
 like a file, secretly and silently wearing its way: I will give you some
 examples to show how he begins his wiles.
 
@@ -326,7 +326,7 @@ examples to show how he begins his wiles.
 
 <span class="contnote">\[paragraph continues\]</span> For instance: a
 nun has such a longing for penance as to feel no peace unless she is
-tormenting herself in some way. <span id="fr_59"></span>[15](#fn_59)
+tormenting herself in some way. <span id="fr_59"></span>[15](#fn_59.md)
 This is good in itself; but suppose that the Prioress has forbidden her
 to practise any mortifications without special leave, and the sister
 thinking that, in such a meritorious cause, she may venture to disobey,
@@ -353,7 +353,7 @@ much harm; let each one look to herself. However, as I have spoken fully
 
 <span id="page_57">p. 57</span>
 
-on this subject elsewhere, <span id="fr_60"></span>[16](#fn_60) I will
+on this subject elsewhere, <span id="fr_60"></span>[16](#fn_60.md) I will
 not enlarge on it here, and will only beg you to remember the necessity
 of this mutual affection. Our souls may lose their peace and even
 disturb other people's if we are always criticizing trivial actions
@@ -363,12 +363,12 @@ perfection! Sometimes the devil tempts nuns in this way about the
 Prioress, which is still more dangerous. Great prudence is then
 required, for if she disobeys the Rule or Constitutions the matter must
 not always be overlooked, but should be mentioned to her; <span
-id="fr_61"></span>[17](#fn_61) if, after this, she does not amend, the
+id="fr_61"></span>[17](#fn_61.md) if, after this, she does not amend, the
 Superior of the Order should be informed of it. It is true charity to
 speak in this case, as it would be if we saw our sisters commit a grave
 fault; to keep silence for fear that speech would be a temptation
 against charity, would be that very temptation itself. <span
-id="fr_62"></span>[18](#fn_62)
+id="fr_62"></span>[18](#fn_62.md)
 
 22\. However, I must warn you seriously not to talk to each other about
 such things, lest the devil deceive you. He would gain greatly by your
@@ -385,32 +385,32 @@ such conversations, still, it is well to stand ever on our guard.
 
 ### Footnotes
 
-<span id="fn_45"></span>[45:1](tic06.htm#fr_45) *Life*, ch. xxxviii. 31;
+<span id="fn_45"></span>[45:1](tic06.htm#fr_45.md) *Life*, ch. xxxviii. 31;
 ch. xl. 15.
 
-<span id="fn_46"></span>[45:2](tic06.htm#fr_46) Ps. i. 3: 'Et erit
+<span id="fn_46"></span>[45:2](tic06.htm#fr_46.md) Ps. i. 3: 'Et erit
 tamquam lignum quod plantatum eat secus decursus aquarum.'
 
-<span id="fn_47"></span>[46:3](tic06.htm#fr_47) *Way of Perf.* ch.
+<span id="fn_47"></span>[46:3](tic06.htm#fr_47.md) *Way of Perf.* ch.
 xxviii. 9.
 
-<span id="fn_48"></span>[46:4](tic06.htm#fr_48) In this as in most other
+<span id="fn_48"></span>[46:4](tic06.htm#fr_48.md) In this as in most other
 cases when the Saint speaks of 'a person she knows,' she means herself.
 *Life*, ch. xl, 15.
 
-<span id="fn_49"></span>[48:5](tic06.htm#fr_49) cxxvi. 1: 'Nisi Dominus
+<span id="fn_49"></span>[48:5](tic06.htm#fr_49.md) cxxvi. 1: 'Nisi Dominus
 custodierit civitatem, frustra vigilat qui custodit eam.'
 
-<span id="fn_50"></span>[48:6](tic06.htm#fr_50) *Life*, ch. xxxviii. 33;
+<span id="fn_50"></span>[48:6](tic06.htm#fr_50.md) *Life*, ch. xxxviii. 33;
 ch. xl. 15, 16.
 
-<span id="fn_51"></span>[49:7](tic06.htm#fr_51) *Life*, ch. x. 2 *sqq*.
+<span id="fn_51"></span>[49:7](tic06.htm#fr_51.md) *Life*, ch. x. 2 *sqq*.
 *Constitut*. 2, 6.
 
-<span id="fn_52"></span>[49:8](tic06.htm#fr_52) *Way of Perf*.. ch.
+<span id="fn_52"></span>[49:8](tic06.htm#fr_52.md) *Way of Perf*.. ch.
 xxviii. 1.
 
-<span id="fn_53"></span>[49:9](tic06.htm#fr_53) The palmito here
+<span id="fn_53"></span>[49:9](tic06.htm#fr_53.md) The palmito here
 referred to is not a palm, but a shrub about four feet high and very
 dense with leaves, resembling palm leaves. The poorer classes and
 principally children dig it up by the roots, which they peel of its many
@@ -419,33 +419,33 @@ id="page_50">p. 50</span> eaten, not without relish, and is somewhat
 like a filbert in taste. See St. John of the Cross, Accent of Mount
 Carmel, bk. ii. ch, xiv, 3.
 
-<span id="fn_54"></span>[51:10](tic06.htm#fr_54) *Supra*, § 3.
+<span id="fn_54"></span>[51:10](tic06.htm#fr_54.md) *Supra*, § 3.
 
-<span id="fn_55"></span>[52:11](tic06.htm#fr_55) *Life*, ch. viii. 6, x.
+<span id="fn_55"></span>[52:11](tic06.htm#fr_55.md) *Life*, ch. viii. 6, x.
 4, xxiii. 3-5. *Way of Perf.* ch. xxxix. 1.
 
-<span id="fn_56"></span>[53:12](tic06.htm#fr_56) *Life* ch. xiii. 23.
+<span id="fn_56"></span>[53:12](tic06.htm#fr_56.md) *Life* ch. xiii. 23.
 *Way of Perf*. ch. x. 4. *Castle*, M. iii. ch. ii. 8. *Concep*. ch. ii.
 20. *Const*. 21.
 
-<span id="fn_57"></span>[55:13](tic06.htm#fr_57) *Life* ch. xxxi. 23.
+<span id="fn_57"></span>[55:13](tic06.htm#fr_57.md) *Life* ch. xxxi. 23.
 
-<span id="fn_58"></span>[55:14](tic06.htm#fr_58) No doubt the Saint
+<span id="fn_58"></span>[55:14](tic06.htm#fr_58.md) No doubt the Saint
 often used this excellent comparison in her verbal instructions, but it
 occurs nowhere else in her writings.
 
-<span id="fn_59"></span>[56:15](tic06.htm#fr_59) *Way of Perf.* ch. x.
+<span id="fn_59"></span>[56:15](tic06.htm#fr_59.md) *Way of Perf.* ch. x.
 5; xxxix. 4; *Rel*. iii. 12.
 
-<span id="fn_60"></span>[57:16](tic06.htm#fr_60) The Saint must
+<span id="fn_60"></span>[57:16](tic06.htm#fr_60.md) The Saint must
 frequently have spoken on the subject, but she never treated it more
 fully than in this place. *Way of Perf.* ch. xii. 7. *Life*, ch. xiii.
 11, 14 *sqq*. Visitation of convents.
 
-<span id="fn_61"></span>[57:17](tic06.htm#fr_61) *Way of Perfection*,
+<span id="fn_61"></span>[57:17](tic06.htm#fr_61.md) *Way of Perfection*,
 ch. ii. 3. Visit. 20-22, 34, 36.
 
-<span id="fn_62"></span>[57:18](tic06.htm#fr_62) 'It is terrible to
+<span id="fn_62"></span>[57:18](tic06.htm#fr_62.md) 'It is terrible to
 think what harm a Prioress can do! For although the Sisters witness
 things which scandalize them (of which there are plenty here!), yet they
 think it would be sinning against obedience to see any harm in them.'
@@ -454,4 +454,4 @@ December, 5579. *Letters*, Vol. III.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. War.](tic07)
+[Next: Chapter I. War.](tic07.md)

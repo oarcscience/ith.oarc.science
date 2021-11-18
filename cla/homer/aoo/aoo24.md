@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo23)  [Next](aoo25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo23)  [Next](aoo25.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ rested from perils and toils.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](aoo25)
+[Next: Chapter II](aoo25.md)

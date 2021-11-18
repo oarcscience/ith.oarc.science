@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah11)  [Next](oah13) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah11)  [Next](oah13.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ person; I am the Unity of the whole.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](oah13)
+[Next: Chapter V](oah13.md)

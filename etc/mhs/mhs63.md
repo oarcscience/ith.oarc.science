@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs62)  [Next](mhs64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs62)  [Next](mhs64.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ bearer against the bite of serpents and reptiles.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Legal Prosecution Of Animals](mhs64)
+[Next: VIII. Legal Prosecution Of Animals](mhs64.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby05)  [Next](piby07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby05)  [Next](piby07.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ shepherd cometh the word of the Lord to the adherents of the Holy Law."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2: Presentation of the Law](piby07)
+[Next: Chapter 2: Presentation of the Law](piby07.md)

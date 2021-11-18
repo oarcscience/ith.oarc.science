@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/lll)  [Previous](../lear/lear) 
-[Next](../mac/mac) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/lll)  [Previous](../lear/lear.md) 
+[Next](../mac/mac.md) 
 
 ------------------------------------------------------------------------
 
@@ -4346,4 +4346,4 @@ Index](../index)  [First Folio](../ff/lll)  [Previous](../lear/lear) 
 
 ------------------------------------------------------------------------
 
-[Next: Macbeth](../mac/mac) 
+[Next: Macbeth](../mac/mac.md) 

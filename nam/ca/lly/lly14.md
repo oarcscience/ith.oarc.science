@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly13)  [Next](lly15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly13)  [Next](lly15.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ nobility, its sheer glory of stalwart beauty.
 
 ------------------------------------------------------------------------
 
-[Next: Yosemite Fall](lly15)
+[Next: Yosemite Fall](lly15.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](tmmi01)  [Next](tmmi03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](tmmi01)  [Next](tmmi03.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ representations now and have done so in the past.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of the World](tmmi03)
+[Next: The Origin of the World](tmmi03.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mbh00)    [Page
-Index](pageidx)    [Text \[Zipped\]](mbh.txt.gz)
+[Contents](#contents)    [Start Reading](mbh00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](mbh.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -80,28 +80,28 @@ footnotes were renumbered on a page-by-page basis.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mbh00)  
-[I. Introduction](mbh01)  
+<span id="contents"></span> [Title Page](mbh00.md)  
+[I. Introduction](mbh01.md)  
 <span id="section_000"></span>
 
 ### II. The Circle of Myths
 
-[Sargon](mbh02)  
-[Moses](mbh03)  
-[Karna](mbh04)  
-[Oedipus](mbh05)  
-[Paris](mbh06)  
-[Telephus](mbh07)  
-[Perseus](mbh08)  
-[Gilgamesh](mbh09)  
-[Cyrus](mbh10)  
-[Tristan](mbh11)  
-[Romulus](mbh12)  
-[Hercules](mbh13)  
-[Jesus](mbh14)  
-[Siegfried](mbh15)  
-[Lohengrin](mbh16)  
+[Sargon](mbh02.md)  
+[Moses](mbh03.md)  
+[Karna](mbh04.md)  
+[Oedipus](mbh05.md)  
+[Paris](mbh06.md)  
+[Telephus](mbh07.md)  
+[Perseus](mbh08.md)  
+[Gilgamesh](mbh09.md)  
+[Cyrus](mbh10.md)  
+[Tristan](mbh11.md)  
+[Romulus](mbh12.md)  
+[Hercules](mbh13.md)  
+[Jesus](mbh14.md)  
+[Siegfried](mbh15.md)  
+[Lohengrin](mbh16.md)  
 
  
 
-[III. The Interpretation of the Myths](mbh17)  
+[III. The Interpretation of the Myths](mbh17.md)  

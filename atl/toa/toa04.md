@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa03)  [Next](toa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa03)  [Next](toa05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -106,7 +106,7 @@ history, not just in gratitude, but because I believe it was given me
 that the mystery of the City in the Sky may be solved. So things work
 out in the history of us all, I think. The riddle of the race leaves a
 clew that sooner or later falls into the proper hands. Such hands are
-yours. Here is my diary, kept daily, and there is a [map](errata.htm#4)
+yours. Here is my diary, kept daily, and there is a [map](errata.htm#4.md)
 in my trunk that will guide to Tagua and the canyon of the vision.
 
 I have neither kith nor kin. I leave no one to be sorrowful about me
@@ -143,6 +143,6 @@ sturdy Scotchman.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III—Laidlaw's Theory](toa05)
+[Next: Chapter III—Laidlaw's Theory](toa05.md)
 
 </div>

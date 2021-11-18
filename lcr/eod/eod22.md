@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod21)  [Next](eod23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod21)  [Next](eod23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -30,14 +30,14 @@ especially in the area from Yucatan to Mexico, were inspired by the
 Cambodian and Indonesian modifications of Indian beliefs and practices.
 The god who was most often depicted upon the ancient Maya and Aztec
 codices was the Indian rain-god Indra, who in America was provided with
-the head of the Indian elephant <span id="fr_136"></span>[1](#fn_136)
+the head of the Indian elephant <span id="fr_136"></span>[1](#fn_136.md)
 (*i.e.* seems to have been confused with the Indian Ganesa) and given
 other attributes more suggestive of the Dravidian Nâga than his enemy,
 the Aryan deity. In other words the character of the American god, known
 as Chac by the Maya people and as *Tlaloc* by the Aztecs, is an
 interesting illustration of the effects of such a mixture of cultures as
 Dr. Rivers has studied in Melanesia. <span
-id="fr_137"></span>[2](#fn_137) Not only does the elephant-headed god in
+id="fr_137"></span>[2](#fn_137.md) Not only does the elephant-headed god in
 America represent a blend of the two great Indian rain-gods which in the
 Old World are mortal enemies, the one of the other (partly for
 
@@ -56,13 +56,13 @@ attributes of the god Soma. In America the name of the god of rain and
 thunder, the Mexican Indra, is *Tlaloc*, which is generally translated
 "pulque of the earth," from *tlal*\[*l*\]*i*, "earth," and
 *oc*\[*tli*\], "pulque, a fermented drink (like the Indian drink *soma*)
-made from the juice of the agave". <span id="fr_138"></span>[1](#fn_138)
+made from the juice of the agave". <span id="fr_138"></span>[1](#fn_138.md)
 
 The so-called "long-nosed god" (the elephant-headed rain-god) has been
 given the non-committal designation "god B," by Schellhas. <span
-id="fr_139"></span>[2](#fn_139)
+id="fr_139"></span>[2](#fn_139.md)
 
-I reproduce here a remarkable drawing ([Fig. 11](#img_fig11)) from the
+I reproduce here a remarkable drawing ([Fig. 11](#img_fig11).md) from the
 Codex Troano, in which this god, whom the Maya people called *Chac*, is
 shown pouring the rain out of a water-jar (just as the deities of
 Babylonia and India are often represented), and putting his foot upon
@@ -70,9 +70,9 @@ the head of a serpent, who is preventing the rain from reaching the
 earth. Here we find depicted with childlike simplicity and directness
 the Vedic conception of Indra overcoming the demon Vritra. Stempell
 describes this scene as "the elephant-headed god B standing upon the
-head of a serpent"; <span id="fr_140"></span>[3](#fn_140) while Seler,
+head of a serpent"; <span id="fr_140"></span>[3](#fn_140.md) while Seler,
 who claims that god B is a tortoise, explains it as the serpent forming
-a footstool for the rain-god. <span id="fr_141"></span>[4](#fn_141) In
+a footstool for the rain-god. <span id="fr_141"></span>[4](#fn_141.md) In
 the
 
 <span id="img_fig11"></span> <span align="CENTER"> [![FIG.
@@ -80,7 +80,7 @@ the
 RAIN-GOD &lt;i&gt;CHAC&lt;/i&gt; TREADING UPON THE SERPENT'S HEAD, WHICH
 IS INTERPOSED BETWEEN THE EARTH AND THE RAIN THE GOD IS POURING OUT OF A
 BOWL. A RAIN-GODDESS STANDS UPON THE SERPENT'S TAIL.](tn/fig11.jpg)  
-Click to enlarge](img/fig11.jpg)  
+Click to enlarge](img/fig11.jpg.md)  
 FIG. 11.—REPRODUCTION OF A PICTURE IN THE MAYA CODEX TROANO REPRESENTING
 THE RAIN-GOD *CHAC* TREADING UPON THE SERPENT'S HEAD, WHICH IS
 INTERPOSED BETWEEN THE EARTH AND THE RAIN THE GOD IS POURING OUT OF A
@@ -91,7 +91,7 @@ BOWL. A RAIN-GODDESS STANDS UPON THE SERPENT'S TAIL.
 REPRESENTATION OF THE ELEPHANT-HEADED RAIN-GOD. HE IS HOLDING
 THUNDERBOLTS, CONVENTIONALISED IN A HAND-LIKE FORM. THE SERPENT IS
 CONVERTED INTO A SAC, HOLDING UP THE RAIN-WATERS.](tn/fig12.jpg)  
-Click to enlarge](img/fig12.jpg)  
+Click to enlarge](img/fig12.jpg.md)  
 FIG. 12.—ANOTHER REPRESENTATION OF THE ELEPHANT-HEADED RAIN-GOD. HE IS
 HOLDING THUNDERBOLTS, CONVENTIONALISED IN A HAND-LIKE FORM. THE SERPENT
 IS CONVERTED INTO A SAC, HOLDING UP THE RAIN-WATERS.  
@@ -102,7 +102,7 @@ IS CONVERTED INTO A SAC, HOLDING UP THE RAIN-WATERS.
 <span class="contnote">\[paragraph continues\]</span> Codex Cortes the
 same theme is depicted in another way, which is truer to the Indian
 conception of Vritra, as "the restrainer" <span
-id="fr_142"></span>[1](#fn_142) ([Fig. 12](#img_fig12)).
+id="fr_142"></span>[1](#fn_142) ([Fig. 12](#img_fig12).md).
 
 The serpent (the American rattlesnake) restrains the water by coiling
 itself into a sac to hold up the rain and so prevent it from reaching
@@ -120,7 +120,7 @@ authorities consider God B to represent Kukulkan, the Feathered Serpent,
 whose Aztec equivalent is Quetzalcoatl. Others identify him with
 Itzamna, the Serpent God of the East, or with Chac, the Rain God of the
 four quarters and the equivalent of Tlaloc of the Mexicans." <span
-id="fr_143"></span>[2](#fn_143)
+id="fr_143"></span>[2](#fn_143.md)
 
 From the point of view of its Indian analogies these confusions are
 peculiarly significant, for the same phenomena are found in India. The
@@ -133,11 +133,11 @@ deities in America.
 
 In the Dresden Codex the elephant-headed god is represented in one place
 grasping a serpent, in another issuing from a serpent's mouth, and again
-as an actual serpent ([Fig. 13](#img_fig13)). Turning next to the
+as an actual serpent ([Fig. 13](#img_fig13).md). Turning next to the
 attributes of these American gods we find that they reproduce with
 amazing precision those of Indra. Not only were they the divinities who
 controlled rain, thunder, lightning, and vegetation, but they also
-carried axes and thunderbolts ([Fig. 13](#img_fig13)) like their
+carried axes and thunderbolts ([Fig. 13](#img_fig13).md) like their
 homologues in the Old World. Like Indra, Tlaloc was intimately
 associated with the East and with the tops of mountains, where he had a
 special heaven, reserved for
@@ -158,16 +158,16 @@ with other deities’ peculiarities, that it becomes impossible for any
 serious investigator to refuse to admit that Tlaloc and Chac are merely
 American forms of Indra. Even so fantastic a practice as the
 representation of the American rain-god's face as composed of contorted
-snakes <span id="fr_144"></span>[1](#fn_144) finds its analogy in Siam,
+snakes <span id="fr_144"></span>[1](#fn_144.md) finds its analogy in Siam,
 where in relatively recent times this curious device was still being
-used by artists. <span id="fr_145"></span>[2](#fn_145)
+used by artists. <span id="fr_145"></span>[2](#fn_145.md)
 
 "As the god of fertility maize belonged to him \[Tlaloc\], though not
 altogether by right, for according to one legend he stole it after it
 had been discovered by other gods concealed in the heart of a
-mountain." <span id="fr_146"></span>[3](#fn_146) Indra also obtained
+mountain." <span id="fr_146"></span>[3](#fn_146.md) Indra also obtained
 soma from the mountain by similar means. <span
-id="fr_147"></span>[4](#fn_147)
+id="fr_147"></span>[4](#fn_147.md)
 
 In the ancient civilization of America one of the most prominent deities
 was called the "Feathered Serpent," in the Maya language, Kukulkan,
@@ -201,7 +201,7 @@ right he is shown sitting in a hut resting from his labours.
 
 <span id="img_fig13"></span> <span align="CENTER"> [![FIG. 13.A PAGE
 (THE 36TH) OF THE DRESDEN MAYA CODEX](tn/fig13.jpg)  
-Click to enlarge](img/fig13.jpg)  
+Click to enlarge](img/fig13.jpg.md)  
 FIG. 13.—A PAGE (THE 36TH) OF THE DRESDEN MAYA CODEX  
 </span>
 
@@ -210,7 +210,7 @@ FIG. 13.—A PAGE (THE 36TH) OF THE DRESDEN MAYA CODEX
 thunder-bird and the serpent, but also the identification of these two
 rivals in one composite monster, which, as I have already mentioned, is
 seen in the winged disks, both in the Old World and the New. <span
-id="fr_148"></span>[1](#fn_148) Hardly any incident in the history of
+id="fr_148"></span>[1](#fn_148.md) Hardly any incident in the history of
 the Egyptian falcon or the thunder-birds of Babylonia, Greece or India,
 fails to reappear in America and find pictorial expression in the Maya
 and Aztec codices.
@@ -229,7 +229,7 @@ ancient mariners began to coast along the Eastern Asiatic littoral and
 make their way to America by the Aleutian route there was a further
 infiltration of new ideas. But when more venturesome sailors began to
 navigate the open seas and exploit Polynesia, for centuries <span
-id="fr_149"></span>[2](#fn_149) there was a more or less constant influx
+id="fr_149"></span>[2](#fn_149.md) there was a more or less constant influx
 of customs and beliefs, which were drawn from Egypt and Babylonia, from
 the Mediterranean and East Africa, from India and Indonesia, China and
 Japan, Cambodia and Oceania. One and the same fundamental idea, such as
@@ -259,22 +259,22 @@ the respective sons and representatives, Marduk and Horus. The composite
 animal of Ea-Marduk, the "sea-goat" (the Capricornus of the Zodiac), was
 also the vehicle of Varuna in India, whose relationship to Indra was in
 some respects analogous to that of Ea to Marduk in Babylonia. <span
-id="fr_150"></span>[1](#fn_150) The Indian "sea-goat" or *Makara* was in
+id="fr_150"></span>[1](#fn_150.md) The Indian "sea-goat" or *Makara* was in
 fact intimately associated both with Varuna and with Indra. This monster
 assumed a great variety of forms, such as the crocodile, the dolphin,
 the sea-serpent or dragon, or combinations of the heads of different
-animals with a fish's body ([Fig. 14](#img_fig14)). Amongst these we
+animals with a fish's body ([Fig. 14](#img_fig14).md). Amongst these we
 find an elephant-headed form of the *makara*, which was adopted as far
 east as Indonesia and as far west as Scotland.
 
-I have already called attention <span id="fr_151"></span>[2](#fn_151) to
+I have already called attention <span id="fr_151"></span>[2](#fn_151.md) to
 the part played by the *makara* in determining the development of the
 form of the elephant-headed god in America. Another form of the *makara*
 is described in the following American legend, which is interesting also
 as a mutilated version of the original dragon-story of the Old World.
 
 In 1912 Hernández translated and published a Maya manuscript <span
-id="fr_152"></span>[3](#fn_152) which had been written out in Spanish
+id="fr_152"></span>[3](#fn_152.md) which had been written out in Spanish
 characters in the early days
 
 Fig. 14.
@@ -295,7 +295,7 @@ Dragon or the American Elephant-headed God.
 
 <span id="img_fig14"></span> <span align="CENTER"> [![FIG.
 14](tn/fig14.jpg)  
-Click to enlarge](img/fig14.jpg)  
+Click to enlarge](img/fig14.jpg.md)  
 FIG. 14  
 </span>
 
@@ -327,7 +327,7 @@ All this serves, not only to corroborate the inferences drawn from the
 other sources of information which I have already indicated, but also to
 suggest that, in addition to borrowing the chief divinities of their
 pantheon from India, the Maya people's original name was derived from
-the same mythology. <span id="fr_153"></span>[1](#fn_153)
+the same mythology. <span id="fr_153"></span>[1](#fn_153.md)
 
 It is of considerable interest and importance to note that in the
 earliest dated example of Maya workmanship (from Tuxtla, in the Vera
@@ -343,12 +343,12 @@ The use of the numerals four and seven in the narrative translated
 
 by Hernandez, as in so many other American documents, is itself, as Mrs.
 Zelia Nuttall has so conclusively demonstrated, <span
-id="fr_154"></span>[1](#fn_154) a most striking and conclusive
+id="fr_154"></span>[1](#fn_154.md) a most striking and conclusive
 demonstration of the link with the Old World.
 
 Indra was not the only Indian god who was transferred to America, for
 all the associated deities, with the characteristic stories of their
-exploits, <span id="fr_155"></span>[2](#fn_155) are also found depicted
+exploits, <span id="fr_155"></span>[2](#fn_155.md) are also found depicted
 with childlike directness of incident, but amazingly luxuriant artistic
 phantasy, in the Maya and Aztec codices.
 
@@ -356,7 +356,7 @@ We find scattered throughout the islands of the Pacific the familiar
 stories of the dragon. One mentioned by the Bishop of Wellington refers
 to a New Zealand dragon with jaws like a crocodile's, which spouted
 water like a whale. It lived in a fresh-water lake. <span
-id="fr_156"></span>[3](#fn_156) In the same number of the same *Journal*
+id="fr_156"></span>[3](#fn_156.md) In the same number of the same *Journal*
 Sir George Grey gives extracts from a Maori legend of the dragon, which
 he compares with corresponding passages from Spenser's "Faery Queen".
 "Their strict verbal and poetical conformity with the New Zealand
@@ -414,7 +414,7 @@ and Iroquois legends, although rare in art. As a rule the horned serpent
 is a water spirit and an enemy of the thunder bird. Among the Pueblo
 Indians the horned snake seems to have considerable prestige in
 religious belief. … It lives in the water or in the sky and is connected
-with rain or lightning." <span id="fr_157"></span>[1](#fn_157)
+with rain or lightning." <span id="fr_157"></span>[1](#fn_157.md)
 
 Thus we find stories of a dragon equipped with those distinctive tokens
 of Chinese origin, the deer's antlers; and along with it a snake with
@@ -451,7 +451,7 @@ corroboration of the transmission to America of ideas which were the
 chance result of certain historical events in the Old World, which I
 have mentioned in this lecture.
 
-In the figure on page [94](#img_09400) I reproduce a remarkable drawing
+In the figure on page [94](#img_09400.md) I reproduce a remarkable drawing
 of an American dragon. If the Algonkin Indians had not preserved legends
 of a winged serpent equipped with deer's antlers, no value could be
 assigned to this sketch: but as we know that this particular tribe
@@ -465,7 +465,7 @@ Ohio, through whom they were furnished to the Bureau of Ethnology.
 Little reliance can be placed upon the accuracy of such drawing, but
 from the general appearance of the sketches the originals of which they
 are copies were probably made by one of the middle Algonquin tribes of
-Indians. <span id="fr_158"></span>[1](#fn_158)
+Indians. <span id="fr_158"></span>[1](#fn_158.md)
 
 <span id="page_93">p. 93</span>
 
@@ -519,7 +519,7 @@ inscribed the following in ink: "Made by Wm. Dennis, April 3rd, 1825".
 The date is in both letters and figures. On the top of the picture in
 large letters are the two words, "FLYING DRAGON". This picture, which
 has been kept in the old Gilham family of Madison county and bears the
-evidence of its age, is reproduced as [Fig. 3](#img_09400).
+evidence of its age, is reproduced as [Fig. 3](#img_09400.md).
 
 He also publishes another representation with the following remarks:—
 
@@ -531,7 +531,7 @@ Falls of St. Anthony to the Gulf of Mexico,' published about the year
 
 <span id="img_09400"></span> ![FIG. 3.WM. DENNIS'S DRAWING OF THE
 FLYING DRAGON DEPICTED ON THE ROCKS AT PIASA,
-ILLINOIS.](img/09400.jpg)  
+ILLINOIS.](img/09400.jpg.md)  
 FIG. 3.—WM. DENNIS'S DRAWING OF THE “FLYING DRAGON” DEPICTED ON THE
 ROCKS AT PIASA, ILLINOIS.
 
@@ -562,7 +562,7 @@ missionary's account as substantially accurate.
 Minns claims that representations of the dragon are unknown in China
 before the Han dynasty. But the legend of the dragon is much more
 ancient. The evidence has been given in full by de Visser. <span
-id="fr_159"></span>[1](#fn_159)
+id="fr_159"></span>[1](#fn_159.md)
 
 He tells us that the earliest reference is found in the *Yih King*, and
 shows that the dragon was "a water animal akin to the snake, which
@@ -578,7 +578,7 @@ reproach, reigned in the twenty-seventh century B.C.). In this ancient
 literature there are numerous references to the dragon, and not merely
 to the legends, *but also to representations* of the benign monster on
 garments, banners and metal tablets. <span
-id="fr_160"></span>[2](#fn_160) "The ancient texts ... are short, but
+id="fr_160"></span>[2](#fn_160.md) "The ancient texts ... are short, but
 sufficient to give us the main conceptions of Old China with regard to
 the dragon. In those early days \[just as at present\] he was the god of
 water, thunder, clouds, and rain, the harbinger of blessings, and the
@@ -590,7 +590,7 @@ In the fifth appendix to the *Yih King*, which has been ascribed to
 Confucius (*i.e.* three centuries earlier than the Han dynasty mentioned
 by Mr. Minns), it is stated that "*K’ien* (Heaven) is a horse, *Kw’un*
 (Earth) is a cow, *Chen* (*Thunder*) *is a dragon*" (*op. cit.*, p.
-37). <span id="fr_161"></span>[3](#fn_161)
+37). <span id="fr_161"></span>[3](#fn_161.md)
 
 The philosopher Hwai Nan Tsze (who died 122 B.C.) declared that the
 dragon is the origin of all creatures, winged, hairy, scaly, and
@@ -622,7 +622,7 @@ described in the Book of Genesis.
 
 The tiger and the dragon, the gods of wind and water, are the keystones
 of the doctrine called *fung shui*, which Professor de Groot has
-described in detail. <span id="fr_162"></span>[1](#fn_162)
+described in detail. <span id="fr_162"></span>[1](#fn_162.md)
 
 He describes it "as a quasi-scientific system, supposed to teach men
 where and how to build graves, temples, and dwellings, in order that the
@@ -634,7 +634,7 @@ quarters of heaven (*i.e.* the East, called the Azure Dragon, and the
 first of the seasons, spring)." The word Dragon comprises the high
 grounds in general, and the water streams which have their sources
 therein or wind their way through them. <span
-id="fr_163"></span>[2](#fn_163)
+id="fr_163"></span>[2](#fn_163.md)
 
 <span id="page_97">p. 97</span>
 
@@ -646,7 +646,7 @@ so-called "god B" of American archaeologists, the elephant-headed god
 was Indra.
 
 It is of interest to note that, according to Gerini, <span
-id="fr_164"></span>[1](#fn_164) the word *Nâga* denotes not only a snake
+id="fr_164"></span>[1](#fn_164.md) the word *Nâga* denotes not only a snake
 but also an elephant. Both the Chinese dragon and the Mexican
 elephant-god are thus linked with the Nâga, who is identified both with
 Indra himself and Indra's enemy Vritra. This is another instance of
@@ -694,16 +694,16 @@ embroidered as a symbol of the world: on each side (the right and left)
 of it a large dragon arises above the billows to represent the
 fertilizing rain. They are surrounded by gold-thread figures
 representing clouds and spirals typifying rolling thunder. <span
-id="fr_165"></span>[1](#fn_165)
+id="fr_165"></span>[1](#fn_165.md)
 
 A ball, sometimes with a spiral decoration, is commonly represented in
 front of the Chinese dragon. The Chinese writer Koh Hung tells us that
 "a spiral denotes the rolling of thunder from which issues a flash of
-lightning ". <span id="fr_166"></span>[2](#fn_166) De Visser discusses
+lightning ". <span id="fr_166"></span>[2](#fn_166.md) De Visser discusses
 this question at some length and refers to Hirth's claim that the
 Chinese triquetrum, *i.e.*, the well-known three-comma shaped figure,
 the Japanese *mitsu-tomoe*, the ancient spiral, represents thunder
-also.' <span id="fr_167"></span>[3](#fn_167) Before discussing this
+also.' <span id="fr_167"></span>[3](#fn_167.md) Before discussing this
 question, which involves the consideration of the almost world-wide
 belief in a thunder-weapon and its relationship to the spiral ornament,
 the octopus,
@@ -711,7 +711,7 @@ the octopus,
 <span id="img_fig15"></span> <span align="CENTER"> [![FIG.
 15.PHOTOGRAPH OF A CHINESE EMBROIDERY IN THE MANCHESTER SCHOOL OF ART
 REPRESENTING THE DRAGON AND THE PEARL-MOON SYMBOL](tn/fig15.jpg)  
-Click to enlarge](img/fig15.jpg)  
+Click to enlarge](img/fig15.jpg.md)  
 FIG. 15.—PHOTOGRAPH OF A CHINESE EMBROIDERY IN THE MANCHESTER SCHOOL OF
 ART REPRESENTING THE DRAGON AND THE PEARL-MOON SYMBOL  
 </span>
@@ -719,7 +719,7 @@ ART REPRESENTING THE DRAGON AND THE PEARL-MOON SYMBOL
 <span id="page_99">p. 99</span>
 
 the pearl, the swastika and triskele, let us examine further the problem
-of the dragon's ball (see [Fig. 15](#img_fig15)).
+of the dragon's ball (see [Fig. 15](#img_fig15).md).
 
 De Groot regards the dragon as a thunder-god and therefore, like Hirai,
 assumes that the supposed thunder-ball is being *belched forth* and not
@@ -738,7 +738,7 @@ In reply to this question I may call attention to the fact that the
 germs of civilization were first planted in China by people strongly
 imbued with the belief that the pearl was the quintessence of
 life-giving and prosperity-conferring powers: <span
-id="fr_168"></span>[1](#fn_168) it was not only identified with the
+id="fr_168"></span>[1](#fn_168.md) it was not only identified with the
 moon, but also was itself a particle of moon-substance which fell as dew
 into the gaping oyster. It was the very people who held such views about
 pearls and gold who, when searching for alluvial gold and freshwater
@@ -748,7 +748,7 @@ jade was the nucleus, so to speak, around which the earliest
 civilization of China was crystallized.
 
 As we shall see, in the discussion of the thunder-weapon ([p.
-121](eod24.htm#page_121)), the luminous pearl, which was believed to
+121](eod24.htm#page_121).md), the luminous pearl, which was believed to
 have fallen from the sky, was homologized with the thunderbolt, with the
 functions of which its own magical properties were assimilated.
 
@@ -770,7 +770,7 @@ satisfactory is, first, the red colour of the ball, and secondly, the
 spiral pattern upon it. He explains the colour as possibly an attempt to
 represent the pearl's lustre. But de Visser seems to have overlooked the
 fact that red and rose-coloured pearls obtained from the conch-shell
-were used in China and Japan. <span id="fr_169"></span>[1](#fn_169)
+were used in China and Japan. <span id="fr_169"></span>[1](#fn_169.md)
 
 "The spiral is much used in delineating the sacred pearls of Buddhism,
 so that it might have served also to design those of Taoism; although I
@@ -807,7 +807,7 @@ was
 
 one of the links in the chain of events which made the pearl and the
 spirally-coiled arm of the octopus the sign of thunder. <span
-id="fr_170"></span>[1](#fn_170)
+id="fr_170"></span>[1](#fn_170.md)
 
 It seems quite clear to me that de Visser's pearl-moon theory is the
 true interpretation. But when the pearl-ball was provided with the
@@ -823,7 +823,7 @@ almost invariably irrelevant.
 
 In his account of the state of Brahmanism in India after the times of
 the two earlier Vedas, Professor Hopkins <span
-id="fr_171"></span>[2](#fn_171) throws light upon the real significance
+id="fr_171"></span>[2](#fn_171.md) throws light upon the real significance
 of the ball in the dragon-symbolism. "Old legends are varied. The
 victory over Vritra is now expounded thus: Indra, who slays Vritra, is
 the sun. Vritra is the moon, who swims into the sun's mouth on the night
@@ -884,7 +884,7 @@ his book "The Megalithic Culture of Indonesia" makes it certain that the
 people of Indonesia in turn got it from the West.
 
 An old painting reproduced by F. W. K. Müller, <span
-id="fr_172"></span>[1](#fn_172) who called de Visser's attention to
+id="fr_172"></span>[1](#fn_172.md) who called de Visser's attention to
 these interesting stories, shows Hohodemi (the
 
 <span id="page_103">p. 103</span>
@@ -892,7 +892,7 @@ these interesting stories, shows Hohodemi (the
 youth on the cassia tree who married the princess) returning home
 mounted on the back of a crocodile, like the Indian Varuna upon the
 *makara* in a drawing reproduced by the late Sir George Birdwood. <span
-id="fr_173"></span>[1](#fn_173)
+id="fr_173"></span>[1](#fn_173.md)
 
 The *wani* or crocodile thus introduced from India, via Indonesia, is
 really the Chinese and Japanese dragon, as Aston has claimed. Aston
@@ -936,24 +936,24 @@ in a sky world, or heaven.
 
 ### Footnotes
 
-<span id="fn_136"></span>[83:1](eod22.htm#fr_136) "Precolumbian
+<span id="fn_136"></span>[83:1](eod22.htm#fr_136.md) "Precolumbian
 Representations of the Elephant in America," Nature, Nov. 25, 1915, p.
 340; Dec. 16, 1915, p. 425; and Jan. 27, 1916, p. 593.
 
-<span id="fn_137"></span>[83:2](eod22.htm#fr_137) History of Melanesian
+<span id="fn_137"></span>[83:2](eod22.htm#fr_137.md) History of Melanesian
 Society," Cambridge, 1914.
 
-<span id="fn_138"></span>[84:1](eod22.htm#fr_138) H. Beuchat, "Manuel d’
+<span id="fn_138"></span>[84:1](eod22.htm#fr_138.md) H. Beuchat, "Manuel d’
 Archéologie Americaine," 1912, p. 319.
 
-<span id="fn_139"></span>[84:2](eod22.htm#fr_139) "Representation of
+<span id="fn_139"></span>[84:2](eod22.htm#fr_139.md) "Representation of
 Deities of the Maya Manuscripts," *Papers of the Peabody Museum*, vol.
 iv., 1904.
 
-<span id="fn_140"></span>[84:3](eod22.htm#fr_140) *Zeitschrift für
+<span id="fn_140"></span>[84:3](eod22.htm#fr_140.md) *Zeitschrift für
 Ethnologie*, Bd. 40, 1908, p. 716.
 
-<span id="fn_141"></span>[84:4](eod22.htm#fr_141) "Die Tierbilder der
+<span id="fn_141"></span>[84:4](eod22.htm#fr_141.md) "Die Tierbilder der
 mexikanischen and der Maya-Handschriften," *Zeitschrift für Ethnologie*,
 Bd. 42, 1910, pp. 75 and 77. In the remarkable series of drawings from
 Maya and Aztec sources reproduced by Seler in his articles in the
@@ -963,36 +963,36 @@ episode of the dragon-myth of the Old World graphically depicted, but
 also every phase and incident of the legends from India (and Babylonia,
 Egypt and the Ægean) that contributed to the building-up of the myth.
 
-<span id="fn_142"></span>[85:1](eod22.htm#fr_142) Compare Hopkins,
+<span id="fn_142"></span>[85:1](eod22.htm#fr_142.md) Compare Hopkins,
 "Religions of India," p. 94.
 
-<span id="fn_143"></span>[85:2](eod22.htm#fr_143) Herbert J. Spinden,
+<span id="fn_143"></span>[85:2](eod22.htm#fr_143.md) Herbert J. Spinden,
 "Maya Art," p. 62.
 
-<span id="fn_144"></span>[86:1](eod22.htm#fr_144) Seler, "Codex
+<span id="fn_144"></span>[86:1](eod22.htm#fr_144.md) Seler, "Codex
 Vaticanus," Figs. 299-304.
 
-<span id="fn_145"></span>[86:2](eod22.htm#fr_145) See, for example, F.
+<span id="fn_145"></span>[86:2](eod22.htm#fr_145.md) See, for example, F.
 W. K. Müller, "Nang," *Int. Arch. f. Ethnolog*., 1894, Suppl. zu Bd.
 vii., Taf. vii., where the mask of *Ravana* (a late surrogate of Indra
 in the *Ramayana*) reveals a survival of the prototype of the Mexican
 designs.
 
-<span id="fn_146"></span>[86:3](eod22.htm#fr_146) Joyce, *op. cit.*, p.
+<span id="fn_146"></span>[86:3](eod22.htm#fr_146.md) Joyce, *op. cit.*, p.
 37.
 
-<span id="fn_147"></span>[86:4](eod22.htm#fr_147) For the incident of
+<span id="fn_147"></span>[86:4](eod22.htm#fr_147.md) For the incident of
 the stealing of the soma by Garuda, who in this legend is the
 representative of Indra, see Hopkins, "Religions of India," pp. 360-61.
 
-<span id="fn_148"></span>[87:1](eod22.htm#fr_148) "The Influence of
+<span id="fn_148"></span>[87:1](eod22.htm#fr_148.md) "The Influence of
 Ancient Egyptian Civilization in the East and in America," *Bulletin of
 the John Rylands Library*, 1916, Fig. 4, "The Serpent-Bird".
 
-<span id="fn_149"></span>[87:2](eod22.htm#fr_149) Probably from about
+<span id="fn_149"></span>[87:2](eod22.htm#fr_149.md) Probably from about
 300 B.C. to 700 A.D.
 
-<span id="fn_150"></span>[88:1](eod22.htm#fr_150) For information
+<span id="fn_150"></span>[88:1](eod22.htm#fr_150.md) For information
 concerning Ea's "Goat-Fish," which can truly be called the "Father of
 Dragons," as well as the prototype of the Indian *makara*, the mermaid,
 the "sea-serpent," the "dolphin of Aphrodite," and of most composite
@@ -1000,42 +1000,42 @@ sea-monsters, see W. H. Ward's "Seal Cylinders of Western Asia," pp. 382
 *et seq*. and 399 *et seq*.; and especially the detailed reports in de
 Morgan's *Mémoires* (Délégation en Perse).
 
-<span id="fn_151"></span>[88:2](eod22.htm#fr_151) *Nature*, *op. cit.*,
+<span id="fn_151"></span>[88:2](eod22.htm#fr_151.md) *Nature*, *op. cit.*,
 *supra*.
 
-<span id="fn_152"></span>[88:3](eod22.htm#fr_152) "Juan Martinez
+<span id="fn_152"></span>[88:3](eod22.htm#fr_152.md) "Juan Martinez
 Hernández, "La Creación del Mundo segun los Mayas," Paginas Inéditas del
 MS. De Chumayel, *International Congress of Americanists, Proceedings of
 the XVIII. Session*, London, 1912, p. 164.
 
-<span id="fn_153"></span>[89:1](eod22.htm#fr_153) From the folk-lore of
+<span id="fn_153"></span>[89:1](eod22.htm#fr_153.md) From the folk-lore of
 America I have collected many interesting variants of the Indra story
 and other legends (and artistic designs) of the elephant. I hope to
 publish these in the near future.
 
-<span id="fn_154"></span>[90:1](eod22.htm#fr_154) *Peabody Museum
+<span id="fn_154"></span>[90:1](eod22.htm#fr_154.md) *Peabody Museum
 Papers*, 1901.
 
-<span id="fn_155"></span>[90:2](eod22.htm#fr_155) See, for example,
+<span id="fn_155"></span>[90:2](eod22.htm#fr_155.md) See, for example,
 Wilfrid Jackson's "Shells as Evidence of the Migration of Early
 Culture," pp. 50-66.
 
-<span id="fn_156"></span>[90:3](eod22.htm#fr_156) "Notes on the Maoris,
+<span id="fn_156"></span>[90:3](eod22.htm#fr_156.md) "Notes on the Maoris,
 etc.," Journal of the Ethnological Society, vol. i., 1869, p. 368.
 
-<span id="fn_157"></span>[91:1](eod22.htm#fr_157) *Op. cit.*, p. 231.
+<span id="fn_157"></span>[91:1](eod22.htm#fr_157.md) *Op. cit.*, p. 231.
 
-<span id="fn_158"></span>[92:1](eod22.htm#fr_158) I quote this and the
+<span id="fn_158"></span>[92:1](eod22.htm#fr_158.md) I quote this and the
 following paragraphs verbatim from Garrick Mallery, "Picture Writing of
 the American Indians," 10*th* *Annual Report*, 1888-89, *Bureau of
 Ethnology* (*Smithsonian Institute*), p. 78.
 
-<span id="fn_159"></span>[95:1](eod22.htm#fr_159) *Op. cit.*, pp. 35 *et
+<span id="fn_159"></span>[95:1](eod22.htm#fr_159.md) *Op. cit.*, pp. 35 *et
 seq*.
 
-<span id="fn_160"></span>[95:2](eod22.htm#fr_160) See de Visser, p. 41.
+<span id="fn_160"></span>[95:2](eod22.htm#fr_160.md) See de Visser, p. 41.
 
-<span id="fn_161"></span>[95:3](eod22.htm#fr_161) There can be no doubt
+<span id="fn_161"></span>[95:3](eod22.htm#fr_161.md) There can be no doubt
 that the Chinese dragon is the descendant of the early Babylonian
 monster, and that the inspiration to create it probably reached Shensi
 during the third millennium B.C. by the route indicated in my "Incense
@@ -1043,17 +1043,17 @@ and Libations" (*Bull. John Ryland's Library*, vol. iv., No. 2, p. 239).
 Some centuries later the Indian dragon reached the Far East via
 Indonesia and mingled with his Babylonian cousin in Japan and China.
 
-<span id="fn_162"></span>[96:1](eod22.htm#fr_162) "Religious System of
+<span id="fn_162"></span>[96:1](eod22.htm#fr_162.md) "Religious System of
 China," vol. iii., chap. xii., pp. 936-1056.
 
-<span id="fn_163"></span>[96:2](eod22.htm#fr_163) This paragraph is
+<span id="fn_163"></span>[96:2](eod22.htm#fr_163.md) This paragraph is
 taken almost verbatim from de Visser, *op. cit.*, pp. 59 and 60.
 
-<span id="fn_164"></span>[97:1](eod22.htm#fr_164) G. E. Gerini,
+<span id="fn_164"></span>[97:1](eod22.htm#fr_164.md) G. E. Gerini,
 "Researches on Ptolemy's Geography of Eastern Asia," *Asiatic Society's
 Monographs*, No. 1, 1909, p. 146.
 
-<span id="fn_165"></span>[98:1](eod22.htm#fr_165) De Visser, p. 102, and
+<span id="fn_165"></span>[98:1](eod22.htm#fr_165.md) De Visser, p. 102, and
 de Groot, vi., p. 1265, Plate XVIII. The reference to "a range of
 mountains … as a symbol of the world" recalls the Egyptian
 representation of the eastern horizon as two hills between which Hathor
@@ -1070,34 +1070,34 @@ was very ancient (for the horns of the Divine Cow supporting the moon
 made this inevitable), this rationalization should not blind us as to
 the real origin of the idea, which is preserved in the ancient Egyptian,
 Babylonian, Cretan and Chinese pictures (see , facing [p.
-188](eod39.htm#page_188)).
+188](eod39.htm#page_188).md).
 
-<span id="fn_166"></span>[98:2](eod22.htm#fr_166) De Visser, p. 103.
+<span id="fn_166"></span>[98:2](eod22.htm#fr_166.md) De Visser, p. 103.
 
-<span id="fn_167"></span>[98:3](eod22.htm#fr_167) P. 104, The Chinese
+<span id="fn_167"></span>[98:3](eod22.htm#fr_167.md) P. 104, The Chinese
 triquetrum has a circle in the centre and five or eight commas.
 
-<span id="fn_168"></span>[99:1](eod22.htm#fr_168) See on this my paper
+<span id="fn_168"></span>[99:1](eod22.htm#fr_168.md) See on this my paper
 "The Origin of Early Siberian Civilization," now being published in the
 *Memoirs and Proceedings of the Manchester Literary and Philosophical
 Society*.
 
-<span id="fn_169"></span>[100:1](eod22.htm#fr_169) Wilfrid Jackson,
+<span id="fn_169"></span>[100:1](eod22.htm#fr_169.md) Wilfrid Jackson,
 "Shells as Evidence of the Migrations of Early Culture," p. 106.
 
-<span id="fn_170"></span>[101:1](eod22.htm#fr_170) I shall discuss this
+<span id="fn_170"></span>[101:1](eod22.htm#fr_170.md) I shall discuss this
 more fully in "The Birth of Aphrodite".
 
-<span id="fn_171"></span>[101:2](eod22.htm#fr_171) "Religions of India,"
+<span id="fn_171"></span>[101:2](eod22.htm#fr_171.md) "Religions of India,"
 p. 197.
 
-<span id="fn_172"></span>[102:1](eod22.htm#fr_172) "Mythe der
+<span id="fn_172"></span>[102:1](eod22.htm#fr_172.md) "Mythe der
 Kei-Insulaner und Verwandtes," *Zeitsch. f. Ethnologie*, vol. xxv.,
 1893, pp. 533 *et seq*.
 
-<span id="fn_173"></span>[103:1](eod22.htm#fr_173) See [Fig.
-14](#img_fig14).
+<span id="fn_173"></span>[103:1](eod22.htm#fr_173.md) See [Fig.
+14](#img_fig14.md).
 
 ------------------------------------------------------------------------
 
-[Next: The Evolution of the Dragon](eod23)
+[Next: The Evolution of the Dragon](eod23.md)

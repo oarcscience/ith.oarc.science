@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa34)  [Next](taa36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa34)  [Next](taa36.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -30,7 +30,7 @@ my mind the period of youth and its prime,
 <span id="page_119">p. 119</span>
 
 my kindling fire for them by rubbing the *‘afár* and the *markh*
-together.' <span id="fr_27"></span>[1](#fn_27)
+together.' <span id="fr_27"></span>[1](#fn_27.md)
 
 #### COMMENTARY
 
@@ -49,13 +49,13 @@ secondary causes whereby the reality is doubly disguised.
 
 ### Footnotes
 
-<span id="fn_27"></span>[119:1](taa35.htm#fr_27) *‘Afár* and *markh* are
+<span id="fn_27"></span>[119:1](taa35.htm#fr_27.md) *‘Afár* and *markh* are
 the names of trees whose wood was used for this purpose.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXXIII](taa36)
+[Next: XXXIII](taa36.md)
 
 </div>

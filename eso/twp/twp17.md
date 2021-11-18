@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp16)  [Next](twp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp16)  [Next](twp18.md) 
 
 ------------------------------------------------------------------------
 
@@ -588,4 +588,4 @@ Existence, Knowledge, Joy."
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](twp18)
+[Next: Epilogue](twp18.md)

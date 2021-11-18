@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs26)  [Next](pifs28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs26)  [Next](pifs28.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ Now Sun-Arrow met this great warrior; and
 <span id="page_171">p. 171</span>
 
 with the help of an old Spider-woman, <span
-id="fr_84"></span>[1](#fn_83) slew him and took his scalp. When the
+id="fr_84"></span>[1](#fn_83.md) slew him and took his scalp. When the
 people of Isleta saw Sun-Arrow returning, the young men began to laugh
 and say: "Va! T'hoor-hlóh-ah has gone to make war again on the rabbits!'
 
@@ -104,12 +104,12 @@ people, the girl was a little in front, and all cried:
 be honored in her own house."
 
 So they were married, and the Cacique blessed them. They made a house by
-the plaza, <span id="fr_85"></span>[1](#fn_84) and Sun-Arrow was given
+the plaza, <span id="fr_85"></span>[1](#fn_84.md) and Sun-Arrow was given
 of the fields, that he might plant.
 
 But of the maidens there was one who did not forgive Sun-Arrow that he
 would not look at her; and in her heart she thought to pay him. So she
-went to a Spider-woman, <span id="fr_86"></span>[2](#fn_85) and said:
+went to a Spider-woman, <span id="fr_86"></span>[2](#fn_85.md) and said:
 "Grandmother, help me! For this young man despised me, and now I will
 punish him."
 
@@ -152,7 +152,7 @@ will be the ones to help you!"
 
 Then Shee-íd-deh ran from the house until he found the Dog, and to him
 told it all. And Quee-ah-níd-deh, whose voice was big, ran out into the
-plains, up and down, *pregonando* <span id="fr_87"></span>[1](#fn_86) to
+plains, up and down, *pregonando* <span id="fr_87"></span>[1](#fn_86.md) to
 all the animals; and they came hurrying from all places. Soon all the
 birds and all the four-feet were met in
 
@@ -195,7 +195,7 @@ came off--and Sun-Arrow
 was moved a very little. But the Badger did not fear the pain, and said:
 
 "Let it be to me twice again, Kah-báy-deh." <span
-id="fr_88"></span>[1](#fn_87)
+id="fr_88"></span>[1](#fn_87.md)
 
 "It is well!" said the Mountain Lion. "So let it be."
 
@@ -229,14 +229,14 @@ And the Bear and the Bluebird both answered the same thing.
 
 So Sun-Arrow again gave them many thanks, and they went away to their
 homes. As for Sun-Arrow, he hurried to the Medicine House, where all the
-Tée-wahn were making medicine <span id="fr_89"></span>[1](#fn_88) that
+Tée-wahn were making medicine <span id="fr_89"></span>[1](#fn_88.md) that
 he might be saved. And when they saw him entering, his wife ran and
 cried on his shoulder, and all the people gave thanks to the Trues.
 
 Sun-Arrow told them all that was; and when the Father-of-all-Medicine
-looked in the sacred *cajete* <span id="fr_90"></span>[2](#fn_89) he saw
+looked in the sacred *cajete* <span id="fr_90"></span>[2](#fn_89.md) he saw
 the evil-hearted girl paying the Spider-woman. Then the
-Cum-pah-whít-la-wen <span id="fr_91"></span>[3](#fn_90) went running
+Cum-pah-whít-la-wen <span id="fr_91"></span>[3](#fn_90.md) went running
 with their bows and arrows, and brought the girl; and she was punished
 as are they that have the evil road. As for the Spiderwoman, she was
 already dead of shame; for she knew all that had been.
@@ -272,33 +272,33 @@ than only learning that "it's bedtime now," or that "I'm busy."
 
 ### Footnotes
 
-<span id="fn_83"></span>[171:1](pifs27.htm#fr_84) About equivalent to
+<span id="fn_83"></span>[171:1](pifs27.htm#fr_84.md) About equivalent to
 our "fairy godmother."
 
-<span id="fn_84"></span>[172:1](pifs27.htm#fr_85) Public square in the
+<span id="fn_84"></span>[172:1](pifs27.htm#fr_85.md) Public square in the
 center of the pueblo.
 
-<span id="fn_85"></span>[172:2](pifs27.htm#fr_86) Here equivalent to a
+<span id="fn_85"></span>[172:2](pifs27.htm#fr_86.md) Here equivalent to a
 witch.
 
-<span id="fn_86"></span>[73:1](pifs27.htm#fr_87) The technical (Spanish)
+<span id="fn_86"></span>[73:1](pifs27.htm#fr_87) The technical (Spanish.md)
 word for the official heralding by which all announcements are still
 made among the Pueblos.
 
-<span id="fn_87"></span>[175:1](pifs27.htm#fr_88) Commander.
+<span id="fn_87"></span>[175:1](pifs27.htm#fr_88.md) Commander.
 
-<span id="fn_88"></span>[176:1](pifs27.htm#fr_89) Not compounding
+<span id="fn_88"></span>[176:1](pifs27.htm#fr_89.md) Not compounding
 remedies, but going through the magic dance and incantations to which
 the Indians always resort in time of trouble. For a description of a
 medicine-making, see "Some Strange Corners of Our Country."
 
-<span id="fn_89"></span>[176:2](pifs27.htm#fr_90) A jar of magic water,
+<span id="fn_89"></span>[176:2](pifs27.htm#fr_90.md) A jar of magic water,
 in which the chief conjuror is supposed to see all that is going on in
 the world.
 
-<span id="fn_90"></span>[176:3](pifs27.htm#fr_91) Armed guards of the
+<span id="fn_90"></span>[176:3](pifs27.htm#fr_91.md) Armed guards of the
 Medicine House.
 
 ------------------------------------------------------------------------
 
-[Next: XXV. The Revenge of the Fawns](pifs28)
+[Next: XXV. The Revenge of the Fawns](pifs28.md)

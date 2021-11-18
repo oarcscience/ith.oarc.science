@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb29)  [Next](gyfb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb29)  [Next](gyfb31.md) 
 
 </div>
 
@@ -232,6 +232,6 @@ quite such a fool as he looked.
 
 ------------------------------------------------------------------------
 
-[Next: The Street Musicians](gyfb31)
+[Next: The Street Musicians](gyfb31.md)
 
 </div>

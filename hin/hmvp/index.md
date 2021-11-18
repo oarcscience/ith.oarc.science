@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,8 +20,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hmvp00)    [Page
-Index](pageidx)    [Text \[Zipped\]](hmvp.txt.gz)
+[Contents](#contents)    [Start Reading](hmvp00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](hmvp.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -44,72 +44,72 @@ confusion.--J.B. Hare, May 17th, 2009.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](hmvp00)  
-[Preface](hmvp01)  
-[Preface to Second Edition](hmvp02)  
-[Contents](hmvp03)  
-[List of Illustrations](hmvp04)  
+<span id="contents"></span> [Title Page](hmvp00.md)  
+[Preface](hmvp01.md)  
+[Preface to Second Edition](hmvp02.md)  
+[Contents](hmvp03.md)  
+[List of Illustrations](hmvp04.md)  
 <span id="section_000"></span>
 
 ### Part I. The Vedic Deities
 
-[Chapter I. The Vedas](hmvp05)  
-[Chapter II. The Vedic Gods Generally](hmvp06)  
-[Chapter III. Dyaus And Prithivi](hmvp07)  
-[Chapter IV. Aditi, and the Ādityas](hmvp08)  
-[Chapter V. Agni](hmvp09)  
-[Chapter VI. Sun or Light Deities](hmvp10)  
-[Chapter VII. The Storm Deities](hmvp11)  
-[Chapter VIII. Soma](hmvp12)  
-[Chapter IX. Tvastri or Visvakarma](hmvp13)  
-[Chapter X. Yama](hmvp14)  
+[Chapter I. The Vedas](hmvp05.md)  
+[Chapter II. The Vedic Gods Generally](hmvp06.md)  
+[Chapter III. Dyaus And Prithivi](hmvp07.md)  
+[Chapter IV. Aditi, and the Ādityas](hmvp08.md)  
+[Chapter V. Agni](hmvp09.md)  
+[Chapter VI. Sun or Light Deities](hmvp10.md)  
+[Chapter VII. The Storm Deities](hmvp11.md)  
+[Chapter VIII. Soma](hmvp12.md)  
+[Chapter IX. Tvastri or Visvakarma](hmvp13.md)  
+[Chapter X. Yama](hmvp14.md)  
 <span id="section_001"></span>
 
 ### Part II. The Purānic Deities
 
-[Chapter I. The Purānas](hmvp15)  
-[Chapter II. Brahma](hmvp16)  
-[Chapter III. Brahmā and Sarasvati](hmvp17)  
-[Chapter V. Vishnu and Lakshmi](hmvp18)  
+[Chapter I. The Purānas](hmvp15.md)  
+[Chapter II. Brahma](hmvp16.md)  
+[Chapter III. Brahmā and Sarasvati](hmvp17.md)  
+[Chapter V. Vishnu and Lakshmi](hmvp18.md)  
 <span id="section_002"></span>
 
 ### Chapter V. The Incarnations or Avatāras of Vishnu
 
-[1. The Matsya or Fish Avatāra](hmvp19)  
-[2. The Kūrma or Tortoise Avatāra](hmvp20)  
-[3. The Varāha or Boar Avatāra](hmvp21)  
-[4. The Nrisingha or Man-Lion Avatāra](hmvp22)  
-[5. The Vāmana or Dwarf Avatāra](hmvp23)  
-[6. The Parasurāma Avatāra](hmvp24)  
-[7. The Rāma Chandra Avatāra](hmvp25)  
-[8. The Krishna Avatāra](hmvp26)  
-[8A. The Balarāma Avatāra](hmvp27)  
-[9. The Buddha Avatāra](hmvp28)  
-[10. The Kalki Avatāra](hmvp29)  
-[Jagannāth](hmvp30)  
-[Chaitanya](hmvp31)  
-[Kamadeva](hmvp32)  
+[1. The Matsya or Fish Avatāra](hmvp19.md)  
+[2. The Kūrma or Tortoise Avatāra](hmvp20.md)  
+[3. The Varāha or Boar Avatāra](hmvp21.md)  
+[4. The Nrisingha or Man-Lion Avatāra](hmvp22.md)  
+[5. The Vāmana or Dwarf Avatāra](hmvp23.md)  
+[6. The Parasurāma Avatāra](hmvp24.md)  
+[7. The Rāma Chandra Avatāra](hmvp25.md)  
+[8. The Krishna Avatāra](hmvp26.md)  
+[8A. The Balarāma Avatāra](hmvp27.md)  
+[9. The Buddha Avatāra](hmvp28.md)  
+[10. The Kalki Avatāra](hmvp29.md)  
+[Jagannāth](hmvp30.md)  
+[Chaitanya](hmvp31.md)  
+[Kamadeva](hmvp32.md)  
 
  
 
-[Chapter VI. Siva](hmvp33)  
-[Chapter VII. Umā](hmvp34)  
-[Chapter VIII. Sons of Siva and Pārvati](hmvp35)  
-[Chapter IX. The Puranic Account of the Creation](hmvp36)  
-[Chapter X. The Purānic Divisions of Time](hmvp37)  
+[Chapter VI. Siva](hmvp33.md)  
+[Chapter VII. Umā](hmvp34.md)  
+[Chapter VIII. Sons of Siva and Pārvati](hmvp35.md)  
+[Chapter IX. The Puranic Account of the Creation](hmvp36.md)  
+[Chapter X. The Purānic Divisions of Time](hmvp37.md)  
 <span id="section_003"></span>
 
 ### Part III. The Inferior Deities
 
-[Chapter I. The Divine Rishis](hmvp38)  
-[Chapter II. Kuvera](hmvp39)  
-[Chapter III. The Demigods of the Rāmāyana](hmvp40)  
-[Chapter IV. The Demigods of the Mahābhārata](hmvp41)  
-[Chapter V. The Planets](hmvp42)  
-[Chapter VI. The Asuras](hmvp43)  
-[Chapter VII. Sacred Animals and Birds](hmvp44)  
-[Chapter VIII. Gangā](hmvp45)  
-[Chapter IX. Sacred Trees](hmvp46)  
-[Chapter X. Miscellaneous Minor Deities](hmvp47)  
-[Chapter XI. Superhuman, Though Not Divine Beings](hmvp48)  
-[Index](hmvp49)  
+[Chapter I. The Divine Rishis](hmvp38.md)  
+[Chapter II. Kuvera](hmvp39.md)  
+[Chapter III. The Demigods of the Rāmāyana](hmvp40.md)  
+[Chapter IV. The Demigods of the Mahābhārata](hmvp41.md)  
+[Chapter V. The Planets](hmvp42.md)  
+[Chapter VI. The Asuras](hmvp43.md)  
+[Chapter VII. Sacred Animals and Birds](hmvp44.md)  
+[Chapter VIII. Gangā](hmvp45.md)  
+[Chapter IX. Sacred Trees](hmvp46.md)  
+[Chapter X. Miscellaneous Minor Deities](hmvp47.md)  
+[Chapter XI. Superhuman, Though Not Divine Beings](hmvp48.md)  
+[Index](hmvp49.md)  

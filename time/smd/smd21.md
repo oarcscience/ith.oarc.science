@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd20)  [Next](smd22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd20)  [Next](smd22.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ or Frigga, the wife of Odin.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Saturday--The Day of Saturn](smd22)
+[Next: Chapter XX. Saturday--The Day of Saturn](smd22.md)

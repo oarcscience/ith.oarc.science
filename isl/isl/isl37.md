@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl36)  [Next](isl38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl36)  [Next](isl38.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ hatred of their opponents.
 *The Sermon of Abū Hamza the Khārijī*
 
 Abū Hamza the Khārijī entered Medina; <span
-id="fr_154"></span>[1](#fn_154) he was one of the Khārijī pietists and
+id="fr_154"></span>[1](#fn_154.md) he was one of the Khārijī pietists and
 preachers. He mounted the pulpit leaning on his Arab bow. Mālik ibn Anas
 said, "Abū Hamza preached us a sermon which would have thrown doubt into
 the most perspicacious and refuted a skeptic." He said:
@@ -130,7 +130,7 @@ He aided to the
 deserts in your error. Your ancestors were few and pious, and you are
 many and malicious. . . . The preachers of the Qur’ān cry out to you,
 and you are not chidden; they warn you, and you do not ponder. . .
-. <span id="fr_155"></span>[2](#fn_155)
+. <span id="fr_155"></span>[2](#fn_155.md)
 
 "Oh ye people, the blessing of God and peace be on our Prophet, who
 never delayed or hastened save by God's leave, and command, and
@@ -215,15 +215,15 @@ them! How perverse they are!"
 
 ### Footnotes
 
-<span id="fn_154"></span>[219:1](isl37.htm#fr_154) According to Isfahānī
+<span id="fn_154"></span>[219:1](isl37.htm#fr_154.md) According to Isfahānī
 and Ibn ‘Abd Rabbihi; but al-Jāhiz places the khutba in Mecca. Very
 likely there was more than one, and they have been confused.
 
-<span id="fn_155"></span>[219:2](isl37.htm#fr_155) Thus far translated
+<span id="fn_155"></span>[219:2](isl37.htm#fr_155.md) Thus far translated
 from *al-‘Iqd al-Farīd* of Ibn ‘Abd Rabbihi (Cairo, 1944), Vol. IV, pp.
 144-146. The section following is taken from the account by al-Jāhiz in
 *al-Bayān wa al-Tabyīn* (Cairo, 1948-1950), Vol. III, p. 95.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Zaydīs](isl38)
+[Next: 2. The Zaydīs](isl38.md)

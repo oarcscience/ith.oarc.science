@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc065) 
-[Next](motc067) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc065.md) 
+[Next](motc067.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ chirps its song, his friends know he will soon be safe home.
 
 ------------------------------------------------------------------------
 
-[Next: 67. Nûñ'yunu'wï, The Stone Man](motc067)
+[Next: 67. Nûñ'yunu'wï, The Stone Man](motc067.md)

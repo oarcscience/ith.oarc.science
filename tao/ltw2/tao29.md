@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao29)   
-[Previous](tao28)  [Next](tao30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao29.md)   
+[Previous](tao28)  [Next](tao30.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ set the nation an example of returning to simplicity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 30](tao30)
+[Next: Chapter 30](tao30.md)

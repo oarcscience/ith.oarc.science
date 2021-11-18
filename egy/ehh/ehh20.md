@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh19)  [Next](ehh21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh19)  [Next](ehh21.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ hieroglyphics have, as Champollion pointed
  
 
 <span id="img_15900"></span> [![](tn/generic.jpg)  
-Click to view](img/15900.jpg)  
+Click to view](img/15900.jpg.md)  
 Nebseni being weighed against his heart.
 
  
@@ -54,7 +54,7 @@ united; in Nebseni being weighed against his heart.
  
 
 <span id="img_15901"></span> [![](tn/generic.jpg)  
-Click to view](img/15901.jpg)  
+Click to view](img/15901.jpg.md)  
 The Scales of Osiris, with weights.
 
  
@@ -78,7 +78,7 @@ so, it seems that the wickedness of the deceased did not go beyond a
 recognized limit. ANUBIS, in the upper corner of the scene, addresses
 some words to THOTH, who bears the Balance on his shoulders. In the
 small boat near the Balance is a pig being beaten by an ape; <span
-id="fr_51"></span>[1](#fn_51) the name of the pig is AM-A, but neither
+id="fr_51"></span>[1](#fn_51.md) the name of the pig is AM-A, but neither
 his functions, nor those of the ape are clearly known. The ape may be
 the equivalent of the dog-headed ape which sits on the beam of the
 Balance in the pictures in the Theban papyri, and the pig may represent
@@ -90,7 +90,7 @@ With reference to the pig it is interesting to note that
  
 
 <span id="img_16100"></span> [![](tn/generic.jpg)  
-Click to view](img/16100.jpg)  
+Click to view](img/16100.jpg.md)  
 The Judgement Hall of Osiris according to the Book of Gates. (From
 Champollion, *Monuments de l'Égypte*, tom. iii, pl. cclxxii.)
 
@@ -119,7 +119,7 @@ the god's decree, and preparatory to slaughter in the Hall of Ra.
  
 
 <span id="img_16300"></span> [![](tn/generic.jpg)  
-Click to view](img/16300.jpg)  
+Click to view](img/16300.jpg.md)  
 Nekht spearing the pig of evil.
 
  
@@ -141,7 +141,7 @@ To the left of the path of AFU-Ra are twelve gods, each of whom is
 tending a colossal ear of wheat, and twelve gods provided with sickles,
 engaged in reaping. The ears of wheat here growing are the "members of
 Osiris," (*hat Sar*), that is, they are regarded as parts of the god's
-own body, <span id="fr_52"></span>[1](#fn_52) and the inhabitants of the
+own body, <span id="fr_52"></span>[1](#fn_52.md) and the inhabitants of the
 Kingdom of Osiris and human beings on earth alike ate the body of the
 god when they ate bread of wheat. The wheat which grew in the kingdom of
 Osiris was, of course, larger, and finer in every respect than that
@@ -199,16 +199,16 @@ consolation and hope.
 
 ### Footnotes
 
-<span id="fn_51"></span>[160:1](ehh20.htm#fr_51) The boat sometimes
+<span id="fn_51"></span>[160:1](ehh20.htm#fr_51.md) The boat sometimes
 contains two apes (see Sharpe, *Eg. Inscriptions*, part ii., pl. 9), and
 in a tomb at Thebes one ape is in the boat and one outside it (see the
 illustration opposite).
 
-<span id="fn_52"></span>[164:1](ehh20.htm#fr_52) Prof. Wiedemann has
+<span id="fn_52"></span>[164:1](ehh20.htm#fr_52.md) Prof. Wiedemann has
 collected a number of important facts on this subject in his most
 interesting paper "OSIRIS VÉGÉTANT."
 
 ------------------------------------------------------------------------
 
 [Next: Seventh Division of the Tuat. II. Kingdom of Osiris According to
-the Book of Gates](ehh21)
+the Book of Gates](ehh21.md)

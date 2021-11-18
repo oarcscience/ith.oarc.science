@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss14)  [Next](jss16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss14)  [Next](jss16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -96,14 +96,14 @@ Gesir Bogdo was born in Qonyin Qotoí. He sleeps at the
 
 <span id="img_12800"></span> <span align="CENTER"> [![FIELD
 ONGONS.](tn/12800.jpg)  
-Click to enlarge](img/12800.jpg)  
+Click to enlarge](img/12800.jpg.md)  
 FIELD ONGONS.  
 </span>
 
 <span class="small">CHURCH IN WHICH THE AUTHOR SPENT THREE DAYS, AND THE
-GROUP OF HOUSES MENTIONED ON PAGE [72](jss09.htm#page_72).</span>
+GROUP OF HOUSES MENTIONED ON PAGE [72](jss09.htm#page_72.md).</span>
 
-*Page* [41](jss07.htm#page_41)
+*Page* [41](jss07.htm#page_41.md)
 
  
 
@@ -118,4 +118,4 @@ turning over.
 
 ------------------------------------------------------------------------
 
-[Next: Gesir Bogdo. No. II](jss16)
+[Next: Gesir Bogdo. No. II](jss16.md)

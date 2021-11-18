@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg03)   
-[Previous](bgs02)  [Next](bgs04) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg03.md)   
+[Previous](bgs02)  [Next](bgs04.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,4 +161,4 @@ jahi śatruṃ mahābāho kāmarūpaṃ durāsadam 3.43
 
 ------------------------------------------------------------------------
 
-[Next: IV. atha caturthodhyāyaḥ (jñānakarmasaṃnyāsayogaḥ)](bgs04)
+[Next: IV. atha caturthodhyāyaḥ (jñānakarmasaṃnyāsayogaḥ)](bgs04.md)

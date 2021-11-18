@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc122)  [Next](ffcc124) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc122)  [Next](ffcc124.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ the flitters.'
 'Willy-the-Fairy,' as he is called, who lives at Rhenass, says he often
 hears the fairies singing and playing up the Glen o' nights. I have
 heard him sing airs which he said he had thus learned from the *Little
-People*. <span id="fr_41"></span>[1](#fn_40)
+People*. <span id="fr_41"></span>[1](#fn_40.md)
 
 Again, there is a belief that at Keeill Moirrey (Mary's Church), near
 Glen Meay, a little old woman in a red cloak is sometimes seen coming
@@ -256,7 +256,7 @@ education came into the island more people could see the fairies; now
 very few people can see them. But *they* (the fairies) are as thick on
 the Isle of Man as ever *they* were. *They* throng the air, and darken
 Heaven, and rule this lower world. It is only twenty-one miles from this
-world up to the first heaven. <span id="fr_42"></span>[1](#fn_41) There
+world up to the first heaven. <span id="fr_42"></span>[1](#fn_41.md) There
 are as many kinds of fairies as populations in our world. I have seen
 some who were about two and a half feet high; and some who were as big
 as we are. I think very many such fairies as these last are the lost
@@ -291,7 +291,7 @@ them the ghosts of the dead or some such things. They were like people
 who had gone before (that is, dead). If there came a strange sudden
 knock or noises, or if a tree took a sudden shaking when there was no
 wind, people used to make out it was caused by the fairies. On the 11th
-of May <span id="fr_43"></span>[1](#fn_42) we used to gather
+of May <span id="fr_43"></span>[1](#fn_42.md) we used to gather
 mountain-ash (*Cuirn*) with red berries on it, and make crosses out of
 its sprigs, and put them over the doors, so that the fairies would not
 come in. My father always saw that this was done; he said we could have
@@ -489,7 +489,7 @@ Coat for the back, alas! poor back,
 Breeches for the breech, alas! poor breech,  
 But if big Gordon \[farm\] is thine,  
 Thine is not the merry Glen of Rushen.) <span
-id="fr_44"></span>[1](#fn_43)
+id="fr_44"></span>[1](#fn_43.md)
 
 And off he went to Glen Rushen for good.'
 
@@ -533,7 +533,7 @@ the old Manx people used to put their ears to the earth to hear the
 Sounds of Infinity (*Sheean-ny-Feaynid*), which were sounds like
 murmurs. They thought these sounds came from beings in space; for in
 their belief all space is filled with invisible beings.' <span
-id="fr_45"></span>[1](#fn_44)
+id="fr_45"></span>[1](#fn_44.md)
 
 ### TO THE MEMORY OF A MANX SCHOLAR
 
@@ -583,7 +583,7 @@ legs (the Manx coat of arms) could travel from one end to
 <span id="page_132">p. 132</span>
 
 the other of his isle with wonderful swiftness, moving like a
-wheel.' <span id="fr_46"></span>[1](#fn_45)
+wheel.' <span id="fr_46"></span>[1](#fn_45.md)
 
 ### TESTIMONY OF A FARMER AND FISHERMAN
 
@@ -703,17 +703,17 @@ the Land of Arthur, WALES.
 
 ### Footnotes
 
-<span id="fn_40"></span>[118:1](ffcc123.htm#fr_41) '"Willy-the-Fairy,"
+<span id="fn_40"></span>[118:1](ffcc123.htm#fr_41.md) '"Willy-the-Fairy,"
 otherwise known as William Cain, is the musician referred to by the late
-Mr. John Nelson ([p. 131](#page_131)). The latter's statement that
+Mr. John Nelson ([p. 131](#page_131).md). The latter's statement that
 William Cain played one of these fairy tunes at one of our Manx
 entertainments in Peel is perfectly correct.'--SOPHIA MORRISON.
 
-<span id="fn_41"></span>[123:1](ffcc123.htm#fr_42) This is the Mid-world
+<span id="fn_41"></span>[123:1](ffcc123.htm#fr_42.md) This is the Mid-world
 of Irish seers, who would be inclined to follow the Manx custom and call
 the fairies 'the People of the Middle World'.
 
-<span id="fn_42"></span>[124:1](ffcc123.htm#fr_43) 'May 11 = in Manx
+<span id="fn_42"></span>[124:1](ffcc123.htm#fr_43.md) 'May 11 = in Manx
 *Oie Voaldyn*, "May-day Eve." On this evening the fairies were supposed
 to be peculiarly active. To propitiate them and to ward off the
 influence of evil spirits, and witches, who were also active at this
@@ -728,13 +728,13 @@ stalls. This was also one of the occasions on which no one would give
 fire away, and on which fires were and are still lit on the hills to
 drive away the fairies.'--SOPHIA MORRISON.
 
-<span id="fn_43"></span>[129:1](ffcc123.htm#fr_44) I am wholly indebted
+<span id="fn_43"></span>[129:1](ffcc123.htm#fr_44.md) I am wholly indebted
 to Miss Morrison for these Manx verses and their translation, which I
 have substituted for Mrs. Moore's English rendering. Miss Morrison,
 after my return to Oxford, saw Mrs. Moore and took them down from her, a
 task I was not well fitted to do when the tale was told.
 
-<span id="fn_44"></span>[130:1](ffcc123.htm#fr_45) It has been
+<span id="fn_44"></span>[130:1](ffcc123.htm#fr_45.md) It has been
 suggested, and no doubt correctly, that these murmuring sounds heard on
 Dalby Mountain are due to the action of sea-waves, close at hand,
 washing over shifting masses of pebbles on the rock-bound shore. Though
@@ -742,7 +742,7 @@ this be the true explanation of the phenomenon itself, it only proves
 the attribution of cause to be wrong, and not the underlying animistic
 conception of spiritual beings.
 
-<span id="fn_45"></span>[132:1](ffcc123.htm#fr_46) In this mythological
+<span id="fn_45"></span>[132:1](ffcc123.htm#fr_46.md) In this mythological
 role, Manannan is apparently a sun god or else the sun itself; and the
 Manx coat of arms, which is connected with him, being a sun symbol,
 suggests to us now ages long prior to history, when the Isle of Man was
@@ -752,4 +752,4 @@ the Sun.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Taking of Evidence: V. In Wales](ffcc124)
+[Next: Chapter II. Taking of Evidence: V. In Wales](ffcc124.md)

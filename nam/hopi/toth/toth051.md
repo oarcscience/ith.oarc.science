@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth050)  [Next](toth052) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth050)  [Next](toth052.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 48. THE MAIDEN AND THE COYOTE. <span id="fr_110"></span>[1](#fn_108)
+## 48. THE MAIDEN AND THE COYOTE. <span id="fr_110"></span>[1](#fn_108.md)
 
 A long time ago a beautiful maiden lived in the northern part of the
 village of Oraíbi. The young men of the village vied with one another to
@@ -46,7 +46,7 @@ without success. The White Cloud chief of the east tried his luck with a
 white bridal costume, but with no better results. The Black Cloud chief
 from above failed in the same manner, and finally the Gray Cloud chief
 from below tried his luck, only to meet with complete failure, as his
-five companions had. <span id="fr_111"></span>[1](#fn_109)
+five companions had. <span id="fr_111"></span>[1](#fn_109.md)
 
 After all these attempts and failures, Paváyoyk'ashi, a rain deity in
 the far south, heard about this story. He painted and dressed up
@@ -119,14 +119,14 @@ lewdness.
 
 ### Footnotes
 
-<span id="fn_108"></span>[157:1](toth051.htm#fr_110) Told by Qöyáwaima
+<span id="fn_108"></span>[157:1](toth051.htm#fr_110.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_109"></span>[158:1](toth051.htm#fr_111) With the Hopi
+<span id="fn_109"></span>[158:1](toth051.htm#fr_111.md) With the Hopi
 yellow is the ceremonial color of the north; green or blue, of the west
 red, of the south; white, of the east; black, of the above; gray,
 meaning in this case a mixture of all kinds of colors, of the below.
 
 ------------------------------------------------------------------------
 
-[Next: 49. Chórzhvûk'iqölö and the Eagles](toth052)
+[Next: 49. Chórzhvûk'iqölö and the Eagles](toth052.md)

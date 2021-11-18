@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama602) 
-[Next](kama604) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama602.md) 
+[Next](kama604.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ follows:
 > Praising his intelligence to his face.  
 > Pretending to be obliged to make gifts on occasion of festivals
 > connected with vows, trees, gardens, temples, or tanks. <span
-> id="fr_72"></span>[1](kama101.htm#fn_0)  
+> id="fr_72"></span>[1](kama101.htm#fn_0.md)  
 > Pretending that at the time of going to his house, her jewels have
 > been stolen either by the king's guards, or by robbers.  
 > Alleging that her property has been destroyed by fire, by the falling
@@ -177,7 +177,7 @@ with too many lovers, and yet obtains abundance of wealth.'
 
 ### Footnotes
 
-<span id="fn_72"></span>[1](#fr_-1) On the completion of a vow a
+<span id="fn_72"></span>[1](#fr_-1.md) On the completion of a vow a
 festival takes place. Some trees, such as the Peepul and Banyan trees,
 are invested with sacred threads like the Brahman's, and on the occasion
 of this ceremony a festival is given. In the same way when gardens are
@@ -185,4 +185,4 @@ made, and tanks or temples built, then also festivals are observed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. About a Reunion with a Former Lover](kama604)
+[Next: Chapter IV. About a Reunion with a Former Lover](kama604.md)

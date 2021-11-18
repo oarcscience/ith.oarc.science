@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc33)  [Next](osc35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc33)  [Next](osc35.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ developed into feelings of trust and reverence.
 
 ------------------------------------------------------------------------
 
-[Next: (3) Wedding Rings and Bride Cake](osc35)
+[Next: (3) Wedding Rings and Bride Cake](osc35.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Next](mlb01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Next](mlb01.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ Hail and farewell!
 
 ------------------------------------------------------------------------
 
-[Next: Preface](mlb01)
+[Next: Preface](mlb01.md)

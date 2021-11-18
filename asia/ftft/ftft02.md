@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft01)  [Next](ftft03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft01)  [Next](ftft03.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 |                            |
 |----------------------------|
-| ![Preface](img/_00900.jpg) |
+| ![Preface](img/_00900.jpg.md) |
 
 <span id="img__00901"></span>
 
@@ -106,4 +106,4 @@ I. K.
 
 ------------------------------------------------------------------------
 
-[Next: The Creation](ftft03)
+[Next: The Creation](ftft03.md)

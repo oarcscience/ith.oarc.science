@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](dol05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](dol05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Devils of Loudun*, by Edmund Goldsmid, \[1887\], at Intangible
 Textual Heritage
 
@@ -27,9 +27,9 @@ Trials in Scotland\]:—
 *Alison Pearson*.
 
 Alison Pearson in Byre-hills, Fifeshire, <span
-id="fr_27"></span>[\*](#fn_27) was convicted of practising sorcery, and
+id="fr_27"></span>[\*](#fn_27.md) was convicted of practising sorcery, and
 of invoking the Devil. She confessed that she had associated with the
-Queen of the Fairies for many years, <span id="fr_28"></span>[†](#fn_28)
+Queen of the Fairies for many years, <span id="fr_28"></span>[†](#fn_28.md)
 and that she had friends in the Court of Elfland, who were of her own
 blood. She said that William Simpson, late the King's smith, was, in the
 eighth year of his age, carried off by an Egyptian to Egypt, where he
@@ -41,7 +41,7 @@ with bag-pipes, good cheer, and wine: That
 
 <span id="page_v3_41">p. 41</span>
 
-the good neighbours <span id="fr_29"></span>[\*](#fn_29) attended, and
+the good neighbours <span id="fr_29"></span>[\*](#fn_29.md) attended, and
 prepared their charms in pans over the fire; that the herbs of which
 they composed their charms, were gathered before sunrise; and that with
 these they cured the Bishop of St. Andrews of a fever and flux.—She
@@ -52,7 +52,7 @@ she was convicted and condemned, strangled and burned.
 
 *Janet Grant and Janet Clerk*.
 
-Janet Grant and Janet Clerk <span id="fr_30"></span>[†](#fn_30) were
+Janet Grant and Janet Clerk <span id="fr_30"></span>[†](#fn_30.md) were
 convicted of bewitching several persons to death, of taking away the
 privy members of some folks, and bestowing them on others; and of
 raising the devil.
@@ -60,7 +60,7 @@ raising the devil.
 *John Cunninghame*.
 
 It was proved against John Cunninghame, that the Devil appeared to him
-in white raiment, <span id="fr_31"></span>[‡](#fn_31) and promised,
+in white raiment, <span id="fr_31"></span>[‡](#fn_31.md) and promised,
 that, if he would become his servant, he should never want, and should
 be revenged of all his enemies: That he was carried in an ecstacy to the
 kirk of North Berwick, where the Devil preached to him,
@@ -78,7 +78,7 @@ which raised a vapour.
 
 *Agnes Sampson*.
 
-Agnes Sampson in Keith, <span id="fr_32"></span>[\*](#fn_32) a grave
+Agnes Sampson in Keith, <span id="fr_32"></span>[\*](#fn_32.md) a grave
 matron-like woman, of a rank and comprehension above the vulgar, was
 accused of having renounced her baptism, and of having received the
 devil's mark; of raising storms to prevent the Queen's coming from
@@ -110,7 +110,7 @@ one of the Senators of the College of Justice, whose death in the year
 the hands of the executioner. She was married to a gentleman of her own
 name, by whom she had three children. She was accused of treasonably
 conspiring the King's death by enchantments; <span
-id="fr_33"></span>[\*](#fn_33) particularly by training a
+id="fr_33"></span>[\*](#fn_33.md) particularly by training a
 
 <span id="page_v3_44">p. 44</span>
 
@@ -120,17 +120,17 @@ counsel in her defence; was found guilty by the jury, which consisted of
 landed gentlemen of note; and her punishment was still severer than that
 commonly inflicted on the Weyward Sisters,—She was burned alive, and her
 estate confiscated. Her children, however, after being thus barbarously
-robbed of their mother, were <span id="fr_34"></span>[\*](#fn_34)
+robbed of their mother, were <span id="fr_34"></span>[\*](#fn_34.md)
 restored by act of Parliament against the forfeiture. The act does not
 say that the sentence was unjust; but that the King was touched in
 honour and conscience to restore the children. But to move the wheels of
 his Majesty's conscience, the children had to grease them, by a payment
 of five thousand merks to the donator of escheat, <span
-id="fr_35"></span>[†](#fn_35) and by relinquishing the estate of
+id="fr_35"></span>[†](#fn_35.md) and by relinquishing the estate of
 Clifton-hall, which the King gave to Sir James Sandilands of Slamanno.
 
 As a striking picture of the state of justice, humanity, and science in
-those times, <span id="fr_36"></span>[‡](#fn_36) it may be remarked that
+those times, <span id="fr_36"></span>[‡](#fn_36.md) it may be remarked that
 this Sir James Sandilands, a favourite of the King's, ("ex interiore
 principis familiaritate,") who got this estate, which the daughter of
 one Lord of Session forfeited, on account of being a witch, did
@@ -145,7 +145,7 @@ punishment.
 
 *Margaret Wallace*.
 
-Margaret Wallace <span id="fr_37"></span>[\*](#fn_37) was tried before
+Margaret Wallace <span id="fr_37"></span>[\*](#fn_37.md) was tried before
 the Court of Justiciary. The Duke of Lennox, the Archbishop of Glasgow,
 and Sir George Erskine of Innerteil, sat as assessors to the judges, and
 an eminent counsel was heard in behalf of the prisoner. She was accused
@@ -232,7 +232,7 @@ convicted, strangled, and burned?
 
  
 
-<span id="img_c04800"></span> ![THE END.](img/c04800.jpg)
+<span id="img_c04800"></span> ![THE END.](img/c04800.jpg.md)
 
  
 
@@ -242,41 +242,41 @@ convicted, strangled, and burned?
 
 ### Footnotes
 
-<span id="fn_27"></span>[v3\_40:\*](dol06.htm#fr_27) Rec. of Just. 18th
+<span id="fn_27"></span>[v3\_40:\*](dol06.htm#fr_27.md) Rec. of Just. 18th
 May 1588.
 
-<span id="fn_28"></span>[v3\_40:†](dol06.htm#fr_28) In the original it
+<span id="fn_28"></span>[v3\_40:†](dol06.htm#fr_28.md) In the original it
 is Queen of Elfland.
 
-<span id="fn_29"></span>[v3\_41:\*](dol06.htm#fr_29) Good Neighbours was
+<span id="fn_29"></span>[v3\_41:\*](dol06.htm#fr_29.md) Good Neighbours was
 a term for witches. People were afraid to speak of them opprobriously,
 lest they should provoke their resentment.
 
-<span id="fn_30"></span>[v3\_41:†](dol06.htm#fr_30) Records of
+<span id="fn_30"></span>[v3\_41:†](dol06.htm#fr_30.md) Records of
 Justiciary, 7th August 1590.
 
-<span id="fn_31"></span>[v3\_41:‡](dol06.htm#fr_31) Ibid, 26th December
+<span id="fn_31"></span>[v3\_41:‡](dol06.htm#fr_31.md) Ibid, 26th December
 1590.
 
-<span id="fn_32"></span>[v3\_42:\*](dol06.htm#fr_32) Rec. of Just. Jan.
+<span id="fn_32"></span>[v3\_42:\*](dol06.htm#fr_32.md) Rec. of Just. Jan.
 27. 1590. A story is told of this woman in Spottiswood's Hist. p. 383.
 which is nowise confirmed by the record. His fable is absurd; and seems
 to have been invented by some zealous believer in the divine right of
 Kings.
 
-<span id="fn_33"></span>[v3\_43:\*](dol06.htm#fr_33) Rec. of Just., 8th
+<span id="fn_33"></span>[v3\_43:\*](dol06.htm#fr_33.md) Rec. of Just., 8th
 May 1591
 
-<span id="fn_34"></span>[v3\_44:\*](dol06.htm#fr_34) Unprinted Acts,
+<span id="fn_34"></span>[v3\_44:\*](dol06.htm#fr_34.md) Unprinted Acts,
 A.D. 1592. No. 70.
 
-<span id="fn_35"></span>[v3\_44:†](dol06.htm#fr_35) He who obtains a
+<span id="fn_35"></span>[v3\_44:†](dol06.htm#fr_35.md) He who obtains a
 gift of the forfeiture.
 
-<span id="fn_36"></span>[v3\_44:‡](dol06.htm#fr_36) "Johnstoni Historia
+<span id="fn_36"></span>[v3\_44:‡](dol06.htm#fr_36.md) "Johnstoni Historia
 Rerum Britannicarum," p. 172.
 
-<span id="fn_37"></span>[v3\_45:\*](dol06.htm#fr_37) Records of
+<span id="fn_37"></span>[v3\_45:\*](dol06.htm#fr_37.md) Records of
 Justiciary, March 20. 1620.
 
  

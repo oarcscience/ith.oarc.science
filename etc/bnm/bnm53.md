@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm52)  [Next](bnm54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm52)  [Next](bnm54.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ work of the clouds and the sun," says the moon.
 
 ------------------------------------------------------------------------
 
-[Next: Why There Is A Man In The Moon.](bnm54)
+[Next: Why There Is A Man In The Moon.](bnm54.md)

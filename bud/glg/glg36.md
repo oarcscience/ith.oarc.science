@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](glg35)  [Next](glg37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](glg35)  [Next](glg37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gateless Gate*, by Ekai, called Mu-mon, tr. Nyogen Senzaki and Paul
 Reps \[1934\], at Intangible Textual Heritage
 
@@ -37,4 +37,4 @@ And you will be called one who understands Zen*.
 
 ------------------------------------------------------------------------
 
-[Next: 37. A Buffalo Passes Through the Enclosure](glg37)
+[Next: 37. A Buffalo Passes Through the Enclosure](glg37.md)

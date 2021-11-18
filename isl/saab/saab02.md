@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](saab01)  [Next](saab03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](saab01)  [Next](saab03.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Salaman and Absal*, by Jami, tr. Edward Fitzgerald, \[1904\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ from whose own, and Commentator's, Works it purports to be
 gathered.\]</span>
 
 <span class="smallcaps">Núruddín Abdurrahman</span>, Son of Maulána
-Nizamuddin <span id="fr_0"></span>[1](#fn_0) Ahmed, and descended on the
+Nizamuddin <span id="fr_0"></span>[1](#fn_0.md) Ahmed, and descended on the
 Mother's side from One of the Four great "<span
 class="smallcaps">Fathers</span>" of Islamism, was born A.H. 817, A.D.
 1414, in Jám, a little Town of Khorásan, whither (according to the Heft
@@ -298,7 +298,7 @@ Identification with the
 
 <span class="contnote">\[paragraph continues\]</span> Deity as shall
 blind him to any distinction between Good and Evil. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 I must not forget one pretty passage of Jámi's Life. He had a nephew,
 one Maulána Abdullah, who was ambitious of following his Uncle's
@@ -326,12 +326,12 @@ so reputed Persian Poets.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](saab02.htm#fr_0) Such final "uddins"
+<span id="fn_0"></span>[vii:1](saab02.htm#fr_0.md) Such final "uddins"
 signify "<span class="smallcaps">Of the Faith</span>." "<span
 class="smallcaps">Maulána</span>" may be taken as "<span
 class="smallcaps">Master</span>" in Learning, Law, etc.
 
-<span id="fn_1"></span>[xvii:1](saab02.htm#fr_1) "Je me souvíens d’un
+<span id="fn_1"></span>[xvii:1](saab02.htm#fr_1.md) "Je me souvíens d’un
 Prédicateur à Ispahan qui, prêchant un jour dans une Place publique,
 parla furieusement contre ces Soufys, disant qu’ ils étoient des Athées
 à bruler; qu ’il s’étonnoit qu ’on les laissât vivre; et que de tuer un
@@ -344,4 +344,4 @@ class="smallcaps">Chardin</span>.
 
 ------------------------------------------------------------------------
 
-[Next: I. Prologue](saab03)
+[Next: I. Prologue](saab03.md)

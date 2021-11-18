@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](btf05)  [Next](btf07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](btf05)  [Next](btf07.md) 
 
 ------------------------------------------------------------------------
 
@@ -525,4 +525,4 @@ The King of Ireland's Son
 
 ------------------------------------------------------------------------
 
-[Next: The Alp-Luachra](btf07)
+[Next: The Alp-Luachra](btf07.md)

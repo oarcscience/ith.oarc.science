@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm67)  [Next](pnm69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm67)  [Next](pnm69.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -54,10 +54,10 @@ consider with himself the rules by which these are to be examined; for
 by this means shall a diviner be able, by little and little, to
 interpret his dreams, if so be nothing slip out of his memory. Now,
 dreams are more efficacious when the Moon overruns that Sign which was
-in the ninth number <span id="fr_31"></span>[\*](#fn_31) of the
+in the ninth number <span id="fr_31"></span>[\*](#fn_31.md) of the
 nativity, or revolution of that year, <span
-id="fr_32"></span>[†](#fn_32) or in the ninth Sign from the Sign of
-Perfection. <span id="fr_33"></span>[‡](#fn_33) For it is a most true
+id="fr_32"></span>[†](#fn_32.md) or in the ninth Sign from the Sign of
+Perfection. <span id="fr_33"></span>[‡](#fn_33.md) For it is a most true
 and certain divination, neither doth it proceed from nature or human
 arts, but from purified minds, by divine inspiration. We shall now
 discuss and examine Prophesying and Oracles.
@@ -66,15 +66,15 @@ discuss and examine Prophesying and Oracles.
 
 ### Footnotes
 
-<span id="fn_31"></span>[189:\*](pnm68.htm#fr_31) "Ninth Number."—The
+<span id="fn_31"></span>[189:\*](pnm68.htm#fr_31.md) "Ninth Number."—The
 Ninth House of the Horoscope, known as the House of Science and
 Religion.
 
-<span id="fn_32"></span>[189:†](pnm68.htm#fr_32) "Revolution."—When the
+<span id="fn_32"></span>[189:†](pnm68.htm#fr_32.md) "Revolution."—When the
 Sun has attained, as to the Earth, its original position, or the place
 it occupied at the moment of birth.
 
-<span id="fn_33"></span>[189:‡](pnm68.htm#fr_33) "Sign of
+<span id="fn_33"></span>[189:‡](pnm68.htm#fr_33.md) "Sign of
 Perfection."—This is the First House of the Horoscope: that House of the
 "Heaven," or Zodiac, "rising" at birth; the eastern horizon.
 
@@ -82,4 +82,4 @@ Perfection."—This is the First House of the Horoscope: that House of the
 
 [Next: Chapter LX. Of Madness, and Divinations which are made when men
 are awake, and of the Power of a Melancholy Humor, by which Spirits are
-sometimes induced into Men's Bodies](pnm69)
+sometimes induced into Men's Bodies](pnm69.md)

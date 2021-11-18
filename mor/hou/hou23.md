@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou22)  [Next](hou24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou22)  [Next](hou24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ to force the issue, I shall not hold the Indians by the wrist any
 longer." "If the issue comes, you may tell the government to stop all
 emigration across the continent, for the Indians will kill all who
 attempt it." Two days later occurred the Mountain Meadows
-massacre, <span id="fr_816"></span>[1](#fn_816) at a point about three
+massacre, <span id="fr_816"></span>[1](#fn_816.md) at a point about three
 hundred miles south of Salt Lake City.
 
 <span id="page_544">p. 544</span>
@@ -63,8 +63,8 @@ fact.
 
     I will now proceed to give the incidents as they occurred. In the
 spring of 1857 a party of one hundred and thirty-six Arkansas
-emigrants, <span id="fr_817"></span>[2](#fn_817) among whom were a few
-Missourians, <span id="fr_818"></span>[3](#fn_818) set forth for
+emigrants, <span id="fr_817"></span>[2](#fn_817.md) among whom were a few
+Missourians, <span id="fr_818"></span>[3](#fn_818.md) set forth for
 southern California.
 
 <span id="page_545">p. 545</span>
@@ -75,9 +75,9 @@ members were of every age, from the grandsire to the babe in arms. They
 belonged to the class of settlers of whom California was in need. Most
 of them were farmers by occupation; they were orderly, sober, thrifty,
 and among them was no lack of skill and capital. <span
-id="fr_819"></span>[4](#fn_819) They travelled leisurely and in comfort,
+id="fr_819"></span>[4](#fn_819.md) They travelled leisurely and in comfort,
 stopping at intervals to recruit their cattle, and about the end of July
-arrived at Salt Lake City, <span id="fr_820"></span>[5](#fn_820) where
+arrived at Salt Lake City, <span id="fr_820"></span>[5](#fn_820.md) where
 they hoped to replenish their stock of provisions.
 
     For several years after the gold discovery the arrival of an
@@ -101,7 +101,7 @@ California. He was acquitted; but it is alleged by anti-Mormon writers,
 and tacitly admitted by the saints, that he was sealed to Hector
 McLean's wife, who had been baptized into the faith years before, while
 living in San Francisco, and in 1855 was living in Salt Lake City. <span
-id="fr_821"></span>[6](#fn_821) McLean swore vengeance against the
+id="fr_821"></span>[6](#fn_821.md) McLean swore vengeance against the
 apostle, who was advised to make his escape, and set forth on horseback,
 unarmed, through a sparsely settled country, where, under the
 circumstances, escape was almost impossible. His path was barred by two
@@ -115,7 +115,7 @@ with a bowie-knife under the left arm, whereupon Parley dropped from his
 horse, and the assassin, after thrusting his knife deeper into the
 wounds, seized a derringer belonging to one of his accomplices, and shot
 him through the breast. The party then rode off, and McLean escaped
-unpunished. <span id="fr_822"></span>[7](#fn_822)
+unpunished. <span id="fr_822"></span>[7](#fn_822.md)
 
     Thus, when the Arkansas families arrived at Salt Lake City, they
 found the Mormons in no friendly mood, and at once concluded to break
@@ -124,7 +124,7 @@ the northern route along the Bear River, but decided to travel by way of
 southern Utah. Passing through Provo, Springville, Payson, Fillmore, and
 intervening settlements, they attempted everywhere to purchase food, but
 without success. Toward the end of August they arrived at Corn
-Creek, <span id="fr_823"></span>[8](#fn_823) some fifteen miles south of
+Creek, <span id="fr_823"></span>[8](#fn_823.md) some fifteen miles south of
 Fillmore, where they encamped for several days. In this neighborhood, on
 a farm set apart for their use by the Mormons, lived the Pah Vants,
 whom, as the saints allege, the emigrants attempted to poison by
@@ -138,12 +138,12 @@ died from eating of this
 
 <span id="page_548">p. 548</span>
 
-weed. <span id="fr_824"></span>[9](#fn_824) It has been intimated that
+weed. <span id="fr_824"></span>[9](#fn_824.md) It has been intimated that
 those who accused the emigrants of poisoning the Pah Vants were not
 honest in their belief, and that the story of the poisoning was
 invented, or at least grossly exaggerated, for the purpose of making
 them solely responsible for the massacre. <span
-id="fr_825"></span>[10](#fn_825) The fact has never been so established,
+id="fr_825"></span>[10](#fn_825.md) The fact has never been so established,
 notwithstanding the report of the superintendent of Indian affairs, who
 states that none of this tribe were present at the massacre.
 
@@ -169,10 +169,10 @@ abusing women, of poisoning wells and streams at many points on their
 route, of destroying fences and growing crops, of violating the city
 ordinances at Cedar, and resisting the officers who attemped to arrest
 them. These and other charges, even more improbable, <span
-id="fr_826"></span>[11](#fn_826) have been urged in extenuation of the
+id="fr_826"></span>[11](#fn_826.md) have been urged in extenuation of the
 massacre; but little reliance can be placed on Lee's confession, and
 most of them appear to be unfounded. <span
-id="fr_827"></span>[12](#fn_827) It must be admitted, however, that
+id="fr_827"></span>[12](#fn_827.md) It must be admitted, however, that
 rather than see their women and children starve, they perhaps took by
 force such necessary provisions as they were not allowed to purchase.
 
@@ -196,14 +196,14 @@ stream.
 
 |                                     |
 |-------------------------------------|
-| ![MOUNTAIN MEADOWS.](img/55000.jpg) |
+| ![MOUNTAIN MEADOWS.](img/55000.jpg.md) |
 
 the Arkansas families encamped at Mountain Meadows. On the sabbath they
 rested, and at the usual hour one of them conducted divine service in a
 large tent, as had been their custom throughout the journey. At daybreak
 on the 7th, while the men were lighting their camp-fires, they were
 fired upon by Indians, or white men disguised as Indians, and more than
-twenty were killed or wounded, <span id="fr_828"></span>[13](#fn_828)
+twenty were killed or wounded, <span id="fr_828"></span>[13](#fn_828.md)
 their cattle having been driven off meanwhile by the assailants, who had
 crept on them under cover of darkness. The survivors now ran for their
 wagons, and pushing them together so as to form a corral, dug out the
@@ -227,7 +227,7 @@ thirst had become intolerable. Down in the ravine, and within a few
 yards of the corral, was the stream of water; but only after sundown
 could a scanty supply be obtained, and then at great risk, for this
 point was covered by the muskets of the Indians, <span
-id="fr_829"></span>[14](#fn_829) who lurked all night among the ravines
+id="fr_829"></span>[14](#fn_829.md) who lurked all night among the ravines
 waiting for their victims.
 
     Four days the siege lasted; on the morning of the fifth a wagon was
@@ -255,12 +255,12 @@ sent for
 <span id="page_552">p. 552</span>
 
 aid to the settlements of southern Utah. <span
-id="fr_830"></span>[15](#fn_830) Thus far the evidence is somewhat
+id="fr_830"></span>[15](#fn_830.md) Thus far the evidence is somewhat
 contradictory. There is sufficient proof, however, that, in accordance
 with a programme previously arranged at Cedar, a company of militia,
 among whom were Isaac C. Haight and Major John M. Higbee, and which was
 afterward joined by Colonel William H. Dame, bishop of Parowan, <span
-id="fr_831"></span>[16](#fn_831) arrived at Lee's camp on the evening
+id="fr_831"></span>[16](#fn_831.md) arrived at Lee's camp on the evening
 before the massacre.
 
     It was then arranged that Lee should conclude terms with the
@@ -276,7 +276,7 @@ distant, and near to which Indians lay in ambush. The men were now to
 resume their march, the militia forming in single file, each one walking
 by the side of an emigrant, and carrying his musket on the left arm. As
 soon as the women were close to the ambuscade, Higbee, <span
-id="fr_832"></span>[17](#fn_832) who was in charge of the detachment,
+id="fr_832"></span>[17](#fn_832.md) who was in charge of the detachment,
 was to give the signal by saying to his command, "Do your duty;"
 whereupon the militia were to shoot down the men, the Indians were to
 
@@ -302,7 +302,7 @@ Half an hour later, as the women drew near the ambuscade, the signal was
 given, and the butchery commenced. Most of the men were shot down at the
 first fire. Three only escaped from the valley; of these two were
 quickly run down and slaughtered, and the third was slain at Muddy
-Creek, some fifty miles distant. <span id="fr_833"></span>[18](#fn_833)
+Creek, some fifty miles distant. <span id="fr_833"></span>[18](#fn_833.md)
 
     The women and those of the children who were on foot ran forward
 some two or three hundred yards, when they were overtaken by the
@@ -320,7 +320,7 @@ alive, the scalp was torn from their heads. Some of the little ones met
 with a more merciful death, one, an infant in arms, being shot through
 the head by the same bullet that pierced its father's heart. Of the
 women none were spared, and of the children only those who were not more
-than seven years of age. <span id="fr_834"></span>[19](#fn_834)
+than seven years of age. <span id="fr_834"></span>[19](#fn_834.md)
 
     To two of Lee's wagoners, McMurdy and Knight, was assigned the duty,
 as it was termed, of slaughtering the sick and wounded. Carrying out
@@ -330,7 +330,7 @@ McMurdy being in front. "O Lord, my God," he exclaimed, "receive their
 spirits, it is for thy kingdom that I do this." Then, raising his rifle
 to his shoulder, he shot through the brain a wounded man who was lying
 with his head on a sick comrade's breast. The Mormons were aided in
-their work <span id="fr_835"></span>[20](#fn_835) by Indians, who,
+their work <span id="fr_835"></span>[20](#fn_835.md) by Indians, who,
 grasping the helpless men by the hair, raised up their heads and cut
 their throats. The last victim was a little girl who came running up to
 the wagons, covered with
@@ -340,9 +340,9 @@ the wagons, covered with
 blood, a few minutes after the disabled men had been murdered. She was
 shot dead within sixty yards of the spot where Lee was standing. The
 massacre was now completed, and after stripping the bodies of all
-articles of value, <span id="fr_836"></span>[21](#fn_836) Brother Lee
+articles of value, <span id="fr_836"></span>[21](#fn_836.md) Brother Lee
 and his associates went to breakfast, <span
-id="fr_837"></span>[22](#fn_837) returning after a hearty meal to bury
+id="fr_837"></span>[22](#fn_837.md) returning after a hearty meal to bury
 the dead.
 
 <span id="page_556">p. 556</span>
@@ -370,7 +370,7 @@ discharged close to the head. A few remnants of apparel, torn from the
 backs of women and children as they ran from the clutch of their
 pursuers, still fluttered among the bushes, and near by were masses of
 human hair, matted and trodden in the mould. <span
-id="fr_838"></span>[23](#fn_838)
+id="fr_838"></span>[23](#fn_838.md)
 
 <span id="page_557">p. 557</span>
 
@@ -380,23 +380,23 @@ was placed a rough slab of granite, with the following inscription:
 "Here 120 men, women, and children were massacred in cold blood, early
 in Sept. 1857. They were from Arkansas." The cairn was surmounted by a
 cross of cedar, on which were inscribed the words: "Vengeance is mine: I
-will repay, saith the Lord." <span id="fr_839"></span>[24](#fn_839)
+will repay, saith the Lord." <span id="fr_839"></span>[24](#fn_839.md)
 
     The survivors of the slaughter were seventeen children, from two
 months to seven years of age, who were carried, on the evening of the
 massacre, by John D. Lee, Daniel Tullis, and others to the house of
-Jacob Hamblin, <span id="fr_840"></span>[25](#fn_840) and afterward
+Jacob Hamblin, <span id="fr_840"></span>[25](#fn_840.md) and afterward
 placed in charge of Mormon families at Cedar, Harmony, and elsewhere.
 All of them were recovered in the summer of 1858, with the exception of
 one who was rescued a few months later, and though thinly clad, they
-bore no marks of ill usage. <span id="fr_841"></span>[26](#fn_841) In
+bore no marks of ill usage. <span id="fr_841"></span>[26](#fn_841.md) In
 the following year they were
 
 <span id="page_558">p. 558</span>
 
 conveyed to Arkansas, the sum of $10,000 having been appropriated by
 congress for their recovery and restoration. <span
-id="fr_842"></span>[27](#fn_842)
+id="fr_842"></span>[27](#fn_842.md)
 
     To Brigham Young, as governor and superintendent of Indian affairs,
 belonged the duty of ordering an investigation into the circumstances of
@@ -410,7 +410,7 @@ arrive; and because the United States judges were not in the territory.
 Soon after Governor Cumming arrived I asked him to take Judge
 Cradlebaugh, who belonged to the southern district, with him, and I
 would accompany them with sufficient aid to investigate the matter and
-bring the offenders to justice." <span id="fr_843"></span>[28](#fn_843)
+bring the offenders to justice." <span id="fr_843"></span>[28](#fn_843.md)
 
 <span id="page_559">p. 559</span>
 
@@ -430,7 +430,7 @@ charge of murder to any of the parties implicated, and it was not until
 March 1859 that Judge Cradlebaugh held a session of court at Provo. At
 this date only six or eight, persons had been committed for trial, and
 were now in the guard-house at Camp Floyd, <span
-id="fr_844"></span>[29](#fn_844) some of them being accused of taking
+id="fr_844"></span>[29](#fn_844.md) some of them being accused of taking
 part in the massacre and some of other charges.
 
     Accompanied by a military guard, as there was no jail within his
@@ -448,12 +448,12 @@ person can commit crimes and say
 
 they are authorized by higher authorities, and if they have any such
 notions they will have to dispel them." <span
-id="fr_845"></span>[30](#fn_845) The grand jury refused to find bills
+id="fr_845"></span>[30](#fn_845.md) The grand jury refused to find bills
 against any of the accused, and, after remaining in session for a
 fortnight, were discharged by Cradlebaugh as "a useless appendage to a
 court of justice," the judge remarking: "If this court cannot bring you
 to a proper sense of your duty, it can at least turn the savages held in
-custody loose upon you." <span id="fr_846"></span>[31](#fn_846)
+custody loose upon you." <span id="fr_846"></span>[31](#fn_846.md)
 
     Judge Cradlebaugh's address was ill advised. The higher authority of
 which he spoke could mean only the authority of the church, or in other
@@ -463,8 +463,8 @@ Though there may have been cause for suspicion, there was no fair color
 of testimony, and there is none yet, that Brigham or his colleagues were
 implicated in the massacre. Apart from the hearsay evidence of
 Cradlebaugh and of an officer in the army of Utah, <span
-id="fr_847"></span>[32](#fn_847) together with the statements of John D.
-Lee, <span id="fr_848"></span>[33](#fn_848) there is no basis on which
+id="fr_847"></span>[32](#fn_847.md) together with the statements of John D.
+Lee, <span id="fr_848"></span>[33](#fn_848.md) there is no basis on which
 to frame a charge of complicity against them. That the massacre occurred
 the day after martial law was proclaimed, and within two days of the
 threat uttered by Brigham in the presence of Van Vliet; that Brigham, as
@@ -476,7 +476,7 @@ mention of the massacre;
 that for a long time afterward no allusion to it was made in the
 tabernacle or in the *Deseret News*—the church organ of the saints—and
 then only to deny that the Mormons had any share in it; <span
-id="fr_849"></span>[34](#fn_849) and that no mention was made in the
+id="fr_849"></span>[34](#fn_849.md) and that no mention was made in the
 *Deseret News* of the arrival or departure of the emigrants;—all this
 was, at best, but presumptive evidence, and did not excuse the slur that
 was now cast on the church and the church dignitaries. "I fear, and I
@@ -484,7 +484,7 @@ regret to say it," remarks the superintendent of Indians affairs, in
 August 1859, "that with certain parties here there is a greater anxiety
 to connect Brigham Young and other church dignitaries with every
 criminal offence than diligent endeavor to punish the actual
-perpetrators of crime." <span id="fr_850"></span>[35](#fn_850)
+perpetrators of crime." <span id="fr_850"></span>[35](#fn_850.md)
 
     The judge's remarks served no purpose, except to draw forth from the
 mayor of Provo a protest against the presence of the troops, as an
@@ -501,10 +501,10 @@ in his
 
 <span id="page_562">p. 562</span>
 
-action by the judges; <span id="fr_851"></span>[36](#fn_851) and on the
+action by the judges; <span id="fr_851"></span>[36](#fn_851.md) and on the
 27th of March Cumming issued a proclamation protesting against all
 movements of troops except such as accorded with his own instructions as
-chief executive magistrate. <span id="fr_852"></span>[37](#fn_852) A few
+chief executive magistrate. <span id="fr_852"></span>[37](#fn_852.md) A few
 days later the detachment was withdrawn.
 
     Notwithstanding the contumacy of the grand jury, Cradlebaugh
@@ -513,7 +513,7 @@ the parties concerned in the Mountain Meadows massacre, and in crimes
 committed elsewhere in the territory. Bench-warrants, based on sworn
 information, were issued against a number of persons, and the United
 States marshal, aided by a military escort, succeeded in making a few
-arrests. <span id="fr_853"></span>[38](#fn_853)
+arrests. <span id="fr_853"></span>[38](#fn_853.md)
 
     Among other atrocities laid to the charge of the Mormons was one
 known as the Aiken massacre, which also occurred during the year 1857.
@@ -530,9 +530,9 @@ and two wounded, the latter escaping to Nephi, whence they started for
 Salt Lake City, but were murdered on their way at Willow Springs.
 Although the guilty parties were well known, it was not until many years
 later that one of them, named Collett, was arrested, and in October 1878
-was tried and acquitted at Provo. <span id="fr_854"></span>[39](#fn_854)
+was tried and acquitted at Provo. <span id="fr_854"></span>[39](#fn_854.md)
 All the efforts of Judge Cradlebaugh availed nothing, <span
-id="fr_855"></span>[40](#fn_855) and soon afterward he discharged the
+id="fr_855"></span>[40](#fn_855.md) and soon afterward he discharged the
 prisoners and adjourned his court sine die, entering on his docket the
 following minute: "The whole community presents a united and organized
 opposition to the proper administration of justice."
@@ -544,7 +544,7 @@ continued until 1874, at which date an act
 
 was passed by congress "in relation to courts and judicial officers in
 the territory of Utah," and commonly known as the Poland bill, <span
-id="fr_856"></span>[41](#fn_856) whereby the summoning of grand and
+id="fr_856"></span>[41](#fn_856.md) whereby the summoning of grand and
 petit juries was regulated, and provision made for the better
 administration of justice. The first grand jury impanelled under this
 law was instructed by Jacob S. Boreman, then in charge of the second
@@ -552,15 +552,15 @@ judicial district, to investigate the Mountain Meadows massacre and find
 bills of indictment against the parties implicated. A joint indictment
 for conspiracy and murder was found against John D. Lee, William H.
 Dame, Isaac C. Haight, John M. Higbee, Philip Klingensmith, and
-others. <span id="fr_857"></span>[42](#fn_857) Warrants were issued for
+others. <span id="fr_857"></span>[42](#fn_857.md) Warrants were issued for
 their arrest, and after a vigorous search Lee and Dame were captured,
 the former being found concealed in a hog-pen at a small settlement
 named Panguitch, on the Sevier River. <span
-id="fr_858"></span>[43](#fn_858)
+id="fr_858"></span>[43](#fn_858.md)
 
     After some delay, caused by the difficulty in procuring evidence,
 the 12th of July, 1875, was appointed for the trial at Beaver City in
-southern Utah. <span id="fr_859"></span>[44](#fn_859) At eleven o'clock
+southern Utah. <span id="fr_859"></span>[44](#fn_859.md) At eleven o'clock
 on this day the court was opened, Judge Boreman presiding, but further
 delay was caused by the absence of witnesses, and the fact that Lee had
 promised to make a full confession, and thus turn state's evidence. In
@@ -574,19 +574,19 @@ butchery at Mountain Meadows. He avowed that Higbee and Haight played a
 prominent part in the massacre, which, he declared, was committed in
 obedience to military orders, but said nothing as to the complicity of
 the higher dignitaries of the church, by whom it was believed that these
-orders were issued. <span id="fr_860"></span>[45](#fn_860) The last was
+orders were issued. <span id="fr_860"></span>[45](#fn_860.md) The last was
 the very point that the prosecution desired to establish, its object,
 compared with which the conviction of the accused was but a minor
 consideration, being to get at the inner facts of the case. The district
-attorney <span id="fr_861"></span>[46](#fn_861) refused, therefore, to
+attorney <span id="fr_861"></span>[46](#fn_861.md) refused, therefore, to
 accept the confession, on the ground that it was not made in good faith.
 Finally the case was brought to trial on the 23d of July, and the result
 was that the jury, of whom eight were Mormons, failed to agree, after
 remaining out of court for three days. <span
-id="fr_862"></span>[47](#fn_862) Lee was then remanded for a second
+id="fr_862"></span>[47](#fn_862.md) Lee was then remanded for a second
 trial, which was held before the district court at Beaver City between
 the 13th and 20th of September, 1876, Judge Boreman again
-presiding. <span id="fr_863"></span>[48](#fn_863)
+presiding. <span id="fr_863"></span>[48](#fn_863.md)
 
 <span id="page_566">p. 566</span>
 
@@ -594,7 +594,7 @@ presiding. <span id="fr_863"></span>[48](#fn_863)
 accused, but listened with rapt attention to the evidence, which, as
 they supposed, would certainly implicate the dignitaries of the church.
 They listened in vain. In opening the case to the jury, the district
-attorney <span id="fr_864"></span>[49](#fn_864) stated that he came
+attorney <span id="fr_864"></span>[49](#fn_864.md) stated that he came
 there to try John D. Lee, and not Brigham Young and the Mormon church.
 He proposed to prove that Lee had acted in direct opposition to the
 feelings and wishes of the officers of the Mormon church; that by means
@@ -603,7 +603,7 @@ that with his own hands the prisoner had shot two women, and brained a
 third with the but-end of his rifle; that he had cut the throat of a
 wounded man, whom he dragged forth from one of the wagons; and that he
 had gathered up the property of the emigrants and used it or sold it for
-his own benefit. <span id="fr_865"></span>[50](#fn_865)
+his own benefit. <span id="fr_865"></span>[50](#fn_865.md)
 
     These charges, and others relating to incidents that have already
 been mentioned, were in the main substantiated. The first evidence
@@ -641,13 +641,13 @@ M. on the following Thursday, and four hours later was on his way back
 with the answer. As he set forth, Brigham said to him: "Go with all
 speed, spare no horse-flesh. The emigrants must not be meddled with, if
 it takes all Iron county to prevent it. They must go free and
-unmolested." <span id="fr_866"></span>[51](#fn_866)
+unmolested." <span id="fr_866"></span>[51](#fn_866.md)
 
     Samuel McMurdy testified that he saw Lee shoot one of the women, and
 two or three of the sick and wounded who were in the wagons. Jacob
 Hamblin alleged that soon after the massacre he met Lee within a few
 miles of Fillmore, when the latter stated that two young girls, <span
-id="fr_867"></span>[52](#fn_867) who had been hiding in the underbrush
+id="fr_867"></span>[52](#fn_867.md) who had been hiding in the underbrush
 at Mountain Meadows, were brought into his presence by a Utah chief. The
 Indian asked what should be done with them. "They must be shot,"
 answered Lee; "they are too old to be spared."
@@ -657,7 +657,7 @@ answered Lee; "they are too old to be spared."
 <span class="contnote">\[paragraph continues\]</span> "They are too
 pretty to be killed," answered the chief. "Such are my orders," rejoined
 Lee; whereupon the Indian shot one of them, and Lee dragged the other to
-the ground and cut her throat. <span id="fr_868"></span>[53](#fn_868)
+the ground and cut her throat. <span id="fr_868"></span>[53](#fn_868.md)
 
     On the testimony which we have now before us I will make but one
 comment. If Haslem's statement was true, Brigham was clearly no
@@ -669,18 +669,18 @@ considerations, it is impossible to reconcile the latter theory with the
 shrewd and far-sighted policy of this able leader, who well knew that
 his militia were no match for the army of Utah, and who would have been
 the last one to rouse the vengeance of a great nation against his
-handful of followers. <span id="fr_869"></span>[54](#fn_869)
+handful of followers. <span id="fr_869"></span>[54](#fn_869.md)
 
     Lee was convicted of murder in the first degree, and being allowed
 to select the mode of his execution, was sentenced to be shot. The case
 was appealed to the supreme court of Utah, but the judgment was
 sustained, and it was ordered that the sentence should be carried into
-effect on the 23d of March, 1877. <span id="fr_870"></span>[55](#fn_870)
+effect on the 23d of March, 1877. <span id="fr_870"></span>[55](#fn_870.md)
 William H. Dame, Isaac C. Haight, and others who had also been arraigned
 for trial, were soon afterward discharged from custody.
 
     A few days before his execution, Lee made a confession, <span
-id="fr_871"></span>[56](#fn_871)
+id="fr_871"></span>[56](#fn_871.md)
 
 <span id="page_569">p. 569</span>
 
@@ -689,7 +689,7 @@ crime on his accomplices, especially on Dame, Haight, and Higbee, and to
 show that the massacre was committed by order of Brigham and the
 high-council. He also makes mention of other murders, or attempts to
 murder, which, as he alleges, were committed by order of some higher
-authority. <span id="fr_872"></span>[57](#fn_872) "I feel composed, and
+authority. <span id="fr_872"></span>[57](#fn_872.md) "I feel composed, and
 as calm as a summer morning," he writes on the 13th of March. "I hope to
 meet my fate with manly courage. I declare my innocence. I have done
 nothing designedly wrong in that unfortunate and lamentable affair with
@@ -724,7 +724,7 @@ placed near the edge of the cairn, and upon it Lee took his seat until
 the preparations were completed. The marshal now read the order of the
 court, and, turning to the prisoner, said: "Mr Lee, if you have anything
 to say before the order of the court is carried into effect, you can do
-so now." Rising from the coffin, <span id="fr_873"></span>[58](#fn_873)
+so now." Rising from the coffin, <span id="fr_873"></span>[58](#fn_873.md)
 he looked calmly around for a moment, and then with unfaltering voice
 repeated in substance the statements already quoted from his confession.
 "I have but little to say this morning," he added. "It seems I have to
@@ -734,7 +734,7 @@ I have come to this day! I have been sacrificed in a cowardly, dastardly
 manner. I cannot help it; it is my last word; it is so. I do not fear
 death; I shall never go to a worse place than I am now in. I ask the
 Lord my God, if my labors are done, to receive my spirit." A Methodist
-clergyman, <span id="fr_874"></span>[59](#fn_874) who acted as his
+clergyman, <span id="fr_874"></span>[59](#fn_874.md) who acted as his
 spiritual adviser, then knelt by his side and offered a brief prayer, to
 which he listened attentively. After shaking hands
 
@@ -748,13 +748,13 @@ them shoot the balls through my heart. Don't let them mangle my body."
 The word of command was given; the report of rifles rang forth on the
 still morning air, and without a groan or quiver the body of the
 criminal fell back lifeless on his coffin. God was more merciful to him
-than he had been to his victims. <span id="fr_875"></span>[60](#fn_875)
+than he had been to his victims. <span id="fr_875"></span>[60](#fn_875.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_816"></span>[543:1](hou23.htm#fr_816) In Forney's Rept, in
+<span id="fn_816"></span>[543:1](hou23.htm#fr_816.md) In Forney's Rept, in
 *Sen. Doc*., 36th Cong. 1st Sess., ii. no. 42, p. 79, and the *Hand-Book
 of Reference*, p. 75, Sept. 9th is given as the date of the massacre.
 Forney, as superintendent of Indian affairs, made a close investigation
@@ -775,7 +775,7 @@ Brigham, on Monday, Sept. 7th, and that he reached S. L. City at 11 A.
 M. on Thursday. *Deseret News*, Sept. 20, 1876. The next day was the
 11th. Other accounts differ slightly as to date.
 
-<span id="fn_817"></span>[544:2](hou23.htm#fr_817) U.S. Attorney Wilson,
+<span id="fn_817"></span>[544:2](hou23.htm#fr_817.md) U.S. Attorney Wilson,
 in his report in *Sen. Doc*., 36th Cong. 1st Sess., ii. no. 42, p. 102,
 states that 119 were killed, and it is certain that 17 children were
 rescued. Forney and Burton say that 115 to 120 were massacred; Waite,
@@ -783,7 +783,7 @@ rescued. Forney and Burton say that 115 to 120 were massacred; Waite,
 besides a number of children. Stenhouse, *Tell It All*, 324, mentions
 120 to 130. Other reports vary from 120 to 150.
 
-<span id="fn_818"></span>[544:3](hou23.htm#fr_818) Stenhouse, *Rocky
+<span id="fn_818"></span>[544:3](hou23.htm#fr_818.md) Stenhouse, *Rocky
 Mountain Saints*, 424-8, says that the Arkansas and Missouri emigrants
 formed two separate parties, the latter naming themselves <span
 id="page_XXX">p. XXX</span> Missouri 'wild-cats,' and that the Arkansas
@@ -797,7 +797,7 @@ frontier pioneers; the other a picked community.' The truth appears to
 be, that there were a few Missourians in the Arkansas party, as stated
 in *Hutchings’ Cal. Mag*., iv. 345.
 
-<span id="fn_819"></span>[545:4](hou23.htm#fr_819) They had about 600
+<span id="fn_819"></span>[545:4](hou23.htm#fr_819.md) They had about 600
 head of cattle, 30 wagons, and 30 horses and mules. *Forney's Rept*, ut
 supra, p. 75. Stenhouse mentions that they had also several
 travelling-carriages. *Rocky Mountain Saints*, 424. At least $30,000
@@ -805,13 +805,13 @@ worth of plunder was collected after the massacre, besides what was
 appropriated by the Indians. Cradlebaugh estimated the value of their
 property at $60,000 to $70.000.
 
-<span id="fn_820"></span>[545:5](hou23.htm#fr_820) I find no mention of
+<span id="fn_820"></span>[545:5](hou23.htm#fr_820.md) I find no mention of
 their arrival in the files of the *Deseret News*, although the names of
 passing emigrants were registered in that paper at a nominal charge; and
 when the party was a large one, its passage was usually noticed among
 the local items of news.
 
-<span id="fn_821"></span>[546:6](hou23.htm#fr_821) The account given in
+<span id="fn_821"></span>[546:6](hou23.htm#fr_821.md) The account given in
 the *Millennial Star*, xix. 417-18, is that McLean, after treating his
 wife in a brutal manner for several years, turned her into the streets
 of San Francisco, and secretly conveyed the children on board a steamer
@@ -847,7 +847,7 @@ half in height. As to the apostle's assassination, the *Bulletin* merely
 states that he was overtaken by McLean and shot within eight miles of
 Van Buren, and that he died of his wounds an hour afterward.
 
-<span id="fn_822"></span>[547:7](hou23.htm#fr_822) This account of
+<span id="fn_822"></span>[547:7](hou23.htm#fr_822.md) This account of
 Parley's murder is based on the testimony of Geo. Higginson and Geo.
 Crouch, whose letter, dated Flint, Arkansas, May 17, 1857, was first
 published in a New York paper. Copies of it will be found in the
@@ -860,19 +860,19 @@ burial and the disposition of his property. The account given by
 Stenhouse, in *Rocky Mountain Saints*, 429-30, does not differ
 materially, except that he makes no mention of any accomplices.
 
-<span id="fn_823"></span>[547:8](hou23.htm#fr_823) In his deposition at
+<span id="fn_823"></span>[547:8](hou23.htm#fr_823.md) In his deposition at
 the trial of John D. Lee and others, George A. Smith, the prophet's
 cousin, states that he found them at Corn Creek on Aug. 25th.
 *Millennial Star*. xxxvii. 675; *Lee's Mormonisrn Unvailed* 307.
 
-<span id="fn_824"></span>[548:9](hou23.htm#fr_824) *Sen. Doc*., 36 Cong.
+<span id="fn_824"></span>[548:9](hou23.htm#fr_824.md) *Sen. Doc*., 36 Cong.
 1st Sess., ii. no. 42, p. 76. Forney mentions that an ox belonging to a
 Dr Ray of Fillmore died from this cause while the emigrants were in that
 neighborhood, that his wife was taken ill while rendering the tallow,
 and that a boy who was assisting her died a few days afterward. One or
 two Indians who ate some of the meat were also poisoned.
 
-<span id="fn_825"></span>[548:10](hou23.htm#fr_825) John D. Lee, living
+<span id="fn_825"></span>[548:10](hou23.htm#fr_825.md) John D. Lee, living
 150 miles south of Fillmore, informed me that about twenty Indians and
 some cattle died from drinking of the poisoned water, and Indians from
 eating the poisoned meat.' *Forney's Rept*, in *Id*., p. 75. This report
@@ -893,7 +893,7 @@ event Lee states (still in his confession), 'I thought over the matter,
 and made up my mind to write the letter to Brigham Young and lay it all
 to the Indians.' *Id*., 254.
 
-<span id="fn_826"></span>[549:11](hou23.htm#fr_826) 'They proclaimed
+<span id="fn_826"></span>[549:11](hou23.htm#fr_826.md) 'They proclaimed
 that they had the very pistol with which the prophet Joseph Smith was
 murdered, and had threatened to kill Brigham and all of the apostles.
 That when in Cedar City they said they would have friends in Utah, who
@@ -904,7 +904,7 @@ soldiers, as soon as possible, and would then desolate the land, and
 kill every damned Mormon man, woman, and child that they could find in
 Utah.' *Lee's Mormonism Unvailed*, 218-19.
 
-<span id="fn_827"></span>[549:12](hou23.htm#fr_827) 'Conflicting
+<span id="fn_827"></span>[549:12](hou23.htm#fr_827.md) 'Conflicting
 statements were made to me of the behavior of this company,' says the
 superintendent of Indian affairs. 'I have accordingly made it a matter
 of material importance to make a strict inquiry to ascertain reliable
@@ -912,23 +912,23 @@ information on this subject…The result of my inquiries enables me to say
 that the company conducted themselves with propriety.' *Forney's Rept*,
 ut supra, p. 88.
 
-<span id="fn_828"></span>[550:13](hou23.htm#fr_828) Seven were killed
+<span id="fn_828"></span>[550:13](hou23.htm#fr_828.md) Seven were killed
 and sixteen wounded. *Lee's Confession*, in *Mormonism Unvailed*, 226-7;
 see also *Forney's Rept*, in *Sen. Doc*., 36th Cong. 1st Sess., ii. no.
 42, p. 88.
 
-<span id="fn_829"></span>[551:14](hou23.htm#fr_829) 'Thursday morning I
+<span id="fn_829"></span>[551:14](hou23.htm#fr_829.md) 'Thursday morning I
 saw two men start from the corral with buckets, and run to the spring
 and fill their buckets with water, and go back again. The bullets flew
 around them thick and fast, but they got into their corral in, safety.'
 *Lee's Mormonism Unvailed*, 230.
 
-<span id="fn_830"></span>[552:15](hou23.htm#fr_830) See the district
+<span id="fn_830"></span>[552:15](hou23.htm#fr_830.md) See the district
 attorney's opening address to the jury, in the *Deseret News*, Sept. 2,
 1877. Lee states that his object in sending for aid was to protect the
 emigrants. *Confession*, in *Mormonism Unvailed*, 229.
 
-<span id="fn_831"></span>[552:16](hou23.htm#fr_831) A full list of the
+<span id="fn_831"></span>[552:16](hou23.htm#fr_831.md) A full list of the
 company is given in *Id*., 379-80, and a list of all the Mormons who
 took part in the massacre in the *S. L. City Tribune*, June 2, 1877. See
 also the speech delivered by Judge Cradlebaugh in the house of
@@ -939,10 +939,10 @@ reprinted from the *S. L. Daily Tribune*, Apr. 8, 1877. The parts of it
 relating to the massacre will be found in *Waite's The Mormon Prophet*,
 65, and *Stenhouse's Rocky Mountain Saints*, 447-50.
 
-<span id="fn_832"></span>[552:17](hou23.htm#fr_832) First councillor to
+<span id="fn_832"></span>[552:17](hou23.htm#fr_832.md) First councillor to
 Haight.
 
-<span id="fn_833"></span>[553:18](hou23.htm#fr_833) *Forney's Rept*, ut
+<span id="fn_833"></span>[553:18](hou23.htm#fr_833.md) *Forney's Rept*, ut
 supra, 89; *Burton's City of the Saints*, 412, note. Lee also says that
 three escaped, but were overtaken and killed before reaching the
 settlements in California. *Mormonism Unvailed*, 244. Cradlebaugh states
@@ -952,7 +952,7 @@ the desert, another was murdered by Indians, 90 miles south of the
 desert, and a third was killed on the Colorado River by persons unknown.
 *Life in Utah*, 184.
 
-<span id="fn_834"></span>[554:19](hou23.htm#fr_834) In the official
+<span id="fn_834"></span>[554:19](hou23.htm#fr_834.md) In the official
 report quoted by Burton, *City of the Saints*, 419, it is stated that a
 girl 16 years of age knelt before one of the Mormons imploring mercy,
 but he led her away into a thicket, violated her, and then cut her
@@ -962,7 +962,7 @@ accuses Lee of selecting one of the young women for his harem, and
 relates that, when he made known his purpose, she attempted to stab him,
 whereupon he shot her through the head. *Life in Utah*, 183-4.
 
-<span id="fn_835"></span>[554:20](hou23.htm#fr_835) Lee, in his
+<span id="fn_835"></span>[554:20](hou23.htm#fr_835.md) Lee, in his
 confession, denied having killed any of them, but admits that he
 intended to do his part. He says: 'I drew my pistol and cocked it, but
 somehow it went off prematurely, and I shot McMurdy across the thigh, my
@@ -971,12 +971,12 @@ pistol-ball cutting his buckskin pants. McMurdy turned to me and said:
 As we shall see later, it was clearly proved at his trial that he killed
 several of the wounded.
 
-<span id="fn_836"></span>[555:21](hou23.htm#fr_836) Lee states that only
+<span id="fn_836"></span>[555:21](hou23.htm#fr_836.md) Lee states that only
 a little money and a few watches were found on them. *Id*., 244. This is
 improbable, and other accounts show that the Mormons gathered
 considerable booty.
 
-<span id="fn_837"></span>[555:22](hou23.htm#fr_837) 'After breakfast,'
+<span id="fn_837"></span>[555:22](hou23.htm#fr_837.md) 'After breakfast,'
 says Lee, 'we all went back in a body to the meadows, to bury the dead
 and take care of the property that was left there.' The above account of
 the Mountain Meadows massacre is taken mainly from *Forney's Rept*, in
@@ -1042,7 +1042,7 @@ see *Beadle's Western Wilds*, 495; *Beadle's Life in Utah*, facing p.
 183; *Stenhouse's Rocky Mountain Saints*, facing p. 424; *Lee's
 Mormonism Unvailed*, facing p. 240.
 
-<span id="fn_838"></span>[556:23](hou23.htm#fr_838) Rept of Assistant
+<span id="fn_838"></span>[556:23](hou23.htm#fr_838.md) Rept of Assistant
 Surgeon Brewer, dated Mountain Meadows, May 6, <span id="page_XXX">p.
 XXX</span> 1859, in *Sen. Doc.*, 36th Cong. 1st Sess., ii. no. 42, pp.
 16-17; Captain Campbell's rept, in *Mess. and Doc*., 1859-60, pt 2, p.
@@ -1054,12 +1054,12 @@ mention of this in the official documents, though the massacre was known
 to Sup. Forney at least as early as June 22d of that year. See his
 letter to C. E. Mix, in *Sen. Doc*., ut supra, pp. 44-5.
 
-<span id="fn_839"></span>[557:24](hou23.htm#fr_839) Cuts will be found
+<span id="fn_839"></span>[557:24](hou23.htm#fr_839.md) Cuts will be found
 in *Stenhouse's Tell It All*, 335; *Hutchings’ Cal. Mag*., iv. 347. The
 cairn, cross, and slab are said to have been destroyed by order of
 Brigham. *Cradlebaugh's Mormonism*, 14.
 
-<span id="fn_840"></span>[557:25](hou23.htm#fr_840) Forney's rept, in
+<span id="fn_840"></span>[557:25](hou23.htm#fr_840.md) Forney's rept, in
 *Sen. Doc*., 36th Cong. 1st Sess., ii. no. 42, pp. 79-80, where their
 names are given; see also p. 87; *Lee's Mormonism Unvailed*, 243. Bishop
 Smith's statement, in *Stenhouse's Rocky Mountain Saints*, 441-2. In
@@ -1072,7 +1072,7 @@ who alleged that Hamblin was encamped with him at Corn Creek on Aug. 25,
 45. Nevertheless Hamblin was accused of complicity. Affidavit of Capt.
 Jas Lynch, in i., 36th Cong. 1st Sess., ii. no. 42, p. 83.
 
-<span id="fn_841"></span>[557:26](hou23.htm#fr_841) 'I succeeded in
+<span id="fn_841"></span>[557:26](hou23.htm#fr_841.md) 'I succeeded in
 getting sixteen children, all, it is said, that remain of this
 butchering affair. I have the children with me; they seem contented and
 happy; poorly clad, however.' Forney's letter to General Johnston, in
@@ -1098,7 +1098,7 @@ of his family, saying: "Oh, I wish I was a man! I know what I would do:
 I would shoot John D. Lee. I saw him shoot my mother." I shall never
 forget how he looked.' *Mormonism*, 13.
 
-<span id="fn_842"></span>[558:27](hou23.htm#fr_842) For further
+<span id="fn_842"></span>[558:27](hou23.htm#fr_842.md) For further
 particulars as to the treatment and disposition of the children, see
 *Sen. Doc*., 36th Cong. 1st Sess., ii. no. 42, passim; *S. F. Alta*,
 Feb. 23, March 12, May 29, July 10, 20, 1859; *S. F. Bulletin*, May 30,
@@ -1107,7 +1107,7 @@ that on their way back they frequently pointed out carriages and stock
 that had belonged to the train, and stated whose property they were.
 *Mormonism*, 14.
 
-<span id="fn_843"></span>[558:28](hou23.htm#fr_843) *The Lee Trial*, 37;
+<span id="fn_843"></span>[558:28](hou23.htm#fr_843.md) *The Lee Trial*, 37;
 *Lee's Mormonism Unvailed*, 305-6; *Millennial Star*, xxxvii. 675;
 *Tullidge's Hist. S. L. City*, 243. In a conversation with Governor
 Cumming, George A. Smith remarked: 'If the business had not been taken
@@ -1117,17 +1117,17 @@ when a U. S. <span id="page_XXX">p. XXX</span> court sat in southern
 Utah. We should see whether or not white men were concerned in the
 affair with the Indians.' *Little's Jacob Hamblin*, 57.
 
-<span id="fn_844"></span>[559:29](hou23.htm#fr_844) Cradlebaugh's letter
+<span id="fn_844"></span>[559:29](hou23.htm#fr_844.md) Cradlebaugh's letter
 in *Mess*. and *Doc*., 1859-60, pt ii. 140.
 
-<span id="fn_845"></span>[560:30](hou23.htm#fr_845) A copy of the
+<span id="fn_845"></span>[560:30](hou23.htm#fr_845.md) A copy of the
 judge's charge will be found in *Stenhouse's Rocky Mountain Saints*,
 403-6.
 
-<span id="fn_846"></span>[560:31](hou23.htm#fr_846) *Cradlebaugh's
+<span id="fn_846"></span>[560:31](hou23.htm#fr_846.md) *Cradlebaugh's
 Mormonism*, 11; *The Lee Trial*, 6.
 
-<span id="fn_847"></span>[560:32](hou23.htm#fr_847) Major Carleton, of
+<span id="fn_847"></span>[560:32](hou23.htm#fr_847.md) Major Carleton, of
 the first dragoons. In a despatch to the assistant adjutant-general at
 San Francisco, dated Mountain Meadows, May 25, 1859, he says: 'A Pah Ute
 chief of the Santa Clara band, named Jackson, who was one of the
@@ -1142,10 +1142,10 @@ Cradlebaugh says that after the attack had been made, one of the Indians
 declared that a white man came to their camp with written orders from
 Brigham to 'go and help to whip the emigrants.' *Mormonism*, 11.
 
-<span id="fn_848"></span>[560:33](hou23.htm#fr_848) Lee's confession, in
+<span id="fn_848"></span>[560:33](hou23.htm#fr_848.md) Lee's confession, in
 *Mormonism Unvailed*, passim.
 
-<span id="fn_849"></span>[561:34](hou23.htm#fr_849) The massacre is thus
+<span id="fn_849"></span>[561:34](hou23.htm#fr_849.md) The massacre is thus
 mentioned for the first time in the *Millennial Star*, xxxix. 785 (Dec.
 3, 1877). 'The reader cannot fail to perceive that any overt act—much
 less the terrible butchery at Mountain Meadows—was farthest from Brigham
@@ -1157,13 +1157,13 @@ the southern route contrary to the advice of the Mormons. Forney states
 that the names of the guilty parties were published in the *Valley Tan.
 Sen. Doc*., 36th Cong. 1st Sess., ii. no. 42, p. 86.
 
-<span id="fn_850"></span>[561:35](hou23.htm#fr_850) Letter to the
+<span id="fn_850"></span>[561:35](hou23.htm#fr_850.md) Letter to the
 commissioner of Indian affairs, in *Sen. Doc*., 36th Cong. 1st Sess.,
 ii. no. 42, p. 74. Capt. Lynch, *Id*., p. 84, calls Forhey 'a veritable
 old granny,' but, with the exception of Gov. Cumming, he appears to be
 the only one who kept his head at this juncture.
 
-<span id="fn_851"></span>[562:36](hou23.htm#fr_851) Copies of all the
+<span id="fn_851"></span>[562:36](hou23.htm#fr_851.md) Copies of all the
 correspondence in this matter, which is somewhat voluminous, will be
 found in *Mess*. and *Doc*., 1859-60, ii. 139 et seq. The action of
 Cumming was afterward sustained by the secretary of war, in a letter
@@ -1181,16 +1181,16 @@ the governor, nor kept there against his remonstrance; 5. That the
 disregard of these principles and rules of action have been in many ways
 extremely unfortunate.'
 
-<span id="fn_852"></span>[562:37](hou23.htm#fr_852) For copy of protest
+<span id="fn_852"></span>[562:37](hou23.htm#fr_852.md) For copy of protest
 see *Deseret News*, March 30, 1859, where is also a protest from the
 grand jury against their dishonorable discharge.
 
-<span id="fn_853"></span>[562:38](hou23.htm#fr_853) Cradlebaugh relates
+<span id="fn_853"></span>[562:38](hou23.htm#fr_853.md) Cradlebaugh relates
 that when these arrests were made a general stampede occurred among the
 Mormons, especially among the church dignitaries, who fled to the
 mountains. *Mormonism*, 11.
 
-<span id="fn_854"></span>[563:39](hou23.htm#fr_854) *Deseret News*, Oct.
+<span id="fn_854"></span>[563:39](hou23.htm#fr_854.md) *Deseret News*, Oct.
 16, 23, 1878, where is a report of Collett's trial. A sensational
 account of this affair is given in *Hickman's Destroying Angel*, 205-9.
 It is there stated that the party had with them money and other property
@@ -1199,7 +1199,7 @@ Bulletin*, May 30, 1859; *S. F. Post*, Oct. 11, 1878; *S. L. City
 Tribune*, Oct. 12, 1878. In the report of the trial I find no mention of
 the murdered men's property.
 
-<span id="fn_855"></span>[563:40](hou23.htm#fr_855) Among others, an
+<span id="fn_855"></span>[563:40](hou23.htm#fr_855.md) Among others, an
 attempt was made to investigate what were known as the Potter and
 Parrish murders at Springville, an account of which is given in
 *Stenhouse's Rocky Mountain Saints*, 462-7. The proceedings in these
@@ -1236,22 +1236,22 @@ attract much attention, particularly when the murdered <span
 id="page_564">p. 564</span> have had the reputation of being thieves and
 murderers or of associating with such characters.'
 
-<span id="fn_856"></span>[564:41](hou23.htm#fr_856) Approved June 23,
+<span id="fn_856"></span>[564:41](hou23.htm#fr_856.md) Approved June 23,
 1874. See *Deseret News*, July 8, 1874.
 
-<span id="fn_857"></span>[564:42](hou23.htm#fr_857) *The Lee Trial*, 6.
+<span id="fn_857"></span>[564:42](hou23.htm#fr_857.md) *The Lee Trial*, 6.
 Forney states that Smith, Lee, Higby, Bishop Davis, Ira Hatch, and David
 Tullis were the most guilty. Letter to the commissioner of Indian
 affairs, in *Sen. Doc*., 36th Cong. let Sess., ii. no. 42, p. 86.
 
-<span id="fn_858"></span>[564:43](hou23.htm#fr_858) A detailed account
+<span id="fn_858"></span>[564:43](hou23.htm#fr_858.md) A detailed account
 of the arrest of John D. Lee by Wm Stokes, deputy U.S. marshal, is given
 in *Lee's Mormonism Unvailed*, 293-301. See also *Beadle's Western
 Wilds*, 490-2, where is a cut showing the scene of this incident. The
 two versions differ somewhat, Beadle stating that the arrest was made by
 Marshal Owens.
 
-<span id="fn_859"></span>[564:44](hou23.htm#fr_859) More than 100
+<span id="fn_859"></span>[564:44](hou23.htm#fr_859.md) More than 100
 subpoenas had been issued, but though many obeyed the summons, several
 material witnesses were not forthcoming—among them being Philip
 Klingensmith, Joel White, and William Hawley, all of whom were present
@@ -1260,17 +1260,17 @@ arrived a day or two later, in custody of a deputy, and Joel White was
 induced to trust himself to the notorious Bill Hickman, then acting as
 special deputy marshal. *The Lee Trial*, 8.
 
-<span id="fn_860"></span>[565:45](hou23.htm#fr_860) Portions of this
+<span id="fn_860"></span>[565:45](hou23.htm#fr_860.md) Portions of this
 first confession will be found in *Id*., 8-9; *S. F. Call*, July 21,
 1875; *S. F. Bulletin*, July 21, 1875.
 
-<span id="fn_861"></span>[565:46](hou23.htm#fr_861) William C. Carey,
+<span id="fn_861"></span>[565:46](hou23.htm#fr_861.md) William C. Carey,
 who was assisted by R. N. Baskin. Sutherland and Bates, Judge Hoge,
 Wells Spicer, John McFarlane, and W. W. Bishop appeared for the
 prisoner. Sutherland and Bates were the attorneys of the first
 presidency.
 
-<span id="fn_862"></span>[565:47](hou23.htm#fr_862) For names of jurors,
+<span id="fn_862"></span>[565:47](hou23.htm#fr_862.md) For names of jurors,
 see *The Lee Trial*, 11. On p. 52, it is stated that the foreman, who
 was a gentile, sided with the Mormons, the three remaining gentiles
 being in favor of a conviction. In *The Lee Trial*, published in
@@ -1282,7 +1282,7 @@ on the first presidency. Other reports will be found in the files of the
 504-13; *Young's Wife No. 19*, 256-60; the *Elko Independent*, Aug. 7,
 1875; the *Helena Independent*, July 29, 1875.
 
-<span id="fn_863"></span>[565:48](hou23.htm#fr_863) For names of jurors,
+<span id="fn_863"></span>[565:48](hou23.htm#fr_863.md) For names of jurors,
 see *Deseret News*, Sept. 20, 1876. Lee had been cut off from the church
 in 1871, and among anti-Mormon writers it is stated that the church
 authorities now withdrew all assistance and sympathy, and determined to
@@ -1296,28 +1296,28 @@ certainly not convict. The names of the jurors accepted were, of course,
 marked with two asterisks, but they found Lee guilty, as directed by the
 church authorities.
 
-<span id="fn_864"></span>[566:49](hou23.htm#fr_864) Sumner Howard, who
+<span id="fn_864"></span>[566:49](hou23.htm#fr_864.md) Sumner Howard, who
 was assisted by Presley Denny. The prisoner's counsel were Wells Spicer,
 J. C. Foster, and W. W. Bishop. The trial of John Lee, in *Mormonism
 Unvailed*, 302.
 
-<span id="fn_865"></span>[566:50](hou23.htm#fr_865) A summary of
+<span id="fn_865"></span>[566:50](hou23.htm#fr_865.md) A summary of
 Howard's opening address to the jury, which was forcible and well
 studied, will be found in the *Deseret News*, Sept. 20, 1876.
 
-<span id="fn_866"></span>[567:51](hou23.htm#fr_866) *Ibid*. Haslem's
+<span id="fn_866"></span>[567:51](hou23.htm#fr_866.md) *Ibid*. Haslem's
 testimony, together with other evidence tending to exculpate the
 dignitaries of the church, is omitted in the account of the trial given
 in *Lee's Mormonism Unvailed*.
 
-<span id="fn_867"></span>[567:52](hou23.htm#fr_867) From 13 to 15 years
+<span id="fn_867"></span>[567:52](hou23.htm#fr_867.md) From 13 to 15 years
 of age.
 
-<span id="fn_868"></span>[568:53](hou23.htm#fr_868) *Deseret News*,
+<span id="fn_868"></span>[568:53](hou23.htm#fr_868.md) *Deseret News*,
 Sept. 20, 1876; confirmed in the trial of John D. Lee, in *Mormonism
 Unvailed*, 361, 365-7.
 
-<span id="fn_869"></span>[568:54](hou23.htm#fr_869) In a sworn statement
+<span id="fn_869"></span>[568:54](hou23.htm#fr_869.md) In a sworn statement
 made at S. L. City, Oct. 24, 1884, Wilford Woodruff states that he was
 present when Lee had an interview with Brigham Young in the autumn of
 1857; that the latter was deeply affected, shed tears, and said he was
@@ -1325,7 +1325,7 @@ sorry that innocent blood had been shed. A copy of it will be found in
 *The Mountain Meadows Massacre*, 51-3, a republished lecture by Elder C.
 W. Penrose (S. L. City, 1884).
 
-<span id="fn_870"></span>[568:55](hou23.htm#fr_870) Reports of the
+<span id="fn_870"></span>[568:55](hou23.htm#fr_870.md) Reports of the
 proceedings at the second trial will be found in *Lee's Mormonism
 Unvailed*, 302-78; *The Deseret News*, Sept. 20, 27, 1876; *Beadle's
 Western Wilds*, 515-19. In passing sentence, Judge Boreman remarked:
@@ -1335,7 +1335,7 @@ participant in the massacre, yet both trials taken together show that
 others, and some high in authority, inaugurated and decided upon the
 wholesale slaughter of the emigrants.'
 
-<span id="fn_871"></span>[568:56](hou23.htm#fr_871) It will be found
+<span id="fn_871"></span>[568:56](hou23.htm#fr_871.md) It will be found
 entire in *Lee's Mormonism Unvailed*, 213-92; and in part in *Beadle's
 Western Wilds*, 519-23, *Stenhouse's Tell It All*, 633-48, the last of
 these versions being somewhat garbled. For other accounts and comments,
@@ -1346,7 +1346,7 @@ Weekly Express*, March 24, 1877; *Los Angeles Herald*, March 24, 1877;
 *Anaheim Gazette*, March 24, 1877; *Western Oregonian*, Apr. 7, 1877;
 *Portland Weekly Oregonian*, Apr. 7, 1877.
 
-<span id="fn_872"></span>[569:57](hou23.htm#fr_872) He mentions the case
+<span id="fn_872"></span>[569:57](hou23.htm#fr_872.md) He mentions the case
 of an Irishman, whose throat was cut by John Weston, near Cedar City, in
 the winter of 1857-8; of Robert Keyes, whose assassination was attempted
 about the same time by Philip Klingensmith; of three California-bound
@@ -1361,15 +1361,15 @@ Unvailed*, 272-83. Some of these cases are imputed to the Danites, but I
 find no mention of them in *Hickman's Destroying Angel*, whose narrative
 covers the period 1850-65.
 
-<span id="fn_873"></span>[570:58](hou23.htm#fr_873) He first requested
+<span id="fn_873"></span>[570:58](hou23.htm#fr_873.md) He first requested
 one James Fennemore, who was taking photographs of the group in which
 Lee formed the central figure, to send a copy to each of his three
 wives, Rachel, Sarah, and Emma. Fennemore promised to do so.
 
-<span id="fn_874"></span>[570:59](hou23.htm#fr_874) The Rev. George
+<span id="fn_874"></span>[570:59](hou23.htm#fr_874.md) The Rev. George
 Stokes.
 
-<span id="fn_875"></span>[571:60](hou23.htm#fr_875) The body was
+<span id="fn_875"></span>[571:60](hou23.htm#fr_875.md) The body was
 afterward inferred by relatives at Cedar City. Accounts of the execution
 will be found in *Lee's Mormonism Unvailed*, 383-90; *Stenhouse's Tell
 It All*, 627-31; *Stenhouse's Western Wilds*, 524-5; *S. L. City
@@ -1397,4 +1397,4 @@ the time of the massacre.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXI. Political, Social, and Institutional.
-1859-1862.](hou24)
+1859-1862.](hou24.md)

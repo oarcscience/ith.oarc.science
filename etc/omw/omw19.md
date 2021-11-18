@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw18)  [Next](omw20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw18)  [Next](omw20.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ strife were separated each from the other; and how the stars and the
 moon and the paths of the sun ever keep their fixed place in the sky;
 and how the mountains rose, and how the resounding rivers with their
 nymphs came into being, and all creeping things." <span
-id="fr_25"></span>[26](#fn_25)
+id="fr_25"></span>[26](#fn_25.md)
 
 PADRAIC COLUM.
 
@@ -19,9 +19,9 @@ PADRAIC COLUM.
 
 ### Footnotes
 
-<span id="fn_25"></span>[xxviii:26](omw19.htm#fr_25) Apollonius Rhodius:
+<span id="fn_25"></span>[xxviii:26](omw19.htm#fr_25.md) Apollonius Rhodius:
 The Argonautica, translated by R. C. Seaton, the Loeb Library.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](omw20)
+[Next: Contents](omw20.md)

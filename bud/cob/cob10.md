@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob09)  [Next](cob11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob09)  [Next](cob11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -146,7 +146,7 @@ from the supernatural world, by whatever means the intercourse between
 the two worlds may be carried on, is obviously "*the* Truth." As such,
 if it is to be made available for man's needs, it must admit of being
 formulated and. taught. In other words, the dogmatic <span
-id="fr_43"></span>[1](#fn_42) standpoint and the dogmatic
+id="fr_43"></span>[1](#fn_42.md) standpoint and the dogmatic
 
 <span id="page_208">p. 208</span>
 
@@ -262,7 +262,7 @@ spiritual ideas which have been the leaven
 of his inner life were transmitted to him, it is not to be wondered at
 that his reception of them has been in the main a subconscious process,
 and that they have not materially modified the movement of his conscious
-thought. <span id="fr_44"></span>[1](#fn_43) For many centuries, indeed,
+thought. <span id="fr_44"></span>[1](#fn_43.md) For many centuries, indeed,
 his acceptance of his own philosophy was complete. Those who offered to
 shake his faith in it--Gnostics, Arians, Albigenses, and the like--fared
 ill at his hands. Through his Agent-General, the Pope, and in the
@@ -356,7 +356,7 @@ whole theory of things which was built on that insecure foundation. The
 immediate consequences of this achievement have been and will long be
 disastrous. Take away from the philosophy of the average man the
 conception of the Supernatural,--and materialism, pure and simple,
-remains. <span id="fr_45"></span>[1](#fn_44)
+remains. <span id="fr_45"></span>[1](#fn_44.md)
 
 It is sometimes said that in the present age there
 
@@ -782,7 +782,7 @@ and friends.
 
 ### Footnotes
 
-<span id="fn_42"></span>[207:1](cob10.htm#fr_43) I mean by dogmatism,
+<span id="fn_42"></span>[207:1](cob10.htm#fr_43.md) I mean by dogmatism,
 not the uncompromising expression of opinion, but the claim to have
 formulated and expounded supernaturally communicated truth. The
 formulation of opinion, however uncompromising or even discourteous it
@@ -791,12 +791,12 @@ the word. There is a vital distinction, which the apologists for "dogma"
 are apt to ignore, between speaking for oneself and speaking in the name
 of the Supernatural God.
 
-<span id="fn_43"></span>[212:1](cob10.htm#fr_44) It is a significant
+<span id="fn_43"></span>[212:1](cob10.htm#fr_44.md) It is a significant
 fact that the pious Christian's recognition of the divinity of the Holy
 Spirit, or, in other words, of the immanence of God in his own life, is,
 as a rule, a pure formality.
 
-<span id="fn_44"></span>[215:1](cob10.htm#fr_45) For eighteen centuries,
+<span id="fn_44"></span>[215:1](cob10.htm#fr_45.md) For eighteen centuries,
 more or less, the belief that the God of the Jews is the God of the
 Universe, and that the Jewish Scriptures are the "Word of God," has lain
 like an incubus on the thought and conscience of the West. The time has
@@ -830,4 +830,4 @@ pleasure.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Light From the East](cob11)
+[Next: Chapter IX. Light From the East](cob11.md)

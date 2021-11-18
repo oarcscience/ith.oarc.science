@@ -137,7 +137,7 @@ Marie</span>
 VeloBound copies on pink or purple acid free paper</span>
 
 <span style="font-family:&quot;Maiandra GD&quot;">available at
-[www.MotherGoddess.org](https://www.MotherGoddess.org) or
+[www.MotherGoddess.org](https://www.MotherGoddess.org.md) or
 joanne@MotherGoddess.org</span>
 
 <span style="font-family:&quot;Maiandra GD&quot;"></span>
@@ -148,7 +148,7 @@ joanne@MotherGoddess.org</span>
 hard cover and soft cover books </span>
 
 <span style="font-family:&quot;Maiandra GD&quot;">Available at
-[www.LuLu.com](https://www.LuLu.com)</span>
+[www.LuLu.com](https://www.LuLu.com.md)</span>
 
 <span style="font-family:&quot;Maiandra GD&quot;"></span>
 
@@ -188,7 +188,7 @@ storage and retrieval system, without the written permission of the
 author, except where permitted by law.<span style="mso-spacerun:yes"> 
 </span>For limited licenses for reproduction purposes, you may contact
 the author at
-[www.MotherGoddess.org.](https://www.MotherGoddess.org.)<span
+[www.MotherGoddess.org.](https://www.MotherGoddess.org..md)<span
 style="mso-spacerun:yes">  </span></span>
 
 <span style="font-family:&quot;Maiandra GD&quot;"></span>
@@ -314,7 +314,7 @@ footnote"><span class="MsoFootnoteReference"><u><span
 style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Maiandra GD&quot;;
 mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
 color:blue;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:
-AR-SA">\[1\]</span></u></span></span></span></span>](https://www.RAWA.org)
+AR-SA">\[1\]</span></u></span></span></span></span>](https://www.RAWA.org.md)
 to see but a few examples. Treaties are ignored, medical funding for
 poor pregnant women and infants is often withheld, all because it is
 considered to be culturally acceptable to do so.<span
@@ -522,7 +522,7 @@ style="mso-tab-count:
 1">            </span>If you find anything whatsoever in this book that
 promotes hate, violence, aggression, greed, self centeredness, or
 anything that shows Goddess in a negative light, please post it on my
-website at [www.MotherGoddess.org](https://www.MotherGoddess.org) on the
+website at [www.MotherGoddess.org](https://www.MotherGoddess.org.md) on the
 bulletin board there and it will be promptly revised.</span>
 
 <span style="font-size:11.0pt;
@@ -2416,7 +2416,7 @@ style="mso-tab-count:
 
 <a href="#_ftnref1" id="_ftn1"></a><span
 style="font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:&quot;Maiandra GD&quot;">1.
-This book is also dedicated to [www.RAWA.org](https://www.RAWA.org) and
+This book is also dedicated to [www.RAWA.org](https://www.RAWA.org.md) and
 may Allat bless their good work in fighting oppression, fascism, hate
 and aggression in religion.<span style="mso-spacerun:yes">  </span>In
 particular, I dedicate the book also to Zainab, the Afghan girl I am

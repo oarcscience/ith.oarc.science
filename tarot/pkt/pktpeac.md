@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktpe02)  [Next](pkt0303) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktpe02)  [Next](pkt0303.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Ace
 
 <span id="img_peac"></span> <span align="CENTER"> [![](tn/peac.jpg)  
-Click to enlarge](img/peac.jpg)</span>
+Click to enlarge](img/peac.jpg.md)</span>
 
 A hand--issuing, as usual, from a cloud--holds up a pentacle.
 *Divinatory Meanings*: Perfect contentment, felicity, ecstasy; also
@@ -32,4 +32,4 @@ the possessor will depend on whether the card is reversed or not.
 ------------------------------------------------------------------------
 
 [Next: Section 3: The Greater Arcana and their Divinatory
-Meanings](pkt0303)
+Meanings](pkt0303.md)

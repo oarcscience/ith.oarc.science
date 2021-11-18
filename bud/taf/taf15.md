@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf14)  [Next](taf16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf14)  [Next](taf16.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@
 # ADORATION.
 
 ADORATION to the World-honored Ones (*Bhagavat*) <span
-id="fr_57"></span>[1](#fn_57) in all the ten quarters, who universally
+id="fr_57"></span>[1](#fn_57.md) in all the ten quarters, who universally
 produce great benefits, whose wisdom is infinite and transcendent, and
 who save and guard \[all beings\].
 
-\[Adoration\] to the Dharma <span id="fr_58"></span>[2](#fn_58) whose
+\[Adoration\] to the Dharma <span id="fr_58"></span>[2](#fn_58.md) whose
 essence and
 
 <span id="page_47">p. 47</span>
@@ -27,13 +27,13 @@ aspire after perfect knowledge (*samyaksambodhi*).
 That all beings (*sarvasattva*) may rid themselves of doubt, become free
 from evil attachment, and, by the awakening of faith (*çraddha*),
 inherit Buddha-seeds, I write this Discourse. <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_57"></span>[46:1](taf15.htm#fr_57) There are ten
+<span id="fn_57"></span>[46:1](taf15.htm#fr_57.md) There are ten
 appellations most commonly given to a Buddha: (1) *Tathâgata* (the one
 who thus comes, or he who has been expected and fulfils all
 expectations, the perfect one); (2) *Arhat* (the worthy one, but
@@ -50,7 +50,7 @@ enlightened one). When *Lokavid* and *Anuttara* are considered to be one
 title, as in the *Sutra on the Ten Appellations*, *Bhagavat* is added to
 make the tenth.
 
-<span id="fn_58"></span>[46:2](taf15.htm#fr_58) According to a general
+<span id="fn_58"></span>[46:2](taf15.htm#fr_58.md) According to a general
 interpretation of Mahâyâna Buddhists dharma means: (1) that which
 exists; (2) the object of understanding. Dharma may therefore be
 rendered in the first sense by "object," or "thing," or "substance," or
@@ -75,11 +75,11 @@ sometimes by "truth" or "doctrine," according to the context. But when
 it is synonymous with suchness (*bhûtatathatâ*), I have retained its
 original Sanskrit form, capitalised.
 
-<span id="fn_59"></span>[47:1](taf15.htm#fr_59) An almost similar
+<span id="fn_59"></span>[47:1](taf15.htm#fr_59.md) An almost similar
 passage is repeated in the succeeding paragraph, while it does not occur
 in the older translation It may be a mistake on the part of the new
 translation, but I have left it as it stands in the text.
 
 ------------------------------------------------------------------------
 
-[Next: Discourse](taf16)
+[Next: Discourse](taf16.md)

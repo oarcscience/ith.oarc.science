@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl19)  [Next](hhl21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl19)  [Next](hhl21.md) 
 
 ------------------------------------------------------------------------
 
@@ -176,4 +176,4 @@ in the battle of "the red mouth guns."
 
 ------------------------------------------------------------------------
 
-[Next: XVII. The Law of the Splintered Paddle](hhl21)
+[Next: XVII. The Law of the Splintered Paddle](hhl21.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck19)  [Next](peck21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck19)  [Next](peck21.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,4 +193,4 @@ the terrific heat.
 
 ------------------------------------------------------------------------
 
-[Next: At Low Tide](peck21)
+[Next: At Low Tide](peck21.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar067) [Next](gbar069)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar067) [Next](gbar069.md)
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ you, and to this end am I sent to you.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar069)
+[Next](gbar069.md)

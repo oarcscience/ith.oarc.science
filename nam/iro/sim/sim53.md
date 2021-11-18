@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim52)  [Next](sim54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim52)  [Next](sim54.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ And so it was.
 
 ------------------------------------------------------------------------
 
-[Next: A Man Pursued by his Uncle and by his Wife](sim54)
+[Next: A Man Pursued by his Uncle and by his Wife](sim54.md)

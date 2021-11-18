@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat11.htm#LXVII) 
-[Previous](satl066)  [Next](satl068) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat11.htm#LXVII.md) 
+[Previous](satl066)  [Next](satl068.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Scintillae indecentissimam rubore faciem sudario abscondit.
 
 ------------------------------------------------------------------------
 
-[Next: LXVIII](satl068)
+[Next: LXVIII](satl068.md)

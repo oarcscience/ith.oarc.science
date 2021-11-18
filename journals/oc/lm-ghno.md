@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Islamic
-Articles](../../isl/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Islamic
+Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ nicety at such a time as the thirteenth centuty, and in such a place as
 Persia; and it is equally startling to find their very detail worked out
 in a style which reminds us of the much-praised but sometimes belittled
 philosopher of Stuttgart.<span id="page_577_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_577_note_1) The Masnavi is the Bible
+class="small">1</span></sup>](#page_577_note_1.md) The Masnavi is the Bible
 of the Persians, and *Jelal u-din Rumi* is their apostle of the prophet.
 No book of antiquity, or modern days, is, all things considered more
 remarkable than this production. Wit, humor, poetry and rhyme express
@@ -100,7 +100,7 @@ Heraclitus). It, life, wears the appearance of continuity of form; the
 seeming continuity arises from the very swiftness of the motion (p. 3.);
 a spark whirled round has the appearance of a circle."<span
 id="page_578_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_578_note_2)
+class="small">2</span></sup>](#page_578_note_2.md)
 
    He expresses the principle of this on page 31 of book I. Here he
 begins and slowly works his way up to a statement so great as nearly to
@@ -111,7 +111,7 @@ by darkness. Opposite shows up opposite as the white man the negro; the
 opposite of light shows us what is light; hence colors are known by
 their opposites. *God created pain and grief to show happiness through
 its opposite.*<span id="page_578_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_578_note_3) Hidden things are
+class="small">3</span></sup>](#page_578_note_3.md) Hidden things are
 manifested thus." And then come the (to a scholastic) magnificent words,
 "*God has no opposite: He remains hidden.*" God has no opposite; He is
 all-inclusive. We are all of us a little pantheistic nowadays, although
@@ -151,13 +151,13 @@ thrillof rapture as to the calm of peace.
 does not think in vain, that to the universe of opposites on which he
 works there is a unity towards which he may indefinitely progress.<span
 id="page_579_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_579_note_4) "God has no opposite";
+class="small">4</span></sup>](#page_579_note_4.md) "God has no opposite";
 it gives consolation to the *doer*, for he knows that every result which
 he brings forth, sharply facing either menace or defect, brings him
 nearer to the Harmonized. Well may we accept the "pulse of thought,"
 "the grasp," "the split," "the combination."<span
 id="page_579_fr_5"></span>[<sup><span
-class="small">5</span></sup>](#page_579_note_5) What consolation above
+class="small">5</span></sup>](#page_579_note_5.md) What consolation above
 all it gives the *sufferer*! How oppositions tend to make us doubt! How
 can there be a purpose in so much <span id="page_580">p. 580</span>
 treason, such equivocation, and such oppression as we see? How is it
@@ -171,7 +171,7 @@ what seems the contradictory opposite of all that He can be.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Islamic Articles](../../isl/etc/index)
+[Journals](../index) [Islamic Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -179,25 +179,25 @@ what seems the contradictory opposite of all that He can be.
 
 <span id="footnotes_page_577">p. 577</span>
 
-<span id="page_577_note_1"></span>[1](#page_577_fr_1) Hegel was born in
+<span id="page_577_note_1"></span>[1](#page_577_fr_1.md) Hegel was born in
 Stuttgart, where a marble slab bearing his name is set in the facing of
 the house which claims to be his birthplace.
 
 <span id="footnotes_page_578">p. 578</span>
 
-<span id="page_578_note_2"></span>[2](#page_578_fr_2) Compare book II,
+<span id="page_578_note_2"></span>[2](#page_578_fr_2.md) Compare book II,
 p. 165. I have not followed Mr. Wynfield's most impressive and effective
 translation literally, but I have preferred it to others.
 
-<span id="page_578_note_3"></span>[3](#page_578_fr_3) The italics are
+<span id="page_578_note_3"></span>[3](#page_578_fr_3.md) The italics are
 mine.
 
 <span id="footnotes_page_579">p. 579</span>
 
-<span id="page_579_note_4"></span>[4](#page_579_fr_4) Compare Kant's "Ad
+<span id="page_579_note_4"></span>[4](#page_579_fr_4.md) Compare Kant's "Ad
 Indefinitum." (Was it, however, an unconscious joke?)
 
-<span id="page_579_note_5"></span>[5](#page_579_fr_5) Compare Hegel's
+<span id="page_579_note_5"></span>[5](#page_579_fr_5.md) Compare Hegel's
 "*Begriff, Urtheil, Schluss.*"
 
  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat14.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Index](../ehh)  [Index](index)  [Previous](bat14) 
 
 ### THE TWELFTH DIVISION OF THE TUAT, WHICH IS CALLED THEN-NETERU.
 
-THE TWELFTH DIVISION <span id="fr_6"></span>[1](#fn_6) of the Tuat,
+THE TWELFTH DIVISION <span id="fr_6"></span>[1](#fn_6.md) of the Tuat,
 which is passed through by the Sun-god during the TWELFTH HOUR of the
 night, is introduced by three lines of text, which read:--
 
@@ -39,7 +39,7 @@ exist in writing upon the east \[wall
  
 
 <span id="img_25800"></span> [![](tn/generic.jpg)  
-Click to view](img/25800.jpg)  
+Click to view](img/25800.jpg.md)  
 The Boat of the Sun in the last hour of the Night.
 
  
@@ -151,11 +151,11 @@ The text relating to the serpent reads:
  
 
 <span id="img_26300"></span> [![](tn/generic.jpg)  
-Click to view](img/26300.jpg)  
+Click to view](img/26300.jpg.md)  
 Twelve gods of the last hour of the night.
 
 <span id="img_26301"></span> [![](tn/generic.jpg)  
-Click to view](img/26301.jpg)  
+Click to view](img/26301.jpg.md)  
 Twelve goddesses of the last hour of the night.
 
  
@@ -192,7 +192,7 @@ names are:--
  
 
 <span id="img_26500"></span> [![](tn/generic.jpg)  
-Click to view](img/26500.jpg)  
+Click to view](img/26500.jpg.md)  
 Six goddesses with fiery serpents.
 
  
@@ -222,7 +222,7 @@ Six goddesses with fiery serpents.
  
 
 <span id="img_26600"></span> [![](tn/generic.jpg)  
-Click to view](img/26600.jpg)  
+Click to view](img/26600.jpg.md)  
 Six goddesses with fiery serpents.
 
  
@@ -262,7 +262,7 @@ in adoration before him; their names are:--
  
 
 <span id="img_26800"></span> [![](tn/generic.jpg)  
-Click to view](img/26800.jpg)  
+Click to view](img/26800.jpg.md)  
 Six gods who praise Ra at dawn.
 
  
@@ -294,7 +294,7 @@ The text reads:
  
 
 <span id="img_26900"></span> [![](tn/generic.jpg)  
-Click to view](img/26900.jpg)  
+Click to view](img/26900.jpg.md)  
 Six gods who praise Ra at dawn.
 
  
@@ -334,7 +334,7 @@ respectively.
  
 
 <span id="img_27100"></span> [![](tn/generic.jpg)  
-Click to view](img/27100.jpg)  
+Click to view](img/27100.jpg.md)  
 (*Left*) The gods who receive Ra. (*Right*) A god of a paddle.
 
  
@@ -383,15 +383,15 @@ KHU-RE.
  
 
 <span id="img_27300"></span> [![](tn/generic.jpg)  
-Click to view](img/27300.jpg)  
+Click to view](img/27300.jpg.md)  
 Gods of paddles.
 
 <span id="img_27301"></span> [![](tn/generic.jpg)  
-Click to view](img/27301.jpg)  
+Click to view](img/27301.jpg.md)  
 (*Left*) Gods of paddles. (*Right*) Gods who praise Ra at sunrise.
 
 <span id="img_27302"></span> [![](tn/generic.jpg)  
-Click to view](img/27302.jpg)  
+Click to view](img/27302.jpg.md)  
 Gods who praise Ra at sunrise.
 
  
@@ -407,7 +407,7 @@ The texts relating to these gods read:--
  
 
 <span id="img_27400"></span> [![](tn/generic.jpg)  
-Click to view](img/27400.jpg)  
+Click to view](img/27400.jpg.md)  
 Gods who praise Ra at sunrise.
 
  
@@ -448,7 +448,7 @@ words of this god in their own Tuat."
  
 
 <span id="img_27700"></span> [![](tn/generic.jpg)  
-Click to view](img/27700.jpg)  
+Click to view](img/27700.jpg.md)  
 The exit of Ra from the Tuat, i.e., Sunrise.
 
  
@@ -474,5 +474,5 @@ END OF VOL. I.
 
 ### Footnotes
 
-<span id="fn_6"></span>[256:1](bat15.htm#fr_6) See Lanzone, *Domicile*,
+<span id="fn_6"></span>[256:1](bat15.htm#fr_6.md) See Lanzone, *Domicile*,
 pl. v.

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,12 +16,12 @@ Reading](../pkt/tarot0) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)   [Start Reading](tob00)
+[Contents](#contents)   [Start Reading](tob00.md)
 
 ------------------------------------------------------------------------
 
 *Tarot of the Bohemians*, along with the *[Pictoral Key to the
-Tarot](../pkt/index)*, constitute the core literature of 19th and early
+Tarot](../pkt/index.md)*, constitute the core literature of 19th and early
 20th century 'Tarotism'. However, PTK is to the TOB as arithmetic is to
 differential calculus. If you have no experience reading occult
 literature of this period, you may find yourself profoundly lost after
@@ -57,116 +57,116 @@ profound grasp of the inner life of the Tarot deck.
 
 ------------------------------------------------------------------------
 
-[Title Page](tob00)  
-[Preface](tob01)  
-[Contents](tob02)  
+[Title Page](tob00.md)  
+[Preface](tob01.md)  
+[Contents](tob02.md)  
 <span id="section_000"></span>
 
 ### Introduction to the Study of the Tarot
 
-[Chapter I. Introduction to the Study of the Tarot](tob03)  
+[Chapter I. Introduction to the Study of the Tarot](tob03.md)  
 <span id="section_001"></span>
 
 ### Part I. General Key to the Tarot, Giving the Absolute Key to Occult Science
 
-[Chapter II. The Sacred Word Yod-He-Vau-He](tob04)  
-[Chapter III. The Esoterism of Numbers](tob05)  
-[Chapter IV: Analogy Between the Sacred Word and Numbers](tob06)  
-[Chapter V: The Key to the Minor Arcana](tob07)  
-[Chapter VI: The Key to the Major Arcana](tob08)  
-[Chapter VII. Connection Between the Major and Minor Arcana](tob09)  
+[Chapter II. The Sacred Word Yod-He-Vau-He](tob04.md)  
+[Chapter III. The Esoterism of Numbers](tob05.md)  
+[Chapter IV: Analogy Between the Sacred Word and Numbers](tob06.md)  
+[Chapter V: The Key to the Minor Arcana](tob07.md)  
+[Chapter VI: The Key to the Major Arcana](tob08.md)  
+[Chapter VII. Connection Between the Major and Minor Arcana](tob09.md)  
 <span id="section_002"></span>
 
 ### Part II. Symbolism in the Tarot
 
-[Chapter VIII. Introduction to the Study of Symbolism](tob10)  
+[Chapter VIII. Introduction to the Study of Symbolism](tob10.md)  
 [Chapter IX. History of the Symbolism of the Tarot. Inquiry into its
-Origin](tob11)  
+Origin](tob11.md)  
 <span id="section_003"></span>
 
 ### Chapter X. The Symbolical Tarot
 
-[Scheme of Work](tob12)  
+[Scheme of Work](tob12.md)  
 [The First Card of the Tarot: Origin of the Signification of All the
-Others](tob13)  
-[1. The Juggler](tob14)  
-[2. The High Priestess](tob15)  
-[3. The Empress](tob16)  
-[4. The Emperor](tob17)  
-[5. The Pope](tob18)  
-[6. The Lovers](tob19)  
+Others](tob13.md)  
+[1. The Juggler](tob14.md)  
+[2. The High Priestess](tob15.md)  
+[3. The Empress](tob16.md)  
+[4. The Emperor](tob17.md)  
+[5. The Pope](tob18.md)  
+[6. The Lovers](tob19.md)  
 <span id="section_004"></span>
 
 ### Chapter XI. Second Septenary
 
-[Key to the Second Septenary](tob20)  
-[7. The Chariot](tob21)  
-[8. Justice](tob22)  
-[9. The Hermit](tob23)  
-[10. The Wheel of Fortune](tob24)  
-[11. Strength](tob25)  
-[12. The Hanged Man](tob26)  
-[Constitution of Man](tob27)  
+[Key to the Second Septenary](tob20.md)  
+[7. The Chariot](tob21.md)  
+[8. Justice](tob22.md)  
+[9. The Hermit](tob23.md)  
+[10. The Wheel of Fortune](tob24.md)  
+[11. Strength](tob25.md)  
+[12. The Hanged Man](tob26.md)  
+[Constitution of Man](tob27.md)  
 <span id="section_005"></span>
 
 ### Chapter XII. Third Septenary
 
-[Key to the Third Septenary](tob28)  
-[13. Death](tob29)  
-[14. Temperance](tob30)  
-[15. The Devil](tob31)  
-[16. The Lightning-Struck Tower](tob32)  
-[17. The Stars](tob33)  
-[18. The Moon](tob34)  
-[Constitution of the Universe](tob35)  
+[Key to the Third Septenary](tob28.md)  
+[13. Death](tob29.md)  
+[14. Temperance](tob30.md)  
+[15. The Devil](tob31.md)  
+[16. The Lightning-Struck Tower](tob32.md)  
+[17. The Stars](tob33.md)  
+[18. The Moon](tob34.md)  
+[Constitution of the Universe](tob35.md)  
 <span id="section_006"></span>
 
 ### Chapter XIII. General Transition. Arcana 19 to 21
 
-[Chapter XIII. General Transition](tob36)  
-[19. The Sun](tob37)  
-[20. The Judgement](tob38)  
-[21. The Fool](tob39)  
-[22. The World](tob40)  
-[The Ternary of Transition](tob41)  
+[Chapter XIII. General Transition](tob36.md)  
+[19. The Sun](tob37.md)  
+[20. The Judgement](tob38.md)  
+[21. The Fool](tob39.md)  
+[22. The World](tob40.md)  
+[The Ternary of Transition](tob41.md)  
 
  
 
-[Chapter XIV. General Summary Of The Symbolical Tarot](tob42)  
+[Chapter XIV. General Summary Of The Symbolical Tarot](tob42.md)  
 <span id="section_007"></span>
 
 ### Part III. Applications of the Tarot
 
-[Chapter XV. General Key to the Applications of the Tarot](tob43)  
-[Chapter XVI. The Astronomical Tarot](tob44)  
-[Chapter XVII. The Initiative Tarot](tob45)  
-[The Divine Name in the Tarot](tob46)  
+[Chapter XV. General Key to the Applications of the Tarot](tob43.md)  
+[Chapter XVI. The Astronomical Tarot](tob44.md)  
+[Chapter XVII. The Initiative Tarot](tob45.md)  
+[The Divine Name in the Tarot](tob46.md)  
 <span id="section_008"></span>
 
 ### Chapter XVIII. The Kabbalistic Tarot
 
-[Deductions by Etteila upon the Book of Thoth](tob47)  
+[Deductions by Etteila upon the Book of Thoth](tob47.md)  
 [Example of the Application of the Tarot to the Kabbalah. The Hierogram
-of Adam, by Stanislas De Guaita](tob48)  
+of Adam, by Stanislas De Guaita](tob48.md)  
 [Chapter XIX. List of the Authors who Have Interested Themselves in the
-Tarot](tob49)  
+Tarot](tob49.md)  
 <span id="section_009"></span>
 
 ### Chapter XX: The Divining Tarot in Seven Lessons
 
-[Introduction](tob50)  
+[Introduction](tob50.md)  
 [First Lesson: Simplification of the Rules of Fortune-Telling by the
-Tarot](tob51)  
+Tarot](tob51.md)  
 [Second Lesson. Minor Arcana. Signification from the Divining Point of
-View](tob52)  
+View](tob52.md)  
 [Third Lesson. Major Arcana. Signification from the Divining Point of
-View](tob53)  
+View](tob53.md)  
 [Fourth Lesson. Basis of the Application of These Data. Arrangement of
-the Cards](tob54)  
-[Fifth Lesson. Fortune-Telling by the Tarot](tob55)  
+the Cards](tob54.md)  
+[Fifth Lesson. Fortune-Telling by the Tarot](tob55.md)  
 [Sixth Lesson. Etteila's original and unpublished Method of
-Fortune-telling by the Tarot](tob56)  
-[Seventh Lesson. Conclusion](tob57)  
-[Chapter XII. Application of the Tarot to Games](tob58)  
-[Chapter XXII. Conclusion](tob59)  
-[Authors and Principle Works Quoted](tob60)  
+Fortune-telling by the Tarot](tob56.md)  
+[Seventh Lesson. Conclusion](tob57.md)  
+[Chapter XII. Application of the Tarot to Games](tob58.md)  
+[Chapter XXII. Conclusion](tob59.md)  
+[Authors and Principle Works Quoted](tob60.md)  

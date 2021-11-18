@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc12)  [Next](pcc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc12)  [Next](pcc14.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Hermes the guardian of the flocks, bearing a ram or lamb round
 <span id="page_181">p. 181</span>
 
 his neck; sometimes as Orpheus tuning his lute among the wild
-animals." <span id="fr_193"></span>[1](#fn_193) The followers of Jesus
+animals." <span id="fr_193"></span>[1](#fn_193.md) The followers of Jesus
 were at times even accused--whether rightly or wrongly I know not--of
 celebrating sexual mysteries at their love-feasts. But as the Church
 through the centuries grew in power and scope--with its monks and their
@@ -58,11 +58,11 @@ but the general facts in this connection are fairly patent. We know, of
 course, from the Bible that the Syrians in Palestine were given to
 sexual worships. There were erect images (phallic) and "groves" (sexual
 symbols) on every high hill and under every green tree; <span
-id="fr_194"></span>[2](#fn_194) and these same images and the rites
+id="fr_194"></span>[2](#fn_194.md) and these same images and the rites
 connected with them crept into the Jewish Temple and were popular enough
 to maintain their footing there for a long period from King Rehoboam
 onwards, notwithstanding the efforts of Josiah <span
-id="fr_195"></span>[3](#fn_195) and other reformers to extirpate them.
+id="fr_195"></span>[3](#fn_195.md) and other reformers to extirpate them.
 Moreover there were girls and men (*hierodouloi*) regularly attached
 during this period to the Jewish Temple as to the heathen
 
@@ -80,9 +80,9 @@ men-worshipers in the Temple, much in the same way, probably, as
 Herodotus describes in the temple of the Babylonian Venus Mylitta, where
 every native woman, once in her life, was supposed to sit in the Temple
 and have intercourse with some stranger. <span
-id="fr_196"></span>[1](#fn_196) Indeed the Syrian and Jewish rites dated
+id="fr_196"></span>[1](#fn_196.md) Indeed the Syrian and Jewish rites dated
 largely from Babylonia. "The Hebrews entering Syria," says Richard
-Burton <span id="fr_197"></span>[2](#fn_197) "found it religionized, by
+Burton <span id="fr_197"></span>[2](#fn_197.md) "found it religionized, by
 Assyria and Babylonia, when the Accadian Ishtar had passed West, and had
 become Ashtoreth, Ashtaroth, or Ashirah, the Anaitis of Armenia, the
 Phoenician Astarte, and the Greek Aphrodite, the great Moon-goddess who
@@ -110,7 +110,7 @@ over the, world, notably in Ireland, and forms such a memorial of the
 adoration paid by early folk to the great emblem and instrument of human
 fertility, as cannot be mistaken. The pillars set up by Solomon in front
 of his temple were obviously from their names--Jachin and Boaz <span
-id="fr_198"></span>[1](#fn_198)--meant to be emblems of this kind; and
+id="fr_198"></span>[1](#fn_198.md)--meant to be emblems of this kind; and
 the fact that they were crowned with pomegranates--the universally
 accepted symbol of the female--confirms and clinches this
 interpretation. The obelisks before the Egyptians' temples were signs of
@@ -121,7 +121,7 @@ Adonis or Krishna or whoever it might be) was crucified; and the same
 symbol combined with the oval (or *yoni*) formed *the* Crux Ansata ☥ of
 the old Egyptian ritual--a figure which is to-day sold in Cairo as a
 potent charm, and confessedly indicates the conjunction of the two sexes
-in one design. <span id="fr_199"></span>[2](#fn_199) MacLennan in *The
+in one design. <span id="fr_199"></span>[2](#fn_199.md) MacLennan in *The
 Fortnightly Review* (Oct. 1869) quotes with approval the words of
 Sanchoniathon, as saying that "men first worship plants, next the
 heavenly bodies,
@@ -154,7 +154,7 @@ supernatural order of the great world around him. Sex was felt from the
 first to be part, and a foundational part, of the great order of the
 world and of human nature; and therefore to separate it from Religion
 was unthinkable and a kind of contradiction in terms. <span
-id="fr_200"></span>[1](#fn_200)
+id="fr_200"></span>[1](#fn_200.md)
 
 If that is true--it will be asked--how was it that that divorce *did*
 take place--that the taboo did arise? How was it that the Jews, under
@@ -180,7 +180,7 @@ have been a reason, and a deep-rooted one, for this remarkable reaction
 and *volte-face* which has characterized Christianity, and, perhaps to a
 lesser degree, other both earlier and later cults like those of the
 Buddhists, the Egyptians, the Aztecs, <span
-id="fr_201"></span>[1](#fn_201) and so forth.
+id="fr_201"></span>[1](#fn_201.md) and so forth.
 
 It may be said--and this is a fair answer on the *surface* of the
 problem--that the main reason *was* something in the nature of a
@@ -201,7 +201,7 @@ and get nearer the heart of the problem if
 
 we revert to the general clue which I have followed already more than
 once--the clue of the necessary evolution of human
-[Consciousness](errata.htm#1). In the first or animal stage of human
+[Consciousness](errata.htm#1.md). In the first or animal stage of human
 evolution, Sex was (as among the animals) a perfectly necessary,
 instinctive and unself-conscious activity. It was harmonious with
 itself, natural, and unproductive of evil. But when the second stage set
@@ -274,7 +274,7 @@ through Childbirth the life of the Race (or of the Tribe, or, if you
 like, of Humanity at large) should be sacred and guarded from merely
 selfish aims, and therefore to use it only for such aims is indeed a
 desecration. And even if--as some maintain and I think rightly <span
-id="fr_202"></span>[1](#fn_202)--sex is not *merely* for child-birth and
+id="fr_202"></span>[1](#fn_202.md)--sex is not *merely* for child-birth and
 physical procreation, but for mutual vitalizing and invigoration, it
 still subserves union and not egotism; and to use it egotistically is to
 commit the sin of Separation indeed. It is to cast away and corrupt the
@@ -483,7 +483,7 @@ the Sabbath arose, which, taken up in turn by the Jewish and Christian
 Churches, has ruled the Western World for three thousand years or more,
 and still survives in a quite senseless form among some of our rural
 populations, who will see their corn rot in the fields rather than save
-it on a Sunday. <span id="fr_203"></span>[1](#fn_203) It is quite likely
+it on a Sunday. <span id="fr_203"></span>[1](#fn_203.md) It is quite likely
 that this taboo in its first beginning was due not to any need of a
 weekly rest-day (a need which could never be felt among nomad savages,
 but would only occur in some kind of industrial and stationary
@@ -493,7 +493,7 @@ enterprise undertaken on the seventh day, or any day of Moon-change. It
 is probable, however, that as time went on and Society became more
 complex, the advantages of a weekly *rest-day* (or market-day) became
 more obvious and that the priests and legislators deliberately turned
-the taboo to a social use. <span id="fr_204"></span>[2](#fn_204) The
+the taboo to a social use. <span id="fr_204"></span>[2](#fn_204.md) The
 learned modern Ethnologists, however, will generally have none of this
 latter idea. As a rule they delight in representing early peoples as
 totally destitute of common sense (which is supposed to be a monopoly of
@@ -509,7 +509,7 @@ sense in the past or even
 
 an underlying good sense in the present, but its foundation must rest on
 something beyond. It must be an absolute *fiat*--something of the nature
-of a Mystery <span id="fr_205"></span>[1](#fn_205) or of Religion or
+of a Mystery <span id="fr_205"></span>[1](#fn_205.md) or of Religion or
 Magic--and not to be disputed. This gives it its blood-curdling quality.
 The rustic does not know what would happen to him if he garnered his
 corn on Sunday, nor does the diner-out in polite society know what would
@@ -525,12 +525,12 @@ tendency of later marriage custom has been on the whole to *limit* this
 range of choice. At some early period the forbiddal of marriage between
 those who bore the same totem-name took place. Thus in Australia "no man
 of the Emu stock might marry an Emu woman; no Blacksnake might marry a
-Blacksnake woman, and so forth." <span id="fr_206"></span>[2](#fn_206)
+Blacksnake woman, and so forth." <span id="fr_206"></span>[2](#fn_206.md)
 Among the Kamilaroi and the Arunta of S. Australia the tribe was divided
 into classes or clans, sometimes four, sometimes eight, and a man of one
 particular clan was only marriageable with a woman of another particular
 clan--say (1) with (3) or (2) with (4), and so on. <span
-id="fr_207"></span>[3](#fn_207) Customs with a similar tendency, but
+id="fr_207"></span>[3](#fn_207.md) Customs with a similar tendency, but
 different in detail, seem to have prevailed among native tribes in
 Central Africa and N. America. And the regulations in all this matter
 have been so (apparently) entirely arbitrary in the various cases that
@@ -542,7 +542,7 @@ the real and more abiding object was simply limitation.
 
 \[paragraph continues\] And this perhaps was a wise line to take. A
 taboo on promiscuity had to be created, and for this purpose any current
-prejudice could be made use of. <span id="fr_208"></span>[1](#fn_208)
+prejudice could be made use of. <span id="fr_208"></span>[1](#fn_208.md)
 
 With us moderns the whole matter has taken a different complexion. When
 we consider the enormous amount of suffering and disease, both of mind
@@ -585,13 +585,13 @@ give it its due expression. The Greeks of old, having on the whole clean
 bodies, treated them with respect and distinction. The young men
 appeared quite naked in the *palaestra*, and even the girls of Sparta
 ran races publicly in the same condition; <span
-id="fr_209"></span>[1](#fn_209) and some day when our bodies (and minds
+id="fr_209"></span>[1](#fn_209.md) and some day when our bodies (and minds
 too) have become clean we shall return to similar institutions. But that
 will not be just yet. As long as the defilement of this commercial
 civilization is on us we shall prefer our dirt and concealment. The
 powers that be will protest against change. Heinrich Scham, in his
 charming little pamphlet *Nackende Menschen*, <span
-id="fr_210"></span>[2](#fn_210) describes the consternation of the
+id="fr_210"></span>[2](#fn_210.md) describes the consternation of the
 commercial people at such ideas:
 
 "'What will become of us,' cried the tailors, 'if you go naked?'
@@ -606,25 +606,25 @@ a director."
 
 ### Footnotes
 
-<span id="fn_193"></span>[181:1](pcc13.htm#fr_193) *Angels' Wings*, by
+<span id="fn_193"></span>[181:1](pcc13.htm#fr_193.md) *Angels' Wings*, by
 E. Carpenter, p. 104.
 
-<span id="fn_194"></span>[181:2](pcc13.htm#fr_194) 1 Kings xiv. 22-24.
+<span id="fn_194"></span>[181:2](pcc13.htm#fr_194.md) 1 Kings xiv. 22-24.
 
-<span id="fn_195"></span>[181:3](pcc13.htm#fr_195) 2 Kings xxiii.
+<span id="fn_195"></span>[181:3](pcc13.htm#fr_195.md) 2 Kings xxiii.
 
-<span id="fn_196"></span>[182:1](pcc13.htm#fr_196) See *Herodotus* i.
+<span id="fn_196"></span>[182:1](pcc13.htm#fr_196.md) See *Herodotus* i.
 199; also a reference to this custom in the apocryphal *Baruch*, vi. 42,
 43.
 
-<span id="fn_197"></span>[182:2](pcc13.htm#fr_197) *The Thousand Nights
+<span id="fn_197"></span>[182:2](pcc13.htm#fr_197.md) *The Thousand Nights
 and a Night* (1886 edn.), vol. x, p. 229.
 
-<span id="fn_198"></span>[183:1](pcc13.htm#fr_198) "He shall establish"
+<span id="fn_198"></span>[183:1](pcc13.htm#fr_198.md) "He shall establish"
 and "In it is strength'" are in the Bible the marginal interpretations
 of these two words.
 
-<span id="fn_199"></span>[183:2](pcc13.htm#fr_199) The connection
+<span id="fn_199"></span>[183:2](pcc13.htm#fr_199.md) The connection
 between the production of fire by means of the fire-drill and the
 generation of life by sex-intercourse is a very obvious one, and lends
 itself to magical ideas. J. E. Hewitt in his *Ruling Races of
@@ -634,42 +634,42 @@ from which fire was generated by the fire-drill." Hence we have, he
 says, the Magi of Persia, and the Maghadas of Indian History, also the
 word "Magic."
 
-<span id="fn_200"></span>[184:1](pcc13.htm#fr_200) For further
+<span id="fn_200"></span>[184:1](pcc13.htm#fr_200.md) For further
 development of this subject see ch. xv (pp.
-[244](pcc16.htm#page_244)-248) *infra*.
+[244](pcc16.htm#page_244)-248.md) *infra*.
 
-<span id="fn_201"></span>[185:1](pcc13.htm#fr_201) For the Aztecs, see
+<span id="fn_201"></span>[185:1](pcc13.htm#fr_201.md) For the Aztecs, see
 *Acosta*, vol. ii, p. 324 (London, 1604).
 
-<span id="fn_202"></span>[188:1](pcc13.htm#fr_202) See Havelock Ellis,
+<span id="fn_202"></span>[188:1](pcc13.htm#fr_202.md) See Havelock Ellis,
 *The Objects of Marriage*, a pamphlet published by the "British Society
 for the Study of Sex-psychology."
 
-<span id="fn_203"></span>[194:1](pcc13.htm#fr_203) For other absurd
+<span id="fn_203"></span>[194:1](pcc13.htm#fr_203.md) For other absurd
 Sunday taboos see Westermarck on *The Moral Ideas*, vol. ii, p. 289.
 
-<span id="fn_204"></span>[194:2](pcc13.htm#fr_204) For a tracing of this
+<span id="fn_204"></span>[194:2](pcc13.htm#fr_204.md) For a tracing of this
 taboo from useless superstition to practical utility see Hastings's
 *Encycl. Religion and Ethics*, art. "The Sabbath."
 
-<span id="fn_205"></span>[195:1](pcc13.htm#fr_205) See Westermarck,
+<span id="fn_205"></span>[195:1](pcc13.htm#fr_205.md) See Westermarck,
 *Ibid*., ii. 586.
 
-<span id="fn_206"></span>[195:2](pcc13.htm#fr_206) *Myth, Ritual and
+<span id="fn_206"></span>[195:2](pcc13.htm#fr_206.md) *Myth, Ritual and
 Religion*, i, p. 66.
 
-<span id="fn_207"></span>[195:3](pcc13.htm#fr_207) See Spencer and
+<span id="fn_207"></span>[195:3](pcc13.htm#fr_207.md) See Spencer and
 Gillen, *Native Tribes of Australia*.
 
-<span id="fn_208"></span>[196:1](pcc13.htm#fr_208) The author of *The
+<span id="fn_208"></span>[196:1](pcc13.htm#fr_208.md) The author of *The
 Mystic Rose* seems to take this view. See p. 214 of that book.
 
-<span id="fn_209"></span>[197:1](pcc13.htm#fr_209) See Theocritus, Idyll
+<span id="fn_209"></span>[197:1](pcc13.htm#fr_209.md) See Theocritus, Idyll
 xviii.
 
-<span id="fn_210"></span>[197:2](pcc13.htm#fr_210) Published at Leipzig
+<span id="fn_210"></span>[197:2](pcc13.htm#fr_210.md) Published at Leipzig
 about 1893.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Genesis Of Christianity](pcc14)
+[Next: XIII. The Genesis Of Christianity](pcc14.md)

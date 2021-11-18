@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc121)  [Next](ffcc123) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc121)  [Next](ffcc123.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -36,7 +36,7 @@ Various theories have been advanced as to the origin of
 
 fairies and as to the belief in them. The most concrete form in which
 the belief has been urged has been by the Rev. Robert Kirk, minister of
-Aberfoyle, in Perthshire. <span id="fr_29"></span>[1](#fn_28) Another
+Aberfoyle, in Perthshire. <span id="fr_29"></span>[1](#fn_28.md) Another
 theory of the origin of fairies I took down in the island of Miunghlaidh
 (Minglay); and, though I have given it in *Carmina Gadelica,* it is
 sufficiently interesting to be quoted here. During October 1871,
@@ -272,7 +272,7 @@ and now as a Christian minister I believe in the possibility and also
 the reality of these spiritual orders, but I wish only to know those
 orders which belong to the realm of grace. It is very certain that they
 exist. I have been in a state of ecstasy, and have seen spiritual beings
-which form these orders. <span id="fr_30"></span>[1](#fn_29)
+which form these orders. <span id="fr_30"></span>[1](#fn_29.md)
 
 'I believe in the actuality of evil spirits; but people in the Highlands
 having put aside paganism, evil spirits are not seen now.'
@@ -325,19 +325,19 @@ the conceited fellow went home a hump-back.'
 
 Libations to Fairies.--'An elder in my church knew a woman who was
 accustomed, in milking her cows, to offer libations to the
-fairies. <span id="fr_31"></span>[1](#fn_30) The woman was later
+fairies. <span id="fr_31"></span>[1](#fn_30.md) The woman was later
 converted to Christ and gave up the practice, and as a result one of her
 cows was *taken* by the fairies. Then she revived the practice.
 
 'The fairy queen who watches over cows is called *Gruagach* in the
 Islands, and she is often seen. In pouring libations to her and her
 fairies various kinds of stones, usually with hollows in them, are
-used. <span id="fr_32"></span>[2](#fn_31)
+used. <span id="fr_32"></span>[2](#fn_31.md)
 
 <span id="page_93">p. 93</span>
 
 'In Lewis libations are poured to the goddess \[or god\] of the sea,
-called *Shoney*, <span id="fr_33"></span>[1](#fn_32) in order to bring
+called *Shoney*, <span id="fr_33"></span>[1](#fn_32.md) in order to bring
 in seaweed, Until modern times in Iona similar libations were poured to
 a god corresponding to Neptune.'
 
@@ -371,7 +371,7 @@ and leaving changelings in their place. These changelings would waste
 away and die in a short time after being left. So firmly did the old
 people believe in fairies then that they would ridicule a person for not
 believing. And now quite the reverse state has come about. <span
-id="fr_34"></span>[1](#fn_33)
+id="fr_34"></span>[1](#fn_33.md)
 
 ### THE TESTIMONY OF JOHN DUNBAR OF INVEREEN
 
@@ -451,7 +451,7 @@ lived many years in the isle in close touch with some of its oldest
 folk, contributes, from Edinburgh, the evidence which follows. The first
 two tales were told in the parish of Minginish a number of years ago by
 Mary Macdonald, a goat-herd, and have their setting in the region of the
-Koolian <span id="fr_35"></span>[1](#fn_34) range of mountains on the
+Koolian <span id="fr_35"></span>[1](#fn_34.md) range of mountains on the
 west side of Skye.
 
 The Fatal Peat Ember.--'An aged nurse who had fallen fast asleep as she
@@ -532,7 +532,7 @@ for a day and a year. She came regularly every day to milk the cows of
 her sorrowing husband, and sang sweetly to them while she milked, but he
 never once had the pleasure of beholding her, though he could hear
 perfectly what she sang. At the expiry of the year she was, to his great
-joy, restored to him."' <span id="fr_36"></span>[1](#fn_35)
+joy, restored to him."' <span id="fr_36"></span>[1](#fn_35.md)
 
 <span id="page_99">p. 99</span>
 
@@ -550,7 +550,7 @@ cradle, and, going out, disappeared across the moorlands.
 was the nurse of the heir must sing those verses as the fairy woman had
 sung them. After a time the song was forgotten, but at a later period it
 was partially recovered, and to-day it is one of the proud folklore
-heritages of the Macleod family.' <span id="fr_37"></span>[1](#fn_36)
+heritages of the Macleod family.' <span id="fr_37"></span>[1](#fn_36.md)
 
 Origins and Nature of the Fairy-Faith.--Finally*,* with respect to the
 origin and nature of the Scotch Fairy-Faith, Miss Tolmie states:--'As a
@@ -577,7 +577,7 @@ human bodies invisible in the same way. Besides their hollow knolls and
 mounds there seemed to be a subterranean world in which they also lived,
 where things are like what they are in this world.'
 
-### THE ISLE OF BARRA, <span id="fr_38"></span>[1](#fn_37) WESTERN HEBRIDES
+### THE ISLE OF BARRA, <span id="fr_38"></span>[1](#fn_37.md) WESTERN HEBRIDES
 
 We pass from Cuchulainn's beautiful island to what is now the most
 Celtic part of Scotland--the Western Hebrides, where the ancient life is
@@ -758,12 +758,12 @@ that the throne was fast emptying, and when Christ saw the state of
 affairs he ordered the doors of Heaven to be closed at once, saying as
 he gave the order, "Who is out is out and who is in is in." And the
 fairies are as numerous flow as ever they were before the beginning of
-the world.' (Cf. pp. [47](ffcc121.htm#page_47),
-[53](ffcc121.htm#page_53), [67](ffcc121.htm#page_67),
-[76](ffcc121.htm#page_76), [85](#page_85), [109](#page_109),
-[113](#page_113), [116](#page_116), [129](ffcc123.htm#page_129),
-[154](ffcc124.htm#page_154), [205](ffcc126.htm#page_205),
-[212](ffcc126.htm#page_212).)
+the world.' (Cf. pp. [47](ffcc121.htm#page_47.md),
+[53](ffcc121.htm#page_53), [67](ffcc121.htm#page_67.md),
+[76](ffcc121.htm#page_76), [85](#page_85), [109](#page_109.md),
+[113](#page_113), [116](#page_116), [129](ffcc123.htm#page_129.md),
+[154](ffcc124.htm#page_154), [205](ffcc126.htm#page_205.md),
+[212](ffcc126.htm#page_212)..md)
 
 Here we left John, and he, continuing on his way up the mountain road in
 an Opposite direction from us and round a turn, disappeared almost as a
@@ -876,7 +876,7 @@ fairies there, not a single one would come out. Perhaps they came and we
 couldn't see them; who knows?
 
 Fairies and Fairy Hosts ('Sluagh'). <span
-id="fr_39"></span>[1](#fn_38)--'O yes,' Marian said, as she heard
+id="fr_39"></span>[1](#fn_38.md)--'O yes,' Marian said, as she heard
 Michael and myself talking over our hot milk, 'there are fairies there,
 for I was told that the Pass was a notable fairy haunt.' Then I said
 through Michael, 'Can you tell us something about what these fairies
@@ -1052,7 +1052,7 @@ When Lachlann is on the billows?
 
 'Lachlann emigrated to Cape Breton, landing in Nova Scotia; and in his
 first letter home to his friends he stated that the same fairy woman was
-haunting him there in America.' <span id="fr_40"></span>[1](#fn_39)
+haunting him there in America.' <span id="fr_40"></span>[1](#fn_39.md)
 
 Abduction of a Bridegroom.--'I have heard it from old people that a
 couple newly married, were on their way to the home of the bride's
@@ -1199,15 +1199,15 @@ with her ever evermore!'
 
 ### Footnotes
 
-<span id="fn_28"></span>[85:1](ffcc122.htm#fr_29) It was the belief of
+<span id="fn_28"></span>[85:1](ffcc122.htm#fr_29.md) It was the belief of
 the Rev. Robert Kirk, as expressed by him in his *Secret Commonwealth of
 Elves, Fauns, and Fairies,* that the fairy tribes are a distinct order
 of created beings possessing human-like intelligence and supernormal
 powers, who live and move about in this world invisible to all save men
-and women of the second-sight (see this study, pp. [89](#page_89),
-[91](#page_91) n).
+and women of the second-sight (see this study, pp. [89](#page_89.md),
+[91](#page_91) n.md).
 
-<span id="fn_29"></span>[91:1](ffcc122.htm#fr_30) The Rev. Robert Kirk,
+<span id="fn_29"></span>[91:1](ffcc122.htm#fr_30.md) The Rev. Robert Kirk,
 in his *Secret Commonwealth,* defines the second. sight, which enabled
 him to see the 'good people', as 'a rapture, transport, and sort of
 death'. He and our present witness came into the world with this
@@ -1217,14 +1217,14 @@ tiny and isolated Isle of Erisgey, Western Hebrides, acquired the
 second-sight, and was able some years before he died there (in 1905) to
 exercise it as freely as though he had been a natural-born seer.
 
-<span id="fn_30"></span>[92:1](ffcc122.htm#fr_31) In his note to *Le
+<span id="fn_30"></span>[92:1](ffcc122.htm#fr_31.md) In his note to *Le
 Chant des Trépassés* (*Barzaz Breiz*, p. 507), Villemarqué reports that
 in some localities in Lower Brittany on All Saints Night libations of
 milk are poured over the tombs of the dead. This is proof that the
 nature of fairies in Scotland and of the dead in Brittany is thought to
 be the same.
 
-<span id="fn_31"></span>[92:2](ffcc122.htm#fr_32) 'In many parts of the
+<span id="fn_31"></span>[92:2](ffcc122.htm#fr_32.md) 'In many parts of the
 Highlands, where the same deity is known, the stone into which women
 poured the libation of milk is called *Leac na* <span id="page_93">p.
 93</span> *Gruagaich,* "Flag-stone of the Gruagach." If the libation was
@@ -1232,7 +1232,7 @@ omitted in the evening, the best cow in the fold would be found dead in
 the morning.'  
 --ALEXANDER CARMICHAEL.
 
-<span id="fn_32"></span>[93:1](ffcc122.htm#fr_33) Dr. George Henderson,
+<span id="fn_32"></span>[93:1](ffcc122.htm#fr_33.md) Dr. George Henderson,
 in *The Norse Influence on Celtic Scotland* (Glasgow, 1901), p. 101,
 says:--'*Shony* was a sea-god in Lewis, where ale was sacrificed to him
 at Hallowtide. After coming to the church of St. Mulvay at night a man
@@ -1247,24 +1247,24 @@ at all events, they have assimilated him to their own fairy pantheon, as
 we can see in their celebrating special libations to him on the ancient
 Celtic feast of the dead and fairies, Halloween.
 
-<span id="fn_33"></span>[94:1](ffcc122.htm#fr_34) This, as Dr.
+<span id="fn_33"></span>[94:1](ffcc122.htm#fr_34.md) This, as Dr.
 Carmichael told me, I believe very justly represents the present state
 of folk-lore in many parts of the Highlands. There are, it is true, old
 men and women here and there who know much about fairies, but they,
 fearing the ridicule of a younger and 'educated' generation, are
 generally unwilling to admit any belief in fairies.
 
-<span id="fn_34"></span>[96:1](ffcc122.htm#fr_35) The following note by
+<span id="fn_34"></span>[96:1](ffcc122.htm#fr_35.md) The following note by
 Miss Tolmie is of great interest and value, especially when one bears in
 mind Cuchulainn's traditional relation with Skye (see [p.
-4](ffcc110.htm#page_4)):--The Koolian range should never be written
+4](ffcc110.htm#page_4).md):--The Koolian range should never be written
 *Cu-chullin*. The name is written here with a K, to ensure its being
 correctly uttered and written. It is probably a Norse word; but, as yet,
 a satisfactory explanation of its origin and meaning has not been
 published. In Gaelic the range is always alluded to (in the masculine
 singular) as the Koolian.
 
-<span id="fn_35"></span>[98:1](ffcc122.htm#fr_36) Dr. Alexander
+<span id="fn_35"></span>[98:1](ffcc122.htm#fr_36.md) Dr. Alexander
 Carmichael found that the scene of this widespread tale is variously
 laid, in Argyll, in Perth, in Inverness, and in other counties of the
 Highlands. From his own collection of folk-songs he contributes the
@@ -1290,12 +1290,12 @@ bowers were open ', Colin by placing a steel tinder above the lintel of
 the door to the fairy bower was enabled to enter the bower and in safety
 lead forth his wife and child.
 
-<span id="fn_36"></span>[99:1](ffcc122.htm#fr_37) In this beautiful
+<span id="fn_36"></span>[99:1](ffcc122.htm#fr_37.md) In this beautiful
 fairy legend we recognize the fairy woman as one of the Tuatha De
 Danann-like fairies--one of the women of the *Sidhe,* as Irish seers
 call them.
 
-<span id="fn_37"></span>[100:1](ffcc122.htm#fr_38) It is interesting to
+<span id="fn_37"></span>[100:1](ffcc122.htm#fr_38.md) It is interesting to
 know that the present inhabitants of Barra, or at least most of them,
 are the descendants of Irish colonists who belonged to the clan Eoichidh
 of County Cork, and who emigrated from there to Barra in A. D. 917. They
@@ -1317,7 +1317,7 @@ the island, and hence its name. (To my friend, Mr. Michael Buchanan, of
 Barra, I am indebted for this history and these traditions of his native
 isle.)
 
-<span id="fn_38"></span>[108:1](ffcc122.htm#fr_39) '*Sluagh*, "hosts,"
+<span id="fn_38"></span>[108:1](ffcc122.htm#fr_39.md) '*Sluagh*, "hosts,"
 the spirit-world. The "hosts" are the spirits of mortals who have died.
 . . . According to one informant, the spirits fly about in great clouds,
 up and down the face of the world like the starlings, and come back to
@@ -1326,7 +1326,7 @@ the clouds of earth, dimming the brightness of the works of God, nor can
 any win heaven till satisfaction is made for the sins of
 earth.'--ALEXANDER CARMICHAEL, *Carmina Gadelica*, ii. 330.
 
-<span id="fn_39"></span>[113:1](ffcc122.htm#fr_40) This curious tale
+<span id="fn_39"></span>[113:1](ffcc122.htm#fr_40.md) This curious tale
 suggests that certain of the fairy women who entice mortals to their
 love in modern times are much the same, if not the same, as the
 *succubi* of Middle-Age mystics. But it is not intended by this
@@ -1339,4 +1339,4 @@ blood, whatever various readers may think of her.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Taking of Evidence: IV. In the Isle of Man](ffcc123)
+[Next: Chapter II. Taking of Evidence: IV. In the Isle of Man](ffcc123.md)

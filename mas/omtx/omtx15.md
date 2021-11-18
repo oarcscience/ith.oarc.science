@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx14)  [Next](omtx16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx14)  [Next](omtx16.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ Grand Marshal and Grand Deacons keep near him.
 
 ------------------------------------------------------------------------
 
-[Next: Index](omtx16)
+[Next: Index](omtx16.md)

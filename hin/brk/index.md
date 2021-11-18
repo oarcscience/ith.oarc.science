@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](brk00)    [Page
-Index](pageidx)    [Text \[Zipped\]](brk.txt.gz)
+[Contents](#contents)    [Start Reading](brk00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](brk.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Index](pageidx)    [Text \[Zipped\]](brk.txt.gz)
 |---------------------------------------------------------------------------------------------------------------------------|
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
-This book, part of the [Wisdom of the East](../../woe/index) series, is
+This book, part of the [Wisdom of the East](../../woe/index.md) series, is
 a short exposition of the Vedanta philosophy. The 'Brahma' of the title
 is not the Hindu god Brahmā, but the abstract, primordial spirit of
 creation. Barnett draws from the Upanishads, the writings of Shankara,
@@ -43,63 +43,63 @@ philosophers, particularly Parmenides.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](brk00)  
-[Table of Contents](brk01)  
-[Editorial Note](brk02)  
-[Introduction](brk03)  
+<span id="contents"></span> [Title Page](brk00.md)  
+[Table of Contents](brk01.md)  
+[Editorial Note](brk02.md)  
+[Introduction](brk03.md)  
 <span id="section_000"></span>
 
 ### Part I
 
-[Vedanta, The Vedas' End](brk04)  
-[The Four Vedas](brk05)  
-[The Upanishads](brk06)  
-[Foundations of Upanishadic Ideas](brk07)  
-[Brahma and Prana](brk08)  
-[Doctrine of Transmigration and Works](brk09)  
-[Atma, Self or Spirit](brk10)  
-[Upanishadic Principals](brk11)  
-[Origin of the Universe from Brahma](brk12)  
-[Brahma is Absolute Being](brk13)  
-[Brahma is Thought](brk14)  
-[Brahma is Atma](brk15)  
-[Brahma is Incogitable](brk16)  
-[Parmenides](brk17)  
-[Phases of the Self](brk18)  
-[Maya](brk19)  
-[Relation of Universal to Individual Soul](brk20)  
-[Organism of Soul](brk21)  
-[The Subtle Body](brk22)  
-[Karma](brk23)  
-[Freedom of Will](brk24)  
-[God](brk25)  
-[Brahma the Destroyer](brk26)  
-[Salvation](brk27)  
-[The After Life](brk28)  
+[Vedanta, The Vedas' End](brk04.md)  
+[The Four Vedas](brk05.md)  
+[The Upanishads](brk06.md)  
+[Foundations of Upanishadic Ideas](brk07.md)  
+[Brahma and Prana](brk08.md)  
+[Doctrine of Transmigration and Works](brk09.md)  
+[Atma, Self or Spirit](brk10.md)  
+[Upanishadic Principals](brk11.md)  
+[Origin of the Universe from Brahma](brk12.md)  
+[Brahma is Absolute Being](brk13.md)  
+[Brahma is Thought](brk14.md)  
+[Brahma is Atma](brk15.md)  
+[Brahma is Incogitable](brk16.md)  
+[Parmenides](brk17.md)  
+[Phases of the Self](brk18.md)  
+[Maya](brk19.md)  
+[Relation of Universal to Individual Soul](brk20.md)  
+[Organism of Soul](brk21.md)  
+[The Subtle Body](brk22.md)  
+[Karma](brk23.md)  
+[Freedom of Will](brk24.md)  
+[God](brk25.md)  
+[Brahma the Destroyer](brk26.md)  
+[Salvation](brk27.md)  
+[The After Life](brk28.md)  
 <span id="section_001"></span>
 
 ### Part II. Some Texts of the Vendanta
 
-[I. Creation](brk29)  
-[II: Who am I?](brk30)  
-[III: The World Within](brk31)  
-[IV: The Infinite I](brk32)  
-[V: Know Thy Self](brk33)  
-[VI: Parables](brk34)  
-[VII: The Soul in Sleep](brk35)  
-[VII: Gargi and Yajnavalkya](brk36)  
-[IX: The Everlasting Nay](brk37)  
-[X: The Spirit Within](brk38)  
-[XI: The Wisdom of Raikva](brk39)  
-[XII: Satyakama](brk40)  
-[XIII: Light and Darkness](brk41)  
-[XIV: The False and the True](brk42)  
-[XV: Gloria in Excelsis](brk43)  
-[XVI: The Advaita-Makaranda of Lakshmidara](brk44)  
+[I. Creation](brk29.md)  
+[II: Who am I?](brk30.md)  
+[III: The World Within](brk31.md)  
+[IV: The Infinite I](brk32.md)  
+[V: Know Thy Self](brk33.md)  
+[VI: Parables](brk34.md)  
+[VII: The Soul in Sleep](brk35.md)  
+[VII: Gargi and Yajnavalkya](brk36.md)  
+[IX: The Everlasting Nay](brk37.md)  
+[X: The Spirit Within](brk38.md)  
+[XI: The Wisdom of Raikva](brk39.md)  
+[XII: Satyakama](brk40.md)  
+[XIII: Light and Darkness](brk41.md)  
+[XIV: The False and the True](brk42.md)  
+[XV: Gloria in Excelsis](brk43.md)  
+[XVI: The Advaita-Makaranda of Lakshmidara](brk44.md)  
 
  
 
-[Appendix I: The Sambandhas](brk45)  
-[Appendix II: List of the Chief Upanishads](brk46)  
-[Bibliography](brk47)  
-[Advertisements](brk48)  
+[Appendix I: The Sambandhas](brk45.md)  
+[Appendix II: List of the Chief Upanishads](brk46.md)  
+[Bibliography](brk47.md)  
+[Advertisements](brk48.md)  

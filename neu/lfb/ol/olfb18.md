@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb17)  [Next](olfb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb17)  [Next](olfb19.md) 
 
 </div>
 
@@ -254,6 +254,6 @@ has fled away.
 
 ------------------------------------------------------------------------
 
-[Next: The Satin Surgeon](olfb19)
+[Next: The Satin Surgeon](olfb19.md)
 
 </div>

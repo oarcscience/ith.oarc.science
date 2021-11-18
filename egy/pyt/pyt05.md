@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt04)  [Next](pyt06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt04)  [Next](pyt06.md) 
 
 ------------------------------------------------------------------------
 
@@ -1818,4 +1818,4 @@ Osiris.
 
 ------------------------------------------------------------------------
 
-[Next: 3. A Group of Prayers And Charms, Utterances 204-212](pyt06)
+[Next: 3. A Group of Prayers And Charms, Utterances 204-212](pyt06.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf18)  [Next](tsf20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf18)  [Next](tsf20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -120,9 +120,9 @@ consequence, a reversal to type, a return to the primitive state of
 sexuality in faith—sex, free, open, unashamed, and boundless, for the
 joy of man and the exaltation of his god.
 
-<span id="img_32900"></span> ![A Gnostic gem](img/32900.jpg)  
+<span id="img_32900"></span> ![A Gnostic gem](img/32900.jpg.md)  
 A Gnostic gem
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Revolt Against Religion](tsf20)
+[Next: Chapter III. The Revolt Against Religion](tsf20.md)

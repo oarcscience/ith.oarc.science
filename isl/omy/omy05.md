@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy04)  [Next](omy06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy04)  [Next](omy06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -58,7 +58,7 @@ be known. Existence was made for man, and man for the knowledge of God.
 To the same purport is the answer given to David, "David enquired and
 said, Oh Lord! why hast thou created mankind? God said, I am a hidden
 treasure, and I would fain become known <span
-id="fr_2"></span>[1](#fn_2)." The business of the Traveller then is to
+id="fr_2"></span>[1](#fn_2.md)." The business of the Traveller then is to
 exert himself and strive to attain to the Divine light, and so to the
 knowledge of God; and this is to be achieved by associating with the
 wise. The received notion of the "stages" in the "road," involves <span
@@ -126,9 +126,9 @@ philosophers even assert that it has no end.
 
 ### Footnotes
 
-<span id="fn_2"></span>[5:1](omy05.htm#fr_2) Cf. Sale's Corán,
+<span id="fn_2"></span>[5:1](omy05.htm#fr_2.md) Cf. Sale's Corán,
 Preliminary Discourse, p. 97.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Of Law, Doctrine and Truth](omy06)
+[Next: Chapter II. Of Law, Doctrine and Truth](omy06.md)

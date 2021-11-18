@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca12)  [Next](fsca14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca12)  [Next](fsca14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -86,7 +86,7 @@ Alexandria. "Few patron saints," says Theodore A. Buckley, "enjoy a
 greater popularity, whether socially or locally exemplified. His lion
 was emblazoned on the standard of the Republic, and stamped on the
 current coins, while his name was identified with the pride, the power,
-and glory of all Venice." <span id="fr_4"></span>[\*](#fn_4)
+and glory of all Venice." <span id="fr_4"></span>[\*](#fn_4.md)
 
 Emblems of the evangelists do not often appear in heraldry.
 
@@ -102,15 +102,15 @@ viz., *a cross between the emblems of the four evangelists, and for
 supporters two cherubims, all proper*.
 
 <span id="img_05600"></span> ![The Lion of St. Mark,
-Venice.](img/05600.jpg)
+Venice.](img/05600.jpg.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_4"></span>[55:\*](fsca13.htm#fr_4) "Great Cities of the
+<span id="fn_4"></span>[55:\*](fsca13.htm#fr_4.md) "Great Cities of the
 Middle Ages."
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon](fsca14)
+[Next: The Dragon](fsca14.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca05)  [Next](ntca07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca05)  [Next](ntca07.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,11 +97,11 @@ cicada), Matla (dingo), Waragutie (emu), Kalathura (wild turkey), Guti
 (black swan); whilst amongst the Kirarawa are such totems as Kurara
 (cloud), Wabma (carpet snake), Kapirie (lace lizard), Urantha (pelican),
 Kutnichilie (water-hen), Wakala (crow). <span
-id="fr_60"></span>[1](#fn_60)
+id="fr_60"></span>[1](#fn_60.md)
 
 Now not only must a Matthurie man take as wife a Kirarawa woman, but he
 must only take one of some particular totem. <span
-id="fr_61"></span>[2](#fn_61) Thus a wild duck Matthurie man marries a
+id="fr_61"></span>[2](#fn_61.md) Thus a wild duck Matthurie man marries a
 snake Kirarawa woman, a cicada marries a crow, a dingo a water-hen, an
 emu a rat, a wild turkey a cloud, and a swan a pelican. Every child,
 male or female, of a wild duck Matthurie man belongs to the class
@@ -123,7 +123,7 @@ for perhaps
 
 between 200 and 300. We find also essentially the same system in tribes
 inhabiting other parts of Australia, such as the Turribul, living on the
-Maryborough river in Queensland. <span id="fr_62"></span>[1](#fn_62)
+Maryborough river in Queensland. <span id="fr_62"></span>[1](#fn_62.md)
 Without entering here into details, which will be fully explained
 subsequently, we may say that, so far as the class is concerned, descent
 is counted in the male line. The totem names are, however, at first
@@ -235,7 +235,7 @@ and developed, without the stimulus derived from contact with outside
 <span id="page_118">p. 118</span> peoples, along various lines, each
 group retaining features in its customs and organisation such as can
 only be explained by supposing them all to have had a common
-ancestry. <span id="fr_63"></span>[1](#fn_63)
+ancestry. <span id="fr_63"></span>[1](#fn_63.md)
 
 However, to return to the totems of the Arunta. It was while watching
 and questioning closely the natives during the performance of the
@@ -255,7 +255,7 @@ were performed under the direction of the old men, who instructed the
 younger men both how to perform them and what they represented.
 
 The native name for these ceremonies is Quabara, <span
-id="fr_64"></span>[2](#fn_64) and each one is known as a Quabara of a
+id="fr_64"></span>[2](#fn_64.md) and each one is known as a Quabara of a
 certain totem associated with a particular spot. Thus we have, for
 example, the Quabara Unjiamba of Ooraminna, which means a ceremony of
 the Unjiamba or Hakea flower totem of a place called Ooraminna; the
@@ -314,7 +314,7 @@ wild cat men.
 Whilst every now and then we come across traditions, according to which,
 as in the case of the Achilpa, the totem is common to all classes, we
 always find that in each totem one moiety <span
-id="fr_65"></span>[1](#fn_65) of the tribe predominates, and that,
+id="fr_65"></span>[1](#fn_65.md) of the tribe predominates, and that,
 according to tradition, many of the groups of ancestral individuals
 consisted originally of men or women or of both men and women who all
 belonged to one moiety. Thus in the case of certain Okira or kangaroo
@@ -361,7 +361,7 @@ the members of which are regarded as their descendants, or, to speak
 more precisely, as their reincarnations. We will take as examples the
 following totems—Achilpa or wild cat, Unjiamba or Hakea flower,
 Unchichera or frog, and Udnirringita or witchetty grub. <span
-id="fr_66"></span>[1](#fn_66)
+id="fr_66"></span>[1](#fn_66.md)
 
 In the Alcheringa there appear to have been four companies of wild cat
 men and women who, tradition says, appeared first in the southern part
@@ -393,7 +393,7 @@ The principal traditions with regard to the Unjiamba or Hakea flower
 totem refer to the wanderings of certain women. In one account, two
 women of this totem are described as coming from a place about 35 miles
 to the north of Alice Springs, where they had a sacred pole or
-*Nurtunja*. <span id="fr_67"></span>[1](#fn_67) Starting southwards,
+*Nurtunja*. <span id="fr_67"></span>[1](#fn_67.md) Starting southwards,
 they travelled first of all underground, and came out at a place called
 Arapera. Here they spent their time eating Unjiamba. Then leaving here
 they took their sacred pole or *Nurtunja* to pieces and travelled
@@ -420,7 +420,7 @@ the same totem, who marched over the country to the Gap.
 
 Each of these Alcheringa ancestors is represented as carrying about with
 him, or her, one or more of the sacred stones, which are called by the
-Arunta natives Churinga, <span id="fr_68"></span>[1](#fn_68) and each of
+Arunta natives Churinga, <span id="fr_68"></span>[1](#fn_68.md) and each of
 these Churinga is intimately associated with the idea of the spirit part
 of some individual. Either where they originated and stayed, as in the
 case of certain of the witchetty grub people, or else where, during
@@ -452,7 +452,7 @@ As we have said, the exact spot at which a Churinga was
 deposited was always marked by some natural object, such as a tree or
 rock, and in this the spirit is supposed to especially take up its
 abode, and it is called the spirit's *Nanja*. <span
-id="fr_69"></span>[1](#fn_69)
+id="fr_69"></span>[1](#fn_69.md)
 
 We may take the following as a typical example of how each man and woman
 gains a totem name. Close to Alice Springs is a large and important
@@ -492,7 +492,7 @@ term for relationship which includes that of mother. Not being anxious
 to have a child, she ran away as fast as she could, but to no purpose;
 she was fat and well favoured, and such women the spirit children
 prefer; one of them had gone inside her, and of course it was born a
-witchetty grub. <span id="fr_70"></span>[1](#fn_70)
+witchetty grub. <span id="fr_70"></span>[1](#fn_70.md)
 
 The natives are quite clear upon this point. The spirit children are
 supposed to have a strong predilection for fat women, and prefer to
@@ -596,20 +596,20 @@ name of which he bears.
 
 ### Footnotes
 
-<span id="fn_60"></span>[114:1](ntca06.htm#fr_60) The organisation of
+<span id="fn_60"></span>[114:1](ntca06.htm#fr_60.md) The organisation of
 the Dieri tribe, as well as its marriage customs, have been described by
 Mr. Howitt in his monograph “On the Organisation of Australian Tribes,”
 *Trans. R. S. Vict.*, vol. i., pt. 2, 1889., p. 124, which may be
 regarded as embodying generally our knowledge of the organisation of
 Australian tribes up to the present day.
 
-<span id="fn_61"></span>[114:2](ntca06.htm#fr_61) See in connection with
+<span id="fn_61"></span>[114:2](ntca06.htm#fr_61.md) See in connection with
 this the footnote on p. 60.
 
-<span id="fn_62"></span>[115:1](ntca06.htm#fr_62) Howitt. *op. cit*. p.
+<span id="fn_62"></span>[115:1](ntca06.htm#fr_62.md) Howitt. *op. cit*. p.
 102.
 
-<span id="fn_63"></span>[118:1](ntca06.htm#fr_63) The evidence in favour
+<span id="fn_63"></span>[118:1](ntca06.htm#fr_63.md) The evidence in favour
 of this is strikingly shown in regard to the details of the ceremonies
 concerned with the knocking out of teeth. In some parts of the continent
 this is retained as the important initiation rite, while in other parts
@@ -618,7 +618,7 @@ important details shows the common origin of the custom. Further
 evidence in regard to this will be dealt with in connection with the
 account of the ceremonies attendant on the knocking out of teeth.
 
-<span id="fn_64"></span>[118:2](ntca06.htm#fr_64) This is not a
+<span id="fn_64"></span>[118:2](ntca06.htm#fr_64.md) This is not a
 corruption of the word corrobboree, which is a term used only,
 originally, by a tribe of the eastern coast, but now generally by whites
 to describe the ordinary dancing ceremonies, which are entirely
@@ -627,31 +627,31 @@ word Quabara belongs to the Arunta tongue. Corrobboree is a word which
 in many parts has been adopted by the natives after hearing the white
 men use it.
 
-<span id="fn_65"></span>[120:1](ntca06.htm#fr_65) As stated in
+<span id="fn_65"></span>[120:1](ntca06.htm#fr_65.md) As stated in
 connection with the description of the organisation of the tribe, the
 latter can be divided into two moieties, one comprising the Panunga and
 Bulthara, and the other the Purula and Kumara, or the equivalents of
 these.
 
-<span id="fn_66"></span>[121:1](ntca06.htm#fr_66) A detailed account of
+<span id="fn_66"></span>[121:1](ntca06.htm#fr_66.md) A detailed account of
 the wanderings of these ancestral groups is given in Chapters X. and XI.
 
-<span id="fn_67"></span>[122:1](ntca06.htm#fr_67) Various forms of
+<span id="fn_67"></span>[122:1](ntca06.htm#fr_67.md) Various forms of
 *Nurtunja* will be described in the account of the Engwura ceremony.
 Each consists of a central support, made most often of one or more
 spears and wound round with human hair string, which is then decorated
 with down.
 
-<span id="fn_68"></span>[123:1](ntca06.htm#fr_68) This Churinga is the
+<span id="fn_68"></span>[123:1](ntca06.htm#fr_68.md) This Churinga is the
 equivalent of the bull-roarer or whirler of other authors. It has such a
 special significance amongst these tribes that we shall use the local
 name.
 
-<span id="fn_69"></span>[124:1](ntca06.htm#fr_69) Further details with
+<span id="fn_69"></span>[124:1](ntca06.htm#fr_69.md) Further details with
 regard to this, and the relationship of the spirit to the *Nanja*, are
 given in Chapter XV.
 
-<span id="fn_70"></span>[125:1](ntca06.htm#fr_70) Spirit children are
+<span id="fn_70"></span>[125:1](ntca06.htm#fr_70.md) Spirit children are
 also supposed to be especially fond of travelling in whirl-winds, and,
 on seeing one of these, which are very frequent at certain times of the
 year, approaching her, a woman will at once run away.
@@ -659,4 +659,4 @@ year, approaching her, a woman will at once run away.
 ------------------------------------------------------------------------
 
 [Next: Chapter V. The Churinga or Bull Roarers of the Arunta and Other
-Tribes](ntca07)
+Tribes](ntca07.md)

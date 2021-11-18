@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -217,7 +217,7 @@ various cunning ways and arts; they are deceivers.
 
 <span class="margnote"><span id="366.">366.</span></span>
 
-\[358\] FAITH.  <span id="fr_46"></span>[366-1](#fn_46) The Lord from
+\[358\] FAITH.  <span id="fr_46"></span>[366-1](#fn_46.md) The Lord from
 eternity, who is Jehovah, came into the world that He might effect the
 Last Judgment and at the same time glorify His Human, and without this
 no mortal could have been saved; and they are saved who believe in Him
@@ -419,7 +419,7 @@ religion in their life \[n. 250\].
 
 ### Footnotes
 
-<span id="fn_46"></span>[366-1](ljp08.htm#fr_46) Following n. 326 in
+<span id="fn_46"></span>[366-1](ljp08.htm#fr_46.md) Following n. 326 in
 Tafel's Latin text is a paragraph "On the Spiritual Sense;" this and
 numbers following 339, 347, and 355 properly belong to The Word of the
 Lord from Experience, where they will be found in this volume. Nos.

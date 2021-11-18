@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl10)  [Next](irl12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl10)  [Next](irl12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -35,7 +35,7 @@ beaming triumphantly, and her aura was pulsing madly. She went
 immediately into the tech laboratory of the ship and ordered two of the
 hideous abandondero brought in for examination.
 
-They were placed in a telaug <span id="fr_30"></span>[31](#fn_30) and
+They were placed in a telaug <span id="fr_30"></span>[31](#fn_30.md) and
 examined exhaustively for details of the lost caverns’ entrances and
 exits and the location of the renegade Elder's power plants. Also we got
 a more or less clear history of what had been happening on Mu for many
@@ -241,7 +241,7 @@ tormenting Atlans all their life, and
 <span id="page_96">p. 96</span>
 
 eating them too. Yet the news systems had managed to
-[ignore](errata.htm#7) all such tales, partly from individual fear of
+[ignore](errata.htm#7.md) all such tales, partly from individual fear of
 consequences, and partly from a dread of being considered mad for
 harboring such suspicions. There is no cloak for corruption like the
 average citizen's supreme faith that all is well as long as the paper is
@@ -293,17 +293,17 @@ future time. These truths—in addition to a history of the great war I am
 now observing; a war which wishes to save all future men, but which
 cannot, because of those lost ones of the forest whom we will never be
 able to search out—must reach future man! <span
-id="fr_31"></span>[32](#fn_31)
+id="fr_31"></span>[32](#fn_31.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_30"></span>[90:31](irl11.htm#fr_30) Telaug—a machine which
+<span id="fn_30"></span>[90:31](irl11.htm#fr_30.md) Telaug—a machine which
 augmented and strengthened telepathic signals so that even the most
 secret thoughts could be read.—Ed.
 
-<span id="fn_31"></span>[97:32](irl11.htm#fr_31) Judging from the
+<span id="fn_31"></span>[97:32](irl11.htm#fr_31.md) Judging from the
 information recorded by Plato, as received from Solon, it would seem
 that these metal plates so often mentioned by Mutan Mion (which this
 manuscript definitely states were deposited in many places both inside
@@ -322,4 +322,4 @@ Mutan Mion labored so mightily has never been found.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Battle to the Death](irl12)
+[Next: Chapter XI. Battle to the Death](irl12.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap11) [Next](chap13)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap11) [Next](chap13.md)
 
 ------------------------------------------------------------------------
 
@@ -244,4 +244,4 @@ necessary.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: The Mixed Multitude](chap13)
+[Next: Chapter XIII: The Mixed Multitude](chap13.md)

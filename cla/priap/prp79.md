@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp78)  [Next](prp80) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp78)  [Next](prp80.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ reason of her ditch.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: 80. Although with yard distent (Priapus!) weighted](prp80)
+[Next: 80. Although with yard distent (Priapus!) weighted](prp80.md)

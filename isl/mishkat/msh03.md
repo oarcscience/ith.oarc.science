@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh02)  [Next](msh04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh02)  [Next](msh04.md) 
 
 ------------------------------------------------------------------------
 
@@ -124,4 +124,4 @@ Epilogue: the "Darkness"-Verse 154
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](msh04)
+[Next: Introduction](msh04.md)

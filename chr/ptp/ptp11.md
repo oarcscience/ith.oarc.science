@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianty](../index) 
-[Index](index)  [Previous](ptp10)  [Next](ptp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianty](../index.md) 
+[Index](index)  [Previous](ptp10)  [Next](ptp12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00295S01A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pageant of the Popes*, by John Farrow, \[1942\], at Intangible Textual
 Heritage
 
@@ -797,7 +797,7 @@ typical and blatant treachery Henry now tried to negotiate, even
 promising to deliver as a prisoner his protégé, the anti-pope, if his
 demands were met. For answer came a re-affirmation of his sentence of
 excommunication. Angrily he turned back to Rome and there solaced his
-[disappointment](errata.htm#3) by having his puppet crown him Emperor.
+[disappointment](errata.htm#3.md) by having his puppet crown him Emperor.
 But not for long was the royal criminal to enjoy the city for to avenge
 the Pope came the Norman, Robert Guiscard, with six thousand knights and
 thirty thousand foot soldiers, many of whom were Saracens. Henry fled
@@ -935,4 +935,4 @@ dead.
 
 ------------------------------------------------------------------------
 
-[Next: Twelfth Century](ptp12)
+[Next: Twelfth Century](ptp12.md)

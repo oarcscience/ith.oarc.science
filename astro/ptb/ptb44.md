@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb43)  [Next](ptb45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb43)  [Next](ptb45.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ halos, he indicates storms and winds coming from the quarter of his
 apparent situation: and, if he be also accompanied by parhelia, or by
 lurid or dark rays, similar effects are also threatened from the parts
 where those appearances may be situated. <span
-id="fr_116"></span>[1](#fn_116)
+id="fr_116"></span>[1](#fn_116.md)
 
 The Moon's course is to be carefully observed, at the third day before
 or after her conjunction with the Sun, her opposition, and her
@@ -66,15 +66,15 @@ require observation; as, if in fine weather they appear gloomy and
 
 indistinct, or thick, they thereby threaten a fall of rain; but, if
 clear and in continual vibration, they announce rough gales of
-wind <span id="fr_117"></span>[1](#fn_117).
+wind <span id="fr_117"></span>[1](#fn_117.md).
 
 Appearances occasionally visible in the sky, resembling the trains of
-comets, <span id="fr_118"></span>[2](#fn_118) usually indicate wind and
+comets, <span id="fr_118"></span>[2](#fn_118.md) usually indicate wind and
 drought; in a degree proportionate to their multitude and continuance.
 
 Appearances, resembling shooting or falling stars, when presented in one
 part only, threaten a movement of wind from that part; <span
-id="fr_119"></span>[3](#fn_119) when in various and opposite parts, they
+id="fr_119"></span>[3](#fn_119.md) when in various and opposite parts, they
 portend the approach of all kinds of tempestuous weather, together with
 thunder and lightning. Clouds resembling fleeces of wool will also
 sometimes presage tempests; and the occasional appearance of the rainbow
@@ -98,7 +98,7 @@ END OF BOOK II
 
 ### Footnotes
 
-<span id="fn_116"></span>[69:1](ptb44.htm#fr_116) Similar precepts may
+<span id="fn_116"></span>[69:1](ptb44.htm#fr_116.md) Similar precepts may
 be found finely illustrated in Virgil's 1st Georgic, *vide* I, 433 *et
 infra*:
 
@@ -115,7 +115,7 @@ See also the whole passage, beginning at 1. 424:
 "Si vero Solem ad rapidum Lunasque sequentes  
 Ordine respicies," &c.
 
-<span id="fn_117"></span>[70:1](ptb44.htm#fr_117) At this place, the
+<span id="fn_117"></span>[70:1](ptb44.htm#fr_117.md) At this place, the
 following sentence, not found in the Greek, is inserted in a Latin
 translation:
 
@@ -123,11 +123,11 @@ translation:
 Præsepe, and called the Asini, should not appear, the north wind will
 blow: but, if the southern one be invisible, the south wind."
 
-<span id="fn_118"></span>[70:2](ptb44.htm#fr_118) These coruscations
+<span id="fn_118"></span>[70:2](ptb44.htm#fr_118.md) These coruscations
 are, perhaps, similar to those now known by the name of the Aurora
 Borealis.
 
-<span id="fn_119"></span>[70:3](ptb44.htm#fr_119) Virgil again:
+<span id="fn_119"></span>[70:3](ptb44.htm#fr_119.md) Virgil again:
 
 "Sæpe etiam stellas vento impendente videbis  
 Præcipites cœlo labi."--&c.       Georg. I, l. 365.
@@ -139,4 +139,4 @@ doctrine from Aratus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Proem](ptb45)
+[Next: Chapter I. Proem](ptb45.md)

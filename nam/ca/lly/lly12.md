@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly11)  [Next](lly13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly11)  [Next](lly13.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ boulders of every conceivable
 <span id="img_03700"></span> [![THE THREE BROTHERS (OR
 WAW-HAW-KEE).&lt;BR&gt; &lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;](tn/03700.jpg)  
-Click to enlarge](img/03700.jpg)  
+Click to enlarge](img/03700.jpg.md)  
 THE THREE BROTHERS (OR WAW-HAW-KEE).  
 *Photo A. C. Pillsbury*  
 
@@ -39,4 +39,4 @@ withstood.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Brothers](lly13)
+[Next: The Three Brothers](lly13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx01)  [Next](ppx03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx01)  [Next](ppx03.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ August 5, 1853
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ppx03)
+[Next: Introduction](ppx03.md)

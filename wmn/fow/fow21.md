@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow20)  [Next](fow22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow20)  [Next](fow22.md) 
 
 ------------------------------------------------------------------------
 
@@ -207,4 +207,4 @@ but one husband."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: Woman's Curiosity](fow22)
+[Next: Chapter XX: Woman's Curiosity](fow22.md)

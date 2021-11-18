@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr30)  [Next](corr32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr30)  [Next](corr32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -191,7 +191,7 @@ are but as instruments in the hand of the workman, serving
 unconsciously, and perishing in the using; the good, on the other hand,
 serve consciously, and in serving become more perfect.
 
- <span id="fr_50"></span>[1](#fn_49)This, Sir, is all I can now
+ <span id="fr_50"></span>[1](#fn_49.md)This, Sir, is all I can now
 contribute to answering your question, and I have no higher wish than
 that it may satisfy you. But in case you still find any difficulty, I
 beg you to let me know of that also, to see if I may be able to remove
@@ -211,7 +211,7 @@ Jan. 5, 1665.
 
 ### Footnotes
 
-<span id="fn_49"></span>[335:1](corr31.htm#fr_50) The last paragraph
+<span id="fn_49"></span>[335:1](corr31.htm#fr_50.md) The last paragraph
 (not found in the Latin version) is reprinted by kind permission from
 Mr. Pollock's translation from the Dutch original, Pollock's "Spinoza,"
 Appendix C. On page 332 a misprint of "perfectioribus" for
@@ -219,4 +219,4 @@ Appendix C. On page 332 a misprint of "perfectioribus" for
 
 ------------------------------------------------------------------------
 
-[Next: Letter XXXII. From Blyenbergh](corr32)
+[Next: Letter XXXII. From Blyenbergh](corr32.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl037)  [Next](cohl039) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl037)  [Next](cohl039.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 "'Now some men have much work and invite all their friends to come and
 aid them and they do so. Now this is a good plan and the Creator
 designed it. He ordained that men should help one another <span
-id="fr_32"></span>[1](#fn_32) (a:danidä'oshä\`).'"
+id="fr_32"></span>[1](#fn_32) (a:danidä'oshä\`.md).'"
 
 So they said and he said. Eniaiehuk.
 
@@ -21,9 +21,9 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_32"></span>[39:1](cohl038.htm#fr_32) The bee is a very
+<span id="fn_32"></span>[39:1](cohl038.htm#fr_32.md) The bee is a very
 popular institution among the Iroquois. See Museum Bulletin 144, p. 31.
 
 ------------------------------------------------------------------------
 
-[Next: Section 28](cohl039)
+[Next: Section 28](cohl039.md)

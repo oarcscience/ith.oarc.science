@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](bep02)  [Next](bep04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](bep02)  [Next](bep04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Enoch the Prophet*, tr. by Richard Laurence, \[1883\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ angels; and here they are kept for ever.
 
 <span class="margnote"><span id="an_XXII">XXII</span></span>
 
-### CHAP. XXII. \[SECT. V. <span id="fr_66"></span>[1](#fn_65)\]
+### CHAP. XXII. \[SECT. V. <span id="fr_66"></span>[1](#fn_65.md)\]
 
 1\. From thence I proceeded to another spot, where I saw on the west a
 great and lofty mountain, a strong rock, and four delightful places.
@@ -77,7 +77,7 @@ occupy until the day of judgment, and until their appointed period.
 5\. Their appointed period will be long, even until the great judgment.
 And I saw the spirits of the sons of men who were dead; and their voices
 reached to heaven, while they were accusing. <span
-id="fr_67"></span>[1](#fn_66)
+id="fr_67"></span>[1](#fn_66.md)
 
 6\. Then I inquired of Raphael, an angel who was with me, and said,
 Whose spirit is that, the voice of which reaches *to heaven*, and
@@ -85,7 +85,7 @@ accuses?
 
 7\. He answered, saying, This is the spirit of Abel, who was slain by
 Cain his brother; and who will accuse that brother, <span
-id="fr_68"></span>[2](#fn_67) until his seed be destroyed from the face
+id="fr_68"></span>[2](#fn_67.md) until his seed be destroyed from the face
 of the earth;
 
 8\. Until his seed perish from the seed of the human race.
@@ -114,7 +114,7 @@ complaints, and of those who watch for their destruction, to slaughter
 them in the day of sinners.
 
 14\. A receptacle of this sort has been formed <span
-id="fr_69"></span>[1](#fn_68) for the souls of unrighteous men, and of
+id="fr_69"></span>[1](#fn_68.md) for the souls of unrighteous men, and of
 sinners; of those who have completed crime, and associated with the
 impious, whom they resemble. Their souls shall not be annihilated in the
 day of judgment, neither shall they arise from this place. Then I
@@ -189,7 +189,7 @@ which shall sit the holy and great Lord of glory, the everlasting King,
 when he shall come and descend to visit the earth with goodness.
 
 9\. And that tree of an agreeable smell, not one of carnal
-*odour*, <span id="fr_70"></span>[1](#fn_69) there shall be no power to
+*odour*, <span id="fr_70"></span>[1](#fn_69.md) there shall be no power to
 touch, until the period of the great judgment. When all shall be
 punished and consumed for ever, this shall be bestowed on the righteous
 and humble. The fruit
@@ -279,7 +279,7 @@ that mountain *which* I had approached.
 
 2\. There I beheld choice trees, particularly *those which produce* the
 sweet-smelling drugs, frankincense and myrrh; <span
-id="fr_71"></span>[1](#fn_70) and trees unlike to each other.
+id="fr_71"></span>[1](#fn_70.md) and trees unlike to each other.
 
 3\. And over it, above them, was the elevation of the eastern mountain
 at no great distance.
@@ -330,7 +330,7 @@ beheld, among other trees, some which were numerous and large, and which
 flourished there.
 
 3\. Their fragrance was agreeable and powerful, <span
-id="fr_72"></span>[1](#fn_71) and their appearance both varied and
+id="fr_72"></span>[1](#fn_71.md) and their appearance both varied and
 elegant. The tree of knowledge also was there, of which if any one eats,
 he becomes endowed with great wisdom.
 
@@ -423,7 +423,7 @@ the great labour of his hands; and bless him for ever.
 
 <span class="margnote"><span id="an_XXXVII">XXXVII</span></span>
 
-### CHAP. XXXVII. <span id="fr_73"></span>[1](#fn_72) \[SECT. VI. <span id="fr_74"></span>[2](#fn_73)\]
+### CHAP. XXXVII. <span id="fr_73"></span>[1](#fn_72) \[SECT. VI. <span id="fr_74"></span>[2](#fn_73.md)\]
 
 1\. The vision which he saw, the second vision of wisdom, which Enoch
 saw, the son of Jared, the son of Malaleel, the son of Canan, the son of
@@ -436,9 +436,9 @@ were before *us* thought it good to speak;
 2\. And let not us, who come after, obstruct the beginning of wisdom.
 Until the present period never has there been given before the Lord of
 spirits that which I have received, wisdom according to the capacity of
-my intellect, <span id="fr_75"></span>[3](#fn_74) and according to the
+my intellect, <span id="fr_75"></span>[3](#fn_74.md) and according to the
 pleasure of the Lord of spirits; that which I have received from
-him, <span id="fr_76"></span>[4](#fn_75) a portion of life eternal.
+him, <span id="fr_76"></span>[4](#fn_75.md) a portion of life eternal.
 
 3\. And I obtained three parables, which I declared to the inhabitants
 of the world.
@@ -466,7 +466,7 @@ shall sinners be judged; and impious men shall be afflicted in the
 presence of the righteous and the elect.
 
 4\. From that period those who possess the earth shall cease to be <span
-id="fr_77"></span>[1](#fn_76) powerful and exalted. Neither shall they
+id="fr_77"></span>[1](#fn_76.md) powerful and exalted. Neither shall they
 be capable of beholding the countenances of the holy; for the light of
 the countenances of the holy, the righteous, and the elect, has been
 seen by the Lord of spirits.
@@ -503,13 +503,13 @@ before them, and mercy like dew *was scattered* over the earth. And thus
 *shall it be* with them for ever and for ever.
 
 5\. At that time my eyes beheld the dwelling <span
-id="fr_78"></span>[1](#fn_77) of the elect, of truth, faith, and
+id="fr_78"></span>[1](#fn_77.md) of the elect, of truth, faith, and
 righteousness.
 
 <span id="page_43">p. 43</span>
 
 6\. Countless shall be the number of the holy and the elect, in the
-presence of God <span id="fr_79"></span>[1](#fn_78) for ever and for
+presence of God <span id="fr_79"></span>[1](#fn_78.md) for ever and for
 ever.
 
 7\. Their residence I beheld under the wings of the Lord of spirits. All
@@ -520,18 +520,18 @@ before him,
 
 8\. There was I desirous of remaining, and my soul longed for that
 habitation. There was my antecedent inheritance; for thus had I
-prevailed <span id="fr_80"></span>[2](#fn_79) before the Lord of
+prevailed <span id="fr_80"></span>[2](#fn_79.md) before the Lord of
 spirits.
 
 9\. At that time I glorified and extolled the name of the Lord of
 spirits with blessing and with praise; for he has established it with
 blessing and with praise, according to his own good pleasure. <span
-id="fr_81"></span>[3](#fn_80)
+id="fr_81"></span>[3](#fn_80.md)
 
 10\. That place long did my eyes contemplate. I blessed and said,
 Blessed be he, blessed from the beginning for ever. In the beginning,
 before the world was created, and without end is his knowledge. <span
-id="fr_82"></span>[4](#fn_81)
+id="fr_82"></span>[4](#fn_81.md)
 
 11\. What is this world? Of every existing generation those shall bless
 thee who do not sleep *in the*
@@ -565,7 +565,7 @@ Lord of glory.
 4\. The first voice blessed the Lord of spirits for ever and for ever.
 
 5\. The second voice I heard blessing the elect One, and the elect who
-suffer <span id="fr_83"></span>[1](#fn_82) on account of the Lords of
+suffer <span id="fr_83"></span>[1](#fn_82.md) on account of the Lords of
 spirits.
 
 <span id="page_45">p. 45</span>
@@ -574,7 +574,7 @@ spirits.
 upon earth, and supplicate the name of the Lord of spirits.
 
 7\. The fourth voice I heard expelling the impious angels, <span
-id="fr_84"></span>[1](#fn_83) and prohibiting them from entering into
+id="fr_84"></span>[1](#fn_83.md) and prohibiting them from entering into
 presence of the Lord of spirits, to prefer accusations against the
 inhabitants of the earth.
 
@@ -585,7 +585,7 @@ down? He replied, The first is the merciful, the patient, the holy
 Michael.
 
 9\. The second is he who *presides* over every suffering and every
-affliction <span id="fr_85"></span>[2](#fn_84) of the sons of men, the
+affliction <span id="fr_85"></span>[2](#fn_84.md) of the sons of men, the
 holy Raphael. The third, who *presides* over all that is powerful, is
 Gabriel. And the fourth, who *presides* over repentance, and the hope of
 those who will inherit eternal life, is Phanuel. These are the four
@@ -596,55 +596,55 @@ heard.
 
 ### Footnotes
 
-<span id="fn_65"></span>[28:1](bep03.htm#fr_66) Paris MS.
+<span id="fn_65"></span>[28:1](bep03.htm#fr_66.md) Paris MS.
 
-<span id="fn_66"></span>[29:1](bep03.htm#fr_67) *blaming or reproving*.
+<span id="fn_66"></span>[29:1](bep03.htm#fr_67.md) *blaming or reproving*.
 
-<span id="fn_67"></span>[29:2](bep03.htm#fr_68) *and he will accuse
+<span id="fn_67"></span>[29:2](bep03.htm#fr_68.md) *and he will accuse
 him*.
 
-<span id="fn_68"></span>[30:1](bep03.htm#fr_69) *Thus has it been made*.
+<span id="fn_68"></span>[30:1](bep03.htm#fr_69.md) *Thus has it been made*.
 
-<span id="fn_69"></span>[32:1](bep03.htm#fr_70) *of flesh*.
+<span id="fn_69"></span>[32:1](bep03.htm#fr_70.md) *of flesh*.
 
-<span id="fn_70"></span>[35:1](bep03.htm#fr_71) *trees of judgment,
+<span id="fn_70"></span>[35:1](bep03.htm#fr_71.md) *trees of judgment,
 particularly furniture of the sweet smell of frankincense and myrrh*.
 
-<span id="fn_71"></span>[37:1](bep03.htm#fr_72) *good and great*.
+<span id="fn_71"></span>[37:1](bep03.htm#fr_72.md) *good and great*.
 
-<span id="fn_72"></span>[40:1](bep03.htm#fr_73) Chap. xxxvi. does not
+<span id="fn_72"></span>[40:1](bep03.htm#fr_73.md) Chap. xxxvi. does not
 occur in the MS.
 
-<span id="fn_73"></span>[40:2](bep03.htm#fr_74) Paris MS. and Bodleian
+<span id="fn_73"></span>[40:2](bep03.htm#fr_74.md) Paris MS. and Bodleian
 MS.
 
-<span id="fn_74"></span>[40:3](bep03.htm#fr_75) *according as I have
+<span id="fn_74"></span>[40:3](bep03.htm#fr_75.md) *according as I have
 thought*.
 
-<span id="fn_75"></span>[40:4](bep03.htm#fr_76) *which has been given to
+<span id="fn_75"></span>[40:4](bep03.htm#fr_76.md) *which has been given to
 me by him*.
 
-<span id="fn_76"></span>[41:1](bep03.htm#fr_77) *shall not be*.
+<span id="fn_76"></span>[41:1](bep03.htm#fr_77.md) *shall not be*.
 
-<span id="fn_77"></span>[42:1](bep03.htm#fr_78) *place*.
+<span id="fn_77"></span>[42:1](bep03.htm#fr_78.md) *place*.
 
-<span id="fn_78"></span>[43:1](bep03.htm#fr_79) *in his presence*.
+<span id="fn_78"></span>[43:1](bep03.htm#fr_79.md) *in his presence*.
 
-<span id="fn_79"></span>[43:2](bep03.htm#fr_80) *There was my portion
+<span id="fn_79"></span>[43:2](bep03.htm#fr_80.md) *There was my portion
 before; for thus had it been prevailed respecting me*.
 
-<span id="fn_80"></span>[43:3](bep03.htm#fr_81) *according to the will
+<span id="fn_80"></span>[43:3](bep03.htm#fr_81.md) *according to the will
 of the Lord of spirits*.
 
-<span id="fn_81"></span>[43:4](bep03.htm#fr_82) *without end he knows*.
+<span id="fn_81"></span>[43:4](bep03.htm#fr_82.md) *without end he knows*.
 
-<span id="fn_82"></span>[44:1](bep03.htm#fr_83) *are crucified* or
+<span id="fn_82"></span>[44:1](bep03.htm#fr_83.md) *are crucified* or
 *tormented*.
 
-<span id="fn_83"></span>[45:1](bep03.htm#fr_84) *the Satans*.
+<span id="fn_83"></span>[45:1](bep03.htm#fr_84.md) *the Satans*.
 
-<span id="fn_84"></span>[45:2](bep03.htm#fr_85) *wound*.
+<span id="fn_84"></span>[45:2](bep03.htm#fr_85.md) *wound*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters XLI-LX](bep04)
+[Next: Chapters XLI-LX](bep04.md)

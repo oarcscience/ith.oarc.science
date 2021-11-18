@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi017)  [Next](mtsi019) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi017)  [Next](mtsi019.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ the animals having teeth.
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Friendly Dogs](mtsi019)
+[Next: 17. The Friendly Dogs](mtsi019.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](tee16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](tee16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Evil Eye*, by Frederick Thomas Elworthy, \[1895\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 THE Australian aborigines, who seem to have considerable notions of
 astronomy, have a name for the Pleiades, which signifies a flock of
 cockatoos--an object most familiar to them. Their tradition is <span
-id="fr_722"></span>[687](#fn_722) that once upon a time they were a
+id="fr_722"></span>[687](#fn_722.md) that once upon a time they were a
 certain queen called Gneeanggar, and her six attendants, and that the
 star *crow* fell in love with the queen, but was so unsuccessful in
 gaining her affections that he determined to get possession of her by
@@ -47,7 +47,7 @@ These people have their own names for most of the heavenly bodies.
 Like the German sun, theirs also is feminine and the moon masculine. The
 larger stars are sisters of the sun and moon. The Milky Way is the big
 river. The dark space of the Milky Way is *bunyip*, <span
-id="fr_723"></span>[688](#fn_723) an animal something like a horse. When
+id="fr_723"></span>[688](#fn_723.md) an animal something like a horse. When
 the natives first saw a horse they thought it was *bunyip*, and would
 not go near it.
 
@@ -61,7 +61,7 @@ The three stars in Orion's belt are the sisters of the eagle (Sirius),
 and always follow him.
 
 These people believe in a good spirit as a gigantic man living above the
-clouds. "His voice, the thunder, <span id="fr_724"></span>[689](#fn_724)
+clouds. "His voice, the thunder, <span id="fr_724"></span>[689](#fn_724.md)
 is listened to with pleasure," as that of a friend. The bad spirit, who
 is evidently much more considered--for fear is ever stronger than love
 in the savage breast--is called "the
@@ -84,7 +84,7 @@ for ever. Friends will meet and recognise each other, but there will be
 no marrying, as the bodies will be left upon earth. The shades of the
 wicked wander miserably about the earth for one year after death,
 frightening people, and then descend to Ummekulleen, never to
-return. <span id="fr_725"></span>[690](#fn_725)
+return. <span id="fr_725"></span>[690](#fn_725.md)
 
 These really very remarkable notions are so much like our own that one
 would have expected to find these savages had lived long in contact with
@@ -115,7 +115,7 @@ For ever singing, as they shine,
 India, again, seems to have been the birthplace of this beautiful idea,
 which even in Plato's day was quite familiar, for he makes the seven
 notes proceed from a siren seated upon the several spheres, set in
-motion by the Fates. <span id="fr_726"></span>[691](#fn_726)
+motion by the Fates. <span id="fr_726"></span>[691](#fn_726.md)
 
 Another interpretation of the seven vowels is that they represent the
 ineffable name of the Creator, the mystic Jehovah, the great "I Am."
@@ -123,7 +123,7 @@ This explanation is supported by the fact that "these combinations of
 the vowels often appear purposely to include and veil from the profane
 sense the sacred triliteral ΙΑΩ."
 
-The same author tells us <span id="fr_727"></span>[692](#fn_727) that
+The same author tells us <span id="fr_727"></span>[692](#fn_727.md) that
 "talisman is but the corruption in the Arabian mouth of Ἀποτέλεσμα, the
 influence of a planet upon the native; hence astrology is called ἡ
 Ἀποτελεσματική."
@@ -159,7 +159,7 @@ shape of a grillo, a locust or cricket, to be set up on a column in the
 Agora at Athens, as a protector against the dread influence.
 
 The greater arts practised by the ancient Greeks were:-- <span
-id="fr_728"></span>[693](#fn_728)
+id="fr_728"></span>[693](#fn_728.md)
 
 1\. Necromancy (Νεκρομαντεία) the commonest of all the magic arts, by
 which answers to matters relating to this life 'were obtained from the
@@ -200,7 +200,7 @@ exactness all the alterations in the glasses, at the same time desiring,
 beseeching, and also commanding an answer, which at length the demon
 used to return by images in the glasses, which by reflection from the
 water represented what should come to pass. <span
-id="fr_729"></span>[694](#fn_729)
+id="fr_729"></span>[694](#fn_729.md)
 
 There can be no doubt that Joseph had learnt this art of divination from
 the Egyptians. It was his divining cup or bowl which was found in
@@ -248,7 +248,7 @@ the leaves in burning.
 
 8\. Coscinomancy (Κοσκινομαντεία), divination by a sieve, which,
 according to Theocritus, was used by an old woman <span
-id="fr_730"></span>[695](#fn_730) in telling silly people their
+id="fr_730"></span>[695](#fn_730.md) in telling silly people their
 fortunes.
 
 <span id="page_445">p. 445</span>
@@ -314,7 +314,7 @@ The Thessalians, particularly the women, were most celebrated among the
 Greeks as practisers of it. Besides all these, a great many other forms
 and modes of enchantment were devoutly used by the ancients. The more
 powerful incantations were firmly believed to be capable of even drawing
-the moon from her path. <span id="fr_731"></span>[696](#fn_731)
+the moon from her path. <span id="fr_731"></span>[696](#fn_731.md)
 
 The *moon*, indeed, was thought to preside over the art of pharmacy,
 while *Hecate*, who, as we have seen, was but one of the persons or
@@ -358,7 +358,7 @@ are, however, capped by Pliny, who gravely states that an entire olive
 orchard, belonging to one Vectius Marcellus, was drawn by enchantment
 across the public road, while the land on which it was placed was made
 to go back and take the place previously occupied by the olive
-orchard. <span id="fr_732"></span>[697](#fn_732)
+orchard. <span id="fr_732"></span>[697](#fn_732.md)
 
 Ovid, too, gives some very strange stories of how, by incantation, the
 stars distilled blood and the moon became of a bloody purple.
@@ -417,7 +417,7 @@ Is piercing! Correct: correct.
 <span id="page_449">p. 449</span>
 
 Besides this invocation there was the very common magic square with
-Arabic numerals making 15, as shown on [p. 402](tee15.htm#page_402). The
+Arabic numerals making 15, as shown on [p. 402](tee15.htm#page_402.md). The
 only difference is in the position of the figures, which of course makes
 no change in the result so long as 5 is kept in the centre. The same
 applies to the squared words--*tenet* must be in the centre.
@@ -426,29 +426,29 @@ applies to the squared words--*tenet* must be in the centre.
 
 ### Footnotes
 
-<span id="fn_722"></span>[438:687](tee17.htm#fr_722) James Dawson,
+<span id="fn_722"></span>[438:687](tee17.htm#fr_722.md) James Dawson,
 Australian Aborigines, Melbourne, 1881, p. 100.
 
-<span id="fn_723"></span>[439:688](tee17.htm#fr_723) Lumholtz, *Among
+<span id="fn_723"></span>[439:688](tee17.htm#fr_723.md) Lumholtz, *Among
 Cannibals*, 1889, p. 202.
 
-<span id="fn_724"></span>[439:689](tee17.htm#fr_724) Dawson, *op. cit.*
+<span id="fn_724"></span>[439:689](tee17.htm#fr_724.md) Dawson, *op. cit.*
 p. 49.
 
-<span id="fn_725"></span>[440:690](tee17.htm#fr_725) Dawson, *op. cit.*
+<span id="fn_725"></span>[440:690](tee17.htm#fr_725.md) Dawson, *op. cit.*
 p. 51. See also on this subject Tylor, *Prim. Cult.* i. 274 *et seq*.
 
-<span id="fn_726"></span>[441:691](tee17.htm#fr_726) King, *Gnostics*,
+<span id="fn_726"></span>[441:691](tee17.htm#fr_726.md) King, *Gnostics*,
 p. 93.
 
-<span id="fn_727"></span>[441:692](tee17.htm#fr_727) *Ibid*. p.115.
+<span id="fn_727"></span>[441:692](tee17.htm#fr_727.md) *Ibid*. p.115.
 
-<span id="fn_728"></span>[442:693](tee17.htm#fr_728) Fuller accounts of
+<span id="fn_728"></span>[442:693](tee17.htm#fr_728.md) Fuller accounts of
 all these, together with the details of a large number of subsidiary
 enchantments, will be found in Potter's *Archæologia Græca*, vol. i.,
 and in Pliny's *Letters* and *Natural History*.
 
-<span id="fn_729"></span>[443:694](tee17.htm#fr_729) Potter, *Archæol.
+<span id="fn_729"></span>[443:694](tee17.htm#fr_729.md) Potter, *Archæol.
 Græca*, i. 408, Copied verbatim in Robinson's *Grecian Antiquities*, p.
 271 from whom Mr. Goodwin repeats it in *Fragment of a Græco-Egyptian
 work upon Magic* Cambridge, 1852, p. 22. The modern Persians apply the
@@ -456,10 +456,10 @@ word Jain, signifying a cup, mirror, or even globe, to magical vessels
 of this kind. See R. S. Poole in Smith's *Dict. of the Bible*, S, v.
 "Magic," p. 197.
 
-<span id="fn_730"></span>[444:695](tee17.htm#fr_730) Archbishop Potter
+<span id="fn_730"></span>[444:695](tee17.htm#fr_730.md) Archbishop Potter
 makes Theocritus call the old woman a *gypsy*!
 
-<span id="fn_731"></span>[446:696](tee17.htm#fr_731) See Ovid,
+<span id="fn_731"></span>[446:696](tee17.htm#fr_731.md) See Ovid,
 *Metamorph*. vii. 207:--
 
 "Te quoque, Luna, traho";
@@ -468,7 +468,7 @@ Virgil, *Eclog*. viii. 70:--
 
 "Carmina vel cælo possunt deducere lunam.
 
-<span id="fn_732"></span>[447:697](tee17.htm#fr_732) Pliny, *Nat. Hist.*
+<span id="fn_732"></span>[447:697](tee17.htm#fr_732.md) Pliny, *Nat. Hist.*
 xvii. 38 (vol. iii. p. 527, Bohn).
 
 We are then told minutely what the boy said he saw; but from "holding
@@ -482,6 +482,6 @@ elicited by leading questions, shows that these questions are evidently
 ancient and traditional forms, while the general resemblance of the
 objects said to be seen in the ink, to the appearances mentioned in the
 papyrus, No. XLVI., described in Mr, Goodwin's paper (see [p.
-395](tee15.htm#page_395)), is quite obvious. We are thus brought to
+395](tee15.htm#page_395).md), is quite obvious. We are thus brought to
 perceive that this art as now practised in Egypt has changed but little
 in two thousand years.

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale10)  [Next](tale12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale10)  [Next](tale12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ the loss of my eye by thinking of the other misfortunes I had escaped.
 <span id="img_07100"></span>
 
 [![THE KING'S SON BEGS FOR HIS LIFE](tn/07100.jpg)  
-Click to enlarge](img/07100.jpg)  
+Click to enlarge](img/07100.jpg.md)  
 THE KING'S SON BEGS FOR HIS LIFE  
 
 After all I had gone through, and my fear of being recognised by some
@@ -241,4 +241,4 @@ was allowed to do.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Second Calendar, Son of a King](tale12)
+[Next: The Story of the Second Calendar, Son of a King](tale12.md)

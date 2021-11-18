@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi051)  [Next](mtsi053) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi051)  [Next](mtsi053.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ fooling them, and afterwards they would not let him get water there.
 ------------------------------------------------------------------------
 
 [Next: 51. Rabbit Engineers a Tug of War Between Two Tie-Snakes (Third
-Version)](mtsi053)
+Version)](mtsi053.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Micah](mic)  [Habakkuk](hab)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Micah](mic)  [Habakkuk](hab.md)
 
 ------------------------------------------------------------------------
 
@@ -9,8 +9,8 @@
 
 ------------------------------------------------------------------------
 
-[Nahum 1](nah001)  
+[Nahum 1](nah001.md)  
 
-[Nahum 2](nah002)  
+[Nahum 2](nah002.md)  
 
-[Nahum 3](nah003)  
+[Nahum 3](nah003.md)  

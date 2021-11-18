@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp77) 
-[Next](alp79) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp77.md) 
+[Next](alp79.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 <span id="page_122">p. 122</span>
 
-### PASQUA ARMENA <span id="fr_16"></span>[1](#fn_16)
+### PASQUA ARMENA <span id="fr_16"></span>[1](#fn_16.md)
 
 #### BY VITTORIA AGANOOR POMPILJ
 
@@ -39,10 +39,10 @@ del Golgota, la tua Pasqua è vicina.
 
 ### Footnotes
 
-<span id="fn_16"></span>[122:1](alp78.htm#fr_16) This and the following
+<span id="fn_16"></span>[122:1](alp78.htm#fr_16.md) This and the following
 poem are reprinted from *Nuove Liriche*, by Vittoria Aganoor Pompilj.
 Roma. Nuova Antologia.
 
 ------------------------------------------------------------------------
 
-[Next: ''Io Vidi''](alp79)
+[Next: ''Io Vidi''](alp79.md)

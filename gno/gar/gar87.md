@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar86)  [Next](gar88) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar86)  [Next](gar88.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -148,28 +148,28 @@ Hilgenfeld's *Ketzergeschichte* goes thoroughly into these sources.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-P. [3](gar04.htm#page_3).--*Aristobulus*. Valckaener's monograph *De
+P. [3](gar04.htm#page_3.md).--*Aristobulus*. Valckaener's monograph *De
 Aristobulo Judæ*o, 1806, is still the fullest and best.
 
-P. [4](gar04.htm#page_4)., vide p. [18](gar05.htm#page_18), note on
+P. [4](gar04.htm#page_4)., vide p. [18](gar05.htm#page_18.md), note on
 Enoch.  
 "Book of Adam"--*Codex Nasareus Liber Adami appellatus, syriace
 transcriptus, latineque redditus a M. Norberg*. Berlin, 1815.
 
-P. [7](gar04.htm#page_7).--Of the large literature on Ephesus it is
+P. [7](gar04.htm#page_7.md).--Of the large literature on Ephesus it is
 sufficient to refer to Guhl, *Ephesiaca*, Berl. 1843; Falkener, *Ephesus
 and the Temple of Diana*. 1862.
 
-P. [8](gar04.htm#page_8).--On traces of Gnosticism in the Gospels. C. C.
+P. [8](gar04.htm#page_8.md).--On traces of Gnosticism in the Gospels. C. C.
 Tittmann, *De vestigiis Gnosticorum in Novo Testamento frustra
 quæsitis*, Leip. 1773; translated *Contributions to Foreign Literature*.
 New York, 1827. On Pre-Christian Gnosis, Lightfoot. *Colossians*, pp. 80
 seq.
 
-P. [14](gar05.htm#page_14).--Title given above, also Köstlin's
+P. [14](gar05.htm#page_14.md).--Title given above, also Köstlin's
 monograph.
 
-P. [24](gar07.htm#page_24).--Jews in ancient world form the subject of
+P. [24](gar07.htm#page_24.md).--Jews in ancient world form the subject of
 Prof. Mayor's elaborate notes on Juvenal xiv. 96-106, running over
 twelve closely printed pages and preceded *more suo* by an elaborate
 bibliography of previous treatment. The only thing of importance since
@@ -178,13 +178,13 @@ is a paper of Heyd's *Les juifs devant l’opinion romaine* in *Rev. des
 subject of the historian Graetz's first work, *Gnosticismus und
 Judenthum*. Krotoschin, 1846.
 
-P. [29](gar08.htm#page_29).--The Zendavesta is now translated in *Sacred
+P. [29](gar08.htm#page_29.md).--The Zendavesta is now translated in *Sacred
 Books of the East*, vols. iv. xxiii. and xxxi. For literature see Tiele,
 *Outlines of the History of Religion*, § 100. Chief work, Haug, *Essays
 on the Parsis* in Trübner's Oriental Series. On Persian influences on
 Jewish angelology, Kohut, *Angelologie des Talmuds*. 1868.
 
-P. [33](gar09.htm#page_33).--Dr. Ginsburg collected in small compass the
+P. [33](gar09.htm#page_33.md).--Dr. Ginsburg collected in small compass the
 modern views on the Kabbala in his monograph *The Kabbala*. 1866. It has
 attracted little attention from Jewish scholars since that date. All
 scientific inquirers place the origin of Kabbala in the twelfth century,
@@ -202,10 +202,10 @@ and Dr. Schiller-Szinessy in *Ency. Brit*. Hamburger's
 easiest means of getting second-hand information about Talmudical
 topics.
 
-P. [40](gar10.htm#page_40).--Camillo Leonardi, *Speculum Lapidum*. Ven.
+P. [40](gar10.htm#page_40.md).--Camillo Leonardi, *Speculum Lapidum*. Ven.
 1502.
 
-P. [42](gar11.htm#page_42).--The earliest monograph dealing with the
+P. [42](gar11.htm#page_42.md).--The earliest monograph dealing with the
 relations of Gnosticism to the East is J. J. Schmidt, *Verwandschaft d.
 gnostischen Lehre mit den Religionssystemen d. Orients*. Leip. 1828. On
 Manes and Manicheism the great work is still Beausobre, *Histoire
@@ -216,20 +216,20 @@ Schriften*. Leip. 1862. Early works on Mani are given in Fabricius,
 *Bibl. græc*. t. vii. p. 310 seq., ed. Harles. See also Kessler,
 *Untersuchungen z. Genesis d. manichaisch. Religionssystem*. 1876.
 
-P. [49](gar11.htm#page_49).--For bibliography of Buddhism see Tide,
+P. [49](gar11.htm#page_49.md).--For bibliography of Buddhism see Tide,
 *Outlines* § 82. A good short account by T. Rhys Davids (S.P.C.K.). The
 best recent books are Oldenburg, *Buddha; his Life and Doctrines*, 1885;
 and H. Kern, *Der Buddhismus u. seine Geschichte in Indien*. Leipz.
 1885.
 
-P. [51](gar12.htm#page_51) *n*.--See *Buddhist Records of the Western
+P. [51](gar12.htm#page_51.md) *n*.--See *Buddhist Records of the Western
 World*, translated by S. Beal. 2 vols. 1885.
 
-P. [52](gar12.htm#page_52).--The best account of the Essenes is in the
+P. [52](gar12.htm#page_52.md).--The best account of the Essenes is in the
 appendices to Lightfoot's *Colossians*, strangely neglected by German
 inquirers as Lucius.
 
-P. [58](gar13.htm#page_58).--The special literature on Simon Magus is
+P. [58](gar13.htm#page_58.md).--The special literature on Simon Magus is
 rather large.  
 Mosheim.--*De uno Simone Mago* in his *Dissert. ad hist. eccl*. pert.
 2nd ed. vol. ii. Alton. 1767.  
@@ -243,7 +243,7 @@ W. Möller in Herzog-Plitt, 1884, t. xii. pp. 246-56.
 On the alleged statue of Simon see A. van Dale, *De statues Simonis
 Magi*. Amst. 1700; and *Corp. Ins. Lat*. vi. 1.
 
-P. [70](gar13.htm#page_70).--On Basilides besides the Disputatio in
+P. [70](gar13.htm#page_70.md).--On Basilides besides the Disputatio in
 Zacagni, *Collect. monument. veter*. see  
 Uhlhorn.--*System des Basilides*. 1855.  
 Baur in his *Theol. Jahrb*. 1856.  
@@ -252,7 +252,7 @@ Schriften* \[translated from Dutch\]. 1868.
 J. L. Jacobi.--*Ueber d. ursprungl. Basilid. System* in *Zt. f.
 Kirchengesch*. 1877; p. 493 ff.
 
-P. [82](gar15.htm#page_82).--Besides the Ophite Textbook 'Pistis Sophia'
+P. [82](gar15.htm#page_82.md).--Besides the Ophite Textbook 'Pistis Sophia'
 mentioned above, the special treatments are to be found in
 
 <span id="page_453">p. 453</span>
@@ -263,13 +263,13 @@ Lipsius.--*Ueber de ophit. System* in *Zt. f. wiss. Theol*. 1863-4.
 F. Giraud.--*Ophitæ, dissertatio historico-theologica de eorum origine
 placitis ac fati*s. Paris, 1884 \[best modern work\].
 
-P. [104](gar16.htm#page_104).--On the Egyptian Pantheon see Lipsius,
+P. [104](gar16.htm#page_104.md).--On the Egyptian Pantheon see Lipsius,
 *Der Götterkreis d. alten Aegypter*. Berlin Academy, 1851, and Tiele
 *l.c*., § 29. Their representation in art best given in Perrot-Chipiez,
 *Histoire de l’Art dans l’Antiquité--Egypte* (also English translation,
 1884). Maspero, *Archéologie égyptienne*. 1887.
 
-### PART II.--WORSHIP OF MITHRAS AND SERAPIS, pp. [115](gar17.htm#page_115) *seq*.
+### PART II.--WORSHIP OF MITHRAS AND SERAPIS, pp. [115](gar17.htm#page_115.md) *seq*.
 
 THE interesting problems that have collected about the worship of
 Mithras have been dealt with in the following special works:--
@@ -294,30 +294,30 @@ Mithræen d. grossherzogl. Alterthümsersammlung in Karlsruhe*. 1864. P.
 116.--On the Persian relations of Mithraicism see Burnouf, *Sur le
 Yaçna*.
 
-P. [117](gar17.htm#page_117).--For another etymology see G. Barzilai,
+P. [117](gar17.htm#page_117.md).--For another etymology see G. Barzilai,
 *Gli Abraxas, studeo archeologico*. Trieste, 1873.
 
-P. [119](gar17.htm#page_119).--This view of the origin of Christmas was
+P. [119](gar17.htm#page_119.md).--This view of the origin of Christmas was
 first enunciated by Wernsdorf, *De origine solemnium Natalis Christi ex
 festivitate Natalis Invicti*, Wittenb. 1757; he is followed by Jablonsky
 in his *Opuscula*, Amst. 1809, vol. iii. p. 351 seq., who argues that
 the Basilidans caused the adoption (p. 361).
 
-P. [120](gar17.htm#page_120).--The latest monograph on the Sadducees and
+P. [120](gar17.htm#page_120.md).--The latest monograph on the Sadducees and
 Pharisees is that of E. Montet, *Essai sur les origines des partis
 sadducéens et phariséens*. Paris, 1883. A full bibliography at end of
 Seiffert's article *Sadducäer* in Herzog-Plitt.
 
-P. [129](gar18.htm#page_129).--Flam. Vacca in Nordini, *Roma Antiqua*,
+P. [129](gar18.htm#page_129.md).--Flam. Vacca in Nordini, *Roma Antiqua*,
 pt. iv. 1771.
 
-P. [137](gar20.htm#page_137).--On contemporary Parsees, T. D. F. Karaka,
+P. [137](gar20.htm#page_137.md).--On contemporary Parsees, T. D. F. Karaka,
 *History of the Parsis*, 2 vols. 1885.
 
-P. [139](gar20.htm#page_139).--Caste-marks of modern Hindoos are given
+P. [139](gar20.htm#page_139.md).--Caste-marks of modern Hindoos are given
 in Sir G. Birdwood's *Industrial Arts of India*. 1880 (plate M).
 
-P. [153](gar21.htm#page_153).--On penances in general, the exhaustive
+P. [153](gar21.htm#page_153.md).--On penances in general, the exhaustive
 work of F. W. H.
 
 <span id="page_454">p. 454</span>
@@ -326,57 +326,57 @@ work of F. W. H.
 *Die Bussordnungen der abendländischen Kirche*. Halle, 1851. On those of
 the Brahmins, Sir M. Williams, *Modern India*.
 
-PP. [158](gar23.htm#page_158) seq.--See bibliog. note on p.
-[104](gar16.htm#page_104).
+PP. [158](gar23.htm#page_158.md) seq.--See bibliog. note on p.
+[104](gar16.htm#page_104.md).
 
-P. [174](gar25.htm#page_174).--The mitre is unknown in the Eastern
+P. [174](gar25.htm#page_174.md).--The mitre is unknown in the Eastern
 Church; v. Hefele, *Beiträge z. Kirchengeschichte*, t. ii.
 
-P. [179](gar27.htm#page_179).--Reference may be made here to Lessing's
+P. [179](gar27.htm#page_179.md).--Reference may be made here to Lessing's
 well-known essay.
 
-P. [195](gar29.htm#page_195).--The latest study of the *jettatura* is, I
+P. [195](gar29.htm#page_195.md).--The latest study of the *jettatura* is, I
 am informed by Mr. Nutt, a series of articles, *La Fascination*, by
 Tuchmann in *Melusine*. 1885-7.
 
-### PART III.--THE AGATHODÆMON WORSHIP AND THE ABRAXAS GEMS, pp. [215](gar31.htm#page_215) seq.
+### PART III.--THE AGATHODÆMON WORSHIP AND THE ABRAXAS GEMS, pp. [215](gar31.htm#page_215.md) seq.
 
-P. [217](gar31.htm#page_217).--On serpent worship comp. introductory
+P. [217](gar31.htm#page_217.md).--On serpent worship comp. introductory
 essay to Ferguson, *Tree and Serpent Worship*, second ed. 1873. Among
 Semites, Baudissin, *Studien zur semit. Religionsgeschichte* I. § iv.
 
-P. [226](gar33.htm#page_226).--J. Bellermaun, *Ueber die Gemmen der
+P. [226](gar33.htm#page_226.md).--J. Bellermaun, *Ueber die Gemmen der
 Alten mit dem Abraxasbilde*. Stuck 1-3. Berl. 1818, 19, 20.
 
-P. [230](gar33.htm#page_230).--This formed the subject of a monograph by
+P. [230](gar33.htm#page_230.md).--This formed the subject of a monograph by
 F. X. Kraus, *Das Spottcrucifix*. Freib. 1872. V. cut on p.
-[279](gar42.htm#page_279) here.
+[279](gar42.htm#page_279.md) here.
 
-P. [251](gar37.htm#page_251).--Vide Barzilai's tract quoted in bibliog.
-note on p. [117](gar17.htm#page_117).
+P. [251](gar37.htm#page_251.md).--Vide Barzilai's tract quoted in bibliog.
+note on p. [117](gar17.htm#page_117.md).
 
-P. [254](gar39.htm#page_254).--On the age of this "Gematria" see J. Gow,
+P. [254](gar39.htm#page_254.md).--On the age of this "Gematria" see J. Gow,
 *Hist. of Greek Mathematics*, p. 44.
 
-P. [259](gar40.htm#page_259).--For bibliography of Basilides see note on
-p. [70](gar13.htm#page_70).
+P. [259](gar40.htm#page_259.md).--For bibliography of Basilides see note on
+p. [70](gar13.htm#page_70.md).
 
-P. [263](gar40.htm#page_263).--On Valentinus, G. Henrici, *Die
+P. [263](gar40.htm#page_263.md).--On Valentinus, G. Henrici, *Die
 Valentinische Gnosis und die Heilige Schrift*. Berl. 1871.
 
-P. [279](gar42.htm#page_279).--On the fig. see monograph referred to in
-bibliog. note on p. [230](gar33.htm#page_230).
+P. [279](gar42.htm#page_279.md).--On the fig. see monograph referred to in
+bibliog. note on p. [230](gar33.htm#page_230.md).
 
-P. [281](gar43.htm#page_281).--The 99 epithets of God in Islam form the
+P. [281](gar43.htm#page_281.md).--The 99 epithets of God in Islam form the
 subject of E. Arnold's poem, *Pearls of the Faith*. 1882.
 
-P. [281](gar43.htm#page_281) n.--Levy, *Gemmen und Siegel*. 1869, p.
+P. [281](gar43.htm#page_281.md) n.--Levy, *Gemmen und Siegel*. 1869, p.
 47-9 and Taf. iii.
 
-P. [284](gar43.htm#page_284). *Die Seherin von Prevorst* was published
+P. [284](gar43.htm#page_284.md). *Die Seherin von Prevorst* was published
 1866, and translated into almost all European languages.
 
-### PART IV.--THE FIGURED MONUMENTS OF GNOSTICISM, pp. [305](gar44.htm#page_305) seq.
+### PART IV.--THE FIGURED MONUMENTS OF GNOSTICISM, pp. [305](gar44.htm#page_305.md) seq.
 
 GNOSTIC gems have long attracted the attention of antiquarians, their
 separate investigation beginning with
@@ -420,20 +420,20 @@ preceding and more also: 13 plates and 27 woodcuts.\]
 No collection of consequence has been made or published since 1864 till
 the present volume.
 
-P. [309](gar44.htm#page_309).--On **ΙΑΩ** see Graf v. Baudissin's
+P. [309](gar44.htm#page_309.md).--On **ΙΑΩ** see Graf v. Baudissin's
 elaborate essay "*Der Ursprung des Gottesnamens* Ἰάω" in his *Studien
 zur semitischen Religionsgeschichte*, 1873, pp. 181-254. On the name
 itself cf. S. R. Driver, *Recent Theories on the Origin and Nature of
 the Tetragrammaton* in *Studia Biblica.* 1885, pp. 1-20.
 
-P. [370](gar53.htm#page_370).--On the *apices* of Boethius considerable
+P. [370](gar53.htm#page_370.md).--On the *apices* of Boethius considerable
 discussion has arisen. Woepcke, in *Jour. Asiat*. 1863, p. 54, traces
 them from India; T. H. Martin, *Annali di matem*. 1863, p. 350, from
 Egypt; while Friedlein, *Zahlzeichen*, pp. 15-19, &c., and Weissenborn
 in *Zt. Math. Phys.*, 1879, declare the passage in Boethius to be a
 forgery. See Gow, *Hist. Greek Math*., p. 38.
 
-P. [372](gar53.htm#page_372).--On magic squares treated mathematically,
+P. [372](gar53.htm#page_372.md).--On magic squares treated mathematically,
 see De Morgan in *English Cyclopædia*, sub. voce. sect. *Arts and
 Sciences*, vol. v. col. 415.
 
@@ -460,17 +460,17 @@ Freemasonry,
 full references in R. F. Gould's huge and uncritical *History of
 Freemasonry*, vol. i. 1884.
 
-P. [393](gar59.htm#page_393)*n*.--A third edition in two vols. appeared
+P. [393](gar59.htm#page_393.md)*n*.--A third edition in two vols. appeared
 in 1887.
 
-P. [409](gar62.htm#page_409).--On the influence of these Manichæan sects
+P. [409](gar62.htm#page_409.md).--On the influence of these Manichæan sects
 in spreading Eastern folklore through Europe, see M. Gaster,
 *Greeko-Slavonic* literature. 1887.
 
-P. [416](gar64.htm#page_416). *Assemblies of Al Hariri*, translated by
+P. [416](gar64.htm#page_416.md). *Assemblies of Al Hariri*, translated by
 T. Chenery, vol. i. 1867; and Rückert's remarkable translation, *Dei
 Verwandlungen des Abu Seid*.
 
 ------------------------------------------------------------------------
 
-[Next: Index](gar88)
+[Next: Index](gar88.md)

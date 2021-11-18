@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj20)  [Next](chj22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj20)  [Next](chj22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 ### CHAPTER XIX
 
 <span class="smallcaps">Buddhism during the Nara Period</span> <span
-id="fr_239"></span>[1](#fn_237) <span class="smallcaps">from A.D.
+id="fr_239"></span>[1](#fn_237.md) <span class="smallcaps">from A.D.
 621–782</span>
 
 <span class="smallcaps">The</span> activities of Kumarajīva seem to have
@@ -53,7 +53,7 @@ The Tangs began badly for Buddhism. Kaotsu (618–627), their first ruler,
 broke up Buddhist monasteries right and left, and sent 100,000 bonzes
 back to lay life where they would be obliged to work, and neither his
 successor Taitsung nor his wife Ch’angsun <span
-id="fr_240"></span>[1](#fn_238) had any sympathies for the faith. But
+id="fr_240"></span>[1](#fn_238.md) had any sympathies for the faith. But
 the Buddhists knew how to win their way back to favour in the course of
 a few years, and the Tangs had not been fifty years on the throne in
 China ere Buddhism was once more in full force, and on a far more
@@ -91,7 +91,7 @@ to take over the administration of the whole country between their
 frontier and that of the Arabs, and it was as Chinese Viceroy of that
 district that he was attacked and defeated by the Arabs in 670, and
 obliged once more to flee to Singanfu. <span
-id="fr_241"></span>[1](#fn_239)
+id="fr_241"></span>[1](#fn_239.md)
 
 Was it chance, or was it the design of Heaven, that, in the year 636,
 shortly after Izdegerd had entered upon his last fatal war against the
@@ -111,7 +111,7 @@ Balkh, Merv, Central Asia, and India. They were loyal to the country of
 their adoption, as well they might be; that country was now in distress,
 and was looking to China for help; a Christian mission in China might be
 productive of much good, both spiritually and politically. The mission
-was, therefore, sent; <span id="fr_242"></span>[1](#fn_240) it arrived
+was, therefore, sent; <span id="fr_242"></span>[1](#fn_240.md) it arrived
 at Singanfu in 636, and was well received by the Emperor and his
 successors, some of whom issued edicts in favour of the faith, or gave
 money for building "temples of felicity," as they were called, whilst
@@ -146,7 +146,7 @@ Taoism, the new revelations (for they amounted to that) of the Hossō and
 the Kegon, and the wide-embracing system inaugurated by Chisha Daishi of
 the Tendai, all point to the same conclusion.
 
-Bodhidharma and Zendō <span id="fr_243"></span>[1](#fn_241) alone aimed
+Bodhidharma and Zendō <span id="fr_243"></span>[1](#fn_241.md) alone aimed
 at simplification,
 
 <span id="page_196">p. 196</span>
@@ -192,11 +192,11 @@ sovereigns. When he returned to China, the movement hostile to Buddhism
 had for the time spent its strength, and when, about 646, he published
 translations of some of the new books he had brought with him, the
 Emperor himself deigned to write a preface. <span
-id="fr_244"></span>[1](#fn_242)
+id="fr_244"></span>[1](#fn_242.md)
 
 Hiouen Thsang, the Max Müller of his day, was in direct relations with
 Japan. In 655, about the time of the accession of the Empress Saimei, a
-priest from Kawachi, a Sōzu <span id="fr_245"></span>[2](#fn_243) of the
+priest from Kawachi, a Sōzu <span id="fr_245"></span>[2](#fn_243.md) of the
 name of Dōsō, went over to China with the ambassadors sent to announce
 the new sovereign's accession, and there, meeting with Hiouen Thsang,
 learnt from him the Hossō or Dharma-lakshana doctrines, which the great
@@ -210,13 +210,13 @@ and studied the doctrines
 <span id="page_198">p. 198</span>
 
 of the Unity (*Yuishiki*) under Chishō Daishi. Thus three <span
-id="fr_246"></span>[1](#fn_244) distinct strains of Hossō teachings came
+id="fr_246"></span>[1](#fn_244.md) distinct strains of Hossō teachings came
 to Japan, and blended there, and though the Hossō sect, qua sect,
 disappeared shortly after the close of the Nara age, it left permanent
 traces in the religious history of the country. For Dōsō and Chitatsu
 had as their principal disciple the celebrated Gyōgi Bosatsu <span
-id="fr_247"></span>[2](#fn_245) to whom is attributed the invention of
-the Ryōbu Shintō, <span id="fr_248"></span>[3](#fn_246) which made it
+id="fr_247"></span>[2](#fn_245.md) to whom is attributed the invention of
+the Ryōbu Shintō, <span id="fr_248"></span>[3](#fn_246.md) which made it
 possible for Buddhism to strike deep roots in the religious
 consciousness of Japan.
 
@@ -244,7 +244,7 @@ of Hinduism and conquer without seeming to do so.
 The teaching was based, as I have said, on a revelation or
 quasi-revelation. Whilst Asangha was lecturing in Ayodhya, the present
 Oude, in India, he received a heavenly visitor, the great Bodhisattva
-Maitreya, <span id="fr_249"></span>[1](#fn_247) the disciple of
+Maitreya, <span id="fr_249"></span>[1](#fn_247.md) the disciple of
 S’akyamuni, who had received the promise of becoming the future Saviour
 of the world, and who was waiting in the celestial regions for the
 fulness of the times to come. Maitreya, appearing in the lecture hall,
@@ -261,7 +261,7 @@ by the Kegon doctors and Kobōdaishi;
 Maitreya, was the Supreme Being, invisible but all-powerful. When He
 showed Himself upon earth, it was through the personality of two great
 spiritual Beings, Maitreya Himself, and Manjuśri, the potent Bodhisattva
-of China. <span id="fr_250"></span>[1](#fn_248)
+of China. <span id="fr_250"></span>[1](#fn_248.md)
 
 One of the keynotes of the Hossō teaching (it would require a large
 volume to describe it all) is the doctrine of Oneness from which the
@@ -303,11 +303,11 @@ additional light that was shining forth from India and China. How far
 the movement was a popular one, may be doubted. The common people
 counted for very little in those days; it was an oracle, issuing from
 the Temple at Isé, that authoritatively proclaimed the identity of
-Amaterasu and Vairoc’ana. <span id="fr_251"></span>[1](#fn_249) A few
+Amaterasu and Vairoc’ana. <span id="fr_251"></span>[1](#fn_249.md) A few
 years before, in the year 616, the great god of Miwa <span
-id="fr_252"></span>[2](#fn_250) had very obligingly let it be known
+id="fr_252"></span>[2](#fn_250.md) had very obligingly let it be known
 throughout Japan that the proper ministers to take charge of funeral
-rites were the Buddhist clergy. <span id="fr_253"></span>[3](#fn_251)
+rites were the Buddhist clergy. <span id="fr_253"></span>[3](#fn_251.md)
 This amounted practically to an endowment of Buddhism.
 
 <span id="page_202">p. 202</span>
@@ -327,11 +327,11 @@ Like the Hossō, the Kegon went back for its origin to the very
 beginnings of the Mahāyāna. When Nāgārjuna, in his wanderings, had
 reached the Himalayas, he was taken to the Dragon Palace under the Sea,
 out of which he fetched the wonderful book known as the Avatamsaka
-Sūtra, <span id="fr_254"></span>[1](#fn_252) which was to form the basis
+Sūtra, <span id="fr_254"></span>[1](#fn_252.md) which was to form the basis
 of the new sect. It is a very difficult book, and very long: many
 translators in earlier times had tried their hands at it, but had only
 produced fragmentary versions of individual chapters. <span
-id="fr_255"></span>[2](#fn_253) Now at last, in the Tang period, a
+id="fr_255"></span>[2](#fn_253.md) Now at last, in the Tang period, a
 version of the whole was accomplished. The enterprise had the warmest
 encouragement from the Court, and one of the Tang empresses early in the
 eighth century, not only sent to Khotan to procure a complete copy of
@@ -340,9 +340,9 @@ the Sanskrit Sūtra,
 <span id="page_203">p. 203</span>
 
 but also wrote a preface for the Chinese version when it came out. <span
-id="fr_256"></span>[1](#fn_254) It may have been that, in view of the
+id="fr_256"></span>[1](#fn_254.md) It may have been that, in view of the
 close proximity once more of Christianity, Buddhism felt the need of
-advancing supernatural claims. <span id="fr_257"></span>[2](#fn_255) The
+advancing supernatural claims. <span id="fr_257"></span>[2](#fn_255.md) The
 Avataṃsaka Sūtra is full of the supernatural. In the days of
 S’akyamuni's life, immediately after he had, under the Bo-tree, attained
 to Enlightenment, he had (so it was said) remained in a trance of awe
@@ -351,7 +351,7 @@ that time he had in spirit ascended to the highest heaven, where, in a
 kind of Transfiguration, he had conversed with the two great
 Bodhisattvas—Manjuśri and Samantabhadra—in the very presence of the
 Supreme and Everlasting Buddha Vairoc’ana. <span
-id="fr_258"></span>[3](#fn_256) The doctrines thus delivered had been of
+id="fr_258"></span>[3](#fn_256.md) The doctrines thus delivered had been of
 a very deep and mysterious character, too deep for the ordinary mind of
 men to comprehend. S’akyamuni had therefore laid them aside for a while,
 and had not reverted to them again until towards the close of his
@@ -374,13 +374,13 @@ the same whoever preached them; but the three represented sectarian
 differences, and there speedily appeared rivalries between jealous monks
 competing with one another for the favour of the court and nobility.
 This was one of the characteristics of the Nara age. <span
-id="fr_259"></span>[1](#fn_257)
+id="fr_259"></span>[1](#fn_257.md)
 
 The student who has the time, inclination, and opportunity to prosecute
 further the study of this period, will find it full of very valuable
 historical material which throws a flood of light on the present life
 and thought of the Japanese people. Such a research lies far beyond the
-scope of the present work. <span id="fr_260"></span>[2](#fn_258) We may,
+scope of the present work. <span id="fr_260"></span>[2](#fn_258.md) We may,
 however, refer to one or two points of importance.
 
 <span id="page_205">p. 205</span>
@@ -389,10 +389,10 @@ Amongst a number of sovereigns of no special importance Kōtoku Tennō
 (645–654) is distinguished for the zeal with which he worked along the
 lines of political and civil reform laid down by Shōtoku. The Taikwa
 reforms (so called from the *Nengo* <span
-id="fr_261"></span>[1](#fn_259) or year-period in which they were
+id="fr_261"></span>[1](#fn_259.md) or year-period in which they were
 issued—an institution then first borrowed from China) brought the
 institutions of Japan very near to the Chinese models. The old offices
-of the *Ōmi* and *Ōmuraji* <span id="fr_262"></span>[2](#fn_260) were
+of the *Ōmi* and *Ōmuraji* <span id="fr_262"></span>[2](#fn_260.md) were
 abolished, and three new officers, with Chinese titles, *Sadaijin*,
 *Udaijin*, *Naidaijin*, appointed to take their place. Exact reports
 were demanded from the governors of the provinces as to the conditions
@@ -411,19 +411,19 @@ was falsely accused
 <span id="page_206">p. 206</span>
 
 by his enemies and unjustly done to death in 649. <span
-id="fr_263"></span>[1](#fn_261) Less than fifteen years later the
+id="fr_263"></span>[1](#fn_261.md) Less than fifteen years later the
 Emperor Tenji (662–671) found it necessary to extirpate the Soga family,
 and to call to his assistance the family of the Fujiwara, <span
-id="fr_264"></span>[2](#fn_262) who have contrived to hold their great
+id="fr_264"></span>[2](#fn_262.md) who have contrived to hold their great
 position, in one form or another, down to the present day. Tenji Tennō
-outlined the great Taihōryō <span id="fr_265"></span>[3](#fn_263) Code
+outlined the great Taihōryō <span id="fr_265"></span>[3](#fn_263.md) Code
 of Laws, which, promulgated in a subsequent reign, in A.D. 701, remained
 in force, with but few modifications, right down to the commencement of
 the Meiji era.
 
 The Nara period also saw the publication of the two great chronicles of
 ancient Japan—the "Kojiki" and the "Nihongi," <span
-id="fr_266"></span>[4](#fn_264) published, the one in 712, and
+id="fr_266"></span>[4](#fn_264.md) published, the one in 712, and
 containing the history of Japan from the creation to the close of the
 reign of the Empress Suiko (A.D. 628); the other, published in 722, and
 covering very much the same ground. In estimating their value, it must
@@ -438,7 +438,7 @@ and
 
 there are inconsistencies (not to say falsifications) which modern
 writers (even Japanese among them) have not failed to note. <span
-id="fr_267"></span>[1](#fn_265) There is practically no credible history
+id="fr_267"></span>[1](#fn_265.md) There is practically no credible history
 of Japan and Japanese events before the introduction of Buddhism.
 
 For the rest, the age was uncritical, superstitious, and therefore
@@ -454,7 +454,7 @@ time after this, whilst cleaning his temple, he discovered the giver of
 the venison. From the thigh of the statue of Kwannon had been cut a
 piece of—wood, shall we call it? or flesh?—the exact size of the venison
 that had been placed on the veranda. <span
-id="fr_268"></span>[2](#fn_266) The deity himself, at the cost of a
+id="fr_268"></span>[2](#fn_266.md) The deity himself, at the cost of a
 painful self-sacrifice, had saved the life of his worshipper.
 
 Wonder was in the air, and therefore when the Goddess of Isé proclaimed
@@ -488,7 +488,7 @@ certainly not the name of his childhood. His family name was Shu (<span
 id="img_20802"></span> ![](img/20802.jpg)), and he was born in the
 district of Shishū (<span id="img_20803"></span> ![](img/20803.jpg)).
 
-When he was born the Sui <span id="fr_269"></span>[1](#fn_267) dynasty
+When he was born the Sui <span id="fr_269"></span>[1](#fn_267.md) dynasty
 was tottering to its fall, and had in fact only four years more of life.
 Already, we may believe, was the Duke of Tang, on the extreme north-west
 boundaries of the Empire, conspiring with Turkish and other chieftains,
@@ -500,7 +500,7 @@ and seated himself firmly on the Celestial
 <span class="contnote">\[paragraph continues\]</span> Throne, as the
 founder of a Dynasty, the most magnificent China had ever yet seen, and
 which was to continue for well-nigh three centuries. <span
-id="fr_270"></span>[1](#fn_268) The miseries of the people, heavily
+id="fr_270"></span>[1](#fn_268.md) The miseries of the people, heavily
 burdened and harassed to support the luxurious and ostentatious
 extravagance of the Sui monarchs, tended to encourage his hopes, and
 with the practised eye of the statesman he could see that it only needed
@@ -511,8 +511,8 @@ to be kindled to victory by the enthusiasm of the new faith inspired by
 Mahomet, and only a few years were destined to elapse before Persia, at
 war with Constantinople, and overrun by the Arabs, should come to China
 in the vain hopes of an alliance against the new foe. <span
-id="fr_271"></span>[2](#fn_269) To give another note of time, Shōtoku
-Taishi, <span id="fr_272"></span>[3](#fn_270) the greatest of Japan's
+id="fr_271"></span>[2](#fn_269.md) To give another note of time, Shōtoku
+Taishi, <span id="fr_272"></span>[3](#fn_270.md) the greatest of Japan's
 early statesmen, and as
 
 <span id="page_210">p. 210</span>
@@ -525,23 +525,23 @@ Sui by the letter in which the "Eastern Emperor" sent his greeting, as
 an equal in rank, to his brother the "Emperor of the West," and Korea,
 which had already done so much for Japan in the way of religious and
 civilizing influences, was giving Japanese statesmen a good deal of
-political anxiety. <span id="fr_273"></span>[1](#fn_271)
+political anxiety. <span id="fr_273"></span>[1](#fn_271.md)
 
 In matters of religion, Confucianists and Taoists were apparently going
 on much as usual; but the Buddhist world, distracted partly by the
 immense volume and bulk of its own religious books, and partly by the
 multiplicity of the new ideas which the growing commercial activity of
 the people was importing from foreign countries, was in a state of
-apparently fermenting chaos. <span id="fr_274"></span>[2](#fn_272)
+apparently fermenting chaos. <span id="fr_274"></span>[2](#fn_272.md)
 Bodhidharma's attempts at reform (A.D. 520) <span
-id="fr_275"></span>[3](#fn_273) were already a century old, and his way
+id="fr_275"></span>[3](#fn_273.md) were already a century old, and his way
 had already lost some of its prestige: new sects,
 
 <span id="page_211">p. 211</span>
 
 *e.g.* the Sanron, Jōjitsu, and Tendai, were already in process of
 formation, if not actually formed, and Hiouen Thsang had already (A.D.
-611) entered the order of monks, <span id="fr_276"></span>[1](#fn_274)
+611) entered the order of monks, <span id="fr_276"></span>[1](#fn_274.md)
 and was now preparing for the celebrated journey to India for the
 purpose of studying at first hand the doctrines of his faith.
 
@@ -551,7 +551,7 @@ the Founder of the Tang dynasty. One of the most striking incidents of
 his reign was the presentation of a petition to the throne against
 Buddhism. It was presented by leading men among the *literati* and
 Confucianists, and was strongly worded. <span
-id="fr_277"></span>[2](#fn_275) Kaotsu accepted the petition and acted
+id="fr_277"></span>[2](#fn_275.md) Kaotsu accepted the petition and acted
 upon it. He ordered a general dissolution and suppression of Buddhist
 monasteries, and sent 100,000 monks and nuns back into lay life. It was
 probably a necessary measure. The monks were very numerous and very
@@ -577,7 +577,7 @@ comprehensiveness
 <span class="contnote">\[paragraph continues\]</span> (a
 comprehensiveness, which, I fear, can only be attained by the sacrifice
 of the critical faculty). Zendō's Buddhist biographer <span
-id="fr_278"></span>[1](#fn_276) adds that he also studied the Vinaya
+id="fr_278"></span>[1](#fn_276.md) adds that he also studied the Vinaya
 discipline (a fact which may be taken as showing traces of a somewhat
 practical turn of mind), and notices further that, during these student
 days, he was continually restless, that he sighed for greater
@@ -589,7 +589,7 @@ At last, weary of the confusion, he went into the library, prayed for
 guidance, closed his eyes, and put out his hand for the book which was
 to simplify his Creed. The same story is told of others in Chinese
 Buddhism: in Zendō's case, his hand fell upon the volume of the Kwangyō
-(the Amitayurdhyāni Sūtra), <span id="fr_279"></span>[2](#fn_277) which
+(the Amitayurdhyāni Sūtra), <span id="fr_279"></span>[2](#fn_277.md) which
 relates how S’akyamuni comforted Queen Vaidehi in her distress
 
 <span id="page_213">p. 213</span>
@@ -624,7 +624,7 @@ for some years, was of great value in the formation of his religious
 ideas. The name of the temple signifies, not inaptly, the "Temple for
 the Instruction of Truth." He remained here until his 29th year,
 returning to Singanfu in the year A.D. 643. <span
-id="fr_280"></span>[1](#fn_278)
+id="fr_280"></span>[1](#fn_278.md)
 
 <span id="page_214">p. 214</span>
 
@@ -646,10 +646,10 @@ born in Heishū (<span id="img_21402"></span> ![](img/21402.jpg)) in the
 year A.D. 553, and died in 636. He had experienced the persecution which
 the Buddhists had undergone during the reign of Wu-ti of the Chow (<span
 id="img_21403"></span> ![](img/21403.jpg)) Dynasty, <span
-id="fr_281"></span>[1](#fn_279) and he was one of the few brave ones who
+id="fr_281"></span>[1](#fn_279.md) and he was one of the few brave ones who
 remained faithful in spite of the violence of the storm. His
 predecessor, the third patriarch, Donran, <span
-id="fr_282"></span>[2](#fn_280) had taught with considerable
+id="fr_282"></span>[2](#fn_280.md) had taught with considerable
 
 <span id="page_215">p. 215</span>
 
@@ -665,7 +665,7 @@ hope, set before him by the Indian monk Bodhiruci, that had made him
 burn his Taoist books of magic and set himself to the study of Amidaism.
 In Dōshaku's hands the Amida doctrine had developed in the direction of
 personality. He taught (if we may believe his latest biographer, Mr.
-Tada) <span id="fr_283"></span>[1](#fn_281) that Amida must be
+Tada) <span id="fr_283"></span>[1](#fn_281.md) that Amida must be
 considered to be a personal Being and not a mere abstract ideal, and the
 book which he placed in Zendō's hands was the Larger Sukhāvati Vyūha,
 the book which gives the account of Amida's life, of His Incarnation in
@@ -676,21 +676,21 @@ preached. He may be said to have carried the doctrine a stage further.
 The followers of Hōnen Shōnin (otherwise known as Genkū) form three
 communities: (i) the Shinshu, founded by Shinran, and (ii and iii) the
 two sub-sects of the older Jōdo sect, the Chinsei-ha and the
-Seizan-ha. <span id="fr_284"></span>[2](#fn_282) The Chinsei-ha,
+Seizan-ha. <span id="fr_284"></span>[2](#fn_282.md) The Chinsei-ha,
 agreeing in this respect with the Shinshu, differ from the Seizan-ha in
 the matter of reciting the Nembutsu. The latter community treat the
 Nembutsu as an act of adoration addressed to all the Buddhas; the
 Chinsei-ha and Shinshu treat it as addressed to Amida alone, as being
 the only Buddha, and the one to whom everything else is subordinate and
 subservient; and this practice, according to Murakami. <span
-id="fr_285"></span>[3](#fn_283) is due to the teachings of Zendō. To
+id="fr_285"></span>[3](#fn_283.md) is due to the teachings of Zendō. To
 Zendō, therefore, the doctrine of faith became a doctrine involving a
 belief in a single Being, without beginning of days or end of life,
 unbounded
 
 <span id="page_216">p. 216</span>
 
-in every [respect](errata.htm#7), who, for man's salvation, had become a
+in every [respect](errata.htm#7.md), who, for man's salvation, had become a
 man, had accomplished a scheme of salvation, and had returned to his
 original glory.
 
@@ -723,13 +723,13 @@ much mixed up with Tartar and Turkish tribes, and it was apparently by
 their help that the family had been seated on the throne of China. From
 the moment, therefore, that the Dynasty was established, the new Empire
 became the cynosure of Central Asian eyes. <span
-id="fr_286"></span>[1](#fn_284) A Persian mission was sent by Chosroes
+id="fr_286"></span>[1](#fn_284.md) A Persian mission was sent by Chosroes
 II. praying for an alliance, and in 621 the first Zoroastrian temple was
 erected in Singanfu. The leader of this mission seems to have been a
 Magian of the name of Holu ("le fils du feu," as P. Gaubil calls him),
 who was very active in stirring up China against the Mahometans. Of
 Manichæans in China proper there seems to be no mention for many years
-to come, <span id="fr_287"></span>[2](#fn_285) but in 636,
+to come, <span id="fr_287"></span>[2](#fn_285.md) but in 636,
 
 <span id="page_217">p. 217</span>
 
@@ -757,7 +757,7 @@ century before). What is he to do or say? He goes to Dōshaku to resolve
 his doubts, and Dōshaku tells him of "Eternal Life," and gives him the
 Sukhāvati Vyuha, which tells of Amida as a Person who came down upon
 Earth, who opened the door of salvation, and has gone to the place He
-has prepared for us. <span id="fr_288"></span>[1](#fn_286)
+has prepared for us. <span id="fr_288"></span>[1](#fn_286.md)
 
 <span id="page_219">p. 219</span>
 
@@ -774,7 +774,7 @@ instance of such collaboration between a Buddhist and Nestorian about a
 century later, when the Nestorian priest King Tsing (or Adam, as he is
 called on the Singanfu monument) collaborated with the Indian monk
 Prajna in the translation of a book on the Six Cardinal Virtues (*Shat
-Parāmitā Sutra*). <span id="fr_289"></span>[1](#fn_287) The original was
+Parāmitā Sutra*). <span id="fr_289"></span>[1](#fn_287.md) The original was
 not in Sanskrit, but in the Hu (<span id="img_21900"></span>
 ![](img/21900.jpg)), *i.e.* the Persian, or, more probably, the Uigur
 language. At any rate, not much came of this attempted collaboration,
@@ -782,7 +782,7 @@ which probably caused much jealousy and opposition. It was after a while
 forbidden by the Emperor Taitsung, who, in a published decree, ordered
 the Nestorian King Tsing to confine himself to the teachings of
 *Mishiho*, and to leave the followers of S’akyamuni to propagate the
-teachings of their master. <span id="fr_290"></span>[2](#fn_288)
+teachings of their master. <span id="fr_290"></span>[2](#fn_288.md)
 
 The suggestion of opposition raised against such collaboration, on the
 part of friendly disposed believers of the two religions, by more
@@ -794,7 +794,7 @@ butcher, whose customers had left him to turn
 <span id="page_220">p. 220</span>
 
 <span class="contnote">\[paragraph continues\]</span> Buddhists, tried
-to murder the persuasive <span id="fr_291"></span>[1](#fn_289) monk who
+to murder the persuasive <span id="fr_291"></span>[1](#fn_289.md) monk who
 injured his trade. And not only did persons of low degree set themselves
 against them. The *literati* persecuted him and his followers, as did
 also the priests of the other Buddhist sects. When the Emperor Kaotsung
@@ -856,7 +856,7 @@ even the most eloquent preachers of any faith, nor do books, however
 holy and mouldy, glow with a phosphorescent light. Yet that was what
 Shōkō is said to have seen issuing from the works of Zendō preserved in
 the library at the White Horse Monastery. <span
-id="fr_292"></span>[1](#fn_290) Kaotsung was an enlightened monarch, and
+id="fr_292"></span>[1](#fn_290.md) Kaotsung was an enlightened monarch, and
 if he gave the title of Kōmyōji, it must have been for the quality of
 the doctrine and not by reason of any doubtful miracle. But it is quite
 probable that "luminous temple" and *Kōmyōji* may have been used as
@@ -876,11 +876,11 @@ Saints, died in 621, shortly after the commencement of the Tang Dynasty.
 Buddhism was, therefore, in full swing in Japan when, in 636, the
 Nestorian Mission arrived at Singanfu, and Zendō began his preaching,
 and there were many Japanese students being sent yearly to China for
-purposes of study. <span id="fr_293"></span>[1](#fn_291) Not only so,
+purposes of study. <span id="fr_293"></span>[1](#fn_291.md) Not only so,
 but there were many Chinese families residing in Japan and naturalized
 there (*ayabito*), and it has been noticed that most of Kōtoku Tennō's
 Taikwa Reforms (A.D. 645–654) were worked out for him by these
-*ayabito*. <span id="fr_294"></span>[2](#fn_292) The whole of the Nara
+*ayabito*. <span id="fr_294"></span>[2](#fn_292.md) The whole of the Nara
 period was an age in which Japan was peculiarly sensitive to Chinese
 influences, and especially to the influences of Chinese Buddhism.
 
@@ -889,7 +889,7 @@ Shōmu Tennō (724–748) and his Consort Kōmyō Kōgō (the very name, a
 posthumous one, is in itself significant). Shōmu Tennō was a very
 zealous Buddhist. He founded hospitals and charitable institutions, and
 his Empress distinguished herself by personally undertaking the nursing
-of lepers <span id="fr_295"></span>[3](#fn_293)—a truly Christian work.
+of lepers <span id="fr_295"></span>[3](#fn_293.md)—a truly Christian work.
 Japan was in no position at the time to undertake hospital work unaided.
 Foreign doctors had to be employed, and the industry of Japanese
 students has recently shown us the presence in Japan, at the Court, of a
@@ -898,7 +898,7 @@ Nestorian Christian (the Nestorian Christians were famous all
 <span id="page_223">p. 223</span>
 
 over the East for their skill in medicine). <span
-id="fr_296"></span>[1](#fn_294) Here, therefore, we have possibly two
+id="fr_296"></span>[1](#fn_294.md) Here, therefore, we have possibly two
 instances of simultaneous collaboration, Buddhist and Christian uniting
 in the production of books in China, and in works of charity in Japan.
 
@@ -926,7 +926,7 @@ between 796 and 858, and several monks, such as Kūya and Eikwan, kept
 alive the faith in Amida, invoking His Name on Hieizan, or wandering,
 disguised as travelling priests or horsedealers (*umakata*), from
 province to province, preaching a simple faith to country
-peasants. <span id="fr_297"></span>[1](#fn_295) And finally, the great
+peasants. <span id="fr_297"></span>[1](#fn_295.md) And finally, the great
 Hōnen (Genial), breaking with the Tendai, as so many others had done, in
 order to return to the teaching of Zendō, founds at Kurodani a temple,
 still known as *Konkai Kōmyōji*, "the Illustrious Temple of the Golden
@@ -939,12 +939,12 @@ alone, to the exclusion of all the rest.
 
 ### Footnotes
 
-<span id="fn_237"></span>[191:1](chj21.htm#fr_239) The town of Nara was
+<span id="fn_237"></span>[191:1](chj21.htm#fr_239.md) The town of Nara was
 actually the capital of Japan only from 710 to 784, there having been no
 definite capital before that date. But Nara became so distinctly the
 dominating centre that its name may well be given to the whole period.
 
-<span id="fn_238"></span>[192:1](chj21.htm#fr_240) When Ch’angsun was
+<span id="fn_238"></span>[192:1](chj21.htm#fr_240.md) When Ch’angsun was
 dying she addressed her son in words somewhat to this effect: "Our life
 is in the hands of Heaven, and when it decides that we shall die, there
 is no mortal power that can prolong it. As for the Taoist and Buddhist
@@ -955,10 +955,10 @@ requested to be buried with great simplicity, exhorting her son to
 associate with good men and to avoid extravagance, especially in hunting
 and building.
 
-<span id="fn_239"></span>[193:1](chj21.htm#fr_241) E. H. Parker, "China:
+<span id="fn_239"></span>[193:1](chj21.htm#fr_241.md) E. H. Parker, "China:
 Her History, Diplomacy, and Commerce."
 
-<span id="fn_240"></span>[194:1](chj21.htm#fr_242) It purported to come
+<span id="fn_240"></span>[194:1](chj21.htm#fr_242.md) It purported to come
 from a certain Potolik, King of Fulin. Professor Hirth gives reason for
 saying that Potolik = Patriarch, and that Fulin is to be pronounced as
 Pat-lam, the birthplace of Christ being taken as = to Christendom, just
@@ -984,10 +984,10 @@ Manichæism were looked upon as legitimate variants of Buddhism. There
 were Nestorians in China before Olopen—some are mentioned as early as
 A.D. 508.
 
-<span id="fn_241"></span>[195:1](chj21.htm#fr_243) For Zendō, see note
+<span id="fn_241"></span>[195:1](chj21.htm#fr_243.md) For Zendō, see note
 at the end of this chapter.
 
-<span id="fn_242"></span>[197:1](chj21.htm#fr_244) *Hiouen Thsang* gives
+<span id="fn_242"></span>[197:1](chj21.htm#fr_244.md) *Hiouen Thsang* gives
 us the best contemporary picture we possess of Buddhist India. If it
 were not for him and the other Chinese pilgrims; who visited India, we
 should know nothing of the history of that country for several
@@ -996,22 +996,22 @@ theology of Buddhism, brought back the materials with which the purely
 Chinese sects, such as *Tendai* and *Kegon* (Avataṃsaka), were
 afterwards established.
 
-<span id="fn_243"></span>[197:2](chj21.htm#fr_245) *Sōzu*, a Japanese
+<span id="fn_243"></span>[197:2](chj21.htm#fr_245.md) *Sōzu*, a Japanese
 ecclesiastical title equivalent to our canon or archdeacon. The
 lawlessness and want of discipline among the monks, whose numbers were
 very large owing to the indiscriminate patronage of the faith by devotee
 sovereigns during this period, gave rise to many attempts to regulate
 the Buddhist clergy by the appointment of overseers or superintendents.
 
-<span id="fn_244"></span>[198:1](chj21.htm#fr_246) There were actually
+<span id="fn_244"></span>[198:1](chj21.htm#fr_246.md) There were actually
 *four* strains of the Hossō in Japan.
 
-<span id="fn_245"></span>[198:2](chj21.htm#fr_247) *Gyōgi Bosatsu*, a
+<span id="fn_245"></span>[198:2](chj21.htm#fr_247.md) *Gyōgi Bosatsu*, a
 celebrated Korean priest (670–749), who enjoyed great influence in
 Japan. It was he who administered Baptism (Kwanjo) to the reigning
 emperor.
 
-<span id="fn_246"></span>[198:3](chj21.htm#fr_248) *Ryōbu Shinto*, an
+<span id="fn_246"></span>[198:3](chj21.htm#fr_248.md) *Ryōbu Shinto*, an
 amalgamation of Buddhism and Shinto, which was not done away with
 officially until the beginning of the Meiji period.
 
@@ -1033,36 +1033,36 @@ and Hideyoshi, who openly avowed his desire for deification, built for
 himself a temple in which he intended to be worshipped after his death
 as Shin Hachiman, the new god of war.
 
-<span id="fn_247"></span>[199:1](chj21.htm#fr_249) For this, see the,
+<span id="fn_247"></span>[199:1](chj21.htm#fr_249.md) For this, see the,
 chapter on *Hossō* in vol. i. of "Bukkyō Kakushū Kōyō."
 
-<span id="fn_248"></span>[200:1](chj21.htm#fr_250) It is interesting to
+<span id="fn_248"></span>[200:1](chj21.htm#fr_250.md) It is interesting to
 note how the different schools of the Mahāyāna nearly all present us
 with a Triad or Trinity. Between this Trinity of Locana, Maitreya,
 Manjuśri, and the Pure-land Trinity of Amitābha, Avalokites’vara, and
 Mahāsthāmaprāpta there is only a difference of names. The concepts are
 identical.
 
-<span id="fn_249"></span>[201:1](chj21.htm#fr_251) Nichiren (see
+<span id="fn_249"></span>[201:1](chj21.htm#fr_251.md) Nichiren (see
 "Sei-go-roku," *passim*)) was very scathing in his denunciation of this
 spurious oracle, as he termed it. Nichirenism had no official connection
 with Ryōbu, and yet, on occasions, it too would turn to Hachiman and
 Tenshōdaijin.
 
-<span id="fn_250"></span>[201:2](chj21.htm#fr_252) *Miwa* is a town in
+<span id="fn_250"></span>[201:2](chj21.htm#fr_252.md) *Miwa* is a town in
 Yamato, with a well-known Shinto temple. The oracle is mentioned by Dr.
 Murakami on p. 859 of his handbook.
 
-<span id="fn_251"></span>[201:3](chj21.htm#fr_253) Most of the present
+<span id="fn_251"></span>[201:3](chj21.htm#fr_253.md) Most of the present
 funeral customs of Japan date from the Nara period. Strange to say, most
 of them imply the continuance of the soul after death. This is
 absolutely contrary to the original doctrines of Buddhism; but the
 Japanese belief in immortality was too deeply engrained to be easily
 eradicated.
 
-<span id="fn_252"></span>[202:1](chj21.htm#fr_254) See Nanjo, No. 87.
+<span id="fn_252"></span>[202:1](chj21.htm#fr_254.md) See Nanjo, No. 87.
 
-<span id="fn_253"></span>[202:2](chj21.htm#fr_255) The list of
+<span id="fn_253"></span>[202:2](chj21.htm#fr_255.md) The list of
 Avatamsaka Sūtras given by Nanjo gives us some data for fixing the age
 of Nāgārjuna. One of the chapters was translated by Lokaraksha of the
 Han Dynasty who reached Loyang in A.D. 147. It would follow that
@@ -1073,10 +1073,10 @@ agrees very well both with the translation of the chapter by Lokaraksha
 and with the year assigned by Eusebius and other writers for the
 *terminus a quo* of Gnosticism.
 
-<span id="fn_254"></span>[203:1](chj21.htm#fr_256) Nanjo, "Cat. of
+<span id="fn_254"></span>[203:1](chj21.htm#fr_256.md) Nanjo, "Cat. of
 Tripitaka," Nos. 87, 88.
 
-<span id="fn_255"></span>[203:2](chj21.htm#fr_257) Mr. G. Sakurai, in
+<span id="fn_255"></span>[203:2](chj21.htm#fr_257.md) Mr. G. Sakurai, in
 the now defunct *Hansei Zasshi*, vol. xiii. p. 12, says that in A.D. 781
 one of the Indian translators of the Tang period, Prajnã by name, who
 had come to China in order to get near the scene of Manjuśri's labours,
@@ -1088,12 +1088,12 @@ that King Ching should devote himself to preaching the doctrines of
 *Meshiho* (Messiah), leaving the Buddhists to propagate the teachings of
 S’akyamuni. The book therefore appears in Prajnã's name only.
 
-<span id="fn_256"></span>[203:3](chj21.htm#fr_258) Vairoc’ana is said to
+<span id="fn_256"></span>[203:3](chj21.htm#fr_258.md) Vairoc’ana is said to
 be distinct from the Roshana of the Hossō, though in practice he is
 almost always identified with him. I have drawn my materials from the
 chapters on Hossū and Kegon in "Bukkyō Kakushū Kōyō," vol. i.
 
-<span id="fn_257"></span>[204:1](chj21.htm#fr_259) It is very
+<span id="fn_257"></span>[204:1](chj21.htm#fr_259.md) It is very
 interesting to trace chronologically the workings of the different
 Buddhist sects in the early years of Japanese Buddhism. Of the rival
 Trinities, the first to reach Japan is undoubtedly that which has
@@ -1105,53 +1105,53 @@ impossible. Finally, Hōnen and Shinran, in the twelfth century, get the
 courage of their convictions, and proclaim Amida as the True and only
 Refuge of the Buddhist believer.
 
-<span id="fn_258"></span>[204:2](chj21.htm#fr_260) I would call the
+<span id="fn_258"></span>[204:2](chj21.htm#fr_260.md) I would call the
 attention of the European reader to the very suggestive work "Le Japon,"
 by M. de la Mazelière, of which, I believe, three volumes have appeared.
 The author brings out very clearly the <span id="page_205">p. 205</span>
 points of Japan's indebtedness to China and India for the materials of
 much of her religious thought.
 
-<span id="fn_259"></span>[205:1](chj21.htm#fr_261) The practice of
+<span id="fn_259"></span>[205:1](chj21.htm#fr_261.md) The practice of
 reckoning time by certain periods of years arbitrarily fixed from time
 to time, for the purpose of worrying the historian, had been long in
 vogue in China. Kōtoku introduced it in Japan, and there have been over
 240 such periods since that time.
 
-<span id="fn_260"></span>[205:2](chj21.htm#fr_262) The Ōmi and Ōmuraji
+<span id="fn_260"></span>[205:2](chj21.htm#fr_262.md) The Ōmi and Ōmuraji
 were in ancient times the ministers of the Emperor. The offices were
 hereditary. The new offices were not so in intention, but the Japanese
 is an oligarch by constitution, and the new offices gradually came to be
 monopolized by certain families.
 
-<span id="fn_261"></span>[206:1](chj21.htm#fr_263) That is the Buddhist
+<span id="fn_261"></span>[206:1](chj21.htm#fr_263.md) That is the Buddhist
 version. It is claimed by Soga's enemies that he, true to family
 traditions, was aspiring to the crown.
 
-<span id="fn_262"></span>[206:2](chj21.htm#fr_264) To estimate the
+<span id="fn_262"></span>[206:2](chj21.htm#fr_264.md) To estimate the
 greatness of this aristocratic family, which has supplied such a long
 list of imperial consorts, the student is referred to the pages devoted
 to the subject in Fr. Papinot's "Dictionnaire d’Histoire et de
 Géographie du Japon."
 
-<span id="fn_263"></span>[206:3](chj21.htm#fr_265) For the Taihōryō, see
+<span id="fn_263"></span>[206:3](chj21.htm#fr_265.md) For the Taihōryō, see
 *Transactions Asiatic Society of Japan*, vol. viii. p. 145.
 
-<span id="fn_264"></span>[206:4](chj21.htm#fr_266) Of the "Kojiki" there
+<span id="fn_264"></span>[206:4](chj21.htm#fr_266.md) Of the "Kojiki" there
 is a translation by Chamberlain (*Asiatic Society of Japan*, vol. x.,
 Supp.); of the "Nihongi," one in English by Aston (Japan Society,
 London, Supp. I.); and one in German by Florenz (*Mitteilungen der
 deutschen Gesellschaft für Natur and Völkerkunde Ostasiens*. Tokyo).
 
-<span id="fn_265"></span>[207:1](chj21.htm#fr_267) See, *e.g.*, vol. i.
+<span id="fn_265"></span>[207:1](chj21.htm#fr_267.md) See, *e.g.*, vol. i.
 of Murdoch's "History of Japan."
 
-<span id="fn_266"></span>[207:2](chj21.htm#fr_268) I specially notice
+<span id="fn_266"></span>[207:2](chj21.htm#fr_268.md) I specially notice
 this particular instance, because the mention of venison seems to
 connect it with the deer Jātaka, which reappears in Christian folklore
 as the legend of St. Eustathius, and afterwards as that of St. Hubert.
 
-<span id="fn_267"></span>[208:1](chj21.htm#fr_269) The Sui dynasty ruled
+<span id="fn_267"></span>[208:1](chj21.htm#fr_269.md) The Sui dynasty ruled
 in China from 589–619 A.D. They came to power at the close of a long
 period of division, the Empire having been previously divided into many
 small kingdoms, with Chinese rulers south of the Yangtse, and Tartar or
@@ -1167,7 +1167,7 @@ debauchery and extravagance, who brought the Empire to the verge of
 ruin. He was overthrown by Li-yüan of the Tang family, who ascended the
 throne in A.D. 618, as Kaotsu.
 
-<span id="fn_268"></span>[209:1](chj21.htm#fr_270) It will be well to
+<span id="fn_268"></span>[209:1](chj21.htm#fr_270.md) It will be well to
 remember that under the earlier Tang Emperors, Chinese Viceroyalties
 extended as far as the frontiers of the Persian Empire, and that even
 monarchs like Siladitya Harsha of Kanauj acknowledged Chinese influence.
@@ -1178,7 +1178,7 @@ thereto by petitions from Chinese literati. Buddhism had many enemies:
 dissolved the Buddhist monasteries, and even uprooted the famous
 Bodhi-tree. V. A. Smith, "Early History of India."
 
-<span id="fn_269"></span>[209:2](chj21.htm#fr_271) It will be well to
+<span id="fn_269"></span>[209:2](chj21.htm#fr_271.md) It will be well to
 keep a few dates in mind. The first Persian Temple (whether Zoroastrian
 or Manichæan is not quite clear) was erected at Singanfu, in 621, three
 years after Kaotsu's accession. The Persian Empire, under Chosroes II.,
@@ -1195,7 +1195,7 @@ have been before his conversion to Buddhism, which seems to have been
 about 645 (V. A. Smith," Early History of India"). The Persians were
 evidently looking everywhere for helpful allies.
 
-<span id="fn_270"></span>[209:3](chj21.htm#fr_272) Shōtoku Taishi's
+<span id="fn_270"></span>[209:3](chj21.htm#fr_272.md) Shōtoku Taishi's
 political activity may be said to have begun with <span id="page_210">p.
 210</span> the battle of Shikisen in 587, when the Shinto supporters
 were crushed. He became Crown Prince in 593, proclaimed Buddhism in 595,
@@ -1203,12 +1203,12 @@ promulgated his Constitution of 17 Articles in 604, sent his celebrated
 letter to the "Emperor of the West" (Yangti of Sui) in 609, and died in
 621. With him may be said to end the Korean period of Japanese Buddhism.
 
-<span id="fn_271"></span>[210:1](chj21.htm#fr_273) Korea, divided into
+<span id="fn_271"></span>[210:1](chj21.htm#fr_273.md) Korea, divided into
 several small states, was fluctuating in allegiance between China and
 Japan. Yangti of Sui sent an expedition to Korea (A.D. 615), and Shōtoku
 was much concerned to preserve Japanese influence in the peninsula.
 
-<span id="fn_272"></span>[210:2](chj21.htm#fr_274) With a few
+<span id="fn_272"></span>[210:2](chj21.htm#fr_274.md) With a few
 exceptions, the early books translated by the Buddhist missionaries of
 the Han period (ended A.D. 220) and of the era of confusion which
 followed, were so badly done as to be practically unintelligible.
@@ -1219,13 +1219,13 @@ provided fresh translations were the Sukhāvati Vyūhas and the Hokekyō.
 Kum, therefore marks a new period in the history of the Chinese
 Buddhism.
 
-<span id="fn_273"></span>[210:3](chj21.htm#fr_275) Not even with
+<span id="fn_273"></span>[210:3](chj21.htm#fr_275.md) Not even with
 Kumarajīva's efforts could Buddhism in China be brought into a
 satisfactory condition. Bodhidharma's efforts were devoted to
 introducing a form of Buddhism which should not depend upon books, but
 teach men by contemplation to get straight to the Heart of Buddha.
 
-<span id="fn_274"></span>[211:1](chj21.htm#fr_276) Hiouen Thsang, born
+<span id="fn_274"></span>[211:1](chj21.htm#fr_276.md) Hiouen Thsang, born
 A.D. 602, enters the Order 622, about the time of Kaotsu's edict against
 the monasteries; unable to satisfy his mind, starts for India, 629,
 meets Silabhadra in India and enters the Nalanda monastery in 638,
@@ -1237,13 +1237,13 @@ by Dōshō, a student under Hiouen Thsang. It is noteworthy that H. T. did
 not bring Amidaism of the Zendō type back from India. Perhaps he did not
 find it there.
 
-<span id="fn_275"></span>[211:2](chj21.htm#fr_277) Kaeuffer, "Geschichte
+<span id="fn_275"></span>[211:2](chj21.htm#fr_277.md) Kaeuffer, "Geschichte
 Ostasiens," vol. ii. p. 659.
 
-<span id="fn_276"></span>[212:1](chj21.htm#fr_278) Tada,
+<span id="fn_276"></span>[212:1](chj21.htm#fr_278.md) Tada,
 "Shōshingekōwa," p. 347.
 
-<span id="fn_277"></span>[212:2](chj21.htm#fr_279) The Kwangyō, which is
+<span id="fn_277"></span>[212:2](chj21.htm#fr_279.md) The Kwangyō, which is
 the second longest of the three Jōdo books, was not translated into
 Chinese until A.D. 424, its translator being Kalayasas, a contemporary
 of Kumārajiva. The Larger Sukhāvati Vyūha was translated as early as
@@ -1258,7 +1258,7 @@ id="img_21200"></span> ![](img/21200.jpg)), where he was besieged and
 taken prisoner by a king named Fu Ken (<span id="img_21201"></span>
 ![](img/21201.jpg)), who ruled over one of the Central Asian
 principalities. During Dōan's lifetime, the Tsin Emperor Hiao-wu-ti was
-converted to Buddhism, chiefly owing [to](errata.htm#5) Tangut
+converted to Buddhism, chiefly owing [to](errata.htm#5.md) Tangut
 influences. Dōan professed to have the aid of Pindola (Jap. Bindzuru),
 and was devoted to all the Buddhas, though perhaps especially to Amida,
 as may be inferred from his nickname *Miten no Dōan*, "Doan of Mida's
@@ -1271,8 +1271,8 @@ anything definite about Amida from India. This is especially noticeable
 in the case of Hiouen Thsang, and it seems to point to the Central Asian
 origin of the Amida cult.
 
-<span id="fn_278"></span>[213:1](chj21.htm#fr_280) It is said of Eon
-that he was so strict in his observance of [Buddhist](errata.htm#6)
+<span id="fn_278"></span>[213:1](chj21.htm#fr_280.md) It is said of Eon
+that he was so strict in his observance of [Buddhist](errata.htm#6.md)
 discipline that when, on his deathbed, he was ordered to take honey, he
 first set his pupils to find out whether the Buddhist rule permitted it.
 While they were still examining, he died. Once he broke his rule of
@@ -1293,11 +1293,11 @@ salvation. A ray of light issues from him, and the legend above him is
 will save you"—the meaning of the word *Jesus*, but not that of the
 Buddhist legend.
 
-<span id="fn_279"></span>[214:1](chj21.htm#fr_281) The *Chow* \[circ.
+<span id="fn_279"></span>[214:1](chj21.htm#fr_281.md) The *Chow* \[circ.
 560) were a northern Kingdom, a rival, of the Wei, whose territories and
 powers they gradually usurped.
 
-<span id="fn_280"></span>[214:2](chj21.htm#fr_282) *Donran* died in 533.
+<span id="fn_280"></span>[214:2](chj21.htm#fr_282.md) *Donran* died in 533.
 Like all the Amidaists, he was not a pure Chinaman, but a subject of one
 of the small northern kingdoms. Wu-ti, of the Liang, *circ*. A.D. 528,
 was a great admirer of Donran's. It is interesting to note that shortly
@@ -1313,22 +1313,22 @@ Buddhist. The *Dō* in Zendō's name is slightly different (<span
 id="img_21405"></span> ![](img/21405.jpg)), as though to emphasize some
 new principle that had come into his teaching.
 
-<span id="fn_281"></span>[215:1](chj21.htm#fr_283) Tada, "Shōshinge
+<span id="fn_281"></span>[215:1](chj21.htm#fr_283.md) Tada, "Shōshinge
 Kōwa," p. 349.
 
-<span id="fn_282"></span>[215:2](chj21.htm#fr_284) This is Mr.
+<span id="fn_282"></span>[215:2](chj21.htm#fr_284.md) This is Mr.
 Murakami's division in *Bukkyo Hyakkwa Hōten*. But there are other
 disciples of Zendō in Japan, who do not trace their descent through
 Genkū and Shinran, notably the *Yūdzūnembutsu* and *Ji* sects,
 concerning whom a note will be given later on in this chapter.
 
-<span id="fn_283"></span>[215:3](chj21.htm#fr_285) Murakami, "Bukkyo
+<span id="fn_283"></span>[215:3](chj21.htm#fr_285.md) Murakami, "Bukkyo
 Hyakkwa Hōten," p. 493.
 
-<span id="fn_284"></span>[216:1](chj21.htm#fr_286) P. Gaubil, "Mém. des
+<span id="fn_284"></span>[216:1](chj21.htm#fr_286.md) P. Gaubil, "Mém. des
 Chinois," vol. xv. p. 399.
 
-<span id="fn_285"></span>[216:2](chj21.htm#fr_287) Acc. to the authors
+<span id="fn_285"></span>[216:2](chj21.htm#fr_287.md) Acc. to the authors
 of *Mem. Conc. la Chine* (see xvi. 227, also <span id="page_217">p.
 217</span> Kaeuffer, ii. 663) the first mention of *Moni* or Manichæan
 monks among the Tartar tribes occurs in 786. I am indebted to my friend
@@ -1348,7 +1348,7 @@ should be called Taishinji, whether in the two capitals or in the
 neighbouring country districts. In the third year of Daireki (Chin.
 Ta-lai), *i.e.* 768, Taitsung authorized Persian subjects to erect *Dai
 Un Kōmyōji* (<span id="img_21700"></span> ![](img/21700.jpg)), evidently
-as something distinct from the [Taishinji](errata.htm#8), also as
+as something distinct from the [Taishinji](errata.htm#8.md), also as
 distinct from Buddhism. Again, in the third year of the Emperor Wutsung,
 A.D. 843, all Manichæan Temples were closed and many of their priests,
 nuns, and laity put to death or sent into exile. In the meantime the
@@ -1364,7 +1364,7 @@ difficult not to connect this with the Faith that Zendō had preached.
 "Annalen des Japanischen Buddhismus," p. 318, and Dévéria, *Journal
 Asiatique*, ix.–x. p. 445).
 
-<span id="fn_286"></span>[218:1](chj21.htm#fr_288) I would like to call
+<span id="fn_286"></span>[218:1](chj21.htm#fr_288.md) I would like to call
 attention to an excellent article entitled the "Mystery of Fulin," by
 Dr. Hirth, of Columbia, which has just appeared in vol. xxx., part 1, of
 the *Journal of the Am. Oriental Society*. Dr. Hirth has long maintained
@@ -1397,10 +1397,10 @@ this title unless it had been (posthumously perhaps) conferred on him by
 the Emperor (see Murakami, *op. cit.*, p. 804; and E. A. Parker, "Notes
 on the Nestorians," *J.R.A.S*, North China Branch, vol. xxiv. p. 297).
 
-<span id="fn_287"></span>[219:1](chj21.htm#fr_289) It is to be found in
+<span id="fn_287"></span>[219:1](chj21.htm#fr_289.md) It is to be found in
 the Buddhist Canon. See Nanjo's Catalogue, No. 1004.
 
-<span id="fn_288"></span>[219:2](chj21.htm#fr_290) Prof. Takakusu called
+<span id="fn_288"></span>[219:2](chj21.htm#fr_290.md) Prof. Takakusu called
 attention to Prajna in his Translation of I-Tsing's "Record of the
 Buddhist Religion," (Oxford, 1896). *Mishiho* is Messiah. Among the Jews
 in Kaifongfu, in Honan, are preserved portions of the prophets Zechariah
@@ -1411,7 +1411,7 @@ later made the title of the well-known Japanese Jōdo book, the *Fushi
 Sōgō*. I am much indebted to Dr. Haas, of Heidelberg, for calling my
 attention to this matter.
 
-<span id="fn_289"></span>[220:1](chj21.htm#fr_291) Tada says that
+<span id="fn_289"></span>[220:1](chj21.htm#fr_291.md) Tada says that
 Zendō's preaching was so persuasive that many of his hearers committed
 suicide by burning themselves alive. Mr. Tada rightly feels called upon
 to apologize for this; but no student of the Hokekyō will need to be
@@ -1426,19 +1426,19 @@ the occurrence. *Nyūjō* literally means "to enter into the state of
 determination," though Hepburn in his Dictionary, explains it as meaning
 voluntary suicide by fire.
 
-<span id="fn_290"></span>[221:1](chj21.htm#fr_292) See Nanjo, "Short
+<span id="fn_290"></span>[221:1](chj21.htm#fr_292.md) See Nanjo, "Short
 History of the Twelve Buddhist Sects," p. 107.
 
-<span id="fn_291"></span>[222:1](chj21.htm#fr_293) See Haas, *op. cit.*
+<span id="fn_291"></span>[222:1](chj21.htm#fr_293.md) See Haas, *op. cit.*
 I am much indebted to this work. I have already shown, in notes on
 Hiouen Thsang and the Manichees, how quickly Japan, at this particular
 period, was moved by any new religious movement in the capital of the
 Tangs.
 
-<span id="fn_292"></span>[222:2](chj21.htm#fr_294) See "Melanges
+<span id="fn_292"></span>[222:2](chj21.htm#fr_294.md) See "Melanges
 Japonais," vol. iii. p. 287.
 
-<span id="fn_293"></span>[222:3](chj21.htm#fr_295) Murakami, *op. cit.*,
+<span id="fn_293"></span>[222:3](chj21.htm#fr_295.md) Murakami, *op. cit.*,
 pp. 145–6. A little point, worthy of remark, is the following. In 639,
 Olopen, having established his missionaries at Singanfu, goes on to
 India and visits the court of Siladitya Harsha, at Kanauj. Shortly after
@@ -1451,7 +1451,7 @@ they are followed by a period of enthusiasm for works of charity which
 continues for a while, until the tares spring up and choke the good
 seed, and the Tendai, the ancient enemies of Zendō, get the upper hand.
 
-<span id="fn_294"></span>[223:1](chj21.htm#fr_296) The following are the
+<span id="fn_294"></span>[223:1](chj21.htm#fr_296.md) The following are the
 data known about the Nestorian doctor Rimitsu. In the year A.D. 739
 there arrived from China a ship-load of distinguished persons. (1) Kibi
 Mabi, who had been studying in China since 716, and who brought back
@@ -1482,7 +1482,7 @@ charitable. He was a syncretist, and first originated the Ryōbu doctrine
 in Japan, stimulated thereto by the example of the Buddhists and Taoists
 in China.
 
-<span id="fn_295"></span>[224:1](chj21.htm#fr_297) It is said of Zendō
+<span id="fn_295"></span>[224:1](chj21.htm#fr_297.md) It is said of Zendō
 that he and his disciples were much given to itinerant preaching. So
 were the Nestorians. The Greek merchant Cosmas Indicopleustes, who was
 in India A.D. 535, mentions a Nestorian order of itinerant preachers
@@ -1503,4 +1503,4 @@ supposed to be always travelling about the country preaching.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Heian Buddhism](chj22)
+[Next: Chapter XX. Heian Buddhism](chj22.md)

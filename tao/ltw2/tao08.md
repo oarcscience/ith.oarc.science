@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao08)   
-[Previous](tao07)  [Next](tao09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao08.md)   
+[Previous](tao07)  [Next](tao09.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ Inasmuch as we are never seeking pre-eminence, no one will hate us.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](tao09)
+[Next: Chapter 9](tao09.md)

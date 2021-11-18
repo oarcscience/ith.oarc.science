@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf40) [Next](bulf42) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf40) [Next](bulf42.md) 
 
 # CHAPTER XLII.
 
@@ -84,4 +84,4 @@ their sorrow and their praise for the good and great man, Beowulf.
 
 ------------------------------------------------------------------------
 
-Next: [Proverbial Expressions](bulf42)
+Next: [Proverbial Expressions](bulf42.md)

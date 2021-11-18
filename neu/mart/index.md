@@ -1,5 +1,5 @@
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -20,24 +20,24 @@ and Sagas](../index) </span>
 <span class="small">*Image: How Arthur drew his sword Excalibur for the
 first time (Arthur Rackham).*</span>
 
-[BOOK I](book00)  
-[BOOK II](book01)  
-[BOOK III](book02)  
-[BOOK IV](book03)  
-[BOOK V](book04)  
-[BOOK VI](book05)  
-[BOOK VII](book06)  
-[BOOK VIII](book07)  
-[BOOK IX](book08)  
-[BOOK X](book09)  
-[BOOK XI](book10)  
-[BOOK XII](book11)  
-[BOOK XIII](book12)  
-[BOOK XIV](book13)  
-[BOOK XV](book14)  
-[BOOK XVI](book15)  
-[BOOK XVII](book16)  
-[BOOK XVIII](book17)  
-[BOOK XIX](book18)  
-[BOOK XX](book19)  
-[BOOK XXI](book20)  
+[BOOK I](book00.md)  
+[BOOK II](book01.md)  
+[BOOK III](book02.md)  
+[BOOK IV](book03.md)  
+[BOOK V](book04.md)  
+[BOOK VI](book05.md)  
+[BOOK VII](book06.md)  
+[BOOK VIII](book07.md)  
+[BOOK IX](book08.md)  
+[BOOK X](book09.md)  
+[BOOK XI](book10.md)  
+[BOOK XII](book11.md)  
+[BOOK XIII](book12.md)  
+[BOOK XIV](book13.md)  
+[BOOK XV](book14.md)  
+[BOOK XVI](book15.md)  
+[BOOK XVII](book16.md)  
+[BOOK XVIII](book17.md)  
+[BOOK XIX](book18.md)  
+[BOOK XX](book19.md)  
+[BOOK XXI](book20.md)  

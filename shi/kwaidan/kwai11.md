@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai10)  [Next](kwai12) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai10)  [Next](kwai12.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ and the secret died with him.
 
 ------------------------------------------------------------------------
 
-[Next: Yuki-Onna](kwai12)
+[Next: Yuki-Onna](kwai12.md)

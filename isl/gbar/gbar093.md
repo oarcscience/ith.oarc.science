@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar092) [Next](gbar094)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar092) [Next](gbar094.md)
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ wretched Judaea, deceived of Satan!'
 
 ------------------------------------------------------------------------
 
-[Next](gbar094)
+[Next](gbar094.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm17)  [Next](tsm19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm17)  [Next](tsm19.md) 
 
 ------------------------------------------------------------------------
 
@@ -432,4 +432,4 @@ For Fergus More must die to-night.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Land of Green Mountains](tsm19)
+[Next: Chapter XVI. The Land of Green Mountains](tsm19.md)

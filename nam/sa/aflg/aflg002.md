@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg001) [Next](aflg003)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg001) [Next](aflg003.md)
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ WALTER E. ROTH.   
 
 ------------------------------------------------------------------------
 
-[Next](aflg003)
+[Next](aflg003.md)

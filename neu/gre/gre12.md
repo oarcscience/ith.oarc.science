@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre11)  [Next](gre13) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre11)  [Next](gre13.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ mentioned, went abroad with Onund.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](gre13)
+[Next: Chapter VIII](gre13.md)

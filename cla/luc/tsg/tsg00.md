@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Next](tsg01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Next](tsg01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE91S/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Syrian Goddess*, by Lucian, tr. by Herbert A. Strong and John
 Garstang, \[1913\], at Intangible Textual Heritage
 
@@ -17,20 +17,20 @@ Garstang, \[1913\], at Intangible Textual Heritage
 
 <span id="img_cover"></span> <span align="CENTER">
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 </span>
 
 <span id="img_front"></span> <span align="CENTER">
 [![Frontispiece.&lt;br&gt; THE SYRIAN GODDESS, ON COINS OF
 HIERAPOLIS.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece.  
 THE SYRIAN GODDESS, ON COINS OF HIERAPOLIS.  
 </span>
 
-*Cf*. *Figs*. [5](tsg04.htm#img_fig05), [7](tsg07.htm#img_fig07).
-(*Scale* 3:4.) *See* *p*. [21](tsg04.htm#page_21).
+*Cf*. *Figs*. [5](tsg04.htm#img_fig05), [7](tsg07.htm#img_fig07.md).
+(*Scale* 3:4.) *See* *p*. [21](tsg04.htm#page_21.md).
 
 <span id="page_i">p. i</span>
 
@@ -74,7 +74,7 @@ THE SYRIAN GODDESS
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -86,7 +86,7 @@ United States because it was published prior to 1923.
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
@@ -98,4 +98,4 @@ THE REV. PROFESSOR A. H. SAYCE,
 
 ------------------------------------------------------------------------
 
-[Next: Editor's Preface](tsg01)
+[Next: Editor's Preface](tsg01.md)

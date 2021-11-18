@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi014)  [Next](mtsi016) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi014)  [Next](mtsi016.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ life.
 
 ------------------------------------------------------------------------
 
-[Next: 14. The Water Panther (Leopard)](mtsi016)
+[Next: 14. The Water Panther (Leopard)](mtsi016.md)

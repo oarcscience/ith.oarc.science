@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod06)  [Next](hod08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod06)  [Next](hod08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -46,14 +46,14 @@ have the documentary evidence in the "Gathas" that he was a real
 historical personality.
 
 Prof. A. V. Williams Jackson in an essay "On the Date of
-Zoroaster" <span id="fr_17"></span>[1](#fn_17) arrives at the conclusion
+Zoroaster" <span id="fr_17"></span>[1](#fn_17.md) arrives at the conclusion
 that he lived between the latter half of the seventh and the middle of
 the sixth century, and Dr. E. W. West <span
-id="fr_18"></span>[2](#fn_18) points out that the calendar reform, in
+id="fr_18"></span>[2](#fn_18.md) points out that the calendar reform, in
 which the old Persian names of the months were supplanted by Zoroastrian
 names, was introduced in the year 505 B. C. This proves that the kings
 of the Achæmenian dynasty were Zoroastrians. <span
-id="fr_19"></span>[3](#fn_19) Professor Jackson says:
+id="fr_19"></span>[3](#fn_19.md) Professor Jackson says:
 
 <span class="small">"The kingdom of Bactria was the scene of Zoroaster's
 zealous ministry, as I presume. Born, as I believe, in Atropatene, to
@@ -110,12 +110,12 @@ degraded the old nature-gods, the daêvas, into demons,
 
 but also regarded them as representatives of a fiendish power which he
 called *Angrô Mainyush*, or *Ahriman*, which means "the evil spirit,"
-and *Druj*, <span id="fr_20"></span>[1](#fn_20) i. e., falsehood.
+and *Druj*, <span id="fr_20"></span>[1](#fn_20.md) i. e., falsehood.
 
 The Scythians in the plains of Northern Asia, the most dangerous
 neighbors of Persia, worshipped their highest deity under the symbol of
 a serpent, and it was natural that the snake Afrasiâb, <span
-id="fr_21"></span>[2](#fn_21) the god of the enemy, became identified
+id="fr_21"></span>[2](#fn_21.md) the god of the enemy, became identified
 with the archfiend Ahriman.
 
 The Persians are often erroneously called fire worshippers, but it goes
@@ -131,7 +131,7 @@ creative, and both were original in being themselves uncreated. They
 were the representatives of contradictory principles. And this doctrine
 constitutes the dualism of the Persian religion, which is most
 unmistakably expressed in the words of the thirtieth Yasna. <span
-id="fr_22"></span>[3](#fn_22)
+id="fr_22"></span>[3](#fn_22.md)
 
 <span class="small">"Well known are the two primeval spirits correlated
 but independent; one is the better and the other is the worse as to
@@ -142,9 +142,9 @@ choose aright."</span>
 
 Ahura Mazda, the Omniscient Lord, reveals himself through "the
 excellent, the pure and stirring word." <span
-id="fr_23"></span>[1](#fn_23) On the rock inscription of Elvend, which
+id="fr_23"></span>[1](#fn_23.md) On the rock inscription of Elvend, which
 had been made by the order of king Darius, we read these lines <span
-id="fr_24"></span>[2](#fn_24):
+id="fr_24"></span>[2](#fn_24.md):
 
 <div style="margin-left: 32px">
 
@@ -158,7 +158,7 @@ It is He who has created mortal man."</span>
 The noble spirit of Zoroaster's religion appears from the following
 formula, which was in common use among the Persians and served as an
 introduction to every liturgic worship: <span
-id="fr_25"></span>[3](#fn_25)
+id="fr_25"></span>[3](#fn_25.md)
 
 "May Ahura be rejoiced! May Angrô be destroyed by those who do truly
 what is God's all-important will.
@@ -168,14 +168,14 @@ deeds. I embrace all good thoughts, good words, and good deeds; I reject
 all evil thoughts, evil words, and evil deeds.
 
 "I give sacrifice and prayer unto you, O Ameshâ-Spentâ! <span
-id="fr_26"></span>[4](#fn_26) even with the fulness of my thoughts, of
+id="fr_26"></span>[4](#fn_26.md) even with the fulness of my thoughts, of
 my words, of my deeds, and of my heart: I give unto you even my own
 life.
 
 <span id="page_55">p. 55</span>
 
 "I recite the, 'Praise of Holiness,' the *Ashem Vohu*: <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
 "'Holiness is the best of all good. Well is it for it, well is it for
 that holiness which is perfection of holiness!
@@ -282,7 +282,7 @@ of a virgin" and the "All-conquering." His name shall be the Victorious
 Saviour (*saoshya<u>n</u>t*). Then the living shall become immortal, yet
 their bodies will be transfigured so that they will cast no shadows, and
 the dead shall rise, "within their lifeless bodies incorporate life
-shall be restored." (Fr. 4. 3.)  <span id="fr_28"></span>[1](#fn_28) The
+shall be restored." (Fr. 4. 3.)  <span id="fr_28"></span>[1](#fn_28.md) The
 Persian belief in the advent of a saviour who will make mankind immortal
 seems to reappear in an intenser form in the days of John the Baptist
 and Jesus of Nazareth, who preached that the kingdom of heaven is near
@@ -307,7 +307,7 @@ Fast to Jerusalem according to a prophecy of Zoroaster.
 
 The Persian world-conception, like the religion of the Jews, was too
 abstract to favor any artistic development. <span
-id="fr_29"></span>[1](#fn_29) Therefore we do not possess
+id="fr_29"></span>[1](#fn_29.md) Therefore we do not possess
 representations of
 
 <div align="center">
@@ -359,14 +359,14 @@ Persians.
 Ahura Mazda is pictured as a winged disc without any head, in the style
 of Chaldean sun-pictures, in a cameo representing him as worshipped by
 two sphinxes, between whom the sacred haoma plant is seen (see [p.
-59](#page_59)). In another cameo (see [p. 59](#page_59)) he appears as a
+59](#page_59)). In another cameo (see [p. 59](#page_59).md) he appears as a
 human
 
 <span id="img_06000"></span> <span align="CENTER"> [![SCULPTURES ON A
 ROYAL TOMB.&lt;br&gt; (Coste et Flandin, &lt;i&gt;Perse
 Ancienne&lt;/i&gt;, at Persepolis, pl. 164. Lenormant, V., p.
 23.)](tn/generic.jpg)  
-Click to view](img/06000.jpg)  
+Click to view](img/06000.jpg.md)  
 SCULPTURES ON A ROYAL TOMB.  
 (Coste et Flandin, *Perse Ancienne*, at Persepolis, pl. 164. Lenormant,
 V., p. 23.)  
@@ -386,7 +386,7 @@ loftiness and majesty about
 PERSEPOLIS.&lt;br&gt; (After Coste et Flandin, &lt;i&gt;Perse
 Ancienne&lt;/i&gt;, Pl. 156 . From Lenormant, V., p.
 485.)](tn/generic.jpg)  
-Click to view](img/06100.jpg)  
+Click to view](img/06100.jpg.md)  
 BAS-RELIEF OF PERSEPOLIS.  
 (After Coste et Flandin, *Perse Ancienne*, Pl. 156 . From Lenormant, V.,
 p. 485.)  
@@ -400,10 +400,10 @@ rulers, appearing at the top like a lotus flower.
 
 Prof. A. V. Williams Jackson explains the ring in the hands of Ahura
 Mazda as "the Circle of Sovereignty," <span
-id="fr_30"></span>[1](#fn_30) and interprets the loop with streamers in
+id="fr_30"></span>[1](#fn_30.md) and interprets the loop with streamers in
 which the figure floats as a variation of the same idea, for in some of
 the pictures it appears as a chaplet, or waist-garland with
-ribbons. <span id="fr_31"></span>[2](#fn_31)
+ribbons. <span id="fr_31"></span>[2](#fn_31.md)
 
 It is not possible that the loop with streamers is originally a disc
 representing the disc of the sun after the fashion of Egyptian temple
@@ -416,26 +416,26 @@ and the setting of the sun. Here the sun appears, like the figure from
 which Ahura Mazda rises, as a winged disc with feather-tail and
 streamers. In addition, we find the same picture in the deity that
 protects the tree of life, which can only signify the benign influence
-of the sun on plants (see [p. 36](hod06.htm#page_36)); and the old
+of the sun on plants (see [p. 36](hod06.htm#page_36).md); and the old
 Babylonian cylinder representing Merodach's fight with the evil spirit
 that darkens
 
 <span id="page_63">p. 63</span>
 
-the moon (see p. [37](hod06.htm#page_37)), shows the feathered dial in
+the moon (see p. [37](hod06.htm#page_37).md), shows the feathered dial in
 this same conventional shape covered with clouds. <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 A representation of Ahriman has not yet been discovered among the
 Persian antiquities. There is, however, a bas-relief in Persepolis which
 depicts the king in the act of slaying a unicorn. The monster is very
-similar to the Assyrian Tiamat (see [p. 41](hod06.htm#page_41)), and we
+similar to the Assyrian Tiamat (see [p. 41](hod06.htm#page_41).md), and we
 cannot doubt that the Persian sculptor imitated the style of his
 Assyrian predecessors.
 
 <span id="img_06300"></span> <span align="CENTER"> [![THE KING SLAYING A
 UNICORN.&lt;br&gt; (Bas-relief of Persepolis.)](tn/generic.jpg)  
-Click to view](img/06300.jpg)  
+Click to view](img/06300.jpg.md)  
 THE KING SLAYING A UNICORN.  
 (Bas-relief of Persepolis.)  
 </span>
@@ -486,13 +486,13 @@ the leading nations of the world.
 
 ### Footnotes
 
-<span id="fn_17"></span>[51:1](hod07.htm#fr_17) *Journal of the American
+<span id="fn_17"></span>[51:1](hod07.htm#fr_17.md) *Journal of the American
 Oriental Society*, Vol. XVII., p. 96.
 
-<span id="fn_18"></span>[51:2](hod07.htm#fr_18) In a letter to Professor
+<span id="fn_18"></span>[51:2](hod07.htm#fr_18.md) In a letter to Professor
 Jackson alluded to on page 20 of his essay.
 
-<span id="fn_19"></span>[51:3](hod07.htm#fr_19) The story that Croesus's
+<span id="fn_19"></span>[51:3](hod07.htm#fr_19.md) The story that Croesus's
 life was saved through Zoroastrian influences upon the mind of Cyrus, as
 told by Nicolaus Damascenus who wrote in the first century B. C., is
 quite probable. We read (in fragm. 65, Müller, *Fragm. Hist. Gr.*, iii.,
@@ -502,29 +502,29 @@ the fire should not be defiled. Therefore the Persians shouted that the
 life of Croesus should be spared. Compare Harlez, *Avesta traduit*,
 Introd., pp. xliv., lxvii.
 
-<span id="fn_20"></span>[53:1](hod07.htm#fr_20) *Druj*, fiend, is always
+<span id="fn_20"></span>[53:1](hod07.htm#fr_20.md) *Druj*, fiend, is always
 feminine, while *Ahriman* is masculine.
 
-<span id="fn_21"></span>[53:2](hod07.htm#fr_21) The Turanian form of
+<span id="fn_21"></span>[53:2](hod07.htm#fr_21.md) The Turanian form of
 Afrasiâb, was probably Farrusarrabba.
 
-<span id="fn_22"></span>[53:3](hod07.htm#fr_22) Compare *Sacred Books of
+<span id="fn_22"></span>[53:3](hod07.htm#fr_22.md) Compare *Sacred Books of
 the East*, XXXI., p. 29.
 
-<span id="fn_23"></span>[54:1](hod07.htm#fr_23) "The creative Word which
+<span id="fn_23"></span>[54:1](hod07.htm#fr_23.md) "The creative Word which
 was in the beginning" (Ahuna-Vairyo, Honover) reminds one not only of
 the Christian idea of the λόγος ὁς ἦν ἑν ἀρχή, but also of the Brahman
 *Vâch* (word, etymologically the same as the Latin *vox*), which is
 glorified in the fourth hymn of the Rig Vêda, as "pervading heaven and
 earth, existing in all the worlds and extending to the heavens."
 
-<span id="fn_24"></span>[54:2](hod07.htm#fr_24) Translated from
+<span id="fn_24"></span>[54:2](hod07.htm#fr_24.md) Translated from
 Lenormant's French rendering, *1. c.*, p. 388.
 
-<span id="fn_25"></span>[54:3](hod07.htm#fr_25) Cf. Sacred Books of the
+<span id="fn_25"></span>[54:3](hod07.htm#fr_25.md) Cf. Sacred Books of the
 East, Vol. XXIII., p. 22.
 
-<span id="fn_26"></span>[54:4](hod07.htm#fr_26) The six Ameshâ-Spentâ
+<span id="fn_26"></span>[54:4](hod07.htm#fr_26.md) The six Ameshâ-Spentâ
 (the undying and well-doing ones) are what Christians might call
 archangels. Originally they had been seven, but the first and greatest
 among them, Ahura Mazda, came to overshadow the divinity of the other
@@ -550,31 +550,31 @@ creation of animate life. (See Darmesteter, *Ormuzd et Ahriman*, Paris:
 For an exposition of the modern Parseeism of India see Mr. Dosabhai
 Framji Karaka's *History of the Parsis*, London, 1884.
 
-<span id="fn_27"></span>[55:1](hod07.htm#fr_27) Says Darmesteter: "The
+<span id="fn_27"></span>[55:1](hod07.htm#fr_27.md) Says Darmesteter: "The
 'Ashem Vohu' is one of the holiest and most frequently recited prayers."
 
-<span id="fn_28"></span>[58:1](hod07.htm#fr_28) For a concise statement
+<span id="fn_28"></span>[58:1](hod07.htm#fr_28.md) For a concise statement
 of the Persian religion, which in many respects foreshadows the
 Christian doctrines of a Saviour and of the bodily resurrection of the
 dead, see Prof. A. V. Williams Jackson's excellent article, "The Ancient
 Persian Doctrine of a Future Life," published in the *Biblical World*,
 August, 1896.
 
-<span id="fn_29"></span>[59:1](hod07.htm#fr_29) For Persian art see
+<span id="fn_29"></span>[59:1](hod07.htm#fr_29.md) For Persian art see
 Marcell Dienlafoy's work *L'art antique de la Perse*, in which for the
 present purpose the title vignette and the illustrations on page 4 are
 of interest.
 
-<span id="fn_30"></span>[62:1](hod07.htm#fr_30) See his article on "The
+<span id="fn_30"></span>[62:1](hod07.htm#fr_30.md) See his article on "The
 Circle of Sovereignty," in the *American Oriental Society's
 Proceedings*, May, 1889.
 
-<span id="fn_31"></span>[62:2](hod07.htm#fr_31) See K. O. Kiash,
+<span id="fn_31"></span>[62:2](hod07.htm#fr_31.md) See K. O. Kiash,
 *Ancient Persian Sculptures*; and also Rawlinson, *J. R. A. S.*, X.. p.
 187. Kossowicz, *Inscriptiones Palaeo Persicae Achaemeniodorum*, P. 46
 et seq.
 
-<span id="fn_32"></span>[63:1](hod07.htm#fr_32) There is no need of
+<span id="fn_32"></span>[63:1](hod07.htm#fr_32.md) There is no need of
 enumerating other cylinders and bas-reliefs of the same kind, as they
 are too frequently found in Assyrian archæology. See for instance the
 illustrations in Lenormant, *1. 1.* V., pp. 177, 230, 247, 296, 299,
@@ -582,4 +582,4 @@ etc.
 
 ------------------------------------------------------------------------
 
-[Next: Israel](hod08)
+[Next: Israel](hod08.md)

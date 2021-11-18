@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq29)  [Next](sfq31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq29)  [Next](sfq31.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ started again on their journey.
 
 ------------------------------------------------------------------------
 
-[Next: The Idle Lake](sfq31)
+[Next: The Idle Lake](sfq31.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain07)  [Next](ain09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain07)  [Next](ain09.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ I am going to move the water both ways.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of the Flood](ain09)
+[Next: Notes on the Story of the Flood](ain09.md)

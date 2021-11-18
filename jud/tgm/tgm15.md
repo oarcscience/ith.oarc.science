@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm14)  [Next](tgm16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm14)  [Next](tgm16.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ this was worse.
 <span id="img_06600"></span>
 
 [![](tn/06600.jpg)  
-Click to enlarge](img/06600.jpg)
+Click to enlarge](img/06600.jpg.md)
 
  
 
@@ -92,4 +92,4 @@ were scattered all over the world. But they lived on!
 
 ------------------------------------------------------------------------
 
-[Next: 13. A B C at Twenty-Two](tgm16)
+[Next: 13. A B C at Twenty-Two](tgm16.md)

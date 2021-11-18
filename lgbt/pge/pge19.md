@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge18) 
-[Next](pge20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge18.md) 
+[Next](pge20.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,13 +34,13 @@ heart and brain of the Greek nation, we must reject the favourite
 hypothesis of climate. Climate is, no doubt, powerful to a great extent
 in determining the complexion of sexual morality; yet, as regards
 paiderastia we have abundant proof that nations of the North and of the
-South have, according to circumstances quite [independent](errata.htm#4)
+South have, according to circumstances quite [independent](errata.htm#4.md)
 of climatic conditions, been
 
 <span id="page_61">p. 61</span>
 
 both equally addicted and equally averse to this habit. The
-Etruscan, <span id="fr_182"></span>[1](#fn_182) the Chinese, the ancient
+Etruscan, <span id="fr_182"></span>[1](#fn_182.md) the Chinese, the ancient
 Keltic tribes, the Tartar hordes of Timour Khan, the Persians under
 Moslem rule--races sunk in the sloth of populous cities as well as the
 nomadic children of the Asian steppes, have all acquired a notoriety at
@@ -84,7 +84,7 @@ wrestling-ground, the same young men and boys
 <span id="page_62">p. 62</span>
 
 consorted at the common tables. Their talk fell naturally upon feats of
-[strength](errata.htm#5) and training; nor was it unnatural, in the
+[strength](errata.htm#5.md) and training; nor was it unnatural, in the
 absence of a powerful religious prohibition, that love should spring
 from such discourse and intercourse.
 
@@ -145,7 +145,7 @@ beneath the porches of the Agora, men were all in all unto each other.
 Women meanwhile kept the house at home, gave birth to babies, and reared
 children till such time as the state thought fit to undertake their
 training. It is, moreover, well known that the age at which boys were
-[separated](errata.htm#6) from their mothers was tender. Thenceforth
+[separated](errata.htm#6.md) from their mothers was tender. Thenceforth
 they lived with persons of their own sex; their expanding feelings were
 confined within the sphere of masculine experience until the age arrived
 when marriage had to be considered in the light of a duty to the
@@ -240,12 +240,12 @@ circumstances I have just enumerated.
 
 ### Footnotes
 
-<span id="fn_181"></span>[60:1](pge18.htm#fr_181) See quotations in
+<span id="fn_181"></span>[60:1](pge18.htm#fr_181.md) See quotations in
 Rosenbaum, 119-140.
 
-<span id="fn_182"></span>[61:1](pge19.htm#fr_182) See Athen., xii. 5 17,
+<span id="fn_182"></span>[61:1](pge19.htm#fr_182.md) See Athen., xii. 5 17,
 for an account of their grotesque sensuality.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. Relation of paiderastia to the fine arts](pge20)
+[Next: XVIII. Relation of paiderastia to the fine arts](pge20.md)

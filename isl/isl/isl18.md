@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl17)  [Next](isl19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl17)  [Next](isl19.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ slaves can have only two wives whereas free men may legally have four. .
 
 A temporary marriage, where a man marries a woman (for a contract of)
 ten days (for instance), is null. . . . <span
-id="fr_58"></span>[10](#fn_58)
+id="fr_58"></span>[10](#fn_58.md)
 
 A woman who is adult and of sound mind may be married by virtue of her
 own consent although the contract may not have been made or acceded to
@@ -101,21 +101,21 @@ a matrimonial agent for anyone . . . if the performance of this contract
 were in any respect committed to women its end might be defeated (they
 argue), women being of weak reason and open to flattery and deceit. . .
 . But an adult virgin may not be forced into marriage against her
-will. <span id="fr_59"></span>[11](#fn_59)
+will. <span id="fr_59"></span>[11](#fn_59.md)
 
 <span id="page_121">p. 121</span>
 
 The marriage of a boy or girl under age by the authority of their
 paternal kindred is lawful, the Prophet having declared "Marriage is
 committed to the paternal kindred. . . ." <span
-id="fr_60"></span>[12](#fn_60)
+id="fr_60"></span>[12](#fn_60.md)
 
 Marriage without a dower \[*mahr*: given to the bride by the groom\] is
 valid . . . but this is contrary to the teaching of Mālik. . . . If a
 man marry a woman without specifying any dower . . . she is thereby
 entitled to the (minimum legal dower) *mahr mathl* . . . it shall not
 consist of less than ten *dirhams* \[silver coins\] . . . . <span
-id="fr_61"></span>[13](#fn_61)
+id="fr_61"></span>[13](#fn_61.md)
 
 If a man have two or more wives, all free women (he must cohabit equally
 with them) because the Prophet has said "The man who has two wives and
@@ -125,7 +125,7 @@ such equal partition of cohabitation among his wives, saying, "O God, I
 thus make equal partition as to that which is in my power; do not
 therefore bring me to account for that which is not in my power," (by
 which he means the affections, these not being optional). . . . <span
-id="fr_62"></span>[14](#fn_62)
+id="fr_62"></span>[14](#fn_62.md)
 
  
 
@@ -144,26 +144,26 @@ delivers the sentence in direct and unequivocal terms, as "I have
 divorced you," or "you are divorced." (To be final, the divorce must be
 pronounced three times.) This effects a reversible divorce such as
 leaves it in his power to take her back before the expiration of the
-*‘idda*. <span id="fr_63"></span>[15](#fn_63)
+*‘idda*. <span id="fr_63"></span>[15](#fn_63.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_58"></span>[121:10](isl18.htm#fr_58) Burhān al-Dīn
+<span id="fn_58"></span>[121:10](isl18.htm#fr_58.md) Burhān al-Dīn
 al-Marghinānī, *Al-Hidāya* (2nd ed.; London, 1870), translated by
 Charles Hamilton, pp. 25-33. From reprint of 2nd ed. (Lahore, 1957).
 
-<span id="fn_59"></span>[121:11](isl18.htm#fr_59) *Ibid*., p. 34.
+<span id="fn_59"></span>[121:11](isl18.htm#fr_59.md) *Ibid*., p. 34.
 
-<span id="fn_60"></span>[121:12](isl18.htm#fr_60) *Ibid*., p. 36.
+<span id="fn_60"></span>[121:12](isl18.htm#fr_60.md) *Ibid*., p. 36.
 
-<span id="fn_61"></span>[121:13](isl18.htm#fr_61) *Ibid*., pp. 44, 45.
+<span id="fn_61"></span>[121:13](isl18.htm#fr_61.md) *Ibid*., pp. 44, 45.
 
-<span id="fn_62"></span>[121:14](isl18.htm#fr_62) *Ibid*., p. 66.
+<span id="fn_62"></span>[121:14](isl18.htm#fr_62.md) *Ibid*., p. 66.
 
-<span id="fn_63"></span>[121:15](isl18.htm#fr_63) *Ibid*., p. 72.
+<span id="fn_63"></span>[121:15](isl18.htm#fr_63.md) *Ibid*., p. 72.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Ordinance of the Community](isl19)
+[Next: 3. The Ordinance of the Community](isl19.md)

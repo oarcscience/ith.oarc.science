@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wos08)  [Next](wos10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wos08)  [Next](wos10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Select Works of Sri Sankaracharya*, tr. by S. Venkataramanan, \[1921\],
 at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ self to the effect that I alone am the Supreme and that all things are
 merely superimposed on me. (2).
 
 Sorely afflicted by the sun of the three miseries <span
-id="fr_166"></span>[\*](#fn_160), and perplexed in mind, some one, after
+id="fr_166"></span>[\*](#fn_160.md), and perplexed in mind, some one, after
 acquiring the qualifications of mind-control, etc., asks the good Master
 as follows. (3).
 
@@ -142,7 +142,7 @@ self is the witness and the knower, because it is devoid of change.
 
 By the word "thou" is denoted that which is different from the body,
 senses, mind, life-forces, and ego, and is entirely devoid of the six
-states <span id="fr_167"></span>[\*](#fn_161) or other change. (27).
+states <span id="fr_167"></span>[\*](#fn_161) or other change. (27.md).
 
 Having thus understood the meaning of "thou," one should then
 contemplate the meaning of "that," both by eliminating what is not
@@ -163,14 +163,14 @@ Understand that to be the Brahman in respect of which the Vedas assert
 omniscience, supreme lordship and omnipotence. (31).
 
 Understand that to be the Brahman of which the Vedas explain, by various
-illustrations like clay <span id="fr_168"></span>[\*](#fn_162), etc.,
+illustrations like clay <span id="fr_168"></span>[\*](#fn_162.md), etc.,
 that, by knowing it, all things are known: (32).
 
 <span id="page_193">p. 193</span>
 
 Understand that to be the Brahman, of which the Vedas enunciate
 infinitude and, to establish it, declare the universe to be the effect
-of that. <span id="fr_169"></span>[\*](#fn_163) (33).
+of that. <span id="fr_169"></span>[\*](#fn_163) (33.md).
 
 Understand that to he the Brahman which, in the Vedânta, is established,
 by close reasoning, as the (only) thing to be realised by the aspirants
@@ -181,7 +181,7 @@ having entered all beings as their souls and controlling them. (35).
 
 Understand that to be the Brahman which alone is spoken of in the Vedas
 as the bestower of the reward of actions and the originator of the
-cause <span id="fr_170"></span>[†](#fn_164) of individual existence.
+cause <span id="fr_170"></span>[†](#fn_164.md) of individual existence.
 (36).
 
 <span id="page_194">p. 194</span>
@@ -208,8 +208,8 @@ then? Listen. The inner consciousness remains absolutely as infinite
 bliss by nature. (41).
 
 Further, a sentence like 'that thou art,' in order to denote
-[identity](errata.htm#6), proceeds on the basis of the secondary <span
-id="fr_171"></span>[\*](#fn_165) meaning of the two words 'that' and
+[identity](errata.htm#6.md), proceeds on the basis of the secondary <span
+id="fr_171"></span>[\*](#fn_165.md) meaning of the two words 'that' and
 'thou.' (42).
 
 We shall carefully explain how the sentence makes its own meaning clear,
@@ -224,8 +224,8 @@ the word "thou". (44).
 
 The first cause of the worlds, conditioned by nescience (*mâyâ*),
 characterised by omniscience, etc. <span
-id="fr_172"></span>[\*](#fn_166), of the nature of reality, etc. <span
-id="fr_173"></span>[†](#fn_167), and affected by non-cognisability, is
+id="fr_172"></span>[\*](#fn_166.md), of the nature of reality, etc. <span
+id="fr_173"></span>[†](#fn_167.md), and affected by non-cognisability, is
 expressed by the word "that". (45).
 
 (But) cognisability and non-cognisability, having a second and being
@@ -245,12 +245,12 @@ sentences like "This is he". (48).
 
 Until the sentence-meaning of "I am Brahman" is firmly understood, so
 long should one possess control of mind, etc., and practise (the
-expedients of hearing, <span id="fr_174"></span>[\*](#fn_168) etc.).
+expedients of hearing, <span id="fr_174"></span>[\*](#fn_168) etc..md).
 (49).
 
 When, by the grace of the Vedic teacher, one gets a firm understanding
 (of the above sentence), then is he entirely free from phenomenal
-condition and its cause. <span id="fr_175"></span>[†](#fn_169) (50).
+condition and its cause. <span id="fr_175"></span>[†](#fn_169) (50.md).
 
 <span id="page_198">p. 198</span>
 
@@ -279,35 +279,35 @@ Here ends the Commentary on the Text.
 
 ### Footnotes
 
-<span id="fn_160"></span>[184:\*](wos09.htm#fr_166) See footnote on page
-[86](wos07.htm#page_86).
+<span id="fn_160"></span>[184:\*](wos09.htm#fr_166.md) See footnote on page
+[86](wos07.htm#page_86.md).
 
-<span id="fn_161"></span>[191:\*](wos09.htm#fr_167) Birth, existence,
+<span id="fn_161"></span>[191:\*](wos09.htm#fr_167.md) Birth, existence,
 growth, maturity, decay, and death.
 
-<span id="fn_162"></span>[192:\*](wos09.htm#fr_168) By knowing clay, all
+<span id="fn_162"></span>[192:\*](wos09.htm#fr_168.md) By knowing clay, all
 clay things like pot, etc., are known.
 
-<span id="fn_163"></span>[193:\*](wos09.htm#fr_169) i.e., Brahman is the
+<span id="fn_163"></span>[193:\*](wos09.htm#fr_169.md) i.e., Brahman is the
 cause of the universe.
 
-<span id="fn_164"></span>[193:†](wos09.htm#fr_170) *Mâyâ* or nescience.
+<span id="fn_164"></span>[193:†](wos09.htm#fr_170.md) *Mâyâ* or nescience.
 
-<span id="fn_165"></span>[195:\*](wos09.htm#fr_171) *Lakshya*,
+<span id="fn_165"></span>[195:\*](wos09.htm#fr_171.md) *Lakshya*,
 secondary, indirect or derived, as opposed to *vächya*, primary, direct
 or expressed.
 
-<span id="fn_166"></span>[196:\*](wos09.htm#fr_172) Omniscience,
+<span id="fn_166"></span>[196:\*](wos09.htm#fr_172.md) Omniscience,
 omnipotence, omnipresence.
 
-<span id="fn_167"></span>[196:†](wos09.htm#fr_173) Reality, knowledge,
+<span id="fn_167"></span>[196:†](wos09.htm#fr_173.md) Reality, knowledge,
 infinity.
 
-<span id="fn_168"></span>[197:\*](wos09.htm#fr_174) Hearing, meditation
+<span id="fn_168"></span>[197:\*](wos09.htm#fr_174.md) Hearing, meditation
 and concentration.
 
-<span id="fn_169"></span>[197:†](wos09.htm#fr_175) Nescience or *mâyâ*.
+<span id="fn_169"></span>[197:†](wos09.htm#fr_175.md) Nescience or *mâyâ*.
 
 ------------------------------------------------------------------------
 
-[Next: Definition of One's Own Self](wos10)
+[Next: Definition of One's Own Self](wos10.md)

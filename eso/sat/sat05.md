@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat04)  [Next](sat06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat04)  [Next](sat06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -33,7 +33,7 @@ Textual Heritage
 <span class="small">HOW THAT ALL WHATEVER IS SPOKEN OF GOD WITHOUT THE
 KNOWLEDGE OF THE SIGNATURE IS DUMB AND WITHOUT UNDERSTANDING; AND THAT
 IN THE MIND OF MAN THE SIGNATURE LIES VERY EXACTLY COMPOSED ACCORDING TO
-THE ESSENCE OF ALL ESSENCES <span id="fr_5"></span>[1](#fn_5)</span>
+THE ESSENCE OF ALL ESSENCES <span id="fr_5"></span>[1](#fn_5.md)</span>
 
 1\. <span class="smallcaps">All</span> whatever is spoken, written, or
 taught of God, without the knowledge of the signature is dumb and void
@@ -61,7 +61,7 @@ to form in the principle.
 <span id="page_10">p. 10</span>
 
 3\. So that in the word may be understood in what the spirit has
-conceived, <span id="fr_6"></span>[1](#fn_6) either in good or evil; and
+conceived, <span id="fr_6"></span>[1](#fn_6.md) either in good or evil; and
 with this signature he enters into another man's form, and awakens also
 in the other such a form in the signature; so that both forms mutually
 assimulate together in one form, and then there is one comprehension,
@@ -83,9 +83,9 @@ wise master that can strike his instrument, which is the true spirit of
 the high might of eternity; if that be quickened in man, that it stirs
 and acts in the centre of the mind, then it plays on the instrument of
 the human form, and even then the form is uttered <span
-id="fr_7"></span>[2](#fn_7) with the sound in the word: As his
+id="fr_7"></span>[2](#fn_7.md) with the sound in the word: As his
 instrument was set in the time of his incarnation, <span
-id="fr_8"></span>[3](#fn_8) so it sounds, and so is his knowledge; the
+id="fr_8"></span>[3](#fn_8.md) so it sounds, and so is his knowledge; the
 inward manifests itself in the sound of the word, for that is the mind's
 natural knowledge of itself.
 
@@ -149,7 +149,7 @@ quality, so it is signed and marked externally in its outward form,
 signature, or figure; man in his speech, will, and behaviour, also with
 the form of the members which he has, and must use to that signature,
 his inward form is noted in the form of his face; <span
-id="fr_9"></span>[1](#fn_9) and thus also is a beast, an herb, and
+id="fr_9"></span>[1](#fn_9.md) and thus also is a beast, an herb, and
 
 <span id="page_12">p. 12</span>
 
@@ -188,7 +188,7 @@ given to everything its language according to its essence and form, for
 out of the essence the language or sound arises, and the fiat of that
 essence forms the quality of the essence in the voice or virtue which it
 sends forth, to the animals in the sound, and to the essentials <span
-id="fr_10"></span>[1](#fn_10) in smell, virtue, and form.
+id="fr_10"></span>[1](#fn_10.md) in smell, virtue, and form.
 
 15\. Everything has its mouth to manifestation; and this is the language
 of nature, whence everything speaks out of its property, and continually
@@ -200,19 +200,19 @@ essence and the will to the form.
 
 ### Footnotes
 
-<span id="fn_5"></span>[9:1](sat05.htm#fr_5) Being of all beings.
+<span id="fn_5"></span>[9:1](sat05.htm#fr_5.md) Being of all beings.
 
-<span id="fn_6"></span>[10:1](sat05.htm#fr_6) Or, formed itself; or
+<span id="fn_6"></span>[10:1](sat05.htm#fr_6.md) Or, formed itself; or
 originally put forth itself.
 
-<span id="fn_7"></span>[10:2](sat05.htm#fr_7) proceeds from the mouth.
+<span id="fn_7"></span>[10:2](sat05.htm#fr_7.md) proceeds from the mouth.
 
-<span id="fn_8"></span>[10:3](sat05.htm#fr_8) Or conception.
+<span id="fn_8"></span>[10:3](sat05.htm#fr_8.md) Or conception.
 
-<span id="fn_9"></span>[11:1](sat05.htm#fr_9) His look, or physiognomy.
+<span id="fn_9"></span>[11:1](sat05.htm#fr_9.md) His look, or physiognomy.
 
-<span id="fn_10"></span>[12:1](sat05.htm#fr_10) Vegetables.
+<span id="fn_10"></span>[12:1](sat05.htm#fr_10.md) Vegetables.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](sat06)
+[Next: Chapter II](sat06.md)

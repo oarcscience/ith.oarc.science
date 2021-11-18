@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth033)  [Next](toth035) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth033)  [Next](toth035.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 31. MÁSAUWUU MARRIES A MAIDEN. <span id="fr_83"></span>[1](#fn_81)
+## 31. MÁSAUWUU MARRIES A MAIDEN. <span id="fr_83"></span>[1](#fn_81.md)
 
 Alíksai! In old Mishóngnovi they were living. At Mástopk'ave Másauwuu
 lived with his grandmother, Mas Wuhti. In the village lived a beautiful
@@ -49,9 +49,9 @@ afterwards.
 
 ### Footnotes
 
-<span id="fn_81"></span>[122:1](toth034.htm#fr_83) Told by Kúhkuima
+<span id="fn_81"></span>[122:1](toth034.htm#fr_83.md) Told by Kúhkuima
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 32. Másauwuu and the Háno Hunters](toth035)
+[Next: 32. Másauwuu and the Háno Hunters](toth035.md)

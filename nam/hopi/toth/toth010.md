@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth009)  [Next](toth011) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth009)  [Next](toth011.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 7. THE SNAKE MYTH. <span id="fr_26"></span>[1](#fn_26)
+## 7. THE SNAKE MYTH. <span id="fr_26"></span>[1](#fn_26.md)
 
 At Wû'hkok'ieqö the Píhk'ash and Kókop clans. The old men often wondered
 where the Colorado River was flowing. So they built a box, put
@@ -61,9 +61,9 @@ that are offered to him as he sweeps westward.
 
 ### Footnotes
 
-<span id="fn_26"></span>[35:1](toth010.htm#fr_26) Told by Sik'ánakpu
+<span id="fn_26"></span>[35:1](toth010.htm#fr_26.md) Told by Sik'ánakpu
 (Mishóngnovi).
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Wanderings of the Bear Clan (Hon-ñamu).](toth011)
+[Next: 8. The Wanderings of the Bear Clan (Hon-ñamu).](toth011.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo20)  [Next](sdo22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo20)  [Next](sdo22.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ with friendly hilarity.
 
 ------------------------------------------------------------------------
 
-[Next: Greeting the Sun](sdo22)
+[Next: Greeting the Sun](sdo22.md)

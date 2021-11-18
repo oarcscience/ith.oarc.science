@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi00) 
-[Next](jlgi02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi00.md) 
+[Next](jlgi02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus, the Last Great Initiate*, by Edouard Schuré, \[1908\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ Intangible Textual Heritage
 <span class="smallcaps">Criticism</span> on the life of Jesus during the
 past century has been greatly to the fore. A complete account of this
 criticism will be found in the luminous sketch made by M.
-Sabatier, <span id="fr_0"></span>[1](#fn_0) in which the entire history
+Sabatier, <span id="fr_0"></span>[1](#fn_0.md) in which the entire history
 and present state of this investigation are given. Sufficient for the
 moment to refer to the two principal phases supplied by Strauss and
 Renan, with the object of determining the new point of view I now wish
@@ -116,13 +116,13 @@ eye encompasses the depths of space.
 
 ### Footnotes
 
-<span id="fn_0"></span>[7:1](jlgi01.htm#fr_0) *Dictionnaire des Sciences
+<span id="fn_0"></span>[7:1](jlgi01.htm#fr_0.md) *Dictionnaire des Sciences
 Réligieuses*, par Lichtenberger, tome 7, article "Jesus."
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Contents](jlgi02)
+[Next: Contents](jlgi02.md)
 
 </div>

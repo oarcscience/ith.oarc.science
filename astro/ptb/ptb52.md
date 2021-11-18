@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb51)  [Next](ptb53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb51)  [Next](ptb53.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ bicorporeal signs, most of the planets being, at the same time, posited
 in the same way, and configurated with them. The number of children,
 however, to be produced at the birth, is to be inferred from the planet
 which exercises the right of determining the number <span
-id="fr_142"></span>[2](#fn_142): and the sex or
+id="fr_142"></span>[2](#fn_142.md): and the sex or
 
 <span id="page_84">p. 84</span>
 
@@ -37,16 +37,16 @@ luminaries, there will, in that case, be produced, almost always, twins;
 and sometimes even more.
 
 To speak, however, more particularly, three males will be born, as in
-the nativity of the Anactores, <span id="fr_143"></span>[1](#fn_143)
+the nativity of the Anactores, <span id="fr_143"></span>[1](#fn_143.md)
 when Saturn, Jupiter, and Mars may be configurated with the places
 before appointed, in bicorporeal signs; and three females, as in the
 nativity of the Graces, when Venus and the Moon, with Mercury femininely
 constituted, may be configurated in like manner. When Saturn, Jupiter,
 and Venus may be configurated, two males and one female will be born; as
-in the nativity of the Dioscuri <span id="fr_144"></span>[2](#fn_144);
+in the nativity of the Dioscuri <span id="fr_144"></span>[2](#fn_144.md);
 and, when Venus, the Moon, and Mars may be so configurated, two females
 and one male; as in the nativity of Ceres, Core, and Liber. <span
-id="fr_145"></span>[3](#fn_145)
+id="fr_145"></span>[3](#fn_145.md)
 
 In cases of this kind, however, it most usually happens that the
 conception has not been complete, and that the children are born with
@@ -58,11 +58,11 @@ quite extraordinary and amazing.
 
 ### Footnotes
 
-<span id="fn_142"></span>[83:2](ptb52.htm#fr_142) The planet here
+<span id="fn_142"></span>[83:2](ptb52.htm#fr_142.md) The planet here
 alluded to, seems to be that which may be connected with most of the
 ruling places.
 
-<span id="fn_143"></span>[84:1](ptb52.htm#fr_143) I have looked in many
+<span id="fn_143"></span>[84:1](ptb52.htm#fr_143.md) I have looked in many
 other books for this word "*Anactores*" (plural of ανακωρ), as
 designating three particular individuals born at the same birth; for
 which signification it is here used by Ptolemy; but my search has been
@@ -75,12 +75,12 @@ the *Anactes*, and were the sons of Jupiter, the most ancient king, and
 Proserpine; their several names were Tritopatreus, Eubuleus and
 Dionysius." *De Nat. Deor*., lib. 3, cap. 21.
 
-<span id="fn_144"></span>[84:2](ptb52.htm#fr_144) This is the second set
+<span id="fn_144"></span>[84:2](ptb52.htm#fr_144.md) This is the second set
 of the Dioscuri, as stated by Cicero: they were the children of the
 third, or Cretan Jupiter (the son of Saturn) and Leda; their names were
 Castor, Pollux, and Helena. Helena, however, is not mentioned by Cicero.
 
-<span id="fn_145"></span>[84:3](ptb52.htm#fr_145) Core is a name of
+<span id="fn_145"></span>[84:3](ptb52.htm#fr_145.md) Core is a name of
 Proserpine; Liber, of Bacchus. And, although the mention here made of
 Ceres, Proserpine and Bacchus, as being the offspring of one and the
 same birth, does not accord with the usual notion of the genealogy of
@@ -98,4 +98,4 @@ be produced at one birth, under certain configurations of the stars.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Monstrous or Defective Births](ptb53)
+[Next: Chapter IX. Monstrous or Defective Births](ptb53.md)

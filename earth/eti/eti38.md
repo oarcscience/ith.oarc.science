@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti37)  [Next](eti39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti37)  [Next](eti39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -56,7 +56,7 @@ height beyond the scope of my vision, rising
 
 <span id="img_20500"></span> <span align="CENTER"> [![WE FINALLY
 REACHED A PRECIPITOUS BLUFF.](tn/20500.jpg)  
-Click to enlarge](img/20500.jpg)  
+Click to enlarge](img/20500.jpg.md)  
 “WE FINALLY REACHED A PRECIPITOUS BLUFF.”  
 </span>
 
@@ -151,7 +151,7 @@ the water of the quiet lake
 <span id="img_20900"></span> <span align="CENTER"> [![THE WALL
 DESCENDED PERPENDICULARLY TO SEEMINGLY INFINITE
 DEPTHS.](tn/20900.jpg)  
-Click to enlarge](img/20900.jpg)  
+Click to enlarge](img/20900.jpg.md)  
 “THE WALL DESCENDED PERPENDICULARLY TO SEEMINGLY INFINITE DEPTHS.”  
 </span>
 
@@ -205,7 +205,7 @@ the earth, and this holds the liquid mass together more firmly."
 
 "See," he observed, and dipping his finger into the water he held it
 before him with a drop of water attached thereto ([Figure
-27](#img_21100)), the globule being of considerable size, and lengthened
+27](#img_21100).md), the globule being of considerable size, and lengthened
 as though it consisted of some glutinous liquid.
 
 "How can a thin stratum of water give rise to a volcanic eruption?" I
@@ -245,7 +245,7 @@ superficial. This lake, the surface of which is but one hundred and
 fifty miles underground, is the mother of an exceptionally deep one.
 When the water pours over this ledge it strikes an element below us, the
 metallic base of salt, which lies in great masses in some portions of
-the earth's crust. <span id="fr_8"></span>[\*](#fn_8) Then an immediate
+the earth's crust. <span id="fr_8"></span>[\*](#fn_8.md) Then an immediate
 chemical reaction ensues, the water is dissociated, intense heat
 results, part of the water combines with the metal, part is vaporized as
 steam, while part escapes as an inflammable gas. The sudden liberation
@@ -473,10 +473,10 @@ referred to what you designated as pure motion."
 
 ### Footnotes
 
-<span id="fn_8"></span>[212:\*](eti38.htm#fr_8) This view is supported
+<span id="fn_8"></span>[212:\*](eti38.htm#fr_8.md) This view is supported
 in theory by a note I believe to have somewhere seen recorded. Elsewhere
 other bases are mentioned also.—J. U. L.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXII. Matter Is Retarded Motion](eti39)
+[Next: Chapter XXXII. Matter Is Retarded Motion](eti39.md)

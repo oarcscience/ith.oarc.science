@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml26)  [Next](eml28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml26)  [Next](eml28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -61,7 +61,7 @@ presence of mind. His first thought was for his own safety; so he crept
 softly away until he found a safe hiding place. He waited until the new
 king and the messenger walked on together, and they passed very close to
 him as he lay concealed in a thicket. <span
-id="fr_114"></span>[1](#fn_114)
+id="fr_114"></span>[1](#fn_114.md)
 
 No sooner had they gone out of hearing than Senuhet hastened to escape
 from the land of Egypt. He made his way southward, wondering greatly as
@@ -536,13 +536,13 @@ To leave him nigh thee . . . . Health and strength be thine!
 
 ### Footnotes
 
-<span id="fn_114"></span>[208:1](eml27.htm#fr_114) No reason is given in
+<span id="fn_114"></span>[208:1](eml27.htm#fr_114.md) No reason is given in
 the story for Senuhet's sudden alarm.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Egypt's Golden Age](eml28)
+[Next: Chapter XVII: Egypt's Golden Age](eml28.md)
 
 </div>

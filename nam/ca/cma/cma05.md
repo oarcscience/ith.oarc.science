@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma04)  [Next](cma06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma04)  [Next](cma06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -617,7 +617,7 @@ The two messengers took this answer to Norbis.
 
 "I believe this man will come against us," said each of the brothers.
 They went into the house and brought out elkskin armor. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 "Come, my people," said the elder, "take these, put them on."
 
@@ -1631,9 +1631,9 @@ for soon Olelbis turned them into birds, beasts, and other things.
 
 ### Footnotes
 
-<span id="fn_3"></span>[86:1](cma05.htm#fr_3) Untanned elkskin was
+<span id="fn_3"></span>[86:1](cma05.htm#fr_3.md) Untanned elkskin was
 formerly used as armor by the Indians.
 
 ------------------------------------------------------------------------
 
-[Next: Tulchuherris](cma06)
+[Next: Tulchuherris](cma06.md)

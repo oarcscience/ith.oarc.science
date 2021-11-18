@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth048)  [Next](toth050) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth048)  [Next](toth050.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,13 +18,13 @@ Textual Heritage
 
 <span id="page_155">p. 155</span>
 
-## 46. THE JUG BOY. <span id="fr_107"></span>[1](#fn_105)
+## 46. THE JUG BOY. <span id="fr_107"></span>[1](#fn_105.md)
 
 In the village of Háno the people were living. The Háno know how to make
 the earthen jugs, and one time a handsome young woman also made an
 earthen jug. She kneaded the clay and when her hands were tired she
 trampled it with her feet, so that the wet clay spurted all
-around. <span id="fr_108"></span>[2](#fn_106) By and by this woman bore
+around. <span id="fr_108"></span>[2](#fn_106.md) By and by this woman bore
 a child, but it was an earthen jug, inside of which was a little boy,
 who cried when he was born. The women who were present were happy.
 "Ishuní!" they said, "you have borne a child," whereupon they washed the
@@ -79,12 +79,12 @@ they lived there.
 
 ### Footnotes
 
-<span id="fn_105"></span>[155:1](toth049.htm#fr_107) Told by
+<span id="fn_105"></span>[155:1](toth049.htm#fr_107.md) Told by
 Tangákhoyoma (Oraíbi).
 
-<span id="fn_106"></span>[155:2](toth049.htm#fr_108) A part of it
+<span id="fn_106"></span>[155:2](toth049.htm#fr_108.md) A part of it
 entered her genitalia and she became pregnant from it.
 
 ------------------------------------------------------------------------
 
-[Next: 47. The Crow As A Spirit of Evil](toth050)
+[Next: 47. The Crow As A Spirit of Evil](toth050.md)

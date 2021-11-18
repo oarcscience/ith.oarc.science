@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha07)  [Next](sha09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha07)  [Next](sha09.md) 
 
 ------------------------------------------------------------------------
 
@@ -612,4 +612,4 @@ And now I feel a calm and sacred pleasure;
 
 ------------------------------------------------------------------------
 
-[Next: Act V. Shakuntala's Rejection](sha09)
+[Next: Act V. Shakuntala's Rejection](sha09.md)

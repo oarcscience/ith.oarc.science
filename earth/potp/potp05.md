@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp04)  [Next](potp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp04)  [Next](potp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ not always. For instance,
 and maybe more. The inner world is flattened at the poles, and is 75,000
 miles in diameter. If hollow, the earth could move round in it, and yet
 not be within 20,000 miles of its walls.](tn/03000.jpg)  
-Click to enlarge](img/03000.jpg)  
+Click to enlarge](img/03000.jpg.md)  
 PLANET SATURN.  
 The planet Saturn is a world within a world, and maybe more. The inner
 world is flattened at the poles, and is 75,000 miles in diameter. If
@@ -61,4 +61,4 @@ necessary, and gives a good foundation with which to start.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Length of Polar Nights](potp06)
+[Next: Chapter II. Length of Polar Nights](potp06.md)

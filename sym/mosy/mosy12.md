@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy11)  [Next](mosy13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy11)  [Next](mosy13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ which grew on the earth; they made gods of them, and worshipped
 <span id="page_141">p. 141</span>
 
 the very things on which they lived, offering up to them libations and
-sacrifices." <span id="fr_271"></span>[1](#fn_271)
+sacrifices." <span id="fr_271"></span>[1](#fn_271.md)
 
 M. Bonavia, a botanist who has subjected to a minute examination the
 flora of the Mesopotamian monuments, maintains that the sacred tree of
@@ -60,7 +60,7 @@ firewood, the pomegranate for its services in the production of tannin
 and in the preparation of sherberts. As for the horns grafted on the
 stem, they would represent the horns of animals,—oxen, wild-goats, ibex,
 and so forth,—which doubtless were suspended from the branches to ward
-off the evil eye. <span id="fr_272"></span>[2](#fn_272)
+off the evil eye. <span id="fr_272"></span>[2](#fn_272.md)
 
 I would be the first to admit that purely utilitarian considerations of
 this kind had originally suggested to the Mesopotamians the worship of
@@ -94,17 +94,17 @@ present to our view a cypress of pyramidical form, planted beneath the
 peristyle of a temple, in the very place where other medals have either
 a Conical Stone, the well-known representation of Astarte, or else the
 image, or bust, of the Goddess herself. <span
-id="fr_273"></span>[1](#fn_273)
+id="fr_273"></span>[1](#fn_273.md)
 
 Movers informs us that the Venus of Lebanon bore the local name of the
-Cypress. <span id="fr_274"></span>[2](#fn_274) At Rome there is an altar
+Cypress. <span id="fr_274"></span>[2](#fn_274.md) At Rome there is an altar
 of the Palmyrene which exhibits on one of its sides the image of a solar
 god, and on the other a cypress of pyramidical form, whose foliage
 admits a child carrying a ram upon its shoulders. <span
-id="fr_275"></span>[3](#fn_275) M. Lajard quotes in this instance the
+id="fr_275"></span>[3](#fn_275.md) M. Lajard quotes in this instance the
 story related of Apuleius, who, wishing to paint the son of Venus in his
 mother's lap, depicted him in the foliage of a cypress. <span
-id="fr_276"></span>[4](#fn_276) To the same class of images belongs the
+id="fr_276"></span>[4](#fn_276.md) To the same class of images belongs the
 pine in which Cybele imprisons the body of Atys till the spring-time.
 This tree has been thought to be the *simulacrum* of the solar god; it
 seems to me more logical to seek therein the symbol of the Matrix in
@@ -118,7 +118,7 @@ another Asiatic variety of Artemis-Aphrodite. Myrrha, bearing Adonis,
 was transformed into a tree, and, according to a version recorded by
 Hyginus, was set free by the stroke of an axe. Now, on an imperial coin
 of Myra, in Lycia, a tree is seen whose fork supports the image of a
-goddess ([pl. v., fig. c](mosy11.htm#img_pl05)). On either side is a
+goddess ([pl. v., fig. c](mosy11.htm#img_pl05).md). On either side is a
 wood-cutter with a raised axe. Whatever the meaning of this scene may
 have been in the local mythology of the period, it is difficult not to
 refer it to the Oriental representations of the Sacred Tree, in so far
@@ -132,9 +132,9 @@ or rather stake, begirt with drapery and bandelets. These are the
 of *Yahveh*, did not cease to "construct" and "plant," in imitation of
 the former inhabitants of the country, from the time when the twelve
 tribes settled in the land of Canaan <span
-id="fr_277"></span>[1](#fn_277) till the day on which the King Josiah
+id="fr_277"></span>[1](#fn_277.md) till the day on which the King Josiah
 burnt, near the Kedron, the *ashêrah* set up by Manasseh in the temple
-of Jerusalem itself. <span id="fr_278"></span>[2](#fn_278)
+of Jerusalem itself. <span id="fr_278"></span>[2](#fn_278.md)
 
 The *ashêrah* must then have been a *simulacrum*, which, like our
 May-Poles laden with conventional attributes, was at once artificially
@@ -150,10 +150,10 @@ strings, plaited like whip-cord, are even seen
 descending from the fork of the tree. According to M. J. Menant, all
 that it has been possible to find out from the archaic inscription on
 this cylinder is that it relates to a goddess invoked by a prince who
-proclaims himself her servant. <span id="fr_279"></span>[1](#fn_279)
+proclaims himself her servant. <span id="fr_279"></span>[1](#fn_279.md)
 
 <span id="img_fig078"></span> ![FIG. 78. CHALDÆAN CYLINDER. (HEUZEY. La
-Masse d’armes. Paris, 1887, p. 15.)](img/fig078.jpg)
+Masse d’armes. Paris, 1887, p. 15.)](img/fig078.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 78. Chaldæan
 Cylinder.</span>  
@@ -167,7 +167,7 @@ her breasts. Now, this hieratic type is incontestably the representation
 of Istar, not the chaste and warlike Istar who was worshipped at
 Nineveh, but the voluptuous and procreative Istar venerated in
 particular at Babylon, and more or less related to the goddess of the
-*ashêrim*. <span id="fr_280"></span>[2](#fn_280)
+*ashêrim*. <span id="fr_280"></span>[2](#fn_280.md)
 
 This might justify the hypothesis of M. François Lenormant, who not only
 sought an equivalent of the *ashêrah* in the Sacred Tree of Mesopotamia,
@@ -178,13 +178,13 @@ cosmogonical
 <span id="page_145">p. 145</span>
 
 pair of Assur and his companion, the creative heaven and the productive
-earth. <span id="fr_281"></span>[1](#fn_281)
+earth. <span id="fr_281"></span>[1](#fn_281.md)
 
 It ought to be noticed that the representations of the Sacred Tree in
 art become particularly frequent under the Sargonidæ. According to Mr.
 Boscawen, the symbolical image of the Tree between the two *genii* is
 not found prior to the ninth century before our era; <span
-id="fr_282"></span>[2](#fn_282) and, with rare exceptions, is met with
+id="fr_282"></span>[2](#fn_282.md) and, with rare exceptions, is met with
 on Assyrian, not on Babylonian monuments. Now it was especially at the
 time of the Sargonidæ or at least during the second Assyrian empire,
 that Istar was placed beside Assur as a divinity of the first rank.
@@ -209,7 +209,7 @@ female or date-bearing tree, a process which was known to
 <span id="page_146">p. 146</span>
 
 the Mesopotamians, as passages from Herodotus and Theophrastus formally
-prove. <span id="fr_283"></span>[1](#fn_283)
+prove. <span id="fr_283"></span>[1](#fn_283.md)
 
 Others have maintained that this object was the cone of a pine or cedar,
 a fruit well known for
@@ -217,7 +217,7 @@ a fruit well known for
 <span id="img_fig079"></span> <span align="CENTER"> [![FIG. 79. ASSYRIAN
 BAS-RELIEF. (PERROT et CHIPIEZ. Histoire de l’Art antique, vol. ii., f.
 8.)](tn/fig079.jpg)  
-Click to enlarge](img/fig079.jpg)  
+Click to enlarge](img/fig079.jpg.md)  
 FIG. 79. ASSYRIAN BAS-RELIEF. (PERROT et CHIPIEZ. Histoire de l’Art
 antique, vol. ii., f. 8.)  
 </span>
@@ -240,18 +240,18 @@ a metal bucket, and Mr. Tylor a wicker basket. We would thus be in the
 presence of a true scene of exorcism such as are described in the magic
 texts of the period. Water, consecrated by certain *formulæ*, figures
 indeed with many nations among the procedures employed to put demons to
-flight. <span id="fr_284"></span>[1](#fn_284)
+flight. <span id="fr_284"></span>[1](#fn_284.md)
 
 M. Bonavia, besides, adduces the testimony of an Oriental, alleging that
 certain sects use to this day a fir-cone for their sacred
-sprinklings. <span id="fr_285"></span>[2](#fn_285)
+sprinklings. <span id="fr_285"></span>[2](#fn_285.md)
 
 Nevertheless, the monuments seem to decide in favour of Mr. Tylor, who
 places side by side the Cone represented in the hand of the *genii* and
 
 <span id="img_fig080"></span> <span align="CENTER"> [![FIG. 80.
 INFLORESCENCE OF THE MALE DATE-PALM.](tn/fig080.jpg)  
-Click to enlarge](img/fig080.jpg)  
+Click to enlarge](img/fig080.jpg.md)  
   
 </span>
 
@@ -259,7 +259,7 @@ Click to enlarge](img/fig080.jpg)
 the Male Date-Palm.</span></span>
 
 the inflorescence of the male date-palm copied from nature ([fig.
-80](#img_fig080)).
+80](#img_fig080).md).
 
 As a complete representation of the scene already become mythical, Mr.
 Tylor reproduces a bas-relief on which—in front of the two *genii* who
@@ -277,7 +277,7 @@ worshippers.
 
 <span id="img_fig081"></span> <span align="CENTER"> [![FIG. 81. ASSYRIAN
 BAS-RELIEF. (Layard. Monuments of Nineveh, pl. 59A.)](tn/fig081.jpg)  
-Click to enlarge](img/fig081.jpg)  
+Click to enlarge](img/fig081.jpg.md)  
   
 </span>
 
@@ -348,7 +348,7 @@ on which François Lenormant hinged his assumption that the *genii* held
 a fruit of this tree in one hand—"and hold it to the face of the sick
 person; the cedar is the tree that produces the pure charm and drives
 away the unfriendly demons, spreaders of snares." <span
-id="fr_286"></span>[1](#fn_286)
+id="fr_286"></span>[1](#fn_286.md)
 
 On an archivolt of Khorsabad two winged *genii* are seen holding the
 inflorescence in the direction of a Rosette. According to Mr. Tylor,
@@ -356,7 +356,7 @@ inflorescence in the direction of a Rosette. According to Mr. Tylor,
 <span id="img_fig082"></span> <span align="CENTER"> [![FIG. 82.
 BAS-RELIEF OF KHORSABAD. (V. PLACE. Nimroud et l’Assyrie, vol. iii. pl.
 15.)](tn/fig082.jpg)  
-Click to enlarge](img/fig082.jpg)  
+Click to enlarge](img/fig082.jpg.md)  
   
 </span>
 
@@ -392,10 +392,10 @@ terrestrial goddess, represented in the *ashêrah*.
 
 Yet the two *genii* with the inflorescence are not the only acolytes who
 appear, in Assyria, round the Tree. We have seen ([pl.
-v.](mosy11.htm#img_pl05)) that the latter are often two
+v.](mosy11.htm#img_pl05).md) that the latter are often two
 monsters—griffins, unicorns, or sphinxes—represented for quite a
 different purpose. On a cylinder reproduced above ([fig.
-64](mosy11.htm#img_fig064)) both *genii* stand erect on a sphinx which
+64](mosy11.htm#img_fig064).md) both *genii* stand erect on a sphinx which
 places a foot on one of the lower branches of the Tree, and puts forward
 its head as if to bite at one of the pomegranates at the end of the
 branches. This change of attitude would seem to correspond with a
@@ -414,13 +414,13 @@ Sacred Tree whose fruit
 had the same power. It will be remembered that the Book of Genesis
 places in the Garden of Eden two Paradisaical Trees, "the Tree of Life
 in the midst of the garden, and the Tree of Knowledge of good and
-evil." <span id="fr_287"></span>[1](#fn_287) When the first human pair,
+evil." <span id="fr_287"></span>[1](#fn_287.md) When the first human pair,
 following the treacherous advice of the serpent, had tasted of the fruit
 of the Tree of Knowledge in spite of the explicit command of the
 Creator, the latter drove out the guilty ones from the Garden of Eden,
 saying: "Behold; the man is become as one of us to know good and evil:
 and now, lest he put forth his hand and take also of the Tree of Life,
-and eat, and live for ever;" <span id="fr_288"></span>[2](#fn_288)
+and eat, and live for ever;" <span id="fr_288"></span>[2](#fn_288.md)
 therefore He drove them out, and placed at the east of the Garden of
 Eden *kerubim* with the flaming sword which turned every way, to keep
 the way of the Tree of Life.
@@ -445,12 +445,12 @@ Christian imagery; they bear a far stronger resemblance to the monstrous
 
 in the Bible itself alternates with *shôr*, "a bull," and numerous
 indications lead us to assume that they were either winged bulls with
-the face of a man, <span id="fr_289"></span>[1](#fn_289) or winged
-*genii* with the head of an eagle. <span id="fr_290"></span>[2](#fn_290)
+the face of a man, <span id="fr_289"></span>[1](#fn_289.md) or winged
+*genii* with the head of an eagle. <span id="fr_290"></span>[2](#fn_290.md)
 In the description of the Temple which Ezekiel has left us, he says that
 the ceiling was "made with *kerubim* and palm-trees, so that a palm-tree
 was between a *kerub* and a *kerub*." <span
-id="fr_291"></span>[3](#fn_291) This is exactly the position of the
+id="fr_291"></span>[3](#fn_291.md) This is exactly the position of the
 Sacred Tree between its acolytes on the monuments of Mesopotamia.
 
 Moreover, certain cuneiform texts seem to prove that the
@@ -460,17 +460,17 @@ or whether it represented this divinity by reason of its own mythical
 function, the fact is none the less certain, according to Mr. Sayce,
 that the "divine Lady of Eden," or Edin, was termed in Northern
 Babylonia "the goddess of the Tree of Life," <span
-id="fr_292"></span>[4](#fn_292) and Babylon, before receiving from the
+id="fr_292"></span>[4](#fn_292.md) and Babylon, before receiving from the
 Semites the name of *Bab Ilu*, "Gate of God," was called, in the old
 language of the country, Tin-tir-kî, or Dintir-ra, which most
 Assyriologists translate as "the place of the Tree (or Grove) of
-Life." <span id="fr_293"></span>[5](#fn_293)
+Life." <span id="fr_293"></span>[5](#fn_293.md)
 
 As for the fruits depicted on the Sacred Tree, whether they be clusters
 of dates, or bunches of grapes, they are naturally adapted to a Tree of
 Life, since they yield some of those fermented liquors which in ordinary
 language still bear the name of eau de vie <span
-id="fr_294"></span>[6](#fn_294)
+id="fr_294"></span>[6](#fn_294.md)
 
 <span id="page_154">p. 154</span>
 
@@ -479,17 +479,17 @@ pomegranate, which contains hundreds of seeds, has at all times been
 considered an emblem of fertility, of abundance, and of life. All
 Semitic nations have used it, as a symbol, on the most different kinds
 of religious monuments, from the pillars of Solomon's temple <span
-id="fr_295"></span>[1](#fn_295) to the *stelai* dedicated to the
-divinities of Libya. <span id="fr_296"></span>[2](#fn_296) The Tree of
+id="fr_295"></span>[1](#fn_295.md) to the *stelai* dedicated to the
+divinities of Libya. <span id="fr_296"></span>[2](#fn_296.md) The Tree of
 Life depicted amongst the bas-reliefs of the Parma baptistery bears
-pomegranates for its fruit, <span id="fr_297"></span>[3](#fn_297) and it
+pomegranates for its fruit, <span id="fr_297"></span>[3](#fn_297.md) and it
 is also a pomegranate which, according to a tradition related by M. de
 Gubernatis, was the fruit that Eve offered Adam. <span
-id="fr_298"></span>[4](#fn_298)
+id="fr_298"></span>[4](#fn_298.md)
 
 It must be remarked that, on some Assyrian bas-reliefs, the climbing
 plant interlacing the sacred tree bears a strong likeness to the
-*Asclepias acida*. <span id="fr_299"></span>[5](#fn_299) Now, as we
+*Asclepias acida*. <span id="fr_299"></span>[5](#fn_299.md) Now, as we
 shall see further on, this is the very shrub which supplied the Hindus
 and the Persians with their elixir of life.
 
@@ -514,12 +514,12 @@ which M. de Cesnola discovered at Amathus in the island of Cyprus. The
 Sacred Tree here stands, in its most artificial form, between two
 personages clad in the Assyrian manner, who with the one hand pluck a
 Lotus-blossom from its branches, and in the other hold a *crux ansata*
-(see above, [pl. v., fig. b](mosy11.htm#img_pl05)). The Phœnicians,
+(see above, [pl. v., fig. b](mosy11.htm#img_pl05).md). The Phœnicians,
 whose symbols were almost all derived from Egypt on the one side and
 Mesopotamia on the other, must have known what they were about in thus
 connecting the Sacred Tree with the Lotus-flower and the Key of Life. It
 would have been difficult to better express the equivalence of these two
-symbols. <span id="fr_300"></span>[1](#fn_300)
+symbols. <span id="fr_300"></span>[1](#fn_300.md)
 
 It is evident that, in the absence of texts serving as a direct
 commentary on the representations of the Sacred Tree amongst the
@@ -528,7 +528,7 @@ derived meaning.
 
 Thus the Chaldæans must be included amongst the nations who saw in the
 universe a tree whose summit was the sky, and whose foot or trunk was
-the earth. <span id="fr_301"></span>[2](#fn_301)
+the earth. <span id="fr_301"></span>[2](#fn_301.md)
 
 <span id="page_156">p. 156</span>
 
@@ -536,7 +536,7 @@ To be sure, this somewhat puerile conception of the universe seems to
 have been early thrown into the shade, in Mesopotamia, by the more
 subtle cosmogonical system which, according to Diodorus, made of the
 earth a boat floating upside down on the watery abyss. <span
-id="fr_302"></span>[1](#fn_302) The boat in question was one of those,
+id="fr_302"></span>[1](#fn_302.md) The boat in question was one of those,
 shaped like a bowl or cauldron, which are portrayed in the bas-reliefs
 of Mesopotamia, and are still used at the present day in the basin of
 the Euphrates. The hollow interior formed the region of darkness, the
@@ -548,13 +548,13 @@ This "Mountain of the World," or axis of the universe, became the object
 of quite an especial veneration. The Assyrians located it in the high
 chains of mountains north-east of Mesopotamia. The Chaldæans named after
 it some of the great staged temples which they built in the plains of
-their country. <span id="fr_303"></span>[2](#fn_303) It must be
+their country. <span id="fr_303"></span>[2](#fn_303.md) It must be
 observed, however, that some hymns address it in terms which are
 perfectly applicable to a huge tree: "O thou who givest shade, Lord who
 casteth thy shadow over the land, great mount, father of the god
-Mul!" <span id="fr_304"></span>[3](#fn_304) Another hymn terms it a
+Mul!" <span id="fr_304"></span>[3](#fn_304.md) Another hymn terms it a
 "mighty mountain whose head rivals the heavens and whose foundations
-rest on the pure deep." <span id="fr_305"></span>[4](#fn_305)
+rest on the pure deep." <span id="fr_305"></span>[4](#fn_305.md)
 
 Texts, moreover, prove in a decisive manner that the notion of the
 Cosmogonical Tree had endured into the traditions, at least, of certain
@@ -570,14 +570,14 @@ earth; its foliage was the couch of Zikum the (primæval) mother. Into
 the heart of its holy house which spreads its shade like a forest hath
 no man entered; there (is the home of) the mighty mother who passes
 across the sky; (in) the midst of it was Tammuz." <span
-id="fr_306"></span>[1](#fn_306)
+id="fr_306"></span>[1](#fn_306.md)
 
 This passage seems to connect the Cosmogonical Tree with the Great
 Goddess of Nature. Whether the latter be regarded as a celestial,
 telluric, or lunar divinity, Tammuz. the sun, is at once her spouse and
 child. A cylinder, which M. Menant attributes to the ancient art of
 Chaldæa, shows us the goddess beside the Sacred Tree, with an infant
-seated in her lap. <span id="fr_307"></span>[2](#fn_307) Perhaps we
+seated in her lap. <span id="fr_307"></span>[2](#fn_307.md) Perhaps we
 ought to see in this the prototype of similar representations wherein
 Isis, Tanit, and other mother goddesses appear, each with her son, the
 young solar god.
@@ -598,11 +598,11 @@ direction of the Ocean." The rest of the passage is missing. These
 details, however, suffice for us to infer that here again the subject in
 question is a celestial tree, bearing, for fruits, the planets, the
 stars, and all the "jewels" of the firmament. <span
-id="fr_308"></span>[1](#fn_308) One cannot but be struck by the strange
+id="fr_308"></span>[1](#fn_308.md) One cannot but be struck by the strange
 similarities which this story offers to the legend of Herakles carrying
 off the golden apples from the garden of the Hesperides, "in the
 direction of the night, beyond the ocean stream." <span
-id="fr_309"></span>[2](#fn_309)
+id="fr_309"></span>[2](#fn_309.md)
 
 Might not the Sacred Tree have likewise served to portray, amongst the
 Chaldæans, an equivalent of the tree designated, in the Bible, as giving
@@ -611,38 +611,38 @@ admit this comparison. He gives prominence to the fact that the name of
 the god Ea was written upon the heart of the cedar. Now not only was Ea
 the god of wisdom, but the possession of his sacred names communicated
 his own knowledge to him who pronounced them. <span
-id="fr_310"></span>[3](#fn_310) A passage explicitly associates with the
+id="fr_310"></span>[3](#fn_310.md) A passage explicitly associates with the
 cedar "the revelation of the oracles of heaven and earth." <span
-id="fr_311"></span>[4](#fn_311)
+id="fr_311"></span>[4](#fn_311.md)
 
 Moreover, the scene of the Temptation is believed to have been
 discovered on a cylinder in the British Museum. Two personages, in whom
 Mr. G. Smith thought he recognized a man and a woman, stretch forth a
 hand towards a tree from which hang two large fruits; behind the woman a
 serpent erects itself on its tail (see above, [pl. v., fig.
-h](mosy11.htm#img_pl05)). <span id="fr_312"></span>[5](#fn_312) M. J.
+h](mosy11.htm#img_pl05)). <span id="fr_312"></span>[5](#fn_312.md) M. J.
 Menant, however, maintains that both personages belong to the stronger
 sex; in any case, he adds, nothing authorizes us, in face of
 
 <span id="page_159">p. 159</span>
 
 the silence of the texts, to discern in this scene the Scriptural
-account of the "original sin." <span id="fr_313"></span>[1](#fn_313) At
+account of the "original sin." <span id="fr_313"></span>[1](#fn_313.md) At
 the same time—whilst pointing out that subjects of this kind may lend
 themselves to innumerable interpretations—he calls attention to another
 cylinder which might still better be compared with the Biblical
 narrative. It is the representation of a garden where trees and birds
 are visible; in the middle stands a palm, whose fruits two personages
 are engaged in plucking, whilst a third, himself holding a separate
-fruit, seems to address them. <span id="fr_314"></span>[2](#fn_314)
+fruit, seems to address them. <span id="fr_314"></span>[2](#fn_314.md)
 
 The comparison attempted by M. Baudissin between the Tree of Knowledge
 and the Prophetic Trees whose office was to reveal the future seems to
-be less exposed to criticism. <span id="fr_315"></span>[3](#fn_315) The
+be less exposed to criticism. <span id="fr_315"></span>[3](#fn_315.md) The
 Chaldæo-Assyrians, in the manner of all the Semitic nations, practised
 *phyllomancy*, *i.e.*, the art of divination by the rustling of leaves,
 which was held to be the voice of the divinity. <span
-id="fr_316"></span>[4](#fn_316) Now, endeavours to gain a foreknowledge
+id="fr_316"></span>[4](#fn_316.md) Now, endeavours to gain a foreknowledge
 of the decrees of the divine will are often considered an encroachment
 upon the celestial power, a rash act, or even a sacrilege, which calls
 for punishment.
@@ -660,7 +660,7 @@ distant mountain. According to Mr. Sayce, Zu is
 none other than "the bird of the storm," common to so many mythologies,
 which, in the rolling of the thunder, discloses to mankind the secrets
 of the future, the knowledge of good and evil. <span
-id="fr_317"></span>[1](#fn_317) It might almost be said that this legend
+id="fr_317"></span>[1](#fn_317.md) It might almost be said that this legend
 lies mid-way between the Scriptural account of "the original sin" and
 the Aryan traditions, which we are about to investigate, regarding the
 theft of fire and ambrosia from the branches of the Cosmogonical Tree.
@@ -671,7 +671,7 @@ branches (7, 14, 15 or 30), thinks he finds therein an accordance with
 the days of the lunar month. He instances, in this connection, a Chinese
 tradition, prior to our era, which tells of a wonderful plant that
 appeared on both sides of the staircase of the imperial palace, during
-the reign of Yao. <span id="fr_318"></span>[2](#fn_318) On this plant a
+the reign of Yao. <span id="fr_318"></span>[2](#fn_318.md) On this plant a
 pod grew every day of the month till the fifteenth; then one fell every
 day till the thirtieth; if the month had only twenty-nine days, a pod
 withered without falling off. It is not difficult to descry in this
@@ -692,7 +692,7 @@ fruit every month:
 
 <span id="img_pl06"></span> <span align="CENTER"> [![PLATE
 VI.—MIGRATIONS OF THE EASTERN TYPE OF THE SACRED TREE.](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
   
 </span>
 
@@ -705,7 +705,7 @@ Moreover, M. Terrien de la Couperie has shown that the belief in a Tree
 of Life existed amongst the Chinese. Traditions mention seven wonderful
 trees which grew on the slopes of the Kuen-Lün mountains. One of them,
 which was of jade, conferred immortality by its fruit. <span
-id="fr_319"></span>[1](mosy13.htm#fn_319) The question—which I do not
+id="fr_319"></span>[1](mosy13.htm#fn_319.md) The question—which I do not
 pretend to decide—is as to whether this tradition crossed directly from
 Mesopotamia into China, some forty centuries before our era, or whether
 it reached that country either by way of Persia or of India at a less
@@ -715,49 +715,49 @@ distant period.
 
 ### Footnotes
 
-<span id="fn_271"></span>[141:1](mosy12.htm#fr_271) <span
+<span id="fn_271"></span>[141:1](mosy12.htm#fr_271.md) <span
 class="smallcaps">Eusebius</span>. *Præparatio Evangelica*, i. 9.
 
-<span id="fn_272"></span>[141:2](mosy12.htm#fr_272) <span
+<span id="fn_272"></span>[141:2](mosy12.htm#fr_272.md) <span
 class="smallcaps">E. Bonavia</span>. *The Sacred Trees of the Assyrian
 Monuments*, in the *Babylonian and Oriental Record*, vol. iii., pp. 1–6.
 
-<span id="fn_273"></span>[142:1](mosy12.htm#fr_273) <span
+<span id="fn_273"></span>[142:1](mosy12.htm#fr_273.md) <span
 class="smallcaps">F. Lajard</span>, in the *Mémoires de l’Académie des
 inscriptions et belles-lettres*. Paris, 1854, vol. xx., 2nd part, pl.
 vi.
 
-<span id="fn_274"></span>[142:2](mosy12.htm#fr_274) <span
+<span id="fn_274"></span>[142:2](mosy12.htm#fr_274.md) <span
 class="smallcaps">Movers</span>. *Die Phönicier*, vol. i., ch. xv.
 
-<span id="fn_275"></span>[142:3](mosy12.htm#fr_275) *Mémoires de
+<span id="fn_275"></span>[142:3](mosy12.htm#fr_275.md) *Mémoires de
 l’Académie des inscriptions et belles-lettres*, vol. xx., pl. i., fig.
 2.
 
-<span id="fn_276"></span>[142:4](mosy12.htm#fr_276) *Ibid*., vol. xx.,
+<span id="fn_276"></span>[142:4](mosy12.htm#fr_276.md) *Ibid*., vol. xx.,
 p. 221.
 
-<span id="fn_277"></span>[143:1](mosy12.htm#fr_277) *Judges* iii., 7.
+<span id="fn_277"></span>[143:1](mosy12.htm#fr_277.md) *Judges* iii., 7.
 
-<span id="fn_278"></span>[143:2](mosy12.htm#fr_278) 2 *Kings* xxi., 3,
+<span id="fn_278"></span>[143:2](mosy12.htm#fr_278.md) 2 *Kings* xxi., 3,
 and xiii., 6 and 7.
 
-<span id="fn_279"></span>[144:1](mosy12.htm#fr_279) <span
+<span id="fn_279"></span>[144:1](mosy12.htm#fr_279.md) <span
 class="smallcaps">J. Menant</span>. Les pierres gravées de la Haut-Asie,
 vol. i., p. 220.
 
-<span id="fn_280"></span>[144:2](mosy12.htm#fr_280) <span
+<span id="fn_280"></span>[144:2](mosy12.htm#fr_280.md) <span
 class="smallcaps">Id</span>., *ibid.*, vol. i., pp. 170 *et seq.*
 
-<span id="fn_281"></span>[145:1](mosy12.htm#fr_281) <span
+<span id="fn_281"></span>[145:1](mosy12.htm#fr_281.md) <span
 class="smallcaps">F. Lenormant</span>. *Les origines de l’histoire*.
 Paris, 1880, vol. i., p. 88.
 
-<span id="fn_282"></span>[145:2](mosy12.htm#fr_282) *Babylonian and
+<span id="fn_282"></span>[145:2](mosy12.htm#fr_282.md) *Babylonian and
 Oriental Record*, vol. iv., No. 4, p. 95.—Yet in the Louvre there is a
 specimen found in the palace of Ashur-bani-pal (tenth century B.C.).
 
-<span id="fn_283"></span>[146:1](mosy12.htm#fr_283) "Palm-trees," says
+<span id="fn_283"></span>[146:1](mosy12.htm#fr_283.md) "Palm-trees," says
 Herodotus in his description of Chaldæa, "grow in great numbers in the
 whole of the flat country; most of them bear a fruit which supplies the
 inhabitants with bread, wine, and honey. They are cultivated like the
@@ -768,7 +768,7 @@ ripen them and prevent the fruit from falling off. (*Hist*., liv. i.,
 193.—See also <span class="smallcaps">Theophrastus</span>. *Hist.
 plant.*, ii., c. 2, 6, and 7, 4.)
 
-<span id="fn_284"></span>[147:1](mosy12.htm#fr_284) <span
+<span id="fn_284"></span>[147:1](mosy12.htm#fr_284.md) <span
 class="smallcaps">M. F. Lenormant</span> quotes the following passage
 from the *Cuneiform Inscriptions of Western Asia*, vol. iv., pl. 16, 2:
 "Take a vase, put water into it, place therein white cedar-wood,
@@ -776,86 +776,86 @@ introduce the charm which comes from Eridu, and perfect thus potently
 the virtue of the enchanted waters." (*Origins de l’Histoire*, vol. i.,
 p. 84, note.)
 
-<span id="fn_285"></span>[147:2](mosy12.htm#fr_285) *Babylonian and
+<span id="fn_285"></span>[147:2](mosy12.htm#fr_285.md) *Babylonian and
 Oriental Record*, vol. iv., No. 4, p. 96.
 
-<span id="fn_286"></span>[150:1](mosy12.htm#fr_286) *Origines de
+<span id="fn_286"></span>[150:1](mosy12.htm#fr_286.md) *Origines de
 l’histoire*. Paris, 1880, vol. i., pp. 83–84.)
 
-<span id="fn_287"></span>[152:1](mosy12.htm#fr_287) *Gen*. ii., 9.
+<span id="fn_287"></span>[152:1](mosy12.htm#fr_287.md) *Gen*. ii., 9.
 
-<span id="fn_288"></span>[152:2](mosy12.htm#fr_288) *Gen*. iii., 22–24.
+<span id="fn_288"></span>[152:2](mosy12.htm#fr_288.md) *Gen*. iii., 22–24.
 
-<span id="fn_289"></span>[153:1](mosy12.htm#fr_289) <span
+<span id="fn_289"></span>[153:1](mosy12.htm#fr_289.md) <span
 class="smallcaps">Perrot</span> et <span
 class="smallcaps">Chipiez</span>. *Histoire de l’art dans l’antiquité*,
 vol. iv., p. 305.—Regarding the word *kerub* = bull, *cf*. <span
 class="smallcaps">Lenormant</span>. *Orig. de l’hist.*, vol. i., p. 112.
 
-<span id="fn_290"></span>[153:2](mosy12.htm#fr_290) Ezekiel defines the
+<span id="fn_290"></span>[153:2](mosy12.htm#fr_290.md) Ezekiel defines the
 *kerubim* as beings with a double pair of wings, having beneath their
 wings a man's hand.
 
-<span id="fn_291"></span>[153:3](mosy12.htm#fr_291) *Ezekiel* xli., 8.
+<span id="fn_291"></span>[153:3](mosy12.htm#fr_291.md) *Ezekiel* xli., 8.
 
-<span id="fn_292"></span>[153:4](mosy12.htm#fr_292) <span
+<span id="fn_292"></span>[153:4](mosy12.htm#fr_292.md) <span
 class="smallcaps">A. H. Sayce</span>. *The Religions of the Ancient
 Babylonians*. London, 1887, p. 200.
 
-<span id="fn_293"></span>[153:5](mosy12.htm#fr_293) <span
+<span id="fn_293"></span>[153:5](mosy12.htm#fr_293.md) <span
 class="smallcaps">F. Lenormant</span>. *Origines de l’histoire*, vol.
 i., p. 76.
 
-<span id="fn_294"></span>[153:6](mosy12.htm#fr_294) In the Assyrian
+<span id="fn_294"></span>[153:6](mosy12.htm#fr_294.md) In the Assyrian
 language the vine was called *karânu*, <span id="page_154">p. 154</span>
 which means, according to M. Terrien de la Couperie, *the Tree of the
 Drink of Life*. (*Babylonian and Oriental Record*. October, 1890, p.
 247.)
 
-<span id="fn_295"></span>[154:1](mosy12.htm#fr_295) Kings vii., 18–20.
+<span id="fn_295"></span>[154:1](mosy12.htm#fr_295.md) Kings vii., 18–20.
 
-<span id="fn_296"></span>[154:2](mosy12.htm#fr_296) <span
+<span id="fn_296"></span>[154:2](mosy12.htm#fr_296.md) <span
 class="smallcaps">Ph. Berger</span>. *Représentations figurées des
 stèles puniques*, in the *Gazette archéologique* for 1877, p. 27.
 
-<span id="fn_297"></span>[154:3](mosy12.htm#fr_297) <span
+<span id="fn_297"></span>[154:3](mosy12.htm#fr_297.md) <span
 class="smallcaps">M. Lopez</span>, in the *Revue archéologique* for
 1853, vol. xx., p. 289.—Here again the Tree, embraced by a dragon,
 stands between two animals facing one another.
 
-<span id="fn_298"></span>[154:4](mosy12.htm#fr_298) *Mythologie des
+<span id="fn_298"></span>[154:4](mosy12.htm#fr_298.md) *Mythologie des
 plantes*, vol. ii. p. 167.
 
-<span id="fn_299"></span>[154:5](mosy12.htm#fr_299) Sir George Birdwood,
+<span id="fn_299"></span>[154:5](mosy12.htm#fr_299.md) Sir George Birdwood,
 who understands the subject in his two-fold capacity of naturalist and
 archæologist, bears witness to this resemblance in the most explicit
 terms (*Industrial Arts of India*, part ii. p. 430).
 
-<span id="fn_300"></span>[155:1](mosy12.htm#fr_300) In Egypt itself, on
+<span id="fn_300"></span>[155:1](mosy12.htm#fr_300.md) In Egypt itself, on
 a monument of the sixth dynasty, the Atlas of Lepsius shows us a queen
 with the Key of Life in one hand, and in the other a lotus whose calyx
 she holds to her nose.
 
-<span id="fn_301"></span>[155:2](mosy12.htm#fr_301) <span
+<span id="fn_301"></span>[155:2](mosy12.htm#fr_301.md) <span
 class="smallcaps">M. W. Mansell</span> points out that the term *gis*, a
 tree, occurs in a lexicographical tablet amongst the figurative
 expressions which serve to designate heaven (*Gazette archéologique*,
 1878, p. 134.)
 
-<span id="fn_302"></span>[156:1](mosy12.htm#fr_302) <span
+<span id="fn_302"></span>[156:1](mosy12.htm#fr_302.md) <span
 class="smallcaps">Diod. Sicul.</span> Hist., Vol. ii., 31.
 
-<span id="fn_303"></span>[156:2](mosy12.htm#fr_303) <span
+<span id="fn_303"></span>[156:2](mosy12.htm#fr_303.md) <span
 class="smallcaps">Sayce</span>. *Op. cit.*, p. 405 *et seq.*
 
-<span id="fn_304"></span>[156:3](mosy12.htm#fr_304) Quoted by <span
+<span id="fn_304"></span>[156:3](mosy12.htm#fr_304.md) Quoted by <span
 class="smallcaps">De Gubernatis</span>. *Mythologie des plantes*, vol.
 i., p. 45.
 
-<span id="fn_305"></span>[156:4](mosy12.htm#fr_305) <span
+<span id="fn_305"></span>[156:4](mosy12.htm#fr_305.md) <span
 class="smallcaps">Sayce</span>. O. cit., p. 362.
 
-<span id="fn_306"></span>[157:1](mosy12.htm#fr_306) <span
+<span id="fn_306"></span>[157:1](mosy12.htm#fr_306.md) <span
 class="smallcaps">Sayce</span>. *Op. cit.*, p. 238.—M. F. Lenormant has
 published a slightly different translation of this passage (*Origines de
 l’histoire*, vol. ii., p. 104). But the variations do not bear upon the
@@ -864,49 +864,49 @@ that the plant in question is not so much a tree as a stem similar to
 the stakes which support the tents (*Babylonian and Oriental Record*,
 vol. iv. No. 10, p. 221).
 
-<span id="fn_307"></span>[157:2](mosy12.htm#fr_307) <span
+<span id="fn_307"></span>[157:2](mosy12.htm#fr_307.md) <span
 class="smallcaps">J. Menant</span>. *Pierres gravées*, vol. i., fig.
 204.
 
-<span id="fn_308"></span>[158:1](mosy12.htm#fr_308) <span
+<span id="fn_308"></span>[158:1](mosy12.htm#fr_308.md) <span
 class="smallcaps">G. W. Mansell</span>. *Un épisode de l’épopée
 chaldéennes*, in the *Gazette archéologique* for 1879.
 
-<span id="fn_309"></span>[158:2](mosy12.htm#fr_309) <span
+<span id="fn_309"></span>[158:2](mosy12.htm#fr_309.md) <span
 class="smallcaps">Hesiod</span>. *Theogony*, v. 274–275.
 
-<span id="fn_310"></span>[158:3](mosy12.htm#fr_310) <span
+<span id="fn_310"></span>[158:3](mosy12.htm#fr_310.md) <span
 class="smallcaps">A. H. Sayce</span>. *Op. cit.*, p. 133 *et seq.*
 
-<span id="fn_311"></span>[158:4](mosy12.htm#fr_311) *Id*., p. 242.
+<span id="fn_311"></span>[158:4](mosy12.htm#fr_311.md) *Id*., p. 242.
 
-<span id="fn_312"></span>[158:5](mosy12.htm#fr_312) <span
+<span id="fn_312"></span>[158:5](mosy12.htm#fr_312.md) <span
 class="smallcaps">G. Smith</span>. *Chaldean account of Genesis*.
 London, p. 91.
 
-<span id="fn_313"></span>[159:1](mosy12.htm#fr_313) <span
+<span id="fn_313"></span>[159:1](mosy12.htm#fr_313.md) <span
 class="smallcaps">J. Menant</span>. *Pierres gravées*, vol. i., pp.
 189-191.
 
-<span id="fn_314"></span>[159:2](mosy12.htm#fr_314) <span
+<span id="fn_314"></span>[159:2](mosy12.htm#fr_314.md) <span
 class="smallcaps">J. Menant</span>, *Pierres gravées*, vol. i., fig.
 121.
 
-<span id="fn_315"></span>[159:3](mosy12.htm#fr_315) <span
+<span id="fn_315"></span>[159:3](mosy12.htm#fr_315.md) <span
 class="smallcaps">W. Baudissin</span>. *Studien zur semitischen
 Religiongeschichte*, vol. iii., p. 227.
 
-<span id="fn_316"></span>[159:4](mosy12.htm#fr_316) <span
+<span id="fn_316"></span>[159:4](mosy12.htm#fr_316.md) <span
 class="smallcaps">F. Lenormant</span>. *La divination chez les
 Chaldéens*. Paris, 1875, p. 85.
 
-<span id="fn_317"></span>[160:1](mosy12.htm#fr_317) <span
+<span id="fn_317"></span>[160:1](mosy12.htm#fr_317.md) <span
 class="smallcaps">Sayce</span>. *Op. cit.*, pp. 294–300.
 
-<span id="fn_318"></span>[160:2](mosy12.htm#fr_318) *The Calendar Plant
+<span id="fn_318"></span>[160:2](mosy12.htm#fr_318.md) *The Calendar Plant
 of China*, in the *Babylonian and Oriental Record* for September, 1890,
 p. 218.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Paradisaic Trees of the Aryans](mosy13)
+[Next: III. The Paradisaic Trees of the Aryans](mosy13.md)

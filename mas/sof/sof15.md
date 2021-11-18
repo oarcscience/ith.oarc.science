@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof14)  [Next](sof16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof14)  [Next](sof16.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head13.png"></span> ![Header Chapter
-XIII.](img/head13.png)
+XIII.](img/head13.png.md)
 
 ## XIII.
 
@@ -28,7 +28,7 @@ that system of philosophical religion which, coming through the line of
 the patriarchs, was eventually modified by influences exerted at the
 building of King Solomon's temple, and the spurious being the same
 system as it was altered and corrupted by the polytheism of the nations
-of heathendom. [64](sof37.htm#xref_64)
+of heathendom. [64](sof37.htm#xref_64.md)
 
 As this abstruser mode of symbolism, if less peculiar to the masonic
 system, is, however, far more interesting than the one which was treated
@@ -41,7 +41,7 @@ been described in the preceding article.
 As each individual mason has been supposed to be the symbol of a
 spiritual temple,--"a temple not made with hands, eternal in the
 heavens,"--the lodge or collected assemblage of these masons, is adopted
-as a symbol of the world. [65](sof37.htm#xref_65)
+as a symbol of the world. [65](sof37.htm#xref_65.md)
 
 It is in the first degree of Masonry, more particularly, that this
 species of symbolism is developed. In its detail it derives the
@@ -65,7 +65,7 @@ easily found at fault; and therefore this very symbol furnishes a
 striking evidence of the antiquity of the order. At the Solomonic
 era--the era of the building of the temple at Jerusalem--the world, it
 must be remembered, was supposed to have that very oblong
-form, [66](sof37.htm#xref_66) which has been here symbolized. If, for
+form, [66](sof37.htm#xref_66.md) which has been here symbolized. If, for
 instance, on a map of the world we should inscribe an oblong figure
 whose boundary lines would circumscribe and include just that portion
 which was known to be inhabited in the clays of Solomon, these lines,
@@ -76,7 +76,7 @@ shore of Africa, and the western district of Asia, the length of the
 parallelogram being about sixty degrees from east to west, and its
 breadth being about twenty degrees from north to south. This oblong
 square, thus enclosing the whole of what was then supposed to be the
-habitable globe, [67](sof37.htm#xref_67) would precisely represent what
+habitable globe, [67](sof37.htm#xref_67.md) would precisely represent what
 is symbolically said to be *the form of the lodge*, while the Pillars of
 Hercules in the west, on each side of the straits of Gades or Gibraltar,
 might appropriately be referred to the two pillars that stood at the
@@ -85,7 +85,7 @@ porch of the temple.
 <div>
 
 <span id="img_illus01.png"></span> ![Map of Mediterranean Sea and
-surrounding area.](img/illus01.png)  
+surrounding area.](img/illus01.png.md)  
 Map of Mediterranean Sea and surrounding area.
 
 </div>
@@ -97,10 +97,10 @@ its application, and the world and the universe are made synonymous,
 when the lodge becomes, of course, a symbol of the universe. But in this
 case the definition of the symbol is extended, and to the ideas of
 length and breadth are added those of height and depth, and the lodge is
-said to assume the form of a double cube. [68](sof37.htm#xref_68) The
+said to assume the form of a double cube. [68](sof37.htm#xref_68.md) The
 solid contents of the earth below and the expanse of the heavens above
 will then give the outlines of the cube, and the whole created
-universe [69](sof37.htm#xref_69) will be included within the symbolic
+universe [69](sof37.htm#xref_69.md) will be included within the symbolic
 limits of a mason's lodge.
 
 By always remembering that the lodge is the symbol, in its form and
@@ -120,6 +120,6 @@ the *officers* of a lodge, its *covering*, and a portion of its
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Officers of a Lodge](sof16)
+[Next: XIV. The Officers of a Lodge](sof16.md)
 
 </div>

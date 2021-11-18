@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth067)  [Next](toth069) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth067)  [Next](toth069.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_193">p. 193</span>
 
-## 65. HOW THE COYOTE WAS DECEIVED BY THE WREN. <span id="fr_134"></span>[1](#fn_132)
+## 65. HOW THE COYOTE WAS DECEIVED BY THE WREN. <span id="fr_134"></span>[1](#fn_132.md)
 
 Halíksai! A long time ago, when they were living in Oraíbi, the Coyote
 Woman lived at Íshmovala. She had four children. She always went hunting
@@ -81,9 +81,9 @@ jumped into the canyon and perished.
 
 ### Footnotes
 
-<span id="fn_132"></span>[193:1](toth068.htm#fr_134) Told by
+<span id="fn_132"></span>[193:1](toth068.htm#fr_134.md) Told by
 Tangákhoyoma (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 66. The Áahtu and the Coyote](toth069)
+[Next: 66. The Áahtu and the Coyote](toth069.md)

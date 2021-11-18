@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp04)  [Next](dtp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp04)  [Next](dtp06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -530,7 +530,7 @@ cliffs,
 And bow their tall heads to the plain."
 
 Nearer by, where other ridges had been, and where the awful reeling of
-the cliffs had [occurred](errata.htm#1), right at my feet, indeed, no
+the cliffs had [occurred](errata.htm#1.md), right at my feet, indeed, no
 more was any rocky spire, nor peak, nor cliff there forever! Instead was
 a great lake of steaming water, whose thither shores were veiled by the
 softly settling ashes and clouds of steam condensed by the cold air a
@@ -648,4 +648,4 @@ passed over in silence.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Caiphul](dtp06)
+[Next: Chapter II: Caiphul](dtp06.md)

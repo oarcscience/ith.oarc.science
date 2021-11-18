@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig15)  [Next](vig17) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig15)  [Next](vig17.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,4 +72,4 @@ blow."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](vig17)
+[Next: Chapter XIV](vig17.md)

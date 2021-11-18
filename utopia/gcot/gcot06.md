@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot05)  [Next](gcot07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot05)  [Next](gcot07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ the estimated net available income of Garden City (£50,000 per annum)
 would be sufficient for its municipal needs, I will very shortly state
 how it is proposed to raise the money required for commencing
 operations. The money would be borrowed on 'B' debentures, <span
-id="fr_7"></span>[1](#fn_7) and would be secured by a charge upon the
+id="fr_7"></span>[1](#fn_7.md) and would be secured by a charge upon the
 'rate-rent', subject, of course, to the payment of interest and sinking
 fund in respect of the 'A' debentures on which the purchase money of the
 estate is raised. It is, perhaps, superfluous to remark that, though in
@@ -73,7 +73,7 @@ when those who have advanced money on the 'B' debentures will have a
 really first-class security, and further sums should be easily
 obtainable, and at a reduced rate of interest. Again, it is an important
 part of the project that each ward, or one-sixth part of the city, <span
-id="fr_8"></span>[1](#fn_8) should be in some sense a complete town by
+id="fr_8"></span>[1](#fn_8.md) should be in some sense a complete town by
 itself, and thus the school buildings might serve, in the earlier
 stages, not only as schools, but as places for religious worship, for
 concerts, for libraries, and for meetings of various kinds, so that all
@@ -139,10 +139,10 @@ with heavy legal expenses in settling claims. In this connection it may
 be remarked that the inclusive cost of sites of schools purchased by the
 London School Board since its constitution, i.e. the cost, including old
 buildings, business-disturbance, law charges, etc., has already reached
-the enormous sum of £3,516,072, <span id="fr_9"></span>[1](#fn_9) and
+the enormous sum of £3,516,072, <span id="fr_9"></span>[1](#fn_9.md) and
 the exclusive cost of the sites (370 acres in extent) ready for building
 by the Board is equal, on the average, to £9,500 per acre. <span
-id="fr_10"></span>[2](#fn_10)
+id="fr_10"></span>[2](#fn_10.md)
 
 At this rate the cost of the 24 acres of school sites for Garden City
 would be £228,000, so that another site for a model city could be
@@ -237,7 +237,7 @@ charges. The
 practicability of securing for the poor workers of London the first of
 these great advantages appears to have been for the moment overlooked by
 Professor Marshall in his article in the *Contemporary Review*, <span
-id="fr_11"></span>[1](#fn_11) for the Professor remarks 'Ultimately all
+id="fr_11"></span>[1](#fn_11.md) for the Professor remarks 'Ultimately all
 would gain by the migration, but most' (the italics are my own) '*the
 landowners and the railroads connected with the colony*.' Let us then
 adopt the expedient here advocated of securing that the *landowners*,
@@ -251,7 +251,7 @@ up of the town would specially benefit the main line of railway which
 passed through the estate, it is also true that the earnings of the
 people would not be diminished to the usual extent by railway freights
 and charges. (See Chapter Two, also Chapter Five, [p.
-84](gcot07.htm#page_84).)
+84](gcot07.htm#page_84)..md)
 
 We now come to deal with an element of economy which will be simply
 incalculable. This is to be found in the fact that the town is
@@ -274,10 +274,10 @@ make it more
 
 symmetrical; while the completeness of the early structure should be
 merged in the yet greater completeness of the later development. <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 Garden City is not only planned, but it is planned with a view to the
-very latest of modern requirements, <span id="fr_13"></span>[2](#fn_13)
+very latest of modern requirements, <span id="fr_13"></span>[2](#fn_13.md)
 and it is obviously always easier, and usually far more economical and
 completely satisfactory, to make out of fresh material a new instrument
 than to patch up and alter an old one. This element of economy will be
@@ -405,16 +405,16 @@ the sufficiency of our estimates in another chapter.
 
 ### Footnotes
 
-<span id="fn_7"></span>[70:1](gcot06.htm#fr_7) See note on page
-[50](gcot03.htm#page_50).
+<span id="fn_7"></span>[70:1](gcot06.htm#fr_7.md) See note on page
+[50](gcot03.htm#page_50.md).
 
-<span id="fn_8"></span>[71:1](gcot06.htm#fr_8) See [Diagram
-3](gcot03.htm#img_diag03).
+<span id="fn_8"></span>[71:1](gcot06.htm#fr_8.md) See [Diagram
+3](gcot03.htm#img_diag03.md).
 
-<span id="fn_9"></span>[73:1](gcot06.htm#fr_9) See Report, London School
+<span id="fn_9"></span>[73:1](gcot06.htm#fr_9.md) See Report, London School
 Board, 6th May 1897, p. 1,480.
 
-<span id="fn_10"></span>[73:2](gcot06.htm#fr_10) 'It is a great pity
+<span id="fn_10"></span>[73:2](gcot06.htm#fr_10.md) 'It is a great pity
 that the old suggestion of attaching, wherever possible, half an acre or
 so of land to each public elementary school in the country has never
 been carried out. School gardens might be made the means of giving the
@@ -425,11 +425,11 @@ branch upon which the young have wasted years of their time, and the
 school garden would be the most valuable of object lessons.' *The Echo*,
 Nov. 1890.
 
-<span id="fn_11"></span>[76:1](gcot06.htm#fr_11) No one is, of course,
+<span id="fn_11"></span>[76:1](gcot06.htm#fr_11.md) No one is, of course,
 better aware of this possibility than the Professor himself. (See
 *Principles of Economics*, 2nd ed., Bk. V, Chaps. X and XIII.)
 
-<span id="fn_12"></span>[77:1](gcot06.htm#fr_12) It is commonly thought
+<span id="fn_12"></span>[77:1](gcot06.htm#fr_12.md) It is commonly thought
 that the cities of the United States are planned. This is only true in a
 most inadequate sense. American towns certainly do not consist of
 intricate mazes of streets, the lines of which would appear to have been
@@ -443,7 +443,7 @@ streets; but even this city is not designed with a view of securing to
 its people ready access to nature, while its parks are not central, nor
 are its schools and other buildings arranged in a scientific manner.
 
-<span id="fn_13"></span>[77:2](gcot06.htm#fr_13) 'London has grown up in
+<span id="fn_13"></span>[77:2](gcot06.htm#fr_13.md) 'London has grown up in
 a chaotic manner, without any unity of design, and at the chance
 discretion of any persons who were fortunate enough to own land as it
 came into demand at successive periods for building operations.
@@ -463,4 +463,4 @@ Hon. G. J. Shaw-Lefevre, *New Review*, 1891, p. 435.
 ------------------------------------------------------------------------
 
 [Next: Chapter Five. Further Details of Expenditure on Garden
-City](gcot07)
+City](gcot07.md)

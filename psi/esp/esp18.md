@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](esp17)  [Next](esp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](esp17)  [Next](esp19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Extra-Sensory Perception*, by J. B. Rhine, \[1934\], at Intangible
 Textual Heritage
 
@@ -70,17 +70,17 @@ higher functions of the nervous system. It requires a degree of control
 by the higher functions that permits a certain amount of
 "concentration"; *i.e.*, attention to one thing and exclusion of others.
 This depends upon a certain degree of integration of the nervous system.
-Dissociative drugs, <span id="fr_84"></span>[1](#fn_84) sleepiness and
+Dissociative drugs, <span id="fr_84"></span>[1](#fn_84.md) sleepiness and
 certain illnesses work to lower this integration and self-control;
 whereas drugs that antagonize dissociative drugs help to recover normal
 control. And in our results the data show plainly that dissociative
 factors likewise lower E.S.P. ability, while counteractive factors help
-to restore it. <span id="fr_85"></span>[2](#fn_85)
+to restore it. <span id="fr_85"></span>[2](#fn_85.md)
 
 The effect of sodium amytal has been rather strikingly destructive to
 E.S.P. in all three experiments, with Linzmayer and Pearce in P.C., and
 with Zirkle in P.T. The results are significant beyond question. (See
-[Table XXXVIII](esp18.htm#an_tab38)).
+[Table XXXVIII](esp18.htm#an_tab38).md).
 
 TABLE XXXVIII<span id="an_tab38"></span>
 
@@ -176,7 +176,7 @@ up from 12.8 to 14.7 in 300 trials. The latter average is approximately
 his average under normal conditions of health, rest, etc. But the best
 test for caffeine came 5 hours after taking the sodium amytal. Under the
 influence of the amytal he had dropped to an average of 6.2 in the last
-300 trials. One hour <span id="fr_86"></span>[1](#fn_86) after the 5 gr.
+300 trials. One hour <span id="fr_86"></span>[1](#fn_86.md) after the 5 gr.
 dose of caffeine, he rose to an average of 9.5, which is a rise of 3.3,
 a marked and significant advance.
 
@@ -194,12 +194,12 @@ Not that E.S.P. is comparable in other respects to higher creative
 mental work. It is not, as we shall see in the next two chapters. But it
 does require, as they do, the highest integration of the nervous system.
 The data on illness support this view, though it is amply established, I
-think, anyhow. The following data, in [Table XXXIX](esp18.htm#an_tab39),
+think, anyhow. The following data, in [Table XXXIX](esp18.htm#an_tab39.md),
 are to this point. The illnesses in the four cases were tonsilitis,
 colds or flu, all very dissociative and depressing to most people, and
 destructive to higher mental functioning.
 
-TABLE [XXXIX](errata.htm#7)<span id="an_tab39"></span>
+TABLE [XXXIX](errata.htm#7.md)<span id="an_tab39"></span>
 
 Effect of Illness on E.S.P.
 
@@ -336,7 +336,7 @@ knowledge by one theory. Telepathy or clairvoyance in birds, if any
 exists, as is believed by many from the general facts of homing,
 migration and simultaneous group responses (and I am not convinced), or
 in dogs and horses, of which instances have been reported in the
-scientific literature <span id="fr_87"></span>[1](#fn_87), is a quite
+scientific literature <span id="fr_87"></span>[1](#fn_87.md), is a quite
 different matter. For here we have sensory perception already developed
 to a very high degree. I venture to suggest, therefore (and *merely* to
 suggest), that sensory may be evolutionarily prior to extra-sensory
@@ -421,15 +421,15 @@ word here. Extra-Sensory, then, limits it in the necessary way.
 
 ### Footnotes
 
-<span id="fn_84"></span>[127:1](esp18.htm#fr_84) I am drawing the
+<span id="fn_84"></span>[127:1](esp18.htm#fr_84.md) I am drawing the
 general principles stated here largely from Prof. McDougall's discussion
 of "Fatigue Drugs, and Sleep", Chapter III of *Outline of Abnormal
 Psychology*, Scribners, 1926, and from his earlier work on the mutual
 antagonism of certain drugs in their influence on certain mental
 processes.
 
-<span id="fn_85"></span>[127:2](esp18.htm#fr_85) Brugmann's results of
-increased "telepathy" with 30 grams of [alcohol](errata.htm#6) (See
+<span id="fn_85"></span>[127:2](esp18.htm#fr_85.md) Brugmann's results of
+increased "telepathy" with 30 grams of [alcohol](errata.htm#6.md) (See
 Chapter 2) are not contradictory. So small an amount would not for many
 individuals be noticeably dissociative. In small amounts this drug gives
 the effects of stimulation through the removal of inhibitions and the
@@ -437,7 +437,7 @@ vasomotor changes. But a certain dulling of sensory acuity would
 probably add to ease of abstraction, too. These considerations are
 adequate to account for Brugmann's results.
 
-<span id="fn_86"></span>[128:1](esp18.htm#fr_86) After discussing these
+<span id="fn_86"></span>[128:1](esp18.htm#fr_86.md) After discussing these
 results with Prof. McDougall in the light of his researches on
 drug-antagonisms, I see that one hour was not long enough after the drug
 ingestion for the maximum effect. In fact, the subjective report of
@@ -445,9 +445,9 @@ Zirkle confirmed this point. He was more alert several hours later.
 Prof. McDougall found five hours after ingestion to be the time of
 greatest effect for caffeine.
 
-<span id="fn_87"></span>[129:1](esp18.htm#fr_87) See Chapter 2.
+<span id="fn_87"></span>[129:1](esp18.htm#fr_87.md) See Chapter 2.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter 12. The Psychological Conditions and Bearings of the
-Results](esp19)
+Results](esp19.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti36)  [Next](eti38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti36)  [Next](eti38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -175,7 +175,7 @@ sensation, or force expression, should travel from the
 
 <span id="img_19700"></span> <span align="CENTER"> [![FACING THE OPEN
 WINDOW HE TURNED THE PUPILS OF HIS EYES UPWARD.](tn/19700.jpg)  
-Click to enlarge](img/19700.jpg)  
+Click to enlarge](img/19700.jpg.md)  
 “FACING THE OPEN WINDOW HE TURNED THE PUPILS OF HIS EYES UPWARD.”  
 </span>
 
@@ -237,7 +237,7 @@ slowly a shadowy something seemed to be
 
 <span id="img_20000"></span> <span align="CENTER"> [![A BRAIN, A LIVING
 BRAIN, MV OWN BRAIN.](tn/20000.jpg)  
-Click to enlarge](img/20000.jpg)  
+Click to enlarge](img/20000.jpg.md)  
 “A BRAIN, A LIVING BRAIN, MV OWN BRAIN.”  
 </span>
 
@@ -248,7 +248,7 @@ convolutions assumed. a more decided form, the gray matter was visible,
 filled with venations, first gray and then red, and as I became familiar
 with the sight, suddenly the convolutions of a brain in all its
 exactness, with a network of red blood venations, burst into
-existence. <span id="fr_6"></span>[\*](#fn_6)
+existence. <span id="fr_6"></span>[\*](#fn_6.md)
 
 I beheld a brain, a brain, a living brain, my own brain, and as an
 uncanny sensation possessed me I shudderingly stopped the motion of the
@@ -341,7 +341,7 @@ accomplished, and which you may never know. Come, we must return."
 
 He extinguished the light of the candle, and we departed together,
 trudging back through the mud and the night. <span
-id="fr_7"></span>[\*](#fn_7)
+id="fr_7"></span>[\*](#fn_7.md)
 
 Of that wearisome return trip I have nothing to say beyond the fact that
 before reaching home my companion disappeared in the darkness of a side
@@ -368,17 +368,17 @@ And the mysterious being resumed his reading.
 
 ### Footnotes
 
-<span id="fn_6"></span>[200:\*](eti37.htm#fr_6) This experiment is not
+<span id="fn_6"></span>[200:\*](eti37.htm#fr_6.md) This experiment is not
 claimed as original. Gee Purkinje's Beiträge zur Kenntniss des Sehens in
 subjectiver Hinsicht (Prague, 1823 and 1825), whose conclusions to the
 effect that the shadow of the retina is seen, I-Am-The-Man ignores.—J.
 U. L.
 
-<span id="fn_7"></span>[202:\*](eti37.htm#fr_7) We must acquiesce in the
+<span id="fn_7"></span>[202:\*](eti37.htm#fr_7.md) We must acquiesce in the
 explanation given for this seemingly uncalled-for journey, and yet feel
 that it was unnecessarily exacting.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXI. A Lesson On Volcanoes.—Primary Colors Are Capable
-of Farther Subdivision](eti38)
+of Farther Subdivision](eti38.md)

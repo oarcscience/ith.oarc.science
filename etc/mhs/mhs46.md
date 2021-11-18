@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs45)  [Next](mhs47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs45)  [Next](mhs47.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,4 +162,4 @@ repeating certain incantations originally composed by Solomon.
 
 ------------------------------------------------------------------------
 
-[Next: V. Salutation After Sneezing](mhs47)
+[Next: V. Salutation After Sneezing](mhs47.md)

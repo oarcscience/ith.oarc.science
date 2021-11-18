@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw03)  [Next](tfgw05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw03)  [Next](tfgw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ The Fairies of Rahonain and Elizabeth Shea
 
 ------------------------------------------------------------------------
 
-[Next: The Knights of Kerry - Rahonain Castle](tfgw05)
+[Next: The Knights of Kerry - Rahonain Castle](tfgw05.md)

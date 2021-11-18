@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu17)  [Next](tmu19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu17)  [Next](tmu19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_116">p. 116</span>
 
-### GARBHA-UPANISHAḌ <span id="fr_76"></span>[1](#fn_76)
+### GARBHA-UPANISHAḌ <span id="fr_76"></span>[1](#fn_76.md)
 
 ### OF
 
@@ -39,7 +39,7 @@ this body of five elements, what is the pṛṭhivī element? what āpas? what
 agni? what vāyu? and what ākāś? Pṛṭhivī is said to be that which is
 hard; āpas is said to be that which is liquid; agni is said to be that
 which is hot; vāyu is that, which moves; ākāś is that which is full of
-holes (or tubes <span id="fr_77"></span>[2](#fn_77)). Of these, pṛṭhivī
+holes (or tubes <span id="fr_77"></span>[2](#fn_77).md). Of these, pṛṭhivī
 is seen in supporting (objects), āpas in cohesion, ṭejas (or agni) in
 making forms visible, vāyu in moving, ākāś chiefly in avakāśa (*viz*.,
 giving space). (Then what are the five objects of sense, etc.?) The ear
@@ -130,7 +130,7 @@ cognizes as the one letter
 <span id="page_119">p. 119</span>
 
 <span class="contnote">\[paragraph continues\]</span> (Om). Then there
-arise in the body the eight prakṛṭis <span id="fr_78"></span>[1](#fn_78)
+arise in the body the eight prakṛṭis <span id="fr_78"></span>[1](#fn_78.md)
 and the sixteen vikāras (changes). Through the food and drink of the
 mother transmitted through her nādis, the child obtains prāṇa. In the
 ninth month, it is full of all attributes.
@@ -141,7 +141,7 @@ wrong. (Then it thinks thus:) Many thousands of wombs have been seen by
 me, many kinds of food have been tasted (by me), and many breasts have
 been suckled (by me). All parts of the world have been my place of
 birth, as also my burning-ground in the past. In eighty-four lakhs <span
-id="fr_79"></span>[2](#fn_79) of wombs, have I been born. I have been
+id="fr_79"></span>[2](#fn_79.md) of wombs, have I been born. I have been
 often born and have often died. I have been subject to the cycle of
 rebirths very often. I have had birth and death, again birth and death,
 and again birth (and so on). There is much suffering whilst living in
@@ -149,7 +149,7 @@ the womb. Delusion and sorrow attend every birth. In youth are sorrow,
 grief, dependence on others, ignorance, the non-performance of what is
 beneficial) laziness, and the performance of what is unfavourable. In
 adult age, (the sources of sorrow are) attachment to sensual objects and
-the groaning under the three kinds <span id="fr_80"></span>[3](#fn_80)
+the groaning under the three kinds <span id="fr_80"></span>[3](#fn_80.md)
 of pain. In old age anxiety, disease, fear of death, desires, love of
 self, passion, anger, and non-independence—all these produce very great
 suffering. This birth is the seed of sorrow, and being of the form of
@@ -167,7 +167,7 @@ the cause of the extinction of all evil and the bestower
 of the fruit of emancipation. If I get myself freed from the womb, I
 shall seek refuge in Maheśvara (the great Lord) who is the cause of the
 extinction of all evil and bestower of the (four <span
-id="fr_81"></span>[1](#fn_81)) ends of life. If I get myself freed from
+id="fr_81"></span>[1](#fn_81).md) ends of life. If I get myself freed from
 the womb, then I shall seek refuge in that Lord of the world who is the
 Chiḍāṭmā of all śakṭis and the cause of all causes. If I get myself
 freed from the womb, then I shall seek refuge in that supreme Lord
@@ -183,7 +183,7 @@ good and bad, committed by me alone before for the sake of others,
 whilst those who enjoyed the fruits thereof have disappeared. Through
 non-belief (unspirituality), I formerly gave up all fear (of sin) and
 committed sins. I now reap their fruits. I shall become a believer
-hereafter <span id="fr_82"></span>[2](#fn_82)."
+hereafter <span id="fr_82"></span>[2](#fn_82.md)."
 
 Thus does the Jīva (Āṭmā) within the (mother's womb) contemplate again
 and again the many kinds of miseries (it had undergone), and remembering
@@ -243,14 +243,14 @@ mouth is the anṭarveḍi (raised platform in sacrifice); kāma (or passion)
 is the clarified butter; the period of life is the period of sacrifice;
 nāḍa (sound) produced in ḍahara (heart) is the sāmaveḍa (recited during
 the sacrifice); vaikharī is the yajus (or yajurveḍa hymns); parā,
-paśyanṭi, and maḍhyamā <span id="fr_83"></span>[1](#fn_83) are the ṛks
+paśyanṭi, and maḍhyamā <span id="fr_83"></span>[1](#fn_83.md) are the ṛks
 (or ṛgveḍa hymns); cruel words are the aṭharvas (aṭharvaveḍa hymns) and
 khilas (supplementary texts of each veḍa); true words are the
-vyāhṛṭis <span id="fr_84"></span>[2](#fn_84). Life, strength, and bile
+vyāhṛṭis <span id="fr_84"></span>[2](#fn_84.md). Life, strength, and bile
 are the paśus (sacrificial creatures) and death is avabhṛṭa (the bath
 which concludes the sacrifice). In this sacrifice, the (three) fires
 blaze up and then according to (the desires of) the
-[worldly](errata.htm#8), the ḍevas bless him. All who are living (in
+[worldly](errata.htm#8.md), the ḍevas bless him. All who are living (in
 this world) are the sacrificers. There is none living who does not
 perform yajña (sacrifice). This body is (created) for yajña, and arises
 out of yajña and changes according to yajña. If this yajña is continued
@@ -293,7 +293,7 @@ with the body) on account of aviḍyā. Ajñāna which surrounds it is the
 seed; the antaḥkaraṇa (internal organ) is the sprout and the body is the
 tree. In this tree (of body), there are eight crores of hairs, eighty
 hundreds of joints, nine hundreds of tendons, eight palams of
-heart <span id="fr_85"></span>[1](#fn_85), twelve palams of tongue, one
+heart <span id="fr_85"></span>[1](#fn_85.md), twelve palams of tongue, one
 prasṭha (or two palams) of bile; one ādhaka of phlegm, one kudupa (or ¼
 prasṭha) of śukla and two prasṭhas of marrow. One should consider
 everything as evanescent, like the child in the womb (with its prāṇa,
@@ -309,44 +309,44 @@ Thus ends the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_76"></span>[116:1](tmu18.htm#fr_76) The Upanishaḍ treating
+<span id="fn_76"></span>[116:1](tmu18.htm#fr_76.md) The Upanishaḍ treating
 of embryo, etc.
 
-<span id="fn_77"></span>[116:2](tmu18.htm#fr_77) The Sanskrit word
+<span id="fn_77"></span>[116:2](tmu18.htm#fr_77.md) The Sanskrit word
 'sushira' means perforated or tubular.
 
-<span id="fn_78"></span>[119:1](tmu18.htm#fr_78) The eight prakṛṭis are
+<span id="fn_78"></span>[119:1](tmu18.htm#fr_78.md) The eight prakṛṭis are
 mūlaprakṛṭi, mahaṭ, ahaṅkāra, and the five elements; the sixteen vikāras
 are the five organs of sense, the five organs of action, the five
 prāṇas, and antaḥkaraṇa.
 
-<span id="fn_79"></span>[119:2](tmu18.htm#fr_79) The Hinḍūs believe in
+<span id="fn_79"></span>[119:2](tmu18.htm#fr_79.md) The Hinḍūs believe in
 so many number of wombs to be born on the earth.
 
-<span id="fn_80"></span>[119:3](tmu18.htm#fr_80) Those that arise from
+<span id="fn_80"></span>[119:3](tmu18.htm#fr_80.md) Those that arise from
 the body, the elements, and the ḍevas.
 
-<span id="fn_81"></span>[120:1](tmu18.htm#fr_81) They are kāma
+<span id="fn_81"></span>[120:1](tmu18.htm#fr_81.md) They are kāma
 (passion), ārtha (acquisition of wealth), ḍharma (performance of duty),
 and moksha (salvation).
 
-<span id="fn_82"></span>[120:2](tmu18.htm#fr_82) The reason why it
+<span id="fn_82"></span>[120:2](tmu18.htm#fr_82.md) The reason why it
 remembers them seems to be that the jīvāṭmā is in the pineal gland then,
 prior to its coming down.
 
-<span id="fn_83"></span>[122:1](tmu18.htm#fr_83) Vaikharī and the three
+<span id="fn_83"></span>[122:1](tmu18.htm#fr_83.md) Vaikharī and the three
 others are the different stages of nāḍa (sound).
 
-<span id="fn_84"></span>[122:2](tmu18.htm#fr_84) Vyāhṛṭis are parts of
+<span id="fn_84"></span>[122:2](tmu18.htm#fr_84.md) Vyāhṛṭis are parts of
 the Gāyaṭrī Manṭra, *viz*., Bhūḥ, Bhuvaḥ, Suvaḥ.
 
-<span id="fn_85"></span>[123:1](tmu18.htm#fr_85) Eight palams are 3/5 of
+<span id="fn_85"></span>[123:1](tmu18.htm#fr_85.md) Eight palams are 3/5 of
 a lb. (avdp.)
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 17. Ṭārasāra-Upanishaḍ of Śukla-Yajurveḍa](tmu19)
+[Next: 17. Ṭārasāra-Upanishaḍ of Śukla-Yajurveḍa](tmu19.md)
 
 </div>

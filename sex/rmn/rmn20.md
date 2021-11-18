@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn19)  [Next](rmn21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn19)  [Next](rmn21.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ stretched out, and seem to form a pair of horns.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XX: Two Idols](rmn21)
+[Next: Plate XX: Two Idols](rmn21.md)

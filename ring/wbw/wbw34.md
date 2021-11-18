@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw33) 
-[Next](wbw35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw33.md) 
+[Next](wbw35.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -64,6 +64,6 @@ drunk with love: "The Queen, the Lady, the lovely one!"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXV: Of The King Of Stark-wall And His Queen](wbw35)
+[Next: Chapter XXXV: Of The King Of Stark-wall And His Queen](wbw35.md)
 
 </div>

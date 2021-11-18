@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr10)  [Next](arr12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr10)  [Next](arr12.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ modern chemical phraseology.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Seed of Metals](arr12)
+[Next: Chapter I: The Seed of Metals](arr12.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp18)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp18.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ profit from righteousness, the fame of the righteous amounts to nought.
 world and I can simultaneously be helped, is set forth in the dictum of
 the ancients."
 
-   Yu Tse<span id="page_64_fr_1"></span>[1](#page_64_note_1) said:
+   Yu Tse<span id="page_64_fr_1"></span>[1](#page_64_note_1.md) said:
 
    "He who renounces fame has no sorrow."
 
@@ -37,7 +37,7 @@ things have reality."
 
 ------------------------------------------------------------------------
 
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ things have reality."
 
 <span id="footnotes_page_64">p. 64</span>
 
-<span id="page_64_note_1"></span>[1](#page_64_fr_1) Yu Tse, a
+<span id="page_64_note_1"></span>[1](#page_64_fr_1.md) Yu Tse, a
 philosopher reputed to have lived <span class="small">B.C.</span> 1250.
 
  

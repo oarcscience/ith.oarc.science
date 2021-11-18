@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index) 
-[Index](index)  [Previous](ael13)  [Next](ael15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Ancient Egypt](../index.md) 
+[Index](index)  [Previous](ael13)  [Next](ael15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Egyptian Legends*, by M. A. Murray, \[1920\], at Intangible
 Textual Heritage
 
@@ -160,7 +160,7 @@ remove into those purer and unseen regions…’tis then that this God
 becomes their Leader and King; upon him they wholly depend, still
 beholding without satiety, and still ardently longing after that beauty,
 which ’tis not possible for man to express or think." <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 <span id="page_92">p. 92</span>
 
@@ -509,9 +509,9 @@ rejoice. Hail to thee, Ra, at thy rising; at thy rising in beauty, O Ra.
 
 ### Footnotes
 
-<span id="fn_0"></span>[91:\*](ael14.htm#fr_0) Plutarch, *De Iside et
+<span id="fn_0"></span>[91:\*](ael14.htm#fr_0.md) Plutarch, *De Iside et
 Osiride* (Squire's translation).
 
 ------------------------------------------------------------------------
 
-[Next: Notes](ael15)
+[Next: Notes](ael15.md)

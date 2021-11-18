@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Next](twp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Next](twp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ of attribution is left intact in all copies.
 
 ------------------------------------------------------------------------
 
-[Next: Books by L. Adams Beck](twp01)
+[Next: Books by L. Adams Beck](twp01.md)

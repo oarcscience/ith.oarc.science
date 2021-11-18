@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob09)  [Next](vob11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob09)  [Next](vob11.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ Tracht Eóthaili (Trawohelly) is on the coast of Sligo.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Irische Texte iii. p. 87](vob11)
+[Next: VIII. Irische Texte iii. p. 87](vob11.md)

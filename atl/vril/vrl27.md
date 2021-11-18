@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl26)  [Next](vrl28) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl26)  [Next](vrl28.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ executioner who walks beside him to the place of doom.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXIX](vrl28)
+[Next: CHAPTER XXIX](vrl28.md)

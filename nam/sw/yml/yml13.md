@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml12)  [Next](yml14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml12)  [Next](yml14.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ ate him.
 
 ------------------------------------------------------------------------
 
-[Next: The False Beggar](yml14)
+[Next: The False Beggar](yml14.md)

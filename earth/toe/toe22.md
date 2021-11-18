@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe21)  [Next](toe23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe21)  [Next](toe23.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ States because it was published prior to January 1st, 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](toe23)
+[Next: Contents](toe23.md)

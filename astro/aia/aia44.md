@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia43)  [Next](aia45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia43)  [Next](aia45.md) 
 
 ------------------------------------------------------------------------
 
@@ -228,4 +228,4 @@ house.
 ------------------------------------------------------------------------
 
 [Next: List of Fixed Stars Which may be Considered in Horary
-Questions](aia45)
+Questions](aia45.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha01)  [Next](sha03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha01)  [Next](sha03.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ with a modesty that is charming indeed, yet tantalising. One wishes for
 a portion of the communicativeness that characterises  some of the
 Indian poets. He speaks in the first person only once, in the verses
 introductory to his epic poem *The Dynasty of Raghu*. <span
-id="fr_0"></span>[1](#fn_0) Here also we feel his modesty, and here once
+id="fr_0"></span>[1](#fn_0.md) Here also we feel his modesty, and here once
 more we are balked of details as to his life.
 
 We know from Kalidasa's writings that he spent at least a part of his
@@ -142,7 +142,7 @@ manner hardly possible to one who did not know and love the city.
 Especially in his poem *The Cloud-Messenger* does he dwell upon the
 city's charms, and even bids the cloud make a detour in his long journey
 lest he should miss making its acquaintance. <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 We learn further that Kalidasa travelled widely in India. The fourth
 canto of *The Dynasty of Raghu* describes a tour about the whole of
@@ -278,7 +278,7 @@ common with familiar Greek and Latin forms:
 it makes no systematic use of rhyme; it depends for its rhythm not upon
 accent, but upon quantity. The natural medium of translation into
 English seems to me to be the rhymed stanza; <span
-id="fr_2"></span>[1](#fn_2) in the present work the rhymed stanza has
+id="fr_2"></span>[1](#fn_2.md) in the present work the rhymed stanza has
 been used, with a consistency perhaps too rigid, wherever the original
 is in verse.
 
@@ -386,7 +386,7 @@ monde à l’autre, quand William Jones l’eut révélée à l’Occident.
 Kâlidâsa a marqué sa place dans cette pléiade étincelante où chaque nom
 résume une période de l’esprit humain. La série de ces noms forme
 l’histoire, ou plutôt elle est l’histoire même. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 It is hardly possible to say anything true about Kalidasa's achievement
 which is not already contained in this appreciation. Yet one loves to
@@ -628,19 +628,19 @@ All's well with man, when man and woman love.
 
 ### Footnotes
 
-<span id="fn_0"></span>[x:1](sha02.htm#fr_0) These verses are translated
-on pp. [123](sha15.htm#page_123), 124.
+<span id="fn_0"></span>[x:1](sha02.htm#fr_0.md) These verses are translated
+on pp. [123](sha15.htm#page_123.md), 124.
 
-<span id="fn_1"></span>[x:2](sha02.htm#fr_1) The passage will be found
-on pp. [190](sha17.htm#page_190)-192.
+<span id="fn_1"></span>[x:2](sha02.htm#fr_1.md) The passage will be found
+on pp. [190](sha17.htm#page_190.md)-192.
 
-<span id="fn_2"></span>[xiv:1](sha02.htm#fr_2) This matter is more fully
+<span id="fn_2"></span>[xiv:1](sha02.htm#fr_2.md) This matter is more fully
 discussed in the introduction to my translation of *The Little Clay
 Cart* (1905).
 
-<span id="fn_3"></span>[xvi:1](sha02.htm#fr_3) Levi, *Le Théâtre
+<span id="fn_3"></span>[xvi:1](sha02.htm#fr_3.md) Levi, *Le Théâtre
 Indien*, p. 163.
 
 ------------------------------------------------------------------------
 
-[Next: Dramatis Personæ](sha03)
+[Next: Dramatis Personæ](sha03.md)

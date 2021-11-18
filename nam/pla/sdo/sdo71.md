@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo70)  [Next](sdo72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo70)  [Next](sdo72.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ were the first people on the world and their children are the Lakota.
 
 ------------------------------------------------------------------------
 
-[Next: The Buffalo Woman](sdo72)
+[Next: The Buffalo Woman](sdo72.md)

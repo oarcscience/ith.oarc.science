@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi195)  [Next](mtsi197) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi195)  [Next](mtsi197.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ him a trunk full of things by way of payment.
 
 ------------------------------------------------------------------------
 
-[Next: 61. Money-Spitter](mtsi197)
+[Next: 61. Money-Spitter](mtsi197.md)

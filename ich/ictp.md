@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index)  [Next](ictoc) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index)  [Next](ictoc.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ictoc)
+[Next: Contents](ictoc.md)

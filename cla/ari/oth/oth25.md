@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth24)  [Next](oth26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth24)  [Next](oth26.md) 
 
 ------------------------------------------------------------------------
 
@@ -247,4 +247,4 @@ or movement of the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 14](oth26)
+[Next: Chapter 14](oth26.md)

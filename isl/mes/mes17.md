@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes16)  [Next](mes18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes16)  [Next](mes18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### II.
 
 <span id="img_m01900"></span> ![The Oilman and the
-Parrot.](img/m01900.jpg)
+Parrot.](img/m01900.jpg.md)
 
 <span class="smallcaps">An</span> oilman there was, who a parrot
 possessed,  
@@ -118,7 +118,7 @@ God's curse on their witchcraft and devilish art!
 His blessing on Moses, who chose the best part!
 
 To me, like as apes are man's miscreants all; <span
-id="fr_70"></span>[1](#fn_69)  
+id="fr_70"></span>[1](#fn_69.md)  
 To speak of them causes me, straight, sick to fall!  
 Whatever men practise, apes will copy still;  
 Our actions they mimic; of thought they know *nil*.  
@@ -127,23 +127,23 @@ The reason they seek not; from them that is hid.
 A man acts from reason; an ape from mere whim.  
 Perdition may seize all such actors, and him! <span
 class="margnote"><span id="an_40">40</span></span>  
-The hypocrite <span id="fr_71"></span>[2](#fn_70) worships <span
-id="fr_72"></span>[3](#fn_71) as aping the saint,  
+The hypocrite <span id="fr_71"></span>[2](#fn_70.md) worships <span
+id="fr_72"></span>[3](#fn_71.md) as aping the saint,  
 For form's sake, or worse. His religion's mere feint.
 
 <span id="page_m22">p. 22</span>
 
 In pilgrimage, worship, and fasting, and alms, <span
-id="fr_73"></span>[1](#fn_72)  
+id="fr_73"></span>[1](#fn_72.md)  
 Believers and hypocrites vie, as in psalms.  
 Believers shall win in the last judgment day;  
 The hypocrites then shall receive their due pay.  
 The two are contending one great game of deeds,  
-As factions of Mervites and Rāzites <span id="fr_74"></span>[2](#fn_73)
+As factions of Mervites and Rāzites <span id="fr_74"></span>[2](#fn_73.md)
 with creeds.  
 They each shall go there, where their party shall stand;  
 <span class="margnote"><span id="an_45">45</span></span> And each shall
-be classed as their actions demand. <span id="fr_75"></span>[3](#fn_74)
+be classed as their actions demand. <span id="fr_75"></span>[3](#fn_74.md)
 
 Just style these "Believers," their hearts fill with glee;  
 But dub them all "Hypocrites," rage then thou’lt see.  
@@ -183,7 +183,7 @@ Perception of things mundane guides here below;
 Religion's keen sense leads where God's glories glow.  
 The health of his senses man asks of the leech;  
 Religion's sound sense from the Lord we beseech. <span
-id="fr_76"></span>[1](#fn_75) <span class="margnote"><span
+id="fr_76"></span>[1](#fn_75.md) <span class="margnote"><span
 id="an_60">60</span></span>  
 For healthy perceptions, our frame must be sound;  
 Religion's enjoyments through suff’rings are found.  
@@ -191,7 +191,7 @@ The health of the soul's through a waste of the flesh,
 But after much searching it builds up afresh.
 
 How blest is the soul that, for love of its God, <span
-id="fr_77"></span>[2](#fn_76)  
+id="fr_77"></span>[2](#fn_76.md)  
 Has flung away wealth, health, e’en life, as a sod!  
 Has pulled down its house a hid treasure to find,  
 And built it again from that treasure refined!  
@@ -230,9 +230,9 @@ To trap the unwary who ponders no guile.
 The upright deal faithfully, truly, in trust;  
 The wicked imagine but fraud and distrust.  
 A lion of wool is a beggar's device; <span
-id="fr_78"></span>[1](#fn_77)  
+id="fr_78"></span>[1](#fn_77.md)  
 Musaylama's named Muhammed in a trice. <span
-id="fr_79"></span>[2](#fn_78)  
+id="fr_79"></span>[2](#fn_78.md)  
 Musaylama liar, deceiver we know,  
 Muhammed was faithful in weal and in woe.  
 The wine of God's love was the food of his soul.  
@@ -243,25 +243,25 @@ inebriates dash from thy bowl.
 
 ### Footnotes
 
-<span id="fn_69"></span>[m21:1](mes17.htm#fr_70) In its true sense, the
+<span id="fn_69"></span>[m21:1](mes17.htm#fr_70.md) In its true sense, the
 word "miscreant" signifies *one who holds an erroneous belief*. We
 corruptly say now: *an infidel*.
 
-<span id="fn_70"></span>[m21:2](mes17.htm#fr_71) "Hypocrites," in Islām,
+<span id="fn_70"></span>[m21:2](mes17.htm#fr_71.md) "Hypocrites," in Islām,
 form a faction. They profess the faith openly, but inwardly they hate or
 despise it.
 
-<span id="fn_71"></span>[m21:3](mes17.htm#fr_72) The Muslims "worship"
+<span id="fn_71"></span>[m21:3](mes17.htm#fr_72.md) The Muslims "worship"
 God in their appointed devotions. If they "pray" also, subsequently,
 this is a voluntary act.
 
-<span id="fn_72"></span>[m22:1](mes17.htm#fr_73) "worship, fasting,
+<span id="fn_72"></span>[m22:1](mes17.htm#fr_73.md) "worship, fasting,
 alms, and pilgrimage" are the four acts by which a Muslim outwardly
 attests his faith. "'Worship," five times daily; "fasting," one month
 yearly; "pilgrimage," at Mekka, once, as a duty, in a lifetime; "alms,"
 whenever property of a certain amount is possessed.
 
-<span id="fn_73"></span>[m22:2](mes17.htm#fr_74) "Mervites and Rāzites,"
+<span id="fn_73"></span>[m22:2](mes17.htm#fr_74.md) "Mervites and Rāzites,"
 citizens of Merv and Rey (Rhages), two great Persian cities in former
 days, now in ruins. Merv is at present a Turkman camping-ground, aimed
 at by Russia as a halting place on the road to Herāt and India. Rey, the
@@ -269,20 +269,20 @@ Rhages of the book of Tobit, not far from Tihrān, the Shāh's present
 capital of Persia. The two parties were like Ireland's Orangemen and
 Ribbonmen of our time.
 
-<span id="fn_74"></span>[m22:3](mes17.htm#fr_75) Heaven and Hell; the
+<span id="fn_74"></span>[m22:3](mes17.htm#fr_75.md) Heaven and Hell; the
 "sheep" and the "goats."
 
-<span id="fn_75"></span>[m23:1](mes17.htm#fr_76) The original has "the
+<span id="fn_75"></span>[m23:1](mes17.htm#fr_76.md) The original has "the
 Darling;" the highest title given to Mohammed by Muslims is *God's
 Darling;* which is not found in the Qur’ān.
 
-<span id="fn_76"></span>[m23:2](mes17.htm#fr_77) The original has "its
+<span id="fn_76"></span>[m23:2](mes17.htm#fr_77.md) The original has "its
 dear one;" God is *the dear one* of mystics.
 
-<span id="fn_77"></span>[m24:1](mes17.htm#fr_78) A *woollen lion* is a
+<span id="fn_77"></span>[m24:1](mes17.htm#fr_78.md) A *woollen lion* is a
 toy made and sold or exhibited by mendicants.
 
-<span id="fn_78"></span>[m24:2](mes17.htm#fr_79) Musaylama was a prince
+<span id="fn_78"></span>[m24:2](mes17.htm#fr_79.md) Musaylama was a prince
 of Naja, who gave himself out as a prophet, and wrote to Muhammed,
 proposing that they should divide Arabia between them. His epistle
 began: "Musaylama, the Apostle of God, to Mohammed, the Apostle of God."
@@ -300,4 +300,4 @@ analogous circumstances.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Jewish King, Persecutor of the Christians](mes18)
+[Next: III. The Jewish King, Persecutor of the Christians](mes18.md)

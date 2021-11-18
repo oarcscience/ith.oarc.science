@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst085)  [Next](inst087) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst085)  [Next](inst087.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ reader to judge what kind of Church that is, for revolting from which we
 are charged with schism. But, on the head and crown of the whole matter,
 I mean the primacy of the Roman See, from which they undertake to prove
 that the Catholic Church is to be found only with them,54  <span
-id="fr_552"></span>[553](#fn_552) we have not yet touched, because it
+id="fr_552"></span>[553](#fn_552.md) we have not yet touched, because it
 did not take its origin either in the institution of Christ, or the
 practice of the early Church, as did those other parts, in regard to
 which we have shown, that though they were ancient in their origin, they
@@ -119,7 +119,7 @@ without sanction from the word of God. Therefore, if our opponents would
 prove what they maintain, it behoves them first of all to show that this
 economy was instituted by Christ. For this purpose, they refer to the
 office of high priest under the law, and the supreme jurisdiction which
-God appointed at Jerusalem.55  <span id="fr_553"></span>[554](#fn_553)
+God appointed at Jerusalem.55  <span id="fr_553"></span>[554](#fn_553.md)
 But the solution is easy, and it is manifold if one does not satisfy
 them. First, no reason obliges us to extend what was useful in one
 nation to the whole world; nay, the cases of one nation and of the whole
@@ -132,7 +132,7 @@ religion has been diffused over the whole globe, who sees not that it is
 altogether absurd to give the government of East and West to one
 individual? It is just as if one were to contend that the whole world
 ought to be governed by one prefect, because one district has not
-several prefects.55  <span id="fr_554"></span>[555](#fn_554) But there
+several prefects.55  <span id="fr_554"></span>[555](#fn_554.md) But there
 is still another reason why that institution ought not to be drawn into
 a precedent. Every one knows that the high priest was a type of Christ;
 now, the priesthood being transferred, that right must also be
@@ -143,7 +143,7 @@ or successor, does not resign the honour to any other. For this
 priesthood consists not in doctrine only, but in the propitiation which
 Christ made by his death, and the intercession which he now makes with
 the Father (<span id="iv.iv.vii-p25.1"></span>[Heb.
-7:11](../../../bib/kjv/heb007.htm#011)<span
+7:11](../../../bib/kjv/heb007.htm#011.md)<span
 id="iv.iv.vii-p25.1"></span>).
 
 <span id="iv.iv.vii-p26"></span>3. That example, therefore, which is
@@ -152,17 +152,17 @@ perpetual law. In the New Testament there is nothing which they can
 produce in confirmation of their opinion, but its having been said to
 one, “Thou art Peter, and upon this rock I will build my Church” (<span
 id="iv.iv.vii-p26.1"></span>[Mt.
-16:18](../../../bib/kjv/mat016.htm#018)<span
+16:18](../../../bib/kjv/mat016.htm#018.md)<span
 id="iv.iv.vii-p26.1"></span>). Again, “Simon, son of Jonas, lovest thou
 me?” “Feed my lambs” (<span id="iv.iv.vii-p26.2"></span>[John
-21:15](../../../bib/kjv/joh021.htm#015)<span
+21:15](../../../bib/kjv/joh021.htm#015.md)<span
 id="iv.iv.vii-p26.2"></span>). But to give strength to these proofs,
 they must, in the first place, show, that to him who is ordered to feed
 the flock of Christ power is given over all churches, and that to bind
 and loose is nothing else than to preside over the whole world. But as
 Peter had received a command from the Lord, so he exhorts all other
 presbyters to feed the Church (<span id="iv.iv.vii-p26.3"></span>[1 Pet.
-5:2](../../../bib/kjv/pe1005.htm#002)<span
+5:2](../../../bib/kjv/pe1005.htm#002.md)<span
 id="iv.iv.vii-p26.3"></span>). Hence we are entitled to infer, that, by
 that expression of Christ, nothing more was given to Peter than to the
 others, or that the right which Peter had received he communicated
@@ -170,13 +170,13 @@ equally to others. But not to argue to no purpose, we elsewhere have,
 from the lips of Christ himself, a clear exposition of what it is to
 bind and loose. It is just to retain and remit sins (<span
 id="iv.iv.vii-p26.4"></span>[John
-10:23](../../../bib/kjv/joh010.htm#023)<span
+10:23](../../../bib/kjv/joh010.htm#023.md)<span
 id="iv.iv.vii-p26.4"></span>). The mode of loosing and binding is
 explained throughout Scripture: but especially in that passage in which
 Paul declares that the ministers of the Gospel are commissioned to
 reconcile men to God, and at the same time to exercise discipline over
 those who reject the benefit (<span id="iv.iv.vii-p26.5"></span>[2 Cor.
-5:18](../../../bib/kjv/co2005.htm#018)<span
+5:18](../../../bib/kjv/co2005.htm#018.md)<span
 id="iv.iv.vii-p26.5"></span>; 10:16).
 
 <span id="iv.iv.vii-p27"></span>4. How unbecomingly they wrest the
@@ -186,7 +186,7 @@ what they can extract from our Saviour’s celebrated answer to Peter. He
 promised him the keys of the kingdom of heaven, and said, that whatever
 things he bound on earth should be bound in heaven (<span
 id="iv.iv.vii-p27.1"></span>[Mt.
-16:19](../../../bib/kjv/mat016.htm#019)<span
+16:19](../../../bib/kjv/mat016.htm#019.md)<span
 id="iv.iv.vii-p27.1"></span>). The moment we are agreed as to the
 meaning of the keys, and the mode of binding, all dispute will cease.
 For the Pope will willingly omit that office assigned to the apostles,
@@ -237,13 +237,13 @@ received for all, because there is unity in all” (Hom. 124).
 <span id="iv.iv.vii-p28"></span>5. But we nowhere read of its being said
 to any other, “Thou art Peter, and upon this rock I will build my
 Church”! (<span id="iv.iv.vii-p28.1"></span>[Mt.
-16:18](../../../bib/kjv/mat016.htm#018)<span
+16:18](../../../bib/kjv/mat016.htm#018.md)<span
 id="iv.iv.vii-p28.1"></span>); as if Christ then affirmed anything else
 of Peter, than Paul and Peter himself affirm of all Christians (<span
 id="iv.iv.vii-p28.2"></span>[Eph.
-2:20](../../../bib/kjv/eph002.htm#020)<span
+2:20](../../../bib/kjv/eph002.htm#020.md)<span
 id="iv.iv.vii-p28.2"></span>; <span id="iv.iv.vii-p28.3"></span>[1 Peter
-2:5](../../../bib/kjv/pe1002.htm#005)<span
+2:5](../../../bib/kjv/pe1002.htm#005.md)<span
 id="iv.iv.vii-p28.3"></span>). The former describes Christ as the chief
 corner-stone, on whom are built all who grow up into a holy temple in
 the Lord; the latter describes us as living stones who are founded on
@@ -258,8 +258,8 @@ fervid zeal, in doctrine, in magnanimity; therefore, he has power over
 them: as if we might not with greater plausibility infer, that Andrew is
 prior to Peter in order, because he preceded him in time, and brought
 him to Christ (<span id="iv.iv.vii-p28.4"></span>[John
-1:40](../../../bib/kjv/joh001.htm#040),
-[42](../../../bib/kjv/joh001.htm#042)<span
+1:40](../../../bib/kjv/joh001.htm#040.md),
+[42](../../../bib/kjv/joh001.htm#042.md)<span
 id="iv.iv.vii-p28.4"></span>); but this I omit. Let Peter have the
 preeminence, still there is a great difference between the honour of
 rank and the possession of power. We see that the Apostles usually left
@@ -274,18 +274,18 @@ governing power over the whole Church. For the ancient quibble which
 they at first used to give a colour—viz. The Church is founded upon
 Peter, because it is said, “On this rock,” &c.—is undeserving of notice,
 not to say of refutation. Some of the Fathers so expounded!55  <span
-id="fr_555"></span>[556](#fn_555) But when the whole of Scripture is
+id="fr_555"></span>[556](#fn_555.md) But when the whole of Scripture is
 repugnant to the exposition, why is their authority brought forward in
 opposition to God? nay, why do we contend about the meaning of these
 words, as if it were obscure or ambiguous, when nothing can be more
 clear and certain? Peter had confessed in his own name, and that of his
 brethren, that Christ was the Son of God (<span
 id="iv.iv.vii-p30.1"></span>[Mt.
-16:16](../../../bib/kjv/mat016.htm#016)<span
+16:16](../../../bib/kjv/mat016.htm#016.md)<span
 id="iv.iv.vii-p30.1"></span>). On this rock Christ builds his Church,
 because it is the only foundation; as Paul says, “Other foundation than
 this can no man lay” (<span id="iv.iv.vii-p30.2"></span>[1 Cor.
-3:11](../../../bib/kjv/co1003.htm#011)<span
+3:11](../../../bib/kjv/co1003.htm#011.md)<span
 id="iv.iv.vii-p30.2"></span>). Therefore, I do not here repudiate the
 authority of the Fathers, because I am destitute of passages from them
 to prove what I say, were I disposed to quote them; but as I have
@@ -298,7 +298,7 @@ this question better than Scripture, if we compare all the passages in
 which it shows what office and power Peter held among the apostles, how
 he acted among them, how he was received by them (<span
 id="iv.iv.vii-p31.1"></span>[Acts
-15:7](../../../bib/kjv/act015.htm#007)<span
+15:7](../../../bib/kjv/act015.htm#007.md)<span
 id="iv.iv.vii-p31.1"></span>). Run over all these passages, and the
 utmost you will find is, that Peter was one of twelve, their equal and
 colleague, not their master. He indeed brings the matter before the
@@ -309,15 +309,15 @@ allowing them to decide; and when they have decided, he follows and
 obeys. When he writes to pastors, he does not command authoritatively as
 a superior, but makes them his colleagues, and courteously advises as
 equals are wont to do (<span id="iv.iv.vii-p31.2"></span>[1 Pet.
-5:1](../../../bib/kjv/pe1005.htm#001)<span
+5:1](../../../bib/kjv/pe1005.htm#001.md)<span
 id="iv.iv.vii-p31.2"></span>). When he is accused of having gone in to
 the Gentiles, though the accusation is unfounded, he replies to it, and
 clears himself (<span id="iv.iv.vii-p31.3"></span>[Acts
-11:3](../../../bib/kjv/act011.htm#003)<span
+11:3](../../../bib/kjv/act011.htm#003.md)<span
 id="iv.iv.vii-p31.3"></span>). Being ordered by his colleagues to go
 with John into Samaria, he declines not (<span
 id="iv.iv.vii-p31.4"></span>[Acts
-8:14](../../../bib/kjv/act008.htm#014)<span
+8:14](../../../bib/kjv/act008.htm#014.md)<span
 id="iv.iv.vii-p31.4"></span>). The apostles, by sending him, declare
 that they by no means regard him as a superior, while he, by obeying and
 undertaking the embassy committed to him, confesses that he is
@@ -326,7 +326,7 @@ these facts existed, the one Epistle to the Galatians would easily
 remove all doubt, there being almost two chapters in which the whole for
 which Paul contends is, that in regard to the honour of the apostleship,
 he is the equal of Peter (<span id="iv.iv.vii-p31.5"></span>[Gal.
-1:18](../../../bib/kjv/gal001.htm#018)<span
+1:18](../../../bib/kjv/gal001.htm#018.md)<span
 id="iv.iv.vii-p31.5"></span>; 2:8). Hence he states, that he went to
 Peter, not to acknowledge subjection, but only to make their agreement
 in doctrine manifest to all; that Peter himself asked no acknowledgment
@@ -335,7 +335,7 @@ be common labourers in the vineyard; that not less grace was bestowed on
 him among the Gentiles than on Peter among the Jews: in fine, that
 Peter, when he was not acting with strict fidelity, was rebuked by him,
 and submitted to the rebuke (<span id="iv.iv.vii-p31.6"></span>[Gal.
-2:11](../../../bib/kjv/gal002.htm#011)<span
+2:11](../../../bib/kjv/gal002.htm#011.md)<span
 id="iv.iv.vii-p31.6"></span>). All these things make it manifest, either
 that there was an equality between Paul and Peter, or, at least, that
 Peter had no more authority over the rest than they had over him. This
@@ -389,8 +389,8 @@ Christ, from whom the whole body fitly joined together, and compacted by
 that which every joint supplieth, according to the effectual working in
 the measure of every part, maketh increase of the body” (<span
 id="iv.iv.vii-p33.1"></span>[Eph.
-4:15](../../../bib/kjv/eph004.htm#015),
-[16](../../../bib/kjv/eph004.htm#016)<span
+4:15](../../../bib/kjv/eph004.htm#015.md),
+[16](../../../bib/kjv/eph004.htm#016.md)<span
 id="iv.iv.vii-p33.1"></span>). See how all men, without exception, are
 placed in the body, while the honour and name of Head is left to Christ
 alone. See how to each member is assigned a certain measure, a finite
@@ -404,7 +404,7 @@ and acting as his substitute. But this cavil cannot avail them, until
 they previously show that this office was ordained by Christ. For the
 apostle teaches, that the whole subministration is diffused through the
 members, while the power flows from one celestial Head;55  <span
-id="fr_556"></span>[557](#fn_556) or, if they will have it more plainly,
+id="fr_556"></span>[557](#fn_556.md) or, if they will have it more plainly,
 since Scripture testifies that Christ is Head, and claims this honour
 for himself alone, it ought not to be transferred to any other than him
 whom Christ himself has made his vicegerent. But not only is there no
@@ -421,7 +421,7 @@ attention to the ministerial offices which he employs: “Unto every one
 of us is given grace according to the measure of the gift of Christ;”
 “And he gave some, apostles; and some, prophets; and some, evangelists;
 and some, pastors and teachers.”55  <span
-id="fr_557"></span>[558](#fn_557) Why does he not say, that one presided
+id="fr_557"></span>[558](#fn_557.md) Why does he not say, that one presided
 over all to act as his substitute? The passage particularly required
 this, and it ought not on any account to have been omitted if it had
 been true. Christ, he says, is present with us. How? By the ministry of
@@ -432,7 +432,7 @@ nothing to men but a common ministry, and a special mode to each. Why,
 when thus commending unity, does he not, after saying, “one body, one
 Spirit, even as ye are called in one hope of your calling, one Lord, one
 faith, one baptism” (<span id="iv.iv.vii-p36.2"></span>[Eph.
-4:4](../../../bib/kjv/eph004.htm#004)<span
+4:4](../../../bib/kjv/eph004.htm#004.md)<span
 id="iv.iv.vii-p36.2"></span>), immediately add, one Supreme Pontiff to
 keep the Church in unity? Nothing could have been said more aptly if the
 case had really been so. Let that passage be diligently pondered, and
@@ -501,7 +501,7 @@ Peter? If honour is due to a church according to the dignity of its
 founder, what shall we say of other churches? Paul names three
 individuals who seemed to be pillars—viz. James, Peter, and John (<span
 id="iv.iv.vii-p39.1"></span>[Gal.
-2:9](../../../bib/kjv/gal002.htm#009)<span
+2:9](../../../bib/kjv/gal002.htm#009.md)<span
 id="iv.iv.vii-p39.1"></span>). If, in honour of Peter, the first place
 is given to the Roman See, do not the churches of Ephesus and Jerusalem,
 where John and James were fixed, deserve the second and third places?
@@ -520,11 +520,11 @@ Certainly it is, that the statement of Eusebius, that he presided over
 it for twenty-five years, is easily refuted. For it appears from the
 first and second chapters of Galatians, that he was at Jerusalem about
 twenty years after the death of Christ, and afterwards came to Antioch.
- <span id="fr_558"></span>[559](#fn_558) How long he remained here is
+ <span id="fr_558"></span>[559](#fn_558.md) How long he remained here is
 uncertain; Gregory counts seven, and Eusebius twenty-five years. But
 from our Saviour’s death to the end of Nero’s reign (under which they
 state that he was put to death), will be found only thirty-seven years.
- <span id="fr_559"></span>[560](#fn_559) For our Lord suffered in the
+ <span id="fr_559"></span>[560](#fn_559.md) For our Lord suffered in the
 eighteenth year of the reign of Tiberius. If you cut off the twenty
 years, during which, as Paul testifies, Peter dwelt at Jerusalem, there
 will remain at most seventeen years; and these must be divided between
@@ -533,11 +533,11 @@ have been of short duration. This we may demonstrate still more clearly.
 Paul wrote to the Romans while he was on his journey to Jerusalem, where
 he was apprehended and conveyed to Rome (<span
 id="iv.iv.vii-p42.1"></span>[Rom.
-15:15](../../../bib/kjv/rom015.htm#015),
-[16](../../../bib/kjv/rom015.htm#016)<span
+15:15](../../../bib/kjv/rom015.htm#015.md),
+[16](../../../bib/kjv/rom015.htm#016.md)<span
 id="iv.iv.vii-p42.1"></span>). It is therefore probable that this letter
 was written four years before his arrival at Rome.  <span
-id="fr_560"></span>[561](#fn_560) Still there is no mention of Peter, as
+id="fr_560"></span>[561](#fn_560.md) Still there is no mention of Peter, as
 there certainly would have been if he had been ruling that church. Nay,
 in the end of the Epistle, where he enumerates a long list of
 individuals whom he orders to be saluted, and in which it may be
@@ -556,14 +556,14 @@ would have said nothing of him if he had been present? Nay, in the
 Epistle to the Philippians, after saying that he had no one who cared
 for the work of the Lord so faithfully as Timothy, he complains, that
 “all seek their own” (<span id="iv.iv.vii-p44.1"></span>[Phil.
-2:21](../../../bib/kjv/phi002.htm#021)<span
-id="iv.iv.vii-p44.1"></span>)  <span id="fr_561"></span>[562](#fn_561) .
+2:21](../../../bib/kjv/phi002.htm#021.md)<span
+id="iv.iv.vii-p44.1"></span>)  <span id="fr_561"></span>[562](#fn_561.md) .
 And to Timothy he makes the more grievous complaint, that no man was
 present at his first defence, that all men forsook him (<span
 id="iv.iv.vii-p45.3"></span>[2 Tim.
-4:16](../../../bib/kjv/ti2004.htm#016)<span
+4:16](../../../bib/kjv/ti2004.htm#016.md)<span
 id="iv.iv.vii-p45.3"></span>). Where then was Peter?  <span
-id="fr_562"></span>[563](#fn_562) If they say that he was at Rome, how
+id="fr_562"></span>[563](#fn_562.md) If they say that he was at Rome, how
 disgraceful the charge which Paul brings against him of being a deserter
 of the Gospel! For he is speaking of believers, since he adds, “The Lord
 lay it not to their charge.” At what time, therefore, and how long, did
@@ -575,12 +575,12 @@ does Augustine, when treating of superstition, disguise the fact, that
 owing to an opinion rashly entertained, it had become customary at Rome
 to fast on the day on which Peter carried away the palm from Simon Magus
 (August. ad Januar. <span id="iv.iv.vii-p46.3"></span>[Ep.
-2](../../../bib/kjv/eph002.htm#000)<span id="iv.iv.vii-p46.3"></span>).
+2](../../../bib/kjv/eph002.htm#000)<span id="iv.iv.vii-p46.3"></span>.md).
 In short, the affairs of that period are so involved from the variety of
 opinions, that credit is not to be given rashly to anything we read
 concerning it. And yet, from this agreement of authors, I do not dispute
 that he died there, but that he was bishop, particularly for a long
-period, I cannot believe.  <span id="fr_563"></span>[564](#fn_563) I do
+period, I cannot believe.  <span id="fr_563"></span>[564](#fn_563.md) I do
 not, however, attach much importance to the point, since Paul testifies,
 that the apostleship of Peter pertained especially to the Jews, but his
 own specially to us. Therefore, in order that that compact which they
@@ -667,13 +667,13 @@ unknown to the ancient Church.
 
 ### Footnotes
 
-<span id="fn_552"></span>[553](inst086.htm#fr_552) <span
+<span id="fn_552"></span>[553](inst086.htm#fr_552.md) <span
 id="iv.iv.vii-p21.1"></span>
 
 <span id="iv.iv.vii-p22"></span>49 549 See Calv. Adversus Concilium
 Tridentinum. Also Adversus Theologos Parisienses.
 
-<span id="fn_553"></span>[554](inst086.htm#fr_553) <span
+<span id="fn_553"></span>[554](inst086.htm#fr_553.md) <span
 id="iv.iv.vii-p23.1"></span>
 
 <span id="iv.iv.vii-p24"></span>50 550 French, “Pour ce faire, ils
@@ -683,7 +683,7 @@ Jerusalem.”—For this purpose, they allege the sovereign priesthood which
 was under the law, and the sovereign jurisdiction of the high priest
 which God had established at Jerusalem.
 
-<span id="fn_554"></span>[555](inst086.htm#fr_554) <span
+<span id="fn_554"></span>[555](inst086.htm#fr_554.md) <span
 id="iv.iv.vii-p24.1"></span>
 
 <span id="iv.iv.vii-p25"></span>51 551 “Car c’est tout ainsi comme si
@@ -692,50 +692,50 @@ seneschal parce que chacune province a le sien.”—For it is just as if
 one were to maintain that the whole world ought to be governed by a
 bailie or seneschal, because each province has its own.
 
-<span id="fn_555"></span>[556](inst086.htm#fr_555) <span
+<span id="fn_555"></span>[556](inst086.htm#fr_555.md) <span
 id="iv.iv.vii-p29.1"></span>
 
 <span id="iv.iv.vii-p30"></span>52 552 French, “Ils ont Four leur
 bouelier, qu’aucuns des Peres les ont ainsi exposees.”—They regard it as
 their buckler, that some of the Fathers have so expounded them.
 
-<span id="fn_556"></span>[557](inst086.htm#fr_556) <span
+<span id="fn_556"></span>[557](inst086.htm#fr_556.md) <span
 id="iv.iv.vii-p33.2"></span>
 
 <span id="iv.iv.vii-p34"></span>59 559 The French adds, “Vision receue
 du Seigneur; Le Seigneur des armees l’a dit,”—A vision received from the
 Lord; The Lord of hosts hath spoken it.
 
-<span id="fn_557"></span>[558](inst086.htm#fr_557) <span
+<span id="fn_557"></span>[558](inst086.htm#fr_557.md) <span
 id="iv.iv.vii-p35.1"></span>
 
 <span id="iv.iv.vii-p36"></span>54 554 <span
 id="iv.iv.vii-p36.1"></span>[Eph.
-4:10](../../../bib/kjv/eph004.htm#010),
-[7](../../../bib/kjv/eph004.htm#007),
-[11](../../../bib/kjv/eph004.htm#011)<span id="iv.iv.vii-p36.1"></span>.
+4:10](../../../bib/kjv/eph004.htm#010.md),
+[7](../../../bib/kjv/eph004.htm#007.md),
+[11](../../../bib/kjv/eph004.htm#011.md)<span id="iv.iv.vii-p36.1"></span>.
 
-<span id="fn_558"></span>[559](inst086.htm#fr_558) <span
+<span id="fn_558"></span>[559](inst086.htm#fr_558.md) <span
 id="iv.iv.vii-p40.1"></span>
 
 <span id="iv.iv.vii-p41"></span>110 D110 Calvin apparently believed that
 Paul’s conversion occurred about three years after the death of Christ;
 that Paul visited Peter in Jerusalem three years later (<span
 id="iv.iv.vii-p41.1"></span>[Gal.
-1:18](../../../bib/kjv/gal001.htm#018)<span
+1:18](../../../bib/kjv/gal001.htm#018.md)<span
 id="iv.iv.vii-p41.1"></span>; <span id="iv.iv.vii-p41.2"></span>[Acts
-9:26](../../../bib/kjv/act009.htm#026)<span
+9:26](../../../bib/kjv/act009.htm#026.md)<span
 id="iv.iv.vii-p41.2"></span>); that Paul saw Peter again at the
 Jerusalem Council fourteen years later (<span
-id="iv.iv.vii-p41.3"></span>[Gal. 2:1](../../../bib/kjv/gal002.htm#001),
-[2](../../../bib/kjv/gal002.htm#002)<span
+id="iv.iv.vii-p41.3"></span>[Gal. 2:1](../../../bib/kjv/gal002.htm#001.md),
+[2](../../../bib/kjv/gal002.htm#002.md)<span
 id="iv.iv.vii-p41.3"></span>:9; <span id="iv.iv.vii-p41.4"></span>[Acts
-15:1-11](../../../bib/kjv/act015.htm#001)<span
+15:1-11](../../../bib/kjv/act015.htm#001.md)<span
 id="iv.iv.vii-p41.4"></span>); and that these three numbers were meant
 to be added together. He therefore locates Peter at Jerusalem about
 twenty years after the death of Christ.
 
-<span id="fn_559"></span>[560](inst086.htm#fr_559) <span
+<span id="fn_559"></span>[560](inst086.htm#fr_559.md) <span
 id="iv.iv.vii-p41.5"></span>
 
 <span id="iv.iv.vii-p42"></span>111 D111 Nero committed suicide in A.D.
@@ -744,7 +744,7 @@ the date of Christ’s death. An addition of twenty years would place
 Peter in Jerusalem until A.D. 51. And following this date, Peter went to
 Antioch.
 
-<span id="fn_560"></span>[561](inst086.htm#fr_560) <span
+<span id="fn_560"></span>[561](inst086.htm#fr_560.md) <span
 id="iv.iv.vii-p42.2"></span>
 
 <span id="iv.iv.vii-p43"></span>112 D112 Paul’s arrival in Rome as a
@@ -756,7 +756,7 @@ mention of him! (although many other names, some of them obscure, appear
 in the closing chapter). The implication that Peter was not in Rome at
 this time (A.D. 56) seems difficult to avoid.
 
-<span id="fn_561"></span>[562](inst086.htm#fr_561) <span
+<span id="fn_561"></span>[562](inst086.htm#fr_561.md) <span
 id="iv.iv.vii-p44.2"></span>
 
 <span id="iv.iv.vii-p45"></span>113 D113 During his first imprisonment
@@ -764,22 +764,22 @@ in Rome (from A.D. 60 to 62), Paul wrote his epistle to the Philippians.
 No mention is made of Peter, but there is a strong commendation of
 Timothy, who not only was with Paul in Rome, but also sought for the
 things which are Christ’s (<span id="iv.iv.vii-p45.1"></span>[Phil.
-2:19-21](../../../bib/kjv/phi002.htm#019)<span
+2:19-21](../../../bib/kjv/phi002.htm#019.md)<span
 id="iv.iv.vii-p45.1"></span>). In addition to Paul’s own epistle, Luke’s
 account of Paul’s two-year imprisonment in Rome (in <span
 id="iv.iv.vii-p45.2"></span>[Acts
-28](../../../bib/kjv/act028.htm#000)<span id="iv.iv.vii-p45.2"></span>)
+28](../../../bib/kjv/act028.htm#000)<span id="iv.iv.vii-p45.2"></span>.md)
 says nothing whatever concerning Peter. It would appear that Peter was
 not in Rome from A.D. 60 to 62.
 
-<span id="fn_562"></span>[563](inst086.htm#fr_562) <span
+<span id="fn_562"></span>[563](inst086.htm#fr_562.md) <span
 id="iv.iv.vii-p45.4"></span>
 
 <span id="iv.iv.vii-p46"></span>114 D114 In Paul’s second epistle to
 Timothy (the last of the Pauline epistles, dated A.D. 67), he states
 that at his first defense no man stood with him, but that all forsook
 him (<span id="iv.iv.vii-p46.1"></span>[2 Tim.
-4:17](../../../bib/kjv/ti2004.htm#017)<span
+4:17](../../../bib/kjv/ti2004.htm#017.md)<span
 id="iv.iv.vii-p46.1"></span>). Where then was Peter? A number of
 theories might be advanced in reply to this question. Let us examine
 for: (1) Peter was in Rome, but in hiding. This theory is not very
@@ -800,7 +800,7 @@ obviously could not have been written by someone who had died two years
 before he wrote it! (4) Peter was imprisoned in Rome at this time,
 expecting shortly to be executed (note <span
 id="iv.iv.vii-p46.2"></span>[2 Peter
-1:14](../../../bib/kjv/pe2001.htm#014)<span
+1:14](../../../bib/kjv/pe2001.htm#014.md)<span
 id="iv.iv.vii-p46.2"></span>), and thus was simply unable to stand with
 Paul. This theory, although it has certain problems, nevertheless has
 one important feature in its favor. It can take into account a two-year
@@ -808,7 +808,7 @@ period of imprisonment (A.D. 66-68) ending in Peter’s execution (during
 which period, in A.D. 67, he was unable to stand with Paul); and include
 within that period Peter’s second epistle (dated A.D. 66).
 
-<span id="fn_563"></span>[564](inst086.htm#fr_563) <span
+<span id="fn_563"></span>[564](inst086.htm#fr_563.md) <span
 id="iv.iv.vii-p46.4"></span>
 
 <span id="iv.iv.vii-p47"></span>115 D115 Calvin in this one sentence
@@ -839,4 +839,4 @@ extra-Biblical, appeared only later in the history of the Church.
 
 [Next: CHAPTER 7. - OF THE BEGINNING AND RISE OF THE ROMISH PAPACY, TILL
 IT ATTAINED A HEIGHT BY WHICH THE LIBERTY OF THE CHURCH WAS DESTROYED,
-AND ALL TRUE RULE OVERTHROWN.](inst087)
+AND ALL TRUE RULE OVERTHROWN.](inst087.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf19)  [Next](tsf21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf19)  [Next](tsf21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -195,9 +195,9 @@ the theologic tenets of Latter Day Sainthood left their mark. But above
 all was the motive of sex, permeating the very essence of the religion
 and the lives of its apostles and followers.
 
-<span id="img_33500"></span> ![Symbols of fertility](img/33500.jpg)  
+<span id="img_33500"></span> ![Symbols of fertility](img/33500.jpg.md)  
 Symbols of fertility
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Revolt Against God](tsf21)
+[Next: Chapter IV. The Revolt Against God](tsf21.md)

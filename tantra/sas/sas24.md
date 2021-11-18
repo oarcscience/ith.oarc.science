@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas23)  [Next](sas25)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas23)  [Next](sas25.md)  
 
 ------------------------------------------------------------------------
 
@@ -1020,4 +1020,4 @@ upon a Vedantic basis.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Twenty-five: Varnamala (The Garland of Letters)](sas25)
+Next: [Chapter Twenty-five: Varnamala (The Garland of Letters)](sas25.md)

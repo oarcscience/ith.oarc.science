@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb59)  [Next](wfb61) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb59)  [Next](wfb61.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ butter in the whole neighbourhood.
 
 ------------------------------------------------------------------------
 
-[Next: Grace's Well](wfb61)
+[Next: Grace's Well](wfb61.md)

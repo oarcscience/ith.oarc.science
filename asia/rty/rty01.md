@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rty00) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rty00.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ the person of him whom they designate "Sheikh Adi," and who there is
 every reason to believe also represents the Deity in their theology. The
 conversation which I held with the guardians of the temple clearly leads
 to this conclusion, and the same has been declared to we again and again
-by many Yezeedees. <span id="fr_0"></span>[1](#fn_0) In that case his
+by many Yezeedees. <span id="fr_0"></span>[1](#fn_0.md) In that case his
 tomb must be regarded as a myth, and the prefix "Sheikh"
 
 <span id="page_113">p. 113</span>
@@ -110,7 +110,7 @@ And I am he to whom all men came,
 Obedient to me they kissed my feet.  
 I am the mouth, the moisture of whose spittle  
 Is as honey, wherewith I constitute my confidents. <span
-id="fr_1"></span>[1](#fn_1)  
+id="fr_1"></span>[1](#fn_1.md)  
 And by his light he hath lighted the lamp of the morning.  
 I guide him that seeketh my direction.  
 And I am he that placed Adam in my paradise.
@@ -129,7 +129,7 @@ And I shine through the power of my awfulness and majesty.
 And I am he to whom the lion of the desert came,  
 I rebuked him and be became like stone.  
 And I am he to whom the serpent came, <span
-id="fr_2"></span>[1](#fn_2)  
+id="fr_2"></span>[1](#fn_2.md)  
 And by my will I made him like dust.  
 And I am he that shook the rock and made it tremble,  
 And sweet water flowed therefrom on every side.  
@@ -149,7 +149,7 @@ And I am he to whom the flinty mountains bow,
 They are under me, and ask to do my pleasure.  
 And I am he before whose majesty the wild beasts wept;  
 They came and worshipped and kissed my feet.  
-I am Adi of the mark, <span id="fr_3"></span>[2](#fn_3) a wanderer,  
+I am Adi of the mark, <span id="fr_3"></span>[2](#fn_3.md) a wanderer,  
 The All-Merciful has distinguished me with names.  
 And my seat and throne are the wide-spread earth.  
 In the depth of my knowledge there is no God but me.  
@@ -216,7 +216,7 @@ Adi, where they celebrate their religious rites with great rejoicing and
 festivity. Mr. Layard was present on one of these occasions, and
 describes the uncontrollable excitement which prevailed among those
 present during the performance of the *Kawwâls*. <span
-id="fr_4"></span>[1](#fn_4) The above, so far as I have been able to
+id="fr_4"></span>[1](#fn_4.md) The above, so far as I have been able to
 learn, forms the substance of their direct worship of the Supreme Being.
 
 The adoration of the run by the Yezeedees may be regarded as a sort of
@@ -304,7 +304,7 @@ cenotaphs, and that the bodies were interred at Sheikh Adi, and then
 again you are told that the *Sheiks* did not really die. From this I
 have been tempted to conclude, that these monuments may be myths, or
 symbols of the attributes ascribed to the Deity, or of supposed Divine
-emanations or incarnations. <span id="fr_5"></span>[1](#fn_5) Twice a
+emanations or incarnations. <span id="fr_5"></span>[1](#fn_5.md) Twice a
 year these festivals are commemorated at the different villages with the
 same rites as those observed at Sheikh Adi; a lamp is nightly kindled
 and left to burn in the *Shaks* called after their names, and in those
@@ -406,7 +406,7 @@ persecuted by the Turkish soldiers, but were made to put on uniform of a
 colour which it was unlawful for any of their community to wear, and
 moreover to eat prohibited food, and to frequent the bath, which for
 them was a sin. I understood afterwards that the colour objected to was
-blue, especially dark blue; <span id="fr_6"></span>[1](#fn_6) and that
+blue, especially dark blue; <span id="fr_6"></span>[1](#fn_6.md) and that
 the prohibited vegetables were lettuce and cabbage. A new levy of
 soldiers was about to take place, which seemed to cast a gloom over
 Sheikh Nâsir and the Yezeedees generally.
@@ -477,7 +477,7 @@ whence it came, saw the procession slowly advancing, but no sooner did
 <span id="page_123">p. 123</span>
 
 they catch a glimpse of our party than they hid the *Senjak*. <span
-id="fr_7"></span>[1](#fn_7) The harsh and deafening noise of the pipes
+id="fr_7"></span>[1](#fn_7.md) The harsh and deafening noise of the pipes
 and tambourines still went on, however, and we stood silent spectators
 of the scene. Two *Peers* preceded the bearer of the sacred cock,
 carrying burning censers in their hands which they waved to and fro,
@@ -536,7 +536,7 @@ symbol which I committed to paper on my return home."
 <span id="img_12400"></span>
 
 [![THE MELEK TAOOS OF THE YEZEEDEES](tn/12400.jpg)  
-Click to enlarge](img/12400.jpg)  
+Click to enlarge](img/12400.jpg.md)  
 THE MELEK TAOOS OF THE YEZEEDEES  
 
 <span id="page_125">p. 125</span>
@@ -566,7 +566,7 @@ What the particular rites are wherewith the Yezeedees testify their
 veneration for the evil principle in their secret assemblies, I am
 unable to state from personal observation; but I received the following
 account from one who has frequently been an eyewitness of them. It
-appears, there are in all seven <span id="fr_8"></span>[1](#fn_8) brazen
+appears, there are in all seven <span id="fr_8"></span>[1](#fn_8.md) brazen
 cocks, which are constantly being carried about in some or other of the
 Yezeedee districts. These are under the absolute control of Sheikh
 Nâsir, who directs their line of march, and in
@@ -617,7 +617,7 @@ and philosopher of the Persians, and the after history of the Yezeedees,
 their admixture with Christians, and subjection to Moslem rule, will
 fully account for any variations in their present opinions and rites,
 from those which they originally professed and practised. <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 <span id="page_128">p. 128</span>
 
@@ -640,7 +640,7 @@ two parties.
 
 Beyond this vague acknowledgment of the SAVIOUR of mankind, and an
 equally uncertain homage which they profess to render to the prophets
-arid apostles, as well as to the Old <span id="fr_10"></span>[1](#fn_10)
+arid apostles, as well as to the Old <span id="fr_10"></span>[1](#fn_10.md)
 and New Testament Scriptures, the Yezeedees practise no rites
 distinctively Christian. Their ceremonial washings at Sheikh Adi, which
 have been thought by some to be borrowed from the Sacrament of Holy
@@ -744,7 +744,7 @@ conducted by the *Kawwâls* and Sheikhs. These are extremely simple, but
 in one respect peculiar: when a Yezeedee is about to die, a *Kawwâl* is
 called in, who pours into his mouth a quantity of water; if he happens
 to die before this ceremony can he performed it is reserved till the
-body is brought to the grave. <span id="fr_11"></span>[1](#fn_11) Whilst
+body is brought to the grave. <span id="fr_11"></span>[1](#fn_11.md) Whilst
 the corpse is laid out in the house, the *Kawwâls* chant one or two
 hymns to the sound of their sacred instruments, and then precede the
 funeral procession to the grave, burning incense as they go. Morning and
@@ -771,7 +771,7 @@ is perhaps one of the most learned among them. He can spell over a few
 chapters of the Koran, and write a tolerable hand; but he could not
 explain to me the meaning of several words in the Yezeedee poem.
 
-The *Kawwâls* <span id="fr_12"></span>[2](#fn_12) have been so
+The *Kawwâls* <span id="fr_12"></span>[2](#fn_12.md) have been so
 frequently brought before the reader in the exercise of their peculiar
 office, that little further
 
@@ -867,7 +867,7 @@ recover from the effects of their former servitude and oppression.
 
 ### Footnotes
 
-<span id="fn_0"></span>[112:1](rty01.htm#fr_0) May not the Yezeedee
+<span id="fn_0"></span>[112:1](rty01.htm#fr_0.md) May not the Yezeedee
 "Adi" be cognate with the Hebrew ‏אד‎ *Adh* or *Ad*, the two first
 letters in the original of Adonai, *the Lord*, and its compounds
 Adonijah, Adonibezek, &c.? This derivation is open to objection on the
@@ -883,7 +883,7 @@ Adi" of the Yezeedees, is the same with "Adi," one of the disciples of
 Mani; but this, I think, improbable, since there is no proof that even
 Mani himself was deified by his followers.
 
-<span id="fn_1"></span>[113:1](rty01.htm#fr_1) Derwishes among the
+<span id="fn_1"></span>[113:1](rty01.htm#fr_1.md) Derwishes among the
 Mohammedans are inducted into office by drinking a bowl of milk into
 which a Sheikh has spat, which ceremony is called *Hâl* by the Arabs.
 The original word which I have translated "Confidents," designates
@@ -891,36 +891,36 @@ literally those learned men whom eastern monarchs used to entertain at
 their courts. The term as above applied seems to indicate the *Kawwâls*
 who are the sacred poets of the Yezeedees.
 
-<span id="fn_2"></span>[114:1](rty01.htm#fr_2) The façade of the temple
+<span id="fn_2"></span>[114:1](rty01.htm#fr_2.md) The façade of the temple
 at Sheikh Adi bears the figure of a lion and serpent, as may be seen
 from the sketch already referred to.
 
-<span id="fn_3"></span>[114:2](rty01.htm#fr_3) The original word is
+<span id="fn_3"></span>[114:2](rty01.htm#fr_3.md) The original word is
 *Esh-Shâmi*, which the ignorant Yezeedees think to mean "the Damascene,"
 and hence they frequently say that Sheikh Adi came from Damascus. The
 spirit of the passage has guided me in the rendering above given, which
 is supported by the context.
 
-<span id="fn_4"></span>[116:1](rty01.htm#fr_4) Nineveh and its Remains,
+<span id="fn_4"></span>[116:1](rty01.htm#fr_4.md) Nineveh and its Remains,
 Vol. I. p. 293.
 
-<span id="fn_5"></span>[118:1](rty01.htm#fr_5) It in a well known fact,
+<span id="fn_5"></span>[118:1](rty01.htm#fr_5.md) It in a well known fact,
 that many of these monuments have been raised within the last century.
 The four walls are first built, some time after these are roofed in, and
 eventually the cone is superadded. I have no doubt that the enclosure,
 to be mentioned presently, will ere long be converted into a *Shaks*.
 
-<span id="fn_6"></span>[121:1](rty01.htm#fr_6) This prejudice against
+<span id="fn_6"></span>[121:1](rty01.htm#fr_6.md) This prejudice against
 blue seems to spring from reverence for that colour. There is a dyeing
 establishment at Ba-Hazâni kept by Christians, where indigo is the only
 dye used. This place is considered sacred by the Yezeedees; who
 frequently resort thither to kiss the door-posts.
 
-<span id="fn_7"></span>[123:1](rty01.htm#fr_7) *Senjak* is the name by
+<span id="fn_7"></span>[123:1](rty01.htm#fr_7.md) *Senjak* is the name by
 which the Yezeedees generally designate this sacred image. The word
 means literally *a Banner*.
 
-<span id="fn_8"></span>[125:1](rty01.htm#fr_8) This seems to be a sacred
+<span id="fn_8"></span>[125:1](rty01.htm#fr_8.md) This seems to be a sacred
 number with the Yezeedees. The reader will remember, that the two lamps
 on the *Senjak*, already described, had each seven burners. We are
 reminded here of the worship of the Sabeans, of whom Gibbon thus writes:
@@ -933,14 +933,14 @@ the week were dedicated to their respective deities." It in worthy of
 note, moreover, that the sceptre engraved on the front of the temple of
 Sheikh Adi has *seven* branches.
 
-<span id="fn_9"></span>[127:1](rty01.htm#fr_9) Mr. Layard, in his
+<span id="fn_9"></span>[127:1](rty01.htm#fr_9.md) Mr. Layard, in his
 "Nineveh and its Remains," (Vol. II. p. 462) gives the annexed sketch of
 a bird from one of the slabs dug up at Nimrood:
 
 <span id="img_12700"></span>
 
 [![](tn/12700.jpg)  
-Click to enlarge](img/12700.jpg)
+Click to enlarge](img/12700.jpg.md)
 
 to which he subjoins the following note. "The Iynges, or sacred birds,
 belonged to the Babylonian and probably to the Assyrian religion. *They
@@ -968,18 +968,18 @@ ancient species of idolatry; it in condemned expressly in Dent. iv. 16,
 similitude of any figure the likeness Of any fowl that flieth in the
 air."
 
-<span id="fn_10"></span>[128:1](rty01.htm#fr_10) The cosmogony of the
+<span id="fn_10"></span>[128:1](rty01.htm#fr_10.md) The cosmogony of the
 Yezeedees is different from that of the Old Testament Scriptures. They
 sometimes speak as though they agreed with us on this subject; but I am
 persuaded that they believe the world to have existed long before Adam.
 From several remarks which dropped from their Sheikhs, I am inclined to
 think that they hold the eternity of matter.
 
-<span id="fn_11"></span>[131:1](rty01.htm#fr_11) The reader will here
+<span id="fn_11"></span>[131:1](rty01.htm#fr_11.md) The reader will here
 remember a practice common among the Brahmins of India, who pour water
 from the Ganges into the mouth of the dying.
 
-<span id="fn_12"></span>[131:2](rty01.htm#fr_12) *Kawwâl* literally
+<span id="fn_12"></span>[131:2](rty01.htm#fr_12.md) *Kawwâl* literally
 means one who can speak fluently, an orator.
 
 It has been my lot to know much of this people under their adverse as

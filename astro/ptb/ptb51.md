@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb50)  [Next](ptb52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb50)  [Next](ptb52.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ female birth.
 
 The masculine or feminine nature of the stars is to be distinguished in
 the manner already pointed out in the commencement of this
-treatise. <span id="fr_141"></span>[1](#fn_141) For instance, by the
+treatise. <span id="fr_141"></span>[1](#fn_141.md) For instance, by the
 nature of the signs in which they are situated, by their relative
 position to each other, and also by their position towards the earth; as
 when in the east, they are masculinely disposed, and, when in the west,
@@ -48,9 +48,9 @@ of the native may be rationally inferred.
 
 ### Footnotes
 
-<span id="fn_141"></span>[83:1](ptb51.htm#fr_141) *Vide* Chapter VI,
+<span id="fn_141"></span>[83:1](ptb51.htm#fr_141.md) *Vide* Chapter VI,
 Book I.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Twins](ptb52)
+[Next: Chapter VIII. Twins](ptb52.md)

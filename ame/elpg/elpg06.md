@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](elpg05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](elpg05.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ to make many changes, even in the same family, even today.
 first, those derived from personal names; second, those derived from
 occupation; and third, those derived from the place where the individual
 lived (including house signs) or whence he came," says Kuhns, <span
-id="fr_1"></span>[2](#fn_1) and "in this last class may likewise be
+id="fr_1"></span>[2](#fn_1.md) and "in this last class may likewise be
 properly included nicknames, or those due to personal peculiarities,
 physical or mental."
 
@@ -108,7 +108,7 @@ in Aargau), Neuenschwander (village in Berne), Oberholtzer (several
 villages in Berne), Ruegsegger (Berne: P.G. Ricksecker), Schollenberger
 (castle and village, Zürich), Schwab (a Swabian: P.G. Swope), Urner
 (from Canton Uri), Zug (Canton Zug), Zürcher (from Zürich). <span
-id="fr_2"></span>[3](#fn_2)
+id="fr_2"></span>[3](#fn_2.md)
 
 During the Middle Ages the houses were not numbered as now, but had
 signs painted on them, something after the manner of hotels at the
@@ -138,7 +138,7 @@ Some are of French Huguenot origin, which by combined German and English
 influence have often received a not very elegant or euphonious form:
 examples are Lemon (Le Mon), Bushong (Beauchamp), and Shunk (Jean); the
 original Fierre was changed to German Faehre, and later became
-anglicised into Ferree. <span id="fr_3"></span>[4](#fn_3)
+anglicised into Ferree. <span id="fr_3"></span>[4](#fn_3.md)
 
 The number of different of spelling even the simplest names is often
 surprisingly large: thus, for the original Graf we find today Graaf,
@@ -154,16 +154,16 @@ methods; and third, by analogy.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2](elpg06.htm#fr_1) Oscar Kuhns, in "The German
+<span id="fn_1"></span>[2](elpg06.htm#fr_1.md) Oscar Kuhns, in "The German
 and Swiss Settlements of Colonial Pennsylvania: A Study of the So-called
 Pennsylvania Dutch;" New York, 1901 and 1914; The Aurand Press.
 
-<span id="fn_2"></span>[3](elpg06.htm#fr_2) Some of these names may come
+<span id="fn_2"></span>[3](elpg06.htm#fr_2.md) Some of these names may come
 from homonymous places in the Palatinate; almost all the Lancaster
 County family-names, however, which are derived from places, are of
 Swiss origin.--O.K.
 
-<span id="fn_3"></span>[4](elpg06.htm#fr_3) Other Huguenot names in
+<span id="fn_3"></span>[4](elpg06.htm#fr_3.md) Other Huguenot names in
 Pennsylvania are Fortuné (Fordney), Correll, Florey, De Frehn, Farney,
 Ruby, Saladé, Benetum, Bevier, Bertalot, Broë (Brua), Lefevre, Levan,
 Erny (this name may be Swiss), Gobain, Hubert.--O.K.

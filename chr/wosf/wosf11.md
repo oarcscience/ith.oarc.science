@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](wosf10)  [Next](wosf12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](wosf10)  [Next](wosf12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RU8U/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,15 +41,15 @@ In the first category, we must place the familiar letter in which St.
 Francis gives St. Antony permission to teach theology (Epistle III, in
 Wadding's edition), and which has been excluded by the Quaracchi editors
 as doubtful on the ground that it exists in too many different
-forms. <span id="fr_369"></span>[1](#fn_369) The letters to Brother
+forms. <span id="fr_369"></span>[1](#fn_369.md) The letters to Brother
 Elias, to the Provincial Ministers, and to the Custodes (Epistles VII,
 IX, and XIV, in Wadding's edition), were translated by Wadding into
-Latin from a Spanish text, <span id="fr_370"></span>[2](#fn_370) and
+Latin from a Spanish text, <span id="fr_370"></span>[2](#fn_370.md) and
 have not come down to us in their original form. Hence they do not
 figure in the Quaracchi edition. Neither does the letter (Epis. XVII, in
 Wadding's edition) to "Brother" Giacoma dei Settisoli, which is clearly
 an extract from Chapter XVIII of the *Actus B. Francisci et Sociorum
-ejus*. <span id="fr_371"></span>[3](#fn_371) Following the
+ejus*. <span id="fr_371"></span>[3](#fn_371.md) Following the
 
 <span id="page_94">p. 94</span>
 
@@ -63,7 +63,7 @@ least, the oldest MSS. do not give them in epistolary form. The two
 former are fragments of a "rule of life" and a "last wish," written by
 St. Francis for St. Clare; No. XIII is an Instruction on the Blessed
 Sacrament. All three are given elsewhere in the present volume in their
-proper form. <span id="fr_372"></span>[1](#fn_372) For the rest, the
+proper form. <span id="fr_372"></span>[1](#fn_372.md) For the rest, the
 Epistles numbered I and II by Wadding form the text of one and the same
 letter "To all the Faithful;" those numbered VI and VIII seem to be a
 summary of the genuine letter "To a Minister," and No. X is part of the
@@ -92,7 +92,7 @@ ascribed to St. Francis by Wadding remain to us, namely:—
 
 To these five letters, the Quaracchi editors have added the undoubtedly
 authentic letter of St. Francis to the Custodes, <span
-id="fr_373"></span>[1](#fn_373) making six in all. Such are the six
+id="fr_373"></span>[1](#fn_373.md) making six in all. Such are the six
 letters which I have here rendered into English. Let us now consider
 each of them in order.
 
@@ -100,15 +100,15 @@ each of them in order.
 
 ### Footnotes
 
-<span id="fn_369"></span>[93:1](wosf11.htm#fr_369) On this letter see
+<span id="fn_369"></span>[93:1](wosf11.htm#fr_369.md) On this letter see
 Appendix.
 
-<span id="fn_370"></span>[93:2](wosf11.htm#fr_370) Wadding drew on the
+<span id="fn_370"></span>[93:2](wosf11.htm#fr_370.md) Wadding drew on the
 Spanish text of Rebolledo (*Chron*, P. I, l. II, c. xxvii) and himself
 appears to have had misgivings, at least as regards the authenticity of
 Epistle VII.
 
-<span id="fn_371"></span>[93:3](wosf11.htm#fr_371) See *Actus B.
+<span id="fn_371"></span>[93:3](wosf11.htm#fr_371.md) See *Actus B.
 Francisci*, etc., ed. Sabatier, p. 63. M. Sabatier attributes the
 authorship of this compilation (which contains, as is now known, among
 other matters, the original Latin text of the traditional *Fioretti*) to
@@ -127,15 +127,15 @@ expression bespeaks a fourteenth century origin at earliest. See *Frère
 Jacqueline: Recherches Historiques*, by Fr. Edouard d’Alencon, Paris,
 1899.
 
-<span id="fn_372"></span>[94:1](wosf11.htm#fr_372) See above, pp.
-[23](wosf05.htm#page_23), [77](wosf08.htm#page_77),
-[78](wosf08.htm#page_78).
+<span id="fn_372"></span>[94:1](wosf11.htm#fr_372.md) See above, pp.
+[23](wosf05.htm#page_23), [77](wosf08.htm#page_77.md),
+[78](wosf08.htm#page_78.md).
 
-<span id="fn_373"></span>[95:1](wosf11.htm#fr_373) The letter which
+<span id="fn_373"></span>[95:1](wosf11.htm#fr_373.md) The letter which
 Wadding translated from the Spanish, under this title and numbered XIV,
 appears to have been an incomplete version of the letter here given in
 full.
 
 ------------------------------------------------------------------------
 
-[Next: I. Letter to All The Faithful](wosf12)
+[Next: I. Letter to All The Faithful](wosf12.md)

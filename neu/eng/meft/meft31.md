@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft30)  [Next](meft32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft30)  [Next](meft32.md) 
 
 ------------------------------------------------------------------------
 
 # Rushen Coatie
 
 <span id="img_046"></span> [![](tn/046.jpg)  
-Click to enlarge](img/046.jpg)
+Click to enlarge](img/046.jpg.md)
 
 THERE was once a king and a queen, as many a one has been; few have we
 seen, and as few may we see. But the queen died, leaving only one bonny
@@ -149,4 +149,4 @@ the prince married her that very day, and they lived happy ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The King o' the Cats](meft32)
+[Next: The King o' the Cats](meft32.md)

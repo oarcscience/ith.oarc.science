@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc10)  [Next](osc12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc10)  [Next](osc12.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ absence of details all the more strange.
 
 ------------------------------------------------------------------------
 
-[Next: (9) Easter Holidays](osc12)
+[Next: (9) Easter Holidays](osc12.md)

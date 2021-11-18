@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp16)  [Next](prp18) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp16)  [Next](prp18.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ If you there had conceal'd the horses and waggon.'\]
 
 ------------------------------------------------------------------------
 
-[Next: 18. Will ever Telethusa, posture-mime](prp18)
+[Next: 18. Will ever Telethusa, posture-mime](prp18.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs36) [Next](hbs38)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs36) [Next](hbs38.md)
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ W<span class="small">HILE</span> still men dreamed not of the dawn, the
 gates were opened wide  
 In Údbina, and from the town a squadron forth did ride.  
 Four and thirty friends are there; before them is Mustay Bey,  
-The lord of Lika;<span id="page_202_fr_1"></span>[1](#page_202_note_1)
+The lord of Lika;<span id="page_202_fr_1"></span>[1](#page_202_note_1.md)
 to Kunor wood he went to hunt that day.  
 For half a week he hunted, but nothing came to hand;  
 To Údbina and Lika he went homeward through the land;  
@@ -76,7 +76,7 @@ Whither wast thou going, and whither have thy comrades gone away?”
 |             | “What sayst thou, Mustay, of Lika that art Bey? |
 
 Hast thou heard of the Latin seacoast, and Kotári<span
-id="page_205_fr_1"></span>[1](#page_205_note_1) set thereon,  
+id="page_205_fr_1"></span>[1](#page_205_note_1.md) set thereon,  
 And of Stoyan, the son of Yanko? I am Stoyan, Yanko’s son,  
 And I had no other comrade than God and myself alone;  
 And I had taken counsel to descend beneath thy tower,  
@@ -317,7 +317,7 @@ And his christened wife he kisses whensoever he awakes.
 
 ------------------------------------------------------------------------
 
-[Next](hbs38)
+[Next](hbs38.md)
 
 ------------------------------------------------------------------------
 
@@ -325,7 +325,7 @@ And his christened wife he kisses whensoever he awakes.
 
 <span id="footnotes_page_202">p. 202</span>
 
-<span id="page_202_note_1"></span>[1](#page_202_fr_1) Lika is a district
+<span id="page_202_note_1"></span>[1](#page_202_fr_1.md) Lika is a district
 in Croatia. Mustay Bey is the favorite hero of the Mohammedan Serbs of
 Bosnia, in whose popular poetry he occupies a place like that of Prince
 Marko in the ballads of their Orthodox kinsmen. See Murko, “Die
@@ -334,7 +334,7 @@ Volkskunde*, Berlin, 1909, pp. 13-30.
 
 <span id="footnotes_page_205">p. 205</span>
 
-<span id="page_205_note_1"></span>[1](#page_205_fr_1) Not Cattaro, but a
+<span id="page_205_note_1"></span>[1](#page_205_fr_1.md) Not Cattaro, but a
 town in northern Dalmatia.
 
  

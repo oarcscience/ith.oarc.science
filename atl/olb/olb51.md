@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb50)  [Next](olb52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb50)  [Next](olb52.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -83,7 +83,7 @@ the cause of it. Then you will be damned. Your ghosts will rise
 frightened out of their graves. They will call upon Wr-alda, Frya, and
 her maidens, but they shall receive no succour before the Juul shall
 enter upon a pew circuit, and that will only be three thousand years
-after this century. <span id="fr_86"></span>[\*](#fn_86)
+after this century. <span id="fr_86"></span>[\*](#fn_86.md)
 
  
 
@@ -97,7 +97,7 @@ after this century. <span id="fr_86"></span>[\*](#fn_86)
 
 ### Footnotes
 
-<span id="fn_86"></span>[233:\*](olb51.htm#fr_86) Here the writing of
+<span id="fn_86"></span>[233:\*](olb51.htm#fr_86.md) Here the writing of
 Beeden ends. In the manuscript two successive pages are missing
 according to the paging, but no doubt there are more wanting. The abrupt
 opening of what follows shows that the beginning of the following
@@ -106,4 +106,4 @@ name of the writer, who may have been a son or a grandson of Beeden.
 
 ------------------------------------------------------------------------
 
-[Next: Fragmentary](olb52)
+[Next: Fragmentary](olb52.md)

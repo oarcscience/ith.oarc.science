@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp45)  [Next](prp47) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp45)  [Next](prp47.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ whipped my belly all over below the navel.'\]
 
 ------------------------------------------------------------------------
 
-[Next: 47. Who of you people here shall come to sup](prp47)
+[Next: 47. Who of you people here shall come to sup](prp47.md)

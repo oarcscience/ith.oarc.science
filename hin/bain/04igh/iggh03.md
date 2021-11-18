@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh02) 
-[Next](iggh04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh02.md) 
+[Next](iggh04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -31,11 +31,11 @@ Textual Heritage
 *Adoration to the Four Eightfold Divinities: the Eight Forms of the Lord
 of Time: the Eight Cardinal Points of Space: the Eight Sections of the
 Revelation of Panini: and the Eight Pairs of Petals of the Lotus of the
-World* <span id="fr_2"></span>[a](#fn_2).
+World* <span id="fr_2"></span>[a](#fn_2.md).
 
 FAR away, in the quarter of the north, there stands a mighty mountain:
 of supereminence so transcendent, that even the Mother of the
-World <span id="fr_3"></span>[b](#fn_3) was willing to call him father:
+World <span id="fr_3"></span>[b](#fn_3.md) was willing to call him father:
 of hue so pure, that even the snowy swans haunting the lake of Mánasa
 blush in his presence as if ashamed of their own inferiority: of size so
 gigantic, that the rising and the setting sun throws his shadow on the
@@ -43,21 +43,21 @@ sky, and
 
 <span id="page_4">p. 4</span>
 
-the seven Rishis <span id="fr_4"></span>[c](#fn_4) in their daily
+the seven Rishis <span id="fr_4"></span>[c](#fn_4.md) in their daily
 revolution turn their eyes upwards to his peak, glowing like a tongue of
 flame at sunset or at dawn. And there on his northern face is the home
 of the Lord of Creatures animate or inanimate. There one evening, when
 the light of day was flying before the shadows that rose up pursuing it
 out of the abysses of the valleys along the mountain sides, the Daughter
 of the Mountain was playing at dice with her lord <span
-id="fr_5"></span>[d](#fn_5). And she won from him, first his elephant
+id="fr_5"></span>[d](#fn_5.md). And she won from him, first his elephant
 skin, and next his rosary of skulls. And finally she said: Now, then, I
 will play thee for that which thou dost carry on thy head. And
 Maheshwara perceived her intention. But he answered: Very well. So the
 Goddess threw the dice, and won. And she exclaimed in delight: Ha! I
 have won. Pay me the stake. Then Maheshwara gave her his moon. Thereupon
 the goddess exclaimed in a rage: Thou art a deceiver. Thou dost owe me
-Gangá, and yet offer me only thy moon <span id="fr_6"></span>[e](#fn_6).
+Gangá, and yet offer me only thy moon <span id="fr_6"></span>[e](#fn_6.md).
 What do I care for
 
 <span id="page_5">p. 5</span>
@@ -73,7 +73,7 @@ face would rob it of its lustre, being itself a moon always at full.
 Moreover, I cannot do without it. Then said the goddess: Why canst thou
 not do without it? And Maheshwara said: Know, that were it withdrawn
 from the forehead of me who am the world <span
-id="fr_7"></span>[f](#fn_7), this universe would cease to exist. Then
+id="fr_7"></span>[f](#fn_7.md), this universe would cease to exist. Then
 said Umá: How can that be? And the god said: Of all created things, the
 new moon is the fairest. And therefore it is that I wear it in my hair,
 as a symbol of that power which is the pivot of all motion animate and
@@ -110,7 +110,7 @@ Then hearing the voice, which echoed like
 thunder among the hills, that man fell face downwards upon the snow. And
 he said: O Maheshwara, giver of boons, for surely it is thou that I hear
 and no other, I am come to thee as a suppliant, and all my hope is in
-thee. Know, that I am a *Kathaka* <span id="fr_8"></span>[g](#fn_8),
+thee. Know, that I am a *Kathaka* <span id="fr_8"></span>[g](#fn_8.md),
 belonging to the household of the King of Pátaliputra, a city of the
 plains. And every night before he went to rest, I told him a story, to
 beguile him and bring sleep to his eyes. So for fourteen years I told
@@ -153,27 +153,27 @@ in the air, and listened with eager ears.
 
 ### Footnotes
 
-<span id="fn_2"></span>[3:a](iggh03.htm#fr_2) The Lord of Time is Shiwa.
+<span id="fn_2"></span>[3:a](iggh03.htm#fr_2.md) The Lord of Time is Shiwa.
 Panini's grammar is believed to have been revealed to him by the deity.
 The Lotus of the world is the goddess of beauty.
 
-<span id="fn_3"></span>[3:b](iggh03.htm#fr_3) Párwatí is the Daughter of
+<span id="fn_3"></span>[3:b](iggh03.htm#fr_3.md) Párwatí is the Daughter of
 Himalaya.
 
-<span id="fn_4"></span>[4:c](iggh03.htm#fr_4) The Great Bear.
+<span id="fn_4"></span>[4:c](iggh03.htm#fr_4.md) The Great Bear.
 
-<span id="fn_5"></span>[4:d](iggh03.htm#fr_5) As, if we may believe
+<span id="fn_5"></span>[4:d](iggh03.htm#fr_5.md) As, if we may believe
 Bhartrihari, they often do, for the lives of men.
 
-<span id="fn_6"></span>[4:e](iggh03.htm#fr_6) Párwatí is represented in
+<span id="fn_6"></span>[4:e](iggh03.htm#fr_6.md) Párwatí is represented in
 Hindoo literature as being very jealous of Gangá (the river Ganges)
 because Shiwa caught her, or it, upon his head.
 
-<span id="fn_7"></span>[5:f](iggh03.htm#fr_7) *Bhawa* means both Shiwa
+<span id="fn_7"></span>[5:f](iggh03.htm#fr_7.md) *Bhawa* means both Shiwa
 and the world.
 
-<span id="fn_8"></span>[7:g](iggh03.htm#fr_8) A story teller.
+<span id="fn_8"></span>[7:g](iggh03.htm#fr_8.md) A story teller.
 
 ------------------------------------------------------------------------
 
-[Next: I. A Denier of Deity](iggh04)
+[Next: I. A Denier of Deity](iggh04.md)

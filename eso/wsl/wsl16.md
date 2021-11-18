@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](wsl15)  [Next](wsl17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](wsl15)  [Next](wsl17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Wanderer in the Sprit Lands*, by Franchezzo (A. Farnese), \[1896\],
 at Intangible Textual Heritage
 
@@ -74,4 +74,4 @@ all three more closely together in the joy of this reunion.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV.--A New Expedition Proposed](wsl17)
+[Next: Chapter XV.--A New Expedition Proposed](wsl17.md)

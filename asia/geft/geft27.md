@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft26)  [Next](geft28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft26)  [Next](geft28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -20,7 +20,7 @@ Textual Heritage
 ### Mingrelian Proverbs
 
 1\. TURN to the right, or turn to the left,  
-’Twill all be one in the end. <span id="fr_48"></span>[1](#fn_47)
+’Twill all be one in the end. <span id="fr_48"></span>[1](#fn_47.md)
 
 2\. The rat that came from outside,  
 Drove out the house-born rat.
@@ -44,7 +44,7 @@ The river flows in the bed of a former river.
 Shall make myself enough room to lie.'
 
 9\. If the bear overcome thee--then call him Papa. <span
-id="fr_49"></span>[2](#fn_48)
+id="fr_49"></span>[2](#fn_48.md)
 
 10\. The dog took fright at a wolf,  
 And barked all the year round at a stump.
@@ -102,12 +102,12 @@ The bluntness of thy sword.
 
 ### Footnotes
 
-<span id="fn_47"></span>[142:1](geft27.htm#fr_48) Cf. note
-[3](geft19.htm#fn_24) on [p. 109](geft19.htm#page_109).
+<span id="fn_47"></span>[142:1](geft27.htm#fr_48.md) Cf. note
+[3](geft19.htm#fn_24) on [p. 109](geft19.htm#page_109.md).
 
-<span id="fn_48"></span>[142:2](geft27.htm#fr_49) Cf. The Talmud
+<span id="fn_48"></span>[142:2](geft27.htm#fr_49.md) Cf. The Talmud
 (Polano's Selections, p. 287). 'If the fox is king bow before him.'
 
 ------------------------------------------------------------------------
 
-[Next: I. The Strong Man and the Dwarf](geft28)
+[Next: I. The Strong Man and the Dwarf](geft28.md)

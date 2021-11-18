@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht25)  [Next](cht27) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht25)  [Next](cht27.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ year he had set his traps \[as usual\], and when he went to look after
 them \[he heard\] a woman crying in a trap. He reached her. Her hand was
 caught in the trap. She was a pretty woman. Her hair was brown, her feet
 and her hands were tattooed. He opened the trap and took her hand out of
-it. She said to him: "You will excel all the [people](errata.htm#0). You
+it. She said to him: "You will excel all the [people](errata.htm#0.md). You
 have caught even me in your trap. You will be a great hunter." The youth
 said: "I shall carry you to our town." Thus he spoke to his supernatural
 helper. "I shall show you to the Indians." Now he carried her home. His
@@ -64,4 +64,4 @@ soon as an elk met him it died. He excelled all hunters,
 
 ------------------------------------------------------------------------
 
-[Next: Pregnancy and Birth](cht27)
+[Next: Pregnancy and Birth](cht27.md)

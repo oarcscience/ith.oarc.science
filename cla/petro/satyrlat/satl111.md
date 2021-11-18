@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#CXI)  [Previous](satl110) 
-[Next](satl112) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#CXI)  [Previous](satl110.md) 
+[Next](satl112.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ prior victa est.
 
 ------------------------------------------------------------------------
 
-[Next: CXII](satl112)
+[Next: CXII](satl112.md)

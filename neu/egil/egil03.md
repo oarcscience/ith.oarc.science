@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil02)  [Next](egil04) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil02)  [Next](egil04.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ freebooting, but Thorolf and Eyvind Lambi kept it on.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER III. The beginning of the rule of Harold
-Fairhair.](egil04)
+Fairhair.](egil04.md)

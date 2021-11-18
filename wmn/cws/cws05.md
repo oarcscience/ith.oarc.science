@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws04)  [Next](cws06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws04)  [Next](cws06.md) 
 
 ------------------------------------------------------------------------
 
 ### No. I
 
-#### CONCERNING THE THREE VEILS BETWEEN MAN AND GOD <span id="fr_42"></span>[1](#fn_42)
+#### CONCERNING THE THREE VEILS BETWEEN MAN AND GOD <span id="fr_42"></span>[1](#fn_42.md)
 
 A GOLDEN chalice, like those used in Catholic rites, but having three
 linings, was given to me in my sleep by an Angel. These linings, he told
@@ -21,7 +21,7 @@ apparent sacrilege, a voice, at a great height in the air, cried with
 startling distinctness: "All the idols He shall utterly destroy!" Then
 the same voice, seeming to ascend still higher, cried to me: "Come
 hither and see!" Immediately it appeared to me that I was lifted up by
-my hair and carried above the earth. <span id="fr_43"></span>[2](#fn_43)
+my hair and carried above the earth. <span id="fr_43"></span>[2](#fn_43.md)
 And suddenly there arose in mid-air the apparition of a man of majestic
 aspect, in an antique garb, and surrounded by a throng of prostrate
 worshippers. At first the appearance of this figure was strange to me;
@@ -110,12 +110,12 @@ heights among the stars,--responded--
 
 ### Footnotes
 
-<span id="fn_42"></span>[1:1](cws05.htm#fr_42) London, March 1881.
+<span id="fn_42"></span>[1:1](cws05.htm#fr_42.md) London, March 1881.
 Referred to in *Life of Anna Kingsford*, vol. ii, pp. 21, 82.
 
-<span id="fn_43"></span>[1:2](cws05.htm#fr_43) *I.e.* lifted up in the
+<span id="fn_43"></span>[1:2](cws05.htm#fr_43.md) *I.e.* lifted up in the
 spiritual consciousness above the material Consciousness.    S. H. H.
 
 ------------------------------------------------------------------------
 
-[Next: No. II: Concerning Inspiration and Prophesying](cws06)
+[Next: No. II: Concerning Inspiration and Prophesying](cws06.md)

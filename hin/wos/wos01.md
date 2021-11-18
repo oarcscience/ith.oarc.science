@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wos00)  [Next](wos02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wos00)  [Next](wos02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Select Works of Sri Sankaracharya*, tr. by S. Venkataramanan, \[1921\],
 at Intangible Textual Heritage
 
@@ -85,4 +85,4 @@ ardent aspirant for the Absolute that is beyond all word and thought.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](wos02)
+[Next: Contents](wos02.md)

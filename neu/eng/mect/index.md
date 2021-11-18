@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,15 +21,15 @@ Sagas](../../index)  [England](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](mect00)    [Text
-\[Zipped\]](mect.txt.gz)
+[Contents](#contents)    [Start Reading](mect00.md)    [Text
+\[Zipped\]](mect.txt.gz.md)
 
 ------------------------------------------------------------------------
 
 This is the complete corpus of Geoffrey Chaucers' works in Middle
 English.
 
-Also at this site: [Tales from Chaucer](../tfc/index).
+Also at this site: [Tales from Chaucer](../tfc/index.md).
 
 ------------------------------------------------------------------------
 
@@ -37,123 +37,123 @@ Also at this site: [Tales from Chaucer](../tfc/index).
 
 ### The Canterbury Tales
 
-[General Prologue](mect00)  
-[The Knight's Tale](mect01)  
-[The Miller's Prologue](mect02)  
-[The Miller's Tale](mect03)  
-[The Reeve's Prologue](mect04)  
-[The Reeve's Tale](mect05)  
-[The Cook's Prologue](mect06)  
-[The Cook's Tale](mect07)  
-[The Man of Law's Introduction and Prologue](mect08)  
-[The Man of Law's Tale](mect09)  
-[The Man of Law's Epilogue](mect10)  
-[The Wife of Bath's Prologue](mect11)  
-[The Wife of Bath's Tale](mect12)  
-[The Friar's Prologue](mect13)  
-[The Friar's Tale](mect14)  
-[The Summoner's Prologue](mect15)  
-[The Summoner's Tale](mect16)  
-[The Clerk's Prologue](mect17)  
-[The Clerk's Tale](mect18)  
-[The Merchant's Prologue](mect19)  
-[The Merchant's Tale](mect20)  
-[The Merchant's Epilogue](mect21)  
-[The Squire's Introduction](mect22)  
-[The Squire's Tale](mect23)  
-[The Franklin's Prologue](mect24)  
-[The Franklin's Tale](mect25)  
-[The Physician's Tale](mect26)  
-[The Pardoner's Introduction and Prologue](mect27)  
-[The Pardoner's Tale](mect28)  
-[The Shipman's Tale](mect29)  
-[The Prioress' Prologue](mect30)  
-[The Prioress' Tale](mect31)  
-[The Prologue to the Tale of Sir Thopas](mect32)  
-[The Tale of Sir Thopas](mect33)  
-[The Tale of Melibee](mect34)  
-[The Monk's Prologue](mect35)  
-[The Monk's Tale](mect36)  
-[The Nun's Priest's Prologue](mect37)  
-[The Nun's Priest's Tale](mect38)  
-[The Nun's Priest's Epilogue](mect39)  
-[The Second Nun's Prologue](mect40)  
-[The Second Nun's Tale](mect41)  
-[The Canon's Yeoman's Prologue](mect42)  
-[The Canon's Yeoman's Tale](mect43)  
-[The Manciple's Prologue](mect44)  
-[The Manciple's Tale](mect45)  
-[The Parson's Prologue](mect46)  
-[The Parson's Tale](mect47)  
-[Chaucer's Retraction](mect48)  
+[General Prologue](mect00.md)  
+[The Knight's Tale](mect01.md)  
+[The Miller's Prologue](mect02.md)  
+[The Miller's Tale](mect03.md)  
+[The Reeve's Prologue](mect04.md)  
+[The Reeve's Tale](mect05.md)  
+[The Cook's Prologue](mect06.md)  
+[The Cook's Tale](mect07.md)  
+[The Man of Law's Introduction and Prologue](mect08.md)  
+[The Man of Law's Tale](mect09.md)  
+[The Man of Law's Epilogue](mect10.md)  
+[The Wife of Bath's Prologue](mect11.md)  
+[The Wife of Bath's Tale](mect12.md)  
+[The Friar's Prologue](mect13.md)  
+[The Friar's Tale](mect14.md)  
+[The Summoner's Prologue](mect15.md)  
+[The Summoner's Tale](mect16.md)  
+[The Clerk's Prologue](mect17.md)  
+[The Clerk's Tale](mect18.md)  
+[The Merchant's Prologue](mect19.md)  
+[The Merchant's Tale](mect20.md)  
+[The Merchant's Epilogue](mect21.md)  
+[The Squire's Introduction](mect22.md)  
+[The Squire's Tale](mect23.md)  
+[The Franklin's Prologue](mect24.md)  
+[The Franklin's Tale](mect25.md)  
+[The Physician's Tale](mect26.md)  
+[The Pardoner's Introduction and Prologue](mect27.md)  
+[The Pardoner's Tale](mect28.md)  
+[The Shipman's Tale](mect29.md)  
+[The Prioress' Prologue](mect30.md)  
+[The Prioress' Tale](mect31.md)  
+[The Prologue to the Tale of Sir Thopas](mect32.md)  
+[The Tale of Sir Thopas](mect33.md)  
+[The Tale of Melibee](mect34.md)  
+[The Monk's Prologue](mect35.md)  
+[The Monk's Tale](mect36.md)  
+[The Nun's Priest's Prologue](mect37.md)  
+[The Nun's Priest's Tale](mect38.md)  
+[The Nun's Priest's Epilogue](mect39.md)  
+[The Second Nun's Prologue](mect40.md)  
+[The Second Nun's Tale](mect41.md)  
+[The Canon's Yeoman's Prologue](mect42.md)  
+[The Canon's Yeoman's Tale](mect43.md)  
+[The Manciple's Prologue](mect44.md)  
+[The Manciple's Tale](mect45.md)  
+[The Parson's Prologue](mect46.md)  
+[The Parson's Tale](mect47.md)  
+[Chaucer's Retraction](mect48.md)  
 <span id="section_001"></span>
 
 ### Other Works
 
-[The Book of the Duchess](mect49)  
-[The House of Fame](mect50)  
-[Anelida and Arcite](mect51)  
-[The Parliament of Fowls](mect52)  
+[The Book of the Duchess](mect49.md)  
+[The House of Fame](mect50.md)  
+[Anelida and Arcite](mect51.md)  
+[The Parliament of Fowls](mect52.md)  
 <span id="section_002"></span>
 
 ### Boece
 
-[Book 1](mect53)  
-[Book 2](mect54)  
-[Book 3](mect55)  
-[Book 4](mect56)  
-[Book 5](mect57)  
+[Book 1](mect53.md)  
+[Book 2](mect54.md)  
+[Book 3](mect55.md)  
+[Book 4](mect56.md)  
+[Book 5](mect57.md)  
 <span id="section_003"></span>
 
 ### Troilus and Criseyde
 
-[Book 1](mect58)  
-[Book 2](mect59)  
-[Book 3](mect60)  
-[Book 4](mect61)  
-[Book 5](mect62)  
+[Book 1](mect58.md)  
+[Book 2](mect59.md)  
+[Book 3](mect60.md)  
+[Book 4](mect61.md)  
+[Book 5](mect62.md)  
 <span id="section_004"></span>
 
 ### The Legend of Good Women
 
-[Prologue F](mect63)  
-[Prologue G](mect64)  
-[The Legends](mect65)  
+[Prologue F](mect63.md)  
+[Prologue G](mect64.md)  
+[The Legends](mect65.md)  
 <span id="section_005"></span>
 
 ### The Shorter Poems
 
-[An ABC](mect66)  
-[The Complaint Unto Pity](mect67)  
-[A Complaint to His Lady](mect68)  
-[The Complaint of Mars](mect69)  
-[The Complaint of Venus](mect70)  
-[To Rosemounde](mect71)  
-[Womanly Noblesse](mect72)  
-[Chaucers Wordes unto Adam, His Owne Scriveyn](mect73)  
-[The Former Age](mect74)  
-[Fortune](mect75)  
-[Truth](mect76)  
-[Gentilesse](mect77)  
-[Lak of Stedfastnesse](mect78)  
-[Lenvoy de Chaucer a Scogan](mect79)  
-[Lenvoy de Chaucer a Bukton](mect80)  
-[The Complaint of Chaucer to His Purse](mect81)  
-[Proverbs](mect82)  
-[Against Women Unconstant](mect83)  
-[Complaynt D'Amours](mect84)  
-[Merciles Beaute](mect85)  
-[A Balade of Complaint](mect86)  
+[An ABC](mect66.md)  
+[The Complaint Unto Pity](mect67.md)  
+[A Complaint to His Lady](mect68.md)  
+[The Complaint of Mars](mect69.md)  
+[The Complaint of Venus](mect70.md)  
+[To Rosemounde](mect71.md)  
+[Womanly Noblesse](mect72.md)  
+[Chaucers Wordes unto Adam, His Owne Scriveyn](mect73.md)  
+[The Former Age](mect74.md)  
+[Fortune](mect75.md)  
+[Truth](mect76.md)  
+[Gentilesse](mect77.md)  
+[Lak of Stedfastnesse](mect78.md)  
+[Lenvoy de Chaucer a Scogan](mect79.md)  
+[Lenvoy de Chaucer a Bukton](mect80.md)  
+[The Complaint of Chaucer to His Purse](mect81.md)  
+[Proverbs](mect82.md)  
+[Against Women Unconstant](mect83.md)  
+[Complaynt D'Amours](mect84.md)  
+[Merciles Beaute](mect85.md)  
+[A Balade of Complaint](mect86.md)  
 <span id="section_006"></span>
 
 ### A Treatise on the Astrolabe
 
-[Part 1](mect87)  
-[Part 2](mect88)  
+[Part 1](mect87.md)  
+[Part 2](mect88.md)  
 <span id="section_007"></span>
 
 ### The Romaunt of the Rose
 
-[Fragment A](mect89)  
-[Fragment B](mect90)  
-[Fragment C](mect91)  
+[Fragment A](mect89.md)  
+[Fragment B](mect90.md)  
+[Fragment C](mect91.md)  

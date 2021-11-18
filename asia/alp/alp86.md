@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp85) 
-[Next](alp87) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp85.md) 
+[Next](alp87.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ and devotion are embodied in these "rows of gems," nor can one help
 thinking that Armenian is the natural language for religious poems. A
 vein of mysticism runs through many of these hymns, especially through
 those written by Gregory of Narek (951-1009), one example of which--"The
-Christ-Child"--appears on page [113](alp73.htm#page_113) of this volume.
+Christ-Child"--appears on page [113](alp73.htm#page_113.md) of this volume.
 But this mysticism is not obscure; on the contrary, it is to the hymn
 what light and shade are to a picture serving to bring it into touch
 with nature.
@@ -135,7 +135,7 @@ Answer: "The sun and the moon."
 There is another usage, belonging especially to young girls, which has
 given rise to an extensive literature. This literature consists of
 *charm-verses*, which are used for fortune-telling. A selection of these
-is given on pages [67](alp50.htm#page_67)-68.
+is given on pages [67](alp50.htm#page_67.md)-68.
 
 Once a year, on the Eve of Ascension Day, young maidens who want their
 fortunes told decorate a bowl with certain specially selected flowers.
@@ -220,11 +220,11 @@ But gradually the power of the Arabs declined.
 
 ### Footnotes
 
-<span id="fn_38"></span>[156:1](alp85.htm#fr_38) The history of this war
+<span id="fn_38"></span>[156:1](alp85.htm#fr_38.md) The history of this war
 is recorded by Eghishé, a contemporary ecclesiastic, whose work is more
 widely read than any book except the Bible. He is a poet rather than an
 historian.
 
 ------------------------------------------------------------------------
 
-[Next: Bagratuni Dynasty](alp87)
+[Next: Bagratuni Dynasty](alp87.md)

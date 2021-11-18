@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog04)  [Next](kog06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog04)  [Next](kog06.md) 
 
 ------------------------------------------------------------------------
 
@@ -574,4 +574,4 @@ hands, and that is the end of this story.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Boots, Cloak, and Ring](kog06)
+[Next: 3. Boots, Cloak, and Ring](kog06.md)

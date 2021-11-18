@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd08)  [Next](smd10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd08)  [Next](smd10.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ month.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. August--The Month of Augustus](smd10)
+[Next: Chapter VIII. August--The Month of Augustus](smd10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Next](ift01) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Next](ift01.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ intact.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](ift01)
+[Next: Preface](ift01.md)

@@ -1,8 +1,8 @@
-[Previous: Jarom](book04)
+[Previous: Jarom](book04.md)
 
-[Next: Words of Mormon](book06)
+[Next: Words of Mormon](book06.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -207,4 +207,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Words of Mormon](book06)
+[Next: Words of Mormon](book06.md)

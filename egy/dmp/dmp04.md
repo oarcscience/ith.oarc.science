@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp03)  [Next](dmp05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp03)  [Next](dmp05.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ Stel, Iaho, Earth-opener."'
 
 ------------------------------------------------------------------------
 
-[Next: Col II.](dmp05)
+[Next: Col II.](dmp05.md)

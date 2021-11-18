@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
-[Index](index)  [Previous](vao01)  [Next](vao03) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
+[Index](index)  [Previous](vao01)  [Next](vao03.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: African Ophiolatry](vao03)
+[Next: Chapter I: African Ophiolatry](vao03.md)

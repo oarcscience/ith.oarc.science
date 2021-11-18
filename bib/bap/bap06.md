@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap05) 
-[Next](bap07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap05.md) 
+[Next](bap07.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ the like (XXX. 4; XLVII. 10); ad uictoriam, in uictoria (= למנצח,
 Hebraists, among whom I cannot reckon myself, may probably detect the
 presence of plays upon words, passages written in poetical form (some of
 which are indeed obvious), and mistranslations. <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 <span id="page_29">p. 29</span>
 
@@ -77,11 +77,11 @@ Other lists are given in Appendix II.
 
 ### Footnotes
 
-<span id="fn_9"></span>[27:1](bap05.htm#fr_9) Pitra thought that the
+<span id="fn_9"></span>[27:1](bap05.htm#fr_9.md) Pitra thought that the
 Latin versions of these were by the same hand: I cannot confirm this
 idea, and indeed incline to question its correctness.
 
-<span id="fn_10"></span>[28:1](bap06.htm#fr_10) Of mistranslations I can
+<span id="fn_10"></span>[28:1](bap06.htm#fr_10.md) Of mistranslations I can
 only point to one. In VIII. 13 Visui appears as a proper name. It seems
 clearly to be a mistake for "and Isui." The error implies a Hebrew
 original: it is not found in the LXX. See the Appendix on Readings *in
@@ -89,4 +89,4 @@ loc*.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Date](bap07)
+[Next: 6. Date](bap07.md)

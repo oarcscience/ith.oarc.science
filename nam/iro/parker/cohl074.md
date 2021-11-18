@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl073)  [Next](cohl075) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl073)  [Next](cohl075.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 <span id="page_55">p. 55</span>
 
-of mind <span id="fr_68"></span>[1](#fn_68) among the chiefs and
+of mind <span id="fr_68"></span>[1](#fn_68.md) among the chiefs and
 head-men and among the people. Nevermore will your race be united.'"
 
 So they said and he said. Eniaiehuk.
@@ -21,7 +21,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_68"></span>[55:1](cohl074.htm#fr_68) This seemingly obscure
+<span id="fn_68"></span>[55:1](cohl074.htm#fr_68.md) This seemingly obscure
 section is cleared of its mystery when the preacher explains that the
 divisions of mind refer to the Gaiwios'tûk or Christian and
 Oñgwe?o<sup>n</sup>weka' or Indian parties. "Dewadia'ke? gani'goî?,
@@ -29,4 +29,4 @@ Oñgwe?o<sup>n</sup>weka' or Indian parties. "Dewadia'ke? gani'goî?,
 
 ------------------------------------------------------------------------
 
-[Next: Section 64](cohl075)
+[Next: Section 64](cohl075.md)

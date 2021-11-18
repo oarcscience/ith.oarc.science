@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt08)  [Next](trt10) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt08)  [Next](trt10.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ that his sister should have dealt so wickedly by him.
 
 ------------------------------------------------------------------------
 
-[Next: What Beaumains Asked of the King](trt10)
+[Next: What Beaumains Asked of the King](trt10.md)

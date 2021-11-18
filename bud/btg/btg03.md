@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg02)  [Next](btg04) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg02)  [Next](btg04.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ in the truth.
 
 ------------------------------------------------------------------------
 
-[Next: Truth, The Savior](btg04)
+[Next: Truth, The Savior](btg04.md)

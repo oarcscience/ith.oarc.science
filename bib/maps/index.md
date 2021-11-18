@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,4 +11,4 @@ This is a collection of Bible Maps scanned from an 1888 edition of the
 Bible, published by the American Bible Society. These images are in the
 public domain and you can use them for any purpose.
 
-[Bible Maps](bmap00)  
+[Bible Maps](bmap00.md)  

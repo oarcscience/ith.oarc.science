@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha08)  [Next](tha10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha08)  [Next](tha10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Fig. 47.<br />
 </tbody>
 </table>
 
-<span id="case56">Case 56</span>. ([Fig. 47](#img_fig47).) X.A., a
+<span id="case56">Case 56</span>. ([Fig. 47](#img_fig47)..md) X.A., a
 childless married woman, thirty-seven years of age, had been ill several
 years. Within the last four she had undergone operations for a floating
 kidney, double hernia, and appendicitis. As the kidney remained very
@@ -103,7 +103,7 @@ There was, besides, a dark patch on the left hypochondrium. She
 complained of pain at each of these discoloured areas, but strange to
 say, both it and the tenderness were more intense in the left iliac
 region, although the colour here was lighter than on the right. The
-excessive darkening on the right side was [attributed](errata.htm#9)
+excessive darkening on the right side was [attributed](errata.htm#9.md)
 rightly or wrongly to descent of the kidney. Periodically she had acute
 suffering in her back, which accounted for the well marked discoloured
 patch.
@@ -117,17 +117,17 @@ deranged in such a manner that no auric force emanates from it, while
 all around the affected spot the healthy parts are emitting auric force
 in the ordinary way, a cylindrical hollow space with its long axis at
 right angles to the body will be the outcome. ([Case
-59](tha09.htm#case59).) More frequently than not the deranged area,
+59](tha09.htm#case59)..md) More frequently than not the deranged area,
 instead of being separated from the healthy portions of the body by a
 sharp line of demarcation, will be surrounded by zones of gradually
 
 <span id="page_219">p. 219</span>
 
-[increasing](errata.htm#10) auric forces. (Cases [57](tha09.htm#case57)
-and [58](tha09.htm#case58).) The result of this condition will be the
+[increasing](errata.htm#10) auric forces. (Cases [57](tha09.htm#case57.md)
+and [58](tha09.htm#case58)..md) The result of this condition will be the
 formation of a conical defect, with its apex towards the body. It may be
 difficult to detect unless large in area, as in [case
-58](tha09.htm#case58). The effect of these void spaces in the aura upon
+58](tha09.htm#case58.md). The effect of these void spaces in the aura upon
 the c.c. band has already been described.
 
 These breaks in the inner aura can only be perceived <span
@@ -150,8 +150,8 @@ depression of aura.<br />
 </table>
 
 under favourable circumstances, and in sections. Up to the present time
-only two or three of them (see cases [58](tha09.htm#case58) and
-[60](tha09.htm#case60)), have been observed except at the side of the
+only two or three of them (see cases [58](tha09.htm#case58.md) and
+[60](tha09.htm#case60).md), have been observed except at the side of the
 body. The reason is obvious; the void intervals by the side of the body
 when the patients stand facing the observer, have not to be viewed
 through the same thickness of aura as when they occur either in front or
@@ -170,7 +170,7 @@ the outer and inner auras in children is so slight, it is probable that
 an observation through a red screen would not have seriously affected
 the result.
 
-<span id="case57">Case 57</span>. ([Fig. 48](#img_fig48).) H.H., a boy
+<span id="case57">Case 57</span>. ([Fig. 48](#img_fig48)..md) H.H., a boy
 ten years old,
 
 <span id="page_220">p. 220</span>
@@ -201,7 +201,7 @@ The aura in the next case displayed a funnel-shaped depression, and when
 the two constituents were separated by the carmine screen the inner was
 seen to be more deranged.
 
-<span id="case58">Case 58</span>. ([Fig. 49](#img_fig49).) B., an old
+<span id="case58">Case 58</span>. ([Fig. 49](#img_fig49)..md) B., an old
 lady, seventy-three years of age, the mother of ten children, had been
 suffering for some time from pain in the epigastrium and abdomen, and
 coincidently losing flesh. It had been suggested that an exploratory
@@ -281,7 +281,7 @@ been easily overlooked. This patch would probably have had the same
 depth of colour as the other yellow spots except for the absence of a
 part of the inner aura.
 
-<span id="case59">Case 59</span>. ([Fig. 50](#img_fig50).) This is an
+<span id="case59">Case 59</span>. ([Fig. 50](#img_fig50)..md) This is an
 extremely instructive case of a delicate looking girl, H.M., seven years
 of age, who in May, 1908, complained of pain in her right hip, which was
 diagnosed as a very early stage of tubercular hip disease. Calmette's
@@ -399,19 +399,19 @@ No part of the body is exempt. The change has been noticed over the
 trunk, front, back, and sides, and upon the upper and lower limbs. It
 occurs most frequently in neurotic people, and also accompanies or
 results from various conditions, *e.g.*, injury ([case
-68](tha09.htm#case68)), growth (page [287](tha10.htm#page_287)),
-muscular atrophy ([case 61](tha09.htm#case61)), herpes zoster ([case
-62](tha09.htm#case62)), disseminated sclerosis
-[(case37](tha08.htm#case37)),
+68](tha09.htm#case68)), growth (page [287](tha10.htm#page_287).md),
+muscular atrophy ([case 61](tha09.htm#case61).md), herpes zoster ([case
+62](tha09.htm#case62).md), disseminated sclerosis
+[(case37](tha08.htm#case37).md),
 
 <span id="page_226">p. 226</span>
 
 etc. The duration of the change cannot usually be determined, but in a
 case of injury to the ribs proved to be purely temporary. ([Case
-68](tha09.htm#case68).)
+68](tha09.htm#case68)..md)
 
-In <span id="case61">case 61</span> (figs. [51](#img_fig51) and
-[52](#img_fig52)), an account is given of some very curious changes in
+In <span id="case61">case 61</span> (figs. [51](#img_fig51.md) and
+[52](#img_fig52).md), an account is given of some very curious changes in
 the aura, including a local vacant space.
 
 N., a woman lately married, twenty-seven years of
@@ -507,7 +507,7 @@ the pathological portion.
 
 <span id="case62">Case 62</span>. F.F., a shoemaker, twenty-two years of
 age. When a boy of seven he had hip disease, and for years suffered from
-[abscesses](errata.htm#11) due to sequestra. He had undergone several
+[abscesses](errata.htm#11.md) due to sequestra. He had undergone several
 operations, but for the last five years had enjoyed good health until a
 week previous to his inspection, when he noticed a rash upon the side of
 his chest followed by an eruption in the axilla and inner side of the
@@ -554,7 +554,7 @@ cases have been seen in which auras impaired in shape have been noticed
 to return gradually to their natural forms, not one has shown the same
 amount of alteration, and none could be so closely followed.
 
-<span id="case63">Case 63</span>. ([Fig. 53](#img_fig53).) D., a
+<span id="case63">Case 63</span>. ([Fig. 53](#img_fig53)..md) D., a
 spinster, forty-seven years of age, whose occupation was housework, was
 <span id="img_fig53"></span>
 
@@ -639,7 +639,7 @@ condition. With the blue c.c. band the quadrilateral space in the
 hypochondriac region still was darker than the rest of the band, but the
 difference was not so pronounced. The extension band on the right side
 also remained of a darker hue than on the left, but the difference was
-less marked. [Fig. 53](#img_fig53) shows the gradual amendment in the
+less marked. [Fig. 53](#img_fig53.md) shows the gradual amendment in the
 aura from time to time.
 
 Some months later, as the patient was in fair health, her aura was again
@@ -780,7 +780,7 @@ made up of fine granules which by their arrangement impart a striated
 appearance. This aura keeps so nearly the same breadth over every part
 of the body, that it is probably the outcome of one and only one force
 emanating from the body, viz., the inner auric force. (Page
-[133](tha06.htm#page_133)).
+[133](tha06.htm#page_133).md).
 
 Any departure from health is liable to derange this force, and to induce
 some change in the substance of the aura. One that can be frequently
@@ -969,7 +969,7 @@ illustration of this condition is seen over the front of the abdomen in
 pregnancy.
 
 Pathological enlargements of the inner aura do indubitably occur, as in
-[case 68](tha09.htm#case68). Whenever the inner aura look broaders
+[case 68](tha09.htm#case68.md). Whenever the inner aura look broaders
 (broadens?—JBH) locally and the texture has not been sufficiently
 altered to abolish striation throughout the whole width, there can be no
 doubt about a real increase if present. At the same time
@@ -1002,7 +1002,7 @@ affecting both auras, making the inner aura appear widened; and of the
 separation of the two auras by the help of static electricity. There
 are, besides, other peculiarities which make the case worth quoting.
 
-<span id="case69">Case 69</span>. ([Fig. 54](#img_fig54)). I.W., a girl
+<span id="case69">Case 69</span>. ([Fig. 54](#img_fig54).md). I.W., a girl
 twenty years old was lately examined. Twelve months previously she had
 an attack of influenza complicated by pleurisy, on the left side, and
 subsequently she had undergone an operation for empyema. A few months
@@ -1067,7 +1067,7 @@ extension of the c.c. band was normal, while the left extension appeared
 darker, but it was difficult to obtain the true colour as the band was
 projected on to the aura itself on a plane in front of the trunk, and
 seemed to be mixed up with the granules. This was a unilateral instance
-of a phenomenon already mentioned. (Page [158](tha07.htm#page_158)). A
+of a phenomenon already mentioned. (Page [158](tha07.htm#page_158).md). A
 dark spot was also discovered upon the nape of the neck.
 
 To sum up, the inner aura does not vary in shape and size to the same
@@ -1125,4 +1125,4 @@ faint and delicate.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. The Use of the Complementary Coloured Bands in
-Disease](tha10)
+Disease](tha10.md)

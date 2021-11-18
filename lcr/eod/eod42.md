@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod41)  [Next](eod43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod41)  [Next](eod43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -35,12 +35,12 @@ this seven-fold power of wrecking vengeance came to be symbolized by a
 creature with seven heads.
 
 A Japanese story told in Henderson's notes to Campbell's "Celtic Dragon
-Myth" <span id="fr_412"></span>[1](#fn_412) will serve as an
+Myth" <span id="fr_412"></span>[1](#fn_412.md) will serve as an
 introduction to the seven-headed monster:—
 
 "A man came to a house where all were weeping, and learned that the last
 daughter of the house was to be given to a dragon with *seven or
-eight* <span id="fr_413"></span>[2](#fn_413) heads who came to the
+eight* <span id="fr_413"></span>[2](#fn_413.md) heads who came to the
 sea-shore yearly to claim a victim. He went with her, enticed the dragon
 to drink *sake* from pots set out on the shore, and then he slew the
 monster. From the end of his tail he took out a sword, which is supposed
@@ -56,7 +56,7 @@ The seven-headed dragon probably originated from the seven Hathors. In
 Southern India the Dravidian people seem to have borrowed the Egyptian
 idea of the seven Hathors. "There are seven Mari deities, all sisters,
 who are worshipped in Mysore. All the seven sisters are regarded vaguely
-as wives or sisters of Siva." <span id="fr_414"></span>[3](#fn_414) At
+as wives or sisters of Siva." <span id="fr_414"></span>[3](#fn_414.md) At
 one village in the Trichinopoly district Bishop Whitehead found that the
 goddess Kāliamma was represented by seven brass pots, and adds: "It is
 possible that the seven brass pots represent seven sisters or the seven
@@ -71,7 +71,7 @@ reveals their ultimate derivation from Babylonia. In the Scottish
 
 story the seven-headed dragon comes in a storm of wind and spray. The
 East African serpent comes in a storm of wind and dust. <span
-id="fr_415"></span>[1](#fn_415) In the Babylonian story seven winds
+id="fr_415"></span>[1](#fn_415.md) In the Babylonian story seven winds
 destroy Tiamat.
 
 “The famous legend of the seven devils current in antiquity was of
@@ -110,7 +110,7 @@ condition, at peace with the gods and in a state of atonement, is
 protected by a divine spirit whom they conceived of as dwelling in their
 bodies along with their souls or ‘the breath of life’. In many ways the
 Egyptians held the same doctrine, in their belief concerning the
-*ka* <span id="fr_416"></span>[2](#fn_416) or the soul's double.
+*ka* <span id="fr_416"></span>[2](#fn_416.md) or the soul's double.
 According to the beliefs of the Sumerians and Babylonians these devils,
 evil spirits, and all evil powers stand for ever waiting to attach
 (*sic*) (? attack) the divine genius with each man. By means of
@@ -137,10 +137,10 @@ Vol. VIII, No. 1, March, 1917, pp. 39-44).
 But the Babylonians not only adopted the Egyptian conception of the
 power of evil as being seven demons, but they also seem to have fused
 these seven into one, or rather given the real dragon seven-fold
-attributes. <span id="fr_417"></span>[1](#fn_417)
+attributes. <span id="fr_417"></span>[1](#fn_417.md)
 
 In "The Cuneiform Inscriptions of Western Asia" <span
-id="fr_418"></span>[2](#fn_418) (British Museum), Marduk's weapon is
+id="fr_418"></span>[2](#fn_418) (British Museum.md), Marduk's weapon is
 compared to "the fish with seven wings".
 
 The god himself is represented as addressing it in these words: "The
@@ -151,7 +151,7 @@ serpent of the sea (sweeps away) the foe".
 In the Japanese story which I have quoted, the number of the dragon's
 heads is given as *seven* or *eight;* and de Visser is at a loss to know
 why "the number eight should be stereotyped in these stories of
-\[Japanese\] dragons". <span id="fr_419"></span>[3](#fn_419)
+\[Japanese\] dragons". <span id="fr_419"></span>[3](#fn_419.md)
 
 I have already emphasized the worldwide association of the seven-headed
 
@@ -169,10 +169,10 @@ process of blending the seven *avatars* of the dragon into a
 seven-headed dragon may have been facilitated by its identification with
 the *Pterocera* and the octopus. We know that the octopus and the
 shell-fish were forms assumed by the dragon (see [p.
-172](eod36.htm#page_172)): the confusion between the numbers seven and
+172](eod36.htm#page_172).md): the confusion between the numbers seven and
 eight is such as might have been created during the transference of the
 *Pterocera's* attributes to the octopus (*vide supra*, [p.
-170](eod36.htm#page_170)); and the Babylonian reference to "the fish
+170](eod36.htm#page_170).md); and the Babylonian reference to "the fish
 with seven wings," which was afterwards rationalized into "a great
 serpent with seven heads," seems to provide the clue which explains the
 origin of the seven-headed dragon. if Hathor was a seven-fold goddess
@@ -188,7 +188,7 @@ dragon in Babylonia.
 My attention was first called to the possibility of the octopus being
 the parent of the seven-headed dragon, and one of the forms assumed by
 the thunderbolt, by the design upon a krater from Apulia. <span
-id="fr_420"></span>[1](#fn_420) The weapon seemed to be a
+id="fr_420"></span>[1](#fn_420.md) The weapon seemed to be a
 conventionalization of the octopus. Though further research has led me
 to distrust this interpretation, it has convinced me of the intimate
 association of the octopus and the derived spiral ornament with thunder
@@ -200,24 +200,24 @@ the octopus and the Pterocera.
 
 ### Footnotes
 
-<span id="fn_412"></span>[212:1](eod42.htm#fr_412) "The Celtic Dragon
+<span id="fn_412"></span>[212:1](eod42.htm#fr_412.md) "The Celtic Dragon
 Myth," by J. F. Campbell, with the "Geste of Fraoch and the Dragon,"
 translated with introduction by George Henderson, Edinburgh, 1911, p.
 134.
 
-<span id="fn_413"></span>[212:2](eod42.htm#fr_413) My italics.
+<span id="fn_413"></span>[212:2](eod42.htm#fr_413.md) My italics.
 
-<span id="fn_414"></span>[212:3](eod42.htm#fr_414) Henry Whitehead
+<span id="fn_414"></span>[212:3](eod42.htm#fr_414.md) Henry Whitehead
 (Bishop of Madras), "The Village Gods of South India," Oxford, 1916, p.
 24.
 
-<span id="fn_415"></span>[213:1](eod42.htm#fr_415) "The Celtic Dragon
+<span id="fn_415"></span>[213:1](eod42.htm#fr_415.md) "The Celtic Dragon
 Myth," p. 136.
 
-<span id="fn_416"></span>[213:2](eod42.htm#fr_416) See Chapter I, [p.
-47](eod12.htm#page_47).
+<span id="fn_416"></span>[213:2](eod42.htm#fr_416.md) See Chapter I, [p.
+47](eod12.htm#page_47.md).
 
-<span id="fn_417"></span>[214:1](eod42.htm#fr_417) I do not propose to
+<span id="fn_417"></span>[214:1](eod42.htm#fr_417.md) I do not propose to
 discuss here the interesting problems raised by this identification of
 the dragon with a man's good or evil spirit. But it is worthy of note
 that while the Babylonian might be possessed by seven evil spirits, the
@@ -233,12 +233,12 @@ possesses a man (and there may be as many as a hundred of these
 other cases an octopus, skate, turtle, crocodile, hawk, kingfisher,
 tree, or stone).
 
-<span id="fn_418"></span>[214:2](eod42.htm#fr_418) Vol. II, 19, 11-18,
+<span id="fn_418"></span>[214:2](eod42.htm#fr_418.md) Vol. II, 19, 11-18,
 and 65, quoted by Sayce, *Hibbert Lectures*, p. 282.
 
-<span id="fn_419"></span>[214:3](eod42.htm#fr_419) *Op. cit.*, p. 150.
+<span id="fn_419"></span>[214:3](eod42.htm#fr_419.md) *Op. cit.*, p. 150.
 
-<span id="fn_420"></span>[215:1](eod42.htm#fr_420) A. B. Cook, "Zeus,"
+<span id="fn_420"></span>[215:1](eod42.htm#fr_420.md) A. B. Cook, "Zeus,"
 Vol. I, p. 337, in which (Fig. 269) the rider in the car is *welcoming*
 the thunderbolt as a divine gift from heaven, *i.e.* as a life-amulet, a
 giver of fertility and good luck. For a design representing the octopus
@@ -247,4 +247,4 @@ Sintfluthsagen," 1899.
 
 ------------------------------------------------------------------------
 
-[Next: The Pig](eod43)
+[Next: The Pig](eod43.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe215)  [Next](prwe217) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe215)  [Next](prwe217.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Thou shalt die by human hand."
 
 ------------------------------------------------------------------------
 
-[Next: Phantoms of the Dying](prwe217)
+[Next: Phantoms of the Dying](prwe217.md)

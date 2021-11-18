@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc02)  [Next](cvmc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc02)  [Next](cvmc04.md) 
 
 ------------------------------------------------------------------------
 
@@ -263,4 +263,4 @@ of action.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Brain](cvmc04)
+[Next: II. The Brain](cvmc04.md)

@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](ipi00)  [Next](ipi02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](ipi00)  [Next](ipi02.md) 
 
 ------------------------------------------------------------------------
 
 IT will not be necessary for me to give details of the rites by which
 the phallic superstition is distinguished, as they may be found in the
-works of Dulaure, <span id="fr_0"></span>[1](ipi14.htm#fn_0) Payne
-Knight, <span id="fr_1"></span>[2](ipi14.htm#fn_1) and other writers. I
+works of Dulaure, <span id="fr_0"></span>[1](ipi14.htm#fn_0.md) Payne
+Knight, <span id="fr_1"></span>[2](ipi14.htm#fn_1.md) and other writers. I
 shall refer to them, therefore, only so far as may be required for the
 due understanding of the subject to be considered--the influence of the
 Phallic idea in the religions of antiquity. The first step in the
@@ -24,7 +24,7 @@ truth in this hypothesis. The phallic superstition is founded
 essentially in the family idea. Captain Richard Burton recognized this
 truth when he asserted that "amongst all barbarians whose primal want is
 progeny, we observe a greater or less development of the phallic
-worship." <span id="fr_2"></span>[3](ipi14.htm#fn_2) This view, however,
+worship." <span id="fr_2"></span>[3](ipi14.htm#fn_2.md) This view, however,
 is imperfect. There must have been something more than a mere desire for
 progeny to lead primitive man to view the generative process with the
 peculiar feelings embodied in this superstition. We are, in fact, here
@@ -45,13 +45,13 @@ with the phallus and the yoni among primitive peoples. In this,
 moreover, we have the explanation of numerous curious facts observed
 among eastern peoples. Such is the respect shown by women for the
 generative organ of dervishes and fakirs. <span
-id="fr_3"></span>[4](ipi14.htm#fn_3) Such also is the Semitic custom
+id="fr_3"></span>[4](ipi14.htm#fn_3.md) Such also is the Semitic custom
 referred to in the Hebrew Scriptures as "the putting of the hand under
 the thigh," which is explained by the Talmudists to be the touching of
 that part of the body which is sealed and made holy by circumcision: a
 custom which was, up to a recent date, still in use among the Arabs as
 the most solemn guarantee of truthfulness. <span
-id="fr_4"></span>[5](ipi14.htm#fn_4)
+id="fr_4"></span>[5](ipi14.htm#fn_4.md)
 
 The second phase of the phallic superstition is that which arises from a
 perception of the value of the consequences of the act of generation.
@@ -71,7 +71,7 @@ great ceremonies in a Santal's life, which are: "admission into the
 family; admission into the tribe; admission into the race; union of his
 own tribe with another by marriage; formal dismission from the living
 race by incremation; lastly, a reunion with the departed fathers." <span
-id="fr_5"></span>[6](ipi14.htm#fn_5)
+id="fr_5"></span>[6](ipi14.htm#fn_5.md)
 
 We may judge from this of the character of certain customs which are
 widespread among primitive peoples, and the phallic origin of which has
@@ -93,7 +93,7 @@ itself, which appears to be looked on as part of the ceremony. The
 symbolism we have ourselves retained to the present day in the
 wedding-ring, which must have had a phallic origin, if, as appears
 probable, it originated in the Samothracian mysteries. <span
-id="fr_6"></span>[7](ipi14.htm#fn_6) Nor does the influence of the
+id="fr_6"></span>[7](ipi14.htm#fn_6.md) Nor does the influence of the
 phallic idea end with life. The veneration entertained for the father of
 the family as the "generator," led in time to peculiar care being taken
 of the bodies of the dead; and, finally, to the worship of ancestors,
@@ -103,4 +103,4 @@ heathen world.
 
 ------------------------------------------------------------------------
 
-[Next: Circumcision](ipi02)
+[Next: Circumcision](ipi02.md)

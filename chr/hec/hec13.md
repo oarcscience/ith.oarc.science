@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec12)  [Next](hec14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec12)  [Next](hec14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -27,7 +27,7 @@ died shortly after the commencement of that stormy age, and took no
 share in its Councils or sufferings; while the last hymnographer who
 bore a part in its proceedings, S. Joseph of the Studium, belongs to the
 decline of his art. With these two exceptions, the ecclesiastical poets
-of this period were [not](errata.htm#1) only thrown into the midst of
+of this period were [not](errata.htm#1.md) only thrown into the midst of
 that great struggle, but, with scarcely one exception, took an active
 share in it.
 
@@ -91,4 +91,4 @@ bombast.
 
 ------------------------------------------------------------------------
 
-[Next: S. Andrew of Crete](hec14)
+[Next: S. Andrew of Crete](hec14.md)

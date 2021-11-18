@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws11)  [Next](cws13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws11)  [Next](cws13.md) 
 
 ------------------------------------------------------------------------
 
 ### No. VIII
 
-#### CONCERNING THE PROPHECY OF THE DELUGE <span id="fr_59"></span>[1](#fn_59)
+#### CONCERNING THE PROPHECY OF THE DELUGE <span id="fr_59"></span>[1](#fn_59.md)
 
 WHEN reading this morning the work of Eliphas Levi on "Magic," I came
 upon the following sentence:--"In the Zohar, one of the chief books of
@@ -37,7 +37,7 @@ chrism, while at the same time the Divine Hermes overshadowed Him.
 "Maria the Sea is the water mystically appointed for the washing away of
 Sin. Therefore as the Flood she purifies the world, and bears on her
 immaculate breast the Ark of the Divine Covenant which contains the
-Elect." <span id="fr_60"></span>[1](#fn_60)
+Elect." <span id="fr_60"></span>[1](#fn_60.md)
 
 And when I had read this, it was impressed on my mind as a prophecy
 having special significance for the present age.
@@ -46,10 +46,10 @@ having special significance for the present age.
 
 ### Footnotes
 
-<span id="fn_59"></span>[19:1](cws12.htm#fr_59) Paris, September 28,
+<span id="fn_59"></span>[19:1](cws12.htm#fr_59.md) Paris, September 28,
 1878. Referred to in *Life of Anna Kingsford*, pp. 279-280.
 
-<span id="fn_60"></span>[20:1](cws12.htm#fr_60) Like Eve, Maria and the
+<span id="fn_60"></span>[20:1](cws12.htm#fr_60.md) Like Eve, Maria and the
 Sea are mystical synonyms for the Soul, which is called "Bitterness of
 the Deep" because--consisting of the universal substance--she attains
 her perfection through painful experience. Concerning Hermes, see Part
@@ -57,4 +57,4 @@ II, Nos. XII and XIII (6).    E. M.
 
 ------------------------------------------------------------------------
 
-[Next: No. IX: Concerning the Prophecy of the Book of Esther](cws13)
+[Next: No. IX: Concerning the Prophecy of the Book of Esther](cws13.md)

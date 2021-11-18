@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos08)  [Next](kos10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos08)  [Next](kos10.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ Honour, and Kingdom shall extend unto the Ages of the Ages. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V Prayers And Conjurations](kos10)
+[Next: Chapter V Prayers And Conjurations](kos10.md)

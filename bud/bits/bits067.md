@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits066) [Next](bits068)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits066) [Next](bits068.md)
 
 ------------------------------------------------------------------------
 
@@ -273,7 +273,7 @@ applauded the speech of The Blessed One.
 
 ------------------------------------------------------------------------
 
-[Next: § 68. Sâriputta and the Two Demons](bits068)
+[Next: § 68. Sâriputta and the Two Demons](bits068.md)
 
  
 

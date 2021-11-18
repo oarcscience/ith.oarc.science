@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp12)  [Next](prp14) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp12)  [Next](prp14.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ the entrance soliciting the preferences of the visitors.\]
 
 ------------------------------------------------------------------------
 
-[Next: 14. Charged to my charge the fieldlet who shall dare](prp14)
+[Next: 14. Charged to my charge the fieldlet who shall dare](prp14.md)

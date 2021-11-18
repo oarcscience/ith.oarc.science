@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj19) 
-[Next](npj21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj19.md) 
+[Next](npj21.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Note on Ukai](npj21)
+[Next: Note on Ukai](npj21.md)

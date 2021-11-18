@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml15)  [Next](hml17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml15)  [Next](hml17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -375,13 +375,13 @@ as if he were over-wearied,
 <span id="img_25800"></span>
 
 [![''She looked earnestly into his face''](tn/25800.jpg)  
-Click to enlarge](img/25800.jpg)  
+Click to enlarge](img/25800.jpg.md)  
 ''She looked earnestly into his face''  
 
 <span id="img_25900"></span>
 
 [![''The King blew a loud note on his bugle''](tn/25900.jpg)  
-Click to enlarge](img/25900.jpg)  
+Click to enlarge](img/25900.jpg.md)  
 ''The King blew a loud note on his bugle''  
 
  
@@ -571,4 +571,4 @@ great part of his lands to be united with those of Glenurchy.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Marriage of Sir Gawayne](hml17)
+[Next: Chapter XIII. The Marriage of Sir Gawayne](hml17.md)

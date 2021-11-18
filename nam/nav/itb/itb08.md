@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)  
-[Index](index) [Previous](itb07) [Next](itb09)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)  
+[Index](index) [Previous](itb07) [Next](itb09.md)
 
 ------------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ the skunk. Now Coyote knew what had happened and he begged skunk for
 food, but skunk merely laughed. Coyote was still very hungry, so we went
 back and ate all the small animals. As he ate, skunk dropped the bones
 from the large animals down on Coyote’s head.<span
-id="page_109_fr_1"></span>[1](#page_109_note_1)
+id="page_109_fr_1"></span>[1](#page_109_note_1.md)
 
 <span id="page_110">p. 110</span>
 
@@ -291,7 +291,7 @@ of Coyote and Changing Bear Maiden.
 
 ------------------------------------------------------------------------
 
-[Next](itb09)
+[Next](itb09.md)
 
 ------------------------------------------------------------------------
 
@@ -299,7 +299,7 @@ of Coyote and Changing Bear Maiden.
 
 <span id="footnotes_page_109">p. 109</span>
 
-<span id="page_109_note_1"></span>[1](#page_109_fr_1) Frequently, as has
+<span id="page_109_note_1"></span>[1](#page_109_fr_1.md) Frequently, as has
 been mentioned before, names, places and stories were not told in the
 original narration of the story because of the belief that power-loss
 would result. However, in the reading back of the original writing of

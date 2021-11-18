@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf14)  [Next](tsf16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf14)  [Next](tsf16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -174,7 +174,7 @@ in adultery, in the very act, Jesus said:
 <span id="img_23300"></span>
 
 [![Symbols in early Christian art](tn/23300.jpg)  
-Click to enlarge](img/23300.jpg)  
+Click to enlarge](img/23300.jpg.md)  
 Symbols in early Christian art  
 
 <span class="contnote">\[paragraph continues\]</span> "He that is
@@ -450,7 +450,7 @@ came out uninjured. She was cast into a pit full of serpents,
 <span id="img_24200"></span>
 
 [![Thecla&lt;br&gt; (From a painting by Lorenzo Costa)](tn/24200.jpg)  
-Click to enlarge](img/24200.jpg)  
+Click to enlarge](img/24200.jpg.md)  
 Thecla  
 (From a painting by Lorenzo Costa)  
 
@@ -535,7 +535,7 @@ it, and the free mingling of the
 <span id="img_24500"></span>
 
 [![Cave church of the Apocalypse in Patmos](tn/24500.jpg)  
-Click to enlarge](img/24500.jpg)  
+Click to enlarge](img/24500.jpg.md)  
 Cave church of the Apocalypse in Patmos  
 
 sexes only aggravated the situation. One could expect that under these
@@ -628,7 +628,7 @@ doing for him most of the
 <span id="img_24800"></span>
 
 [![Spiritual lovers in the art of the catacombs](tn/24800.jpg)  
-Click to enlarge](img/24800.jpg)  
+Click to enlarge](img/24800.jpg.md)  
 Spiritual lovers in the art of the catacombs  
 
 drudgery. Here, the man held the place of superiority. But there was
@@ -782,7 +782,7 @@ his Virgin Mother
 
 [![The marriage of St. Catherine&lt;br&gt; (After a painting by
 Titian)](tn/25300.jpg)  
-Click to enlarge](img/25300.jpg)  
+Click to enlarge](img/25300.jpg.md)  
 The marriage of St. Catherine  
 (After a painting by Titian)  
 
@@ -870,7 +870,7 @@ principle. Heinrich Suzo was
 <span id="img_25600"></span>
 
 [![St. Teresa&lt;br&gt; (From the statue by Bernini)](tn/25600.jpg)  
-Click to enlarge](img/25600.jpg)  
+Click to enlarge](img/25600.jpg.md)  
 St. Teresa  
 (From the statue by Bernini)  
 
@@ -992,7 +992,7 @@ deprivation a Lady Poverty, and all the emotional exuberance that saints
 <span id="img_26000"></span>
 
 [![The Church as the Bride of Christ](tn/26000.jpg)  
-Click to enlarge](img/26000.jpg)  
+Click to enlarge](img/26000.jpg.md)  
 The Church as the Bride of Christ  
 
 usually bestowed upon the Virgin, he devoted to his own imaginary love.
@@ -1185,7 +1185,7 @@ faith, banishing all ornaments from their houses of worship, a few
 symbols have lingered on. They
 
 <span id="img_26600"></span> ![Christian symbolism in the
-Catacombs](img/26600.jpg)  
+Catacombs](img/26600.jpg.md)  
 Christian symbolism in the Catacombs
 
 abound in the architectural designs, the decorative motifs, and
@@ -1244,7 +1244,7 @@ holding the balance of right and wrong. Christ, no longer the mild and
 gentle lover of
 
 <span id="img_26800"></span> ![Medieval Hell&lt;br&gt; (From the Utrecht
-Psalter)](img/26800.jpg)  
+Psalter)](img/26800.jpg.md)  
 Medieval Hell  
 (From the Utrecht Psalter)
 
@@ -1301,7 +1301,7 @@ them from their own
 <span id="img_27000"></span>
 
 [![Jesus in the womb of the Virgin](tn/27000.jpg)  
-Click to enlarge](img/27000.jpg)  
+Click to enlarge](img/27000.jpg.md)  
 Jesus in the womb of the Virgin  
 
 beliefs. For in every pagan religion there was a goddess, a virgin
@@ -1354,7 +1354,7 @@ ranks along with the rich and mighty. It became
 
 [![The Spirit of God moving over the waters of creation and bringing
 forth life](tn/27200.jpg)  
-Click to enlarge](img/27200.jpg)  
+Click to enlarge](img/27200.jpg.md)  
 The Spirit of God moving over the waters of creation and bringing forth
 life  
 
@@ -1416,4 +1416,4 @@ Omnipotent has renewed whatever he has created."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Marriage in the Mosque](tsf16)
+[Next: Chapter III. Marriage in the Mosque](tsf16.md)

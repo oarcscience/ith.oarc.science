@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk10)  [Next](htk12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk10)  [Next](htk12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -28,14 +28,14 @@ at Intangible Textual Heritage
 ### VERSE 7
 
 O MOTHER, even a dullard becomes a poet who meditates upon Thee
-raimented with space, <span id="fr_61"></span>[1](#fn_61)
-three-eyed <span id="fr_62"></span>[2](#fn_62) Creatrix <span
-id="fr_63"></span>[3](#fn_63) of the three worlds, whose waist <span
-id="fr_64"></span>[4](#fn_64) is beautiful with a girdle made of numbers
+raimented with space, <span id="fr_61"></span>[1](#fn_61.md)
+three-eyed <span id="fr_62"></span>[2](#fn_62.md) Creatrix <span
+id="fr_63"></span>[3](#fn_63.md) of the three worlds, whose waist <span
+id="fr_64"></span>[4](#fn_64.md) is beautiful with a girdle made of numbers
 of dead men's arms, and who on the breast of a corpse, <span
-id="fr_65"></span>[5](#fn_65) as Thy couch in the
-cremation-ground, <span id="fr_66"></span>[6](#fn_66) enjoyest
-Mahākāla. <span id="fr_67"></span>[7](#fn_67)
+id="fr_65"></span>[5](#fn_65.md) as Thy couch in the
+cremation-ground, <span id="fr_66"></span>[6](#fn_66.md) enjoyest
+Mahākāla. <span id="fr_67"></span>[7](#fn_67.md)
 
 COMMENTARY
 
@@ -114,25 +114,25 @@ Paraśiva, experiences Herself as unlimited (Akhaṇda) Bliss.
 
 ### Footnotes
 
-<span id="fn_61"></span>[61:1](htk11.htm#fr_61) <span id="page_63">p.
+<span id="fn_61"></span>[61:1](htk11.htm#fr_61.md) <span id="page_63">p.
 63</span> The Devī is naked, as is Śiva, for, like Him, She is clothed
 with space, and is the great void itself (Mahāśūnya).
 
-<span id="fn_62"></span>[61:2](htk11.htm#fr_62) *Triṇayanāṁ*. The Three
+<span id="fn_62"></span>[61:2](htk11.htm#fr_62.md) *Triṇayanāṁ*. The Three
 eyes are Sun, Moon and Fire (V). *Mahānirvāṇa-Tantra* says, 'Three eyes
 are attributed to *Kālikā* because She observes the whole world with
 such eyes as the Sun, the Moon, and so forth'. See as to the meaning of
 these three terms which do not merely denote these luminaries and
 elements, A. Avalon's 'Serpent Power' and Studies in *Mantra-Śāstra*'.
 
-<span id="fn_63"></span>[61:3](htk11.htm#fr_63) *Vidhātrim*, who
+<span id="fn_63"></span>[61:3](htk11.htm#fr_63.md) *Vidhātrim*, who
 provides Enjoyment and Liberation for all Jivas. (V).
 
-<span id="fn_64"></span>[61:4](htk11.htm#fr_64) *Nitaṁba*, literally,
+<span id="fn_64"></span>[61:4](htk11.htm#fr_64.md) *Nitaṁba*, literally,
 buttocks but the girdle goes all round. Kālī is represented as so
 girdled.
 
-<span id="fn_65"></span>[61:5](htk11.htm#fr_65) The corpse (*Śava*)
+<span id="fn_65"></span>[61:5](htk11.htm#fr_65) The corpse (*Śava*.md)
 represents *Śiva* (V) because He is inactive whilst his *Śakti* it is
 who does everything. *Śavahṛdi*—that is, on the breast of Śiva
 (*Viparītarati*). The Devī is given the dominant position in her union
@@ -153,18 +153,18 @@ corpses, which are the Mahāpreta (see Bhairavayāmala, Lalitā verse 174,
 etc). The *Mahāpretas*, whose *Bīja* is *Hsau*, are Sadāśiva, Īśāna,
 Rudra, Viṣṇu, and Brahmā.
 
-<span id="fn_66"></span>[61:6](htk11.htm#fr_66) The site of certain
+<span id="fn_66"></span>[61:6](htk11.htm#fr_66.md) The site of certain
 forms of Tantrik *Sādhana*, such as *Śavāsana Muṇdāsana*, etc., as to
 which the Phetkāriṇī-Tantra says that it is an excellent place for
 *Sādhana*. He who makes japa a number of times on a corpse in a
 cremation-ground attains all manner of success (*Siddhi*).'
 
-<span id="fn_67"></span>[61:7](htk11.htm#fr_67) Parama-Śiva.
+<span id="fn_67"></span>[61:7](htk11.htm#fr_67.md) Parama-Śiva.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Verse 8](htk12)
+[Next: Verse 8](htk12.md)
 
 </div>

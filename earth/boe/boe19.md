@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe18)  [Next](boe20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe18)  [Next](boe20.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ like a shell, it looks like an ear; it looks like a tadpole, an embryo,
 a whirlpool,
 
 <span id="img_fig061"></span> ![FIGURE 61. The Great Monad.&lt;br&gt;
-(From Dragon, Image and Demon; H. C. Du Bose, 1887.)](img/fig061.jpg)  
+(From Dragon, Image and Demon; H. C. Du Bose, 1887.)](img/fig061.jpg.md)  
 FIGURE 61. The Great Monad.  
 (From Dragon, Image and Demon; H. C. Du Bose, 1887.)
 
@@ -47,7 +47,7 @@ utmost, it rested, and resting, generated the Darkness. . . .
 
 <span id="img_fig062"></span> ![FIGURE 62. &lt;i&gt;The Mitsu Tomoe of
 the Japanese&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Internationales Archiv
-für Ethnographie&lt;/i&gt;; Bd. IX (1896), S. 265.)](img/fig062.jpg)  
+für Ethnographie&lt;/i&gt;; Bd. IX (1896), S. 265.)](img/fig062.jpg.md)  
 FIGURE 62. *The Mitsu Tomoe of the Japanese*.  
 (From *Internationales Archiv für Ethnographie*; Bd. IX (1896), S. 265.)
 
@@ -71,9 +71,9 @@ below the centre.
 
 The Earth is the sediment of the Air; and hence it is said that the
 light and pure Air became Heaven; the heavy and muddy Air became
-Earth." <span id="fr_12"></span>[1](#fn_12)
+Earth." <span id="fr_12"></span>[1](#fn_12.md)
 
-Here is a series of Chinese diagrams ([Fig. 63](#img_fig063))
+Here is a series of Chinese diagrams ([Fig. 63](#img_fig063).md)
 illustrating the process of the Creation of the universe from the
 beginning--the whole infinite mass of Primordial Air when in Chaos. This
 is represented by the black disc (*e*), the *Ovum Mundi* or "Mind" of
@@ -104,7 +104,7 @@ from those we have been using--namely,
 Creation&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Confucian
 Cosmogony&lt;/i&gt;; Thomas M’Clatchie, Shanghai,
 1874.)](tn/fig063.jpg)  
-Click to enlarge](img/fig063.jpg)  
+Click to enlarge](img/fig063.jpg.md)  
 FIGURE 63. *Chinese Conception of the Creation*.  
 (From *Confucian Cosmogony*; Thomas M’Clatchie, Shanghai, 1874.)  
 
@@ -132,7 +132,7 @@ yet rests not, is God." They said, too, that the "thirty-six
 palaces"--the number of units that make up the Eight Diagrams--are no
 more than merely the strokes of the Light and the Darkness.
 
-Each set of three lines ([Fig. 64](#img_fig064)) represents the three
+Each set of three lines ([Fig. 64](#img_fig064).md) represents the three
 powers, Heaven, Earth, and Man, and represents also the exact force
 exerted by each one in each of the eight combinations. The three
 undivided lines, for instance, indicate the tireless strength of Heaven,
@@ -150,7 +150,7 @@ thunder. The centre of this mirror is said to
 Dynasty&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Journal of the Royal Asiatic
 Society of Great Britain and Ireland&lt;/i&gt;, 1835, Vol.
 II.)](tn/fig064.jpg)  
-Click to enlarge](img/fig064.jpg)  
+Click to enlarge](img/fig064.jpg.md)  
 FIGURE 64. *The Chinese Zodiac. From a Mirror of the Tang Dynasty*.  
 (From *Journal of the Royal Asiatic Society of Great Britain and
 Ireland*, 1835, Vol. II.)  
@@ -168,10 +168,10 @@ Dog, and Pig.
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
 THE FIVE FIGURES OF EARTH as the Mundane Egg, given in Plates
-[XXIX](#img_pl29ab), [pl30](#img_pl30), and [XXXI](#img_pl31), are all
+[XXIX](#img_pl29ab), [pl30](#img_pl30), and [XXXI](#img_pl31.md), are all
 of them different, yet all of them the same, and they range in time and
 region from ancient Egypt to seventeenth-century England. The idea of
-the "Ophis et Ovum Mundanum" (Plate[XXIX, B](#img_pl29ab)) is not to be
+the "Ophis et Ovum Mundanum" (Plate[XXIX, B](#img_pl29ab).md) is not to be
 traced to its source; it is found everywhere, in the open or secret
 traditions of all races--this concept of the great World Serpent
 warming, guarding, hatching, sometimes feasting on the Earth Egg. The
@@ -183,12 +183,12 @@ its cup. It is guarded by the Moon, which, as a "great white bird," was
 supposed to rest at night upon the Earth; "like a goose," said the
 Egyptians, "brooding over her egg."
 
-The third figure ([Plate XXIX, C](#img_pl29c)), as much a World Mountain
+The third figure ([Plate XXIX, C](#img_pl29c).md), as much a World Mountain
 as a World Egg, is asserted by Flammarion to represent the world-concept
 of Edrisi, an Arabian geographer of the eleventh century, "who, with
 many others, considered the Earth to be like an egg with one-half
 plunged into the water." This is identical with the figure illustrating
-the "Theory of Two Centres" ([Fig. 54](boe17.htm#img_fig054)). It
+the "Theory of Two Centres" ([Fig. 54](boe17.htm#img_fig054).md). It
 
  
 
@@ -197,7 +197,7 @@ the "Theory of Two Centres" ([Fig. 54](boe17.htm#img_fig054)). It
 [![PLATE XXIX. A. &lt;i&gt;Deus Lunus&lt;/i&gt;. B. &lt;i&gt;Ophis et
 Ovum Mundanum&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Ancient
 Mythology&lt;/i&gt;; Jacob Bryant, 1774, Vol. Il)](tn/pl29ab.jpg)  
-Click to enlarge](img/pl29ab.jpg)  
+Click to enlarge](img/pl29ab.jpg.md)  
 PLATE XXIX. A. *Deus Lunus*. B. *Ophis et Ovum Mundanum*.  
 (From *Ancient Mythology*; Jacob Bryant, 1774, Vol. Il)  
 
@@ -205,7 +205,7 @@ PLATE XXIX. A. *Deus Lunus*. B. *Ophis et Ovum Mundanum*.
 
 [![PLATE XXIX. C. Earth as a floating Egg.&lt;br&gt; (From Flammarion's
 &lt;i&gt;Astronomical Myths&lt;/i&gt;. 1877)](tn/pl29c.jpg)  
-Click to enlarge](img/pl29c.jpg)  
+Click to enlarge](img/pl29c.jpg.md)  
 PLATE XXIX. C. Earth as a floating Egg.  
 (From Flammarion's *Astronomical Myths*. 1877)  
 
@@ -257,11 +257,11 @@ parts, the upper of which is inhabited by us, while the lower is
 inhabited by our antipodes; although not one of them can come to us, nor
 one of us to them." These three analogies are developed differently, but
 Burnet's figure of the "divided egg" will serve to illustrate all of
-them ([Plate XXX](#img_pl30)).
+them ([Plate XXX](#img_pl30).md).
 
 Having divided his Earth-egg to show the order of arrangement of its
 inner parts, Burnet then closed it up, to represent it entire, with only
-a reminder of the great abyss under it ([Plate XXXI](#img_pl31)), on
+a reminder of the great abyss under it ([Plate XXXI](#img_pl31).md), on
 which his whole theory of the Deluge and the dissolution of the Earth
 rested. Either the great abyss opened (which he doubted), "or the frame
 of the Earth broke and fell down into the Great Abysse." In the latter
@@ -275,7 +275,7 @@ had the beauty of youth and not a wrinkle, scar or fracture in
 
 [![PLATE XXX. ''A DIVIDED EGG, OR EARTH.''&lt;br&gt; (From The Theory of
 the Earth; Thomas Burnet, 1697)](tn/pl30.jpg)  
-Click to enlarge](img/pl30.jpg)  
+Click to enlarge](img/pl30.jpg.md)  
 PLATE XXX. ''A DIVIDED EGG, OR EARTH.''  
 (From The Theory of the Earth; Thomas Burnet, 1697)  
 
@@ -285,8 +285,8 @@ all its body, no Rocks or Mountains, no hollow Caves nor gaping
 Chanels," would be first submerged during the agitation of the abyss by
 the violent fall of the Earth into it. Then, when the flood had
 subsided, "you would see," said he, "the true image of the present Earth
-in the ruines of the first" ([Fig. 34](boe09.htm#img_fig034) and [Plate
-XIV](boe13.htm#img_pl14)). He compared his "smooth" or primal Earth to
+in the ruines of the first" ([Fig. 34](boe09.htm#img_fig034.md) and [Plate
+XIV](boe13.htm#img_pl14).md). He compared his "smooth" or primal Earth to
 an *Æolipile* or hollow sphere filled with water, which the heat of fire
 rarefies and turns into vapours and winds. "The Sun here is as the
 Fire," he said, "and the exteriour Earth is as the Shell of the
@@ -345,7 +345,7 @@ The diagram itself is divided into two great regions, the
 [![PLATE XXXI. ''THE WHOLE EARTH IS AN EGG''&lt;br&gt; (From
 &lt;i&gt;The Theory of the Earth&lt;/i&gt;; Thomas Burnet,
 1697)](tn/pl31.jpg)  
-Click to enlarge](img/pl31.jpg)  
+Click to enlarge](img/pl31.jpg.md)  
 PLATE XXXI. ''THE WHOLE EARTH IS AN EGG''  
 (From *The Theory of the Earth*; Thomas Burnet, 1697)  
 
@@ -407,7 +407,7 @@ The Gnostics are famous for their strange symbolic figures. They
 believed in a Watcher of the World, a Mind that perceived, and they
 often represented this See-er of the World as a human body pierced with
 eyes. The extraordinary frontispiece to Riccioli's *Almagestum Novum*
-([Plate XXXII](boe20.htm#img_pl32)) is by no means a Gnostic picture,
+([Plate XXXII](boe20.htm#img_pl32).md) is by no means a Gnostic picture,
 but its left-hand figure is a perfect delineation of the myriad-eyed
 Watcher of the universe.
 
@@ -424,7 +424,7 @@ been turned, so to say, inside out
 Universe&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Histoire critique du
 Gnosticisme&lt;/i&gt;; Jacques Matter, 1826, Vol. III, Plate I,
 D.)](tn/fig065.jpg)  
-Click to enlarge](img/fig065.jpg)  
+Click to enlarge](img/fig065.jpg.md)  
 FIGURE 65. *Gnostic Diagram of the Universe*.  
 (From *Histoire critique du Gnosticisme*; Jacques Matter, 1826, Vol.
 III, Plate I, D.)  
@@ -456,9 +456,9 @@ skies.
 
 ### Footnotes
 
-<span id="fn_12"></span>[148:1](boe19.htm#fr_12) *Confucian Cosmogony*.
+<span id="fn_12"></span>[148:1](boe19.htm#fr_12.md) *Confucian Cosmogony*.
 Thomas M’Clatchie, Shanghai, 1874.
 
 ------------------------------------------------------------------------
 
-[Next: Systems of the Universe](boe20)
+[Next: Systems of the Universe](boe20.md)

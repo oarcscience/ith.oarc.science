@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl15)  [Next](hhl17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl15)  [Next](hhl17.md) 
 
 ------------------------------------------------------------------------
 
@@ -296,4 +296,4 @@ capricious and finally created dissension throughout his kingdom.
 
 ------------------------------------------------------------------------
 
-[Next: The Alapa Regiment](hhl17)
+[Next: The Alapa Regiment](hhl17.md)

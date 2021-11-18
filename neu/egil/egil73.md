@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil72)  [Next](egil74) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil72)  [Next](egil74.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ for the winter an honoured guest.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXIII. Mission to Vermaland.](egil74)
+[Next: CHAPTER LXXIII. Mission to Vermaland.](egil74.md)

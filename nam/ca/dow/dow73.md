@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow72)  [Next](dow74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow72)  [Next](dow74.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ even know that they had ever had a father.
 
 One day the boys heard somebody say: "You come here every day just as
 your father used to." The voice came from the rock; it was the voice of
-*Loo'-poo-oi'-yes* <span id="fr_29"></span>[31](#fn_29) the Rock Giant.
+*Loo'-poo-oi'-yes* <span id="fr_29"></span>[31](#fn_29.md) the Rock Giant.
 Then the boys knew they had had a father. They went to the rock and saw
 long hairs sticking up. These hairs grew out of the nostrils of
 *Loo'-poo-oi'-yes*; the boys took hold of them and pulled them out.
@@ -51,10 +51,10 @@ throat where the abalone shell was.
 
 ### Footnotes
 
-<span id="fn_29"></span>[235:31](dow73.htm#fr_29) The name
+<span id="fn_29"></span>[235:31](dow73.htm#fr_29.md) The name
 *Loo'-poo-oi'-yes* means literally *the old man of rock*, from *loo'poo*
 rock, and *oi'yes* old man.
 
 ------------------------------------------------------------------------
 
-[Next: *Kā'-lum-me* the Rock Giant of Wennok Valley](dow74)
+[Next: *Kā'-lum-me* the Rock Giant of Wennok Valley](dow74.md)

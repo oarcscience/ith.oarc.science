@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng37)  [Next](vlsng39) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng37)  [Next](vlsng39.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ Cockayne, M.A. (3 vols.) Longmans, London, 1864, 8vo.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVII: The Battle in the Burg of King Atli.](vlsng39)
+[Next: Chapter XXXVII: The Battle in the Burg of King Atli.](vlsng39.md)

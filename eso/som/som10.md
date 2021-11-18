@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som09) 
-[Next](som11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som09.md) 
+[Next](som11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ MAN HIMSELF--this being the last place he would look to find it!
 This discovery would not be made until he had had all the experience
 necessary to complete a well-rounded life. "The Word is very nigh unto
 thee, in thy mouth, and in thy heart, that thou mayest do it." <span
-id="fr_21"></span>[22](#fn_21)
+id="fr_21"></span>[22](#fn_21.md)
 
 Of course, this is a fable, but how clearly it sets forth the reality of
 the case! The word is really in our own mouths, and every time we say "I
@@ -190,7 +190,7 @@ waiting to be understood and used. "Behold I stand at the door and
 knock." It certainly will pay man to spend much time and thought in the
 study of his own nature; for he will discover things about himself that
 will cause him to "Arise and shine." <span
-id="fr_22"></span>[23](#fn_22) Man is to-day, more than ever before,
+id="fr_22"></span>[23](#fn_22.md) Man is to-day, more than ever before,
 awakening to the real facts of the case, and from now on his evolution
 will become very rapid. Nothing is impossible; all things are possible
 to the Great Whole, and man is a part of that Whole.
@@ -204,7 +204,7 @@ really means a Universal Personalness; and so we see how God can be
 Personal to every living soul who believes in Spirit. We could
 truthfully say--so it seems to me at least--that there is One Infinite
 Person, in whom we all "live, and move and have our Being"; <span
-id="fr_23"></span>[24](#fn_23) for we all live in the One.
+id="fr_23"></span>[24](#fn_23.md) for we all live in the One.
 
 <span id="page_87">p. 87</span>
 
@@ -279,7 +279,7 @@ course, does not mean that man is God; it means that, in his small world
 of individual expression, his nature is identical with God's. This is
 what Jesus meant when he said, "As the Father hath Life within Himself
 so hath He given to the Son to have Life within himself." <span
-id="fr_24"></span>[25](#fn_24)
+id="fr_24"></span>[25](#fn_24.md)
 
 A single drop of water is not the whole ocean, but it does resemble the
 ocean and does contain within itself the same
@@ -288,8 +288,8 @@ ocean and does contain within itself the same
 
 qualities and attributes. We might say that man is in God and that God
 works through man. "I and The Father are One," <span
-id="fr_25"></span>[26](#fn_25) "The Kingdom of God is within you"; <span
-id="fr_26"></span>[27](#fn_26) and we might add, "God's in His Heaven,
+id="fr_25"></span>[26](#fn_25.md) "The Kingdom of God is within you"; <span
+id="fr_26"></span>[27](#fn_26.md) and we might add, "God's in His Heaven,
 all's right with the world."
 
 **THE TWO WAYS TO REASON**
@@ -320,7 +320,7 @@ Nothing in the Universe happens by chance. All is in accordance with
 Law, and the Law of God is as Omnipresent as is the Spirit of God. This
 Law is a Law of Mind, but back of the Law is the Word. "All things were
 made by Him and without Him was not anything made that was made." <span
-id="fr_27"></span>[28](#fn_27)
+id="fr_27"></span>[28](#fn_27.md)
 
 Back of our lives is the Law of our Being; and through that Law runs the
 word which we speak; for "What things soever
@@ -329,7 +329,7 @@ word which we speak; for "What things soever
 
 <span class="contnote">\[paragraph continues\]</span> He (the Son) seeth
 the Father do, these also doeth the Son likewise." <span
-id="fr_28"></span>[29](#fn_28)
+id="fr_28"></span>[29](#fn_28.md)
 
 **MANY ARE WAKING UP TO THE FACTS**
 
@@ -350,7 +350,7 @@ the by-products of ignorance, and enlightenment alone will erase them.
 **THE TIME HAS COME TO KNOW THE TRUTH**
 
 The hour of freedom has struck, the bell of Liberty is ringing, and "Let
-him that is athirst come." <span id="fr_29"></span>[30](#fn_29) Let us,
+him that is athirst come." <span id="fr_29"></span>[30](#fn_29.md) Let us,
 then, plunge more deeply into our own natures and into the nature of the
 Universe and see if we shall not find treasures undreamed of,
 possibilities never imagined and opportunities which the fond
@@ -359,7 +359,7 @@ Life, given us.
 
 "Prove me now, herewith, saith the Lord of hosts, if I will not open you
 the windows of heaven, and pour you out a blessing that there shall not
-be room enough to receive it." <span id="fr_30"></span>[31](#fn_30)
+be room enough to receive it." <span id="fr_30"></span>[31](#fn_30.md)
 
 **A WONDERFUL EXPERIMENT**
 
@@ -376,7 +376,7 @@ we shall some day come to see the logic of it; and then, indeed, shall
 we really begin to live. Our lives, fortunes and happiness are in our
 own hands to mold as we will--provided we first obey the Law and learn
 how to make conscious use of It. "With all thy getting get
-understanding" <span id="fr_31"></span>[32](#fn_31)--an old adage--but
+understanding" <span id="fr_31"></span>[32](#fn_31.md)--an old adage--but
 to-day as true as ever.
 
 It has been the teaching of all times that man reproduces the Divine
@@ -521,7 +521,7 @@ leaves nothing more than a stuff which may be operated upon.
 Matter, in the last analysis, is composed of particles so fine that they
 are simply supposed to be. In other words, it disappears entirely, and
 the place where it once was is again "without form and void." <span
-id="fr_32"></span>[33](#fn_32) Matter, as we know it, is only an
+id="fr_32"></span>[33](#fn_32.md) Matter, as we know it, is only an
 aggregation of these particles arranged in such order as to
 
 <span id="page_95">p. 95</span>
@@ -604,31 +604,31 @@ that we consciously coöperate with the Whole.
 
 ### Footnotes
 
-<span id="fn_21"></span>[85:22](som10.htm#fr_21) Deut. 30:14
+<span id="fn_21"></span>[85:22](som10.htm#fr_21.md) Deut. 30:14
 
-<span id="fn_22"></span>[86:23](som10.htm#fr_22) Isa. 60:1.
+<span id="fn_22"></span>[86:23](som10.htm#fr_22.md) Isa. 60:1.
 
-<span id="fn_23"></span>[86:24](som10.htm#fr_23) Acts 17:28.
+<span id="fn_23"></span>[86:24](som10.htm#fr_23.md) Acts 17:28.
 
-<span id="fn_24"></span>[88:25](som10.htm#fr_24) John 5:26.
+<span id="fn_24"></span>[88:25](som10.htm#fr_24.md) John 5:26.
 
-<span id="fn_25"></span>[89:26](som10.htm#fr_25) John 10:30.
+<span id="fn_25"></span>[89:26](som10.htm#fr_25.md) John 10:30.
 
-<span id="fn_26"></span>[89:27](som10.htm#fr_26) Luke 17:21.
+<span id="fn_26"></span>[89:27](som10.htm#fr_26.md) Luke 17:21.
 
-<span id="fn_27"></span>[89:28](som10.htm#fr_27) John 1:3.
+<span id="fn_27"></span>[89:28](som10.htm#fr_27.md) John 1:3.
 
-<span id="fn_28"></span>[90:29](som10.htm#fr_28) John 5:19.
+<span id="fn_28"></span>[90:29](som10.htm#fr_28.md) John 5:19.
 
-<span id="fn_29"></span>[90:30](som10.htm#fr_29) Rev. 22:17.
+<span id="fn_29"></span>[90:30](som10.htm#fr_29.md) Rev. 22:17.
 
-<span id="fn_30"></span>[90:31](som10.htm#fr_30) Mal. 3:10.
+<span id="fn_30"></span>[90:31](som10.htm#fr_30.md) Mal. 3:10.
 
-<span id="fn_31"></span>[91:32](som10.htm#fr_31) Prov. 4:7.
+<span id="fn_31"></span>[91:32](som10.htm#fr_31.md) Prov. 4:7.
 
-<span id="fn_32"></span>[94:33](som10.htm#fr_32) Gen. 1:2.
+<span id="fn_32"></span>[94:33](som10.htm#fr_32.md) Gen. 1:2.
 
 ------------------------------------------------------------------------
 
 [Next: Metaphysical Meaning of Words Used in Individual Chart No.
-II-B](som11)
+II-B](som11.md)

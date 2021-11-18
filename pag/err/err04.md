@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err03)  [Next](err05) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err03)  [Next](err05.md) 
 
 ------------------------------------------------------------------------
 
@@ -298,7 +298,7 @@ non godrete niente*--and so you will enjoy nothing.'
 guard, and cause their arrest.
 
 "With merchants, or dealers, if one had cattle or anything of the kind
-to sell, <span id="fr_1"></span>[1](#fn_1) Téramó was always busy. And
+to sell, <span id="fr_1"></span>[1](#fn_1.md) Téramó was always busy. And
 sometimes he played. roguish tricks, as when one had a very pretty wife
 or daughter be would go to the house disguised as a very handsome young
 man, and so delude her that the affair ended by two in a bed. Or if a
@@ -331,7 +331,7 @@ Quickly and safely reach its end!'
 or neck, and says:--
 
 Go fly afar for me!  
-And Téramó keep you company! <span id="fr_2"></span>[1](#fn_2)
+And Téramó keep you company! <span id="fr_2"></span>[1](#fn_2.md)
 
 "But one should never forget the spirit Téramó (*Sempre pero rammentarsi
 dello spirito di Téramó*).
@@ -429,7 +429,7 @@ Oh, rose, oh, lovely rose! for so I call thee,
 Because thou art so fair that thou dost seem  
 To be a rose indeed ; and since thou'rt fair,  
 Oh, beauty, I would press thee to my lips,  
-And fain would kiss thee sweet. <span id="fr_3"></span>[1](#fn_3)
+And fain would kiss thee sweet. <span id="fr_3"></span>[1](#fn_3.md)
 
 And yet it seems to me an evil thing  
 That thou hast a dead lover 'neath thy bed,  
@@ -452,7 +452,7 @@ I will sing a small *stornello*,
 And I hope that you, with patience,  
 Now will listen to my ditty;  
 Otherwise I ween that you'll repent it! <span
-id="fr_4"></span>[2](#fn_4)
+id="fr_4"></span>[2](#fn_4.md)
 
 Well thou knowest that thy daughter  
 For a year has kept her chamber;  
@@ -553,7 +553,7 @@ and which she would fain, by the greater magic of love, wake from the
 twilight-dimmering half-death to the full truth of life." Of which Heine
 remarks: "Even as a boy I was struck, in reading the Arabian tale, with
 this picture of passionate and incomprehensible love." <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 It only remains to be remarked that "Hermes and Apollo in the myths
 became fast friends" (*The Etruscans*, by John Fraser, B.A.). Buschet,
@@ -1015,7 +1015,7 @@ tree--
 all brilliant diamonds and precious pearls,
 
 "And with a crown, on which they sang and danced. <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 "'Carry these things,' said the fairy, 'to the king, and tell him that
 thou desirest his daughter for wife. He will drive thee forth with
@@ -1456,7 +1456,7 @@ were very intimate in those days.
 
 ### Footnotes
 
-<span id="fn_1"></span>[25:1](err04.htm#fr_1) Téramó, or Hermes, true to
+<span id="fn_1"></span>[25:1](err04.htm#fr_1.md) Téramó, or Hermes, true to
 his first impulses, is always concerned with cattle.
 
 "The babe was born at the first peep of day  
@@ -1464,7 +1464,7 @@ He began playing on the lyre at noon,
 And the same evening he did steal away  
 Apollo's herds."
 
-<span id="fn_2"></span>[26:1](err04.htm#fr_2)
+<span id="fn_2"></span>[26:1](err04.htm#fr_2.md)
 
 "'Téramó, Téramó, Téramó!  
 Che tu ai le sinpatie  
@@ -1480,7 +1480,7 @@ scritto, a si dice:--
 Che lo spirito di Téramó  
 Ti accompagnia!'"
 
-<span id="fn_3"></span>[28:1](err04.htm#fr_3)
+<span id="fn_3"></span>[28:1](err04.htm#fr_3.md)
 
 "Rosa, o bella Rosa cosi ti chiamo,  
 Perche siei tanto bella mi sembri,  
@@ -1488,7 +1488,7 @@ Un vero fior di rosa, e quanto siei
 Bella vorrei posarti sopra i labbri miei,  
 E ti vorrei bacciar!"
 
-<span id="fn_4"></span>[28:2](err04.htm#fr_4)
+<span id="fn_4"></span>[28:2](err04.htm#fr_4.md)
 
 "'Sotto alla tua finestra,  
 O buon' mercanta, una piccola  
@@ -1496,14 +1496,14 @@ Stornello vengo a cantare;
 Spero che mi vorrei ascoltare,  
 Altrimenti te ne vorrai pentire.'
 
-<span id="fn_5"></span>[30:1](err04.htm#fr_5) Heine's *Shakespeare's
+<span id="fn_5"></span>[30:1](err04.htm#fr_5.md) Heine's *Shakespeare's
 Maidens and Women: Desdemona*. Translated by Charles G. Leland. London:
 W. Heinemann. 1891.
 
-<span id="fn_6"></span>[40:1](err04.htm#fr_6) Here there is manifestly
+<span id="fn_6"></span>[40:1](err04.htm#fr_6.md) Here there is manifestly
 something omitted. "*Colla corona sopra quali cantavano*." Perhaps
 "around which fairies sang and danced."
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter II--MASO](err05)
+[Next: Part One: Chapter II--MASO](err05.md)

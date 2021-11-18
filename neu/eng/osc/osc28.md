@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc27)  [Next](osc29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc27)  [Next](osc29.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ those privileges not being defined."
 
 ------------------------------------------------------------------------
 
-[Next: (26) Christmas](osc29)
+[Next: (26) Christmas](osc29.md)

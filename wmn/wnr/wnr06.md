@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr05)  [Next](wnr07) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr05)  [Next](wnr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ achieve.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Wickedness Of Creating Large Families](wnr07)
+[Next: V. The Wickedness Of Creating Large Families](wnr07.md)

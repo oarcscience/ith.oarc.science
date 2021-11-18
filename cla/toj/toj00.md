@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](toj01) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](toj01.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ intact.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](toj01)
+[Next: Introduction](toj01.md)

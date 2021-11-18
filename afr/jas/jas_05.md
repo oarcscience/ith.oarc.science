@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas099)  [Next](jas100) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas099)  [Next](jas100.md) 
 
 ------------------------------------------------------------------------
 
@@ -7,4 +7,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: 100. Ali Baba and Kissem.](jas100)
+[Next: 100. Ali Baba and Kissem.](jas100.md)

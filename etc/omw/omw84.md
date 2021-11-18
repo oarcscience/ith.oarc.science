@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw83)  [Next](omw85) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw83)  [Next](omw85.md) 
 
 ------------------------------------------------------------------------
 
@@ -119,4 +119,4 @@ All this Quetzalcoatl told the dwellers in Tollan.
 
 ------------------------------------------------------------------------
 
-[Next: The Azteca](omw85)
+[Next: The Azteca](omw85.md)

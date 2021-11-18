@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki231)  [Next](liki233) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki231)  [Next](liki233.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,6 +137,6 @@ from the earth; it is simply the expression of the human feelings.
 ------------------------------------------------------------------------
 
 [Next: XXXIII. Fû Wan or Subjects For Questioning About the Mourning
-Dress](liki233)
+Dress](liki233.md)
 
   

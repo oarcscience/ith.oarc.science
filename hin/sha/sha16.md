@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](sha15)  [Next](sha17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](sha15)  [Next](sha17.md) 
 
 ------------------------------------------------------------------------
 
@@ -997,4 +997,4 @@ never let die.
 
 ------------------------------------------------------------------------
 
-[Next: The Cloud-Messenger](sha17)
+[Next: The Cloud-Messenger](sha17.md)

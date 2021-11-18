@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg02)   
-[Previous](bgs01)  [Next](bgs03) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg02.md)   
+[Previous](bgs01)  [Next](bgs03.md) 
 
 ------------------------------------------------------------------------
 
@@ -274,4 +274,4 @@ sthitvāsyām antakālepi brahmanirvāṇam ṛcchati 2.72
 
 ------------------------------------------------------------------------
 
-[Next: III. atha tṛtīyodhyāyaḥ. (karmayogaḥ)](bgs03)
+[Next: III. atha tṛtīyodhyāyaḥ. (karmayogaḥ)](bgs03.md)

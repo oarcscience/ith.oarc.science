@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd06) 
-[Next](iwd08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Celtic](../../neu/celt/index)  [Index](index)  [Previous](iwd06.md) 
+[Next](iwd08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA65ME/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Irish Witchcraft and Demonology*, by St. John D. Seymour, \[1913\], at
 Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ series of large, empty cellars, in which he had stationed men armed with
 shovels, who were under instructions to remove each succeeding shower of
 gold, and so make room for more.
 
-Another story <span id="fr_35"></span>[1](#fn_35) comes from
+Another story <span id="fr_35"></span>[1](#fn_35.md) comes from
 Ballinagarde in co. Limerick. the residence of the Croker family, though
 it is probably later in point of time; in it the Devil appears in a
 different rôle. Once upon a time Mr. Croker of Ballinagarde was out
@@ -102,7 +102,7 @@ instigation
 <span id="page_136">p. 136</span>
 
 of a ghost comes from the co. Down in the year 1662. <span
-id="fr_36"></span>[1](#fn_36) About Michaelmas one Francis Taverner,
+id="fr_36"></span>[1](#fn_36.md) About Michaelmas one Francis Taverner,
 servant to Lord Chichester, was riding home on horseback late one night
 from Hillborough, and on nearing Drumbridge his horse suddenly stood
 still, and he, not suspecting anything out of the common, but merely
@@ -231,7 +231,7 @@ tradition, from which many picturesque details are added, especially
 with reference to the trial, the subsequent righting of young David
 Haddock, and the ultimate punishment of Davis, on which points Glanvill
 is rather unsatisfactory. According to this source, <span
-id="fr_37"></span>[1](#fn_37) Taverner (or Tavney, as the name is
+id="fr_37"></span>[1](#fn_37.md) Taverner (or Tavney, as the name is
 locally pronounced) *felt something get up behind him* as he was riding
 home, and from the eerie feeling that came over him, as well as from the
 mouldy smell of the grave that assailed his nostrils, he perceived that
@@ -256,7 +256,7 @@ in a flash of fire!!--which, we fear, afforded but too satisfactory an
 answer to his question.
 
 In the following year, 1663, a quaintly humorous story <span
-id="fr_38"></span>[1](#fn_38) of a most persistent and troublesome
+id="fr_38"></span>[1](#fn_38.md) of a most persistent and troublesome
 ghostly visitant comes from
 
 <span id="page_144">p. 144</span>
@@ -348,7 +348,7 @@ from them out of their sight; her *dittay* \[indictment\] was sent over
 here to Scotland), who at this tyme, when she was cast off the gallows,
 there appears a raven, and approaches the hangman within an ell of him,
 and flyes away again. All the people observed it, and cried out at the
-sight of it." <span id="fr_39"></span>[1](#fn_39)
+sight of it." <span id="fr_39"></span>[1](#fn_39.md)
 
 A clergyman, the Rev. Daniel Williams (evidently the man who was pastor
 of Wood Street, Dublin, and subsequently founded Dr. Williams's Library
@@ -377,7 +377,7 @@ Noise used to be greatest. When I was at Prayer the Woman, kneeling by
 me, catched violently at my Arm, and afterwards told us that she raw a
 terrible Sight--but it pleased God there was no noise at all. And from
 that Time God graciously freed her from all that Disturbance." <span
-id="fr_40"></span>[1](#fn_40)
+id="fr_40"></span>[1](#fn_40.md)
 
 <span id="page_150">p. 150</span>
 
@@ -386,7 +386,7 @@ of the world, and are recorded by writers both ancient and modern, but
 there are certainly few of them that can equal the account of that weird
 series of incidents that was seen in the sky by a goodly crowd of ladies
 and gentlemen in co. Tipperary on 2nd March 1678. <span
-id="fr_41"></span>[1](#fn_41) "At Poinstown in the county of Tepperary
+id="fr_41"></span>[1](#fn_41.md) "At Poinstown in the county of Tepperary
 were seen divers strange and prodigious apparitions. On Sunday in the
 evening several gentlemen and others, after named, walked forth in the
 fields, and the Sun going down, and appearing somewhat bigger than
@@ -465,7 +465,7 @@ The first of the sixteen persons who subscribed to the truth of the
 above was the Rev. Peter Alley, who had been appointed curate of
 Killenaule Union (Dio. Cashel) in 1672, but was promoted to livings in
 the same diocese in the autumn of the year the apparitions
-appeared. <span id="fr_42"></span>[1](#fn_42) There is a townland named
+appeared. <span id="fr_42"></span>[1](#fn_42.md) There is a townland named
 Poyntstown in the parish of Buolick and barony of Slievardagh, and
 another of the same name in the adjoining parish of Fennor. It must have
 been at one or other of these places that the sights were witnessed, as
@@ -482,7 +482,7 @@ that he had a revelation from Heaven that he was the man ordained to
 discover it, and accordingly fitted out a ship for the purpose. In 1674,
 Captain John Nisbet, formerly of co. Fermanagh, actually landed there!
 At this period it was located off Ulster. <span
-id="fr_43"></span>[1](#fn_43)
+id="fr_43"></span>[1](#fn_43.md)
 
 Between the clergy and the witches a continuous state of warfare
 existed; the former, both Protestant and Roman Catholic, ever assumed
@@ -527,7 +527,7 @@ living in sic a place twenty years ago. The man comes home, searches the
 place, but finds nothing of bones or anything lyke a grave, and causes
 send to such a place to search for such a man, but no such a one could
 be found, and shortly after this man dyes." To which story Mr. Robert
-Law <span id="fr_44"></span>[1](#fn_44) sagely adds the warning: "It's
+Law <span id="fr_44"></span>[1](#fn_44.md) sagely adds the warning: "It's
 not good to come in communing terms with Satan, there is a snare in the
 end of it, but to resyst him by prayer and faith and to turn a deaf ear
 to his temptations."
@@ -639,7 +639,7 @@ the certain amount of commonsense displayed by the magistrates in that
 country, in contradistinction to Scotland, where the very slightest
 evidence sufficed to bring persons to torture and death.
 
-In the following tale <span id="fr_45"></span>[1](#fn_45) the ghostly
+In the following tale <span id="fr_45"></span>[1](#fn_45.md) the ghostly
 portion is rather dwarfed by the strong fairy element which appears in
 it, and, as we have already shown, many witchcraft cases in Scotland
 were closely interwoven with the older belief in the "good people"; Lord
@@ -723,7 +723,7 @@ their heads.
 
 At the instigation of a ghost a lawsuit took place at Downpatrick in
 1685. The account of this was given to Baxter <span
-id="fr_46"></span>[1](#fn_46) by Thomas Emlin, "a worthy preacher in
+id="fr_46"></span>[1](#fn_46.md) by Thomas Emlin, "a worthy preacher in
 Dublin," as well as by Claudius Gilbert, one of the principal parties
 therein concerned: the latter's son and namesake proved a liberal
 benefactor to the Library of Trinity College--some of his books have
@@ -777,7 +777,7 @@ Brice, a neighbouring justice of the Peace; the latter brought the
 affair before the notice of Sir William Franklin in Belfast Castle. The
 depositions were subsequently carried to Dublin, and the case was tried
 at Downpatrick Assizes by judge John Lindon in 1685. <span
-id="fr_47"></span>[1](#fn_47) On behalf of the plaintiff, Charles
+id="fr_47"></span>[1](#fn_47.md) On behalf of the plaintiff, Charles
 Lostin, Counseller James Macartney acted--if he be the judge who
 subsequently makes his appearance in a most important witch-trial at
 Carrickfergus, he certainly was as excellent an advocate as any
@@ -811,7 +811,7 @@ but the hand of God. I have committed the girl
 <span id="page_172">p. 172</span>
 
 to Bridewell, where she shall stay some time." <span
-id="fr_48"></span>[1](#fn_48)
+id="fr_48"></span>[1](#fn_48.md)
 
 At one period in their history that peculiar people, known amongst
 themselves as the Society of Friends, and by their opponents as Quakers,
@@ -878,51 +878,51 @@ his horse and broke his leg.
 
 ### Footnotes
 
-<span id="fn_35"></span>[134:1](iwd07.htm#fr_35) Furnished to the writer
+<span id="fn_35"></span>[134:1](iwd07.htm#fr_35.md) Furnished to the writer
 by T. J. Westropp, Esq., M.A.
 
-<span id="fn_36"></span>[136:1](iwd07.htm#fr_36) Glanvill, *Sadducismus
+<span id="fn_36"></span>[136:1](iwd07.htm#fr_36.md) Glanvill, *Sadducismus
 Triumphatus*, Rel. 26.
 
-<span id="fn_37"></span>[142:1](iwd07.htm#fr_37) *Ulster Journal of
+<span id="fn_37"></span>[142:1](iwd07.htm#fr_37.md) *Ulster Journal of
 Archæology*, vol. iii. (for 1855).
 
-<span id="fn_38"></span>[143:1](iwd07.htm#fr_38) Glanvill, *op. cit*.,
+<span id="fn_38"></span>[143:1](iwd07.htm#fr_38.md) Glanvill, *op. cit*.,
 Rel. 27.
 
-<span id="fn_39"></span>[148:1](iwd07.htm#fr_39) Law's *Memorialls*.
+<span id="fn_39"></span>[148:1](iwd07.htm#fr_39.md) Law's *Memorialls*.
 
-<span id="fn_40"></span>[149:1](iwd07.htm#fr_40) Baxter, *Certainty of
+<span id="fn_40"></span>[149:1](iwd07.htm#fr_40.md) Baxter, *Certainty of
 the World of Spirits*.
 
-<span id="fn_41"></span>[150:1](iwd07.htm#fr_41) William Turner,
+<span id="fn_41"></span>[150:1](iwd07.htm#fr_41.md) William Turner,
 *Compleat History of Most Remarkable Providences* (London, 1697).
 
-<span id="fn_42"></span>[154:1](iwd07.htm#fr_42) Seymour, *Succession of
+<span id="fn_42"></span>[154:1](iwd07.htm#fr_42.md) Seymour, *Succession of
 Clergy in Cashel and Emly*.
 
-<span id="fn_43"></span>[155:1](iwd07.htm#fr_43) O'Donoghue,
+<span id="fn_43"></span>[155:1](iwd07.htm#fr_43.md) O'Donoghue,
 *Brendaniana*, p. 301. See Joyce, *Wonders of Ireland*, p. 30, for an
 apparition of a ship in the air in Celtic times. See also Westropp,
 *Brasil* (Proc. R.I.A.); that writer actually sketched an illusionary
 island in 1872.
 
-<span id="fn_44"></span>[157:1](iwd07.htm#fr_44) *Memorialls*.
+<span id="fn_44"></span>[157:1](iwd07.htm#fr_44.md) *Memorialls*.
 
-<span id="fn_45"></span>[163:1](iwd07.htm#fr_45) Glanvill, *op. cit*.,
+<span id="fn_45"></span>[163:1](iwd07.htm#fr_45.md) Glanvill, *op. cit*.,
 Rel. 18; Baxter, *op. cit*.
 
-<span id="fn_46"></span>[167:1](iwd07.htm#fr_46) *Op. cit.*; W. P.,
+<span id="fn_46"></span>[167:1](iwd07.htm#fr_46.md) *Op. cit.*; W. P.,
 *History of Witches and Wizards* (London, 1700 ?).
 
-<span id="fn_47"></span>[170:1](iwd07.htm#fr_47) John Lindon (or Lyndon)
+<span id="fn_47"></span>[170:1](iwd07.htm#fr_47) John Lindon (or Lyndon.md)
 became junior puisne judge of the Chief Place in 1682, was knighted in
 1692, and died in 1697 (*Cork Hist. and Arch. Journal*, vol. vii., 2nd
 series).
 
-<span id="fn_48"></span>[172:1](iwd07.htm#fr_48) Egmont MSS. (Hist. MSS.
+<span id="fn_48"></span>[172:1](iwd07.htm#fr_48.md) Egmont MSS. (Hist. MSS.
 Comm.), ii. 181.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: A.D. 1688: An Irish-American Witch](iwd08)
+[Next: Chapter VII: A.D. 1688: An Irish-American Witch](iwd08.md)

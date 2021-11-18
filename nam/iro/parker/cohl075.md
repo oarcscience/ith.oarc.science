@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl074)  [Next](cohl076) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl074)  [Next](cohl076.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ offer tobacco. Then tell the plant in gentle words what you desire of it
 and pluck it from the roots. It is said in the upper world that it is
 not right to take a plant for medicine without first talking to it. Let
 not one ever be taken without first speaking.'" <span
-id="fr_69"></span>[2](#fn_69)
+id="fr_69"></span>[2](#fn_69.md)
 
 So they said and he said. Eniaiehuk.
 
@@ -40,7 +40,7 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_69"></span>[55:2](cohl075.htm#fr_69) The ceremony of
+<span id="fn_69"></span>[55:2](cohl075.htm#fr_69.md) The ceremony of
 gathering herbs. When a Seneca wishes to gather medicinal herbs, he goes
 into the woods where they grow and builds a small fire. When there is a
 quantity of glowing embers he stands before it and as he speaks at
@@ -69,4 +69,4 @@ helped increase it. So the plant is willing to lend me of its virtue."
 
 ------------------------------------------------------------------------
 
-[Next: Section 65](cohl076)
+[Next: Section 65](cohl076.md)

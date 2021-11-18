@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb25)  [Next](olb27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb25)  [Next](olb27.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -18,12 +18,12 @@ Golen*.
 Near the southern mouth of the Rhine and the Scheldt there are seven
 islands, named after Frya's seven virgins of the week. In the middle of
 one island is the city of Walhallagara <span
-id="fr_31"></span>[\*](#fn_31) (Middelburg), and on the walls of this
+id="fr_31"></span>[\*](#fn_31) (Middelburg.md), and on the walls of this
 city the following history is inscribed. Above it are the words "Read,
 learn, and watch."
 
 Five hundred and sixty-three years after the submersion of Atland—that
-is, 1600 years before Christ <span id="fr_32"></span>[†](#fn_32)—a wise
+is, 1600 years before Christ <span id="fr_32"></span>[†](#fn_32.md)—a wise
 town priestess presided here, whose name was Min-erva—called by the
 sailors Nyhellenia. This name was well chosen, for her counsels were new
 and clear above all others.
@@ -91,12 +91,12 @@ alertness of the seamen.
 
 ### Footnotes
 
-<span id="fn_31"></span>[87:\*](olb26.htm#fr_31) Walhallagara is
+<span id="fn_31"></span>[87:\*](olb26.htm#fr_31.md) Walhallagara is
 Middelburg, in Walcheren.
 
-<span id="fn_32"></span>[87:†](olb26.htm#fr_32) 2193-583 is 1630 years
+<span id="fn_32"></span>[87:†](olb26.htm#fr_32.md) 2193-583 is 1630 years
 before Christ.
 
 ------------------------------------------------------------------------
 
-[Next: We now come to the History of Jon](olb27)
+[Next: We now come to the History of Jon](olb27.md)

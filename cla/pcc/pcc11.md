@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc10)  [Next](pcc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc10)  [Next](pcc12.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ From the consideration of the world-wide belief in a past Golden Age,
 and the world-wide practice of the Eucharist, in the sense indicated in
 the last chapter, to that of the equally widespread belief in a
 human-divine Saviour, is a brief and easy step. Some thirty years ago,
-dealing with this subject, <span id="fr_170"></span>[1](#fn_170) I wrote
+dealing with this subject, <span id="fr_170"></span>[1](#fn_170.md) I wrote
 as follows:--"The true Self of man consists in his organic relation with
 the whole body of his fellows; and when the man abandons his true Self
 he abandons also his true relation to his fellows. The mass-Man must
@@ -92,7 +92,7 @@ imitate it, even to mention it, are sure ways of rousing superstitious
 attention and imagination. Such another word is 'Serpent,' another
 'Tree,' and so forth. There is no one who is insensible to the
 reverberation of these and other such words and images; <span
-id="fr_171"></span>[1](#fn_171) and among them, standing prominently
+id="fr_171"></span>[1](#fn_171.md) and among them, standing prominently
 out, are the two 'Mother' and 'Virgin.' The word Mother touches the
 deepest springs of human feeling. As the earliest word
 
@@ -121,7 +121,7 @@ it, as a propitiation, life of all kinds was sacrificed. \[There are
 strange accounts of a huge fire being made, with an altar to Cybele in
 the midst, and of deer and fawns and wild animals, and birds and sheep
 and corn and fruits being thrown pell-mell into the flames. <span
-id="fr_172"></span>[1](#fn_172)\] It was, in a way, the most natural, as
+id="fr_172"></span>[1](#fn_172.md)\] It was, in a way, the most natural, as
 it seems to have been the earliest and most spontaneous of cults--the
 worship of the Earth-mother, the all-producing eternal source of life,
 and on account of her never-failing ever-renewed fertility conceived of
@@ -166,7 +166,7 @@ far as that, and the matter was still under
 
 <span id="page_159">p. 159</span>
 
-the domain of Magic! <span id="fr_173"></span>[1](#fn_173) A
+the domain of Magic! <span id="fr_173"></span>[1](#fn_173.md) A
 Virgin-Mother was therefore a quite imaginable (not to say
 'conceivable') thing; and indeed a very beautiful and fascinating thing,
 combining in one image the potent magic of two very wonderful words. It
@@ -181,10 +181,10 @@ it will be remembered, in the form of a thunderstorm; and she gave birth
 to the great saviour and deliverer Dionysus. Zeus, again, impregnated
 Danae in a shower of gold; and the child was Perseus, who slew the
 Gorgons (the powers of darkness) and saved Andromeda (the human
-soul <span id="fr_174"></span>[2](#fn_174)). Devaki, the radiant Virgin
+soul <span id="fr_174"></span>[2](#fn_174).md). Devaki, the radiant Virgin
 of the Hindu mythology, became the wife of the god Vishnu and bore
 Krishna, the beloved hero and prototype of Christ. With regard to Buddha
-St. Jerome says <span id="fr_175"></span>[3](#fn_175) "It is handed down
+St. Jerome says <span id="fr_175"></span>[3](#fn_175.md) "It is handed down
 among the Gymnosophists, of India that Buddha, the founder of their
 system, was brought forth by a Virgin from her side." The Egyptian Isis,
 with the child Horus, on her knee, was honored centuries before the
@@ -199,20 +199,20 @@ sky over the earthly plains and the children of men, was acclaimed as
 mother of the great god Osiris. The saviour Mithra, too, was born of a
 Virgin, as we have had occasion to notice before; and on the Mithrais
 monuments the mother suckling her child is a not uncommon figure. <span
-id="fr_176"></span>[1](#fn_176)
+id="fr_176"></span>[1](#fn_176.md)
 
 The old Teutonic goddess Hertha (the Earth) was a Virgin, but was
 impregnated by the heavenly Spirit (the Sky); and her image with a child
 in her arms was to be seen in the sacred groves of Germany. <span
-id="fr_177"></span>[2](#fn_177) The Scandinavian Frigga, in much the
+id="fr_177"></span>[2](#fn_177.md) The Scandinavian Frigga, in much the
 same way, being caught in the embraces of Odin, the All-father,
 conceived and bore a son, the blessed Balder, healer and saviour of
 mankind. Quetzalcoatl, the (crucified) saviour of the Aztecs, was the
 son of Chimalman, the Virgin Queen of Heaven. <span
-id="fr_178"></span>[3](#fn_178) Even the Chinese had a mother-goddess
-and virgin with child in her arms; <span id="fr_179"></span>[4](#fn_179)
+id="fr_178"></span>[3](#fn_178.md) Even the Chinese had a mother-goddess
+and virgin with child in her arms; <span id="fr_179"></span>[4](#fn_179.md)
 and the ancient Etruscans the same. <span
-id="fr_180"></span>[5](#fn_180)
+id="fr_180"></span>[5](#fn_180.md)
 
 Finally, we have the curiously large number of *black* virgin mothers
 who are or have been worshiped. Not only cases like Devaki the Indian
@@ -232,7 +232,7 @@ and images actually were--into the service of the Church. "Great is
 Diana of the Ephesians"; and there is I believe more than one black
 figure extant of this Diana, who, though of course a virgin, is
 represented with innumerable breasts <span
-id="fr_181"></span>[1](#fn_181)--not unlike some of the archaic statues
+id="fr_181"></span>[1](#fn_181.md)--not unlike some of the archaic statues
 of Artemis and Isis. At Paris far on into Christian times there was, it
 is said, on the site of the present Cathedral of Notre Dame, a Temple
 dedicated to 'our Lady' Isis; and images belonging to the earlier shrine
@@ -274,19 +274,19 @@ Christianity.
 
 ### Footnotes
 
-<span id="fn_170"></span>[154:1](pcc11.htm#fr_170) See *Civilisation:
+<span id="fn_170"></span>[154:1](pcc11.htm#fr_170.md) See *Civilisation:
 its Cause and Cure*, ch. i.
 
-<span id="fn_171"></span>[156:1](pcc11.htm#fr_171) Nor is it difficult
+<span id="fn_171"></span>[156:1](pcc11.htm#fr_171.md) Nor is it difficult
 to see how out of the discreet use of such words and images, combined
 with elementary forms like the square, the triangle and the circle, and
 elementary numbers like 3, 4, 5, etc., quite a science, so to speak, of
 Magic arose.
 
-<span id="fn_172"></span>[157:1](pcc11.htm#fr_172) See Pausanias iv. 32.
+<span id="fn_172"></span>[157:1](pcc11.htm#fr_172.md) See Pausanias iv. 32.
 6; and Lucian, *De Syria Dea*, 49.
 
-<span id="fn_173"></span>[159:1](pcc11.htm#fr_173) Probably the long
+<span id="fn_173"></span>[159:1](pcc11.htm#fr_173.md) Probably the long
 period (nine months) elapsing between cohabitation and childbirth
 confused early speculation on the subject. Then clearly cohabitation was
 *not* always followed by childbirth. And, more important still, the
@@ -295,20 +295,20 @@ minute that the fact of their childlessness attracted no
 attention--whereas in *our* societies the sterility of the whole class
 is patent to everyone.
 
-<span id="fn_174"></span>[159:2](pcc11.htm#fr_174) For this
+<span id="fn_174"></span>[159:2](pcc11.htm#fr_174.md) For this
 interpretation of the word *Andromeda* see *The Perfect Way* by Edward
 Maitland, preface to First Edition, 1881.
 
-<span id="fn_175"></span>[159:3](pcc11.htm#fr_175) *Contra Jovian*, Book
+<span id="fn_175"></span>[159:3](pcc11.htm#fr_175.md) *Contra Jovian*, Book
 I; and quoted by Rhys Davids in his *Buddhisim*, p. 183
 
-<span id="fn_176"></span>[160:1](pcc11.htm#fr_176) See Doane's *Bible
+<span id="fn_176"></span>[160:1](pcc11.htm#fr_176.md) See Doane's *Bible
 Myths*, p. 332, and Dupuis' *Origins of Religious Beliefs*.
 
-<span id="fn_177"></span>[160:2](pcc11.htm#fr_177) R. P. Knight's
+<span id="fn_177"></span>[160:2](pcc11.htm#fr_177.md) R. P. Knight's
 *Ancient Art and Mythology*, p. 21.
 
-<span id="fn_178"></span>[160:3](pcc11.htm#fr_178) See Kingsborough's
+<span id="fn_178"></span>[160:3](pcc11.htm#fr_178.md) See Kingsborough's
 *Mexican Antiquities*, vol. vi, p. 176, where it is said "an ambassador
 was sent from heaven on an embassy to a Virgin of Tulan, called
 Chimalman . . . announcing that it was the will of the God that she
@@ -319,14 +319,14 @@ is the god of air." Further, it is explained that Quetzalcoatl
 sacrificed himself, drawing forth his own blood with thorns; and that
 the word Quetzalcoatlotopitzin means "our well-beloved son."
 
-<span id="fn_179"></span>[160:4](pcc11.htm#fr_179) Doane, p. 327.
+<span id="fn_179"></span>[160:4](pcc11.htm#fr_179.md) Doane, p. 327.
 
-<span id="fn_180"></span>[160:5](pcc11.htm#fr_180) See Inman's *Pagan
+<span id="fn_180"></span>[160:5](pcc11.htm#fr_180.md) See Inman's *Pagan
 and Christian Symbolism*, p. 27.
 
-<span id="fn_181"></span>[161:1](pcc11.htm#fr_181) See illustration, p.
+<span id="fn_181"></span>[161:1](pcc11.htm#fr_181.md) See illustration, p.
 30, in Inman's *Pagan and Christian Symbolism*.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Ritual Dancing](pcc12)
+[Next: XI. Ritual Dancing](pcc12.md)

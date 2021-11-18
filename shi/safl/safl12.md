@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl11)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl11.md)
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 
    "This is the way in which the maker of places is said have created
 the world.<span id="page_226_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_226_note_1)
+class="small">1</span></sup>](#page_226_note_1.md)
 
    He and his younger sister made it between them; the sister's portion
 was the Western part of Yezo while the male deity made the Eastern part,
@@ -27,7 +27,7 @@ part of Yezo has so many dangerous places about it. So runs the tale."
 
 <span id="footnotes_page_226">p. 226</span>
 
-<span id="page_226_note_1"></span>[1](#page_226_fr_1) The world here
+<span id="page_226_note_1"></span>[1](#page_226_fr_1.md) The world here
 means the Island of Yezo only.
 
  

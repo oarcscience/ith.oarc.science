@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe09)  [Next](poe11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe09)  [Next](poe11.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ principles are necessarily the best.
 ------------------------------------------------------------------------
 
 [Next: X. (Plot continued.) Definitions of Simple and Complex
-Plots](poe11)
+Plots](poe11.md)

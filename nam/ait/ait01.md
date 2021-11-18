@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait00)  [Next](ait02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait00)  [Next](ait02.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ait02)
+[Next: Contents](ait02.md)

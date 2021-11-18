@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw73)  [Next](omw75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw73)  [Next](omw75.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ Goblin Goddess.
 
 ------------------------------------------------------------------------
 
-[Next: Pe-le, Hawaii's Goddess Of Volcanic Fire, Part I](omw75)
+[Next: Pe-le, Hawaii's Goddess Of Volcanic Fire, Part I](omw75.md)

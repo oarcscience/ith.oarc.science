@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,12 +19,12 @@ California. It covers the entire culture region.
 
 ------------------------------------------------------------------------
 
-[Title Page](ric00)  
-[Introduction](ric01)  
-[Customary Observances by Individuals](ric02)  
-[Shamanism](ric03)  
-[Public Ceremonies](ric04)  
-[Ceremonial Structures and Paraphernalia](ric05)  
-[Mythology and Beliefs](ric06)  
-[Special Characteristics of Different Tribes](ric07)  
-[Bibliography](ric08)  
+[Title Page](ric00.md)  
+[Introduction](ric01.md)  
+[Customary Observances by Individuals](ric02.md)  
+[Shamanism](ric03.md)  
+[Public Ceremonies](ric04.md)  
+[Ceremonial Structures and Paraphernalia](ric05.md)  
+[Mythology and Beliefs](ric06.md)  
+[Special Characteristics of Different Tribes](ric07.md)  
+[Bibliography](ric08.md)  

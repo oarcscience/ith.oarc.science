@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu30)  [Next](tmu32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu30)  [Next](tmu32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_254">p. 254</span>
 
-### NĀḌABINḌU <span id="fr_238"></span>[1](#fn_223)-UPANISHAḌ
+### NĀḌABINḌU <span id="fr_238"></span>[1](#fn_223.md)-UPANISHAḌ
 
 ### OF
 
@@ -29,12 +29,12 @@ Intangible Textual Heritage
 
 <span class="smallcaps">The</span> syllable A is considered to be its
 (the bird Om's) right wing, U, its left: M <span
-id="fr_239"></span>[2](#fn_224), its tail; and the arḍhamāṭrā
+id="fr_239"></span>[2](#fn_224.md), its tail; and the arḍhamāṭrā
 (half-metre) is said to be its head.
 
 The (rājasic and ṭāmasic) qualities, its feet upwards (to the loins);
-saṭṭva, its (main) body;  <span id="fr_240"></span>[3](#fn_225) ḍharma
-is [considered](errata.htm#20) to be its right eye, and aḍharma, its
+saṭṭva, its (main) body;  <span id="fr_240"></span>[3](#fn_225.md) ḍharma
+is [considered](errata.htm#20.md) to be its right eye, and aḍharma, its
 left.
 
 The Bhūrloka is situated in its feet; the Bhuvarloka, in its knees; the
@@ -48,7 +48,7 @@ explained (*viz*.,) should be explained.
 
 An adept in yoga who bestrides the Hamsa (bird) thus (*viz*.,
 contemplates on Om) is not affected by karmic influences or by tens of
-crores of sins. <span id="fr_241"></span>[4](#fn_226)
+crores of sins. <span id="fr_241"></span>[4](#fn_226.md)
 
 <span id="page_255">p. 255</span>
 
@@ -65,7 +65,7 @@ the second, viḍyunmāli (or viḍyunmāṭrā); the third, paṭaṅginī; the
 fourth, vāyuveginī; the fifth, nāmaḍheya; the sixth, ainḍrī; the
 seventh, vaishṇavī; the eighth, śāṅkarī; the ninth, mahaṭī; the tenth,
 ḍhṛṭi (ḍhruva, Calcutta ed.); the eleventh, nārī (mauni, Calcutta ed.);
-and the twelfth, brāhmī. <span id="fr_242"></span>[1](#fn_227)
+and the twelfth, brāhmī. <span id="fr_242"></span>[1](#fn_227.md)
 
 If a person happens to die in the first māṭrā (while contemplating on
 it), he is born again as. a great emperor in Bhāraṭavarsha.
@@ -82,7 +82,7 @@ seat of Vishṇu; if in the eighth, Ruḍra, the Lord of all creatures.
 
 If in the ninth, in Maharloka; if in the tenth, in Janoloka (Ḍhruvaloka,
 Calcutta ed.); if in the eleventh, Ṭapoloka, and if in the twelfth, he
-attains the eternal <span id="fr_243"></span>[2](#fn_228) state of
+attains the eternal <span id="fr_243"></span>[2](#fn_228.md) state of
 Brahma.
 
 <span id="page_256">p. 256</span>
@@ -91,7 +91,7 @@ That which is beyond these, (*viz*.,) Parabrahman which is beyond (the
 above māṭrās), the pure, the all-pervading, beyond kalās, the ever
 resplendent and the source of all jyoṭis (light) should be known.
 
- <span id="fr_244"></span>[1](#fn_229) When the mind goes beyond the
+ <span id="fr_244"></span>[1](#fn_229.md) When the mind goes beyond the
 organs and the guṇās and is absorbed, having no separate existence and
 no mental action, then (the guru) should instruct him (as to his further
 course of development).
@@ -102,7 +102,7 @@ of yoga and avoiding all intercourse with society.
 
 Then he, being freed from the bonds of karma and the existence as a jīva
 and being pure, enjoys the supreme bliss by his attaining of the state
-of Brahmā. <span id="fr_245"></span>[2](#fn_230)
+of Brahmā. <span id="fr_245"></span>[2](#fn_230.md)
 
 O intelligent man, spend your life always in the knowing of the supreme
 bliss, enjoying the whole of your prārabḍha (that portion of past karma
@@ -110,7 +110,7 @@ now being enjoyed) without making ally complaint (of it).
 
 Even after āṭmajñāna (knowledge of Mind or Self) has awakened (in one),
 prārabḍha does not leave (him); but he does not feel prārabḍha after the
-dawning of ṭaṭṭvajñāna <span id="fr_246"></span>[3](#fn_231) (knowledge
+dawning of ṭaṭṭvajñāna <span id="fr_246"></span>[3](#fn_231.md) (knowledge
 of ṭaṭṭva or truth) because the body and other things are asaṭ (unreal),
 like the things seen in a dream to one on awaking from it.
 
@@ -254,16 +254,16 @@ Such is the Upanishaḍ.
 
 ### Footnotes
 
-<span id="fn_223"></span>[254:1](tmu31.htm#fr_238) Lit., Sound-seed.
+<span id="fn_223"></span>[254:1](tmu31.htm#fr_238.md) Lit., Sound-seed.
 
-<span id="fn_224"></span>[254:2](tmu31.htm#fr_239) The commentator says
+<span id="fn_224"></span>[254:2](tmu31.htm#fr_239.md) The commentator says
 that M is the last letter and hence tail and arḍhamāṭrā is the head, as
 it enables one to attain to higher worlds.
 
-<span id="fn_225"></span>[254:3](tmu31.htm#fr_240) Another reading is:
+<span id="fn_225"></span>[254:3](tmu31.htm#fr_240.md) Another reading is:
 The qualities are its feet, etc., and Ṭaṭṭva is its body.
 
-<span id="fn_226"></span>[254:4](tmu31.htm#fr_241) Comm.: Since this
+<span id="fn_226"></span>[254:4](tmu31.htm#fr_241.md) Comm.: Since this
 manṭra has already occurred in the preceding khaṇda of the same sākhā,
 it is simply referred in the text. The manṭra is:
 
@@ -275,7 +275,7 @@ Sūrya, the thousand-rayed God; that syllable, 'Om' bearing in its heart
 all the ḍevas (of saṭṭvaguṇa). He goes up to Sahasrānha seeing the
 worlds personally: Sahasrānha being the seat of the spiritual sun.
 
-<span id="fn_227"></span>[255:1](tmu31.htm#fr_242) Comm.: The four
+<span id="fn_227"></span>[255:1](tmu31.htm#fr_242.md) Comm.: The four
 māṭrās are subdivided into twelve by their having each three svaras,
 Uḍāṭṭa, Anuḍāṭṭa, and Svarīṭa. Here the author goes on to give the names
 of the twelve kalās and shows the method of practising Dhāraṇā on each.
@@ -288,16 +288,16 @@ Ainḍrī in Inḍraloka: Vaishṇavī and Sāṅkarī in Vishṇu and Siva-loka
 respectively: Maunī to the loka of Munis or Janoloka and Brāhmī to
 Brahmaloka.
 
-<span id="fn_228"></span>[255:2](tmu31.htm#fr_243) Eternal here means
+<span id="fn_228"></span>[255:2](tmu31.htm#fr_243.md) Eternal here means
 the lifetime of Brahmā.
 
-<span id="fn_229"></span>[256:1](tmu31.htm#fr_244) Another edition says:
+<span id="fn_229"></span>[256:1](tmu31.htm#fr_244.md) Another edition says:
 he should enter through yoga the incomparable and quiescent Śiva.
 
-<span id="fn_230"></span>[256:2](tmu31.htm#fr_245) Here the Calcutta
+<span id="fn_230"></span>[256:2](tmu31.htm#fr_245.md) Here the Calcutta
 edition stops.
 
-<span id="fn_231"></span>[256:3](tmu31.htm#fr_246) Taṭṭvajñāna is the
+<span id="fn_231"></span>[256:3](tmu31.htm#fr_246.md) Taṭṭvajñāna is the
 discrimination of the ṭaṭṭvas of this universe and man. Āṭmajñāna—the
 discrimination of Āṭmā or the Self in man.
 
@@ -305,6 +305,6 @@ discrimination of Āṭmā or the Self in man.
 
 ------------------------------------------------------------------------
 
-[Next: 30. Yogakuṇdalī-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu32)
+[Next: 30. Yogakuṇdalī-Upanishaḍ of Kṛshṇa-Yajurveḍa](tmu32.md)
 
 </div>

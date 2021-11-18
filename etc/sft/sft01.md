@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](sft00)  [Next](sft02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](sft00)  [Next](sft02.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ August, 1916
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sft02)
+[Next: Contents](sft02.md)

@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](mcm04)  [Next](mcm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](mcm04)  [Next](mcm06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419460/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KCO7KA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Musings of a Chinese Mystic*, by Lionel Giles, \[1906\], at Intangible
 Textual Heritage
 
@@ -26,7 +26,7 @@ Textual Heritage
 
 <span class="smallcaps">In</span> the northern ocean there is a fish,
 called the Leviathan, many thousand *li* <span
-id="fr_8"></span>[1](#fn_8) in size. This Leviathan changes into a bird,
+id="fr_8"></span>[1](#fn_8.md) in size. This Leviathan changes into a bird,
 called the Rukh, whose back is many thousand *li* in breadth. With a
 mighty effort it rises, and its wings obscure the sky like clouds. At
 the equinox, this bird prepares to start for the southern ocean, the
@@ -53,7 +53,7 @@ alternation of spring and autumn. Theirs are short years. But in the
 State of Ch‘u there is a tortoise whose spring and autumn are each of
 five hundred years' duration. And in former days there was a large tree
 which had a spring and autumn each of eight thousand years' duration.
-Yet P‘êng Tsu <span id="fr_9"></span>[1](#fn_9) is still, alas! an
+Yet P‘êng Tsu <span id="fr_9"></span>[1](#fn_9.md) is still, alas! an
 object of envy to all.
 
 .        .        .        .        .
@@ -151,11 +151,11 @@ good for mankind, with alas 1 but external results.
 
 ### Footnotes
 
-<span id="fn_8"></span>[37:1](mcm05.htm#fr_8) The *li* is about
+<span id="fn_8"></span>[37:1](mcm05.htm#fr_8.md) The *li* is about
 one-third of an English mile.
 
-<span id="fn_9"></span>[38:1](mcm05.htm#fr_9) The Methuselah of China.
+<span id="fn_9"></span>[38:1](mcm05.htm#fr_9.md) The Methuselah of China.
 
 ------------------------------------------------------------------------
 
-[Next: The Identity of Contraries](mcm06)
+[Next: The Identity of Contraries](mcm06.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Comparative
-Religion](../index)  [Index](index)  [Previous](otmf00)  [Next](otmf02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Comparative
+Religion](../index)  [Index](index)  [Previous](otmf00)  [Next](otmf02.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *On the Migration of Fables*, by Max Müller, \[1881\], at Intangible
 Textual Heritage
 
@@ -70,7 +70,7 @@ civilization than any other work, excepting the Bible.
 But to the point.
 
 Through the researches, which I have published in my edition of the
-Pantschatantra, <span id="fr_55"></span>[1](#fn_54) it is known that
+Pantschatantra, <span id="fr_55"></span>[1](#fn_54.md) it is known that
 about the sixth century of our era, a work existed in India, which
 treated of deep political questions under the form of fables, in which
 the actors were animals. It contained various chapters; but these
@@ -111,7 +111,7 @@ influence on civilization in Western Asia, and throughout Europe.
 Besides this translation into Pehlevi, there was, according to one
 account, another, also of the sixth century, in Syriac. This account we
 owe to a Nestorian writer, who lived in the thirteenth century. He
-mentions in his catalogue of authors <span id="fr_56"></span>[1](#fn_55)
+mentions in his catalogue of authors <span id="fr_56"></span>[1](#fn_55.md)
 a certain Bud Periodeutes, who probably about 570 had to inspect the
 Nestorian communities in Persia and India, and who says that, in
 addition to other books which he names, "he translated the book 'Qalilag
@@ -267,14 +267,14 @@ concert with Dr. Hoffman and myself.
 
 ### Footnotes
 
-<span id="fn_54"></span>[182:1](otmf01.htm#fr_55) *Pantschatantra; Fünf
+<span id="fn_54"></span>[182:1](otmf01.htm#fr_55.md) *Pantschatantra; Fünf
 Bücher indischer Fabeln. Märchen und Erzählungen. Aus dem Sanskrit
 übersetzt mit Einleitung and Anmerkungen*, 2 Theile, Leipzig, 1859; and
 particularly in the first part, the introduction, called "Ueber das
 Indische Grundwerk, and dessen Ausflüsse, so wie über die Quellen and
 die Verbreitung des Inhalts derselben."
 
-<span id="fn_55"></span>[183:1](otmf01.htm#fr_56) Cf. Assemani,
+<span id="fn_55"></span>[183:1](otmf01.htm#fr_56.md) Cf. Assemani,
 *Biblioth. Orient*. iii. 1, 220, and Renan, in the *Journal Asiatique*,
 Cinq. Série, t. vii. 1856, p. 251.
 
@@ -282,6 +282,6 @@ Cinq. Série, t. vii. 1856, p. 251.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](otmf02)
+[Next: Notes](otmf02.md)
 
 </div>

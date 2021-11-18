@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow00)  [Next](wow02) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow00)  [Next](wow02.md) 
 
 ------------------------------------------------------------------------
 
@@ -223,4 +223,4 @@ seemed so safe and tranquil.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two: The Falling Star](wow02)
+[Next: Chapter Two: The Falling Star](wow02.md)

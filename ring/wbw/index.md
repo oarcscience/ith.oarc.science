@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index.md) 
 
 </div>
 
@@ -26,55 +26,55 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wbw00)    [Text
-\[Zipped\]](wbw.txt.gz)
+[Contents](#contents)    [Start Reading](wbw00.md)    [Text
+\[Zipped\]](wbw.txt.gz.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wbw00)  
-[Chapter I: Of Golden Walter And His Father](wbw01)  
-[Chapter II: Golden Walter Takes Ship To Sail The Seas](wbw02)  
+<span id="contents"></span> [Title Page](wbw00.md)  
+[Chapter I: Of Golden Walter And His Father](wbw01.md)  
+[Chapter II: Golden Walter Takes Ship To Sail The Seas](wbw02.md)  
 [Chapter III: Walter Heareth Tidings Of The Death Of His
-Father](wbw03)  
+Father](wbw03.md)  
 [Chapter IV: Storm Befalls The Bartholomew, And She Is Driven Off Her
-Course](wbw04)  
-[Chapter V: Now They Come To A New Land](wbw05)  
+Course](wbw04.md)  
+[Chapter V: Now They Come To A New Land](wbw05.md)  
 [Chapter VI: The Old Man Tells Walter Of Himself. Walter Sees A Shard In
-The Cliff-wall](wbw06)  
-[Chapter VII: Walter Comes To The Shard In The Rock-wall](wbw07)  
-[Chapter VIII: Walter Wends The Waste](wbw08)  
+The Cliff-wall](wbw06.md)  
+[Chapter VII: Walter Comes To The Shard In The Rock-wall](wbw07.md)  
+[Chapter VIII: Walter Wends The Waste](wbw08.md)  
 [Chapter IX: Walter Happeneth On The First Of Those Three
-Creatures](wbw09)  
+Creatures](wbw09.md)  
 [Chapter X: Walter Happeneth On Another Creature In The Strange
-Land](wbw10)  
-[Chapter XI: Walter Happeneth On The Mistress](wbw11)  
+Land](wbw10.md)  
+[Chapter XI: Walter Happeneth On The Mistress](wbw11.md)  
 [Chapter XII: The Wearing Of Four Days In The Wood Beyond The
-World](wbw12)  
-[Chapter XIII: Now Is The Hunt Up](wbw13)  
-[Chapter XIV: The Hunting Of The Hart](wbw14)  
-[Chapter XV: The Slaying Of The Quarry](wbw15)  
-[Chapter XVI: Of The King's Son And The Maid](wbw16)  
-[Chapter XVII: Of The House And The Pleasance In The Wood](wbw17)  
-[Chapter XVIII: The Maid Gives Walter Tryst](wbw18)  
-[Chapter XIX: Walter Goes To Fetch Home The Lion's Hide](wbw19)  
-[Chapter XX: Walter Is Bidden To Another Tryst](wbw20)  
-[Chapter XXI: Walter And The Maid Flee From The Golden House](wbw21)  
-[Chapter XXII: Of The Dwarf And The Pardon](wbw22)  
-[Chapter XXIII: Of The Peaceful Ending Of That Wild Day](wbw23)  
-[Chapter XXIV: The Maid Tells Of What Had Befallen Her](wbw24)  
-[Chapter XXV: Of The Triumphant Summer Array Of The Maid](wbw25)  
-[Chapter XXVI: They Come To The Folk Of The Bears](wbw26)  
-[Chapter XXVII: Morning Amongst The Bears](wbw27)  
-[Chapter XXVIII: Of The New God Of The Bears](wbw28)  
+World](wbw12.md)  
+[Chapter XIII: Now Is The Hunt Up](wbw13.md)  
+[Chapter XIV: The Hunting Of The Hart](wbw14.md)  
+[Chapter XV: The Slaying Of The Quarry](wbw15.md)  
+[Chapter XVI: Of The King's Son And The Maid](wbw16.md)  
+[Chapter XVII: Of The House And The Pleasance In The Wood](wbw17.md)  
+[Chapter XVIII: The Maid Gives Walter Tryst](wbw18.md)  
+[Chapter XIX: Walter Goes To Fetch Home The Lion's Hide](wbw19.md)  
+[Chapter XX: Walter Is Bidden To Another Tryst](wbw20.md)  
+[Chapter XXI: Walter And The Maid Flee From The Golden House](wbw21.md)  
+[Chapter XXII: Of The Dwarf And The Pardon](wbw22.md)  
+[Chapter XXIII: Of The Peaceful Ending Of That Wild Day](wbw23.md)  
+[Chapter XXIV: The Maid Tells Of What Had Befallen Her](wbw24.md)  
+[Chapter XXV: Of The Triumphant Summer Array Of The Maid](wbw25.md)  
+[Chapter XXVI: They Come To The Folk Of The Bears](wbw26.md)  
+[Chapter XXVII: Morning Amongst The Bears](wbw27.md)  
+[Chapter XXVIII: Of The New God Of The Bears](wbw28.md)  
 [Chapter XXIX: Walter Strays In The Pass And Is Sundered From The
-Maid](wbw29)  
-[Chapter XXX: Now They Meet Again](wbw30)  
-[Chapter XXXI: They Come Upon New Folk](wbw31)  
+Maid](wbw29.md)  
+[Chapter XXX: Now They Meet Again](wbw30.md)  
+[Chapter XXXI: They Come Upon New Folk](wbw31.md)  
 [Chapter XXXII: Of The New King Of The City And Land Of
-Stark-wall](wbw32)  
+Stark-wall](wbw32.md)  
 [Chapter XXXIII: Concerning The Fashion Of King-making In
-Stark-wall](wbw33)  
-[Chapter XXXIV: Now Cometh The Maid To The King](wbw34)  
-[Chapter XXXV: Of The King Of Stark-wall And His Queen](wbw35)  
+Stark-wall](wbw33.md)  
+[Chapter XXXIV: Now Cometh The Maid To The King](wbw34.md)  
+[Chapter XXXV: Of The King Of Stark-wall And His Queen](wbw35.md)  
 [Chapter XXXVI: Of Walter And The Maid In The Days Of The
-Kingship](wbw36)  
+Kingship](wbw36.md)  

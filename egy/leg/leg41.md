@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg40)  [Next](leg42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg40)  [Next](leg42.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ this was the year of his life and not of his reign.
 
 ------------------------------------------------------------------------
 
-[Next: Section XIV.](leg42)
+[Next: Section XIV.](leg42.md)

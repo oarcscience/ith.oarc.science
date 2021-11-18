@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar169) [Next](gbar171)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar169) [Next](gbar171.md)
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ will I make thy wages for ever."'
 
 ------------------------------------------------------------------------
 
-[Next](gbar171)
+[Next](gbar171.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi087)  [Next](mtsi089) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi087)  [Next](mtsi089.md) 
 
 ------------------------------------------------------------------------
 
-### 86. THE BOY AND THE LION <span id="fr_19"></span>[1](#fn_19)
+### 86. THE BOY AND THE LION <span id="fr_19"></span>[1](#fn_19.md)
 
 (EUROPEAN)
 
@@ -114,9 +114,9 @@ talk.
 
 ### Footnotes
 
-<span id="fn_19"></span>[79:1](mtsi088.htm#fr_19) Compare preceding
+<span id="fn_19"></span>[79:1](mtsi088.htm#fr_19.md) Compare preceding
 Story.
 
 ------------------------------------------------------------------------
 
-[Next: 87. The Animal Helpers](mtsi089)
+[Next: 87. The Animal Helpers](mtsi089.md)

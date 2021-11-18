@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs03)  [Next](pbs05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs03)  [Next](pbs05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![H](img/00901.jpg) |
+| ![H](img/00901.jpg.md) |
 
 E no doubt predicted many things which the unbeliever in his prophetic
 gifts may ascribe to great natural shrewdness. Among these may be placed
@@ -127,4 +127,4 @@ paragraph was in print before the prediction was fulfilled.
 
 ------------------------------------------------------------------------
 
-[Next: Unfulfilled Prophecies](pbs05)
+[Next: Unfulfilled Prophecies](pbs05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm13)  [Next](tgm15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm13)  [Next](tgm15.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ over the walls.
 <span id="img_06300"></span>
 
 [![](tn/06300.jpg)  
-Click to enlarge](img/06300.jpg)
+Click to enlarge](img/06300.jpg.md)
 
  
 
@@ -66,4 +66,4 @@ Can you imagine such bravery?
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Temple in Ruins](tgm15)
+[Next: 12. The Temple in Ruins](tgm15.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lusbk01)  [Next](lusbk03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lusbk01)  [Next](lusbk03.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ To give each boon that human want requires,
 And every gem that lofty pride desires;  
 Then here, a potent king your gen’rous friend,  
 Here let your perilous toils and wandering searches <span
-id="fr_115"></span>[1](#fn_115) end."
+id="fr_115"></span>[1](#fn_115.md) end."
 
   He said: brave GAMA smiles with heart sincere,  
 And prays the herald to the king to bear  
@@ -97,13 +97,13 @@ Beneath the glitter of a show so fair.
 He half believes the tale, and arms against the snare.
 
   With GAMA sail’d a bold advent’rous band, <span
-id="fr_116"></span>[1](#fn_116)  
+id="fr_116"></span>[1](#fn_116.md)  
 Whose headlong rage had urg’d the guilty hand:  
 Stern Justice for their crimes had ask’d their blood,  
 And pale, in chains condemn’d to death, they stood;  
 But, sav’d by GAMA from the shameful death,  
 The bread of peace had seal’d their plighted faith <span
-id="fr_117"></span>[1](#fn_116)  
+id="fr_117"></span>[1](#fn_116.md)  
 The desolate coast, when order’d, to explore,  
 And dare each danger of the hostile shore:  
 From this bold band he chose the subtlest two,  
@@ -127,11 +127,11 @@ Where’er they pass, the joyful tumult bends,
 And through the town the glad applause attends.  
 But he whose cheeks with youth immortal shone,  
 The god whose wondrous birth two mothers <span
-id="fr_118"></span>[1](#fn_117) own,  
+id="fr_118"></span>[1](#fn_117.md) own,  
 Whose rage had still the wand’ring fleet annoy’d,  
 Now in the town his guileful rage employ’d.  
 A Christian priest he seem’d; a sumptuous <span
-id="fr_119"></span>[2](#fn_118) shrine  
+id="fr_119"></span>[2](#fn_118.md) shrine  
 He rear’d, and tended with the rites divine:  
 O’er the fair altar wav’d the cross on high,  
 Upheld by angels leaning from the sky;  
@@ -146,7 +146,7 @@ Which gave each language from their lips to flow
 
 <span id="page_34">p. 34</span>
 
-Where <span id="fr_120"></span>[1](#fn_119) thus the guileful Power his
+Where <span id="fr_120"></span>[1](#fn_119.md) thus the guileful Power his
 magic wrought  
 DE GAMA’S heralds by the guides are brought:  
 On bended knees low to the earth they fall,  
@@ -166,7 +166,7 @@ And treasures of the coast the spies declare:
 Nor pass’d untold what most their joys inspir’d,  
 What most to hear the valiant chief desir’d,  
 That their glad eyes had seen the rites divine,  
-Their <span id="fr_121"></span>[2](#fn_120) country’s worship, and the
+Their <span id="fr_121"></span>[2](#fn_120.md) country’s worship, and the
 sacred shrine.
 
 <span id="page_35">p. 35</span>
@@ -189,13 +189,13 @@ And now their bowsprits bending to the bay
 The joyful crew the pond’rous anchors weigh,  
 Their shouts the while resounding. To the gale  
 With eager hands they spread the foremast sail.  
-But Love’s fair queen <span id="fr_122"></span>[1](#fn_121) the secret
+But Love’s fair queen <span id="fr_122"></span>[1](#fn_121.md) the secret
 fraud beheld:  
 Swift as an arrow o’er the battle-field,  
 From heav’n she darted to the wat’ry plain,  
 And call’d the sea-born nymphs, a lovely train,  
 From Nereus sprung; the ready nymphs obey,  
-Proud of her kindred birth, <span id="fr_123"></span>[2](#fn_122) and
+Proud of her kindred birth, <span id="fr_123"></span>[2](#fn_122.md) and
 own her sway.
 
 <span id="page_36">p. 36</span>
@@ -206,7 +206,7 @@ With keen rapidity they bound away;
 Dash’d by their silver limbs, the billows grey  
 Foam round: Fair Doto, fir’d with rage divine,  
 Darts through the wave; and onward o’er the brine  
-The lovely Nyse and Nerine <span id="fr_124"></span>[1](#fn_123)
+The lovely Nyse and Nerine <span id="fr_124"></span>[1](#fn_123.md)
 spring  
 With all the vehemence and speed of wing.  
 The curving billows to their breasts divide  
@@ -232,9 +232,9 @@ And, trembling, hovers o’er the wat’ry grave.
 As when alarm’d, to save the hoarded grain,  
 The care-earn’d store for winter’s dreary reign,  
 So toil, so tug, so pant, the lab’ring emmet train, <span
-id="fr_125"></span>[1](#fn_124)  
+id="fr_125"></span>[1](#fn_124.md)  
 So toil’d the nymphs, and strain’d their panting force  
-To turn <span id="fr_126"></span>[2](#fn_125) the navy from its fatal
+To turn <span id="fr_126"></span>[2](#fn_125.md) the navy from its fatal
 course:  
 Back, back the ship recedes; in vain the crew  
 With shouts on shouts their various toils renew;  
@@ -258,7 +258,7 @@ From the high deck he plunges in the brine;
 His mates their safety to the waves consign;  
 Dash’d by their plunging falls on every side  
 Foams and boils up around the rolling tide.  
-Thus <span id="fr_127"></span>[3](#fn_126) the hoarse tenants of the
+Thus <span id="fr_127"></span>[3](#fn_126.md) the hoarse tenants of the
 sylvan lake,  
 A Lycian race of old, to flight betake,
 
@@ -288,7 +288,7 @@ The boiling current, and their art combin’d;
 Yet, though the groaning blast the canvas swell’d,  
 Some wondrous cause, unknown, their speed withheld:  
 Amaz’d, with hands high rais’d, and sparkling eyes,  
-"A <span id="fr_128"></span>[1](#fn_127) miracle!" the raptur’d GAMA
+"A <span id="fr_128"></span>[1](#fn_127.md) miracle!" the raptur’d GAMA
 cries,  
 "A miracle! O hail, thou sacred sign,  
 Thou pledge illustrious of the care divine!  
@@ -312,14 +312,14 @@ If for thine honour we these toils have dar’d,
 These toils let India’s long-sought shore reward."  
 So spoke the chief: the pious accents move  
 The gentle bosom of celestial Love:  
-The beauteous Queen <span id="fr_129"></span>[2](#fn_128) to heaven now
+The beauteous Queen <span id="fr_129"></span>[2](#fn_128.md) to heaven now
 darts away;  
 In vain the weeping nymphs implore her stay:
 
 <span id="page_40">p. 40</span>
 
 Behind her now the morning star she leaves,  
-And the <span id="fr_130"></span>[1](#fn_129) sixth heaven her lovely
+And the <span id="fr_130"></span>[1](#fn_129.md) sixth heaven her lovely
 form receives.  
 Her radiant eyes such living splendours cast,  
 The sparkling stars were brighten’d as she pass’d;  
@@ -332,11 +332,11 @@ Through fields of æther and the realms of light,
 Bright as the blushes of the roseate morn,  
 New blooming tints her glowing cheeks adorn;  
 And all that pride of beauteous grace she wore,  
-As <span id="fr_131"></span>[2](#fn_130) when in Ida’s bower she stood
+As <span id="fr_131"></span>[2](#fn_130.md) when in Ida’s bower she stood
 of yore,  
 When every charm and every hope of joy  
 Enraptur’d and allur’d the Trojan boy.  
-Ah! <span id="fr_132"></span>[3](#fn_131) had that hunter, whose unhappy
+Ah! <span id="fr_132"></span>[3](#fn_131.md) had that hunter, whose unhappy
 fate  
 The human visage lost by Dian’s hate,
 
@@ -349,7 +349,7 @@ Of softest hue the golden tresses flow;
 Her heaving breasts of purer, softer white  
 Than snow hills glist’ning in the moon’s pale light,  
 Except where cover’d by the sash, were bare,  
-And <span id="fr_133"></span>[1](#fn_132) Love, unseen, smil’d soft, and
+And <span id="fr_133"></span>[1](#fn_132.md) Love, unseen, smil’d soft, and
 panted there:  
 Nor less the zone the god’s fond zeal employs,  
 The zone awakes the flames of secret joys.  
@@ -370,7 +370,7 @@ All heaven was mov’d--as when some damsel coy,
 Hurt by the rudeness of the am’rous boy,  
 Offended chides and smiles; with angry mien  
 Thus mixt with smiles, advanc’d the plaintive queen;  
-And <span id="fr_134"></span>[1](#fn_133) thus: "O Thunderer! O potent
+And <span id="fr_134"></span>[1](#fn_133.md) thus: "O Thunderer! O potent
 Sire!  
 Shall I in vain thy kind regard require?  
 Alas! and cherish still the fond deceit,  
@@ -399,7 +399,7 @@ When kindled by those charms, whose woes might move
 And melt the prowling tiger’s rage to love.  
 The thundering-god her weeping sorrows eyed,  
 And sudden threw his awful state aside:  
-With <span id="fr_135"></span>[2](#fn_134) that mild look which stills
+With <span id="fr_135"></span>[2](#fn_134.md) that mild look which stills
 the driving storm,  
 When black roll’d clouds the face of heaven deform;
 
@@ -423,14 +423,14 @@ Where nobler triumphs shall thy nation crown,
 Than those of Roman or of Greek renown.
 
   "If by mine aid the sapient Greek <span
-id="fr_136"></span>[1](#fn_135) could brave  
+id="fr_136"></span>[1](#fn_135.md) could brave  
 Th’ Ogygian seas, nor sink a deathless slave; <span
-id="fr_137"></span>[2](#fn_136)  
+id="fr_137"></span>[2](#fn_136.md)  
 If through th’ Illyrian shelves Antenor bore,  
 Till safe he landed on Timavus’ shore;  
-If, by his fate, the pious Trojan <span id="fr_138"></span>[3](#fn_137)
+If, by his fate, the pious Trojan <span id="fr_138"></span>[3](#fn_137.md)
 led,  
-Safe through Charybdis’ <span id="fr_139"></span>[4](#fn_138) barking
+Safe through Charybdis’ <span id="fr_139"></span>[4](#fn_138.md) barking
 whirlpools sped:  
 Shall thy bold heroes, by my care disclaim’d,  
 Be left to perish, who, to worlds unnam’d  
@@ -450,7 +450,7 @@ For India’s shore through shelves and tempests strays;
 That chief shalt thou behold, with lordly pride,  
 O’er Neptune’s trembling realm triumphant ride.  
 O wondrous fate! when not a breathing <span
-id="fr_140"></span>[1](#fn_139) gale  
+id="fr_140"></span>[1](#fn_139.md) gale  
 Shall curl the billows, or distend the sail,  
 The waves shall boil and tremble, aw’d with dread,  
 And own the terror o’er their empire spread.  
@@ -465,10 +465,10 @@ And yield him tribute for the name of friend.
 The Red-sea wave shall darken in the shade  
 Of thy broad sails, in frequent pomp display’d;  
 Thine eyes shall see the golden Ormuz’ <span
-id="fr_141"></span>[2](#fn_140) shore,  
+id="fr_141"></span>[2](#fn_140.md) shore,  
 Twice thine, twice conquer’d, while the furious Moor,  
 Amaz’d, shall view his arrows backward <span
-id="fr_142"></span>[3](#fn_141) driven,  
+id="fr_142"></span>[3](#fn_141.md) driven,  
 Shower’d on his legions by the hand of Heaven.  
 Though twice assail’d by many a vengeful band,  
 Unconquer’d still shall Dio’s ramparts stand,
@@ -488,7 +488,7 @@ The fatal scourge, the dread of all who dare
 Against thy sons to plan the future war.  
 Though few thy troops who Conanour sustain,  
 The foe, though num’rous, shall assault in vain.  
-Great Calicut, <span id="fr_143"></span>[1](#fn_142) for potent hosts
+Great Calicut, <span id="fr_143"></span>[1](#fn_142.md) for potent hosts
 renown’d,  
 By Lisbon’s sons assail’d shall strew the ground:  
 What floods on floods of vengeful hosts shall wage  
@@ -497,9 +497,9 @@ In vain: a Lusian hero shall oppose
 His dauntless bosom and disperse the foes,  
 As high-swelled waves, that thunder’d to the shock,  
 Disperse in feeble streamlets from the rock.  
-When <span id="fr_144"></span>[2](#fn_143) black’ning broad and far o’er
+When <span id="fr_144"></span>[2](#fn_143.md) black’ning broad and far o’er
 Actium’s tide  
-Augustus’ fleets the slave of love <span id="fr_145"></span>[3](#fn_144)
+Augustus’ fleets the slave of love <span id="fr_145"></span>[3](#fn_144.md)
 defied,  
 When that fallen warrior to the combat led  
 The bravest troops in Bactrian Scythia bred,  
@@ -522,35 +522,35 @@ By ancient bard, by ancient chief unknown,
 Till Ocean’s utmost shore thy bondage own.
 
   "Thus from the Ganges to the Gadian <span
-id="fr_146"></span>[1](#fn_145) strand,  
+id="fr_146"></span>[1](#fn_145.md) strand,  
 From the most northern wave to southmost land  
 That land decreed to bear the injur’d name  
 Of Magalhaens, the Lusian pride and shame; <span
-id="fr_147"></span>[2](#fn_146)  
+id="fr_147"></span>[2](#fn_146.md)  
 From all that vast, though crown’d with heroes old,  
 Who with the gods were demi-gods enroll’d:  
 From all that vast no equal heroes shine  
 To match in arms, O lovely daughter, thine."
 
   So spake the awful ruler of the skies,  
-And. Maia’s <span id="fr_148"></span>[3](#fn_147) son swift at his
+And. Maia’s <span id="fr_148"></span>[3](#fn_147.md) son swift at his
 mandate flies:  
 His charge, from treason and Mombassa’s <span
-id="fr_149"></span>[4](#fn_148) king  
+id="fr_149"></span>[4](#fn_148.md) king  
 The weary fleet in friendly port to bring,  
 And, while in sleep the brave DE GAMA lay,  
 To warn, and fair the shore of rest display.  
 Fleet through the yielding air Cyllenius <span
-id="fr_150"></span>[5](#fn_149) glides,  
+id="fr_150"></span>[5](#fn_149.md) glides,  
 As to the light the nimble air divides.
 
 <span id="page_47">p. 47</span>
 
-The mystic helmet <span id="fr_151"></span>[1](#fn_150) on his head he
+The mystic helmet <span id="fr_151"></span>[1](#fn_150.md) on his head he
 wore,  
-And in his hand the fatal rod <span id="fr_152"></span>[2](#fn_151) he
+And in his hand the fatal rod <span id="fr_152"></span>[2](#fn_151.md) he
 bore;  
-That rod of power <span id="fr_153"></span>[3](#fn_152) to wake the
+That rod of power <span id="fr_153"></span>[3](#fn_152.md) to wake the
 silent dead,  
 Or o’er the lids of care soft slumbers shed.  
 And now, attended by the herald Fame,  
@@ -569,14 +569,14 @@ And dimly twinkling o’er the ethereal plains,
 The ’starry host, by gloomy silence led,  
 O’er earth and sea a glimm’ring paleness shed;  
 When to the fleet, which hemm’d with dangers lay,  
-The silver-wing’d Cyllenius <span id="fr_154"></span>[4](#fn_153) darts
+The silver-wing’d Cyllenius <span id="fr_154"></span>[4](#fn_153.md) darts
 away.  
 Each care was now in soft oblivion steep’d,  
 The watch alone accustom’d vigils kept;  
 E’en GAMA, wearied by the day’s alarms,  
 Forgets his cares, reclin’d in slumber’s arms.  
 Scarce had he clos’d his careful eyes in rest,  
-When Maia’s son <span id="fr_155"></span>[4](#fn_153) in vision stood
+When Maia’s son <span id="fr_155"></span>[4](#fn_153.md) in vision stood
 confess’d:  
 And "Fly," he cried, "O Lusitanian, fly;  
 Here guile and treason every nerve apply:  
@@ -590,7 +590,7 @@ Lo, Heaven, thy guide, commands the rising gale.
 Hark, loud it rustles; see, the gentle tide  
 Invites thy prows; the winds thy ling’ring chide.  
 Here such dire welcome is for thee prepar’d  
-As <span id="fr_156"></span>[1](#fn_154) Diomed’s unhappy strangers
+As <span id="fr_156"></span>[1](#fn_154.md) Diomed’s unhappy strangers
 shar’d;  
 His hapless guests at silent midnight bled,  
 On. their torn limbs his snorting coursers fed,  
@@ -602,7 +602,7 @@ Then thou, belov’d of Heaven, my counsel hear;
 Right by the coast thine onward journey steer,  
 Till where the sun of noon no shade begets,  
 But day with night in equal tenor sets. <span
-id="fr_157"></span>[2](#fn_155)  
+id="fr_157"></span>[2](#fn_155.md)  
 A sov’reign there, of gen’rous faith unstain’d,  
 With ancient bounty, and with joy unfeign’d  
 Your glad arrival on his shore shall greet,  
@@ -612,7 +612,7 @@ Before the prosp’rous gale your sails expand,
 A skilful pilot oft in danger tried,  
 Of heart sincere, shall prove your faithful guide."
 
-  Thus Hermes <span id="fr_158"></span>[3](#fn_156) spoke; and as his
+  Thus Hermes <span id="fr_158"></span>[3](#fn_156.md) spoke; and as his
 flight he takes  
 Melting in ambient air, DE GAMA wakes.  
 Chill’d with amaze he stood, when through the night  
@@ -630,7 +630,7 @@ Here treason lurks.’"------Swift as the captain spake
 The mariners spring bounding to the deck,  
 And now, with shouts far-echoing o’er the sea,  
 Proud of their strength the pond’rous anchors weigh.  
-When <span id="fr_159"></span>[1](#fn_157) Heaven again its guardian
+When <span id="fr_159"></span>[1](#fn_157.md) Heaven again its guardian
 care display’d;  
 Above the wave rose many a Moorish head,  
 Conceal’d by night they gently swam along,  
@@ -673,10 +673,10 @@ A potent monarch reign’d, whose pious sway
 For truth and noblest bounty far renown’d,  
 Still with the stranger’s grateful praise was crown’d.  
 O’erjoyed, brave GAMA heard the tale, which seal’d  
-The sacred truth that Maia’s <span id="fr_160"></span>[1](#fn_158) son
+The sacred truth that Maia’s <span id="fr_160"></span>[1](#fn_158.md) son
 reveal’d;  
 And bids the pilot, warn’d by Heaven his guide,  
-For fair Melinda <span id="fr_161"></span>[2](#fn_159) turn the helm
+For fair Melinda <span id="fr_161"></span>[2](#fn_159.md) turn the helm
 aside.
 
   ’Twas now the jovial season, when the morn  
@@ -684,10 +684,10 @@ From Taurus flames, when Amalthea’s horn
 O’er hill and dale the rose-crown’d Flora pours,  
 And scatters corn and wine, and fruits and flowers.  
 Right to the port their course the fleet pursu’d,  
-And the glad dawn that sacred day <span id="fr_162"></span>[3](#fn_160)
+And the glad dawn that sacred day <span id="fr_162"></span>[3](#fn_160.md)
 renew’d,  
 When, with the spoils of vanquish’d death adorn’d,  
-To heaven the Victor <span id="fr_163"></span>[4](#fn_161) of the tomb
+To heaven the Victor <span id="fr_163"></span>[4](#fn_161.md) of the tomb
 return’d.  
 And soon Melinda’s shore the sailors spy;  
 From every mast the purple streamers fly;  
@@ -731,12 +731,12 @@ And gifts in turn, confirming friendship, gives.
 Here the proud scarlet darts its ardent rays,  
 And here the purple and the orange blaze;  
 O’er these profuse the branching coral spread,  
-The coral <span id="fr_164"></span>[1](#fn_162) wondrous in its wat’ry
+The coral <span id="fr_164"></span>[1](#fn_162.md) wondrous in its wat’ry
 bed;  
 Soft there it creeps, in curving branches thrown,  
 In air it hardens to a precious stone.  
 With these a herald, on whose melting tongue  
-The copious rhetoric <span id="fr_165"></span>[2](#fn_163) of Arabia
+The copious rhetoric <span id="fr_165"></span>[2](#fn_163.md) of Arabia
 hung,  
 He sends, his wants and purpose to reveal,  
 And holy vows of lasting peace to seal.  
@@ -774,7 +774,7 @@ While thus, from shore to cruel shore long driven,
 To thee conducted by a guide from heaven,  
 We come, O monarch, of thy truth assur’d,  
 Of hospitable rites by Heaven secur’d;  
-Such rites <span id="fr_166"></span>[1](#fn_164) as old Alcinous’ palace
+Such rites <span id="fr_166"></span>[1](#fn_164.md) as old Alcinous’ palace
 grac’d,  
 When ’lorn Ulysses sat his favour’d guest.  
 Nor deem, O king, that cold Suspicion taints  
@@ -784,7 +784,7 @@ To our brave captain interdicts the land
 Till Indian earth he tread. What nobler cause  
 Than loyal faith can wake thy fond applause,  
 O thou, who knowest the ever-pressing weight  
-Of kingly office, <span id="fr_167"></span>[2](#fn_165) and the cares of
+Of kingly office, <span id="fr_167"></span>[2](#fn_165.md) and the cares of
 state!
 
 <span id="page_53">p. 53</span>
@@ -793,7 +793,7 @@ And hear, ye conscious heavens, if GAMA’S heart
 Forget thy kindness, or from truth depart,  
 The sacred light shall perish from the sun,  
 And rivers to the sea shall cease to run." <span
-id="fr_168"></span>[1](#fn_166)  
+id="fr_168"></span>[1](#fn_166.md)  
 He spoke; a murmur of applause succeeds,  
 And each with wonder own’d the val’rous deeds  
 Of that bold race, whose flowing vanes had wav’d  
@@ -833,7 +833,7 @@ And to the fleet the joyful herald sped:
 To find such friends each breast with rapture glows,  
 The feast is kindled, and the goblet flows;  
 The trembling comet’s imitated rays <span
-id="fr_169"></span>[1](#fn_167)  
+id="fr_169"></span>[1](#fn_167.md)  
 Bound to the skies, and trail a sparkling blaze:  
 The vaulting bombs awake their sleeping fire,  
 And, like the Cyclops’ bolts, to heaven aspire:  
@@ -875,11 +875,11 @@ A proud tiara decks his lordly brow:
 The various tissue shines in every fold,  
 The silken lustre and the rays of gold.  
 His purple mantle boasts the dye of Tyre, <span
-id="fr_170"></span>[1](#fn_168)  
+id="fr_170"></span>[1](#fn_168.md)  
 And in the sunbeam glows with living fire.  
 A golden chain, the skilful artist’s pride,  
 Hung from his neck; and glitt’ring by his side  
-The dagger’s hilt of star <span id="fr_171"></span>[2](#fn_169) burns
+The dagger’s hilt of star <span id="fr_171"></span>[2](#fn_169.md) burns
 with precious stone;  
 And precious stone in studs of gold enchas’d,  
 The shaggy velvet of his buskins grac’d:  
@@ -895,7 +895,7 @@ A barb’rous discord of rejoicing sounds.
 With equal pomp the captain leaves the fleet,  
 Melinda’s monarch on the tide to greet  
 His barge nods on amidst a splendid train,  
-Himself adorn’d in <span id="fr_172"></span>[1](#fn_170) all the pride
+Himself adorn’d in <span id="fr_172"></span>[1](#fn_170.md) all the pride
 of Spain:  
 With fair embroidery shone his armèd breast,  
 For polish’d steel supplied the warrior’s vest;  
@@ -934,7 +934,7 @@ His arms the chief enfold, the captain bends,
 
 (A rev’rence to the scepter’d grandeur due):  
 In silent awe the monarch’s wond’ring view  
-Is fix’d on VASCO’S noble mien; <span id="fr_173"></span>[1](#fn_171)
+Is fix’d on VASCO’S noble mien; <span id="fr_173"></span>[1](#fn_171.md)
 the while  
 His thoughts with wonder weigh the hero’s toil.  
 Esteem and friendship with his wonder rise,  
@@ -986,7 +986,7 @@ The glories of the Lusian wars to hear,
 Whose faintest echoes long had pleas’d his ear:  
 Their various triumphs on the Afric shore  
 O’er those who hold the son of Hagar’s <span
-id="fr_174"></span>[1](#fn_172) lore  
+id="fr_174"></span>[1](#fn_172.md) lore  
 Fond he demands, and now demands again  
 Their various triumphs on the western main  
 Again, ere readiest answer found a place,  
@@ -1024,7 +1024,7 @@ Contemns his waves and tempests. If the thirst
 To live in fame, though famed for deeds accurs’d,  
 Could urge the caitiff, who to win a name  
 Gave Dian’s temple to the wasting flame: <span
-id="fr_175"></span>[1](#fn_173)  
+id="fr_175"></span>[1](#fn_173.md)  
 If such the ardour to attain renown,  
 How bright the lustre of the hero’s crown,  
 Whose deeds of fair emprize his honours raise,  
@@ -1042,12 +1042,12 @@ END OF THE SECOND BOOK.
 
 ### Footnotes
 
-<span id="fn_115"></span>[31:1](lusbk02.htm#fr_115) After GAMA had been
+<span id="fn_115"></span>[31:1](lusbk02.htm#fr_115.md) After GAMA had been
 driven from Quiloa by a sudden storm, the assurances of the Mozambique
 pilot, that the city was chiefly inhabited by Christians, strongly
 inclined him to enter the harbour of Mombas.
 
-<span id="fn_116"></span>[32:1](lusbk02.htm#fr_117) "There were," says
+<span id="fn_116"></span>[32:1](lusbk02.htm#fr_117.md) "There were," says
 Osorius, "ten men in the fleet under sentence of death, whose lives had
 been spared on condition that, wherever they might be landed, they
 should explore the country and make themselves acquainted with the
@@ -1068,11 +1068,11 @@ make the greatest part of these lives useful to society is a fact, which
 surely cannot be disputed; though, perhaps, the remedy of an evil so
 shocking to humanity may be at some distance.
 
-<span id="fn_117"></span>[33:1](lusbk02.htm#fr_118) Semele was the
+<span id="fn_117"></span>[33:1](lusbk02.htm#fr_118.md) Semele was the
 mother of Bacchus, but, as he was prematurely born, Jupiter, his father,
 sewed him up in his thigh until he came to maturity.--*Ed*.
 
-<span id="fn_118"></span>[33:2](lusbk02.htm#fr_119)
+<span id="fn_118"></span>[33:2](lusbk02.htm#fr_119.md)
 
 *On it, the picture of that shape he placed,  
    In which the Holy Spirit did alight,  
@@ -1083,9 +1083,9 @@ In these lines, the best of all Fanshaw’s, the happy repetition "so
 chaste, so white," is a beauty which, though not contained in the
 original, the present translator was unwilling to lose.
 
-<span id="fn_119"></span>[34:1](lusbk02.htm#fr_120) See the Preface.
+<span id="fn_119"></span>[34:1](lusbk02.htm#fr_120.md) See the Preface.
 
-<span id="fn_120"></span>[34:2](lusbk02.htm#fr_121) When GAMA lay at
+<span id="fn_120"></span>[34:2](lusbk02.htm#fr_121.md) When GAMA lay at
 anchor among the islands of St. George, near Mozambique, "there came
 three Ethiopians on board (says Faria y Sousa) who, seeing St. Gabriel
 painted on the poop, fell on their knees in token of their Christianity,
@@ -1111,9 +1111,9 @@ upon the church of Malabar the whole mass of popery, which they were
 before unacquainted with."--Millar’s History of the Propag. of
 Christianity.
 
-<span id="fn_121"></span>[35:1](lusbk02.htm#fr_122) Venus.
+<span id="fn_121"></span>[35:1](lusbk02.htm#fr_122.md) Venus.
 
-<span id="fn_122"></span>[35:2](lusbk02.htm#fr_123) *Proud of her
+<span id="fn_122"></span>[35:2](lusbk02.htm#fr_123.md) *Proud of her
 kindred birth*.--The French translator has the following note on this
 place: "This is one of the places which discover our author’s intimate
 acquaintance with mythology, and at the same time how much attention his
@@ -1136,7 +1136,7 @@ placed in the Zodiac, the sign Pisces. . . This fable agrees perfectly
 with Religion, as I could clearly show; but I think it more proper to
 leave to the ingenious reader the pleasure of tracing the allegory."
 
-<span id="fn_123"></span>[36:1](lusbk02.htm#fr_124) *Doto, Nyse, and
+<span id="fn_123"></span>[36:1](lusbk02.htm#fr_124.md) *Doto, Nyse, and
 Nerine*.--Cloto, or Clotho, as Castera observes, has by some error crept
 into almost all the Portuguese editions of the Lusiad. Clotho was one of
 the Fates, and neither Hesiod, Homer, nor Virgil has given such a name
@@ -1152,17 +1152,17 @@ human. In the first book they accompany the Portuguese fleet--
 ------------*before the bounding prows  
 The lovely forms of sea-born nymphs arose*.
 
-<span id="fn_124"></span>[37:1](lusbk02.htm#fr_125) The ants are a
+<span id="fn_124"></span>[37:1](lusbk02.htm#fr_125.md) The ants are a
 people not strong, yet they prepare their meat in the summer.--PROVERBS
 xxx. 25.--*Ed*.
 
-<span id="fn_125"></span>[37:2](lusbk02.htm#fr_126) Imitated from
+<span id="fn_125"></span>[37:2](lusbk02.htm#fr_126.md) Imitated from
 Virgil--
 
 *Cymothoë simul, et Triton adnixus acuto  
 Detrudunt naves scopulo*.--VIRG. Æn. i.
 
-<span id="fn_126"></span>[37:3](lusbk02.htm#fr_127) Latona, says the
+<span id="fn_126"></span>[37:3](lusbk02.htm#fr_127.md) Latona, says the
 fable, flying from the serpent Python, and faint with thirst, came to a
 pond, where some Lycian peasants were cutting the bulrushes. In revenge
 of the insults which they offered her in preventing her to drink, she
@@ -1208,23 +1208,23 @@ Fin che a la terra ciascuna s’ abbica*.
 Stan’ li ranocchi pur col muso fuori  
 Si’ che celano i piedi, e l’ altro grosso*.
 
-<span id="fn_127"></span>[39:1](lusbk02.htm#fr_128) Barros and
+<span id="fn_127"></span>[39:1](lusbk02.htm#fr_128.md) Barros and
 Castaneda, in relating this part of the voyage of Gama, say that the
 fleet, just as they were entering the port of Mombas. were driven back
 as it were by an invisible hand. By a subsequent note it will appear
 that the safety of the Armada depended upon this circumstance.
 
-<span id="fn_128"></span>[39:2](lusbk02.htm#fr_129) Venus.
+<span id="fn_128"></span>[39:2](lusbk02.htm#fr_129.md) Venus.
 
-<span id="fn_129"></span>[40:1](lusbk02.htm#fr_130) As the planet of
+<span id="fn_129"></span>[40:1](lusbk02.htm#fr_130.md) As the planet of
 Jupiter is in the sixth heaven, the author has with propriety there
 placed the throne of that god.--CASTERA.
 
-<span id="fn_130"></span>[40:2](lusbk02.htm#fr_131) "I am aware of the
+<span id="fn_130"></span>[40:2](lusbk02.htm#fr_131.md) "I am aware of the
 objection, that this passage is by no means applicable to the celestial
 Venus. I answer once for all, that the names and adventures of the pagan
 divinities are so blended and uncertain in mythology, that a poet is at
-great liberty to adapt [them](errata.htm#1) to his allegory as ho
+great liberty to adapt [them](errata.htm#1.md) to his allegory as ho
 pleases. Even the fables, which may appear as profane, even these
 contain historical, physical, and moral truths, which fully atone for
 the seeming licentiousness of the letter. I could prove this in many
@@ -1244,14 +1244,14 @@ which she promises to the Trojan shepherd, is that divine wisdom which
 gives tranquillity of heart. A judge so philosophical as Paris would not
 hesitate a moment to whom to give the apple of gold."--CASTERA.
 
-<span id="fn_131"></span>[40:3](lusbk02.htm#fr_132) "The allegory of
+<span id="fn_131"></span>[40:3](lusbk02.htm#fr_132.md) "The allegory of
 Camoëns is here obvious. If Acteon, and the <span id="page_41">p.
 41</span> slaves of their violent passions, could discover the beauties
 of true religion, they would be astonished and reclaimed: according to
 the expression of Seneca, ‘Si virtus cerni posset oculis corporeis,
 omnes ad amorem suum pelliceret.’"--CASTERA.
 
-<span id="fn_132"></span>[41:1](lusbk02.htm#fr_133) "That is Divine
+<span id="fn_132"></span>[41:1](lusbk02.htm#fr_133.md) "That is Divine
 love, which always accompanies religion. Behold how our author
 insinuates the excellence of his moral!"--CASTERA.
 
@@ -1275,35 +1275,35 @@ the preface, has twice asserted that his machinery is allegorical. The
 poet’s assertion, and the taste of the age in which he wrote,
 sufficiently vindicate and explain the allegory of the Lusiad.
 
-<span id="fn_133"></span>[42:1](lusbk02.htm#fr_134) The following speech
+<span id="fn_133"></span>[42:1](lusbk02.htm#fr_134.md) The following speech
 of Venus and the reply of Jupiter, are a fine imitation from the first
 Æneid, and do great honour to the classical taste of the Portuguese
 poet.
 
-<span id="fn_134"></span>[42:2](lusbk02.htm#fr_135) Imitated from Virg.
+<span id="fn_134"></span>[42:2](lusbk02.htm#fr_135.md) Imitated from Virg.
 Æn. i.--
 
 *Olli, subridens hominum sator atque Deorum,  
 Vultu, quo cœlum tempestatesque serenat,  
 Oscula libavit natæ*------
 
-<span id="fn_135"></span>[43:1](lusbk02.htm#fr_136) Ulysses, king of
+<span id="fn_135"></span>[43:1](lusbk02.htm#fr_136.md) Ulysses, king of
 Ithaka.--*Ed*.
 
-<span id="fn_136"></span>[43:2](lusbk02.htm#fr_137) *i.e*., the slave of
+<span id="fn_136"></span>[43:2](lusbk02.htm#fr_137.md) *i.e*., the slave of
 Calypso, who offered Ulysses immortality on condition that he would live
 with her.
 
-<span id="fn_137"></span>[43:3](lusbk02.htm#fr_138) Æneas.--*Ed*.
+<span id="fn_137"></span>[43:3](lusbk02.htm#fr_138.md) Æneas.--*Ed*.
 
-<span id="fn_138"></span>[43:4](lusbk02.htm#fr_139)
+<span id="fn_138"></span>[43:4](lusbk02.htm#fr_139.md)
 
 "Far on the right her dogs foul Scylla hides,  
 Charybdis roaring on the left presides,  
 And in her greedy whirlpool sucks the tides."  
                             DRYDEN’S Virg. Æn. iii.--*Ed*.
 
-<span id="fn_139"></span>[44:1](lusbk02.htm#fr_140) After the Portuguese
+<span id="fn_139"></span>[44:1](lusbk02.htm#fr_140.md) After the Portuguese
 had made great conquests in India, GAMA had the honour to be appointed
 Viceroy. In 1524, when sailing thither to take possession of his
 government, his fleet was so becalmed on the coast of Cambaya that the
@@ -1317,20 +1317,20 @@ the ocean trembles under its sovereigns!*" Barros, l. 9. c. 1, and
 Faria, c. 9, say, that such as lay sick of fevers were cured by the
 fright.
 
-<span id="fn_140"></span>[44:2](lusbk02.htm#fr_141) Ormuz, or Hormuz, an
+<span id="fn_140"></span>[44:2](lusbk02.htm#fr_141.md) Ormuz, or Hormuz, an
 island at the entrance of the Persian Gulf, once a great commercial
 *dépôt*.--*Ed*.
 
-<span id="fn_141"></span>[44:3](lusbk02.htm#fr_142) Both Barros and
+<span id="fn_141"></span>[44:3](lusbk02.htm#fr_142.md) Both Barros and
 Castaneda relate this fact. Albuquerque, during the war of Ormuz, having
 given battle to the Persians and Moors, by the violence of a sudden wind
 the arrows of the latter were driven back upon themselves, whereby many
 of their troops were wounded.
 
-<span id="fn_142"></span>[45:1](lusbk02.htm#fr_143) Calicut was a
+<span id="fn_142"></span>[45:1](lusbk02.htm#fr_143.md) Calicut was a
 seaport town of Malabar, more properly *Colicodu*.
 
-<span id="fn_143"></span>[45:2](lusbk02.htm#fr_144)
+<span id="fn_143"></span>[45:2](lusbk02.htm#fr_144.md)
 
 *Hinc ope barbarica, varisque Antonius armis,  
 Victor ab Auroræ populis et littore rubro,  
@@ -1346,34 +1346,34 @@ Spargitur: arva nova Neptunia cæde rubescunt.
 ---------- Sævit medio in certamine Mavors*.  
                                                 VIRG. Æn. viii.
 
-<span id="fn_144"></span>[45:3](lusbk02.htm#fr_145) Antony.
+<span id="fn_144"></span>[45:3](lusbk02.htm#fr_145.md) Antony.
 
-<span id="fn_145"></span>[46:1](lusbk02.htm#fr_146) Gades, now Cadiz, an
+<span id="fn_145"></span>[46:1](lusbk02.htm#fr_146.md) Gades, now Cadiz, an
 ancient and still flourishing seaport of Spain.--*Ed*.
 
-<span id="fn_146"></span>[46:2](lusbk02.htm#fr_147) *The Lusian pride,
+<span id="fn_146"></span>[46:2](lusbk02.htm#fr_147.md) *The Lusian pride,
 etc*.--Magalhaens, a most celebrated navigator, neglected by Emmanuel,
 king of Portugal. offered his service to the king of Spain, under whom
 he made most important discoveries round the Straits which bear his
 name, and in parts of South America. Of this-hero see further, Lusiad
 X., in the notes.
 
-<span id="fn_147"></span>[46:3](lusbk02.htm#fr_148) Mercury.
+<span id="fn_147"></span>[46:3](lusbk02.htm#fr_148.md) Mercury.
 
-<span id="fn_148"></span>[46:4](lusbk02.htm#fr_149) Mombas, a seaport
+<span id="fn_148"></span>[46:4](lusbk02.htm#fr_149.md) Mombas, a seaport
 town on an island of the same name off the coast of Zanguebar, East
 Africa.--*Ed*.
 
-<span id="fn_149"></span>[46:5](lusbk02.htm#fr_150) Mercury, so called
+<span id="fn_149"></span>[46:5](lusbk02.htm#fr_150.md) Mercury, so called
 from Cyllēnē, the highest mountain in the Peloponnesus, where he had a
 temple, and on which spot he is said to have been born.--*Ed*.
 
-<span id="fn_150"></span>[47:1](lusbk02.htm#fr_151) Petasus.
+<span id="fn_150"></span>[47:1](lusbk02.htm#fr_151.md) Petasus.
 
-<span id="fn_151"></span>[47:2](lusbk02.htm#fr_152) The caduceus, twined
+<span id="fn_151"></span>[47:2](lusbk02.htm#fr_152.md) The caduceus, twined
 with serpents.--*Ed*.
 
-<span id="fn_152"></span>[47:3](lusbk02.htm#fr_153)
+<span id="fn_152"></span>[47:3](lusbk02.htm#fr_153.md)
 
 "But first he grasps within his awful hand  
 The mark of sovereign power, the magic wand:  
@@ -1383,9 +1383,9 @@ With this he seals in sleep the wakeful sight,
 And eyes, though closed in death, restores to light."  
                         ÆNEID, iv. 242. (Dryden’s Trans.)
 
-<span id="fn_153"></span>[47:4](lusbk02.htm#fr_155) Mercury.
+<span id="fn_153"></span>[47:4](lusbk02.htm#fr_155.md) Mercury.
 
-<span id="fn_154"></span>[48:1](lusbk02.htm#fr_156) Diomede, a tyrant of
+<span id="fn_154"></span>[48:1](lusbk02.htm#fr_156.md) Diomede, a tyrant of
 Thrace, who fed his horses with human flesh; a thing, says the grave
 Castera, almost incredible. Busiris was a king of Egypt, who sacrificed
 strangers.
@@ -1399,28 +1399,28 @@ which their cruelty had inflicted on others. Isocrates composed an
 oration in honour of Busiris; a masterly example of Attic raillery and
 satire.
 
-<span id="fn_155"></span>[48:2](lusbk02.htm#fr_157) *i.e*. the equator.
+<span id="fn_155"></span>[48:2](lusbk02.htm#fr_157.md) *i.e*. the equator.
 
-<span id="fn_156"></span>[48:3](lusbk02.htm#fr_158) Hermes is the Greek
+<span id="fn_156"></span>[48:3](lusbk02.htm#fr_158.md) Hermes is the Greek
 name for the god Mercury.
 
-<span id="fn_157"></span>[49:1](lusbk02.htm#fr_159) Having mentioned the
+<span id="fn_157"></span>[49:1](lusbk02.htm#fr_159.md) Having mentioned the
 escape of the Moorish pilots, Osorius proceeds: Rex deinde homines magno
 cum silentio scaphis et lintribus submittebat, qui securibus anchoralia
 nocte præciderent. Quod nisi fuisset à nostris singulari Gamæ industria
 vigilatum, et insidiis scelerati illius regis occursum, nostri in summum
 vitæ discrimen incidissent.
 
-<span id="fn_158"></span>[50:1](lusbk02.htm#fr_160) Mercury.
+<span id="fn_158"></span>[50:1](lusbk02.htm#fr_160.md) Mercury.
 
-<span id="fn_159"></span>[50:2](lusbk02.htm#fr_161) A city and kingdom
+<span id="fn_159"></span>[50:2](lusbk02.htm#fr_161.md) A city and kingdom
 of the same name on the cast coast of Africa.
 
-<span id="fn_160"></span>[50:3](lusbk02.htm#fr_162) Ascension Day.
+<span id="fn_160"></span>[50:3](lusbk02.htm#fr_162.md) Ascension Day.
 
-<span id="fn_161"></span>[50:4](lusbk02.htm#fr_163) Jesus Christ.
+<span id="fn_161"></span>[50:4](lusbk02.htm#fr_163.md) Jesus Christ.
 
-<span id="fn_162"></span>[51:1](lusbk02.htm#fr_164)
+<span id="fn_162"></span>[51:1](lusbk02.htm#fr_164.md)
 
 *Vimen erat dum stagna subit, processerat undis  
 Gemma fuit*.  
@@ -1430,13 +1430,13 @@ Gemma fuit*.
 Tempore durescit, mollis fuit herba sub undis*.  
                                                          OVID.
 
-<span id="fn_163"></span>[51:2](lusbk02.htm#fr_165) There were on board
+<span id="fn_163"></span>[51:2](lusbk02.htm#fr_165.md) There were on board
 Gama’s fleet several persons skilled in the Oriental languages.--OSOR.
 
-<span id="fn_164"></span>[52:1](lusbk02.htm#fr_166) See the Eighth
+<span id="fn_164"></span>[52:1](lusbk02.htm#fr_166.md) See the Eighth
 Odyssey, etc.
 
-<span id="fn_165"></span>[52:2](lusbk02.htm#fr_167) Castera’s note on
+<span id="fn_165"></span>[52:2](lusbk02.htm#fr_167.md) Castera’s note on
 this place is so characteristic of a Frenchman, <span id="page_53">p.
 53</span> that the reader will perhaps be pleased to see it transcribed.
 In his text he says, "*Toi qui occupes si dignement le rang supreme*."
@@ -1453,7 +1453,7 @@ encumbered with the multiplicity of business, that I have not a moment
 to myself. In truth, we kings hold a laborious office* (or trade);
 *there is little reason to envy us*."
 
-<span id="fn_166"></span>[53:1](lusbk02.htm#fr_168) The propriety and
+<span id="fn_166"></span>[53:1](lusbk02.htm#fr_168.md) The propriety and
 artfulness of Homer’s speeches have been often and justly admired.
 Camoëns is peculiarly happy in the same department of the Epopæa. The
 speech of Gama’s herald to the King of Melinda is a striking instance of
@@ -1471,33 +1471,33 @@ to come on shore is exceeding artful. It conveys a proof of the
 greatness of the Portuguese sovereign, and affords a compliment to
 loyalty, which could not fail to be acceptable to a monarch.
 
-<span id="fn_167"></span>[54:1](lusbk02.htm#fr_169) Rockets.
+<span id="fn_167"></span>[54:1](lusbk02.htm#fr_169.md) Rockets.
 
-<span id="fn_168"></span>[55:1](lusbk02.htm#fr_170) The Tyrian purple,
+<span id="fn_168"></span>[55:1](lusbk02.htm#fr_170.md) The Tyrian purple,
 obtained from the *murex*, a species of shellfish, was very famous among
 the ancients.--*Ed*.
 
-<span id="fn_169"></span>[55:2](lusbk02.htm#fr_171) A girdle, or
+<span id="fn_169"></span>[55:2](lusbk02.htm#fr_171.md) A girdle, or
 ornamented belt, worn over one shoulder and across  the breast.--*Ed*.
 
-<span id="fn_170"></span>[56:1](lusbk02.htm#fr_172) Camoëns seems to
+<span id="fn_170"></span>[56:1](lusbk02.htm#fr_172.md) Camoëns seems to
 have his eye on the picture of Gama, which is thus described by *Faria y
 Sousa:* "He is painted with a black cap, cloak, and breeches edged with
 velvet, all slashed, through which appears the crimson lining, the
 doublet of crimson satin, and over it his armour inlaid with gold."
 
-<span id="fn_171"></span>[57:1](lusbk02.htm#fr_173) The admiration and
+<span id="fn_171"></span>[57:1](lusbk02.htm#fr_173.md) The admiration and
 friendship of the King of Melinda, so much insisted on by Camoëns, is a
 judicious imitation of Virgil’s Dido. In both cases such preparation was
 necessary to introduce the long episodes which follow.
 
-<span id="fn_172"></span>[58:1](lusbk02.htm#fr_174) The Moors, who are
+<span id="fn_172"></span>[58:1](lusbk02.htm#fr_174.md) The Moors, who are
 Mohammedans, disciples of the Arabian prophet, who was descended from
 Abraham through the line of Hagar.--*Ed*.
 
-<span id="fn_173"></span>[59:1](lusbk02.htm#fr_175) The famous temple of
+<span id="fn_173"></span>[59:1](lusbk02.htm#fr_175.md) The famous temple of
 the goddess Diana at Ephesus.--*Ed*.
 
 ------------------------------------------------------------------------
 
-[Next: Book III](lusbk03)
+[Next: Book III](lusbk03.md)

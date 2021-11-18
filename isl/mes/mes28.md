@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes27)  [Next](mes29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes27)  [Next](mes29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,11 +21,11 @@ Textual Heritage
 ### XIII.
 
 <span id="img_m23400"></span> ![The Prophet's First
-Amanuensis.](img/m23400.jpg)
+Amanuensis.](img/m23400.jpg.md)
 
 <span class="smallcaps">There</span> was a scribe <span
-id="fr_351"></span>[1](#fn_350), before ‘Uthmān <span
-id="fr_352"></span>[2](#fn_351) had filled that post,  
+id="fr_351"></span>[1](#fn_350.md), before ‘Uthmān <span
+id="fr_352"></span>[2](#fn_351.md) had filled that post,  
 Most diligent in noting revelation's host.  
 Whatever text the Prophet had to promulgate  
 On parchment did this scribe trace all its terms of fate.
@@ -62,11 +62,11 @@ How many thus are fettered; none can heal their pain.
 His blasphemy and pride held him in iron grip;  
 His very sighs he felt constrained to stifle on his lip.  
 He cried: "'The iron collars they're compelled to wear;' <span
-id="fr_353"></span>[1](#fn_352)  
+id="fr_353"></span>[1](#fn_352.md)  
 There's naught but iron collars; these are all we bear! <span
 class="margnote"><span id="an_15">15</span></span>  
 'Behind them is a barrier; but We've bound their eyes,' <span
-id="fr_354"></span>[2](#fn_353)  
+id="fr_354"></span>[2](#fn_353.md)  
 So that they see not what's before, behind those ties."
 
 The barrier so upreared appears a level plain;  
@@ -150,7 +150,7 @@ My soul shall lifeless be, like mortal soulless clay.
 That earth may witness bear for me before th’ All-Just.
 
 In day of judgment, "when the earth shall quake with fear," <span
-id="fr_355"></span>[1](#fn_354)  
+id="fr_355"></span>[1](#fn_354.md)  
 Earth shall itself bear witness to my prayerful tear.  
 Command shall issue: "Loud proclaim the acts thou’st seen."  
 The earth, the rocks, a tongue shall find, to tell what's been. <span
@@ -170,7 +170,7 @@ Philosophers deny the devil does exist;
 While they themselves his sport are, in his cursed fist.  
 Hast never seen the devil? Look at thy own self!  
 Who'd paint his forehead blue, unless deceived by elf? <span
-id="fr_356"></span>[2](#fn_355)
+id="fr_356"></span>[2](#fn_355.md)
 
 <span id="page_m238">p. 238</span>
 
@@ -182,7 +182,7 @@ Beware, all ye believers! In you lurks this germ;
 <span class="margnote"><span id="an_60">60</span></span> Within
 yourselves lies latent vile deception's sperm.  
 The two and seventy sects are all within your hearts, <span
-id="fr_357"></span>[1](#fn_356)  
+id="fr_357"></span>[1](#fn_356.md)  
 And only wait a chance to play their fatal parts.
 
 Whoever hath the bud of faith grown in his breast,  
@@ -196,7 +196,7 @@ Exhibitors of base coin in this world below
 touchstone yet is hidden in form's glow.
 
 O Veiler of men's sins! Lift not Thy veil from us! <span
-id="fr_358"></span>[2](#fn_357)  
+id="fr_358"></span>[2](#fn_357.md)  
 In day of trial be our Helper, gracious!  
 Adulteration now contends with purest coin;  
 The gold awaits the day of trial to rejoin.  
@@ -216,7 +216,7 @@ To him alone was homage paid by high and low;
 His prayers were reckoned medicine for every woe.  
 To Moses he opposed himself, in foolish pride.  
 The Scripture tells us how most miserably he died. <span
-id="fr_359"></span>[1](#fn_358)  
+id="fr_359"></span>[1](#fn_358.md)  
 Of Balaams, and of Satans, in this world of ours,  
 Some manifest, some secret, troops come at all hours.  
 God granteth them celebrity within their spheres,  
@@ -231,8 +231,8 @@ Thou, man, perchance, the idol of some crowd mayst be.
 For God's sake, then, beware thou transgress not as he.  
 And setting up thyself against a better man,  
 Thou come to grief, and bring to wreck thy every plan.  
-The tales of ‘Ād <span id="fr_360"></span>[2](#fn_359) and Thamūd <span
-id="fr_361"></span>[3](#fn_360) have the moral clear,  
+The tales of ‘Ād <span id="fr_360"></span>[2](#fn_359.md) and Thamūd <span
+id="fr_361"></span>[3](#fn_360.md) have the moral clear,  
 That saints of God, and righteous men, are held more dear. <span
 class="margnote"><span id="an_80">80</span></span>  
 Those signs, and swift destruction overwhelming them,  
@@ -268,7 +268,7 @@ In that they lack true wisdom, cursed of God they stand.
 The reasonable creature fleeing reason's Lord,  
 Renounces reason, brute becomes, calls for the sword.
 
-Hārūt, Mārūt, <span id="fr_362"></span>[1](#fn_361) two angels famed
+Hārūt, Mārūt, <span id="fr_362"></span>[1](#fn_361.md) two angels famed
 throughout the earth,  
 Through pride and insolence lost paradise for dearth.  
 They trusted in the wondrous power they held of old;  
@@ -311,7 +311,7 @@ A rose, a thorn,—the spirit says which place it fills.
 
 Our God it was who sent this vital air in blasts,  
 Like breath of dragons, to destroy old ‘Ād's <span
-id="fr_363"></span>[1](#fn_362) outcasts. <span class="margnote"><span
+id="fr_363"></span>[1](#fn_362.md) outcasts. <span class="margnote"><span
 id="an_110">110</span></span>  
 While to the faithful it gave peace, and health, and strength;  
 In gentle zephyrs softly breathing whole days’ length.  
@@ -450,7 +450,7 @@ The Prophet said one was a hypocrite, he knew:
 
 For fear lest we should trespass, even as we pray,  
 Our worship has the prayer: "Lord, guide us in Thy way!" <span
-id="fr_364"></span>[1](#fn_363) <span class="margnote"><span
+id="fr_364"></span>[1](#fn_363.md) <span class="margnote"><span
 id="an_165">165</span></span>  
 "Permit not Thou, O God, that my devotion's act  
 Be counted erring hypocrite's unwelcome pact!"
@@ -477,9 +477,9 @@ The heritage we've now to give is prophecy;
 The heirs thereto are they whose spirits hate a lie. <span
 class="margnote"><span id="an_175">175</span></span>  
 The son of Abū-Jahl believed, and saved his soul; <span
-id="fr_365"></span>[2](#fn_364)  
+id="fr_365"></span>[2](#fn_364.md)  
 A son of Noah rebelled; became perdition's goal. <span
-id="fr_366"></span>[3](#fn_365)  
+id="fr_366"></span>[3](#fn_365.md)  
 The son of earth was made resplendent as the moon;  
 Thou, son of fire, begone, disgraced, cursed, none too soon!"
 
@@ -493,10 +493,10 @@ No doubt remains which way to turn one's face, I ween.
 The temple hidden, its direction quite unknown,  
 <span class="margnote"><span id="an_180">180</span></span> Then use thy
 judgment. God this method's kindly shown. <span
-id="fr_367"></span>[1](#fn_366)
+id="fr_367"></span>[1](#fn_366.md)
 
 Whene’er you hear a note of God's truth-warbling bird, <span
-id="fr_368"></span>[2](#fn_367)  
+id="fr_368"></span>[2](#fn_367.md)  
 You straightway seize its literal sense, just as ’tis heard.  
 You then use suppositions of your darksome mind,  
 And form, through wrong conclusions, guesses worse than blind.  
@@ -548,58 +548,58 @@ class="margnote"><span id="an_199">199</span></span>
 
 ### Footnotes
 
-<span id="fn_350"></span>[m234:1](mes28.htm#fr_351) I have failed to
+<span id="fn_350"></span>[m234:1](mes28.htm#fr_351.md) I have failed to
 discover the name and history of the individual here used to point a
 moral by our great poet. Ibnu-Hishām and Nawawī do not mention
 him.—*Translator*.
 
-<span id="fn_351"></span>[m234:2](mes28.htm#fr_352) Osmān.
+<span id="fn_351"></span>[m234:2](mes28.htm#fr_352.md) Osmān.
 
-<span id="fn_352"></span>[m235:1](mes28.htm#fr_353) Qur’ān xxxvi. 7.
+<span id="fn_352"></span>[m235:1](mes28.htm#fr_353.md) Qur’ān xxxvi. 7.
 
-<span id="fn_353"></span>[m235:2](mes28.htm#fr_354) Qur’ān xxxvi. 8.
+<span id="fn_353"></span>[m235:2](mes28.htm#fr_354.md) Qur’ān xxxvi. 8.
 
-<span id="fn_354"></span>[m237:1](mes28.htm#fr_355) Qur’ān xcix. 1.
+<span id="fn_354"></span>[m237:1](mes28.htm#fr_355.md) Qur’ān xcix. 1.
 
-<span id="fn_355"></span>[m237:2](mes28.htm#fr_356) In allusion to the
+<span id="fn_355"></span>[m237:2](mes28.htm#fr_356.md) In allusion to the
 Brahminical marks used in India.
 
-<span id="fn_356"></span>[m238:1](mes28.htm#fr_357) The heterodox sects
+<span id="fn_356"></span>[m238:1](mes28.htm#fr_357.md) The heterodox sects
 of Islām are commonly said to be seventy-two.
 
-<span id="fn_357"></span>[m238:2](mes28.htm#fr_358) "*The Veiler*,"
+<span id="fn_357"></span>[m238:2](mes28.htm#fr_358.md) "*The Veiler*,"
 *i.e.*, of sin, is one of "the most comely names" of God, but is not
 found in the Qur’ān. "*Yà Sattār!*"
 
-<span id="fn_358"></span>[m239:1](mes28.htm#fr_359) Some of the
+<span id="fn_358"></span>[m239:1](mes28.htm#fr_359.md) Some of the
 commentators hold that Qur’ān vii. 174, alludes to the opposition of
 Balaam to Moses and the Israelites.
 
-<span id="fn_359"></span>[m239:2](mes28.htm#fr_360) See Tale iv. dist.
+<span id="fn_359"></span>[m239:2](mes28.htm#fr_360.md) See Tale iv. dist.
 121; and xi. 112.
 
-<span id="fn_360"></span>[m239:3](mes28.htm#fr_361) See Tale ix. 266.
+<span id="fn_360"></span>[m239:3](mes28.htm#fr_361.md) See Tale ix. 266.
 
-<span id="fn_361"></span>[m240:1](mes28.htm#fr_362) Qur’ān ii. 96.
+<span id="fn_361"></span>[m240:1](mes28.htm#fr_362.md) Qur’ān ii. 96.
 
-<span id="fn_362"></span>[m241:1](mes28.htm#fr_363) See Tale iv. dist.
+<span id="fn_362"></span>[m241:1](mes28.htm#fr_363.md) See Tale iv. dist.
 121.
 
-<span id="fn_363"></span>[m245:1](mes28.htm#fr_364) Qur’ān i. 5.
+<span id="fn_363"></span>[m245:1](mes28.htm#fr_364.md) Qur’ān i. 5.
 
-<span id="fn_364"></span>[m245:2](mes28.htm#fr_365) ‘Ikrima, son of
+<span id="fn_364"></span>[m245:2](mes28.htm#fr_365.md) ‘Ikrima, son of
 Abū-Jahl, embraced Islām at sea, as he fled from Mekka at its capture by
 Muhammed. He returned and was pardoned.
 
-<span id="fn_365"></span>[m245:3](mes28.htm#fr_366) Qur’ān xi. 44, 45.
+<span id="fn_365"></span>[m245:3](mes28.htm#fr_366.md) Qur’ān xi. 44, 45.
 
-<span id="fn_366"></span>[m246:1](mes28.htm#fr_367) This is a canon of
+<span id="fn_366"></span>[m246:1](mes28.htm#fr_367.md) This is a canon of
 Islam. If a worshipper has no means of knowing the direction of "God's
 House" at Mekka, he may face in any direction he judges most probable,
 and so perform his worship.
 
-<span id="fn_367"></span>[m246:2](mes28.htm#fr_368) The Prophet.
+<span id="fn_367"></span>[m246:2](mes28.htm#fr_368.md) The Prophet.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Chinese and Roman Artists](mes29)
+[Next: XIV. The Chinese and Roman Artists](mes29.md)

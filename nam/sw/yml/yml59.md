@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml58)  [Next](yml60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml58)  [Next](yml60.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ vegetation of any sort. It was completely arid and contained no plants,
 nor animals to hunt. On this mesa there was nothing to eat, nothing to
 drink.
 
-After much travel over that shadeless plain with [nowhere](errata.htm#9)
+After much travel over that shadeless plain with [nowhere](errata.htm#9.md)
 to stop and rest, they came upon a place where five trails parted. One
 was in the center, going straight toward the sunset. Two went off to the
 right and two to the left.
@@ -246,4 +246,4 @@ much respect until they died of old age.
 
 ------------------------------------------------------------------------
 
-[Next: The First Fire](yml60)
+[Next: The First Fire](yml60.md)

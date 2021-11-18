@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa12)  [Next](zfa14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa12)  [Next](zfa14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Heritage
 
 <span id="page_121">p. 121</span>
 
-### REPLY TO A CHRISTIAN CRITIC (LETTER WRITTEN IN 1896 TO DR. JOHN H. BARROWS.) <span id="fr_36"></span>[1](#fn_36)
+### REPLY TO A CHRISTIAN CRITIC (LETTER WRITTEN IN 1896 TO DR. JOHN H. BARROWS.) <span id="fr_36"></span>[1](#fn_36.md)
 
 DEAR SIR:
 
@@ -154,9 +154,9 @@ Your obedient servant,
 
 ### Footnotes
 
-<span id="fn_36"></span>[121:1](zfa13.htm#fr_36) Reproduced from THE
+<span id="fn_36"></span>[121:1](zfa13.htm#fr_36.md) Reproduced from THE
 OPEN COURT, January, 1897.
 
 ------------------------------------------------------------------------
 
-[Next: Ignorance and Enlightenment](zfa14)
+[Next: Ignorance and Enlightenment](zfa14.md)

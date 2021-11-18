@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst007)  [Next](inst009) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst007)  [Next](inst009.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ be had to Scripture in considering the proofs which I adduce from it.
 
 ------------------------------------------------------------------------
 
-[Next: EPISTLE TO THE READER.](inst009)
+[Next: EPISTLE TO THE READER.](inst009.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg60)  [Next](btg62) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg60)  [Next](btg62.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ search. In the end thou wilt find the truth."
 
 ------------------------------------------------------------------------
 
-[Next: The Teacher Unknown](btg62)
+[Next: The Teacher Unknown](btg62.md)

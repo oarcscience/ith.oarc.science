@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe00)  [Next](boe02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe00)  [Next](boe02.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ New York
 
 ------------------------------------------------------------------------
 
-[Next: Contents](boe02)
+[Next: Contents](boe02.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](blt00)
+[Contents](#contents)    [Start Reading](blt00.md)
 
 ------------------------------------------------------------------------
 
@@ -36,63 +36,63 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](blt00)  
-[Contents](blt01)  
-[Note](blt02)  
-[Indians And Their Stories](blt03)  
+<span id="contents"></span> [Title Page](blt00.md)  
+[Contents](blt01.md)  
+[Note](blt02.md)  
+[Indians And Their Stories](blt03.md)  
 <span id="section_000"></span>
 
 ### Stories Of Adventure
 
-[The Peace With The Snakes](blt04)  
-[The Lost Woman](blt05)  
-[Adventures Of Bull Turns Round](blt06)  
-[Kŭt-o´-yis](blt07)  
-[The Bad Wife](blt08)  
-[The Lost Children](blt09)  
-[Mik-a´pi—Red Old Man](blt10)  
-[Heavy Collar And The Ghost Woman](blt11)  
-[The Wolf-Man](blt12)  
-[The Fast Runners](blt13)  
-[Two War Trails](blt14)  
+[The Peace With The Snakes](blt04.md)  
+[The Lost Woman](blt05.md)  
+[Adventures Of Bull Turns Round](blt06.md)  
+[Kŭt-o´-yis](blt07.md)  
+[The Bad Wife](blt08.md)  
+[The Lost Children](blt09.md)  
+[Mik-a´pi—Red Old Man](blt10.md)  
+[Heavy Collar And The Ghost Woman](blt11.md)  
+[The Wolf-Man](blt12.md)  
+[The Fast Runners](blt13.md)  
+[Two War Trails](blt14.md)  
 <span id="section_001"></span>
 
 ### Stories Of Ancient Times
 
-[Scarface](blt15)  
-[Origin of the I-kun-uh´-kah-tsi](blt16)  
-[Origin Of The Medicine Pipe](blt17)  
-[The Beaver Medicine](blt18)  
-[The Buffalo Rock](blt19)  
-[Origin Of The Worm Pipe](blt20)  
-[The Ghosts’ Buffalo](blt21)  
+[Scarface](blt15.md)  
+[Origin of the I-kun-uh´-kah-tsi](blt16.md)  
+[Origin Of The Medicine Pipe](blt17.md)  
+[The Beaver Medicine](blt18.md)  
+[The Buffalo Rock](blt19.md)  
+[Origin Of The Worm Pipe](blt20.md)  
+[The Ghosts’ Buffalo](blt21.md)  
 <span id="section_002"></span>
 
 ### Stories Of Old Man
 
-[The Blackfoot Genesis](blt22)  
-[The Dog And The Stick](blt23)  
-[The Bears](blt24)  
-[The Wonderful Bird](blt25)  
-[The Race](blt26)  
-[The Bad Weapons](blt27)  
-[The Elk](blt28)  
-[Old Man Doctors](blt29)  
-[The Rock](blt30)  
-[The Theft From The Sun](blt31)  
-[The Fox](blt32)  
-[Old Man And The Lynx](blt33)  
+[The Blackfoot Genesis](blt22.md)  
+[The Dog And The Stick](blt23.md)  
+[The Bears](blt24.md)  
+[The Wonderful Bird](blt25.md)  
+[The Race](blt26.md)  
+[The Bad Weapons](blt27.md)  
+[The Elk](blt28.md)  
+[Old Man Doctors](blt29.md)  
+[The Rock](blt30.md)  
+[The Theft From The Sun](blt31.md)  
+[The Fox](blt32.md)  
+[Old Man And The Lynx](blt33.md)  
 <span id="section_003"></span>
 
 ### The Story Of The Three Tribes
 
-[The Past And The Present](blt34)  
-[Daily Life And Customs](blt35)  
-[How The Blackfoot Lived](blt36)  
-[Social Organization](blt37)  
-[Hunting](blt38)  
-[The Blackfoot In War](blt39)  
-[Religion](blt40)  
-[Medicine Pipes And Healing](blt41)  
-[The Blackfoot Of To-day](blt42)  
-[Index](blt43)  
+[The Past And The Present](blt34.md)  
+[Daily Life And Customs](blt35.md)  
+[How The Blackfoot Lived](blt36.md)  
+[Social Organization](blt37.md)  
+[Hunting](blt38.md)  
+[The Blackfoot In War](blt39.md)  
+[Religion](blt40.md)  
+[Medicine Pipes And Healing](blt41.md)  
+[The Blackfoot Of To-day](blt42.md)  
+[Index](blt43.md)  

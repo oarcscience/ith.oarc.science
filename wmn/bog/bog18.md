@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog17)  [Next](bog19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog17)  [Next](bog19.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ Shall be extinguished and we'll freely love!
 
 ------------------------------------------------------------------------
 
-[Next: Eris](bog19)
+[Next: Eris](bog19.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar125) [Next](gbar127)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar125) [Next](gbar127.md)
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ had said this they retired to rest.
 
 ------------------------------------------------------------------------
 
-[Next](gbar127)
+[Next](gbar127.md)

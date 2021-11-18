@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth061)  [Next](toth063) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth061)  [Next](toth063.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 59. THE WATER SERPENT AND THE COYOTE. <span id="fr_127"></span>[1](#fn_125)
+## 59. THE WATER SERPENT AND THE COYOTE. <span id="fr_127"></span>[1](#fn_125.md)
 
 Listen! The people were here living (Alíksai! Yáo yep yéshiwa). The
 Water Serpent (Bálölöokong) was living in Lânva, the Flute Spring, and a
@@ -152,9 +152,9 @@ forever afterwards.
 
 ### Footnotes
 
-<span id="fn_125"></span>[184:1](toth062.htm#fr_127) Told by Qöyáwaima
+<span id="fn_125"></span>[184:1](toth062.htm#fr_127.md) Told by Qöyáwaima
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 60. The Coyote and the Bálölöokong (Water Serpent).](toth063)
+[Next: 60. The Coyote and the Bálölöokong (Water Serpent).](toth063.md)

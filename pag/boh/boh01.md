@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh00)  [Next](boh02) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh00)  [Next](boh02.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Lynn, 1919.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](boh02)
+[Next: Contents](boh02.md)

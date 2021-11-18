@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss08)  [Next](oss10) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss08)  [Next](oss10.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,7 +88,7 @@ in Crathmo's fields."
 
 "Colgorm," replied the chief, "was the first of my race in Albion;
 Colgorm, the rider of ocean; through Its watery vales. He slew his
-brother in I-thorno: <span id="fr_43"></span>[1](#fn_43) he left the
+brother in I-thorno: <span id="fr_43"></span>[1](#fn_43.md) he left the
 land of his fathers. He chose his place in
 
 <span id="page_197">p. 197</span>
@@ -130,7 +130,7 @@ steps, high-bosomed Strina-dona!
 <span id="page_198">p. 198</span>
 
 If on the heath she moved, her breast was whiter than the down of
-cana; <span id="fr_44"></span>[1](#fn_44) If on the sea-beat shore, than
+cana; <span id="fr_44"></span>[1](#fn_44.md) If on the sea-beat shore, than
 the foam of the rolling ocean. Her eyes were two stars of light. Her
 face was heaven's bow in showers. Her dark hair flowed round it, like
 the streaming clouds. Thou wert the dweller of souls, white-handed
@@ -139,7 +139,7 @@ Strina-dona!
 Colgorm came in his ship, and Corcul-suran, king of shells. The brothers
 came from I-thorno to woo the sunbeam of Tormoth wild. She saw them in
 their echoing steel. Her soul was fixed on blue-eyed Colgorm.
-Ul-lochlin's  <span id="fr_45"></span>[2](#fn_45) nightly eye looked in,
+Ul-lochlin's  <span id="fr_45"></span>[2](#fn_45.md) nightly eye looked in,
 and saw the tossing arms of Strina-dona.
 
 Wrathful the brothers frowned. Their flaming eyes in silence met. They
@@ -157,16 +157,16 @@ Tormoth, white armed Strina-dona.
 
 ### Footnotes
 
-<span id="fn_43"></span>[196:1](oss09.htm#fr_43) An island of
+<span id="fn_43"></span>[196:1](oss09.htm#fr_43.md) An island of
 Scandinavia.
 
-<span id="fn_44"></span>[198:1](oss09.htm#fr_44) The cana is a certain
+<span id="fn_44"></span>[198:1](oss09.htm#fr_44.md) The cana is a certain
 kind of grass, which grows plentifully in the heathy morasses of the
 north.
 
-<span id="fn_45"></span>[198:2](oss09.htm#fr_45) Ul-lochlin "the guide
+<span id="fn_45"></span>[198:2](oss09.htm#fr_45.md) Ul-lochlin "the guide
 to Lochlin;" the name of a star.
 
 ------------------------------------------------------------------------
 
-[Next: Duan III](oss10)
+[Next: Duan III](oss10.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb30)  [Next](gyfb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb30)  [Next](gyfb32.md) 
 
 </div>
 
@@ -163,6 +163,6 @@ there to this day.
 
 ------------------------------------------------------------------------
 
-[Next: The Twin Brothers](gyfb32)
+[Next: The Twin Brothers](gyfb32.md)
 
 </div>

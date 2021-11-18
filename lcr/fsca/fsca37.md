@@ -1,22 +1,22 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca36)  [Next](fsca38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca36)  [Next](fsca38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-<span id="img_16200"></span> ![Opinicus statant.](img/16200.jpg)
+<span id="img_16200"></span> ![Opinicus statant.](img/16200.jpg.md)
 
 ### The Opinicus, or Epimacus
 
@@ -33,4 +33,4 @@ insignia of the *Plasterers’ Company*.
 
 ------------------------------------------------------------------------
 
-[Next: The Sphynx](fsca38)
+[Next: The Sphynx](fsca38.md)

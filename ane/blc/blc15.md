@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc14)  [Next](blc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc14)  [Next](blc16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ at Intangible Textual Heritage
 them.
 
 128\. Let them (*i.e.*, the names) open the ears of the shepherd and the
-herdsman. <span id="fr_52"></span>[53](blc17.htm#fn_52)
+herdsman. <span id="fr_52"></span>[53](blc17.htm#fn_52.md)
 
 129\. Let \[man\] rejoice in Marduk, the Lord of the Gods,
 
@@ -46,4 +46,4 @@ his back \[in flight\],
 
 ------------------------------------------------------------------------
 
-[Next: Notes](blc16)
+[Next: Notes](blc16.md)

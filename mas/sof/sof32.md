@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof31)  [Next](sof33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof31)  [Next](sof33.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,11 +8,11 @@
 
 <div>
 
-<span id="img_head30.png"></span> ![Header Chapter XXX.](img/head30.png)
+<span id="img_head30.png"></span> ![Header Chapter XXX.](img/head30.png.md)
 
 ## XXX.
 
-### The Stone of Foundation. [216](sof37.htm#xref_216)
+### The Stone of Foundation. [216](sof37.htm#xref_216.md)
 
 The Stone of Foundation constitutes one of the most important and
 abstruse of all the symbols of Freemasonry. It is referred to in
@@ -89,9 +89,9 @@ Stone of Foundation, on which the sacred name was mystically engraven,
 with solemn ceremonies, in that sacred depository on Mount Moriah, along
 with the foundations of Dan and Asher, the centre of the Most Holy
 Place, where the ark was overshadowed by the shekinah of God."
- [217](sof37.htm#xref_217) The Hebrew Talmudists, who thought as much of
+ [217](sof37.htm#xref_217.md) The Hebrew Talmudists, who thought as much of
 this stone, and had as many legends concerning it as the masonic
-Talmudists, called it *eben shatijah* [218](sof37.htm#xref_218) or
+Talmudists, called it *eben shatijah* [218](sof37.htm#xref_218.md) or
 "Stone of Foundation," because, as they said, it had been laid by
 Jehovah as the foundation of the world; and hence the apocryphal book of
 Enoch speaks of the "stone which supports the corners of the earth."
@@ -107,7 +107,7 @@ demands of the afflicted patriarch,--
 > Upon what were its foundations fixed?  
 > And who laid its corner-stone,  
 > When the morning stars sang together,  
-> And all the sons of God shouted for joy?"  [219](sof37.htm#xref_219)
+> And all the sons of God shouted for joy?"  [219](sof37.htm#xref_219.md)
 
 Noyes, whose beautiful translation I have adopted as not materially
 differing from the common version, but which is far more poetical and
@@ -115,7 +115,7 @@ more in the strain of the original, thus explains the allusions to the
 foundation-stone: "It was the custom to celebrate the laying of the
 corner-stone of an important building with music, songs, shouting, &c.
 Hence the morning stars are represented as celebrating the laying of the
-corner-stone of the earth."  [220](sof37.htm#xref_220)
+corner-stone of the earth."  [220](sof37.htm#xref_220.md)
 
 Upon this meagre statement have been accumulated more traditions than
 appertain to any other masonic symbol. The Rabbins, as has already been
@@ -149,7 +149,7 @@ the Sanctuary, the barking of the dogs, by magical power, inspired so
 much fear, that he suddenly forgot what he had acquired."
 
 This passage is cited by the learned Buxtorf, in his "*Lexicon
-Talmudicum*;"  [221](sof37.htm#xref_221) but in the copy of the
+Talmudicum*;"  [221](sof37.htm#xref_221.md) but in the copy of the
 "*Toldoth Jeshu*" which I have the good fortune to possess (for it is
 among the rarest of books), I find another passage which gives some
 additional particulars, in the following words:--
@@ -159,7 +159,7 @@ inscribed upon the Stone of Foundation. For when King David was digging
 the foundation for the temple, he found in the depths of the excavation
 a certain stone, on which the name of God was inscribed. This stone he
 removed, and deposited it in the Holy of Holies."
- [222](sof37.htm#xref_222)
+ [222](sof37.htm#xref_222.md)
 
 The same puerile story of the barking dogs is repeated, still more at
 length. It is not pertinent to the present inquiry, but it may be stated
@@ -198,7 +198,7 @@ stane, and we have no means of conjecturing how it passed from the
 possession of Jacob into that of Solomon. Moses, it is true, is said to
 have taken it with him out of Egypt at the time of the exodus, and thus
 it may have finally reached Jerusalem. Dr. Adam
-Clarke [223](sof37.htm#xref_223) repeats what he very properly calls "a
+Clarke [223](sof37.htm#xref_223.md) repeats what he very properly calls "a
 foolish tradition," that the stone on which Jacob rested his head was
 afterwards brought to Jerusalem, thence carried after a long lapse of
 time to Spain, from Spain to Ireland, and from Ireland to Scotland,
@@ -208,7 +208,7 @@ attached, from Scotland to Westminster Abbey, where, under the name of
 Jacob's Pillow, it still remains, and is always placed under the chair
 upon which the British sovereign sits to be crowned, because there is an
 old distich which declares that wherever this stone is found the
-Scottish kings shall reign. [224](sof37.htm#xref_224)
+Scottish kings shall reign. [224](sof37.htm#xref_224.md)
 
 But this Scottish tradition would take the Stone of Foundation away from
 all its masonic connections, and therefore it is rejected as a masonic
@@ -285,7 +285,7 @@ The Talmudical book "*Yoma*" gives the same tradition, and says that
 "the ark of the covenant was placed in the centre of the Holy of Holies,
 upon a stone rising three fingers' breadth above the floor, to be, as it
 were, a pedestal for it." "This stone," says
-Prideaux, [225](sof37.htm#xref_225) "the Rabbins call the Stone of
+Prideaux, [225](sof37.htm#xref_225.md) "the Rabbins call the Stone of
 Foundation, and give us a great deal of trash about it."
 
 There is much controversy as to the question of the existence of any ark
@@ -324,7 +324,7 @@ found (no doubt by forged revelation, or some tedious search, like
 another Rabbi Selemoh), he durst not but lay it sure, as the principal
 foundation stone of the temple. Nay, they say further, he caused to be
 engraved upon it the tetragrammaton, or the ineffable name of Jehovah."
- [226](sof37.htm#xref_226)
+ [226](sof37.htm#xref_226.md)
 
 It will be seen that the masonic traditions on the subject of the Stone
 of Foundation do not differ very materially from these Rabbinical ones,
@@ -384,7 +384,7 @@ historian says he saw in the city of Pharas. These stones were of a
 cubical form, and as the greater number of them were dedicated to the
 god Hermes, or Mercury, they received the generic name of *Hermaa*.
 Subsequently, with the improvement of the plastic art, the head was
-added. [227](sof37.htm#xref_227)
+added. [227](sof37.htm#xref_227.md)
 
 One of these consecrated stones was placed before the door of almost
 every house in Athens. They were also placed in front of the temples, in
@@ -395,7 +395,7 @@ possessions.
 
 The Thebans worshipped Bacchus under the form of a rude, square stone.
 
-Arnobius [228](sof37.htm#xref_228) says that Cybele was represented by a
+Arnobius [228](sof37.htm#xref_228.md) says that Cybele was represented by a
 small stone of a black color. Eusebius cites Porphyry as saying that the
 ancients represented the deity by a black stone, because his nature is
 obscure and inscrutable. The reader will here be reminded of the black
@@ -439,10 +439,10 @@ pagan religions were eminently symbolic. Thus, to use the language of
 Dudley, the pillar or stone "was adopted as a symbol of strength and
 firmness,--a symbol, also, of the divine power, and, by a ready
 inference, a symbol or idol of the Deity himself."
- [229](sof37.htm#xref_229) And this symbolism is confirmed by Cornutus,
+ [229](sof37.htm#xref_229.md) And this symbolism is confirmed by Cornutus,
 who says that the god Hermes was represented without hands or feet,
 being a cubical stone, because the cubical figure betokened his solidity
-and stability. [230](sof37.htm#xref_230)
+and stability. [230](sof37.htm#xref_230.md)
 
 Thus, then, the following facts have been established, but not precisely
 in this order: First, that there was a very general prevalence among the
@@ -461,7 +461,7 @@ Of the fable, myth, or allegory, Bailly has said that, "subordinate to
 history and philosophy, it only deceives that it may the better instruct
 us. Faithful in preserving the realities which are confided to it, it
 covers with its seductive envelope the lessons of the one and the truths
-of the other."  [231](sof37.htm#xref_231) It is from this stand-point
+of the other."  [231](sof37.htm#xref_231.md) It is from this stand-point
 that we are to view the allegory of the Stone of Foundation, as
 developed in one of the most interesting and important symbols of
 Masonry.
@@ -544,6 +544,6 @@ which is his reward.
 
 ------------------------------------------------------------------------
 
-[Next: XXXI. The Lost Word](sof33)
+[Next: XXXI. The Lost Word](sof33.md)
 
 </div>

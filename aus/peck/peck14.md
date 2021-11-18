@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck13)  [Next](peck15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck13)  [Next](peck15.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ saying that he did.
 
 ------------------------------------------------------------------------
 
-[Next: The Struggle For Supremacy Between Birds And Animals](peck15)
+[Next: The Struggle For Supremacy Between Birds And Animals](peck15.md)

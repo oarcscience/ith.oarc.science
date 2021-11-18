@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo01)  [Next](beo03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo01)  [Next](beo03.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ standing, so that all Christian Englishmen might read about him.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](beo03)
+[Next: Part II](beo03.md)

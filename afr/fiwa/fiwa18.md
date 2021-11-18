@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa17)  [Next](fiwa19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa17)  [Next](fiwa19.md) 
 
 ------------------------------------------------------------------------
 
@@ -1857,4 +1857,4 @@ Station.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Fetich in Folk-Lore](fiwa19)
+[Next: Chapter XVII: Fetich in Folk-Lore](fiwa19.md)

@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](ictoc)  [Next](icintr01) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](ictoc)  [Next](icintr01.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ concise in my English as the original Chinese was. Much of what I wrote
 was made up, in consequence, of so many English words, with little or no
 mark of syntactical connexion. I followed in this the example of P.
 Regis and his coadjutors (Introduction, page [p.
-9](icintr01.htm#page_9)) in their Latin version. But their version is
+9](icintr01.htm#page_9).md) in their Latin version. But their version is
 all but unintelligible, and mine was not less so. How to surmount this
 difficulty occurred to me after I had found the clue to the
 interpretation;--in a fact which I had unconsciously acted on in all my
@@ -323,4 +323,4 @@ J. L.
 ------------------------------------------------------------------------
 
 [Next: Chapter I: The Yî King from The Twelfth Century B.C. to the
-Commencement of the Christian Era](icintr01)
+Commencement of the Christian Era](icintr01.md)

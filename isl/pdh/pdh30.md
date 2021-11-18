@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](pdh29)  [Next](pdh31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](pdh29)  [Next](pdh31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486431614/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ Array of verse on verse-hast thou forgot?
 
 ------------------------------------------------------------------------
 
-[Next: XXIX. From Canaan Joseph shall return, whose face](pdh31)
+[Next: XXIX. From Canaan Joseph shall return, whose face](pdh31.md)

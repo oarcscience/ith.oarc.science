@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa51)  [Next](psa53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa51)  [Next](psa53.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ miseries of your worshippers, be pleased now to assume a body of fire,
 and destroy the forest in the form of an evil spirit." At these words
 Shree Krishnù Chund went with him to Oogursen, and said, "O great king!
 give us an order to fight, and do you, having taken all the descendants
-of Judoo with you, [protect](errata.htm#7) the fort." After these words,
+of Judoo with you, [protect](errata.htm#7.md) the fort." After these words,
 when they came to their father and mother, all the inhabitants of the
 city came round them and being greatly agitated began to say, "O
 Krishnù! how shall we escape from the hands of these demons?" Huri,
@@ -190,7 +190,7 @@ Narud Jee rose, and went off to the abode of Kaljumun. On seeing him, he
 stood up with all his court, and making a salutation, enquired in a
 respectful manner, and with joined hands, the reason of his coming. At
 these words Narud, after a little thought, said,
-"[Bulbhudrù](errata.htm#8) and Krishnù are at Muttra, no one, except
+"[Bulbhudrù](errata.htm#8.md) and Krishnù are at Muttra, no one, except
 you, can drive them away, Joorasindhoo has not met with any success.
 "You are immortal and very powerful, Buldeo and Huri are children."
 Narud Jee added, "Do not cease to follow him, "whom you observe of the
@@ -240,4 +240,4 @@ thence to Brujmundul.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LII](psa53)
+[Next: Chapter LII](psa53.md)

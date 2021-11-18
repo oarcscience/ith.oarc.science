@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb17)  [Next](blfb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb17)  [Next](blfb19.md) 
 
 </div>
 
@@ -292,6 +292,6 @@ the Prince and his bride and her two sisters lived happily ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Terrible Head](blfb19)
+[Next: The Terrible Head](blfb19.md)
 
 </div>

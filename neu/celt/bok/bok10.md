@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok09)  [Next](bok11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok09)  [Next](bok11.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -21,7 +21,7 @@ THE OPENING WORDS OF ST. MATTHEW'S GOSPEL.
 
 <span id="img_pl06"></span> <span align="CENTER"> [![Plate
 VI](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 Plate VI  
 </span>
 
@@ -41,6 +41,6 @@ ONIS
 
 ------------------------------------------------------------------------
 
-[Next: Plate VII. Portrait of St. Mark or St. Luke. Fol. 32 V](bok11)
+[Next: Plate VII. Portrait of St. Mark or St. Luke. Fol. 32 V](bok11.md)
 
 </div>

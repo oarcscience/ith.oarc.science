@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,8 +31,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](omy00)    [Page
-Index](pageidx)    [Text \[Zipped\]](omy.txt.gz)
+[Contents](#contents)    [Start Reading](omy00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](omy.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ Index](pageidx)    [Text \[Zipped\]](omy.txt.gz)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 "*The Universe is the mirror of God, and the heart of man is the mirror
-of the Universe.*"--[p. 41](omy15.htm#page_41)
+of the Universe.*"--[p. 41](omy15.htm#page_41.md)
 
 This is a concise study of the key concepts of Sufi philosophy, written
 by a western scholar in the mid-19th century. Palmer discusses the
@@ -49,60 +49,60 @@ spiritual journey that Sufis take, the path to oneness with God. A very
 useful feature of this book is the glossary of poetic symbols used in
 Persian Sufi literature. Palmer also translated the Qur'an for the
 Sacred Books of the East in two volumes, also at this site
-[here](../sbe06/index) and [here](../sbe09/index).
+[here](../sbe06/index) and [here](../sbe09/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](omy00)  
-[Dedication](omy01)  
-[Preface](omy02)  
-[Contents](omy03)  
-[Introduction](omy04)  
+<span id="contents"></span> [Title Page](omy00.md)  
+[Dedication](omy01.md)  
+[Preface](omy02.md)  
+[Contents](omy03.md)  
+[Introduction](omy04.md)  
 <span id="section_000"></span>
 
 ### Part I
 
 [Chapter I. Of the Traveller, the Goal, the Stages, and the
-Road](omy05)  
-[Chapter II. Of Law, Doctrine and Truth](omy06)  
+Road](omy05.md)  
+[Chapter II. Of Law, Doctrine and Truth](omy06.md)  
 [Chapter III. Concerning the Perfect Man, and the Perfectly Free
-Man](omy07)  
-[Chapter IV. Concerning Fellowship and Renunciation](omy08)  
-[Chapter V. Concerning Attraction and Devotion](omy09)  
-[Chapter VI. Concerning Counsel](omy10)  
+Man](omy07.md)  
+[Chapter IV. Concerning Fellowship and Renunciation](omy08.md)  
+[Chapter V. Concerning Attraction and Devotion](omy09.md)  
+[Chapter VI. Concerning Counsel](omy10.md)  
 <span id="section_001"></span>
 
 ### Part II
 
-[Chapter I.](omy11)  
-[Chapter II. Concerning the Attributes of God](omy12)  
+[Chapter I.](omy11.md)  
+[Chapter II. Concerning the Attributes of God](omy12.md)  
 [Chapter III. Concerning the Works of God, Physically
-Considered](omy13)  
+Considered](omy13.md)  
 [Chapter IV. Concerning the Works of God, Metaphysically
-Considered](omy14)  
-[Chapter V. Of the Four Universal Sources](omy15)  
+Considered](omy14.md)  
+[Chapter V. Of the Four Universal Sources](omy15.md)  
 <span id="section_002"></span>
 
 ### Part III
 
-[Chapter I. The Saintly and Prophetic Offices Defined](omy16)  
+[Chapter I. The Saintly and Prophetic Offices Defined](omy16.md)  
 <span id="section_003"></span>
 
 ### Part IV
 
-[Chapter I. On the Influence of Early Prejudice Upon Belief](omy17)  
+[Chapter I. On the Influence of Early Prejudice Upon Belief](omy17.md)  
 <span id="section_004"></span>
 
 ### Part V. The Study of Man
 
-[Chapter I. Grounds For the Discussion](omy18)  
-[Chapter II. Of the Origin and Animal Development of Man](omy19)  
+[Chapter I. Grounds For the Discussion](omy18.md)  
+[Chapter II. Of the Origin and Animal Development of Man](omy19.md)  
 [Chapter III. Of the Intellectual and Spiritual Development of
-Man.](omy20)  
-[Chapter IV. Of the Upward Progress or Ascent of Man](omy21)  
-[Chapter V. Conclusion](omy22)  
+Man.](omy20.md)  
+[Chapter IV. Of the Upward Progress or Ascent of Man](omy21.md)  
+[Chapter V. Conclusion](omy22.md)  
 
  
 
-[Appendix](omy23)  
-[Index](omy24)  
+[Appendix](omy23.md)  
+[Index](omy24.md)  

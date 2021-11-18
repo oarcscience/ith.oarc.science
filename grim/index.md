@@ -31,19 +31,19 @@ different (usually Celtic) vocabulary.
 Note: These historical texts are presented for research and
 entertainment purposes only; we can't answer any questions about the
 material contained in them. Please refer to the [sacred-texts
-FAQ](../faq) before sending any email about these texts.
+FAQ](../faq.md) before sending any email about these texts.
 
 ------------------------------------------------------------------------
 
   
 <span class="c_e"> <span class="c_t">[The Book of the Sacred Magic of
-Abramelin the Mage](abr/index)</span> Translated by <span
+Abramelin the Mage](abr/index.md)</span> Translated by <span
 class="c_a">S.L. MacGregor Mathers</span> \[<span
 class="c_d">1900</span>\].   <span class="c_b">This grimoire is a
 primary source for modern ceremonial magic.</span> </span>
 
   
-<span class="c_e"> <span class="c_t">[The Magus](magus/index)</span> By
+<span class="c_e"> <span class="c_t">[The Magus](magus/index.md)</span> By
 <span class="c_a">Francis Barrett</span> \[<span
 class="c_d">1801</span>\].   <span class="c_b">One of the rarest and
 most reputable treatments of ceremonial magic.</span> Discusses topics
@@ -51,7 +51,7 @@ such as alchemy, astrology, and the Kabbalah. </span>
 
   
 <span class="c_e"> <span class="c_t">[The Book of Ceremonial
-Magic](bcm/index)</span>   by <span class="c_a">Arthur Edward
+Magic](bcm/index.md)</span>   by <span class="c_a">Arthur Edward
 Waite</span> \[<span class="c_d">1913</span>\].   <span
 class="c_b">Comprehensive descriptions of rituals from classic
 grimoires, including extensive illustrations of magical seals.</span>
@@ -61,9 +61,9 @@ Magic. </span>
 
   
 <span class="c_e"> <span class="c_t">[Sixth Book of
-Moses](moses6/index)</span></span>  
+Moses](moses6/index.md)</span></span>  
 <span class="c_e"> <span class="c_t">[Seventh Book of
-Moses](moses7/index)</span>   <span class="c_b">Two very mysterious
+Moses](moses7/index.md)</span>   <span class="c_b">Two very mysterious
 grimoires.</span> These two grimoires (originating from the same book)
 are often cited as being used by Vodun/Obeah practitioners. Although
 they claim to be Kabbalistic in nature, there is very little if any
@@ -85,7 +85,7 @@ have illegible portions. Note: the first five books of Moses are the
 traditionally the first five books of the Bible. </span>
 
 <span class="c_e"> <span class="c_t">[The Key of Solomon The
-King](kos/index)</span>.  
+King](kos/index.md)</span>.  
 translated by <span class="c_a">S. Liddell MacGregor Mathers</span>
 \[<span class="c_d">1888</span>\]   <span class="c_b">The key to modern
 ceremonial magic.</span> Although the author of this grimoire was
@@ -94,11 +94,11 @@ traditionally the biblical King Solomon, it was probably written in the
 1888; Mathers subsequently had a lot of influence in the Golden Dawn
 movement, one of the sources of modern ritual magic; it is said that he
 co-wrote its rituals with W.B. Yeats. Mathers also translated the
-[Kabbalah](../jud/tku/index). </span>
+[Kabbalah](../jud/tku/index.md). </span>
 
   
 <span class="c_e"> <span class="c_t">[The Lesser Key of
-Solomon](lks/index)</span> by <span class="c_a">S.L. MacGregor
+Solomon](lks/index.md)</span> by <span class="c_a">S.L. MacGregor
 Mathers</span> and <span class="c_a">Aleister Crowley</span> \[<span
 class="c_d">1904</span>\].   <span class="c_b">The companion Grimoire to
 the Greater Key of Solomon</span>, (for which, see above). It focuses on
@@ -107,7 +107,7 @@ the characteristics of the various demons, and the summoning rituals.
 
   
 <span class="c_e"> <span class="c_t">[Pow-wows; or Long Lost
-Friend](../ame/pow/index)</span> by <span class="c_a">George
+Friend](../ame/pow/index.md)</span> by <span class="c_a">George
 Hohman</span> \[<span class="c_d">1820</span>\].   <span class="c_b">A
 grimoire in the "Pow-wow" tradition of the Pennsylvania Dutch.</span> In
 spite of the name, Pow-wow is not a Native American tradition, but a

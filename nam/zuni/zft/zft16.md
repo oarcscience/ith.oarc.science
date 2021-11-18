@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft15)  [Next](zft17) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft15)  [Next](zft17.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: How The Coyote Danced with The Blackbirds](zft17)
+[Next: How The Coyote Danced with The Blackbirds](zft17.md)

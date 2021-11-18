@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa86)  [Next](psa88) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa86)  [Next](psa88.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ the order, we will lay hold of, and bring your enemy here."
 Having proceeded thus far in the narrative, Shree Shookdeo Jee said,--O
 great king! when Bulram taking all the descendants of Judoo with him,
 was ready to go in pursuit of Urjoon, Shree Krishnù Chund went and
-explained to Buldeo all the [secrets](errata.htm#26) connected with the
+explained to Buldeo all the [secrets](errata.htm#26.md) connected with the
 carrying off Soobhudra; and said in a tone of the greatest
 submissiveness, "Brother! Urjoon, in the first place, is the son of our
 paternal aunt; and in the second, he is my greatest friend; he has
@@ -127,7 +127,7 @@ thereby made us pure, and put an end to our being born and dying."
 
 Having recited thus much of the history, Shree Shookdeo Jee said,--O
 great king! Shree Krishnù Chund, acquainted with the secrets of the
-heart, having beheld the sincere faith [of](errata.htm#27) those two
+heart, having beheld the sincere faith [of](errata.htm#27.md) those two
 worshippers, assumed two bodily forms, and went and dwelt in the houses
 of both; they entertained and amused him in an agreeable manner; and
 Huri made a stay of some days, and made them exceedingly happy; after
@@ -137,4 +137,4 @@ on the road, and Huri went and abode happily at Dwarka.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXVII](psa88)
+[Next: Chapter LXXXVII](psa88.md)

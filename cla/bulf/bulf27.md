@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf26) [Next](bulf28) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf26) [Next](bulf28.md) 
 
 # CHAPTER XXVIII.
 
@@ -333,4 +333,4 @@ of the scene:
 ------------------------------------------------------------------------
 
 Next: [CHAPTER XXIX. Adventures Of Ulysses- The Lotus-eaters- Cyclopse-
-Circe -sirens- Scylla And Charybdis- Calypso.](bulf28)
+Circe -sirens- Scylla And Charybdis- Calypso.](bulf28.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc15)  [Next](lcc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc15)  [Next](lcc17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ upon him?
 
 <div style="margin-left: 32px">
 
-God Indra moving through the sky, <span id="fr_84"></span>[1](#fn_84)  
+God Indra moving through the sky, <span id="fr_84"></span>[1](#fn_84.md)  
 The calving cow, the falling star,  
 The good man when he needs must die,—  
 These four behold not from afar.<span class="margnote">7</span>
@@ -286,7 +286,7 @@ Alas, Maitreya! \[*Mournfully*.\] Ah, woe is me!
 
 Long, too long, shall I thirst in vain  
   Through all my sojourn dread;  
-This vessel <span id="fr_85"></span>[1](#fn_85) small will not contain  
+This vessel <span id="fr_85"></span>[1](#fn_85.md) small will not contain  
   The water for the dead.<span class="margnote">17</span>
 
 </div>
@@ -299,7 +299,7 @@ sacrificial cord*.\] Ah, this at least is mine.
 The precious cord that Brahmans hold  
 Is unadorned with pearls and gold;  
   Yet, girt therewith, they sacrifice  
-To gods above and fathers <span id="fr_86"></span>[2](#fn_86) old.<span
+To gods above and fathers <span id="fr_86"></span>[2](#fn_86.md) old.<span
 class="margnote">18</span>
 
 </div>
@@ -1314,7 +1314,7 @@ you the title "wedded wife."
 
 *Vasantasenā*. Sir, I desire no more.
 
-*Sharvilaka*. \[*Places the veil* <span id="fr_87"></span>[1](#fn_87)
+*Sharvilaka*. \[*Places the veil* <span id="fr_87"></span>[1](#fn_87.md)
 *upon Vasantasenā. To Chārudatta*.\] Sir, what shall be done for this
 monk?
 
@@ -1387,18 +1387,18 @@ Yet may the wishes of our epilogue be fulfilled.
 
 ### Footnotes
 
-<span id="fn_84"></span>[154:1](lcc16.htm#fr_84) That is, the lightning.
+<span id="fn_84"></span>[154:1](lcc16.htm#fr_84.md) That is, the lightning.
 
-<span id="fn_85"></span>[157:1](lcc16.htm#fr_85) Rohasena is himself
+<span id="fn_85"></span>[157:1](lcc16.htm#fr_85.md) Rohasena is himself
 conceived as the receptacle of the water which a son must pour as a
 drink-offering to his dead father.
 
-<span id="fn_86"></span>[157:2](lcc16.htm#fr_86) The Manes or spirits of
+<span id="fn_86"></span>[157:2](lcc16.htm#fr_86.md) The Manes or spirits of
 the blessed dead.
 
-<span id="fn_87"></span>[174:1](lcc16.htm#fr_87) A token of honorable
-marriage. Compare page [66](lcc10.htm#page_66).
+<span id="fn_87"></span>[174:1](lcc16.htm#fr_87.md) A token of honorable
+marriage. Compare page [66](lcc10.htm#page_66.md).
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue](lcc17)
+[Next: Epilogue](lcc17.md)

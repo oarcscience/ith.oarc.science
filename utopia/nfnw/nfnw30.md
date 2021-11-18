@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw29)  [Next](nfnw31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw29)  [Next](nfnw31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ useful works looked beautiful and natural also. All this, I say, pleased
 me hugely, and she was pleased at my pleasure—but rather puzzled too.
 
 "You seem astonished," she said, just after we had passed a mill  <span
-id="fr_1"></span>[2](#fn_1) which spanned all the stream save the
+id="fr_1"></span>[2](#fn_1.md) which spanned all the stream save the
 water-way for traffic, but which was as beautiful in its way as a Gothic
 cathedral—"You seem astonished at this being so pleasant to look at."
 
@@ -218,11 +218,11 @@ folk, who had cast away riches and attained to wealth.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2](nfnw30.htm#fr_1) I should have said that all
+<span id="fn_1"></span>[2](nfnw30.htm#fr_1.md) I should have said that all
 along the Thames there were abundance of mills used for various
 purposes; none of which were in any degree unsightly, and many
 strikingly beautiful; and the gardens about them marvels of loveliness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXI: An Old House Amongst New Folk](nfnw31)
+[Next: Chapter XXXI: An Old House Amongst New Folk](nfnw31.md)

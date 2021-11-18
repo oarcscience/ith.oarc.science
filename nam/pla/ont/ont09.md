@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont08)  [Next](ont10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont08)  [Next](ont10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -131,7 +131,7 @@ shelter. He also
 
 <span id="img_10600"></span> <span align="CENTER"> [![BEAVER
 DAM.&lt;br&gt; (Home of a Beaver Family.)](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 BEAVER DAM.  
 (Home of a Beaver Family.)  
 </span>
@@ -152,7 +152,7 @@ together with alder bark.
 
 <span id="img_10700"></span> <span align="CENTER"> [![BEAVER BUNDLE OF
 MAD WOLF.&lt;br&gt; (It lies at the foot of tripod.)](tn/10700.jpg)  
-Click to enlarge](img/10700.jpg)  
+Click to enlarge](img/10700.jpg.md)  
 BEAVER BUNDLE OF MAD WOLF.  
 (It lies at the foot of tripod.)  
 </span>
@@ -295,4 +295,4 @@ since."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. My Rocky Mountain Goat Hunt](ont10)
+[Next: Chapter VII. My Rocky Mountain Goat Hunt](ont10.md)

@@ -1,23 +1,23 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Next](sum01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Next](sum01.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_front"></span>
 
 [![](tn/front.jpg)  
-Click to enlarge](img/front.jpg)
+Click to enlarge](img/front.jpg.md)
 
 # MAN'S GOLDEN AGE
 
 This tablet (29.16.422 in the Nippur collection of the University
 Museum) is one of the unpublished pieces belonging to the Sumerian epic
-poem [1](sum10.htm#xref_1) whose hero Enmerkar ruled in the city of
+poem [1](sum10.htm#xref_1.md) whose hero Enmerkar ruled in the city of
 Erech sometime during the fourth millennium B. C. The passage enclosed
 by the black line describes the blissful and unrivalled state of man in
 an era of universal peace before he had learned to know fear and before
-the "confusion of tongues"; its contents, [2](sum10.htm#xref_2) which
+the "confusion of tongues"; its contents, [2](sum10.htm#xref_2.md) which
 are very reminiscent of Genesis XI:1, read as follows:
 
 In those days there was no snake, there was no scorpion, there was no
@@ -39,4 +39,4 @@ To Enlil in one tongue *gave praise*.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](sum01)
+[Next: Title Page](sum01.md)

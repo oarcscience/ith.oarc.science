@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Celtic
-Fairies](../../celt/index.htm#fairies) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md)  [Celtic
+Fairies](../../celt/index.htm#fairies.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Fairies](../../celt/index.htm#fairies) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cof00)
+[Contents](#contents)    [Start Reading](cof00.md)
 
 ------------------------------------------------------------------------
 
@@ -59,23 +59,23 @@ phenomena than meets the eye. Enough data that *some* explanation must
 be attempted. Doyle barely scratches the surface of the massive
 literature on fairies here; for a comprehensive survey, for instance,
 refer to Evan-Wentz' [The Fairy Faith in Celtic
-Countries](../../celt/ffcc/index). The real reason that this charming
+Countries](../../celt/ffcc/index.md). The real reason that this charming
 little book is of interest today is historical, and of course, because
 of the author.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cof00)  
-[Preface](cof01)  
-[Contents](cof02)  
-[Illustrations](cof03)  
-[Chapter I. How The Matter Arose](cof04)  
+<span id="contents"></span> [Title Page](cof00.md)  
+[Preface](cof01.md)  
+[Contents](cof02.md)  
+[Illustrations](cof03.md)  
+[Chapter I. How The Matter Arose](cof04.md)  
 [Chapter II. The First Published Account--''Strand'' Christmas Number,
-1920](cof05)  
-[Chapter III. Reception of the First Photographs](cof06)  
-[Chapter IV. The Second Series](cof07)  
+1920](cof05.md)  
+[Chapter III. Reception of the First Photographs](cof06.md)  
+[Chapter IV. The Second Series](cof07.md)  
 [Chapter V. Observations of a Clairvoyant in the Cottingley Glen, August
-1921](cof08)  
-[Chapter VI. Independent Evidence for Fairies](cof09)  
-[Chapter VII. Some Subsequent Cases](cof10)  
-[Chapter VIII. The Theosophic View of Fairies](cof11)  
+1921](cof08.md)  
+[Chapter VI. Independent Evidence for Fairies](cof09.md)  
+[Chapter VII. Some Subsequent Cases](cof10.md)  
+[Chapter VIII. The Theosophic View of Fairies](cof11.md)  

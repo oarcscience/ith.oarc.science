@@ -1,21 +1,21 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar45)  [Next](gar47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar45)  [Next](gar47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-#### An Emblem of PLENTY is introduced and explained. <span id="fr_26"></span>[†](#fn_26)
+#### An Emblem of PLENTY is introduced and explained. <span id="fr_26"></span>[†](#fn_26.md)
 
 \*       \*       \*       \*       \*       \*       \*
 
@@ -77,7 +77,7 @@ W. M., who presides in the East, humbly, reverently, and devoutly bow.
 
 ### Footnotes
 
-<span id="fn_25"></span>[154:\*](gar45.htm#fr_25) Astronomy stands
+<span id="fn_25"></span>[154:\*](gar45.htm#fr_25.md) Astronomy stands
 confessedly the most exalted and sublime science that has ever been
 cultivated by man. By this divine science, the Grand Architect of the
 Universe leas enabled the mind of man, not only to view his wonderful
@@ -97,7 +97,7 @@ countries, sects, and opinions—and conciliate true friendship among
 persons who would otherwise have remained at an immense distance
 asunder.
 
-<span id="fn_26"></span>[154:†](gar46.htm#fr_26) The passages of
+<span id="fn_26"></span>[154:†](gar46.htm#fr_26.md) The passages of
 Scripture which are referred to in this part of the section will be
 found in JUDGES xii. 1-6. The Vulgate version gives a paraphrastic <span
 id="page_155">p. 155</span> translation of a part of the sixth verse, as
@@ -112,4 +112,4 @@ all, a symbol of scarcity.—MACKEY's *Manual of the Lodge*.
 
 ------------------------------------------------------------------------
 
-[Next: Charge to the Candidate](gar47)
+[Next: Charge to the Candidate](gar47.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](genesis2)  [Next](hillgrab) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](genesis2)  [Next](hillgrab.md) 
 
 ### Planned Groom Lake Land Acquisition Criticized
 
@@ -74,4 +74,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 ------------------------------------------------------------------------
 
 [Next: Air Force Wants To Seize Mountain To Protect Secret
-Base](hillgrab)
+Base](hillgrab.md)

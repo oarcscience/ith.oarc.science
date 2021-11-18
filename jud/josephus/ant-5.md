@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Reuben, and the governors of the tribe of Gad, and \[the half tribe of\]
 Manasseh, for half of this tribe had been permitted to have their
 habitation in the country of the Amorites, which was the seventh part of
 the land of Canaan, <span
-id="EndNote Ant 5.1a"></span>[(1)](#EndNote%20Ant%205.1b) he put them in
+id="EndNote Ant 5.1a"></span>[(1)](#EndNote%20Ant%205.1b.md) he put them in
 mind what they had promised Moses; and he exhorted them that, for the
 sake of the care that Moses had taken of them who had never been weary
 of taking pains for them no, not when he was dying, and for the sake of
@@ -58,7 +58,7 @@ by the king, that certain unknown strangers had supped with her a little
 before sun-setting, and were gone away, who might easily be taken, if
 they were any terror to the city, or likely to bring any danger to the
 king. So these messengers being thus deluded by the woman, <span
-id="EndNote Ant 5.2a"></span>[(2)](#EndNote%20Ant%205.2b) and suspecting
+id="EndNote Ant 5.2a"></span>[(2)](#EndNote%20Ant%205.2b.md) and suspecting
 no imposition, went their ways, without so much as searching the inn;
 but they immediately pursued them along those roads which they most
 probably supposed them to have gone, and those particularly which led to
@@ -174,7 +174,7 @@ immediately, and had her in great esteem ever afterwards.
 
 8\. And if any part of the city escaped the fire, he overthrew it from
 the foundation; and he denounced a curse <span
-id="EndNote Ant 5.3a"></span>[(3)](#EndNote%20Ant%205.3b) against its
+id="EndNote Ant 5.3a"></span>[(3)](#EndNote%20Ant%205.3b.md) against its
 inhabitants, if any should desire to rebuild it; how, upon his laying
 the foundation of the walls, he should be deprived of his eldest son;
 and upon finishing it, he should lose his youngest son. But what
@@ -187,11 +187,11 @@ peculiar advantage; which spoils Joshua delivered to the priests, to be
 laid up among their treasures. And thus did Jericho perish.
 
 10\. But there was one Achar, <span
-id="EndNote Ant 5.4a"></span>[(4)](#EndNote%20Ant%205.4b) the son \[of
+id="EndNote Ant 5.4a"></span>[(4)](#EndNote%20Ant%205.4b.md) the son \[of
 Charmi, the son\] of Zebedias, of the tribe of Judah, who finding a
 royal garment woven entirely of gold, and a piece of gold that weighed
 two hundred shekels; <span
-id="EndNote Ant 5.5a"></span>[(5)](#EndNote%20Ant%205.5b) and thinking
+id="EndNote Ant 5.5a"></span>[(5)](#EndNote%20Ant%205.5b.md) and thinking
 it a very hard case, that what spoils he, by running some hazard, had
 found, he must give away, and offer it to God, who stood in no need of
 it, while he that wanted it must go without it, - made a deep ditch in
@@ -200,7 +200,7 @@ be concealed from his fellow soldiers, but from God himself also.
 
 11\. Now the place where Joshua pitched his camp was called Gilgal,
 which denotes *liberty*; <span
-id="EndNote Ant 5.6a"></span>[(6)](#EndNote%20Ant%205.6b) for since now
+id="EndNote Ant 5.6a"></span>[(6)](#EndNote%20Ant%205.6b.md) for since now
 they had passed over Jordan, they looked on themselves as freed from the
 miseries which they had undergone from the Egyptians, and in the
 wilderness.
@@ -353,13 +353,13 @@ is called Bethhoron; where he also understood that God assisted him,
 which he declared by thunder and thunderbolts, as also by the falling of
 hail larger than usual. Moreover, it happened that the day was
 lengthened <span
-id="EndNote Ant 5.7a"></span>[(7)](#EndNote%20Ant%205.7b) that the night
+id="EndNote Ant 5.7a"></span>[(7)](#EndNote%20Ant%205.7b.md) that the night
 might not come on too soon, and be an obstruction to the zeal of the
 Hebrews in pursuing their enemies; insomuch that Joshua took the kings,
 who were hidden in a certain cave at Makkedah, and put them to death.
 Now, that the day was lengthened at this thee, and was longer than
 ordinary, is expressed in the books laid up in the temple. <span
-id="EndNote Ant 5.8a"></span>[(8)](#EndNote%20Ant%205.8b)
+id="EndNote Ant 5.8a"></span>[(8)](#EndNote%20Ant%205.8b.md)
 
 18\. These kings which made war with, and were ready to fight the
 Gibeonites, being thus overthrown, Joshua returned again to the
@@ -677,7 +677,7 @@ but very eminent on both accounts. He was of great courage and
 magnanimity in action and in dangers, and very sagacious in procuring
 the peace of the people, and of great virtue at all proper seasons. He
 was buried in the city of Timnab, of the tribe of Ephraim <span
-id="EndNote Ant 5.9a"></span>[(9)](#EndNote%20Ant%205.9b) About the same
+id="EndNote Ant 5.9a"></span>[(9)](#EndNote%20Ant%205.9b.md) About the same
 time died Eleazar the high priest, leaving the high priesthood to his
 son Phineas. His monument also, and sepulcher, are in the city of
 Gabatha.
@@ -690,7 +690,7 @@ AFFLICTIONS; AND WHEN THERE WAS A SEDITION ARISEN, THE TRIBE OF BENJAMIN
 WAS DESTROYED EXCEPTING ONLY SIX HUNDRED MEN.**
 
 1\. AFTER the death of Joshua and Eleazar, Phineas prophesied, <span
-id="EndNote Ant 5.10a"></span>[(10)](#EndNote%20Ant%205.10b) that
+id="EndNote Ant 5.10a"></span>[(10)](#EndNote%20Ant%205.10b.md) that
 according to God's will they should commit the government to the tribe
 of Judah, and that this tribe should destroy the race of the Canaanites;
 for then the people were concerned to learn what was the will of God.
@@ -710,7 +710,7 @@ flight; and in the pursuit they took Adonibezek, who, when his fingers
 and toes were cut off by them, said, "Nay, indeed, I was not always to
 lie concealed from God, as I find by what I now endure, while I have not
 been ashamed to do the same to seventy-two kings." <span
-id="EndNote Ant 5.11a"></span>[(11)](#EndNote%20Ant%205.11b) So they
+id="EndNote Ant 5.11a"></span>[(11)](#EndNote%20Ant%205.11b.md) So they
 carried him alive as far as Jerusalem; and when he was dead, they buried
 him in the earth, and went on still in taking the cities: and when they
 had taken the greatest part of them, they besieged Jerusalem; and when
@@ -781,7 +781,7 @@ of theirs brought a terrible sedition upon them, and they proceeded so
 far as to fight one against another, from the following occasion: -
 
 8\. There was a Levite <span
-id="EndNote Ant 5.12a"></span>[(12)](#EndNote%20Ant%205.12b) a man of a
+id="EndNote Ant 5.12a"></span>[(12)](#EndNote%20Ant%205.12b.md) a man of a
 vulgar family, that belonged to the tribe of Ephraim, and dwelt therein:
 this man married a wife from Bethlehem, which is a place belonging to
 the tribe of Judah. Now he was very fond of his wife, and overcome with
@@ -902,7 +902,7 @@ fright at what had happened. On the next day, when they fought again,
 the Benjamites beat them; and eighteen thousand of the Israelites were
 slain, and the rest deserted their camp out of fear of a greater
 slaughter. So they came to Bethel, <span
-id="EndNote Ant 5.13a"></span>[(13)](#EndNote%20Ant%205.13b) a city that
+id="EndNote Ant 5.13a"></span>[(13)](#EndNote%20Ant%205.13b.md) a city that
 was near their camp, and fasted on the next day; and besought God, by
 Phineas the high priest, that his wrath against them might cease, and
 that he would be satisfied with these two defeats, and give them the
@@ -1068,7 +1068,7 @@ of their political government, that he made war upon them, and overcame
 them in several battles, and made the most courageous to submit, and
 entirely subdued their army, and ordered them to pay him tribute. And
 when he had built him a royal palace at Jericho, <span
-id="EndNote Ant 5.14a"></span>[(14)](#EndNote%20Ant%205.14b) he omitted
+id="EndNote Ant 5.14a"></span>[(14)](#EndNote%20Ant%205.14b.md) he omitted
 no method whereby he might distress them; and indeed he reduced them to
 poverty for eighteen years. But when God had once taken pity of the
 Israelites, on account of their afflictions, and was moved to compassion
@@ -1118,7 +1118,7 @@ one of them escape out of their hands; and by this means it was that the
 Hebrews freed themselves from slavery under the Moabites. Ehud also was
 on this account dignified with the government over all the multitude,
 and died after he had held the government eighty years <span
-id="EndNote Ant 5.15a"></span>[(15)](#EndNote%20Ant%205.15b) He was a
+id="EndNote Ant 5.15a"></span>[(15)](#EndNote%20Ant%205.15b.md) He was a
 man worthy of commendation, even besides what he deserved for the
 forementioned act of his. After him Shamgat, the son of Anath, was
 elected for their governor, but died in the first year of his
@@ -1443,7 +1443,7 @@ Abimelech, upon his fall, was scattered abroad, and went to their own
 homes.
 
 6\. Now it was that Jair the Gileadite, <span
-id="EndNote Ant 5.16a"></span>[(16)](#EndNote%20Ant%205.16b) of the
+id="EndNote Ant 5.16a"></span>[(16)](#EndNote%20Ant%205.16b.md) of the
 tribe of Manasseh, took the government. He was a man happy in other
 respects also, but particularly in his children, who were of a good
 character. They were thirty in number, and very skillful in riding on
@@ -1497,7 +1497,7 @@ own, which God had obtained for them, and they had now inhabited
 away. And when he had prayed for victory, and had vowed to perform
 sacred offices, and if he came home in safety, to offer in sacrifice
 what living creature soever should first meet him, <span
-id="EndNote Ant 5.17a"></span>[(17)](#EndNote%20Ant%205.17b) he joined
+id="EndNote Ant 5.17a"></span>[(17)](#EndNote%20Ant%205.17b.md) he joined
 battle with the enemy, and gained a great victory, and in his pursuit
 slew the enemies all along as far as the city of Minnith. He then passed
 over to the land of the Ammonites, and overthrew many of their cities,
@@ -1575,7 +1575,7 @@ He had a wife celebrated for her beauty, and excelling her
 contemporaries. He had no children; and, being uneasy at his want of
 posterity, he entreated God to give them seed of their own bodies to
 succeed them; and with that intent he came constantly into the suburbs
-<span id="EndNote Ant 5.18a"></span>[(18)](#EndNote%20Ant%205.18b)
+<span id="EndNote Ant 5.18a"></span>[(18)](#EndNote%20Ant%205.18b.md)
 together with his wife; which suburbs were in the Great Plain. Now he
 was fond of his wife to a degree of madness, and on that account was
 unmeasurably jealous of her. Now, when his wife was once alone, an
@@ -1624,7 +1624,7 @@ benefit.
 injunctions that were given her; and they called the child, when he was
 born, Samson, which name signifies one that is *strong.* So the child
 grew apace; and it appeared evidently that he would be a prophet, <span
-id="EndNote Ant 5.19a"></span>[(19)](#EndNote%20Ant%205.19b) both by the
+id="EndNote Ant 5.19a"></span>[(19)](#EndNote%20Ant%205.19b.md) both by the
 moderation of his diet, and the permission of his hair to grow.
 
 5\. Now when he once came with his parents to Timhath, a city of the
@@ -1724,7 +1724,7 @@ and deliver him from the misfortune he was under. Accordingly God was
 moved with his entreaties, and raised him up a plentiful fountain of
 sweet water at a certain rock whence it was that Samson called the place
 the *Jaw-bone, <span
-id="EndNote Ant 5.20a"></span>*[(20)](#EndNote%20Ant%205.20b) and so it
+id="EndNote Ant 5.20a"></span>*[(20)](#EndNote%20Ant%205.20b.md) and so it
 is called to this day.
 
 10\. After this fight Samson held the Philistines in contempt, and came
@@ -1738,7 +1738,7 @@ carried them away on his shoulders, and bare them to the mountain that
 is over Hebron, and there laid them down.
 
 11\. However, he at length <span
-id="EndNote Ant 5.21a"></span>[(21)](#EndNote%20Ant%205.21b)
+id="EndNote Ant 5.21a"></span>[(21)](#EndNote%20Ant%205.21b.md)
 transgressed the laws of his country, and altered his own regular way of
 living, and imitated the strange customs of foreigners, which thing was
 the beginning of his miseries; for he fell in love with a woman that was
@@ -1981,7 +1981,7 @@ afflict him by telling it. And now Eli had a far more sure expectation
 of the perdition of his sons; but the glory of Samuel increased more and
 more, it being found by experience that whatsoever he prophesied came to
 pass accordingly. <span
-id="EndNote Ant 5.22a"></span>[(22)](#EndNote%20Ant%205.22b)
+id="EndNote Ant 5.22a"></span>[(22)](#EndNote%20Ant%205.22b.md)
 
 CHAPTER 11.
 
@@ -2052,7 +2052,7 @@ of Solomon's reign; but then the posterity of Eleazar reassumed it.
 
 ENDNOTE
 
-<span id="EndNote Ant 5.1b"></span>[(1)](#EndNote%20Ant%205.1a) The
+<span id="EndNote Ant 5.1b"></span>[(1)](#EndNote%20Ant%205.1a.md) The
 Amorites were one of the seven nations of Canaan. Hence Reland is
 willing to suppose that Josephus did not here mean that their land
 beyond Jordan was a seventh part of the whole land of Canaan, but meant
@@ -2071,7 +2071,7 @@ beyond Jordan was so peculiarly fruitful, and good for pasturage, as the
 two tribes and a half took notice, Numbers 32:1, 4, 16, that it
 maintained about a fifth part of the whole people.
 
-<span id="EndNote Ant 5.2b"></span>[(2)](#EndNote%20Ant%205.2a) It
+<span id="EndNote Ant 5.2b"></span>[(2)](#EndNote%20Ant%205.2a.md) It
 plainly appears by the history of these spies, and the innkeeper Rahab's
 deception of the king of Jericho's messengers, by telling them what was
 false in order to save the lives of the spies, and yet the great
@@ -2092,7 +2092,7 @@ or maintainers of harlots, that the word commonly used for real harlots
 was usually given them. See Dr. Bernard's note here, and Judges 11:1,
 and Antiq. B. V. ch. 7. sect. 8.
 
-<span id="EndNote Ant 5.3b"></span>[(3)](#EndNote%20Ant%205.3a) Upon
+<span id="EndNote Ant 5.3b"></span>[(3)](#EndNote%20Ant%205.3a.md) Upon
 occasion of this devoting of Jericho to destruction, and the exemplary
 punishment of Achar, who broke that duerein or anathema, and of the
 punishment of the future breaker of it, Hiel, 1 Kings 16:34, as also of
@@ -2107,7 +2107,7 @@ Amalekites, 1 Samuel 15:18, it was utterly unlawful to permit those
 enemies to be redeemed; but they were to be all utterly destroyed. See
 also Numbers 23:2, 3.
 
-<span id="EndNote Ant 5.4b"></span>[(4)](#EndNote%20Ant%205.4a) That the
+<span id="EndNote Ant 5.4b"></span>[(4)](#EndNote%20Ant%205.4a.md) That the
 name of this chief was not Achan, as in the common copies, but Achar, as
 here in Josephus, and in the Apostolical Constit. B. VII. ch. 2., and
 elsewhere, is evident by the allusion to that name in the curse of
@@ -2117,18 +2117,18 @@ Accordingly, this Valley of Achar, or Achor, was and is a known place, a
 little north of Gilgal, so called from the days of Joshua till this day.
 See Joshua 7:26; Isaiah 65:10; Hosea 2:15; and Dr. Bernard's notes here.
 
-<span id="EndNote Ant 5.5b"></span>[(5)](#EndNote%20Ant%205.5a) Here Dr.
+<span id="EndNote Ant 5.5b"></span>[(5)](#EndNote%20Ant%205.5a.md) Here Dr.
 Bernard very justly observes, that a few words are dropped out of
 Josephus's copies, on account of the repetition of the word shekels, and
 that it ought to be read thus: — "A piece of gold that weighed fifty
 shekels, and one of silver that weighed two hundred shekels," as in our
 other copies, Joshua 7:21.
 
-<span id="EndNote Ant 5.6b"></span>[(6)](#EndNote%20Ant%205.6a) I agree
+<span id="EndNote Ant 5.6b"></span>[(6)](#EndNote%20Ant%205.6a.md) I agree
 here with Dr. Bernard, and approve of Josephus's interpretation of
 Gilgal for liberty. See Joshua 5:9.
 
-<span id="EndNote Ant 5.7b"></span>[(7)](#EndNote%20Ant%205.7a) Whether
+<span id="EndNote Ant 5.7b"></span>[(7)](#EndNote%20Ant%205.7a.md) Whether
 this lengthening of the day, by the standing still of the sun and moon,
 were physical and real, by the miraculous stoppage of the diurnal motion
 of the earth for about half a revolution, or whether only apparent, by
@@ -2148,11 +2148,11 @@ created them; they have not forsaken their way, from ancient
 generations, unless it were when God enjoined them \[so to do\] by the
 command of his servants." See Authent. Rec. part i. p. 154.
 
-<span id="EndNote Ant 5.8b"></span>[(8)](#EndNote%20Ant%205.8a) Of the
+<span id="EndNote Ant 5.8b"></span>[(8)](#EndNote%20Ant%205.8a.md) Of the
 books laid up in the temple, see the note on Antiq. B. III. ch. 1. sect.
 7.
 
-<span id="EndNote Ant 5.9b"></span>[(9)](#EndNote%20Ant%205.9a) Since
+<span id="EndNote Ant 5.9b"></span>[(9)](#EndNote%20Ant%205.9a.md) Since
 not only Procopius and Suidas, but an earlier author, Moses Chorenensis,
 p. 52, 53, and perhaps from his original author Mariba Carina, one as
 old as Alexander the Great, sets down the famous inscription at Tangier
@@ -2166,7 +2166,7 @@ Canaanites came at the same thee into Armenia, and founded the
 Genthuniaa family, or tribe; and that this was confirmed by the manners
 of the same family or tribe, as being like those of the Canaanites."
 
-<span id="EndNote Ant 5.10b"></span>[(10)](#EndNote%20Ant%205.10a) By
+<span id="EndNote Ant 5.10b"></span>[(10)](#EndNote%20Ant%205.10a.md) By
 prophesying, when spoken of a high priest, Josephus, both here and
 frequently elsewhere, means no more than consulting God by Urim, which
 the reader is still to bear in mind upon all occasions. And if St. John,
@@ -2181,7 +2181,7 @@ and Thummim, on before; or the most holy place of the temple, which was
 no other than the oracle of Urim and Thummim. Of which above, in the
 note on Antiq. B. III. ch. 8. sect. 9.
 
-<span id="EndNote Ant 5.11b"></span>[(11)](#EndNote%20Ant%205.11a) This
+<span id="EndNote Ant 5.11b"></span>[(11)](#EndNote%20Ant%205.11a.md) This
 great number of seventy-two reguli, or small kings, over whom Adonibezek
 had tyrannized, and for which he was punished according to the lex
 talionis, as well as the thirty-one kings of Canaan subdued by Joshua,
@@ -2211,7 +2211,7 @@ such kings are set up as own him for their supreme King, and aim to
 govern according to his laws, he hath admitted of them, and protected
 them and their subjects in all generations.
 
-<span id="EndNote Ant 5.12b"></span>[(12)](#EndNote%20Ant%205.12a)
+<span id="EndNote Ant 5.12b"></span>[(12)](#EndNote%20Ant%205.12a.md)
 Josephus's early date of this history before the beginning of the
 Judges, or when there was no king in Israel, Judges 19;1, is strongly
 confirmed by the large number of Benjamites, both in the days of Asa and
@@ -2220,7 +2220,7 @@ six hundred men; nor can those numbers be at all supposed genuine, if
 they were reduced so late as the end of the Judges, where our other
 copies place this reduction.
 
-<span id="EndNote Ant 5.13b"></span>[(13)](#EndNote%20Ant%205.13a)
+<span id="EndNote Ant 5.13b"></span>[(13)](#EndNote%20Ant%205.13a.md)
 Josephus seems here to have made a small mistake, when he took the
 Hebrew word Bethel, which denotes the house of God, or the tabernacle,
 Judges 20:18, for the proper name of a place, Bethel, it no way
@@ -2228,7 +2228,7 @@ appearing that the tabernacle was ever at Bethel; only so far it is
 true, that Shiloh, the place of the tabernacle in the days of the
 Judges, was not far from Bethel.
 
-<span id="EndNote Ant 5.14b"></span>[(14)](#EndNote%20Ant%205.14a) It
+<span id="EndNote Ant 5.14b"></span>[(14)](#EndNote%20Ant%205.14a.md) It
 appears by the sacred history, Judges 1:16; 3:13, that Eglon's pavilion
 or palace was at the City of Palm-Trees, as the place where Jericho had
 stood is called after its destruction by Joshua, that is, at or near the
@@ -2239,7 +2239,7 @@ by Hiel, 1 Kings 16:31. Our other copies that avoid its proper name
 Jericho, and call it the City of Palm-Trees only, speak here more
 accurately than Josephus.
 
-<span id="EndNote Ant 5.15b"></span>[(15)](#EndNote%20Ant%205.15a) These
+<span id="EndNote Ant 5.15b"></span>[(15)](#EndNote%20Ant%205.15a.md) These
 eighty years for the government of Ehud are necessary to Josephus's
 usual large numbers between the exodus and the building of the temple,
 of five hundred and ninety-two or six hundred and twelve years, but not
@@ -2252,7 +2252,7 @@ had here only eight years instead of eighty; as had that of Theophilus
 of Antioch, Ad Autolye. 1. iii., and this most probably from his copy of
 Josephus.
 
-<span id="EndNote Ant 5.16b"></span>[(16)](#EndNote%20Ant%205.16a) Our
+<span id="EndNote Ant 5.16b"></span>[(16)](#EndNote%20Ant%205.16a.md) Our
 present copies of Josephus all omit Tola among the judges, though the
 other copies have him next after Abimelech, and allot twenty-three years
 to his administration, Judges 10:1, 2; yet do all Josephus's
@@ -2260,7 +2260,7 @@ commentators conclude, that in Josephus's sum of the years of the
 judges, his twenty-three years are included; hence we are to confess,
 that somewhat has been here lost out of his copies.
 
-<span id="EndNote Ant 5.17b"></span>[(17)](#EndNote%20Ant%205.17a)
+<span id="EndNote Ant 5.17b"></span>[(17)](#EndNote%20Ant%205.17a.md)
 Josephus justly condemns Jephtha, as do the Apostolical Constitutions,
 B. VII. ch. 37., for his rash vow, whether it were for sacrificing his
 daughter, as Josephus thought, or for dedicating her, who was his only
@@ -2270,30 +2270,30 @@ been redeemed, Leviticus 27:1-8; but of the sense of ver. 28, 29, as
 relating not to things vowed to. God, but devoted to destruction, see
 the note on Antiq. B. V. ch. 1. sect. 8.
 
-<span id="EndNote Ant 5.18b"></span>[(18)](#EndNote%20Ant%205.18a) I can
+<span id="EndNote Ant 5.18b"></span>[(18)](#EndNote%20Ant%205.18a.md) I can
 discover no reason why Manoah and his wife came so constantly into these
 suburbs to pray for children, but because there was a synagogue or place
 of devotion in those suburbs.
 
-<span id="EndNote Ant 5.19b"></span>[(19)](#EndNote%20Ant%205.19a) Here,
+<span id="EndNote Ant 5.19b"></span>[(19)](#EndNote%20Ant%205.19a.md) Here,
 by a prophet, Josephus seems only to mean one that was born by a
 particular providence, lived after the manner of a Nazarite devoted to
 God, and was to have an extraordinary commission and strength from God
 for the judging and avenging his people Israel, without any proper
 prophetic revelations at all.
 
-<span id="EndNote Ant 5.20b"></span>[(20)](#EndNote%20Ant%205.20a) This
+<span id="EndNote Ant 5.20b"></span>[(20)](#EndNote%20Ant%205.20a.md) This
 fountain, called Lehi, or the Jaw-bone, is still in being, as travelers
 assure us, and was known by this very name in the days of Josephus, and
 has been known by the same name in all those past ages. See Antiq. B.
 VII. ch. 12. sect. 4.
 
-<span id="EndNote Ant 5.21b"></span>[(21)](#EndNote%20Ant%205.21a) See
+<span id="EndNote Ant 5.21b"></span>[(21)](#EndNote%20Ant%205.21a.md) See
 this justly observed in the Apostolical Constitutions, B. VII. ch. 37.,
 that Samson's prayer was heard, but that it was before this his
 transgression.
 
-<span id="EndNote Ant 5.22b"></span>[(22)](#EndNote%20Ant%205.22a)
+<span id="EndNote Ant 5.22b"></span>[(22)](#EndNote%20Ant%205.22a.md)
 Although there had been a few occasional prophets before, yet was this
 Samuel the first of a constant succession of prophets in the Jewish
 nation, as is implied in St. Peter's words, Acts 3:24 "Yea, and all the
@@ -2301,4 +2301,4 @@ prophets, from Samuel, and those that follow after, as many as have
 spoken, have likewise foretold of those days." See also Acts 13:20. The
 others were rather sometime called righteous men, Matthew 10:41; 13:17.
 
-[Bact To The Table Of Contents](index)
+[Bact To The Table Of Contents](index.md)

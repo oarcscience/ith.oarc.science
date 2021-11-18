@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow22)  [Next](fow24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow22)  [Next](fow24.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ the acts of sisters are the principal feature.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII: Brides and their Maids](fow24)
+[Next: Chapter XXII: Brides and their Maids](fow24.md)

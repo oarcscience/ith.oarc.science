@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate19)  [Next](gate21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate19)  [Next](gate21.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ radiance illumine the hidden habitation.' This door is shut after the
 great god hath passed through it, and there is lamentation to those who
 are in this gateway when they hear this door close upon them." As the
 hieroglyphic text is identical with that given above on [p.
-120](gate19.htm#page_120) it is not repeated here.
+120](gate19.htm#page_120.md) it is not repeated here.
 
 In the middle of this Division we see the boat of Ra being towed on its
 way by four gods of the Tuat; the god is in the same form as before, and
@@ -51,7 +51,7 @@ ENNUTCHI." In front of these are
  
 
 <span id="img_14100"></span> [![](tn/generic.jpg)  
-Click to view](img/14100.jpg)  
+Click to view](img/14100.jpg.md)  
 The Gate of the serpent Teka-hra.
 
  
@@ -66,7 +66,7 @@ texts read:--
  
 
 <span id="img_14200"></span> [![](tn/generic.jpg)  
-Click to view](img/14200.jpg)  
+Click to view](img/14200.jpg.md)  
 The Boat of Ra being towed by the Gods of the Fifth Division of the
 Tuat.
 
@@ -86,7 +86,7 @@ hidden things."'
  
 
 <span id="img_14400"></span> [![](tn/generic.jpg)  
-Click to view](img/14400.jpg)  
+Click to view](img/14400.jpg.md)  
 The Nine Gods who hold Ennutchi.
 
  
@@ -114,7 +114,7 @@ have magnified the forms of the god, Ra saith:--'Praises shall be
  
 
 <span id="img_14500"></span> [![](tn/generic.jpg)  
-Click to view](img/14500.jpg)  
+Click to view](img/14500.jpg.md)  
 (*far Left*) Heri-qenbet-f. (*Right*) The souls of men who are in the
 Tuat.
 
@@ -150,7 +150,7 @@ sceptre in the left.
  
 
 <span id="img_14800"></span> [![](tn/generic.jpg)  
-Click to view](img/14800.jpg)  
+Click to view](img/14800.jpg.md)  
 The Twelve Gods who make adoration in the Tuat.
 
  
@@ -174,7 +174,7 @@ the bread-cakes
  
 
 <span id="img_14900"></span> [![](tn/generic.jpg)  
-Click to view](img/14900.jpg)  
+Click to view](img/14900.jpg.md)  
 The Twelve Gods who hold the cord for measuring land.
 
  
@@ -207,7 +207,7 @@ you."
  
 
 <span id="img_15000"></span> [![](tn/generic.jpg)  
-Click to view](img/15000.jpg)  
+Click to view](img/15000.jpg.md)  
 The Four Henbi Gods.
 
  
@@ -246,12 +246,12 @@ these groups reads:--
  
 
 <span id="img_15300"></span> [![](tn/generic.jpg)  
-Click to view](img/15300.jpg)  
+Click to view](img/15300.jpg.md)  
 The Aamu, i.e., Asiatics.     The Reth, i.e., Egyptians.     (far right)
 Horus.
 
 <span id="img_15301"></span> [![](tn/generic.jpg)  
-Click to view](img/15301.jpg)  
+Click to view](img/15301.jpg.md)  
 The Themehu, i.e., Libyans.     The Nehesu, i.e., Negroes.
 
  
@@ -267,7 +267,7 @@ side of the Black Land formed of the mud of the Nile):--"Magical
 protection be unto you, O ye creatures of Ra, who have come into being
 from the Great One who is at the head of heaven! Let there be breath to
 your nostrils, and let your linen swathings be unloosed! Ye are the
-tears <span id="fr_11"></span>[1](#fn_11) of the eye of my splendour in
+tears <span id="fr_11"></span>[1](#fn_11.md) of the eye of my splendour in
 your name of RETH (i.e., men). Mighty of issue (AA-MU) ye have come into
 being in your name of AAMU; Sekhet hath created them, and it is she who
 delivereth (or, avengeth) their souls. I masturbated \[to produce you\],
@@ -289,7 +289,7 @@ Those who make firm (or, permanent) the duration
  
 
 <span id="img_15500"></span> [![](tn/generic.jpg)  
-Click to view](img/15500.jpg)  
+Click to view](img/15500.jpg.md)  
 The Twelve Gods of Life in Ament.
 
  
@@ -315,7 +315,7 @@ They shall have their offerings
  
 
 <span id="img_15600"></span> [![](tn/generic.jpg)  
-Click to view](img/15600.jpg)  
+Click to view](img/15600.jpg.md)  
 The Eight sovereign Chiefs in the Tuat.
 
  
@@ -335,18 +335,18 @@ and that I may shoot forth evils against my enemies. Their food is
 bread, and their drink is the *tchesert* wine, and they have cool water
 wherewith to refresh (or, bathe) themselves. \[Offerings are made to
 them upon earth. One doth not enter into the place of
-destruction.\] <span id="fr_12"></span>[1](#fn_12)
+destruction.\] <span id="fr_12"></span>[1](#fn_12.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_11"></span>[154:1](gate20.htm#fr_11) Or, the weeping.
+<span id="fn_11"></span>[154:1](gate20.htm#fr_11.md) Or, the weeping.
 
-<span id="fn_12"></span>[157:1](gate20.htm#fr_12) Supplied from
+<span id="fn_12"></span>[157:1](gate20.htm#fr_12.md) Supplied from
 Champollion, *Notices*, p. 772.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. The Judgment Hall of Osiris. The Sixth Division of
-the Tuat.](gate21)
+the Tuat.](gate21.md)

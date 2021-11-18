@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp56)  [Next](prp58) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp56)  [Next](prp58.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ To take a man's full sum, and not pay Use!\]
 
 ------------------------------------------------------------------------
 
-[Next: 58. Whatever thief shall trick my faith may he](prp58)
+[Next: 58. Whatever thief shall trick my faith may he](prp58.md)

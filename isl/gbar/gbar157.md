@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar156) [Next](gbar158)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar156) [Next](gbar158.md)
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ the clean among Israel.
 
 ------------------------------------------------------------------------
 
-[Next](gbar158)
+[Next](gbar158.md)

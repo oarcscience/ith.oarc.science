@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi101)  [Next](mtsi103) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi101)  [Next](mtsi103.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ This is how it is told.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Hunter And His Dogs (Second Version)](mtsi103)
+[Next: 10. The Hunter And His Dogs (Second Version)](mtsi103.md)

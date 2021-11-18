@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe334)  [Next](prwe336) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe334)  [Next](prwe336.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ always *geese* or *guise* dancing.
 
 ------------------------------------------------------------------------
 
-[Next: Wayland Smith](prwe336)
+[Next: Wayland Smith](prwe336.md)

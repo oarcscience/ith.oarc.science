@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm03)  [Next](bcm05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm03)  [Next](bcm05.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_xxx">p. xxx</span>
 
 <span id="img_xxx00"></span> [![](tn/generic.jpg)  
-Click to view](img/xxx00.jpg)  
+Click to view](img/xxx00.jpg.md)  
 THE TEMPTATION OF EVIL  
 From Cædmon.
 
@@ -487,4 +487,4 @@ themselves as to the tradition therein and its value.
 
 ------------------------------------------------------------------------
 
-[Next: Section 1. The Importance of Ceremonial Magic](bcm05)
+[Next: Section 1. The Importance of Ceremonial Magic](bcm05.md)

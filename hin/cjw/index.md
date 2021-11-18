@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,38 +13,38 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](cjw00)  
-[Cover material](cjw01)  
-[Preface](cjw02)  
-[Table of Contents](cjw03)  
+[Title Page](cjw00.md)  
+[Cover material](cjw01.md)  
+[Preface](cjw02.md)  
+[Table of Contents](cjw03.md)  
 <span id="section_000"></span>
 
 ### INTRODUCTORY
 
-[Śankara, the Teacher](cjw04)  
+[Śankara, the Teacher](cjw04.md)  
 <span id="section_001"></span>
 
 ### The Crest-Jewel of Wisdom
 
-[First Steps on the Path](cjw05)  
-[Self, Potencies, Vestures](cjw06)  
-[The Witness](cjw07)  
-[Finding the Real Self](cjw08)  
-[The Power of Mind-Images](cjw09)  
-[Free Even in Life](cjw10)  
-[The Three Kinds of Works](cjw11)  
-[Master and Pupil](cjw12)  
-[The Perfect Sage](cjw13)  
-[For Ever Free](cjw14)  
+[First Steps on the Path](cjw05.md)  
+[Self, Potencies, Vestures](cjw06.md)  
+[The Witness](cjw07.md)  
+[Finding the Real Self](cjw08.md)  
+[The Power of Mind-Images](cjw09.md)  
+[Free Even in Life](cjw10.md)  
+[The Three Kinds of Works](cjw11.md)  
+[Master and Pupil](cjw12.md)  
+[The Perfect Sage](cjw13.md)  
+[For Ever Free](cjw14.md)  
 <span id="section_002"></span>
 
 ### Other Writings
 
-[The Heritage of the Brâhmans](cjw15)  
-[The Awakening to the Self](cjw16)  
-[The Awakening to Reality](cjw17)  
-[Śankara's Catechism](cjw18)  
-[The Essence of the Teaching](cjw19)  
-[The Teachings of Śankara](cjw20)  
-[The Song of the Self](cjw21)  
-[Appendix: A Symposium on the Life of Śankarâchârya](cjw22)  
+[The Heritage of the Brâhmans](cjw15.md)  
+[The Awakening to the Self](cjw16.md)  
+[The Awakening to Reality](cjw17.md)  
+[Śankara's Catechism](cjw18.md)  
+[The Essence of the Teaching](cjw19.md)  
+[The Teachings of Śankara](cjw20.md)  
+[The Song of the Self](cjw21.md)  
+[Appendix: A Symposium on the Life of Śankarâchârya](cjw22.md)  

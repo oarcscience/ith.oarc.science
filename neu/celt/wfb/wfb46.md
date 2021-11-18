@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb45)  [Next](wfb47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb45)  [Next](wfb47.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ that he should be buried in the beggar-man's grave.
 
 ------------------------------------------------------------------------
 
-[Next: St. Beuno and the Curlew](wfb47)
+[Next: St. Beuno and the Curlew](wfb47.md)

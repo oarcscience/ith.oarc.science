@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb23)  [Next](refb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb23)  [Next](refb25.md) 
 
 </div>
 
@@ -705,6 +705,6 @@ happily ever after.\[18\]
 
 ------------------------------------------------------------------------
 
-[Next: The Three Dwarfs](refb25)
+[Next: The Three Dwarfs](refb25.md)
 
 </div>

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa22)  [Next](taa24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa22)  [Next](taa24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -83,7 +83,7 @@ us without a tongue,
 22\. You would have seen a state in which the understanding
 disappears—Yemen and ‘Iráq embracing together.
 
-23\. Falsely spoke the poet <span id="fr_23"></span>[1](#fn_23) who said
+23\. Falsely spoke the poet <span id="fr_23"></span>[1](#fn_23.md) who said
 before my time (and he has pelted me with the stones of his
 understanding),
 
@@ -220,13 +220,13 @@ enter into Creation.
 
 ### Footnotes
 
-<span id="fn_23"></span>[87:1](taa23.htm#fr_23) ‘Umar b. Abí Rabí‘a, ed.
+<span id="fn_23"></span>[87:1](taa23.htm#fr_23.md) ‘Umar b. Abí Rabí‘a, ed.
 by Schwarz, vol. ii, p. 247, No. 439.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXI](taa24)
+[Next: XXI](taa24.md)
 
 </div>

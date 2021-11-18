@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv12)  [Next](ogv14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv12)  [Next](ogv14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@ Intangible Textual Heritage
 #### 2. Render to the Immortal Gods the consecrated cult; Guard then thy faith:
 
 Pythagoras, of whom a modern savant, otherwise most estimable, has
-rather [thoughtlessly](errata.htm#1) reproached with being a fanatical
-and superstitious man, <span id="fr_238"></span>[a](#fn_237) begins his
+rather [thoughtlessly](errata.htm#1.md) reproached with being a fanatical
+and superstitious man, <span id="fr_238"></span>[a](#fn_237.md) begins his
 teaching, nevertheless, by laying down a principle of universal
 tolerance. He commands his disciples to follow the cult established by
 the laws, whatever this cult may be, and to adore the gods of their
@@ -74,35 +74,35 @@ universality. The Indian Brahmans, who can be considered as the living
 types of all the sages and of all the pontiffs of the world, never
 permit themselves, even in this day when their great age has effaced the
 traces of their ancient science, to utter the name of God, principle of
-All. <span id="fr_239"></span>[a](#fn_238) They are content to meditate
+All. <span id="fr_239"></span>[a](#fn_238.md) They are content to meditate
 upon its essence in silence and to offer sacrifices to its sublimest
 emanations. The Chinese sages act the same with regard to the Primal
 Cause, that must be neither named nor defined <span
-id="fr_240"></span>[b](#fn_239); the followers of Zoroaster, who believe
+id="fr_240"></span>[b](#fn_239.md); the followers of Zoroaster, who believe
 that the two universal
 
 <span id="page_130">p. 130</span>
 
 principles of good and evil, Ormuzd and Ahriman, emanate from this
 ineffable Cause, are content to designate it under the name of
-Eternity. <span id="fr_241"></span>[a](#fn_240) The Egyptians, so
+Eternity. <span id="fr_241"></span>[a](#fn_240.md) The Egyptians, so
 celebrated for their wisdom, the extent of their learning, and the
 multitude of their divine symbols, honoured with silence the God,
 principle and source of all things <span
-id="fr_242"></span>[b](#fn_241); they never spoke of it, regarding it as
+id="fr_242"></span>[b](#fn_241.md); they never spoke of it, regarding it as
 inaccessible to all the researches of man; and Orpheus, their disciple,
 first author of the brilliant mythology of the Greeks, Orpheus, who
 seemed to announce the soul of the World as creator of this same God
 from which it emanated, said plainly:
 
 "I never see this Being surrounded with a cloud." <span
-id="fr_243"></span>[c](#fn_242)
+id="fr_243"></span>[c](#fn_242.md)
 
 Moses, as I have said, was the first who made a public dogma of the
 unity of God, and who divulged what, up to that time had been buried in
 the seclusion of the sanctuaries; for the principal tenets of the
 mysteries, those upon which reposed all others, were the Unity of God
-and the homogeneity of Nature. <span id="fr_244"></span>[d](#fn_243) It
+and the homogeneity of Nature. <span id="fr_244"></span>[d](#fn_243.md) It
 is true that Moses, in making this disclosure, permitted no definition,
 no reflection, either upon the essence or upon the nature of this unique
 Being; this is very remarkable. Before him, in all the known world, and
@@ -138,11 +138,11 @@ most ordinary man of letters does not fall into this error. He knows,
 with Plutarch, that different places and names do not make different
 gods; that the Greeks and Barbarians, the nations of the North and those
 of the South, adore the same Divinity <span
-id="fr_245"></span>[a](#fn_244); he restores easily that infinity of
+id="fr_245"></span>[a](#fn_244.md); he restores easily that infinity of
 attributes to the unity of the essence, and as the honoured remnants of
 the ancient Sramanas, the priests of the Burmans, still do today, he
 worships God, whatever may be the altar, the temple, and the place where
-he finds himself! <span id="fr_246"></span>[b](#fn_245)
+he finds himself! <span id="fr_246"></span>[b](#fn_245.md)
 
 <span id="page_132">p. 132</span>
 
@@ -158,35 +158,35 @@ back secretly to the Unity which was the object of their faith.
 
 ### Footnotes
 
-<span id="fn_237"></span>[128:a](ogv13.htm#fr_238) Bacon, *Novum
+<span id="fn_237"></span>[128:a](ogv13.htm#fr_238.md) Bacon, *Novum
 Organum*, *Aph*., 65 et 71.
 
-<span id="fn_238"></span>[129:a](ogv13.htm#fr_239) *Asiat. Res.*, t.
+<span id="fn_238"></span>[129:a](ogv13.htm#fr_239.md) *Asiat. Res.*, t.
 iii., p. 371 à 374.
 
-<span id="fn_239"></span>[129:b](ogv13.htm#fr_240) *Mém. concern. les
+<span id="fn_239"></span>[129:b](ogv13.htm#fr_240.md) *Mém. concern. les
 Chin.*, t. ii., p. 26.
 
-<span id="fn_240"></span>[130:a](ogv13.htm#fr_241) *Eulma Esclam*. *Note
+<span id="fn_240"></span>[130:a](ogv13.htm#fr_241.md) *Eulma Esclam*. *Note
 du Boun-Dehesh*, p. 344.
 
-<span id="fn_241"></span>[130:b](ogv13.htm#fr_242) Porphyr., *De Antr.
+<span id="fn_241"></span>[130:b](ogv13.htm#fr_242.md) Porphyr., *De Antr.
 Nymph.*, p. 126.
 
-<span id="fn_242"></span>[130:c](ogv13.htm#fr_243) Αὐτόν δ᾽εκ ὁράω περὶ
+<span id="fn_242"></span>[130:c](ogv13.htm#fr_243.md) Αὐτόν δ᾽εκ ὁράω περὶ
 γὰρ νέφος ἐσήρικται. *Voyez* Dacier, dans ses *Remarques sur les
 Comment. d’Hiérocl.*
 
-<span id="fn_243"></span>[130:d](ogv13.htm#fr_244) *Vitâ Pythagor.*;
+<span id="fn_243"></span>[130:d](ogv13.htm#fr_244.md) *Vitâ Pythagor.*;
 Phot., *Cod.*, 259; Macrob., *Somn. Scip.*, l. i., c. 6, l. ii., c 12;
 August., *De Civit. Dei*, l. iv., c. 9 et 11; Euseb., *Præp. Evang.*, l.
 iii., c. 9; Lactant., *De Fals. Relig.*, l. i., c. 6 et 7; Plot.,
 Ennead., iii., l. ii.
 
-<span id="fn_244"></span>[131:a](ogv13.htm#fr_245) Plutar., *De Isid. et
+<span id="fn_244"></span>[131:a](ogv13.htm#fr_245.md) Plutar., *De Isid. et
 Osirid.*, p. 377.
 
-<span id="fn_245"></span>[131:b](ogv13.htm#fr_246) The priests of the
+<span id="fn_245"></span>[131:b](ogv13.htm#fr_246.md) The priests of the
 Burmans, called *Rahans*, but whose generic name is that of *Sramana*,
 whence came to them that of Sramaneras, which the ancients gave them,
 carry the spirit of tolerance as far as possible. They visit with the
@@ -208,4 +208,4 @@ of his labours." (*Lect*. iv.)
 ------------------------------------------------------------------------
 
 [Next: 3. Revere the Memory of the Illustrious Heroes, of Spirits
-Demi-Gods](ogv14)
+Demi-Gods](ogv14.md)

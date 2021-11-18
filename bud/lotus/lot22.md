@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot21)  [Next](lot23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot21)  [Next](lot23.md) 
 
 ------------------------------------------------------------------------
 
@@ -375,4 +375,4 @@ qualities and properties.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 23](lot23)
+[Next: Chapter 23](lot23.md)

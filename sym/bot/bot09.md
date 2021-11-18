@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot08) 
-[Next](bot10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot08.md) 
+[Next](bot10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -180,13 +180,13 @@ Certain Amulets not only were worn during life, but were even attached
 to the dead body. They are described in the following notes:
 
 <span class="smallcaps">The Crux Ansata</span>, or Ankh (see
-Illustrations Nos. 47, 48, 49, [Plate IV](#img_pl04)), was known as the
+Illustrations Nos. 47, 48, 49, [Plate IV](#img_pl04).md), was known as the
 symbol of life, the loop at the top of the Cross consisting of the
 hieroglyphic Ru (O) set in an
 
 <span id="img_pl04"></span> <span align="CENTER"> [![PLATE 4. EGYPTIAN
 TALISMANS.](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE 4. EGYPTIAN TALISMANS.  
 </span>
 
@@ -208,7 +208,7 @@ symbol of Venus originated, the Circle over the Cross being the triumph
 of Spirit, represented by the Circle, over matter, shown by the Cross.
 
 <span class="smallcaps">The Menat</span> (Illustrations Nos. 50, 53,
-[Plate IV](#img_pl04)) were specially dedicated to Hathor, who was a
+[Plate IV](#img_pl04).md) were specially dedicated to Hathor, who was a
 type of Isis, and was worn for conjugal happiness, as it gave power and
 strength to the organs of reproduction, promoting health and
 fruitfulness. It frequently formed a part of a necklace, and was
@@ -221,23 +221,23 @@ were the attributes of the goddess, who stood for all that is good and
 true in Wife, Mother, and Daughter.
 
 <span class="smallcaps">The Two Plumes</span> (Illustration No. 51,
-[Plate IV](#img_pl04)) are Sun Amulets and the symbols of Ra and Thoth,
+[Plate IV](#img_pl04).md) are Sun Amulets and the symbols of Ra and Thoth,
 the two feathers being typical of the two lives, spiritual and material.
 This was worn to promote Uprightness in dealing, Enlightenment, and
 Morality, being symbolical of the great gods of Light and Air.
 
 <span class="smallcaps">The Single Plume</span> (Illustration No. 52,
-[Plate IV](#img_pl04)) was an emblem of Maat, the female counterpart of
+[Plate IV](#img_pl04).md) was an emblem of Maat, the female counterpart of
 Thoth, who wears on her head the feather characteristic of the phonetic
 value of her name; she was the personification of Integrity,
 Righteousness, and Truth. Illustrations Nos. 54, 55, 56, [Plate
-IV](#img_pl04), show three forms of
+IV](#img_pl04.md), show three forms of
 
 <span class="smallcaps">The Nefer</span>, a symbol of Good Luck, worn to
 attract Success, Happiness, Vitality, and Friends.
 
 <span class="smallcaps">The Cartouche</span>, or Name Amulet
-(Illustration No. 61, [Plate IV](#img_pl04)), was worn to secure Favour,
+(Illustration No. 61, [Plate IV](#img_pl04).md), was worn to secure Favour,
 Recognition, and Remembrance, and to prevent the name of its wearer
 being blotted out in the next world. This is a very important Amulet, as
 the name was believed to be an integral part of the man, without which
@@ -254,11 +254,11 @@ The Amulets of
 
 <span class="contnote">\[paragraph continues\]</span> <span
 class="smallcaps">The Angles</span> (see Illustrations Nos. 58, 59,
-[Plate IV](#img_pl04)) and
+[Plate IV](#img_pl04).md) and
 
 <span class="contnote">\[paragraph continues\]</span> <span
 class="smallcaps">The Plummet</span> (No. 60 on the [same
-Plate](#img_pl04)) were symbols of the god Thoth, and were worn for
+Plate](#img_pl04).md) were symbols of the god Thoth, and were worn for
 Moral Integrity, Wisdom, Knowledge, Order, and Truth.
 
 Thoth was the personification of Law and Order, being the god who worked
@@ -267,14 +267,14 @@ power and the secrets of all hearts, and may be regarded as the chief
 recording angel; he was also the inventor of all arts and sciences.
 
 <span class="smallcaps">Bes</span>, shown in Illustration No. 57, [Plate
-IV](#img_pl04), was a very popular Talisman, being the god of Laughter,
+IV](#img_pl04.md), was a very popular Talisman, being the god of Laughter,
 Merry-making, and Good Luck; by some authorities he is considered to be
 a foreign importation from pre-dynastic times, and he has been
 identified with Horus and regarded as the god who renewed youth. He was
 also the patron of beauty, the protector of children, and was
 undoubtedly the progenitor of the modern Billiken.
 
-Illustrations Nos. 62, 66, [Plate V](bot10.htm#img_pl05), are examples
+Illustrations Nos. 62, 66, [Plate V](bot10.htm#img_pl05.md), are examples
 of
 
 <span id="page_64">p. 64</span>
@@ -283,7 +283,7 @@ of
 was worn for Steadfastness, Stability, and Alertness.
 
 <span class="smallcaps">The Tat</span> (Illustrations Nos. 63, 64, 65,
-[Plate V](bot10.htm#img_pl05)) held a very important place in the
+[Plate V](bot10.htm#img_pl05).md) held a very important place in the
 religious services of the Egyptians, and formed the centre of the annual
 ceremony of the setting-up of the Tat, a service held to commemorate the
 death and resurrection of Osiris, this symbol representing the
@@ -293,7 +293,7 @@ whose sufferings and death they hoped to rise glorified and immortal,
 and secure Everlasting Happiness. The four cross-bars symbolise the four
 cardinal points, and the four elements of Earth, Air, Fire, and Water,
 and were often very elaborately ornamented (see Illustration No. 64,
-[Plate V](bot10.htm#img_pl05), taken from an example at the British
+[Plate V](bot10.htm#img_pl05.md), taken from an example at the British
 Museum). It was worn as a Talisman for Stability and Strength, and for
 Protection from enemies; also that all doors, (or opportunities,) might
 be open both in this life and the next. Moreover, a Tat of gold set in
@@ -308,7 +308,7 @@ his foes, that he might become perfect for ever and ever.
 
 <span class="smallcaps">The Heart</span> was believed to be the seat of
 the Soul, and Illustrations Nos. 67, 68, 69, [Plate
-V](bot10.htm#img_pl05), are examples of these Talismans worn to prevent
+V](bot10.htm#img_pl05.md), are examples of these Talismans worn to prevent
 black magicians from bewitching the Soul out of the body. The importance
 of these charms will be realised from the belief that if the Soul left
 the Heart, the Body would quickly fade away and die. According to
@@ -321,6 +321,6 @@ limbs and everlasting felicity in his soul.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](bot10)
+[Next: Chapter VII](bot10.md)
 
 </div>

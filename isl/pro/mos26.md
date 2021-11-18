@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos25)  [Next](mos27) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos25)  [Next](mos27.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ Al-Jazâ'iri, may mercy of God fall upon him.
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Moses and Aaron (PUT)](mos27)
+[Next: The Death of Moses and Aaron (PUT)](mos27.md)

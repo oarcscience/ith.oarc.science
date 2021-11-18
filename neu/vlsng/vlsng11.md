@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng10)  [Next](vlsng12) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng10)  [Next](vlsng12.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,4 +156,4 @@ Odin sent to choose those for death in battle who were to join the
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: The ending of Sinfjatli, Sigmund's Son.](vlsng12)
+[Next: Chapter X: The ending of Sinfjatli, Sigmund's Son.](vlsng12.md)

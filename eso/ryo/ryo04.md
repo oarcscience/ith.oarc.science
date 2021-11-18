@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo03) 
-[Next](ryo05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo03.md) 
+[Next](ryo05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Raja Yoga*, by Yogi Ramacharaka (William Walker Atkinson), \[1906\], at
 Intangible Textual Heritage
 
@@ -689,8 +689,8 @@ self; my only self; my real self—"I." That which remains after all that
 may be set aside is set aside is the "I''—Myself—eternal, constant,
 unchangeable.
 
-<span id="img_04600"></span> ![I am](img/04600.jpg)
+<span id="img_04600"></span> ![I am](img/04600.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Lesson III. The Expansion of the Self](ryo05)
+[Next: Lesson III. The Expansion of the Self](ryo05.md)

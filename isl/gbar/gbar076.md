@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar075) [Next](gbar077)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar075) [Next](gbar077.md)
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ for prayers of his friends.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar077)
+[Next](gbar077.md)

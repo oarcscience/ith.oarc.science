@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](botd15)  [Next](botd17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](botd15)  [Next](botd17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434485382/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Brother of the Third Degree*, by Will L. Garver, \[1894\], at
 Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ When I awoke in the morning the sun was streaming through a large window
 across the room. Much refreshed I arose, and found myself in a
 luxuriously furnished private apartment. On a chair at my bedside was a
 suit of dark blue, broadcloth clothes, and lying upon them [a
-note](errata.htm#5), which read as follows:
+note](errata.htm#5.md), which read as follows:
 
 <span class="small">"When ready for breakfast push the button twice;
 dress like a gentleman of the world.—<span
@@ -705,4 +705,4 @@ golden hair, passed through the entrance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. St. Germain.—War](botd17)
+[Next: Chapter XVI. St. Germain.—War](botd17.md)

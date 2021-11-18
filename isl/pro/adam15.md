@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam14)  [Next](enoc00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam14)  [Next](enoc00.md) 
 
 ------------------------------------------------------------------------
 
@@ -263,4 +263,4 @@ mates, and thanks to God the Lord of all.
 
 ------------------------------------------------------------------------
 
-[Next: Conditions of Enoch the Prophet PUH](enoc00)
+[Next: Conditions of Enoch the Prophet PUH](enoc00.md)

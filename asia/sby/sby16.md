@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby15)  [Next](sby17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby15)  [Next](sby17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ ARTICLE V
 
 According to our religion it is something intolerable when the Moslem in
 the morning begins to say in prayer, God forbid! "I take refuge in God,
-etc." <span id="fr_67"></span>[38](#fn_66) If any one of us hear it, he
+etc." <span id="fr_67"></span>[38](#fn_66.md) If any one of us hear it, he
 must kill the one who says it and kill himself; otherwise he becomes an
 infidel.
 
@@ -109,7 +109,7 @@ ARTICLE X
 
 Regarding our dress, as we have mentioned in the fourth Article that
 every one of our sect has a brother for the next world, he has also a
-sister for the next world. <span id="fr_68"></span>[39](#fn_67)
+sister for the next world. <span id="fr_68"></span>[39](#fn_67.md)
 Therefore if any one of us make for himself a new shirt, it is necessary
 that his sister for the next
 
@@ -141,14 +141,14 @@ ARTICLE XIII
 No Yezidi may enter the water-closet of a Moslem, or take a bath at a
 Moslem's house, or eat with a Moslem spoon or drink from a Moslem's cup,
 from a cup used by any one of another sect. If he does, he is an
-infidel. <span id="fr_69"></span>[40](#fn_68)
+infidel. <span id="fr_69"></span>[40](#fn_68.md)
 
 ARTICLE XIV
 
 Concerning food, there is a great difference between us and the other
 sects. We do not eat meat or fish, squash, *bamia* (okra), *fasulia*
 (beans), cabbage, or lettuce. We cannot even dwell in the place where
-lettuce is sown. <span id="fr_70"></span>[41](#fn_69)
+lettuce is sown. <span id="fr_70"></span>[41](#fn_69.md)
 
 <span id="page_81">p. 81</span>
 
@@ -196,20 +196,20 @@ Christians.
 
 ### Footnotes
 
-<span id="fn_66"></span>[78:38](sby16.htm#fr_67) The Moslem begins his
+<span id="fn_66"></span>[78:38](sby16.htm#fr_67.md) The Moslem begins his
 prayer by cursing the devil.
 
-<span id="fn_67"></span>[79:39](sby16.htm#fr_68) That is a person of the
+<span id="fn_67"></span>[79:39](sby16.htm#fr_68.md) That is a person of the
 same faith, a Yezidi.
 
-<span id="fn_68"></span>[80:40](sby16.htm#fr_69) A Nuṣairi, on the
+<span id="fn_68"></span>[80:40](sby16.htm#fr_69.md) A Nuṣairi, on the
 contrary, may become a Mohammedan with a Mohammedan, a Christian with a
 Christian, and a Jew with a Jew; cf. *JAOS*, VII, 298.
 
-<span id="fn_69"></span>[80:41](sby16.htm#fr_70) The Sabians did not eat
+<span id="fn_69"></span>[80:41](sby16.htm#fr_70.md) The Sabians did not eat
 purslane, garlic, beans, cauliflower, cabbage, and lentis; cf. Bar.
 Hebraeus, At-Târlîḫ, ed. A. Ṣalḥani, Beirut, 1890, 266.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on Part I](sby17)
+[Next: Notes on Part I](sby17.md)

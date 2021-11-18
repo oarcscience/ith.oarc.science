@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt04)  [Next](ebt06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt04)  [Next](ebt06.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ Sighting points were used for commerce and for assemblies of the people.
 <span id="img_pl03"></span>
 
 [![PLATE III. MOUND AND MOAT.](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 PLATE III. MOUND AND MOAT.  
 
 <table>
@@ -116,7 +116,7 @@ PLATE III. MOUND AND MOAT.
 <span id="img_pl04"></span>
 
 [![PLATE IV. THREE POINT PROOFS.](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE IV. THREE POINT PROOFS.  
 
 <table>
@@ -162,4 +162,4 @@ Hundreds of place names give support to these propositions.
 
 ------------------------------------------------------------------------
 
-[Next: Proof](ebt06)
+[Next: Proof](ebt06.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale14)  [Next](tale16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale14)  [Next](tale16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ happy as his
 <span id="img_12300"></span>
 
 [![HINDBAD CURSES HIS FATE](tn/12300.jpg)  
-Click to enlarge](img/12300.jpg)  
+Click to enlarge](img/12300.jpg.md)  
 HINDBAD CURSES HIS FATE  
 
 own was miserable. Casting his eyes up to the sky he exclaimed aloud,
@@ -131,4 +131,4 @@ listen to the story.
 
 ------------------------------------------------------------------------
 
-[Next: First Voyage](tale16)
+[Next: First Voyage](tale16.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal027)  [Next](njal029) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal027)  [Next](njal029.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ one comes to after doubling the North Cape.
 
 ------------------------------------------------------------------------
 
-[Next: 29. Gunnar Goes Abroad](njal029)
+[Next: 29. Gunnar Goes Abroad](njal029.md)

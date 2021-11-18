@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca44)  [Next](fsca46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca44)  [Next](fsca46.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ at Intangible Textual Heritage
 <span id="page_190">p. 190</span>
 
 <span id="img_19000"></span> ![An Heraldic Tigre
-passant.](img/19000.jpg)
+passant.](img/19000.jpg.md)
 
 ### The Heraldic Tigre or Tyger
 
@@ -64,7 +64,7 @@ id="img_19100"></span>
 
 |                                                                     |
 |---------------------------------------------------------------------|
-| ![Supporter, an Heraldic Tigre, collared and lined.](img/19100.jpg) |
+| ![Supporter, an Heraldic Tigre, collared and lined.](img/19100.jpg.md) |
 
 and most swift in flight as it were an arrow. For the Persians call an
 arrow tygris. He is distinguished with diverse speckes; and of him the
@@ -109,7 +109,7 @@ her shape in the glasse
 <span id="page_193">p. 193</span>
 
 she thinketh she seeth one of her young ones; and so they escape the
-swiftness of her pursuit." <span id="fr_20"></span>[\*](#fn_20)
+swiftness of her pursuit." <span id="fr_20"></span>[\*](#fn_20.md)
 
 "*Argent, a tigre passant regardant looking into a mirror lying
 fessways, the handle to the dexter all proper*,"<span
@@ -117,7 +117,7 @@ id="img_19300"></span>
 
 |                                     |
 |-------------------------------------|
-| ![Tigre and Mirror.](img/19300.jpg) |
+| ![Tigre and Mirror.](img/19300.jpg.md) |
 
 is said to have been the coat of Hadrian de Bardis (probably an
 Italian), Prebendary of Oxfordshire. These arms still remain, or were
@@ -130,10 +130,10 @@ occur, viz.:
 
 ### Footnotes
 
-<span id="fn_20"></span>[193:\*](fsca45.htm#fr_20) Guillam's "Display of
+<span id="fn_20"></span>[193:\*](fsca45.htm#fr_20.md) Guillam's "Display of
 Heraldry." The same is also related in the Latin "Bestiarium," Harl.
 MSS. 4751; and by Albertus Magnus, Camerarius, &c.
 
 ------------------------------------------------------------------------
 
-[Next: The Royal Tiger](fsca46)
+[Next: The Royal Tiger](fsca46.md)

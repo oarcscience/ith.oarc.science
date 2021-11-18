@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei23)  [Next](jei25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei23)  [Next](jei25.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ we do not take precautions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. How Our Theory Has Been Received](jei25)
+[Next: Chapter XXII. How Our Theory Has Been Received](jei25.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki227)  [Next](liki229) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki227)  [Next](liki229.md) 
 
 ------------------------------------------------------------------------
 
@@ -982,6 +982,6 @@ Have neither sound nor odour,"
 
 ------------------------------------------------------------------------
 
-[Next: XXIX. Piâo Kî or The Record on Example](liki229)
+[Next: XXIX. Piâo Kî or The Record on Example](liki229.md)
 
   

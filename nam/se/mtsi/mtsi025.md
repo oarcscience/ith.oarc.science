@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi024)  [Next](mtsi026) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi024)  [Next](mtsi026.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ tie-snake.
 
 ------------------------------------------------------------------------
 
-[Next: 24. The Man Who Became A Snake (Second Version)](mtsi026)
+[Next: 24. The Man Who Became A Snake (Second Version)](mtsi026.md)

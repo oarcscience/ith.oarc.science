@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft38)  [Next](pft40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft38)  [Next](pft40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -58,8 +58,8 @@ die the boy crawled out to the field to see if there was one living
 thing, and to his surprise he found a stalk of sugar-cane growing
 lustily. He eagerly cut it, and enough water came out to refresh him and
 his sister until the rains came. Because of this, their children are
-called Bagobo.  <span id="fr_123"></span>[124](pft68.htm#fn_123)
+called Bagobo.  <span id="fr_123"></span>[124](pft68.htm#fn_123.md)
 
 ------------------------------------------------------------------------
 
-[Next: Lumabet](pft40)
+[Next: Lumabet](pft40.md)

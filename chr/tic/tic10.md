@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic09)  [Next](tic11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic09)  [Next](tic11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -34,19 +34,19 @@ distractions. 12. They should be disregarded. 13. Self-knowledge
 necessary*.
 
 1\. Now that I commence writing about the fourth mansions, it is
-requisite, as I said, <span id="fr_106"></span>[1](#fn_106) to commend
+requisite, as I said, <span id="fr_106"></span>[1](#fn_106.md) to commend
 myself to the Holy Ghost and to beg Him henceforth to speak for me, that
 I may be enabled to treat these matters intelligibly. Henceforth they
 begin to be supernatural and it will be most difficult to speak clearly
-about them, <span id="fr_107"></span>[2](#fn_107) unless His Majesty
+about them, <span id="fr_107"></span>[2](#fn_107.md) unless His Majesty
 
 <span id="page_89">p. 89</span>
 
 undertakes it for me, as He did when I explained the subject (as far as
 I understood it) somewhat about fourteen years ago. <span
-id="fr_108"></span>[3](#fn_108) I believe I now possess more light about
+id="fr_108"></span>[3](#fn_108.md) I believe I now possess more light about
 the favours God grants some souls, but that is different from being able
-to elucidate them. <span id="fr_109"></span>[4](#fn_109) May His Majesty
+to elucidate them. <span id="fr_109"></span>[4](#fn_109.md) May His Majesty
 enable me to do so if it would be useful, but not otherwise.
 
 2\. As these mansions are nearer the King's dwelling they are very
@@ -63,9 +63,9 @@ there is no fixed rule, for God gives when,
 
 <span id="page_90">p. 90</span>
 
-how, and to whom He wills <span id="fr_110"></span>[5](#fn_110)--the
+how, and to whom He wills <span id="fr_110"></span>[5](#fn_110.md)--the
 goods are His own, and His choice wrongs no one. <span
-id="fr_111"></span>[6](#fn_111) The poisonous reptiles rarely come into
+id="fr_111"></span>[6](#fn_111.md) The poisonous reptiles rarely come into
 these rooms, and, if they enter, do more good than harm. I think it is
 far better for them to get in and make war on the soul in this state of
 prayer; were it not tempted, the devil might sometimes deceive it about
@@ -79,7 +79,7 @@ us, to the same extent, during our earthly exile.
 4\. I will now describe, as I promised, the difference between sweetness
 in prayer and spiritual consolations. It appears to me that what we
 acquire for ourselves in meditation and petitions to our Lord may be
-termed 'sweetness in devotion.' <span id="fr_112"></span>[7](#fn_112) It
+termed 'sweetness in devotion.' <span id="fr_112"></span>[7](#fn_112.md) It
 is natural, although ultimately aided by the grace of God. I must be
 understood to imply this in all I say, for we can do nothing without
 Him. This
@@ -108,7 +108,7 @@ that I can perfectly distinguish the difference between the two joys,
 yet I have not the skill to make myself understood; may God give it me!
 I remember a verse we say at Prime at the end of the final Psalm; the
 last words are: 'Cum dilatasti cor meum'--'When Thou didst dilate my
-heart: <span id="fr_113"></span>[8](#fn_113) To those with much
+heart: <span id="fr_113"></span>[8](#fn_113.md) To those with much
 experience, this suffices to show the difference between sweetness in
 prayer and spiritual consolations; other people will
 
@@ -125,7 +125,7 @@ stupid. Knowledge and learning are a great advantage to every one.
 
 6\. My own experience of this delight and sweetness in meditation was
 that when I began to weep over the Passion I could not stop until I had
-a severe headache; <span id="fr_114"></span>[9](#fn_114) the same thing
+a severe headache; <span id="fr_114"></span>[9](#fn_114.md) the same thing
 occurred when I grieved over my sins: this was a great grace from our
 Lord. I do not intend to inquire now which of these states of prayer is
 the better, but I wish I knew how to explain the difference between the
@@ -150,7 +150,7 @@ what He is: let them desire that He may be honoured and glorified. They
 must do this as best they can, for it greatly inflames the will. Let
 them be very careful, when God gives these sentiments, not to set them
 aside in order to finish their accustomed meditation. But, having spoken
-fully on this subject elsewhere, <span id="fr_115"></span>[10](#fn_115)
+fully on this subject elsewhere, <span id="fr_115"></span>[10](#fn_115.md)
 I will say no more now. I only wish to warn you that to make rapid
 progress and to reach the mansions we wish to enter, it is not so
 essential to *think* much as to *love* much: therefore you must practise
@@ -162,7 +162,7 @@ would offend Him, and in praying for the increase of the glory and
 honour of His Son and for the growth of the Catholic Church. These are
 the signs of love; do not imagine that it consists in never thinking of
 anything but God, and that if your thoughts wander a little all is
-lost. <span id="fr_116"></span>[11](#fn_116)
+lost. <span id="fr_116"></span>[11](#fn_116.md)
 
 8\. I, myself, have sometimes been troubled by this turmoil of thoughts.
 I learnt by experience, but little more than four years ago, that our
@@ -175,7 +175,7 @@ subject; he told me it was the fact, which consoled me not a little. As
 the understanding is one of the powers of the soul, it puzzled me to see
 it so sluggish at times, while, as a rule, the imagination takes flight
 at once, so that God alone can control it by so uniting us to
-Himself <span id="fr_117"></span>[12](#fn_117) that we seem, in a
+Himself <span id="fr_117"></span>[12](#fn_117.md) that we seem, in a
 manner, detached from our bodies. It puzzled me to see that while to all
 appearance the powers of the soul were occupied with God and recollected
 in Him, the imagination was wandering elsewhere.
@@ -214,7 +214,7 @@ singing and whistling. This tumult is not in my ears, but in the upper
 part of my head, where, they say, is placed the superior part of the
 soul. I have long thought that this must be so because the flight of the
 spirit seems to take place from this part with great velocity. <span
-id="fr_118"></span>[13](#fn_118) Please God I may recollect to explain
+id="fr_118"></span>[13](#fn_118.md) Please God I may recollect to explain
 the cause when writing of the latter mansions, this not being the proper
 place for it. It may be that God has sent this suffering in my head to
 help me to understand the matter, for all this tumult in my brain does
@@ -238,8 +238,8 @@ the many frailties entailed by Adam's sin, let us be patient and suffer
 them for the love of God. Likewise, since we must eat and sleep without
 being able to avoid it, much to our grief, let us acknowledge that we
 are human, and long to be where no one may despise us. <span
-id="fr_119"></span>[14](#fn_119) Sometimes I recall these words, spoken
-by the Spouse in the Canticle; <span id="fr_120"></span>[15](#fn_120)
+id="fr_119"></span>[14](#fn_119.md) Sometimes I recall these words, spoken
+by the Spouse in the Canticle; <span id="fr_120"></span>[15](#fn_120.md)
 truly never in our lives have we better reason to say them, for I think
 no earthly scorn or suffering can try us so severely as these struggles
 within our souls. All uneasiness or conflict can be borne while we have
@@ -257,9 +257,9 @@ sometimes it seems as if they mocked our souls. Even in this life God
 delivers us from them when we reach the last mansion, as by His grace I
 will show you. Everybody is not so violently distressed and assaulted by
 these weaknesses as I have been for many years, <span
-id="fr_121"></span>[16](#fn_121) on account of my wickedness, so that it
+id="fr_121"></span>[16](#fn_121.md) on account of my wickedness, so that it
 seems as if I strove to take vengeance on myself. <span
-id="fr_122"></span>[17](#fn_122) Since I suffer so much in this way,
+id="fr_122"></span>[17](#fn_122.md) Since I suffer so much in this way,
 perhaps you may do the same, so I shall continue to explain the subject
 to you in different ways, in order to find some means of making it
 clear. The thing is inevitable, therefore do not let it disturb or
@@ -282,10 +282,10 @@ the devil's temptations, instead of laying all the blame on our souls.
 
 ### Footnotes
 
-<span id="fn_106"></span>[88:1](tic10.htm#fr_106) First Mansions, ch. i.
+<span id="fn_106"></span>[88:1](tic10.htm#fr_106.md) First Mansions, ch. i.
 1.
 
-<span id="fn_107"></span>[88:2](tic10.htm#fr_107) There are two kinds of
+<span id="fn_107"></span>[88:2](tic10.htm#fr_107.md) There are two kinds of
 contemplation: acquired or natural, and infused or supernatural. In
 their widest sense, including many remarkable phenomena of Natural
 religion, and, of course, the most wonderful manifestations recorded in
@@ -306,19 +306,19 @@ Vision, is a supernatural act of the soul, an operation of unending
 duration. A ship moved by a gentle breeze is rightly said to be actually
 sailing though the rowers are at rest.
 
-<span id="fn_108"></span>[89:3](tic10.htm#fr_108) *Life*, ch. xii. 11.
+<span id="fn_108"></span>[89:3](tic10.htm#fr_108.md) *Life*, ch. xii. 11.
 
-<span id="fn_109"></span>[89:4](tic10.htm#fr_109) *Life*, ch. xvii. 7.
+<span id="fn_109"></span>[89:4](tic10.htm#fr_109.md) *Life*, ch. xvii. 7.
 
-<span id="fn_110"></span>[90:5](tic10.htm#fr_110) Philippus a SS.
+<span id="fn_110"></span>[90:5](tic10.htm#fr_110.md) Philippus a SS.
 Trinitate, *Summa Tleologiæ Mysticæ*, pars iii. tract. i. disc. iii.
 art. 2. *Life*, ch. xv. 11, xxii. 22, 23. *Way of Perf.* ch. xvi. 4,
 xli. 2. *Concep*. ch. v. 3.
 
-<span id="fn_111"></span>[90:6](tic10.htm#fr_111) S. Matt. xx. 15: 'Aut
+<span id="fn_111"></span>[90:6](tic10.htm#fr_111.md) S. Matt. xx. 15: 'Aut
 non licet mihi quod volo facere?'
 
-<span id="fn_112"></span>[90:7](tic10.htm#fr_112) *Way of Perf*., ch.
+<span id="fn_112"></span>[90:7](tic10.htm#fr_112.md) *Way of Perf*., ch.
 xix. 8. *Castle*, M. iv. ch. ii. 4. The first three mansions of the
 Interior Castle correspond with the 'first water,' or the prayer of
 Meditation, explained in ch. xi-xiii. of the Life; the fourth mansion,
@@ -327,36 +327,36 @@ the fifth mansion, or the prayer of Union, with the 'third water,' Life,
 ch. xvi. and xvii.; and the sixth mansion, ecstasy, etc., with the
 'fourth water,' Life, ch. xviii.-xxi.
 
-<span id="fn_113"></span>[91:8](tic10.htm#fr_113) Ps. cxviii. 32. *Way
+<span id="fn_113"></span>[91:8](tic10.htm#fr_113.md) Ps. cxviii. 32. *Way
 of Perf*. ch. xxviii. 11.
 
-<span id="fn_114"></span>[92:9](tic10.htm#fr_114) *Life*, ch. iii. 1.
+<span id="fn_114"></span>[92:9](tic10.htm#fr_114.md) *Life*, ch. iii. 1.
 
-<span id="fn_115"></span>[93:10](tic10.htm#fr_115) *Life*, ch. xii.
+<span id="fn_115"></span>[93:10](tic10.htm#fr_115.md) *Life*, ch. xii.
 2-4..
 
-<span id="fn_116"></span>[93:11](tic10.htm#fr_116) *Found*. ch. v. 2.
+<span id="fn_116"></span>[93:11](tic10.htm#fr_116.md) *Found*. ch. v. 2.
 *Way of Perf.* ch. xxxi. 6, 12. *Life*, ch. xv, 16, ch. XXX. 19.
 
-<span id="fn_117"></span>[94:12](tic10.htm#fr_117) *Life*, ch. xv. 9,
+<span id="fn_117"></span>[94:12](tic10.htm#fr_117.md) *Life*, ch. xv. 9,
 10.
 
-<span id="fn_118"></span>[95:13](tic10.htm#fr_118) Second Relation
+<span id="fn_118"></span>[95:13](tic10.htm#fr_118.md) Second Relation
 addressed to Fr. Rodrigo Alvarez.
 
-<span id="fn_119"></span>[96:14](tic10.htm#fr_119) *Way of Perf.* ch.
+<span id="fn_119"></span>[96:14](tic10.htm#fr_119.md) *Way of Perf.* ch.
 xxxiii. 8. *Life*, ch. xxi. S. Rel. ii. 12.
 
-<span id="fn_120"></span>[96:15](tic10.htm#fr_120) According to Fr.
+<span id="fn_120"></span>[96:15](tic10.htm#fr_120.md) According to Fr.
 Gracian the Saint here refers to Cant. viii. 1: 'Et jam me nemo
 despiciat.'
 
-<span id="fn_121"></span>[97:16](tic10.htm#fr_121) *Way of Perf.* ch.
+<span id="fn_121"></span>[97:16](tic10.htm#fr_121.md) *Way of Perf.* ch.
 xvii. 2.
 
-<span id="fn_122"></span>[97:17](tic10.htm#fr_122) *Way of Perf.* ch,
+<span id="fn_122"></span>[97:17](tic10.htm#fr_122.md) *Way of Perf.* ch,
 xxxi. 9.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Divine Consolations](tic11)
+[Next: Chapter II. Divine Consolations](tic11.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab12)  [Next](mab14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab12)  [Next](mab14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -19,26 +19,26 @@ Textual Heritage
 <span id="page_141">p. 141</span>
 
 <span id="img_14100"></span> ![&lt;i&gt;Robert's Tower, Cardiff
-Castle&lt;/i&gt;, 1840.](img/14100.jpg)  
+Castle&lt;/i&gt;, 1840.](img/14100.jpg.md)  
 *Robert's Tower, Cardiff Castle*, 1840.
 
 # GERAINT THE SON OF ERBIN
 
 Arthur was accustomed to hold his Court at Caerlleon upon Usk. And there
 he held it seven Easters and five
-Christmases [141a](mab14.htm#xref_141a). And once upon a time he held
+Christmases [141a](mab14.htm#xref_141a.md). And once upon a time he held
 his Court there at Whitsuntide. For Caerlleon was the place most easy of
 access in his dominions, both by sea and by land. And there were
 assembled nine crowned kings, who were his tributaries, and likewise
 earls and barons. For they were his invited guests at all the high
 festivals, unless they were prevented by any great hindrance. And when
 he was at Caerlleon, holding his Court, thirteen churches were set apart
-for mass [141b](mab14.htm#xref_141b). And thus were they appointed: one
+for mass [141b](mab14.htm#xref_141b.md). And thus were they appointed: one
 church for Arthur, and his kings, and his guests; and the second for
 Gwenhwyvar and her ladies; and the third for the Steward of the
-Household [141c](mab14.htm#xref_141c) and the suitors; and the fourth
+Household [141c](mab14.htm#xref_141c.md) and the suitors; and the fourth
 for the Franks and the other officers; and the other nine churches were
-for the nine Masters of the Household [141d](mab14.htm#xref_141d) and
+for the nine Masters of the Household [141d](mab14.htm#xref_141d.md) and
 chiefly for Gwalchmai; for he, from the
 
 <span id="page_142">p. 142</span>
@@ -53,15 +53,15 @@ men to serve him, and they divided the year amongst them. They were
 Grynn, and Pen Pighon, and Llaes Cymyn, and Gogyfwlch, and Gwrdnei with
 cat's eyes, who could see as well by night as by day, and Drem the son
 of Dremhitid, and Clust the son of Clustveinyd; and these were Arthur's
-guards [142a](mab14.htm#xref_142a). And on Whit-Tuesday, as the King sat
+guards [142a](mab14.htm#xref_142a.md). And on Whit-Tuesday, as the King sat
 at the banquet, lo! there entered a tall, fair-headed youth, clad in a
-coat and a surcoat of diapered satin [142b](mab14.htm#xref_142b), and a
+coat and a surcoat of diapered satin [142b](mab14.htm#xref_142b.md), and a
 golden-hilted sword about his neck, and low shoes of leather upon his
 feet. And he came, and stood before Arthur. "Hail to thee, Lord!" said
 he. "Heaven prosper thee," he answered, "and be thou welcome. Dost thou
 bring any new tidings?" "I do, Lord," he said. "I know thee not," said
 Arthur. "It is a marvel to me that thou dost not know me. I am one of
-thy foresters, Lord, in the Forest of Dean [142c](mab14.htm#xref_142c),
+thy foresters, Lord, in the Forest of Dean [142c](mab14.htm#xref_142c.md),
 and my name is Madawc, the son of Twrgadarn." "Tell me thine errand,"
 said Arthur. "I will do so, Lord," said he. "In the Forest I saw a stag,
 the like of which beheld I never yet." "What is there about him," asked
@@ -72,10 +72,10 @@ and to know thy will concerning him." "It seems best to me," said
 Arthur, "to go and hunt him to-morrow at break of day; and to cause
 general notice thereof to be given to-night in all quarters of the
 Court." And Arryfuerys was Arthur's chief
-huntsman [142d](mab14.htm#xref_142d), and Arelivri was his chief
-page [142e](mab14.htm#xref_142e). And all received notice; and thus it
+huntsman [142d](mab14.htm#xref_142d.md), and Arelivri was his chief
+page [142e](mab14.htm#xref_142e.md). And all received notice; and thus it
 was arranged. And they sent the youth before them. Then Gwenhwyvar said
-to Arthur [142f](mab14.htm#xref_142f), "Wilt thou permit me, Lord," said
+to Arthur [142f](mab14.htm#xref_142f.md), "Wilt thou permit me, Lord," said
 she, "to go to-morrow to see and hear the hunt of the
 
 <span id="page_143">p. 143</span>
@@ -84,7 +84,7 @@ stag of which the young man spoke?" "I will gladly," said Arthur. "Then
 will I go," said she. And Gwalchmai said to Arthur, "Lord, if it seem
 well to thee, permit that into whose hunt soever the stag shall come,
 that one, be he a knight, or one on foot, may cut off his head, and give
-it to whom he pleases [143a](mab14.htm#xref_143a), whether to his own
+it to whom he pleases [143a](mab14.htm#xref_143a.md), whether to his own
 lady-love, or to the lady of his friend." "I grant it gladly," said
 Arthur, "and let the Steward of the Household be chastised, if all are
 not ready to-morrow for the chase."
@@ -94,9 +94,9 @@ ample entertainment. And when it was time for them all to go to sleep,
 they went. And when the next day came, they arose; and Arthur called the
 attendants, who guarded his couch. And these were four pages, whose
 names were Cadyrnerth the son of Porthawr
-Gandwy [143b](mab14.htm#xref_143b), and Ambreu the son of Bedwor, and
+Gandwy [143b](mab14.htm#xref_143b.md), and Ambreu the son of Bedwor, and
 Amhar the son of Arthur, and Goreu the son of
-Custennin [143c](mab14.htm#xref_143c). And these men came to Arthur and
+Custennin [143c](mab14.htm#xref_143c.md). And these men came to Arthur and
 saluted him, and arrayed him in his garments. And Arthur wondered that
 Gwenhwyvar did not awake, and did not move in her bed; and the
 attendants wished to awaken her. "Disturb her not," said Arthur, "for
@@ -125,7 +125,7 @@ at his side, and a robe and a surcoat of satin were upon him, and two
 low shoes of leather upon his feet; and around him was a scarf of blue
 purple, at each corner of which was a golden apple. And his horse
 stepped stately, and swift, and proud; and he overtook Gwenhwyvar, and
-saluted her. "Heaven prosper thee, Geraint," [144a](mab14.htm#xref_144a)
+saluted her. "Heaven prosper thee, Geraint," [144a](mab14.htm#xref_144a.md)
 said she, "I knew thee when first I saw thee just now. And the welcome
 of Heaven be unto thee. And why didst thou not go with thy lord to
 hunt?" "Because I knew not when he went," said he. "I marvel, too," said
@@ -268,7 +268,7 @@ putting of arms in order?" "I will do so," said he. "The preparations
 are for the game that is to be held to-morrow by the young Earl, which
 will be on this wise. In the midst of a meadow which is here, two forks
 will be set up, and upon the two forks a silver rod, and upon the silver
-rod a Sparrow-Hawk [148a](mab14.htm#xref_148a), and for the Sparrow-Hawk
+rod a Sparrow-Hawk [148a](mab14.htm#xref_148a.md), and for the Sparrow-Hawk
 there will be a tournament. And to the tournament will go all the array
 thou didst see in the city, of men, and of horses, and of arms. And with
 each man will go the lady he loves best; and no man can joust for the
@@ -367,7 +367,7 @@ said he, "I relinquish my overdaring and my pride in craving thy mercy;
 and unless I have time to commit myself to Heaven for my sins, and to
 talk with a priest, thy mercy will avail me little." "I will grant thee
 grace upon this condition," said Geraint, "that thou wilt go to
-Gwenhwyvar [151a](mab14.htm#xref_151a) the wife of Arthur, to do her
+Gwenhwyvar [151a](mab14.htm#xref_151a.md) the wife of Arthur, to do her
 satisfaction for the insult which her maiden received from thy dwarf. As
 to myself, for the insult which I received from thee and thy dwarf, I am
 content with that which I have done unto thee. Dismount not from the
@@ -375,7 +375,7 @@ time thou goest hence until thou comest into the presence of Gwenhwyvar,
 to make her what atonement shall be adjudged at the Court of Arthur."
 "This will I do gladly. And who art thou?" said he. "I am Geraint the
 son of Erbin. And declare thou also who thou art." "I am Edeyrn the son
-of Nudd [151b](mab14.htm#xref_151b)." Then he threw himself upon his
+of Nudd [151b](mab14.htm#xref_151b.md)." Then he threw himself upon his
 horse, and went forward to Arthur's Court, and the lady he loved best
 went before him and the dwarf, with much lamentation. And thus far this
 story up to that time.
@@ -412,7 +412,7 @@ Then they all entered the hall, and they washed, and went, and sat down
 to meat. And thus were they seated. On one side of Geraint sat the young
 Earl, and Earl Ynywl beyond him; and on the other side of Geraint were
 the maiden and her mother. And after these all sat according to their
-precedence in honour [152a](mab14.htm#xref_152a). And they ate. And they
+precedence in honour [152a](mab14.htm#xref_152a.md). And they ate. And they
 were served abundantly, and they received a profusion of divers kind of
 gifts. Then they conversed together. And the young Earl invited Geraint
 to visit him next day. "I will not, by Heaven," said Geraint. "To the
@@ -445,20 +445,20 @@ concerning Geraint.
 
  
 
-Now, this is how Arthur hunted the stag [153a](mab14.htm#xref_153a). The
+Now, this is how Arthur hunted the stag [153a](mab14.htm#xref_153a.md). The
 men and the dogs were divided into hunting parties, and the dogs were
 let loose upon the stag. And the last dog that was let loose was the
 favourite dog of Arthur. Cavall was his
-name [153b](mab14.htm#xref_153b). And he left all the other dogs behind
+name [153b](mab14.htm#xref_153b.md). And he left all the other dogs behind
 him, and turned the stag. And at the second turn, the stag came towards
 the hunting party of Arthur. And Arthur set upon him. And before he
 could be slain by any other, Arthur cut off his head. Then they sounded
-the death horn for slaying [153c](mab14.htm#xref_153c), and they all
+the death horn for slaying [153c](mab14.htm#xref_153c.md), and they all
 gathered round.
 
 Then came Kadyrieith to Arthur, and spoke to him. "Lord," said he,
 "behold, yonder is Gwenhwyvar, and none with her save only one maiden."
-"Command Gildas the son of Caw [153d](mab14.htm#xref_153d), and all the
+"Command Gildas the son of Caw [153d](mab14.htm#xref_153d.md), and all the
 scholars of the Court," said Arthur, "to attend Gwenhwyvar to the
 palace." And they did so.
 
@@ -513,7 +513,7 @@ in peril of my life. And he imposed on me a condition,
 manly, and honourable, and warrior-like, which was to do thee justice,
 Lady." "Now, where did he overtake thee?" "At the place where we were
 jousting, and contending for the Sparrow-Hawk, in the town which is now
-called Cardiff [155a](mab14.htm#xref_155a). And there were none with him
+called Cardiff [155a](mab14.htm#xref_155a.md). And there were none with him
 save three persons, of a mean and tattered condition. And these were an
 aged, hoary-headed man, and a woman advanced in years, and a fair young
 maiden, clad in worn-out garments. And it was for the avouchment of the
@@ -538,10 +538,10 @@ he live, he shall do such satisfaction as shall be judged best by the
 men of the Court; and take thou sureties to that effect. And if he die,
 too much will be the death of such a youth as Edeyrn for an insult to a
 maiden." "This pleases me," said Gwenhwyvar. And Arthur became surety
-for Edeyrn [155b](mab14.htm#xref_155b), and Caradawc the son of Llyr,
-Gwallawg the son of Llenawg [155c](mab14.htm#xref_155c) and Owain the
+for Edeyrn [155b](mab14.htm#xref_155b.md), and Caradawc the son of Llyr,
+Gwallawg the son of Llenawg [155c](mab14.htm#xref_155c.md) and Owain the
 son of Nudd, and Gwalchmai, and many others with them. And Arthur caused
-Morgan Tud [155d](mab14.htm#xref_155d) to be called to him. He was the
+Morgan Tud [155d](mab14.htm#xref_155d.md) to be called to him. He was the
 chief physician<span id="xref_155e">155e</span>. "Take
 
 <span id="page_156">p. 156</span>
@@ -608,7 +608,7 @@ than she in the Island of Britain.
 Then spake Gwenhwyvar. "Rightly did I judge," said she, "concerning the
 head of the stag, that it should not be given to any until Geraint's
 return; and, behold, here is a fit occasion for bestowing it. Let it be
-given to Enid the daughter of Ynywl [157a](mab14.htm#xref_157a), the
+given to Enid the daughter of Ynywl [157a](mab14.htm#xref_157a.md), the
 most illustrious maiden. And I do not believe that any will begrudge it
 her, for between her and every one here there exists nothing but love
 and friendship." Much applauded was this by them all, and by Arthur
@@ -677,11 +677,11 @@ Gwalchmai the son of Gwyar, and Riogonedd the son of the king of
 Ireland, and Ondyaw the son of the duke of Burgundy, Gwilim the son of
 the ruler of the Franks, Howel the son of Emyr of Brittany, Elivry, and
 Nawkyrd, Gwynn the son of Tringad, Goreu the son of Custennin, Gweir
-Gwrhyd Vawr [159a](mab14.htm#xref_159a), Garannaw the son of Golithmer,
+Gwrhyd Vawr [159a](mab14.htm#xref_159a.md), Garannaw the son of Golithmer,
 Peredur the son of Evrawc, Gwynnllogell, Gwyr a judge in the Court of
 Arthur, Dyvyr the son of Alun of Dyved, Gwrei Gwalstawd
-Ieithoedd [159b](mab14.htm#xref_159b), Bedwyr the son of
-Bedrawd [159c](mab14.htm#xref_159c), Hadwry the son of Gwryon, Kai the
+Ieithoedd [159b](mab14.htm#xref_159b.md), Bedwyr the son of
+Bedrawd [159c](mab14.htm#xref_159c.md), Hadwry the son of Gwryon, Kai the
 son of Kynyr, Odyar the Frank, the Steward of Arthur's Court, and Edeyrn
 the son of Nudd. Said Geraint, "I think that I shall have enough of
 knighthood with me." "Yes," said Arthur, "but it will not be fitting for
@@ -697,7 +697,7 @@ suffered for the insult which the maiden received from the dwarf."
 will do this gladly, Lord." Then she permitted Edeyrn freely to depart.
 And many there were who accompanied Geraint, and they set forth; and
 never was there seen a fairer host journeying towards the
-Severn [160a](mab14.htm#xref_160a). And on the other side of the Severn
+Severn [160a](mab14.htm#xref_160a.md). And on the other side of the Severn
 were the nobles of Erbin the son of Custennin, and his foster-father at
 their head, to welcome Geraint with gladness; and many of the women of
 the Court, with his mother, came to receive Enid the daughter of Ynywl,
@@ -706,10 +706,10 @@ whole Court, and throughout all the country, concerning Geraint, because
 of the greatness of their love towards him, and of the greatness of the
 fame which he had gained since he went from amongst them, and because he
 was come to take possession of his dominions and to preserve his
-boundaries [160b](mab14.htm#xref_160b). And they came to the Court. And
+boundaries [160b](mab14.htm#xref_160b.md). And they came to the Court. And
 in the Court they had ample entertainment, and a multitude of gifts and
 abundance of liquor, and a sufficiency of service, and a variety of
-minstrelsy and of games [160c](mab14.htm#xref_160c). And to do honour to
+minstrelsy and of games [160c](mab14.htm#xref_160c.md). And to do honour to
 Geraint, all the chief men of the country were invited that night to
 visit him. And they passed that day and that night in the utmost
 enjoyment. And at dawn next day Erbin arose, and summoned to him
@@ -749,7 +749,7 @@ night. And the day after the followers of Arthur intended to go away.
 have finished receiving the homage of my chief men, who have agreed to
 come to me." And they remained with him until he had done so. Then they
 set forth towards the Court of Arthur; and Geraint went to bear them
-company, and Enid also, as far as Diganhwy [161a](mab14.htm#xref_161a):
+company, and Enid also, as far as Diganhwy [161a](mab14.htm#xref_161a.md):
 there they parted. Then Ondyaw the son of the duke of Burgundy said to
 Geraint, "Go first of all and visit the uppermost parts of thy
 dominions, and see well to the boundaries of thy territories; and if
@@ -790,7 +790,7 @@ sorrowful.
 
 And one morning in the summer time, they were upon their couch, and
 Geraint lay upon the edge of it. And Enid was without sleep in the
-apartment, which had windows of glass [162a](mab14.htm#xref_162a). And
+apartment, which had windows of glass [162a](mab14.htm#xref_162a.md). And
 the sun shone upon the couch. And the clothes had slipped from off his
 arms and his breast, and he was asleep. Then she gazed upon the
 marvellous beauty of his appearance, and she said, "Alas, and am I the
@@ -822,7 +822,7 @@ quest, and I am not certain when I may come back. Take heed, therefore,
 unto thy possessions, until my return." "I will do so," said he, "but it
 is strange to me that thou shouldest go so suddenly. And who will
 proceed with thee, since thou art not strong enough to traverse the land
-of Lloegyr [163a](mab14.htm#xref_163a) alone?" "But one person only will
+of Lloegyr [163a](mab14.htm#xref_163a.md) alone?" "But one person only will
 go with me." "Heaven counsel thee, my son," said Erbin, "and may many
 attach themselves to thee in Lloegyr." Then went Geraint to the place
 where his horse was, and it was equipped with foreign armour, heavy and
@@ -1189,7 +1189,7 @@ the knight, "I will have satisfaction of thee, or receive my overthrow
 at thy hands." And immediately they charged one another. And a squire of
 his came to serve him with lances as he broke them. And they gave each
 other such hard and severe strokes that their shields lost all their
-colour [174a](mab14.htm#xref_174a). But it was very difficult for
+colour [174a](mab14.htm#xref_174a.md). But it was very difficult for
 Geraint to fight with him on account of his small size, for he was
 hardly able to get a full aim at him with all the efforts he could make.
 And they fought thus until their horses were brought down upon their
@@ -1333,7 +1333,7 @@ loud wailing near to them. "Stay thou here," said he, "and I will go and
 see what is the cause of this wailing." "I will," said she. Then he went
 forward unto an open glade that was near the road. And in the glade he
 saw two horses, one having a man's saddle, and the other a woman's
-saddle [178a](mab14.htm#xref_178a) upon it. And, behold, there was a
+saddle [178a](mab14.htm#xref_178a.md) upon it. And, behold, there was a
 knight lying dead in his armour, and a young damsel in a riding-dress
 standing over him, lamenting. "Ah! Lady," said Geraint, "what hath
 befallen thee?" "Behold," she answered, "I journeyed here with my
@@ -1459,7 +1459,7 @@ country." "Tell me," said Geraint, "which is the best for me to follow
 of these two roads?" "That is the best for thee to follow," answered he,
 "for if thou goest by this one, thou wilt never return. Below us," said
 he, "there is a hedge of mist, and within it are enchanted
-games [181a](mab14.htm#xref_181a), and no one who has gone there has
+games [181a](mab14.htm#xref_181a.md), and no one who has gone there has
 ever returned. And
 
 <span id="page_182">p. 182</span>
@@ -1557,11 +1557,11 @@ prosperously, and his warlike fame and splendour lasted with renown and
 honour both to him and to Enid from that time forth.
 
 <span id="img_18400"></span> ![(&lt;i&gt;Cardiff Castle: the Keep, as it
-appeared in&lt;/i&gt; 1840.)](img/18400.jpg)  
+appeared in&lt;/i&gt; 1840.)](img/18400.jpg.md)  
 (*Cardiff Castle: the Keep, as it appeared in* 1840.)
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Notes to Geraint the Son of Erbin](mab14)
+[Next: Notes to Geraint the Son of Erbin](mab14.md)

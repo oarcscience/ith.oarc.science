@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh27)  [Next](hloh29) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh27)  [Next](hloh29.md) 
 
 ------------------------------------------------------------------------
 
@@ -1102,4 +1102,4 @@ in the court of his father-in-law, Kakuhihewa.
 
 ------------------------------------------------------------------------
 
-[Next: XXV. Kamapuaa Legends](hloh29)
+[Next: XXV. Kamapuaa Legends](hloh29.md)

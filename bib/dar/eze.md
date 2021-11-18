@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](lam)  [Next](dan) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](lam)  [Next](dan.md) 
 
 ------------------------------------------------------------------------
 
@@ -5386,4 +5386,4 @@ Asher, one; the gate of Naphtali, one.
 
 ------------------------------------------------------------------------
 
-[Next: Daniel](dan)
+[Next: Daniel](dan.md)

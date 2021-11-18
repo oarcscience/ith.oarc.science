@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](th1)  [Next](ti1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](th1)  [Next](ti1.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ sia con tutti voi.
 
 ------------------------------------------------------------------------
 
-[Next: 1 Timothy](ti1)
+[Next: 1 Timothy](ti1.md)

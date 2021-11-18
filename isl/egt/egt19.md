@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt18)  [Next](egt20) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt18)  [Next](egt20.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ and a thing of iron.
 
 ------------------------------------------------------------------------
 
-[Next: THE PARABLE OF THOSE WHO GIVE ALMS.](egt20)
+[Next: THE PARABLE OF THOSE WHO GIVE ALMS.](egt20.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls23)  [Next](rls25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls23)  [Next](rls25.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ publishing this collection of the sayings of their departed Master.
 
 ------------------------------------------------------------------------
 
-[Next: The Sayings of Râmak*ri*sh*n*a: 1-99](rls25)
+[Next: The Sayings of Râmak*ri*sh*n*a: 1-99](rls25.md)

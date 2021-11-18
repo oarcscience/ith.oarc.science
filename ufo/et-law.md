@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](ebe)  [Next](foopress) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](ebe)  [Next](foopress.md) 
 
 ### Extra-Terrestrial Exposure Law Already Passed By Congress
 
@@ -322,4 +322,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: AP Press clipping on Foo Fighters. Dec 13 1944](foopress)
+[Next: AP Press clipping on Foo Fighters. Dec 13 1944](foopress.md)

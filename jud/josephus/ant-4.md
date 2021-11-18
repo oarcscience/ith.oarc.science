@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ whole company may be worthy of the like dignity, although they may not
 be so rich or so great as you are: nor have I taken and given this
 office to my brother because he excelled others in riches, for thou
 exceedest us both in the greatness of thy wealth; <span
-id="EndNote Ant 4.1a"></span>[(1)](#EndNote%20Ant%204.1b) nor indeed
+id="EndNote Ant 4.1a"></span>[(1)](#EndNote%20Ant%204.1b.md) nor indeed
 because he was of an eminent family, for God, by giving us the same
 common ancestor, has made our families equal: nay, nor was it out of
 brotherly affection, which another might yet have justly done; for
@@ -351,7 +351,7 @@ accord in the woods, when the agitation is caused by the trees rubbing
 one against another: but this fire was very bright, and had a terrible
 flame, such as is kindled at the command of God; by whose irruption on
 them, all the company, and Corah himself, were destroyed, <span
-id="EndNote Ant 4.2a"></span>[(2)](#EndNote%20Ant%204.2b) and this so
+id="EndNote Ant 4.2a"></span>[(2)](#EndNote%20Ant%204.2b.md) and this so
 entirely, that their very bodies left no remains behind them. Aaron
 alone was preserved, and not at all hurt by the fire, because it was God
 that sent the fire to burn those only who ought to be burned. Hereupon
@@ -398,7 +398,7 @@ the multitude to a congregation, and patiently heard what apology they
 had to make for themselves, without opposing them, and this lest he
 should imbitter the multitude: he only desired the heads of the tribes
 to bring their rods, <span
-id="EndNote Ant 4.3a"></span>[(3)](#EndNote%20Ant%204.3b) with the names
+id="EndNote Ant 4.3a"></span>[(3)](#EndNote%20Ant%204.3b.md) with the names
 of their tribes inscribed upon them, and that he should receive the
 priesthood in whose rod God should give a sign. This was agreed to. So
 the rest brought their rods, as did Aaron also, who had written the
@@ -447,7 +447,7 @@ made loaves of it, they should give somewhat of what they had baked to
 them. Moreover, when any have made a sacred vow, I mean those that are
 called *Nazarites,* that suffer their hair to grow long, and use no
 wine, when they consecrate their hair, <span
-id="EndNote Ant 4.4a"></span>[(4)](#EndNote%20Ant%204.4b) and offer it
+id="EndNote Ant 4.4a"></span>[(4)](#EndNote%20Ant%204.4b.md) and offer it
 for a sacrifice, they are to allot that hair for the priests \[to be
 thrown into the fire\]. Such also as dedicate themselves to God, as a
 corban, which denotes what the Greeks call a *gift,* when they are
@@ -484,9 +484,9 @@ withdrew his forces, and traveled round about through the wilderness.
 
 6\. Then it was that Miriam, the sister of Moses, came to her end,
 having completed her fortieth year <span
-id="EndNote Ant 4.5a"></span>[(5)](#EndNote%20Ant%204.5b) since she left
+id="EndNote Ant 4.5a"></span>[(5)](#EndNote%20Ant%204.5b.md) since she left
 Egypt, on the first <span
-id="EndNote Ant 4.6a"></span>[(6)](#EndNote%20Ant%204.6b) day of the
+id="EndNote Ant 4.6a"></span>[(6)](#EndNote%20Ant%204.6b.md) day of the
 lunar month Xanthicus. They then made a public funeral for her, at a
 great expense. She was buried upon a certain mountain, which they call
 *Sin:* and when they had mourned for her thirty days, Moses purified the
@@ -637,7 +637,7 @@ kingdom's danger; for he was not acquainted with this, that the Hebrews
 would not meddle with any other country, but were to be contented with
 the possession of the land of Canaan, God having forbidden them to go
 any farther <span
-id="EndNote Ant 4.7a"></span>[(7)](#EndNote%20Ant%204.7b) So he, with
+id="EndNote Ant 4.7a"></span>[(7)](#EndNote%20Ant%204.7b.md) So he, with
 more haste than wisdom, resolved to make an attempt upon them by words;
 but he did not judge it prudent to fight against them, after they had
 such prosperous successes, and even became out of ill successes more
@@ -664,7 +664,7 @@ he dismissed the ambassadors.
 3\. Now the Midianites, at the earnest request and fervent entreaties of
 Balak, sent other ambassadors to Balaam, who, desiring to gratify the
 men, inquired again of God; but he was displeased at \[second\] trial
-<span id="EndNote Ant 4.8a"></span>[(8)](#EndNote%20Ant%204.8b) and bid
+<span id="EndNote Ant 4.8a"></span>[(8)](#EndNote%20Ant%204.8b.md) and bid
 him by no means to contradict the ambassadors. Now Balsam did not
 imagine that God gave this injunction in order to deceive him, so he
 went along with the ambassadors; but when the divine angel met him in
@@ -756,7 +756,7 @@ other altars, and offer the like sacrifices that we did before, that I
 may see whether I can persuade God to permit me to bind these men with
 curses." Which, when Balak had agreed to, God would not, even upon
 second sacrifices, consent to his cursing the Israelites. <span
-id="EndNote Ant 4.9a"></span>[(9)](#EndNote%20Ant%204.9b) Then fell
+id="EndNote Ant 4.9a"></span>[(9)](#EndNote%20Ant%204.9b.md) Then fell
 Balaam upon his face, and foretold what calamities would befall the
 several kings of the nations, and the most eminent cities, some of which
 of old were not so much as inhabited; which events have come to pass
@@ -783,7 +783,7 @@ upon them. So that if you have a mind to gain a victory over them for a
 short space of time, you will obtain it by following my directions: - Do
 you therefore set out the handsomest of such of your daughters as are
 most eminent for beauty, <span
-id="EndNote Ant 4.10a"></span>[(10)](#EndNote%20Ant%204.10b) and proper
+id="EndNote Ant 4.10a"></span>[(10)](#EndNote%20Ant%204.10b.md) and proper
 to force and conquer the modesty of those that behold them, and these
 decked and trimmed to the highest degree able. Then do you send them to
 be near camp, and give them in charge, that the young men of the Hebrews
@@ -792,7 +792,7 @@ let them take leaves; and if they entreat them to stay, let give their
 consent till they have persuaded leave off their obedience to their own
 laws, the worship of that God who established them to worship the gods
 of the Midianites and for by this means God will be angry at them <span
-id="EndNote Ant 4.11a"></span>[(11)](#EndNote%20Ant%204.11b).
+id="EndNote Ant 4.11a"></span>[(11)](#EndNote%20Ant%204.11b.md).
 Accordingly, when Balaam had suggested counsel to them, he went his way.
 
 7\. So when the Midianites had sent their daughters,as Balaam had
@@ -833,7 +833,7 @@ contradict what they requested, so great was the passion they had for
 them. "If then," said they, "this be your resolution, since you make use
 of such customs and conduct of life as are entirely different from all
 other men, <span
-id="EndNote Ant 4.12a"></span>[(12)](#EndNote%20Ant%204.12b) insomuch
+id="EndNote Ant 4.12a"></span>[(12)](#EndNote%20Ant%204.12b.md) insomuch
 that your kinds of food are peculiar to yourselves, and your kinds of
 drink not common to others, it will be absolutely necessary, if you
 would have us for your wives, that you do withal worship our gods. Nor
@@ -941,7 +941,7 @@ so that all those their kindred, who, instead of hindering them from
 such wicked actions, as they ought to have done, had persuaded them to
 go on, were esteemed by God as partners in their wickedness, and died.
 Accordingly there perished out of the army no fewer than fourteen <span
-id="EndNote Ant 4.13a"></span>[(13)](#EndNote%20Ant%204.13b)
+id="EndNote Ant 4.13a"></span>[(13)](#EndNote%20Ant%204.13b.md)
 \[twenty-four\] thousand at this time.
 
 13\. This was the cause why Moses was provoked to send an army to
@@ -992,7 +992,7 @@ with an immense quantity of gold and silver furniture, which the
 Midianites made use of in their houses; for they were so wealthy, that
 they were very luxurious. There were also led captive about thirty-two
 thousand virgins. <span
-id="EndNote Ant 4.14a"></span>[(14)](#EndNote%20Ant%204.14b) So Moses
+id="EndNote Ant 4.14a"></span>[(14)](#EndNote%20Ant%204.14b.md) So Moses
 parted the prey into parts, and gave one fiftieth part to Eleazar and
 the two priests, and another fiftieth part to the Levites; and
 distributed the rest of the prey among the people. After which they
@@ -1095,7 +1095,7 @@ you, both on account of the great things I have already done for you,
 and because, when souls are about to leave the body, they speak with the
 sincerest freedom. O children of Israel! there is but one source of
 happiness for all mankind, the favor of God <span
-id="EndNote Ant 4.15a"></span>[(15)](#EndNote%20Ant%204.15b) for he
+id="EndNote Ant 4.15a"></span>[(15)](#EndNote%20Ant%204.15b.md) for he
 alone is able to give good things to those that deserve them, and to
 deprive those of them that sin against him; towards whom, if you behave
 yourselves according to his will, and according to what I, who well
@@ -1220,7 +1220,7 @@ therein, and one altar, not reared of hewn stones, but of such as you
 gather together at random; which stones, when they are whited over with
 mortar, will have a handsome appearance, and be beautiful to the sight.
 Let the ascent to it be not by steps <span
-id="EndNote Ant 4.16a"></span>[(16)](#EndNote%20Ant%204.16b) but by an
+id="EndNote Ant 4.16a"></span>[(16)](#EndNote%20Ant%204.16b.md) but by an
 acclivity of raised earth. And let there be neither an altar nor a
 temple in any other city; for God is but one, and the nation of the
 Hebrews is but one.
@@ -1251,7 +1251,7 @@ possess, so as may be to the honor of the donor.
 
 9\. You are not to offer sacrifices out of the hire of a woman who is a
 harlot <span
-id="EndNote Ant 4.17a"></span>[(17)](#EndNote%20Ant%204.17b) for the
+id="EndNote Ant 4.17a"></span>[(17)](#EndNote%20Ant%204.17b.md) for the
 Deity is not pleased with any thing that arises from such abuses of
 nature; of which sort none can be worse than this prostitution of the
 body. In like manner no one may take the price of the covering of a
@@ -1259,7 +1259,7 @@ bitch, either of one that is used in hunting, or in keeping of sheep,
 and thence sacrifice to God.
 
 10\. Let no one blaspheme those gods which other cities esteem such;
-<span id="EndNote Ant 4.18a"></span>[(18)](#EndNote%20Ant%204.18b) nor
+<span id="EndNote Ant 4.18a"></span>[(18)](#EndNote%20Ant%204.18b.md) nor
 may any one steal what belongs to strange temples, nor take away the
 gifts that are dedicated to any god.
 
@@ -1295,10 +1295,10 @@ their arms; as also they are to bear on their forehead and their arm
 those wonders which declare the power of God, and his good-will towards
 them, that God's readiness to bless them may appear every where
 conspicuous about them. <span
-id="EndNote Ant 4.19a"></span>[(19)](#EndNote%20Ant%204.19b)
+id="EndNote Ant 4.19a"></span>[(19)](#EndNote%20Ant%204.19b.md)
 
 14\. Let there be seven men to judge in every city, <span
-id="EndNote Ant 4.20a"></span>[(20)](#EndNote%20Ant%204.20b) and these
+id="EndNote Ant 4.20a"></span>[(20)](#EndNote%20Ant%204.20b.md) and these
 such as have been before most zealous in the exercise of virtue and
 righteousness. Let every judge have two officers allotted him out of the
 tribe of Levi*.* Let those that are chosen to judge in the several
@@ -1326,7 +1326,7 @@ sanhedrim, determine as it shall seem good to them.
 least, and those such whose testimony is confirmed by their good lives.
 But let not the testimony of women be admitted, on account of the levity
 and boldness of their sex <span
-id="EndNote Ant 4.21a"></span>[(21)](#EndNote%20Ant%204.21b) Nor let
+id="EndNote Ant 4.21a"></span>[(21)](#EndNote%20Ant%204.21b.md) Nor let
 servants be admitted to give testimony, on account of the ignobility of
 their soul; since it is probable that they may not speak truth, either
 out of hope of gain, or fear of punishment. But if any one be believed
@@ -1442,7 +1442,7 @@ how freely he communicates happiness to them, while they abundantly
 communicate out of their great superfluities to even these foreigners
 also. But for him that acts contrary to this law, let him be beaten with
 forty stripes save one <span
-id="EndNote Ant 4.22a"></span>[(22)](#EndNote%20Ant%204.22b) by the
+id="EndNote Ant 4.22a"></span>[(22)](#EndNote%20Ant%204.22b.md) by the
 public executioner; let him undergo this punishment, which is a most
 ignominious one for a free-man, and this because he was such a slave to
 gain as to lay a blot upon his dignity; for it is proper for you who
@@ -1456,7 +1456,7 @@ plenty, by the like sympathy, to such as stand in need of it.
 every year, the one for the Levites, the other for the festivals, you
 are to bring every third year a third tithe to be distributed to those
 that want; <span
-id="EndNote Ant 4.23a"></span>[(23)](#EndNote%20Ant%204.23b) to women
+id="EndNote Ant 4.23a"></span>[(23)](#EndNote%20Ant%204.23b.md) to women
 also that are widows, and to children that are orphans. But as to the
 ripe fruits, let them carry that which is ripe first of all into the
 temple; and when they have blessed God for that land which bare them,
@@ -1489,7 +1489,7 @@ lustful conjunction of such as marry women that are not free. If any one
 has been espoused to a woman as to a virgin, and does not afterward find
 her so to be, let him bring his action, and accuse her, and let him make
 use of such indications <span
-id="EndNote Ant 4.24a"></span>[(24)](#EndNote%20Ant%204.24b) to prove
+id="EndNote Ant 4.24a"></span>[(24)](#EndNote%20Ant%204.24b.md) to prove
 his accusation as he is furnished withal; and let the father or the
 brother of the damsel, or some one that is after them nearest of kin to
 her, defend her If the damsel obtain a sentence in her favor, that she
@@ -1525,7 +1525,7 @@ hath corrupted a virgin not yet espoused marry her; but if the father of
 the damsel be not willing that she should be his wife, let him pay fifty
 shekels as the price of her prostitution. He that desires to be divorced
 from his wife for any cause <span
-id="EndNote Ant 4.25a"></span>[(25)](#EndNote%20Ant%204.25b) whatsoever,
+id="EndNote Ant 4.25a"></span>[(25)](#EndNote%20Ant%204.25b.md) whatsoever,
 (and many such causes happen among men,) let him in writing give
 assurance that he will never use her as his wife any more; for by this
 means she may be at liberty to marry another husband, although before
@@ -1552,7 +1552,7 @@ deceased. And then let him go away out of the senate, and bear this
 reproach upon him all his life long; and let her marry to whom she
 pleases, of such as seek her in marriage. But now, if any man take
 captive, either a virgin, or one that hath been married, <span
-id="EndNote Ant 4.26a"></span>[(26)](#EndNote%20Ant%204.26b) and has a
+id="EndNote Ant 4.26a"></span>[(26)](#EndNote%20Ant%204.26b.md) and has a
 mind to marry her, let him not be allowed to bring her to bed to him, or
 to live with her as his wife, before she hath her head shaven, and hath
 put on her mourning habit, and lamented her relations and friends that
@@ -1597,7 +1597,7 @@ daughter brought to punishment. But if it happen that these words and
 instructions, conveyed by them in order to reclaim the man, appear to be
 useless, then the offender renders the laws implacable enemies to the
 insolence he has offered his parents; let him therefore be brought forth
-<span id="EndNote Ant 4.27a"></span>[(27)](#EndNote%20Ant%204.27b) by
+<span id="EndNote Ant 4.27a"></span>[(27)](#EndNote%20Ant%204.27b.md) by
 these very parents out of the city, with a multitude following him, and
 there let him be stoned; and when he has continued there for one whole
 day, that all the people may see him, let him be buried in the night.
@@ -1679,7 +1679,7 @@ expense for his cure, the smiter shall pay for all that has been
 expended during the time of his sickness, and for all that he has paid
 the physician. He that kicks a woman with child, so that the woman
 miscarry, <span
-id="EndNote Ant 4.28a"></span>[(28)](#EndNote%20Ant%204.28b) let him pay
+id="EndNote Ant 4.28a"></span>[(28)](#EndNote%20Ant%204.28b.md) let him pay
 a fine in money, as the judges shall determine, as having diminished the
 multitude by the destruction of what was in her womb; and let money also
 be given the woman's husband by him that kicked her; but if she die of
@@ -1687,7 +1687,7 @@ the stroke, let him also be put to death, the law judging it equitable
 that life should go for life.
 
 34\. Let no one of the Israelites keep any poison <span
-id="EndNote Ant 4.29a"></span>[(29)](#EndNote%20Ant%204.29b) that may
+id="EndNote Ant 4.29a"></span>[(29)](#EndNote%20Ant%204.29b.md) that may
 cause death, or any other harm; but if he be caught with it, let him be
 put to death, and suffer the very same mischief that he would have
 brought upon them for whom the poison was prepared.
@@ -1695,7 +1695,7 @@ brought upon them for whom the poison was prepared.
 35\. He that maimeth any one, let him undergo the like himself, and be
 deprived of the same member of which he hath deprived the other, unless
 he that is maimed will accept of money instead of it <span
-id="EndNote Ant 4.30a"></span>[(30)](#EndNote%20Ant%204.30b) for the law
+id="EndNote Ant 4.30a"></span>[(30)](#EndNote%20Ant%204.30b.md) for the law
 makes the sufferer the judge of the value of what he hath suffered, and
 permits him to estimate it, unless he will be more severe.
 
@@ -1707,7 +1707,7 @@ hath not kept him up, let him also be put to death, as being the
 occasion of the ox's having killed a man. But if the ox have killed a
 man-servant, or a maid-servant, let him be stoned; and let the owner of
 the ox pay thirty shekels <span
-id="EndNote Ant 4.31a"></span>[(31)](#EndNote%20Ant%204.31b) to the
+id="EndNote Ant 4.31a"></span>[(31)](#EndNote%20Ant%204.31b.md) to the
 master of him that was slain; but if it be an ox that is thus smitten
 and killed, let both the oxen, that which smote the other and that which
 was killed, be sold, and let the owners of them divide their price
@@ -1762,7 +1762,7 @@ procure them; for evident it is, that while their soul is become
 effeminate, they have withal transfused that effeminacy to their body
 also. In like manner do you treat all that is of a monstrous nature when
 it is looked on; nor is it lawful to geld men or any other animals.
-<span id="EndNote Ant 4.32a"></span>[(32)](#EndNote%20Ant%204.32b)
+<span id="EndNote Ant 4.32a"></span>[(32)](#EndNote%20Ant%204.32b.md)
 
 41\. Let this be the constitution of your political laws in time of
 peace, and God will be so merciful as to preserve this excellent
@@ -1828,7 +1828,7 @@ of a man, nor man the garment of a woman.
 
 44\. This was the form of political government which was left us by
 Moses. Moreover, he had already delivered laws in writing <span
-id="EndNote Ant 4.33a"></span>[(33)](#EndNote%20Ant%204.33b) in the
+id="EndNote Ant 4.33a"></span>[(33)](#EndNote%20Ant%204.33b.md) in the
 fortieth year \[after they came out of Egypt\], concerning which we will
 discourse in another book. But now on the following days (for he called
 them to assemble continually) he delivered blessings to them, and curses
@@ -1840,7 +1840,7 @@ of what was to come to pass afterward; agreeably whereto all things have
 happened all along, and do still happen to us; and wherein he has not at
 all deviated from the truth. Accordingly, he delivered these books to
 the priest, <span
-id="EndNote Ant 4.34a"></span>[(34)](#EndNote%20Ant%204.34b) with the
+id="EndNote Ant 4.34a"></span>[(34)](#EndNote%20Ant%204.34b.md) with the
 ark; into which he also put the ten commandments, written on two tables.
 He delivered to them the tabernacle also, and exhorted the people, that
 when they had conquered the land, and were settled in it, they should
@@ -1889,7 +1889,7 @@ wills. So the multitude bound themselves by oath so to do.
 46\. Moses taught them also by what means their sacrifices might be the
 most acceptable to God; and how they should go forth to war, making use
 of the stones (in the high priest's breastplate) for their direction,
-<span id="EndNote Ant 4.35a"></span>[(35)](#EndNote%20Ant%204.35b) as I
+<span id="EndNote Ant 4.35a"></span>[(35)](#EndNote%20Ant%204.35b.md) as I
 have before signified. Joshua also prophesied while Moses was present.
 And when Moses had recapitulated whatsoever he had done for the
 preservation of the people, both in their wars and in peace, and had
@@ -1933,7 +1933,7 @@ he, who is your Creator, hath given you*."*
 
 48\. When Moses had spoken thus at the end of his life, and had foretold
 what would befall to every one of their tribes <span
-id="EndNote Ant 4.36a"></span>[(36)](#EndNote%20Ant%204.36b) afterward,
+id="EndNote Ant 4.36a"></span>[(36)](#EndNote%20Ant%204.36b.md) afterward,
 with the addition of a blessing to them, the multitude fell into tears,
 insomuch that even the women, by beating their breasts, made manifest
 the deep concern they had when he was about to die. The children also
@@ -1992,12 +1992,12 @@ Moses.
 
 ENDNOTE
 
-<span id="EndNote Ant 4.1b"></span>[(1)](#EndNote%20Ant%204.1a) Reland
+<span id="EndNote Ant 4.1b"></span>[(1)](#EndNote%20Ant%204.1a.md) Reland
 here takes notice, that although our Bibles say little or nothing of
 these riches of Corah, yet that both the Jews and Mahommedans, as well
 as Josephus, are full of it.
 
-<span id="EndNote Ant 4.2b"></span>[(2)](#EndNote%20Ant%204.2a) It
+<span id="EndNote Ant 4.2b"></span>[(2)](#EndNote%20Ant%204.2a.md) It
 appears here, and from the Samaritan Pentateuch, and, in effect, from
 the psalmist, as also from the Apostolical Constitutions, from Clement's
 First Epistle to the Corinthians, from Ignatius's Epistle to the
@@ -2005,28 +2005,28 @@ Magnesians, and from Eusebius, that Corah was not swallowed up with the
 Reubenites, but burned with the Levites of his own tribe. See Essay on
 the Old Testament, p. 64, 65.
 
-<span id="EndNote Ant 4.3b"></span>[(3)](#EndNote%20Ant%204.3a)
+<span id="EndNote Ant 4.3b"></span>[(3)](#EndNote%20Ant%204.3a.md)
 Concerning these twelve rods of the twelve tribes of Israel, see St.
 Clement's account, much larger than that in our Bibles, 1 Epist. sect.
 45; as is Josephus's present account in measure larger also.
 
-<span id="EndNote Ant 4.4b"></span>[(4)](#EndNote%20Ant%204.4a) Grotius,
+<span id="EndNote Ant 4.4b"></span>[(4)](#EndNote%20Ant%204.4a.md) Grotius,
 on Numbers 6:18, takes notice that the Greeks also, aswell as the Jews,
 sometimes consecrated the hair of their heads to the gods.
 
-<span id="EndNote Ant 4.5b"></span>[(5)](#EndNote%20Ant%204.5a) Josephus
+<span id="EndNote Ant 4.5b"></span>[(5)](#EndNote%20Ant%204.5a.md) Josephus
 here uses this phrase, "when the fortieth year was completed," for when
 it was begun; as does St. Luke when the day of Pentecost was completed,"
 Acts 2:1.
 
-<span id="EndNote Ant 4.6b"></span>[(6)](#EndNote%20Ant%204.6a) Whether
+<span id="EndNote Ant 4.6b"></span>[(6)](#EndNote%20Ant%204.6a.md) Whether
 Miriam died, as Josephus's. Greek copies imply, on the first day of the
 month, may be doubted, because the Latin copies say it was on the tenth,
 and so say the Jewish calendars also, as Dr. Bernard assures us. It is
 said her sepulcher is still extant near Petra, the old capital city of
 Arabia Petraea, at this day; as also that of Aaron, not far off.
 
-<span id="EndNote Ant 4.7b"></span>[(7)](#EndNote%20Ant%204.7a) What
+<span id="EndNote Ant 4.7b"></span>[(7)](#EndNote%20Ant%204.7a.md) What
 Josephus here remarks is well worth our remark in this place also; viz.
 that the Israelites were never to meddle with the Moabites, or
 Ammonites, or any other people, but those belonging to the land of
@@ -2037,7 +2037,7 @@ them by God were their proper and peculiar portion among the nations,
 and that all who endeavored to dispossess them might ever be justly
 destroyed by them.
 
-<span id="EndNote Ant 4.8b"></span>[(8)](#EndNote%20Ant%204.8a) Note
+<span id="EndNote Ant 4.8b"></span>[(8)](#EndNote%20Ant%204.8a.md) Note
 that Josephus never supposes Balaam to be an idolater, nor to seek
 idolatrous enchantments, or to prophesy falsely, but to be no other than
 an ill-disposed prophet of the true God; and intimates that God's answer
@@ -2058,7 +2058,7 @@ justly takes notice in the cases of Samuel, Antiq. B. V. ch. 4. sect. 1,
 and Daniel, Antiq. B. X. ch. 11. sect. 3. See also Genesis 14:22, 23; 2
 Kings 5:15, 16, 26, 27; and Acts 8;17-24.
 
-<span id="EndNote Ant 4.9b"></span>[(9)](#EndNote%20Ant%204.9a) Whether
+<span id="EndNote Ant 4.9b"></span>[(9)](#EndNote%20Ant%204.9a.md) Whether
 Josephus had in his copy but two attempts of Balaam in all to curse
 Israel; or whether by this his twice offering sacrifice, he meant twice
 besides that first time already mentioned, which yet is not very
@@ -2066,21 +2066,21 @@ probable; cannot now be certainly determined. In the mean time, all
 other copies have three such attempts of Balaam to curse them in the
 present history.
 
-<span id="EndNote Ant 4.10b"></span>[(10)](#EndNote%20Ant%204.10a) Such
+<span id="EndNote Ant 4.10b"></span>[(10)](#EndNote%20Ant%204.10a.md) Such
 a large and distinct account of this perversion of the Israelites by the
 Midianite women, of which our other copies give us but short
 intimations, Numbers 31:16 2 Peter 2:15; Jude 11; Revelation 2:14, is
 preserved, as Reland informs us, in the Samaritan Chronicle, in Philo,
 and in other writings of the Jews, as well as here by Josephus.
 
-<span id="EndNote Ant 4.11b"></span>[(11)](#EndNote%20Ant%204.11a) This
+<span id="EndNote Ant 4.11b"></span>[(11)](#EndNote%20Ant%204.11a.md) This
 grand maxim, That God's people of Israel could never be hurt nor
 destroyed, but by drawing them to sin against God, appears to be true,
 by the entire history of that people, both in the Bible and in Josephus;
 and is often taken notice of in them both. See in particular a most
 remarkable Ammonite testimony to this purpose, Judith 5:5-21.
 
-<span id="EndNote Ant 4.12b"></span>[(12)](#EndNote%20Ant%204.12a) What
+<span id="EndNote Ant 4.12b"></span>[(12)](#EndNote%20Ant%204.12a.md) What
 Josephus here puts into the mouths of these Midianite women, who came to
 entice the Israelites to lewdness and idolatry, viz. that their worship
 of the God of Israel, in opposition to their idol gods, implied their
@@ -2093,13 +2093,13 @@ worship of the true God; it being of no less consequence than, Whether
 God's people should be governed by the holy laws of the true God, or by
 the impure laws derived from demons, under the pagan idolatry.
 
-<span id="EndNote Ant 4.13b"></span>[(13)](#EndNote%20Ant%204.13a) The
+<span id="EndNote Ant 4.13b"></span>[(13)](#EndNote%20Ant%204.13a.md) The
 mistake in all Josephus's copies, Greek and Latin which have here
 fourteen thousand instead of twenty-four thousand, is so flagrant, that
 our very learned editors, Bernard and Hudson, have put the latter number
 directly into the text. I choose rather to put it in brackets.
 
-<span id="EndNote Ant 4.14b"></span>[(14)](#EndNote%20Ant%204.14a) The
+<span id="EndNote Ant 4.14b"></span>[(14)](#EndNote%20Ant%204.14a.md) The
 slaughter of all the Midianite women that had prostituted themselves to
 the lewd Israelites, and the preservation of those that had not been
 guilty therein; the last of which were no fewer than thirty-two
@@ -2126,13 +2126,13 @@ burning of Sodom, the plagues of the Egyptians, and the slaughter of the
 inhabitants of Palestine," as signs of the most amazing impenitence and
 insensibility, under the punishments of horrid wickedness.
 
-<span id="EndNote Ant 4.15b"></span>[(15)](#EndNote%20Ant%204.15a)
+<span id="EndNote Ant 4.15b"></span>[(15)](#EndNote%20Ant%204.15a.md)
 Josephus here, in this one sentence, sums up his notion of Moses's very
 long and very serious exhortations in the book of Deuteronomy; and his
 words are so true, and of such importance, that they deserve to be had
 in constant remembrance.
 
-<span id="EndNote Ant 4.16b"></span>[(16)](#EndNote%20Ant%204.16a) This
+<span id="EndNote Ant 4.16b"></span>[(16)](#EndNote%20Ant%204.16a.md) This
 law, both here and Exodus 20:25, 26, of not going up to God's altar by
 ladder-steps, but on an acclivity, seems not to have belonged to the
 altar of the tabernacle, which was in all but three cubits high, Exodus
@@ -2148,12 +2148,12 @@ we now use, decency could not be otherwise provided for in the loose
 garments which the priests wore, as the law required. See Lamy of the
 Tabernacle and Temple, p. 444.
 
-<span id="EndNote Ant 4.17b"></span>[(17)](#EndNote%20Ant%204.17a) The
+<span id="EndNote Ant 4.17b"></span>[(17)](#EndNote%20Ant%204.17a.md) The
 hire of public or secret harlots was given to Venus in Syria, as Lucian
 informs us, p. 878; and against some such vile practice of the old
 idolaters this law seems to have been made.
 
-<span id="EndNote Ant 4.18b"></span>[(18)](#EndNote%20Ant%204.18a) The
+<span id="EndNote Ant 4.18b"></span>[(18)](#EndNote%20Ant%204.18a.md) The
 Apostolical Constitutions, B. II. ch. 26. sect. 31, expound this law of
 Moses, Exodus 22. 28, "Thou shalt not revile or blaspheme the gods," or
 magistrates, which is a much more probable exposition than this of
@@ -2162,7 +2162,7 @@ sect. 31. What book of the law was thus publicly read, see the note on
 Antiq. B. X. ch. 5. sect. 5, and 1 Esd. 9:8-55.
 
 <span
-id="EndNote Ant 4.19b"></span>[(19)](#EndNote%20Ant%204.19a)Whether
+id="EndNote Ant 4.19b"></span>[(19)](#EndNote%20Ant%204.19a.md)Whether
 these phylacteries, and other Jewish memorials of the law here mentioned
 by Josephus, and by Muses, (besides the fringes on the borders of their
 garments, Numbers 15:37,) were literally meant by God, I much question.
@@ -2177,25 +2177,25 @@ among the Jews, though their real or mystical signification, i.e. the
 constant remembrance and observation of the laws of God by Moses, be
 frequently inculcated in all the sacred writings.
 
-<span id="EndNote Ant 4.20b"></span>[(20)](#EndNote%20Ant%204.20a) Here,
+<span id="EndNote Ant 4.20b"></span>[(20)](#EndNote%20Ant%204.20a.md) Here,
 as well as elsewhere, sect. 38, of his Life, sect. 14, and of the War,
 B. II. ch. 20. sect. 5, are but seven judges appointed for small cities,
 instead of twenty-three in the modern Rabidns; which modern Rabbis are
 always but of very little authority in comparison of our Josephus.
 
-<span id="EndNote Ant 4.21b"></span>[(21)](#EndNote%20Ant%204.21a) I
+<span id="EndNote Ant 4.21b"></span>[(21)](#EndNote%20Ant%204.21a.md) I
 have never observed elsewhere, that in the Jewish government women were
 not admitted as legal witnesses in courts of justice. None of our copies
 of the Pentateuch say a word of it. It is very probable, however, that
 this was the exposition of the scribes and Pharisees, and the practice
 of the Jews in the days of Josephus.
 
-<span id="EndNote Ant 4.22b"></span>[(22)](#EndNote%20Ant%204.22a) This
+<span id="EndNote Ant 4.22b"></span>[(22)](#EndNote%20Ant%204.22a.md) This
 penalty of "forty stripes save one," here mentioned, and sect. 23, was
 five times inflicted on St. Paul himself by the Jews, 2 Corinthians
 11:24
 
-<span id="EndNote Ant 4.23b"></span>[(23)](#EndNote%20Ant%204.23a)
+<span id="EndNote Ant 4.23b"></span>[(23)](#EndNote%20Ant%204.23a.md)
 Josephus's plain and express interpretation of this law of Moses,
 Deuteronomy 14:28, 29; 26:12, etc., that the Jews were bound every third
 year to pay three tithes, that to the Levites, that for sacrifices at
@@ -2203,7 +2203,7 @@ Jerusalem, and this for the indigent, the widow, and the orphans, is
 fully confirmed by the practice of good old Tobit, even when he was a
 captive in Assyria, against the opinions of the Rabbins, Tobit 1:6-8.
 
-<span id="EndNote Ant 4.24b"></span>[(24)](#EndNote%20Ant%204.24a) These
+<span id="EndNote Ant 4.24b"></span>[(24)](#EndNote%20Ant%204.24a.md) These
 tokens of virginity, as the Hebrew and Septuagint style them,
 Deuteronomy 22:15, 17, 20, seem to me very different from what our later
 interpreters suppose. They appear rather to have been such close linen
@@ -2216,22 +2216,22 @@ he thought he could not easily describe them to the heathens, without
 saying what they might have thought a breach of modesty; which seeming
 breach of modesty laws cannot always wholly avoid.
 
-<span id="EndNote Ant 4.25b"></span>[(25)](#EndNote%20Ant%204.25a) These
+<span id="EndNote Ant 4.25b"></span>[(25)](#EndNote%20Ant%204.25a.md) These
 words of Josephus are very like those of the Pharisees to our Savior
 upon this very subject, Matthew 19:3, "Is it lawful for a man to put
 away his wife for every cause?"
 
-<span id="EndNote Ant 4.26b"></span>[(26)](#EndNote%20Ant%204.26a) Here
+<span id="EndNote Ant 4.26b"></span>[(26)](#EndNote%20Ant%204.26a.md) Here
 it is supposed that this captive's husband, if she were before a married
 woman, was dead before, or rather was slain in this very battle,
 otherwise it would have been adultery in him that married her.
 
-<span id="EndNote Ant 4.27b"></span>[(27)](#EndNote%20Ant%204.27a) See
+<span id="EndNote Ant 4.27b"></span>[(27)](#EndNote%20Ant%204.27a.md) See
 Herod the Great insisting on the execution of this law, with relation to
 two of his own sons, before the judges at Berytus, Antiq. B. XVI. ch.
 11. sect. 2.
 
-<span id="EndNote Ant 4.28b"></span>[(28)](#EndNote%20Ant%204.28a) Philo
+<span id="EndNote Ant 4.28b"></span>[(28)](#EndNote%20Ant%204.28a.md) Philo
 and others appear to have understood this law, Exodus 21:22, 23, better
 than Josephus, who seems to allow, that though the infant in the
 mother's womb, even after the mother were quick, and so the infant had a
@@ -2242,22 +2242,22 @@ killed, though the mother escape, the offender must be put to death, and
 not only when the mother is killed, as Josehus understood it. It seems
 this was the exposition of the Pharisees in the days of Josephus.
 
-<span id="EndNote Ant 4.29b"></span>[(29)](#EndNote%20Ant%204.29a) What
+<span id="EndNote Ant 4.29b"></span>[(29)](#EndNote%20Ant%204.29a.md) What
 we render a witch, according to our modern notions of witchcraft, Exodus
 22:15, Philo and Josephus understood of a poisoner, or one who attempted
 by secret and unlawful drugs or philtra, to take away the senses or the
 lives of men.
 
-<span id="EndNote Ant 4.30b"></span>[(30)](#EndNote%20Ant%204.30a) This
+<span id="EndNote Ant 4.30b"></span>[(30)](#EndNote%20Ant%204.30a.md) This
 permission of redeeming this penalty with money is not in our copies,
 Exodus 21:24, 25; Leviticus 24:20; Deuteronomy 19:21.
 
-<span id="EndNote Ant 4.31b"></span>[(31)](#EndNote%20Ant%204.31a) We
+<span id="EndNote Ant 4.31b"></span>[(31)](#EndNote%20Ant%204.31a.md) We
 may here note, that thirty shekels, the price our Savior was sold for by
 Judas to the Jews, Matthew 26:15, and 27;3, was the old value of a
 bought servant or slave among that people.
 
-<span id="EndNote Ant 4.32b"></span>[(32)](#EndNote%20Ant%204.32a) This
+<span id="EndNote Ant 4.32b"></span>[(32)](#EndNote%20Ant%204.32a.md) This
 law against castration, even of brutes, is said to be so rigorous
 elsewhere, as to inflict death on him that does it. which seems only a
 Pharisaical interpretation in the days of Josephus of that law,
@@ -2265,14 +2265,14 @@ Leviticus 21:20, and 22:24: only we may hence observe, that the Jews
 could then have no oxen which are gelded, but only bulls and cows, in
 Judea.
 
-<span id="EndNote Ant 4.33b"></span>[(33)](#EndNote%20Ant%204.33a) These
+<span id="EndNote Ant 4.33b"></span>[(33)](#EndNote%20Ant%204.33a.md) These
 laws seem to be those above-mentioned, sect, 4, of this chapter.
 
-<span id="EndNote Ant 4.34b"></span>[(34)](#EndNote%20Ant%204.34a) What
+<span id="EndNote Ant 4.34b"></span>[(34)](#EndNote%20Ant%204.34a.md) What
 laws were now delivered to the priests, see the note on Antiq. B. III.
 ch. 1. sect. 7,
 
-<span id="EndNote Ant 4.35b"></span>[(35)](#EndNote%20Ant%204.35a) Of
+<span id="EndNote Ant 4.35b"></span>[(35)](#EndNote%20Ant%204.35a.md) Of
 the exact place where this altar was to be built, whether nearer Mount
 Gerizzim or Mount Ebal, according to Josephus, see Essay on the Old
 Testament, p. 168--171.
@@ -2287,11 +2287,11 @@ Scripture Politics, p. 55, 56; and this snare they were brought into
 because they "did not ask counsel at the mouth of the Lord," Joshua
 9:14.
 
-<span id="EndNote Ant 4.36b"></span>[(36)](#EndNote%20Ant%204.36a) Since
+<span id="EndNote Ant 4.36b"></span>[(36)](#EndNote%20Ant%204.36a.md) Since
 Josephus assures us here, as is most naturally to be supposed, and as
 the Septuagint gives the text, Deuteronomy 33:6, that Moses blessed
 every one of the tribes of Israel, it is evident that Simeon was not
 omitted in his copy, as it unhappily now is, both in our Hebrew and
 Samaritan copies.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

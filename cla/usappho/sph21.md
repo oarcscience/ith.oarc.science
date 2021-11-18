@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph20)  [Next](sph22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph20)  [Next](sph22.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM20">20</span>
 
-... Παντοδάπαισ μεμιγμένα χροίαισιν. [\[transcription\]](xlatall.htm#34)
+... Παντοδάπαισ μεμιγμένα χροίαισιν. [\[transcription\]](xlatall.htm#34.md)
 
 Shot with innumerable hues.
 
@@ -15,4 +15,4 @@ reference may be to the rainbow.
 
 ------------------------------------------------------------------------
 
-[Next: 21: Thou forgettest me.](sph22)
+[Next: 21: Thou forgettest me.](sph22.md)

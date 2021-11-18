@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe04)  [Next](boe06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe04)  [Next](boe06.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ sometimes with pure gold.
 
 ------------------------------------------------------------------------
 
-[Next: Figures of Earth](boe06)
+[Next: Figures of Earth](boe06.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/tem)  [Previous](../tac/tac) 
-[Next](../tgv/tgv) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/tem)  [Previous](../tac/tac.md) 
+[Next](../tgv/tgv.md) 
 
 ------------------------------------------------------------------------
 
@@ -3410,4 +3410,4 @@ Index](../index)  [First Folio](../ff/tem)  [Previous](../tac/tac) 
 
 ------------------------------------------------------------------------
 
-[Next: Two Gentlemen of Verona](../tgv/tgv) 
+[Next: Two Gentlemen of Verona](../tgv/tgv.md) 

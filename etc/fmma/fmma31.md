@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma30)  [Next](fmma32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma30)  [Next](fmma32.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ has been no leader like him in that part of Asia.
 
 ------------------------------------------------------------------------
 
-[Next: Henry V. King From 1413-1422](fmma32)
+[Next: Henry V. King From 1413-1422](fmma32.md)

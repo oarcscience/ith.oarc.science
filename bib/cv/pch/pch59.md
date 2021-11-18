@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch58) 
-[Next](pch60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch58.md) 
+[Next](pch60.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -40,21 +40,21 @@ he worked miracles, sent for him to heal his sick son, and on the
 child's dying put Manes in prison. Thence he escaped, flying into
 Mesopotamia, but was traced, captured, and flayed alive by the Persian
 king's orders, the skin being then stuffed with chaff and hung up before
-the gate of the city. <span id="fr_1308"></span>[1](#fn_1308)
+the gate of the city. <span id="fr_1308"></span>[1](#fn_1308.md)
 
 For this narrative, the historian Socrates, writing in the fifth
 century, gives as his authority "The Disputation \[with Manes\] of
 Archelaus bishop of Caschar," a work either unknown to or disregarded by
 Eusebius, who in his History briefly vilifies Manes <span
-id="fr_1309"></span>[2](#fn_1309) without giving any of the above
+id="fr_1309"></span>[2](#fn_1309.md) without giving any of the above
 details. In the Chronicon of Eusebius the origin of the sect is placed
 in the second year of Probus, C.E. 277; but this passage is probably
-from the hand of Jerome. <span id="fr_1310"></span>[3](#fn_1310)
+from the hand of Jerome. <span id="fr_1310"></span>[3](#fn_1310.md)
 According to Jerome, Archelaus wrote his account of his Disputation with
 "Manichæus" in Syriac, whence it was translated into Greek. The Greek is
 lost, and the work, apart from extracts, subsists only in a Latin
 translation from the Greek, of doubtful age and fidelity, <span
-id="fr_1311"></span>[4](#fn_1311) probably made after the fifth century.
+id="fr_1311"></span>[4](#fn_1311.md) probably made after the fifth century.
 By Photius it is stated that Heraclean, bishop of Chalcedon, in his book
 against the Manichæans, said the \[Greek\] Disputation of Archelaus was
 
@@ -82,7 +82,7 @@ that Scythianus lived "in the time of the Apostles"; (2) that
 Terebinthus said the name of Buddas had been imposed on him; (3) that in
 the mountains he had been brought up by an angel; (4) that he had been
 convicted of imposture by a Persian prophet named Parcus, and by
-Labdacus, son <span id="fr_1312"></span>[1](#fn_1312) of Mithra; (5)
+Labdacus, son <span id="fr_1312"></span>[1](#fn_1312) of Mithra; (5.md)
 that in the disputation he taught concerning the sphere, the two
 luminaries, the transmigration of souls, and the war of the "Principia"
 against God; (6) that "Corbicius" or Corbicus, about the age of sixty,
@@ -100,7 +100,7 @@ That this narrative is historically worthless is admitted by all
 critical students since Beausobre; and recent historians turn from the
 Christian to the oriental accounts of the heresiarch for a credible
 view. There "Mani" is described as a painter, <span
-id="fr_1313"></span>[2](#fn_1313) who set up a
+id="fr_1313"></span>[2](#fn_1313.md) who set up a
 
 <span id="page_266">p. 266</span>
 
@@ -119,13 +119,13 @@ joined and protected the sect; and built Mani a castle. The next king,
 Bahram or Varanes, at first favoured Mani; but, after getting him to
 debate with certain Zoroastrian teachers, caused him to be flayed alive,
 and the skin to be stuffed and hung up as alleged by the
-Christians. <span id="fr_1314"></span>[1](#fn_1314) Thereupon most of
+Christians. <span id="fr_1314"></span>[1](#fn_1314.md) Thereupon most of
 his followers fled to India, and some even to China, those remaining
 being reduced to slavery.
 
 In yet another Mohammedan account we have the details that Mani's mother
 was named Meis or Utachin, or Mar Marjam (Sancta Maria); and that he was
-supernaturally born. <span id="fr_1315"></span>[2](#fn_1315) At the
+supernaturally born. <span id="fr_1315"></span>[2](#fn_1315.md) At the
 behest of an angel he began his public career, with two companions, at
 the age of twenty-four, on a Sunday, the first day of Nisan, when the
 sun was in Aries. He travelled for about forty years; wrote *six* books,
@@ -134,7 +134,7 @@ Shapur." Some say he was crucified "in two halves" and so hung up at two
 gates, afterwards called High-Mani and Low-Mani; others that he was
 imprisoned by Shapur and freed by Bahram; others that he died in prison.
 "But he was certainly crucified." <span
-id="fr_1316"></span>[3](#fn_1316)
+id="fr_1316"></span>[3](#fn_1316.md)
 
 Thus the sole detail which the Mohammedan and Christian writers have in
 common is that of the execution with its exemplary sequel.
@@ -150,17 +150,17 @@ possible implication that such a book was a novelty in Persia, despite
 Mani's profession. Baur and Neander, accordingly, combining the
 Christian clue of the name Buddas with the Persian clue to Turkestan,
 infer that in that territory Mani acquired a knowledge of
-Buddhism. <span id="fr_1317"></span>[1](#fn_1317) To this solution,
+Buddhism. <span id="fr_1317"></span>[1](#fn_1317.md) To this solution,
 however, there are several objections. In the first place, there are in
 Manichæism only shadowy analogies to Buddhism; and in the second, the
 name *Buddas* is plausibly interpreted as being merely a Greek
 corruption of *Butm* or *Budm*, the Chaldaic name of the terebinth
 tree—a simple translation of Terebinthus. <span
-id="fr_1318"></span>[2](#fn_1318) On the other hand, Ritter has
+id="fr_1318"></span>[2](#fn_1318.md) On the other hand, Ritter has
 conjectured that "Terebinthus" may be a corruption of Buddha's title
 "Tere Hintu," Lord of the Hindus. Finally, it has to be noted that
 Herodotus repeatedly mentions a people called the *Budini*, <span
-id="fr_1319"></span>[3](#fn_1319) among whom were settled the Neuri, who
+id="fr_1319"></span>[3](#fn_1319.md) among whom were settled the Neuri, who
 "seem to be magicians"; so that "Buddas" might be a reminiscence of
 *their* repute. We have thus a pleasing variety of choices!
 
@@ -168,24 +168,24 @@ id="fr_1319"></span>[3](#fn_1319) among whom were settled the Neuri, who
 
 ### Footnotes
 
-<span id="fn_1308"></span>[264:1](pch59.htm#fr_1308) Socrates, *Hist.
+<span id="fn_1308"></span>[264:1](pch59.htm#fr_1308.md) Socrates, *Hist.
 Eccles.* i, 22.
 
-<span id="fn_1309"></span>[264:2](pch59.htm#fr_1309) Eusebius, *Hist.
+<span id="fn_1309"></span>[264:2](pch59.htm#fr_1309.md) Eusebius, *Hist.
 Eccles.* vii. 31.
 
-<span id="fn_1310"></span>[264:3](pch59.htm#fr_1310) So Tillemont and
+<span id="fn_1310"></span>[264:3](pch59.htm#fr_1310.md) So Tillemont and
 Lardner (*Works*, ed. 1835, iii, 256, 261). Beausobre (*Hist. de
 Manichée et du Manichéisme*, 1734, i, 122) held it to be by Eusebius.
 
-<span id="fn_1311"></span>[264:4](pch59.htm#fr_1311) Cp. Neander, *Gen.
+<span id="fn_1311"></span>[264:4](pch59.htm#fr_1311.md) Cp. Neander, *Gen.
 Hist. of Christ. Church*, Eng. tr. (Bohn) ii, 166, *note*, as to the
 evidence for embellishment in the Greek and Latin versions.
 
-<span id="fn_1312"></span>[265:1](pch59.htm#fr_1312) Epiphanius, citing
+<span id="fn_1312"></span>[265:1](pch59.htm#fr_1312.md) Epiphanius, citing
 the Greek version, has *neokoros*, "temple officer."
 
-<span id="fn_1313"></span>[265:2](pch59.htm#fr_1313) Dr. Marcus Dods, in
+<span id="fn_1313"></span>[265:2](pch59.htm#fr_1313.md) Dr. Marcus Dods, in
 his preface to Mr. Stothert's translation of the writings of Augustine
 against the Manichæans, writes: "Hyde......tells us that in Persian
 *mani* means painter, and that he was so called from his profession."
@@ -196,7 +196,7 @@ Beausobre (ed. 1734, i, 71), from whose work Dr. Dods quotes a passage
 simply wrote: "Manes Persa, in eorum libris dictus Mani pictor, nam
 talis fuit professions sua" (c. 21, p. 280).
 
-<span id="fn_1314"></span>[266:1](pch59.htm#fr_1314) D’Herbelot,
+<span id="fn_1314"></span>[266:1](pch59.htm#fr_1314.md) D’Herbelot,
 *Bibliothèque Orientale*, *s.v.* *Mani*, following the Persian historian
 Khondemir and others. Hyde (*De relig. vet. Persar.* c. 21), also
 following Khondemir, gives the detail as to temple-painting; reads
@@ -204,22 +204,22 @@ following Khondemir, gives the detail as to temple-painting; reads
 making "Behrem" reign when Mani returns to Persia; and states that Mani
 was *crucified*.
 
-<span id="fn_1315"></span>[266:2](pch59.htm#fr_1315) Gustav Flügel,
+<span id="fn_1315"></span>[266:2](pch59.htm#fr_1315.md) Gustav Flügel,
 *Mani, seine Lehre and seine Schriften*, 18f 2 (trans. from the Fihrist
 of Muhammad ben Ishak al Nurrâk, with commentary), pp. 83-4. Meis is a
 name of the lotus or pepper-tree. *Id*. p. 117.
 
-<span id="fn_1316"></span>[266:3](pch59.htm#fr_1316) *Id*. pp. 84, 97,
+<span id="fn_1316"></span>[266:3](pch59.htm#fr_1316.md) *Id*. pp. 84, 97,
 99-100, 102-3; Beausobre, i, 206.
 
-<span id="fn_1317"></span>[267:1](pch59.htm#fr_1317) Neander, as cited,
+<span id="fn_1317"></span>[267:1](pch59.htm#fr_1317.md) Neander, as cited,
 ii, 170, regards the cave in Turkestan as a "Buddhist grotto."
 
-<span id="fn_1318"></span>[267:2](pch59.htm#fr_1318) Beausobre, i,
+<span id="fn_1318"></span>[267:2](pch59.htm#fr_1318.md) Beausobre, i,
 54-55; Hyde and Bochart as there cited; Neander, as cited, p. 166, note.
 
-<span id="fn_1319"></span>[267:3](pch59.htm#fr_1319) Herod. iv, 105-9.
+<span id="fn_1319"></span>[267:3](pch59.htm#fr_1319.md) Herod. iv, 105-9.
 
 ------------------------------------------------------------------------
 
-[Next: § 15. The Manichean Solution](pch60)
+[Next: § 15. The Manichean Solution](pch60.md)

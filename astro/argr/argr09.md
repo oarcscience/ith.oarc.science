@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](argr08)  [Next](argr10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](argr08)  [Next](argr10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Astrology and Religion Among the Greeks and Romans*, by Franz Cumont,
 \[1912\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88F0/internetsacredte)
 ### LECTURE IV. Theology
 
 Posidonius defined man as "the beholder and expounder of heaven." <span
-id="fr_59"></span>[1](#fn_59) Nature itself--the ancients vied with each
+id="fr_59"></span>[1](#fn_59.md) Nature itself--the ancients vied with each
 other in insisting on this point--destined him to contemplate the sky
 and to observe its perpetual motions. Other animals bend towards the
 earth, but man proudly raises his eyes to the stars,--this is an idea
@@ -52,14 +52,14 @@ stars themselves prove to us
 their divinity so clearly that to fail to see it is to be incapable of
 seeing anything. Nobody could deny to the heavenly bodies the possession
 of reason without being himself destitute of it: that at least is the
-opinion of Cicero. <span id="fr_60"></span>[1](#fn_60) The view of the
+opinion of Cicero. <span id="fr_60"></span>[1](#fn_60.md) The view of the
 starry heaven thus led to astronomy and to philosophy, which are the
 queens of the sciences, the one in the domain of the visible, the other
 in the domain of ideas; and the study of these is the noblest employment
 to which man can put his faculties.
 
 We have seen that since the days of Plato and Aristotle, and even
-earlier, <span id="fr_61"></span>[2](#fn_61) Greek thinkers proved the
+earlier, <span id="fr_61"></span>[2](#fn_61.md) Greek thinkers proved the
 divinity of the stars by the character of their movements, and in a
 general way all metaphysicians point to the order of nature as proving
 the existence of God. Voltaire himself in the *Philosophical Dictionary*
@@ -75,7 +75,7 @@ of its learned origin.
 The essential quality of these sidereal gods, the one most frequently
 insisted upon, is that they are everlasting. We have seen that astronomy
 had led the old Chaldeans to this notion. <span
-id="fr_62"></span>[3](#fn_62) The invariability of the revolutions of
+id="fr_62"></span>[3](#fn_62.md) The invariability of the revolutions of
 the heavenly bodies led to the conclusion that they were eternal. The
 stars unceasingly pursue their never-ending course; arrived at the limit
 of their path, they resume without pause the race already run, and the
@@ -130,7 +130,7 @@ throne like shadows across a screen, seems almost cruelly ironical.
 
 This, however, is but a political caricature of a great religious
 idea,--an idea which appealed to the imagination, and which poetry also
-adopted. Manilius <span id="fr_63"></span>[1](#fn_63) contrasts the
+adopted. Manilius <span id="fr_63"></span>[1](#fn_63.md) contrasts the
 permanence of the heavens with the frailty of earthly things:
 
 <span class="small">Thrones have perished, peoples passed from dominion
@@ -157,7 +157,7 @@ was not defined as a conception of the reason, or in Kant's phrase, "*a
 priori* form of conception." This is a being who has an existence *per
 se*, who is even regarded sometimes as a material body, and who is
 endowed with an activity of his own. "Zeno," says Cicero, <span
-id="fr_64"></span>[2](#fn_64) "attributed a divine power (*vis divina*)
+id="fr_64"></span>[2](#fn_64) "attributed a divine power (*vis divina*.md)
 to the stars, but also to the years, the months, and the seasons." We
 have here a very ancient belief, which is found for instance in Egypt.
 The magic idea of a power superior to man is connected, from the very
@@ -172,7 +172,7 @@ intervals. It is an empirical fact that the return of fixed moments is
 associated with the appearance of certain phenomena: it is easy to
 believe that the one is the cause of the other. They have therefore a
 peculiar efficacy, a sacred character. <span
-id="fr_65"></span>[1](#fn_65) Astronomy fixed the duration of these
+id="fr_65"></span>[1](#fn_65.md) Astronomy fixed the duration of these
 periods with an ever-increasing accuracy: it not only distinguished the
 sequence of days and nights, but also that of the months, corresponding
 to the revolutions of the moon, and that of the years, corresponding to
@@ -185,7 +185,7 @@ each division of time under the protection of a star in its system of
 
 When the idea of an Eternity arose, more vast than the sum-total of
 years and centuries, it was regarded likewise as a divinity. "General
-opinion," says Proclus, <span id="fr_66"></span>[2](#fn_66) "makes the
+opinion," says Proclus, <span id="fr_66"></span>[2](#fn_66.md) "makes the
 Hours goddesses and the Month a god, and their worship has been handed
 on to us: we say also that the Day and the Night are deities, and the
 gods themselves have taught us how to call upon them. Does it not
@@ -229,7 +229,7 @@ modern art.
 
 Like the divisions of Time, numbers were divine for a similar reason.
 The ancients said that they had been revealed to mankind by the motions
-of the stars. <span id="fr_67"></span>[1](#fn_67) In fact the progress
+of the stars. <span id="fr_67"></span>[1](#fn_67.md) In fact the progress
 of mathematics must often have been a result of the progress of
 astronomy, and the former participated in the sacred character of the
 latter. Certain numerals were thus considered for astronomical reasons
@@ -265,7 +265,7 @@ power is unlimited in space as in time. Already in Syria the Baals, who
 had become solar deities, bore the title of *Mar‘olam*, which may be
 translated "Lord of the Universe" as well as "Lord of Eternity," and men
 undoubtedly liked to claim for them this double quality. <span
-id="fr_68"></span>[1](#fn_68) With earthly *genii* or demons, who
+id="fr_68"></span>[1](#fn_68.md) With earthly *genii* or demons, who
 protected definite spots, were contrasted the celestial gods, who are
 "catholic." This word, which was to have such a great destiny, was at
 first merely an astrological term: it denoted activities which are not
@@ -317,7 +317,7 @@ proceed to pass in review these various divinities.
 <span id="img_sep"></span> ![](img/sep.jpg)
 
 The highest of these gods is Heaven (Οὐρανός, *Caelus*), "*Summus ipse
-deus*," says Cicero, <span id="fr_69"></span>[1](#fn_69) "*arcens et
+deus*," says Cicero, <span id="fr_69"></span>[1](#fn_69.md) "*arcens et
 continens ceteros*," that is to say, the heaven of the fixed stars,
 which embraces all the other spheres. The divine Power which there
 resides, and which causes it to move, was sometimes in the West
@@ -342,7 +342,7 @@ theologians the personification of the two hemispheres.
 
 But each of the constellations, each star which glittered in the eternal
 vault, was equally divine. Each had its myth. As we have already
-said, <span id="fr_70"></span>[1](#fn_70) the traditional figures which
+said, <span id="fr_70"></span>[1](#fn_70.md) the traditional figures which
 we reproduce on our celestial charts, are the fossil remains of a
 luxuriant mythological vegetation. The sidereal monsters, to which
 potent virtues were attributed, were the residuum of a number of
@@ -374,7 +374,7 @@ Fleece which had carried off Phrixus and Helle over the sea and had let
 the maiden fall into the waves of the Hellespont. It might also be that
 which was the subject of the dispute between Atreus and Thyestes, or
 again it might be the ram which guided the thirsty company of Bacchus to
-the wells of the oasis of Ammon." <span id="fr_71"></span>[1](#fn_71)
+the wells of the oasis of Ammon." <span id="fr_71"></span>[1](#fn_71.md)
 
 But this patch-work assemblage of heroes, animals, and sacred objects
 was scarcely worshipped save *en bloc*. Particular veneration was
@@ -426,7 +426,7 @@ have a decisive influence on all physical and moral phenomena of this
 world. They exercise a manifold patronage, more diverse and more
 extensive than that of the gods of Olympus and the saints of Paradise.
 They are the tutelary deities not only of the series of days, <span
-id="fr_72"></span>[1](#fn_72) but of that of the hours, and even of
+id="fr_72"></span>[1](#fn_72.md) but of that of the hours, and even of
 centuries and millenaries. To each was attached a plant, a metal, a
 stone, which derived miraculous powers from this special protection.
 Each presided over a period of life, a portion of the body, and a
@@ -434,7 +434,7 @@ faculty of the soul, possessed a colour and a taste, corresponded to one
 of the vowels. These various relations in which they were supposed to
 stand to the whole of nature, afforded numerous opportunities for paying
 them worship. As we shall see in another lecture, <span
-id="fr_73"></span>[2](#fn_73) their worship was much more popular than
+id="fr_73"></span>[2](#fn_73.md) their worship was much more popular than
 that of the other sidereal gods, and their images are reproduced on
 monuments with much greater frequency.
 
@@ -502,10 +502,10 @@ all the other parts of the universe.
 But this is not the theory which triumphed in the Roman empire. Rather
 it was supposed that the motive power, which set in motion all the
 cosmic organism, came from the Sun, and thus the Sun was raised to the
-rank of a Supreme God. <span id="fr_74"></span>[1](#fn_74) This
+rank of a Supreme God. <span id="fr_74"></span>[1](#fn_74.md) This
 Sun-worship was the logical result of a paganism steeped in erudition,
 which had become a religious form of cosmology. Renan <span
-id="fr_75"></span>[2](#fn_75) once observed: "The life of our planet has
+id="fr_75"></span>[2](#fn_75.md) once observed: "The life of our planet has
 its real source in the sun. All force is a transformation of the sun.
 Before religion had gone so far as to proclaim that God must be placed
 in the absolute and the ideal, that is to say, outside of the world, one
@@ -578,7 +578,7 @@ more clearly the ties which, in the religions of the East, united
 intellectual research with the evolution of belief.
 
 According to the so-called "Chaldean" system, the sun, as we have
-seen, <span id="fr_76"></span>[1](#fn_76) occupies the fourth rank in
+seen, <span id="fr_76"></span>[1](#fn_76.md) occupies the fourth rank in
 the series of planets. Three are above it, Mars, Jupiter, and Saturn,
 and three below it, Venus, Mercury, and the Moon. In other words, the
 Sun moves in the midst of the heavenly spheres. It occupies the central
@@ -653,20 +653,20 @@ movements of the stars which at every moment inspires their
 ever-changing motions, that to which they owe all their qualities and
 perhaps even (as some believed) their light. Pliny already recognised it
 as the sovereign divinity which governed nature, *principale naturae
-regimen ac numen*. <span id="fr_77"></span>[1](#fn_77)
+regimen ac numen*. <span id="fr_77"></span>[1](#fn_77.md)
 
 But this universe, so well ordered, cannot be driven by a blind force.
 The sun, which directs the harmonious movements of the cosmic organism,
 will, then, be a fire endowed with reason, an intelligent light (φῶς
 νοερόν). It will be regarded by heathen theologians as the reason which
 controls the world, *mens mundi et temperatio*. <span
-id="fr_78"></span>[2](#fn_78) The most important corollaries will be
+id="fr_78"></span>[2](#fn_78.md) The most important corollaries will be
 drawn from this, for the sun, the reason of the world, will become the
 creator of the particular reason which directs the human microcosm. To
 it is attributed the formation of souls. Its glowing disk, darting its
 rays upon the earth, constantly sent particles of fire into the bodies
 which it called to life, and after death, as we shall see, <span
-id="fr_79"></span>[3](#fn_79) it caused them to reascend to it. Such, in
+id="fr_79"></span>[3](#fn_79.md) it caused them to reascend to it. Such, in
 its broad outlines, is the scientific theology which provided both a
 foundation and a justification for Roman Sun-worship.
 
@@ -697,7 +697,7 @@ Sun" as the master of all nature, creator and preserver of men.
 
 This Sun-worship was the final form which Roman paganism assumed. In 274
 the emperor Aurelian, as we have seen, <span
-id="fr_80"></span>[1](#fn_80) conferred on it official recognition when,
+id="fr_80"></span>[1](#fn_80.md) conferred on it official recognition when,
 on his return from Syria, inspired by what he had seen at Palmyra, he
 founded a gorgeous temple in honour of *Sol invictus*, served by priests
 who had precedence even over the members of the ancient *Collegium
@@ -797,74 +797,74 @@ that which put forth the most powerful effort to save it.
 
 ### Footnotes
 
-<span id="fn_59"></span>[57:1](argr09.htm#fr_59) Capelle, *Die Schrift
+<span id="fn_59"></span>[57:1](argr09.htm#fr_59.md) Capelle, *Die Schrift
 von der Welt*, Leipzig, 1895, p. 6 \[534\], n. 4. "*Contemplatorem
 caeli*." "Οὐ μόνον θεατὴν ἀλλὰ καὶ ἐξηγητήν."
 
-<span id="fn_60"></span>[58:1](argr09.htm#fr_60) Cic., *Nat. Deorum*,
+<span id="fn_60"></span>[58:1](argr09.htm#fr_60.md) Cic., *Nat. Deorum*,
 ii, 21, § 56.
 
-<span id="fn_61"></span>[58:2](argr09.htm#fr_61) See above, Lecture II,
-[p. 23](argr07.htm#page_23).
+<span id="fn_61"></span>[58:2](argr09.htm#fr_61.md) See above, Lecture II,
+[p. 23](argr07.htm#page_23.md).
 
-<span id="fn_62"></span>[58:3](argr09.htm#fr_62) See above, Lecture I,
-[p. 18](argr06.htm#page_18).
+<span id="fn_62"></span>[58:3](argr09.htm#fr_62.md) See above, Lecture I,
+[p. 18](argr06.htm#page_18.md).
 
-<span id="fn_63"></span>[60:1](argr09.htm#fr_63) Manil., *Astron*., 495
+<span id="fn_63"></span>[60:1](argr09.htm#fr_63.md) Manil., *Astron*., 495
 sqq.
 
-<span id="fn_64"></span>[60:2](argr09.htm#fr_64) Cic., *Nat. Deor*., ii,
+<span id="fn_64"></span>[60:2](argr09.htm#fr_64.md) Cic., *Nat. Deor*., ii,
 63 (=Zenon. fr. 165 von Arnim).
 
-<span id="fn_65"></span>[61:1](argr09.htm#fr_65) See above, Lecture I,
-[p. 19](argr06.htm#page_19).
+<span id="fn_65"></span>[61:1](argr09.htm#fr_65.md) See above, Lecture I,
+[p. 19](argr06.htm#page_19.md).
 
-<span id="fn_66"></span>[61:2](argr09.htm#fr_66) Proclus, *In Timæum*,
+<span id="fn_66"></span>[61:2](argr09.htm#fr_66.md) Proclus, *In Timæum*,
 248 D.
 
-<span id="fn_67"></span>[62:1](argr09.htm#fr_67) See above, Lecture I,
-[p. 18](argr06.htm#page_18); II, [p. 29](argr07.htm#page_29).
+<span id="fn_67"></span>[62:1](argr09.htm#fr_67.md) See above, Lecture I,
+[p. 18](argr06.htm#page_18); II, [p. 29](argr07.htm#page_29.md).
 
-<span id="fn_68"></span>[63:1](argr09.htm#fr_68) *Religions orientates*,
+<span id="fn_68"></span>[63:1](argr09.htm#fr_68.md) *Religions orientates*,
 2d edition, Paris, 1909, p. 375, n. 80 (Engl. translation, p. 258, n.
 80).
 
-<span id="fn_69"></span>[64:1](argr09.htm#fr_69) Cicer., *Somn.
+<span id="fn_69"></span>[64:1](argr09.htm#fr_69.md) Cicer., *Somn.
 Scipioni*s, c. 4.
 
-<span id="fn_70"></span>[65:1](argr09.htm#fr_70) See above, Lecture I,
-[p. 11](argr06.htm#page_11).
+<span id="fn_70"></span>[65:1](argr09.htm#fr_70.md) See above, Lecture I,
+[p. 11](argr06.htm#page_11.md).
 
-<span id="fn_71"></span>[66:1](argr09.htm#fr_71) Bouché-Leclercq,
+<span id="fn_71"></span>[66:1](argr09.htm#fr_71.md) Bouché-Leclercq,
 *Astrologie grecque*, p. 131.
 
-<span id="fn_72"></span>[67:1](argr09.htm#fr_72) See below, Lecture V,
-[p. 91](argr10.htm#page_91).
+<span id="fn_72"></span>[67:1](argr09.htm#fr_72.md) See below, Lecture V,
+[p. 91](argr10.htm#page_91.md).
 
-<span id="fn_73"></span>[67:2](argr09.htm#fr_73) See Lecture V, [p.
-90](argr10.htm#page_90).
+<span id="fn_73"></span>[67:2](argr09.htm#fr_73.md) See Lecture V, [p.
+90](argr10.htm#page_90.md).
 
-<span id="fn_74"></span>[69:1](argr09.htm#fr_74) See my paper, *La
+<span id="fn_74"></span>[69:1](argr09.htm#fr_74.md) See my paper, *La
 Théologie solaire du Paganisme romain* (*Mém. Acad. Inscr.*, xii).
 Paris, 1909.
 
-<span id="fn_75"></span>[69:2](argr09.htm#fr_75) Renan, *Dialogues et
+<span id="fn_75"></span>[69:2](argr09.htm#fr_75.md) Renan, *Dialogues et
 Fragments philosophiques*, 1876, p. 168.
 
-<span id="fn_76"></span>[71:1](argr09.htm#fr_76) See above, this
-Lecture, [p. 66](#page_66).
+<span id="fn_76"></span>[71:1](argr09.htm#fr_76.md) See above, this
+Lecture, [p. 66](#page_66.md).
 
-<span id="fn_77"></span>[73:1](argr09.htm#fr_77) Plin., *Nat. Hist.*,
+<span id="fn_77"></span>[73:1](argr09.htm#fr_77.md) Plin., *Nat. Hist.*,
 ii, 5, § 13.
 
-<span id="fn_78"></span>[73:2](argr09.htm#fr_78) Cic., *Somn. Scip*., 4.
+<span id="fn_78"></span>[73:2](argr09.htm#fr_78.md) Cic., *Somn. Scip*., 4.
 
-<span id="fn_79"></span>[73:3](argr09.htm#fr_79) See below, Lecture VI,
-[p. 103](argr11.htm#page_103).
+<span id="fn_79"></span>[73:3](argr09.htm#fr_79.md) See below, Lecture VI,
+[p. 103](argr11.htm#page_103.md).
 
-<span id="fn_80"></span>[74:1](argr09.htm#fr_80) See above, Lecture IV,
-[p. 55](argr08.htm#page_55).
+<span id="fn_80"></span>[74:1](argr09.htm#fr_80.md) See above, Lecture IV,
+[p. 55](argr08.htm#page_55.md).
 
 ------------------------------------------------------------------------
 
-[Next: Lecture V. Astral Mysticism--Ethics and Cult](argr10)
+[Next: Lecture V. Astral Mysticism--Ethics and Cult](argr10.md)

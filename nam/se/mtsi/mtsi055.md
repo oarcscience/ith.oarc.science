@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi054)  [Next](mtsi056) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi054)  [Next](mtsi056.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ deceive them."
 
 ------------------------------------------------------------------------
 
-[Next: 54. Rabbit Fools Alligator](mtsi056)
+[Next: 54. Rabbit Fools Alligator](mtsi056.md)

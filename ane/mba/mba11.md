@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba10)  [Next](mba12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba10)  [Next](mba12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -75,7 +75,7 @@ Israelites, which included the worship of the sun and "every form of
 creeping things and abominable beasts"--a suggestion of the composite
 monsters of Babylonia--he was brought "to the door of the gate of the
 Lord's house, which was towards the north; and, behold, there sat women
-weeping for Tammuz". <span id="fr_105"></span>[1](#fn_104)
+weeping for Tammuz". <span id="fr_105"></span>[1](#fn_104.md)
 
 The weeping ceremony was connected with agricultural rites. Corn deities
 were weeping deities, they shed fertilizing tears; and the sowers
@@ -88,7 +88,7 @@ many others, contributed to the poetic
 imagery of the Bible. "They that sow in tears", David sang, "shall reap
 in joy. He that goeth forth and weepeth, bearing precious seed, shall
 doubtless come again with rejoicing, bringing his sheaves with
-him." <span id="fr_106"></span>[1](#fn_105) In Egypt the priestesses who
+him." <span id="fr_106"></span>[1](#fn_105.md) In Egypt the priestesses who
 acted the parts of Isis and Nepthys, mourned for the slain corn god
 Osiris.
 
@@ -100,7 +100,7 @@ All thy sister goddesses are at thy side and behind thy couch,
 Calling upon thee with weeping--yet thou are prostrate upon thy bed! . .
 .  
 Live before us, desiring to behold thee. <span
-id="fr_107"></span>[2](#fn_106)</span>
+id="fr_107"></span>[2](#fn_106.md)</span>
 
 </div>
 
@@ -112,7 +112,7 @@ phenomena. "The dread of the worshippers that the neglect of the usual
 ritual would be followed by disaster, is particularly intelligible",
 writes Professor Robertson Smith, "if they regarded the necessary
 operations of agriculture as involving the violent extinction of a
-particle of divine life." <span id="fr_108"></span>[3](#fn_107) By
+particle of divine life." <span id="fr_108"></span>[3](#fn_107.md) By
 observing their ritual, the worshippers won the sympathy and
 co-operation of deities, or exercised a magical control over nature.
 
@@ -180,7 +180,7 @@ him annually. When Set at full moon hunted the boar in the Delta
 marshes, he probably hunted the boar form of Osiris, whose human body
 had been recovered from the sacred tree by Isis. As the soul of Bata,
 the hero of the Egyptian folk tale, <span
-id="fr_109"></span>[1](#fn_108) migrated from the blossom to the bull,
+id="fr_109"></span>[1](#fn_108.md) migrated from the blossom to the bull,
 and the bull to the tree, so apparently did the soul of Osiris pass from
 incarnation to incarnation. Set, the demon slayer of the harvest god,
 had also a boar form; he was the black pig who devoured the waning moon
@@ -226,7 +226,7 @@ Food I eat not . . . water I drink not . . .
 Because of the exalted one of the nether world, him of the radiant face,
 yea radiant,  
 Of the exalted one of the nether world, him of the dove-like voice, yea
-dove-like. <span id="fr_110"></span>[1](#fn_109)</span>
+dove-like. <span id="fr_110"></span>[1](#fn_109.md)</span>
 
 </div>
 
@@ -246,7 +246,7 @@ Fingalian stories the animal is
 
 <span class="small">. . . That venomous boar, and he so fierce,  
 That Grey Eyebrows had with her herd of swine. <span
-id="fr_111"></span>[1](#fn_110)</span>
+id="fr_111"></span>[1](#fn_110.md)</span>
 
 </div>
 
@@ -266,13 +266,13 @@ Blue without rashness in thine eye!
 Passion and beauty behind thy curls! . . .  
 Oh, yesternight it was green the hillock,  
 Red is it this day with Diarmid's blood. <span
-id="fr_112"></span>[2](#fn_111)</span>
+id="fr_112"></span>[2](#fn_111.md)</span>
 
 </div>
 
 Tammuz died with the dying vegetation, and Diarmid expired when the
 hills apparently were assuming their purple tints. <span
-id="fr_113"></span>[3](#fn_112) The month of Tammuz wailings was from
+id="fr_113"></span>[3](#fn_112.md) The month of Tammuz wailings was from
 
 <span id="page_88">p. 88</span>
 
@@ -349,7 +349,7 @@ to which the Babylonian Noah was carried. In this Hades bloomed the
 nether "garden of Adonis".
 
 The following extract refers to the garden of Damu (Tammuz) <span
-id="fr_114"></span>[1](#fn_113):--
+id="fr_114"></span>[1](#fn_113.md):--
 
 <div style="margin-left: 32px">
 
@@ -388,7 +388,7 @@ mythology. A couplet from a Tammuz hymn says tersely:
 
 <span class="small">In his infancy in a sunken boat he lay.  
 In his manhood in the submerged grain he lay. <span
-id="fr_115"></span>[1](#fn_114)</span>
+id="fr_115"></span>[1](#fn_114.md)</span>
 
 </div>
 
@@ -478,11 +478,11 @@ Their soul was sad, their spirit sorrowful. Who</span>
 
 <span class="small">received that load, men, chiefs of council, heroes
 under heaven, cannot for certain tell. <span
-id="fr_116"></span>[1](#fn_115)</span>
+id="fr_116"></span>[1](#fn_115.md)</span>
 
 Sceaf or Scyld is identical with Yngve, the patriarch of the Ynglings;
 with Frey, the harvest and boar god, son of Njord, <span
-id="fr_117"></span>[2](#fn_116) the sea god; and with Hermod, referred
+id="fr_117"></span>[2](#fn_116.md) the sea god; and with Hermod, referred
 to as follows in the Eddic "Lay of Hyndla":
 
 <div style="margin-left: 32px">
@@ -511,7 +511,7 @@ which were likened to sheep--indeed, one of the early Sumerian
 expressions for 'fleece' was 'sheep of the sky'. The name of Tammuz in
 Sumerian is Dumu-zi, or in its rare fullest form, Dumu-zida, meaning
 'true or faithful son'. There is probably some legend attached to this
-which is at present unknown." <span id="fr_118"></span>[3](#fn_117)
+which is at present unknown." <span id="fr_118"></span>[3](#fn_117.md)
 
 <span id="page_94">p. 94</span>
 
@@ -524,7 +524,7 @@ cattle he (Tammuz) has forsaken . . .
 From his home, from his inhabited domain, the son, he of wisdom,
 pre-eminent steer of heaven,  
 The hero unto the nether herding place has taken his way. <span
-id="fr_119"></span>[1](#fn_118)</span>
+id="fr_119"></span>[1](#fn_118.md)</span>
 
 </div>
 
@@ -539,7 +539,7 @@ waters, Mitra acting in the right way. *Rigveda*, iii, 5, 3.
 
 Agni, who has been looked and longed for in Heaven, who has been looked
 for on earth--he who has been looked for has entered all herbs.
-*Rigveda*, i, 98. <span id="fr_120"></span>[2](#fn_119)
+*Rigveda*, i, 98. <span id="fr_120"></span>[2](#fn_119.md)
 
 </div>
 
@@ -549,7 +549,7 @@ voice"; Agni "roars like a bull"; and Heimdal blows a horn when the
 giants and demons threaten to attack the citadel of the gods. As the
 spring sun god, Tammuz is "a youthful warrior", says Jastrow,
 "triumphing over the storms of winter". <span
-id="fr_121"></span>[3](#fn_120) The storms, of course, were symbolized
+id="fr_121"></span>[3](#fn_120.md) The storms, of course, were symbolized
 as demons. Tammuz, "the heroic lord", was therefore a demon slayer like
 Heimdal and Agni. Each of these gods appear to have been developed in
 isolation from an archaic spring god of fertility and corn whose
@@ -641,7 +641,7 @@ As Ishtar enters through the various gates she is stripped of her
 ornaments and clothing. At the first gate her crown was taken off, at
 the second her ear-rings, at the third her necklace of precious stones,
 at the fourth the ornaments of her breast, at the fifth her gemmed
-waist-girdle, <span id="fr_122"></span>[1](#fn_121) at the sixth the
+waist-girdle, <span id="fr_122"></span>[1](#fn_121.md) at the sixth the
 bracelets of her hands and feet, and at the seventh the covering robe of
 her body. Ishtar asks at each gate why she is thus dealt with, and the
 porter answers, "Such is the command of Allatu."
@@ -655,7 +655,7 @@ and Allatu, desiring to punish her rival whom she cannot humble,
 <span id="img_09600"></span> <span align="CENTER"> [![ISHTAR IN
 HADES&lt;br&gt; &lt;i&gt;From the Painting by E.
 Wallcousins&lt;/i&gt;.](tn/09600.jpg)  
-Click to enlarge](img/09600.jpg)  
+Click to enlarge](img/09600.jpg.md)  
 ISHTAR IN HADES  
 *From the Painting by E. Wallcousins*.  
 </span>
@@ -732,10 +732,10 @@ apparently to ransom Tammuz. The poem concludes with Ishtar's wail:
 me.  
 In the day that Tammuz adorned me, with a ring of crystal,  
 With a bracelet of emeralds, together with himself, he adorned me, <span
-id="fr_123"></span>[1](#fn_122)  
+id="fr_123"></span>[1](#fn_122.md)  
 With himself he adorned me; may men mourners and women mourners  
 On a bier place him, and assemble the wake. <span
-id="fr_124"></span>[2](#fn_123)</span>
+id="fr_124"></span>[2](#fn_123.md)</span>
 
 </div>
 
@@ -755,7 +755,7 @@ instituted the wailing ceremony:
 <div style="margin-left: 32px">
 
 <span class="small">The amorous Queen of Heaven sits as one in
-darkness. <span id="fr_125"></span>[3](#fn_124)</span>
+darkness. <span id="fr_125"></span>[3](#fn_124.md)</span>
 
 </div>
 
@@ -787,7 +787,7 @@ am thy wife, made as thou art, the elder sister, soul of her brother". .
 two goddesses--come thou, child growing in peace, our lord!" . . "Lo!
 the Bull, begotten of the two cows, Isis and Nepthys". . . . "Come thou
 to the two widowed goddesses". . . . "Oh child, lord, first maker of the
-body". . . . "Father Osiris." <span id="fr_126"></span>[1](#fn_125)
+body". . . . "Father Osiris." <span id="fr_126"></span>[1](#fn_125.md)
 
 As Ishtar and Belit-sheri weep for Tammuz, so do
 
@@ -805,7 +805,7 @@ Lo! I invoke thee with wailing that reacheth high as heaven.</span>
 
 <span class="contnote">\[paragraph continues\]</span> Isis is also
 identified with Hathor (Ishtar) the Cow. . . . "The cow weepeth for thee
-with her voice." <span id="fr_127"></span>[2](#fn_126)
+with her voice." <span id="fr_127"></span>[2](#fn_126.md)
 
 There is another phase, however, to the character of the mother goddess
 which explains the references to the desertion and slaying of Tammuz by
@@ -818,7 +818,7 @@ assigned to them by
 <span id="page_100">p. 100</span>
 
 <span class="contnote">\[paragraph continues\]</span> Ishtar". <span
-id="fr_128"></span>[1](#fn_127) The worship of all mother goddesses in
+id="fr_128"></span>[1](#fn_127.md) The worship of all mother goddesses in
 ancient times was accompanied by revolting unmoral rites which are
 referred to in condemnatory terms in various passages in the Old
 Testament, especially in connection with the worship of Ashtoreth, who
@@ -851,7 +851,7 @@ shadowy Aa.
 <span id="img_10000"></span> <span align="CENTER"> [![WINGED
 HUMAN-HEADED COW (?)&lt;br&gt; &lt;i&gt;From Kouyunjik (Nineveh): now in
 the British Museum&lt;/i&gt;.&lt;br&gt; Photo. Mansell.](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 WINGED HUMAN-HEADED COW (?)  
 *From Kouyunjik (Nineveh): now in the British Museum*.  
 Photo. Mansell.  
@@ -864,18 +864,18 @@ Photo. Mansell.
 As has been shown, Ishtar is referred to in a Tammuz hymn as the mother
 of the child god of fertility. In an Egyptian hymn the sky goddess Nut,
 "the mother" of Osiris, is stated to have "built up life from her own
-body." <span id="fr_129"></span>[1](#fn_128) Sri or Lakshmi, the Indian
+body." <span id="fr_129"></span>[1](#fn_128.md) Sri or Lakshmi, the Indian
 goddess, who became the wife of Vishnu, as the mother goddess Saraswati,
 a tribal deity, became the wife of Brahma, was, according to a Purana
 commentator, "the mother of the world . . . eternal and
-undecaying". <span id="fr_130"></span>[2](#fn_129)
+undecaying". <span id="fr_130"></span>[2](#fn_129.md)
 
 The gods, on the other hand, might die annually: the goddesses alone
 were immortal. Indra was supposed to perish of old age, but his wife,
 Indrani, remained ever young. There were fourteen Indras in every "day
 of Brahma", a reference apparently to the ancient conception of Indra
 among the Great-Mother-worshipping sections of the Aryo-Indians. <span
-id="fr_131"></span>[3](#fn_130) In the *Mahàbhàrata* the god Shiva, as
+id="fr_131"></span>[3](#fn_130.md) In the *Mahàbhàrata* the god Shiva, as
 Mahadeva, commands Indra on "one of the peaks of Himavat", where they
 met, to lift up a stone and join the Indras who had been before him.
 "And Indra on removing that stone beheld a cave on the breast of that
@@ -883,7 +883,7 @@ king of mountains in which were four others resembling himself." Indra
 exclaimed in his grief, "Shall I be even like these?" These five Indras,
 like the "Seven Sleepers", awaited the time when they would be called
 forth. They were ultimately reborn as the five Pandava warriors. <span
-id="fr_132"></span>[4](#fn_131)
+id="fr_132"></span>[4](#fn_131.md)
 
 The ferocious, black-faced Scottish mother goddess, Cailleach Bheur, who
 appears to be identical with Mala Lith, "Grey Eyebrows" of Fingalian
@@ -912,7 +912,7 @@ Once they would fondle,
 They would be round glorious kings . . .  
 I must take my garment even in the sun:  
 The time is at hand that shall renew me. <span
-id="fr_133"></span>[1](#fn_132)</span>
+id="fr_133"></span>[1](#fn_132.md)</span>
 
 </div>
 
@@ -949,7 +949,7 @@ Frigg, wife of Odin, is satirized as well:
 
 <span class="small">Silence, Frigg! Earth's spouse for a husband,  
     And hast ever yearned after men! <span
-id="fr_134"></span>[1](#fn_133)</span>
+id="fr_134"></span>[1](#fn_133.md)</span>
 
 </div>
 
@@ -982,7 +982,7 @@ And daily slaughtered kids for thee;
 But thou didst smite him and didst change him into a leopard,  
 So that his own sheep boy hunted him,  
 And his own hounds tore him to pieces. <span
-id="fr_135"></span>[2](#fn_134)</span>
+id="fr_135"></span>[2](#fn_134.md)</span>
 
 </div>
 
@@ -1005,7 +1005,7 @@ dogs, and caused numerous deaths by sending a boar to ravage the fields
 of Œneus, king of Calydon. Human sacrifices were frequently offered to
 the bloodthirsty "mothers". The most famous victim of Artemis was the
 daughter of Agamemnon, "divinely tall and most divinely fair". <span
-id="fr_136"></span>[1](#fn_135) Agamemnon had slain a sacred stag, and
+id="fr_136"></span>[1](#fn_135.md) Agamemnon had slain a sacred stag, and
 the goddess punished him by sending a calm when the war fleet was about
 to sail for Troy, with the result that his daughter had to be
 sacrificed. Artemis thus sold breezes like the northern wind hags and
@@ -1024,7 +1024,7 @@ the powers in the valley of the Euphrates and the western shores of the
 Ægean in the second millennium B.C. In fact, between the nascent Hellas
 and the great world of Mesopotamia there were powerful and possibly
 independent strata of cultures interposing." <span
-id="fr_137"></span>[2](#fn_136)
+id="fr_137"></span>[2](#fn_136.md)
 
 The real connection appears to be the racial one. Among the
 Mediterranean Neolithic tribes of Sumeria, Arabia, and Europe, the
@@ -1038,7 +1038,7 @@ pre-Hellenic origin, the Celtic of Iberian, the Egyptian of
 proto-Egyptian, and the Babylonian of Sumerian. The northern hillmen, on
 the other hand, who may be identified with the "Aryans" of the
 philologists, were father worshippers. The Vedic Aryo-Indians worshipped
-father gods, <span id="fr_138"></span>[1](#fn_137) as did also the
+father gods, <span id="fr_138"></span>[1](#fn_137.md) as did also the
 Germanic peoples and certain tribes in the "Hittite confederacy". Earth
 spirits were males, like the Teutonic elves, the Aryo-Indian Ribhus, and
 the Burkans, "masters", of the present-day Buriats, a Mongolian people.
@@ -1048,7 +1048,7 @@ individualized gods, but they did not displace the mother goddesses.
 "The Aryan Hellenes", says Dr. Farnell, "were able to plant their Zeus
 and Poseidon on the high hill of Athens, but not to overthrow the
 supremacy of Athena in the central shrine and in the aboriginal soul of
-the Athenian people." <span id="fr_139"></span>[2](#fn_138) As in Egypt,
+the Athenian people." <span id="fr_139"></span>[2](#fn_138.md) As in Egypt,
 the beliefs of the father worshippers, represented by the self-created
 Ptah, were fused with the beliefs of the mother worshippers, who adored
 Isis, Mut, Neith, and others. In Babylonia this process of racial and
@@ -1088,7 +1088,7 @@ consumed by the sword and the famine". The women took a leading part in
 these practices, but refused to accept all the blame, saying, "When we
 burned incense to the queen of heaven, and poured out drink offerings
 unto her, did we make our cakes and pour out drink offerings unto her
-without our men?" <span id="fr_140"></span>[1](#fn_139) That the
+without our men?" <span id="fr_140"></span>[1](#fn_139.md) That the
 husbands, and the children even, assisted at the ceremony is made
 evident in another reference to goddess worship:
 
@@ -1096,25 +1096,25 @@ evident in another reference to goddess worship:
 
 <span id="img_10600"></span> <span align="CENTER"> [![Female figure in
 adoration before a goddess](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 Female figure in adoration before a goddess  
 </span>
 
 <span id="img_10601"></span> <span align="CENTER"> [![The winged Ishtar
 above the rising sun god, the river god, and other
 deities](tn/10601.jpg)  
-Click to enlarge](img/10601.jpg)  
+Click to enlarge](img/10601.jpg.md)  
 The winged Ishtar above the rising sun god, the river god, and other
 deities  
 </span>
 
 <span id="img_10602"></span> <span align="CENTER"> [![Gilgamesh in
 conflict with bulls](tn/10602.jpg)  
-Click to enlarge](img/10602.jpg)  
+Click to enlarge](img/10602.jpg.md)  
 Gilgamesh in conflict with bulls  
 </span>
 
-(see page [176](mba14.htm#page_176))
+(see page [176](mba14.htm#page_176).md)
 
 CYLINDER-SEAL IMPRESSIONS  
 (*British Museum)*
@@ -1126,13 +1126,13 @@ CYLINDER-SEAL IMPRESSIONS
 <span class="contnote">\[paragraph continues\]</span> "The children
 gather wood, and the fathers kindle the fire, and the women knead the
 dough, to make cakes to the queen of heaven". <span
-id="fr_141"></span>[1](#fn_140)
+id="fr_141"></span>[1](#fn_140.md)
 
 Jastrow suggests that the women of Israel wept for Tammuz, offered cakes
 to the mother goddess, &c., because "in all religious bodies . . . women
 represent the conservative element; among them religious customs
 continue in practice after they have been abandoned by men". <span
-id="fr_142"></span>[2](#fn_141) The evidence of Jeremiah, however, shows
+id="fr_142"></span>[2](#fn_141.md) The evidence of Jeremiah, however, shows
 that the men certainly co-operated at the archaic ceremonials. In
 lighting the fires with the "vital spark", they apparently acted in
 imitation of the god of fertility. The women, on the other hand,
@@ -1151,7 +1151,7 @@ of priests and priestesses. But the official cult received no
 recognition in Palestine; the cakes intended for a goddess were not
 offered up in the temple of Abraham's God, but "in the streets of
 Jerusalem" and those of other cities. <span
-id="fr_143"></span>[3](#fn_142)
+id="fr_143"></span>[3](#fn_142.md)
 
 <span id="page_108">p. 108</span>
 
@@ -1168,29 +1168,29 @@ with the acts of everyday life.
 
 ### Footnotes
 
-<span id="fn_104"></span>[82:1](mba11.htm#fr_105) *Ezekiel*, viii.
+<span id="fn_104"></span>[82:1](mba11.htm#fr_105.md) *Ezekiel*, viii.
 
-<span id="fn_105"></span>[83:1](mba11.htm#fr_106) *Psalms*, cxxvi.
+<span id="fn_105"></span>[83:1](mba11.htm#fr_106.md) *Psalms*, cxxvi.
 
-<span id="fn_106"></span>[83:2](mba11.htm#fr_107) *The Burden of Isis*,
+<span id="fn_106"></span>[83:2](mba11.htm#fr_107.md) *The Burden of Isis*,
 J. T. Dennis (*Wisdom of the East* series), pp. 21, 22.
 
-<span id="fn_107"></span>[83:3](mba11.htm#fr_108) *Religion of the
+<span id="fn_107"></span>[83:3](mba11.htm#fr_108.md) *Religion of the
 Semites*, pp. 412, 414.
 
-<span id="fn_108"></span>[85:1](mba11.htm#fr_109) *Egyptian Myth and
+<span id="fn_108"></span>[85:1](mba11.htm#fr_109.md) *Egyptian Myth and
 Legend*, pp. 45 *et seq*.
 
-<span id="fn_109"></span>[86:1](mba11.htm#fr_110) Langdon's *Sumerian
+<span id="fn_109"></span>[86:1](mba11.htm#fr_110.md) Langdon's *Sumerian
 and Babylonian Psalms*, pp. 319-321.
 
-<span id="fn_110"></span>[87:1](mba11.htm#fr_111) Campbell's *West
+<span id="fn_110"></span>[87:1](mba11.htm#fr_111.md) Campbell's *West
 Highland Tales*, vol. iii, p. 74..
 
-<span id="fn_111"></span>[87:2](mba11.htm#fr_112) *West Highland Tales*,
+<span id="fn_111"></span>[87:2](mba11.htm#fr_112.md) *West Highland Tales*,
 vol. iii, pp. 85, 86.
 
-<span id="fn_112"></span>[87:3](mba11.htm#fr_113) If Finn and his band
+<span id="fn_112"></span>[87:3](mba11.htm#fr_113.md) If Finn and his band
 were really militiamen--the original Fenians--as is believed in Ireland,
 they may have had attached to their memories the legends of archaic
 Iberian <span id="page_88">p. 88</span> deities who differed from the
@@ -1199,100 +1199,100 @@ identified, for instance, with Donar or Thunor (Thor), the thunder god,
 In Scotland Finn and his followers are all giants. Diarmid is the
 patriarch of the Campbell clan, the MacDiarmids being "sons of Diarmid".
 
-<span id="fn_113"></span>[89:1](mba11.htm#fr_114) Isaiah condemns a
+<span id="fn_113"></span>[89:1](mba11.htm#fr_114.md) Isaiah condemns a
 magical custom connected with the worship of Tammuz in the garden,
 Isaiah, xvii, g, II. This "Garden of Adonis" is dealt with in the [next
-chapter](mba12.htm#an_ch-06).
+chapter](mba12.htm#an_ch-06.md).
 
-<span id="fn_114"></span>[90:1](mba11.htm#fr_115) Quotations are from
+<span id="fn_114"></span>[90:1](mba11.htm#fr_115.md) Quotations are from
 *Sumerian and Babylonian Psalms*, translated by Stephen Langdon, Ph.D.
 (Paris and London, 1909), pp. 299-341.
 
-<span id="fn_115"></span>[93:1](mba11.htm#fr_116) *Beowulf*, translated
+<span id="fn_115"></span>[93:1](mba11.htm#fr_116.md) *Beowulf*, translated
 by J. R. Clark Hall (London, 1911), pp. 9-11.
 
-<span id="fn_116"></span>[93:2](mba11.htm#fr_117) For Frey's connection
+<span id="fn_116"></span>[93:2](mba11.htm#fr_117.md) For Frey's connection
 with the Ynglings see Morris and Magnusson's *Heimskringla* (*Saga
 Library*, vol. iii), pp. 23-71.
 
-<span id="fn_117"></span>[93:3](mba11.htm#fr_118) *The Religion of
+<span id="fn_117"></span>[93:3](mba11.htm#fr_118.md) *The Religion of
 Babylonia and Assyria*, p. 72.
 
-<span id="fn_118"></span>[94:1](mba11.htm#fr_119) Langdon's *Sumerian
+<span id="fn_118"></span>[94:1](mba11.htm#fr_119.md) Langdon's *Sumerian
 and Babylonian Psalms*, pp. 325, 339.
 
-<span id="fn_119"></span>[94:2](mba11.htm#fr_120) Professor Oldenberg's
+<span id="fn_119"></span>[94:2](mba11.htm#fr_120.md) Professor Oldenberg's
 translation.
 
-<span id="fn_120"></span>[94:3](mba11.htm#fr_121) Osiris is also invoked
+<span id="fn_120"></span>[94:3](mba11.htm#fr_121.md) Osiris is also invoked
 to "remove storms and rain and give fecundity in the night-time". As a
 spring sun god he slays demons; as a lunar god he brings fertility.
 
-<span id="fn_121"></span>[96:1](mba11.htm#fr_122) Like the
+<span id="fn_121"></span>[96:1](mba11.htm#fr_122.md) Like the
 love-compelling girdle of Aphrodite.
 
-<span id="fn_122"></span>[98:1](mba11.htm#fr_123) A wedding bracelet of
+<span id="fn_122"></span>[98:1](mba11.htm#fr_123.md) A wedding bracelet of
 crystal is worn by Hindu women; they break it when the husband dies.
 
-<span id="fn_123"></span>[98:2](mba11.htm#fr_124) Quotations from the
+<span id="fn_123"></span>[98:2](mba11.htm#fr_124.md) Quotations from the
 translation in *The Chaldean Account of Genesis*, by George Smith.
 
-<span id="fn_124"></span>[98:3](mba11.htm#fr_125) Langdon's *Sumerian
+<span id="fn_124"></span>[98:3](mba11.htm#fr_125.md) Langdon's *Sumerian
 and Babylonian Psalms*, p. 32q *et seq*.
 
-<span id="fn_125"></span>[99:1](mba11.htm#fr_126) *The Burden of Isis*,
+<span id="fn_125"></span>[99:1](mba11.htm#fr_126.md) *The Burden of Isis*,
 translated by J. T. Dennis (*Wisdom of the East* series), pp. 24, 31,
 32, 39, 45, 46, 49.
 
-<span id="fn_126"></span>[99:2](mba11.htm#fr_127) *The Burden of Isis*,
+<span id="fn_126"></span>[99:2](mba11.htm#fr_127.md) *The Burden of Isis*,
 pp. 22, 46.
 
-<span id="fn_127"></span>[100:1](mba11.htm#fr_128) *Aspects of Religious
+<span id="fn_127"></span>[100:1](mba11.htm#fr_128.md) *Aspects of Religious
 Belief and Practice in Babylonia and Assyria*, p. 137, and *Herodotus*,
 book i, 199.
 
-<span id="fn_128"></span>[101:1](mba11.htm#fr_129) *The Burden of Isis*,
+<span id="fn_128"></span>[101:1](mba11.htm#fr_129.md) *The Burden of Isis*,
 p. 47.
 
-<span id="fn_129"></span>[101:2](mba11.htm#fr_130) *Original Sanskrit
+<span id="fn_129"></span>[101:2](mba11.htm#fr_130.md) *Original Sanskrit
 Texts*, J. Muir, London, 1890, vol. i, p. 67.
 
-<span id="fn_130"></span>[101:3](mba11.htm#fr_131) *Original Sanskrit
+<span id="fn_130"></span>[101:3](mba11.htm#fr_131.md) *Original Sanskrit
 Texts*, vol. i, p. 44.
 
-<span id="fn_131"></span>[101:4](mba11.htm#fr_132) *Adi Parva* section
+<span id="fn_131"></span>[101:4](mba11.htm#fr_132.md) *Adi Parva* section
 of *Mahàbhàrata* (Roy's translation), pp. 553, 555.
 
-<span id="fn_132"></span>[102:1](mba11.htm#fr_133) *Ancient Irish
+<span id="fn_132"></span>[102:1](mba11.htm#fr_133.md) *Ancient Irish
 Poetry*, Kuno Meyer (London, 1911), pp. 88-90.
 
-<span id="fn_133"></span>[103:1](mba11.htm#fr_134) Translations from
+<span id="fn_133"></span>[103:1](mba11.htm#fr_134.md) Translations from
 *The Elder Edda*, by O. Bray (part i), London, 1908.
 
-<span id="fn_134"></span>[103:2](mba11.htm#fr_135) *Babylonian
+<span id="fn_134"></span>[103:2](mba11.htm#fr_135.md) *Babylonian
 Religion*, L. W. King, pp. 160, 161.
 
-<span id="fn_135"></span>[104:1](mba11.htm#fr_136) Tennyson's *A Dream
+<span id="fn_135"></span>[104:1](mba11.htm#fr_136.md) Tennyson's *A Dream
 of Fair Women*.
 
-<span id="fn_136"></span>[104:2](mba11.htm#fr_137) *Greece and Babylon*,
+<span id="fn_136"></span>[104:2](mba11.htm#fr_137.md) *Greece and Babylon*,
 L. R. Farnell (Edinburgh, 1911), p. 35.
 
-<span id="fn_137"></span>[105:1](mba11.htm#fr_138) The goddesses did not
+<span id="fn_137"></span>[105:1](mba11.htm#fr_138.md) The goddesses did not
 become prominent until the "late invasion" of the post-Vedic Aryans.
 
-<span id="fn_138"></span>[105:2](mba11.htm#fr_139) *Greece and Babylon*,
+<span id="fn_138"></span>[105:2](mba11.htm#fr_139.md) *Greece and Babylon*,
 p. 96.
 
-<span id="fn_139"></span>[106:1](mba11.htm#fr_140) *Jeremiah*, xliv.
+<span id="fn_139"></span>[106:1](mba11.htm#fr_140.md) *Jeremiah*, xliv.
 
-<span id="fn_140"></span>[107:1](mba11.htm#fr_141) *Jeremiah*, vii, 18.
+<span id="fn_140"></span>[107:1](mba11.htm#fr_141.md) *Jeremiah*, vii, 18.
 
-<span id="fn_141"></span>[107:2](mba11.htm#fr_142) *Aspects of Religious
+<span id="fn_141"></span>[107:2](mba11.htm#fr_142.md) *Aspects of Religious
 Belief and Practice in Babylonia and Assyria*, pp. 348, 349.
 
-<span id="fn_142"></span>[107:3](mba11.htm#fr_143) *Jeremiah*, vii, 17.
+<span id="fn_142"></span>[107:3](mba11.htm#fr_143.md) *Jeremiah*, vii, 17.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Wars of the City States of Sumer and Akkad](mba12)
+[Next: Chapter VI. Wars of the City States of Sumer and Akkad](mba12.md)

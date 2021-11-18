@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](dwp01)  [Next](dwp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](dwp01)  [Next](dwp03.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,14 +100,14 @@ was certainly nothing ludicrous or licentious; of which we need no other
 proof, than its having been carried in solemn procession at the
 celebration of those mysteries in which the first principles of their
 religion, the knowledge of the God of Nature, the First, the Supreme,
-the Intellectual, <span id="fr_6"></span>[1](#fn_6) were
+the Intellectual, <span id="fr_6"></span>[1](#fn_6.md) were
 
 <span id="page_29">p. 29</span>
 
 preserved free from the vulgar superstitions, and communicated, under
 the strictest oaths of secrecy, to the iniated (initiated); who were
 obliged to purify themselves, prior to their initiation, by abstaining
-from venery, and all impure food. <span id="fr_7"></span>[1](#fn_7) We
+from venery, and all impure food. <span id="fr_7"></span>[1](#fn_7.md) We
 may therefore be assured, that no impure meaning could be conveyed by
 this symbol; but that it represented some fundamental principle of their
 faith. What this was, it is difficult to obtain any direct information,
@@ -116,9 +116,9 @@ guarded. Plutarch tells us, that the Egyptians represented Osiris with
 the organ of veneration erect, to show his generative and prolific
 power: he also tells us, that Osiris was the same Diety as the Bacchus
 of the Greek Mythology; who was also the same as the first begotten Love
-(πρωτογονος) of Orpheus and Hesiod. <span id="fr_8"></span>[2](#fn_8)
+(πρωτογονος) of Orpheus and Hesiod. <span id="fr_8"></span>[2](#fn_8.md)
 This deity is celebrated by the ancient poets as the creator of all
-things, the father of gods and men; <span id="fr_9"></span>[3](#fn_9)
+things, the father of gods and men; <span id="fr_9"></span>[3](#fn_9.md)
 and it appears, by the passage above referred to, that the organ of
 veneration was the symbol of his great characteristic attribute. This is
 perfectly consistent with the general practice of the Greek artists, who
@@ -176,21 +176,21 @@ of creation and generation, both active and passive, both
 
 <span id="page_32">p. 32</span>
 
-male and female. <span id="fr_10"></span>[1](#fn_10) Light is his
+male and female. <span id="fr_10"></span>[1](#fn_10.md) Light is his
 necessary and primary
 
 <span id="page_35">p. 35</span>
 
 attribute, co-eternal with himself, and with him brought forth from
 inert matter by necessity. Hence the purity and sanctity always
-attributed to light by the Greeks. <span id="fr_11"></span>[1](#fn_11)
+attributed to light by the Greeks. <span id="fr_11"></span>[1](#fn_11.md)
 He is called the Father of Night, because by attracting the light to
 himself, and becoming the fountain which distributed it to the world, he
 produced night, which is called eternally-begotten, because it had
 eternally existed, although mixed and lost in the general mass. He is
 said to pervade the world with the motion of his wings, bringing pure
 light; and thence to be called the splendid, the ruling Priapus, and
-Self-illumined (αντανγης <span id="fr_12"></span>[2](#fn_12)). It is to
+Self-illumined (αντανγης <span id="fr_12"></span>[2](#fn_12).md). It is to
 be observed that the word Πριηπος, afterwards the name of a subordinate
 deity, is here used as a title relating to one of his attributes; the
 reasons for which I shall endeavour to explain hereafter. Wings are
@@ -198,7 +198,7 @@ figuratively attributed to him as being the emblems of swiftness and
 incubation; by the first of which he pervaded matter, and by the second
 fructified the egg of Chaos. The egg was carried in procession at the
 celebration of the mysteries, because, as Plutarch it was the material
-of generation (νλη της γενεσεως <span id="fr_13"></span>[3](#fn_13))
+of generation (νλη της γενεσεως <span id="fr_13"></span>[3](#fn_13).md)
 containing the seeds and germs of life and motion, without being
 actually possessed of either.
 
@@ -210,14 +210,14 @@ were barren and useless, until the Creator fructified them by the
 incubation of his vital spirit, and released them from the restraints of
 inert matter, by the efforts of his divine strength. The incubation of
 the vital spirit is represented on the colonial medals of Tyre, by a
-serpent wreathed around an egg; <span id="fr_14"></span>[1](#fn_14) for
+serpent wreathed around an egg; <span id="fr_14"></span>[1](#fn_14.md) for
 the serpent, having the power of casting his skin, and apparently
 renewing his youth, became the symbol of life and vigour, and as such is
 always made an attendant on the mythological deities presiding over
-health. <span id="fr_15"></span>[2](#fn_15) It is also observed, that
+health. <span id="fr_15"></span>[2](#fn_15.md) It is also observed, that
 animals of the serpent kind retain life more pertinaciously than any
 others except the Polypus, which is sometimes represented upon the Greek
-Medals, <span id="fr_16"></span>[3](#fn_16) probably in its stead. I
+Medals, <span id="fr_16"></span>[3](#fn_16.md) probably in its stead. I
 have myself seen the heart of an adder continue its vital motions for
 many minutes after it has been taken from the body, and even renew them,
 after it has been cold, upon being moistened with warm water, and
@@ -231,7 +231,7 @@ restraints of inert matter by his divine
  
 
 <span id="img_pl03"></span> [![](tn/generic.jpg)  
-Click to view](img/pl03.jpg)  
+Click to view](img/pl03.jpg.md)  
 PLATE III  
 ANTIQUE GEMS AND GREEK MEDALS
 
@@ -241,9 +241,9 @@ ANTIQUE GEMS AND GREEK MEDALS
 
 strength, is represented on innumerable Greek medals by the Urns, or
 wild Bull, in the act of butting against the Egg of Chaos, and breaking
-it with his horns. <span id="fr_17"></span>[1](#fn_17) It is true, that
+it with his horns. <span id="fr_17"></span>[1](#fn_17.md) It is true, that
 the egg is not represented with the bull on any of those which I have
-seen; but Mr. D'Hancarville <span id="fr_18"></span>[2](#fn_18) has
+seen; but Mr. D'Hancarville <span id="fr_18"></span>[2](#fn_18.md) has
 brought examples from other countries, where the same system prevailed,
 which, as well as the general analogy of the Greek theology prove that
 the egg must have been understood, and that the attitude of the bull
@@ -271,7 +271,7 @@ successful inquiries into customs of the same kind. To their
 indefatigable industry and exquisite ingenuity I earnestly recommend it,
 only observing that this modern acceptation of the symbol is of
 considerable antiquity, for it is mentioned as proverbial in the
-Oneirocritics of Artemidorus; <span id="fr_19"></span>[1](#fn_19) and
+Oneirocritics of Artemidorus; <span id="fr_19"></span>[1](#fn_19.md) and
 that it is not now confined to Great Britain, but prevails in most parts
 of Christendom, as the ancient acceptation of it did formerly in most
 parts of the world, even among that people from whose religion
@@ -279,14 +279,14 @@ Christianity is derived; for it is a common mode of expression in the
 Old Testament, to say that the horns of any one shall be exalted, in
 order to signify that he shall be raised into power or pre-eminence; and
 when Moses descended from the Mount with the spirit of God still upon
-him, his head appeared horned. <span id="fr_20"></span>[2](#fn_20)
+him, his head appeared horned. <span id="fr_20"></span>[2](#fn_20.md)
 
 <span id="page_41">p. 41</span>
 
  
 
 <span id="img_pl04"></span> [![](tn/generic.jpg)  
-Click to view](img/pl04.jpg)  
+Click to view](img/pl04.jpg.md)  
 PLATE IV  
 MEDALS POSSESSED BY PAYNE KNIGHT
 
@@ -299,12 +299,12 @@ which represented not only the strength of the Creator, but the peculiar
 direction of it to the most beneficial purpose, the propagation of
 sensitive beings. Of this there is a small bronze in the Museum of Mr.
 Townley, of which an engraving is given in Plate III. Fig. 2. <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 Sometimes this generative attribute is represented by the symbol of the
 goat, supposed to be the most salacious of animals, and therefore
 adopted upon the same principles as the bull and the serpent. <span
-id="fr_22"></span>[2](#fn_22) The choral odes, sung in honour of the
+id="fr_22"></span>[2](#fn_22.md) The choral odes, sung in honour of the
 generator Bacchus, were hence called τραγωδιαι, or songs of the goat; a
 title which is now applied to the dramatic dialogues anciently inserted
 in these odes, to break their uniformity . On a medal, struck in honour
@@ -312,7 +312,7 @@ of Augustus, the goat terminates in the tail of a fish, to show the
 generative power incorporated with water. Under his feet is the globe of
 the earth, supposed to be fertilised by this union; and upon his back,
 the cornucopia, representing the result of this fertility. <span
-id="fr_23"></span>[3](#fn_23)
+id="fr_23"></span>[3](#fn_23.md)
 
 <span id="page_44">p. 44</span>
 
@@ -341,15 +341,15 @@ possibly exist in an original tongue.
 
 The Greek poets and artists frequently give the personification of a
 particular attribute for the Deity himself; hence he is called
-Τανροζοας, Τανρωπος, Τανρομορφος <span id="fr_24"></span>[1](#fn_24),
+Τανροζοας, Τανρωπος, Τανρομορφος <span id="fr_24"></span>[1](#fn_24.md),
 &c., and hence the initials and monograms of the Orphic epithets applied
 to the Creator, are found with the bull, and other symbols, on the Greek
-medals <span id="fr_25"></span>[2](#fn_25). It must not be imagined from
+medals <span id="fr_25"></span>[2](#fn_25.md). It must not be imagined from
 hence, that the ancients supposed the Deity to exist under the form of a
 bull, a goat, or a serpent: on the contrary, he is always described in
 the Orphic theology as a general pervading Spirit, without form, or
 distinct locality of any kind; and appears, by a curious fragment
-preserved by Proclus <span id="fr_26"></span>[3](#fn_26), to have been
+preserved by Proclus <span id="fr_26"></span>[3](#fn_26.md), to have been
 no other than *attraction* personified. The self-created mind (νοας
 αυτογενεθλος) of the Eternal Father is said to have spread the heavy
 bond of love through all things (πασιν ενεοπειρεν δεσμον περιζριθη
@@ -376,9 +376,9 @@ The Eclectic Jews, and their followers, the Ammonian and Christian
 Platonics, who endeavoured to make their own philosophy and religion
 conform to the ancient theology, held infinity of space to be only the
 immensity of the divine presence. Ὁ Θεος ἑαντσ τοπος εστι <span
-id="fr_27"></span>[1](#fn_27) was their dogma, which is now inserted
+id="fr_27"></span>[1](#fn_27.md) was their dogma, which is now inserted
 into the Confessional of the Greek Church. <span
-id="fr_28"></span>[2](#fn_28) This infinity was distinguished by them
+id="fr_28"></span>[2](#fn_28.md) This infinity was distinguished by them
 from common space, as time was from eternity. Whatever is eternal or
 infinite, said they, must be absolutely indivisible; because division is
 in itself inconsistent
@@ -393,7 +393,7 @@ are excluded from eternity, as locality is from infinity, and as both
 are from the Being who fills both; who can therefore feel no succession
 of events, nor know any gradation of distance; but must comprehend
 infinite duration as if it were one moment, and infinite extent as if it
-were but a single point. <span id="fr_29"></span>[1](#fn_29) Hence the
+were but a single point. <span id="fr_29"></span>[1](#fn_29.md) Hence the
 Ammonian Platonics speak of him as concentered in his own unity, and
 extended through all things, but participated of by none. Being of a
 nature more refined and elevated than intelligence itself, he could not
@@ -432,7 +432,7 @@ and no relative can exist without a positive or correlative. The
 <span id="page_49">p. 49</span>
 
 Deity therefore who has no falsehood, can have no truth, in our sense of
-the word. <span id="fr_30"></span>[1](#fn_30)
+the word. <span id="fr_30"></span>[1](#fn_30.md)
 
 As metaphysical theology is a study very generally, and very deservedly,
 neglected at present, I thought this little specimen of it might be
@@ -469,7 +469,7 @@ this kind have been found among the ruins of Herculaneum and Pompeii,
 attached to the bracelets, which the chaste and pious matrons of
 antiquity wore round their necks and arms. In these, the organ of
 generation appears alone, or only accompanied with the wings of
-incubation, <span id="fr_31"></span>[1](#fn_31) in order to show that
+incubation, <span id="fr_31"></span>[1](#fn_31.md) in order to show that
 the devout wearer devoted herself wholly and solely to procreation, the
 great end for which she was ordained. So expressive a symbol, being
 constantly in her view, must keep her attention fixed on its natural
@@ -480,7 +480,7 @@ object, and continually remind her of the gratitude she owed
  
 
 <span id="img_pl05"></span> [![](tn/generic.jpg)  
-Click to view](img/pl05.jpg)  
+Click to view](img/pl05.jpg.md)  
 PLATE V  
 FIGURES OF PAN AND GEMS
 
@@ -493,13 +493,13 @@ of his most valuable blessings, and employed her as the passive
 instrument in the exertion of his most beneficial power.
 
 The female organs of generation were revered <span
-id="fr_32"></span>[1](#fn_32) as symbols of the generative powers of
+id="fr_32"></span>[1](#fn_32.md) as symbols of the generative powers of
 nature or matter, as the male were of the generative powers of God. They
 are usually represented emblematically, by the Shell, or *Concha
 Veneris*, which was therefore worn by devout persons of antiquity, as it
 still continues to be by pilgrims, and many of the common women of
 Italy. The union of both was expressed by the hand mentioned in Sir
-William Hamilton's letter; <span id="fr_33"></span>[2](#fn_33) which
+William Hamilton's letter; <span id="fr_33"></span>[2](#fn_33.md) which
 being a less explicit symbol, has escaped the attention of the
 reformers, and is still worn, as well as the shell, by the women of
 Italy, though without being understood. It represented the act of
@@ -512,19 +512,19 @@ One of the most remarkable of these is a cross,
 
 <span id="page_54">p. 54</span>
 
-in the form of the letter T, <span id="fr_34"></span>[1](#fn_34) which
+in the form of the letter T, <span id="fr_34"></span>[1](#fn_34.md) which
 thus served as the emblem of creation and generation, before the church
 adopted it as the sign of salvation; a lucky coincidence of ideas,
 which, without doubt, facilitated the reception of it among the
 faithful. To the representative of the male organs was sometimes added a
 human head, which gives it the exact appearance of a crucifix; as it has
 on a medal of Cyzicus, published by M. Pellerin. <span
-id="fr_35"></span>[2](#fn_35) On an ancient medal, found in Cyprus,
+id="fr_35"></span>[2](#fn_35.md) On an ancient medal, found in Cyprus,
 which, from the style of workmanship, is certainly anterior to the
 Macedonian conquest, it appears with the chaplet or rosary, such as is
-now used in the Romish churches; <span id="fr_36"></span>[3](#fn_36) the
+now used in the Romish churches; <span id="fr_36"></span>[3](#fn_36.md) the
 beads of which were used, anciently, to reckon time. <span
-id="fr_37"></span>[4](#fn_37) Their being placed in a circle, marked its
+id="fr_37"></span>[4](#fn_37.md) Their being placed in a circle, marked its
 progressive continuity; while their separation from each other marked
 the divisions, by which it is made to return on itself, and thus produce
 years, months, and days. The symbol of the creative power is placed upon
@@ -536,9 +536,9 @@ power, from which his emanations
 
 extended through the universe. Hence the Egyptians, in their sacred
 hymns, called upon Osiris, as the being who dwelt concealed in the
-embraces of the sun; <span id="fr_38"></span>[1](#fn_38) and hence the
+embraces of the sun; <span id="fr_38"></span>[1](#fn_38.md) and hence the
 great luminary itself is called Κοσμοκρατωζ (Ruler of the World) in the
-Orphic Hymns. <span id="fr_39"></span>[2](#fn_39)
+Orphic Hymns. <span id="fr_39"></span>[2](#fn_39.md)
 
 This general emanation of the pervading Spirit of God, by which all
 things are generated and maintained, is beautifully described by Virgil,
@@ -551,7 +551,7 @@ Quemque sibi tenues nascentum arcessere vitas.
 Scilicet huc reddi deinde, ac resoluta referri  
 Omnia: nec morti esse locum, sed viva volare  
 Sideris in numerum, atque alto succedere cœlo. <span
-id="fr_40"></span>[3](#fn_40)
+id="fr_40"></span>[3](#fn_40.md)
 
 The Ethereal Spirit is here described as expanding itself through the
 universe, and giving life and motion to the inhabitants of earth, water,
@@ -570,12 +570,12 @@ degrees, according to the nature of the beings to which they belonged.
 Hence the characteristic properties of animals and plants were not only
 regarded as representations, but as actual emanations of the Divine
 Power, consubstantial with his own essence. <span
-id="fr_41"></span>[1](#fn_41) For this reason, the symbols were treated
+id="fr_41"></span>[1](#fn_41.md) For this reason, the symbols were treated
 with greater respect and veneration than if they had been merely signs
 and characters of convention. Plutarch says, that most of the Egyptian
 priests held the bull Apis, who was worshipped with so much ceremony, to
 be only an image of the Spirit of Osiris. <span
-id="fr_42"></span>[2](#fn_42) This I take to have been the real meaning
+id="fr_42"></span>[2](#fn_42.md) This I take to have been the real meaning
 of all the animal worship of the Egyptians, about which so much has been
 written, and so little discovered. Those animals or plants, in which any
 particular attribute of the Deity seemed to predominate, became the
@@ -587,7 +587,7 @@ of Divine Providence, acting in that particular direction. Like many
  
 
 <span id="img_pl06"></span> [![](tn/generic.jpg)  
-Click to view](img/pl06.jpg)  
+Click to view](img/pl06.jpg.md)  
 PLATE VI  
 THE TAURIC DIANA
 
@@ -608,14 +608,14 @@ notwithstanding their manifest inferiority; yet it does not appear, from
 any accounts extant, that they were able to assign any reason for this
 preference. On the contrary, Strabo tells us that the Egyptians of his
 time were wholly ignorant of their ancient learning and religion, <span
-id="fr_43"></span>[1](#fn_43) though impostors continually pretended to
+id="fr_43"></span>[1](#fn_43.md) though impostors continually pretended to
 explain it. Their ignorance in these points is not to be wondered at,
 considering that the most ancient Egyptians, of whom we have any
 authentic accounts, lived after the subversion of their monarchy and
 destruction of their temples by the Persians, who used every endeavour
 to annihilate their religion; first, by command of Cambyses, <span
-id="fr_44"></span>[2](#fn_44) and then of Ochus. <span
-id="fr_45"></span>[3](#fn_45) What they
+id="fr_44"></span>[2](#fn_44.md) and then of Ochus. <span
+id="fr_45"></span>[3](#fn_45.md) What they
 
 <span id="page_60">p. 60</span>
 
@@ -626,15 +626,15 @@ is the earliest traveller, and he visited this country when in ruins.
 
 ### Footnotes
 
-<span id="fn_6"></span>[28:1](dwp02.htm#fr_6) Plut. *de Is. et Os*.
+<span id="fn_6"></span>[28:1](dwp02.htm#fr_6.md) Plut. *de Is. et Os*.
 
-<span id="fn_7"></span>[29:1](dwp02.htm#fr_7) Plut. *de Is. et Os*.
+<span id="fn_7"></span>[29:1](dwp02.htm#fr_7.md) Plut. *de Is. et Os*.
 
-<span id="fn_8"></span>[29:2](dwp02.htm#fr_8) Ibid.
+<span id="fn_8"></span>[29:2](dwp02.htm#fr_8.md) Ibid.
 
-<span id="fn_9"></span>[29:3](dwp02.htm#fr_9) Orph. *Argon*. 422.
+<span id="fn_9"></span>[29:3](dwp02.htm#fr_9.md) Orph. *Argon*. 422.
 
-<span id="fn_10"></span>[32:1](dwp02.htm#fr_10) Orph. *Argon*., ver. 12.
+<span id="fn_10"></span>[32:1](dwp02.htm#fr_10.md) Orph. *Argon*., ver. 12.
 This poem of the Argonautic Expedition is not of the ancient Orpheus,
 but written in his name by some poet posterior to Homer; as appears by
 the allusion to Orpheus's descent into hell; a fable invented after the
@@ -737,106 +737,106 @@ memorials whatever were then extant. Of these, probably, was Orpheus, as
 well as Thamyris, both of whose poems, Plato says, could be read with
 pleasure in his time.
 
-<span id="fn_11"></span>[35:1](dwp02.htm#fr_11) See Sophocl. *Œdip.
+<span id="fn_11"></span>[35:1](dwp02.htm#fr_11.md) See Sophocl. *Œdip.
 Tyr.*, ver. 1436.
 
-<span id="fn_12"></span>[35:2](dwp02.htm#fr_12) Orph. Hym. 5.
+<span id="fn_12"></span>[35:2](dwp02.htm#fr_12.md) Orph. Hym. 5.
 
-<span id="fn_13"></span>[35:3](dwp02.htm#fr_13) Symph. l. 2.
+<span id="fn_13"></span>[35:3](dwp02.htm#fr_13.md) Symph. l. 2.
 
-<span id="fn_14"></span>[36:1](dwp02.htm#fr_14) See Plate XXI. Fig. 1.
+<span id="fn_14"></span>[36:1](dwp02.htm#fr_14.md) See Plate XXI. Fig. 1.
 
-<span id="fn_15"></span>[36:2](dwp02.htm#fr_15) Macrob. Sat. i. c. 20.
+<span id="fn_15"></span>[36:2](dwp02.htm#fr_15.md) Macrob. Sat. i. c. 20.
 
-<span id="fn_16"></span>[36:3](dwp02.htm#fr_16) See Goltz, Tab. II.
+<span id="fn_16"></span>[36:3](dwp02.htm#fr_16.md) See Goltz, Tab. II.
 Figs. 7 and 8.
 
-<span id="fn_17"></span>[39:1](dwp02.htm#fr_17) See Plate IV. Fig. 1,
+<span id="fn_17"></span>[39:1](dwp02.htm#fr_17.md) See Plate IV. Fig. 1,
 and Recherches sur les Arts, vol. i. Pl. VIII. The Hebrew word *Chroub*,
 or *Cherub*, signified originally strong or robust; but is usually
 employed metaphorically, signifying a Bull. See Cleric. In Exod. c. XXV.
 
-<span id="fn_18"></span>[39:2](dwp02.htm#fr_18) Recherches sur les Arts,
+<span id="fn_18"></span>[39:2](dwp02.htm#fr_18.md) Recherches sur les Arts,
 lib. 1.
 
-<span id="fn_19"></span>[40:1](dwp02.htm#fr_19) Lib. i. c. 12.
+<span id="fn_19"></span>[40:1](dwp02.htm#fr_19.md) Lib. i. c. 12.
 
-<span id="fn_20"></span>[40:2](dwp02.htm#fr_20) Exod. c. XXXIV. v. 35,
+<span id="fn_20"></span>[40:2](dwp02.htm#fr_20.md) Exod. c. XXXIV. v. 35,
 ed. Vulgat. Other translators understand <span id="page_43">p. 43</span>
 the expression metaphorically, and suppose it to mean radiated, or
 luminous.
 
-<span id="fn_21"></span>[43:1](dwp02.htm#fr_21) See Plate III.
+<span id="fn_21"></span>[43:1](dwp02.htm#fr_21.md) See Plate III.
 
-<span id="fn_22"></span>[43:2](dwp02.htm#fr_22) Τον δε τραγον αωεθεωσαν
+<span id="fn_22"></span>[43:2](dwp02.htm#fr_22.md) Τον δε τραγον αωεθεωσαν
 (οι Αιγνωτιοι) χαθαωερ και ωαρα τοις Ελλησι τετιησθαι λεγξι τον Πριαωον,
 δια το γεννητικον μοριον. DIODOR. lib. i. p. 78.
 
-<span id="fn_23"></span>[43:3](dwp02.htm#fr_23) Plate X. Fig. 3.
+<span id="fn_23"></span>[43:3](dwp02.htm#fr_23.md) Plate X. Fig. 3.
 
-<span id="fn_24"></span>[45:1](dwp02.htm#fr_24) Orph. Hymn. v. et xxix.
+<span id="fn_24"></span>[45:1](dwp02.htm#fr_24.md) Orph. Hymn. v. et xxix.
 
-<span id="fn_25"></span>[45:2](dwp02.htm#fr_25) Numm. Vet. Pop. et Urb.
+<span id="fn_25"></span>[45:2](dwp02.htm#fr_25.md) Numm. Vet. Pop. et Urb.
 Tab. xxxix. Figs 19 et 20. They are on most of the medals of Marseilles,
 Naples, Thurium and many other cities.
 
-<span id="fn_26"></span>[45:3](dwp02.htm#fr_26) In *Tim*. III., et
+<span id="fn_26"></span>[45:3](dwp02.htm#fr_26.md) In *Tim*. III., et
 *Frag. Orphic.*, ed. Gesner.
 
-<span id="fn_27"></span>[46:1](dwp02.htm#fr_27) Philo. *de Leg. Alleg*.
+<span id="fn_27"></span>[46:1](dwp02.htm#fr_27.md) Philo. *de Leg. Alleg*.
 lib. 1. Jo Damasc *de Orth Fid*.
 
-<span id="fn_28"></span>[46:2](dwp02.htm#fr_28) Mosheim. Nota in Sec.
+<span id="fn_28"></span>[46:2](dwp02.htm#fr_28.md) Mosheim. Nota in Sec.
 xxiv. Cudw. *Syst. Intellect*.
 
-<span id="fn_29"></span>[47:1](dwp02.htm#fr_29) See Boeth. *de Consol.
+<span id="fn_29"></span>[47:1](dwp02.htm#fr_29.md) See Boeth. *de Consol.
 Philos.* lib. iv. prof. 6.
 
-<span id="fn_30"></span>[49:1](dwp02.htm#fr_30) Proclus *in Theolog.
+<span id="fn_30"></span>[49:1](dwp02.htm#fr_30.md) Proclus *in Theolog.
 Platon*. lib. i. et ii.
 
-<span id="fn_31"></span>[50:1](dwp02.htm#fr_31) Plate II. Fig. 2,
+<span id="fn_31"></span>[50:1](dwp02.htm#fr_31.md) Plate II. Fig. 2,
 engraved from one in the British Museum.
 
-<span id="fn_32"></span>[53:1](dwp02.htm#fr_32) August. *de Civ. Dei,
+<span id="fn_32"></span>[53:1](dwp02.htm#fr_32.md) August. *de Civ. Dei,
 Lib*. VI. c. 9.
 
-<span id="fn_33"></span>[53:2](dwp02.htm#fr_33) See Plate II, Fig. 1.
+<span id="fn_33"></span>[53:2](dwp02.htm#fr_33.md) See Plate II, Fig. 1.
 from one in the British Museum, in which both symbols are united.
 
-<span id="fn_34"></span>[54:1](dwp02.htm#fr_34) Recherches our les Arts,
+<span id="fn_34"></span>[54:1](dwp02.htm#fr_34.md) Recherches our les Arts,
 lib. i. c. 3.
 
-<span id="fn_35"></span>[54:2](dwp02.htm#fr_35) See Plate IX. Fig. 1.
+<span id="fn_35"></span>[54:2](dwp02.htm#fr_35.md) See Plate IX. Fig. 1.
 
-<span id="fn_36"></span>[54:3](dwp02.htm#fr_36) Plate IX. Fig. 2, from
+<span id="fn_36"></span>[54:3](dwp02.htm#fr_36.md) Plate IX. Fig. 2, from
 Pellerin. Similar medals are in the Hunter Collection, and are evidently
 of Phœnician work.
 
-<span id="fn_37"></span>[54:4](dwp02.htm#fr_37) Recherches our les Arts,
+<span id="fn_37"></span>[54:4](dwp02.htm#fr_37.md) Recherches our les Arts,
 lib. i. c. 3.
 
-<span id="fn_38"></span>[55:1](dwp02.htm#fr_38) Plutarch. *de Is. et
+<span id="fn_38"></span>[55:1](dwp02.htm#fr_38.md) Plutarch. *de Is. et
 Osir*.
 
-<span id="fn_39"></span>[55:2](dwp02.htm#fr_39) See Hymn VII.
+<span id="fn_39"></span>[55:2](dwp02.htm#fr_39.md) See Hymn VII.
 
-<span id="fn_40"></span>[55:3](dwp02.htm#fr_40) Georgic. lib. iv. ver.
+<span id="fn_40"></span>[55:3](dwp02.htm#fr_40.md) Georgic. lib. iv. ver.
 221.
 
-<span id="fn_41"></span>[56:1](dwp02.htm#fr_41) Proclus *in Theol.
+<span id="fn_41"></span>[56:1](dwp02.htm#fr_41.md) Proclus *in Theol.
 Plat.* lib. i. pp. 56, 57.
 
-<span id="fn_42"></span>[56:2](dwp02.htm#fr_42) *De Is. et Os*.
+<span id="fn_42"></span>[56:2](dwp02.htm#fr_42.md) *De Is. et Os*.
 
-<span id="fn_43"></span>[59:1](dwp02.htm#fr_43) Lib. xvii.
+<span id="fn_43"></span>[59:1](dwp02.htm#fr_43.md) Lib. xvii.
 
-<span id="fn_44"></span>[59:2](dwp02.htm#fr_44) Herodot. lib. iii.
+<span id="fn_44"></span>[59:2](dwp02.htm#fr_44.md) Herodot. lib. iii.
 Strabo, lib. xvii.
 
-<span id="fn_45"></span>[59:3](dwp02.htm#fr_45) Plutarch. *de Is. et
+<span id="fn_45"></span>[59:3](dwp02.htm#fr_45.md) Plutarch. *de Is. et
 Os*.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](dwp03)
+[Next: Part II](dwp03.md)

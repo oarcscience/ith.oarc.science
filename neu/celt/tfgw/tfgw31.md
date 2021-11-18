@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw30)  [Next](tfgw32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw30)  [Next](tfgw32.md) 
 
 ------------------------------------------------------------------------
 
@@ -363,4 +363,4 @@ Tom Foley's Ghost
 
 ------------------------------------------------------------------------
 
-[Next: note](tfgw32)
+[Next: note](tfgw32.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm61)  [Next](bcm63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm61)  [Next](bcm63.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,16 +19,16 @@ recitation of certain prayers and the performance of certain ablutions;
 himself to the invocations, lest memory fail him at the moment set apart
 for the work, and to insure mastery of the practice. He should also
 recite the following prayer daily <span
-id="fr_248"></span>[1](#fn_247)--at Prime once, at Tierce twice, at Sext
+id="fr_248"></span>[1](#fn_247.md)--at Prime once, at Tierce twice, at Sext
 three times, at Nones four times, at Vespers five times, and six times
 before going to rest. It is explained that these hours are planetary and
-unequal. <span id="fr_249"></span>[2](#fn_248) Prime is reckoned at the
+unequal. <span id="fr_249"></span>[2](#fn_248.md) Prime is reckoned at the
 rising of the sun, Tierce at three hours after, Sext at mid-day, Nones
 at three in the afternoon and Vespers at sunset.
 
 <span id="page_237">p. 237</span>
 
-PRAYER <span id="fr_250"></span>[1](#fn_249)
+PRAYER <span id="fr_250"></span>[1](#fn_249.md)
 
 ASTRACHIOS, ASACH, ASARCA, ABEDUMABAL, SILAT, ANABOTAS, JESUBILIN,
 SCIGIN, GENEON, DOMOL, Lord God, *Who dwellest above the heavens, Whose
@@ -135,7 +135,7 @@ Names.
  
 
 <span id="img_24000"></span> [![](tn/generic.jpg)  
-Click to view](img/24000.jpg)  
+Click to view](img/24000.jpg.md)  
 THE IMP STATUE. LINCOLN.
 
  
@@ -144,14 +144,14 @@ THE IMP STATUE. LINCOLN.
 
 ### Footnotes
 
-<span id="fn_247"></span>[236:1](bcm62.htm#fr_248) This portion of the
+<span id="fn_247"></span>[236:1](bcm62.htm#fr_248.md) This portion of the
 process offers some analogy with the Key of Solomon, Book ii. c. 2.
 
-<span id="fn_248"></span>[236:2](bcm62.htm#fr_249) *i.e.*, they are
+<span id="fn_248"></span>[236:2](bcm62.htm#fr_249.md) *i.e.*, they are
 governed by the times of sunrise and sunset. Sext and Nones would not,
 however, be variable.
 
-<span id="fn_249"></span>[237:1](bcm62.htm#fr_250) This prayer is
+<span id="fn_249"></span>[237:1](bcm62.htm#fr_250.md) This prayer is
 similar to that in the *Key of Solomon*, Book ii. c. 2, with the
 exception of the names which are much mutilated in the Grimoire; these
 should read:--*Herachio, Asac, Asacro, Bedrimulael, Tilath, Arabonas,
@@ -162,4 +162,4 @@ Segon, Gemon, Demas*. But the majority of these are unintelligible.
 
 ------------------------------------------------------------------------
 
-[Next: Section 1: The Rite of Lucifuge](bcm63)
+[Next: Section 1: The Rite of Lucifuge](bcm63.md)

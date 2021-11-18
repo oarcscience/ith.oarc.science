@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara03)  [Next](ara05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara03)  [Next](ara05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ Didst bear with thee in flitting, secrets strange!
 And yet erewhile, when thou wert in the ear,  
 Even as a (golden) glittering grain, even then  
 The fireflies came to cast on thee their light <span
-id="fr_3"></span>[1](#fn_3)  
+id="fr_3"></span>[1](#fn_3.md)  
 And aid thy growth, because without their help  
 Thou couldst not grow nor beautiful become;  
 Therefore thou dost belong unto the race  
@@ -103,7 +103,7 @@ The fireflies do belong unto the sun....
 
     .    .    .    .    .
 
-Queen of the Fireflies! hurry apace, <span id="fr_4"></span>[2](#fn_4)  
+Queen of the Fireflies! hurry apace, <span id="fr_4"></span>[2](#fn_4.md)  
 Come to me now as if running a race,  
 Bridle the horse as you hear me now sing!  
 Bridle, O bridle the son of the king!  
@@ -148,7 +148,7 @@ Scongiurazione di Caïno.
 
 Tuo Caïno, tu non possa aver  
 Ne pace e ne bene fino che  
-Dal sole <span id="fr_5"></span>[1](#fn_5) andate non sarai coi piedi  
+Dal sole <span id="fr_5"></span>[1](#fn_5.md) andate non sarai coi piedi  
 Correndo, le mani battendo,  
 E pregarlo per me che mi faccia sapere,  
 Il mio destino, se cattiva fosse,  
@@ -166,7 +166,7 @@ I conjure thee, O Cain, as thou canst ne'er
 Have rest or peace until thou shalt be freed  
 From the sun where thou art prisoned, and must go  
 Beating thy hands and running fast meanwhile: <span
-id="fr_6"></span>[2](#fn_6)  
+id="fr_6"></span>[2](#fn_6.md)  
 I pray thee let me know my destiny;  
 And if 'tis evil, change its course for me!  
 If thou wilt grant this grace, I'll see it clear  
@@ -253,7 +253,7 @@ be granted unto those who merited her favour.
 
 And thus must they invoke her:
 
-Thus do I seek Aradia! Aradia! Aradia! <span id="fr_7"></span>[1](#fn_7)
+Thus do I seek Aradia! Aradia! Aradia! <span id="fr_7"></span>[1](#fn_7.md)
 At midnight, at midnight I go into a field, and with me I bear water,
 wine, and salt, *I bear water, wine, and salt*, and my talisman--*my
 talisman, my talisman*, and a red small bag which I ever hold in my hand
@@ -326,23 +326,23 @@ Unto thy destiny. Therewith, Amen!
 
 ### Footnotes
 
-<span id="fn_3"></span>[10:1](ara04.htm#fr_3) There is an evident
+<span id="fn_3"></span>[10:1](ara04.htm#fr_3.md) There is an evident
 association here of the body of the firefly (which much resembles a
 grain of wheat) with the latter.
 
-<span id="fn_4"></span>[10:2](ara04.htm#fr_4) The six lines following
+<span id="fn_4"></span>[10:2](ara04.htm#fr_4.md) The six lines following
 are often heard as a nursery rhyme.
 
-<span id="fn_5"></span>[11:1](ara04.htm#fr_5) Probably a mistake for
+<span id="fn_5"></span>[11:1](ara04.htm#fr_5.md) Probably a mistake for
 *Luna*.
 
-<span id="fn_6"></span>[11:2](ara04.htm#fr_6) This implies keeping
+<span id="fn_6"></span>[11:2](ara04.htm#fr_6.md) This implies keeping
 himself warm, and is proof positive that *moon* should here be read for
 *sun*. According to another legend Cain suffers from cold in the moon.
 
-<span id="fn_7"></span>[15:1](ara04.htm#fr_7) This is a formula which is
+<span id="fn_7"></span>[15:1](ara04.htm#fr_7.md) This is a formula which is
 to be slowly recited, emphasising the repetitions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. How Diana Made the Stars and the Rain](ara05)
+[Next: Chapter III. How Diana Made the Stars and the Rain](ara05.md)

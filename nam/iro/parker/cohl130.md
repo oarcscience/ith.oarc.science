@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl129)  [Next](cohl131) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl129)  [Next](cohl131.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,4 +11,4 @@ reluctant in performing his religious duties."
 
 ------------------------------------------------------------------------
 
-[Next: Section 120](cohl131)
+[Next: Section 120](cohl131.md)

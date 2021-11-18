@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib00)  [Next](sib02) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib00)  [Next](sib02.md) 
 
 ------------------------------------------------------------------------
 
@@ -258,4 +258,4 @@ literature.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sib02)
+[Next: Contents](sib02.md)

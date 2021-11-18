@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml09)  [Next](yml11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml09)  [Next](yml11.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ version, "Bobok," the toad brings rain; corn is not mentioned.
 
 ------------------------------------------------------------------------
 
-[Next: When Badger Named the Sun](yml11)
+[Next: When Badger Named the Sun](yml11.md)

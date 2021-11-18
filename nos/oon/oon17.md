@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon16)  [Next](oon18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon16)  [Next](oon18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ Convention,--a period of about three years.
 
 Century VIII.--*Quatrain* 17. \[I. 189.\]
 
-Les bien aisés subit <span id="fr_266"></span>[1](#fn_265) seront
+Les bien aisés subit <span id="fr_266"></span>[1](#fn_265.md) seront
 desmis;  
 Par les trois freres le monde mis en trouble.  
 Cité marine saisiront ennemies;  
@@ -57,11 +57,11 @@ the British tenure.
 
 Century IX.--*Quatrain* 17. \[I. 191.\]
 
-Le tiers <span id="fr_267"></span>[1](#fn_266) premier pis que ne fit
+Le tiers <span id="fr_267"></span>[1](#fn_266.md) premier pis que ne fit
 Neron,  
-Vuidez <span id="fr_268"></span>[2](#fn_267) vaillant que <span
-id="fr_269"></span>[3](#fn_268) sang humain respandre!  
-Rédifier fera le forneron, <span id="fr_270"></span>[4](#fn_269)  
+Vuidez <span id="fr_268"></span>[2](#fn_267.md) vaillant que <span
+id="fr_269"></span>[3](#fn_268.md) sang humain respandre!  
+Rédifier fera le forneron, <span id="fr_270"></span>[4](#fn_269.md)  
 Siecle d'or mort, nouveau Roy, grand esclandre!
 
 Translation.
@@ -79,8 +79,8 @@ scandal, and reintroduces pomp and ceremonial at the Tuileries.
 
 Century VIII.--*Quatrain* 19. \[I. 192.\]
 
-A <span id="fr_271"></span>[5](#fn_270) soustenir la grand' cappe <span
-id="fr_272"></span>[6](#fn_271) troublée,  
+A <span id="fr_271"></span>[5](#fn_270.md) soustenir la grand' cappe <span
+id="fr_272"></span>[6](#fn_271.md) troublée,  
 Pour l'esclaircir les rouges marcheront:  
 De mort famille sera presque accablée,  
 Les rouges rouges la rouge assommeront.
@@ -155,10 +155,10 @@ out their meaning.
 
 Century I.--*Quatrain* 44. \[I. 194.\]
 
-En bref <span id="fr_273"></span>[1](#fn_272) seront de retour
+En bref <span id="fr_273"></span>[1](#fn_272.md) seront de retour
 sacrifices,  
 Contrevenans seront mis à martyre;  
-Plus ne seront moines, abbés, ne <span id="fr_274"></span>[2](#fn_273)
+Plus ne seront moines, abbés, ne <span id="fr_274"></span>[2](#fn_273.md)
 novices,  
 Le miel sera beaucoup plus cher que cire.
 
@@ -185,13 +185,13 @@ England.
 
 Century II.--*Quatrain* 8. \[I. 195.\]
 
-Temples sacrés <span id="fr_275"></span>[1](#fn_274) prime <span
-id="fr_276"></span>[2](#fn_275) façon Romaine,  
-Rejetterons les gofres <span id="fr_277"></span>[3](#fn_276)
+Temples sacrés <span id="fr_275"></span>[1](#fn_274.md) prime <span
+id="fr_276"></span>[2](#fn_275.md) façon Romaine,  
+Rejetterons les gofres <span id="fr_277"></span>[3](#fn_276.md)
 fondements,  
 Prennant leurs loix premieres et humaines,  
 Chassant non tons des saincts les cultements. <span
-id="fr_278"></span>[4](#fn_277)
+id="fr_278"></span>[4](#fn_277.md)
 
 Translation.
 
@@ -209,10 +209,10 @@ and celebrated on the 8th of June of the same year with great pomp.
 Century V.--*Quatrain* 33. \[I. 196.\]
 
 Des principaux de cité rebellée.  
-Qui tiendront <span id="fr_279"></span>[1](#fn_278) fort pour liberté
+Qui tiendront <span id="fr_279"></span>[1](#fn_278.md) fort pour liberté
 r'avoir,  
-Detranchés <span id="fr_280"></span>[2](#fn_279) masles, infelice <span
-id="fr_281"></span>[3](#fn_280), meslée,  
+Detranchés <span id="fr_280"></span>[2](#fn_279.md) masles, infelice <span
+id="fr_281"></span>[3](#fn_280.md), meslée,  
 Cris, hurlements, à Nantes piteux voir!
 
 Translation.
@@ -247,10 +247,10 @@ Century VIII.--*Quatrain* 88.
 Dans la Sardeigne un noble Roy viendra,  
 Qui ne tiendra que trois ans le royaume.  
 Plusieurs couleurs avec soy conjoindra, <span
-id="fr_282"></span>[1](#fn_281)  
+id="fr_282"></span>[1](#fn_281.md)  
 Luy mesme après soin sommeil marrit <span
-id="fr_283"></span>[2](#fn_282) scome. <span
-id="fr_284"></span>[3](#fn_283)
+id="fr_283"></span>[2](#fn_282.md) scome. <span
+id="fr_284"></span>[3](#fn_283.md)
 
 Translation.
 
@@ -270,60 +270,60 @@ and humiliated, will assume the Jesuit robe, and die in 1819.
 
 ### Footnotes
 
-<span id="fn_265"></span>[238:1](oon17.htm#fr_266) *Subit* stands for
+<span id="fn_265"></span>[238:1](oon17.htm#fr_266.md) *Subit* stands for
 *subito*, suddenly.
 
-<span id="fn_266"></span>[239:1](oon17.htm#fr_267) Tiers = third.
+<span id="fn_266"></span>[239:1](oon17.htm#fr_267.md) Tiers = third.
 
-<span id="fn_267"></span>[239:2](oon17.htm#fr_268) Vuidez = Latin,
+<span id="fn_267"></span>[239:2](oon17.htm#fr_268.md) Vuidez = Latin,
 *videte*, see.
 
-<span id="fn_268"></span>[239:3](oon17.htm#fr_269) Que = how much.
+<span id="fn_268"></span>[239:3](oon17.htm#fr_269.md) Que = how much.
 
-<span id="fn_269"></span>[239:4](oon17.htm#fr_270) Forneron = Latin,
+<span id="fn_269"></span>[239:4](oon17.htm#fr_270.md) Forneron = Latin,
 *fornax*, furnace.
 
-<span id="fn_270"></span>[239:5](oon17.htm#fr_271) *A* is the Latin *a*,
+<span id="fn_270"></span>[239:5](oon17.htm#fr_271.md) *A* is the Latin *a*,
 privative.
 
-<span id="fn_271"></span>[239:6](oon17.htm#fr_272) *Cappe*, is put for
+<span id="fn_271"></span>[239:6](oon17.htm#fr_272.md) *Cappe*, is put for
 *Capet*.
 
-<span id="fn_272"></span>[241:1](oon17.htm#fr_273) En *bref*, *temps*,
+<span id="fn_272"></span>[241:1](oon17.htm#fr_273.md) En *bref*, *temps*,
 understood.
 
-<span id="fn_273"></span>[241:2](oon17.htm#fr_274) *Ne*, again used for
+<span id="fn_273"></span>[241:2](oon17.htm#fr_274.md) *Ne*, again used for
 *ni*.
 
-<span id="fn_274"></span>[242:1](oon17.htm#fr_275) *Sacrés*, for
+<span id="fn_274"></span>[242:1](oon17.htm#fr_275.md) *Sacrés*, for
 *consacrés*.
 
-<span id="fn_275"></span>[242:2](oon17.htm#fr_276) *Prime*, Latin,
+<span id="fn_275"></span>[242:2](oon17.htm#fr_276.md) *Prime*, Latin,
 *prima*, first.
 
-<span id="fn_276"></span>[242:3](oon17.htm#fr_277) *Gofres* is deep,
+<span id="fn_276"></span>[242:3](oon17.htm#fr_277.md) *Gofres* is deep,
 profound.
 
-<span id="fn_277"></span>[242:4](oon17.htm#fr_278) *Cultements*, Latin,
+<span id="fn_277"></span>[242:4](oon17.htm#fr_278.md) *Cultements*, Latin,
 *cultus*, worship.
 
-<span id="fn_278"></span>[243:1](oon17.htm#fr_279) *Tiendront fort*,
+<span id="fn_278"></span>[243:1](oon17.htm#fr_279.md) *Tiendront fort*,
 will struggle hard.
 
-<span id="fn_279"></span>[243:2](oon17.htm#fr_280) *Detranchés*, Romance
+<span id="fn_279"></span>[243:2](oon17.htm#fr_280.md) *Detranchés*, Romance
 for *tranchés*, *tête* understood.
 
-<span id="fn_280"></span>[243:3](oon17.htm#fr_281) *Infelice*, Latin,
+<span id="fn_280"></span>[243:3](oon17.htm#fr_281.md) *Infelice*, Latin,
 unhappy.
 
-<span id="fn_281"></span>[244:1](oon17.htm#fr_282) *Le* to be understood
+<span id="fn_281"></span>[244:1](oon17.htm#fr_282.md) *Le* to be understood
 before *conjoindra*.
 
-<span id="fn_282"></span>[244:2](oon17.htm#fr_283) *Marrit*, afflicted.
+<span id="fn_282"></span>[244:2](oon17.htm#fr_283.md) *Marrit*, afflicted.
 
-<span id="fn_283"></span>[244:3](oon17.htm#fr_284) *Scome*, Latin,
+<span id="fn_283"></span>[244:3](oon17.htm#fr_284.md) *Scome*, Latin,
 *scomme*, gibe, taunt.
 
 ------------------------------------------------------------------------
 
-[Next: Pius VI](oon18)
+[Next: Pius VI](oon18.md)

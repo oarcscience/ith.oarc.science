@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mhm51)  [Next](mhm53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mhm51)  [Next](mhm53.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,12 +36,12 @@ whole of which is mangy? And what verse is that the last foot of whose
 first half fights, and the final foot of whose second half conciliates?
 What verse is that whose whole is scorpions? What verse is that which is
 unseemly in original intent but can be made proper by punctuation. <span
-id="fr_1005"></span>[1](#fn_1005) What verse is that whose tears cease
-not to flow? <span id="fr_1006"></span>[2](#fn_1006) What verse is that
+id="fr_1005"></span>[1](#fn_1005.md) What verse is that whose tears cease
+not to flow? <span id="fr_1006"></span>[2](#fn_1006.md) What verse is that
 all of which runs away except its foot? What verse is that whose subject
-is not known? <span id="fr_1007"></span>[3](#fn_1007) What verse is that
+is not known? <span id="fr_1007"></span>[3](#fn_1007.md) What verse is that
 which is longer than its fellow, as though it were not of its
-kind? <span id="fr_1008"></span>[4](#fn_1008)
+kind? <span id="fr_1008"></span>[4](#fn_1008.md)
 
 What verse is that which cannot be dissolved, and whose soil cannot be
 dug? What verse is that half of which is perfect and half clothes? What
@@ -58,7 +58,7 @@ of it is paid down? What verse is that half of which is prolongation and
 half rejection? What verse is that half of which is elevation and its
 elevation is a slap? What verse is that whose expulsion is eulogy, but
 whose converse is censure? What verse is that which, in a visitation, is
-a prayer for the time of peril? <span id="fr_1009"></span>[5](#fn_1009)
+a prayer for the time of peril? <span id="fr_1009"></span>[5](#fn_1009.md)
 What verse is that which the sheep eat when they please?
 
 <span id="page_169">p. 169</span>
@@ -68,7 +68,7 @@ verse is that which extends till it reaches six pounds? What verse is it
 that stood up, then fell down and went to sleep? What verse is it that
 wished to decrease, but increased? What verse is it that was about to go
 and then returned? What verse destroyed ‘Iráq <span
-id="fr_1010"></span>[1](#fn_1010)? What verse conquered Baṣra? What
+id="fr_1010"></span>[1](#fn_1010.md)? What verse conquered Baṣra? What
 verse is it that melted under torture?
 
 What verse grew old before adolescence? What verse is it that returned
@@ -76,7 +76,7 @@ before the appointed time? What verse is it that alighted and then
 passed away? What verse is it that was tightly twisted and then became
 strong? What verse is that, which was adjusted till it became rectified?
 What verse is that which is swifter than Ṭirimmaḥ's arrow? <span
-id="fr_1011"></span>[2](#fn_1011) What verse is it that issued from
+id="fr_1011"></span>[2](#fn_1011.md) What verse is it that issued from
 their eyes? What verse is it that contracted, and then sufficed to fill
 the world? What verse is it that returned and excited pain? What verse
 is that half of which is gold and the remainder tail? What verse is that
@@ -104,23 +104,23 @@ And among those we selected was the verse which is
 unseemly in original intent but can be made proper by punctuation. So we
 asked him concerning it, and he said: 'It is the verse of Abú Núwás:--
 
-And we passed the night, <span id="fr_1012"></span>[1](#fn_1012) God
+And we passed the night, <span id="fr_1012"></span>[1](#fn_1012.md) God
 regarding us as the vilest company, trailing the skirts of wickedness,
 and no boast.'
 
 We asked: 'And the verse whose dissolving is binding up and the whole of
 it is paid down?' He replied: 'It is the verse of Al ‘Aasha,--
 
-All our dirhems are good, <span id="fr_1013"></span>[2](#fn_1013) so
+All our dirhems are good, <span id="fr_1013"></span>[2](#fn_1013.md) so
 delay us not by testing them.'
 
 And the paraphrase of that would be to say: 'Our dirhems are good, all
 of them, so delay us not by testing them.' Now the metre is not
 destroyed by this paraphrase. We asked: 'And the verse half of which is
 prolongation and half rejection?' He replied: 'It is the verse of
-al-Bakrí, <span id="fr_1014"></span>[3](#fn_1014)
+al-Bakrí, <span id="fr_1014"></span>[3](#fn_1014.md)
 
-A genuine dinar came to thee <span id="fr_1015"></span>[4](#fn_1015)
+A genuine dinar came to thee <span id="fr_1015"></span>[4](#fn_1015.md)
 short of sixty fals,  
 From the most generous of men, except as regards origin, development and
 personality.
@@ -128,26 +128,26 @@ personality.
 We asked: 'And the verse that the sheep eat when they please?' He said:
 'It is the verse of the poet:
 
-"May separation be cut off! <span id="fr_1016"></span>[5](#fn_1016) May
+"May separation be cut off! <span id="fr_1016"></span>[5](#fn_1016.md) May
 separation be severed!  
-I perceive separation <span id="fr_1017"></span>[6](#fn_1017) to be a
+I perceive separation <span id="fr_1017"></span>[6](#fn_1017.md) to be a
 great severer of friends."  
 We asked: 'And the verse which extends till it reaches six pounds?' He
 replied: 'It is the verse of Ibn al-Rúmí,  
-"When he gives, <span id="fr_1018"></span>[7](#fn_1018) he makes not his
+"When he gives, <span id="fr_1018"></span>[7](#fn_1018.md) he makes not his
 gift an obligation and he says to my soul, O soul respite me."'
 
 <span id="page_171">p. 171</span>
 
 Said ‘Ísá ibn Hishám: Then we knew that the problems were not destitute
-of beauty. <span id="fr_1019"></span>[1](#fn_1019) So we tried hard and
+of beauty. <span id="fr_1019"></span>[1](#fn_1019.md) So we tried hard and
 we found out some, and obtained information about the others. Then I
 recited after him, while he was running quickly away:--
 
-'Men differ in excellence <span id="fr_1020"></span>[2](#fn_1020) and
+'Men differ in excellence <span id="fr_1020"></span>[2](#fn_1020.md) and
 some resemble others,  
 But for him I should have been like Raḍwá <span
-id="fr_1021"></span>[3](#fn_1021) in length, depth and breadth.'
+id="fr_1021"></span>[3](#fn_1021.md) in length, depth and breadth.'
 
  
 
@@ -155,65 +155,65 @@ id="fr_1021"></span>[3](#fn_1021) in length, depth and breadth.'
 
 ### Footnotes
 
-<span id="fn_1005"></span>[168:1](mhm52.htm#fr_1005) *Proper by
+<span id="fn_1005"></span>[168:1](mhm52.htm#fr_1005.md) *Proper by
 punctuation:* Cf. Maqáma xxviii.
 
-<span id="fn_1006"></span>[168:2](mhm52.htm#fr_1006) *Whose tears cease
+<span id="fn_1006"></span>[168:2](mhm52.htm#fr_1006.md) *Whose tears cease
 not to flow:* Cf. Maqáma xxviii.
 
-<span id="fn_1007"></span>[168:3](mhm52.htm#fr_1007) *Whose subject is
+<span id="fn_1007"></span>[168:3](mhm52.htm#fr_1007.md) *Whose subject is
 not known:* Cf. Maqáma xxviii.
 
-<span id="fn_1008"></span>[168:4](mhm52.htm#fr_1008) *Of its kind:* Cf.
+<span id="fn_1008"></span>[168:4](mhm52.htm#fr_1008.md) *Of its kind:* Cf.
 Maqáma xxviii.
 
-<span id="fn_1009"></span>[168:5](mhm52.htm#fr_1009) … *A prayer for the
+<span id="fn_1009"></span>[168:5](mhm52.htm#fr_1009.md) … *A prayer for the
 time of peril:* In cases of extreme danger in lieu of the rak’as or
 genuflexions, the bowing of the head is sufficient. See *Minháj
 al-Ṭálibín*, par Van Den Berg, 181-5.
 
-<span id="fn_1010"></span>[169:1](mhm52.htm#fr_1010) *Destroyed ‘Iráq*,
+<span id="fn_1010"></span>[169:1](mhm52.htm#fr_1010.md) *Destroyed ‘Iráq*,
 Text, p. 224, line 3 for … read ….
 
-<span id="fn_1011"></span>[169:2](mhm52.htm#fr_1011) *Ṭirimmáḥ's* arrow:
+<span id="fn_1011"></span>[169:2](mhm52.htm#fr_1011.md) *Ṭirimmáḥ's* arrow:
 Ṭirimmáḥ ibn Ḥakím ibn al-Ḥakam, the name of a famous poet, a
 contemporary of Dhú al-Rumma (ob. 117 A.H.) I have not been able to find
 anything to connect the poet with archery.
 
-<span id="fn_1012"></span>[170:1](mhm52.htm#fr_1012) *And we passed the
+<span id="fn_1012"></span>[170:1](mhm52.htm#fr_1012.md) *And we passed the
 night*. Metre *tawíl*.
 
-<span id="fn_1013"></span>[170:2](mhm52.htm#fr_1013) *All our dirhems
+<span id="fn_1013"></span>[170:2](mhm52.htm#fr_1013.md) *All our dirhems
 are good:* Metre, *mutaqárib*.
 
-<span id="fn_1014"></span>[170:3](mhm52.htm#fr_1014) *Al-Bakrí:* For
+<span id="fn_1014"></span>[170:3](mhm52.htm#fr_1014.md) *Al-Bakrí:* For
 further specimens of this early poet's verses, see *Aghání*, iv, 143,
 146, and 147.
 
-<span id="fn_1015"></span>[170:4](mhm52.htm#fr_1015) *A genuine dinar
+<span id="fn_1015"></span>[170:4](mhm52.htm#fr_1015.md) *A genuine dinar
 came to thee:* Metre, *mujtath*.
 
-<span id="fn_1016"></span>[170:5](mhm52.htm#fr_1016) *May separation be
+<span id="fn_1016"></span>[170:5](mhm52.htm#fr_1016.md) *May separation be
 cut off:* Metre, *tawíl*.
 
-<span id="fn_1017"></span>[170:6](mhm52.htm#fr_1017) … *Separation:* The
+<span id="fn_1017"></span>[170:6](mhm52.htm#fr_1017.md) … *Separation:* The
 point here is the double meaning of … 'separation' and the plural of … a
 date stone. I am unable to say, however, whether sheep eat these stones.
 
-<span id="fn_1018"></span>[170:7](mhm52.htm#fr_1018) *When he gives:*
+<span id="fn_1018"></span>[170:7](mhm52.htm#fr_1018.md) *When he gives:*
 Metre *tawíl*. … When he gives--The play is on … which means, 'he
 bestowed ', and a certain weight which is generally considered as equal
 to two pounds troy weight. The repetition of this word four times works
 out exactly six ratls or pounds.
 
-<span id="fn_1019"></span>[171:1](mhm52.htm#fr_1019) … *Not destitute of
+<span id="fn_1019"></span>[171:1](mhm52.htm#fr_1019.md) … *Not destitute of
 beauty*. From … applied to a woman who is unadorned with a necklace, the
 emblem of female dignity.
 
-<span id="fn_1020"></span>[171:2](mhm52.htm#fr_1020) *Men differ in
+<span id="fn_1020"></span>[171:2](mhm52.htm#fr_1020.md) *Men differ in
 excellence:* Metre, *mujtath*.
 
-<span id="fn_1021"></span>[171:3](mhm52.htm#fr_1021) … *Like Raḍwá:*
+<span id="fn_1021"></span>[171:3](mhm52.htm#fr_1021.md) … *Like Raḍwá:*
 There are several mountains of this name in Arabia. The one alluded to
 is probably that near Madína which the Arabs quote as synonymous with
 something weighty and responsible. Cf. the line by Mú’arrí cited by the
@@ -302,4 +302,4 @@ Cf. *Ḥarírí*, ii, 453-70.
 
 ------------------------------------------------------------------------
 
-[Next: XLV. The Maqáma of Kings](mhm53)
+[Next: XLV. The Maqáma of Kings](mhm53.md)

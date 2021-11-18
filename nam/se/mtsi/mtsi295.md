@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi294)  [Next](mtsi296) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi294)  [Next](mtsi296.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,9 +44,9 @@ have made a place good for me to breathe through." Then he flew off.
 
 ### Footnotes
 
-<span id="fn_85"></span>[254:1](mtsi293.htm#fr_86) Told by a Creek
+<span id="fn_85"></span>[254:1](mtsi293.htm#fr_86.md) Told by a Creek
 Indian.
 
 ------------------------------------------------------------------------
 
-[Next: 31. Rabbit and Alligator](mtsi296)
+[Next: 31. Rabbit and Alligator](mtsi296.md)

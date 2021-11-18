@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos10)  [Next](mos12) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos10)  [Next](mos12.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ and every place, except those that God did make them succeed and happy.
 ------------------------------------------------------------------------
 
 [Next: The Pharaoh Wants to Kill Moses and The Believing Man From The
-Pharaoh Family Defending Him](mos12)
+Pharaoh Family Defending Him](mos12.md)

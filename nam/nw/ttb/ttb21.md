@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb20)  [Next](ttb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb20)  [Next](ttb22.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 <span id="page_34">p. 34</span>
 
 <span id="img_03400"></span> ![Men-a-Mooks, The Otter
-Spirit](img/03400.jpg)
+Spirit](img/03400.jpg.md)
 
 ### Men-a-Mooks, THE OTTER SPIRIT
 
@@ -42,4 +42,4 @@ its meat burnt as offering to the **Klatawa Tumtum** (Departed Souls).
 
 ------------------------------------------------------------------------
 
-[Next: Pi-Chikamin, The Gift Copper](ttb22)
+[Next: Pi-Chikamin, The Gift Copper](ttb22.md)

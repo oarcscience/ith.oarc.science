@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Judaism](index)  
+[Intangible Textual Heritage](../index)  [Judaism](index.md)  
 This is an extract from  
 [Sacred Books and Early Literature of the East: Medieval
-Hebrew](mhl/index).
+Hebrew](mhl/index.md).
 
 ------------------------------------------------------------------------
 

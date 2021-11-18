@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat02)  [Next](flat04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat02)  [Next](flat04.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ heavy curse to any one who would go to listen to fairy tunes again.
 
 ------------------------------------------------------------------------
 
-[Next: The Priest](flat04)
+[Next: The Priest](flat04.md)

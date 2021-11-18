@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml01)  [Next](yml03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml01)  [Next](yml03.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ narrators refer to this period.
 
 ------------------------------------------------------------------------
 
-[Next: Cultural Setting](yml03)
+[Next: Cultural Setting](yml03.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc00)  [Next](sfoc02) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc00)  [Next](sfoc02.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ American](../../index)  [Cherokee](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sfoc02)
+[Next: Introduction](sfoc02.md)

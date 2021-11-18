@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm15)  [Next](tmm17) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm15)  [Next](tmm17.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ Belshazzar--should reign over extensive kingdoms.--Mid. Esther 10.
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Psalms](tmm17)
+[Next: Midrash Psalms](tmm17.md)

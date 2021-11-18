@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat43)  [Next](jat45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat43)  [Next](jat45.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ this direction. She left him.
 
 ------------------------------------------------------------------------
 
-[Next: 43. Coyote Deceives a Woman](jat45)
+[Next: 43. Coyote Deceives a Woman](jat45.md)

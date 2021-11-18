@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-0-2) [Next](gjb-2-0)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-0-2) [Next](gjb-2-0.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ other cognate essays, appeared originally in the pages of *The Quest*
 (1909-14), and are now available in book-form in an arresting volume,
 called *Orpheus—the Fisher: Comparative Studies in Orphic and Christian
 Cult Symbolism*.<span id="page_1_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_1_note_1)
+class="small">1</span></sup>](#page_1_note_1.md)
 
    By way of introduction and as the most complete contrast to the
 Mandæan tradition of the Gnostic John, I will set forth in my own way
@@ -80,7 +80,7 @@ The passage runs as follows as nearly as I can render it:
 > much as indeed the soul had already been purified by righteousness.
 >
 >    Now since the others<span id="page_3_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_3_note_1) were gathering
+> class="small">1</span></sup>](#page_3_note_1.md) were gathering
 > themselves together (or becoming organized),—for indeed they were
 > delighted beyond measure at the hearing of his (John's) 'sayings'
 > (*logoi*),—Herod, fearing that his extraordinary power of persuading
@@ -92,7 +92,7 @@ The passage runs as follows as nearly as I can render it:
 >
 >    Accordingly, on Herod's suspicion, he was sent in bonds to
 > Machærus,<span id="page_3_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_3_note_2) the above-mentioned
+> class="small">2</span></sup>](#page_3_note_2.md) the above-mentioned
 > fortress, and put to death there. The Jews, however, believed that
 > destruction befell the army to avenge him, God willing to afflict
 > Herod.
@@ -149,7 +149,7 @@ repentance, of the turning back of Israel in contrition unto God.
 exponents of the scriptures on quasi-mystical lines called Dorshē
 Reshumōth. According to a Rabbinic legend, going back along this line of
 interpretation, the ancient myth of [Gen.
-3:21](../../../bib/kjv/gen.htm#3:21) was conceived more spiritually.
+3:21](../../../bib/kjv/gen.htm#3:21.md) was conceived more spiritually.
 After the fall, the first falling away from God, Yahveh-Elohīm clothed
 Adam and Eve in coats of skin (*'ōr*), not because of their nakedness,
 but in exchange for their lost paradisaical garments of light (*'ōr*).
@@ -167,7 +167,7 @@ contrary direction the way of the fall.
 
    So too with regard to food, there must be a return to the primitive
 law laid down for primal fallen man [(Gen.
-1:29)](../../../bib/kjv/gen.htm#1:29): "Behold, I have given you every
+1:29)](../../../bib/kjv/gen.htm#1:29.md): "Behold, I have given you every
 herb bearing seed, which is upon the face of the earth, and every tree,
 in which is the fruit of a tree yielding seed; to you it shall be for
 meat." It was only after the Deluge that men were permitted to eat
@@ -181,31 +181,31 @@ carob or locust-tree, which was considered by the Jewish allegorists the
 most appropriate food of repentance. For we have preserved from this
 line of tradition an ancient proverb: "Israel needs carob-pods to make
 him repent," said to be based on a prophecy in [Isaiah
-(1:20)](../../../bib/kjv/isa.htm#1:20) which the Midrash (*Wayikra
+(1:20)](../../../bib/kjv/isa.htm#1:20.md) which the Midrash (*Wayikra
 Rabba*, 35) quotes as: "If ye be willing and obedient, the good of the
 land shall ye eat; but if ye refuse and resist, carob-pods shall ye
 eat"—where the last clause differs considerably from the R.V., which
 reads: "ye shall be devoured by the <span id="page_7">p. 7</span>
 sword." Perhaps the 'husks' eaten by the Prodigal in the gospel-parable
 may in the original Aramaic have been carob-pods [(Lk.
-15:16)](../../../bib/kjv/luk.htm#15:16). Much controversy has raged
+15:16)](../../../bib/kjv/luk.htm#15:16.md). Much controversy has raged
 round the 'locusts' eaten by John, and early versions are various.
 
    As for drink,—in addition to water for general purposes, John is said
 to have in particular sipped the honey of the wild bees. Why is this
 brought into so great prominence? Again perhaps this custom was
 determined for John by the same circle of ideas. He probably bethought
-him of [Deut. 32:13](../../../bib/kjv/deu.htm#32:13): "He made him to
+him of [Deut. 32:13](../../../bib/kjv/deu.htm#32:13.md): "He made him to
 suck honey out of the rock," and also of [Ps.
-81:16](../../../bib/kjv/psa.htm#81:16): "And with honey out of the rock
+81:16](../../../bib/kjv/psa.htm#81:16.md): "And with honey out of the rock
 shall I satisfy thee." From such considerations it may plausibly be
 believed that John adopted an asceticism of repentance with regard to
 clothing and food as completely in accordance with the scriptures as
 possible, and this in addition to the customary discipline of a vowed
 Nazir, 'consecrated' or 'made holy' as such from birth. The technical
 term for a Nazir is a Nazirite unto God, or holy unto God, as of Samson
-(LXX. Judges, [13:7](../../../bib/kjv/jdg.htm#13:7),
-[16:9](../../../bib/kjv/jdg.htm#16:9)),—in brief God's 'holy one.'
+(LXX. Judges, [13:7](../../../bib/kjv/jdg.htm#13:7.md),
+[16:9](../../../bib/kjv/jdg.htm#16:9).md),—in brief God's 'holy one.'
 
  
 
@@ -218,7 +218,7 @@ rumours were afloat as to the nature of the long-expected God's
 Anointed. Some thought he was to be a Nazir who would free Israel from
 their present foes, even as in days of old the Nazir Samson had freed
 them from the yoke of the Philistines. Moreover the well-known prophecy
-[(Is. 11:1)](../../../bib/kjv/isa.htm#11:1) about the 'sprout' from the
+[(Is. 11:1)](../../../bib/kjv/isa.htm#11:1.md) about the 'sprout' from the
 <span id="page_8">p. 8</span> root or stem of Jesse gave rise to much
 speculation, helped out by that word-play which exercised so powerful a
 fascination over the imaginative minds of the Jews of that day, and long
@@ -241,18 +241,18 @@ approach of the catastrophic end of this æon or age or world,—all would
 conspire to make some, if not many, think that he himself was the great
 Nazir-Neṣer, the expected 'holy one' of God. By others he was thought to
 be Elijah returned, as the prophet Malachi (the Book of the Angel or
-Messenger of Yahveh) had foretold ([4:5](../../../bib/kjv/mal.htm#4:5)):
+Messenger of Yahveh) had foretold ([4:5](../../../bib/kjv/mal.htm#4:5).md):
 "Behold, I will send you Elijah the prophet before the great and
 terrible Day of the Lord come"; or even, may be, some thought that that
 prophet of promise like unto Moses [(Deut.
-18:15)](../../../bib/kjv/deu.htm#18:15) had been raised up in John. John
+18:15)](../../../bib/kjv/deu.htm#18:15.md) had been raised up in John. John
 himself apparently made no claim to be any of these; he was a proclaimer
 of the near approach of the great and terrible Day and <span
 id="page_9">p. 9</span> a powerful exhorter to repentance. It is
 doubtful even whether he gave himself out to be simply "the voice of one
-crying in the wilderness" [(Mk. 1:3)](../../../bib/kjv/mar.htm#1:3); for
+crying in the wilderness" [(Mk. 1:3)](../../../bib/kjv/mar.htm#1:3.md); for
 such a knower of the scriptures would have been aware that the original
-of [Isaiah 40:3](../../../bib/kjv/isa.htm#40:3) read: "The voice of one
+of [Isaiah 40:3](../../../bib/kjv/isa.htm#40:3.md) read: "The voice of one
 crying: In the wilderness, etc." But apparently John was not only an
 inspired prophet, he was also a wonder-worker, if certain echoes
 concerning him in the Synoptics ring true. For there we read that
@@ -275,7 +275,7 @@ of the sluggish Jordan were deemed by theologians and ritualists as
 unfit for purificatory purposes. What then could have induced John to
 reject this priestly and purist tabū? Tho only feasible motive is to be
 found in supposing that John was convinced that a remarkable prophetical
-vision of [Ezekiel (47:1-8)](../../../bib/kjv/eze.htm#47:1), where the
+vision of [Ezekiel (47:1-8)](../../../bib/kjv/eze.htm#47:1.md), where the
 prophet is addressed as Son of Man, was being fulfilled. In the
 longed-for time of the Messianic deliverance a mighty stream of holy
 water from the temple-hill of Zion was to flow down and heal the waters
@@ -285,7 +285,7 @@ of the unclean Jordan-land, the Arabah or Desert.
 
    Eisler has acutely conjectured that this idea of a fount of living
 and healing water for Israel goes back ultimately to [Isaiah
-28:16](../../../bib/kjv/isa.htm#28:16), not however as it stands at
+28:16](../../../bib/kjv/isa.htm#28:16.md), not however as it stands at
 present in the R.V. wording, but in its extended form which was well
 known up to the 3rd century A.D. This reads as follows according to his
 rendering: "Behold, I lay down in Zion a living stone, a stone of
@@ -322,7 +322,7 @@ now sacred stream to which faith ascribed life-redeeming properties, a
 regeneration wrought by the saving spring of God's outpouring flowing
 down from the sanctuary into the desert. If they repented, if they once
 unfeignedly turned again to God, then would the prophetical promise in
-[Micah 7:19](../../../bib/kjv/mic.htm#7:19) be fulfilled: "He will turn
+[Micah 7:19](../../../bib/kjv/mic.htm#7:19.md) be fulfilled: "He will turn
 again, he will have compassion upon us, he will subdue our iniquities.
 Yea, thou wilt wash away all our sins into the depths of the sea."
 
@@ -350,7 +350,7 @@ from his former gentile relatives; not only so, but according to
 Rabbinic casuistry he could not even commit incest with one of them.
 This regenerative gentile baptism (*tebilah gerīm*). was made by the
 theologians to depend from the promise in [Ezekiel
-(36:25-26)](../../../bib/kjv/eze.htm#36:25): "I will sprinkle clean
+(36:25-26)](../../../bib/kjv/eze.htm#36:25.md): "I will sprinkle clean
 water upon you, and ye shall be clean: from all your filthiness and from
 all your idols, will I cleanse you. A new heart I will give you, and a
 new spirit will I put within you."
@@ -385,8 +385,8 @@ ONE OF JOHN'S DISCOURSES AND ITS SYMBOLISM.
 
    Let us now turn to the first part of the short but powerful address
 of the Baptizer handed on by [Mt.
-(3:7-10)](../../../bib/kjv/mat.htm#3:7) and [Lk.
-(3:7-9)](../../../bib/kjv/luk.htm#3:7), a most interesting example of
+(3:7-10)](../../../bib/kjv/mat.htm#3:7.md) and [Lk.
+(3:7-9)](../../../bib/kjv/luk.htm#3:7.md), a most interesting example of
 those stirring utterances or 'sayings' of his referred to by Josephus.
 
 >    Ye out-births of vipers, who hath given you a glimpse of fleeing
@@ -402,7 +402,7 @@ those stirring utterances or 'sayings' of his referred to by Josephus.
    This graphic discourse, contained in Q, begins with the same terrible
 phrase 'generation' or 'out-births of vipers' which Jesus also uses on
 several occasions. It may possibly go back to [Micah
-7:17](../../../bib/kjv/mic.htm#7:17), where we read, referring to the
+7:17](../../../bib/kjv/mic.htm#7:17.md), where we read, referring to the
 heathen: "They shall lick the dust like serpents, like those creeping on
 the earth." And if 'licking the dust' can be taken in the sense of the
 allegorists of the time, who interpret it as eating excrement, a fate
@@ -414,16 +414,16 @@ raising up children out of the barren rock of their forefather. God is
 able to make a new Israel out of the very stones, just as he had of old
 hewn, like stones (Heb. *'abanīm*), a line of sons (Heb. *bānīm*) from
 the once barren rock of Abraham, as Isaiah says
-([51:1-2](../../../bib/kjv/isa.htm#51:1)): "Look unto the rock whence ye
+([51:1-2](../../../bib/kjv/isa.htm#51:1).md): "Look unto the rock whence ye
 were hewn . . . look unto Abraham your father."
 
    This for the 'stones'; but what of the 'trees'? There are other
-passages in the O.T. (*e.g.* [Ps. 1:1](../../../bib/kjv/psa.htm#1:1),
-[Jer. 17:5-8](../../../bib/kjv/jer.htm#17:5)) which liken the man who
+passages in the O.T. (*e.g.* [Ps. 1:1](../../../bib/kjv/psa.htm#1:1.md),
+[Jer. 17:5-8](../../../bib/kjv/jer.htm#17:5).md) which liken the man who
 delights in the Law and has faith in Yahveh to fruit-bearing trees; but
 the most arresting verse in this connection is to be found in the
 continuation of the same vision in [Ezekiel
-(47:1-8)](../../../bib/kjv/eze.htm#47:1) which so graphically depicted
+(47:1-8)](../../../bib/kjv/eze.htm#47:1.md) which so graphically depicted
 the Messianic Source. This reads (v. 12):
 
    "By the river upon the banks thereof, on this side and on that side,
@@ -497,8 +497,8 @@ is not out of keeping with the fact that the baptism of John was also
 practised in the east Mediterranean area far outside Palestine among the
 Dispersion and indeed among some of the early Christian communities, as
 we learn from the Acts and Epistles, witness especially the Apollōs
-incident ([Acts 18:24](../../../bib/kjv/act.htm#18:24), [I. Cor.
-1:12](../../../bib/kjv/co1.htm#1:12)).
+incident ([Acts 18:24](../../../bib/kjv/act.htm#18:24.md), [I. Cor.
+1:12](../../../bib/kjv/co1.htm#1:12).md).
 
  
 
@@ -544,8 +544,8 @@ JOHN-JONAH.
    Similarity in the sounds of names fascinated men's minds, and
 Ḫani-Ōannēs-John is not the only name-play we meet with in the Baptist's
 story. Attempts have been made by scholars to show that 'the sign of the
-prophet Jonah' (Q—[Mt. 12:19](../../../bib/kjv/mat.htm#12:19)f. = [Lk.
-11:29](../../../bib/kjv/luk.htm#11:29)f.) was perhaps originally
+prophet Jonah' (Q—[Mt. 12:19](../../../bib/kjv/mat.htm#12:19.md)f. = [Lk.
+11:29](../../../bib/kjv/luk.htm#11:29)f..md) was perhaps originally
 connected with John, and that a testimony of Jesus to John has been
 converted already in Q, the early non-Markan source of matter common to
 Mt. and Lk., into a testimony of Jesus concerning himself. (On this
@@ -560,7 +560,7 @@ shortened form of Joḫanan.
    The Jonah-legend provided a very suitable setting wherein to depict
 the life of a prophet who caused his hearers to repent, and it may be
 that Jesus referred to John as 'a greater Jonah' [(Mt.
-12:41)](../../../bib/kjv/mat.htm#12:41). The most striking image in the
+12:41)](../../../bib/kjv/mat.htm#12:41.md). The most striking image in the
 mythic story is the Great Fish. Now the belly of the Great Fish for the
 Jewish allegorists, and indeed it is plainly stated in the legend
 itself, was Sheōl, the Underworld, the Pit. But another mythic Great
@@ -602,7 +602,7 @@ common symbol for the righteous man of Israel, who lived all his life in
 the waters of the Torah or Sacred Law. The evidence goes back as early
 as the times of Rabban Gamaliel the Elder, the teacher of Paul, who was
 therefore a contemporary of John and Jesus. Thus we read in the *Midrash
-Tanḫuma* to [Deut. 5:32](../../../bib/kjv/deu.htm#5:32): "As a fish
+Tanḫuma* to [Deut. 5:32](../../../bib/kjv/deu.htm#5:32.md): "As a fish
 delights in water, even so a master of the scriptures dives into the
 streams of balm"—the sweet smelling waters of the Law; compare the sweet
 savour and perfume of the gnōsis and of the heavenly essences and *per
@@ -618,11 +618,11 @@ the degree of their learning and quickness of their understanding."
    Though they were not 'fishers of men,' they were fish of Yahveh
 swimming in the holy stream, the life-giving waters of the Law. It was
 thus very natural for John, remembering the striking passage in [Ezekiel
-(47:12)](../../../bib/kjv/eze.htm#47:12) about the fish who repented, to
+(47:12)](../../../bib/kjv/eze.htm#47:12.md) about the fish who repented, to
 contrast with them the unrepentant as a 'generation of vipers,' (cp. the
-fish-scorpion contrast in [Mt. 7:10](../../../bib/kjv/mat.htm#7:10)).
+fish-scorpion contrast in [Mt. 7:10](../../../bib/kjv/mat.htm#7:10).md).
 Nor could John have been ignorant of the prophecy in [Jeremiah
-(16:16)](../../../bib/kjv/jer.htm#16:16) <span id="page_21">p. 21</span>
+(16:16)](../../../bib/kjv/jer.htm#16:16.md) <span id="page_21">p. 21</span>
 concerning the gathering together of dispersed Israel: "Behold, I will
 send for many fishers, saith the Lord, and they shall fish them," and
 have given it a spiritual significance. But of an even more arresting
@@ -645,7 +645,7 @@ they called the Ta'eb, the Returner, and they believed he would be a
 reborn or returned Joshuah. The Ta'eb is the Samaritan 'Messiah.' In
 this connection a recently translated Samaritan Midrash (B.M. Samaritan
 MS. Or. 3393<span id="page_21_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_21_note_1)) is especially
+class="small">1</span></sup>](#page_21_note_1).md) is especially
 instructive. It understands the title Ta'eb as signifying 'he who
 repents' or even 'he who makes to repent,' not so much the Returner as
 the Turner-back of others. It is brought into close connection also with
@@ -684,8 +684,8 @@ and gnostic movements of all sorts.
 Messianic expectations of those days, therefore, was the belief that in
 the Last Days it would again be as in the times of Noah, as indeed we
 are expressly informed by Q ([Mt.
-24:37](../../../bib/kjv/mat.htm#24:37)ff. = [Lk.
-17:26](../../../bib/kjv/luk.htm#17:26)ff.)
+24:37](../../../bib/kjv/mat.htm#24:37.md)ff. = [Lk.
+17:26](../../../bib/kjv/luk.htm#17:26)ff..md)
 
  
 
@@ -766,7 +766,7 @@ him to become 'fishers of men,' is inexplicable without there having
 been some prior knowledge of the Way on the part of Simon and Andrew,
 James and John. They may well have already been familiar with John's
 teaching. Indeed the writer of the Fourth Gospel tells us categorically
-[(Jn. 1:40)](../../../bib/kjv/joh.htm#1:40) that Andrew, the brother of
+[(Jn. 1:40)](../../../bib/kjv/joh.htm#1:40.md) that Andrew, the brother of
 Simon-Peter-Kephas, had been a disciple of the Baptizer.
 
    But if some of John's actual 'disciples' followed Jesus before any
@@ -812,8 +812,8 @@ as if John recognized the Messiahship of Jesus, and the later and
 'correcting' Fourth Gospel emphatically affirms that he did so from the
 baptism onwards, there was evidently very considerable doubt on the
 question in the earliest tradition. Q ([Mt.
-11:3](../../../bib/kjv/mat.htm#11:3)f. = [Lk.
-7:19](../../../bib/kjv/luk.htm#7:19)f.) lets the reader see that John
+11:3](../../../bib/kjv/mat.htm#11:3.md)f. = [Lk.
+7:19](../../../bib/kjv/luk.htm#7:19)f..md) lets the reader see that John
 <span id="page_27">p. 27</span> to the end had no conviction, much less
 prior spiritual apperception, on the subject. For it tells us that just
 before his end the imprisoned prophet sent messengers to Jesus asking
@@ -861,7 +861,7 @@ complex.
 
 ------------------------------------------------------------------------
 
-[Next: II. From the John-Book of the Mandæans](gjb-2-0)
+[Next: II. From the John-Book of the Mandæans](gjb-2-0.md)
 
 ------------------------------------------------------------------------
 
@@ -869,21 +869,21 @@ complex.
 
 <span id="footnotes_page_1">p. 1</span>
 
-<span id="page_1_note_1"></span>[1](#page_1_fr_1) London, Watkins, 1921.
+<span id="page_1_note_1"></span>[1](#page_1_fr_1.md) London, Watkins, 1921.
 Chh. xv-xxvi. (pp. 129-207) are devoted to the special subject of John
 and his doctrines.
 
 <span id="footnotes_page_3">p. 3</span>
 
-<span id="page_3_note_1"></span>[1](#page_3_fr_1) The rest of the Jews
+<span id="page_3_note_1"></span>[1](#page_3_fr_1.md) The rest of the Jews
 other than Herod's party presumably.
 
-<span id="page_3_note_2"></span>[2](#page_3_fr_2) A mountain fortress;
+<span id="page_3_note_2"></span>[2](#page_3_fr_2.md) A mountain fortress;
 in Peræa on the boundary between Palestine and Arabia.
 
 <span id="footnotes_page_21">p. 21</span>
 
-<span id="page_21_note_1"></span>[1](#page_21_fr_1) Ed. by Adalbert
+<span id="page_21_note_1"></span>[1](#page_21_fr_1.md) Ed. by Adalbert
 Merx, *Zeitschr. f. alt. Wiss.*, 1909, xvii. 80.
 
  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Chinese
-Articles](../../cfu/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Chinese
+Articles](../../cfu/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -445,13 +445,13 @@ Refine and correct yourselves.<br />
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Chinese Articles](../../cfu/etc/index)
+[Journals](../index) [Chinese Articles](../../cfu/etc/index.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="page_62_note_1"></span>[1](#page_62_fr_1) "Wife" is presumably
+<span id="page_62_note_1"></span>[1](#page_62_fr_1.md) "Wife" is presumably
 a misprint or a wrong translation. We believe that the Virgin Mary is
 here referred to.
 

@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain40)  [Next](ain42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain40)  [Next](ain42.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_217">p. 217</span>
 
-### THE STORY OF CORN AND TOBACCO <span id="fr_7"></span>[1](#fn_7)
+### THE STORY OF CORN AND TOBACCO <span id="fr_7"></span>[1](#fn_7.md)
 
 THERE was a powerful mahkai who had a daughter, who, tho old enuf, was
 unmarried, and who grew tired of her single life and asked her father to
@@ -103,7 +103,7 @@ did as Tobacco had told him; and the smoking of the dirt brought rain,
 and the seeds were planted in a secret place, and in four days came up,
 and grew for a while, but finally were about to die for want of rain.
 
-Then [Geeheesop](errata.htm#33) got some of the leaves and smoked them,
+Then [Geeheesop](errata.htm#33.md) got some of the leaves and smoked them,
 and the wind blew, and rain came, and the plants revived and grew till
 they were ripe.
 
@@ -338,7 +338,7 @@ over the earth, and watered all the plants, and the roots of all the
 trees; and everything was different from what it had been.
 
 Every low place and every valley was crooked, but the force of the
-waters [straightened](errata.htm#34) them out, and there was driftwood
+waters [straightened](errata.htm#34.md) them out, and there was driftwood
 on all the
 
 <span id="page_228">p. 228</span>
@@ -366,7 +366,7 @@ And the Dog-Pumpkin Baby lay there broken, after Corn went away, but
 after awhile sank down and went to Gahkotekih, and grew up there, and
 became the Harsan or Giant Cactus.
 
-And the mother and grandfather [could](errata.htm#35) not find the
+And the mother and grandfather [could](errata.htm#35.md) not find the
 Dog-Pumpkin Baby, and called the people together, and Toehahvs was asked
 to find it, and he smelled around where it had been, and went around in
 circles.
@@ -391,7 +391,7 @@ And when the Cactus had fruit the people gathered it, and made
 *tis-win*, and took the seeds and spread them out in the sun.
 
 And the Badger stole these seeds, and when the people knew it they sent
-Toehahvs after the [thief](errata.htm#36).
+Toehahvs after the [thief](errata.htm#36.md).
 
 And Toehahvs went and saw Badger ahead of him in the road, and saw him
 go out and around and come into the road again and come toward him.
@@ -410,9 +410,9 @@ scattered.
 
 ### Footnotes
 
-<span id="fn_7"></span>[217:1](ain41.htm#fr_7) Read before the
+<span id="fn_7"></span>[217:1](ain41.htm#fr_7.md) Read before the
 Anthropological Society of Philadelphia, May 11, 1904.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Corn and Tobacco](ain42)
+[Next: Notes on the Story of Corn and Tobacco](ain42.md)

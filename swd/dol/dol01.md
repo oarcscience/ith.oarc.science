@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dol00)  [Next](dol02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dol00)  [Next](dol02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402179510/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402179510/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -644,7 +644,7 @@ IN PROPORTION AS ANY ONE SHUNS EVILS AS SINS, IN THE SAME PROPORTION HE
 LOVES TRUTHS. There are two universals that proceed from the Lord:
 Divine good, and Divine truth. Divine good is of His Divine love, and
 Divine truth is of His Divine wisdom. In the Lord these two are a
-one, <span id="fr_0"></span>[32-1](#fn_0) and therefore they proceed
+one, <span id="fr_0"></span>[32-1](#fn_0.md) and therefore they proceed
 from Him as a one, but they are not received as a one by angels in the
 heavens, or by men on earth. There are both angels and men who receive
 more from Divine truth than from Divine good; and there are others who
@@ -931,9 +931,9 @@ been wrought in God (John 3:19-21).
 
 ### Footnotes
 
-<span id="fn_0"></span>[32-1](dol01.htm#fr_0) That is, a complex whole
+<span id="fn_0"></span>[32-1](dol01.htm#fr_0.md) That is, a complex whole
 which constitutes a unity. \[Tr.\]
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](dol02)
+[Next: 51-100](dol02.md)

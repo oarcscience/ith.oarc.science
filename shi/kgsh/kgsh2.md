@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Previous](kgsh1) [Next](kgsh3)
+[Sacred-Texts](../../index) [Shinto](../index) [Index](index) [Previous](kgsh1) [Next](kgsh3.md)
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ oldest manuscripts now extant
 
 ------------------------------------------------------------------------
 
-[Next](kgsh3)
+[Next](kgsh3.md)
 
  
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](oon17)  [Next](oon19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](oon17)  [Next](oon19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL7LM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oracles of Nostradamus*, by Charles A. Ward, \[1891\], at Intangible
 Textual Heritage
 
@@ -23,14 +23,14 @@ THE next four quatrains refer to Rome and Pope Pius VI.
 
 Century V.--*Quatrain* 57. \[I. 199.\]
 
-Istra <span id="fr_285"></span>[1](#fn_284) de mont Gaulfier <span
-id="fr_286"></span>[2](#fn_285) et Aventin,  
-Qui <span id="fr_287"></span>[3](#fn_286) par le trou advertira
+Istra <span id="fr_285"></span>[1](#fn_284.md) de mont Gaulfier <span
+id="fr_286"></span>[2](#fn_285.md) et Aventin,  
+Qui <span id="fr_287"></span>[3](#fn_286.md) par le trou advertira
 l'armée.  
-Entre deux rocs sera prins <span id="fr_288"></span>[4](#fn_287) le
+Entre deux rocs sera prins <span id="fr_288"></span>[4](#fn_287.md) le
 butin,  
-De SEXT <span id="fr_289"></span>[5](#fn_288) mansol <span
-id="fr_290"></span>[6](#fn_289) faillir la renommée.
+De SEXT <span id="fr_289"></span>[5](#fn_288.md) mansol <span
+id="fr_290"></span>[6](#fn_289.md) faillir la renommée.
 
 Translation.
 
@@ -80,8 +80,8 @@ Century V.--*Quatrain* 30. \[I. 201.\]
 Tout à l'entour de la grande cité  
 Seront soldats logés par champs et villes:  
 Donner Passaut Paris Rome incité, <span
-id="fr_291"></span>[1](#fn_290)  
-Sur le pont <span id="fr_292"></span>[2](#fn_291) lors sera faicte grand
+id="fr_291"></span>[1](#fn_290.md)  
+Sur le pont <span id="fr_292"></span>[2](#fn_291.md) lors sera faicte grand
 pille.
 
  
@@ -105,13 +105,13 @@ states, arrested in his palace, and subjected to general pillage.
 
 Century VIII.--*Quatrain* 46. \[I. 202.\]
 
-Pol <span id="fr_293"></span>[1](#fn_292) mensole <span
-id="fr_294"></span>[2](#fn_293) mourra trois lieües du Rosne;  
-Fuis <span id="fr_295"></span>[3](#fn_294) les deux prochains <span
-id="fr_296"></span>[4](#fn_295) tarasc <span
-id="fr_297"></span>[5](#fn_296) destrois: <span
-id="fr_298"></span>[6](#fn_297)  
-Car Mars <span id="fr_299"></span>[7](#fn_298) fera le plus horrible
+Pol <span id="fr_293"></span>[1](#fn_292.md) mensole <span
+id="fr_294"></span>[2](#fn_293.md) mourra trois lieües du Rosne;  
+Fuis <span id="fr_295"></span>[3](#fn_294.md) les deux prochains <span
+id="fr_296"></span>[4](#fn_295.md) tarasc <span
+id="fr_297"></span>[5](#fn_296.md) destrois: <span
+id="fr_298"></span>[6](#fn_297.md)  
+Car Mars <span id="fr_299"></span>[7](#fn_298.md) fera le plus horrible
 trosne  
 De Coq, et d'Aigle, de France Freres trois.
 
@@ -135,13 +135,13 @@ and Napoleonic Eagle.
 Century II.--*Quatrain* 99. \[I. 203.\]
 
 Terroir Romain qu'interpretoit Augure <span
-id="fr_300"></span>[1](#fn_299)  
-Par gent <span id="fr_301"></span>[2](#fn_300) Gauloise par trop sera
+id="fr_300"></span>[1](#fn_299.md)  
+Par gent <span id="fr_301"></span>[2](#fn_300.md) Gauloise par trop sera
 vexée:  
 Mais nation Celtique craindra l'heure,  
-Boreas <span id="fr_302"></span>[3](#fn_301) classe <span
-id="fr_303"></span>[4](#fn_302) trop loing l'avoir poussée. <span
-id="fr_304"></span>[5](#fn_303)
+Boreas <span id="fr_302"></span>[3](#fn_301.md) classe <span
+id="fr_303"></span>[4](#fn_302.md) trop loing l'avoir poussée. <span
+id="fr_304"></span>[5](#fn_303.md)
 
 Translation.
 
@@ -200,62 +200,62 @@ a terrible hint to its tormentor.
 
 ### Footnotes
 
-<span id="fn_284"></span>[245:1](oon18.htm#fr_285) *Istra* = *ira*, will
+<span id="fn_284"></span>[245:1](oon18.htm#fr_285.md) *Istra* = *ira*, will
 go, or will go forth.
 
-<span id="fn_285"></span>[245:2](oon18.htm#fr_286) Montgolfier, the
+<span id="fn_285"></span>[245:2](oon18.htm#fr_286.md) Montgolfier, the
 inventor of ærostatics.
 
-<span id="fn_286"></span>[245:3](oon18.htm#fr_287) *Qui*, Latin for who,
+<span id="fn_286"></span>[245:3](oon18.htm#fr_287.md) *Qui*, Latin for who,
 a man who.
 
-<span id="fn_287"></span>[245:4](oon18.htm#fr_288) *Prins*, taken.
+<span id="fn_287"></span>[245:4](oon18.htm#fr_288.md) *Prins*, taken.
 
-<span id="fn_288"></span>[245:5](oon18.htm#fr_289) *Sext*, for *sextus*.
+<span id="fn_288"></span>[245:5](oon18.htm#fr_289.md) *Sext*, for *sextus*.
 
-<span id="fn_289"></span>[245:6](oon18.htm#fr_290) *Mansol*, *man*,
+<span id="fn_289"></span>[245:6](oon18.htm#fr_290.md) *Mansol*, *man*,
 *sol*. *Manens solus* means celibate, or priest under vows.
 
-<span id="fn_290"></span>[246:1](oon18.htm#fr_291) Latin, *incitatus*,
+<span id="fn_290"></span>[246:1](oon18.htm#fr_291.md) Latin, *incitatus*,
 agitated.
 
-<span id="fn_291"></span>[246:2](oon18.htm#fr_292) *Pont*. pour
+<span id="fn_291"></span>[246:2](oon18.htm#fr_292.md) *Pont*. pour
 Pontificat, or Pontifex.
 
-<span id="fn_292"></span>[247:1](oon18.htm#fr_293) πολὺς, grand,
+<span id="fn_292"></span>[247:1](oon18.htm#fr_293.md) πολὺς, grand,
 considerable.
 
-<span id="fn_293"></span>[247:2](oon18.htm#fr_294) *Man. sol., manens
+<span id="fn_293"></span>[247:2](oon18.htm#fr_294.md) *Man. sol., manens
 solus*, as before.
 
-<span id="fn_294"></span>[247:3](oon18.htm#fr_295) The ordo is, les deux
+<span id="fn_294"></span>[247:3](oon18.htm#fr_295.md) The ordo is, les deux
 prochains destrois fuiront le tarasc.
 
-<span id="fn_295"></span>[247:4](oon18.htm#fr_296) *Prochain* = proche
+<span id="fn_295"></span>[247:4](oon18.htm#fr_296.md) *Prochain* = proche
 parent, who partakes in a heritage.
 
-<span id="fn_296"></span>[247:5](oon18.htm#fr_297) ταραχή = tumult.
+<span id="fn_296"></span>[247:5](oon18.htm#fr_297.md) ταραχή = tumult.
 
-<span id="fn_297"></span>[247:6](oon18.htm#fr_298) Romance, *destrois*,
+<span id="fn_297"></span>[247:6](oon18.htm#fr_298.md) Romance, *destrois*,
 afflicted, dejected.
 
-<span id="fn_298"></span>[247:7](oon18.htm#fr_299) *Mars*, god of war.
+<span id="fn_298"></span>[247:7](oon18.htm#fr_299.md) *Mars*, god of war.
 
-<span id="fn_299"></span>[248:1](oon18.htm#fr_300) *Augur*, for Roman
+<span id="fn_299"></span>[248:1](oon18.htm#fr_300.md) *Augur*, for Roman
 priest.
 
-<span id="fn_300"></span>[248:2](oon18.htm#fr_301) *Gens* is Latin for
+<span id="fn_300"></span>[248:2](oon18.htm#fr_301.md) *Gens* is Latin for
 *nation*.
 
-<span id="fn_301"></span>[248:3](oon18.htm#fr_302) *Boreas* is north
+<span id="fn_301"></span>[248:3](oon18.htm#fr_302.md) *Boreas* is north
 wind, or north.
 
-<span id="fn_302"></span>[248:4](oon18.htm#fr_303) *Classis*, Latin, is
+<span id="fn_302"></span>[248:4](oon18.htm#fr_303.md) *Classis*, Latin, is
 a body of men, used here as army.
 
-<span id="fn_303"></span>[248:5](oon18.htm#fr_304) The ordo is, \[où
+<span id="fn_303"></span>[248:5](oon18.htm#fr_304.md) The ordo is, \[où
 elle\] aura poussé son armée trop loin vers le nord.
 
 ------------------------------------------------------------------------
 
-[Next: Napoleonic Rule](oon19)
+[Next: Napoleonic Rule](oon19.md)

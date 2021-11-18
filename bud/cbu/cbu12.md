@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu11)  [Next](cbu13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu11)  [Next](cbu13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -58,9 +58,9 @@ Dr. Hamilton says, speaking of the Swaracs or Jains, a still existing
 Buddhist sect in India, that they worship twenty-four great teachers,
 who are called either *Avatars* or *Tirthancaras*. *Tirtha* is an
 incarnation or an heretical teacher or non-Buddhist ascetic of any
-sect. <span id="fr_80"></span>[1](#fn_80) Rhode supposed the Jains to be
+sect. <span id="fr_80"></span>[1](#fn_80.md) Rhode supposed the Jains to be
 descendants of the Asuras and Rakshas, races hostile to the early
-Hindoos. <span id="fr_81"></span>[2](#fn_81) But they were rather a
+Hindoos. <span id="fr_81"></span>[2](#fn_81.md) But they were rather a
 school.
 
 The Chinese have the series of twenty-four patriarchs. They may be
@@ -333,7 +333,7 @@ no other than this. Let the mind do nothing, observe nothing, aim at
 nothing, hold fast to nothing; that is Buddha. Then there will be no
 difference between living in the world and entering the Nirvâna. Then
 human nature, the mind, Buddha, and the doctrine he taught, all become
-identical. <span id="fr_82"></span>[1](#fn_82)
+identical. <span id="fr_82"></span>[1](#fn_82.md)
 
 While revising these papers, and adding to them, so that they may form a
 distinct book on Chinese Buddhism (August 11, 1899), I here insert a
@@ -567,7 +567,7 @@ Thibetan letters.—(See in Eitel, under the word "Yogatchara.")
 
 (3.) Wei-shi-siang-kiau. This school occupied itself with the study of
 the Shastra *Wei-shï-lun*, and similar works. These books were written
-by the two Bodhisattwas Wu-cho <span id="fr_83"></span>[1](#fn_83) and
+by the two Bodhisattwas Wu-cho <span id="fr_83"></span>[1](#fn_83.md) and
 T‘ien-ts‘in. Kiai-hien, a Hindoo residing
 
 <span id="page_170">p. 170</span>
@@ -669,17 +669,17 @@ Buddhists.
 <span class="small">"The pure land of the West, say what language can
 tell  
 Its beauty and majesty There ever dwell  
-The men of this world and the Devas <span id="fr_84"></span>[1](#fn_84)
+The men of this world and the Devas <span id="fr_84"></span>[1](#fn_84.md)
 of heaven,  
 And to each has the same wreath of glory been given.  
 The secrets of wisdom unveiled they behold,  
 And the soil that they tread on is bright yellow gold.  
 In that land of true pleasure the flowers never fade,  
 Each terraced ascent is of diamond and jade.  
-The law of Tathâgata <span id="fr_85"></span>[2](#fn_85) sung by each
+The law of Tathâgata <span id="fr_85"></span>[2](#fn_85.md) sung by each
 bird  
 From thicket and grove in sweet music is heard.  
-The unwithering Upata, <span id="fr_86"></span>[3](#fn_86) fairest of
+The unwithering Upata, <span id="fr_86"></span>[3](#fn_86.md) fairest of
 flowers,  
 Sheds fragrance around in those thrice lovely bowers. <span
 id="page_173">p. 173</span>  
@@ -687,7 +687,7 @@ There, each from the world that he governs, are found
 Assembled in conference long and profound,  
 The ten supreme Buddhas who cease not to tell  
 The praise of the land where the genii <span
-id="fr_87"></span>[1](#fn_87) dwell.  
+id="fr_87"></span>[1](#fn_87.md) dwell.  
 For there is no region so happy and blest,  
 As the heaven of great Amida far in the west.  
 On the moment of reaching it by a new birth,  
@@ -764,38 +764,38 @@ for ever gazing on his sacred form.
 
 ### Footnotes
 
-<span id="fn_80"></span>[156:1](cbu12.htm#fr_80) *Transactions of the
+<span id="fn_80"></span>[156:1](cbu12.htm#fr_80.md) *Transactions of the
 Royal Asiatic Society*, vol. i p. 538.
 
-<span id="fn_81"></span>[156:2](cbu12.htm#fr_81) Rhode, *Réligiose
+<span id="fn_81"></span>[156:2](cbu12.htm#fr_81.md) Rhode, *Réligiose
 Bildung u. s. w. der Hindus*.
 
-<span id="fn_82"></span>[163:1](cbu12.htm#fr_82) This description is
+<span id="fn_82"></span>[163:1](cbu12.htm#fr_82.md) This description is
 taken from a little work of the T‘ang dynasty, called
 *Twan-tsi-sin-yau*.
 
-<span id="fn_83"></span>[169:1](cbu12.htm#fr_83) *Asengha*, "Without
+<span id="fn_83"></span>[169:1](cbu12.htm#fr_83.md) *Asengha*, "Without
 attachment," was originally a follower of the Mahashasaka school. He
 first taught the Mahayana system, and wrote the books which contain the
 Wei-shi doctrines. Then he because the founder <span id="page_170">p.
 170</span> of the Yoga school, and wrote a book which he said was
 dictated to him by Maitreya in the Tushita paradise.—(See in Eitel.)
 
-<span id="fn_84"></span>[172:1](cbu12.htm#fr_84) *Devas*, the "gods" of
+<span id="fn_84"></span>[172:1](cbu12.htm#fr_84.md) *Devas*, the "gods" of
 the Hindoos (in Chinese, *t‘ien*). They are inferior in power and
 splendour to human nature when elevated to the rank of the Buddhas and
 Bodhisattwas.
 
-<span id="fn_85"></span>[172:2](cbu12.htm#fr_85) *Tathâgata*, a title of
+<span id="fn_85"></span>[172:2](cbu12.htm#fr_85.md) *Tathâgata*, a title of
 Buddha; in Chinese, *Julai*. "The law," is the doctrine proclaimed by
 Buddha.
 
-<span id="fn_86"></span>[172:3](cbu12.htm#fr_86) Also spelt Utampatala.
+<span id="fn_86"></span>[172:3](cbu12.htm#fr_86.md) Also spelt Utampatala.
 
-<span id="fn_87"></span>[173:1](cbu12.htm#fr_87) "Genii." In Sanscrit,
+<span id="fn_87"></span>[173:1](cbu12.htm#fr_87.md) "Genii." In Sanscrit,
 *Rishi;* in Chinese, *Sien-jen*.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. On Chi-K‘ai and the T‘ien-T‘ai School of
-Buddhism](cbu13)
+Buddhism](cbu13.md)

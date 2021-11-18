@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](land05)  [Next](land07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](land05)  [Next](land07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *New Lands*, by Charles Fort, \[1923\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -211,4 +211,4 @@ under, or God knows how devised and fashioned.
 
 ------------------------------------------------------------------------
 
-[Next: 7](land07)
+[Next: 7](land07.md)

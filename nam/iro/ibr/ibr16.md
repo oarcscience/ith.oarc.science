@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr15)  [Next](ibr17) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr15)  [Next](ibr17.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Iroquois," he says, "is purely French, and has been formed from the term
 *hiro*, 'I have spoken,' a word by which these Indians close all their
 speeches, and *koué*, which, when long drawn out, is a cry of sorrow,
 and when briefly uttered, is an exclamation of joy." <span
-id="fr_72"></span>[1](#fn_72) It might be enough to say of this
+id="fr_72"></span>[1](#fn_72.md) It might be enough to say of this
 derivation that no other nation or tribe of which we have any knowledge
 has ever borne a name composed in this whimsical fashion. But what is
 decisive is the fact that Champlain had learned the name from his Indian
@@ -35,7 +35,7 @@ According to Bruyas, the word *garokwa* meant a pipe, and also a piece
 of tobacco,--and, in its verbal form, to smoke. This word is found,
 somewhat disguised by aspirates, in the Book of Rites,
 *denighroghkwayen*,---let us two smoke together." (*Ante*, [p.
-115](ibr12.htm#page_115), Section 2). In the indeterminate form the verb
+115](ibr12.htm#page_115), Section 2.md). In the indeterminate form the verb
 becomes *ierokwa*, which is certainly very near to "Iroquois." It might
 be rendered "they who smoke," or "they who use tobacco," or, briefly,
 "the Tobacco People." This name, the Tobacco Nation (*Nation du* 
@@ -46,7 +46,7 @@ Petun) was given by the French, and probably also by the Algonkins, to
 one of the Huron tribes, the Tionontates, noted for the excellent
 tobacco which they raised and sold. The Iroquois were equally well known
 for their cultivation of this plant, of which they had a choice
-variety. <span id="fr_73"></span>[1](#fn_73) It is possible that their
+variety. <span id="fr_73"></span>[1](#fn_73.md) It is possible that their
 northern neighbors may have given to them also a name derived from this
 industry. Another not improbable supposition might connect the name with
 that of a leading sept among them, the Bear clan. This clan, at least
@@ -61,7 +61,7 @@ of this perplexing word is to be sought.
 The name of *Mingo* or *Mengwe*, by which the Iroquois were known to the
 Delawares and the other southern Algonkins, is said to be a contraction
 of the Lenape word *Mahongwi*, meaning the "People of the
-Springs." <span id="fr_74"></span>[2](#fn_74) The Iroquois possessed the
+Springs." <span id="fr_74"></span>[2](#fn_74.md) The Iroquois possessed the
 headwaters of the rivers which flowed through the country of the
 Delawares,--and this explanation of the name may therefore be accepted
 as a probable one.
@@ -105,7 +105,7 @@ That the English, with whom the Caniengas were always fast friends,
 should have adopted this uncouth and spiteful nickname is somewhat
 surprising. It is time that science and history should combine to banish
 it, and to resume the correct designation. <span
-id="fr_75"></span>[1](#fn_75)
+id="fr_75"></span>[1](#fn_75.md)
 
 The name *Oneida*, which in French became *Onneyouth* or *Onneyote*, is
 a corruption of a compound word, formed of *onenhia*, or *onenya*,
@@ -180,7 +180,7 @@ Mohawk, to have been given as an expression of dislike, or rather of
 hostility. *Sinako*, in the Delaware tongue, means properly "Stone
 Snakes;" but in this conjunction it is understood, according to the
 interpretation furnished to Mr. Squier, to signify "Mountain
-Snakes." <span id="fr_76"></span>[1](#fn_76) The Delawares, it appears,
+Snakes." <span id="fr_76"></span>[1](#fn_76.md) The Delawares, it appears,
 were accustomed to term all their enemies "snakes." In this case they
 simply translated the native name of the Iroquois tribe (the "Mountain
 People"), and added this uncomplimentary epithet. As the name, unlike
@@ -197,18 +197,18 @@ have made the western nation more willing to adopt it.
 
 ### Footnotes
 
-<span id="fn_72"></span>[171:1](ibr16.htm#fr_72) History of New France,
+<span id="fn_72"></span>[171:1](ibr16.htm#fr_72.md) History of New France,
 Vol. i, p. 270.
 
-<span id="fn_73"></span>[172:1](ibr16.htm#fr_73) "The Senecas still
+<span id="fn_73"></span>[172:1](ibr16.htm#fr_73.md) "The Senecas still
 cultivate tobacco. Its name signifies 'the only tobacco,' because they
 consider this variety superior to all others."--Morgan: *League of the
 Iroquois*, p. 375.
 
-<span id="fn_74"></span>[172:2](ibr16.htm#fr_74) E. G. Squier:
+<span id="fn_74"></span>[172:2](ibr16.htm#fr_74.md) E. G. Squier:
 "*Traditions of the Algonquins*," in Beach's Indian Miscellany, p. 28.
 
-<span id="fn_75"></span>[173:1](ibr16.htm#fr_75) William Penn and his
+<span id="fn_75"></span>[173:1](ibr16.htm#fr_75.md) William Penn and his
 colonists, who probably understood the meaning of the word Mohawk,
 forbore to employ it. In the early records of the colony (published by
 the Pennsylvania Historical Society) the nation is described in
@@ -216,9 +216,9 @@ treaties, laws, and other public acts, by its proper designation, a
 little distorted in the spelling,--*Canyingoes, Ganyingoes, Cayinkers,
 etc.*
 
-<span id="fn_76"></span>[175:1](ibr16.htm#fr_76) "Traditions of the
+<span id="fn_76"></span>[175:1](ibr16.htm#fr_76.md) "Traditions of the
 Algonquins," in Beach's Indian Miscellany, p. 33.
 
 ------------------------------------------------------------------------
 
-[Next: Note B: Meaning of Ohio, Ontario, Onontio, Rawenniio](ibr17)
+[Next: Note B: Meaning of Ohio, Ontario, Onontio, Rawenniio](ibr17.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt64)  [Next](egt66) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt64)  [Next](egt66.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ with Self; rise, and without thy Self pursue thy path.
 ------------------------------------------------------------------------
 
 [Next: HE WHO IS INDIFFERENT TO THE WORLD FINDS A KINGDOM THAT SHALL NOT
-WANE. (Qur. 20:118)](egt66)
+WANE. (Qur. 20:118)](egt66.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](fons01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](fons01.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ files may be used for any purpose.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](fons01)
+[Next: Introduction](fons01.md)

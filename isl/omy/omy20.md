@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](omy19)  [Next](omy21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](omy19)  [Next](omy21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766144569/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWO8Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Oriental Mysticism*, by E.H. Palmer, \[1867\], at Intangible Textual
 Heritage
 
@@ -37,7 +37,7 @@ class="margnote">how acquired.</span> receive this Spirit of Humanity he
 must be furnished with capacity, which is only to be acquired by
 purifying oneself from all evil and immoral qualities and dispositions,
 and adorning oneself with the opposite ones. Sheikh Muhíy-uddín ibn ul
-’Arabí <span id="fr_30"></span>[1](#fn_30), in his "Investigations"
+’Arabí <span id="fr_30"></span>[1](#fn_30.md), in his "Investigations"
 (<span id="img_05500"></span> ![](img/05500.jpg)), says that the words
 "and when I have fashioned him," refer to this preparation, and the rest
 of the sentence, "and breathed My spirit into him," refers to the
@@ -135,10 +135,10 @@ of man.
 
 ### Footnotes
 
-<span id="fn_30"></span>[55:1](omy20.htm#fr_30) *Fusús el Hikam*,
+<span id="fn_30"></span>[55:1](omy20.htm#fr_30.md) *Fusús el Hikam*,
 Metaphysical Investigations by Muhíy-uddín Mohammed ben ’Alí el Hátimí
 el Táyí ibn el Arabí.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Of the Upward Progress or Ascent of Man](omy21)
+[Next: Chapter IV. Of the Upward Progress or Ascent of Man](omy21.md)

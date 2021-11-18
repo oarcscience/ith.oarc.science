@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../index)  [IBOS](index)
+[Intangible Textual Heritage](../index)  [IBOS](index.md)
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 By downloading the file ibos.zip you agree to the following terms:
 
 This archive (ibos.zip, containing ibos.htm) is covered by the
-[collection copyright](../sect103) (© 2005 Internet Sacred text
+[collection copyright](../sect103.md) (© 2005 Internet Sacred text
 Archive), and by the copyrights of the individual authors. **It is not
 in the public domain, nor is any of its contents**. This archive has
 been collected for the benefit of the entire neo-Pagan community and is

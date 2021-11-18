@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca09)  [Next](ntca11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca09)  [Next](ntca11.md) 
 
 ------------------------------------------------------------------------
 
@@ -232,7 +232,7 @@ more original and ingenious turn of mind than his fellows—as the men
 skilled in magic certainly are—he has invented it for himself and has
 then told the others, who implicitly believe in his supernatural powers,
 that the spirits have presented it to him. <span
-id="fr_121"></span>[1](#fn_121)
+id="fr_121"></span>[1](#fn_121.md)
 
 Each ceremony, further, is not only connected with some totem, but with
 a particular local group of the totem, and its name indicates the fact.
@@ -240,7 +240,7 @@ Thus we have the Quabara Unjiamba
 
 <span id="page_279">p. 279</span>
 
-of Ooraminna, <span id="fr_122"></span>[1](#fn_122) which is a
+of Ooraminna, <span id="fr_122"></span>[1](#fn_122.md) which is a
 performance connected with the Unjiamba or Hakea flower totem of a place
 called Ooraminna, the Quabara Ulpmerka of Quiurnpa, which is a ceremony
 concerned with certain *Ulpmerka*, or uncircumcised men of the plum tree
@@ -333,7 +333,7 @@ that this corrobboree should be handed over in a short time to the man
 who took the leading part in the Engwura and who belonged to a more
 southern group. When once this handing over has taken place, it will
 never again be performed at Alice Springs. <span
-id="fr_123"></span>[1](#fn_123) As soon as the *Atnimokita* performance
+id="fr_123"></span>[1](#fn_123.md) As soon as the *Atnimokita* performance
 was concluded, another called the *Illyonpa* was commenced, and this
 also occupied ten nights. Two days after it had begun the old leader of
 the Engwura went down to the ground which had been chosen—the
@@ -895,7 +895,7 @@ head he carried no fewer than seven large Churinga belonging to the
 totem, two of them being remarkable from the fact that they were curved
 in shape like a boomerang. These were the only ones of this shape on the
 Engwura ground, and they were evidently very old ones, <span
-id="fr_124"></span>[1](#fn_124) as the original pattern with which they
+id="fr_124"></span>[1](#fn_124.md) as the original pattern with which they
 had been ornamented was almost entirely obliterated by the innumerable
 rubbings to which they had been subjected in course of time. When
 decorated the performer went at first some distance along the creek bed
@@ -1027,7 +1027,7 @@ At Charlotte Waters, for example, or Crown Point on the lower part of
 the Finke River, no *Nurtunja* is ever used; when the rite of
 circumcision is practised a *Waninga* is made, and after it has been
 used in the performance of a sacred ceremony it is fixed up in the
-ground and the novice embraces it. <span id="fr_125"></span>[1](#fn_125)
+ground and the novice embraces it. <span id="fr_125"></span>[1](#fn_125.md)
 Occasionally a kind of compound one is made in which a small one is
 attached to the top of a larger one, in much the same way in which a
 small *Nurtunja* is sometimes attached to the top of a larger one.
@@ -1329,7 +1329,7 @@ After midnight there was performed the Quabara Akakia (plum-tree), of a
 place called Iliakilia in the Waterhouse Range. This was acted by four
 men, who were respectively Purula and honey-ant totem; Purula and
 “native pheasant”; Purula and white bat; Bulthara and *illonka*. <span
-id="fr_126"></span>[1](#fn_126) First of all one man came up to where
+id="fr_126"></span>[1](#fn_126.md) First of all one man came up to where
 the audience was sitting by the *Parra.* He pretended to knock plums
 down and to eat them, and after a short time he sat down amongst the
 audience. Then two others came up, one of whom remained standing, while
@@ -1340,7 +1340,7 @@ of knocking down and eating plums. The interesting point in connection
 with this and many other very similar ceremonies lies in the fact that
 the Alcheringa ancestors are so frequently represented as freely eating
 the animal or plant, from which they derive their totemic name. <span
-id="fr_127"></span>[2](#fn_127) At the present time the conditions with
+id="fr_127"></span>[2](#fn_127.md) At the present time the conditions with
 regard to this point are markedly different from those which evidently
 obtained in times past.
 
@@ -1375,19 +1375,19 @@ Engwura came to an end.
 
 ### Footnotes
 
-<span id="fn_121"></span>[278:1](ntca10.htm#fr_121) Attention may be
+<span id="fn_121"></span>[278:1](ntca10.htm#fr_121.md) Attention may be
 drawn to the fact that in the Arunta tribe the men who are supposed to
 be able to hold intercourse with the spirits and to receive these
 ceremonies from them are quite distinct from those usually called
 “medicine-men,” and that both the former and the latter are
 characteristically the reverse of nervous or excitable in temperament.
 
-<span id="fn_122"></span>[279:1](ntca10.htm#fr_122) In the case of names
+<span id="fn_122"></span>[279:1](ntca10.htm#fr_122.md) In the case of names
 such as this which are in ordinary use, and are indicated on maps, we
 retain the accepted spelling, though this word, for example, as
 pronounced by the natives, should be spelt Urüminna.
 
-<span id="fn_123"></span>[281:1](ntca10.htm#fr_123) Mr. Roth has
+<span id="fn_123"></span>[281:1](ntca10.htm#fr_123.md) Mr. Roth has
 described this same handing on of corrobborees from group to group in
 the case of the Queensland tribes, and, as he has already pointed out,
 the result is that the words are, as a general rule, quite
@@ -1397,18 +1397,18 @@ different language. For a full description of one of these ordinary
 dancing corrobborees, the general features of which are much the same
 over the whole continent, Mr. Roth's work may be consulted.
 
-<span id="fn_124"></span>[304:1](ntca10.htm#fr_124) Amongst many hundred
+<span id="fn_124"></span>[304:1](ntca10.htm#fr_124.md) Amongst many hundred
 Churinga examined we have only seen five of this shape, and, curiously,
 all of them belonged to a lizard totem.
 
-<span id="fn_125"></span>[309:1](ntca10.htm#fr_125) Ceremonies in which
+<span id="fn_125"></span>[309:1](ntca10.htm#fr_125.md) Ceremonies in which
 the *Waninga* is used are described in connection with the rite of
 *Lartna,* Chapter VII.
 
-<span id="fn_126"></span>[320:1](ntca10.htm#fr_126) *Illonka* is the
+<span id="fn_126"></span>[320:1](ntca10.htm#fr_126.md) *Illonka* is the
 fruit of a species of Marsdenia.
 
-<span id="fn_127"></span>[320:2](ntca10.htm#fr_127) The performers in
+<span id="fn_127"></span>[320:2](ntca10.htm#fr_127.md) The performers in
 each ceremony represent, of course, individuals of the totem with which
 the ceremony is concerned. In this instance each of the four men
 represented, for the time being, a plum-tree man.
@@ -1416,4 +1416,4 @@ represented, for the time being, a plum-tree man.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. Initiation Ceremonies (Continued) the Engwura
-Ceremony (Concluded)](ntca11)
+Ceremony (Concluded)](ntca11.md)

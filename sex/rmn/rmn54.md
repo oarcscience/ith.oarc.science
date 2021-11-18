@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn53)  [Next](rmn55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn53)  [Next](rmn55.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,22 +37,22 @@ And full exposed, broad burning on the light
 The shapes and postures that abash the sight  
 Made artless minds in crime's refinements wise,  
 And flash'd enlightening vice on virgin eyes." <span
-id="fr_55"></span>[1](#fn_55)
+id="fr_55"></span>[1](#fn_55.md)
 
 "Looking up at a certain painting, in which was represented how Jove was
 said once to have sent a golden shower into the bosom of Danae." <span
-id="fr_56"></span>[2](#fn_56)
+id="fr_56"></span>[2](#fn_56.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_55"></span>[105:1](rmn54.htm#fr_55) PROPERTIUS, *Elegies*,
+<span id="fn_55"></span>[105:1](rmn54.htm#fr_55.md) PROPERTIUS, *Elegies*,
 Book i. 6 (translated by Elton).
 
-<span id="fn_56"></span>[105:2](rmn54.htm#fr_56) TERENCE, The Eunuch,
+<span id="fn_56"></span>[105:2](rmn54.htm#fr_56.md) TERENCE, The Eunuch,
 act iii., sc. 5.
 
 ------------------------------------------------------------------------
 
-[Next: Plate LIV: Group of Animals](rmn55)
+[Next: Plate LIV: Group of Animals](rmn55.md)

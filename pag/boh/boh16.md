@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh15)  [Next](boh17) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh15)  [Next](boh17.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ Dragon and vampire, fill the sky."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: Hallowe'en in America](boh17)
+[Next: Chapter XV: Hallowe'en in America](boh17.md)

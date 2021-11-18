@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Euripides](../index)  [Index](index)  [Previous](eaha07) 
-[Next](eaha09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Euripides](../index)  [Index](index)  [Previous](eaha07.md) 
+[Next](eaha09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Euripides and His Age*, by Gilbert Murray, \[1913\], at Intangible
 Textual Heritage
 
@@ -69,7 +69,7 @@ his own cost, and he claimed that Euripides was richer and should be
 made to do it instead. We do not know the result of the trial; we only
 know that the plaintiff attempted to create prejudice against Euripides
 by quoting the line of the *Hippolytus* (see above [p.
-86](eaha05.htm#page_86)) which was supposed to defend perjury.
+86](eaha05.htm#page_86).md) which was supposed to defend perjury.
 
 These things were annoyances enough. But there must have been some
 darker cloud that fell over Euripides’ life at this time. For we are not
@@ -372,7 +372,7 @@ tragedy very often like it better than any other Greek play. It is
 curiously different from its twin sister the *Bacchae*.
 
 A reader of the *Bacchae* who looks back at the ritual sequence
-described above ([p. 63](eaha04.htm#page_63)) will be startled to find
+described above ([p. 63](eaha04.htm#page_63).md) will be startled to find
 how close this drama, apparently so wild and imaginative, has kept to
 the ancient rite. The regular year-sequence is just clothed in
 sufficient myth to make it a story. The daemon must have his enemy who
@@ -744,7 +744,7 @@ flow towards that which is beautiful, till man through
 
 both light and darkness should be at peace and reverent, and, casting
 from him Laws that are outside Justice, give glory to the gods!" <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 Those "Laws which are outside Justice" would make trouble enough between
 Euripides and the "simple herd" if ever they reached the point of
@@ -778,11 +778,11 @@ thing can be revealed, the secret religion of poetry.
 
 ### Footnotes
 
-<span id="fn_1"></span>[194:1](eaha08.htm#fr_1) In my verse translation
+<span id="fn_1"></span>[194:1](eaha08.htm#fr_1.md) In my verse translation
 I took a slightly different reading, being then misinformed about the
 MS., but the general sense is the same. ("Knowledge, we are not foes,"
 etc.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](eaha09)
+[Next: Chapter VIII](eaha09.md)

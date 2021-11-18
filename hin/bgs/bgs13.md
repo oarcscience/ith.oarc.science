@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg13)   
-[Previous](bgs12)  [Next](bgs14) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg13.md)   
+[Previous](bgs12)  [Next](bgs14.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ bhūtaprakṛtimokṣaṃ ca ye vidur yānti te param 13.35
 
 ------------------------------------------------------------------------
 
-[Next: XIV. atha caturdaśodhyāyaḥ. (guṇatrayavibhāgayogaḥ)](bgs14)
+[Next: XIV. atha caturdaśodhyāyaḥ. (guṇatrayavibhāgayogaḥ)](bgs14.md)

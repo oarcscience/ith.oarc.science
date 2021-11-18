@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis14)  [Next](kis16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis14)  [Next](kis16.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ His hawk on his wrist.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](kis16)
+[Next: Part I](kis16.md)

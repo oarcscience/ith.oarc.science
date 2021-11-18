@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](moc15)  [Next](moc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](moc15)  [Next](moc17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5ITU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Crete and Pre-Hellenic Europe*, by Donald A. Mackenzie,
 \[1917\], at Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ especially in the west, were hardly touched at all, and followed as
 primitive ways of life as do their descendants at the present day. "It
 is still possible on the mountain sides, where the crop is scanty, to
 see", write Mr. and Mrs. Hawes, "men and women plucking the corn." <span
-id="fr_315"></span>[1](#fn_315) This simple method of harvesting obtains
+id="fr_315"></span>[1](#fn_315.md) This simple method of harvesting obtains
 also on the isolated Hebridean island of St. Kilda.
 
 Nor did the shoreland seats of Cretan progress advance on precisely the
@@ -72,7 +72,7 @@ inscribed laws, nor ever to rule, or obey any ruler governing otherwise
 than according to his father's laws". There were ten chiefs at this
 ceremonial. "They did not allow the king authority to put to death any
 of his kinsmen, unless approved of by more than half of the ten." <span
-id="fr_316"></span>[1](#fn_316) Here we have, in contrast to Oriental
+id="fr_316"></span>[1](#fn_316.md) Here we have, in contrast to Oriental
 autocracies, a system of government which is of distinctly European
 character. The king, like his subjects, had to act in accordance with
 the laws of the state. Apparently the stone benches in the "throne room"
@@ -143,7 +143,7 @@ small attics erected in the centre, which gave the square buildings an
 ink-bottle shape. The houses vary from two to four stories in height.
 Their aspect is somewhat modern. Single windows had four panes, and
 double windows from two to six. "The red pigment in the windows of the
-mosaic", writes Sir Arthur Evans, <span id="fr_317"></span>[1](#fn_317)
+mosaic", writes Sir Arthur Evans, <span id="fr_317"></span>[1](#fn_317.md)
 "suggests that some substitute for window glass was in use--perhaps
 oiled and scarlet-tinted parchment." But all windows were not thus
 covered. Some were quite open,
@@ -198,7 +198,7 @@ the destruction had been most complete, and where the pick struck such
 solid opposition, to yield us the best returns; for in them the
 possessions of the ancient burghers remained undisturbed, awaiting the
 patience of our workmen to knife them out." <span
-id="fr_318"></span>[1](#fn_318) Articles of pottery which were thus
+id="fr_318"></span>[1](#fn_318.md) Articles of pottery which were thus
 hermetically sealed for over 3000 years have retained much of their
 ancient beauty of colour as well as of form.
 
@@ -312,7 +312,7 @@ tanks being constructed on this principle; the Præsos jar illustrates
 the simplest form of it, in which, after the contents have been allowed
 to stand some time, the tap is set running and the water escapes, a
 watcher being ready to stop the flow and change the recipient as soon as
-the oil appears." <span id="fr_319"></span>[1](#fn_319) Spouts which
+the oil appears." <span id="fr_319"></span>[1](#fn_319.md) Spouts which
 were utilized to run off water and oil from the vats have also been
 found. Various household articles discovered in different parts of
 Gournia include "Ali Baba" storage jars, a. shallow dairy basin in
@@ -438,7 +438,7 @@ Minoan times, when Gournia was flourishing.
 
 Mr. Seager, the American archæologist, who undertook the excavations at
 this important site, has divided the history of Vasiliki into four
-periods. <span id="fr_320"></span>[1](#fn_320)
+periods. <span id="fr_320"></span>[1](#fn_320.md)
 
 Of the buildings of Period I no traces survive. Obsidian artifacts found
 in this early strata are of superior type to those from Gournia. They
@@ -504,7 +504,7 @@ political upheaval took place. The Gournia crania of the Early and
 Middle Minoan Periods indicate that the population was mainly
 long-headed. Broad-headed skulls were represented by only 8.5 per cent
 among those found. The proportion of broad-heads increased greatly in
-Late Minoan times. <span id="fr_321"></span>[1](#fn_321)
+Late Minoan times. <span id="fr_321"></span>[1](#fn_321.md)
 
 Stepping eastward from Gournia we pass the little island of Mochlos and
 the larger one of Psyra. Mochlos, as indicated, has yielded important
@@ -518,7 +518,7 @@ the ruins of houses of Late Minoan date, which were contemporary
 THE ISLAND OF MOCHLOS, OFF THE NORTH COAST OF CRETE
 
 On which was discovered the hoard of jewellery described on page
-[238](moc15.htm#page_238).
+[238](moc15.htm#page_238.md).
 
  
 
@@ -562,7 +562,7 @@ was the "nursery" of a sea trade, and the valley provided a surplus of
 food to promote it.
 
 Mr. Bosanquet conducted excavations on this site in 1901. <span
-id="fr_322"></span>[1](#fn_322) The results, although not too
+id="fr_322"></span>[1](#fn_322.md) The results, although not too
 encouraging, were not without importance. The hillock had been reclaimed
 fifteen years previously by a couple of Moslem brothers, who employed "a
 large force of labourers to demolish the ancient masonry, and to form
@@ -615,7 +615,7 @@ Biblical narrative of Paul's voyage in "a ship of Alexandria sailing
 into Italy. . . . We sailed under Crete over against Salmone; and,
 hardly passing it, came into a place which is called The Fair Havens,
 nigh whereunto was the city of Lasea." <span
-id="fr_323"></span>[1](#fn_323)
+id="fr_323"></span>[1](#fn_323.md)
 
 Although larger and more important as a trading-centre than Gournia,
 Palaikastro was less compactly built. Excavations have revealed a long
@@ -680,7 +680,7 @@ here, but it cannot be described as a temple, for its ruins resemble
 those of the ordinary dwelling-houses at Palaikastro. Three distinct
 layers were cut through. The lowest is of clay, red on the surface, but
 containing no relics. "It doubtless represents", writes Professor
-Myres, <span id="fr_324"></span>[1](#fn_324) "the original packing of
+Myres, <span id="fr_324"></span>[1](#fn_324.md) "the original packing of
 earth to level the enclosure; and in that case its red colour is due to
 prolonged baking by the bonfire on its surface." The next layer, which
 is of dark earth. was full of ashes and charcoal fragments, and "crowded
@@ -759,7 +759,7 @@ eye, the spells of witches, and the attacks of fairies. The New Year's
 Day bonfire is even more common. It is uncertain whether it has been
 called a bonfire because bones used to be burned in it or because it was
 the source of "boons". In England the Midsummer fires were called
-"Blessing Fires". <span id="fr_325"></span>[1](#fn_325) As in Scotland
+"Blessing Fires". <span id="fr_325"></span>[1](#fn_325.md) As in Scotland
 and Ireland, the folks danced round them and leapt through the flames
 
 <span id="page_274">p. 274</span>
@@ -791,7 +791,7 @@ And that from harmes and daungers now in safetie here they dwell.
 Sometimes the folks are also represented at these festivals,
 
 Supping mylk with cakes  
-And casting mylk to the bonefire. <span id="fr_326"></span>[1](#fn_326)
+And casting mylk to the bonefire. <span id="fr_326"></span>[1](#fn_326.md)
 
 The beliefs enshrined in these old customs, which have survived after so
 many centuries of Christian influence, afford us a clue to the motives
@@ -876,7 +876,7 @@ only. Here, within the area enclosed by massive walls, are the Zakro
 pits of archæology. The largest was visited by Italian archæologists in
 the early days of Cretan research, but was not thoroughly explored until
 Mr. Hogarth conducted his systematic excavations in 1901. <span
-id="fr_327"></span>[1](#fn_327) The deposit was about 8 feet in depth.
+id="fr_327"></span>[1](#fn_327.md) The deposit was about 8 feet in depth.
 It yielded three obsidian flakes and fragments of implements of bone and
 of bronze pins and blades. There were also bits of stone vessels. "The
 mass of the find", Mr. Hogarth writes, "was in earthenware, and included
@@ -942,7 +942,7 @@ disaster resulted from the expedition which Minos led against Sicily,
 and the second after the Trojan war, when the greater part of the
 population was stricken by famine and pestilence. Men of various nations
 flocked to Crete, "but none came in such numbers as the Grecians". <span
-id="fr_328"></span>[1](#fn_328)
+id="fr_328"></span>[1](#fn_328.md)
 
 Evidently classical writers believed that the "true Cretans" were
 representative of the aboriginal inhabitants--the ancient seafarers who
@@ -955,7 +955,7 @@ erected the inland stronghold were evidently invaders who came before
 the Greeks--perhaps they were the destroyers of Zakro and Palaikastro.
 It may be that, like the Hellenes, they were of Indo-European speech,
 and represented an early wave of mingled Achæan and Pelasgian stock from
-the continent. <span id="fr_329"></span>[2](#fn_329) As there are traces
+the continent. <span id="fr_329"></span>[2](#fn_329.md) As there are traces
 that they perpetuated Minoan religion in early classical times, it may
 well be that they fused with the people they conquered, and were
 influenced by their modes of thought, and that in consequence the Greeks
@@ -988,7 +988,7 @@ Not to be summ'd, and ninety towns she boasts.
 Diverse their language is; Achaians some,  
 And some indigenous are; Cydonians there,  
 Crest-shaking Dorians, and Pelasgians dwell. <span
-id="fr_330"></span>[1](#fn_330)
+id="fr_330"></span>[1](#fn_330.md)
 
 In the next chapter we will visit the important sites of Southern Crete.
 
@@ -996,53 +996,53 @@ In the next chapter we will visit the important sites of Southern Crete.
 
 ### Footnotes
 
-<span id="fn_315"></span>[252:1](moc16.htm#fr_315) *Crete the Forerunner
+<span id="fn_315"></span>[252:1](moc16.htm#fr_315.md) *Crete the Forerunner
 of Greece*, p. 37.
 
-<span id="fn_316"></span>[253:1](moc16.htm#fr_316) *The Critias*,
+<span id="fn_316"></span>[253:1](moc16.htm#fr_316.md) *The Critias*,
 Section XV.
 
-<span id="fn_317"></span>[255:1](moc16.htm#fr_317) Annual of the British
+<span id="fn_317"></span>[255:1](moc16.htm#fr_317.md) Annual of the British
 School at Athens, Vol. VIII, p. 14 *et seq*.
 
-<span id="fn_318"></span>[257:1](moc16.htm#fr_318) *Gournia*, p. 21.
+<span id="fn_318"></span>[257:1](moc16.htm#fr_318.md) *Gournia*, p. 21.
 
-<span id="fn_319"></span>[260:1](moc16.htm#fr_319) Annual of the British
+<span id="fn_319"></span>[260:1](moc16.htm#fr_319.md) Annual of the British
 School at Athens. Vol. VIII, p. 268.
 
-<span id="fn_320"></span>[264:1](moc16.htm#fr_320) Gournia, pp. 49. 50.
+<span id="fn_320"></span>[264:1](moc16.htm#fr_320.md) Gournia, pp. 49. 50.
 
-<span id="fn_321"></span>[266:1](moc16.htm#fr_321) Gournia, p. 59.
+<span id="fn_321"></span>[266:1](moc16.htm#fr_321.md) Gournia, p. 59.
 
-<span id="fn_322"></span>[268:1](moc16.htm#fr_322) *Annual of the
+<span id="fn_322"></span>[268:1](moc16.htm#fr_322.md) *Annual of the
 British School as Athens*, Vol. VIII, pp. 282-5.
 
-<span id="fn_323"></span>[269:1](moc16.htm#fr_323) *Acts*, xxvii, 6-8.
+<span id="fn_323"></span>[269:1](moc16.htm#fr_323.md) *Acts*, xxvii, 6-8.
 
-<span id="fn_324"></span>[271:1](moc16.htm#fr_324) *Annual of the
+<span id="fn_324"></span>[271:1](moc16.htm#fr_324.md) *Annual of the
 British School at Athens*, Vol. IX, pp. 356 *et seq*.
 
-<span id="fn_325"></span>[273:1](moc16.htm#fr_325) *Brand's Popular
+<span id="fn_325"></span>[273:1](moc16.htm#fr_325.md) *Brand's Popular
 Antiquities*, Vol. I, p. 306.
 
-<span id="fn_326"></span>[274:1](moc16.htm#fr_326) *Brand's Popular
+<span id="fn_326"></span>[274:1](moc16.htm#fr_326.md) *Brand's Popular
 Antiquities*, Vol. I, pp. 300 *et seq*.
 
-<span id="fn_327"></span>[277:1](moc16.htm#fr_327) *Annual of the
+<span id="fn_327"></span>[277:1](moc16.htm#fr_327.md) *Annual of the
 British School at Athens*, Vol. VI I, pp. 122 *et seq*.
 
-<span id="fn_328"></span>[279:1](moc16.htm#fr_328) *Herodotus*, VII,
+<span id="fn_328"></span>[279:1](moc16.htm#fr_328.md) *Herodotus*, VII,
 170, 171.
 
-<span id="fn_329"></span>[279:2](moc16.htm#fr_329) In classical times
+<span id="fn_329"></span>[279:2](moc16.htm#fr_329.md) In classical times
 the Eteo Cretans did not speak Greek. They used Greek characters,
 however, in their inscriptions which have not yet been read. The oldest
 inscription belongs to the sixth century B.C. It may be that this
 language was not Indo-European. Professor Conway, however, thinks it
 was.
 
-<span id="fn_330"></span>[280:1](moc16.htm#fr_330) *Odyssey*, XIX.
+<span id="fn_330"></span>[280:1](moc16.htm#fr_330.md) *Odyssey*, XIX.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Palace of Phæstos](moc17)
+[Next: Chapter XII. The Palace of Phæstos](moc17.md)

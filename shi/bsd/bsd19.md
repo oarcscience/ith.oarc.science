@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd18)  [Next](bsd20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd18)  [Next](bsd20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -56,7 +56,7 @@ conception of the Greeks as in their art. Bushido similarly
 
 praised those women most "who emancipated themselves from the frailty of
 their sex and displayed an heroic fortitude worthy of the strongest and
-the bravest of men." <span id="fr_25"></span>[1](#fn_25) Young girls,
+the bravest of men." <span id="fr_25"></span>[1](#fn_25.md) Young girls,
 therefore, were trained to repress their feelings, to indurate their
 nerves, to manipulate weapons,--especially the long-handled sword called
 *nagi-nata*, so as to be able to hold their own against unexpected odds.
@@ -95,7 +95,7 @@ found in utmost modesty with the limbs properly composed.
 like this worthy of the Christian Perpetua or the Vestal Cornelia? I
 would not put such an abrupt interrogation were it not for a
 misconception, based on our bathing customs and other trifles, that
-chastity is unknown among us. <span id="fr_26"></span>[1](#fn_26) On the
+chastity is unknown among us. <span id="fr_26"></span>[1](#fn_26.md) On the
 contrary, chastity was a pre-eminent virtue of the samurai woman, held
 above life itself. A young woman, taken prisoner, seeing herself in
 danger of violence at the hands of the rough soldiery, says she will
@@ -356,7 +356,7 @@ the samurai.
 The Teutonic races beginning their tribal life with a superstitious awe
 of the fair sex (though this is really wearing off in Germany!), and the
 Americans beginning their social life under the painful consciousness of
-the numerical insufficiency of women <span id="fr_27"></span>[1](#fn_27)
+the numerical insufficiency of women <span id="fr_27"></span>[1](#fn_27.md)
 (who, now increasing, are, I am afraid, fast losing the prestige their
 colonial mothers enjoyed), the respect man pays to woman has in Western
 civilisation become the chief standard of morality. But in the martial
@@ -395,17 +395,17 @@ consideration of the influence of Bushido on the nation at large.
 
 ### Footnotes
 
-<span id="fn_25"></span>[140:1](bsd19.htm#fr_25) Lecky, *History of
+<span id="fn_25"></span>[140:1](bsd19.htm#fr_25.md) Lecky, *History of
 European Morals*, ii., P. 383.
 
-<span id="fn_26"></span>[142:1](bsd19.htm#fr_26) For a very sensible
+<span id="fn_26"></span>[142:1](bsd19.htm#fr_26.md) For a very sensible
 explanation of nudity and bathing see Finck's *Lotos Time in Japan*, pp.
 286-297.
 
-<span id="fn_27"></span>[155:1](bsd19.htm#fr_27) I refer to those days
+<span id="fn_27"></span>[155:1](bsd19.htm#fr_27.md) I refer to those days
 when girls were imported from England and given in marriage for so many
 pounds of tobacco, etc.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: The Influence of Bushido](bsd20)
+[Next: Chapter XV: The Influence of Bushido](bsd20.md)

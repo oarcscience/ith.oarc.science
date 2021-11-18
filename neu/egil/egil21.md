@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil20)  [Next](egil22) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil20)  [Next](egil22.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ father in stature and strength, as also in face and temper.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXI. Hallvard and his brother go after Thorolf.](egil22)
+[Next: CHAPTER XXI. Hallvard and his brother go after Thorolf.](egil22.md)

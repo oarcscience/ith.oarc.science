@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi039)  [Next](mtsi041) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi039)  [Next](mtsi041.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ on their tails.
 
 ------------------------------------------------------------------------
 
-[Next: 39. The Race Between the Crane and the Humming Bird](mtsi041)
+[Next: 39. The Race Between the Crane and the Humming Bird](mtsi041.md)

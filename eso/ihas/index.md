@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0853301107/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ihas00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ihas.txt.gz)
+[Contents](#contents)    [Start Reading](ihas00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ihas.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,29 +40,29 @@ and the role initiation plays in that system.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ihas00)  
-[Foreword](ihas01)  
-[Table of Contents](ihas02)  
-[Chart](ihas03)  
-[Chapter I. Introductory Remarks](ihas04)  
-[Chapter II. Initiation Defined](ihas05)  
-[Chapter III. The Work of the Hierarchy](ihas06)  
-[Chapter IV. The Founding of the Hierarchy](ihas07)  
-[Chapter V. The Three Departments of the Hierarchy](ihas08)  
-[Chapter VI. The Lodge of Masters](ihas09)  
-[Chapter VII. The Probationary Path](ihas10)  
-[Chapter VIII. Discipleship](ihas11)  
-[Chapter IX. The Path of Initiation](ihas12)  
-[Chapter X. The Universality of Initiation](ihas13)  
-[Chapter XI. The Participants in the Mysteries](ihas14)  
-[Chapter XII. The Two Revelations](ihas15)  
-[Chapter XIII. The Rods of Initiation](ihas16)  
-[Chapter XIV. The Administration of the Oath](ihas17)  
-[Chapter XV. The Giving of the Word](ihas18)  
-[Chapter XVI. The Imparting of the Secrets](ihas19)  
-[Chapter XVII. Diversities of Initiations](ihas20)  
-[Chapter XVIII. The Seven Paths](ihas21)  
-[Chapter XIX. Rules For Applicants](ihas22)  
-[An Esoteric Catechism](ihas23)  
-[The Great Invocation](ihas24)  
-[Glossary](ihas25)  
+<span id="contents"></span> [Title Page](ihas00.md)  
+[Foreword](ihas01.md)  
+[Table of Contents](ihas02.md)  
+[Chart](ihas03.md)  
+[Chapter I. Introductory Remarks](ihas04.md)  
+[Chapter II. Initiation Defined](ihas05.md)  
+[Chapter III. The Work of the Hierarchy](ihas06.md)  
+[Chapter IV. The Founding of the Hierarchy](ihas07.md)  
+[Chapter V. The Three Departments of the Hierarchy](ihas08.md)  
+[Chapter VI. The Lodge of Masters](ihas09.md)  
+[Chapter VII. The Probationary Path](ihas10.md)  
+[Chapter VIII. Discipleship](ihas11.md)  
+[Chapter IX. The Path of Initiation](ihas12.md)  
+[Chapter X. The Universality of Initiation](ihas13.md)  
+[Chapter XI. The Participants in the Mysteries](ihas14.md)  
+[Chapter XII. The Two Revelations](ihas15.md)  
+[Chapter XIII. The Rods of Initiation](ihas16.md)  
+[Chapter XIV. The Administration of the Oath](ihas17.md)  
+[Chapter XV. The Giving of the Word](ihas18.md)  
+[Chapter XVI. The Imparting of the Secrets](ihas19.md)  
+[Chapter XVII. Diversities of Initiations](ihas20.md)  
+[Chapter XVIII. The Seven Paths](ihas21.md)  
+[Chapter XIX. Rules For Applicants](ihas22.md)  
+[An Esoteric Catechism](ihas23.md)  
+[The Great Invocation](ihas24.md)  
+[Glossary](ihas25.md)  

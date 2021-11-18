@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg84)  [Next](btg86) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg84)  [Next](btg86.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ overcome all sorrow will become free from sorrow, and be blessed."
 
 ------------------------------------------------------------------------
 
-[Next: Walking On Water](btg86)
+[Next: Walking On Water](btg86.md)

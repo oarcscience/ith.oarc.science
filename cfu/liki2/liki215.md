@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki214)  [Next](liki216) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki214)  [Next](liki216.md) 
 
 ------------------------------------------------------------------------
 
@@ -470,6 +470,6 @@ portions.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Hsio Kî or Record on the Subject of Education](liki216)
+[Next: XVI. Hsio Kî or Record on the Subject of Education](liki216.md)
 
   

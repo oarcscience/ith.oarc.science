@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Next](krz01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Next](krz01.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ office, as required by law at the time.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](krz01)
+[Next: Contents](krz01.md)

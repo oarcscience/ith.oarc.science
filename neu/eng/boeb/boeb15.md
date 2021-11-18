@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb14)  [Next](boeb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb14)  [Next](boeb16.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ And I am weary of the skies,
 
 ------------------------------------------------------------------------
 
-[Next: Robin Hood and Allen-a-Dale](boeb16)
+[Next: Robin Hood and Allen-a-Dale](boeb16.md)

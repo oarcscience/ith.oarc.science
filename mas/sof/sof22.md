@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof21)  [Next](sof23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof21)  [Next](sof23.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 <div>
 
-<span id="img_head20.png"></span> ![Header Chapter XX.](img/head20.png)
+<span id="img_head20.png"></span> ![Header Chapter XX.](img/head20.png.md)
 
 ## XX.
 
@@ -166,6 +166,6 @@ glorious purpose."
 
 ------------------------------------------------------------------------
 
-[Next: XXI. The Rite of Circumambulation](sof23)
+[Next: XXI. The Rite of Circumambulation](sof23.md)
 
 </div>

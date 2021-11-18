@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc31)  [Next](scc33) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc31)  [Next](scc33.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ went. Now they two arrived at their house.
 
 ------------------------------------------------------------------------
 
-[Next: 31.--Yaudanchi Yokuts. The Prairie Falcon Loses.](scc33)
+[Next: 31.--Yaudanchi Yokuts. The Prairie Falcon Loses.](scc33.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor02)  [Next](yor04) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor02)  [Next](yor04.md) 
 
 ------------------------------------------------------------------------
 
@@ -919,4 +919,4 @@ taken into the system.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Minor Gods.](yor04)
+[Next: Chapter III: Minor Gods.](yor04.md)

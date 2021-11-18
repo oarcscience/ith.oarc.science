@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Procopius](../index)  [Index](index)  [Previous](shp25)  [Next](shp27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Procopius](../index)  [Index](index)  [Previous](shp25)  [Next](shp27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076617039X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ houses, and were greatly inconvenienced in many ways.
 ------------------------------------------------------------------------
 
 [Next: Unjust Treatment of the Soldiers, and How Justinian Tricked the
-“Students” Out of Their Pay by Threatening to Send Them to War](shp27)
+“Students” Out of Their Pay by Threatening to Send Them to War](shp27.md)

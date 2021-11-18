@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits008) [Next](bits010)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits008) [Next](bits010.md)
 
 ------------------------------------------------------------------------
 
@@ -233,7 +233,7 @@ Mucalinda-tree.</span>
 
 ------------------------------------------------------------------------
 
-[Next: § 10. The Conversion of Sâriputta And Moggallâna](bits010)
+[Next: § 10. The Conversion of Sâriputta And Moggallâna](bits010.md)
 
  
 

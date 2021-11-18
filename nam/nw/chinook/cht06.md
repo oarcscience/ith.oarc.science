@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht05)  [Next](cht07) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht05)  [Next](cht07.md) 
 
 ------------------------------------------------------------------------
 
@@ -412,4 +412,4 @@ she knew that her brother had reached home safely\].
 
 ------------------------------------------------------------------------
 
-[Next: 4. The Salmon](cht07)
+[Next: 4. The Salmon](cht07.md)

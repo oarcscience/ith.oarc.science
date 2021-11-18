@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb17)  [Next](gnfb19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb17)  [Next](gnfb19.md) 
 
 </div>
 
@@ -185,6 +185,6 @@ Kletke.
 
 ------------------------------------------------------------------------
 
-[Next: The Dirty Shepherdess](gnfb19)
+[Next: The Dirty Shepherdess](gnfb19.md)
 
 </div>

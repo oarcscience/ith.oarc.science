@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](gar69)  [Next](gar71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](gar69)  [Next](gar71.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDMG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *General Ahiman Rezon*, by Daniel Sickels, \[1868\], at Intangible
 Textual Heritage
 
@@ -32,7 +32,7 @@ If they are Masons, otherwise they follow the Tiler;
 
 <span id="img_32900"></span> ![Master Masons;&lt;br&gt; Secretary and
 Treasurer;&lt;br&gt; Senior and Junior Wardens;&lt;br&gt; Past
-Masters;](img/32900.jpg)
+Masters;](img/32900.jpg.md)
 
 The Holy Writings,  
 On a cushion, covered with black cloth, carried by the oldest member of
@@ -45,7 +45,7 @@ Officiating Clergy;
 
 <span id="img_32901"></span> ![The Body&lt;br&gt; with the insignia
 placed thereon;&lt;br&gt; Pall-bearers; Pall-bearers;&lt;br&gt;
-Mourners.](img/32901.jpg)
+Mourners.](img/32901.jpg.md)
 
 If the deceased was a member of a Royal Arch Chapter and a Commandery of
 Knights Templar, and members of those bodies should unite in the
@@ -205,7 +205,7 @@ eternal spring. This, too, I deposit in the grave, with the exclamation,
 
 The brethren then move in procession around the place of interment, and
 severally drop the sprig of evergreen into the grave; after which, the
-public grand honors <span id="fr_42"></span>[\*](#fn_42) are given.
+public grand honors <span id="fr_42"></span>[\*](#fn_42.md) are given.
 
 <span id="page_337">p. 337</span>
 
@@ -266,7 +266,7 @@ The following, or some other suitable ODE, may be sung:
 <span id="img_33900"></span> <span align="CENTER">
 [![SCOTLAND.&lt;br&gt; Arranged from Dr. CLARE. by Br. JAS. B.
 TAYLOR.](tn/33900.jpg)  
-Click to enlarge](img/33900.jpg)  
+Click to enlarge](img/33900.jpg.md)  
 SCOTLAND.  
 Arranged from Dr. CLARE. by Br. JAS. B. TAYLOR.  
 </span>
@@ -285,7 +285,7 @@ portals before thee,
 
 <span id="img_34000"></span> <span align="CENTER"> [![Scotland,
 cont.](tn/34000.jpg)  
-Click to enlarge](img/34000.jpg)  
+Click to enlarge](img/34000.jpg.md)  
 Scotland, cont.  
 </span>
 
@@ -319,7 +319,7 @@ Or this:
 
 <span id="img_34100"></span> <span align="CENTER"> [![PLEYEL'S
 HYMN.](tn/34100.jpg)  
-Click to enlarge](img/34100.jpg)  
+Click to enlarge](img/34100.jpg.md)  
 PLEYEL'S HYMN.  
 </span>
 
@@ -398,7 +398,7 @@ and the Lodge will be closed in form.
 
 ### Footnotes
 
-<span id="fn_42"></span>[336:\*](gar70.htm#fr_42) The grand honors
+<span id="fn_42"></span>[336:\*](gar70.htm#fr_42.md) The grand honors
 practiced among Masons during the burial ceremonies, either in public or
 private, are given in the following manner: Both arms are crossed on the
 breast, the left uppermost, and the open palms of the hands striking the
@@ -413,4 +413,4 @@ to the earth."
 
 ------------------------------------------------------------------------
 
-[Next: Regulations for Processions](gar71)
+[Next: Regulations for Processions](gar71.md)

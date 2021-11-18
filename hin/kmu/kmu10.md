@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu09)  [Next](kmu11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu09)  [Next](kmu11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -124,9 +124,9 @@ Yogis practice different Mudras to control Prana. When Prana is
 controlled and made to move thru the Sushumna, the state of Samadhi
 follows. This is the correct method When Yogi desires to cheat death and
 time, he raises the Prana up to the Ajna Chakra, placing the Prana and
-the mind in the [Kundalini](errata.htm#16), then by steady meditation
+the mind in the [Kundalini](errata.htm#16.md), then by steady meditation
 Yogi moves the Kundalini. He then places the Atma in the Brahma and
-Brahma in the [Atma](errata.htm#17). He is then in Samadhi—ALL in ALL.
+Brahma in the [Atma](errata.htm#17.md). He is then in Samadhi—ALL in ALL.
 
 The external worlds are created by the lower mind. By controlling the
 lower mind, the external world is finished. Then meditating on the One
@@ -198,7 +198,7 @@ the sharp goad is best to control the mad elephant, so the Nada is best
 to control the mind. The Nada holds the mind fixed, as a bird cannot fly
 without wings. Those Yogis who have mastered the Nada practice are never
 disturbed by any other sound; they are liberated and emancipated."—H. Y.
-[Pradipika](errata.htm#18).
+[Pradipika](errata.htm#18.md).
 
 Yogi in Samadhi does not feel pain, thirst, hunger, heat or cold,
 nothing can harm him, his body does not decay, death never comes, near
@@ -430,7 +430,7 @@ Others believed that certain drugs could bring powers, such as flying
 thru the air. Many of the most wonderful medicines of the present day we
 owe to the Rasayanas, notably the use of metals in medicine. Certain
 sects of Yogis claim that many of their principal teachers are still
-living in their old bodies. [Patanjali](errata.htm#19), the great
+living in their old bodies. [Patanjali](errata.htm#19.md), the great
 authority on Yoga, does not deny this.
 
 From the Mayavati Memorial Edition.
@@ -439,4 +439,4 @@ For more of this read Raja Yoga, by Swami Vivekananda.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to Lalita Sahasranama](kmu11)
+[Next: Introduction to Lalita Sahasranama](kmu11.md)

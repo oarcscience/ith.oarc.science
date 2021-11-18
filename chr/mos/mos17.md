@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](mos16)  [Next](mos18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](mos16)  [Next](mos18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDEE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002AMUDEE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Man of Sorrows*, by John Nelson Darby, \[n.d. (prior to 1882)\], at
 Intangible Textual Heritage
 
@@ -268,4 +268,4 @@ double for all their sins.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 13](mos18)
+[Next: Chapter 13](mos18.md)

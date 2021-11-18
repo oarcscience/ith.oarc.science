@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff12)  [Next](fff14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff12)  [Next](fff14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -136,7 +136,7 @@ Pauline.
 Christianity, as understood by the Ebionites, being an essentially
 national doctrine, Paulinism was a necessity if any public attempt at
 universality was to be made; therefore it was that the true historical
-side of popular Christianity (the [original](errata.htm#19) Ebionite
+side of popular Christianity (the [original](errata.htm#19.md) Ebionite
 tradition) became more and more obscured, until finally it had so
 completely disappeared from the area of such tradition, that a new
 "history" could with safety be developed to suit the dogmatic evolution
@@ -150,4 +150,4 @@ contemporaneously with Paul, and may have existed far earlier.
 
 ------------------------------------------------------------------------
 
-[Next: The Essenes](fff14)
+[Next: The Essenes](fff14.md)

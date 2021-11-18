@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8177557459/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wos00)    [Page
-Index](pageidx)    [Text \[Zipped\]](wos.txt.gz)
+[Contents](#contents)    [Start Reading](wos00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](wos.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -44,14 +44,14 @@ translation only.--<span class="small">J.B. Hare, December 28th,
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wos00)  
-[Preface](wos01)  
-[Contents](wos02)  
-[Hymn to Hari](wos03)  
-[The Ten-versed Hymn.](wos04)  
-[Hymn to Dakshinamurti](wos05)  
-[Direct Realisation](wos06)  
-[The Century of Verses.](wos07)  
-[Knowledge of Self](wos08)  
-[Commentary on the Text](wos09)  
-[Definition of One's Own Self](wos10)  
+<span id="contents"></span> [Title Page](wos00.md)  
+[Preface](wos01.md)  
+[Contents](wos02.md)  
+[Hymn to Hari](wos03.md)  
+[The Ten-versed Hymn.](wos04.md)  
+[Hymn to Dakshinamurti](wos05.md)  
+[Direct Realisation](wos06.md)  
+[The Century of Verses.](wos07.md)  
+[Knowledge of Self](wos08.md)  
+[Commentary on the Text](wos09.md)  
+[Definition of One's Own Self](wos10.md)  

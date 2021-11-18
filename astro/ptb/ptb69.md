@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb68)  [Next](ptb70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb68)  [Next](ptb70.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 THE next point to be investigated is that concerning children: and, to
 accomplish this, observation must be made of the planets posited in, or
 configurated with the place on the zenith, <span
-id="fr_257"></span>[2](#fn_257) or its succedent house, which latter is
+id="fr_257"></span>[2](#fn_257.md) or its succedent house, which latter is
 called the place of the good dæmon. And should it happen that not any
 planets may be present in the said places, nor configurated with them,
 it will then be necessary to take into consideration such as may be in
@@ -27,11 +27,11 @@ occidental.
 <span id="page_129">p. 129</span>
 
 To speak briefly, if the planets, which grant progeny, be so posited as
-described, <span id="fr_258"></span>[1](#fn_258) and placed singly, the
+described, <span id="fr_258"></span>[1](#fn_258.md) and placed singly, the
 gift of progeny will be single only <span
-id="fr_259"></span>[2](#fn_259); but should they be in bicorporeal or in
+id="fr_259"></span>[2](#fn_259.md); but should they be in bicorporeal or in
 feminine signs, they will grant double offsprings <span
-id="fr_260"></span>[3](#fn_260): so likewise if they should be in
+id="fr_260"></span>[3](#fn_260.md): so likewise if they should be in
 prolific or seminal signs, such as Pisces, Cancer, and Scorpio, they
 will grant twins, or even more. And provided they should also be
 masculinely constituted, as well by configuration with the Sun, as by
@@ -61,7 +61,7 @@ more orientally, more genuinely in angles, higher in elevation, or
 successively ascending.
 
 When the lords of the aforesaid signs <span
-id="fr_261"></span>[4](#fn_261) may be such as are givers of offspring,
+id="fr_261"></span>[4](#fn_261.md) may be such as are givers of offspring,
 and be either oriental, or in places proper to themselves, the children
 thus granted will become eminent and illustrious: but, if occidental, or
 in places not proper to themselves, the children will then become
@@ -92,22 +92,22 @@ case of a nativity.
 
 ### Footnotes
 
-<span id="fn_257"></span>[128:2](ptb69.htm#fr_257) The angle of the
+<span id="fn_257"></span>[128:2](ptb69.htm#fr_257.md) The angle of the
 mid-heaven.
 
-<span id="fn_258"></span>[129:1](ptb69.htm#fr_258) The meaning, apparent
+<span id="fn_258"></span>[129:1](ptb69.htm#fr_258.md) The meaning, apparent
 from the commencement of the chapter, is this: "Should such planets be
 in the mid-heaven or its succedent house, or configurated with either."
 
-<span id="fn_259"></span>[129:2](ptb69.htm#fr_259) Μοναδικην, single, or
+<span id="fn_259"></span>[129:2](ptb69.htm#fr_259.md) Μοναδικην, single, or
 one at a birth.
 
-<span id="fn_260"></span>[129:3](ptb69.htm#fr_260) Διδυμογωνιαν, double,
+<span id="fn_260"></span>[129:3](ptb69.htm#fr_260.md) Διδυμογωνιαν, double,
 or two at a birth.
 
-<span id="fn_261"></span>[129:4](ptb69.htm#fr_261) That on the
+<span id="fn_261"></span>[129:4](ptb69.htm#fr_261.md) That on the
 mid-heaven, and that on the eleventh house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Friends and Enemies](ptb70)
+[Next: Chapter VII. Friends and Enemies](ptb70.md)

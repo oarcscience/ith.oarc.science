@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index)  [Next](tpol01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index)  [Next](tpol01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path of Light*, by L.D. Barnett, \[1909\], at Intangible Textual
 Heritage
 
@@ -45,13 +45,13 @@ because it was published prior to 1923.
 
 <span id="img_fcover"></span> <span align="CENTER"> [![Front
 Cover](tn/fcover.jpg)  
-Click to enlarge](img/fcover.jpg)  
+Click to enlarge](img/fcover.jpg.md)  
 Front Cover  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
@@ -64,6 +64,6 @@ ENGLAND
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tpol01)
+[Next: Contents](tpol01.md)
 
 </div>

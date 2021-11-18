@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktswkn)  [Next](pktsw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktswkn)  [Next](pktsw10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Page
 
 <span id="img_swpa"></span> <span align="CENTER"> [![](tn/swpa.jpg)  
-Click to enlarge](img/swpa.jpg)</span>
+Click to enlarge](img/swpa.jpg.md)</span>
 
 A lithe, active figure holds a sword upright in both hands, while in the
 act of swift walking. He is passing over rugged land, and about his way
@@ -33,4 +33,4 @@ sickness is also intimated.
 
 ------------------------------------------------------------------------
 
-[Next: Ten of Swords](pktsw10)
+[Next: Ten of Swords](pktsw10.md)

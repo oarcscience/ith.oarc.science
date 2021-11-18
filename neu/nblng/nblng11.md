@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng10)  [Next](nblng12) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng10)  [Next](nblng12.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Adventure X: How Brunhild Was Received At Worms.](nblng12)
+[Next: Adventure X: How Brunhild Was Received At Worms.](nblng12.md)

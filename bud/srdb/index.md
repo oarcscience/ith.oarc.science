@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Buddhism](../index)
+[Intangible Textual Heritage](../../index) [Buddhism](../index.md)
 
 ------------------------------------------------------------------------
 

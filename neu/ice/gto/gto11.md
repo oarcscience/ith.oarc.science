@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto10)  [Next](gto12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto10)  [Next](gto12.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ stories, and that there is not a word of truth in
 <span id="img_03000"></span>
 
 [![THORKEL AT AUDA AND ASGERDA'S BOWER.](tn/03000.jpg)  
-Click to enlarge](img/03000.jpg)  
+Click to enlarge](img/03000.jpg.md)  
 THORKEL AT AUDA AND ASGERDA'S BOWER.  
 
  
@@ -207,4 +207,4 @@ summer slips away, and the first winter night was nigh at hand.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Vestein Comes Back to Iceland](gto12)
+[Next: Chapter VII. Vestein Comes Back to Iceland](gto12.md)

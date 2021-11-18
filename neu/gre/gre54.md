@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre53)  [Next](gre55) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre53)  [Next](gre55.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ home.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter L: Grettir and the Foster-brothers at Reek-knolls](gre55)
+[Next: Chapter L: Grettir and the Foster-brothers at Reek-knolls](gre55.md)

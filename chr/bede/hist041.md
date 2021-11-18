@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist040) 
-[Next](hist042) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist040.md) 
+[Next](hist042.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ the unity of faith and charity which is in Christ.
 
 [Next: VI. How Laurentius, being reproved by the Apostle Peter,
 converted King Eadbald to Christ; and how the king soon recalled
-Mellitus and Justus to preach the Word. \[617-618A.D.\]](hist042)
+Mellitus and Justus to preach the Word. \[617-618A.D.\]](hist042.md)

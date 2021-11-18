@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg05)   
-[Previous](bgs04)  [Next](bgs06) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg05.md)   
+[Previous](bgs04)  [Next](bgs06.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ suhṛdaṃ sarvabhūtānāṃ jñātvā māṃ śāntim ṛcchati
 
 ------------------------------------------------------------------------
 
-[Next: VI. atha ṣaṣṭhodhyāyaḥ. (ātmasaṃyamayogaḥ)](bgs06)
+[Next: VI. atha ṣaṣṭhodhyāyaḥ. (ātmasaṃyamayogaḥ)](bgs06.md)

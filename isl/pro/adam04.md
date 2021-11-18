@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam03)  [Next](adam05) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam03)  [Next](adam05.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ lasted for more time and never got out of it.
 ------------------------------------------------------------------------
 
 [Next: How was it correct to prostrate before Adam by angels and he's
-just a creation](adam05)
+just a creation](adam05.md)

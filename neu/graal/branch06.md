@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch05) 
-[Next](branch07) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch05.md) 
+[Next](branch07.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -1085,5 +1085,5 @@ saying a word.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-VII](branch07)  
+VII](branch07.md)  
 </span>

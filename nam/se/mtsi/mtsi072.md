@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi071)  [Next](mtsi073) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi071)  [Next](mtsi073.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ near by in the grass.
 The pretty girl came singing down the trail and, while she was getting
 the water, the Rabbit sang out in a low, deep, monotonous tone: "Hok-te
 mar-pe hum-ke ehe-sekart elun, elun, elun-n-n-n." <span
-id="fr_12"></span>[1](#fn_12) (The girl who remains single will die,
+id="fr_12"></span>[1](#fn_12.md) (The girl who remains single will die,
 die, die.)
 
 She was alarmed, and looked in vain to see who spoke the awful words.
@@ -104,9 +104,9 @@ daughter.
 
 ### Footnotes
 
-<span id="fn_12"></span>[62:1](mtsi072.htm#fr_12) Hokti, woman; maniti,
+<span id="fn_12"></span>[62:1](mtsi072.htm#fr_12.md) Hokti, woman; maniti,
 young; hamki, one; illsikat, without a husband; ilan, shall die.
 
 ------------------------------------------------------------------------
 
-[Next: 71. Rabbit Fools Coyote](mtsi073)
+[Next: 71. Rabbit Fools Coyote](mtsi073.md)

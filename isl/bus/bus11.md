@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus10)  [Next](bus12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus10)  [Next](bus12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -17,8 +17,8 @@ Textual Heritage
 <span class="smallcaps">Concerning Education</span>
 
 <span class="smallcaps">Those</span> who turn the reins of their desires
-from unlawful things have surpassed Rustam [31](bus15.htm#an_31) and Sam
-[32](bus15.htm#an_32) in valour.
+from unlawful things have surpassed Rustam [31](bus15.htm#an_31.md) and Sam
+[32](bus15.htm#an_32.md) in valour.
 
 None is so fearful of the enemy as thou, slave of thine own passions.
 
@@ -277,7 +277,7 @@ from place to place.
 
 A quarrel is like a fire which the talebearer feeds with fuel.
 
-#### FARIDUN [33](bus15.htm#an_33) AND HIS WISE VAZIER
+#### FARIDUN [33](bus15.htm#an_33.md) AND HIS WISE VAZIER
 
 Faridun had a vazier who was discerning and of enlightened mind.
 
@@ -403,4 +403,4 @@ seest is good: eat the kernel of the nut and throw the husk away.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Concerning Gratitude](bus12)
+[Next: Chapter VIII. Concerning Gratitude](bus12.md)

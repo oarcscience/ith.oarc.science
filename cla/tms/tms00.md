@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](tms01) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](tms01.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](tms01)
+[Next: Preface](tms01.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](rft13)  [Next](rft15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](rft13)  [Next](rft15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI4I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI4I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Roumanian Fairy Tales and Legends*, by E.B. Mawr, \[1881\], at
 Intangible Textual Heritage
 
@@ -151,4 +151,4 @@ made it the subject of one of his most beautiful and touching ballads.
 
 ------------------------------------------------------------------------
 
-[Next: The Mother of Stephen the Great](rft15)
+[Next: The Mother of Stephen the Great](rft15.md)

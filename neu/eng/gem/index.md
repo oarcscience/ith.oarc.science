@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,8 +28,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406795151/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gem00)    [Page
-Index](pageidx)    [Text \[Zipped\]](gemtxt.zip)   
+[Contents](#contents)    [Start Reading](gem00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](gemtxt.zip.md)   
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ King Henry I.
 Embedded in the Histories is The Prophecies of Merlin, which
 retroactively predicts current events of Geoffrey's time. Also available
 at this site is a bilingual edition of a later work which Geoffrey
-composed on the same theme, [Vita Merlini](../vm/index), or Life of
+composed on the same theme, [Vita Merlini](../vm/index.md), or Life of
 Merlin. Also of interest is his description of the theft of Stonehenge
 from Ireland: uncannily recognizing that the stones had been moved from
 a long way away. This is the first appearance on the Internet of this
@@ -69,18 +69,18 @@ translation of Geoffrey's Histories.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gem00)  
-[Contents](gem01)  
-[Book I](gem02)  
-[Book II](gem03)  
-[Book III](gem04)  
-[Book IV](gem05)  
-[Book V](gem06)  
-[Book VI](gem07)  
-[Book VII](gem08)  
-[Book VIII](gem09)  
-[Book IX](gem10)  
-[Book X](gem11)  
-[Book XI](gem12)  
-[Book XII](gem13)  
-[The Translator's Epilogue](gem14)  
+<span id="contents"></span> [Title Page](gem00.md)  
+[Contents](gem01.md)  
+[Book I](gem02.md)  
+[Book II](gem03.md)  
+[Book III](gem04.md)  
+[Book IV](gem05.md)  
+[Book V](gem06.md)  
+[Book VI](gem07.md)  
+[Book VII](gem08.md)  
+[Book VIII](gem09.md)  
+[Book IX](gem10.md)  
+[Book X](gem11.md)  
+[Book XI](gem12.md)  
+[Book XII](gem13.md)  
+[The Translator's Epilogue](gem14.md)  

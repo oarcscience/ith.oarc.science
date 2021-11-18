@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg41)  [Next](leg43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg41)  [Next](leg43.md) 
 
 ------------------------------------------------------------------------
 
 XIV\. The first who had knowledge of the accident which had befallen
 their king were the Pans and Satyrs, who inhabited the country round
-about Chemmis, <span id="fr_305"></span>[1](#fn_303) and they having
+about Chemmis, <span id="fr_305"></span>[1](#fn_303.md) and they having
 informed the people about
 
 <span id="page_220">p. 220</span>
@@ -48,9 +48,9 @@ guards the gods as dogs do men.
 
 ### Footnotes
 
-<span id="fn_303"></span>[219:1](leg42.htm#fr_305) I In Egyptian, KHEBT,
+<span id="fn_303"></span>[219:1](leg42.htm#fr_305.md) I In Egyptian, KHEBT,
 in the VIIIth nome of Lower Egypt.
 
 ------------------------------------------------------------------------
 
-[Next: Section XV.](leg43)
+[Next: Section XV.](leg43.md)

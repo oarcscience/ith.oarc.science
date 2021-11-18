@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca16)  [Next](ntca18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca16)  [Next](ntca18.md) 
 
 ------------------------------------------------------------------------
 
@@ -290,4 +290,4 @@ him from the capricious malice of some other individual spirit.
 ------------------------------------------------------------------------
 
 [Next: Chapter XVI. The Making and the Powers of Medicine Men; Various
-Forms of Magic](ntca18)
+Forms of Magic](ntca18.md)

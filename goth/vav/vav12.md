@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vav11)  [Next](vav13) 
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vav11)  [Next](vav13.md) 
 
 ------------------------------------------------------------------------
 
@@ -688,4 +688,4 @@ I do."
 ------------------------------------------------------------------------
 
 [Next: The Vampire's Ninth Story. Showing That a Man's Wife Belongs Not
-to His Body but to His Head.](vav13)
+to His Body but to His Head.](vav13.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos18)  [Next](mos20) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos18)  [Next](mos20.md) 
 
 ------------------------------------------------------------------------
 
@@ -207,4 +207,4 @@ conversation with them.
 
 ------------------------------------------------------------------------
 
-[Next: Place of Revelation of Torah](mos20)
+[Next: Place of Revelation of Torah](mos20.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai22)  [Next](iai24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai22)  [Next](iai24.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ To Izdubar propitious be!
 
 <span id="page_71">p. 71</span>
 
- <span id="fr_203"></span>[1](#fn_201) *Assur Samas u Marduk-u,  
+ <span id="fr_203"></span>[1](#fn_201.md) *Assur Samas u Marduk-u,  
 Ana Sar bel-ni-ya lik-ru-bu*!"
 
 And thus the Oracle with sweetest voice  
@@ -56,7 +56,7 @@ To him replied, and made his heart rejoice:
 
    "Fear not, O Izdubar,  
 For I am Bel, thy strength in war. <span
-id="fr_204"></span>[2](#fn_202)  
+id="fr_204"></span>[2](#fn_202.md)  
 A heart of strength give I to thee!  
 To trust, we can but faithful be!  
     As thou hast shown to me.  
@@ -120,15 +120,15 @@ Within, pure gold and gems in rare designs.
 
 ### Footnotes
 
-<span id="fn_201"></span>[71:1](iai23.htm#fr_203) "Assur Samas and
+<span id="fn_201"></span>[71:1](iai23.htm#fr_203.md) "Assur Samas and
 Merodac" ("Unto the king, my lord may they propitious!"), the response
 of the priest to the prayer.
 
-<span id="fn_202"></span>[71:2](iai23.htm#fr_204) See "Records of the
+<span id="fn_202"></span>[71:2](iai23.htm#fr_204.md) See "Records of the
 Past," vol. xi. p. 63. These oracles seem to be formulas which are
 filled in with the monarch's name, and may apply to any king.
 
 ------------------------------------------------------------------------
 
 [Next: Column V. Expedition Against Khumbaba, and Battle in the Black
-Forest](iai24)
+Forest](iai24.md)

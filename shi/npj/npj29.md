@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj28) 
-[Next](npj30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj28.md) 
+[Next](npj30.md) 
 
 ------------------------------------------------------------------------
 
@@ -279,11 +279,11 @@ Are not its two horns fashioned
 In likeness of the Hare and Crow,  
 Symbols of the Moon and Sun, of Night and Day?  
 Here is the primal mystery displayed  
-Of fair and foul conjoined. <span id="fr_162"></span>[1](#fn_160)  
+Of fair and foul conjoined. <span id="fr_162"></span>[1](#fn_160.md)  
 Bears not the God of Love, unsullied king,  
 A magical bow? Does he not stretch upon its string  
 Arrows of grace whereby  
-The armies of the Four Fiends <span id="fr_163"></span>[2](#fn_161) know
+The armies of the Four Fiends <span id="fr_163"></span>[2](#fn_161.md) know
 no rest
 
 CHORUS.
@@ -327,7 +327,7 @@ And of the doctrine that Buddha is in the bones of each one of us . . .?
 BROTHER.
 
 He lurks unseen; like the golden dragon <span
-id="fr_164"></span>[1](#fn_162) when he leaps behind the clouds.
+id="fr_164"></span>[1](#fn_162.md) when he leaps behind the clouds.
 
 NOBUTOSHI.
 
@@ -343,7 +343,7 @@ But if we deny them . . .
 
 BROTHER.
 
-We are listed to a heresy. <span id="fr_165"></span>[2](#fn_163)
+We are listed to a heresy. <span id="fr_165"></span>[2](#fn_163.md)
 
 NOBUTOSHI.
 
@@ -352,7 +352,7 @@ And the straight path to knowledge . . .
 MAKINO (*rushing forward sword in hand*).
 
 "With the triple stroke is carved." <span
-id="fr_166"></span>[3](#fn_164)
+id="fr_166"></span>[3](#fn_164.md)
 
  
 
@@ -368,7 +368,7 @@ CHORUS.
 
 Thus do men ever  
 Blurt out or blazen on the cheek  
-Red as rock-rose <span id="fr_167"></span>[1](#fn_165) the thing they
+Red as rock-rose <span id="fr_167"></span>[1](#fn_165.md) the thing they
 would not speak.  
 Now by the Trinity, how foolish are men's hearts!
 
@@ -452,13 +452,13 @@ Oh, a pleasant place is the City of Flowers;
 
 CHORUS.
 
-No pen could write its wonders. <span id="fr_168"></span>[1](#fn_166)
+No pen could write its wonders. <span id="fr_168"></span>[1](#fn_166.md)
 <span id="page_174">p. 174</span>  
 In the east, Gion and the Temple of Clear Waters  
 Where torrents tumble with a noise of many wings;  
 In the storm-wind flutter, flutter  
 The blossoms of the Earth-lord's tree. <span
-id="fr_169"></span>[1](#fn_167)  
+id="fr_169"></span>[1](#fn_167.md)  
 In the west, the Temple of the Wheel of Law,  
 The Shrine of Saga (Turn, if thou wilt,  
 Wheel of the Water Mill!),  
@@ -467,7 +467,7 @@ And river-willows by the waves are chafed;
      Oxen of the City by the wheels are chafed;  
      And the tea-mortar by the pestle is chafed.  
      Why, and I'd forgot! In the *hōka's* hands  
-     The *kokiriko* <span id="fr_170"></span>[2](#fn_168) is chafed.  
+     The *kokiriko* <span id="fr_170"></span>[2](#fn_168.md) is chafed.  
      Now long may our Lord rule  
      Age notched on age, like the notches  
      Of these gnarled sticks!
@@ -509,33 +509,33 @@ Even in this aftertime.
 
 ### Footnotes
 
-<span id="fn_160"></span>[170:1](npj29.htm#fr_162) The Sun is male, i.e.
+<span id="fn_160"></span>[170:1](npj29.htm#fr_162.md) The Sun is male, i.e.
 fair. The Moon female, i.e. foul.
 
-<span id="fn_161"></span>[170:2](npj29.htm#fr_163) The demons of
+<span id="fn_161"></span>[170:2](npj29.htm#fr_163.md) The demons of
 Delusion, of the Senses, of the Air and of Death.
 
-<span id="fn_162"></span>[171:1](npj29.htm#fr_164) The Sun.
+<span id="fn_162"></span>[171:1](npj29.htm#fr_164.md) The Sun.
 
-<span id="fn_163"></span>[171:2](npj29.htm#fr_165) The heresy of
+<span id="fn_163"></span>[171:2](npj29.htm#fr_165.md) The heresy of
 Nihilism. To say that phenomena do not exist is as untrue as to say that
 they exist.
 
-<span id="fn_164"></span>[171:3](npj29.htm#fr_166) He quotes a Zen text.
+<span id="fn_164"></span>[171:3](npj29.htm#fr_166.md) He quotes a Zen text.
 
-<span id="fn_165"></span>[172:1](npj29.htm#fr_167) *Iwa*, "rock," also
+<span id="fn_165"></span>[172:1](npj29.htm#fr_167.md) *Iwa*, "rock," also
 means "not speak."
 
-<span id="fn_166"></span>[173:1](npj29.htm#fr_168) Some actors, says
+<span id="fn_166"></span>[173:1](npj29.htm#fr_168.md) Some actors, says
 Owada, here write in the air with their fan; but such detailed miming is
 vulgar.
 
-<span id="fn_167"></span>[174:1](npj29.htm#fr_169) An allusion to the
+<span id="fn_167"></span>[174:1](npj29.htm#fr_169.md) An allusion to the
 cherry-trees at the Kiyomizu-dera.
 
-<span id="fn_168"></span>[174:2](npj29.htm#fr_170) Bamboo-strips rubbed
+<span id="fn_168"></span>[174:2](npj29.htm#fr_170.md) Bamboo-strips rubbed
 together to produce a squeaking sound.
 
 ------------------------------------------------------------------------
 
-[Next: Note on Hagoromo](npj30)
+[Next: Note on Hagoromo](npj30.md)

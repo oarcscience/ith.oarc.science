@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc38)  [Next](scc40) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc38)  [Next](scc40.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ tobacco. He lived on that. Thus the earth was made.
 
 ------------------------------------------------------------------------
 
-[Next: 38.--Yauelmani Yokuts. The Origin Of Death.](scc40)
+[Next: 38.--Yauelmani Yokuts. The Origin Of Death.](scc40.md)

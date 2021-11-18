@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen14)  [Next](gen16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen14)  [Next](gen16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -54,7 +54,7 @@ latest news in the capital.
 
 The messenger told him, in awkward terms, that in the capital these
 storms were considered to be a kind of heavenly warning, that a
-Nin-wô-ye <span id="fr_118"></span>[1](#fn_117) was going to be held;
+Nin-wô-ye <span id="fr_118"></span>[1](#fn_117.md) was going to be held;
 and that many nobles who had to go to Court were prevented from doing so
 by the storms, adding that he never remembered such violent storms
 before.
@@ -89,7 +89,7 @@ none of the comforts of an ordinary bedchamber.
 All at once his late father appeared before his eyes in the exact image
 of life, and said to him, "Why are you in so strange a place?" and
 taking his hand, continued, "Embark at once in a boat, as the God of
-Sumiyoshi <span id="fr_119"></span>[2](#fn_118) guides you, and leave
+Sumiyoshi <span id="fr_119"></span>[2](#fn_118.md) guides you, and leave
 this coast."
 
 Genji was delighted at this, and replied, " Since I parted from
@@ -218,7 +218,7 @@ which he had not practised for some time, and was playing an air called
 "Kôriô," when the priest joined him, having left for awhile his
 devotions, and said that his music recalled to his mind the old days and
 the capital which he had quitted so long. He sent for a *biwa*
-(mandolin) <span id="fr_120"></span>[3](#fn_119) and a *soh-koto* from
+(mandolin) <span id="fr_120"></span>[3](#fn_119.md) and a *soh-koto* from
 the hillside mansion, and, after the fashion of a blind singer of
 ballads to the *biwa*, played two or three airs.
 
@@ -263,8 +263,8 @@ pleasure. The reason why I think so is this—it is nearly eighteen years
 since we began to pray for the blessing of the God Sumiyoshi on our
 daughter, and we have sent her twice a year, in spring and autumn, to
 his temple. At the "six-time" service, <span
-id="fr_121"></span>[4](#fn_120) also, the prayers for my own repose on
-the lotus flower, <span id="fr_122"></span>[5](#fn_121) are only
+id="fr_121"></span>[4](#fn_120.md) also, the prayers for my own repose on
+the lotus flower, <span id="fr_122"></span>[5](#fn_121.md) are only
 secondary to those which I put up for the happiness of my daughter. My
 father, as you may know, held a good office in the capital, but I am now
 a plain countryman, and if I leave matters in their present state, the
@@ -388,28 +388,28 @@ till the evening.
 
 ### Footnotes
 
-<span id="fn_117"></span>[187:1](gen15.htm#fr_118) A religious feast in
+<span id="fn_117"></span>[187:1](gen15.htm#fr_118.md) A religious feast in
 the Imperial Palace, in which Nin-wô-kiô, one of the Buddhist Bibles,
 was read, an event which rarely took place. Its object was to
 tranquillize the country.
 
-<span id="fn_118"></span>[188:2](gen15.htm#fr_119) The god of the sea.
+<span id="fn_118"></span>[188:2](gen15.htm#fr_119.md) The god of the sea.
 
-<span id="fn_119"></span>[191:3](gen15.htm#fr_120) The "biwa," more than
+<span id="fn_119"></span>[191:3](gen15.htm#fr_120.md) The "biwa," more than
 any other instrument, is played by blind performers, who accompany it
 with ballads.
 
-<span id="fn_120"></span>[192:4](gen15.htm#fr_121) The services
+<span id="fn_120"></span>[192:4](gen15.htm#fr_121.md) The services
 performed by rigid priests were six times daily—namely, at early morn,
 mid-day, sunset, early evening, midnight, and after midnight.
 
-<span id="fn_121"></span>[192:5](gen15.htm#fr_122) The Buddhist idea
+<span id="fn_121"></span>[192:5](gen15.htm#fr_122.md) The Buddhist idea
 that when we get into Paradise we take our seat upon the lotus flower.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: The Beacon](gen16)
+[Next: Chapter XIV: The Beacon](gen16.md)
 
 </div>

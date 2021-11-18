@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb20)  [Next](blfb22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb20)  [Next](blfb22.md) 
 
 </div>
 
@@ -283,6 +283,6 @@ Bartholomew's Hospital and other public charities.
 
 ------------------------------------------------------------------------
 
-[Next: The Wonderful Sheep](blfb22)
+[Next: The Wonderful Sheep](blfb22.md)
 
 </div>

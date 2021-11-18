@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai39)  [Next](tai41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai39)  [Next](tai41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -604,7 +604,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
 
 ### IX. REMINISCENCES.
 
-#### (1) OF VSÉSLAV BRYÁČISLAVIČ. <span id="fr_19"></span>[†](#fn_19)
+#### (1) OF VSÉSLAV BRYÁČISLAVIČ. <span id="fr_19"></span>[†](#fn_19.md)
 
  
 
@@ -840,12 +840,12 @@ Yaroslávna hears their voice; she moans early like a cuckoo in the unknown land
 
 ### Footnotes
 
-<span id="fn_19"></span>[18:†](tai40.htm#fr_19) For reconstruction of
-this passage vide page [24](tai41.htm#page_24).
+<span id="fn_19"></span>[18:†](tai40.htm#fr_19.md) For reconstruction of
+this passage vide page [24](tai41.htm#page_24.md).
 
-<span id="fn_20"></span>[20:†](tai40.htm#fr_20) 'Sea' море must be
+<span id="fn_20"></span>[20:†](tai40.htm#fr_20.md) 'Sea' море must be
 understood any wide inland stretch of water.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](tai41)
+[Next: Part III](tai41.md)

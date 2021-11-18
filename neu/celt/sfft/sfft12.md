@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft11)  [Next](sfft13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft11)  [Next](sfft13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### RASHIN-COATIE. <span id="fr_36"></span>[2](#fn_36)
+### RASHIN-COATIE. <span id="fr_36"></span>[2](#fn_36.md)
 
 ONCE, a long time ago, there--was a gentleman had two lassies. The
 oldest was ugly and ill-natured, but the youngest was a bonnie lassie
@@ -44,7 +44,7 @@ the calf; and not only that, but the lassie was to be compelled to kill
 him with an axe. Her ugly sister was to hold his head, and the lassie
 who loved him had to give the blow and kill him.
 
-She could do nothing but greet; <span id="fr_37"></span>[1](#fn_37) but
+She could do nothing but greet; <span id="fr_37"></span>[1](#fn_37.md) but
 the calf told her not to greet, but to do as he bade her; and his plan
 was that instead of coming down on his head she was to come down on the
 lassie's head who was holding him, and then she was to jump on his back
@@ -128,11 +128,11 @@ for the red calf, who had been so kind to her.
 
 ### Footnotes
 
-<span id="fn_36"></span>[86:2](sfft12.htm#fr_36) *The Folk-Lore
+<span id="fn_36"></span>[86:2](sfft12.htm#fr_36.md) *The Folk-Lore
 Journal*.
 
-<span id="fn_37"></span>[87:1](sfft12.htm#fr_37) Weep.
+<span id="fn_37"></span>[87:1](sfft12.htm#fr_37.md) Weep.
 
 ------------------------------------------------------------------------
 
-[Next: The Fox Outwitted](sfft13)
+[Next: The Fox Outwitted](sfft13.md)

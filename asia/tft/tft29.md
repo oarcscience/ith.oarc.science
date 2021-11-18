@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft28)  [Next](tft30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft28)  [Next](tft30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -75,7 +75,7 @@ lower regions to weigh him. He grabbed him by the back of
 <span id="img_10900"></span> <span align="CENTER"> [![THE BIRD RETURNED
 BEARING A SEED IN HIS MOUTH, WHICH HE GAVE TO THE OLD
 MAN.](tn/10900.jpg)  
-Click to enlarge](img/10900.jpg)  
+Click to enlarge](img/10900.jpg.md)  
 THE BIRD RETURNED BEARING A SEED IN HIS MOUTH, WHICH HE GAVE TO THE OLD
 MAN.  
 </span>
@@ -92,4 +92,4 @@ So much for the sin of covetousness.
 
 ------------------------------------------------------------------------
 
-[Next: Twenty-Seven: The Story of the Bald-Headed Man](tft30)
+[Next: Twenty-Seven: The Story of the Bald-Headed Man](tft30.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo07)  [Next](beo09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo07)  [Next](beo09.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ rendered to Beowulf's father in time of dire need.
 
 ------------------------------------------------------------------------
 
-[Next: Part VIII](beo09)
+[Next: Part VIII](beo09.md)

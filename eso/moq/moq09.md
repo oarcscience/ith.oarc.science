@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](moq08)  [Next](moq10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](moq08)  [Next](moq10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysteries of the Qabalah*, by Elias Gewurz, \[1922\], at Intangible
 Textual Heritage
 
@@ -190,9 +190,9 @@ This then is the secret of the "Four Ways." Using these methods in
 addition to those already mentioned, we are here attempting to unravel
 some of the mysteries of the Scriptures but before continuing it will be
 well to have some examples of the methods already mentioned, Gematria,
-[Temura](errata.htm#4), etc. To this is devoted a separate chapter.
+[Temura](errata.htm#4.md), etc. To this is devoted a separate chapter.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Examples of Permutation and Numerical
-Valuation](moq10)
+Valuation](moq10.md)

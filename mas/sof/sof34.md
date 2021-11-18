@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof33)  [Next](sof35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof33)  [Next](sof35.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head-index.png"></span> ![Header
-Index.](img/head-index.png)
+Index.](img/head-index.png.md)
 
 ## Synoptical Index.
 
@@ -935,6 +935,6 @@ of their supreme god, Osiris, or the sun.
 
 ------------------------------------------------------------------------
 
-[Next: F-M](sof35)
+[Next: F-M](sof35.md)
 
 </div>

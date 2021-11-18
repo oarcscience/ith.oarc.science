@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](tgm01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](tgm01.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ AVI AMOS
 
 ------------------------------------------------------------------------
 
-[Next: Editor's Introduction](tgm01)
+[Next: Editor's Introduction](tgm01.md)

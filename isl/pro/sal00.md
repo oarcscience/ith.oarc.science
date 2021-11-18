@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hud04)  [Next](sal01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hud04)  [Next](sal01.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ not with hurt lest painful torment seize you(Al-A\`râf:73).
 
 ------------------------------------------------------------------------
 
-[Next: Properities of The She-Camel](sal01)
+[Next: Properities of The She-Camel](sal01.md)

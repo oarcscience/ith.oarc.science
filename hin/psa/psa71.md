@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa70)  [Next](psa72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa70)  [Next](psa72.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ singing. Shree Krishnù Chund Jee continued his pastimes at Dwarka.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXI](psa72)
+[Next: Chapter LXXI](psa72.md)

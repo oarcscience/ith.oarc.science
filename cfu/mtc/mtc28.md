@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc27)  [Next](mtc29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc27)  [Next](mtc29.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -41,6 +41,6 @@ Though my limbs are old, my heart is older yet.
 ------------------------------------------------------------------------
 
 [Next: To His Brother Hsing-Chien, Who Was Serving in Tung
-Ch‘uan](mtc29)
+Ch‘uan](mtc29.md)
 
 </div>

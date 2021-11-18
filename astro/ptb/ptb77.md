@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb76) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb76.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,7 +93,7 @@ prorogation.
  
 
 Fig. 2 is the Equator extended, *in plana*, on a scale proportionate to
-the planispheres in [Figs. 1 and 3](#img_figs): it is divided into 360
+the planispheres in [Figs. 1 and 3](#img_figs.md): it is divided into 360
 degrees, and into equal time, as measured by the 24 hours of the earth's
 daily rotation on its axis, and by smaller portions of four minutes
 each, corresponding with degrees of the equator.
@@ -110,11 +110,11 @@ that, when 0° ♈ may be on the ascendant, 0° ♊ will be at A, and will
 subsequently arrive at the ascendant at C, after the passage of 29° 43'
 of the equator. When 0° ♈ may be on the mid-heaven at D, 0° ♊ will be at
 E, and will arrive at B, on the mid-heaven, after the passage of 57° 44'
-of the equator, as in [Fig. 1](#img_figs). When 0° ♈ may be on the 7th
+of the equator, as in [Fig. 1](#img_figs.md). When 0° ♈ may be on the 7th
 house, at F, 0° ♊ will be at G, and will come to the 7th house, at H,
 after the passage of 85° 45' of the equator. If 0° ♈ be three temporal
 hours past the meridian, at I, 0° would be at K, again 13 equatorial
-degrees before the meridian, as in [Fig. 1](#img_figs), and will be
+degrees before the meridian, as in [Fig. 1](#img_figs.md), and will be
 three temporal hours past the meridian, a position similar to that
 assumed for 0° ♈, on arriving at L, distant from the mid-heaven 59
 equatorial degrees; thus making the whole distance, from K to L, 17
@@ -128,8 +128,8 @@ positions given by Ptolemy, the Reader may satisfy himself of the
 sufficiency of this Planisphere for the purpose for which it was first
 projected; viz. for the more expeditious measurement of the arcs of
 direction. The Tables of Ascensions, extracted from the Almagest, in [p.
-152](ptb75.htm#page_152), will show that the arcs, as measured in [Figs.
-1 and 2](#img_figs) of the plate, exactly tally with the amounts of
+152](ptb75.htm#page_152.md), will show that the arcs, as measured in [Figs.
+1 and 2](#img_figs.md) of the plate, exactly tally with the amounts of
 distance obtained by calculating arithmetically, according to the
 respective latitudes, as quoted in the Tables.
 
@@ -159,7 +159,7 @@ FINIS
 <span id="img_figs"></span>
 
 [![Figures 1-3](tn/figs.jpg)  
-Click to enlarge](img/figs.jpg)  
+Click to enlarge](img/figs.jpg.md)  
 Figures 1-3  
 
  

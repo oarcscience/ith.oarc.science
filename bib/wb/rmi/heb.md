@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](plm)  [Next](jam) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](plm)  [Next](jam.md) 
 
 ------------------------------------------------------------------------
 
@@ -1235,4 +1235,4 @@ Devlesko.
 
 ------------------------------------------------------------------------
 
-[Next: James](jam)
+[Next: James](jam.md)

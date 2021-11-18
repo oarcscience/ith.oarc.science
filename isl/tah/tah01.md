@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah00)  [Next](tah02) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah00)  [Next](tah02.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Editorial Note](tah02)
+[Next: Editorial Note](tah02.md)

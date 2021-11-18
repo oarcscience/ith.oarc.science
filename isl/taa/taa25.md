@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa24)  [Next](taa26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa24)  [Next](taa26.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -42,7 +42,7 @@ her eye belongs the blackness of antimony.
 are girt with amazement and incomparable beauty.
 
 9\. A slender one, she loves not that which I love and she does not
-fulfil her threats with sincerity. <span id="fr_24"></span>[1](#fn_24)
+fulfil her threats with sincerity. <span id="fr_24"></span>[1](#fn_24.md)
 
 10\. She let down her plaited lock as a black serpent, that she might
 frighten with it those who were following her.
@@ -97,7 +97,7 @@ manifestation.
 
 ### Footnotes
 
-<span id="fn_24"></span>[92:1](taa25.htm#fr_24) The author expressly
+<span id="fn_24"></span>[92:1](taa25.htm#fr_24.md) The author expressly
 says in his commentary that \#\#\# (to promise) has here the meaning of
 \#\#\# (to threaten). This is a defiance of the established usage, just
 as \#\#\# (for \#\#\#) is a violation of grammar.
@@ -106,6 +106,6 @@ as \#\#\# (for \#\#\#) is a violation of grammar.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII](taa26)
+[Next: XXIII](taa26.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo72)  [Next](sdo74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo72)  [Next](sdo74.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ since that time.
 
 ------------------------------------------------------------------------
 
-[Next: Iktomi and the Young Man](sdo74)
+[Next: Iktomi and the Young Man](sdo74.md)

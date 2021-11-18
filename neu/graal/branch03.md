@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch02) 
-[Next](branch04) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch02.md) 
+[Next](branch04.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -577,5 +577,5 @@ better keeping than he had found it.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-IV](branch04)  
+IV](branch04.md)  
 </span>

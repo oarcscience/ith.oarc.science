@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm05) 
-[Next](cdm07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm05.md) 
+[Next](cdm07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -110,7 +110,7 @@ four
 the mermaid, you may keep him four years more to see if it be easier to
 part with him. See, here is his like for age. is yours as fine as mine?
 and she held up a big bouncing baby.](tn/03800.jpg)  
-Click to enlarge](img/03800.jpg)  
+Click to enlarge](img/03800.jpg.md)  
 “Well, well,” said the mermaid, “you may keep him four years more to see
 if it be easier to part with him. See, here is his like for age. is
 yours as fine as mine?” and she held up a big bouncing baby.  
@@ -214,4 +214,4 @@ followed the lad home to his father's hut.
 
 ------------------------------------------------------------------------
 
-[Next: The Weapon](cdm07)
+[Next: The Weapon](cdm07.md)

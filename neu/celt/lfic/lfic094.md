@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic093)  [Next](lfic095) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic093)  [Next](lfic095.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ daughters, openly professing their belief in the God of Patrick.
 
 ------------------------------------------------------------------------
 
-[Next: The Baptism of Aongus](lfic095)
+[Next: The Baptism of Aongus](lfic095.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sss07)  [Next](sss09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sss07)  [Next](sss09.md) 
 
 ------------------------------------------------------------------------
 
@@ -521,4 +521,4 @@ his *séance*s and periodical sacrifices for the public welfare.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Malay Shaman's Séance](sss09)
+[Next: VII. The Malay Shaman's Séance](sss09.md)

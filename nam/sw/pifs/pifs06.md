@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs05)  [Next](pifs07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs05)  [Next](pifs07.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 ### THE WAR-DANCE OF THE MICE
 
-TO-NIGHT it is withered Diego <span id="fr_14"></span>[1](#fn_14) who
+TO-NIGHT it is withered Diego <span id="fr_14"></span>[1](#fn_14.md) who
 begins with his story, in the musical but strange Tée-wahn tongue, of
 "Shée-choon t'o-ah-fuar." Serious as that looks, it means only "the
 war-dance of the Mice."
@@ -82,8 +82,8 @@ once they were very good friends in the old days.
 
 ### Footnotes
 
-<span id="fn_14"></span>[24:1](pifs06.htm#fr_14) Pronounced Dee-áy-go.
+<span id="fn_14"></span>[24:1](pifs06.htm#fr_14.md) Pronounced Dee-áy-go.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Coyote and the Blackbirds](pifs07)
+[Next: IV. The Coyote and the Blackbirds](pifs07.md)

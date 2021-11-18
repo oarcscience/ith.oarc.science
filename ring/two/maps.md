@@ -1,15 +1,15 @@
-[Worm Ouroboros](index)
+[Worm Ouroboros](index.md)
 
 ------------------------------------------------------------------------
 
-![Worm Ouroboros map: Mercury](maps/mercury.jpg)
+![Worm Ouroboros map: Mercury](maps/mercury.jpg.md)
 
 This is a map of the overall geography of the world of the Worm
 Ouroboros.
 
 ------------------------------------------------------------------------
 
-![Worm Ouroboros map: Demonland](maps/demonland.jpg)
+![Worm Ouroboros map: Demonland](maps/demonland.jpg.md)
 
 This is a map of Demonland.
 

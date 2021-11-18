@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg75)  [Next](btg77) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg75)  [Next](btg77.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ one becomes an outcast, by deeds one becomes a Brahman."
 
 ------------------------------------------------------------------------
 
-[Next: The Woman At The Well](btg77)
+[Next: The Woman At The Well](btg77.md)

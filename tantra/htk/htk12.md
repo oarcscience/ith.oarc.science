@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk11)  [Next](htk13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk11)  [Next](htk13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -27,14 +27,14 @@ at Intangible Textual Heritage
 
 ### VERSE 8
 
-THOSE who truly <span id="fr_68"></span>[1](#fn_68) meditate on Thee,
-the Spouse of Hara, <span id="fr_69"></span>[2](#fn_69) who art seated
-in <span id="fr_70"></span>[3](#fn_70) the cremation-ground strewn with
+THOSE who truly <span id="fr_68"></span>[1](#fn_68.md) meditate on Thee,
+the Spouse of Hara, <span id="fr_69"></span>[2](#fn_69.md) who art seated
+in <span id="fr_70"></span>[3](#fn_70.md) the cremation-ground strewn with
 funeral pyres, corpses, skulls, and bones, and haunted by female jackals
 howling fearfully; who art very youthful, <span
-id="fr_71"></span>[4](#fn_71) and art in full enjoyment upon <span
-id="fr_72"></span>[5](#fn_72) Thy Spouse, are revered by all and in all
-places. <span id="fr_73"></span>[6](#fn_73)
+id="fr_71"></span>[4](#fn_71.md) and art in full enjoyment upon <span
+id="fr_72"></span>[5](#fn_72.md) Thy Spouse, are revered by all and in all
+places. <span id="fr_73"></span>[6](#fn_73.md)
 
 COMMENTARY
 
@@ -105,24 +105,24 @@ Nirvāṇa.
 
 ### Footnotes
 
-<span id="fn_68"></span>[64:1](htk12.htm#fr_68) <span id="page_65">p.
+<span id="fn_68"></span>[64:1](htk12.htm#fr_68.md) <span id="page_65">p.
 65</span> Commentator K. B.: where *param* is said to mean 'rightly,' or
 meditation alone without *japa*.
 
-<span id="fn_69"></span>[64:2](htk12.htm#fr_69) *Śiva*.
+<span id="fn_69"></span>[64:2](htk12.htm#fr_69.md) *Śiva*.
 
-<span id="fn_70"></span>[64:3](htk12.htm#fr_70) *Praviṣtām*, 'literally
+<span id="fn_70"></span>[64:3](htk12.htm#fr_70.md) *Praviṣtām*, 'literally
 Entered '.
 
-<span id="fn_71"></span>[64:4](htk12.htm#fr_71) *Atiyuvatim*. She is
+<span id="fn_71"></span>[64:4](htk12.htm#fr_71.md) *Atiyuvatim*. She is
 without childhood or old age. The *Sāradātilaka* says, 'Although Thou
 art primordial, Thy youth is ever fresh'. (V)
 
-<span id="fn_72"></span>[64:5](htk12.htm#fr_72) *Santuṣtāṁ
+<span id="fn_72"></span>[64:5](htk12.htm#fr_72.md) *Santuṣtāṁ
 uparisuratena*, that is *viparītarati*, or *viparītavihāra* as to which
 see note 5 of last *śloka*.
 
-<span id="fn_73"></span>[64:6](htk12.htm#fr_73) Commentator K. B.:
+<span id="fn_73"></span>[64:6](htk12.htm#fr_73.md) Commentator K. B.:
 literally 'They nowhere suffer (*Kvacidapi na*), that is, neither in
 this nor the next world defeat or humiliation.'
 
@@ -130,6 +130,6 @@ this nor the next world defeat or humiliation.'
 
 ------------------------------------------------------------------------
 
-[Next: Verse 9](htk13)
+[Next: Verse 9](htk13.md)
 
 </div>

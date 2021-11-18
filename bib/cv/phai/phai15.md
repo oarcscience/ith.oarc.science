@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai14) 
-[Next](phai16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai14.md) 
+[Next](phai16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -83,11 +83,11 @@ the further shore, and a struggle ensued. But the assailants fought at a
 disadvantage, the ground being ill suited for their chariots and
 horsemen; they fell into confusion and attempted a retreat. Meanwhile
 the wind had changed; the waters returned, and the pursuers were
-annihilated <span id="fr_239"></span>[1](#fn_239)
+annihilated <span id="fr_239"></span>[1](#fn_239.md)
 
 After turning aside to visit Sinai as related in Exodus, the emigrants
 settled at Kadesh, eastwards from Goshen, on the southern borders of
-Palestine, <span id="fr_240"></span>[2](#fn_240) where they remained for
+Palestine, <span id="fr_240"></span>[2](#fn_240.md) where they remained for
 many years, having at the well of Kadesh their sanctuary and
 judgment-seat only, while with their flocks they ranged over an
 extensive tract. In all probability their stay at Kadesh was no
@@ -195,7 +195,7 @@ which may be summed up in the formula, Jehovah is the God of Israel, and
 Israel is the people of Jehovah. Moses was not the first discoverer of
 this faith, but it was through him that it came to be the fundamental
 basis of the national existence and history. <span
-id="fr_241"></span>[1](#fn_241) The exigencies of their position severe
+id="fr_241"></span>[1](#fn_241.md) The exigencies of their position severe
 a number of kindred clans from their customary surroundings, and drove
 them into his arms. He undertook the responsibilities of their leader,
 and the confidence of success which he manifested was justified by the
@@ -301,7 +301,7 @@ the question), were not derived from any law,
 <span id="page_436">p. 436</span>
 
 but were received direct from Jehovah. <span
-id="fr_242"></span>[1](#fn_242)
+id="fr_242"></span>[1](#fn_242.md)
 
 The execution of their decisions did not lie with them; they could only
 advise and teach. Their authority was divine, or, as we should say,
@@ -540,21 +540,21 @@ external evidence in its favour, and is inherently quite probable.
 
 ### Footnotes
 
-<span id="fn_239"></span>[430:1](phai15.htm#fr_239) Exod. xvi. 21, 24,
+<span id="fn_239"></span>[430:1](phai15.htm#fr_239.md) Exod. xvi. 21, 24,
 25, 27, 30, 31. According to the Old Testament the exodus took place 480
 years before the building of Solomon's temple, and 960 years before the
 end of the Babylonian captivity. These figures are "systematic" or at
 least systematised, but even so they are certainly more trustworthy than
 the combinations of the Egyptologists.
 
-<span id="fn_240"></span>[430:2](phai15.htm#fr_240) The site of Sinai (=
+<span id="fn_240"></span>[430:2](phai15.htm#fr_240.md) The site of Sinai (=
 Horeb?) hardly admits of ascertainment. The best datum would be the
 sanctuary of Jethro, if we could identify it with Midian (*Jakut*, iv.
 451), which lies on the Arabian coast of the Red Sea obliquely facing
 the traditional Sinai. With regard to Kadesh, see *Quarterly Statement*
 of the Palestine Exploration Fund (1871), pp. 20, 21.
 
-<span id="fn_241"></span>[433:1](phai15.htm#fr_241) Jehovah is to be
+<span id="fn_241"></span>[433:1](phai15.htm#fr_241.md) Jehovah is to be
 regarded as having originally been a family or tribal god, either of the
 family to which Moses belonged or of the tribe of Joseph, in the
 possession of which we find the ark of Jehovah, and within which occurs
@@ -565,10 +565,10 @@ between Asshur and El; Jehovah was only a special name of El which had
 become current within a powerful circle, and which on that account was
 all the more fitted to become the designation of a national god.
 
-<span id="fn_242"></span>[436:1](phai15.htm#fr_242) They were consulted
+<span id="fn_242"></span>[436:1](phai15.htm#fr_242.md) They were consulted
 chiefly on points of law, but also on all sorts of difficulties as to
 what was right and to be done, or wrong and to be avoided.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Settlement in Palestine](phai16)
+[Next: 2. The Settlement in Palestine](phai16.md)

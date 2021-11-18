@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj15)  [Next](atfj17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj15)  [Next](atfj17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_17"></span> <span align="CENTER"> [![17. Awoto Fujitsuna
 Orders Every One to Search for the Half-Cent](tn/17.jpg)  
-Click to enlarge](img/17.jpg)  
+Click to enlarge](img/17.jpg.md)  
 17. Awoto Fujitsuna Orders Every One to Search for the Half-Cent  
 </span>
 
 ### XIV
 
-### HISTORY OF AWOTO FUJITSUNA <span id="fr_27"></span>[1](#fn_27)
+### HISTORY OF AWOTO FUJITSUNA <span id="fr_27"></span>[1](#fn_27.md)
 
 HOJO TOKIYORI—who, my *Murray* says, was born in 1246 A. D., and died
 seventeen years later, in 1263—was Regent for a time, young as he was.
@@ -99,13 +99,13 @@ occupying a palace, and devoting his life to his country.
 
 ### Footnotes
 
-<span id="fn_27"></span>[88:1](atfj16.htm#fr_27) Told to me by my friend
+<span id="fn_27"></span>[88:1](atfj16.htm#fr_27.md) Told to me by my friend
 Mr. Matsuzaki.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XV. A Life Saved by a Spider and Two Doves](atfj17)
+[Next: XV. A Life Saved by a Spider and Two Doves](atfj17.md)
 
 </div>

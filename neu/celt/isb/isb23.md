@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb22)  [Next](isb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb22)  [Next](isb24.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,4 +193,4 @@ imaginable.
 
 ------------------------------------------------------------------------
 
-[Next: Two Days in Wicklow](isb24)
+[Next: Two Days in Wicklow](isb24.md)

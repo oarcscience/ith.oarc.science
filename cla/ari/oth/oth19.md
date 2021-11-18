@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth18)  [Next](oth20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth18)  [Next](oth20.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ fiery nor move in fire, enough has been said.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](oth20)
+[Next: Chapter 8](oth20.md)

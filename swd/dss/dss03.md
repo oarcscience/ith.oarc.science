@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dss02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dss02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425344615/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425344615/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -397,7 +397,7 @@ this world as correspond to heavenly things, and therefore signify them,
 the things of religion among many of the nations were turned into
 idolatry, and in Greece into fables, and the Divine attributes and
 predicates into so many gods, over whom they set one supreme, whom they
-called "Jove" <span id="fr_11"></span>[117-1](#fn_11) from "Jehovah." It
+called "Jove" <span id="fr_11"></span>[117-1](#fn_11.md) from "Jehovah." It
 is known that they had knowledge of paradise, of the flood, of the
 sacred fire, and of the four ages, from the first or golden age to the
 last or iron age, by which are meant the four states of the church (as
@@ -417,5 +417,5 @@ let all beware.
 
 ### Footnotes
 
-<span id="fn_11"></span>[117-1](dss03.htm#fr_11) Perhaps; see True
+<span id="fn_11"></span>[117-1](dss03.htm#fr_11.md) Perhaps; see True
 Christian Religion, n. 275. \[Translator\]

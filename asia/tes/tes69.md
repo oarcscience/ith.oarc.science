@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes68)  [Next](tes70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes68)  [Next](tes70.md) 
 
 ------------------------------------------------------------------------
 
-### 4. A MARKOVA TALE. <span id="fr_102"></span>[2](#fn_102)
+### 4. A MARKOVA TALE. <span id="fr_102"></span>[2](#fn_102.md)
 
 There was an old man and an old woman. The old man used to catch hares
 and bring them to his old woman. She cooked them, and they ate together.
@@ -60,7 +60,7 @@ asked, "Where is my doe?"--"Why, mother, you had a swan."--"No, I swear
 I had a doe." They gave her a doe and she went out. The next time she
 slept she stole a sledge and a reindeer-harness. She attached the doe to
 the sledge, and, seating herself on the sledge, drove on, singing
-lustily, <span id="fr_103"></span>[1](#fn_103) "On, on, on! Run along
+lustily, <span id="fr_103"></span>[1](#fn_103.md) "On, on, on! Run along
 the track, harness not mine, on without stopping! Other man's sledge
 will never break down." An arctic fox jumped up. "Here, granny, take me
 along on your sledge!"--"Sit down, you S---- of a B----, your anus on
@@ -86,7 +86,7 @@ ran off. The old woman came back, and there was no doe, nor any of her
 companions. So she left the sledge and went back to the old man. He had
 eaten his reindeer, and was catching hares again: he took the old woman
 back and they lived as before. The end. <span
-id="fr_104"></span>[1](#fn_104)
+id="fr_104"></span>[1](#fn_104.md)
 
 Told by Anne Sosykin, a Russianized Chukchee woman, in the village of
 Markova. Recorded by Mrs. Sophie Bogoras, winter of 1900.
@@ -95,20 +95,20 @@ Markova. Recorded by Mrs. Sophie Bogoras, winter of 1900.
 
 ### Footnotes
 
-<span id="fn_102"></span>[128:2](tes69.htm#fr_102) This tale like some
+<span id="fn_102"></span>[128:2](tes69.htm#fr_102.md) This tale like some
 others, was indicated as a real Markova tale, in contrast to others
 which were indicated as Lamut, Yukaghir, or Chuvantzi tales, or again,
 as Russian tales coming from Russia. It represents, however, a mixture
 of elements, Russian and native.--W. B.
 
-<span id="fn_103"></span>[129:1](tes69.htm#fr_103) In Russian all this
+<span id="fn_103"></span>[129:1](tes69.htm#fr_103.md) In Russian all this
 is rhymed prose, though this rhymed version is somewhat different from
 the usual rhymed versions of the latter half of this tale as known In
 European Russia.--W. B.
 
-<span id="fn_104"></span>[130:1](tes69.htm#fr_104) See Bolte und
+<span id="fn_104"></span>[130:1](tes69.htm#fr_104.md) See Bolte und
 Polívka, *l. c.*, vol. 1, 293; vol. 2,147--F. B.
 
 ------------------------------------------------------------------------
 
-[Next: 5. A Markova Tale](tes70)
+[Next: 5. A Markova Tale](tes70.md)

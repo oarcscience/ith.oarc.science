@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog11)  [Next](kog13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog11)  [Next](kog13.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 <span id="img_10600"></span>
 
 [![](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)
+Click to enlarge](img/10600.jpg.md)
 
  
 
@@ -321,4 +321,4 @@ I don't know.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Three Roses](kog13)
+[Next: 10. The Three Roses](kog13.md)

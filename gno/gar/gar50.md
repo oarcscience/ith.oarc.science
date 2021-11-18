@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar49)  [Next](gar51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar49)  [Next](gar51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ concerning the thing whereof thou askest of me, Who is it that
 constraineth man to commit sin?" Now therefore when (the parents) have
 begotten the child, when there exists in him a small *power*, and a
 small soul, and a small "counterfeit of the spirit" (conscience); <span
-id="fr_206"></span>[\*](#fn_204) in a word, all the three in him being
+id="fr_206"></span>[\*](#fn_204.md) in a word, all the three in him being
 small together. No one of them understandeth anything at all, whether it
 be good or evil, by reason of the weight of the heavy oblivion (of the
 former life) that holdeth them; the body likewise being small. And the
@@ -37,7 +37,7 @@ inasmuch as she is not mixed up with them, but in what shape she came
 into the world, in the same she continueth. And little by little, the
 power, the soul, and the counterpart of the spirit grow to their full
 stature, and each one thereof is sensible after its own kind. <span
-id="fr_207"></span>[†](#fn_205) The power is sensible to seek after the
+id="fr_207"></span>[†](#fn_205.md) The power is sensible to seek after the
 Light above; the soul is sensible to seek after the place of
 Righteousness of the mixture, which same is the place of
 
@@ -53,7 +53,7 @@ manner in which they shall punish them when they come up for judgment,
 the counterfeit of the spirit also thinks upon and is sensible to all
 the sins and the evils that come near to that soul, which proceedeth
 from the Rulers of the Great Fate, and bringeth them into the
-soul. <span id="fr_208"></span>[\*](#fn_206) But the inner power seeketh
+soul. <span id="fr_208"></span>[\*](#fn_206.md) But the inner power seeketh
 after the Place of Light, and all the godhead, whilst the counterfeit of
 the spirit turneth the soul awry, and constraineth it to work all its
 own unlawful deeds, and all its passions, and all its wickedness
@@ -73,7 +73,7 @@ death appointed him by the Rulers, and by means of the bonds wherewith
 men are tied by Destiny. Then come the contentious Receivers to conduct
 that soul out of the body; and after that these Receivers go about with
 the soul through all the regions shewing unto it the Æons of the
-world, <span id="fr_209"></span>[†](#fn_207) whilst the counterfeit of
+world, <span id="fr_209"></span>[†](#fn_207.md) whilst the counterfeit of
 the spirit and fate follow after that soul: but the power 
 
 <span id="page_351">p. 351</span>
@@ -96,8 +96,8 @@ pass that the time of the soul's different punishments is accomplished
 in the prisons of the Archons of the Middle-space, then the counterfeit
 of the spirit leadeth the soul upwards out of all their regions, and
 bringeth it before. the light of the Sun, according to the commandment
-of the *Primal Man* <span id="fr_210"></span>[\*](#fn_208) <span
-id="img_35100"></span> ![ΙΕΟΥ](img/35100.jpg), and bringeth it before
+of the *Primal Man* <span id="fr_210"></span>[\*](#fn_208.md) <span
+id="img_35100"></span> ![ΙΕΟΥ](img/35100.jpg.md), and bringeth it before
 the judge, the Virgin of Light. And she trieth that soul; and in case
 she shall find it to be sinful, she planteth within the same (a particle
 of) the power of her own light, according unto its station in life, its
@@ -123,7 +123,7 @@ of that soul in the body is accomplished, and when the counterfeit of
 the spirit followeth after that soul, together with fate, whilst the
 soul is on the road that leadeth on high, and before it is far distant
 therefrom, it uttereth the mystery for the breaking <span
-id="fr_211"></span>[\*](#fn_209) of all the *seals* and all the bonds of
+id="fr_211"></span>[\*](#fn_209.md) of all the *seals* and all the bonds of
 the counterfeit of the spirit wherewith the Archons have bound it unto
 the soul. And it having uttered those words, the bonds of the
 counterfeit of the spirit are loosed so that it ceaseth to persecute
@@ -137,7 +137,7 @@ the Archons in the place wherein they had bound it (at first) unto the
 soul; and in that moment it becometh a great flood of light, shining
 exceedingly; and the Receivers who had fetched it out of the body are
 afraid of that light, so that they fall down upon their faces, and the
-soul is made as it were a *wing* <span id="fr_212"></span>[†](#fn_210)
+soul is made as it were a *wing* <span id="fr_212"></span>[†](#fn_210.md)
 *of light*, and passeth through all the regions of the Archons, and
 through all the courses of the Light, until it entereth into the place
 of its own kingdom for which it hath received the mystery.
@@ -171,7 +171,7 @@ in a word being in great fear unto which there is no measure. And in
 that moment the soul utters the mystery of its defence before them; and
 they fall upon their faces out of fear of the mystery and of the defence
 which it hath uttered. And the soul leaves with them their *fate*, <span
-id="fr_213"></span>[\*](#fn_211) saying unto them: Take to yourselves
+id="fr_213"></span>[\*](#fn_211.md) saying unto them: Take to yourselves
 your fate, I am not coming into your place from henceforth, I am made a
 stranger unto you for ever, I am coming into the place of my own
 inheritance. And after the soul hath said this, the Receivers of the
@@ -216,33 +216,33 @@ and so it entereth into the place of its inheritance."
 
 ### Footnotes
 
-<span id="fn_204"></span>[349:\*](gar50.htm#fr_206) Ἀντίμιμον πνεύματος.
+<span id="fn_204"></span>[349:\*](gar50.htm#fr_206.md) Ἀντίμιμον πνεύματος.
 
-<span id="fn_205"></span>[349:†](gar50.htm#fr_207) I.e. adapted by its
+<span id="fn_205"></span>[349:†](gar50.htm#fr_207.md) I.e. adapted by its
 constitution.
 
-<span id="fn_206"></span>[350:\*](gar50.htm#fr_208) The Platonic "divinæ
+<span id="fn_206"></span>[350:\*](gar50.htm#fr_208.md) The Platonic "divinæ
 particula auræ;"; the extrication of which from the *confusion*, μίγμα,
 was the real object of Christ's descent on earth, according to
 Valentinus.
 
-<span id="fn_207"></span>[350:†](gar50.htm#fr_209) The sense seems to
+<span id="fn_207"></span>[350:†](gar50.htm#fr_209.md) The sense seems to
 require the translation, "exhibit the *soul* unto the Æons."
 
-<span id="fn_208"></span>[351:\*](gar50.htm#fr_210) The Seir Anpin of
+<span id="fn_208"></span>[351:\*](gar50.htm#fr_210.md) The Seir Anpin of
 the Rabbis.
 
-<span id="fn_209"></span>[352:\*](gar50.htm#fr_211) I.e. the formula,
+<span id="fn_209"></span>[352:\*](gar50.htm#fr_211.md) I.e. the formula,
 perhaps the "mystery of the seven vowels," so highly lauded elsewhere.
 
-<span id="fn_210"></span>[352:†](gar50.htm#fr_212) I.e. a winged thing;
+<span id="fn_210"></span>[352:†](gar50.htm#fr_212.md) I.e. a winged thing;
 referring <span id="page_353">p. 353</span> perhaps to the ancient
 emblem of the human-headed bird used in the same sense.
 
-<span id="fn_211"></span>[353:\*](gar50.htm#fr_213) Viz., the separate
+<span id="fn_211"></span>[353:\*](gar50.htm#fr_213.md) Viz., the separate
 portion of its composition implanted in it by these Archons at its
 birth.
 
 ------------------------------------------------------------------------
 
-[Next: State After Death of the Uninitiated](gar51)
+[Next: State After Death of the Uninitiated](gar51.md)

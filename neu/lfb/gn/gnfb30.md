@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb29)  [Next](gnfb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb29)  [Next](gnfb31.md) 
 
 </div>
 
@@ -195,6 +195,6 @@ Grimm.
 
 ------------------------------------------------------------------------
 
-[Next: The Twelve Huntsmen](gnfb31)
+[Next: The Twelve Huntsmen](gnfb31.md)
 
 </div>

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 18th Aethyr,  
-Which is Called ZEN**[**1**](#1)
+Which is Called ZEN**[**1**](#1.md)
 
 A Voice comes before any vision: Accursed are they who enter herein if
 they have nails, for they shall be pierced therewith; or if they have
@@ -13,7 +13,7 @@ with whips they shall be scourged: or if they bear wine, for their wine
 shall be turned to bitterness; or if they have a spear, for with a spear
 shall they be pierced unto the heart. And the nails are desires, of
 which there are three; the desire of light, the desire of life, the
-desire of love[**2**](#2).
+desire of love[**2**](#2.md).
 
 (And the thorns are thoughts, and the whips are regrets, and the wine is
 ease, or perhaps unsteadiness, especially in ecstasy, and the spear is
@@ -22,75 +22,75 @@ attachment.)
 And now there dawns the scene of the Crucifixion; but the Crucified One
 is an enormous bat, and for the two thieves are two little children. It
 is night, and the night is full of hideous things and
-howlings[**3**](#3).
+howlings[**3**](#3.md).
 
 And an angel cometh forth, and saith: Be wary, for if thou change so
-much as the style of a letter, the holy word is blasphemed[**4**](#4).
+much as the style of a letter, the holy word is blasphemed[**4**](#4.md).
 But enter into the mountain of the Caverns, for that this (how much more
 then that Calvary which mocks it, as his ape mocks Thoth?) is but the
 empty shell of the mystery of ZEN. Verily, I say unto thee, many are the
 adepts that have looked upon the back parts of my father, and cried,
-"our eyes fail before the glory of thy countenance[**5**](#5)."
+"our eyes fail before the glory of thy countenance[**5**](#5.md)."
 
 And with that he gives the sign of the rending of the veil, and tears
 down the vision. And behold! whirling columns of fiery light, seventy-
-two[**6**](#6). Upon them is supported a mountain of pure crystal. The
+two[**6**](#6.md). Upon them is supported a mountain of pure crystal. The
 mountain is a cone, the angle of the apex being sixty
-degrees[**7**](#7). And within the crystal is a pyramid of
-ruby[**8**](#8), like unto the Great Pyramid of Gizeh.
+degrees[**7**](#7.md). And within the crystal is a pyramid of
+ruby[**8**](#8.md), like unto the Great Pyramid of Gizeh.
 
 I am entered in by the little door thereof, and I am come into the
 chamber of the king, which is fashioned like unto the vault of the
 adepts, or rather it is fitting to say that the vault of the adepts is a
 vile imitation of it. For there are four sides to the chamber, which
 with the roof and the floor and the chamber itself makes
-seven[**9**](#9). So also is the pastos seven[**10**](#10), for that
+seven[**9**](#9). So also is the pastos seven[**10**](#10.md), for that
 which is within is like unto that which is without. And there is no
 furniture, and there are no symbols.
 
 Light streams from every side upon the pastos. This light is that blue
 of Horus which we know, but being refined it is brilliance. For the
 light of Horus only appears blue because of the imperfection of our
-eyes[**11**](#11). But though the light pours from the pastos, yet the
+eyes[**11**](#11.md). But though the light pours from the pastos, yet the
 pastos remains perfectly dark, so that it is invisible. It hath no form:
 only, at a certain point in the chamber, the light is beaten
-back[**12**](#12).
+back[**12**](#12.md).
 
 I lie prostate upon the ground before this mystery. Its splendour is
 impossible to describe. I can only say that its splendour is so great
 that my heart stops with the terror and the wonder and the rapture of
-it[**13**](#13). I am almost mad. A million insane images chase each
-other through my brain...[**14**](#14) A voice comes: (it is my own
+it[**13**](#13.md). I am almost mad. A million insane images chase each
+other through my brain...[**14**](#14.md) A voice comes: (it is my own
 voice -- I did not know it). "When thou shalt know me, O thou empty God,
-my little flame shall utterly expire in thy great N.O.X.[**15**](#15)"
-There is no answer[**16**](#16). ... (20 minutes. O.V.) ...
+my little flame shall utterly expire in thy great N.O.X.[**15**](#15.md)"
+There is no answer[**16**](#16). ... (20 minutes. O.V..md) ...
 
-And now, after so long a while, the Angel[**17**](#17) lifts me and
-takes me from the room[**18**](#18), and sets me in a little
-chamber[**19**](#19) where is another Angel like a fair youth in shining
+And now, after so long a while, the Angel[**17**](#17.md) lifts me and
+takes me from the room[**18**](#18.md), and sets me in a little
+chamber[**19**](#19.md) where is another Angel like a fair youth in shining
 garments, who makes me partake of the sacraments; bread, that is labour;
 and fire, that is wit; and a rose, that is sin; and wine, that is
-death[**20**](#20). And all about us is a great company of angels in
+death[**20**](#20.md). And all about us is a great company of angels in
 many-coloured robes, rose and spring-green, and sky-blue, and pale gold,
 and silver, and lilac, solemnly chanting without words. It is music
 wonderful beyond all that can be thought.
 
 And now we go out of the chamber; on the right is a pylon, and the right
 figure is Isis, and the left figure Nephthys, and they are folding their
-wings over, and supporting Ra[**21**](#21).
+wings over, and supporting Ra[**21**](#21.md).
 
-I wanted to go back to the King's Chamber[**22**](#22). The Angel pushed
+I wanted to go back to the King's Chamber[**22**](#22.md). The Angel pushed
 me away, saying: "Thou shalt see these visions from afar off, but thou
 shalt not partake of them save in the manner prescribed. For if thou
 change so much as the style of a letter, the holy word is
-blasphemed.[**23**](#23)"
+blasphemed.[**23**](#23.md)"
 
 And this is the manner prescribed:
 
 Let there be a room furnished as for the ritual of passing through
-Tuat[**24**](#24). And let the aspirant be clad in the robes of, and let
+Tuat[**24**](#24.md). And let the aspirant be clad in the robes of, and let
 him bear the insignia of his grade. And at the least he shall be a
-neophyte[**25**](#25).
+neophyte[**25**](#25.md).
 
 Three days and three nights shall he have been in the tomb, vigilant and
 fasting, for he shall sleep no longer than three hours at any one time,
@@ -101,17 +101,17 @@ his meditation. But in the last twelve hours he shall neither eat nor
 sleep.
 
 Then shall he break his fast, eating rich food, and drinking sweet
-wines, and wines that foam[**26**](#26); and he shall banish the
-elements and the planets and the signs and the sephiroth[**27**](#27);
+wines, and wines that foam[**26**](#26.md); and he shall banish the
+elements and the planets and the signs and the sephiroth[**27**](#27.md);
 and then shall he take the holy table that he hath made for his altar;
 and he shall take the call of the Aethyr of which he will partake, which
 he hath written in the angelic character, or in the character of the
 holy alphabet that is revealed in Pop, upon a fair sheet of virgin
 vellum; and therewith shall he conjure the Aethyr, chanting the call.
 And in the lamp that is hung above the altar shall he burn the call that
-he hath written[**28**](#28).
+he hath written[**28**](#28.md).
 
-Then shall he kneel[**29**](#29) before the holy table, and it shall be
+Then shall he kneel[**29**](#29.md) before the holy table, and it shall be
 given him to partake of the mystery of the Aethyr.
 
 And concerning the ink with which he shall write; for the first Aethyr
@@ -129,7 +129,7 @@ a cold dark gray, for the twenty- sixth white flecked with red, blue,
 and yellow; the edges of the letters shall be green, for the
 twenty-seventh angry clouds of ruddy brown, for the twenty-eighth
 indigo, for the twenty-ninth bluish-green, for the thirtieth mixed
-colours[**30**](#30).
+colours[**30**](#30.md).
 
 This shall be the form to be used by him who would partake of the
 mystery of any Aethyr. And let him not change so much as the style of a
@@ -139,10 +139,10 @@ And let him beware, after he hath been permitted to partake of this
 mystery, that he await the completion of the 91st hour of his
 retirement, before he open the door of the place of his retirement; lest
 he contaminate his glory with uncleanness, and lest they that behold him
-be smitten by his glory unto death[**31**](#31).
+be smitten by his glory unto death[**31**](#31.md).
 
 For this is a holy mystery, and he that did first attain to reveal the
-alphabet thereof[**32**](#32), perceived not one ten-thousandth part of
+alphabet thereof[**32**](#32.md), perceived not one ten-thousandth part of
 the fringe that is upon its vesture.
 
 Come away! for the clouds are gathered together, and the Aire heaveth
@@ -153,7 +153,7 @@ His loving-kindness is made sure. And let there be praise and blessing
 unspeakable unto him that sitteth upon the Holy Throne, for he casteth
 down mercies as a spendthrift that scattereth gold. And he hath shut up
 judgment and hidden it away as a miser that hoardeth coins of little
-worth[**33**](#33).
+worth[**33**](#33.md).
 
 All this while the Angel hath been pushing me backwards, and now he is
 turned into a golden cross with a rose at its heart, and that is the red
@@ -264,7 +264,7 @@ December 1, 1909. 2:30 - 4:10 p.m.
     safety on the way. For the Angel cometh forth from above the Abyss,
     and dwelleth of right in the Bosom of the Great Mother. But the
     Angel deals not with the little pile of dust in the City of the
-    Pyramids, (see [14th Aethyr](aetyr14)) but with the Star that is
+    Pyramids, (see [14th Aethyr](aetyr14).md) but with the Star that is
     cast forth to give light to the Earth.
 18. <span id="18"></span>This pyramid, where is the Pastos, is the
     Chamber of Annihilation. The Pastos contains the Essence of the
@@ -375,4 +375,4 @@ December 1, 1909. 2:30 - 4:10 p.m.
 
 ------------------------------------------------------------------------
 
-> [**Back to Liber 418**](418)
+> [**Back to Liber 418**](418.md)

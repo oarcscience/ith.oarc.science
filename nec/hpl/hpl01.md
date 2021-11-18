@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl00)  [Next](hpl02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl00)  [Next](hpl02.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,4 +237,4 @@ had at one time been a MAN!!!
 
 ------------------------------------------------------------------------
 
-[Next: Beyond the Wall of Sleep (1919)](hpl02)
+[Next: Beyond the Wall of Sleep (1919)](hpl02.md)

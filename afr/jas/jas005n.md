@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas004n)  [Next](jas006n)   
- \[[5. Tiger Catching the Sheep-thief.](jas005)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas004n)  [Next](jas006n.md)   
+ \[[5. Tiger Catching the Sheep-thief.](jas005.md)\]
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ plumpest, lays hands upon the lion.
 
 ------------------------------------------------------------------------
 
-[Next: Note 6. Tiger's Breakfast.](jas006n)
+[Next: Note 6. Tiger's Breakfast.](jas006n.md)

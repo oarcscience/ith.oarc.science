@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad05)  [Next](mrad07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad05)  [Next](mrad07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -210,7 +210,7 @@ him took them and said, 'But I want them.'" When Jan came to see us
 again, my wife asked about the circumstance, and learned the following:
 a woman friend, who had given Jan the
 
-<span id="img_fig013"></span> ![Fig. 13, Fig. 13a](img/fig013.jpg)
+<span id="img_fig013"></span> ![Fig. 13, Fig. 13a](img/fig013.jpg.md)
 
 flowers, had accused him of meaning to send them to a girl; but he had
 answered that they were for "a middle-aged and distinguished lady."
@@ -222,14 +222,14 @@ I present here the basket of "pink roses and
 violets" which my wife drew, and then the spray of pink double cosmos
 and violets which met her eyes when she opened the young "psychic's"
 letter a day or two later. I explain that my wife's drawing ([fig.
-13](#img_fig013)) is partly written over by the words of her notes;
+13](#img_fig013).md) is partly written over by the words of her notes;
 while in Jan's letter the violets had to be at once traced in pencil, as
 they would not last. My wife drew pencil marks around them and wrote the
 word "violet" in three places, to indicate what the marks meant. The
 cosmos flowers, pressed and dried, are still exactly as Jan stuck them
 into position and as they remained until I took them to be photographed
-([fig. 13](#img_fig013)).
+([fig. 13](#img_fig013).md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](mrad07)
+[Next: Chapter VI](mrad07.md)

@@ -15,7 +15,7 @@ beliefs, and technologies over more than 5000 miles of coastal territory
 extending from eastern Siberia to Greenland. Ethnologically, the Inuit
 are considered to be distinct from the other native inhabitants of the
 Americas, being more closely related to the Siberian peoples.
-[Shamanism](../../sha/index) also plays a very large role in Inuit
+[Shamanism](../../sha/index.md) also plays a very large role in Inuit
 culture, with tales of shape-shifting and super-powerful angakut
 abounding.
 
@@ -24,12 +24,12 @@ abounding.
 ### Greenland
 
 <span class="c_e"> <span class="c_t">[Tales and Traditions of the
-Eskimo](tte/index)</span>   by <span class="c_a">Henry Rink</span>
+Eskimo](tte/index.md)</span>   by <span class="c_a">Henry Rink</span>
 \[<span class="c_d">1875</span>\]   <span class="c_b">Includes
 ethnography and folklore of the Inuit.</span> </span>
 
 <span class="c_e"> <span class="c_t">[Eskimo
-Folk-tales](eft/index)</span>  
+Folk-tales](eft/index.md)</span>  
 collected by <span class="c_a">Knud Rasmussen</span>, translated and
 edited by <span class="c_a">W. Worster</span> \[<span
 class="c_d">1921</span>\]   <span class="c_b">Tales of the supernatural
@@ -38,8 +38,8 @@ from the far north</span> </span>
 ### Siberia
 
 There are several books about Siberian traditional people on the
-[Asian](../../asia/index) page, including:
+[Asian](../../asia/index.md) page, including:
 
 <span class="c_e"> <span class="c_t">[Eskimo of
-Siberia](eos/index)</span>   by <span class="c_a">Waldemar
+Siberia](eos/index.md)</span>   by <span class="c_a">Waldemar
 Bogoras</span> \[<span class="c_d">1913</span>\] </span>

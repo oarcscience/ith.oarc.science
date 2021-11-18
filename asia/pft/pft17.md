@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft16)  [Next](pft18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft16)  [Next](pft18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,14 +25,14 @@ it.
 One man climbed a tree to see if there was a fire near by, and
 discovering smoke at some distance, he started toward it. When he
 reached the place, he found that the fire was in the house of an Alan,
- <span id="fr_81"></span>[82](pft68.htm#fn_81) and he was very much
+ <span id="fr_81"></span>[82](pft68.htm#fn_81.md) and he was very much
 afraid; but creeping up into the house, he found that the Alan and her
 baby were fast asleep.
 
 He stepped on tip-toe, but nevertheless the Alan was awakened and called
 out:
 
-"Epogow,  <span id="fr_82"></span>[83](pft68.htm#fn_82) what do you
+"Epogow,  <span id="fr_82"></span>[83](pft68.htm#fn_82.md) what do you
 want?"
 
 "I should like to get some fire," said the man, "for we have killed a
@@ -74,7 +74,7 @@ in the tall tree.
 The Alan, determined to get them, caught hold of a vine and started up
 the tree feet first, but before she quite reached them, they cut the
 vine and she fell to the ground and was killed.  <span
-id="fr_83"></span>[84](pft68.htm#fn_83)
+id="fr_83"></span>[84](pft68.htm#fn_83.md)
 
 Then the men came down and went to the Alan's house, where they found a
 jar full of beads and another of gold, and these they brought with them
@@ -82,4 +82,4 @@ when they returned home.
 
 ------------------------------------------------------------------------
 
-[Next: Man and the Alan](pft18)
+[Next: Man and the Alan](pft18.md)

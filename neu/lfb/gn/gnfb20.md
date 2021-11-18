@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gnfb19)  [Next](gnfb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gnfb19)  [Next](gnfb21.md) 
 
 </div>
 
@@ -308,6 +308,6 @@ seasoning for the joys of true love than a few pangs of grief.
 
 ------------------------------------------------------------------------
 
-[Next: The Biter Bit](gnfb21)
+[Next: The Biter Bit](gnfb21.md)
 
 </div>

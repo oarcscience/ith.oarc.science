@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil81)  [Next](seil83) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil81)  [Next](seil83.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ much more each month, and much better from week to week, with the
 conditions required and due.
 
 **Third Rule**. The third: To praise the hearing of Mass often,
-likewise <span id="fr_39"></span>[40](seil83.htm#fn_39) hymns, psalms,
+likewise <span id="fr_39"></span>[40](seil83.htm#fn_39.md) hymns, psalms,
 and long prayers, in the church and out of it; likewise the hours set at
 the time fixed for each Divine Office and for all prayer and all
 Canonical Hours.
@@ -74,7 +74,7 @@ Augustine and St. Gregory, etc., to move the heart to love and serve God
 our Lord in everything; so it is more proper to the Scholastics, as St.
 Thomas, St. Bonaventure, and to the Master of the Sentences, etc., to
 define or explain for our times <span
-id="fr_40"></span>[41](seil83.htm#fn_40) the things necessary for
+id="fr_40"></span>[41](seil83.htm#fn_40.md) the things necessary for
 eternal salvation; and to combat and explain better all errors and all
 fallacies. For the Scholastic Doctors, as they are more modern, not only
 help themselves with the true understanding of the Sacred Scripture and
@@ -108,7 +108,7 @@ sometimes happens, saying: Whether I have to be saved or condemned is
 already determined, and no other thing can now be, through my doing well
 or ill; and with this, growing lazy, they become negligent in the works
 which lead to the salvation and the spiritual <span
-id="fr_41"></span>[42](seil83.htm#fn_41) profit of their souls.
+id="fr_41"></span>[42](seil83.htm#fn_41.md) profit of their souls.
 
 **Sixteenth Rule**. In the same way, we must be on our guard that by
 talking much and with much insistence of faith, without any distinction
@@ -133,4 +133,4 @@ grateful to God our Lord: as being at one with the Divine Love.
 
 ------------------------------------------------------------------------
 
-[Next: Footnotes](seil83)
+[Next: Footnotes](seil83.md)

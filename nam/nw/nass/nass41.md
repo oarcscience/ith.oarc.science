@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass40)  [Next](nass42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass40)  [Next](nass42.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ follow her, to go home. When he does not obey, she kills him.
 
 ------------------------------------------------------------------------
 
-[Next: The Squirrel](nass42)
+[Next: The Squirrel](nass42.md)

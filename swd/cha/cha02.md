@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](cha01)  [Next](cha03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](cha01)  [Next](cha03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785145X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ discrimination, in accordance with the quality of his good.
 In the other life such simple people are removed from others and kept
 apart; for if they come among diabolical spirits they are drawn into
 doing good to them, and into doing evil to the good. The evil cry out,
-"Set me free, help me!" This <span id="fr_9"></span>[53-1](#fn_9) is the
+"Set me free, help me!" This <span id="fr_9"></span>[53-1](#fn_9.md) is the
 very great strength that they acquire for themselves. Without the help
 of the simple, and as it were conjunction with them, they are not strong
 at all; but together with those they have deceived by the name of
@@ -48,7 +48,7 @@ at all; but together with those they have deceived by the name of
 <span class="margnote"><span id="54.">54.</span></span>
 
 Genuine charity itself is prudent and wise. The <span
-id="fr_10"></span>[54-1](#fn_10) other charity is spurious, because it
+id="fr_10"></span>[54-1](#fn_10.md) other charity is spurious, because it
 is of the will or of good only, and not at the same time of the
 understanding, or of truth.
 
@@ -163,7 +163,7 @@ It can be illustrated by sound and speech. And by several other things.
 <span class="margnote"><span id="70.">70.</span></span>
 
 That truth is good in form, may be seen in THE APOCALYPSE
-EXPLAINED. <span id="fr_11"></span>[70-1](#fn_11)
+EXPLAINED. <span id="fr_11"></span>[70-1](#fn_11.md)
 
 <span class="margnote"><span id="71.">71.</span></span>
 
@@ -370,7 +370,7 @@ external. It wants to be seen, and to be thought to exist.
 
 V MAN IS THE SUBJECT OF CHARITY, AND SUCH AS IS THE CHARITY WITH HIM
 SUCH A SUBJECT OF IT HE IS; AND SUCH IS THE CHARITY HE EXERCISES TOWARDS
-THE NEIGHBOUR. <span id="fr_12"></span>[90-1](#fn_12) Let these things
+THE NEIGHBOUR. <span id="fr_12"></span>[90-1](#fn_12.md) Let these things
 be explained in this order: (1) Man was created to be a form of love and
 wisdom. (2) At this day, for a man to be man, he ought to be a charity
 in form. (3) A man ought to be a charity in form, not from himself but
@@ -386,7 +386,7 @@ neighbour, who loves him from the charity in himself.
 
 1\. Man was created to be a form of love wisdom. He was created into the
 image of God, into the likeness of God; <span
-id="fr_13"></span>[91-1](#fn_13) and God is Love Itself and Wisdom
+id="fr_13"></span>[91-1](#fn_13.md) and God is Love Itself and Wisdom
 Itself.
 
 <span class="margnote"><span id="92.">92.</span></span>
@@ -465,19 +465,19 @@ varieties of hatred and of lusting.
 
 ### Footnotes
 
-<span id="fn_9"></span>[53-1](cha02.htm#fr_9) In the margin: "N.B."
+<span id="fn_9"></span>[53-1](cha02.htm#fr_9.md) In the margin: "N.B."
 
-<span id="fn_10"></span>[54-1](cha02.htm#fr_10) In the margin: "N.B."
+<span id="fn_10"></span>[54-1](cha02.htm#fr_10.md) In the margin: "N.B."
 
-<span id="fn_11"></span>[70-1](cha02.htm#fr_11) See nos. 136, 242:2,
+<span id="fn_11"></span>[70-1](cha02.htm#fr_11.md) See nos. 136, 242:2,
 478:2, 725:4.
 
-<span id="fn_12"></span>[90-1](cha02.htm#fr_12) In the MS. this heading
+<span id="fn_12"></span>[90-1](cha02.htm#fr_12.md) In the MS. this heading
 has been deleted. Cf. 4a in the "Order and Arrangement" in number 0, and
 V in "The sections in their series" in number 199.
 
-<span id="fn_13"></span>[91-1](cha02.htm#fr_13) Genesis i. 26.
+<span id="fn_13"></span>[91-1](cha02.htm#fr_13.md) Genesis i. 26.
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](cha03)
+[Next: 101-150](cha03.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft51)  [Next](sfft53) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft51)  [Next](sfft53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE BROWNIE AND THE THIEVISH MAIDS. <span id="fr_80"></span>[1](#fn_80)
+### THE BROWNIE AND THE THIEVISH MAIDS. <span id="fr_80"></span>[1](#fn_80.md)
 
 ONE of the principal characteristics of the brownie was his anxiety
 about the moral conduct of the household to which he was attached. He
@@ -65,9 +65,9 @@ Brownie hast a' I"
 
 ### Footnotes
 
-<span id="fn_80"></span>[179:1](sfft52.htm#fr_80) Chambers, *Popular
+<span id="fn_80"></span>[179:1](sfft52.htm#fr_80.md) Chambers, *Popular
 Rhymes of Scotland*.
 
 ------------------------------------------------------------------------
 
-[Next: The Bogle](sfft53)
+[Next: The Bogle](sfft53.md)

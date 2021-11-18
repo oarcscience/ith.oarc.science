@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma21)  [Next](cma23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma21)  [Next](cma23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -142,7 +142,7 @@ dropped a little here and there. If you go over that road, you will be
 killed by lice and wind. On the left hand is a road; if you take that,
 you will lose yourself and never reach any place."
 
-"I will sing now," said [Juiwaiyu](errata.htm#2), "and my song will be
+"I will sing now," said [Juiwaiyu](errata.htm#2.md), "and my song will be
 heard everywhere, north, south, east, and west."
 
 <span id="page_429">p. 429</span>
@@ -169,7 +169,7 @@ road, you must not go over it. Go over that road on the right, do not
 look at the other."
 
 Damhauja had sent people to scatter clover on the middle road and entice
-men, make them think that the road [was to](errata.htm#3) his
+men, make them think that the road [was to](errata.htm#3.md) his
 sweat-house.
 
 "The middle road lies straight toward the mountain," said Jupka; "all
@@ -618,4 +618,4 @@ Next morning Juiwaiyu went home with his two wives and his uncle.
 
 ------------------------------------------------------------------------
 
-[Next: The Flight of Tsanunewa and Defeat of Hehku](cma23)
+[Next: The Flight of Tsanunewa and Defeat of Hehku](cma23.md)

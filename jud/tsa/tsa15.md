@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tsa14)  [Next](tsa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tsa14)  [Next](tsa16.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Heritage
 <span class="margnote">**M**.</span>VI. I. When the trial is finished,
 the man convicted is brought out to be stoned. The stoning place was
 outside the court, for it is written: SEND FORTH HIM THAT HATH CURSED
-WITHOUT THE CAMP. <span id="fr_272"></span>[1](#fn_269) A man is
+WITHOUT THE CAMP. <span id="fr_272"></span>[1](#fn_269.md) A man is
 stationed at the door of the court with a handkerchief in his hand, and
 a horseman distant just so far as to be able to see him; so that if some
 one in the court say, "I have something to plead in his defence," that
@@ -40,10 +40,10 @@ Achan. Joshua said to him: MY SON, ASCRIBE GLORY TO THE LORD, THE GOD OF
 ISRAEL, AND MAKE CONFESSION UNTO HIM; AND TELL ME NOW WHAT THOU HAST
 DONE; HIDE IT NOT FROM ME. AND ACHAN ANSWERED JOSHUA, AND SAID, OF A
 TRUTH I HAVE SINNED AGAINST THE LORD, THE GOD OF ISRAEL, AND THUS AND
-THUS HAVE I DONE. <span id="fr_273"></span>[1](#fn_270) Whence do we
+THUS HAVE I DONE. <span id="fr_273"></span>[1](#fn_270.md) Whence do we
 know that his confession expiated his crime? It is written: AND JOSHUA
 SAID, WHY HAST THOU TROUBLED US? THE LORD SHALL TROUBLE THEE THIS
-DAY <span id="fr_274"></span>[2](#fn_271);--this day thou art to be
+DAY <span id="fr_274"></span>[2](#fn_271.md);--this day thou art to be
 troubled, but thou art not to be troubled in the time to come."
 
 If he does not know how to make confession, he is told to say, "May my
@@ -62,15 +62,15 @@ woman.
 <span id="page_89">p. 89</span>
 
 <span class="margnote">**M**.</span>the height of a man. <span
-id="fr_275"></span>[1](#fn_272) One of the witnesses pushes the criminal
+id="fr_275"></span>[1](#fn_272.md) One of the witnesses pushes the criminal
 from behind, so that he falls face downward. He is then turned over on
 his back. If he die from this fall, that is sufficient. If not, <span
-id="fr_276"></span>[2](#fn_273) the second witness takes the stone and
+id="fr_276"></span>[2](#fn_273.md) the second witness takes the stone and
 drops it on his heart. If this cause death that is sufficient; if not,
 he is stoned by all the congregation of Israel, for it is written: THE
 HAND OF THE WITNESSES SHALL BE AGAINST HIM FIRST TO PUT HIM TO DEATH,
 AND AFTERWARD THE HAND OF ALL THE PEOPLE. <span
-id="fr_277"></span>[3](#fn_274)
+id="fr_277"></span>[3](#fn_274.md)
 
 **T**. IX. 5. Those who are put to death by the court have a share in
 the world to come, because they confess all their sins. Ten cubits from
@@ -85,8 +85,8 @@ of his witnesses."
 
 And (as showing that Achan has a share in the world to come) it is
 written: AND THE SONS OF ZERAH ARE ZIMRI AND ETHAN AND HEMAN AND CALCOL
-AND DARDA, <span id="fr_278"></span>[4](#fn_275) FIVE OF THEM IN
-ALL <span id="fr_279"></span>[5](#fn_276); and we cannot understand how
+AND DARDA, <span id="fr_278"></span>[4](#fn_275.md) FIVE OF THEM IN
+ALL <span id="fr_279"></span>[5](#fn_276.md); and we cannot understand how
 that they are (still) five
 
 <span id="page_90">p. 90</span>
@@ -94,12 +94,12 @@ that they are (still) five
 <span class="margnote">**T**.</span>
 
 in all, except it be that the passage teaches that even Achan <span
-id="fr_280"></span>[1](#fn_277) is with them in the world to come.
+id="fr_280"></span>[1](#fn_277.md) is with them in the world to come.
 
 6*a*. Four cubits from the stoning-place they strip off his clothes.
 They covered a man partially in front, and a woman in front and behind,
 because a woman is all nakedness,--so R. Jehuda who spoke in the name of
-R. Eliezer; <span id="fr_281"></span>[2](#fn_278) but the majority hold
+R. Eliezer; <span id="fr_281"></span>[2](#fn_278.md) but the majority hold
 that a man is stoned naked, but not a woman.
 
 The drop from the stoning-place was twice the height of a man, or three
@@ -114,27 +114,27 @@ order to carry out what the law of stoning demands."
 
 ### Footnotes
 
-<span id="fn_269"></span>[87:1](tsa15.htm#fr_272) Lev. 24. 14.
+<span id="fn_269"></span>[87:1](tsa15.htm#fr_272.md) Lev. 24. 14.
 
-<span id="fn_270"></span>[88:1](tsa15.htm#fr_273) Josh. 7. 19 ff.
+<span id="fn_270"></span>[88:1](tsa15.htm#fr_273.md) Josh. 7. 19 ff.
 
-<span id="fn_271"></span>[88:2](tsa15.htm#fr_274) Josh. 7. 25.
+<span id="fn_271"></span>[88:2](tsa15.htm#fr_274.md) Josh. 7. 25.
 
-<span id="fn_272"></span>[89:1](tsa15.htm#fr_275) Cf. Luke 4. 29.
+<span id="fn_272"></span>[89:1](tsa15.htm#fr_275.md) Cf. Luke 4. 29.
 
-<span id="fn_273"></span>[89:2](tsa15.htm#fr_276) C omits "the second
+<span id="fn_273"></span>[89:2](tsa15.htm#fr_276.md) C omits "the second
 witness." R N P insert: "he takes the stone and drops it on his heart.
 If this cause death that is sufficient; if not . . .. Note, according to
 *Tosefta* and also *Gemara* (45a) the stones require two men.
 
-<span id="fn_274"></span>[89:3](tsa15.htm#fr_277) Deut. 17. 7.
+<span id="fn_274"></span>[89:3](tsa15.htm#fr_277.md) Deut. 17. 7.
 
-<span id="fn_275"></span>[89:4](tsa15.htm#fr_278) *Dara* in 1 Chron. 2.
+<span id="fn_275"></span>[89:4](tsa15.htm#fr_278.md) *Dara* in 1 Chron. 2.
 6.
 
-<span id="fn_276"></span>[89:5](tsa15.htm#fr_279) 1 Chron. 2. 6.
+<span id="fn_276"></span>[89:5](tsa15.htm#fr_279.md) 1 Chron. 2. 6.
 
-<span id="fn_277"></span>[90:1](tsa15.htm#fr_280) According to
+<span id="fn_277"></span>[90:1](tsa15.htm#fr_280.md) According to
 rabbinical exegesis, the Achan of Josh. 7 is to be identified with the
 Zimri of Numb. 25. 14, who in his turn is presumed to be identical with
 the Zimri of 1 Chron. 2. 6. Cf. *B. Sanh*. 44*b*, "in one place the name
@@ -145,7 +145,7 @@ Zimri; the other maintained that his real name was Zimri, and that he
 was called Achan because he made the sins of Israel to rest on them like
 a circle" \[word-play on *’Achan* and *’ikken*\].
 
-<span id="fn_278"></span>[90:2](tsa15.htm#fr_281) R. Eliezer ben
+<span id="fn_278"></span>[90:2](tsa15.htm#fr_281.md) R. Eliezer ben
 Hyrcanus, C. 90-130 A.D., was a pupil of Jochanan ben Zakkai, who
 describes him (*Pirke Aboth*, II. 10) as "a plastered cistern which
 loseth not a drop." He set up a college at Lydda, was the teacher of R.
@@ -157,4 +157,4 @@ before a Roman court on suspicion of being a Christian.
 
 ------------------------------------------------------------------------
 
-[Next: The Hanging and Ultimate Disposal of the Corpse](tsa16)
+[Next: The Hanging and Ultimate Disposal of the Corpse](tsa16.md)

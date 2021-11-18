@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc026) 
-[Next](motc028) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc026.md) 
+[Next](motc028.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ he can not chew anything but grass and leaves.
 
 ------------------------------------------------------------------------
 
-[Next: 28. What Became Of The Rabbit](motc028)
+[Next: 28. What Became Of The Rabbit](motc028.md)

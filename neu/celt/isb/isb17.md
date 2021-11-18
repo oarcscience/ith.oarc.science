@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb16)  [Next](isb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb16)  [Next](isb18.md) 
 
 ------------------------------------------------------------------------
 
@@ -438,4 +438,4 @@ as he does Italy or Flanders now.
 
 ------------------------------------------------------------------------
 
-[Next: Roundstone Petty Sessions](isb18)
+[Next: Roundstone Petty Sessions](isb18.md)

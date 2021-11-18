@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei05)  [Next](jei07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei05)  [Next](jei07.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ plausible by examining celestial bodies which are very far off--the
 nebulæ. Let us now proceed to make it sound much more
 reasonable--perhaps we may even be able to prove it absolutely by
 applying it to the observation of a body that is much nearer us--and
-therefore susceptible of much closer [observation](errata.htm#16)--than
+therefore susceptible of much closer [observation](errata.htm#16.md)--than
 the nebulæ, and that is the planet Mars. When we bring the telescope to
 bear on Mars, the planet, especially its polar regions, is brought so
 near that Percival Lowell has even remarked that we know more of the
@@ -118,7 +118,7 @@ caps are such as to indicate
 <span id="img_06800"></span>
 
 [![View of Mars](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
   
 
 View of Mars, showing the circular white spot which is an entrance to
@@ -165,7 +165,7 @@ formulæ would indicate. And how uncertain the scientists are on this
 point may be seen from the fact that some of them have thought the polar
 caps are of snow while others have thought they consisted of frozen
 carbon dioxide gas which only solidifies at 109 degrees
-[Fahrenheit](errata.htm#17).
+[Fahrenheit](errata.htm#17.md).
 
 ### NO ADVANCE IN KNOWLEDGE OF THE PLANET
 
@@ -335,7 +335,7 @@ the one as in the other--and as in all others indeed.
 But let us turn to an observation of Professor Lowell of the utmost
 value. On page 86 of his book, "Mars", Professor Lowell records:
 
-"Meanwhile an interesting phenomenon [occurred](errata.htm#18) in the
+"Meanwhile an interesting phenomenon [occurred](errata.htm#18.md) in the
 cap on June 7 (this was in 1894). On that morning at about a quarter to
 six (or, more precisely, on June 8, 1 hour, 17 minutes, G. M. T.), as I
 was watching the planet, I saw suddenly two points like stars flash out
@@ -360,7 +360,7 @@ to be in longitude 280 degrees and 290 degrees, and in latitude 76
 degrees south. At this place on the planet then there was a range of
 slopes sufficiently tilted to reflect the sun from their ice-clad sides.
 On comparing its position with Green's map of his observations upon the
-cape of ([Madeira](errata.htm#19)) in 1877, it appeared that this was
+cape of ([Madeira](errata.htm#19).md) in 1877, it appeared that this was
 the identical position of the spot where he had seen star-points then,
 and where Mitchell had seen them in 1846, to whom they had suggested the
 same conclusion. Green Christened them the 'Mitchell Mountains.' At the
@@ -425,7 +425,7 @@ in so many different relative positions that flashes would be constantly
 sent over to us: There would be a display as continuous as that of
 heliograph signaling. As a matter of fact, what Lowell really did see
 was a direct beam two direct beams at the same moment flashing from the
-central sun of Mars out through the [aperture](errata.htm#20) of the
+central sun of Mars out through the [aperture](errata.htm#20.md) of the
 Martian pole does not the blue rim around that area to which Lowell has
 referred indicate the optical appearance of the reflecting surface of
 the planet gradually curving over to the interior so that at a certain
@@ -468,7 +468,7 @@ region of Mars is a direct
 <span id="img_08000"></span>
 
 [![Views of Mars](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
   
 
 Views of Mars taken at the Yerkes observatory, Sept. 28, 1902, showing
@@ -485,7 +485,7 @@ instance, or a reflection from sand or mountain surfaces, would be
 white.
 
 And if the reader will refer to our photograph of Mars on [page
-80](#img_08000) he will notice that the light from the polar openings
+80](#img_08000.md) he will notice that the light from the polar openings
 extends in a spreading mist of luminosity of a very definite form which
 cannot be mistaken and which is obviously many miles above the surface
 of the planet. Now let the reader compare that with what he saw when he
@@ -532,7 +532,7 @@ Obviously it was a gleam from the central sun of Mars that Mitchell saw,
 and the reason it faded was because cloudy weather gradually obscured
 the interior atmosphere of Mars. And when Green and Lowell saw it a
 small cloud had passed over the face of the interior sun and that broke
-the gleam into two [projecting](errata.htm#21) beams with this opacity
+the gleam into two [projecting](errata.htm#21.md) beams with this opacity
 between them,
 
 so that to Lowell two separated parts of the area of the Martian sun
@@ -587,7 +587,7 @@ the other surfaces of Mars, an astronomer, writing in the Scientific
 American Supplement as early as 1879, in effect, having made that
 observation. But this writer was not aware of the real nature of the
 light. In 1892 the celebrated English astronomer, J. Norman Lockyer,
-repeated in a periodical a number of [observations](errata.htm#22) he
+repeated in a periodical a number of [observations](errata.htm#22.md) he
 had made thirty years before and had then communicated to the Royal
 Astronomical Society of England. Here is a significant quotation:
 
@@ -628,12 +628,12 @@ it is light, and direct light at that, that causes what we have called
 the Martian ice-caps but which we ought to call the Martian polar
 openings. But perhaps the reader is still not convinced. He may recall
 that the writers who treat this aspect of Mars, whether or not they
-[believe](errata.htm#23) in the "canals" seem to have no doubt of the
+[believe](errata.htm#23.md) in the "canals" seem to have no doubt of the
 fact that at the poles we have snow or ice. We have already pointed out
 some inconsistencies in this view. Here are some other considerations
 that help to dispel that idea, and then, by turning to the planet Venus,
 we shall demonstrate absolutely that the polar circles are not snow, or
-ice, or even hoar-frost caps, but simply [apertures](errata.htm#24)
+ice, or even hoar-frost caps, but simply [apertures](errata.htm#24.md)
 leading to the inner and illuminated surface of the planet.
 
 ### WATER VAPOR IN THE ATMOSPHERE OF MARS
@@ -670,7 +670,7 @@ solve the problem:
 fundamental problem. The spectroscope yields a record of every sort of
 light which it dissolves, and the bands corresponding to water vapor
 have all been plotted on the spectrum. If these hands show at all, it is
-[irrefragable](errata.htm#25) evidence of the presence of water vapor,
+[irrefragable](errata.htm#25.md) evidence of the presence of water vapor,
 and in like manner the pronouncement of their definition gives a measure
 of the amount of such water vapor. If then, comparative observations are
 made simultaneously of an
@@ -693,7 +693,7 @@ elevation of 14,501 feet and in a horizon markedly arid
 "For purposes of the astronomical comparison the moon was taken as the
 standard. A long series of eclipse observations has shown that whatever
 atmosphere may persist about our satellite is optically
-[indiscernible](errata.htm#26). Similar series of spectroscopic
+[indiscernible](errata.htm#26.md). Similar series of spectroscopic
 observations have shown that the water vapor at the moon is wholly
 inappreciable by the most delicate tests. If the spectrum of Martian
 light photo-graphed under the same terrestrial conditions shows no more
@@ -852,7 +852,7 @@ Romance of Modern Astronomy":
 "Polar caps", he says, in his chapter on Venus, "have been observed,
 supposed by some to be some-what similar to those on our own planet and
 on Mars. Some astronomers, however, do not regard them as snow; the
-drawings of [Schiaparelli](errata.htm#27) represent them as separated by
+drawings of [Schiaparelli](errata.htm#27.md) represent them as separated by
 a dark shadow, which suggests that they represent two mighty mountain
 systems."
 
@@ -947,7 +947,7 @@ manner of doubt that the bright spot is an optical phenomenon only."
 
 Again we agree with the observation but not with the inference. Here is
 a spot of light, plainly seen through a telescope, so bright that the
-observer compares it to the [incandescence](errata.htm#28) of a sun. It
+observer compares it to the [incandescence](errata.htm#28.md) of a sun. It
 is a much brighter light than any mere reflection could possibly give.
 But we must remember that to Proctor such an appearance must have been
 staggering in the extreme. He was not only not expecting it but he was
@@ -991,4 +991,4 @@ results, the invariable appearance of a central sun.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Early Polar Exploration](jei07)
+[Next: Chapter IV. Early Polar Exploration](jei07.md)

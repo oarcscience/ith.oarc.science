@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch14) 
-[Next](branch16) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch14.md) 
+[Next](branch16.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -1086,5 +1086,5 @@ the valour of his knighthood.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XVI](branch16)  
+XVI](branch16.md)  
 </span>

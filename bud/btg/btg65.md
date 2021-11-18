@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg64)  [Next](btg66) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg64)  [Next](btg66.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ four simples are the four noble truths.
 
 ------------------------------------------------------------------------
 
-[Next: The Lost Son](btg66)
+[Next: The Lost Son](btg66.md)

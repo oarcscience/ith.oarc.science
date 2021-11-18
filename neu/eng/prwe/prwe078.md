@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe077)  [Next](prwe079) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe077)  [Next](prwe079.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ Charles the First. So says Davy--the tradition is very old.
 
 ------------------------------------------------------------------------
 
-[Next: The Devil's Doorway](prwe079)
+[Next: The Devil's Doorway](prwe079.md)

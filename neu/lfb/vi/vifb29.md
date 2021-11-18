@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb28)  [Next](vifb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb28)  [Next](vifb30.md) 
 
 </div>
 
@@ -131,6 +131,6 @@ said, 'Blindness is man's highest good.'
 
 ------------------------------------------------------------------------
 
-[Next: The Boys with the Golden Stars](vifb30)
+[Next: The Boys with the Golden Stars](vifb30.md)
 
 </div>

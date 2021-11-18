@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt40)  [Next](pyt42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt40)  [Next](pyt42.md) 
 
 ------------------------------------------------------------------------
 
@@ -366,4 +366,4 @@ to do service of a courtier to Rē‘ in heaven.
 
 ------------------------------------------------------------------------
 
-[Next: 39. An Early Hymn to the Sun, Utterance 587](pyt42)
+[Next: 39. An Early Hymn to the Sun, Utterance 587](pyt42.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi161)  [Next](mtsi163) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi161)  [Next](mtsi163.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ giving out light, and it stayed scratching up something to eat. Then the
 man remained seated but did not sleep and when day came started on
 again. He traveled about hunting for the camp but could not find it and
 at night he again sat down under a tree. Then a horned
-owl-crawfish <span id="fr_42"></span>[1](#fn_42) from the direction of a
+owl-crawfish <span id="fr_42"></span>[1](#fn_42.md) from the direction of a
 bright sheet of water in the distance hooted and came toward him. It
 came on and when it got close to him it disappeared. After he had
 remained seated for a while it hooted again in the distance, came on,
@@ -52,9 +52,9 @@ and lay down without saying a word.
 
 ### Footnotes
 
-<span id="fn_42"></span>[146:1](mtsi162.htm#fr_42) See note to last
+<span id="fn_42"></span>[146:1](mtsi162.htm#fr_42.md) See note to last
 story.
 
 ------------------------------------------------------------------------
 
-[Next: 27. The Owl Wives](mtsi163)
+[Next: 27. The Owl Wives](mtsi163.md)

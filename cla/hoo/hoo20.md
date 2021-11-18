@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo19)  [Next](hoo21) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo19)  [Next](hoo21.md) 
 
 ------------------------------------------------------------------------
 
 ###### XV.
 
-### TO JUNO <span id="fr_76"></span>[\*](#fn_76).
+### TO JUNO <span id="fr_76"></span>[\*](#fn_76.md).
 
 ###### The FUMIGATION from AROMATICS.
 
@@ -31,7 +31,7 @@ With aspect kind, rejoicing and serene.
 
 ### Footnotes
 
-<span id="fn_76"></span>[140:\*](hoo20.htm#fr_76) Juno is called by the
+<span id="fn_76"></span>[140:\*](hoo20.htm#fr_76.md) Juno is called by the
 Orphic theologers, according to Proclus Ζωογόνος ϑεά or the vivific
 Goddess: an epithet perfectly agreeing with the attributes ascribed to
 her in this Hymn. And in Theol. Plat. p. 483, he says that Juno is the
@@ -39,4 +39,4 @@ source of the soul's procreation.
 
 ------------------------------------------------------------------------
 
-[Next: XVI: To Neptune](hoo21)
+[Next: XVI: To Neptune](hoo21.md)

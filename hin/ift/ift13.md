@@ -1,13 +1,13 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift12) 
-[Next](ift14) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift12.md) 
+[Next](ift14.md) 
 
 ------------------------------------------------------------------------
 
 # The Charmed Ring
 
 <span id="img_39"></span> [![](tn/39.jpg)  
-Click to enlarge](img/39.jpg)
+Click to enlarge](img/39.jpg.md)
 
 <span id="img_38"></span> ![](img/38.jpg) MERCHANT started his son in
 life with three hundred rupees, and bade him go to another country and
@@ -267,4 +267,4 @@ he and everybody were as happy as ever they could be.
 
 ------------------------------------------------------------------------
 
-[Next: The Talkative Tortoise](ift14)
+[Next: The Talkative Tortoise](ift14.md)

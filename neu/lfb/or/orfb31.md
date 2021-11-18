@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb30)  [Next](orfb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb30)  [Next](orfb32.md) 
 
 </div>
 
@@ -212,6 +212,6 @@ how he caught salmon in the Land of the Sun.
 
 ------------------------------------------------------------------------
 
-[Next: How the Stalos Were Tricked](orfb32)
+[Next: How the Stalos Were Tricked](orfb32.md)
 
 </div>

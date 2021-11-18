@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str06)  [Next](str08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str06)  [Next](str08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ easily be done, because (as I said before) as to the *trilithons* of
 which it is chiefly compos’d, they are all remaining. Not a bit is lost,
 but what mischievous and silly people knock off with hammers, to see
 whether, as the wretched vulgar notion would have it, the stones be
-factitious. [TAB. XVIII.](str10.htm#img_pl18) is a design of it, which
+factitious. [TAB. XVIII.](str10.htm#img_pl18.md) is a design of it, which
 <span class="margnote">TAB. XVIII.</span> I made sitting in the center
 of the grand entrance in the inner circle. This point is properly the
 door-way or entrance into the *adytum*, as a wicket or little door,
@@ -120,7 +120,7 @@ and perhaps excel the too similar concave
 
 <span id="img_pl13"></span> <span align="CENTER"> [![Plate 13. Prospect
 of STONEHENGE from the Southwest](tn/pl13.jpg)  
-Click to enlarge](img/pl13.jpg)  
+Click to enlarge](img/pl13.jpg.md)  
 Plate 13. Prospect of STONEHENGE from the Southwest  
 </span>
 
@@ -205,7 +205,7 @@ proportion I assign’d between the *English* foot and this cubit. 20
 inches and 4/5 make a cubit, therefore 20 feet and 4/5 make 12 cubits.
 The true case as to the height of the *trilithons*, is thus <span
 class="margnote">TAB. XV.</span> respectively, and which may be seen in
-[TAB. XV.](#img_pl15) with the harmony and symmetry, in the proportion
+[TAB. XV.](#img_pl15.md) with the harmony and symmetry, in the proportion
 of the whole. We may observe their gradual rising in height, all from
 the same base, like pillars of higher orders and more diameters. But the
 intelligent reader must needs see, that our founders never had sight of
@@ -261,7 +261,7 @@ more. But this must be taken for the least breadth of the imposts, that
 <span id="img_pl14"></span> <span align="CENTER"> [![Plate 14. The
 orthographical Section of Stonehenge upon the Cross
 diameter](tn/pl14.jpg)  
-Click to enlarge](img/pl14.jpg)  
+Click to enlarge](img/pl14.jpg.md)  
 Plate 14. The orthographical Section of Stonehenge upon the Cross
 diameter  
 </span>
@@ -273,7 +273,7 @@ inside faces are strait, yet, as we observ’d, in proper place, of the
 imposts of the outer circle; so here, they are rounded behind: their
 outer circumference answering <span class="margnote">TAB. XI.</span> to
 the great oval upon which they are founded. So likewise their ends are
-made upon a *radius* of that oval, whence the [inner](errata.htm#3) face
+made upon a *radius* of that oval, whence the [inner](errata.htm#3.md) face
 of the impost is somewhat shorter than the outer, and is another reason
 why their lengths may easily be taken somewhat too short. I have drawn
 the imposts in their true shape in the ground-plot. The artifice of the
@@ -310,32 +310,32 @@ other, as we before observ’d.
 
 I promis’d to show the reader what *Stonehenge* is, and what it was. The
 latter, I presume, is done in the four prints, TAB.
-[XII](str06.htm#img_pl12), [XIV](#img_pl14), [p. XV](#img_pl15),
-[XVI.](str08.htm#img_pl16) being<span class="margnote">TAB. XII, XIV,
+[XII](str06.htm#img_pl12), [XIV](#img_pl14), [p. XV](#img_pl15.md),
+[XVI.](str08.htm#img_pl16.md) being<span class="margnote">TAB. XII, XIV,
 XV, XVI.</span> geometric orthographical sections of the whole work, all
 necessary ways, such as architects prepare in design, when they set
 about a building. ’Tis wholly needless to spend many words in explaining
 them. What the work is, of our *adytum* at present, is shown in the
-subsequent prints, TAB. [XVIII](str10.htm#img_pl18),
-[XXI](str11.htm#img_pl21), [XXII](str11.htm#img_pl22). The
-[Vth](str04.htm#img_pl05) corresponds with the
-[XIIth](str06.htm#img_pl12). The one shows the front of<span
+subsequent prints, TAB. [XVIII](str10.htm#img_pl18.md),
+[XXI](str11.htm#img_pl21), [XXII](str11.htm#img_pl22.md). The
+[Vth](str04.htm#img_pl05.md) corresponds with the
+[XIIth](str06.htm#img_pl12.md). The one shows the front of<span
 class="margnote">XVIII, XXI, XII"</span> the temple when in perfection,
-the other as now in ruins. The [XVIth](str08.htm#img_pl16) may be
-compar’d with [XIX](str10.htm#img_pl19) and [XX.](str10.htm#img_pl20)
+the other as now in ruins. The [XVIth](str08.htm#img_pl16.md) may be
+compar’d with [XIX](str10.htm#img_pl19) and [XX.](str10.htm#img_pl20.md)
 all presenting a view from the *adytum* toward the entrance. [TAB.
-XVIII.](str10.htm#img_pl18) is a contrary view, when one standing by the
+XVIII.](str10.htm#img_pl18.md) is a contrary view, when one standing by the
 entrance,<span class="margnote">TAB. XVIII.</span> looks toward the
-*adytum*. The same is presented in *Plate* [VII.](str04.htm#img_pl07)
+*adytum*. The same is presented in *Plate* [VII.](str04.htm#img_pl07.md)
 which I call a peep into the *sanctum sanctorum*.
-[XXII.](str11.htm#img_pl22) is the same, but a little oblique. This
-plate shows at present, what the [XIVth](#img_pl14) does in its
-original. *Plate* [XV](#img_pl15) and [XXI.](str11.htm#img_pl21)
+[XXII.](str11.htm#img_pl22.md) is the same, but a little oblique. This
+plate shows at present, what the [XIVth](#img_pl14.md) does in its
+original. *Plate* [XV](#img_pl15) and [XXI.](str11.htm#img_pl21.md)
 correspond, showing the *adytum* on one side, in its perfect, and in its
 ruinous state. Particularly they explain, what I spoke of, as to the
 orderly rising of the *trilithons* in height, one above another, from
 the lower end to the upper end of the *adytum*. [TAB.
-XXII.](str11.htm#img_pl22) illustrates it, by exhibiting to view,<span
+XXII.](str11.htm#img_pl22.md) illustrates it, by exhibiting to view,<span
 class="margnote">TAB. XXII.</span> the other and most perfect side of
 the *adytum*. ’Tis an oblique prospect of it, from the entrance.
 
@@ -356,8 +356,8 @@ and there possibly vary a little, upon a very strict trial, and where
 proper judgment is not us’d, because the stones in some parts may
 protuberate, or great parts of them may have fallen off; yet 10 foot
 difference<span class="margnote">TAB. XIX, XX.</span> from truth cannot
-be allow’d of. In the *Plates* [XIX](str10.htm#img_pl19) and
-[XX.](str10.htm#img_pl20) observe the inside of that upright stone,
+be allow’d of. In the *Plates* [XIX](str10.htm#img_pl19.md) and
+[XX.](str10.htm#img_pl20.md) observe the inside of that upright stone,
 which makes the northern jamb of the chief entrance of the outer circle.
 A very great piece is fallen off towards the top, which discovers its
 tenon and the mortaise of the impost above it. And in the management of
@@ -422,7 +422,7 @@ end of the impost is fallen
 <span id="img_pl15"></span> <span align="CENTER"> [![Plate 15. The
 Orthographic Section of Stonehenge up on the Chief
 diameter](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 Plate 15. The Orthographic Section of Stonehenge up on the Chief
 diameter  
 </span>
@@ -493,4 +493,4 @@ and taller, as advancing towards the upper end of the cell.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](str08)
+[Next: Chapter VI](str08.md)

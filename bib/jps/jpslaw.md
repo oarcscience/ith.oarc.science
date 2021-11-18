@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](jpspref)  [Next](gen001) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](jpspref)  [Next](gen001.md) 
 
 </div>
 
@@ -22,11 +22,11 @@ Textual Heritage
 |             |                                 |
 |-------------|---------------------------------|
 |             | <span class="small">PAGE</span> |
-| GENESIS     | [3](gen001.htm#page_3)          |
-| EXODUS      | [65](exo001.htm#page_65)        |
-| LEVITICUS   | [118](lev001.htm#page_118)      |
-| NUMBERS     | [157](num001.htm#page_157)      |
-| DEUTERONOMY | [212](deu001.htm#page_212)      |
+| GENESIS     | [3](gen001.htm#page_3.md)          |
+| EXODUS      | [65](exo001.htm#page_65.md)        |
+| LEVITICUS   | [118](lev001.htm#page_118.md)      |
+| NUMBERS     | [157](num001.htm#page_157.md)      |
+| DEUTERONOMY | [212](deu001.htm#page_212.md)      |
 
 </div>
 
@@ -34,6 +34,6 @@ Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Genesis Chapter 1](gen001)
+[Next: Genesis Chapter 1](gen001.md)
 
 </div>

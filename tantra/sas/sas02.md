@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas01)  [Next](sas03)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas01)  [Next](sas03.md)  
 
 ------------------------------------------------------------------------
 
@@ -780,4 +780,4 @@ out the grain throws away the husks and straw.)
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Three: Tantra Shastra and Veda](sas03)
+Next: [Chapter Three: Tantra Shastra and Veda](sas03.md)

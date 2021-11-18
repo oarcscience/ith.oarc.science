@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil13)  [Next](wil15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil13)  [Next](wil15.md) 
 
 ------------------------------------------------------------------------
 
@@ -450,7 +450,7 @@ Court:
 O Lord, look not upon my evil qualities!  
 Thy name, O Lord, is Same-sightedness,  
 By Thy touch, if Thou wilt, Thou canst make me pure. <span
-id="fr_35"></span>[\*](#fn_35)
+id="fr_35"></span>[\*](#fn_35.md)
 
 One drop of water is in the sacred Jumna,  
 Another is foul in the ditch by the roadside,  
@@ -474,7 +474,7 @@ Make us both the same Brahman.
 
 ### Footnotes
 
-<span id="fn_35"></span>[204:\*](wil14.htm#fr_35) Literally, Make us
+<span id="fn_35"></span>[204:\*](wil14.htm#fr_35.md) Literally, Make us
 both the same Brahman--*i.e.*, Let the Singer--low dancing-girl as she
 may be--become one with God Himself in the Supreme Essence, Brahman. The
 theological conception here is so difficult for Western readers that I
@@ -483,4 +483,4 @@ by my Master, the Swami Vivekananda.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Gospel of the Blessed One](wil15)
+[Next: Chapter XIII. The Gospel of the Blessed One](wil15.md)

@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi080)  [Next](mtsi082) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi080)  [Next](mtsi082.md) 
 
 ------------------------------------------------------------------------
 
-### 79. THE FLIGHT TO THE TREE (76) <span id="fr_14"></span>[1](#fn_14)
+### 79. THE FLIGHT TO THE TREE (76) <span id="fr_14"></span>[1](#fn_14.md)
 
 (Tuggle collection)
 
 Once there was a little boy who lived with his grandmother. He grew up
 to be very fond of hunting and had three dogs named "Simursitty,"
-"Jeudawson," and "Ben-boten." <span id="fr_15"></span>[2](#fn_15) His
+"Jeudawson," and "Ben-boten." <span id="fr_15"></span>[2](#fn_15.md) His
 name was "Tookme." He killed many bison and that caused them to hold a
 council at which two bison agreed to turn themselves into pretty girls
 and attempt to destroy Tookme. They went one evening to his
@@ -65,11 +65,11 @@ faithful dogs. They frightened the bison away and rescued their master.
 
 ### Footnotes
 
-<span id="fn_14"></span>[72:1](mtsi081.htm#fr_14) This has been
+<span id="fn_14"></span>[72:1](mtsi081.htm#fr_14.md) This has been
 published in German by Dr. E. C. Parsons in the work mentioned below (p.
 268).
 
-<span id="fn_15"></span>[72:2](mtsi081.htm#fr_15) The names of the dogs
+<span id="fn_15"></span>[72:2](mtsi081.htm#fr_15.md) The names of the dogs
 in this story may be corruptions, and it has been suggested that they
 ought to be Pin-Poyer \[pin poya\], "the turkey destroyer," Cho-arsur
 \[tco asa\], "the deer-runner," and Nussarsur \[yanas asa\], "the
@@ -77,4 +77,4 @@ buffalo runner."--Tuggle. This seems far-fetched.
 
 ------------------------------------------------------------------------
 
-[Next: 80. Cow and Dog are Discontented](mtsi082)
+[Next: 80. Cow and Dog are Discontented](mtsi082.md)

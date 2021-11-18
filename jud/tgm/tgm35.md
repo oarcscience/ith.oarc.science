@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm34)  [Next](tgm36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm34)  [Next](tgm36.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ between gasps, "see, I just found this pearl at the harbor."
 <span id="img_19200"></span>
 
 [![](tn/19200.jpg)  
-Click to enlarge](img/19200.jpg)
+Click to enlarge](img/19200.jpg.md)
 
  
 
@@ -131,4 +131,4 @@ kept the jewel? Think of that!
 
 ------------------------------------------------------------------------
 
-[Next: 33. How Rashi was Saved](tgm36)
+[Next: 33. How Rashi was Saved](tgm36.md)

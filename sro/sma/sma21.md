@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma20)  [Next](sma22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma20)  [Next](sma22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ various ranks and dignities. The elucidation of this branch of their
 constitution is now to engage our attention.
 
 At the head of the order stood the Master, or, as he was sometimes
-called, the Great-Master <span id="fr_85"></span>[\*](#fn_85) of the
+called, the Great-Master <span id="fr_85"></span>[\*](#fn_85.md) of the
 Temple. This personage was always a knight, and had generally held one
 of the higher dignities of the order. Though, like the Doge of Venice,
 his power was greatly controlled by the chapter, he enjoyed very great
@@ -151,13 +151,13 @@ correspondence, whom he might, after a time, admit to become a knight of
 the order; the other, who was called his Saracenic secretary, and who
 was probably an eastern Christian, for carrying on his Arabic
 correspondence with the Infidels. He had, moreover, a farrier, a cook,
-and a Turcopole <span id="fr_86"></span>[\*](#fn_86), two footmen, and a
-Turcoman <span id="fr_87"></span>[†](#fn_87), to serve as guide. On a
+and a Turcopole <span id="fr_86"></span>[\*](#fn_86.md), two footmen, and a
+Turcoman <span id="fr_87"></span>[†](#fn_87.md), to serve as guide. On a
 march, the Turcoman rode on a horse behind an esquire: during the time
 of war he was led by a cord, to prevent his escape. On any ordinary
 journey, the Master might take two beasts of burden with him; but in
 war-time, or in case of his going beyond the Jordan, or the Dog's
-Pass <span id="fr_88"></span>[‡](#fn_88), he might extend the number to
+Pass <span id="fr_88"></span>[‡](#fn_88.md), he might extend the number to
 four, which the statutes thriftily direct to be put into the stable when
 he arrives at the house where he is going to stop, and to be employed in
 the service of the house. The Master was finally commander-in-chief
@@ -196,7 +196,7 @@ power.
 <span id="page_259">p. 259</span>
 
 Next in rank to the Master stood the seneschal, who, as his name
-denotes <span id="fr_89"></span>[\*](#fn_89), was the Master's
+denotes <span id="fr_89"></span>[\*](#fn_89.md), was the Master's
 representative and lieutenant. He had a right to be present at all
 chapters of the order; and to be acquainted with all transactions of
 consequence. He was allowed the same number of horses as the Master;
@@ -332,7 +332,7 @@ serving-brethren.
 
 <span id="img_26300"></span> <span align="CENTER"> [![Preceptory,
 Swingfield, Dover](tn/26300.jpg)  
-Click to enlarge](img/26300.jpg)  
+Click to enlarge](img/26300.jpg.md)  
 Preceptory, Swingfield, Dover  
 </span>
 
@@ -364,7 +364,7 @@ took the horses out to graze, he was bound to precede them with a
 standard of the order. He always presided at the table of the
 serving-brethren and esquires. When the order was marching to battle, it
 was his task to ride before the standard, which was borne after him by
-an esquire, or carried on a wain <span id="fr_90"></span>[\*](#fn_90);
+an esquire, or carried on a wain <span id="fr_90"></span>[\*](#fn_90.md);
 he was to lead whithersoever the marshal directed him. When the battle
 commenced, those esquires who led the horses of the knights were to
 combat behind their masters; the others were to take the mules on which
@@ -396,35 +396,35 @@ order. They were allowed two horses and an esquire.
 
 ### Footnotes
 
-<span id="fn_85"></span>[253:\*](sma21.htm#fr_85) *Magister*, *Maistre*,
+<span id="fn_85"></span>[253:\*](sma21.htm#fr_85.md) *Magister*, *Maistre*,
 is the almost invariable expression in the historians, the statutes of
 the order, and most documents. *Magnus Magister* was, however, early
 employed. Terricus, the Master of the order, thus styles himself when
 writing to Henry II. of England. The term Grand-Master is apt to convey
 erroneous ideas of pomp and magnificence to the minds of many readers.
 
-<span id="fn_86"></span>[257:\*](sma21.htm#fr_86) The Turcopoles were
+<span id="fn_86"></span>[257:\*](sma21.htm#fr_86.md) The Turcopoles were
 the offspring of a Turkish father, by a Christian mother; or also those
 who had been reared among the Turks, and had learned their mode of
 fighting. The Christians employed them as light cavalry; and the
 Templars had always a number of them in their pay.
 
-<span id="fn_87"></span>[257:†](sma21.htm#fr_87) The Turcomans were, as
+<span id="fn_87"></span>[257:†](sma21.htm#fr_87.md) The Turcomans were, as
 their name denotes, born Turks. The Christians used them as guides on
 their expeditions.
 
-<span id="fn_88"></span>[257:‡](sma21.htm#fr_88) *Le pas de chien*.
+<span id="fn_88"></span>[257:‡](sma21.htm#fr_88.md) *Le pas de chien*.
 Münter (p. 66) declares his ignorance of where it lay. It was evidently
 the dangerous pass at the Nahr-el-Kelb, (*Dog's River*), near the sea,
 on the way to Antioch.
 
-<span id="fn_89"></span>[259:\*](sma21.htm#fr_89) Seneschal is one *qui
+<span id="fn_89"></span>[259:\*](sma21.htm#fr_89.md) Seneschal is one *qui
 alterius vicem gerit*. Charpentier Supplem. ad Dufresne Gloss. iii. p.
 759.
 
-<span id="fn_90"></span>[264:\*](sma21.htm#fr_90) The *Carroccio* of the
+<span id="fn_90"></span>[264:\*](sma21.htm#fr_90.md) The *Carroccio* of the
 Italian republics.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](sma22)
+[Next: Chapter VIII](sma22.md)

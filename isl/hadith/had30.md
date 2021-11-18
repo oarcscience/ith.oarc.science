@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had29)  [Next](had31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had29)  [Next](had31.md) 
 
 ------------------------------------------------------------------------
 
@@ -321,4 +321,4 @@ no other heir, near or distant.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII: Foods and Drinks](had31)
+[Next: Chapter XXVIII: Foods and Drinks](had31.md)

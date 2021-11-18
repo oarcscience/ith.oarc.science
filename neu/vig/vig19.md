@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig18)  [Next](vig20) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig18)  [Next](vig20.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ have to run for it as far as I have done." Glum sung a verse--
 "South of the river here, I trow,  
 Each bush is worth a crown;  
 Elsewhere the forest often saves  
-The outlaw hunted down."  <span id="fr_14"></span>[1](#fn_14)
+The outlaw hunted down."  <span id="fr_14"></span>[1](#fn_14.md)
 
 So they parted at that time; but Glum went home, got his people
 together, told them what a trap had been set for him, and expressed his
@@ -103,7 +103,7 @@ rode away north, and Glum went home to Thverà.
 
 ### Footnotes
 
-<span id="fn_14"></span>[1](vig19.htm#fr_14) I confess that I do not
+<span id="fn_14"></span>[1](vig19.htm#fr_14.md) I confess that I do not
 clearly understand the meaning of this stanza, unless Glum intends to
 say that any device was justifiable in getting away from Skuta in a
 country which offered such scanty means of escape. It may mean, however,
@@ -111,4 +111,4 @@ that Skuta himself would have hard work to get away.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII](vig20)
+[Next: Chapter XVII](vig20.md)

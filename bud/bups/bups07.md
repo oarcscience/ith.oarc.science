@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bups06)  [Next](bups08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bups06)  [Next](bups08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4KM0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4KM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Psalms*, by S. Yamabe and L. Adams Beck, \[1921\], at
 Intangible Textual Heritage
 
@@ -48,4 +48,4 @@ world bearing the five signs of degeneration upon it.
 
 ------------------------------------------------------------------------
 
-[Next: Of the Many Sutras Concerning the Infinite One](bups08)
+[Next: Of the Many Sutras Concerning the Infinite One](bups08.md)

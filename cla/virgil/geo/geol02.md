@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](geo02) 
-[Previous](geol01)  [Next](geol03) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](geo02.md) 
+[Previous](geol01)  [Next](geol03.md) 
 
 ------------------------------------------------------------------------
 
@@ -553,4 +553,4 @@ et iam tempus equum fumantia solvere colla.
 
 ------------------------------------------------------------------------
 
-[Next: Third Book](geol03)
+[Next: Third Book](geol03.md)

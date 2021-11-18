@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktcu03)  [Next](pktcuac) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktcu03)  [Next](pktcuac.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Two
 
 <span id="img_cu02"></span> <span align="CENTER"> [![](tn/cu02.jpg)  
-Click to enlarge](img/cu02.jpg)</span>
+Click to enlarge](img/cu02.jpg.md)</span>
 
 A youth and maiden are pledging one another, and above their cups rises
 the Caduceus of Hermes, between the great wings of which there appears a
@@ -34,4 +34,4 @@ is sanctified.
 
 ------------------------------------------------------------------------
 
-[Next: Ace of Cups](pktcuac)
+[Next: Ace of Cups](pktcuac.md)

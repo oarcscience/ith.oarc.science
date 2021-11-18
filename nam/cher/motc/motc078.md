@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc077) 
-[Next](motc079) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc077.md) 
+[Next](motc079.md) 
 
 ------------------------------------------------------------------------
 
@@ -240,4 +240,4 @@ saw it again.
 
 ------------------------------------------------------------------------
 
-[Next: 79. The Removed Townhouses](motc079)
+[Next: 79. The Removed Townhouses](motc079.md)

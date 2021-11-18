@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp24) 
-[Next](alp26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp24.md) 
+[Next](alp26.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ All died of Winter's frost-bite keen.
 
 ------------------------------------------------------------------------
 
-[Next: Ye Mountain Bluebells](alp26)
+[Next: Ye Mountain Bluebells](alp26.md)

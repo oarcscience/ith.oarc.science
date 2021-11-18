@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi293)  [Next](mtsi295) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi293)  [Next](mtsi295.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ set out for home unable to accomplish anything.
 
 ------------------------------------------------------------------------
 
-[Next: 30. The Bungling Host](mtsi295)
+[Next: 30. The Bungling Host](mtsi295.md)

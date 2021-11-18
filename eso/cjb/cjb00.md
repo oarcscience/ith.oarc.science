@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Mysticism](../../myst/index)  [Index](index)  [Next](cjb01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Mysticism](../../myst/index)  [Index](index)  [Next](cjb01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Confessions of Jacob Boehme*, by Jacob Boehme, ed. W. Scott Palmer
 \[1920\], at Intangible Textual Heritage
 
@@ -37,6 +37,6 @@ published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Note by the Editor](cjb01)
+[Next: Note by the Editor](cjb01.md)
 
 </div>

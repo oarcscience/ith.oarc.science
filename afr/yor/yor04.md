@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](yor03)  [Next](yor05) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](yor03)  [Next](yor05.md) 
 
 ------------------------------------------------------------------------
 
@@ -413,4 +413,4 @@ appeared in the shape of a venomous serpent.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Remarks on the Foregoing.](yor05)
+[Next: Chapter IV: Remarks on the Foregoing.](yor05.md)

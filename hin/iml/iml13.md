@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml12)  [Next](iml14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml12)  [Next](iml14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ Ganges to the sea, and then it spoke with a smile and said:
 <span id="img_14000"></span>
 
 [![INTERIOR OF A ROCK-HEWN BUDDHIST TEMPLE (AJANTA)](tn/14000.jpg)  
-Click to enlarge](img/14000.jpg)  
+Click to enlarge](img/14000.jpg.md)  
 INTERIOR OF A ROCK-HEWN BUDDHIST TEMPLE (AJANTA)  
 
  
@@ -147,7 +147,7 @@ locomotion and which have it not. By practising severe austerities he
 will acquire this power. . . ."
 
 Then Manu set about creating all beings in proper and exact order. <span
-id="fr_178"></span>[1](#fn_177)
+id="fr_178"></span>[1](#fn_177.md)
 
 Markandeya elsewhere described the universal cataclysm
 
@@ -199,13 +199,13 @@ for amrita.
 In the epics the gods allied themselves with the demons to procure
 amrita from Vishnu's Sea of Milk. The "churning stick" was the mountain
 Mandara, and the "churning rope" the serpent Vasuka <span
-id="fr_179"></span>[1](#fn_178) (Ananta or Shesha). Vishnu said: "The
+id="fr_179"></span>[1](#fn_178) (Ananta or Shesha.md). Vishnu said: "The
 demons must share in the work of churning, but I will prevent them from
 tasting of the amrita, which must be kept for Indra and the gods only."
 
 The gods carried the mountain Mandara to the ocean, and placed it on the
 back of Kurma, the king of tortoises, who was an incarnation of
-Vishnu. <span id="fr_180"></span>[2](#fn_179) Round the mountain they
+Vishnu. <span id="fr_180"></span>[2](#fn_179.md) Round the mountain they
 twisted the serpent, which was "a part of a part of Vishnu", the Asuras
 holding its hood and the gods its tail. As a result of the friction
 caused by the churning, masses of vapour issued from the serpent's mouth
@@ -256,7 +256,7 @@ Meanwhile the demons fought against the gods, but
 
 [![LAKSHMI ARISING FROM THE SEA OF MILK&lt;br&gt; From a sculpture at
 Mámallapuram](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 LAKSHMI ARISING FROM THE SEA OF MILK  
 From a sculpture at Mámallapuram  
 
@@ -313,11 +313,11 @@ forth.
 
 Balor, the night god of Irish mythology, had similarly a destroying eye;
 "its gaze withered all who stood before it"; <span
-id="fr_181"></span>[1](#fn_180) he was the god of lightning and death,
+id="fr_181"></span>[1](#fn_180.md) he was the god of lightning and death,
 the "eye-flame" being the thunderbolt.
 
 Shiva's dwelling is on the Himalayan mount Kaila´sa <span
-id="fr_182"></span>[2](#fn_181). He is Girisha, "the lord of the hills",
+id="fr_182"></span>[2](#fn_181.md). He is Girisha, "the lord of the hills",
 and Chandra-Shekara, "the moon crested", Bhuteswara, "lord of goblins",
 and Sri Kanta, "beautiful throated". When he is depicted with five
 heads, he is regarded as the source of the five sacred rivers flowing
@@ -333,7 +333,7 @@ he recovered he hailed the god, saying: "Thou art
 
 <span class="contnote">\[paragraph continues\]</span> Shiva in the form
 of Vishnu and Vishnu in the form of Shiva . . . . <span
-id="fr_183"></span>[1](#fn_182) O Hari, O Rudra, I bow to thee. Thou
+id="fr_183"></span>[1](#fn_182.md) O Hari, O Rudra, I bow to thee. Thou
 hast a (red) eye on thy forehead. . . . Thou art the source of universal
 blessing, the cause of the cause of the Universe. . . . Thou art
 worshipped of all the worlds. I worship thee to obtain thy grace. . . .
@@ -403,7 +403,7 @@ the goddess
 
 [![SHIVA DANCING ON TRIPURA&lt;br&gt; &lt;i&gt;From a bronze in the
 Madras Museum&lt;/i&gt;.](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)  
+Click to enlarge](img/14800.jpg.md)  
 SHIVA DANCING ON TRIPURA  
 *From a bronze in the Madras Museum*.  
 
@@ -463,7 +463,7 @@ As Sati, Shiva's wife is the ideal of a true and virtuous Hindu woman.
 When Sati's husband was slighted by her father, the Deva-rishi, Daksha,
 she cast herself on the sacrificial fire. Widows who died on the funeral
 pyres of their husbands were called Sati <span
-id="fr_184"></span>[1](#fn_183), because in performing this rite they
+id="fr_184"></span>[1](#fn_183.md), because in performing this rite they
 imitated the faithful goddess.
 
 Sati was reborn as Uma, "Light", the impersonation of divine wisdom; as
@@ -483,11 +483,11 @@ one--a goddess who
 
 [![GANESA&lt;br&gt; &lt;i&gt;From a sculpture in the Victoria and Albert
 Museum&lt;/i&gt;.](tn/15000.jpg)  
-Click to enlarge](img/15000.jpg)  
+Click to enlarge](img/15000.jpg.md)  
 GANESA  
 *From a sculpture in the Victoria and Albert Museum*.  
 
-(see page [151](#page_151))
+(see page [151](#page_151).md)
 
  
 
@@ -508,7 +508,7 @@ cuckoo, the humming bee, and soft winds. As Manmatha he is the
 "mind-disturber"; as Mara, "the wounder"; as Madan, "he who makes one
 love-drunk"; and as Pradyumna he is the "all-conqueror".
 
-Gane´sa <span id="fr_185"></span>[1](#fn_184), the four-armed,
+Gane´sa <span id="fr_185"></span>[1](#fn_184.md), the four-armed,
 elephant-headed god of wisdom, is the son of Shiva and Parvati. He is
 the general of Shiva's army, the patron of learning and the giver of
 good fortune. At the beginning of books he is invoked by poets, his
@@ -562,7 +562,7 @@ worshippers: Sasti,
 [![KARTIKEYA, THE WAR GOD&lt;br&gt; &lt;i&gt;From a painting by Surendra
 Nalh Gangoly&lt;/i&gt;.&lt;br&gt; (By permission of the Indian Society
 of Oriental Art, Calcutta)](tn/15200.jpg)  
-Click to enlarge](img/15200.jpg)  
+Click to enlarge](img/15200.jpg.md)  
 KARTIKEYA, THE WAR GOD  
 *From a painting by Surendra Nalh Gangoly*.  
 (By permission of the Indian Society of Oriental Art, Calcutta)  
@@ -584,12 +584,12 @@ Shiva.
 Originally there were seven Deva-rishis, and these were identified with
 the seven stars of the Great Bear, their wives being represented by the
 Pleiades. Their number was, however, increased in time. <span
-id="fr_186"></span>[1](#fn_185) Sometimes they visit the earth in the
+id="fr_186"></span>[1](#fn_185.md) Sometimes they visit the earth in the
 form of swans, but more often they are brooding sages who curse gods and
 mortals on receiving the slightest provocation.
 
 One of the most prominent of these Rishis is Na´rada <span
-id="fr_187"></span>[2](#fn_186), who cursed and was cursed by Brahma. In
+id="fr_187"></span>[2](#fn_186.md), who cursed and was cursed by Brahma. In
 the *Mahábhárata* he is a renowned teacher and a counsellor of kings,
 and also a messenger between Indra and heroes. He is a patron of music,
 and invented the Vina (lute) on which he loves to play. His great rival
@@ -631,7 +631,7 @@ tribe called the Tritsus. References are found in the *Rigveda* to the
 wars of Sudas, who once defeated a coalition of ten kings. Vishwamitra
 is believed to have been deposed by Sudas in favour of Vasishtha, and to
 have allied himself afterwards with the enemies of the Tritsus. <span
-id="fr_188"></span>[1](#fn_187)
+id="fr_188"></span>[1](#fn_187.md)
 
 Professor Oldenberg, the German Sanskrit scholar, is convinced, however,
 that there is no evidence in the *Rigveda* of the legendary rivalry
@@ -644,11 +644,11 @@ family priests of the Bharata tribe and identical with the Tritsus.
 
 [![PARVATI, WIFE OF SHIVA&lt;br&gt; &lt;i&gt;From a South Indian
 temple&lt;/i&gt;.](tn/15400.jpg)  
-Click to enlarge](img/15400.jpg)  
+Click to enlarge](img/15400.jpg.md)  
 PARVATI, WIFE OF SHIVA  
 *From a South Indian temple*.  
 
-(see page [150](#page_150))
+(see page [150](#page_150).md)
 
  
 
@@ -723,40 +723,40 @@ opponents are "a great tree formed of passion".
 
 ### Footnotes
 
-<span id="fn_177"></span>[141:1](iml13.htm#fr_178) Condensed from Vana
+<span id="fn_177"></span>[141:1](iml13.htm#fr_178.md) Condensed from Vana
 Parva section of *Mahábhárata*, sec. clxxxvii, Roy's trans.
 
-<span id="fn_178"></span>[143:1](iml13.htm#fr_179) Va´suki.
+<span id="fn_178"></span>[143:1](iml13.htm#fr_179.md) Va´suki.
 
-<span id="fn_179"></span>[143:2](iml13.htm#fr_180) Brahma, as Prajapati,
+<span id="fn_179"></span>[143:2](iml13.htm#fr_180.md) Brahma, as Prajapati,
 assumes, in one of the myths, the form of a tortoise to "create
 offspring".
 
-<span id="fn_180"></span>[146:1](iml13.htm#fr_181) *Celtic Myth and
+<span id="fn_180"></span>[146:1](iml13.htm#fr_181.md) *Celtic Myth and
 Legend*, p. 49.
 
-<span id="fn_181"></span>[146:2](iml13.htm#fr_182) Or Kailāsa.
+<span id="fn_181"></span>[146:2](iml13.htm#fr_182.md) Or Kailāsa.
 
-<span id="fn_182"></span>[147:1](iml13.htm#fr_183) Combined with Vishnu
+<span id="fn_182"></span>[147:1](iml13.htm#fr_183.md) Combined with Vishnu
 he is Hari-hara.
 
-<span id="fn_183"></span>[150:1](iml13.htm#fr_184) Often spelled Suttee.
+<span id="fn_183"></span>[150:1](iml13.htm#fr_184.md) Often spelled Suttee.
 
-<span id="fn_184"></span>[151:1](iml13.htm#fr_185) A familiar Bengali
+<span id="fn_184"></span>[151:1](iml13.htm#fr_185.md) A familiar Bengali
 rendering is "Gonesh", which is often given as a pet name to an
 exemplary boy.
 
-<span id="fn_185"></span>[153:1](iml13.htm#fr_186) In *Vishnu Purana*
+<span id="fn_185"></span>[153:1](iml13.htm#fr_186.md) In *Vishnu Purana*
 the Rishis are divided as follows: 1, Brahmarishis, sons of Brahma; 2,
 Devarishis, semi-divine saints; 3, Rajarishis, royal saints who had
 practised austerities. There are variants in other sacred books which
 refer to Maharishis, Paramarishis, &c.
 
-<span id="fn_186"></span>[153:2](iml13.htm#fr_187) Or Nãrada.
+<span id="fn_186"></span>[153:2](iml13.htm#fr_187.md) Or Nãrada.
 
-<span id="fn_187"></span>[154:1](iml13.htm#fr_188) *Rigveda*, viii, 53.
+<span id="fn_187"></span>[154:1](iml13.htm#fr_188.md) *Rigveda*, viii, 53.
 9-11, and vii, 18.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Prelude to the Great Bharata War](iml14)
+[Next: Chapter IX. Prelude to the Great Bharata War](iml14.md)

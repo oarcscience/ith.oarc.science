@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe04)  [Next](toe06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe04)  [Next](toe06.md) 
 
 ------------------------------------------------------------------------
 
@@ -713,4 +713,4 @@ prospect of an end.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](toe06)
+[Next: Title Page](toe06.md)

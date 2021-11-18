@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr03)  [Next](arr05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr03)  [Next](arr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ was *Avicenna,* whose real name was Ebu Cinna. Born at Bokara in A.D.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Early European Alchemists](arr05)
+[Next: Chapter II. Early European Alchemists](arr05.md)

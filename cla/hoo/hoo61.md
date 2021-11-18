@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo60)  [Next](hoo62) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo60)  [Next](hoo62.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ And grant our mystic works a happy end.
 
 ------------------------------------------------------------------------
 
-[Next: LVII: To Cupid, or Love](hoo62)
+[Next: LVII: To Cupid, or Love](hoo62.md)

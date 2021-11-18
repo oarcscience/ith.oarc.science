@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti24)  [Next](eti26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti24)  [Next](eti26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -107,7 +107,7 @@ entrancing manner, he continued:
 carbon, water, gas, and earth; the material part of fat is charcoal and
 gas; the material part of flesh is water and gas; the material part of
 fruits is mostly water with a little charcoal and gas. <span
-id="fr_3"></span>[\*](#fn_3) The material constituents of all foods are
+id="fr_3"></span>[\*](#fn_3.md) The material constituents of all foods are
 plentiful, they abound everywhere, and yet amid the unlimited,
 unorganized materials that go to form foods man would starve.
 
@@ -209,7 +209,7 @@ monitor, I moved on.
 
 ### Footnotes
 
-<span id="fn_3"></span>[125:\*](eti25.htm#fr_3) By the term gas, it is
+<span id="fn_3"></span>[125:\*](eti25.htm#fr_3.md) By the term gas, it is
 evident that hydrogen and nitrogen were designated, and yet, since the
 instructor insists that other gases form part of the atmosphere, so he
 may consistently imply that unknown gases are parts of food.—J. U. L.
@@ -217,4 +217,4 @@ may consistently imply that unknown gases are parts of food.—J. U. L.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX. The Cry From a Distance.—I Rebel Against Continuing
-the Journey](eti26)
+the Journey](eti26.md)

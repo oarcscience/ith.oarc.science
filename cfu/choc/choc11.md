@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](choc10)  [Next](choc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](choc10)  [Next](choc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875481558/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Occultism*, by Paul Carus, \[1907\], at Intangible Textual
 Heritage
 
@@ -34,7 +34,7 @@ civilising influences perhaps from ancient Babylon, or may be in later
 times from Greece by way of Bactria and Tibet. An historical
 
 <span id="img_06700"></span> <span align="CENTER"> [![](tn/06700.jpg)  
-Click to enlarge](img/06700.jpg)</span>
+Click to enlarge](img/06700.jpg.md)</span>
 
 connection of some kind or other with Western astronomy which also
 derives its origin from ancient Babylon, can scarcely be doubted; for
@@ -46,7 +46,7 @@ ones serve as obvious evidences which cannot be rejected, while the
 differences afford suggestions in regard to their development and fate.
 
 <span id="img_06800"></span> <span align="CENTER"> [![](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)</span>
+Click to enlarge](img/06800.jpg.md)</span>
 
 According to the Chinese and Japanese custom, the series begins in the
 right upper corners and the order proceeds downwards and to the left.
@@ -60,7 +60,7 @@ holding in his hands a wheel to indicate that he is the hub of the
 heavens. As Buddha in the spiritual world, so the polar star
 
 <span id="img_06900"></span> <span align="CENTER"> [![](tn/06900.jpg)  
-Click to enlarge](img/06900.jpg)</span>
+Click to enlarge](img/06900.jpg.md)</span>
 
 among the constellations is alone at rest while all other things in the
 universe whirl round in unceasing rotation. In the same column is the
@@ -74,7 +74,7 @@ constitute Ursa Major, popularly called "the dipper" in America and
 known in China as "the bushel."
 
 <span id="img_07000"></span> <span align="CENTER"> [![](tn/07000.jpg)  
-Click to enlarge](img/07000.jpg)</span>
+Click to enlarge](img/07000.jpg.md)</span>
 
 The satellite of the seventh star in Ursa Major is pictured as a smaller
 companion in the right hand corner in the field of his bigger brother.
@@ -87,7 +87,7 @@ as Tom Thumb always takes the initiative in all deeds and proves to be
 the saviour of his seven brothers.
 
 <span id="img_07100"></span> <span align="CENTER"> [![](tn/07100.jpg)  
-Click to enlarge](img/07100.jpg)</span>
+Click to enlarge](img/07100.jpg.md)</span>
 
 The seven stars of Ursa Major are very conspicuous in the northern
 firmament, and turn around in the sky like a big hand on the celestial
@@ -101,7 +101,7 @@ popular Chinese view as follows:
 "When the handle of the northern bushel (*Peh Tao*) points
 
 <span id="img_07200"></span> <span align="CENTER"> [![](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)</span>
+Click to enlarge](img/07200.jpg.md)</span>
 
 east at nightfall it is spring throughout the land; when it points
 south, it is summer; when west, it is autumn; and when north, winter."
@@ -116,7 +116,7 @@ symbolically identified in the imagination of the Chinese, with divine
 justice.
 
 <span id="img_07300"></span> <span align="CENTER"> [![](tn/07300.jpg)  
-Click to enlarge](img/07300.jpg)</span>
+Click to enlarge](img/07300.jpg.md)</span>
 
 The seven planets are here increased after the precedence of Hindu
 astrology by two three-headed figures called *Rahu* and *Ketu*, the
@@ -129,7 +129,7 @@ eclipses. Rahu represents the ascending and Ketu the descending nodes in
 the ecliptic.
 
 <span id="img_07400"></span> <span align="CENTER"> [![](tn/07400.jpg)  
-Click to enlarge](img/07400.jpg)</span>
+Click to enlarge](img/07400.jpg.md)</span>
 
 The nine personalities which correspond to the seven planets plus Rahu
 and Ketu are in Hindu mythology called: Surya, the Sun; Chandra, the
@@ -148,7 +148,7 @@ Mangala a ram, Buddha is seated on a
 
 <span id="img_07500"></span> <span align="CENTER"> [![A HINDU
 ZODIAC.](tn/07500.jpg)  
-Click to enlarge](img/07500.jpg)  
+Click to enlarge](img/07500.jpg.md)  
 A HINDU ZODIAC.  
 </span>
 
@@ -163,7 +163,7 @@ Next in order on our tables beginning with the second column
 
 <span id="img_07600"></span> <span align="CENTER"> [![THE ARMILLARY
 SPHERES OF THE PEKING OBSERVATORY](tn/07600.jpg)  
-Click to enlarge](img/07600.jpg)  
+Click to enlarge](img/07600.jpg.md)  
 THE ARMILLARY SPHERES OF THE PEKING OBSERVATORY  
 </span>
 
@@ -185,7 +185,7 @@ recompense her he had her
 
 <span id="img_07700"></span> <span align="CENTER"> [![THE SPINNING
 DAMSEL AND COWHERD.](tn/07700.jpg)  
-Click to enlarge](img/07700.jpg)  
+Click to enlarge](img/07700.jpg.md)  
 THE SPINNING DAMSEL AND COWHERD.  
 </span>
 
@@ -207,7 +207,7 @@ We know that the Chinese government has kept an imperial
 
 <span id="img_07800"></span> <span align="CENTER"> [![OBSERVATORY OF
 PEKING. GENERAL VIEW.](tn/07800.jpg)  
-Click to enlarge](img/07800.jpg)  
+Click to enlarge](img/07800.jpg.md)  
 OBSERVATORY OF PEKING. GENERAL VIEW.  
 </span>
 
@@ -217,7 +217,7 @@ astronomer since prehistoric times, for the office is mentioned in the
 earliest documents. The famous emperor Kang Hi erected
 
 <span id="img_07900"></span> <span align="CENTER"> [![](tn/07900.jpg)  
-Click to enlarge](img/07900.jpg)</span>
+Click to enlarge](img/07900.jpg.md)</span>
 
 a new observatory which was built according to the instructions of the
 Jesuit fathers whose learning at that time was highly respected
@@ -226,7 +226,7 @@ Jesuit fathers whose learning at that time was highly respected
 
 <span id="img_08000"></span> <span align="CENTER"> [![SPHERICAL
 ASTROLABE OF THE PEKING OBSERVATORY](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 SPHERICAL ASTROLABE OF THE PEKING OBSERVATORY  
 </span>
 
@@ -259,11 +259,11 @@ treasures of the Tartar capital of the Celestial Empire.
 
 ### Footnotes
 
-<span id="fn_41"></span>[66:\*](choc10.htm#fr_41) We wish to express
+<span id="fn_41"></span>[66:\*](choc10.htm#fr_41.md) We wish to express
 here our indebtedness to the National Museum and its officers, and
 especially to Prof. Otis T. Mason and Mr. George C. Maynard. for the
 reproduction of characteristic specimens of this interesting collection.
 
 ------------------------------------------------------------------------
 
-[Next: Prehistoric Connections](choc12)
+[Next: Prehistoric Connections](choc12.md)

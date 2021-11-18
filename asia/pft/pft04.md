@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft03)  [Next](pft05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft03)  [Next](pft05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ searching about in the underbrush, Aponibolinayen cried out with joy,
 for she had found the vine, and she started to pick the leaves. Pull as
 hard as she would, however, the leaves did not come loose, and all at
 once the vine wound itself around her body and began carrying her
-upward.  <span id="fr_0"></span>[1](pft68.htm#fn_0)
+upward.  <span id="fr_0"></span>[1](pft68.htm#fn_0.md)
 
 Far up through the air she went until she reached the sky, and there the
 vine set her down under a tree. Aponibolinayen was so surprised to find
@@ -41,7 +41,7 @@ about for some means of escape and finally climbed to the top of a
 betel-nut tree and hid.
 
 Now the owner of this house was Ini-init,  <span
-id="fr_1"></span>[2](pft68.htm#fn_1) the Sun, but he was never at home
+id="fr_1"></span>[2](pft68.htm#fn_1.md) the Sun, but he was never at home
 in the daylight, for it was his duty to shine in the sky and give light
 to all the world. At the close of the day when the Big Star took his
 place in the sky to shine through the night, Ini-init returned to his
@@ -52,13 +52,13 @@ Sun when he came home at evening time, and again the next morning she
 saw him leave. When she was sure that he was out of sight she climbed
 down and entered his dwelling, for she was very hungry. She cooked rice,
 and into a pot of boiling water she dropped a stick which immediately
-became fish,  <span id="fr_2"></span>[3](pft68.htm#fn_2) so that she had
+became fish,  <span id="fr_2"></span>[3](pft68.htm#fn_2.md) so that she had
 all she wished to eat. When she was no longer hungry, she lay down on
 the bed to sleep. Now late in the afternoon Ini-init returned from his
 work and went to fish in the river near his house, and he caught a big
 fish. While he sat on the bank cleaning his catch, he happened to look
 up toward his house and was startled to see that it appeared to be on
-fire.  <span id="fr_3"></span>[4](pft68.htm#fn_3) He hurried home, but
+fire.  <span id="fr_3"></span>[4](pft68.htm#fn_3.md) He hurried home, but
 when he reached the house he saw that it was not burning at all, and he
 entered. On his bed he beheld what looked like a flame of fire, but upon
 going closer he found that it was a beautiful woman fast asleep.
@@ -90,7 +90,7 @@ when he had reached the top he sprang in and shut the door behind him.
 
 Aponibolinayen, who was cooking rice over the fire, was surprised and
 angry that she had been caught; but the Sun gave her betel-nut  <span
-id="fr_4"></span>[5](pft68.htm#fn_4) which was covered with gold, and
+id="fr_4"></span>[5](pft68.htm#fn_4.md) which was covered with gold, and
 they chewed together and told each other their names. Then
 Aponibolinayen took up the rice and fish, and as they ate they talked
 together and became acquainted.
@@ -135,7 +135,7 @@ One night not long after this Aponibolinayen told her husband that she
 wanted to go with him the next day when he made light in the sky.
 
 "Oh, no, you cannot," said the Sun, "for it is very hot up there,  <span
-id="fr_5"></span>[6](pft68.htm#fn_5) and you cannot stand the heat."
+id="fr_5"></span>[6](pft68.htm#fn_5.md) and you cannot stand the heat."
 
 "We will take many blankets and pillows," said the woman, "and when the
 heat becomes very great, I will hide under them."
@@ -169,8 +169,8 @@ night"
 
 All were filled with joy that the lost one had returned, and they
 decided that at the next moon  <span
-id="fr_6"></span>[7](pft68.htm#fn_6) they would perform a ceremony for
-the spirits  <span id="fr_7"></span>[8](pft68.htm#fn_7) and invite all
+id="fr_6"></span>[7](pft68.htm#fn_6.md) they would perform a ceremony for
+the spirits  <span id="fr_7"></span>[8](pft68.htm#fn_7.md) and invite all
 the relatives who were mourning for Aponibolinayen.
 
 So they began to prepare for the ceremony, and while they were pounding
@@ -183,7 +183,7 @@ Aponibolinayen, but she would not tell them, and they decided to invite
 everyone in the world to the ceremony that they might not overlook him.
 
 They sent for the betel-nuts that were covered with gold,  <span
-id="fr_8"></span>[9](pft68.htm#fn_8) and when they had oiled them they
+id="fr_8"></span>[9](pft68.htm#fn_8.md) and when they had oiled them they
 commanded them to go to all the towns and compel the people to come to
 the ceremony.
 
@@ -209,7 +209,7 @@ The betel-nut went up to the Sun, who was in his house, and said:
 "Good morning, Sun. I have come to summon you to a ceremony which the
 father and mother of Aponibolinayen are making for the spirits. If you
 do not want to go, I will grow on your head."  <span
-id="fr_9"></span>[10](pft68.htm#fn_9)
+id="fr_9"></span>[10](pft68.htm#fn_9.md)
 
 "Grow on my head," said the Sun. "I do not wish to go."
 
@@ -230,7 +230,7 @@ eagerly for him to come up to them. As he drew near, however, they saw
 that he did not walk, for he was round; and then they perceived that he
 was not a man but a large stone. All her relatives were very angry to
 find that Aponibolinayen had married a stone; and they compelled her to
-take off her beads  <span id="fr_10"></span>[11](pft68.htm#fn_10) and
+take off her beads  <span id="fr_10"></span>[11](pft68.htm#fn_10.md) and
 her good clothes, for, they said, she must now dress in old clothes and
 go again to live with the stone.
 
@@ -240,12 +240,12 @@ however, than he became a handsome man, and they were very happy.
 
 "In one moon," said the Sun, "we will make a ceremony for the spirits,
 and I will pay your father and mother the marriage price  <span
-id="fr_11"></span>[12](pft68.htm#fn_11) for you."
+id="fr_11"></span>[12](pft68.htm#fn_11.md) for you."
 
 This pleased Aponibolinayen very much, and they used magic so that they
 had many neighbors who came to pound rice  <span
-id="fr_12"></span>[13](pft68.htm#fn_12) for them and to build a large
-spirit house.  <span id="fr_13"></span>[14](pft68.htm#fn_13)
+id="fr_12"></span>[13](pft68.htm#fn_12.md) for them and to build a large
+spirit house.  <span id="fr_13"></span>[14](pft68.htm#fn_13.md)
 
 Then they sent oiled betel-nuts to summon their relatives to the
 ceremony. The father of Aponibolinayen did not want to go, but the
@@ -260,7 +260,7 @@ Aponibolinayen's own town, and the people all rejoiced that this couple
 had found the son whom they had thought lost. They named him Aponitolau,
 and his parents paid the marriage price for his wife—the spirit house
 nine times full of valuable jars.  <span
-id="fr_14"></span>[15](pft68.htm#fn_14)
+id="fr_14"></span>[15](pft68.htm#fn_14.md)
 
 After that all danced and made merry for one moon, and when the people
 departed for their homes Ini-init and his wife went with them to live on
@@ -268,4 +268,4 @@ the earth.
 
 ------------------------------------------------------------------------
 
-[Next: Aponibolinayen](pft05)
+[Next: Aponibolinayen](pft05.md)

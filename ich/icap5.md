@@ -1,6 +1,6 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Intangible Textual Heritage](../index)  [Index](index) 
-[Previous](icap4-2)  [Next](icap6) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Intangible Textual Heritage](../index)  [Index](index.md) 
+[Previous](icap4-2)  [Next](icap6.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 ### Treatise of Remarks on the Trigrams
 
-Chapter  <span id="fr_286"></span>[I](#fn_286). 1. Anciently, when the
+Chapter  <span id="fr_286"></span>[I](#fn_286.md). 1. Anciently, when the
 sages made the Yî, in order to give mysterious assistance to the
 spiritual Intelligences, they produced (the rules for the use of) the
 divining plant.
@@ -30,7 +30,7 @@ what was appointed for it (by Heaven).
 
 <span id="page_423">p. 423</span>
 
-Chapter  <span id="fr_287"></span>[II](#fn_287). 4. Anciently, when the
+Chapter  <span id="fr_287"></span>[II](#fn_287.md). 4. Anciently, when the
 sages made the Yî, it was with the design that (its figures) should be
 in conformity with the principles underlying the natures (of men and
 things), and the ordinances (for them) appointed (by Heaven). With this
@@ -46,7 +46,7 @@ made of (the places assigned) to the yin and yang lines, which were
 variously occupied, now by the strong and now by the weak forms, and
 thus the figure (of each hexagram) was completed.
 
-Chapter  <span id="fr_288"></span>[III](#fn_288). 5. (The symbols of)
+Chapter  <span id="fr_288"></span>[III](#fn_288). 5. (The symbols of.md)
 heaven and earth received their determinate positions; (those for)
 mountains and collections of water interchanged their influences; (those
 for) thunder and wind excited each other the more; and (those for) water
@@ -59,13 +59,13 @@ anticipation (and the natural process).
 
 <span id="page_425">p. 425</span>
 
-Chapter  <span id="fr_289"></span>[IV](#fn_289). 7. Thunder serves to
+Chapter  <span id="fr_289"></span>[IV](#fn_289.md). 7. Thunder serves to
 put things in motion; wind to scatter (the genial seeds of) them; rain
 to moisten them; the sun to warm them; (what is symbolised by) Kăn, to
 arrest (and keep them in their places); (by) Tui, to give them joyful
 course; (by) *Kh*ien, to rule them; and by Khwăn, to store them up.
 
-Chapter  <span id="fr_290"></span>[V](#fn_290). 8. God comes forth in
+Chapter  <span id="fr_290"></span>[V](#fn_290.md). 8. God comes forth in
 *K*ăn (to His producing work); He brings (His processes) into full and
 equal action in Sun; they are manifested to one another in Lî; the
 greatest service is done for Him in Khwăn; He rejoices in Tui; He
@@ -100,7 +100,7 @@ said, 'He completes (the work of the year) in Kăn.'
 
 <span id="page_427">p. 427</span>
 
-Chapter  <span id="fr_291"></span>[VI](#fn_291). 10. When we speak of
+Chapter  <span id="fr_291"></span>[VI](#fn_291.md). 10. When we speak of
 Spirit we mean the subtle (presence and operation of God) with all
 things. For putting all things in motion there is nothing more vehement
 than thunder; for scattering them there is nothing more effective than
@@ -116,7 +116,7 @@ transform, and to give completion to all things.
 
 <span id="page_428">p. 428</span>
 
-Chapter  <span id="fr_292"></span>[VII](#fn_292). 11. *Kh*ien is (the
+Chapter  <span id="fr_292"></span>[VII](#fn_292.md). 11. *Kh*ien is (the
 symbol of) strength; Khwăn, of docility; *K*ăn, of stimulus to movement;
 Sun, of penetration; Khan, of what is precipitous and perilous; Lî, of
 what is bright and what is catching; Kăn, of stoppage or arrest; and
@@ -124,17 +124,17 @@ Tui, of pleasure and satisfaction.
 
 <span id="page_429">p. 429</span>
 
-Chapter  <span id="fr_293"></span>[VIII](#fn_293). 12. *Kh*ien (suggests
+Chapter  <span id="fr_293"></span>[VIII](#fn_293.md). 12. *Kh*ien (suggests
 the idea of) a horse; Khwăn, that of an ox; *K*ăn, that of the dragon;
 Sun, that of a fowl; Khan, that of a pig; Lî, that of a pheasant; Kăn,
 that of a dog; and Tui, that of a sheep.
 
-Chapter  <span id="fr_294"></span>[IX](#fn_294), 13. *Kh*ien suggests
+Chapter  <span id="fr_294"></span>[IX](#fn_294.md), 13. *Kh*ien suggests
 the idea of the head; Khwăn, that of the belly; *K*ăn, that of the feet
 Sun, that of the thighs; Khan, that of the cars Lî, that of the eyes;
 Kăn, that of the hands and Tui, that of the mouth.
 
-Chapter  <span id="fr_295"></span>[X](#fn_295). 14. *Kh*ien is (the
+Chapter  <span id="fr_295"></span>[X](#fn_295.md). 14. *Kh*ien is (the
 symbol of) heaven, and hence has the appellation of father. Khwăn is
 (the symbol of) earth, and hence has the appellation of mother, *K*ăn
 shows a first application (of Khwăn to *Kh*ien), resulting in getting
@@ -155,7 +155,7 @@ hence is called 'the youngest son.' Tui shows a third application (of
 *Kh*ien to Khwăn), resulting in getting (the third of) its female (or
 divided lines), and hence is called 'the youngest daughter.'
 
-Chapter  <span id="fr_296"></span>[XI](#fn_296). 15. *Kh*ien suggests
+Chapter  <span id="fr_296"></span>[XI](#fn_296.md). 15. *Kh*ien suggests
 the idea of heaven; of a circle; of a ruler; of a father; of jade; of
 metal; of cold; of ice; of deep red; of a good horse; of an old horse;
 of a thin horse; of a piebald horse; and of the fruit of trees.
@@ -224,7 +224,7 @@ salt; of a concubine; and of a sheep.
 
 ### Footnotes
 
-<span id="fn_286"></span>[422:I](icap5.htm#fr_286) Chapter I, paragraphs
+<span id="fn_286"></span>[422:I](icap5.htm#fr_286.md) Chapter I, paragraphs
 1-3, treats of the rise of the scheme of the Yî from the wonderful
 qualities of the divining plant, the use of certain numbers, and the
 formation of the lineal figures.
@@ -272,7 +272,7 @@ id="img_dyad01"></span> ![](img/dyad01.jpg), the young yin, = 8; <span
 id="img_dyad10"></span> ![](img/dyad10.jpg), the young yang, = 7; and
 <span id="img_dyad00"></span> ![](img/dyad00.jpg), the old yin, = 6.
 
-<span id="fn_287"></span>[424:II](icap5.htm#fr_287) Chapter II. The top
+<span id="fn_287"></span>[424:II](icap5.htm#fr_287.md) Chapter II. The top
 line in each trigram thus belongs to the category of heaven; the bottom
 line to that of earth; and the middle line to that of man. The odd
 places should be occupied, 1 correctly,' by the undivided lines; and the
@@ -283,7 +283,7 @@ regard to earth; while 3 represents the benevolence of man, and 4 his
 righteousness. But all this is merely the play of fancy, and confuses
 the mind of the student.
 
-<span id="fn_288"></span>[424:III](icap5.htm#fr_288) Chapter III,
+<span id="fn_288"></span>[424:III](icap5.htm#fr_288.md) Chapter III,
 paragraphs 5 and 6, is understood, though not very clearly, by referring
 to the circular arrangement of the trigrams according to Fû-hsî, as
 shown in Figure 2, of Plate III. Paragraph 5 refers to the correlation
@@ -297,14 +297,14 @@ the 64 hexagrams in Plate I. But what the scope of the paragraph is I
 cannot tell, and am tempted to say of it, as P. Regis does, 'Haec
 observatio prorsus inanis est.'
 
-<span id="fn_289"></span>[425:IV](icap5.htm#fr_289) In chapter IV we
+<span id="fn_289"></span>[425:IV](icap5.htm#fr_289.md) In chapter IV we
 have the same circular arrangement of the trigrams, though they are
 named in a different order; the last first and the first last. The first
 four are mentioned by their elemental names; the last four by the names
 of their lineal figures. No special significance is attached to this. If
 it ever had any, it has been lost.
 
-<span id="fn_290"></span>[426:V](icap5.htm#fr_290) Chapter V, paragraphs
+<span id="fn_290"></span>[426:V](icap5.htm#fr_290.md) Chapter V, paragraphs
 8 and 9, sets forth the operations of nature in the various seasons, as
 being really the operations of God, who is named Tî, 'the Lord and Ruler
 of Heaven.' Those operations are represented in the progress by the
@@ -327,7 +327,7 @@ says:--'The earth performs the part of a mother, All things are its
 children. What a mother has to do for her children is simply to nourish
 them.'
 
-<span id="fn_291"></span>[427:VI](icap5.htm#fr_291) Chapter VI is the
+<span id="fn_291"></span>[427:VI](icap5.htm#fr_291.md) Chapter VI is the
 sequel of the preceding. There ought to have been some mention of Shăn
 or, Spirit' in chapter 5. It is the first character in this chapter, and
 the two characters that follow show that it is here resumed for the
@@ -335,7 +335,7 @@ purpose of being explained. As it does not occur in chapter 5, we must
 suppose that the author of it here brings forward and explains the idea
 of it that was in his mind. Many of the commentators recognise this,--e.
 g. Liang Yin, as quoted in the Introduction, [p.
-33](icintr03.htm#page_33).
+33](icintr03.htm#page_33.md).
 
 Two other peculiarities in the style of the chapter are pointed out and
 explained (after a fashion) by Žhui *K*ing (earlier, probably, than the
@@ -353,7 +353,7 @@ account the name of the trigram is given, while the things in nature
 represented by the trigrams are given in those other cases. The style
 suitable in each case is employed.'
 
-<span id="fn_292"></span>[428:VII](icap5.htm#fr_292) Chapter VII
+<span id="fn_292"></span>[428:VII](icap5.htm#fr_292.md) Chapter VII
 mentions the attributes, called also the 'virtues,' of the different
 trigrams. It is not easy to account for the qualities--'their nature and
 feelings'--ascribed to them. Khung Ying-tâ says:--'*Kh*ien is
@@ -381,34 +381,34 @@ unsatisfactory than the other. The editors say, <span id="page_429">p.
 Tui incorrect; but this would be based on king Wăn's arrangement, which
 does not appear to have place here.
 
-<span id="fn_293"></span>[429:VIII](icap5.htm#fr_293) Chapter VIII. In
-the Great Appendix, [p. 383](icap3-2.htm#page_383), it is said that
+<span id="fn_293"></span>[429:VIII](icap5.htm#fr_293.md) Chapter VIII. In
+the Great Appendix, [p. 383](icap3-2.htm#page_383.md), it is said that
 Fû-hsî, in making his trigrams, was guided by 'the consideration of
 things apart from his own person.' Of such things we have a specimen
 here. The creatures are assigned, in their classes, to the different
 trigrams, symbolising the ideas in the last chapter. We must not make
 any difference of sex in translating their names.
 
-<span id="fn_294"></span>[429:IX](icap5.htm#fr_294) Chapter IX. Fû-hsî
+<span id="fn_294"></span>[429:IX](icap5.htm#fr_294.md) Chapter IX. Fû-hsî
 found also 'things near at hand, in his own person,' while making the
 trigrams. We have here a specimen of such things.
 
-<span id="fn_295"></span>[430:X](icap5.htm#fr_295) Chapter X has been
-discussed in the Introduction, pp. [49](icintr03.htm#page_49) and
-[50](icintr03.htm#page_50). Let it simply be added here, that the
+<span id="fn_295"></span>[430:X](icap5.htm#fr_295.md) Chapter X has been
+discussed in the Introduction, pp. [49](icintr03.htm#page_49.md) and
+[50](icintr03.htm#page_50.md). Let it simply be added here, that the
 account which it does give of the formation of the six subsidiary
 trigrams is inconsistent with their gradual rise from the mutual
 imposition of the undivided and divided lines.
 
-<span id="fn_296"></span>[432:XI](icap5.htm#fr_296) Chapter XI may be
+<span id="fn_296"></span>[432:XI](icap5.htm#fr_296.md) Chapter XI may be
 made to comprehend all the paragraphs from the 15th to the end, and
 shows how universally the ideas underlying the Yî are diffused through
 the world of nature. The quality of the several trigrams will be found
 with more or less of truth, and with less or more of fancy, in the
 objects mentioned in connexion with them. More needs not to be said on
 the chapter than has been done in the Introduction, pp.
-[53](icintr03.htm#page_53) and [54](icintr03.htm#page_54).
+[53](icintr03.htm#page_53) and [54](icintr03.htm#page_54.md).
 
 ------------------------------------------------------------------------
 
-[Next: Appendix VI: The Orderly Sequence of the Hexagrams](icap6)
+[Next: Appendix VI: The Orderly Sequence of the Hexagrams](icap6.md)

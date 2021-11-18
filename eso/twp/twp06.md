@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp05)  [Next](twp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp05)  [Next](twp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -551,4 +551,4 @@ who know carry the Lamp and Sword, and the universe is theirs.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](twp07)
+[Next: Chapter V](twp07.md)

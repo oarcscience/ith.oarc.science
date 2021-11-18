@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth042)  [Next](toth044) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth042)  [Next](toth044.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 40. HOW HIYÓNATITIWA DEFEATED THE PLAN OF HIS ENEMIES. <span id="fr_102"></span>[1](#fn_100)
+## 40. HOW HIYÓNATITIWA DEFEATED THE PLAN OF HIS ENEMIES. <span id="fr_102"></span>[1](#fn_100.md)
 
 Halíksai! In Oraíbi they were living. At the place where now Hóngsi and
 Nákwsu live, lived a maiden who refused all offers of marriage. The
@@ -156,9 +156,9 @@ the Young man's wife, and he forever afterwards lived with her.
 
 ### Footnotes
 
-<span id="fn_100"></span>[146:1](toth043.htm#fr_102) Told by Lománömtiwa
+<span id="fn_100"></span>[146:1](toth043.htm#fr_102.md) Told by Lománömtiwa
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 41. The Shongópavi Maiden Who Turned Into A Dog](toth044)
+[Next: 41. The Shongópavi Maiden Who Turned Into A Dog](toth044.md)

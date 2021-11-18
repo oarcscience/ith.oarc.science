@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce10)  [Next](sce12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce10)  [Next](sce12.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ whole Univerƒe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](sce12)
+[Next: Chapter 2](sce12.md)

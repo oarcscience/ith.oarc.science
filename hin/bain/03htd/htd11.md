@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](htd10)  [Next](htd12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](htd10)  [Next](htd12.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ angry with himself, and more in love with the *chétí* than before.
 
 ------------------------------------------------------------------------
 
-[Next: Kadamba](htd12)
+[Next: Kadamba](htd12.md)

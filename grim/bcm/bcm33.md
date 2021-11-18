@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm32)  [Next](bcm34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm32)  [Next](bcm34.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ hand. The words are: CROSTES, FURINOT, KATIPA, GARINOS.
 
 ------------------------------------------------------------------------
 
-[Next: Talismans of the Sage of the Pyramids: XVII, XVIII](bcm34)
+[Next: Talismans of the Sage of the Pyramids: XVII, XVIII](bcm34.md)

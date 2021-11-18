@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk15)  [Next](htk17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk15)  [Next](htk17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -29,11 +29,11 @@ at Intangible Textual Heritage
 
 O MOTHER, Thou givest birth to and protectest the world, and at the time
 of dissolution dost withdraw to Thyself <span
-id="fr_99"></span>[1](#fn_99) the earth and all things; therefore Thou
+id="fr_99"></span>[1](#fn_99.md) the earth and all things; therefore Thou
 art Brahmā, and the Lord of the three worlds, the Spouse of Śrī, <span
-id="fr_100"></span>[2](#fn_100) and Maheśa, <span
-id="fr_101"></span>[3](#fn_101) and all other beings and things. <span
-id="fr_102"></span>[4](#fn_102) Ah Me! how, then, shall I praise Thy
+id="fr_100"></span>[2](#fn_100.md) and Maheśa, <span
+id="fr_101"></span>[3](#fn_101.md) and all other beings and things. <span
+id="fr_102"></span>[4](#fn_102.md) Ah Me! how, then, shall I praise Thy
 greatness?
 
 COMMENTARY
@@ -72,17 +72,17 @@ Viṣṇu and Rudra are Her Vikṛtis.'
 
 ### Footnotes
 
-<span id="fn_99"></span>[72:1](htk16.htm#fr_99) It is commonly said that
+<span id="fn_99"></span>[72:1](htk16.htm#fr_99.md) It is commonly said that
 She destroys but not so. Devatā does not destroy (*Na devo nāśakah*).
 Man does. She takes back what She has put forth.
 
-<span id="fn_100"></span>[72:2](htk16.htm#fr_100) *Viṣṇu*, husband of
+<span id="fn_100"></span>[72:2](htk16.htm#fr_100.md) *Viṣṇu*, husband of
 *Lakṣmi*.
 
-<span id="fn_101"></span>[72:3](htk16.htm#fr_101) *Śiva*. The *Trimūrti*
+<span id="fn_101"></span>[72:3](htk16.htm#fr_101.md) *Śiva*. The *Trimūrti*
 is, in fact, Her manifestation.
 
-<span id="fn_102"></span>[72:4](htk16.htm#fr_102) *Prāyah sakalaṁ api*,
+<span id="fn_102"></span>[72:4](htk16.htm#fr_102.md) *Prāyah sakalaṁ api*,
 that is, all moving and unmoving things (Commentary, K.B.). For the Devī
 is *Viśvarūpiṇī* in the form of the whole universe. She is the objective
 world, '*jadātmikā*' (Lalitā, verse 90), as well as its Cause.
@@ -91,6 +91,6 @@ world, '*jadātmikā*' (Lalitā, verse 90), as well as its Cause.
 
 ------------------------------------------------------------------------
 
-[Next: Verse 13](htk17)
+[Next: Verse 13](htk17.md)
 
 </div>

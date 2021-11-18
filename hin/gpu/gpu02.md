@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu01)  [Next](gpu03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu01)  [Next](gpu03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -116,12 +116,12 @@ better use of its faculties. Says Yājñavalkya in verse 218 of the Third
 
 <span class="contnote">\[paragraph continues\]</span> Adhyāya that the
 lords of mercy place such souls in very favourable circumstances
-afterwards. <span id="fr_0"></span>[\*](#fn_0)
+afterwards. <span id="fr_0"></span>[\*](#fn_0.md)
 
 But if the soul so favourably placed, omits to do good action or commits
 evil deeds again, and leaves its senses unrestrained, there is again a
 fall for that soul, as is mentioned in the next verse. <span
-id="fr_1"></span>[†](#fn_1)
+id="fr_1"></span>[†](#fn_1.md)
 
 Is there any physical Hell also, or is it in the astral plane only? As
 Heaven is both physical and astral, and as the Svarga is on the physical
@@ -141,7 +141,7 @@ poet like Dante, and the great sage Rāmkṛiṣna Paramahaṃsa.
 Is there any means by which a man may save himself from the pains of
 hell? On this point, our ancient authors held different opinions. One
 class of thinkers held the view that sin could not be expiated by any
-act of man, however [meritorious](errata.htm#0) it be in its nature, but
+act of man, however [meritorious](errata.htm#0.md) it be in its nature, but
 one must suffer the full consequences of his sins. The later view, which
 has gained ascendency now, is that for the intentional mortal sins--kāma
 kṛitamahāpātaka,--there is no penance, except the death penance, which
@@ -187,11 +187,11 @@ no penance.
 
 ### Footnotes
 
-<span id="fn_0"></span>[iii:\*](gpu02.htm#fr_0) "Afterwards freed from
+<span id="fn_0"></span>[iii:\*](gpu02.htm#fr_0.md) "Afterwards freed from
 all sins, they are born in high families, where they enjoy pleasures,
 and become accomplished in arts and sciences, and possessed of wealth."
 
-<span id="fn_1"></span>[iii:†](gpu02.htm#fr_1) Mandalik's Hindu Law, p.
+<span id="fn_1"></span>[iii:†](gpu02.htm#fr_1.md) Mandalik's Hindu Law, p.
 265, verse 219.
 
 <div class="filenav">
@@ -199,6 +199,6 @@ and become accomplished in arts and sciences, and possessed of wealth."
 ------------------------------------------------------------------------
 
 [Next: Chapter I. An Account of the Miseries of the Sinful in this World
-and the Other](gpu03)
+and the Other](gpu03.md)
 
 </div>

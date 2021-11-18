@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt51)  [Next](egt53) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt51)  [Next](egt53.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ the devil, lest he put ears on the sides of thy head.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE KALIMA.](egt53)
+[Next: ON THE KALIMA.](egt53.md)

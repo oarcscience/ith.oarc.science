@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs34)  [Next](pifs36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs34)  [Next](pifs36.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ As the door opened to admit stalwart Francisco to the big flickering
 room where we were all sitting in silence, the long, shrill wail of a
 Coyote, away up on the Accursed Hill, blew in after him on the
 boisterous March wind. The boys pricked up their ears; and bright-faced
-Manuelito <span id="fr_109"></span>[1](#fn_108) turned to his
+Manuelito <span id="fr_109"></span>[1](#fn_108.md) turned to his
 white-headed grandfather, and said:
 
 "*Tata*, why is it that Too-wháy-deh always howls so? Perhaps he has a
@@ -41,7 +41,7 @@ snakes are coming out from their winter houses. After that, we must not
 tell of the Things of Old. For it is very long ago; and if one made a
 mistake in telling, and said that which was not all true,
 *Ch'áh-rah-ráh-deh* would bite him, and he would die. <span
-id="fr_110"></span>[1](#fn_109) But this one I will tell thee."
+id="fr_110"></span>[1](#fn_109.md) But this one I will tell thee."
 
  
 
@@ -113,7 +113,7 @@ Then he drew from his left-hand bag the roots one by one; and last of
 all, the root of the chee-ma-hár, explaining what it had done for
 Kee-oo-ée-deh. He pounded it to powder with a stone, and mixed it with
 fat; and spreading it on flat leaves, put it to the Coyote's jaw. And in
-a little the pain was gone. <span id="fr_111"></span>[1](#fn_110)
+a little the pain was gone. <span id="fr_111"></span>[1](#fn_110.md)
 
 At that the Mountain Lion, the Bear, the Buffalo, and all the other
 Captains of Four-feet, declared T'hoo-chée-deh the
@@ -137,7 +137,7 @@ Of those he taught, there was one who was not a True Believer--the
 Badger. But he listened also, and made as if he believed all. With time,
 the teaching was done; and T'hoo-chée-deh sent all his assistant doctors
 home to their own peoples to heal. But whenever one of them was asked
-with the sacred corn-meal <span id="fr_112"></span>[1](#fn_111) to come
+with the sacred corn-meal <span id="fr_112"></span>[1](#fn_111.md) to come
 and cure a sick one, he always came first to get the Father, the
 Field-Mouse, to accompany and help him.
 
@@ -234,7 +234,7 @@ any more. When they sing of him in the sacred places, they make
 his house great, calling it *koor-óo-hlee naht-hóo*, the Mountain of the
 Chapparo. And him they call not T'hoo-chée-deh, the Field-Mouse, but
 *Pee-íd-deh p'ah-hláh-queer*, the Deer-by-the-River, that he may not
-seem of little honor. <span id="fr_113"></span>[1](#fn_112) For he was
+seem of little honor. <span id="fr_113"></span>[1](#fn_112.md) For he was
 the Father of Medicine, and taught us how to cure the sick.
 
  
@@ -258,32 +258,32 @@ his toothache, swelled across the sleeping village of the Tée-wahn.
 
 ### Footnotes
 
-<span id="fn_108"></span>[232:1](pifs35.htm#fr_109) Pronounced
+<span id="fn_108"></span>[232:1](pifs35.htm#fr_109.md) Pronounced
 Mahn-way-lée-to.
 
-<span id="fn_109"></span>[233:1](pifs35.htm#fr_110) A fixed belief among
+<span id="fn_109"></span>[233:1](pifs35.htm#fr_110.md) A fixed belief among
 the Pueblos, who will tell none of their myths between the Spring
 Medicine-Making, in March, and the Fall Medicine- Making, in October,
 lest the rattlesnake punish them for some slip from the truth.
 
-<span id="fn_110"></span>[235:1](pifs35.htm#fr_111) This cure is still
+<span id="fn_110"></span>[235:1](pifs35.htm#fr_111.md) This cure is still
 practised among the Tée-wahn. The sovereign remedy for toothache,
 however, is to go to the *estufa* after dark, carrying food in the left
 hand, march round inside the big circular room three times, leave the
 food under the secret recess in the wall where the scalps taken in old
 wars are kept, and then come out. The toothache is always left behind!
 
-<span id="fn_111"></span>[236:1](pifs35.htm#fr_112) The necessary
+<span id="fn_111"></span>[236:1](pifs35.htm#fr_112.md) The necessary
 accompaniment, among the Pueblos, of a call for the doctor. In some
 cases, the sacred smoking-herb was used. Either article was wrapped in
 corn-husk. See, also, "Some Strange Corners of Our Country," chapters
 xviii and xx.
 
-<span id="fn_112"></span>[239:1](pifs35.htm#fr_113) This is not an
+<span id="fn_112"></span>[239:1](pifs35.htm#fr_113.md) This is not an
 exception. Nearly all the animals known to the Tée-wahn have not only
 their common name, but a ceremonial and sacred one, which is used
 exclusively in the songs and rites.
 
 ------------------------------------------------------------------------
 
-[Next: XXXIII. A Pueblo Fairy Tale and the Way it was Told](pifs36)
+[Next: XXXIII. A Pueblo Fairy Tale and the Way it was Told](pifs36.md)

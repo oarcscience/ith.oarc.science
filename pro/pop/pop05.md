@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop04)  [Next](pop06) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop04)  [Next](pop06.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ DIXI
 
 ------------------------------------------------------------------------
 
-[Next: The First Figure](pop06)
+[Next: The First Figure](pop06.md)

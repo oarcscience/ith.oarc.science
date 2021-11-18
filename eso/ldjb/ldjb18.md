@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb17)  [Next](ldjb19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb17)  [Next](ldjb19.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -131,7 +131,7 @@ mankind, because that "Church" is not a system wherein the qualities of
 the light are described, but the light itself, and only the light can
 overcome the darkness; the darkness cannot redeem itself. That light can
 only be found in itself, but not in the darkness, where it has not
-become manifest. <span id="fr_235"></span>[1](#fn_235)
+become manifest. <span id="fr_235"></span>[1](#fn_235.md)
 
  
 
@@ -208,7 +208,7 @@ within himself.
  
 
 Nevertheless this is exactly that which the inhabitants of Babel are not
-willing to see. <span id="fr_236"></span>[1](#fn_236) They seek for God
+willing to see. <span id="fr_236"></span>[1](#fn_236.md) They seek for God
 everywhere except within the Divinity that is dormant within themselves.
 They dream of some God in the sky whom they expect to come and to save
 them, while they neglect to save themselves. They seek for information
@@ -270,7 +270,7 @@ all the depths of the soul, then will the darkness cease to exist, and
 as man will thereby come into possession of real self-knowledge, there
 will be nothing that he does not know, for man himself will then be the
 Truth, the Christ; the All having been swallowed up by the Christ in Him
-who is the Lord <span id="fr_237"></span>[1](#fn_237) of all. Therefore
+who is the Lord <span id="fr_237"></span>[1](#fn_237.md) of all. Therefore
 Boehme says:—
 
 "The Man-Christ (man having become Christ by Christ becoming man) is
@@ -368,7 +368,7 @@ be nothing but a delusion, and his divine self All in the Christ.
 
 ### Footnotes
 
-<span id="fn_235"></span>[314:1](ldjb18.htm#fr_235) "Abel is the
+<span id="fn_235"></span>[314:1](ldjb18.htm#fr_235.md) "Abel is the
 fundamental church representing God. The church of Cain is to be
 converted through Abel. Therefore God has not rejected the church of
 Cain in so far as not to be willing to receive any member thereof; but
@@ -384,10 +384,10 @@ enter the temple of Christ. Nevertheless there is no other salvation
 than to enter out of death into life. Unless you do so you will for ever
 remain in darkness." (*Threefold Life*, xi. 81.)
 
-<span id="fn_236"></span>[316:1](ldjb18.htm#fr_236) Every one thinks he
+<span id="fn_236"></span>[316:1](ldjb18.htm#fr_236.md) Every one thinks he
 does not belong to Babel, but Babel is as big as the world.
 
-<span id="fn_237"></span>[318:1](ldjb18.htm#fr_237) "A thing which is a
+<span id="fn_237"></span>[318:1](ldjb18.htm#fr_237.md) "A thing which is a
 unity, having only one will, does not fight against itself; but if there
 are many different kinds of will in one thing, each of them then wants
 to go its own way. If one will is the *Lord* over the others, having
@@ -408,6 +408,6 @@ endows them with mildness." (*Six Points*, iv. 4.)
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](ldjb19)
+[Next: Appendix](ldjb19.md)
 
 </div>

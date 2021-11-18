@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah12)  [Next](mah14) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah12)  [Next](mah14.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ every effort towards faith.
 
 ------------------------------------------------------------------------
 
-[Next: Chaper XI: Education And Training Of The Individual](mah14)
+[Next: Chaper XI: Education And Training Of The Individual](mah14.md)

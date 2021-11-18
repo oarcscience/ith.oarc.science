@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](blc05)  [Next](blc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](blc05)  [Next](blc07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Babylonian Legends of Creation*, by E. A. Wallis Budge, \[1921\],
 at Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ reads:--
 
 <span id="img_006"></span> <span align="CENTER"> [![Babylonian Monster.
 \[No. 108,979.\]](tn/006.png)  
-Click to enlarge](img/006.png)  
+Click to enlarge](img/006.png.md)  
 Babylonian Monster. \[No. 108,979.\]  
 </span>
 
@@ -53,7 +53,7 @@ were preserved delineations in the temple of Belus at Babylon."
 
 <span id="img_007"></span> <span align="CENTER"> [![Babylonian Demon.
 \[No. 93,089.\]](tn/007.png)  
-Click to enlarge](img/007.png)  
+Click to enlarge](img/007.png.md)  
 Babylonian Demon. \[No. 93,089.\]  
 </span>
 
@@ -71,7 +71,7 @@ allegorical description of nature."
 
 "For, the whole universe consisting of moisture, and animals being
 generated therein, the deity above-mentioned <span
-id="fr_5"></span>[6](blc17.htm#fn_5) took off his own head: upon which
+id="fr_5"></span>[6](blc17.htm#fn_5.md) took off his own head: upon which
 the other gods mixed the blood, as it gushed out, with the earth; and
 from whence were formed men. On this account it is that they are
 rational and partake of divine knowledge."
@@ -82,7 +82,7 @@ rational and partake of divine knowledge."
 separated the Heavens from the Earth, and reduced the universe to order.
 But the animals not being able to bear the prevalence of light, died.
 Belus upon this, seeing a vast space unoccupied, though by nature
-fruitful, commanded one <span id="fr_6"></span>[7](blc17.htm#fn_6) of
+fruitful, commanded one <span id="fr_6"></span>[7](blc17.htm#fn_6.md) of
 the gods to take off his head, and to mix the blood with the earth; and
 from thence to form other men and animals, which should be capable of
 bearing the air. Belus formed also the stars, and the sun, and the moon,
@@ -107,4 +107,4 @@ Demiurgus." (See Cory, *Ancient Fragments*, London, 1832, p. 318.)
 ------------------------------------------------------------------------
 
 [Next: The Seven Tablets of Creation. Description of Their
-Contents](blc07)
+Contents](blc07.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic25)  [Next](tic27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic25)  [Next](tic27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,8 +59,8 @@ he has entrusted it; doubtless the latter would value the diamond more
 highly through remembering its wonderful lustre. This may be compared to
 what happens when our Lord is pleased to caress the soul. He shows it in
 vision His most sacred Humanity under whatever form He chooses; either
-as He was during His life on earth <span id="fr_356"></span>[1](#fn_356)
-or after His resurrection. <span id="fr_357"></span>[2](#fn_357) The
+as He was during His life on earth <span id="fr_356"></span>[1](#fn_356.md)
+or after His resurrection. <span id="fr_357"></span>[2](#fn_357.md) The
 vision passes as quickly as a flash of lightning, yet this most glorious
 picture makes an impression on the imagination that I believe can never
 be effaced until the soul at last sees Christ to enjoy Him for ever.
@@ -79,7 +79,7 @@ eyes.
 3\. The image is seen by the interior sight alone; but of bodily
 apparitions I can say nothing, for the person I know so intimately never
 having experienced anything of the kind herself could not speak about
-them with certainty. <span id="fr_358"></span>[3](#fn_358) The splendour
+them with certainty. <span id="fr_358"></span>[3](#fn_358.md) The splendour
 of Him Who is revealed in the vision resembles an infused light like
 that of the sun covered with a veil as transparent as a diamond, if such
 a texture could be woven, while His raiment looks like fine linen. The
@@ -102,18 +102,18 @@ comest as our Judge, since now,
 
 when Thou comest as a Friend to Thy spouse, the sight of Thee strikes us
 with such awe? O daughters! what will it be when He says in wrath: 'Go,
-accursed of my Father?' <span id="fr_359"></span>[4](#fn_359)Let this
+accursed of my Father?' <span id="fr_359"></span>[4](#fn_359.md)Let this
 impression be the result of this favour granted by God to the soul and
 we shall reap no little benefit from it, since St. Jerome, saint as he
 was, ever kept the thought of the last judgment before his eyes. <span
-id="fr_360"></span>[5](#fn_360) Thus we shall care nothing what
+id="fr_360"></span>[5](#fn_360.md) Thus we shall care nothing what
 sufferings we endure from the austerities of our Rule, for long as they
 may last, the time is but a moment compared to this eternity of pain. I
 sincerely assure you that, wicked as I am, I have never feared the
-torments of hell <span id="fr_361"></span>[6](#fn_361) for they have
+torments of hell <span id="fr_361"></span>[6](#fn_361.md) for they have
 seemed to me as nothing when I remembered that the lost would see the
 beautiful, meek and pitiful eyes of our Lord turned on them in
-wrath. <span id="fr_362"></span>[7](#fn_362) I have thought all my life
+wrath. <span id="fr_362"></span>[7](#fn_362.md) I have thought all my life
 that this would be more than my heart could bear.
 
 5\. How much more must any one fear this to whom our Lord so revealed
@@ -147,7 +147,7 @@ the mind, when suddenly the vision is revealed in its entirety, causing
 within the powers and senses of the soul a fright and confusion soon
 changed into a blissful peace. Thus, after St. Paul was thrown to the
 ground, a great tempest and noise followed from heaven; <span
-id="fr_363"></span>[8](#fn_363) so, in the interior world of the soul,
+id="fr_363"></span>[8](#fn_363.md) so, in the interior world of the soul,
 there is a violent tumult followed instantly, as I said, by
 
 <span id="page_241">p. 241</span>
@@ -163,10 +163,10 @@ her, God may allow such a person to waver in her belief for a time and
 to feel misgivings lest, in punishment for her sins, she may possibly
 have been left to go astray. However, she does not give way to these
 apprehensions, but (as I said in speaking of other matters) <span
-id="fr_364"></span>[9](#fn_364) they only affect her in the same way as
+id="fr_364"></span>[9](#fn_364.md) they only affect her in the same way as
 the temptations of the devil against faith, which may disturb the mind
 but do not shake the firmness of belief. In fact, the more severe the
-assault, <span id="fr_365"></span>[10](#fn_365) the more certain is she
+assault, <span id="fr_365"></span>[10](#fn_365.md) the more certain is she
 that the evil one could never have produced the great benefits she is
 conscious of having received, because he exercises no such power over
 the interior of the soul. He may present a false apparition but it does
@@ -193,13 +193,13 @@ not personally experienced the like.
 10\. The great point is, sisters, that you should be perfectly candid
 and straightforward with your confessor: I do not mean in declaring your
 sins that is evident enough--but in giving him an account of your
-prayer. <span id="fr_366"></span>[11](#fn_366) Unless you do this, I
+prayer. <span id="fr_366"></span>[11](#fn_366.md) Unless you do this, I
 cannot assure you of your safety nor that you are led by God. Our Lord
 desires that we should be as truthful and open with those who stand in
 His place as we should with Himself; that we should wish them to know
 not only our thoughts but especially all relating to our actions,
 however insignificant. Then you need feel no trouble nor anxiety <span
-id="fr_367"></span>[12](#fn_367) because even if your vision were not
+id="fr_367"></span>[12](#fn_367.md) because even if your vision were not
 from God, it could do you no harm if you are humble and possess a good
 conscience, for His Majesty knows how to glean good from evil. What the
 devil intended to injure you will benefit you instead: believing that
@@ -208,14 +208,14 @@ better and will keep His image ever before your memory.
 
 <span id="page_243">p. 243</span>
 
-11\. A great theologian <span id="fr_368"></span>[13](#fn_368) once said
+11\. A great theologian <span id="fr_368"></span>[13](#fn_368.md) once said
 that he should not trouble himself though the devil, who is a clever
 painter, should present before his eyes the living image of Christ,
 which would only kindle his devotion and defeat the evil one with his
 own weapons. However wicked an artist may be, we should reverence his
 picture if it represents Him Who is our only good. This great scholar
 held that it was very wrong to advise any one who saw a vision of our
-Lord to offer it signs of scorn, <span id="fr_369"></span>[14](#fn_369)
+Lord to offer it signs of scorn, <span id="fr_369"></span>[14](#fn_369.md)
 because we are bound to show respect to the portrait of our King
 wherever we see it. I am sure that he was right, for even in the world
 any one who was on friendly terms with a person would take it as an
@@ -242,7 +242,7 @@ that the remembrance of the joy caused by this vision gives us the
 greatest comfort and assistance.
 
 13\. Many other advantages result; but as I have written elsewhere <span
-id="fr_370"></span>[15](#fn_370) at length about the effect these
+id="fr_370"></span>[15](#fn_370.md) at length about the effect these
 visions produce, and must do so again later on, I will say no more now
 lest I weary us both. But I most earnestly advise you, when you know or
 hear of God's bestowing these graces on others, never to pray nor desire
@@ -272,7 +272,7 @@ subject all day he dreams of it at night.
 
 16\. Fourthly: it would be very presumptuous of me to choose a way for
 myself without knowing what is good for me. <span
-id="fr_371"></span>[16](#fn_371) I should leave our Lord, Who knows my
+id="fr_371"></span>[16](#fn_371.md) I should leave our Lord, Who knows my
 soul, to guide me as is best for me so that His will may be done in all
 things.
 
@@ -282,7 +282,7 @@ many kinds. How can you tell whether you would be able to bear them?
 
 18\. Sixthly: perhaps what you think would be your gain might prove your
 loss, as happened to Saul when he was made king. <span
-id="fr_372"></span>[17](#fn_372) In short, sisters, there are other
+id="fr_372"></span>[17](#fn_372.md) In short, sisters, there are other
 reasons besides these; believe me, it is safer to wish only what God
 wishes, Who knows us better than we know ourselves and Who loves us. Let
 us place ourselves entirely in His hands so that His will may be done in
@@ -305,7 +305,7 @@ use them better.
 20\. True, such a grace is a most powerful aid towards practising the
 virtues in their highest perfection, but it is far more meritorious to
 gain them at the cost of one's own toil. I was acquainted with some
-one, <span id="fr_373"></span>[18](#fn_373) indeed with two people (of
+one, <span id="fr_373"></span>[18](#fn_373.md) indeed with two people (of
 whom one was a man), on whom our Lord had bestowed some of these gifts.
 They were both so desirous of serving His Majesty at their own cost
 without these great consolations and so longed to suffer for His sake,
@@ -334,17 +334,17 @@ greatness! Amen.
 
 ### Footnotes
 
-<span id="fn_356"></span>[237:1](tic26.htm#fr_356) *Life*, ch, vii, 11.
+<span id="fn_356"></span>[237:1](tic26.htm#fr_356.md) *Life*, ch, vii, 11.
 
-<span id="fn_357"></span>[237:2](tic26.htm#fr_357) *Ibid*. xxix, 4.
+<span id="fn_357"></span>[237:2](tic26.htm#fr_357.md) *Ibid*. xxix, 4.
 
-<span id="fn_358"></span>[238:3](tic26.htm#fr_358) *Life*, ch, vii. 11,
+<span id="fn_358"></span>[238:3](tic26.htm#fr_358.md) *Life*, ch, vii. 11,
 12.
 
-<span id="fn_359"></span>[239:4](tic26.htm#fr_359) St. Matt. xxv. 41:
+<span id="fn_359"></span>[239:4](tic26.htm#fr_359.md) St. Matt. xxv. 41:
 'Discedite a me, maledicti, in ignem æternum.'
 
-<span id="fn_360"></span>[239:5](tic26.htm#fr_360) 'Whenever I ponder on
+<span id="fn_360"></span>[239:5](tic26.htm#fr_360.md) 'Whenever I ponder on
 the Day of Judgment I am overwhelmed by the thought and tremble from
 head to foot.' (St. Jerome). The following saying is by some attributed
 to St. Jerome, though not to be found in his works: 'Whether I eat or
@@ -354,43 +354,43 @@ always sounding in my ears: Arise, ye dead, and come to judgment.'
 Saxony gives this quotation with the word *vox* instead of *tuba* (part
 ii. ch. lxxxvii. 9).
 
-<span id="fn_361"></span>[239:6](tic26.htm#fr_361) *Life*, ch. iii.
+<span id="fn_361"></span>[239:6](tic26.htm#fr_361.md) *Life*, ch. iii.
 
-<span id="fn_362"></span>[239:7](tic26.htm#fr_362) *Excl*. xiii, 3.
+<span id="fn_362"></span>[239:7](tic26.htm#fr_362.md) *Excl*. xiii, 3.
 
-<span id="fn_363"></span>[240:8](tic26.htm#fr_363) Acts ix. 3, 4.
+<span id="fn_363"></span>[240:8](tic26.htm#fr_363.md) Acts ix. 3, 4.
 
-<span id="fn_364"></span>[241:9](tic26.htm#fr_364) *Castle*, M. vi. ch.
+<span id="fn_364"></span>[241:9](tic26.htm#fr_364.md) *Castle*, M. vi. ch.
 iii. 12.
 
-<span id="fn_365"></span>[241:10](tic26.htm#fr_365) *Way of Perf* ch,
+<span id="fn_365"></span>[241:10](tic26.htm#fr_365.md) *Way of Perf* ch,
 xl. 4.
 
-<span id="fn_366"></span>[242:11](tic26.htm#fr_366) *Life*, ch. xxvi. 5;
+<span id="fn_366"></span>[242:11](tic26.htm#fr_366.md) *Life*, ch. xxvi. 5;
 xxviii. 21.
 
-<span id="fn_367"></span>[242:12](tic26.htm#fr_367) *Way of Perf.* ch.
+<span id="fn_367"></span>[242:12](tic26.htm#fr_367.md) *Way of Perf.* ch.
 xl. 3.
 
-<span id="fn_368"></span>[243:13](tic26.htm#fr_368) This was Father
+<span id="fn_368"></span>[243:13](tic26.htm#fr_368.md) This was Father
 Dominic Bañez. *Found*. ch. viii. 3. *Life*, ch. xxix. 6, 7 and note.
 
-<span id="fn_369"></span>[243:14](tic26.htm#fr_369) *Letters of Blessed
+<span id="fn_369"></span>[243:14](tic26.htm#fr_369.md) *Letters of Blessed
 John of Avila* (translated by the Benedictines of Stanbrook), i. 5, p.
 19.
 
-<span id="fn_370"></span>[244:15](tic26.htm#fr_370) *Life*, ch. xxviii.
+<span id="fn_370"></span>[244:15](tic26.htm#fr_370.md) *Life*, ch. xxviii.
 13, 4.
 
-<span id="fn_371"></span>[245:16](tic26.htm#fr_371) St. Teresa, when led
+<span id="fn_371"></span>[245:16](tic26.htm#fr_371.md) St. Teresa, when led
 in this way, always asked to be delivered from favours so dangerous as
 visions, etc. See *Life*, ch. xxv. 20; xxvii. 3.
 
-<span id="fn_372"></span>[245:17](tic26.htm#fr_372) I. Reg. xv. 26-28.
+<span id="fn_372"></span>[245:17](tic26.htm#fr_372.md) I. Reg. xv. 26-28.
 
-<span id="fn_373"></span>[246:18](tic26.htm#fr_373) *Life*, ch. xl. 27.
+<span id="fn_373"></span>[246:18](tic26.htm#fr_373.md) *Life*, ch. xl. 27.
 She herself was one, and the other, no doubt, was St. John of the Cross.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Intellectual Visions Continued](tic27)
+[Next: Chapter X. Intellectual Visions Continued](tic27.md)

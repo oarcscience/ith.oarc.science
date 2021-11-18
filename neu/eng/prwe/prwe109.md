@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe108)  [Next](prwe110) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe108)  [Next](prwe110.md) 
 
 ------------------------------------------------------------------------
 
@@ -410,4 +410,4 @@ been known to return.
 
 ------------------------------------------------------------------------
 
-[Next: The Lovers of Porthangwartha](prwe110)
+[Next: The Lovers of Porthangwartha](prwe110.md)

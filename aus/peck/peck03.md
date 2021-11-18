@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck02)  [Next](peck04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck02)  [Next](peck04.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ visitor has been back to my office.
 
 ------------------------------------------------------------------------
 
-[Next: The First Waratah](peck04)
+[Next: The First Waratah](peck04.md)

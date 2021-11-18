@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod09)  [Next](fcod11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod09)  [Next](fcod11.md) 
 
 ------------------------------------------------------------------------
 
@@ -300,4 +300,4 @@ Victime," "Tombeau de la Revolution," etc.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII: Churchyards, Cemeteries, Orientation and Other
-Burial Customs](fcod11)
+Burial Customs](fcod11.md)

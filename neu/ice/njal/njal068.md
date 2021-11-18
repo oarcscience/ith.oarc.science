@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal067)  [Next](njal069) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal067)  [Next](njal069.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ ready to thy hand when thou hast need of it."
 
 ------------------------------------------------------------------------
 
-[Next: 69. Olaf The Peacock's Gifts To Gunnar](njal069)
+[Next: 69. Olaf The Peacock's Gifts To Gunnar](njal069.md)

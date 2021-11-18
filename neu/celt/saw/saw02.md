@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](saw01)  [Next](saw03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](saw01)  [Next](saw03.md) 
 
 ------------------------------------------------------------------------
 
@@ -888,4 +888,4 @@ be in that valley at the time of the last great war.
 
 ------------------------------------------------------------------------
 
-[Next: Book Three. Blessed Patrick of the Bells](saw03)
+[Next: Book Three. Blessed Patrick of the Bells](saw03.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](amo)  [Next](mic) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](amo)  [Next](mic.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ mı? O kentte sağını solundan ayırt edemeyen yüz yirmi bini aşkın insan,
 
 ------------------------------------------------------------------------
 
-[Next: Micah](mic)
+[Next: Micah](mic.md)

@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg55)  [Next](leg57) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg55)  [Next](leg57.md) 
 
 ------------------------------------------------------------------------
 
 \[§ XXX. Typhon is held by the Egyptians in the greatest contempt, and
 they do all they can to vilify him. The eolour red being associated with
 him, they treat with contumely all those who have a ruddy complexion;
-the ass <span id="fr_325"></span>[1](#fn_323) being usually of a reddish
+the ass <span id="fr_325"></span>[1](#fn_323.md) being usually of a reddish
 colour, the men of Koptos are in the habit of sacrificing asses by
 casting them down precipices. The inhabitants of Busiris and Lycopolis
 never use trumpets, because their sounds resemble the braying of an ass.
@@ -25,7 +25,7 @@ typifies the nature of Typhon.\]
 
 ### Footnotes
 
-<span id="fn_323"></span>[237:1](leg56.htm#fr_325) The ass is associated
+<span id="fn_323"></span>[237:1](leg56.htm#fr_325.md) The ass is associated
 with Set, or Typhon, in the texts, but on account of his virility he
 also typifies a form of the Sun-god. In a hymn the deceased prays, "May
 I smite the Ass, may I crush the serpent-fiend Sebau," but the XLth
@@ -36,4 +36,4 @@ ass. In Chapter CXXV. there is a dialogue between the Cat and the Ass.
 
 ------------------------------------------------------------------------
 
-[Next: Section XXXI](leg57)
+[Next: Section XXXI](leg57.md)

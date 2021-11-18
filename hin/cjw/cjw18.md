@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw17)  [Next](cjw19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw17)  [Next](cjw19.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ and more complicated works; yet it has a high excellence of its own.
 
 ------------------------------------------------------------------------
 
-[Next: The Essence of the Teaching](cjw19)
+[Next: The Essence of the Teaching](cjw19.md)

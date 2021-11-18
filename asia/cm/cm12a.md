@@ -1,9 +1,9 @@
-[Sacred-Texts](../../index) [Asia](../index)  
-[Index](index) [Previous](cm12) [Next](cm13)
+[Sacred-Texts](../../index) [Asia](../index.md)  
+[Index](index) [Previous](cm12) [Next](cm13.md)
 
 ------------------------------------------------------------------------
 
-### 11. (The Adventures of the Brothers.)<span id="page_64_fr_1"></span>[1](#page_64_note_1)
+### 11. (The Adventures of the Brothers.)<span id="page_64_fr_1"></span>[1](#page_64_note_1.md)
 
  A company of brothers went to sea in a boat. They were caught by a foul
 wind and carried away to another land. They lost their way in a dense
@@ -187,7 +187,7 @@ asked them, "Have you met nothing on the way?" — "Nothing." — "Oh,
 there! he has not seen them!"
 
  They departed again. This time <span id="page_71">p. 71</span> they saw
-the Giant Bird.<span id="page_71_fr_1"></span>[1](#page_71_note_1) It
+the Giant Bird.<span id="page_71_fr_1"></span>[1](#page_71_note_1.md) It
 sat crouching on the sea-beach. They passed it from the water-side. When
 they were moving at a great distance, (the bird stretched out its neck)
 and swallowed them, together with the boat. \[They made promises,\] they
@@ -247,7 +247,7 @@ Mariinsky Post, October, 1900.</span>
 
 ------------------------------------------------------------------------
 
-[Next](cm13)
+[Next](cm13.md)
 
 ------------------------------------------------------------------------
 
@@ -255,13 +255,13 @@ Mariinsky Post, October, 1900.</span>
 
 <span id="footnotes_page_64">p. 64</span>
 
-<span id="page_64_note_1"></span>[1](#page_64_fr_1) This tale represents
+<span id="page_64_note_1"></span>[1](#page_64_fr_1.md) This tale represents
 a clever intermixture of some elements of Russian or Turko-Mongol origin
 with others which are genuine Chukchee.
 
 <span id="footnotes_page_71">p. 71</span>
 
-<span id="page_71_note_1"></span>[1](#page_71_fr_1) Concerning the Giant
+<span id="page_71_note_1"></span>[1](#page_71_fr_1.md) Concerning the Giant
 Bird of Chukchee mythology, cf. Vol. VII of this series, p. 328.
 
  

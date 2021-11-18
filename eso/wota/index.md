@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0008BCE64/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wota00)    [Page
-Index](pageidx)    [Text \[Zipped\]](wotatxt.zip)
+[Contents](#contents)    [Start Reading](wota00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](wotatxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -36,11 +36,11 @@ Index](pageidx)    [Text \[Zipped\]](wotatxt.zip)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 This book, a product of automatic writing, first came to my attention in
-[a footnote](../../etc/vre/vre15.htm#fn_320) in William James'
-[Varieties of Religious Experience](../../etc/vre/index). James compared
-this text to [Oahspe](../../oah/index), as well as the case of Helene
+[a footnote](../../etc/vre/vre15.htm#fn_320.md) in William James'
+[Varieties of Religious Experience](../../etc/vre/index.md). James compared
+this text to [Oahspe](../../oah/index.md), as well as the case of Helene
 Smith, described in [From India to the Planet
-Mars](../../ufo/ipm/index). The book claims to be the revelation of one
+Mars](../../ufo/ipm/index.md). The book claims to be the revelation of one
 Zertoulem, who lived long ago in a land called Tlaskanata. The preface
 and glossary state that Tlaskanata was in Middle America, 'thousands of
 years ago.'
@@ -55,56 +55,56 @@ Internet at this site.--*J.B. Hare, May 5, 2008*.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wota00)  
-[Introduction](wota01)  
-[I](wota02)  
-[II](wota03)  
-[III](wota04)  
-[IV](wota05)  
-[V](wota06)  
-[VI](wota07)  
-[VII](wota08)  
-[VIII](wota09)  
-[IX](wota10)  
-[X](wota11)  
-[XI](wota12)  
-[XII](wota13)  
-[XIII](wota14)  
-[XIV](wota15)  
-[XV](wota16)  
-[XVI](wota17)  
-[XVII](wota18)  
-[XVIII](wota19)  
-[XIX](wota20)  
-[XX](wota21)  
-[XXI](wota22)  
-[XXII](wota23)  
-[XXIII](wota24)  
-[XXIV](wota25)  
-[XXV](wota26)  
-[XXVI](wota27)  
-[XXVII](wota28)  
-[XXVIII](wota29)  
-[XXIX](wota30)  
-[XXX](wota31)  
-[XXXI](wota32)  
-[XXXII](wota33)  
-[XXXIII](wota34)  
-[XXXIV](wota35)  
-[XXXV](wota36)  
-[XXXVI](wota37)  
-[XXXVII](wota38)  
-[XXXVIII](wota39)  
-[XXXIX](wota40)  
-[XL](wota41)  
-[XLI](wota42)  
-[XLII](wota43)  
-[XLIII](wota44)  
-[XLIV](wota45)  
-[XLV](wota46)  
-[XLVI](wota47)  
-[XLVII](wota48)  
-[XLVIII](wota49)  
-[XLIX](wota50)  
-[L](wota51)  
-[Tlaskan Words](wota52)  
+<span id="contents"></span> [Title Page](wota00.md)  
+[Introduction](wota01.md)  
+[I](wota02.md)  
+[II](wota03.md)  
+[III](wota04.md)  
+[IV](wota05.md)  
+[V](wota06.md)  
+[VI](wota07.md)  
+[VII](wota08.md)  
+[VIII](wota09.md)  
+[IX](wota10.md)  
+[X](wota11.md)  
+[XI](wota12.md)  
+[XII](wota13.md)  
+[XIII](wota14.md)  
+[XIV](wota15.md)  
+[XV](wota16.md)  
+[XVI](wota17.md)  
+[XVII](wota18.md)  
+[XVIII](wota19.md)  
+[XIX](wota20.md)  
+[XX](wota21.md)  
+[XXI](wota22.md)  
+[XXII](wota23.md)  
+[XXIII](wota24.md)  
+[XXIV](wota25.md)  
+[XXV](wota26.md)  
+[XXVI](wota27.md)  
+[XXVII](wota28.md)  
+[XXVIII](wota29.md)  
+[XXIX](wota30.md)  
+[XXX](wota31.md)  
+[XXXI](wota32.md)  
+[XXXII](wota33.md)  
+[XXXIII](wota34.md)  
+[XXXIV](wota35.md)  
+[XXXV](wota36.md)  
+[XXXVI](wota37.md)  
+[XXXVII](wota38.md)  
+[XXXVIII](wota39.md)  
+[XXXIX](wota40.md)  
+[XL](wota41.md)  
+[XLI](wota42.md)  
+[XLII](wota43.md)  
+[XLIII](wota44.md)  
+[XLIV](wota45.md)  
+[XLV](wota46.md)  
+[XLVI](wota47.md)  
+[XLVII](wota48.md)  
+[XLVIII](wota49.md)  
+[XLIX](wota50.md)  
+[L](wota51.md)  
+[Tlaskan Words](wota52.md)  

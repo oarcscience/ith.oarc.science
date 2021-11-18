@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist101) 
-[Next](hist103) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist101.md) 
+[Next](hist103.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ and return into the ocean whence they come.
 ------------------------------------------------------------------------
 
 [Next: XVII. Of the Synod held in the plain of Haethfelth, Archbishop
-Theodore being president. \[680 A.D.\]](hist103)
+Theodore being president. \[680 A.D.\]](hist103.md)

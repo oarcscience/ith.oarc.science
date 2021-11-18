@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist099) 
-[Next](hist101) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist099.md) 
+[Next](hist101.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ Masses, not only in that monastery, but in many other places.
 ------------------------------------------------------------------------
 
 [Next: XV. How King Caedwalla, king of the Gewissae, having slain
-Ethelwalch, wasted that Province](hist101)
+Ethelwalch, wasted that Province](hist101.md)

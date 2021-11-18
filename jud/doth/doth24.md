@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](doth23)  [Next](doth25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](doth23)  [Next](doth25.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Duties of the Heart*, by Rabbi Bachye, tr. by Edwin Collins,
 \[1909\], at Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ passes the boundary line of what is just sufficient, either tending to
 superfluity or to insufficiency, cannot escape from inclusion among acts
 commanded by Reason or by Scripture, if its intention be for the sake of
 God; or among prohibited acts, if its passing of the border line be not
-for the sake of God. <span id="fr_8"></span>[\*](#fn_7) When, however,
+for the sake of God. <span id="fr_8"></span>[\*](#fn_7.md) When, however,
 we examine more closely the kind of actions described as being neither
 commanded nor forbidden, but merely necessary to human life and the
 order of the world, we discover that it belongs to the category of
@@ -60,13 +60,13 @@ judgment, over every hidden thing whether good or bad."
 
 ### Footnotes
 
-<span id="fn_7"></span>[30:\*](doth24.htm#fr_8) Note that not the act
+<span id="fn_7"></span>[30:\*](doth24.htm#fr_8.md) Note that not the act
 but its motive determines its ethical significance.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Danger of Pride and Self-Righteousness](doth25)
+[Next: The Danger of Pride and Self-Righteousness](doth25.md)
 
 </div>

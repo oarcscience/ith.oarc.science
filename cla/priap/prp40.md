@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp39)  [Next](prp41) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp39)  [Next](prp41.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ subject of prostitution in Pegu and Tartary.\]
 
 ------------------------------------------------------------------------
 
-[Next: 41. Whoso comes hither shall a bard become](prp41)
+[Next: 41. Whoso comes hither shall a bard become](prp41.md)

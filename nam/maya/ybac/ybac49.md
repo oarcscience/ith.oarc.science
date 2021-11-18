@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac48)  [Next](ybac50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac48)  [Next](ybac50.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -56,13 +56,13 @@ very fine fish, of good taste although they are not large.
 There are fish not only in the lagoon but also along the coast in such
 abundance that the Indians care little for those of the lagoon, except
 those of them who have no nets; these capture many in the shallows with
-their arrows, while the [others](errata.htm#6) carry on their extensive
+their arrows, while the [others](errata.htm#6.md) carry on their extensive
 fisheries both for their eating
 
 <span id="img_09700"></span>
 
 [![](tn/09700.jpg)  
-Click to enlarge](img/09700.jpg)
+Click to enlarge](img/09700.jpg.md)
 
 and to sell throughout the whole country. It is their way to salt and
 cook them, and then to dry them in the sun without salt, having their
@@ -218,4 +218,4 @@ to life.
 
 ------------------------------------------------------------------------
 
-[Next: XLVI. How There Are Serpents and Other Poisonous Animals](ybac50)
+[Next: XLVI. How There Are Serpents and Other Poisonous Animals](ybac50.md)

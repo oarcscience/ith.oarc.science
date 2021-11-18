@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](aof07)  [Next](aof09) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](aof07)  [Next](aof09.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ music, and be fully satisfied with all.
 
 ------------------------------------------------------------------------
 
-[Next: The Creed of Half Asia: To Sin King](aof09)
+[Next: The Creed of Half Asia: To Sin King](aof09.md)

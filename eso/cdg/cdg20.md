@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg19)  [Next](cdg21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg19)  [Next](cdg21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ perhaps other nations of the old continent, erected sacred structures
 in the form of the serpent, is one of high interest. Of this description
 was the great temple of Abury, in England,--in many respects the most
 imposing ancient monument of the British islands." <span
-id="fr_173"></span>[\*](#fn_173)
+id="fr_173"></span>[\*](#fn_173.md)
 
 A celebrated example of the egg and serpent symbol is found in Adams
 County, Ohio, United States of America. It is an enduring witness to the
@@ -64,9 +64,9 @@ SIR JOHN LUBBOCK, "PRE-HISTORIC TIMES." EDITION 1890. PAGE 276-277.
 
 ### Footnotes
 
-<span id="fn_173"></span>[225:\*](cdg20.htm#fr_173) *Smithsonian
+<span id="fn_173"></span>[225:\*](cdg20.htm#fr_173.md) *Smithsonian
 Contributions to Knowledge. Vol. I, page 97*.
 
 ------------------------------------------------------------------------
 
-[Next: K. Those Reserved For Greater Things](cdg21)
+[Next: K. Those Reserved For Greater Things](cdg21.md)

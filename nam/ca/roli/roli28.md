@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli27)  [Next](roli29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli27)  [Next](roli29.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ In the old times much more was known about the stars than at present.
 Songs remain containing the names of stars which cannot now be
 identified. It is possible that the motions of the planets were
 recognized, but today Venus seems to be the only one distinguished by a
-special name. Venus is Aylucha, <span id="fr_312"></span>[296](#fn_306)
+special name. Venus is Aylucha, <span id="fr_312"></span>[296](#fn_306.md)
 that which is left over from evening till morning, food or anything of
 the kind.
 
@@ -44,7 +44,7 @@ Antares, a large following.
 
 In the same way Yungavish po-ma, the right hand of Altair, is Vega. The
 feather headdress of Altair, Pecheya Yungavish, <span
-id="fr_313"></span>[297](#fn_307) is a star close to and immediately
+id="fr_313"></span>[297](#fn_307.md) is a star close to and immediately
 above it.
 
 The Luiseños regard the Milky Way as the spirit, the home of our
@@ -80,14 +80,14 @@ case would have preeminence over Earth and Sky. Its silvery glimmer is
 suggested by the term; hut all this is involved in uncertainty.
 
 The other chiefs of the first people now seen as stars of the first
-magnitude are Waonesh, <span id="fr_314"></span>[298](#fn_308) Spica;
-Nawiwit Chawachwish, <span id="fr_315"></span>[299](#fn_309) Fomalhaut;
-and Tukmishwut, <span id="fr_316"></span>[300](#fn_310) the North star.
-Hulaish <span id="fr_317"></span>[301](#fn_311) is Orion, and
-Chehaiyam <span id="fr_318"></span>[302](#fn_312) the Pleiades. These
+magnitude are Waonesh, <span id="fr_314"></span>[298](#fn_308.md) Spica;
+Nawiwit Chawachwish, <span id="fr_315"></span>[299](#fn_309.md) Fomalhaut;
+and Tukmishwut, <span id="fr_316"></span>[300](#fn_310.md) the North star.
+Hulaish <span id="fr_317"></span>[301](#fn_311.md) is Orion, and
+Chehaiyam <span id="fr_318"></span>[302](#fn_312.md) the Pleiades. These
 two are always named together.
 
-Tukmishwut, the North star, <span id="fr_319"></span>[303](#fn_313)
+Tukmishwut, the North star, <span id="fr_319"></span>[303](#fn_313.md)
 remains motionless, and all his people, the members of his "party," move
 in a circle about him. This is the reason the dancing and marching are
 in a circle around the sacred enclosure, the fire, and so on. His hand
@@ -103,11 +103,11 @@ among them, its point reaching to the horizon beneath. Albañas's
 grandfather taught him the outlines of this constellation of the North
 star in the evenings when the little boy sat by the hearth fire, tracing
 the figure in the sparks of little live coals upon the earth floor of
-the hut ([fig. 3](#img_fig03)) .
+the hut ([fig. 3](#img_fig03).md) .
 
 <span id="img_fig03"></span> <span align="CENTER"> [![Fig. 3.Heart and
 three fingers of north star.](tn/fig03.jpg)  
-Click to enlarge](img/fig03.jpg)  
+Click to enlarge](img/fig03.jpg.md)  
 Fig. 3.—Heart and three fingers of north star.  
 </span>
 
@@ -180,37 +180,37 @@ sear. Tovukmal refers to the little streams of water washing the fallen
 leaves. Tasmoimal means that the rain has come and grass is sprouting.
 In Nemoimal the deer grow fat. The "months" are marked by the rising of
 certain magnitude stars counted in the early morning. <span
-id="fr_320"></span>[304](#fn_314)
+id="fr_320"></span>[304](#fn_314.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_306"></span>[162:296](roli28.htm#fr_312) Eluchax (x German
+<span id="fn_306"></span>[162:296](roli28.htm#fr_312.md) Eluchax (x German
 ch).—S.
 
-<span id="fn_307"></span>[162:297](roli28.htm#fr_313) Yungavsh po-eheya,
+<span id="fn_307"></span>[162:297](roli28.htm#fr_313.md) Yungavsh po-eheya,
 buzzard his-headdress.—S.
 
-<span id="fn_308"></span>[163:298](roli28.htm#fr_314) Waunish, a
+<span id="fn_308"></span>[163:298](roli28.htm#fr_314.md) Waunish, a
 star.—S.
 
-<span id="fn_309"></span>[163:299](roli28.htm#fr_315) Ngoiwut
+<span id="fn_309"></span>[163:299](roli28.htm#fr_315.md) Ngoiwut
 chawochmush, a star.—S.
 
-<span id="fn_310"></span>[163:300](roli28.htm#fr_316) Tukmi iswutum
+<span id="fn_310"></span>[163:300](roli28.htm#fr_316.md) Tukmi iswutum
 pomshun, or tukmi iswut, the north star.—S.
 
-<span id="fn_311"></span>[163:301](roli28.htm#fr_317) Hula’chum, the
+<span id="fn_311"></span>[163:301](roli28.htm#fr_317.md) Hula’chum, the
 three stars of Orion.—S.
 
-<span id="fn_312"></span>[163:302](roli28.htm#fr_318) Chehaiyam,
+<span id="fn_312"></span>[163:302](roli28.htm#fr_318.md) Chehaiyam,
 Pleiades.—S.
 
-<span id="fn_313"></span>[163:303](roli28.htm#fr_319) His finger was
+<span id="fn_313"></span>[163:303](roli28.htm#fr_319.md) His finger was
 bitten off by the rattlesnake. Journ. Amer. Folk-Lore, XIX, 54, 1906.
 
-<span id="fn_314"></span>[165:304](roli28.htm#fr_320) The Diegueño year
+<span id="fn_314"></span>[165:304](roli28.htm#fr_320.md) The Diegueño year
 was divided into six months and the morning rising of five chief stars
 was noted. The names of the months are: Hutlnamashap, Hutltai, Hutlpswi,
 Hutlkwurx, Hutlmatanai, Hutlanaxa.
@@ -236,4 +236,4 @@ from the Luiseños along with the rest of the Chungichnish religion.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin of Music](roli29)
+[Next: The Origin of Music](roli29.md)

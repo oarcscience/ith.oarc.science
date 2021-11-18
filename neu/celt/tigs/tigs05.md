@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tigs04)  [Next](tigs06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tigs04)  [Next](tigs06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ from that day to this.
 
 Another strange story comes from the same town. "When I was on a visit
 to a friend in Portarlington," writes a lady in the *Journal* of the
-American S.P.R. <span id="fr_3"></span>[1](#fn_3) "a rather unpleasant
+American S.P.R. <span id="fr_3"></span>[1](#fn_3.md) "a rather unpleasant
 incident occurred to me. At about two o'clock in the morning I woke up
 suddenly, for apparently no reason whatever; however, I quite distinctly
 heard snoring coming from under or in the bed in which I was lying. It
@@ -246,7 +246,7 @@ World Magazine* (Jan. 1908), by Major H. L. Ruck Keene, D.S.O.; he
 states that he took it from a manuscript written by a Captain Marvell
 Hull about the year 1880. Further information on the subject of the
 haunting is to be found in Dr. Craig's *Real Pictures of Clerical Life
-in Ireland*. <span id="fr_4"></span>[1](#fn_4)\*
+in Ireland*. <span id="fr_4"></span>[1](#fn_4.md)\*
 
 Charles Fort was erected in 1667 by the Duke of Ormonde. It is said to
 be haunted by a ghost known as the "White Lady," and the traditional
@@ -415,7 +415,7 @@ that she begged her father to let her leave it, but having no other room
 to give her, he persuaded her to stay there, and at length she got
 accustomed to the noise, and could sleep in spite of it. Finally the
 family left the house before their time was up. <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 Mr T. J. Westropp, to whom we are indebted for so much material, sends a
 tale which used to be related by a relative of his, the Rev. Thomas
@@ -985,14 +985,14 @@ shock from which she did not recover for a long time.
 
 ### Footnotes
 
-<span id="fn_3"></span>[57:1](tigs05.htm#fr_3) For September, 1913.
+<span id="fn_3"></span>[57:1](tigs05.htm#fr_3.md) For September, 1913.
 
-<span id="fn_4"></span>[65:1](tigs05.htm#fr_4) *Proceedings S.P.R.*, x.
+<span id="fn_4"></span>[65:1](tigs05.htm#fr_4.md) *Proceedings S.P.R.*, x.
 341.
 
-<span id="fn_5"></span>[73:1](tigs05.htm#fr_5) *Journal of American
+<span id="fn_5"></span>[73:1](tigs05.htm#fr_5.md) *Journal of American
 S.P.R.* for September 1913.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Poltergeists](tigs06)
+[Next: Chapter IV. Poltergeists](tigs06.md)

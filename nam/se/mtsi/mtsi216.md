@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi215)  [Next](mtsi217) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi215)  [Next](mtsi217.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ Crow got up. Calling "Ha ha ha" he went away. Crow is what he is.
 
 ------------------------------------------------------------------------
 
-[Next: 17. The Obstacle Flight](mtsi217)
+[Next: 17. The Obstacle Flight](mtsi217.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc082) 
-[Next](motc084) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc082.md) 
+[Next](motc084.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ Tsuwa\`tel'da, and their friends in the settlement never saw them again.
 
 ------------------------------------------------------------------------
 
-[Next: 84. The Man Who Married The Thunder's Sister](motc084)
+[Next: 84. The Man Who Married The Thunder's Sister](motc084.md)

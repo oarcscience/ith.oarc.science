@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah62)  [Next](oah64) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah62)  [Next](oah64.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ were as a unit, wherein we had strength in Thee, Our Creator!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](oah64)
+[Next: Chapter VII](oah64.md)

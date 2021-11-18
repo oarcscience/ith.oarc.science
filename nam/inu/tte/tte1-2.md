@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Previous](tte1-1) [Next](tte1-3)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Previous](tte1-1) [Next](tte1-3.md)
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ There are also a few very scanty grammatical remarks given by a single
 author. These lists are inevitably exceedingly imperfect copies of the
 original words. They have been procured by questioning natives, which
 has been partly done by gestures and <span id="p012"></span>{see
-[picture](p012) facing page 12} <span id="page_13">p. 13</span> through
+[picture](p012.md) facing page 12} <span id="page_13">p. 13</span> through
 interpreters of little intelligence; and then the structure is so widely
 different from that of European languages, that a single word in most
 cases has no corresponding word in these, but requires several for its
@@ -398,7 +398,7 @@ house—he saw it,—viz., the man saw the house.
 
 ------------------------------------------------------------------------
 
-[Next](tte1-3)
+[Next](tte1-3.md)
 
  
 

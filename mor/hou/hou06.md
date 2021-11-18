@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou05)  [Next](hou07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou05)  [Next](hou07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -179,7 +179,7 @@ up his abode some six miles south, at Manchester, Ontario county. Six
 sons and three daughters comprised the family of Joseph and Lucy Smith,
 namely, Alvin, Hyrum, Joseph junior, Samuel Harrison, William, Don
 Carlos, Sophronia, Catharine, and Lucy. <span
-id="fr_41"></span>[1](#fn_41)
+id="fr_41"></span>[1](#fn_41.md)
 
 <span id="page_41">p. 41</span>
 
@@ -258,13 +258,13 @@ had said. Then Joseph, knowing from the vision where the plates were
 bidden, went to the west side of a hill, called the hill Cumorah, near
 the town of Manchester, and beneath a large stone, part of whose top
 appeared above the ground, in a stone box, <span
-id="fr_42"></span>[2](#fn_42) he found the plates, <span
-id="fr_43"></span>[3](#fn_43) the urim and
+id="fr_42"></span>[2](#fn_42.md) he found the plates, <span
+id="fr_43"></span>[3](#fn_43.md) the urim and
 
 <span id="page_44">p. 44</span>
 
-thummim, <span id="fr_44"></span>[4](#fn_44) and the breastplate. <span
-id="fr_45"></span>[5](#fn_45) But when he was about to take them out
+thummim, <span id="fr_44"></span>[4](#fn_44.md) and the breastplate. <span
+id="fr_45"></span>[5](#fn_45.md) But when he was about to take them out
 Moroni stood beside him and said, "Not yet; meet me here at this time
 each year for four years, and I will tell you what to do." Joseph
 obeyed.
@@ -276,7 +276,7 @@ October 1825 Joseph went to work for Josiah Steal, in Chenango county.
 This man had what he supposed to be a silver mine at Harmony,
 Pennsylvania, said to have been once worked by Spaniards. Thither Joseph
 went with the other men to dig for silver, <span
-id="fr_46"></span>[6](#fn_46)
+id="fr_46"></span>[6](#fn_46.md)
 
 <span id="page_45">p. 45</span>
 
@@ -288,11 +288,11 @@ that he had seen visions, and the resulting persecutions; so Joseph took
 Emma to the house of Squire Tarbill, at South Bainbridge, where they
 were married the 18th of January, 1827, and thence returned to his
 father's farm, where he worked during the following season. <span
-id="fr_47"></span>[7](#fn_47)
+id="fr_47"></span>[7](#fn_47.md)
 
      Every year went Joseph to the hill Cumorah to hold communion with
 the heavenly messenger, and on the 22d of September, 1827, Moroni
-delivered to him the plates, <span id="fr_48"></span>[8](#fn_48) and the
+delivered to him the plates, <span id="fr_48"></span>[8](#fn_48.md) and the
 urim and thummim with which to translate them, charging him on pain of
 dire disaster
 
@@ -311,12 +311,12 @@ them, when they were delivered into his hands, Joseph meanwhile haying
 accomplished by them all that was required of him.
 
      And now so fierce becomes the fiery malevolence of the enemy that
-Joseph is obliged to fly. <span id="fr_49"></span>[9](#fn_49) He is very
+Joseph is obliged to fly. <span id="fr_49"></span>[9](#fn_49.md) He is very
 poor, having absolutely nothing, until a farmer named Martin Harris has
 pity on him and gives him fifty dollars, <span
-id="fr_50"></span>[10](#fn_50) with which he is enabled to go with his
+id="fr_50"></span>[10](#fn_50.md) with which he is enabled to go with his
 wife to her old home in Pennsylvania. <span
-id="fr_51"></span>[11](#fn_51) Immediately after his arrival there in
+id="fr_51"></span>[11](#fn_51.md) Immediately after his arrival there in
 December, he begins copying the
 
 <span id="page_48">p. 48</span>
@@ -326,14 +326,14 @@ means of the urim and thummim manages to translate some of them, which
 work is continued till February 1828. Harris' wife is exceedingly
 curious about the matter, and finally obtains possession through her
 husband of a portion of the manuscript. <span
-id="fr_52"></span>[12](#fn_52) About this time Harris takes a copy
+id="fr_52"></span>[12](#fn_52.md) About this time Harris takes a copy
 
 <span id="page_49">p. 49</span>
 
 of some of the characters to New York city, where he submits them to the
 examination of Professor Anthon and Dr Mitchell, who pronounce them to
 be Egyptian, Syriac, Chaldaic, and Arabic. <span
-id="fr_53"></span>[13](#fn_53) Then
+id="fr_53"></span>[13](#fn_53.md) Then
 
 <span id="page_50">p. 50</span>
 
@@ -352,7 +352,7 @@ in his work of translating until directed to take it up again.
 
 <span id="page_51">p. 51</span>
 
-    The tenor of the book of Mormon <span id="fr_54"></span>[14](#fn_54)
+    The tenor of the book of Mormon <span id="fr_54"></span>[14](#fn_54.md)
 is in this wise: Following the confusion of tongues at the tower of
 Babel, the peoples of the earth were scattered abroad, one colony being
 led by the Lord across the ocean to America. Fifteen hundred years
@@ -392,7 +392,7 @@ school-teacher, Oliver Cowdery by name, to whom the Lord had revealed
 himself at the house of the elder Smith, where the teacher had been
 boarding. Inquiring of the Lord, Joseph is told that to Oliver shall be
 given the same power to translate the book of Mormon, <span
-id="fr_55"></span>[15](#fn_55) by which term the writing on
+id="fr_55"></span>[15](#fn_55.md) by which term the writing on
 
 <span id="page_53">p. 53</span>
 
@@ -408,9 +408,9 @@ the golden plates is hereafter known, and that he also shall bear
 witness to the truth.
 
     Two days after the arrival of Oliver, <span
-id="fr_56"></span>[16](#fn_56) Joseph and he begin the work
+id="fr_56"></span>[16](#fn_56.md) Joseph and he begin the work
 systematically, the former translating while the latter writes; <span
-id="fr_57"></span>[17](#fn_57) for Oliver has a vision, meanwhile,
+id="fr_57"></span>[17](#fn_57.md) for Oliver has a vision, meanwhile,
 
 <span id="page_58">p. 58</span>
 
@@ -449,14 +449,14 @@ believing,
 
 certain priests and others disputing. Three special witnesses are
 provided by Christ, namely, Oliver Cowdery, David Whitmer, and Martin
-Harris, <span id="fr_58"></span>[18](#fn_58) to whom the plates are
+Harris, <span id="fr_58"></span>[18](#fn_58.md) to whom the plates are
 shown by an angel after much prayer and meditation in the woods. These
 are the three witnesses. And there are further eight witnesses, namely,
 Christian Whitmer, Jacob Whitmer, Peter Whitmer junior, John Whitmer,
 Hiram Page, Joseph Smith senior, Hyrum Smith, and Samuel H. Smith, who
 testify that the plates were shown to them by Joseph Smith junior, that
 they handled them with their hands, and saw the characters engraven
-thereon. <span id="fr_59"></span>[19](#fn_59)
+thereon. <span id="fr_59"></span>[19](#fn_59.md)
 
 <span id="page_60">p. 60</span>
 
@@ -472,7 +472,7 @@ Grandin to print five thousand copies for three thousand dollars.
 Meanwhile, a revelation comes to Martin Harris, at Manchester, in March,
 commanding him to pay for the printing of the book of Mormon, under
 penalty of destruction of himself and property. <span
-id="fr_60"></span>[20](#fn_60) The title-page
+id="fr_60"></span>[20](#fn_60.md) The title-page
 
 <span id="page_64">p. 64</span>
 
@@ -488,7 +488,7 @@ presently the word of the Lord comes to them, commanding that Joseph
 Smith should ordain Oliver Cowdery to be an elder in the church of Jesus
 Christ, and Oliver in like manner should so ordain Joseph, and the two
 should ordain others as from time to time the will of the Lord should be
-made known to them. <span id="fr_61"></span>[21](#fn_61) But this
+made known to them. <span id="fr_61"></span>[21](#fn_61.md) But this
 ordination must not take place until the baptized brethren assemble and
 give to this act their sanction, and accept the ordained as spiritual
 teachers, and then only after the blessing and partaking of bread and
@@ -545,7 +545,7 @@ of the old and new testaments, is accepted wholly, save such corruptions
 as have crept in through the great and abominable church; the book of
 Mormon is a later revelation, supplementary thereto. Thus is organized
 the Church of Jesus Christ of Latter-Day Saints, <span
-id="fr_62"></span>[22](#fn_62) in accordance with special revelations
+id="fr_62"></span>[22](#fn_62.md) in accordance with special revelations
 and commandments, and after the manner set forth in the new testament.
 
     The first public discourse, following the meetings held in Whitmer's
@@ -633,13 +633,13 @@ concerning the matter; whereupon a revelation came to Oliver Cowdery,
 forbidding such practice; and he was to say privately to Hiram Page that
 Satan had deceived him, and that the things which he had written from
 the stone were not of God. Oliver was further commanded to go and preach
-the gospel to the Lamanites, <span id="fr_63"></span>[23](#fn_63) the
+the gospel to the Lamanites, <span id="fr_63"></span>[23](#fn_63.md) the
 remnants of the house of Joseph living in the west, <span
-id="fr_64"></span>[24](#fn_64) where he was to establish
+id="fr_64"></span>[24](#fn_64.md) where he was to establish
 
 <span id="page_70">p. 70</span>
 
-a church and build a city, <span id="fr_65"></span>[25](#fn_65) at a
+a church and build a city, <span id="fr_65"></span>[25](#fn_65.md) at a
 point to be designated later.
 
     "Behold, I say unto thee, Oliver, that it shall be given unto thee
@@ -663,7 +663,7 @@ another in his stead."
 
 ### Footnotes
 
-<span id="fn_41"></span>[40:1](hou06.htm#fr_41) Much has been said by
+<span id="fn_41"></span>[40:1](hou06.htm#fr_41.md) Much has been said by
 the enemies of Mormonism against the Smith family. 'All who became
 intimate with them during this period \[1820 to 1830\] unite in
 representing the general character of old Joseph and wife, the parents
@@ -696,7 +696,7 @@ believe.' Some time before Joseph's discovery of the gold plates, the
 elder Smith told Ingersoll that a book had been found in Canada in a
 hollow tree which treated of the discovery of this continent.
 
-<span id="fn_42"></span>[43:2](hou06.htm#fr_42) Oliver Cowdery stated
+<span id="fn_42"></span>[43:2](hou06.htm#fr_42.md) Oliver Cowdery stated
 that he visited the spot, and that 'at the bottom of this \[hole\] lay a
 stone of suitable size, the upper surface being smooth. At each edge was
 placed a large quantity of cement and into this cement at the four edges
@@ -713,7 +713,7 @@ three pillars were placed the records. The box containing the records
 was covered with another stone, the lower surface being flat and the
 upper crowning.' *Mackay's The Mormons*, 20.
 
-<span id="fn_43"></span>[43:3](hou06.htm#fr_43) Orson Pratt thus
+<span id="fn_43"></span>[43:3](hou06.htm#fr_43.md) Orson Pratt thus
 describes the plates, *Visions*, 14: 'These records were engraved on
 plates which had the appearance of gold. Each plate was not far from
 seven by eight inches in width and length, being not quite as thick as
@@ -737,7 +737,7 @@ Prog. Mor*., frontispiece. When sceptics ask, Why are not the plates
 forthcoming? believers ask in turn, Why are not forthcoming the stone
 tables of Moses? And yet the ten commandments are to-day accepted.
 
-<span id="fn_44"></span>[44:4](hou06.htm#fr_44) 'With the book were
+<span id="fn_44"></span>[44:4](hou06.htm#fr_44.md) 'With the book were
 found the urim and thummim, two transparent crystals set in the rims of
 a bow. These pebbles were the seer's instrument whereby the mystery of
 hidden things was to be revealed!' Introduction to *Book of Mormon* (New
@@ -754,11 +754,11 @@ continued in use, as some think, only till the building of Solomon's
 temple, and all conclude that this was never restored after its
 destruction."' *Tucker's Origin and Prog. Mor*., 32.
 
-<span id="fn_45"></span>[44:5](hou06.htm#fr_45) 'A breastplate such as
+<span id="fn_45"></span>[44:5](hou06.htm#fr_45.md) 'A breastplate such as
 was used by the ancients to defend the chest from the arrows and weapons
 of their enemy.' *Mackay's The Mormons*, 20.
 
-<span id="fn_46"></span>[44:6](hou06.htm#fr_46) 'Hence arose the very
+<span id="fn_46"></span>[44:6](hou06.htm#fr_46.md) 'Hence arose the very
 prevalent story of my having been a money digger.' *Hist. Joseph Smith*,
 in *Times and Seasons*, May 2, 1842. It seems from this, or some other
 cause, that the followers of Smith have never regarded mining with
@@ -770,12 +770,12 @@ dust; but promptly upon the call they dropped their tools, abandoned
 their brilliant prospects, and crossing the Sierra, began to build homes
 among their people in the untenanted desert.
 
-<span id="fn_47"></span>[45:7](hou06.htm#fr_47) Among the many charges
+<span id="fn_47"></span>[45:7](hou06.htm#fr_47.md) Among the many charges
 of wrong-doing ascribed to Smith from first to last, was that of having
 stolen Hale's daughter. In answer it is said that the young woman was of
 age, and had the right to marry whom and as she chose.
 
-<span id="fn_48"></span>[45:8](hou06.htm#fr_48) 'When the appointed hour
+<span id="fn_48"></span>[45:8](hou06.htm#fr_48.md) 'When the appointed hour
 came, the prophet, assuming his practised air of mystery, took in hand
 his money-digging spade and a large napkin, and went off in silence and
 alone in the solitude of the forest, and after an absence of some three
@@ -863,7 +863,7 @@ book, and never had; but that he told the story to deceive the damned
 fool (meaning me), to get him to make a chest.' Others give other
 accounts, but it seems to me not worth while to follow them further.
 
-<span id="fn_49"></span>[47:9](hou06.htm#fr_49) 'Soon the news of his
+<span id="fn_49"></span>[47:9](hou06.htm#fr_49.md) 'Soon the news of his
 discoveries spread abroad throughout all those parts…The house was
 frequently beset by mobs and evil-designing persons. Several times he
 was shot at, and very narrowly escaped. Every device was used to get the
@@ -883,7 +883,7 @@ journey until he came to the northern part of Pennsylvania, near the
 Susquehanna River, in which part his father-in-law resided.' *Pratt's
 Visions*, 15.
 
-<span id="fn_50"></span>[47:10](hou06.htm#fr_50) 'In the neighborhood
+<span id="fn_50"></span>[47:10](hou06.htm#fr_50.md) 'In the neighborhood
 (of Smith's old home) there lived a farmer possessed of some money and
 more credulity. Every wind of doctrine affected him. tie had been in
 turn a quaker, a Wesleyan, a baptist, a presbyterian. His heterogeneous
@@ -893,7 +893,7 @@ enchantment of mystery. He was enraptured with the young prophet, and
 offered him fifty dollars to aid in the publication of his new bible.'
 *Tayldler's Mormons*, xxviii.-ix.
 
-<span id="fn_51"></span>[47:11](hou06.htm#fr_51) 'Soon after Smith's
+<span id="fn_51"></span>[47:11](hou06.htm#fr_51.md) 'Soon after Smith's
 arrival at Harmony, Isaac Hale (Smith's father-in-law) heard he had
 brought a wonderful box of plates with him. Hale "was shown a box in
 which it is said they were contained, which had to all appearances been
@@ -908,7 +908,7 @@ to see, he must take it away; if he did not, I was determined to see it.
 After that the plates were said to be hid in the woods."' *Howe's
 Mormonism Unveiled*, 264.
 
-<span id="fn_52"></span>[48:12](hou06.htm#fr_52) Martin Harris 'says he
+<span id="fn_52"></span>[48:12](hou06.htm#fr_52.md) Martin Harris 'says he
 wrote a considerable part of the book as Smith dictated; and at one time
 the presence of the Lord was so great that a screen was hung up between
 him and the prophet; at earlier times the prophet would sit in a
@@ -965,7 +965,7 @@ took the writings, and went his way. Notwithstanding…he did show them to
 others, and by stratagem they got them away from him.' *Smith*, in
 *Times and Seasons*, iii. 785-6.
 
-<span id="fn_53"></span>[49:13](hou06.htm#fr_53) In a letter to E. D.
+<span id="fn_53"></span>[49:13](hou06.htm#fr_53.md) In a letter to E. D.
 Howe, printed in his book, and in the introduction to the New York
 edition of the *Book of Mormon*, Prof. Anthon, among other statements,
 denies that he ever gave a certificate. The letter reads as follows:
@@ -1064,7 +1064,7 @@ cannot read a sealed book." I left him and went to Dr Mitchell, who
 sanctioned what Professor Anthon had said respecting both the characters
 and the translation.' Pearl of Great Price, xiii. 54.
 
-<span id="fn_54"></span>[51:14](hou06.htm#fr_54) 'The word "Mormon," the
+<span id="fn_54"></span>[51:14](hou06.htm#fr_54.md) 'The word "Mormon," the
 name given to his book, is the English termination of the Greek word
 *mormoo*, which we find defined in an old, obsolete dictionary to mean
 bugbear, hobgoblin, raw head, and bloody bones.' *Howe's Mormonism
@@ -1082,7 +1082,7 @@ concluding with an elaborate display of his philological talent such as
 he was accustomed to make on every possible occasion.' *Taylder's
 Mormon's Own Book*, xxxiv., xxxv.
 
-<span id="fn_55"></span>[52:15](hou06.htm#fr_55) *The Book of Mormon; an
+<span id="fn_55"></span>[52:15](hou06.htm#fr_55.md) *The Book of Mormon; an
 account written by The Hand of Mormon, upon plates taken from the plates
 of Nephi. Wherefore it is an abridgment of the record of the people of
 Nephi, and also of the Lamanites, who are a remnant of the house of
@@ -1402,7 +1402,7 @@ June 5 and 6, and Nov. 5, 1879; *Juvenile Instructor,* xiv. 2-3;
 Weed, also statement by Mrs Matilda Spaulding McKinstry in *Scribner's
 Mag.,* Aug. 1880, 613-16.
 
-<span id="fn_56"></span>[57:16](hou06.htm#fr_56) Oliver Cowdery 'is a
+<span id="fn_56"></span>[57:16](hou06.htm#fr_56.md) Oliver Cowdery 'is a
 blacksmith by trade, and sustained a fair reputation until his intimacy
 commenced with the money digger. He was one of the many in the world who
 always find time to study out ways and means to live without work. He
@@ -1417,7 +1417,7 @@ proceeded, as he says.' *Howe's Mormonism Unveiled*, 15, 265; see also
 *Pearl of Great Price*, xiii. 54; *Smucker's Hist. Mor*., 28; *Taylder's
 Mormons*, xxxii.
 
-<span id="fn_57"></span>[57:17](hou06.htm#fr_57) 'Instead of looking at
+<span id="fn_57"></span>[57:17](hou06.htm#fr_57.md) 'Instead of looking at
 the characters inscribed upon the plates, the prophet was obliged to
 resort to the old peep-stone which he formerly used in money digging.
 This he placed in a hat, or box, into which he also thrust his
@@ -1452,7 +1452,7 @@ to day and in a short time his spiritual endowment was so developed that
 he asserted the gift and power (with the stone at his eyes) of revealing
 both things existing and things to come.' *Tucker's Mormonism*, 19-20.
 
-<span id="fn_58"></span>[59:18](hou06.htm#fr_58) The objections raised
+<span id="fn_58"></span>[59:18](hou06.htm#fr_58.md) The objections raised
 against this testimony are, first, there is no date nor place; second,
 there are not three separate affidavits, but one testimony signed by
 three men; third, compare with Smith's revelation *Doctrine and
@@ -1487,7 +1487,7 @@ See also *Kidder's Mormons*, 49-51; *Tucker's Origin and Prog. Mor*.,
 69-71; *Smucker's Hist. Mor*., 29-30; *Bertrand's Mémoires d'un Mormon*,
 29-31.
 
-<span id="fn_59"></span>[59:19](hou06.htm#fr_59) 'It will be seen that
+<span id="fn_59"></span>[59:19](hou06.htm#fr_59.md) 'It will be seen that
 the witnesses of this truth were principally of the two families of
 Whitmer and Smith. The Smiths were the father and brothers of Joseph.
 Who the Whitmers were is not clear, and all clew to their character and
@@ -1713,7 +1713,7 @@ Mormon, either never made such a statement, or they let their
 imagination run away with their memory into the endorsement of a
 falsehood and an impossibility.'
 
-<span id="fn_60"></span>[63:20](hou06.htm#fr_60) Speaking of Martin
+<span id="fn_60"></span>[63:20](hou06.htm#fr_60.md) Speaking of Martin
 Harris, E. D. Howe says: 'Before his acquaintance with the Smith family
 he was considered an honest, industrious citizen by his neighbors. His
 residence was in the town of Palmyra, where he had accumulated a
@@ -1769,14 +1769,14 @@ acres of the farm, with a comfortable house and other property, as her
 share of the assets; and she occupied this property until the time of
 her death.' *Tucker's Origin and Prog. Mor*., 50-7.
 
-<span id="fn_61"></span>[64:21](hou06.htm#fr_61) Speaking of the manner
+<span id="fn_61"></span>[64:21](hou06.htm#fr_61.md) Speaking of the manner
 in which Smith delivered these revelations, Howe says: 'In this
 operation he abandoned his spectacles, or peep-stone, and merely
 delivered it with his eyes shut. In this manner he governs his
 followers, by asking the Lord, as he says, from day to day.' *Mormonism
 Unveiled*, 102.
 
-<span id="fn_62"></span>[66:22](hou06.htm#fr_62) The church was not at
+<span id="fn_62"></span>[66:22](hou06.htm#fr_62.md) The church was not at
 that time so called, nor indeed until after the 4th of May, 1834. See
 chap. iv., note 50; also *Millennial Star*, iv. 115; *Burton's City of
 the Saints*, 671-2. Kidder, *Mormonism*, 68, affirms that this name was
@@ -1804,7 +1804,7 @@ applied to unbelievers of the white race. The Indians, originally, were
 denominated 'of the house of Israel,' 'of the house of Joseph,' or 'of
 the house of Jacob,' also the Lamanites.
 
-<span id="fn_63"></span>[69:23](hou06.htm#fr_63) 'The Lamanites
+<span id="fn_63"></span>[69:23](hou06.htm#fr_63.md) 'The Lamanites
 originally were a remnant of Joseph, and in the first year of the reign
 of Zedekiah, King of Judah, were led in a miraculous manner from
 Jerusalem to the eastern borders of the Red Sea, thence for some time
@@ -1831,7 +1831,7 @@ human bones, so numerous at the present day, both in North and South
 America.' *Pratt (Orson), Series of Pamphlets*, vi. 7-8; *Pratt (P. P.),
 Voice of Warning*, 81-117.
 
-<span id="fn_64"></span>[69:24](hou06.htm#fr_64) 'The attention of the
+<span id="fn_64"></span>[69:24](hou06.htm#fr_64.md) 'The attention of the
 little band was directed, from the very commencement of their
 organization, to the policy and expediency of fixing their headquarters
 in the far west, in the thinly settled and but partially explored
@@ -1842,7 +1842,7 @@ and rightly judged that a rural population would be more favorable than
 an urban one to the reception of their doctrine.' *Mackay's The Mor*.,
 63.
 
-<span id="fn_65"></span>[70:25](hou06.htm#fr_65) The most ancient
+<span id="fn_65"></span>[70:25](hou06.htm#fr_65.md) The most ancient
 prophecy which the saints are now in possession of relating to the New
 Jerusalem was one delivered by Enoch, the seventh from Adam. This was
 revealed anew to Joseph Smith in December 1830. In it the Lord is
@@ -1858,4 +1858,4 @@ Mormon*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Story of Mormonism. 1830-1835.](hou07)
+[Next: Chapter IV. The Story of Mormonism. 1830-1835.](hou07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste23)  [Next](ste25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste23)  [Next](ste25.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ To begin with their Ancient CHAOS, what a dark story have they made of
 it, both their Philosophers and Poets; and how fabulous in appearance?
 ’Tis deliver’d as confus’dly as the Mass it self could be, and hath not
 been reduc’d to order, nor indeed made intelligible by any. They tell us
-of *moral* [principles in](errata.htm#3) the Chaos instead of *natural*,
+of *moral* [principles in](errata.htm#3.md) the Chaos instead of *natural*,
 of *strife*, and *discord*, and *division* on the one hand, and *Love*,
 *Friendship*, and *Venus* on the other; and, after a long contest, Love
 got the better of Discord, and united the disagreeing principles: This
@@ -441,4 +441,4 @@ useful to others, as well as delightful to our selves.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](ste25)
+[Next: Chapter IX](ste25.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu10)  [Next](cbu12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu10)  [Next](cbu12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -55,7 +55,7 @@ messengers to India, a country
 <span id="page_88">p. 88</span>
 
 several thousand miles to the south-east of the capital, to ask for
-Buddhist books and teachers. <span id="fr_38"></span>[1](#fn_38) A
+Buddhist books and teachers. <span id="fr_38"></span>[1](#fn_38.md) A
 native of Central India named Kashiapmadanga, with others, accompanied
 them back. He translated a small but important Sutra, called the Sutra
 of Forty-two Sections, and died at Lo-yang. The religion had now long
@@ -78,7 +78,7 @@ annals. In the year B.C. 122 Chang K‘ien, a Chinese ambassador, returned
 from the country of the Getæ, and informed the Han emperor Wu-ti, of the
 kingdoms and customs existing in the west. Among other things, he said,
 "When I was in the country of the Dahæ, <span
-id="fr_39"></span>[2](#fn_39) 12,000 Chinese miles distant to the
+id="fr_39"></span>[2](#fn_39.md) 12,000 Chinese miles distant to the
 south-west, I saw bamboo staves from K’iung and cloth from Sï-ch’uen. On
 asking whence they came, I was told that they were articles of traffic
 at *Shin-do* ('Scinde,' a country far to
@@ -93,11 +93,11 @@ Early in the fourth century, native Chinese began to take the Buddhist
 monastic vows. Their history says, under the year 335, that the prince
 of the Ch’au kingdom in the time of the Eastern Ts’in dynasty, permitted
 his subjects to do so. He was influenced by an Indian named
-Buddojanga, <span id="fr_40"></span>[1](#fn_40) who pretended to magical
+Buddojanga, <span id="fr_40"></span>[1](#fn_40.md) who pretended to magical
 powers. Before this, natives of India had been allowed to build temples
 in the large cities, but it was now for the first time that the people
 of the country were suffered to become "Shamen" <span
-id="fr_41"></span>[2](#fn_41) (*Shramanas*), or disciples of Buddha. The
+id="fr_41"></span>[2](#fn_41) (*Shramanas*.md), or disciples of Buddha. The
 first translations of the Buddhist books had been already made, for we
 read that at the close of the second century, an Indian residing at
 Ch’ang-an, the modern Si-an fu, produced the first version of the "Lotus
@@ -140,7 +140,7 @@ the king. More than eight hundred priests were called to assist, and the
 king himself, an ardent disciple of the new faith, was present at the
 conference, holding the old copies in his hand as the work of correction
 proceeded. More than three hundred volumes were thus prepared. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 While this work, so favourable to the progress of Buddhism, was
 proceeding, a Chinese traveller, Fa-hien, was exploring India and
@@ -155,7 +155,7 @@ their way to the parent
 land of the legends and superstitions in which they believed. Several of
 them on their return wrote narratives of what they had seen. Among those
 that have been preserved, the oldest of them, the *Account of Buddhist
-Kingdoms*, <span id="fr_43"></span>[1](#fn_43) by Fa-hien, is perhaps
+Kingdoms*, <span id="fr_43"></span>[1](#fn_43.md) by Fa-hien, is perhaps
 the most interesting and valuable. He describes the flourishing
 condition of Buddhism in the steppes of Tartary, among the Ouighours and
 the tribes residing west of the Caspian Sea, in Afghanistan where the
@@ -211,7 +211,7 @@ pave the way for frequent intercourse on the ground of identity in
 religion. Two letters of Pishabarma, king of Aratan, to this emperor are
 preserved in the history of this dynasty. He describes his kingdom as
 lying in the shadow of the Himalayas, whose snows fed the streams that
-watered it. He praises China <span id="fr_44"></span>[1](#fn_44) as the
+watered it. He praises China <span id="fr_44"></span>[1](#fn_44.md) as the
 most prosperous of kingdoms, and its rulers
 
 <span id="page_93">p. 93</span>
@@ -232,7 +232,7 @@ their lives, was like the marshalled constellations of heaven. The royal
 palaces and walls were like those of the Tauli heaven. In the whole
 Jambu continent, there were no kingdoms from which embassies did not
 come with tribute to the great Sung emperor of the Yang-cheu <span
-id="fr_45"></span>[1](#fn_45) kingdom. He adds, that though separated by
+id="fr_45"></span>[1](#fn_45.md) kingdom. He adds, that though separated by
 a wide sea, it was his wish
 
 <span id="page_94">p. 94</span>
@@ -241,7 +241,7 @@ to have embassies passing and repassing between the two countries.
 
 The extensive intercourse that then began to exist between China and
 India may be gathered from the fact that Ceylon <span
-id="fr_46"></span>[1](#fn_46) also sent an embassy and a letter to Sung
+id="fr_46"></span>[1](#fn_46.md) also sent an embassy and a letter to Sung
 Wen-ti. In this letter it is said, that though the countries are distant
 three years’ journey by sea and land, there are constant communications
 between them. The king also mentions the attachment of his ancestors to
@@ -348,7 +348,7 @@ renovation of all living beings cannot satisfy
 it. It speaks of hell, and the people fear to sin; of heaven, and they
 all desire its happiness. It points to the Nirvâna as the spirit's
 'final home' (*ch’ang-kwei*, lit. 'long return'), and tells him of 'the
-bodily form of the law' (*fa-shen*), <span id="fr_47"></span>[1](#fn_47)
+bodily form of the law' (*fa-shen*), <span id="fr_47"></span>[1](#fn_47.md)
 as that last, best spectacle, on which the eye can gaze. There is no
 region to which its influence does not reach. It soars in thought into
 the upper world. Beginning from a space no larger than the well's mouth
@@ -379,7 +379,7 @@ without
 something to hope for. The countryman is diligent in ploughing his land,
 because he expects a harvest. If he had no such hope, he would sit idle
 at home, and soon go down for ever 'below the nine fountains.'" <span
-id="fr_48"></span>[1](#fn_48) The Confucian answers that "religion"
+id="fr_48"></span>[1](#fn_48.md) The Confucian answers that "religion"
 (*tau*) consisting in the repression of all desires, it is inconsistent
 to use the desire of heaven as a motive to virtue.
 
@@ -537,7 +537,7 @@ Bodhidharma, not being satisfied with the result of his interview with
 royalty, crossed the Yang-tsze keang into the Wei kingdom and remained
 at Lo-yang. Here, the narrative says, he sat with his face to a wall for
 nine years. The people called him the "Wall-gazing Brahman." <span
-id="fr_49"></span>[1](#fn_49) When it was represented to the Liang
+id="fr_49"></span>[1](#fn_49.md) When it was represented to the Liang
 emperor, that the great teacher, who possessed the precious heirloom of
 Shakya, the symbol of the hidden law of Buddha, was lost to his kingdom,
 he repented and sent messengers to invite him to return. They failed in
@@ -681,7 +681,7 @@ of Greek and Indian literature, it is satisfactorily shown that Ashôka
 lived in the second century before Christ, and Buddha in the fourth and
 fifth. The commonly received chronology of the Chinese Buddhists is too
 long, therefore, by more than five hundred years. <span
-id="fr_50"></span>[1](#fn_50) Probably this fraud was effected to verify
+id="fr_50"></span>[1](#fn_50.md) Probably this fraud was effected to verify
 predictions found in certain Sutras, in which Buddha is made to say that
 in a definite number of years after his death, such and such things
 would happen. The
@@ -713,7 +713,7 @@ them.
 
 The *History of the Northern Wei dynasty* contains some details on the
 early Sanscrit translations in addition to what has been already
-inserted in this narrative. <span id="fr_51"></span>[1](#fn_51) The
+inserted in this narrative. <span id="fr_51"></span>[1](#fn_51.md) The
 pioneers in the work of translation were Kashiapmadanga and Chu-fa-lan,
 who worked conjointly in the time of
 
@@ -727,12 +727,12 @@ the Getæ nation, produced a version of the *Nirvâna Sutra*. Sun K’iuen,
 prince of the Wu state, one of the Three Kingdoms, who, some time after
 the embassy of Marcus Aurelius Antoninus, the Roman emperor, to China,
 received with great respect a Roman merchant at his court, <span
-id="fr_52"></span>[1](#fn_52) treated with equal regard an Indian priest
+id="fr_52"></span>[1](#fn_52.md) treated with equal regard an Indian priest
 who translated for him some of the books of Buddha. The next Indian
 mentioned is Dharmakakala, who translated the "Vinaya" or *Kiai-lü*
 (Discipline) at Lo-yang. About A.D. 300, Chï-kung-ming, a foreign
 priest, translated the *Wei-ma* and *Fa-hwa*, <span
-id="fr_53"></span>[2](#fn_53) "Lotus of the Good Law Sutras," but the
+id="fr_53"></span>[2](#fn_53.md) "Lotus of the Good Law Sutras," but the
 work was imperfectly done. Tau-an, a Chinese Buddhist, finding the
 sacred books disfigured by errors, applied himself to correct them. He
 derived instruction from Buddojanga and wished much to converse with
@@ -786,10 +786,10 @@ course of
 <span id="page_110">p. 110</span>
 
 instruction. The "Longer Agama Sutra" <span
-id="fr_54"></span>[1](#fn_54) and the "Discipline of the Four
-Divisions" <span id="fr_55"></span>[2](#fn_55) were translated by
+id="fr_54"></span>[1](#fn_54.md) and the "Discipline of the Four
+Divisions" <span id="fr_55"></span>[2](#fn_55.md) were translated by
 Buddhayasha, a native of India, the "Discipline of the Ten Chants" <span
-id="fr_56"></span>[3](#fn_56) by Kumarajiva, the "Additional Agama
+id="fr_56"></span>[3](#fn_56.md) by Kumarajiva, the "Additional Agama
 Sutra" by Dharmanandi, and the "Shastra of Metaphysics"
 (*Abhidharma-lun*) by Dharmayagama. These together formed the *Smaller
 Development* course. In some monasteries the former works were studied
@@ -840,7 +840,7 @@ priests and thirty thousand temples. This account must be exaggerated;
 for if we allow a thousand to each district, which is probably over the
 mark, there will be but that number at the present time, although the
 population has increased very greatly in the interval. <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 Buddhism received no check from the Sui emperors, who ruled China for
 the short period of thirty-seven years. The first of them, on assuming
@@ -882,7 +882,7 @@ At the same time the system was much easier to learn than if foreign
 symbols had been employed, and it was very soon universally adopted.
 Shen-kung, a priest, is said to have been the author of the system, and
 the dictionary *Yü-p’ien* was one of the first extensive works in which
-it was employed. <span id="fr_58"></span>[1](#fn_58) That the Hindoo
+it was employed. <span id="fr_58"></span>[1](#fn_58.md) That the Hindoo
 Buddhists should have taught the Chinese
 
 <span id="page_113">p. 113</span>
@@ -950,7 +950,7 @@ which are both arranged in the Sanscrit mode, to the Buddhists. Corean
 ambassadors came in the reign of Liang Wu-ti to ask for the "Nirvâna"
 and other Buddhistic classics. It may then have been as early as this
 that they had an alphabet, but the writing now in use dates from about
-A.D. 1360, as Mr. Scott has shown. <span id="fr_59"></span>[1](#fn_59)
+A.D. 1360, as Mr. Scott has shown. <span id="fr_59"></span>[1](#fn_59.md)
 
 <span id="page_115">p. 115</span>
 
@@ -966,7 +966,7 @@ necessity" with which man had nothing to do (*yeu-ü-tsï-jan*). The
 retribution of vice and virtue was the province of the prince, while
 riches and poverty were the recompense provoked by our own actions. The
 public manners had degenerated lamentably through the influence of
-Buddhism. The "six states of being" <span id="fr_60"></span>[1](#fn_60)
+Buddhism. The "six states of being" <span id="fr_60"></span>[1](#fn_60.md)
 into which the souls of men might be born were entirely fictitious. The
 monks lived an idle life, and were unprofitable members of the
 commonwealth. To this it was replied in the council, by Siau Ü, a friend
@@ -1003,7 +1003,7 @@ In the year 629 the celebrated Hiuen-tsang set out on his journey to
 India to procure Sanscrit books. Passing from Liang-cheu at the
 north-western extremity of China, he proceeded westward to the region
 watered by the Oxus and Jaxartes where the Turks <span
-id="fr_61"></span>[1](#fn_61) were then settled. He
+id="fr_61"></span>[1](#fn_61.md) were then settled. He
 
 <span id="page_117">p. 117</span>
 
@@ -1076,7 +1076,7 @@ amounting with others to 657, were carried by twenty-two horses.
 The emperor, after listening to the traveller's account of what he had
 seen, commanded him to write a description of the Western countries, and
 the work called *Ta-t‘ang-si-yü-ki* was the result. <span
-id="fr_62"></span>[1](#fn_62)
+id="fr_62"></span>[1](#fn_62.md)
 
 Hiuen-tsang went to *Ch‘ang-an* (Si-an-fu) to translate, and was
 assisted by twelve monks. Nine others were appointed to revise the
@@ -1128,7 +1128,7 @@ in translating. He completed 740 works, in 1335 books. Among them were
 three works on Logic, viz., *Li-men-lun*, *In-ming-lun*,
 *In-ming-shu-kiai*. Among other works that he brought to China, were
 treatises on Grammar, *Shing-ming-lun* and *Pe-ye-kie-la-nan*, and a
-Lexicon, *Abhidharma Kosha*. <span id="fr_63"></span>[1](#fn_63)
+Lexicon, *Abhidharma Kosha*. <span id="fr_63"></span>[1](#fn_63.md)
 
 <span id="page_121">p. 121</span>
 
@@ -1221,7 +1221,7 @@ Brahmanical Astronomy," *P‘o-lo-men-t‘ien-wen*, in twenty chapters. It
 was translated in the sixth century by Daluchi, a native of the Maleya
 kingdom. Another is *Ba-la-men-gih-ga-sien-jen-t‘ien-wen-shwo*, "An
 Account of Astronomy by the Brahman Gigarishi." <span
-id="fr_64"></span>[1](#fn_64)
+id="fr_64"></span>[1](#fn_64.md)
 
 The date of these translations, mentioned in the "History of the Sui
 dynasty," can be no later than the sixth century or very early in the
@@ -1248,7 +1248,7 @@ principle by which figures are thus arranged as multiples of ten
 changing their value with their position, was known to the Chinese from
 the most ancient times. Their early mode of calculating by counters,
 imitated more recently in the common commercial abacus, was based on
-this principle. <span id="fr_65"></span>[1](#fn_65) But it does not
+this principle. <span id="fr_65"></span>[1](#fn_65.md) But it does not
 appear that they employed it to express arithmetical processes in
 writing before the Hindoos began to translate mathematical treatises
 into the language.
@@ -1290,7 +1290,7 @@ remarks that to procure happiness or prevent misery after death, by
 prayers or any other means, is out of our power, and that the same is
 true of the present life. One of those who had great influence over the
 emperor was a Singhalese priest named "Amogha," *Pu-k‘ung*, <span
-id="fr_66"></span>[1](#fn_66) "Not empty," who held a high government
+id="fr_66"></span>[1](#fn_66.md) "Not empty," who held a high government
 office, and was honoured with the first title of the ancient Chinese
 nobility. Monasteries and monks now multiplied fast under the imperial
 favour. In the year 768, at the full moon of the seventh month, an
@@ -1339,7 +1339,7 @@ was well known, from starvation, in a
 <span id="page_127">p. 127</span>
 
 monastery to which he had retired for the third time. <span
-id="fr_67"></span>[1](#fn_67) The writer then pleads to Hien-tsung the
+id="fr_67"></span>[1](#fn_67.md) The writer then pleads to Hien-tsung the
 example of his predecessor, the first Tang emperor, and the hope that he
 himself had awakened in the minds of the literati by his former
 restrictions on Buddhism, that he would tread in his steps. He had now
@@ -1364,7 +1364,7 @@ preaching to their countrymen often allude to this document.
 
 Extraordinary superstition provoked extraordinary resistance. The
 sovereigns of the T‘ang dynasty were so fond of Buddhism that it has
-passed into a proverb. <span id="fr_68"></span>[2](#fn_68)
+passed into a proverb. <span id="fr_68"></span>[2](#fn_68.md)
 
 <span id="page_128">p. 128</span>
 
@@ -1417,7 +1417,7 @@ might be prohibited. The prayer was granted.
 The line of the patriarchs had terminated a little before the period
 which this narrative has now reached, and the most influential leader of
 the Chinese Buddhists was Matsu, who belonged to the order of
-*Ch‘an-shï*, <span id="fr_69"></span>[1](#fn_69) one of the three
+*Ch‘an-shï*, <span id="fr_69"></span>[1](#fn_69.md) one of the three
 divisions of Buddhist monks. As such, he followed the system taught by
 Bodhidharma, which consisted in abstraction of the mind from all objects
 of sense, and even its own thoughts. He addressed his disciples in the
@@ -1501,12 +1501,12 @@ their worshippers as have those of another religion, and the prophecy
 was fulfilled.
 
 Pu-k‘ung, already mentioned, came from Ceylon. <span
-id="fr_70"></span>[1](#fn_70) As he was travelling, a herd of elephants
+id="fr_70"></span>[1](#fn_70.md) As he was travelling, a herd of elephants
 rushed towards him. He sat quietly on the way side. The elephants all
 knelt down before him and retired. When he came to China, he produced,
 it is said, a great reformation of manners in court and country, and was
 reverenced as a divinity. If judged by his works, <span
-id="fr_71"></span>[2](#fn_71) however, consisting of unintelligible
+id="fr_71"></span>[2](#fn_71.md) however, consisting of unintelligible
 charms with pictures of many Bodhisattwas, he brought a grosser
 superstition than before. His book of directions for calling hungry
 spirits to be fed, by magical arrangements of the fingers, delineations
@@ -1516,7 +1516,7 @@ China. From Sin-la, a kingdom now forming part of Corea, some priests
 also came. One of these, named Wu-leu, was retained by the emperor
 Hiuen-tsung, with Pu-k‘ung, to pray for the imperial and national
 prosperity. When he approached his end he rose in the air a foot high,
-and so died. <span id="fr_72"></span>[3](#fn_72)
+and so died. <span id="fr_72"></span>[3](#fn_72.md)
 
 At this time some priests came from Japan, bringing ten of the monastic
 dresses denominated *Sanghali*, as presents to those in China who should
@@ -1631,7 +1631,7 @@ recently the diminished favour which those possessing wealth and power
 have extended to Buddhism has caused an entire cessation of pagoda
 building, except when old ones were to be restored.
 
-In the tenth century, <span id="fr_73"></span>[1](#fn_73) the royal
+In the tenth century, <span id="fr_73"></span>[1](#fn_73.md) the royal
 family of the Min kingdom, bearing the surname Wang, were very much
 devoted
 
@@ -1689,7 +1689,7 @@ the possible existence of Sanscrit manuscripts in China. One old
 manuscript only has yet been discovered, in South China, in that mode of
 writing. Occasionally a few specimen characters are introduced in native
 works where foreign alphabets are treated of. <span
-id="fr_74"></span>[1](#fn_74) In an account of the Kwo-ts‘ing monastery
+id="fr_74"></span>[1](#fn_74.md) In an account of the Kwo-ts‘ing monastery
 in the "History of T‘ien-t‘ai-shan" it is said that a single work was
 saved from a fire there several centuries ago, which was written on the
 *pei-to* (patra), or "palm" leaf of India. A visit to T‘ien-t‘ai—a spot
@@ -1765,7 +1765,7 @@ therefore denominated *Nan-hai p‘u-to* (the P‘u-to of the Southern sea).
 Through the Sung and Yuen dynasties buildings were added till they grew
 to their present magnitude. The number of priests from all parts of
 China who visit this sacred island is immense. <span
-id="fr_75"></span>[1](#fn_75)
+id="fr_75"></span>[1](#fn_75.md)
 
 The residents, however, are not so numerous as at T‘ien-t‘ai. T‘ien-t‘ai
 was at this time become famous for
@@ -1832,7 +1832,7 @@ attempted to construct a new religious life on such a basis of
 philosophy as this. Philosophical scepticism in the West has been
 confined to the safer regions of speculation, without being brought, as
 Buddhism has tried to bring it, to a practical form. <span
-id="fr_76"></span>[1](#fn_76) Another subdivision of the Buddhist
+id="fr_76"></span>[1](#fn_76.md) Another subdivision of the Buddhist
 schools into *Tsung-men* and *Kiau-men* may be best characterised by
 using the terms *esoteric* and *exoteric* to distinguish them. The first
 of the former entered China when the patriarch
@@ -1901,7 +1901,7 @@ would go there."
 
 In the times of Buddhist prosperity persons received from the emperor a
 written permission to become *ho-shang* <span
-id="fr_77"></span>[1](#fn_77) or "monks." When this practice was
+id="fr_77"></span>[1](#fn_77.md) or "monks." When this practice was
 abandoned, as by Kau-tsung, one of the emperors who reigned at
 Hang-cheu, A.D. 1143, the higher members of the Buddhist hierarchy
 undertook to distribute the usual certificates of membership in the
@@ -1990,7 +1990,7 @@ Hindoo Buddhists at the court of the T‘ang dynasty in the early part of
 the eighth century. More than fifty Buddhist temples had monumental
 tablets presented by emperors of the same dynasty, and, with the
 collected sacred books of Buddhism, are also preserved the early Chinese
-dictionaries <span id="fr_78"></span>[1](#fn_78) made with the
+dictionaries <span id="fr_78"></span>[1](#fn_78.md) made with the
 assistance of the Hindoos. The reader is left to suppose that the
 Buddhist classics in the language of China were at that time used in the
 countries beyond its northwestern frontier, as they still are in Japan,
@@ -2009,7 +2009,7 @@ embassies then and previously was a Buddhist one. Monks were the
 ambassadors; books of that religion, such as were known in Japan only by
 name, were asked for; remarkable places, like the Wu-t‘ai mountain in
 Shan-si, were visited; the doctrines of particular sects, such as that
-of [T‘ien-t‘ai](errata.htm#0), were studied at the
+of [T‘ien-t‘ai](errata.htm#0.md), were studied at the
 
 <span id="page_147">p. 147</span>
 
@@ -2092,7 +2092,7 @@ converse with him, ordered Kalutanasi, a Mongolian, to learn the
 Thibetan language from him. This task was accomplished in a year, and,
 says the narrative, the complete translation of the Buddhist Sutras and
 Shastras, from "Thibetan" (*Si-fan*), <span
-id="fr_79"></span>[1](#fn_79) and Sanscrit into Mongolian, and written
+id="fr_79"></span>[1](#fn_79.md) and Sanscrit into Mongolian, and written
 in Ouighour characters, was presented to the founder of the Yuen dynasty
 in the year of his death, A.D. 1294. He ordered it to be cut on blocks,
 and distributed among the kings and great chiefs of his nation. The
@@ -2291,36 +2291,36 @@ literature. It too was of foreign origin.</span>
 
 ### Footnotes
 
-<span id="fn_38"></span>[88:1](cbu11.htm#fr_38) He had the dream in A.D.
+<span id="fn_38"></span>[88:1](cbu11.htm#fr_38.md) He had the dream in A.D.
 61. Eighteen men were sent. They went to the country of the Getæ,
 bordering on India, and there they met the two Brahmans. They came
 riding on white horses, with pictures, images, and books; and arrived in
 A.D. 67. On the thirtieth day of the twelfth month they saw the emperor.
 
-<span id="fn_39"></span>[88:2](cbu11.htm#fr_39) *Ta-hia*, in old Chinese
+<span id="fn_39"></span>[88:2](cbu11.htm#fr_39.md) *Ta-hia*, in old Chinese
 *Dai-he*. It was 207 years earlier that the Dale and Getæ were defeated
 in battle by Alexander. Dahistan borders on the Caspian, forming the
 south-east coast of that sea.
 
-<span id="fn_40"></span>[89:1](cbu11.htm#fr_40) He foretold future
+<span id="fn_40"></span>[89:1](cbu11.htm#fr_40.md) He foretold future
 events by interpreting the sound of pagoda bells as they were blown by
 the wind. On one occasion he placed water in an empty flower-pot, and
 burned incense, when a blue lotus sprang into view in full bloom.
 
-<span id="fn_41"></span>[89:2](cbu11.htm#fr_41) The syllables *Sang-mun*
+<span id="fn_41"></span>[89:2](cbu11.htm#fr_41.md) The syllables *Sang-mun*
 are also employed. *Shramana* means the "quieting of the passions."
 *Sih-sin*, "to put the mind at rest," is the Chinese translation of it.
 
-<span id="fn_42"></span>[90:1](cbu11.htm#fr_42) See the *Ts’in history*.
+<span id="fn_42"></span>[90:1](cbu11.htm#fr_42.md) See the *Ts’in history*.
 
-<span id="fn_43"></span>[91:1](cbu11.htm#fr_43) *Foĕ* *kouĕ ki*,
+<span id="fn_43"></span>[91:1](cbu11.htm#fr_43.md) *Foĕ* *kouĕ ki*,
 translated by Remusat; from the preface to which, some of the facts
 given above are taken. The original work, *Fo-kwo-ki*, is contained in
 the collection denominated *Shwo-fu*, a *Ts’ung-shu* (selection of
 extracts and hooks old and new) of the reign of Shun-chï. Also in the
 *Han-wei-ts’ung-shu*.
 
-<span id="fn_44"></span>[92:1](cbu11.htm#fr_44) The common Indian name
+<span id="fn_44"></span>[92:1](cbu11.htm#fr_44.md) The common Indian name
 of "China," written in Chinese *Chen-tan*, is here employed. Another
 orthography found in Buddhist books is *Chi-na*. It is clear from the
 use of these characters, that the Indians who translated into Chinese at
@@ -2346,33 +2346,33 @@ In Julien's *Méthode*, &c., its Sanscrit equivalent is *Chin*. This
 would be somewhat late. Would it not be better, having traced the term
 to India, to make that country responsible for its etymology?
 
-<span id="fn_45"></span>[93:1](cbu11.htm#fr_45) At that time the
+<span id="fn_45"></span>[93:1](cbu11.htm#fr_45.md) At that time the
 territory of Yang-cheu embraced Kiang-nan, with parts of Ho-nan and
 Kiang-si. Jambu, the southern continent, is one of the four Indian
 divisions of the world. India is in its centre.
 
-<span id="fn_46"></span>[94:1](cbu11.htm#fr_46) *Shï-tsï-kwo*, the "Lion
+<span id="fn_46"></span>[94:1](cbu11.htm#fr_46.md) *Shï-tsï-kwo*, the "Lion
 kingdom," translated from the Sanscrit name *Sinhala*, whence
 "Singhalese."
 
-<span id="fn_47"></span>[97:1](cbu11.htm#fr_47) When the Buddhist has
+<span id="fn_47"></span>[97:1](cbu11.htm#fr_47.md) When the Buddhist has
 become sufficiently enlightened, an ideal picture of Buddhistic doctrine
 presents itself to his mind. It is called *Fa-shen* or *Fa-siang*.
 Elsewhere, as in the "Diamond Sutra," it is spoken of as a state that
 can be arrived at, but here it seems rather to mean an object of mental
 vision.
 
-<span id="fn_48"></span>[98:1](cbu11.htm#fr_48) *Kiew-ta’euen-chï-hia*,
+<span id="fn_48"></span>[98:1](cbu11.htm#fr_48.md) *Kiew-ta’euen-chï-hia*,
 a common phrase for "death."
 
-<span id="fn_49"></span>[102:1](cbu11.htm#fr_49) *Pi-kwan*
+<span id="fn_49"></span>[102:1](cbu11.htm#fr_49.md) *Pi-kwan*
 "*p’o-lo-men*" (in old Chinese, *Ba-la-men*).
 
-<span id="fn_50"></span>[106:1](cbu11.htm#fr_50) The *Northern Wei
+<span id="fn_50"></span>[106:1](cbu11.htm#fr_50.md) The *Northern Wei
 History* gives the date of Shakyamuni's birth, B.C. 688, which is much
 nearer than the common date, to the time required by the evidence.
 
-<span id="fn_51"></span>[107:1](cbu11.htm#fr_51) Of the interest felt by
+<span id="fn_51"></span>[107:1](cbu11.htm#fr_51.md) Of the interest felt by
 Sanscrit scholars in this subject, the letter of Professor Wilson,
 formerly Sanscrit Professor at Oxford, to Sir John Bowring is evidence.
 He invited the attention of the "China Branch of the Royal Asiatic
@@ -2385,37 +2385,37 @@ at Shanghai, for the library of the India House. Recently Rev. S. Beal
 has published an interesting account of these translations in the
 *Transactions of the Oriental Congress*, held in London, 1374.
 
-<span id="fn_52"></span>[108:1](cbu11.htm#fr_52) In A.D. 226. This Roman
+<span id="fn_52"></span>[108:1](cbu11.htm#fr_52.md) In A.D. 226. This Roman
 was named Dzinlon. After describing his country to the Chinese prince,
 he was sent back honourably. His name looks in its Chinese form as if it
 were translated. See the "Liang History"—*India*.
 
-<span id="fn_53"></span>[108:2](cbu11.htm#fr_53) In Sanscrit, *Saddharma
+<span id="fn_53"></span>[108:2](cbu11.htm#fr_53.md) In Sanscrit, *Saddharma
 Pundarika Sutra*.
 
-<span id="fn_54"></span>[110:1](cbu11.htm#fr_54) *Ch‘ang-a-han king*.
+<span id="fn_54"></span>[110:1](cbu11.htm#fr_54.md) *Ch‘ang-a-han king*.
 
-<span id="fn_55"></span>[110:2](cbu11.htm#fr_55) *Sï-fun-lü*.
+<span id="fn_55"></span>[110:2](cbu11.htm#fr_55.md) *Sï-fun-lü*.
 
-<span id="fn_56"></span>[110:3](cbu11.htm#fr_56) *Shih-sung-lü*.
+<span id="fn_56"></span>[110:3](cbu11.htm#fr_56.md) *Shih-sung-lü*.
 
-<span id="fn_57"></span>[111:1](cbu11.htm#fr_57) Mr. Watters, citing the
+<span id="fn_57"></span>[111:1](cbu11.htm#fr_57.md) Mr. Watters, citing the
 "Mirror of History," *Tung-kien*, chap. cccxvi., says, "Every household
 almost had been converted, and the number of those who had taken the
 vows was so great that the labours of the field were frequently
 neglected for lack of workmen."
 
-<span id="fn_58"></span>[112:1](cbu11.htm#fr_58) See my *Introduction to
+<span id="fn_58"></span>[112:1](cbu11.htm#fr_58.md) See my *Introduction to
 the Study of the Chinese characters*.
 
-<span id="fn_59"></span>[114:1](cbu11.htm#fr_59) Remusat supposed that
+<span id="fn_59"></span>[114:1](cbu11.htm#fr_59.md) Remusat supposed that
 this alphabet was borrowed by the Coreans from the Nü-chih and Kie-tan,
 who had invented a writing of their own, and ruled in Corea in the
 eleventh and twelfth centuries; but such an hypothesis <span
 id="page_115">p. 115</span> is incompatible with the fact that the
 Corean letters are more like the Thibetan and Sanscrit letters.
 
-<span id="fn_60"></span>[115:1](cbu11.htm#fr_60) The *lu-tau* here
+<span id="fn_60"></span>[115:1](cbu11.htm#fr_60.md) The *lu-tau* here
 alluded to are the modes of existence into which, in the revolutions of
 the metempsychosis, all will be born who have not been saved by the
 teaching of Buddha. They are:—(1.) *T’ien*, the *Devas* of the Hindoos
@@ -2433,7 +2433,7 @@ more common in Buddhist works than its use in a local sense. In
 explaining this new meaning of the word, *Deva* is transcribed as
 (*De-ba*) *T‘i-p‘o*.
 
-<span id="fn_61"></span>[116:1](cbu11.htm#fr_61) It was about this time
+<span id="fn_61"></span>[116:1](cbu11.htm#fr_61.md) It was about this time
 that the contests between Chosroes king of Persia, and the Turks on one
 side, and the Byzantine emperor on the other, occurred. The same events
 that have been described by Gibbon's luxuriant pen are found in a form
@@ -2477,11 +2477,11 @@ Syrian inscription and elsewhere, in which the country is described as
 to its natural features, whether under this name or that of *Ta-ts’in*,
 read much more intelligibly if the Roman empire be understood.
 
-<span id="fn_62"></span>[119:1](cbu11.htm#fr_62) This work has been
+<span id="fn_62"></span>[119:1](cbu11.htm#fr_62.md) This work has been
 recently reprinted, in the collection entitled
 *Sheu-shan-ko-ts‘ung-shu*, at Sung-kiang, near Shanghai.
 
-<span id="fn_63"></span>[120:1](cbu11.htm#fr_63) Vide Professor Wilson's
+<span id="fn_63"></span>[120:1](cbu11.htm#fr_63.md) Vide Professor Wilson's
 letter published by the China Branch of the Royal Asiatic Society, at
 Hongkong.
 
@@ -2511,28 +2511,28 @@ given will help to supply the chronology of these changes, extending
 through almost all the sounds in the language. Thus, with other aid, the
 age of the Mandarin language may be fixed with comparative certainty.
 
-<span id="fn_64"></span>[123:1](cbu11.htm#fr_64) A translation of a work
+<span id="fn_64"></span>[123:1](cbu11.htm#fr_64.md) A translation of a work
 by the same author, on the prophetic character of dreams, is also
 alluded to.
 
-<span id="fn_65"></span>[124:1](cbu11.htm#fr_65) *Shanghai Almanac* for
+<span id="fn_65"></span>[124:1](cbu11.htm#fr_65.md) *Shanghai Almanac* for
 5853—"Jottings on the Science of the Chinese."
 
-<span id="fn_66"></span>[125:1](cbu11.htm#fr_66) Chief representative of
+<span id="fn_66"></span>[125:1](cbu11.htm#fr_66.md) Chief representative of
 the Tantra school in China, and author of the festival for hungry
 ghosts. He is also called Amogha Vajra, and his school is that called
 the Yogachara.(Eitel.)
 
-<span id="fn_67"></span>[127:1](cbu11.htm#fr_67) Liang Wu-ti was
+<span id="fn_67"></span>[127:1](cbu11.htm#fr_67.md) Liang Wu-ti was
 eighty-six years of age when he died. His adopted son, whom he had
 appointed to succeed him, withheld the supplies of food that the aged
 emperor needed, and he died in consequence.
 
-<span id="fn_68"></span>[127:2](cbu11.htm#fr_68) Watters, in *Chinese
+<span id="fn_68"></span>[127:2](cbu11.htm#fr_68.md) Watters, in *Chinese
 Recorder*, 1869, July, p. 40. The proverb *T‘ang Fo*, "Buddha of the
 T‘ang," means to be as devoted to Buddhism as was the T‘ang dynasty.
 
-<span id="fn_69"></span>[129:1](cbu11.htm#fr_69) The other two orders of
+<span id="fn_69"></span>[129:1](cbu11.htm#fr_69.md) The other two orders of
 Buddhist monks are (r.) *Lü-shï*, or "Disciplinists," who go barefoot
 and follow rigidly the rules enjoined in the early ages of Buddhism, for
 the observance of all who entered on the ascetic life; (2.) *Fa-shï*, or
@@ -2556,12 +2556,12 @@ fa-shï*. In common cases the title *Ch‘an-shï* is all that is appended
 to the new name given by the imperial favour to those who, from their
 learning and character, are supposed to deserve it.
 
-<span id="fn_70"></span>[132:1](cbu11.htm#fr_70) The Yoga or Yogachara
+<span id="fn_70"></span>[132:1](cbu11.htm#fr_70.md) The Yoga or Yogachara
 school was founded by Asengha, and its system taught in China by
 *Pu-k‘ung* (Amogha). It combined Brahmanism, Shivaism, and the doctrine
 of Dhyana Buddhas (derived from Nepaul), with the Mahayana philosophy.
 
-<span id="fn_71"></span>[132:2](cbu11.htm#fr_71) See the work called
+<span id="fn_71"></span>[132:2](cbu11.htm#fr_71.md) See the work called
 *Ts‘ien-sheu ts‘ien-yen kwan-shï-yin p‘u-sa to-pei-sin to-to-ni*, "The
 magical formula of the Bodhisattwa Kwan-shï-yin, who has a thousand
 hands and eyes and a merciful heart." "Da-la-ni" (*To-to-ni*) is in
@@ -2571,13 +2571,13 @@ the benefit of the hungry dead, who come, in consequence of the priest's
 incantations, from hell, with "flaming mouths" (*yen-k‘eu*) to receive
 "sweet dew" (*kan-lu*) and go back relieved.
 
-<span id="fn_72"></span>[132:3](cbu11.htm#fr_72) These notices of
+<span id="fn_72"></span>[132:3](cbu11.htm#fr_72.md) These notices of
 foreign Buddhists are taken from the Supplement to the well-known
 cyclopædia *Wen-hien-t‘ung-k‘au*.
 
-<span id="fn_73"></span>[135:1](cbu11.htm#fr_73) Watters, p. 42.
+<span id="fn_73"></span>[135:1](cbu11.htm#fr_73.md) Watters, p. 42.
 
-<span id="fn_74"></span>[137:1](cbu11.htm#fr_74) Sanscrit characters are
+<span id="fn_74"></span>[137:1](cbu11.htm#fr_74.md) Sanscrit characters are
 also contained in such works as *Yü-k‘ia-yen-k‘eu*, which may be seen in
 any monastery. In Peking, Sanscrit sentences, chiefly charms, are seen
 written under the eaves of the roofs of temples. Some manuscripts have
@@ -2587,7 +2587,7 @@ There are also Sanscrit inscriptions on "octagonal
 stones"(*shï-chwang*). The *Devanagari* is of an older style without the
 top line. They date from the Kin dynasty.
 
-<span id="fn_75"></span>[139:1](cbu11.htm#fr_75) The Thibetan
+<span id="fn_75"></span>[139:1](cbu11.htm#fr_75.md) The Thibetan
 inscriptions at P‘uto, which have frequently attracted the notice of
 foreign visitors, probably owe their origin to some far-travelled
 devotee from that country. Kwan-shï-yin is the national protector of the
@@ -2595,11 +2595,11 @@ Thibetans, and, as Huc informs us, monuments with the words
 *Om-mani-padme-hum*, a sentence which occurs on the P‘u-to stones, are
 everywhere seen there.
 
-<span id="fn_76"></span>[141:1](cbu11.htm#fr_76) The attempt of Comte
+<span id="fn_76"></span>[141:1](cbu11.htm#fr_76.md) The attempt of Comte
 and his half-dozen followers to construct a religion on a basis of
 philosophy has been conspicuous only by its failure.
 
-<span id="fn_77"></span>[143:1](cbu11.htm#fr_77) The word *ho-shang*, as
+<span id="fn_77"></span>[143:1](cbu11.htm#fr_77.md) The word *ho-shang*, as
 the Chinese Life of Buddha informs us, is transferred from the language
 of "Udin" (*Yu-tian*) or "Khoten," south-east of Kashgar, and was
 originally translated from the Sanscrit *Upâsaka*. *Ho-shang* is now the
@@ -2609,12 +2609,12 @@ have left the family." *Upadhyâya* is a Sanscrit term for "a self-taught
 teacher," and *Hwa-shie* is a vernacular term in Kashgar and Kustana,
 and has become *ho-shang* in Chinese.—(Eitel.)
 
-<span id="fn_78"></span>[146:1](cbu11.htm#fr_78) *T‘ang-yün*,
+<span id="fn_78"></span>[146:1](cbu11.htm#fr_78.md) *T‘ang-yün*,
 *Yü-p‘ien*, &c.
 
-<span id="fn_79"></span>[149:1](cbu11.htm#fr_79) See the "Supplement to
+<span id="fn_79"></span>[149:1](cbu11.htm#fr_79.md) See the "Supplement to
 *Wen-hien-t‘ung-k‘au*."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Schools of Chinese Buddhism](cbu12)
+[Next: Chapter VII. The Schools of Chinese Buddhism](cbu12.md)

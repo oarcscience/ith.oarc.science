@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre19)  [Next](gre21) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre19)  [Next](gre21.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ did anything else befall to bring about strife.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Of the Slaying of Skeggi](gre21)
+[Next: Chapter XVI: Of the Slaying of Skeggi](gre21.md)

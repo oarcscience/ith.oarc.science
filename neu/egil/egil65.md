@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil64)  [Next](egil66) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil64)  [Next](egil66.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ England and joined Egil.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXV. Egil goes to Norway.](egil66)
+[Next: CHAPTER LXV. Egil goes to Norway.](egil66.md)

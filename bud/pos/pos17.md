@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos16)  [Next](pos18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos16)  [Next](pos18.md) 
 
 ------------------------------------------------------------------------
 
 ## <span id="C-XII">CANTO XII PSALM OF SIXTEEN VERSES</span>
 
-### <span id="LXV">LXV Puṇṇā or Puṇṇikā.</span> [<sup>329</sup>](pos17.htm#116-1)
+### <span id="LXV">LXV Puṇṇā or Puṇṇikā.</span> [<sup>329</sup>](pos17.htm#116-1.md)
 
 S<span class="small">HE</span>, too, having made her resolve under
 former Buddhas, and heaping up good of age-enduring efficacy in this and
@@ -18,13 +18,13 @@ virtue, and learning the Three Pitakas, she became very learned in the
 Norm, and a teacher of it. The same destiny befell her under the five
 succeeding Buddhas–Sikhi, Vessabhu, Kakusandha, Koṇāgamana, and Kassapa.
 But because of her tendency to pride, she was unable to root out the
-defilements. [<sup>330</sup>](pos17.htm#116-2) So it came to pass,
+defilements. [<sup>330</sup>](pos17.htm#116-2.md) So it came to pass,
 through the karma of her pride, that, in this Buddha-era, she was reborn
 at Sāvatthī, in the household of Anāthapiṇḍika, the Treasurer, of a
 domestic slave. She became a Stream-entrant after hearing the discourse
-of the Lion's Roar. [<sup>331</sup>](pos17.htm#117-1) Afterwards, when
+of the Lion's Roar. [<sup>331</sup>](pos17.htm#117-1.md) Afterwards, when
 she had converted (lit. tamed) the baptist
-[<sup>332</sup>](pos17.htm#117-2) brahmin, and so won her master's
+[<sup>332</sup>](pos17.htm#117-2.md) brahmin, and so won her master's
 esteem that he made her a freed woman, she obtained his consent, as her
 guardian and head of her home, to enter the Order. And, practising
 insight, she in no long time won Arahantship, together with thorough
@@ -102,7 +102,7 @@ Cleansed by the inward spiritual bath.'</span> <a href="pos17.htm#119-1"><sup>33
 For the brahmin, established in the Refuges and the Precepts, when later
 he had heard the Master preach the Norm, became a believer and entered
 the Order. Using every effort, he not long after became Thrice-Wise,
-[<sup>336</sup>](pos17.htm#119-2) and, reflecting on his state, exulted
+[<sup>336</sup>](pos17.htm#119-2.md) and, reflecting on his state, exulted
 in those verses. And the Sister, repeating them of herself, they all
 became her Psalm.
 
@@ -112,7 +112,7 @@ became her Psalm.
 
 > <sup>329</sup> The Commentary gives her the latter name, of which the
 > former is the diminutive. Possibly Puṇṇikā may have been used to
-> distinguish her from the Therī Puṇṇā of [Ps. iii.](pos06.htm#III) It
+> distinguish her from the Therī Puṇṇā of [Ps. iii.](pos06.htm#III.md) It
 > is curious that in the Subha-Sutta of the *Majjhima Nikāya*, where
 > young brahmins come to the Jeta Grove, Anāthapiṇḍika's gift, to
 > interview the Buddha, a slave-girl Puṇṇikā is alluded to in the
@@ -156,8 +156,8 @@ became her Psalm.
 
 <span id="119-2"></span>
 
-> <sup>336</sup> See [Ps. xxii.](pos07.htm#XXII) 26 *n.*
+> <sup>336</sup> See [Ps. xxii.](pos07.htm#XXII.md) 26 *n.*
 
 ------------------------------------------------------------------------
 
-[Next: Canto XIII. Psalms of About Twenty Verses](pos18)
+[Next: Canto XIII. Psalms of About Twenty Verses](pos18.md)

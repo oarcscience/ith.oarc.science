@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti38)  [Next](eti40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti38)  [Next](eti40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ again, and again the notes would decrease in turn, passing back again
 successively through the several keys that had preceded, and finally
 would reach the low growl which first struck the ear, and with a further
 increase of speed silence would ensue, silence evermore, regardless of
-increasing velocity. <span id="fr_9"></span>[\*](#fn_9) From these
+increasing velocity. <span id="fr_9"></span>[\*](#fn_9.md) From these
 hundreds of miles in a second at which the volley is now passing, let
 the rapidity be augmented a thousand times, reaching in their flight
 into millions of miles each second, and to the eye, from the point where
@@ -162,7 +162,7 @@ man?"
 
 "Yes; several of them are gases, and others are qualities of space
 condition, neither gas, liquid, nor solid. <span
-id="fr_10"></span>[\*](#fn_10) One particularly interferes with light in
+id="fr_10"></span>[\*](#fn_10.md) One particularly interferes with light in
 its passage. It is an entity that is not moved by the motion of the air,
 and is unequally distributed over the earth's surface. As we ascend
 above the earth it decreases, so it does as we descend into it. It is
@@ -239,12 +239,12 @@ communion with the spirit world."
 
 ### Footnotes
 
-<span id="fn_9"></span>[218:\*](eti39.htm#fr_9) A scientific critic
+<span id="fn_9"></span>[218:\*](eti39.htm#fr_9.md) A scientific critic
 seems to think that the shrill cry would cease instantly and not
 gradually. However, science has been at fault more than once, and I do
 not care to take liberties with this statement.—J. U. L.
 
-<span id="fn_10"></span>[221:\*](eti39.htm#fr_10) This has since been
+<span id="fn_10"></span>[221:\*](eti39.htm#fr_10.md) This has since been
 partly supported by the discovery of the element Argon. However, the
 statement has been recorded many years. Miss Ella Burbige, stenographer,
 Newport, Ky., copied the original in 1887; Mr. S. D. Rouse, attorney,
@@ -258,4 +258,4 @@ improbable \[then\] assertion.—J. U. L.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIII. “A Study of Science Is a Study of God.”—Communing
-With Angels](eti40)
+With Angels](eti40.md)

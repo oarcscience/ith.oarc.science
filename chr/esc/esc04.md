@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc03)  [Next](esc05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc03)  [Next](esc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -355,4 +355,4 @@ resurrection."  *Amen.*
 
 ------------------------------------------------------------------------
 
-[Next: Lecture III. The Two Thousand Three Hundred Days](esc05)
+[Next: Lecture III. The Two Thousand Three Hundred Days](esc05.md)

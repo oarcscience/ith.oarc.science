@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh20)  [Next](hloh22) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh20)  [Next](hloh22.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ old legends illustrates.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Owls of Honolulu](hloh22)
+[Next: XVIII. The Owls of Honolulu](hloh22.md)

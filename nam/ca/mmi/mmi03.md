@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mmi02)  [Next](mmi04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mmi02)  [Next](mmi04.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ The account of the gambling game is the same as that given above, except
 that Sant remembers to explain that the people who gambled and were so
 eager to eat their enemies were coyotes, that is to say, they were at
 that time those among the First People who afterwards became
-coyotes. <span id="fr_3"></span>[1](#fn_3)
+coyotes. <span id="fr_3"></span>[1](#fn_3.md)
 
 Sant gives the following account of the conclusion of the game: When the
 game was over, and the uncle had won all the possessions
@@ -100,7 +100,7 @@ boy. The Indians fear him greatly.
 
 ### Footnotes
 
-<span id="fn_3"></span>[162:1](mmi03.htm#fr_3) I use the term First
+<span id="fn_3"></span>[162:1](mmi03.htm#fr_3.md) I use the term First
 People as a convenient generality borrowed from Curtin, though I have
 not heard the Diegueños or Luiseños use this term exactly as he does.
 Their creation myths are more consistent than those which Curtin
@@ -111,4 +111,4 @@ brought death to all upon earth.
 
 ------------------------------------------------------------------------
 
-[Next: Comment By Sant Upon The Cuy-a-ho-marr Story](mmi04)
+[Next: Comment By Sant Upon The Cuy-a-ho-marr Story](mmi04.md)

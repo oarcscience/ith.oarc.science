@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj22)  [Next](atfj24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj22)  [Next](atfj24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_25"></span> <span align="CENTER"> [![25. O Tsuru Sees the
 Giant Carp](tn/25.jpg)  
-Click to enlarge](img/25.jpg)  
+Click to enlarge](img/25.jpg.md)  
 25. O Tsuru Sees the Giant Carp  
 </span>
 
@@ -202,6 +202,6 @@ Island she herself would see to his destruction.
 
 ------------------------------------------------------------------------
 
-[Next: XXII. Reincarnation](atfj24)
+[Next: XXII. Reincarnation](atfj24.md)
 
 </div>

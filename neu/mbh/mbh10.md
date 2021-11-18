@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh09)  [Next](mbh11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh09)  [Next](mbh11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ in the center of this entire mythical circle--without entirely
 sufficient grounds, it would appear--has been transmitted to us in
 several versions. According to the report of Herodotus (about 450 B.C.),
 who states that among four renderings known to him, he selected the
-least "glorifying" version, <span id="fr_50"></span>[2](#fn_50) the
+least "glorifying" version, <span id="fr_50"></span>[2](#fn_50.md) the
 story of the birth and youth of Cyrus is as follows:
 
 <div style="margin-left: 32px">
@@ -145,7 +145,7 @@ When the boy was twelve years old the truth was revealed, through the
 following accident. He was playing on the road, with other boys of his
 own age, in the village where the cattle were kept. The boys played
 "King," and elected the supposed son of the cattle herder. <span
-id="fr_51"></span>[1](#fn_51) But he commanded some to build
+id="fr_51"></span>[1](#fn_51.md) But he commanded some to build
 
 </div>
 
@@ -316,7 +316,7 @@ and made a king."
 
 The report of Pompeius Trogus is preserved only in the extract by
 Justin, according to whom Astyages had a daughter but no male
-heir. <span id="fr_52"></span>[1](#fn_52) This version continues:
+heir. <span id="fr_52"></span>[1](#fn_52.md) This version continues:
 
 <div style="margin-left: 32px">
 
@@ -352,7 +352,7 @@ the boy and carried him home, the bitch following him in great distress.
 When his wife took the boy in her arms, he smiled at her as if he
 already knew her; and as he was very strong, and ingratiated himself
 with her by his pleasant smile, she voluntarily begged the herder to
-\[expose her own child instead and\] <span id="fr_53"></span>[1](#fn_53)
+\[expose her own child instead and\] <span id="fr_53"></span>[1](#fn_53.md)
 permit her to raise the boy; be it that she was interested in his
 welfare, or that she placed her hopes on him.
 
@@ -367,7 +367,7 @@ An altogether different version of the Cyrus myth is extant in the
 report of Ctesias, a contemporary of Herodotus. The original of his
 narrative, which comprised more than an entire book in his Persian
 history, has been lost; but a surviving fragment of Nicholas of Damascus
-summarizes the Ctesian account. <span id="fr_54"></span>[2](#fn_54)
+summarizes the Ctesian account. <span id="fr_54"></span>[2](#fn_54.md)
 Astyages is said to have been the worthiest king of the Medes, after
 Abakes. Under his rule occurred the great transmutation through which
 the rulership passed from the Medes to the Persians, in the following
@@ -422,7 +422,7 @@ the income of Artembares, as if he had been his son, adding many
 presents, and Cyrus became a great man whose name was heard everywhere.
 
 Astyages had a very noble and beautiful daughter, <span
-id="fr_55"></span>[1](#fn_55) whom he gave to the Mede Spitamas, adding
+id="fr_55"></span>[1](#fn_55.md) whom he gave to the Mede Spitamas, adding
 all Media as her dowry. Then Cyrus sent for his father and mother, in
 the land of the Medes, and they rejoiced in the good fortune of their
 son, and *his mother told him the dream which she had at the time that
@@ -469,7 +469,7 @@ and made him a Satrap of the Barkanians.
 A great similarity to Herodotus' version of the Cyrus myth is found in
 the early history of the Persian royal hero, Kaikhosrav, as related by
 Firdausi in the Shah Namah. This myth is most extensively rendered by
-Spiegel. <span id="fr_56"></span>[1](#fn_56) During the warfare of King
+Spiegel. <span id="fr_56"></span>[1](#fn_56.md) During the warfare of King
 Kaikâus, of Bactria and Iran, against King Afrâsiâb, of Turan, *Kaikâus
 fell out with his son, Siâvaksh*, who applied to Afrâsiâb for protection
 and assistance. He was kindly received by Afrâsiâb, who gave him his
@@ -497,7 +497,7 @@ in ignorance of his origin*. But his royal descent is promptly revealed
 in his courage and his demeanor; and as Pirân takes the boy back into
 his home, Afrâsiâb becomes distrustful, and orders the boy to be led
 before him. Instructed by Pirân, Kaikhosrav plays the fool, <span
-id="fr_57"></span>[1](#fn_57) and reassured as to his harmlessness, the
+id="fr_57"></span>[1](#fn_57.md) and reassured as to his harmlessness, the
 Shah dismisses him to his mother, Feringis. Finally, Kaikhosrav is
 crowned as king by his grandfather, Kaikâus. After prolonged,
 complicated, and tedious combats, Afrâsiâb is at last taken prisoner,
@@ -506,7 +506,7 @@ Garsevaz to be decapitated.
 
 A certain resemblance to the preceding saga, although more remote, is
 presented by the myth of Feridun, as told by Firdausi. <span
-id="fr_58"></span>[2](#fn_58) *Zohâk, the king of Iran, once sees in a
+id="fr_58"></span>[2](#fn_58.md) *Zohâk, the king of Iran, once sees in a
 dream three men of royal tribe*. Two of them are bent with age, but
 between them is a *younger man* who holds a club,
 
@@ -538,17 +538,17 @@ as foretold by the dream.
 
 ### Footnotes
 
-<span id="fn_49"></span>[27:1](mbh09.htm#fr_49) Claudius Aelianus:
+<span id="fn_49"></span>[27:1](mbh09.htm#fr_49.md) Claudius Aelianus:
 *Historia Animalium*, translated by F. Jacobs (Stuttgart, r841), Vol.
 XII, p. 21. The same book tells of Ptolemy I, the son of Lagus and
 Arsinoë, that an eagle protected the exposed boy with his wings against
 the sunshine, the rain, and birds of prey.
 
-<span id="fn_50"></span>[27:2](mbh10.htm#fr_50) F. E. Lange: *Herodots
+<span id="fn_50"></span>[27:2](mbh10.htm#fr_50.md) F. E. Lange: *Herodots
 Geschichten* (Reclam edition), Vol. I, pp. 95, 107 ff. Compare also
 Duncker: *History of Antiquity* (Leipzig, 1880), p. 256, *n*. 5.
 
-<span id="fn_51"></span>[30:1](mbh10.htm#fr_51) The same "playing king"
+<span id="fn_51"></span>[30:1](mbh10.htm#fr_51.md) The same "playing king"
 is found in the Hindu myth of Chandragupta,<span id="page_31">p.
 31</span> the founder of the Maurya dynasty, whom his mother exposed
 after his birth, in a vessel at the gate of a cowshed, where a herder
@@ -562,24 +562,24 @@ admired the boy, and bought him from the hunter for one thousand
 kârshâpana; at home he discovered that the boy was a Maurya. (After
 Lassen, op. cit., Vol. II, p. 196, *n*. 1.)
 
-<span id="fn_52"></span>[35:1](mbh10.htm#fr_52) Justin (Marcus Junianus
+<span id="fn_52"></span>[35:1](mbh10.htm#fr_52.md) Justin (Marcus Junianus
 Justines): Extract from *Pompeius Trogus’ Philippian History*, Vol. I,
 pp. 4-7. Demon's Persian tales (written in the first half of the fourth
 century before Christ) are presumably the sources of Trogus' narrative.
 
-<span id="fn_53"></span>[36:1](mbh10.htm#fr_53) The words in parentheses
+<span id="fn_53"></span>[36:1](mbh10.htm#fr_53.md) The words in parentheses
 are said to be lacking in certain manuscripts.
 
-<span id="fn_54"></span>[36:2](mbh10.htm#fr_54) Nicol. Damasc. Frag. 66,
+<span id="fn_54"></span>[36:2](mbh10.htm#fr_54.md) Nicol. Damasc. Frag. 66,
 Ctes.; Frag. Pers., II, 5.
 
-<span id="fn_55"></span>[38:1](mbh10.htm#fr_55) This daughter's name is
+<span id="fn_55"></span>[38:1](mbh10.htm#fr_55.md) This daughter's name is
 Amatyis (not Mandane) in the version of Ctesias.
 
-<span id="fn_56"></span>[39:1](mbh10.htm#fr_56) Cp. cit., Vol. I, pp.
+<span id="fn_56"></span>[39:1](mbh10.htm#fr_56.md) Cp. cit., Vol. I, pp.
 581 ff.
 
-<span id="fn_57"></span>[40:1](mbh10.htm#fr_57) On the basis of this
+<span id="fn_57"></span>[40:1](mbh10.htm#fr_57.md) On the basis of this
 motif of simulated dementia and certain other corresponding features,
 Jiriczek ("Hamlet in Iran," in the *Zeitschrift des Vereins für
 Volkskunde*, Vol. X \[1900\], p. 353) has represented the Hamlet saga as
@@ -603,7 +603,7 @@ character of this entire mythological cycle is also emphasized by
 Jiriczek, who finds in the tale of Siâvaksh's death certain features
 from the Passion of the Saviour.
 
-<span id="fn_58"></span>[40:2](mbh10.htm#fr_58) Translated by Schack
+<span id="fn_58"></span>[40:2](mbh10.htm#fr_58.md) Translated by Schack
 (op. cit.). The name Zohâk here is a mutilation of the original Zend
 Avesta expression *Ashi-dahaka* (Azis-dahaka), meaning "pernicious
 serpent." (See "The Myth of Feridun in India and Iran," by Dr. R. Roth,
@@ -616,4 +616,4 @@ more recent corruption. Compare Spiegel, op. cit., Vol. I, pp. 537 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Tristan](mbh11)
+[Next: Tristan](mbh11.md)

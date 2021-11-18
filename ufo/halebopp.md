@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](halbopp3)  [Next](hale_ufo) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](halbopp3)  [Next](hale_ufo.md) 
 
 ### Comet Hale-Bopp
 
@@ -112,4 +112,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 ------------------------------------------------------------------------
 
 [Next: An Astronomer's Personal Statement on UFOs, by Alan
-Hale](hale_ufo)
+Hale](hale_ufo.md)

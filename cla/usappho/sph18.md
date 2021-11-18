@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph17)  [Next](sph19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph17)  [Next](sph19.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,18 +8,18 @@
 
 ... κατ᾽ ἔμον στάλαγμον,  
 τὸν δ᾽ ἐπιπλάζοντεσ ἄμοι φέροιεν  
-     καὶ μελεδώναισ. [\[transcription\]](xlatall.htm#26)
+     καὶ μελεδώναισ. [\[transcription\]](xlatall.htm#26.md)
 
 From my distress: let buffeting winds bear it and all care away.
 
 From the "Etymologicum Magnum" to show the Aeolic use of
-ζ [\[transcription\]](xlatall.htm#27) in place of
-σσ [\[transcription\]](xlatall.htm#28) . Bergk conjectures
-ἄμοι [\[transcription\]](xlatall.htm#29) for
-ἄνεμοι [\[transcription\]](xlatall.htm#30) , "winds". The fragment is
+ζ [\[transcription\]](xlatall.htm#27.md) in place of
+σσ [\[transcription\]](xlatall.htm#28.md) . Bergk conjectures
+ἄμοι [\[transcription\]](xlatall.htm#29.md) for
+ἄνεμοι [\[transcription\]](xlatall.htm#30.md) , "winds". The fragment is
 tantilizingly incomplete, as so many others are, and the reading of one
 or two words in not certain.
 
 ------------------------------------------------------------------------
 
-[Next: 18: Just now the golden-sandalled Dawn](sph19)
+[Next: 18: Just now the golden-sandalled Dawn](sph19.md)

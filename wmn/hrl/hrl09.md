@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](hrl08)  [Next](hrl10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](hrl08)  [Next](hrl10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -571,4 +571,4 @@ citizenship.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10 Their Religions And Our Marriages](hrl10)
+[Next: Chapter 10 Their Religions And Our Marriages](hrl10.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](log07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](log07.md) 
 
 ------------------------------------------------------------------------
 
@@ -300,7 +300,7 @@ history and, 3 et seq.; varieties of, 13 et seq.; character of races in
 science, 25; etymological, 27 et seq.; the first rudiments of a
 philosophy of history, 27; ceremonial, 30 et seq.; geological, 34;
 mixed, 34, 35; origin of the, 35, 88 et seq.; literary form of the, 36
-et seq.; [transformation](errata.htm#2) of the, 39 et seq.; cycles, 45;
+et seq.; [transformation](errata.htm#2.md) of the, 39 et seq.; cycles, 45;
 length of, 46 et seq.; treat men as types, 55; laconism of the, 63 et
 seq.; unity and coherence of, 6g; not pure inventions, 74; two styles
 of, 86; development of the, 88 et seq.; migration of, 89 et seq.;

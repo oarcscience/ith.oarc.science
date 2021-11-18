@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb23)  [Next](ptb25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb23)  [Next](ptb25.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ the north; it is, however, also north-west, in consequence of being, in
 some degree, combined with the west by means of the house of Mars, who
 introduces western breezes and the feminine qualities of that quarter,
 in consequence of his lunar condition <span
-id="fr_61"></span>[1](#fn_61).
+id="fr_61"></span>[1](#fn_61.md).
 
 The second triplicity, formed by Taurus, Virgo, and Capricorn, is
 allotted to the dominion of the Moon and Venus, since it consists of
@@ -44,19 +44,19 @@ Capricorn is the house of that planet, and an eastern sign, Saturn
 becomes effective of winds from that quarter, and furnishes this
 triplicity with a mixture of the east, with which quarter he is further
 connected by means of his solar condition. <span
-id="fr_62"></span>[2](#fn_62)
+id="fr_62"></span>[2](#fn_62.md)
 
 The third triplicity is composed of Gemini, Libra, and Aquarius,
 masculine signs. It holds connection with Saturn and Mercury by
 containing their houses, and is therefore attributed to them, and not to
 Mars, to which planet it bears no relation. Saturn rules it by day,
-owing to his condition, <span id="fr_63"></span>[3](#fn_63) and Mercury
+owing to his condition, <span id="fr_63"></span>[3](#fn_63.md) and Mercury
 by night. Gemini is on the summer circle, Libra on the equinoctial, and
 Aquarius on the winter. This triplicity is principally eastern, by the
 influence of Saturn; but it becomes north-east by receiving also a
 mixture of the north from the condition of Jupiter, with which planet
 Saturn has, in this respect, a diurnal familiarity. <span
-id="fr_64"></span>[4](#fn_64)
+id="fr_64"></span>[4](#fn_64.md)
 
 The fourth triplicity, formed by Cancer, Scorpio, and Pisces, is left to
 the remaining planet, Mars, who has right in it by means of his house,
@@ -72,20 +72,20 @@ therefore becomes south-west.
 
 ### Footnotes
 
-<span id="fn_61"></span>[30:1](ptb24.htm#fr_61) The "lunar condition"
+<span id="fn_61"></span>[30:1](ptb24.htm#fr_61.md) The "lunar condition"
 here spoken of refers to the position of Aries (Mars's house) in the
 lunar semicircle.
 
-<span id="fn_62"></span>[30:2](ptb24.htm#fr_62) Capricorn being in the
+<span id="fn_62"></span>[30:2](ptb24.htm#fr_62.md) Capricorn being in the
 solar semicircle.
 
-<span id="fn_63"></span>[30:3](ptb24.htm#fr_63) The reason for making
+<span id="fn_63"></span>[30:3](ptb24.htm#fr_63.md) The reason for making
 Saturn diurnal lord of this triplicity may be found in Chap. vii.
 
-<span id="fn_64"></span>[30:4](ptb24.htm#fr_64) This familiarity seems
+<span id="fn_64"></span>[30:4](ptb24.htm#fr_64.md) This familiarity seems
 to arise from the sextile aspect between Aquarius, the diurnal house of
 Saturn, and Sagittarius, the diurnal house of Jupiter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII. Exaltations](ptb25)
+[Next: Chapter XXII. Exaltations](ptb25.md)

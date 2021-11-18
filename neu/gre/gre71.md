@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre70)  [Next](gre72) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre70)  [Next](gre72.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ Sand-heaps.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXVII: Grettir driven from Sand-heaps to the West](gre72)
+[Next: Chapter LXVII: Grettir driven from Sand-heaps to the West](gre72.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat86)  [Next](jat88) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat86)  [Next](jat88.md) 
 
 ------------------------------------------------------------------------
 
-### 85. CEREMONY FOR AN INFANT. <span id="fr_83"></span>[1](#fn_83)
+### 85. CEREMONY FOR AN INFANT. <span id="fr_83"></span>[1](#fn_83.md)
 
 A vessel of water is placed on the ground in the tipi. The person
 performing the ceremony standing on the west side of it strews pollen
@@ -24,8 +24,8 @@ in place by the string wound around it. This is the way they do.
 
 ### Footnotes
 
-<span id="fn_83"></span>[269:1](jat87.htm#fr_83) See p. 221, f. n.
+<span id="fn_83"></span>[269:1](jat87.htm#fr_83.md) See p. 221, f. n.
 
 ------------------------------------------------------------------------
 
-[Next: 86. Avoidance of the Mother-In-Law](jat88)
+[Next: 86. Avoidance of the Mother-In-Law](jat88.md)

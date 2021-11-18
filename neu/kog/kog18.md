@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog17)  [Next](kog19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog17)  [Next](kog19.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ pocketed the thousand pounds for himself.
 
 ------------------------------------------------------------------------
 
-[Next: 16. A Clever Lass](kog19)
+[Next: 16. A Clever Lass](kog19.md)

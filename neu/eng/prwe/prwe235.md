@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe234)  [Next](prwe236) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe234)  [Next](prwe236.md) 
 
 ------------------------------------------------------------------------
 
@@ -284,4 +284,4 @@ With the holly and bays so bright on the wall."
 
 ------------------------------------------------------------------------
 
-[Next: The Game of Hurling](prwe236)
+[Next: The Game of Hurling](prwe236.md)

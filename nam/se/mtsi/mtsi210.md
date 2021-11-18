@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi209)  [Next](mtsi211) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi209)  [Next](mtsi211.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,16 +66,16 @@ until he stopped trying to go up. He said to his sister, "They shall
 call you 'partridge' and you shall stay here always." He threw her up
 and she made the noise that is made by a bird flying at night, and
 disappeared. Then that man himself sat on the arrow notch, jumped up,
-started upward, and was gone. <span id="fr_53"></span>[1](#fn_53)
+started upward, and was gone. <span id="fr_53"></span>[1](#fn_53.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_53"></span>[170:1](mtsi210.htm#fr_53) Similar stories
+<span id="fn_53"></span>[170:1](mtsi210.htm#fr_53.md) Similar stories
 relate that the man became the thunder. See Bull. 47, Bur. Amer. Ethn.,
 pp. 85-407.
 
 ------------------------------------------------------------------------
 
-[Next: 11. The Still Crawling Sister](mtsi211)
+[Next: 11. The Still Crawling Sister](mtsi211.md)

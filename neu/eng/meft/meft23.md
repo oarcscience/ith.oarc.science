@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft22)  [Next](meft24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft22)  [Next](meft24.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ could desire.
 
 ------------------------------------------------------------------------
 
-[Next: The Buried Moon](meft24)
+[Next: The Buried Moon](meft24.md)

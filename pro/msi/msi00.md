@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Next](msi01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Next](msi01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Chapter First](msi01)
+[Next: Chapter First](msi01.md)

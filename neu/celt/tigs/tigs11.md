@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tigs10)  [Next](tigs12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tigs10)  [Next](tigs12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -164,7 +164,7 @@ Fellow of Trinity College, Dublin, and for six years rector of
 <span id="page_230">p. 230</span>
 
 the parish. He died, according to the words of the
-[inscription](errata.htm#2), on 2nd May 1819, as a result of "a sudden
+[inscription](errata.htm#2.md), on 2nd May 1819, as a result of "a sudden
 and awful visitation." A local legend explains this "visitation," by
 stating that a ghost haunted the rectory, the visits of which had caused
 his family and servants to leave the house. The rector had tried to
@@ -556,4 +556,4 @@ or is wholly banished at last."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Mistaken Identity—Conclusion](tigs12)
+[Next: Chapter X. Mistaken Identity—Conclusion](tigs12.md)

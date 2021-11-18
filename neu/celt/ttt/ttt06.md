@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ttt05)  [Next](ttt07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ttt05)  [Next](ttt07.md) 
 
 ------------------------------------------------------------------------
 
@@ -413,4 +413,4 @@ INCIDENTAL FEATURES OF THE STORIES
 
 ------------------------------------------------------------------------
 
-[Next: Barbaric Ideas about Names](ttt07)
+[Next: Barbaric Ideas about Names](ttt07.md)

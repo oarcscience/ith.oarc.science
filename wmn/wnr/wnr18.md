@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr17)  [Next](wnr19) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr17)  [Next](wnr19.md) 
 
 ------------------------------------------------------------------------
 
@@ -393,4 +393,4 @@ Rotterdam:
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Progress We Have Made](wnr19)
+[Next: XVII. Progress We Have Made](wnr19.md)

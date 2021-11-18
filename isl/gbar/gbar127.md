@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar126) [Next](gbar128)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar126) [Next](gbar128.md)
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ Creator, who is blessed for evermore.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar128)
+[Next](gbar128.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai22)  [Next](tai24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai22)  [Next](tai24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ writer seems to take his resolve "not to follow the school of the
 ballads of his own day" so seriously, that at the crises of his story,
 his narrative becomes almost telegraphic in its compression, e.g. the
 parting of the brothers Ígoŕ and Vsévolod, the recital of Ígoŕ's escape
-and rescue <span id="fr_11"></span>[†](#fn_11); whilst in the
+and rescue <span id="fr_11"></span>[†](#fn_11.md); whilst in the
 invocations to the princes there is hardly one word that does not serve
 to explain their boundaries, their exploits, or their patriotic record.
 
@@ -95,7 +95,7 @@ unique victory of Dmítri Donskóy over the Tatars,--this copy is
 occasionally useful to enable to restore a text earlier than that of
 Musin-Puškin's MS.--and passages from the Слово are quoted in some of
 the XV or XVI century *bylíny* \[of Rybnikov ed. 1861 I 19 l. 237 and
-other references in Kirĕyevski <span id="fr_12"></span>[‡](#fn_12)\].
+other references in Kirĕyevski <span id="fr_12"></span>[‡](#fn_12.md)\].
 Its semi-pagan tone and the comparative triviality of the history it
 celebrates must have contributed to its neglect.
 
@@ -103,12 +103,12 @@ celebrates must have contributed to its neglect.
 
 ### Footnotes
 
-<span id="fn_11"></span>[xliii:†](tai23.htm#fr_11) ll. 268-284 and ll.
+<span id="fn_11"></span>[xliii:†](tai23.htm#fr_11.md) ll. 268-284 and ll.
 677-689.
 
-<span id="fn_12"></span>[xliii:‡](tai23.htm#fr_12) Generally some
+<span id="fn_12"></span>[xliii:‡](tai23.htm#fr_12.md) Generally some
 pedantic by-play on the obsolete word шеломя, hill.
 
 ------------------------------------------------------------------------
 
-[Next: Pagan Survivals in the Text of the Slovo](tai24)
+[Next: Pagan Survivals in the Text of the Slovo](tai24.md)

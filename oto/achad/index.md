@@ -2,7 +2,7 @@
 layout: seclanding
 title: "Works of Frater Achad"
 ---
-[Thelema](../index)
+[Thelema](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ This page indexes works of Frater Achad, an early member of the O.T.O.
 
 ------------------------------------------------------------------------
 
-[I.N.R.I.: De Mysteriis Rosæ Rubeæ et Aureæ Crucis](inri/index) \[1924\]
+[I.N.R.I.: De Mysteriis Rosæ Rubeæ et Aureæ Crucis](inri/index.md) \[1924\]

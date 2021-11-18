@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei06)  [Next](jei08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei06)  [Next](jei08.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ That is what would happen if our theory were true. The question is,
 then, has anything like that been actually observed? The answer is that
 every arctic navigator from the beginning has made observations which
 more and more agree with that view the further north the
-[observers](errata.htm#29) go. To show how unanimous this testimony is
+[observers](errata.htm#29.md) go. To show how unanimous this testimony is
 let us go back a good distance.
 
 ### BARRINGTON'S IMPORTANT BOOK
@@ -115,14 +115,14 @@ was thought to be
 at the time--when of course the means of navigation were so much poorer
 than they are at present. At that time, too, it was the generally
 received notion that there was a perpetual barrier of ice whose
-boundaries [corresponded](errata.htm#30) more or less with a latitude of
+boundaries [corresponded](errata.htm#30.md) more or less with a latitude of
 80½ and that any discovery of the regions north of that would have to be
 made by a sort of wind-propelled sled, a mechanism actually used for
 traveling over the ice by the Dutch.
 
 ### HIS REPORT TO THE ROYAL SOCIETY
 
-This idea Barrington [combated](errata.htm#31). He recalled to the Royal
+This idea Barrington [combated](errata.htm#31.md). He recalled to the Royal
 Society that as early as 1663 its secretary at that time had examined a
 traveler lately returned from Greenland, and that this traveler had told
 of a Hollander captain who claimed that he had come within half a degree
@@ -134,7 +134,7 @@ than was supposed at the time, and simply for the reason that the water
 was open as one went north.
 
 But Barrington has instance after instance of the same kind. He mentions
-in [particular](errata.htm#32) two Hollander whalers who in the
+in [particular](errata.htm#32.md) two Hollander whalers who in the
 seventeenth century--sailed to 89 degrees and found no ice but "a free
 and open sea."
 
@@ -159,7 +159,7 @@ popular idea, doubtless, is that it is so cold at the actual pole that
 the sea water there is frozen. But this is not the case at all. The ice
 we see in pictures taken in polar regions is not frozen sea-water at
 all. It is frozen fresh water. Here is a description of the actual
-character of [Arctic](errata.htm#33) ice which Barrington translates
+character of [Arctic](errata.htm#33.md) ice which Barrington translates
 from a "Dissertation of Michel Lomonosoff, translated from the Swedish
 Transactions of 1752, entitled 'De l’Origine des Monts de Glace dans la
 Mer du Nord':
@@ -304,4 +304,4 @@ irresistibly to one conclusion.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Further Arctic Exploration](jei08)
+[Next: Chapter V. Further Arctic Exploration](jei08.md)

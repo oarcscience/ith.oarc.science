@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal108)  [Next](njal110) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal108)  [Next](njal110.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ good, and the sun just risen.
 
 ------------------------------------------------------------------------
 
-[Next: 110. The Slaying Of Hauskuld, The Priest Ofwhiteness](njal110)
+[Next: 110. The Slaying Of Hauskuld, The Priest Ofwhiteness](njal110.md)

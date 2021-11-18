@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr04) 
-[Next](idr06) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr04.md) 
+[Next](idr06.md) 
 
 ------------------------------------------------------------------------
 
@@ -602,4 +602,4 @@ a cultured and philosophical age.
 
 ------------------------------------------------------------------------
 
-[Next: St. Patrick and the Druids](idr06)
+[Next: St. Patrick and the Druids](idr06.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta06)  [Next](sta08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta06)  [Next](sta08.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ appropriate sacrifice, each king renewed his
 
 [![THE SCHEME OF THE UNIVERSE ACCORDING TO THE GREEKS AND
 ROMANS.](tn/03300.jpg)  
-Click to enlarge](img/03300.jpg)  
+Click to enlarge](img/03300.jpg.md)  
 THE SCHEME OF THE UNIVERSE ACCORDING TO THE GREEKS AND ROMANS.  
 
 From Cartari's *Imagini degli Dei degli Antichi*.
@@ -449,7 +449,7 @@ directly connected with the growth and maturing of flowers
 <span id="img_03500"></span>
 
 [![THE GREAT GOD PAN.](tn/03500.jpg)  
-Click to enlarge](img/03500.jpg)  
+Click to enlarge](img/03500.jpg.md)  
 THE GREAT GOD PAN.  
 
 From Kircher's *Œdipus Ægyptiacus*.
@@ -642,4 +642,4 @@ themselves either wise or truly religious.
 
 ------------------------------------------------------------------------
 
-[Next: The Life and Teachings of Thoth Hermes Trismegistus](sta08)
+[Next: The Life and Teachings of Thoth Hermes Trismegistus](sta08.md)

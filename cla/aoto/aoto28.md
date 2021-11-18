@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto27) 
-[Next](aoto29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto27.md) 
+[Next](aoto29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -139,7 +139,7 @@ people should bless me."
 
 <span class="margnote"><span id="an_23:288">288</span></span> Meanwhile
 Eurynome and Euryclea made the room ready, <span
-id="fr_46"></span>[\*](#fn_46)
+id="fr_46"></span>[\*](#fn_46.md)
 
 <span id="page_99">p. 99</span>
 
@@ -181,7 +181,7 @@ out of the town.
 
 ### Footnotes
 
-<span id="fn_46"></span>[98:\*](aoto28.htm#fr_46) This room was
+<span id="fn_46"></span>[98:\*](aoto28.htm#fr_46.md) This room was
 apparently not within the body of the house. It was certainly on the
 ground floor, for the bed was fixed on the stump of a tree; I strongly
 suspect it to be the vaulted room, round the outside of which the bodies
@@ -195,4 +195,4 @@ entertained it.
 ------------------------------------------------------------------------
 
 [Next: Book XXIV. The Suitors in Hades, Ulysses Makes Peace with
-Ithaca.](aoto29)
+Ithaca.](aoto29.md)

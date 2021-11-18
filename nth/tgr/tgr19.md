@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tgr18)  [Next](tgr20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tgr18)  [Next](tgr20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NJ5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Think and Grow Rich*, by Napoleon Hill \[1938\], at Intangible Textual
 Heritage
 
@@ -347,7 +347,7 @@ After that, I began to add new members to my Cabinet, until now it
 consists of more than fifty, among them Christ, St. Paul, Galileo,
 Copernicus, Aristotle, Plato, Socrates, Homer, Voltaire, Bruno, Spinoza,
 Drummond, Kant, Schopenhauer, Newton, Confucius, Elbert Hubbard, Brann,
-[Ingersoll](errata.htm#1), Wilson, and William James.
+[Ingersoll](errata.htm#1.md), Wilson, and William James.
 
 This is the first time that I have had the courage to mention this.
 Heretofore, I have remained quiet on the subject, because I knew, from
@@ -426,7 +426,7 @@ with which he had no human experience and no accumulated knowledge to
 guide him, as was the case while he was working on the talking machine,
 and the moving picture machine.
 
-Nearly all great leaders, such as Napoleon, [Bismarck](errata.htm#2),
+Nearly all great leaders, such as Napoleon, [Bismarck](errata.htm#2.md),
 Joan of Arc, Christ, Buddha, Confucius, and Mohammed, understood, and
 probably made use of the sixth sense almost continuously. The major
 portion of their greatness consisted of their knowledge of this
@@ -511,4 +511,4 @@ frightens some of us out of our wits.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15. How to Outwit the Six Ghosts of Fear](tgr20)
+[Next: Chapter 15. How to Outwit the Six Ghosts of Fear](tgr20.md)

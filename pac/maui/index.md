@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHBQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHBQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHBQ/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](maui00)    [Text
-\[Zipped\]](maui.txt.gz)
+[Contents](#contents)    [Start Reading](maui00.md)    [Text
+\[Zipped\]](maui.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,22 +42,22 @@ to the Hawaiian islands.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](maui00)  
-[Contents](maui01)  
-[Helps to Pronunciation](maui02)  
-[Preface](maui03)  
-[I. Maui's Home](maui04)  
-[II. Maui the Fisherman](maui05)  
-[III. Maui Lifting the Sky](maui06)  
-[IV. Maui Snaring the Sun](maui07)  
-[V. Maui Finding Fire](maui08)  
-[VI. Maui the Skillful](maui09)  
-[VII. Maui and Tuna](maui10)  
-[VIII. Maui and His Brother-In-Law](maui11)  
-[IX. Maui's Kite Flying](maui12)  
-[X. The Oahu Legends Of Maui](maui13)  
-[XI. Maui Seeking Immortality](maui14)  
-[XII. Hina of Hilo](maui15)  
-[XIII. Hina and the Wailuku River](maui16)  
-[XIV. Ghosts of the Hilo Hills](maui17)  
-[XV. Hina, the Woman In the Moon](maui18)  
+<span id="contents"></span> [Title Page](maui00.md)  
+[Contents](maui01.md)  
+[Helps to Pronunciation](maui02.md)  
+[Preface](maui03.md)  
+[I. Maui's Home](maui04.md)  
+[II. Maui the Fisherman](maui05.md)  
+[III. Maui Lifting the Sky](maui06.md)  
+[IV. Maui Snaring the Sun](maui07.md)  
+[V. Maui Finding Fire](maui08.md)  
+[VI. Maui the Skillful](maui09.md)  
+[VII. Maui and Tuna](maui10.md)  
+[VIII. Maui and His Brother-In-Law](maui11.md)  
+[IX. Maui's Kite Flying](maui12.md)  
+[X. The Oahu Legends Of Maui](maui13.md)  
+[XI. Maui Seeking Immortality](maui14.md)  
+[XII. Hina of Hilo](maui15.md)  
+[XIII. Hina and the Wailuku River](maui16.md)  
+[XIV. Ghosts of the Hilo Hills](maui17.md)  
+[XV. Hina, the Woman In the Moon](maui18.md)  

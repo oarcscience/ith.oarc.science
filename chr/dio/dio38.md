@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio37)  [Next](dio39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio37)  [Next](dio39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ is <span id="ii.vi-p3.1"></span>διττός; according to Dionysius, Jesus is
 <span id="ii.vi-p3.2"></span>ἁπλοῦς; both true when properly understood,
 but when misunderstood--"<span id="ii.vi-p3.3"></span>Hinc lachrymae
 illae"--Dupin formed his premise for his conclusion, not from
-facts <span id="fr_139"></span>[140](#fn_139) .
+facts <span id="fr_139"></span>[140](#fn_139.md) .
 
 <span id="ii.vi-p4"></span>FALLACY OF NAMES.
 
@@ -99,7 +99,7 @@ permitted to be doubtful of the genuineness. <span id="page_205">p.
 205</span> <span id="ii.vi-Page_205"></span>
 
 <span id="ii.vi-p8"></span>GREGORY OF TOURS <span
-id="fr_140"></span>[141](#fn_140) .
+id="fr_140"></span>[141](#fn_140.md) .
 
 <span id="ii.vi-p9"></span>Gregory is the great authority of those who
 think that the St. Denis of France is not identical with Dionysius the
@@ -108,8 +108,8 @@ collects the more obscure martyrdoms, in Gaul, under Nero, and
 subsequent Emperors. He gives several martyrdoms under Nero, and thus
 proves the Apostolic Evangelisation of Gaul. Gregory quotes, and
 misquotes, and misunderstands the ancient document <span
-id="fr_141"></span>[142](#fn_141) , "Concerning <span
-id="fr_142"></span>[143](#fn_142) seven men sent by St. Peter into
+id="fr_141"></span>[142](#fn_141.md) , "Concerning <span
+id="fr_142"></span>[143](#fn_142.md) seven men sent by St. Peter into
 Gaul,--in Gallias--to preach." "Under Claudius --sub CLDIO--Peter the
 Apostle sent certain disciples into Gaul to preach,--they were,
 Trophimus, Paulus, Martial, Austremonius, Gatianus, Saturninus,
@@ -120,7 +120,7 @@ Christian Faith till A.D. 44 or 49. Then Gregory misreads "Claudio "for
 disciple of the Apostles, sent by Clement, successor of Peter, arrives
 in Gaul A.D. 250, and the identical names of his companions recur
 miraculously in the third century. At the very time that Trophimus <span
-id="fr_143"></span>[144](#fn_143) is thus supposed to have arrived at
+id="fr_143"></span>[144](#fn_143.md) is thus supposed to have arrived at
 Aries, we have a letter from Cyprian, A.D. 254, urging Pope Stephen to
 depose Marcion, 15th or<span id="page_206">p. 206</span> <span
 id="ii.vi-Page_206"></span> 18th Bishop of Aries from Trophimus. Such is
@@ -134,16 +134,16 @@ Christendom. They are critical, and yet follow the gross blunder of
 Gregory of Tours. They belong to the papal obedience, and yet prefer
 Gregory of Tours when wrong, to Gregory XIII., when right. They
 pronounce the solemn declaration of Pope John XIXth, "that Martial of
-Limoges was an apostolic man <span id="fr_144"></span>[145](#fn_144) ,"
+Limoges was an apostolic man <span id="fr_144"></span>[145](#fn_144.md) ,"
 as of no historic value. They think that St. John Damascene did not
 possess the same critical apparatus for proving the authenticity of the
 writings of Dionysius, that we possess in the xixth Century. Their
 "<span id="ii.vi-p11.2"></span>actes authentiques <span
-id="fr_145"></span>[146](#fn_145) " of Dionysius acknowledge that he was
+id="fr_145"></span>[146](#fn_145.md) " of Dionysius acknowledge that he was
 sent to Gaul by Clement, successor of Peter; and yet they affirm that he
 arrived in Gaul, A.D, 250. After Clement I., who succeeded Peter and
 Paul, there was not another Clement, Bishop of Rome, for a thousand
-years <span id="fr_146"></span>[147](#fn_146) . Happily, Les petits
+years <span id="fr_146"></span>[147](#fn_146.md) . Happily, Les petits
 Bolandistes are more rational and critical than their Pères.
 
 <span id="ii.vi-p12"></span>GENERAL OBJECTION.
@@ -201,31 +201,31 @@ Yard, Oxford.**
 
 ### Footnotes
 
-<span id="fn_139"></span>[203:140](dio38.htm#fr_139) <span
+<span id="fn_139"></span>[203:140](dio38.htm#fr_139.md) <span
 id="ii.vi-p3.4"></span>Vidieu, page 107.
 
-<span id="fn_140"></span>[205:141](dio38.htm#fr_140) <span
+<span id="fn_140"></span>[205:141](dio38.htm#fr_140.md) <span
 id="ii.vi-p8.1"></span>L’Abbé Darras. St. Denys l’Areopagite, p. 34.
 
-<span id="fn_141"></span>[205:142](dio38.htm#fr_141) <span
+<span id="fn_141"></span>[205:142](dio38.htm#fr_141.md) <span
 id="ii.vi-p9.1"></span>Ibid., p. 51.
 
-<span id="fn_142"></span>[205:143](dio38.htm#fr_142) <span
+<span id="fn_142"></span>[205:143](dio38.htm#fr_142.md) <span
 id="ii.vi-p9.2"></span>See Monuments inédits de M. Faillon, t. ii. p.
 375.
 
-<span id="fn_143"></span>[205:144](dio38.htm#fr_143) <span
+<span id="fn_143"></span>[205:144](dio38.htm#fr_143.md) <span
 id="ii.vi-p9.3"></span>Darras, p. 14.
 
-<span id="fn_144"></span>[206:145](dio38.htm#fr_144) <span
+<span id="fn_144"></span>[206:145](dio38.htm#fr_144.md) <span
 id="ii.vi-p11.1"></span>See Surius.
 
-<span id="fn_145"></span>[206:146](dio38.htm#fr_145) <span
+<span id="fn_145"></span>[206:146](dio38.htm#fr_145.md) <span
 id="ii.vi-p11.3"></span>Darras, 293-300.
 
-<span id="fn_146"></span>[206:147](dio38.htm#fr_146) <span
+<span id="fn_146"></span>[206:147](dio38.htm#fr_146.md) <span
 id="ii.vi-p11.4"></span>Clement I., A.D. 67, Cl. II. 1046.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page - Volume 2.](dio39)
+[Next: Title Page - Volume 2.](dio39.md)

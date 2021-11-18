@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia40)  [Next](aia42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia40)  [Next](aia42.md) 
 
 ------------------------------------------------------------------------
 
@@ -787,4 +787,4 @@ improved.
 
 ------------------------------------------------------------------------
 
-[Next: Effects of the Aspects Between the Significators](aia42)
+[Next: Effects of the Aspects Between the Significators](aia42.md)

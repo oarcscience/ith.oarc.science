@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb21)  [Next](pifb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb21)  [Next](pifb23.md) 
 
 </div>
 
@@ -155,6 +155,6 @@ for good and all.
 
 ------------------------------------------------------------------------
 
-[Next: Catherine and Her Destiny](pifb23)
+[Next: Catherine and Her Destiny](pifb23.md)
 
 </div>

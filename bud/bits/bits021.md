@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits020) [Next](bits022)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits020) [Next](bits022.md)
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ and deceives all foolish people with its femininity, masculinity, etc.
 
 ------------------------------------------------------------------------
 
-[Next: § 22. On Getting Angry](bits022)
+[Next: § 22. On Getting Angry](bits022.md)
 
  
 

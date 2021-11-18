@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Return to Text](aflg17.htm#pl6)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Return to Text](aflg17.htm#pl6.md)
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ THE INVOCATIONS ARE MADE
 
 ------------------------------------------------------------------------
 
-[Return to Text](aflg17.htm#pl6)
+[Return to Text](aflg17.htm#pl6.md)

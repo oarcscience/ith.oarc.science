@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ American](../../index)  [California](../index) 
 
 ------------------------------------------------------------------------
 
-[Jump to Contents](#contents)    [Start Reading](bosc00)
+[Jump to Contents](#contents)    [Start Reading](bosc00.md)
 
 ------------------------------------------------------------------------
 
@@ -56,25 +56,25 @@ edition.
 
 ------------------------------------------------------------------------
 
-[Title Page](bosc00)  
-[Translator's Introduction](bosc01)  
-[Introduction](bosc02)  
-[Chapter I. Of What Race of People Are These Indians?](bosc03)  
-[Chapter II. On the Creation of the Universe](bosc04)  
+[Title Page](bosc00.md)  
+[Translator's Introduction](bosc01.md)  
+[Introduction](bosc02.md)  
+[Chapter I. Of What Race of People Are These Indians?](bosc03.md)  
+[Chapter II. On the Creation of the Universe](bosc04.md)  
 [Chapter III. Of the Creation of the World According to Those Residing
-on the Sea-Coast](bosc05)  
-[Chapter IV. Description of the Vanquech or Temple](bosc06)  
-[Chapter V. Obedience and Subjection to Their Captain](bosc07)  
-[Chapter VI. The Instructions Given to Their Children](bosc08)  
-[Chapter VII. On Matrimony](bosc09)  
-[Chapter VIII. On Their Mode of Life and Occupation](bosc10)  
-[Chapter IX. On Their Principal Feasts and Dances](bosc11)  
-[Chapter X. Of Many of Their Extravagances](bosc12)  
-[Chapter XI. Their Calendar](bosc13)  
-[Chapter XII. The Indian Wars](bosc14)  
-[Chapter XIII. Their Funeral Ceremonies](bosc15)  
-[Chapter XIV. The Immortality of the Soul](bosc16)  
+on the Sea-Coast](bosc05.md)  
+[Chapter IV. Description of the Vanquech or Temple](bosc06.md)  
+[Chapter V. Obedience and Subjection to Their Captain](bosc07.md)  
+[Chapter VI. The Instructions Given to Their Children](bosc08.md)  
+[Chapter VII. On Matrimony](bosc09.md)  
+[Chapter VIII. On Their Mode of Life and Occupation](bosc10.md)  
+[Chapter IX. On Their Principal Feasts and Dances](bosc11.md)  
+[Chapter X. Of Many of Their Extravagances](bosc12.md)  
+[Chapter XI. Their Calendar](bosc13.md)  
+[Chapter XII. The Indian Wars](bosc14.md)  
+[Chapter XIII. Their Funeral Ceremonies](bosc15.md)  
+[Chapter XIV. The Immortality of the Soul](bosc16.md)  
 [Chapter XV. Origin of the Population of the Mission of St. Juan
-Capistrano](bosc17)  
-[Chapter XVI. The Character of the Indian](bosc18)  
-[Characteristic Anecdotes](bosc19)  
+Capistrano](bosc17.md)  
+[Chapter XVI. The Character of the Indian](bosc18.md)  
+[Characteristic Anecdotes](bosc19.md)  

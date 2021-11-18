@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep21)  [Next](nep23) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep21)  [Next](nep23.md) 
 
 ------------------------------------------------------------------------
 
@@ -216,4 +216,4 @@ That I may meet you in the heavens,
 
 ------------------------------------------------------------------------
 
-[Next: Verses for Little Children](nep23)
+[Next: Verses for Little Children](nep23.md)

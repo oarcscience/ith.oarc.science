@@ -1,18 +1,18 @@
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [Tanakh
-Index](index)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [Tanakh
+Index](index.md)  
 
 ------------------------------------------------------------------------
 
 # Viewing Biblical Hebrew Unicode
 
 A high-quality Hebrew font such as SBL Hebrew (SBL\_Hbrw.ttf) or [EZRA
-SIL](https://www.sil.org/computing/fonts/silhebruni/) \[External Site\]
+SIL](https://www.sil.org/computing/fonts/silhebruni/.md) \[External Site\]
 (SILEOT.ttf) should be installed to view Unicode Biblical Hebrew.
-SBL\_Hbrw.ttf can be downloaded [below](#download).
+SBL\_Hbrw.ttf can be downloaded [below](#download.md).
 
 Another font which has reasonably complete support for the Unicode range
 used in the Tanach is the [Code 2000 shareware
-font](https://home.att.net/~jameskass/) \[External Site\]. This font,
+font](https://home.att.net/~jameskass/.md) \[External Site\]. This font,
 when used in conjunction with Internet Explorer, gives good results;
 however this is not the case with some versions of Netscape.
 
@@ -47,7 +47,7 @@ intellectual property of Tiro Typeworks, Vancouver BC, Canada. SBL
 Hebrew is a trademark of the Society of Biblical Literature, Atlanta GA,
 USA.
 
-[Click here to download SBL\_Hbrw.ttf](SBL_Hbrw.ttf) *161,880 bytes*
+[Click here to download SBL\_Hbrw.ttf](SBL_Hbrw.ttf.md) *161,880 bytes*
 
 This font is compatible with Windows XP and 2000. To install the font,
 download the font to a location on your hard drive, open the 'Fonts' in

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj13) 
-[Next](npj15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj13.md) 
+[Next](npj15.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ BENKEI.
 
 I am one who lives near the Western Pagoda. My name is Musashibō Benkei.
 In fulfillment of a certain vow I have been going lately by night at the
-hour of the Ox <span id="fr_62"></span>[1](#fn_60) to worship at the
+hour of the Ox <span id="fr_62"></span>[1](#fn_60.md) to worship at the
 Gojō Temple. Tonight is the last time; I ought soon to be starting.
 
 Hie! Is any one there?
@@ -105,7 +105,7 @@ fill in the time while* BENKEI *is arming himself*.)
 USHIWAKA.
 
 I am Ushiwaka. I must do as my mother told me; "Go up to the,
-Temple <span id="fr_63"></span>[1](#fn_61) at daybreak," she said. But
+Temple <span id="fr_63"></span>[1](#fn_61.md) at daybreak," she said. But
 it is still night. I will go to <span id="page_83">p. 83</span> Gojō
 Bridge and wait there till suddenly
 
@@ -118,7 +118,7 @@ CHORUS (*speaking for* USHIWAKA).
 
 Oh! beauty of the waves! High beats my heart,  
 High as their scattered pearls!  
-Waves white as dewy calabash <span id="fr_64"></span>[1](#fn_62) at
+Waves white as dewy calabash <span id="fr_64"></span>[1](#fn_62.md) at
 dawn,  
 By Gojō Bridge.  
 Silently the night passes,  
@@ -164,7 +164,7 @@ BENKEI.
 
 Benkei discerned him and would have spoken....  
 But when he looked, lo! it was a woman's form!  
-Then, because he had left the World, <span id="fr_65"></span>[1](#fn_63)
+Then, because he had left the World, <span id="fr_65"></span>[1](#fn_63.md)
 with troubled mind he hurried on.
 
 USHIWAKA.
@@ -238,12 +238,12 @@ For you are yet a child, and I a priest.
 Such are your rank and lineage, such your prowess  
 That I will gladly serve you. <span id="page_86">p. 86</span>  
 Too hastily you took me for an enemy; but now begins  
-A three lives' bond; henceforward <span id="fr_66"></span>[1](#fn_64)  
+A three lives' bond; henceforward <span id="fr_66"></span>[1](#fn_64.md)  
 As slave I serve you."  
 So, while the one made vows of homage, the other girded up his cloak.  
 Then Benkei laid his halberd across his shoulder  
 And together they went on their way  
-To the palace of Kujō. <span id="fr_67"></span>[2](#fn_65)
+To the palace of Kujō. <span id="fr_67"></span>[2](#fn_65.md)
 
  
 
@@ -251,20 +251,20 @@ To the palace of Kujō. <span id="fr_67"></span>[2](#fn_65)
 
 ### Footnotes
 
-<span id="fn_60"></span>[81:1](npj14.htm#fr_62) 1-3 A. M.
+<span id="fn_60"></span>[81:1](npj14.htm#fr_62.md) 1-3 A. M.
 
-<span id="fn_61"></span>[82:1](npj14.htm#fr_63) The Kurama Temple.
+<span id="fn_61"></span>[82:1](npj14.htm#fr_63.md) The Kurama Temple.
 
-<span id="fn_62"></span>[83:1](npj14.htm#fr_64) Flowers of the *yūgao*
+<span id="fn_62"></span>[83:1](npj14.htm#fr_64.md) Flowers of the *yūgao*
 or calabash. There is a reference to Lady Yugao (see [p.
-142](npj24.htm#page_142), who lived at Gojō.
+142](npj24.htm#page_142.md), who lived at Gojō.
 
-<span id="fn_63"></span>[84:1](npj14.htm#fr_65) Because he was a priest.
+<span id="fn_63"></span>[84:1](npj14.htm#fr_65.md) Because he was a priest.
 
-<span id="fn_64"></span>[86:1](npj14.htm#fr_66) I.e. three incarnations.
+<span id="fn_64"></span>[86:1](npj14.htm#fr_66.md) I.e. three incarnations.
 
-<span id="fn_65"></span>[86:2](npj14.htm#fr_67) Ushiwaka's home.
+<span id="fn_65"></span>[86:2](npj14.htm#fr_67.md) Ushiwaka's home.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](npj15)
+[Next: Chapter III](npj15.md)

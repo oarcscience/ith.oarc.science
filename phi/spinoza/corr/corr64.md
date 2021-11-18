@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr63)  [Next](corr65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr63)  [Next](corr65.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 ### LETTER LXVI. (LXIV.)
 
-#### SPINOZA TO \* \* \* \* \* <span id="fr_70"></span>[1](#fn_69)
+#### SPINOZA TO \* \* \* \* \* <span id="fr_70"></span>[1](#fn_69.md)
 
 \[*Spinoza answers by references to the first three books of the
 Ethics*.\]
@@ -99,8 +99,8 @@ The Hague, 29 July, 1675.
 
 ### Footnotes
 
-<span id="fn_69"></span>[398:1](corr64.htm#fr_70) Tschirnhausen.
+<span id="fn_69"></span>[398:1](corr64.htm#fr_70.md) Tschirnhausen.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXVII. From Anon. \[Tschirnhausen\]](corr65)
+[Next: Letter LXVII. From Anon. \[Tschirnhausen\]](corr65.md)

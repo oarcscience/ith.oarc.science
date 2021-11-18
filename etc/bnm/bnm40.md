@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm39)  [Next](bnm41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm39)  [Next](bnm41.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ why the sea is salt.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Whitefish.](bnm41)
+[Next: The Story Of The First Whitefish.](bnm41.md)

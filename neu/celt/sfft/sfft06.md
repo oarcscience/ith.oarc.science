@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft05)  [Next](sfft07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft05)  [Next](sfft07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE CROODIN DOO. <span id="fr_9"></span>[1](#fn_9)  <span id="fr_10"></span>[2](#fn_10)
+### THE CROODIN DOO. <span id="fr_9"></span>[1](#fn_9)  <span id="fr_10"></span>[2](#fn_10.md)
 
 "WHERE hae ye been a' the day,  
 My bonny wee croodin doo?"  
@@ -66,12 +66,12 @@ O make my bed, mammie, now!"
 
 ### Footnotes
 
-<span id="fn_9"></span>[74:1](sfft06.htm#fr_9) A term of endearment
+<span id="fn_9"></span>[74:1](sfft06.htm#fr_9.md) A term of endearment
 applied to a child; literally, "cooing dove."
 
-<span id="fn_10"></span>[74:2](sfft06.htm#fr_10) Chambers, *Popular
+<span id="fn_10"></span>[74:2](sfft06.htm#fr_10.md) Chambers, *Popular
 Rhymes of Scotland*.
 
 ------------------------------------------------------------------------
 
-[Next: The Cattie Sits in the Kiln-Ring Spinning](sfft07)
+[Next: The Cattie Sits in the Kiln-Ring Spinning](sfft07.md)

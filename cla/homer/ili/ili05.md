@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](ili04)  [Next](ili06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](ili04)  [Next](ili06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Iliad of Homer*, tr. by Samuel Butler, \[1898\], at Intangible
 Textual Heritage
 
@@ -765,6 +765,6 @@ Jove.
 
 ------------------------------------------------------------------------
 
-[Next: Book VI](ili06)
+[Next: Book VI](ili06.md)
 
 </div>

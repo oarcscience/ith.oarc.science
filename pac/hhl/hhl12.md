@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl11)  [Next](hhl13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl11)  [Next](hhl13.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ In time Moi-keha became the king of Kauai.
 
 ------------------------------------------------------------------------
 
-[Next: IX. Laa From Tahiti](hhl13)
+[Next: IX. Laa From Tahiti](hhl13.md)

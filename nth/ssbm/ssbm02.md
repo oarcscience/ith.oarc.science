@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](ssbm01)  [Next](ssbm03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](ssbm01)  [Next](ssbm03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GY16/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Science Behind Miracles*, by Max Freedom Long, \[1948\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ religions whose literatures were available to me.
 
 With this background, and having majored in Psychology at school, I
 arrived in Hawaii in 1917 and took a job teaching because the position
-would place me near the volcano, [Kilauea](errata.htm#0), which was very
+would place me near the volcano, [Kilauea](errata.htm#0.md), which was very
 active at the time and which I proposed to visit as often as possible.
 
 After a three days’ voyage in a small steamer out of Honolulu, I at last
@@ -546,7 +546,7 @@ each; that one died with the body, the other lived on, either visible or
 invisible as might be, but had no more connection with the person
 deceased than his shadow. These ghosts could talk, cry, complain, etc.
 There were those supposed to be skillful in entrapping or catching
-them." <span id="fr_0"></span>[\*](#fn_0)
+them." <span id="fr_0"></span>[\*](#fn_0.md)
 
 It was apparent that the earnest missionaries had consulted the
 Hawaiians to ascertain the meanings of these two words, and had been
@@ -666,7 +666,7 @@ the first work of matching the more complete psychology with the
 external rites of kahuna magic. I decided that what I had found was too
 valuable to keep from the world, and forthwith wrote a report on my
 findings and the kahuna lore in general. <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 The English publication brought me many letters. I had placed my name
 and address in the back of the report and had requested any reader who
@@ -879,16 +879,16 @@ proofs of its correctness as a workable set of scientific facts.
 
 ### Footnotes
 
-<span id="fn_0"></span>[17:\*](ssbm02.htm#fr_0) In the pronunciation of
+<span id="fn_0"></span>[17:\*](ssbm02.htm#fr_0.md) In the pronunciation of
 Hawaiian words, the sound of the vowels is that used in Latin. A as in
 father; E as long a in ale; I as long e in enough; Ai as long i in isle;
 U as oo in moon; O as long o in over; W almost like v. *Uhane* is
 pronounced oo-hah-nay. *Unihipili* is pronounced oo-nee-hee-pee-lee.
 Aumakua is pronounced Ah-oo-mah-koo-ah.
 
-<span id="fn_1"></span>[21:\*](ssbm02.htm#fr_1) RECOVERING THE ANCIENT
+<span id="fn_1"></span>[21:\*](ssbm02.htm#fr_1.md) RECOVERING THE ANCIENT
 MAGIC, published by Rider & Co., London, 1936.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Fire-Walking as an Introduction to Magic](ssbm03)
+[Next: Chapter II. Fire-Walking as an Introduction to Magic](ssbm03.md)

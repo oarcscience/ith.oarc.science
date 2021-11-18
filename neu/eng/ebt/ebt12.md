@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt11)  [Next](ebt13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt11)  [Next](ebt13.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ farmer. I show a photograph of one of these at Bridge Sollars, with the
 trench of the road beyond.
 
 A beautifully constructed causeway of even pitched stones is to be seen
-at the foot of Holmer Hill ([Plate VI](ebt10.htm#img_pl06).). It has
+at the foot of Holmer Hill ([Plate VI](ebt10.htm#img_pl06)..md). It has
 well defined edges, and lies at the bottom of a small sighting pond. In
 the crevices of its stones I found fragments of crude red pottery, with
 a bit of early (Anglo-Saxon) ornament, a bit of iron slag, and a bit of
@@ -57,4 +57,4 @@ are explained by this theory.
 
 ------------------------------------------------------------------------
 
-[Next: Mark Stones](ebt13)
+[Next: Mark Stones](ebt13.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](lgh00) 
-[Next](lgh02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](lgh00.md) 
+[Next](lgh02.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ learning is unsuitable to women, the writer will be amply rewarded.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](lgh02)
+[Next: Contents](lgh02.md)

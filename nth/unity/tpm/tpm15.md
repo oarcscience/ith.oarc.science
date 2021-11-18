@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](tpm14)  [Next](tpm16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](tpm14)  [Next](tpm16.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *The Twelve Powers of Man*, by Charles Fillmore, \[1930\], at Intangible
 Textual Heritage
 
@@ -435,4 +435,4 @@ Lord's body, until He appears again in their regeneration organism.
 
 ------------------------------------------------------------------------
 
-[Next: Question Helps](tpm16)
+[Next: Question Helps](tpm16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl10)  [Next](hhl12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl10)  [Next](hhl12.md) 
 
 ------------------------------------------------------------------------
 
@@ -438,4 +438,4 @@ gulf fixed by custom.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Moi-keha, The Restless](hhl12)
+[Next: VIII. Moi-keha, The Restless](hhl12.md)

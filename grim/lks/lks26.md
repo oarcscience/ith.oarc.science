@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks25)  [Next](lks27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks25)  [Next](lks27.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ conjurations.
 
 ------------------------------------------------------------------------
 
-[Next: Explanation Of Certain Names Used In This Book Lemegeton](lks27)
+[Next: Explanation Of Certain Names Used In This Book Lemegeton](lks27.md)

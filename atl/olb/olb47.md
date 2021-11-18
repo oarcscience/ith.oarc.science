@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb46)  [Next](olb48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb46)  [Next](olb48.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -28,7 +28,7 @@ question of any other count being chosen.
 While Adel was studying at Texland there was a lovely maiden at the
 citadel. She came from Saxenmarken, from the state of Suobaland,
 therefore she was called at Texland Suobene <span
-id="fr_79"></span>[†](#fn_79), although her name
+id="fr_79"></span>[†](#fn_79.md), although her name
 
 <span id="page_210">p. 210</span> <span id="page_211">p. 211</span>
 
@@ -48,9 +48,9 @@ by sea to Texland. From Texland they went to Westflyland, and so along
 the cost to Walhallagara; thence they followed the Zuiderryn (the Waal),
 till, with great apprehension, they arrived beyond the Rhine at the
 Marsaten of whom our Apollonia has written <span
-id="fr_80"></span>[\*](#fn_80). When they had stayed there a little
+id="fr_80"></span>[\*](#fn_80.md). When they had stayed there a little
 time, they returned to the lowlands. When they had been some time
-descending towards the lowlands <span id="fr_81"></span>[†](#fn_81), and
+descending towards the lowlands <span id="fr_81"></span>[†](#fn_81.md), and
 had reached about the old citadel of Aken, four of their servants were
 suddenly murdered and stripped. They had loitered a little behind. My
 brother, who was always on the alert, had forbidden them to do so, but
@@ -67,14 +67,14 @@ on everybody. They are all horsemen and robbers. This is what makes the
 Twisklanders so bloodthirsty. The Twisklanders who had done the wicked
 deed called themselves Frijen or Franken. There were among them, my
 brother said, red, brown, and white men. The red and brown made their
-hair white with lime-water <span id="fr_82"></span>[\*](#fn_82)—but as
+hair white with lime-water <span id="fr_82"></span>[\*](#fn_82.md)—but as
 their faces remained brown, they were only the more ugly. In the same
 way as Apollonia, they visited Lydasburgt and the Alderga. Afterwards
 they made a tour of all the neighbourhood of Stavera. They behaved with
 so much amiability, that everywhere the people wished to keep them.
 Three months later, Adel sent messengers to all the friends that he had
 made, requesting them to send to him their "wise men" in the month of
-May. <span id="fr_83"></span>[†](#fn_83)
+May. <span id="fr_83"></span>[†](#fn_83.md)
 
 <span id="page_214">p. 214</span> <span id="page_215">p. 215</span>
 
@@ -88,21 +88,21 @@ Albetha, as soon as Friso was dead.
 
 ### Footnotes
 
-<span id="fn_79"></span>[209:†](olb47.htm#fr_79) Hamconius, page 8.
+<span id="fn_79"></span>[209:†](olb47.htm#fr_79.md) Hamconius, page 8.
 Suobinna.
 
-<span id="fn_80"></span>[211:\*](olb47.htm#fr_80) See page 150.
+<span id="fn_80"></span>[211:\*](olb47.htm#fr_80.md) See page 150.
 
-<span id="fn_81"></span>[211:†](olb47.htm#fr_81) *Delta*, still in use
+<span id="fn_81"></span>[211:†](olb47.htm#fr_81.md) *Delta*, still in use
 in North Holland for swampy land.
 
-<span id="fn_82"></span>[213:\*](olb47.htm#fr_82) Diodorus Siculus, V.
+<span id="fn_82"></span>[213:\*](olb47.htm#fr_82.md) Diodorus Siculus, V.
 28.
 
-<span id="fn_83"></span>[213:†](olb47.htm#fr_83) Here the copyist, Hiddo
+<span id="fn_83"></span>[213:†](olb47.htm#fr_83.md) Here the copyist, Hiddo
 oera Linda, has turned over a leaf too much, and has thus omitted two
 pages.
 
 ------------------------------------------------------------------------
 
-[Next: Here is the Writing with Gosa's Advice](olb48)
+[Next: Here is the Writing with Gosa's Advice](olb48.md)

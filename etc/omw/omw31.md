@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw30)  [Next](omw32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw30)  [Next](omw32.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ into the Council of the Olympians, the unyielding Titan, Prometheus.
 
 ------------------------------------------------------------------------
 
-[Next: Pandora](omw32)
+[Next: Pandora](omw32.md)

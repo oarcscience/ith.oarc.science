@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfl01)  [Next](wfl03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfl01)  [Next](wfl03.md) 
 
 ------------------------------------------------------------------------
 
@@ -585,4 +585,4 @@ to think without laughing.' \[Fiske, Myths and Myth-makers' 105\].
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Lake Fairies](wfl03)
+[Next: Chapter III: Lake Fairies](wfl03.md)

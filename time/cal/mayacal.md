@@ -2,7 +2,7 @@
 layout: seclanding
 title: "Mayan Calendar"
 ---
-[![](../../cdshop/ithlogo.png)](../../index)
+[![](../../cdshop/ithlogo.png)](../../index.md)
 
 ------------------------------------------------------------------------
 
@@ -10,9 +10,9 @@ title: "Mayan Calendar"
 
 <span class="p-small2"> </span>
 
-[Sacred Time Index](../index)  [Sacred Calendars](index)  [Native
-American](../../nam/index)  [Planetary Positions](astro)  [Islamic
-Date](isldate) [Jewish Date](jdate)
+[Sacred Time Index](../index)  [Sacred Calendars](index.md)  [Native
+American](../../nam/index)  [Planetary Positions](astro.md)  [Islamic
+Date](isldate) [Jewish Date](jdate.md)
 
 <table width="800" data-bgcolor="white">
 <colgroup>

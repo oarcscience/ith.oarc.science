@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl18)  [Next](hpl20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl18)  [Next](hpl20.md) 
 
 ------------------------------------------------------------------------
 
@@ -325,4 +325,4 @@ sheets which alone could have explained the music of Erich Zann.
 
 ------------------------------------------------------------------------
 
-[Next: The Tomb (1922)](hpl20)
+[Next: The Tomb (1922)](hpl20.md)

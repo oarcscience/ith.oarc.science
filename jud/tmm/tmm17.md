@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm16)  [Next](tmm18) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm16)  [Next](tmm18.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ David's words clearly show that righteous non-Jews
 will inherit future bliss. He says: 'The wicked shall go to 'Sheol' and
 all the nations that forget God' (Ps. 9. 18), i.e. those of the nations
 that forget God, but not those who worship God.--Mid. Psalms 9. <span
-id="fr_23"></span>[1](#fn_23)
+id="fr_23"></span>[1](#fn_23.md)
 
 A certain philosopher asked Rabbi Elisha:--'Your prophet predicts about
 us "They shall build, but I will throw down" (Mal. 1. 4). Now look at
@@ -509,9 +509,9 @@ not save Esau. Each man must work out his own salvation.--Mid. Psalms
 
 ### Footnotes
 
-<span id="fn_23"></span>[200:1](tmm17.htm#fr_23) See also Tosephta
+<span id="fn_23"></span>[200:1](tmm17.htm#fr_23.md) See also Tosephta
 Sanhedrin.
 
 ------------------------------------------------------------------------
 
-[Next: Midrash Proverbs](tmm18)
+[Next: Midrash Proverbs](tmm18.md)

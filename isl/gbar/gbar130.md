@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar129) [Next](gbar131)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar129) [Next](gbar131.md)
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ more. Thy faith hath saved thee.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar131)
+[Next](gbar131.md)

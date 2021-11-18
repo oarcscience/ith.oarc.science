@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos24)  [Next](gbos26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos24)  [Next](gbos26.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ that liveth is my own: From me they come, to me they go.
 
 ------------------------------------------------------------------------
 
-[Next: The Prose Charge](gbos26)
+[Next: The Prose Charge](gbos26.md)

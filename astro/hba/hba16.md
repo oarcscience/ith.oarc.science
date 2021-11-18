@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Astrology](../index) 
-[Index](index)  [Previous](hba15)  [Next](hba17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Astrology](../index.md) 
+[Index](index)  [Previous](hba15)  [Next](hba17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Hindu Book of Astrology*, by Bhakti Seva, \[1902\], at Intangible
 Textual Heritage
 
@@ -226,4 +226,4 @@ sisters and brothers, is the prayer of
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](hba17)
+[Next: Advertisements](hba17.md)

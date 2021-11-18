@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](chaup02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](chaup02.md) 
 
 ------------------------------------------------------------------------
 
@@ -322,7 +322,7 @@ far away; and they looked back and said to her that when they were young
 she never brought hailstones down for them. Now they were old and must
 go away.
 
-They went on till [they](errata.htm#0) came to a large grove of trees,
+They went on till [they](errata.htm#0.md) came to a large grove of trees,
 and here they made stuffed figures of grass and put feathers around the
 head and waist of each, and stood them up and left them there. The old
 woman was in her bed, but looking out of the door she thought she saw
@@ -372,7 +372,7 @@ older. He meant to drown his brother while his eyes were shut by pushing
 him into the water, and then go back to his home again.
 
 Song: Whi-le-wi-ya-han  
-Whi-le-wi-ya-han, etc. <span id="fr_5"></span>[1](#fn_5)
+Whi-le-wi-ya-han, etc. <span id="fr_5"></span>[1](#fn_5.md)
 
 The younger brother lay down to drink, but he did not shut his eyes. He
 was looking in the water, and just as he was getting ready to drink he
@@ -588,7 +588,7 @@ chief got upon the housetop, and all the people agreed to his words, so
 he knew he was to live and not die.
 
 One day all the people went to another place to play peon <span
-id="fr_6"></span>[1](#fn_6) with the people there, and they got beaten.
+id="fr_6"></span>[1](#fn_6.md) with the people there, and they got beaten.
 The grandfather went, and the little boy went afterwards and told his
 grandfather that he was going to play the game, and he would beat all
 the people of the other pueblo. But his grandfather forbade him to play
@@ -701,7 +701,7 @@ people must come together in one house and he would doctor him there.
 
 So all the people got together in one house.
 
-Song: Kwi-nau-wi, etc. <span id="fr_7"></span>[1](#fn_7)
+Song: Kwi-nau-wi, etc. <span id="fr_7"></span>[1](#fn_7.md)
 
 After they doctored him he left the house, and there was a big stone
 before the house, and he shut the door with it and got on top of the
@@ -750,13 +750,13 @@ WATERBURY, CONN.
 
 ### Footnotes
 
-<span id="fn_5"></span>[235:1](chaup03.htm#fr_5) Up to this point I have
-used English [pronunciation](errata.htm#1) for songs. After this, a
+<span id="fn_5"></span>[235:1](chaup03.htm#fr_5.md) Up to this point I have
+used English [pronunciation](errata.htm#1.md) for songs. After this, a
 modified Spanish; English not being sufficiently phonetic.
 
-<span id="fn_6"></span>[239:1](chaup03.htm#fr_6) A famous gambling game.
+<span id="fn_6"></span>[239:1](chaup03.htm#fr_6.md) A famous gambling game.
 
-<span id="fn_7"></span>[241:1](chaup03.htm#fr_7) Towards the last of the
+<span id="fn_7"></span>[241:1](chaup03.htm#fr_7.md) Towards the last of the
 story many of the songs were omitted for the sake of brevity in the
 recital. This resulted in a certain lack of fulness in this part of the
 narrative, the songs amplifying and elucidating the text.

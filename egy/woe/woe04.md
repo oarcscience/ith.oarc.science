@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](woe03)  [Next](woe05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](woe03)  [Next](woe05.md) 
 
 ------------------------------------------------------------------------
 
@@ -734,7 +734,7 @@ mummified hawk; and along the boat is a row of hawks which probably are
 the spirits of deceased kings who have joined Seker in his journey to
 the world of the dead. As there are often two allied forms of the same
 root, one written with *k* and the other with *g*, <span
-id="fr_2"></span>[1](#fn_2) it seems probable that Seker, the funeral
+id="fr_2"></span>[1](#fn_2.md) it seems probable that Seker, the funeral
 god of Memphis, is allied to
 
 Mert Seger (lover of silence). She was the funeral god of Thebes, and
@@ -970,7 +970,7 @@ quarter through the long ages of the prehistoric
 
 <span id="page_77">p. 77</span>
 
-culture, perhaps [7500](errata.htm#2) B.C., we find material evidences
+culture, perhaps [7500](errata.htm#2.md) B.C., we find material evidences
 of considerable changes brought in from the Arabian or Semitic side. It
 may not be unlikely that this was the first triumph of Set. The Isis
 worshippers came from the Delta, where Isis was worshipped at Buto as a
@@ -1344,10 +1344,10 @@ over birth.
 
 ### Footnotes
 
-<span id="fn_2"></span>[67:1](woe04.htm#fr_2) For instance the words
+<span id="fn_2"></span>[67:1](woe04.htm#fr_2.md) For instance the words
 *sek*, to move; *seg*, to go; *sek*, to destroy.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III: The Ptah-Hotep And The Ke'gemni: The Oldest Books In
-The World](woe05)
+The World](woe05.md)

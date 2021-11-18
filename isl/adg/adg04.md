@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg03)  [Next](adg05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg03)  [Next](adg05.md) 
 
 ------------------------------------------------------------------------
 
@@ -1284,4 +1284,4 @@ companions.
 
 ------------------------------------------------------------------------
 
-[Next: Adages of imam Ali (puh) in social relations](adg05)
+[Next: Adages of imam Ali (puh) in social relations](adg05.md)

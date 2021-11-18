@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku74.md) 
 
 ------------------------------------------------------------------------
 
-# CHAPTER XXII. <span id="fr_302"></span>[2](#fn_299)
+# CHAPTER XXII. <span id="fr_302"></span>[2](#fn_299.md)
 
 ### CONCERNING THE REMAINING MEMBERS OF MICROPROSOPUS.
 
@@ -13,7 +13,7 @@ which He receiveth (*i.e., from Chokmah and Binah*).
 
 735\. But whensoever the colours are mingled together then is He called
 Tiphereth, and the whole body is formed into a tree (*the Autz
-Ha-Chaiim, or Tree of Life*), <span id="fr_303"></span>[3](#fn_300)
+Ha-Chaiim, or Tree of Life*), <span id="fr_303"></span>[3](#fn_300.md)
 great and strong, and fair and beautiful, Dan. iv. 11.
 
 736\. "The beasts of the field had shadow under it, and the fowls of the
@@ -169,7 +169,7 @@ Yet the Companions began to weep, and Rabbi Eleazar prostrated himself
 thrice, and could not open his mouth.
 
 774\. At last he began, and said O my father! O my father! there were
-Three, <span id="fr_304"></span>[1](#fn_301) and into One have they
+Three, <span id="fr_304"></span>[1](#fn_301.md) and into One have they
 returned.
 
 775\. "Now shall the living creatures (*the Cherubim*) rush forth (*from
@@ -192,7 +192,7 @@ Eleazar and Rabbi Abba did these services for him.
 
 779\. But the lictors and soldiers came from Kaphar (otherwise, from
 Tzipori and Tardaia, or doctors and learned men from the country). and
-drove them away. <span id="fr_305"></span>[2](#fn_302)
+drove them away. <span id="fr_305"></span>[2](#fn_302.md)
 
 780\. But the inhabitants of Maronæa rescued them with great tumult,
 because they thought that he was not to be buried there.
@@ -229,24 +229,24 @@ Hereunto is the Lesser Holy Assembly.
 
 ### Footnotes
 
-<span id="fn_298"></span>[336:1](tku74.htm#fr_301) Compare the symbolism
+<span id="fn_298"></span>[336:1](tku74.htm#fr_301.md) Compare the symbolism
 of the many breasts of the Ephesian Diana.
 
-<span id="fn_299"></span>[336:2](tku75.htm#fr_302) The "Idra Zuta"
+<span id="fn_299"></span>[336:2](tku75.htm#fr_302.md) The "Idra Zuta"
 contains twenty-two chapters, the number of the letters of the Hebrew
 alphabet, of the chapters of St. John's Apocalypse. and of the verses of
 the 1st, 2nd, 4th, and 5th chapters of Lamentations of Jeremiah, &c. It
 is the number of the Qabalistical keys.
 
-<span id="fn_300"></span>[336:3](tku75.htm#fr_303) Notice that the tree
+<span id="fn_300"></span>[336:3](tku75.htm#fr_303.md) Notice that the tree
 of life is the united body, and the tree of knowledge of good and evil
 the separated.
 
-<span id="fn_301"></span>[340:1](tku75.htm#fr_304) Referring to Rabbi
+<span id="fn_301"></span>[340:1](tku75.htm#fr_304.md) Referring to Rabbi
 Schimeon, Rabbi Abba, and himself having symbolized Kether, Chokmah, and
 Binah.
 
-<span id="fn_302"></span>[340:2](tku75.htm#fr_305) Knorr de Rosenroth
+<span id="fn_302"></span>[340:2](tku75.htm#fr_305.md) Knorr de Rosenroth
 adds a Latin note here to the effect that it is doubtful whether this
 was for insult, or because they were jealous of the honour of burying
 him.

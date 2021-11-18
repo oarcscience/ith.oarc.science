@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat16.htm#CXXVII) 
-[Previous](satl126)  [Next](satl128) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat16.htm#CXXVII.md) 
+[Previous](satl126)  [Next](satl128.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ voluptatem robustam. &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: CXXVIIII](satl128)
+[Next: CXXVIIII](satl128.md)

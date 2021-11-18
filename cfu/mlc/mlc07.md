@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc06)  [Next](mlc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc06)  [Next](mlc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -218,7 +218,7 @@ thereupon withdrew to its source. In the flood he saw a man clothed in
 white, riding a white horse and accompanied by a dozen attendants. He
 quickly discharged an arrow, striking him in the left eye, and the
 horseman at once took to flight. He was accompanied by a young woman
-named Hêng O  <span id="fr_21"></span>[1](#fn_21), the younger sister of
+named Hêng O  <span id="fr_21"></span>[1](#fn_21.md), the younger sister of
 Ho Po, the Spirit of the Waters. Shên I shot an arrow into her hair. She
 turned and thanked him for sparing her life, adding: “I will agree to be
 your wife.” After these events had been duly reported to the Emperor
@@ -297,7 +297,7 @@ pill, and, not finding it, asked Hêng Ô what had happened.
 
 <span id="img_p184"></span> <span align="CENTER"> [![Hêng Ô Flies to the
 Moon](tn/p184.jpg)  
-Click to enlarge](img/p184.jpg)  
+Click to enlarge](img/p184.jpg.md)  
 Hêng Ô Flies to the Moon  
 </span>
 
@@ -667,7 +667,7 @@ provide against danger. <span id="page_198">p. 198</span>
 
 ### Footnotes
 
-<span id="fn_21"></span>[198:1](mlc07.htm#fr_21) She is the same as
+<span id="fn_21"></span>[198:1](mlc07.htm#fr_21.md) She is the same as
 Ch’ang Ô, the name Hêng being changed to Ch’ang because it was the
 tabooed personal name of the Emperors Mu Tsung of the T’ang dynasty and
 Chên Tsung of the Sung dynasty.
@@ -676,6 +676,6 @@ Chên Tsung of the Sung dynasty.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Myths of Thunder, Lightning, Wind, and Rain](mlc08)
+[Next: Chapter VI. Myths of Thunder, Lightning, Wind, and Rain](mlc08.md)
 
 </div>

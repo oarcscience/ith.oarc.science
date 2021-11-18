@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh28)  [Next](hloh30) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh28)  [Next](hloh30.md) 
 
 ------------------------------------------------------------------------
 
@@ -784,4 +784,4 @@ author.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix. Polynesian Language](hloh30)
+[Next: Appendix. Polynesian Language](hloh30.md)

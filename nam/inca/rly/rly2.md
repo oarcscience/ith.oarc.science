@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inca](../index) [Index](index) [Previous](rly1) [Next](rly3)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inca](../index) [Index](index) [Previous](rly1) [Next](rly3.md)
 
 ------------------------------------------------------------------------
 
@@ -16,10 +16,10 @@ S<span class="small">ANTA</span> C<span class="small">RUZ</span> P<span
 class="small">ACHACUTI-YAMQUI</span> S<span
 class="small">ALCAMAYHUA</span>, a Christian by the grace of God our
 Lord, am native of the towns of Santiago<span
-id="page_67_fr_1"></span>[1](#page_67_note_1) of Hanalucayhua and
+id="page_67_fr_1"></span>[1](#page_67_note_1.md) of Hanalucayhua and
 Hurinhuayhuacanchi of Urco-suyu,<span
-id="page_67_fr_2"></span>[2](#page_67_note_2) between Canas and Canches
-of Colla-suyu,<span id="page_67_fr_3"></span>[3](#page_67_note_3)
+id="page_67_fr_2"></span>[2](#page_67_note_2.md) between Canas and Canches
+of Colla-suyu,<span id="page_67_fr_3"></span>[3](#page_67_note_3.md)
 legitimate son of Don Diego Felipe Coudorcanqui and of Doña Maria
 Huayrotari, legitimate grandson of Don Baltasar Cacyaquivi and of Don
 Francisco Yamquihuanacu (whose wives, my grandmothers, are alive), great
@@ -29,12 +29,12 @@ and of Don Gonzalo Pizarro Tintaya, and of Don Carlos Anco, all once
 principal chiefs in the said province, and professed Christians in the
 things of our holy Catholic faith. They were the first chiefs who came
 to the tambo of Caxamarca to be made Christians,<span
-id="page_67_fr_4"></span>[4](#page_67_note_4) renouncing all the errors,
+id="page_67_fr_4"></span>[4](#page_67_note_4.md) renouncing all the errors,
 rites, and ceremonies of the time of heathenry, which were devised by
 the ancient enemies of the human race, namely the demons and devils. In
 the <span id="page_68">p. 68</span> general language they are called
-*hapiñuñu*<span id="page_68_fr_5"></span>[5](#page_68_note_5)
-*achacalla*.<span id="page_68_fr_6"></span>[6](#page_68_note_6) When the
+*hapiñuñu*<span id="page_68_fr_5"></span>[5](#page_68_note_5.md)
+*achacalla*.<span id="page_68_fr_6"></span>[6](#page_68_note_6.md) When the
 first Apostolic Priests entered this most noble province of
 Ttahuantin-suyu, inspired by the holy zeal of gaining a soul for God our
 Lord, like good fishers, with their loving words, preaching and
@@ -95,15 +95,15 @@ the events of past times.
 <span id="page_70">p. 70</span>
 
  They say that, in the time of *Purun*<span
-id="page_70_fr_7"></span>[7](#page_70_note_7)*-pacha*, all the nations
+id="page_70_fr_7"></span>[7](#page_70_note_7.md)*-pacha*, all the nations
 of Ttahuantin-suyu came from beyond Potosi in four or five armies
 arrayed for war. They settled in the different districts as they
 advanced. This period was called *Ccallac-pacha*<span
-id="page_70_fr_8"></span>[8](#page_70_note_8) or *Tutayac-pacha*.<span
-id="page_70_fr_9"></span>[9](#page_70_note_9) As each company selected
+id="page_70_fr_8"></span>[8](#page_70_note_8.md) or *Tutayac-pacha*.<span
+id="page_70_fr_9"></span>[9](#page_70_note_9.md) As each company selected
 suitable places for their homes and lands, they called this
 *Purunpacharacyaptin*.<span
-id="page_70_fr_1"></span>[1](#page_70_note_1) This period lasted for a
+id="page_70_fr_1"></span>[1](#page_70_note_1.md) This period lasted for a
 vast number of years. After the country was peopled, there was a great
 want of space, and, as the land was insufficient, there were wars and
 quarrels, and an the nations occupied themselves in making fortresses,
@@ -121,7 +121,7 @@ and enemies of the human race as they are.
 
  Some years after the devils called *Hapi-ñuñus Achacallas* had been
 driven out of the land, there arrived, in these kingdoms of
-*Ttahuantin-suyu*<span id="page_70_fr_2"></span>[2](#page_70_note_2) a
+*Ttahuantin-suyu*<span id="page_70_fr_2"></span>[2](#page_70_note_2.md) a
 bearded man, of middle <span id="page_71">p. 71</span> height, with long
 hair, and in a rather long shirt. They say that he was somewhat past his
 prime, for he already had grey hairs, and he was lean. He travelled with
@@ -130,18 +130,18 @@ sons and daughters. As he went through all the land, he performed many
 miracles. The sick were healed by his touch. He spoke all languages
 better than the natives. They called him *Tonapa* or *Tarapaca*
 (*Tarapaca* means an eagle) *Uiracocharapacha yachipachan* or
-*Pachaccan*.<span id="page_71_fr_3"></span>[3](#page_71_note_3) This
+*Pachaccan*.<span id="page_71_fr_3"></span>[3](#page_71_note_3.md) This
 means the servant, and *Uicchaycamayoc*<span
-id="page_71_fr_4"></span>[4](#page_71_note_4) means a preacher, and
+id="page_71_fr_4"></span>[4](#page_71_note_4.md) means a preacher, and
 *vicchaycamayoc cunacuycamayoc*.<span
-id="page_71_fr_5"></span>[5](#page_71_note_5) Although he preached the
+id="page_71_fr_5"></span>[5](#page_71_note_5.md) Although he preached the
 people did not listen, for they thought little of him. He was called
 *Tonapa Uiracocha nipacachan*; but was he not the glorious apostle St.
 Thomas?
 
  They say that this man came to the village of a chief called Apo-tampu
 (this Apo-tampu is Paccari-tampu<span
-id="page_71_fr_6"></span>[6](#page_71_note_6)) very tired. It was at a
+id="page_71_fr_6"></span>[6](#page_71_note_6).md) very tired. It was at a
 time when they were celebrating a marriage feast. His doctrines were
 listened to by the chief with friendly feelings, but his vassals heard
 them unwillingly. From that day the wanderer was a guest of Apo-tampu,
@@ -161,12 +161,12 @@ insolence and contempt, and driven away. They say that he often slept in
 the fields, without other covering than the long shirt he wore, a
 mantle, and a book. They say that *Thonapa* cursed that village, so that
 it was covered with water. The site is now called
-*Yamquisupaloiga*.<span id="page_72_fr_7"></span>[7](#page_72_note_7) It
+*Yamquisupaloiga*.<span id="page_72_fr_7"></span>[7](#page_72_note_7.md) It
 is a lake, and nearly all the Indians of that time knew that it was once
 a village, and was then a lake. They say that, on a very high hill
 called *Cacha-pucara*,<span
-id="page_72_fr_8"></span>[8](#page_72_note_8) there was an idol in the
-form of a woman,<span id="page_72_fr_9"></span>[9](#page_72_note_9) and
+id="page_72_fr_8"></span>[8](#page_72_note_8.md) there was an idol in the
+form of a woman,<span id="page_72_fr_9"></span>[9](#page_72_note_9.md) and
 that *Tonapa* was inspired with a great hatred against it, and
 afterwards burnt it, and destroyed it with the hill on which it stood.
 They say that to this day there are signs of that awful miracle, the
@@ -177,7 +177,7 @@ in a town where they were holding a great festival and banquet to
 celebrate a wedding, and they would not listen to the preaching of
 Tonapa. For this they were cursed and turned into stones, which may be
 seen to this day. The same thing happened in Pucara and other
-places.<span id="page_72_fr_1"></span>[1](#page_72_note_1) They further
+places.<span id="page_72_fr_1"></span>[1](#page_72_note_1.md) They further
 say that this *Tonapa*, in his wanderings, came to the mountains of
 Caravaya, where he erected a very large cross, and he carried it on his
 shoulders to the mountain of *Carapucu*, where he preached in a loud
@@ -187,7 +187,7 @@ this, understood <span id="page_73">p. 73</span> that he was washing his
 head. So, afterwards, *Tonapa* was taken prisoner and shorn, near the
 great lake of *Carapucu*. The meaning of Carapucu is when a bird called
 *pucu-pucu* sings four times, at early dawn.<span
-id="page_73_fr_2"></span>[2](#page_73_note_2) They say that, when day
+id="page_73_fr_2"></span>[2](#page_73_note_2.md) They say that, when day
 broke, when Tonapa was a prisoner, a very beautiful youth came to him,
 and said:—"Do not fear; for I come to call you in the name of the
 matron, who alone watches over you, and who is about to go to the place
@@ -211,7 +211,7 @@ them, and they did not listen to him. Then, out of pure anger, he
 denounced them in the language of the land; and, when he departed from
 that place, all the people who were dancing were turned into stones, and
 they may be seen to this day.<span
-id="page_73_fr_3"></span>[3](#page_73_note_3) *Tonapa* then followed the
+id="page_73_fr_3"></span>[3](#page_73_note_3.md) *Tonapa* then followed the
 course of the river Chacamarca until he came to the sea. This is
 reported by those most ancient Yncas.
 
@@ -227,7 +227,7 @@ his people to see what power he had to prosecute the new conquests which
 he meditated. Finding some difficulties, he agreed with his brothers to
 seek new lands, taking his rich clothes and arms, and the staff which
 had been left by *Tonapa*. This staff was called *Tupac-yauri*.<span
-id="page_74_fr_4"></span>[4](#page_74_note_4) He also had two golden
+id="page_74_fr_4"></span>[4](#page_74_note_4.md) He also had two golden
 cups from which *Tonapa* had drunk, called *Tupac-usi*. Thus he set out,
 with his brothers, towards the hill over which the sun rose. They say
 that, marching in this direction, he arrived at the hill which was the
@@ -237,7 +237,7 @@ Manco Ccapac seemed to be in the midst of the rainbows. He exclaimed:
 "We have a good sign. We shall have great prosperity and gain many
 victories, and we shall obtain all that we desire." After saying this,
 he joyfully advanced, singing the song of *Chamay*<span
-id="page_74_fr_5"></span>[5](#page_74_note_5) *huarisca* from mere
+id="page_74_fr_5"></span>[5](#page_74_note_5.md) *huarisca* from mere
 delight. Then he descended to Collcapampa with his brothers, and from
 the town of Sañuc he saw, afar off, the form of a man. One of his
 brothers ran towards it, thinking that it was some Indian. They say that
@@ -266,17 +266,17 @@ he had first seen the rainbow, the names of which are *cuchi*, and
 *turumanya* and *yayacarui*. He bemoaned the loss of his brother and
 sister, and exclaimed that he was the most unfortunate of orphans. But
 the rainbow strengthened him, and removed all his sorrows and
-afflictions.<span id="page_75_fr_6"></span>[6](#page_75_note_6)
+afflictions.<span id="page_75_fr_6"></span>[6](#page_75_note_6.md)
 "*Huaynacaptiy*" or "*Huaynacaptiyllapun chica chiqui unachayamoran
 Huanacauri*." From that time the place was called *Huaynacaptiy*. Thence
 he went to Collcapampa<span
-id="page_75_fr_7"></span>[7](#page_75_note_7) with the *tupac-yauri* in
+id="page_75_fr_7"></span>[7](#page_75_note_7.md) with the *tupac-yauri* in
 his hand, and with a sister named *Ypa mama huaco*, and with another
 sister and a brother. They arrived at Collcapampa, where they were for
 <span id="page_76">p. 76</span> some days. Thence they went to
-*Huamantiana*,<span id="page_76_fr_8"></span>[8](#page_76_note_8) where
+*Huamantiana*,<span id="page_76_fr_8"></span>[8](#page_76_note_8.md) where
 they remained some time, and thence they marched to *Cori-cancha*,<span
-id="page_76_fr_9"></span>[9](#page_76_note_9) where they found a place
+id="page_76_fr_9"></span>[9](#page_76_note_9.md) where they found a place
 suitable for a settlement. There was good water from *Hurinchacan* and
 *Hananchacan* (whence the names of Hurin-Cuzco and Hanan-Cuzco), which
 are two springs. A rock was called by the natives (who are the
@@ -288,7 +288,7 @@ named Mama Ocllo, and this marriage was celebrated that they might have
 no equal, and that they might not lose the caste. Then they began to
 enact good laws for the government of their people, conquering many
 provinces and nations of those that were disobedient. The
-*Ttahuantin-suyus*<span id="page_76_fr_1"></span>[1](#page_76_note_1)
+*Ttahuantin-suyus*<span id="page_76_fr_1"></span>[1](#page_76_note_1.md)
 came with a good grace and with rich presents. The tidings of a new Ynca
 had spread widely. Some were joyful, others were afflicted; when they
 heard that the Ynca was the most powerful chief, the most valiant, and
@@ -297,16 +297,16 @@ better armed than other men; and that all his affairs were prosperous.
 
 |                                                                                                                                                                             |               |                                                                                                                                                                                                                                                                                   |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  This Ynca ordered the smiths to make a flat plate of fine gold; which signified that there was a Creator of heaven and earth; and it was of this shape. He caused it to be | ![](p076.jpg) | fixed in a great house called *Ccuricancha pachaya-chachipac huasin*.<span id="page_76_fr_2"></span>[2](#page_76_note_2) This Ynca Manco Ccapac was an enemy to the huacas,<span id="page_76_fr_3"></span>[3](#page_76_note_3) and, as such, he destroyed the Curaca Pinao Ccapac |
+|  This Ynca ordered the smiths to make a flat plate of fine gold; which signified that there was a Creator of heaven and earth; and it was of this shape. He caused it to be | ![](p076.jpg) | fixed in a great house called *Ccuricancha pachaya-chachipac huasin*.<span id="page_76_fr_2"></span>[2](#page_76_note_2) This Ynca Manco Ccapac was an enemy to the huacas,<span id="page_76_fr_3"></span>[3](#page_76_note_3.md) and, as such, he destroyed the Curaca Pinao Ccapac |
 | <span id="page_77">p. 77</span> with all his idols. He also conquered Tocay Ccapac, a great idolater.                                                                       |               |                                                                                                                                                                                                                                                                                   |
 
  Afterwards he ordered works to be executed at the place of his birth;
 consisting of a masonry wall with three windows, which were emblems of
 the house of his fathers whence he descended. The first window was
-called *Tampu-toco*,<span id="page_77_fr_4"></span>[4](#page_77_note_4)
+called *Tampu-toco*,<span id="page_77_fr_4"></span>[4](#page_77_note_4.md)
 the second *Maras*<span
-id="page_77_fr_5"></span>[5](#page_77_note_5)*-toco*, and the third
-*Sutic*<span id="page_77_fr_6"></span>[6](#page_77_note_6)*-toco*:
+id="page_77_fr_5"></span>[5](#page_77_note_5.md)*-toco*, and the third
+*Sutic*<span id="page_77_fr_6"></span>[6](#page_77_note_6.md)*-toco*:
 referring to his uncles and paternal and maternal grandparents.
 
 ![](p077.jpg)
@@ -326,7 +326,7 @@ with a view to each tribe being clearly distinguished, that they should
 choose whence they were descended and from whence they came, and, as the
 Indians generally were very dull and stupid, <span id="page_78">p.
 78</span> some chose, for their *pacarisca*<span
-id="page_78_fr_7"></span>[7](#page_78_note_7) or *pacarimusca*, a lake,
+id="page_78_fr_7"></span>[7](#page_78_note_7.md) or *pacarimusca*, a lake,
 others a spring, others a rock, others the hills or ravines; but every
 lineage selected some object for its *pacarisca*. The devils, or
 *hapi-ñuñus*, deceived those stupid people with little difficulty,
@@ -361,7 +361,7 @@ id="page_79">p. 79</span> Ynca that all the soldiers must throw their
 coca pallets on the heap as they passed, saying:—*Saycoyñiycaypitac
 quipasiyon coyñiypashinatac*. From that time they began to bring stones
 and to throw coca, because the wizard had so ordered it.<span
-id="page_79_fr_8"></span>[8](#page_79_note_8)
+id="page_79_fr_8"></span>[8](#page_79_note_8.md)
 
  They say that when the Ynca Manco Ccapac was very old, he went down on
 his knees, and prayed for the prosperity of his son in these words:—
@@ -460,7 +460,7 @@ Ynca Sinchi Rocca, and that a virgin who was very dear to the Ynca went
 away with that boy. A search was made until they were found, and orders
 were given that they should be tortured. The girl confessed that the
 *llama-michec* had stolen away her love, after having made a
-*huacanqui*<span id="page_81_fr_9"></span>[9](#page_81_note_9) to
+*huacanqui*<span id="page_81_fr_9"></span>[9](#page_81_note_9.md) to
 appear, given to him by a demon. The boy had made a pact with the devil
 in a certain cave; but the Ynca did not understand that this was the
 work of the old enemy, and that he had succeeded with the boy and girl
@@ -471,10 +471,10 @@ be sacrifices in each village.
 
  In those days they began to sacrifice with human blood, white lambs,
 guinea pigs, coca, shells, grease and *sancu*.<span
-id="page_81_fr_1"></span>[1](#page_81_note_1) This unfortunate Sinchi
+id="page_81_fr_1"></span>[1](#page_81_note_1.md) This unfortunate Sinchi
 Rocca passed all his time in sensuality, and he ordered search to be
 made for *chutarpu* <span id="page_82">p. 82</span> and *huanarpu*,<span
-id="page_82_fr_2"></span>[2](#page_82_note_2) to make fornication a
+id="page_82_fr_2"></span>[2](#page_82_note_2.md) to make fornication a
 custom, and thus there were so many *huacanquis* that the Indians gave
 them as presents.
 
@@ -486,23 +486,23 @@ patron of agriculture. He did not undertake conquests like his
 grandfather, though occasionally he assembled an army, in order to
 strike terror among his enemies. They also say that he ordered all his
 men to pull out their beards and appear without hair.<span
-id="page_82_fr_3"></span>[3](#page_82_note_3) He also ordered that all
+id="page_82_fr_3"></span>[3](#page_82_note_3.md) He also ordered that all
 the people in his dominions should flatten the heads of their children,
 so that they might be long and sloping from the front; and this was done
 to make them obedient. He also commanded houses to be made for the
 virgins, and these houses were divided into four classes:—*yurac-aclla*,
 *huayru-aclla*, *pacu-aclla*, and *yana-aclla*.<span
-id="page_82_fr_4"></span>[4](#page_82_note_4) The first for the Creator,
+id="page_82_fr_4"></span>[4](#page_82_note_4.md) The first for the Creator,
 called Uiracocha-pacha-yachachi; the *huayru-aclla* for the virgins of
 the Ynca, the *pacu-aclla* for the women of the *Apu-curacas*,<span
-id="page_82_fr_5"></span>[5](#page_82_note_5) and the *yana-aclla* for
+id="page_82_fr_5"></span>[5](#page_82_note_5.md) and the *yana-aclla* for
 the common people. Many youths were also reared who were not to know
 women, who afterwards became soldiers.
 
  They say that when the Ynca Lloque Yupanqui was very old, he had a son
 by a woman named Mama Tancarayacchi Chimpu Cuca, daughter of a *huaca*
 in the village of Tancar. She bore the Ynca Mayta Ccapac<span
-id="page_82_fr_6"></span>[6](#page_82_note_6) at the end of a year, and
+id="page_82_fr_6"></span>[6](#page_82_note_6.md) at the end of a year, and
 <span id="page_83">p. 83</span> they say that he cried out many times
 while he was yet in the womb of his mother. A few months after his birth
 he began to talk, and at ten years of age he fought valiantly and
@@ -515,16 +515,16 @@ a great festival; but he caused trouble to the worshippers of these
 of fire and wind, and as birds. There were *Aysso-uilca*,
 *Chinchay-cocha*, and the *huaca* of the Cañaris, and *Uilcañota*,
 *Putina*, *Coropuna*, *Antapuca*, *Choquiracra*, and *Chuquipillu*.<span
-id="page_83_fr_7"></span>[7](#page_83_note_7)
+id="page_83_fr_7"></span>[7](#page_83_note_7.md)
 
  They say that this Ynca was a great enemy of the idols, and as such he
 ordered his people to pay no honours to the sun and moon, declaring that
 the sun and moon and all the elements were made for the service of men.
 He was also a severe judge of those who practised forbidden things, such
 as enchanters, *canchus*, *umus*,<span
-id="page_83_fr_8"></span>[8](#page_83_note_8) *layccas*,<span
-id="page_83_fr_9"></span>[9](#page_83_note_9) *huaca-muchas*,<span
-id="page_83_fr_1"></span>[1](#page_83_note_1) and those who worked on
+id="page_83_fr_8"></span>[8](#page_83_note_8.md) *layccas*,<span
+id="page_83_fr_9"></span>[9](#page_83_note_9.md) *huaca-muchas*,<span
+id="page_83_fr_1"></span>[1](#page_83_note_1.md) and those who worked on
 the chief day of the festival of *Ccapac-raymi*. He gave thanks on that
 day to the Creator *Tica-ccapac* (called also *Caprichay*), and
 chastised those who were undutiful to himself or to their parents,
@@ -579,11 +579,11 @@ chachic.</td>
 </table>
 
  They say that a Spaniard gambled for this plate of gold in Cuzco,<span
-id="page_84_fr_2"></span>[2](#page_84_note_2) as I shall presently
+id="page_84_fr_2"></span>[2](#page_84_note_2.md) as I shall presently
 mention in its place, for now I want to proceed with the lives of other
 Yncas.
 
-<span id="pl1"></span><span class="small">{See [here](pl1) for the
+<span id="pl1"></span><span class="small">{See [here](pl1.md) for the
 picture facing page 84. There is no description or explanation of it
 given in the text}</span>
 
@@ -600,16 +600,16 @@ true festival, and fortunate are those reasoning creatures who shall
 attain to the true feast of eternity, and know the name of the Creator;
 for men do not die like beasts. In consequence of these reflections he
 kept a fast in *Toco-cachi*,<span
-id="page_85_fr_3"></span>[3](#page_85_note_3) with great mourning, only
+id="page_85_fr_3"></span>[3](#page_85_note_3.md) with great mourning, only
 eating one row of grains from a mazorca of maize, each day, and so he
 passed a whole month.
 
  This Mayta Ccapac had a son named Ccapac Yupanqui<span
-id="page_85_fr_4"></span>[4](#page_85_note_4) by Mama Tancapay-yacchi.
+id="page_85_fr_4"></span>[4](#page_85_note_4.md) by Mama Tancapay-yacchi.
 He had another son *Apu Urco Huaman Ynti Cunti Mayta*, and another *Unco
 Huaranca*. Their descendants multiplied so as to form the *Usca Mayta
 Ayllu* and *Huañayñin Ayllu*;<span
-id="page_85_fr_5"></span>[5](#page_85_note_5) though Ccapac Yupanqui was
+id="page_85_fr_5"></span>[5](#page_85_note_5.md) though Ccapac Yupanqui was
 the heir, who was most successful in arms.
 
  After the death of Mayta Ccapac, many great Curacas and chiefs of this
@@ -617,7 +617,7 @@ kingdom submitted to his son Ccapac Yupanqui. They say that, in his
 time, they invented the sacrifices of *capaucha-cocuy*, burying virgin
 boys with silver and gold; and of the *arpac* with human blood, or with
 white lambs called *uracarpaña*, *cuyes*,<span
-id="page_85_fr_6"></span>[6](#page_85_note_6) and grease. It happened
+id="page_85_fr_6"></span>[6](#page_85_note_6.md) and grease. It happened
 one day that the same Ynca Ccapac Yupanqui wished to witness how the
 *huacas* conversed with their friends, so he entered the place selected,
 which was in a village of the <span id="page_86">p. 86</span> Andes
@@ -665,9 +665,9 @@ called Titicaca, where the great *Tonapa* had arrived, and that they
 brought water thence to pour over the infant Ynca Ruca, while they
 celebrated the praises of *Tonapa*. In the spring on the top of the
 rocks, the water was in a basin called *ccapacchama quispisutuc
-unu*.<span id="page_87_fr_7"></span>[7](#page_87_note_7) Future Yncas
+unu*.<span id="page_87_fr_7"></span>[7](#page_87_note_7.md) Future Yncas
 caused this water to be brought in a bowl called *curi-ccacca*,<span
-id="page_87_fr_8"></span>[8](#page_87_note_8) and placed before them in
+id="page_87_fr_8"></span>[8](#page_87_note_8.md) and placed before them in
 the middle of the square of Cuzco, called Huacay-pata: Cusi-pata: where
 they did honour to the water that had been touched by *Tonapa*.
 
@@ -711,7 +711,7 @@ who had not their *huacas*, and they were all deceived by false gods.
  When the Ynca died, he was succeeded by his son the Ynca Ruca, who
 received the *tupac-yauri*, *tupac-cusi*, and *tupac-pichuc-llautu*.
 This Ynca Ruca understood the making of cloth of *cumpis*,<span
-id="page_88_fr_9"></span>[9](#page_88_note_9) and he was a great patron
+id="page_88_fr_9"></span>[9](#page_88_note_9.md) and he was a great patron
 of dancing, so that in his time nothing was done but dancing, eating,
 drinking, and other enjoyment. Idolatrous rites increased, and people
 devoted themselves to the worship of *huacas*; for the chiefs and people
@@ -719,7 +719,7 @@ always follow the example that is set them by their sovereign.
 
  They say that the eldest son of this Ynca Ruca was named <span
 id="page_89">p. 89</span> Yahuar-huaccac<span
-id="page_89_fr_1"></span>[1](#page_89_note_1) Ynca Yupanqui. His mother
+id="page_89_fr_1"></span>[1](#page_89_note_1.md) Ynca Yupanqui. His mother
 was Mamicay-chimpu; and at his birth there was a grand feast. The square
 and all the streets were filled with arches of feathers, and the house
 of Curicancha was entirely covered with rich plumes, both within and
@@ -785,7 +785,7 @@ often disputed with the Ynca, saying:—
  *<span class="small">Cam Cuzco-Ccapac ñuca Colla-Ccapac hupyasumicusu
 rimasu amapirima ñuca collque tiya cam chuqui tiya. Cam
 Uiracochanpa-chayachi mucha. Nuca Ynti-mucha.</span>*<span
-id="page_90_fr_2"></span>[2](#page_90_note_2)
+id="page_90_fr_2"></span>[2](#page_90_note_2.md)
 
  
 
@@ -821,8 +821,8 @@ pimcanqui*." Then he entered the house of arms, and took out all the
 offensive and defensive weapons. At that juncture twenty *Orejones*
 arrived, his relations, sent by his father. He armed all the men and
 women and, entering the temple, he took the *tupac-yauri*<span
-id="page_91_fr_3"></span>[3](#page_91_note_3) and *ccapac unancha*,<span
-id="page_91_fr_4"></span>[4](#page_91_note_4) and unfurled the <span
+id="page_91_fr_3"></span>[3](#page_91_note_3.md) and *ccapac unancha*,<span
+id="page_91_fr_4"></span>[4](#page_91_note_4.md) and unfurled the <span
 id="page_92">p. 92</span> standard of the Yncas. The city became a
 fortress, and the enemy commenced the attack, but the prince had
 forgotten the *tupac-yauri*. At the first encounter, the prince Ynca
@@ -844,7 +844,7 @@ Chancas; so the prince gained a victory, and followed the enemy to
 *Quizachilla*, where he beheaded the chiefs of the hostile army, named
 *Tomay-huaraca*, *Asto-huaraca*, and *Huasco-Tornay Rimac*. He thus
 gained a great victory;<span
-id="page_92_fr_5"></span>[5](#page_92_note_5) and they say that a widow
+id="page_92_fr_5"></span>[5](#page_92_note_5.md) and they say that a widow
 named *Chanan Coricoca* fought valiantly in the battle like a soldier.
 The prince sent presents of the heads of the Chancas and Anco-Allos to
 his father. But the Ynca Uira-ccocha Ynca Yupanqui was ashamed to return
@@ -857,7 +857,7 @@ prince, "Is it possible that I must die without having fought or gained
 any glory?" They hollowed out the trunk of a tree, and buried the body
 in the tree, and the fruit of that tree yields a medicine called
 *villca*, which is good for all heated and feverish humours.<span
-id="page_93_fr_6"></span>[6](#page_93_note_6)
+id="page_93_fr_6"></span>[6](#page_93_note_6.md)
 
  The Ynca Yupanqui followed the enemy as far as Anda-huayllas; and, on
 his return to Cuzco, he undertook the conquest of Colla-suyu; and other
@@ -868,7 +868,7 @@ became Pachacuti Ynca Yupanqui. He conquered all the land of the
 Colla-suyu, and invaded the provinces of the Chayas and Caravayas, where
 he destroyed a famous idol. He subdued the Chayas and Ollacheas, and,
 leaving a garrison in Ayapata,<span
-id="page_93_fr_7"></span>[7](#page_93_note_7) he returned to Cuzco. He
+id="page_93_fr_7"></span>[7](#page_93_note_7.md) he returned to Cuzco. He
 next marched to the country of the Chancas with fifty thousand men; and
 at Vilcas-huaman he found seven *huacas* in the form of very great
 Curacas, black, and very ugly. They were called *Ayssa-vilca*,
@@ -892,7 +892,7 @@ until he reached a province where the people feasted on their dead. He
 continued to advance until he came to the province of the Cañaris, which
 was full of sorcerers and *huacas*. Thence he marched to Huancavillca;
 but the Anco-allos entered the forests, leaving their idol behind
-them.<span id="page_94_fr_8"></span>[8](#page_94_note_8)
+them.<span id="page_94_fr_8"></span>[8](#page_94_note_8.md)
 
  The Ynca Pachacuti obtained great sums of gold, silver, and *umiña*
 (emeralds); and he came to an island of the Yuncas, where there were
@@ -915,7 +915,7 @@ thirst. The <span id="page_95">p. 95</span> natives presented him with
 *ychma* (colour), and the Yauyus brought him gold and silver. He next
 came to Huamañin, near Villcas, where he had first seen the seven evil
 *huacas*. In Puma-cancha,<span
-id="page_95_fr_9"></span>[9](#page_95_note_9) a very hot place before
+id="page_95_fr_9"></span>[9](#page_95_note_9.md) a very hot place before
 coming to Villcas, his eldest legitimate son was born, named Amaru
 Yupanqui, and he rested there for some days. Here the news arrived of a
 miracle at Cuzco. A *yauirca* or *amaru*, a ferocious creature, half a
@@ -933,18 +933,18 @@ Ynca Yupanqui, was now very old and infirm.
 Raymi of Pachayachachi, with great rejoicing. The Curacas and Mitmays of
 Caravaya brought a *chuqui-chinchay*, which is an animal of many
 colours, said to have been chief of the *uturuncus*.<span
-id="page_95_fr_1"></span>[1](#page_95_note_1) This Ynca caused all the
+id="page_95_fr_1"></span>[1](#page_95_note_1.md) This Ynca caused all the
 deformed and idiotic persons to be employed in making clothes. He was
 very fortunate in arms. When his father died, the mourning was vicuña
 wool of a white colour; and the soldiers were ordered to carry the body
 of the old man, with his arms and insignia, through the city, singing a
 war-song and bearing their shields and clubs, their
-*llaca-chuquis*,<span id="page_95_fr_2"></span>[2](#page_95_note_2)
+*llaca-chuquis*,<span id="page_95_fr_2"></span>[2](#page_95_note_2.md)
 *chasca-chuquis*, *suruc-chuquis*. The women came forth in another
 procession, with their hair shorn, and dressed in black, and their faces
 blackened, flogging themselves with <span id="page_96">p. 96</span>
 *quichuas* and *coyas*, *secsec*, *sihuicas*.<span
-id="page_96_fr_3"></span>[3](#page_96_note_3) They say that these women
+id="page_96_fr_3"></span>[3](#page_96_note_3.md) They say that these women
 mourned for a whole week, and sought for the body of the dead Ynca.
 
  Afterwards Pachacuti undertook the conquest of the Cunti-suyus, and in
@@ -961,7 +961,7 @@ Caviñas to be laid waste; but they said that the fault was not theirs,
 but the Capacuyos, whose Curaca was Apu Calama Yanqui, and who numbered
 near 20,000 men, besides women and children. They were all put to death.
 They say that they tried to murder the Ynca, by advice of their *huaca*,
-Canacuay.<span id="page_96_fr_4"></span>[4](#page_96_note_4) Then the
+Canacuay.<span id="page_96_fr_4"></span>[4](#page_96_note_4.md) Then the
 Yuca's second son was born, named Tupac Ynca Yupanqui; and the Ynca
 undertook the conquest of the Antisuyus with 100,000 men. But the
 *huaca* of Canacuay sent forth fire, and stopped the passage with a
@@ -987,13 +987,13 @@ was delivered to him. He ordered that the soldiers of all the tribes
 should assemble in Cuzco, for he had heard that there was a rebellion in
 Quito. He marched to conquer the rebels with twenty thousand men; and
 another twelve thousand with their wives as garrisons and
-*mitimaes*.<span id="page_97_fr_5"></span>[5](#page_97_note_5) He
+*mitimaes*.<span id="page_97_fr_5"></span>[5](#page_97_note_5.md) He
 ordered the troops to join him from all parts, he punished the rebels,
 removed them from their native land to other parts, and divided the
 spoils among his soldiers. He distributed rich dresses of *cumpis* and
 *puracahuas* of plumes, shields, *pura-puras* of gold and silver; and to
 the officers shirts of gold and silver, and diadems called
-*huacra-chucu*.<span id="page_97_fr_6"></span>[6](#page_97_note_6) Thus
+*huacra-chucu*.<span id="page_97_fr_6"></span>[6](#page_97_note_6.md) Thus
 he arrived at Quito, always gaining the victory, and afterwards he
 returned to Tumipampa, after leaving *mitimaes* in Cayambis; but he did
 not punish the natives because they made very humble excuses and were
@@ -1029,17 +1029,17 @@ He also took many girls of the Quitus, Quilacus, Quillasencas,
 Chachapuyas, Yuncas, Huayllas, and Huancas, as chosen maidens for *Ticci
 Ccapac Uiracochan Pachacya-chachi*, called *Yurac-aclla*,
 *Huayra-aclla*, *Paco-aclla*, and *Yana-aclla*;<span
-id="page_98_fr_7"></span>[7](#page_98_note_7) and much wealth of gold
+id="page_98_fr_7"></span>[7](#page_98_note_7.md) and much wealth of gold
 and silver and precious stones, and plumes of feathers. He then ordered
 that all the provinces from Quitu to Cuzco should make farms and
 *collcas* or granaries, roads and bridges and *tampus*;<span
-id="page_98_fr_8"></span>[8](#page_98_note_8) that there should be
-*acllas*,<span id="page_98_fr_9"></span>[9](#page_98_note_9) in all the
+id="page_98_fr_8"></span>[8](#page_98_note_8.md) that there should be
+*acllas*,<span id="page_98_fr_9"></span>[9](#page_98_note_9.md) in all the
 provinces, <span id="page_99">p. 99</span> officers of *cumpis*,<span
-id="page_99_fr_1"></span>[1](#page_99_note_1) smiths, *Paucar-camayoc*,
-*Pillcu-camayoc*,<span id="page_99_fr_2"></span>[2](#page_99_note_2) and
+id="page_99_fr_1"></span>[1](#page_99_note_1.md) smiths, *Paucar-camayoc*,
+*Pillcu-camayoc*,<span id="page_99_fr_2"></span>[2](#page_99_note_2.md) and
 garrisons of soldiers for the security of the land, and
-*hampi-camayoc*.<span id="page_99_fr_3"></span>[3](#page_99_note_3) The
+*hampi-camayoc*.<span id="page_99_fr_3"></span>[3](#page_99_note_3.md) The
 Ynca also gave orders that every village should supply food for the
 poor.
 
@@ -1050,7 +1050,7 @@ and the two armies made a most brilliant appearance with their gold and
 silver and rich plumes. The two forces imitated skirmishes, and the good
 old man, from joy at seeing his son and grandson, made his son a
 general, and his grandson master of the camp. He then sent half his army
-with Uturuncu achachi<span id="page_99_fr_4"></span>[4](#page_99_note_4)
+with Uturuncu achachi<span id="page_99_fr_4"></span>[4](#page_99_note_4.md)
 and *caçir ccapac* (this *caçir ccapac* means a vice-general or
 viceroy), and with all the Apu Curacas, that they might all be in order
 of battle on the Sacsahuaman fortress, to defend the city; that his
@@ -1060,18 +1060,18 @@ comedy, and those in the fortress were conquered, who were Cayambis and
 Pastus, and their heads were cut off (which was done by anointing them
 with the blood of llamas) and put upon lances. Then there was a
 triumphal march, with the *haylli*,<span
-id="page_99_fr_5"></span>[5](#page_99_note_5) to the Ccuricancha, where
+id="page_99_fr_5"></span>[5](#page_99_note_5.md) to the Ccuricancha, where
 they offered up their prayers to the simple image of the Creator. Then
 the captains came forth by the other door to the square of
 Huacay-pata-Cusi-pata, with the song of the *quichu*, and the Curacas
 sat on their *tiyanas*<span
-id="page_99_fr_6"></span>[6](#page_99_note_6) in their order. Here also
+id="page_99_fr_6"></span>[6](#page_99_note_6.md) in their order. Here also
 sat Pachacuti Ynca Yupanqui, with his sons Tupac Ynca Yupanqui, and
 Amaru Tupac Ynca, all on <span id="page_100">p. 100</span> equal
 *tiyanas* made of gold, all richly dressed with their
-*ccapac-llautus*,<span id="page_100_fr_7"></span>[7](#page_100_note_7)
+*ccapac-llautus*,<span id="page_100_fr_7"></span>[7](#page_100_note_7.md)
 and the old man held the golden sceptre of *tupac yauri*, while his sons
-only had *champis*<span id="page_100_fr_8"></span>[8](#page_100_note_8)
+only had *champis*<span id="page_100_fr_8"></span>[8](#page_100_note_8.md)
 of gold.
 
  But the administration of the empire was left to Tupac Ynca Yupanqui,
@@ -1108,7 +1108,7 @@ marched from Cuzco, full of confidence, well armed, taking with them a
 *huaca*, or idol.
 
  They began to fight in Huarmi-Pucara<span
-id="page_101_fr_9"></span>[9](#page_101_note_9) with the women of the
+id="page_101_fr_9"></span>[9](#page_101_note_9.md) with the women of the
 Quillacas, and the Quichuas were defeated. They retired to the principal
 fortress of Llahua-pucara, where they were besieged by the Collas and
 entirely cut to pieces. One man escaped, and brought the news to Tupac
@@ -1117,9 +1117,9 @@ himself from Cuzco with one hundred and twenty thousand men, and marched
 against the Collas, laying siege to the said fortress of
 Llallahua-pucara. This siege lasted for three years. Then the Collas
 offered up sacrifices to the sun, of children and *cuis*,<span
-id="page_101_fr_1"></span>[1](#page_101_note_1) and from the air there
+id="page_101_fr_1"></span>[1](#page_101_note_1.md) and from the air there
 was an encouraging answer to their *Tayta*<span
-id="page_101_fr_2"></span>[2](#page_101_note_2) (*Tayta* means a
+id="page_101_fr_2"></span>[2](#page_101_note_2.md) (*Tayta* means a
 minister of the *huacas*). Then they waged war upon the Ynca without any
 fear; but it fell out very differently from what they expected, for the
 Ynca attacked these Collas with renewed fury, and there was much
@@ -1133,7 +1133,7 @@ Cac-yaviri, with the *huaca* of *Ynti* and other *huacas*. Tupac Ynca
 Yupanqui ordered the chiefs and the *huacas* to be placed in the centre
 of their army of one hundred thousand men, where they were insulted,
 and, to increase the affront, he sent for the *huyachucos*,
-*suyuntus*,<span id="page_101_fr_3"></span>[3](#page_101_note_3)
+*suyuntus*,<span id="page_101_fr_3"></span>[3](#page_101_note_3.md)
 *llama-llamas*, and *chuñires* <span id="page_102">p. 102</span> to
 trample upon them, and eventually they were thrown into the lake of
 Urcos, while the Collas were brought in triumph to Cuzco. In memory of
@@ -1148,13 +1148,13 @@ officers. These did good service in the conquest of the provinces of
 Mana-resu and Upatari, as far as the confines of Huancavillca on one
 side, and to Caravaya on the other, where they met with a province
 inhabited entirely by women, called *Huarmi-auca*.<span
-id="page_102_fr_4"></span>[4](#page_102_note_4) They then crossed a
+id="page_102_fr_4"></span>[4](#page_102_note_4.md) They then crossed a
 river of great volume; but at first, as no man could pass over, some
 audacious monkeys, belonging to a chief of the Manares, went across, and
 secured ropes and cables after overcoming great difficulties. This
 province is called the Golden, and in it they found a great and rich
 land called *Escay-oya*,<span
-id="page_102_fr_5"></span>[5](#page_102_note_5) with a very warlike race
+id="page_102_fr_5"></span>[5](#page_102_note_5.md) with a very warlike race
 of people who were said to be cannibals; and they make such deadly
 poison, that it would seem they have a pact with the devil. They fought
 two desperate battles, and in the third they were defeated by the
@@ -1163,7 +1163,7 @@ superiority of arms and discipline. They say that while these new
 provinces were being numbered, and while arrangements were being made
 for leaving garrisons, news came that Tupac Ynca Yupanqui had banished a
 captain to a province of the Chirihuanas.<span
-id="page_102_fr_6"></span>[6](#page_102_note_6) The captain, Apu
+id="page_102_fr_6"></span>[6](#page_102_note_6.md) The captain, Apu
 Quillacta, proclaimed this news to his people, and they returned to
 their own land, leaving the Ynca army with the general, Uturuncu
 Achachi. This was the reason that the Escay-oyas, and Upataxis, and
@@ -1196,7 +1196,7 @@ of the Ccuricancha. In the feast of Ccapac-Raymi it was the usual custom
 of the Ynca to invite all the people of Ttahuantin-auyu to drink in
 their order. The Curacas and common people murmured that there was stint
 in the liquor; and when this came to the ear of the Ynca, he ordered
-enormous *querus*<span id="page_103_fr_7"></span>[7](#page_103_note_7)
+enormous *querus*<span id="page_103_fr_7"></span>[7](#page_103_note_7.md)
 for the ensuing year, when portentously large *querus* were given three
 times in the day.
 
@@ -1216,8 +1216,8 @@ leaving Huayna Ccapac Ynca as their heir, and Apu Hualpaya as governor,
 for the heir was of tender age. They mourned for the Ynca as they had
 done for Pachacuti, forming two armies, one of men and the other of
 women, and they buried many *yanas*,<span
-id="page_104_fr_8"></span>[8](#page_104_note_8) *pachacas*,<span
-id="page_104_fr_9"></span>[9](#page_104_note_9) women, and servants, who
+id="page_104_fr_8"></span>[8](#page_104_note_8.md) *pachacas*,<span
+id="page_104_fr_9"></span>[9](#page_104_note_9.md) women, and servants, who
 were beloved by the Ynca. The barbarous captains thought that their Ynca
 would require to be served in the next world by these people. They say
 that this governor and coadjutor intended to raise himself to be ruler
@@ -1266,39 +1266,39 @@ of Colla-suyu and councillors; while Mama Cusirimay came out of the
 <span id="page_106">p. 106</span> palace of Tupac Ynca Yupanqui,
 attended upon by the Apu Curacas of Chinchay-suyu, Cunti-suyu, and
 Anti-suyu, with all their Auqui-cuna<span
-id="page_106_fr_1"></span>[1](#page_106_note_1) according to their rank.
+id="page_106_fr_1"></span>[1](#page_106_note_1.md) according to their rank.
 They were in litters, and Huayna Ccapac did not hold the *tupac-yauri*,
 but only the *champi*. Many attendants of less note surrounded him, all
 dressed in shining *churus*<span
-id="page_106_fr_2"></span>[2](#page_106_note_2) and mother-of-pearl, and
+id="page_106_fr_2"></span>[2](#page_106_note_2.md) and mother-of-pearl, and
 well armed with their *purupuras*<span
-id="page_106_fr_3"></span>[3](#page_106_note_3) and *chipanas*<span
-id="page_106_fr_4"></span>[4](#page_106_note_4) of silver. They say that
+id="page_106_fr_3"></span>[3](#page_106_note_3.md) and *chipanas*<span
+id="page_106_fr_4"></span>[4](#page_106_note_4.md) of silver. They say that
 fifty thousand men guarded the city and the fortress of Sacsahuaman, and
 that the festival was a wonderful sight.
 
  The Ynca and his spouse then entered the temple, each by a separate
 door, the temple being that of the Creator *Pachayachachi*.<span
-id="page_106_fr_5"></span>[5](#page_106_note_5) This is the name given
+id="page_106_fr_5"></span>[5](#page_106_note_5.md) This is the name given
 by these heathens, and the High Priest was called *Apu Challcu
 Yupanqui*. The sovereign and his wife were shod in *llanques* of gold;
 and afterwards they gave him the *chipana* of gold and raised him to the
 platform whence he performed these ceremonies, where he said a prayer in
 a loud voice, which concluded the proceedings of that day, and they were
 considered to be married. Afterwards they delivered to him the
-*tupac-yauri*<span id="page_106_fr_6"></span>[6](#page_106_note_6) and
+*tupac-yauri*<span id="page_106_fr_6"></span>[6](#page_106_note_6.md) and
 the *suntur-paucar*,<span
-id="page_106_fr_7"></span>[7](#page_106_note_7) after three days, and
-the *ccapac-llautu*<span id="page_106_fr_8"></span>[8](#page_106_note_8)
-and the *unincha*<span id="page_106_fr_9"></span>[9](#page_106_note_9)
+id="page_106_fr_7"></span>[7](#page_106_note_7.md) after three days, and
+the *ccapac-llautu*<span id="page_106_fr_8"></span>[8](#page_106_note_8.md)
+and the *unincha*<span id="page_106_fr_9"></span>[9](#page_106_note_9.md)
 in the same place where they were married, and in continuation of the
 same ceremony. They also delivered to him the *ccapac-unancha*<span
-id="page_106_fr_1a"></span>[1a](#page_106_note_1a) or royal standard to
+id="page_106_fr_1a"></span>[1a](#page_106_note_1a.md) or royal standard to
 be carried before him, and the *huaman-champi*<span
-id="page_106_fr_2a"></span>[2a](#page_106_note_2a) of two edges, with
+id="page_106_fr_2a"></span>[2a](#page_106_note_2a.md) of two edges, with
 the shields or *huallcancas*,<span
-id="page_106_fr_3a"></span>[3a](#page_106_note_3a) *uracahuas*, and
-*uma-chucus*.<span id="page_106_fr_4a"></span>[4a](#page_106_note_4a)
+id="page_106_fr_3a"></span>[3a](#page_106_note_3a.md) *uracahuas*, and
+*uma-chucus*.<span id="page_106_fr_4a"></span>[4a](#page_106_note_4a.md)
 The Ynca took an oath and touched the ground, promising to emulate the
 deeds of his forefathers, and to attend to the things of Pachayachachi
 and his Ccuri-cancha, <span id="page_107">p. 107</span> and to do no
@@ -1309,7 +1309,7 @@ Ynca with his powerful hand, and to defend him from his enemies. Those
 present then shouted out their acclamations. Then they all praised the
 Creator called Pachaya-chachi Uiracochan. Then the Ynca went to the
 Huacay-pata, where was his *ccapac-usnu*,<span
-id="page_107_fr_5"></span>[5](#page_107_note_5) as in Villcas, and there
+id="page_107_fr_5"></span>[5](#page_107_note_5.md) as in Villcas, and there
 each chief, and captain, in his order, promised obedience to the new
 sovereign.
 
@@ -1326,7 +1326,7 @@ him desist. Then he went with presents and offerings to the body of his
 father, praying him to give her for his wife, but the dead body gave no
 answer, while fearful signs appeared in the heavens, portending blood.
 This was called *Ccalla-sana*.<span
-id="page_107_fr_6"></span>[6](#page_107_note_6) This made Huayna Ccapac
+id="page_107_fr_6"></span>[6](#page_107_note_6.md) This made Huayna Ccapac
 give up his intention in regard to his sister, so he gave her to a very
 old and ugly Curaca who was a great chewer of coca; and he did this, not
 for her good, but in order to bring shame upon her. She wept; and
@@ -1360,7 +1360,7 @@ Uiracochan Pachayachachi. The Ynca consented, and the wizards rejoiced.
 The army reached the town of Tumipampa, where the Ynca ordered water to
 be brought from a river by boring through a mountain, and making the
 channel enter the city by curves in this way.<span
-id="page_108_fr_7"></span>[7](#page_108_note_7)
+id="page_108_fr_7"></span>[7](#page_108_note_7.md)
 
  Half the army was employed in building the edifices for a <span
 id="page_109">p. 109</span> Ccuricancha, a wonderful work. Then the Ynca
@@ -1398,17 +1398,17 @@ attacked the fortresses, which were steep rocks. The enemy began to fly
 to another place, and the Ynca ordered his army to rest for that day.
 The enemy took refuge in a stronger fortress, and reinforcements joined
 the Ynca's army from Cuzco. The Cayambis fled to the *montañas* of
-Otabala,<span id="page_110_fr_8"></span>[8](#page_110_note_8) and
+Otabala,<span id="page_110_fr_8"></span>[8](#page_110_note_8.md) and
 assembled on the shores of a lake, where they were surrounded, and there
 was great slaughter. The warriors washed their arms in the lake, and
 there was a mass of blood in the centre, so the lake was called
-*Yahuar-ccocha*.<span id="page_110_fr_9"></span>[9](#page_110_note_9)
+*Yahuar-ccocha*.<span id="page_110_fr_9"></span>[9](#page_110_note_9.md)
 
  Then the Ynca went to Quito to rest, and to establish his government
 and laws. He then advanced beyond Pasto, but returned to Quito, where he
 solemnized the Ccapac-Raymi. At the hour for eating a messenger arrived
 in a black mantle, who reverently kissed the Ynca, and gave him a
-*pputi*<span id="page_110_fr_1"></span>[1](#page_110_note_1) covered up.
+*pputi*<span id="page_110_fr_1"></span>[1](#page_110_note_1.md) covered up.
 The Ynca told the messenger to open it, but he excused himself, saying,
 that the command of the Creator was that the Ynca alone should do so. So
 the Ynca opened it, and there came flying out a quantity of things like
@@ -1440,7 +1440,7 @@ Great preparations were made for the coronation, and there was a
 distribution of rich dresses, plumes, and arms, which was merely done to
 gain over the chiefs. At the end of a year he received the
 *ccapac-llautu*, with the name of Yuti Cusi Huallpa Huascar Ynca.<span
-id="page_111_fr_2"></span>[2](#page_111_note_2) He married his sisters,
+id="page_111_fr_2"></span>[2](#page_111_note_2.md) He married his sisters,
 named *Chuqui-huy-pachu-quipa*, and *Ccoya Mama Chuqui huypa chuquipa*.
 
  Afterwards Tupac Cusi Huallpa took 1200 Chachapuyas and Cañaris for the
@@ -1466,7 +1466,7 @@ fear.
  At that time Tupac Atahuallpa sent to Huascar Ynca, beseeching him to
 give him the title and nomination of Governor of the Provinces of Quito,
 and the Ynca Huascar granted the request, and gave him the name of
-Ynca-ranti.<span id="page_112_fr_3"></span>[3](#page_112_note_3) Then
+Ynca-ranti.<span id="page_112_fr_3"></span>[3](#page_112_note_3.md) Then
 the chief of the Cañaris, named Urco-calla, brought false news to
 Huascar Ynca, asking him why he consented that Tupac Atahuallpa should
 have the title of Ynca. This enraged the Ynca, and when Tupac Atahuallpa
@@ -1485,10 +1485,10 @@ answer by his deeds. Then Auqui Atahuallpa, with the consent of all his
 captains, determined to take up arms, and the people of Quito swore to
 obey him. He assumed the title of Ynca, and began to use a litter, and
 assembled 13,000 warriors. After a few days the captain Atoc reached
-Mullu Hampatu,<span id="page_113_fr_4"></span>[4](#page_113_note_4) near
+Mullu Hampatu,<span id="page_113_fr_4"></span>[4](#page_113_note_4.md) near
 Quito, and Atahuallpa came out against him. There was a battle, in which
 Atahuallpa was defeated, and all the Mitimaes<span
-id="page_113_fr_5"></span>[5](#page_113_note_5) were terrified. But he
+id="page_113_fr_5"></span>[5](#page_113_note_5.md) were terrified. But he
 resolved to attempt further resistance. So he appointed Challcuchima to
 be general, and Quis-quis to be master of the camp, who defeated and
 captured the captain Atoc and put out his eyes. When Huascar Ynca heard
@@ -1535,7 +1535,7 @@ the enemy on the river of Ancoyacu, and Huanca Auqui refused to send him
 any help; yet he detained them for a month; but at last he was defeated,
 and all his men were destroyed. This news reached Huascar <span
 id="page_115">p. 115</span> when he was engaged in the *mucha*<span
-id="page_115_fr_6"></span>[6](#page_115_note_6) of the *huacas*. There
+id="page_115_fr_6"></span>[6](#page_115_note_6.md) of the *huacas*. There
 were forty *huacas* assembled, and the Ynca began to abuse them with
 many insulting words, saying:—
 
@@ -1586,7 +1586,7 @@ armies.
 Huascar ascended a high hill near the Apuri-mac, and beheld, with
 feelings of pleasure, the people covering the land like flour; and all
 the hills, *huayccus*,<span
-id="page_116_fr_7"></span>[7](#page_116_note_7) and plains glistening
+id="page_116_fr_7"></span>[7](#page_116_note_7.md) and plains glistening
 with the gold and silver and bright-coloured plumes of the warriors, so
 that there was no spot unoccupied for twelve leagues by six or seven.
 Each nation and province had its war songs and musical instruments. On
@@ -1629,7 +1629,7 @@ Challcuchima and Quis-quis sang the *haylli*, and told their men that
 all would go well. They set out for Utcu-pampa in search of Huascar
 Ynca, and got there at sunset with six hundred and forty men, when the
 Ynca was asleep, and took him prisoner, routing the Rucanas<span
-id="page_117_fr_8"></span>[8](#page_117_note_8) who were his bearers,
+id="page_117_fr_8"></span>[8](#page_117_note_8.md) who were his bearers,
 and so they carried him to Sallcantay. When the army found that Huascar
 Ynca was taken they were terrified, and each tribe went off to its own
 land. As soon as Quis-quis and Challcuchima <span id="page_118">p.
@@ -1651,7 +1651,7 @@ cried out: "O Lord and Creator, how is it possible? Why hast thou sent
 me these burdens and troubles." In those days Quis-quis ordered all the
 children of Huascar Ynca to be slain, and all his servants, up to
 fifteen hundred persons, who were within the palace of Puca-marca.<span
-id="page_118_fr_9"></span>[9](#page_118_note_9)
+id="page_118_fr_9"></span>[9](#page_118_note_9.md)
 
  Huascar Ynca, his wife and mother, and two children, with Huanca Auqui
 and the chief officers and councillors of the Ynca, were sent with a
@@ -1715,7 +1715,7 @@ interpreter. May God be praised for ever and ever.
 
 ------------------------------------------------------------------------
 
-[Next](rly3)
+[Next](rly3.md)
 
 ------------------------------------------------------------------------
 
@@ -1723,405 +1723,405 @@ interpreter. May God be praised for ever and ever.
 
 <span id="footnotes_page_68">p. 68</span>
 
-<span id="page_67_note_1"></span>[1](#page_67_fr_1) I do not find this
+<span id="page_67_note_1"></span>[1](#page_67_fr_1.md) I do not find this
 Santiago in Alcedo.
 
-<span id="page_67_note_2"></span>[2](#page_67_fr_2) Urco-suyu, "the hill
+<span id="page_67_note_2"></span>[2](#page_67_fr_2.md) Urco-suyu, "the hill
 country".
 
-<span id="page_67_note_3"></span>[3](#page_67_fr_3) That is to say, in
+<span id="page_67_note_3"></span>[3](#page_67_fr_3.md) That is to say, in
 the valley of the Vilcamayu, south and east of Cuzco, on the road to the
 Collao. The Canas and Canches were tribes on either side of the valley.
 
-<span id="page_67_note_4"></span>[4](#page_67_fr_4) That is, the last
+<span id="page_67_note_4"></span>[4](#page_67_fr_4.md) That is, the last
 three, his great great grandfathers.
 
 <span id="footnotes_page_68">p. 68</span>
 
-<span id="page_68_note_5"></span>[5](#page_68_fr_5) *Hapini* is the verb
+<span id="page_68_note_5"></span>[5](#page_68_fr_5.md) *Hapini* is the verb
 "I seize". *Ñuñu* is a woman's bosom.
 
-<span id="page_68_note_6"></span>[6](#page_68_fr_6) *Achalla* is an
+<span id="page_68_note_6"></span>[6](#page_68_fr_6.md) *Achalla* is an
 exclamation of admiration.
 
 <span id="footnotes_page_70">p. 70</span>
 
-<span id="page_70_note_7"></span>[7](#page_70_fr_7) *Purum* means wild,
+<span id="page_70_note_7"></span>[7](#page_70_fr_7.md) *Purum* means wild,
 savage, untamed. *Purum aucca*, unconquered enemy. *Purum soncco*,
 hardened heart. *Purum allpa*, fallow land. *Purum-purum*, uninhabited
 wilds. *Purum-pacha*, heathen times.
 
-<span id="page_70_note_8"></span>[8](#page_70_fr_8) *Ccallani*, to break
+<span id="page_70_note_8"></span>[8](#page_70_fr_8.md) *Ccallani*, to break
 down a wall, to destroy by making holes. *Ccallarichini*, to begin.
 *Ccallariynin-manta*, "from the beginning." "*Ccallac-pacha*,"
 "beginning of time."
 
-<span id="page_70_note_9"></span>[9](#page_70_fr_9) "Time of night."
+<span id="page_70_note_9"></span>[9](#page_70_fr_9.md) "Time of night."
 Dark Ages.
 
-<span id="page_70_note_1"></span>[1](#page_70_fr_1) *Purun*, "savage."
+<span id="page_70_note_1"></span>[1](#page_70_fr_1.md) *Purun*, "savage."
 *Pacha*, "time." *Racya*, "before." *Ntin*, Plural of multitude. "The
 people before the savage time."
 
-<span id="page_70_note_2"></span>[2](#page_70_fr_2) The four provinces
+<span id="page_70_note_2"></span>[2](#page_70_fr_2.md) The four provinces
 in one. The empire.
 
 <span id="footnotes_page_71">p. 71</span>
 
-<span id="page_71_note_3"></span>[3](#page_71_fr_3) A steward or head
+<span id="page_71_note_3"></span>[3](#page_71_fr_3.md) A steward or head
 servant. Chamberlain of the Ynca.
 
-<span id="page_71_note_4"></span>[4](#page_71_fr_4) *Huichay* (not
+<span id="page_71_note_4"></span>[4](#page_71_fr_4.md) *Huichay* (not
 *Uicchay*) is "up." *Huicharini*, "I ascend." *Camayoc*, "one who has
 charge of anything."
 
-<span id="page_71_note_5"></span>[5](#page_71_fr_5) *Cunacuni*, "I
+<span id="page_71_note_5"></span>[5](#page_71_fr_5.md) *Cunacuni*, "I
 advise or preach."
 
-<span id="page_71_note_6"></span>[6](#page_71_fr_6) The fabled cradle of
+<span id="page_71_note_6"></span>[6](#page_71_fr_6.md) The fabled cradle of
 the Ynca race, near Cuzco.
 
 <span id="footnotes_page_72">p. 72</span>
 
-<span id="page_72_note_7"></span>[7](#page_72_fr_7) I cannot identify
+<span id="page_72_note_7"></span>[7](#page_72_fr_7.md) I cannot identify
 it.
 
-<span id="page_72_note_8"></span>[8](#page_72_fr_8) *Cacha*, in the
+<span id="page_72_note_8"></span>[8](#page_72_fr_8.md) *Cacha*, in the
 valley of the Vilcamayu. *Pucara*, a fortress. See the account of the
 famous temple at Cacha in *G. de la Vega*, i, p. 159; ii, p. 69.
 
-<span id="page_72_note_9"></span>[9](#page_72_fr_9) To this idol they
+<span id="page_72_note_9"></span>[9](#page_72_fr_9.md) To this idol they
 offered human sacrifices.
 
-<span id="page_72_note_1"></span>[1](#page_72_fr_1) See *ante*,
-*Molina*, [p. 6](rly1.htm#page_6).
+<span id="page_72_note_1"></span>[1](#page_72_fr_1.md) See *ante*,
+*Molina*, [p. 6](rly1.htm#page_6.md).
 
 <span id="footnotes_page_73">p. 73</span>
 
-<span id="page_73_note_2"></span>[2](#page_73_fr_2) See *Mossi*, p. 207.
+<span id="page_73_note_2"></span>[2](#page_73_fr_2.md) See *Mossi*, p. 207.
 
-<span id="page_73_note_3"></span>[3](#page_73_fr_3) See *ante*,
-*Molina*, [p. 6](rly1.htm#page_6).
+<span id="page_73_note_3"></span>[3](#page_73_fr_3.md) See *ante*,
+*Molina*, [p. 6](rly1.htm#page_6.md).
 
 <span id="footnotes_page_74">p. 74</span>
 
-<span id="page_74_note_4"></span>[4](#page_74_fr_4) *Tupac*, royal or
+<span id="page_74_note_4"></span>[4](#page_74_fr_4.md) *Tupac*, royal or
 splendid. *Yauri*, a sceptre.
 
-<span id="page_74_note_5"></span>[5](#page_74_fr_5) *Chamani*, "I am
+<span id="page_74_note_5"></span>[5](#page_74_fr_5.md) *Chamani*, "I am
 satisfied." *Chamay*, "satisfaction, joy."
 
 <span id="footnotes_page_75">p. 75</span>
 
-<span id="page_75_note_6"></span>[6](#page_75_fr_6) Afterwards later
+<span id="page_75_note_6"></span>[6](#page_75_fr_6.md) Afterwards later
 Yncas placed a very well-carved stone in the form of a vulture, which
 means the good omen, and which is called *Yncap huaynacanim*, and the
 Indians began to treat it with idolatrous worship.
 
-<span id="page_75_note_7"></span>[7](#page_75_fr_7) Or *Collcampata*,
+<span id="page_75_note_7"></span>[7](#page_75_fr_7.md) Or *Collcampata*,
 above Cuzco.
 
 <span id="footnotes_page_76">p. 76</span>
 
-<span id="page_76_note_8"></span>[8](#page_76_fr_8) Or *Sacsahuaman*,
+<span id="page_76_note_8"></span>[8](#page_76_fr_8.md) Or *Sacsahuaman*,
 the site of the fortress of Cuzco. *Huaman*, "a falcon." *Tiana*, "a
 throne."
 
-<span id="page_76_note_9"></span>[9](#page_76_fr_9) The site of the
+<span id="page_76_note_9"></span>[9](#page_76_fr_9.md) The site of the
 temple of the Sun. *Ccuri*, "gold;" *Cancha*, "a place."
 
-<span id="page_76_note_1"></span>[1](#page_76_fr_1) People of the four
+<span id="page_76_note_1"></span>[1](#page_76_fr_1.md) People of the four
 provinces.
 
-<span id="page_76_note_2"></span>[2](#page_76_fr_2) "The golden place,
+<span id="page_76_note_2"></span>[2](#page_76_fr_2.md) "The golden place,
 the house of the teacher of the world."
 
-<span id="page_76_note_3"></span>[3](#page_76_fr_3) Idols.
+<span id="page_76_note_3"></span>[3](#page_76_fr_3.md) Idols.
 
 <span id="footnotes_page_77">p. 77</span>
 
-<span id="page_77_note_4"></span>[4](#page_77_fr_4) *Toco*, "a window."
+<span id="page_77_note_4"></span>[4](#page_77_fr_4.md) *Toco*, "a window."
 
-<span id="page_77_note_5"></span>[5](#page_77_fr_5) *Maras*,
+<span id="page_77_note_5"></span>[5](#page_77_fr_5.md) *Maras*,
 "mill-stone."
 
-<span id="page_77_note_6"></span>[6](#page_77_fr_6) *Sutini*, "I name."
+<span id="page_77_note_6"></span>[6](#page_77_fr_6.md) *Sutini*, "I name."
 *Sutic*, "name."
 
 <span id="footnotes_page_78">p. 78</span>
 
-<span id="page_78_note_7"></span>[7](#page_78_fr_7) *Paccari*, "morning,
+<span id="page_78_note_7"></span>[7](#page_78_fr_7.md) *Paccari*, "morning,
 dawn," *Paccarisca*, "birth, origin," *Paccarimuni*, "I am born,"
 *Paccarimusca*, "being born."
 
 <span id="footnotes_page_79">p. 79</span>
 
-<span id="page_79_note_8"></span>[8](#page_79_fr_8) The practice is
+<span id="page_79_note_8"></span>[8](#page_79_fr_8.md) The practice is
 continued to this day.
 
 <span id="footnotes_page_81">p. 81</span>
 
-<span id="page_81_note_9"></span>[9](#page_81_fr_9) *Mossi* (113). Herbs
+<span id="page_81_note_9"></span>[9](#page_81_fr_9) *Mossi* (113.md). Herbs
 given by sorcerers, as love philtres.
 
-<span id="page_81_note_1"></span>[1](#page_81_fr_1) Maize pudding.
+<span id="page_81_note_1"></span>[1](#page_81_fr_1.md) Maize pudding.
 
 <span id="footnotes_page_82">p. 82</span>
 
-<span id="page_82_note_2"></span>[2](#page_82_fr_2) The *chutarpu* is
+<span id="page_82_note_2"></span>[2](#page_82_fr_2.md) The *chutarpu* is
 the male form of committing fornication, and the *huanarpu* the
 opposite.
 
-<span id="page_82_note_3"></span>[3](#page_82_fr_3) The beardless chin
+<span id="page_82_note_3"></span>[3](#page_82_fr_3.md) The beardless chin
 is called *pachacaqui*, and the tweezers with which they pull out the
 hairs *canipachi*.
 
-<span id="page_82_note_4"></span>[4](#page_82_fr_4) See *Historia de
+<span id="page_82_note_4"></span>[4](#page_82_fr_4.md) See *Historia de
 Copacabana*, by Ramos. *Aclla*, "chosen, set apart." *Yurac*, "white."
 *Yana*, "black."
 
-<span id="page_82_note_5"></span>[5](#page_82_fr_5) Great Lords.
+<span id="page_82_note_5"></span>[5](#page_82_fr_5.md) Great Lords.
 
-<span id="page_82_note_6"></span>[6](#page_82_fr_6) Mayta Ccapac was so
+<span id="page_82_note_6"></span>[6](#page_82_fr_6.md) Mayta Ccapac was so
 called because, as a child, he used to say *Maytac* <span
 id="footnotes_page_83">p. 83</span> *Ccapac*, "O Lord, where art Thou?"
 and he repeated this thought by reason of his longing to know his
 Creator.
 
-<span id="page_83_note_7"></span>[7](#page_83_fr_7) Names of the
+<span id="page_83_note_7"></span>[7](#page_83_fr_7.md) Names of the
 *places* where these Huacas were worshipped.
 
-<span id="page_83_note_8"></span>[8](#page_83_fr_8) Priests.
+<span id="page_83_note_8"></span>[8](#page_83_fr_8.md) Priests.
 
-<span id="page_83_note_9"></span>[9](#page_83_fr_9) Sorcerers.
+<span id="page_83_note_9"></span>[9](#page_83_fr_9.md) Sorcerers.
 
-<span id="page_83_note_1"></span>[1](#page_83_fr_1) Idol worshippers.
+<span id="page_83_note_1"></span>[1](#page_83_fr_1.md) Idol worshippers.
 *Huaca*, "an idol," and *Muchani*, "I worship."
 
 <span id="footnotes_page_84">p. 84</span>
 
-<span id="page_84_note_2"></span>[2](#page_84_fr_2) See *G. de la Vega*,
+<span id="page_84_note_2"></span>[2](#page_84_fr_2.md) See *G. de la Vega*,
 i, p. 272.
 
 <span id="footnotes_page_85">p. 85</span>
 
-<span id="page_85_note_3"></span>[3](#page_85_fr_3) A suburb of Cuzco.
+<span id="page_85_note_3"></span>[3](#page_85_fr_3.md) A suburb of Cuzco.
 See *G. de la Vega*, ii, p. 249.
 
-<span id="page_85_note_4"></span>[4](#page_85_fr_4) This son of Mayta
+<span id="page_85_note_4"></span>[4](#page_85_fr_4.md) This son of Mayta
 Ccapac was called Ccapac Yupanqui because, when he was a child, his
 father said, "*Ccapacta tacmi yupanqui*", "Thou also shalt count as one
 rich in all virtues."
 
-<span id="page_85_note_5"></span>[5](#page_85_fr_5) See *G. de la Vega*,
+<span id="page_85_note_5"></span>[5](#page_85_fr_5.md) See *G. de la Vega*,
 ii. p. 531. *Huañayñin* is, I think, a clerical error for *Huahuanina*.
 
-<span id="page_85_note_6"></span>[6](#page_85_fr_6) Guinea pigs.
+<span id="page_85_note_6"></span>[6](#page_85_fr_6.md) Guinea pigs.
 
 <span id="footnotes_page_87">p. 87</span>
 
-<span id="page_87_note_7"></span>[7](#page_87_fr_7) *Ccapac*, "rich."
+<span id="page_87_note_7"></span>[7](#page_87_fr_7.md) *Ccapac*, "rich."
 *Chama*, "joy." *Quispisutu*, "crystal drops". *Unu*, "water."
 
-<span id="page_87_note_8"></span>[8](#page_87_fr_8) "Golden flock."
+<span id="page_87_note_8"></span>[8](#page_87_fr_8.md) "Golden flock."
 
 <span id="footnotes_page_88">p. 88</span>
 
-<span id="page_88_note_9"></span>[9](#page_88_fr_9) Fine cloth. See *G.
+<span id="page_88_note_9"></span>[9](#page_88_fr_9.md) Fine cloth. See *G.
 de la Vega*, ii, p. 324.
 
 <span id="footnotes_page_89">p. 89</span>
 
-<span id="page_89_note_1"></span>[1](#page_89_fr_1) See *G. de la Vega*,
+<span id="page_89_note_1"></span>[1](#page_89_fr_1.md) See *G. de la Vega*,
 i, pp. 327, 347; ii, 62.
 
 <span id="footnotes_page_90">p. 90</span>
 
-<span id="page_90_note_2"></span>[2](#page_90_fr_2) Thou art Lord of
+<span id="page_90_note_2"></span>[2](#page_90_fr_2.md) Thou art Lord of
 Cuzco. I am Lord of the Collas. I have a silver throne. Thy throne is of
 gold. Thou art a worshipper of Uira-ccocha-Pachayachachi. I worship the
 Sun.
 
 <span id="footnotes_page_91">p. 91</span>
 
-<span id="page_91_note_3"></span>[3](#page_91_fr_3) Sceptre.
+<span id="page_91_note_3"></span>[3](#page_91_fr_3.md) Sceptre.
 
-<span id="page_91_note_4"></span>[4](#page_91_fr_4) Standard.
+<span id="page_91_note_4"></span>[4](#page_91_fr_4.md) Standard.
 
 <span id="footnotes_page_92">p. 92</span>
 
-<span id="page_92_note_5"></span>[5](#page_92_fr_5) This is the same
+<span id="page_92_note_5"></span>[5](#page_92_fr_5.md) This is the same
 battle described by *Garcilasso de la Vega*, ii, p. 53.
 
 <span id="footnotes_page_93">p. 93</span>
 
-<span id="page_93_note_6"></span>[6](#page_93_fr_6) *Huillca*, a tree,
+<span id="page_93_note_6"></span>[6](#page_93_fr_6.md) *Huillca*, a tree,
 the fruit of which, like the lupin, is a purgative.—*Mossi*, p. 127.
 
-<span id="page_93_note_7"></span>[7](#page_93_fr_7) Ollachea and Ayapata
+<span id="page_93_note_7"></span>[7](#page_93_fr_7.md) Ollachea and Ayapata
 are villages to the eastward of the Andes, in Caravaya.
 
 <span id="footnotes_page_94">p. 94</span>
 
-<span id="page_94_note_8"></span>[8](#page_94_fr_8) See the account of
+<span id="page_94_note_8"></span>[8](#page_94_fr_8.md) See the account of
 the flight of Hanco-hualla (Anco-allo) in *G. de la Vega*, ii, pp. 82
 and 329.
 
 <span id="footnotes_page_95">p. 95</span>
 
-<span id="page_95_note_9"></span>[9](#page_95_fr_9) The deep hot valley
+<span id="page_95_note_9"></span>[9](#page_95_fr_9.md) The deep hot valley
 of the river Pampas.
 
-<span id="page_95_note_1"></span>[1](#page_95_fr_1) Jaguars.
+<span id="page_95_note_1"></span>[1](#page_95_fr_1.md) Jaguars.
 
-<span id="page_95_note_2"></span>[2](#page_95_fr_2) *Llaca*, a plumed
+<span id="page_95_note_2"></span>[2](#page_95_fr_2.md) *Llaca*, a plumed
 lance (*Mossi*).
 
 <span id="footnotes_page_96">p. 96</span>
 
-<span id="page_96_note_3"></span>[3](#page_96_fr_3) Xhichca of *Mossi*
+<span id="page_96_note_3"></span>[3](#page_96_fr_3.md) Xhichca of *Mossi*
 (148); secsec of *Mossi* (278); sihui of *Mossi* (235). Different kinds
 of thorn bushes.
 
-<span id="page_96_note_4"></span>[4](#page_96_fr_4) Name of the mountain
+<span id="page_96_note_4"></span>[4](#page_96_fr_4.md) Name of the mountain
 between Paucartampu and the eastern forests.—See *G. de la Vega*, i, p.
 330.
 
 <span id="footnotes_page_97">p. 97</span>
 
-<span id="page_97_note_5"></span>[5](#page_97_fr_5) Colonists.
+<span id="page_97_note_5"></span>[5](#page_97_fr_5.md) Colonists.
 
-<span id="page_97_note_6"></span>[6](#page_97_fr_6) *Huacra*, a horn;
+<span id="page_97_note_6"></span>[6](#page_97_fr_6.md) *Huacra*, a horn;
 and *chucu* a head-dress. This was the name of a large tribe near
 Cassamarca.—See *G. de la Vega*, ii, p. 322.
 
 <span id="footnotes_page_98">p. 98</span>
 
-<span id="page_98_note_7"></span>[7](#page_98_fr_7) See [p.
-82](#page_82).
+<span id="page_98_note_7"></span>[7](#page_98_fr_7.md) See [p.
+82](#page_82.md).
 
-<span id="page_98_note_8"></span>[8](#page_98_fr_8) Inns.
+<span id="page_98_note_8"></span>[8](#page_98_fr_8.md) Inns.
 
-<span id="page_98_note_9"></span>[9](#page_98_fr_9) Chosen virgins.
+<span id="page_98_note_9"></span>[9](#page_98_fr_9.md) Chosen virgins.
 
 <span id="footnotes_page_99">p. 99</span>
 
-<span id="page_99_note_1"></span>[1](#page_99_fr_1) Fine cloth.
+<span id="page_99_note_1"></span>[1](#page_99_fr_1.md) Fine cloth.
 
-<span id="page_99_note_2"></span>[2](#page_99_fr_2) Keepers of plumes
+<span id="page_99_note_2"></span>[2](#page_99_fr_2.md) Keepers of plumes
 and garlands.
 
-<span id="page_99_note_3"></span>[3](#page_99_fr_3) Doctors. *Hampi*,
+<span id="page_99_note_3"></span>[3](#page_99_fr_3.md) Doctors. *Hampi*,
 medicine.
 
-<span id="page_99_note_4"></span>[4](#page_99_fr_4) Name of a general.
+<span id="page_99_note_4"></span>[4](#page_99_fr_4.md) Name of a general.
 The words mean "Grandfather of a jaguar". But *Achachi* is a grandfather
 in the Colla language. In Quichua a grandfather is *Machu*. He was
 probably a Colla general.
 
-<span id="page_99_note_5"></span>[5](#page_99_fr_5) Song of triumph.
+<span id="page_99_note_5"></span>[5](#page_99_fr_5.md) Song of triumph.
 
-<span id="page_99_note_6"></span>[6](#page_99_fr_6) Thrones.
+<span id="page_99_note_6"></span>[6](#page_99_fr_6.md) Thrones.
 
 <span id="footnotes_page_100">p. 100</span>
 
-<span id="page_100_note_7"></span>[7](#page_100_fr_7) Royal fringe.
+<span id="page_100_note_7"></span>[7](#page_100_fr_7.md) Royal fringe.
 
-<span id="page_100_note_8"></span>[8](#page_100_fr_8) Battle-axes.
+<span id="page_100_note_8"></span>[8](#page_100_fr_8.md) Battle-axes.
 
 <span id="footnotes_page_101">p. 101</span>
 
-<span id="page_101_note_9"></span>[9](#page_101_fr_9) *Huarmi*, a woman.
+<span id="page_101_note_9"></span>[9](#page_101_fr_9.md) *Huarmi*, a woman.
 *Pucara*, a fortress.
 
-<span id="page_101_note_1"></span>[1](#page_101_fr_1) Guinea pigs.
+<span id="page_101_note_1"></span>[1](#page_101_fr_1.md) Guinea pigs.
 
-<span id="page_101_note_2"></span>[2](#page_101_fr_2) *Tayta* means
+<span id="page_101_note_2"></span>[2](#page_101_fr_2.md) *Tayta* means
 father, master.
 
-<span id="page_101_note_3"></span>[3](#page_101_fr_3) Turkey buzzards.
+<span id="page_101_note_3"></span>[3](#page_101_fr_3.md) Turkey buzzards.
 
 <span id="footnotes_page_102">p. 102</span>
 
-<span id="page_102_note_4"></span>[4](#page_102_fr_4) *Huarmi*, a woman.
+<span id="page_102_note_4"></span>[4](#page_102_fr_4.md) *Huarmi*, a woman.
 *Auca*, a soldier.
 
-<span id="page_102_note_5"></span>[5](#page_102_fr_5) Illegible in MS.
+<span id="page_102_note_5"></span>[5](#page_102_fr_5.md) Illegible in MS.
 
-<span id="page_102_note_6"></span>[6](#page_102_fr_6) This passage is
+<span id="page_102_note_6"></span>[6](#page_102_fr_6.md) This passage is
 obscure.
 
 <span id="footnotes_page_103">p. 103</span>
 
-<span id="page_103_note_7"></span>[7](#page_103_fr_7) Bowls.
+<span id="page_103_note_7"></span>[7](#page_103_fr_7.md) Bowls.
 
 <span id="footnotes_page_104">p. 104</span>
 
-<span id="page_104_note_8"></span>[8](#page_104_fr_8) Servants.
+<span id="page_104_note_8"></span>[8](#page_104_fr_8.md) Servants.
 
-<span id="page_104_note_9"></span>[9](#page_104_fr_9) Officers in
+<span id="page_104_note_9"></span>[9](#page_104_fr_9.md) Officers in
 command of a hundred men.
 
 <span id="footnotes_page_106">p. 106</span>
 
-<span id="page_106_note_1"></span>[1](#page_106_fr_1) *Auqui*, an
+<span id="page_106_note_1"></span>[1](#page_106_fr_1.md) *Auqui*, an
 unmarried prince. *Cuna*, the plural particle.
 
-<span id="page_106_note_2"></span>[2](#page_106_fr_2) A shell.
+<span id="page_106_note_2"></span>[2](#page_106_fr_2.md) A shell.
 
-<span id="page_106_note_3"></span>[3](#page_106_fr_3) I am uncertain of
+<span id="page_106_note_3"></span>[3](#page_106_fr_3.md) I am uncertain of
 the exact meaning. *Puru* is a calabash; also false. *Puru-ccayan*,
 mourning.
 
-<span id="page_106_note_4"></span>[4](#page_106_fr_4) A bracelet.
+<span id="page_106_note_4"></span>[4](#page_106_fr_4.md) A bracelet.
 
-<span id="page_106_note_5"></span>[5](#page_106_fr_5) See [p.
-11](rly1.htm#page_11).
+<span id="page_106_note_5"></span>[5](#page_106_fr_5.md) See [p.
+11](rly1.htm#page_11.md).
 
-<span id="page_106_note_6"></span>[6](#page_106_fr_6) Royal sceptre.
+<span id="page_106_note_6"></span>[6](#page_106_fr_6.md) Royal sceptre.
 
-<span id="page_106_note_7"></span>[7](#page_106_fr_7) Royal head-dress.
+<span id="page_106_note_7"></span>[7](#page_106_fr_7.md) Royal head-dress.
 
-<span id="page_106_note_8"></span>[8](#page_106_fr_8) Fringe.
+<span id="page_106_note_8"></span>[8](#page_106_fr_8.md) Fringe.
 
-<span id="page_106_note_9"></span>[9](#page_106_fr_9) Fillet.
+<span id="page_106_note_9"></span>[9](#page_106_fr_9.md) Fillet.
 
-<span id="page_106_note_1a"></span>[1a](#page_106_fr_1a) Royal standard.
+<span id="page_106_note_1a"></span>[1a](#page_106_fr_1a.md) Royal standard.
 
-<span id="page_106_note_2a"></span>[2a](#page_106_fr_2a) Club.
+<span id="page_106_note_2a"></span>[2a](#page_106_fr_2a.md) Club.
 
-<span id="page_106_note_3a"></span>[3a](#page_106_fr_3a) Shield.
+<span id="page_106_note_3a"></span>[3a](#page_106_fr_3a.md) Shield.
 
-<span id="page_106_note_4a"></span>[4a](#page_106_fr_4a) *Uma*, "head."
+<span id="page_106_note_4a"></span>[4a](#page_106_fr_4a.md) *Uma*, "head."
 *Chucu*, "head-dress."
 
 <span id="footnotes_page_107">p. 107</span>
 
-<span id="page_107_note_5"></span>[5](#page_107_fr_5) *Ccapac*, royal.
+<span id="page_107_note_5"></span>[5](#page_107_fr_5.md) *Ccapac*, royal.
 *Usnu*, a station, land-mark, heap of stones; tribunal or judgment seat.
 
-<span id="page_107_note_6"></span>[6](#page_107_fr_6) *Ccallani*, I
+<span id="page_107_note_6"></span>[6](#page_107_fr_6.md) *Ccallani*, I
 break. *Sanampa*, a sign.
 
 <span id="footnotes_page_108">p. 108</span>
 
-<span id="page_108_note_7"></span>[7](#page_108_fr_7) See opposite
+<span id="page_108_note_7"></span>[7](#page_108_fr_7.md) See opposite
 {next} page.
 
 <span id="footnotes_page_110">p. 110</span>
 
-<span id="page_110_note_8"></span>[8](#page_110_fr_8) Otavalla. See *G.
+<span id="page_110_note_8"></span>[8](#page_110_fr_8.md) Otavalla. See *G.
 de la Vega*, ii, p. 350; and *Cieza de Leon*, p. 138.
 
-<span id="page_110_note_9"></span>[9](#page_110_fr_9) See *Cieza de
+<span id="page_110_note_9"></span>[9](#page_110_fr_9.md) See *Cieza de
 Leon*, p. 133; and *G. de la Vega*, ii, p. 449.
 
-<span id="page_110_note_1"></span>[1](#page_110_fr_1) *Puti*, a trunk,
+<span id="page_110_note_1"></span>[1](#page_110_fr_1.md) *Puti*, a trunk,
 parcel.
 
 <span id="footnotes_page_111">p. 111</span>
 
-<span id="page_111_note_2"></span>[2](#page_111_fr_2) This Ynca Cusi
+<span id="page_111_note_2"></span>[2](#page_111_fr_2.md) This Ynca Cusi
 Huallpa caused a garden to be made at Sappi, near Cuzco, with many
 animals of gold and silver, amongst the trees. Then he caused a very
 long chain to be made, of gold, and each link was in the form of a
@@ -2134,32 +2134,32 @@ Urcos-ccocha.
 
 <span id="footnotes_page_112">p. 112</span>
 
-<span id="page_112_note_3"></span>[3](#page_112_fr_3) *Ranti*, a deputy.
+<span id="page_112_note_3"></span>[3](#page_112_fr_3.md) *Ranti*, a deputy.
 *Ynca-ranti*, viceroy.
 
 <span id="footnotes_page_113">p. 113</span>
 
-<span id="page_113_note_4"></span>[4](#page_113_fr_4) See *Cieza de
+<span id="page_113_note_4"></span>[4](#page_113_fr_4.md) See *Cieza de
 Leon*, p. 153.
 
-<span id="page_113_note_5"></span>[5](#page_113_fr_5) Colonists.
+<span id="page_113_note_5"></span>[5](#page_113_fr_5.md) Colonists.
 
 <span id="footnotes_page_115">p. 115</span>
 
-<span id="page_115_note_6"></span>[6](#page_115_fr_6) Worship.
+<span id="page_115_note_6"></span>[6](#page_115_fr_6.md) Worship.
 
 <span id="footnotes_page_116">p. 116</span>
 
-<span id="page_116_note_7"></span>[7](#page_116_fr_7) Ravines.
+<span id="page_116_note_7"></span>[7](#page_116_fr_7.md) Ravines.
 
 <span id="footnotes_page_117">p. 117</span>
 
-<span id="page_117_note_8"></span>[8](#page_117_fr_8) See *G. de la
+<span id="page_117_note_8"></span>[8](#page_117_fr_8.md) See *G. de la
 Vega*, i, p. 267; ii, p. 147, 358.
 
 <span id="footnotes_page_118">p. 118</span>
 
-<span id="page_118_note_9"></span>[9](#page_118_fr_9) See *G. de la
+<span id="page_118_note_9"></span>[9](#page_118_fr_9.md) See *G. de la
 Vega*, ii, p. 246.
 
  

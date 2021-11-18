@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1432515268/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](yvhf00)    [Page
-Index](pageidx)    [Text \[Zipped\]](yvhf.txt.gz)
+[Contents](#contents)    [Start Reading](yvhf00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](yvhf.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -53,28 +53,28 @@ date.
 
 <span class="small">Production Notes: This was a self-published book,
 and it has a number of typographical errors which I corrected [in the
-usual way](errata), including a couple of Hindu technical terms which I
+usual way](errata.md), including a couple of Hindu technical terms which I
 was able to track down using Wikipedia. There were also a number of
 punctuation errors, mostly quotation marks, which I corrected
 silently.--J.B. Hare, September 7, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](yvhf00)  
-[Contents](yvhf01)  
-[Introduction](yvhf02)  
-[Sri Ram, the Truth Seeker](yvhf03)  
-[How the Wise Ought to Live](yvhf04)  
-[How Suka Attained Highest State of Bliss](yvhf05)  
-[The Way to Blessed Liberation](yvhf06)  
-[Creation of the Universe](yvhf07)  
-[Queen Chundalai, The Great Yogin](yvhf08)  
-[The Great Egoist—Bali](yvhf09)  
-[King Janak](yvhf10)  
+<span id="contents"></span> [Title Page and Front Matter](yvhf00.md)  
+[Contents](yvhf01.md)  
+[Introduction](yvhf02.md)  
+[Sri Ram, the Truth Seeker](yvhf03.md)  
+[How the Wise Ought to Live](yvhf04.md)  
+[How Suka Attained Highest State of Bliss](yvhf05.md)  
+[The Way to Blessed Liberation](yvhf06.md)  
+[Creation of the Universe](yvhf07.md)  
+[Queen Chundalai, The Great Yogin](yvhf08.md)  
+[The Great Egoist—Bali](yvhf09.md)  
+[King Janak](yvhf10.md)  
 [How Suragho, the King of Hunters, attained realization of
-self](yvhf11)  
-[The Long-Lived Yogi and the Secret of His Longevity](yvhf12)  
-[The Goal of the Yogi and Levitation](yvhf13)  
-[How to Live](yvhf14)  
-[India's message to other Countries](yvhf15)  
-[Advertisements](yvhf16)  
+self](yvhf11.md)  
+[The Long-Lived Yogi and the Secret of His Longevity](yvhf12.md)  
+[The Goal of the Yogi and Levitation](yvhf13.md)  
+[How to Live](yvhf14.md)  
+[India's message to other Countries](yvhf15.md)  
+[Advertisements](yvhf16.md)  

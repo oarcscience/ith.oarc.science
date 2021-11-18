@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,10 +14,10 @@ American](../../index)  [Navajo](../index) 
 
 ------------------------------------------------------------------------
 
-[Title and Contents](omni00)  
-[Preface](omni01)  
-[The Creation](omni02)  
-[The Age of Animal Heroes](omni03)  
-[The Age of Gods](omni04)  
-[The Wanderings](omni05)  
-[Bibliography](omni06)  
+[Title and Contents](omni00.md)  
+[Preface](omni01.md)  
+[The Creation](omni02.md)  
+[The Age of Animal Heroes](omni03.md)  
+[The Age of Gods](omni04.md)  
+[The Wanderings](omni05.md)  
+[Bibliography](omni06.md)  

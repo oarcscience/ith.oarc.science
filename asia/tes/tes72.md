@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes71)  [Next](tes73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes71)  [Next](tes73.md) 
 
 ------------------------------------------------------------------------
 
-### 7. SISTER AND BROTHER MARRIED. <span id="fr_107"></span>[3](#fn_107)
+### 7. SISTER AND BROTHER MARRIED. <span id="fr_107"></span>[3](#fn_107.md)
 
 There was a sister who wanted to marry her brother. One time while the
 brother was out hunting she sewed a new tent cover and prepared new
@@ -55,9 +55,9 @@ Markova. Recorded by Mrs. Sophie Bogoras, winter of 1900.
 
 ### Footnotes
 
-<span id="fn_107"></span>[131:3](tes72.htm#fr_107) Cf. Bogoras,
+<span id="fn_107"></span>[131:3](tes72.htm#fr_107.md) Cf. Bogoras,
 "Chukchee Materials", No. 59, 171--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 8. A Lamut Tale](tes73)
+[Next: 8. A Lamut Tale](tes73.md)

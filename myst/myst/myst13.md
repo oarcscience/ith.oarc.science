@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst12)  [Next](myst14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst12)  [Next](myst14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -31,7 +31,7 @@ the awakening of the transcendental consciousness.
 point of view, appears to be an intense form of the phenomenon of
 “conversion”; and closely akin to those deep and permanent conversions
 of the adult type which some religious psychologists call
-“sanctification.”  <span id="fr_341"></span>[342](#fn_341) It is a
+“sanctification.”  <span id="fr_341"></span>[342](#fn_341.md) It is a
 disturbance of the equilibrium of the self, which results in the
 shifting of the field of consciousness from lower to higher levels, with
 a consequent removal of the centre of interest from the subject to an
@@ -58,14 +58,14 @@ the individual consciousness. Often it breaks in suddenly and becomes a
 great new revelation. This is the first aspect of conversion: the person
 emerges from a smaller limited world of existence into a larger world of
 being. His life becomes swallowed up in a larger whole.”  <span
-id="fr_342"></span>[343](#fn_342)
+id="fr_342"></span>[343](#fn_342.md)
 
 <span id="an_iv.ii-p6"></span>All conversion entails the abrupt or
 gradual emergence of intuitions from below the threshold, the consequent
 remaking of the field of consciousness, an alteration in the self’s
 attitude to the world. “It is,” says Pratt, “a change of taste—the most
 momentous one that ever occurs in human experience.”  <span
-id="fr_343"></span>[344](#fn_343) But in the mystic this process is
+id="fr_343"></span>[344](#fn_343.md) But in the mystic this process is
 raised to the nth degree of intensity, for in him it means the first
 emergence of that passion for the Absolute which is to constitute his
 distinctive character: an emergence crucial in its effect on every
@@ -105,7 +105,7 @@ God, so that I could not but admire the greatness of his love. While I
 was in that condition it was opened unto me by the eternal Light and
 Power, and I saw clearly therein. . . . But O! then did I see my
 troubles, trials, and temptations more clearly than ever I had done.”
- <span id="fr_344"></span>[345](#fn_344)
+ <span id="fr_344"></span>[345](#fn_344.md)
 
 <span id="an_iv.ii-p10"></span>The great oscillations of the typical
 mystic between joy and pain are here replaced by a number of little
@@ -115,7 +115,7 @@ brings with it a reaction. The nascent transcendental powers are easily
 fatigued, and the pendulum of self takes a shorter swing. “I was swept
 up to Thee by Thy Beauty, and torn away from Thee by my own weight,”
 says St. Augustine, crystallizing the secret of this experience in an
-unforgettable phrase.  <span id="fr_345"></span>[346](#fn_345)
+unforgettable phrase.  <span id="fr_345"></span>[346](#fn_345.md)
 
 <span id="an_iv.ii-p12"></span>Commonly, however, if we may judge from
 those first-hand accounts which we possess, mystic conversion is a
@@ -131,7 +131,7 @@ changed its rhythm and a new aspect of the universe rushes in. The
 teasing mists are swept away, and reveal, if only for an instant, the
 sharp outline of the Everlasting Hills. “He who knows this will know
 what I say, and will be convinced that the soul has then another life.”
- <span id="fr_346"></span>[347](#fn_346)
+ <span id="fr_346"></span>[347](#fn_346.md)
 
 <span id="an_iv.ii-p14"></span>In most cases, the onset of this new
 consciousness seems to the self so sudden, so clearly imposed from
@@ -147,7 +147,7 @@ The deeper mind stirs uneasily in its prison, and its emergence is but
 the last of many efforts to escape. The temperament of the subject, his
 surroundings, the vague but persistent apprehensions of a supersensual
 reality which he could not find yet could not forget; all these have
-prepared him for it.  <span id="fr_347"></span>[348](#fn_347)
+prepared him for it.  <span id="fr_347"></span>[348](#fn_347.md)
 
 <span id="an_iv.ii-p16"></span>When, however, the subconscious
 intuitions, long ago quickened, are at last brought to birth and the
@@ -159,7 +159,7 @@ of the past life are forgotten. In this abrupt recognition of reality
 begins. Conversion of this sort has, says De Sanctis, three marked
 characteristics: a sense of liberation and victory: a conviction of the
 nearness of God: a sentiment of love towards God.  <span
-id="fr_348"></span>[349](#fn_348) We might describe it as a sudden,
+id="fr_348"></span>[349](#fn_348.md) We might describe it as a sudden,
 intense, and joyous perception of God immanent in the universe; of the
 divine beauty and unutterable power and splendour of that larger life in
 which the individual is immersed, and of a new life to be lived by the
@@ -172,7 +172,7 @@ completely to God alone in this world, and I saw that hitherto I had not
 well understood this; an Attraction by which my heart was subdued and
 delighted; a Power which inspired me with a generous resolution and
 somehow placed in my hands the means of carrying it out.”  <span
-id="fr_349"></span>[350](#fn_349)
+id="fr_349"></span>[350](#fn_349.md)
 
 <span id="an_iv.ii-p19"></span>I will here set down for comparison a few
 instances of such mystical conversion; quoting, where this is available,
@@ -200,7 +200,7 @@ unified itself. He was a high-spirited boy, full of vitality: a natural
 artist, with all the fastidiousness which the artistic temperament
 involves. War and pleasure both attracted him, and upon them, says his
 legend, he “miserably squandered and wasted his time.”  <span
-id="fr_350"></span>[351](#fn_350) Nevertheless, he was vaguely
+id="fr_350"></span>[351](#fn_350.md) Nevertheless, he was vaguely
 dissatisfied. In the midst of festivities, he would have sudden fits of
 abstraction: abortive attempts of the growing transcendental
 consciousness, still imprisoned below the threshold but aware of and in
@@ -211,7 +211,7 @@ musician, and shrank instinctively from contact with ugliness and
 disease. But something within ran counter to this temperamental bias,
 and sometimes conquered it. He would then associate with beggars, tend
 the leprous, perform impulsive acts of charity and self-humiliation.
- <span id="fr_351"></span>[352](#fn_351)
+ <span id="fr_351"></span>[352](#fn_351.md)
 
 <span id="an_iv.ii-p24"></span>When this divided state, described by the
 legend as “the attempt to flee God’s hand,” had lasted for some years,
@@ -248,7 +248,7 @@ untiring toil to the repair of that Church. For though the words which
 were said to him concerned that divine Church which Christ bought with
 His own Blood, he would not hasten to such heights, but little by little
 from things of the flesh would pass to those of the Spirit.”  <span
-id="fr_352"></span>[353](#fn_352)
+id="fr_352"></span>[353](#fn_352.md)
 
 <span id="an_iv.ii-p27"></span>In a moment of time, Francis’s whole
 universe has suffered complete rearrangement. There are no hesitations,
@@ -296,14 +296,14 @@ which worlds cannot express?’” This intuition of the Absolute was
 followed by an interior vision of Christ bearing the Cross, which
 further increased her love and self-abasement. “And she cried again, ‘O
 Love, no more sins! no more sins!’ And her hatred of herself was more
-than she could endure.”  <span id="fr_353"></span>[354](#fn_353)
+than she could endure.”  <span id="fr_353"></span>[354](#fn_353.md)
 
 <span id="an_iv.ii-p31"></span>Of this experience Von Hügel says, “If
 the tests of reality in such things are their persistence and large and
 rich spiritual applicability and fruitfulness, then something profoundly
 real and important took place in the soul of that sad and weary woman of
 six-and-twenty, within that convent-chapel, at that Annunciation-tide.”
- <span id="fr_354"></span>[355](#fn_354) It is certain that for St.
+ <span id="fr_354"></span>[355](#fn_354.md) It is certain that for St.
 Catherine, as for St. Francis, an utterly new life did, literally, begin
 at this point. The centre of interest was shifted and the field of
 consciousness remade. She “knew in an instant that which words cannot
@@ -324,7 +324,7 @@ repressed ardours and exquisite delicacy of <span id="page_183">p.
 183</span> <span id="an_iv.ii-Page_183"></span> St. Catherine’s mind,
 so, too, her account of her own interior processes is marred by a
 terrible and unctuous interest in the peculiar graces vouchsafed to her.
- <span id="fr_355"></span>[356](#fn_355)
+ <span id="fr_355"></span>[356](#fn_355.md)
 
 <span id="an_iv.ii-p35"></span>Madame Guyon’s value to the student of
 mysticism partly consists in this feeble quality of her
@@ -340,14 +340,14 @@ windmill. She moves to every current; she often mistakes a draught for
 the divine breath; she feels her gyrations to be of enormous importance.
 But in the description of her awakening to the deeper life, even her
 effusive style acquires a certain dignity.  <span
-id="fr_356"></span>[357](#fn_356)
+id="fr_356"></span>[357](#fn_356.md)
 
 <span id="an_iv.ii-p37"></span>Madame Guyon had from her childhood
 exhibited an almost tiresome taste for pious observances. At twelve
 years old she studied St. François de Sales and St. Jeanne Françoise de
 Chantal; begged her confessor to teach her the art of mental prayer; and
 when he omitted to do so, tried to teach herself, but without result.
- <span id="fr_357"></span>[358](#fn_357) She wished at this time to
+ <span id="fr_357"></span>[358](#fn_357.md) She wished at this time to
 become a nun of the Visitation, as St. Catherine at the same age wanted
 to be an Augustinian canoness; but as the longings of little girls of
 twelve for the cloister are seldom taken seriously, we are not surprised
@@ -360,21 +360,21 @@ of which she signed the articles without even being told the
 bridegroom’s name—put an end to her gaiety. “The whole town was pleased
 by this marriage; and in all this rejoicing only I was sad . . . hardly
 was I married, when the remembrance of my old desire to be a nun
-overcame me.”  <span id="fr_358"></span>[359](#fn_358)
+overcame me.”  <span id="fr_358"></span>[359](#fn_358.md)
 
 <span id="an_iv.ii-p40"></span>Her early married life was excessively
 unhappy. She was soon <span id="page_184">p. 184</span> <span
 id="an_iv.ii-Page_184"></span> driven to look for comfort in the
 practices of religion. “Made to love much, and finding nothing to love
 around her, she gave her love to God,” says Guerrier tersely.  <span
-id="fr_359"></span>[360](#fn_359) But she was not satisfied: like most
+id="fr_359"></span>[360](#fn_359.md) But she was not satisfied: like most
 of her fellow-contemplatives, she was already vaguely conscious of
 something that she missed, some vital power unused, and identified this
 something with the “orison of quiet,” the “practice of the presence of
 God” which mystically minded friends had described to her. She tried to
 attain to it deliberately, and naturally failed. “I could not give
 myself by multiplicity that which Thou Thyself givest, and which is only
-experienced in simplicity.”  <span id="fr_360"></span>[361](#fn_360)
+experienced in simplicity.”  <span id="fr_360"></span>[361](#fn_360.md)
 
 <span id="an_iv.ii-p43"></span>When these interior struggles had lasted
 for nearly two years, and Madame Guyon was nineteen, the long desired,
@@ -409,7 +409,7 @@ but it was an orison of joyous possession in the Will, where the taste
 for God was so great, pure, <span id="page_185">p. 185</span> <span
 id="an_iv.ii-Page_185"></span> and simple that it attracted and absorbed
 the two other powers of the soul in a profound recollection without
-action or speech.”  <span id="fr_361"></span>[362](#fn_361)
+action or speech.”  <span id="fr_361"></span>[362](#fn_361.md)
 
 <span id="an_iv.ii-p45"></span>Take now the case of a less eminent
 mystic, who has also left behind him a vivid personal description of his
@@ -420,7 +420,7 @@ wholly devote himself to religious matters. It was the time of that
 spiritual revival within the Catholic Church in Germany which, largely
 influenced by the great Rhenish mystics Suso and Tauler, is identified
 with the “Friends of God”; and Merswin himself was one of Tauler’s
-disciples.  <span id="fr_362"></span>[363](#fn_362)
+disciples.  <span id="fr_362"></span>[363](#fn_362.md)
 
 <span id="an_iv.ii-p47"></span>One evening, in the autumn which followed
 his retirement, “about the time of Martinmas,” he was strolling in his
@@ -434,7 +434,7 @@ subconscious forces which had long been gathering way. Merswin was
 abruptly filled with a violent hatred of the world and of his own
 free-will. “Lifting his eyes to heaven he solemnly swore that he would
 utterly surrender his own will, person, and goods to the service of
-God.”  <span id="fr_363"></span>[364](#fn_363)
+God.”  <span id="fr_363"></span>[364](#fn_363.md)
 
 <span id="an_iv.ii-p49"></span>This act of complete surrender, releasing
 as it were the earthbound self, was at once followed by the onset of
@@ -443,7 +443,7 @@ brilliant light shone about him: he heard in his ears a divine voice of
 <span id="page_186">p. 186</span> <span id="an_iv.ii-Page_186"></span>
 adorable sweetness; he felt as if he were lifted from the ground and
 carried several times completely round his garden.”  <span
-id="fr_364"></span>[365](#fn_364) Optical disturbance, auditions, and
+id="fr_364"></span>[365](#fn_364.md) Optical disturbance, auditions, and
 the sense of levitation, are of course frequent physical accompaniments
 of these shiftings of the level of consciousness. There are few cases in
 which one or other is not present; and in some we find all. Coming to
@@ -462,7 +462,7 @@ from this point the beginning of his real life.
 contemporary, Suso, seems to have been less abrupt. Of its first stage
 he speaks vaguely at the beginning of his autobiography, wherein he says
 that “he began to be converted when in the eighteenth year of his age.”
- <span id="fr_365"></span>[366](#fn_365) He was at this time, as St.
+ <span id="fr_365"></span>[366](#fn_365.md) He was at this time, as St.
 Francis had been, restless, dissatisfied; vaguely conscious of something
 essential to his peace, as yet unfound. His temperament, at once deeply
 human and ardently spiritual, passionately appreciative of sensuous
@@ -478,7 +478,7 @@ conversion. His brothers in religion were astonished by so quick a
 change: for the event took them unawares. Some said of it one thing, and
 some another: but none could know the reason of his conversion. It was
 God Who, *by a* *hidden light,* had caused this return to Himself.”
- <span id="fr_366"></span>[367](#fn_366)
+ <span id="fr_366"></span>[367](#fn_366.md)
 
 <span id="an_iv.ii-p54"></span>This secret conversion was completed by a
 more violent uprush of the now awakened and active transcendental
@@ -546,7 +546,7 @@ seem to suggest the true position of this exalted pleasure-state as a
 first link in the long chain of mystical development. “This foretaste of
 the happiness of heaven,” he says, “the which the Servitor enjoyed for
 many days, excited in him a most lively desire for God.”  <span
-id="fr_367"></span>[368](#fn_367)
+id="fr_367"></span>[368](#fn_367.md)
 
 <span id="an_iv.ii-p60"></span>Mystical activity, then, like all other
 activities of the self, opens with that sharp stimulation of the will,
@@ -582,7 +582,7 @@ Though Bremand has shown that the opening <span id="page_189">p.
 189</span> <span id="an_iv.ii-Page_189"></span> of Pascal’s spiritual
 eyes had begun, on his own declaration, eleven months earlier, <span
 id="an_iv.ii-p62.1"></span> “d’une manière douce et obligeante,”  <span
-id="fr_368"></span>[369](#fn_368) the conversion thus prepared was only
+id="fr_368"></span>[369](#fn_368.md) the conversion thus prepared was only
 made actual by this abrupt illumination; ending a long period of
 spiritual stress, in which indifference to his ordinary interests was
 counterbalanced by an utter inability to feel the attractive force of
@@ -652,14 +652,14 @@ id="an_iv.ii-p75.2"></span> Que je n’en sois pas séparé éternellement!”
 “Are you going to leave me? Oh, let me not be separated from you for
 ever!—the one unendurable thought which would, said Aquinas, rob the
 Beatific Vision of its glory, were we not sure that it can never fade.
- <span id="fr_369"></span>[370](#fn_369) But the rhapsody is over, the
+ <span id="fr_369"></span>[370](#fn_369.md) But the rhapsody is over, the
 vision of the Fire has gone; and the rest of the Memorial clearly
 contains Pascal’s meditations upon his experience, rather than a
 transcript of the experience itself. It ends with the watchword of all
 mysticism, Surrender—“ <span id="an_iv.ii-p76.1"></span> Renonciation,
 totale et douce” in Pascal’s words—the only way, he thinks, in which he
 can avoid continued separation from Reality.  <span
-id="fr_370"></span>[371](#fn_370)
+id="fr_370"></span>[371](#fn_370.md)
 
 <span id="an_iv.ii-p78"></span>Pascal’s vision of Light, Life, and Love
 was highly ecstatic; an indescribable, incommunicable experience, which
@@ -685,7 +685,7 @@ soul. That this <span id="page_191">p. 191</span> <span
 id="an_iv.ii-Page_191"></span> view had set him perfectly loose from the
 world and kindled in him such a love for God that he could not tell
 whether it had increased in above forty years that he had lived since.”
- <span id="fr_371"></span>[372](#fn_371)
+ <span id="fr_371"></span>[372](#fn_371.md)
 
 <span id="an_iv.ii-p80"></span>Such use of visible nature as the stuff
 of ontological perceptions, the medium whereby the self reaches out to
@@ -704,7 +704,7 @@ appear when we study the history of the mystics, that Steiner has drawn
 from it the hardly warrantable inference that “plants are just those
 natural phenomena whose qualities in the higher world are similar to
 their qualities in the physical world.”  <span
-id="fr_372"></span>[373](#fn_372)
+id="fr_372"></span>[373](#fn_372.md)
 
 <span id="an_iv.ii-p82"></span>Though the conclusion be not convincing,
 the fact remains. The flowery garment of the world is for some mystics a
@@ -713,7 +713,7 @@ clothing of God. I need hardly add that such a state of things has
 always been found incredible by common sense. “The tree which moves some
 to tears of joy,” says Blake, who possessed in an eminent degree this
 form of sacramental perception, “is in the Eyes of others only a green
-thing that stands in the Way.”  <span id="fr_373"></span>[374](#fn_373)
+thing that stands in the Way.”  <span id="fr_373"></span>[374](#fn_373.md)
 
 <span id="an_iv.ii-p84"></span>Such a perception of the Divine in
 Nature, of the true and holy meaning of that rich, unresting life in
@@ -737,17 +737,17 @@ every material object in the universe. The woods were vocal with
 heavenly music.” “Oh, how I was changed! Everything became new. My
 horses and hogs and everybody became changed!” exclaims with naive
 astonishment another in the same collection.  <span
-id="fr_374"></span>[375](#fn_374) “When I went in the morning into the
+id="fr_374"></span>[375](#fn_374.md) “When I went in the morning into the
 fields to work,” says a third, “the glory of God appeared in all His
 visible creation. I well remember we reaped oats, and how every straw
 and head of the oats seemed, as it were, arrayed in a kind of rainbow
 glory, or to glow, if I may so express it, in the glory of God.”  <span
-id="fr_375"></span>[376](#fn_375)
+id="fr_375"></span>[376](#fn_375.md)
 
 <span id="an_iv.ii-p87"></span>Amongst modern men, Walt Whitman
 possessed in a supreme degree the permanent sense of this glory, the
 “light rare, untellable, lighting the very light.”  <span
-id="fr_376"></span>[377](#fn_376) But evidences of its existence, and
+id="fr_376"></span>[377](#fn_376.md) But evidences of its existence, and
 the sporadic power of apprehending it, are scattered up and down the
 literature of the world. Its discovery constitutes the awakening of the
 mystical consciousness in respect of the World of Becoming: a sharp and
@@ -765,7 +765,7 @@ became lost, and absorbed into the being or existence of the universe .
 of the whole.” “I feel on the margin of a life unknown, very near,
 almost touching it—on the verge of powers which, if I could grasp, would
 give men an immense breadth of existence.”  <span
-id="fr_377"></span>[378](#fn_377)
+id="fr_377"></span>[378](#fn_377.md)
 
 <span id="an_iv.ii-p90"></span>What was this “life unknown” but the Life
 known to the great mystics, which Richard Jefferies apprehended in these
@@ -775,7 +775,7 @@ moments of insight, yet somehow contrived to miss?
 of the World of Becoming, the boundless existence of a divine
 whole—which a modern <span id="page_193">p. 193</span> <span
 id="an_iv.ii-Page_193"></span> psychologist has labelled and described
-as “Cosmic Consciousness”  <span id="fr_378"></span>[379](#fn_378)
+as “Cosmic Consciousness”  <span id="fr_378"></span>[379](#fn_378.md)
 —whilst it is not the final object of the mystic’s journey, is a
 constant feature of it. It may represent one-half of his characteristic
 consciousness: an entrance into communion with the second of the Triune
@@ -794,11 +794,11 @@ other typical cases, had passed through a preliminary period of struggle
 and oscillation between worldly life and a vague but growing
 spirituality: between the superficial and the deeper self. “My youth was
 fond, my childhood vain, my young age unclean,”  <span
-id="fr_379"></span>[380](#fn_379) but “when I should flourish unhappily,
+id="fr_379"></span>[380](#fn_379.md) but “when I should flourish unhappily,
 and youth of wakeful age was now come, the grace of my Maker was near,
 the which lust of temporal shape restrained, and unto ghostly
 supplications turned my desires, and the soul, from low things lifted,
-to heaven has borne.”  <span id="fr_380"></span>[381](#fn_380)
+to heaven has borne.”  <span id="fr_380"></span>[381](#fn_380.md)
 
 <span id="an_iv.ii-p96"></span>The real “life-changing,” however, was
 sharply and characteristically marked off from this preparatory state.
@@ -807,11 +807,11 @@ which his ardour of soul was translated to the surface consciousness.
 “Heat soothly I call when the mind truly is kindled in Love Everlasting,
 and the heart on the same manner to burn not hopingly but verily is
 felt. The heart truly turned into fire, gives feeling of burning love.”
- <span id="fr_381"></span>[382](#fn_381) This burning heat is not merely
+ <span id="fr_381"></span>[382](#fn_381.md) This burning heat is not merely
 a mental experience. In it we seem to have an unusual but not unique
 form of psychophysical parallelism: a bodily expression of the psychic
 travail and distress accompanying the “New Birth.”  <span
-id="fr_382"></span>[383](#fn_382) “More have I marvelled than I show,
+id="fr_382"></span>[383](#fn_382.md) “More have I marvelled than I show,
 forsooth,” he says in his prologue, “when I first felt my heart wax
 warm, and truly, *not imaginingly, but as it were with a sensible fire*
 , burned. I was forsooth marvelled, as this burning burst up in my soul,
@@ -821,7 +821,7 @@ abundance, oft have I groped my breast, seeing whether this burning were
 of any bodily cause outwardly. But when I knew that only it was kindled
 of ghostly cause inwardly, and this burning was naught of fleshly love
 or desire, in this I conceived it was the gift of my Maker.”  <span
-id="fr_383"></span>[384](#fn_383) Further on, he gives another and more
+id="fr_383"></span>[384](#fn_383.md) Further on, he gives another and more
 detailed account. “From the beginning, forsooth, of my life-changing and
 of my mind, to the opening of the heavenly door which Thy Face showed,
 that the heart might behold heavenly things and see by what way its Love
@@ -833,7 +833,7 @@ meditation greatly I was delighted, suddenly in me I felt a merry heat
 and unknown. But at first I wondered, doubting of whom it should be; but
 a long time I am assured that not of the Creature but of my Maker it
 was, for more hot and gladder I found it.”  <span
-id="fr_384"></span>[385](#fn_384)
+id="fr_384"></span>[385](#fn_384.md)
 
 <span id="an_iv.ii-p101"></span>To this we must add a passage which I
 cannot but think one of the most beautiful expressions of spiritual joy
@@ -851,7 +851,7 @@ in sweetness and heat. It is said the nightingale to song and melody all
 night is given, that she may please him to whom she is joined. How
 muckle more with greatest sweetness to Christ my Jesu should I sing,
 that is spouse of my soul by all this present life, that is night in
-regard of clearness to come.”  <span id="fr_385"></span>[386](#fn_385)
+regard of clearness to come.”  <span id="fr_385"></span>[386](#fn_385.md)
 
 <span id="an_iv.ii-p104"></span>Glancing back at the few cases here
 brought together, we can see in them, I think, certain similarities and
@@ -866,7 +866,7 @@ gives us a clue not only to the future development of the mystic, but to
 the general nature of man’s spiritual consciousness.
 
 <span id="an_iv.ii-p105"></span>We have said  <span
-id="fr_386"></span>[387](#fn_386) that this consciousness in its full
+id="fr_386"></span>[387](#fn_386.md) that this consciousness in its full
 development seems to be extended not in one but in two directions. These
 directions, these two fundamental ways of apprehending Reality may be
 called the eternal and temporal, transcendent and immanent, absolute and
@@ -881,7 +881,7 @@ resistance. Hence mystical conversion tends to belong to one of two
 distinctive types: tends also, as regards its expression, to follow that
 temperamental inclination to objectivize Reality as a Place, a Person,
 or a State which we found to govern the symbolic systems of the mystics.
- <span id="fr_387"></span>[388](#fn_387)
+ <span id="fr_387"></span>[388](#fn_387.md)
 
 <span id="an_iv.ii-p108"></span>There is first, then, the apprehension
 of a splendour without: an expansive, formless, ineffable vision, a
@@ -928,7 +928,7 @@ sounded like so many invitations which thus spake: Come and do penance,
 come and be reconciled, come and be consoled, come and be blessed; come,
 My love, and receive all that the Beloved can give to His beloved. . . .
 Come, My bride, and enjoy My Godhead.”  <span
-id="fr_388"></span>[389](#fn_388)
+id="fr_388"></span>[389](#fn_388.md)
 
 <span id="an_iv.ii-p112"></span>It is to this personal touch, to the
 individual appeal of an immediate Presence, not to the great light and
@@ -961,7 +961,7 @@ id="an_iv.ii-Page_197"></span> might never heal.” Rolle calls this
 piercing rapture a great heat: the heat which is to light the Fire of
 Love. “As it were if the finger were put in fire, it should be clad with
 feeling of burning so the soul with love (as aforesaid) set afire, truly
-feels most very heat.”  <span id="fr_389"></span>[390](#fn_389)
+feels most very heat.”  <span id="fr_389"></span>[390](#fn_389.md)
 
 <span id="an_iv.ii-p115"></span>Love, passionate and all-dominant, here
 takes the place of that joyous awe which we noticed as the
@@ -974,7 +974,7 @@ comprehensive a kind as to involve the complete change of the outward no
 less than of the inward life. “Divine love,” says Dionysius “draws those
 whom it seizes beyond themselves: and this so greatly that they belong
 no longer to themselves but wholly to the Object loved.”  <span
-id="fr_390"></span>[391](#fn_390)
+id="fr_390"></span>[391](#fn_390.md)
 
 <span id="an_iv.ii-p117"></span>Merswin’s oath of self-surrender: St.
 Catherine of Genoa’s passionate and decisive “No more world! no more
@@ -1011,43 +1011,43 @@ id="an_iv.ii-Page_198"></span>
 
 ### Footnotes
 
-<span id="fn_341"></span>[176:342](myst13.htm#fr_341) <span
+<span id="fn_341"></span>[176:342](myst13.htm#fr_341.md) <span
 id="an_iv.ii-p2.1"></span>
 
 <span id="an_iv.ii-p3"></span> See Starbuck, “The Psychology of
 Religion,” cap. xxix.
 
-<span id="fn_342"></span>[177:343](myst13.htm#fr_342) <span
+<span id="fn_342"></span>[177:343](myst13.htm#fr_342.md) <span
 id="an_iv.ii-p4.1"></span>
 
 <span id="an_iv.ii-p5"></span> *Op. cit.,* cap. xii.
 
-<span id="fn_343"></span>[177:344](myst13.htm#fr_343) <span
+<span id="fn_343"></span>[177:344](myst13.htm#fr_343.md) <span
 id="an_iv.ii-p6.1"></span>
 
 <span id="an_iv.ii-p7"></span> J. B. Pratt, “The Religious
 Consciousness,” cap. xiii. The whole chapter deserve careful study.
 
-<span id="fn_344"></span>[178:345](myst13.htm#fr_344) <span
+<span id="fn_344"></span>[178:345](myst13.htm#fr_344.md) <span
 id="an_iv.ii-p8.1"></span>
 
 <span id="an_iv.ii-p9"></span> Journal of George Fox, cap. i.
 
-<span id="fn_345"></span>[178:346](myst13.htm#fr_345) <span
+<span id="fn_345"></span>[178:346](myst13.htm#fr_345.md) <span
 id="an_iv.ii-p10.1"></span>
 
 <span id="an_iv.ii-p11"></span> Aug. Conf., bk. vii. cap. xvii. We can
 surely trace the influence of such an experience in St. Paul’s classic
 description of the “endopsychic conflict”: <span
 id="an_iv.ii-p11.1"></span>[Rom. vii.
-14-25](../../bib/kjv/rom007.htm#014)<span id="an_iv.ii-p11.1"></span>.
+14-25](../../bib/kjv/rom007.htm#014.md)<span id="an_iv.ii-p11.1"></span>.
 
-<span id="fn_346"></span>[178:347](myst13.htm#fr_346) <span
+<span id="fn_346"></span>[178:347](myst13.htm#fr_346.md) <span
 id="an_iv.ii-p12.1"></span>
 
 <span id="an_iv.ii-p13"></span> Plotinus, Ennead vi. 9.
 
-<span id="fn_347"></span>[179:348](myst13.htm#fr_347) <span
+<span id="fn_347"></span>[179:348](myst13.htm#fr_347.md) <span
 id="an_iv.ii-p14.1"></span>
 
 <span id="an_iv.ii-p15"></span> “It is certain,” says De Sanctis, “that
@@ -1060,48 +1060,48 @@ St. Augustine’s Confessions, with their description of the years of
 uncertainty and struggle which prepared him for the sudden and final
 “Tolle, lege!” that initiated him into the long-sought life of Reality.)
 
-<span id="fn_348"></span>[179:349](myst13.htm#fr_348) <span
+<span id="fn_348"></span>[179:349](myst13.htm#fr_348.md) <span
 id="an_iv.ii-p16.1"></span>
 
 <span id="an_iv.ii-p17"></span> *Op. cit.* , p. 171.
 
-<span id="fn_349"></span>[179:350](myst13.htm#fr_349) <span
+<span id="fn_349"></span>[179:350](myst13.htm#fr_349.md) <span
 id="an_iv.ii-p17.1"></span>
 
 <span id="an_iv.ii-p18"></span> “Journal Spirituel de Lucie-Christine,”
 p. 11.
 
-<span id="fn_350"></span>[180:351](myst13.htm#fr_350) <span
+<span id="fn_350"></span>[180:351](myst13.htm#fr_350.md) <span
 id="an_iv.ii-p21.1"></span>
 
 <span id="an_iv.ii-p22"></span> Thomas of Celano, Legenda Prima, cap. 1.
 
-<span id="fn_351"></span>[180:352](myst13.htm#fr_351) <span
+<span id="fn_351"></span>[180:352](myst13.htm#fr_351.md) <span
 id="an_iv.ii-p22.1"></span>
 
 <span id="an_iv.ii-p23"></span> Thomas of Celano, Legenda Secunda, cap.
 v. Compare P. Sabatier. “Vie de S. François d’Assise,” cap. ii., where
 the authorities are fully set out.
 
-<span id="fn_352"></span>[181:353](myst13.htm#fr_352) <span
+<span id="fn_352"></span>[181:353](myst13.htm#fr_352.md) <span
 id="an_iv.ii-p25.1"></span>
 
 <span id="an_iv.ii-p26"></span> Thomas of Celano, Legenda Secunda, cap.
 vi.
 
-<span id="fn_353"></span>[182:354](myst13.htm#fr_353) <span
+<span id="fn_353"></span>[182:354](myst13.htm#fr_353.md) <span
 id="an_iv.ii-p29.1"></span>
 
 <span id="an_iv.ii-p30"></span> “Vita e Dottrina di Santa Caterina da
 Genova,” cap ii.
 
-<span id="fn_354"></span>[182:355](myst13.htm#fr_354) <span
+<span id="fn_354"></span>[182:355](myst13.htm#fr_354.md) <span
 id="an_iv.ii-p31.1"></span>
 
 <span id="an_iv.ii-p32"></span> Von Hügel, “The Mystical Element of
 Religion,” vol. ii p. 29.
 
-<span id="fn_355"></span>[183:356](myst13.htm#fr_355) <span
+<span id="fn_355"></span>[183:356](myst13.htm#fr_355.md) <span
 id="an_iv.ii-p33.1"></span>
 
 <span id="an_iv.ii-p34"></span> It is clear from the heading of cap. x.
@@ -1114,45 +1114,45 @@ gratification with which she would naturally regard it, has governed or
 modified her memories of this past. Hence a curious and hitherto
 unnoticed case of “unconscious spiritual plagiarism.”
 
-<span id="fn_356"></span>[183:357](myst13.htm#fr_356) <span
+<span id="fn_356"></span>[183:357](myst13.htm#fr_356.md) <span
 id="an_iv.ii-p35.1"></span>
 
 <span id="an_iv.ii-p36"></span> For a thoroughly hostile account see
 Leuba: ‘The Psychology of Religious Mysticism,” cap. iv.
 
-<span id="fn_357"></span>[183:358](myst13.htm#fr_357) <span
+<span id="fn_357"></span>[183:358](myst13.htm#fr_357.md) <span
 id="an_iv.ii-p37.1"></span>
 
 <span id="an_iv.ii-p38"></span> Vie, pt. i. cap. iv.
 
-<span id="fn_358"></span>[183:359](myst13.htm#fr_358) <span
+<span id="fn_358"></span>[183:359](myst13.htm#fr_358.md) <span
 id="an_iv.ii-p38.2"></span>
 
 <span id="an_iv.ii-p39"></span> *Op. cit.,* pt. i. cap. vi.
 
-<span id="fn_359"></span>[184:360](myst13.htm#fr_359) <span
+<span id="fn_359"></span>[184:360](myst13.htm#fr_359.md) <span
 id="an_iv.ii-p40.1"></span>
 
 <span id="an_iv.ii-p41"></span> “Madame Guyon,” p. 36.
 
-<span id="fn_360"></span>[184:361](myst13.htm#fr_360) <span
+<span id="fn_360"></span>[184:361](myst13.htm#fr_360.md) <span
 id="an_iv.ii-p41.1"></span>
 
 <span id="an_iv.ii-p42"></span> Vie, pt. i. cap. viii.
 
-<span id="fn_361"></span>[185:362](myst13.htm#fr_361) <span
+<span id="fn_361"></span>[185:362](myst13.htm#fr_361.md) <span
 id="an_iv.ii-p43.1"></span>
 
 <span id="an_iv.ii-p44"></span> *Op. cit., loc. cit.*
 
-<span id="fn_362"></span>[185:363](myst13.htm#fr_362) <span
+<span id="fn_362"></span>[185:363](myst13.htm#fr_362.md) <span
 id="an_iv.ii-p45.1"></span>
 
 <span id="an_iv.ii-p46"></span> One of the best English accounts of this
 movement and the great personalities concerned in it is in Rufus Jones,
 “Studies in Mystical Religion,” cap. xiii.
 
-<span id="fn_363"></span>[185:364](myst13.htm#fr_363) <span
+<span id="fn_363"></span>[185:364](myst13.htm#fr_363.md) <span
 id="an_iv.ii-p47.1"></span>
 
 <span id="an_iv.ii-p48"></span> A. Jundt, “Rulman Merswin,” p. 19. M.
@@ -1177,12 +1177,12 @@ should be merely “tendency-literature,” without basis in fact. Compare
 Jundt’s monograph, and also Rufus Jones, *op. cit.* pp . 245-253, where
 the whole problem is discussed.
 
-<span id="fn_364"></span>[186:365](myst13.htm#fr_364) <span
+<span id="fn_364"></span>[186:365](myst13.htm#fr_364.md) <span
 id="an_iv.ii-p49.1"></span>
 
 <span id="an_iv.ii-p50"></span> Jundt, *op. cit., loc. cit.*
 
-<span id="fn_365"></span>[186:366](myst13.htm#fr_365) <span
+<span id="fn_365"></span>[186:366](myst13.htm#fr_365.md) <span
 id="an_iv.ii-p51.1"></span>
 
 <span id="an_iv.ii-p52"></span> “Leben und Schriften” (Diepenbrock),
@@ -1190,29 +1190,29 @@ cap. i. Suso’s autobiography is written in the third person. He refers
 to himself throughout under the title of “Servitor of the Eternal
 Wisdom.”
 
-<span id="fn_366"></span>[186:367](myst13.htm#fr_366) <span
+<span id="fn_366"></span>[186:367](myst13.htm#fr_366.md) <span
 id="an_iv.ii-p52.1"></span>
 
 <span id="an_iv.ii-p53"></span> *Op. cit., loc. cit.*
 
-<span id="fn_367"></span>[188:368](myst13.htm#fr_367) <span
+<span id="fn_367"></span>[188:368](myst13.htm#fr_367.md) <span
 id="an_iv.ii-p58.1"></span>
 
 <span id="an_iv.ii-p59"></span> Leben, cap. iii.
 
-<span id="fn_368"></span>[189:369](myst13.htm#fr_368) <span
+<span id="fn_368"></span>[189:369](myst13.htm#fr_368.md) <span
 id="an_iv.ii-p62.2"></span>
 
 <span id="an_iv.ii-p63"></span> Bremond, “Histoire Littérario du
 Sentiment Religieux en France.” vol. iv. pp. 359 *seq.*
 
-<span id="fn_369"></span>[190:370](myst13.htm#fr_369) <span
+<span id="fn_369"></span>[190:370](myst13.htm#fr_369.md) <span
 id="an_iv.ii-p75.3"></span>
 
 <span id="an_iv.ii-p76"></span> “Summa contra Gentiles,” I. iii. cap.
 lxii.
 
-<span id="fn_370"></span>[190:371](myst13.htm#fr_370) <span
+<span id="fn_370"></span>[190:371](myst13.htm#fr_370.md) <span
 id="an_iv.ii-p76.2"></span>
 
 <span id="an_iv.ii-p77"></span> The complete test of the *Memorial*
@@ -1225,67 +1225,67 @@ that the *Memorial* is the record of two distinct experiences: a
 incompatible with my original description, which I therefore retain.
 (Note to 12th ed.)
 
-<span id="fn_371"></span>[191:372](myst13.htm#fr_371) <span
+<span id="fn_371"></span>[191:372](myst13.htm#fr_371.md) <span
 id="an_iv.ii-p78.1"></span>
 
 <span id="an_iv.ii-p79"></span> Brother Lawrence, “The Practice of the
 Presence of God,” p. 9.
 
-<span id="fn_372"></span>[191:373](myst13.htm#fr_372) <span
+<span id="fn_372"></span>[191:373](myst13.htm#fr_372.md) <span
 id="an_iv.ii-p80.1"></span>
 
 <span id="an_iv.ii-p81"></span> “The Way of Initiation,” p. 134.
 
-<span id="fn_373"></span>[191:374](myst13.htm#fr_373) <span
+<span id="fn_373"></span>[191:374](myst13.htm#fr_373.md) <span
 id="an_iv.ii-p82.1"></span>
 
 <span id="an_iv.ii-p83"></span> “Letters of William Blake,” p. 62.
 
-<span id="fn_374"></span>[192:375](myst13.htm#fr_374) <span
+<span id="fn_374"></span>[192:375](myst13.htm#fr_374.md) <span
 id="an_iv.ii-p84.1"></span>
 
 <span id="an_iv.ii-p85"></span> “The Psychology of Religion,” p. 120.
 
-<span id="fn_375"></span>[192:376](myst13.htm#fr_375) <span
+<span id="fn_375"></span>[192:376](myst13.htm#fr_375.md) <span
 id="an_iv.ii-p85.1"></span>
 
 <span id="an_iv.ii-p86"></span> James, “Varieties of Religion
 Experience,” p. 253. This phenomenon receives brilliant literary
 expression in John Masefield’s poem “The Everlasting Mercy” (1911).
 
-<span id="fn_376"></span>[192:377](myst13.htm#fr_376) <span
+<span id="fn_376"></span>[192:377](myst13.htm#fr_376.md) <span
 id="an_iv.ii-p87.1"></span>
 
 <span id="an_iv.ii-p88"></span> Whitman, “The Prayer of Colombus.”
 
-<span id="fn_377"></span>[192:378](myst13.htm#fr_377) <span
+<span id="fn_377"></span>[192:378](myst13.htm#fr_377.md) <span
 id="an_iv.ii-p88.1"></span>
 
 <span id="an_iv.ii-p89"></span> “The Story of My Heart,” pp. 8, 9, 45,
 181.
 
-<span id="fn_378"></span>[193:379](myst13.htm#fr_378) <span
+<span id="fn_378"></span>[193:379](myst13.htm#fr_378.md) <span
 id="an_iv.ii-p91.1"></span>
 
 <span id="an_iv.ii-p92"></span> Bucke, “Cosmic Consciousness, a Study in
 the Evolution of the Human Mind.” Philadelphia. 1905.
 
-<span id="fn_379"></span>[193:380](myst13.htm#fr_379) <span
+<span id="fn_379"></span>[193:380](myst13.htm#fr_379.md) <span
 id="an_iv.ii-p93.1"></span>
 
 <span id="an_iv.ii-p94"></span> “Fire of Love,” bk. i. cap. xii.
 
-<span id="fn_380"></span>[193:381](myst13.htm#fr_380) <span
+<span id="fn_380"></span>[193:381](myst13.htm#fr_380.md) <span
 id="an_iv.ii-p94.1"></span>
 
 <span id="an_iv.ii-p95"></span> *Ibid.* , bk. i. cap. xv.
 
-<span id="fn_381"></span>[193:382](myst13.htm#fr_381) <span
+<span id="fn_381"></span>[193:382](myst13.htm#fr_381.md) <span
 id="an_iv.ii-p96.1"></span>
 
 <span id="an_iv.ii-p97"></span> *Ibid.,* cap. xiv.
 
-<span id="fn_382"></span>[193:383](myst13.htm#fr_382) <span
+<span id="fn_382"></span>[193:383](myst13.htm#fr_382.md) <span
 id="an_iv.ii-p97.1"></span>
 
 <span id="an_iv.ii-p98"></span> Hilton and the author of “The Cloud of
@@ -1296,43 +1296,43 @@ nothing had prepared me; *waves of fire* succeeding one another for more
 than two hours.” (“Madeleine Sémer, Convertie et Mystique,” 1874-1921,
 p. 71.)
 
-<span id="fn_383"></span>[194:384](myst13.htm#fr_383) <span
+<span id="fn_383"></span>[194:384](myst13.htm#fr_383.md) <span
 id="an_iv.ii-p98.1"></span>
 
 <span id="an_iv.ii-p99"></span> “Fire of Love,” bk. i. Prologue.
 
-<span id="fn_384"></span>[194:385](myst13.htm#fr_384) <span
+<span id="fn_384"></span>[194:385](myst13.htm#fr_384.md) <span
 id="an_iv.ii-p99.1"></span>
 
 <span id="an_iv.ii-p100"></span> *Ibid* ., bk. i. cap. xv.
 
-<span id="fn_385"></span>[194:386](myst13.htm#fr_385) <span
+<span id="fn_385"></span>[194:386](myst13.htm#fr_385.md) <span
 id="an_iv.ii-p102.1"></span>
 
 <span id="an_iv.ii-p103"></span> *Ibid* ., bk. ii. cap. xii.
 
-<span id="fn_386"></span>[195:387](myst13.htm#fr_386) <span
+<span id="fn_386"></span>[195:387](myst13.htm#fr_386.md) <span
 id="an_iv.ii-p105.1"></span>
 
 <span id="an_iv.ii-p106"></span> *Supra* , p. 35.
 
-<span id="fn_387"></span>[195:388](myst13.htm#fr_387) <span
+<span id="fn_387"></span>[195:388](myst13.htm#fr_387.md) <span
 id="an_iv.ii-p106.1"></span>
 
 <span id="an_iv.ii-p107"></span> *Ibid* ., p. 128.
 
-<span id="fn_388"></span>[196:389](myst13.htm#fr_388) <span
+<span id="fn_388"></span>[196:389](myst13.htm#fr_388.md) <span
 id="an_iv.ii-p110.1"></span>
 
 <span id="an_iv.ii-p111"></span> St. Mechthild of Hackborn, “Liber
 Specialis Gratiae,” I. ii. cap. i
 
-<span id="fn_389"></span>[197:390](myst13.htm#fr_389) <span
+<span id="fn_389"></span>[197:390](myst13.htm#fr_389.md) <span
 id="an_iv.ii-p113.1"></span>
 
 <span id="an_iv.ii-p114"></span> “The Fire of Love,” bk. i. cap. i.
 
-<span id="fn_390"></span>[197:391](myst13.htm#fr_390) <span
+<span id="fn_390"></span>[197:391](myst13.htm#fr_390.md) <span
 id="an_iv.ii-p115.1"></span>
 
 <span id="an_iv.ii-p116"></span> Dionysius the Areopagite, “De Divinis
@@ -1342,6 +1342,6 @@ Nominibus,” iv. 13.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Purification of the Self](myst14)
+[Next: III. The Purification of the Self](myst14.md)
 
 </div>

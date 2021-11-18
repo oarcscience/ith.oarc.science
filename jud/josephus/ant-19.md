@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -12,11 +12,11 @@
 # CHAPTER 1.
 
 **HOW CAIUS <span
-id="EndNote Ant 19.1a"></span>**[(1)](#EndNote%20Ant%2019.1b) **WAS
+id="EndNote Ant 19.1a"></span>**[(1)](#EndNote%20Ant%2019.1b.md) **WAS
 SLAIN BY CHEREA.**
 
 1\. NOW this Caius <span
-id="EndNote Ant 19.2a"></span>[(2)](#EndNote%20Ant%2019.2b) did not
+id="EndNote Ant 19.2a"></span>[(2)](#EndNote%20Ant%2019.2b.md) did not
 demonstrate his madness in offering injuries only to the Jews at
 Jerusalem, or to those that dwelt in the neighborhood; but suffered it
 to extend itself through all the earth and sea, so far as was in
@@ -330,7 +330,7 @@ take the opportunity that Providence afforded; and that Cherea at first
 suspected that some one of the conspirators had betrayed him, and he was
 caught, but at length perceived that it was by way of exhortation.
 Whether somebody <span
-id="EndNote Ant 19.3a"></span>[(3)](#EndNote%20Ant%2019.3b) that was
+id="EndNote Ant 19.3a"></span>[(3)](#EndNote%20Ant%2019.3b.md) that was
 conscious of what he was about, gave a signal for his encouragement, or
 whether it was God himself, who looks upon the actions of men, that
 encouraged him to go on boldly in his design, is uncertain. The plot was
@@ -396,7 +396,7 @@ those that were to attack Caius without success, while he would then
 secure himself more carefully than ever against them; that it would
 therefore be the best to set about the work when the shows were
 exhibited in the palace. These shows were acted in honor of that Caesar
-<span id="EndNote Ant 19.4a"></span>[(4)](#EndNote%20Ant%2019.4b) who
+<span id="EndNote Ant 19.4a"></span>[(4)](#EndNote%20Ant%2019.4b.md) who
 first of all changed the popular government, and transferred it to
 himself; galleries being fixed before the palace, where the Romans that
 were patricians became spectators, together with their children and
@@ -511,7 +511,7 @@ would permit them, and they were obliged to labor hard, that the place
 which was appointed them should not be left by them; but they had an
 indignation at the tediousness of the delays, and that what they were
 about should be put off any longer, for it was already about the ninth
-<span id="EndNote Ant 19.5a"></span>[(5)](#EndNote%20Ant%2019.5b) hour
+<span id="EndNote Ant 19.5a"></span>[(5)](#EndNote%20Ant%2019.5b.md) hour
 of the day; and Cherea, upon Caius's tarrying so long, had a great mind
 to go in, and fall upon him in his seat, although he foresaw that this
 could not be done without much bloodshed, both of the senators, and of
@@ -663,7 +663,7 @@ their masters, even when they the city, accused them falsely; and if
 they would discover what money their masters had, they might soon obtain
 both riches and liberty, as the rewards of their accusations, because
 the reward of these informers was the eighth <span
-id="EndNote Ant 19.6a"></span>[(6)](#EndNote%20Ant%2019.6b) part of the
+id="EndNote Ant 19.6a"></span>[(6)](#EndNote%20Ant%2019.6b.md) part of the
 criminal's substance. As to the nobles, although the report appeared
 credible to some of them, either because they knew of the plot
 beforehand, or because they wished it might be true; however, they
@@ -789,7 +789,7 @@ as they were in disorder, and very uneasy that they could not yet
 discover who they were that had murdered the emperor; he was then
 earnestly asked by them all who it was that had done it. He replied, "I
 wish I had been the man." The consuls <span
-id="EndNote Ant 19.7a"></span>[(7)](#EndNote%20Ant%2019.7b) also
+id="EndNote Ant 19.7a"></span>[(7)](#EndNote%20Ant%2019.7b.md) also
 published an edict, wherein they accused Caius, and gave order to the
 people then got together, and to the soldiers, to go home; and gave the
 people hopes of the abatement of the oppressions they lay under; and
@@ -925,10 +925,10 @@ Brutus, who slew Caius Julius \[Caesar\]; for those men laid the
 foundations of sedition and civil wars in our city; but this man,
 together with his slaughter of the tyrant, hath set our city free from
 all those sad miseries which arose from the tyranny." <span
-id="EndNote Ant 19.8a"></span>[(8)](#EndNote%20Ant%2019.8b)
+id="EndNote Ant 19.8a"></span>[(8)](#EndNote%20Ant%2019.8b.md)
 
 3\. And this was the purport of Sentius's oration, <span
-id="EndNote Ant 19.9a"></span>[(9)](#EndNote%20Ant%2019.9b) which was
+id="EndNote Ant 19.9a"></span>[(9)](#EndNote%20Ant%2019.9b.md) which was
 received with pleasure by the senators, and by as many of the equestrian
 order as were present. And now one Trebellius Maximus rose up hastily,
 and took off Sentius's finger a ring, which had a stone, with the image
@@ -1026,7 +1026,7 @@ smallest occasions, and esteemed every man that endeavored to lead a
 virtuous life his enemy. And whatsoever he commanded, he would not admit
 of any contradiction to his inclinations; whence it was that he had
 criminal conversation with his own sister; <span
-id="EndNote Ant 19.10a"></span>[(10)](#EndNote%20Ant%2019.10b) from
+id="EndNote Ant 19.10a"></span>[(10)](#EndNote%20Ant%2019.10b.md) from
 which occasion chiefly it was also that a bitter hatred first sprang up
 against him among the citizens, that sort of incest not having been
 known of a long time; and so this provoked men to distrust him, and to
@@ -1048,7 +1048,7 @@ others, of considerable length and accuracy. He was also more skillful
 in persuading others to very great things than any one else, and this
 from a natural affability of temper, which had been improved by much
 exercise and pains-taking; for as he was the grandson <span
-id="EndNote Ant 19.11a"></span>[(11)](#EndNote%20Ant%2019.11b) of the
+id="EndNote Ant 19.11a"></span>[(11)](#EndNote%20Ant%2019.11b.md) of the
 brother of Tiberius, whose successor he was, this was a strong
 inducement to his acquiring of learning, because Tiberius aspired after
 the highest pitch of that sort of reputation; and Caius aspired after
@@ -1075,7 +1075,7 @@ TO THE CAMP; AND HOW THE SENATE SENT AN EMBASSAGE TO HIM.**
 Caius was gone; and as the family was in a mighty disorder upon the sad
 accident of the murder of Caius, he was in great distress how to save
 himself, and was found to have hidden himself in a certain narrow place,
-<span id="EndNote Ant 19.12a"></span>[(12)](#EndNote%20Ant%2019.12b)
+<span id="EndNote Ant 19.12a"></span>[(12)](#EndNote%20Ant%2019.12b.md)
 though he had no other occasion for suspicion of any dangers, besides
 the dignity of his birth; for while he was a private man, he behaved
 himself with moderation, and was contented with his present fortune,
@@ -1103,7 +1103,7 @@ that it was a man who was privately there on some design, he came nearer
 to him; and when Claudius desired that he would retire, be discovered
 who he was, and owned him to be Claudius. So he said to his followers,
 "This is a Germanicus; <span
-id="EndNote Ant 19.13a"></span>[(13)](#EndNote%20Ant%2019.13b) come on,
+id="EndNote Ant 19.13a"></span>[(13)](#EndNote%20Ant%2019.13b.md) come on,
 let us choose him for our emperor." But when Claudius saw they were
 making preparations for taking him away by force, and was afraid they
 would kill him, as they had killed Caius, he besought them to spare him,
@@ -1261,7 +1261,7 @@ ambassadors, upon their hearing this his answer, were dismissed. But
 Claudius discoursed with the army which was there gathered together, who
 took oaths that they would persist in their fidelity to him; Upon which
 he gave the guards every man five thousand <span
-id="EndNote Ant 19.14a"></span>[(14)](#EndNote%20Ant%2019.14b) drachmae
+id="EndNote Ant 19.14a"></span>[(14)](#EndNote%20Ant%2019.14b.md) drachmae
 a-piece, and a proportionable quantity to their captains, and promised
 to give the same to the rest of the armies wheresoever they were.
 
@@ -1366,14 +1366,14 @@ bore this calamity courageously; and this not only by the firmness of
 his own behavior under it, but by the reproaches he laid upon Lupus, who
 fell into tears; for when Lupus laid his garment aside, and complained
 of the cold <span
-id="EndNote Ant 19.15a"></span>[(15)](#EndNote%20Ant%2019.15b) he said,
+id="EndNote Ant 19.15a"></span>[(15)](#EndNote%20Ant%2019.15b.md) he said,
 that cold was never hurtful to Lupus \[i.e. a wolf\] And as a great many
 men went along with them to see the sight, when Cherea came to the
 place, he asked the soldier who was to be their executioner, whether
 this office was what he was used to, or whether this was the first time
 of his using his sword in that manner, and desired him to bring him that
 very sword with which he himself slew Caius. <span
-id="EndNote Ant 19.16a"></span>[(16)](#EndNote%20Ant%2019.16b) So he was
+id="EndNote Ant 19.16a"></span>[(16)](#EndNote%20Ant%2019.16b.md) So he was
 happily killed at one stroke. But Lupus did not meet with such good
 fortune in going out of the world, since he was timorous, and had many
 blows leveled at his neck, because he did not stretch it out boldly \[as
@@ -1402,7 +1402,7 @@ therein commended the king highly. He also made all addition to it of
 all that country over which Herod, who was his grandfather, had reigned,
 that is, Judea and Samaria; and this he restored to him as due to his
 family. But for Abila <span
-id="EndNote Ant 19.17a"></span>[(17)](#EndNote%20Ant%2019.17b) of
+id="EndNote Ant 19.17a"></span>[(17)](#EndNote%20Ant%2019.17b.md) of
 Lysanias, and all that lay at Mount Libanus, he bestowed them upon him,
 as out of his own territories. He also made a league with this Agrippa,
 confirmed by oaths, in the middle of the forum, in the city of Rome: he
@@ -1473,7 +1473,7 @@ places, both those within Italy and those without it, both kings and
 governors, by the means of the ambassadors, and to have them exposed to
 the public for full thirty days, in such a place whence it may plainly
 be read from the ground. <span
-id="EndNote Ant 19.18a"></span>[(18)](#EndNote%20Ant%2019.18b)
+id="EndNote Ant 19.18a"></span>[(18)](#EndNote%20Ant%2019.18b.md)
 
 CHAPTER 6.
 
@@ -1490,12 +1490,12 @@ should treat him very kindly. Accordingly, he returned in haste, as was
 likely he would, now lie returned in much greater prosperity than he had
 before. He also came to Jerusalem, and offered all the sacrifices that
 belonged to him, and omitted nothing which the law required; <span
-id="EndNote Ant 19.19a"></span>[(19)](#EndNote%20Ant%2019.19b) on which
+id="EndNote Ant 19.19a"></span>[(19)](#EndNote%20Ant%2019.19b.md) on which
 account he ordained that many of the Nazarites should have their heads
 shorn. And for the golden chain which had been given him by Caius, of
 equal weight with that iron chain wherewith his royal hands had been
 bound, he hung it up within the limits of the temple, over the treasury,
-<span id="EndNote Ant 19.20a"></span>[(20)](#EndNote%20Ant%2019.20b)
+<span id="EndNote Ant 19.20a"></span>[(20)](#EndNote%20Ant%2019.20b.md)
 that it might be a memorial of the severe fate he had lain under, and a
 testimony of his change for the better; that it might be a demonstration
 how the greatest prosperity may have a fall, and that God sometimes
@@ -1702,7 +1702,7 @@ magnificence upon the theater, in his great number of gladiators; and
 there it was that he exhibited the several antagonists, in order to
 please the spectators; no fewer indeed than seven hundred men to fight
 with seven hundred other men <span
-id="EndNote Ant 19.21a"></span>[(21)](#EndNote%20Ant%2019.21b) and
+id="EndNote Ant 19.21a"></span>[(21)](#EndNote%20Ant%2019.21b.md) and
 allotted all the malefactors he had for this exercise, that both the
 malefactors might receive their punishment, and that this operation of
 war might be a recreation in peace. And thus were these criminals all
@@ -1754,7 +1754,7 @@ although we have hitherto reverenced thee only as a man, yet shall we
 henceforth own thee as superior to mortal nature." Upon this the king
 did neither rebuke them, nor reject their impious flattery. But as he
 presently afterward looked up, he saw an owl <span
-id="EndNote Ant 19.22a"></span>[(22)](#EndNote%20Ant%2019.22b) sitting
+id="EndNote Ant 19.22a"></span>[(22)](#EndNote%20Ant%2019.22b.md) sitting
 on a certain rope over his head, and immediately understood that this
 bird was the messenger of ill tidings, as it had once been the messenger
 of good tidings to him; and fell into the deepest sorrow. A severe pain
@@ -1781,10 +1781,10 @@ those, three years under the reign of Claudius Caesar; in which time he
 reigned over the forementioned countries, and also had Judea added to
 them, as well as Samaria and Cesarea. The revenues that he received out
 of them were very great, no less than twelve millions of drachme. <span
-id="EndNote Ant 19.23a"></span>[(23)](#EndNote%20Ant%2019.23b) Yet did
+id="EndNote Ant 19.23a"></span>[(23)](#EndNote%20Ant%2019.23b.md) Yet did
 he borrow great sums from others; for he was so very liberal that his
 expenses exceeded his incomes, and his generosity was boundless. <span
-id="EndNote Ant 19.24a"></span>[(24)](#EndNote%20Ant%2019.24b)
+id="EndNote Ant 19.24a"></span>[(24)](#EndNote%20Ant%2019.24b.md)
 
 3\. But before the multitude were made acquainted with Agrippa's being
 expired, Herod the king of Chalcis, and Helcias the master of his horse,
@@ -1812,7 +1812,7 @@ the part of the bitterest enemies; for they cast such reproaches upon
 the deceased as are not fit to be spoken of; and so many of them as were
 then soldiers, which were a great number, went to his house, and hastily
 carried off the statues <span
-id="EndNote Ant 19.25a"></span>[(25)](#EndNote%20Ant%2019.25b) of this
+id="EndNote Ant 19.25a"></span>[(25)](#EndNote%20Ant%2019.25b.md) of this
 king's daughters, and all at once carried them into the brothel-houses,
 and when they had set them on the tops of those houses, they abused them
 to the utmost of their power, and did such things to them as are too
@@ -1857,7 +1857,7 @@ them out of his province, as we shall relate hereafter.
 
 ENDNOTE
 
-<span id="EndNote Ant 19.1b"></span>[(1)](#EndNote%20Ant%2019.1a) In
+<span id="EndNote Ant 19.1b"></span>[(1)](#EndNote%20Ant%2019.1a.md) In
 this and the three next chapters we have, I think, a larger and more
 distinct account of the slaughter of Caius, and the succession of
 Claudius, than we have of any such ancient facts whatsoever elsewhere.
@@ -1870,35 +1870,35 @@ whose father was deeply concerned in the advancement of Claudius, upon
 the death of Caius; from which Agrippa, junior, Josephus might be fully
 informed Of his history.
 
-<span id="EndNote Ant 19.2b"></span>[(2)](#EndNote%20Ant%2019.2a) Called
+<span id="EndNote Ant 19.2b"></span>[(2)](#EndNote%20Ant%2019.2a.md) Called
 Caligula by the Romans.
 
-<span id="EndNote Ant 19.3b"></span>[(3)](#EndNote%20Ant%2019.3a) Just
+<span id="EndNote Ant 19.3b"></span>[(3)](#EndNote%20Ant%2019.3a.md) Just
 such a voice as this is related to be came, and from an unknown original
 also, to the famous Polycarp, as he was going to martyrdom, bidding him
 "play the man;" as the church of Smyrna assures us in their account of
 that his martyrdom, sect. 9.
 
-<span id="EndNote Ant 19.4b"></span>[(4)](#EndNote%20Ant%2019.4a) Here
+<span id="EndNote Ant 19.4b"></span>[(4)](#EndNote%20Ant%2019.4a.md) Here
 Josephus supposes that it was Augustus, and not Julius Caesar, who first
 changed the Roman commonwealth into a monarchy; for these shows were in
 honor of Augustus, as we shall learn in the next section.
 
-<span id="EndNote Ant 19.5b"></span>[(5)](#EndNote%20Ant%2019.5a)
+<span id="EndNote Ant 19.5b"></span>[(5)](#EndNote%20Ant%2019.5a.md)
 Suetonius says Caius was slain about the seventh hour of the day, the
 ninth. The series of the narration favors Josephus.
 
-<span id="EndNote Ant 19.6b"></span>[(6)](#EndNote%20Ant%2019.6a) The
+<span id="EndNote Ant 19.6b"></span>[(6)](#EndNote%20Ant%2019.6a.md) The
 rewards proposed by the Roman laws to informers was sometimes an eigth
 partm as Spanheim assures us, from the criminal's goods, as here, and
 sometimes a fourth part.
 
-<span id="EndNote Ant 19.7b"></span>[(7)](#EndNote%20Ant%2019.7a) These
+<span id="EndNote Ant 19.7b"></span>[(7)](#EndNote%20Ant%2019.7a.md) These
 consuls are named in the War of the Jews, B. II. ch. 11. sect; 1,
 Sentius Saturninus and Pomponius Secundus, as Spanheim notes here. The
 speech of the former of them is set down in the next chapter, sect. 2.
 
-<span id="EndNote Ant 19.8b"></span>[(8)](#EndNote%20Ant%2019.8a) In
+<span id="EndNote Ant 19.8b"></span>[(8)](#EndNote%20Ant%2019.8a.md) In
 this oration of Sentius Saturninus, we may see the great value virtuous
 men put upon public liberty, and the sad misery they underwent, while
 they were tyrannized over by such emperors as Caius. See Josephus's own
@@ -1907,14 +1907,14 @@ says he, "it is for those to obtain the virtue that is necessary to a
 wise man, who have the absolute power to do what they please without
 control."
 
-<span id="EndNote Ant 19.9b"></span>[(9)](#EndNote%20Ant%2019.9a) Hence
+<span id="EndNote Ant 19.9b"></span>[(9)](#EndNote%20Ant%2019.9a.md) Hence
 we learn that, in the opinion of Saturninus, the sovereign authority of
 the consuls and senate had been taken away just a hundred years before
 the death of Caius, A.D. 41, or in the sixtieth year before the
 Christian saga, when the first triumvirate began under Caesar, Pompey,
 and Crassus.
 
-<span id="EndNote Ant 19.10b"></span>[(10)](#EndNote%20Ant%2019.10a)
+<span id="EndNote Ant 19.10b"></span>[(10)](#EndNote%20Ant%2019.10a.md)
 Spanheim here notes from Suetonius, that the name of Caius's sister with
 whom he was guilty of incest, was Drusilla and that Suetonius adds, he
 was guilty of the same crime with all his sisters also. He notes
@@ -1923,22 +1923,22 @@ our author esteems the only public work for the good of the present and
 future ages which Caius left behind him, though in an imperfect
 condition.
 
-<span id="EndNote Ant 19.11b"></span>[(11)](#EndNote%20Ant%2019.11a)
+<span id="EndNote Ant 19.11b"></span>[(11)](#EndNote%20Ant%2019.11a.md)
 This Caius was the son of that excellent person Germanicus, who was the
 son of Drusus, the brother of Tiberius the emperor.
 
-<span id="EndNote Ant 19.12b"></span>[(12)](#EndNote%20Ant%2019.12a) The
+<span id="EndNote Ant 19.12b"></span>[(12)](#EndNote%20Ant%2019.12a.md) The
 first place Claudius came to was inhabited, and called Herincure, as
 Spanheim here informs us from Suetonius, in Claud. ch. 10.
 
-<span id="EndNote Ant 19.13b"></span>[(13)](#EndNote%20Ant%2019.13a) How
+<span id="EndNote Ant 19.13b"></span>[(13)](#EndNote%20Ant%2019.13a.md) How
 Claudius, another son of Drusus, which Drusus was the father of
 Germanicus, could be here himself called Germanicus, Suetonius informs
 us, when he assures us that, by a decree of the senate, the surname of
 Germanicus was bestowed upon Drusus, and his posterity also.--In Claud.
 ch. 1.
 
-<span id="EndNote Ant 19.14b"></span>[(14)](#EndNote%20Ant%2019.14a)
+<span id="EndNote Ant 19.14b"></span>[(14)](#EndNote%20Ant%2019.14a.md)
 This number of drachmae to be distributed to each private soldier, five
 thousand drachmae, equal to twenty thousand sesterces, or one hundred
 and sixty-one pounds sterling, seems much too large, and directly
@@ -1948,14 +1948,14 @@ number from Agrippa, junior, though I doubt the thousands, or at least
 the hundreds, have been added by the transcribers, of which we have had
 several examples already in Josephus.
 
-<span id="EndNote Ant 19.15b"></span>[(15)](#EndNote%20Ant%2019.15a)
+<span id="EndNote Ant 19.15b"></span>[(15)](#EndNote%20Ant%2019.15a.md)
 This piercing cold here complained of by Lupus agrees well to the time
 of the year when Claudius began his reign; it being for certain about
 the months of November, December, or January, and most probably a few
 days after January the twenty-fourth, and a few days before the Roman
 Parentalia.
 
-<span id="EndNote Ant 19.16b"></span>[(16)](#EndNote%20Ant%2019.16a) It
+<span id="EndNote Ant 19.16b"></span>[(16)](#EndNote%20Ant%2019.16a.md) It
 is both here and elsewhere very remarkable, that the murders of the
 vilest tyrants, who yet highly deserved to die, when those murderers
 were under oaths, or other the like obligations of fidelity to them,
@@ -1981,7 +1981,7 @@ Divine commission, or a Divine impulse, which was their commission for
 what they did, Judges 3:15, 19, 20; Judith 9:2; Test. Levi. sect. 5, in
 Authent. Rec. p. 312. See also page 432.
 
-<span id="EndNote Ant 19.17b"></span>[(17)](#EndNote%20Ant%2019.17a)
+<span id="EndNote Ant 19.17b"></span>[(17)](#EndNote%20Ant%2019.17a.md)
 Here St. Luke is in some measure confirmed, when he reforms us, ch. 3:1,
 that Lysanias was some time before tetrarch of Abilene, whose capital
 was Abila; as he is further confirmed by Ptolemy, the great geographer,
@@ -1992,14 +1992,14 @@ originally, to have been the burying-place of Abel, and referred to as
 such, Matthew 23:35; Luke 11:51. See Authent. Rec. Part. II. p.
 883--885.
 
-<span id="EndNote Ant 19.18b"></span>[(18)](#EndNote%20Ant%2019.18a)
+<span id="EndNote Ant 19.18b"></span>[(18)](#EndNote%20Ant%2019.18a.md)
 This form was so known and frequent among the Romans, as Dr. Hudson here
 tells us from the great Selden, that it used to be thus represented at
 the bottom of their edicts by the initial letters only, U. D. P. R. L.
 P, Unde De Plano Recte Lege Possit; "Whence it may be plainly read from
 the ground."
 
-<span id="EndNote Ant 19.19b"></span>[(19)](#EndNote%20Ant%2019.19a)
+<span id="EndNote Ant 19.19b"></span>[(19)](#EndNote%20Ant%2019.19a.md)
 Josephus shows, both here and ch. 7. sect. 3, that he had a much greater
 opinion of king Agrippa I. than Simon the learned Rabbi, than the people
 of Cesarea and Sebaste, ch. 7. sect. 4; and ch. 9. sect. 1; and indeed
@@ -2009,17 +2009,17 @@ Peter, or his vain-glorious behavior before he died, both in Acts 12:13;
 and here, ch. 4. sect. 1, will justify or allow. Josephus's character
 was probably taken from his son Agrippa, junior.
 
-<span id="EndNote Ant 19.20b"></span>[(20)](#EndNote%20Ant%2019.20a)
+<span id="EndNote Ant 19.20b"></span>[(20)](#EndNote%20Ant%2019.20a.md)
 This treasury-chamber seems to have been the very same in which our
 Savior taught, and where the people offered their charity money for the
 repairs or other uses of the temple, Mark 12:41, etc.; Luke 22:1; John
 8:20.
 
-<span id="EndNote Ant 19.21b"></span>[(21)](#EndNote%20Ant%2019.21a) A
+<span id="EndNote Ant 19.21b"></span>[(21)](#EndNote%20Ant%2019.21a.md) A
 strange number of condemned criminals to be under the sentence of death
 at once; no fewer, it seems, than one thousand four hundred!
 
-<span id="EndNote Ant 19.22b"></span>[(22)](#EndNote%20Ant%2019.22a) We
+<span id="EndNote Ant 19.22b"></span>[(22)](#EndNote%20Ant%2019.22a.md) We
 have a mighty cry made here by some critics, as the great Eusebius had
 on purpose falsified this account of Josephus, so as to make it agree
 with the parallel account in the Acts of the Apostles, because the
@@ -2051,7 +2051,7 @@ but being in an ancient Christian writer, not so well relished by many
 of those critics, nothing will serve but the ill-grounded supposal of
 willful corruption and prevarication.
 
-<span id="EndNote Ant 19.23b"></span>[(23)](#EndNote%20Ant%2019.23a)
+<span id="EndNote Ant 19.23b"></span>[(23)](#EndNote%20Ant%2019.23a.md)
 This sum of twelve millions of drachmae, which is equal to three
 millions of shekels, i.e. at 2s. 10d. a shekel, equal to four hundred
 and twenty-five thousand pounds sterling, was Agrippa the Great's yearly
@@ -2061,7 +2061,7 @@ not so tyrannical as Herod had been to the Jews. See the note on Antiq.
 B. XVII. ch. 11. sect. 4. A large sum this! but not, it seems,
 sufficient for his extravagant expenses.
 
-<span id="EndNote Ant 19.24b"></span>[(24)](#EndNote%20Ant%2019.24a)
+<span id="EndNote Ant 19.24b"></span>[(24)](#EndNote%20Ant%2019.24a.md)
 Reland takes notice here, not improperly, that Josephus omits the
 reconciliation of this Herod Agrippa to the Tyrians and Sidoninus, by
 the means of Blastus the king's chamberlain, mentioned Acts 12:20. Nor
@@ -2069,9 +2069,9 @@ is there any history in the world so complete, as to omit nothing that
 other historians take notice of, unless the one be taken out of the
 other, and accommodated to it.
 
-<span id="EndNote Ant 19.25b"></span>[(25)](#EndNote%20Ant%2019.25a)
+<span id="EndNote Ant 19.25b"></span>[(25)](#EndNote%20Ant%2019.25a.md)
 Photius, who made an extract out of this section, says they were not the
 statues or images, but the ladies themselves, who were thus basely
 abused by the soldiers.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pym08)  [Next](pym10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pym08)  [Next](pym10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Divine Pymander*, by Hermes Mercurius Trismegistus, tr. by John
 Everard, \[1650\], at Intangible Textual Heritage
 
@@ -63,4 +63,4 @@ THE NOT KNOWING GOD.
 
 ------------------------------------------------------------------------
 
-[Next: The Ninth Book, a Universal Sermon to Asclepius](pym10)
+[Next: The Ninth Book, a Universal Sermon to Asclepius](pym10.md)

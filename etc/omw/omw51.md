@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw50)  [Next](omw52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw50)  [Next](omw52.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ forthwith." So said Math, the son of Mathonwy.
 ------------------------------------------------------------------------
 
 [Next: Math, the Son of Mathonwy: Part II. The Transformations of
-Gwydion and Gilvaethwy](omw52)
+Gwydion and Gilvaethwy](omw52.md)

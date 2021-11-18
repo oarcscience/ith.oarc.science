@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos00)  [Next](gbos02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos00)  [Next](gbos02.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Initiate stands outside the circle.
 
 ------------------------------------------------------------------------
 
-[Next: The Charge](gbos02)
+[Next: The Charge](gbos02.md)

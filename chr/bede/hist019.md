@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist018) 
-[Next](hist020) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist018.md) 
+[Next](hist020.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ signified their verdict by their acclamations.
 [Next: XVIII. How the same holy man gave sight to the blind daughter of
 a tribune, and then coming to St. Alban, there received of his relics,
 and left other relics of the blessed Apostles and other martyrs. \[429
-A.D.\]](hist020)
+A.D.\]](hist020.md)

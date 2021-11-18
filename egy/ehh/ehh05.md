@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh04)  [Next](ehh06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh04)  [Next](ehh06.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,10 +18,10 @@ friends. From many scenes and passages in texts it has for some time
 past been clear that husband met wife, and wife met husband again beyond
 the grave, for in the Papyrus of Ani we see Ani accompanied by his wife
 in the House of Osiris and in many other places, and in the Papyrus of
-Anhai <span id="fr_15"></span>[1](#fn_15) we see Anhai bowing before two
+Anhai <span id="fr_15"></span>[1](#fn_15.md) we see Anhai bowing before two
 mummied forms, which represent her father and mother, and seated in a
 boat side by side with her husband. From the Papyrus of Nebseni <span
-id="fr_16"></span>[2](#fn_16) we know that the meeting of the deceased
+id="fr_16"></span>[2](#fn_16.md) we know that the meeting of the deceased
 with his mother, father, and wife was believed to take place on the
 island in the first division of Sekhet-hetep called Qenqentet, for he
 says,
@@ -30,7 +30,7 @@ says,
 
 \[paragraph continues\] "O Qenqentet, I have entered into thee, and I
 have seen the Osiris (i.e., his father) and I have gazed upon my mother,
-and had union \[with my wife\]." <span id="fr_17"></span>[1](#fn_17)
+and had union \[with my wife\]." <span id="fr_17"></span>[1](#fn_17.md)
 Other passages in the PER-EM-HRU indicate that the Egyptian hoped to
 meet again other people besides his father, mother, and wife, in
 Sekhet-hetep. Thus in the LIInd Chapter the deceased is made to say,
@@ -65,7 +65,7 @@ above is *abtu*, or *abut*, and its form and evident meaning suggest a
 comparison with the common Semitic word for "fathers"; the
 determinatives prove that the word describes people of both sexes. It
 occurs twice in the PER-EM-HRU, viz., in Chapter LII., line 6, and
-Chapter CLXXXIX., line 7, <span id="fr_18"></span>[1](#fn_18) and was
+Chapter CLXXXIX., line 7, <span id="fr_18"></span>[1](#fn_18.md) and was
 translated "persons" by me in 1896; the oldest example of the use of the
 word was published by M. P. Lacau in *Recueil*, 1904, p. 67.
 
@@ -77,16 +77,16 @@ in an
 <span id="page_67">p. 67</span>
 
 important Chapter, which M. Lacau has published <span
-id="fr_19"></span>[1](#fn_19) according to the texts on two coffins of
+id="fr_19"></span>[1](#fn_19.md) according to the texts on two coffins of
 the XIth Dynasty, which were found at Al-Barsha, and are now in the
-Egyptian Museum at Cairo. <span id="fr_20"></span>[2](#fn_20) This
+Egyptian Museum at Cairo. <span id="fr_20"></span>[2](#fn_20.md) This
 Chapter supplies us with some valuable information concerning the
 reunion and recognition of relatives and friends in Sekhet-hetep, and M.
 Lacau's excellent edition of the text is a useful contribution to the
 literature which specially concerns Sekhet-hetep. The words which stand
 at the head of the Chapter read, "THE GATHERING TOGETHER OF THE
 ANCESTORS OF A MAN TO HIM IN NETER KHER," <span
-id="fr_21"></span>[3](#fn_21) and the text begins:
+id="fr_21"></span>[3](#fn_21.md) and the text begins:
 
 "Hail, Ra! Hail, Tem! Hail, Seb! Hail, Nut! Grant ye unto Sepa that he
 may traverse the heavens (or sky), that he may traverse the earth, that
@@ -94,8 +94,8 @@ he may traverse the waters, that he may meet his ancestors, may meet his
 father, may meet his mother, may meet his grown up sons and daughters,
 and his brethren, and his sisters, may meet his friends, both male and
 female, may meet those who have been as parents to him, <span
-id="fr_22"></span>[4](#fn_22) and his kinsfolk (cousins?), <span
-id="fr_23"></span>[5](#fn_23) and those who have worked for him upon
+id="fr_22"></span>[4](#fn_22) and his kinsfolk (cousins?.md), <span
+id="fr_23"></span>[5](#fn_23.md) and those who have worked for him upon
 earth, both male and female, and may meet the concubine whom he loved
 and knew."
 
@@ -145,9 +145,9 @@ AKHEMU-URTCHU; now his name is unknown, his name is unknown.
 
 "The goddess Hathor surroundeth Sepa with the magical protection of
 life, but it is Seb who equippeth him. <span
-id="fr_24"></span>[1](#fn_24) The sister of Sepa \[and\] wife \[is\] the
+id="fr_24"></span>[1](#fn_24.md) The sister of Sepa \[and\] wife \[is\] the
 guardian of the wood of the Great Field. <span
-id="fr_25"></span>[2](#fn_25) And, moreover,
+id="fr_25"></span>[2](#fn_25.md) And, moreover,
 
 <span id="page_70">p. 70</span>
 
@@ -162,7 +162,7 @@ meet him; and they shall bear in their hands their staves, and their
 mattocks, and their tools for ploughing, and their metal weapons of the
 earth, and shall deliver him from the things which the goddess . . . . .
 . doeth, and from the actions (?) of Nut, and from the mighty things
-which the Two-Lion <span id="fr_26"></span>[1](#fn_26) God doeth to
+which the Two-Lion <span id="fr_26"></span>[1](#fn_26.md) God doeth to
 every soul, and to every god. The ancestors of Sepa shall make him to be
 delivered . . . . . \[RUBRIC\]. May be rejoined ancestors, and father,
 and mother, and foster-parents, and kinsfolk, and young children, and
@@ -285,46 +285,46 @@ We now pass on to describe the abode of the blessed according to the
 
 ### Footnotes
 
-<span id="fn_15"></span>[64:1](ehh05.htm#fr_15) See page
-[59](ehh04.htm#page_59).
+<span id="fn_15"></span>[64:1](ehh05.htm#fr_15.md) See page
+[59](ehh04.htm#page_59.md).
 
-<span id="fn_16"></span>[64:2](ehh05.htm#fr_16) *Book of the Dead*,
+<span id="fn_16"></span>[64:2](ehh05.htm#fr_16.md) *Book of the Dead*,
 Chapter CX., line 39.
 
-<span id="fn_17"></span>[65:1](ehh05.htm#fr_17) From this passage it
+<span id="fn_17"></span>[65:1](ehh05.htm#fr_17.md) From this passage it
 seems that a man who died before his expected to find another woman in
 Sekhet-hetep whom he might marry.
 
-<span id="fn_18"></span>[66:1](ehh05.htm#fr_18) See my edition of the
+<span id="fn_18"></span>[66:1](ehh05.htm#fr_18.md) See my edition of the
 *Chapters of Coming Forth by Day*, text, pp. 124, 493.
 
-<span id="fn_19"></span>[67:1](ehh05.htm#fr_19) See RECUEIL, 1904, pp.
+<span id="fn_19"></span>[67:1](ehh05.htm#fr_19.md) See RECUEIL, 1904, pp.
 67-72, and *La Réunion de la Famille*, by M. J. Baillet, in *Journal
 Asiatique*, Xème Série, tom. iv., p. 307, where a rendering of the
 Chapter into French will be found.
 
-<span id="fn_20"></span>[67:2](ehh05.htm#fr_20) They bear the numbers
+<span id="fn_20"></span>[67:2](ehh05.htm#fr_20.md) They bear the numbers
 28083 and 28087.
 
-<span id="fn_21"></span>[67:3](ehh05.htm#fr_21) A name of the
+<span id="fn_21"></span>[67:3](ehh05.htm#fr_21.md) A name of the
 Underworld.
 
-<span id="fn_22"></span>[67:4](ehh05.htm#fr_22) Perhaps "his uncles and
+<span id="fn_22"></span>[67:4](ehh05.htm#fr_22.md) Perhaps "his uncles and
 aunts," or "foster-parents."
 
-<span id="fn_23"></span>[67:5](ehh05.htm#fr_23) Or "connexions."
+<span id="fn_23"></span>[67:5](ehh05.htm#fr_23.md) Or "connexions."
 
-<span id="fn_24"></span>[69:1](ehh05.htm#fr_24) Or, It is Seb who is the
+<span id="fn_24"></span>[69:1](ehh05.htm#fr_24.md) Or, It is Seb who is the
 funeral chest, or sarcophagus, the allusion being to the fact that it
 was in the body of Seb, i.e., the earth, that the deceased was laid.
 
-<span id="fn_25"></span>[69:2](ehh05.htm#fr_25) The meaning of this line
+<span id="fn_25"></span>[69:2](ehh05.htm#fr_25.md) The meaning of this line
 is not clear to me. The word *khet* is often applied to wheat or barley,
 as the "wood," or "plant" of life. By "Great Field" I understand
 Sekhet-hetep.
 
-<span id="fn_26"></span>[70:1](ehh05.htm#fr_26) I.e., Shu and Tefnut.
+<span id="fn_26"></span>[70:1](ehh05.htm#fr_26.md) I.e., Shu and Tefnut.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Book Am-Tuat and the Book of Gates.](ehh06)
+[Next: Chapter IV. The Book Am-Tuat and the Book of Gates.](ehh06.md)

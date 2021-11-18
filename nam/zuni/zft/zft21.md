@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft20)  [Next](zft22) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft20)  [Next](zft22.md) 
 
 ------------------------------------------------------------------------
 
@@ -230,4 +230,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: How The Gopher Raced With The Runners Of K'iákime](zft22)
+[Next: How The Gopher Raced With The Runners Of K'iákime](zft22.md)

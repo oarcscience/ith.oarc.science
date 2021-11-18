@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb21)  [Next](crfb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb21)  [Next](crfb23.md) 
 
 </div>
 
@@ -360,6 +360,6 @@ happily until they died.
 
 ------------------------------------------------------------------------
 
-[Next: The Six Hungry Beasts](crfb23)
+[Next: The Six Hungry Beasts](crfb23.md)
 
 </div>

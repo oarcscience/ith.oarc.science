@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt22)  [Next](trt24) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt22)  [Next](trt24.md) 
 
 ------------------------------------------------------------------------
 
@@ -309,4 +309,4 @@ and welcomed him, and there was great mirth in the Court.
 
 ------------------------------------------------------------------------
 
-[Next: The Fair Maid of Astolat](trt24)
+[Next: The Fair Maid of Astolat](trt24.md)

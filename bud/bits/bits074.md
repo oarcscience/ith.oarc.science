@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits073) [Next](bits075)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits073) [Next](bits075.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ purity, for the overcoming of sorrow and lamentation, for the abolition
 of misery and grief, for the acquisition of the correct rule of conduct,
 for the realization of Nirvana, and that is the Four Intent
 Contemplations.<span id="page_353_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_353_note_1)
+class="small">1</span></sup>](#page_353_note_1.md)
 
 |                                   |                                                |
 |:----------------------------------|-----------------------------------------------:|
@@ -60,7 +60,7 @@ observant of the body?
    Whenever, O priests, a priest, retiring to the forest, or to the foot
 of a tree, or to an uninhabited spot,<span
 id="page_354_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_354_note_1) sits him down
+class="small">1</span></sup>](#page_354_note_1.md) sits him down
 
 |                                   |                                                 |
 |:----------------------------------|------------------------------------------------:|
@@ -77,7 +77,7 @@ making, and trains himself to be conscious of all his expirations, and
 trains himself to be conscious of all his inspirations, and trains
 himself to quiet his expirations, and trains himself to quiet his
 inspirations.<span id="page_355_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_355_note_1) Just as, O priests, a
+class="small">1</span></sup>](#page_355_note_1.md) Just as, O priests, a
 skilful
 
 |                                   |                                                  |
@@ -106,7 +106,7 @@ origination in the body, or observant of destruction in the body, or
 observant of both origination and destruction in the body; and the
 recognition of the body by his intent contemplation<span
 id="page_356_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_356_note_1) is merely to the extent
+class="small">1</span></sup>](#page_356_note_1.md) is merely to the extent
 of this knowledge, merely to the extent of this contemplation, and he
 lives unattached, nor clings to anything in the world.
 
@@ -122,7 +122,7 @@ of the body.
 | <span id="page_357">p. 357</span> | <span class="small">\[MSS.15<sup>6</sup></span> |
 
    But again,<span id="page_357_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_357_note_1) O priests, a priest, in
+class="small">1</span></sup>](#page_357_note_1.md) O priests, a priest, in
 walking thoroughly comprehends his walking, and in standing thoroughly
 comprehends his standing, and in sitting thoroughly comprehends his
 sitting, and in lying down thoroughly comprehends his
@@ -215,7 +215,7 @@ Just as, O priests, a skilful butcher, or butcher's apprentice, having
 slaughtered a heifer, divides her into pieces, and stations himself at a
 place where four roads meet; in exactly the same way, O priests, a
 priest takes this body,<span id="page_360_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_360_note_1) whatever it may be
+class="small">1</span></sup>](#page_360_note_1.md) whatever it may be
 doing, or however it may be situated, and considers it according to the
 elements of which it is composed, saying, "There are in this body the
 elements earth, water, fire, and wind."
@@ -342,7 +342,7 @@ person \[etc., as before\].
 
 End of the Intent Contemplation of the Body.<span
 id="page_362_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_362_note_1)
+class="small">1</span></sup>](#page_362_note_1.md)
 
 ------------------------------------------------------------------------
 
@@ -418,7 +418,7 @@ of the mind.
 ------------------------------------------------------------------------
 
    And how,<span id="page_364_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_364_note_1) O priests, does a priest
+class="small">1</span></sup>](#page_364_note_1.md) O priests, does a priest
 live, as respects the elements of being, observant of the elements of
 being?
 
@@ -809,7 +809,7 @@ Misery.</span>
 
    It is the complete fading out and cessation<span
 id="page_372_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_372_note_1) of this desire, a giving
+class="small">1</span></sup>](#page_372_note_1.md) of this desire, a giving
 up, a loosing hold, a relinquishment, and a non-adhesion.
 
    But where, O priests, does this desire wane and disappear? where is
@@ -1003,7 +1003,7 @@ Contemplations.</span>
 
 ------------------------------------------------------------------------
 
-[Next: § 75. The Attainment of the Paths](bits075)
+[Next: § 75. The Attainment of the Paths](bits075.md)
 
 ------------------------------------------------------------------------
 
@@ -1011,7 +1011,7 @@ Contemplations.</span>
 
 <span id="footnotes_page_353">p. 353</span>
 
-<span id="page_353_note_1"></span>[1](#page_353_fr_1) The Sumangala
+<span id="page_353_note_1"></span>[1](#page_353_fr_1.md) The Sumangala
 Vilâsinî, Cushing MS., Folio *dhi*: And now, just as a skilful
 basket-maker, desirous of making coarse and fine mats, and baskets,
 crates, hampers, and other like ware, might divide a large stalk of
@@ -1027,7 +1027,7 @@ his exposition of the subject with the words, *And how, O priests*.
 
 <span id="footnotes_page_354">p. 354</span>
 
-<span id="page_354_note_1"></span>[1](#page_354_fr_1) Folio *dhî*:
+<span id="page_354_note_1"></span>[1](#page_354_fr_1.md) Folio *dhî*:
 *Retiring to the forest, or to the foot of a tree, or to an uninhabited
 spot*--This explains what dwelling-places should be chosen as
 appropriate to the exercise of intent contemplation, For in the case of
@@ -1071,7 +1071,7 @@ appropriate to the exercise of intent contemplation."
 
 <span id="footnotes_page_355">p. 355</span>
 
-<span id="page_355_note_1"></span>[1](#page_355_fr_1) Folios *dhî-dhu*:
+<span id="page_355_note_1"></span>[1](#page_355_fr_1.md) Folios *dhî-dhu*:
 In thus training himself, he obtains the four trances through the reflex
 of his respirations. And rising from his trance he investigates either
 his expirations and inspirations, or else the members of his trances. He
@@ -1104,7 +1104,7 @@ way towards saintship.
 
 <span id="footnotes_page_356">p. 356</span>
 
-<span id="page_356_note_1"></span>[1](#page_356_fr_1) Folio *dhu*: *And
+<span id="page_356_note_1"></span>[1](#page_356_fr_1.md) Folio *dhu*: *And
 the recognition of the body by his intent contemplation*:--Only a body
 is recognized by his intent contemplation, but no living entity, no Ego,
 no woman, no man, no self, nor anything pertaining to a self, no I, no
@@ -1112,7 +1112,7 @@ mine, no person nor anything pertaining to a person.
 
 <span id="footnotes_page_357">p. 357</span>
 
-<span id="page_357_note_1"></span>[1](#page_357_fr_1) Folios *dhu-dhû*:
+<span id="page_357_note_1"></span>[1](#page_357_fr_1.md) Folios *dhu-dhû*:
 Having thus made of the respirations one division of the observation of
 the body, he now of the bodily postures makes another, and begins with
 the words, *But again*.
@@ -1196,7 +1196,7 @@ sitting . . . lying down thoroughly comprehends his lying down*.
 
 <span id="footnotes_page_360">p. 360</span>
 
-<span id="page_360_note_1"></span>[1](#page_360_fr_1) Folio *dhe*: Just
+<span id="page_360_note_1"></span>[1](#page_360_fr_1.md) Folio *dhe*: Just
 as a butcher, while rearing a cow, while leading her to the place of
 slaughter, and while, after bringing her there and binding her, he is
 placing her in position, slaughtering her, and handling her after she
@@ -1217,9 +1217,9 @@ individual, and thinks of it as only so many elements.
 
 <span id="footnotes_page_362">p. 362</span>
 
-<span id="page_362_note_1"></span>[1](#page_362_fr_1) In treating of the
+<span id="page_362_note_1"></span>[1](#page_362_fr_1.md) In treating of the
 contemplation of the body as one of the forty subjects of meditation
-(see [page 292](bits060.htm#page_292)), Buddhaghosa, in chapter viii. of
+(see [page 292](bits060.htm#page_292).md), Buddhaghosa, in chapter viii. of
 the Visuddhi-Magga, takes up only the Section on Loathsomeness. He
 mentions the First Intent Contemplation as above described, but says
 that the Section on Breathing forms a subject of meditation by itself
@@ -1230,7 +1230,7 @@ measure under Wisdom and in a measure under the Impurities.
 
 <span id="footnotes_page_364">p. 364</span>
 
-<span id="page_364_note_1"></span>[1](#page_364_fr_1) Folio *dhâu*: In
+<span id="page_364_note_1"></span>[1](#page_364_fr_1.md) Folio *dhâu*: In
 the observation of the body The Blessed One treated solely of form; in
 the observation of the sensations and of thoughts, solely of the other
 groups; but now with the words, *And how, O priests*, he begins the
@@ -1243,7 +1243,7 @@ perception-group, and of the predisposition-group.
 
 <span id="footnotes_page_372">p. 372</span>
 
-<span id="page_372_note_1"></span>[1](#page_372_fr_1) Folio *nâi*:
+<span id="page_372_note_1"></span>[1](#page_372_fr_1.md) Folio *nâi*:
 *Complete fading out and cessation*, etc. are all simply synonyms for
 Nirvana. For in Nirvana there is a complete fading out and cessation of
 desire; therefore is it called the complete fading out and cessation of

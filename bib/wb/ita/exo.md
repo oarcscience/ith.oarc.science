@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](gen)  [Next](lev) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](gen)  [Next](lev.md) 
 
 ------------------------------------------------------------------------
 
@@ -4631,4 +4631,4 @@ tutta la casa d’Israele durante tutti i loro viaggi.
 
 ------------------------------------------------------------------------
 
-[Next: Leviticus](lev)
+[Next: Leviticus](lev.md)

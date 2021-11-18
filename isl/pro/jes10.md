@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes09)  [Next](jes11) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes09)  [Next](jes11.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ straight path.
 
 ------------------------------------------------------------------------
 
-[Next: Gospel of Barnaba](jes11)
+[Next: Gospel of Barnaba](jes11.md)

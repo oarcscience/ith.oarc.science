@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp15)  [Next](wmp17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp15)  [Next](wmp17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ afai*--the forest of those
 
 slain by sudden death. . . . No maiden may be present at these rites;
 only to wives may such sad mysteries be revealed." <span
-id="fr_38"></span>[1](#fn_38)
+id="fr_38"></span>[1](#fn_38.md)
 
 Later, an ancient woman was induced to confide to me part at least of
 these strange rites. I had not intended to publish them, nor, indeed,
@@ -136,7 +136,7 @@ birth and death "the Great Mother" wrung a
 <span id="page_209">p. 209</span>
 
 new life from out the very jaws of desolation and despair. <span
-id="fr_39"></span>[1](#fn_39)
+id="fr_39"></span>[1](#fn_39.md)
 
 At present there seems little danger of a falling off in numbers among
 Ibibios, for the greatest pride of both men and women is to become the
@@ -237,10 +237,10 @@ should be of sufficient age to wed them.
 
 ### Footnotes
 
-<span id="fn_38"></span>[206:1](wmp16.htm#fr_38) "By Haunted Waters." P.
+<span id="fn_38"></span>[206:1](wmp16.htm#fr_38.md) "By Haunted Waters." P.
 Amaury Talbot.
 
-<span id="fn_39"></span>[209:1](wmp16.htm#fr_39) Since writing the
+<span id="fn_39"></span>[209:1](wmp16.htm#fr_39.md) Since writing the
 above, it has been our good fortune to have the opportunity of studying
 the customs of Ibo and New Calabari women. It would seem that the lives
 of these latter are ruled, even more markedly than those of their Ibibio
@@ -258,6 +258,6 @@ occasions has as yet reached male ears.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 15: Widowhood And Burial Customs](wmp17)
+[Next: Chapter 15: Widowhood And Burial Customs](wmp17.md)
 
 </div>

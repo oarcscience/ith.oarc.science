@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,19 +28,19 @@ name Sister Nivedita she devoted her life to selflessly serving the poor
 of India, particularly women, in Calcutta, providing education and
 medical care. This is a short book of essays which she wrote dedicated
 to the Hindu Goddess Kali. Also at this site by Sister Nivedita are
-[Studies from an Eastern Home](../seh/index), and [The Web of Indian
-Life](../wil/index).
+[Studies from an Eastern Home](../seh/index.md), and [The Web of Indian
+Life](../wil/index.md).
 
 ------------------------------------------------------------------------
 
-[Title Page](ktm00)  
-[Contents](ktm01)  
-[Concerning Symbols](ktm02)  
-[The Vision of Siva](ktm03)  
-[Two Saints of Kali](ktm04)  
-[The Voice of the Mother](ktm05)  
-[A Visit to Dukineshwar](ktm06)  
-[An Intercession](ktm07)  
-[The Story of Kali](ktm08)  
-[Kali the Mother](ktm09)  
-[Works by the Swâmi Vivekânanda](ktm10)  
+[Title Page](ktm00.md)  
+[Contents](ktm01.md)  
+[Concerning Symbols](ktm02.md)  
+[The Vision of Siva](ktm03.md)  
+[Two Saints of Kali](ktm04.md)  
+[The Voice of the Mother](ktm05.md)  
+[A Visit to Dukineshwar](ktm06.md)  
+[An Intercession](ktm07.md)  
+[The Story of Kali](ktm08.md)  
+[Kali the Mother](ktm09.md)  
+[Works by the Swâmi Vivekânanda](ktm10.md)  

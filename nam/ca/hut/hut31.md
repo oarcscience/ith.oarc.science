@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut30)  [Next](hut32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut30)  [Next](hut32.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXVIII.
 
-### Formula for the Salmon Medicine. <span id="fr_69"></span>[1](#fn_69)
+### Formula for the Salmon Medicine. <span id="fr_69"></span>[1](#fn_69.md)
 
 <span id="page_268">p. 268</span>
 
@@ -44,7 +44,7 @@ When they were through they shot at a mark and had all kinds of games.
 
 Then he said, "All of you go away from me." Having built a fire he put
 incense root in it and prayed. "Indians when they come into
-[existence](errata.htm#7), will eat this happily," he thought. "They
+[existence](errata.htm#7.md), will eat this happily," he thought. "They
 will have plenty of food when the time comes for it to grow. The birds
 will not bother it. It will be good wherever it grows. Whatever anyone
 says will happen."
@@ -70,7 +70,7 @@ of us. 'At that place he did that,' they will say."
 
 ### Footnotes
 
-<span id="fn_69"></span>[265:1](hut31.htm#fr_69) Told at Hupa, June
+<span id="fn_69"></span>[265:1](hut31.htm#fr_69.md) Told at Hupa, June
 1901, by Robinson Shoemaker in whose family the celebration of this
 medicine is an hereditary trust. The priest performs the ceremony in
 ceremonial dress, with beads around his neck, and his face painted red.
@@ -90,4 +90,4 @@ does not eat salmon during the remainder of the year.
 
 ------------------------------------------------------------------------
 
-[Next: XXVIII. Formula of the Rain-rock Medicine](hut32)
+[Next: XXVIII. Formula of the Rain-rock Medicine](hut32.md)

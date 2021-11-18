@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl11)  [Next](orl13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl11)  [Next](orl13.md) 
 
 ------------------------------------------------------------------------
 
@@ -1072,4 +1072,4 @@ The rest, for here ’tis time my strain should end.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 13](orl13)
+[Next: Canto 13](orl13.md)

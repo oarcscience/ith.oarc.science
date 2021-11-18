@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs16) [Next](hbs18)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs16) [Next](hbs18.md)
 
 ------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ So will the green bough wither in this sad hand of mine.”
 
 ------------------------------------------------------------------------
 
-[Next](hbs18)
+[Next](hbs18.md)
 
  
 

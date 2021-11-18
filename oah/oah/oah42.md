@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah41)  [Next](oah43) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah41)  [Next](oah43.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ your God. And it was so.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](oah43)
+[Next: Chapter IV](oah43.md)

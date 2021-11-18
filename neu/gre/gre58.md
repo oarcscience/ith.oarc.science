@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre57)  [Next](gre59) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre57)  [Next](gre59.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ him abide there long.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIV: Grettir meets Hallmund on the Keel](gre59)
+[Next: Chapter LIV: Grettir meets Hallmund on the Keel](gre59.md)

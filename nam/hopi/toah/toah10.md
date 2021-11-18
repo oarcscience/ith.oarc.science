@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah09)  [Next](toah11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah09)  [Next](toah11.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,11 +13,11 @@ American](../../index)  [Hopi](../index)  [Index](index) 
 
 IT MAY have taken quite a long time for these villages to be
 established. Anyway, every place was pretty well settled down when the
-Spanish came. [19](toah24.htm#xref_19) The Spanish were first heard of
+Spanish came. [19](toah24.htm#xref_19.md) The Spanish were first heard of
 at Zuni and then at Awatovi. They came on to Shung-opovi, passing Walpi.
 At First Mesa, Si-kyatki was the largest village then, and they were
 called Si-kyatki, not Walpi. The Walpi people were living below the
-present village on the west side. [20](toah24.htm#xref_20) When the
+present village on the west side. [20](toah24.htm#xref_20.md) When the
 Spaniards came, the Hopi thought that they were the ones they were
 looking for--their white brother, the Bahana, their savior.
 
@@ -26,7 +26,7 @@ established. The people of Mishongovi welcomed them so the priest who
 was with the white men built the first Hopi mission at Mishongovi. The
 people of Shung-opovi were at first afraid of the priests but later they
 decided he was really the Bahana, the savior, and let him build a
-mission at Shung-opovi. [21](toah24.htm#xref_21)
+mission at Shung-opovi. [21](toah24.htm#xref_21.md)
 
 Well, about this time the Strap Clan were ruling at Shung-opovi and they
 were the ones that gave permission to establish the mission. The
@@ -51,7 +51,7 @@ next year
 
 <span id="page_43">p. 43</span>
 
-when they had dried out. [22](toah24.htm#xref_22) Beams of that size
+when they had dried out. [22](toah24.htm#xref_22.md) Beams of that size
 were hard to carry and the first few times they tried to carry these
 beams on their backs, twenty to thirty men walking side by side under
 the beam. But this was rather hard in rough places and one end had to
@@ -81,7 +81,7 @@ their copper ore to paint the prayer sticks. These places are called
 *Puwa-kiki*, cave places. If these men were caught they were severely
 punished.
 
-Now this man, Tota-achi (the Priest) [23](toah24.htm#xref_23) was going
+Now this man, Tota-achi (the Priest) [23](toah24.htm#xref_23.md) was going
 from bad to worse. He was not doing the people any good and he was
 always figuring what he could do to harm them. So he thought out how the
 water from different springs or rivers would taste and he was always
@@ -117,7 +117,7 @@ calendar and that was the best way they had of setting the date. In
 order to make sure that everyone would rise up and do this thing on the
 fourth day the boy was given a cotton string with knots in it and each
 day he was to untie one of these knots until they were all out and that
-would be the day for the attack. [24](toah24.htm#xref_24)
+would be the day for the attack. [24](toah24.htm#xref_24.md)
 
 Things were getting worse and worse so the chief of Shung-opovi went
 over to Mishongnovi and the two chiefs discussed their troubles. "He is
@@ -172,4 +172,4 @@ him.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX. Return of the Spaniards to Hopi Country. Shipaulovi
-Founded as a Sanctuary](toah11)
+Founded as a Sanctuary](toah11.md)

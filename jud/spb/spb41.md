@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb40)  [Next](spb42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb40)  [Next](spb42.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ neither is it permitted us to make any profane use of them; but we are
 only to look at them, in order that we may give thanks unto thy name for
 thy miracles, thy deliverances and thy wonders.
 
-*In the Synagogue Psalm xxx., [p. 103](spb07.htm#page_103) is chanted*.
+*In the Synagogue Psalm xxx., [p. 103](spb07.htm#page_103.md) is chanted*.
 
 <span id="page_421">p. 421</span>
 
@@ -62,7 +62,7 @@ the altar.
 
 Full sated was my soul with ills, my strength was spent with sorrow;
 they embittered my life by hardship during my subjection to the dominion
-of Egypt, <span id="fr_52"></span>[\*](#fn_47) but God with his great
+of Egypt, <span id="fr_52"></span>[\*](#fn_47.md) but God with his great
 power brought forth the chosen race, while the host of Pharaoh and all
 his seed sank like a stone into the deep.
 
@@ -73,7 +73,7 @@ when Babylon's end drew near; through Zerubbabel I was saved after
 seventy years.
 
 The Agagite (Haman), the son of Hammedatha, sought to cut down the lofty
-fir tree (Mordecai) <span id="fr_53"></span>[†](#fn_48); but his design
+fir tree (Mordecai) <span id="fr_53"></span>[†](#fn_48.md); but his design
 became a snare to himself, and his pride was brought to an end. The head
 of the Benjamite thou didst exalt, but the enemy's name thou Midst blot
 out: the many sons he had gotten thou didst hang upon the gallows.
@@ -81,26 +81,26 @@ out: the many sons he had gotten thou didst hang upon the gallows.
 The Grecians were gathered against me in the days of the Hasmoneans;
 they broke down the walls of my towers, and defiled all the oils; but
 from one of the last remaining flasks a miracle was wrought for thy
-beloved <span id="fr_54"></span>[‡](#fn_49), and their men of
+beloved <span id="fr_54"></span>[‡](#fn_49.md), and their men of
 understanding appointed these eight days for song and praises.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_47"></span>[421:\*](spb41.htm#fr_52) "The kingdom of the
+<span id="fn_47"></span>[421:\*](spb41.htm#fr_52.md) "The kingdom of the
 heifer," see Jeremiah xlvi. 20
 
-<span id="fn_48"></span>[421:†](spb41.htm#fr_53) See Talmud Babli, Tr.
+<span id="fn_48"></span>[421:†](spb41.htm#fr_53.md) See Talmud Babli, Tr.
 Megillah, 10 b.
 
-<span id="fn_49"></span>[421:‡](spb41.htm#fr_54) Likened to a lily in
+<span id="fn_49"></span>[421:‡](spb41.htm#fr_54.md) Likened to a lily in
 Song of Solomon ii. 2.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Service for Purim](spb42)
+[Next: Service for Purim](spb42.md)
 
 </div>

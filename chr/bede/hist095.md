@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist094) 
-[Next](hist096) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist094.md) 
+[Next](hist096.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ of her infirmity and entered into the joys of eternal salvation.
 ------------------------------------------------------------------------
 
 [Next: X. How a blind woman, praying in the burial-place of that
-monastery, was restored to her sight. \[675 A.D.?\]](hist096)
+monastery, was restored to her sight. \[675 A.D.?\]](hist096.md)

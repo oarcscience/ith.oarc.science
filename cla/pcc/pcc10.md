@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc09)  [Next](pcc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc09)  [Next](pcc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ the people of every race, of a pre-civilization period of comparative
 harmony and happiness when two things, which to-day we perceive to be
 the prolific causes of discord and misery, were absent or only weakly
 developed--namely, *property* and *self-consciousness*. <span
-id="fr_158"></span>[1](#fn_158)
+id="fr_158"></span>[1](#fn_158.md)
 
 During the first century B.C. there was a great spread of Messianic
 Ideas over the Roman world, and Virgil's 4th Eclogue, commonly called
@@ -44,7 +44,7 @@ disease, and after death men had moved as good *daimones* or *genii*
 over the lands. Pindar, three hundred years after Hesiod, had confirmed
 the existence of the Islands of the Blest, where the good led a
 blameless, tearless, life. Plato the same, <span
-id="fr_159"></span>[1](#fn_159) with further references to the fabled
+id="fr_159"></span>[1](#fn_159.md) with further references to the fabled
 island of Atlantis; the Egyptians believed in a former golden age under
 the god Râ to which they looked back with regret and envy; the Persians
 had a garden of Eden similar to that of the Hebrews; the Greeks a garden
@@ -111,7 +111,7 @@ a period when he possessed above all a sense of unity with his fellows
 and with surrounding Nature which became the ground of a common
 consciousness between himself and his tribe, similar to that which
 Maeterlinck, in the case of the Bees, calls the Spirit of the
-Hive. <span id="fr_160"></span>[1](#fn_160) It would be difficult, nay
+Hive. <span id="fr_160"></span>[1](#fn_160.md) It would be difficult, nay
 impossible, to suppose that human beings on their first appearance
 formed an entire exception in the process of evolution, or that they
 were completely lacking in the very graces and faculties which we so
@@ -158,14 +158,14 @@ will know*!" Evidently knowledge (such knowledge as we understand by the
 word) only began, and could only begin, by queries relating to the
 little local self. There was no other way for it to begin. Knowledge and
 self-consciousness were born, as twins, together. Knowledge therefore
-meant Sin; <span id="fr_161"></span>[1](#fn_161) for self-consciousness
+meant Sin; <span id="fr_161"></span>[1](#fn_161.md) for self-consciousness
 meant sin
 
 <span id="page_142">p. 142</span>
 
 \[paragraph continues\] (and it means sin to-day). Sin is Separation.
 That is probably (though disputed) the etymology of the word--that which
-*sunders*. <span id="fr_162"></span>[1](#fn_162) The essence of sin is
+*sunders*. <span id="fr_162"></span>[1](#fn_162.md) The essence of sin is
 one's separation from the whole (the tribe or the god) of which one is a
 part. And knowledge--which separates subject from object, and in its
 inception is necessarily occupied with the 'good and evil' of the little
@@ -234,10 +234,10 @@ early peoples it has already withered and corrupted them, even before it
 has had the sense to properly observe them. It is sufficient, however,
 just to mention peoples like some of the early Pacific Islanders, the
 Zulus and Kafirs of South Africa, the Fans of the Congo Region (of whom
-Winwood Reade <span id="fr_163"></span>[1](#fn_163) speaks so highly),
+Winwood Reade <span id="fr_163"></span>[1](#fn_163) speaks so highly.md),
 some of the Malaysian and Himalayan tribes, the primitive Chinese, and
 even the evidence with regard to the neolithic peoples of Europe, in
-order to show what I mean. <span id="fr_164"></span>[2](#fn_164)
+order to show what I mean. <span id="fr_164"></span>[2](#fn_164.md)
 
 Perhaps one of the best ideas of the gulf of difference between the
 semi-civilized and the quite primal man is given by A. R. Wallace in his
@@ -252,7 +252,7 @@ independent of civilization . . . living their own lives in their own
 way, as they had done for countless generations before America was
 discovered. Indeed the true denizen of the Amazonian forests, like the
 forest itself, is unique and not to be forgotten." Elsewhere <span
-id="fr_165"></span>[3](#fn_165) Wallace speaks of the quiet,
+id="fr_165"></span>[3](#fn_165.md) Wallace speaks of the quiet,
 good-natured, inoffensive character of these copper-colored peoples, and
 of their quickness of hand and skill, and continues: "their figures are
 generally superb;
@@ -279,7 +279,7 @@ but could not praise their tribal morality highly enough. Their word is
 sacred, he wrote, they know nothing of the corruption and faithless arts
 of Europe. They live in great tranquillity and are seldom at war with
 their neighbors, and are all kindness and goodwill to one
-another." <span id="fr_166"></span>[1](#fn_166) Kropotkin further says:
+another." <span id="fr_166"></span>[1](#fn_166.md) Kropotkin further says:
 "Let me remark that when Kolben says 'they are certainly the most
 friendly, the most liberal and the most benevolent people to one another
 that ever appeared on the earth' he wrote a sentence which has
@@ -295,14 +295,14 @@ the Ostyaks, the Samoyedes, the Eskimos, the Dyaks, the Aleuts, the
 Papuans, and so on, by the highest authorities. I also remember having
 read them applied to the Tunguses, the Tchuktchis, the Sioux, and
 several others. The very frequency of that high commendation already
-speaks volumes in itself." <span id="fr_167"></span>[1](#fn_167)
+speaks volumes in itself." <span id="fr_167"></span>[1](#fn_167.md)
 
 Many of the tribes, like the Aleuts, Eskimos, Dyaks, Papuans, Fuegians,
 etc., are themselves in the Neolithic stage of culture--though for the
 reason given above probably degenerated physically from the standard of
 their neolithic ancestors; and so the conclusion is forced upon one that
 there must have been an *immense period*, <span
-id="fr_168"></span>[2](#fn_168) prior to the first beginnings of
+id="fr_168"></span>[2](#fn_168.md) prior to the first beginnings of
 'civilization,' in which the human tribes in general led a peaceful and
 friendly life on the earth, comparatively little broken up by
 dissensions, in close contact with Nature and in that degree of sympathy
@@ -398,7 +398,7 @@ standing against and over him. From that day the conception of a god
 arises on him. It may be only a totem-god--a divine Grizzly-Bear or what
 not--but still a god or supernatural Presence, embodied in the life of
 the tribe. This is what Sin has taught him. <span
-id="fr_169"></span>[1](#fn_169) This is what Fear, founded on
+id="fr_169"></span>[1](#fn_169.md) This is what Fear, founded on
 self-consciousness, has revealed to him. The revelation may be true, or
 it may be fallacious (I do not prejudge it); but there it is--the
 beginning of that long series of human evolutions which we call
@@ -560,43 +560,43 @@ blessedness.
 
 ### Footnotes
 
-<span id="fn_158"></span>[137:1](pcc10.htm#fr_158) For a fuller working
+<span id="fn_158"></span>[137:1](pcc10.htm#fr_158.md) For a fuller working
 out of this, see *Civilisation: its Cause and Cure*, by E. Carpenter,
 ch. i.
 
-<span id="fn_159"></span>[138:1](pcc10.htm#fr_159) See arts. by Margaret
+<span id="fn_159"></span>[138:1](pcc10.htm#fr_159.md) See arts. by Margaret
 Scholes, *Socialist Review*, Nov. and Dec. 1912.
 
-<span id="fn_160"></span>[140:1](pcc10.htm#fr_160) See *The Life of the
+<span id="fn_160"></span>[140:1](pcc10.htm#fr_160.md) See *The Life of the
 Bee* by Maurice Maeterlinck; and for numerous similar cases among other
 animals, P. Kropotkin's *Mutual Aid: a factor in Evolution*.
 
-<span id="fn_161"></span>[141:1](pcc10.htm#fr_161) Compare also other
+<span id="fn_161"></span>[141:1](pcc10.htm#fr_161.md) Compare also other
 myths, like *Cupid and Psyche*, *Lohengrin* etc., in which a fatal
 curiosity leads to tragedy.
 
-<span id="fn_162"></span>[142:1](pcc10.htm#fr_162) German *Sünde*, sin,
+<span id="fn_162"></span>[142:1](pcc10.htm#fr_162.md) German *Sünde*, sin,
 and *sonder*, separated; Dutch *zonde*, sin; Latin *sons*, guilty. Not
 unlikely that the German root *Sühn*, expiation, is connected;
 *Sühn-bock*, a scape-goat.
 
-<span id="fn_163"></span>[144:1](pcc10.htm#fr_163) *Savage Africa*, ch.
+<span id="fn_163"></span>[144:1](pcc10.htm#fr_163.md) *Savage Africa*, ch.
 xxxvii.
 
-<span id="fn_164"></span>[144:2](pcc10.htm#fr_164) See Kropotkin's
+<span id="fn_164"></span>[144:2](pcc10.htm#fr_164.md) See Kropotkin's
 *Mutual Aid*, ch. iii.
 
-<span id="fn_165"></span>[144:3](pcc10.htm#fr_165) *Travels on the
+<span id="fn_165"></span>[144:3](pcc10.htm#fr_165.md) *Travels on the
 Amazon* (1853), ch. xvii.
 
-<span id="fn_166"></span>[145:1](pcc10.htm#fr_166) P. Kropotkin, *Mutual
+<span id="fn_166"></span>[145:1](pcc10.htm#fr_166.md) P. Kropotkin, *Mutual
 Aid*, p. 90. W. J. Solias also speaks in terms of the highest praise of
 the Bushmen --"their energy, patience, courage, loyalty, affection, good
 manners and artistic sense" (*Ancient Hunters*, 1915, p. 425).
 
-<span id="fn_167"></span>[146:1](pcc10.htm#fr_167) *Ibid*, p. 91.
+<span id="fn_167"></span>[146:1](pcc10.htm#fr_167.md) *Ibid*, p. 91.
 
-<span id="fn_168"></span>[146:2](pcc10.htm#fr_168) See for estimates of
+<span id="fn_168"></span>[146:2](pcc10.htm#fr_168.md) See for estimates of
 periods *infra* ch. xiv; also, for the peacefulness of these early
 peoples, Havelock Ellis on "The Origin of War," where he says "We do not
 find the *weapons* of warfare or the *wounds* of warfare among these
@@ -604,11 +604,11 @@ Palaeolithic remains . . . it was with civilization that the art of
 killing developed, i. e. within the last 10,000 or 12,000 years when
 Neolithic men (who became our ancestors) were just arriving."
 
-<span id="fn_169"></span>[149:1](pcc10.htm#fr_169) It is to be noted, in
+<span id="fn_169"></span>[149:1](pcc10.htm#fr_169.md) It is to be noted, in
 that charming idyll of the Eden garden, that it is only *after* eating
 of the forbidden fruit that Adam and Eve perceive the Lord God walking
 in the garden, and converse with him (Genesis iii. 8).
 
 ------------------------------------------------------------------------
 
-[Next: X. The Saviour-god And The Virgin-mother](pcc11)
+[Next: X. The Saviour-god And The Virgin-mother](pcc11.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb17)  [Next](ptb19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb17)  [Next](ptb19.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ applied without the aid of further instruction.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Mutual Configurations of the Signs](ptb19)
+[Next: Chapter XVI. Mutual Configurations of the Signs](ptb19.md)

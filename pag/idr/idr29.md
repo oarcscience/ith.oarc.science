@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr28) 
-[Next](idr30) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr28.md) 
+[Next](idr30.md) 
 
 ------------------------------------------------------------------------
 
@@ -369,4 +369,4 @@ Christian era.
 
 ------------------------------------------------------------------------
 
-[Next: The Sacred Tara Hill](idr30)
+[Next: The Sacred Tara Hill](idr30.md)

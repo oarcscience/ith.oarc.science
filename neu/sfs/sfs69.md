@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs68)  [Next](sfs70) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs68)  [Next](sfs70.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -345,7 +345,7 @@ all Marko's friends, and his father and mother, to be invited, and Marko
 obtained his promised reward.
 
 So, too, he tried the fortune of combat with Musa Urbanusa. <span
-id="fr_18"></span>[\*](#fn_18) He had three hearts. Marko fought with
+id="fr_18"></span>[\*](#fn_18.md) He had three hearts. Marko fought with
 him for three nights and three white days without cessation, so that red
 foam already issued from Marko, while not even white foam came from Musa
 Urbanusa. Then Kraljevitch Marko shouted: 'Eh! sister Vila!' The Vila
@@ -403,9 +403,9 @@ footprints of his horse are still recognised.
 
 ### Footnotes
 
-<span id="fn_18"></span>[276:\*](sfs69.htm#fr_18) Musa, the Albanian,
+<span id="fn_18"></span>[276:\*](sfs69.htm#fr_18.md) Musa, the Albanian,
 more properly Arbanasian.
 
 ------------------------------------------------------------------------
 
-[Next: LIII. The Daughter of the King of the Vilas](sfs70)
+[Next: LIII. The Daughter of the King of the Vilas](sfs70.md)

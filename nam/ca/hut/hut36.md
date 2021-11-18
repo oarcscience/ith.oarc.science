@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut35)  [Next](hut37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut35)  [Next](hut37.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXXIII.
 
-### Formula of Medicine for the Birth of the First Child. <span id="fr_76"></span>[1](#fn_76)
+### Formula of Medicine for the Birth of the First Child. <span id="fr_76"></span>[1](#fn_76.md)
 
 <span id="page_284">p. 284</span>
 
@@ -68,10 +68,10 @@ The salmon with long tails will pass under that." He told the other one,
 
 ### Footnotes
 
-<span id="fn_76"></span>[280:1](hut36.htm#fr_76) Told at Hupa, November
+<span id="fn_76"></span>[280:1](hut36.htm#fr_76.md) Told at Hupa, November
 1891, by Emma Lewis.
 
 ------------------------------------------------------------------------
 
 [Next: XXXIV. Formula of Medicine to Cause the Infant to Grow
-Fast](hut37)
+Fast](hut37.md)

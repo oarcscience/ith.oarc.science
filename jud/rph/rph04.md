@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph03)  [Next](rph05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph03)  [Next](rph05.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ Another proof of the age of the Sefer Yetzirah. Interpolations.
 Manuscripts. Mantua edition. Saadia's translation and commentary. The
 designation of Abraham: Friend of God. Khalil Allah. Abraham as author
 of the Sefer Yetzirah. Moses Votril. R. Akkiba as author of the Sefer
-Yetzirah. Proof to the contrary. The [assumption](errata.htm#0) that
+Yetzirah. Proof to the contrary. The [assumption](errata.htm#0.md) that
 there have been two Sefer Yetzirahs. Morinus. Isaac de Lattes. Results
 of the investigation.
 
@@ -211,4 +211,4 @@ the Zohar. Translations of the Zohar.
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the English Translation](rph05)
+[Next: Preface to the English Translation](rph05.md)

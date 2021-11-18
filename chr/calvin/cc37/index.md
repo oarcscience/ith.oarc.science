@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,24 +12,24 @@
 
 #### \[1847-50\]
 
-[Start Reading](cc37000)
+[Start Reading](cc37000.md)
 
 ------------------------------------------------------------------------
 
-[Commentary on Acts 14-28](cc37000)  
-[Chapter 14](cc37001)  
-[Chapter 15](cc37002)  
-[Chapter 16](cc37003)  
-[Chapter 17](cc37004)  
-[Chapter 18](cc37005)  
-[Chapter 19](cc37006)  
-[Chapter 20](cc37007)  
-[Chapter 21](cc37008)  
-[Chapter 22](cc37009)  
-[Chapter 23](cc37010)  
-[Chapter 24](cc37011)  
-[Chapter 25](cc37012)  
-[Chapter 26](cc37013)  
-[Chapter 27](cc37014)  
-[Chapter 28](cc37015)  
-[Indexes](cc37016)  
+[Commentary on Acts 14-28](cc37000.md)  
+[Chapter 14](cc37001.md)  
+[Chapter 15](cc37002.md)  
+[Chapter 16](cc37003.md)  
+[Chapter 17](cc37004.md)  
+[Chapter 18](cc37005.md)  
+[Chapter 19](cc37006.md)  
+[Chapter 20](cc37007.md)  
+[Chapter 21](cc37008.md)  
+[Chapter 22](cc37009.md)  
+[Chapter 23](cc37010.md)  
+[Chapter 24](cc37011.md)  
+[Chapter 25](cc37012.md)  
+[Chapter 26](cc37013.md)  
+[Chapter 27](cc37014.md)  
+[Chapter 28](cc37015.md)  
+[Indexes](cc37016.md)  

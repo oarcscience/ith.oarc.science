@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat08)  [Next](jat10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat08)  [Next](jat10.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,17 +19,17 @@ he brought it to her and said, "I will carry it whenever the moon comes
 up. They will laugh," she said, "I will carry it among the people, and
 they will continually look at it as the moon rises. I will carry the
 heart of the fish inside of the moon." In this manner it became the
-property of his grandmother. <span id="fr_15"></span>[2](#fn_15)
+property of his grandmother. <span id="fr_15"></span>[2](#fn_15.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_15"></span>[202:2](jat09.htm#fr_15) This is one of the
+<span id="fn_15"></span>[202:2](jat09.htm#fr_15.md) This is one of the
 clearest identifications Of YoLgaiistdzan, with the moon. Certain songs
 of the Mescalero mention her under the names, Esdzannadlehi, or L'ena?ai
 (moon) as best suits the artistic requirement.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Naiyenesgani Removes Certain Dangers](jat10)
+[Next: 8. Naiyenesgani Removes Certain Dangers](jat10.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sikhism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](rosi06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sikhism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](rosi06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Sikhs*, by Dorothy Field, \[1914\], at Intangible
 Textual Heritage
 
@@ -40,7 +40,7 @@ Angad's as Ward II, and so forth.
 The quotations given here include, firstly, selections from the hymns
 used as special services by the Sikhs, followed by miscellaneous
 examples from the Gurus, and the saints and reformers who preceded
-them. <span id="fr_32"></span>[1](#fn_32)
+them. <span id="fr_32"></span>[1](#fn_32.md)
 
 <span class="smallcaps">From the Jāpji</span>
 
@@ -53,7 +53,7 @@ composition appears to have been the work of Guru Nānak in advanced age.
 The greater part is here given.
 
 There is but one God whose name is true, the Creator, \[the
-Powerful, <span id="fr_33"></span>[2](#fn_33)\] devoid of fear and
+Powerful, <span id="fr_33"></span>[2](#fn_33.md)\] devoid of fear and
 enmity, immortal, unborn, self-existent; by the favour of the Guru.
 
 Repeat His name
@@ -62,7 +62,7 @@ The True One was in the beginning; the True One was in the primal age.
 
 <span id="page_65">p. 65</span>
 
-The True One is now also, O Nānak; <span id="fr_34"></span>[1](#fn_34)
+The True One is now also, O Nānak; <span id="fr_34"></span>[1](#fn_34.md)
 the True One also shall be.
 
 I
@@ -161,10 +161,10 @@ instruction its knowledge *is acquired*; under the Guru's instruction
 *man learns that God* is everywhere contained.
 
 The Guru is Shiv; the Guru is Vishnu and Brahma; <span
-id="fr_35"></span>[1](#fn_35) the Guru is Pārbati, <span
-id="fr_36"></span>[2](#fn_36) Lakhshmi, <span
-id="fr_37"></span>[3](#fn_37) and Saraswati. <span
-id="fr_38"></span>[4](#fn_38)
+id="fr_35"></span>[1](#fn_35.md) the Guru is Pārbati, <span
+id="fr_36"></span>[2](#fn_36.md) Lakhshmi, <span
+id="fr_37"></span>[3](#fn_37.md) and Saraswati. <span
+id="fr_38"></span>[4](#fn_38.md)
 
 <span id="page_68">p. 68</span>
 
@@ -193,10 +193,10 @@ Bestower on all living beings; may I not forget Him!
 VII
 
 Were man to live through the four ages, <span
-id="fr_39"></span>[1](#fn_39) yea ten times longer;
+id="fr_39"></span>[1](#fn_39.md) yea ten times longer;
 
 Were he to be known on the nine continents, <span
-id="fr_40"></span>[2](#fn_40) and were everybody to follow in his train;
+id="fr_40"></span>[2](#fn_40.md) and were everybody to follow in his train;
 
 <span id="page_69">p. 69</span>
 
@@ -217,15 +217,15 @@ But no such person is seen as can bestow virtue upon Him.
 IX
 
 By hearing *the Name* man becometh as Shiv, Brahma, and Indar. <span
-id="fr_41"></span>[1](#fn_41)
+id="fr_41"></span>[1](#fn_41.md)
 
 By hearing the Name *even* the low become highly lauded.
 
-By hearing the Name the way of Jog <span id="fr_42"></span>[2](#fn_42)
+By hearing the Name the way of Jog <span id="fr_42"></span>[2](#fn_42.md)
 and the secrets of the body *are obtained*,
 
 By hearing the Name man *understandeth the real nature* of the Shasters,
-the Simritis, and the Veds. <span id="fr_43"></span>[3](#fn_43)
+the Simritis, and the Veds. <span id="fr_43"></span>[3](#fn_43.md)
 
 Nānak, the saints are ever happy.
 
@@ -254,7 +254,7 @@ By hearing the Name sorrow and sin are no more.
 By hearing the Name, the depth of the sea of virtue is sounded.
 
 By hearing the Name *men become* Shaikhs, Pirs, <span
-id="fr_44"></span>[1](#fn_44) and Emperors.
+id="fr_44"></span>[1](#fn_44.md) and Emperors.
 
 By hearing the Name a blind man findeth his Way.
 
@@ -287,7 +287,7 @@ By obeying Him man knoweth all worlds.
 By obeying Him man suffereth not punishment.
 
 By obeying Him man shall not depart with Jam. <span
-id="fr_45"></span>[1](#fn_45)
+id="fr_45"></span>[1](#fn_45.md)
 
 So pure is God's name,
 
@@ -354,7 +354,7 @@ All virtues are thine, O Lord; none are mine.
 There is no devotion without virtue.
 
 From the Self-existent *proceeded* Māya, <span
-id="fr_46"></span>[1](#fn_46) whence issued a word which produced Brahma
+id="fr_46"></span>[1](#fn_46.md) whence issued a word which produced Brahma
 and the rest—
 
 'Thou art true, Thou art beautiful, there is ever pleasure in Thy
@@ -365,11 +365,11 @@ week-day,
 
 What the season, and what the month when the world was created,
 
-The Pandits <span id="fr_47"></span>[2](#fn_47) did not discover; had
+The Pandits <span id="fr_47"></span>[2](#fn_47.md) did not discover; had
 they done so, they would have recorded it in the Purans. <span
-id="fr_48"></span>[3](#fn_48)
+id="fr_48"></span>[3](#fn_48.md)
 
-Nor did the Qazis <span id="fr_49"></span>[4](#fn_49) discover it; had
+Nor did the Qazis <span id="fr_49"></span>[4](#fn_49.md) discover it; had
 they done so, they would have recorded it in the Quran:
 
 Neither the Jogi, nor any other *mortal*, knows the lunar day, or the
@@ -430,27 +430,27 @@ How many various and countless instruments are played! How many
 musicians,
 
 How many musical measures with their consorts, <span
-id="fr_50"></span>[1](#fn_50) and how many singers sing Thee!
+id="fr_50"></span>[1](#fn_50.md) and how many singers sing Thee!
 
 Wind, water, and fire sing Thee; Dharmrāj <span
-id="fr_51"></span>[2](#fn_51) sings at Thy gate.
+id="fr_51"></span>[2](#fn_51.md) sings at Thy gate.
 
 The recording angels, who know how to write, and on whose record
 Dharmrāj judgeth, sing Thee.
 
-Ishar, <span id="fr_52"></span>[3](#fn_52) Brahma, and Devi, <span
-id="fr_53"></span>[4](#fn_53) over beautiful and adored *by Thee*, sing
+Ishar, <span id="fr_52"></span>[3](#fn_52.md) Brahma, and Devi, <span
+id="fr_53"></span>[4](#fn_53.md) over beautiful and adored *by Thee*, sing
 Thee.
 
 Indar, seated on his throne with the gods at Thy gate, sing Thee.
 
-Sidhs <span id="fr_54"></span>[5](#fn_54) in meditation sing Thee; holy
+Sidhs <span id="fr_54"></span>[5](#fn_54.md) in meditation sing Thee; holy
 men in contemplation sing Thee.
 
 The continent, the true, and the patient sing Thee; unyielding heroes
 sing Thee.
 
-The Pandits and the supreme Rikhis, <span id="fr_55"></span>[6](#fn_55)
+The Pandits and the supreme Rikhis, <span id="fr_55"></span>[6](#fn_55.md)
 reading their Veds, sing Thee in every age.
 
 <span id="page_76">p. 76</span>
@@ -512,7 +512,7 @@ One Māya in union *with* God gave birth to three acceptable children.
 
 One of them is the creator, the second the provider, the third
 performeth the function of destroyer. <span
-id="fr_56"></span>[1](#fn_56)
+id="fr_56"></span>[1](#fn_56.md)
 
 As it pleaseth God, He directeth them by His orders.
 
@@ -557,7 +557,7 @@ Nānak, *the former* have found the Kind One, while false is the boasting
 of the false.
 
 <span class="smallcaps">From the Asa Ki Wār</span> <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 (<span class="small">Repeated by Sikhs in the morning.</span>)
 
@@ -670,7 +670,7 @@ He doeth what He pleaseth.
 <span id="page_82">p. 82</span>
 
 <span class="smallcaps">From the Rahirās</span> <span
-id="fr_58"></span>[1](#fn_58)
+id="fr_58"></span>[1](#fn_58.md)
 
 (<span class="small">Recited by Sikhs at sunset.</span>)
 
@@ -817,7 +817,7 @@ Nānak singeth, the praises of the Creator who knoweth all things.
 <span id="page_86">p. 86</span>
 
 <span class="smallcaps">From the Sohila</span> <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 (<span class="small">Repeated at bedtime by pious Sikhs.</span>)
 
@@ -893,11 +893,11 @@ O God, my mind is fascinated with thy lotus feet as the bumble-bee with
 the flower: night and day I thirst for them.
 
 Give the water of Thy favour to the sārang <span
-id="fr_60"></span>[1](#fn_60) Nānak, so that he may dwell in Thy name.
+id="fr_60"></span>[1](#fn_60.md) Nānak, so that he may dwell in Thy name.
 
 *Guru Rām Dās*
 
-The city <span id="fr_61"></span>[2](#fn_61) is greatly filled with lust
+The city <span id="fr_61"></span>[2](#fn_61.md) is greatly filled with lust
 and wrath; but those are destroyed on meeting the saints.
 
 By predestination the Guru is found, and the soul is absorbed in the
@@ -1146,7 +1146,7 @@ Nānak is ever a sacrifice unto that True One who Himself acteth and
 causeth to act.
 
 <span class="smallcaps">By Guru Arjan</span> <span
-id="fr_62"></span>[1](#fn_62)
+id="fr_62"></span>[1](#fn_62.md)
 
 He Himself instructeth, and He Himself understandeth;
 
@@ -1402,7 +1402,7 @@ interesting and elaborate account of the Guru's own history and that of
 his predecessors, which is called the *Wonderful Drama*.
 
 <span class="smallcaps">From the Jāpji</span> <span
-id="fr_63"></span>[1](#fn_63)
+id="fr_63"></span>[1](#fn_63.md)
 
 The tenth Guru spoke with his holy mouth—
 
@@ -1491,7 +1491,7 @@ Thou art deliverance, Thou art wisdom,
 Thou alone art, Thou alone art.
 
 The dwellers of the East know not Thy limit, the goddess Hingula <span
-id="fr_64"></span>[1](#fn_64) who dwelleth in the Himalayas meditateth
+id="fr_64"></span>[1](#fn_64.md) who dwelleth in the Himalayas meditateth
 on Thee.
 
 The Jogis practise Jog to be united with Thee; how many suspend their
@@ -1503,9 +1503,9 @@ The Firangis of France worship Thee, ... the
 
 residents of the West recognise Thee as the object of their love.
 
-The Marathas, the Magadhis <span id="fr_65"></span>[1](#fn_65) heartily
+The Marathas, the Magadhis <span id="fr_65"></span>[1](#fn_65.md) heartily
 do Thee penance, the natives of Tilang <span
-id="fr_66"></span>[2](#fn_66) fix Thee in their hearts, and recognise
+id="fr_66"></span>[2](#fn_66.md) fix Thee in their hearts, and recognise
 Thee as the abode of religion.
 
 (The following hymn is one of those recited while the baptismal water is
@@ -1668,9 +1668,9 @@ Were I to make all the islands my paper, and the seven seas my ink;
 
 Were I to cut down all trees, and turn them into pens for writing;
 
-Were I to make Saraswati <span id="fr_67"></span>[1](#fn_67) dictate for
+Were I to make Saraswati <span id="fr_67"></span>[1](#fn_67.md) dictate for
 millions of ages; were I to write with the hand of Ganesh, <span
-id="fr_68"></span>[2](#fn_68)
+id="fr_68"></span>[2](#fn_68.md)
 
 O Thou who holdest the destroying sword, I could not please Thee even a
 little without offering Thee homage.
@@ -1688,7 +1688,7 @@ In this Kal age and at all times there is great confidence in the
 powerful arm of the Sword,
 
 Which in one moment destroyeth millions of demons like Sunibh and
-Nisumbh. <span id="fr_69"></span>[3](#fn_69)
+Nisumbh. <span id="fr_69"></span>[3](#fn_69.md)
 
  
 
@@ -1984,117 +1984,117 @@ class="small">\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ### Footnotes
 
-<span id="fn_32"></span>[64:1](rosi07.htm#fr_32) Throughout the
+<span id="fn_32"></span>[64:1](rosi07.htm#fr_32.md) Throughout the
 quotations the unusual spelling adopted by Mr. Macauliffe, e.g. Makka
 for Mecca, Quran for Koran, Veds for Vedas, Indar for India, Krishan for
 Krishna, etc., is followed.
 
-<span id="fn_33"></span>[64:2](rosi07.htm#fr_33) These words, though
+<span id="fn_33"></span>[64:2](rosi07.htm#fr_33.md) These words, though
 omitted by Mr. Macauliffe, are inserted in deference to Sikh opinion.
 
-<span id="fn_34"></span>[65:1](rosi07.htm#fr_34) In Oriental poetry it
+<span id="fn_34"></span>[65:1](rosi07.htm#fr_34.md) In Oriental poetry it
 is the custom to insert the name of the poet at the end of any section.
 
-<span id="fn_35"></span>[67:1](rosi07.htm#fr_35) Brahma, Vishnu, and
+<span id="fn_35"></span>[67:1](rosi07.htm#fr_35.md) Brahma, Vishnu, and
 Shiv form the Hindu triad, and are generally speaking regarded as the
 gods of creation, preservation, and destruction.
 
-<span id="fn_36"></span>[67:2](rosi07.htm#fr_36) Consort of Shiv.
+<span id="fn_36"></span>[67:2](rosi07.htm#fr_36.md) Consort of Shiv.
 
-<span id="fn_37"></span>[67:3](rosi07.htm#fr_37) The Hindu goddess of
+<span id="fn_37"></span>[67:3](rosi07.htm#fr_37.md) The Hindu goddess of
 wealth, consort of Vishnu.
 
-<span id="fn_38"></span>[67:4](rosi07.htm#fr_38) The Hindu goddess of
+<span id="fn_38"></span>[67:4](rosi07.htm#fr_38.md) The Hindu goddess of
 eloquence and learning.
 
-<span id="fn_39"></span>[68:1](rosi07.htm#fr_39) The Sat, Tretā, Dwāpar,
+<span id="fn_39"></span>[68:1](rosi07.htm#fr_39.md) The Sat, Tretā, Dwāpar,
 and Kal ages, corresponding to the golden, silver, brass, and iron ages
 of Greece and Rome.
 
-<span id="fn_40"></span>[68:2](rosi07.htm#fr_40) Ancient Indian
+<span id="fn_40"></span>[68:2](rosi07.htm#fr_40.md) Ancient Indian
 geographers divided the world into nine regions, or continents.
 
-<span id="fn_41"></span>[69:1](rosi07.htm#fr_41) Indar, an ancient Hindu
+<span id="fn_41"></span>[69:1](rosi07.htm#fr_41.md) Indar, an ancient Hindu
 Deity, King of the Gods. In the Vedas, Lord of the sky.
 
-<span id="fn_42"></span>[69:2](rosi07.htm#fr_42) Jog, originally meant
+<span id="fn_42"></span>[69:2](rosi07.htm#fr_42.md) Jog, originally meant
 the union of the soul of God. It is applied to certain practices adopted
 by ascetics (Jogis) for that end.
 
-<span id="fn_43"></span>[69:3](rosi07.htm#fr_43) Sacred books of the
+<span id="fn_43"></span>[69:3](rosi07.htm#fr_43.md) Sacred books of the
 Hindus.
 
-<span id="fn_44"></span>[70:1](rosi07.htm#fr_44) Muhammadan saints.
+<span id="fn_44"></span>[70:1](rosi07.htm#fr_44.md) Muhammadan saints.
 
-<span id="fn_45"></span>[71:1](rosi07.htm#fr_45) Death.
+<span id="fn_45"></span>[71:1](rosi07.htm#fr_45.md) Death.
 
-<span id="fn_46"></span>[73:1](rosi07.htm#fr_46) Māya, illusion.
+<span id="fn_46"></span>[73:1](rosi07.htm#fr_46.md) Māya, illusion.
 
-<span id="fn_47"></span>[73:2](rosi07.htm#fr_47) Pandit means literally
+<span id="fn_47"></span>[73:2](rosi07.htm#fr_47.md) Pandit means literally
 a learned man. Here Brahmans learned in Sanscrit.
 
-<span id="fn_48"></span>[73:3](rosi07.htm#fr_48) Sacred books of the
+<span id="fn_48"></span>[73:3](rosi07.htm#fr_48.md) Sacred books of the
 Hindus, of which there are fourteen in number.
 
-<span id="fn_49"></span>[73:4](rosi07.htm#fr_49) Muhammadan saints.
+<span id="fn_49"></span>[73:4](rosi07.htm#fr_49.md) Muhammadan saints.
 
-<span id="fn_50"></span>[75:1](rosi07.htm#fr_50) Indian musical measures
+<span id="fn_50"></span>[75:1](rosi07.htm#fr_50.md) Indian musical measures
 (or rāgs) were allotted wives and daughters, i.e. variations of these
 tunes.
 
-<span id="fn_51"></span>[75:2](rosi07.htm#fr_51) God of death.
+<span id="fn_51"></span>[75:2](rosi07.htm#fr_51.md) God of death.
 
-<span id="fn_52"></span>[75:3](rosi07.htm#fr_52) A name of Shiv.
+<span id="fn_52"></span>[75:3](rosi07.htm#fr_52.md) A name of Shiv.
 
-<span id="fn_53"></span>[75:4](rosi07.htm#fr_53) A Hindu goddess.
+<span id="fn_53"></span>[75:4](rosi07.htm#fr_53.md) A Hindu goddess.
 
-<span id="fn_54"></span>[75:5](rosi07.htm#fr_54) An ancient order of
+<span id="fn_54"></span>[75:5](rosi07.htm#fr_54.md) An ancient order of
 Jogis.
 
-<span id="fn_55"></span>[75:6](rosi07.htm#fr_55) Ancient sages.
+<span id="fn_55"></span>[75:6](rosi07.htm#fr_55.md) Ancient sages.
 
-<span id="fn_56"></span>[77:1](rosi07.htm#fr_56) The Hindu Trinity.
+<span id="fn_56"></span>[77:1](rosi07.htm#fr_56.md) The Hindu Trinity.
 
-<span id="fn_57"></span>[78:1](rosi07.htm#fr_57) The word *Wār*
+<span id="fn_57"></span>[78:1](rosi07.htm#fr_57.md) The word *Wār*
 originally meant a dirge for the brave slain in battle; then it meant
 any song of praise; and in this collection it means God's praises
 generally.
 
-<span id="fn_58"></span>[82:1](rosi07.htm#fr_58) The Rahirās is a
+<span id="fn_58"></span>[82:1](rosi07.htm#fr_58.md) The Rahirās is a
 collection of hymns by several Gurus.
 
-<span id="fn_59"></span>[86:1](rosi07.htm#fr_59) The word is derived
+<span id="fn_59"></span>[86:1](rosi07.htm#fr_59.md) The word is derived
 from *sowan wela*—in Punjābi, 'the time for sleep.'
 
-<span id="fn_60"></span>[88:1](rosi07.htm#fr_60) The pied Indian cuckoo,
+<span id="fn_60"></span>[88:1](rosi07.htm#fr_60.md) The pied Indian cuckoo,
 a bird famous in Indian literature.
 
-<span id="fn_61"></span>[88:2](rosi07.htm#fr_61) The body.
+<span id="fn_61"></span>[88:2](rosi07.htm#fr_61.md) The body.
 
-<span id="fn_62"></span>[94:1](rosi07.htm#fr_62) Guru Arjan was the
+<span id="fn_62"></span>[94:1](rosi07.htm#fr_62.md) Guru Arjan was the
 compiler of the Granth Sāhib. He wrote a great number of hymns himself
 and more than half the sacred volume is made up of his own compositions.
 
-<span id="fn_63"></span>[101:1](rosi07.htm#fr_63) Guru Gobind Singh's
+<span id="fn_63"></span>[101:1](rosi07.htm#fr_63.md) Guru Gobind Singh's
 *Jāpji* was composed in order to supply the Sikhs with an equivalent to
 the Hindu *Vishnu Sahasar Nām*——Vishnu's thousand names. It is held by
 them in the same estimation as the Japji of Guru Nānak.
 
-<span id="fn_64"></span>[103:1](rosi07.htm#fr_64) Hingula is another of
+<span id="fn_64"></span>[103:1](rosi07.htm#fr_64.md) Hingula is another of
 the names of Pārbati or Durga, consort of Shiv.
 
-<span id="fn_65"></span>[104:1](rosi07.htm#fr_65) Natives of the country
+<span id="fn_65"></span>[104:1](rosi07.htm#fr_65.md) Natives of the country
 of Magadha, now South Bihar.
 
-<span id="fn_66"></span>[104:2](rosi07.htm#fr_66) The Telegu country, on
+<span id="fn_66"></span>[104:2](rosi07.htm#fr_66.md) The Telegu country, on
 the east coast of India, between Orissa and Madras.
 
-<span id="fn_67"></span>[108:1](rosi07.htm#fr_67) Goddess of eloquence
+<span id="fn_67"></span>[108:1](rosi07.htm#fr_67.md) Goddess of eloquence
 and learning.
 
-<span id="fn_68"></span>[108:2](rosi07.htm#fr_68) The elephant-headed
+<span id="fn_68"></span>[108:2](rosi07.htm#fr_68.md) The elephant-headed
 god of learning.
 
-<span id="fn_69"></span>[108:3](rosi07.htm#fr_69) Hindu names of demons.
+<span id="fn_69"></span>[108:3](rosi07.htm#fr_69.md) Hindu names of demons.
 
  

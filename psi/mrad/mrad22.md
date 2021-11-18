@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad21)  [Next](mrad23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad21)  [Next](mrad23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -421,7 +421,7 @@ to have a name for that 'other thing' which brings the message.
 finish the picture, but decides sometimes to eliminate a detail which
 does not belong to what it has guessed should be there. For example, I
 will discuss the drawings which have been given as figures [35,
-35a](mrad12.htm#img_fig035), in this book. I 'visioned' what looked like
+35a](mrad12.htm#img_fig035.md), in this book. I 'visioned' what looked like
 a figure 5, except that at the top where there should be a small
 vertical line projecting toward the right, there was a flare of very
 long lines converging at one end. I consciously decided that the long
@@ -607,4 +607,4 @@ due to the habit of associating all pictures with your eyes."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII](mrad23)
+[Next: Chapter XXII](mrad23.md)

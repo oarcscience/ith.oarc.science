@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb21)  [Next](wfb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb21)  [Next](wfb23.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ benefactor.
 
 ------------------------------------------------------------------------
 
-[Next: Bala Lake](wfb23)
+[Next: Bala Lake](wfb23.md)

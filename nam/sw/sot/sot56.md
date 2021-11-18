@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](sot55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](sot55.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of the Tewa*, by Herbert Joseph Spinden, \[1933\], at Intangible
 Textual Heritage
 
@@ -44,22 +44,22 @@ Ethnology.
 
 ##### NOTES ON INTRODUCTORY ESSAY
 
-<span id="fn_0"></span>[1](sot03.htm#fr_0) Kroeber, A. L. *Handbook of
+<span id="fn_0"></span>[1](sot03.htm#fr_0.md) Kroeber, A. L. *Handbook of
 the Indians of California*, B.A.E., Bull. 78, p. 511.
 
-<span id="fn_1"></span>[2](sot03.htm#fr_1) La Flesche, F. *The Osage
+<span id="fn_1"></span>[2](sot03.htm#fr_1.md) La Flesche, F. *The Osage
 Tribe*, Published in four parts: I, B.A.E., 36th Ann. Rep. II, B.A.E.,
 39th Ann. Rep. III, B.A.E., 43rd Ann. Rep. IV., B.A.E., 45th Ann. Rep.
 Reference in I, pp. 85–86.
 
-<span id="fn_2"></span>[3](sot03.htm#fr_2) Idem, III, p. 530.
+<span id="fn_2"></span>[3](sot03.htm#fr_2.md) Idem, III, p. 530.
 
-<span id="fn_3"></span>[4](sot03.htm#fr_3) Brinton, D.G. *Ancient
+<span id="fn_3"></span>[4](sot03.htm#fr_3.md) Brinton, D.G. *Ancient
 Nahuatl Poetry*, L.A.A.L., vol. VII, p. 41.
 
-<span id="fn_4"></span>[5](sot03.htm#fr_4) Idem, pp. 45–47.
+<span id="fn_4"></span>[5](sot03.htm#fr_4.md) Idem, pp. 45–47.
 
-<span id="fn_5"></span>[6](sot03.htm#fr_5) Rendered from the Spanish of
+<span id="fn_5"></span>[6](sot03.htm#fr_5.md) Rendered from the Spanish of
 Lafone Quevado, S. A., *El Culto de Tonapa*, Revista Museo de la Plata,
 III, pp. 323–379, with reference to the translations of Markham, Sir C.
 R., *The Incas of Peru*, London, 1910, pp. 100–101 and Means, P. A.,
@@ -67,13 +67,13 @@ R., *The Incas of Peru*, London, 1910, pp. 100–101 and Means, P. A.,
 Peruvian poems are admirably discussed in the last mentioned work, and
 their sources given.
 
-<span id="fn_6"></span>[7](sot03.htm#fr_6) Wissler, C., *The American
+<span id="fn_6"></span>[7](sot03.htm#fr_6.md) Wissler, C., *The American
 Indian*, New York, 1917, pp. 143–144.
 
-<span id="fn_7"></span>[8](sot03.htm#fr_7) Grosse, E. *The Beginnings of
+<span id="fn_7"></span>[8](sot03.htm#fr_7.md) Grosse, E. *The Beginnings of
 Art*, New York, 1897, pp. 224.
 
-<span id="fn_8"></span>[9](sot03.htm#fr_8) A study of the musical tones
+<span id="fn_8"></span>[9](sot03.htm#fr_8.md) A study of the musical tones
 of two-lipped drums has recently been published by the National Museum
 of Mexico: Castaneda, D. and Mendoza, V. T. *Los Teponaztles en las
 civilizations precortesianas*, Anales del Museo Nacional de Archeologia,
@@ -81,17 +81,17 @@ Historia y Ethnografia, Vol. VIII, No. 1, pp. 1–80. John E. Cornyn
 insists that the Aztecs employed the trochaic meter; in his *Song of
 Quetzalcoatl* he uses Hiawatha-like versification.
 
-<span id="fn_9"></span>[10](sot03.htm#fr_9) Brinton, D. G. Op. cit., pp.
+<span id="fn_9"></span>[10](sot03.htm#fr_9.md) Brinton, D. G. Op. cit., pp.
 106, 121, 125.
 
-<span id="fn_10"></span>[11](sot03.htm#fr_10) Densmore, R. *Chippewa
+<span id="fn_10"></span>[11](sot03.htm#fr_10.md) Densmore, R. *Chippewa
 Music;* Published in two parts: I, B.A.E., Bull. 45, II, B.A.E., Bull.
 53. This reference in I, p. 41.
 
-<span id="fn_11"></span>[12](sot03.htm#fr_11) Whiffen, T. *The Northwest
+<span id="fn_11"></span>[12](sot03.htm#fr_11.md) Whiffen, T. *The Northwest
 Amazons*, p. 190.
 
-<span id="fn_12"></span>[13](sot03.htm#fr_12) Thalbitzer, W. *The
+<span id="fn_12"></span>[13](sot03.htm#fr_12.md) Thalbitzer, W. *The
 Ammassalik Eskimo*, Part II, No. 3, *Language and Folklore*, Copenhagen,
 1923, p. 206.
 
@@ -99,51 +99,51 @@ This report is published in a Danish serial devoted to the scientific
 description of Greenland, some articles being in Danish and some in
 English.
 
-<span id="fn_13"></span>[14](sot03.htm#fr_13) Swanton, J. R. *Haida
+<span id="fn_13"></span>[14](sot03.htm#fr_13.md) Swanton, J. R. *Haida
 Songs*, P. A. E. S., III, pp. 5 and 22.
 
-<span id="fn_14"></span>[15](sot03.htm#fr_14) Thalbitzer, W. Op. cit.,
+<span id="fn_14"></span>[15](sot03.htm#fr_14.md) Thalbitzer, W. Op. cit.,
 pp. 211–212.
 
 <span id="page_110">p. 110</span>
 
-<span id="fn_15"></span>[16](sot03.htm#fr_15) B.A.E., 43rd Ann. Rep.,
+<span id="fn_15"></span>[16](sot03.htm#fr_15.md) B.A.E., 43rd Ann. Rep.,
 pp. 341–343.
 
-<span id="fn_16"></span>[17](sot03.htm#fr_16) Densmore, F. *Teton Sioux
+<span id="fn_16"></span>[17](sot03.htm#fr_16.md) Densmore, F. *Teton Sioux
 Music;* B.A.E., Bull. 61, pp. 165–166.
 
-<span id="fn_17"></span>[18](sot03.htm#fr_17) Densmore, F. *Chippewa
+<span id="fn_17"></span>[18](sot03.htm#fr_17.md) Densmore, F. *Chippewa
 Music*, I, p. 127.
 
-<span id="fn_18"></span>[19](sot03.htm#fr_18) Mooney, T. *The Ghost
+<span id="fn_18"></span>[19](sot03.htm#fr_18.md) Mooney, T. *The Ghost
 Dance Religion and the Sioux Outbreak of 1890*, B.A.E., 15th Ann. Rep.,
 p. 976.
 
-<span id="fn_19"></span>[20](sot03.htm#fr_19) Thalbitzer, Op. cit., pp.
+<span id="fn_19"></span>[20](sot03.htm#fr_19.md) Thalbitzer, Op. cit., pp.
 260–261.
 
-<span id="fn_20"></span>[21](sot03.htm#fr_20) Russell, F. *The Pima
+<span id="fn_20"></span>[21](sot03.htm#fr_20.md) Russell, F. *The Pima
 Indians*, B.A.E., 26th Ann. Rep., p. 290.
 
-<span id="fn_21"></span>[22](sot03.htm#fr_21) Dorsey, G. A. *The
+<span id="fn_21"></span>[22](sot03.htm#fr_21.md) Dorsey, G. A. *The
 Pawnee-Mythology*, Pub. 59 Carnegie Inst. of Washington, pp. 222–225.
 
-<span id="fn_22"></span>[23](sot03.htm#fr_22) Densmore, F. *Papago
+<span id="fn_22"></span>[23](sot03.htm#fr_22.md) Densmore, F. *Papago
 Music*, B.A.E., Bull. 90, p. 173.
 
-<span id="fn_23"></span>[24](sot03.htm#fr_23) Densmore, F. *Chippewa
+<span id="fn_23"></span>[24](sot03.htm#fr_23.md) Densmore, F. *Chippewa
 Music*, II, pp. 253–254.
 
-<span id="fn_24"></span>[25](sot03.htm#fr_24) La Flesche, F. *The Osage
+<span id="fn_24"></span>[25](sot03.htm#fr_24.md) La Flesche, F. *The Osage
 Tribe*, IV, pp. 544–547.
 
-<span id="fn_25"></span>[26](sot03.htm#fr_25) Idem, I, p. 211.
+<span id="fn_25"></span>[26](sot03.htm#fr_25.md) Idem, I, p. 211.
 
-<span id="fn_26"></span>[27](sot03.htm#fr_26) Thalbitzer, W. Op. cit.,
+<span id="fn_26"></span>[27](sot03.htm#fr_26.md) Thalbitzer, W. Op. cit.,
 p. 241.
 
-<span id="fn_27"></span>[28](sot03.htm#fr_27) Rink, H. J. *Tales and
+<span id="fn_27"></span>[28](sot03.htm#fr_27.md) Rink, H. J. *Tales and
 Traditions of the Eskimo*, London, 1875, pp. 67–68. The poem is recast
 in the form printed above in Brinton, D. G. *American Aboriginal
 Poetry*, Proc. Numismatic and Antiquarian Soc. of Philadelphia, pp.
@@ -180,99 +180,99 @@ And hadst to keep thy hold by help of my kayak strings.
 
 </div>
 
-<span id="fn_28"></span>[29](sot03.htm#fr_28) Thalbitzer, W. Op. cit.,
+<span id="fn_28"></span>[29](sot03.htm#fr_28.md) Thalbitzer, W. Op. cit.,
 p. 329.
 
-<span id="fn_29"></span>[30](sot03.htm#fr_29) Idem, pp. 246–247.
+<span id="fn_29"></span>[30](sot03.htm#fr_29.md) Idem, pp. 246–247.
 
-<span id="fn_30"></span>[31](sot03.htm#fr_30) Rink, H. J. Op. cit., p.
+<span id="fn_30"></span>[31](sot03.htm#fr_30.md) Rink, H. J. Op. cit., p.
 68. Also recast by Brinton in the article referred to in note 28.
 
-<span id="fn_31"></span>[32](sot03.htm#fr_31) Boas, F. *Ethnology of the
+<span id="fn_31"></span>[32](sot03.htm#fr_31.md) Boas, F. *Ethnology of the
 Kwakiutl*, B.A.E., 35th Ann. Rep., pp. 12981299.
 
-<span id="fn_32"></span>[33](sot03.htm#fr_32) Idem, pp. 1304–1306.
+<span id="fn_32"></span>[33](sot03.htm#fr_32.md) Idem, pp. 1304–1306.
 
 <span id="page_111">p. 111</span>
 
-<span id="fn_33"></span>[34](sot03.htm#fr_33) Densmore, F. *Chippewa
+<span id="fn_33"></span>[34](sot03.htm#fr_33.md) Densmore, F. *Chippewa
 Music*, I, pp. 88–90.
 
-<span id="fn_34"></span>[35](sot03.htm#fr_34) Densmore, F. *Chippewa
+<span id="fn_34"></span>[35](sot03.htm#fr_34.md) Densmore, F. *Chippewa
 Music*, I, p. 154.
 
-<span id="fn_35"></span>[36](sot03.htm#fr_35) Brinton, D. G. *Aboriginal
+<span id="fn_35"></span>[36](sot03.htm#fr_35.md) Brinton, D. G. *Aboriginal
 American Authors*, Philadelphia, 1883, p. 48.
 
-<span id="fn_36"></span>[37](sot03.htm#fr_36) P. 89.
+<span id="fn_36"></span>[37](sot03.htm#fr_36.md) P. 89.
 
-<span id="fn_37"></span>[38](sot03.htm#fr_37) *Couto de Magalães—O
+<span id="fn_37"></span>[38](sot03.htm#fr_37.md) *Couto de Magalães—O
 Selvagem*, Rio Janeiro, 1876, pp. 140–142.
 
-<span id="fn_38"></span>[39](sot03.htm#fr_38) Swanton, J. R. *Tlingit
+<span id="fn_38"></span>[39](sot03.htm#fr_38.md) Swanton, J. R. *Tlingit
 Myths and Texts*, B.A.E., Bull. 39, pp. 409–410.
 
-<span id="fn_39"></span>[40](sot03.htm#fr_39) Idem, p. 410.
+<span id="fn_39"></span>[40](sot03.htm#fr_39.md) Idem, p. 410.
 
-<span id="fn_40"></span>[41](sot03.htm#fr_40) Idem, p. 411.
+<span id="fn_40"></span>[41](sot03.htm#fr_40.md) Idem, p. 411.
 
-<span id="fn_41"></span>[42](sot03.htm#fr_41) Boas, F. Op. cit., p.
+<span id="fn_41"></span>[42](sot03.htm#fr_41.md) Boas, F. Op. cit., p.
 1292.
 
-<span id="fn_42"></span>[43](sot03.htm#fr_42) Thalbitzer, W. Op. cit.,
+<span id="fn_42"></span>[43](sot03.htm#fr_42.md) Thalbitzer, W. Op. cit.,
 p. 407.
 
-<span id="fn_43"></span>[44](sot03.htm#fr_43) Densmore, F. *Papago
+<span id="fn_43"></span>[44](sot03.htm#fr_43.md) Densmore, F. *Papago
 Music*, pp. 126, 129, 130.
 
-<span id="fn_44"></span>[45](sot03.htm#fr_44) Matthews, W. *Navaho
+<span id="fn_44"></span>[45](sot03.htm#fr_44.md) Matthews, W. *Navaho
 Gambling Songs*, A.A., Vol. 2, O.S., p. 15.
 
-<span id="fn_45"></span>[46](sot03.htm#fr_45) Idem, p. 9.
+<span id="fn_45"></span>[46](sot03.htm#fr_45.md) Idem, p. 9.
 
-<span id="fn_46"></span>[47](sot03.htm#fr_46) Matthews, W. *Songs of
+<span id="fn_46"></span>[47](sot03.htm#fr_46.md) Matthews, W. *Songs of
 Sequence of the Navajos*. J.A.F. Vol. VII. p. 186.
 
-<span id="fn_47"></span>[48](sot03.htm#fr_47) Matthews, W. *The Mountain
+<span id="fn_47"></span>[48](sot03.htm#fr_47.md) Matthews, W. *The Mountain
 Chant*, B.A.E., 5th Ann. Rep. p. 393.
 
-<span id="fn_48"></span>[49](sot03.htm#fr_48) Idem, p. 459.
+<span id="fn_48"></span>[49](sot03.htm#fr_48.md) Idem, p. 459.
 
-<span id="fn_49"></span>[50](sot03.htm#fr_49) Matthews, *The Night
+<span id="fn_49"></span>[50](sot03.htm#fr_49.md) Matthews, *The Night
 Chant*, A.M.N.H., Mem., Vol. 6, pp. 78–79.
 
-<span id="fn_50"></span>[51](sot03.htm#fr_50) Idem, pp. 279–282.
+<span id="fn_50"></span>[51](sot03.htm#fr_50.md) Idem, pp. 279–282.
 
-<span id="fn_51"></span>[52](sot03.htm#fr_51) Idem, p. 294. *Sialia*, I
+<span id="fn_51"></span>[52](sot03.htm#fr_51.md) Idem, p. 294. *Sialia*, I
 may say, is the scientific name for the genus and therefore a latin
 word. Matthews puts it in italics.
 
-<span id="fn_52"></span>[53](sot03.htm#fr_52) Penard, A. P. and T. E.
+<span id="fn_52"></span>[53](sot03.htm#fr_52.md) Penard, A. P. and T. E.
 *Popular Notions Pertaining to Primitive Stone Artifacts in Surinam*,
 Jour. Am. Folk Lore, Vol. 30 (1917), pp. 251261. I make two slight
 changes in the texts, using "lightning eel" instead of the native term
 *Pulake* and "clear the way" for "move out of the way."
 
-<span id="fn_53"></span>[54](sot03.htm#fr_53) Mooney, T. Op. cit., p.
+<span id="fn_53"></span>[54](sot03.htm#fr_53.md) Mooney, T. Op. cit., p.
 711.
 
-<span id="fn_54"></span>[55](sot03.htm#fr_54) Idem, p. 721.
+<span id="fn_54"></span>[55](sot03.htm#fr_54.md) Idem, p. 721.
 
-<span id="fn_55"></span>[56](sot03.htm#fr_55) Kroeber, A. L. Op. cit.,
+<span id="fn_55"></span>[56](sot03.htm#fr_55.md) Kroeber, A. L. Op. cit.,
 p. 515.
 
-<span id="fn_56"></span>[57](sot03.htm#fr_56) Mooney, T. Op. cit., p.
+<span id="fn_56"></span>[57](sot03.htm#fr_56.md) Mooney, T. Op. cit., p.
 1052, Song No. 1. The other Paiute songs given below are Nos. 5, 6, 7, 8
 and 9 on pages 1054–1055.
 
-<span id="fn_57"></span>[58](sot03.htm#fr_57) Idem, p. 961 et seq.
+<span id="fn_57"></span>[58](sot03.htm#fr_57.md) Idem, p. 961 et seq.
 Arapaho songs Nos. 3, 8, 28, and 72 on pages 958–1011.
 
-<span id="fn_58"></span>[59](sot03.htm#fr_58) Hale, H. *The Iroquois
+<span id="fn_58"></span>[59](sot03.htm#fr_58.md) Hale, H. *The Iroquois
 Book of Rites*, L.A.A.L., Vol. II, p. 153. Other examples of Iroquois
 religious chants are found in the writings of Arthur C. Parker, etc.
 
-<span id="fn_59"></span>[60](sot03.htm#fr_59) Lehmann, W. *Eine
+<span id="fn_59"></span>[60](sot03.htm#fr_59.md) Lehmann, W. *Eine
 Tolteken-Klangesang, Festschrift Eduard Seler*, Stuttgart, 1892, pp.
 281–319, reviews the texts of these ancient pieces.
 
@@ -290,14 +290,14 @@ sang the dirge and their hearts, their vitals, mourned its burden.
 
 </div>
 
-<span id="fn_60"></span>[61](sot03.htm#fr_60) For the chronological
+<span id="fn_60"></span>[61](sot03.htm#fr_60.md) For the chronological
 significance of these prophesies see my *Maya Dates and What they
 Reveal*, Brooklyn Museum, Science Bulletin, Vol. IV., No. 1, pp. 18–21.
 
-<span id="fn_61"></span>[62](sot03.htm#fr_61) Brinton, D. G. *The Annals
+<span id="fn_61"></span>[62](sot03.htm#fr_61.md) Brinton, D. G. *The Annals
 of the Cakchiquels*, L.A.A.L., Vol. VI, p. 77.
 
-<span id="fn_62"></span>[63](sot03.htm#fr_62) Brasseur de Bourbourg,
+<span id="fn_62"></span>[63](sot03.htm#fr_62.md) Brasseur de Bourbourg,
 *Popul Vuh*, Paris, i861, pp. 31–33. There is a recent Guatamalan
 edition by Villacorta and Rodas entitled <span id="page_112">p.
 112</span> *Popul Buj*. Also discussed in Alexander's volume on Latin
@@ -306,44 +306,44 @@ seq.
 
 <span id="page_112">p. 112</span>
 
-<span id="fn_63"></span>[64](sot03.htm#fr_63) Hills, E. C. *The Quechua
+<span id="fn_63"></span>[64](sot03.htm#fr_63.md) Hills, E. C. *The Quechua
 Drama Ollanta*. The Romanic Review V, pp. 127–176 covers the subject of
 the date of this work very fully.
 
-<span id="fn_64"></span>[65](sot03.htm#fr_64) Kroeber, A. L. Op. cit.,
+<span id="fn_64"></span>[65](sot03.htm#fr_64.md) Kroeber, A. L. Op. cit.,
 p. 757.
 
-<span id="fn_65"></span>[66](sot03.htm#fr_65) Idem, p. 96, but also see
+<span id="fn_65"></span>[66](sot03.htm#fr_65.md) Idem, p. 96, but also see
 his critical notes on pp. 659–660 in the same volume.
 
-<span id="fn_66"></span>[67](sot03.htm#fr_66) La Flesche, F. *The Osage
+<span id="fn_66"></span>[67](sot03.htm#fr_66.md) La Flesche, F. *The Osage
 Tribe*, I, p. 288. In the four great sections of La Flesche's work the
 idea of the proper choice to be made in a field of material advantage
 finds expression over and over again. For a somewhat fuller version see
 II, pp. 258–259.
 
-<span id="fn_67"></span>[68](sot03.htm#fr_67) Boas F. *Stylistic Aspects
+<span id="fn_67"></span>[68](sot03.htm#fr_67.md) Boas F. *Stylistic Aspects
 of Primitive Literature*. J.A.F., Vol. 38, p. 330.
 
-<span id="fn_68"></span>[69](sot03.htm#fr_68) Seler, E. *Die Religiosen
+<span id="fn_68"></span>[69](sot03.htm#fr_68.md) Seler, E. *Die Religiosen
 Gesange der alten Mexicaner*, Gesammelte Abhandlungen, Vol. II. The Song
 to Xipe Totec, p. 1071–1078, the Song of Xochipilli in my wife's recent
 study of *The Place of Tajin in Totonac Archaeology* in A.A., vol. XXXV,
 N.S., pp. 255–256.
 
-<span id="fn_69"></span>[70](sot03.htm#fr_69) There are two slightly
+<span id="fn_69"></span>[70](sot03.htm#fr_69.md) There are two slightly
 different renderings by D. G. Brinton, the first in his *Maya
 Chronicles*, pp. 126–127 and the second, which is used here in his
 *Essays of an Americanist*, Philadelphia, 1890, p. 303.
 
-<span id="fn_70"></span>[71](sot03.htm#fr_70) Fletcher, A. C. *The Hako:
+<span id="fn_70"></span>[71](sot03.htm#fr_70.md) Fletcher, A. C. *The Hako:
 A Pawnee Ceremony*, B.A.E., 22nd Ann. Rep. Pt. II, pp. 42–48 and
 290–291.
 
-<span id="fn_71"></span>[72](sot03.htm#fr_71) Russell, F. Op. cit., p.
+<span id="fn_71"></span>[72](sot03.htm#fr_71.md) Russell, F. Op. cit., p.
 324.
 
-<span id="fn_72"></span>[73](sot03.htm#fr_72) Spinden, H. J. *Home Songs
+<span id="fn_72"></span>[73](sot03.htm#fr_72.md) Spinden, H. J. *Home Songs
 of the Tewa Indians*, The American Museum Journal, Vol. XV, pp. 73–78,
 contains Songs II to X, as well as XVII, XXI and XXII. In *Indian Dances
 of the Southwest* in the same volume, pp. 103–115 I give the first
@@ -351,14 +351,14 @@ stanza from the *Turtle Dance at Nambe* (No. XX): In *The Forum* of
 September, 1925 the *Song of the Sky Loom*, No. XXIX in the present
 collection. The remaining poems have never before been put to print.
 
-<span id="fn_73"></span>[74](sot03.htm#fr_73) Stephenson, M. C., *The
+<span id="fn_73"></span>[74](sot03.htm#fr_73.md) Stephenson, M. C., *The
 Zuñi Indians*, B.A.E. 23rd. Ann. Rep. p. 176.
 
 ##### NOTES ON TEWA POEMS
 
 In translating the Tewa language I have made use of the ordinary
 conventions of phonetic writing, putting down the sounds as my ear
-caught them It is to be expected that [inconsistencies](errata.htm#2)
+caught them It is to be expected that [inconsistencies](errata.htm#2.md)
 should occur owing first to the varying enunciation of different
 informants from the same village an secondly to the dialectic variation
 among the five villages of Tesuque, Nambe, San Ildefonso, Santa Clara

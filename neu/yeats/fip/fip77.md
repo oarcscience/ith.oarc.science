@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip76)  [Next](fip78) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip76)  [Next](fip78.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ followed by all the birds, who by this means regained their liberty.
 ------------------------------------------------------------------------
 
 [Next: The Story of Conn-eda, or the Golden Apples of Lough Erne, by
-Abraham M'Coy, tr. by Nicholas O'Kearney](fip78)
+Abraham M'Coy, tr. by Nicholas O'Kearney](fip78.md)

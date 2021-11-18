@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat76)  [Next](jat78) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat76)  [Next](jat78.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ brush through which no one is allowed to look from the outside. Someone
 beat with the moccasins and the others danced. When this part of the
 ceremony was over a noise was made by rubbing the leg bone of a mountain
 sheep along a notched stick. The tc'actcini and ts'anat'î <span
-id="fr_81"></span>[1](#fn_81) came in twice where
+id="fr_81"></span>[1](#fn_81.md) came in twice where
 
 <span id="page_264">p. 264</span>
 
@@ -45,13 +45,13 @@ fence also became pine trees. For that reason one must not look from the
 outside through the corral fence in which the medicineman is singing. Of
 the mountains that stand there the first one is named Nîsdjat'ôhî, and
 then Isaihî Lîbîgahî "horse's house", L'ôkenkelehi. <span
-id="fr_82"></span>[1](#fn_82)
+id="fr_82"></span>[1](#fn_82.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_81"></span>[263:1](jat77.htm#fr_81) There are four
+<span id="fn_81"></span>[263:1](jat77.htm#fr_81.md) There are four
 tc'actcini who have their bodies including their legs, arms and faces,
 painted with horizontal black stripes on a background of white clay.
 Their hair is worn projecting from the sides of their heads like horns.
@@ -60,9 +60,9 @@ covered with white clay. They wear bands of yucca leaves about their
 necks, waists, elbows, wrists, knees, and ankles. They have two eagle
 feathers in their hair. Neither of them wear masks as do the Navajo.
 
-<span id="fn_82"></span>[264:1](jat77.htm#fr_82) Forty-eight mountains
+<span id="fn_82"></span>[264:1](jat77.htm#fr_82.md) Forty-eight mountains
 are mentioned in song. Most of them are named in the text, p. 177.
 
 ------------------------------------------------------------------------
 
-[Next: 76. Magic at a Medicine Ceremony](jat78)
+[Next: 76. Magic at a Medicine Ceremony](jat78.md)

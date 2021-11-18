@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](cwiu02)  [Next](cwiu04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](cwiu02)  [Next](cwiu04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From the Closed World to the Infinite Universe*, by Alexander Koyré,
 \[1957\], at Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0801803470/internetsacredte)
 It is generally admitted that the seventeenth century underwent, and
 accomplished, a very radical spiritual revolution of which modern
 science is at the same time the root and the
-fruit.[1](cwiu16.htm#an_1_1) This revolution can be—and was—described in
+fruit.[1](cwiu16.htm#an_1_1.md) This revolution can be—and was—described in
 a number of different ways. Thus, for instance, some historians have
 seen its most characteristic feature in the secularization of
 consciousness, its turning away from transcendent goals to immanent
@@ -61,7 +61,7 @@ concepts, of the conception of the world as a finite, closed, and
 hierarchically ordered whole (a whole in which the hierarchy of value
 determined the hierarchy and structure of being, rising from the dark,
 heavy and imperfect earth to the higher and higher perfection of the
-star and heavenly spheres),[2](cwiu16.htm#an_1_2) and its replacement by
+star and heavenly spheres),[2](cwiu16.htm#an_1_2.md) and its replacement by
 an indefinite and even infinite universe which is bound together by the
 identity of its fundamental components and laws, and in which all these
 components are placed on the same level of being. This, in turn, implies
@@ -73,7 +73,7 @@ value and the world of facts.
 It is this aspect of the seventeenth century revolution, the story of
 the destruction of the Cosmos and the infinitization of the universe
 that I will attempt to present here, at least in its main line of
-development.[3](cwiu16.htm#an_1_3)
+development.[3](cwiu16.htm#an_1_3.md)
 
 <span id="page_3">p. 3</span>
 
@@ -107,4 +107,4 @@ us in the form of a closely connected discussion.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Sky and the Heavens](cwiu04)
+[Next: I. The Sky and the Heavens](cwiu04.md)

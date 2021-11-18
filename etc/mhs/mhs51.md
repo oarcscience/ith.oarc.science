@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs50)  [Next](mhs52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs50)  [Next](mhs52.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ wish each other happiness and good fortune.
 
 ------------------------------------------------------------------------
 
-[Next: III. Medieval Belief In Day-fatality](mhs52)
+[Next: III. Medieval Belief In Day-fatality](mhs52.md)

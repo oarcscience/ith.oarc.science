@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](aenl08)  [Previous](aen07) 
-[Next](aen09) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](aenl08)  [Previous](aen07.md) 
+[Next](aen09.md) 
 
 ------------------------------------------------------------------------
 
@@ -1010,4 +1010,4 @@ And bears aloft the fame and fortune of his race.
 
 ------------------------------------------------------------------------
 
-[Next: Book IX](aen09)
+[Next: Book IX](aen09.md)

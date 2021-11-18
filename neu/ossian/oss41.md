@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss40)  [Next](oss42) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss40)  [Next](oss42.md) 
 
 ------------------------------------------------------------------------
 
@@ -362,4 +362,4 @@ winds through the seats of roes."
 
 ------------------------------------------------------------------------
 
-[Next: Conlath and Cuthona](oss42)
+[Next: Conlath and Cuthona](oss42.md)

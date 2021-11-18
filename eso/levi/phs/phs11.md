@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Esoteric](../../index) 
-[Eliphas Levi](../index)  [Index](index)  [Previous](phs10) 
-[Next](phs12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Esoteric](../../index.md) 
+[Eliphas Levi](../index)  [Index](index)  [Previous](phs10.md) 
+[Next](phs12.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,8 +32,8 @@ not practise
 
 <span id="page_99">p. 99</span>
 
-magic; <span id="fr_81"></span>[1](#fn_81) he is a man of study and not
-a man of phenomena. <span id="fr_82"></span>[2](#fn_82) He does not
+magic; <span id="fr_81"></span>[1](#fn_81.md) he is a man of study and not
+a man of phenomena. <span id="fr_82"></span>[2](#fn_82.md) He does not
 claim to be either a
 
 <span id="page_100">p. 100</span>
@@ -46,7 +46,7 @@ the truest Science that the world possesses, and he deeply regrets that
 they are so little known. For this it is that he seeks to make them
 better known, taking only the title of Professor of the Highest Science.
 The Science of Magism is contained in the books of the Kabala, in the
-Symbols of Egypt and of India, <span id="fr_83"></span>[1](#fn_83) in
+Symbols of Egypt and of India, <span id="fr_83"></span>[1](#fn_83.md) in
 the books of
 
 <span id="page_101">p. 101</span>
@@ -86,7 +86,7 @@ deranges sagacity; a prophet disinterested, that is to say a true
 prophet, always makes himself enemies, because there is always in this
 world more evil than good to predict; the occult sciences should always
 be kept hidden; the Initiate who speaks, profanes; *and he who knows not
-how to keep silence, knows nothing*. <span id="fr_84"></span>[1](#fn_84)
+how to keep silence, knows nothing*. <span id="fr_84"></span>[1](#fn_84.md)
 
 Noah foresaw the Deluge but took good care not to predict it. He held
 his tongue and built his ark. Joseph foresaw the seven years of famine
@@ -109,7 +109,7 @@ crucified!" But it was not for them that the Saviour had made this
 prediction, but for the small circle of his apostles and faithful
 followers; unfortunately it became public and served as a pretext for
 the judicial murder of the best and most divine of men. <span
-id="fr_85"></span>[1](#fn_85)
+id="fr_85"></span>[1](#fn_85.md)
 
 If we can predict exactly and certainly when eclipses are to occur and
 comets to return, why should we not be able to predict the periods of
@@ -191,7 +191,7 @@ impossible could ever become the possible.
 
 The impossible is that which is absolutely contrary to the immutable
 laws of nature, and to the eternal Reason. <span
-id="fr_86"></span>[1](#fn_86)
+id="fr_86"></span>[1](#fn_86.md)
 
 Every man is a magnetic focus, which attracts and radiates. That
 attraction and that projection are what are called in magic the
@@ -204,12 +204,12 @@ prosper, whilst the good are victims of their own virtues; but they
 grossly deceive themselves who fancy that Tiberius at Capri was happier
 than Mary at the foot of the cross of her son. What pleasure
 nevertheless was wanting to Tiberius, what suffering to Mary? And yet
-how happy a mother, <span id="fr_87"></span>[2](#fn_87) how miserable an
+how happy a mother, <span id="fr_87"></span>[2](#fn_87.md) how miserable an
 Emperor!
 
 <span id="page_107">p. 107</span>
 
-Honey changes to gall <span id="fr_88"></span>[1](#fn_88) in the mouths
+Honey changes to gall <span id="fr_88"></span>[1](#fn_88.md) in the mouths
 of the wicked and gall into honey in the mouths of the just. The
 innocent man, sacrificed, is deified by his punishment; the guilty man,
 triumphant, is branded and burnt by his diadem.
@@ -239,7 +239,7 @@ the threat that weighs upon the reprobated.
 *Men invoke superior spirits, but they can only evoke inferior spirits.*
 
 *Superior spirits whom men invoke attract them upwards; inferior spirits
-whom men evoke draw them downwards*. <span id="fr_89"></span>[1](#fn_89)
+whom men evoke draw them downwards*. <span id="fr_89"></span>[1](#fn_89.md)
 
 Invocation is prayer, evocation is sacrilege, except when it is a very
 dangerous devotion.
@@ -274,7 +274,7 @@ in an imaginary or fictitious manner, or by an illusion resembling that
 of dreams*. We must conclude that every apparition which we survive can
 only be a dream; when a vision of the other world is real, either the
 seer dies, or rather is already dead when he sees it. <span
-id="fr_90"></span>[1](#fn_90) This which we
+id="fr_90"></span>[1](#fn_90.md) This which we
 
 <span id="page_110">p. 110</span>
 
@@ -297,7 +297,7 @@ Paracelsus thought
 
 <span id="page_111">p. 111</span>
 
-that real Larvæ <span id="fr_91"></span>[1](#fn_91) might be engendered
+that real Larvæ <span id="fr_91"></span>[1](#fn_91.md) might be engendered
 by the nocturnal illusions of celibates. The ancients believed in the
 existence of *daimones*, a race of malicious genii who floated about in
 the atmosphere. St. Paul seems to admit these when he talks of the
@@ -310,7 +310,7 @@ themselves, people are persuaded that the Virgin has shown herself on
 earth, and they found churches and organise pilgrimages, which still
 bring in a great deal of money despite the decline of Faith. We must not
 insist in matters of Religion on enlightening the multitude too
-soon. <span id="fr_92"></span>[2](#fn_92) There are people who could no
+soon. <span id="fr_92"></span>[2](#fn_92.md) There are people who could no
 
 <span id="page_112">p. 112</span>
 
@@ -328,7 +328,7 @@ these Keroubim or Cherubim were two-headed Sphinxes; there were two
 Cherubim and four heads, one of a child, the other of a bull, the third
 of a lion and the fourth of an eagle. It was a reminiscence of the Gods
 of the Egyptians, Horus, Apis, Celurus, and Hermomphta; symbols of the
-four elements <span id="fr_93"></span>[1](#fn_93) and signs of the four
+four elements <span id="fr_93"></span>[1](#fn_93.md) and signs of the four
 cardinal points of the heaven they served as emblems of the four
 cardinal virtues--prudence, temperance, strength and justice. These four
 hieroglyphic figures have remained in the Christian Symbology and they
@@ -480,12 +480,12 @@ established throughout the world, there will he no more Catholicism at
 Rome.
 
 In the meantime, as one cannot live respectably <span
-id="fr_94"></span>[1](#fn_94) without religion, and as it is impossible
+id="fr_94"></span>[1](#fn_94.md) without religion, and as it is impossible
 and absurd to stand alone in religion, since the very word religion
 signifies a thing that binds men to one another, <span
-id="fr_95"></span>[2](#fn_95) each can and ought to follow the usages
+id="fr_95"></span>[2](#fn_95.md) each can and ought to follow the usages
 and rights of the communion in which he was born. <span
-id="fr_96"></span>[3](#fn_96) All religions
+id="fr_96"></span>[3](#fn_96.md) All religions
 
 <span id="page_118">p. 118</span>
 
@@ -541,7 +541,7 @@ is to reveal.
 <span id="page_120">p. 120</span>
 
 Science and Religion are as the day and night. If reason be the sun,
-faith is the moon. <span id="fr_97"></span>[1](#fn_97) In the absence of
+faith is the moon. <span id="fr_97"></span>[1](#fn_97.md) In the absence of
 the Sun, the Moon is the sovereign of the heavens. Let us, however, not
 forget that it is from the Sun that she borrows all her rays, and that
 true Faith can never be absurd except in seeming.
@@ -549,10 +549,10 @@ true Faith can never be absurd except in seeming.
 Science, has not she too her mysteries? Escape if you can out of the
 labyrinth of the Infinite. Do indivisible molecules really exist?
 Endeavour to conceive substance without extension. <span
-id="fr_98"></span>[2](#fn_98) If on the contrary matter is infinitely
+id="fr_98"></span>[2](#fn_98.md) If on the contrary matter is infinitely
 divisible, one grain of dust may, in the infinity of time, by the
 infinite number of its parts, equal the infinity of space. <span
-id="fr_99"></span>[3](#fn_99) Absurdities on all sides! Ask Marphurius;
+id="fr_99"></span>[3](#fn_99.md) Absurdities on all sides! Ask Marphurius;
 he desires to explain that the polychronic evolution of analytical
 concepts, in the Relative, is equal to the isochronism
 
@@ -566,7 +566,7 @@ The mysteries of faith are borrowed for the most part from the mysteries
 of science; for instance, is not light *one*, in three rays of different
 colours? In its triplicity it is blue, yellow and red, in its unity it
 is white. This Trinity gives seven shades of colour; here we have the
-sacred septenary. <span id="fr_100"></span>[1](#fn_100) Light produces
+sacred septenary. <span id="fr_100"></span>[1](#fn_100.md) Light produces
 
 <span id="page_124">p. 124</span>
 
@@ -696,12 +696,12 @@ can see, could they even then extinguish the Sun?
 The masses are blind and foolish and must be led by the seers and the
 sages. But when those whose duty it is to lead the blind, become blind,
 when the keepers of the mad go mad themselves, there result falls and
-appalling disorders. This is the history [of](errata.htm#1) all
+appalling disorders. This is the history [of](errata.htm#1.md) all
 revolutions.
 
 The use of brute force to repress disorder provokes inevitable and
 terrible reactions when that force has not the support of justice and
-Truth: for then it becomes fateful <span id="fr_101"></span>[1](#fn_101)
+Truth: for then it becomes fateful <span id="fr_101"></span>[1](#fn_101.md)
 and balances, necessarily, action by reaction. War authorises reprisals,
 because in war,
 
@@ -765,7 +765,7 @@ If they were both on the same side, the structure must fall on the
 other.
 
 It is their separation and parallelism which should eternally maintain
-equilibrium. <span id="fr_102"></span>[1](#fn_102)
+equilibrium. <span id="fr_102"></span>[1](#fn_102.md)
 
 The comprehension of this principle would put a stop to a misconception
 of too long standing and would bring peace to many souls. In truth
@@ -787,7 +787,7 @@ demonstrated it became of course necessary to find means of reconciling
 the difference; the earth in fact turns, but the Church remains
 infallible, even when it declares that it is no longer itself, but our
 Holy Father the Pope, who is infallible. <span
-id="fr_103"></span>[1](#fn_103)
+id="fr_103"></span>[1](#fn_103.md)
 
 This is not said ironically; the Pope is infallible because it is
 necessary that he should be so, and he really is so, for those who
@@ -803,7 +803,7 @@ spread over the letter, the light emanates from the spirit.
 
 There is the Gospel of Faith and the Gospel of Science. Moreover Science
 renders Faith impregnable; those who doubt do not know. <span
-id="fr_104"></span>[2](#fn_104)
+id="fr_104"></span>[2](#fn_104.md)
 
 132
 
@@ -835,7 +835,7 @@ Science and Philosophy detaches man *from the God of the* 
 of the wise*.
 
 The Magist has no need to formulate his faith in God, <span
-id="fr_105"></span>[1](#fn_105) he feels in himself that supreme power
+id="fr_105"></span>[1](#fn_105.md) he feels in himself that supreme power
 of the True and the God, which animates, sustains, fortifies and
 consoles him. What need have we to define the light when one can see it?
 What avails it to prove life, when one is alive? When St. Paul was
@@ -857,7 +857,7 @@ mummery is not to our taste; we do not say disguise; we say reclothe and
 chastely veil that Virgin that we call thought, for *our* thought is not
 a thought of personal interest and falsehood; *the Veil of the sanctuary
 is not like the curtain of comedy; it is rent at times, but it never
-rises*. <span id="fr_106"></span>[1](#fn_106)
+rises*. <span id="fr_106"></span>[1](#fn_106.md)
 
 The initiate avoids with care all eccentricity; he *thinks* as do the
 most enlightened, and *speaks* as do the mass. If he explores cross
@@ -908,12 +908,12 @@ conservatives and innovators; *only conservatives become* 
 136
 
 *persecutors when they consider, or affect to believe, dangerous what is
-evidently useful*. <span id="fr_107"></span>[1](#fn_107)
+evidently useful*. <span id="fr_107"></span>[1](#fn_107.md)
 
 VII
 
 Pure mathematics exist by themselves; no will produces them, no power
-can limit them. <span id="fr_108"></span>[2](#fn_108) They are
+can limit them. <span id="fr_108"></span>[2](#fn_108.md) They are
 
 <span id="page_137">p. 137</span>
 
@@ -923,7 +923,7 @@ to escape.
 VIII
 
 A thing may *appear* absurd and *be* true when it is above common
-sense, <span id="fr_109"></span>[1](#fn_109) but a thing contrary to the
+sense, <span id="fr_109"></span>[1](#fn_109.md) but a thing contrary to the
 laws of mathematics is really and absolutely absurd, and whoso believes
 in such an absurdity is a fool.
 
@@ -932,17 +932,17 @@ equilibrilised one by the other, has always been considered as a divine
 symbol. It is the Tau of the ancient Hebrews, the Chi (*x*) of the
 Greeks and Christians; in mathematics this sign + represents the
 infinite, and *x* the unknown; + signifies plus or more, and the
-Infinite is always more. <span id="fr_110"></span>[2](#fn_110) Develop
+Infinite is always more. <span id="fr_110"></span>[2](#fn_110.md) Develop
 science as you will, mark its first step with Alpha, its last with
 Omega, and you will still always have
 
 <span id="page_138">p. 138</span>
 
 before you the unknown, which you must recognise, and your formula
-remains Ω + x; <span id="fr_111"></span>[1](#fn_111) all that we learn
+remains Ω + x; <span id="fr_111"></span>[1](#fn_111.md) all that we learn
 is wound off that unknown which is never wholly unwound, it is this
 which produces all things; *not knowing what it is, we personify it and
-call it God*. <span id="fr_112"></span>[2](#fn_112)
+call it God*. <span id="fr_112"></span>[2](#fn_112.md)
 
 Once it *seemed* as if this personification was realised on earth, *but
 the God-Man* died upon the cross, that is on the eternal *x*, and the
@@ -1058,7 +1058,7 @@ XXIV
 
 The little suffer for the great, but the great also must answer for the
 little. The rich will pay the debt of the poor. <span
-id="fr_113"></span>[1](#fn_113)
+id="fr_113"></span>[1](#fn_113.md)
 
 <span id="page_142">p. 142</span>
 
@@ -1100,7 +1100,7 @@ XXX
 
 Evil has no real existence, or, to put it better, it does not exist in
 an absolute manner. That which ought not to be, is not: that is certain
-and incontestable. <span id="fr_114"></span>[1](#fn_114)
+and incontestable. <span id="fr_114"></span>[1](#fn_114.md)
 
 <span id="page_144">p. 144</span>
 
@@ -1125,7 +1125,7 @@ are either exceptional phenomena or conjuring tricks.
 XXXII
 
 When you *see* a phenomenon contrary in appearance to the laws
-demonstrated by Mathematics, <span id="fr_115"></span>[1](#fn_115) be
+demonstrated by Mathematics, <span id="fr_115"></span>[1](#fn_115.md) be
 
 <span id="page_146">p. 146</span>
 
@@ -1147,7 +1147,7 @@ XXXV
 
 People always ask why the extraordinary phenomena of magnetism are never
 produced in the presence of men of learning. <span
-id="fr_116"></span>[1](#fn_116) It is because few men of learning who
+id="fr_116"></span>[1](#fn_116.md) It is because few men of learning who
 witness a phenomenon inexplicable to themselves would have the courage
 to attest its occurrence.
 
@@ -1170,7 +1170,7 @@ universal agent which serves as mediator between thought and life. *This
 agent is the infinite light or rather (for the Light is only a
 phenomenon) is the light bearer, the great Lucifer of Nature, the
 mediator between matter and spirit, <span
-id="fr_117"></span>[1](#fn_117) which the ignorant and impostors call
+id="fr_117"></span>[1](#fn_117.md) which the ignorant and impostors call
 the Devil*, and which is the first creature of God.
 
 XXXVIII
@@ -1255,12 +1255,12 @@ implacable rage he hollows out a hell for all eternity.
 <span id="page_150">p. 150</span>
 
 *Sloth*.--After a repose of an eternity, he works during six days. <span
-id="fr_118"></span>[1](#fn_118) His work consisted in giving daily one
+id="fr_118"></span>[1](#fn_118.md) His work consisted in giving daily one
 order, and after giving these six orders he felt the necessity of.
 resting, and how was St. John wrong when, after having represented evil
 under the form of a monster with seven heads, he tells us that men
 prostrated themselves before and adored this beast? <span
-id="fr_119"></span>[2](#fn_119)
+id="fr_119"></span>[2](#fn_119.md)
 
 St. John adds that Anti-Christism must animate the image of this beast,
 and make it speak, and that the world will prostrate itself before this
@@ -1273,7 +1273,7 @@ XLII
 
 St. Vincent de Lerius says that that alone pertains to the true Catholic
 or universal Dogma, which has been admitted at all times, in all places,
-and by every one. <span id="fr_120"></span>[3](#fn_120) This would
+and by every one. <span id="fr_120"></span>[3](#fn_120.md) This would
 simplify symbology marvellously and prodigiously enlarge the Church.
 
 <span id="page_151">p. 151</span>
@@ -1347,9 +1347,9 @@ the ape, but the ape and man perhaps descend from the same primitive
 animal. Darwin's theory does not contradict the Bible, it restores to it
 its character of the symbolic Lion, exclusively religious; the great
 week of the creation is a series of Geological epochs <span
-id="fr_121"></span>[1](#fn_121) and God is said to rest when man begins
+id="fr_121"></span>[1](#fn_121.md) and God is said to rest when man begins
 to understand that the Universe moves on alone. <span
-id="fr_122"></span>[2](#fn_122)
+id="fr_122"></span>[2](#fn_122.md)
 
 XLVII
 
@@ -1364,7 +1364,7 @@ Eat a spirit, and an infinite Spirit! What
 
 madness! Eat the body of a man! How horrible! Theophagy, and Androphagy!
 What claims to immortality! And yet, <span
-id="fr_123"></span>[1](#fn_123) what can be more beautiful, more
+id="fr_123"></span>[1](#fn_123.md) what can be more beautiful, more
 soothing, more really divine than the Catholic Communion? The religious
 want, innate in man, will never find more complete satisfaction; and how
 vividly we feel that it is true, when we believe in it Faith to a
@@ -1411,9 +1411,9 @@ Catholic or Universal Church. Those possessed with a spirit opposed to
 this do not belong to the Church.
 
 But charity in the Church ought to preserve above all things the
-Hierarchy and unity. <span id="fr_124"></span>[1](#fn_124) It is
+Hierarchy and unity. <span id="fr_124"></span>[1](#fn_124.md) It is
 rightful to protest against the abuse of authority, but not against
-authority itself. <span id="fr_125"></span>[2](#fn_125)
+authority itself. <span id="fr_125"></span>[2](#fn_125.md)
 
 There exists at present a new sect of Protestants who call themselves
 Old Catholics, as if the child just born could call itself old, because
@@ -1424,7 +1424,7 @@ Protestants were no old Catholics, who would have
 
 died a thousand times rather than separate themselves from the Hierarchy
 and Authority. Their ancestors are the heretics of all ages, and their
-great ancestor is Satan, <span id="fr_126"></span>[1](#fn_126) that
+great ancestor is Satan, <span id="fr_126"></span>[1](#fn_126.md) that
 unsubmitting old Catholic.
 
 LI
@@ -1436,7 +1436,7 @@ give what it promises, if it is to have signs of power and consolations
 for all, if it is to veil for feeble visions the eternal truths, if it
 is to unite in one sheaf all the aspirations and all the hopes of the
 most exacting souls, it *can* only be Catholic, <span
-id="fr_127"></span>[2](#fn_127) and all nations soon
+id="fr_127"></span>[2](#fn_127.md) and all nations soon
 
 <span id="page_158">p. 158</span>
 
@@ -1456,11 +1456,11 @@ light of all spirits and the life eternal of all souls.
 
 ### Footnotes
 
-<span id="fn_81"></span>[99:1](phs11.htm#fr_81) His incessant struggles
+<span id="fn_81"></span>[99:1](phs11.htm#fr_81.md) His incessant struggles
 with the "idea" rooted in him by his unhappy Catholico-Romanism, having
 occupied and wasted all his time.--E. O.
 
-<span id="fn_82"></span>[99:2](phs11.htm#fr_82) It is at least
+<span id="fn_82"></span>[99:2](phs11.htm#fr_82.md) It is at least
 questionable whether this be not the best, wisest, and safest position.
 Admitting that by a devotion to Occult Physics, two supreme gifts are
 attainable,--one, the preservation of the individual memory right
@@ -1498,13 +1498,13 @@ personality. This is to be "*un vrai magiste qui ne pratique point la
 magie*," and to my mind this is, perhaps, the nobler, though, doubtless,
 the less attractive path.--*Trans*.
 
-<span id="fn_83"></span>[100:1](phs11.htm#fr_83) And above all in the
+<span id="fn_83"></span>[100:1](phs11.htm#fr_83.md) And above all in the
 Ancient Sacred Literature of India. But E. Lévi had never studied the
 *Bhagavad-Gita* and other like incarnations of the spiritual life in the
 flesh of the latter, or he would have been a far truer
 "Magiste".--*Trans*.
 
-<span id="fn_84"></span>[102:1](phs11.htm#fr_84) "Keep silence all who
+<span id="fn_84"></span>[102:1](phs11.htm#fr_84.md) "Keep silence all who
 enter here," has from time immemorial been graved above the Portals of
 Occultism, "*Gopaniyum Prayatnena*," "to be kept secret with the
 greatest care" is the refrain of all the ancient Aryan writers on
@@ -1515,33 +1515,33 @@ horizon, and what are the highest secrets of one race, and intolerable
 to its mass, become the intuitions, if not the palpable verities, of the
 next.--*Trans*.
 
-<span id="fn_85"></span>[103:1](phs11.htm#fr_85) This entire paragraph
+<span id="fn_85"></span>[103:1](phs11.htm#fr_85.md) This entire paragraph
 is sophistical and insincere to a degree. It savours not of "the things
 which are of God but of the things which are of man"; not of occultism,
 but of Éliphas Leviism.--*Trans*.
 
-<span id="fn_86"></span>[106:1](phs11.htm#fr_86) Which leaves the
+<span id="fn_86"></span>[106:1](phs11.htm#fr_86.md) Which leaves the
 question where it was, since even the highest adept can never have such
 an exhaustive knowledge of those laws or that Reason, as to be able to
 assert of anything that it is absolutely contrary to them, or hence to
 predicate impossibility of anything outside, as Arago said, of pure
 mathematics.--*Trans*.
 
-<span id="fn_87"></span>[106:2](phs11.htm#fr_87) The wretched Isiacs
+<span id="fn_87"></span>[106:2](phs11.htm#fr_87.md) The wretched Isiacs
 wound their breasts and imitate the grief of "the INFELICISSIMA MATER
 *Isis*" (*Min. Felip. c* 2 r). The return of Isis with the body of <span
 id="page_107">p. 107</span> Osiris is dated December 15th, and the
 search lasts seven days. (Plutarch).--E. O.
 
-<span id="fn_88"></span>[107:1](phs11.htm#fr_88) In this and many other
+<span id="fn_88"></span>[107:1](phs11.htm#fr_88.md) In this and many other
 cases it is impossible to reproduce in English that antithesis of sound
 (mielfiel), which, not unfrequently at some little sacrifice of sense,
 intensifies, so often, the epigrammatic character of our author's
 *dicta*.--*Trans*.
 
-<span id="fn_89"></span>[108:1](phs11.htm#fr_89) Correct.--E. O.
+<span id="fn_89"></span>[108:1](phs11.htm#fr_89.md) Correct.--E. O.
 
-<span id="fn_90"></span>[109:1](phs11.htm#fr_90)  Here he alludes to the
+<span id="fn_90"></span>[109:1](phs11.htm#fr_90.md)  Here he alludes to the
 voluntary trance condition or Samadhi induced according to the rules of
 occult science. Mediumistic trance is a mode of epilepsy--E. O.
 
@@ -1577,28 +1577,28 @@ such comparatively immaterial existences as belonging to the other
 world, and so here again the plain sense of the passage is at variance
 with what the writer knew to be true.--*Trans*.
 
-<span id="fn_91"></span>[111:1](phs11.htm#fr_91) This word scarcely as
+<span id="fn_91"></span>[111:1](phs11.htm#fr_91.md) This word scarcely as
 yet in use in English, though thoroughly Gallicised, is from the Latin,
 Larva, a ghost or spectre.--*Trans*.
 
-<span id="fn_92"></span>[111:2](phs11.htm#fr_92) Sophistry.--E. O.
+<span id="fn_92"></span>[111:2](phs11.htm#fr_92.md) Sophistry.--E. O.
 
 I quite agree, but if for "Religion" we substitute "Occultism" my friend
 E. O. apparently considers that the Sophistry disappears.--*Trans*.
 
-<span id="fn_93"></span>[112:1](phs11.htm#fr_93) And of the fourfold
+<span id="fn_93"></span>[112:1](phs11.htm#fr_93.md) And of the fourfold
 nature of man; the three pairs and the outer fleshy case and analogous
 universal quaternions.--*Trans*.
 
-<span id="fn_94"></span>[117:1](phs11.htm#fr_94) "*Convenablentent*,"
+<span id="fn_94"></span>[117:1](phs11.htm#fr_94.md) "*Convenablentent*,"
 the right word, most assuredly: respectably.--E. O.
 
-<span id="fn_95"></span>[117:2](phs11.htm#fr_95) Rather it signifies
+<span id="fn_95"></span>[117:2](phs11.htm#fr_95.md) Rather it signifies
 that which binds together the soul,--or if you will the highest couple,
 the 6th principle, and the spirit, (or 7th principle or monad), and the
 absolute, of which this is a ray.--*Trans*.
 
-<span id="fn_96"></span>[117:3](phs11.htm#fr_96) In other words we are
+<span id="fn_96"></span>[117:3](phs11.htm#fr_96.md) In other words we are
 by silence to consent to and add currency and vitality to what we think
 a falsehood. <span id="page_118">p. 118</span> There is a vast
 difference between tolerance for and gentleness with what we believe to
@@ -1609,25 +1609,25 @@ and for the sake of *respectability* persistently bow to falsehood, how
 is the usurper to be dethroned, how is the wrong to be conquered, and
 the right to triumph?--*Trans*.
 
-<span id="fn_97"></span>[120:1](phs11.htm#fr_97) These poetical
+<span id="fn_97"></span>[120:1](phs11.htm#fr_97.md) These poetical
 illustrations are misleading. Science, *real* science, and religion are
 one; at most two faces of the Eternal Truth; allotropic forms of the
 same everlasting verity.--*Trans*.
 
-<span id="fn_98"></span>[120:2](phs11.htm#fr_98) There *is no* such
+<span id="fn_98"></span>[120:2](phs11.htm#fr_98.md) There *is no* such
 thing; it is only nothing that has no extension; the extension of what
 *we call* immaterial things may be beyond our cognisance, but *all*
 things have extension, and extension is the essence of *substance*,
 which both *is* and fills *space*.--*Trans*.
 
-<span id="fn_99"></span>[120:3](phs11.htm#fr_99) Of course this is all a
+<span id="fn_99"></span>[120:3](phs11.htm#fr_99.md) Of course this is all a
 muddle; indivisible atoms do exist. You may say that the mind can divide
 them in conception, but if you could put the division into practice, the
 molecule would return into the unmanifested. Then he confuses matter,
 which is transitory, concrete and manifested, with substance, its
 eternal, abstract, unmanifested base.--*Trans*.
 
-<span id="fn_100"></span>[121:1](phs11.htm#fr_100) The Septenary is
+<span id="fn_100"></span>[121:1](phs11.htm#fr_100.md) The Septenary is
 sacred. not for one, but for a thousand reasons. Take any seven coins or
 discs of precisely the same size. Place one in the centre and you will
 find that the remaining six, when arranged round it as a belt, will
@@ -1726,13 +1726,13 @@ Compare--
 
 --E. O.
 
-<span id="fn_101"></span>[127:1](phs11.htm#fr_101) There is no English
+<span id="fn_101"></span>[127:1](phs11.htm#fr_101.md) There is no English
 equivalent for "*fatale*," in the sense in which it is here used, and
 which is not <span id="page_128">p. 128</span>"fatal," but that has
 become a thing of Fate, operating therefore in a blind, unintelligent,
 irresponsible manner under blind laws.--*Trans*.
 
-<span id="fn_102"></span>[130:1](phs11.htm#fr_102) Although in a certain
+<span id="fn_102"></span>[130:1](phs11.htm#fr_102.md) Although in a certain
 sense this is true, it is very misleading. *Faith*, in the ordinary
 sense of the word, viz., a belief in that for which there is no
 evidence, direct or indirect, has no place in true Occultism which is an
@@ -1748,10 +1748,10 @@ exactly demonstrated fact, and so too are the teachings of Occultism,
 although to one ignorant of the methods of this latter science they may
 seem absolute mysteries and matters of *Faith*.--*Trans*.
 
-<span id="fn_103"></span>[131:1](phs11.htm#fr_103) And thus proves again
+<span id="fn_103"></span>[131:1](phs11.htm#fr_103.md) And thus proves again
 that Human Folly is limitless as space itself.--E. O.
 
-<span id="fn_104"></span>[131:2](phs11.htm#fr_104) It will be seen that
+<span id="fn_104"></span>[131:2](phs11.htm#fr_104.md) It will be seen that
 by Faith *he* means the acceptance of the teachings of Authority
 (*i.e.*, of those who <span id="page_132">p. 132</span> presumably know
 more of the matter than ourselves) on those subjects or points on which
@@ -1761,7 +1761,7 @@ world and the individual, and disappearing in the sanctuary of occultism
 where all mysteries, at any rate of the conditioned universe, are
 explained.--*Trans*.
 
-<span id="fn_105"></span>[133:1](phs11.htm#fr_105) And the *Mage* has
+<span id="fn_105"></span>[133:1](phs11.htm#fr_105.md) And the *Mage* has
 not even need to believe in one.--E. O.
 
 Quite so, he *has* no *need*. Occultism only deals with the conditioned
@@ -1782,17 +1782,17 @@ creatures of manifestation can cognise. But this of course is a matter
 of Faith and pertains not to occultism proper, which is either atheistic
 or agnostic, but to transcendental occultism.--*Trans*.
 
-<span id="fn_106"></span>[134:1](phs11.htm#fr_106) It never *rises*, but
+<span id="fn_106"></span>[134:1](phs11.htm#fr_106.md) It never *rises*, but
 as race follows race, and circuit succeeds to circuit, it etherialises
 more and more, destined to vanish wholly before the veil of the <span
 id="page_135">p. 135</span> cosmic night, that shrouds a higher mystery
 and an inner sanctuary, is drawn around us.--*Trans*.
 
-<span id="fn_107"></span>[135:1](phs11.htm#fr_107) Very feeble! who is
+<span id="fn_107"></span>[135:1](phs11.htm#fr_107.md) Very feeble! who is
 to be the judge? What you consider useful, I hold to be noxious, and
 vice versa.--*Trans*.
 
-<span id="fn_108"></span>[135:2](phs11.htm#fr_108) Our author, borrowing
+<span id="fn_108"></span>[135:2](phs11.htm#fr_108.md) Our author, borrowing
 Pythagorean ideas, often speaks of pure mathematics, as if they were a
 kind of superhuman existence, things, as he says existing by themselves,
 or self-existent. But what are they really? Simply rigidly logical
@@ -1812,7 +1812,7 @@ no will creates them and no power limits them is absurd; they were
 created by the will that originated their fundamental hypotheses, and by
 these are rigidly limited.--*Trans*.
 
-<span id="fn_109"></span>[137:1](phs11.htm#fr_109) Nothing is *above*
+<span id="fn_109"></span>[137:1](phs11.htm#fr_109.md) Nothing is *above*
 common sense, but a thing may be too ill-defined for common sense to
 grasp it. All our author's sententious aphorism means, is that if the
 nature, *or our knowledge*, of a thing is such that we are unable
@@ -1821,25 +1821,25 @@ logically from these, *look*, to our imperfect vision, as our
 conclusions *may--they may* nevertheless be true-we are in no position
 to decide; whereas, if we *can* rigorously and exhaustively define the
 premises and we then argue strictly logically from these, our
-[conclusions](errata.htm#2) must be correct, and no one but a fool can
+[conclusions](errata.htm#2.md) must be correct, and no one but a fool can
 doubt the fact.--*Trans*.
 
-<span id="fn_110"></span>[137:2](phs11.htm#fr_110) This seems quibbling.
+<span id="fn_110"></span>[137:2](phs11.htm#fr_110.md) This seems quibbling.
 Of course the usual sign for infinity in mathematics is ∞--*Trans*.
 
-<span id="fn_111"></span>[138:1](phs11.htm#fr_111) Hence the Tibetan
+<span id="fn_111"></span>[138:1](phs11.htm#fr_111.md) Hence the Tibetan
 cross on the Dalai Lama's headgear.--E. O.
 
-<span id="fn_112"></span>[138:2](phs11.htm#fr_112) At last the cat is
+<span id="fn_112"></span>[138:2](phs11.htm#fr_112.md) At last the cat is
 out of the bag.--E. O.
 
-<span id="fn_113"></span>[141:1](phs11.htm#fr_113) It is only in a very
+<span id="fn_113"></span>[141:1](phs11.htm#fr_113.md) It is only in a very
 far-fetched or else transcendental sense that this is true. Every soul
 <span id="page_142">p. 142</span> pays its *own* debts, be it or they
 great or small. This is the true and eternal basis alike of justice and
 morality.--*Trans*.
 
-<span id="fn_114"></span>[143:1](phs11.htm#fr_114) It is neither certain
+<span id="fn_114"></span>[143:1](phs11.htm#fr_114.md) It is neither certain
 nor incontestable, and the whole paragraph deals in an unsatisfactory
 and sophistical manner with the "eternal riddle"--the origin of evil.
 Evil may in one sense be said to be the darkness necessary to make good
@@ -1893,42 +1893,42 @@ right; and one thing is certain, that, who ever be right as to these
 highest transcendental mysteries, real adepts of either class are almost
 as superior to ordinary men as these are to monkeys.--*Trans*.
 
-<span id="fn_115"></span>[145:1](phs11.htm#fr_115) It is difficult to
+<span id="fn_115"></span>[145:1](phs11.htm#fr_115.md) It is difficult to
 understand what is meant here. Surely the laws of mathematics
 demonstrate that two do not equal and cannot take the place of one. Yet
 without any *conjuring*, the occultist doubles or reduplicates things,
 and that though your observation may have been perfect, and though you
 have been neither duped nor hallucinated.--*Trans*.
 
-<span id="fn_116"></span>[146:1](phs11.htm#fr_116) This, though
+<span id="fn_116"></span>[146:1](phs11.htm#fr_116.md) This, though
 reasonable enough a score of years ago, has now become obsolete: plenty
 of men of learning have of late years witnessed and attested
 them.--*Trans*.
 
-<span id="fn_117"></span>[147:1](phs11.htm#fr_117) Astral Light, the
+<span id="fn_117"></span>[147:1](phs11.htm#fr_117.md) Astral Light, the
 storehouse of Occult Electricity; the *vehicle* of the Primeval
 Chaos.--E. O.
 
-<span id="fn_118"></span>[150:1](phs11.htm#fr_118) Of course the six
+<span id="fn_118"></span>[150:1](phs11.htm#fr_118.md) Of course the six
 days represent *inter alia* the six working cycles or circuits of
 man--the seventh being the cycle of rest.--*Trans*.
 
-<span id="fn_119"></span>[150:2](phs11.htm#fr_119) The correct
+<span id="fn_119"></span>[150:2](phs11.htm#fr_119.md) The correct
 interpretation. There was no more of a *personal* God to be found in
 John's ideas than in our own heads.--E. O.
 
-<span id="fn_120"></span>[150:3](phs11.htm#fr_120) We must go back a
+<span id="fn_120"></span>[150:3](phs11.htm#fr_120.md) We must go back a
 good deal further than St. Vincent for the "*quod semper ubique et ab
 omnibus*."--*Trans*.
 
-<span id="fn_121"></span>[153:1](phs11.htm#fr_121) Or rather of cycles
+<span id="fn_121"></span>[153:1](phs11.htm#fr_121.md) Or rather of cycles
 of development either from zero to the monkey-man, or from the
 monkey-man to Nirvana.--*Trans*.
 
-<span id="fn_122"></span>[153:2](phs11.htm#fr_122) Ingenious but-------
+<span id="fn_122"></span>[153:2](phs11.htm#fr_122.md) Ingenious but-------
 --*Trans*.
 
-<span id="fn_123"></span>[154:1](phs11.htm#fr_123) These ever recurring
+<span id="fn_123"></span>[154:1](phs11.htm#fr_123.md) These ever recurring
 "yets" and "buts" sound odious! He is more than humouring public
 superstition. He becomes a literary flunkey in his double dealings.--E.
 O.
@@ -1949,12 +1949,12 @@ the real conception, is only brought into stronger relief by the frank
 admission of the ideal beauty with which Faith is able to veil it for
 believers.--*Trans*.
 
-<span id="fn_124"></span>[156:1](phs11.htm#fr_124) Quite so, when the
+<span id="fn_124"></span>[156:1](phs11.htm#fr_124.md) Quite so, when the
 priests, as Éliphas always repeats that they *should* be, *are* all
 adepts of the highest occult mysteries, and the doctrines are those of
 the eternal wisdom religion.--*Trans*.
 
-<span id="fn_125"></span>[156:2](phs11.htm#fr_125) Quite so, when
+<span id="fn_125"></span>[156:2](phs11.htm#fr_125.md) Quite so, when
 authority *really* means superiority in spiritual knowledge; but, when
 leaping down at a -bound from this Utopian church and priesthood of his
 hopes, into the arena of the Catholic Church as it is, he assails the
@@ -1962,10 +1962,10 @@ so-called Old Catholics for their schism, which after all is a step, if
 a small one, towards Reason and Truth, it is *he* who becomes the child
 and disciple of error.--*Trans*.
 
-<span id="fn_126"></span>[157:1](phs11.htm#fr_126) Very consistent this
+<span id="fn_126"></span>[157:1](phs11.htm#fr_126.md) Very consistent this
 with what he has said above. Is this *his* charity?--E. O.
 
-<span id="fn_127"></span>[157:2](phs11.htm#fr_127) Perhaps it might be
+<span id="fn_127"></span>[157:2](phs11.htm#fr_127.md) Perhaps it might be
 said that the foregoing neither wholly coincides with nor exhausts our
 conception of the Ideal Church of the Future. But, be this as it may,
 one thing is certain, viz., that on pain of losing all vitality, it must
@@ -1994,4 +1994,4 @@ dogmatism.--*Trans*.
 
 ------------------------------------------------------------------------
 
-[Next: The Great Secret](phs12)
+[Next: The Great Secret](phs12.md)

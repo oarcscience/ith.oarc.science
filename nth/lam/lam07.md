@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam06)  [Next](lam08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam06)  [Next](lam08.md) 
 
 ------------------------------------------------------------------------
 
@@ -251,4 +251,4 @@ revealed from within.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Free Will](lam08)
+[Next: VI. Free Will](lam08.md)

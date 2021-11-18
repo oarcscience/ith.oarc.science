@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog02)  [Next](kog04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog02)  [Next](kog04.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ LONDON, *October* 1917.
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Twelve Months](kog04)
+[Next: 1. The Twelve Months](kog04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa32)  [Next](psa34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa32)  [Next](psa34.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ afflicted.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII](psa34)
+[Next: Chapter XXXIII](psa34.md)

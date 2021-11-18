@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp14)  [Next](prp16) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp14)  [Next](prp16.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ murdered for receiving an apple from his empress.\]
 
 ------------------------------------------------------------------------
 
-[Next: 16. What hast thou, meddling watch, with me to do?](prp16)
+[Next: 16. What hast thou, meddling watch, with me to do?](prp16.md)

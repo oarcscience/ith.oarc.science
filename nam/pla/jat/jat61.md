@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat60)  [Next](jat62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat60)  [Next](jat62.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ were dancing.
 
 ------------------------------------------------------------------------
 
-[Next: 60. An Expedition to the Adobe Walls with Kit Carson](jat62)
+[Next: 60. An Expedition to the Adobe Walls with Kit Carson](jat62.md)

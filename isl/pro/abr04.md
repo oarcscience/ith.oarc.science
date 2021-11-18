@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr03)  [Next](abr05) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr03)  [Next](abr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ that later on.
 ------------------------------------------------------------------------
 
 [Next: The Books of Abraham (PUH) and Some of What Was Revealed By God
-to Him](abr05)
+to Him](abr05.md)

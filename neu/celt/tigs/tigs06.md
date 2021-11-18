@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tigs05)  [Next](tigs07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tigs05)  [Next](tigs07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ differ from the operations of an ordinary ghost.
 
 The two following incidents related in this chapter are taken from a
 paper read by Professor Barrett, F.R.S., before the Society for
-Psychical Research. <span id="fr_6"></span>[1](#fn_6) In the case of the
+Psychical Research. <span id="fr_6"></span>[1](#fn_6.md) In the case of the
 first anecdote he made every possible inquiry into the facts set forth,
 short of actually being an eye-witness of the phenomena. In the case of
 the second he made personal investigation, and himself saw the whole of
@@ -448,17 +448,17 @@ dislike to her husband's occupation, which entailed great unpopularity
 and considerable personal risk. Fearing for her own and her family's
 safety, the wife conceived of this plan to force her husband to give up
 his post. Her efforts were successful, as the man soon resigned his
-position and went to live elsewhere. <span id="fr_7"></span>[1](#fn_7)
+position and went to live elsewhere. <span id="fr_7"></span>[1](#fn_7.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_6"></span>[101:1](tigs06.htm#fr_6) *Proceedings*, August
+<span id="fn_6"></span>[101:1](tigs06.htm#fr_6.md) *Proceedings*, August
 1911, pp. 377–95.
 
-<span id="fn_7"></span>[120:1](tigs06.htm#fr_7) *Proceedings*, S.P.R.
+<span id="fn_7"></span>[120:1](tigs06.htm#fr_7.md) *Proceedings*, S.P.R.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Haunted Places](tigs07)
+[Next: Chapter V. Haunted Places](tigs07.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs42) 
-[Next](wscs44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs42.md) 
+[Next](wscs44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ That all the young male children under two years of age were slain by an
 order issued by Cansa, similar to that of Herod in Judea. 6th, That
 angels and shepherds attended his birth. 7th, That his birth and advent
 occurred on the 25th of December. 8th, That it occurred in
-[accordance](errata.htm#12) with previous prophecy. 9th, That he was
+[accordance](errata.htm#12.md) with previous prophecy. 9th, That he was
 presented at birth with frankincense, myrrh, &c. 10th, That he was
 saluted and worshipped as "the Savior of men," according to the report
 of the late Christian Missionary Huc. 11th, That he led a life of
@@ -88,7 +88,7 @@ We find, also, several well-authenticated instances of raising the dead
 to life, in works portraying the miraculous achievements of the Egyptian
 Gods, the relation being given in such specific detail in some cases
 that the names of the reanimated dead are furnished. Tyndarus and
-[Hippolitus](errata.htm#13) were instances of this kind, both (according
+[Hippolitus](errata.htm#13.md) were instances of this kind, both (according
 to Julius) having been raised from the dead. Descending the line of
 history, until we arrive at the confines of Grecian theology, we find
 here the same train of marvelous events recorded in the histories of
@@ -204,4 +204,4 @@ relinquish your doctrine of the divinity of Jesus Christ.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIX: The Scriptural View of Christ's Divinity](wscs44)
+[Next: Chapter XXXIX: The Scriptural View of Christ's Divinity](wscs44.md)

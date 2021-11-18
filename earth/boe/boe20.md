@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe19)  [Next](boe21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe19)  [Next](boe21.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Eclipses occurred, but how? A Comet fled through the
 
 [![PLATE XXXII. (Frontispiece to &lt;i&gt;Almagestum Novum&lt;/i&gt;;
 Ioannes Riccioli, 1561)](tn/pl32.jpg)  
-Click to enlarge](img/pl32.jpg)  
+Click to enlarge](img/pl32.jpg.md)  
 PLATE XXXII. (Frontispiece to *Almagestum Novum*; Ioannes Riccioli,
 1561)  
 
@@ -62,7 +62,7 @@ the Sun
 [![FIGURE 66. &lt;i&gt;The Systems of the Universe&lt;/i&gt;.&lt;br&gt;
 (From &lt;i&gt;Iter exstaticum cæleste&lt;/i&gt;; Athanasius Kircher,
 1660, Plate II.)](tn/fig066.jpg)  
-Click to enlarge](img/fig066.jpg)  
+Click to enlarge](img/fig066.jpg.md)  
 FIGURE 66. *The Systems of the Universe*.  
 (From *Iter exstaticum cæleste*; Athanasius Kircher, 1660, Plate II.)  
 
@@ -80,7 +80,7 @@ Earth.
 according to Anaximander&lt;/i&gt;&lt;br&gt; (&lt;i&gt;c. 611-545
 B.C.&lt;/i&gt;)&lt;br&gt; (From &lt;i&gt;Dante and the Early
 Astronomers&lt;/i&gt;; M. A. Orr (Mrs. John Evershed),
-1913.)](img/fig067.jpg)  
+1913.)](img/fig067.jpg.md)  
 FIGURE 67. *The Universe according to Anaximander*  
 (*c. 611-545 B.C.*)  
 (From *Dante and the Early Astronomers*; M. A. Orr (Mrs. John Evershed),
@@ -135,7 +135,7 @@ only habitable area, but he gave
 <span id="img_fig068"></span> ![FIGURE 68. &lt;i&gt;The Universe of
 Leucippus&lt;/i&gt; (&lt;i&gt;c. 450 B.C.&lt;/i&gt;)&lt;br&gt; (From
 &lt;i&gt;Dante and the Early Astronomers&lt;/i&gt;; M. A. Orr (Mrs. John
-Evershed), 1913.)](img/fig068.jpg)  
+Evershed), 1913.)](img/fig068.jpg.md)  
 FIGURE 68. *The Universe of Leucippus* (*c. 450 B.C.*)  
 (From *Dante and the Early Astronomers*; M. A. Orr (Mrs. John Evershed),
 1913.)
@@ -156,7 +156,7 @@ is merely
 <span id="img_fig069"></span> ![FIGURE 69. &lt;i&gt;The Universe of
 Democritus&lt;/i&gt; (&lt;i&gt;c. 430 B.C.&lt;/i&gt;)&lt;br&gt; (From
 &lt;i&gt;Dante and the Early Astronomers&lt;/i&gt;; M. A. Orr (Mrs. John
-Evershed), 1913.)](img/fig069.jpg)  
+Evershed), 1913.)](img/fig069.jpg.md)  
 FIGURE 69. *The Universe of Democritus* (*c. 430 B.C.*)  
 (From *Dante and the Early Astronomers*; M. A. Orr (Mrs. John Evershed),
 1913.)
@@ -208,7 +208,7 @@ the Centre, where we are, and it is illusion to believe otherwise.
 <span id="img_fig070"></span> ![FIGURE 70. &lt;i&gt;The Universe of
 Pythagoras&lt;/i&gt; (&lt;i&gt;c. 540 B.C.&lt;/i&gt;)&lt;br&gt; (From
 &lt;i&gt;Dante and the Early Astronomers&lt;/i&gt;; M. A. Orr (Mrs. John
-Evershed), 1913.)](img/fig070.jpg)  
+Evershed), 1913.)](img/fig070.jpg.md)  
 FIGURE 70. *The Universe of Pythagoras* (*c. 540 B.C.*)  
 (From *Dante and the Early Astronomers*; M. A. Orr (Mrs. John Evershed),
 1913.)
@@ -269,11 +269,11 @@ fitted these five "Causal Beings"
 [![FIGURE 75. &lt;i&gt;The Five Great Elements&lt;/i&gt;.&lt;br&gt;
 (From &lt;i&gt;Sphæra Mundi&lt;/i&gt;; Orantius Fineus,
 1542.)](tn/fig071.jpg)  
-Click to enlarge](img/fig071.jpg)  
+Click to enlarge](img/fig071.jpg.md)  
 FIGURE 75. *The Five Great Elements*.  
 (From *Sphæra Mundi*; Orantius Fineus, 1542.)  
 
-into the five regular solids ([Figs. 2-6](boe06.htm#img_fig002) and ),
+into the five regular solids ([Figs. 2-6](boe06.htm#img_fig002) and .md),
 to whose forms, they said, the component particles of the different
 elements correspond. The component particle of Earth, for instance,
 corresponds to the cube; of water,
@@ -284,7 +284,7 @@ to the icosahedron; of air, to the octahedron; of fire, to the
 tetrahedron; of ether, to the dodecahedron--the form which had been
 God's model for the whole universe.
 
-"A Figure of the Whole World" ([Fig. 72](#img_fig072)) is the
+"A Figure of the Whole World" ([Fig. 72](#img_fig072).md) is the
 Pythagorean-Ptolemaic
 
 <span id="img_fig072"></span>
@@ -292,7 +292,7 @@ Pythagorean-Ptolemaic
 [![FIGURE 72. ''&lt;i&gt;A Figure of the whole world, wherein are set
 forth the two essentiall Parts, the eleven heavens, and the foure
 Elements&lt;/i&gt;.](tn/fig072.jpg)  
-Click to enlarge](img/fig072.jpg)  
+Click to enlarge](img/fig072.jpg.md)  
 FIGURE 72. ''*A Figure of the whole world, wherein are set forth the two
 essentiall Parts, the eleven heavens, and the foure Elements*.  
 
@@ -311,7 +311,7 @@ astronomers. These two additional heavens were the
 [![FIGURE 73. &lt;i&gt;System of the diverse
 spheres&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Cosmographia&lt;/i&gt;;
 Petrus Apianus, 1660.)](tn/fig073.jpg)  
-Click to enlarge](img/fig073.jpg)  
+Click to enlarge](img/fig073.jpg.md)  
 FIGURE 73. *System of the diverse spheres*.  
 (From *Cosmographia*; Petrus Apianus, 1660.)  
 
@@ -326,11 +326,11 @@ within the other, which circled about the motionless Earth at differing
 rates of speed. Perhaps, instead of "spheres," or "shells," or "zones,"
 these moving regions are better expressed by the term "velocities."
 
-[Fig. 73](#img_fig073) represents again the same system, even more
+[Fig. 73](#img_fig073.md) represents again the same system, even more
 elaborately inscribed with "correspondences." By aid of these two guides
 through the "two essentiall Parts" of the whole world--that is to say
 the eleven heavens and the four elements, the six systems of the
-universe shown in [Fig. 66](#img_fig066) can be more or less easily
+universe shown in [Fig. 66](#img_fig066.md) can be more or less easily
 followed.
 
 ONE DEVELOPMENT OF THE PYTHAGOREAN SYSTEM might be mentioned here--the
@@ -384,7 +384,7 @@ no one knows. For the
 [![FIGURE 74. &lt;i&gt;The System of Philolaus&lt;/i&gt;.&lt;br&gt;
 (From &lt;i&gt;Dante and the Early Astronomers&lt;/i&gt;; M. A. Orr
 (Mrs. John Evershed), 1913.)](tn/fig074.jpg)  
-Click to enlarge](img/fig074.jpg)  
+Click to enlarge](img/fig074.jpg.md)  
 FIGURE 74. *The System of Philolaus*.  
 (From *Dante and the Early Astronomers*; M. A. Orr (Mrs. John Evershed),
 1913.)  
@@ -439,7 +439,7 @@ therefore at the antipodes. When Pomponius
 Antichthones &lt;/i&gt;(&lt;i&gt;1st century A.D.&lt;/i&gt;)&lt;br&gt;
 (From &lt;i&gt;De situ Orbis&lt;/i&gt;; Pomponius Mela,
 1536.)](tn/fig075.jpg)  
-Click to enlarge](img/fig075.jpg)  
+Click to enlarge](img/fig075.jpg.md)  
 FIGURE 75. *Pomponius Mela's Map of the World, with Antichthones* (*1st
 century A.D.*)  
 (From *De situ Orbis*; Pomponius Mela, 1536.)  
@@ -456,7 +456,7 @@ and the Americas. The great astronomer and geographer, Claudius
 <span id="img_fig076"></span>
 
 [![](tn/fig076.jpg)  
-Click to enlarge](img/fig076.jpg)
+Click to enlarge](img/fig076.jpg.md)
 
 Ptolemy, lived in the century after Pomponius Mela. There is a legend
 that he was a descendant of the Egyptian kings, and knew their secret
@@ -481,4 +481,4 @@ nor the hemisphere of Antichthones.
 
 ------------------------------------------------------------------------
 
-[Next: The Square Earth of Cosmas Indicopleutes](boe21)
+[Next: The Square Earth of Cosmas Indicopleutes](boe21.md)

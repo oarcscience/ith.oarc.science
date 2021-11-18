@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb05)  [Next](ptb07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb05)  [Next](ptb07.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ faculties, and their occasional affections; as well as with the shorter
 or longer duration of those affections. They are also conformable with
 other things which, although not actually in man's immediate person, are
 still absolutely and naturally connected with him: in connection with
-his  <span id="fr_34"></span>[1](#fn_34) and his rank; and they are also
+his  <span id="fr_34"></span>[1](#fn_34.md) and his rank; and they are also
 connected with all fortuitous circumstances which may occasionally
 befall him.
 
@@ -101,7 +101,7 @@ capable of prevention. And thus, with all things whatsoever
 <span id="page_10">p. 10</span>
 
 which trace their causes and origin to nature, the case is exactly
-similar; for stones, <span id="fr_35"></span>[1](#fn_35) plants,
+similar; for stones, <span id="fr_35"></span>[1](#fn_35.md) plants,
 animals, wounds, passions, and diseases, all will of necessity operate
 on man to a certain degree; and they fail to do so, if antidotes be
 found and applied against their influence.
@@ -127,7 +127,7 @@ temperament some particular affection. And it is also to be understood
 that he ventures this opinion with the same degree of confidence, as
 that with which a physician may declare that a certain wound will
 increase or grow putrid; or a man acquainted with metals say that the
-magnet <span id="fr_36"></span>[2](#fn_36) will attract iron. But
+magnet <span id="fr_36"></span>[2](#fn_36.md) will attract iron. But
 neither the increase nor putrefaction of the wound nor the magnet's
 attraction of iron, is ordained by any inevitable law, although these
 consequences must necessarily follow, in due obedience to the first
@@ -140,7 +140,7 @@ the predictions of the astrologer--because, if garlick be rubbed
 <span id="page_11">p. 11</span>
 
 on the magnet, iron will experience no attraction; <span
-id="fr_37"></span>[1](#fn_37) and if proper medicines be applied to the
+id="fr_37"></span>[1](#fn_37.md) and if proper medicines be applied to the
 wound, it will cease to increase or to putrefy. And therefore all events
 which happen to mankind take place also in the regular course of nature,
 when no impediments thereto are found or known: but again, on the other
@@ -226,7 +226,7 @@ disorders are to be acquired: for, without astronomical knowledge,
 medical aid would be most frequently unavailing; since the same
 identical remedies are not better calculated for all persons whatsoever,
 than they are for all diseases whatsoever. <span
-id="fr_38"></span>[1](#fn_38)
+id="fr_38"></span>[1](#fn_38.md)
 
 The practicability and utility of prescience having been thus far
 briefly explained, the ensuing discourse must be proceeded with. It
@@ -239,17 +239,17 @@ of the planets and of the Sun and Moon.
 
 ### Footnotes
 
-<span id="fn_34"></span>[8:1](ptb06.htm#fr_34) The Greek word for this,
+<span id="fn_34"></span>[8:1](ptb06.htm#fr_34.md) The Greek word for this,
 γοναι, though found in the Elzevir edition from which this translation
 is made, does not appear in other copies; the Basle edition of 1553 says
 merely, η τε τιμη και το αξιωμα, "*honour and rank*," which is the sense
 also given in the Latin translation of Perugio, 1646, without any
 mention of "offspring."
 
-<span id="fn_35"></span>[10:1](ptb06.htm#fr_35) In allusion to the
+<span id="fn_35"></span>[10:1](ptb06.htm#fr_35.md) In allusion to the
 sympathetic powers anciently attributed to certain stones.
 
-<span id="fn_36"></span>[10:2](ptb06.htm#fr_36) Whalley, in translating
+<span id="fn_36"></span>[10:2](ptb06.htm#fr_36.md) Whalley, in translating
 this chapter, makes the following remark on this mention of the magnet:
 "However much later it was that the loadstone became known in Europe,
 what is mentioned of it in this chapter makes it evident that it was
@@ -262,12 +262,12 @@ century; and the French say that the earliest notice of that polarity is
 found in a poem of Guyot of Provence, who was at the Emperor Frederick's
 Court at Mentz in 1181.--See the French Encyclopædia, &c.
 
-<span id="fn_37"></span>[11:1](ptb06.htm#fr_37) Respecting the effect
+<span id="fn_37"></span>[11:1](ptb06.htm#fr_37.md) Respecting the effect
 here asserted to be produced on the magnet by garlick, I have found the
 following mention in a book called "The Gardener's Labyrinth," printed
 at London in 1586. "Here also I thought not to ouerpasse the maruellous
 discord of the adamant-stone and garlike, which the
-[Greekes](errata.htm#1) name to be an Antipatheia or naturall
+[Greekes](errata.htm#1.md) name to be an Antipatheia or naturall
 contrarietie betweene them; for such is the hatred or contrarietie
 between these two bodies (lacking both hearing and feeling), that the
 adamant rather putteth away, than draweth to it, iron, if the same afore
@@ -292,10 +292,10 @@ it is not impossible that by the word he uses for "diamond" (viz.
 *adamas*) he may mean the adamant or loadstone; which would reduce his
 assertion merely to this, that one magnet will counteract another.
 
-<span id="fn_38"></span>[13:1](ptb06.htm#fr_38) This seems to explain
+<span id="fn_38"></span>[13:1](ptb06.htm#fr_38.md) This seems to explain
 the origin of the old alliance between medicine and. astrology, so
 universally preserved until almost within the last century.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Influences of the Planetary Orbs](ptb07)
+[Next: Chapter IV. The Influences of the Planetary Orbs](ptb07.md)

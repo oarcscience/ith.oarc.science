@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth023)  [Next](toth025) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth023)  [Next](toth025.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_86">p. 86</span>
 
-## 21. HOW THE PÖ'OKONGS DESTROYED CÓOYOKO AND HIS WIFE. <span id="fr_62"></span>[1](#fn_60)
+## 21. HOW THE PÖ'OKONGS DESTROYED CÓOYOKO AND HIS WIFE. <span id="fr_62"></span>[1](#fn_60.md)
 
 Halíksai! In Oraíbi the people were living, but there were a great many
 people at that time living there, and it frequently happened that when
@@ -163,9 +163,9 @@ the Hopi always returned when they went after wood.
 
 ### Footnotes
 
-<span id="fn_60"></span>[86:1](toth024.htm#fr_62) Told by Kwáyeshva
+<span id="fn_60"></span>[86:1](toth024.htm#fr_62.md) Told by Kwáyeshva
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 22. How Pö'okong Killed the Bear](toth025)
+[Next: 22. How Pö'okong Killed the Bear](toth025.md)

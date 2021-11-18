@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp05)  [Next](prp07) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp05)  [Next](prp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ he lisps and says 'paedico', meaning 'I am sodomising you'.\]
 
 ------------------------------------------------------------------------
 
-[Next: 7. Matrons avoid this site, for your chaste breed](prp07)
+[Next: 7. Matrons avoid this site, for your chaste breed](prp07.md)

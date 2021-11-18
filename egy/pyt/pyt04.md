@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt03)  [Next](pyt05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt03)  [Next](pyt05.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ the land of) the two goddesses, divine apparition, N.,
 ------------------------------------------------------------------------
 
 [Next: 2. Ritual of Bodily Restoration of the Deceased, and Offerings,
-Utterances 12-203](pyt05)
+Utterances 12-203](pyt05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr03)  [Next](wsgr05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr03)  [Next](wsgr05.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ as he can.
 
 ------------------------------------------------------------------------
 
-[Next: Kachina Brings the Spring](wsgr05)
+[Next: Kachina Brings the Spring](wsgr05.md)

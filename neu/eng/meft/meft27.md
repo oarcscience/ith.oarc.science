@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft26)  [Next](meft28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft26)  [Next](meft28.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,4 +196,4 @@ dog jumped out and ate them all up; so there are no Hobyahs now.
 
 ------------------------------------------------------------------------
 
-[Next: A Pottle o' Brains](meft28)
+[Next: A Pottle o' Brains](meft28.md)

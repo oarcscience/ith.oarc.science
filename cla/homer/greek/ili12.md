@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [English](../ili/ili11) 
-[Previous](ili11)  [Next](ili13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [English](../ili/ili11.md) 
+[Previous](ili11)  [Next](ili13.md) 
 
 ------------------------------------------------------------------------
 
@@ -989,4 +989,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Book 13](ili13)
+[Next: Book 13](ili13.md)

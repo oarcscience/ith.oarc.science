@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh13)  [Next](ulh15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh13)  [Next](ulh15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="img_pl07"></span> <span align="CENTER"> [![PLATE VII&lt;br&gt;
 IPU HULA, GOURD DRUM](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 PLATE VII  
 IPU HULA, GOURD DRUM  
 </span>
@@ -33,7 +33,7 @@ IPU HULA, GOURD DRUM
 The *pa-ípu*, called also the *kuólo*, was a hula of dignified
 character, in which all the performers maintained the kneeling position
 and accompanied their songs with the solemn tones of the ipu ([pl.
-VII](#img_pl07)), with which each one was provided. The proper handling
+VII](#img_pl07).md), with which each one was provided. The proper handling
 of this drumlike instrument in concert with the cantillation of the mele
 made such demands upon the artist, who was both singer and
 instrumentalist, that only persons of the most approved skill and
@@ -74,13 +74,13 @@ Wela aku la Kahiki;
 Ua kaulu-wela ka moku; <span id="page_74">p. 74</span>  
 5 Wela ka ulu o Hawaii;  
 Kakala wela aku la Kahiki ia Olopana, <span
-id="fr_191"></span>[a](#fn_188)  
+id="fr_191"></span>[a](#fn_188.md)  
 Ka’u wahi kanaka;  
-O ka hei kapu <span id="fr_192"></span>[b](#fn_189) o
-Hana-ka-ulani, <span id="fr_193"></span>[c](#fn_190)  
+O ka hei kapu <span id="fr_192"></span>[b](#fn_189.md) o
+Hana-ka-ulani, <span id="fr_193"></span>[c](#fn_190.md)  
 Ka hei kapu a ke alii,  
-10 Ka hoo-mamao-lani, <span id="fr_194"></span>[d](#fn_191)  
-Ke kapu o Keawe, <span id="fr_195"></span>[e](#fn_192)  
+10 Ka hoo-mamao-lani, <span id="fr_194"></span>[d](#fn_191.md)  
+Ke kapu o Keawe, <span id="fr_195"></span>[e](#fn_192.md)  
 A o Keawe  
 Ke alii holo, ho-i’a 1 kai, e-e!
 
@@ -344,17 +344,17 @@ PALE IV
 <div style="margin-left: 32px">
 
 Aole au e hele ka li’u-lá o Maná,  
-Ia wai oupe-kanaka <span id="fr_196"></span>[a](#fn_193) o
-Lima-loa: <span id="fr_197"></span>[b](#fn_194)  
+Ia wai oupe-kanaka <span id="fr_196"></span>[a](#fn_193.md) o
+Lima-loa: <span id="fr_197"></span>[b](#fn_194.md)  
 A e hoopunipuni ia a’e nei ka malihini;  
 A mai puni au: he wai oupe na.  
 5 He ala-pahi ka li’u-lá o Maná;  
-Ke poloai <span id="fr_198"></span>[c](#fn_195) la i ke
-Koolau-wahine. <span id="fr_199"></span>[d](#fn_196)  
+Ke poloai <span id="fr_198"></span>[c](#fn_195.md) la i ke
+Koolau-wahine. <span id="fr_199"></span>[d](#fn_196.md)  
 Ua ulu mai ka hoaloha i Wailua,  
-A ua kino-lau <span id="fr_200"></span>[e](#fn_197) Kawelo <span
-id="fr_201"></span>[f](#fn_198) mahamaha-i’a, <span
-id="fr_202"></span>[g](#fn_199)
+A ua kino-lau <span id="fr_200"></span>[e](#fn_197.md) Kawelo <span
+id="fr_201"></span>[f](#fn_198.md) mahamaha-i’a, <span
+id="fr_202"></span>[g](#fn_199.md)
 
 </div>
 
@@ -362,13 +362,13 @@ id="fr_202"></span>[g](#fn_199)
 
 <div style="margin-left: 32px">
 
-A ua aona <span id="fr_203"></span>[a](#fn_200) mai nei ho oiwi e.  
+A ua aona <span id="fr_203"></span>[a](#fn_200.md) mai nei ho oiwi e.  
 10 He mea e wale au e noho aku nei la.  
 Noho.  
 O ka noho kau a ka mea waiwai;  
 O kau ka i’a a haawi ia mai.  
 Oli-oli au ke loaa ia oe.  
-15 A pela ke ahi o Ka-maile, <span id="fr_204"></span>[b](#fn_201)  
+15 A pela ke ahi o Ka-maile, <span id="fr_204"></span>[b](#fn_201.md)  
 He alualu hewa a’e la ka malihini,  
 Kukuni hewa i ka ili a kau ka uli, e;  
 Kau ka uli a ka mea aloha, e.
@@ -561,7 +561,7 @@ Oh the strife and vexation of soul!
 10 No mortal goes scathless of love.  
 A wife thou estranged, I a husband estranged,  
 Mere husks to be cast to the swine. <span
-id="fr_205"></span>[a](#fn_202)  
+id="fr_205"></span>[a](#fn_202.md)  
 Look, the swarming of fish at the weir!  
 Their feeding grounds on the reef  
 15 Are waving with mosses abundant.  
@@ -587,7 +587,7 @@ consolation in a new attachment--he dives, *lu’u*, into the great ocean,
 He--it is evidently a man--sets forth the wealth of comfort, opulence,
 that surrounds him in his new-found peace. The scene, being laid in the
 land Kailua, Oahu--the place to which the enchanted tree
-*Maka-léi* <span id="fr_206"></span>[b](#fn_203) was carried long ago,
+*Maka-léi* <span id="fr_206"></span>[b](#fn_203.md) was carried long ago,
 from which time its waters abounded in fish--fish are naturally the
 symbol of the opulence that now bless his life. But, in spite of the
 new-found peace and prosperity that attend him, there is a lonely corner
@@ -973,7 +973,7 @@ the soul.
 
 ### Footnotes
 
-<span id="fn_188"></span>[74:a](ulh14.htm#fr_191) *Olopana*. A
+<span id="fn_188"></span>[74:a](ulh14.htm#fr_191.md) *Olopana*. A
 celebrated king of Waipio valley. Hawaii, who had to wife the famous
 beauty, Luukia. Owing to misfortune, he sailed away to *Kahiki*, taking
 with him his wife and his younger brother, Moikeha, who was his
@@ -985,13 +985,13 @@ navigators. Exactly what incident in the life of Olopana is alluded to
 in the sixth and preceding verses, the traditions that narrate his
 adventures do not inform us.
 
-<span id="fn_189"></span>[74:b](ulh14.htm#fr_192) *Hei kapu*. An oracle;
+<span id="fn_189"></span>[74:b](ulh14.htm#fr_192.md) *Hei kapu*. An oracle;
 the place where the high priest kept himself while consulting the
 deities of the heiau. It was a small house erected on an elevated
 platform of stones, and there he kept himself in seclusion at such times
 as he sought to be the recipient of communications from the gods.
 
-<span id="fn_190"></span>[74:c](ulh14.htm#fr_193) *Hana-ka-ulani*. A
+<span id="fn_190"></span>[74:c](ulh14.htm#fr_193.md) *Hana-ka-ulani*. A
 name applied to several heiau (temples). The first one so styled,
 according to tradition, was built at Hana, Maui, and another one at
 Kaluanui, on Oahu. near the famous valley of Ka-liu-wa’a. These heiau
@@ -1003,11 +1003,11 @@ still higher than themselves?
 The author's informant can not tell whether these followed the fierce,
 strict cult of Kane or the milder cult of Lono.
 
-<span id="fn_191"></span>[74:d](ulh14.htm#fr_194) *Hoo-mamao-lani*. An
+<span id="fn_191"></span>[74:d](ulh14.htm#fr_194.md) *Hoo-mamao-lani*. An
 epithet meaning remote in the heavens, applied to an alai of very high
 rank.
 
-<span id="fn_192"></span>[74:e](ulh14.htm#fr_195) *Keawe*. This is a
+<span id="fn_192"></span>[74:e](ulh14.htm#fr_195.md) *Keawe*. This is a
 name that belonged to several kings and a large family of gods--*papa
 akua*--all of which gods are said to have come from Kahiki and to have
 dated their origin from the *Wa Po*, the twilight of antiquity. Among
@@ -1084,26 +1084,26 @@ regular orthodox deities. Somewhat in the same way do we use the name
 Jack as a caption for a miscellaneous lot of functions, as when we speak
 of a "Jack-at-all-trades."
 
-<span id="fn_193"></span>[79:a](ulh14.htm#fr_196) *Wai oupe-kanaka*.
+<span id="fn_193"></span>[79:a](ulh14.htm#fr_196.md) *Wai oupe-kanaka*.
 Man-fooling water; the mirage.
 
-<span id="fn_194"></span>[79:b](ulh14.htm#fr_197) *Lima-loa*. The
+<span id="fn_194"></span>[79:b](ulh14.htm#fr_197.md) *Lima-loa*. The
 long-armed, the god of the mirage, who made his appearance at Maná,
 Kauai.
 
-<span id="fn_195"></span>[79:c](ulh14.htm#fr_198) *Poloai*. To converse
+<span id="fn_195"></span>[79:c](ulh14.htm#fr_198.md) *Poloai*. To converse
 with, to have dealings with one.
 
-<span id="fn_196"></span>[79:d](ulh14.htm#fr_199) *Koolau-wahine*. The
+<span id="fn_196"></span>[79:d](ulh14.htm#fr_199.md) *Koolau-wahine*. The
 sea-breeze at Mana. There is truth as well as poetry in the assertion
 made in this verse. The warm moist air, rising from the heated sands of
 Maná, did undoubtedly draw in the cool breeze from the ocean--a fruitful
 dalliance.
 
-<span id="fn_197"></span>[79:e](ulh14.htm#fr_200) *Kino-lau*. Having
+<span id="fn_197"></span>[79:e](ulh14.htm#fr_200.md) *Kino-lau*. Having
 many (400) bodies, or metamorphoses, said of Kawelo.
 
-<span id="fn_198"></span>[79:f](ulh14.htm#fr_201) *Kawelo*. A sorcerer
+<span id="fn_198"></span>[79:f](ulh14.htm#fr_201.md) *Kawelo*. A sorcerer
 who lived in the region of Maná. His favorite metamorphosis was into the
 form of a shark. Even when in human form he retained the gills of a fish
 and had the mouth of a shark at the back of his shoulders, while to the
@@ -1146,16 +1146,16 @@ the many species of shark that now infest our ocean.
 The house which once was Kawelo's ocean residence is still pointed out,
 7 fathoms deep, a structure regularly built of rocks.
 
-<span id="fn_199"></span>[79:g](ulh14.htm#fr_202) *Maha-maha i’a*. The
+<span id="fn_199"></span>[79:g](ulh14.htm#fr_202.md) *Maha-maha i’a*. The
 gills or fins of a fish such as marked Kawelo.
 
-<span id="fn_200"></span>[80:a](ulh14.htm#fr_203) *Aona*. A word of
+<span id="fn_200"></span>[80:a](ulh14.htm#fr_203.md) *Aona*. A word of
 doubtful meaning; according to one it means lucky. That expounder
 (T------ P------) says it should, or might be, *haona*; he instances the
 phrase *iwi paoa*, in which the word *paoa* has a similar, but not
 identical, form and means lucky bone.
 
-<span id="fn_201"></span>[80:b](ulh14.htm#fr_204) *Ka-maile*. A place on
+<span id="fn_201"></span>[80:b](ulh14.htm#fr_204.md) *Ka-maile*. A place on
 Kauai where prevailed the custom of throwing firebrands down the lofty
 precipice of Nuololo. This amusement made a fine display at night. As
 the fire-sticks fell they swayed and drifted in the breeze, making it
@@ -1165,12 +1165,12 @@ being one of the objects of the sport. When a visitor had accomplished
 this feat, he would sometimes mark his flesh with the burning stick that
 he might show the brand to his sweetheart as a token of his fidelity,
 
-<span id="fn_202"></span>[83:a](ulh14.htm#fr_205) In the original, *He
+<span id="fn_202"></span>[83:a](ulh14.htm#fr_205.md) In the original, *He
 mau alualu ka ha’i e lawe*, literally "Some skins for another to take."
 
-<span id="fn_203"></span>[83:b](ulh14.htm#fr_206) *Maka-léi*. (See note
-*b*, [p. 17](ulh06.htm#page_17).)
+<span id="fn_203"></span>[83:b](ulh14.htm#fr_206.md) *Maka-léi*. (See note
+*b*, [p. 17](ulh06.htm#page_17)..md)
 
 ------------------------------------------------------------------------
 
-[Next: XI.--The Hula Ki’i](ulh15)
+[Next: XI.--The Hula Ki’i](ulh15.md)

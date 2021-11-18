@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps38)  [Next](rps40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps38)  [Next](rps40.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ and Queen Omega.
 ------------------------------------------------------------------------
 
 [Next: Chapter 38. His And Her Majesty King Melchiszedek's
-Affidavit](rps40)
+Affidavit](rps40.md)

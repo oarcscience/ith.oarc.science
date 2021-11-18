@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](plm)  [Next](jam) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](plm)  [Next](jam.md) 
 
 ------------------------------------------------------------------------
 
@@ -1114,4 +1114,4 @@ you, and all the saints. They of Italy salute you.
 
 ------------------------------------------------------------------------
 
-[Next: James](jam)
+[Next: James](jam.md)

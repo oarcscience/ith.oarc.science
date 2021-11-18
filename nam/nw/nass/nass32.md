@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass31)  [Next](nass33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass31)  [Next](nass33.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ father and his son safely descend the chain of arrows.
 
 ------------------------------------------------------------------------
 
-[Next: Rotten-feathers](nass33)
+[Next: Rotten-feathers](nass33.md)

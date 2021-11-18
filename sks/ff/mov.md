@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../mov/mov) 
-[Previous](mnd)  [Next](ayl) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../mov/mov.md) 
+[Previous](mnd)  [Next](ayl.md) 
 
 ------------------------------------------------------------------------
 
@@ -3376,4 +3376,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: As you Like it](ayl) 
+[Next: As you Like it](ayl.md) 

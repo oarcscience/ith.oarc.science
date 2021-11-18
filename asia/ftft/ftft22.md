@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft21)  [Next](ftft23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft21)  [Next](ftft23.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_159">p. 159</span>
 
 <span id="img_15900"></span> ![The Enchanted Pomegranate Branch and the
-Beauty](img/15900.jpg)
+Beauty](img/15900.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a Padishah who, being very dull at home, resolved to make
 a journey with his Vezir. Before setting out, however, he called his
@@ -90,7 +90,7 @@ to the owner and obtain permission now."
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 S they went along they came across a farmer ploughing. Greeting him,
 they told him about the apple, and when the story was finished, the
@@ -133,7 +133,7 @@ decided to use upon their travels.<span id="img_16200"></span>
 
 |                                                                 |
 |-----------------------------------------------------------------|
-| ![The innkeeper kicked him unceremoniously away](img/16200.jpg) |
+| ![The innkeeper kicked him unceremoniously away](img/16200.jpg.md) |
 
 They mounted their horses and rode away. Soon they met the farmer, of
 whom they took leave, stopping not again until they reached home. Having
@@ -247,7 +247,7 @@ id="img_16500"></span>
 
 |                                                                |
 |----------------------------------------------------------------|
-| ![He saw a little fish floundering on the sand](img/16500.jpg) |
+| ![He saw a little fish floundering on the sand](img/16500.jpg.md) |
 
 On the following day the youth set off over hill and down dale, across
 plains and through ravines, in quest of the Princess Beautiful. After
@@ -277,7 +277,7 @@ feathers, saying: "When in trouble burn one of these."
 
 |                     |
 |---------------------|
-| ![O](img/oinit.jpg) |
+| ![O](img/oinit.jpg.md) |
 
 NCE more he took his pilgrim-staff and went o’er mountain and sea until
 he came to a large city. He was now in the kingdom of the father of
@@ -309,7 +309,7 @@ been overlooked.
 <span id="img_16700"></span>
 
 [![The Princess now appeared](tn/16700.jpg)  
-Click to enlarge](img/16700.jpg)  
+Click to enlarge](img/16700.jpg.md)  
 The Princess now appeared  
 
 <span id="page_168">p. 168</span>
@@ -359,7 +359,7 @@ id="img_16900"></span>
 
 |                                                            |
 |------------------------------------------------------------|
-| ![The old woman was about ninety years old](img/16900.jpg) |
+| ![The old woman was about ninety years old](img/16900.jpg.md) |
 
 Continuing his onward way, the little garden at length came in view. At
 the gate were the shrieking talismans and also the guard. The Prince
@@ -395,7 +395,7 @@ him fiercely.
 The Prince knew not what had happened; he saw only that he was on
 
 <span id="img_17000"></span> ![The Creature was making off with
-him](img/17000.jpg)
+him](img/17000.jpg.md)
 
 <span id="page_171">p. 171</span>
 
@@ -485,4 +485,4 @@ the Princess Beautiful.
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Hair-Pins](ftft23)
+[Next: The Magic Hair-Pins](ftft23.md)

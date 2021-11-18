@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](srg16)  [Next](srg18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](srg16)  [Next](srg18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCSCQ/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Rose Garden*, by Florence Lederer, \[1920\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ Infidel with faithful, and faithful with infidel.
 At the point of the present are gathered  
 All cycles and seasons, day, month, and year.  
 World at beginning is world without end. <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 . . . From every point in this circle  
 A thousand forms are drawn;  
@@ -178,13 +178,13 @@ Fulfil His will day and night.
 
 ### Footnotes
 
-<span id="fn_5"></span>[82:1](srg17.htm#fr_5) There is no past or
+<span id="fn_5"></span>[82:1](srg17.htm#fr_5.md) There is no past or
 present with God, but an eternal Now.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Part XIV. The Light Manifest](srg18)
+[Next: Part XIV. The Light Manifest](srg18.md)
 
 </div>

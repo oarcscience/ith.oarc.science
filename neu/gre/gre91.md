@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre90)  [Next](gre92) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre90)  [Next](gre92.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ and therewithal Thorod joined Grettir's kin in these matters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXVII: Affairs at the Althing](gre92)
+[Next: Chapter LXXXVII: Affairs at the Althing](gre92.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku67)  [Next](tku69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku67)  [Next](tku69.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ as the smoke.
 571\. But when He the most Holy Ancient One is unveiled, all things are
 at peace. This is that which is said, Isa. xlviii. 9: "And for My praise
 will I refrain from thee" (*literally, "block up thy nostrils"* <span
-id="fr_286"></span>[1](#fn_283)).
+id="fr_286"></span>[1](#fn_283).md).
 
 572\. The nose of the Most Holy Ancient One is long and extended, and He
 is called Arikh Aphim, Long of Nose.
@@ -104,14 +104,14 @@ concerning Microprosopus.
 
 ### Footnotes
 
-<span id="fn_282"></span>[316:1](tku67.htm#fr_285) The first, RAShVN,
+<span id="fn_282"></span>[316:1](tku67.htm#fr_285.md) The first, RAShVN,
 Rashon, where this word, derived from the same root as RAShITh, is spelt
 with A.
 
-<span id="fn_283"></span>[317:1](tku68.htm#fr_286) The Hebrew idiom for
+<span id="fn_283"></span>[317:1](tku68.htm#fr_286.md) The Hebrew idiom for
 having mercy always refers to the nose, as "to defer anger" is in Hebrew
 "to lengthen the nose," &c.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Concerning the Ears of Microprosopus](tku69)
+[Next: Chapter XVI: Concerning the Ears of Microprosopus](tku69.md)

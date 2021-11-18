@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](eci09)  [Next](eci11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](eci09)  [Next](eci11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -82,14 +82,14 @@ common to all the Mission Indians. Such similarities are not restricted
 to the material side of life, but are conspicuous in the general social
 and religious organization. On the side of mythology, however, the
 Yokuts resemble the northern Californians, and the Mission Indians the
-tribes of the Southwest. <span id="fr_27"></span>[25](#fn_26) The
+tribes of the Southwest. <span id="fr_27"></span>[25](#fn_26.md) The
 physical type of the Yokuts, or at least their southern tribes, has also
 been shown to be nearly identical with that of the
 
 <span id="page_67">p. 67</span>
 
 <span class="contnote">\[paragraph continues\]</span> Mission
-Indians, <span id="fr_28"></span>[26](#fn_27) though the possible
+Indians, <span id="fr_28"></span>[26](#fn_27.md) though the possible
 historical significance of this resemblance is weakened by the
 similarity of both types to the Mohave-Yuma physical form. All in all,
 the Yokuts form part of the great Central culture group of California,
@@ -113,12 +113,12 @@ the Indians of Central California on the other side.
 
 ### Footnotes
 
-<span id="fn_26"></span>[66:25](eci10.htm#fr_27) Present series, IV,
+<span id="fn_26"></span>[66:25](eci10.htm#fr_27.md) Present series, IV,
 167, 1907; Journ. Am. Folk-Lore, XIX, 309, 1906.
 
-<span id="fn_27"></span>[67:26](eci10.htm#fr_28) Boas, Proc. Am. Ass.
+<span id="fn_27"></span>[67:26](eci10.htm#fr_28.md) Boas, Proc. Am. Ass.
 Adv. Science, XLIV, 261, 1896.
 
 ------------------------------------------------------------------------
 
-[Next: Catalogue Numbers of Specimens Shown in Plates](eci11)
+[Next: Catalogue Numbers of Specimens Shown in Plates](eci11.md)

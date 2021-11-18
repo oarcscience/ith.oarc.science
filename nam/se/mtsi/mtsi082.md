@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi081)  [Next](mtsi083) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi081)  [Next](mtsi083.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ destruction would result."
 
 ------------------------------------------------------------------------
 
-[Next: 81. The Language of Animals](mtsi083)
+[Next: 81. The Language of Animals](mtsi083.md)

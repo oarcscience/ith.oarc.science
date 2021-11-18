@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd06)  [Next](pbd08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd06)  [Next](pbd08.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ in case the bear doctor was attacked by hunters.
 
 A type of body armor, made of wooden rods and used in open warfare, is
 said to have been sometimes used by bear doctors. This
-[consisted](errata.htm#1) of two layers of rods obtained from the
+[consisted](errata.htm#1.md) of two layers of rods obtained from the
 snowdrop bush (*bakol*), each rod being about the size of a lead pencil.
 These were bound together with string, one layer of rods being placed
 vertically and the other horizontally, in such a manner as to make a
@@ -86,7 +86,7 @@ above mentioned. They were sometimes filled with water, as were the
 small baskets, and at other times were used as receptacles for beads,
 berries, or other commodities.
 
-[Plate 7 (frontispiece)](pbd00.htm#img_front) shows a Pomo bear doctor
+[Plate 7 (frontispiece)](pbd00.htm#img_front.md) shows a Pomo bear doctor
 suit, in the Peabody Museum of Harvard University, reproduced by
 courtesy of Mr. C. C. Willoughby. This is a model. While differing in
 some details from the explanations received from informants, it confirms
@@ -94,4 +94,4 @@ them in substance.
 
 ------------------------------------------------------------------------
 
-[Next: Weapons and Their Use](pbd08)
+[Next: Weapons and Their Use](pbd08.md)

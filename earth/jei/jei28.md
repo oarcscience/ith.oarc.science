@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei27)  [Next](jei29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei27)  [Next](jei29.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ not represent the truth what is the truth? What the orthodox scientists
 have told us? Any time that the orthodox scientists will explain to us
 the following phenomena as fully as our theory explains them, we will be
 willing to abandon our theory. But until they can explain them in a
-[consistent](errata.htm#118) way--that is to say not merely explain one
+[consistent](errata.htm#118.md) way--that is to say not merely explain one
 thing by an argument that is overthrown by some other thing, for
 instance not explain the polar cap of Mars by some explanation which has
 to be abandoned when they come to that of Venus--until they can do that
@@ -95,7 +95,7 @@ magnetic needle? And if the aurora is shown to be independent of
 magnetic conditions what else can it be due to than a source of light?
 Is not the reflection of the aurora light from the higher reaches of the
 atmosphere comparable to the projection of the light of the
-[Martian](errata.htm#119) caps into the higher reaches of the Martian
+[Martian](errata.htm#119.md) caps into the higher reaches of the Martian
 atmosphere? And how do scientists explain the fact that the aurora is
 only distinctly seen in the very far north and only seen in a
 fragmentary way when we get further south?
@@ -192,7 +192,7 @@ in a previous chapter?
 And here is another puzzle which the scientists might well be asked to
 solve before they disdain the contributions of one who is not a member
 of their guild or union. Some scientists, for example, Proctor, say that
-the moon was originally a free [planetesimal](errata.htm#120) body which
+the moon was originally a free [planetesimal](errata.htm#120.md) body which
 has been captured by the earth. Other scientists--among them
 Pickering--have claimed that the moon was thrown off from the earth's
 surface in an early stage of the history of the
@@ -285,4 +285,4 @@ scientists of today to rally to our side.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](jei29)
+[Next: Bibliography](jei29.md)

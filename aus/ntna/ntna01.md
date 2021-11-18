@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna00)  [Next](ntna02) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna00)  [Next](ntna02.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ National Museum, Melbourne.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](ntna02)
+[Next: Contents](ntna02.md)

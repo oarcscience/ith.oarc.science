@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat05)  [Next](aat07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat05)  [Next](aat07.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ and travelled all over the world. Her sister, Eagle-Woman, searched
 everywhere for her, for she wanted to get the hearts, that she might
 restore the people to life. As she sought, she kicked up the earth, and
 so the mountains were made. Finally she secured the hearts, <span
-id="fr_0"></span>[1](#fn_0) and brought them back to where the house had
+id="fr_0"></span>[1](#fn_0.md) and brought them back to where the house had
 been. She rebuilt the house, and then put the hearts in water, in the
 
 <span id="page_167">p. 167</span>
@@ -67,7 +67,7 @@ they went away, some in one direction, some in another.
 
 ### Footnotes
 
-<span id="fn_0"></span>[166:1](aat06.htm#fr_0) How this came about is
+<span id="fn_0"></span>[166:1](aat06.htm#fr_0.md) How this came about is
 not stated. The latter portion, as well as much of the tale, is very
 incomplete, and obviously abbreviated. It is said that up to the end of
 this story, all the events of creation move in an orderly manner in one
@@ -77,4 +77,4 @@ of their subsequent doings are without sequence.
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Lost Brother (Achomawi)](aat07)
+[Next: 6. The Lost Brother (Achomawi)](aat07.md)

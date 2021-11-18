@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc12)  [Next](bosc14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc12)  [Next](bosc14.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ aspect was the same, they celebrated the anniversary.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Indian Wars](bosc14)
+[Next: Chapter XII. The Indian Wars](bosc14.md)

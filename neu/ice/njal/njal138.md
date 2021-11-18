@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal137)  [Next](njal139) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal137)  [Next](njal139.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ Then they fared thither.
 
 ------------------------------------------------------------------------
 
-[Next: 139. Of Asgrim And Gudmund](njal139)
+[Next: 139. Of Asgrim And Gudmund](njal139.md)

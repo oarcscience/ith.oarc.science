@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt19)  [Next](crt21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt19)  [Next](crt21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ Intangible Textual Heritage
 <span id="image22"></span><span id="img_image22"></span>
 
 [![THE EPIPHANY IN FLORENCE.](tn/image22.jpg)  
-Click to enlarge](img/image22.jpg)  
+Click to enlarge](img/image22.jpg.md)  
   
 
 THE EPIPHANY IN FLORENCE.
@@ -43,10 +43,10 @@ THE EPIPHANY IN FLORENCE.
 Though the Epiphany has ceased to be a popular festival in England, it
 was once a very high day indeed, and in many parts of Europe it is still
 attended by folk-customs of great
-interest.﻿ [116](crt24.htm#Footnote_116)<span id="FNanchor_116"></span>
+interest.﻿ [116](crt24.htm#Footnote_116.md)<span id="FNanchor_116"></span>
 For the peasant of Tyrol, indeed, it is New Year's Day, the first of
 January being kept only by the townsfolk and modernized
-people.﻿ [17-1](crt22.htm#Note_17-1)<span id="Nanchor_17-1"></span>
+people.﻿ [17-1](crt22.htm#Note_17-1.md)<span id="Nanchor_17-1"></span>
 
 To Englishmen perhaps the best known feature of the secular festival is
 the Twelfth Cake. Some words of Leigh Hunt's will show what an important
@@ -65,7 +65,7 @@ place this held in the mid-nineteenth century:﻿—
 > bad to eat but so fine to look at, useful because it is perfectly
 > useless except for a sight and a moral﻿—all conspire to throw a giddy
 > splendour over the last night of the season, and to send it to bed in
-> pomp and colours, like a Prince.”﻿ [17-2](crt22.htm#Note_17-2)<span
+> pomp and colours, like a Prince.”﻿ [17-2](crt22.htm#Note_17-2.md)<span
 > id="Nanchor_17-2"></span>
 
 For seventeenth-century banqueting customs and the connection of the
@@ -103,7 +103,7 @@ cake with the “King of the Bean” Herrick may be quoted:﻿—
 <span class="i3">Who unurg'd will not drink,</span>  
 <span class="i3">To the base from the brink,</span>  
 <span class="i2">A health to the king and the queen
-here.”﻿ [17-3](crt22.htm#Note_17-3)<span id="Nanchor_17-3"></span>
+here.”﻿ [17-3](crt22.htm#Note_17-3.md)<span id="Nanchor_17-3"></span>
 </span>  
 
 </div>
@@ -113,7 +113,7 @@ here.”﻿ [17-3](crt22.htm#Note_17-3)<span id="Nanchor_17-3"></span>
 There are many English references to the custom of electing a Twelfth
 Day monarch by means of a bean or pea, and this “king” is mentioned in
 royal accounts as early as the reign of Edward
-II.﻿ [17-4](crt22.htm#Note_17-4)<span id="Nanchor_17-4"></span> He
+II.﻿ [17-4](crt22.htm#Note_17-4.md)<span id="Nanchor_17-4"></span> He
 appears, however, to have been even more popular in France than in
 England.
 
@@ -132,7 +132,7 @@ writer, Étienne Pasquier:﻿—
 > bean is given out. He who gets it is reckoned king of the company,
 > although he may be a person of the least importance. This done,
 > everyone eats, drinks, and dances
-> heartily.”﻿ [17-5](crt22.htm#Note_17-5)<span id="Nanchor_17-5"></span>
+> heartily.”﻿ [17-5](crt22.htm#Note_17-5.md)<span id="Nanchor_17-5"></span>
 
 In Berry at the end of the festive repast a cake is brought before the
 head of the household, and divided into as many portions as there are
@@ -140,10 +140,10 @@ guests, plus one. The youngest member of the family distributes them.
 The portion remaining is called *la part du bon Dieu* and is given to
 the first person who asks for it. A band of children generally come to
 claim it, with a leader who sings a little
-song.﻿ [17-6](crt22.htm#Note_17-6)<span id="Nanchor_17-6"></span> There
+song.﻿ [17-6](crt22.htm#Note_17-6.md)<span id="Nanchor_17-6"></span> There
 was formerly a custom of dressing up a king in full robes. He had a fool
 to amuse him during the feast, and shots were fired when he
-drank.﻿ [17-7](crt22.htm#Note_17-7)<span id="Nanchor_17-7"></span>
+drank.﻿ [17-7](crt22.htm#Note_17-7.md)<span id="Nanchor_17-7"></span>
 
 Here is a nineteenth-century account from Lorraine:﻿—
 
@@ -163,21 +163,21 @@ Here is a nineteenth-century account from Lorraine:﻿—
 > is a lady she chooses her <span id="page_340">p. 340</span> <span
 > id="Page_340"></span>king, and he invites the company to a banquet on
 > the Sunday following, at which black kings are made by rubbing the
-> face with a burnt cork.”﻿ [17-8](crt22.htm#Note_17-8)<span
+> face with a burnt cork.”﻿ [17-8](crt22.htm#Note_17-8.md)<span
 > id="Nanchor_17-8"></span>
 
 The use of the *gâteau des Rois* goes pretty far back. At the monastery
 of Mont-St.-Michel in the thirteenth century the Epiphany king was
 chosen from among the monks by means of a number of cakes in one of
 which a bean was placed. At Matins, High Mass, and Vespers he sat upon a
-special throne.﻿ [17-9](crt22.htm#Note_17-9)<span
+special throne.﻿ [17-9](crt22.htm#Note_17-9.md)<span
 id="Nanchor_17-9"></span>
 
 It may be added that there is a quaint old story of a curate “who having
 taken his preparations over evening, when all men cry (as the manner is)
 *the king drinketh*, chanting his Masse the next morning, fell asleep in
 his Memento: and, when he awoke, added with a loud voice, *The king
-drinketh*.”﻿ [17-10](crt22.htm#Note_17-10)<span
+drinketh*.”﻿ [17-10](crt22.htm#Note_17-10.md)<span
 id="Nanchor_17-10"></span>
 
 One more French “king” custom may be mentioned, though it relates to
@@ -187,14 +187,14 @@ festival, sit in a place of honour in church, and go first in the
 procession. The kingship was not elective, but was sold by auction at
 the church door, and it is said to have been so much coveted that worthy
 citizens would sell their heritage in order to purchase
-it.﻿ [17-11](crt22.htm#Note_17-11)<span id="Nanchor_17-11"></span>
+it.﻿ [17-11](crt22.htm#Note_17-11.md)<span id="Nanchor_17-11"></span>
 
 It may be remarked that Epiphany kings and cakes similar to the French
 can be traced in Holland and
-Germany,﻿ [17-12](crt22.htm#Note_17-12)<span id="Nanchor_17-12"></span>
+Germany,﻿ [17-12](crt22.htm#Note_17-12.md)<span id="Nanchor_17-12"></span>
 and that the “King of the Bean” is known in modern Italy, though there
 he may be an importation from the
-north.﻿ [17-13](crt22.htm#Note_17-13)<span id="Nanchor_17-13"></span>
+north.﻿ [17-13](crt22.htm#Note_17-13.md)<span id="Nanchor_17-13"></span>
 
 How is this merry monarch to be accounted for? His resemblance to the
 king of the *Saturnalia*, who presided over the fun of the feast in the
@@ -209,7 +209,7 @@ enabling his pursuers to overtake him. Moreover, the *flamen dialis* in
 Rome was forbidden to eat or even name the vegetable, and the <span
 id="page_341">p. 341</span> <span id="Page_341"></span>name of the
 Fabii, a Roman *gens*, suggests a totem tribe of the
-bean.﻿ [17-14](crt22.htm#Note_17-14)<span id="Nanchor_17-14"></span>
+bean.﻿ [17-14](crt22.htm#Note_17-14.md)<span id="Nanchor_17-14"></span>
 
 In eastern Europe, though I know of no election of a king, there are New
 Year customs with cakes, closely resembling some of the French practices
@@ -225,13 +225,13 @@ inanimate property, and the rest for each member of the household
 according to age. Each portion is successively dipped in a cup of wine.”
 He who finds the cross or the coin in his share of the cake will prosper
 during the year. The money is considered sacred and is used to buy a
-votive taper.﻿ [17-15](crt22.htm#Note_17-15)<span
+votive taper.﻿ [17-15](crt22.htm#Note_17-15.md)<span
 id="Nanchor_17-15"></span>
 
 In Macedonia when the New Year's supper is over, the table, with the
 remnants of the feast upon it, is removed to a corner of the room in
 order that St. Basil may come and partake of the
-food.﻿ [17-16](crt22.htm#Note_17-16)<span id="Nanchor_17-16"></span> He
+food.﻿ [17-16](crt22.htm#Note_17-16.md)<span id="Nanchor_17-16"></span> He
 appears to have been substituted by the Church for the spirits of the
 departed, for whom, as we have seen, food is left in the West on All
 Souls’ and Christmas Eves. Probably the Macedonian practice of setting
@@ -250,16 +250,16 @@ bells, whips, &c., in order to <span id="page_342">p. 342</span> <span
 id="Page_342"></span>frighten away two wood-spirits. In Labruguière in
 southern France on the Eve of Twelfth Day the inhabitants rush through
 the streets, making discordant noises and a huge uproar, with the object
-of scaring away ghosts and devils.﻿ [17-17](crt22.htm#Note_17-17)<span
+of scaring away ghosts and devils.﻿ [17-17](crt22.htm#Note_17-17.md)<span
 id="Nanchor_17-17"></span>
 
 In parts of the eastern Alps there takes place what is called
 *Berchtenlaufen*. Lads, formerly to the number of two or three hundred,
 rush about in the strangest masks, with cowbells, whips, and all sorts
-of weapons, and shout wildly.﻿ [17-18](crt22.htm#Note_17-18)<span
+of weapons, and shout wildly.﻿ [17-18](crt22.htm#Note_17-18.md)<span
 id="Nanchor_17-18"></span> In Nuremberg up to the year 1616 on
 *Bergnacht* or Epiphany Eve boys and girls used to run about the streets
-and knock loudly at the doors.﻿ [17-19](crt22.htm#Note_17-19)<span
+and knock loudly at the doors.﻿ [17-19](crt22.htm#Note_17-19.md)<span
 id="Nanchor_17-19"></span> Such knocking, as we have seen, may well have
 been intended to drive away spirits from the houses.
 
@@ -268,7 +268,7 @@ At Eschenloh near Partenkirchen in Upper Bavaria three women used to
 with holes for the mouth and eyes. One carried a chain, another a rake,
 and the third a broom. Going round to the houses, they knocked on the
 door with the chain, scraped the ground with the rake, and made a noise
-of sweeping with the broom.﻿ [17-20](crt22.htm#Note_17-20)<span
+of sweeping with the broom.﻿ [17-20](crt22.htm#Note_17-20.md)<span
 id="Nanchor_17-20"></span> The suggestion of a clearing away of evils is
 here very strong.
 
@@ -278,7 +278,7 @@ on the Epiphany. In Roumania, where a similar sprinkling is performed, a
 curious piece of imitative magic is added﻿—the priest is invited to sit
 upon the bed, in order that the brooding hen may sit upon her eggs.
 Moreover there should be maize grains under the mattress; then the hen
-will lay eggs in abundance.﻿ [17-21](crt22.htm#Note_17-21)<span
+will lay eggs in abundance.﻿ [17-21](crt22.htm#Note_17-21.md)<span
 id="Nanchor_17-21"></span>
 
 We noted in an earlier chapter the name *Berchtentag* applied in
@@ -288,7 +288,7 @@ Epiphany and its Eve in the Möllthal in Carinthia a female figure, “the
 Berchtel,” goes the round of the houses. She is generally dressed in a
 hide, wears a hideous wooden mask, and hops wildly about, inquiring as
 to the behaviour of children, and demanding
-gifts.﻿ [17-22](crt22.htm#Note_17-22)<span id="Nanchor_17-22"></span>
+gifts.﻿ [17-22](crt22.htm#Note_17-22.md)<span id="Nanchor_17-22"></span>
 
 <span id="page_343">p. 343</span> <span id="Page_343"></span>Something
 of the terrible, as well as the beneficent, belongs to the “Befana,” the
@@ -296,28 +296,28 @@ Epiphany visitor who to Italian children is the great gift-bringer of
 the year, the Santa Klaus of the South. “Delightful,” say Countess
 Martinengo, “as are the treasures she puts in their shoes when satisfied
 with their behaviour, she is credited with an unpleasantly sharp eye for
-youthful transgressions.”﻿ [17-23](crt22.htm#Note_17-23)<span
+youthful transgressions.”﻿ [17-23](crt22.htm#Note_17-23.md)<span
 id="Nanchor_17-23"></span> Mothers will sometimes warn their children
 that if they are naughty the Befana will fetch and eat them. To Italian
 youngsters she is a very real being, and her coming on Epiphany Eve is
 looked forward to with the greatest anxiety. Though she puts playthings
 and sweets in the stockings of good children, she has nothing but a
 birch and coal for those who misbehave
-themselves.﻿ [17-24](crt22.htm#Note_17-24)<span
+themselves.﻿ [17-24](crt22.htm#Note_17-24.md)<span
 id="Nanchor_17-24"></span>
 
 Formerly at Florence images of the Befana were put up in the windows of
 houses, and there were processions through the streets, guys being borne
 about, with a great blowing of
-trumpets.﻿ [17-25](crt22.htm#Note_17-25)<span id="Nanchor_17-25"></span>
+trumpets.﻿ [17-25](crt22.htm#Note_17-25.md)<span id="Nanchor_17-25"></span>
 Toy trumpets are still the delight of little boys at the Epiphany in
 Italy.
 
 The Befana's name is obviously derived from *Epiphania*. In Naples the
 little old woman who fills children's stockings is called “Pasqua
-Epiphania,”﻿ [117](crt24.htm#Footnote_117)<span
+Epiphania,”﻿ [117](crt24.htm#Footnote_117.md)<span
 id="FNanchor_117"></span> the northern contraction not having been
-acclimatized there.﻿ [17-26](crt22.htm#Note_17-26)<span
+acclimatized there.﻿ [17-26](crt22.htm#Note_17-26.md)<span
 id="Nanchor_17-26"></span>
 
 In Spain as well as Italy the Epiphany is associated with presents for
@@ -328,7 +328,7 @@ visit children, leaving sweets and toys for them if they have behaved
 well. On Epiphany Eve the youngsters go early to bed, put out their
 shoes on the window-sill or balcony to be filled with presents by the
 Wise Men, and provide a little straw for their
-horses.﻿ [17-27](crt22.htm#Note_17-27)<span id="Nanchor_17-27"></span>
+horses.﻿ [17-27](crt22.htm#Note_17-27.md)<span id="Nanchor_17-27"></span>
 
 It is, or was, a custom in Madrid to look out for the Kings on Epiphany
 Eve. Companies of men go out with bells and pots and pans, and make a
@@ -337,7 +337,7 @@ upon the scene. One of the men carries a large ladder, and mounts it to
 see if the Kings are <span id="page_344">p. 344</span> <span
 id="Page_344"></span>coming. Here, perhaps, some devil-scaring rite,
 resembling those described above, has been
-half-Christianized.﻿ [17-28](crt22.htm#Note_17-28)<span
+half-Christianized.﻿ [17-28](crt22.htm#Note_17-28.md)<span
 id="Nanchor_17-28"></span>
 
 In Provence, too, there was a custom of going to meet the Magi. In a
@@ -350,28 +350,28 @@ died away, and the children stood gaping alone on the darkening
 highway﻿—the Kings had passed behind the mountain. After supper the
 little ones hurried to church, and there in the Chapel of the Nativity
 beheld the Kings in adoration before the
-Crib.﻿ [17-29](crt22.htm#Note_17-29)<span id="Nanchor_17-29"></span>
+Crib.﻿ [17-29](crt22.htm#Note_17-29.md)<span id="Nanchor_17-29"></span>
 
 At Trest not only did the young people carry baskets or dried fruit, but
 there were three men dressed as Magi to receive the offerings and accept
 compliments addressed to them by an orator. In return they presented him
 with a purse full of counters, upon which he rushed off with the
 treasure and was pursued by the others in a sort of
-dance.﻿ [17-30](crt22.htm#Note_17-30)<span id="Nanchor_17-30"></span>
+dance.﻿ [17-30](crt22.htm#Note_17-30.md)<span id="Nanchor_17-30"></span>
 Here again the Magi are evidently mixed up with something that has no
 relation to Christianity.
 
-We noted in  [IV](crt07.htm#Chapter_IV) the elaborate ceremonies
+We noted in  [IV](crt07.htm#Chapter_IV.md) the elaborate ceremonies
 connected in Greece with the Blessing of the Waters at the Epiphany, and
 the custom of diving for a cross. It would seem, as was pointed out,
 that the latter is an ecclesiastically sanctioned form of a
 folk-ceremony. This is found in a purer state in Macedonia, where, after
 Matins on the Epiphany, it is the custom to thrust some one into water,
 be it sea or river, pond or well. On emerging he has to sprinkle the
-bystanders.﻿ [17-31](crt22.htm#Note_17-31)<span
+bystanders.﻿ [17-31](crt22.htm#Note_17-31.md)<span
 id="Nanchor_17-31"></span> The rite may be compared with the drenchings
 of human beings in order to produce rain described by Dr. Frazer in “The
-Magic Art.”﻿ [17-32](crt22.htm#Note_17-32)<span
+Magic Art.”﻿ [17-32](crt22.htm#Note_17-32.md)<span
 id="Nanchor_17-32"></span>
 
 Another Greek custom combines the purifying powers of Epiphany water
@@ -381,7 +381,7 @@ burning since Christmas, and are baptized in the blessed water of the
 river. They are then borne <span id="page_345">p. 345</span> <span
 id="Page_345"></span>to the vineyards, and thrown at their four corners,
 and also at the foot of apple- and
-fig-trees.﻿ [17-33](crt22.htm#Note_17-33)<span
+fig-trees.﻿ [17-33](crt22.htm#Note_17-33.md)<span
 id="Nanchor_17-33"></span>
 
 This may remind us that in England fruit-trees used to come in for
@@ -401,7 +401,7 @@ blow!</span>
 <span class="i6">Hats full! caps full!</span>  
 <span class="i6">Bushel!﻿—bushel﻿—sacks full,</span>  
 <span class="i6">And my pockets full too!
-Huzza!”﻿ [17-34](crt22.htm#Note_17-34)<span id="Nanchor_17-34"></span>
+Huzza!”﻿ [17-34](crt22.htm#Note_17-34.md)<span id="Nanchor_17-34"></span>
 </span>  
 
 </div>
@@ -409,11 +409,11 @@ Huzza!”﻿ [17-34](crt22.htm#Note_17-34)<span id="Nanchor_17-34"></span>
 </div>
 
 In seventeenth-century Somersetshire, according to Aubrey, a piece of
-toast was put upon the roots.﻿ [17-35](crt22.htm#Note_17-35)<span
+toast was put upon the roots.﻿ [17-35](crt22.htm#Note_17-35.md)<span
 id="Nanchor_17-35"></span> According to another account each person in
 the company used to take a cupful of cider, with roasted apples pressed
 into it, drink part of the contents, and throw the rest at the
-tree.﻿ [17-36](crt22.htm#Note_17-36)<span id="Nanchor_17-36"></span> The
+tree.﻿ [17-36](crt22.htm#Note_17-36.md)<span id="Nanchor_17-36"></span> The
 custom is described by Herrick as a Christmas Eve ceremony:﻿—
 
 <div class="poem">
@@ -424,7 +424,7 @@ custom is described by Herrick as a Christmas Eve ceremony:﻿—
 <span class="i2">You many a plum and many a pear;</span>  
 <span class="i2">For more or less fruits they will bring,</span>  
 <span class="i2">As you do give them
-wassailing.”﻿ [17-37](crt22.htm#Note_17-37)<span
+wassailing.”﻿ [17-37](crt22.htm#Note_17-37.md)<span
 id="Nanchor_17-37"></span> </span>  
 
 </div>
@@ -433,7 +433,7 @@ id="Nanchor_17-37"></span> </span>
 
 In Sussex the wassailing (or “worsling”) of fruit-trees took place on
 Christmas Eve, and was accompanied by a trumpeter blowing on a cow's
-horn.﻿ [17-38](crt22.htm#Note_17-38)<span id="Nanchor_17-38"></span>
+horn.﻿ [17-38](crt22.htm#Note_17-38.md)<span id="Nanchor_17-38"></span>
 
 The wassailing of the trees may be regarded as either originally an
 offering to their spirits or﻿—and this seems more probable﻿—as a
@@ -444,18 +444,18 @@ pies are a-making on St. Thomas's Eve, the maids are told to go
 out-of-doors and put their arms, sticky with paste, round the
 fruit-trees, in order that they <span id="page_346">p. 346</span> <span
 id="Page_346"></span>may bear well next
-year.﻿ [17-39](crt22.htm#Note_17-39)<span id="Nanchor_17-39"></span> The
+year.﻿ [17-39](crt22.htm#Note_17-39.md)<span id="Nanchor_17-39"></span> The
 uses of the ashes of the Christmas log have already been noticed.
 
 Sometimes, as in the Thurgau, Mecklenburg, Oldenburg, and Tyrol, the
 trees are beaten to make them bear. On New Year's Eve at Hildesheim
-people dance and sing around them,﻿ [17-40](crt22.htm#Note_17-40)<span
+people dance and sing around them,﻿ [17-40](crt22.htm#Note_17-40.md)<span
 id="Nanchor_17-40"></span> while the Tyrolese peasant on Christmas Eve
 will go out to his trees, and, knocking with bent fingers upon them,
-will bid them wake up and bear.﻿ [17-41](crt22.htm#Note_17-41)<span
+will bid them wake up and bear.﻿ [17-41](crt22.htm#Note_17-41.md)<span
 id="Nanchor_17-41"></span> There is a Slavonic custom, on the same
 night, of threatening apple-trees with a hatchet if they do not produce
-fruit during the year.﻿ [17-42](crt22.htm#Note_17-42)<span
+fruit during the year.﻿ [17-42](crt22.htm#Note_17-42.md)<span
 id="Nanchor_17-42"></span>
 
 Another remarkable agricultural rite was practised on Epiphany Eve in
@@ -463,7 +463,7 @@ Herefordshire and Gloucestershire. The farmer and his servants would
 meet in a field sown with wheat, and there light thirteen fires, with
 one larger than the rest. Round this a circle was formed by the company,
 and all would drink a glass of cider to the success of the
-harvest.﻿ [118](crt24.htm#Footnote_118)<span id="FNanchor_118"></span>
+harvest.﻿ [118](crt24.htm#Footnote_118.md)<span id="FNanchor_118"></span>
 This done, they returned to the farm, to feast﻿—in Gloucestershire﻿—on
 cakes made with caraways, and soaked in cider. The Herefordshire
 accounts give particulars of a further ceremony. A large cake was
@@ -472,11 +472,11 @@ the wain-house. The master filled a cup with strong ale, and standing
 opposite the finest ox, pledged him in a curious toast; the company
 followed his example with the other oxen, addressing each by name.
 Afterwards the large cake was put on the horn of the first
-ox.﻿ [17-43](crt22.htm#Note_17-43)<span id="Nanchor_17-43"></span>
+ox.﻿ [17-43](crt22.htm#Note_17-43.md)<span id="Nanchor_17-43"></span>
 
 It is extremely remarkable, and can scarcely be a mere coincidence, that
 far away among the southern Slavs, as we saw in
- [XII](crt16.htm#Chapter_XII), a Christmas cake with a hole in its
+ [XII](crt16.htm#Chapter_XII.md), a Christmas cake with a hole in its
 centre is likewise put upon the horn of the chief ox. The wassailing of
 the animals is found there also. On Christmas Day, Sir Arthur <span
 id="page_347">p. 347</span> <span id="Page_347"></span>Evans relates,
@@ -490,14 +490,14 @@ among the herd, and throwing her arms round the she-goat, whose health
 she had already drunk, gave it the ‘Peace of God’﻿—kissed it, that is,
 over and over again.” The same ceremony was then performed for the
 benefit of the sheep and cows, and all the animals were beaten with a
-leafy olive-branch.﻿ [17-44](crt22.htm#Note_17-44)<span
+leafy olive-branch.﻿ [17-44](crt22.htm#Note_17-44.md)<span
 id="Nanchor_17-44"></span>
 
 As for the fires, an Irish custom to some extent supplies a parallel. On
 Epiphany Eve a sieve of oats was set up, “and in it a dozen of candles
 set round, and in the centre one larger, all lighted.” This was said to
 be in memory of the Saviour and His apostles, lights of the
-world.﻿ [17-45](crt22.htm#Note_17-45)<span id="Nanchor_17-45"></span>
+world.﻿ [17-45](crt22.htm#Note_17-45.md)<span id="Nanchor_17-45"></span>
 Here is an account of a similar custom practised in Co. Leitrim:﻿—
 
 > “A piece of board is covered with cow-dung, and twelve rushlights are
@@ -507,7 +507,7 @@ Here is an account of a similar custom practised in Co. Leitrim:﻿—
 > then made of the dung, and it is placed over the door of the cowhouse
 > for an increase of cattle. Sometimes mud is used, and the ball placed
 > over the door of the
-> dwelling-house.”﻿ [17-46](crt22.htm#Note_17-46)<span
+> dwelling-house.”﻿ [17-46](crt22.htm#Note_17-46.md)<span
 > id="Nanchor_17-46"></span>
 
 There remains to be considered under Epiphany usages an ancient and very
@@ -515,7 +515,7 @@ remarkable game played annually on January 6 at Haxey in Lincolnshire.
 It is known traditionally as “Haxey Hood,” and its centre is a struggle
 between the men of two villages for the possession of a roll of sacking
 or leather called the “hood.” Over it preside the “boggans” or
-“bullocks” of Plough Monday (see p.  [352](crt20.htm#Page_352)), headed
+“bullocks” of Plough Monday (see p.  [352](crt20.htm#Page_352).md), headed
 by a figure known as “My Lord,” who is attended by a fool. The
 proceedings are opened on the village green by a mysterious speech from
 the fool:﻿—
@@ -547,7 +547,7 @@ event of the day is the struggle for the last hood﻿—made of
 leather﻿—between the men of Haxey and the men of Westwoodside﻿—“that is
 to say really between the customers of the public-houses there﻿—each
 party trying to get it to his favourite ‘house.’ The publican at the
-successful house stands beer.”﻿ [17-47](crt22.htm#Note_17-47)<span
+successful house stands beer.”﻿ [17-47](crt22.htm#Note_17-47.md)<span
 id="Nanchor_17-47"></span>
 
 Mr. Chambers regards the fool's strange speech as preserving the
@@ -556,18 +556,18 @@ sacrificial victim, and he explains both the Haxey game and also the
 familiar games of hockey and football as originating in a struggle
 between the people of two villages to get such a head, with all its
 fertilizing properties, over their own
-boundary.﻿ [17-48](crt22.htm#Note_17-48)<span id="Nanchor_17-48"></span>
+boundary.﻿ [17-48](crt22.htm#Note_17-48.md)<span id="Nanchor_17-48"></span>
 At Hornchurch in Essex, if we may trust a note given by Hone, an actual
 boar's head was wrestled for on Christmas Day, and afterwards feasted
 upon at one of the public-houses by the victor and his
-friends.﻿ [17-49](crt22.htm#Note_17-49)<span id="Nanchor_17-49"></span>
+friends.﻿ [17-49](crt22.htm#Note_17-49.md)<span id="Nanchor_17-49"></span>
 
 One more feature of the Haxey celebration must be mentioned (it points
 apparently to a human sacrifice): the fool, the morning after the game,
 used to be “smoked” over a straw fire. “He was suspended above the fire
 and swung backwards and forwards over it until almost suffocated; then
 allowed to drop into the smouldering straw, which was well wetted, and
-to scramble out as he could.”﻿ [17-50](crt22.htm#Note_17-50)<span
+to scramble out as he could.”﻿ [17-50](crt22.htm#Note_17-50.md)<span
 id="Nanchor_17-50"></span>
 
 Returning to the subject of football, I may here condense an <span
@@ -594,11 +594,11 @@ were given, and the whole thing was taken so keenly “that a Bro or a
 Blaenau would as soon lose a cow from his cowhouse as the football from
 his portion of the parish.” There is plainly more than a mere pastime
 here; the thing appears to have been originally a struggle between two
-clans.﻿ [17-51](crt22.htm#Note_17-51)<span id="Nanchor_17-51"></span>
+clans.﻿ [17-51](crt22.htm#Note_17-51.md)<span id="Nanchor_17-51"></span>
 
 Anciently the Carnival, with its merrymaking before the austerities of
 Lent, was held to begin at the Epiphany. This was the case in Tyrol even
-in the nineteenth century.﻿ [17-52](crt22.htm#Note_17-52)<span
+in the nineteenth century.﻿ [17-52](crt22.htm#Note_17-52.md)<span
 id="Nanchor_17-52"></span> As a rule, however, the Carnival in Roman
 Catholic countries is restricted to the last three days before Ash
 Wednesday. The pagan origin of its mummeries and licence is evident, but
@@ -618,7 +618,7 @@ shouting these rude lines:﻿—
 <span class="i15">“Àdieu les Rois</span>  
 <span class="i2">Jusqu’à douze mois,</span>  
 <span class="i2">Douze mois passés</span>  
-<span class="i2">Les bougelées.”﻿ [17-53](crt22.htm#Note_17-53)<span
+<span class="i2">Les bougelées.”﻿ [17-53](crt22.htm#Note_17-53.md)<span
 id="Nanchor_17-53"></span> </span>  
 
 </div>
@@ -660,7 +660,7 @@ is a charming farewell to Christmas:﻿—
 <span class="i2">In the snow and the rain,</span>  
 <span class="i2">After twelve months</span>  
 <span class="i2">We shall see them
-again.”﻿ [17-54](crt22.htm#Note_17-54)<span id="Nanchor_17-54"></span>
+again.”﻿ [17-54](crt22.htm#Note_17-54.md)<span id="Nanchor_17-54"></span>
 </span>  
 
 </div>
@@ -675,7 +675,7 @@ the old English court, for instance, the merrymaking was sometimes
 carried on until Candlemas, while in some English country places it was
 customary, even in the late nineteenth century, to leave Christmas
 decorations up, in houses and churches, till that
-day.﻿ [17-55](crt22.htm#Note_17-55)<span id="Nanchor_17-55"></span> The
+day.﻿ [17-55](crt22.htm#Note_17-55.md)<span id="Nanchor_17-55"></span> The
 whole time between Christmas and the Presentation in the Temple was thus
 treated as sacred to the Babyhood of Christ; the withered evergreens
 would keep alive memories of Christmas joys, even, sometimes, after
@@ -706,11 +706,11 @@ Yule board, which is afterwards robbed of the viands that remain on it,
 including the Yule boar. On this day a sort of mimic fight used to take
 place, the master and servants of the house pretending to drive away the
 guests with axe, broom, knife, spoon, and other
-implements.﻿ [17-56](crt22.htm#Note_17-56)<span
+implements.﻿ [17-56](crt22.htm#Note_17-56.md)<span
 id="Nanchor_17-56"></span> The name, “St. Knut's Day,” is apparently due
 to the fact that in the laws of Canute the Great (1017-36) it is
 commanded that there is to be no fasting from Christmas to the Octave of
-the Epiphany.﻿ [17-57](crt22.htm#Note_17-57)<span
+the Epiphany.﻿ [17-57](crt22.htm#Note_17-57.md)<span
 id="Nanchor_17-57"></span>
 
 In England the day after the Epiphany was called St. Distaff's or Rock
@@ -747,7 +747,7 @@ poured water on the men:﻿—
 <span class="i2">Then bid Christmas sport good night;</span>  
 <span class="i2">And next morrow, every one</span>  
 <span class="i2">To his own
-vocation.”﻿ [17-58](crt22.htm#Note_17-58)<span
+vocation.”﻿ [17-58](crt22.htm#Note_17-58.md)<span
 id="Nanchor_17-58"></span> </span>  
 
 </div>
@@ -757,7 +757,7 @@ id="Nanchor_17-58"></span> </span>
 <span id="page_352">p. 352</span> <span id="Page_352"></span>A more
 notable occasion was Plough Monday, the first after Twelfth Day. Men's
 labour then began again after the
-holidays.﻿ [17-59](crt22.htm#Note_17-59)<span id="Nanchor_17-59"></span>
+holidays.﻿ [17-59](crt22.htm#Note_17-59.md)<span id="Nanchor_17-59"></span>
 We have already seen that it is sometimes associated with the mummers’
 plays. Often, however, its ritual is not developed into actual drama,
 and the following account from Derbyshire gives a fairly typical
@@ -776,14 +776,14 @@ description of its customs:﻿—
 > ‘Largess!’ is raised, and a dance performed round the plough. If a
 > refusal to their application for money is made they not unfrequently
 > plough up the pathway, door-stone, or any other portion of the
-> premises they happen to be near.”﻿ [17-60](crt22.htm#Note_17-60)<span
+> premises they happen to be near.”﻿ [17-60](crt22.htm#Note_17-60.md)<span
 > id="Nanchor_17-60"></span>
 
 By Plough Monday we have passed, it seems probable, from New Year
 festivals to one that originally celebrated the beginning of spring.
 Such a feast, apparently, was kept in mid-February when ploughing began
 at that season; later the advance of agriculture made it possible to
-shift it forward to early January.﻿ [17-61](crt22.htm#Note_17-61)<span
+shift it forward to early January.﻿ [17-61](crt22.htm#Note_17-61.md)<span
 id="Nanchor_17-61"></span>
 
 ### <span class="smcap">Candlemas.</span>
@@ -791,7 +791,7 @@ id="Nanchor_17-61"></span>
 Nearer to the original date of the spring feast is Candlemas,
 February 2; though connected with Christmas by its ecclesiastical
 meaning, it is something of a vernal
-festival.﻿ [17-62](crt22.htm#Note_17-62)<span id="Nanchor_17-62"></span>
+festival.﻿ [17-62](crt22.htm#Note_17-62.md)<span id="Nanchor_17-62"></span>
 
 The feast of the Purification of the Virgin or Presentation of Christ in
 the Temple was probably instituted by Pope Liberius at Rome in the
@@ -806,7 +806,7 @@ Usener has however shown reason for thinking that the Candlemas
 procession was not of spontaneous Christian growth, but was inspired by
 a desire to Christianize a Roman rite, the *Amburbale*, which took place
 at the same season and consisted of a procession round the city with
-lighted candles.﻿ [17-63](crt22.htm#Note_17-63)<span
+lighted candles.﻿ [17-63](crt22.htm#Note_17-63.md)<span
 id="Nanchor_17-63"></span>
 
 The Candlemas customs of the sixteenth century are thus described by
@@ -833,7 +833,7 @@ abide,</span>
 <span class="i2">Nor thunder in the skies be heard, nor any devils
 spide,</span>  
 <span class="i2">Nor fearefull sprites that walke by night, nor hurts of
-frost or haile.”﻿ [17-64](crt22.htm#Note_17-64)<span
+frost or haile.”﻿ [17-64](crt22.htm#Note_17-64.md)<span
 id="Nanchor_17-64"></span> </span>  
 
 </div>
@@ -843,12 +843,12 @@ id="Nanchor_17-64"></span> </span>
 Still, in many Roman Catholic regions, the candles blessed in church at
 the Purification are believed to have marvellous powers. In Brittany,
 Franche-Comté, and elsewhere, they are preserved and lighted in time of
-storm or sickness.﻿ [17-65](crt22.htm#Note_17-65)<span
+storm or sickness.﻿ [17-65](crt22.htm#Note_17-65.md)<span
 id="Nanchor_17-65"></span> In Tyrol they are lighted on important family
 occasions such as christenings and funerals, as well as on the approach
-of a storm﻿ [17-66](crt22.htm#Note_17-66)<span
+of a storm﻿ [17-66](crt22.htm#Note_17-66.md)<span
 id="Nanchor_17-66"></span> ; in Sicily in time of earthquake or when
-somebody is dying.﻿ [17-67](crt22.htm#Note_17-67)<span
+somebody is dying.﻿ [17-67](crt22.htm#Note_17-67.md)<span
 id="Nanchor_17-67"></span>
 
 In England some use of candles on this festival continued long after the
@@ -858,15 +858,15 @@ number of all the candles burnt that evening was two hundred and twenty,
 besides sixteen torches; sixty of <span id="page_354">p.
 354</span> <span id="Page_354"></span>those burning tapers and torches
 standing upon and near the high
-Altar.”﻿ [17-68](crt22.htm#Note_17-68)<span id="Nanchor_17-68"></span>
+Altar.”﻿ [17-68](crt22.htm#Note_17-68.md)<span id="Nanchor_17-68"></span>
 Ripon Cathedral, as late as the eighteenth century, was brilliantly
 illuminated with candles on the Sunday before the
-festival.﻿ [17-69](crt22.htm#Note_17-69)<span id="Nanchor_17-69"></span>
+festival.﻿ [17-69](crt22.htm#Note_17-69.md)<span id="Nanchor_17-69"></span>
 And, to come to domestic customs, at Lyme Regis in Dorsetshire the
 person who bought the wood-ashes of a family used to send a present of a
 large candle at Candlemas. It was lighted at night, and round it there
 was festive drinking until its going out gave the signal for retirement
-to rest.﻿ [17-70](crt22.htm#Note_17-70)<span id="Nanchor_17-70"></span>
+to rest.﻿ [17-70](crt22.htm#Note_17-70.md)<span id="Nanchor_17-70"></span>
 
 There are other British Candlemas customs connected with fire. In the
 western isles of Scotland, says an early eighteenth-century writer, “as
@@ -878,12 +878,12 @@ before going to bed, and as soon as they rise in the morning, they look
 among the ashes, expecting to see the impression of Briid's club there,
 which if they do, they reckon it a true presage of a good crop and
 prosperous year, and the contrary they take as an
-ill-omen.”﻿ [17-71](crt22.htm#Note_17-71)<span
+ill-omen.”﻿ [17-71](crt22.htm#Note_17-71.md)<span
 id="Nanchor_17-71"></span> Sir Laurence Gomme regards this as an
 illustration of belief in a house-spirit whose residence is the hearth
 and whose element is the ever-burning sacred flame. He also considers
 the Lyme Regis custom mentioned above to be a modernized relic of the
-sacred hearth-fire.﻿ [17-72](crt22.htm#Note_17-72)<span
+sacred hearth-fire.﻿ [17-72](crt22.htm#Note_17-72.md)<span
 id="Nanchor_17-72"></span>
 
 Again, the feast of the Purification was the time to kindle a “brand”
@@ -907,7 +907,7 @@ recalled:﻿—
 <span class="i3">The Christmas Log next yeare;</span>  
 <span class="i2">And where ‘tis safely kept, the Fiend</span>  
 <span class="i3">Can do no mischiefe
-there.”﻿ [17-73](crt22.htm#Note_17-73)<span id="Nanchor_17-73"></span>
+there.”﻿ [17-73](crt22.htm#Note_17-73.md)<span id="Nanchor_17-73"></span>
 </span>  
 
 </div>
@@ -947,7 +947,7 @@ and
 <span class="i3">Let Box now domineere</span>  
 <span class="i2">Until the dancing Easter Day,</span>  
 <span class="i3">Or Easter's Eve
-appeare.”﻿ [17-74](crt22.htm#Note_17-74)<span id="Nanchor_17-74"></span>
+appeare.”﻿ [17-74](crt22.htm#Note_17-74.md)<span id="Nanchor_17-74"></span>
 </span>  
 
 </div>
@@ -956,7 +956,7 @@ appeare.”﻿ [17-74](crt22.htm#Note_17-74)<span id="Nanchor_17-74"></span>
 
 An old Shropshire servant, Miss Burne tells us, was wont, when she took
 down the holly and ivy on Candlemas Eve, to put snow-drops in their
-place.﻿ [17-75](crt22.htm#Note_17-75)<span id="Nanchor_17-75"></span> We
+place.﻿ [17-75](crt22.htm#Note_17-75.md)<span id="Nanchor_17-75"></span> We
 may see in this replacing of the winter evergreens by the delicate white
 flowers a hint that by Candlemas the worst of the winter is over and
 gone; Earth has begun to deck herself with blossoms, and spring, however
@@ -970,4 +970,4 @@ id="page_357">p. 357</span> <span id="Page_357"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](crt21)
+[Next: Conclusion](crt21.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [California](../index)  [Index](index) 
-[Previous](cma08)  [Next](cma10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [California](../index)  [Index](index.md) 
+[Previous](cma08)  [Next](cma10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIWZ6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Creation Myths of Primitive America*, by Jeremiah Curtin, \[1898\], at
 Intangible Textual Heritage
 
@@ -822,7 +822,7 @@ Tsiwihl put oak leaves near the coil, lay on them,
 
 <span id="page_234">p. 234</span>
 
-and looked up. Old [Lasaswa](errata.htm#0) took one end of his rope,
+and looked up. Old [Lasaswa](errata.htm#0.md) took one end of his rope,
 pulled it, and started. The rope was unwinding, and he was going up.
 Tsiwihl kept his eyes on Lasaswa. After a while he said, "Lasaswa is
 half-way up." A little later he said, "He is more than half-way up!"
@@ -1056,4 +1056,4 @@ living there now.
 
 ------------------------------------------------------------------------
 
-[Next: Kele and Sedit](cma10)
+[Next: Kele and Sedit](cma10.md)

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft40)  [Next](meft42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft40)  [Next](meft42.md) 
 
 ------------------------------------------------------------------------
 
 # Catskin
 
 <span id="img_055"></span> [![](tn/055.jpg)  
-Click to enlarge](img/055.jpg)
+Click to enlarge](img/055.jpg.md)
 
 WELL, there was once a gentleman who had fine lands and houses, and he
 very much wanted to have a son to be heir to them. So when his wife
@@ -160,4 +160,4 @@ lived happy ever afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: Stupid's Cries](meft42)
+[Next: Stupid's Cries](meft42.md)

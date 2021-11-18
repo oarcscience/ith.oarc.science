@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa26)  [Next](soa28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa26)  [Next](soa28.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ usually resulted, while in some cases a striking likeness was achieved.
 
 ------------------------------------------------------------------------
 
-[Next: Architecture](soa28)
+[Next: Architecture](soa28.md)

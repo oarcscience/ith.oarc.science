@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Next](irl01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Next](irl01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -34,18 +34,18 @@ copyright office. These files may be used for any purpose.
 
 <span id="img_ad"></span> <span align="CENTER"> [![Advertisement for I
 Remember Lemuria](tn/ad.jpg)  
-Click to enlarge](img/ad.jpg)  
+Click to enlarge](img/ad.jpg.md)  
 Advertisement for “I Remember Lemuria”  
 </span>
 
 <span id="img_vanue"></span> <span align="CENTER"> [![Princess Vanue,
 from the original Amazing Stories printing of I Remember
 Lemura!](tn/vanue.jpg)  
-Click to enlarge](img/vanue.jpg)  
+Click to enlarge](img/vanue.jpg.md)  
 Princess Vanue, from the original Amazing Stories printing of “I
 Remember Lemura!”  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](irl01)
+[Next: Foreword](irl01.md)

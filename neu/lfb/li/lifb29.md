@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb28)  [Next](lifb30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb28)  [Next](lifb30.md) 
 
 </div>
 
@@ -378,6 +378,6 @@ From 'Le Foyer Breton,' par E. Souvestre.
 
 ------------------------------------------------------------------------
 
-[Next: The Groac'h of the Isle of Lok](lifb30)
+[Next: The Groac'h of the Isle of Lok](lifb30.md)
 
 </div>

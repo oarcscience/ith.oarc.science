@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai25)  [Next](tai27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai25)  [Next](tai27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ men and was succeeded by the Sun\], stepped like a maiden in the Land of
 Troyán. . .'
 
 IV\. l. 569. 'In the seventh age of Troyán, Vséslav cast his lot for a
-maiden dear to him.' <span id="fr_16"></span>[†](#fn_16)
+maiden dear to him.' <span id="fr_16"></span>[†](#fn_16.md)
 
 In this last passage E. reads Зояни. If my view holds good that Troyán
 is derived from три three, this would be a natural eror; in the original
@@ -214,9 +214,9 @@ Sederholm remarks Vladímir I) \[v. l. 745\]
 
 ### Footnotes
 
-<span id="fn_16"></span>[xlix:†](tai26.htm#fr_16) дѣвицу. But v. note на
+<span id="fn_16"></span>[xlix:†](tai26.htm#fr_16.md) дѣвицу. But v. note на
 седьмомъ.
 
 ------------------------------------------------------------------------
 
-[Next: The Language and Grammar](tai27)
+[Next: The Language and Grammar](tai27.md)

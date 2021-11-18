@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct01) [Next](bct03)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct01) [Next](bct03.md)
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ E. A. WALLIS BUDGE
 
 ------------------------------------------------------------------------
 
-[Next](bct03)
+[Next](bct03.md)

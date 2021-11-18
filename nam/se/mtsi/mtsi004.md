@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi003)  [Next](mtsi005) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi003)  [Next](mtsi005.md) 
 
 ------------------------------------------------------------------------
 
-### 2. BEAD-SPITTER AND THROWN-AWAY <span id="fr_1"></span>[2](#fn_1) (3, 10)
+### 2. BEAD-SPITTER AND THROWN-AWAY <span id="fr_1"></span>[2](#fn_1) (3, 10.md)
 
 Bead-spitter (Konāpkesō'fkå) lived in a certain place. Two young women
 heard the name and, thinking that it must belong to some person, started
@@ -219,7 +219,7 @@ and stinging insects of all sorts and filled the house with them. When
 it is time for him to come back we will set watches for him," they said,
 and they did so. The outermost picket was the Blue Crane (watula). The
 next was the Wild Goose (ahakwa). The next was the Pelican (saså'kwa
-hā'gi). <span id="fr_2"></span>[1](#fn_2) The last and nearest were
+hā'gi). <span id="fr_2"></span>[1](#fn_2.md) The last and nearest were
 Quails (kowaigi). The Crane was stationed farthest out because it has
 the loudest voice. The Wild Goose was next because it has the next
 loudest voice. The Pelican was next because its voice is third in
@@ -260,14 +260,14 @@ there." That is the end.
 
 ### Footnotes
 
-<span id="fn_1"></span>[2:2](mtsi004.htm#fr_1) This story was "made into
+<span id="fn_1"></span>[2:2](mtsi004.htm#fr_1.md) This story was "made into
 a parable" by the Indians, i. e., it was referred to in speeches and
 used to point morals, etc.
 
-<span id="fn_2"></span>[7:1](mtsi004.htm#fr_2) So my interpreter.
+<span id="fn_2"></span>[7:1](mtsi004.htm#fr_2.md) So my interpreter.
 Loughridge and Hodge call the pelican, as well as the seagull,
 nok-su'ktca, "throat-bag." Saså'kwa hā'gi means "made like a goose."
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Orphan](mtsi005)
+[Next: 3. The Orphan](mtsi005.md)

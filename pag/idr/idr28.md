@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr27) 
-[Next](idr29) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr27.md) 
+[Next](idr29.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ charming power until duly consecrated by the priest of some faith.
 
 ------------------------------------------------------------------------
 
-[Next: Irish Crosses](idr29)
+[Next: Irish Crosses](idr29.md)

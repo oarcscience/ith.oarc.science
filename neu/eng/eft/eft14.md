@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft13)  [Next](eft15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft13)  [Next](eft15.md) 
 
 ------------------------------------------------------------------------
 
 # Jack and the Beanstalk
 
 <span id="img_037"></span> [![](tn/037.jpg)  
-Click to enlarge](img/037.jpg)
+Click to enlarge](img/037.jpg.md)
 
 THERE was once upon a time a poor widow who had an only son named Jack,
 and a cow named Milky-white. And all they had to live on was the milk
@@ -272,4 +272,4 @@ he married a great princess, and they lived happy ever after.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Three Little Pigs](eft15)
+[Next: The Story of the Three Little Pigs](eft15.md)

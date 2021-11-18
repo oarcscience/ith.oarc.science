@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft26)  [Next](tft28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft26)  [Next](tft28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -19,7 +19,7 @@ Heritage
 
 #### TWENTY-FOUR
 
-## How the Raven Saved the Hunter <span id="fr_0"></span>[1](#fn_0)
+## How the Raven Saved the Hunter <span id="fr_0"></span>[1](#fn_0.md)
 
 <span class="small">For a foolish official to speak skillful words is as
 difficult as for lightning to split a lump of bronze.  
@@ -58,9 +58,9 @@ killed the raven that had tried to save his life.
 
 ### Footnotes
 
-<span id="fn_0"></span>[103:1](tft27.htm#fr_0) Perhaps a variation of
+<span id="fn_0"></span>[103:1](tft27.htm#fr_0.md) Perhaps a variation of
 the same story told of Genghis Khan.
 
 ------------------------------------------------------------------------
 
-[Next: Twenty-Five: The Two Thieves. (A Black Tent Story)](tft28)
+[Next: Twenty-Five: The Two Thieves. (A Black Tent Story)](tft28.md)

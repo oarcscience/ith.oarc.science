@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma07)  [Next](fmma09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma07)  [Next](fmma09.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ thirty-three years.
 
 ------------------------------------------------------------------------
 
-[Next: Clovis. King From 481-511 A.D.](fmma09)
+[Next: Clovis. King From 481-511 A.D.](fmma09.md)

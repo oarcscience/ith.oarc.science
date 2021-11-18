@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Shiite
-Documents](../shi)  [Index](index)  [Previous](hus02)  [Next](hus04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Shiite
+Documents](../shi)  [Index](index)  [Previous](hus02)  [Next](hus04.md) 
 
 ------------------------------------------------------------------------
 
@@ -1512,4 +1512,4 @@ with the ring.
 
 ------------------------------------------------------------------------
 
-[Next: The Second Part](hus04)
+[Next: The Second Part](hus04.md)

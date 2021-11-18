@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft53)  [Next](efft55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft53)  [Next](efft55.md) 
 
 ------------------------------------------------------------------------
 
-# THE BAG OF FLOUR. <span id="fr_62"></span>[1](#fn_62)
+# THE BAG OF FLOUR. <span id="fr_62"></span>[1](#fn_62.md)
 
 <span id="img_12"></span> [![](tn/12.jpg)  
-Click to enlarge](img/12.jpg)  
+Click to enlarge](img/12.jpg.md)  
 "'WHAT'S THAT YOU'VE GOT ON YOUR HEAD?' SAID THE WITCH."
 
 THERE was a woman who lived near Cheadle, who went to the mill one day
@@ -43,9 +43,9 @@ things but never a one ack again but that.
 
 ### Footnotes
 
-<span id="fn_62"></span>[1](efft54.htm#fr_62) Miss C. S. Burne,
+<span id="fn_62"></span>[1](efft54.htm#fr_62.md) Miss C. S. Burne,
 *Shropshire Folk-Lore*, p. 159.
 
 ------------------------------------------------------------------------
 
-[Next: Kentsham Bell](efft55)
+[Next: Kentsham Bell](efft55.md)

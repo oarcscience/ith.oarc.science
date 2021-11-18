@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl37)  [Next](isl39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl37)  [Next](isl39.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,14 +117,14 @@ the Quraysh, and it may not be established without the oath of
 allegiance of the Muslims. When they have taken allegiance, and the Imām
 is good and pious, and knowledgeable in what is licit and illicit, then
 obedience to him is a duty for the Muslims." <span
-id="fr_156"></span>[3](#fn_156)
+id="fr_156"></span>[3](#fn_156.md)
 
 Zayd ibn ‘Alī told me on the authority of his father and grandfather
 that ‘Alī (peace be upon them all) said: "There are five things for the
 *Imām*: the Friday prayer, the Two Feasts (that of Sacrifice and that of
 Fast-breaking), collecting the alms-tax and the *ḥudūd* (Qur’ānic
 punishments), and judgment, and retaliation." <span
-id="fr_157"></span>[4](#fn_157)
+id="fr_157"></span>[4](#fn_157.md)
 
  
 
@@ -192,23 +192,23 @@ rubbed out except by breaking them, break them. Likewise with any
 pictures on doors or garments; he shall cut off the heads of the
 pictures. Similarly he shall break coins minted by foreigners on which
 are pictures. And he shall forbid men to mix with women in the markets
-and streets. <span id="fr_158"></span>[5](#fn_158)
+and streets. <span id="fr_158"></span>[5](#fn_158.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_156"></span>[224:3](isl38.htm#fr_156) From *al-Rawd
+<span id="fn_156"></span>[224:3](isl38.htm#fr_156.md) From *al-Rawd
 al-Nādir* (Cairo, 1928-1930), Vol. V, pp. 6-11.
 
-<span id="fn_157"></span>[224:4](isl38.htm#fr_157) *Ibid*., Vol. III, p.
+<span id="fn_157"></span>[224:4](isl38.htm#fr_157.md) *Ibid*., Vol. III, p.
 457.
 
-<span id="fn_158"></span>[224:5](isl38.htm#fr_158) <span
+<span id="fn_158"></span>[224:5](isl38.htm#fr_158.md) <span
 id="page_250">p. 250</span> From "A Zaydī Manual of Ḥisba of the 3rd
 Century," ed. by Serjeant in Rivista degli Studi Oriental (1953), Vol.
 28, pp. 16, 17.
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Twelvers](isl39)
+[Next: 3. The Twelvers](isl39.md)

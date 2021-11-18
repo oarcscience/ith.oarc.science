@@ -47,32 +47,32 @@ These texts cover a wide range of Native Americans or don't fit into one
 of the categories above.
 
 <span class="c_e"> <span class="c_t">[Tales of the North American
-Indians](tnai/index)</span>   by <span class="c_a">Stith Thompson</span>
+Indians](tnai/index.md)</span>   by <span class="c_a">Stith Thompson</span>
 \[<span class="c_d">1929</span>\]   <span class="c_b">The classic
 cross-cultural Native American folklore study.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Path on the
-Rainbow](por/index)</span>   by <span class="c_a">George W.
+Rainbow](por/index.md)</span>   by <span class="c_a">George W.
 Cronyn</span> \[<span class="c_d">1918</span>\]   <span class="c_b">A
 ground-breaking collection of Native American oral literature: poetry,
 chants and rituals.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Soul of the
-Indian](eassoul)</span>   by <span class="c_a">Charles Eastman</span>
+Indian](eassoul.md)</span>   by <span class="c_a">Charles Eastman</span>
 \[<span class="c_d">1911</span>\]  
 *100,801 bytes* </span>
 
-<span class="c_e"> <span class="c_t">[Indian Why Stories](iwhys)</span>
+<span class="c_e"> <span class="c_t">[Indian Why Stories](iwhys.md)</span>
   by <span class="c_a">Frank Linderman</span> \[<span
 class="c_d">1915</span>\]  
 *163,221 bytes* </span>
 
-<span class="c_e"> <span class="c_t">[Old Indian Legends](oil)</span>  
+<span class="c_e"> <span class="c_t">[Old Indian Legends](oil.md)</span>  
 by <span class="c_a">Zitkala-Sa</span> \[<span
 class="c_d">1901</span>\]  
 *105,552 bytes* </span>
 
 <span class="c_e"> <span class="c_t">[American Indian Fairy
-Tales](ait/index)</span>   by <span class="c_a">Margaret Compton</span>
+Tales](ait/index.md)</span>   by <span class="c_a">Margaret Compton</span>
 \[<span class="c_d">1907</span>\]   <span class="c_b">Authentic Native
 American lore retold for children over a century ago.</span> </span>

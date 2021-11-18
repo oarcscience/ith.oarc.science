@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe30)  [Next](toe32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe30)  [Next](toe32.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,7 +234,7 @@ less surely resolved by the influences of the sun and atmosphere, only
 in a slower manner. Therefore, to place the permanency of this earth, or
 any of its surface, upon a substance which in that situation necessarily
 decays, is to form a speculation inconsistent with the principles of
-natural philosophy <span id="fr_61"></span>[11](#fn_61).
+natural philosophy <span id="fr_61"></span>[11](#fn_61.md).
 
 But even supposing that the degradation of mountains were to be
 suspended by the pretended compensation which is formed, by the rivers
@@ -299,7 +299,7 @@ to grow and to encroach upon the space which had been occupied by the
 sea; for here the materials of the land are so accumulated on the coast,
 that the bottom of the sea is filled up, and dry land is formed in the
 bafon of the sea, from those materials which the rivers had brought down
-upon the shore. <span id="fr_62"></span>[12](#fn_62)
+upon the shore. <span id="fr_62"></span>[12](#fn_62.md)
 
 Holland affords the very best example of this fact. It is a low country
 formed in the sea. This low land is situated in the bottom of a deep
@@ -402,7 +402,7 @@ according to my view of the subject, is this, that here is the depth of
 from the surface or level of the sea. How far this depth may be from the
 bottom of these travelled materials is unknown; but this is certain,
 that all that depth, which has been sunk, had been filled up with those
-materials <span id="fr_63"></span>[13](#fn_63).
+materials <span id="fr_63"></span>[13](#fn_63.md).
 
 It will thus appear of what unstable materials is composed the land of
 that temporary country. It will also be evident, that, by removing the
@@ -454,7 +454,7 @@ wisely calculated, in the system of nature, for the general good.
 
 ### Footnotes
 
-<span id="fn_61"></span>[v2:11](toe31.htm#fr_61) It is from inadvertency
+<span id="fn_61"></span>[v2:11](toe31.htm#fr_61.md) It is from inadvertency
 to this fact in natural history, the consuming of vegetable substances
 exposed to the influences of the atmosphere, that M. de Luc, in his
 *Histoire de la Terre*, has pretended to determine the past duration of
@@ -478,7 +478,7 @@ substance protected from the consuming operation of the vital or
 atmospheric air; the turfy soil, on the contrary, is exposed to this
 source of resolution in the other situation.
 
-<span id="fn_62"></span>[v2:12](toe31.htm#fr_62) We are not however to
+<span id="fn_62"></span>[v2:12](toe31.htm#fr_62.md) We are not however to
 estimate this operation, of forming soil by the muddy waters of a river
 depositing sediment, in the manner that M. de Luc has endeavoured to
 calculate the short time elapsed in forming the marshlands of the Elbe.
@@ -510,7 +510,7 @@ case, that the river is constantly changing the fertile lands, which it
 forms by its inundation, what judgement are we to form by calculating
 the quantity of sediment in a certain measure of its muddy water.
 
-<span id="fn_63"></span>[v2:13](toe31.htm#fr_63) An interesting map for
+<span id="fn_63"></span>[v2:13](toe31.htm#fr_63.md) An interesting map for
 the use of natural history would be made by tracing the places (behind
 this country of loose or travelled soil) where the solid strata appear
 above the level of the sea. We should be thus able to form some notion
@@ -525,4 +525,4 @@ which is perhaps a little portion of the whole.
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. The present Form of the Surface of the Earth
-explained, with a View of the Operation of Time upon our Land](toe32)
+explained, with a View of the Operation of Time upon our Land](toe32.md)

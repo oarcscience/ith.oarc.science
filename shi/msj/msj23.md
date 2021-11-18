@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](msj22) 
-[Next](msj24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](msj22.md) 
+[Next](msj24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master-Singers of Japan*, by Clara A. Walsh, \[1914\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ volumes, which is an encyclopedia of ancient literature.</span>
   O sacred Isles! Would strangers know  
 The Spirit of Yamato's hero race?  
   Point where the cherry-blossoms blow, <span
-id="fr_7"></span>[\*](#fn_7)  
+id="fr_7"></span>[\*](#fn_7.md)  
 Veiling the rugged mountain's frowning face.  
   Sun-flushed and heavenly fair,  
 !Scenting the morning air!
@@ -141,7 +141,7 @@ Her course eternal to the eternal Realm.
 
 ### Footnotes
 
-<span id="fn_7"></span>[108:\*](msj23.htm#fr_7) The wild
+<span id="fn_7"></span>[108:\*](msj23.htm#fr_7.md) The wild
 cherry-blossom—*yama-zakura*—is, in Japan, the emblem of the warrior,
 ready to die for Emperor and country, in the full vigour of life and
 beauty, as the petals of the Sakura blossom flutter, still lovely and
@@ -151,6 +151,6 @@ fragrant, to the earth.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII.](msj24)
+[Next: XXIII.](msj24.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Next](dol01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Next](dol01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P883W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Devils of Loudun*, by Edmund Goldsmid, \[1887\], at Intangible
 Textual Heritage
 
@@ -80,4 +80,4 @@ M.DC.XXXIV.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](dol01)
+[Next: Introduction](dol01.md)

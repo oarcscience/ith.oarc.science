@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa10)  [Next](spa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa10)  [Next](spa12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -55,27 +55,27 @@ The tulip-bed hath blossomed, even in the heat of summer.
 <span id="page_150">p. 150</span>
 
 Ae-mal <u>Kh</u>ān and Dar-yā <u>Kh</u>ān—from death preserve
-them! <span id="fr_171"></span>[\*](#fn_171)  
+them! <span id="fr_171"></span>[\*](#fn_171.md)  
 Were neither of them, at fault, when opportunity occurred.
 
 They dyed red the valley of <u>Kh</u>aibar, with the blood of the foe:  
-On Karrapah, <span id="fr_172"></span>[†](#fn_172) too, they poured
+On Karrapah, <span id="fr_172"></span>[†](#fn_172.md) too, they poured
 forth war's din and tumult.
 
-From Karrapah, even unto Bājawrr, <span id="fr_173"></span>[‡](#fn_173)
+From Karrapah, even unto Bājawrr, <span id="fr_173"></span>[‡](#fn_173.md)
 both plain and mountain,  
 Time after time, as from an earthquake, quaked and shook.
 
 It is now the fifth year, since in this neighbourhood,  
 Every day heareth the clashing of glittering swords.
 
-Since I arrived in this part, <span id="fr_174"></span>[§](#fn_174) I
+Since I arrived in this part, <span id="fr_174"></span>[§](#fn_174.md) I
 have become a nonentity—  
 Either I am despicable, or this people are infamous grown.
 
 I cry out unto them, "Troops, troops," until I am weary;  
 But deaf to all, they neither say "Die," nor "Thy sacrifice." <span
-id="fr_175"></span>[§§](#fn_175)
+id="fr_175"></span>[§§](#fn_175.md)
 
 When the state of the Yūsufzīs became known unto me,  
 Lowā<u>gh</u>ar was then my better place, not Dam<u>gh</u>ār.
@@ -95,7 +95,7 @@ Yet still, amongst the Yūsufzīs, there is no sense of shame.
 <span id="page_151">p. 151</span>
 
 The first fight was at the higher back of Mount Tatārah, <span
-id="fr_176"></span>[\*](#fn_176)  
+id="fr_176"></span>[\*](#fn_176.md)  
 Where forty thousand Mu<u>gh</u>als were scattered like chaff.
 
 When their sisters and daughters fell into the bonds of the
@@ -103,11 +103,11 @@ Af<u>gh</u>āns,
 With horses and camels, elephants and baggage, string after string.
 
 The second battle was with Mir Husain in the Doābah, <span
-id="fr_177"></span>[†](#fn_177)  
+id="fr_177"></span>[†](#fn_177.md)  
 When his head was crushed, like that of a venemous snake.
 
 After that again, was the affair at the fort of
-Noh<u>s’h</u>airah, <span id="fr_178"></span>[‡](#fn_178)  
+Noh<u>s’h</u>airah, <span id="fr_178"></span>[‡](#fn_178.md)  
 When from the Mu<u>gh</u>als I extracted my own inebriation.
 
 And then came Jaswant Singh and <u>Sh</u>ujaæat <u>Kh</u>ān,  
@@ -139,7 +139,7 @@ That such events would e’er have happened in these parts.
 
 Still Aurangzeb's malevolence hath not a whit diminished,  
 Though the curses of his father it before drew down. <span
-id="fr_179"></span>[\*](#fn_179)
+id="fr_179"></span>[\*](#fn_179.md)
 
 For this reason, also, no one can place dependence on him:  
 He is malignant and perfidious; a breaker of his word.
@@ -156,7 +156,7 @@ Now ’tis propitious to the rose; now favourable to the thorn.
 
 At a period so pregnant with honour and glory, as the present,  
 In what manner do these base and recreant Af<u>gh</u>āns act? <span
-id="fr_180"></span>[†](#fn_180)
+id="fr_180"></span>[†](#fn_180.md)
 
 There is no deliverance in any thing, save the sword:  
 Af<u>gh</u>āns, who nourish any other idea than this, are lost, indeed.
@@ -175,7 +175,7 @@ The affairs of every one are in the hands of the Almighty.
 
 Let us see what the Afrīdīs, Mohmands, and <u>Sh</u>īnwāris will do;  
 For the Mu<u>gh</u>als are now lying encamped at Nangrahār. <span
-id="fr_181"></span>[\*](#fn_181)
+id="fr_181"></span>[\*](#fn_181.md)
 
 I alone, amongst the Af<u>gh</u>āns, grieve for our honour and renown;  
 Whilst the Yūsufzīs, at their ease, are tilling their fields.
@@ -191,8 +191,8 @@ But the memory of <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>
 will long, long endure!
 
 It was the first of the Third Sister, <span
-id="fr_182"></span>[†](#fn_182) in the year of <u>Gh</u>afū <span
-id="fr_183"></span>[‡](#fn_183)  
+id="fr_182"></span>[†](#fn_182.md) in the year of <u>Gh</u>afū <span
+id="fr_183"></span>[‡](#fn_183.md)  
 That I, whilst at Barmawul, indited these lines.
 
 #### II.
@@ -205,7 +205,7 @@ Did not the zephyr, every morning, over it pass.
 
 Its counsel regarding the nightingale was this,  
 That the morn should the rosebud's garment rend. <span
-id="fr_184"></span>[§](#fn_184)
+id="fr_184"></span>[§](#fn_184.md)
 
 <span id="page_154">p. 154</span>
 
@@ -234,9 +234,9 @@ Acquire thou humility from the example of the cypress,
 That with such loftiness, showeth this much lowliness.
 
 The <span class="smallcaps">Karlārrnaey</span> <span
-id="fr_185"></span>[\*](#fn_185) hath quaffed no other wine whatever—  
+id="fr_185"></span>[\*](#fn_185.md) hath quaffed no other wine whatever—  
 The whole of this inebriety proceedeth from creation's cup. <span
-id="fr_186"></span>[†](#fn_186)
+id="fr_186"></span>[†](#fn_186.md)
 
 #### IV.
 
@@ -278,7 +278,7 @@ For death will assail, and lay waste the both of them.
 
 His evil name only will remain behind in the world;  
 Knowing, as he doth, whether he as Kasrā, or as Hujāj acteth. <span
-id="fr_187"></span>[\*](#fn_187)
+id="fr_187"></span>[\*](#fn_187.md)
 
 <span id="page_156">p. 156</span>
 
@@ -383,7 +383,7 @@ Nor will the Almighty forgive the fallen angel his sins.
 
 All these minor hills are as nothing: desirous am I,  
 That my God, betwixt us, would place even Ḳāf <span
-id="fr_188"></span>[\*](#fn_188) itself.
+id="fr_188"></span>[\*](#fn_188.md) itself.
 
 The conduct of his own son is best known to his father;  
 Then why will people commend the degenerate unto me?
@@ -434,14 +434,14 @@ For every penurious creature followeth his own avaricious ways.
 
 With the precepts of the Ḳur’ān, Fārūḳ is acquainted:  
 It pointeth not out the right path to Bū-Lḥab, or to Bū-Jhal. <span
-id="fr_189"></span>[\*](#fn_189)
+id="fr_189"></span>[\*](#fn_189.md)
 
 <span id="page_160">p. 160</span>
 
 The purity of the Musalmān, O <span
 class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>! is possible;  
 But no ablutions, no purifications, can make the Gabr <span
-id="fr_190"></span>[\*](#fn_190) clean.
+id="fr_190"></span>[\*](#fn_190.md) clean.
 
 #### X.
 
@@ -488,7 +488,7 @@ A hundred reproaches and indignities are heaped upon me,
 Who ever guarded myself from detraction and reproach.
 
 ’Tis for this reason the elephant streweth dust upon his head, <span
-id="fr_191"></span>[\*](#fn_191)  
+id="fr_191"></span>[\*](#fn_191.md)  
 That I made him acquainted with <span
 class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl's</span> sorrows.
 
@@ -573,7 +573,7 @@ Who coveted the world's dominion, but left them, all at once, behind!
 
 A hundred thousand squadrons assemble, and collect the treasures of the
 world;  
-Be as Sanjar <span id="fr_192"></span>[\*](#fn_192) for a few
+Be as Sanjar <span id="fr_192"></span>[\*](#fn_192.md) for a few
 generations, and then neither thou nor thy race remain.
 
 Thy house is on the face of a flood, and this thy contemptible idea is
@@ -584,10 +584,10 @@ flood away.
 <span id="page_164">p. 164</span>
 
 Shouldst thou become a <u>Sh</u>ahdād <span
-id="fr_193"></span>[\*](#fn_193) in the world, still calamity will
+id="fr_193"></span>[\*](#fn_193.md) in the world, still calamity will
 remember thee;  
 And if here thou a Paradise preparest, of what profit is such an
-Aden <span id="fr_194"></span>[†](#fn_194) to thee?
+Aden <span id="fr_194"></span>[†](#fn_194.md) to thee?
 
 He carried away along with him, this wealth ephemeral, O young man!  
 Who diffused it broadcast; but not they, that heaped it up for
@@ -598,7 +598,7 @@ It clambereth unto thee with difficulty; but like a stone from a
 mountain, rolleth away!
 
 If thou art foolish and imprudent, like unto Mir-bāz <span
-id="fr_195"></span>[‡](#fn_195) pursue it;  
+id="fr_195"></span>[‡](#fn_195.md) pursue it;  
 But if wise and prudent, like unto <span
 class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>, from it flee away!
 
@@ -705,7 +705,7 @@ Still, like unto the deadliest poison, is its effect on me.
 
 Moses possessed nothing whatsoever, but one rod alone:  
 Ḳārūn had boundless wealth, and verily, calamity befell him. <span
-id="fr_196"></span>[\*](#fn_196)
+id="fr_196"></span>[\*](#fn_196.md)
 
 He who hath riches, with it hath vexation and misfortune mix’d up;  
 Hence the wise so act, that they may not their troubles increase.
@@ -727,7 +727,7 @@ No one, into the world hath brought, a safe-conduct, such as this.
 
 This is the way with fortune—some it maketh happy—some miserable;  
 And however clear now, the mirror will become clouded
-[hereafter](errata.htm#5).
+[hereafter](errata.htm#5.md).
 
 Wherefore, then, trouble thyself! Be rejoiced at this, O <span
 class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>!  
@@ -773,7 +773,7 @@ Upon existence such as this, what reliance can be placed?
 
 The dust of man is leavened with the water of mortality,  
 By the hand of Omnipotence kneaded, in the space of forty days. <span
-id="fr_197"></span>[\*](#fn_197)
+id="fr_197"></span>[\*](#fn_197.md)
 
 <span id="page_169">p. 169</span>
 
@@ -797,7 +797,7 @@ And in the hope of meeting Him, let it rejoice always!
 #### XX.
 
 The Almighty gave into my arms—and I am under obligation to the
-mediator <span id="fr_198"></span>[\*](#fn_198)—  
+mediator <span id="fr_198"></span>[\*](#fn_198.md)—  
 The fair-faced one, with the ruby lips, and the flowing sable tresses.
 
 The beloved is kind and affectionate, and the consoler in every
@@ -807,7 +807,7 @@ have I.
 
 Let them consume upon it, as a charm, to ward off evil from thy face;  
 For thy love is like unto fire, and thy lovers like unto wild rue <span
-id="fr_199"></span>[†](#fn_199) are.
+id="fr_199"></span>[†](#fn_199.md) are.
 
 <span id="page_170">p. 170</span>
 
@@ -845,7 +845,7 @@ Draw near, and behold now, in the surface of the earth!
 <span id="page_171">p. 171</span>
 
 This world's folks are like unto the moving sands, <span
-id="fr_200"></span>[\*](#fn_200) if thou but consider;  
+id="fr_200"></span>[\*](#fn_200.md) if thou but consider;  
 For, in truth, they roll over, and upset each other, in the very same
 way.
 
@@ -859,7 +859,7 @@ Her sweet face took from me all thoughts of the wild white rose:
 Her ringlets eradicated all consideration of the musk of China.
 
 The curls of the pagan beauty became a cord about my neck: <span
-id="fr_201"></span>[†](#fn_201)  
+id="fr_201"></span>[†](#fn_201.md)  
 A thousand thanks, that she of my religion and faith divested me.
 
 Although the folks offer up prayers for my patience and resignation,  
@@ -902,7 +902,7 @@ If it be ridden by any one, at least a good horseman let him be.
 
 From a sorry, low-bred pony, another wretched one is produced;  
 ’Tis from the high-bred horses of the course alone, that noble steeds
-come. <span id="fr_202"></span>[\*](#fn_202)
+come. <span id="fr_202"></span>[\*](#fn_202.md)
 
 That into my dwelling, in the first place, such animals came,  
 My luck must have been bad, from the beginning of time.
@@ -923,7 +923,7 @@ Would to heaven they had learnt good, or had learnt naught besides!
 
 Give both thine ears and eyes unto the appeals of <span
 class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>;  
-Since Bahrām and Æābid <span id="fr_203"></span>[\*](#fn_203) are, both
+Since Bahrām and Æābid <span id="fr_203"></span>[\*](#fn_203.md) are, both
 of them, deaf and dumb!
 
 #### XXIV.
@@ -946,7 +946,7 @@ Behold then, that crane, which hath become separated from the flock!
 
 It thus appeareth, that the world is a place of mourning and sorrow;  
 For the parrots have, with loud cries, green vestments donned. <span
-id="fr_204"></span>[†](#fn_204)
+id="fr_204"></span>[†](#fn_204.md)
 
 <span id="page_174">p. 174</span>
 
@@ -989,7 +989,7 @@ Upon it, another time, she will make me the moth—that dear one.
 I am a poor beggar—she is a sovereign; hence it is becoming in her,  
 Even though she of my affection should feel ashamed—that dear one.
 
-He, who may have turned Malang, <span id="fr_205"></span>[\*](#fn_205)
+He, who may have turned Malang, <span id="fr_205"></span>[\*](#fn_205.md)
 requireth but a carpet for prayer;  
 And in the end, too, a Malang will she make of me—that dear one.
 
@@ -998,7 +998,7 @@ But with me, indeed, she is mournful and sad—that dear one.
 
 No gem-studded ornament hath she inserted in her nostril;  
 But with a single black clove she resteth satisfied—that dear one. <span
-id="fr_206"></span>[†](#fn_206)
+id="fr_206"></span>[†](#fn_206.md)
 
 Towards my opponents, her heart is gentle and soft as wax itself;  
 But towards <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>, she
@@ -1007,8 +1007,8 @@ hardeneth it like stone—that dear one.
 #### XXVI.
 
 Upon those lips of her’s is there not a black hand-maid? <span
-id="fr_207"></span>[‡](#fn_207)  
-Draw near! <u>Kh</u>izr, <span id="fr_208"></span>[§](#fn_208) at the
+id="fr_207"></span>[‡](#fn_207.md)  
+Draw near! <u>Kh</u>izr, <span id="fr_208"></span>[§](#fn_208.md) at the
 fountain of immortality behold!
 
 The face of the beloved is rich, both in moles and in ringlets;  
@@ -1016,7 +1016,7 @@ For in the house of the wealthy, every requirement will be found.
 
 When their shade over-shadoweth me, I a king become;  
 For the shadow of thy dark curls is that of the Ḥumā itself. <span
-id="fr_209"></span>[§§](#fn_209)
+id="fr_209"></span>[§§](#fn_209.md)
 
 Thy cheek is an enkindled flame—what then is thy braided hair?  
 It is like unto the dense black smoke, that from fire ascendeth.
@@ -1075,7 +1075,7 @@ Heaven;
 Whilst those, who prided themselves upon their wisdom, have gone to
 Hell.
 
-Unto Abū-Jahl, <span id="fr_210"></span>[\*](#fn_210) the precepts of
+Unto Abū-Jahl, <span id="fr_210"></span>[\*](#fn_210.md) the precepts of
 Muḥammad were of no advantage soever;  
 For who can polish the mirror of him, whom God hath with rust corroded?
 
@@ -1125,7 +1125,7 @@ In thine own house, there will not be two brothers together dwelling,
 Who have not a thousand iniquities ready in their hearts.
 
 The scavenger now feasteth on pulāo, <span
-id="fr_211"></span>[\*](#fn_211) and rice, and sweetmeats;  
+id="fr_211"></span>[\*](#fn_211.md) and rice, and sweetmeats;  
 And unclean things are become lawful, for Muḥammad's descendants.
 
 The honoured and trusted of kings are now mere thieves become;  
@@ -1147,8 +1147,8 @@ The meanest slave assumeth authority over his own proprietor;
 And the slave-girls are more honourable than the mistress of the house.
 
 Alas, O <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>! in the
-days of the Emperor Æālam-gīr, <span id="fr_212"></span>[\*](#fn_212)  
-The house-born servants <span id="fr_213"></span>[†](#fn_213) have all a
+days of the Emperor Æālam-gīr, <span id="fr_212"></span>[\*](#fn_212.md)  
+The house-born servants <span id="fr_213"></span>[†](#fn_213.md) have all a
 wretched and contemptible lot!
 
 #### XXIX.
@@ -1203,7 +1203,7 @@ mouth.
 
 Every moment that a person may be thus in want of employment,  
 Than such, I hold him far better off, who is forced to labour for
-nothing. <span id="fr_214"></span>[\*](#fn_214)
+nothing. <span id="fr_214"></span>[\*](#fn_214.md)
 
 The sick and infirm, if they do not work, are to be excused;  
 But wherefore should not the hale man his living earn?
@@ -1226,7 +1226,7 @@ For, in truth, thy employment is one great and mighty work!
 Neither doth any one here seek to avail himself of my abilities and
 experience,  
 Nor are the capabilities of this country's people of any advantage unto
-me. <span id="fr_215"></span>[†](#fn_215)
+me. <span id="fr_215"></span>[†](#fn_215.md)
 
 We converse together in one tongue—we speak the Pu<u>s’h</u>to
 language;  
@@ -1260,7 +1260,7 @@ If they can a single penny obtain by way of a present, or a bribe.
 
 As to those I have seen myself—about others I am unable to speak  
 They are all either bullocks or skinners, without any exception
-soever. <span id="fr_216"></span>[\*](#fn_216)
+soever. <span id="fr_216"></span>[\*](#fn_216.md)
 
 <span id="page_183">p. 183</span>
 
@@ -1270,7 +1270,7 @@ Since all the secrets regarding them became known unto me.
 
 Now that <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span> hath
 smelt the earth of Suwāt, and the Sama’h, <span
-id="fr_217"></span>[\*](#fn_217)  
+id="fr_217"></span>[\*](#fn_217.md)  
 He knoweth, that a single faithful man will not, in them, be found.
 
 #### XXXII.
@@ -1294,7 +1294,7 @@ For whole caravans have been dispatched, by the hand of death!
 
 O <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>! though in body
 thou shouldst a <u>Sh</u>āh Julian be, <span
-id="fr_218"></span>[†](#fn_218)  
+id="fr_218"></span>[†](#fn_218.md)  
 Even then, thou wouldst depart in sorrow, from the hand of death!
 
 <span id="page_184">p. 184</span>
@@ -1400,7 +1400,7 @@ Whether pretty maidens, noble steeds, or robes of finest satin.
 Be ready, O <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>! for
 the time of departure is come  
 In every direction may be heard the sound of the warning bell! <span
-id="fr_219"></span>[\*](#fn_219)
+id="fr_219"></span>[\*](#fn_219.md)
 
 #### XXXVI.
 
@@ -1409,7 +1409,7 @@ Liars, perjurers, and concoctors of calumny and slander.
 
 <span id="page_187">p. 187</span>
 
-The Iranīs <span id="fr_220"></span>[\*](#fn_220) are of a friendly
+The Iranīs <span id="fr_220"></span>[\*](#fn_220.md) are of a friendly
 disposition—they are true and faithful:  
 They have urbanity, and breeding—are respectable and deserving.
 
@@ -1434,7 +1434,7 @@ Are dancers and fiddlers—and who will be friends with such?
 Unto him, all matters are manifest, regarding other folks’ ways;  
 Then render unto <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl's</span>
 shrewdness, its due meed of praise. <span
-id="fr_221"></span>[†](#fn_221)
+id="fr_221"></span>[†](#fn_221.md)
 
 <span id="page_188">p. 188</span>
 
@@ -1483,7 +1483,7 @@ I have seen the fine eyes of very many fair ones, in my lifetime;
 But only one, here and there, hath lashes full and long like thine.
 
 Tho’ the prelate and the priest may admire them a hundred times,  
-Can the Ḥourī <span id="fr_222"></span>[\*](#fn_222) have brighter eyes,
+Can the Ḥourī <span id="fr_222"></span>[\*](#fn_222.md) have brighter eyes,
 than those dark ones of thine?
 
 Those marplots are sitting together, talking about the poor lover;  
@@ -1558,12 +1558,12 @@ If the partridge may ever have felt the talons of the hawk.
 
 The decrees by fate ordained, cannot be changed by any means,  
 Tho’, over thyself, thou shouldst read the four *kuls*, <span
-id="fr_223"></span>[\*](#fn_223) unceasingly.
+id="fr_223"></span>[\*](#fn_223.md) unceasingly.
 
 Lovers, who unto love devote themselves, will never grieve;  
 Nor for the backbitings of marplots, and tale-bearers, will they care.
 
-What shall I, a poor darwesh <span id="fr_224"></span>[†](#fn_224) do?
+What shall I, a poor darwesh <span id="fr_224"></span>[†](#fn_224.md) do?
 neither hand nor might have I,  
 Otherwise, indeed, I would have exhausted the whole upon the world.
 
@@ -1586,7 +1586,7 @@ But since good fortune assisteth me not, unto whom shall I mention such
 things?
 
 In this world, the gift of fidelity and sincerity is alchemy
-itself; <span id="fr_225"></span>[‡](#fn_225)  
+itself; <span id="fr_225"></span>[‡](#fn_225.md)  
 Wherefore, then, should I be covetous to obtain it from any one?
 
 <span id="page_192">p. 192</span>
@@ -1659,9 +1659,9 @@ If I am of use, or if I am of no use; still, still I am thine!
 #### XLIII.
 
 Gentle breeze of the morn! shouldst thou pass over
-<u>Kh</u>airābād, <span id="fr_226"></span>[\*](#fn_226)  
+<u>Kh</u>airābād, <span id="fr_226"></span>[\*](#fn_226.md)  
 Or should thy course lead thee by Sarā’e, on the banks of the
-Sind; <span id="fr_227"></span>[†](#fn_227)
+Sind; <span id="fr_227"></span>[†](#fn_227.md)
 
 Hail them, again and again, with my greetings and salutations;  
 And with them, many, many expressions of my regard and love!
@@ -1670,12 +1670,12 @@ And with them, many, many expressions of my regard and love!
 
 Cry out unto the swift Abā-Sind with sonorous voice;  
 But unto the Lan<u>dd</u>aey, mildly and whisperingly say <span
-id="fr_228"></span>[\*](#fn_228)—
+id="fr_228"></span>[\*](#fn_228.md)—
 
 "Perhaps, I may drink, once more, a cup of thy waters;  
 For, whilom, I was not on Ganges’ nor on Jamna's banks."
 
-Of the climate of Hind <span id="fr_229"></span>[†](#fn_229) should I
+Of the climate of Hind <span id="fr_229"></span>[†](#fn_229.md) should I
 complain, how long shall I cry out?  
 Whilst the vileness of its water is far more horrid still.
 
@@ -1707,16 +1707,16 @@ For the sinner, even, at last, will escape from the fire of Hell!
 #### XLIV.
 
 I never will carry my face unto the mirror again, <span
-id="fr_230"></span>[\*](#fn_230)  
+id="fr_230"></span>[\*](#fn_230.md)  
 Nor will I again anoint mine eyes with antimony!
 
 Never more will I dye red my white hands with ḥinnā, <span
-id="fr_231"></span>[†](#fn_231)  
+id="fr_231"></span>[†](#fn_231.md)  
 Nor smoothe out, with the comb, my long hair any more!
 
 I will not arrange the little ringlets, in clusters round my face,  
 Nor will I redden my lips with the betel-leaf <span
-id="fr_232"></span>[‡](#fn_232) again!
+id="fr_232"></span>[‡](#fn_232.md) again!
 
 For whom shall I deck out and ornament my person,  
 When my beloved friend is not present the same to behold?
@@ -1730,7 +1730,7 @@ What shall I do with it? ’tis bitter now, from my love severed.
 May he be <span class="smallcaps">Happy</span>, that dear friend,
 wherever he may be!  
 Let him for his own happiness care—I alone will mourn! <span
-id="fr_233"></span>[§](#fn_233)
+id="fr_233"></span>[§](#fn_233.md)
 
 <span id="page_196">p. 196</span>
 
@@ -1779,7 +1779,7 @@ For, like unto Alchemy itself, the wise have become scarce indeed.
 Good men are like rubies and garnets—they can rarely be found;  
 But like unto any common stones, the worthless are not a few.
 
-Do they belong to the afrīt, <span id="fr_234"></span>[\*](#fn_234) the
+Do they belong to the afrīt, <span id="fr_234"></span>[\*](#fn_234.md) the
 demon, or the goblin race?  
 For, among the lineage of Adam, the Af<u>gh</u>āns I cannot account.
 
@@ -1787,14 +1787,14 @@ Notwithstanding thou mayest give one the best of counsel and advice;
 Still, even the counsel of his father is not acceptable to his heart.
 
 The whole of the deeds of the Pa<u>tt</u>āns <span
-id="fr_235"></span>[†](#fn_235) are better than those of the
+id="fr_235"></span>[†](#fn_235.md) are better than those of the
 Mu<u>gh</u>als;  
 But they have no unity amongst them, and a great pity it is.
 
 The fame of Bahlol, and of <u>Sh</u>er <u>Sh</u>āh too, resoundeth in my
 ears—  
 Af<u>gh</u>ān Emperors of India, who swayed its sceptre effectively and
-well. <span id="fr_236"></span>[‡](#fn_236)
+well. <span id="fr_236"></span>[‡](#fn_236.md)
 
 For six or seven generations, did they govern so wisely,  
 That all their people were filled with admiration of them.
@@ -1827,7 +1827,7 @@ The book of my heart is on the subject of constancy and love—
 It was torn up; but no one acquired the meaning thereof.
 
 If the gauze, which the moon rendeth, <span
-id="fr_237"></span>[\*](#fn_237) can be again repaired,  
+id="fr_237"></span>[\*](#fn_237.md) can be again repaired,  
 Then the restoration of my poor heart, may also be effected.
 
 Would to heaven such a person would appear—I am quite willing—  
@@ -1843,27 +1843,27 @@ Yet on such a dangerous road as this, I continually wend my way.
 
 One succeedeth unto another's place; for such is the way of the world—  
 And I, <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>, also, am
-the successor of poor Majnūn. <span id="fr_238"></span>[\*](#fn_238)
+the successor of poor Majnūn. <span id="fr_238"></span>[\*](#fn_238.md)
 
 #### XLVIII.
 
 The carnality of my heart is an Afrīdī, <span
-id="fr_239"></span>[†](#fn_239) who, for religion, careth not—  
+id="fr_239"></span>[†](#fn_239.md) who, for religion, careth not—  
 Its good thoughts are but few; but unto wickedness it is exceedingly
 prone.
 
-Like unto A<u>kh</u>ūnd Darwezah, <span id="fr_240"></span>[‡](#fn_240)
+Like unto A<u>kh</u>ūnd Darwezah, <span id="fr_240"></span>[‡](#fn_240.md)
 I point out godliness and piety to it;  
 But the flesh teacheth it impiety and infidelity, like unto Pīr
-Ro<u>s’h</u>ān. <span id="fr_241"></span>[§](#fn_241)
+Ro<u>s’h</u>ān. <span id="fr_241"></span>[§](#fn_241.md)
 
 Two-and-sixty years, by computation, my own age hath now reached;  
 And my black hair hath turned silvery, but my heart not the least white.
 
 There are not, in the red carnelian caskets, those white pearls
-now; <span id="fr_242"></span>[§§](#fn_242)  
+now; <span id="fr_242"></span>[§§](#fn_242.md)  
 Neither do those narcissuses remain, nor those white roses of the
-parterre. <span id="fr_243"></span>[\*\*](#fn_243)
+parterre. <span id="fr_243"></span>[\*\*](#fn_243.md)
 
 <span id="page_200">p. 200</span>
 
@@ -1888,12 +1888,12 @@ associated, are both the Devil and the flesh!
 
 How handsome soever thou art, thou art not Canaan's Joseph!  
 However wise thou art, with Lokmān <span
-id="fr_244"></span>[\*](#fn_244) thou canst never compare!
+id="fr_244"></span>[\*](#fn_244.md) thou canst never compare!
 
 Notwithstanding thy pomp and state, and that thou art the ruler of the
 land,  
 Remember well, in thy heart, what a magnificent king was Sulīmān. <span
-id="fr_245"></span>[†](#fn_245)
+id="fr_245"></span>[†](#fn_245.md)
 
 <span id="page_201">p. 201</span>
 
@@ -1904,9 +1904,9 @@ A good name will remain behind—naught else soever will survive:
 The wicked for evil are remembered—the good, for their virtues, in the
 memory live.
 
-Shouldst thou hear of Hujāj, <span id="fr_246"></span>[\*](#fn_246) thou
+Shouldst thou hear of Hujāj, <span id="fr_246"></span>[\*](#fn_246.md) thou
 wilt also hear the name of No<u>sh</u>īrwān <span
-id="fr_247"></span>[†](#fn_247)—  
+id="fr_247"></span>[†](#fn_247.md)—  
 For justice, the unbeliever is venerated—for tyranny, the believer is
 cursed.
 
@@ -1980,7 +1980,7 @@ Their feet diminutive, their heels round, their hips prominent.
 
 Thin stomached, broad chested, and small waisted  
 In stature, straight, like the letter *alif;* <span
-id="fr_248"></span>[\*](#fn_248) and of complexion fair.
+id="fr_248"></span>[\*](#fn_248.md) and of complexion fair.
 
 Although my peregrinations may, like the falcon's, be among the hills;  
 Still, many pretty plump partridges my quarry I have made.
@@ -1989,10 +1989,10 @@ Young and untaught, or old and trained, the falcon seeketh his prey;
 But more scientific, and more unerring, is the old bird's swoop.
 
 It is either the water of the Lan<u>dd</u>aey river, or of the Bārah
-stream, <span id="fr_249"></span>[†](#fn_249)  
+stream, <span id="fr_249"></span>[†](#fn_249.md)  
 That tasteth sweeter, and more delicious, than sherbet in my mouth.
 
-The hills in the Mātarī Pass <span id="fr_250"></span>[‡](#fn_250) shoot
+The hills in the Mātarī Pass <span id="fr_250"></span>[‡](#fn_250.md) shoot
 straight up into the sky;  
 And one's corpulence soon diminisheth, climbing and ascending them.
 
@@ -2030,7 +2030,7 @@ My heart ever yearneth towards thee, exceedingly—
 By this very yearning of mine, unto thee I swear!
 
 When thou laughest, they are nothing in comparison—  
-Both rubies and pearls, <span id="fr_251"></span>[\*](#fn_251) by thy
+Both rubies and pearls, <span id="fr_251"></span>[\*](#fn_251.md) by thy
 laugh I swear!
 
 Truly, I am thy lover, and thine, thine only:  
@@ -2107,7 +2107,7 @@ The trusty <u>Kh</u>a<u>tt</u>akī sword is buckled round my waist;
 But not the custom of servitude, in village and in town.
 
 The dark night of Aurangzeb's prison, I hold in remembrance, <span
-id="fr_252"></span>[\*](#fn_252)  
+id="fr_252"></span>[\*](#fn_252.md)  
 When all the night long, "O God! O God!" continually, I cried.
 
 If the Af<u>gh</u>āns would but oppose the Mu<u>gh</u>als with the
@@ -2134,7 +2134,7 @@ Let not the old man trouble himself concerning old age,
 If his eyesight be good, and free from all signs of failing.
 
 What is the sight of a sweetheart, unto an old man?  
-Really and truly, it is mummy <span id="fr_253"></span>[\*](#fn_253) for
+Really and truly, it is mummy <span id="fr_253"></span>[\*](#fn_253.md) for
 the wounds of the heart.
 
 Would the monk ever relinquish love entirely? No, no!  
@@ -2150,10 +2150,10 @@ Yet, in his heart, are still, love and affection for the fair.
 When thou severest thyself from cupidity with regard to every one, it is
 sovereignty:  
 If thou understandest silence, it is equal to the eloquence of
-Saḥbān. <span id="fr_254"></span>[†](#fn_254)
+Saḥbān. <span id="fr_254"></span>[†](#fn_254.md)
 
 Mention not a word, regarding Ḥātim's liberality and munificence; <span
-id="fr_255"></span>[‡](#fn_255)  
+id="fr_255"></span>[‡](#fn_255.md)  
 For, even in so Going, there are, indeed, indications of venality.
 
 How many different kinds do the attributes of friendship embrace?  
@@ -2175,7 +2175,7 @@ Such is the extent of my hospitality, my own friends toward.
 
 The priest readeth, again and again, out of thousands of books;  
 But if the true faith be his study, the letter *alif* <span
-id="fr_256"></span>[\*](#fn_256) is enough.
+id="fr_256"></span>[\*](#fn_256.md) is enough.
 
 Even for the ignorant, O <span
 class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>! there is mercy  
@@ -2196,7 +2196,7 @@ Altho’ lands and possessions were mine; lo, they all have passed away!
 Altho’ in my houses were carpets and divans, embellishments and
 ornaments—  
 Altho’ my couch, too, was perfumed with *æat̤r;* <span
-id="fr_257"></span>[†](#fn_257) lo, all have passed away!
+id="fr_257"></span>[†](#fn_257.md) lo, all have passed away!
 
 <span id="page_209">p. 209</span>
 
@@ -2209,11 +2209,11 @@ In my audience-hall were bustle and clamour; but, lo, all is passed
 away!
 
 Scattered and dispersed, the family of A<u>kh</u>orr <u>Kh</u>el <span
-id="fr_258"></span>[\*](#fn_258) struck camp, and departed:  
+id="fr_258"></span>[\*](#fn_258.md) struck camp, and departed:  
 At this noise, my heart-strings broke; but, lo, ’tis all passed away!
 
 Unto him, ’tis now the day of mourning—of sackcloth and of ashes;  
-For Sarā’e, <span id="fr_259"></span>[†](#fn_259) that was the home of
+For Sarā’e, <span id="fr_259"></span>[†](#fn_259.md) that was the home of
 <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>, is now all passed
 away!
 
@@ -2240,7 +2240,7 @@ My heart was formed for thee, thou barbarous one! was it not?
 
 Why weepest and complainest thou about the dark curls of the beloved?  
 Thy going before those black snakes, <span
-id="fr_260"></span>[\*](#fn_260) is of thine own accord; is it not?
+id="fr_260"></span>[\*](#fn_260.md) is of thine own accord; is it not?
 
 They will themselves appear like unto mere weeds in comparison to it—  
 Then, the tulip and the rose thou wilt bring before thy face; wilt thou
@@ -2311,12 +2311,12 @@ Whose word and promise are broken, undone and degenerate is he!
 
 #### LXI.
 
-The call of the mu’azzin <span id="fr_261"></span>[\*](#fn_261) is not
-to be heard throughout Tī-rāh, <span id="fr_262"></span>[†](#fn_262)  
+The call of the mu’azzin <span id="fr_261"></span>[\*](#fn_261.md) is not
+to be heard throughout Tī-rāh, <span id="fr_262"></span>[†](#fn_262.md)  
 Unless thou listen unto the crowing of the cock, at the dawn of day.
 
 As to the Wurakzīs, they are, altogether, from orthodoxy astray;  
-And the Afrīdīs, <span id="fr_263"></span>[‡](#fn_263) than those erring
+And the Afrīdīs, <span id="fr_263"></span>[‡](#fn_263.md) than those erring
 ones, are more heretical still.
 
 They neither say prayers over the dead, nor ministers have they;  
@@ -2337,7 +2337,7 @@ As for that son, remiss and reckless, alas! alas! we can only say.
 By means of water, impurity is from the person cleansed;  
 But by contrition and repentance alone, is sin washed away.
 
-The believers in Ṣūfi mystics, <span id="fr_264"></span>[\*](#fn_264)
+The believers in Ṣūfi mystics, <span id="fr_264"></span>[\*](#fn_264.md)
 and the unbelievers are all one;  
 For they both account, as iniquity, the laws and precepts of Muḥammad.
 
@@ -2355,7 +2355,7 @@ humiliated
 House by house, my dissoluteness, and my profligacy, are manifest grown.
 
 That which I kept closely covered up, concealed within my sleeve, <span
-id="fr_265"></span>[†](#fn_265)  
+id="fr_265"></span>[†](#fn_265.md)  
 The people of the world have come, the spectacle of that goblet to
 behold.
 
@@ -2434,7 +2434,7 @@ But as yet, indeed, this world is still standing face to face with thee.
 Whether it is the wise man, or the ignorant—the honest man, or the
 robber,  
 I do not see any one a true colleague united with me in my task. <span
-id="fr_266"></span>[\*](#fn_266)
+id="fr_266"></span>[\*](#fn_266.md)
 
 <span id="page_216">p. 216</span>
 
@@ -2484,11 +2484,11 @@ Hast thou, O God! the lover's breast a chafing-dish made?
 
 In the era of thy sweet countenance, I am Jahāngīr <u>Sh</u>āh—  
 Sit near unto me: practise the caresses of Nūr Maḥāl! <span
-id="fr_267"></span>[\*](#fn_267)
+id="fr_267"></span>[\*](#fn_267.md)
 
 These dark eyes of thine are, in themselves, black calamities;  
 Who, then, told thee to make them still more so with koḥl? <span
-id="fr_268"></span>[†](#fn_268)
+id="fr_268"></span>[†](#fn_268.md)
 
 Shouldst thou, O <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>!
 profess sanctity a thousand times,  
@@ -2507,7 +2507,7 @@ To which, "Thy dog am I;"—thus to her a ready reply I gave.
 
 I grieve in various ways, and my body hath a reed become:  
 Separation hath brought me to the plaintive pipe's condition. <span
-id="fr_269"></span>[‡](#fn_269).
+id="fr_269"></span>[‡](#fn_269.md).
 
 Alas! alas! that this spring-time of youth is past!  
 Ah! that this spring continued in the world for aye!
@@ -2582,7 +2582,7 @@ And thou, too, that sagest unto me, "Look not upon the fair"—
 Who will give ear unto such deadly words as those thou utterest?
 
 A single hair of the head of one's beloved is more precious than the
-Ḥūrī's <span id="fr_270"></span>[\*](#fn_270)—  
+Ḥūrī's <span id="fr_270"></span>[\*](#fn_270.md)—  
 What use is it, then, O priest! to laud the virgins of Paradise, unto
 me?
 
@@ -2606,7 +2606,7 @@ All these, I willingly accept, if thou art but reconciled to me.
 I will light no lamp in my dwelling to-night, that they may not
 suspect  
 These neighbours of the Sama’h <span
-id="fr_271"></span>[\*](#fn_271)—that thou art a guest of mine.
+id="fr_271"></span>[\*](#fn_271.md)—that thou art a guest of mine.
 
 I was saying, I would tell thee my heart's sorrows, when thou earnest;  
 But what griefs shall I mention, when thou, the grief-dispeller, art
@@ -2616,7 +2616,7 @@ Since thou tossest unto the wind the musk-pods of thy fragrant
 tresses,  
 <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>, full well
 knoweth, that thou art a deer of <u>Kh</u>at̤ā. <span
-id="fr_272"></span>[†](#fn_272)
+id="fr_272"></span>[†](#fn_272.md)
 
 #### LXIX.
 
@@ -2657,7 +2657,7 @@ For the prudent snake-charmer hath naught with black snakes to do.
 
 Be not inferior unto the Hindū female, for the honour of thy beloved;  
 For the blazing funeral pyre will have no terrors for her. <span
-id="fr_273"></span>[\*](#fn_273)
+id="fr_273"></span>[\*](#fn_273.md)
 
 Every moment, that I behold the object of my love, is a jubilee to me:  
 I shall then be without a festival, when my beloved may not be.
@@ -2699,7 +2699,7 @@ They all are spoken from a certain emotion of the heart.
 
 If the damsels of Ka<u>sh</u>mīr are famed for their beauty,  
 Or those of <u>Ch</u>īn, or Mā-<u>ch</u>īn, <span
-id="fr_274"></span>[\*](#fn_274) or Tartary, noted likewise;
+id="fr_274"></span>[\*](#fn_274.md) or Tartary, noted likewise;
 
 <span id="page_223">p. 223</span>
 
@@ -2708,7 +2708,7 @@ Put all the others to shame, by their conduct and ways.
 
 As to their comeliness, this, once for all, is the fact of the matter,  
 That they are, in lineage, of the tribe and posterity of Yaæḳūb. <span
-id="fr_275"></span>[\*](#fn_275)
+id="fr_275"></span>[\*](#fn_275.md)
 
 Of the fragrance of musk, or of rosewater, they have no need—  
 They are, as the ottar of the perfumer, by prayer five times a day.
@@ -2724,11 +2724,11 @@ Than the external form, their hearts are far sweeter still.
 
 From first to last, their occupation is in seclusion and privacy;  
 Not seen in the markets, with garments open, and persons exposed. <span
-id="fr_276"></span>[†](#fn_276)
+id="fr_276"></span>[†](#fn_276.md)
 
 They cannot look one full in the face, through modesty—  
 They are unused to abuse, and the discipline of the shoe. <span
-id="fr_277"></span>[‡](#fn_277)
+id="fr_277"></span>[‡](#fn_277.md)
 
 <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span> hath mentioned,
 more or less, somewhat of the matter;  
@@ -2738,7 +2738,7 @@ But much remaineth, that may be suitable, or unsuitable to the case.
 
 If the Af<u>gh</u>ān people are of the human race,  
 In disposition and ways they are very Hindūs. <span
-id="fr_278"></span>[§](#fn_278)
+id="fr_278"></span>[§](#fn_278.md)
 
 <span id="page_224">p. 224</span>
 
@@ -2770,7 +2770,7 @@ That they are not slaves, but free-born men.
 #### LXXIV.
 
 Vain is his affectation respecting the end of his turban; <span
-id="fr_279"></span>[\*](#fn_279)  
+id="fr_279"></span>[\*](#fn_279.md)  
 For in the time of his manhood his condition is changed.
 
 The rank of all will not be on a parity together—  
@@ -2810,7 +2810,7 @@ Even though he is furnished, both with feathers and with wings?
 Though all the world may agree to disparage, and speak ill of him,  
 Poor <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span> is <span
 class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span> <span
-id="fr_280"></span>[\*](#fn_280) in his own merits and integrity.
+id="fr_280"></span>[\*](#fn_280.md) in his own merits and integrity.
 
 #### LXXV.
 
@@ -2827,12 +2827,12 @@ Enjoy spring's pleasant time; for garden such as this, none other will
 there be!
 
 Behold the tulip—that heart-seared flower—in blood ensanguined! <span
-id="fr_281"></span>[\*](#fn_281)  
+id="fr_281"></span>[\*](#fn_281.md)  
 No martyr, from time's beginning, e’er donned such winding-sheet!
 
 Look upon those her sable locks, and upon both those lovely cheeks!  
 Within the world's parterre are no such spikenards, no such lilies
-found. <span id="fr_282"></span>[†](#fn_282)
+found. <span id="fr_282"></span>[†](#fn_282.md)
 
 Shouldst thou a mantle from the rose-leaves make, even they would
 irritate:  
@@ -2844,7 +2844,7 @@ Poor Majnūn, during life's whole course, will never have looked upon.
 If such the law, or such her custom be, the Hindū female's right is
 constancy,  
 That sitteth down upon her lover's pyre: what other would such burning
-bear? <span id="fr_283"></span>[‡](#fn_283)
+bear? <span id="fr_283"></span>[‡](#fn_283.md)
 
 <span id="page_227">p. 227</span>
 
@@ -2852,7 +2852,7 @@ That some one, in sorrow, might wring her hands, and weep and wail for
 thee,  
 Such is not death, but life itself, if such thy death might be.
 
-The bliss of Iram <span id="fr_284"></span>[\*](#fn_284) I enjoyed, the
+The bliss of Iram <span id="fr_284"></span>[\*](#fn_284.md) I enjoyed, the
 precincts of thy courts within,  
 Delighted with fortune and fate, that such a home to <span
 class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span> gave.
@@ -2868,7 +2868,7 @@ But it is the Almighty, that preserveth her, or sinketh her therein.
 
 Empire and dominion, upon fortune and destiny depend  
 ’Tis the Ḥumā of happy omen, that casteth its shadow o’er one's
-head. <span id="fr_285"></span>[†](#fn_285)
+head. <span id="fr_285"></span>[†](#fn_285.md)
 
 Verily, if any one should stand in need of aught from another,  
 Though the sovereign of the universe, he is but a beggar still.
@@ -2896,7 +2896,7 @@ But the rose herself, is self-praising of her own loveliness.
 Whether gardens, or whether wilds, or any other place soever—  
 Where the heart hath become <span
 class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>, <span
-id="fr_286"></span>[\*](#fn_286) that is the happy spot!
+id="fr_286"></span>[\*](#fn_286.md) that is the happy spot!
 
 #### LXXVII.
 
@@ -2952,7 +2952,7 @@ Their creed is empty words—their promise to be evaded, or unblushingly
 denied.
 
 Though, in devotion and adoration, they may equal Balæām, <span
-id="fr_287"></span>[\*](#fn_287)  
+id="fr_287"></span>[\*](#fn_287.md)  
 Even then, through giving ear unto carnality, they are infidels at last.
 
 <span id="page_230">p. 230</span>
@@ -2990,7 +2990,7 @@ Verily, sorrow and grief will vanish from the heart.
 
 Since thou hast flung, uselessly, the musk away,  
 What rigour bringest thou, the camphor upon? <span
-id="fr_288"></span>[\*](#fn_288)
+id="fr_288"></span>[\*](#fn_288.md)
 
 He, who hath neither wealth nor possessions to care for,  
 Goeth about, everywhere, cheerful, and free from care.
@@ -3000,7 +3000,7 @@ Goeth about, everywhere, cheerful, and free from care.
 Abandon not, O <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>!
 His footmarks,  
 Though thy head, like that of the pen, should go. <span
-id="fr_289"></span>[\*](#fn_289)
+id="fr_289"></span>[\*](#fn_289.md)
 
 #### LXXX.
 
@@ -3136,7 +3136,7 @@ Would that I could a good word for some of them say!
 Were there any steps taken for assembling troops—  
 Every hill and dale with them to profusion teem.
 
-The black and the white <span id="fr_290"></span>[\*](#fn_290) are
+The black and the white <span id="fr_290"></span>[\*](#fn_290.md) are
 useless in any affair—  
 Either let all be white, or let all black be.
 
@@ -3148,7 +3148,7 @@ Would that the morn of joy and delight would dawn!
 Unjust towards <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>
 they would not be,  
 Were people with the state of the case acquainted. <span
-id="fr_291"></span>[\*](#fn_291)
+id="fr_291"></span>[\*](#fn_291.md)
 
 #### LXXXIV.
 
@@ -3162,14 +3162,14 @@ Though the camel, with its lading, hath entered their dwelling,
 They are first taken up with stealing the bell from its neck.
 
 Out upon him, who first the name of Sa<u>rr</u>ah-ban <span
-id="fr_292"></span>[†](#fn_292) bore!  
+id="fr_292"></span>[†](#fn_292.md) bore!  
 And malediction upon the whole of them, that after follow!
 
 The recreant occupy themselves in baseness and dishonour;  
 But every breath of the noble is devoted to the cause of renown.
 
 They commence from Ḳandahār, and reach unto Dam<u>gh</u>ār; <span
-id="fr_293"></span>[‡](#fn_293)  
+id="fr_293"></span>[‡](#fn_293.md)  
 And all are worthless and good for nothing, who dwell between.
 
 <span id="page_236">p. 236</span>
@@ -3313,7 +3313,7 @@ Fortunate is he, indeed, for whose belly sufficeth the dry crust.
 
 Now that I am turned ascetic, for whom shall I gird on the sword?  
 It is well, forsooth, that I even bear a club my shoulder upon. <span
-id="fr_294"></span>[\*](#fn_294)
+id="fr_294"></span>[\*](#fn_294.md)
 
 Should any one make inquiry concerning wounded hearts,  
 There is <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl,
@@ -3352,7 +3352,7 @@ The day of their swords is past and gone, and but the pen remaineth unto
 them.
 
 They gain over the Af<u>gh</u>āns by gold; and by fraud and deception
-entangle them: <span id="fr_295"></span>[\*](#fn_295)  
+entangle them: <span id="fr_295"></span>[\*](#fn_295.md)  
 Upon me these things have no effect; for the favour of God is still upon
 me.
 
@@ -3369,7 +3369,7 @@ But since there are none like me, with distress and grief I am
 o’erwhelm’d.
 
 Both Ae-māl <u>Kh</u>ān and Dar-yā <u>Kh</u>ān have passed away, in
-honour and in fame; <span id="fr_296"></span>[\*](#fn_296)  
+honour and in fame; <span id="fr_296"></span>[\*](#fn_296.md)  
 And, through bereavement from them, these my sighs, and this mourning
 proceed.
 
@@ -3405,7 +3405,7 @@ Since the calamity of separation is ever linked along with it,
 Wherefore is the beauty of the beloved so lauded and extolled?
 
 Since the gem is grown of less value than the kaurī shell <span
-id="fr_297"></span>[\*](#fn_297)—  
+id="fr_297"></span>[\*](#fn_297.md)—  
 There can be no jeweller, clear-sighted enough to distinguish them.
 
 Seeing, that wherever there may be beauty, there the heart is,  
@@ -3553,7 +3553,7 @@ The more crossness borne, the more petulant they:
 The more whims brooked, the more capricious they grow.
 
 In all things, they are fickle, and changeable:  
-Tame in tongue, <span id="fr_298"></span>[\*](#fn_298) but untameable in
+Tame in tongue, <span id="fr_298"></span>[\*](#fn_298.md) but untameable in
 heart.
 
 They are beautiful in person, from head to foot;  
@@ -3591,16 +3591,16 @@ But not so elsewhere, though I should upon a throne recline.
 #### XCVIII.
 
 The mercy of the Almighty be upon Ako<u>rr</u>aey, <span
-id="fr_299"></span>[\*](#fn_299) that selected Sarā’e <span
-id="fr_300"></span>[†](#fn_300) for his home!  
+id="fr_299"></span>[\*](#fn_299.md) that selected Sarā’e <span
+id="fr_300"></span>[†](#fn_300.md) for his home!  
 Since I have on the subject reflected, if thou believe me, ’tis, of all
 others, the spot.
 
 Its dark mountain-range of Ho<u>dd</u>aey, <span
-id="fr_301"></span>[‡](#fn_301) runneth directly into the Tī-rāh
+id="fr_301"></span>[‡](#fn_301.md) runneth directly into the Tī-rāh
 country,  
 And the Nīl-āb and Lan<u>dd</u>aey have, wonderfully, laid their heads
-at its feet. <span id="fr_302"></span>[§](#fn_302)
+at its feet. <span id="fr_302"></span>[§](#fn_302.md)
 
 The great high road of Hindūstān and Khurāsān, is made along their
 banks;  
@@ -3620,7 +3620,7 @@ They have recourse unto it; and its abundance goeth forth to them all.
 
 There is game around, in every direction—sport for falcon, hawk, or
 hound:  
-Hail! hail! Kālah-pa<u>rr</u>nī! <span id="fr_303"></span>[\*](#fn_303)
+Hail! hail! Kālah-pa<u>rr</u>nī! <span id="fr_303"></span>[\*](#fn_303.md)
 what heart-ravishing sport dost thou contain!
 
 The youth of Sarā’e are healthy and stout; active and agile, in every
@@ -3633,94 +3633,94 @@ May the protection of the Almighty be extended to all who dwell therein!
 Fate, alas! hath taken him from it—can the arm of any one reach fate?  
 <span class="smallcaps"><u>Kh</u>u<u>sh</u>ḥāl</span>, hath not been
 severed from Sarā’e of his own accord—ah no! <span
-id="fr_304"></span>[†](#fn_304)
+id="fr_304"></span>[†](#fn_304.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_171"></span>[150:\*](spa11.htm#fr_171) These are the Afrīdī
+<span id="fn_171"></span>[150:\*](spa11.htm#fr_171.md) These are the Afrīdī
 chiefs, who aided <u>Kh</u>u<u>sh</u>ḥāl in his wars with Aurangzeb.
 
-<span id="fn_172"></span>[150:†](spa11.htm#fr_172) The name of a Pass
+<span id="fn_172"></span>[150:†](spa11.htm#fr_172.md) The name of a Pass
 leading from Pe<u>sh</u>āwar to Jalālābād.
 
-<span id="fn_173"></span>[150:‡](spa11.htm#fr_173) A small State, held
+<span id="fn_173"></span>[150:‡](spa11.htm#fr_173.md) A small State, held
 by independent Af<u>gh</u>ān tribes, NẈ. of Pe<u>sh</u>āwar.
 
-<span id="fn_174"></span>[150:§](spa11.htm#fr_174) He had gone into the
+<span id="fn_174"></span>[150:§](spa11.htm#fr_174.md) He had gone into the
 Yūsufzī country, to endeavour to persuade that tribe to assist the
 confederates.
 
-<span id="fn_175"></span>[150:§§](spa11.htm#fr_175) See note at page
-[139](spa09.htm#page_139).
+<span id="fn_175"></span>[150:§§](spa11.htm#fr_175.md) See note at page
+[139](spa09.htm#page_139.md).
 
-<span id="fn_176"></span>[151:\*](spa11.htm#fr_176) The lofty mountain
+<span id="fn_176"></span>[151:\*](spa11.htm#fr_176.md) The lofty mountain
 to the right of the <u>Kh</u>aibar Pass, looking from Pe<u>sh</u>āwar,
 and giving name to another Pass, leading to Jalālābād.
 
-<span id="fn_177"></span>[151:†](spa11.htm#fr_177) A *parganah* or
+<span id="fn_177"></span>[151:†](spa11.htm#fr_177.md) A *parganah* or
 division of the Pe<u>sh</u>āwar district, lying, as its name implies,
 between two rivers, the Lan<u>dd</u>aey and the Kabūl.
 
-<span id="fn_178"></span>[151:‡](spa11.htm#fr_178) A town of the
+<span id="fn_178"></span>[151:‡](spa11.htm#fr_178.md) A town of the
 Pe<u>sh</u>āwar district, on the northern bank of the Kabūl river.
 
-<span id="fn_179"></span>[152:\*](spa11.htm#fr_179) Aurangzeb dethroned
+<span id="fn_179"></span>[152:\*](spa11.htm#fr_179.md) Aurangzeb dethroned
 his father <u>Sh</u>āh Jahān, whom he confined in prison until his
 death, which took place seven years after.
 
-<span id="fn_180"></span>[152:†](spa11.htm#fr_180) The Yūsufzīs who
+<span id="fn_180"></span>[152:†](spa11.htm#fr_180.md) The Yūsufzīs who
 would not aid.
 
-<span id="fn_181"></span>[153:\*](spa11.htm#fr_181) A small district of
+<span id="fn_181"></span>[153:\*](spa11.htm#fr_181.md) A small district of
 Af<u>gh</u>ānistān, of which Jalālābād, famous for its defence by Sir
 Robert Sale, is the chief town.
 
-<span id="fn_182"></span>[153:†](spa11.htm#fr_182) The fifth month of
+<span id="fn_182"></span>[153:†](spa11.htm#fr_182.md) The fifth month of
 the Af<u>gh</u>ān year, so called.
 
-<span id="fn_183"></span>[153:‡](spa11.htm#fr_183) According to the
+<span id="fn_183"></span>[153:‡](spa11.htm#fr_183.md) According to the
 *Abjad* system of the Arabs and other Muḥammadans, of computing numbers
 by letters, the word <span id="img_15300"></span> ![](img/15300.jpg)
 (<u>gh</u>afū) is equivalent to the year <span
 class="smallcaps">h.</span> 1086 (<span class="smallcaps">a.d.</span>
 1675.)
 
-<span id="fn_184"></span>[153:§](spa11.htm#fr_184) Cause the bud to open
+<span id="fn_184"></span>[153:§](spa11.htm#fr_184.md) Cause the bud to open
 its leaves.
 
-<span id="fn_185"></span>[154:\*](spa11.htm#fr_185) One of the three
+<span id="fn_185"></span>[154:\*](spa11.htm#fr_185.md) One of the three
 great divisions into which the whole Af<u>gh</u>ān nation is divided,
 and in which the <u>Kh</u>a<u>tt</u>ak tribe is included.
 
-<span id="fn_186"></span>[154:†](spa11.htm#fr_186) See the Introductory
-Chapter, page [xix](spa03.htm#page_xix)., on the word "<span
+<span id="fn_186"></span>[154:†](spa11.htm#fr_186.md) See the Introductory
+Chapter, page [xix](spa03.htm#page_xix.md)., on the word "<span
 class="smallcaps">Alasto</span>."
 
-<span id="fn_187"></span>[155:\*](spa11.htm#fr_187) Kasrā, or Cyrus,
+<span id="fn_187"></span>[155:\*](spa11.htm#fr_187.md) Kasrā, or Cyrus,
 King of Persia, is the model of a just king; and Hujāj bin Yūsuf,
 Governor of <u>Kh</u>urāsān, under the <u>Kh</u>alīfah, Æabd-ul-Malik,
 the conception of a perfect tyrant.
 
-<span id="fn_188"></span>[158:\*](spa11.htm#fr_188) The fabulous
+<span id="fn_188"></span>[158:\*](spa11.htm#fr_188.md) The fabulous
 mountain, the boundary of the world, and surrounding the horizon on all
 sides.
 
-<span id="fn_189"></span>[159:\*](spa11.htm#fr_189) Bū-Lḥab and Bū-Jhal,
+<span id="fn_189"></span>[159:\*](spa11.htm#fr_189.md) Bū-Lḥab and Bū-Jhal,
 the former the uncle, and the latter the cousin of Muḥammad, were his
 greatest enemies and opposers in the propagation of his new faith.
 Æumar, the second <u>Kh</u>alīfah after Muḥammad, is called Fārūḳ, The
 Distinguisher.
 
-<span id="fn_190"></span>[160:\*](spa11.htm#fr_190) Gabr is the name
+<span id="fn_190"></span>[160:\*](spa11.htm#fr_190.md) Gabr is the name
 given to Fire-worshippers, or Pārsīs.
 
-<span id="fn_191"></span>[161:\*](spa11.htm#fr_191) The elephant is in
+<span id="fn_191"></span>[161:\*](spa11.htm#fr_191.md) The elephant is in
 the habit of sprinkling himself with dust, to drive insects away; but
 here it is to indicate sorrow.
 
-<span id="fn_192"></span>[163:\*](spa11.htm#fr_192) Ṣult̤ān Muezz-ud-dīn
+<span id="fn_192"></span>[163:\*](spa11.htm#fr_192.md) Ṣult̤ān Muezz-ud-dīn
 Sanjar was the son of Malik <u>Sh</u>āh, sixth monarch of the race of
 Seljūk, and for upwards of twenty years Governor of Khurāsān. His life
 is remarkable for the vicissitudes he suffered, having once been
@@ -3734,85 +3734,85 @@ his benevolence, and the love of his people; for his respect for, and
 his encouragement of learning and learned men; and for his zeal and
 exertions to promote the advancement of his religion.
 
-<span id="fn_193"></span>[164:\*](spa11.htm#fr_193) For an account of
+<span id="fn_193"></span>[164:\*](spa11.htm#fr_193.md) For an account of
 <u>Sh</u>ahdād and his garden of Iram, see note at page
-[81](spa07.htm#page_81).
+[81](spa07.htm#page_81.md).
 
-<span id="fn_194"></span>[164:†](spa11.htm#fr_194) Ibid.
+<span id="fn_194"></span>[164:†](spa11.htm#fr_194.md) Ibid.
 
-<span id="fn_195"></span>[164:‡](spa11.htm#fr_195) Mir-bāz <u>Kh</u>ān,
+<span id="fn_195"></span>[164:‡](spa11.htm#fr_195.md) Mir-bāz <u>Kh</u>ān,
 a connexion of <u>Kh</u>u<u>sh</u>ḥāl's; who was a worshipper of the
 wealth of the Mu<u>gh</u>als.
 
-<span id="fn_196"></span>[167:\*](spa11.htm#fr_196) Ḳārūn, son of
+<span id="fn_196"></span>[167:\*](spa11.htm#fr_196.md) Ḳārūn, son of
 Ye<u>sh</u>ar, the uncle of Moses, and identical with Korah of the
 Scriptures, who, at the complaint of Moses, against whom he had brought
 a false accusation, was swallowed by the earth, at the command of the
 Almighty.
 
-<span id="fn_197"></span>[168:\*](spa11.htm#fr_197) Referring to the
+<span id="fn_197"></span>[168:\*](spa11.htm#fr_197.md) Referring to the
 Muḥammadan account of the creation, for which see Sale's edition of the
 <span class="smallcaps">Ḳur’ān</span>.
 
-<span id="fn_198"></span>[169:\*](spa11.htm#fr_198) A person who acts as
+<span id="fn_198"></span>[169:\*](spa11.htm#fr_198.md) A person who acts as
 go-between of the parents in cases of marriage or betrothal.
 
-<span id="fn_199"></span>[169:†](spa11.htm#fr_199) The rue-plant was
+<span id="fn_199"></span>[169:†](spa11.htm#fr_199.md) The rue-plant was
 anciently regarded as an infallible antidote against poison, pestilence,
 and the devil. It is much used in exorcisms, and has been extravagantly
 eulogized and extolled by all writers, from Hippocrates to Bœrhaave. By
 the Af<u>gh</u>āns, the herb and its seeds are used as fumigations, to
 ward off the evil-eye.
 
-<span id="fn_200"></span>[171:\*](spa11.htm#fr_200) See note at page
-[15](spa05.htm#page_15).
+<span id="fn_200"></span>[171:\*](spa11.htm#fr_200.md) See note at page
+[15](spa05.htm#page_15.md).
 
-<span id="fn_201"></span>[171:†](spa11.htm#fr_201) A belt, or cord more
+<span id="fn_201"></span>[171:†](spa11.htm#fr_201.md) A belt, or cord more
 particularly, worn round the middle by the Eastern Christians and Jews,
 and also by the Persian Magi. It was introduced <span
 class="smallcaps">a.d.</span> 859, by the <u>Kh</u>alīfāh Mutawakkil, to
 distinguish them from Muḥammadans.
 
-<span id="fn_202"></span>[172:\*](spa11.htm#fr_202) This appears to
+<span id="fn_202"></span>[172:\*](spa11.htm#fr_202.md) This appears to
 refer to some of the poet's wives, who bore him disobedient sons.
 
-<span id="fn_203"></span>[173:\*](spa11.htm#fr_203) Two undutiful sons
+<span id="fn_203"></span>[173:\*](spa11.htm#fr_203.md) Two undutiful sons
 of the poet, particularly Bahrām.
 
-<span id="fn_204"></span>[173:†](spa11.htm#fr_204) The species of parrot
+<span id="fn_204"></span>[173:†](spa11.htm#fr_204.md) The species of parrot
 here referred to we should term paroquet in this country. Green is the
 mourning colour in Muḥammadan countries.
 
-<span id="fn_205"></span>[175:\*](spa11.htm#fr_205) A kind of
+<span id="fn_205"></span>[175:\*](spa11.htm#fr_205.md) A kind of
 Darwe<u>sh</u> or devotee, who goes about almost naked.
 
-<span id="fn_206"></span>[175:†](spa11.htm#fr_206) It is usual with
+<span id="fn_206"></span>[175:†](spa11.htm#fr_206.md) It is usual with
 young females to wear a clove in the nostril, to keep open the orifice
 pierced for the insertion of the nose jewel, on marriage.
 
-<span id="fn_207"></span>[175:‡](spa11.htm#fr_207) A black mole.
+<span id="fn_207"></span>[175:‡](spa11.htm#fr_207.md) A black mole.
 
-<span id="fn_208"></span>[175:§](spa11.htm#fr_208) See note at page
-[48](spa05.htm#page_48).
+<span id="fn_208"></span>[175:§](spa11.htm#fr_208.md) See note at page
+[48](spa05.htm#page_48.md).
 
-<span id="fn_209"></span>[175:§§](spa11.htm#fr_209) See note at page
-[137](spa09.htm#page_137).
+<span id="fn_209"></span>[175:§§](spa11.htm#fr_209.md) See note at page
+[137](spa09.htm#page_137.md).
 
-<span id="fn_210"></span>[177:\*](spa11.htm#fr_210) Lit. "The father of
+<span id="fn_210"></span>[177:\*](spa11.htm#fr_210.md) Lit. "The father of
 ignorance," an uncle of Muḥammad's. See also note at page
-[159](#page_159).
+[159](#page_159.md).
 
-<span id="fn_211"></span>[178:\*](spa11.htm#fr_211) A kind of dish made
+<span id="fn_211"></span>[178:\*](spa11.htm#fr_211.md) A kind of dish made
 from flesh and rice, to which are added raisins and almonds, etc.
 
-<span id="fn_212"></span>[179:\*](spa11.htm#fr_212) Aurangzeb, son of
+<span id="fn_212"></span>[179:\*](spa11.htm#fr_212.md) Aurangzeb, son of
 the Emperor <u>Sh</u>āh Jahān.
 
-<span id="fn_213"></span>[179:†](spa11.htm#fr_213) Literally, house-born
+<span id="fn_213"></span>[179:†](spa11.htm#fr_213.md) Literally, house-born
 slaves; but here the term applies to the trusty chiefs and followers of
 <u>Sh</u>āh Jahān, who was dethroned by Aurangzeb.
 
-<span id="fn_214"></span>[181:\*](spa11.htm#fr_214)
+<span id="fn_214"></span>[181:\*](spa11.htm#fr_214.md)
 
 <div style="margin-left: 32px">
 
@@ -3822,26 +3822,26 @@ class="smallcaps">Cowper</span>.
 
 </div>
 
-<span id="fn_215"></span>[181:†](spa11.htm#fr_215) Written on the poet's
+<span id="fn_215"></span>[181:†](spa11.htm#fr_215.md) Written on the poet's
 return from Suwāt, where he had gone to endeavour to induce the Yūsufzīs
 to join the confederacy against Aurangzeb.
 
-<span id="fn_216"></span>[182:\*](spa11.htm#fr_216) A skinner or tanner
+<span id="fn_216"></span>[182:\*](spa11.htm#fr_216.md) A skinner or tanner
 is looked upon with great contempt by the Af<u>gh</u>āns.
 
-<span id="fn_217"></span>[183:\*](spa11.htm#fr_217) Sama’h signifies a
+<span id="fn_217"></span>[183:\*](spa11.htm#fr_217.md) Sama’h signifies a
 plain in the Af<u>gh</u>ān language, and is the name given to that tract
 of country, lying between the Kabūl river, near its junction with the
 Indus, and the mountains bounding Suwāt on the south.
 
-<span id="fn_218"></span>[183:†](spa11.htm#fr_218) Referring to the
+<span id="fn_218"></span>[183:†](spa11.htm#fr_218.md) Referring to the
 unhappy end of the Emperor <u>Sh</u>āh Jahān, dethroned and imprisoned
 by Aurangzeb his son.
 
-<span id="fn_219"></span>[186:\*](spa11.htm#fr_219) See note at page
-[74](spa07.htm#page_74).
+<span id="fn_219"></span>[186:\*](spa11.htm#fr_219.md) See note at page
+[74](spa07.htm#page_74.md).
 
-<span id="fn_220"></span>[187:\*](spa11.htm#fr_220) Under the two names
+<span id="fn_220"></span>[187:\*](spa11.htm#fr_220.md) Under the two names
 of Irān and Turān, from whence the people are termed Irānī and Turānī,
 Eastern authors comprehend all the higher Asia, except China and India.
 Irān, which is the Eastern name for the Persian Empire, includes all
@@ -3851,30 +3851,30 @@ The region beyond the Oxus is Turān or Scythia, or Turkomānia. In some
 instances, Irānī and Turānī include all mankind, in the same manner as
 Greek and Barbarian—Jew and Gentile—Arab and Ajam.
 
-<span id="fn_221"></span>[187:†](spa11.htm#fr_221) All the different
+<span id="fn_221"></span>[187:†](spa11.htm#fr_221.md) All the different
 tribes here mentioned are not Af<u>gh</u>āns, but are either located in
 Af<u>gh</u>ānistān or border on the Af<u>gh</u>ān country. The Panjābīs
 and Sikhs not being mentioned, would indicate that in
 <u>Kh</u>u<u>sh</u>ḥāl's days they were not recognised as separate
 people, but included amongst Hindūstānīs.
 
-<span id="fn_222"></span>[189:\*](spa11.htm#fr_222) A black-eyed virgin
+<span id="fn_222"></span>[189:\*](spa11.htm#fr_222.md) A black-eyed virgin
 of the Muḥammadan Paradise.
 
-<span id="fn_223"></span>[191:\*](spa11.htm#fr_223) Reading over the
+<span id="fn_223"></span>[191:\*](spa11.htm#fr_223.md) Reading over the
 *sūra* or chapter of the Ḳur’ān, entitled "*kul huwa-l-lah*," by way of
 benediction, and to preserve one's self from evil and misfortune.
 
-<span id="fn_224"></span>[191:†](spa11.htm#fr_224) A religious mendicant
+<span id="fn_224"></span>[191:†](spa11.htm#fr_224.md) A religious mendicant
 or devotee.
 
-<span id="fn_225"></span>[191:‡](spa11.htm#fr_225) That is to say, an
+<span id="fn_225"></span>[191:‡](spa11.htm#fr_225.md) That is to say, an
 impossible thing.
 
-<span id="fn_226"></span>[193:\*](spa11.htm#fr_226) An old fortress and
+<span id="fn_226"></span>[193:\*](spa11.htm#fr_226.md) An old fortress and
 village on the west bank of the Indus, facing A<u>tt</u>ak.
 
-<span id="fn_227"></span>[193:†](spa11.htm#fr_227) The town of Sarā’e,
+<span id="fn_227"></span>[193:†](spa11.htm#fr_227.md) The town of Sarā’e,
 belonging to the <u>Kh</u>a<u>tt</u>ak tribe of Af<u>gh</u>āns, lies
 amongst the hills to the west of A<u>tt</u>ak, and not far from the west
 bank of the Sind or Indus. It is one of the chief towns of the tribe,
@@ -3882,43 +3882,43 @@ and was the birthplace of the poet, and most of his ancestors are here
 buried; but <u>Kh</u>u<u>sh</u>ḥāl himself was buried at a different
 place. See notice preceding his poems.
 
-<span id="fn_228"></span>[194:\*](spa11.htm#fr_228) Abā-Sind, signifying
+<span id="fn_228"></span>[194:\*](spa11.htm#fr_228.md) Abā-Sind, signifying
 "the father of rivers," is the Af<u>gh</u>ān name for the Indus. The
 Lan<u>dd</u>aey-Sind, or "little river," is that known as the river of
 Kabūl, after its junction with the Suwāt (the ancient Suastus), until it
 joins the Indus a little above A<u>tt</u>ak.
 
-<span id="fn_229"></span>[194:†](spa11.htm#fr_229) Hind, or Hindūstān.
+<span id="fn_229"></span>[194:†](spa11.htm#fr_229.md) Hind, or Hindūstān.
 
-<span id="fn_230"></span>[195:\*](spa11.htm#fr_230) This poem was
+<span id="fn_230"></span>[195:\*](spa11.htm#fr_230.md) This poem was
 written by one of <u>Kh</u>u<u>sh</u>ḥāl's wives, the mother of
 A<u>sh</u>raf, himself a poet, who died in exile in Southern India. It
 would almost appear to be a reply to the poem preceding, which was
 written by <u>Kh</u>u<u>sh</u>ḥāl, whilst in exile in India.
 
-<span id="fn_231"></span>[195:†](spa11.htm#fr_231) The leaves of a tree
+<span id="fn_231"></span>[195:†](spa11.htm#fr_231.md) The leaves of a tree
 (*Lawsonia inermis*) from which a bright orange red colour is extracted,
 and with which the Muḥammadan people of Asia dye the hands and feet on
 festive occasions.
 
-<span id="fn_232"></span>[195:‡](spa11.htm#fr_232) Used to give a bright
+<span id="fn_232"></span>[195:‡](spa11.htm#fr_232.md) Used to give a bright
 red colour to the lips; but the bark of the walnut-tree seems to be the
 favourite substance for the purpose among the Af<u>gh</u>ān females
 now-a-days.
 
-<span id="fn_233"></span>[195:§](spa11.htm#fr_233) The play on the words
+<span id="fn_233"></span>[195:§](spa11.htm#fr_233.md) The play on the words
 in these two last lines are nearly lost in translation; for instead of
 inserting her own name, the writer uses her husband's, which signifies
 'happy.' To have inserted her own name would have been considered
 indelicate.
 
-<span id="fn_234"></span>[197:\*](spa11.htm#fr_234) Afrīt—one of the
+<span id="fn_234"></span>[197:\*](spa11.htm#fr_234.md) Afrīt—one of the
 most fierce and cruel of the genii, or demons, of Oriental tales.
 
-<span id="fn_235"></span>[197:†](spa11.htm#fr_235) Pa<u>tt</u>āns,
+<span id="fn_235"></span>[197:†](spa11.htm#fr_235.md) Pa<u>tt</u>āns,
 another name for the Af<u>gh</u>āns.
 
-<span id="fn_236"></span>[197:‡](spa11.htm#fr_236) The Af<u>gh</u>ān
+<span id="fn_236"></span>[197:‡](spa11.htm#fr_236.md) The Af<u>gh</u>ān
 Emperors of India, of the Lūdī tribe, were Sult̤āns Bahlol, Sikandar, and
 Ibrahīm, who reigned from <span class="smallcaps">a.d.</span> 1450 to
 1526, when Bābar conquered Hindūstān. His son, Humāyūn, was again
@@ -3927,182 +3927,182 @@ Sūr, in <span class="smallcaps">a.d.</span> 1540. To him succeeded Salīm
 <u>Sh</u>āh, his son, whose son, Muḥammad <u>Sh</u>āh, was dethroned by
 Humāyūn, the previous Emperor, and father of Akbar, in 1556.
 
-<span id="fn_237"></span>[198:\*](spa11.htm#fr_237) A kind of cloth or
+<span id="fn_237"></span>[198:\*](spa11.htm#fr_237.md) A kind of cloth or
 gauze, which is said to be rent by exposure to the moonlight; and,
 hence, is represented by Oriental poets as enamoured of the moon.
 
-<span id="fn_238"></span>[199:\*](spa11.htm#fr_238) See note at page
-[29](spa05.htm#page_29).
+<span id="fn_238"></span>[199:\*](spa11.htm#fr_238.md) See note at page
+[29](spa05.htm#page_29.md).
 
-<span id="fn_239"></span>[199:†](spa11.htm#fr_239) A tribe of
+<span id="fn_239"></span>[199:†](spa11.htm#fr_239.md) A tribe of
 Af<u>gh</u>āns, dwelling in the hills to the west and south of
 Pe<u>sh</u>āwar, who are about the most uncivilized of the
 Af<u>gh</u>āns.
 
-<span id="fn_240"></span>[199:‡](spa11.htm#fr_240) The celebrated saint
+<span id="fn_240"></span>[199:‡](spa11.htm#fr_240.md) The celebrated saint
 of the Af<u>gh</u>āns, and great antagonist of Pīr Ro<u>sh</u>ān, the
 founder of the Ro<u>sh</u>ānīān sect of schismatics. He changed the name
 of Pīr Ro<u>sh</u>ān, signifying, "Saint of Light," into Pīr Tārīk, or
 "Saint of Darkness."
 
-<span id="fn_241"></span>[199:§](spa11.htm#fr_241) Bāyazīd Ansārī, who
+<span id="fn_241"></span>[199:§](spa11.htm#fr_241.md) Bāyazīd Ansārī, who
 took the name of Pīr Ro<u>sh</u>ān, as above stated. For further
-accounts of this man, see page [51](spa06.htm#page_51).
+accounts of this man, see page [51](spa06.htm#page_51.md).
 
-<span id="fn_242"></span>[199:§§](spa11.htm#fr_242) The red carnelian
+<span id="fn_242"></span>[199:§§](spa11.htm#fr_242.md) The red carnelian
 caskets refer to the gums, and the pearls are the teeth in them.
 
-<span id="fn_243"></span>[199:\*\*](spa11.htm#fr_243) The eye is
+<span id="fn_243"></span>[199:\*\*](spa11.htm#fr_243.md) The eye is
 compared to the narcissus, and white roses to a clear complexion.
 
-<span id="fn_244"></span>[200:\*](spa11.htm#fr_244) Æsop.
+<span id="fn_244"></span>[200:\*](spa11.htm#fr_244.md) Æsop.
 
-<span id="fn_245"></span>[200:†](spa11.htm#fr_245) Solomon.
+<span id="fn_245"></span>[200:†](spa11.htm#fr_245.md) Solomon.
 
-<span id="fn_246"></span>[201:\*](spa11.htm#fr_246) Hujāj, the Governor
+<span id="fn_246"></span>[201:\*](spa11.htm#fr_246.md) Hujāj, the Governor
 of <u>Kh</u>urāsān under the <u>Kh</u>alīfahs of the house of Omeyah,
 and a notorious tyrant.
 
-<span id="fn_247"></span>[201:†](spa11.htm#fr_247) A Persian monarch,
+<span id="fn_247"></span>[201:†](spa11.htm#fr_247.md) A Persian monarch,
 celebrated throughout the East for his justice and equity, hence he is
 known as "No<u>sh</u>īrwān the Just." It was during his reign that
 Muḥammad was born.
 
-<span id="fn_248"></span>[203:\*](spa11.htm#fr_248) The letter ا
+<span id="fn_248"></span>[203:\*](spa11.htm#fr_248.md) The letter ا
 (*alif*), from its form, is adopted to denote straightness of stature.
 
-<span id="fn_249"></span>[203:†](spa11.htm#fr_249) See Poem XCVIII.,
+<span id="fn_249"></span>[203:†](spa11.htm#fr_249.md) See Poem XCVIII.,
 third note.
 
-<span id="fn_250"></span>[203:‡](spa11.htm#fr_250) The name of a pass or
+<span id="fn_250"></span>[203:‡](spa11.htm#fr_250.md) The name of a pass or
 defile, leading into the Tī-rāh country, held by the Afrīdī tribe of
 Af<u>gh</u>āns.
 
-<span id="fn_251"></span>[204:\*](spa11.htm#fr_251) The rubies signify
+<span id="fn_251"></span>[204:\*](spa11.htm#fr_251.md) The rubies signify
 the lips, and the pearls the teeth.
 
-<span id="fn_252"></span>[206:\*](spa11.htm#fr_252) See page
-[142](spa10.htm#page_142).
+<span id="fn_252"></span>[206:\*](spa11.htm#fr_252.md) See page
+[142](spa10.htm#page_142.md).
 
-<span id="fn_253"></span>[207:\*](spa11.htm#fr_253) Mummy—the substance
+<span id="fn_253"></span>[207:\*](spa11.htm#fr_253.md) Mummy—the substance
 with which Egyptian mummies are preserved, a medicine held in great
 estimation in Oriental countries for wounds and fractures.
 
-<span id="fn_254"></span>[207:†](spa11.htm#fr_254) A celebrated Arabian
+<span id="fn_254"></span>[207:†](spa11.htm#fr_254.md) A celebrated Arabian
 poet, famous for his eloquence.
 
-<span id="fn_255"></span>[207:‡](spa11.htm#fr_255) The name of an Arab,
+<span id="fn_255"></span>[207:‡](spa11.htm#fr_255.md) The name of an Arab,
 celebrated throughout the East for his liberality and munificence.
 
-<span id="fn_256"></span>[208:\*](spa11.htm#fr_256) The letter ا
+<span id="fn_256"></span>[208:\*](spa11.htm#fr_256.md) The letter ا
 (*alif*) is an emblem of the Almighty—the One and Only.
 
-<span id="fn_257"></span>[208:†](spa11.htm#fr_257) Attar of roses.
+<span id="fn_257"></span>[208:†](spa11.htm#fr_257.md) Attar of roses.
 
-<span id="fn_258"></span>[209:\*](spa11.htm#fr_258) The family of the
+<span id="fn_258"></span>[209:\*](spa11.htm#fr_258.md) The family of the
 <u>Kh</u>a<u>tt</u>ak tribe in which the chieftainship was, and still is
 hereditary.
 
-<span id="fn_259"></span>[209:†](spa11.htm#fr_259) See note at page
-[193](#page_193).
+<span id="fn_259"></span>[209:†](spa11.htm#fr_259.md) See note at page
+[193](#page_193.md).
 
-<span id="fn_260"></span>[210:\*](spa11.htm#fr_260) The long curls of
+<span id="fn_260"></span>[210:\*](spa11.htm#fr_260.md) The long curls of
 the hair of the Af<u>gh</u>ān females, often reaching below the waist,
 are compared to black snakes. See note at page
-[136](spa09.htm#page_136).
+[136](spa09.htm#page_136.md).
 
-<span id="fn_261"></span>[212:\*](spa11.htm#fr_261) A crier, who summons
+<span id="fn_261"></span>[212:\*](spa11.htm#fr_261.md) A crier, who summons
 the Faithful to prayer, by proclamation from the minaret of a mosque.
 
-<span id="fn_262"></span>[212:†](spa11.htm#fr_262) The name of a small
+<span id="fn_262"></span>[212:†](spa11.htm#fr_262.md) The name of a small
 district to the west of Pe<u>sh</u>āwar, and south of the <u>Kh</u>aibar
 Pass.
 
-<span id="fn_263"></span>[212:‡](spa11.htm#fr_263) Two of the three
+<span id="fn_263"></span>[212:‡](spa11.htm#fr_263.md) Two of the three
 independent tribes of the <u>Kh</u>aibarīs, altogether about 120,000
 souls, who hold the <u>Kh</u>aibar Pass. They are the most uncouth and
 uncivilized of the Af<u>gh</u>ān tribes.
 
-<span id="fn_264"></span>[213:\*](spa11.htm#fr_264) See Introductory
+<span id="fn_264"></span>[213:\*](spa11.htm#fr_264.md) See Introductory
 Remarks, for an account of the Ṣūfis and their tenets.
 
-<span id="fn_265"></span>[213:†](spa11.htm#fr_265) Long and wide sleeves
+<span id="fn_265"></span>[213:†](spa11.htm#fr_265.md) Long and wide sleeves
 are worn in the East.
 
-<span id="fn_266"></span>[215:\*](spa11.htm#fr_266) This was written
+<span id="fn_266"></span>[215:\*](spa11.htm#fr_266.md) This was written
 during his wars with the Mu<u>gh</u>als.
 
-<span id="fn_267"></span>[217:\*](spa11.htm#fr_267) Jahangir
+<span id="fn_267"></span>[217:\*](spa11.htm#fr_267.md) Jahangir
 <u>Sh</u>āh, signifying "the world-conquering king," is the title
 assumed by the fourth Mu<u>gh</u>al Emperor of India, and son of Akbar.
 Nūr Maḥāl, "the light of the ḥaram," is the name of his favourite queen.
 
-<span id="fn_268"></span>[217:†](spa11.htm#fr_268) Antimony, used in
+<span id="fn_268"></span>[217:†](spa11.htm#fr_268.md) Antimony, used in
 Oriental countries to increase the blackness of the eyes, by applying it
 to the lids. See "<span class="smallcaps">Lane's Modern
 Egyptians</span>."
 
-<span id="fn_269"></span>[217:‡](spa11.htm#fr_269) The reed or pipe is
+<span id="fn_269"></span>[217:‡](spa11.htm#fr_269.md) The reed or pipe is
 an emblem of slightness and weakness, and the utterer of plaintive
 sounds.
 
-<span id="fn_270"></span>[219:\*](spa11.htm#fr_270) The black-eyed
+<span id="fn_270"></span>[219:\*](spa11.htm#fr_270.md) The black-eyed
 virgins of the Muḥammadan Paradise.
 
-<span id="fn_271"></span>[220:\*](spa11.htm#fr_271) See first note at
-[p. 183](#page_183).
+<span id="fn_271"></span>[220:\*](spa11.htm#fr_271.md) See first note at
+[p. 183](#page_183.md).
 
-<span id="fn_272"></span>[220:†](spa11.htm#fr_272) <u>Kh</u>atā or
+<span id="fn_272"></span>[220:†](spa11.htm#fr_272.md) <u>Kh</u>atā or
 <u>Kh</u>atay, the northern part of China, or Chinese Tārtary, famous
 for its musk and pretty damsels.
 
-<span id="fn_273"></span>[221:\*](spa11.htm#fr_273) The Hindū women
+<span id="fn_273"></span>[221:\*](spa11.htm#fr_273.md) The Hindū women
 boldly and fearlessly mount the funeral pyre of their deceased husbands,
 for what they consider honour's sake.
 
-<span id="fn_274"></span>[222:\*](spa11.htm#fr_274) China and Chinese
+<span id="fn_274"></span>[222:\*](spa11.htm#fr_274.md) China and Chinese
 Tartary, famous for beautiful women.
 
-<span id="fn_275"></span>[223:\*](spa11.htm#fr_275) The patriarch Jacob.
+<span id="fn_275"></span>[223:\*](spa11.htm#fr_275.md) The patriarch Jacob.
 
-<span id="fn_276"></span>[223:†](spa11.htm#fr_276) Referring to the
+<span id="fn_276"></span>[223:†](spa11.htm#fr_276.md) Referring to the
 scanty garments of the women of India.
 
-<span id="fn_277"></span>[223:‡](spa11.htm#fr_277) Indian husbands
+<span id="fn_277"></span>[223:‡](spa11.htm#fr_277.md) Indian husbands
 chastise their wives with a shoe for very trivial matters.
 
-<span id="fn_278"></span>[223:§](spa11.htm#fr_278) In a contemptuous
+<span id="fn_278"></span>[223:§](spa11.htm#fr_278.md) In a contemptuous
 sense, as sold unto gold and infidelity.
 
-<span id="fn_279"></span>[224:\*](spa11.htm#fr_279) There is a good deal
+<span id="fn_279"></span>[224:\*](spa11.htm#fr_279.md) There is a good deal
 of foppery manifested in the East regarding the tail or termination of
 the turban, which hangs behind.
 
-<span id="fn_280"></span>[225:\*](spa11.htm#fr_280) The poet's name
+<span id="fn_280"></span>[225:\*](spa11.htm#fr_280.md) The poet's name
 signifies 'happy;' hence the play upon the word here, which would lose
 by translation.
 
-<span id="fn_281"></span>[226:\*](spa11.htm#fr_281) This would appear to
+<span id="fn_281"></span>[226:\*](spa11.htm#fr_281.md) This would appear to
 refer to the dark red tulip.
 
-<span id="fn_282"></span>[226:†](spa11.htm#fr_282) The hyacinth or
+<span id="fn_282"></span>[226:†](spa11.htm#fr_282.md) The hyacinth or
 spikenard is compared to the dark locks, and the lily or jasmine to the
 fairness of the face of the beloved one.
 
-<span id="fn_283"></span>[226:‡](spa11.htm#fr_283) See note at page
-[221](#page_221).
+<span id="fn_283"></span>[226:‡](spa11.htm#fr_283.md) See note at page
+[221](#page_221.md).
 
-<span id="fn_284"></span>[227:\*](spa11.htm#fr_284) An earthly paradise,
+<span id="fn_284"></span>[227:\*](spa11.htm#fr_284.md) An earthly paradise,
 a fabulous garden in Arabia.
 
-<span id="fn_285"></span>[227:†](spa11.htm#fr_285) See note at page
-[137](spa09.htm#page_137).
+<span id="fn_285"></span>[227:†](spa11.htm#fr_285.md) See note at page
+[137](spa09.htm#page_137.md).
 
-<span id="fn_286"></span>[228:\*](spa11.htm#fr_286) As before stated,
+<span id="fn_286"></span>[228:\*](spa11.htm#fr_286.md) As before stated,
 the name of the poet signifies 'happy;' hence, "where the heart has
 become happy," is the meaning above.
 
-<span id="fn_287"></span>[229:\*](spa11.htm#fr_287) "Balæām (Balaam),
+<span id="fn_287"></span>[229:\*](spa11.htm#fr_287) "Balæām (Balaam.md),
 son of Beor, who, being requested by his nation to curse Moses and the
 children of Israel, refused at first, saving, "How can I curse those
 whom the angels protect?" But afterwards he was prevailed upon by gifts;
@@ -4110,58 +4110,58 @@ and he had no sooner done what they wished, than he began to put out his
 tongue like a dog, and it hung down upon his breast."—Al Beidāwī,
 Jalāl-ud-dīn, Al Zamakh<u>sh</u>ārī.
 
-<span id="fn_288"></span>[230:\*](spa11.htm#fr_288) Musk here signifies
+<span id="fn_288"></span>[230:\*](spa11.htm#fr_288.md) Musk here signifies
 'youth,' when the hair is of the colour of musk; and camphor, 'old age,'
 when the hair turns silvery.
 
-<span id="fn_289"></span>[231:\*](spa11.htm#fr_289) Referring to the nib
+<span id="fn_289"></span>[231:\*](spa11.htm#fr_289.md) Referring to the nib
 of a pen.
 
-<span id="fn_290"></span>[234:\*](spa11.htm#fr_290) The faithless and
+<span id="fn_290"></span>[234:\*](spa11.htm#fr_290.md) The faithless and
 insincere.
 
-<span id="fn_291"></span>[235:\*](spa11.htm#fr_291) This poem appears to
+<span id="fn_291"></span>[235:\*](spa11.htm#fr_291.md) This poem appears to
 have reference to the coldness of the poet's confederates in the war
 with the Mu<u>gh</u>als, and to the trouble <u>Kh</u>u<u>sh</u>ḥāl had
 with his sons.
 
-<span id="fn_292"></span>[235:†](spa11.htm#fr_292) The name of the
+<span id="fn_292"></span>[235:†](spa11.htm#fr_292.md) The name of the
 ancestor of one of the great divisions of the Af<u>gh</u>āns, including
 some of the western tribes, and also the Yūsufzīs of the north-eastern
 parts of Af<u>gh</u>ānistān, who refused assistance to
 <u>Kh</u>u<u>sh</u>ḥāl and his confederates, in their wars with
 Aurangzeb.
 
-<span id="fn_293"></span>[235:‡](spa11.htm#fr_293) Dam<u>gh</u>ār is the
+<span id="fn_293"></span>[235:‡](spa11.htm#fr_293.md) Dam<u>gh</u>ār is the
 name of a small town in Suwāt.
 
-<span id="fn_294"></span>[239:\*](spa11.htm#fr_294) Ascetics and
+<span id="fn_294"></span>[239:\*](spa11.htm#fr_294.md) Ascetics and
 darwe<u>sh</u>es carry a club or staff.
 
-<span id="fn_295"></span>[240:\*](spa11.htm#fr_295) The Emperor
+<span id="fn_295"></span>[240:\*](spa11.htm#fr_295.md) The Emperor
 Aurangzeb, finding that <u>Kh</u>u<u>sh</u>ḥāl and his brother
 confederates could not be subdued with the sword, tried gold and
 diplomacy, to which the most of them succumbed. See page
-[144](spa10.htm#page_144).
+[144](spa10.htm#page_144.md).
 
-<span id="fn_296"></span>[241:\*](spa11.htm#fr_296) See
+<span id="fn_296"></span>[241:\*](spa11.htm#fr_296.md) See
 <u>Kh</u>u<u>sh</u>ḥāl, Poem I., 'An Ode to Spring,' stanza 17.
 
-<span id="fn_297"></span>[242:\*](spa11.htm#fr_297) Cypræa moneta.
+<span id="fn_297"></span>[242:\*](spa11.htm#fr_297.md) Cypræa moneta.
 
-<span id="fn_298"></span>[246:\*](spa11.htm#fr_298) Not always, at
+<span id="fn_298"></span>[246:\*](spa11.htm#fr_298.md) Not always, at
 least, as far as the tongues of most Englishwomen go.
 
-<span id="fn_299"></span>[247:\*](spa11.htm#fr_299) Ako<u>rr</u>aey is
+<span id="fn_299"></span>[247:\*](spa11.htm#fr_299.md) Ako<u>rr</u>aey is
 the name of <u>Kh</u>u<u>sh</u>ḥāl's great-grandfather, who conquered
 from the Wurakzī tribe, the country now held by the
 <u>Kh</u>a<u>tt</u>aks. There is a town also named after this chief,
 between A<u>tt</u>ak and Pe<u>sh</u>āwar.
 
-<span id="fn_300"></span>[247:†](spa11.htm#fr_300) See note at page
-[193](#page_193).
+<span id="fn_300"></span>[247:†](spa11.htm#fr_300.md) See note at page
+[193](#page_193.md).
 
-<span id="fn_301"></span>[247:‡](spa11.htm#fr_301) The high mountain
+<span id="fn_301"></span>[247:‡](spa11.htm#fr_301.md) The high mountain
 facing A<u>tt</u>ak, and a little lower down than the village of
 <u>Kh</u>airābād on the same side, which rises up directly from the
 Indus, is mount Ho<u>dd</u>aey, which gives its name to the whole range,
@@ -4170,7 +4170,7 @@ Pe<u>s’h</u>āwar. The Bārā river rises in Tī-rāh, which is beyond the
 <u>Kh</u>aibar Pass, and is inhabited by Af<u>gh</u>āns of the Afrīdī
 and Tī-rāh tribes.
 
-<span id="fn_302"></span>[247:§](spa11.htm#fr_302) The Nīl-āb, or
+<span id="fn_302"></span>[247:§](spa11.htm#fr_302.md) The Nīl-āb, or
 Blue-water, is one of the names of the Indus, which washes the base of
 Ho<u>dd</u>aey. A few miles further up is the Lan<u>dd</u>aey, in
 Pu<u>sh</u>to signifying the Less or Little, a name given to the river
@@ -4178,13 +4178,13 @@ of Kabūl, which joins the Indus a few miles above A<u>tt</u>ak, a town
 on the east bank of the Indus, on the high-road between India and
 Khurāsān.
 
-<span id="fn_303"></span>[248:\*](spa11.htm#fr_303) Kālah-pa<u>rr</u>nī
+<span id="fn_303"></span>[248:\*](spa11.htm#fr_303.md) Kālah-pa<u>rr</u>nī
 is the name of an extensive forest in the <u>Kh</u>a<u>tt</u>ak country,
 once famous for its game.
 
-<span id="fn_304"></span>[248:†](spa11.htm#fr_304) This poem was written
+<span id="fn_304"></span>[248:†](spa11.htm#fr_304.md) This poem was written
 during the poet's exile in India; and Sarā’e was his place of birth.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](spa12)
+[Next: Introduction](spa12.md)

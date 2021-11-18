@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo30)  [Next](aoo32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo30)  [Next](aoo32.md) 
 
 ------------------------------------------------------------------------
 
@@ -187,4 +187,4 @@ trusted--to the dwelling of Eumæus, the swineherd.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](aoo32)
+[Next: Chapter IX](aoo32.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio65)  [Next](dio67) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio65)  [Next](dio67.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -45,12 +45,12 @@ Martinus  
 St. Trophimus c. 46 Dionysius the Areopagite 68–70 St. Regulus   St.
 Felix 140 Gratius 160 Ambrosius   Anastinus   Ingenuus   Augustinus  
 Hieronymus   Savitius   Martianus <span
-id="fr_281"></span>[282](#fn_281)   St. Marin 314
+id="fr_281"></span>[282](#fn_281.md)   St. Marin 314
 
 <span id="iv.iv.i-p5"></span>Milan.
 
 1\. Anotolone, G. 51–64 2. Cajo, R. <span
-id="fr_282"></span>[283](#fn_282) 64–85 3. Castrinziano, M. 97–137 4.
+id="fr_282"></span>[283](#fn_282.md) 64–85 3. Castrinziano, M. 97–137 4.
 Calivero, G. 138–190 5. St. Mona, M. 192–250 6. St. Materno, M. 252–304
 7. St. Mirocle, M. 304–325 136 Bishops to 1898, St. Ambrose, 11th
 Bishop, 374–397 <span id="page_164">p. 164</span> <span
@@ -172,7 +172,7 @@ id="iv.iv.i-Page_166"></span>
 
 <span id="iv.iv.i-p48"></span>St. David, 1st Bishop of Menevia, was
 consecrated at Jerusalem, with two companions <span
-id="fr_283"></span>[284](#fn_283) , a.d. 519, and succeeded as
+id="fr_283"></span>[284](#fn_283.md) , a.d. 519, and succeeded as
 Metropolitan on the death of Dubritius, but his seat remained at St.
 David's.
 
@@ -209,19 +209,19 @@ Smith, author of "English Orders, whence obtained."
 
 ### Footnotes
 
-<span id="fn_281"></span>[163:282](dio66.htm#fr_281) <span
+<span id="fn_281"></span>[163:282](dio66.htm#fr_281.md) <span
 id="iv.iv.i-p4.40"></span>A.D. 254 Cyprian wrote to Pope Stephen urging
 him to depose Marcion, 15th or 18th Bishop from St. Trophimus. See
 "Monuments inédits" de M. Faillon, t. II. p. 375, and Darras, p. 14.
 
-<span id="fn_282"></span>[163:283](dio66.htm#fr_282) <span
+<span id="fn_282"></span>[163:283](dio66.htm#fr_282.md) <span
 id="iv.iv.i-p5.10"></span>Gaius Oppius was the Centurion of the
 Crucifixion, and father of Agothoppius, mentioned by Ignatius.
 
-<span id="fn_283"></span>[166:284](dio66.htm#fr_283) <span
+<span id="fn_283"></span>[166:284](dio66.htm#fr_283.md) <span
 id="iv.iv.i-p48.1"></span>These two were Teilo, consecrated to Llandaff,
 and Patern, consecrated to Llanbadarn.
 
 ------------------------------------------------------------------------
 
-[Next: Apostolic Traditions Generally in Abeyance.](dio67)
+[Next: Apostolic Traditions Generally in Abeyance.](dio67.md)

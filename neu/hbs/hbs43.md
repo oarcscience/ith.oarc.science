@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs42) [Next](hbs44)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs42) [Next](hbs44.md)
 
 ------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ Wailing like cuckoos. Mother and child fell dead upon the ground.
 
 ------------------------------------------------------------------------
 
-[Next](hbs44)
+[Next](hbs44.md)
 
  
 

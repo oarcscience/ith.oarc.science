@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai12)  [Next](kwai14) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai12)  [Next](kwai14.md) 
 
 ------------------------------------------------------------------------
 
@@ -303,4 +303,4 @@ services on behalf of the spirits of Aoyagi and of her parents.
 
 ------------------------------------------------------------------------
 
-[Next: Jiu-Roku-Zakura](kwai14)
+[Next: Jiu-Roku-Zakura](kwai14.md)

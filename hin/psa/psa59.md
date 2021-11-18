@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa58)  [Next](psa60) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa58)  [Next](psa60.md) 
 
 ------------------------------------------------------------------------
 
@@ -324,4 +324,4 @@ jewel to Sutbhama, and removed all the anxieties of her mind.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIX](psa60)
+[Next: Chapter LIX](psa60.md)

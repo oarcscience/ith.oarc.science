@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp05) 
-[Next](alp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp05.md) 
+[Next](alp07.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ And those whom Thou dost favour, stay!
 
 ------------------------------------------------------------------------
 
-[Next: A Trial of Orthodoxy](alp07)
+[Next: A Trial of Orthodoxy](alp07.md)

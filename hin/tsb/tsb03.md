@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tsb02)  [Next](tsb04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tsb02)  [Next](tsb04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425488269/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -306,4 +306,4 @@ October 10, 1930.
 
 ------------------------------------------------------------------------
 
-[Next: The Transcription](tsb04)
+[Next: The Transcription](tsb04.md)

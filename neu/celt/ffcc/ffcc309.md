@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc308)  [Next](ffcc310) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc308)  [Next](ffcc310.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -40,17 +40,17 @@ concerning the Fairy-Faith is so vast that we cannot do more than point
 to portions of it--especially such portions as are most Celtic in their
 nature. Perhaps most of us will think first of all about the ancient
 cults rendered to fountains, rivers, lakes, trees, and, as we have seen
-(pp. [399](ffcc308.htm#page_399) ff.), to stones. There can be no
+(pp. [399](ffcc308.htm#page_399) ff..md), to stones. There can be no
 reasonable doubt that these cults were very flourishing when
 Christianity came to Europe, for kings, popes, and church councils
 issued edict after edict condemning them. <span
-id="fr_553"></span>[1](#fn_507) The second Council of Aries, held about
+id="fr_553"></span>[1](#fn_507.md) The second Council of Aries, held about
 452, issued the following canon:--'If in the territory of a bishop,
 infidels light torches, or venerate trees, fountains, or stones, and he
 neglects to abolish this usage, he must know that he is guilty of
 sacrilege. If the director of the act itself, on being admonished,
 refuses to correct it, he is to be excluded from communion.' <span
-id="fr_554"></span>[1](#fn_507) The Council of Tours, in 567, thus
+id="fr_554"></span>[1](#fn_507.md) The Council of Tours, in 567, thus
 expressed itself:--'We implore the pastors to expel from the Church all
 those whom they may see performing before. certain stones things which
 have no relation with
@@ -58,13 +58,13 @@ have no relation with
 <span id="page_428">p. 428</span>
 
 the ceremonies of the Church, and also those who observe the customs of
-the Gentiles.' <span id="fr_555"></span>[1](#fn_508) King Canute in
+the Gentiles.' <span id="fr_555"></span>[1](#fn_508.md) King Canute in
 England and Charlemagne in Europe conducted a most vigorous campaign
 against all these pagan worships. This is Charlemagne's edict:--'With
 respect to trees, stones, and fountains, where certain foolish people
 light torches or practise other superstitions, we earnestly ordain that
 that most evil custom detestable to God, wherever it be found, should be
-removed and destroyed.' <span id="fr_556"></span>[2](#fn_509)
+removed and destroyed.' <span id="fr_556"></span>[2](#fn_509.md)
 
 The result of these edicts was a curious one. It was too much to expect
 the eradication of the old cults after their age-long existence, and so
@@ -105,12 +105,12 @@ in the Breton legends of Arthur and Merlin:--'For a long time the
 inhabitants of Concoret … in place of addressing themselves to God or to
 his Saints in their maladies, sought the remedy in the fountain of
 Baranton, either by praying to it, after the manner of the Gauls, or by
-drinking of its waters.' <span id="fr_557"></span>[1](#fn_510) In the
+drinking of its waters.' <span id="fr_557"></span>[1](#fn_510.md) In the
 month of August 1835, when there was an unusual drought in the land, all
 the inhabitants of Concoret formed in a great procession with banners
 and crucifix at their head, and with chants and ringing of church bells
 marched to this same fountain of Baranton and prayed for rain. <span
-id="fr_558"></span>[2](#fn_511) This curious bit of history was also
+id="fr_558"></span>[2](#fn_511.md) This curious bit of history was also
 reported to me in July 1909 by a peasant who lives near the fountain,
 and who heard it from his parents; and he added that the foot of the
 crucifix was planted in the water to aid the rain-making. We have here
@@ -119,8 +119,8 @@ an interesting combination of paganism and Christianity.
 Gregory of Tours says that the country-folk of Gévaudan rendered divine
 honours to a certain lake, and as offerings cast on its waters linen,
 wool, cheese, bees'-wax, bread, and other things; <span
-id="fr_559"></span>[3](#fn_512) and Mahé adds that gold was sometimes
-offered,  <span id="fr_560"></span>[3](#fn_512) quite after the manner
+id="fr_559"></span>[3](#fn_512.md) and Mahé adds that gold was sometimes
+offered,  <span id="fr_560"></span>[3](#fn_512.md) quite after the manner
 of the ancient Peruvians, who cast gold and silver of great value into
 the waters of sacred Lake Titicaca, high up in the Andes. To absorb into
 Christianity the worship paid to the lake near Gévaudan, the bishop
@@ -130,7 +130,7 @@ said:--'My children, there is nothing divine in
 <span id="page_430">p. 430</span>
 
 this lake: defile not your souls by these vain ceremonies; but recognize
-rather the true God.' <span id="fr_561"></span>[1](#fn_513) The
+rather the true God.' <span id="fr_561"></span>[1](#fn_513.md) The
 offerings to the lake-spirits then ceased, and were made instead on the
 altar of the church. As Canon Mahé so consistently sets forth, other
 similar means were used to absorb the pagan cults of sacred
@@ -144,18 +144,18 @@ his saints, in place of honouring the fountains themselves, as they had
 been accustomed to do. This is the reason why there are seen in the
 stonework of so many fountains, niches and little statues of saints who
 have given their names to these springs.' <span
-id="fr_562"></span>[2](#fn_514)
+id="fr_562"></span>[2](#fn_514.md)
 
 Procopius reports that the Franks, even after having accepted
 Christianity, remained attached to their ancient cults, sacrificing to
 the River Po women and children of the Goths, and casting the bodies
 into its waters to the spirits of the waters. <span
-id="fr_563"></span>[2](#fn_514) Well-worship in the Isle of Man, not yet
+id="fr_563"></span>[2](#fn_514.md) Well-worship in the Isle of Man, not yet
 quite extinct, was no doubt once very general. As A. W. Moore has shown,
 the sacred wells in the Isle of Man were visited and offerings made to
 them to secure immunity from witches and fairies, to cure maladies, to
 raise a wind, and for various kinds of divination. <span
-id="fr_564"></span>[3](#fn_515) And no doubt the offerings of rags on
+id="fr_564"></span>[3](#fn_515.md) And no doubt the offerings of rags on
 bushes over sacred wells, and the casting of pins, coins, buttons,
 pebbles, and other small objects into their waters, a common practice
 yet in Ireland and Wales, as in non-Celtic countries, are to be referred
@@ -173,12 +173,12 @@ damsels who abode in these watery places fed travellers with nourishing
 food until King Amangons wronged one of them by carrying off her golden
 cup. His men followed his evil example, so that the springs dried up,
 the grass withered, and the land became waste. <span
-id="fr_565"></span>[1](#fn_516)
+id="fr_565"></span>[1](#fn_516.md)
 
 According to Mr. Borlase, 'it was by passing under the waters of a well
 that the *Sídh,* that is, the abode of the spirits called *Sídhe,* in
 the tumulus or natural hill, as the case might be, was reached.' <span
-id="fr_566"></span>[2](#fn_517) And it is evident from this that the
+id="fr_566"></span>[2](#fn_517.md) And it is evident from this that the
 well spirits were even identified in Ireland with the Tuatha De Danann
 or Fairy-Folk. I am reminded of a walk I was privileged to take with Mr.
 William B. Yeats on Lady Gregory's estate at Coole Park, near Gort
@@ -216,20 +216,20 @@ every good thing in his kingdom? Tell us about him, how he is seen, how
 he is loved, how he is found? if he is in youth, or if he is in age? if
 he is ever-living; if he is beautiful? if many have fostered his son? if
 his daughters are dear and beautiful to the men of the world?"' <span
-id="fr_567"></span>[1](#fn_518)
+id="fr_567"></span>[1](#fn_518.md)
 
 And in another place it is recorded that 'Patrick went to the well of
 Findmag. Slán is its name. They told Patrick that the heathen honoured
-the well as if it were a god.'  <span id="fr_568"></span>[2](#fn_519)
+the well as if it were a god.'  <span id="fr_568"></span>[2](#fn_519.md)
 And of the same well it is said, 'that the magi, i. e. wizards or
 Druids, used to reverence the well Slán and "offer gifts to it as if it
-were a god"' <span id="fr_569"></span>[2](#fn_519) As Whitley Stokes
+were a god"' <span id="fr_569"></span>[2](#fn_519.md) As Whitley Stokes
 pointed out, this is the only passage connecting the Druids with
 well-worship; and it is very important, because it establishes the
 relation between the Druids as magicians and their control of spirits
-like fairies. <span id="fr_570"></span>[2](#fn_519) As shown here, and
+like fairies. <span id="fr_570"></span>[2](#fn_519.md) As shown here, and
 as seems evident in Columba's relation with Druids and exorcism in
-Adamnan's *Life of St. Columba*, <span id="fr_571"></span>[3](#fn_520)
+Adamnan's *Life of St. Columba*, <span id="fr_571"></span>[3](#fn_520.md)
 the early Celtic peoples undoubtedly drew many of their fairy-traditions
 from a memory of druidic rites of divination. Perhaps the most beautiful
 description of a holy well and a description illustrative of such
@@ -247,7 +247,7 @@ on the well in the same shower, which raises on the water a royal surge
 of purple. Then the (sacred\] salmon chew the fruit, and the juice of
 the nuts is apparent on their purple bellies. And seven streams of
 wisdom spring forth and turn there again.' <span
-id="fr_572"></span>[1](#fn_521)
+id="fr_572"></span>[1](#fn_521.md)
 
 To these cults of sacred waters numerous non-Celtic parallels could
 easily be offered, but they seem unnecessary with Celtic evidence so
@@ -263,7 +263,7 @@ supreme God, the principle of all things; but they rendered religious
 worship to the genii or secondary deities who, according to them, united
 themselves to different objects in nature and made them divine by such
 union. Among the objects were rivers, the sea, lakes and
-fountains.' <span id="fr_573"></span>[2](#fn_522)
+fountains.' <span id="fr_573"></span>[2](#fn_522.md)
 
 ### THE CULT OF SACRED TREES
 
@@ -275,7 +275,7 @@ and it is generally thought that most of the famous Druid schools were
 in the midst of sacred oak-groves or forests. Pliny has recorded that
 'the Druids, for so they call their magicians, have nothing which they
 hold more sacred than the mistletoe <span
-id="fr_574"></span>[3](#fn_523)
+id="fr_574"></span>[3](#fn_523.md)
 
 <span id="page_434">p. 434</span>
 
@@ -283,13 +283,13 @@ and the tree on which it grows, provided only it be an oak (*robur*).
 But apart from that, they select groves of oak, and they perform no
 sacred rite without leaves from that tree, so that the Druids may be
 regarded as even deriving-from it their name interpreted as Greek <span
-id="fr_575"></span>[1](#fn_524) (a disputed point among modern
+id="fr_575"></span>[1](#fn_524.md) (a disputed point among modern
 philologists). Likewise of the Druids, Maximus Tyrius states that the
 image of their chief god, considered by him to correspond to Zeus, was a
-lofty oak tree; <span id="fr_576"></span>[2](#fn_525) and Strabo says
+lofty oak tree; <span id="fr_576"></span>[2](#fn_525.md) and Strabo says
 that the principal place of assembly for the Galatians, a Celtic people
 of Asia Minor, was the Sacred Oak-grove. <span
-id="fr_577"></span>[3](#fn_526)
+id="fr_577"></span>[3](#fn_526.md)
 
 Just as the cult of fountains was absorbed by Christianity, so was the
 cult of trees. Concerning this, Canon Mahé writes:--'One sees sometimes,
@@ -308,18 +308,18 @@ is that famous chapel
 
 of Our Lady of the Oak, near the forge of Orthe, whose celebrity
 attracts daily, from five to six leagues about, a very great gathering
-of people."' <span id="fr_578"></span>[1](#fn_527)
+of people."' <span id="fr_578"></span>[1](#fn_527.md)
 
 Saint Martin, according to Canon Mahé, tried to destroy sacred pine-tree
 in the diocese of Tours by telling the people there was nothing divine
 in it. The people agreed to let it cut down on condition that the saint
 should receive its great trunk on his head as it fell; and the tree was
-not cut own. <span id="fr_579"></span>[1](#fn_527) Saint Germain caused
+not cut own. <span id="fr_579"></span>[1](#fn_527.md) Saint Germain caused
 a great scandal at Auxerre hanging from the limbs of a sacred tree the
 heads of wild animals which he had killed while hunting. <span
-id="fr_580"></span>[1](#fn_527) Saint Gregory the Great wrote to
+id="fr_580"></span>[1](#fn_527.md) Saint Gregory the Great wrote to
 Brunehaut exhorting him to abolish among his subjects the offering of
-animals' heads to certain trees.  <span id="fr_581"></span>[2](#fn_528)
+animals' heads to certain trees.  <span id="fr_581"></span>[2](#fn_528.md)
 
 In Ireland fairy trees are common yet; though throughout Celtdom sacred
 trees, naturally of short duration, are almost forgotten. In Brittany,
@@ -347,7 +347,7 @@ There was also, as we already know, more or less of direct worship
 offered to fairies like the Tuatha De Danann; and sacrifice was made to
 them even as now, when the Irish or Scotch peasant pours a libation of
 milk to the 'good people' or to the fairy queen who presides over the
-flocks. In *Fíacc's Hymn*  <span id="fr_582"></span>[1](#fn_529) it is
+flocks. In *Fíacc's Hymn*  <span id="fr_582"></span>[1](#fn_529.md) it is
 said, 'On Ireland's folk lay darkness: the tribes worshipped elves: They
 believed not the true godhead of the true Trinity.' And there is a
 reliable legend concerning Columbkille which shows that this old cult of
@@ -361,18 +361,18 @@ human victim should be buried alive under the foundations. And the lot
 fell on Oran, Columbkille's companion, who accordingly became a
 sacrifice to appease the evil spirit, fairies, or demons of the place
 where the building was to be raised. <span
-id="fr_583"></span>[2](#fn_530)
+id="fr_583"></span>[2](#fn_530.md)
 
 As an illustration of what the ancient practice of such sacrifice to
 place-spirits, or to gods, must have been like in Wales, we offer the
 following curious legend concerning the conception of Myrddin (Merlin),
 as told by our witness from Pontrhydfendigaid, Mr. John Jones (see [p.
-147](ffcc124.htm#page_147)):--'When building the Castle of Gwrtheyrn,
+147](ffcc124.htm#page_147).md):--'When building the Castle of Gwrtheyrn,
 near Carmarthen, as much as was built by day fell down at night. So a
 council of the *Dynion Hysbys* or "Wise Men" was called, and they
 decided that the blood of a fatherless boy had to be used in mixing the
 mortar if the wall was to stand. Search was thereupon made for a
-fatherless boy (cf. [p. 351](ffcc260.htm#page_351)), and throughout all
+fatherless boy (cf. [p. 351](ffcc260.htm#page_351).md), and throughout all
 the kingdom no such boy could be found. But one day two boys were
 quarrelling, and one of them in defying
 
@@ -407,7 +407,7 @@ became the great magician of Arthur's court.
 There are two hills in the Highlands of Aberdeenshire where travellers
 had to propitiate the banshee by placing barley-meal cakes near a well
 on each hill; and if the traveller neglected the offering, death or some
-dire calamity was sure to follow. <span id="fr_584"></span>[1](#fn_531)
+dire calamity was sure to follow. <span id="fr_584"></span>[1](#fn_531.md)
 It is quite certain that the banshee is almost always thought of as the
 spirit of a dead ancestor presiding
 
@@ -421,7 +421,7 @@ ancestral worship must be held to play a very important part in the
 complex Fairy-Faith as a whole. A few non-Celtic parallels determine
 this at once. Thus, exactly as to fairies here, milk is offered to the
 souls of saints in the Panjab, India, as a means of propitiating
-them. <span id="fr_585"></span>[1](#fn_532) M. A. Lefèvre shows that the
+them. <span id="fr_585"></span>[1](#fn_532.md) M. A. Lefèvre shows that the
 Roman Lares, so frequently compared to house-haunting fairies, are in
 reality quite like the Gaelic banshee; that originally they were nothing
 more than the unattached souls of the dead, akin to Manes; that time and
@@ -429,11 +429,11 @@ custom made distinctions between them; that in the common language Lares
 and Manes had synonymous dwellings; and that, finally, the idea of death
 was little by little divorced from the worship of the Lares, so that
 they became guardians of the family and protectors of life. <span
-id="fr_586"></span>[2](#fn_533) On all the tombs of their dead the
+id="fr_586"></span>[2](#fn_533.md) On all the tombs of their dead the
 Romans inscribed these names: *Manes*, *inferi*, *silentes*, <span
-id="fr_587"></span>[3](#fn_534) the last of which, meaning *the silent
+id="fr_587"></span>[3](#fn_534.md) the last of which, meaning *the silent
 ones*, is equivalent to the term 'People of Peace' given to the
-fairy-folk of Scotland. <span id="fr_588"></span>[4](#fn_535) Nor were
+fairy-folk of Scotland. <span id="fr_588"></span>[4](#fn_535.md) Nor were
 the Roman Lares always thought of as inhabiting dwellings. Many were
 supposed to live in the fields, in the streets of cities, at
 cross-roads, quite like certain orders of fairies and demons; and in
@@ -466,7 +466,7 @@ Toussaint*, are regarded among the Celtic peoples now; and the history
 of *La Toussaint* seems to indicate that Christianity, as in the case of
 the cult of trees and fountains, absorbed certain Celtic cults of the
 dead which centred around the pagan *Samain* feast of the dead, and even
-adopted the date of *Samain* (see [p. 453](ffcc310.htm#page_453)).
+adopted the date of *Samain* (see [p. 453](ffcc310.htm#page_453).md).
 
 Among the ancient Egyptians, so much like the ancient Celts in their
 innate spirituality and clear conceptions of the invisible world, we
@@ -477,7 +477,7 @@ yearly movements of the Great God of Light and Life cannot be divorced
 from the ancient doctrines of life and death. To the pre-Christian
 Celts, the First of November, or the Festival of *Samain*, which marked
 the end of summer and the commencement of winter, was symbolical of
-death. <span id="fr_589"></span>[1](#fn_536) *Samain* thus corresponds
+death. <span id="fr_589"></span>[1](#fn_536.md) *Samain* thus corresponds
 with the Egyptian fête of the dead, for the seventeenth *Athyr* of the
 year marks the day on which Sitou (the god of darkness) killed in the
 midst of a banquet his brother Osiris (the god of light, the sun), and
@@ -492,13 +492,13 @@ inhabitants of the Realms of the Dead. On this anniversary of the death
 of Osiris, an Egyptian would undertake no new enterprise: should he go
 down to the Nile, a crocodile would attack him as the crocodile sent by
 Sitou had attacked Osiris, and even as the Darkness was attacking the
-Light to devour it; <span id="fr_590"></span>[1](#fn_537) should he set
+Light to devour it; <span id="fr_590"></span>[1](#fn_537.md) should he set
 out on a journey, he would part from his home and family never to
 return. His only course was to remain locked in his house, and there
 await in fear and inaction the passing of the night, until Osiris,
 returning from death, and reborn to a new existence, should rise
 triumphant over the forces of Darkness and Evil. <span
-id="fr_591"></span>[2](#fn_538) It is clear that this last part of the
+id="fr_591"></span>[2](#fn_538.md) It is clear that this last part of the
 Egyptian belief is quite like the Celtic conception of *Samain* as we
 have seen Ailill and Medb celebrating that festival in their palace at
 Cruachan.
@@ -509,7 +509,7 @@ entertained, for example as in Brittany, and the beautiful festivals
 formerly held in the Sînto temples of Japan. Thus at Nikko thousands of
 lanterns were lighted, 'each one representing the spirit of an
 ancestor,' and there was masquerading and revelry for the entertainment
-of the visiting spirits. <span id="fr_592"></span>[3](#fn_539) It shows
+of the visiting spirits. <span id="fr_592"></span>[3](#fn_539.md) It shows
 how much religions are alike.
 
 Each year the Roman peoples dedicated two days (February 21-2*)* to the
@@ -528,7 +528,7 @@ family reunions and feasting. Of it Ovid has said (*Fasti*, ii. 619),
 \[among us\], it is pleasant to turn towards the living; after the loss
 of so many, it is pleasant to behold those who remain of our blood and
 to reckon up the generations of our descendants.' And the Greeks also
-had their feasts for the dead. <span id="fr_593"></span>[1](#fn_540)
+had their feasts for the dead. <span id="fr_593"></span>[1](#fn_540.md)
 
 ### CONCLUSION
 
@@ -552,57 +552,57 @@ Cuchulainn, and Finn, now stirring the intellectual world.
 
 ### Footnotes
 
-<span id="fn_507"></span>[427:1](ffcc309.htm#fr_554) Cf. Bruns, *Canones
+<span id="fn_507"></span>[427:1](ffcc309.htm#fr_554.md) Cf. Bruns, *Canones
 apostolurum et conciliorum saeculorum*, ii. 133.
 
-<span id="fn_508"></span>[428:1](ffcc309.htm#fr_555) Cf. F. Maassen,
+<span id="fn_508"></span>[428:1](ffcc309.htm#fr_555.md) Cf. F. Maassen,
 *Concilia aevi merovingici*, p. 133.
 
-<span id="fn_509"></span>[428:2](ffcc309.htm#fr_556) Cf. Boretius,
+<span id="fn_509"></span>[428:2](ffcc309.htm#fr_556.md) Cf. Boretius,
 *Capitularia region Francorum*, i. 59 for each of the above references
 cf. Jubainville, *Le culte des menhirs dans le monde celtique*, in
 *Rev*. *Celt.*, xxvii. 317.
 
-<span id="fn_510"></span>[429:1](ffcc309.htm#fr_557) Cf. Mahé, *Essai*,
+<span id="fn_510"></span>[429:1](ffcc309.htm#fr_557.md) Cf. Mahé, *Essai*,
 p. 427.
 
-<span id="fn_511"></span>[429:2](ffcc309.htm#fr_558) See Villemarqué
+<span id="fn_511"></span>[429:2](ffcc309.htm#fr_558.md) See Villemarqué
 *sur Bretagne*.
 
-<span id="fn_512"></span>[429:3](ffcc309.htm#fr_560) Cf. Mahé, *Essai*,
+<span id="fn_512"></span>[429:3](ffcc309.htm#fr_560.md) Cf. Mahé, *Essai*,
 p. 326; quoted from *De Glor. Conf.*, c. 2.
 
-<span id="fn_513"></span>[430:1](ffcc309.htm#fr_561) Cf. Mahé, *Essai*,
+<span id="fn_513"></span>[430:1](ffcc309.htm#fr_561.md) Cf. Mahé, *Essai*,
 p. 326; quoted from *De Glor. Conf.*, c. 2.
 
-<span id="fn_514"></span>[430:2](ffcc309.htm#fr_563) Cf. Mahé, *Essai*,
+<span id="fn_514"></span>[430:2](ffcc309.htm#fr_563.md) Cf. Mahé, *Essai*,
 p. 326; quoted from *Goth.*, lib. ii.
 
-<span id="fn_515"></span>[430:3](ffcc309.htm#fr_564) A. W. Moore, in
+<span id="fn_515"></span>[430:3](ffcc309.htm#fr_564.md) A. W. Moore, in
 *Folk-Lore*, v. 212-29.
 
-<span id="fn_516"></span>[431:1](ffcc309.htm#fr_565) Cf. Rhy^s,
+<span id="fn_516"></span>[431:1](ffcc309.htm#fr_565.md) Cf. Rhy^s,
 *Arthurian Legend*, p. 247.
 
-<span id="fn_517"></span>[431:2](ffcc309.htm#fr_566) Borlase, *Dolmens
+<span id="fn_517"></span>[431:2](ffcc309.htm#fr_566.md) Borlase, *Dolmens
 of Ireland*, iii. 729.
 
-<span id="fn_518"></span>[432:1](ffcc309.htm#fr_567) Stokes, *Tripartite
+<span id="fn_518"></span>[432:1](ffcc309.htm#fr_567.md) Stokes, *Tripartite
 Life of Patrick,* pp. 99-101.
 
-<span id="fn_519"></span>[432:2](ffcc309.htm#fr_570) Ib., text, pp. 123,
+<span id="fn_519"></span>[432:2](ffcc309.htm#fr_570.md) Ib., text, pp. 123,
 323, and Intro., p. 159.
 
-<span id="fn_520"></span>[432:3](ffcc309.htm#fr_571) Book II, 69-70; see
-our study, [p. 267](ffcc130.htm#page_267).
+<span id="fn_520"></span>[432:3](ffcc309.htm#fr_571.md) Book II, 69-70; see
+our study, [p. 267](ffcc130.htm#page_267.md).
 
-<span id="fn_521"></span>[433:1](ffcc309.htm#fr_572) Rennes
+<span id="fn_521"></span>[433:1](ffcc309.htm#fr_572.md) Rennes
 *Dinnshenchas*, Stokes's trans. in *Rev. Celt.*, xv. 457.
 
-<span id="fn_522"></span>[433:2](ffcc309.htm#fr_573) Cf. Mahé, *Essai*,
+<span id="fn_522"></span>[433:2](ffcc309.htm#fr_573.md) Cf. Mahé, *Essai*,
 p. 323.
 
-<span id="fn_523"></span>[433:3](ffcc309.htm#fr_574) The Celts may have
+<span id="fn_523"></span>[433:3](ffcc309.htm#fr_574.md) The Celts may have
 viewed the mistletoe on the sacred oak as the seat <span
 id="page_434">p. 434</span> of the tree's life, because in the winter
 sleep of the leafless oak the mistletoe still maintains its own foliage
@@ -613,13 +613,13 @@ arch-druid clad in pure white robes, amid great religious solemnity, and
 became a vicarious sacrifice or atonement for the worshippers of the
 tree god. (Cf. Frazer, *G. B.*,<sup>2</sup> iii 346 ff.)
 
-<span id="fn_524"></span>[434:1](ffcc309.htm#fr_575) Pliny, *Nat.
+<span id="fn_524"></span>[434:1](ffcc309.htm#fr_575.md) Pliny, *Nat.
 Hist.*, xvi. 95; cf. Rhy^s, *Hib. Lect.*, p. 218.
 
-<span id="fn_525"></span>[434:2](ffcc309.htm#fr_576) *Dissert.*, viii;
+<span id="fn_525"></span>[434:2](ffcc309.htm#fr_576.md) *Dissert.*, viii;
 cf. Rhy^s, ib., p. 219.
 
-<span id="fn_526"></span>[434:3](ffcc309.htm#fr_577) Meineke's ed., xii.
+<span id="fn_526"></span>[434:3](ffcc309.htm#fr_577.md) Meineke's ed., xii.
 5, 1; cf. Rhy^s, ib., p. 219. The oak-tree is pre-eminently the holy
 tree of Europe. Not only Celts, but Slays, worshipped amid its groves.
 To the Germans it was their chief god; the ancient Italians honoured it
@@ -628,38 +628,38 @@ Rome seems to have been a natural oak-tree. So at Dodona, Zeus was
 worshipped as immanent in a sacred oak. Cf. Fraser, *G. B.*<sup>2</sup>
 iii. 346 ff.
 
-<span id="fn_527"></span>[435:1](ffcc309.htm#fr_580) Cf. Mahé, *Essai*,
+<span id="fn_527"></span>[435:1](ffcc309.htm#fr_580.md) Cf. Mahé, *Essai*,
 pp. 333-4; quotation from *Hist. du Maine*, i. 17.
 
-<span id="fn_528"></span>[435:2](ffcc309.htm#fr_581) Cf. Mahé, *Essai*,
+<span id="fn_528"></span>[435:2](ffcc309.htm#fr_581.md) Cf. Mahé, *Essai*,
 p. 334; quoted from *Lib.* VII, *indict.* i, *epist.* 5.
 
-<span id="fn_529"></span>[436:1](ffcc309.htm#fr_582) Stokes, *Tripartite
+<span id="fn_529"></span>[436:1](ffcc309.htm#fr_582.md) Stokes, *Tripartite
 Life*, p. 409.
 
-<span id="fn_530"></span>[436:2](ffcc309.htm#fr_583) Cf. Wood-Martin,
+<span id="fn_530"></span>[436:2](ffcc309.htm#fr_583.md) Cf. Wood-Martin,
 *Traces of the Older Faiths in Ireland*, i. 305.
 
-<span id="fn_531"></span>[437:1](ffcc309.htm#fr_584) W. Gregor, *Notes
+<span id="fn_531"></span>[437:1](ffcc309.htm#fr_584.md) W. Gregor, *Notes
 on Beltene Cakes*, in *Folk-Lore*, vi. 5.
 
-<span id="fn_532"></span>[438:1](ffcc309.htm#fr_585) Temple, *Legends of
+<span id="fn_532"></span>[438:1](ffcc309.htm#fr_585.md) Temple, *Legends of
 the Panjab, in Folk-Lore*, x. 406.
 
-<span id="fn_533"></span>[438:2](ffcc309.htm#fr_586) Lefèvre, *Le Culte
+<span id="fn_533"></span>[438:2](ffcc309.htm#fr_586.md) Lefèvre, *Le Culte
 des Morts chez les Latins*, in *Rev. Trad. Pop.*, ix. 195-209.
 
-<span id="fn_534"></span>[438:3](ffcc309.htm#fr_587) See *Folk-Lore*,
+<span id="fn_534"></span>[438:3](ffcc309.htm#fr_587.md) See *Folk-Lore*,
 vi. 192
 
-<span id="fn_535"></span>[438:4](ffcc309.htm#fr_588) The term 'People of
+<span id="fn_535"></span>[438:4](ffcc309.htm#fr_588.md) The term 'People of
 Peace' seems, however, to have originated from confounding *síd*, 'fairy
 abode,' and *síd*, 'peace.'
 
-<span id="fn_536"></span>[439:1](ffcc309.htm#fr_589) Cf. *Le Cycle Myth.
+<span id="fn_536"></span>[439:1](ffcc309.htm#fr_589.md) Cf. *Le Cycle Myth.
 Irl*., p. 102.
 
-<span id="fn_537"></span>[440:1](ffcc309.htm#fr_590) The crocodile as
+<span id="fn_537"></span>[440:1](ffcc309.htm#fr_590.md) The crocodile as
 the mystic symbol of Sitou provides one key to unlock the mysteries of
 what eminent Egyptologists have erroneously called animal worship,
 erroneously because they have interpreted literally what can only be
@@ -674,15 +674,15 @@ the emblem of purity and light, while the powers of the bull represent
 the masculinity of the sun, which impregnates all nature, always thought
 of as feminine, with life germs.
 
-<span id="fn_538"></span>[440:2](ffcc309.htm#fr_591) Cf. Maspero, op.
+<span id="fn_538"></span>[440:2](ffcc309.htm#fr_591.md) Cf. Maspero, op.
 cit., Intro., p. 49.
 
-<span id="fn_539"></span>[440:3](ffcc309.htm#fr_592) Cf. Borlase,
+<span id="fn_539"></span>[440:3](ffcc309.htm#fr_592.md) Cf. Borlase,
 *Dolmens of Ireland*, iii. 854.
 
-<span id="fn_540"></span>[441:1](ffcc309.htm#fr_593) Cf. Lefèvre, *Rev.
+<span id="fn_540"></span>[441:1](ffcc309.htm#fr_593.md) Cf. Lefèvre, *Rev.
 Trad. Pop.*, ix. 195-209.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Testimony of Christianity](ffcc310)
+[Next: Chapter X. The Testimony of Christianity](ffcc310.md)

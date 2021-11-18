@@ -1,8 +1,8 @@
-[Previous: Enos](book03)
+[Previous: Enos](book03.md)
 
-[Next: Omni](book05)
+[Next: Omni](book05.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Omni](book05)
+[Next: Omni](book05.md)

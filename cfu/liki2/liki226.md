@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki225)  [Next](liki227) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki225)  [Next](liki227.md) 
 
 ------------------------------------------------------------------------
 
@@ -170,6 +170,6 @@ such was the virtue of king Thâi.'
 
 ------------------------------------------------------------------------
 
-[Next: XXVII. Fang Kî or Record of the Dykes](liki227)
+[Next: XXVII. Fang Kî or Record of the Dykes](liki227.md)
 
   

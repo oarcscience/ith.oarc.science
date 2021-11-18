@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain08)  [Next](ain10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain08)  [Next](ain10.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,7 +184,7 @@ The skin is often of a very beautiful rich red-bronze tint, or perhaps
 more like old mahogany.
 
 Except the tattooing both sexes are remarkable for their almost entire
-[absence](errata.htm#7) of any marked adornment or ornament of person.
+[absence](errata.htm#7.md) of any marked adornment or ornament of person.
 Even a finger-ring, or a ribbon on the hair, is not common, and the
 profuse bead-work and embroidery of the other tribes is never seen.
 
@@ -387,4 +387,4 @@ The accent is generally on the first syllable.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of Ah-ahn-he-eat-toe-pahk Mahkai](ain10)
+[Next: The Story Of Ah-ahn-he-eat-toe-pahk Mahkai](ain10.md)

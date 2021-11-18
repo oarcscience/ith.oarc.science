@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp08)  [Next](wmp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp08)  [Next](wmp10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -172,7 +172,7 @@ me by one of my women informants--a Christian convert--as a proof of the
 advantage of monogamy over polygamy. In all save names, it bears a
 striking resemblance to a tale recounted by Mr. Elphinstone Dayrell in
 his collection of "Ikom Folk Stories." <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 <span id="page_101">p. 101</span>
 
@@ -266,7 +266,7 @@ forehead, while Ekpenyong
 <span id="page_104">p. 104</span>
 
 sacrificed white fowls and eggs that she might not suffer greatly when
-her child should come. <span id="fr_21"></span>[1](#fn_21)
+her child should come. <span id="fr_21"></span>[1](#fn_21.md)
 
 "On the birth of the boy the chief gave a 'play' for all the young men
 and women of his town, that they also might rejoice in his good fortune.
@@ -327,7 +327,7 @@ latter had been preferred before her, and
 also because so many children had been born to this woman, while she
 herself remained barren. They therefore consulted together and made a
 plan-------." But that is another story. <span
-id="fr_22"></span>[1](#fn_22)
+id="fr_22"></span>[1](#fn_22.md)
 
 In the foregoing story both Ekpenyong and Adiaha were bidden to go down
 to the water and bathe so that their bodies might be laved from head to
@@ -496,20 +496,20 @@ should wear ornaments made from young palm leaves.
 
 ### Footnotes
 
-<span id="fn_20"></span>[100:1](wmp09.htm#fr_20) Second Series, No. 12.
+<span id="fn_20"></span>[100:1](wmp09.htm#fr_20.md) Second Series, No. 12.
 
-<span id="fn_21"></span>[104:1](wmp09.htm#fr_21) A similar ceremony is
+<span id="fn_21"></span>[104:1](wmp09.htm#fr_21.md) A similar ceremony is
 carried out by Efik women in a holy water near Creek Town, which is
 thought to be sacred to a juju very powerful for the protection of women
 in childbirth.
 
-<span id="fn_22"></span>[106:1](wmp09.htm#fr_22) See [p.
-168](wmp13.htm#page_168).
+<span id="fn_22"></span>[106:1](wmp09.htm#fr_22.md) See [p.
+168](wmp13.htm#page_168.md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8: Domestic Life](wmp10)
+[Next: Chapter 8: Domestic Life](wmp10.md)
 
 </div>

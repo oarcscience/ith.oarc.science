@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ams04)  [Next](ams06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ams04)  [Next](ams06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP30M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Miracle in Stone: The Great Pyramid*, by Joesph A. Seiss, \[1877\],
 at Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ By their as well as our forefathers taught.
 
 #### THE GREAT PYRAMID OF EGYPT.
 
-<span id="img_01300"></span> ![Lecture First](img/01300.jpg)
+<span id="img_01300"></span> ![Lecture First](img/01300.jpg.md)
 
 ### GENERAL FACTS AND SCIENTIFIC FEATURES.
 
@@ -52,7 +52,7 @@ By their as well as our forefathers taught.
 
 |                     |
 |---------------------|
-| ![O](img/01301.jpg) |
+| ![O](img/01301.jpg.md) |
 
 NE of the ablest of England's Egyptological writers has said that Egypt
 is the anomaly of the earth's present surface. The very adaptations and
@@ -251,7 +251,7 @@ ancient. Traditional accounts of its erection he gathered through an
 interpreter from an Egyptian priest, and these he has recorded with much
 particularity. His own appreciation of the structure, and of the
 causeway over which the materials were conveyed, was that of wonder and
-admiration. <span id="fr_0"></span>[\*](#fn_0)
+admiration. <span id="fr_0"></span>[\*](#fn_0.md)
 
 Homer does not seem to make any allusion to it, perhaps for the reason
 that it had no connection with mythology, or with any of his heroes.
@@ -266,7 +266,7 @@ Artemedorus, Alexander,
 
 <span class="contnote">\[paragraph continues\]</span> Polyhistor,
 Butorides, Autisthenes, Demetrius, Demoteles, and Apion." <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 But though the Great Pyramid has been standing in its place for 4000
 years, it is only within a very recent period that there has been any
@@ -337,7 +337,7 @@ Then they clambered over a three-foot step; then bowed their heads
 beneath a low doorway, bounded on all sides with awful blocks of
 frowning red granite; and then leaped without further hindrance into the
 Grand Chamber, the first to enter since the Great Pyramid was
-built. <span id="fr_2"></span>[\*](#fn_2)
+built. <span id="fr_2"></span>[\*](#fn_2.md)
 
 <span id="page_26">p. 26</span>
 
@@ -372,7 +372,7 @@ overcome their superstitious fears. Some of their marvellous tales of
 small miracles and vulgar wonders have been put on record. But apart
 from the mere fact of the forcible entrance by Al Mamoun, it is agreed
 that scarcely a shred of their testimony is at all credible. <span
-id="fr_3"></span>[\*](#fn_3)
+id="fr_3"></span>[\*](#fn_3.md)
 
 <span id="page_28">p. 28</span>
 
@@ -384,7 +384,7 @@ the middle ages, who spent thirty-three years in wanderings through the
 East, visited Egypt and the Pyramids about A.D. 1350, and has left us a
 theory concerning them, but confesses that he was afraid to enter them,
 because they were reputed to be full of serpents! <span
-id="fr_4"></span>[\*](#fn_4)
+id="fr_4"></span>[\*](#fn_4.md)
 
 The earliest writer of modern times from whom we have any scientific
 data with regard to the Great Pyramid is Mr. John Greaves, Savilian
@@ -398,7 +398,7 @@ edifices, and in 1646 published his *Pyramidographia*, giving the
 results of his laborious observations and measurements, which are of
 particular worth in obtaining an accurate knowledge of this subject. But
 he was soon followed by other explorers, French, English, Dutch,
-Germans, and Italians. <span id="fr_5"></span>[\*](#fn_5)
+Germans, and Italians. <span id="fr_5"></span>[\*](#fn_5.md)
 
 Special additions were made to the stock of Pyramid information by
 Nathaniel Davison, British Consul at Algiers (1763), who resided three
@@ -406,7 +406,7 @@ years in Egypt, frequently visited the Great Pyramid, discovered the
 first of those chambers of construction above the so-called King's
 Chamber, drew a profile of the original casing-stones, and made the
 first diagram of the supposed appearance of this pillar when it stood
-complete. <span id="fr_6"></span>[†](#fn_6)
+complete. <span id="fr_6"></span>[†](#fn_6.md)
 
 <span id="page_30">p. 30</span>
 
@@ -419,7 +419,7 @@ rock, meant to serve as sockets for the original corner-stones of the
 foundation. Their observations and mostly very accurate measurements,
 with cuts, engravings, and descriptions of the Great Pyramid, were
 subsequently published, in large and elegant form. <span
-id="fr_7"></span>[\*](#fn_7)
+id="fr_7"></span>[\*](#fn_7.md)
 
 Very splendid contributions to our knowledge of the subject were made by
 Colonel (afterwards General) Howard Vyse in his three large royal octavo
@@ -783,7 +783,7 @@ the ancient Coptic, *pyr* means *division*, the same as *peres* in
 Daniel's interpretation of the handwriting on the wall; and met means
 ten. Chevalier Bunsen, without thought of combining them for the
 derivation of the word *pyramid*, gives these words separately and
-affixes to them these significations. <span id="fr_8"></span>[\*](#fn_8)
+affixes to them these significations. <span id="fr_8"></span>[\*](#fn_8.md)
 And putting them together—*pyr-met*—we have the name given to this
 structure. Arid that name, in the language of the ancient Egyptians,
 means *the division of ten*.
@@ -833,7 +833,7 @@ which the mercury rises from the freezing to the boiling-point.
 particularly in its sunward portions and tendencies. Its practical
 shaping is nine to ten. For every ten feet that its corners retreat
 diagonally inwards in the process of building they rise upward or
-sunward nine feet. <span id="fr_9"></span>[\*](#fn_9) At high noon the
+sunward nine feet. <span id="fr_9"></span>[\*](#fn_9.md) At high noon the
 sun shines
 
 <span id="page_49">p. 49</span>
@@ -894,7 +894,7 @@ great building, the projection of whose shape and features, without and
 within, they still show to every one who wishes to examine them. By them
 it is proven that the whole structure in its angles and mathematical
 proportions was contemplated and designed from the start. <span
-id="fr_10"></span>[\*](#fn_10) Besides, the subterranean
+id="fr_10"></span>[\*](#fn_10.md) Besides, the subterranean
 
 <span id="page_52">p. 52</span>
 
@@ -941,7 +941,7 @@ our inches as the length of either of the Great Pyramid's
 
 four sides, that is, a fraction over seven hundred and sixty-one and a
 half feet, or nearly one-sixth of a mile. <span
-id="fr_11"></span>[\*](#fn_11)
+id="fr_11"></span>[\*](#fn_11.md)
 
 With this measure for the base of the sides, and the angle of 51° 51´
 14″ for their slope, the lines intersect in a point of perpendicular
@@ -977,7 +977,7 @@ thousand one hundred and forty of our inches long, and
 slope upward to a point originally five thousand eight hundred and
 twenty of the same inches in perpendicular height above the line of the
 pavement below. This gives us the vastest and highest stone building
-ever erected by human hands. <span id="fr_12"></span>[\*](#fn_12)
+ever erected by human hands. <span id="fr_12"></span>[\*](#fn_12.md)
 
 Osburn says, "its long shadow darkens the fields of Gizeh as the day
 declines," and that "when the spectator can obtain a distinct conception
@@ -1084,7 +1084,7 @@ and
 <span id="page_62">p. 62</span>
 
 by which He directed all the sacred constructions and their
-appurtenances to be formed. <span id="fr_13"></span>[\*](#fn_13)
+appurtenances to be formed. <span id="fr_13"></span>[\*](#fn_13.md)
 
 And these sublime earth commensurating standards of length are precisely
 the ones set forth in the Great Pyramid. Whether the practical working
@@ -1125,7 +1125,7 @@ history, as also in the diagonals of the pyramid's base taken as a
 measure of the precessional cycle. It is likewise specially exhibited in
 connection with the cubit in the singular boss of the suspended "granite
 leaf" in the anteroom to the King's Chamber. <span
-id="fr_14"></span>[\*](#fn_14) Besides, when multiplied by
+id="fr_14"></span>[\*](#fn_14.md) Besides, when multiplied by
 10<sup>7+4</sup> it serves to tell in round decimals the distance
 through space which the earth travels in each complete revolution on its
 axis, that is 100,000,000,000 inches.
@@ -1165,7 +1165,7 @@ the problem. The best experiments
 make it between 5.316 and 6.565 times the weight of water at the medium
 temperature of 68° Fahrenheit. The Great Pyramid makes it 5.70, which is
 almost exactly the mean of the best five experiments ever made. <span
-id="fr_15"></span>[\*](#fn_15)
+id="fr_15"></span>[\*](#fn_15.md)
 
 A further memorial of the same is furnished in the Coffer of the King's
 Chamber, in whose structure the same it proportions of the pyramid
@@ -1319,7 +1319,7 @@ would then have the high consciousness of possessing a system of
 metrology the most ancient and the most self-consistent in the world,
 and one in most profound accord with nature as God made it, if not
 communicated by the great God of nature by direct inspiration from His
-eternal wisdom. <span id="fr_16"></span>[\*](#fn_16)
+eternal wisdom. <span id="fr_16"></span>[\*](#fn_16.md)
 
 <span id="page_74">p. 74</span>
 
@@ -1498,7 +1498,7 @@ Pyramid's base, taken
 <span id="page_82">p. 82</span>
 
 together, measure just as many inches as this cycle has years. <span
-id="fr_17"></span>[\*](#fn_17)
+id="fr_17"></span>[\*](#fn_17.md)
 
 It has only been since the times of Tycho Brahe that astronomers began
 to have any assurance in determining the length of this period. The
@@ -1566,7 +1566,7 @@ up the entrance passage 628 inches more (1542 + 628 making 2170, the
 astronomical date of the pyramid's building), at the precise point we
 find a distinct and beautifully cut line ruled into the stone sides of
 the passage from top to bottom, put there by the builders of the
-edifice. <span id="fr_18"></span>[\*](#fn_18)
+edifice. <span id="fr_18"></span>[\*](#fn_18.md)
 
 And that these lines were meant to mark the time of the Great Pyramid's
 erection, the indication is distinctly given. The joinings of the stones
@@ -1904,13 +1904,13 @@ and consummation.
 
 ### Footnotes
 
-<span id="fn_0"></span>[21:\*](ams05.htm#fr_0) See Rawlinson's
+<span id="fn_0"></span>[21:\*](ams05.htm#fr_0.md) See Rawlinson's
 Herodotus, Book II, chap. 124, vol. 2, pp. 169-176.
 
-<span id="fn_1"></span>[22:\*](ams05.htm#fr_1) Nat. Hist., tom. 36, sec.
+<span id="fn_1"></span>[22:\*](ams05.htm#fr_1.md) Nat. Hist., tom. 36, sec.
 16.
 
-<span id="fn_2"></span>[25:\*](ams05.htm#fr_2) It is barely possible
+<span id="fn_2"></span>[25:\*](ams05.htm#fr_2.md) It is barely possible
 that there was once a forced entrance into the upper parts of the Great
 Pyramid, long before the Mohammedan times. At the beginning of the Grand
 Gallery there is a missing ramp-stone, which once covered the mouth of
@@ -1937,7 +1937,7 @@ intentionally so left by the <span id="page_26">p. 26</span> builders
 themselves, and that no one after them had entered the upper parts of
 the Great Pyramid prior to Al Mamoun's hordes.
 
-<span id="fn_3"></span>[27:\*](ams05.htm#fr_3) The principal Arab
+<span id="fn_3"></span>[27:\*](ams05.htm#fr_3.md) The principal Arab
 writers who give accounts of the Pyramids are Abou Ma Sher (died 272 of
 the Hegira), Ebn Khordadbeh (died about 300 of sane era), Abou Rihan
 Mohammed (about 430), Masoudi (died 345), Abou Abdullah Mohammed (died
@@ -1966,28 +1966,28 @@ says, "We find ourselves standing again just where Prof. Greaves stood
 in 1637, obliged to reject every rag of testimony from the followers of
 the false prophet."—*Antiquity of Intellectual Man*," p. 277.
 
-<span id="fn_4"></span>[28:\*](ams05.htm#fr_4) Other European authors
+<span id="fn_4"></span>[28:\*](ams05.htm#fr_4.md) Other European authors
 who have given accounts of the Pyramids are Cyriacus, A.D. 1440;
 Breydenbach, 1486; Bellonius, 1553; Johannes Helfricus, 1565; Lawrence
 Aldersey, 1586; Jeane Palerma, 1581; Prosper Alpinus, 1591; Baumgarten,
 1594; Sandys, 1610; Pietro Della Vale, 1616; De Villamont, 1618; Rabbi
 Benjamin, 1633; most of whom themselves visited the Pyramids.
 
-<span id="fn_5"></span>[29:\*](ams05.htm#fr_5) Among these may be
+<span id="fn_5"></span>[29:\*](ams05.htm#fr_5.md) Among these may be
 mentioned De Monconys (1647), Thevenot (1655), Melton (1661), Vausleb
 (1664), Kircher (1666), Lebrun (1674), Maillet (1692-1708), De Careri
 (1693), Lucas (1699), Veryard (1701), Quatremere (1701), Egmont (1709),
 Perizonius (1711), Pere Sicard (1715), Shaw (1721), Norden (1737),
 Pococke (1743), Dr. Perry (1743), Fourmount (1755), Niebuhr (1761).
 
-<span id="fn_6"></span>[29:†](ams05.htm#fr_6) The results of Davison's
+<span id="fn_6"></span>[29:†](ams05.htm#fr_6.md) The results of Davison's
 labors are contained in the Memoirs of Rev. Robert Walpole, and are
 alluded to at some length in vol. 19 of the *Quarterly Review*. Other
 writers on the <span id="page_30">p. 30</span> subject after him, were
 Bruce (1768), L’Abbe De Binos (1777), Savary (1777), Volney (1783),
 Browne (1792-98), Devon (1799).
 
-<span id="fn_7"></span>[30:\*](ams05.htm#fr_7) See Colonel Coutelle's
+<span id="fn_7"></span>[30:\*](ams05.htm#fr_7.md) See Colonel Coutelle's
 remarks (1801), and particularly M. Jomard's descriptions (1801).
 
 Other writers are Hamilton (1801), Dr. Whitman (1801), Dr. Wilson
@@ -1995,10 +1995,10 @@ Other writers are Hamilton (1801), Dr. Whitman (1801), Dr. Wilson
 Dr. Richardson (1817), Mr. Webster (1827), Wilkinson (1831), Mr. St.
 John (1832), Captain Scott and Mr. Agnew (1837).
 
-<span id="fn_8"></span>[46:\*](ams05.htm#fr_8) See Egypt's Place in
+<span id="fn_8"></span>[46:\*](ams05.htm#fr_8.md) See Egypt's Place in
 History, vol. i, p. 477, and vol. iv, p. 107.
 
-<span id="fn_9"></span>[48:\*](ams05.htm#fr_9) From this 10,9 shape of
+<span id="fn_9"></span>[48:\*](ams05.htm#fr_9.md) From this 10,9 shape of
 the Great Pyramid there results also important confirmation of the
 measurements of the base side and height. "The side angle computed from
 it amounts to 51° 50´ 39.1″; the π angle being 51° 51´ 14.3″; and the
@@ -2021,7 +2021,7 @@ scientific way, or else admit that there is no such vitiating
 uncertainty as they too fondly assume without being able practically or
 by any process to prove that our figures are false.
 
-<span id="fn_10"></span>[51:\*](ams05.htm#fr_10) "These azimuth trenches
+<span id="fn_10"></span>[51:\*](ams05.htm#fr_10.md) "These azimuth trenches
 are a sort of large open ditches spread about here and there on the
 surface of the hill, before the eastern face of the Great Pyramid, and
 not very noticeable except for their relative angles in a horizontal
@@ -2077,7 +2077,7 @@ would thus have been cut if the whole work had been conditioned to the
 uncertainty of the duration of the king's life. Osburn entirely
 repudiates Lepsius's "law of pyramid building."
 
-<span id="fn_11"></span>[55:\*](ams05.htm#fr_11) The following is a list
+<span id="fn_11"></span>[55:\*](ams05.htm#fr_11.md) The following is a list
 of these measures:
 
 <div align="center">
@@ -2105,7 +2105,7 @@ of taking the properly weighted mean of the several very competent
 measurers, each anxious to be exact, and one as liable to be too high as
 the other too low.
 
-<span id="fn_12"></span>[57:\*](ams05.htm#fr_12) The highest cathedrals
+<span id="fn_12"></span>[57:\*](ams05.htm#fr_12.md) The highest cathedrals
 in the world are Strasburg, five thousand six hundred and sixteen
 inches; Rouen, five thousand five hundred and sixty-eight; St.
 Stephen's, Vienna, five thousand two hundred and ninety-two; St.
@@ -2117,7 +2117,7 @@ Cologne was meant to be higher, but never has reached this height,
 neither has any other known tower. The oldest standing edifice in the
 world is thus the highest by far.
 
-<span id="fn_13"></span>[62:\*](ams05.htm#fr_13) Some have doubted
+<span id="fn_13"></span>[62:\*](ams05.htm#fr_13.md) Some have doubted
 whether the Jews, either before or after the Exodus, ever had a special
 cubit of this kind. But that they had, and that the sane was a Divinely
 given and authorized length measure, is so clearly deducible from the
@@ -2134,7 +2134,7 @@ semi-axis of the earth, we may accept and hold on the authority of one
 of the greatest minds and one of the most thorough and competent
 investigators of such a matter that has illuminated cur modern times.
 
-<span id="fn_14"></span>[64:\*](ams05.htm#fr_14) Captain Tracy has
+<span id="fn_14"></span>[64:\*](ams05.htm#fr_14.md) Captain Tracy has
 pointed out that the pyramid's earth commensurated cubit is exhibited on
 this *boss* of the granite leaf divided into fives, for it is just
 one-fifth of that cubit broad, and the thickness of the *boss* is again
@@ -2150,7 +2150,7 @@ and the five-inch span with an inch base for the side slope; on the boss
 itself there is no indication whatever of any irregularity of
 shape."—CASEY'S "Philitis," p. 40.
 
-<span id="fn_15"></span>[66:\*](ams05.htm#fr_15) These experiments as
+<span id="fn_15"></span>[66:\*](ams05.htm#fr_15.md) These experiments as
 given in "Johnson's New Universal Cyclopædia" (Art. Density of the
 Earth), are the following:
 
@@ -2193,7 +2193,7 @@ mean density of the earth, and that the pyramid was meant to be of such
 weight that it should be to the whole weight of the earth as 1 to
 10<sup>5×3</sup>.
 
-<span id="fn_16"></span>[73:\*](ams05.htm#fr_16) We subjoin a table of
+<span id="fn_16"></span>[73:\*](ams05.htm#fr_16.md) We subjoin a table of
 units and standards of this system the better to set it before the eyes
 and understandings of those disposed to investigate its elements.
 
@@ -2255,7 +2255,7 @@ temperature of the earth in which man works with most ease and comfort,
 
 </div>
 
-<span id="fn_17"></span>[82:\*](ams05.htm#fr_17) A singular coincidence
+<span id="fn_17"></span>[82:\*](ams05.htm#fr_17.md) A singular coincidence
 with this has been pointed out by R. A. Procter. If we take the
 pyramid's cubits instead of its inches, and multiply the number of these
 cubits in a base side of the pyramid by the number fifty, and increase
@@ -2263,7 +2263,7 @@ the result in proportion as the base diagonal exceeds the measure of the
 side, the sum comes out in the number of years in the great precessional
 period.
 
-<span id="fn_18"></span>[85:\*](ams05.htm#fr_18) The existence of these
+<span id="fn_18"></span>[85:\*](ams05.htm#fr_18.md) The existence of these
 lines, as first reported by Prof. Smyth, has now been amply verified.
 Rev. F. R. A. Glover, on his way to India, in 1874, visited the Great
 Pyramid with some four or five others, and subsequently wrote from
@@ -2284,4 +2284,4 @@ matter."—Given in Casey's "Philitis," pp. 40, 41.
 ------------------------------------------------------------------------
 
 [Next: Lecture Second. Modern Discoveries and Biblical
-Connections](ams06)
+Connections](ams06.md)

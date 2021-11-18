@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj50)  [Next](atfj52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj50)  [Next](atfj52.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_55"></span> <span align="CENTER"> [![55. Kyuzaemon Sees
 the 'Yuki Onna.'](tn/55.jpg)  
-Click to enlarge](img/55.jpg)  
+Click to enlarge](img/55.jpg.md)  
 55. Kyuzaemon Sees the 'Yuki Onna.'  
 </span>
 
@@ -94,7 +94,7 @@ pretty, and she seemed to be about twenty-five years of age. Kyuzaemon,
 taken by surprise and very much alarmed, called out:
 
 'Who and what are you, and how did you get in? Where did you leave your
-geta.' <span id="fr_47"></span>[1](#fn_47)
+geta.' <span id="fr_47"></span>[1](#fn_47.md)
 
 'I can come in anywhere when I choose,' said the figure, 'and I am the
 woman you would not let in. I require no clogs; for I whirl along over
@@ -108,7 +108,7 @@ woman. I should, in fact, be glad; but I fear spirits greatly, as my
 forefathers have done,' said Kyuzaemon.
 
 'Be not afraid. You have a butsudan?' <span
-id="fr_48"></span>[2](#fn_48) said the figure.
+id="fr_48"></span>[2](#fn_48.md) said the figure.
 
 'Yes: I have a butsudan,' said Kyuzaemon; 'but what can you want to do
 with that?'
@@ -185,9 +185,9 @@ haunting people who are connected with them.
 
 ### Footnotes
 
-<span id="fn_47"></span>[309:1](atfj51.htm#fr_47) Clogs.
+<span id="fn_47"></span>[309:1](atfj51.htm#fr_47.md) Clogs.
 
-<span id="fn_48"></span>[309:2](atfj51.htm#fr_48) Family altar, in which
+<span id="fn_48"></span>[309:2](atfj51.htm#fr_48.md) Family altar, in which
 the figures of various gods are set, and also the family mortuary
 tablets.
 
@@ -195,6 +195,6 @@ tablets.
 
 ------------------------------------------------------------------------
 
-[Next: L. The Snow Tomb](atfj52)
+[Next: L. The Snow Tomb](atfj52.md)
 
 </div>

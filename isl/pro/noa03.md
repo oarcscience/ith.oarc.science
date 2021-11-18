@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](noa02)  [Next](hud00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](noa02)  [Next](hud00.md) 
 
 ------------------------------------------------------------------------
 
@@ -318,4 +318,4 @@ the Lord of all.
 
 ------------------------------------------------------------------------
 
-[Next: Hud PUH](hud00)
+[Next: Hud PUH](hud00.md)

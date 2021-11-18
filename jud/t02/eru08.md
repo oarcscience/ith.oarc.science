@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru07)  [Next](eru09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru07)  [Next](eru09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -509,7 +509,7 @@ an Erub that had been made for a number of Sabbaths and had gradually
 dwindled, but not to such Erubin as had been made afresh; hence he also
 made the statement concerning R. Johanan ben Nouri in order to emphasize
 the fact that the more lenient Halakhoth prevail even in the instances
-of newly made Erubin." <span id="fr_31"></span>[1](#fn_31)
+of newly made Erubin." <span id="fr_31"></span>[1](#fn_31.md)
 
 R. Jacob and R. Zreiqa both said: "In all instances where R. Aqiba
 differs with an individual the Halakha prevails according to R. Aqiba.
@@ -557,12 +557,12 @@ authority than R. Simeon.
 
 The schoolmen propounded a question: "How is it, when R. Meir and R.
 Simeon differ?" This question is not decided. <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
 R. Mesharshia said: All these rules are of no account (*i.e.*, decisions
 should be made according to the dictates of one's own understanding);
 for Rabh never acted according to such rules. <span
-id="fr_33"></span>[2](#fn_33)
+id="fr_33"></span>[2](#fn_33.md)
 
 <span id="page_106">p. 106</span>
 
@@ -628,7 +628,7 @@ means of a fishing-net, it is not sufficient; for an iron partition is
 necessary in order that the water of both limits should not mingle." R.
 Jose bar Hanina laughed at this teaching. Why did he laugh at it?
 Because Rabh decreed, that the sages were very lenient with all things
-pertaining to water (see page [24](eru05.htm#page_24)).
+pertaining to water (see page [24](eru05.htm#page_24).md).
 
 "*But the sages hold, that he has only the right to move four ells*." Is
 R. Jehudah not of the same opinion as the first Tana? Said Rabha: Nay;
@@ -760,7 +760,7 @@ penurious).
 R. Jehudah said again in the name of Samuel: "An Erub which is divided
 by a man in two parts or deposited by him in two separate vessels is of
 no account." Then Samuel's dictum is in accordance with Beth Shammai, as
-stated in the Boraitha (page [108](#page_108)): We may assume that
+stated in the Boraitha (page [108](#page_108).md): We may assume that
 Samuel's teaching may be also according to Beth Hillel; for the latter
 hold, that the Erub is valid only then, if one vessel was filled with it
 and the remainder had to be put into another vessel, but if it was
@@ -948,7 +948,7 @@ this*," and as this should be all the legal limits of the Sabbath.
 
 Said R. A'ha bar Jacob. One who carries four ells in public ground is
 not culpable unless he carries in a diagonal of four ells. <span
-id="fr_34"></span>[1](#fn_34)
+id="fr_34"></span>[1](#fn_34.md)
 
 Said R. Papa: "Rabha wished to examine us and asked the following
 question: 'Is it necessary that a pillar ten spans high and four wide
@@ -1141,7 +1141,7 @@ land-surveyors forget their mark and go beyond the distance."
 
 ### Footnotes
 
-<span id="fn_31"></span>[104:1](eru08.htm#fr_31) The following
+<span id="fn_31"></span>[104:1](eru08.htm#fr_31.md) The following
 paragraphs in the original Gemara are devoted to arguments of R. Papa
 and R. Ashi concerning the adduction of the differences quoted by the
 two Rabbis in the preceding paragraphs and quote the Boraithoth further
@@ -1149,14 +1149,14 @@ on. Hence we have omitted them, and the reader will understand this from
 what follows. This rule is made by us for the benefit of the Hebrew
 scholar and will apply to all such omissions later.
 
-<span id="fn_32"></span>[105:1](eru08.htm#fr_32) Wherever a question
+<span id="fn_32"></span>[105:1](eru08.htm#fr_32.md) Wherever a question
 remains undecided in the Talmud, the letters Taph, Iod, Quph, Vav, are
 inserted, and some scholars maintain, that this means "Theiqu," *i.e.*,
 "So shall it remain." Others, however, maintain that the letters stand
 for: "Tishbi = Elijah the prophet, Ietharetz = will answer, Qushiuth =
 contradictions, Veabaioth = and questions.
 
-<span id="fn_33"></span>[105:2](eru08.htm#fr_33) This statement of R.
+<span id="fn_33"></span>[105:2](eru08.htm#fr_33.md) This statement of R.
 Mesharshia applies to the whole Talmud from the fact that, although the
 authorities quoted above are among the greatest of the Mishna and the
 Gemara, the interpretation of all Halakoth should be based upon common
@@ -1168,11 +1168,11 @@ and Schulchau Aruch," published in the *American Israelite*, 1894, that
 "no one has any right to establish a code based upon Halakhoth of the
 Talmud."
 
-<span id="fn_34"></span>[114:1](eru08.htm#fr_34) Rashi explains this to
+<span id="fn_34"></span>[114:1](eru08.htm#fr_34.md) Rashi explains this to
 mean 4 ells and 8/5 or 1 3/5 of an ell additionally. It is difficult to
 understand just how this is meant or how the diagonal can be derived
 without the square.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Town Boundaries and Legal Limits](eru09)
+[Next: Chapter V: Town Boundaries and Legal Limits](eru09.md)

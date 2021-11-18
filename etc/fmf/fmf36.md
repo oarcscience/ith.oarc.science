@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf35)  [Next](fmf37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf35)  [Next](fmf37.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ early in the Seventies.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Crustacean Who Tried to Find Out by Reading a
-Book](fmf37)
+Book](fmf37.md)

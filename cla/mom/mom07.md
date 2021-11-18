@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mom06)  [Next](mom08) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mom06)  [Next](mom08.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,8 +121,8 @@ Destiny, at others with the primitive light or the primitive fire; while
 both conceptions rendered it possible for him to be compared with the
 Supreme Cause of the Stoics,--the heat which pervades all things, which
 has shaped all things, and which under another aspect was Fatality
-(Εἱμαρμένη). See Figs. [20](#img_20)-[23](#img_23); also Fig.
-[49](mom10.htm#img_49).
+(Εἱμαρμένη). See Figs. [20](#img_20)-[23](#img_23.md); also Fig.
+[49](mom10.htm#img_49.md).
 
 The preachers of Mithra sought to resolve the grand problem of the
 origin of the world by the hypothesis of a series of successive
@@ -144,7 +144,7 @@ Fig. 23.
 MITHRAIC LEONTOCEPHALOUS KRONOS.
 
 Bas-relief of white marble. Found in the same mithræum as the statue of
-Figure [22](#img_22). Naked to the waist; the limbs clothed in wide
+Figure [22](#img_22.md). Naked to the waist; the limbs clothed in wide
 trousers; the arms extended; and in each hand a torch. From the back
 four wings issue, two pointing upwards and two downwards, and around
 each is a serpent. Before the god is a circular burning altar, and from
@@ -217,7 +217,7 @@ FRAGMENTS OF A BAS-RELIEF IN WHITE ITALIAN MARBLE.
 Found at Virunum, in Noricum, and now in the Historical Museum
 Rudolfinum, Klagenfurt, Austria. The central part of the monument is
 entirely destroyed; the head of the sun-god from the left-hand corner
-alone having been left (see Fig. [11](mom05.htm#img_11)), The left
+alone having been left (see Fig. [11](mom05.htm#img_11).md), The left
 border represents a Hellenized illustration of Ahura-Mazda's struggle
 with demons, after the manner of the gigantomachy. The lower part of the
 same fragment exhibits the birth of Mithra. (*T. et M.*, p. 336.)
@@ -226,7 +226,7 @@ same fragment exhibits the birth of Mithra. (*T. et M.*, p. 336.)
 
 <span id="page_114">p. 114</span>
 
-which they had risen (Figure [24](#img_24)). They made their escape,
+which they had risen (Figure [24](#img_24).md). They made their escape,
 however, from that place and wandered about on the surface of the earth,
 there to spread misery and to corrupt the hearts of men, who, in order
 to ward off the evils that menaced them, were obliged to appease these
@@ -284,7 +284,7 @@ allegorical group, often reproduced, in which a lion represented fire, a
 cup water, a serpent the earth, pictured the struggle of the opposing
 elements, which were constantly devouring one another and whose
 perpetual transmutations and infinitely variable combinations provoked
-all the phenomena of nature (Fig. [25](#img_25)).
+all the phenomena of nature (Fig. [25](#img_25).md).
 
 Hymns of fantastic symbolism celebrated the metamorphoses which the
 antitheses of these four elements produced in the world. The Supreme God
@@ -314,7 +314,7 @@ GRAND MITHRAIC BAS-RELIEF OF HEDDERNHEIM, GERMANY.
 
 In the center Mithra with the two torch-bearers; immediately above, the
 signs of the Zodiac; immediately above these, Mithra aiming his arrow at
-the rock (page [138](#page_138)); below the bull a group composed of the
+the rock (page [138](#page_138).md); below the bull a group composed of the
 lion, the cup, and the servant. For the obverse of this bas-relief, see
 *supra*, p. 54. (*T. et M.*, p. 364.)
 
@@ -361,7 +361,7 @@ worshipped here the same as in primitive Mazdaism, but the conceptions
 which the Aryas formed of them have been profoundly transformed by the
 influences of Chaldæan theories.
 
-As we have already said, <span id="fr_32"></span>[1](#fn_32) the ancient
+As we have already said, <span id="fr_32"></span>[1](#fn_32.md) the ancient
 belief of the Persians had been forcibly subjected in Babylon to the
 influence of a theology which was based on the science of its day, and
 the majority of the gods of Iran had been likened to the stars
@@ -419,11 +419,11 @@ By the side of the planetary gods who have still a double character,
 purely sidereal divinities received their tribute of homage. The twelve
 signs of the Zodiac, which in their daily revolution subject creatures
 to their adverse influences, were represented in all of the mithræums
-under their traditional aspect (Fig. [26](#img_26)). Each of them was
+under their traditional aspect (Fig. [26](#img_26).md). Each of them was
 without doubt the object of particular veneration during the month over
 which it presided, and they were customarily grouped by threes according
 to the Seasons to which they conformed and with the worship of which
-theirs was associated. (See also Fig. [49](mom10.htm#img_49).)
+theirs was associated. (See also Fig. [49](mom10.htm#img_49)..md)
 
 <span id="page_122">p. 122</span>
 
@@ -572,7 +572,7 @@ as the light is borne by the air he was thought to inhabit the Middle
 Zone between Heaven and Hell, and for this reason the name of μεσίτης
 was given to him. In order to signalize this attribute in the ritual,
 the sixteenth or middle day of each month was consecrated to him. When
-he was identified with Shamash, <span id="fr_33"></span>[1](#fn_33) his
+he was identified with Shamash, <span id="fr_33"></span>[1](#fn_33.md) his
 priests in investing him with the appellation of "intermediary"
 doubtless had in mind the fact that, according
 
@@ -610,7 +610,7 @@ suggest this borrowed character. It was customary to represent him
 between two youthful figures, one with an uplifted, the other with an
 inverted, torch. These youths bore the enigmatic epithets of *Cauti* and
 *Cautopati*, and were naught else than the double incarnation of his
-person (Figs. [18](mom05.htm#img_18) and [29](#img_29)). These two
+person (Figs. [18](mom05.htm#img_18) and [29](#img_29).md). These two
 dadophori, as they were called, and the tauroctonous hero formed
 together a triad, and in this "triple Mithra" was variously seen either
 the star of day, whose coming at morn the cock announced, who passed at
@@ -667,7 +667,7 @@ the Persians. (*T. et M.*, p. 231.)
  
 
 shade of a sacred tree, and that shepherds alone, <span
-id="fr_34"></span>[1](#fn_34) ensconced in a neighboring mountain, had
+id="fr_34"></span>[1](#fn_34.md) ensconced in a neighboring mountain, had
 witnessed the miracle of his entrance into the world. They had seen him
 issue forth from the rocky mass, his head adorned with a Phrygian cap,
 armed with a knife, and carrying
@@ -675,7 +675,7 @@ armed with a knife, and carrying
 <span id="page_132">p. 132</span>
 
 a torch that had illuminated the somber depths. below (Fig.
-[30](#img_30)). Worshipfully the shepherds drew near, offering the
+[30](#img_30).md). Worshipfully the shepherds drew near, offering the
 divine infant the first fruits of their flock and their harvests. But
 the young hero was naked and exposed to the winds that blew with
 violence: he had concealed himself in the branches of a fig-tree, and
@@ -694,7 +694,7 @@ head the radiant crown that he has borne in his daily course ever since
 his downfall. Then he caused him to rise again, and extending to him his
 right hand concluded with him a solemn covenant of friendship. And ever
 after, the two allied heroes faithfully supported each other in all
-their enterprises (Fig. [32](#img_32)).
+their enterprises (Fig. [32](#img_32).md).
 
 The most extraordinary of these epic adventures was Mithra's combat with
 the bull, the first living creature created by Ormazd. This
@@ -747,7 +747,7 @@ although unseated by the bull's mad rush, never for a moment relaxed his
 hold; he suffered himself to be dragged along, suspended from the horns
 of the animal, which, finally exhausted by its efforts, was forced to
 surrender. Its conqueror then seizing it by its hind hoofs, dragged it
-backwards over a road strewn with obstacles (Fig. [33](#img_33)) into
+backwards over a road strewn with obstacles (Fig. [33](#img_33).md) into
 the cave which served as his home.
 
 This painful journey (*Transitus*) of Mithra became the symbol of human
@@ -816,7 +816,7 @@ drought, and its inhabitants, tortured by thirst, implored the
 aid of his ever-victorious adversary. The divine archer discharged his
 arrows against a precipitous rock, and here gushed forth from it a
 spring of living water to which the suppliants thronged to cool their
-parched palates. <span id="fr_35"></span>[1](#fn_35) But a still more
+parched palates. <span id="fr_35"></span>[1](#fn_35.md) But a still more
 terrible cataclysm followed, which menaced all nature. A universal
 deluge depopulated the earth, which was overwhelmed by the waters of the
 rivers and the seas. One man alone, secretly advised by the gods, had
@@ -834,7 +834,7 @@ commemorated by mystical love feasts, he celebrated with Helios and the
 other companions of his labors the termination of their common
 struggles. Then the gods ascended to the Heavens. Borne by the Sun on
 his radiant quadriga, Mithra crossed the Ocean, which sought in vain to
-engulf him (Fig. [35](#img_35)), and took up his habitation with the
+engulf him (Fig. [35](#img_35).md), and took up his habitation with the
 rest of the immortals.
 
 <span id="page_139">p. 139</span>
@@ -943,7 +943,7 @@ darkness. Eternally young and vigorous, he pursues them without mercy;
 "always awake, always alert," it is impossible to surprise him; and from
 his never-ceasing combats he always emerges the victor. This is the idea
 that unceasingly occurs in the inscriptions, the idea expressed by the
-Persian surname Nabarze (Fig. [36](#img_36)), by the Greek and Latin
+Persian surname Nabarze (Fig. [36](#img_36).md), by the Greek and Latin
 epithets of ἀνίκητος, *invictus*, *insuperabilis*. As the god of armies,
 Mithra caused his *protégés* to triumph over their barbarous
 adversaries, and likewise in the moral realm he gave them victory over
@@ -993,7 +993,7 @@ war, to Jupiter its ambitious dreams, to Saturn its inclinations. It was
 naked, stripped of every vice and every sensibility, when it penetrated
 the eighth heaven to enjoy there, as an essence supreme, and in the
 eternal light that bathed the gods, beatitude without end. <span
-id="fr_36"></span>[1](#fn_36)
+id="fr_36"></span>[1](#fn_36.md)
 
 It was Mithra, the protector of truth, that presided over the judgment
 of the soul after its decease. It was he, the mediator, that served as a
@@ -1110,24 +1110,24 @@ swayed the universe.
 
 ### Footnotes
 
-<span id="fn_32"></span>[119:1](mom07.htm#fr_32) See *supra*, page
-[10](mom04.htm#page_10).
+<span id="fn_32"></span>[119:1](mom07.htm#fr_32.md) See *supra*, page
+[10](mom04.htm#page_10.md).
 
-<span id="fn_33"></span>[127:1](mom07.htm#fr_33) See *supra*, page
-[10](mom04.htm#page_10).
+<span id="fn_33"></span>[127:1](mom07.htm#fr_33.md) See *supra*, page
+[10](mom04.htm#page_10.md).
 
-<span id="fn_34"></span>[131:1](mom07.htm#fr_34) See the lower part of
-Fig. [24](#img_24).
+<span id="fn_34"></span>[131:1](mom07.htm#fr_34.md) See the lower part of
+Fig. [24](#img_24.md).
 
-<span id="fn_35"></span>[138:1](mom07.htm#fr_35) See *supra*, [p.
-117](#page_117), Fig. [25](#img_25), and *infra*, [p.
-196](mom09.htm#page_196), Fig. [45](mom09.htm#img_45).
+<span id="fn_35"></span>[138:1](mom07.htm#fr_35.md) See *supra*, [p.
+117](#page_117), Fig. [25](#img_25.md), and *infra*, [p.
+196](mom09.htm#page_196), Fig. [45](mom09.htm#img_45.md).
 
-<span id="fn_36"></span>[145:1](mom07.htm#fr_36) This Mithraic doctrine
+<span id="fn_36"></span>[145:1](mom07.htm#fr_36.md) This Mithraic doctrine
 has recently been compared with other analogous beliefs and studied in
 detail by M. Bossuet. "Die Himmelreise der Seele" (*Archiv für
 Relikionswissenschaft*, Vol. IV., 1901, p. 160 ff.).
 
 ------------------------------------------------------------------------
 
-[Next: The Mithraic Liturgy, Clergy and Devotees](mom08)
+[Next: The Mithraic Liturgy, Clergy and Devotees](mom08.md)

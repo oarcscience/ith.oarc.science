@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos25)  [Next](gbos27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos25)  [Next](gbos27.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ the end of desire."
 
 ------------------------------------------------------------------------
 
-[Next: Cakes and Wine](gbos27)
+[Next: Cakes and Wine](gbos27.md)

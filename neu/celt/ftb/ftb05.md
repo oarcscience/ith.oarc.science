@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ftb04)  [Next](ftb06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ftb04)  [Next](ftb06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027ISB18/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales of Brittany*, by Elsie Masson, \[1929\], at Intangible
 Textual Heritage
 
@@ -28,20 +28,20 @@ Textual Heritage
 
 <span id="img_02400"></span> <span align="CENTER"> [![The Enchanted
 Forest](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 The Enchanted Forest  
 </span>
 
 <span id="page_25">p. 25</span>
 
 <span id="img_02500"></span> ![The Basin of Gold and The Diamond
-Lance](img/02500.jpg)
+Lance](img/02500.jpg.md)
 
 <span id="img_02501"></span>
 
 |                     |
 |---------------------|
-| ![T](img/02501.jpg) |
+| ![T](img/02501.jpg.md) |
 
 HERE once lived near the town of Vannes an orphan boy named Peronnik.
 When he was hungry he asked the farm women of the countryside for their
@@ -558,4 +558,4 @@ find them no matter where he seeks.
 
 ------------------------------------------------------------------------
 
-[Next: Lady Yolanda's Thimble](ftb06)
+[Next: Lady Yolanda's Thimble](ftb06.md)

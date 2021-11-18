@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki220)  [Next](liki222) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki220)  [Next](liki222.md) 
 
 ------------------------------------------------------------------------
 
@@ -771,6 +771,6 @@ on the right; that for the ancestral temple on the left\[1\].
 
 ------------------------------------------------------------------------
 
-[Next: XXII. Kî Thung or A Summary Account of Sacrifices](liki222)
+[Next: XXII. Kî Thung or A Summary Account of Sacrifices](liki222.md)
 
   

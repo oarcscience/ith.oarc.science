@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml22)  [Next](tml24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml22)  [Next](tml24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -55,7 +55,7 @@ high shore, saw drifting towards them over the blue sea a fair ship, and
 on the stem shone golden rings. Nigh it came, and it found a safe
 harbour and lay therein. With wonder the people beheld on the deck a
 man-child wrapped in soft slumber; his pillow was a golden grain sheaf,
-and they named him Scyld <span id="fr_25"></span>[1](#fn_25) of the
+and they named him Scyld <span id="fr_25"></span>[1](#fn_25.md) of the
 Sheaf. Him they took unto their chief's home, and there he was nourished
 and fostered tenderly. The treasures that were in the ship gave great
 riches and power unto the tribe, and they received knowledge to grow
@@ -82,7 +82,7 @@ regarded with awe, Indeed he waxed so powerful that tribute
 was paid to him by the people who dwell beyond the seaway of whales.
 
 A man-child was born unto Scyld. He was named Beowulf <span
-id="fr_26"></span>[1](#fn_26), and when he came to years of strength and
+id="fr_26"></span>[1](#fn_26.md), and when he came to years of strength and
 knowledge he won fair repute. Among the followers of his sire he
 distributed many money gifts, so that he won their favour; ready were
 they indeed to serve him in wartime.
@@ -107,7 +107,7 @@ sorrowed for him, watching from the shore. . . . No man can tell who
 received that fair ship's burden
 
 Beowulf then reigned over the Scyldings, and was honoured and well
-loved. His son Healfdene <span id="fr_27"></span>[2](#fn_27), who
+loved. His son Healfdene <span id="fr_27"></span>[2](#fn_27.md), who
 followed him, was famed afar as a warrior, and when he waxed old he was
 yet fierce in battle. Four children
 
@@ -127,7 +127,7 @@ Heorot, and it awaited the devouring flames.
 There was much feasting and merriment in the great Hall. A fierce
 man-eating monster, which dwelt in darkness, was made angry by the
 revelry, the music of harps, and the cheerful songs of skalds. One <span
-id="fr_28"></span>[1](#fn_28) was in the hall, too, who told how the
+id="fr_28"></span>[1](#fn_28.md) was in the hall, too, who told how the
 Almighty did create man and the earth in the midst of the encircling
 sea, and did set the sun and moon in the heavens to give light and cover
 the land with branches and leaves.
@@ -162,7 +162,7 @@ On the next night the demon Grendel returned, and did more murderous
 deeds. Nor had he any regret thereat, so much was he steeped in crime.
 Then was it easy indeed to find men who sought inner chambers by night.
 He alone who found farthest retreat escaped the fierce fiend. <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 Then became Grendel the master indeed. For the space of twelve long
 winters Hrothgar endured because of the demon great sorrow and deep
@@ -220,7 +220,7 @@ sea plunderers may not do harm to Denmark. Never have I beheld armed
 <span id="img_19200"></span> <span align="CENTER"> [![VIKING SHIP FROM
 GOKSTAD&lt;br&gt; &lt;i&gt;Now in the University,
 Christiana&lt;/i&gt;](tn/19200.jpg)  
-Click to enlarge](img/19200.jpg)  
+Click to enlarge](img/19200.jpg.md)  
 VIKING SHIP FROM GOKSTAD  
 *Now in the University, Christiana*  
 </span>
@@ -359,21 +359,21 @@ awake, awaiting the issue of the conflict with increasing wrath.
 
 ### Footnotes
 
-<span id="fn_25"></span>[188:1](tml23.htm#fr_25) As in Beowulf.
+<span id="fn_25"></span>[188:1](tml23.htm#fr_25.md) As in Beowulf.
 Elsewhere Scyld is called son of Sheaf.
 
-<span id="fn_26"></span>[189:1](tml23.htm#fr_26) The elder Beowulf; not
+<span id="fn_26"></span>[189:1](tml23.htm#fr_26.md) The elder Beowulf; not
 the hero of the poem.
 
-<span id="fn_27"></span>[189:2](tml23.htm#fr_27) Halfdan.
+<span id="fn_27"></span>[189:2](tml23.htm#fr_27.md) Halfdan.
 
-<span id="fn_28"></span>[190:1](tml23.htm#fr_28) Evidently an
+<span id="fn_28"></span>[190:1](tml23.htm#fr_28.md) Evidently an
 interpolation by a Christian copyist. Further on offerings are made to
 idols.
 
-<span id="fn_29"></span>[191:1](tml23.htm#fr_29) Grendel could enter the
+<span id="fn_29"></span>[191:1](tml23.htm#fr_29.md) Grendel could enter the
 hall only: other dwellings were "taboo".
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX. Conflict with Demons](tml24)
+[Next: Chapter XIX. Conflict with Demons](tml24.md)

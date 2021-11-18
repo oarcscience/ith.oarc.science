@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam13)  [Next](adam15) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam13)  [Next](adam15.md) 
 
 ------------------------------------------------------------------------
 
@@ -422,4 +422,4 @@ Donor and He is the Knower of all matters.
 
 ------------------------------------------------------------------------
 
-[Next: Summary of the story of Adam PUH](adam15)
+[Next: Summary of the story of Adam PUH](adam15.md)

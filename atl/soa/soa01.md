@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa00)  [Next](soa02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa00)  [Next](soa02.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ of archaic flood-legends.
 
 ------------------------------------------------------------------------
 
-[Next: Deep-Sea Soundings](soa02)
+[Next: Deep-Sea Soundings](soa02.md)

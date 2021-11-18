@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist054) 
-[Next](hist056) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist054.md) 
+[Next](hist056.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ iniquity; and in sin did my mother give birth to me.'
 ------------------------------------------------------------------------
 
 [Next: XX. How Edwin being slain, Paulinus returned into Kent, and had
-the bishopric of Rochester conferred upon him. \[633 A.D.\]](hist056)
+the bishopric of Rochester conferred upon him. \[633 A.D.\]](hist056.md)

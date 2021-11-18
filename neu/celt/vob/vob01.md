@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vob00)  [Next](vob02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vob00)  [Next](vob02.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 ### INTRODUCTION
 
 THE old-Irish tale which is here edited and fully translated <span
-id="fr_0"></span>[1](#fn_0) for the first time, has come down to us in
+id="fr_0"></span>[1](#fn_0.md) for the first time, has come down to us in
 seven MSS. of different age and varying value. It is unfortunate that
 the oldest copy (U), that contained on p. 121*a* of the *Leabhar na
 hUidhre*, a MS. written about 1100 A.D., is a mere fragment, containing
@@ -47,7 +47,7 @@ accurate transcript of this MS. When I had an opportunity of comparing
 his copy with the original, I found hardly any discrepancies between the
 two. B was written in the fifteenth century, I think, by a scribe named
 Tornae, who, though he tells us in a marginal note <span
-id="fr_1"></span>[1](#fn_1). that he had not for a long time had any
+id="fr_1"></span>[1](#fn_1.md). that he had not for a long time had any
 practice in writing, did his task remarkably well. He modernises a good
 deal in spelling, but generally leaves the old-Irish forms intact. Thus
 we owe to him the preservation of such original forms as the genitives
@@ -152,7 +152,7 @@ There are a large number of forms in the Voyage of Bran as old as any to
 be found in the Würzburg glosses. The oldest part of these glosses,
 Professor Thurneysen, the most careful and cool-headed of observers,
 does not hesitate to ascribe to the seventh century. <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 I now subjoin a list of these oldest forms, leaving aside anything of a
 doubtful or unexplained nature.
@@ -289,7 +289,7 @@ from the poetry. The prose, though it preserves a large number of
 undoubtedly old-Irish forms, also contains a good deal of what is
 clearly of middle-Irish origin, more particularly in the verbal forms.
 The use of preterites without the particle *ro* has been recognised by
-Thurneysen, <span id="fr_3"></span>[1](#fn_3) whom I mainly follow here,
+Thurneysen, <span id="fr_3"></span>[1](#fn_3.md) whom I mainly follow here,
 as a decidedly later phenomenon. It occurs in *birt*, 31; *asbert*, 62,
 63 (bis), 64, instead of old-Ir. *asrubart*, and in a large number of
 
@@ -309,7 +309,7 @@ fact that the poetry contains none of the latter, we arrive at the
 following conclusions as to the history of our text.
 
 The Voyage of Bran was originally written down in the seventh
-century. <span id="fr_4"></span>[1](#fn_4) From this original, sometime
+century. <span id="fr_4"></span>[1](#fn_4.md) From this original, sometime
 in the tenth century, a copy was made, in which the language of the
 poetry, protected by the laws of metre and assonance, was left almost
 intact, while the prose was subjected to a process of partial
@@ -317,7 +317,7 @@ modernisation, which most affected the verbal forms. From this tenth
 century copy all our MSS. are derived.
 
 In conclusion, I would draw attention to the loan-words occurring in our
-tale. These are all of Latin origin. <span id="fr_5"></span>[2](#fn_5)
+tale. These are all of Latin origin. <span id="fr_5"></span>[2](#fn_5.md)
 They naturally fall into two groups, an older one of words
 
 <span id="page_xvii">p. xvii</span>
@@ -356,32 +356,32 @@ UNIVERSITY COLLEGE,
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](vob01.htm#fr_0) An abstract and partial
+<span id="fn_0"></span>[vii:1](vob01.htm#fr_0.md) An abstract and partial
 translation of the Voyage of Bran was given by Professor Zimmer in the
 *Zeitschrift für deutsches Alterthum*, vol. xxxiii. pp. 257-261.
 
-<span id="fn_1"></span>[viii:1](vob01.htm#fr_1) This note is found at
+<span id="fn_1"></span>[viii:1](vob01.htm#fr_1.md) This note is found at
 the bottom of p. 57 and runs thus: Messe Tornae 7 ni *fetur* ca f*a*d o
 doscriuh*us* oenlini roime sin, *i.e.* I am Torre, and I do not know how
 long ago it is since I wrote a single line.
 
-<span id="fn_2"></span>[xii:1](vob01.htm#fr_2) 'Die Vorlage der
+<span id="fn_2"></span>[xii:1](vob01.htm#fr_2.md) 'Die Vorlage der
 Würzburger Glossen kann unbedenklich ins 7. Jahrh. datiert
 werden.'--Rev. Celt. vi. p. 319.
 
-<span id="fn_3"></span>[xv:1](vob01.htm#fr_3) See Rev. Celt. vi., pp.
+<span id="fn_3"></span>[xv:1](vob01.htm#fr_3.md) See Rev. Celt. vi., pp.
 322 and 328.
 
-<span id="fn_4"></span>[xvi:1](vob01.htm#fr_4) Prof. Zimmer also claims
+<span id="fn_4"></span>[xvi:1](vob01.htm#fr_4.md) Prof. Zimmer also claims
 our text for this century. His words are (l.c., p. 261): 'Der Text
 gehört zum ältesten was uns von irischer profanlitteratur erhalten ist:
 seine sprache ist sicher so alt wie die ältesten altirischen glosses; er
 kann also noch dem 7. jh. angehören.'
 
-<span id="fn_5"></span>[xvi:2](vob01.htm#fr_5) With reference to Prof.
+<span id="fn_5"></span>[xvi:2](vob01.htm#fr_5.md) With reference to Prof.
 Zimmer's well-known theory as to the Norse origin of Ir. *fían* and its
 derivatives, I may mention that the word *fénnid* occurs in 56.
 
 ------------------------------------------------------------------------
 
-[Next: The Voyage of Bran](vob02)
+[Next: The Voyage of Bran](vob02.md)

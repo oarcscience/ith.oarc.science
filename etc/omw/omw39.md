@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw38)  [Next](omw40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw38)  [Next](omw40.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_10700"></span>
 
 [![](tn/10700.jpg)  
-Click to enlarge](img/10700.jpg)
+Click to enlarge](img/10700.jpg.md)
 
 # ROMAN
 
@@ -241,4 +241,4 @@ soon Romulus had to defend Rome from the rage of the Sabines.
 
 ------------------------------------------------------------------------
 
-[Next: The Children of Mars, Part II](omw40)
+[Next: The Children of Mars, Part II](omw40.md)

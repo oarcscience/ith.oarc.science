@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](ppx06)  [Next](ppx08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](ppx06)  [Next](ppx08.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ reference to the events.
 
 ------------------------------------------------------------------------
 
-[Next: Fontina, or, The Pixies' Bath](ppx08)
+[Next: Fontina, or, The Pixies' Bath](ppx08.md)

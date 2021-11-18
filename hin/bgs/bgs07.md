@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg07)   
-[Previous](bgs06)  [Next](bgs08) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg07.md)   
+[Previous](bgs06)  [Next](bgs08.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ prayāṇakālepi ca māṃ te vidur yuktacetasaḥ 7.30
 
 ------------------------------------------------------------------------
 
-[Next: VIII. atha aṣṭamodhyāyaḥ. (akṣarabrahmayogaḥ)](bgs08)
+[Next: VIII. atha aṣṭamodhyāyaḥ. (akṣarabrahmayogaḥ)](bgs08.md)

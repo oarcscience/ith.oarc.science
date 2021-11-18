@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku20)  [Next](tku22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku20)  [Next](tku22.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ when a man batheth in a deep river, whose divided waters flow round him
 on every side from that part which is above.
 
 332\. "And that light ascendeth unto the shore of the deep superior
-sea, <span id="fr_51"></span>[1](#fn_50) for all good openings and
+sea, <span id="fr_51"></span>[1](#fn_50.md) for all good openings and
 dignities are disclosed in that opening.
 
 333\. "I asked of them what might be the interpretation of that which I
@@ -55,7 +55,7 @@ second time ascended the mountain of Sinai.
 
 338\. For I see that my countenance shineth like, the vehement splendour
 of the sun, who is about to issue forth for the healing of the
-universe. <span id="fr_52"></span>[1](#fn_51)
+universe. <span id="fr_52"></span>[1](#fn_51.md)
 
 339\. Like as it is written, Mal. iv. 2: "But unto you that fear my name
 shall the sun of righteousness arise, and healing in his wings."
@@ -74,7 +74,7 @@ did they shine.
 mouth, that same at once was raised, and conformed, and crowned, and
 concealed in the concealment of the forms of the beard, but all the
 others were reinstated (in outward form). <span
-id="fr_53"></span>[2](#fn_52)
+id="fr_53"></span>[2](#fn_52.md)
 
 <span id="page_149">p. 149</span>
 
@@ -93,21 +93,21 @@ shall not be in such a condition until King Messiach shall come.
 
 ### Footnotes
 
-<span id="fn_50"></span>[147:1](tku21.htm#fr_51) Binah. the third
+<span id="fn_50"></span>[147:1](tku21.htm#fr_51.md) Binah. the third
 Sephira, which is called the "sea" in the "Book of Concealed Mystery."
 It answers to the first letter H, *He*, in the Tetragrammaton. (See
 Introduction.)
 
-<span id="fn_51"></span>[148:1](tku21.htm#fr_52) This phrase "splendour
+<span id="fn_51"></span>[148:1](tku21.htm#fr_52.md) This phrase "splendour
 of the sun, who is," &c., evidently refers to the sixth Sephira,
 Tiphereth, or beauty, the splendour of the countenance of Microprosopus,
 while the "universe" refers to Malkuth.
 
-<span id="fn_52"></span>[148:2](tku21.htm#fr_53) While Rabbi Chisqiah
+<span id="fn_52"></span>[148:2](tku21.htm#fr_53.md) While Rabbi Chisqiah
 was speaking Rabbi Schimeon had this vision of the conformations of the
 beard.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV: Concerning the Third Part of the Beard of
-Macroprosopus](tku22)
+Macroprosopus](tku22.md)

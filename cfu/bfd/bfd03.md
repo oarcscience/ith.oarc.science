@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](bfd02)  [Next](bfd04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](bfd02)  [Next](bfd04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402152167/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Filial Duty*, by Ivan Chen, \[1908\], at Intangible Textual
 Heritage
 
@@ -117,7 +117,7 @@ the smaller forces in river streams, the greater
 <span id="page_11">p. 11</span>
 
 forces in ample transformations. It is this that makes the sky and earth
-so great." <span id="fr_0"></span>[1](#fn_0)
+so great." <span id="fr_0"></span>[1](#fn_0.md)
 
 The first environment of the human soul is that of the family. Before we
 can become good subjects, before we can aspire to study nature and mould
@@ -256,10 +256,10 @@ stories, and has been extensively drawn upon for the present work.
 
 ### Footnotes
 
-<span id="fn_0"></span>[11:1](bfd03.htm#fr_0) Translated by John Carey
+<span id="fn_0"></span>[11:1](bfd03.htm#fr_0.md) Translated by John Carey
 Hall in *Chinese Civilisation,* by Pierre Laffitte.
 
 ------------------------------------------------------------------------
 
 [Next: The Doctrine of Filial Duty: Chapter I: The Meaning of Filial
-Duty](bfd04)
+Duty](bfd04.md)

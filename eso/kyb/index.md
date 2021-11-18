@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NHRC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NHRC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00272NHRC/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](kyb00)    [Text
-\[Zipped\]](kyb.txt.gz)
+[Contents](#contents)    [Start Reading](kyb00.md)    [Text
+\[Zipped\]](kyb.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -44,21 +44,21 @@ Society under a pseudonym, it probably bears a closer read than most.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](kyb00)  
-[Table of Contents](kyb01)  
-[Introduction](kyb02)  
-[Chapter I. The Hermetic Philosophy](kyb03)  
-[Chapter II. The Seven Hermetic Principles](kyb04)  
-[Chapter III. Mental Transmutation](kyb05)  
-[Chapter IV. The All](kyb06)  
-[Chapter V. The Mental Universe](kyb07)  
-[Chapter VI. The Divine Paradox](kyb08)  
-[Chapter VII. ''The All'' in All](kyb09)  
-[Chapter VIII. Planes of Correspondence](kyb10)  
-[Chapter IX. Vibration](kyb11)  
-[Chapter X. Polarity](kyb12)  
-[Chapter XI. Rhythm](kyb13)  
-[Chapter XII. Causation](kyb14)  
-[Chapter XIII. Gender](kyb15)  
-[Chapter XIV. Mental Gender](kyb16)  
-[Chapter XV. Hermetic Axioms](kyb17)  
+<span id="contents"></span> [Title Page](kyb00.md)  
+[Table of Contents](kyb01.md)  
+[Introduction](kyb02.md)  
+[Chapter I. The Hermetic Philosophy](kyb03.md)  
+[Chapter II. The Seven Hermetic Principles](kyb04.md)  
+[Chapter III. Mental Transmutation](kyb05.md)  
+[Chapter IV. The All](kyb06.md)  
+[Chapter V. The Mental Universe](kyb07.md)  
+[Chapter VI. The Divine Paradox](kyb08.md)  
+[Chapter VII. ''The All'' in All](kyb09.md)  
+[Chapter VIII. Planes of Correspondence](kyb10.md)  
+[Chapter IX. Vibration](kyb11.md)  
+[Chapter X. Polarity](kyb12.md)  
+[Chapter XI. Rhythm](kyb13.md)  
+[Chapter XII. Causation](kyb14.md)  
+[Chapter XIII. Gender](kyb15.md)  
+[Chapter XIV. Mental Gender](kyb16.md)  
+[Chapter XV. Hermetic Axioms](kyb17.md)  

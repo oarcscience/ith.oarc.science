@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf05)  [Next](tsf07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf05)  [Next](tsf07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ the Mount. Yet, to one
 <span id="img_05600"></span>
 
 [![When gods made merry](tn/05600.jpg)  
-Click to enlarge](img/05600.jpg)  
+Click to enlarge](img/05600.jpg.md)  
 When gods made merry  
 
 who knew his way among them, they were not so numerous after all. Many
@@ -410,7 +410,7 @@ husband to accompany his wife to the priest and to remain a reverential
 spectator of the
 
 <span id="img_06600"></span> ![A Hindu goddess offering a
-lingam](img/06600.jpg)  
+lingam](img/06600.jpg.md)  
 A Hindu goddess offering a lingam
 
 act representing the union of god and woman. In certain parts of the
@@ -700,7 +700,7 @@ a painful
 <span id="img_07500"></span>
 
 [![A Hindu god in copulation](tn/07500.jpg)  
-Click to enlarge](img/07500.jpg)  
+Click to enlarge](img/07500.jpg.md)  
 A Hindu god in copulation  
 
 duty of which she was glad that no more was required. To another woman,
@@ -849,7 +849,7 @@ account of the female. She
 <span id="img_08000"></span>
 
 [![Venus in a phallic shrine](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 Venus in a phallic shrine  
 
 <span id="page_81">p. 81</span>
@@ -1118,7 +1118,7 @@ the same tax and regulations as other lupanars. Dufour tells us that
 
 [![Siva as the Hermaphroditic God, the eye in the center of his forehead
 symbolizing the union of the two creative forces](tn/08900.jpg)  
-Click to enlarge](img/08900.jpg)  
+Click to enlarge](img/08900.jpg.md)  
 Siva as the Hermaphroditic God, the eye in the center of his forehead
 symbolizing the union of the two creative forces  
 
@@ -1203,7 +1203,7 @@ love, natural, physical, permeating the
 <span id="img_09200"></span>
 
 [![In the Temple of Siva](tn/09200.jpg)  
-Click to enlarge](img/09200.jpg)  
+Click to enlarge](img/09200.jpg.md)  
 In the Temple of Siva  
 
 entire existence of mankind. And woman's rebellion against sex defeated
@@ -1266,7 +1266,7 @@ And the two great gods both paid homage to the
 <span id="img_09400"></span>
 
 [![Siva leaning on the lingam](tn/09400.jpg)  
-Click to enlarge](img/09400.jpg)  
+Click to enlarge](img/09400.jpg.md)  
 Siva leaning on the lingam  
 
 lingam and advised man to do likewise. They further counseled man to
@@ -1293,4 +1293,4 @@ and imprisoned came to be rescued by the gods of religion.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Love's Hidden Ways](tsf07)
+[Next: Chapter V. Love's Hidden Ways](tsf07.md)

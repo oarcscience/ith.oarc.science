@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch52) 
-[Next](pch54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch52.md) 
+[Next](pch54.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -27,7 +27,7 @@ many of the narratives concerning his life, are in terms of the
 supernaturalist beliefs of both earlier and later times. As regards the
 birth legends, they are found to quadrate in large measure with those of
 the God Krishna, and at the same time to point to many of the myths of
-the Vedas; <span id="fr_1202"></span>[1](#fn_1202) so that, whatever may
+the Vedas; <span id="fr_1202"></span>[1](#fn_1202.md) so that, whatever may
 have been
 
 <span id="page_240">p. 240</span>
@@ -93,7 +93,7 @@ consciousness of the early Buddhist community as an idea, a doctrine,
 standing alone, and merely on its own merits. In their minds it was
 indissolubly bound up with the memory of the revered and striking
 personality of him who had proclaimed it." <span
-id="fr_1203"></span>[1](#fn_1203)</span>
+id="fr_1203"></span>[1](#fn_1203.md)</span>
 
 </div>
 
@@ -112,7 +112,7 @@ up to have, for each of them also, a historical basis; to know the story
 of how the Buddha himself came to lay down the Rule to his disciples.
 And it was only the Brother who was properly acquainted with all this,
 who was accounted a real 'Doctor of the Law.'" <span
-id="fr_1204"></span>[2](#fn_1204)</span>
+id="fr_1204"></span>[2](#fn_1204.md)</span>
 
 </div>
 
@@ -120,7 +120,7 @@ id="fr_1204"></span>[2](#fn_1204)</span>
 Dhamma-pada is believed to be wholly compiled from previous books; and
 some of its best doctrines are avowedly ancient, as thus: "Hatred does
 not cease by hatred at any time: hatred ceases by love: *this is an old
-rule*." <span id="fr_1205"></span>[3](#fn_1205) Here, then, we have the
+rule*." <span id="fr_1205"></span>[3](#fn_1205.md) Here, then, we have the
 cult *making its Teaching-God* on the ordinary lines, describing him as
 supernaturally born, calling him the "Blessed One," and visibly creating
 for the traditional Teacher a flatly fictitious biography. At this early
@@ -134,18 +134,18 @@ really was.
 
 ### Footnotes
 
-<span id="fn_1202"></span>[239:1](pch53.htm#fr_1202) See E. Senart,
+<span id="fn_1202"></span>[239:1](pch53.htm#fr_1202.md) See E. Senart,
 *Essai sur la légende de Buddha*, 2e édit. 1882; Prof. Kern, *Histoire
 du Bouddhisme dans l’Inde*, Fr. tr. 1901, vol. i, liv. i, ch. ii.
 
-<span id="fn_1203"></span>[241:1](pch53.htm#fr_1203) Rhys Davids and
+<span id="fn_1203"></span>[241:1](pch53.htm#fr_1203.md) Rhys Davids and
 Oldenberg, *Vinaya Texts*, Part I, Introd. p. xvii ("Sacred Books of the
 East," vol. xiii).
 
-<span id="fn_1204"></span>[241:2](pch53.htm#fr_1204) *Ib*. p. xviii,
+<span id="fn_1204"></span>[241:2](pch53.htm#fr_1204.md) *Ib*. p. xviii,
 proceeding on the Kullavagga, ix, 5, 1.
 
-<span id="fn_1205"></span>[241:3](pch53.htm#fr_1205) *Dhamma-pada* i, 5.
+<span id="fn_1205"></span>[241:3](pch53.htm#fr_1205.md) *Dhamma-pada* i, 5.
 Max Müller's trans. S.B.E. x. Professor Rhys Davids indeed translates
 the last clause "this is always its nature" (*Buddhism*, p. 128); but he
 notes (p. 126) other cases of avowed quotation; and the collection is
@@ -153,4 +153,4 @@ visibly a far-reaching compilation. See p. 20, *note*.
 
 ------------------------------------------------------------------------
 
-[Next: § 9. Buddhism and Buddhas](pch54)
+[Next: § 9. Buddhism and Buddhas](pch54.md)

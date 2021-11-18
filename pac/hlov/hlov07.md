@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov06)  [Next](hlov08) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov06)  [Next](hlov08.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ any trouble with the natives.
 
 ------------------------------------------------------------------------
 
-[Next: III. Pele and the Owl Ghost-God](hlov08)
+[Next: III. Pele and the Owl Ghost-God](hlov08.md)

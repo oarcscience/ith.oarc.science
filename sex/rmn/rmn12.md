@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn11)  [Next](rmn13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn11)  [Next](rmn13.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ TERRA COTTA. *Height 11 5/25 inches*.
 PLATE XI.
 
 THIS grotesque little figure was found at Civita. <span
-id="fr_14"></span>[1](#fn_14) It represents one of those unfortunate
+id="fr_14"></span>[1](#fn_14.md) It represents one of those unfortunate
 beings whose only purpose in life seems to be as a kind of plaything to
 their fellow-creatures. What have they done to deserve the worst share
 in the distribution of the common heritage, those sad abortions of a
@@ -48,18 +48,18 @@ children used at school. He wears round his neck the golden ball
 (*bulla*), which distinguished the sons of the nobles and senators. The
 origin of this distinction dates from Tarquin the Elder, who awarded
 this mark of honour to his son for having conquered his opponent in
-single combat. <span id="fr_15"></span>[1](#fn_15) The *bulla* could be
+single combat. <span id="fr_15"></span>[1](#fn_15.md) The *bulla* could be
 opened at pleasure, and was used to keep talismans in.
 
 The tunic of this singular personage is raised, and reveals a phallus of
 enormous proportions. This agrees with the assertion of Theophrastus,
 that the *membrum* of dwarfs was out of all proportion with their body;
 that is to say, that the former was just as large as the latter was
-diminutive. <span id="fr_16"></span>[2](#fn_16)
+diminutive. <span id="fr_16"></span>[2](#fn_16.md)
 
 Καὶ Θεόφραστος ὡς νάννον αἰδοῖον ἔχοντα  
 μεγα, οἱ γὰρ νάννοι μέγα αἰδοῖον ἔχουσι· <span
-id="fr_17"></span>[3](#fn_17)
+id="fr_17"></span>[3](#fn_17.md)
 
  
 
@@ -67,17 +67,17 @@ id="fr_17"></span>[3](#fn_17)
 
 ### Footnotes
 
-<span id="fn_14"></span>[26:1](rmn12.htm#fr_14) A town of Naples, near
+<span id="fn_14"></span>[26:1](rmn12.htm#fr_14.md) A town of Naples, near
 Cassano, in the northern part of Calabria.
 
-<span id="fn_15"></span>[27:1](rmn12.htm#fr_15) Pliny, xxiii. 1.
+<span id="fn_15"></span>[27:1](rmn12.htm#fr_15.md) Pliny, xxiii. 1.
 
-<span id="fn_16"></span>[27:2](rmn12.htm#fr_16) The drilled vessel
+<span id="fn_16"></span>[27:2](rmn12.htm#fr_16.md) The drilled vessel
 behind this figure represents one of those drinking-cups called
 *drillopota*, of which we shall speak when explaining another plate.
 
-<span id="fn_17"></span>[27:3](rmn12.htm#fr_17) SUIDAS.--HESYCHIUS.
+<span id="fn_17"></span>[27:3](rmn12.htm#fr_17.md) SUIDAS.--HESYCHIUS.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XII: Drillopota](rmn13)
+[Next: Plate XII: Drillopota](rmn13.md)

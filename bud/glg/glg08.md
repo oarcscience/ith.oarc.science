@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](glg07)  [Next](glg09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](glg07)  [Next](glg09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3WHK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gateless Gate*, by Ekai, called Mu-mon, tr. Nyogen Senzaki and Paul
 Reps \[1934\], at Intangible Textual Heritage
 
@@ -38,4 +38,4 @@ South, north, east, and west*.
 
 ------------------------------------------------------------------------
 
-[Next: 9. A Buddha before History](glg09)
+[Next: 9. A Buddha before History](glg09.md)

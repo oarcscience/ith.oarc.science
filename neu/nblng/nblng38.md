@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng37)  [Next](nblng39) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng37)  [Next](nblng39.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ mourned them passing sore.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXXVII: How Margrave Rudeger Was Slain.](nblng39)
+[Next: Adventure XXXVII: How Margrave Rudeger Was Slain.](nblng39.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma21)  [Next](sma23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma21)  [Next](sma23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -212,7 +212,7 @@ Amusements could not be rigorously prohibited to men who were
 semi-secular, and had to mingle so much in the world as the Templars.
 They were therefore allowed to tilt, but only with headless lances;
 whether only among themselves, or also at public tournaments, is
-uncertain <span id="fr_91"></span>[\*](#fn_91). They were permitted to
+uncertain <span id="fr_91"></span>[\*](#fn_91.md). They were permitted to
 run races with their horses, but for no higher wager than a headless
 cross-bow bolt, or some other trifle. Chess and draughts were prohibited
 games; nor were they allowed to play at any other game whatever for a
@@ -229,7 +229,7 @@ crossbow, nor accompany any one thus engaged, except to protect him
 against the heathen. In fine, every species of chase was forbidden to
 the Templar, except that of the lion 'who goes about seeking whom he may
 devour, whose hand is against every one, and every one's hand against
-him' <span id="fr_92"></span>[†](#fn_92)"
+him' <span id="fr_92"></span>[†](#fn_92.md)"
 
 The battle was the Templar's scene of glory, and
 
@@ -244,7 +244,7 @@ forward at the voice of their marshal, the standard-bearer preceding
 them with the standard of the order. They moved in a walk or a small
 trot. The march usually took place by night, on account of the heat of
 eastern climes, and every precaution was adopted to prevent confusion or
-inconvenience. When the standard halted for [encampment](errata.htm#19),
+inconvenience. When the standard halted for [encampment](errata.htm#19.md),
 the marshal selected a place for his own tent and the chapel, which was
 to contain the true cross; the tents of the server, and of the
 great-prior of the province, had also their places marked out. It was
@@ -327,14 +327,14 @@ which they had been originally renowned.
 
 ### Footnotes
 
-<span id="fn_91"></span>[272:\*](sma22.htm#fr_91) Sir W. Scott would
+<span id="fn_91"></span>[272:\*](sma22.htm#fr_91.md) Sir W. Scott would
 probably find some difficulty in justifying his making his Templar
 accept the combat *à outrance* at the "gentle and free passage of Ashby
 de la Zouche."
 
-<span id="fn_92"></span>[272:†](sma22.htm#fr_92) It is not clear whether
+<span id="fn_92"></span>[272:†](sma22.htm#fr_92.md) It is not clear whether
 this is to be understood literally or metaphorically.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](sma23)
+[Next: Chapter IX](sma23.md)

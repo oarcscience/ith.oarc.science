@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe16)  [Next](spe18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe16)  [Next](spe18.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@ practised upon open greens or in bowling-alleys, was probably an
 invention of the middle ages. I cannot by any means ascertain the time
 of its introduction; but I have traced it back to the thirteenth
 century. The earliest representation of a game played with bowls occurs
-on [plate thirty](#img_pl30) from a manuscript of that century. <span
-id="fr_749"></span>[1](#fn_748)
+on [plate thirty](#img_pl30.md) from a manuscript of that century. <span
+id="fr_749"></span>[1](#fn_748.md)
 
 Here two small cones are placed upright at a distance from each other;
 and the business of the players is evidently to bowl at them
@@ -52,7 +52,7 @@ day, and following his cast with much eagernesse, he cryed, 'Rubbe,
 rubbe, rubbe, rubbe, rubbe.' His chaplain (a very strict mann) runns
 presently to him; and, in the hearing of diverse, 'O good my Lord, leave
 that to God--you must leave that to God!' says he." <span
-id="fr_750"></span>[2](#fn_749)
+id="fr_750"></span>[2](#fn_749.md)
 
 The following little poem, by William Stroad, which I found in "Justin
 
@@ -61,7 +61,7 @@ The following little poem, by William Stroad, which I found in "Justin
 <span id="img_pl30"></span>
 
 [![Bowling](tn/pl30.jpg)  
-Click to enlarge](img/pl30.jpg)  
+Click to enlarge](img/pl30.jpg.md)  
 Bowling  
 
  
@@ -70,7 +70,7 @@ Bowling
 
 \[paragraph continues\] Pagitt's Memorandum Book" (1633), one of the
 Harleian manuscripts at the British Museum, <span
-id="fr_751"></span>[1](#fn_750) expresses happily enough the turns and
+id="fr_751"></span>[1](#fn_750.md) expresses happily enough the turns and
 chances of the game of bowls:
 
 A PARALLEL BETWIXT BOWLING AND PREFERMENT
@@ -136,7 +136,7 @@ was a very popular amusement. In most country towns of any note they are
 to be found, and some few are still remaining in the vicinity of the
 metropolis; but none of them, I believe, are now so generally frequented
 as they were accustomed to be formerly. <span
-id="fr_752"></span>[1](#fn_751)
+id="fr_752"></span>[1](#fn_751.md)
 
 BOWLING-ALLEYS.--The inconveniency to which the open greens for bowling
 were necessarily obnoxious, suggested, I presume, the idea of making
@@ -158,7 +158,7 @@ mansion, supposes it not to be complete without "a bowling-alley."
 recommended his patients to make use of "bowling in allayes, the weather
 convenient, and the bowles fitte to such a game, as eyther in playne or
 longe allayes, or in suche as have crankes with halfe bowles, whiche is
-the fyner and gentler exercise." <span id="fr_753"></span>[2](#fn_752)
+the fyner and gentler exercise." <span id="fr_753"></span>[2](#fn_752.md)
 The reference to alleys and convenient weather is a reminder that the
 term "bowling-alley" as then used did not necessarily mean a covered-in
 place with a boarded floor, and might apply to a hedged-in turfed path
@@ -188,7 +188,7 @@ allies; and for his sport, the chusing of the bowle is the greatest
 cunning; your flat bowles being best for allies, your round byazed
 bowles for open grounds of advantage, and your round bowles, like a
 ball, for green swarthes that are plain and level." <span
-id="fr_754"></span>[1](#fn_753)
+id="fr_754"></span>[1](#fn_753.md)
 
 \* GAMING AT BOWLS.--Charles Cotton's *Compleat Gamester*, first issued
 in 1674, complains that bowling would be a much more commendable sport
@@ -253,10 +253,10 @@ and the former in one row only. The two delineations here copied, from
 fourteenth century manuscripts, represent that species of the game
 called club-kayles, *jeux de quilles à baston*, so denominated from the
 club or cudgel that was thrown at them. <span
-id="fr_755"></span>[1](#fn_754)
+id="fr_755"></span>[1](#fn_754.md)
 
 CLOSH.--The game of cloish, or closh, mentioned frequently in the
-ancient statutes, <span id="fr_756"></span>[2](#fn_755) seems to have
+ancient statutes, <span id="fr_756"></span>[2](#fn_755.md) seems to have
 been the same as kayles, or at least exceedingly like it: cloish was
 played with pins, which were thrown at with a bowl instead of a
 truncheon, and probably differed only in name from the nine-pins of the
@@ -273,7 +273,7 @@ bone instead of bowling." Hence Shakespeare, in Hamlet, speaks thus:
 "did these bones cost no more the breeding, but to play at loggats with
 them?" And this game is evidently referred to in an old play, entitled
 "The longer thou livest the more Fool thou art," published in the reign
-of queen Elizabeth, <span id="fr_757"></span>[3](#fn_756) where a dunce
+of queen Elizabeth, <span id="fr_757"></span>[3](#fn_756.md) where a dunce
 boasts of his skill
 
 At skales, and the playing with a sheepes-joynte.
@@ -298,7 +298,7 @@ frame
 <span id="img_pl31"></span>
 
 [![Kayles](tn/pl31.jpg)  
-Click to enlarge](img/pl31.jpg)  
+Click to enlarge](img/pl31.jpg.md)  
 Kayles  
 
  
@@ -344,7 +344,7 @@ bowl, which sometimes weighs six or eight pounds. The excellency of the
 game consists in beating them down by the fewest casts of the bowl.
 
 HALF-BOWL.--Half-bowl is one of the "new imagined" games prohibited in
-1477 in favour of archery, <span id="fr_758"></span>[1](#fn_757) and
+1477 in favour of archery, <span id="fr_758"></span>[1](#fn_757.md) and
 received its denomination from being played with one half of a sphere of
 wood. Half-bow is practised to this day (1800) in Hertfordshire, where
 it is commonly called rolly-polly; and it is best performed upon the
@@ -399,7 +399,7 @@ game is reckoned; and he who obtains the highest number is the winner.
 Doctor Johnson confounds this pastime with that of kayles, and says, "it
 is a kind of play still retained in Scotland, in which nine holes,
 ranged in threes, are made in the ground, and an iron bullet rolled in
-among them." <span id="fr_759"></span>[1](#fn_758)
+among them." <span id="fr_759"></span>[1](#fn_758.md)
 
 I have formerly seen a pastime practised by schoolboys, called
 nine-holes: it was played with marbles, which they bowled at a board,
@@ -477,13 +477,13 @@ and the others in succession, until they do come so.
 COCK-FIGHTING.--This barbarous pastime, which claims the sanction of
 high antiquity, was practised at an early period by the Grecians, and
 probably still more anciently in Asia. It is a very common sport, and of
-very long standing, in China. <span id="fr_760"></span>[1](#fn_759) It
-was practised by the Romans: <span id="fr_761"></span>[2](#fn_760) with
+very long standing, in China. <span id="fr_760"></span>[1](#fn_759.md) It
+was practised by the Romans: <span id="fr_761"></span>[2](#fn_760.md) with
 us, it may be traced back to the twelfth century; at which period we are
 certain it was in usage; and seems to have been considered as a childish
 sport. "Every year," says Fitzstephen, "on the morning of
 Shrove-Tuesday, the school-boys of the city of London <span
-id="fr_762"></span>[3](#fn_761) bring game cocks to their masters, and
+id="fr_762"></span>[3](#fn_761.md) bring game cocks to their masters, and
 in the fore part of the day, till dinner time, they are permitted to
 amuse themselves with seeing them fight." Probably the same custom
 prevailed in other cities and great towns. Stow having cited the
@@ -491,13 +491,13 @@ preceding passage from Fitzstephen, adds, "cocks of the game are yet,"
 that is at the close of the sixteenth century, "cherished by divers men
 for their pleasures, much money being laid on their heads when they
 fight in pits, whereof some are costly made for that purpose." <span
-id="fr_763"></span>[4](#fn_762) The cock-pit was the school, and the
+id="fr_763"></span>[4](#fn_762.md) The cock-pit was the school, and the
 master the controller and director of the pastime. This custom,
 according to Mr. Brand, "was retained in many schools in Scotland within
 the last century, and perhaps may be still in use there: the
 schoolmasters claimed the runaway cocks as their perquisites; and these
 were called fugees, 'corrupt, I suppose,' says he, 'of refugees.'" <span
-id="fr_764"></span>[5](#fn_763)
+id="fr_764"></span>[5](#fn_763.md)
 
 In the reign of Edward III. cock-fighting became a fashionable
 amusement; it was then taken up more seriously than it formerly had
@@ -508,10 +508,10 @@ ranked with other idle and unlawful pastimes. But notwithstanding it was
 thus degraded and discountenanced, it still maintained its popularity,
 and in defiance of all temporary opposition has descended to the modern
 times. Among the additions made by Henry VIII. to the palace at
-Whitehall, was a cock-pit; <span id="fr_765"></span>[6](#fn_764) which
+Whitehall, was a cock-pit; <span id="fr_765"></span>[6](#fn_764.md) which
 indicates his relish for the pastime of cock-fighting; and James I. was
 so partial to this diversion, that he amused himself in seeing it twice
-a week. <span id="fr_766"></span>[7](#fn_765)
+a week. <span id="fr_766"></span>[7](#fn_765.md)
 
 <span id="page_225">p. 225</span>
 
@@ -532,13 +532,13 @@ bearing Sir Thomas's name, had many betts layd upon his head; but after
 three or four good brushes, he showed a payre of heeles: every one
 wondered to see a cock belonging to Sir Thomas cry *craven*, and away
 came the man with his money doubled." <span
-id="fr_767"></span>[1](#fn_766)
+id="fr_767"></span>[1](#fn_766.md)
 
 I shall not expatiate upon the nature and extent of this fashionable
 divertisement; but merely mention a part of it called the Welch main,
 which seems to be an abuse of the modern times; and as a late judicious
 author justly says, "a disgrace to us as Englishmen." <span
-id="fr_768"></span>[2](#fn_767) It consists of a certain or given number
+id="fr_768"></span>[2](#fn_767.md) It consists of a certain or given number
 of pairs of cocks, suppose sixteen, which fight with each other until
 one half of them are killed; the sixteen conquerors are pitted a second
 time in like manner, and half are slain; the eight survivors, a third
@@ -646,7 +646,7 @@ past put a stop to this wicked custom, and at present (1800) it is
 nearly, if not entirely, discontinued in every part of the kingdom.
 
 Heath, in his account of the Scilly Islands, <span
-id="fr_769"></span>[1](#fn_768) speaking of St Mary's, says, "on
+id="fr_769"></span>[1](#fn_768.md) speaking of St Mary's, says, "on
 Shrove-Tuesday each year, after the throwing at cocks is over, the boys
 of this island have a custom of throwing stones in the evening against
 the doors of the dwellers' houses; a privilege they claim from time
@@ -720,86 +720,86 @@ squirrels, and recommence hunting them again in a similar manner."
 as a Christmas custom in parts of the New Forest, particularly at
 Brockenhurst. The hunted squirrels are made into pies, which are said to
 be more delicate in flavour than rabbits. <span
-id="fr_770"></span>[1](#fn_769)
+id="fr_770"></span>[1](#fn_769.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_748"></span>[216:1](spe17.htm#fr_749) Roy. Lib. No. 20, E.
+<span id="fn_748"></span>[216:1](spe17.htm#fr_749.md) Roy. Lib. No. 20, E.
 iv.
 
-<span id="fn_749"></span>[216:2](spe17.htm#fr_750) L’Estrange's
+<span id="fn_749"></span>[216:2](spe17.htm#fr_750.md) L’Estrange's
 *Anecdotes*, No. 164.
 
-<span id="fn_750"></span>[217:1](spe17.htm#fr_751) No. 1026, p. 41.
+<span id="fn_750"></span>[217:1](spe17.htm#fr_751.md) No. 1026, p. 41.
 
-<span id="fn_751"></span>[218:1](spe17.htm#fr_752) \* Towards the close
+<span id="fn_751"></span>[218:1](spe17.htm#fr_752.md) \* Towards the close
 of the nineteenth century the revival in bowls was remarkable, and it
 still continues to grow in favour. There are bowling clubs in most
 towns, and the old bowling-greens attached to country inns, particularly
 In Norfolk, are again places of much resort.
 
-<span id="fn_752"></span>[218:2](spe17.htm#fr_753) *The Benefit of the
+<span id="fn_752"></span>[218:2](spe17.htm#fr_753.md) *The Benefit of the
 Auncient Bathes of Buckstones*, 1572.
 
-<span id="fn_753"></span>[219:1](spe17.htm#fr_754) *Country
+<span id="fn_753"></span>[219:1](spe17.htm#fr_754.md) *Country
 Contentments*, 1615.
 
-<span id="fn_754"></span>[220:1](spe17.htm#fr_755) Roy. Lib. No. 2, B.
+<span id="fn_754"></span>[220:1](spe17.htm#fr_755.md) Roy. Lib. No. 2, B.
 vii.; Mr Douce's MS.
 
-<span id="fn_755"></span>[220:2](spe17.htm#fr_756) An. 17 Edw. IV. cap.
+<span id="fn_755"></span>[220:2](spe17.htm#fr_756.md) An. 17 Edw. IV. cap.
 3; again 18 and 20 Hen. VIII. etc.; in all which acts this game is
 prohibited.
 
-<span id="fn_756"></span>[220:3](spe17.htm#fr_757) Garrick's
+<span id="fn_756"></span>[220:3](spe17.htm#fr_757.md) Garrick's
 *Collection*, vol. i. 18.
 
-<span id="fn_757"></span>[221:1](spe17.htm#fr_758) An. 17 Edw. IV. cap.
+<span id="fn_757"></span>[221:1](spe17.htm#fr_758.md) An. 17 Edw. IV. cap.
 3; the prohibition extends also to closh and kayles.
 
-<span id="fn_758"></span>[222:1](spe17.htm#fr_759) Dictionary, word
+<span id="fn_758"></span>[222:1](spe17.htm#fr_759.md) Dictionary, word
 *kayle*.
 
-<span id="fn_759"></span>[224:1](spe17.htm#fr_760) *Philos. Transact*.
+<span id="fn_759"></span>[224:1](spe17.htm#fr_760.md) *Philos. Transact*.
 vol. xix. p. 591.
 
-<span id="fn_760"></span>[224:2](spe17.htm#fr_761) For a full
+<span id="fn_760"></span>[224:2](spe17.htm#fr_761.md) For a full
 explanation of the manner of cock-fighting among the ancient Greeks and
 Romans, see a memoir upon that subject by Dr Pegge, *Archæologia*, vol.
 iii. p. 132.
 
-<span id="fn_761"></span>[224:3](spe17.htm#fr_762) *Description of
+<span id="fn_761"></span>[224:3](spe17.htm#fr_762.md) *Description of
 London*; temp. Hen. II.
 
-<span id="fn_762"></span>[224:4](spe17.htm#fr_763) *Survey of London*,
+<span id="fn_762"></span>[224:4](spe17.htm#fr_763.md) *Survey of London*,
 p. 76.
 
-<span id="fn_763"></span>[224:5](spe17.htm#fr_764) Bourne's *Antiq.
+<span id="fn_763"></span>[224:5](spe17.htm#fr_764.md) Bourne's *Antiq.
 Vulgares* by Brand, p. 233.
 
-<span id="fn_764"></span>[224:6](spe17.htm#fr_765) Stow's *Survey of
+<span id="fn_764"></span>[224:6](spe17.htm#fr_765.md) Stow's *Survey of
 London*, p. 496.
 
-<span id="fn_765"></span>[224:7](spe17.htm#fr_766) Mons. de la Boderie's
+<span id="fn_765"></span>[224:7](spe17.htm#fr_766.md) Mons. de la Boderie's
 *Letters*, vol. i. p. 56.
 
-<span id="fn_766"></span>[225:1](spe17.htm#fr_767) MS. Harl. 6395,
+<span id="fn_766"></span>[225:1](spe17.htm#fr_767.md) MS. Harl. 6395,
 written in the reign of James I., and bearing this title: "Merry
 Passages and Jeasts."
 
-<span id="fn_767"></span>[225:2](spe17.htm#fr_768) Mr Pegge's "Memoir on
+<span id="fn_767"></span>[225:2](spe17.htm#fr_768.md) Mr Pegge's "Memoir on
 Cock-fighting," *Archæol*. vol. p. 132.
 
-<span id="fn_768"></span>[227:1](spe17.htm#fr_769) Published in London,
+<span id="fn_768"></span>[227:1](spe17.htm#fr_769.md) Published in London,
 1750.
 
-<span id="fn_769"></span>[228:1](spe17.htm#fr_770) I talked to various
+<span id="fn_769"></span>[228:1](spe17.htm#fr_770.md) I talked to various
 New Forest squirrel hunters in 1900. They are most indignant at the
 charge of wanton cruelty made against them, saying that, at all events,
 fox hunters do not eat the foxes they kill. J. C. C.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](spe18)
+[Next: Chapter I](spe18.md)

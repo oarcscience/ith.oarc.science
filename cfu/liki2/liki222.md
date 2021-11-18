@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki221)  [Next](liki223) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki221)  [Next](liki223.md) 
 
 ------------------------------------------------------------------------
 
@@ -534,6 +534,6 @@ magnifying their state\[1\].
 ------------------------------------------------------------------------
 
 [Next: XXIII. King Kieh or The Different Teaching of the Different
-Kings](liki223)
+Kings](liki223.md)
 
   

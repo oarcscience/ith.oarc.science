@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce28)  [Next](sce30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce28)  [Next](sce30.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 ### INTRODUCTION.
 
-Note (<span id="xref_a">a</span>), [p. xvi](sce03.htm#page_xvi).--"The
+Note (<span id="xref_a">a</span>), [p. xvi](sce03.htm#page_xvi.md).--"The
 Psychical Society."
 
 The Psychical Society, as far as the writer is aware has not examined
@@ -19,7 +19,7 @@ officially the old accounts of the phenomena which it investigates at
 present. The Catalogue of the Society's Library, however, proves that it
 does not lack the materials.
 
-Note (<span id="xref_b">b</span>), [p. xxx](sce05.htm#page_xxx).--"Their
+Note (<span id="xref_b">b</span>), [p. xxx](sce05.htm#page_xxx.md).--"Their
 speech is a kind of whistling."
 
 That the voice of spirits is a kind of whistling, twittering, or
@@ -41,7 +41,7 @@ Janeiro as "rather frequent " (*Proc. S. P. R.*,
 81 xix. 180). Here children were the mediums; how did they get the idea
 of the traditional whistle? See also the following note.
 
-Note (<span id="xref_c">c</span>), [p. xl](sce06.htm#page_xl).--"Not
+Note (<span id="xref_c">c</span>), [p. xl](sce06.htm#page_xl.md).--"Not
 long after the Spanish conquest of Peru."
 
 The phenomena alluded to here are said to have occurred in 1549. The
@@ -50,7 +50,7 @@ been an eye-witness. But, as Mr. Clements Markham, Cieza's editor,
 remarks, the phenomena are analogous to those of spiritualism. At the
 very least, we find a belief in this kind of manifestation at a remote
 date, and in an outlandish place. Cieza says: <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
 "When the Adelantado Belalcazar was governor of the province of Popyan,
 and when Gomez Hernandez was his lieutenant in the town of Auzerma,
@@ -95,7 +95,7 @@ was not troubled after his baptism. The illusions of the
 newly-converted, so like those of the early Christian hermits, are
 described by Callaway in his *Zulu Tales*.
 
-Note (<span id="xref_d">d</span>), [p. 1](sce09.htm#page_1).
+Note (<span id="xref_d">d</span>), [p. 1](sce09.htm#page_1.md).
 
 Priestley's explanation of the Epworth disturbances is imposture by the
 servants, by way of a practical joke.
@@ -121,7 +121,7 @@ they wished they could set him to work; and beyond the trembling of the
 children when Jeffrey was knocking during their sleep, there is no sign
 of morbid conditions. A neighbouring clergyman, who was asked to pass a
 night in the house, saw and heard just what the others heard and
-saw. <span id="fr_38"></span>[1](#fn_38) The hypothesis of a contagious
+saw. <span id="fr_38"></span>[1](#fn_38.md) The hypothesis of a contagious
 nervous disease, in which every witness exhibits the same symptoms of
 illusion in all parts of the world, is a theory which needs a good deal
 of verification. Where material traces of the disturbances remain, it is
@@ -152,7 +152,7 @@ competent witness, then it is not hard to say which theory we ought to
 choose. For imposture see next note.
 
 Note (<span id="xref_e">e</span>), [p.
-lvii](sce06.htm#page_lvii).--"Children at *séances*."
+lvii](sce06.htm#page_lvii.md).--"Children at *séances*."
 
 The phenomena discussed are most frequently connected with children, who
 may be regarded either as mediums or impostors, conscious or
@@ -176,7 +176,7 @@ can do a great deal in the way of mere imposture. The state of any young
 Wesley who might have been caught out is unenviable. Verily Mr. Wesley
 would not have spared for his crying.
 
-Note (<span id="xref_f">f</span>), [p. lxii](sce07.htm#page_lxii).--"The
+Note (<span id="xref_f">f</span>), [p. lxii](sce07.htm#page_lxii.md).--"The
 pricking of witches."
 
 It is pretty certain that some of these unlucky old women were pricked
@@ -184,7 +184,7 @@ It is pretty certain that some of these unlucky old women were pricked
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Note (<span id="xref_a1">a1</span>), [p. 8](sce12.htm#page_8).--"These
+Note (<span id="xref_a1">a1</span>), [p. 8](sce12.htm#page_8.md).--"These
 Arrows that fly in the Dark."
 
 The arrows are the ancient flint arrow-heads, which Mr. Kirk later
@@ -215,7 +215,7 @@ for bewitching him. A fast was proclaimed. The boy recovered, and did
 good service in the navy. He is said to have been "levitated"
 frequently."
 
-Note (<span id="xref_b1">b1</span>), [p. 11](sce13.htm#page_11).--" Milk
+Note (<span id="xref_b1">b1</span>), [p. 11](sce13.htm#page_11.md).--" Milk
 thorow a hair-tedder. "
 
 Isabel Gowdie confessed to stealing milk from the cow by magic. "We
@@ -226,7 +226,7 @@ the Devil's name, and thereby take with us the cow's milk."
 Mr. Kirk, it will be observed, does not connect the Fairy kingdom with
 that of Satan, as some of his contemporaries were inclined to do.
 
-Note (<span id="xref_c1">c1</span>), [p. 19](sce17.htm#page_19).--"The
+Note (<span id="xref_c1">c1</span>), [p. 19](sce17.htm#page_19.md).--"The
 Wreath (wraith) . . . is only exuvious fumes of the Man. . . . exhaled
 and congealed into a various likeness."
 
@@ -245,7 +245,7 @@ with "ignorant and unwary" Highland seers. Both regard the phantasms as
 manifestations of "nerve-force," "exuvious fumes," and as "neither souls
 nor counterfeiting spirits."
 
-Note (<span id="xref_d1">d1</span>), [p. 23](sce19.htm#page_23).--"Fairy
+Note (<span id="xref_d1">d1</span>), [p. 23](sce19.htm#page_23.md).--"Fairy
 hills."
 
 The hypothesis that the Fairy belief may be a tradition of an ancient
@@ -259,7 +259,7 @@ some detail "this marvellously absurd supposition," as the *Quarterly
 Review* calls it (vol. lix., p. 280).
 
 Note (<span id="xref_e1">e1</span>), [p.
-30](sce22.htm#page_30).--"Master Greatrake, the Irish Stroaker."
+30](sce22.htm#page_30.md).--"Master Greatrake, the Irish Stroaker."
 
 Glanvill, in *Essays on Several Important Subjects* (1675), prints a
 letter from an Irish Bishop on Greatrex, the "stroker." He cured
@@ -274,12 +274,12 @@ Boyle*. London, 1666.
 
 ### Footnotes
 
-<span id="fn_37"></span>[82:1](sce29.htm#fr_37) *The Travels of Pedro de
+<span id="fn_37"></span>[82:1](sce29.htm#fr_37.md) *The Travels of Pedro de
 Cieza de Leon*, ch. cxviii.
 
-<span id="fn_38"></span>[84:1](sce29.htm#fr_38) Mr. Hoole's account,
+<span id="fn_38"></span>[84:1](sce29.htm#fr_38.md) Mr. Hoole's account,
 *Memoirs of the Wesleys*, p. 91.
 
 ------------------------------------------------------------------------
 
-[Next: Postscript](sce30)
+[Next: Postscript](sce30.md)

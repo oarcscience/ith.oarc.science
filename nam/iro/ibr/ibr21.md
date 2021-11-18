@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr20)  [Next](ibr22) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr20)  [Next](ibr22.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,7 +59,7 @@ British
 <span id="page_188">p. 188</span>
 
 Islands it gives the predominant cast to the character of the
-people. <span id="fr_84"></span>[1](#fn_84)
+people. <span id="fr_84"></span>[1](#fn_84.md)
 
 If the early population of Europe were really similar to that of
 America, then we may infer that it was composed of many tribes,
@@ -80,7 +80,7 @@ Atlantic, not merely once, but in many successive emigrations from
 different parts of western Europe. The distance is less than that which
 the canoes of the Polynesians were accustomed to traverse. The
 derivation of the American population from this source presents no
-serious improbability whatever. <span id="fr_85"></span>[2](#fn_85)
+serious improbability whatever. <span id="fr_85"></span>[2](#fn_85.md)
 
 <span id="page_189">p. 189</span>
 
@@ -149,7 +149,7 @@ are assured to the world.
 
 ### Footnotes
 
-<span id="fn_84"></span>[188:1](ibr21.htm#fr_84) "The Basque may then be
+<span id="fn_84"></span>[188:1](ibr21.htm#fr_84.md) "The Basque may then be
 the sole surviving relic and witness of an aboriginal western European
 population, dispossessed by the intrusive Indo-European tribes. It
 stands entirely alone, no kindred having yet been found for it in any
@@ -161,7 +161,7 @@ domain of the New World, since there is no other dialect of the Old
 World which so much resembles in structure the American languages."
 Professor Whitney, in "The Life and Growth of Language," p. 258.
 
-<span id="fn_85"></span>[188:2](ibr21.htm#fr_85) The distance from
+<span id="fn_85"></span>[188:2](ibr21.htm#fr_85.md) The distance from
 Ireland to Newfoundland is only sixteen hundred miles. The distance from
 the Sandwich Islands to Tahiti (whence the natives of the former group
 affirm that their ancestors came) is twenty-two hundred miles. The
@@ -178,4 +178,4 @@ question, with instances of long canoe voyages.
 
 ------------------------------------------------------------------------
 
-[Next: Caniega Glossary](ibr22)
+[Next: Caniega Glossary](ibr22.md)

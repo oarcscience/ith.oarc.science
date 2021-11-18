@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm37)  [Next](bnm39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm37)  [Next](bnm39.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ hall of the goddess."
 
 ------------------------------------------------------------------------
 
-[Next: Why The Juniper Has Berries.](bnm39)
+[Next: Why The Juniper Has Berries.](bnm39.md)

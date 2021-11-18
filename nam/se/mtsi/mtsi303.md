@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi302)  [Next](mtsi304) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi302)  [Next](mtsi304.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ when the sun shone out hot the wings turned to powder.
 
 ------------------------------------------------------------------------
 
-[Next: 39. The Indian Munchausen](mtsi304)
+[Next: 39. The Indian Munchausen](mtsi304.md)

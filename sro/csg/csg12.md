@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](csg11)  [Next](csg13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](csg11)  [Next](csg13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKKM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -492,4 +492,4 @@ to permit him to live in his own fashion.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix IV. Extracts from The Memoirs of Hardenbrock...](csg13)
+[Next: Appendix IV. Extracts from The Memoirs of Hardenbrock...](csg13.md)

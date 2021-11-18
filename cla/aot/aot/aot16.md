@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot15) 
-[Next](aot17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot15.md) 
+[Next](aot17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -204,14 +204,14 @@ if you supply the needs of those in want and make their wealth secure
 for those with many goods. Be fearful of the power to do whate’er you
 please, so will you use it with more prudence. Do not lop off the ears
 of corn that show beyond the rest and raise their heads—for Aristotle is
-not just in this <span id="fr_115"></span>[\*](#fn_115)—but rather weed
+not just in this <span id="fr_115"></span>[\*](#fn_115.md)—but rather weed
 their disaffection out like tares from corn, and show yourself a fear to
 stirrers up of strife not in 'I punish you' but in 'I *will* do so.'
 Submit yourself to law, O prince, for you will make the laws with
 greater wisdom if you do not despise the law yourself. Pay reverence
 more than ever to the Gods; great are the gifts you have received from
 them, and for great things you pray. <span
-id="fr_116"></span>[†](#fn_116) In what concerns the state act as a
+id="fr_116"></span>[†](#fn_116.md) In what concerns the state act as a
 king; in what concerns yourself, act as
 
 <span id="page_140">p. 140</span>
@@ -352,12 +352,12 @@ surprising—the "that which they do—not with shame."
 
 ### Footnotes
 
-<span id="fn_115"></span>[139:\*](aot16.htm#fr_115) See Chassang, op.
+<span id="fn_115"></span>[139:\*](aot16.htm#fr_115.md) See Chassang, op.
 cit., p. 458, for a criticism on this statement.
 
-<span id="fn_116"></span>[139:†](aot16.htm#fr_116) This was before
+<span id="fn_116"></span>[139:†](aot16.htm#fr_116.md) This was before
 Vespasian became emperor.
 
 ------------------------------------------------------------------------
 
-[Next: Section XVI. From His Letters](aot17)
+[Next: Section XVI. From His Letters](aot17.md)

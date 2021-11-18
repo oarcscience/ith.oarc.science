@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar100) [Next](gbar102)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar100) [Next](gbar102.md)
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ of God; nay he hateth his Creator.
 
 ------------------------------------------------------------------------
 
-[Next](gbar102)
+[Next](gbar102.md)

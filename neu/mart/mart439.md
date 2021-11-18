@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK XVIII CHAPTER X
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK XVIII](book17) 
-[Previous](mart438)  [Next](mart440) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK XVIII](book17.md) 
+[Previous](mart438)  [Next](mart440.md) </span>
 
 ------------------------------------------------------------------------
 

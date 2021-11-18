@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb05)  [Next](pifb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb05)  [Next](pifb07.md) 
 
 </div>
 
@@ -214,6 +214,6 @@ improved, and will never again suffer poor animals to go hungry.'
 
 ------------------------------------------------------------------------
 
-[Next: Uraschimataro and the Turtle](pifb07)
+[Next: Uraschimataro and the Turtle](pifb07.md)
 
 </div>

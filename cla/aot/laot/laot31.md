@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot30) 
-[Next](laot32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot30.md) 
+[Next](laot32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -152,7 +152,7 @@ upon me as the talent of Aeschylus is said to have made upon the
 Athenians. For he was a poet of tragedy, and finding the art to be rude
 and inchoate and as yet not in the least elaborated, he went to work,
 and curtailed the prolixity of the chorus <span
-id="fr_16"></span>[1](#fn_16), and invented dialogues for the actors,
+id="fr_16"></span>[1](#fn_16.md), and invented dialogues for the actors,
 discarding the long monodies of the earlier time; and he hit upon a plan
 of killing people behind the stage instead of their being slain before
 the eyes of the audience. Well, if we cannot deny his talent in making
@@ -315,7 +315,7 @@ philosopher's cloak and hangs a wallet on his back is a creature of
 ornament; nay, more even the nakedness which you affect, in spite of its
 rough and plain appearance, has for its object ornament and decoration,
 and it is not even exempt from the proverbial "pride of your own sort to
-match" <span id="fr_17"></span>[1](#fn_17). We must judge by their own
+match" <span id="fr_17"></span>[1](#fn_17.md). We must judge by their own
 standard the religion of the Sun and the national rites of the Indians
 and any cult in which that god delights; for the subterranean gods will
 always prefer deep trenches and ceremonies conducted in the hollows of
@@ -762,12 +762,12 @@ about justice that I shall now put a question."
 
 ### Footnotes
 
-<span id="fn_16"></span>[2:47:1](laot31.htm#fr_16) or "reduced in size
+<span id="fn_16"></span>[2:47:1](laot31.htm#fr_16.md) or "reduced in size
 the unduly large choruses."
 
-<span id="fn_17"></span>[2:57:1](laot31.htm#fr_17) See Plato's retort in
+<span id="fn_17"></span>[2:57:1](laot31.htm#fr_17.md) See Plato's retort in
 Diogenes Laertius, 6. 26.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 21-30](laot32)
+[Next: Chapters 21-30](laot32.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam00)  [Next](lam02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam00)  [Next](lam02.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ FRANK L. HAMMER      
 
 ------------------------------------------------------------------------
 
-[Next: Contents](lam02)
+[Next: Contents](lam02.md)

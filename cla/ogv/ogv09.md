@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv08)  [Next](ogv10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv08)  [Next](ogv10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -28,12 +28,12 @@ imprint. A philosophical observer, academician of Calcutta, turning an
 investigating eye upon that part of the terrestrial continent, has
 recognized there five principal nations, among which that of the Indians
 holds the first rank; the others are those of the Chinese, Tartars,
-Persians, and Arabs. <span id="fr_194"></span>[1](#fn_194) According to
+Persians, and Arabs. <span id="fr_194"></span>[1](#fn_194.md) According to
 this able writer, primitive India should be considered as a sort of
 luminous focus which, concentrating at a very remote epoch the learning
 acquired by an earlier people, has reflected it, and has dispersed the
 rays upon the neighbouring nations. <span
-id="fr_195"></span>[2](#fn_195) She has been the source of Egyptian,
+id="fr_195"></span>[2](#fn_195.md) She has been the source of Egyptian,
 Greek, and Latin theogony; she has furnished the philosophical dogmas
 with which the first poets of Thrace and Ionia have adorned the beauties
 of Eumolpœia and Epopœia; it is she who has polished the Persians,
@@ -44,7 +44,7 @@ entertained relations
 
 with the Chinese, Japanese, Scandinavians, Celts, Etruscans, and even
 with the Peruvians of the other hemisphere. <span
-id="fr_196"></span>[1](#fn_196)
+id="fr_196"></span>[1](#fn_196.md)
 
 If one listens to the discourse of those who have been much inclined to
 study the savant language of the Indians, Sanskrit, he will be persuaded
@@ -52,7 +52,7 @@ that it is the most perfect language that man has ever spoken. Nothing,
 according to them, can surpass its riches, its fertility, its admirable
 structure; it is the source of the most poetic conceptions and the
 mother of all the dialects which are in use from the Persian Gulf to the
-waters of China. <span id="fr_197"></span>[2](#fn_197) It is certain
+waters of China. <span id="fr_197"></span>[2](#fn_197.md) It is certain
 that if anything can prove to the eyes of savants the maternal rights
 that this tongue claims over all the others, it is the astonishing
 variety of its poetry: what other peoples possess in detail, it
@@ -62,7 +62,7 @@ rational, poetry allegorical and passionate, poetry stirring and even
 romantic, find their cradle. There, all forms are admitted, all kinds of
 verse received. The *Vedas*, pre-eminently sacred books, are, like the
 Koran of Mohammed, written in cadenced prose <span
-id="fr_198"></span>[3](#fn_198) The *Pouranas*, which contain the
+id="fr_198"></span>[3](#fn_198.md) The *Pouranas*, which contain the
 theosophy and philosophy of the Brahmans, their system concerning
 Nature, their ideas upon morals and upon natural philosophy, are
 composed in philosophical verse not rhymed; they are attributed to
@@ -71,7 +71,7 @@ displayed in the *Ramayana* an epopœia magnificent and sublime to the
 highest degree; the dramas, which they call Nataks, are, according to
 their style, rhymed and not rhymed: Bheret is considered as their
 inventor; Kalidasa as their perfecter. <span
-id="fr_199"></span>[4](#fn_199) The other kinds of poetry are all
+id="fr_199"></span>[4](#fn_199.md) The other kinds of poetry are all
 
 <span id="page_77">p. 77</span>
 
@@ -79,7 +79,7 @@ rhymed; their number is immense; their variety infinite. Nothing equals
 the industry and delicacy of the Indian rhymers in this style. The.
 Arabs all skilful as they were, the Oscar troubadours whose rhyme was
 their sole merit, have never approached their models. <span
-id="fr_200"></span>[1](#fn_200) Thus, not only does one find among the
+id="fr_200"></span>[1](#fn_200.md) Thus, not only does one find among the
 Indians the measured verse of the Greeks and Romans, not only does one
 see there rhythms unknown to these two peoples, but one recognizes also
 there our rhyme with combinations of which we have no idea.
@@ -103,7 +103,7 @@ to the sublime, and fell into the bombastic. At last, knowing no longer
 how to give emphasis and importance to their extravagant thoughts, they
 created words of such length that, in order to contain them, it was
 necessary to forge verses of four *cæsuras* of nineteen syllables
-each. <span id="fr_201"></span>[2](#fn_201)
+each. <span id="fr_201"></span>[2](#fn_201.md)
 
 <span id="page_78">p. 78</span>
 
@@ -116,14 +116,14 @@ particular mind of each people.
 
 If one can believe the annals of the Indians, China was one of their
 colonies for a long time schismatic and rebellious. <span
-id="fr_202"></span>[1](#fn_202) If one can lend faith to the most
+id="fr_202"></span>[1](#fn_202.md) If one can lend faith to the most
 ancient tradition of the Chinese, they form from time immemorial a body
-of autochthonous people. <span id="fr_203"></span>[2](#fn_203) The
+of autochthonous people. <span id="fr_203"></span>[2](#fn_203.md) The
 discussion of this historic difficulty would be out of place here.
 Suffice it to say, that the Chinese having commenced by having rhymed
 verses, and preserving by character and by religion, with an inviolable
 respect, the ancient usages, have never had but a mediocre poetry,
-absolutely foreign to epopœia. <span id="fr_204"></span>[3](#fn_204)
+absolutely foreign to epopœia. <span id="fr_204"></span>[3](#fn_204.md)
 Their principal sacred books, called *Kings*, are composed of symbolic
 or hieroglyphic characters, forming by groups sorts of tableaux, of
 profound and often sublime conception, but bereft of what we would call
@@ -137,9 +137,9 @@ whose richness
 
 <span id="page_79">p. 79</span>
 
-certain authors praise, <span id="fr_205"></span>[1](#fn_205) have not
+certain authors praise, <span id="fr_205"></span>[1](#fn_205.md) have not
 any kind of poetry as I have already remarked. <span
-id="fr_206"></span>[2](#fn_206) The other Tartars were hardly more
+id="fr_206"></span>[2](#fn_206.md) The other Tartars were hardly more
 advanced before being placed by their conquests within reach of the
 learning of the vanquished people. The Turks had no alphabetical
 characters. The Huns were ignorant even of its existence. The proud
@@ -147,19 +147,19 @@ vanquisher of Asia, Genghis Khan did not find, according to the best
 historians, a single man among the Mongolians capable of writing his
 despatches. The alphabet of fourteen letters that the Uïgurian Tartars
 possess, appears to have been given them by the ancient Persians, <span
-id="fr_207"></span>[3](#fn_207) from whom they also received the little
+id="fr_207"></span>[3](#fn_207.md) from whom they also received the little
 that they knew of poetry.
 
 These Persians, today imitators of the Arabs, were in very remote times
 disciples of the Indians. Their sacred tongue then called Zend, in which
 are written the fragments that remain to us of Zoroaster, was a dialect
-of Sanskrit. <span id="fr_208"></span>[4](#fn_208) These fragments that
+of Sanskrit. <span id="fr_208"></span>[4](#fn_208.md) These fragments that
 we owe to the indefatigable zeal of Anquetil Duperron, appear to be
 written, as the Vedas, or as all the sacred books of India, in cadenced
 prose. After the *Zend-Avesta*, the most famous book among the Parsees
 is the *Boun-Dehesh*, written in Pehlevi, and containing the cosmogony
 of Zoroaster. Pehlevi, which is derived from Chaldaic Nabatæan,
-indicates a translation, <span id="fr_209"></span>[5](#fn_209) and
+indicates a translation, <span id="fr_209"></span>[5](#fn_209.md) and
 testifies that Persia had already passed from under the dominion of
 India to that of Assyria. But when, thanks to the conquests of Cyrus,
 Persia had become free and mistress of Asia, Pehlevi, which recalled its
@@ -168,14 +168,14 @@ we
 
 <span id="page_80">p. 80</span>
 
-call Artaxerxes Longimanus. <span id="fr_210"></span>[1](#fn_210) The
+call Artaxerxes Longimanus. <span id="fr_210"></span>[1](#fn_210.md) The
 Parsee replaced it; this last dialect, modified by Greek under the
 successors of Alexander, mixed with many Tartar words under the Parthian
 kings, polished by the Sassanidæ, usurped at last by the Arabs and
 subjected to the intolerant influence of Islamism, had no longer its own
 character: it has taken, in the modern Persian, all the movements of the
 Arabic, notwithstanding its slight analogy with it <span
-id="fr_211"></span>[2](#fn_211); following its example, it has
+id="fr_211"></span>[2](#fn_211.md); following its example, it has
 concentrated all the beauties of poetry in rhyme and since then it has
 had neither Eumolpœia nor Epopœia.
 
@@ -183,7 +183,7 @@ As to the Arab, no one is ignorant of the degree to which he is a slave
 to rhyme. Already, by a sufficiently happy conjecture, a French writer
 had made the first use of rhyme in France coincide with the irruption of
 the Moors into Europe at the beginning of the eighth century. <span
-id="fr_212"></span>[3](#fn_212) He has said that Provence had been the
+id="fr_212"></span>[3](#fn_212.md) He has said that Provence had been the
 door by which this novelty was introduced into France. However difficult
 it may appear of proving rigorously this assertion, lacking monuments,
 it cannot, however, be denied that it may be very probable, above all
@@ -204,25 +204,25 @@ combinations,
 had need of its assistance to soften their harshness and to supply the
 harmony which they lacked.
 
-[Nevertheless](errata.htm#0), whatever may be the pretension of Arabia
+[Nevertheless](errata.htm#0.md), whatever may be the pretension of Arabia
 to the invention of rhyme, and even to that of romantic poetry, one
 cannot be prevented, when one possesses without prejudice and to a
 certain extent the distinguishing character of the Asiatic languages,
 from seeing that there are proofs in the Arabic itself which give
 evidence in favour of India. Such is, for example, the word
-*Diwan*, <span id="fr_213"></span>[1](#fn_213) by which the Arabs
+*Diwan*, <span id="fr_213"></span>[1](#fn_213.md) by which the Arabs
 designate the collection of their ancient poetries. <span
-id="fr_214"></span>[2](#fn_214) This word, which is attached to the
+id="fr_214"></span>[2](#fn_214.md) This word, which is attached to the
 Sanskrit expression *Dewa* or *Diwa*, designates all that is divine,
 celestial; all that emanates from the Universal Intelligence <span
-id="fr_215"></span>[3](#fn_215): it is the poetry of the Greeks, the
+id="fr_215"></span>[3](#fn_215.md): it is the poetry of the Greeks, the
 language of the gods, or the voice of the Universal Being of the
 Egyptians and the Phœnicians.
 
 However, the Arabic *Diwan*—that is to say, the poetic collection of
 that nation, goes back to most ancient times. One finds in it verses
 attributed to the first Hebrew patriarchs and even to Adam <span
-id="fr_216"></span>[4](#fn_216); for since the introduction of Islamism,
+id="fr_216"></span>[4](#fn_216.md); for since the introduction of Islamism,
 the cosmogony of Moses has become that of the Mussulmans, as it has been
 ours since the establishment of Christianity. It is there, in this
 *diwan*, that the most authentic traditions are preserved: they are all
@@ -236,7 +236,7 @@ fictions. The
 <span class="contnote">\[paragraph continues\]</span> Persian poet
 Firdausi appears to have followed similar traditions concerning the
 ancient kings of Iran, in his famous poem entitled *Shah-Namah*. <span
-id="fr_217"></span>[1](#fn_217) The wonders which reign in these
+id="fr_217"></span>[1](#fn_217.md) The wonders which reign in these
 traditions have been transmitted no doubt by the Arabs, with the
 artifice of rhyme: both have the same spirit. The protecting fairies of
 the knights, the giant persecutors of ladies, the enchanters, the magic,
@@ -259,9 +259,9 @@ to examine its origin with accuracy, one no longer knows whether it is
 indigenous there or exotic. One finds on all sides only rhymed verses.
 The Spanish, Portuguese, Italians, French, Germans of all dialects,
 Hollanders, Danes, Swedes and Norwegians, all rhyme. <span
-id="fr_218"></span>[2](#fn_218) The modern Greeks themselves have
+id="fr_218"></span>[2](#fn_218.md) The modern Greeks themselves have
 forgotten their ancient rhythm in order to assume our style. <span
-id="fr_219"></span>[3](#fn_219) If
+id="fr_219"></span>[3](#fn_219.md) If
 
 <span id="page_83">p. 83</span>
 
@@ -270,14 +270,14 @@ Europe, it is that ancient Scandinavian, in which are written the
 precious fragments which have come down to us concerning the
 mythological cult of the Celts, our ancestors, does not rhyme; also it
 rises often to the sublimity of Eumolpœia. <span
-id="fr_220"></span>[1](#fn_220) This observation, which makes us reject
+id="fr_220"></span>[1](#fn_220.md) This observation, which makes us reject
 Arabia, will take us back to India, if we consider that there is
 plausible presumption in believing that the Phœnicians and the Egyptians
 who had so much intercourse with the Arabs, did not rhyme, since the
 sacred book of the Hebrews, the *Sepher*, that we call the *Bible*, and
 which appears to have issued from the Egyptian sanctuaries, is written
 in cadenced rhyme, as the *Zend-Avesta* of the Parsees and the *Vedas*
-of the Indians. <span id="fr_221"></span>[2](#fn_221)
+of the Indians. <span id="fr_221"></span>[2](#fn_221.md)
 
 The outline that I have just sketched confirms, *Messieurs*, what I have
 wished to prove to you and which is the subject of this discourse, the
@@ -341,7 +341,7 @@ satisfied themselves with copying certain moderns who do not rhyme. Each
 of them has misunderstood the essential character of his tongue. Vossius
 alone appears to have foreseen the principles without developing them,
 when he has said that French verse might be considered as having only
-one foot. <span id="fr_222"></span>[1](#fn_222) This is exactly true in
+one foot. <span id="fr_222"></span>[1](#fn_222.md) This is exactly true in
 examining rhythm only in itself, and giving to each hemistich the name
 of time: but if one considers this one foot, whether hexameter or
 pentameter, as formed of two times equal or unequal, it is perceived
@@ -432,83 +432,83 @@ principal nations of the earth.
 
 ### Footnotes
 
-<span id="fn_194"></span>[75:1](ogv09.htm#fr_194) William Jones,
+<span id="fn_194"></span>[75:1](ogv09.htm#fr_194.md) William Jones,
 *Asiatic Researches*, vol. i.
 
-<span id="fn_195"></span>[75:2](ogv09.htm#fr_195) *Ibid*., vol. i., p.
+<span id="fn_195"></span>[75:2](ogv09.htm#fr_195.md) *Ibid*., vol. i., p.
 425.
 
-<span id="fn_196"></span>[76:1](ogv09.htm#fr_196) William Jones,
+<span id="fn_196"></span>[76:1](ogv09.htm#fr_196.md) William Jones,
 *Asiatic Researches*, vol. i., p. 430.
 
-<span id="fn_197"></span>[76:2](ogv09.htm#fr_197) Wilkin’s *Notes on the
+<span id="fn_197"></span>[76:2](ogv09.htm#fr_197.md) Wilkin’s *Notes on the
 Hitopadesa*, p. 249. Halled’s *Grammar, in the preface*. The same, *Code
 of the Gentoo-Laws*. *Asiat. Research.*, vol. i., p. 423.
 
-<span id="fn_198"></span>[76:3](ogv09.htm#fr_198) *Asiat. Research.*,
+<span id="fn_198"></span>[76:3](ogv09.htm#fr_198.md) *Asiat. Research.*,
 vol. i., p. 346. Also in same work, vol. i., p. 430.
 
-<span id="fn_199"></span>[76:4](ogv09.htm#fr_199) W. Jones has put into
+<span id="fn_199"></span>[76:4](ogv09.htm#fr_199.md) W. Jones has put into
 English a Natak entitled *Sakuntala* or *The Fatal Ring*, of which the
 French translation has been made by Brugnières. Paris, 1803, chez
 Treuttel et Würtz.
 
-<span id="fn_200"></span>[77:1](ogv09.htm#fr_200) See *Asiat.
+<span id="fn_200"></span>[77:1](ogv09.htm#fr_200.md) See *Asiat.
 Research.*, vol. iii., p. 42, 47, 86, 185, etc.
 
-<span id="fn_201"></span>[77:2](ogv09.htm#fr_201) *Asiat. Research.*,
+<span id="fn_201"></span>[77:2](ogv09.htm#fr_201.md) *Asiat. Research.*,
 vol. i., p. 279, 357 et 360.
 
-<span id="fn_202"></span>[78:1](ogv09.htm#fr_202) *Institut. of
+<span id="fn_202"></span>[78:1](ogv09.htm#fr_202.md) *Institut. of
 Hindus-Laws*. W. Jones, *Works*, t. iii., p. 51. *Asiat. Research.*,
 vol. ii., p. 368.
 
-<span id="fn_203"></span>[78:2](ogv09.htm#fr_203) *Hist. génér. de la
+<span id="fn_203"></span>[78:2](ogv09.htm#fr_203.md) *Hist. génér. de la
 Chine*, t. i., p. 19. *Mém. concern. les Chinois*, t. i., p. 9, 104,
 160. *Chou-King*. Ch. *Yu-Kong*, etc., Duhalde, t. i., p. 266. *Mém.
 concern.*, etc., t. xiii., p. 190.
 
-<span id="fn_204"></span>[78:3](ogv09.htm#fr_204) The *She-King*, which
+<span id="fn_204"></span>[78:3](ogv09.htm#fr_204.md) The *She-King*, which
 contains the most ancient poetry of the Chinese, is only a collection of
 odes and songs, of sylves, upon different historical and moral subjects.
 (*Mém. concer. les Chinois*, t. i., p. 51, et t. ii., p. 80.) Besides,
 the Chinese had known rhyme for more than four thousand years. (*Ibid*.,
 t. viii., p. 133-185.)
 
-<span id="fn_205"></span>[79:1](ogv09.htm#fr_205) Le P. Parennin says
+<span id="fn_205"></span>[79:1](ogv09.htm#fr_205.md) Le P. Parennin says
 that the language of the Manchus has an enormous quantity of words which
 express, in the most concise and most picturesque manner, what ordinary
 languages can do only by aid of numerous epithets or periphrases.
 (Duhalde, *in-fol.*, t. iv., p. 65.)
 
-<span id="fn_206"></span>[79:2](ogv09.htm#fr_206) *Ci-dessus*, p. 31.
+<span id="fn_206"></span>[79:2](ogv09.htm#fr_206.md) *Ci-dessus*, p. 31.
 
-<span id="fn_207"></span>[79:3](ogv09.htm#fr_207) *Voyez* la traduction
+<span id="fn_207"></span>[79:3](ogv09.htm#fr_207.md) *Voyez* la traduction
 française des *Rech. asiatiq.*, t. ii., p. 49, notes *a* et *b*.
 
-<span id="fn_208"></span>[79:4](ogv09.htm#fr_208) *Voyez* ce que dit de
+<span id="fn_208"></span>[79:4](ogv09.htm#fr_208.md) *Voyez* ce que dit de
 Zend, Anquetil Duperron, et l’exemple qu’il donne de cette ancienne
 langue. *Zend-Avesta*, t. i.
 
-<span id="fn_209"></span>[79:5](ogv09.htm#fr_209) D’Herbelot, *Bibl.
+<span id="fn_209"></span>[79:5](ogv09.htm#fr_209.md) D’Herbelot, *Bibl.
 orient.*, p. 54. *Asiat. Research.*, t. ii., p. 51.
 
-<span id="fn_210"></span>[80:1](ogv09.htm#fr_210) Anquetil Duperron,
+<span id="fn_210"></span>[80:1](ogv09.htm#fr_210.md) Anquetil Duperron,
 Zend-Avesta, t. i.
 
-<span id="fn_211"></span>[80:2](ogv09.htm#fr_211) *Asiat. Research.*, t.
+<span id="fn_211"></span>[80:2](ogv09.htm#fr_211.md) *Asiat. Research.*, t.
 ii., p. 51.
 
-<span id="fn_212"></span>[80:3](ogv09.htm#fr_212) L’abbé Massieu,
+<span id="fn_212"></span>[80:3](ogv09.htm#fr_212.md) L’abbé Massieu,
 *Histor. de la Poésie franç.*, p. 82.
 
-<span id="fn_213"></span>[81:1](ogv09.htm#fr_213) In Arabic <span
+<span id="fn_213"></span>[81:1](ogv09.htm#fr_213.md) In Arabic <span
 id="img_08100"></span> ![](img/08100.jpg) (diwan). ‏דיואן‎
 
-<span id="fn_214"></span>[81:2](ogv09.htm#fr_214) D’Herbelot, Bibl.
+<span id="fn_214"></span>[81:2](ogv09.htm#fr_214.md) D’Herbelot, Bibl.
 orient., au mot DIVAN. *Asiat. Research.*, t. ii., p. 13.
 
-<span id="fn_215"></span>[81:3](ogv09.htm#fr_215) It must be remarked
+<span id="fn_215"></span>[81:3](ogv09.htm#fr_215.md) It must be remarked
 that the word *Diw*, which is also Persian, was alike applied in Persia
 to the Divine Intelligence, before Zoroaster had changed the
 signification of it by the establishment of a new doctrine, which,
@@ -519,28 +519,28 @@ that Christianity has changed the sense of the Greek word Δαίμων
 (Demon), and rendered it synonymous with the devil; whereas it signified
 in its principle, divine spirit and genius.
 
-<span id="fn_216"></span>[81:4](ogv09.htm#fr_216) *Asiat. Research.*, t.
+<span id="fn_216"></span>[81:4](ogv09.htm#fr_216.md) *Asiat. Research.*, t.
 ii., p. 13.
 
-<span id="fn_217"></span>[82:1](ogv09.htm#fr_217) *Voyez* Anquetil
+<span id="fn_217"></span>[82:1](ogv09.htm#fr_217.md) *Voyez* Anquetil
 Duperron, *Zend-Avesta*, t. iii., p. 527 et suiv. *Voyez* aussi un
 ouvrage allemand de Wahl, sur l’état de la Perse:
 *Pragmatische-Geografische und Statische Schilderun*g . . . etc.
 Leipzig, 1795, t. i., p. 198 à 204.
 
-<span id="fn_218"></span>[82:2](ogv09.htm#fr_218) Voyez plusieurs de
+<span id="fn_218"></span>[82:2](ogv09.htm#fr_218.md) Voyez plusieurs de
 leurs chansons rapportées par Laborde, *Essai sur la Musique*, t. ii.,
 p. 398.
 
-<span id="fn_219"></span>[82:3](ogv09.htm#fr_219) Laborde, *ibid*., t.
+<span id="fn_219"></span>[82:3](ogv09.htm#fr_219.md) Laborde, *ibid*., t.
 i., p. 425.
 
-<span id="fn_220"></span>[83:1](ogv09.htm#fr_220) I will give, later on,
+<span id="fn_220"></span>[83:1](ogv09.htm#fr_220.md) I will give, later on,
 a strophe from *Voluspa*, a Scandinavian ode of *eumolpique* style, very
 beautiful, and of which I will, perhaps, one day make an entire
 translation.
 
-<span id="fn_221"></span>[83:2](ogv09.htm#fr_221) It was said long ago
+<span id="fn_221"></span>[83:2](ogv09.htm#fr_221.md) It was said long ago
 that a great number of rhymed verses were found in the Bible, and
 Voltaire even has cited a ridiculous example in his *Dictionnaire
 philosophique* (art. RIME): but it seems to me that before concerning
@@ -560,10 +560,10 @@ occupied with the meaning of the words, than their arrangements by long
 and short syllables, by regular or alternate rhymes, which is of no
 importance whatever.
 
-<span id="fn_222"></span>[85:1](ogv09.htm#fr_222) Vossius, *De Poematum
+<span id="fn_222"></span>[85:1](ogv09.htm#fr_222.md) Vossius, *De Poematum
 cantu et viribus rhythmi;* cité par J. J. Rousseau, *Dictionnaire de
 Musique*, art. RYTHME.
 
 ------------------------------------------------------------------------
 
-[Next: § VII](ogv10)
+[Next: § VII](ogv10.md)

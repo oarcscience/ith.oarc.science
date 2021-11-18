@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](wmp05)  [Next](wmp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](wmp05)  [Next](wmp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B003C1QZ5I/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Woman's Mysteries of a Primitive People*, by D. Amaury Talbot,
 \[1915\], at Intangible Textual Heritage
 
@@ -79,7 +79,7 @@ and at
 <span id="page_45">p. 45</span>
 
 length passed peacefully away, his tiny black-gloved hand clasped
-trustingly round one of our fingers. <span id="fr_13"></span>[1](#fn_13)
+trustingly round one of our fingers. <span id="fr_13"></span>[1](#fn_13.md)
 
 Again, there is the case of the splendid lion cub Fort Lamy, sent to us
 as a present from Ober-Leutnant von Raben, German Resident at Kusseri in
@@ -173,7 +173,7 @@ covered with pictures in which the gods were represented in human or
 semi-human form, the inner shrine which they served to surround and
 protect contained merely the beast or bird in which the deity was
 believed to be incarnated for the time." <span
-id="fr_14"></span>[1](#fn_14)
+id="fr_14"></span>[1](#fn_14.md)
 
 \*    \*    \*    \*    \*
 
@@ -271,7 +271,7 @@ Countless such stories might be quoted. We ourselves came across many
 people who claimed that, against their will, at certain seasons of the
 year their spirits went forth to wander in animal guise; but none was
 willing to own to consciously sending forth his soul, <span
-id="fr_15"></span>[1](#fn_15) because such a power is thought to savour
+id="fr_15"></span>[1](#fn_15.md) because such a power is thought to savour
 of witchcraft. In every town, however, there are some inhabitants
 suspected by their fellows of using this uncanny power in order to wreak
 vengeance on enemies, or for the unlawful acquiring of riches. Many such
@@ -287,7 +287,7 @@ thus told by Udaw Owudumo of Ikot Atako.
 <span id="page_52">p. 52</span>
 
 "One morning, very early, when the mimbo people <span
-id="fr_16"></span>[1](#fn_16) were going toward their grove to collect
+id="fr_16"></span>[1](#fn_16.md) were going toward their grove to collect
 palm-wine, they saw four pythons hurriedly crossing the road. As usual
 the men were walking in single file, and, on seeing the snakes, the
 first ran back to his house to fetch a gun; begging his companions to
@@ -463,7 +463,7 @@ climbing palms, lianes and even flowers. Among the Ibibios, however, we
 did not find so many, or so beautiful, legends of this nature as among
 the Ekoi of the Oban District--such, for instance, as "The Herb
 Daughters," "The Son of a Fruit," or "The Flower Child." <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 As a general rule, only those belonging to the families of powerful
 chiefs can join the "affinity" of the great trees. The mother of one of
@@ -596,36 +596,36 @@ Similarly the Ikan Tumuli is believed to be a human being who has been
 drowned in the river and the Ikan Kalul to be a monkey transformed. Some
 specially favoured observers have seen monkeys half through the process
 of metamorphosis--half monkey and half fish." <span
-id="fr_18"></span>[1](#fn_18)
+id="fr_18"></span>[1](#fn_18.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_13"></span>[45:1](wmp06.htm#fr_13) He proved to be a new
+<span id="fn_13"></span>[45:1](wmp06.htm#fr_13.md) He proved to be a new
 species, and was named *galago talbotti*, by the British Museum
 authorities.
 
-<span id="fn_14"></span>[48:1](wmp06.htm#fr_14) The Religion of Ancient
+<span id="fn_14"></span>[48:1](wmp06.htm#fr_14.md) The Religion of Ancient
 Egypt," pp. 108-9. Sayce.
 
-<span id="fn_15"></span>[51:1](wmp06.htm#fr_15) Among Ibos, however,
+<span id="fn_15"></span>[51:1](wmp06.htm#fr_15.md) Among Ibos, however,
 whom we are at present studying, no such reluctance appears to be shown.
 A man, who believes himself possessed of the power to take on animal
 form, appears proud of this uncanny prerogative.
 
-<span id="fn_16"></span>[52:1](wmp06.htm#fr_16) Mimbo = palm wine.
+<span id="fn_16"></span>[52:1](wmp06.htm#fr_16.md) Mimbo = palm wine.
 
-<span id="fn_17"></span>[57:1](wmp06.htm#fr_17) "In the Shadow of the
+<span id="fn_17"></span>[57:1](wmp06.htm#fr_17.md) "In the Shadow of the
 Bush," pp. 133, 134, 136. P. Amaury Talbot.
 
-<span id="fn_18"></span>[61:1](wmp06.htm#fr_18) Maxwell in *Straits
+<span id="fn_18"></span>[61:1](wmp06.htm#fr_18.md) Maxwell in *Straits
 Branch, Journal of the Royal Asiatic Society*, No. 7, p. 26.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5: Childhood](wmp07)
+[Next: Chapter 5: Childhood](wmp07.md)
 
 </div>

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](toa10)  [Next](toa12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](toa10)  [Next](toa12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Treasure of Atlantis*, by J. Allan Dunn, \[1916\], at Intangible
 Textual Heritage
 
@@ -50,7 +50,7 @@ proof, the scientific value. Why didn't we bring one?"
 
 "I don't want to interrupt your researches," said Morse in a tone that
 secured the scientist's wandering attention, "but we may have to get
-away from here in a [hurry](errata.htm#8). You know what Rana's attitude
+away from here in a [hurry](errata.htm#8.md). You know what Rana's attitude
 is. I don't think I can be diplomatic toward her much longer without
 insulting her. Our affairs are going to come to a crisis some day soon,
 and when I break with her there's going to be trouble.
@@ -67,7 +67,7 @@ eliminate Kiron."
 
 Laidlaw nodded gravely, his work forgotten for the moment.
 
-"You may be right. If Ru can [assert](errata.htm#9) himself while we're
+"You may be right. If Ru can [assert](errata.htm#9.md) himself while we're
 still here, we're going to find ourselves out on the ledge with the
 vultures some morning, and there won't be any rescue party."
 
@@ -350,7 +350,7 @@ manage to get hold of its neck?"
 Morse started to laugh, and Laidlaw found himself echoing him. In the
 reaction to their danger, they laughed half-hysterically until they
 could force themselves to their feet. The scientist rubbed his stomach.
-My [diaphragm](errata.htm#10) is jellied. How's your leg?"
+My [diaphragm](errata.htm#10.md) is jellied. How's your leg?"
 
 Morse prodded it and winced. "It's sound, but it's sore as the devil."
 
@@ -464,7 +464,7 @@ Morse heard the mumbling apologies of the men who had attacked him. The
 cloth was hastily removed, and he faced his rescuer.
 
 It was a woman. She was slender and tall, clothed in garments that
-glittered, one arm raised [forcibly](errata.htm#11). There was something
+glittered, one arm raised [forcibly](errata.htm#11.md). There was something
 strangely familiar about her face. It was clean-carven, imperious, set
 like a flower upon a neck that was as round and smooth as a column.
 Hair, piled high, glinted pale gold in the moonlight. Two eyes burned
@@ -533,6 +533,6 @@ upon a silver beach."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X—The Isle of Sele](toa12)
+[Next: Chapter X—The Isle of Sele](toa12.md)
 
 </div>

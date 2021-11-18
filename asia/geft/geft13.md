@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft12)  [Next](geft14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft12)  [Next](geft14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 ### XI
 
-### Conkiajgharuna <span id="fr_7"></span>[1](#fn_7)
+### Conkiajgharuna <span id="fr_7"></span>[1](#fn_7.md)
 
 THERE was and there was not, there was a miserable peasant. He had a
 wife and a little daughter. So poor was this peasant that his daughter
@@ -54,7 +54,7 @@ in the evening finished. The stepmother wished to tire the girl out with
 toil, so that she should grow thin and ugly.
 
 Once when Conkiajgharuna was tending the cow, it ran away on to a
-roof. <span id="fr_8"></span>[1](#fn_8) The girl pursued it, and wished
+roof. <span id="fr_8"></span>[1](#fn_8.md) The girl pursued it, and wished
 to drive it back to the road, but she dropped her spindle on the roof.
 Looking inside she saw an old woman seated, and said to her: 'Good
 mother, wilt thou give me my spindle?' The old dame replied: 'I am not
@@ -186,14 +186,14 @@ stepmother was left with a dry throat.
 
 ### Footnotes
 
-<span id="fn_7"></span>[63:1](geft13.htm#fr_7) The Georgian Cinderella
+<span id="fn_7"></span>[63:1](geft13.htm#fr_7.md) The Georgian Cinderella
 or Tattercoats. Cf. Miss Roalfe Cox's *Story-Variants of Cinderella* for
 parallels.
 
-<span id="fn_8"></span>[64:1](geft13.htm#fr_8)  In some parts of the
+<span id="fn_8"></span>[64:1](geft13.htm#fr_8.md)  In some parts of the
 Caucasus the houses of the peasantry are built in the ground, and it is
 quite possible to walk on to a roof unwittingly.
 
 ------------------------------------------------------------------------
 
-[Next: XII. Asphurtzela](geft14)
+[Next: XII. Asphurtzela](geft14.md)

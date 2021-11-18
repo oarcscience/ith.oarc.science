@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sgr07)  [Next](sgr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sgr07)  [Next](sgr09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585426016/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62XWC/internetsacredte.md)
 
 </div>
 
@@ -161,6 +161,6 @@ and the good in everything will move toward you.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. Thinking in the Certain Way](sgr09)
+[Next: Chapter 8. Thinking in the Certain Way](sgr09.md)
 
 </div>

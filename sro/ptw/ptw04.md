@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw03) 
-[Next](ptw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Rosicrucians](../../eso/ros/index)  [Index](index)  [Previous](ptw03.md) 
+[Next](ptw05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419140671/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ minds of the neoplatonic philosophers.
 
 Tilts philosopher, who lived about ago A.D., was the founder of the
 *Neoplatonic School*. He was the son of Christian parents, and received
-a [Christian](errata.htm#1) education, . but departed from this system
+a [Christian](errata.htm#1.md) education, . but departed from this system
 and became a "philosopher." He gained a living by carrying burdens for
 pay, and yet he was one of the greatest philosophers of that age, and
 well acquainted with the Platonic and Aristotelian philosophy. His
@@ -64,7 +64,7 @@ Emperor *Gordianus* in Persia, and went afterwards to Rome, where he
 established his school of philosophy. Here he obtained great renown and
 was respected by all. It is said that during the 26 years he lived in
 Rome he did not have a single enemy. Even the Emperor *Gallienus*, one
-of the greatest [villains](errata.htm#2), respected and honoured him.
+of the greatest [villains](errata.htm#2.md), respected and honoured him.
 
 Plotinus fell sick. As the physician *Eustachius* entered the room in
 which Plotinus was dying, the latter exclaimed, joyfully, "I am now
@@ -146,7 +146,7 @@ sensation, assimilation, instinct, etc.
 
 The ultimate aim of the activity of Nature is the attainment of
 self-knowledge. Whatever Nature produces in a visible form, has also a
-[supersensual](errata.htm#3) form, giving shape to gross matter, so that
+[supersensual](errata.htm#3.md) form, giving shape to gross matter, so that
 the form may become an object for recognition. Nature is nothing but a
 living soul, she is the product of a higher, interior activity, the
 Universal Mind. There is only one fundamental living power in Nature,
@@ -277,7 +277,7 @@ it exists; but he whose mind is illumined sees the object of his love,
 the light which illumines the world. This light is present everywhere.
 But it exists relatively only for those who are able to see, perceive,
 feel, and embrace it, by reason of their own similarity to it. To make
-the matter still more [comprehensible](errata.htm#4), let us say that if
+the matter still more [comprehensible](errata.htm#4.md), let us say that if
 the soul throws off her impediments and enters that state again in which
 she originated from the Eternal, then will she be able to see and fed
 the Eternal. If, after having received these instructions, a person is
@@ -522,4 +522,4 @@ the 15th century.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three. Mediaeval Philosophers](ptw05)
+[Next: Chapter Three. Mediaeval Philosophers](ptw05.md)

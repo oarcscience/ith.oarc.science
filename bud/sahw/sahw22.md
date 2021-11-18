@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw21)  [Next](sahw23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw21)  [Next](sahw23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -88,7 +88,7 @@ Churchman when he "blesses
 <span class="contnote">\[paragraph continues\]</span> God's Holy Name
 for all His servants departed this life in God's faith and fear." There
 is no public prayer, but there is grateful
-[commemoration](errata.htm#14).
+[commemoration](errata.htm#14.md).
 
 The same principle holds good in the case of the particular dead, as in
 that of the dead in general.
@@ -126,4 +126,4 @@ faithful.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. Morning and Evening Prayers](sahw23)
+[Next: Chapter XXI. Morning and Evening Prayers](sahw23.md)

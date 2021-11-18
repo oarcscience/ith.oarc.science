@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs40)  [Next](mhs42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs40)  [Next](mhs42.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ use.
 
 ------------------------------------------------------------------------
 
-[Next: The Omens Of Sneezing](mhs42)
+[Next: The Omens Of Sneezing](mhs42.md)

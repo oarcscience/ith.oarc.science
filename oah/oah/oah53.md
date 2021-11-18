@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah52)  [Next](oah54) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah52)  [Next](oah54.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ in his desires.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah54)
+[Next: Chapter II](oah54.md)

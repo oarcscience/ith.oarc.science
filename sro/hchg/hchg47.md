@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg46)  [Next](hchg48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg46)  [Next](hchg48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ German *Parsifal*--all antecedents notwithstanding, is something set
 apart by itself in a peculiar house of mystery. It is the story of the
 natural man taken gradually to the heights. There is also a third quest,
 that of the *Didot Perceval*, which, amidst many
-[insufficiencies](errata.htm#3), is important for several reasons after
+[insufficiencies](errata.htm#3.md), is important for several reasons after
 its own manner--that is to say, because of its genealogy. The fourth is
 the *Conte del Graal*, and this--apart from Gerbert--is of no importance
 symbolically, though it is a great and powerful talisman of archaic
@@ -158,4 +158,4 @@ highest.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Longer Prose Perceval](hchg48)
+[Next: VII. The Longer Prose Perceval](hchg48.md)

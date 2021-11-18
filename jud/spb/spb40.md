@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb39)  [Next](spb41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb39)  [Next](spb41.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -175,7 +175,7 @@ be speedily rebuilt in our days, and grant our portion in thy Law. And
 there we will serve thee with awe, as in the days of old, and as in
 ancient years.
 
-Psalm lxvii., [p. 299](spb24.htm#page_299).
+Psalm lxvii., [p. 299](spb24.htm#page_299.md).
 
 We beseech thee, release thy captive nation by the mighty strength of
 thy right hand. Accept the joyful chant of thy people, lift us and
@@ -194,6 +194,6 @@ ever and ever.
 
 ------------------------------------------------------------------------
 
-[Next: Service for Chanukah](spb41)
+[Next: Service for Chanukah](spb41.md)
 
 </div>

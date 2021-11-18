@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Legendary Creatures](../../lcr/index)  [Index](index) 
-[Previous](lou00)  [Next](lou02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Legendary Creatures](../../lcr/index)  [Index](index.md) 
+[Previous](lou00)  [Next](lou02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4WSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4WSI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Lore of the Unicorn*, by Odell Shepard, \[1930\], at Intangible Textual
 Heritage
 
@@ -38,4 +38,4 @@ Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](lou02)
+[Next: Introduction](lou02.md)

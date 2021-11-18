@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft67)  [Next](efft69) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft67)  [Next](efft69.md) 
 
 ------------------------------------------------------------------------
 
-# THE THREE WISHES  <span id="fr_81"></span>[1](#fn_81)
+# THE THREE WISHES  <span id="fr_81"></span>[1](#fn_81.md)
 
 A WOODMAN went to the forest to fell some timber. Just as be was
 applying the axe to the trunk of a huge old oak out jumped a fairy, who
@@ -34,9 +34,9 @@ brilliant expectations.
 
 ### Footnotes
 
-<span id="fn_81"></span>[1](efft68.htm#fr_81) T. Sternberg, *The Dialect
+<span id="fn_81"></span>[1](efft68.htm#fr_81.md) T. Sternberg, *The Dialect
 and Folk-Lore of Northamptonshire*, p. 135.
 
 ------------------------------------------------------------------------
 
-[Next: The Miller at the Professor's Examination](efft69)
+[Next: The Miller at the Professor's Examination](efft69.md)

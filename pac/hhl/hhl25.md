@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl24)  [Next](hhl26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl24)  [Next](hhl26.md) 
 
 ------------------------------------------------------------------------
 
@@ -419,4 +419,4 @@ heart of the people which throbs beneath."
 
 ------------------------------------------------------------------------
 
-[Next: Index](hhl26)
+[Next: Index](hhl26.md)

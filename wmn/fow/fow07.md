@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow06)  [Next](fow08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow06)  [Next](fow08.md) 
 
 ------------------------------------------------------------------------
 
@@ -370,4 +370,4 @@ will estrange it."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Woman's Goodness](fow08)
+[Next: Chapter VI: Woman's Goodness](fow08.md)

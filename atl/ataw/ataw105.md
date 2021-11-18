@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw104)  [Next](ataw106) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw104)  [Next](ataw106.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ south-eastwardly
  
 
 <span id="img_04700"></span> <span align="CENTER"> [![](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)</span>  
+Click to enlarge](img/04700.jpg.md)</span>  
 MAP OF ATLANTIS, WITH ITS ISLANDS AND CONNECTING RIDGES, FROM DEEP-SEA
 SOUNDINGS.
 
@@ -64,7 +64,7 @@ SOUNDINGS.
 to the coast of Africa, and thence southwardly to Tristan d'Acunha. I
 give one map showing the profile of this elevation in the frontispiece,
 and another map, showing the outlines of the submerged land, on [page
-47](#img_04700). It rises about 9000 feet above the great Atlantic
+47](#img_04700.md). It rises about 9000 feet above the great Atlantic
 depths around it, and in the Azores, St. Paul's Rocks, Ascension, and
 Tristan d'Acunha it reaches the surface of the ocean.
 
@@ -140,7 +140,7 @@ map.
  
 
 <span id="img_05100"></span> <span align="CENTER"> [![](tn/05100.jpg)  
-Click to enlarge](img/05100.jpg)</span>  
+Click to enlarge](img/05100.jpg.md)</span>  
 ANCIENT ISLANDS BETWEEN ATLANTIS AND THE MEDITERRANIAN, FROM DEEP-SEA
 SOUNINGS.
 
@@ -172,7 +172,7 @@ which the vessel anchored. The bottom was found to consist of live pink
 coral, and the position of the bank in lat. 36° 29' N., long. 11° 33'
 W."
 
-The map on [page 51](#img_05100) shows the position of these elevations.
+The map on [page 51](#img_05100.md) shows the position of these elevations.
 They must have been originally islands;--stepping-stones, as it were,
 between Atlantis and the coast of Europe.
 
@@ -187,4 +187,4 @@ that the great submarine plateau is the remains of "the lost Atlantis."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: The Testimony of the Flora and Fauna.](ataw106)
+[Next: Chapter VI: The Testimony of the Flora and Fauna.](ataw106.md)

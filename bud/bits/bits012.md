@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits011) [Next](bit-int2)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits011) [Next](bit-int2.md)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ bloom, though it was not the flowering season;
 
 and the blossoms scattered themselves over the body of The
 Tathâgata,<span id="page_96_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_96_note_1) and strewed and sprinkled
+class="small">1</span></sup>](#page_96_note_1.md) and strewed and sprinkled
 themselves in worship of The Tathâgata. Also heavenly Erythrina flowers
 fell from the sky; and these scattered themselves over the body of The
 Tathâgata, and strewed and sprinkled themselves in worship of The
@@ -276,7 +276,7 @@ Monarch, a virtuous king of justice, a victorious ruler of the four
 quarters of the earth, possessing a secure dominion over his territory
 and owning the seven precious gems.<span
 id="page_101_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_101_note_1) This city Kusinârâ,
+class="small">1</span></sup>](#page_101_note_1.md) This city Kusinârâ,
 Ânanda, was the capital of king Sudassana the Great, and had then the
 name of Kusâvatî. From the east to the west it was twelve leagues in
 length, and from the north to the south it was seven leagues in breadth.
@@ -588,7 +588,7 @@ the title of 'brother;' a junior priest is to address a senior priest
 with the title 'reverend sir,' or 'venerable.' If the Order, Ânanda,
 wish to do so, after I am gone they may abrogate all the lesser and
 minor precepts. On Channa,<span id="page_108_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_108_note_1) Ânanda, after I am gone,
+class="small">1</span></sup>](#page_108_note_1.md) Ânanda, after I am gone,
 the higher penalty is to be inflicted."
 
    "Reverend Sir, what is this higher penalty?"
@@ -695,7 +695,7 @@ immediately The Blessed One passed into Nirvana.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to Chapter II: Sentient Existence](bit-int2)
+[Next: Introduction to Chapter II: Sentient Existence](bit-int2.md)
 
 ------------------------------------------------------------------------
 
@@ -703,22 +703,22 @@ immediately The Blessed One passed into Nirvana.
 
 <span id="footnotes_page_96">p. 96</span>
 
-<span id="page_96_note_1"></span>[1](#page_96_fr_1) Tathâgata is a term
+<span id="page_96_note_1"></span>[1](#page_96_fr_1.md) Tathâgata is a term
 most commonly used by The Buddha in referring to himself. Its meaning,
 like that of its Jaina equivalent *Tatthagaya*, possibly is, "He who has
 arrived there (*tatra* or *tattha*), *i.e.* to emancipation *or*
 Nirvana." See "Sacred Books of the East," [vol. xiii. p.
-82](../sbe13/sbe1312.htm#page_82_note_1).
+82](../sbe13/sbe1312.htm#page_82_note_1.md).
 
 <span id="footnotes_page_101">p. 101</span>
 
-<span id="page_101_note_1"></span>[1](#page_101_fr_1) The wheel of
+<span id="page_101_note_1"></span>[1](#page_101_fr_1.md) The wheel of
 empire, the elephant, the horse, the gem, the empress, the treasurer,
 and the crown-prince.
 
 <span id="footnotes_page_108">p. 108</span>
 
-<span id="page_108_note_1"></span>[1](#page_108_fr_1) Not the Channa who
+<span id="page_108_note_1"></span>[1](#page_108_fr_1.md) Not the Channa who
 had been the Future Buddha's charioteer.
 
  

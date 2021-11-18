@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](twi12)  [Next](twi14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](twi12)  [Next](twi14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VL14G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Twilight*, by William Butler Yeats, \[1893, 1902\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Intangible Textual Heritage
 
 A MAYO woman once said to me, 'I knew a servant girl who hung herself
 for the love of God. She was lonely for the priest and her
-society, <span id="fr_4"></span>[1](#fn_4) and hung herself to the
+society, <span id="fr_4"></span>[1](#fn_4.md) and hung herself to the
 banisters with a scarf. She was no sooner dead than she became white as
 a lily, and if it had been murder or suicide she would have become black
 as black. They gave her Christian burial, and the priest said she was no
@@ -170,9 +170,9 @@ deal of cures made with the Holy Water he brought back from Lourdes.'
 
 ### Footnotes
 
-<span id="fn_4"></span>[71:1](twi13.htm#fr_4) The religious society she
+<span id="fn_4"></span>[71:1](twi13.htm#fr_4.md) The religious society she
 had belonged to.
 
 ------------------------------------------------------------------------
 
-[Next: The Last Gleeman](twi14)
+[Next: The Last Gleeman](twi14.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws64)  [Next](cws66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws64)  [Next](cws66.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ into the aspect of gold.
 
 ### Footnotes
 
-<span id="fn_205"></span>[143:1](cws64.htm#fr_205) "The term manifest
+<span id="fn_205"></span>[143:1](cws64.htm#fr_205.md) "The term manifest
 relates only to the physical senses. The 'Vision of Adonai' . . . is
 beheld by the eyes of the interior and substantial man" (E. M. Art. in
 *The Unknown World*, 1894, p. 14). See Part III, "Concerning the Divine
@@ -109,4 +109,4 @@ Image."
 
 ------------------------------------------------------------------------
 
-[Next: No. X: Delta, Or The Mystery Of Generation](cws66)
+[Next: No. X: Delta, Or The Mystery Of Generation](cws66.md)

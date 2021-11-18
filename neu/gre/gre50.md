@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre49)  [Next](gre51) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre49)  [Next](gre51.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ homestead.
 ------------------------------------------------------------------------
 
 [Next: Chapter XLVI: Grettir outlawed at the Thing at the Suit of Thorir
-of Garth](gre51)
+of Garth](gre51.md)

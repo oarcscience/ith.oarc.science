@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm52)  [Next](bcm54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm52)  [Next](bcm54.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 ### §1 Concerning the Spirits of the Brazen Vessel, otherwise called the False Monarchy of Demons
 
-THE Goëtic Art of Solomon <span id="fr_173"></span>[1](#fn_172) gives
+THE Goëtic Art of Solomon <span id="fr_173"></span>[1](#fn_172.md) gives
 instructions for the evocation of the seventy-two spirits whom the King
 of Israel, according to a well-known legend, shut up in a brass vessel
 and cast into a deep lake. When the vessel was discovered by the
@@ -28,7 +28,7 @@ were assuaged and sustained. Their names and offices are as follows:--
 
 ### Footnotes
 
-<span id="fn_172"></span>[195:1](bcm53.htm#fr_173) Though a work of
+<span id="fn_172"></span>[195:1](bcm53.htm#fr_173.md) Though a work of
 considerable length, this *Lesser Key*, so far as it concerns our
 inquiry, admits of reduction into a manageable compass by the omission
 of tiresome and egregious particulars as to the number of spirits who
@@ -40,4 +40,4 @@ inconvenience, and even of dismay, to the operator!
 
 ------------------------------------------------------------------------
 
-[Next: Demons: I. (Baal) to IX. (Paimon)](bcm54)
+[Next: Demons: I. (Baal) to IX. (Paimon)](bcm54.md)

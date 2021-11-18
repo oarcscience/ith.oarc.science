@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](orfb27)  [Next](orfb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](orfb27)  [Next](orfb29.md) 
 
 </div>
 
@@ -358,6 +358,6 @@ deeds bear their own fruit!'
 
 ------------------------------------------------------------------------
 
-[Next: The Bird of Truth](orfb29)
+[Next: The Bird of Truth](orfb29.md)
 
 </div>

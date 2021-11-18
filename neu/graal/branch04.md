@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch03) 
-[Next](branch05) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch03.md) 
+[Next](branch05.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -573,5 +573,5 @@ abandoned, and prayeth God grant he may find Lancelot of the Lake.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-V](branch05)  
+V](branch05.md)  
 </span>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat58)  [Next](jat60) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat58)  [Next](jat60.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ own country. When they came back, they made the scalp dance with it.
 
 ------------------------------------------------------------------------
 
-[Next: 58. A Captive Woman Attempts to Make Peace](jat60)
+[Next: 58. A Captive Woman Attempts to Make Peace](jat60.md)

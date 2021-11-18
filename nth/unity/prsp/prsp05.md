@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](prsp04)  [Next](prsp06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](prsp04)  [Next](prsp06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Prosperity*, by Charles Fillmore, \[1936\], at Intangible Textual
 Heritage
 
@@ -398,4 +398,4 @@ seek alter Him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](prsp06)
+[Next: Chapter 4](prsp06.md)

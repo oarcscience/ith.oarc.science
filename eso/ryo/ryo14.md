@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](ryo13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B000FCG7RS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Raja Yoga*, by Yogi Ramacharaka (William Walker Atkinson), \[1906\], at
 Intangible Textual Heritage
 
@@ -302,7 +302,7 @@ Another depresses those around him, and is avoided as a "human
 wet-blanket." Another will cause a feeling of uneasiness in those around
 him, by reason of his prevailing attitude of distrust, suspicion, and
 low cunning. Some carry an atmosphere of health around them, while
-others [seem to](errata.htm#11) be surrounded with sickly aura of
+others [seem to](errata.htm#11.md) be surrounded with sickly aura of
 disease, even when their physical condition does not seem to indicate
 the lack of health. Mental states have a subtle way of impressing
 themselves upon us, and the student who will take the trouble to closely
@@ -393,7 +393,7 @@ voluntarily unless we know what we are going to do, and we cannot know
 exactly what we are going to do until we have taught ourselves to do
 it." Carpenter says: "The continued concentration of attention upon a
 certain idea gives it a dominant power, not only over the mind, but over
-the body." [Müller](errata.htm#12) says "The idea of our own strength
+the body." [Müller](errata.htm#12.md) says "The idea of our own strength
 gives strength to our movements. A person
 
 <span id="page_289">p. 289</span>
@@ -429,7 +429,7 @@ clears around a man and leaves him room and freedom."
 "A passionate desire and an unwearied will can perform impossibilities,
 or what seem to be such to the cold and feeble." And Maudsley gives to
 aspiring youth a great truth, when he says: "Thus it is that aspirations
-are often prophecies, the [harbingers](errata.htm#13) of what a man
+are often prophecies, the [harbingers](errata.htm#13.md) of what a man
 shall be in a condition to perform." And we may conclude the paragraph
 by quoting Lytton: "Dream, O youth, dream manfully and nobly, and thy
 dreams shall be prophets."

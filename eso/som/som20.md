@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som19) 
-[Next](som21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som19.md) 
+[Next](som21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ every time man moves, he moves in It. There is One Infinite Law, and
 every time man thinks he sets It in motion. There is One Infinite God,
 and every time man speaks to This God, he receives a direct answer. One!
 One! One! "I Am God and there is none else." <span
-id="fr_72"></span>[73](#fn_72) There is One Limitless Life which returns
+id="fr_72"></span>[73](#fn_72.md) There is One Limitless Life which returns
 to the thinker what he thinks into It. One! One! One! "In all, over all
 and through all."
 
@@ -130,8 +130,8 @@ in and through everything. "Act as though I am and I will Be."
 
 ### Footnotes
 
-<span id="fn_72"></span>[205:73](som20.htm#fr_72) Isa. 45:22.
+<span id="fn_72"></span>[205:73](som20.htm#fr_72.md) Isa. 45:22.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](som21)
+[Next: Introduction](som21.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits088) [Next](bits090)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits088) [Next](bits090.md)
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ Nakulapitâ applauded the speech of the venerable Sâriputta.
 
 ------------------------------------------------------------------------
 
-[Next: § 90. The Body Is an Open Sore](bits090)
+[Next: § 90. The Body Is an Open Sore](bits090.md)
 
  
 

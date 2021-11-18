@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc07)  [Next](phc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc07)  [Next](phc09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -46,7 +46,7 @@ the Philistine language we are no better off.
 The one common noun which we know with tolerable certainty is *ṣeren*,
 the regular word in the Hebrew text for the 'lords' by which the
 Philistines were governed: a word very reasonably compared with the
-Greekτύραννος. <span id="fr_100"></span>[1](#fn_100) This, however, does
+Greekτύραννος. <span id="fr_100"></span>[1](#fn_100.md) This, however, does
 not lead us very far. It happens that no satisfactory Indo-European
 etymology has been found for τύραννος, so that it may be a word
 altogether foreign to the Indo-European family. In any case, one word
@@ -96,12 +96,12 @@ Stone of the Forum has shown us what Latin was like, as near as we can
 get to the date of the Philistines, and gives us a warning against
 attempts to interpret supposed Philistine words by comparison with
 Classical Latin. And, even if the above comparisons be sound, the
-borrowing, as Noordtzij <span id="fr_101"></span>[1](#fn_101) justly
+borrowing, as Noordtzij <span id="fr_101"></span>[1](#fn_101.md) justly
 remarks, might as well have taken place the other way; as is known to
 have happened in several cases which he quotes.
 
 There is a word ‏כובע‎ or ‏קובע‎ meaning a 'helmet', the etymology of
-which is uncertain. <span id="fr_102"></span>[2](#fn_102) It may
+which is uncertain. <span id="fr_102"></span>[2](#fn_102.md) It may
 possibly be a Philistine word: the random use of ‏כ‎ and ‏ק‎ suggests
 that they are attempts to represent a foreign initial guttural (cf.
 *ante*, p. 75). Both forms are used in 1 Samuel xvii, the one (‏׳כ‎) to
@@ -144,12 +144,12 @@ current Philistine name adopted by the narrator.
 \(9\) *Sisera*, king of Harosheth. See *ante*, p. 41, and compare
 Beneṣasira on the tablet of Keftian names.
 
-\(10\) *Achish* or *Ekosh*, <span id="fr_103"></span>[1](#fn_103)
+\(10\) *Achish* or *Ekosh*, <span id="fr_103"></span>[1](#fn_103.md)
 apparently the standard Philistine name, like 'John' among ourselves. It
 seems to reappear in the old Aegean home in the familiar form
 *Anchises*. It occurs twice in the tablet of Keftian names (*ante*, p.
 10) and in the Assyrian tablets it appears in the form *Ikausu*. <span
-id="fr_104"></span>[2](#fn_104)
+id="fr_104"></span>[2](#fn_104.md)
 
 \(11\) *Maoch*, father of Achish, king of Gath. Unexplained and probably
 Philistine.
@@ -180,7 +180,7 @@ considered native Philistine.
 
 Down to about the time of Solomon the Philistines preserved their
 linguistic individuality. A basalt statuette of one Pet-auset was found
-somewhere in the Delta, <span id="fr_105"></span>[1](#fn_105) in which
+somewhere in the Delta, <span id="fr_105"></span>[1](#fn_105.md) in which
 he is described as an interpreter <span id="img_08200"></span>
 ![](img/08200.jpg) 'for Canaan *and* Philistia'. There would be no point
 in mentioning the two places if they had a common language. Ashdod, we
@@ -202,18 +202,18 @@ problem. It is also not inconceivable that some of the obscure languages
 of Asia Minor, specimens of which are preserved for us in the Hittite,
 Mitannian, Lycian, and Carian inscriptions may have light to contribute.
 The inscriptions of Crete, in the various Minoan scripts, and the
-Eteocretan inscriptions of Praesos <span id="fr_106"></span>[2](#fn_106)
+Eteocretan inscriptions of Praesos <span id="fr_106"></span>[2](#fn_106.md)
 may also prove of importance in the investigation. Two other alleged
 fragments of the 'Keftian' language are at our service: the list of
 names already quoted on p. 10, which suggestively contains *Akašou* and
 *Beneṣasira*: and a magical formula in a medical MS. of the time of
 Thutmose III, published by Birch in 1871, <span
-id="fr_107"></span>[3](#fn_107) which contains
+id="fr_107"></span>[3](#fn_107.md) which contains
 
 <span id="page_83">p. 83</span>
 
 *inter alia* the following—copied here from a corrected version
-published by Ebers. <span id="fr_108"></span>[1](#fn_108)
+published by Ebers. <span id="fr_108"></span>[1](#fn_108.md)
 
 <span id="img_08300"></span> ![](img/08300.jpg)
 
@@ -244,7 +244,7 @@ than an alphabet.
 
 I have discussed this inscription in a paper contributed to the
 *Proceedings* of the Royal Irish Academy, <span
-id="fr_109"></span>[2](#fn_109) to which I must refer the reader for the
+id="fr_109"></span>[2](#fn_109.md) to which I must refer the reader for the
 full investigation. Its special importance for our present purpose is
 based upon the fact that the most frequently used character, a man's
 head with a plumed head-dress, has from the
@@ -260,7 +260,7 @@ Face II consists of a list of personal names. Representing
 
 <span id="img_08400"></span> <span align="CENTER"> [![Fig. 4 A. The
 Phaestos Disk (Face 1).](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 Fig. 4 A. The Phaestos Disk (Face 1).  
 </span>
 
@@ -274,12 +274,12 @@ in this form:
 
 <span id="img_08500"></span> <span align="CENTER"> [![Fig. 4B. The
 Phaestos Disk (Face II).](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)  
+Click to enlarge](img/08500.jpg.md)  
 Fig. 4B. The Phaestos Disk (Face II).  
 </span>
 
 <span id="img_08501"></span> ![Face II (Fig. 4 s): written as a list of
-names.](img/08501.jpg)
+names.](img/08501.jpg.md)
 
 <span id="img_08502"></span> ![](img/08502.jpg)
 
@@ -340,7 +340,7 @@ letter to express it, but too marked to allow it to be neglected
 altogether. And obviously the most likely modification of the kind would
 be the elision of the vowel of a final open syllable. The mark would
 thus be exactly like the *virāma* of the Devanāgarī alphabet. <span
-id="fr_110"></span>[1](#fn_110) When we examine the text, we find that
+id="fr_110"></span>[1](#fn_110.md) When we examine the text, we find that
 it is only in certain words that this mark occurs. It is found in
 β<u>h</u>, however declined, except when the suffixes w, ξ are present.
 It is found in the word nvh<u>f</u>, however declined, and appears in
@@ -368,44 +368,44 @@ deal.
 
 ### Footnotes
 
-<span id="fn_100"></span>[79:1](phc08.htm#fr_100) The 'Lords of the
+<span id="fn_100"></span>[79:1](phc08.htm#fr_100.md) The 'Lords of the
 Philistines' are, however, in the Greek Version called σατράπαι; but in
 Judges (except iii. 3), Codex Vaticanus and allied MSS. have ἄρχοντες, a
 rendering also found sometimes in Josephus.
 
-<span id="fn_101"></span>[80:1](phc08.htm#fr_101) *De Filistijnen*, p.
+<span id="fn_101"></span>[80:1](phc08.htm#fr_101.md) *De Filistijnen*, p.
 81.
 
-<span id="fn_102"></span>[80:2](phc08.htm#fr_102) Cf. Latin *cappa*, &c.
+<span id="fn_102"></span>[80:2](phc08.htm#fr_102.md) Cf. Latin *cappa*, &c.
 (?).
 
-<span id="fn_103"></span>[81:1](phc08.htm#fr_103) Max Müller in his
+<span id="fn_103"></span>[81:1](phc08.htm#fr_103.md) Max Müller in his
 account of the school-tablet (ante, p. 10) compares the Assyrian form
 Ikausu and the Greek Ἀγχοῦς, and infers that the true pronunciation of
 the name was something like *Ekôsh*.
 
-<span id="fn_104"></span>[81:2](phc08.htm#fr_104) But in the last
+<span id="fn_104"></span>[81:2](phc08.htm#fr_104.md) But in the last
 edition of *KAT*. p. 437, it is noticed that this name can possibly be
 read Ikasamsu or Ikasamsu.
 
-<span id="fn_105"></span>[82:1](phc08.htm#fr_105) See the description by
+<span id="fn_105"></span>[82:1](phc08.htm#fr_105.md) See the description by
 Chassinat, *Bulletin de l’inst. franç. d’arch. au Caire*, i. (1901), p.
 98.
 
-<span id="fn_106"></span>[82:2](phc08.htm#fr_106) See Conway in the
+<span id="fn_106"></span>[82:2](phc08.htm#fr_106.md) See Conway in the
 *Annual of the British School at Athens*, vol. viii, p. 125, for an
 exhaustive analysis of these inscriptions.
 
-<span id="fn_107"></span>[82:3](phc08.htm#fr_107) *Zeitschr. f. ägypt.
+<span id="fn_107"></span>[82:3](phc08.htm#fr_107.md) *Zeitschr. f. ägypt.
 Sprache* (1871), p. 61.
 
-<span id="fn_108"></span>[83:1](phc08.htm#fr_108) *Zeitschr. der D. M.
+<span id="fn_108"></span>[83:1](phc08.htm#fr_108.md) *Zeitschr. der D. M.
 G.* xxxi, pp. 451, 452.
 
-<span id="fn_109"></span>[83:2](phc08.htm#fr_109) *Proceedings of the
+<span id="fn_109"></span>[83:2](phc08.htm#fr_109.md) *Proceedings of the
 Royal Irish Academy*, vol. xxx, section C, p. 342.
 
-<span id="fn_110"></span>[87:1](phc08.htm#fr_110) I find that this
+<span id="fn_110"></span>[87:1](phc08.htm#fr_110.md) I find that this
 comparison has been anticipated in an article in Harper's Magazine
 (European Edition, vol. lxi, p. 187), which I have read since writing
 the above. The rest of the article, I regret to say, does not convince
@@ -415,6 +415,6 @@ me.
 
 ------------------------------------------------------------------------
 
-[Next: II. Their Organization](phc09)
+[Next: II. Their Organization](phc09.md)
 
 </div>

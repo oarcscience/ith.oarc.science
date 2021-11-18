@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal049)  [Next](njal051) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal049)  [Next](njal051.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ Otkell rides to the Thing, and his brothers with him and Skamkell.
 
 ------------------------------------------------------------------------
 
-[Next: 51. Of Gunnar](njal051)
+[Next: 51. Of Gunnar](njal051.md)

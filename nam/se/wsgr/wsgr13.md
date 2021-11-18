@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr12)  [Next](wsgr14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr12)  [Next](wsgr14.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ red hot, melted rock began running down the
 <span id="img_06800"></span>
 
 [![](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)
+Click to enlarge](img/06800.jpg.md)
 
 <span id="page_69">p. 69</span>
 
@@ -123,4 +123,4 @@ why.
 
 ------------------------------------------------------------------------
 
-[Next: The Cloud That Was Lost](wsgr14)
+[Next: The Cloud That Was Lost](wsgr14.md)

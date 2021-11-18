@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hud01)  [Next](hud03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hud01)  [Next](hud03.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ nothing was created like it on the lands.
 
 ------------------------------------------------------------------------
 
-[Next: And Here Is An Amazing Story](hud03)
+[Next: And Here Is An Amazing Story](hud03.md)

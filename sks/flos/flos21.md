@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos20)  [Next](flos22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos20)  [Next](flos22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ writings. At the same time, it may be noted, that very many of
 Shakespeare's pithy sayings have since his day passed into proverbs, and
 have taken their place in this class of literature. It is curious to
 notice, as Mrs Cowden Clarke remarks, <span
-id="fr_862"></span>[1](#fn_860) how "Shakespeare has paraphrased some of
+id="fr_862"></span>[1](#fn_860.md) how "Shakespeare has paraphrased some of
 our commonest proverbs in his own choice and elegant diction." Thus,
 "make hay while the sun shines," becomes—
 
@@ -127,12 +127,12 @@ From his ambitious finger."</span>
 </div>
 
    To the same purport is the following proverb <span
-id="fr_863"></span>[1](#fn_861)—"He had I a finger in the pie when he
+id="fr_863"></span>[1](#fn_861.md)—"He had I a finger in the pie when he
 burnt his nail off."
 
    "A fool's bolt is soon shot."—Quoted by Duke of Orleans in "Henry V."
 (iii. 7), With this we may compare the French—"De fol juge breve
-sentence." <span id="fr_864"></span>[2](#fn_862)
+sentence." <span id="fr_864"></span>[2](#fn_862.md)
 
 <span id="page_418">p. 418</span>
 
@@ -171,14 +171,14 @@ Worse than a smoky house."</span>
 </div>
 
    "A snake lies hidden in the grass."—This, as Mr Green <span
-id="fr_865"></span>[1](#fn_863) remarks, is no unfrequent proverb, and
+id="fr_865"></span>[1](#fn_863.md) remarks, is no unfrequent proverb, and
 the idea is often made use of by Shakespeare. Thus in "2 Henry VI."
 (iii. 1), Margaret declares to the attendant nobles—
 
 <div style="margin-left: 32px">
 
 <span class="small">"Henry my lord is cold in great affairs,  
- Too full of foolish pity: <span id="fr_866"></span>[1](#fn_863) and
+ Too full of foolish pity: <span id="fr_866"></span>[1](#fn_863.md) and
 Gloucester's show  
  Beguiles him as the mournful crocodile  
  With sorrow snares relenting passengers,  
@@ -213,7 +213,7 @@ proverb are,—
 "It is easy to find a stick to beat a dog."
 
 "It is easy to find a stone to throw at a dog." <span
-id="fr_867"></span>[2](#fn_864)
+id="fr_867"></span>[2](#fn_864.md)
 
 </div>
 
@@ -255,7 +255,7 @@ And so far will I trust thee, gentle Kate."</span>
 </div>
 
    "All men are not alike."—"Much Ado about Nothing" (iii. 5). <span
-id="fr_868"></span>[1](#fn_865)
+id="fr_868"></span>[1](#fn_865.md)
 
    "All's Well that Ends well."
 
@@ -294,7 +294,7 @@ as sound as a bell, and his tongue is the clapper, for what his heart
 thinks his tongue speaks."
 
    Another form of the same proverb is—"As the fool thinks, the bell
-tinks." <span id="fr_869"></span>[1](#fn_866)
+tinks." <span id="fr_869"></span>[1](#fn_866.md)
 
    "As true as steel."—This popular adage is quoted in "Troilus and
 Cressida" (iii. 2)—
@@ -340,7 +340,7 @@ cites one of John Heywood's epigrams upon it:—
    "Barnes are blessings."—"All's Well that Ends Well" (i. 3).
 
    "Base is the slave that pays," "Henry V." (ii. 1). <span
-id="fr_870"></span>[2](#fn_867)
+id="fr_870"></span>[2](#fn_867.md)
 
    "Bastards are born lucky."—This proverb is alluded to in "King John"
 (i. 1), by the bastard, who says:—
@@ -358,7 +358,7 @@ id="fr_870"></span>[2](#fn_867)
 bastard.
 
    "Beggars mounted run their horses to death." <span
-id="fr_871"></span>[1](#fn_868)—Quoted by York in "3 Henry VI." (i. 4).
+id="fr_871"></span>[1](#fn_868)—Quoted by York in "3 Henry VI." (i. 4.md).
 We may also compare the proverb:—"Set a beggar on horseback, he'll ride
 to the devil."
 
@@ -439,7 +439,7 @@ alluded to in "Henry V." (ii. 3), by Pistol:—
 <div style="margin-left: 32px">
 
 <span class="small">"Hold-fast is the only dog, my duck." <span
-id="fr_872"></span>[1](#fn_869)</span>
+id="fr_872"></span>[1](#fn_869.md)</span>
 
 </div>
 
@@ -447,7 +447,7 @@ id="fr_872"></span>[1](#fn_869)</span>
 Gentlemen of Verona" (iii. 1), it is said, "She hath more hair than
 wit."
 
-   "By chance but not by truth." <span id="fr_873"></span>[2](#fn_870)
+   "By chance but not by truth." <span id="fr_873"></span>[2](#fn_870.md)
 "King John" (i. 1).
 
    "Care will kill a cat; yet there's no living without it." So in "Much
@@ -550,7 +550,7 @@ says—"Tut, dun's the mouse, the constable's own word."
 
    "Every dog hath his day, and every man his hour."—This old adage
 seems alluded to by the Queen in "Hamlet" (v. 1). <span
-id="fr_874"></span>[1](#fn_871)
+id="fr_874"></span>[1](#fn_871.md)
 
 <div style="margin-left: 32px">
 
@@ -559,7 +559,7 @@ id="fr_874"></span>[1](#fn_871)
 </div>
 
    "Every man at forty is either a fool or a physician." <span
-id="fr_875"></span>[2](#fn_872)—This popular proverb is probably
+id="fr_875"></span>[2](#fn_872.md)—This popular proverb is probably
 referred to in "Merry Wives of Windsor" (iii. 4), by Mistress Quickly,
 who tells Fenton how she had recommended him as a suitor for Mr Page's
 daughter instead of Doctor Caius:—"This is my doing now: 'nay,' said I,
@@ -594,7 +594,7 @@ Helena in "All's Well that Ends Well" (iv. 4):—
 In "2 Henry VI." (v. 2), too, Clifford's expiring words are—"La fin
 couronne les œuvres." We still have the expression to crown, in the
 sense of *to finish* or *make perfect*. Mr Douce <span
-id="fr_876"></span>[3](#fn_873) remarks that "coronidem imponere is a
+id="fr_876"></span>[3](#fn_873.md) remarks that "coronidem imponere is a
 metaphor well known to the ancients, and supposed to have originated
 from the practice of finishing buildings by placing a crown at the top
 as an ornament; and for this reason the words crown, top and head, are
@@ -619,10 +619,10 @@ Hector says
 Prince Henry ("2 Henry IV.," ii. 2) in reply to Poins, gives another
 turn to the proverb:—"By this hand, thou thinkest me as far in the
 devil's book as thou and Falstaff for obduracy and persistency: let the
-end try the man." <span id="fr_877"></span>[1](#fn_874)
+end try the man." <span id="fr_877"></span>[1](#fn_874.md)
 
    "Fly pride, says the peacock."—This is quoted by Dromio of Syracuse
-in "The Comedy of Errors" (iv. 3) <span id="fr_878"></span>[2](#fn_875)—
+in "The Comedy of Errors" (iv. 3) <span id="fr_878"></span>[2](#fn_875.md)—
 
    "Friends may meet, but mountains never greet."—This is ironically
 alluded to in "As You Like It" (iii. 2), by Celia—"It is a hard matter
@@ -646,7 +646,7 @@ Call me not fool till heaven hath sent me fortune."</span>
 Under different forms the same proverb is found on the Continent. The
 Spanish say, "The mother of God appears to fools;" and the German one is
 this, "Fortune and women are fond of fools." <span
-id="fr_879"></span>[3](#fn_876)
+id="fr_879"></span>[3](#fn_876.md)
 
    "God sends not corn for the rich only."—This is quoted by Marcius in
 Coriolanus (i. 1).
@@ -678,7 +678,7 @@ of England, and prevails more generally in France, is derived from the
 Romans, among whom a bunch of ivy was used as the sign of a wine shop."
 They were, also, in the habit of saying, "Vendible wine needs no ivy
 hung up." The Spanish have a proverb—"Good wine needs no crier." <span
-id="fr_880"></span>[1](#fn_877)
+id="fr_880"></span>[1](#fn_877.md)
 
    "Greatest clerks not the wisest men."—Mr Halliwell-Phillipps, in his
 "Handbook Index to Shakespeare" (391), quotes the following passage in
@@ -708,7 +708,7 @@ That they may fairly note this act of mine."</span>
 <span id="page_427">p. 427</span>
 
    "Happy the child whose father went to the devil." <span
-id="fr_881"></span>[1](#fn_878)—So, in "3 King Henry VI." (ii. 2), the
+id="fr_881"></span>[1](#fn_878)—So, in "3 King Henry VI." (ii. 2.md), the
 King asks interrogatively—
 
 <div style="margin-left: 32px">
@@ -748,7 +748,7 @@ So, too, in "Othello" (ii. 3), Cassio says—
 <div style="margin-left: 32px">
 
 <span class="small">"God's above all." <span
-id="fr_882"></span>[2](#fn_879)</span>
+id="fr_882"></span>[2](#fn_879.md)</span>
 
 </div>
 
@@ -756,7 +756,7 @@ id="fr_882"></span>[2](#fn_879)</span>
 of forms, this proverb is found in different countries. The Italians
 say, "He who manages other people's wealth does not go supperless to
 bed." The Dutch, too, say, "All officers are greasy," that is, something
-sticks to them. <span id="fr_883"></span>[3](#fn_880) In "Romeo and
+sticks to them. <span id="fr_883"></span>[3](#fn_880.md) In "Romeo and
 Juliet" (iv. 2), the saying is thus alluded to—
 
 <div style="margin-left: 32px">
@@ -774,7 +774,7 @@ me."</span>
 
    "He's mad that trusts in the tameness of a wolf, a horse's health, a
 boy's love, or a whore's oath."—"King Lear" (iii. 6). <span
-id="fr_884"></span>[4](#fn_881)
+id="fr_884"></span>[4](#fn_881.md)
 
 <span id="page_428">p. 428</span>
 
@@ -841,10 +841,10 @@ writers ("Glossary," p. 210).
 <span id="page_429">p. 429</span>
 
    "Hold, or cut bow-strings." <span
-id="fr_885"></span>[1](#fn_882)—"Midsummer Night's Dream" (i. 2).
+id="fr_885"></span>[1](#fn_882)—"Midsummer Night's Dream" (i. 2.md).
 
    "Honest as the skin between his brows."—"Much ado about Nothing"
-(iii. 5). <span id="fr_886"></span>[2](#fn_883)
+(iii. 5). <span id="fr_886"></span>[2](#fn_883.md)
 
    "Hunger will break through stone walls."—This is quoted by Marcius in
 "Coriolanus" (i. 1), who, in reply to Agrippa's question, "What says the
@@ -859,7 +859,7 @@ That hunger broke stone walls," etc.</span>
 </div>
 
 According to an old Suffolk proverb, <span
-id="fr_887"></span>[3](#fn_884) "Hunger will break through stone walls,
+id="fr_887"></span>[3](#fn_884.md) "Hunger will break through stone walls,
 or anything, except Suffolk cheese."
 
    "I scorn that with my heels."—"Much ado about Nothing" (iii. 4). A
@@ -970,7 +970,7 @@ proverb in "1 Henry VI." (v. 4), where the shepherd says of La Pucelle:—
 
    "I will make a shaft or a bolt of it." In the "Merry Wives of
 Windsor" (iii. 4), this proverb is used by Slender. <span
-id="fr_888"></span>[1](#fn_885) Ray
+id="fr_888"></span>[1](#fn_885.md) Ray
 
 <span id="page_431">p. 431</span>
 
@@ -1105,7 +1105,7 @@ says—
 
 <span class="small">"The ancient saying is no heresy,  
  Hanging and wiving goes by destiny." <span
-id="fr_889"></span>[1](#fn_886)</span>
+id="fr_889"></span>[1](#fn_886.md)</span>
 
 </div>
 
@@ -1144,7 +1144,7 @@ to by the king in "Hamlet" (iv. 5.)—
 
 </div>
 
-The French say <span id="fr_890"></span>[1](#fn_887)—"Malheur ne vient
+The French say <span id="fr_890"></span>[1](#fn_887.md)—"Malheur ne vient
 jamais seul."
 
    "More hair than wit."—"Two Gentlemen of Verona" (iii. 2), a well
@@ -1201,7 +1201,7 @@ truth will out."
 he must needs go that the devil drives."
 
    "Neither fish nor flesh, nor good red herring." <span
-id="fr_891"></span>[1](#fn_888)—Falstaff says of the Hostess in "1 Henry
+id="fr_891"></span>[1](#fn_888.md)—Falstaff says of the Hostess in "1 Henry
 IV." (iii. 3), "Why, she's neither fish nor flesh; a man knows not where
 to have her."
 
@@ -1266,7 +1266,7 @@ probably alluded to by Tybalt in "Romeo and Juliet" (i. 5)
 </div>
 
    "Pitch and Pay." "Henry V." (ii. 3). This is a proverbial expression
-equivalent to "Pay down at once." <span id="fr_892"></span>[1](#fn_889)
+equivalent to "Pay down at once." <span id="fr_892"></span>[1](#fn_889.md)
 It probably originated from pitching goods in a market, and paying
 immediately for their standing. Tusser, in his "Description of Norwich,"
 calls it—
@@ -1313,7 +1313,7 @@ say."</span>
 
 </div>
 
-   "Pray God my girdle break." <span id="fr_893"></span>[2](#fn_890) "1
+   "Pray God my girdle break." <span id="fr_893"></span>[2](#fn_890.md) "1
 Henry IV." (iii. 4).
 
    "Put your finger in the fire and say it was your fortune."—An
@@ -1346,7 +1346,7 @@ citizens says—
 </div>
 
 A proverbial saying of great antiquity. Mr Douce <span
-id="fr_894"></span>[1](#fn_891) cites an account of its origin from a
+id="fr_894"></span>[1](#fn_891.md) cites an account of its origin from a
 MS. collection of stories in Latin, compiled about the time of Henry
 III.
 
@@ -1376,7 +1376,7 @@ is in their own hands, they must thank themselves."
 (ii. 4).
 
    "So wise, so young, do ne’er live long."—"King Richard III." (iii.
-1). <span id="fr_895"></span>[2](#fn_892)
+1). <span id="fr_895"></span>[2](#fn_892.md)
 
    "So like you, ’tis the worse."—This is quoted as an old proverb by
 Paulina in the "Winter's Tale" (ii. 3).
@@ -1421,7 +1421,7 @@ When kings command."</span>
 
 When a ship in fight, or on meeting another ship lets down her topsails
 at least half mast high, she is said to strike, that is, to submit or
-pay respect to the other. <span id="fr_896"></span>[1](#fn_893)
+pay respect to the other. <span id="fr_896"></span>[1](#fn_893.md)
 
    "Strike while the iron is hot."—Poins probably alludes to this
 proverb in "2 Henry IV." (ii. 4) My lord, he will drive you out of your
@@ -1467,7 +1467,7 @@ irresolution (i. 7),—
 </div>
 
 There are various forms of this proverb. <span
-id="fr_897"></span>[1](#fn_894)\* Thus, according to the rhyme,—
+id="fr_897"></span>[1](#fn_894.md)\* Thus, according to the rhyme,—
 
 <div style="margin-left: 32px">
 
@@ -1530,7 +1530,7 @@ continues\]</span>  Which as they kiss consume; the sweetest honey
 
 The proverb thus alluded to seems to be derived from the Latin adage,
 "Festinatio tarda est." It defeats its own purpose by the blunders and
-imperfect work it occasions. <span id="fr_898"></span>[1](#fn_895) Hence
+imperfect work it occasions. <span id="fr_898"></span>[1](#fn_895.md) Hence
 the French say, "He that goes too hastily along often stumbles on a fair
 road."
 
@@ -1611,12 +1611,12 @@ Gentlemen of Verona" (i. 2) Julia says
 <div style="margin-left: 32px">
 
 <span class="small">"I see you have a month's mind to them." <span
-id="fr_899"></span>[1](#fn_896)</span>
+id="fr_899"></span>[1](#fn_896.md)</span>
 
 </div>
 
    "’Tis merry in hall when beards wag all." <span
-id="fr_900"></span>[2](#fn_897)—This is quoted by Silence in "2 Henry
+id="fr_900"></span>[2](#fn_897.md)—This is quoted by Silence in "2 Henry
 IV." (v. 3)—
 
 <div style="margin-left: 32px">
@@ -1672,7 +1672,7 @@ forgot."</span>
    "To take mine ease in my inn."—A proverbial phrase used by Falstaff
 in "1 Henry IV." (iii. 3), implying, says Mr Drake, "a degree of comfort
 which has always been the peculiar attribute of an English house of
-public entertainment." <span id="fr_901"></span>[1](#fn_898)
+public entertainment." <span id="fr_901"></span>[1](#fn_898.md)
 
    "Twice away says stay"—"Twelfth Night" (v. 1). Malone thinks this
 proverb is alluded to by the clown: "Conclusions to be as kisses, if
@@ -1792,7 +1792,7 @@ canst tell?"
 
    "When two men ride the same horse one must ride behind."—So in "Much
 Ado About Nothing" (iii. 5) Dogberry says—"An two men ride of a horse,
-one must ride behind." <span id="fr_902"></span>[1](#fn_899) With this
+one must ride behind." <span id="fr_902"></span>[1](#fn_899.md) With this
 may be compared the Spanish adage, "He who rides behind does not saddle
 when he will."
 
@@ -1857,136 +1857,136 @@ to a silly person is probably referred to in "Antony and Cleopatra" (i.
 </div>
 
    "Young ravens must have food."—"Merry Wives of Windsor" (i. 3), <span
-id="fr_903"></span>[1](#fn_900) Ray has "Small birds must have meat."
+id="fr_903"></span>[1](#fn_900.md) Ray has "Small birds must have meat."
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_860"></span>[416:1](flos21.htm#fr_862) "Shakspeare
+<span id="fn_860"></span>[416:1](flos21.htm#fr_862.md) "Shakspeare
 Proverbs," 1858.
 
-<span id="fn_861"></span>[417:1](flos21.htm#fr_863) Bohn's "Handbook of
+<span id="fn_861"></span>[417:1](flos21.htm#fr_863.md) Bohn's "Handbook of
 Proverbs," p. 159.
 
-<span id="fn_862"></span>[417:2](flos21.htm#fr_864) Ibid. p. 94.
+<span id="fn_862"></span>[417:2](flos21.htm#fr_864.md) Ibid. p. 94.
 
-<span id="fn_863"></span>[418:1](flos21.htm#fr_866) "Shakespeare and the
+<span id="fn_863"></span>[418:1](flos21.htm#fr_866.md) "Shakespeare and the
 Emblem Writers," 1870, p. 341.
 
-<span id="fn_864"></span>[418:2](flos21.htm#fr_867) See Kelly's
+<span id="fn_864"></span>[418:2](flos21.htm#fr_867.md) See Kelly's
 "Proverbs of All Nations," 1870, p. 157.
 
-<span id="fn_865"></span>[419:1](flos21.htm#fr_868) Halliwell-Phillipps’
+<span id="fn_865"></span>[419:1](flos21.htm#fr_868.md) Halliwell-Phillipps’
 "Handbook Index to Shakespeare," p. 390, under Proverbs.
 
-<span id="fn_866"></span>[420:1](flos21.htm#fr_869) See Kelly's
+<span id="fn_866"></span>[420:1](flos21.htm#fr_869.md) See Kelly's
 "Proverbs of All Nations," p. 92.
 
-<span id="fn_867"></span>[420:2](flos21.htm#fr_870) Halliwell-Phillipps’
+<span id="fn_867"></span>[420:2](flos21.htm#fr_870.md) Halliwell-Phillipps’
 "Handbook Index to Shakespeare," p. 391
 
-<span id="fn_868"></span>[421:1](flos21.htm#fr_871) See Bohn's "Handbook
+<span id="fn_868"></span>[421:1](flos21.htm#fr_871.md) See Bohn's "Handbook
 of Proverbs," p. 326.
 
-<span id="fn_869"></span>[422:1](flos21.htm#fr_872) See Bohn's "Handbook
+<span id="fn_869"></span>[422:1](flos21.htm#fr_872.md) See Bohn's "Handbook
 of Proverbs," p. 333; Kelly's "Proverbs of all Nations," 1870, p. 173.
 
-<span id="fn_870"></span>[422:2](flos21.htm#fr_873) Halliwell-Phillipps’
+<span id="fn_870"></span>[422:2](flos21.htm#fr_873.md) Halliwell-Phillipps’
 "Handbook Index to Shakespeare," p. 391.
 
-<span id="fn_871"></span>[424:1](flos21.htm#fr_874) Bohn's "Handbook of
+<span id="fn_871"></span>[424:1](flos21.htm#fr_874.md) Bohn's "Handbook of
 Proverbs," p. 86.
 
-<span id="fn_872"></span>[424:2](flos21.htm#fr_875) Ray gives another
+<span id="fn_872"></span>[424:2](flos21.htm#fr_875.md) Ray gives another
 form:—Every man is either a fool or a physician after thirty years of
 age; see Bohn's "Handbook of Proverbs," 1857, p. 27.
 
-<span id="fn_873"></span>[424:3](flos21.htm#fr_876) "Illustrations of
+<span id="fn_873"></span>[424:3](flos21.htm#fr_876.md) "Illustrations of
 Shakspeare," p. 199.
 
-<span id="fn_874"></span>[425:1](flos21.htm#fr_877) See Green's
+<span id="fn_874"></span>[425:1](flos21.htm#fr_877.md) See Green's
 "Shakespeare and the Emblem Writers," 1870, pp. 319, 323.
 
-<span id="fn_875"></span>[425:2](flos21.htm#fr_878) Halliwell-Phillipps’
+<span id="fn_875"></span>[425:2](flos21.htm#fr_878.md) Halliwell-Phillipps’
 "Handbook Index to Shakespeare," p. 391.
 
-<span id="fn_876"></span>[425:3](flos21.htm#fr_879) Kelly's "Proverbs of
+<span id="fn_876"></span>[425:3](flos21.htm#fr_879.md) Kelly's "Proverbs of
 All Nations," 1872, p. 52.
 
-<span id="fn_877"></span>[426:1](flos21.htm#fr_880) Kelly's "Proverbs of
+<span id="fn_877"></span>[426:1](flos21.htm#fr_880.md) Kelly's "Proverbs of
 All Nations," 1870, pp. 175, 176.
 
-<span id="fn_878"></span>[427:1](flos21.htm#fr_881) See Bohn's "Handbook
+<span id="fn_878"></span>[427:1](flos21.htm#fr_881.md) See Bohn's "Handbook
 of Proverbs," p. 100; Kelly's "Proverbs of All Nations," p. 187.
 
-<span id="fn_879"></span>[427:2](flos21.htm#fr_882) Halliwell-Phillipps’
+<span id="fn_879"></span>[427:2](flos21.htm#fr_882.md) Halliwell-Phillipps’
 "Handbook Index to Shakespeare," p. 392.
 
-<span id="fn_880"></span>[427:3](flos21.htm#fr_883) See Kelly's
+<span id="fn_880"></span>[427:3](flos21.htm#fr_883.md) See Kelly's
 "Proverbs of All Nations," 1870, pp. 196–7.
 
-<span id="fn_881"></span>[427:4](flos21.htm#fr_884) Halliwell-Phillipps’
+<span id="fn_881"></span>[427:4](flos21.htm#fr_884.md) Halliwell-Phillipps’
 "Handbook Index to Shakespeare," p. 392.
 
-<span id="fn_882"></span>[429:1](flos21.htm#fr_885) See page
-[371](flos18.htm#page_371).
+<span id="fn_882"></span>[429:1](flos21.htm#fr_885.md) See page
+[371](flos18.htm#page_371.md).
 
-<span id="fn_883"></span>[429:2](flos21.htm#fr_886) "Handbook Index to
+<span id="fn_883"></span>[429:2](flos21.htm#fr_886.md) "Handbook Index to
 Shakespeare," p. 392.
 
-<span id="fn_884"></span>[429:3](flos21.htm#fr_887) Bohn's "Handbook of
+<span id="fn_884"></span>[429:3](flos21.htm#fr_887.md) Bohn's "Handbook of
 Proverb," 1857, p. 409.
 
-<span id="fn_885"></span>[430:1](flos21.htm#fr_888) A shaft is an arrow
+<span id="fn_885"></span>[430:1](flos21.htm#fr_888.md) A shaft is an arrow
 for the longbow, a bolt is for the crossbow. Kelly's "Proverbs of All
 Nations," p. 155.
 
-<span id="fn_886"></span>[432:1](flos21.htm#fr_889) "But now consider
+<span id="fn_886"></span>[432:1](flos21.htm#fr_889.md) "But now consider
 the old proverbe to be true, yt saieth that marriage is
 destinie."—Hall's "Chronicles."
 
-<span id="fn_887"></span>[433:1](flos21.htm#fr_890) See Bohn's "Handbook
+<span id="fn_887"></span>[433:1](flos21.htm#fr_890.md) See Bohn's "Handbook
 of Proverbs," p. 116.
 
-<span id="fn_888"></span>[434:1](flos21.htm#fr_891) See Bohn's "Handbook
+<span id="fn_888"></span>[434:1](flos21.htm#fr_891.md) See Bohn's "Handbook
 of Proverbs," pp. 160, 251.
 
-<span id="fn_889"></span>[435:1](flos21.htm#fr_892) See Dyce's
+<span id="fn_889"></span>[435:1](flos21.htm#fr_892.md) See Dyce's
 "Glossary," p. 323.
 
-<span id="fn_890"></span>[435:2](flos21.htm#fr_893) Halliwell-Phillipps’
+<span id="fn_890"></span>[435:2](flos21.htm#fr_893.md) Halliwell-Phillipps’
 "Handbook Index to Shakespeare," p. 393.
 
-<span id="fn_891"></span>[436:1](flos21.htm#fr_894) "Illustrations of
+<span id="fn_891"></span>[436:1](flos21.htm#fr_894.md) "Illustrations of
 Shakspeare," p. 333.
 
-<span id="fn_892"></span>[436:2](flos21.htm#fr_895) See page 312.
+<span id="fn_892"></span>[436:2](flos21.htm#fr_895.md) See page 312.
 
-<span id="fn_893"></span>[437:1](flos21.htm#fr_896) Brewer's "Dictionary
+<span id="fn_893"></span>[437:1](flos21.htm#fr_896.md) Brewer's "Dictionary
 of Phrase and Fable," p. 860.
 
-<span id="fn_894"></span>[438:1](flos21.htm#fr_897) Ray's "Proverbs"
+<span id="fn_894"></span>[438:1](flos21.htm#fr_897.md) Ray's "Proverbs"
 (Bohn's Edition), 1859, p. 76.
 
-<span id="fn_895"></span>[439:1](flos21.htm#fr_898) Kelly's "Proverbs of
+<span id="fn_895"></span>[439:1](flos21.htm#fr_898.md) Kelly's "Proverbs of
 All Nations," p. 80.
 
-<span id="fn_896"></span>[440:1](flos21.htm#fr_899) See page
-[361](flos16.htm#page_361).
+<span id="fn_896"></span>[440:1](flos21.htm#fr_899.md) See page
+[361](flos16.htm#page_361.md).
 
-<span id="fn_897"></span>[440:2](flos21.htm#fr_900) See Bohn's "Handbook
+<span id="fn_897"></span>[440:2](flos21.htm#fr_900.md) See Bohn's "Handbook
 of Proverbs," p. 115.
 
-<span id="fn_898"></span>[441:1](flos21.htm#fr_901) "Shakspeare and His
+<span id="fn_898"></span>[441:1](flos21.htm#fr_901.md) "Shakspeare and His
 Times," i. p. 216.
 
-<span id="fn_899"></span>[443:1](flos21.htm#fr_902) See Kelly's
+<span id="fn_899"></span>[443:1](flos21.htm#fr_902.md) See Kelly's
 "Proverbs of All Nations," p. 49.
 
-<span id="fn_900"></span>[444:1](flos21.htm#fr_903) "Handbook Index to
+<span id="fn_900"></span>[444:1](flos21.htm#fr_903.md) "Handbook Index to
 Shakespeare," p. 395.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. Human Body](flos22)
+[Next: Chapter XX. Human Body](flos22.md)

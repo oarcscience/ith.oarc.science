@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb72)  [Next](wfb74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb72)  [Next](wfb74.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ old age.
 
 ------------------------------------------------------------------------
 
-[Next: The Men of Ardudwy](wfb74)
+[Next: The Men of Ardudwy](wfb74.md)

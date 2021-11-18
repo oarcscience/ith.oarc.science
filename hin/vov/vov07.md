@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov06)  [Next](vov08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov06)  [Next](vov08.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ They shall perish roots and branch in their avarice.
 506
 
 What honour or what shame can the mouth full of spittle, receive a
-buffalo mouth, (mouth as gaping as that of a [buffalo](errata.htm#85))
+buffalo mouth, (mouth as gaping as that of a [buffalo](errata.htm#85).md)
 is like a dry well. They cannot discern purity as they discern tastes.
 
 507
@@ -201,7 +201,7 @@ Him that truly know that God that dwells in the heart shall they call
 
 Water sinks into the earth; a sprout turns into earth (observe phrase);
 the plant is both husband and son to the earth-(This has
-[occurred](errata.htm#86) elsewhere). The earth is mother and wife of
+[occurred](errata.htm#86) elsewhere.md). The earth is mother and wife of
 all men.
 
 531
@@ -272,7 +272,7 @@ unstable as a paper kite. If the *curnam* despises the farmer, the
 
 541
 
-If the [*curnam*](errata.htm#87) conducts himself as the farmers'
+If the [*curnam*](errata.htm#87.md) conducts himself as the farmers'
 desire, the *curnam* obtains good property and power. If he despises
 them, evil shall not fail of reaching him, the village being deserted.
 
@@ -351,8 +351,8 @@ substitution of crime for virtue.)
 
 553
 
-The sinner [that](errata.htm#88) interferes with the charities
-[established](errata.htm#89) by himself or others, he shall for many
+The sinner [that](errata.htm#88.md) interferes with the charities
+[established](errata.htm#89.md) by himself or others, he shall for many
 years be repeatedly born in the earth as a worm and suffer misery,
 
 554
@@ -550,7 +550,7 @@ lord is incomprehensible.
 <span id="page_145">p. 145</span>
 
 O Vemana! thy powers are not yet known even in the least. O Vemana! let
-us know how great it is thy pleasure to be [hereafter](errata.htm#90)
+us know how great it is thy pleasure to be [hereafter](errata.htm#90.md)
 styled. That is, thou alone art all we have; who else is our refuge?
 (admirable, simple)
 
@@ -649,4 +649,4 @@ of yogees.
 
 ------------------------------------------------------------------------
 
-[Next: 600-699](vov08)
+[Next: 600-699](vov08.md)

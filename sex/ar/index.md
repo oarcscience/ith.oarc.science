@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,19 +14,19 @@ Sexuality](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](ar00)  
-[Contents](ar01)  
-[Introduction](ar02)  
-[Chapter I](ar03)  
-[Chapter II: Of The Various Seats Of Passion In Women](ar04)  
-[Chapter III: Of The Different Kinds Of Men And Women](ar05)  
+[Title Page](ar00.md)  
+[Contents](ar01.md)  
+[Introduction](ar02.md)  
+[Chapter I](ar03.md)  
+[Chapter II: Of The Various Seats Of Passion In Women](ar04.md)  
+[Chapter III: Of The Different Kinds Of Men And Women](ar05.md)  
 [Chapter IV: Description Of The General Qualities, Characteristics,
-Temperaments, Etc., Of Women.](ar06)  
-[Chapter V: Characteristics Of The Women Of Various Lands](ar07)  
-[Chapter VI: Treating Of Vashikarana](ar08)  
-[Chapter VII: Of Different Signs In Men And Women](ar09)  
-[Chapter VIII: Treating Of External Enjoyments](ar10)  
+Temperaments, Etc., Of Women.](ar06.md)  
+[Chapter V: Characteristics Of The Women Of Various Lands](ar07.md)  
+[Chapter VI: Treating Of Vashikarana](ar08.md)  
+[Chapter VII: Of Different Signs In Men And Women](ar09.md)  
+[Chapter VIII: Treating Of External Enjoyments](ar10.md)  
 [Chapter IX: Treating Of Internal Enjoyments In Its Various
-Forms](ar11)  
-[Appendix I: Astrology In Connection With Marriage](ar12)  
-[Appendix II](ar13)  
+Forms](ar11.md)  
+[Appendix I: Astrology In Connection With Marriage](ar12.md)  
+[Appendix II](ar13.md)  

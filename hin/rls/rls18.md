@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls17)  [Next](rls19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls17)  [Next](rls19.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ Râmak*ri*sh*n*a's spiritual marriage.
 
 ------------------------------------------------------------------------
 
-[Next: Râmak*ri*sh*n*a's Influence on Keshub Chunder Sen](rls19)
+[Next: Râmak*ri*sh*n*a's Influence on Keshub Chunder Sen](rls19.md)

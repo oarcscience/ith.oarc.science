@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](ogc19)  [Next](ogc21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](ogc19)  [Next](ogc21.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ its movement makes time continuous.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11](ogc21)
+[Next: Chapter 11](ogc21.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm21)  [Next](bcm23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm21)  [Next](bcm23.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ portion of the earth at the pleasure of its director."
 
 Such is the preamble of the *Grand Grimoire*. The work is divided into
 two parts, the first containing the evocation of Lucifuge <span
-id="fr_51"></span>[1](#fn_51) Rofocale by means of the Blasting Rod, the
+id="fr_51"></span>[1](#fn_51.md) Rofocale by means of the Blasting Rod, the
 second
 
 <span id="page_102">p. 102</span>
@@ -101,24 +101,24 @@ the other Liturgies of Black Magic. It is only a palliation to say that
 the compact is worded as a subterfuge, and in reality gives nothing to
 the demon, who here, as so frequently in folklore, is bamboozled,
 receiving the shadow in place of the substance. <span
-id="fr_52"></span>[1](#fn_52)
+id="fr_52"></span>[1](#fn_52.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_51"></span>[101:1](bcm22.htm#fr_51) This alteration of the
+<span id="fn_51"></span>[101:1](bcm22.htm#fr_51.md) This alteration of the
 fallen Light-Bearer into Fly-the-Light does not seem to occur in magical
 literature preceding the *Grand Grimoire*. It was afterwards adopted by
 Lévi, by whom it has been made popular among occultists, who are, for
 the most part, quite unaware of its source, as they usually are in such
 cases.
 
-<span id="fn_52"></span>[103:1](bcm22.htm#fr_52) Compare the droll
+<span id="fn_52"></span>[103:1](bcm22.htm#fr_52.md) Compare the droll
 history of the Devil and his Dam, and that concerning the course of
 Black Magic delivered by the Prince of Darkness at the University of
 Salamanca.
 
 ------------------------------------------------------------------------
 
-[Next: Section 4: The Grimoire of Honorius](bcm23)
+[Next: Section 4: The Grimoire of Honorius](bcm23.md)

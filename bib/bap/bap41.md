@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap40) 
-[Next](bap42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap40.md) 
+[Next](bap42.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ XXV\. And the Philistines sought to fight with
 
 <span id="page_146">p. 146</span>
 
-the men of Israel: <span id="fr_98"></span>[1](#fn_98) and they inquired
+the men of Israel: <span id="fr_98"></span>[1](#fn_98.md) and they inquired
 of the Lord and said: Shall we go up and fight against the
 
 <span id="page_147">p. 147</span>
@@ -53,7 +53,7 @@ of Simeon 775, and of the tribe of Levi 150, and of the tribe of Zabulon
 the tribe of Effraim 468, and of the tribe of Benjamin 267. And all the
 number of them that were found by the lot of sin was 6110. And Cenez
 took them all and shut them up in prison, till it should be known what
-should be done with them. <span id="fr_99"></span>[1](#fn_99)
+should be done with them. <span id="fr_99"></span>[1](#fn_99.md)
 
 <span id="page_149">p. 149</span>
 
@@ -102,9 +102,9 @@ desired to eat the flesh of our children and to learn whether God hath
 care for them. And he asked the remnant of the tribe of Dan, which said:
 The Amorites taught us that which they did, that we might teach our
 children. And lo, they are hid under the tent of Elas, <span
-id="fr_100"></span>[1](#fn_100) who told thee to inquire of us. Send
+id="fr_100"></span>[1](#fn_100.md) who told thee to inquire of us. Send
 therefore and thou shall find them. And Cenez sent and found them. 10.
- <span id="fr_101"></span>[2](#fn_101) And thereafter asked he them that
+ <span id="fr_101"></span>[2](#fn_101.md) And thereafter asked he them that
 were left over of the tribe of Gad, and they said: We committed adultery
 with each other's wives. And he asked next the men of the tribe of Aser,
 which said: We found seven golden images which the Amorites called the
@@ -114,7 +114,7 @@ upon them, and hid them: and lo, now
 <span id="page_151">p. 151</span>
 
 they are laid up under the top of the mount Sychem. <span
-id="fr_102"></span>[1](#fn_102) Send therefore and thou shalt find them.
+id="fr_102"></span>[1](#fn_102.md) Send therefore and thou shalt find them.
 And Cenez sent men and removed them thence. 11. Now these are the Nymphs
 which when they were called upon did show unto the Amorites their works
 in every hour. For these are they which were devised by seven evil men
@@ -126,9 +126,9 @@ consecration *(i.e.* the holy place?) of idols. *Now* the stones were
 precious, brought from the land of Euilath, among which was a crystal
 and a prase (*or* one crystalline and one green), and they shewed their
 fashion, being carved after the manner of a stone pierced with
-open-work, <span id="fr_103"></span>[2](#fn_103) and another of them was
+open-work, <span id="fr_103"></span>[2](#fn_103.md) and another of them was
 graven on the top, and another as it were marked with spots (*or* like a
-spotted chrysoprase) <span id="fr_104"></span>[3](#fn_104) so shone with
+spotted chrysoprase) <span id="fr_104"></span>[3](#fn_104.md) so shone with
 its graving as if it shewed the water of the deep lying beneath.
 
 12\. And these are the precious stones which the Amorites had in their
@@ -140,7 +140,7 @@ of them was above reckoning. For when any entered in by night, he needed
 not the light of a lantern, so much did the natural light of the stones
 shine forth. Wherein that one gave the greatest light which was cut
 after the form of a stone pierced with open-work, and was cleansed with
-bristles; <span id="fr_105"></span>[1](#fn_105) for if any of the
+bristles; <span id="fr_105"></span>[1](#fn_105.md) for if any of the
 Amorites were blind, he went and put his eyes thereupon and recovered
 his sight. Now when Cenez found them, he set them apart and laid them up
 till he should know what should become of them.
@@ -158,7 +158,7 @@ or whether Moses had taught it of himself.
 
 ### Footnotes
 
-<span id="fn_98"></span>[146:1](bap41.htm#fr_98) XXV. Up to this point
+<span id="fn_98"></span>[146:1](bap41.htm#fr_98.md) XXV. Up to this point
 *Philo* has followed the Bible story faithfully enough. He now draws
 freely on his own imagination, and presents us with an entirely new
 history of the beginning of the period of the Judges.
@@ -220,18 +220,18 @@ of Gibeah. Thus the narrative in Judges is represented with approximate
 faithfulness, save in the case of the first judges, where *Philo*
 substitutes Kenaz and Zebul for Othniel, Ehud, and Shamgar.
 
-<span id="fn_99"></span>[148:1](bap41.htm#fr_99) XXV. 4. In the
+<span id="fn_99"></span>[148:1](bap41.htm#fr_99.md) XXV. 4. In the
 enumeration of the sinners among the tribes Dan has accidentally dropped
 out, though it appears in 9. The separate numbers in the text add up to
 5410 or 5400, so that 700 or 710 is the number to be assigned to Dan in
 order to make up the total of 6110.
 
-<span id="fn_100"></span>[150:1](bap41.htm#fr_100) 9. *under the tent of
+<span id="fn_100"></span>[150:1](bap41.htm#fr_100.md) 9. *under the tent of
 Elas, who told thee to inquire of us*. R. has: under the mount of
 Abraham, and laid up under a mound of earth. J has: under the mount of
 Abarim.
 
-<span id="fn_101"></span>[150:2](bap41.htm#fr_101) 10 *seq*. The
+<span id="fn_101"></span>[150:2](bap41.htm#fr_101.md) 10 *seq*. The
 Amorites are described in *Jubilees* 29:11 as being particularly wicked.
 A special section in the Talmud treating of superstitious practices is
 called "the ways of the Amorites" (see *Jewish Encycl*., s.v.
@@ -244,16 +244,16 @@ Canaan, Phuth, Nimrod, Elath, who are mentioned in IV. 6, 7, as
 descendants of Ham. The land of Euilat (Havilah) is described in Gen.
 2:11, 2:12 as the home of gold, bdellium, and onyx.
 
-<span id="fn_102"></span>[151:1](bap41.htm#fr_102) 10. *the mount
+<span id="fn_102"></span>[151:1](bap41.htm#fr_102.md) 10. *the mount
 Sychem*: possibly a malicious allusion to the Samaritans.
 
-<span id="fn_103"></span>[151:2](bap41.htm#fr_103) 11. *stone pierced
+<span id="fn_103"></span>[151:2](bap41.htm#fr_103.md) 11. *stone pierced
 with open-work*: *uelut in diatrium sculpti*. Here, and a few lines
 below, where we have *in modum diatridis* or *diatriti sculptus*, I
 think *diatretos* must be restored. The word is used by Martial and in
 the Digest.
 
-<span id="fn_104"></span>[151:3](bap41.htm#fr_104) *as it were marked
+<span id="fn_104"></span>[151:3](bap41.htm#fr_104.md) *as it were marked
 with spots*. The variants are *caraxatus stigminis* and *chrysoprassus
 stigmatus*. I prefer the first, because it seems clearly right in XXVI.
 10. There we have: "The 6th stone was as if it had been a chrysoprase
@@ -261,7 +261,7 @@ stigmatus*. I prefer the first, because it seems clearly right in XXVI.
 jasper," and there the chrysoprase is plainly superfluous. *Caraxatus*
 is also the harder word.
 
-<span id="fn_105"></span>[152:1](bap41.htm#fr_105) 12. "*was cleansed
+<span id="fn_105"></span>[152:1](bap41.htm#fr_105.md) 12. "*was cleansed
 with bristles*": *de setis emundabatur* (-*bitur* VR). This looks as if
 it must be wrong, but I find in Damigeron, *de labidibus*, 47 (ap.
 Pitra, *Spicil. Solesm* III. 335), that the chrysolite "*pertusus et
@@ -276,4 +276,4 @@ tranquilli maris similtudinem refert*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI](bap42)
+[Next: Chapter XXVI](bap42.md)

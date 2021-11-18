@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc041) 
-[Next](motc043) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc041.md) 
+[Next](motc043.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ and thus originated the Pheasant dance.
 
 ------------------------------------------------------------------------
 
-[Next: 43. The Race Between The Crane And The Hummingbird](motc043)
+[Next: 43. The Race Between The Crane And The Hummingbird](motc043.md)

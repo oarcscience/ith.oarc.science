@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb14)  [Next](vifb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb14)  [Next](vifb16.md) 
 
 </div>
 
@@ -655,6 +655,6 @@ he woke, behold! that also was no dream, but the truth.
 
 ------------------------------------------------------------------------
 
-[Next: How a Fish Swam in the Air and a Hare in the Water](vifb16)
+[Next: How a Fish Swam in the Air and a Hare in the Water](vifb16.md)
 
 </div>

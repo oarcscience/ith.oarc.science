@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar16)  [Next](pktar18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar16)  [Next](pktar18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Star
 
 <span id="img_ar17"></span> <span align="CENTER"> [![](tn/ar17.jpg)  
-Click to enlarge](img/ar17.jpg)</span>
+Click to enlarge](img/ar17.jpg.md)</span>
 
 A great, radiant star of eight rays, surrounded by seven lesser
 stars--also of eight rays. The female figure in the foreground is
@@ -46,4 +46,4 @@ influx.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Moon](pktar18)
+[Next: XVIII. The Moon](pktar18.md)

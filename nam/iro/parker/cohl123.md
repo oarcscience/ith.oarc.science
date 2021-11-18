@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl122)  [Next](cohl124) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl122)  [Next](cohl124.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ hand. And all these things were on the heaven road." Eniaiehuk.
 
 ------------------------------------------------------------------------
 
-[Next: Section 113](cohl124)
+[Next: Section 113](cohl124.md)

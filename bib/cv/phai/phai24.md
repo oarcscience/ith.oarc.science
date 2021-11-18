@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai23) 
-[Next](phai25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai23.md) 
+[Next](phai25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -213,7 +213,7 @@ not the vigorous support of the local authorities. But this was
 indispensably necessary in order to secure recognition for a new law.
 
 At last, in 445, it fell to the lot of a Jew, who also shared the views
-of Ezra, Nehemiah ben Hakkelejah, <span id="fr_264"></span>[1](#fn_264)
+of Ezra, Nehemiah ben Hakkelejah, <span id="fr_264"></span>[1](#fn_264.md)
 the cupbearer and the favourite of Artaxerxes, to be sent as Persian
 governor to Judæa. After he had freed the community from external
 pressure with vigour and success, and brought it into more tolerable
@@ -313,7 +313,7 @@ hold its own only as a sacred speech.
 
 ### Footnotes
 
-<span id="fn_264"></span>[496:1](phai24.htm#fr_264) According to the
+<span id="fn_264"></span>[496:1](phai24.htm#fr_264.md) According to the
 present punctuation this name is Hakalja (Hachaljah), but such a
 pronunciation is inadmissible; it has no possible etymology, the
 language having no such word as *hakal*. The name in its correct form
@@ -321,4 +321,4 @@ means "Wait upon Jehovah."
 
 ------------------------------------------------------------------------
 
-[Next: 11. Judaism and Christianity](phai25)
+[Next: 11. Judaism and Christianity](phai25.md)

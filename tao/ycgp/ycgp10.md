@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp09) [Next](ycgp11)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp09) [Next](ycgp11.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ medicines and a stone lancet, and when he died, there was not even money
 for his funeral. All his countrymen who had benefited by him contributed
 money to bury him, and gave back the fortune of his descendants.
 
-   When Ch’in-ku-li<span id="page_50_fr_1"></span>[1](#page_50_note_1)
+   When Ch’in-ku-li<span id="page_50_fr_1"></span>[1](#page_50_note_1.md)
 heard of this he said:
 
 <span id="page_51">p. 51</span>
@@ -57,7 +57,7 @@ adhered to propriety. They surely had not a heart like his."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp11)
+[Next](ycgp11.md)
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ adhered to propriety. They surely had not a heart like his."
 
 <span id="footnotes_page_50">p. 50</span>
 
-<span id="page_50_note_1"></span>[1](#page_50_fr_1) Ch’in-ku-li is said
+<span id="page_50_note_1"></span>[1](#page_50_fr_1.md) Ch’in-ku-li is said
 to have been a pupil of the philosopher Me Ti.
 
  

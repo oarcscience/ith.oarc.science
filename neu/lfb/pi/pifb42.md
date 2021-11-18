@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb41)  [Next](pifb43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb41)  [Next](pifb43.md) 
 
 </div>
 
@@ -550,6 +550,6 @@ the world, and became king of the country.
 
 ------------------------------------------------------------------------
 
-[Next: Don Giovanni De La Fortuna](pifb43)
+[Next: Don Giovanni De La Fortuna](pifb43.md)
 
 </div>

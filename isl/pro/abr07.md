@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](abr06)  [Next](abr08) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](abr06)  [Next](abr08.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ there except for the desert plants that have no fruit</span>.
 ------------------------------------------------------------------------
 
 [Next: Some Sentences About Sarah The Wife of Abraham As Told By
-Historians](abr08)
+Historians](abr08.md)
 
 </div>
 

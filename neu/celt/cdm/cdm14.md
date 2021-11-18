@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm13) 
-[Next](cdm15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm13.md) 
+[Next](cdm15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -104,7 +104,7 @@ morning, and the leaves had fallen from the middle tree.
 
 <span id="an_p_413">413</span>. "That's true," said the youngest
 brother, who had come home in haste, "my brother is not alive. I will
-begone to raise his *éric*." <span id="fr_88"></span>[1](#fn_87)
+begone to raise his *éric*." <span id="fr_88"></span>[1](#fn_87.md)
 
 <span id="an_p_414">414</span>. He took his horse and hound and
 gold-hilted sword which his father gave him with learning and wisdom,
@@ -138,7 +138,7 @@ and over he went to the castle. In he went, and he too saw a woman
 combing her hair.
 
 <span id="an_p_421">421</span>. "Come up, treasure," <span
-id="fr_89"></span>[1](#fn_88) said she, "son of the father of my desire,
+id="fr_89"></span>[1](#fn_88.md) said she, "son of the father of my desire,
 and the mother of my love, till I tell thee my news, and thou tellest me
 thine."
 
@@ -230,13 +230,13 @@ some day or other he hopes to hear more about them out in the Isles.
 
 ### Footnotes
 
-<span id="fn_87"></span>[125:1](cdm14.htm#fr_88) It occurs in the
+<span id="fn_87"></span>[125:1](cdm14.htm#fr_88.md) It occurs in the
 "Ramayana," on the occasion of a great horse-sacrifice. In Swedish
 stories too: *svennen lade ett blankt svärd pă bädden mellum sig och
 henne*.
 
-<span id="fn_88"></span>[126:1](cdm14.htm#fr_89) *Fheudail*.
+<span id="fn_88"></span>[126:1](cdm14.htm#fr_89.md) *Fheudail*.
 
 ------------------------------------------------------------------------
 
-[Next: Notes To Celtic Dragon Myth](cdm15)
+[Next: Notes To Celtic Dragon Myth](cdm15.md)

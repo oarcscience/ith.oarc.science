@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl28)  [Next](isl30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl28)  [Next](isl30.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ thinkers to state what the boundaries were.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Abū Ḥanīfa](isl30)
+[Next: 1. Abū Ḥanīfa](isl30.md)

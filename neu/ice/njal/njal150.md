@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal149)  [Next](njal151) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal149)  [Next](njal151.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ Kari of all that are now left in Iceland."
 
 ------------------------------------------------------------------------
 
-[Next: 151. Of Kari And Bjorn And Thorgeir](njal151)
+[Next: 151. Of Kari And Bjorn And Thorgeir](njal151.md)

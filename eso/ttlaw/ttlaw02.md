@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](ttlaw01) 
-[Next](ttlaw03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](ttlaw01.md) 
+[Next](ttlaw03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ all these, containing them all and superior to them all.
 To some is given the great privilege of a day set apart to mark the
 arrival of a total stranger panoplied with all the insignia of
 friendship. He comes unannounced. He bears no letter of introduction. No
-mutual friend can vouch for him. Suddenly and [silently](errata.htm#0)
+mutual friend can vouch for him. Suddenly and [silently](errata.htm#0.md)
 he steps unexpectedly out of the shadow of material concern and
 spiritual obscurity, into the radiance of intimate friendship, as a
 picture is projected upon a lighted screen. But unlike the phantom
@@ -220,4 +220,4 @@ PAUL DERRICK.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Some Facts In Nature](ttlaw03)
+[Next: Chapter I. Some Facts In Nature](ttlaw03.md)

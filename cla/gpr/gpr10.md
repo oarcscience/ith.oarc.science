@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gpr09)  [Next](gpr11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gpr09)  [Next](gpr11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Greek Popular Religion*, by Martin P. Nilsson, \[1940\], at Intangible
 Textual Heritage
 
@@ -48,7 +48,7 @@ religion, or he may seek to make peace with God and win His favor by
 fulfilling His commandments to the last item. The latter is legalism.
 The mystic and ecstatic movement is well known and has often been
 expounded, as in the admirable and much read book by Erwin Rohde. <span
-id="fr_128"></span>[1](#fn_128) Its herald was Dionysus, whose
+id="fr_128"></span>[1](#fn_128.md) Its herald was Dionysus, whose
 popularity was based on the longing of humanity for mystic and ecstatic
 experiences. The violent diffusion of the Dionysiac orgies took place in
 so early an age that it has left traces only in myths and cults. When
@@ -59,7 +59,7 @@ religious movements of an almost sectarian character, especially
 Orphism. Although these movements seem to have been widespread in the
 early age, they cannot be called popular in the strict sense of the
 word, and I must pass over them here. <span
-id="fr_129"></span>[2](#fn_129)
+id="fr_129"></span>[2](#fn_129.md)
 
 There were some very curious men, characteristic of this age, who were
 not unlike the medicine men of primitive peoples. They went around
@@ -78,7 +78,7 @@ ecstatic, but it is at least as important, and it finally carried the
 day in its higher, political forms. Here I propose to treat of its
 popular forms, which were in great part suppressed. We turn to the
 oldest work of Greek poetry next to Homer, Hesiod's *Works and
-Days*. <span id="fr_130"></span>[3](#fn_130) Hesiod was a peasant from a
+Days*. <span id="fr_130"></span>[3](#fn_130.md) Hesiod was a peasant from a
 miserable village in Boeotia, although he had learned the minstrel's
 profession. He wrote for his fellows, giving them good counsel in regard
 to their occupation and their life. He passionately preaches labor, by
@@ -125,7 +125,7 @@ permitted to move, a man may not bathe in a bath for women.
 
 Such prescriptions occur elsewhere. They were especially taken up by the
 exoteric school of the Pythagoreans, the so-called *akousmatikoi*. <span
-id="fr_131"></span>[4](#fn_131) Pious and ritual and superstitious and
+id="fr_131"></span>[4](#fn_131.md) Pious and ritual and superstitious and
 merely secular rules of conduct are blended without any distinction.
 Especially interesting from our point of view is the addition to
 Hesiod's poem, which is properly called *The Days*. It is generally
@@ -156,7 +156,7 @@ the gods. Two such birthdays are mentioned in Hesiod.
 
 About the same time the calendars of the Greek states were regulated,
 probably at the instigation of the Delphic oracle. <span
-id="fr_132"></span>[5](#fn_132) The eight year intercalary cycle was
+id="fr_132"></span>[5](#fn_132.md) The eight year intercalary cycle was
 introduced, and the festivals were fixed on certain days of the lunar
 month. This regulation of the calendar is connected with the belief in
 the different virtues of the days of the lunar month, but there is a
@@ -251,9 +251,9 @@ customary, and is so still, to avert such a danger by spitting into
 one's bosom or by making an obscene gesture. The impressive scene in the
 *Agamemnon* of Aeschylus, in which the king fears to tread on purple
 carpets when entering his palace lest the envy of some evil eye should
-harm him, is taken from real life. <span id="fr_133"></span>[6](#fn_133)
+harm him, is taken from real life. <span id="fr_133"></span>[6](#fn_133.md)
 Herodotus' story of the tyrant Polycrates contains a folk-tale motif
-which is still current. <span id="fr_134"></span>[7](#fn_134) When King
+which is still current. <span id="fr_134"></span>[7](#fn_134.md) When King
 Amasis heard of Polycrates' exceptional good luck he advised him to
 offset it by throwing away something which he valued very highly.
 Polycrates obeyed and threw a costly ring into the sea, but it was found
@@ -282,8 +282,8 @@ But these include the gods also, as in Homer and elsewhere. Consequently
 the word can and sometimes must be translated "fear of the gods."
 Xenophon still uses it in this good sense when he praises King Agesilaus
 for his deisidaimonia, his reverence for the gods. <span
-id="fr_135"></span>[8](#fn_135) In Theophrastus' characterization of the
-*deisidaimon* <span id="fr_136"></span>[9](#fn_136) the sense has
+id="fr_135"></span>[8](#fn_135.md) In Theophrastus' characterization of the
+*deisidaimon* <span id="fr_136"></span>[9](#fn_136.md) the sense has
 deteriorated and the word can rightly be translated by "superstition."
 The superstitious man is one who, if something happens, washes his
 hands, sprinkles himself with holy water, and walks about the whole day
@@ -319,7 +319,7 @@ mentioning. But the Greeks borrowed Hecate from Caria because they
 needed a goddess of witchcraft and ghosts, and in the classical age her
 triple image was erected before every house in order to avert evils of
 that kind. Aristophanes is a witness to the fact that witchcraft was
-well known. <span id="fr_137"></span>[10](#fn_137) He makes Strepsiades
+well known. <span id="fr_137"></span>[10](#fn_137.md) He makes Strepsiades
 say that he wants to buy a Thessalian witch to bring down the moon and
 shut it up, and he mentions necromantics, the calling up of the dead to
 foretell the future, a kind of mantic which was almost completely absent
@@ -327,7 +327,7 @@ from Greece in early times.
 
 Very important is the tract on the holy disease, that is, epilepsy. It
 is one of the earliest in the collection ascribed to Hippocrates, <span
-id="fr_138"></span>[11](#fn_138) and was probably written by him. At any
+id="fr_138"></span>[11](#fn_138.md) and was probably written by him. At any
 
 <span id="page_112">p. 112</span>
 
@@ -381,9 +381,9 @@ The account in Hippocrates concerns disease, and in cases where human
 resources fail superstition flourishes strongly even in our day. Even
 Pericles, who was above such base things, had to tolerate the tying of
 an amulet to him by the women when he was ill. <span
-id="fr_139"></span>[12](#fn_139) Of the cures in the Asclepieion at
+id="fr_139"></span>[12](#fn_139.md) Of the cures in the Asclepieion at
 Epidaurus, the most miraculous and unbelievable tales are related. <span
-id="fr_140"></span>[13](#fn_140) I will not enter into the sane and
+id="fr_140"></span>[13](#fn_140.md) I will not enter into the sane and
 sober views of Hippocrates on religion, although they are worth reading.
 I turn instead to another author who has much to say about magic and
 magicians, Plato. He prescribes the severest punishments for men who
@@ -395,7 +395,7 @@ spells, and imprecations of black magic and of wax dolls which
 <span id="page_114">p. 114</span>
 
 are seen at doors, at crossroads, and on tombs. <span
-id="fr_141"></span>[14](#fn_141) It is a well-known fact, and one
+id="fr_141"></span>[14](#fn_141.md) It is a well-known fact, and one
 frequently mentioned in a later age, that witches and sorcerers used
 dolls for their purposes, burning them, transfixing them, and so forth,
 in order to affect with like pain the persons whom they represented.
@@ -408,7 +408,7 @@ word *katadeseis*. These are leaden tablets inscribed with imprecations
 directed against persons named on them and deposited in tombs in order
 to devote these cursed persons to the gods of the nether world. A great
 number of these *tabellae defixionis* have been found and
-published, <span id="fr_142"></span>[15](#fn_142) but it has been too
+published, <span id="fr_142"></span>[15](#fn_142.md) but it has been too
 little remarked that many of them belong to the fourth century B.C. A
 curious unpublished inscription on the shard of a cup, which reads "I
 put quartan fever on Aristion to the death," is probably as early as the
@@ -472,7 +472,7 @@ nothing was required for it but initiation.
 
 While for Homer the body is the man himself and the soul is a pale
 shadow worth nothing, the Orphics considered the soul as immortal and
-the body as its prison. <span id="fr_143"></span>[16](#fn_143) The soul
+the body as its prison. <span id="fr_143"></span>[16](#fn_143.md) The soul
 was able to leave the body temporarily in dreams and left it once for
 all in death. The consequence of this doctrine was a new evaluation of
 the other life. For the Orphics, also, initiation and the accompanying
@@ -511,7 +511,7 @@ were punished by the gods in the upper world, and only later were they
 transferred to the underworld. This underworld is described in the
 eleventh book of the *Odyssey*, and it was depicted by the great painter
 Polygnotus in a famous picture at Delphi. <span
-id="fr_144"></span>[17](#fn_144) But this picture contained something
+id="fr_144"></span>[17](#fn_144.md) But this picture contained something
 new. It represented a man who, having killed his father, was strangled
 by him, and a man who, having robbed a temple, was punished by a woman
 in various ways. Punishments were invented in accordance with the old
@@ -546,7 +546,7 @@ hold on the popular mind in the fifth and fourth centuries B.C. The
 philosopher Democritus says: "Many people who do not know that human
 nature is dissolved in death, but who know that they have committed much
 wrong, live constantly in fear and anxiety, composing lying fables
-concerning the time after death." <span id="fr_145"></span>[18](#fn_145)
+concerning the time after death." <span id="fr_145"></span>[18](#fn_145.md)
 And in the introduction to his great work the *Republic*, Plato makes
 the aged Kephalos say that a man who sees the hour of death approaching
 is seized by fright and begins to think about
@@ -561,7 +561,7 @@ disquieted and he makes up his account, considering whether he has done
 wrong to anybody. If he finds that he has committed many unjust actions,
 he is filled with alarm; he often leaps up from his bed in sleep as
 children do, and he lives in fear. <span
-id="fr_146"></span>[19](#fn_146) This is a striking picture and drawn
+id="fr_146"></span>[19](#fn_146.md) This is a striking picture and drawn
 from life. Plato's own detailed accounts of the other world and of
 metempsychosis must be passed over here, for they are myths created by
 him and have nothing to do with popular ideas. Their influence on the
@@ -576,9 +576,9 @@ This is, perhaps, especially due to the strong Orphic influence in that
 country.
 
 Long ago Dieterich tried to prove that hell was created by the
-Greeks. <span id="fr_147"></span>[20](#fn_147) Another great scholar,
+Greeks. <span id="fr_147"></span>[20](#fn_147.md) Another great scholar,
 Cumont, has, on the contrary, derived it from the Orient. <span
-id="fr_148"></span>[21](#fn_148) But if we take the earliest Christian
+id="fr_148"></span>[21](#fn_148.md) But if we take the earliest Christian
 vision of hell, the so-called Apocalypse of St. Peter, which was the
 starting point of Dieterich's research, it appears that Dieterich was
 right. The description of the punishments for moral sins, which were
@@ -606,74 +606,74 @@ also. That mind was not so exclusively bright as is sometimes said.
 
 ### Footnotes
 
-<span id="fn_128"></span>[103:1](gpr10.htm#fr_128) Psyche; *Seelencult
+<span id="fn_128"></span>[103:1](gpr10.htm#fr_128.md) Psyche; *Seelencult
 and Unsterblichkeitsglaube der Griechen* (Freiburg i. B., 1894).
 
-<span id="fn_129"></span>[103:2](gpr10.htm#fr_129) See my paper, "Early
+<span id="fn_129"></span>[103:2](gpr10.htm#fr_129.md) See my paper, "Early
 Orphism and Kindred Religious Movements," *Harvard Theological Review*,
 XXVIII (1935), 181 ff.
 
-<span id="fn_130"></span>[104:3](gpr10.htm#fr_130) Hesiod, *Works and
+<span id="fn_130"></span>[104:3](gpr10.htm#fr_130.md) Hesiod, *Works and
 Days*, ed. T. A. Sinclair (London, 1932).
 
-<span id="fn_131"></span>[105:4](gpr10.htm#fr_131) See my forthcoming
+<span id="fn_131"></span>[105:4](gpr10.htm#fr_131.md) See my forthcoming
 *Gesch. der griech. Rel.*, I, 665 ff.
 
-<span id="fn_132"></span>[106:5](gpr10.htm#fr_132) See my "Entstehung
+<span id="fn_132"></span>[106:5](gpr10.htm#fr_132.md) See my "Entstehung
 and religiöse Bedeutung des griechischen Kalenders," *Lunds universitets
 årsskrift*, XIV: 2 (1918), No. 21.
 
-<span id="fn_133"></span>[109:6](gpr10.htm#fr_133) *Agamemnon*, vss. 945
+<span id="fn_133"></span>[109:6](gpr10.htm#fr_133.md) *Agamemnon*, vss. 945
 ff.
 
-<span id="fn_134"></span>[109:7](gpr10.htm#fr_134) Herodotus, III, 40
+<span id="fn_134"></span>[109:7](gpr10.htm#fr_134.md) Herodotus, III, 40
 ff.
 
-<span id="fn_135"></span>[110:8](gpr10.htm#fr_135) Agesilaus, XI, 8.
+<span id="fn_135"></span>[110:8](gpr10.htm#fr_135.md) Agesilaus, XI, 8.
 
-<span id="fn_136"></span>[110:9](gpr10.htm#fr_136) Characteres, 16.
+<span id="fn_136"></span>[110:9](gpr10.htm#fr_136.md) Characteres, 16.
 
-<span id="fn_137"></span>[111:10](gpr10.htm#fr_137) *Nubes*, vss. 749
+<span id="fn_137"></span>[111:10](gpr10.htm#fr_137.md) *Nubes*, vss. 749
 ff., and *Aves*, vss. 1553 ff.
 
-<span id="fn_138"></span>[111:11](gpr10.htm#fr_138) *De morbo sacro*, I.
+<span id="fn_138"></span>[111:11](gpr10.htm#fr_138.md) *De morbo sacro*, I.
 
-<span id="fn_139"></span>[113:12](gpr10.htm#fr_139) Plutarch,
+<span id="fn_139"></span>[113:12](gpr10.htm#fr_139.md) Plutarch,
 *Pericles*, 38.
 
-<span id="fn_140"></span>[113:13](gpr10.htm#fr_140) The inscriptions are
+<span id="fn_140"></span>[113:13](gpr10.htm#fr_140.md) The inscriptions are
 collected in *Inscriptiones Graecae*, Editio minor, Vol. IV, Fasc. i,
 Nos. 121-27. See also R. Herzog, "Die Wunderheilungen von Epidauros,"
 *Philologus*, Supplementary Vol. XXII(1931), No. 3.
 
-<span id="fn_141"></span>[114:14](gpr10.htm#fr_141) Laws, X, p. 909b;
+<span id="fn_141"></span>[114:14](gpr10.htm#fr_141.md) Laws, X, p. 909b;
 see also p. 908d and XI, p. 933.
 
-<span id="fn_142"></span>[114:15](gpr10.htm#fr_142) The Attic tabellae
+<span id="fn_142"></span>[114:15](gpr10.htm#fr_142.md) The Attic tabellae
 defixionis have been published by R. Wünsch in an appendix to
 *Inscriptiones Graecae*, III. Several important finds have appeared
 later. See my forthcoming *Gesch. der griech. Rel.*, I, 757 ff.
 
-<span id="fn_143"></span>[116:16](gpr10.htm#fr_143) Plato, *Cratylus*,
+<span id="fn_143"></span>[116:16](gpr10.htm#fr_143.md) Plato, *Cratylus*,
 p. 400c.
 
-<span id="fn_144"></span>[117:17](gpr10.htm#fr_144) Described by
+<span id="fn_144"></span>[117:17](gpr10.htm#fr_144.md) Described by
 Pausanias, X, 28 ff.
 
-<span id="fn_145"></span>[118:18](gpr10.htm#fr_145) Frag. 297, in H.
+<span id="fn_145"></span>[118:18](gpr10.htm#fr_145.md) Frag. 297, in H.
 Diels, *Die Fragmente der Vorsokratiker*, 5th ed. (Berlin, 1934-37), II,
 206-7.
 
-<span id="fn_146"></span>[119:19](gpr10.htm#fr_146) Plato, Republic, I,
+<span id="fn_146"></span>[119:19](gpr10.htm#fr_146.md) Plato, Republic, I,
 pp. 330d ff.
 
-<span id="fn_147"></span>[119:20](gpr10.htm#fr_147) A. Dieterich,
+<span id="fn_147"></span>[119:20](gpr10.htm#fr_147.md) A. Dieterich,
 Nekyia; *Beiträge zur Erklärung der neuentdeckten Petrusapokalypse*
 (Leipzig, 1893; 2d ed., 1913).
 
-<span id="fn_148"></span>[119:21](gpr10.htm#fr_148) F. Cumont, *After
+<span id="fn_148"></span>[119:21](gpr10.htm#fr_148.md) F. Cumont, *After
 Life in Roman Paganism* (New Haven, 1922), pp. 88 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Seers and Oracles](gpr11)
+[Next: Seers and Oracles](gpr11.md)

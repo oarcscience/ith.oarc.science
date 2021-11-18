@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb14)  [Next](lrb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb14)  [Next](lrb16.md) 
 
 ------------------------------------------------------------------------
 
@@ -166,7 +166,7 @@ council of bishops and abbots and endeavour to put
 
 [![CONVOYON AND HIS MONKS CARRY OFF THE RELICS OF ST
 APOTHEMIUS](tn/33600.jpg)  
-Click to enlarge](img/33600.jpg)  
+Click to enlarge](img/33600.jpg.md)  
 CONVOYON AND HIS MONKS CARRY OFF THE RELICS OF ST APOTHEMIUS  
 
  
@@ -237,7 +237,7 @@ the boy's voice soaring above the lower tones of the
 <span id="img_33800"></span>
 
 [![ST TIVISIAU, THE SHEPHERD SAINT](tn/33800.jpg)  
-Click to enlarge](img/33800.jpg)  
+Click to enlarge](img/33800.jpg.md)  
 ST TIVISIAU, THE SHEPHERD SAINT  
 
  
@@ -675,7 +675,7 @@ but only to both the men who
 
 [![ST YVES INSTRUCTING SHEPHERD-BOYS IN THE USE OF THE
 ROSARY](tn/35200.jpg)  
-Click to enlarge](img/35200.jpg)  
+Click to enlarge](img/35200.jpg.md)  
 ST YVES INSTRUCTING SHEPHERD-BOYS IN THE USE OF THE ROSARY  
 
  
@@ -1005,7 +1005,7 @@ poetry.
 "Tell me, O my mother," she said, "is my bed made?
 
 "It is, my child," replied the châtelaine. "It is next
-[to](errata.htm#1) the Chamber of the Black Cavalier. Follow me and I
+[to](errata.htm#1.md) the Chamber of the Black Cavalier. Follow me and I
 will take you thither."
 
 <span id="page_364">p. 364</span>
@@ -1210,7 +1210,7 @@ crossed to Brittany and settled near Brest, where
 <span id="img_36800"></span>
 
 [![QUEEN QUEBAN STONED TO DEATH](tn/36800.jpg)  
-Click to enlarge](img/36800.jpg)  
+Click to enlarge](img/36800.jpg.md)  
 QUEEN QUEBAN STONED TO DEATH  
 
  
@@ -1297,4 +1297,4 @@ arise as if in answer to the sound of his bell.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Costumes and Customs of Brittany](lrb16)
+[Next: Chapter XIII: Costumes and Customs of Brittany](lrb16.md)

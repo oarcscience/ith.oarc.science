@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](idtc08)  [Next](idtc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](idtc08)  [Next](idtc10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In Days To Come*, by Ashtar (Ethel P. Hill), \[1957\], at Intangible
 Textual Heritage
 
@@ -119,7 +119,7 @@ cleansing is over, we may
 <span id="page_50">p. 50</span>
 
 confidently anticipate a joyous time of re-building,
-[re-modeling](errata.htm#9), re-creating all things on this earth in
+[re-modeling](errata.htm#9.md), re-creating all things on this earth in
 perfect harmony and accord with the design and infinitely wise
 specifications of the Master Architect of the Universe!
 
@@ -181,4 +181,4 @@ My Love!   
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](idtc10)
+[Next: Chapter VII](idtc10.md)

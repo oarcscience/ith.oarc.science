@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku08)  [Next](lku10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku08)  [Next](lku10.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ These men that flew naked were the men of the day.
 
 ------------------------------------------------------------------------
 
-[Next: The Ninth Era](lku10)
+[Next: The Ninth Era](lku10.md)

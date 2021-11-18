@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw02)  [Next](rvw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw02)  [Next](rvw04.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ otherwise. Cf. Doe v. Bolton, post, p. 179.
 
 ------------------------------------------------------------------------
 
-[Next: Section IV](rvw04)
+[Next: Section IV](rvw04.md)

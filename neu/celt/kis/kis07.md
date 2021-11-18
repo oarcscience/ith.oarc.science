@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis06)  [Next](kis08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis06)  [Next](kis08.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ King of Ireland's Son.
 
 ------------------------------------------------------------------------
 
-[Next: Part VIII](kis08)
+[Next: Part VIII](kis08.md)

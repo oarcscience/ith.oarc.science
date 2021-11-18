@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap17) 
-[Next](chap19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap17.md) 
+[Next](chap19.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ smell will soon be gone.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 19: Instructions with Regard to Pregnancy](chap19)
+[Next: Chapter 19: Instructions with Regard to Pregnancy](chap19.md)

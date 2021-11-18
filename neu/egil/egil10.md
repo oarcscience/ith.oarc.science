@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil09)  [Next](egil11) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil09)  [Next](egil11.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ your mother was taken by force, and carried home as a captive.'
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER X. Thorolf in Finmark.](egil11)
+[Next: CHAPTER X. Thorolf in Finmark.](egil11.md)

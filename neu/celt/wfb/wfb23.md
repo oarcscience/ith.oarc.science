@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb22)  [Next](wfb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb22)  [Next](wfb24.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ could descry his harp floating on the face of the waters.
 
 ------------------------------------------------------------------------
 
-[Next: The Forbidden Fountain](wfb24)
+[Next: The Forbidden Fountain](wfb24.md)

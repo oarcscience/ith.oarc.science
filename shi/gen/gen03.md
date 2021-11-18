@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen02)  [Next](gen04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen02)  [Next](gen04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -28,11 +28,11 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
 
 **CHAPTER I**
 
-THE CHAMBER OF KIRI <span id="fr_1"></span>[1](#fn_1)
+THE CHAMBER OF KIRI <span id="fr_1"></span>[1](#fn_1.md)
 
 <span class="smallcaps">In</span> the reign of a certain Emperor, whose
 name is unknown to us, there was, among the Niogo <span
-id="fr_2"></span>[2](#fn_2) and Kôyi <span id="fr_3"></span>[2](#fn_2)
+id="fr_2"></span>[2](#fn_2) and Kôyi <span id="fr_3"></span>[2](#fn_2.md)
 of the Imperial Court, one who, though she was not of high birth,
 enjoyed the full tide of Royal favor. Hence her superiors, each one of
 whom had always been thinking—"I shall be the *one*," gazed upon her
@@ -44,7 +44,7 @@ great and constant, and this was probably the reason why her health was
 at last so much affected, that she was often compelled to absent herself
 from Court, and to retire to the residence of her mother.
 
-Her father, who was a Dainagon, <span id="fr_4"></span>[3](#fn_3) was
+Her father, who was a Dainagon, <span id="fr_4"></span>[3](#fn_3.md) was
 dead; but her mother, being a woman of good sense, gave her every
 possible guidance in the due performance of Court ceremony, so that in
 this respect she seemed but little different from those whose fathers
@@ -62,12 +62,12 @@ disturbance and disaster; and thus the matter became a subject of public
 
 animadversion, and it seemed not improbable that people would begin to
 allude even to the example of Yô-ki-hi. <span
-id="fr_5"></span>[4](#fn_4)
+id="fr_5"></span>[4](#fn_4.md)
 
 In due course, and in consequence, we may suppose, of the Divine
 blessing on the sincerity of their affection, a jewel of a little prince
 was born to her. The first prince who had been born to the Emperor was
-the child of Koki-den-Niogo, <span id="fr_6"></span>[5](#fn_5) the
+the child of Koki-den-Niogo, <span id="fr_6"></span>[5](#fn_5.md) the
 daughter of the Udaijin (a great officer of State). Not only was he
 first in point of age, but his influence on his mother's side was so
 great that public opinion had almost unanimously fixed upon him as
@@ -105,7 +105,7 @@ resided. It had been originally occupied by another lady who was now
 removed, and thus fresh resentment was aroused.
 
 When the young Prince was three years old the Hakamagi <span
-id="fr_7"></span>[6](#fn_6) took place. It was celebrated with a pomp
+id="fr_7"></span>[6](#fn_6.md) took place. It was celebrated with a pomp
 scarcely inferior to that which adorned the investiture of the first
 Prince. In fact, all available treasures were exhausted on the occasion.
 And again the public manifested its disapprobation. In the summer of the
@@ -120,7 +120,7 @@ last stage of exhaustion, and she became so much enfeebled that her
 mother appeared before the Emperor and entreated with tears that she
 might be allowed to leave. Distracted by his vain endeavors to devise
 means to aid her, the Emperor at length ordered a Te-gruma <span
-id="fr_8"></span>[7](#fn_7) to be in readiness to convey her to her own
+id="fr_8"></span>[7](#fn_7.md) to be in readiness to convey her to her own
 home, but even then he went to her apartment and cried despairingly:
 "Did not we vow that we would neither of us be either before or after
 the other even in travelling the last long journey of life? And can you
@@ -166,7 +166,7 @@ indeed was the sting in a case like this.
 
 Now the funeral took place. The weeping and wailing mother, who might
 have longed to mingle in the same flames, <span
-id="fr_9"></span>[8](#fn_8) entered a carriage, accompanied by female
+id="fr_9"></span>[8](#fn_8.md) entered a carriage, accompanied by female
 mourners. The procession arrived at the cemetery of Otagi, and the
 solemn rites commenced. What were then the thoughts of the desolate
 mother? The image of her dead daughter was still vividly present to
@@ -196,7 +196,7 @@ of the child, and to make inquiries after them. It was now autumn, and
 the evening winds blew chill and cold. The Emperor—who, when he saw the
 first Prince, could not refrain from thinking of the younger one—became
 more thoughtful than ever; and, on this evening, he sent Yugei-no
-Miôbu <span id="fr_10"></span>[9](#fn_9) to repeat his inquiries. She
+Miôbu <span id="fr_10"></span>[9](#fn_9.md) to repeat his inquiries. She
 went as the new moon just rose, and the Emperor stood and contemplated
 from his veranda the prospect spread before him. At such moments he had
 usually been surrounded by a few chosen friends, one of whom was almost
@@ -257,7 +257,7 @@ following:–
 <div style="margin-left: 32px">
 
 <span class="small">"The sound of the wind is dull and drear  
-    Across Miyagi's <span id="fr_11"></span>[10](#fn_10) dewy lea,  
+    Across Miyagi's <span id="fr_11"></span>[10](#fn_10.md) dewy lea,  
   And makes me mourn for the motherless deer  
     That sleeps beneath the Hagi tree."</span>
 
@@ -318,7 +318,7 @@ herbage to and fro, in which
 <span id="page_18">p. 18</span>
 
 numerous *mushi* were plaintively singing. <span
-id="fr_12"></span>[11](#fn_11) The messenger, being still somehow
+id="fr_12"></span>[11](#fn_11.md) The messenger, being still somehow
 unready to start, hummed–
 
 <div style="margin-left: 32px">
@@ -336,7 +336,7 @@ lingered, the lady took up the refrain–
 <div style="margin-left: 32px">
 
 <span class="small">"To the heath where the Sudu-Mushi sings,  
-    From beyond the clouds <span id="fr_13"></span>[12](#fn_12) one
+    From beyond the clouds <span id="fr_13"></span>[12](#fn_12.md) one
 comes from on high  
   And more dews on the grass around she flings,  
     And adds her own, to the night wind's sigh."</span>
@@ -356,7 +356,7 @@ engaged in admiring the Tsubo-Senzai—or stands of flowers—which were
 placed in front of the palaces, and in which the flowers were in full
 bloom. With him were four or five ladies, his intimate friends, with
 whom he was conversing. In these days his favorite topic of conversation
-was the "Long Regret." <span id="fr_14"></span>[13](#fn_13) Nothing
+was the "Long Regret." <span id="fr_14"></span>[13](#fn_13.md) Nothing
 pleased him more than to gaze upon the picture of that poem, which had
 been painted by Prince Teishi-In, or to talk about the native poems on
 the same subject, which had been composed, at the Royal command, by Ise,
@@ -437,7 +437,7 @@ How painfully must these have sounded to the Emperor!
 
 Thus thought the Emperor, and he did not retire until "the lamps were
 trimmed to the end!" The sound of the night watch of the right
-guard <span id="fr_15"></span>[14](#fn_14) was now heard. It was five
+guard <span id="fr_15"></span>[14](#fn_14.md) was now heard. It was five
 o'clock in the morning. So, to avoid notice, he withdrew to his bedroom,
 but calm slumber hardly visited his eyes. This now became a common
 occurrence.
@@ -485,7 +485,7 @@ their half-brother a pleasant playmate. Every one was pleased to greet
 him, and there was already a winning coquetry in his manners, which
 amused people, and made them like to play with him. We need not allude
 to his studies in detail, but on musical instruments, such as the flute
-and the *koto*, <span id="fr_16"></span>[15](#fn_15) he also showed
+and the *koto*, <span id="fr_16"></span>[15](#fn_15.md) he also showed
 great proficiency.
 
 About this time there arrived an embassy from Corea, and among them was
@@ -540,7 +540,7 @@ astrologists, whom also the Emperor consulted, having expressed their
 disapproval of such a measure, the Emperor finally made up his mind to
 create a new family. To this family he assigned the name of Gen, and he
 made the young Prince the founder of it. <span
-id="fr_17"></span>[16](#fn_16)
+id="fr_17"></span>[16](#fn_16.md)
 
 Some time had now elapsed since the death of the Emperor's favorite, but
 he was still often haunted by her image. Ladies were introduced into his
@@ -620,7 +620,7 @@ to his, and so bright and radiant was his face that Genji was called by
 the public Hikal-Genji-no-Kimi (the shining Prince Gen).
 
 When he attained the age of twelve the ceremony of Gem-buk <span
-id="fr_18"></span>[17](#fn_17) (or crowning) took place. This was also
+id="fr_18"></span>[17](#fn_17) (or crowning.md) took place. This was also
 performed with all possible magnificence. Various *fêtes*, which were to
 take place in public, were arranged by special order by responsible
 officers of the Household. The Royal chair was placed in the Eastern
@@ -668,7 +668,7 @@ own wine-cup, the Emperor addressed him thus:—
 <div style="margin-left: 32px">
 
 <span class="small">"In the first hair-knot <span
-id="fr_19"></span>[18](#fn_18) of youth,  
+id="fr_19"></span>[18](#fn_18.md) of youth,  
   Let love that lasts for age be bound!"</span>
 
 </div>
@@ -679,7 +679,7 @@ implied an idea of matrimony. Sadaijin feigned surprise and responded:—
 <div style="margin-left: 32px">
 
 <span class="small">"Aye! if the purple <span
-id="fr_20"></span>[19](#fn_19) of the cord,  
+id="fr_20"></span>[19](#fn_19.md) of the cord,  
   I bound so anxiously, endure!"</span>
 
 </div>
@@ -690,7 +690,7 @@ in the same manner in which Genji had previously
 <span id="page_26">p. 26</span>
 
 done. A horse from the Imperial stables and a falcon from the
-Kurand-Dokoro <span id="fr_21"></span>[20](#fn_20) were on view in the
+Kurand-Dokoro <span id="fr_21"></span>[20](#fn_20.md) were on view in the
 yard, and were now presented to him. The princes and nobles were all
 gathered together in front of the grand staircase, and appropriate gifts
 were also presented to each one of them. Among the crowd baskets and
@@ -766,54 +766,54 @@ originated by the Corean who examined his physiognomy.
 
 ### Footnotes
 
-<span id="fn_1"></span>[11:1](gen03.htm#fr_1) The beautiful tree, called
+<span id="fn_1"></span>[11:1](gen03.htm#fr_1.md) The beautiful tree, called
 Kiri, has been named Paulownia Imperialis, by botanists.
 
-<span id="fn_2"></span>[11:2](gen03.htm#fr_3) Official titles held by
+<span id="fn_2"></span>[11:2](gen03.htm#fr_3.md) Official titles held by
 Court ladies.
 
-<span id="fn_3"></span>[11:3](gen03.htm#fr_4) The name of a Court
+<span id="fn_3"></span>[11:3](gen03.htm#fr_4.md) The name of a Court
 office.
 
-<span id="fn_4"></span>[12:4](gen03.htm#fr_5) A celebrated and beautiful
+<span id="fn_4"></span>[12:4](gen03.htm#fr_5.md) A celebrated and beautiful
 favorite of an Emperor of the Thang dynasty in China, whose
 administration was disturbed by a rebellion, said to have been caused by
 the neglect of his duties for her sake.
 
-<span id="fn_5"></span>[12:5](gen03.htm#fr_6) A Niogo who resided in a
+<span id="fn_5"></span>[12:5](gen03.htm#fr_6.md) A Niogo who resided in a
 part of the Imperial palace called "Koki-den."
 
-<span id="fn_6"></span>[13:6](gen03.htm#fr_7) The Hakamagi is the
+<span id="fn_6"></span>[13:6](gen03.htm#fr_7.md) The Hakamagi is the
 investiture of boys with trousers, when they pass from childhood to
 boyhood. In ordinary cases, this is done when about five years old, but
 in the Royal Family, it usually takes place earlier.
 
-<span id="fn_7"></span>[13:7](gen03.htm#fr_8) A carriage drawn by hands.
+<span id="fn_7"></span>[13:7](gen03.htm#fr_8.md) A carriage drawn by hands.
 Its use in the Court-yard of the Palace was only allowed to persons of
 distinction.
 
-<span id="fn_8"></span>[14:8](gen03.htm#fr_9) Cremation was, very common
+<span id="fn_8"></span>[14:8](gen03.htm#fr_9.md) Cremation was, very common
 in these days.
 
-<span id="fn_9"></span>[15:9](gen03.htm#fr_10) A Court lady, whose name
+<span id="fn_9"></span>[15:9](gen03.htm#fr_10.md) A Court lady, whose name
 was Yugei, holding an office called "Miôbu."
 
-<span id="fn_10"></span>[16:10](gen03.htm#fr_11) Miyagi is the name of a
+<span id="fn_10"></span>[16:10](gen03.htm#fr_11.md) Miyagi is the name of a
 field which is famous for the Hagi or Lespedeza, a small and pretty
 shrub, which blooms in the Autumn. In poetry it is associated with deer,
 and a male and female deer are often compared to a lover and his love,
 and their young to their children.
 
-<span id="fn_11"></span>[18:11](gen03.htm#fr_12) In Japan there is a
+<span id="fn_11"></span>[18:11](gen03.htm#fr_12.md) In Japan there is a
 great number of "mushi" or insects, which sing in herbage grass,
 especially in the evenings of Autumn. They are constantly alluded to in
 poetry.
 
-<span id="fn_12"></span>[18:12](gen03.htm#fr_13) In Japanese poetry,
+<span id="fn_12"></span>[18:12](gen03.htm#fr_13.md) In Japanese poetry,
 persons connected with the Court, are spoken of as "the people above the
 clouds."
 
-<span id="fn_13"></span>[18:13](gen03.htm#fr_14) A famous Chinese poem,
+<span id="fn_13"></span>[18:13](gen03.htm#fr_14.md) A famous Chinese poem,
 by Hakrak-ten. The heroine of the poem was Yô-ki-hi, to whom we have
 made reference before. The story is, that after death she became a
 fairy, and the Emperor sent a magician to find her. The works of the
@@ -821,32 +821,32 @@ poet Peh-lo-tien, as it is pronounced by modern Chinese, were the only
 poems in vogue at that time. Hence, perhaps, the reason of its being
 frequently quoted.
 
-<span id="fn_14"></span>[20:14](gen03.htm#fr_15) There were two
+<span id="fn_14"></span>[20:14](gen03.htm#fr_15.md) There were two
 divisions of the Imperial guard, right and left.
 
-<span id="fn_15"></span>[21:15](gen03.htm#fr_16) The general name for a
+<span id="fn_15"></span>[21:15](gen03.htm#fr_16.md) The general name for a
 species of musical instrument resembling the zither, but longer.
 
-<span id="fn_16"></span>[22:16](gen03.htm#fr_17) In these days Imperial
+<span id="fn_16"></span>[22:16](gen03.htm#fr_17.md) In these days Imperial
 Princes were often created founders of new families, and with some given
 name, the Gen being one most frequently used. These Princes had no
 longer a claim to the throne.
 
-<span id="fn_17"></span>[24:17](gen03.htm#fr_18) The ceremony of placing
+<span id="fn_17"></span>[24:17](gen03.htm#fr_18.md) The ceremony of placing
 a crown or coronet upon the head of a boy. This was an ancient custom
 observed by the upper and middle classes both in Japan and China, to
 mark the transition from boyhood to youth.
 
-<span id="fn_18"></span>[25:18](gen03.htm#fr_19) Before the crown was
+<span id="fn_18"></span>[25:18](gen03.htm#fr_19.md) Before the crown was
 placed upon the head at the Gembuk, the hair was gathered up in a
 conical form from all sides of the head, and then fastened securely in
 that form with a knot of silken cords of which the color was always
 purple.
 
-<span id="fn_19"></span>[25:19](gen03.htm#fr_20) The color of purple
+<span id="fn_19"></span>[25:19](gen03.htm#fr_20.md) The color of purple
 typifies, and is emblematical of, love.
 
-<span id="fn_20"></span>[26:20](gen03.htm#fr_21) A body of men who
+<span id="fn_20"></span>[26:20](gen03.htm#fr_21.md) A body of men who
 resembled "Gentlemen-at-arms," and a part of whose duty it was to attend
 to the falcons.
 
@@ -854,6 +854,6 @@ to the falcons.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: The Broom-Like Tree](gen04)
+[Next: Chapter II: The Broom-Like Tree](gen04.md)
 
 </div>

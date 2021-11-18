@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt06)  [Next](trt08) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt06)  [Next](trt08.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ the Round Table.' And the next day he made Gawaine Knight also.
 
 ------------------------------------------------------------------------
 
-[Next: The Passing of Merlin](trt08)
+[Next: The Passing of Merlin](trt08.md)

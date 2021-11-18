@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod13)  [Next](ebod15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod13)  [Next](ebod15.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ for ever in Sekhet-Aru\[2\] with wheat and barley (20) therefor."
 
 ------------------------------------------------------------------------
 
-[Next: Plate III.](ebod15)
+[Next: Plate III.](ebod15.md)

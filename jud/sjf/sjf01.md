@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sjf00)  [Next](sjf02) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sjf00)  [Next](sjf02.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ C. TAYLOR.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sjf02)
+[Next: Introduction](sjf02.md)

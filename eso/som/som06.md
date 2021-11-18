@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som05) 
-[Next](som07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som05.md) 
+[Next](som07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -254,14 +254,14 @@ teachings of the great thinkers we find that a common thread runs
 through all--the thread of Unity. There is no record of any deep
 thinker, of any age, who taught duality. One of the great teachings of
 Moses was, "Hear, O Israel, the Lord our God is One Lord"; <span
-id="fr_0"></span>[1](#fn_0) and the saying, "I AM that I AM," <span
-id="fr_1"></span>[2](#fn_1) was old when Moses was yet unborn; for it
+id="fr_0"></span>[1](#fn_0.md) and the saying, "I AM that I AM," <span
+id="fr_1"></span>[2](#fn_1.md) was old when Moses was yet unborn; for it
 had been inscribed over the temple entrances for generations. We may go
 back much farther than Moses and find the same teaching, for it crops
 out from the literatures and sayings of the wise of all ages. Jesus
 taught this when He said, "I and the Father are One," <span
-id="fr_2"></span>[3](#fn_2) and in the saying, "The Father that dwelleth
-in me." <span id="fr_3"></span>[4](#fn_3)
+id="fr_2"></span>[3](#fn_2.md) and in the saying, "The Father that dwelleth
+in me." <span id="fr_3"></span>[4](#fn_3.md)
 
 This teaching of Unity is the chief cornerstone of the Sacred Scriptures
 of the East as well as of our own Sacred Writings. It is to-day the
@@ -447,7 +447,7 @@ It is impossible to conceive of anything other than the Word of God
 being that which sets power in motion. This is why the Scriptures
 announce that, "In the beginning was the Word, and the Word was with God
 and the Word was God. All things were made by Him, and without Him was
-not anything made that was made." <span id="fr_4"></span>[5](#fn_4) God
+not anything made that was made." <span id="fr_4"></span>[5](#fn_4.md) God
 speaks and it is done.
 
 It is evident that First Cause must be Self-Existent; that is, It must
@@ -527,7 +527,7 @@ not mean making something out of nothing, but means the passing of
 Substance into form through a law which is set in motion by the Word of
 Spirit. Creation is eternally going on; for we could not imagine a time
 when the activity of Spirit would cease. It is "the same yesterday,
-to-day and forever." <span id="fr_5"></span>[6](#fn_5)
+to-day and forever." <span id="fr_5"></span>[6](#fn_5.md)
 
 The whole action of Spirit must be within Itself, upon the Law, which is
 also within Itself, and upon the Universal Stuff, or matter, which is
@@ -583,7 +583,7 @@ will be forever, there will forever be some kind of manifestation.
 The universe is alive with action and power, with energy and life. We
 touch it only in parts, but from these parts we do catch a glimpse of
 the nature of the Whole. "He hath not left Himself without a
-witness." <span id="fr_6"></span>[7](#fn_6) Modern science is revealing
+witness." <span id="fr_6"></span>[7](#fn_6.md) Modern science is revealing
 many things that the great thinkers of the ages have announced. One of
 them is that matter is in a constant state of flow; it is like a river
 flowing in, out and on; it is operated upon by an unseen force or law
@@ -622,20 +622,20 @@ Law, becomes Form; for this is the inner meaning of Creation.
 
 ### Footnotes
 
-<span id="fn_0"></span>[44:1](som06.htm#fr_0) Deut 6:4.
+<span id="fn_0"></span>[44:1](som06.htm#fr_0.md) Deut 6:4.
 
-<span id="fn_1"></span>[44:2](som06.htm#fr_1) Exodus 3:14.
+<span id="fn_1"></span>[44:2](som06.htm#fr_1.md) Exodus 3:14.
 
-<span id="fn_2"></span>[44:3](som06.htm#fr_2) John 10:30.
+<span id="fn_2"></span>[44:3](som06.htm#fr_2.md) John 10:30.
 
-<span id="fn_3"></span>[44:4](som06.htm#fr_3) John 14:10.
+<span id="fn_3"></span>[44:4](som06.htm#fr_3.md) John 14:10.
 
-<span id="fn_4"></span>[49:5](som06.htm#fr_4) John 1:1, 3
+<span id="fn_4"></span>[49:5](som06.htm#fr_4.md) John 1:1, 3
 
-<span id="fn_5"></span>[51:6](som06.htm#fr_5) Heb. 13:8.
+<span id="fn_5"></span>[51:6](som06.htm#fr_5.md) Heb. 13:8.
 
-<span id="fn_6"></span>[52:7](som06.htm#fr_6) Acts. 14:17
+<span id="fn_6"></span>[52:7](som06.htm#fr_6.md) Acts. 14:17
 
 ------------------------------------------------------------------------
 
-[Next: Metaphysical Chart I](som07)
+[Next: Metaphysical Chart I](som07.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar03) 
-[Next](mtar05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar03.md) 
+[Next](mtar05.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ This mode is rather difficult at first, but practice will give facility.
 
 ------------------------------------------------------------------------
 
-[Next: Tarot Game Play](mtar05)
+[Next: Tarot Game Play](mtar05.md)

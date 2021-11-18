@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli07)  [Next](mfli09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli07)  [Next](mfli09.md) 
 
 ------------------------------------------------------------------------
 
@@ -491,4 +491,4 @@ wedding.
 
 ------------------------------------------------------------------------
 
-[Next: The Thirteenth Son of the King of Erin](mfli09)
+[Next: The Thirteenth Son of the King of Erin](mfli09.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](eci08)  [Next](eci10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](eci08)  [Next](eci10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ethnography of the Cahuilla Indians*, by A. L. Kroeber, \[1908\], at
 Intangible Textual Heritage
 
@@ -14,12 +14,12 @@ Intangible Textual Heritage
 ### HOUSES.
 
 The houses of the desert Cahuilla remain very much as described by Dr.
-Barrows. <span id="fr_26"></span>[24](#fn_25) Their appearance and
+Barrows. <span id="fr_26"></span>[24](#fn_25.md) Their appearance and
 construction
 
 <span id="page_64">p. 64</span>
 
-is shown in [plate 14](eci12.htm#img_pl14). These houses bear some
+is shown in [plate 14](eci12.htm#img_pl14.md). These houses bear some
 resemblance to the houses of the Colorado river tribes, especially in
 the upright forked posts supporting the roof beams, and in the character
 of the thatching. They differ, however, in being but slightly or
@@ -36,7 +36,7 @@ use of their shades or ramadas and wind-breaks, which are usually
 constructed in front of the entrance to the house.
 
 At the Banning reservation a sweathouse is still in use ([Pl.
-15](eci12.htm#img_pl15)). From the outside its appearance is that of a
+15](eci12.htm#img_pl15).md). From the outside its appearance is that of a
 small mound. The ground has been excavated to the depth of a foot or a
 foot and a half, over a space of about twelve by seven or eight feet. In
 the center of this area two heavy posts are set up three or four feet
@@ -66,8 +66,8 @@ assembly chamber.
 
 ### Footnotes
 
-<span id="fn_25"></span>[63:24](eci09.htm#fr_26) Barrows, 35.
+<span id="fn_25"></span>[63:24](eci09.htm#fr_26.md) Barrows, 35.
 
 ------------------------------------------------------------------------
 
-[Next: Social and Religious Life](eci10)
+[Next: Social and Religious Life](eci10.md)

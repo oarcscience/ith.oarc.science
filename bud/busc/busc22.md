@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](busc21)  [Next](busc23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](busc21)  [Next](busc23.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Buddhist Scriptures*, by E.J. Thomas, \[1913\], at Intangible Textual
 Heritage
 
@@ -34,7 +34,7 @@ Then if it be thy wish, now rain, O sky.
 <span class="smallcaps">The Lord</span>: I am free from anger,
 stubbornness have I ended,  
 On the banks of the river Mahī for one night dwelling,  
-Unroofed is my house, my fire <span id="fr_18"></span>[1](#fn_18)
+Unroofed is my house, my fire <span id="fr_18"></span>[1](#fn_18.md)
 extinguished—  
 Then if it be thy wish, now rain, O sky.
 
@@ -103,7 +103,7 @@ Then if it be thy wish, now rain, O sky.
 
 Then at that moment burst a mighty storm-cloud,  
 Filling the earth and deep expanse of ocean, <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 <span id="page_107">p. 107</span>
 
@@ -183,7 +183,7 @@ its origin to Buddhism as quite illusory.
 
 ### Footnotes
 
-<span id="fn_18"></span>[104:1](busc22.htm#fr_18) *I.e.* the fire of
+<span id="fn_18"></span>[104:1](busc22.htm#fr_18.md) *I.e.* the fire of
 lusts. The same thought occurs in the solemn utterance (udāna) of Buddha
 at his enlightenment:
 
@@ -204,13 +204,13 @@ Destruction of desires has reached.
 
 </div>
 
-<span id="fn_19"></span>[106:1](busc22.htm#fr_19) Victor Henry takes it
+<span id="fn_19"></span>[106:1](busc22.htm#fr_19.md) Victor Henry takes it
 to be understood that the wealth of Dhaniya is destroyed in the storm.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XX. Buddha's Visit To Chunda](busc23)
+[Next: XX. Buddha's Visit To Chunda](busc23.md)
 
 </div>

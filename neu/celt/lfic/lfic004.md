@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic003)  [Next](lfic005) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic003)  [Next](lfic005.md) 
 
 ------------------------------------------------------------------------
 
@@ -367,4 +367,4 @@ never pronounced as *c* in *cent* or,*g* in, *gom*.
 
 ------------------------------------------------------------------------
 
-[Next: The Bad Stepmother](lfic005)
+[Next: The Bad Stepmother](lfic005.md)

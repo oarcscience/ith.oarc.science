@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs36)  [Next](mhs38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs36)  [Next](mhs38.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ and even quarrel.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Salt As A Protection To Young Infants](mhs38)
+[Next: VII. Salt As A Protection To Young Infants](mhs38.md)

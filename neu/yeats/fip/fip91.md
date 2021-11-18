@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip90)  [Next](fip92) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip90)  [Next](fip92.md) 
 
 ------------------------------------------------------------------------
 
-### SHONEEN AND SLEIVEEN.--Page [220](fip59.htm#page_220).
+### SHONEEN AND SLEIVEEN.--Page [220](fip59.htm#page_220.md).
 
 Shoneen is the diminutive of *shone* \[Ir. *Seón*\]. There are two Irish
 names for John--one is *Shone*, the other is *Shawn* \[Ir. *Seághan*\].
@@ -21,4 +21,4 @@ am indebted to Mr. Douglas Hyde for these details, as for many others.
 
 ------------------------------------------------------------------------
 
-[Next: Demon Cat](fip92)
+[Next: Demon Cat](fip92.md)

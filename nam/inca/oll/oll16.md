@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll15)  [Next](oll17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll15)  [Next](oll17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -20,8 +20,8 @@ Heritage
 ### SCENE 5
 
 A secluded part of the gardens of the Virgins, (L.) *flowers*, (R.) *a
-thicket of* mulli <span id="fr_65"></span>[1](#fn_65) *and*
-chilca, <span id="fr_66"></span>[2](#fn_66) *concealing a stone door*.
+thicket of* mulli <span id="fr_65"></span>[1](#fn_65.md) *and*
+chilca, <span id="fr_66"></span>[2](#fn_66.md) *concealing a stone door*.
 
 (PITU SALLA and YMA SUMAC.)
 
@@ -161,12 +161,12 @@ extinguish the torch*.
 
 ### Footnotes
 
-<span id="fn_65"></span>[388:1](oll16.htm#fr_65) *Schineus Molle*, a
+<span id="fn_65"></span>[388:1](oll16.htm#fr_65.md) *Schineus Molle*, a
 tree with pinnate leaves, and panicles of red berries, well known in the
 Mediterranean countries, into which it was introduced from Peru. Called
 by the English 'pepper tree.'
 
-<span id="fn_66"></span>[388:2](oll16.htm#fr_66) Several bushes are
+<span id="fn_66"></span>[388:2](oll16.htm#fr_66.md) Several bushes are
 called *chilca* in Peru. *Eupatorium chilca* (R. P.), *baccharis
 scandens*, and *molina latifolia*. *Stereoxylon pendulum* is called
 *puna chilca*.
@@ -175,6 +175,6 @@ scandens*, and *molina latifolia*. *Stereoxylon pendulum* is called
 
 ------------------------------------------------------------------------
 
-[Next: Scene 6](oll17)
+[Next: Scene 6](oll17.md)
 
 </div>

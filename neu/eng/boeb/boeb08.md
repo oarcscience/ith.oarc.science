@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb07)  [Next](boeb09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb07)  [Next](boeb09.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_71">p. 71</span>
 
 <span id="img_07100"></span> [![](tn/07100.jpg)  
-Click to enlarge](img/07100.jpg)
+Click to enlarge](img/07100.jpg.md)
 
 <span id="img_07101"></span> ![](img/07101.jpg)
 
@@ -128,4 +128,4 @@ And by misfortune cut them down,
 
 ------------------------------------------------------------------------
 
-[Next: Annan Water](boeb09)
+[Next: Annan Water](boeb09.md)

@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Mysticism](../../myst/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Mysticism](../../myst/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte.md)
 
 </div>
 
@@ -31,8 +31,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574NM/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cjb00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cjb.txt.gz)
+[Contents](#contents)    [Start Reading](cjb00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cjb.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -53,30 +53,30 @@ This book will serve as a gentle introduction to Boehme for curious
 readers. Note that this work was not written by Boehme, but compiled by
 Palmer from an 18th century translation of his complete works. Also
 available at this site by Boehme is a translation of the complete work,
-[The Signature of All Things](../sat/index).
+[The Signature of All Things](../sat/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](cjb00)  
-[Note by the Editor](cjb01)  
-[Introduction](cjb02)  
+<span id="contents"></span> [Title Page](cjb00.md)  
+[Note by the Editor](cjb01.md)  
+[Introduction](cjb02.md)  
 
  
 
-[Chapter I](cjb03)  
-[Chapter II](cjb04)  
-[Chapter III](cjb05)  
-[Chapter IV](cjb06)  
-[Chapter V](cjb07)  
-[Chapter VI](cjb08)  
-[Chapter VII](cjb09)  
-[Chapter VIII](cjb10)  
-[Chapter IX](cjb11)  
-[Chapter X](cjb12)  
-[Chapter XI](cjb13)  
-[Chapter XII](cjb14)  
-[Chapter XIII](cjb15)  
-[Chapter XIV](cjb16)  
-[Chapter XV](cjb17)  
-[Chapter XVI](cjb18)  
-[Chapter XVII](cjb19)  
+[Chapter I](cjb03.md)  
+[Chapter II](cjb04.md)  
+[Chapter III](cjb05.md)  
+[Chapter IV](cjb06.md)  
+[Chapter V](cjb07.md)  
+[Chapter VI](cjb08.md)  
+[Chapter VII](cjb09.md)  
+[Chapter VIII](cjb10.md)  
+[Chapter IX](cjb11.md)  
+[Chapter X](cjb12.md)  
+[Chapter XI](cjb13.md)  
+[Chapter XII](cjb14.md)  
+[Chapter XIII](cjb15.md)  
+[Chapter XIV](cjb16.md)  
+[Chapter XV](cjb17.md)  
+[Chapter XVI](cjb18.md)  
+[Chapter XVII](cjb19.md)  

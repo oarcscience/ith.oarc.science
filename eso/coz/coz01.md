@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](coz00)  [Next](coz02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](coz00)  [Next](coz02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1419179896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ not of Greek extraction at all, but are Hellenised Chaldee.
 
 Berosus is said to be the first who introduced the writings of the
 Chaldæans concerning Astronomy and Philosophy among the Greeks, <span
-id="fr_0"></span>[\*](#fn_0) and it is certain that the traditions of
+id="fr_0"></span>[\*](#fn_0.md) and it is certain that the traditions of
 Chaldea very largely influenced Greek thought. Taylor considers that
 some of these mystical utterances are the sources whence the sublime
 conceptions of Plato were formed, and large commentaries were written
@@ -75,7 +75,7 @@ The term "Oracles" was probably bestowed upon these epigrammatic
 utterances in order to enforce the idea of their profound and deeply
 mysterious nature. The Chaldæans, however, had an Oracle, which they
 venerated as highly as the Greeks did that at Delphi. <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 We are indebted to both Psellus and Pletho, for comments at some length
 upon the Chaldæan Oracles, and the collection adduced by these writers
@@ -92,7 +92,7 @@ correctly attributed to a Chaldæan Zoroaster of very early date, and are
 marked "Z," following the method indicated by Taylor, with one or two
 exceptions. Another portion is attributed to a sect of philosophers
 named Theurgists, who flourished during the reign of Marcus Antoninus,
-upon the authority of Proclus, <span id="fr_2"></span>[†](#fn_2) and
+upon the authority of Proclus, <span id="fr_2"></span>[†](#fn_2.md) and
 these are marked "T." Oracles additional to these two series and of less
 definite source are marked "Z or T." Other oracular passages from
 miscellaneous authors are indicated by their names.
@@ -144,14 +144,14 @@ Cory; with an essay by Edward Gibbon.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:\*](coz01.htm#fr_0) Josephus, *contra Apion.
+<span id="fn_0"></span>[4:\*](coz01.htm#fr_0.md) Josephus, *contra Apion.
 I*.
 
-<span id="fn_1"></span>[5:\*](coz01.htm#fr_1) Stephanus, *De Urbibus*.
+<span id="fn_1"></span>[5:\*](coz01.htm#fr_1.md) Stephanus, *De Urbibus*.
 
-<span id="fn_2"></span>[5:†](coz01.htm#fr_2) *Vide* his Scholia on the
+<span id="fn_2"></span>[5:†](coz01.htm#fr_2.md) *Vide* his Scholia on the
 *Cratylus* of Plato.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](coz02)
+[Next: Introduction](coz02.md)

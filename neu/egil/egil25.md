@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil24)  [Next](egil26) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil24)  [Next](egil26.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ and returned to the king.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXV. Skallagrim's journey to the king.](egil26)
+[Next: CHAPTER XXV. Skallagrim's journey to the king.](egil26.md)

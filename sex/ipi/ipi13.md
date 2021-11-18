@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](ipi12)  [Next](ipi14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](ipi12)  [Next](ipi14.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,41 +11,41 @@ without the phallic element. Reference may be made to the important
 place taken in Christian dogma by the "fall"--which I have shown to have
 had a purely "phallic" foundation--and to the peculiar position assigned
 to Mary, as the Virgin Mother of God. <span
-id="fr_160"></span>[161](ipi14.htm#fn_160) It must not be forgotten,
+id="fr_160"></span>[161](ipi14.htm#fn_160.md) It must not be forgotten,
 however, that, whatever may have been the primitive idea on which these
 dogmas are based, it had received a totally fresh aspect, at the hands
 of those from whom the founders of Christianity received it. <span
-id="fr_161"></span>[162](ipi14.htm#fn_161) As to symbols, too, these
+id="fr_161"></span>[162](ipi14.htm#fn_161.md) As to symbols, too, these
 were employed by the Christians in the later signification given to them
 by the followers of the ancient faiths. Thus, the fish--and the
 cross-symbols originally embodied the idea of generation, but afterwards
 that of life, and it was in this sense that they were applied to
-Christ. <span id="fr_162"></span>[163](ipi14.htm#fn_162) The most
+Christ. <span id="fr_162"></span>[163](ipi14.htm#fn_162.md) The most
 evidently phallic representation used by the Christian iconographers is
 undoubtedly the aureole or vessica. This was generally elliptical in
 form, and contained the figure of Christ; Mary herself, however, being
 sometimes represented in the aureole, glorified as Jesus Christ. <span
-id="fr_163"></span>[164](ipi14.htm#fn_163) Probably the nimbus, also, is
+id="fr_163"></span>[164](ipi14.htm#fn_163.md) Probably the nimbus, also, is
 of phallic significance; for, although generally circular, it was
 sometimes triangular, square, etc. <span
-id="fr_164"></span>[165](ipi14.htm#fn_164) The name of Jehovah is
+id="fr_164"></span>[165](ipi14.htm#fn_164.md) The name of Jehovah is
 inscribed within a radiating triaiigle. <span
-id="fr_165"></span>[166](ipi14.htm#fn_165) Didron gives a representation
+id="fr_165"></span>[166](ipi14.htm#fn_165.md) Didron gives a representation
 of St. John the Evangelist with a circular nimbus, surmounted by two
 sunflowers, emblems of the sun, an idea which, says Didron, "reminds us
 of the Egyptian figures, from the heads of which two lotus-flowers rise
-in a similar manner." <span id="fr_166"></span>[167](ipi14.htm#fn_166)
+in a similar manner." <span id="fr_166"></span>[167](ipi14.htm#fn_166.md)
 There is also a curious representation, in this work, of the divine
 hand, with the thumb and two forefingers outstretched, resting on a
 cruciform nimbus (p. 215). In Egypt, the hand having the fingers thus
 placed was a symbol of Isis, and from its accompaniments, there can be
 little doubt, notwithstanding the mesmeric character ascribed to it by
-Ennemoser, <span id="fr_167"></span>[168](ipi14.htm#fn_167) that it had
+Ennemoser, <span id="fr_167"></span>[168](ipi14.htm#fn_167.md) that it had
 an essentially phallic origin, although it may ultimately have been used
 to signify life.
 
 There can be no question, however, that, whatever may be thought of its
-symbols, <span id="fr_168"></span>[169](ipi14.htm#fn_168) the
+symbols, <span id="fr_168"></span>[169](ipi14.htm#fn_168.md) the
 fundemental basis of Christianity is more purely "phallic" than that of
 any other religion now existing. I have referred to the presence in
 Hebraic theology of an idea of God--that of a Father--antagonistic to
@@ -81,4 +81,4 @@ expression of his life and energy.
 
 ------------------------------------------------------------------------
 
-[Next: Footnotes](ipi14)
+[Next: Footnotes](ipi14.md)

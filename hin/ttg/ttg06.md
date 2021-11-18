@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg05)  [Next](ttg07) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg05)  [Next](ttg07.md) 
 
 ------------------------------------------------------------------------
 
@@ -116,4 +116,4 @@ again to the sissoo tree.
 ------------------------------------------------------------------------
 
 [Next: Sixth Goblin: The Girl who transposed the Heads of her Husband
-and Brother. Which combination of head and body is her husband?](ttg07)
+and Brother. Which combination of head and body is her husband?](ttg07.md)

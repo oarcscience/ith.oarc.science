@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](sum09)  [Next](sum11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](sum09)  [Next](sum11.md) 
 
 ------------------------------------------------------------------------
 
@@ -255,7 +255,7 @@ Falkenstein, *Archäische Texte aus Uruk* (Ausgrabungen der Deutschen
 Forschungsgerneinschaft in Uruk-Warka, Bd. 2; Leipzig, 1936).
 
 <span id="xref_18">18</span>. If, proceeding from top to bottom, we
-examine the first column of the table ([fig. 1](sum05.htm#img_fig01)),
+examine the first column of the table ([fig. 1](sum05.htm#img_fig01).md),
 we note the following:
 
 No. 1 is the picture of a star; it represents primarily the Sumerian
@@ -368,7 +368,7 @@ column of our table represents what may be termed the "archaic" script,
 dated roughly 2800-2600 B. C. The fourth column contains the sign-forms
 of the classical period, 2600-2450 B. C.; the inscriptions of this
 period contain the purest Sumerian known to date. The Nippur archaic
-cylinder ([plate III](sum05.htm#img_pl03)), inscribed with the oldest
+cylinder ([plate III](sum05.htm#img_pl03).md), inscribed with the oldest
 myth known, probably belongs to the very end of this period.
 
 The fifth column contains the sign-forms of the Sargonid period, roughly
@@ -430,7 +430,7 @@ future.
 <span id="xref_27">27</span>. These are *SEM* and *STVC*.
 
 <span id="xref_28">28</span>. *Cf*. *SL* 320-323, and add "Inanna
-Prefers the Farmer" (see [p. 100](sum09.htm#page_100)).
+Prefers the Farmer" (see [p. 100](sum09.htm#page_100).md).
 
 <span id="xref_29">29</span>. Edited by James Hastings. 13 vols.;
 Edinburgh, 1908-1927. *Cf*. the article, "Cosmogony and Cosmology," in
@@ -460,11 +460,11 @@ abbreviation and conventionalization, we are not yet in a position to
 penetrate it. And so, in spite of the fact that so much intelligible
 Sumerian mythological material has now become available, very few of the
 cylinder seal designs can be identified with the stories told in our
-epics and myths. Nevertheless, as plates [VI](sum05.htm#img_pl06),
-[IX](sum07.htm#img_pl09), [XI](sum07.htm#img_pl11),
-[XIII](sum07.htm#img_pl13), and [XVIII](sum07.htm#img_pl18) show, some
+epics and myths. Nevertheless, as plates [VI](sum05.htm#img_pl06.md),
+[IX](sum07.htm#img_pl09), [XI](sum07.htm#img_pl11.md),
+[XIII](sum07.htm#img_pl13), and [XVIII](sum07.htm#img_pl18.md) show, some
 of this glyptic material is most revealing and instructive. Except for
-the first two designs on plate [XVIII](sum07.htm#img_pl18), all the
+the first two designs on plate [XVIII](sum07.htm#img_pl18.md), all the
 illustrations are taken from *Cylinder Seals*, a book recently published
 by Henri Frankfort, of the Oriental Institute of the University of
 Chicago, who is the leading living authority on the subject.
@@ -712,7 +712,7 @@ mu-e-gur<sub>4</sub>-gur<sub>4</sub>-ri-ne za-e me-GIM ù-meni-gál*
 
 <span id="xref_72">72</span>. The Louvre tablet is published in *TRS*
 71; for the University Museum tablet, *cf*. notes
- [68](sum10.htm#xref_68)-70.
+ [68](sum10.htm#xref_68.md)-70.
 
 <span id="xref_73">73</span>. In detail the reconstruction of the lines
 of the text is as follows: 1-35 = A (= *SEM* 116 + *PBS X* 4, 14 + *CBS*
@@ -779,7 +779,7 @@ For the corrected reading Ebih, *cf*. *RA* 31-84 ff.
 
 <span id="xref_87">87</span>. Following is the transliteration and
 translation of the marked passage on no. 8 of [plate
-XX](sum08.htm#img_pl20), which contains the very beginning of the poem:
+XX](sum08.htm#img_pl20.md), which contains the very beginning of the poem:
 
 1\. *an-gal-ta ki-gal-šè geštug-ga-ni na-an-gub*  
 2. *AN an-gal-ta ki-gal-šè geštug-ga-ni na-an-gub*  
@@ -848,4 +848,4 @@ and *SRT* 3.
 
 ------------------------------------------------------------------------
 
-[Next: Supplementary Notes](sum11)
+[Next: Supplementary Notes](sum11.md)

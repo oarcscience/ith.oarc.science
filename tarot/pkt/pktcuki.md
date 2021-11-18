@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktwaac)  [Next](pktcuqu) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktwaac)  [Next](pktcuqu.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### King
 
 <span id="img_cuki"></span> <span align="CENTER"> [![](tn/cuki.jpg)  
-Click to enlarge](img/cuki.jpg)</span>
+Click to enlarge](img/cuki.jpg.md)</span>
 
 He holds a short sceptre in his left hand and a great cup in his right;
 his throne is set upon the sea; on one side a ship is riding and on the
@@ -34,4 +34,4 @@ exaction, injustice, vice, scandal, pillage, considerable loss.
 
 ------------------------------------------------------------------------
 
-[Next: Queen of Cups](pktcuqu)
+[Next: Queen of Cups](pktcuqu.md)

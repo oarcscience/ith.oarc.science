@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app80)  [Next](app82) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app80)  [Next](app82.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ century B.C.
 Various writings are attributed to him, of which almost nothing
 survives. He was probably the discoverer of the curve called
 *quadratrix*, the construction of which is preserved in Proclus’
-*Commentary on Euclid*. <span id="fr_108"></span>[2](#fn_101)
+*Commentary on Euclid*. <span id="fr_108"></span>[2](#fn_101.md)
 
 <span id="page_143">p. 143</span>
 
@@ -71,7 +71,7 @@ for geometry*).
 14\. (*The stepmother of Phrixus was called Gorgôpis*).
 
 15\. (*There was an Ephyra at Elis*). <span
-id="fr_109"></span>[1](#fn_102)
+id="fr_109"></span>[1](#fn_102.md)
 
 16\. (*There are two sorts of envy, one right, when one envies the bad
 who are honoured, one wrong, when one envies the good*.
@@ -103,13 +103,13 @@ quadratrices of Nicomedes and Hippias*).
 
 ### Footnotes
 
-<span id="fn_101"></span>[142:2](app81.htm#fr_108) See *Companion*, pp.
+<span id="fn_101"></span>[142:2](app81.htm#fr_108.md) See *Companion*, pp.
 385-8.
 
-<span id="fn_102"></span>[143:1](app81.htm#fr_109) *i.e.* as well as the
+<span id="fn_102"></span>[143:1](app81.htm#fr_109.md) *i.e.* as well as the
 Ephyra mentioned by Pindar, *Nem*. VII, who gave her name to a district
 of Corinth; and another unspecified. Cp. ch. 3 (Epimenides), Frg. 13.
 
 ------------------------------------------------------------------------
 
-[Next: 87. Antiphôn the Sophist](app82)
+[Next: 87. Antiphôn the Sophist](app82.md)

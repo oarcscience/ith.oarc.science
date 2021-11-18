@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng15)  [Next](vlsng17) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng15)  [Next](vlsng17.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ Wales". Ed., Aneurin Owen. Longman, London, 1841, 2 vols. 8vo).
 ------------------------------------------------------------------------
 
 [Next: Chapter XV: Of the Welding together of the Shards of the Sward
-Gram.](vlsng17)
+Gram.](vlsng17.md)

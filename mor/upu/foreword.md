@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](intro) [Next](chap01)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](intro) [Next](chap01.md)
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ FRANK J. CANNON.
 
 ------------------------------------------------------------------------
 
-[Next: I In the Days of the Raid](chap01)
+[Next: I In the Days of the Raid](chap01.md)

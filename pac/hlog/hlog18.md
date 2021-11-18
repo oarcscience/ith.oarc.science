@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog17)  [Next](hlog19) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog17)  [Next](hlog19.md) 
 
 ------------------------------------------------------------------------
 
@@ -223,4 +223,4 @@ Ghosts" and "Ancestor Ghost-Gods" in Part II.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Kalai-pahoa, The Poison-God](hlog19)
+[Next: XIV. Kalai-pahoa, The Poison-God](hlog19.md)

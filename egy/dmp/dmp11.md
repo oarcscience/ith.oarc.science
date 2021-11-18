@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp10)  [Next](dmp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp10)  [Next](dmp12.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ to you and speaks with you.
 
 ------------------------------------------------------------------------
 
-[Next: Col. IX](dmp12)
+[Next: Col. IX](dmp12.md)

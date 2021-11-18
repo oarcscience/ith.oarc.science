@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib20)  [Next](shib22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib20)  [Next](shib22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ not, since all men err, and erring need repentance.
 
 Alas! men are born to die! Can man be too frequently reminded of this.
 
-<span id="img_06200"></span> ![skull](img/06200.jpg)
+<span id="img_06200"></span> ![skull](img/06200.jpg.md)
 
 <span id="img_starsep"></span> ![](img/starsep.jpg)
 
@@ -127,7 +127,7 @@ unto death.
 <span id="page_64">p. 64</span>
 
 <span id="img_06400"></span> ![\* A small table on which is the armor of
-the candidate.](img/06400.jpg)
+the candidate.](img/06400.jpg.md)
 
 It was the custom of the Grand Master to put his arm about the neck of
 the initiate, and thus make him a Templar. Anciently kings conferred
@@ -137,7 +137,7 @@ The word Accolade is front *ad*, to, and *collum*, the neck. The embrace
 has long passed out of use, and the single blow on the candidate's left
 shoulder with the blade of the sword has been adopted.
 
-<span id="img_06401"></span> ![Knighting a Templar](img/06401.jpg)
+<span id="img_06401"></span> ![Knighting a Templar](img/06401.jpg.md)
 
 It is generally held that the one blow with the blade of the Sword had
 its origin in the single blow which the slave of the Romans received at
@@ -175,4 +175,4 @@ action thereon.
 
 ------------------------------------------------------------------------
 
-[Next: The Banners](shib22)
+[Next: The Banners](shib22.md)

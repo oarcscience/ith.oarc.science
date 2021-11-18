@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bep00)    [Page
-Index](pageidx)    [Text \[Zipped\]](beptxt.zip)
+[Contents](#contents)    [Start Reading](bep00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](beptxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Gnosticism. In the middle of this is what appears (to me, at least) to
 be an operations manual for a Neolithic observatory, with rules for when
 to look for various celestial bodies through 'gates.'
 
-Before the [1917 R.H. Charles translation](../boe/index) of the Book of
+Before the [1917 R.H. Charles translation](../boe/index.md) of the Book of
 Enoch, was the 1883 Laurence translation. This is the translation that
 many of the prominent 19th century esoteric scholars read, particularly
 Madam Blavatsky. While it doesn't have as much critical apparatus as the
@@ -59,11 +59,11 @@ sequentially due to inconsistencies in the two source editions.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bep00)  
-[Introduction](bep01)  
-[Chapter I-XX](bep02)  
-[Chapters XXI-XL](bep03)  
-[Chapters XLI-LX](bep04)  
-[Chapters LXI-LXXX](bep05)  
-[Chapters LXXXI-C](bep06)  
-[Chapters C-CV](bep07)  
+<span id="contents"></span> [Title Page](bep00.md)  
+[Introduction](bep01.md)  
+[Chapter I-XX](bep02.md)  
+[Chapters XXI-XL](bep03.md)  
+[Chapters XLI-LX](bep04.md)  
+[Chapters LXI-LXXX](bep05.md)  
+[Chapters LXXXI-C](bep06.md)  
+[Chapters C-CV](bep07.md)  

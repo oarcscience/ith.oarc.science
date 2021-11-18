@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn4) [Next](udn6)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn4) [Next](udn6.md)
 
 ------------------------------------------------------------------------
 
@@ -263,7 +263,7 @@ pavilion of Migâramâta.
 
    Now at that time, it being 'Uposatha'<span
 id="page_71_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_71_note_2) day, the Blessed One was
+class="small">2</span></sup>](#page_71_note_2.md) day, the Blessed One was
 seated, surrounded by the Brotherhood. And the venerable Ananda in the
 first watch of advancing night arose from his seat and adjusting his
 tunic upon one shoulder only (leaving the other bare), went to where the
@@ -346,7 +346,7 @@ the canonical law."
    "There are, O Bhikkhus, eight strange and wonderful qualities in the
 great ocean, perceiving which the 'Asuras'<span
 id="page_73_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_73_note_1) delight in the great
+class="small">1</span></sup>](#page_73_note_1.md) delight in the great
 ocean.
 
 <span id="page_74">p. 74</span>
@@ -514,16 +514,16 @@ the Bhikkhus rejoice in the discipline of the Law.
 creatures etc. \[as above. *Transl*.\] even so, O Bhikkhus, in this
 dicipline of the Law there are many members, the Sotapanna<span
 id="page_78_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_78_note_1) who has attained to a
+class="small">1</span></sup>](#page_78_note_1.md) who has attained to a
 realization of the fruition of a Sotapanna, the Sakadâgamini<span
 id="page_78_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_78_note_2) who has attained to a
+class="small">2</span></sup>](#page_78_note_2.md) who has attained to a
 realization of the fruition of a Sakadâgamini, <span id="page_79">p.
 79</span> the Anâgamini<span id="page_79_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_79_note_1) who has attained to a
+class="small">1</span></sup>](#page_79_note_1.md) who has attained to a
 realization of the fruition of an Anâgamini, the Arahat<span
 id="page_79_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_79_note_2) who has attained to
+class="small">2</span></sup>](#page_79_note_2.md) who has attained to
 Arahatship.
 
    And as, O Bhikkhus, in this discipline of the Law there are many
@@ -672,7 +672,7 @@ his feet and entered the monastery. And the Blessed One arising in the
 morning, called the venerable Sona to him and said: "May the Doctrine
 become so clear that you may recite it to the Bhikkhus."<span
 id="page_83_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_83_note_1)
+class="small">1</span></sup>](#page_83_note_1.md)
 
    "Be it so", said the venerable Sona in assent to the Blessed One, and
 he intoned all the sixteen chapters of the 'Atthaka'.
@@ -808,7 +808,7 @@ forth this solemn utterance:
    "Bewildered are the clever words of him who is versed in the
 resources of eloquence. As wide as they like they open their mouths. By
 whom led they know not."<span id="page_86_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_86_note_1)
+class="small">1</span></sup>](#page_86_note_1.md)
 
  
 
@@ -845,7 +845,7 @@ forth this solemn utterance:
 
 ------------------------------------------------------------------------
 
-[Next](udn6)
+[Next](udn6.md)
 
 ------------------------------------------------------------------------
 
@@ -853,34 +853,34 @@ forth this solemn utterance:
 
 <span id="footnotes_page_71">p. 71</span>
 
-<span id="page_71_note_1"></span>[1](#page_71_fr_1) Upeccâpi palâyatan
+<span id="page_71_note_1"></span>[1](#page_71_fr_1.md) Upeccâpi palâyatan
 ti?
 
-<span id="page_71_note_2"></span>[2](#page_71_fr_2) Buddhist Sabbath or
+<span id="page_71_note_2"></span>[2](#page_71_fr_2.md) Buddhist Sabbath or
 fast day.
 
 <span id="footnotes_page_73">p. 73</span>
 
-<span id="page_73_note_1"></span>[1](#page_73_fr_1) Tritons.
+<span id="page_73_note_1"></span>[1](#page_73_fr_1.md) Tritons.
 
 <span id="footnotes_page_78">p. 78</span>
 
-<span id="page_78_note_1"></span>[1](#page_78_fr_1) One who has entered
+<span id="page_78_note_1"></span>[1](#page_78_fr_1.md) One who has entered
 the stream, the 1<sup><span class="small">st</span></sup> grade of
 sanctification.
 
-<span id="page_78_note_2"></span>[2](#page_78_fr_2) One who returns once
+<span id="page_78_note_2"></span>[2](#page_78_fr_2.md) One who returns once
 to this world.
 
 <span id="footnotes_page_79">p. 79</span>
 
-<span id="page_79_note_1"></span>[1](#page_79_fr_1) One who does not
+<span id="page_79_note_1"></span>[1](#page_79_fr_1.md) One who does not
 return to this world, is not reborn in this world.
 
-<span id="page_79_note_2"></span>[2](#page_79_fr_2) One who has attained
+<span id="page_79_note_2"></span>[2](#page_79_fr_2.md) One who has attained
 final sanctification.
 
-<span id="page_79_note_3"></span>[3](#page_79_fr_3) These verses are
+<span id="page_79_note_3"></span>[3](#page_79_fr_3.md) These verses are
 only intelligible, taken in connection with an incident in the Buddha's
 life, when he sent his disciples to a poor man to ask for firewood. The
 poor man gave the beams which supported the roof of his hut. And, as the
@@ -889,21 +889,21 @@ poor man's roofless hut. (*Transl*.).
 
 <span id="footnotes_page_83">p. 83</span>
 
-<span id="page_83_note_1"></span>[1](#page_83_fr_1) Vide: Sacred Books
+<span id="page_83_note_1"></span>[1](#page_83_fr_1.md) Vide: Sacred Books
 of the East. Vol. XVII. p. 36. Text differs in construction in the
 Mahavagga.
 
-<span id="page_83_note_2"></span>[2](#page_83_fr_2) Upadhi = substratum
+<span id="page_83_note_2"></span>[2](#page_83_fr_2.md) Upadhi = substratum
 of Being or Basis of Existence.
 
 <span id="footnotes_page_84">p. 84</span>
 
-<span id="page_84_note_1"></span>[1](#page_84_fr_1) Vide: Sacred Books
+<span id="page_84_note_1"></span>[1](#page_84_fr_1.md) Vide: Sacred Books
 of the East. Vol. XVII. p. 37. Note 3.
 
 <span id="footnotes_page_86">p. 86</span>
 
-<span id="page_86_note_1"></span>[1](#page_86_fr_1) Vide Sacred Books of
+<span id="page_86_note_1"></span>[1](#page_86_fr_1.md) Vide Sacred Books of
 the East. Vol. XVII. p. 307.
 
  

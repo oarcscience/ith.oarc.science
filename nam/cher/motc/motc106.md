@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc105) 
-[Next](motc107) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc105.md) 
+[Next](motc107.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ historical tradition.
 
 ------------------------------------------------------------------------
 
-[Next: 107. The Lost Cherokee](motc107)
+[Next: 107. The Lost Cherokee](motc107.md)

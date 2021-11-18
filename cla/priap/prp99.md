@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp98)  [Next](prp100) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp98)  [Next](prp100.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ Articulately learn thence to dispute.--Fletcher's *Martial*\]
 ------------------------------------------------------------------------
 
 [Next: Alphabetical list of additional terms used by Latin authors in
-designation of the female sexual organ](prp100)
+designation of the female sexual organ](prp100.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah01)  [Next](sah03) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah01)  [Next](sah03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1380,4 +1380,4 @@ Science.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III - Marriage](sah03) 
+[Next: Chapter III - Marriage](sah03.md) 

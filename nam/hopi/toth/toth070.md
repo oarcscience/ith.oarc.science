@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth069)  [Next](toth071) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth069)  [Next](toth071.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 67. THE COYOTE AND THE TURTLE-DOVE. <span id="fr_137"></span>[1](#fn_135)
+## 67. THE COYOTE AND THE TURTLE-DOVE. <span id="fr_137"></span>[1](#fn_135.md)
 
 Alíksai! The Shongópavi were living in their village, and South of the
 village there was a hill called Kwákchomo. There was a great deal of
@@ -85,9 +85,9 @@ and exhausted that he fell down and died there.
 
 ### Footnotes
 
-<span id="fn_135"></span>[195:1](toth070.htm#fr_137) Told by Lomávântiwa
+<span id="fn_135"></span>[195:1](toth070.htm#fr_137.md) Told by Lomávântiwa
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 68. The Coyote and the Blue Jays](toth071)
+[Next: 68. The Coyote and the Blue Jays](toth071.md)

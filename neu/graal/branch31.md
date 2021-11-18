@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch30) 
-[Next](branch32) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch30.md) 
+[Next](branch32.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -89,5 +89,5 @@ adventure into the forest, you may well hear some tidings of him!"
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXXII](branch32)  
+XXXII](branch32.md)  
 </span>

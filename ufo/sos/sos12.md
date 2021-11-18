@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](sos11)  [Next](sos13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](sos11)  [Next](sos13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -255,7 +255,7 @@ Two of the mysterious lights played around with each other below the
 clouds for nearly fifteen minutes. They were round, large, white lights
 without the fiery tails respectable meteors are supposed to flaunt. Now,
 Mr. White, these people, dozen of them, are either
-[falsifiers](errata.htm#14), or else they saw something out of this
+[falsifiers](errata.htm#14.md), or else they saw something out of this
 world which cannot be neatly explained away by your pat little
 explanation.
 
@@ -374,4 +374,4 @@ about the space visitors.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. I Have a Vision](sos13)
+[Next: Chapter XI. I Have a Vision](sos13.md)

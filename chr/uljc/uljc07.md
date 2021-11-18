@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](uljc06)  [Next](uljc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](uljc06)  [Next](uljc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002TX7KEA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 The Unknown Life of Jesus Christ, by Nicolas Notovitch \[1890\], at
 Intangible Textual Heritage
 
@@ -111,6 +111,6 @@ Israel.
 
 ------------------------------------------------------------------------
 
-[Next: III](uljc08)
+[Next: III](uljc08.md)
 
 </div>

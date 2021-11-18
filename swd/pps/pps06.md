@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](pps05)  [Next](pps07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](pps05)  [Next](pps07.md) 
 
 ------------------------------------------------------------------------
 
@@ -283,7 +283,7 @@ Psalm 36 title, 1-4 (L.B. 1-5) Respecting hypocrites, that they think
 evil. 4 5-9 (L.B. 6-10) It ought to be acknowledged that all good and
 truth is from the Lord. 16 10 (L.B. 11) Those who acknowledge the Lord
 possess all good and truth. 16 11, 12 (L.B. 12 <span
-id="fr_0"></span>[286-1](#fn_0)) The Lord protects from evil, and the
+id="fr_0"></span>[286-1](#fn_0).md) The Lord protects from evil, and the
 evil perish. 17
 
 <span class="margnote"><span id="287.">287.</span></span>
@@ -424,10 +424,10 @@ and external worship. 2 14, 15 He desires confession of the heart. 2
 
 ### Footnotes
 
-<span id="fn_0"></span>[286-1](pps06.htm#fr_0) . This is the division of
+<span id="fn_0"></span>[286-1](pps06.htm#fr_0.md) . This is the division of
 Schmidt's Latin Bible. In the Hebrew-Latin Bible verse 12 is divided
 into two verses numbered 12 and 13.-Editor.
 
 ------------------------------------------------------------------------
 
-[Next: 301-350](pps07)
+[Next: 301-350](pps07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](rvw07)  [Next](rvw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](rvw07)  [Next](rvw09.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ justifiable.
 
 ------------------------------------------------------------------------
 
-[Next: Section IX](rvw09)
+[Next: Section IX](rvw09.md)

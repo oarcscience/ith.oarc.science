@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi168)  [Next](mtsi170) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi168)  [Next](mtsi170.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ all of the people but left those who had a white cloth hung out.
 
 ------------------------------------------------------------------------
 
-[Next: 34. The Bear's Revenge](mtsi170)
+[Next: 34. The Bear's Revenge](mtsi170.md)

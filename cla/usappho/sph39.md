@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph38)  [Next](sph40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph38)  [Next](sph40.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM38">38</span>
 
 Ἕροσ δαὖτέ μ᾽ ὀ λυσιμέλεσ δόνει,  
-γλυκύπικρον ἀμάχανον ὄρπετον. [\[transcription\]](xlatall.htm#58)
+γλυκύπικρον ἀμάχανον ὄρπετον. [\[transcription\]](xlatall.htm#58.md)
 
 Now Love, the ineluctable, dominates and shakes my being, and fills me
 with bitter-sweetness.
@@ -21,4 +21,4 @@ Quoted by Hephaestion.
 
 ------------------------------------------------------------------------
 
-[Next: 39: But to thee, Athis...](sph40)
+[Next: 39: But to thee, Athis...](sph40.md)

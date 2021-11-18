@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ebm05)  [Next](ebm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ebm05)  [Next](ebm07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Eleusinian and Bacchic Mysteries*, by Thomas Taylor, \[1891\], at
 Intangible Textual Heritage
 
@@ -12,18 +12,18 @@ Intangible Textual Heritage
 
 <span id="page_186">p. 186</span>
 
-<span id="img_18601"></span> ![Psyche Asleep in Hades.](img/18601.png)  
+<span id="img_18601"></span> ![Psyche Asleep in Hades.](img/18601.png.md)  
 Psyche Asleep in Hades.
 
 <span id="page_187">p. 187</span>
 
-<span id="img_18701"></span> ![River Goddesses.](img/18701.png)  
+<span id="img_18701"></span> ![River Goddesses.](img/18701.png.md)  
 River Goddesses.
 
 ### ❦ SECTION II. ❦
 
 <span class="smallcaps">The</span> Dionysiacal sacred rites instituted
-by Orpheus, <span id="fr_105"></span>[\*](#fn_105) depended on the
+by Orpheus, <span id="fr_105"></span>[\*](#fn_105.md) depended on the
 following arcane narration, part of which has been already related in
 the preceding section, and the rest may be found in a variety of
 authors. “Dionysus, or Bacchus \[Zagreus\], while he was yet a boy, was
@@ -62,7 +62,7 @@ highest conception of this deity, we understand the spiritual part of
 the mundane soul; for there are various processions or avatars of this
 god, or Bacchuses, derived from his essence. But by the Titans we must
 understand the mundane gods, of whom Bacchus is the highest; by Jupiter,
-the Demiurgus, <span id="fr_106"></span>[\*](#fn_106) or artificer of
+the Demiurgus, <span id="fr_106"></span>[\*](#fn_106.md) or artificer of
 
 <span id="page_190">p. 190</span>
 
@@ -71,7 +71,7 @@ and super-mundane establishment, and by whom the universe is bound in
 symmetry and consent, through splendid reasons and harmonizing power;
 and, lastly, by Minerva we must understand that original, intellectual,
 ruling, and providential deity, who guards and preserves all middle
-lives <span id="fr_107"></span>[\*](#fn_107) in an immutable condition,
+lives <span id="fr_107"></span>[\*](#fn_107.md) in an immutable condition,
 through intelligence and a self-supporting life, and by this means
 sustains them from the depredations and inroads of matter. Again, by the
 infancy of Bacchus at the period of his laceration, the condition of the
@@ -79,7 +79,7 @@ intellectual nature is implied; since, according to the Orphic theology,
 souls, under the government of Saturn, or Kronos, who is pure intellect
 or spirituality, instead of proceeding, as now, from youth to age,
 advance in a retrograde progression from age to youth. <span
-id="fr_108"></span>[†](#fn_108) The arts employed by
+id="fr_108"></span>[†](#fn_108.md) The arts employed by
 
 <span id="page_191">p. 191</span>
 
@@ -99,7 +99,7 @@ through the stratagems of Juno,
 <span id="page_192">p. 192</span>
 
 because this goddess is the supervising guardian of motion and
-progression; <span id="fr_109"></span>[\*](#fn_109) and on this account,
+progression; <span id="fr_109"></span>[\*](#fn_109.md) and on this account,
 in the *Iliad*, she perpetually rouses and excites Jupiter to
 providential action about secondary concerns; and, in another respect,
 Dionysus is the *ephorus* or supervising guardian of generation, because
@@ -108,7 +108,7 @@ life because of generation, and also of death because wine produces an
 enthusiastic condition. We become more enthusiastic at the period of
 dying, as Proclus indicates in the example of Homer who became prophetic
 \[μαντικος\] at the time of his death. <span
-id="fr_110"></span>[†](#fn_110) They likewise assert, that tragedy and
+id="fr_110"></span>[†](#fn_110.md) They likewise assert, that tragedy and
 comedy are assigned to Dionysus: comedy being the play or ludicrous
 representation of life; and tragedy having relation to the
 
@@ -153,7 +153,7 @@ life is distributed into the universe, its principle is preserved entire
 by the guardian power and providence of the Divine intelligence. And as
 Apollo is the source of all union and harmony, and as he is called by
 Proclus, “the key-keeper of the fountain of life,” <span
-id="fr_111"></span>[\*](#fn_111) the reason is obvious why the members
+id="fr_111"></span>[\*](#fn_111.md) the reason is obvious why the members
 of Dionysus, which were buried by this deity, again emerged by a new
 generation, and were restored to their pristine integrity and life. But
 let it here be carefully observed, that renovation, when applied to the
@@ -183,11 +183,11 @@ that our souls were formed from the vapors emanating from the ashes of
 the burning bodies of the Titans; at the same time connecting it with
 the former part of the fable, which is also applicable in a certain
 degree to the condition of a partial intellect <span
-id="fr_112"></span>[\*](#fn_112) like ours. In the first
+id="fr_112"></span>[\*](#fn_112.md) like ours. In the first
 
 <span id="page_197">p. 197</span> <span id="page_198">p. 198</span>
 
-<span id="img_19801"></span> ![Etruscan Eleusinians.](img/19801.png)  
+<span id="img_19801"></span> ![Etruscan Eleusinians.](img/19801.png.md)  
 Etruscan Eleusinians.
 
 <span id="page_199">p. 199</span>
@@ -196,7 +196,7 @@ place, then, we are made up from *fragments* (says Olympiodorus),
 because, through falling into generation, our life has proceeded into
 the most distant and extreme division; and from *Titanic fragments*,
 because the Titans are the ultimate artificers of things, <span
-id="fr_113"></span>[\*](#fn_113) and stand immediately next to whatever
+id="fr_113"></span>[\*](#fn_113.md) and stand immediately next to whatever
 is constituted from them. But further, our irrational life is Titanic,
 by which the rational and higher life is torn in pieces. Hence, when we
 disperse the Dionysus, or intuitive intellect contained in the secret
@@ -270,7 +270,7 @@ into one, she becomes
 a Bacchus; that is, she passes into the proper integrity of her nature
 according to the divine principle ruling on high. From all which it
 evidently follows, that he who lives Dionysiacally rests from labors and
-is freed from his bonds; <span id="fr_114"></span>[\*](#fn_114) that he
+is freed from his bonds; <span id="fr_114"></span>[\*](#fn_114.md) that he
 leaves his prison, or rather his apostatizing life; and that he who does
 this is a philosopher purifying himself from the contaminations of his
 earthly life. But farther from this account of Dionysus, we may perceive
@@ -289,7 +289,7 @@ the Thyrsus itself, which was used in the Bacchic procession, as it was
 a reed full of knots, is an apt symbol of the diffusion of the higher
 nature into the sensible world. And agreeable to this, Olympiodorus on
 the *Phædo* observes, “that the Thyrsus <span
-id="fr_115"></span>[\*](#fn_115) is a symbol of a forming anew of the
+id="fr_115"></span>[\*](#fn_115.md) is a symbol of a forming anew of the
 material and parted substance from its scattered condition; and that on
 this account it is a Titanic plant. This it was customary to extend
 before Bacchus instead of his paternal scepter; and through this they
@@ -306,7 +306,7 @@ Orphically, as living according to a Titanic life.” Ὁτι ὁ ναρϑηξ
 
 <span id="img_20601"></span> ![Faun and
 Bacchante.          Thyrsus-Bearer.          Bacchante and
-Faun.](img/20601.png)  
+Faun.](img/20601.png.md)  
 Faun and Bacchante.          Thyrsus-Bearer.          Bacchante and
 Faun.
 
@@ -352,7 +352,7 @@ source, this too will be aptly symbolized by a wheel. In the second
 place, a *pine-nut, from its conical shape*, is a perspicuous symbol of
 the manner in which intellectual or spiritual illumination proceeds from
 its source and beginning into a material nature. “For the soul,” says
-Macrobius, <span id="fr_116"></span>[\*](#fn_116) “proceeding from a
+Macrobius, <span id="fr_116"></span>[\*](#fn_116.md) “proceeding from a
 round figure, which is the only divine form, is extended into the form
 of a cone in going forth.”
 
@@ -381,7 +381,7 @@ Bacchic discerption, signifies to tear in pieces
 like wool: and hence Isidorus derives the Latin word *lana, wool*, from
 *laniando*, as *vellus* from *vellendo*. Nor must it pass unobserved,
 that λῆνος, in Greek, signifies wool, and ληνὸς, a wine-press. <span
-id="fr_117"></span>[\*](#fn_117) And, indeed, the pressing of grapes is
+id="fr_117"></span>[\*](#fn_117.md) And, indeed, the pressing of grapes is
 as evident a symbol of dispersion as the tearing of wool; and this
 circumstance was doubtless one principal reason why grapes were
 consecrated to Bacchus: for a grape, previous to its pressure, aptly
@@ -396,7 +396,7 @@ divisible life which subsists about the body,
 
 <span id="page_211">p. 211</span> <span id="page_212">p. 212</span>
 
-<span id="img_21201"></span> ![Hercules Reclining.](img/21201.png)  
+<span id="img_21201"></span> ![Hercules Reclining.](img/21201.png.md)  
 Hercules Reclining.
 
 <span id="page_213">p. 213</span>
@@ -406,7 +406,7 @@ hence we are informed by Proclus, that the sexual parts of this god are
 denominated by theologists, *Diana*, who, says he, presides over the
 whole of the generation into natural existence, leads forth into light
 all natural reasons, and extends a prolific power from on high even to
-the subterranean realms. <span id="fr_118"></span>[\*](#fn_118) And
+the subterranean realms. <span id="fr_118"></span>[\*](#fn_118.md) And
 hence we may perceive the reason why, in the Orphic *Hymn to Nature*,
 that goddess is described as “*turning round silent traces with the*
 ankle-bones *of her feet*.”
@@ -438,7 +438,7 @@ invested, in order to the θρονισμος (*thronismos,* enthroning) taking
 place; or sitting in a solemn manner on a throne, about which it was
 customary for the other initiates to dance. But the particulars of this
 habit are thus described in the Orphic verses preserved by
-Macrobius: <span id="fr_119"></span>[\*](#fn_119)
+Macrobius: <span id="fr_119"></span>[\*](#fn_119.md)
 
 > <span class="small">Ταυτα γε παντα τελειν ἱερᾳ σκηυῃ πυκασαντα,  
 > Σωμα ϑεου πλαττειν εριαυγους ἡελιοιο.</span>
@@ -519,7 +519,7 @@ a transforming and elevating nature: so that from all this, it is
 sufficiently evident why the dress of Dionysus is represented as
 belonging to the sun. In the second place, the vail, resembling a
 mixture of fiery light, is an obvious image of the solar fire. And as to
-the spotted mule-skin, <span id="fr_120"></span>[\*](#fn_120) which is
+the spotted mule-skin, <span id="fr_120"></span>[\*](#fn_120.md) which is
 to represent the starry heavens, this is nothing more than an image of
 
 <span id="page_218">p. 218</span>
@@ -545,7 +545,7 @@ whirling and
 <span id="page_219">p. 219</span> <span id="page_220">p. 220</span>
 
 <span id="img_22001"></span> ![The Marriage of Mars and
-Venus.](img/22001.png)  
+Venus.](img/22001.png.md)  
 The Marriage of Mars and Venus.
 
 <span id="page_221">p. 221</span>
@@ -576,13 +576,13 @@ body: but there appears to be this difference between the two, that in
 the fable of Ceres and Proserpine the descent of the whole rational soul
 is considered; and in that of Bacchus the scattering and going forth of
 *that supreme part alone of our nature which we properly characterize by
-the appellation of intellect.* <span id="fr_121"></span>[\*](#fn_121) In
+the appellation of intellect.* <span id="fr_121"></span>[\*](#fn_121.md) In
 the composition of each we may discern the same traces of exalted wisdom
 and recondite theology; of a theology the most venerable for its
 antiquity, and the most admirable for its excellence and reality.
 
 I shall conclude this treatise by presenting the reader with a valuable
-and most elegant hymn of Proclus <span id="fr_122"></span>[†](#fn_122)
+and most elegant hymn of Proclus <span id="fr_122"></span>[†](#fn_122.md)
 to Minerva, which I have
 
 <span id="page_223">p. 223</span>
@@ -613,7 +613,7 @@ was inserted in the present discourse.
 
 ### Footnotes
 
-<span id="fn_105"></span>[187:\*](ebm06.htm#fr_105) Whether Orpheus was
+<span id="fn_105"></span>[187:\*](ebm06.htm#fr_105.md) Whether Orpheus was
 an actual living person has been questioned by Aristotle; but Herodotus,
 Pindar, and other writers, mention him. Although the Orphic system is
 asserted to have come from Egypt, the internal evidence favors the
@@ -636,17 +636,17 @@ us unequivocal.
 
 A. W.
 
-<span id="fn_106"></span>[189:\*](ebm06.htm#fr_106) Plotinus regarded
+<span id="fn_106"></span>[189:\*](ebm06.htm#fr_106.md) Plotinus regarded
 the Demiurgus, or creator, as the god of providence, thought, essence,
 and power. Above him was the <span id="page_190">p. 190</span> deity of
 “pure intellect,” and still higher The One. These three were the
 hypostases.
 
-<span id="fn_107"></span>[190:\*](ebm06.htm#fr_107) Lives which are not
+<span id="fn_107"></span>[190:\*](ebm06.htm#fr_107.md) Lives which are not
 conjoined with material bodies, nor yet elevated to the lofty state
 which is the true divine condition.
 
-<span id="fn_108"></span>[190:†](ebm06.htm#fr_108) Emanuel Swedenborg
+<span id="fn_108"></span>[190:†](ebm06.htm#fr_108.md) Emanuel Swedenborg
 says: “They who are in heaven are <span id="page_191">p. 191</span>
 continually advancing to the spring of life, and the more thousands of
 years they live, so much the more delightful and happy is the spring to
@@ -657,12 +657,12 @@ charity toward their neighbor, and in happy conjugal love with a
 husband, after a succession of years, come more and more into the flower
 of youth and adolescence.”
 
-<span id="fn_109"></span>[192:\*](ebm06.htm#fr_109) By progression
+<span id="fn_109"></span>[192:\*](ebm06.htm#fr_109.md) By progression
 \[προοδος\] is here signified the raying-out, or issuing forth of the
 soul; having left the divine or pre-existent life, and come forth toward
 the human.
 
-<span id="fn_110"></span>[192:†](ebm06.htm#fr_110) See also <span
+<span id="fn_110"></span>[192:†](ebm06.htm#fr_110.md) See also <span
 class="smallcaps">Plato</span>: *Phædrus*, 43. “When I was about to
 cross the river, the divine and wonted signal was given me—it always
 deters me from what I am about to do—and I seemed to hear a voice from
@@ -677,50 +677,50 @@ See also <span class="smallcaps">Shakspere</span>: *Henry IV*. part 1.
 > But that the earthy and cold hand of death  
 > Lies on my tongue.”</span>
 
-<span id="fn_111"></span>[195:\*](ebm06.htm#fr_111) *Hymn to the Sun*.
+<span id="fn_111"></span>[195:\*](ebm06.htm#fr_111.md) *Hymn to the Sun*.
 
-<span id="fn_112"></span>[196:\*](ebm06.htm#fr_112) Partial, as being
+<span id="fn_112"></span>[196:\*](ebm06.htm#fr_112.md) Partial, as being
 parted from the Supreme Mind.
 
-<span id="fn_113"></span>[199:\*](ebm06.htm#fr_113) The Demiurge or
+<span id="fn_113"></span>[199:\*](ebm06.htm#fr_113.md) The Demiurge or
 Creator being superior to matter in which is concupiscence and all evil,
 the Titans who are not thus superior are made the actual artificers.
 
-<span id="fn_114"></span>[203:\*](ebm06.htm#fr_114) “We strive toward
+<span id="fn_114"></span>[203:\*](ebm06.htm#fr_114.md) “We strive toward
 virtue by a strenuous use of the gifts which God communicates; but when
 God communicates himself, then we can be only passive—we repose, we
 enjoy, but all operation ceases.”
 
-<span id="fn_115"></span>[204:\*](ebm06.htm#fr_115) The word thyrsus, it
+<span id="fn_115"></span>[204:\*](ebm06.htm#fr_115.md) The word thyrsus, it
 will be seen, is here translated from ναρϑηξ, a rod or ferula.
 
-<span id="fn_116"></span>[208:\*](ebm06.htm#fr_116) *In Somnia
+<span id="fn_116"></span>[208:\*](ebm06.htm#fr_116.md) *In Somnia
 Scipionis*, xii.
 
-<span id="fn_117"></span>[210:\*](ebm06.htm#fr_117) The practice of
+<span id="fn_117"></span>[210:\*](ebm06.htm#fr_117.md) The practice of
 punning, so common in all the old rites, is here forcibly exhibited. It
 aided to conceal the symbolism and mislead uninitiated persons who might
 seek to ascertain the genuine meaning.
 
-<span id="fn_118"></span>[213:\*](ebm06.htm#fr_118) *Commentary upon the
+<span id="fn_118"></span>[213:\*](ebm06.htm#fr_118.md) *Commentary upon the
 Timæus*.
 
-<span id="fn_119"></span>[214:\*](ebm06.htm#fr_119) *Saturnalia*, i. 18.
+<span id="fn_119"></span>[214:\*](ebm06.htm#fr_119.md) *Saturnalia*, i. 18.
 
-<span id="fn_120"></span>[217:\*](ebm06.htm#fr_120) *Nebris* is also a
+<span id="fn_120"></span>[217:\*](ebm06.htm#fr_120.md) *Nebris* is also a
 fawn-skin. The Jewish high-priest wore one at the great festivals. It is
 rendered “badger’s skin” in the Bible. In India the robe of Indra is
 spotted.
 
-<span id="fn_121"></span>[222:\*](ebm06.htm#fr_121) Greek, νους, *nous*,
+<span id="fn_121"></span>[222:\*](ebm06.htm#fr_121.md) Greek, νους, *nous*,
 the Intuitive Reason, that faculty of the mind that apprehends the
 Ineffable Truth.
 
-<span id="fn_122"></span>[222:†](ebm06.htm#fr_122) That the following
+<span id="fn_122"></span>[222:†](ebm06.htm#fr_122.md) That the following
 hymn was composed by Proclus, can not be doubted by any one who is
 conversant with those already extant of this incomparable man, since the
 spirit and manner in both is perfectly the same.
 
 ------------------------------------------------------------------------
 
-[Next: Hymn to Minerva](ebm07)
+[Next: Hymn to Minerva](ebm07.md)

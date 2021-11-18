@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap09) [Next](chap11)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap09) [Next](chap11.md)
 
 ------------------------------------------------------------------------
 
@@ -367,4 +367,4 @@ authorities in Utah.
 
 ------------------------------------------------------------------------
 
-[Next: XI The Will of the Lord](chap11)
+[Next: XI The Will of the Lord](chap11.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs28)  [Next](mhs30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs28)  [Next](mhs30.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ LEG. AUG.
 
 ------------------------------------------------------------------------
 
-[Next: V. Luck, Ancient And Modern](mhs30)
+[Next: V. Luck, Ancient And Modern](mhs30.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki226)  [Next](liki228) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki226)  [Next](liki228.md) 
 
 ------------------------------------------------------------------------
 
@@ -523,6 +523,6 @@ husband.
 ------------------------------------------------------------------------
 
 [Next: XXVIII. Kung Yung or The State of Equilibrium and
-Harmony](liki228)
+Harmony](liki228.md)
 
   

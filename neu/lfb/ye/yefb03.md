@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb02)  [Next](yefb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb02)  [Next](yefb04.md) 
 
 </div>
 
@@ -140,6 +140,6 @@ You see that is the way of the world.
 
 ------------------------------------------------------------------------
 
-[Next: The Six Swans](yefb04)
+[Next: The Six Swans](yefb04.md)
 
 </div>

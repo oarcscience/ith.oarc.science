@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc34)  [Next](mtc36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc34)  [Next](mtc36.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -27,7 +27,7 @@ For a moment I thought of the Royal Park at dawn
 When the Birds of Spring greeted their Lord from his trees.  
 I remembered the days when I served before the Throne  
 Pencil in hand, on duty at the Ch‘ēng-ming; <span
-id="fr_24"></span>[1](#fn_22)  
+id="fr_24"></span>[1](#fn_22.md)  
 At the height of spring, when I paused an instant from work,  
 Morning and evening, was *this* the voice I heard?  
 Now in my exile the oriole sings again  
@@ -41,13 +41,13 @@ The bird would sing as it sang in the Palace of old.
 
 ### Footnotes
 
-<span id="fn_22"></span>[65:1](mtc35.htm#fr_24) Name of a palace at
+<span id="fn_22"></span>[65:1](mtc35.htm#fr_24.md) Name of a palace at
 Ch‘ang-an.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Dreaming That I Went With Lu and Yu to Visit Yüan Chēn](mtc36)
+[Next: Dreaming That I Went With Lu and Yu to Visit Yüan Chēn](mtc36.md)
 
 </div>

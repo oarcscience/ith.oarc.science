@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Previous](chap07) [Next](chap09)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Previous](chap07) [Next](chap09.md)
 
 ------------------------------------------------------------------------
 
@@ -1070,4 +1070,4 @@ that by this palace he means the heart.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Pilgrim's Progress](chap09)
+[Next: Chapter IX. The Pilgrim's Progress](chap09.md)

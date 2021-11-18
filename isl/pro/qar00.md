@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jj09)  [Next](qar01) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jj09)  [Next](qar01.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ city and so whatever God desires happens.
 
 ------------------------------------------------------------------------
 
-[Next: Getting Back From West to The East](qar01)
+[Next: Getting Back From West to The East](qar01.md)

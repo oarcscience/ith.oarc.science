@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip30)  [Next](fip32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip30)  [Next](fip32.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ giant who swam across the Channel with his head in his teeth.--ED.\]
 
 ------------------------------------------------------------------------
 
-[Next: How Thomas Connolly Met the Banshee, by J. Todhunter](fip32)
+[Next: How Thomas Connolly Met the Banshee, by J. Todhunter](fip32.md)

@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](pte05)  [Next](pte07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](pte05)  [Next](pte07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plutarch's Morals: Theosophical Essays*, tr. by Charles William King,
 \[1908\], at Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ and say just the same things of him as you do of the youth. But what
 starting point and pretext had this discussion of yours to begin?"
 
 II\. *Phil.* "The guides went through their appointed duties, <span
-id="fr_127"></span>[1](#fn_127) paying no heed to our entreaties that
+id="fr_127"></span>[1](#fn_127.md) paying no heed to our entreaties that
 they would cut short their long tales, and the reading the greatest part
 of the inscriptions. The sight and artistic merit of the statues did not
 so much attract the notice of the visitor, who had in all likelihood
@@ -74,7 +74,7 @@ statues of the admirals (for he had begun his round with them), standing
 as they did, sea-like as it were in colour, and truly men of ocean-deep.
 Had there been then, he asked, some mode of alloying and preparing the
 bronze, used by the ancient artificers, like the traditional
-tempering <span id="fr_128"></span>[2](#fn_128) of swords, which process
+tempering <span id="fr_128"></span>[2](#fn_128.md) of swords, which process
 being lost, then bronze obtained exemption from all warlike employments?
 For it is known that the Corinthian metal acquired the beauty of its
 colour not through art, but through accident, when a fire consumed a
@@ -95,7 +95,7 @@ account and the other is a fable. It was, in all probability, a peculiar
 alloying and treatment of the metal—just as nowadays by alloying gold
 with silver they produce a peculiar and extraordinary pale colour, that
 looks to me sickly, and a mere spoiling of its beauty." <span
-id="fr_129"></span>[1](#fn_129)
+id="fr_129"></span>[1](#fn_129.md)
 
 III\. "What then," asked Diogenianus, "do you say has been the cause of
 the peculiar colour of the bronze in this place?" And Theon replied:
@@ -105,7 +105,7 @@ or has to do with the bronze except Air, it is clear that the metal has
 been thus affected by this element, and has acquired the peculiarity
 which it possesses by reason of this being always about it, and pressing
 upon it: you know, surely, that this once took place in the case <span
-id="fr_130"></span>[2](#fn_130) of Theognis, according to the comic
+id="fr_130"></span>[2](#fn_130.md) of Theognis, according to the comic
 poet? But what property the air has, and what influence it exerts in its
 contact with the bronze—these are the two things, Diogenianus, that you
 desire to learn?" and upon Diogenianus assenting: "so
@@ -115,9 +115,9 @@ desire to learn?" and upon Diogenianus assenting: "so
 do I, my dear boy; therefore, if you please, let us investigate the
 matter in concert: and as a beginning—for what reason does oil, above
 all other liquids, coat bronze with verdigris, <span
-id="fr_131"></span>[1](#fn_131) for it does not generate the verdigris
+id="fr_131"></span>[1](#fn_131.md) for it does not generate the verdigris
 simply by being rubbed over the metal, because it is pure and clear when
-applied to the surface." <span id="fr_132"></span>[2](#fn_132) "By no
+applied to the surface." <span id="fr_132"></span>[2](#fn_132.md) "By no
 means," replied the young man, "does this seem to me to be the reason:
 but because the oil being thin, pure, and transparent, the verdigris
 falling upon it, is very perceptible, whereas in other liquids, it
@@ -143,7 +143,7 @@ because its own density does not allow of its unlimited diffusion …
 <span id="page_142">p. 142</span>
 
 <span class="contnote">\[paragraph continues\]</span> \[but, on the
-contrary\] <span id="fr_133"></span>[1](#fn_133) permits it to settle
+contrary\] <span id="fr_133"></span>[1](#fn_133.md) permits it to settle
 down by reason of its abundance, and to bloom, as it were, and get
 brilliancy and polish over the surface." And upon our admitting this,
 the visitor said that the one supposition (of the density) was
@@ -187,7 +187,7 @@ tissue of blunders and badness. Serapion, therefore, the poet from
 Athens, who was present, replied: "As we consider these verses to be the
 gods’ own, we 'must sing this over again,' as the saying is; and make no
 use of the beauties of Hesiod and Homer, but correct our taste by means
-of bad habit." <span id="fr_134"></span>[1](#fn_134) To this Boëthus the
+of bad habit." <span id="fr_134"></span>[1](#fn_134.md) To this Boëthus the
 mathematician (you know the man who has lately gone over to the
 Epicureans), answered: "Did you ever hear the story about Pauson the
 painter?" "Not I ever," replied Serapion. "This Pauson, having been
@@ -224,7 +224,7 @@ luxurious, nor yet broken and uneven in the tunes.' For the Passionless
 and the Pure does not admit Pleasure, but she hath been thrown down here
 below together with Pain, and the far largest portion of her, as it
 seems, has flowed in a stream into the ears of men." <span
-id="fr_135"></span>[1](#fn_135)
+id="fr_135"></span>[1](#fn_135.md)
 
 VII\. And upon Serapion's saying this, Theon observed with a smile:
 "Serapion has given his customary scope to his feelings, by taking
@@ -264,7 +264,7 @@ guide's tale. But on hearing that a bronze column, the gift of Hiero,
 standing further up, had fallen down of itself upon the very day on
 which Hiero's death happened at Syracuse, he expressed his surprise, and
 at the same time reminded him (the guide) of other occurrences of like
-nature, for instance of Hiero <span id="fr_136"></span>[1](#fn_136) the
+nature, for instance of Hiero <span id="fr_136"></span>[1](#fn_136.md) the
 Spartan, how the eyes fell out of his statue at the moment of his death
 in the battle of Leuctra; and how the Twin Stars had vanished at the
 same time, which Lysander had dedicated after the sea-fight at
@@ -282,7 +282,7 @@ cause of her death after she had migrated from Greece into Italy, and
 was at Metapontum, disporting herself around the temple of Apollo. For
 the young men rushing to seize her crown, and quarrelling with each
 other for the gold, tore the poor creature into pieces. <span
-id="fr_137"></span>[1](#fn_137)
+id="fr_137"></span>[1](#fn_137.md)
 
 Now Aristotle used to say that Homer alone made "words that *walked*,"
 on account of their vividness; but I say that of the statues standing
@@ -298,7 +298,7 @@ is it credible that your 'atoms' should slip off, be separated, and move
 obliquely, neither before nor after, but exactly at the moment when each
 one of the dedicators was about to come to a bad or good end? And
 Epicurus benefits you by what he said or wrote three hundred years
-ago, <span id="fr_138"></span>[2](#fn_138) but the god, unless he
+ago, <span id="fr_138"></span>[2](#fn_138.md) but the god, unless he
 
 <span id="page_147">p. 147</span>
 
@@ -324,7 +324,7 @@ at the others. On which the visitor observed that even if these tales
 are much like fables, yet to the reality of these Oracles bear witness
 the uprootings and removals of many Greek cities, the sudden appearances
 of barbarian invasions, and the takings off of great personages. Again,
-these quite recent <span id="fr_139"></span>[1](#fn_139) and new
+these quite recent <span id="fr_139"></span>[1](#fn_139.md) and new
 calamities at Cumæ and Dicæarchia, hymned forth long ago and sung in the
 Sibylline verses, hath not Time made them good as though he were in debt
 for the same? "Burstings forth of mountain fire, boilings up of the sea,
@@ -348,7 +348,7 @@ about Chance encounters, and coincides with them of her own accord. For
 there is a great difference, I think, between a thing that has been said
 coming to pass, and a thing that is to come to pass being said; because
 the saying that foretells things that are not, keeps the failure <span
-id="fr_140"></span>[1](#fn_140) in its own hands unfairly, and waits for
+id="fr_140"></span>[1](#fn_140.md) in its own hands unfairly, and waits for
 its confirmation from accident; and does not adduce a real proof of its
 foretelling, when it knows the event that has happened after the
 prediction; because infinity of time offers all sorts of events (to fit
@@ -501,13 +501,13 @@ that slaughter, which they did not." Thus farther spoke I.
 
 XIV\. And when the guide showed us the Hall of the Acanthians and
 Brasidas, the place where the iron spits <span
-id="fr_141"></span>[1](#fn_141) of Rhodope the courtesan formerly lay,
+id="fr_141"></span>[1](#fn_141.md) of Rhodope the courtesan formerly lay,
 Diogenianus, being indignant, exclaimed, "’Twas surely right and proper
 for the same city to grant Rhodope a place wherein to deposit the tithes
 of her prostitution, and to put to death Æsop, her fellow in slavery."
 Then Serapion: "Why are you angry, my fine fellow, at this? look up
 there above, and behold amongst captains and kings the Mnesarete <span
-id="fr_142"></span>[2](#fn_142) in
+id="fr_142"></span>[2](#fn_142.md) in
 
 <span id="page_153">p. 153</span>
 
@@ -515,7 +515,7 @@ gold, which Crates said was dedicated as a trophy over the incontinence
 of Greece." "But," said the youth, "was not this said of Phryne by
 Crates?" "Yes, truly," answered Serapion, "her real name was Mnesarete,
 but she got the nickname of *Phryne* <span
-id="fr_143"></span>[1](#fn_143) by reason of her paleness; for the
+id="fr_143"></span>[1](#fn_143.md) by reason of her paleness; for the
 nicknames often obliterate the true names: for example, Alexander's
 mother, Polyxena, they say, was afterwards called Myrtale, then Olympias
 and Stratonice; and the Corinthian Eumelis most people to the present
@@ -544,7 +544,7 @@ Amphictyons from the Phocians.' But Praxiteles offended Crates
 <span id="page_154">p. 154</span>
 
 only with his mistress, and met with his reward of her in such a
-place; <span id="fr_144"></span>[1](#fn_144) whereas Crates ought rather
+place; <span id="fr_144"></span>[1](#fn_144.md) whereas Crates ought rather
 to have commended him because he set up amongst these golden kings a
 courtesan in gold, thereby casting reproach on gold, as possessing
 nought that is to be admired or venerated; seeing that it is becoming to
@@ -572,7 +572,7 @@ different States, the Opuntians collected all that
 <span id="page_155">p. 155</span>
 
 silver coin, and sent back a water-vessel <span
-id="fr_145"></span>[1](#fn_145) to the god, which they dedicated to him.
+id="fr_145"></span>[1](#fn_145.md) to the god, which they dedicated to him.
 I commend the people of Myrina and of Apollonia for sending hither
 wheat-sheaves in gold, but yet more those of Eretria and of Magnesia who
 presented the god with the first-fruits of human beings, as the giver of
@@ -582,7 +582,7 @@ place, set up the god with a spear in his hand, in memory of the fight
 in which, after the Persian War, they drove out the Athenians who had
 already got possession of their town; afterwards, however, they
 dedicated to the god a plectrum of gold, taking the hint, probably, from
-Scythinus <span id="fr_146"></span>[2](#fn_146) saying of the lyre:—
+Scythinus <span id="fr_146"></span>[2](#fn_146.md) saying of the lyre:—
 
 <div style="margin-left: 32px">
 
@@ -613,7 +613,7 @@ round, and sat down upon the southern steps of the shrine, looking
 towards the Temple of the Earth and the Water; so that Boethus
 immediately observed that the place itself assisted the visitor in his
 inquiry, for there was a temple of the Muses by the pool <span
-id="fr_147"></span>[1](#fn_147) of the Spring, which too they used for
+id="fr_147"></span>[1](#fn_147.md) of the Spring, which too they used for
 making libation as Stesichorus sings:—
 
 "There, from above is drawn the pure water for the basins of the Muses
@@ -629,7 +629,7 @@ Eudoxus, therefore, was wrong in believing those who make out that this
 was called the "Water of Styx." They therefore set up the Muses for
 companions of Prophecy, and for guardians round about the stream itself,
 and also built the Temple of the Earth, to whom the Oracle is said to
-have first belonged. … <span id="fr_148"></span>[2](#fn_148) The
+have first belonged. … <span id="fr_148"></span>[2](#fn_148.md) The
 delivering of oracles in epic verse and poetry. But others assert that
 the heroic measure was heard here for the first time:—
 
@@ -663,7 +663,7 @@ in prose, whereas Eudoxus, Hesiod, and Thales formerly wrote in verse;
 if, indeed, Thales really did compose the 'Astronomy' attributed to him.
 And Pindar confesses that he himself is quite at a loss about the
 neglect of the use of verse, and is astonished. … <span
-id="fr_149"></span>[1](#fn_149) It is neither wicked nor absurd for
+id="fr_149"></span>[1](#fn_149.md) It is neither wicked nor absurd for
 people to inquire into the causes of changes of the sort; but to do away
 with the sciences themselves if anything belonging to them be meddled
 with or changed, is very unfair."
@@ -701,7 +701,7 @@ private the best means for escape and emigration. But the god responded
 Æginetan friend to deposit the hamper; or else where the stag puts down
 his horn.' The tyrant, therefore, understanding that the god bade him
 either drown or bury himself (because stags bury and hide in the earth
-their antlers when shed), <span id="fr_150"></span>[1](#fn_150) waited a
+their antlers when shed), <span id="fr_150"></span>[1](#fn_150.md) waited a
 little while, and then his affairs being utterly ruined, was driven into
 exile. But the friends of Timarchus got hold of him, and having put him
 to death, flung his dead body into the sea. And, what is the greatest
@@ -711,7 +711,7 @@ fact of all, the laws by which Lycurgus regulated the
 
 <span class="contnote">\[paragraph continues\]</span> Lacedæmonian
 constitution were given to him word for word at this place. <span
-id="fr_151"></span>[1](#fn_151) Now, though Alyrius, Herodotus,
+id="fr_151"></span>[1](#fn_151.md) Now, though Alyrius, Herodotus,
 Philochorus, and Istrus, the persons most zealous in collecting oracles
 in verse, have also recorded responses not in metre, Theopompus, who has
 been as careful as any man in the matter of the Oracle, has sharply
@@ -719,7 +719,7 @@ rebuked such as believed at that time that the Pythia no longer
 delivered metrical responses; and then, wishing to give proof of his
 assertion, found be had but a very scanty supply, inasmuch as even then
 the responses were usually delivered in prose. <span
-id="fr_152"></span>[2](#fn_152)
+id="fr_152"></span>[2](#fn_152.md)
 
 XX\. "Even at the present day some Oracles run out in metre, of which I
 cite an example that has made a great noise in the world. There is in
@@ -730,13 +730,13 @@ in years. Not long ago, a young man, not a bad one, but ambitious,
 having an amour with a servant-girl, obtained the appointment, and at
 first was continent, and kept out of the way of the wench; but as he lay
 asleep after drinking and dancing, she fell upon him and he did her
-business for her. <span id="fr_153"></span>[3](#fn_153) Being terrified
+business for her. <span id="fr_153"></span>[3](#fn_153.md) Being terrified
 and troubled in mind at what he had done he had recourse to the Oracle
 and inquired of the god about his sin, if there were any remedy or
 expiation for it; and he received this response—
 
 "'God pardons everything that can't be helped.' <span
-id="fr_154"></span>[4](#fn_154)
+id="fr_154"></span>[4](#fn_154.md)
 
 "Not but that even if you grant that no response is delivered without
 metre in our days, will you be any the
@@ -764,7 +764,7 @@ another thing, and worked by the agency of another, it is then filled
 with its proper nature. And I pass over wax, and gold, and silver, and
 bronze, and whatever other sorts of plastic materials receive one form
 of resemblance modelled out of them, but yet each adds from itself a
-different variation to the copy. <span id="fr_155"></span>[1](#fn_155)
+different variation to the copy. <span id="fr_155"></span>[1](#fn_155.md)
 And the innumerable distortions of the appearances and images from one
 object in mirrors flat, or convex, or concave: for they are … But there
 is nothing so like in form, or organ created for the use of Nature, that
@@ -784,7 +784,7 @@ here as employing the Pythia for *hearing* \[being heard\] in the same
 way as the Sun employs the Moon for *seeing* \[being seen\], she shows
 his thoughts aloud, but she exhibits them mixed with something else, by
 the agency of a mortal body, and a soul that is not able to keep
-quiet. <span id="fr_156"></span>[1](#fn_156) Unable to present herself,
+quiet. <span id="fr_156"></span>[1](#fn_156.md) Unable to present herself,
 standing by herself, unmoved to the moving power, but as it were in a
 state of agitation, feeling about and entangled with the emotions in
 herself, and the passions that trouble her. For just as the whirlpools
@@ -796,7 +796,7 @@ inspiration is probably the mixture of two impulses, the one of the soul
 moved by external impressions; the other, as it is moved by its own
 nature. For since it is not easy to use inanimate and motionless objects
 for a purpose to which they are \[not\] <span
-id="fr_157"></span>[2](#fn_157) naturally adapted, by using force to
+id="fr_157"></span>[2](#fn_157.md) naturally adapted, by using force to
 them, as for instance,
 
 <span id="page_162">p. 162</span>
@@ -808,7 +808,7 @@ using it for the purpose for which it is made: surely, then, it is
 impossible to say how anyone can handle that which is animated and
 self-impelled, and endowed with appetite and reason, otherwise than
 consistently with its constitution; … <span
-id="fr_158"></span>[1](#fn_158) one attempting to move by musical means
+id="fr_158"></span>[1](#fn_158.md) one attempting to move by musical means
 one ignorant of music, or by grammatical, one who knows no grammar, or
 by logic, one who has neither the theory nor the practice of logic.
 
@@ -889,7 +889,7 @@ unprovided with flute, unarmed with lyre, yet no less loquacious and
 fervent than those of old. For it is not allowable so much as to say
 that the Academy was loveless, nor Socrates and the school of Plato;
 since you may meet with their amatory treatises, and their amatory
-poems <span id="fr_159"></span>[1](#fn_159) are not yet obsolete. For
+poems <span id="fr_159"></span>[1](#fn_159.md) are not yet obsolete. For
 what difference is there in saying that Sappho was the only woman that
 ever was in love, and in asserting that the only prophetess was the
 Sibyl, or Aristonica, or all such as delivered oracles in verse. For
@@ -904,7 +904,7 @@ XXIV\. "Not but that if we consider the question of the god and his
 foreknowledge, we shall find the change made for the better. For the use
 of language is like the exchange of coin that acquires a different value
 at different times \[and of it what is familiar and well-known passes
-current\] <span id="fr_160"></span>[1](#fn_160). There was a time when
+current\] <span id="fr_160"></span>[1](#fn_160.md). There was a time when
 people used for the currency of speech, verses and tunes and songs,
 converting into music and poetry, all history, all philosophy, every
 passion, and to speak generally, every circumstance that required more
@@ -934,7 +934,7 @@ extravagant expense, and to hold in honour that which is simple and neat
 rather than what is ostentatious and over-refined. In the same way, from
 language changing together with the times, and similarly stripping
 itself bare, History descended out of verse, as it were out of a
-chariot, <span id="fr_161"></span>[1](#fn_161) and the *true* was
+chariot, <span id="fr_161"></span>[1](#fn_161.md) and the *true* was
 distinguished from the *fabulous* chiefly by the use of prose.
 Philosophy also, having embraced the clear and instructive in preference
 to the sensational style, pursued her investigations in ordinary
@@ -978,7 +978,7 @@ about the responses, out of their own heads. And persons like
 Onomacritus and Prodotes and Cinesion—what blame did they not get on the
 score of their Oracles, for having added tragic phrases and bombast to
 what was in no need thereof—I omit to mention, or to join in the cry
-against them. <span id="fr_162"></span>[1](#fn_162) The greatest
+against them. <span id="fr_162"></span>[1](#fn_162.md) The greatest
 discredit, however, of all, was brought upon poetry by the set of
 mountebanks, and market-haunters that roam about, and play off their
 buffoonery round the temples of the Great Mother, and those of Serapis:
@@ -1000,7 +1000,7 @@ things contrary to their wishes,
 
 <span id="page_168">p. 168</span>
 
-was by no [means](errata.htm#2) to the advantage of the keepers of the
+was by no [means](errata.htm#2.md) to the advantage of the keepers of the
 Oracle. For the god doth not obey Euripides when he, as it were, lays
 down the law and says:
 
@@ -1016,7 +1016,7 @@ ministering to the god—he chooses not to obliterate the truth, but he
 deflects the manifestation thereof, like a sunbeam, in poetry, where it
 suffers many refractions, and is dispersed and scattered about in many
 directions, and thereby got rid of its offensiveness and harshness. The
-point was that tyrants should not <span id="fr_163"></span>[1](#fn_163)
+point was that tyrants should not <span id="fr_163"></span>[1](#fn_163.md)
 be ignorant of what was coming, and that their enemies should not
 perceive the same beforehand. Wherefore he \[Apollo\] wrapped up all
 this in hints and double meanings, that concealed from the rest of the
@@ -1032,7 +1032,7 @@ strung together, are better remembered and retained. Men of those times
 were far from possessing good memory, 'for of old the descriptions of
 places, the proper seasons for divers occupations, the festivals of the
 gods, the secret sepulchres of heroes, so hard to be discovered beyond
-seas, were all told in verse <span id="fr_164"></span>[2](#fn_164) in
+seas, were all told in verse <span id="fr_164"></span>[2](#fn_164.md) in
 the far-distant parts of Greece.' For
 
 <span id="page_169">p. 169</span>
@@ -1046,13 +1046,13 @@ because he had not got possession of the place to which he had been
 despatched: he, therefore, came a second time to consult; the god
 replying, said: 'To Libya, nurse of sheep, udder of earth, thou hast not
 gone. I greatly admire thy wisdom in coming here,' <span
-id="fr_165"></span>[1](#fn_165) and so sent him out again, and Lysander
+id="fr_165"></span>[1](#fn_165.md) and so sent him out again, and Lysander
 being entirely ignorant that a hill was called Archelades, and also
 Allopæus, and a river Hoplites, and 'Earth's crafty son, the dragon,
-from behind approaching' <span id="fr_166"></span>[2](#fn_166)—being
+from behind approaching' <span id="fr_166"></span>[2](#fn_166.md)—being
 beaten in a fight, he fell in the places so named by the people by whom
 the district \[was so called, and by the hand of\], <span
-id="fr_167"></span>[3](#fn_167) a man of Haliartus, carrying a shield
+id="fr_167"></span>[3](#fn_167.md) a man of Haliartus, carrying a shield
 which had for device a serpent. But to enumerate more of these ancient
 examples, hard of interpretation, hard to recollect as they are, to you
 who know them already, is superfluous for me.
@@ -1118,7 +1118,7 @@ beauties and decorations of buildings erected by the Amphictyons. For
 you see, I suppose, many additions of buildings not previously existing,
 and many restorations of such as were dilapidated and tumbled down. For
 as with thriving trees, others spring up by their side; so doth the
-Pylæa <span id="fr_168"></span>[1](#fn_168) renew its youth together
+Pylæa <span id="fr_168"></span>[1](#fn_168.md) renew its youth together
 with Delphi, and fattens in her company by reason of the opulence
 flowing from this source; and receives a beauty, shape, and decoration
 of temples, public offices, and fountains, such as it never had for the
@@ -1131,14 +1131,14 @@ idle in the houses, pails and wooden casks were all filled to the brim.'
 But to us, better, more brilliant, and clearer signs than these, promise
 to restore to us, as it were after the drought of our former desolation
 and poverty, both opulence, honour, and splendour, <span
-id="fr_169"></span>[2](#fn_169) and yet I congratulate myself on having
+id="fr_169"></span>[2](#fn_169.md) and yet I congratulate myself on having
 been zealous and useful in these affairs, in concert with Polycrates and
 
 <span id="page_172">p. 172</span>
 
 <span class="contnote">\[paragraph continues\]</span> Piræus. I likewise
 congratulate him that was governor of the State <span
-id="fr_170"></span>[1](#fn_170) at the time, and who planned and
+id="fr_170"></span>[1](#fn_170.md) at the time, and who planned and
 provided for most of these works But it is not possible that such and so
 great a change should take place in a short time, but for the god being
 present here, and inspiring the Oracle to that purpose.
@@ -1149,60 +1149,60 @@ censure their too great plainness—whose conduct is equally unfair and
 silly. For little children take greater pleasure and delight in looking
 at rainbows, halos, and cornets, than at the sun and moon; so do they
 these cavillers regret the riddles, allegories, and metaphors, that are
-the *reflections* <span id="fr_171"></span>[2](#fn_171) of the prophetic
+the *reflections* <span id="fr_171"></span>[2](#fn_171.md) of the prophetic
 power upon the mortal and imaginative subject: and if they cannot find
 out the cause of the change to their own satisfaction, they immediately
 blame the gods; and not us, or themselves, as being unable to arrive by
 reasoning at the gods’ intention."
 
 <span id="img_17200"></span> ![\[The Pythia, before the
-Tripod\]](img/17200.jpg)  
+Tripod\]](img/17200.jpg.md)  
 \[The Pythia, before the Tripod\]
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_127"></span>[139:1](pte06.htm#fr_127) Curious, as showing
+<span id="fn_127"></span>[139:1](pte06.htm#fr_127.md) Curious, as showing
 the establishment of regular *custodi* for the benefit of visitors.
 
-<span id="fn_128"></span>[139:2](pte06.htm#fr_128) This shows that the
+<span id="fn_128"></span>[139:2](pte06.htm#fr_128.md) This shows that the
 good temper of the old bronze weapons was as much a problem to the
 Romans as it is now to us.
 
-<span id="fn_129"></span>[140:1](pte06.htm#fr_129) Referring to the
+<span id="fn_129"></span>[140:1](pte06.htm#fr_129.md) Referring to the
 electrum, then much in vogue for table plate on account of its superior
 brilliancy; and witch was gold largely alloyed with silver, to one-fifth
 of its weight.
 
-<span id="fn_130"></span>[140:2](pte06.htm#fr_130) πρίν in text must be
+<span id="fn_130"></span>[140:2](pte06.htm#fr_130.md) πρίν in text must be
 περὶ. The joke probably was that Theognis got his red face from the
 contact of the atmosphere—not from the bottle; as some philosopher once
 attributed the paleness of our Fellows to the great brasier formerly
 warming the Hall; now, alas! banished, but without any benefit to their
 complexions.
 
-<span id="fn_131"></span>[141:1](pte06.htm#fr_131) The ancient receipt
+<span id="fn_131"></span>[141:1](pte06.htm#fr_131.md) The ancient receipt
 for "patinating" statues was by "oleo et sole," to use Pliny's words;
 not by washing them with acid, as at present.
 
-<span id="fn_132"></span>[141:2](pte06.htm#fr_132) The text is very
+<span id="fn_132"></span>[141:2](pte06.htm#fr_132.md) The text is very
 corrupt here, merely from the confusion of nominative and dative
 terminations of the pronouns and articles: but the sense is clear
 enough, that the oil, a pure liquid, cannot coat a surface with rust,
 but must produce it by some secret action of its own.
 
-<span id="fn_133"></span>[142:1](pte06.htm#fr_133) Some words have
+<span id="fn_133"></span>[142:1](pte06.htm#fr_133.md) Some words have
 dropped out here, but their sense is easily supplied.
 
-<span id="fn_134"></span>[143:1](pte06.htm#fr_134) *i.e.* must accustom
+<span id="fn_134"></span>[143:1](pte06.htm#fr_134.md) *i.e.* must accustom
 ourselves to think this bad poetry beautiful; and not take Homer and
 Hesiod for the standard of excellence.
 
-<span id="fn_135"></span>[144:1](pte06.htm#fr_135) Men get more pleasure
+<span id="fn_135"></span>[144:1](pte06.htm#fr_135.md) Men get more pleasure
 through their ears than through any other sense.
 
-<span id="fn_136"></span>[145:1](pte06.htm#fr_136) Probably a false
+<span id="fn_136"></span>[145:1](pte06.htm#fr_136.md) Probably a false
 reading for Cleombrotus, King of Sparta, who fell at Leuctra. The story
 shows that paste eyes were not a Roman invention for statues. *See
 above*. Feuardent has a bronze statue of a youth, half life-size, with
@@ -1210,82 +1210,82 @@ carbuncle-garnets for eyes. It was discovered in the sand on the coast
 of Rhodes. From the posture it seems to have been a Palæmon seated on a
 dolphin.
 
-<span id="fn_137"></span>[146:1](pte06.htm#fr_137) This crown,
+<span id="fn_137"></span>[146:1](pte06.htm#fr_137.md) This crown,
 therefore, was of little weight, doubtless, from its distension, in the
 shape of a wreath of bay leaves, for the girl to have worn it
 constantly. Gold at the time was exceedingly scarce in Greece and Italy,
 as numerous recorded instances attest.
 
-<span id="fn_138"></span>[146:2](pte06.htm#fr_138) Epicurus died B.C.
+<span id="fn_138"></span>[146:2](pte06.htm#fr_138.md) Epicurus died B.C.
 270; whence we get an approximate date for this Dialogue.
 
-<span id="fn_139"></span>[147:1](pte06.htm#fr_139) This allusion shows
+<span id="fn_139"></span>[147:1](pte06.htm#fr_139.md) This allusion shows
 this piece to have been written under Domitian, soon after the great
 eruption of Vesuvius, A.D. 79.
 
-<span id="fn_140"></span>[148:1](pte06.htm#fr_140) Never confesses to a
+<span id="fn_140"></span>[148:1](pte06.htm#fr_140.md) Never confesses to a
 failure of a prediction, but waits for some lucky accident in the course
 of time to turn up corresponding to the prediction.
 
-<span id="fn_141"></span>[152:1](pte06.htm#fr_141) This offering,
+<span id="fn_141"></span>[152:1](pte06.htm#fr_141.md) This offering,
 besides its appropriate symbolism (which alone was remembered in
 Plutarch's days), had considerable pecuniary value at the time of its
 dedication, considering the then scarcity of the metal.
 
-<span id="fn_142"></span>[152:2](pte06.htm#fr_142) Another celebrity of
+<span id="fn_142"></span>[152:2](pte06.htm#fr_142.md) Another celebrity of
 the same profession.
 
-<span id="fn_143"></span>[153:1](pte06.htm#fr_143) A toad; paleness
+<span id="fn_143"></span>[153:1](pte06.htm#fr_143.md) A toad; paleness
 being yellowness in the south: "pallidior buxo, semianimisque fui."
 
-<span id="fn_144"></span>[154:1](pte06.htm#fr_144) A far-fetched
+<span id="fn_144"></span>[154:1](pte06.htm#fr_144.md) A far-fetched
 argument—Crates ought to have been more offended by an offering in
 *gold* being made to the god, than by the character of the person
 represented. "Golden" merely signifies *gilt*, or rather overlaid with a
 thick leaf of gold. And this multitude of statues was in existence after
 Nero had carried off *five hundred* at one swoop!
 
-<span id="fn_145"></span>[155:1](pte06.htm#fr_145) ὑδρία, the largest
+<span id="fn_145"></span>[155:1](pte06.htm#fr_145.md) ὑδρία, the largest
 size of vase, made out of the sacrilegious coin, thus restored to its
 old destination. The fact shows that the coinage of the Phocian tyrants
 was known by its type—what has become of it all?
 
-<span id="fn_146"></span>[155:2](pte06.htm#fr_146) Error for the name of
+<span id="fn_146"></span>[155:2](pte06.htm#fr_146.md) Error for the name of
 some famous poet.
 
-<span id="fn_147"></span>[156:1](pte06.htm#fr_147) ἀναπνοὴ, *i.e.* where
+<span id="fn_147"></span>[156:1](pte06.htm#fr_147.md) ἀναπνοὴ, *i.e.* where
 the stream tumbling from the rock finds a resting-place.
 
-<span id="fn_148"></span>[156:2](pte06.htm#fr_148) Evidently parts of
+<span id="fn_148"></span>[156:2](pte06.htm#fr_148.md) Evidently parts of
 the same sentence displaced, and wanting some words to complete it,
 probably \[and who invented\]. Then Plutarch cites another tradition,
 ascribing the same thing to the latest owner, Apollo.
 
-<span id="fn_149"></span>[157:1](pte06.htm#fr_149) The quotation has
+<span id="fn_149"></span>[157:1](pte06.htm#fr_149.md) The quotation has
 been omitted by the copyist, who (like other people), did not understand
 Pindar: or else "*pardonably*" thought he was talking nonsense.
 
-<span id="fn_150"></span>[158:1](pte06.htm#fr_150) Which stags do *not*
+<span id="fn_150"></span>[158:1](pte06.htm#fr_150.md) Which stags do *not*
 do; the god recommended the tyrant to use a *tree*, against which stags
 are in the habit of rubbing their antlers.
 
-<span id="fn_151"></span>[159:1](pte06.htm#fr_151) The Spartans, as King
+<span id="fn_151"></span>[159:1](pte06.htm#fr_151.md) The Spartans, as King
 Areius’ letter to Simon Maccabeus shows believed themselves of the same
 stock as the Jews: this may have something to do with their assumption
 of a divine legislator.
 
-<span id="fn_152"></span>[159:2](pte06.htm#fr_152) The fourth century
+<span id="fn_152"></span>[159:2](pte06.htm#fr_152.md) The fourth century
 B.C., he being a scholar of Isocrates.
 
-<span id="fn_153"></span>[159:3](pte06.htm#fr_153) διεχρήσατο.
+<span id="fn_153"></span>[159:3](pte06.htm#fr_153.md) διεχρήσατο.
 
-<span id="fn_154"></span>[159:4](pte06.htm#fr_154) ἅπαντα τἀναγκαῖα
+<span id="fn_154"></span>[159:4](pte06.htm#fr_154.md) ἅπαντα τἀναγκαῖα
 συγχωρεῖ θεός.
 
-<span id="fn_155"></span>[160:1](pte06.htm#fr_155) The same object
+<span id="fn_155"></span>[160:1](pte06.htm#fr_155.md) The same object
 modelled in different materials, has a different appearance.
 
-<span id="fn_156"></span>[161:1](pte06.htm#fr_156) μὴ δυναμένη cannot
+<span id="fn_156"></span>[161:1](pte06.htm#fr_156.md) μὴ δυναμένη cannot
 begin a sentence, and therefore must receive a final s and finish the
 preceding one. The first word of the next is lost, being probably of
 similar sound. It is curious to observe how, throughout all these
@@ -1295,13 +1295,13 @@ without caring for or understanding what he is about, omitting words,
 and inserting them again in wrong places, as things quite immaterial to
 the reader.
 
-<span id="fn_157"></span>[161:2](pte06.htm#fr_157) μὴ has certainly
+<span id="fn_157"></span>[161:2](pte06.htm#fr_157.md) μὴ has certainly
 dropped out here.
 
-<span id="fn_158"></span>[162:1](pte06.htm#fr_158) Some words lost here
+<span id="fn_158"></span>[162:1](pte06.htm#fr_158.md) Some words lost here
 to the effect: To act otherwise would be like ….
 
-<span id="fn_159"></span>[164:1](pte06.htm#fr_159) Such as Plato's lines
+<span id="fn_159"></span>[164:1](pte06.htm#fr_159.md) Such as Plato's lines
 to Agatha
 
 <div style="margin-left: 32px">
@@ -1311,49 +1311,49 @@ to Agatha
 
 </div>
 
-<span id="fn_160"></span>[165:1](pte06.htm#fr_160) καὶ δόκιμον μὲν αὐτοῦ
+<span id="fn_160"></span>[165:1](pte06.htm#fr_160.md) καὶ δόκιμον μὲν αὐτοῦ
 ἐστὶ ξύνηθες καὶ γνώριμον, which seems both imperfect and out of its
 place, there being no δὲ to correspond in tho same sentence.
 
-<span id="fn_161"></span>[166:1](pte06.htm#fr_161) As we should say,
+<span id="fn_161"></span>[166:1](pte06.htm#fr_161.md) As we should say,
 "from off the stage," referring to the old expression έξ ἁμάξης λέγειν.
 
-<span id="fn_162"></span>[167:1](pte06.htm#fr_162) μεταβόλαις in text
+<span id="fn_162"></span>[167:1](pte06.htm#fr_162.md) μεταβόλαις in text
 must be διαβόλαις.
 
-<span id="fn_163"></span>[168:1](pte06.htm#fr_163) In text μὴ has
+<span id="fn_163"></span>[168:1](pte06.htm#fr_163.md) In text μὴ has
 certainly dropped out—else we get a contradiction to the argument.
 
-<span id="fn_164"></span>[168:2](pte06.htm#fr_164) "Verse" is required
+<span id="fn_164"></span>[168:2](pte06.htm#fr_164.md) "Verse" is required
 by the context; the passage is incomplete, but clearly a quotation from
 an ancient poet.
 
-<span id="fn_165"></span>[169:1](pte06.htm#fr_165) Battus, sent by
+<span id="fn_165"></span>[169:1](pte06.htm#fr_165.md) Battus, sent by
 Apollo to Libya, at first colonized the island Platea off the coast: the
 colony not prospering he again consulted the god, whose answer was: "If
 thou who hast never gone to Libya, knowest Libya better than I who have
 been there, I greatly admire thy cleverness," and so sent him off once
 more.
 
-<span id="fn_166"></span>[169:2](pte06.htm#fr_166) Or "darting,"
+<span id="fn_166"></span>[169:2](pte06.htm#fr_166.md) Or "darting,"
 according to the breathing of the initial.
 
-<span id="fn_167"></span>[169:3](pte06.htm#fr_167) This has fallen out
+<span id="fn_167"></span>[169:3](pte06.htm#fr_167.md) This has fallen out
 of the text, but can be supplied from the Life of Lysander. He was slain
 by a sudden sally of the garrison.
 
-<span id="fn_168"></span>[171:1](pte06.htm#fr_168) The little town
+<span id="fn_168"></span>[171:1](pte06.htm#fr_168.md) The little town
 itself, dependent upon Delphi, the sacred ground.
 
-<span id="fn_169"></span>[171:2](pte06.htm#fr_169) πεποιηκὼς here
+<span id="fn_169"></span>[171:2](pte06.htm#fr_169.md) πεποιηκὼς here
 belongs evidently to the next sentence.
 
-<span id="fn_170"></span>[172:1](pte06.htm#fr_170) The Roman governor of
+<span id="fn_170"></span>[172:1](pte06.htm#fr_170.md) The Roman governor of
 the province.
 
-<span id="fn_171"></span>[172:2](pte06.htm#fr_171) Referring to the
+<span id="fn_171"></span>[172:2](pte06.htm#fr_171.md) Referring to the
 foregoing simile of rainbows, halos, &c.
 
 ------------------------------------------------------------------------
 
-[Next: On the E at Delphi](pte07)
+[Next: On the E at Delphi](pte07.md)

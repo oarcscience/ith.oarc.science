@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp08)  [Next](dmp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp08)  [Next](dmp10.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ give thee oil.
 
 ------------------------------------------------------------------------
 
-[Next: Col. VII](dmp10)
+[Next: Col. VII](dmp10.md)

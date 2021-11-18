@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bbtp) [Next](bb00)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bbtp) [Next](bb00.md)
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ right bank of the united streams of the Tigris and Euphrates) about A.D.
 1222, in which year he was present at the consecration of the catholicus
 or Nestorian patriarch Sabr-îshô\` (Hope-in-Jesus)<span
 id="page_iii_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_iii_note_1) (see Assemânî, *Bibl.
+class="small">1</span></sup>](#page_iii_note_1.md) (see Assemânî, *Bibl.
 Orient.*, t. ii, p. 453, no. 75; Bar-hebraeus, *Chron. Eccl.*, t. ii, p.
 371). In the Catalogue of Ecclesiastical Works compiled by
 \`Ebêd-yêshû\` or \`Abd-îshô\` (the-Servant-of-Jesus) he is stated to
@@ -30,7 +30,7 @@ the Munich MS. only, and is faulty in many places.
 four MSS., indicated respectively by the letters A, B, C and D.
 
    The MS. A<span id="page_iii_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_iii_note_2) belongs to the Library
+class="small">2</span></sup>](#page_iii_note_2.md) belongs to the Library
 of the Royal Asiatic Society of Great Britain and Ireland. It is dated
 A.Gr. 1880 = A.D. 1569, and <span id="page_iv">p. iv</span> consists of
 188 paper leaves, measuring about 8 in. by 5¾. Each page is occupied by
@@ -50,7 +50,7 @@ help of our Lord and our God, this Book of the Bee was completed on the
 16th day of the month of Tammuz, on the Saturday that ushers in the
 Sunday which is called Nûsârdêl<span
 id="page_iv_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_iv_note_1), in the year 1880 of the
+class="small">1</span></sup>](#page_iv_note_1.md), in the year 1880 of the
 blessed Greeks, by the hands of the sinful servant the faulty Elias.
 Amen.'
 
@@ -64,7 +64,7 @@ etc., and is dated A.Gr. 2020 = A.D. 1709. The colophon runs:--
    'It was finished in the year 2020 of the Greeks, on Friday the 22nd
 of the blessed month Tammûz, by the wretched sinner, the deacon Hômô of
 Al<u>k</u>ôsh<span id="page_v_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_v_note_1). I entreat you to pray for
+class="small">1</span></sup>](#page_v_note_1.md). I entreat you to pray for
 him that perchance he may obtain mercy with those upon whom mercy is
 freely shewn in the day of judgment, Amen. And to Jah be the glory,
 Amen.
@@ -72,7 +72,7 @@ Amen.
    'The illustrious priest and pure verger, the priest Joseph, the son
 of <span id="page_vi">p. vi</span> the late deacon Hormizd of
 <u>H</u>ôrdaphnê<span id="page_vi_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_vi_note_1), took pains and was
+class="small">1</span></sup>](#page_vi_note_1.md), took pains and was
 careful to have this book written: may Christ make his portion in the
 kingdom of heaven! Amen. He had it written for the holy church called
 after the name of our Lady Mary the pure and virgin mother, which is in
@@ -108,7 +108,7 @@ which contain the equivalent in Arabic of B, fol. 157 *a*, col. 2, lines
 
    'This book is the property of the church of Mâr Cyriacus the Martyr
 at Ba<u>t</u>nâye<span id="page_vii_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_vii_note_1). The deacon Peter bar
+class="small">1</span></sup>](#page_vii_note_1.md). The deacon Peter bar
 <u>S</u>aumô has purchased it for the church with its own money, and
 therefore it has become the lawful property of the church. Whosoever
 taketh it away without the consent of the directors of the church,
@@ -134,17 +134,17 @@ id="page_viii">p. viii</span> experience in these matters, considers
 that the paper on which these two MSS. are written was made at the same
 manufactory and about the same time<span
 id="page_viii_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_viii_note_1). Add to this that the
+class="small">1</span></sup>](#page_viii_note_1.md). Add to this that the
 writing of both MSS. is almost identical, and that the signatures of the
 quires and the style of ornamentation is the same, and it will be
 evident that the Munich MS. belongs rather to the end of the seventeenth
 or the beginning of the eighteenth century than to the fourteenth<span
 id="page_viii_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_viii_note_2).
+class="small">2</span></sup>](#page_viii_note_2.md).
 
    The MS. D, belonging to the Bodleian Library, Oxford<span
 id="page_viii_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_viii_note_3), consists of 405 paper
+class="small">3</span></sup>](#page_viii_note_3.md), consists of 405 paper
 leaves, measuring 8 5/8 in. by 6¼. There is one column of twenty-one
 lines, in Kârshûni or Arabic in Syriac characters, to each page. The MS.
 is written in a fine bold hand, the headings of the chapters, names, and
@@ -166,7 +166,7 @@ is of the utmost importance for the study of 'the Bee,' as it contains
 the last chapter in a perfect and complete state; which is unfortunately
 not the case either with the bilingual Munich MS. or the copy in
 Paris<span id="page_ix_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_ix_note_1).
+class="small">1</span></sup>](#page_ix_note_1.md).
 
    Assemânî says in the *Bibl. Orient.*, t. iii, pt. i, p. 310, note 4,
 that there are two codices of 'the Bee' in the Vatican Library, and he
@@ -177,7 +177,7 @@ ii, p. 488, no. ix); but the former is complete (see *Bibl. Orient.*, t.
 i, p. 576, no. xvii). It was finished, according to a note at the end,
 on Wednesday, 14th of Sh<u>e</u>bâ<u>t</u> in the year of Alexander, the
 son of Nectanebus<span id="page_ix_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_ix_note_2), 1187, which Assemânî
+class="small">2</span></sup>](#page_ix_note_2.md), 1187, which Assemânî
 corrects into 1787 = A.D. 1476. The name of the scribe was Gabriel, and
 he wrote it for the 'priest John, son of the priest Jonah' (Yaunân),
 living at the village of \#\#\# in the district of Baz, (see Hoffmann,
@@ -214,7 +214,7 @@ October 23, 1886.</span>
 
 ------------------------------------------------------------------------
 
-[Next](bb00)
+[Next](bb00.md)
 
 ------------------------------------------------------------------------
 
@@ -222,18 +222,18 @@ October 23, 1886.</span>
 
 <span id="footnotes_page_iii"></span>p. iii
 
-<span id="page_iii_note_1"></span>[1](#page_iii_fr_1) The proper names
+<span id="page_iii_note_1"></span>[1](#page_iii_fr_1.md) The proper names
 of the Nestorians strongly resemble those of our Puritans:
 *Jesus-is-risen*; *Our-Lord-hath-converted*; *Jesus-hath-answered-me*;
 *Blessed-be-His-will*; etc.
 
-<span id="page_iii_note_2"></span>[2](#page_iii_fr_2) For a full account
+<span id="page_iii_note_2"></span>[2](#page_iii_fr_2.md) For a full account
 of the contents of this MS. see Wright's *Apocryphal Acts of the
 Apostles*, vol. i, p. x.
 
 <span id="footnotes_page_iv"></span>p. iv
 
-<span id="page_iv_note_1"></span>[1](#page_iv_fr_1) {T}he last Sunday of
+<span id="page_iv_note_1"></span>[1](#page_iv_fr_1.md) {T}he last Sunday of
 the Week of the Apostles, i.e. the first Sunday of the New Year. The
 word is compounded of the Persian *nau-sard*, 'New Year,' and *êl*,
 'God,' meaning 'the Church's-New Year.' See Rosen <span
@@ -243,12 +243,12 @@ Nöldeke, *Tabari*, p. 407, note 3; Hoffmann, *Auszüge aus syr. Akten
 pers. Märtyrer*, p. 59, note 523; Payne Smith, *Thes. Syr.*, col. 2326;
 Lagarde, *Armen. Studien*, p. 111, no. 1601.
 
-<span id="page_v_note_1"></span>[1](#page_v_fr_1) On Hômô of
+<span id="page_v_note_1"></span>[1](#page_v_fr_1.md) On Hômô of
 Al<u>k</u>ôsh see Hoffmann, *Opuscula Nestoriana*, pp. i and xxiii.
 
 <span id="footnotes_page_vi"></span>p. vi
 
-<span id="page_vi_note_1"></span>[1](#page_vi_fr_1) On <u>H</u>ôrdephnê
+<span id="page_vi_note_1"></span>[1](#page_vi_fr_1.md) On <u>H</u>ôrdephnê
 or <u>H</u>ôrdephnî, called also Kolpein, see Badger's *Nestorians and
 their Riluals*, vol. i, p. 254; Wright, *Catal. Syr. MSS.*, p. 1067 *a*;
 and Hoffmann, *Auszüge aus syr. Akten pers. Märtyrer*, p. 195, note
@@ -256,7 +256,7 @@ and Hoffmann, *Auszüge aus syr. Akten pers. Märtyrer*, p. 195, note
 
 <span id="footnotes_page_vii"></span>p. vii
 
-<span id="page_vii_note_1"></span>[1](#page_vii_fr_1) I.e.
+<span id="page_vii_note_1"></span>[1](#page_vii_fr_1.md) I.e.
 <u>T</u>y<u>t</u>nâye, about one hour's ride north of Tel Kêf, north of
 Mo<u>s</u>ul. Ba<u>t</u>nâye contains two churches; one dedicated to Mâr
 Cyriacus, and the other to Mârt Maryam El-\`adhrâ, i.e. the blessed
@@ -265,28 +265,28 @@ virgin Mary. See E. Sachau, *Reise in Syrien und Mesopotamien*, Leipzig,
 
 <span id="footnotes_page_viii"></span>p. viii
 
-<span id="page_viii_note_1"></span>[1](#page_viii_fr_1) I have seen a
+<span id="page_viii_note_1"></span>[1](#page_viii_fr_1.md) I have seen a
 MS. the fly-leaves of which are made of the same sort of paper, and with
 the same marks, which is certainly not more than sixty years old.
 
-<span id="page_viii_note_2"></span>[2](#page_viii_fr_2) See *Catalogus
+<span id="page_viii_note_2"></span>[2](#page_viii_fr_2.md) See *Catalogus
 codd. manuscriptorum Bibl. Reg. Monacensis. Tomi primi pars 4ta codd.
 Orientales praeter Hebraeos et Arabicos et Persicos complectens*
 (Munich, 1875), p. 114, Cod. Syr. 7. Schoenfelder's mistake is not
 corrected here.
 
-<span id="page_viii_note_3"></span>[3](#page_viii_fr_3) See Payne Smith,
+<span id="page_viii_note_3"></span>[3](#page_viii_fr_3.md) See Payne Smith,
 *Catalogi Codd. MSS. Bibl. Bodl. Pars sexta*, coll. 452-458, and ff. 81
 *b*-212 *b* of Poc. 79 = Uri Cod. Syr. lxxxi.
 
 <span id="footnotes_page_ix"></span>p. ix
 
-<span id="page_ix_note_1"></span>[1](#page_ix_fr_1) See Zotenberg,
+<span id="page_ix_note_1"></span>[1](#page_ix_fr_1.md) See Zotenberg,
 *Catalogues des MSS. Syr. el Sabéens* (Mandaïtes) *de la Bibl. Nat.*
 (Paris, 1874), no. 232, 1°, page 177. This Kârshûni MS. is imperfect at
 the beginning and end, and also wants some chapters in the middle.
 
-<span id="page_ix_note_2"></span>[2](#page_ix_fr_2) Assemânî is mistaken
+<span id="page_ix_note_2"></span>[2](#page_ix_fr_2.md) Assemânî is mistaken
 in his remarks about this name both in the *Bibl. Or.*, t. iii, pt. i,
 p. 310, note 4, and in the Vatican Catalogue, t. iii, p. 367.
 

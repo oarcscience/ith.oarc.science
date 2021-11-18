@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma37)  [Next](oma39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma37)  [Next](oma39.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl05a"></span>
 
 [![Plate 5, Figure 1](tn/pl05a.jpg)  
-Click to enlarge](img/pl05a.jpg)  
+Click to enlarge](img/pl05a.jpg.md)  
 Plate 5, Figure 1  
 
 FIGURE 1. Kuapichani katsina. Wearing full katsina costume; eagle
@@ -30,7 +30,7 @@ rattle (brown); moccasins of buckskin (white with red toes).
 <span id="img_pl05b"></span>
 
 [![Plate 5, Figure 2](tn/pl05b.jpg)  
-Click to enlarge](img/pl05b.jpg)  
+Click to enlarge](img/pl05b.jpg.md)  
 Plate 5, Figure 2  
 
 FIGURE 2. Hachamoni kaiok (broken prayer stick). The face (yellow, hair
@@ -42,7 +42,7 @@ pendants.
 <span id="img_pl05c"></span>
 
 [![Plate 5, Figure 3](tn/pl05c.jpg)  
-Click to enlarge](img/pl05c.jpg)  
+Click to enlarge](img/pl05c.jpg.md)  
 Plate 5, Figure 3  
 
 FIGURE 3. Koshari. Hair (black) tied with corn husks (yellow); earrings
@@ -55,4 +55,4 @@ to represent moccasins.
 
 ------------------------------------------------------------------------
 
-[Next: Plate 6](oma39)
+[Next: Plate 6](oma39.md)

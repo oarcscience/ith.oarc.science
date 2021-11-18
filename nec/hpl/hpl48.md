@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl47)  [Next](hpl49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl47)  [Next](hpl49.md) 
 
 ------------------------------------------------------------------------
 
@@ -321,4 +321,4 @@ up at the battered desk on the platform.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](hpl49)
+[Next: Chapter 2](hpl49.md)

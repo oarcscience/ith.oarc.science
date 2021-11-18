@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh08)  [Next](ulh10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh08)  [Next](ulh10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -65,7 +65,7 @@ O kona we’uwe’u ke ku nei. <span id="page_32">p. 32</span>
 Kaumaha a’e la ia Laka.  
 O Laka ke akua pule ikaika.  
 5 Ua ku ka maile a Laka a imua;  
-Ua lu ka hua <span id="fr_32"></span>[a](#fn_31) o ka maile.  
+Ua lu ka hua <span id="fr_32"></span>[a](#fn_31.md) o ka maile.  
 Noa, noa ia’u, ia Kahaula--  
 Papalua noa.  
 Noa, a ua noa.  
@@ -121,7 +121,7 @@ attendants and friends of the pupils have gone up into the
 
 <span id="img_pl04"></span> <span align="CENTER"> [![PLATE IV&lt;br&gt;
 MAILE (ALYXIA MYRTILLIFOLIA) WREATH](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE IV  
 MAILE (ALYXIA MYRTILLIFOLIA) WREATH  
 </span>
@@ -160,11 +160,11 @@ company break forth in songs of joy and of adulation to goddess Laka:
 <div style="margin-left: 32px">
 
 Noho ana Laka i ka ulu wehi-wehi,  
-Ku ana iluna i Mo’o-helaia, <span id="fr_33"></span>[a](#fn_32)  
-Ohia-Ku <span id="fr_34"></span>[b](#fn_33) iluna o Mauna-loa. <span
-id="fr_35"></span>[c](#fn_34)  
-Aloha mai Kaulana-ula <span id="fr_36"></span>[d](#fn_35) ia’u.  
-5 Eia ka ula la, he ula leo, <span id="fr_37"></span>[e](#fn_36)  
+Ku ana iluna i Mo’o-helaia, <span id="fr_33"></span>[a](#fn_32.md)  
+Ohia-Ku <span id="fr_34"></span>[b](#fn_33.md) iluna o Mauna-loa. <span
+id="fr_35"></span>[c](#fn_34.md)  
+Aloha mai Kaulana-ula <span id="fr_36"></span>[d](#fn_35.md) ia’u.  
+5 Eia ka ula la, he ula leo, <span id="fr_37"></span>[e](#fn_36.md)  
 He uku, he modai, he kanaenae,  
 He alana na’u ia oe.  
 E Laka e, e maliu mai;  
@@ -253,7 +253,7 @@ free, and the whole assembly sit down to enjoy the bounty that is spread
 up and down the halau. On this occasion men and women may eat in common.
 The only articles excluded from this feast are *luau*--a food much like
 spinach, made by cooking the young and delicate taro leaf--and the drupe
-of the *hala*, the pandanus ([pl. XVIII](ulh25.htm#img_pl18)).
+of the *hala*, the pandanus ([pl. XVIII](ulh25.htm#img_pl18).md).
 
 The company sit down to eat and to drink; presently they rise to dance
 and sing. The kumu leads in a tabu-lifting, freedom-giving song and the
@@ -280,13 +280,13 @@ The song chosen must rise to the dignity of the occasion. Let us listen
 to the song that enthralls the audience seated in the rush-strown lanai,
 that we may judge of its worthiness.
 
-*He Mele-Inoa* (no Naihe) <span id="fr_38"></span>[a](#fn_37)
+*He Mele-Inoa* (no Naihe) <span id="fr_38"></span>[a](#fn_37.md)
 
 <div style="margin-left: 32px">
 
 Ka nalu nui, a ku ka nalu mai Kona,  
-Ka malo a ka mahiehie, <span id="fr_39"></span>[b](#fn_38)  
-Ka onaulu-loa, <span id="fr_40"></span>[c](#fn_39) a lele ka’u malo.
+Ka malo a ka mahiehie, <span id="fr_39"></span>[b](#fn_38.md)  
+Ka onaulu-loa, <span id="fr_40"></span>[c](#fn_39.md) a lele ka’u malo.
 
 </div>
 
@@ -294,29 +294,29 @@ Ka onaulu-loa, <span id="fr_40"></span>[c](#fn_39) a lele ka’u malo.
 
 <div style="margin-left: 32px">
 
-O kakai <span id="fr_41"></span>[a](#fn_40) malo hoaka, <span
-id="fr_42"></span>[b](#fn_41)  
-5 O ka malo kai, <span id="fr_43"></span>[c](#fn_42) malo o ke alii.  
+O kakai <span id="fr_41"></span>[a](#fn_40.md) malo hoaka, <span
+id="fr_42"></span>[b](#fn_41.md)  
+5 O ka malo kai, <span id="fr_43"></span>[c](#fn_42.md) malo o ke alii.  
 E ku, e hume a paa i ka malo.
 
-E ka’ika’i <span id="fr_44"></span>[d](#fn_43) ka la i ka papa o
-Halepó; <span id="fr_45"></span>[e](#fn_44)  
+E ka’ika’i <span id="fr_44"></span>[d](#fn_43.md) ka la i ka papa o
+Halepó; <span id="fr_45"></span>[e](#fn_44.md)  
 A pae o Halepó i ka nalu.  
-Ho-e’e i ka nalu mai Kahiki; <span id="fr_46"></span>[f](#fn_45)  
-10 He nalu Wakea, <span id="fr_47"></span>[g](#fn_46) nalu
-ho’ohua. <span id="fr_48"></span>[h](#fn_47)  
-Haki opu’u <span id="fr_49"></span>[i](#fn_48) ka nalu, haki
-kua-pá. <span id="fr_50"></span>[j](#fn_49)
+Ho-e’e i ka nalu mai Kahiki; <span id="fr_46"></span>[f](#fn_45.md)  
+10 He nalu Wakea, <span id="fr_47"></span>[g](#fn_46.md) nalu
+ho’ohua. <span id="fr_48"></span>[h](#fn_47.md)  
+Haki opu’u <span id="fr_49"></span>[i](#fn_48.md) ka nalu, haki
+kua-pá. <span id="fr_50"></span>[j](#fn_49.md)
 
-Ea mai ka makakai <span id="fr_51"></span>[k](#fn_50) he’e-nalu,  
-Kai he’e kakala <span id="fr_52"></span>[l](#fn_51) o ka moku,  
+Ea mai ka makakai <span id="fr_51"></span>[k](#fn_50.md) he’e-nalu,  
+Kai he’e kakala <span id="fr_52"></span>[l](#fn_51.md) o ka moku,  
 Kai-ká o ka nalu nui,  
-15 Ka hu’a o ka nalu o Hiki-au. <span id="fr_53"></span>[m](#fn_52)  
+15 Ka hu’a o ka nalu o Hiki-au. <span id="fr_53"></span>[m](#fn_52.md)  
 Kai he’e-nalu i ke awakea.
 
 Ku ka puna, ke ko’a i-uka.  
-Ka makahá o ka nalu o Kuhihewa. <span id="fr_54"></span>[n](#fn_53)  
-Ua o ia, <span id="fr_55"></span>[o](#fn_54) nohá ka papa!  
+Ka makahá o ka nalu o Kuhihewa. <span id="fr_54"></span>[n](#fn_53.md)  
+Ua o ia, <span id="fr_55"></span>[o](#fn_54.md) nohá ka papa!  
 20 Nohá Maui, nauweuwe,  
 Nauweuwe, nakelekele.
 
@@ -386,7 +386,7 @@ construction of a eulogy the Hawaiians were not only punctiliously
 careful to avoid mention of anything susceptible of sinister
 interpretation, but they were superstitiously sensitive to any such
 unintentional happening. As already mentioned ([p.
-27](ulh08.htm#page_27)), they believed that the fate-compelling power of
+27](ulh08.htm#page_27).md), they believed that the fate-compelling power of
 a word of ill-omen was inevitable. If it did not result in the death of
 the one eulogized, retributive justice turned the evil influence back on
 him who uttered it.
@@ -395,31 +395,31 @@ him who uttered it.
 
 ### Footnotes
 
-<span id="fn_31"></span>[32:a](ulh09.htm#fr_32) *Lu ka hua*. Casts now
-its seeds. The maile vine ([pl. IV](#img_pl04)), one of the goddess's
+<span id="fn_31"></span>[32:a](ulh09.htm#fr_32.md) *Lu ka hua*. Casts now
+its seeds. The maile vine ([pl. IV](#img_pl04).md), one of the goddess's
 emblems, casts its seeds, meaning that the goddess gives the pupils
 skill and inspires them.
 
-<span id="fn_32"></span>[33:a](ulh09.htm#fr_33) *Mo’o-helaia*. A female
+<span id="fn_32"></span>[33:a](ulh09.htm#fr_33.md) *Mo’o-helaia*. A female
 deity, a *kupua*, who at death became one of the divinities, *au-makua*,
 of the hula. Her name was conferred on the place claimed as her
 residence, on Mauna-loa, island of Molokai.
 
-<span id="fn_33"></span>[33:b](ulh09.htm#fr_34) *Ohia-Ku*. Full name
+<span id="fn_33"></span>[33:b](ulh09.htm#fr_34.md) *Ohia-Ku*. Full name
 *ohia-ku-makua*; a variety of the this, or lehua ([pl.
-XIII](ulh22.htm#img_pl13)), whose wood was used in making temple gods. A
+XIII](ulh22.htm#img_pl13).md), whose wood was used in making temple gods. A
 rough stem of this tree stood on each side near the *hala-pepe*. (See
-[pl. III](ulh07.htm#img_pl03), also pp. [19](ulh06.htm#page_19)-20.)
+[pl. III](ulh07.htm#img_pl03), also pp. [19](ulh06.htm#page_19)-20..md)
 
-<span id="fn_34"></span>[33:c](ulh09.htm#fr_35) *Mauna-loa*. Said to be
+<span id="fn_34"></span>[33:c](ulh09.htm#fr_35.md) *Mauna-loa*. Said to be
 the mountain of that name on Molokai, not that on Hawaii.
 
-<span id="fn_35"></span>[33:d](ulh09.htm#fr_36) *Kaulana-ula*. Full form
+<span id="fn_35"></span>[33:d](ulh09.htm#fr_36.md) *Kaulana-ula*. Full form
 *Kaulana-a-ula*; the name of a deity belonging to the order, *papa*, of
 the hula. Its meaning is explained in the expression *ula leo*, in the
 next line.
 
-<span id="fn_36"></span>[33:e](ulh09.htm#fr_37) *Ula leo*. A singing or
+<span id="fn_36"></span>[33:e](ulh09.htm#fr_37.md) *Ula leo*. A singing or
 trilling sound, a *tinnitus aurium*, a sign that the deity Kaulana-ula
 was making some communication to the one who heard it.
 
@@ -430,71 +430,71 @@ Something wicked this way comes."
 
 </div>
 
-<span id="fn_37"></span>[35:a](ulh09.htm#fr_38) *Naihe*. A man of strong
+<span id="fn_37"></span>[35:a](ulh09.htm#fr_38.md) *Naihe*. A man of strong
 character, but not a high chief. He was born in Kona and resided at
 Napoopoo. His mother was Ululani, his father Keawe-a-heulu, who was a
 celebrated general and strategist under Kamehameha I.
 
-<span id="fn_38"></span>[35:b](ulh09.htm#fr_39) *Mahiehie*. A term
+<span id="fn_38"></span>[35:b](ulh09.htm#fr_39.md) *Mahiehie*. A term
 conferring dignity and distinction.
 
-<span id="fn_39"></span>[35:c](ulh09.htm#fr_40) *Onaulu-loa*. A roller
+<span id="fn_39"></span>[35:c](ulh09.htm#fr_40.md) *Onaulu-loa*. A roller
 of great length and endurance, one that reaches the shore, in contrast
 to a *kakala*.
 
-<span id="fn_40"></span>[36:a](ulh09.htm#fr_41) *Kakai*. An archaic word
+<span id="fn_40"></span>[36:a](ulh09.htm#fr_41.md) *Kakai*. An archaic word
 meaning forty.
 
-<span id="fn_41"></span>[36:b](ulh09.htm#fr_42) *Hoaka*. A crescent; the
+<span id="fn_41"></span>[36:b](ulh09.htm#fr_42.md) *Hoaka*. A crescent; the
 name of the second day of the month. The allusion is to the curve
 (downward) of a large number (kakai) of malo when hung on a line, the
 usual way of keeping such articles.
 
-<span id="fn_42"></span>[36:c](ulh09.htm#fr_43) *Malo kai*. The ocean is
+<span id="fn_42"></span>[36:c](ulh09.htm#fr_43.md) *Malo kai*. The ocean is
 sometimes poetically termed the *malo* or *pa-ú* of the naked swimmer,
 or bather. It covers his nakedness.
 
-<span id="fn_43"></span>[36:d](ulh09.htm#fr_44) *Ka’ika’i*. To lead or
+<span id="fn_43"></span>[36:d](ulh09.htm#fr_44.md) *Ka’ika’i*. To lead or
 to carry; a tropical use of the word. The sun is described as leading
 the board.
 
-<span id="fn_44"></span>[36:e](ulh09.htm#fr_45) *Hale-pó*. In the
+<span id="fn_44"></span>[36:e](ulh09.htm#fr_45.md) *Hale-pó*. In the
 opinion of the author it is the name of the board. A skilled Hawaiian
 says it is the name given the surf of a place at Napoopoo, in Kona,
 Hawaii. The action is not located there, but in Puna, it seems to the
 author.
 
-<span id="fn_45"></span>[36:f](ulh09.htm#fr_46) *Kahiki*. Tahiti, or any
+<span id="fn_45"></span>[36:f](ulh09.htm#fr_46.md) *Kahiki*. Tahiti, or any
 foreign country; a term of grandiloquence.
 
-<span id="fn_46"></span>[36:g](ulh09.htm#fr_47) *Wakea*. A mythical
+<span id="fn_46"></span>[36:g](ulh09.htm#fr_47.md) *Wakea*. A mythical
 name, coming early in Hawaiian genealogies; here used in exaggeration to
 show the age of the roller.
 
-<span id="fn_47"></span>[36:h](ulh09.htm#fr_48) *Ho’ohua*. Applied to a
+<span id="fn_47"></span>[36:h](ulh09.htm#fr_48.md) *Ho’ohua*. Applied to a
 roller, one that rolls on and swells higher.
 
-<span id="fn_48"></span>[36:i](ulh09.htm#fr_49) *Opu’u*. Said of a
+<span id="fn_48"></span>[36:i](ulh09.htm#fr_49.md) *Opu’u*. Said of a
 roller that completes its run to shore.
 
-<span id="fn_49"></span>[36:j](ulh09.htm#fr_50) *Kua-pá*, Said of a
+<span id="fn_49"></span>[36:j](ulh09.htm#fr_50.md) *Kua-pá*, Said of a
 roller as above that dies at the shore.
 
-<span id="fn_50"></span>[36:k](ulh09.htm#fr_51) *Maka-kai*. The
+<span id="fn_50"></span>[36:k](ulh09.htm#fr_51.md) *Maka-kai*. The
 springing-up of the surf after an interval of quiet.
 
-<span id="fn_51"></span>[36:l](ulh09.htm#fr_52) *Kakála*. Rough, heaped
+<span id="fn_51"></span>[36:l](ulh09.htm#fr_52.md) *Kakála*. Rough, heaped
 up, one wave overriding another, a chop sea.
 
-<span id="fn_52"></span>[36:m](ulh09.htm#fr_53) *Hiki-aú*. Said to be
+<span id="fn_52"></span>[36:m](ulh09.htm#fr_53.md) *Hiki-aú*. Said to be
 the name of a temple.
 
-<span id="fn_53"></span>[36:n](ulh09.htm#fr_54) *Kuhihewa*. Full name
+<span id="fn_53"></span>[36:n](ulh09.htm#fr_54.md) *Kuhihewa*. Full name
 *Ka-kuhi-hewa*, a distinguished king of Oahu.
 
-<span id="fn_54"></span>[36:o](ulh09.htm#fr_55) *O ia*. Meaning that the
+<span id="fn_54"></span>[36:o](ulh09.htm#fr_55.md) *O ia*. Meaning that the
 board dug its nose into the reef or sand.
 
 ------------------------------------------------------------------------
 
-[Next: VI.--The Password--The Song of Admission](ulh10)
+[Next: VI.--The Password--The Song of Admission](ulh10.md)

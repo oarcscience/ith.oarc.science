@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt01)  [Next](crt03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt01)  [Next](crt03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 
 ### CHAPTER I
 
-### INTRODUCTION [I](crt04.htm#Chapter_I)
+### INTRODUCTION [I](crt04.htm#Chapter_I.md)
 
 > The Origin and Purpose of Festivals﻿—Ideas suggested by
 > Christmas﻿—Pagan and Christian Elements﻿—The Names of the
@@ -36,7 +36,7 @@ Intangible Textual Heritage
 
 ### CHAPTER II
 
-### CHRISTMAS POETRY (I) [II](crt05.htm#Chapter_II)
+### CHRISTMAS POETRY (I) [II](crt05.htm#Chapter_II.md)
 
 > Ancient Latin Hymns, their Dogmatic, Theological Character﻿—Humanizing
 > Influence of Franciscanism﻿—Jacopone da Todi's Vernacular
@@ -44,7 +44,7 @@ Intangible Textual Heritage
 
 ### CHAPTER III
 
-### CHRISTMAS POETRY (II) [III](crt06.htm#Chapter_III)
+### CHRISTMAS POETRY (II) [III](crt06.htm#Chapter_III.md)
 
 > The French *Noël*﻿—Latin Hymnody in Eighteenth-century France﻿—Spanish
 > Christmas Verse﻿—Traditional Carols of Many Countries﻿—Christmas
@@ -54,7 +54,7 @@ Intangible Textual Heritage
 
 ### CHAPTER IV
 
-### CHRISTMAS IN LITURGY AND POPULAR DEVOTION [IV](crt07.htm#Chapter_IV)
+### CHRISTMAS IN LITURGY AND POPULAR DEVOTION [IV](crt07.htm#Chapter_IV.md)
 
 > Advent and Christmas Offices of the Roman Church﻿—The Three Masses of
 > Christmas, their Origin and their Celebration in Rome﻿—The Midnight
@@ -70,7 +70,7 @@ Intangible Textual Heritage
 
 ### CHAPTER V
 
-### CHRISTMAS DRAMA [V](crt08.htm#Chapter_V)
+### CHRISTMAS DRAMA [V](crt08.htm#Chapter_V.md)
 
 > Origins of the Mediaeval Drama﻿—Dramatic Tendencies in the
 > Liturgy﻿—Latin Liturgical Plays﻿—The Drama becomes
@@ -86,7 +86,7 @@ Intangible Textual Heritage
 
 ### CHAPTER VI
 
-### PRE-CHRISTIAN WINTER FESTIVALS [VI](crt10.htm#Chapter_VI)
+### PRE-CHRISTIAN WINTER FESTIVALS [VI](crt10.htm#Chapter_VI.md)
 
 > The Church and Superstition﻿—Nature of Pagan Survivals﻿—Racial
 > Origins﻿—Roman Festivals of the *Saturnalia* and Kalends﻿—Was there a
@@ -100,7 +100,7 @@ Intangible Textual Heritage
 
 ### CHAPTER VII
 
-### ALL HALLOW TIDE TO MARTINMAS [VII](crt11.htm#Chapter_VII)
+### ALL HALLOW TIDE TO MARTINMAS [VII](crt11.htm#Chapter_VII.md)
 
 > All Saints' and All Souls' Days, their Relation to a New Year
 > Festival﻿—All Souls' Eve and Tendance of the Departed﻿—Soul Cakes in
@@ -113,7 +113,7 @@ Intangible Textual Heritage
 
 ### CHAPTER VIII
 
-### ST. CLEMENT TO ST. THOMAS [VIII](crt12.htm#Chapter_VIII)
+### ST. CLEMENT TO ST. THOMAS [VIII](crt12.htm#Chapter_VIII.md)
 
 > St. Clement's Day Quests and Processions﻿—St. Catherine's Day as
 > Spinsters' Festival﻿—St. Andrew's Eve Auguries﻿—The
@@ -125,7 +125,7 @@ Intangible Textual Heritage
 
 ### CHAPTER IX
 
-### CHRISTMAS EVE AND THE TWELVE DAYS [IX](crt13.htm#Chapter_IX)
+### CHRISTMAS EVE AND THE TWELVE DAYS [IX](crt13.htm#Chapter_IX.md)
 
 > Christkind, Santa Klaus, and Knecht Ruprecht﻿—Talking Animals and
 > other Wonders of Christmas Eve﻿—Scandinavian Beliefs about Trolls and
@@ -136,7 +136,7 @@ Intangible Textual Heritage
 
 ### CHAPTER X
 
-### THE YULE LOG [X](crt14.htm#Chapter_X)
+### THE YULE LOG [X](crt14.htm#Chapter_X.md)
 
 > The Log as Centre of the Domestic Christmas﻿—Customs of the Southern
 > Slavs﻿—The *Polaznik*﻿—Origin of the Yule Log﻿—Probable Connection
@@ -147,7 +147,7 @@ Intangible Textual Heritage
 
 ### CHAPTER XI
 
-### THE CHRISTMAS-TREE, DECORATIONS, AND GIFTS [XI](crt15.htm#Chapter_XI)
+### THE CHRISTMAS-TREE, DECORATIONS, AND GIFTS [XI](crt15.htm#Chapter_XI.md)
 
 > The Christmas-tree a German Creation﻿—Charm of the German
 > Christmas﻿—Early Christmas-trees﻿—The Christmas Pyramid﻿—Spread of the
@@ -161,7 +161,7 @@ Intangible Textual Heritage
 
 ### CHAPTER XII
 
-### CHRISTMAS FEASTING AND SACRIFICIAL SURVIVALS [XII](crt16.htm#Chapter_XII)
+### CHRISTMAS FEASTING AND SACRIFICIAL SURVIVALS [XII](crt16.htm#Chapter_XII.md)
 
 > Prominence of Eating in the English Christmas﻿—The Boar's Head, the
 > Goose, and other Christmas Fare﻿—Frumenty, Sowens, Yule Cakes, and the
@@ -172,7 +172,7 @@ Intangible Textual Heritage
 
 ### CHAPTER XIII
 
-### MASKING, THE MUMMERS' PLAY, THE FEAST OF FOOLS, AND THE BOY BISHOP [XIII](crt17.htm#Chapter_XIII)
+### MASKING, THE MUMMERS' PLAY, THE FEAST OF FOOLS, AND THE BOY BISHOP [XIII](crt17.htm#Chapter_XIII.md)
 
 > English Court Masking﻿—“The Lord of Misrule”﻿—The Mummers' Play, the
 > Sword-Dance, and the Morris Dance﻿—Origin of St. George and other
@@ -182,7 +182,7 @@ Intangible Textual Heritage
 
 ### CHAPTER XIV
 
-### ST. STEPHEN'S, ST. JOHN'S, AND HOLY INNOCENTS' DAYS [XIV](crt18.htm#Chapter_XIV)
+### ST. STEPHEN'S, ST. JOHN'S, AND HOLY INNOCENTS' DAYS [XIV](crt18.htm#Chapter_XIV.md)
 
 > Horse Customs of St. Stephen's Day﻿—The Swedish St. Stephen﻿—St.
 > John's Wine﻿—Childermas and its Beatings.<span id="page_11">p.
@@ -190,7 +190,7 @@ Intangible Textual Heritage
 
 ### CHAPTER XV
 
-### NEW YEAR'S DAY [XV](crt19.htm#Chapter_XV)
+### NEW YEAR'S DAY [XV](crt19.htm#Chapter_XV.md)
 
 > Principle of New Year Customs﻿—The New Year in France, Germany, the
 > United States, and Eastern Europe﻿—“First-footing” in Great
@@ -201,7 +201,7 @@ Intangible Textual Heritage
 
 ### CHAPTER XVI
 
-### EPIPHANY TO CANDLEMAS [XVI](crt20.htm#Chapter_XVI)
+### EPIPHANY TO CANDLEMAS [XVI](crt20.htm#Chapter_XVI.md)
 
 > The Twelfth Cake and the “King of the Bean”﻿—French Twelfth Night
 > Customs﻿—St. Basil's Cake in Macedonia﻿—Epiphany and the Expulsion of
@@ -213,7 +213,7 @@ Intangible Textual Heritage
 
 ### CONCLUSION
 
-### NOTES AND BIBLIOGRAPHY [AND\_BIBLIOGRAPHY](crt22.htm#NOTES_AND_BIBLIOGRAPHY)
+### NOTES AND BIBLIOGRAPHY [AND\_BIBLIOGRAPHY](crt22.htm#NOTES_AND_BIBLIOGRAPHY.md)
 
 ### INDEX
 
@@ -226,7 +226,7 @@ Intangible Textual Heritage
 <span id="image02"></span><span id="img_image02"></span>
 
 [![MADONNA AND CHILD.](tn/image02.jpg)  
-Click to enlarge](img/image02.jpg)  
+Click to enlarge](img/image02.jpg.md)  
   
 
 MADONNA AND CHILD.
@@ -241,4 +241,4 @@ MADONNA AND CHILD.
 
 ------------------------------------------------------------------------
 
-[Next: Illustrations](crt03)
+[Next: Illustrations](crt03.md)

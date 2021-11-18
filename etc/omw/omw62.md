@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw61)  [Next](omw63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw61)  [Next](omw63.md) 
 
 ------------------------------------------------------------------------
 
@@ -191,4 +191,4 @@ the earth.
 
 ------------------------------------------------------------------------
 
-[Next: The Heavenly Nymph and her Mortal Husband](omw63)
+[Next: The Heavenly Nymph and her Mortal Husband](omw63.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss25)  [Next](jss27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss25)  [Next](jss27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -408,7 +408,7 @@ The young hero then took the Mangathai's property and went home to his
 father's yurta. All was silent there. He left everything he had brought
 and went off to the great house where his mother and the seventy-five
 headed Mangathai lived. He called to them from outside.
-[Untun](errata.htm#4) Duryai recognized his voice.
+[Untun](errata.htm#4.md) Duryai recognized his voice.
 
 "Whoever has a son," said she, "will never perish! My son has come!"
 
@@ -581,22 +581,22 @@ passed; then they halted and turned toward each other.
 <span id="img_25800"></span> <span align="CENTER"> [![CONTENTS OF ''GOD
 BAGS.''&lt;br&gt; Pieces of cloth and silk no which are sewn tiny
 figures of men cut our of tin](tn/25800.jpg)  
-Click to enlarge](img/25800.jpg)  
+Click to enlarge](img/25800.jpg.md)  
 CONTENTS OF ''GOD BAGS.''  
 Pieces of cloth and silk no which are sewn tiny figures of men cut our
 of tin  
 </span>
 
-*Page* [85](jss10.htm#page_85)
+*Page* [85](jss10.htm#page_85.md)
 
 <span id="img_25801"></span> <span align="CENTER"> [![BURIAT HOUSEHOLD
 GODS.&lt;br&gt; Andrei Mihailovitch's house gods](tn/25801.jpg)  
-Click to enlarge](img/25801.jpg)  
+Click to enlarge](img/25801.jpg.md)  
 BURIAT HOUSEHOLD GODS.  
 Andrei Mihailovitch's house gods  
 </span>
 
-*Page* [41](jss07.htm#page_41)
+*Page* [41](jss07.htm#page_41.md)
 
  
 
@@ -734,7 +734,7 @@ this meadow we will kill those snakes which let him pass."
 
 Sokto went back some distance, made his horse a flint chip and himself a
 snake like the snakes of that meadow. He spent seven days and nights
-among those hostile, [venomous](errata.htm#5) snakes,
+among those hostile, [venomous](errata.htm#5.md) snakes,
 
 <span id="page_262">p. 262</span>
 
@@ -1122,4 +1122,4 @@ happy.
 
 ------------------------------------------------------------------------
 
-[Next: Alamaldjin and His Twin Sister Hanhai](jss27)
+[Next: Alamaldjin and His Twin Sister Hanhai](jss27.md)

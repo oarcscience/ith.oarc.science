@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre80)  [Next](gre82) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre80)  [Next](gre82.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ long.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXVII: Grettir at the Home-stead of Reeks](gre82)
+[Next: Chapter LXXVII: Grettir at the Home-stead of Reeks](gre82.md)

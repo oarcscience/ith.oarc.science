@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Asia](../index)
+[Sacred-Texts](../../index) [Asia](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -10,13 +10,13 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](cm00)
+[Title Page](cm00.md)
 
-[CONTENTS.](cm01)
+[CONTENTS.](cm01.md)
 
 I. 
 
-[INTRODUCTION.](cm02)
+[INTRODUCTION.](cm02.md)
 
 II. 
 
@@ -24,87 +24,87 @@ MYTHS AND TALES
 
 1\.
 
-[(The Ai´wan Shamans.)](cm03)
+[(The Ai´wan Shamans.)](cm03.md)
 
 2\.
 
-[(The Woman and the Lake-Spirit.)](cm04)
+[(The Woman and the Lake-Spirit.)](cm04.md)
 
 3\.
 
-[(The Girl and the Skull.)](cm05)
+[(The Girl and the Skull.)](cm05.md)
 
 4\.
 
-[(The Youth who received Supernatural Powers from the Ke´let.)](cm06)
+[(The Youth who received Supernatural Powers from the Ke´let.)](cm06.md)
 
 5\.
 
-[(Contest with the Ke´let.)](cm07)
+[(Contest with the Ke´let.)](cm07.md)
 
 6\.
 
-[(The Ai´wan and the Reindeer-Breeder.)](cm08)
+[(The Ai´wan and the Reindeer-Breeder.)](cm08.md)
 
 7\.
 
-[(The Visit of the Ke´let.)](cm09)
+[(The Visit of the Ke´let.)](cm09.md)
 
 8\.
 
-[(The Child-Monster.)](cm10)
+[(The Child-Monster.)](cm10.md)
 
 9\.
 
-[(The Orphan.)](cm11)
+[(The Orphan.)](cm11.md)
 
 10\.
 
-[(U´mqäqäi's Adventure.)](cm12)
+[(U´mqäqäi's Adventure.)](cm12.md)
 
 11\.
 
-[(The Adventures of the Brothers.)](cm12a)
+[(The Adventures of the Brothers.)](cm12a.md)
 
 12\.
 
-[(The Children carried away by a Giant.)](cm13)
+[(The Children carried away by a Giant.)](cm13.md)
 
 13\.
 
-[The Raven and the Girls (Valvị´yñị-lŭ´mñịl).](cm14)
+[The Raven and the Girls (Valvị´yñị-lŭ´mñịl).](cm14.md)
 
 14\.
 
-[A Tale of the Raven Ku´urkịl (Ku´urkịl Lŭ´mñịl)](cm15)
+[A Tale of the Raven Ku´urkịl (Ku´urkịl Lŭ´mñịl)](cm15.md)
 
 15\.
 
-[Lị´mịlịn Lŭ´mñịl (A Story about a Polygamist.)](cm16)
+[Lị´mịlịn Lŭ´mñịl (A Story about a Polygamist.)](cm16.md)
 
 16\.
 
-[(The Woman who married the Moon and the Ke´lẹ.)](cm17)
+[(The Woman who married the Moon and the Ke´lẹ.)](cm17.md)
 
 17\.
 
-[(Battle with the Ta´n·ñịt.)](cm18)
+[(Battle with the Ta´n·ñịt.)](cm18.md)
 
 18\.
 
-[Two Shamans (Eñe´ñịlịt ñi´räq).](cm19)
+[Two Shamans (Eñe´ñịlịt ñi´räq).](cm19.md)
 
 19\.
 
-[(The Man who married a Sky-Girl.)](cm20)
+[(The Man who married a Sky-Girl.)](cm20.md)
 
 20\.
 
-[(The Man who visited the Polar Bears.)](cm21)
+[(The Man who visited the Polar Bears.)](cm21.md)
 
 21\.
 
-[(The Shaman and the Ke´let.)](cm22)
+[(The Shaman and the Ke´let.)](cm22.md)
 
 III. 
 
@@ -112,54 +112,54 @@ INCANTATIONS
 
 1\.
 
-[(Incantation on Behalf of a Sick Person.)](cm23)
+[(Incantation on Behalf of a Sick Person.)](cm23.md)
 
 2\.
 
 [Pintail-Duck Incantation (Valo´k-ê´wġan, Yelke´kin ê´wġan). (A
-Middle-Anadyr Incantation.)](cm24)
+Middle-Anadyr Incantation.)](cm24.md)
 
 3\.
 
-[Incantation for taming Wild Reindeer (Qaalva´t-ê´wġan).](cm25)
+[Incantation for taming Wild Reindeer (Qaalva´t-ê´wġan).](cm25.md)
 
 4\.
 
-[(Incantation to ward off Ke´let).](cm26)
+[(Incantation to ward off Ke´let).](cm26.md)
 
 5\.
 
-[Fortifying Incantation against the Coming of Ke´let (Tanom](cm27)
+[Fortifying Incantation against the Coming of Ke´let (Tanom](cm27.md)
 
 6\.
 
-[For Hunting Sea-Game.](cm28)
+[For Hunting Sea-Game.](cm28.md)
 
 7\.
 
-[To Cure a Sick Man.](cm29)
+[To Cure a Sick Man.](cm29.md)
 
 8\.
 
-[Incantation for Pains in the Stomach (Nanqatẹ´lkên ê´wġan).](cm30)
+[Incantation for Pains in the Stomach (Nanqatẹ´lkên ê´wġan).](cm30.md)
 
 9\.
 
-[Incantation to bring back the Dying.](cm31)
+[Incantation to bring back the Dying.](cm31.md)
 
 10\.
 
 [Incantation (used by) a Woman rejected by her Husband and Jealous of
 her Rival (Ê´wġan ñe´us·qätä uwä<sup>ɛ</sup>´qučitä ẹ´nku
-lị´nyo).](cm32)
+lị´nyo).](cm32.md)
 
 IV. 
 
-[SONGS.](cm33)
+[SONGS.](cm33.md)
 
 V. 
 
-[PROVERBS, RIDDLES, SAYINGS.](cm34)
+[PROVERBS, RIDDLES, SAYINGS.](cm34.md)
 
 CHUKCHEE TALES
 
@@ -169,19 +169,19 @@ CREATION TALES
 
 1\.
 
-[Raven Tale.](cm35)
+[Raven Tale.](cm35.md)
 
 2\.
 
-[The Hare Tale.](cm36)
+[The Hare Tale.](cm36.md)
 
 3\.
 
-[Story of Raven and Wolverene.](cm37)
+[Story of Raven and Wolverene.](cm37.md)
 
 4\.
 
-[Raven and Owl.](cm38)
+[Raven and Owl.](cm38.md)
 
 II. 
 
@@ -189,59 +189,59 @@ MISCELLANEOUS TALES
 
 1\.
 
-[The Sacrifice to the Dead.](cm39)
+[The Sacrifice to the Dead.](cm39.md)
 
 2\.
 
-[The Re´kkẹñ.](cm40)
+[The Re´kkẹñ.](cm40.md)
 
 3\.
 
-[(The Reindeer-Breeder and the Ai´wan.)](cm41)
+[(The Reindeer-Breeder and the Ai´wan.)](cm41.md)
 
 4\.
 
-[(The Orphan.)](cm42)
+[(The Orphan.)](cm42.md)
 
 5\.
 
-[(Story of Object-of-Loathing.)](cm43)
+[(Story of Object-of-Loathing.)](cm43.md)
 
 6\.
 
-[(The Visitor.)](cm44)
+[(The Visitor.)](cm44.md)
 
 7\.
 
-[(The Polygamist.)](cm45)
+[(The Polygamist.)](cm45.md)
 
 8\.
 
-[(The Giant.)](cm46)
+[(The Giant.)](cm46.md)
 
 9\.
 
-[(Sacrifice to the Sea.)](cm47)
+[(Sacrifice to the Sea.)](cm47.md)
 
 10\.
 
-[(The Monster-Woman.)](cm48)
+[(The Monster-Woman.)](cm48.md)
 
 11\.
 
-[(Reindeer-Born.)](cm49)
+[(Reindeer-Born.)](cm49.md)
 
 12\.
 
-[Tale about Qolênto´.](cm50)
+[Tale about Qolênto´.](cm50.md)
 
 13\.
 
-[(The Girl in the Stone Chest.)](cm51)
+[(The Girl in the Stone Chest.)](cm51.md)
 
 14\.
 
-[(The Girls as Avengers.)](cm52)
+[(The Girls as Avengers.)](cm52.md)
 
 III. 
 
@@ -249,15 +249,15 @@ WAR TALES
 
 1\.
 
-[Ma´nê and Mana´qton.](cm53)
+[Ma´nê and Mana´qton.](cm53.md)
 
 2\.
 
-[(Qolênto´.)](cm54)
+[(Qolênto´.)](cm54.md)
 
 3\.
 
-[(War with the Ta´n·ñịt.)](cm55)
+[(War with the Ta´n·ñịt.)](cm55.md)
 
 IV. 
 
@@ -265,23 +265,23 @@ TALES OF RUSSIANIZED NATIVES
 
 1\.
 
-[(Sea-Jumper.)](cm56)
+[(Sea-Jumper.)](cm56.md)
 
 2\.
 
-[(Reindeer-Born.)](cm57)
+[(Reindeer-Born.)](cm57.md)
 
 3\.
 
-[(Hare Story.)](cm58)
+[(Hare Story.)](cm58.md)
 
 4\.
 
-[(Raven and She-Fox.)](cm59)
+[(Raven and She-Fox.)](cm59.md)
 
 5\.
 
-[(The Boy who married the Sun.)](cm60)
+[(The Boy who married the Sun.)](cm60.md)
 
 ------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj04) 
-[Next](npj06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj04.md) 
+[Next](npj06.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,8 +57,8 @@ know more:
 \(1\) THE NŌ STAGE.
 
 Something of its modern form may be seen from [Plate
-II](npj04.htm#img_pl02) and from the plans on pp.
-[10](npj01.htm#page_10)-13. The actual stage (A) is about 18 feet
+II](npj04.htm#img_pl02.md) and from the plans on pp.
+[10](npj01.htm#page_10)-13. The actual stage (A.md) is about 18 feet
 square. On the boards of the back wall is painted a pine-tree; the other
 sides are open. A gallery (called *hashigakari*) leads to the
 green-room, from which it is separated by a curtain which is raised to
@@ -69,7 +69,7 @@ the back of the stage, the stick-drum nearest the "gallery," then the
 two hand-drums and the flute. A railing runs round the musician's
 recess, as also along the gallery. To the latter railing are attached
 three real pine-branches, marked S in the plan. They will be seen in
-[Plate II](npj04.htm#img_pl02). The stage is covered by a roof of its
+[Plate II](npj04.htm#img_pl02.md). The stage is covered by a roof of its
 own, imitating in form the roof of a Shintō temple.
 
 \(2\) THE PERFORMERS.
@@ -121,7 +121,7 @@ subordinates. The *shite* always wears a mask if playing the part of a
 woman or very old man. Young men, particularly warriors, are usually
 unmasked. In child-parts (played by boy-actors) masks are not worn. The
 reproduction of a female mask will be found on [Plate
-I](npj03.htm#img_pl01). The masks are of wood. Many of those still in
+I](npj03.htm#img_pl01.md). The masks are of wood. Many of those still in
 use are of great antiquity and rank as important specimens of Japanese
 sculpture.
 
@@ -138,7 +138,7 @@ Chinese broad-sword are carried; also bows and arrows.
 DANCING AND ACTING.
 
 Every Nō play (with, I think, the sole exception of *Hachi no Ki*,
-translated on [p. 134](npj23.htm#page_134)) includes a *mai* or dance,
+translated on [p. 134](npj23.htm#page_134).md) includes a *mai* or dance,
 consisting usually of
 
 <span id="page_20">p. 20</span>
@@ -169,7 +169,7 @@ irregular, but on the whole tends to an alternation of lines of five and
 seven syllables.
 
 The verse of the lyric portions is marked by frequent use of
-pivot-words <span id="fr_0"></span>[1](#fn_0) and puns, particularly
+pivot-words <span id="fr_0"></span>[1](#fn_0.md) and puns, particularly
 puns on place-names. The 14th century Nō-writer, Seami, insists that
 pivot-words should be used sparingly and with discretion. Many
 Nō-writers did not follow this advice; but the use of pivot-words is not
@@ -216,7 +216,7 @@ recited.
 
 Nō owes its present form to the genius of two men. Kwanami Kiyotsugu
 (1333-1384 A.D.) and his son Seami Motokiyo (1363-1444 A. D.). <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 Kwanami was a priest of the Kasuga Temple near Nara. About 1375 the
 Shōgun Yoshimitsu saw him performing in a Sarugaku. no Nō at the New
@@ -230,7 +230,7 @@ held impotent and dwindling courts.
 
 The young Shogun distinguished himself by patronage of art and letters;
 and by his devotion to the religion of the Zen Sect. <span
-id="fr_2"></span>[2](#fn_2) It is probable that when he first saw
+id="fr_2"></span>[2](#fn_2.md) It is probable that when he first saw
 Kwanami he also became acquainted with the son Seami, then a boy of
 twelve.
 
@@ -247,11 +247,11 @@ but he treats them as if they were Privy Counsellors.
 From this friendship sprang the art of Nō as it exists to-day. Of Seami
 we know far more than of his father Kwanami. For Seami left behind him a
 considerable number of treatises and autobiographical fragments. <span
-id="fr_3"></span>[1](#fn_3) These were not published till 1908 and have
+id="fr_3"></span>[1](#fn_3.md) These were not published till 1908 and have
 not yet been properly edited. They establish, among other things, the
 fact that Seami wrote both words and music for most of the plays in
 which he performed. It had before been supposed that the texts were
-supplied by the Zen <span id="fr_4"></span>[2](#fn_4) priests. For other
+supplied by the Zen <span id="fr_4"></span>[2](#fn_4.md) priests. For other
 information brought to light by the discovery of Seami's *Works* see
 Appendix II.
 
@@ -340,7 +340,7 @@ common, everyday (*yo no tsune*) stage, it is obviously unnecessary to
 limit oneself to the set forms of "happy wish."
 
 One's style should be easy and full of graceful *yūgen*, and the
-piece <span id="fr_5"></span>[1](#fn_5) selected should be suitable to
+piece <span id="fr_5"></span>[1](#fn_5.md) selected should be suitable to
 the audience. A ballad (*ko-utai*) or dance-song (*kuse-mai*) of the day
 will be best. One should have in one's repertory a stock of such pieces
 and be ready to vary them according to the character of one's audience.
@@ -364,7 +364,7 @@ be pressed too far it impinges on reality and ceases to give an
 impression of likeness. If one aims only at the beautiful, the "flower"
 is sure to appear. For example, in acting the part of an old man, the
 master actor tries to reproduce in his dance only the refinement and
-venerability of an old gentleman. <span id="fr_6"></span>[2](#fn_6) If
+venerability of an old gentleman. <span id="fr_6"></span>[2](#fn_6.md) If
 the actor is old himself,
 
 <span id="page_25">p. 25</span>
@@ -417,7 +417,7 @@ a dead person.
 <span id="page_26">p. 26</span>
 
 Since no one has ever seen a real ghost <span
-id="fr_7"></span>[1](#fn_7) from the Nether Regions, the actor may use
+id="fr_7"></span>[1](#fn_7.md) from the Nether Regions, the actor may use
 his fancy, aiming only at the beautiful. To represent real life is far
 more difficult.
 
@@ -450,7 +450,7 @@ be shown to the actor by actual demonstration.
  
 
 It is above all in "architecture," in the relation of parts to the
-whole, that these poems are supreme. <span id="fr_8"></span>[2](#fn_8)
+whole, that these poems are supreme. <span id="fr_8"></span>[2](#fn_8.md)
 The early writers created a "form" or general pattern which the weakest
 writing cannot wholly rob of its beauty. The plays are like those carved
 lamp-bearing angels in the churches at Seville; a type of such beauty
@@ -584,40 +584,40 @@ it vanishes from sight.
 
 ### Footnotes
 
-<span id="fn_0"></span>[20:1](npj05.htm#fr_0) For example in *yuku kata
+<span id="fn_0"></span>[20:1](npj05.htm#fr_0.md) For example in *yuku kata
 shira-yuki ni ... shira* does duty twice, meaning both "unknown" and
 "white." The meaning is "whither-unknown amid the white Snow."
 
-<span id="fn_1"></span>[21:1](npj05.htm#fr_1) These dates have only
+<span id="fn_1"></span>[21:1](npj05.htm#fr_1.md) These dates have only
 recently been established.
 
-<span id="fn_2"></span>[21:2](npj05.htm#fr_2) See [p.
-32](npj06.htm#page_32).
+<span id="fn_2"></span>[21:2](npj05.htm#fr_2.md) See [p.
+32](npj06.htm#page_32.md).
 
-<span id="fn_3"></span>[22:1](npj05.htm#fr_3) Not to he confused with
+<span id="fn_3"></span>[22:1](npj05.htm#fr_3.md) Not to he confused with
 the forged book printed in 1600 and used by Fenollosa.
 
-<span id="fn_4"></span>[22:2](npj05.htm#fr_4) See note on Buddhism, [p.
-268](npj56.htm#page_268).
+<span id="fn_4"></span>[22:2](npj05.htm#fr_4.md) See note on Buddhism, [p.
+268](npj56.htm#page_268.md).
 
-<span id="fn_5"></span>[24 :1](npj05.htm#fr_5) The piece to be used as
+<span id="fn_5"></span>[24 :1](npj05.htm#fr_5.md) The piece to be used as
 an introduction. Modern performances are not confined to full Nō.
 Sometimes actors in plain dress recite without the aid of instrumental
 music, sitting in a row. Or one actor may recite the piece, with music
 (this is called *Hayashi*); or the piece may mimed without music (this
 is called *Shimai*).
 
-<span id="fn_6"></span>[24 :2](npj05.htm#fr_6) An old shirōto, i. e.
+<span id="fn_6"></span>[24 :2](npj05.htm#fr_6.md) An old shirōto, i. e.
 person not engaged in trade.
 
-<span id="fn_7"></span>[26:1](npj05.htm#fr_7) This shows that, in
+<span id="fn_7"></span>[26:1](npj05.htm#fr_7.md) This shows that, in
 Seami's hands, the device of making an apparition the hero of the play
 was simply a dramatic convention.
 
-<span id="fn_8"></span>[26:2](npj05.htm#fr_8) This, too, is the only
+<span id="fn_8"></span>[26:2](npj05.htm#fr_8.md) This, too, is the only
 aspect of them that I can here discuss; no other kind of criticism being
 possible without quotation of the actual words used by the poet.
 
 ------------------------------------------------------------------------
 
-[Next: Note on Buddhism](npj06)
+[Next: Note on Buddhism](npj06.md)

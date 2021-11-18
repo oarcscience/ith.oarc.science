@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Myths/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](hml03)  [Next](hml05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Myths/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](hml03)  [Next](hml05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859580017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ and has some system of selection, he becomes lost in the mazes of as
 enchanted a land,
 
 "Where Truth and Dream walk hand in hand," <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 as ever bewildered knights of old in days of romance. Down all the dimly
 lighted pathways of mediæval literature mystical figures beckon him in
@@ -39,7 +39,7 @@ Of hopes or of fears.
 The wars and the woes and the glories  
 That quicken, and lighten, and rain  
 From the clouds of its chronicled stories  
-The passion, the pride, and the pain." <span id="fr_1"></span>[2](#fn_1)
+The passion, the pride, and the pain." <span id="fr_1"></span>[2](#fn_1.md)
 
 <span class="contnote">\[paragraph continues\]</span> Such a golden clue
 to guide the modern seeker through the labyrinths of the mediæval mind
@@ -57,13 +57,13 @@ about him. The interest goes deeper when we study, not merely
  
 
 "Old heroes who could grandly do  
-As they could greatly dare," <span id="fr_2"></span>[1](#fn_2)
+As they could greatly dare," <span id="fr_2"></span>[1](#fn_2.md)
 
 but
 
 "Heroes of our island breed  
 And men and women of our British birth." <span
-id="fr_3"></span>[2](#fn_3)
+id="fr_3"></span>[2](#fn_3.md)
 
 <span class="contnote">\[paragraph continues\]</span> "Hero-worship
 endures for ever while man endures," wrote Thomas Carlyle, and this
@@ -98,7 +98,7 @@ blended into one, to form the British nation, the most widespread race
 of modern times. For
 
 "Britain's might and Britain's right  
-And the brunt of British spears" <span id="fr_4"></span>[1](#fn_4)
+And the brunt of British spears" <span id="fr_4"></span>[1](#fn_4.md)
 
 are not the boast of the English race alone. No man in England now can
 boast of unmixed descent, but must perforce trace his family back
@@ -108,7 +108,7 @@ Roman, and Celt, and even Iberian, back to prehistoric man
 "Scot and Celt and Norman and Dane,  
 With the Northman's sinew and heart and brain,  
 And the Northman's courage for blessing or bane,  
-Are England's heroes too." <span id="fr_5"></span>[2](#fn_5)
+Are England's heroes too." <span id="fr_5"></span>[2](#fn_5.md)
 
 <span class="contnote">\[paragraph continues\]</span> When Tennyson sang
 his greeting at the coming of Alexandra,
@@ -127,7 +127,7 @@ Wales, while even France adds her
 share of enlightenment towards the solution of the riddle.
 
 "The Saxon force, the Celtic fire,  
-These are thy manhood's heritage." <span id="fr_6"></span>[1](#fn_6)
+These are thy manhood's heritage." <span id="fr_6"></span>[1](#fn_6.md)
 
 Britain, as far as we can trace men in our island, was first inhabited
 by cavemen, who have left no history at all. In the course of ages they
@@ -188,7 +188,7 @@ The Eagle or the Crescent in the dawn of history pales
 Before the advancing banners of the great Rome-conquering Gaels:  
                   One in name and in fame  
                   Are the sea-divided Gaels." <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 <span id="page_xviii">p. xviii</span>
 
@@ -203,7 +203,7 @@ race that preserved for us
 "That grey king whose name, a ghost,  
 Streams like a cloud, man-shaped, from mountain-peak  
 And cleaves to cairn and cromlech still," <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 the King Arthur whose Arthur's Seat overhangs Edinburgh, whose presence
 haunts the Lakes, and Wales, and Cornwall, and the forests of Brittany;
@@ -238,7 +238,7 @@ There was no fear of death itself in the English hero's mind, nor of
 Fate; the former was the inevitable,
 
 "Seeing that Death, a necessary end,  
-Will come when it will come," <span id="fr_9"></span>[1](#fn_9)
+Will come when it will come," <span id="fr_9"></span>[1](#fn_9.md)
 
 and the latter a goddess whose decrees must needs be obeyed with proud
 submission, but not with meek acceptance. Perhaps there was little of
@@ -252,7 +252,7 @@ belong the tales where
 In height and prowess more than human, strive  
 Again for glory, while the golden lyre  
 Is ever sounding in heroic ears  
-Heroic hymns." <span id="fr_10"></span>[2](#fn_10)
+Heroic hymns." <span id="fr_10"></span>[2](#fn_10.md)
 
 When the English (Anglo-Saxons, as we generally call them) had settled
 down in England, had united their warring tribes, and developed a
@@ -434,29 +434,29 @@ Speak of the King."
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiii:1](hml04.htm#fr_0) Lightfoot.
+<span id="fn_0"></span>[xiii:1](hml04.htm#fr_0.md) Lightfoot.
 
-<span id="fn_1"></span>[xiii:2](hml04.htm#fr_1) Swinburne.
+<span id="fn_1"></span>[xiii:2](hml04.htm#fr_1.md) Swinburne.
 
-<span id="fn_2"></span>[xiv:1](hml04.htm#fr_2) Gerald Massey.
+<span id="fn_2"></span>[xiv:1](hml04.htm#fr_2.md) Gerald Massey.
 
-<span id="fn_3"></span>[xiv:2](hml04.htm#fr_3) J. R. Denning.
+<span id="fn_3"></span>[xiv:2](hml04.htm#fr_3.md) J. R. Denning.
 
-<span id="fn_4"></span>[xv:1](hml04.htm#fr_4) W. W. Campbell.
+<span id="fn_4"></span>[xv:1](hml04.htm#fr_4.md) W. W. Campbell.
 
-<span id="fn_5"></span>[xv:2](hml04.htm#fr_5) *Ibid*.
+<span id="fn_5"></span>[xv:2](hml04.htm#fr_5.md) *Ibid*.
 
-<span id="fn_6"></span>[xvi:1](hml04.htm#fr_6) C. Roberts.
+<span id="fn_6"></span>[xvi:1](hml04.htm#fr_6.md) C. Roberts.
 
-<span id="fn_7"></span>[xvii:1](hml04.htm#fr_7) T. Darcy McGee.
+<span id="fn_7"></span>[xvii:1](hml04.htm#fr_7.md) T. Darcy McGee.
 
-<span id="fn_8"></span>[xviii:1](hml04.htm#fr_8) Tennyson.
+<span id="fn_8"></span>[xviii:1](hml04.htm#fr_8.md) Tennyson.
 
-<span id="fn_9"></span>[xix:1](hml04.htm#fr_9) Shakespeare, *Julius
+<span id="fn_9"></span>[xix:1](hml04.htm#fr_9.md) Shakespeare, *Julius
 Cæar*.
 
-<span id="fn_10"></span>[xix:2](hml04.htm#fr_10) Tennyson.
+<span id="fn_10"></span>[xix:2](hml04.htm#fr_10.md) Tennyson.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Beowulf](hml05)
+[Next: Chapter I. Beowulf](hml05.md)

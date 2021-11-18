@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw54)  [Next](omw56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw54)  [Next](omw56.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_17900"></span>
 
 [![Lemminkainen's Resurrection](tn/17900.jpg)  
-Click to enlarge](img/17900.jpg)  
+Click to enlarge](img/17900.jpg.md)  
 Lemminkainen's Resurrection  
 
 # FINNISH
@@ -181,7 +181,7 @@ instant death will come to thee." "Now I will tell thee, now
 <span id="page_183">p. 183</span>
 
 \[paragraph continues\] I will tell thee truly. Lemminkainen went to
-shoot the [sacred](errata.htm#0) bird, the Swan on Tuonela's River."
+shoot the [sacred](errata.htm#0.md) bird, the Swan on Tuonela's River."
 
 Then his mother went in quest of him; she questioned the trees, she
 questioned the pathway, she questioned the golden moon in the sky. But
@@ -243,4 +243,4 @@ another day, Kyllikki, the Flower of Saari.
 
 ------------------------------------------------------------------------
 
-[Next: In the Beginning](omw56)
+[Next: In the Beginning](omw56.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml16)  [Next](eml18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml16)  [Next](eml18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -121,7 +121,7 @@ who clutcheth souls, and eateth all filth and rottenness by day and by
 night. Those who dread him are helpless.
 
 At Khenen-su lived the Phoenix <span
-id="fr_104"></span>[1](#fn_104)--the "Great Bennu". It resembled an
+id="fr_104"></span>[1](#fn_104.md)--the "Great Bennu". It resembled an
 eagle, and had feathers of red and golden colour. Some authorities
 identify this mythical bird with the planet Venus, which, as the morning
 star, was "the guide of the sun god".
@@ -136,7 +136,7 @@ soul was the light that he shed over the world. He breathed from his
 nostrils the north wind, which gave life to every living being.
 
 "Wind" and "breath" and "spirit" were believed by many primitive peoples
-to be identical. <span id="fr_105"></span>[2](#fn_105) Her-shef was
+to be identical. <span id="fr_105"></span>[2](#fn_105.md) Her-shef was
 therefore the source of universal life. As a "wind god" he resembles the
 southern deity Khnûmû, who was also called Knef (the Kneph of the
 Greeks). The Egyptian *knef* means "wind", "breath", and "spirit"--"the
@@ -184,7 +184,7 @@ also associated with the sky prop or props. All these deities appear to
 
 have had their origin in crude conceptions which survive in various
 stages of development in European lore. <span
-id="fr_106"></span>[1](#fn_106)
+id="fr_106"></span>[1](#fn_106.md)
 
 Like Ba-neb-tettu, the Mendes "Great Father", Hershef of Heracleopolis
 was also a ram god, symbolizing the male principle; so was Khnûmû of the
@@ -254,12 +254,12 @@ Mersekhnet, a "Great Mother" deity similar to Hathor, Isis, Neith, and
 others. She was a cat goddess, and in her cat form was called Maau, an
 appropriate name. She slew the Apep serpent--a myth which, as we have
 seen, was absorbed by Ra. Other feline deities are Bast of Bubastis,
-Sekhet, wife of Ptah, and Tefnut. <span id="fr_107"></span>[1](#fn_107)
+Sekhet, wife of Ptah, and Tefnut. <span id="fr_107"></span>[1](#fn_107.md)
 
 At Heracleopolis there was a shrine to Neheb-Kau, who, like the virgin
 deity of Buto in the Delta, was a serpent goddess, symbolizing the
 female principle. She is represented as a flying serpent, <span
-id="fr_108"></span>[2](#fn_108) a reptile which Herodotus heard much
+id="fr_108"></span>[2](#fn_108.md) a reptile which Herodotus heard much
 about in Egypt but searched for in vain; she also appears as a serpent
 with human head, arms, and legs. She was worshipped at the Ploughing
 Festival before the seed was sown. Like the sycamore goddess, she was
@@ -350,14 +350,14 @@ family appeared in the kingdom.
 
 ### Footnotes
 
-<span id="fn_104"></span>[188:1](eml17.htm#fr_104) At a later date it
+<span id="fn_104"></span>[188:1](eml17.htm#fr_104.md) At a later date it
 was located in Arabia.
 
-<span id="fn_105"></span>[188:2](eml17.htm#fr_105) "Spirit" is derived
+<span id="fn_105"></span>[188:2](eml17.htm#fr_105.md) "Spirit" is derived
 from *spiro*, "I breathe". The Aryan root "an" also signifies "wind" and
 "spirit", and survives in words like "animal", "animate", &c.
 
-<span id="fn_106"></span>[190:1](eml17.htm#fr_106) In Scottish archaic
+<span id="fn_106"></span>[190:1](eml17.htm#fr_106.md) In Scottish archaic
 lore the mountains are shaped by the wind hag, who is the mother of
 giants. The Irish Ann or Danu, associated with the "Paps of Anu", has
 the attributes of a wind goddess and is the mother of deities the Irish
@@ -369,11 +369,11 @@ Huntsman in the Raging Host". The Teutonic hags are evidently of
 pre-Teutonic origin; they are what the old Irish mythologists called in
 Gaelic "non gods".
 
-<span id="fn_107"></span>[191:1](eml17.htm#fr_107) The Norse Freyja,
+<span id="fn_107"></span>[191:1](eml17.htm#fr_107.md) The Norse Freyja,
 goddess of love, is also a cat goddess. In the Empire period Astarte was
 added to the Egyptian collection of feline deities.
 
-<span id="fn_108"></span>[191:2](eml17.htm#fr_108) Isaiah refers to
+<span id="fn_108"></span>[191:2](eml17.htm#fr_108.md) Isaiah refers to
 Egypt as "the land of trouble and anguish, from whence come the young
 lion and old lion, the viper and fiery flying serpent" (*Isaiah*, xxx,
 6; see also *Isaiah*, xiv, 29).
@@ -382,6 +382,6 @@ lion and old lion, the viper and fiery flying serpent" (*Isaiah*, xxx,
 
 ------------------------------------------------------------------------
 
-[Next: Plate I: The Girl Wife and the Bata Bull](eml18)
+[Next: Plate I: The Girl Wife and the Bata Bull](eml18.md)
 
 </div>

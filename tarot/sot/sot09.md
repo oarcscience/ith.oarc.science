@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot08) 
-[Next](sot10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot08.md) 
+[Next](sot10.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ constantly born from the union of two principles.
 
 ------------------------------------------------------------------------
 
-[Next: Card V. The Chariot](sot10)
+[Next: Card V. The Chariot](sot10.md)

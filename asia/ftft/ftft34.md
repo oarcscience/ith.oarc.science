@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft33)  [Next](ftft35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft33)  [Next](ftft35.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_257">p. 257</span>
 
 <span id="img_25700"></span> ![The Snake-Peri and the Magic
-Mirror](img/25700.jpg)
+Mirror](img/25700.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was once a poor woodcutter who said to his son: "When I am dead you
 must continue my work. Go daily to the forest. Every tree you may fell,
@@ -59,7 +59,7 @@ that was the most sensible thing to do, the youth struck off the tusks
 with his hatchet. The snake was extremely
 
 <span id="img_25800"></span> ![The youth struck off the tusks with his
-hatchet](img/25800.jpg)
+hatchet](img/25800.jpg.md)
 
 <span id="page_259">p. 259</span>
 
@@ -101,7 +101,7 @@ the preserver of his life; therefore she gave it--but unwillingly.
 
 |                                    |
 |------------------------------------|
-| ![An Arab appeared](img/26000.jpg) |
+| ![An Arab appeared](img/26000.jpg.md) |
 
 The young man departed with the piece of mirror, and on the road he
 looked at it, turning it over on all sides, wondering of what use it
@@ -136,7 +136,7 @@ id="img_26100"></span>
 
 |                                            |
 |--------------------------------------------|
-| ![Out jumped the old woman](img/26100.jpg) |
+| ![Out jumped the old woman](img/26100.jpg.md) |
 
 In the meantime the Padishah was informed of the mysterious
 disappearance of his daughter. He commanded search to be made for her
@@ -195,7 +195,7 @@ so he gave it to her.
 
 |                     |
 |---------------------|
-| ![N](img/ninit.jpg) |
+| ![N](img/ninit.jpg.md) |
 
 OW was the old woman's opportunity. Discovering the place where the
 Princess kept the mirror, she stole it, and looked in it. When the
@@ -232,7 +232,7 @@ coffeemaker. Henceforth he made the coffee and took it up
 
 |                                                                     |
 |---------------------------------------------------------------------|
-| ![The Mouse-Padishah begged him to save his kingdom](img/26400.jpg) |
+| ![The Mouse-Padishah begged him to save his kingdom](img/26400.jpg.md) |
 
 personally to the Princess. Thus they came together again, and the
 Princess told her husband who was the cause of their misfortunes. They
@@ -265,7 +265,7 @@ The Padishah ordered him to obtain possession of it without delay.
 <span id="img_26401"></span>
 
 [![](tn/26401.jpg)  
-Click to enlarge](img/26401.jpg)
+Click to enlarge](img/26401.jpg.md)
 
 <span id="page_265">p. 265</span>
 
@@ -304,4 +304,4 @@ help in every need.
 
 ------------------------------------------------------------------------
 
-[Next: Little Hyacinth's Kiosk](ftft35)
+[Next: Little Hyacinth's Kiosk](ftft35.md)

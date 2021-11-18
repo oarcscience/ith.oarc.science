@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas090n)  [Next](jas0923n)   
- \[[91. Tiger Softens his Voice.](jas091)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas090n)  [Next](jas0923n.md)   
+ \[[91. Tiger Softens his Voice.](jas091.md)\]
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Rapunzel; Bolte u, Polívka 1:97-99.
 
 ------------------------------------------------------------------------
 
-[Next: Note 92. and 93. Hidden Names; Anansi and Mr. Able.](jas0923n)
+[Next: Note 92. and 93. Hidden Names; Anansi and Mr. Able.](jas0923n.md)

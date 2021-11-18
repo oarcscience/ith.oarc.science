@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa02)  [Next](psa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa02)  [Next](psa04.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ which Shree Bhugwan would speedily appear upon the earth."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](psa04)
+[Next: Chapter III](psa04.md)

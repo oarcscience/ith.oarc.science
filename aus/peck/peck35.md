@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck34)  [Next](peck36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck34)  [Next](peck36.md) 
 
 ------------------------------------------------------------------------
 
@@ -198,4 +198,4 @@ Mulgani was a toddler before she was brought back to her own country.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of the Pleiades](peck36)
+[Next: The Legend of the Pleiades](peck36.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng32)  [Next](vlsng34) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng32)  [Next](vlsng34.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ inserted here by the translators.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXII: Of the Ending of Brynhild.](vlsng34)
+[Next: Chapter XXXII: Of the Ending of Brynhild.](vlsng34.md)

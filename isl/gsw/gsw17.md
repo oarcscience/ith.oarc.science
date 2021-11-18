@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw16)  [Next](gsw18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw16)  [Next](gsw18.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -12,7 +12,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 
 <span id="page_214">p. 214</span>
 
-<span id="img_21400"></span> ![FROM LUSTRED POTTERY](img/21400.jpg)
+<span id="img_21400"></span> ![FROM LUSTRED POTTERY](img/21400.jpg.md)
 
 ### CHAPTER XIII
 
@@ -201,7 +201,7 @@ descent from Nadir Shah. It is also said that his family has rendered
 such help to the Kajar dynasty that it will always keep the government
 of Tabas. His Excellency showed us kindness, and on hearing what had
 occurred he was very angry, and swore that he would burn Gholam Ali's
-father. <span id="fr_63"></span>[1](#fn_61) He immediately sent a body
+father. <span id="fr_63"></span>[1](#fn_61.md) He immediately sent a body
 of his brave sowars, who finally captured the robber and brought him
 bound on his horse to Tabas; but just before he was imprisoned in the
 fort, he broke away bound as he was, and galloping his horse,
@@ -221,7 +221,7 @@ continue our journey.
 For some stages we crossed a boundless salt desert, and in the middle of
 it was Yunusi. This village is famous all over the world, as it was here
 that the whale cast up the Prophet Yunus, <span
-id="fr_64"></span>[1](#fn_62) on him be Peace! In those days, as I have
+id="fr_64"></span>[1](#fn_62.md) on him be Peace! In those days, as I have
 already mentioned, the salt swamp was a great sea, and, consequently,
 there is no doubt that this was the very spot where the Prophet reached
 the shore, and where a gourd grew and formed a shelter of greenery over
@@ -242,7 +242,7 @@ However, Mahavalat was not a stage of good
 
 <span id="img_22200"></span> <span align="CENTER"> [![BALUCH
 NOMADS&lt;br&gt; &lt;i&gt;H. R. Sykes, phot&lt;/i&gt;.](tn/22200.jpg)  
-Click to enlarge](img/22200.jpg)  
+Click to enlarge](img/22200.jpg.md)  
 BALUCH NOMADS  
 *H. R. Sykes, phot*.  
 </span>
@@ -309,7 +309,7 @@ they are not separate from Allah."
 <span id="img_22500"></span> <span align="CENTER">
 [![TURBAT-I-HEIDERI.&lt;br&gt; &lt;i&gt;Major J. W. Watson,
 phot&lt;/i&gt;.](tn/22500.jpg)  
-Click to enlarge](img/22500.jpg)  
+Click to enlarge](img/22500.jpg.md)  
   
 </span>
 
@@ -350,7 +350,7 @@ Prophet's family, the Seat of the Messenger of Allah, the Centre of the
 Angels, the Abode of the Angel Gabriel, the Mine of the blessings of
 Allah, the Guardians of Knowledge . . . . Peace be on Thee, O the
 greatest Stranger of all the Strangers, <span
-id="fr_65"></span>[1](#fn_63) the Sympathiser of the souls, the Sun of
+id="fr_65"></span>[1](#fn_63.md) the Sympathiser of the souls, the Sun of
 the Suns, buried in the soil of Tus." We then all shook hands and threw
 money into the handkerchief, and as I saw Assad Ullah Khan give a two
 *kran* piece, I threw down a piece of gold just to teach him that it was
@@ -421,7 +421,7 @@ thankful that he has accepted thee as a servant.
 <span id="img_23100"></span> <span align="CENTER"> [![THE LOWER
 AVENUE&lt;br&gt; (With Shrine in background)&lt;br&gt; &lt;i&gt;H. R.
 Sykes, phot&lt;/i&gt;.](tn/23100.jpg)  
-Click to enlarge](img/23100.jpg)  
+Click to enlarge](img/23100.jpg.md)  
 THE “LOWER AVENUE”  
 (With Shrine in background)  
 *H. R. Sykes, phot*.  
@@ -455,16 +455,16 @@ the attendants, and were at last ready to cross the Sacred Threshold.
 
 ### Footnotes
 
-<span id="fn_61"></span>[220:1](gsw17.htm#fr_63) "To burn a man's
+<span id="fn_61"></span>[220:1](gsw17.htm#fr_63.md) "To burn a man's
 father" in Persia is the most usual threat. A burnt Mohamedan has no
 chance of Paradise.
 
-<span id="fn_62"></span>[221:1](gsw17.htm#fr_64) This is, of course, the
+<span id="fn_62"></span>[221:1](gsw17.htm#fr_64.md) This is, of course, the
 Prophet Jonah.
 
-<span id="fn_63"></span>[228:1](gsw17.htm#fr_65) In allusion to the
+<span id="fn_63"></span>[228:1](gsw17.htm#fr_65.md) In allusion to the
 *Imam* having died away from his own country.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. The Sacred Shrine of the *Imam* Riza](gsw18)
+[Next: Chapter XIV. The Sacred Shrine of the *Imam* Riza](gsw18.md)

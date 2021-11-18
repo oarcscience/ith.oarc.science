@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain05)  [Next](ain07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain05)  [Next](ain07.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ the moon.
 
 And here appears Eeeetoy, the most active and mysterious personality in
 Piman mythology. Out of the North, apparently
-[self-existent](errata.htm#4), but little inferior in power to
+[self-existent](errata.htm#4.md), but little inferior in power to
 Juhwertamahkai, and claiming greater age, he appears, by pure "bluff"
 and persistent push and wheedling, to have induced the really more
 powerful, but good-natured and rather lazy Juhwertamahkai to give over
@@ -62,4 +62,4 @@ is hard to fix Eeeetoy's place or power.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Flood](ain07)
+[Next: The Story of the Flood](ain07.md)

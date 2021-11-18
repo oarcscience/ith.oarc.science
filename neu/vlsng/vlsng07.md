@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng06)  [Next](vlsng08) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng06)  [Next](vlsng08.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,4 +105,4 @@ witchcraft.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI: Of how Signy sent the Children of her and Siggeir to
-Sigmund.](vlsng08)
+Sigmund.](vlsng08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic082)  [Next](lfic084) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic082)  [Next](lfic084.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ Donal Gealach mentioned above was the king of the Killarney fairies.
 
 ------------------------------------------------------------------------
 
-[Next: Fionnutuin Mac Bochna](lfic084)
+[Next: Fionnutuin Mac Bochna](lfic084.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp24)  [Next](dtp26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp24)  [Next](dtp26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ karma ordered otherwise. I loved Anzimee also. Through this love, karma
 operated to annul its own tendencies to espouse Lolix. And the mode of
 this operation was exhibited in my recognition of Lolix as possessed of
 every requisite to make me happy except in her one lack, that of
-[psychic](errata.htm#11) perception of the relation of the finite to the
+[psychic](errata.htm#11.md) perception of the relation of the finite to the
 infinite. Absurd? No. That my soul craved such an ability on her part,
 and found it not, but did find it in Anzimee, was evidence of the growth
 of the frail seedling of interest in. the occult life of the Sons of the
@@ -82,7 +82,7 @@ of My life; I will not be his God, neither shall he be My son." There
 can be but one way to such overcoming, the ever-recurrent plungings into
 material incarnation, until the errors of the personal will are at-oned
 to the Divine Will. There can be no vicarious undoing, <span
-id="fr_10"></span>[1](#fn_10) and soon will I show why. Another can not
+id="fr_10"></span>[1](#fn_10.md) and soon will I show why. Another can not
 do thy breathing for thee. Reincarnation, the ever-recurrent prisoning
 of the soul in fleshly bodies, is but expiatory, is but penalty. If in
 His Name ye are become free, if in that Way ye have overcome, and in
@@ -168,7 +168,7 @@ soweth to the Spirit shall of the Spirit have Life everlasting." They
 that are *alive* have crucified the flesh with its affections. Some will
 close the eye and the ear to my message I have of Him. By that shall the
 seed of Eternal Life be closed out of their souls, and they shall
-die. <span id="fr_11"></span>[1](#fn_11) But so
+die. <span id="fr_11"></span>[1](#fn_11.md) But so
 
 <span id="page_191">p. 191</span>
 
@@ -180,13 +180,13 @@ virgins.
 
 ### Footnotes
 
-<span id="fn_10"></span>[188:1](dtp25.htm#fr_10) NOTE. See foot note on
-page [236](dtp28.htm#page_236)
+<span id="fn_10"></span>[188:1](dtp25.htm#fr_10.md) NOTE. See foot note on
+page [236](dtp28.htm#page_236.md)
 
-<span id="fn_11"></span>[190:1](dtp25.htm#fr_11) NOTE--in this
+<span id="fn_11"></span>[190:1](dtp25.htm#fr_11.md) NOTE--in this
 connection read the last age of this book, which closes the history
 given of a Life redeemed upon His Cross.--Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII: Zailm Proposes](dtp26)
+[Next: Chapter XXII: Zailm Proposes](dtp26.md)

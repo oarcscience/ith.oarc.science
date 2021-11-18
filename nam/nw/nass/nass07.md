@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass06)  [Next](nass08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass06)  [Next](nass08.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ his belly burst. He was dead.
 
 ------------------------------------------------------------------------
 
-[Next: The Wolves and the Deer](nass08)
+[Next: The Wolves and the Deer](nass08.md)

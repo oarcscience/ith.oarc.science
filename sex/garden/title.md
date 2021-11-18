@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Next](note) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Next](note.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Sexuality](../index)  [Index](index)  [Next](note) 
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](note)
+[Next: Introduction](note.md)

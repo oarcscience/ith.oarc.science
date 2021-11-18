@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm05)  [Next](tsm07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm05)  [Next](tsm07.md) 
 
 ------------------------------------------------------------------------
 
@@ -180,4 +180,4 @@ their arms flash athwart the sky in bright splendour.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Princess of Land-under-Waves](tsm07)
+[Next: Chapter IV. The Princess of Land-under-Waves](tsm07.md)

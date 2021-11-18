@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe155)  [Next](prwe157) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe155)  [Next](prwe157.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ thrower was to outlive the year, if sank he was not. \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: The Preservation of Holy Wells](prwe157)
+[Next: The Preservation of Holy Wells](prwe157.md)

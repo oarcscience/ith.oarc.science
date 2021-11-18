@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Dunsany](../index)  [Index](index) 
-[Previous](tawo07)  [Next](tawo09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Dunsany](../index)  [Index](index.md) 
+[Previous](tawo07)  [Next](tawo09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002M3T8B0/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales of Wonder*, by Lord Dunsany, \[1916\], at Intangible Textual
 Heritage
 
@@ -150,6 +150,6 @@ and Campbell, "you aren't 'arf taking your time about those emeralds."
 
 ------------------------------------------------------------------------
 
-[Next: The Long Porter's Tale](tawo09)
+[Next: The Long Porter's Tale](tawo09.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft54)  [Next](efft56) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft54)  [Next](efft56.md) 
 
 ------------------------------------------------------------------------
 
-# KENTSHAM BELL  <span id="fr_63"></span>[1](#fn_63)
+# KENTSHAM BELL  <span id="fr_63"></span>[1](#fn_63.md)
 
 GREAT TOM of Kentsham was the greatest bell ever brought to England, but
 it never reached Kentsham safely, nor hung in any English tower. Where
@@ -61,9 +61,9 @@ too.
 
 ### Footnotes
 
-<span id="fn_63"></span>[1](efft55.htm#fr_63) *Folk-Lore Journal* vol.
+<span id="fn_63"></span>[1](efft55.htm#fr_63.md) *Folk-Lore Journal* vol.
 ii. p. 20.
 
 ------------------------------------------------------------------------
 
-[Next: A Bishop's Ghost](efft56)
+[Next: A Bishop's Ghost](efft56.md)

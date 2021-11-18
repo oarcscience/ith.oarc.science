@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap08) 
-[Next](bap10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap08.md) 
+[Next](bap10.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ have them, arouse but a faint
 <span id="page_34">p. 34</span>
 
 interest) and also by his paraphrases <span
-id="fr_12"></span>[1](#fn_12) of Bible stories, (for example, those of
+id="fr_12"></span>[1](#fn_12.md) of Bible stories, (for example, those of
 Korah, Balaam, Jael, Micah) and by his fresh inventions, especially that
 of Kenaz, the first judge, which is on the whole his most successful
 effort. In this side of his work he seeks to interest rather than to
@@ -372,10 +372,10 @@ resemblance between *qui tenet* and ὁ κατέχων of St. Paul (2 Thess. ii.
 
 ### Footnotes
 
-<span id="fn_12"></span>[34:1](bap09.htm#fr_12) Which in some cases
+<span id="fn_12"></span>[34:1](bap09.htm#fr_12.md) Which in some cases
 rather deserve the name of perversions. Great liberties are taken with
 them: a notable fact.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Unity. Contents](bap10)
+[Next: 9. Unity. Contents](bap10.md)

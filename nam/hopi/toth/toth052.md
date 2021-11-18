@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth051)  [Next](toth053) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth051)  [Next](toth053.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 49. CHÓRZHVÛK'IQÖLÖ AND THE EAGLES. <span id="fr_112"></span>[1](#fn_110)
+## 49. CHÓRZHVÛK'IQÖLÖ AND THE EAGLES. <span id="fr_112"></span>[1](#fn_110.md)
 
 A long time ago there lived a family right north of where now the
 Náshabe kiva is situated. The family consisted of a father, mother, two
@@ -61,7 +61,7 @@ going to carry you on my back." So he mounted the Eagle, holding himself
 with both hands to the wings of the Eagle, and the other Eagle taking
 the lead, they began to ascend. The people in the village observed them
 and recognized the young man, and said, "Oh! Why is that Eagle carrying
-Chórzhvûk'íqölö!" <span id="fr_113"></span>[1](#fn_111)
+Chórzhvûk'íqölö!" <span id="fr_113"></span>[1](#fn_111.md)
 
 As they started , the Eagle that carried him said to him, he should sing
 the following Song:
@@ -390,13 +390,13 @@ they are still living there.
 
 ### Footnotes
 
-<span id="fn_110"></span>[159:1](toth052.htm#fr_112) Told by Qöyáwaima
+<span id="fn_110"></span>[159:1](toth052.htm#fr_112.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_111"></span>[160:1](toth052.htm#fr_113) The name signifies:
+<span id="fn_111"></span>[160:1](toth052.htm#fr_113.md) The name signifies:
 Bunch of blue-bird wing feathers.
 
-<span id="fn_112"></span>[161:1](toth052.htm#fr_114) This refers to the
+<span id="fn_112"></span>[161:1](toth052.htm#fr_114.md) This refers to the
 fact that the Hopi, especially the children, often fold up a strip of
 corn husk and with their teeth mark different figures in it, which are
 then shown in different places of the husk when the latter is opened and
@@ -406,4 +406,4 @@ in which he was successful.
 
 ------------------------------------------------------------------------
 
-[Next: 50. The Hawk and the Child](toth053)
+[Next: 50. The Hawk and the Child](toth053.md)

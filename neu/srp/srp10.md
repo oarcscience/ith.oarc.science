@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp09)  [Next](srp11) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp09)  [Next](srp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ their relative, and the rest of the community look upon him as a
 widower. In some parts of Servia when a lad dies, a girl dressed as a
 bride follows him to the tomb, carrying two crowns; one of these is
 thrown to the corpse, and the other she keeps at least for a time <span
-id="fr_240"></span>[1](#fn_240). And so the ideas of the Old Slavonians
+id="fr_240"></span>[1](#fn_240.md). And so the ideas of the Old Slavonians
 about the grave were not always of a sombre nature, nor are those of the
 Russians of the present day. A proof of this is afforded by the strange
 combination of grief and rejoicing which characterizes the festival of
@@ -45,7 +45,7 @@ from the cold of the long winter, and from the idea of their "rejoicing"
 most etymologists derive the name of R*ádunitsa* \[*radost'* = joy,
 *rádovat'sya* = to rejoice\].
 
-This seems doubtful <span id="fr_241"></span>[2](#fn_241), but thus much
+This seems doubtful <span id="fr_241"></span>[2](#fn_241.md), but thus much
 is certain, that the festival has always been one of a partly mirthful
 nature. In olden days it seems to have commenced with heathen rites,
 after which the relatives of the dead wept and wailed for their loss.
@@ -84,7 +84,7 @@ Easter they kiss each other joyfully three times, one of each couple
 saying, "Christ is risen!" and the other replying, "He is risen indeed!"
 and to perform this rite, which is often attended with the presentation
 of Easter eggs, is called *Khristósat'sya* <span
-id="fr_242"></span>[3](#fn_242). Newly-married couples frequently take
+id="fr_242"></span>[3](#fn_242.md). Newly-married couples frequently take
 such eggs with them at this time, and visit the tombs of their
 respective parents, in order to ask for the parental blessing upon their
 union.
@@ -108,7 +108,7 @@ it should be remarked, must be supplied in odd numbers, in threes,
 fives, and so forth, and must be eaten without sauce. If any one is too
 poor to provide them for himself, his richer neighbours are expected to
 furnish him with what is necessary <span
-id="fr_243"></span>[4](#fn_243).
+id="fr_243"></span>[4](#fn_243.md).
 
 Before speaking about the relies of old poetry relating to the dead
 which have been preserved in the memories of the Russian peasantry, it
@@ -195,7 +195,7 @@ sometimes used for the purpose of closing the eyes of the dead,
 sometimes thrown into the grave at the burial. The practice of
 furnishing the corpse with the parings of human and other nails, to be
 used by the climbing spirit, has already been mentioned. \[See [p.
-110](srp06.htm#page_110).\]
+110](srp06.htm#page_110.md).\]
 
 In all Slavonic Countries great stress has from time immemorial been
 laid on loud expressions of grief for the dead. These was formerly
@@ -375,7 +375,7 @@ you to go home, and your feet must be tired: the way is not a little one
 to travel. Here it is softer for you \[i. e. along the linen\]. Now, in
 God's name, farewell!" And the dead are supposed to descend by means of
 the linen, just as, on the day of their burial, they had been let down
-into the grave <span id="fr_244"></span>[5](#fn_244).
+into the grave <span id="fr_244"></span>[5](#fn_244.md).
 
 From these interesting specimens of survival, we will now turn to the
 rites of which they are fragments, those with which the Old Slavonians,
@@ -425,7 +425,7 @@ pictures of Ruthenian life in the sixteenth century. The testimony borne
 by Menetius, or Meletius, in 1551, in his letter *De sacrificiis et
 ydolatria veterum Borussorum*, and repeated by Lasicius in his work,
 "*De Diis Samogitarum*," is too well known to require more than a
-passing reference <span id="fr_245"></span>[6](#fn_245).
+passing reference <span id="fr_245"></span>[6](#fn_245.md).
 
 Having thus alluded to some of the chief authorities on the subject, we
 will pass to the consideration of a few of the most important facts
@@ -475,7 +475,7 @@ Slavonians and the Czekhs are known to have chosen fields and forests
 for this purpose. General cemeteries do not seem to have been known
 (except for strangers) among the heathen Slavonians, for no ancient word
 for such places occurs in any Slavonic dialect <span
-id="fr_246"></span>[7](#fn_246); and the excavations which have been
+id="fr_246"></span>[7](#fn_246.md); and the excavations which have been
 made in Slavonic lands bear out this idea, the tombs having almost
 always been found to stand either singly or in family groups.
 
@@ -523,7 +523,7 @@ originally to a period even
 
 <span id="page_328">p. 328</span>
 
-earlier than the Veda <span id="fr_247"></span>[8](#fn_247)." According
+earlier than the Veda <span id="fr_247"></span>[8](#fn_247.md)." According
 to Ibn Dosta, in some places it was customary for the dead man's
 favourite wife to hang herself, in order that her body might be burnt
 with that of her lord; in others she was expected to allow herself to be
@@ -575,7 +575,7 @@ Scandinavians on account of the want of modesty attributed to their
 <span id="page_330">p. 330</span>
 
 king; but some Russian critics think they must have been Varangian
-traders <span id="fr_248"></span>[9](#fn_248).
+traders <span id="fr_248"></span>[9](#fn_248.md).
 
 Above the spot on which the funeral rites were celebrated, a mound was
 heaped. Ibn Dosta says that the ashes of the dead were collected the day
@@ -606,7 +606,7 @@ over a grave.
 Among most of the Slavonic tribes, directly after the funeral rites were
 over came the *Strava*, the memorial feast, held above the grave, or
 close beside it. According to Jacob Grimm <span
-id="fr_249"></span>[1](#fn_249), the name *Strava* is one of Gothic
+id="fr_249"></span>[1](#fn_249.md), the name *Strava* is one of Gothic
 origin, and means a funeral pyre \[from *straujan* = *sternere*\]. But
 Kotlyarevsky claims it as a Slavonic word.
 
@@ -640,7 +640,7 @@ himself an eyewitness of the following occurrence:--A Slovene, whose
 mother had died, dug up the corpse of his father, collected his bones,
 washed them with red wine, tied them up in a clean white towel, placed
 the bundle on his mother's coffin, and then buried the remains of his
-two parents together <span id="fr_250"></span>[2](#fn_250). A similar
+two parents together <span id="fr_250"></span>[2](#fn_250.md). A similar
 practice prevails in Bulgaria, where, it is said, if no relative dies
 within the space of three years, the family tomb is opened, and any
 stranger who happens to expire is buried in it--a custom due to the
@@ -717,7 +717,7 @@ From thy white face the mould.
 Come flying, O my father,  
 To thy own home, to the lofty terem;  
 Listen, O my father,  
-To our songs of sadness! <span id="fr_251"></span>[3](#fn_251)
+To our songs of sadness! <span id="fr_251"></span>[3](#fn_251.md)
 
 It was generally a friendly ghost that thus revisited the earth beneath
 the pale glimpses of the moon, being usually the spirit of a parent who
@@ -750,7 +750,7 @@ At the moment of swift death,
 In his very last hour,  
 To be at the striking fast of hands,  
 At the last farewell,  
-At the life-long blessing <span id="fr_252"></span>[4](#fn_252).
+At the life-long blessing <span id="fr_252"></span>[4](#fn_252.md).
 
 The same complaint, the same longing for the parental blessing, is heard
 in the wailings of a girl who, in rude and untutored language, laments a
@@ -784,7 +784,7 @@ Such as she now needs,
 At this very time,  
 For the great marriage-blessing.  
 There are who will give her to eat and drink,  
-But to bless her there is none <span id="fr_253"></span>[5](#fn_253).
+But to bless her there is none <span id="fr_253"></span>[5](#fn_253.md).
 
 The next *zapláchka*--also a very unpolished one--gives utterance to the
 grief of a mother who bewails the death of a young child.
@@ -810,7 +810,7 @@ To my loved beloved.
 "My own, my darling child!"  
 Now am I indeed a mother ill-fated!  
 A cuckoo ill-starred in a green pine-wood,  
-Such am I, ill-fated, unhappy <span id="fr_254"></span>[6](#fn_254).
+Such am I, ill-fated, unhappy <span id="fr_254"></span>[6](#fn_254.md).
 
 But the most remarkable among the group of "complaints" from which we
 have been quoting, that collected by Ruibnikof in the neighbourhood of
@@ -836,7 +836,7 @@ And how did swift Death come to thee?
 Came she as a beggar-woman, a wandering cripple,  
 Or as a brave youth, brisk and burly?  
 Or as a stout burlák from Petersburg <span
-id="fr_255"></span>[7](#fn_255)?
+id="fr_255"></span>[7](#fn_255.md)?
 
 The widow replies:--
 
@@ -936,7 +936,7 @@ And my misery have I not diminished but increased.
 Clearly this thing cannot be,  
 That one dead shall return from the grave  
 An orphan must I be without my husband <span
-id="fr_256"></span>[8](#fn_256).
+id="fr_256"></span>[8](#fn_256.md).
 
 The companion song is of a similar nature, but is intended to be
 employed in well-to-do households. It is one which I would fain
@@ -1012,7 +1012,7 @@ children.
 "And, O wind, wild wind! do thou arise, arise at midnight, bring to our
 dear departed the welcome tidings, that for them all their kinsmen are
 painfully longing, that on account of them all their kinswomen are
-steeped in sorrow <span id="fr_257"></span>[9](#fn_257)."
+steeped in sorrow <span id="fr_257"></span>[9](#fn_257.md)."
 
 And here, by way of conclusion, is a specimen of an orphan's wailings
 above her mother's grave:--
@@ -1036,16 +1036,16 @@ thyself, from which side may we expect thee?
 "Arise, O ye wild winds, from all sides! Be ye borne, O winds, into the
 Church of God! Sweep open the moist earth! Strike, O wild winds, on the
 great bell! Will not its sounds and mine awaken words of kindness <span
-id="fr_258"></span>[1](#fn_258)?"
+id="fr_258"></span>[1](#fn_258.md)?"
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_240"></span>[310:1](srp10.htm#fr_240) Kotlyarevsky, 58,
+<span id="fn_240"></span>[310:1](srp10.htm#fr_240.md) Kotlyarevsky, 58,
 231.
 
-<span id="fn_241"></span>[310:2](srp10.htm#fr_241) Kotlyarevsky, in his
+<span id="fn_241"></span>[310:2](srp10.htm#fr_241.md) Kotlyarevsky, in his
 excellent work "On the Funeral Rites of the heathen Slavonians,"
 compares the name of *Rádunitsa* with a supposed Sanskrit word *radanh*
 = sacrifice, offering, from the root *râdh*, to complete, sacrifice,
@@ -1060,25 +1060,25 @@ may spring from the same root as *râda<u>n</u>h* and *râdh-as*.
 \[Doctrinally, though not etymologically, the *Rádunitsa* may possibly
 have been linked with the Indian *Srâddha*.\]
 
-<span id="fn_242"></span>[312:3](srp10.htm#fr_242) See "Russia n 1870,"
+<span id="fn_242"></span>[312:3](srp10.htm#fr_242.md) See "Russia n 1870,"
 by W. Barry, p. 171; a book containing a great deal of useful
 information about the Russian peasantry.
 
-<span id="fn_243"></span>[313:4](srp10.htm#fr_243) Tereshchenko, V.
+<span id="fn_243"></span>[313:4](srp10.htm#fr_243.md) Tereshchenko, V.
 27-30.
 
-<span id="fn_244"></span>[322:5](srp10.htm#fr_244) Tereshchenko, III.
+<span id="fn_244"></span>[322:5](srp10.htm#fr_244.md) Tereshchenko, III.
 123. Taken from Dashkof's "Description of the Olonets Government."
 
-<span id="fn_245"></span>[324:6](srp10.htm#fr_245) Kotlyarevsky, pp.
+<span id="fn_245"></span>[324:6](srp10.htm#fr_245.md) Kotlyarevsky, pp.
 42-153.
 
-<span id="fn_246"></span>[326:7](srp10.htm#fr_246) Kotlyarevsky, p. 227.
+<span id="fn_246"></span>[326:7](srp10.htm#fr_246.md) Kotlyarevsky, p. 227.
 
-<span id="fn_247"></span>[328:8](srp10.htm#fr_247) E. B. Tylor's
+<span id="fn_247"></span>[328:8](srp10.htm#fr_247.md) E. B. Tylor's
 "Primitive Culture," I. 421; where the subject is discussed at length.
 
-<span id="fn_248"></span>[330:9](srp10.htm#fr_248) Ibn Fozlan's
+<span id="fn_248"></span>[330:9](srp10.htm#fr_248.md) Ibn Fozlan's
 narrative was published in 1823 by the Russian Academy of Sciences, with
 a German translation by C. M. Frähn. Rasmussen had previously translated
 it into Danish, and an English rendering of his version appeared in the
@@ -1086,35 +1086,35 @@ it into Danish, and an English rendering of his version appeared in the
 the first time in 1869, at St. Petersburg, with notes and a Russian
 translation by the editor, Prof. Chwolson.
 
-<span id="fn_249"></span>[331:1](srp10.htm#fr_249) *Kleinere Schriften*,
+<span id="fn_249"></span>[331:1](srp10.htm#fr_249.md) *Kleinere Schriften*,
 II. 239. The words in which Jornandes describes a part of the ceremonies
 performed at the burial of Attila are well known. "Postquam talibus
 lamentis est deflectus, stravam super tumulum ejus, quam appellant ipsi,
 ingenti commessatione concelebrant."--*De Getarum Origine*, cap. 49.
 
-<span id="fn_250"></span>[332:2](srp10.htm#fr_250) *Slavonien*, I. 184,
+<span id="fn_250"></span>[332:2](srp10.htm#fr_250.md) *Slavonien*, I. 184,
 as quoted by Kotlyarevsky, p. 252.
 
-<span id="fn_251"></span>[335:3](srp10.htm#fr_251) Quoted by Orest
+<span id="fn_251"></span>[335:3](srp10.htm#fr_251.md) Quoted by Orest
 Miller, *Chrest*. I. ii, from a Perm collection.
 
-<span id="fn_252"></span>[336:4](srp10.htm#fr_252) Ruibnikof, III. 423.
+<span id="fn_252"></span>[336:4](srp10.htm#fr_252.md) Ruibnikof, III. 423.
 
-<span id="fn_253"></span>[337:5](srp10.htm#fr_253) Ruibnikof, III. 423.
+<span id="fn_253"></span>[337:5](srp10.htm#fr_253.md) Ruibnikof, III. 423.
 
-<span id="fn_254"></span>[337:6](srp10.htm#fr_254) Ruibnikof, III. 117,
+<span id="fn_254"></span>[337:6](srp10.htm#fr_254.md) Ruibnikof, III. 117,
 418.
 
-<span id="fn_255"></span>[338:7](srp10.htm#fr_255) The burlák is here a
+<span id="fn_255"></span>[338:7](srp10.htm#fr_255.md) The burlák is here a
 man who goes up to the city to work for wages.
 
-<span id="fn_256"></span>[341:8](srp10.htm#fr_256) Ruibnikof, III.
+<span id="fn_256"></span>[341:8](srp10.htm#fr_256.md) Ruibnikof, III.
 410-413.
 
-<span id="fn_257"></span>[343:9](srp10.htm#fr_257) Quoted by Orest
+<span id="fn_257"></span>[343:9](srp10.htm#fr_257.md) Quoted by Orest
 Miller from Sakharof, II. vii. 23.
 
-<span id="fn_258"></span>[344:1](srp10.htm#fr_258) Quoted from Dashkof
+<span id="fn_258"></span>[344:1](srp10.htm#fr_258.md) Quoted from Dashkof
 by Tereshchenko, III. 102, 103. An interesting description of a Russian
 cemetery on one of the "Parents' Days" is given by Madame Romanoff in
 her "Rites and Ceremonies of the Greco-Russian Church," p. 247.
@@ -1135,4 +1135,4 @@ in Passow's *Carmina popularia Græciæ recentioris*. See also Tozer's
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Sorcery and Witchcraft](srp11)
+[Next: Chapter VI: Sorcery and Witchcraft](srp11.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst17)  [Next](myst19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst17)  [Next](myst19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -34,7 +34,7 @@ ordinary men. Thanks to this faculty, he is now capable of the
 characteristic mystic experience: temporary union with “that spiritual
 fount closed to all reactions from the world of sense, where, without
 witnesses of any kind, God and our Freedom meet.”  <span
-id="fr_680"></span>[681](#fn_680)
+id="fr_680"></span>[681](#fn_680.md)
 
 <span id="an_iv.vii-p3"></span>The degrees of Recollection trained the
 self in spiritual attention: and at the same time lifted it to a new
@@ -51,7 +51,7 @@ different ways and take many different names since its character will be
 largely governed by individual temperament. It appears under the forms
 which ascetic writers call “ordinary” and “extraordinary,” “infused” or
 “passive” Contemplation; and as that “orison of union” which we have
-already discussed.  <span id="fr_681"></span>[682](#fn_681) Sometimes,
+already discussed.  <span id="fr_681"></span>[682](#fn_681.md) Sometimes,
 too, it shows itself under those abnormal psycho-physical conditions in
 which the intense concentration of the self upon its transcendental
 perceptions results in the narrowing of the field of consciousness to a
@@ -69,7 +69,7 @@ cannot hinder it. Whereas the orison of union, which is one of the forms
 in which pure Contemplation appears at its highest point of development,
 is still controlled to a large extent by the will of the subject, and
 “may be hindered, although that resistance be painful and violent.”
- <span id="fr_682"></span>[683](#fn_682) There is thus a sharp
+ <span id="fr_682"></span>[683](#fn_682.md) There is thus a sharp
 distinction—a distinction both physical and psychical—between the
 contemplative and the ecstatic states: and we shall do well to avail
 ourselves of it in examining their character.
@@ -124,7 +124,7 @@ of participating in Divinity. Contemplation installs a method of being
 and of knowing. Moreover, these two things tend at bottom to become one.
 The mystic has more and more the impression of being that which he
 knows, and of knowing that which he is.”  <span
-id="fr_683"></span>[684](#fn_683) Temporally rising, in fact, to levels
+id="fr_683"></span>[684](#fn_683.md) Temporally rising, in fact, to levels
 of freedom, he knows himself real, and therefore knows Reality.
 
 <span id="an_iv.vii-p12"></span>Now, the object of the mystic’s
@@ -157,7 +157,7 @@ things that are made, but I could not sustain my gaze: my weakness was
 dashed back, and I was relegated to my ordinary experience, bearing with
 me only a loving memory, and as it were the fragrance of those desirable
 meats on the which as yet I was not able to feed.”  <span
-id="fr_684"></span>[685](#fn_684)
+id="fr_684"></span>[685](#fn_684.md)
 
 <span id="an_iv.vii-p15"></span>This fragrance, as St. Augustine calls
 it, remains for ever with those who have thus been initiated, if only
@@ -178,7 +178,7 @@ with the object of our quest.
 
 <span id="an_iv.vii-p17"></span>William James considered “ineffability”
 and “noetic quality” to be the constant characteristics of the
-contemplative experience.  <span id="fr_685"></span>[686](#fn_685) Those
+contemplative experience.  <span id="fr_685"></span>[686](#fn_685.md) Those
 who have seen are quite convinced: those who have not seen, can never be
 told. There is no certitude to equal the mystic’s certitude: no
 impotence more complete than that which falls on those who try to
@@ -186,7 +186,7 @@ communicate it. “Of these most excellent and divine workings in the
 soul, when God doth manifest Himself,” <span id="page_332">p. 332</span>
 <span id="an_iv.vii-Page_332"></span> says Angela of Foligno, “we can in
 no wise speak, or even stammer.”  <span
-id="fr_686"></span>[687](#fn_686) Nevertheless, the greater part of
+id="fr_686"></span>[687](#fn_686.md) Nevertheless, the greater part of
 mystical literature is concerned with the attempts of the mystics to
 share their discoveries. Under a variety of images, by a deliberate
 exploitation of the musical and suggestive qualities of words—often,
@@ -211,11 +211,11 @@ inextricably entwined with the phenomena of “intellectual vision” and
 “inward voices.” In others we find what seems to be a development of the
 “Quiet”: a state which the subject describes as a blank absorption, a
 darkness, or “contemplation *in* *caligine*.” <span
-id="fr_687"></span>[688](#fn_687) Sometimes the contemplative tells us
+id="fr_687"></span>[688](#fn_687.md) Sometimes the contemplative tells us
 that he passes through this darkness to the light:  <span
-id="fr_688"></span>[689](#fn_688) sometimes it seems to him that he
+id="fr_688"></span>[689](#fn_688.md) sometimes it seems to him that he
 stays for ever in the “beneficent dark.”  <span
-id="fr_689"></span>[690](#fn_689) In some cases the soul says that even
+id="fr_689"></span>[690](#fn_689.md) In some cases the soul says that even
 in the depths of her absorption, she “knows her own bliss”: in others
 she only becomes aware of it when contemplation is over and the
 surface-intelligence reassumes the reins.
@@ -251,7 +251,7 @@ the sea”: loses to find and dies to live.
 
 <span id="an_iv.vii-p27"></span>“We must,” says Dionysius the
 Areopagite, “be transported wholly out of ourselves and given unto God.”
- <span id="fr_690"></span>[691](#fn_690) This is the “passive union” of
+ <span id="fr_690"></span>[691](#fn_690.md) This is the “passive union” of
 Contemplation: a temporary condition in which the subject receives a
 double conviction of ineffable happiness and ultimate reality. He may
 try to translate this conviction into “something said” or “something
@@ -268,7 +268,7 @@ for that which is seen is not discerned by the seer—if indeed it is
 possible here to distinguish seer and seen as separate things. . .
 .Therefore this vision is hard to tell of: for how can a man describe as
 other than himself that which, when he discerned it, seemed not other,
-but one with himself indeed?”  <span id="fr_691"></span>[692](#fn_691)
+but one with himself indeed?”  <span id="fr_691"></span>[692](#fn_691.md)
 
 <span id="an_iv.vii-p31"></span>Ruysbroeck, who continued in the
 mediaeval world the best traditions of Neoplatonic mysticism, also
@@ -286,7 +286,7 @@ will ever really understand these things. For all words and all that one
 can learn or understand in a creaturely way, are foreign to the truth
 that I mean and far below it. But he who is united to God, and illumined
 by this truth—he can understand Truth by Truth.  <span
-id="fr_692"></span>[693](#fn_692)
+id="fr_692"></span>[693](#fn_692.md)
 
 <span id="an_iv.vii-p33"></span>This final, satisfying knowledge of
 reality—this understanding of Truth by Truth—is, at bottom, that which
@@ -296,7 +296,7 @@ spirit, variously expressed by the intellect and by the heart. The
 guesses of science, the diagrams of metaphysics, the intuitions of
 artists; all are pressing towards this. “Adam sinned when he fell from
 Contemplation. Since then, there has been division in man.”  <span
-id="fr_693"></span>[694](#fn_693)
+id="fr_693"></span>[694](#fn_693.md)
 
 <span id="an_iv.vii-p35"></span>Man’s soul, says Hilton, “Feeleth well
 that there is somewhat above itself that it knoweth not nor hath not
@@ -324,7 +324,7 @@ the desert of all working of man a little, as the palm passeth over the
 six cubits, but he seeth not within what that is. Nevertheless, <span
 id="page_335">p. 335</span> <span id="an_iv.vii-Page_335"></span> if he
 may come within the city of contemplation, then seeth he mickle more
-than he saw first.”  <span id="fr_694"></span>[695](#fn_694)
+than he saw first.”  <span id="fr_694"></span>[695](#fn_694.md)
 
 <span id="an_iv.vii-p38"></span>As in the case of vision, so here, all
 that we who “without the feeling travail in desire” can really know
@@ -408,7 +408,7 @@ is gotten, and with joy untold it is possessed. Forsooth, it is not
 man’s merit but God’s gift; and yet from the beginning to this day never
 might man be ravished in contemplation of Love Everlasting, but if he
 before parfitely all the world’s vanity had forsaken.”  <span
-id="fr_695"></span>[696](#fn_695)
+id="fr_695"></span>[696](#fn_695.md)
 
 <span id="an_iv.vii-p45"></span>We must, then, be prepared to accept,
 sift, and use many different descriptions of evoked emotion in the
@@ -452,7 +452,7 @@ none may know, which may not be known,” says this contemplative soul.
 “No, soothly no! Without fail, No, says she. He only is my God that none
 can one word of say, nor all they of Paradise one only point attain nor
 understand, for all the knowing that they have of Him.”  <span
-id="fr_696"></span>[697](#fn_696)
+id="fr_696"></span>[697](#fn_696.md)
 
 <span id="an_iv.vii-p49"></span>When they try to be geographically
 exact, to define and describe their apprehension of, and contact with,
@@ -535,7 +535,7 @@ close and yet so far off, and so far beyond all things, that it has
 neither time nor place. It is a simple and unchanging condition. A man
 who really and truly enters, feels as though he had been here throughout
 eternity, and as though he were one therewith.”  <span
-id="fr_697"></span>[698](#fn_697)
+id="fr_697"></span>[698](#fn_697.md)
 
 <span id="an_iv.vii-p55"></span>Many other mystics have written to the
 same effect: have described with splendour the ineffable joys and
@@ -563,7 +563,7 @@ we are concerned with the most exact of sciences: with the exploration
 of the harshest and most uninhabitable headlands of the divine ‘Know
 thyself’: and the midnight sun reigns over that rolling sea where the
 psychology of man mingles with the psychology of God.”  <span
-id="fr_698"></span>[699](#fn_698)
+id="fr_698"></span>[699](#fn_698.md)
 
 <span id="an_iv.vii-p58"></span>On one hand “flames and light”—the flame
 of living and creative love which fills the universe—on the other the
@@ -588,7 +588,7 @@ Illumination. Its finest literary expression is found in that passage of
 the “Paradiso” where Dante tells us how he pierced, for an instant, the
 secret of the Empyrean. Already he had enjoyed a symbolic vision of
 two-fold Reality as the moving River of Light and the still white Rose.
- <span id="fr_699"></span>[700](#fn_699) Now these two aspects vanished,
+ <span id="fr_699"></span>[700](#fn_699.md) Now these two aspects vanished,
 and he saw the One.
 
 > <span id="an_iv.vii-p60.1"></span> “. . . la mia vista, venendo
@@ -621,7 +621,7 @@ and he saw the One.
 > Però che il Ben, ch’ è del volere obbietto,  
 > tutto s’accoglie in lei, e fuor di quella  
 > è difettivo cio che lì è perfetto.” <span
-> id="fr_700"></span>[701](#fn_700)  
+> id="fr_700"></span>[701](#fn_700.md)  
 
 <span id="an_iv.vii-p62"></span>Intermediate between the Dantesque
 apprehension of Eternal Reality and the contemplative communion with
@@ -647,7 +647,7 @@ anything corporeal. It was as though it were in heaven: a beauty so
 great that I can say nought concerning it, save that it was supreme
 Beauty and sovereign Good.’” Again, “I beheld the ineffable fullness of
 God: but I can relate nothing of it, save that I have seen in it the
-Sovereign Good.”  <span id="fr_701"></span>[702](#fn_701)
+Sovereign Good.”  <span id="fr_701"></span>[702](#fn_701.md)
 
 <span id="an_iv.vii-p65"></span> *B. The Contemplation of Immanence.—*
 The second group of contemplatives is governed by that “Love which
@@ -657,7 +657,7 @@ transcendence, of that same Infinite Life at whose being the first group
 could only hint by amazing images which seem to be borrowed from the
 poetry of metaphysics. These are, says Hilton, in a lovely image,
 “Feelingly fed with the savour of His invisible blessed Face.”  <span
-id="fr_702"></span>[703](#fn_702) All the feelings which flow from joy,
+id="fr_702"></span>[703](#fn_702.md) All the feelings which flow from joy,
 confidence, and affection, rather than those which are grouped about
 rapture and awe—though awe is always present in some measure, as it is
 always present in all perfect love—here contribute towards a description
@@ -670,7 +670,7 @@ Uncreated Light. “Nothing more profitable, nothing merrier than grace of
 contemplation!” cries Rolle, “that lifts us from this low and offers to
 God. What is grace of contemplation but beginning of joy? what is
 parfiteness of joy but grace confirmed?  <span
-id="fr_703"></span>[704](#fn_703) In such “bright contemplation” as
+id="fr_703"></span>[704](#fn_703.md) In such “bright contemplation” as
 this, says “The Mirror of Simple Souls,” “the soul is full gladsome and
 jolly.” Utter peace and wild delight, every pleasure-state known to
 man’s normal consciousness, are inadequate to the description of her
@@ -697,7 +697,7 @@ Lover and Beloved will be a very different experience from the soul’s
 immersion in that “desert of Deity,” as described by Eckhart and his
 school. “In this oning,” says Hilton, “is the marriage made betwixt God
 and the soul, that shall never be broken.”  <span
-id="fr_704"></span>[705](#fn_704)
+id="fr_704"></span>[705](#fn_704.md)
 
 <span id="an_iv.vii-p71"></span>St. Teresa is the classic example of
 this intimate and affective type of contemplation: but St. Gertrude,
@@ -714,7 +714,7 @@ Love that was without beginning, and is, and shall be ever. And with
 this our good Lord said full blissfully, *Lo, how that I loved thee,* as
 if He had said, My *darling, behold and see thy Lord, thy God that is
 thy Matter, and thine endless joy.”*  <span
-id="fr_705"></span>[706](#fn_705)
+id="fr_705"></span>[706](#fn_705.md)
 
 <span id="an_iv.vii-p73"></span>“The eyes of her soul were opened,” says
 the scribe to whom Angela of Foligno dictated her revelations. “And she
@@ -727,7 +727,7 @@ was any actual and measurable likeness, but this love took on the
 semblance of a sickle, because it first withdrew itself, not giving
 itself so fully as it had allowed itself to be understood and she had
 understood it; the which caused her to yearn for it the more.”  <span
-id="fr_706"></span>[707](#fn_706) <span id="page_344">p. 344</span>
+id="fr_706"></span>[707](#fn_706.md) <span id="page_344">p. 344</span>
 <span id="an_iv.vii-Page_344"></span>
 
 <span id="an_iv.vii-p75"></span>It is to Mechthild of Magdeburg, whose
@@ -736,7 +736,7 @@ most perfect definition of this communion of the mystic with his Friend.
 “Orison,” she says, “draws the great God down into the small heart: it
 drives the hungry soul out to the full God. It brings together the two
 lovers, God and the soul, into a joyful room where they speak much of
-love.”  <span id="fr_707"></span>[708](#fn_707)
+love.”  <span id="fr_707"></span>[708](#fn_707.md)
 
 <span id="an_iv.vii-p77"></span>We have already seen that the doctrine
 of the Trinity makes it possible for Christian mystics, and, still more,
@@ -750,7 +750,7 @@ represent diverse apprehensions of one whole. All the mystics feel—and
 the German school in particular have expressed—Dante’s conviction that
 these two aspects of reality, these two planes of being, however widely
 they seem to differ, are *One* .  <span
-id="fr_708"></span>[709](#fn_708) Both are ways of describing man’s
+id="fr_708"></span>[709](#fn_708.md) Both are ways of describing man’s
 partial contacts with that Absolute Truth, “present yet absent, near,
 yet far,” that Triune Fact, <span id="an_iv.vii-p78.1"></span> *di* *tre
 colori e d’ una continenza* *,* which is God. Both are necessary if we
@@ -764,7 +764,7 @@ of the real country can be made.
 <span id="an_iv.vii-p79"></span>Since it is of the essence of the
 Christian religion to combine personal and metaphysical truth, a
 transcendent and an incarnate God,  <span
-id="fr_709"></span>[710](#fn_709) it is not surprising that we should
+id="fr_709"></span>[710](#fn_709.md) it is not surprising that we should
 find in Christianity a philosophic and theological basis for this
 paradox of the contemplative experience. Most often, though not always,
 the Christian mystic identifies the personal and intimate Lover of the
@@ -823,7 +823,7 @@ id="an_iv.vii-Page_346"></span> in God, must give place to this. For
 there is nought else here but an eternal rest in the fruitive embrace of
 an outpouring love: and this is the wayless Being that all interior
 souls have chosen above all other things. This is the dim silence where
-all lovers lose themselves.”  <span id="fr_710"></span>[711](#fn_710)
+all lovers lose themselves.”  <span id="fr_710"></span>[711](#fn_710.md)
 
 <span id="an_iv.vii-p83"></span>Here Ruysbroeck, beginning with a symbol
 of the Divine Personality as Bridegroom of the Soul, which would have
@@ -884,14 +884,14 @@ with Him whom neither being nor understanding can contain. For by the
 unceasing and absolute renunciation of thyself and all things, thou
 shalt in pureness cast all things aside, and be released from all, and
 so shalt be led upwards to the Ray of that Divine Darkness which
-exceetedth all existence.”  <span id="fr_711"></span>[712](#fn_711)
+exceetedth all existence.”  <span id="fr_711"></span>[712](#fn_711.md)
 Again, “The Divine Dark is nought else but that inaccessible light
 wherein the Lord is said to dwell. Although it is invisible because of
 its dazzling splendours and unsearchable because of the abundance of its
 supernatural brightness, nevertheless, whosoever deserves to see and
 know God rests therein; and, by the very fact that he neither sees nor
 knows, is truly in that which surpasses all truth and all knowledge.”
- <span id="fr_712"></span>[713](#fn_712)
+ <span id="fr_712"></span>[713](#fn_712.md)
 
 <span id="an_iv.vii-p95"></span>It has become a commonplace with writers
 on mysticism to say, that all subsequent contemplatives took from
@@ -923,7 +923,7 @@ Reason finds itself, in a most actual sense, “in the dark”—immersed in
 the Cloud of Unknowing. This dimness and lostness of the mind, then, is
 a necessary part of the mystic’s ascent to the Absolute. That
 Absolute—the <span id="an_iv.vii-p96.1"></span> *Mysterium tremendum et
-fascinans*  <span id="fr_713"></span>[714](#fn_713) —willnot be “known
+fascinans*  <span id="fr_713"></span>[714](#fn_713.md) —willnot be “known
 of the heart” until we acknowledge that It is “unknown of the
 intellect”; and obey the Dionysian injunction to leave “the operations
 of the understanding” on one side. The movement of the contemplative
@@ -939,7 +939,7 @@ and is *in* that Wholly Other which surpasses all image and all idea.
 > The last step, to fare without feet.  
 > To regard this world as invisible,  
 > Not to see what appears to oneself.”  <span
-> id="fr_714"></span>[715](#fn_714)  
+> id="fr_714"></span>[715](#fn_714.md)  
 
 <span id="an_iv.vii-p99"></span>This acknowledgment of our intellectual
 ignorance, this humble surrender, is the entrance into the “Cloud of
@@ -947,7 +947,7 @@ Unknowing”: the first step towards mystical knowledge of the Absolute.
 “For Truth and Humility are full true sisters,” says Hilton, <span
 id="page_349">p. 349</span> <span id="an_iv.vii-Page_349"></span>
 “fastened together in love and charity, and there is no distance of
-counsel betwixt them two.”  <span id="fr_715"></span>[716](#fn_715)
+counsel betwixt them two.”  <span id="fr_715"></span>[716](#fn_715.md)
 
 <span id="an_iv.vii-p101"></span>“Thou askest me and sayest,” says the
 author of “The Cloud of Unknowing,” “How shall I think on Himself and
@@ -963,7 +963,7 @@ think, and choose to my love that thing that I cannot think. For why; He
 may well be loved, but not thought. By love may He be gotten and holden,
 but by thought never. . . . Smite upon that thick cloud of unknowing
 with a sharp dart of longing love; and go not thence for thing that
-befalleth.”  <span id="fr_716"></span>[717](#fn_716)
+befalleth.”  <span id="fr_716"></span>[717](#fn_716.md)
 
 <span id="an_iv.vii-p104"></span>So long, therefore, as the object of
 the mystic’s contemplation is amenable to thought, is something which he
@@ -976,7 +976,7 @@ which the intellect can work.
 great mystic, “I mean thereby a lack of knowing. . . . And for this
 reason it is not called a cloud of the air, but a cloud of unknowing,
 that is between thee and thy God.”  <span
-id="fr_717"></span>[718](#fn_717)
+id="fr_717"></span>[718](#fn_717.md)
 
 <span id="an_iv.vii-p107"></span>The business of the contemplative,
 then, is to enter this cloud: the “good dark,” as Hilton calls it. The
@@ -1005,7 +1005,7 @@ comprehend it?
 comprehend it, then it will fly away from thee, but if thou dost
 surrender thyself wholly up to it, then it will abide with thee, and
 become the Life of thy Life, and be natural to thee.”  <span
-id="fr_718"></span>[719](#fn_718)
+id="fr_718"></span>[719](#fn_718.md)
 
 <span id="an_iv.vii-p113"></span>The author of “The Cloud of Unknowing”
 is particularly explicit as to the sense of dimness and confusion which
@@ -1024,7 +1024,7 @@ in thine affection. And therefore shape thee to bide in this darkness as
 long as thou mayest, evermore crying after Him that thou lovest. For if
 ever thou shalt feel Him or see Him as it may be here, it behoveth
 always to be in this cloud and this darkness.”  <span
-id="fr_719"></span>[720](#fn_719)
+id="fr_719"></span>[720](#fn_719.md)
 
 <span id="an_iv.vii-p116"></span>From the same century, but from a very
 different country and temperament, comes another testimony as to the
@@ -1071,7 +1071,7 @@ had been uplifted but three times to this most high and ineffable mode
 of beholding God in great darkness, and in a vision so marvellous and
 complete. Certainly she had seen the Sovereign Good countless times and
 always darkly; yet never in such a high manner and through such great
-dark.”  <span id="fr_720"></span>[721](#fn_720)
+dark.”  <span id="fr_720"></span>[721](#fn_720.md)
 
 <span id="an_iv.vii-p119"></span>These words, and indeed the whole idea
 which lies at the bottom of “dark contemplation,” will perhaps be better
@@ -1080,7 +1080,7 @@ understood in the light of Baron von Hügel’s deeply significant saying
 Him beyond their intellectual comprehension of Him; the element of
 devoted trust, of free self-donation to One fully known *only through
 and in such an act,* will thus remain to man for ever.”  <span
-id="fr_721"></span>[722](#fn_721) Hence, the contemplative act, which is
+id="fr_721"></span>[722](#fn_721.md) Hence, the contemplative act, which is
 an act of loving and self-forgetting concentration upon the Divine—the
 outpouring of man’s little and finite personality towards the Absolute
 Personality of God—will, in so far as it transcends thought, mean
@@ -1135,7 +1135,7 @@ suggestive qualities of metaphor.
 > There did I give sweet rest  
 > To my beloved one:  
 > The fanning of the cedars breathed thereon.”  <span
-> id="fr_722"></span>[723](#fn_722) <span id="page_353">p. 353</span>
+> id="fr_722"></span>[723](#fn_722.md) <span id="page_353">p. 353</span>
 > <span id="an_iv.vii-Page_353"></span>  
 
 <span id="an_iv.vii-p123"></span>Observe in these verses the perfect
@@ -1205,7 +1205,7 @@ improper, are all the words and phrases by which in this life we discuss
 divine things; that they escape the best efforts of human art and
 science, and that only the mystical theology can know and taste what
 these things are in their reality.”  <span
-id="fr_723"></span>[724](#fn_723)
+id="fr_723"></span>[724](#fn_723.md)
 
 <span id="an_iv.vii-p128"></span>In this important passage we have a
 reconciliation of the four chief images under which contemplation has
@@ -1228,12 +1228,12 @@ id="page_355">p. 355</span> <span id="an_iv.vii-Page_355"></span> This
 is ghostly music, that is unknown to all that with worldly business
 lawful or unlawful are occupied. No man there is that this has known,
 but he that has studied to God only to take heed.”  <span
-id="fr_724"></span>[725](#fn_724)
+id="fr_724"></span>[725](#fn_724.md)
 
 <span id="an_iv.vii-p131"></span>Doubtless the “dark transcendence”
 reported and dwelt upon by all mystics of the Dionysian type, is nearest
 the truth of all our apprehensions of God:  <span
-id="fr_725"></span>[726](#fn_725) though it can be true only in the
+id="fr_725"></span>[726](#fn_725.md) though it can be true only in the
 paradoxical sense that it uses the suggestive qualities of negation—the
 Dark whose very existence involves that of Light—to hint at the infinite
 Affirmation of All that Is. But the nearer this language is to the
@@ -1258,7 +1258,7 @@ with the Absolute to be, it represents a real aspect of the
 contemplative experience which eludes the rule and compass of
 metaphysical thought. Blake, with true mystic insight, summed up the
 situation as between the two extreme forms of contemplation when he
-wrote:—  <span id="fr_726"></span>[727](#fn_726)
+wrote:—  <span id="fr_726"></span>[727](#fn_726.md)
 
 > <span id="an_iv.vii-p134.1"></span> “God appears, and God is Light  
 > To those poor souls who dwell in night:  
@@ -1284,7 +1284,7 @@ though I had an inclination for nothing except the purest Union, without
 any means, in accordance with that detailed sight which Thou hadst given
 me. So then I said to Thee: These other things, give them to whom Thou
 wilt; give me but this most pure Union with Thee, free from every
-means.”  <span id="fr_727"></span>[728](#fn_727)
+means.”  <span id="fr_727"></span>[728](#fn_727.md)
 
 <span id="an_iv.vii-p137"></span>“Our work is the love of God,” cries
 Ruysbroeck. “Our satisfaction lies in submission to the Divine Embrace.”
@@ -1320,7 +1320,7 @@ occupied in loving, but it understands not how it loves; the
 understanding, if it understands, does not understand how it
 understands. It does not understand, as it seems to me, because, as I
 said just now, this is a matter which cannot be understood.”  <span
-id="fr_728"></span>[729](#fn_728) Clearly, the psychological situation
+id="fr_728"></span>[729](#fn_728.md) Clearly, the psychological situation
 here is the same as that in which mystics of the impersonal type feel
 themselves to be involved in the Cloud of Unknowing, or Divine Dark.
 
@@ -1335,7 +1335,7 @@ she wishes it, she can think of nothing. Thus she needs no effort in
 order to suspend her thoughts; if the soul can love—she knows not how or
 when she loves, nor what she desires . . . she is, as it were, entirely
 dead to the world, the better to live in God.”  <span
-id="fr_729"></span>[730](#fn_729)
+id="fr_729"></span>[730](#fn_729.md)
 
 <span id="an_iv.vii-p141"></span>It may be asked, in what way does such
 contemplation as this differ from unconsciousness. The difference,
@@ -1359,7 +1359,7 @@ soul see and comprehend that she is in God and God in her, if during
 this union she is not able either to see or understand? I reply, that
 she does not see it at the time, but that afterwards she perceives it
 clearly: not by a vision, but by a certitude which remains in the heart
-which God alone can give.”  <span id="fr_730"></span>[731](#fn_730)
+which God alone can give.”  <span id="fr_730"></span>[731](#fn_730.md)
 
 <span id="an_iv.vii-p143"></span><span id="page_358">p. 358</span> <span
 id="an_iv.vii-Page_358"></span>
@@ -1368,108 +1368,108 @@ id="an_iv.vii-Page_358"></span>
 
 ### Footnotes
 
-<span id="fn_680"></span>[328:681](myst18.htm#fr_680) <span
+<span id="fn_680"></span>[328:681](myst18.htm#fr_680.md) <span
 id="an_iv.vii-p1.2"></span>
 
 <span id="an_iv.vii-p2"></span> Récéjac, “Fondements de la Connaissance
 Mystique,” p. 176.
 
-<span id="fn_681"></span>[329:682](myst18.htm#fr_681) <span
+<span id="fn_681"></span>[329:682](myst18.htm#fr_681.md) <span
 id="an_iv.vii-p3.1"></span>
 
 <span id="an_iv.vii-p4"></span> *Supra* , p. 245.
 
-<span id="fn_682"></span>[329:683](myst18.htm#fr_682) <span
+<span id="fn_682"></span>[329:683](myst18.htm#fr_682.md) <span
 id="an_iv.vii-p5.1"></span>
 
 <span id="an_iv.vii-p6"></span> St. Teresa, Vida, cap. xx. § 1 and 3.
 
-<span id="fn_683"></span>[330:684](myst18.htm#fr_683) <span
+<span id="fn_683"></span>[330:684](myst18.htm#fr_683.md) <span
 id="an_iv.vii-p10.1"></span>
 
 <span id="an_iv.vii-p11"></span> “Études sur le Mysticisme,” p. 370.
 
-<span id="fn_684"></span>[331:685](myst18.htm#fr_684) <span
+<span id="fn_684"></span>[331:685](myst18.htm#fr_684.md) <span
 id="an_iv.vii-p13.1"></span>
 
 <span id="an_iv.vii-p14"></span> Aug. Conf., bk. vii. cap. xvii.
 
-<span id="fn_685"></span>[331:686](myst18.htm#fr_685) <span
+<span id="fn_685"></span>[331:686](myst18.htm#fr_685.md) <span
 id="an_iv.vii-p17.1"></span>
 
 <span id="an_iv.vii-p18"></span> “Varieties of Religious Experience,” p.
 380.
 
-<span id="fn_686"></span>[332:687](myst18.htm#fr_686) <span
+<span id="fn_686"></span>[332:687](myst18.htm#fr_686.md) <span
 id="an_iv.vii-p18.1"></span>
 
 <span id="an_iv.vii-p19"></span> St. Angèle de Foligno, “Le Livre de
 l’Expérience des Vrais Fidèles,” p. 238 (English translation, p. 189).
 
-<span id="fn_687"></span>[332:688](myst18.htm#fr_687) <span
+<span id="fn_687"></span>[332:688](myst18.htm#fr_687.md) <span
 id="an_iv.vii-p20.1"></span>
 
 <span id="an_iv.vii-p21"></span> Compare Baker, “Holy Wisdom,” Treatise
 iii. § iv. cap. iv.
 
-<span id="fn_688"></span>[332:689](myst18.htm#fr_688) <span
+<span id="fn_688"></span>[332:689](myst18.htm#fr_688.md) <span
 id="an_iv.vii-p21.1"></span>
 
 <span id="an_iv.vii-p22"></span> See Hilton, “The Scale of Perfection,”
 bk. ii. cap. xxv.
 
-<span id="fn_689"></span>[332:690](myst18.htm#fr_689) <span
+<span id="fn_689"></span>[332:690](myst18.htm#fr_689.md) <span
 id="an_iv.vii-p22.1"></span>
 
 <span id="an_iv.vii-p23"></span> *Vide infra* , p. 347.
 
-<span id="fn_690"></span>[333:691](myst18.htm#fr_690) <span
+<span id="fn_690"></span>[333:691](myst18.htm#fr_690.md) <span
 id="an_iv.vii-p27.1"></span>
 
 <span id="an_iv.vii-p28"></span> “De Divinis Nominibus,” vii. 1.
 
-<span id="fn_691"></span>[333:692](myst18.htm#fr_691) <span
+<span id="fn_691"></span>[333:692](myst18.htm#fr_691.md) <span
 id="an_iv.vii-p29.1"></span>
 
 <span id="an_iv.vii-p30"></span> Ennead vi. 9, 10.
 
-<span id="fn_692"></span>[334:693](myst18.htm#fr_692) <span
+<span id="fn_692"></span>[334:693](myst18.htm#fr_692.md) <span
 id="an_iv.vii-p31.1"></span>
 
 <span id="an_iv.vii-p32"></span> Ruysbroeck, “De Ornatu Spiritalium
 Nuptiarum,” I. iii. cap. i.
 
-<span id="fn_693"></span>[334:694](myst18.htm#fr_693) <span
+<span id="fn_693"></span>[334:694](myst18.htm#fr_693.md) <span
 id="an_iv.vii-p33.1"></span>
 
 <span id="an_iv.vii-p34"></span> J. Maritain, “Art et Scholastique,” p.
 141.
 
-<span id="fn_694"></span>[335:695](myst18.htm#fr_694) <span
+<span id="fn_694"></span>[335:695](myst18.htm#fr_694.md) <span
 id="an_iv.vii-p36.1"></span>
 
 <span id="an_iv.vii-p37"></span> “The Scale of Perfection,” bk. ii. cap.
 xxv.
 
-<span id="fn_695"></span>[336:696](myst18.htm#fr_695) <span
+<span id="fn_695"></span>[336:696](myst18.htm#fr_695.md) <span
 id="an_iv.vii-p43.1"></span>
 
 <span id="an_iv.vii-p44"></span> Richard Rolle, “The Mending of Life,”
 cap. xii.
 
-<span id="fn_696"></span>[337:697](myst18.htm#fr_696) <span
+<span id="fn_696"></span>[337:697](myst18.htm#fr_696.md) <span
 id="an_iv.vii-p47.1"></span>
 
 <span id="an_iv.vii-p48"></span> “The Mirror of Simple Souls,” Div. iii.
 cap. xiii.
 
-<span id="fn_697"></span>[339:698](myst18.htm#fr_697) <span
+<span id="fn_697"></span>[339:698](myst18.htm#fr_697.md) <span
 id="an_iv.vii-p53.2"></span>
 
 <span id="an_iv.vii-p54"></span> Tauler, Sermon on St. John the Baptist
 (“The Inner Way,” pp. 97-99).
 
-<span id="fn_698"></span>[340:699](myst18.htm#fr_698) <span
+<span id="fn_698"></span>[340:699](myst18.htm#fr_698.md) <span
 id="an_iv.vii-p56.1"></span>
 
 <span id="an_iv.vii-p57"></span> Maeterlinck, Introduction to
@@ -1478,12 +1478,12 @@ recognize here a poetic account of the soul’s contact with that aspect
 of Divine Reality emphasized in the work of Rudolf Otto and of Karl
 Barth.
 
-<span id="fn_699"></span>[340:700](myst18.htm#fr_699) <span
+<span id="fn_699"></span>[340:700](myst18.htm#fr_699.md) <span
 id="an_iv.vii-p59.1"></span>
 
 <span id="an_iv.vii-p60"></span> Par. xxx. 61-128. Compare p. 286.
 
-<span id="fn_700"></span>[341:701](myst18.htm#fr_700) <span
+<span id="fn_700"></span>[341:701](myst18.htm#fr_700.md) <span
 id="an_iv.vii-p60.30"></span>
 
 <span id="an_iv.vii-p61"></span> Par. xxxiii. 52-63, 76-81, 97-105. “My
@@ -1504,70 +1504,70 @@ it to any other sight. Because the Good, which is the object of the
 will, is therein wholly gathered; and outside of this, that is defective
 which therein is perfect.”
 
-<span id="fn_701"></span>[342:702](myst18.htm#fr_701) <span
+<span id="fn_701"></span>[342:702](myst18.htm#fr_701.md) <span
 id="an_iv.vii-p63.1"></span>
 
 <span id="an_iv.vii-p64"></span> St. Angèle de Foligno, “Le Livre de
 l’Expérience des Vrais Fidèles,” pp. 78 and 116 (English translation,
 here very imperfect, pp. 169, 174).
 
-<span id="fn_702"></span>[342:703](myst18.htm#fr_702) <span
+<span id="fn_702"></span>[342:703](myst18.htm#fr_702.md) <span
 id="an_iv.vii-p65.1"></span>
 
 <span id="an_iv.vii-p66"></span> “The Scale of Perfection,” bk. ii. cap.
 xli.
 
-<span id="fn_703"></span>[342:704](myst18.htm#fr_703) <span
+<span id="fn_703"></span>[342:704](myst18.htm#fr_703.md) <span
 id="an_iv.vii-p67.1"></span>
 
 <span id="an_iv.vii-p68"></span> “The Mending of Life,” cap. xii.
 
-<span id="fn_704"></span>[343:705](myst18.htm#fr_704) <span
+<span id="fn_704"></span>[343:705](myst18.htm#fr_704.md) <span
 id="an_iv.vii-p69.1"></span>
 
 <span id="an_iv.vii-p70"></span> Scale of Perfection,” bk. i. cap. viii.
 
-<span id="fn_705"></span>[343:706](myst18.htm#fr_705) <span
+<span id="fn_705"></span>[343:706](myst18.htm#fr_705.md) <span
 id="an_iv.vii-p71.1"></span>
 
 <span id="an_iv.vii-p72"></span> “Fevelations of Divine Love,” cap.
 xxiv.
 
-<span id="fn_706"></span>[343:707](myst18.htm#fr_706) <span
+<span id="fn_706"></span>[343:707](myst18.htm#fr_706.md) <span
 id="an_iv.vii-p73.1"></span>
 
 <span id="an_iv.vii-p74"></span> St. Angèle, *op. cit* ., p. 156
 (English translations p. 178).
 
-<span id="fn_707"></span>[344:708](myst18.htm#fr_707) <span
+<span id="fn_707"></span>[344:708](myst18.htm#fr_707.md) <span
 id="an_iv.vii-p75.1"></span>
 
 <span id="an_iv.vii-p76"></span> “Das Fliessende Licht der Gottheit,”
 pt. v. cap. 13.
 
-<span id="fn_708"></span>[344:709](myst18.htm#fr_708) <span
+<span id="fn_708"></span>[344:709](myst18.htm#fr_708.md) <span
 id="an_iv.vii-p77.1"></span>
 
 <span id="an_iv.vii-p78"></span> Par. xxxiii. 137.
 
-<span id="fn_709"></span>[344:710](myst18.htm#fr_709) <span
+<span id="fn_709"></span>[344:710](myst18.htm#fr_709.md) <span
 id="an_iv.vii-p79.1"></span>
 
 <span id="an_iv.vii-p80"></span> Compare *supra* , Pt. I. Cap. V.
 
-<span id="fn_710"></span>[346:711](myst18.htm#fr_710) <span
+<span id="fn_710"></span>[346:711](myst18.htm#fr_710.md) <span
 id="an_iv.vii-p81.1"></span>
 
 <span id="an_iv.vii-p82"></span> Ruysbroeck, “De Ornatu Spiritalium
 Nuptiarum,” bk. iii. caps. ii. and iv.
 
-<span id="fn_711"></span>[347:712](myst18.htm#fr_711) <span
+<span id="fn_711"></span>[347:712](myst18.htm#fr_711.md) <span
 id="an_iv.vii-p86.1"></span>
 
 <span id="an_iv.vii-p87"></span> Dionysius the Areopagite, “De Mystica
 Theologia,” i. 1.
 
-<span id="fn_712"></span>[347:713](myst18.htm#fr_712) <span
+<span id="fn_712"></span>[347:713](myst18.htm#fr_712.md) <span
 id="an_iv.vii-p87.1"></span>
 
 <span id="an_iv.vii-p88"></span> *Ibid.,* Letter to Dorothy the Deacon.
@@ -1587,66 +1587,66 @@ here
 
 <span id="an_iv.vii-p94"></span>Might live invisible and dim.”
 
-<span id="fn_713"></span>[348:714](myst18.htm#fr_713) <span
+<span id="fn_713"></span>[348:714](myst18.htm#fr_713.md) <span
 id="an_iv.vii-p96.2"></span>
 
 <span id="an_iv.vii-p97"></span> R. Otto, “The Idea of the Holy,” caps.
 iii. and iv. The whole of this work should be studied in its bearing on
 the contemplation of supra-rational Reality.
 
-<span id="fn_714"></span>[348:715](myst18.htm#fr_714) <span
+<span id="fn_714"></span>[348:715](myst18.htm#fr_714.md) <span
 id="an_iv.vii-p97.8"></span>
 
 <span id="an_iv.vii-p98"></span> Jalalu ‘d Din, “Selected Poems from the
 Divan,” p. 137.
 
-<span id="fn_715"></span>[349:716](myst18.htm#fr_715) <span
+<span id="fn_715"></span>[349:716](myst18.htm#fr_715.md) <span
 id="an_iv.vii-p99.1"></span>
 
 <span id="an_iv.vii-p100"></span> “The Scale of Perfection,” bk. ii.
 cap. xiii.
 
-<span id="fn_716"></span>[349:717](myst18.htm#fr_716) <span
+<span id="fn_716"></span>[349:717](myst18.htm#fr_716.md) <span
 id="an_iv.vii-p102.1"></span>
 
 <span id="an_iv.vii-p103"></span> “The Cloud of Unknowing,” cap. vi.
 
-<span id="fn_717"></span>[349:718](myst18.htm#fr_717) <span
+<span id="fn_717"></span>[349:718](myst18.htm#fr_717.md) <span
 id="an_iv.vii-p105.1"></span>
 
 <span id="an_iv.vii-p106"></span> *Ibid* ., cap. iv.
 
-<span id="fn_718"></span>[350:719](myst18.htm#fr_718) <span
+<span id="fn_718"></span>[350:719](myst18.htm#fr_718.md) <span
 id="an_iv.vii-p111.1"></span>
 
 <span id="an_iv.vii-p112"></span> Boehme, “Three Dialogues of the
 Supersensual Life,” p. 71.
 
-<span id="fn_719"></span>[350:720](myst18.htm#fr_719) <span
+<span id="fn_719"></span>[350:720](myst18.htm#fr_719.md) <span
 id="an_iv.vii-p114.1"></span>
 
 <span id="an_iv.vii-p115"></span> “The Cloud of Unknowing,” cap. iii.
 
-<span id="fn_720"></span>[351:721](myst18.htm#fr_720) <span
+<span id="fn_720"></span>[351:721](myst18.htm#fr_720.md) <span
 id="an_iv.vii-p117.1"></span>
 
 <span id="an_iv.vii-p118"></span> St. Angèle, *loc. cit* ., pp. 210-12
 (English translation, p. 181).
 
-<span id="fn_721"></span>[351:722](myst18.htm#fr_721) <span
+<span id="fn_721"></span>[351:722](myst18.htm#fr_721.md) <span
 id="an_iv.vii-p119.1"></span>
 
 <span id="an_iv.vii-p120"></span> “The Mystical Element of Religion,”
 vol. ii. p. 257.
 
-<span id="fn_722"></span>[352:723](myst18.htm#fr_722) <span
+<span id="fn_722"></span>[352:723](myst18.htm#fr_722.md) <span
 id="an_iv.vii-p121.32"></span>
 
 <span id="an_iv.vii-p122"></span> “En una Noche Escura.” This
 translation, by Mr. Arthur Symons, will be found in vol. ii. of his
 Collected Poems.
 
-<span id="fn_723"></span>[354:724](myst18.htm#fr_723) <span
+<span id="fn_723"></span>[354:724](myst18.htm#fr_723.md) <span
 id="an_iv.vii-p126.1"></span>
 
 <span id="an_iv.vii-p127"></span> St. John of the Cross, “Noche Escura
@@ -1658,40 +1658,40 @@ calls the “night of sense”, to dim contemplation, or the Dionysian
 the “night of the spirit.” The result has been a good deal of confusion,
 in modern writers on mysticism upon the subject of the “Dark Night.”
 
-<span id="fn_724"></span>[355:725](myst18.htm#fr_724) <span
+<span id="fn_724"></span>[355:725](myst18.htm#fr_724.md) <span
 id="an_iv.vii-p129.1"></span>
 
 <span id="an_iv.vii-p130"></span> “The Fire of Love,” bk. ii. cap. vii.
 
-<span id="fn_725"></span>[355:726](myst18.htm#fr_725) <span
+<span id="fn_725"></span>[355:726](myst18.htm#fr_725.md) <span
 id="an_iv.vii-p131.1"></span>
 
 <span id="an_iv.vii-p132"></span> Compare Baker, “Holy Wisdom,” Treatise
 iii. § iv. cap iv.
 
-<span id="fn_726"></span>[355:727](myst18.htm#fr_726) <span
+<span id="fn_726"></span>[355:727](myst18.htm#fr_726.md) <span
 id="an_iv.vii-p133.1"></span>
 
 <span id="an_iv.vii-p134"></span> “Auguries of Innocence.”
 
-<span id="fn_727"></span>[356:728](myst18.htm#fr_727) <span
+<span id="fn_727"></span>[356:728](myst18.htm#fr_727.md) <span
 id="an_iv.vii-p135.2"></span>
 
 <span id="an_iv.vii-p136"></span> Colloquies of Battista Vernazza:
 quoted by Von Hügel, “The Mystical Element of Religion,” vol. i. p. 350.
 
-<span id="fn_728"></span>[357:729](myst18.htm#fr_728) <span
+<span id="fn_728"></span>[357:729](myst18.htm#fr_728.md) <span
 id="an_iv.vii-p137.1"></span>
 
 <span id="an_iv.vii-p138"></span> Vida, cap. xviii. §§ 2, 17, 19.
 
-<span id="fn_729"></span>[357:730](myst18.htm#fr_729) <span
+<span id="fn_729"></span>[357:730](myst18.htm#fr_729.md) <span
 id="an_iv.vii-p139.1"></span>
 
 <span id="an_iv.vii-p140"></span> “El Castillo Interior,” Moradas
 Quintas, cap. i.
 
-<span id="fn_730"></span>[357:731](myst18.htm#fr_730) <span
+<span id="fn_730"></span>[357:731](myst18.htm#fr_730.md) <span
 id="an_iv.vii-p141.1"></span>
 
 <span id="an_iv.vii-p142"></span> *Op. cit., loc. cit.*
@@ -1700,6 +1700,6 @@ id="an_iv.vii-p141.1"></span>
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Ecstasy and Rapture](myst19)
+[Next: VIII. Ecstasy and Rapture](myst19.md)
 
 </div>

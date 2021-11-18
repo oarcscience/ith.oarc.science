@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh12)  [Next](msh14) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh12)  [Next](msh14.md) 
 
 ------------------------------------------------------------------------
 
@@ -294,4 +294,4 @@ comes from this "Niche for Lights" upon this obscure question?
 
 ------------------------------------------------------------------------
 
-[Next: X. Pantheism And Al-Ghazzali, In Al-Mishkat](msh14)
+[Next: X. Pantheism And Al-Ghazzali, In Al-Mishkat](msh14.md)

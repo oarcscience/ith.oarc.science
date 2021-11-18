@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Navajo](../index)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Navajo](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -15,17 +15,17 @@ American](../../index) [Navajo](../index)
 
 ------------------------------------------------------------------------
 
-[Title Page](ncm0)  
-[TABLE OF CONTENTS](ncm1)  
-[Preface](ncm2)  
-[General Introduction](ncm3)  
-[THE STORY OF THE EMERGENCE](ncm4)  
-[NAVAJO CEREMONIAL SONGS](ncm5)  
-[HOZHONJI—BLESSING CHANT](ncm6)  
+[Title Page](ncm0.md)  
+[TABLE OF CONTENTS](ncm1.md)  
+[Preface](ncm2.md)  
+[General Introduction](ncm3.md)  
+[THE STORY OF THE EMERGENCE](ncm4.md)  
+[NAVAJO CEREMONIAL SONGS](ncm5.md)  
+[HOZHONJI—BLESSING CHANT](ncm6.md)  
 SANDPAINTINGS FROM THE HOZHONJI—BLESSING CHANT \*  
 [NOTES ON APPROXIMATE LOCATIONS WHERE NAVAJO CEREMONIES ARE NOW
-GIVEN](ncm8)  
-[GLOSSARY OF NAVAJO CREATION MYTH](ncm9)  
+GIVEN](ncm8.md)  
+[GLOSSARY OF NAVAJO CREATION MYTH](ncm9.md)  
 
 ------------------------------------------------------------------------
 

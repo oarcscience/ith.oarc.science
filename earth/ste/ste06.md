@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste05)  [Next](ste07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste05)  [Next](ste07.md) 
 
 ------------------------------------------------------------------------
 
@@ -283,7 +283,7 @@ think, might
 be sufficient to give us assurance from Divine Writ of the universality
 of the Deluge, and yet *Moses* affords us another argument as
 demonstrative as any, when in the History of the Deluge, he saith,
-[*Gen*.](errata.htm#0) 7. 19. *The waters exceedingly prevailed upon the
+[*Gen*.](errata.htm#0.md) 7. 19. *The waters exceedingly prevailed upon the
 Earth, and all the high Hills that were under the whole Heavens were
 covered*. All the high Hills, he saith, under the whole Heavens, then
 quite round the Earth; and if the Mountains were cover’d quite round the
@@ -547,4 +547,4 @@ this seemeth to be all that is requisite upon this subject.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](ste07)
+[Next: Chapter IV](ste07.md)

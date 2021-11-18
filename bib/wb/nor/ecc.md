@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](psa)  [Next](isa) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](psa)  [Next](isa.md) 
 
 ------------------------------------------------------------------------
 
@@ -818,4 +818,4 @@ dommen over alt som er skjult, enten det er godt eller ondt.
 
 ------------------------------------------------------------------------
 
-[Next: Isaiah](isa)
+[Next: Isaiah](isa.md)

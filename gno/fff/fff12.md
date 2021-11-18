@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff11)  [Next](fff13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff11)  [Next](fff13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -156,9 +156,9 @@ itself that it had entirely shaken off the fetters of the
 background; and it is this endeavour to universalize Christianity which
 is the grand inspiration underlying the best of the Gnostic efforts we
 have to review. But this universalizing does not belong to the line of
-the origins along which General [Christianity](errata.htm#18)
+the origins along which General [Christianity](errata.htm#18.md)
 subsequently traced its descent.
 
 ------------------------------------------------------------------------
 
-[Next: The Ebionites](fff13)
+[Next: The Ebionites](fff13.md)

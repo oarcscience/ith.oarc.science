@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma18)  [Next](oma20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma18)  [Next](oma20.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ chaianyi, they were agents of supernatural power. So Antelope Man would
 call in different men at different times and tell them secretly what to
 do. He revealed to them how things were done and asked if they would
 become members. He would relate everything that had happened, <span
-id="fr_146"></span>[47](#fn_146) how the people had done wrong, and how
+id="fr_146"></span>[47](#fn_146.md) how the people had done wrong, and how
 they are now imitating the real katsina, who can no longer come in
 person. Antelope Man would advise the initiate not to take this lightly,
 not to mock, but to believe. He told them the men who represented
@@ -32,7 +32,7 @@ members. They were instructed in making masks, prayer sticks, songs, and
 prayers. The men who came in would select someone to teach them. Usually
 relatives would instruct relatives. Country Chief would take sacred corn
 meal and go to a member of the society, <span
-id="fr_147"></span>[48](#fn_147) bringing one or two boys whom he wished
+id="fr_147"></span>[48](#fn_147.md) bringing one or two boys whom he wished
 to initiate, saying to the member he selected to reach them, "I have
 brought you a son (or sons) (giving name and clan). You are to be their
 father. You are to teach them the secrets of your society and you are to
@@ -146,13 +146,13 @@ This is the way the katsina are still represented in the pueblo.
 
 ### Footnotes
 
-<span id="fn_146"></span>[63:47](oma19.htm#fr_146) The cacique (Antelope
+<span id="fn_146"></span>[63:47](oma19.htm#fr_146.md) The cacique (Antelope
 chief) at Acorns today tells initiates into the katsina organization
 "everything about the katsina" (White, 1932, pp. 74-75).
 
-<span id="fn_147"></span>[64:48](oma19.htm#fr_147) There are five
+<span id="fn_147"></span>[64:48](oma19.htm#fr_147.md) There are five
 katsina dance groups at Acoma. There is no "Kachina society" as at Zuñi.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part XI](oma20)
+[Next: Wanderings, Part XI](oma20.md)

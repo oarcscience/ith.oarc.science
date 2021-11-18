@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sotu09)  [Next](sotu11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sotu09)  [Next](sotu11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Universe*, by Nathan R. Wood, \[1932\], at Intangible
 Textual Heritage
 
@@ -300,7 +300,7 @@ arithmetical transaction. And it expresses again the basic fact that
 "space measured or divided by motion gives time,"—the triune principle
 of the space-motion-time universe.
 
- <span id="fr_3"></span>[\*](#fn_3) (The physicist uses the constant
+ <span id="fr_3"></span>[\*](#fn_3.md) (The physicist uses the constant
 formula in his work: v = d/t,—"the velocity = the distance ÷ the time."
 Or, which means the same thing, "the rate of motion = the space ÷ the
 time." Or we can put the equation in the other order: d/t = v, "the
@@ -587,7 +587,7 @@ It occurs in present time.
 
 Before its occurrence in present time it is in future time.
 
-After its [occurrence](errata.htm#1) in present time it is in past time.
+After its [occurrence](errata.htm#1.md) in present time it is in past time.
 It cannot be in time without being in all these three elements of time.
 
 <span id="page_163">p. 163</span>
@@ -616,10 +616,10 @@ Ground of the universe.
 
 ### Footnotes
 
-<span id="fn_3"></span>[154:\*](sotu10.htm#fr_3) The general reader may
+<span id="fn_3"></span>[154:\*](sotu10.htm#fr_3.md) The general reader may
 omit the reading of this parenthesis, if he so prefers.
 
 ------------------------------------------------------------------------
 
 [Next: V. The Secret of the Universe and the Problem of Being, or
-Existence](sotu11)
+Existence](sotu11.md)

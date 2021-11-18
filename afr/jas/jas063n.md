@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas062n)  [Next](jas064n)   
- \[[63. The Pea that made a Fortune.](jas063)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas062n)  [Next](jas064n.md)   
+ \[[63. The Pea that made a Fortune.](jas063.md)\]
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Bolte u. Polívka 2:201-203.
 
 ------------------------------------------------------------------------
 
-[Next: Note 64. Settling the Father's Debt.](jas064n)
+[Next: Note 64. Settling the Father's Debt.](jas064n.md)

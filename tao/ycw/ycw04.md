@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](ycw03)  [Next](ycw05) 
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](ycw03)  [Next](ycw05.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ May people who receive these instructions exert all their mental energy
 to put them in practice and be attuned to the Great Lord's boundless
 love to save the world.
 
-### <span id="xref_CC2"></span>2. HEAVEN AND EARTH. <span id="fr_25:1"></span>[1](#fn_25:1)
+### <span id="xref_CC2"></span>2. HEAVEN AND EARTH. <span id="fr_25:1"></span>[1](#fn_25:1.md)
 
 Chou-tze says: "Heaven and Earth are constantly at work to regenerate
 the ten thousand things. That
@@ -39,7 +39,7 @@ coveting promotion and from seeking wealth. He should employ his
 benevolence so as to benefit his fellow men; otherwise the purpose for
 which Heaven has created us will be altogether lost."
 
-### <span id="xref_CC3"></span>A GOOD JUDGE. <span id="fr_26:1"></span>[1](#fn_26:1)
+### <span id="xref_CC3"></span>A GOOD JUDGE. <span id="fr_26:1"></span>[1](#fn_26:1.md)
 
 In olden times, Yü King, judge of the criminal court, was held in such
 high esteem \[on account of his virtue\] that a gateway for four-horse
@@ -75,10 +75,10 @@ important positions." And so things came to pass. His son became prime
 minister and was created a noble, and his grandson, too, was promoted to
 a responsible position in the government.
 
-### <span id="xref_CC4"></span>HUMANENESS REWARDED. <span id="fr_27:1"></span>[1](#fn_27:1)
+### <span id="xref_CC4"></span>HUMANENESS REWARDED. <span id="fr_27:1"></span>[1](#fn_27:1.md)
 
 The Tou family saved people and thus nobly obtained the five-branched
-olea. <span id="fr_27:2"></span>[2](#fn_27:2)
+olea. <span id="fr_27:2"></span>[2](#fn_27:2.md)
 
 Tou Yü-Chün was not yet favored with a son when he was thirty years old.
 One night his grandfather appeared to him in a dream and said: "You may
@@ -126,7 +126,7 @@ escape. You must cherish no doubt about this."
 Yü-Chün's five sons successfully passed the literary examinations and
 were promoted to high official positions.
 
-### <span id="xref_CC5"></span>5. SAVING MANY LIVES. <span id="fr_29:1"></span>[1](#fn_29:1)
+### <span id="xref_CC5"></span>5. SAVING MANY LIVES. <span id="fr_29:1"></span>[1](#fn_29:1.md)
 
 He who took pity on ants attained the highest literary honor.
 
@@ -156,7 +156,7 @@ second. But the Empress Chang Hsien decreed that the younger brother
 should not precede the elder, and Sung Chiao was put at the head of the
 list.
 
-### <span id="xref_CC6"></span>6. THE DOUBLE-HEADED STAKE. <span id="fr_30:1"></span>[1](#fn_30:1)
+### <span id="xref_CC6"></span>6. THE DOUBLE-HEADED STAKE. <span id="fr_30:1"></span>[1](#fn_30:1.md)
 
 He who buried \[out of sight\] the snake \[of bad omen\] was deemed
 worthy of the honor of premiership.
@@ -182,7 +182,7 @@ When Shun was a man, he was made a minister of state.
 
 ### <span id="xref_CC7"></span>7. THE FOUNDATION OF BLISS
 
-All deeds originate in the heart <span id="fr_31:2"></span>[2](#fn_31:2)
+All deeds originate in the heart <span id="fr_31:2"></span>[2](#fn_31:2.md)
 
 All the good acts that are enumerated below begin in the heart and are
 completed, too, in the heart. The heart's inmost recess is the very spot
@@ -195,7 +195,7 @@ be ploughed and harvested. The heart, though spiritual and mysterious,
 yet possesses a solid, tangible soil, which can be watered and tilled.
 
 The soul of a true, earnest gentleman <span
-id="fr_31:3"></span>[3](#fn_31:3) has its root in this obscure recess,
+id="fr_31:3"></span>[3](#fn_31:3.md) has its root in this obscure recess,
 which he examines and purifies in solemn silence and privacy. Merely
 this, a heart to save the world; not one mote of a heart for
 worldliness. Merely this, a heart to love mankind; not a mote of a heart
@@ -224,8 +224,8 @@ result, it is the difference between Heaven and Earth.
 Li Kwang-Yüen, an eminent seeker of truth, was once warned by a strange
 saintly personage, thus: "I see thou art seeking truth. But wouldst thou
 have it for thy private self, saints and gods will have no regard for
-thee." Are not gods and saints <span id="fr_32:4"></span>[4](#fn_32:4)
-as well as sages and holy men <span id="fr_32:5"></span>[5](#fn_32:5)
+thee." Are not gods and saints <span id="fr_32:4"></span>[4](#fn_32:4.md)
+as well as sages and holy men <span id="fr_32:5"></span>[5](#fn_32:5.md)
 bent on saving the world? Some seek saintliness in their pursuit of life
 everlasting and immortality; but if their hearts are tainted with a
 single thought of egotism, they are grievously at fault, though it be
@@ -250,7 +250,7 @@ alone wants to be honored, he alone wants to be easy, he alone wants to
 be happy, he alone wants to enjoy life, he alone wants to be blessed
 with longevity; and to others' poverty, misery, danger, or suffering, be
 is altogether indifferent. It is for this reason that the
-life-will <span id="fr_33:6"></span>[6](#fn_33:6) of others is
+life-will <span id="fr_33:6"></span>[6](#fn_33:6.md) of others is
 disregarded and Heaven's Reason neglected. Only be cured of the disease
 of egotism, and your heart will be broadened even to the vastness of
 infinite space, so that wealth, honor, happiness, comfort, health,
@@ -306,7 +306,7 @@ guidance. They bow before the Buddha and recite his Sutras, always bent
 on preserving reverence and awe. They will never relax their vigilant
 guard over the heart, which will by degrees become pure and bright, free
 from evil thoughts and ready to do good. This enlightenment is called
-their most happy land. <span id="fr_35:7"></span>[7](#fn_35:7) What is
+their most happy land. <span id="fr_35:7"></span>[7](#fn_35:7.md) What is
 necessary, then, for Buddhists as well as Confucians is to avoid
 vacillation and frivolity, which will render you unreliable. Keep the
 heart always restrained by reverence and awe. Otherwise what can be the
@@ -327,13 +327,13 @@ cruelty.
 
 <span id="page_36">p. 36</span>
 
-### <span id="xref_CC14"></span>14. THE VOICE WITHIN <span id="fr_36:8"></span>[8](#fn_36:8)
+### <span id="xref_CC14"></span>14. THE VOICE WITHIN <span id="fr_36:8"></span>[8](#fn_36:8.md)
 
 "Heaven's Reason consists of two words; but they are in your own heart.
 If when you do a thing, there remains in your heart some misgiving, then
 your deed is against Heaven and contrary to Reason. A virtuous man
 punctiliously guards himself when alone, solely to retain Heaven's
-Reason <span id="fr_36:9"></span>[9](#fn_36:9) and to calm human
+Reason <span id="fr_36:9"></span>[9](#fn_36:9.md) and to calm human
 desires. Therefore says Tung Ch'ung-Shu \[a famous Confucian\]: "Attend
 to your duty and scheme not for gain. Look after what you ought to do
 and measure not your merit."
@@ -354,50 +354,50 @@ proceed in evil for half a minute and you will have too much.
 
 ------------------------------------------------------------------------
 
-[Next: Translator's Notes.](ycw05)
+[Next: Translator's Notes.](ycw05.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_25:1"></span>[25:1](#fr_25:1) The term "heaven and earth"
+<span id="fn_25:1"></span>[25:1](#fr_25:1.md) The term "heaven and earth"
 stands for the two divine principles, also called *yang* and *yin*,
 which shape all conditions in the world including the destinies of human
 affairs.
 
-<span id="fn_26:1"></span>[26:1](#fr_26:1) The words printed in large
+<span id="fn_26:1"></span>[26:1](#fr_26:1.md) The words printed in large
 type in the present and the three following notes belong in all original
 Chinese editions to the text of the *Yin Chih Wen* proper. Accordingly
 we have set them in the same type in which our translation of the text
 is set, but have removed them to the Chinese Commentary, because they
 appear to be out of place in the text. Compare note 3 on page 39.
 
-<span id="fn_27:1"></span>[27:1](#fr_27:1) See footnote on page 26, and
+<span id="fn_27:1"></span>[27:1](#fr_27:1.md) See footnote on page 26, and
 note 3, page 39.
 
-<span id="fn_27:2"></span>[27:2](#fr_27:2) Olea or cassia is *kwei* in
+<span id="fn_27:2"></span>[27:2](#fr_27:2.md) Olea or cassia is *kwei* in
 Chinese and symbolizes success, prosperity, and honor.
 
-<span id="fn_29:1"></span>[29:1](#fr_29:1) See footnote on page 26, and
+<span id="fn_29:1"></span>[29:1](#fr_29:1.md) See footnote on page 26, and
 note 3, page 39.
 
-<span id="fn_30:1"></span>[30:1](#fr_30:1) See footnote on page 26, and
+<span id="fn_30:1"></span>[30:1](#fr_30:1.md) See footnote on page 26, and
 note 3, page 39.
 
-<span id="fn_31:2"></span>[31:2](#fr_31:2) This passage resembles the
+<span id="fn_31:2"></span>[31:2](#fr_31:2.md) This passage resembles the
 first line of the *Dhammapada* and may be a translation of it.
 
-<span id="fn_31:3"></span>[31:3](#fr_31:3) *Shih*. The term literally
+<span id="fn_31:3"></span>[31:3](#fr_31:3.md) *Shih*. The term literally
 means "scholar," but it is also used in the sense of "gentleman," being
 a title given to persons of distinction, sometimes equivalent to the
 English "Esquire." It covers the ideal of a truly respectable man who
 deserves the esteem of his fellow-citizens.
 
-<span id="fn_32:4"></span>[32:4](#fr_32:4) The ideals of Taoism.
+<span id="fn_32:4"></span>[32:4](#fr_32:4.md) The ideals of Taoism.
 
-<span id="fn_32:5"></span>[32:5](#fr_32:5) The ideals of the Confucians.
+<span id="fn_32:5"></span>[32:5](#fr_32:5.md) The ideals of the Confucians.
 
-<span id="fn_33:6"></span>[33:6](#fr_33:6) The term *sheng i*, i. e.
+<span id="fn_33:6"></span>[33:6](#fr_33:6.md) The term *sheng i*, i. e.
 "life-will," is a noteworthy anticipation of Schopenhauer's idea of the
 "will to live." The commentator insists that our egotism and vanity is
 the main cause of evil in the world,-an idea apparently imbibed from
@@ -406,14 +406,14 @@ live," as it exists in other creatures, develop without hindrance, which
 will result in an untold exuberance of the display of *T'ien Tao*,
 Heavenly Reason.
 
-<span id="fn_35:7"></span>[35:7](#fr_35:7) The commentator refers to the
+<span id="fn_35:7"></span>[35:7](#fr_35:7.md) The commentator refers to the
 Western Paradise (sukhâvati) of the Pure Land sect, which is here
 interpreted as a state of mind.
 
-<span id="fn_36:8"></span>[36:8](#fr_36:8) These three passages dealing
+<span id="fn_36:8"></span>[36:8](#fr_36:8.md) These three passages dealing
 with the same subject are three consecutive comments as indicated by the
 references.
 
-<span id="fn_36:9"></span>[36:9](#fr_36:9) Heaven's Reason is here not
+<span id="fn_36:9"></span>[36:9](#fr_36:9.md) Heaven's Reason is here not
 *T'ien Tao*, but *T'ien Li*, which means "reason" or "rationality" in
 the commonly accepted sense.

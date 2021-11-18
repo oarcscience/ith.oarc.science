@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi258)  [Next](mtsi260) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi258)  [Next](mtsi260.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ Dog was chasing Rabbit; therefore rabbits are always afraid of dogs.
 
 ------------------------------------------------------------------------
 
-[Next: 60. Rabbit and the Turkeys](mtsi260)
+[Next: 60. Rabbit and the Turkeys](mtsi260.md)

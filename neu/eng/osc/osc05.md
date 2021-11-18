@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc04)  [Next](osc06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc04)  [Next](osc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ can see the old vulgar Valentine shown in shop windows.
 
 ------------------------------------------------------------------------
 
-[Next: (3) Simnel Sunday](osc06)
+[Next: (3) Simnel Sunday](osc06.md)

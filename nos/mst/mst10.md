@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Nostradamus](../index) 
-[Index](index)  [Previous](mst09)  [Next](mst11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Nostradamus](../index.md) 
+[Index](index)  [Previous](mst09)  [Next](mst11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0374517541/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ seem to keynote the life of Nostradamus. People were fascinated by the
 cryptic novelty of the verses which became the sensation of the moment.
 Everybody was reading, puzzling, spotting, quoting and arguing over
 them. Some of the verses were daringly easy of identification. Some
-[seemed](errata.htm#8) to point to certain public personalities but were
+[seemed](errata.htm#8.md) to point to certain public personalities but were
 debatable. These were shuffled among quatrains that no one could pretend
 to understand, or even guess at the persons referred to. Since the
 baffling prophecies were decidedly in the majority, the detractors of
@@ -329,7 +329,7 @@ volume of Ronsard's poems. Softly to himself he quoted:
  And viny slopes, and shivering gold champaigns,  
  And moss-mouthed caverns' shadowy domains,  
  And buds and blossoms and dew-glimmering grass." <span
-id="fr_0"></span>[\*](#fn_0)
+id="fr_0"></span>[\*](#fn_0.md)
 
 </div>
 
@@ -886,9 +886,9 @@ and will then conduct you to other interviews. For the present, adieu."
 
 ### Footnotes
 
-<span id="fn_0"></span>[204:\*](mst10.htm#fr_0) Translation from Ronsard
+<span id="fn_0"></span>[204:\*](mst10.htm#fr_0.md) Translation from Ronsard
 by Morris Bishop.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Nine: The Court of the Valois](mst11)
+[Next: Chapter Nine: The Court of the Valois](mst11.md)

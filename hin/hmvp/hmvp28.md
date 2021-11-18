@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp27)  [Next](hmvp29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp27)  [Next](hmvp29.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -22,12 +22,12 @@ latter religion as not irreconcilably
 
 <span id="img_22500"></span> <span align="CENTER">
 [![BUDDHA.](tn/22500.jpg)  
-Click to enlarge](img/22500.jpg)  
+Click to enlarge](img/22500.jpg.md)  
 BUDDHA.  
 </span>
 
-antagonistic to the former." <span id="fr_217"></span>[\*](#fn_217)
-Colonel Kennedy, <span id="fr_218"></span>[†](#fn_218) on the other
+antagonistic to the former." <span id="fr_217"></span>[\*](#fn_217.md)
+Colonel Kennedy, <span id="fr_218"></span>[†](#fn_218.md) on the other
 hand, argues that the Buddha of the Purānas and Buddha the founder of
 the Buddhist system of religion have nothing in common but the name, and
 that the attempted identification of these two is simply
@@ -40,7 +40,7 @@ them. There can be
 
 <span id="img_22600"></span> <span align="CENTER"> [![BUDDHIST TEMPLE
 AND DAGOBA AT KELANIYA, CEYLON.](tn/22600.jpg)  
-Click to enlarge](img/22600.jpg)  
+Click to enlarge](img/22600.jpg.md)  
 BUDDHIST TEMPLE AND DAGOBA AT KELANIYA, CEYLON.  
 </span>
 
@@ -62,7 +62,7 @@ previously neglected.
 The Purānic account of Buddha will be given, supplemented by further
 particulars of his life and work from Buddhist writings.
 
-In the "Bhāgavata Purāna" <span id="fr_219"></span>[\*](#fn_219) are
+In the "Bhāgavata Purāna" <span id="fr_219"></span>[\*](#fn_219.md) are
 only four short passages respecting him. "At the commencement of the
 Kāli-yuga will Vishnu become incarnate in Kikata, under the name of
 Buddha, the son of Jina, for the purpose of deluding the enemies of the
@@ -73,7 +73,7 @@ gods, steadfast in the religion prescribed by the Vedas." "Praise to the
 pure Buddha, the deluder of the Daityas and the Dānavas." "By his words,
 as Buddha, Vishnu deludes the heretics."
 
-In the Skanda, <span id="fr_220"></span>[†](#fn_220) the legend, of
+In the Skanda, <span id="fr_220"></span>[†](#fn_220.md) the legend, of
 which the Bhāgavata gives but the merest outline, is more fully given.
 There was a dire famine in the earth, owing to the failure of
 
@@ -147,7 +147,7 @@ Divodāsa, he was prevailed upon to terminate the propagation of his
 heretical opinions, and disappeared in a deep well at Gya.
 
 The following legend from the "Siva Purāna" <span
-id="fr_221"></span>[\*](#fn_221) gives another reason for the rise of
+id="fr_221"></span>[\*](#fn_221.md) gives another reason for the rise of
 Buddhism. A famous Rishi named Gautama, with his virtuous wife named
 Ahalyā, performed during a thousand years a severe *tapas* (penance) in
 the southern country near the mountain Brahmādri. During this time there
@@ -197,7 +197,7 @@ separated himself from their communion, and established a new system of
 religion, which for a time eclipsed Brahmanism.
 
 The following extracts, giving an account of Buddha, are from the
-"Lalita-Vistara," <span id="fr_222"></span>[\*](#fn_222) a Buddhist work
+"Lalita-Vistara," <span id="fr_222"></span>[\*](#fn_222.md) a Buddhist work
 from which M. Barthélemy St. Hilaire has taken the materials for his
 work, "La Boudda et sa Religion."
 
@@ -215,7 +215,7 @@ Buddha
 
 <span id="img_23200"></span> <span align="CENTER">
 [![BUDDHA.](tn/23200.jpg)  
-Click to enlarge](img/23200.jpg)  
+Click to enlarge](img/23200.jpg.md)  
 BUDDHA.  
 </span>
 
@@ -431,7 +431,7 @@ Kusināgara, when his vital strength began to fail. He halted in a
 forest, and, while sitting under a Sāl tree, he gave up the ghost, or,
 as a Buddhist would say, entered into Nirvāna."
 
-The following verses by Dr. Muir <span id="fr_223"></span>[\*](#fn_223)
+The following verses by Dr. Muir <span id="fr_223"></span>[\*](#fn_223.md)
 are a translation of part of the "Lalita-Vistara," from which the
 quotations given above were made:—
 
@@ -655,7 +655,7 @@ quotations given above were made:—
 
 Buddhism, the system of religion taught by Buddha, starts with the
 doctrine common to it and Hinduism of transmigration. <span
-id="fr_224"></span>[\*](#fn_224) It then goes on to say that pain and
+id="fr_224"></span>[\*](#fn_224.md) It then goes on to say that pain and
 
 <span id="page_244">p. 244</span>
 
@@ -682,7 +682,7 @@ does not express friendship, or the feeling of particular affection
 which a man has for one or more of his fellow-creatures, but that
 universal feeling which inspires us with good-will towards all men and
 constant willingness to help them." <span
-id="fr_225"></span>[\*](#fn_225)
+id="fr_225"></span>[\*](#fn_225.md)
 
 There is one peculiarity of the followers of Buddha as compared with the
 Hindus, viz. the preservation of and veneration for relics of their
@@ -696,7 +696,7 @@ the dead body of Sati into fifty-one parts, each of which is now
 enshrined in a temple, we have no record of relics being preserved by
 the Hindus. But the Buddhists profess to have carefully preserved parts
 of their great leader, and enshrine them in Dagobas. One of the most
-celebrated of these is represented on page [226](#page_226). A tooth of
+celebrated of these is represented on page [226](#page_226.md). A tooth of
 Buddha is believed to be kept in it; in others a single hair is most
 religiously guarded. These Dagobas are not temples, though in some cases
 they form part of buildings that are, or have been, used for worship.
@@ -705,26 +705,26 @@ they form part of buildings that are, or have been, used for worship.
 
 ### Footnotes
 
-<span id="fn_217"></span>[225:\*](hmvp28.htm#fr_217) Goldstücker,
+<span id="fn_217"></span>[225:\*](hmvp28.htm#fr_217.md) Goldstücker,
 Chambers's Cyclopædia.
 
-<span id="fn_218"></span>[225:†](hmvp28.htm#fr_218) "Hindu Mythology,"
+<span id="fn_218"></span>[225:†](hmvp28.htm#fr_218.md) "Hindu Mythology,"
 p. 248.
 
-<span id="fn_219"></span>[227:\*](hmvp28.htm#fr_219) Kennedy, "Hindu
+<span id="fn_219"></span>[227:\*](hmvp28.htm#fr_219.md) Kennedy, "Hindu
 Mythology," p. 250.
 
-<span id="fn_220"></span>[227:†](hmvp28.htm#fr_220) Ibid., p. 423.
+<span id="fn_220"></span>[227:†](hmvp28.htm#fr_220.md) Ibid., p. 423.
 
-<span id="fn_221"></span>[230:\*](hmvp28.htm#fr_221) Kennedy, "Hindu
+<span id="fn_221"></span>[230:\*](hmvp28.htm#fr_221.md) Kennedy, "Hindu
 Mythology," p. 253.
 
-<span id="fn_222"></span>[231:\*](hmvp28.htm#fr_222) Max-Müller,
+<span id="fn_222"></span>[231:\*](hmvp28.htm#fr_222.md) Max-Müller,
 "Chips," vol. i. p. 210 ff.
 
-<span id="fn_223"></span>[239:\*](hmvp28.htm#fr_223) O. S. T., ii. 496.
+<span id="fn_223"></span>[239:\*](hmvp28.htm#fr_223.md) O. S. T., ii. 496.
 
-<span id="fn_224"></span>[243:\*](hmvp28.htm#fr_224) In Hinduism it is
+<span id="fn_224"></span>[243:\*](hmvp28.htm#fr_224.md) In Hinduism it is
 the transmigration of souls from the lowest to the highest scale, until
 they become fit for absorption into the Divine from whence they came. At
 its close each life is carefully judged, and when next the person
@@ -740,9 +740,9 @@ no memory of previous experience, so that each life is separate and
 distinct from what went before. It is a formal rather than a real
 difference.
 
-<span id="fn_225"></span>[244:\*](hmvp28.htm#fr_225) Burnouf, quoted by
+<span id="fn_225"></span>[244:\*](hmvp28.htm#fr_225.md) Burnouf, quoted by
 Max-Müller, "Chips," i. 222.
 
 ------------------------------------------------------------------------
 
-[Next: 10. The Kalki Avatāra](hmvp29)
+[Next: 10. The Kalki Avatāra](hmvp29.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](wsl03)  [Next](wsl05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](wsl03)  [Next](wsl05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NJRA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Wanderer in the Sprit Lands*, by Franchezzo (A. Farnese), \[1896\],
 at Intangible Textual Heritage
 
@@ -172,4 +172,4 @@ anguish, for I felt it must be too late now to undo one single act.
 ------------------------------------------------------------------------
 
 [Next: Chapter III.--Hope--Wanderings on the Earth Plane--A Door of
-Spiritual Sight](wsl05)
+Spiritual Sight](wsl05.md)

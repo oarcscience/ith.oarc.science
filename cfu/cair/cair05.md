@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](cair04)  [Next](cair06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](cair04)  [Next](cair06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Confucianism and Its Rivals*, by Herbert A. Giles, \[1915\], at
 Intangible Textual Heritage
 
@@ -278,7 +278,7 @@ entirely foreign to the Chinese conception of a Supreme Being.
 Thus, when asked what constituted wisdom, Confucius replied, "To
 cultivate earnestly our duty towards our neighbour, and to reverence
 spiritual beings while maintaining always a due reserve, <span
-id="fr_2"></span>[1](#fn_2) may be called wisdom."
+id="fr_2"></span>[1](#fn_2.md) may be called wisdom."
 
 Again, when a disciple applied for guidance in serving the spirits of
 the dead, Confucius said, "Until you are able to serve men, how can you
@@ -597,7 +597,7 @@ effort to wean the Chinese people, soaked, so to speak, in the authority
 of centuries, from this belief in the natural goodness of mankind, to
 another belief, in exactly opposite terms, which peoples this world with
 successive generations of little children born in sin. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 This doctrine of original purity, coupled with the practice of ancestral
 worship, together form an important cleavage, not easy to be bridged
@@ -706,7 +706,7 @@ In wondrous and ceaseless ways!</span>
 <span class="contnote">\[paragraph continues\]</span> This means, says
 K‘ung Chi, that "what God does, that is God"—a remarkable statement with
 which may be compared Aristotle's conception of God as ἐνέργεια,
-existence in action, or *actus purus*. <span id="fr_4"></span>[1](#fn_4)
+existence in action, or *actus purus*. <span id="fr_4"></span>[1](#fn_4.md)
 
 While fully recognizing the sincerity and value of the efforts of the
 earlier disciples to keep alight what was to them the sacred flame of
@@ -912,18 +912,18 @@ based upon the will of God.
 
 ### Footnotes
 
-<span id="fn_2"></span>[74:1](cair05.htm#fr_2) Dr Legge has "to keep
+<span id="fn_2"></span>[74:1](cair05.htm#fr_2.md) Dr Legge has "to keep
 aloof from them," which would be equivalent to "have nothing to do with
 them." Confucius seems rather to have meant "no familiarity."
 
-<span id="fn_3"></span>[84:1](cair05.htm#fr_3) "Original sin, with which
+<span id="fn_3"></span>[84:1](cair05.htm#fr_3.md) "Original sin, with which
 all mankind, descended from fallen Adam by natural generation, are
 universally infected from their conception and birth." Parkhurst on
 Romans v. 12.
 
-<span id="fn_4"></span>[88:1](cair05.htm#fr_4) Kindly suggested by Prof.
+<span id="fn_4"></span>[88:1](cair05.htm#fr_4.md) Kindly suggested by Prof.
 James Ward.
 
 ------------------------------------------------------------------------
 
-[Next: Lecture IV. B.C. 300-200](cair06)
+[Next: Lecture IV. B.C. 300-200](cair06.md)

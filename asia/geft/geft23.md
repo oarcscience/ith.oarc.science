@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft22)  [Next](geft24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft22)  [Next](geft24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ children went out to the fields, but this old man sat by the fire, and
 if they did not show him great respect, he kept them out of the house.
 His daughters-in-law quarrelled with him, and ended by turning him out
 of the house. He begged of his eldest daughter-in-law, saying: 'Give me
-a jar of flour, an egg, <span id="fr_43"></span>[1](#fn_42) and an awl,
+a jar of flour, an egg, <span id="fr_43"></span>[1](#fn_42.md) and an awl,
 then I shall go away.' She gave him these things.
 
 The old man went on day and night, and came to the
@@ -55,7 +55,7 @@ When they had reached the other side, the *demi* said to the old man: 'I
 shall drive in game, and thou canst meet it here.' So the *demi* went
 and drove in the game. The old man was afraid of wild beasts, and hid
 himself in the forest, where he found a dead red-breast. <span
-id="fr_44"></span>[1](#fn_43) When the *demi* returned, he asked: 'What
+id="fr_44"></span>[1](#fn_43.md) When the *demi* returned, he asked: 'What
 hast thou done with the game?' The old man replied: 'Thou didst not
 drive the game properly, or how could any beast that walks on earth
 escape from me, that could catch this bird on the wing?'
@@ -98,18 +98,18 @@ and jackals behind him. The old, man cried to the *demi*: 'Dost thou not
 owe me more than ten wolves and jackals?' The wolves and jackals
 exchanged glances, and said: 'It would seem that this *demi* has
 betrayed us.' They threw themselves on the *demi* and turned him into
-dust. <span id="fr_45"></span>[1](#fn_44)
+dust. <span id="fr_45"></span>[1](#fn_44.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_42"></span>[129:1](geft23.htm#fr_43) A variant substitutes
+<span id="fn_42"></span>[129:1](geft23.htm#fr_43.md) A variant substitutes
 a cheese for an egg.
 
-<span id="fn_43"></span>[130:1](geft23.htm#fr_44) ? Finch.
+<span id="fn_43"></span>[130:1](geft23.htm#fr_44.md) ? Finch.
 
-<span id="fn_44"></span>[132:1](geft23.htm#fr_45) Another Mingrelian
+<span id="fn_44"></span>[132:1](geft23.htm#fr_45.md) Another Mingrelian
 version of this story tells that the *demi* took the old man home, and
 left him his house, wife and children. As he was going away, the jackal
 met him, and asked whither he was going. The *demi* replied that the old
@@ -129,4 +129,4 @@ Sketches of Persia, ch. xvi. The Story of Ameen Beg of Ispahan,' and
 
 ------------------------------------------------------------------------
 
-[Next: VI. Sanartia](geft24)
+[Next: VI. Sanartia](geft24.md)

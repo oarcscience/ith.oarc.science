@@ -1,9 +1,9 @@
-<span class="small">[Sacred-Texts](../index)  [Islam](index) </span>
+<span class="small">[Sacred-Texts](../index)  [Islam](index.md) </span>
 
 ------------------------------------------------------------------------
 
-<span class="small">Jump to: [Translation](#translation)
-[Notes](#notes)</span>
+<span class="small">Jump to: [Translation](#translation.md)
+[Notes](#notes.md)</span>
 
 ------------------------------------------------------------------------
 

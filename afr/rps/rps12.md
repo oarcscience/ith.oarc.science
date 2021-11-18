@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps11)  [Next](rps13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps11)  [Next](rps13.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ WORLD'S CAPITAL.
 ------------------------------------------------------------------------
 
 [Next: Chapter 11. His and Her Majesty King Alpha and Queen Omega,
-Marriage Diploma](rps13)
+Marriage Diploma](rps13.md)

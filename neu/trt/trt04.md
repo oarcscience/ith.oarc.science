@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt03)  [Next](trt05) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt03)  [Next](trt05.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ and he mounted, and rode fast till he came to Carlion.
 
 ------------------------------------------------------------------------
 
-[Next: The Sword Excalibur](trt05)
+[Next: The Sword Excalibur](trt05.md)

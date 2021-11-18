@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale08)  [Next](tale10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale08)  [Next](tale10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ The fish of four
 <span id="img_04900"></span>
 
 [![I BECAME HALF MAN AND HALF MARBLE](tn/04900.jpg)  
-Click to enlarge](img/04900.jpg)  
+Click to enlarge](img/04900.jpg.md)  
 I BECAME HALF MAN AND HALF MARBLE  
 
 <span id="page_50">p. 50</span> <span id="page_51">p. 51</span>
@@ -170,4 +170,4 @@ family happy for the rest of their days.
 ------------------------------------------------------------------------
 
 [Next: Story of the Three Calenders, Sons of Kings, and of Five Ladies
-of Bagdad](tale10)
+of Bagdad](tale10.md)

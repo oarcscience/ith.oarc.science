@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lasi14)  [Next](lasi16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lasi14)  [Next](lasi16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBUI6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBUI6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Legends and Stories of Ireland*, by Samuel Lover, \[1831, 1834\], at
 Intangible Textual Heritage
 
@@ -407,4 +407,4 @@ and a fine pair they are this minit."
 
 ------------------------------------------------------------------------
 
-[Next: The Priest's Ghost](lasi16)
+[Next: The Priest's Ghost](lasi16.md)

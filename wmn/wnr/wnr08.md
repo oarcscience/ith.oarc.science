@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr07)  [Next](wnr09) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr07)  [Next](wnr09.md) 
 
 ------------------------------------------------------------------------
 
@@ -346,4 +346,4 @@ constrained to wonder how long such a situation can exist.
 
 ------------------------------------------------------------------------
 
-[Next: VII. When Should a Woman Avoid Having Children?](wnr09)
+[Next: VII. When Should a Woman Avoid Having Children?](wnr09.md)

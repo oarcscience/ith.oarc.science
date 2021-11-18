@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh18) 
-[Next](iggh20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh18.md) 
+[Next](iggh20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -64,7 +64,7 @@ disappear. And she drew her breath, and stood, like a startled fawn,
 with wondering eyes and moving breast, while the colour came and went
 upon her cheek. And then she said to herself: It was as I thought, and
 that old Brahman was some deity, descending in a mortal form to try me.
-For his eyelids never moved <span id="fr_32"></span>[z](#fn_32), and his
+For his eyelids never moved <span id="fr_32"></span>[z](#fn_32.md), and his
 body cast no shadow, and he knew all that had occurred to us as no
 mortal could have known it. But now, let me remember his words, and
 stand, if I can, between my husband and my father's anger. And as she
@@ -75,10 +75,10 @@ the street.
 
 ### Footnotes
 
-<span id="fn_32"></span>[64:z](iggh19.htm#fr_32) A peculiarity of gods,
+<span id="fn_32"></span>[64:z](iggh19.htm#fr_32.md) A peculiarity of gods,
 denoted by fixed epithets: as *animisha*, *stabdha-lochana*, one '*whose
 eyes are fixed*,' '*who does not wink*.'
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Nectar](iggh20)
+[Next: XVII. Nectar](iggh20.md)

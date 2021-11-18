@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Previous](chap05) [Next](chap07)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Previous](chap05) [Next](chap07.md)
 
 ------------------------------------------------------------------------
 
@@ -868,4 +868,4 @@ have only to fit ourselves for it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Reincarnation](chap07)
+[Next: Chapter VII: Reincarnation](chap07.md)

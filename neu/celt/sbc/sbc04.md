@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sbc03)  [Next](sbc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sbc03)  [Next](sbc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Among certain savages the strip cut off at circumcision is bound on the
 arm; and in the Jewish ritual some of the blood mingled with wine is
 quaffed by the operating priest. What is tasted by man is a
 covenant-sign for deity. Clay Trumbull <span
-id="fr_58"></span>[1](#fn_58) says: "Even down to modern times, the rite
+id="fr_58"></span>[1](#fn_58.md) says: "Even down to modern times, the rite
 of circumcision has included a recognition, however unconscious, of the
 primitive blood-friendship rite, by the custom of the ecclesiastical
 operator, as God's representative, receiving into his mouth, and thereby
@@ -40,7 +40,7 @@ corpse is brought into the hall where Ivain is, and then begins to
 bleed, whereupon the men feel confident that the murderer must be hidden
 there, and they renew their search. The soul is regarded as speaking
 through or by the blood. In the Highlands <span
-id="fr_59"></span>[1](#fn_59) I feel confident that there are remnants
+id="fr_59"></span>[1](#fn_59.md) I feel confident that there are remnants
 of such a belief, pointing back to a belief similar to the thought of
 the Hebrews when they held that "the blood is the life" (Deuteronomy
 xii. 23). To be remembered, too, are Homer's expressions: "The blood ran
@@ -117,7 +117,7 @@ feelings of sorrow and horror the multitude slowly and silently
 dispersed, many, if not most of the company, placing a small piece of
 bread under a stone, which, according to a superstitious tradition,
 would prevent after-dreams of the unfortunate Alexander
-Mackintosh." <span id="fr_60"></span>[1](#fn_60)
+Mackintosh." <span id="fr_60"></span>[1](#fn_60.md)
 
 Blood innocently shed might readily call out for vengeance; for the soul
 was in the blood.
@@ -133,7 +133,7 @@ Gaeldom, but current in a wider area. For instance, the minister of
 Pitsligo testifies: "The opinion prevailed till not very long ago, and
 even yet lingers, that in case of murder, if the murderer touches the
 corpse, blood flows from the wounds." <span
-id="fr_61"></span>[2](#fn_61) To touch the body is therefore a sort of
+id="fr_61"></span>[2](#fn_61.md) To touch the body is therefore a sort of
 folk-ritual to signify that one is at peace with the deceased. In a case
 of murder, there is a noted instance on record in the Highlands. Let me
 quote:
@@ -144,7 +144,7 @@ Fraser, for the discovery of
 <span id="page_42">p. 42</span>
 
 the murderer of Donald Mackwilliam Chui (*i.e.* Dhuibh): <span
-id="fr_62"></span>[1](#fn_62)
+id="fr_62"></span>[1](#fn_62.md)
 
 “The signal providence that appeared in this matter was, that though the
 dead body had layn upon the sod within the flood mark, and the sea ebbed
@@ -207,11 +207,11 @@ M‘Keanire, who is reputed by all men to be the murtherer, having run for
 it as guilty; and we are in suspense for two years; the land of Finask
 (interim patitur justus) blasted upon, neither crop nor cattle thrive:
 Innocuus clamat sanguis; (innocent) blood cries." <span
-id="fr_63"></span>[1](#fn_63)
+id="fr_63"></span>[1](#fn_63.md)
 
 In the Isle of Man it is unlucky to let blood, especially that of a king
 or person of high rank, fall on the ground. Moore <span
-id="fr_64"></span>[2](#fn_64) states: "It is remembered to this day that
+id="fr_64"></span>[2](#fn_64.md) states: "It is remembered to this day that
 when *Iliam Dhone*, William Christian, was shot at Hango Hill in 1662,
 blankets were spread where he stood, so that not one drop of his blood
 should touch the earth." It is thought that this may have some
@@ -227,32 +227,32 @@ case which came before the High Court of Justiciary at
 <span class="contnote">\[paragraph continues\]</span> Edinburgh in 1688;
 to the *Lay of the Niblungs*, where by this ordeal Kriemhild fastened
 upon Hagan the guilt of murdering her husband Siegfried; <span
-id="fr_65"></span>[1](#fn_65) in the sixteenth century Christian II. of
+id="fr_65"></span>[1](#fn_65.md) in the sixteenth century Christian II. of
 Denmark, by commanding those present to place their right hand on the
 breast of the slain, brought about the detection and confession of the
-murderer, who was at once beheaded. <span id="fr_66"></span>[2](#fn_66)
+murderer, who was at once beheaded. <span id="fr_66"></span>[2](#fn_66.md)
 
 An analogous practice is that of swearing on the skull, of which a case
 is reported at a recent criminal trial in Germany. <span
-id="fr_67"></span>[3](#fn_67)
+id="fr_67"></span>[3](#fn_67.md)
 
 Alongside of the blood or body-essence observation falls to be directed
 to the breath, likewise an essence. The soul is held to be especially in
 the breath. Breath has long ago been supposed to be the only part of man
-which will survive him. <span id="fr_68"></span>[4](#fn_68) Breathing
+which will survive him. <span id="fr_68"></span>[4](#fn_68.md) Breathing
 accompanies life. An old Highland expression I have heard used by one
 lamenting a mother's death signifies: 'her breath is not before
-me'; <span id="fr_69"></span>[5](#fn_69) at death I have heard it said
+me'; <span id="fr_69"></span>[5](#fn_69.md) at death I have heard it said
 that the soul left the body in the form of a white vapour or
-smoke, <span id="fr_70"></span>[6](#fn_70)—expressions paralleled
-elsewhere, as among the Slavs. <span id="fr_71"></span>[7](#fn_71) The
+smoke, <span id="fr_70"></span>[6](#fn_70.md)—expressions paralleled
+elsewhere, as among the Slavs. <span id="fr_71"></span>[7](#fn_71.md) The
 regular Highland expression for
 
 <span id="page_46">p. 46</span>
 
 <span class="contnote">\[paragraph continues\]</span> 'yielding the
 ghost, giving up the breath in death' is: 'thug e suas an deò.' <span
-id="fr_72"></span>[1](#fn_72) The Indo-European root of *deò* signifies
+id="fr_72"></span>[1](#fn_72.md) The Indo-European root of *deò* signifies
 'to breathe': we may perhaps infer from the connotation of the various
 cognates that the transition of meanings would have been in the
 following series: breath, soul, soul of the dead, daimon, god. From the
@@ -301,8 +301,8 @@ Green of the Brae, Brae-field). Another
 
 <span id="page_48">p. 48</span>
 
-phrase is: *ghoir an tāsc* <span id="fr_73"></span>[1](#fn_73) = the
-ghost yelled. Besides *deō*, <span id="fr_74"></span>[2](#fn_74) which
+phrase is: *ghoir an tāsc* <span id="fr_73"></span>[1](#fn_73.md) = the
+ghost yelled. Besides *deō*, <span id="fr_74"></span>[2](#fn_74.md) which
 is the more spiritual aspect of the breath, or the breath as conjoined
 to the soul, there is another word *anail*, breath, Old Irish *anāl*,
 Welsh *anadl*, *anal*, from a root *an*, to breathe; Gothic *anan*, to
@@ -333,7 +333,7 @@ worshipped as gods, meeting us in the
 highest Norse gods, and in the Anglo-Saxon *ése*, the lower spiritual
 beings, the elves. Parallel in concept, though from a different root, is
 the meaning discoverable in English soul; German *Seele*, Gothic
-*saiwala*, which Persson <span id="fr_75"></span>[1](#fn_75) equates
+*saiwala*, which Persson <span id="fr_75"></span>[1](#fn_75.md) equates
 with Old Bulgarian *si-la*, force, power; Lithuanian *sy-là*, force,
 power; Prussian *sei-lin*, zeal, industry, exertion, effort; plural
 *sei-lins*, mind; *seilisku*, devotion; *no-sei-lis*, spirit: even were
@@ -372,7 +372,7 @@ Germanic races which, as we have seen, use a different root to express
 embrace the common element of 'motion,'—have also a different root to
 express that of God, German *Gott*. According to the late W. Thomsen, of
 Copenhagen, the name means 'He to whom sacrifice is made, He who is
-worshipped'; Professor Höffding <span id="fr_76"></span>[1](#fn_76)
+worshipped'; Professor Höffding <span id="fr_76"></span>[1](#fn_76.md)
 thinks of a relationship between the root in God and that in *giessen*,
 'to pour,' with Greek χέειν whose root χυ is taken as cognate with
 Sanskrit *hu*, whence *huta*, 'sacrificed,' also 'he to whom sacrifices
@@ -384,7 +384,7 @@ phenomena,' and this word is taken as cognate with Sanskrit, *hutá*,
 <span id="page_51">p. 51</span>
 
 <span class="contnote">\[paragraph continues\]</span> 'he curses ';
-Lithuanian *zawėti*, 'to charm.' <span id="fr_77"></span>[1](#fn_77)
+Lithuanian *zawėti*, 'to charm.' <span id="fr_77"></span>[1](#fn_77.md)
 This would harmonise with the derivation of *religio*, 'religion,' from
 L. *religare*, 'to bind,' in the sense of what a man binds on the deity
 acknowleged by him.
@@ -393,7 +393,7 @@ Both paths are animistic, *i.e.* they read phenomena in terms of the
 soul. Both acknowledge the worship of spirits: the Latins worshipped the
 *mânes*, a word cognate with the Old Latin *mânus*, 'good,' hence 'the
 good spirits' of ancestors; the Celts worshipped the *sīde*, <span
-id="fr_78"></span>[2](#fn_78) known also as *na daoine maith*, 'the good
+id="fr_78"></span>[2](#fn_78.md) known also as *na daoine maith*, 'the good
 people'—all vaguely subordinated to the ancestral spirit, God. All that
 is the work of and under the protection of so exalted a power is to the
 Celt holy or *naomh*; Early Irish *nóem*, *nóeb*, which includes perhaps
@@ -464,7 +464,7 @@ need not have been arrived at among all races in the same way.
 
 The serpent, the deer, the horse, the wolf, are all in this category;
 *e.g*. a Welsh belief seems to have been that all lizards were formerly
-women; <span id="fr_79"></span>[1](#fn_79) every farmhouse had two
+women; <span id="fr_79"></span>[1](#fn_79.md) every farmhouse had two
 snakes: "They never appeared, until just before the death of the master
 or mistress of the house; then the snake died." Here may be
 
@@ -472,11 +472,11 @@ or mistress of the house; then the snake died." Here may be
 
 recalled the rite of pounding the embers from a peat fire in one's
 stocking at the threshold, on the outer door-step, on St. Bride's
-day, <span id="fr_80"></span>[1](#fn_80)—the operant finally saying, "I
+day, <span id="fr_80"></span>[1](#fn_80.md)—the operant finally saying, "I
 shall not injure the serpent nor shall the serpent injure me." The old
 Lochaber hunter, Domhnull Mac Fhionnlaidh, was buried at his request in
 the skin of the last deer slain by him. <span
-id="fr_81"></span>[2](#fn_81) And quite lately, in a Highland Deer
+id="fr_81"></span>[2](#fn_81.md) And quite lately, in a Highland Deer
 Forest, a case came to my notice of a workman who, when engaged on
 repairing a cottage, sat down to take his meal outside at mid-day when a
 hind passed by, narrowly scanned him, and having entered the house went
@@ -540,7 +540,7 @@ home. In some houses still a soft low music is heard at death.
 3\. Daimonism. Here daimonic influences are recognised wherein there is
 individual consciousness connecting the thought of guardian spirit with
 localities. From the rites followed at Loch Mo-Nāir, <span
-id="fr_82"></span>[1](#fn_82) Strathnaver, one may infer a former belief
+id="fr_82"></span>[1](#fn_82.md) Strathnaver, one may infer a former belief
 in a guardian spirit presiding over healing; generally at sacred wells
 the later Christian saints have succeeded to, and supplanted the
 memories of, the pre-Christian guardian spirits. There are spirits of
@@ -632,7 +632,7 @@ occasions, and that "women in childbirth often wear the trousers of the
 father of the child round the neck, the effect of which is supposed to
 be the lightening of the pains of labour. I have myself seen a case of
 this in Dublin, about two years ago." <span
-id="fr_83"></span>[1](#fn_83)
+id="fr_83"></span>[1](#fn_83.md)
 
 In Man a wife must keep her husband's trousers beside her in bed to
 prevent her infant being carried off by the fairies (Moore, 157). There
@@ -653,7 +653,7 @@ belief, as I never met with any similar fancy during the thirty-eight
 years’ experience in that county."
 
 Attempts to shift the pains of childbirth from the mother to the father
-have been instanced by Mr. Frazer <span id="fr_84"></span>[1](#fn_84)
+have been instanced by Mr. Frazer <span id="fr_84"></span>[1](#fn_84.md)
 from Ireland, Scotland, France, Germany and Esthonia. For resorting to
 such enchantments Eufame Macalyne was burned alive on the Castle-hill at
 Edinburgh in 1591. When James VI. was born, a lady of rank, Lady
@@ -702,7 +702,7 @@ the
 
 <span id="page_62">p. 62</span>
 
-entrance of a spirit-part. <span id="fr_85"></span>[1](#fn_85) The Irish
+entrance of a spirit-part. <span id="fr_85"></span>[1](#fn_85.md) The Irish
 survival of wearing the trousers of the father can surely be only a
 relic of an earlier rite, wherein the father was credited with having
 birth-pains, and may be paralleled among non-Aryans from S. India.
@@ -721,7 +721,7 @@ man is treated as the other Hindus treat their women on such occasions.
 He is not allowed to leave his bed, but has everything needful brought
 to him."
 
-Tylor <span id="fr_86"></span>[2](#fn_86) shows that it exists among the
+Tylor <span id="fr_86"></span>[2](#fn_86.md) shows that it exists among the
 Dravidians, though not known as an Aryan Hindoo practice: a man at the
 birth of his first-born son or daughter by the chief wife, or for any
 son afterwards, will retire to bed for a lunar month, living principally
@@ -748,7 +748,7 @@ implicates some explanation of the introduction of life into the world.
 It implies sympathetic magic, as when a father diets himself from
 instinctive physical sympathy with the new-born infant; or by simulating
 child-birth it relieves the real mother by magical transference of
-pain. <span id="fr_87"></span>[1](#fn_87)
+pain. <span id="fr_87"></span>[1](#fn_87.md)
 
 A digression may be allowed here. If there be a rite to implicate some
 theory of the introduction of life, such as that when you are born you
@@ -767,11 +767,11 @@ the conception of *An Fhaire Chlaidh*, the belief that the soul of the
 last buried keeps watch until the next funeral comes to the churchyard
 and is grave-guardian, fall in with such a view? Instances from the
 Highlands will be given in the fourth chapter (cf. [p.
-35](sbc03.htm#page_35) as to 'sitting with the dead').
+35](sbc03.htm#page_35) as to 'sitting with the dead'.md).
 
 The belief that even the bones of the dead could be a source of
 paternity is traceable in the Highlands. Sir Walter Scott, in his
-notes <span id="fr_88"></span>[1](#fn_88) to Canto III. of the *Lady of
+notes <span id="fr_88"></span>[1](#fn_88.md) to Canto III. of the *Lady of
 the Lake*, states that it was the account in the Laird of Macfarlane's
 Manuscript that suggested to him the idea of Brian the Hermit, 'bred
 between the living and the dead'; and the late Rev. A. Clerk, LL.D.,
@@ -785,7 +785,7 @@ as an able and devout
 <span id="page_65">p. 65</span>
 
 man, totally different from the savage seer depicted in the poem." <span
-id="fr_89"></span>[1](#fn_89) Dr. Clerk writes the name as *Gille Dubh
+id="fr_89"></span>[1](#fn_89.md) Dr. Clerk writes the name as *Gille Dubh
 mac ’Ille Chnàmhlaich*, or the Black Child, Son of the Bones, "for such,
 unpronounceable as it appears, is the true designation; and though the
 story may be familiar to many, we give the substance of it here as
@@ -814,7 +814,7 @@ the slain, left there to bleach under summer's sun and winter's snow,
 which proves that the conflict was between parties animated by the
 deadliest hate toward each other; for rarely indeed was such dishonour
 shewn to the dead in the Highlands." From this point I crave leave to
-quote the Laird of Macfarlane's <span id="fr_90"></span>[1](#fn_90)
+quote the Laird of Macfarlane's <span id="fr_90"></span>[1](#fn_90.md)
 words: "The people report of a battell focht in old tymes, hard by thar
 Church, and how long after, hirds feeding ther cattell in that place, in
 a cold season, made a fyre of dead men's bones ther scattered, who being
@@ -852,7 +852,7 @@ about the reign of James VI., and composed by his stepmother to Domhull
 Gorm Macdonald, speaks of Brian in terms which put him alongside of
 Cuchulainn, Ossian, Oscar; and in a context, where the strength of sea
 and sun are invoked, so much so that Miss Tolmie notes Brian as
-signifying 'Divine Power.' <span id="fr_91"></span>[1](#fn_91)
+signifying 'Divine Power.' <span id="fr_91"></span>[1](#fn_91.md)
 
 A Highland sleep-blessing is to the following effect:
 
@@ -860,11 +860,11 @@ I lie down to-night with mild Mary and her son,
 With Michael the bright-white, and with Bride beneath her mantle.  
 I lie down with God, and may God lie down with me;  
 I shall not lie down with Briain, and Briain shall not lie down with
-me. <span id="fr_92"></span>[2](#fn_92)
+me. <span id="fr_92"></span>[2](#fn_92.md)
 
 <span class="contnote">\[paragraph continues\]</span> Though similar
 sleep-blessings are current in Ireland, Dr. Douglas Hyde <span
-id="fr_93"></span>[3](#fn_93) remarks that he has never elsewhere heard
+id="fr_93"></span>[3](#fn_93.md) remarks that he has never elsewhere heard
 or seen 'this very curious expression,'
 
 <span id="page_68">p. 68</span>
@@ -874,7 +874,7 @@ now-a-days connotes something similar to Satan. Though apparently
 forgotten in Ireland, it is not yet extinct in the Isles. It there bears
 the force of "angel, archangel, god, divinity, hence god of evil; a term
 of exclamation. *A bhriain* = thou god; *a bhriain Mhìcheil* = thou god
-Michael." <span id="fr_94"></span>[1](#fn_94) The name Brian is met with
+Michael." <span id="fr_94"></span>[1](#fn_94.md) The name Brian is met with
 in a poem where St. Michael, as the Gaelic Neptune and patron of the
 sea, is spoken of as Brian Michael; in other words, St. Michael,
 venerated among the Celts, has taken the place of the deity Brian.
@@ -886,7 +886,7 @@ Thou didst take the steed of Brian Michael,
 He was without bit in his mouth,  
 Thou didst ride him on the wing,  
 Thou didst leap over the knowledge of Nature. <span
-id="fr_95"></span>[2](#fn_95)
+id="fr_95"></span>[2](#fn_95.md)
 
 <span class="contnote">\[paragraph continues\]</span> Brian seems to
 have been in part a sea-god, whose place was latterly taken by St.
@@ -899,7 +899,7 @@ sky-god.
 <span id="page_69">p. 69</span>
 
 The whole figure of Brian—the Michael of pre-Christian times—is rooted
-in Old Celtic thought; <span id="fr_96"></span>[1](#fn_96) he with his
+in Old Celtic thought; <span id="fr_96"></span>[1](#fn_96.md) he with his
 two brothers Iuchar and Uar belong to the Tuatha De Danaan as gods of
 knowledge, of art and of poetry. Brian, Iuchar (or, in its longer form,
 Iucharba) and Uar are three aspects of the same deity,—a feature that is
@@ -929,7 +929,7 @@ son in common, viz. Ecna, *i.e.* knowledge. The same mythic idea is
 attempted to be expressed by three synonyms. The older form seems to
 have been Brión, as in the *Wooing of Emer* (Tochmarc Émire), a form
 made into Brian in the Fate of the *Children of Tuirenn*. <span
-id="fr_97"></span>[1](#fn_97) The root idea may be seen in *brī*,
+id="fr_97"></span>[1](#fn_97.md) The root idea may be seen in *brī*,
 dignity, esteem, worth, ideas expressing a sense of what is exalted,
 hence 'born from on high.' At times he figures as Fortune, if not as
 Providence. Ossian in a lullaby to his mother is made to say:
@@ -938,8 +938,8 @@ If thou art my mother, and thou a deer
 Arise ere sun arise on thee;  
       .       .       .       .       .       .       .       .       .  
 May Fortune (Providence) preserve thee from
-hoarseness-of-breathing <span id="fr_98"></span>[2](#fn_98)  
-Ere thy voice thy sweetheart hear. <span id="fr_99"></span>[3](#fn_99)
+hoarseness-of-breathing <span id="fr_98"></span>[2](#fn_98.md)  
+Ere thy voice thy sweetheart hear. <span id="fr_99"></span>[3](#fn_99.md)
 
 Mr. Campbell's variant is rendered by him thus:
 
@@ -984,7 +984,7 @@ Let not this world's pelf
 Cause thee to perjure thy soul. <span id="page_72">p. 72</span>
 
 If of a weakling thou hast a foolish report  
-Put not thine <span id="fr_100"></span>[1](#fn_100) thereto;  
+Put not thine <span id="fr_100"></span>[1](#fn_100.md) thereto;  
 Be not surety in a lie—  
 Let that tale pass bye.
 
@@ -1030,7 +1030,7 @@ parthenogenesis: possibly an earlier
 
 age may not have distinguished this from the action of the Dusii, the
 incubi which were thought of as consorting with mortals. <span
-id="fr_101"></span>[1](#fn_101) A parallel belief is met with among the
+id="fr_101"></span>[1](#fn_101.md) A parallel belief is met with among the
 Bretons. My reference is in Keightley (p. 441), who quotes W. Grimm: "In
 the ruins of Tresmalonen dwell the Courils. They are of a malignant
 disposition, but great lovers of dancing. At night they sport among the
@@ -1063,7 +1063,7 @@ Irish literature instances of supernatural birth have been given in
 Meyer and Nutt's *Voyage of Bran the Son of Febail*, and I must not
 further enter on the theme here. Even a star is sometimes conceived as
 fructifying: St. Aidan or Maedoc was born of a star which fell into his
-mother's mouth as she slept. <span id="fr_102"></span>[1](#fn_102)
+mother's mouth as she slept. <span id="fr_102"></span>[1](#fn_102.md)
 Commonly at this stage of thought fructification is regarded as due to
 the swallowing of a worm: the births of Conchobar and of Cuchulainn were
 accounted for by their mothers having swallowed worms in the draught.
@@ -1081,7 +1081,7 @@ the boy
 
 was in danger of death his tree should wither. Variants assign parts of
 the fish to the fisherman's mare and bitch, which bring forth young to
-the number of the children. <span id="fr_103"></span>[1](#fn_103) In the
+the number of the children. <span id="fr_103"></span>[1](#fn_103.md) In the
 Highlands we meet with the same story: here the fish tells the fisher:
 "Thou shalt let no man split me, but do it thyself. Thou shalt put into
 the pot but a morsel of my liver and a bit of my heart to boil for
@@ -1093,7 +1093,7 @@ bones and keep them. Three trees will sprout where the bones are buried,
 and they will be in leaf and budding, in sap and growing, summer and
 winter, spring and autumn, every day for ever, so long as the clan shall
 live. They will droop or wither or die as they do." <span
-id="fr_104"></span>[2](#fn_104)
+id="fr_104"></span>[2](#fn_104.md)
 
 With these life-tokens thought has already made the transition to the
 idea of the external soul.
@@ -1102,10 +1102,10 @@ idea of the external soul.
 
 ### Footnotes
 
-<span id="fn_58"></span>[37:1](sbc04.htm#fr_58) *The Blood Covenant*, p.
+<span id="fn_58"></span>[37:1](sbc04.htm#fr_58.md) *The Blood Covenant*, p.
 219, quoting Buxtorf's *Synagoga Judaica*, c. ii.
 
-<span id="fn_59"></span>[38:1](sbc04.htm#fr_59) For other references,
+<span id="fn_59"></span>[38:1](sbc04.htm#fr_59.md) For other references,
 cf. Strack, *Blutaberglaube*, 1892, p. 125; Christensen, *Baareprøven*,
 Copenhagen, 1900, investigates 'bier-proof'; cf. Wood-Martin, *Elder
 Faiths*, i. 323. Herodotus (iii. 18) speaks of the drinking of blood as
@@ -1116,49 +1116,49 @@ traveller, speaks of exchanging blood through marks on each other's
 arms, after which there was a treaty of peace, as firm as any made in
 Europe, he thought.
 
-<span id="fn_60"></span>[41:1](sbc04.htm#fr_60) Quoted from *Celtic
+<span id="fn_60"></span>[41:1](sbc04.htm#fr_60.md) Quoted from *Celtic
 Monthly* in Inverness *Northern Chronicle*, 16th August, 1905.
 
-<span id="fn_61"></span>[41:2](sbc04.htm#fr_61) Rev. Walter Gregor's
+<span id="fn_61"></span>[41:2](sbc04.htm#fr_61.md) Rev. Walter Gregor's
 *Folk Lore of North-East of Scotland*, 1881, p. 208.
 
-<span id="fn_62"></span>[42:1](sbc04.htm#fr_62) *Wardlaw MS*. pp.
+<span id="fn_62"></span>[42:1](sbc04.htm#fr_62.md) *Wardlaw MS*. pp.
 516-521 of Scottish Texts Society, edited by William Mackay, p. 517.
 
-<span id="fn_63"></span>[44:1](sbc04.htm#fr_63) The minister quotes
+<span id="fn_63"></span>[44:1](sbc04.htm#fr_63.md) The minister quotes
 Genesis 9:6 Numbers 35:3 to show that only blood can atone for blood.
 John M‘Keanire at the end of two years was discovered; he confesses; he
 was compelled to the deed by John Mackeanvore,—both were hung near the
 parish church of Wardlaw, the present Kirkhill, Clunes, Inverness.
 
-<span id="fn_64"></span>[44:2](sbc04.htm#fr_64) *Folk-Lore of the Isle
+<span id="fn_64"></span>[44:2](sbc04.htm#fr_64.md) *Folk-Lore of the Isle
 of Man*, p. 145.
 
-<span id="fn_65"></span>[45:1](sbc04.htm#fr_65) Lettsom's translation,
+<span id="fn_65"></span>[45:1](sbc04.htm#fr_65.md) Lettsom's translation,
 p. 183.
 
-<span id="fn_66"></span>[45:2](sbc04.htm#fr_66) Benson's *Remarkable
+<span id="fn_66"></span>[45:2](sbc04.htm#fr_66.md) Benson's *Remarkable
 Trials*, p. 94<sup>n</sup>.
 
-<span id="fn_67"></span>[45:3](sbc04.htm#fr_67) Scotsman, March 8, 1907.
+<span id="fn_67"></span>[45:3](sbc04.htm#fr_67.md) Scotsman, March 8, 1907.
 
-<span id="fn_68"></span>[45:4](sbc04.htm#fr_68) Sola ex omnibus
+<span id="fn_68"></span>[45:4](sbc04.htm#fr_68.md) Sola ex omnibus
 superfutura, Pliny's *Nat. Hist.* lib. II, c. 53.
 
-<span id="fn_69"></span>[45:5](sbc04.htm#fr_69) Chan eil a h-anail
+<span id="fn_69"></span>[45:5](sbc04.htm#fr_69.md) Chan eil a h-anail
 romham.
 
-<span id="fn_70"></span>[45:6](sbc04.htm#fr_70) Mar cheo no mar thoit
+<span id="fn_70"></span>[45:6](sbc04.htm#fr_70.md) Mar cheo no mar thoit
 gheal.
 
-<span id="fn_71"></span>[45:7](sbc04.htm#fr_71) Ralston, *Songs of the
+<span id="fn_71"></span>[45:7](sbc04.htm#fr_71.md) Ralston, *Songs of the
 Russian People*, p. 116; for soul thought of as breath, wind, vapour,
 cf. Skr. *atmán* cognate with O.H.G. *âtum*, breath, soul; Irish
 *athach*, breath. Modern Greeks speak of the soul at death escaping
 through the mouth, 'with the soul between one's teeth,' while ψυχή at
 times denotes 'stomach '--Abbott's *Greek Folk-Lore*, 193<sup>n</sup>.
 
-<span id="fn_72"></span>[46:1](sbc04.htm#fr_72) Cognate with G. *deò*,
+<span id="fn_72"></span>[46:1](sbc04.htm#fr_72.md) Cognate with G. *deò*,
 breath, are Lithuanian *dwesuì dwẽsti*, to breathe; *dwãse*, breath,
 spirit; *dùsas*, vapour. Schrader connects Latin *Fêralia*, from a
 proto-Italic \**dhvêsâlia*, a festival in honour of the dead, also
@@ -1172,77 +1172,77 @@ Latin *bestia*). From \**dhū̆*, another form of the root, come Lithuanian
 *dustù*, *dusau*, 'aufkeuchen'; *dùsas*, sigh; *dūsiù*, to gasp; Lettic
 *dusu*, *dust*, 'aufkeuchen.'
 
-<span id="fn_73"></span>[48:1](sbc04.htm#fr_73) Here *tannasg*,
+<span id="fn_73"></span>[48:1](sbc04.htm#fr_73.md) Here *tannasg*,
 apparition, is either shortened or confused with Ir. *tásc*, report,
 etc.
 
-<span id="fn_74"></span>[48:2](sbc04.htm#fr_74) *Spiorad*, 'spirit,' is
+<span id="fn_74"></span>[48:2](sbc04.htm#fr_74.md) *Spiorad*, 'spirit,' is
 a loan from L. *spiritus*.
 
-<span id="fn_75"></span>[49:1](sbc04.htm#fr_75) *Bezz. Beiträge*, 19,
+<span id="fn_75"></span>[49:1](sbc04.htm#fr_75.md) *Bezz. Beiträge*, 19,
 276; cf. *ib*. 21, 212, where Mikkola equates Gothic *saiwala* with O.
 Bulg. *sila*, force, energy, power; Prussian *seilin*, exertion, effort,
 zeal, from \**seilā*, *sei̯(u̯)l*,—the primary root in Servian *do-sin-uti
 se*, 'potiri' from \**seii̯u̯-n-*.
 
-<span id="fn_76"></span>[50:1](sbc04.htm#fr_76) Phil. of Religion, p.
+<span id="fn_76"></span>[50:1](sbc04.htm#fr_76.md) Phil. of Religion, p.
 396.
 
-<span id="fn_77"></span>[51:1](sbc04.htm#fr_77) *v*. Schrader's article
+<span id="fn_77"></span>[51:1](sbc04.htm#fr_77.md) *v*. Schrader's article
 on Aryan Religion in Hastings, *Ency. of Religion and Ethics*.
 
-<span id="fn_78"></span>[51:2](sbc04.htm#fr_78) 'Tuatha adortais
+<span id="fn_78"></span>[51:2](sbc04.htm#fr_78.md) 'Tuatha adortais
 síde'—Old Irish Hymn ascribed to Fiacc.
 
-<span id="fn_79"></span>[53:1](sbc04.htm#fr_79) Trevelyan, *Folk-Lore
+<span id="fn_79"></span>[53:1](sbc04.htm#fr_79.md) Trevelyan, *Folk-Lore
 and Folk-Stories of Wales*, p. 165; cf. the veneration for snakes in
 Lithuania.
 
-<span id="fn_80"></span>[54:1](sbc04.htm#fr_80) Cf. Dr. Carmichael's
+<span id="fn_80"></span>[54:1](sbc04.htm#fr_80.md) Cf. Dr. Carmichael's
 *Carmina Gadelica*.
 
-<span id="fn_81"></span>[54:2](sbc04.htm#fr_81) *The Gael*, vol. v. 330
+<span id="fn_81"></span>[54:2](sbc04.htm#fr_81.md) *The Gael*, vol. v. 330
 = *Dh’òrduich e a thiodhlaiceadh am bian an fhéidh sin*.
 
-<span id="fn_82"></span>[56:1](sbc04.htm#fr_82) The stress is on *Nāir*,
+<span id="fn_82"></span>[56:1](sbc04.htm#fr_82.md) The stress is on *Nāir*,
 not on the preceding *Mo*, which is a suffix of endearment. The accent
 is quite different from that in *Loch Monar* in Ross-shire, which has
 the stress on the first syllable.
 
-<span id="fn_83"></span>[59:1](sbc04.htm#fr_83) *Folk-Lore*, Sept. 1893,
+<span id="fn_83"></span>[59:1](sbc04.htm#fr_83.md) *Folk-Lore*, Sept. 1893,
 pp. 357, 359, 'The Women's War-of-Words in the Feast of Bricriu' alludes
 to the couvade. The Irish tale *Cess Noinden Ulad*, 'the Nine Days’
 Debility (?) of the Ulidians,' may reflect this practice among the
 Cruithne or Irish Picts, possibly conjoined with the old custom of
 racing for a bride. Cf. Frazer's *Kingship*, 261.
 
-<span id="fn_84"></span>[60:1](sbc04.htm#fr_84) *Totemism and Exogamy*,
+<span id="fn_84"></span>[60:1](sbc04.htm#fr_84.md) *Totemism and Exogamy*,
 iv. 252.
 
-<span id="fn_85"></span>[62:1](sbc04.htm#fr_85) Crawley's *Tree of
+<span id="fn_85"></span>[62:1](sbc04.htm#fr_85.md) Crawley's *Tree of
 Life*, p. 211; *v*. Spencer and Gillen's *Native Tribes of Central
 Australia*.
 
-<span id="fn_86"></span>[62:2](sbc04.htm#fr_86) *Researches*, 2nd ed. p.
+<span id="fn_86"></span>[62:2](sbc04.htm#fr_86.md) *Researches*, 2nd ed. p.
 301.
 
-<span id="fn_87"></span>[63:1](sbc04.htm#fr_87) The Highland phrase is:
+<span id="fn_87"></span>[63:1](sbc04.htm#fr_87.md) The Highland phrase is:
 *chuir i na piantan air an duine* = 'she put the pains on the husband.'
 This transference is understood as being due to the wife or else to the
 wise-woman who first attended her.
 
-<span id="fn_88"></span>[64:1](sbc04.htm#fr_88) *v*. *Scott's Poetical
+<span id="fn_88"></span>[64:1](sbc04.htm#fr_88.md) *v*. *Scott's Poetical
 Works*. Edin. MDCCCLI. Robert Cadell, St. Andrew Square. Not all
 editions give this note in full.
 
-<span id="fn_89"></span>[65:1](sbc04.htm#fr_89) A. Clerk, *Memoir of
+<span id="fn_89"></span>[65:1](sbc04.htm#fr_89.md) A. Clerk, *Memoir of
 Colonel John Cameron, Fassifearn*, 2nd ed. 1858. Appendix, Note A.
 
-<span id="fn_90"></span>[66:1](sbc04.htm#fr_90) Macfarlane's
+<span id="fn_90"></span>[66:1](sbc04.htm#fr_90.md) Macfarlane's
 *Geographical Collection*, vol. ii. p. 520 (Scot. Texts Soc.), 3907, ed.
 by Sir Arthur Mitchell.
 
-<span id="fn_91"></span>[67:1](sbc04.htm#fr_91) Miss F. Tolmie's
+<span id="fn_91"></span>[67:1](sbc04.htm#fr_91.md) Miss F. Tolmie's
 'Highland Folk Songs'; it is given also in *The Gael*. The significant
 lines are: Gun robh neart Chonchulainn leat \| Agus neart na Féinne \|
 Neart Oisein bhig agus Osgair threuna \| Neart an daimh duinn as àirde
@@ -1251,18 +1251,18 @@ cruinne leat\| Agus neart na gréine \| Gun robh Brian dhuit mar tha mise
 dhuit \| Gu bheil mise mar dhearbh phiuthar dhuit \| S mur h-eil ni ’s
 mó tha ’cheart uibhir \|.
 
-<span id="fn_92"></span>[67:2](sbc04.htm#fr_92)
+<span id="fn_92"></span>[67:2](sbc04.htm#fr_92.md)
 
 Luighim sìos le Dia is luigheadh Dia lium  
 Cha luigh mi sìos le Briain ’s cha luigh Briain lium.  
                          (Carmichael's *Carmina Gadelica*.)
 
-<span id="fn_93"></span>[67:3](sbc04.htm#fr_93) *Religious Songs of
+<span id="fn_93"></span>[67:3](sbc04.htm#fr_93.md) *Religious Songs of
 Connacht*, vol. 2, p. 409.
 
-<span id="fn_94"></span>[68:1](sbc04.htm#fr_94) *Carm. Gad*. ii. 232.
+<span id="fn_94"></span>[68:1](sbc04.htm#fr_94.md) *Carm. Gad*. ii. 232.
 
-<span id="fn_95"></span>[68:2](sbc04.htm#fr_95)
+<span id="fn_95"></span>[68:2](sbc04.htm#fr_95.md)
 
 Bu to gaisgeach na misnich  
 Dol air astar na fiosachd  
@@ -1273,23 +1273,23 @@ Thu ’ga mharcachd air iteig
 Leum thu thairis air fìosrachadh Naduir.  
                     (Quoted in *Carm. Gad*. i. p. 200.)
 
-<span id="fn_96"></span>[69:1](sbc04.htm#fr_96) *v*. D’Arbois de
+<span id="fn_96"></span>[69:1](sbc04.htm#fr_96.md) *v*. D’Arbois de
 Jubainville's *Irish Mythological Cycle*, Best's trans. p. 82.
 
-<span id="fn_97"></span>[70:1](sbc04.htm#fr_97) *v*. Kuno Meyer in
+<span id="fn_97"></span>[70:1](sbc04.htm#fr_97.md) *v*. Kuno Meyer in
 *Eriu*, iv. 69.
 
-<span id="fn_98"></span>[70:2](sbc04.htm#fr_98) *Srannan*, hoarseness,
+<span id="fn_98"></span>[70:2](sbc04.htm#fr_98.md) *Srannan*, hoarseness,
 murmuring in sleep, snorting of cattle, rattling in the throat; *srannan
 a bhàis* = death rattle.
 
-<span id="fn_99"></span>[70:3](sbc04.htm#fr_99) Original in Campbell's
+<span id="fn_99"></span>[70:3](sbc04.htm#fr_99.md) Original in Campbell's
 *Leabhar Na Féinne*, p. 200; a variant where Brian is used instead of
 *an Sealbh* in *Waifs and Strays of Celtic Tradition*, iv. 79.
 
-<span id="fn_100"></span>[72:1](sbc04.htm#fr_100) Lit. thine half-hand.
+<span id="fn_100"></span>[72:1](sbc04.htm#fr_100.md) Lit. thine half-hand.
 
-<span id="fn_101"></span>[73:1](sbc04.htm#fr_101) Quosdam daemones quos
+<span id="fn_101"></span>[73:1](sbc04.htm#fr_101.md) Quosdam daemones quos
 Dusios Galli nuncupant, hanc assidue immunditiam et tentare et efficere
 plures talesque asseverant.—Augustine, *De Civ. Dei*, xxiii.; cf. Breton
 *Duz*; E. *Deuce*? The Manx hairy satyr, Phynnodderree,—'its hair or fur
@@ -1299,16 +1299,16 @@ pictures him as an Elfin Knight who fell in love with a Manx maiden
 Molach* (Hairy Paw or Hand) of the Highlands, where it is a synonym for
 the Devil.
 
-<span id="fn_102"></span>[74:1](sbc04.htm#fr_102) *Rev. Celt*. V. 275.
+<span id="fn_102"></span>[74:1](sbc04.htm#fr_102.md) *Rev. Celt*. V. 275.
 
-<span id="fn_103"></span>[75:1](sbc04.htm#fr_103) Hartland, *Primitive
+<span id="fn_103"></span>[75:1](sbc04.htm#fr_103.md) Hartland, *Primitive
 Paternity*, i. 8, quoting Sébillot's *Contes Pop*. i. 124 (Story No.
 18).
 
-<span id="fn_104"></span>[75:2](sbc04.htm#fr_104) See *The Celtic Dragon
+<span id="fn_104"></span>[75:2](sbc04.htm#fr_104.md) See *The Celtic Dragon
 Myth*, p. 37, where Campbell of Islay's retelling is given (Edinburgh,
 J. Grant).
 
 ------------------------------------------------------------------------
 
-[Next: II. The Wanderings of Psyche](sbc05)
+[Next: II. The Wanderings of Psyche](sbc05.md)

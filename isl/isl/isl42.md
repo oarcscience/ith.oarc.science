@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl41)  [Next](isl43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl41)  [Next](isl43.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ the Greek *chi*.
 
 ------------------------------------------------------------------------
 
-[Next: Index](isl43)
+[Next: Index](isl43.md)

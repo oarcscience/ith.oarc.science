@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](fons02)  [Next](fons04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](fons02)  [Next](fons04.md) 
 
 ------------------------------------------------------------------------
 
@@ -742,4 +742,4 @@ Author is in all beings and that nothing can exist without him.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](fons04)
+[Next: Part III](fons04.md)

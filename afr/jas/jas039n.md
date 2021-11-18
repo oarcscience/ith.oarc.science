@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas038n)  [Next](jas040n)   
- \[[39. Anansi, White-belly and Fish.](jas039)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas038n)  [Next](jas040n.md)   
+ \[[39. Anansi, White-belly and Fish.](jas039.md)\]
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ to number 38 and compare Anansi's treatment of Rat in the note to number
 
 ------------------------------------------------------------------------
 
-[Next: Note 40. Goat's Escape.](jas040n)
+[Next: Note 40. Goat's Escape.](jas040n.md)

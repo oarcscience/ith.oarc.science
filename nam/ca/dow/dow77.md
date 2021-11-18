@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow76) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow76.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_242">p. 242</span>
 
-# Bibliography of California Mythology <span id="fr_30"></span>[32](#fn_30)
+# Bibliography of California Mythology <span id="fr_30"></span>[32](#fn_30.md)
 
 BARRETT, S. A. "A Composite Myth of the Pomo Indians," in the *Journal
 of American Folk-lore* (Boston, 1906), vol. xix, 37-51-
@@ -116,7 +116,7 @@ KROEBER, A. L. "Wishosk Myths," in the *Journal of American Folk-lore*
 (1905), vol. xviii, 85-107-
 
 ------ "Indian Myths of South Central California," <span
-id="fr_31"></span>[33](#fn_31) in the California University Publications
+id="fr_31"></span>[33](#fn_31.md) in the California University Publications
 on *American Archæology and Ethnology* (1907), vol. iv, 169-250.
 
 ------ "Origin Tradition of the Chemehuevi Indians," in the *Journal of
@@ -171,13 +171,13 @@ WATERMAN, THOMAS. Analysis of the Mission Indian Creation Story, in the
 
 ### Footnotes
 
-<span id="fn_30"></span>[242:32](dow77.htm#fr_30) Ethnologists and
+<span id="fn_30"></span>[242:32](dow77.htm#fr_30.md) Ethnologists and
 others should take greater care in the identification of the personages
 mentioned in the myths. The value of many of the papers whose titles are
 here given is materially lessened by false identifications of the animal
 people.
 
-<span id="fn_31"></span>[245:33](dow77.htm#fr_31) Mainly Yokut, but
+<span id="fn_31"></span>[245:33](dow77.htm#fr_31.md) Mainly Yokut, but
 comprising also six important fragments of
 
 "Rumsien Costanoan" \[Kah'-koon A-chēs-ta\], four second-hand fragments

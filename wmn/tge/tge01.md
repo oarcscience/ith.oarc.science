@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](tge00)  [Next](tge02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](tge00)  [Next](tge02.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ TO SOUND, THE MYSTERY OF GOD SHALL BE FINISHED."
 
 ------------------------------------------------------------------------
 
-[Next: Genesis](tge02)
+[Next: Genesis](tge02.md)

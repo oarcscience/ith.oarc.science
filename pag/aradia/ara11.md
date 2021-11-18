@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](ara10)  [Next](ara12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](ara10)  [Next](ara12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VH8HW4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ assumed the appearance of Tana, whom he loved, so that he was delighted
 to behold her, as he thought, and welcomed her with passionate embraces.
 Yet this gave him into her power, for it enabled her to perform a
 certain magic spell by clipping a lock of his hair. <span
-id="fr_17"></span>[1](#fn_17)
+id="fr_17"></span>[1](#fn_17.md)
 
 Then she went home, and taking a piece of sheep's intestine, formed of
 it a purse, and in this she put that which she had taken, with a red and
@@ -169,7 +169,7 @@ By the love I feel, which I
 Shall ever feel until I die, <span id="page_56">p. 56</span>  
 Three crosses on thy bed I make,  
 And then three wild horse-chestnuts take; <span
-id="fr_18"></span>[1](#fn_18)  
+id="fr_18"></span>[1](#fn_18.md)  
 In that bed the nuts I hide,  
 And then the window open wide,  
 That the full moon may cast her light  
@@ -199,7 +199,7 @@ employed in beneficent magic-the red and black
 ribbon, which mingles threads of joy and woe--the (peacock's) feather or
 *la penna maligna*--pepper and salt, occur in many other incantations,
 but always to bring evil and cause suffering. <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 I have never seen it observed, but it is true, that Keats in his
 exquisite poem of *Endymion* completely departs from or ignores the
@@ -228,7 +228,7 @@ But there is an exquisitely subtle, delicately strange idea or ideal in
 the conception of the apparently chaste "clear cold moon" casting her
 living light by stealth into the hidden recesses of darkness and acting
 in the occult mysteries of love or dreams. So it struck Byron <span
-id="fr_20"></span>[1](#fn_20) as an original thought that the sun does
+id="fr_20"></span>[1](#fn_20.md) as an original thought that the sun does
 not shine on half the forbidden deeds which the moon witnesses, and this
 is emphasised in the Italian witch-poem. In it the moon is distinctly
 invoked as the protectress of a strange and secret amour, and as the
@@ -280,7 +280,7 @@ traditions.
 
 ### Footnotes
 
-<span id="fn_17"></span>[52:1](ara11.htm#fr_17) According to all evil
+<span id="fn_17"></span>[52:1](ara11.htm#fr_17.md) According to all evil
 witchcraft in the world--especially among the black Voodoos--any
 individual can be injured or killed if the magician can obtain any
 portion of the person, however small, especially a lock of hair. This is
@@ -288,14 +288,14 @@ specially described in *Thiodolf the Islander*, a romance by La Motte
 Fouqué. The exchange of locks by lovers is possibly connected with
 magic.
 
-<span id="fn_18"></span>[56:1](ara11.htm#fr_18) *Marroni d' India*. A
+<span id="fn_18"></span>[56:1](ara11.htm#fr_18.md) *Marroni d' India*. A
 strong charm against evil, hence frequently carried against rheumatism,
 &c. The three should come from one shell.
 
-<span id="fn_19"></span>[57:1](ara11.htm#fr_19) The reader will find
+<span id="fn_19"></span>[57:1](ara11.htm#fr_19.md) The reader will find
 them described in my *Etrusco-Roman Remains*.
 
-<span id="fn_20"></span>[58:1](ara11.htm#fr_20) "The sun set and uprose
+<span id="fn_20"></span>[58:1](ara11.htm#fr_20.md) "The sun set and uprose
 the yellow moon:  
 The devil's in the moon for mischief; they  
 Who called her chaste, methinks, began too soon  
@@ -308,4 +308,4 @@ On which three single hours of moonshine smile."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Madonna Diana](ara12)
+[Next: Chapter X. Madonna Diana](ara12.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog29)  [Next](hlog31) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog29)  [Next](hlog31.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ and offerings were made."
 
 ------------------------------------------------------------------------
 
-[Next: Polynesian Language](hlog31)
+[Next: Polynesian Language](hlog31.md)

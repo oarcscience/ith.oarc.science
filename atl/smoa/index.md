@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,8 +21,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](smoa00)    [Page
-Index](pageidx)    [Text \[Zipped\]](smoa.txt.gz)
+[Contents](#contents)    [Start Reading](smoa00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](smoa.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -35,9 +35,9 @@ been written here as the literal truth.
 
 The book is written in an affected, slightly archaic style reminiscent
 of (but certainly not in the same league as), Robert E. Howard, Lord
-Dunsany or [E.R. Eddison](../../ring/two/index). However, this makes the
+Dunsany or [E.R. Eddison](../../ring/two/index.md). However, this makes the
 book much more readable than other occult novels such as [A Dweller on
-Two Planets](../dtp/index), or [Unveiled Mysteries](../../eso/um/index).
+Two Planets](../dtp/index), or [Unveiled Mysteries](../../eso/um/index.md).
 Even when Selestor is going on about mineralogy, it still sounds a bit
 like an oriental opium dream.
 
@@ -48,7 +48,7 @@ history of the Atlanteans, including their laws, industries, and
 science. They are somehow contemporaries of Vikings and Mayans (or their
 prehistoric predecessors). They even engage in a spectacular naval
 battle with the Northmen, similar to an episode in Cutcliffe Hyne's [The
-Lost Continent](../tlc/index).
+Lost Continent](../tlc/index.md).
 
 The author, Clara Iza von Ravn, is a bit of a mystery, at least on the
 Internet. She is often listed in bibliographies as one 'Mrs. Tibbets.'
@@ -60,49 +60,49 @@ of a Soul (Seattle, Washington: Denny-Coryell Company) in 1901.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](smoa00)  
-[Foreword](smoa01)  
-[Contents](smoa02)  
+<span id="contents"></span> [Title Page](smoa00.md)  
+[Foreword](smoa01.md)  
+[Contents](smoa02.md)  
 [Chapter I. Growth of an island. Its location. Physical features and
-peopling](smoa03)  
+peopling](smoa03.md)  
 [Chapter II. The government of Atlantis. Educational methods. Peopling
-and customs.](smoa04)  
+and customs.](smoa04.md)  
 [Chapter III. The origin of wheat. Marriage customs. Laws regarding
-children born. Cremation of the dead. Some industries. Music.](smoa05)  
+children born. Cremation of the dead. Some industries. Music.](smoa05.md)  
 [Chapter IV. Institutions for the training of youth. Music. Arts.
-Industries. Some customs. Food.](smoa06)  
+Industries. Some customs. Food.](smoa06.md)  
 [Chapter V. Other inventions of the Atlantians. The science of Ellipse
-of Sound.](smoa07)  
+of Sound.](smoa07.md)  
 [Chapter VI. Atlantian knowledge of creation's laws. Origin of the
-priesthood. Authority of the priests.](smoa08)  
+priesthood. Authority of the priests.](smoa08.md)  
 [Chapter VII. Weakening of priestly power. The punishment for certain
-crimes.](smoa09)  
+crimes.](smoa09.md)  
 [Chapter VIII. Punishment by the priesthood for murder. Punishment of
-women for children's death.](smoa10)  
-[Chapter IX. An ancestress of the Assyrians.](smoa11)  
+women for children's death.](smoa10.md)  
+[Chapter IX. An ancestress of the Assyrians.](smoa11.md)  
 [Chapter X. The navy of Atlantis. Minerals of the island and theories
 regarding them held by the mineralogists of that day and
-country.](smoa12)  
+country.](smoa12.md)  
 [Chapter XI. Mining and minerals of Atlantis. The man who came to
-Atlantis from Spain to study its minerals](smoa13)  
+Atlantis from Spain to study its minerals](smoa13.md)  
 [Chapter XII. The crime of old King Osiris and the king Atlantis gave to
-Egypt](smoa14)  
+Egypt](smoa14.md)  
 [Chapter XIII. The flight of Prince Osiris. His Egyptian
-court.](smoa15)  
-[Chapter XIV. The death of Prince Osiris’ bride—Albirothisis](smoa16)  
+court.](smoa15.md)  
+[Chapter XIV. The death of Prince Osiris’ bride—Albirothisis](smoa16.md)  
 [Chapter XV. Origin of the Mongolian race. Kling, from Atlantis,
-tempted.](smoa17)  
-[Chapter XVI. The first Mongolian city. Mention of Yucatan](smoa18)  
-[Chapter XVII. An Atlantian tradition.](smoa19)  
+tempted.](smoa17.md)  
+[Chapter XVI. The first Mongolian city. Mention of Yucatan](smoa18.md)  
+[Chapter XVII. An Atlantian tradition.](smoa19.md)  
 [Chapter XVIII. Battle on Mars as described by the watching sage. The
-army of shadows](smoa20)  
+army of shadows](smoa20.md)  
 [Chapter XIX. The great sea-fight of Atlantis. Setting out of the
-Northmen for plunder](smoa21)  
+Northmen for plunder](smoa21.md)  
 [Chapter XX. Warning of the sage and setting out of the Atlantian navy
-to meet the foe](smoa22)  
+to meet the foe](smoa22.md)  
 [Chapter XXI. Arrival of the Northmen and their allies. Morning and the
-sea-fight.](smoa23)  
+sea-fight.](smoa23.md)  
 [Chapter XXII. Death of the king of Atlantis on the day of the great
-sea-fight](smoa24)  
+sea-fight](smoa24.md)  
 [Chapter XXIII. The destruction of Atlantis. Activities of the
-inhabitants on the morning the island sank into the ocean](smoa25)  
+inhabitants on the morning the island sank into the ocean](smoa25.md)  

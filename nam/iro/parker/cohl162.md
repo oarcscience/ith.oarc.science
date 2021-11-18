@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl161)  [Next](cohl163) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl161)  [Next](cohl163.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ So it is finished.
 
 ------------------------------------------------------------------------
 
-[Next: The Husk-Faces](cohl163)
+[Next: The Husk-Faces](cohl163.md)

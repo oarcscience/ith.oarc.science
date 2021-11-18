@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh03)  [Next](hloh05) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh03)  [Next](hloh05.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ between the penult and final syllable of a word.
 
 ------------------------------------------------------------------------
 
-[Next: I. The Migration of the Hawaiians](hloh05)
+[Next: I. The Migration of the Hawaiians](hloh05.md)

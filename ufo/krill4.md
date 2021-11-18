@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](krill3)  [Next](krill5) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](krill3)  [Next](krill5.md) 
 
 ### Acquisition of Advanced Technology and Interaction with Alien Cultures (Part 4)
 
@@ -867,4 +867,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 ------------------------------------------------------------------------
 
 [Next: Acquisition of Advanced Technology and Interaction with Alien
-Cultures (Part 5)](krill5)
+Cultures (Part 5)](krill5.md)

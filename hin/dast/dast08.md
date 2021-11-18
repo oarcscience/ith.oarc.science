@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast07)  [Next](dast09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast07)  [Next](dast09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -414,7 +414,7 @@ follows:—</span>
 |------------------------------------------|-------------------------------------------------------|---------------------------------------|----------|--------------------------|
 | Macrocosm (Adhidaiva, Samashti, Karana). |                                                       | Microcosm (Adhyatma, Vyashti, Karya). |          | State of Consciousness.  |
 | Upadhi.                                  |                                                       | Brahman's manifestation               | Upadhi.  | Brahman's manifestation. |
-| Avyakrita or Avyakta.                    | Isvara or Akshara. <span id="fr_1"></span>[\*](#fn_1) | Karana-sarira.                        | Prajna.  | Sushupti.                |
+| Avyakrita or Avyakta.                    | Isvara or Akshara. <span id="fr_1"></span>[\*](#fn_1.md) | Karana-sarira.                        | Prajna.  | Sushupti.                |
 | Hiranyagarbha.                           | Sutratman.                                            | Linga-sarira.                         | Taijasa. | Svapna.                  |
 | Viraj.                                   | Vaisyanara.                                           | Sthula-sarira.                        | Visva.   | Jagrat.                  |
 
@@ -482,10 +482,10 @@ Dakshinâmûrti.
 
 ### Footnotes
 
-<span id="fn_1"></span>[92:\*](dast08.htm#fr_1) The name "Isvara" is
+<span id="fn_1"></span>[92:\*](dast08.htm#fr_1.md) The name "Isvara" is
 given to Brahman's manifestation in the upadhi called Avyakrita, as well
 as to Brahman beyond the upadhis.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. False Personations of Atman](dast09)
+[Next: Chapter V. False Personations of Atman](dast09.md)

@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao43)   
-[Previous](tao42)  [Next](tao44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao43.md)   
+[Previous](tao42)  [Next](tao44.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ more universally potent than the teaching of *wu-wei*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 44](tao44)
+[Next: Chapter 44](tao44.md)

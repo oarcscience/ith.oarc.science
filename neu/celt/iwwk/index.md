@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,13 +12,13 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](iwwk00)  
-[Notice](iwwk01)  
-[The Vagrants of Wicklow](iwwk02)  
-[The Oppression of the Hills](iwwk03)  
-[On the Road](iwwk04)  
-[The People of the Glens](iwwk05)  
-[At a Wicklow Fair](iwwk06)  
-[A Landlord's Garden in County Wicklow](iwwk07)  
-[Glencree](iwwk08)  
-[In West Kerry](iwwk09)  
+[Title Page](iwwk00.md)  
+[Notice](iwwk01.md)  
+[The Vagrants of Wicklow](iwwk02.md)  
+[The Oppression of the Hills](iwwk03.md)  
+[On the Road](iwwk04.md)  
+[The People of the Glens](iwwk05.md)  
+[At a Wicklow Fair](iwwk06.md)  
+[A Landlord's Garden in County Wicklow](iwwk07.md)  
+[Glencree](iwwk08.md)  
+[In West Kerry](iwwk09.md)  

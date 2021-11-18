@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf25)  [Next](fmf27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf25)  [Next](fmf27.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ MORAL: The only Ones who need Patching are those who Think they need it.
 ------------------------------------------------------------------------
 
 [Next: The Fable of This Year's St. George and The 800 Microscopic
-Dragons](fmf27)
+Dragons](fmf27.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep04)  [Next](nep06) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep04)  [Next](nep06.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ PUT INTO SHORT AND EASY RHYMES FOR CHILDREN.
 
 ------------------------------------------------------------------------
 
-[Next: Alphabet Poem](nep06)
+[Next: Alphabet Poem](nep06.md)

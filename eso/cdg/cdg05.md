@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg04)  [Next](cdg06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg04)  [Next](cdg06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -15,19 +15,19 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
 
 <span id="page_21">p. 21</span>
 
-<span id="img_02100"></span> ![DISCOURSE II.](img/02100.jpg)
+<span id="img_02100"></span> ![DISCOURSE II.](img/02100.jpg.md)
 
 <span id="img_02101"></span>
 
 |                     |
 |---------------------|
-| ![T](img/02101.jpg) |
+| ![T](img/02101.jpg.md) |
 
 HE Comte wished me to pass the entire night in prayer <span
-id="fr_26"></span>[XIX](#fn_26), and the next morning at daybreak sent a
+id="fr_26"></span>[XIX](#fn_26.md), and the next morning at daybreak sent a
 note to say that he would be at my house at eight o'clock, and that, if
 agreeable to me, we would make an excursion together. I awaited <span
-id="fr_27"></span>[XX](#fn_27) him, he came, and after we had exchanged
+id="fr_27"></span>[XX](#fn_27.md) him, he came, and after we had exchanged
 greetings, he said, "Let us go to some place where we may be alone, and
 where our interview cannot be interrupted."
 
@@ -48,7 +48,7 @@ and so perfect in every other way, could have let his mind become
 unbalanced by the visions to which I had perceived him to be subject on
 the preceding day. He discoursed divinely on political economy, and was
 enchanted to hear that I had read what Plato has written on this
-subject <span id="fr_28"></span>[XXI](#fn_28). "Someday you will have
+subject <span id="fr_28"></span>[XXI](#fn_28.md). "Someday you will have
 greater need of all that than you imagine," he said, "And if we come to
 an agreement to-day, it is not impossible that you may in time put these
 sage maxims into practice."
@@ -70,7 +70,7 @@ are, your voice will make them tremble in the depths of the
 
 abyss, and all the Invisible Peoples who dwell in the four Elements will
 deem themselves happy to be the ministers of your pleasure. I worship
-Thee, oh mighty God <span id="fr_29"></span>[XXII](#fn_29), because Thou
+Thee, oh mighty God <span id="fr_29"></span>[XXII](#fn_29.md), because Thou
 hast crowned man with such great glory, and hast created him Sovereign
 Monarch of all the works of Thine hands. My Son," he added turning
 towards me, "do you feel within yourself that heroic ambition which is
@@ -110,11 +110,11 @@ sensual relationships with women."
 I burst out laughing at this absurd proposal. "Sir," I exclaimed, "You
 have let me off easily. I was expecting you to propose some
 extraordinary renunciation, but since you merely desire me to renounce
-women <span id="fr_34"></span>[XXIII](#fn_34), that was done long ago. I
+women <span id="fr_34"></span>[XXIII](#fn_34.md), that was done long ago. I
 am chaste enough, thank God! Nevertheless Sir, since Solomon was more of
 a Sage than I may ever be, and since all his Wisdom could not prevent
 his becoming corrupted, pray tell me how you gentlemen manage to do
-without the other sex <span id="fr_35"></span>[XXIV](#fn_35)? And why
+without the other sex <span id="fr_35"></span>[XXIV](#fn_35.md)? And why
 would it be inconvenient if, in the Philosopher's Paradise, every Adam
 should have his Eve?"
 
@@ -131,7 +131,7 @@ in what ignorance all men live who are not of our number."
 
 When you have been enrolled among the Children of the Philosophers, and
 when your eyes have been strengthened <span
-id="fr_36"></span>[XXV](#fn_36) by the use of the very Holy Medecine,
+id="fr_36"></span>[XXV](#fn_36.md) by the use of the very Holy Medecine,
 you will straightway discover that the Elements are inhabited by most
 perfect beings. Unhappy Adam's sin has deprived his unfortunate
 posterity of all knowledge of these beings and of all intercourse with
@@ -142,7 +142,7 @@ earth are not for the moles alone; and the Element of Fire, nobler than
 the other three, was not created to remain useless and empty.
 
 The air is full of an innumerable multitude of Peoples <span
-id="fr_37"></span>[XXVI](#fn_37),whose faces are human, seemingly rather
+id="fr_37"></span>[XXVI](#fn_37.md),whose faces are human, seemingly rather
 haughty, yet in reality tractable, great lovers of the sciences,
 cunning, obliging to the Sages, and enemies of fools and the ignorant.
 Their wives and daughters have a masculine beauty like that of the
@@ -179,7 +179,7 @@ commanded. The Gnomides, their wives, are small but very amiable, and
 their dress is exceedingly curious.
 
 As for the Salamanders, flaming dwellers of the Region <span
-id="fr_38"></span>[XXVII](#fn_38) of Fire, they serve the Philosophers,
+id="fr_38"></span>[XXVII](#fn_38.md) of Fire, they serve the Philosophers,
 but do not seek their company eagerly, and their daughters and wives
 
 <span id="page_32">p. 32</span> <span id="page_33">p. 33</span>
@@ -224,7 +224,7 @@ a remedy for this evil. He inspired them to the realization that just as
 man, by the alliance which he has contracted with God, has been made a
 participant in Divinity, so the Sylphs, Gnomes, Nymphs, and Salamanders,
 by the alliance which they have it in their <span
-id="fr_39"></span>[XXVIII](#fn_39) power to contract with man, can
+id="fr_39"></span>[XXVIII](#fn_39.md) power to contract with man, can
 become participants in immortality. Thus a Nymph or a Sylphid becomes
 immortal and capable of the Beatitude to which we aspire when she is so
 happy as to marry a Sage; and a Gnome or a Sylph ceases to be mortal the
@@ -243,20 +243,20 @@ to win the favour of our daughters by bringing
 
 them precious stones of which they are the natural guardians, and these
 authors believed, basing their conclusions upon the Book of Enoch <span
-id="fr_40"></span>[XXIX](#fn_41) which they did not understand, that
+id="fr_40"></span>[XXIX](#fn_41.md) which they did not understand, that
 these precious stones were snares laid by the enamoured Angels for the
 chastity of our women.
 
 In the beginning these Sons of Heaven, being beloved by the daughters of
 men, engendered famous giants; and those indifferent Cabalists, Joseph
 and Philo, (of which almost all Jews are ignorant, <span
-id="fr_41"></span>[\*](#fn_40)) and subsequently all the authors I have
+id="fr_41"></span>[\*](#fn_40).md) and subsequently all the authors I have
 just mentioned, as well as Origen and Macrobius, said that they were
 Angels, not knowing that they were Sylphs and other Elementary Peoples,
 who under the name of the Children of Elohim are distinguished from the
 Children of Men. Likewise that point which the Sage Augustine modestly
 refrained from deciding as to the pursuit of the African women of his
-time by so called Fauns or Satyrs <span id="fr_42"></span>[XXX](#fn_42);
+time by so called Fauns or Satyrs <span id="fr_42"></span>[XXX](#fn_42.md);
 that also is cleared up by what I have just said concerning the desire
 to ally themselves with man which all Inhabitants of the Elements have,
 since such an alliance offers the only means whereby they may achieve
@@ -301,7 +301,7 @@ inability to taste the pleasures of the Philosophers!"
 
 with mingled wrath and compassion, "Will you let me tell you, once for
 all, that I renounce this insane Wisdom <span
-id="fr_43"></span>[XXXI](#fn_43), that I find this visionary Philosophy
+id="fr_43"></span>[XXXI](#fn_43.md), that I find this visionary Philosophy
 absurd, that I abhor these abominable embracings of phantoms, and that I
 tremble for you lest one of your pretended Sylphids should suddenly
 carry you off to Hell in the midst of your transports, fearing that so
@@ -362,7 +362,7 @@ the Elements?"
 agent, and one does not love unless one wishes to do so. Few Sages,
 however, have been able to resist their charms. Nevertheless, there have
 been some who have reserved themselves wholly for greater things <span
-id="fr_45"></span>[XXXII](#fn_45), (as you will in time know), and who
+id="fr_45"></span>[XXXII](#fn_45), (as you will in time know.md), and who
 have not been willing to do the Nymphs this honour."
 
 "Then I will be of their number," I replied, "As I should never be
@@ -378,7 +378,7 @@ with the Peoples of whom we are speaking."
 
 "The Cabalist acts solely according to the principles of Nature; and if
 strange words, symbols and circumlocutions <span
-id="fr_46"></span>[XXXIII](#fn_46) are sometimes found in our books,
+id="fr_46"></span>[XXXIII](#fn_46.md) are sometimes found in our books,
 they are only used to conceal the principles of Natural Philosophy from
 the ignorant. Admire the simplicity of Nature in all her marvellous
 works! And in this simplicity a harmony and concert so great, so exact,
@@ -396,7 +396,7 @@ because of the compassion which we have for these same Peoples."
 of the most subtile portions of the Sphere of Fire, fused together and
 organised by! the action of the Universal Fire, of which I will
 discourse to you some day. It is called the Universal Fire  <span
-id="fr_47"></span>[XXXIV](#fn_47) because it is the inherent cause of
+id="fr_47"></span>[XXXIV](#fn_47.md) because it is the inherent cause of
 every movement in Nature."
 
 "Likewise the Sylphs are composed of the purest atoms of the Air, the
@@ -423,13 +423,13 @@ them," he rejoined. "If we wish to recover empire over the Salamanders,
 we must purify and exalt the Element of Fire which is in us, and raise
 the pitch of that relaxed string. We have only to concentrate the Fire
 of the World in a globe of crystal <span
-id="fr_48"></span>[XXXV](#fn_48), by means of concave mirrors; and this
+id="fr_48"></span>[XXXV](#fn_48.md), by means of concave mirrors; and this
 is the art which all the ancients religiously concealed, and which the
 divine Theophrastus discovered. A Solar Powder is formed in this globe,
 which being purified in itself and freed from any admixture of the other
 Elements, and being prepared according to the Art, becomes in a very
 short time supremely fitted to exalt the Fire <span
-id="fr_49"></span>[XXXVI](#fn_49) which is in us, and to make us become,
+id="fr_49"></span>[XXXVI](#fn_49.md) which is in us, and to make us become,
 as it were, of an igneous nature. Thereafter the Inhabitants of the
 Sphere of Fire are our inferiors, and enraptured to see our mutual
 harmony re-established, and that we are again drawing near to them, they
@@ -452,7 +452,7 @@ be thus with the Sylphs, Gnomes, and Nymphs. As they live for less time,
 they have more to do with us, so their familiarity is easier to obtain."
 
 "One has only to seal a goblet full of compressed Air, <span
-id="fr_50"></span>[XXXVII](#fn_50) Water, or Earth and to leave it
+id="fr_50"></span>[XXXVII](#fn_50.md) Water, or Earth and to leave it
 exposed to the Sun for a month. Then separate the Elements
 scientifically, which is particularly easy to do with Water and Earth.
 It is marvellous what a magnet for attracting Nymphs, Sylphs, and
@@ -472,7 +472,7 @@ you imagined. Have you no answer to make me?"
 <span id="page_52">p. 52</span> <span id="page_53">p. 53</span>
 
 "I marvel at you, Sir," said I, "And I am beginning to fear lest you
-should make me into a distiller." <span id="fr_51"></span>[\*](#fn_51)
+should make me into a distiller." <span id="fr_51"></span>[\*](#fn_51.md)
 
 "Ah! God forbid, my child," he exclaimed, "Your horoscope does not
 destine you for such nonsense as that. On the contrary, I forbid you to
@@ -480,10 +480,10 @@ trifle away your time over it. I have told you that the Sages only teach
 such things to those whom they have no wish to admit to their company.
 You will have all these, and infinitely more glorious and more desirable
 advantages, through Philosophic Procedures <span
-id="fr_52"></span>[XXXVIII](#fn_52) which are quite different in
+id="fr_52"></span>[XXXVIII](#fn_52.md) which are quite different in
 character. I have only described these methods to make you see the
 innocence of this Philosophy and to allay your panic terrors <span
-id="fr_53"></span>[XXXIX](#fn_53)."
+id="fr_53"></span>[XXXIX](#fn_53.md)."
 
 "Thanks be to God, Sir," I answered, "I no longer have so much fear as I
 had this afternoon. And although I have not yet made up my mind to this
@@ -538,7 +538,7 @@ had little difficulty in causing themselves to be mistaken for
 divinities so long as the Sovereign Being neglected the salvation of the
 nations. Yet the Devil did not derive from his mischief all the
 advantage he had hoped. For from that time it chanced that as Pan <span
-id="fr_54"></span>[XL](#fn_54), the Nymphs, and other Elementary Peoples
+id="fr_54"></span>[XL](#fn_54.md), the Nymphs, and other Elementary Peoples
 had found a means of exchanging this traffic in worship for a traffic in
 love, (you must needs remember that, among the ancients, Pan was held to
 be the king of the so-called incubus gods who ardently courted maidens),
@@ -564,11 +564,11 @@ unfortunates for whom immortality is but a fatal advantage, for whom the
 Messiah was not sent."
 
 "You gentlemen of the Cabala are Jansenists <span
-id="fr_55"></span>[XLI](#fn_55) then?" I interposed.
+id="fr_55"></span>[XLI](#fn_55.md) then?" I interposed.
 
 "We do not know what Jansenism is my child," he answered brusquely, "and
 we scorn to inform ourselves as to wherein consist the differences in
-the various sects <span id="fr_56"></span>[XLII](#fn_56) and religions
+the various sects <span id="fr_56"></span>[XLII](#fn_56.md) and religions
 wherewith the ignorant are infatuated. We ourselves hold to the ancient
 religion of our Fathers the Philosophers, concerning which I must one
 day instruct you. But to resume the thread of our discourse, those men
@@ -584,7 +584,7 @@ their soul mortal
 <span id="page_60">p. 60</span> <span id="page_61">p. 61</span>
 
 and delivers them from the horror of the second death <span
-id="fr_57"></span>[XLIII](#fn_57). Thus the Devil beheld all those
+id="fr_57"></span>[XLIII](#fn_57.md). Thus the Devil beheld all those
 Pagans who had allied themselves with Nymphs escaping his clutches. Thus
 the Sages, or the friends of the Sages, to whom God inspires us to
 communicate any one of the four Elementary Secrets, which I have well
@@ -614,7 +614,7 @@ space of
 forty years. What inhumanity it was to condemn to death Jeanne
 Hervillier, who had laboured to immortalise a Gnome for thirty six
 years. And what ignorance on the part of Bodin <span
-id="fr_58"></span>[XLIV](#fn_58) to call her a sorceress, and to make
+id="fr_58"></span>[XLIV](#fn_58.md) to call her a sorceress, and to make
 her amorous intrigues a justification of the popular misconception
 regarding the so called sorcerers, In a book as extravagant as his
 Republic is rational."
@@ -627,7 +627,7 @@ listen to you until to morrow without inconvenience."
 
 "Ah! as for myself," he rejoined, smiling and walking towards the gate,
 "evidently you do not in the least know what Philosophy is. The Sages
-only eat for pleasure <span id="fr_59"></span>[XLV](#fn_59) and never
+only eat for pleasure <span id="fr_59"></span>[XLV](#fn_59.md) and never
 from necessity."
 
 "I had quite the opposite idea of Sageness," I replied, I supposed that
@@ -637,7 +637,7 @@ the Sage should only eat to satisfy necessity."
 go without eating?"
 
 "How should I know?" said I, Moses and Elias <span
-id="fr_60"></span>[XLVI](#fn_60) fasted forty days, no doubt you Sages
+id="fr_60"></span>[XLVI](#fn_60.md) fasted forty days, no doubt you Sages
 fast for some days less."
 
 "What a mighty endeavour that would be! " he answered, "The most learned
@@ -651,7 +651,7 @@ acknowledged Monarch of the Empire of Wisdom, whose sceptre we have
 justly accorded him, was pleased to essay living for several years by
 taking only one half scrupule of Solar Quintessence. And if you wish to
 have the pleasure of making any one live without eating, you have only
-to prepare the earth <span id="fr_61"></span>[XLVII](#fn_61) as I have
+to prepare the earth <span id="fr_61"></span>[XLVII](#fn_61.md) as I have
 indicated that it may be prepared for the purpose of securing the
 partnership of the Gnomes. This Earth applied to the navel, and renewed
 when it is too dry, makes it possible for one to dispense with eating
@@ -679,14 +679,14 @@ Philosophy
 
 ### Footnotes
 
-<span id="fn_26"></span>[21:XIX](cdg05.htm#fr_26) <span id="page_22">p.
+<span id="fn_26"></span>[21:XIX](cdg05.htm#fr_26.md) <span id="page_22">p.
 22</span> PASS THE ENTIRE NIGHT IN PRAYER.--It is a tradition that the
 aspirant should pass the night before Initiation in prayer. Hence the
 Knight of the Grail prayed and kept vigil over his armour (his lower
 nature and mind) prior to receiving the golden spurs, symbols of the Sun
 and Divine Illumination.
 
-<span id="fn_27"></span>[21:XX](cdg05.htm#fr_27) EXCURSION.--When the
+<span id="fn_27"></span>[21:XX](cdg05.htm#fr_27.md) EXCURSION.--When the
 disciple leaves his physical body in full consciousness for the first
 time, he is usually accompanied by his Master. Thus Swedenborg, in a
 passage which prefaced his work on the astral regions, says that "his
@@ -706,25 +706,25 @@ body, I cannot tell: God knoweth)."--II. CORINTHIANS,
 
 CHAPTER xii., 3. *Proof that St. Paul was an Initiate and a Cabalist is
 found in I. Corinthians, chapter ii., 6--8. Authority for this
-Statement. [Note F](cdg16.htm#an_F), Commentary Continued*.
+Statement. [Note F](cdg16.htm#an_F.md), Commentary Continued*.
 
-<span id="fn_28"></span>[23:XXI](cdg05.htm#fr_28) <span id="page_24">p.
+<span id="fn_28"></span>[23:XXI](cdg05.htm#fr_28.md) <span id="page_24">p.
 24</span> PLATO. HIS PLACE AS A PHILOSOPHER, PLATO MEETS HIS MASTER.
-[NOTE G](cdg17.htm#an_G), COMMENTARY CONTINUED.
+[NOTE G](cdg17.htm#an_G.md), COMMENTARY CONTINUED.
 
-<span id="fn_29"></span>[25:XXII](cdg05.htm#fr_29) <span id="page_26">p.
+<span id="fn_29"></span>[25:XXII](cdg05.htm#fr_29.md) <span id="page_26">p.
 26</span>
 
 I WORSHIP THEE, O MIGHTY GOD.
 
 "God" is the rendering in the English versions of the Hebrew "El,"
-"Eloah," and "Elohim." <span id="fr_30"></span>[1](#fn_30) "El" does not
-signify Deus (God) but Sol (Sun)." <span id="fr_31"></span>[2](#fn_31)
+"Eloah," and "Elohim." <span id="fr_30"></span>[1](#fn_30.md) "El" does not
+signify Deus (God) but Sol (Sun)." <span id="fr_31"></span>[2](#fn_31.md)
 "The word El ought to be written Al. In the original it is AL and this
 word means the God Mithra, the Sun, as the Preserver and Saviour." <span
-id="fr_32"></span>[3](#fn_32) Since the word translated God in the first
+id="fr_32"></span>[3](#fn_32.md) Since the word translated God in the first
 chapter of Genesis is 'Elohim', the majestic plural form of El, the Sun,
-translatable as 'MIGHTY SUN' <span id="fr_33"></span>[4](#fn_33) and
+translatable as 'MIGHTY SUN' <span id="fr_33"></span>[4](#fn_33.md) and
 since we read that "Elohim made two great lights, the greater light to
 rule the day, and the lesser light to rule the night, he made the stars
 also." GENESIS, I, 16. ELOHIM (GOD) IS SEEN TO BE THE PARENT OF THE SUN
@@ -740,26 +740,26 @@ the article means Allah, God Manifesting in Nature, the Undefinable, the
 Beginning, and the End. "He is the Lord of Sirus." (The Dog Star), Koran
 Sura, liii, The Star.
 
-<span id="fn_30"></span>[25:1](cdg05.htm#fr_30) THE JEWISH ENCYCLOPEDIA.
+<span id="fn_30"></span>[25:1](cdg05.htm#fr_30.md) THE JEWISH ENCYCLOPEDIA.
 
-<span id="fn_31"></span>[25:2](cdg05.htm#fr_31) SIR W. DRUMMOND. OEDIPUS
+<span id="fn_31"></span>[25:2](cdg05.htm#fr_31.md) SIR W. DRUMMOND. OEDIPUS
 JUDAICUS, PAGE 270.
 
-<span id="fn_32"></span>[25:3](cdg05.htm#fr_32) GODFREY HIGGINS. THE
+<span id="fn_32"></span>[25:3](cdg05.htm#fr_32.md) GODFREY HIGGINS. THE
 ANACALYPSIS, VOL. I, PAGE 71.
 
-<span id="fn_33"></span>[25:4](cdg05.htm#fr_33) GENSENIUS' HEBREW
+<span id="fn_33"></span>[25:4](cdg05.htm#fr_33.md) GENSENIUS' HEBREW
 GRAMMAR, PAGE 398. NOTE 2.
 
-<span id="fn_34"></span>[27:XXIII](cdg05.htm#fr_34) <span
+<span id="fn_34"></span>[27:XXIII](cdg05.htm#fr_34.md) <span
 id="page_28">p. 28</span> "CHASTITY is the obedience of the body to the
 the desire of the soul subservient to the Divine Will."
 
-<span id="fn_35"></span>[27:XXIV](cdg05.htm#fr_35) PHILOSOPHIC
+<span id="fn_35"></span>[27:XXIV](cdg05.htm#fr_35.md) PHILOSOPHIC
 BALANCE.--A Philosopher is able to balance the sex nature
 autodynamically through knowledge of the Law governing Solar Force.
 
-<span id="fn_36"></span>[29:XXV](cdg05.htm#fr_36) <span id="page_30">p.
+<span id="fn_36"></span>[29:XXV](cdg05.htm#fr_36.md) <span id="page_30">p.
 30</span> WHEN YOUR EYES HAVE BEEN STRENGTHENED.--A ganglion of the
 sympathetic nervous system, known as the pineal gland, is situated in
 the brain directly posterior to the extremity of the third ventricle. "
@@ -768,7 +768,7 @@ inner side of each optic thalamus." When through the use of the Holy
 Catholic Medecine (government of Solar Force) the pineal gland is
 regenerated, it endows man with superphysical or seer vision.
 
-<span id="fn_37"></span>[29:XXVI](cdg05.htm#fr_37) THE PEOPLE OF THE
+<span id="fn_37"></span>[29:XXVI](cdg05.htm#fr_37.md) THE PEOPLE OF THE
 ELEMENTS.--Man's consciousness is limited in direct proportion to the
 development of his senses of perception. Man has within himself, in the
 sympathetic and cerebro spinal nervous systems, minor brain centres.
@@ -807,11 +807,11 @@ emotions and mind he may, through knowledge of the Law governing Solar
 Force and the regeneration of certain minor brain centres, enter into a
 harmonious relationship with these People of the Elements.
 
-<span id="fn_38"></span>[31:XXVII](cdg05.htm#fr_38) <span
+<span id="fn_38"></span>[31:XXVII](cdg05.htm#fr_38.md) <span
 id="page_34">p. 34</span> BENVENUTO CELLINI SEES A SALAMANDER. [NOTE
-H](cdg18.htm#an_H), COMMENTARY CONTINUED.
+H](cdg18.htm#an_H.md), COMMENTARY CONTINUED.
 
-<span id="fn_39"></span>[35:XXVIII](cdg05.htm#fr_39) <span
+<span id="fn_39"></span>[35:XXVIII](cdg05.htm#fr_39.md) <span
 id="page_36">p. 36</span> ALLIANCE.--Although the author multiplies
 instances of marriages which have actually taken place between human and
 Elemental or superphysical beings, yet the reader will perceive the
@@ -851,16 +851,16 @@ higher the vibration and resultant conscibusness. The evolution of
 consciousness is caused by the play of the life giving force or
 universal mind in matter.
 
-<span id="fn_40"></span>[37:\*](cdg05.htm#fr_41) *Of the Cabalistic
+<span id="fn_40"></span>[37:\*](cdg05.htm#fr_41.md) *Of the Cabalistic
 Wisdom*.
 
-<span id="fn_41"></span>[37:XXIX](cdg05.htm#fr_40) BOOK OF ENOCH. [NOTE
-I](cdg19.htm#an_I), COMMENTARY CONTINUED.
+<span id="fn_41"></span>[37:XXIX](cdg05.htm#fr_40.md) BOOK OF ENOCH. [NOTE
+I](cdg19.htm#an_I.md), COMMENTARY CONTINUED.
 
-<span id="fn_42"></span>[37:XXX](cdg05.htm#fr_42) ST. AUGUSTINE ON FAUNS
+<span id="fn_42"></span>[37:XXX](cdg05.htm#fr_42.md) ST. AUGUSTINE ON FAUNS
 AND SATYRS. DE CIVITATE DEI BOOK XV, CHAPTER XXIII.
 
-<span id="fn_43"></span>[41:XXXI](cdg05.htm#fr_43) <span id="page_42">p.
+<span id="fn_43"></span>[41:XXXI](cdg05.htm#fr_43.md) <span id="page_42">p.
 42</span> WISDOM OF THE SERPENT.--The Wisdom which the Comte hints at
 and which the Abbé here renounces is the Wisdom of the Serpent, the
 knowledge resulting from government of the Serpent Fire or Solar Force.
@@ -869,7 +869,7 @@ knowledge resulting from government of the Serpent Fire or Solar Force.
 transformation of these, almost every form of energy manifest upon it;
 the energy of the growth of plants, the vital energy of animals, are
 only the energy received from the Sun changed in its expression." <span
-id="fr_44"></span>[\*](#fn_44) A supreme manifestation of this vital or
+id="fr_44"></span>[\*](#fn_44.md) A supreme manifestation of this vital or
 solar energy upon the physical plane is found in the sympathetic and
 cerebro spinal nervous systems of man and its voltage can there be
 raised into that Super-Sensible Energy, the instrument which the soul of
@@ -884,23 +884,23 @@ the heavens; His hand hath formed the crooked serpent. Lo, these are
 parts of His ways: but how little a portion is heard of Him? but the
 thunder of His power who can understand?" *Job xxvi*, 13, 14. THE SOLAR
 FORCE IS THE SERPENT IN THE ANCIENT SYMBOL OF THE EGG AND THE SERPENT.
-[NOTE J](cdg20.htm#an_J), COMMENTARY CONTINUED.
+[NOTE J](cdg20.htm#an_J.md), COMMENTARY CONTINUED.
 
-<span id="fn_44"></span>[41:\*](cdg05.htm#fr_44) E. WALTER MAUNDER,
+<span id="fn_44"></span>[41:\*](cdg05.htm#fr_44.md) E. WALTER MAUNDER,
 F.R.A.S., THE SCIENCE OF THE STARS. PAGE 75. THE PEOPLE'S BOOKS. 42
 
-<span id="fn_45"></span>[45:XXXII](cdg05.htm#fr_45) <span
+<span id="fn_45"></span>[45:XXXII](cdg05.htm#fr_45.md) <span
 id="page_46">p. 46</span> THOSE RESERVED FOR GREATER THINGS. [NOTE
-K](cdg21.htm#an_K), COMMENTARY CONTINUED.
+K](cdg21.htm#an_K.md), COMMENTARY CONTINUED.
 
-<span id="fn_46"></span>[45:XXXIII](cdg05.htm#fr_46)
+<span id="fn_46"></span>[45:XXXIII](cdg05.htm#fr_46.md)
 CIRCUMLOCUTIONS.--"Every time you find in our books a tale, the reality
 of which seems impossible, a story which repugnant both to reason and
 common sense, then be sure that tale contains a profound allegory
 veiling a deeply mysterious truth; and the greater the absurdity of the
 letter the deeper the wisdom of the spirit." RABBI MOSES MAIMONIDES.
 
-<span id="fn_47"></span>[47:XXXIV](cdg05.htm#fr_47) <span
+<span id="fn_47"></span>[47:XXXIV](cdg05.htm#fr_47.md) <span
 id="page_48">p. 48</span> THE UNIVERSAL FIRE OR SOLAR FORCE.--"IS the
 Paraklete, the light of the Logos, which in energizing becomes what may
 be described as living, conscious electricity, of incredible voltage and
@@ -917,7 +917,7 @@ Moon." PARACELSUS.
 
 "The Sun and the Moon are the roots of this Art." HERMES TRISMEGISTUS.
 
-<span id="fn_48"></span>[49:XXXV](cdg05.htm#fr_48) <span id="page_50">p.
+<span id="fn_48"></span>[49:XXXV](cdg05.htm#fr_48.md) <span id="page_50">p.
 50</span> GLOBE OF CRYSTAL.--TO the Seer, man appears surrounded by an
 oviform luminous mist or globe of crystal. This luminosity of the finer
 bodies is the manifestation of the emotions and thoughts of the
@@ -926,7 +926,7 @@ being present during life and withdrawn at death. Dr. W. J. Kilner in
 his book "The Human Atmosphere" describes a method whereby persons
 having ordinary vision are enabled to see this aura.
 
-<span id="fn_49"></span>[49:XXXVI](cdg05.htm#fr_49) EXALT THE ELEMENT OF
+<span id="fn_49"></span>[49:XXXVI](cdg05.htm#fr_49.md) EXALT THE ELEMENT OF
 FIRE.--Constant aspiration, and desire to know God's Law liberates in
 man that Force which is a Living Flame, and which acts under the
 direction of the God in man, and with or without the conscious effort of
@@ -963,7 +963,7 @@ man ever strives to render unto him his lost birthright. No sincere
 effort to solve God's Mystery passes unheeded by the Silent Watcher
 within.
 
-<span id="fn_50"></span>[51:XXXVII](cdg05.htm#fr_50) COMPRESSED AIR,
+<span id="fn_50"></span>[51:XXXVII](cdg05.htm#fr_50.md) COMPRESSED AIR,
 WATER, OR EARTH .--The Philosophers hold that man is four fold in
 nature, having four bodies corresponding to the four Elements. The
 physical or Earth body is interpenetrated by a body of finer <span
@@ -987,9 +987,9 @@ achieved through concentration in meditation, and by persistent effort
 at all times to impress the mind to reject falsehood and accept only
 Truth that it may purely reflect the God within.
 
-<span id="fn_51"></span>[53:\*](cdg05.htm#fr_51) *Alchemist*.
+<span id="fn_51"></span>[53:\*](cdg05.htm#fr_51.md) *Alchemist*.
 
-<span id="fn_52"></span>[53:XXXVIII](cdg05.htm#fr_52) <span
+<span id="fn_52"></span>[53:XXXVIII](cdg05.htm#fr_52.md) <span
 id="page_56">p. 56</span> PHILOSOPHIC PROCEDURES.--By concentration in
 medtation upon a given subject, and by the EFFORT of regular breathing,
 the inhalation and exhalation occupying the same space of time, the mind
@@ -1016,17 +1016,17 @@ Sovereignty.
 "For the mind shepherdeth Thy Word, O Spirit bearing Creator!" HERMES
 TRISMEGISTUS, "SECRET HYMNODY."
 
-<span id="fn_53"></span>[53:XXXIX](cdg05.htm#fr_53) <span
+<span id="fn_53"></span>[53:XXXIX](cdg05.htm#fr_53.md) <span
 id="page_55">p. 55</span> PANIC TERRORS, ORIGIN OF TERM. [NOTE
-L](cdg22.htm#an_L), COMMENTARY CONTINUED.
+L](cdg22.htm#an_L.md), COMMENTARY CONTINUED.
 
-<span id="fn_54"></span>[57:XL](cdg05.htm#fr_54) THE GREAT PAN IS DEAD.'
-[NOTE M](cdg23.htm#an_M), COMMENTARY CONTINUED.
+<span id="fn_54"></span>[57:XL](cdg05.htm#fr_54.md) THE GREAT PAN IS DEAD.'
+[NOTE M](cdg23.htm#an_M.md), COMMENTARY CONTINUED.
 
-<span id="fn_55"></span>[59:XLI](cdg05.htm#fr_55) <span id="page_60">p.
-60</span> JANSENISTS. [NOTE N](cdg24.htm#an_N). COMMENTARY CONTINUED.
+<span id="fn_55"></span>[59:XLI](cdg05.htm#fr_55.md) <span id="page_60">p.
+60</span> JANSENISTS. [NOTE N](cdg24.htm#an_N.md). COMMENTARY CONTINUED.
 
-<span id="fn_56"></span>[59:XLII](cdg05.htm#fr_56) SECTS AND RELIGIONS,
+<span id="fn_56"></span>[59:XLII](cdg05.htm#fr_56.md) SECTS AND RELIGIONS,
 THEIR CAUSE.--As soon, therefore, as the soul gravitates towards body in
 this first production of herself she begins to experience a material
 tumult, that is matter flowing into her essence. And this is what Plato
@@ -1048,7 +1048,7 @@ ORIGIN OF OPINION. But those discover most who have drank least of
 oblivion, because they easily remember what they had known before in the
 heavens. MACROBIUS. COMMENTARY ON SCIPIO'S DREAM. CHAPTER XII.
 
-<span id="fn_57"></span>[61:XLIII](cdg05.htm#fr_57) <span
+<span id="fn_57"></span>[61:XLIII](cdg05.htm#fr_57.md) <span
 id="page_62">p. 62</span> THE SECOND DEATH.--"That which Nature binds,
 Nature also dissolves: and that which the soul binds, the soul likewise
 dissolves. Nature, indeed, bound the body to the soul; but the soul
@@ -1060,10 +1060,10 @@ which the soul is liberated from the body. Nor does the one entirely
 follow the other." PORPHRY "AUXILIARIES TO THE PERCEPTION OF THE
 INTELLIGIBLES."
 
-<span id="fn_58"></span>[63:XLIV](cdg05.htm#fr_58) <span id="page_64">p.
-64</span> BODIN. [NOTE O](cdg25.htm#an_O), COMMENTARY CONTINUED.
+<span id="fn_58"></span>[63:XLIV](cdg05.htm#fr_58.md) <span id="page_64">p.
+64</span> BODIN. [NOTE O](cdg25.htm#an_O.md), COMMENTARY CONTINUED.
 
-<span id="fn_59"></span>[63:XLV](cdg05.htm#fr_59) THE PHILOSOPHY OF
+<span id="fn_59"></span>[63:XLV](cdg05.htm#fr_59.md) THE PHILOSOPHY OF
 NUTRITION.--"Nutrition is but little understood in the world to-day, for
 it is controlled by a Force outside of thought or will. THERE IS AN
 INDESTRUCTIBLE FORCE INHERENT IN ALL MATTER. Its mode of action is
@@ -1086,11 +1086,11 @@ conscious of this Law he will be able to assimilate this Force and will
 no longer be dependent upon matter for the support of his physical
 organism."
 
-<span id="fn_60"></span>[63:XLVI](cdg05.htm#fr_60) <span id="page_66">p.
-66</span> MOSES AND ELIAS FASTED FORTY DAYS. [NOTE P](cdg26.htm#an_P),
+<span id="fn_60"></span>[63:XLVI](cdg05.htm#fr_60.md) <span id="page_66">p.
+66</span> MOSES AND ELIAS FASTED FORTY DAYS. [NOTE P](cdg26.htm#an_P.md),
 COMMENTARY CONTINUED.
 
-<span id="fn_61"></span>[65:XLVII](cdg05.htm#fr_61) TO PREPARE THE
+<span id="fn_61"></span>[65:XLVII](cdg05.htm#fr_61.md) TO PREPARE THE
 EARTH--means to purify and to gain complete control over the earthly or
 physical body. To renew the earth when too dry means to recharge self
 with the Solar Force or Catholic Cabalistic Medicine.
@@ -1104,9 +1104,9 @@ PROPHECY OF THE MAGI OR MOST
 ANCIENT SAGES FORETELLING  
 WORLD PEACE AND A  
 UNIVERSAL LANGUAGE.  
-[NOTE I](cdg19.htm#an_I), COMMENTARY  
+[NOTE I](cdg19.htm#an_I.md), COMMENTARY  
 CONCLUDED.
 
 ------------------------------------------------------------------------
 
-[Next: Hermes](cdg06)
+[Next: Hermes](cdg06.md)

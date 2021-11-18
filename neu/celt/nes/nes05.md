@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes04)  [Next](nes06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes04)  [Next](nes06.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Hourly joys be still upon you."</td>
 
 |                     |
 |---------------------|
-| ![W](img/winit.jpg) |
+| ![W](img/winit.jpg.md) |
 
 HEN the child was born, if it was a boy it was wrapped in a woman's
 shirt, and if it was a girl it was wrapped in a man's. If the operation
@@ -39,7 +39,7 @@ In washing the new-born infant great care was used not to let the water
 touch the palms of the hands, and this care was continued for a
 considerable length of time, under the belief that to wash the palms of
 the hands washed away the luck of this world's goods. <span
-id="fr_5"></span>[1](#fn_5) By some a live coal was thrown into the
+id="fr_5"></span>[1](#fn_5.md) By some a live coal was thrown into the
 water in which the new-born infant was washed. By others it was
 carefully poured under the foundation of the dwelling-house, to prevent
 it from coming in contact with fire, and thus to preserve in coming
@@ -126,7 +126,7 @@ of *teething plaster*.
 When once a child was weaned, suck was not on any account again given.
 Thieving propensities would have been the result of such an action.
 Neither was it lawful to cut its nails with knife or scissors. <span
-id="fr_6"></span>[1](#fn_6) That, too, begot a thieving disposition.
+id="fr_6"></span>[1](#fn_6.md) That, too, begot a thieving disposition.
 Biting off was the only mode adopted.
 
 If a child spoke before it walked, it turned out a liar.
@@ -136,7 +136,7 @@ crossed with money, or a piece of bread was put into its hand. If this
 was not done, hunger was left in the house. It was sometimes a custom to
 put a little meal into the child's mouth the first time it was carried
 out and taken into a neighbour's house. <span
-id="fr_7"></span>[2](#fn_7)
+id="fr_7"></span>[2](#fn_7.md)
 
 The cradle was an object of much care. A child was never put into a new
 cradle. A live cock or hen was first placed in
@@ -156,13 +156,13 @@ to be used.
 
 ### Footnotes
 
-<span id="fn_5"></span>[7:1](nes05.htm#fr_5) Cf. Henderson, p. 16.
+<span id="fn_5"></span>[7:1](nes05.htm#fr_5.md) Cf. Henderson, p. 16.
 
-<span id="fn_6"></span>[9:1](nes05.htm#fr_6) Cf. Henderson, p. 16, and
+<span id="fn_6"></span>[9:1](nes05.htm#fr_6.md) Cf. Henderson, p. 16, and
 *F. L. Record*, vol. i. p. 11 (30).
 
-<span id="fn_7"></span>[9:2](nes05.htm#fr_7) Cf. Henderson, p. 20.
+<span id="fn_7"></span>[9:2](nes05.htm#fr_7.md) Cf. Henderson, p. 20.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Baptism](nes06)
+[Next: Chapter III. Baptism](nes06.md)

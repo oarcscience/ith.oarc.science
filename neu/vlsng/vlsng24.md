@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng23)  [Next](vlsng25) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng23)  [Next](vlsng25.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII: Sigurd comes to Hlymdale.](vlsng25)
+[Next: Chapter XXIII: Sigurd comes to Hlymdale.](vlsng25.md)

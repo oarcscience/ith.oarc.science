@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap04) 
-[Next](chap06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap04.md) 
+[Next](chap06.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ God has made everything for the best!
 ------------------------------------------------------------------------
 
 [Next: Chapter 6: Concerning Everything That Is Favourable to the Act of
-Coition](chap06)
+Coition](chap06.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ THEM.**
 1\. NOW the necessity which Archelaus was under of taking a journey to
 Rome was the occasion of new disturbances; for when he had mourned for
 his father seven days, <span
-id="EndNote War 2.1a"></span>[(1)](#EndNote%20War%202.1b) and had given
+id="EndNote War 2.1a"></span>[(1)](#EndNote%20War%202.1b.md) and had given
 a very expensive funeral feast to the multitude, (which custom is the
 occasion of poverty to many of the Jews, because they are forced to
 feast the multitude; for if any one omits it, he is not esteemed a holy
@@ -462,7 +462,7 @@ before the revolt, had come, by Varus's permission, to plead for the
 liberty of their country; those that came were fifty in number, but
 there were more than eight thousand of the Jews at Rome who supported
 them. And when Caesar had assembled a council of the principal Romans in
-Apollo's <span id="EndNote War 2.2a"></span>[(2)](#EndNote%20War%202.2b)
+Apollo's <span id="EndNote War 2.2a"></span>[(2)](#EndNote%20War%202.2b.md)
 temple, that was in the palace, (this was what he had himself built and
 adorned, at a vast expense,) the multitude of the Jews stood with the
 ambassadors, and on the other side stood Archelaus, with his friends;
@@ -492,7 +492,7 @@ which they had anciently enjoyed; that, in short, the Jews had borne
 more calamities from Herod, in a few years, than had their forefathers
 during all that interval of time that had passed since they had come out
 of Babylon, and returned home, in the reign of Xerxes <span
-id="EndNote War 2.3a"></span>[(3)](#EndNote%20War%202.3b) that, however,
+id="EndNote War 2.3a"></span>[(3)](#EndNote%20War%202.3b.md) that, however,
 the nation was come to so low a condition, by being inured to hardships,
 that they submitted to his successor of their own accord, though he
 brought them into bitter slavery; that accordingly they readily called
@@ -742,7 +742,7 @@ after a just manner, and restrain their passion. They are eminent for
 fidelity, and are the ministers of peace; whatsoever they say also is
 firmer than an oath; but swearing is avoided by them, and they esteem it
 worse than perjury <span
-id="EndNote War 2.4a"></span>[(4)](#EndNote%20War%202.4b) for they say
+id="EndNote War 2.4a"></span>[(4)](#EndNote%20War%202.4b.md) for they say
 that he who cannot be believed without \[swearing by\] God is already
 condemned. They also take great pains in studying the writings of the
 ancients, and choose out of them what is most for the advantage of their
@@ -777,7 +777,7 @@ should compel him so to do at the hazard of his life. Moreover, he
 swears to communicate their doctrines to no one any otherwise than as he
 received them himself; that he will abstain from robbery, and will
 equally preserve the books belonging to their sect, and the names of the
-angels <span id="EndNote War 2.5a"></span>[(5)](#EndNote%20War%202.5b)
+angels <span id="EndNote War 2.5a"></span>[(5)](#EndNote%20War%202.5b.md)
 \[or messengers\]. These are the oaths by which they secure their
 proselytes to themselves.
 
@@ -860,18 +860,18 @@ death; and whereby the vehement inclinations of bad men to vice are
 restrained, by the fear and expectation they are in, that although they
 should lie concealed in this life, they should suffer immortal
 punishment after their death. These are the Divine doctrines of the
-Essens <span id="EndNote War 2.6a"></span>[(6)](#EndNote%20War%202.6b)
+Essens <span id="EndNote War 2.6a"></span>[(6)](#EndNote%20War%202.6b.md)
 about the soul, which lay an unavoidable bait for such as have once had
 a taste of their philosophy.
 
 12\. There are also those among them who undertake to foretell things to
-come, <span id="EndNote War 2.7a"></span>[(7)](#EndNote%20War%202.7b) by
+come, <span id="EndNote War 2.7a"></span>[(7)](#EndNote%20War%202.7b.md) by
 reading the holy books, and using several sorts of purifications, and
 being perpetually conversant in the discourses of the prophets; and it
 is but seldom that they miss in their predictions.
 
 13\. Moreover, there is another order of Essens, <span
-id="EndNote War 2.8a"></span>[(8)](#EndNote%20War%202.8b) who agree with
+id="EndNote War 2.8a"></span>[(8)](#EndNote%20War%202.8b.md) who agree with
 the rest as to their way of living, and customs, and laws, but differ
 from them in the point of marriage, as thinking that by not marrying
 they cut off the principal part of human life, which is the prospect of
@@ -938,7 +938,7 @@ vast number of people came running out of the country. These came
 zealously to Pilate to Cesarea, and besought him to carry those ensigns
 out of Jerusalem, and to preserve them their ancient laws inviolable;
 but upon Pilate's denial of their request, they fell <span
-id="EndNote War 2.9a"></span>[(9)](#EndNote%20War%202.9b) down prostrate
+id="EndNote War 2.9a"></span>[(9)](#EndNote%20War%202.9b.md) down prostrate
 upon the ground, and continued immovable in that posture for five days
 and as many nights.
 
@@ -959,7 +959,7 @@ carried out of Jerusalem.
 
 4\. After this he raised another disturbance, by expending that sacred
 treasure which is called Corban <span
-id="EndNote War 2.10a"></span>[(10)](#EndNote%20War%202.10b) upon
+id="EndNote War 2.10a"></span>[(10)](#EndNote%20War%202.10b.md) upon
 aqueducts, whereby he brought water from the distance of four hundred
 furlongs. At this the multitude had indignation; and when Pilate was
 come to Jerusalem, they came about his tribunal, and made a clamor at
@@ -1012,7 +1012,7 @@ as to take himself to be a god, and to desire to be so called also, and
 to cut off those of the greatest nobility out of his country. He also
 extended his impiety as far as the Jews. Accordingly, he sent Petronius
 with an army to Jerusalem, to place his statues in the temple, <span
-id="EndNote War 2.11a"></span>[(11)](#EndNote%20War%202.11b) and
+id="EndNote War 2.11a"></span>[(11)](#EndNote%20War%202.11b.md) and
 commanded him that, in case the Jews would not admit of them, he should
 slay those that opposed it, and carry all the rest of the nation into
 captivity: but God concerned himself with these his commands. However,
@@ -1030,9 +1030,9 @@ Carmel, which is distant from it a hundred and twenty furlongs; and that
 on the north is the highest of them all, and is called by the people of
 the country, The Ladder of the Tyrians, which is at the distance of a
 hundred furlongs. The very small river Belus <span
-id="EndNote War 2.12a"></span>[(12)](#EndNote%20War%202.12b) runs by it,
+id="EndNote War 2.12a"></span>[(12)](#EndNote%20War%202.12b.md) runs by it,
 at the distance of two furlongs; near which there is Menmon's monument,
-<span id="EndNote War 2.13a"></span>[(13)](#EndNote%20War%202.13b) and
+<span id="EndNote War 2.13a"></span>[(13)](#EndNote%20War%202.13b.md) and
 hath near it a place no larger than a hundred cubits, which deserves
 admiration; for the place is round and hollow, and affords such sand as
 glass is made of; which place, when it hath been emptied by the many
@@ -1250,7 +1250,7 @@ as laying it to their charge that they had not pursued after the
 thieves, and caught them. Now here it was that a certain soldier,
 finding the sacred book of the law, tore it to pieces, and threw it into
 the fire. <span
-id="EndNote War 2.14a"></span>[(14)](#EndNote%20War%202.14b) Hereupon
+id="EndNote War 2.14a"></span>[(14)](#EndNote%20War%202.14b.md) Hereupon
 the Jews were in great disorder, as if their whole country were in a
 flame, and assembled themselves so many of them by their zeal for their
 religion, as by an engine, and ran together with united clamor to
@@ -1301,7 +1301,7 @@ themselves; but still there were a great number who betook themselves to
 robbing, in hopes of impunity; and rapines and insurrections of the
 bolder sort happened over the whole country. And the men of power among
 the Samaritans came to Tyre, to Ummidius Quadratus, <span
-id="EndNote War 2.15a"></span>[(15)](#EndNote%20War%202.15b) the
+id="EndNote War 2.15a"></span>[(15)](#EndNote%20War%202.15b.md) the
 president of Syria, and desired that they that had laid waste the
 country might be punished: the great men also of the Jews, and Jonathan
 the son of Ananus the high priest, came thither, and said that the
@@ -1337,7 +1337,7 @@ Jews to be tormented; that he should be drawn round the city, and then
 beheaded.
 
 8\. After this Caesar sent Felix, <span
-id="EndNote War 2.16a"></span>[(16)](#EndNote%20War%202.16b) the brother
+id="EndNote War 2.16a"></span>[(16)](#EndNote%20War%202.16b.md) the brother
 of Pallas, to be procurator of Galilee, and Samaria, and Perea, and
 removed Agrippa from Chalcis unto a greater kingdom; for he gave him the
 tetrarchy which had belonged to Philip, which contained Batanae,
@@ -1371,7 +1371,7 @@ concerned.
 
 2\. Nero therefore bestowed the kingdom of the Lesser Armenia upon
 Aristobulus, Herod's son, <span
-id="EndNote War 2.17a"></span>[(17)](#EndNote%20War%202.17b) and he
+id="EndNote War 2.17a"></span>[(17)](#EndNote%20War%202.17b.md) and he
 added to Agrippa's kingdom four cities, with the toparchies to them
 belonging; I mean Abila, and that Julias which is in Perea, Tarichea
 also, and Tiberias of Galilee; but over the rest of Judea he made Felix
@@ -1503,7 +1503,7 @@ sown which brought the city to destruction.
 
 2\. And although such was the character of Albinus, yet did Gessius
 Florus <span
-id="EndNote War 2.18a"></span>[(18)](#EndNote%20War%202.18b) who
+id="EndNote War 2.18a"></span>[(18)](#EndNote%20War%202.18b.md) who
 succeeded him, demonstrate him to have been a most excellent person,
 upon the comparison; for the former did the greatest part of his
 rogueries in private, and with a sort of dissimulation; but Gessius did
@@ -1527,7 +1527,7 @@ Syria, nobody durst do so much as send an embassage to him against
 Florus; but when he was come to Jerusalem, upon the approach of the
 feast of unleavened bread, the people came about him not fewer in number
 than three millions <span
-id="EndNote War 2.19a"></span>[(19)](#EndNote%20War%202.19b) these
+id="EndNote War 2.19a"></span>[(19)](#EndNote%20War%202.19b.md) these
 besought him to commiserate the calamities of their nation, and cried
 out upon Florus as the bane of their country. But as he was present, and
 stood by Cestius, he laughed at their words. However, Cestius, when he
@@ -1582,7 +1582,7 @@ him;\] so that it soon came to blows. Hereupon Jucundus, the master of
 the horse, who was ordered to prevent the fight, came thither, and took
 away the earthen vessel, and endeavored to put a stop to the sedition;
 but when <span
-id="EndNote War 2.20a"></span>[(20)](#EndNote%20War%202.20b) he was
+id="EndNote War 2.20a"></span>[(20)](#EndNote%20War%202.20b.md) he was
 overcome by the violence of the people of Cesarea, the Jews caught up
 their books of the law, and retired to Narbata, which was a place to
 them belonging, distant from Cesarea sixty furlongs. But John, and
@@ -1661,7 +1661,7 @@ not spare even the infants themselves,) was about three thousand and six
 hundred. And what made this calamity the heavier was this new method of
 Roman barbarity; for Florus ventured then to do what no one had done
 before, that is, to have men of the equestrian order whipped <span
-id="EndNote War 2.21a"></span>[(21)](#EndNote%20War%202.21b) and nailed
+id="EndNote War 2.21a"></span>[(21)](#EndNote%20War%202.21b.md) and nailed
 to the cross before his tribunal; who, although they were by birth Jews,
 yet were they of Roman dignity notwithstanding.
 
@@ -1687,7 +1687,7 @@ also, unless she had prevented them by flying to the palace, and had
 staid there all night with her guards, which she had about her for fear
 of an insult from the soldiers. Now she dwelt then at Jerusalem, in
 order to perform a vow <span
-id="EndNote War 2.22a"></span>[(22)](#EndNote%20War%202.22b) which she
+id="EndNote War 2.22a"></span>[(22)](#EndNote%20War%202.22b.md) which she
 had made to God; for it is usual with those that had been either
 afflicted with a distemper, or with any other distresses, to make vows;
 and for thirty days before they are to offer their sacrifices, to
@@ -1765,7 +1765,7 @@ those that were uppermost; nor could any of them be distinguished by his
 relations in order to the care of his funeral; the soldiers also who
 beat them, fell upon those whom they overtook, without showing them any
 mercy, and thrust the multitude through the place called Bezetha, <span
-id="EndNote War 2.23a"></span>[(23)](#EndNote%20War%202.23b) as they
+id="EndNote War 2.23a"></span>[(23)](#EndNote%20War%202.23b.md) as they
 forced their way, in order to get in and seize upon the temple, and the
 tower Antonia. Florus also being desirous to get those places into his
 possession, brought such as were with him out of the king's palace, and
@@ -1867,7 +1867,7 @@ house of the Asamoneans, that she might be seen by them, (which house
 was over the gallery, at the passage to the upper city, where the bridge
 joined the temple to the gallery,) and spake to them as follows:
 
-4.<span id="EndNote War 2.24a"></span>[(24)](#EndNote%20War%202.24b) "
+4.<span id="EndNote War 2.24a"></span>[(24)](#EndNote%20War%202.24b.md) "
 Had I perceived that you were all zealously disposed to go to war with
 the Romans, and that the purer and more sincere part of the people did
 not propose to live in peace, I had not come out to you, nor been so
@@ -2150,7 +2150,7 @@ against Florus, on account of what they had suffered by his means. To
 which Agrippa replied, that what they had already done was like such as
 make war against the Romans; "for you have not paid the tribute which is
 due to Caesar <span
-id="EndNote War 2.25a"></span>[(25)](#EndNote%20War%202.25b) and you
+id="EndNote War 2.25a"></span>[(25)](#EndNote%20War%202.25b.md) and you
 have cut off the cloisters \[of the temple\] from joining to the tower
 Antonia. You will therefore prevent any occasion of revolt if you will
 but join these together again, and if you will but pay your tribute; for
@@ -2537,7 +2537,7 @@ reached.
 for he was himself gone to Cestius Gallus, to Antioch, but had left one
 of his companions, whose name was Noarus, to take care of the public
 affairs; which Noarus was of kin to king Sohemus. <span
-id="EndNote War 2.26a"></span>[(26)](#EndNote%20War%202.26b) Now there
+id="EndNote War 2.26a"></span>[(26)](#EndNote%20War%202.26b.md) Now there
 came certain men seventy in number, out of Batanea, who were the most
 considerable for their families and prudence of the rest of the people;
 these desired to have an army put into their hands, that if any tumult
@@ -2651,7 +2651,7 @@ Syrians, and especially those of Berytus, were busy in plundering, the
 Jews pulled up their courage again, for they knew that Cestius was
 retired, and fell upon those that were left behind unexpectedly, and
 destroyed about two thousand of them. <span
-id="EndNote War 2.27a"></span>[(27)](#EndNote%20War%202.27b)
+id="EndNote War 2.27a"></span>[(27)](#EndNote%20War%202.27b.md)
 
 10\. And now Cestius himself marched from Ptolemais, and came to
 Cesarea; but he sent part of his army before him to Joppa, and gave
@@ -2705,7 +2705,7 @@ battle: so they came, and finding their camp deserted, they burnt it, as
 well as the villages that lay about it. But when Cestius had marched
 from Antipatris to Lydda, he found the city empty of its men, for the
 whole multitude <span
-id="EndNote War 2.28a"></span>[(28)](#EndNote%20War%202.28b) were gone
+id="EndNote War 2.28a"></span>[(28)](#EndNote%20War%202.28b.md) were gone
 up to Jerusalem to the feast of tabernacles; yet did he destroy fifty of
 those that showed themselves, and burnt the city, and so marched
 forwards; and ascending by Betboron, he pitched his camp at a certain
@@ -2716,7 +2716,7 @@ metropolis, they left the feast, and betook themselves to their arms;
 and taking courage greatly from their multitude, went in a sudden and
 disorderly manner to the fight, with a great noise, and without any
 consideration had of the rest of the seventh day, although the Sabbath
-<span id="EndNote War 2.29a"></span>[(29)](#EndNote%20War%202.29b) was
+<span id="EndNote War 2.29a"></span>[(29)](#EndNote%20War%202.29b.md) was
 the day to which they had the greatest regard; but that rage which made
 them forget the religious observation \[of the sabbath\] made them too
 hard for their enemies in the fight: with such violence therefore did
@@ -2814,7 +2814,7 @@ insomuch that many of them ran out of the city, as though it were to be
 taken immediately; but the people upon this took courage, and where the
 wicked part of the city gave ground, thither did they come, in order to
 set open the gates, and to admit Cestius <span
-id="EndNote War 2.30a"></span>[(30)](#EndNote%20War%202.30b) as their
+id="EndNote War 2.30a"></span>[(30)](#EndNote%20War%202.30b.md) as their
 benefactor, who, had he but continued the siege a little longer, had
 certainly taken the city; but it was, I suppose, owing to the aversion
 God had already at the city and the sanctuary, that he was hindered from
@@ -2946,7 +2946,7 @@ Romans by violence, and some them persuaded \[by en-treaties\] to join
 with them, and got together in great numbers in the temple, and
 appointed a great many generals for the war. Joseph also, the son of
 Gorion, <span
-id="EndNote War 2.31a"></span>[(31)](#EndNote%20War%202.31b) and Ananus
+id="EndNote War 2.31a"></span>[(31)](#EndNote%20War%202.31b.md) and Ananus
 the high priest, were chosen as governors of all affairs within the
 city, and with a particular charge to repair the walls of the city; for
 they did not ordain Eleazar the son of Simon to that office, although he
@@ -2961,7 +2961,7 @@ and submitted themselves to his authority in all public affairs.
 4\. They also chose other generals for Idumea; Jesus, the son of
 Sapphias, one of the high priests; and Eleazar, the son of Ananias, the
 high priest; they also enjoined Niger, the then governor of Idumea,
-<span id="EndNote War 2.32a"></span>[(32)](#EndNote%20War%202.32b) who
+<span id="EndNote War 2.32a"></span>[(32)](#EndNote%20War%202.32b.md) who
 was of a family that belonged to Perea, beyond Jordan, and was thence
 called the Peraite, that he should be obedient to those fore-named
 commanders. Nor did they neglect the care of other parts of the country;
@@ -2987,7 +2987,7 @@ elders in age, and appointed them to be rulers of all Galilee, as he
 chose seven judges in every city to hear the lesser quarrels; for as to
 the greater causes, and those wherein life and death were concerned, he
 enjoined they should be brought to him and the seventy <span
-id="EndNote War 2.33a"></span>[(33)](#EndNote%20War%202.33b) elders.
+id="EndNote War 2.33a"></span>[(33)](#EndNote%20War%202.33b.md) elders.
 
 6\. Josephus also, when he had settled these rules for determining
 causes by the law, with regard to the people's dealings one with
@@ -3045,7 +3045,7 @@ also for their antagonist.
 8\. And thus did he continue to admonish them. Now he chose for the war
 such an army as was sufficient, i.e. sixty thousand footmen, and two
 hundred and fifty horsemen; <span
-id="EndNote War 2.34a"></span>[(34)](#EndNote%20War%202.34b) and besides
+id="EndNote War 2.34a"></span>[(34)](#EndNote%20War%202.34b.md) and besides
 these, on which he put the greatest trust, there were about four
 thousand five hundred mercenaries; he had also six hundred men as guards
 of his body. Now the cities easily maintained the rest of his army,
@@ -3335,7 +3335,7 @@ he had thus filled to sail away immediately for Taricheae, and to
 confine those men in the prison there; till at length he took all their
 senate, consisting of six hundred persons, and about two thousand of the
 populace, and carried them away to Taricheae. <span
-id="EndNote War 2.35a"></span>[(35)](#EndNote%20War%202.35b)
+id="EndNote War 2.35a"></span>[(35)](#EndNote%20War%202.35b.md)
 
 10\. And when the rest of the people cried out, that it was one Clitus
 that was the chief author of this revolt, they desired him to spend his
@@ -3402,7 +3402,7 @@ affairs of Judea at that time.
 
 ENDNOTE
 
-<span id="EndNote War 2.1b"></span>[(1)](#EndNote%20War%202.1a) Hear
+<span id="EndNote War 2.1b"></span>[(1)](#EndNote%20War%202.1a.md) Hear
 Dean Aldrich's note on this place: "The law or Custom of the Jews (says
 he) requires seven days' mourning for the dead, Antiq. B. XVII. ch. 8.
 sect. 4; whence the author of the Book of Ecclesiasticus, ch. 22:12,
@@ -3416,19 +3416,19 @@ mentioned as of considerable antiquity, Ezekiel 24:17; Jeremiah 16:7;
 Prey. 31:6; Deuteronomy 26:14; Josephus, Of the War B. III. ch. 9. sect.
 5.
 
-<span id="EndNote War 2.2b"></span>[(2)](#EndNote%20War%202.2a) This
+<span id="EndNote War 2.2b"></span>[(2)](#EndNote%20War%202.2a.md) This
 holding a council in the temple of Apollo, in the emperor's palace at
 Rome, by Augustus, and even the building of this temple magnificently by
 himself in that palace, are exactly agreeable to Augustus, in his elder
 years, as Aldrich and from Suttonius and Propertius.
 
-<span id="EndNote War 2.3b"></span>[(3)](#EndNote%20War%202.3a) Here we
+<span id="EndNote War 2.3b"></span>[(3)](#EndNote%20War%202.3a.md) Here we
 have a strong confirmation that it was Xerxes, and not Artaxerxes, under
 whom the main part of the Jews returned out of the Babylonian captivity,
 i.e. in the days of Ezra and Nehemiah. The same thing is in the
 Antiquities, B. XI. ch.6
 
-<span id="EndNote War 2.4b"></span>[(4)](#EndNote%20War%202.4a) This
+<span id="EndNote War 2.4b"></span>[(4)](#EndNote%20War%202.4a.md) This
 practice of the Essens, in refusing to swear, and esteeming swearing in
 ordinary occasions worse than perjury, is delivered here in general
 words, as are the parallel injunctions of our Savior, Matthew 6:34;
@@ -3446,7 +3446,7 @@ ch. 2:36; and again, by "not swearing at all," but withal adding, that
 "if that cannot be avoided, to swear truly," ch. 7:3; which abundantly
 explain to us the nature of the measures of this general injunction.
 
-<span id="EndNote War 2.5b"></span>[(5)](#EndNote%20War%202.5a) This
+<span id="EndNote War 2.5b"></span>[(5)](#EndNote%20War%202.5a.md) This
 mention of the "names of angels," so particularly preserved by the
 Essens, (if it means more than those "messengers" which were employed to
 bring, them the peculiar books of their Sect,) looks like a prelude to
@@ -3462,12 +3462,12 @@ earliest mention of any regard to the phases in fixing the Jewish
 calendar, of which the Talmud and later Rabbins talk so much, and upon
 so very little ancient foundation.
 
-<span id="EndNote War 2.6b"></span>[(6)](#EndNote%20War%202.6a) Of these
+<span id="EndNote War 2.6b"></span>[(6)](#EndNote%20War%202.6a.md) Of these
 Jewish or Essene (and indeed Christian) doctrines concerning souls, both
 good and bad, in Hades, see that excellent discourse, or homily, of our
 Josephus concerning Hades, at the end of the volume.
 
-<span id="EndNote War 2.7b"></span>[(7)](#EndNote%20War%202.7a) Dean
+<span id="EndNote War 2.7b"></span>[(7)](#EndNote%20War%202.7a.md) Dean
 Aldrich reckons up three examples of this gift of prophecy in several of
 these Essens out of Josephus himself, viz. in the History of the War, B.
 I. ch. 3. sect. 5, Judas foretold the death of Antigonus at Strato's
@@ -3477,7 +3477,7 @@ foretold that Herod should be king, and should reign tyrannically, and
 that for more than twenty or even thirty years. All which came to pass
 accordingly.
 
-<span id="EndNote War 2.8b"></span>[(8)](#EndNote%20War%202.8a) There is
+<span id="EndNote War 2.8b"></span>[(8)](#EndNote%20War%202.8a.md) There is
 so much more here about the Essens than is cited from Josephus in
 Porphyry and Eusebius, and yet so much less about the Pharisees and
 Sadducees, the two other Jewish sects, than would naturally be expected
@@ -3505,7 +3505,7 @@ because Josephus's account is that of the Pharisees, and St. Patti's
 that of the Jews in general, and of himself the contradiction is not
 very certain.
 
-<span id="EndNote War 2.9b"></span>[(9)](#EndNote%20War%202.9a) We have
+<span id="EndNote War 2.9b"></span>[(9)](#EndNote%20War%202.9a.md) We have
 here, in that Greek MS. which was once Alexander Petavius's, but is now
 in the library at Leyden, two most remarkable additions to the common
 copies, though declared worth little remark by the editor; which, upon
@@ -3518,38 +3518,38 @@ homily, Josephus having just mentioned Christ, as "God the Word, and the
 Judge of the world, appointed by the Father," etc., adds, that "he had
 himself elsewhere spoken about him more nicely or particularly."
 
-<span id="EndNote War 2.10b"></span>[(10)](#EndNote%20War%202.10a) This
+<span id="EndNote War 2.10b"></span>[(10)](#EndNote%20War%202.10a.md) This
 use of corban, or oblation, as here applied to the sacred money
 dedicated to God in the treasury of the temple, illustrates our Savior's
 words, Mark 7:11, 12.
 
-<span id="EndNote War 2.11b"></span>[(11)](#EndNote%20War%202.11a)
+<span id="EndNote War 2.11b"></span>[(11)](#EndNote%20War%202.11a.md)
 Tacitus owns that Caius commanded the Jews to place his effigies in
 their temple, though he be mistaken when he adds that the Jews thereupon
 took arms.
 
-<span id="EndNote War 2.12b"></span>[(12)](#EndNote%20War%202.12a) This
+<span id="EndNote War 2.12b"></span>[(12)](#EndNote%20War%202.12a.md) This
 account of a place near the mouth of the river Belus in Phoenicia,
 whence came that sand out of which the ancients made their glass, is a
 known thing in history, particularly in Tacitus and Strabo, and more
 largely in Pliny.
 
-<span id="EndNote War 2.13b"></span>[(13)](#EndNote%20War%202.13a) This
+<span id="EndNote War 2.13b"></span>[(13)](#EndNote%20War%202.13a.md) This
 Memnon had several monuments, and one of them appears, both by Strabo
 and Diodorus, to have been in Syria, and not improbably in this very
 place.
 
-<span id="EndNote War 2.14b"></span>[(14)](#EndNote%20War%202.14a)
+<span id="EndNote War 2.14b"></span>[(14)](#EndNote%20War%202.14a.md)
 Reland notes here, that the Talmud in recounting ten sad accidents for
 which the Jews ought to rend their garments, reckons this for one, "When
 they hear that the law of God is burnt."
 
-<span id="EndNote War 2.15b"></span>[(15)](#EndNote%20War%202.15a) This
+<span id="EndNote War 2.15b"></span>[(15)](#EndNote%20War%202.15a.md) This
 Ummidius, or Numidius, or, as Tacitus calls him, Vinidius Quadratus, is
 mentioned in an ancient inscription, still preserved, as Spanhelm here
 informs us, which calls him Urnmidius Quadratus.
 
-<span id="EndNote War 2.16b"></span>[(16)](#EndNote%20War%202.16a) Take
+<span id="EndNote War 2.16b"></span>[(16)](#EndNote%20War%202.16a.md) Take
 the character of this Felix (who is well known from the Acts of the
 Apostles, particularly from his trembling when St. Paul discoursed of
 "righteousness, chastity, and judgment to come," Acts 24:5; and no
@@ -3580,10 +3580,10 @@ as well as Bishop Lloyd, quote this account, but with a doubtful clause:
 confides Tacito, "If we may believe Tacitus." Pears. Anhal. Paulin. p.
 8; Marshall's Tables, at A.D. 49.
 
-<span id="EndNote War 2.17b"></span>[(17)](#EndNote%20War%202.17a) i.e.
+<span id="EndNote War 2.17b"></span>[(17)](#EndNote%20War%202.17a.md) i.e.
 Herod king of Chalcis.
 
-<span id="EndNote War 2.18b"></span>[(18)](#EndNote%20War%202.18a) Not
+<span id="EndNote War 2.18b"></span>[(18)](#EndNote%20War%202.18a.md) Not
 long after this beginning of Florus, the wickedest of all the Roman
 procurators of Judea, and the immediate occasion of the Jewish war, at
 the twelfth year of Nero, and the seventeenth of Agrippa, or A.D. 66,
@@ -3594,7 +3594,7 @@ Appendix, containing an account of his own life, till Agrippa was dead,
 which happened in the third year of Trajan, or A. D. 100, as I have
 several times observed before.
 
-<span id="EndNote War 2.19b"></span>[(19)](#EndNote%20War%202.19a) Here
+<span id="EndNote War 2.19b"></span>[(19)](#EndNote%20War%202.19a.md) Here
 we may note, that three millions of the Jews were present at the
 passover, A.D. 65; which confirms what Josephus elsewhere informs us of,
 that at a passover a little later they counted two hundred and fifty-six
@@ -3602,7 +3602,7 @@ thousand five hundred paschal lambs, which, at twelve to each lamb,
 which is no immoderate calculation, come to three millions and
 seventy-eight thousand. See B. VI. ch. 9. sect. 3.
 
-<span id="EndNote War 2.20b"></span>[(20)](#EndNote%20War%202.20a) Take
+<span id="EndNote War 2.20b"></span>[(20)](#EndNote%20War%202.20a.md) Take
 here Dr. Hudson's very pertinent note. "By this action," says he, "the
 killing of a bird over an earthen vessel, the Jews were exposed as a
 leprous people; for that was to be done by the law in the cleansing of a
@@ -3611,13 +3611,13 @@ Jews as subject to the leprosy, and believed that they were driven out
 of Egypt on that account. This that eminent person Mr. Reland suggested
 to me."
 
-<span id="EndNote War 2.21b"></span>[(21)](#EndNote%20War%202.21a) Here
+<span id="EndNote War 2.21b"></span>[(21)](#EndNote%20War%202.21a.md) Here
 we have examples of native Jews who were of the equestrian order among
 the Romans, and so ought never to have been whipped or crucified,
 according to the Roman laws. See almost the like case in St. Paul
 himself, Acts 22:25-29.
 
-<span id="EndNote War 2.22b"></span>[(22)](#EndNote%20War%202.22a) This
+<span id="EndNote War 2.22b"></span>[(22)](#EndNote%20War%202.22a.md) This
 vow which Bernice (here and elsewhere called queen, not only as daughter
 and sister to two kings, Agrippa the Great, and Agrippa junior, but the
 widow of Herod king of Chalcis) came now to accomplish at Jerusalem was
@@ -3645,7 +3645,7 @@ Bernice to Jewish discipline, and jests upon her for it; as do Tacitus,
 Dio, Suetonius, and Sextus Aurelius mention her as one well known at
 Rome.--Ibid.
 
-<span id="EndNote War 2.23b"></span>[(23)](#EndNote%20War%202.23a) I
+<span id="EndNote War 2.23b"></span>[(23)](#EndNote%20War%202.23a.md) I
 take this Bezetha to be that small hill adjoining to the north side of
 the temple, whereon was the hospital with five porticoes or cloisters,
 and beneath which was the sheep pool of Bethesda; into which an angel or
@@ -3658,7 +3658,7 @@ this day; only the remaining cloisters are but three. See Maundrel, p.
 this part, where was the hospital, peculiarly Bezetha or Bethesda. See
 ch. 19. sect. 4.
 
-<span id="EndNote War 2.24b"></span>[(24)](#EndNote%20War%202.24a) In
+<span id="EndNote War 2.24b"></span>[(24)](#EndNote%20War%202.24a.md) In
 this speech of king Agrippa we have an authentic account of the extent
 and strength of the Roman empire when the Jewish war began. And this
 speech with other circumstances in Josephus, demonstrate how wise and
@@ -3686,25 +3686,25 @@ which we have in St. Paul, 1 Timothy 5:22, and by the apostles in
 general, in the form of the ordination of bishops, Constitut. Apost.
 VIII. 4.
 
-<span id="EndNote War 2.25b"></span>[(25)](#EndNote%20War%202.25a)
+<span id="EndNote War 2.25b"></span>[(25)](#EndNote%20War%202.25a.md)
 Julius Caesar had decreed that the Jews of Jerusalem should pay an
 annual tribute to the Romans, excepting the city Joppa, and for the
 sabbatical year; as Spanheim observes from the Antiq. B. XIV. ch. 10.
 sect. 6.
 
-<span id="EndNote War 2.26b"></span>[(26)](#EndNote%20War%202.26a) Of
+<span id="EndNote War 2.26b"></span>[(26)](#EndNote%20War%202.26a.md) Of
 this Sohemus we have mention made by Tacitus. We also learn from Dio
 that his father was king of the Arabians of Iturea, \[which Iturea is
 mentioned by St. Luke, ch. 3:1.\] both whose testimonies are quoted here
 by Dr. Hudson. See Noldius, No. 371.
 
-<span id="EndNote War 2.27b"></span>[(27)](#EndNote%20War%202.27a)
+<span id="EndNote War 2.27b"></span>[(27)](#EndNote%20War%202.27a.md)
 Spanheim notes on the place, that this later Antiochus, who was called
 Epiphaues, is mentioned by Dio, LIX. p. 645, and that he is mentioned by
 Josephus elsewhere twice also, B.V. ch. 11. sect. 3; and Antiq. B. XIX.
 ch. 8. sect. I.
 
-<span id="EndNote War 2.28b"></span>[(28)](#EndNote%20War%202.28a) Here
+<span id="EndNote War 2.28b"></span>[(28)](#EndNote%20War%202.28a.md) Here
 we have an eminent example of that Jewish language, which Dr. Wail truly
 observes, we several times find used in the sacred writings; I mean,
 where the words "all" or" whole multitude,"etc. are used for much the
@@ -3716,7 +3716,7 @@ and were slain by the Romans. Other examples somewhat like this I have
 observed elsewhere in Josephus, but, as I think, none so remarkable as
 this. See Wall's Critical Observations on the Old Testament, p. 49, 50.
 
-<span id="EndNote War 2.29b"></span>[(29)](#EndNote%20War%202.29a) We
+<span id="EndNote War 2.29b"></span>[(29)](#EndNote%20War%202.29a.md) We
 have also, in this and the next section, two eminent facts to be
 observed, viz. the first example, that I remember, in Josephus, of the
 onset of the Jews' enemies upon their country when their males were gone
@@ -3728,7 +3728,7 @@ their nation in these ages, and even contrary to what they themselves
 afterward practiced in the rest of this war. See the note on Antiq. B.
 XVI. ch. 2. sect. 4.
 
-<span id="EndNote War 2.30b"></span>[(30)](#EndNote%20War%202.30a) There
+<span id="EndNote War 2.30b"></span>[(30)](#EndNote%20War%202.30a.md) There
 may another very important, and very providential, reason be here
 assigned for this strange and foolish retreat of Cestius; which, if
 Josephus had been now a Christian, he might probably have taken notice
@@ -3748,7 +3748,7 @@ from the beginning of the world to that time; no, Lit. Accompl. of
 Proph. p. 69, 70. Nor was there, perhaps, nor ever should be."--Ibid. p.
 70, 71.
 
-<span id="EndNote War 2.31b"></span>[(31)](#EndNote%20War%202.31a) From
+<span id="EndNote War 2.31b"></span>[(31)](#EndNote%20War%202.31a.md) From
 this name of Joseph the son of Gorion, or Gorion the son of Joseph, as
 B. IV. ch. 3. sect. 9, one of the governors of Jerusalem, who was slain
 at the beginning of the tumults by the zealots, B. IV. ch. 6. sect. 1,
@@ -3756,14 +3756,14 @@ the much later Jewish author of a history of that nation takes his
 title, and yet personates our true Josephus, the son of Matthias; but
 the cheat is too gross to be put upon the learned world.
 
-<span id="EndNote War 2.32b"></span>[(32)](#EndNote%20War%202.32a) We
+<span id="EndNote War 2.32b"></span>[(32)](#EndNote%20War%202.32a.md) We
 may observe here, that the Idumeans, as having been proselytes of
 justice since the days of John Hyrcanus, during about one hundred and
 ninety-five years, were now esteemed as part of the Jewish nation, and
 these provided of a Jewish commander accordingly. See the note upon
 Antiq. B. XIII.. ch. 9. sect. 1.
 
-<span id="EndNote War 2.33b"></span>[(33)](#EndNote%20War%202.33a) We
+<span id="EndNote War 2.33b"></span>[(33)](#EndNote%20War%202.33a.md) We
 see here, and in Josephus's account of his own life, sect. 14, how
 exactly he imitated his legislator Moses, or perhaps only obeyed what he
 took to be his perpetual law, in appointing seven lesser judges, for
@@ -3789,16 +3789,16 @@ have spoken so movingly of the causes of the destruction of Jerusalem,
 without one word of either the condemnation of James, or crucifixion of
 Christ, as he did when he was become a Christian afterward.
 
-<span id="EndNote War 2.34b"></span>[(34)](#EndNote%20War%202.34a) I
+<span id="EndNote War 2.34b"></span>[(34)](#EndNote%20War%202.34a.md) I
 should think that an army of sixty thousand footmen should require many
 more than two hundred and fifty horsemen; and we find Josephus had more
 horsemen under his command than two hundred and fifty in his future
 history. I suppose the number of the thousands is dropped in our present
 copies.
 
-<span id="EndNote War 2.35b"></span>[(35)](#EndNote%20War%202.35a) I
+<span id="EndNote War 2.35b"></span>[(35)](#EndNote%20War%202.35a.md) I
 cannot but think this stratagem of Josephus, which is related both here
 and in his Life, sect. 32, 33, to be one of the finest that ever was
 invented and executed by any warrior whatsoever.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

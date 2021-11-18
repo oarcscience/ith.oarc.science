@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc028) 
-[Next](motc030) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc028.md) 
+[Next](motc030.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ ever.
 
 ------------------------------------------------------------------------
 
-[Next: 30. Why The Mole Lives Underground](motc030)
+[Next: 30. Why The Mole Lives Underground](motc030.md)

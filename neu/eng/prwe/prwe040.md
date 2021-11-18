@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe039)  [Next](prwe041) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe039)  [Next](prwe041.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ astonished labourer.
 
 ------------------------------------------------------------------------
 
-[Next: Betty Stogs and Jan the Mounster](prwe041)
+[Next: Betty Stogs and Jan the Mounster](prwe041.md)

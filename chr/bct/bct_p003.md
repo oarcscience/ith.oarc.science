@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Return
-to text](bct03.htm#p003)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [Return
+to text](bct03.htm#p003.md)
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ country.</span>
 
 ------------------------------------------------------------------------
 
-[Return to text](bct03.htm#p003)
+[Return to text](bct03.htm#p003.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi23)  [Next](hpi25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi23)  [Next](hpi25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ to work: He paraphrases Aristotle and he interprets him, now with
 comparative brevity, and anon in greater detail, both in moderate-sized
 and in bulky commentaries. He thus merits the name of "the Commentator",
 which also is assigned to him in Dante's "Commedia" <span
-id="fr_18"></span>[1](#fn_18). It looks as if the Philosophy of the
+id="fr_18"></span>[1](#fn_18.md). It looks as if the Philosophy of the
 Muslims had been fated in him to come to an understanding of Aristotle,
 just that it might then expire, after that end had been attained.
 Aristotle for him is the supremely perfect man, the greatest thinker,
@@ -121,7 +121,7 @@ universal rules he may take his examples from the Arabic language and
 literature. But it is universal rules which form his object, for science
 is the knowledge of the universal.
 
-Logic [smoothes](errata.htm#16) the path for the ascent of our cognition
+Logic [smoothes](errata.htm#16.md) the path for the ascent of our cognition
 from sensuous particularity to pure rational truth. The multitude will
 always live in the sensuous element, groping about in error. Defective
 mental parts and poor education, and depraved habits to boot, prevent
@@ -413,9 +413,9 @@ reduced the mistress to the position of the handmaid of Theology.
 
 ### Footnotes
 
-<span id="fn_18"></span>[188:1](hpi24.htm#fr_18) "Averrois, che’l gran
+<span id="fn_18"></span>[188:1](hpi24.htm#fr_18.md) "Averrois, che’l gran
 comento feo" Canto IV.
 
 ------------------------------------------------------------------------
 
-[Next: 1. Ibn Khaldun](hpi25)
+[Next: 1. Ibn Khaldun](hpi25.md)

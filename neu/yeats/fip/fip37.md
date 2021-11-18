@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip36)  [Next](fip38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip36)  [Next](fip38.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ she set out towards home, her basket was generally laden with little
 gifts for her children.
 
 "Grace, dear," would one of the kind housewives say, "here's a
-farrel <span id="fr_15"></span>[1](#fn_15) of oaten cake, wi' a taste o'
+farrel <span id="fr_15"></span>[1](#fn_15.md) of oaten cake, wi' a taste o'
 butter on it; tak' it wi' you for the weans;" or, "Here's half-a-dozen
 of eggs; you've a big family to support."
 
@@ -80,10 +80,10 @@ tears could further detain the spirit hastening to its rest!
 
 ### Footnotes
 
-<span id="fn_15"></span>[131:1](fip37.htm#fr_15) When a large, round,
+<span id="fn_15"></span>[131:1](fip37.htm#fr_15.md) When a large, round,
 flat griddle cake is divided into triangular cuts, each of these cuts is
 called a farrel, farli or parli.
 
 ------------------------------------------------------------------------
 
-[Next: A Legend of Tyrone, by Ellen O'Leary](fip38)
+[Next: A Legend of Tyrone, by Ellen O'Leary](fip38.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Habakkuk](hab)  [Haggai](hag)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Habakkuk](hab)  [Haggai](hag.md)
 
 ------------------------------------------------------------------------
 
@@ -9,8 +9,8 @@
 
 ------------------------------------------------------------------------
 
-[Zephaniah 1](zep001)  
+[Zephaniah 1](zep001.md)  
 
-[Zephaniah 2](zep002)  
+[Zephaniah 2](zep002.md)  
 
-[Zephaniah 3](zep003)  
+[Zephaniah 3](zep003.md)  

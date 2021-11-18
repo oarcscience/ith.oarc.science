@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt08)  [Next](hkt10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt08)  [Next](hkt10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -68,7 +68,7 @@ At the period of the arrival of king Richard the Templars had again lost
 their Grand Master, and Brother Robert de Sablé, or Sabloil, a valiant
 knight of the order, who had commanded a division of the English fleet
 on the voyage out, was placed at the head of the fraternity. <span
-id="fr_220"></span>[\*](#fn_220)<span class="margnote">ROBERT DE  
+id="fr_220"></span>[\*](#fn_220.md)<span class="margnote">ROBERT DE  
 SABLÉ  
 A.D. 1191.</span> The proudest of the nobility, and the most valiant of
 the chivalry of Europe, on their arrival in Palestine, manifested an
@@ -87,7 +87,7 @@ princes, after their example, casting off the shackles of the world, and
 renouncing the pomps and vanities of this life and all the lusts of the
 flesh for Christ's sake, hastened to join them, and to participate in
 their holy profession and religion." <span
-id="fr_221"></span>[†](#fn_221)
+id="fr_221"></span>[†](#fn_221.md)
 
 On the morning of the twelfth of July, six weeks after the arrival of
 the British fleet, the kings of England and France, the
@@ -104,13 +104,13 @@ took possession of three localities within the city by the side of the
 sea, where they established their famous Temple, which became from
 thenceforth the chief house of the order. Richard Cœur de Lion, we are
 told, took up his abode with the Templars, whilst Philip resided in the
-citadel. <span id="fr_222"></span>[\*](#fn_222)
+citadel. <span id="fr_222"></span>[\*](#fn_222.md)
 
 When the fiery monarch of England tore down the banner of the duke of
 Austria from its staff and threw it into the ditch, it was the Templars
 who, interposing between the indignant Germans and the haughty Britons,
 preserved the peace of the christian army. <span
-id="fr_223"></span>[†](#fn_223)
+id="fr_223"></span>[†](#fn_223.md)
 
 During his voyage from Messina to Acre, King Richard had revenged
 himself on Isaac Comnenus, the ruler of the island of Cyprus, for the
@@ -118,11 +118,11 @@ insult offered to the beautiful Berengaria, princess of Navarre, his
 betrothed bride. The sovereign of England had disembarked his troops,
 stormed the town of Limisso, and conquered the whole island; and shortly
 after his arrival at Acre, he sold it to the Templars for three hundred
-thousand livres d’or. <span id="fr_224"></span>[‡](#fn_224)
+thousand livres d’or. <span id="fr_224"></span>[‡](#fn_224.md)
 
 During the famous march of Richard Cœur de Lion from Acre to Ascalon,
 the Templars generally led the van of the christian army, and the
-Hospitaliers brought up the rear. <span id="fr_225"></span>[§](#fn_225)
+Hospitaliers brought up the rear. <span id="fr_225"></span>[§](#fn_225.md)
 Saladin, at
 
 <span id="page_144">p. 144</span>
@@ -133,10 +133,10 @@ A.D. 1191.</span>the head of an immense force, exerted all his energies
 to oppose their progress, and the march to Jaffa formed a perpetual
 battle of eleven days. On some occasions Cœur de Lion himself, at the
 head of a chosen body of knights, led the van, and the Templars were
-formed into a rear-guard. <span id="fr_226"></span>[\*](#fn_226) They
+formed into a rear-guard. <span id="fr_226"></span>[\*](#fn_226.md) They
 sustained immense loss, particularly in horses, which last calamity, we
 are told, rendered them nearly desperate. <span
-id="fr_227"></span>[†](#fn_227)
+id="fr_227"></span>[†](#fn_227.md)
 
 The Moslem as well as the christian writers speak with admiration of the
 feats of heroism performed. "On the sixth day," says Bohadin, "the
@@ -150,14 +150,14 @@ surrounded them with chosen troops, and gave the signal for attack." . .
 cloth, fastened together with rings so as to resemble coats of mail. I
 saw with my own eyes several who had not one nor two but *ten darts
 sticking in their backs!* and yet marched on with a calm and cheerful
-step, without any trepidation!" <span id="fr_228"></span>[‡](#fn_228)
+step, without any trepidation!" <span id="fr_228"></span>[‡](#fn_228.md)
 
 Every exertion was made to sustain the courage and enthusiasm of the
 christian warriors. When the army halted for the night, and the soldiers
 were about to take their rest, a loud voice was heard from the midst of
 the camp, exclaiming, "ASSIST THE HOLY SEPULCHRE," which words were
 repeated by the leaders of the host, and were echoed and re-echoed along
-their extended lines. <span id="fr_229"></span>[§](#fn_229)
+their extended lines. <span id="fr_229"></span>[§](#fn_229.md)
 
 <span id="page_145">p. 145</span>
 
@@ -169,7 +169,7 @@ country, employed themselves by night in marauding and foraging
 expeditions. They frequently started off at midnight, swept the country
 with their turcopoles or light cavalry, and returned to the camp at
 morning's dawn with rich prizes of oxen, sheep, and provisions. <span
-id="fr_230"></span>[\*](#fn_230)
+id="fr_230"></span>[\*](#fn_230.md)
 
 In the great plain near Ramleh, when the Templars led the van of the
 christian army, Saladin made a last grand effort to arrest their
@@ -180,7 +180,7 @@ Moslem array in the great plain around Jaffa and Ramleh. On all sides,
 far as the eye could reach, from the sea-shore to the mountains, nought
 was to be seen but a forest of spears, above which waved banners and
 standards innumerable. The wild Bedouins, <span
-id="fr_231"></span>[†](#fn_231) the children of the desert, mounted on
+id="fr_231"></span>[†](#fn_231.md) the children of the desert, mounted on
 their fleet Arab mares, coursed with the rapidity of the lightning over
 the vast plain, and darkened the air with clouds of missiles. Furious
 and unrelenting, of a horrible aspect, with skins blacker than soot,
@@ -206,7 +206,7 @@ Hospitaliers, when the battle was over, went in search of Jacques
 d’Asvesnes, one of the most valiant of King Richard's knights, whose
 dead body, placed on their spears, they brought into the camp amid the
 tears and lamentations of their brethren. <span
-id="fr_232"></span>[\*](#fn_232)
+id="fr_232"></span>[\*](#fn_232.md)
 
 The Templars, on one of their foraging expeditions, were surrounded by a
 superior force of four thousand Moslem cavalry; the Earl of Leicester,
@@ -214,7 +214,7 @@ with a chosen body of English, was sent by Cœur de Lion to their
 assistance, but the whole party was overpowered and in danger of being
 cut to pieces, when Richard himself hurried to the scene of action with
 his famous battle-axe, and rescued the Templars from their perilous
-situation. <span id="fr_233"></span>[†](#fn_233) By the valour and
+situation. <span id="fr_233"></span>[†](#fn_233.md) By the valour and
 exertions of the lion-hearted king, the city of Gaza, the ancient
 fortress of the order, which had been taken by Saladin soon after the
 battle of Tiberias, was recovered to the christian arms, the
@@ -233,7 +233,7 @@ At midnight of the festival of the Holy Innocents, a party of them
 sallied out of the camp in company with some Hospitaliers on a foraging
 expedition; they scoured the mountains in the direction of Jerusalem,
 and at morning's dawn returned to Ramleh with more than two hundred
-oxen. <span id="fr_234"></span>[\*](#fn_234)
+oxen. <span id="fr_234"></span>[\*](#fn_234.md)
 
 When the christian army went into winter quarters, the Templars
 established themselves at Gaza, and King Richard and his army were
@@ -245,7 +245,7 @@ without a kingdom," for the cession to the latter of the island of
 Cyprus, previously sold by Richard to the order of the Temple, by virtue
 of which arrangement, Guy de Lusignan took possession of the island and
 ruled the country by the magnificent title of emperor. <span
-id="fr_235"></span>[†](#fn_235)
+id="fr_235"></span>[†](#fn_235.md)
 
 When the winter rains had subsided, the christian forces were again put
 in motion, but both the Templars and Hospitallers strongly advised Cœur
@@ -263,7 +263,7 @@ of the holy city, and then a council was called
 SABLÉ  
 A.D. 1192.</span>together, consisting of five Knights Templars, five
 Hospitaliers, five eastern Christians, and five western Crusaders, and
-the expedition was abandoned. <span id="fr_236"></span>[\*](#fn_236)
+the expedition was abandoned. <span id="fr_236"></span>[\*](#fn_236.md)
 
 The Templars took part in the attack upon the great Egyptian convoy,
 wherein four thousand and seventy camels, five hundred horses,
@@ -277,7 +277,7 @@ ratification of a treaty whereby the Christians were to enjoy the
 privilege of visiting Jerusalem as pilgrims. Tyre, Acre, and Jaffa, with
 all the sea-coast between them, were yielded to the Latins, but it was
 stipulated that the fortifications of Ascalon should be
-demolished. <span id="fr_237"></span>[†](#fn_237)
+demolished. <span id="fr_237"></span>[†](#fn_237.md)
 
 After the conclusion of this treaty, King Richard being anxious to take
 the shortest and speediest route to his dominions by traversing the
@@ -297,24 +297,24 @@ SABLÉ
 A.D. 1192.</span>of the ports of the Adriatic. The plan was carried into
 effect on the night of the 25th of October, and King Richard set sail,
 accompanied by some attendants, and four trusty Templars. <span
-id="fr_238"></span>[\*](#fn_238) The habit he had assumed, however,
+id="fr_238"></span>[\*](#fn_238.md) The habit he had assumed, however,
 protected him not, as is well known, from the cowardly vengeance of the
 base duke of Austria.
 
 The lion-hearted monarch was one of the many benefactors to the order of
 the Temple. He granted to the fraternity his manor of Calow, with
-various powers and privileges. <span id="fr_239"></span>[†](#fn_239)
+various powers and privileges. <span id="fr_239"></span>[†](#fn_239.md)
 
 <span class="margnote">GILBERT  
 HORAL.  
 A.D. 1195.</span>Shortly after his departure from Palestine, the Grand
 Master, Robert de Sablé, was succeeded by Brother Gilbert Horal or
 Erail, who had previously filled the high office of Grand Preceptor of
-France. <span id="fr_240"></span>[‡](#fn_240) The Templars, to retain
+France. <span id="fr_240"></span>[‡](#fn_240.md) The Templars, to retain
 and strengthen their dominion in Palestine, commenced the erection of
 various strong fortresses, the stupendous ruins of many of which remain
 to this day. The most famous of these was the Pilgrim's Castle, <span
-id="fr_241"></span>[§](#fn_241) which commanded the coast-road from Acre
+id="fr_241"></span>[§](#fn_241.md) which commanded the coast-road from Acre
 to Jerusalem. It derived its name from a solitary tower erected by the
 early Templars to protect the passage of the pilgrims through a
 dangerous pass in the mountains bordering the sea-coast, and was
@@ -335,7 +335,7 @@ church, houses and offices for the serving brethren and hired soldiers,
 together with pasturages, vineyards, gardens, orchards, and fishponds.
 On one side of the walls was the salt sea, and on the other, within the
 camp, delicious springs of fresh water. The garrison amounted to four
-thousand men in time of war. <span id="fr_242"></span>[\*](#fn_242)
+thousand men in time of war. <span id="fr_242"></span>[\*](#fn_242.md)
 Considerable remains of this famous fortress are still visible on the
 coast, a few miles to the south of Acre. It is still called by the
 Levantines, *Castel Pellegrino*. Pococke describes it as "very
@@ -349,7 +349,7 @@ diameter. In the castle there are remains of a fine lofty church of ten
 sides, built in a light gothic taste: three chapels are built to the
 three eastern sides, each of which consists of five sides, excepting the
 opening to the church; in these it is probable the three chief altars
-stood." <span id="fr_243"></span>[†](#fn_243) Irby and Mangles referring
+stood." <span id="fr_243"></span>[†](#fn_243.md) Irby and Mangles referring
 at a subsequent period to the ruins of the church, describe it as a
 double hexagon, and state that the half then standing had six sides.
 Below the cornice are human heads and heads of animals in alto relievo,
@@ -374,7 +374,7 @@ the challenge.
 <span class="margnote">PHILIP  
 DUPLESSIES  
 A.D. 1201.</span>The Grand Master, Gilbert Horal, was succeeded by
-Philip Duplessies or De Plesseis. <span id="fr_244"></span>[\*](#fn_244)
+Philip Duplessies or De Plesseis. <span id="fr_244"></span>[\*](#fn_244.md)
 We must now refer to a few events connected with the order of the Temple
 in England.
 
@@ -384,13 +384,13 @@ died shortly after the capture of the holy city by Saladin, and was
 succeeded by Brother Amaric de St. Maur, who is an attesting witness to
 the deed executed by king John, A.D. 1203, granting a dowry to his young
 queen, the beautiful Isabella of Angouleme. <span
-id="fr_245"></span>[†](#fn_245) Philip Augustus, king of France, placed
+id="fr_245"></span>[†](#fn_245.md) Philip Augustus, king of France, placed
 a vast sum of gold and silver in the Temple at Paris, and the treasure
 of John, king of England, was deposited in the Temple at London. <span
-id="fr_246"></span>[‡](#fn_246) King John, indeed, frequently resided,
+id="fr_246"></span>[‡](#fn_246.md) King John, indeed, frequently resided,
 for weeks together, at the Temple in London, and many of his writs and
 precepts to his lieutenants, sheriffs, and bailiffs, are dated
-therefrom. <span id="fr_247"></span>[§](#fn_247) The orders for the
+therefrom. <span id="fr_247"></span>[§](#fn_247.md) The orders for the
 concentration of the English fleet at Portsmouth, to resist the
 formidable French invasion
 
@@ -402,7 +402,7 @@ A.D. 1213.</span>instigated by the pope, are dated from the Temple, and
 the convention between the king and the count of Holland, whereby the
 latter agreed to assist king John with a body of knights and
 men-at-arms, in case of the landing of the French, was published at the
-same place. <span id="fr_248"></span>[\*](#fn_248)
+same place. <span id="fr_248"></span>[\*](#fn_248.md)
 
 In all the conferences and negotiations between the mean-spirited king
 and the imperious and overbearing Roman pontiff, the Knights Templars
@@ -418,10 +418,10 @@ and Ireland, "to God, to the holy apostles Peter and Paul, to the holy
 Roman church his mother, and to his lord, Pope Innocent the Third, and
 his catholic successors, for the remission of all his sins and the sins
 of all his people, as well the living as the dead." <span
-id="fr_249"></span>[†](#fn_249) The following year the commands of king
+id="fr_249"></span>[†](#fn_249.md) The following year the commands of king
 John for the extirpation of the heretics in Gascony, addressed to the
 seneschal of that province, were issued from the Temple at London, <span
-id="fr_250"></span>[‡](#fn_250) and about the same period the Templars
+id="fr_250"></span>[‡](#fn_250.md) and about the same period the Templars
 were made the depositaries of various private and confidential matters
 pending between king John and his illustrious sister-in-law, "the royal,
 eloquent, and beauteous" Berengaria
@@ -431,11 +431,11 @@ eloquent, and beauteous" Berengaria
 <span class="margnote">PHILIP  
 DUPLESSIES  
 A.D. 1215.</span>of Navarre, the youthful widowed queen of Richard Cœur
-*de Lion*. <span id="fr_251"></span>[\*](#fn_251) The Templars in
+*de Lion*. <span id="fr_251"></span>[\*](#fn_251.md) The Templars in
 England managed the money transactions of that fair princess. She
 directed her dower to be paid in the house of the New Temple at London,
 together with the arrears due to her from the king, amounting to several
-thousand pounds. <span id="fr_252"></span>[†](#fn_252)
+thousand pounds. <span id="fr_252"></span>[†](#fn_252.md)
 
 John was resident at the Temple when he was compelled by the barons of
 England to sign MAGNA CHARTA. Matthew Paris tells us that the barons
@@ -443,13 +443,13 @@ came to him, whilst he was residing in the New Temple at London, "in a
 very resolute manner, clothed in their military dresses, and demanded
 the liberties and laws of king Edward, with others for themselves, the
 kingdom, and the church of England. <span
-id="fr_253"></span>[‡](#fn_253)
+id="fr_253"></span>[‡](#fn_253.md)
 
 King John was a considerable benefactor to the order. He granted to the
 fraternity the Isle of Lundy, at the mouth of the river Severn; all his
 land at Radenach and at Harewood, in the county of Hereford; and he
 conferred on the Templars numerous. privileges. <span
-id="fr_254"></span>[§](#fn_254)
+id="fr_254"></span>[§](#fn_254.md)
 
 <span class="margnote">WILLIAM DE  
 CHARTRES  
@@ -502,16 +502,16 @@ expedition into Egypt
 <span class="margnote">WILLIAM DE  
 CHARTRES  
 A.D. 1218.</span>to destroy the city of Damietta, and we shall then
-march upon Jerusalem. . . ." <span id="fr_255"></span>[\*](#fn_255)
+march upon Jerusalem. . . ." <span id="fr_255"></span>[\*](#fn_255.md)
 
 It was in the month of May, A.D. 1218, that the galleys of the Templars
 set sail from Acre on the above-mentioned memorable expedition into
 Egypt. They cast anchor in the mouth of the Nile, and, in conjunction
 with a powerful army of crusaders, laid siege to Damietta. A pestilence
 broke out shortly after their arrival, and hurried the Grand Master,
-William de Chartres, to his grave. <span id="fr_256"></span>[†](#fn_256)
+William de Chartres, to his grave. <span id="fr_256"></span>[†](#fn_256.md)
 He was succeeded by the veteran warrior, Brother PETER DE MONTAIGU,
-Grand Preceptor of Spain. <span id="fr_257"></span>[‡](#fn_257)<span
+Grand Preceptor of Spain. <span id="fr_257"></span>[‡](#fn_257.md)<span
 class="margnote">PETER DE  
 MONTAIGU  
 A.D. 1218.</span>
@@ -530,7 +530,7 @@ ranks of the infidels. The spirit of Gideon animated the Templars, and
 the rest of the army, stimulated by their example, bravely advanced to
 their support. . . . . Thus did the Lord on that day, through the valour
 of the Templars, save those who trusted in Him." <span
-id="fr_258"></span>[§](#fn_258) Immediately after the surrender of
+id="fr_258"></span>[§](#fn_258.md) Immediately after the surrender of
 Damietta, the Grand Master of the Temple
 
 <span id="page_156">p. 156</span>
@@ -560,7 +560,7 @@ ourselves, and others in these parts, are so impoverished by the heavy
 expenses we have incurred in prosecuting the affairs of Jesus Christ,
 that we shall be unable to contribute the necessary funds, unless we
 speedily receive succour and subsidies from the faithful. Given at Acre,
-xii. kal. October, A.D. 1222." <span id="fr_259"></span>[\*](#fn_259)
+xii. kal. October, A.D. 1222." <span id="fr_259"></span>[\*](#fn_259.md)
 
 The troops of the sultan of Damascus were repulsed and driven beyond the
 frontier, and the Grand Master then returned to Damietta, to superintend
@@ -623,7 +623,7 @@ of the true cross and the prisoners that he detained at Cairo and
 Damascus. We, with some others, were deputed by the whole army to
 announce to the people of Damietta the terms that had been imposed upon
 us. These were very displeasing to the bishop of Acre, <span
-id="fr_260"></span>[\*](#fn_260) to the chancellor, and some others, who
+id="fr_260"></span>[\*](#fn_260.md) to the chancellor, and some others, who
 wished to defend the town, a measure which we should indeed have greatly
 approved of, had there been any reasonable chance of success; for we
 would rather have been thrust into perpetual imprisonment than have
@@ -642,7 +642,7 @@ bread and corn necessary for their subsistence.
 MONTAIGU  
 A.D. 1223.</span>"Do you, therefore, pitying our misfortunes, hasten to
 relieve them to the utmost of your ability. Farewell." <span
-id="fr_261"></span>[\*](#fn_261)
+id="fr_261"></span>[\*](#fn_261.md)
 
 Brother Alan Marcell, to whom the above letter is addressed, succeeded
 Amaric de St. Maur, and was at the head of the order in England for the
@@ -652,7 +652,7 @@ when Reginald, king of the island of Man, by the advice and persuasion
 of the legate Pandulph, made a solemn surrender at that place of his
 island to the pope and his catholic successors, and consented to hold
 the same from thenceforth as the feudatory of the church of Rome. <span
-id="fr_262"></span>[†](#fn_262)
+id="fr_262"></span>[†](#fn_262.md)
 
 At the commencement of the reign of Henry the Third, the Templars in
 England appear to have been on bad terms with the king. The latter made
@@ -667,7 +667,7 @@ nought the customs of the king's manors, and involved the bailiffs and
 royal officers in lawsuits before certain judges of their own
 appointment. The pope directs two abbots to inquire into these matters,
 preparatory to further proceedings against the guilty parties; <span
-id="fr_263"></span>[‡](#fn_263) but the Templars soon became reconciled
+id="fr_263"></span>[‡](#fn_263.md) but the Templars soon became reconciled
 to their sovereign, and on the 28th of April of
 
 <span id="page_160">p. 160</span>
@@ -679,10 +679,10 @@ was employed by king Henry to negotiate a truce between himself and the
 king of France. The king of England appears at that time to have been
 resident at the Temple, the letters of credence being made out at that
 place, in the presence of the archbishop of Canterbury, several bishops,
-and Hubert, the chief justiciary. <span id="fr_264"></span>[\*](#fn_264)
+and Hubert, the chief justiciary. <span id="fr_264"></span>[\*](#fn_264.md)
 The year after, the same Alan Marcell was sent into Germany, to
 negotiate a treaty of marriage between king Henry and the daughter of
-the duke of Austria. <span id="fr_265"></span>[†](#fn_265)
+the duke of Austria. <span id="fr_265"></span>[†](#fn_265.md)
 
 At this period, Brother Hugh de Stocton and Richard Ranger, knights of
 the convent of the New Temple at London, were the guardians of the royal
@@ -690,19 +690,19 @@ treasure in the Tower, and the former was made the depositary, of the
 money paid annually by the king to the count of Flanders. He was also
 intrusted by Henry the Third with large sums of money, out of which he
 was commanded to pay ten thousand marks to the emperor of
-Constantinople. <span id="fr_266"></span>[‡](#fn_266)
+Constantinople. <span id="fr_266"></span>[‡](#fn_266.md)
 
 Among the many illustrious benefactors to the order of the Temple at
 this period was Philip the Second, king of France, who bequeathed the
 sum of one hundred thousand pounds to the Grand Master of the
-Temple. <span id="fr_267"></span>[§](#fn_267)
+Temple. <span id="fr_267"></span>[§](#fn_267.md)
 
 The Grand Master, Peter de Montaigu, was succeeded by
 
 <span class="margnote">HERMANN DE  
 PERIGORD  
 A.D. 1236.</span>Brother HERMANN DE PERIGORD. <span
-id="fr_268"></span>[¦¦](#fn_268) Shortly after his accession to power,
+id="fr_268"></span>[¦¦](#fn_268.md) Shortly after his accession to power,
 William de Montserrat, Preceptor of Antioch, being "desirous of
 extending the christian territories, to the honour
 
@@ -721,7 +721,7 @@ disabled and covered with wounds, yet he unflinchingly bore the
 Beauseant, or war-banner, aloft with his bleeding arms into the thickest
 of the fight, until he at last fell dead upon a heap of his slaughtered
 comrades. The Preceptor of Antioch, before he was slain, "*sent sixteen
-infidels to hell*." <span id="fr_269"></span>[\*](#fn_269)
+infidels to hell*." <span id="fr_269"></span>[\*](#fn_269.md)
 
 As soon as the Templars in England heard of this disaster, they sent, in
 conjunction with the Hospitaliers, instant succour to their brethren.
@@ -742,7 +742,7 @@ who crowded to see them pass. The
 PERIGORD  
 A.D. 1239.</span>brothers indeed uncovered, bowed their beads from side
 to side, and recommended themselves to the prayers of all." <span
-id="fr_270"></span>[\*](#fn_270)
+id="fr_270"></span>[\*](#fn_270.md)
 
 Whilst the Knights Templars were thus valiantly sustaining the cause of
 the cross against the infidels in the East, one of the holy brethren of
@@ -751,19 +751,19 @@ signalising his zeal against infidels at home in England, (A.D. 1239,)
 by a fierce destruction and extermination of the Jews. According to
 Matthew Paris, he seized and incarcerated the unhappy Israelites, and
 extorted from them immense sums of money. <span
-id="fr_271"></span>[†](#fn_271) Shortly afterwards, Brother Geoffrey
+id="fr_271"></span>[†](#fn_271.md) Shortly afterwards, Brother Geoffrey
 fell into disgrace and was banished from court, and Brother Roger,
 another Templar, the king's almoner, shared the same fate, and was
 forbidden to approach the royal presence. <span
-id="fr_272"></span>[‡](#fn_272) Some of the brethren of the order were
+id="fr_272"></span>[‡](#fn_272.md) Some of the brethren of the order were
 always about the court, and when the English monarch crossed the seas,
 he generally wrote letters to the Master of the Temple at London,
 informing him of the state of the royal health. <span
-id="fr_273"></span>[§](#fn_273)
+id="fr_273"></span>[§](#fn_273.md)
 
 It was at this period, (A.D. 1240,) that the oblong portion of the
 Temple church was completed and consecrated in the presence of King
-Henry the Third. <span id="fr_274"></span>[¦¦](#fn_274)
+Henry the Third. <span id="fr_274"></span>[¦¦](#fn_274.md)
 
 The Grand Mastership of Brother Hermann de Perigord is
 
@@ -826,49 +826,49 @@ all enemies. But indeed we can in nowise defend for any great length of
 time the places that we hold, against the sultan of Egypt, who is a most
 powerful and talented man, unless Christ and his faithful followers
 extend to us an efficacious support." <span
-id="fr_275"></span>[\*](#fn_275)
+id="fr_275"></span>[\*](#fn_275.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_220"></span>[142:\*](hkt09.htm#fr_220) Hist. de la maison
+<span id="fn_220"></span>[142:\*](hkt09.htm#fr_220.md) Hist. de la maison
 de Sablé, liv. vi. chap. 5. p. 174, 175. Cotton MS. Nero, E. vi. p. 60.
 folio 466, where he is called Robert de Sambell. L’art de Verif. p. 347.
 
-<span id="fn_221"></span>[142:†](hkt09.htm#fr_221) *Jac. de Vitr.* cap.
+<span id="fn_221"></span>[142:†](hkt09.htm#fr_221.md) *Jac. de Vitr.* cap.
 65.
 
-<span id="fn_222"></span>[143:\*](hkt09.htm#fr_222) Le roi de France ot
+<span id="fn_222"></span>[143:\*](hkt09.htm#fr_222.md) Le roi de France ot
 le chastel d’Acre, ot le fist garnir et le roi d’Angleterre se herberja
 en la maison du Temple.--Contin. Hist. bell, sacr. apud *Martene*, tom.
 v. col. 634.
 
-<span id="fn_223"></span>[143:†](hkt09.htm#fr_223) *Cron. Ottonis* a S.
+<span id="fn_223"></span>[143:†](hkt09.htm#fr_223.md) *Cron. Ottonis* a S.
 Blazio, c. 36. apud Scriptores Italicos, tom. vi. col. 892.
 
-<span id="fn_224"></span>[143:‡](hkt09.htm#fr_224) *Contin. Hist. bell.
+<span id="fn_224"></span>[143:‡](hkt09.htm#fr_224.md) *Contin. Hist. bell.
 sacr.* apud Martene, tom. v. col. 633. *Trivet*, ad. ann. 1191. *Chron.
 de S. Denis*, lib. ii. cap. 7. *Vinisauf*, p. 328.
 
-<span id="fn_225"></span>[143:§](hkt09.htm#fr_225) Primariam aciem
+<span id="fn_225"></span>[143:§](hkt09.htm#fr_225.md) Primariam aciem
 deducebant Templarii et ultimam Hospitalarii, quorum utrique strenue
 agentes magnarum virtutum prætendebant imaginem.--*Vinisauf*, cap. xii.
 p. 350.
 
-<span id="fn_226"></span>[144:\*](hkt09.htm#fr_226) Ibi rex
+<span id="fn_226"></span>[144:\*](hkt09.htm#fr_226.md) Ibi rex
 præordinaverat quod die sequenti primam aciem ipse deduceret, et quod
 Templarii extremæ agminis agerent custodiam.--*Vinisauf*, cap. xiv. p.
 351.
 
-<span id="fn_227"></span>[144:†](hkt09.htm#fr_227) Deducendæ extremæ
+<span id="fn_227"></span>[144:†](hkt09.htm#fr_227.md) Deducendæ extremæ
 legioni præfuerant Templarii, qui tot equos eâ die Turcis irruentibus, a
 tergo amiserunt, quod fere desperati sunt.--Ib.
 
-<span id="fn_228"></span>[144:‡](hkt09.htm#fr_228) *Bohadin*, cap. cxvi.
+<span id="fn_228"></span>[144:‡](hkt09.htm#fr_228.md) *Bohadin*, cap. cxvi.
 p. 189.
 
-<span id="fn_229"></span>[144:§](hkt09.htm#fr_229) Singulis noctibus
+<span id="fn_229"></span>[144:§](hkt09.htm#fr_229.md) Singulis noctibus
 antequam dormituri cubarent, quidam ad hoc deputatus voce <span
 id="page_145">p. 145</span> magnâ clamaret fortiter in medio exercitu
 dicens, ADJUVA SEPULCHRUM SANCTUM; ad hanc vocem clamabant universi
@@ -876,18 +876,18 @@ eadem verba repetentes, et manus suas cum lacrymis uberrimis tendentes
 in cælum, Dei misericordiam postulantes et adjutorium.--*Vinisauf*, cap.
 xii. p. 351.
 
-<span id="fn_230"></span>[145:\*](hkt09.htm#fr_230) Ibid. cap. xxxii. p.
+<span id="fn_230"></span>[145:\*](hkt09.htm#fr_230.md) Ibid. cap. xxxii. p.
 369.
 
-<span id="fn_231"></span>[145:†](hkt09.htm#fr_231) *Bedewini* horridi,
+<span id="fn_231"></span>[145:†](hkt09.htm#fr_231.md) *Bedewini* horridi,
 fuligine obscuriores, pedites improbissimi, arcus gestantes cum
 pharetris, et ancilia rotunda, gens quidem acerrima et
 expedita.--*Vinisauf*, cap. xviii. p. 355.
 
-<span id="fn_232"></span>[146:\*](hkt09.htm#fr_232) *Vinisauf*, cap.
+<span id="fn_232"></span>[146:\*](hkt09.htm#fr_232.md) *Vinisauf*, cap.
 xxii. p. 360. *Bohadin*, cap. cxx.
 
-<span id="fn_233"></span>[146:†](hkt09.htm#fr_233) Expedite descenderunt
+<span id="fn_233"></span>[146:†](hkt09.htm#fr_233.md) Expedite descenderunt
 (Templarii) ex equis suis, et dorsa singuli dorsis sociorum habentes
 hærentia, facie versâ in hostes, sese viriliter defendere cœperunt. Ibi
 videri fuit pugnam acerrimam, ictus validissimos, tinniunt galeæ a
@@ -895,170 +895,170 @@ percutientium collisione gladiorum, igneæ exsiliunt scintillæ, crepitant
 arma tumultuantium, perstrepunt voces; Turci se viriliter ingerunt,
 Templarii strenuissime defendunt.--Ib. cap. xxx. p. 366, 367.
 
-<span id="fn_234"></span>[147:\*](hkt09.htm#fr_234) *Vinisauf*, cap.
+<span id="fn_234"></span>[147:\*](hkt09.htm#fr_234.md) *Vinisauf*, cap.
 xxxii. p. 369.
 
-<span id="fn_235"></span>[147:†](hkt09.htm#fr_235) Ib. cap. xxxvii. p.
+<span id="fn_235"></span>[147:†](hkt09.htm#fr_235.md) Ib. cap. xxxvii. p.
 392. *Contin. Hist. Bell. Sacr.* apud *Martene*, v. col. 638.
 
-<span id="fn_236"></span>[148:\*](hkt09.htm#fr_236) *Vinisauf*, lib. v.
+<span id="fn_236"></span>[148:\*](hkt09.htm#fr_236.md) *Vinisauf*, lib. v.
 cap. 1, p. 493. Ibid. lib. vi. cap. 2, p. 404.
 
-<span id="fn_237"></span>[148:†](hkt09.htm#fr_237) Ib. cap. iv. v. p.
+<span id="fn_237"></span>[148:†](hkt09.htm#fr_237.md) Ib. cap. iv. v. p.
 406, 407, &c. &c.; cap. xi. p. 410; cap. xiv. p. 412. King Richard was
 the first to enter the town. Tunc rex per cocleam quandam, quam forte
 prospexerat in domibus Templariorum solus primus intravit
 villain.--*Vinisauf*, p. 413, 414.
 
-<span id="fn_238"></span>[149:\*](hkt09.htm#fr_238) *Contin. Hist. Bell.
+<span id="fn_238"></span>[149:\*](hkt09.htm#fr_238.md) *Contin. Hist. Bell.
 Sacr.* apud *Martene*, tom. v. col. 641.
 
-<span id="fn_239"></span>[149:†](hkt09.htm#fr_239) Concessimus omne jus,
+<span id="fn_239"></span>[149:†](hkt09.htm#fr_239.md) Concessimus omne jus,
 omne dominium quod ad nos pertinet et pertineat, omnem potestatem, omnes
 libertates et liberas consuetudines quas regia potestas conferre potest.
 *Cart. Ric.* 1. ann. 5, regni sui.
 
-<span id="fn_240"></span>[149:‡](hkt09.htm#fr_240) *Hispania
+<span id="fn_240"></span>[149:‡](hkt09.htm#fr_240.md) *Hispania
 Illustrata*, tom. iii. p. 59. *Hist. gen. de Languedoc*, tom. iii. p.
 409. Cotton, MS. Nero E. VI. 23. i.
 
-<span id="fn_241"></span>[149:§](hkt09.htm#fr_241) Castrum nostrum quod
+<span id="fn_241"></span>[149:§](hkt09.htm#fr_241.md) Castrum nostrum quod
 Peregrinorum dicitur, see the letter of the Grand Master *Matt. Par.* p.
 312, and *Jac. de Vitr.* lib. iii. apud Gest. Dei, p. 1131.
 
-<span id="fn_242"></span>[150:\*](hkt09.htm#fr_242) "Opus egregium,"
+<span id="fn_242"></span>[150:\*](hkt09.htm#fr_242.md) "Opus egregium,"
 says *James of Vitry*, "ubi tot et tantas effuderunt divitias, quod
 mirum est unde eas accipiunt."--*Hist. Orient.* lib. iii. apud Gest.
 Dei, tom. i. pars 9, p. 1131. *Martene*, tom. iii. col. 288. Hist. capt.
 Damietæ, apud Hist. Angl. script. XV. p. 437, 438, where it is called
 Castrum Filii Dei.
 
-<span id="fn_243"></span>[150:†](hkt09.htm#fr_243) *Pococke*, Travels in
+<span id="fn_243"></span>[150:†](hkt09.htm#fr_243.md) *Pococke*, Travels in
 the East, book i. chap. 15.
 
-<span id="fn_244"></span>[151:\*](hkt09.htm#fr_244) *Dufresne*, Gloss.
+<span id="fn_244"></span>[151:\*](hkt09.htm#fr_244.md) *Dufresne*, Gloss.
 *Archives d’Arles*. Cotton, MS. Nero E. VI.
 
-<span id="fn_245"></span>[151:†](hkt09.htm#fr_245) Acta et Fœdera
+<span id="fn_245"></span>[151:†](hkt09.htm#fr_245.md) Acta et Fœdera
 *Rymeri*, tom. i. p. 134, ad. ann. 1203, ed. 1704.
 
-<span id="fn_246"></span>[151:‡](hkt09.htm#fr_246) *Rigord* in Gest.
+<span id="fn_246"></span>[151:‡](hkt09.htm#fr_246.md) *Rigord* in Gest.
 Philippi. Acta *Rymeri*, tom. i. p. 165, 173.
 
-<span id="fn_247"></span>[151:§](hkt09.htm#fr_247) Itinerarium regis
+<span id="fn_247"></span>[151:§](hkt09.htm#fr_247.md) Itinerarium regis
 Johannis, compiled from the grants and precepts of that monarch, by
 *Thomas Duff Hardy*, published by the Record Commissioners.
 
-<span id="fn_248"></span>[152:\*](hkt09.htm#fr_248) Acta *Rymeri*, tom.
+<span id="fn_248"></span>[152:\*](hkt09.htm#fr_248.md) Acta *Rymeri*, tom.
 i. p. 170, ad. ann. 1213.
 
-<span id="fn_249"></span>[152:†](hkt09.htm#fr_249) *Matt. Par.* ad. ann.
+<span id="fn_249"></span>[152:†](hkt09.htm#fr_249.md) *Matt. Par.* ad. ann.
 1213, p. 234, 236, 237. *Matt. Westr.* p. 271, 2. *Bib. Cotton.* Nero C.
 2. Acta *Rymeri*, tom. i. p. 172, 173. King John resided at Temple Ewell
 from the 7th to the 28th of May.
 
-<span id="fn_250"></span>[152:‡](hkt09.htm#fr_250) Teste meipso apud
+<span id="fn_250"></span>[152:‡](hkt09.htm#fr_250.md) Teste meipso apud
 Novum Templum London . . . . Acta Rymeri, tom. i. p. 105. ad. ann. 1214,
 ed. 1704.
 
-<span id="fn_251"></span>[153:\*](hkt09.htm#fr_251) "Formam autem rei
+<span id="fn_251"></span>[153:\*](hkt09.htm#fr_251.md) "Formam autem rei
 prolocutæ inter nos et ipsos, scriptam et sigillo nostro sigillatam . .
 . in custodiam Templariorum commisimus."--*Literæ Regis sorori suæ
 Regina Berengariæ*, ib. p. 194.
 
-<span id="fn_252"></span>[153:†](hkt09.htm#fr_252) Berengaria Dei
+<span id="fn_252"></span>[153:†](hkt09.htm#fr_252.md) Berengaria Dei
 gratiâ, quondam humilis Angliæ Regina. Omnibus, &c. salutem. . Hanc
 pecuniam solvet in domo Novi Templi London. Ib. p. 208, 209, ad. ann.
 1215.
 
-<span id="fn_253"></span>[153:‡](hkt09.htm#fr_253) *Matt. Par.* p. 253,
+<span id="fn_253"></span>[153:‡](hkt09.htm#fr_253.md) *Matt. Par.* p. 253,
 ad. ann. 1215.
 
-<span id="fn_254"></span>[153:§](hkt09.htm#fr_254) *Monast. Angl.* vol.
+<span id="fn_254"></span>[153:§](hkt09.htm#fr_254.md) *Monast. Angl.* vol.
 vi. part ii.
 
-<span id="fn_255"></span>[155:\*](hkt09.htm#fr_255) Ital. et Raven.
+<span id="fn_255"></span>[155:\*](hkt09.htm#fr_255.md) Ital. et Raven.
 Historiarum *Hieronymi Rubei*, lib. vi. p. 380, 381, ad ann. 1217. ed.
 Ven. 1603.
 
-<span id="fn_256"></span>[155:†](hkt09.htm#fr_256) *Jac. de Vitr.* lib.
+<span id="fn_256"></span>[155:†](hkt09.htm#fr_256.md) *Jac. de Vitr.* lib.
 iii. ad. ann. 1218. Gesta Dei, tom i. 1, pars 2, p. 1133, 4, 5.
 
-<span id="fn_257"></span>[155:‡](hkt09.htm#fr_257) *Gall. Christ nov.*
+<span id="fn_257"></span>[155:‡](hkt09.htm#fr_257.md) *Gall. Christ nov.*
 tom. ii. col. 714, tom vii. col. 229.
 
-<span id="fn_258"></span>[155:§](hkt09.htm#fr_258) *Jac. de Vitr.* Hist.
+<span id="fn_258"></span>[155:§](hkt09.htm#fr_258.md) *Jac. de Vitr.* Hist.
 Orient. ut sup. p. 1138. Bernard Thesaur. apud Muratori, cap. 190 to
 200.
 
-<span id="fn_259"></span>[156:\*](hkt09.htm#fr_259) Epist. Magni
+<span id="fn_259"></span>[156:\*](hkt09.htm#fr_259.md) Epist. Magni
 Magistri Templi apud *Matt. Par.* p. 312, 313.
 
-<span id="fn_260"></span>[158:\*](hkt09.htm#fr_260) Our historian, James
+<span id="fn_260"></span>[158:\*](hkt09.htm#fr_260.md) Our historian, James
 de Vitry; he subsequently became one of the hostages. Contin. Hist. apud
 *Martene*, tom. v. col. 698.
 
-<span id="fn_261"></span>[159:\*](hkt09.htm#fr_261) *Matt. Par.* ad ann.
+<span id="fn_261"></span>[159:\*](hkt09.htm#fr_261.md) *Matt. Par.* ad ann.
 1222, p. 314. See also another letter, p. 313.
 
-<span id="fn_262"></span>[159:†](hkt09.htm#fr_262) Actum London in domo
+<span id="fn_262"></span>[159:†](hkt09.htm#fr_262.md) Actum London in domo
 Militiæ Templi, II. kal. Octob. *Acta Rymeri*, tom. i. p. 234, ad ann.
 1219.
 
-<span id="fn_263"></span>[159:‡](hkt09.htm#fr_263) *Acta Rymeri*, tom.
+<span id="fn_263"></span>[159:‡](hkt09.htm#fr_263.md) *Acta Rymeri*, tom.
 i. ad ann. 1223, p. 258.
 
-<span id="fn_264"></span>[160:\*](hkt09.htm#fr_264) Mittimus ad vos
+<span id="fn_264"></span>[160:\*](hkt09.htm#fr_264.md) Mittimus ad vos
 dilect. nobis in Christo, fratrem Alanum Marcell Magistrum milltiæ
 Templi in Angliâ, &c. . . . . Teste meipso apud Novum Templum London
 coram Domino Cantuar--archiepiscopo, Huberto de Burgo justitiario et J.
 Bath--Sarum episcopis. *Acta Rymeri*, tom. i. p. 270, ad ann. 1224.
 
-<span id="fn_265"></span>[160:†](hkt09.htm#fr_265) Ib. p. 275.
+<span id="fn_265"></span>[160:†](hkt09.htm#fr_265.md) Ib. p. 275.
 
-<span id="fn_266"></span>[160:‡](hkt09.htm#fr_266) Ib. p. 311, 373, 380.
+<span id="fn_266"></span>[160:‡](hkt09.htm#fr_266.md) Ib. p. 311, 373, 380.
 
-<span id="fn_267"></span>[160:§](hkt09.htm#fr_267) Sanut, lib. iii. c.
+<span id="fn_267"></span>[160:§](hkt09.htm#fr_267.md) Sanut, lib. iii. c.
 a. p. 210.
 
-<span id="fn_268"></span>[160:¦¦](hkt09.htm#fr_268) *Cotton*, MS. Nero
+<span id="fn_268"></span>[160:¦¦](hkt09.htm#fr_268.md) *Cotton*, MS. Nero
 E. VI. p. 60. fol. 466. Nero E. VI. 23. i.
 
-<span id="fn_269"></span>[161:\*](hkt09.htm#fr_269) Cecidit autem in
+<span id="fn_269"></span>[161:\*](hkt09.htm#fr_269.md) Cecidit autem in
 illo infausto certamine illustris miles Templarius, Anglicus natione,
 Reginaldus de Argentomio, eâ die Balcanifer; . . . indefessus vero
 vexillum sustinebat, donec tibiæ cum cruribus et manibus frangerentur.
 Solus quoque eorum Preceptor priusquam trucidaretur, sexdecim hostium ad
 inferos destinavit.--*Matt. Par.* p. 443, ad ann. 1237.
 
-<span id="fn_270"></span>[162:\*](hkt09.htm#fr_270) A *Clerkenwelle*
+<span id="fn_270"></span>[162:\*](hkt09.htm#fr_270.md) A *Clerkenwelle*
 domo sua, quæ est Londoniis, per medium civitatis, clypeis circiter
 triginta detectis, hastis elevatis, et prævio vexillo, versus pontem, ut
 ab omnibus videntibus, benedictionem obtinerent, perrexerunt eleganter.
 Fratres verò inclinatis capitibus, hinc et inde caputiis depositis, se
 omnium precibus commendaverunt.--*Matt. Par.* p. 443, 444.
 
-<span id="fn_271"></span>[162:†](hkt09.htm#fr_271) Et eodem anno (1239)
+<span id="fn_271"></span>[162:†](hkt09.htm#fr_271) Et eodem anno (1239.md)
 . . . passi sunt Judæi exterminium magnum et destructionem, eosdem
 arctante et incarcerante, et pecuniam ab eisdem extorquente Galfrido
 Templario, Regis speciali consiliario.--*Matt. Par.* p. 489, ad ann.
 1239.
 
-<span id="fn_272"></span>[162:‡](hkt09.htm#fr_272) In ipsâ irâ aufagavit
+<span id="fn_272"></span>[162:‡](hkt09.htm#fr_272.md) In ipsâ irâ aufagavit
 fratrem Rogerum Templarium ab officio eleemosynariæ, et a curiâ jussit
 elongari.--Ib.
 
-<span id="fn_273"></span>[162:§](hkt09.htm#fr_273) *Rymer*, tom. i. p.
+<span id="fn_273"></span>[162:§](hkt09.htm#fr_273.md) *Rymer*, tom. i. p.
 404.
 
-<span id="fn_274"></span>[162:¦¦](hkt09.htm#fr_274) Post.
+<span id="fn_274"></span>[162:¦¦](hkt09.htm#fr_274.md) Post.
 
-<span id="fn_275"></span>[164:\*](hkt09.htm#fr_275) *Matt. Par.* p. 615.
+<span id="fn_275"></span>[164:\*](hkt09.htm#fr_275.md) *Matt. Par.* p. 615.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](hkt10)
+[Next: Chapter VIII](hkt10.md)
 
 </div>

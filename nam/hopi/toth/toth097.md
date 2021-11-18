@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth096)  [Next](toth098) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth096)  [Next](toth098.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_234">p. 234</span>
 
-## 94. THE RED EAGLE SONG. <span id="fr_178"></span>[1](toth098.htm#fn_176)
+## 94. THE RED EAGLE SONG. <span id="fr_178"></span>[1](toth098.htm#fn_176.md)
 
 Halíksai! A long time ago, when people lived in all the seven Hopi
 villages, and also at Sikyátki, Red Eagle and his wife lived on the
@@ -50,4 +50,4 @@ masks, etc.
 
 ------------------------------------------------------------------------
 
-[Next: 95. The Red Eagle and the Owl](toth098)
+[Next: 95. The Red Eagle and the Owl](toth098.md)

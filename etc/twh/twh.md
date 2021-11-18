@@ -1,43 +1,43 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_title1"></span>
 
 [![Title Page 1](tn/title1.jpg)  
-Click to enlarge](img/title1.jpg)  
+Click to enlarge](img/title1.jpg.md)  
 Title Page 1  
 
 <span id="img_title2"></span>
 
 [![Title Page 2](tn/title2.jpg)  
-Click to enlarge](img/title2.jpg)  
+Click to enlarge](img/title2.jpg.md)  
 Title Page 2  
 
 <span id="img_cover"></span>
 
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 <span id="img_lpb"></span>
 
 [![Left page border](tn/lpb.jpg)  
-Click to enlarge](img/lpb.jpg)  
+Click to enlarge](img/lpb.jpg.md)  
 Left page border  
 
 <span id="img_rpb"></span>
 
 [![right page border](tn/rpb.jpg)  
-Click to enlarge](img/rpb.jpg)  
+Click to enlarge](img/rpb.jpg.md)  
 right page border  
 
 #### The

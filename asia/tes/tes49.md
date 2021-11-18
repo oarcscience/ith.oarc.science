@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes48)  [Next](tes50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes48)  [Next](tes50.md) 
 
 ------------------------------------------------------------------------
 
 ### 28. A STORY OF MACHEKUR.
 
 Machekur lived with his wife Machekur-woman. <span
-id="fr_80"></span>[2](#fn_80) Their neighbors were three Mice-Girls. The
+id="fr_80"></span>[2](#fn_80.md) Their neighbors were three Mice-Girls. The
 old man used to pay them frequent visits. Finally, the old woman grew
 angry, and said, "Cease going there! They will do something unpleasant
 to you." The old man, however, paid no attention to these warnings. One
@@ -35,12 +35,12 @@ Pokhotsk, the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_79"></span>[103:1](tes48.htm#fr_79) In Russian creole
+<span id="fn_79"></span>[103:1](tes48.htm#fr_79.md) In Russian creole
 чудинка (literally, "phantom"), or also пужанка (literally, "fright").
 Both these words are unknown in European Russian though they are clearly
 of Russian origin.--W. B.
 
-<span id="fn_80"></span>[103:2](tes49.htm#fr_80) In Russian Мачекуръ and
+<span id="fn_80"></span>[103:2](tes49.htm#fr_80.md) In Russian Мачекуръ and
 Мачекуриха. This tale represents only one of the well-known episodes of
 the story of Raven and the Mice. I give it here because of the names
 Machekur and Machekur-Woman, which have replaced the usual Kutq
@@ -49,4 +49,4 @@ of the story.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 29. The Mouse and the Snow-Bunting](tes50)
+[Next: 29. The Mouse and the Snow-Bunting](tes50.md)

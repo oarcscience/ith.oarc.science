@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEM9V4/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ajp00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ajp.txt.gz)
+[Contents](#contents)    [Start Reading](ajp00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ajp.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -39,19 +39,19 @@ Jewish proverbs, mostly extracted from the Talmud and Mishna.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ajp00)  
-[Preface](ajp01)  
-[Table of Contents](ajp02)  
-[Editorial Note](ajp03)  
-[Introduction](ajp04)  
-[Chapter I: Human Existence](ajp05)  
-[Chapter II: Family Life](ajp06)  
-[Chapter III: Human Virtues](ajp07)  
-[Chapter IV: Human Faults](ajp08)  
-[Chapter V: Occupations](ajp09)  
-[Chapter VI: Rules of Conduct](ajp10)  
-[Chapter VII: Vagaries of Fortune](ajp11)  
-[Chapter VIII: Social Life](ajp12)  
-[Chapter IX: Colloquialisms](ajp13)  
-[Chapter X: Miscellaneous](ajp14)  
-[Advertisements](ajp15)  
+<span id="contents"></span> [Title Page](ajp00.md)  
+[Preface](ajp01.md)  
+[Table of Contents](ajp02.md)  
+[Editorial Note](ajp03.md)  
+[Introduction](ajp04.md)  
+[Chapter I: Human Existence](ajp05.md)  
+[Chapter II: Family Life](ajp06.md)  
+[Chapter III: Human Virtues](ajp07.md)  
+[Chapter IV: Human Faults](ajp08.md)  
+[Chapter V: Occupations](ajp09.md)  
+[Chapter VI: Rules of Conduct](ajp10.md)  
+[Chapter VII: Vagaries of Fortune](ajp11.md)  
+[Chapter VIII: Social Life](ajp12.md)  
+[Chapter IX: Colloquialisms](ajp13.md)  
+[Chapter X: Miscellaneous](ajp14.md)  
+[Advertisements](ajp15.md)  

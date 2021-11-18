@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg68)  [Next](btg70) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg68)  [Next](btg70.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ needs."
 
 ------------------------------------------------------------------------
 
-[Next: The Light Of The World](btg70)
+[Next: The Light Of The World](btg70.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww16)  [Next](lww18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww16)  [Next](lww18.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ Arabella.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII--Exit Oolanga](lww18)
+[Next: Chapter XVIII--Exit Oolanga](lww18.md)

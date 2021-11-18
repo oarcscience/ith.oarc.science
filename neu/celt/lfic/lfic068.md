@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic067)  [Next](lfic069) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic067)  [Next](lfic069.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,4 +137,4 @@ kitchen griddle in Tombrick.
 
 ------------------------------------------------------------------------
 
-[Next: The King with the Horse's Ears](lfic069)
+[Next: The King with the Horse's Ears](lfic069.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe21)  [Next](poe23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe21)  [Next](poe23.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ these two latter vowels; also in ν and σ.\]
 ------------------------------------------------------------------------
 
 [Next: XXII. (Poetic Diction continued.) How Poetry combines elevation
-of language with perspicuity](poe23)
+of language with perspicuity](poe23.md)

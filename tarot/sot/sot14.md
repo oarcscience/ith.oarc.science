@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot13) 
-[Next](sot15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot13.md) 
+[Next](sot15.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ yourself."
 
 ------------------------------------------------------------------------
 
-[Next: Card XVI. The Tower](sot15)
+[Next: Card XVI. The Tower](sot15.md)

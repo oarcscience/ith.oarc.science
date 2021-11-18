@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe12)  [Next](poe14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe12)  [Next](poe14.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ enumerated.\]
 
 ------------------------------------------------------------------------
 
-[Next: XIII. (Plot continued.) What constitutes Tragic Action](poe14)
+[Next: XIII. (Plot continued.) What constitutes Tragic Action](poe14.md)

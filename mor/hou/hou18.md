@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou17)  [Next](hou19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou17)  [Next](hou19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -87,10 +87,10 @@ faith in continual
 
 <span id="page_335">p. 335</span>
 
-revelation. <span id="fr_542"></span>[1](#fn_542) Man is a free agent.
+revelation. <span id="fr_542"></span>[1](#fn_542.md) Man is a free agent.
 The laying on of hands for ordination, and for the healing of the sick,
 descends from the early to the later apostles. <span
-id="fr_543"></span>[2](#fn_543) There will be a *resurrection* of the
+id="fr_543"></span>[2](#fn_543.md) There will be a *resurrection* of the
 body and a second coming of Christ. Israel is a chosen people; there has
 been a scattering of Israel, and there will be a gathering. Joseph Smith
 was the fulfiller not only of bible prophecies, but of the book of
@@ -115,7 +115,7 @@ Christ the son, and in the holy ghost. For their own sins, and not for
 any transgression of Adam, men will be punished; but all may be saved,
 through the atonement, by obedience to the ordinances of the gospel,
 which are: faith in Christ, repentance, baptism by immersion, <span
-id="fr_544"></span>[3](#fn_544) and laying on of
+id="fr_544"></span>[3](#fn_544.md) and laying on of
 
 <span id="page_337">p. 337</span>
 
@@ -126,7 +126,7 @@ organization and powers that existed in
 
 the primitive church, namely, apostles, prophets, pastors, teachers,
 evangelists; in the gift of tongues, <span
-id="fr_545"></span>[4](#fn_545)
+id="fr_545"></span>[4](#fn_545.md)
 
 <span id="page_339">p. 339</span>
 
@@ -165,7 +165,7 @@ in order to legalize murder. There were the altars and the offerings of
 the old testament, and the great god-man sacrifice of the new. Christ
 made the atonement for the sins of the world by the shedding of his
 blood. By the laws of the land, he who commits murder must atone for it
-by his own death. <span id="fr_546"></span>[5](#fn_546) There are sins
+by his own death. <span id="fr_546"></span>[5](#fn_546.md) There are sins
 of various degrees
 
 <span id="page_341">p. 341</span>
@@ -190,7 +190,7 @@ and affairs of the church. It holds the keys of all spiritual blessings,
 receives the mysteries of the kingdom of heaven, whose doors are ever
 open, and holds communion with God the father, Jesus Christ the
 mediator, Joseph Smith the prophet, and all departed saints. <span
-id="fr_547"></span>[6](#fn_547)
+id="fr_547"></span>[6](#fn_547.md)
 
     The Aaronic is a subordinate priesthood, being an appendage to the
 Melchisedek, and acting under its
@@ -207,17 +207,17 @@ have a legal right to the bishopric. But a high-priest of the order of
 Melchisedek may officiate in all lesser offices, including that of
 bishop, when no lineal descendant of Aaron can be found, and after he
 has been ordained to this power by the first presidency. There is also
-the patriarchal priesthood, <span id="fr_548"></span>[7](#fn_548)
+the patriarchal priesthood, <span id="fr_548"></span>[7](#fn_548.md)
 
 <span id="page_343">p. 343</span>
 
 the patriarch to be the oldest man of the blood of Joseph or of the seed
 of Abraham. Likewise there are mothers in Israel. <span
-id="fr_549"></span>[8](#fn_549)
+id="fr_549"></span>[8](#fn_549.md)
 
     Head over all is the First Presidency of the Church, known also as
 the First Presidency of the High-Priesthood, and consisting of a
-president and two councillors. <span id="fr_550"></span>[9](#fn_550) The
+president and two councillors. <span id="fr_550"></span>[9](#fn_550.md) The
 first presidency presides over and governs
 
 <span id="page_344">p. 344</span>
@@ -228,7 +228,7 @@ president is the prophet of God, seer, revelator, and translator.
     Next in authority are twelve apostles, who are a travelling
 presiding high-council, and with whom, on the death of the president of
 the church, the supreme rulership rests until another first presidency
-is installed. <span id="fr_551"></span>[10](#fn_551) The president of
+is installed. <span id="fr_551"></span>[10](#fn_551.md) The president of
 the twelve, chosen in the
 
 <span id="page_345">p. 345</span>
@@ -241,7 +241,7 @@ therein the seventies.
 
     An apostle may administer in the several offices of the church,
 particularly in spiritual matters. <span
-id="fr_552"></span>[11](#fn_552) The office of a patriarch is to give
+id="fr_552"></span>[11](#fn_552.md) The office of a patriarch is to give
 patriarchal blessings; the office of a member of a seventy is to travel
 and preach the gospel; but a patriarch, a high-priest, a
 
@@ -284,7 +284,7 @@ seventies also preside over all the councils
 
 <span id="page_347">p. 347</span>
 
-of seventies. <span id="fr_553"></span>[12](#fn_553) According to Elder
+of seventies. <span id="fr_553"></span>[12](#fn_553.md) According to Elder
 John Jaques, to whose little book on the priesthood I am indebted for
 this information, there were in 1882 seventy-six councils of seventies,
 with seventy members in each council when complete. Elders are organized
@@ -293,7 +293,7 @@ councillors. \[Priests are organized in councils of forty-eight, each
 with a president—who must be a bishop—and two councillors. Teachers are
 organized in councils of twenty-four, and deacons in councils of twelve,
 each with a president and two councillors. <span
-id="fr_554"></span>[13](#fn_554)
+id="fr_554"></span>[13](#fn_554.md)
 
     In the society of saints, there are territorial divisions into what
 are called Stakes of Zion. In Utah, these divisions correspond usually,
@@ -303,7 +303,7 @@ but not necessarily, with the counties, each county being a stake.
 
 <span class="contnote">\[paragraph continues\]</span> Every stake has a
 president, with his two councillors, and a high-council, consisting of
-twelve high-priests. <span id="fr_555"></span>[14](#fn_555) The
+twelve high-priests. <span id="fr_555"></span>[14](#fn_555.md) The
 high-priests assemble in council, having its president and two
 councillors, at stated times, usually once a month, for conference and
 instruction. The president of a stake, with his two councillors,
@@ -342,7 +342,7 @@ whole of it, literally, and following it to its logical conclusions.
  
 
 Tithing, though enjoined by divine command, is a free-will
-offering. <span id="fr_556"></span>[15](#fn_556) The law of tithing in
+offering. <span id="fr_556"></span>[15](#fn_556.md) The law of tithing in
 its
 
 <span id="page_350">p. 350</span>
@@ -399,7 +399,7 @@ difference between marriage and sealing; the former is secular, and the
 latter both secular and celestial, as it may be either for time or for
 eternity, in person or by proxy, and with the living or with the dead. A
 woman may be sealed to one man for time and to another for eternity, the
-former being still living. <span id="fr_557"></span>[16](#fn_557)
+former being still living. <span id="fr_557"></span>[16](#fn_557.md)
 
 <span id="page_354">p. 354</span>
 
@@ -448,7 +448,7 @@ endowment
 <span id="page_357">p. 357</span>
 
 house, and in which special apartments are being constructed for these
-purposes. <span id="fr_558"></span>[17](#fn_558)
+purposes. <span id="fr_558"></span>[17](#fn_558.md)
 
 <span id="page_358">p. 358</span>
 
@@ -485,7 +485,7 @@ are filled for the most part by travellers and tourists, American and
 European, who take no pains to hide their contempt for all about them,
 and return the courtesy extended by smiles and sneers, which, to say the
 least, is in bad taste for people pretending to a superior
-culture. <span id="fr_559"></span>[18](#fn_559)
+culture. <span id="fr_559"></span>[18](#fn_559.md)
 
 <span id="page_360">p. 360</span>
 
@@ -652,7 +652,7 @@ civilized world, particularly Christian sects, regarded the practice
 with abhorrence, the prophet Joseph inquired of the Lord as to what he
 should do. And the Lord answered, commanding him to restore all things,
 the practice of polygamy among the rest. The revelation on this subject
-is given entire in note [19](#fn_560) of this chapter. The inferior
+is given entire in note [19](#fn_560.md) of this chapter. The inferior
 order of wifehood, known in the sacred scriptures as concubinage, is not
 recognized in the Mormon church. By the marriage covenant, all are made
 wives, and all children are legitimate.
@@ -854,7 +854,7 @@ commands; that cannot be a vice which has for its accomplishment only
 the highest and holiest purposes of the almighty; that cannot be against
 morality which is practised only by the righteous, and for the pure and
 eternal welfare of the human race. <span
-id="fr_560"></span>[19](#fn_560)
+id="fr_560"></span>[19](#fn_560.md)
 
 <span id="page_377">p. 377</span>
 
@@ -1153,7 +1153,7 @@ strangulation of the race? Better punish those who denaturalize
 themselves rather than those who are too natural.
 
     This is what Utah polygamy says to civilization. <span
-id="fr_561"></span>[20](#fn_561)
+id="fr_561"></span>[20](#fn_561.md)
 
 <span id="page_389">p. 389</span>
 
@@ -1276,7 +1276,7 @@ tyrannies.
 
 ### Footnotes
 
-<span id="fn_542"></span>[335:1](hou18.htm#fr_542) In 1853, Benjamin
+<span id="fn_542"></span>[335:1](hou18.htm#fr_542.md) In 1853, Benjamin
 Brown, high-priest, and pastor of the London, Reading, Kent, and Essex
 conferences, published at Liverpool a tract entitled, *Testimonies for
 the Truth; a Record of Manifestations of the Power of God, Miraculous
@@ -1291,7 +1291,7 @@ the overland journey to Salt Lake. Mr Brown was an earnest and honest
 man; his book is the record of his life, and is simple and attractive in
 style and substance.
 
-<span id="fn_543"></span>[335:2](hou18.htm#fr_543) Healing the sick.
+<span id="fn_543"></span>[335:2](hou18.htm#fr_543.md) Healing the sick.
 Joseph early laid it down as a rule that all diseases and sickness among
 them were to be cured by the elders, and by the use of herbs alone.
 Physicians of the world were denounced as enemies to mankind, and the
@@ -1309,7 +1309,7 @@ recommended with corn for the ox, oats for the horse, rye for fowls and
 swine, and barley for all useful animals, and for mild drinks; as also
 other grain. *Times and Seasons*, v. 736.
 
-<span id="fn_544"></span>[336:3](hou18.htm#fr_544) Baptism, a
+<span id="fn_544"></span>[336:3](hou18.htm#fr_544.md) Baptism, a
 prerequisite to church membership, as well as to final salvation, to be
 of avail, must be by immersion, and performed by one of the sect. The
 person who is called of God, and has authority from Jesus Christ to
@@ -1449,7 +1449,7 @@ inasmuch as you shall be faithful; and I pray heaven to bless you; and
 say unto you, be thou blessed, in the name of the father, and of the
 son, and of the holy ghost. Amen."' *Englishwoman in Utah*, 19-20.
 
-<span id="fn_545"></span>[338:4](hou18.htm#fr_545) The gift of tongues
+<span id="fn_545"></span>[338:4](hou18.htm#fr_545.md) The gift of tongues
 is the power to speak in a strange language, but not to translate. It
 first appeared about 1830, when it was pronounced of the devil. Howe
 says it was revived in the early part of 1833, and that at one meeting
@@ -1491,7 +1491,7 @@ escaping with their lives and property; the captors being induced to
 abandon their prize by Jane Grover, a girl of seventeen, who addressed
 them in their own language. *Women of Mormondom*, 474-8.
 
-<span id="fn_546"></span>[340:5](hou18.htm#fr_546) The theory of blood
+<span id="fn_546"></span>[340:5](hou18.htm#fr_546.md) The theory of blood
 atonement is that for certain sins the blood of the transgressor must be
 shed to save his soul. Among these sins are apostasy, the shedding of
 innocent blood, and unfaithfulness to marriage obligations on the part
@@ -1544,7 +1544,7 @@ doctrine is very clearly explained in *Penrose's* <span id="page_341">p.
 *Morm. Proph*., 157-60; *Young's Wife No. 19*, 182-99; *Paddock's La
 Tour*, 305-8; *Bertrand's Mem Morm*., 139-72, 250-8, 296-316.
 
-<span id="fn_547"></span>[341:6](hou18.htm#fr_547) In regard to the two
+<span id="fn_547"></span>[341:6](hou18.htm#fr_547.md) In regard to the two
 priesthoods, the Melchisedek and the Aaronic, or Levitical, all
 authority in the church is subordinate to the first, which holds the
 right of presidency and has power over all the offices in the church.
@@ -1564,7 +1564,7 @@ duty to ordain ministers in all large branches. The seventies are also
 missionaries—assistants to the twelve, and united they are equal in
 authority with the twelve.
 
-<span id="fn_548"></span>[342:7](hou18.htm#fr_548) About 1834, Joseph
+<span id="fn_548"></span>[342:7](hou18.htm#fr_548.md) About 1834, Joseph
 Smith had a revelation to the effect that it was the will of the Lord
 that every father should bless his own children, and that patriarchs
 should be set apart to bless those without a father in the church. This
@@ -1629,12 +1629,12 @@ redeeming their dead so far back that there shall not be a broken link
 in the chain. Absurd as this all seems, there are hundred of saints who
 believe that every word shall be fulfilled.' *Young's Wife No. 19*, 581.
 
-<span id="fn_549"></span>[343:8](hou18.htm#fr_549) Hall says there is a
+<span id="fn_549"></span>[343:8](hou18.htm#fr_549.md) Hall says there is a
 class of women, mothers in Israel, whose business it is to instruct
 females as to their duty in matters not suitable to be taught from the
 stand. *Mormonism Exposed*, 39-44.
 
-<span id="fn_550"></span>[343:9](hou18.htm#fr_550) Early in 1833 the
+<span id="fn_550"></span>[343:9](hou18.htm#fr_550.md) Early in 1833 the
 first presidency was established, with Joseph Smith at the head, his
 associates in the management of affairs being Sidney Rigdon and
 Frederick G. Williams. The revelation creating this trium virate is
@@ -1686,7 +1686,7 @@ chosen, with George Q. Cannon and Joseph F. Smith as councillors.
 is dissolved, and its members, as a presidency, have no status.
 *Richards’ Narr*., MS., 51.
 
-<span id="fn_551"></span>[344:10](hou18.htm#fr_551) On Feb. 14, 1835,
+<span id="fn_551"></span>[344:10](hou18.htm#fr_551.md) On Feb. 14, 1835,
 the church at Kirtland met for the purpose of choosing and ordaining the
 twelve apostles. The business occupied several days. Briefly, the
 ceremonies were as follows: The assemblage consented to accept the names
@@ -1747,7 +1747,7 @@ went to Europe in 1866, I borrowed the means and gave my note; on my
 return I had to pay back my indebtedness.' *Richards’ Narr*., MS.,
 59-60.
 
-<span id="fn_552"></span>[345:11](hou18.htm#fr_552) In 1845 was issued
+<span id="fn_552"></span>[345:11](hou18.htm#fr_552.md) In 1845 was issued
 at New York and Liverpool, *Proclamation of the Twelve Apostles of the
 Church of Jesus Christ of Latter-day Saints; to all the Kings of the
 World; to the President of the Uuited States of Ammerica; to the
@@ -1759,7 +1759,7 @@ restored, in preparation for his coming, which is now near at hand. Then
 are recited the leading points of faith, with allusions to the history
 of the church, and calls to repentance.
 
-<span id="fn_553"></span>[347:12](hou18.htm#fr_553) In February 1835,
+<span id="fn_553"></span>[347:12](hou18.htm#fr_553.md) In February 1835,
 Joseph Smith, with the aid of the recently appointed apostles, proceeded
 to organize two quorums of the seventies, whose duties were to assist in
 the missionary work of the church. Each quorum had seven presidents, and
@@ -1775,7 +1775,7 @@ their hall at Nauvoo, in 1844, it is stated there were fifteen
 quorums—one thousand and fifty in all, if each quorum was full. *Times
 and Seasons*, vi. 794.
 
-<span id="fn_554"></span>[347:13](hou18.htm#fr_554) For act of
+<span id="fn_554"></span>[347:13](hou18.htm#fr_554.md) For act of
 incorporation of Mormon church, 1851, see Utah, Acts Legisl. (ed. 1866),
 108; *S.L.C. Contributor*, ii. 270; number and wealth of churches,
 *Seventh Census Rept*, 1851-2, 45; prayer in the family, *Robinson's
@@ -1801,7 +1801,7 @@ Persecutions*, passim; *Pratt's Voice of Warning*, passim; *Reynolds’
 Book of Abraham*, passim; and many other books, pamphlets, and
 periodicals by various members and dignitaries of the church.
 
-<span id="fn_555"></span>[348:14](hou18.htm#fr_555) The standing
+<span id="fn_555"></span>[348:14](hou18.htm#fr_555.md) The standing
 high-council at the stakes of Zion forms a quorum equal in authority in
 the affairs of the church, in all its decisions, to the quorum of the
 presidency, or to the travelling high-council. Each order is governed as
@@ -1815,7 +1815,7 @@ teachers, and the president of the deacons over twelve deacons. Should
 the president of the church transgress, he is to be tried before the
 common council of the church.
 
-<span id="fn_556"></span>[349:15](hou18.htm#fr_556) Upon the matter of
+<span id="fn_556"></span>[349:15](hou18.htm#fr_556.md) Upon the matter of
 tithing, Joseph Smith in 1831 had three several revelations, each
 containing a clause requiring money and other property to be set apart
 for general use in the church. The first was received in Feb., the
@@ -1987,7 +1987,7 @@ aggrieved by reason of the payment of tithes or other church donations,
 he holds the remedy in his own hands by simply renouncing connection
 with any religious body requiring such donations.'
 
-<span id="fn_557"></span>[353:16](hou18.htm#fr_557) Gentile marriage and
+<span id="fn_557"></span>[353:16](hou18.htm#fr_557.md) Gentile marriage and
 divorce are not recognized as valid in the Mormon church. In its early
 days, the church had no marriage ordinances of its own, and the
 requirements, conditions, and ceremonies incident to the rite were
@@ -2151,7 +2151,7 @@ husbands, is now living in polygamy with the sixth; and one of our
 district judges reports the case of an elderly saintess, living near the
 place in which he holds court, who has been divorced fourteen times.'
 
-<span id="fn_558"></span>[357:17](hou18.htm#fr_558) The ceremony of
+<span id="fn_558"></span>[357:17](hou18.htm#fr_558.md) The ceremony of
 Endowment, or as it is termed, going through the endowment house,
 occupies usually about eight hours. It has been described at length by
 several persons who have experienced it, and I give herewith a
@@ -2257,7 +2257,7 @@ Tocsin*, Nov. 1, 1879; *Yreka Union*, Nov. 22, 1879; *Salem (Or.)
 Statesman*, Nov. 7, 1879; *Carson City (Nev.) Tribune*, Oct. 6, 1879;
 *Elko Indep*., Dec. 12, 1878; *Gold Hill News*, 1878, Oct. 29-31.
 
-<span id="fn_559"></span>[359:18](hou18.htm#fr_559) One or two other
+<span id="fn_559"></span>[359:18](hou18.htm#fr_559.md) One or two other
 matters of belief I may mention here. There was early established the
 order of Enoch. The prophet Joseph not only indorsed the biblical
 account of the translation of Enoch, but added to it. There was not only
@@ -2705,7 +2705,7 @@ and preaching, *Greeley's Overland Jour.,* 218-22; Seventies, *Mil.
 Star,* xxxvi. 369-72; church charter, *S. F. Bulletin,* Nov. 26, 1858;
 sincerity of Morm., *S. F. Alta,* Mar. 30, 1858.
 
-<span id="fn_560"></span>[376:19](hou18.htm#fr_560) For a time, in so
+<span id="fn_560"></span>[376:19](hou18.htm#fr_560.md) For a time, in so
 far as possible, the practice of polygamy in Illinois and Utah was kept
 secret by the missionaries in England and in Europe. Says Parley P.
 Pratt in Manchester, and in the *Millennial Star* of 1846, 'Such a
@@ -2987,7 +2987,7 @@ And now, as pertaining to this law, verily, verily, I say unto you, I
 will reveal more unto you hereafter; therefore let this suffice for the
 present. Behold I am Alpha and Omega. Amen.'
 
-<span id="fn_561"></span>[388:20](hou18.htm#fr_561) My references to
+<span id="fn_561"></span>[388:20](hou18.htm#fr_561.md) My references to
 articles, both printed and in manuscript, relating to polygamy, are no
 less voluminous than those touching upon other church matters. I note as
 follows: early polygamists, *Ferris’ Utah and Morm.*, 117; *Smucker's
@@ -3358,4 +3358,4 @@ Crime in Utah*, MS., passim.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Missions and Immigration. 1830-1883.](hou19)
+[Next: Chapter XVI. Missions and Immigration. 1830-1883.](hou19.md)

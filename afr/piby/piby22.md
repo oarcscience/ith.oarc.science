@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby21)  [Next](piby23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby21)  [Next](piby23.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ anointed and they shall be my people as long as they follow the
 teachings of my apostles.
 
 "Moreover, behold at thy side is the noble woman Henrietta <span
-id="fr_4"></span>[5](#fn_4) in whom the whole heaven adore because of
+id="fr_4"></span>[5](#fn_4.md) in whom the whole heaven adore because of
 her greatness of faith and the loyal way in which she fights to save
 Ethiopia and her generations from everlasting downfall. Place her at the
 side of thy colleague, for great is her wisdom, saith the Lord, and send
@@ -65,8 +65,8 @@ Lord.
 
 ### Footnotes
 
-<span id="fn_4"></span>[83:5](piby22.htm#fr_4) Henrietta Vinton Davis.
+<span id="fn_4"></span>[83:5](piby22.htm#fr_4.md) Henrietta Vinton Davis.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. Standing Before Elijah](piby23)
+[Next: Chapter 3. Standing Before Elijah](piby23.md)

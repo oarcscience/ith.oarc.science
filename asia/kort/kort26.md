@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort25)  [Next](kort27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort25)  [Next](kort27.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_92">p. 92</span> <span id="page_93">p. 93</span>
 
-# 22. Eme'mqut and Envious-One. <span id="fr_52"></span>[1](#fn_52)
+# 22. Eme'mqut and Envious-One. <span id="fr_52"></span>[1](#fn_52.md)
 
 The next morning Eme'mqut saw Envious-One, and he said -to him, "Where
 did you see him? Let us go and visit him." Again they visited him, and
@@ -36,7 +36,7 @@ victor!" Then they brought forth Eme'mqut's wife. Envious-One swooned at
 the first look.
 
 He had a diarrhea from that whale-blubber. <span
-id="fr_53"></span>[2](#fn_53) They took away the woman. Then he
+id="fr_53"></span>[2](#fn_53.md) They took away the woman. Then he
 recovered his senses. He said, "I have slept." And really he began to
 eat
 
@@ -54,13 +54,13 @@ enough!" The end.
 
 ### Footnotes
 
-<span id="fn_52"></span>[93:1](kort26.htm#fr_52) <span id="page_92">p.
-92</span> See [p. 6](kort04.htm#page_6). This is evidently a fragment of
+<span id="fn_52"></span>[93:1](kort26.htm#fr_52.md) <span id="page_92">p.
+92</span> See [p. 6](kort04.htm#page_6.md). This is evidently a fragment of
 a larger tale, but the narrator knew no more.
 
-<span id="fn_53"></span>[93:2](kort26.htm#fr_53) It seems that he had
+<span id="fn_53"></span>[93:2](kort26.htm#fr_53.md) It seems that he had
 eaten some whale-blubber with his wife.
 
 ------------------------------------------------------------------------
 
-[Next: 23. Big-Raven and Fish-Woman](kort27)
+[Next: 23. Big-Raven and Fish-Woman](kort27.md)

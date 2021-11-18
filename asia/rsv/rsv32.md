@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv31)  [Next](rsv33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv31)  [Next](rsv33.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ representation.
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon in Vietnam](rsv33)
+[Next: The Dragon in Vietnam](rsv33.md)

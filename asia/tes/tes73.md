@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes72)  [Next](tes74) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes72)  [Next](tes74.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ third time he tried he broke one of his legs. He drew out a small knife
 and cut off his leg. "See here!" said the Monster, "my marrow is quite
 fat." At that moment the Needle Case jumped up from the heap of offal
 and sang, "Goldiá, goldiá, nesoyá, koroyá. The monstrous old man has
-broken his leg! Ub-čub, čub!" <span id="fr_108"></span>[1](#fn_108) "Oh,
+broken his leg! Ub-čub, čub!" <span id="fr_108"></span>[1](#fn_108.md) "Oh,
 oh! stop your shouting! Take this little knife." "I do not want it."
 "Then take a little marrow of this bone."--"I do not eat it,
 Ub-čub-čub!" As soon as the people heard his voice, they came with
@@ -59,11 +59,11 @@ Markova. Recorded by Mrs. Sophie Bogoras, winter of 1900.
 
 ### Footnotes
 
-<span id="fn_108"></span>[133:1](tes73.htm#fr_108) These words represent
+<span id="fn_108"></span>[133:1](tes73.htm#fr_108.md) These words represent
 probably an imitation of Lamut talk, though they have no particular
 meaning. The last word, úbču, is in the Russian-Chukchee-Lamut trading
 jargon, and means "food," to "eat."
 
 ------------------------------------------------------------------------
 
-[Next: 9. A Yukaghir Tale](tes74)
+[Next: 9. A Yukaghir Tale](tes74.md)

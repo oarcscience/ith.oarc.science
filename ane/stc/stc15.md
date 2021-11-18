@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](stc14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](stc14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Intangible Textual Heritage
 
 <span id="page_130">p. 130</span> <span id="page_131">p. 131</span>
 
-### V. Another Version of the Creation of the World by Marduk. <span id="fr_179"></span>[1](#fn_179)
+### V. Another Version of the Creation of the World by Marduk. <span id="fr_179"></span>[1](#fn_179.md)
 
 <span class="small">OBV.</span>
 
@@ -49,11 +49,11 @@ been made.
 12 . Then was Eridu made, and E-sagil was built,
 
 13\. E-sagil, where in the midst of the Deep the god
-Lugal-dul-azaga <span id="fr_180"></span>[1](#fn_180) dwelleth;
+Lugal-dul-azaga <span id="fr_180"></span>[1](#fn_180.md) dwelleth;
 
 14\. The city of Babylon was built, and E-sagil was finished.
 
-15\. The gods, the Anunnaki, he <span id="fr_181"></span>[2](#fn_181)
+15\. The gods, the Anunnaki, he <span id="fr_181"></span>[2](#fn_181.md)
 created at one time;
 
 16\. The holy city, the dwelling, of their hearts' desire, they
@@ -71,7 +71,7 @@ hearts' desire,
 20\. He formed mankind.
 
 21\. The goddess Aruru together with him <span
-id="fr_182"></span>[1](#fn_182) created the seed of mankind.
+id="fr_182"></span>[1](#fn_182.md) created the seed of mankind.
 
 22\. The beasts of the field and living creatures in the field he
 formed.
@@ -163,18 +163,18 @@ earth, may it \[be glorious\] like the heart of heaven,
 
 ### Footnotes
 
-<span id="fn_179"></span>[131:1](stc15.htm#fr_179) ...\[This\] is merely
+<span id="fn_179"></span>[131:1](stc15.htm#fr_179.md) ...\[This\] is merely
 an elaborate introduction to an incantation which was intended to be
 recited in honour of E-zida, the great temple of Nabû at Borsippa. The
 reverse of the tablet contains the concluding lines of the incantation.
 For a further discussion of the legend on the obverse, see the
 Introduction.
 
-<span id="fn_180"></span>[133:1](stc15.htm#fr_180) Or, Lugal-du-azaga,
+<span id="fn_180"></span>[133:1](stc15.htm#fr_180.md) Or, Lugal-du-azaga,
 
-<span id="fn_181"></span>[133:2](stc15.htm#fr_181) I.e., Marduk.
+<span id="fn_181"></span>[133:2](stc15.htm#fr_181.md) I.e., Marduk.
 
-<span id="fn_182"></span>[135:1](stc15.htm#fr_182) The Sumerian version
+<span id="fn_182"></span>[135:1](stc15.htm#fr_182.md) The Sumerian version
 reads "together with the god."
 
  

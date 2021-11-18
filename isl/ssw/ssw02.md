@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](ssw01) 
-[Next](ssw03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](ssw01.md) 
+[Next](ssw03.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sadi's Scroll of Wisdom*, by Arthur N. Wollaston, \[1906\], at
 Intangible Textual Heritage
 
@@ -44,6 +44,6 @@ S. A. KAPADIA.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](ssw03)
+[Next: Introduction](ssw03.md)
 
 </div>

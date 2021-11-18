@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft73.md) 
 
 ------------------------------------------------------------------------
 
-# THE HISTORY OF TOM THUMB  <span id="fr_89"></span>[1](#fn_89)
+# THE HISTORY OF TOM THUMB  <span id="fr_89"></span>[1](#fn_89.md)
 
 IT is said that in the days of the celebrated Prince Arthur, who was
 king of Britain in the year 516, there lived a great magician, called
@@ -335,5 +335,5 @@ And cry,--Alas l Tom Thumb is dead!"
 
 ### Footnotes
 
-<span id="fn_89"></span>[1](efft74.htm#fr_89) From a Chap-book--*The
+<span id="fn_89"></span>[1](efft74.htm#fr_89.md) From a Chap-book--*The
 Comical and Merry Tricks of Tom Thumb*. Paisley (,circa 1820).

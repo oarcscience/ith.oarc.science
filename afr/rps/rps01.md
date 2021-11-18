@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps00)  [Next](rps02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps00)  [Next](rps02.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ and Biblical Sovreign. The Crown Head of Holy Time, A.B.C.--S.J.W.
 
 ------------------------------------------------------------------------
 
-[Next: Ethiopia's Preface](rps02)
+[Next: Ethiopia's Preface](rps02.md)

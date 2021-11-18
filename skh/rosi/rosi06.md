@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sikhism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](rosi05) 
-[Next](rosi07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sikhism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](rosi05.md) 
+[Next](rosi07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Sikhs*, by Dorothy Field, \[1914\], at Intangible
 Textual Heritage
 
@@ -54,7 +54,7 @@ is formless, great, all-powerful, absolutely holy, without limits of any
 kind, and He cannot be grasped by the finite mind. He has less
 definiteness than the personalities of Allah or Jehovah, and He is
 therefore more often described in terms of negation, calling to mind
-those used in the Vedanta. <span id="fr_26"></span>[1](#fn_26) For
+those used in the Vedanta. <span id="fr_26"></span>[1](#fn_26.md) For
 instance:
 
 "By thinking I cannot obtain a conception of Him, even though I think
@@ -144,7 +144,7 @@ divine mission of the
 with a firm belief in the indwelling and all-pervading Spirit. So strong
 indeed is this that the Sikh Gurus often use terms of orthodox pantheism
 very similar to those of the earlier Hindu Scriptures. <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
 "Thou art in the tree, Thou art in its leaves. Thou art space, Thou art
 time, Thou art fasting, Thou art wisdom, Thou alone art, Thou alone
@@ -158,7 +158,7 @@ and self-existent, but yet the true self of every individual.
 *Doctrines borrowed from Hinduism*.—The doctrines as to the general
 construction of the universe are much the same as those of Hinduism in
 general. All Indian thought which really belongs to the country <span
-id="fr_28"></span>[2](#fn_28) accepts in one form or another the
+id="fr_28"></span>[2](#fn_28.md) accepts in one form or another the
 theories of Karma, Reincarnation, Nirvāna, Māya; and deities as
 described in the Vedas. Sikhism is no exception. It stands for
 monotheism placed above and beyond all these.
@@ -365,7 +365,7 @@ substituted a new name for God in order that there should be no
 association with the various existing conceptions of the Deity. He also
 made safeguards against the danger of formality. The new title was
 Wāhguru, the derivation of which has been differently given in the Sikh
-Scriptures. <span id="fr_29"></span>[1](#fn_29) To utter Wāhguru with
+Scriptures. <span id="fr_29"></span>[1](#fn_29.md) To utter Wāhguru with
 love and devotion and with earnest meditation was held to be an
 efficient means of drawing near to God; of raising the soul above the
 things of this world, and of putting all men on an equality. If done
@@ -403,7 +403,7 @@ Gurus’ hymns as regular services both morning and evening and at other
 stated times. The Jāpji, for instance—a collection of hymns by Guru
 Nānak—is repeated in the early morning and every Sikh is supposed to
 know it by heart. An additional morning service is the Asa ki Wār, <span
-id="fr_30"></span>[1](#fn_30) a collection of hymns by various Gurus.
+id="fr_30"></span>[1](#fn_30.md) a collection of hymns by various Gurus.
 The Rahirās are repeated in the evening when the lamps are lit, and the
 Sohila at bedtime. The Anand can be read at Sikh marriages, and there
 are special prayers for funerals; and also hymns to be chanted at
@@ -438,7 +438,7 @@ positive virtues to be gained, five deadly sins to be
 
 <span id="page_58">p. 58</span>
 
-avoided. <span id="fr_31"></span>[1](#fn_31) Much stress is laid on. all
+avoided. <span id="fr_31"></span>[1](#fn_31.md) Much stress is laid on. all
 the ethical virtues. But the love of God and the love of man were to be
 the principal motives, whether in worship or in action, the vanity of
 everything apart from these is insisted upon.
@@ -574,8 +574,8 @@ the nine regions of the earth."
 
 ### Footnotes
 
-<span id="fn_26"></span>[44:1](rosi06.htm#fr_26) See note page
-[33](rosi04.htm#page_33). The pantheistic doctrine of the Vedānta
+<span id="fn_26"></span>[44:1](rosi06.htm#fr_26.md) See note page
+[33](rosi04.htm#page_33.md). The pantheistic doctrine of the Vedānta
 necessitated the use of negations, for the absolute Brahma, the
 world-soul of the Universe could possess no positive *qualities* of
 goodness, mercy and the like. Thus:
@@ -583,17 +583,17 @@ goodness, mercy and the like. Thus:
 "This Self is nay, nay: not to be grasped, for He is not grasped; not to
 be broken, for He is not broken; unclinging, for He clings not; He is
 not bound, He trembles not, He takes no hurt."
-([Brihad-āranyaka](errata.htm#0) Upanishad.)
+([Brihad-āranyaka](errata.htm#0) Upanishad..md)
 
-<span id="fn_27"></span>[47:1](rosi06.htm#fr_27) Compare: "Thou are
+<span id="fn_27"></span>[47:1](rosi06.htm#fr_27.md) Compare: "Thou are
 woman, Thou art man, Thou art boy and maiden; Thou art the old man
 tottering on the staff; Thou art born with face looking all ways.
 (Svetāsvatara Upanishad.)
 
-<span id="fn_28"></span>[47:2](rosi06.htm#fr_28) The religion of the
+<span id="fn_28"></span>[47:2](rosi06.htm#fr_28.md) The religion of the
 Prophet was a later and foreign element.
 
-<span id="fn_29"></span>[55:1](rosi06.htm#fr_29) One explanation is that
+<span id="fn_29"></span>[55:1](rosi06.htm#fr_29.md) One explanation is that
 in the four great ages of the world, God was worshipped under the names
 of Wasdev, Hari, Gobind, and Rām. The Guru made out of the initials of
 these four names the word Wāhguru which is praise of God and the Guru.
@@ -601,10 +601,10 @@ Gur Dās's explanation is that "wah means congratulation, and guru means
 great. Both words combined, therefore, mean congratulations to the Great
 God."
 
-<span id="fn_30"></span>[56:1](rosi06.htm#fr_30) An account of these
+<span id="fn_30"></span>[56:1](rosi06.htm#fr_30.md) An account of these
 services is given before the selections from the Granth Sāhib.
 
-<span id="fn_31"></span>[58:1](rosi06.htm#fr_31) The five virtues were
+<span id="fn_31"></span>[58:1](rosi06.htm#fr_31.md) The five virtues were
 contentment, compassion, piety, patience, and morality; the five deadly
 sins, lust, anger, covetousness, worldly love, and pride.
 
@@ -613,6 +613,6 @@ sins, lust, anger, covetousness, worldly love, and pride.
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. Hymns from the Granth Sāhib, and from the Granth of
-the Tenth Guru](rosi07)
+the Tenth Guru](rosi07.md)
 
 </div>

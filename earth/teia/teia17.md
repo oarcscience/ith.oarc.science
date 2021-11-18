@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](teia16)  [Next](teia18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](teia16)  [Next](teia18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589636589/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ uprose from it,
 [![''A demon hand sometimes uprose from the islet and plucked away men
 and even whole boats, which when once grasped, usually by night, where
 never seen again, but perished helplessly.''--p. 139](tn/13800.jpg)  
-Click to enlarge](img/13800.jpg)  
+Click to enlarge](img/13800.jpg.md)  
 ''A demon hand sometimes uprose from the islet and plucked away men and
 even whole boats, which when once grasped, usually by night, where never
 seen again, but perished helplessly.''--p. 139  
@@ -206,4 +206,4 @@ century or two that the island of Satanaxio disappeared from the charts.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Antillia, the Island of the Seven Cities](teia18)
+[Next: XV. Antillia, the Island of the Seven Cities](teia18.md)

@@ -1,8 +1,8 @@
-[Previous: Alma](book08)
+[Previous: Alma](book08.md)
 
-[Next: 3 Nephi](book10)
+[Next: 3 Nephi](book10.md)
 
-[Index](index)
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -3049,4 +3049,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: 3 Nephi](book10)
+[Next: 3 Nephi](book10.md)

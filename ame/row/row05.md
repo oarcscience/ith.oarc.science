@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](row04)  [Next](row06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](row04)  [Next](row06.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ Pennsylvania-Germans," containing many "Old Women's Beliefs, Cures, &c."
 
 ------------------------------------------------------------------------
 
-[Next: Some of the ''Famous'' Witch Trials in Pennsylvania](row06)
+[Next: Some of the ''Famous'' Witch Trials in Pennsylvania](row06.md)

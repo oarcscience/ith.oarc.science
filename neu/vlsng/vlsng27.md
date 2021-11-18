@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng26)  [Next](vlsng28) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng26)  [Next](vlsng28.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ And therewith she and hers get them gone home to King Giuki.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI](vlsng28)
+[Next: Chapter XXVI](vlsng28.md)

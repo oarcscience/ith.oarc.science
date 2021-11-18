@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tsoa00)    [Page
-Index](pageidx)    [Text \[Zipped\]](tsoa.txt.gz)
+[Contents](#contents)    [Start Reading](tsoa00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](tsoa.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -50,13 +50,13 @@ instructing your unconscious mind to do so.
 The author, Robert Collier was born in St. Louis, Missouri in 1885, and
 died in 1950. He was the nephew of Peter Fenelon Collier, founder of
 Collier's Weekly, the famous progressive muckraking magazine, which
-notably published [Upton Sinclair's](../../psi/mrad/index) meat-packing
+notably published [Upton Sinclair's](../../psi/mrad/index.md) meat-packing
 expose. Robert Collier was a prolific author, and his works continue to
 be popular to this day with New Thought readers. The Secret of the Ages
 sold over 300,000 copies during his life.
 
 I was fortunate to acquire a first edition of this book, published in
-[seven slim volumes](img/tsoafan.jpg) in 1926, and the section breakdown
+[seven slim volumes](img/tsoafan.jpg.md) in 1926, and the section breakdown
 and pagination of this etext reflects this. However, the page numbering
 across the volumes is continuous, so this is essentially the equivalent
 of a 600 page book (although the pages are small, so a normal sized
@@ -66,7 +66,7 @@ pages state that this was originally copyrighted in 1925 under the title
 any trace of a work by this name: this was copyrighted under the current
 title in 1926 and never renewed.
 
-A [check of the copyright records](tsoareg.pdf) indicated that although
+A [check of the copyright records](tsoareg.pdf.md) indicated that although
 this was registered with the US Copyright office, the copyright was not
 renewed, and hence it is in the public domain in the US. However, it is
 probably not in the public domain in other countries, since Collier died
@@ -78,68 +78,68 @@ in 1950, and most countries use the date of death of the author plus 70.
 
 ### Volume One
 
-[Title Page](tsoa00)  
-[Contents](tsoa01)  
-[Foreword](tsoa02)  
-[I. The World's Greatest Discovery](tsoa03)  
-[II. The Genie-of-Your-Mind](tsoa04)  
-[Index](tsoa05)  
+[Title Page](tsoa00.md)  
+[Contents](tsoa01.md)  
+[Foreword](tsoa02.md)  
+[I. The World's Greatest Discovery](tsoa03.md)  
+[II. The Genie-of-Your-Mind](tsoa04.md)  
+[Index](tsoa05.md)  
 <span id="section_001"></span>
 
 ### Volume Two
 
-[Title Page](tsoa06)  
-[Contents](tsoa07)  
-[III. The Primal Cause](tsoa08)  
-[IV. Desire—The First Law of Gain](tsoa09)  
+[Title Page](tsoa06.md)  
+[Contents](tsoa07.md)  
+[III. The Primal Cause](tsoa08.md)  
+[IV. Desire—The First Law of Gain](tsoa09.md)  
 <span id="section_002"></span>
 
 ### Volume Three
 
-[Title Page](tsoa10)  
-[Contents](tsoa11)  
-[V. Aladdin & Company](tsoa12)  
-[VI. See Yourself Doing It](tsoa13)  
-[VII. “As A Man Thinketh”](tsoa14)  
-[VIII. The Law of Supply](tsoa15)  
+[Title Page](tsoa10.md)  
+[Contents](tsoa11.md)  
+[V. Aladdin & Company](tsoa12.md)  
+[VI. See Yourself Doing It](tsoa13.md)  
+[VII. “As A Man Thinketh”](tsoa14.md)  
+[VIII. The Law of Supply](tsoa15.md)  
 <span id="section_003"></span>
 
 ### Volume Four
 
-[Title Page](tsoa16)  
-[Contents](tsoa17)  
-[IX. The Formula of Success](tsoa18)  
-[X. “This Freedom”](tsoa19)  
-[XI. The Law of Attraction](tsoa20)  
-[XII. The Three Requisites](tsoa21)  
-[XIII. That Old Witch—Bad Luck](tsoa22)  
+[Title Page](tsoa16.md)  
+[Contents](tsoa17.md)  
+[IX. The Formula of Success](tsoa18.md)  
+[X. “This Freedom”](tsoa19.md)  
+[XI. The Law of Attraction](tsoa20.md)  
+[XII. The Three Requisites](tsoa21.md)  
+[XIII. That Old Witch—Bad Luck](tsoa22.md)  
 <span id="section_004"></span>
 
 ### Volume Five
 
-[Title Page](tsoa23)  
-[Contents](tsoa24)  
-[XIV. Your Needs Are Met](tsoa25)  
-[XV. The Master of Your Fate](tsoa26)  
-[XVI. Unappropriated Millions](tsoa27)  
-[XVII. The Secret of Power](tsoa28)  
-[XVIII. This One Thing I Do](tsoa29)  
+[Title Page](tsoa23.md)  
+[Contents](tsoa24.md)  
+[XIV. Your Needs Are Met](tsoa25.md)  
+[XV. The Master of Your Fate](tsoa26.md)  
+[XVI. Unappropriated Millions](tsoa27.md)  
+[XVII. The Secret of Power](tsoa28.md)  
+[XVIII. This One Thing I Do](tsoa29.md)  
 <span id="section_005"></span>
 
 ### Volume Six
 
-[Title Page](tsoa30)  
-[Contents](tsoa31)  
-[XIX. The Master Mind](tsoa32)  
-[XX. What Do You Lack?](tsoa33)  
-[XXI. The Sculptor and the Clay](tsoa34)  
-[XXII. Why Grow Old?](tsoa35)  
+[Title Page](tsoa30.md)  
+[Contents](tsoa31.md)  
+[XIX. The Master Mind](tsoa32.md)  
+[XX. What Do You Lack?](tsoa33.md)  
+[XXI. The Sculptor and the Clay](tsoa34.md)  
+[XXII. Why Grow Old?](tsoa35.md)  
 <span id="section_006"></span>
 
 ### Volume Seven
 
-[Title Page](tsoa36)  
-[Contents](tsoa37)  
-[XXIII. The Medicine Delusion](tsoa38)  
-[XXIV. The Gift of the Magi](tsoa39)  
-[Index of Scriptural References and Quotations](tsoa40)  
+[Title Page](tsoa36.md)  
+[Contents](tsoa37.md)  
+[XXIII. The Medicine Delusion](tsoa38.md)  
+[XXIV. The Gift of the Magi](tsoa39.md)  
+[Index of Scriptural References and Quotations](tsoa40.md)  

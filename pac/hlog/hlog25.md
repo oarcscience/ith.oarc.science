@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog24)  [Next](hlog26) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog24)  [Next](hlog26.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,4 +171,4 @@ New Zealand in the days of the sea-rovers.
 
 ------------------------------------------------------------------------
 
-[Next: Homeless and Desolate Ghosts](hlog26)
+[Next: Homeless and Desolate Ghosts](hlog26.md)

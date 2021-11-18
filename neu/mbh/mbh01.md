@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh00)  [Next](mbh02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh00)  [Next](mbh02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -37,34 +37,34 @@ in most of the mythical groupings.
 
 The mythological theories, aiming at the explanation of these remarkable
 phenomena, are, in a general way, as follows: <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 <span id="page_4">p. 4</span>
 
 1\. The "Idea of the People," propounded by Adolf Bastian. <span
-id="fr_1"></span>[1](#fn_1) This theory assumes the existence of
+id="fr_1"></span>[1](#fn_1.md) This theory assumes the existence of
 *elemental ideas*, so that the unanimity of the myths is a necessary
 sequence of the uniform disposition of the human mind and the manner of
 its manifestation, which within certain limits is identical at all times
 and in all places. This interpretation was urgently advocated by Adolf
 Bauer as accounting for the wide distribution of the hero myths. <span
-id="fr_2"></span>[2](#fn_2)
+id="fr_2"></span>[2](#fn_2.md)
 
 2\. The explanation by *original community*, first applied by Theodor
 Benfey to the widely distributed parallel forms of folklore and fairy
-tales <span id="fr_3"></span>[3](#fn_3). Originating in a favorable
+tales <span id="fr_3"></span>[3](#fn_3.md). Originating in a favorable
 locality (India), these tales were first accepted by the primarily
 related (Indo-Germanic) peoples, then continued to grow while retaining
 the common primary traits, and ultimately radiated over the entire
 earth. This mode of explanation was first adapted to the wide
 distribution of the hero myths by Rudolf Schubert. <span
-id="fr_4"></span>[4](#fn_4)
+id="fr_4"></span>[4](#fn_4.md)
 
 3\. The modern theory of *migration*, or *borrowing*, according to which
 individual myths originate from definite peoples (especially the
 Babylonians) and are accepted by other peoples through oral tradition
 (commerce and traffic) or through literary influences. <span
-id="fr_5"></span>[5](#fn_5)
+id="fr_5"></span>[5](#fn_5.md)
 
 The modern theory of migration and borrowing can be readily shown to be
 merely a modification of Benfey's theory, necessitated by newly
@@ -79,10 +79,10 @@ was generalized by Braun as the basic law of the nature of the human
 <span id="page_5">p. 5</span>
 
 mind: Nothing new is ever discovered as long as it is possible to
-copy. <span id="fr_6"></span>[1](#fn_6) The theory of elemental ideas,
+copy. <span id="fr_6"></span>[1](#fn_6.md) The theory of elemental ideas,
 so strenuously advocated by Bauer over a quarter of a century ago, is
 unconditionally declined by the most recent investigators
-(Winckler, <span id="fr_7"></span>[2](#fn_7) Stucken), who maintain the
+(Winckler, <span id="fr_7"></span>[2](#fn_7) Stucken.md), who maintain the
 migration theory.
 
 There is really no such sharp contrast between the various theories or
@@ -99,10 +99,10 @@ prototype. Bauer likewise inclines to this mediating view; he points out
 repeatedly that in spite of the multiple origin of independent tales, it
 is necessary to concede a most extensive and ramified borrowing, as well
 as an original community of the concepts in related peoples. <span
-id="fr_8"></span>[3](#fn_8) The same conciliatory attitude is maintained
+id="fr_8"></span>[3](#fn_8.md) The same conciliatory attitude is maintained
 by Lessmann in a recent publication (1908), in which he rejects the
 assumption of elemental ideas, but admits that primary relationship and
-borrowing do not exclude each other. <span id="fr_9"></span>[4](#fn_9)
+borrowing do not exclude each other. <span id="fr_9"></span>[4](#fn_9.md)
 As pointed out by Wundt, however, it must be kept in mind that the
 appropriation of mythological contents always represents at the same
 time an independent mythological construction; because only that can be
@@ -115,7 +115,7 @@ would hardly suffice for the refiguration of the same material, without
 the persistent presence of the underlying motifs; but precisely for this
 reason, such motifs may produce new contents that agree in their
 fundamental themes, even in the absence of similar associations. <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 Leaving aside for the present the inquiry as to the mode of distribution
 of these myths, the origin of the hero myth in general is now to be
@@ -128,9 +128,9 @@ says: When human beings and products, exactly corresponding to each
 other, are found at remote parts of the earth, we must conclude that
 they have wandered thither; whether we have knowledge of the how or when
 makes no difference in the assumption of the fact itself. <span
-id="fr_11"></span>[2](#fn_11) Even granting the migration of all myths,
+id="fr_11"></span>[2](#fn_11.md) Even granting the migration of all myths,
 the origin of the first myth would still have to be explained. <span
-id="fr_12"></span>[3](#fn_12)
+id="fr_12"></span>[3](#fn_12.md)
 
 Investigations along these lines will necessarily help to provide a
 deeper insight into the contents of the tales. Nearly all authors who
@@ -143,21 +143,21 @@ following the dominant mode of natural mythological interpretation.
 <span class="contnote">\[paragraph continues\]</span> The newborn hero
 is the young sun rising from the waters, first confronted by lowering
 clouds, but finally triumphing over all obstacles. <span
-id="fr_13"></span>[1](#fn_13) The taking into consideration of all
+id="fr_13"></span>[1](#fn_13.md) The taking into consideration of all
 natural (chiefly atmospheric) phenomena--as was done by the first
 representatives of this method of myth interpretation <span
-id="fr_14"></span>[2](#fn_14)--and the regarding of the legends, in a
+id="fr_14"></span>[2](#fn_14.md)--and the regarding of the legends, in a
 more restricted sense, as astral myths (Stucken, Winckler, and others)
 are approaches not so essentially distinct as the followers of each
 individual direction believe to be the case. Nor does it seem a basic
 improvement when the purely solar interpretation, as advocated
-especially by Frobenius, <span id="fr_15"></span>[3](#fn_15) was no
+especially by Frobenius, <span id="fr_15"></span>[3](#fn_15.md) was no
 longer accepted and the view was advanced that all myths were originally
 lunar. Hüsing holds this theory in his discussion of the myth of Cyrus
 the Great; Siecke also claims this view as the only legitimate, obvious
 interpretation of the birth myths of the heroes; and it is a concept
 that is beginning to gain popularity. <span
-id="fr_16"></span>[4](#fn_16)
+id="fr_16"></span>[4](#fn_16.md)
 
 The interpretation of the myths themselves will be taken up in detail
 later on, and we shall refrain here from all detailed critical comments
@@ -210,7 +210,7 @@ Oedipus, who slew his father Laius and wedded his mother Jocasta, is
 <div style="margin-left: 32px">
 
 nothing more or less than a wish-fulfillment--the fulfillment of the
-wish of our childhood. <span id="fr_17"></span>[1](#fn_17)
+wish of our childhood. <span id="fr_17"></span>[1](#fn_17.md)
 
 </div>
 
@@ -233,7 +233,7 @@ against all attempts at establishing a relation between dream and myth
 is for the most part the outcome of the restriction of the
 parallelization to the so-called nightmares (*Alpträume*), as attempted
 in Laistner's notable book, and also of ignorance of the relevant
-teachings of Freud. <span id="fr_18"></span>[2](#fn_18) The latter not
+teachings of Freud. <span id="fr_18"></span>[2](#fn_18.md) The latter not
 only help us to understand the dreams themselves but also show their
 symbolism and close relationship with all psychic phenomena in general,
 especially with daydreams or fantasies, with artistic creativeness, and
@@ -253,18 +253,18 @@ Lessmann) for the first germ of the origin of such tales precisely in
 the processes of the heavens, or on the contrary, should we conclude
 that ready-made tales of an entirely different (but presumably psychic)
 origin were only subsequently transferred to the heavenly bodies? <span
-id="fr_19"></span>[1](#fn_19) Ehrenreich makes a more positive
+id="fr_19"></span>[1](#fn_19.md) Ehrenreich makes a more positive
 admission: The mythologic evolution certainly begins on terrestrial
 soil, in so far as experiences must first be gathered in the immediate
 surroundings before they can be projected into the heavenly
-universe. <span id="fr_20"></span>[2](#fn_20) And Wundt tells us that
+universe. <span id="fr_20"></span>[2](#fn_20.md) And Wundt tells us that
 the theory of the evolution of mythology according to which it first
 originates in the heavens, whence at a later date it descends to earth,
 is contradictory both to the history of the myth (which is unaware of
 such a migration) and to the psychology of myth formation (which must
 repudiate such a translocation as internally impossible). <span
-id="fr_21"></span>[3](#fn_21) We are also convinced that the
-myths, <span id="fr_22"></span>[4](#fn_22) originally at least, are
+id="fr_21"></span>[3](#fn_21.md) We are also convinced that the
+myths, <span id="fr_22"></span>[4](#fn_22.md) originally at least, are
 structures of the human faculty of imagination, which were at some time
 projected for certain reasons upon the heavens, and may be secondarily
 transferred to the heavenly bodies, with their baffling phenomena. The
@@ -283,7 +283,7 @@ exclusively "natural" scheme of interpretation have been unable, in any
 sense--in their endeavor to discover the original sense of the myths--to
 get away entirely from a psychological process such as must be assumed
 similarly for the creators of the myths. <span
-id="fr_23"></span>[1](#fn_23) The motive is identical, and led to the
+id="fr_23"></span>[1](#fn_23.md) The motive is identical, and led to the
 same course for myth-creators and for myth-interpreters. It is most
 naïvely uttered by one of the founders and champions of comparative myth
 investigation and of the natural mythological mode of interpretation;
@@ -291,7 +291,7 @@ Max Müller points out in his *Essays* that this procedure not only
 invests meaningless legends with a significance and beauty of their own
 but also helps to remove some of the most revolting features of
 classical mythology, as well as to elucidate their true meaning. <span
-id="fr_24"></span>[2](#fn_24) This readily understandable revulsion
+id="fr_24"></span>[2](#fn_24.md) This readily understandable revulsion
 naturally prevents the mythologist from assuming that such
 motifs--incest with mother, sister, or daughter; murder of father,
 grandfather, or brother--could be based on universal fantasies, which
@@ -318,7 +318,7 @@ a representative of the natural school of myth interpreters: Oedipus
 the solar hero who murders his procreator, the darkness; he shares his
 couch with his mother, the gloaming, from whose lap, the dawn, he has
 been born; he dies, blinded, as the setting sun. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 It is understandable that some such interpretation is more soothing to
 the mind than the revelation of the fact that incest and murder impulses
@@ -330,7 +330,7 @@ One must either become reconciled to these indecencies, provided they
 are felt to be such, or one must abandon the study of psychological
 phenomena. It is evident that human beings, even in the earliest times,
 and with a most naïve imagination, never saw incest and parricide in the
-firmament on high, <span id="fr_26"></span>[2](#fn_26) but it is far
+firmament on high, <span id="fr_26"></span>[2](#fn_26.md) but it is far
 more probable that these ideas are derived from another source,
 presumably human. In what way they came to reach the sky, and what
 modifications or additions they received in the process, are questions
@@ -353,69 +353,69 @@ scale for the first time.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](mbh01.htm#fr_0) A short and fairly complete
+<span id="fn_0"></span>[3:1](mbh01.htm#fr_0.md) A short and fairly complete
 review of the general theories of mythology, and of the principal
 advocates of each, is to be found in Wilhelm Wundt: *Völkerpsychologie*
 (Leipzig, 1905-9), Vol. II, Part I, p. 527.
 
-<span id="fn_1"></span>[4:1](mbh01.htm#fr_1) *Das Beständige in den
+<span id="fn_1"></span>[4:1](mbh01.htm#fr_1.md) *Das Beständige in den
 Menschenrassen and die Spielweise ihrer Veränderlichkeit* (Berlin,
 1868).
 
-<span id="fn_2"></span>[4:2](mbh01.htm#fr_2) "*Die Kyros Sage and
+<span id="fn_2"></span>[4:2](mbh01.htm#fr_2.md) "*Die Kyros Sage and
 Verwandtes*," *Sitzungsberichte der Wiener Akademie*, No. 100 (1882), P.
 495.
 
-<span id="fn_3"></span>[4:3](mbh01.htm#fr_3) *Pantschatantra* (1859).
+<span id="fn_3"></span>[4:3](mbh01.htm#fr_3) *Pantschatantra* (1859.md).
 
-<span id="fn_4"></span>[4:4](mbh01.htm#fr_4) *Herodots Darstellung der
+<span id="fn_4"></span>[4:4](mbh01.htm#fr_4.md) *Herodots Darstellung der
 Cyrussage* (Breslau, 1890).
 
-<span id="fn_5"></span>[4:5](mbh01.htm#fr_5) Compare E. Stricken:
+<span id="fn_5"></span>[4:5](mbh01.htm#fr_5.md) Compare E. Stricken:
 *Astral Mythen* (Leipzig, 1896-1907), especially Part V, "Moses"; and H.
 Lessmann: "*Die Kyrossage in Europe*," *Wissen. beit. z. Jahresbericht
 d. städt. Realschule zu Charlottenburg* (1906).
 
-<span id="fn_6"></span>[5:1](mbh01.htm#fr_6) *Naturgeschichte der Sage*,
+<span id="fn_6"></span>[5:1](mbh01.htm#fr_6.md) *Naturgeschichte der Sage*,
 2 vols. (Munich, 1864-5), tracing all religious ideas, legends, and
 systems back to their common family tree and primary root.
 
-<span id="fn_7"></span>[5:2](mbh01.htm#fr_7) Some of the important
+<span id="fn_7"></span>[5:2](mbh01.htm#fr_7.md) Some of the important
 writings by Winckler will be mentioned in the course of this article.
 
-<span id="fn_8"></span>[5:3](mbh01.htm#fr_8) *Zeitschrift für der
+<span id="fn_8"></span>[5:3](mbh01.htm#fr_8.md) *Zeitschrift für der
 Oesterr. Gymnasium* (1891), pp. 161 ff. Schubert's reply is also found
 here, pp. 594 ff.
 
-<span id="fn_9"></span>[5:4](mbh01.htm#fr_9) "Object and Aim of
+<span id="fn_9"></span>[5:4](mbh01.htm#fr_9.md) "Object and Aim of
 Mythological Research," *Mytholog. Bibliot*. (Leipzig), Vol. I, No. 4.
 
-<span id="fn_10"></span>[6:1](mbh01.htm#fr_10) Wundt, op. cit., Part
+<span id="fn_10"></span>[6:1](mbh01.htm#fr_10.md) Wundt, op. cit., Part
 III.
 
-<span id="fn_11"></span>[6:2](mbh01.htm#fr_11) "*Die babylonische
+<span id="fn_11"></span>[6:2](mbh01.htm#fr_11.md) "*Die babylonische
 Geisteskultur in ihren Beziehungen zur Kulturentwicklung der
 Menschheit*," *Wissenschaft and Bildung*, Vol. XV (1907), p. 47.
 
-<span id="fn_12"></span>[6:3](mbh01.htm#fr_12) Of course no time will be
+<span id="fn_12"></span>[6:3](mbh01.htm#fr_12.md) Of course no time will be
 wasted here on the futile question as to what the first legend may have
 been; in all probability this never existed, any more than "the first
 human couple."
 
-<span id="fn_13"></span>[7:1](mbh01.htm#fr_13) Brodbeck: *Zoroaster*
+<span id="fn_13"></span>[7:1](mbh01.htm#fr_13.md) Brodbeck: *Zoroaster*
 (Leipzig, 1893), p. 138.
 
-<span id="fn_14"></span>[7:2](mbh01.htm#fr_14) As an especially
+<span id="fn_14"></span>[7:2](mbh01.htm#fr_14.md) As an especially
 discouraging example of this mode of procedure may be mentioned a
 contribution by the well-known natural mythologist Schwartz, which
 touches on this circle of myths, and is entitled: *Der Ursprung der
 Stamm and Gründungssage Roms unter dem Reflex indogermanischer Mythen*
 (Jena, 1898).
 
-<span id="fn_15"></span>[7:3](mbh01.htm#fr_15) Leo Frobenius: *Das
+<span id="fn_15"></span>[7:3](mbh01.htm#fr_15.md) Leo Frobenius: *Das
 Zeitalter des Sonnengotten* (Berlin, 1904).
 
-<span id="fn_16"></span>[7:4](mbh01.htm#fr_16) G. Hüsing: *Contributions
+<span id="fn_16"></span>[7:4](mbh01.htm#fr_16.md) G. Hüsing: *Contributions
 to the Kyros Myth* (Berlin, 1906). Siecke, "Hermes als Mondgott,"
 Mytholog. Bibliot., Vol. II, No. 1 (1908), P. 48. Compare, for example,
 Paul Koch: *Sagen der Bibel and ihre Ubereinstimmung mit der Mythologie
@@ -425,19 +425,19 @@ Gustav Friedrich: *Grundlage, Entstehung and genaue Einzeldeutung der
 bekanntesten germanischen Märchen, Mythen and Sagen* (Leipzig, 1909), p.
 118.
 
-<span id="fn_17"></span>[9:1](mbh01.htm#fr_17) The fable of
+<span id="fn_17"></span>[9:1](mbh01.htm#fr_17.md) The fable of
 Shakespeare's Hamlet also permits of a similar interpretation, according
 to Freud. It will be seen later on how mythological investigators bring
 the Hamlet legend from entirely different viewpoints into the
 correlation of the circle of myths.
 
-<span id="fn_18"></span>[9:2](mbh01.htm#fr_18) Laistner: *The Riddle of
+<span id="fn_18"></span>[9:2](mbh01.htm#fr_18.md) Laistner: *The Riddle of
 the Sphinx* (1889). Compare Lessmann, "Object and Aim . . . ," loc. cit.
 Ehrenreich alone (*General Psychology,* p. 149) admits the extraordinary
 significance of dream-life for the myth-fiction of all times. Wundt does
 so likewise, for individual mythological motifs.
 
-<span id="fn_19"></span>[10:1](mbh01.htm#fr_19) Stucken (op. cit., p.
+<span id="fn_19"></span>[10:1](mbh01.htm#fr_19.md) Stucken (op. cit., p.
 432) says in this sense: The myth transmitted by the ancestors was
 transferred to natural processes and interpreted in a naturalistic way,
 not vice versa. "Interpretation of nature is a motive in itself" (p. 636
@@ -448,23 +448,23 @@ secondarily introduced, as often in the Vedas and in the Egyptian myths;
 it is a primary attempt at interpretation, like the myth-interpretations
 that arose among the Greeks as early as the fifth century."
 
-<span id="fn_20"></span>[10:2](mbh01.htm#fr_20) Op. cit., p. 104.
+<span id="fn_20"></span>[10:2](mbh01.htm#fr_20.md) Op. cit., p. 104.
 
-<span id="fn_21"></span>[10:3](mbh01.htm#fr_21) Op. cit., p. 282.
+<span id="fn_21"></span>[10:3](mbh01.htm#fr_21.md) Op. cit., p. 282.
 
-<span id="fn_22"></span>[10:4](mbh01.htm#fr_22) For fairy tales, in this
+<span id="fn_22"></span>[10:4](mbh01.htm#fr_22.md) For fairy tales, in this
 as well as in other essential features, Thimme advocates the same point
 of view as is here claimed for the myths. Compare Adolf Thimme: Das
 Märchen, Vol. II of *Handbücher zur Volkskunde* (Leipzig, 1909).
 
-<span id="fn_23"></span>[11:1](mbh01.htm#fr_23) Of this myth
+<span id="fn_23"></span>[11:1](mbh01.htm#fr_23.md) Of this myth
 interpretation, Wundt (op. cit., p. 352) has well said that it really
 should have accompanied the original myth formation.
 
-<span id="fn_24"></span>[11:2](mbh01.htm#fr_24) Vol. II, p. 143, in the
+<span id="fn_24"></span>[11:2](mbh01.htm#fr_24.md) Vol. II, p. 143, in the
 German translation (Leipzig, 1869).
 
-<span id="fn_25"></span>[12:1](mbh01.htm#fr_25) See Ignaz Goldhizer:
+<span id="fn_25"></span>[12:1](mbh01.htm#fr_25.md) See Ignaz Goldhizer:
 *Der Mythus bei den Hebräern and seine geschichtliche Entwickelung*
 (Leipzig, 1876), p. 125. According to the writings of Siecke (loc. cit.,
 p. 39), the incest myths lose all unusual features through being
@@ -473,7 +473,7 @@ quite simple: the daughter (the new moon) is the repetition of the
 mother (the old moon); with her the father (the sun) (also the brother,
 the son) becomes reunited.
 
-<span id="fn_26"></span>[12:2](mbh01.htm#fr_26) Is it to be believed? In
+<span id="fn_26"></span>[12:2](mbh01.htm#fr_26.md) Is it to be believed? In
 an article entitled "*Urreligion der Indogermanen*" (Berlin, 1897),
 where Siecke points out that the incest myths are descriptive narrations
 of the seen but inconceivable process of nature, he objects to the
@@ -484,4 +484,4 @@ own, through the forcefulness of the witnessed facts.
 
 ------------------------------------------------------------------------
 
-[Next: Sargon](mbh02)
+[Next: Sargon](mbh02.md)

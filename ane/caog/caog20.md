@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](caog19)  [Next](caog21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](caog19)  [Next](caog21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Chaldean Account of Genesis*, by George Smith, \[1876\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ SCATTERED through various cuneiform inscriptions are other notices,
 names, or passages, connected with the Book of Genesis. Although the
 names of the Genesis patriarchs are not in the inscriptions giving the
 history of the mythical period, the corresponding personages being, as I
-have shown ([p. 290](caog19.htm#page_290)), all under different names,
+have shown ([p. 290](caog19.htm#page_290).md), all under different names,
 yet some of these Genesis patriarchal names are found detached in the
 inscriptions.
 
@@ -89,7 +89,7 @@ other
 
 <span id="img_29700"></span> <span align="CENTER"> [![MUGHEIR, THE SITE
 OF UR OF THE CHALDEES.](tn/29700.jpg)  
-Click to enlarge](img/29700.jpg)  
+Click to enlarge](img/29700.jpg.md)  
 MUGHEIR, THE SITE OF UR OF THE CHALDEES.  
 </span>
 
@@ -534,14 +534,14 @@ museums, and among the earliest are many specimens carved with scenes
 from the Genesis legends; some of these are probably older than B.C.
 2000, others may be ranged at various dates down to B.C. 1500.
 
-The specimens engraved in pp. [39](caog06.htm#page_39),
-[91](caog08.htm#page_91), [95](caog08.htm#page_95),
-[100](caog08.htm#page_100), [158](caog13.htm#page_158),
-[159](caog13.htm#page_159), [188](caog14.htm#page_188),
-[239](caog17.htm#page_239), [257](caog18.htm#page_257),
-[262](caog18.htm#page_262), [283](caog19.htm#page_283) are from
-Babylonian seals, while those in pp. [41](caog06.htm#page_41),
-[89](caog08.htm#page_89), [99](caog08.htm#page_99) are from Assyrian
+The specimens engraved in pp. [39](caog06.htm#page_39.md),
+[91](caog08.htm#page_91), [95](caog08.htm#page_95.md),
+[100](caog08.htm#page_100), [158](caog13.htm#page_158.md),
+[159](caog13.htm#page_159), [188](caog14.htm#page_188.md),
+[239](caog17.htm#page_239), [257](caog18.htm#page_257.md),
+[262](caog18.htm#page_262), [283](caog19.htm#page_283.md) are from
+Babylonian seals, while those in pp. [41](caog06.htm#page_41.md),
+[89](caog08.htm#page_89), [99](caog08.htm#page_99.md) are from Assyrian
 seals. One very fine and early example is photographed as the
 frontispiece of the present work. The character and style of the
 cuneiform legend which accompanies this shows it to be one of the most
@@ -614,6 +614,6 @@ day be superseded by newer texts and fuller and more perfect light.
 
 ------------------------------------------------------------------------
 
-[Next: Index](caog21)
+[Next: Index](caog21.md)
 
 </div>

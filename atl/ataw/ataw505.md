@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw504)  [Next](ataw506) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw504)  [Next](ataw506.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -380,7 +380,7 @@ with which we are familiar in Egyptian archæology."
 
 Dr. Schliemann, in his excavations of the ruins of Troy, found a number
 of what he calls "owl-headed idols" and vases. I give specimens on page
-[398](#img_39800) and page [400](#img_40000).
+[398](#img_39800) and page [400](#img_40000.md).
 
 In Peru we find vases with very much the same style of face.
 
@@ -582,4 +582,4 @@ Pacific.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: The African Colonies.](ataw506)
+[Next: Chapter VI: The African Colonies.](ataw506.md)

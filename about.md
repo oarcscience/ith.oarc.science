@@ -67,7 +67,7 @@ made them freely accessible anywhere in the world.
 
 We have scanned hundreds of books which have all been made freely
 accessible to the world. [A comprehensive bibliography of the texts
-scanned at sacred texts is available here.](stbib)
+scanned at sacred texts is available here.](stbib.md)
 
 We welcome email regarding typographical or factual errors in any file
 at Intangible Textual Heritage.

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes73)  [Next](tes75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes73)  [Next](tes75.md) 
 
 ------------------------------------------------------------------------
 
-### 9. A YUKAGHIR TALE. <span id="fr_109"></span>[2](#fn_109)
+### 9. A YUKAGHIR TALE. <span id="fr_109"></span>[2](#fn_109.md)
 
 There was a Yukaghir man and his wife. He was exceedingly lazy. He was
 all the time lying in his tent, and did not want to go out. The woman
@@ -17,7 +17,7 @@ come home and cook the dinner. Then she would ask, "Will you
 eat?"--"Why! If I must! čeméčina!"
 
 One time the woman went out, and saw somebody coming. It was Yaghishna,
-the unclean idol. <span id="fr_110"></span>[1](#fn_110) The woman came
+the unclean idol. <span id="fr_110"></span>[1](#fn_110.md) The woman came
 back, and sang out:--
 
 "Ke, ke, ke, ke, ke.  
@@ -87,16 +87,16 @@ Vakarena, the Anadyr River, autumn of 1899.
 
 ### Footnotes
 
-<span id="fn_109"></span>[133:2](tes74.htm#fr_109) The tribal name
+<span id="fn_109"></span>[133:2](tes74.htm#fr_109.md) The tribal name
 "Yukaghir" is mentioned in the title as well as in the text of this
 tale. Still the unknown words occurring in it were indicated as
 belonging to the Chuvantzi language, though nobody was able to translate
 them. The Chuvantzi may have been a branch of the Yukaghir. (Cf.
 Bogoras, "The Chukchee," 18).--W. B.
 
-<span id="fn_110"></span>[134:1](tes74.htm#fr_110) Yaghishna, cf. No. 6
-of the Kolyma tales, [p. 52](tes26.htm#page_52)--W. B.
+<span id="fn_110"></span>[134:1](tes74.htm#fr_110.md) Yaghishna, cf. No. 6
+of the Kolyma tales, [p. 52](tes26.htm#page_52.md)--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 10. A Chuvantzi Tale (Anadyr Version)](tes75)
+[Next: 10. A Chuvantzi Tale (Anadyr Version)](tes75.md)

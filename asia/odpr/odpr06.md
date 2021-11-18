@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](odpr05)  [Next](odpr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](odpr05)  [Next](odpr07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040450518X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ immigrants in the United States.
 *Part Played during the Crusades:*—In the early period of the Crusading
 era, the Druze feudal power was in the hands of two families: the
 Tanūkhs and the Arislāns. From their fortresses in the Gharb
-district <span id="fr_3"></span>[1](#fn_3) of southern Lebanon, the
+district <span id="fr_3"></span>[1](#fn_3.md) of southern Lebanon, the
 Tanūkhs led their incursions into the Phoenician coast and finally
 succeeded in holding Beirūt and the maritime plain against the Franks.
 
@@ -64,7 +64,7 @@ ranks in their struggle against the Crusaders.
 Having cleared Syria from the Franks, the Mamlūk Sultans of Egypt turned
 their attention to the schismatic Moslems of Syria; and in the year
 1305, al-Malik al-Nāṣir inflicted a disastrous defeat on the Druzes at
-Kasrawān <span id="fr_4"></span>[1](#fn_4) and forced outward compliance
+Kasrawān <span id="fr_4"></span>[1](#fn_4.md) and forced outward compliance
 on their part to orthodox (Sunni) Islam. Later under the Ottoman Turks
 they were again chastised severely at ‘Ayn-Ṣawfar, in 1585, for having
 attacked and robbed near Tripoli a body of Janizaries on their way to
@@ -99,7 +99,7 @@ Constantinople. He went so far in 1608 as to sign a commercial treaty
 with Duke Ferdinand I of Tuscany containing secret military clauses. The
 Sultan then sent a force against him, and he was compelled, in 1614, to
 flee the land and seek refuge in the courts of Tuscany and Naples. <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 Fakhr-al-Dīn was the first ruler in modern Lebanon to open the doors of
 his country to foreign Western influences. Under his auspices the French
@@ -183,7 +183,7 @@ Christian governor. This autonomy was maintained until the Great War.
 
 Besides Wādi-al-Taym, the southern part of Western Lebanon and Ḥawrān,
 the Druzes today occupy a few villages in al Jabal al-A‘la, <span
-id="fr_6"></span>[1](#fn_6) Mt. Carmel in Palestine, and Ṣafad. Their
+id="fr_6"></span>[1](#fn_6.md) Mt. Carmel in Palestine, and Ṣafad. Their
 districts in southern Lebanon are al-Matn and al-Shūf, and their leading
 villages are: ‘Ālayh, Bayṣūr, al-Shuwayfāt, ‘Abayh, Ba‘aqlīn, and
 al-Mukhtārah. They number in all Syria and Palestine about 117,000.
@@ -192,19 +192,19 @@ al-Mukhtārah. They number in all Syria and Palestine about 117,000.
 
 ### Footnotes
 
-<span id="fn_3"></span>[5:1](odpr06.htm#fr_3) The district lying to the
+<span id="fn_3"></span>[5:1](odpr06.htm#fr_3.md) The district lying to the
 west of Beirūt. The ruins of one of these fortresses still crown a
 little hill near Saraḥmūl.
 
-<span id="fn_4"></span>[6:1](odpr06.htm#fr_4) This region is today
+<span id="fn_4"></span>[6:1](odpr06.htm#fr_4.md) This region is today
 entirely occupied by Christians.
 
-<span id="fn_5"></span>[7:1](odpr06.htm#fr_5) For a biography of
+<span id="fn_5"></span>[7:1](odpr06.htm#fr_5.md) For a biography of
 Fakhr-al-Dīn, see H. F. Wuestenfeld, *Fachreddin, der Drusenfürst, und
 seine Zeitgenossen* (Göttingen, 1866).
 
-<span id="fn_6"></span>[9:1](odpr06.htm#fr_6) In the vicinity of Aleppo.
+<span id="fn_6"></span>[9:1](odpr06.htm#fr_6.md) In the vicinity of Aleppo.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Racial Origins](odpr07)
+[Next: Chapter III. Racial Origins](odpr07.md)

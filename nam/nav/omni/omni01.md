@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](omni00)  [Next](omni02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](omni00)  [Next](omni02.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ Santa Fe, N. Mex., December 1953.
 
 ------------------------------------------------------------------------
 
-[Next: The Creation](omni02)
+[Next: The Creation](omni02.md)

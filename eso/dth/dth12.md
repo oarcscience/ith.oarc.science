@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth11) 
-[Next](dth13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth11.md) 
+[Next](dth13.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,7 +149,7 @@ wealth is of no use to them. In order to keep fit they have to live on
 the most simple fare and, as regards work and recreation, a navvy or a
 convict has an easy and congenial time in comparison. Their only joy is
 the joy of accomplishment, the glow of satisfaction at having achieved.
-Are you prepared to pay the price that such a [success](errata.htm#22)
+Are you prepared to pay the price that such a [success](errata.htm#22.md)
 demands? If you are, go forward, and if you really believe you can
 succeed, and have built up your mental powers and character on the lines
 laid down in these lessons, you MUST succeed. Do not blame me however if
@@ -483,4 +483,4 @@ memorized each day you will develop a memory above the average.
 
 ------------------------------------------------------------------------
 
-[Next: Part XII](dth13)
+[Next: Part XII](dth13.md)

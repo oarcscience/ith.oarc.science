@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar073) [Next](gbar075)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar073) [Next](gbar075.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ a thought as the banker a silver coin? Assuredly no one.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar075)
+[Next](gbar075.md)

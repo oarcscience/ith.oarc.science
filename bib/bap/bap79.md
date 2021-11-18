@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap78.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ unto
 |-------------|
 | 1 Sam. 3:14 |
 
-thee and to thy sons? <span id="fr_164"></span>[1](#fn_163) 2. *And Saul
+thee and to thy sons? <span id="fr_164"></span>[1](#fn_163.md) 2. *And Saul
 said to him that bare his armour: Take thy sword and slay me before the
 Philistines come and abuse me. And he that bare his armour would not lay
 hands upon him*. 3. *And he himself bowed upon his sword*, and he could
@@ -54,6 +54,6 @@ unrighteousness. . . .
 
 ### Footnotes
 
-<span id="fn_163"></span>[242:1](bap79.htm#fr_164) LXV. According to the
+<span id="fn_163"></span>[242:1](bap79.htm#fr_164.md) LXV. According to the
 *Quaest. Hebr*. *in loc*., the armour bearer of Saul was Doeg, and the
 man who killed Saul the son of Doeg.

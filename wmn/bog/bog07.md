@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog06)  [Next](bog08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog06)  [Next](bog08.md) 
 
 ------------------------------------------------------------------------
 
@@ -125,4 +125,4 @@ Vanity of vanities, said the Goddess; all is vanity.
 
 ------------------------------------------------------------------------
 
-[Next: IV](bog08)
+[Next: IV](bog08.md)

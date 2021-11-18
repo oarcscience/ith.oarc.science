@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc09)  [Next](crc11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc09)  [Next](crc11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ twenties of heifers
 
 with him, so that he is at the Black Corrie of Glenn Gatt.'
 
-'Go,' said Medb, 'and carry a withe <span id="fr_42"></span>[1](#fn_42)
+'Go,' said Medb, 'and carry a withe <span id="fr_42"></span>[1](#fn_42.md)
 between each two of you.'
 
 They do this: hence this glen is called Glenn Gatt. Then they bring the
@@ -89,8 +89,8 @@ to the Ulstermen. They waited there three days and three nights, till
 they dug the earth in front of them, the Bernas Bo Cuailnge.
 
 It is there that Cuchulainn killed Crond and Cœmdele and ———. <span
-id="fr_43"></span>[1](#fn_43) A hundred warriors died ——— <span
-id="fr_44"></span>[1](#fn_43) with Roan and Roae, the two historians of
+id="fr_43"></span>[1](#fn_43.md) A hundred warriors died ——— <span
+id="fr_44"></span>[1](#fn_43.md) with Roan and Roae, the two historians of
 the Foray. A hundred and forty-four, kings died by him at the same
 stream. They came then over the Bernas Bo Cuailnge with the cattle and
 stock of Cualnge, and spent the night in Glenn Dail Imda in Cualnge.
@@ -113,14 +113,14 @@ this version.)
 
 ### Footnotes
 
-<span id="fn_42"></span>[42:1](crc10.htm#fr_42) Ir. *gatt*, a withe.
+<span id="fn_42"></span>[42:1](crc10.htm#fr_42.md) Ir. *gatt*, a withe.
 
-<span id="fn_43"></span>[43:1](crc10.htm#fr_44) Obscure.
+<span id="fn_43"></span>[43:1](crc10.htm#fr_44.md) Obscure.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Harrying of Cualnge](crc11)
+[Next: The Harrying of Cualnge](crc11.md)
 
 </div>

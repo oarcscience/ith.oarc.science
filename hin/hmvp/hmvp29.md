@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp28)  [Next](hmvp30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp28)  [Next](hmvp30.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ establish a kingdom of righteousness similar to the First or Kritā
 Yuga—the age of Truth. These four ages, in the same order and with
 similar characteristics, will again and again be experienced until the
 final end of all things shall come. The following extract from the
-"Vishnu Purāna" <span id="fr_226"></span>[\*](#fn_226)
+"Vishnu Purāna" <span id="fr_226"></span>[\*](#fn_226.md)
 
 <span id="page_246">p. 246</span>
 
@@ -39,7 +39,7 @@ Indus, Darvika, Chandrabhāgā, and Kashmir. "The
 
 <span id="img_24600"></span> <span align="CENTER">
 [![KALIKI.](tn/24600.jpg)  
-Click to enlarge](img/24600.jpg)  
+Click to enlarge](img/24600.jpg.md)  
 KALIKI.  
 </span>
 
@@ -112,8 +112,8 @@ the restorer of purity and goodness.
 
 ### Footnotes
 
-<span id="fn_226"></span>[245:\*](hmvp29.htm#fr_226) Page 622.
+<span id="fn_226"></span>[245:\*](hmvp29.htm#fr_226.md) Page 622.
 
 ------------------------------------------------------------------------
 
-[Next: Jagannāth](hmvp30)
+[Next: Jagannāth](hmvp30.md)

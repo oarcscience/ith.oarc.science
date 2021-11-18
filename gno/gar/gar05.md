@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar04)  [Next](gar06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar04)  [Next](gar06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ its own to express any but the most materialistic ideas. The matter of
 its professed revelation is set forth also with endless repetitions,
 bespeaking a language destitute of relative pronouns, of conjunctions,
 and of all the other grammatical refinements necessary for the clear and
-concise expression of thought. <span id="fr_0"></span>[\*](#fn_0)
+concise expression of thought. <span id="fr_0"></span>[\*](#fn_0.md)
 
 The authorship of this record is assigned by itself in several places to
 Philip the Apostle, whom the Saviour bids to sit down and write these
@@ -56,7 +56,7 @@ gate of the Firmament, the Sphere of Fate, and the regions
 of the Twelve Great Æons, all of whom in succession are terror-smitten,
 and fall down before him and sing hymns of praise. On arriving at the
 thirteenth æon, he finds seated below and weeping the excluded Power
-Pistis-Sophia, <span id="fr_1"></span>[\*](#fn_1) who gives her name to
+Pistis-Sophia, <span id="fr_1"></span>[\*](#fn_1.md) who gives her name to
 the revelation. She, having once caught a glimpse of the Supreme Light,
 was seized with a desire to fly upwards into it: but Adamas, the ruler
 of her proper place, being enraged at this act of rebellion against
@@ -188,10 +188,10 @@ schemes.
 
 ### Footnotes
 
-<span id="fn_0"></span>[14:\*](gar05.htm#fr_0) It is intended to issue
+<span id="fn_0"></span>[14:\*](gar05.htm#fr_0.md) It is intended to issue
 an English translation as a supplement to the present work.
 
-<span id="fn_1"></span>[15:\*](gar05.htm#fr_1) This banishment of Sophia
+<span id="fn_1"></span>[15:\*](gar05.htm#fr_1.md) This banishment of Sophia
 from the society of the other Æons is the grand turning-point of the
 principal Gnostic schemes, although each assigns a different reason for
 her degradation, as in the system of Valentinus, and also that of the
@@ -199,4 +199,4 @@ later Ophites.
 
 ------------------------------------------------------------------------
 
-[Next: The Book of Enoch](gar06)
+[Next: The Book of Enoch](gar06.md)

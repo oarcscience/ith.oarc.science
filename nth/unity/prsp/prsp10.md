@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](prsp09)  [Next](prsp11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](prsp09)  [Next](prsp11.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Prosperity*, by Charles Fillmore, \[1936\], at Intangible Textual
 Heritage
 
@@ -413,4 +413,4 @@ And I shall dwell in the house of Jehovah for ever.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 9](prsp11)
+[Next: Chapter 9](prsp11.md)

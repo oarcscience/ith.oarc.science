@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm08)  [Next](tdm10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm08)  [Next](tdm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -283,7 +283,7 @@ be, and why they acted so and so, and not otherwise. The Shiuana, he had
 been taught, dwelt in the clouds, and they were good; why, then, was it
 that from one and the same cloud the beneficial rain descended, which
 caused the food of mankind to grow, and also the destructive hail and
-the deadly thunderbolt? <span id="fr_8"></span>[1](#fn_8)
+the deadly thunderbolt? <span id="fr_8"></span>[1](#fn_8.md)
 
 A faint, muttering sound, deep and prolonged, struck his ear. He
 started, for it was distant thunder. The Shiuana, he believed, had read
@@ -679,7 +679,7 @@ poured down upon the Rito de los Frijoles.
 
 ### Footnotes
 
-<span id="fn_8"></span>[163:1](tdm09.htm#fr_8) A clear definition of the
+<span id="fn_8"></span>[163:1](tdm09.htm#fr_8.md) A clear definition of the
 Shiuana is not easy to give. In a general sense, they might be called
 the "spirits of the Fetiches." As everything strange, unusual, or
 inexplicable is attributed to spiritual origin, the numbers of the
@@ -689,4 +689,4 @@ connection with the deified beings they represent.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](tdm10)
+[Next: Chapter VIII](tdm10.md)

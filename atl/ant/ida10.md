@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida09)  [Next](ida11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida09)  [Next](ida11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -207,7 +207,7 @@ them; then, casting a peevish glance at us, he struck a copper gong.
 
 The portiere was raised again. A huge white Targa entered. I seemed to
 recognize him as one of the genii of the cave. <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 "Ferradji," angrily demanded the little officer of the Department of
 Education, "why were these gentlemen brought into the library?"
@@ -432,7 +432,7 @@ Duke de Morny made me decide on 1860 or 1862; and the further chapters
 of this story will show that I was not far wrong.
 
 The count made me sit down beside him. One of his first questions was to
-demand if I ever cut fives. <span id="fr_9"></span>[1](#fn_9)
+demand if I ever cut fives. <span id="fr_9"></span>[1](#fn_9.md)
 
 "That depends on how I feel," I replied.
 
@@ -535,15 +535,15 @@ the Atlantides."
 
 ### Footnotes
 
-<span id="fn_8"></span>[119:1](ida10.htm#fr_8) The negro serfs among the
+<span id="fn_8"></span>[119:1](ida10.htm#fr_8.md) The negro serfs among the
 Tuareg are generally called "white Tuareg." While the nobles are clad in
 blue cotton robes, the serfs wear white robes, hence their name of
 "white Tuareg." See, in this connection, Duveyrier: *les Tuareg du
 Nord*, page 292. (Note by M. Leroux.)
 
-<span id="fn_9"></span>[126:1](ida10.htm#fr_9) *Tirer à cinq*, a card
+<span id="fn_9"></span>[126:1](ida10.htm#fr_9.md) *Tirer à cinq*, a card
 game played only for very high stakes.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Atlantis](ida11)
+[Next: Chapter IX. Atlantis](ida11.md)

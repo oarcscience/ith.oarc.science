@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw43)  [Next](omw45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw43)  [Next](omw45.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_12500"></span>
 
 [![Cupid and Psyche](tn/12500.jpg)  
-Click to enlarge](img/12500.jpg)  
+Click to enlarge](img/12500.jpg.md)  
 Cupid and Psyche  
 
 # GRÆCO-ROMAN
@@ -189,4 +189,4 @@ he vanished.
 
 ------------------------------------------------------------------------
 
-[Next: Cupid and Psyche, Part II](omw45)
+[Next: Cupid and Psyche, Part II](omw45.md)

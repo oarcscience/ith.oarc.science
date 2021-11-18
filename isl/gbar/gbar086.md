@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar085) [Next](gbar087)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar085) [Next](gbar087.md)
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ thee, leave him if thou wouldst not be left of the mercy of God.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar087)
+[Next](gbar087.md)

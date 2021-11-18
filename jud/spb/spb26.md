@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb25)  [Next](spb27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb25)  [Next](spb27.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -208,33 +208,33 @@ good to give thanks unto thee, and becoming to sing praises unto thy
 name, because from everlasting to everlasting thou art God. Blessed art
 thou, O Lord, a King extolled with praises.
 
-*Kaddish, pp. [302](spb24.htm#page_302), [303](spb24.htm#page_303). On
-Chanukah, Kaddish, pp. [253](spb22.htm#page_253),
-[254](spb22.htm#page_254)*.
+*Kaddish, pp. [302](spb24.htm#page_302), [303](spb24.htm#page_303.md). On
+Chanukah, Kaddish, pp. [253](spb22.htm#page_253.md),
+[254](spb22.htm#page_254.md)*.
 
 ------------------------------------------------------------------------
 
 *For Order of Service at the Reading of the Law on New Moons and the
 Intermediate Days of Festivals, see pp.
-[81](spb05.htm#page_81)–[87](spb05.htm#page_87); on Festivals and on New
+[81](spb05.htm#page_81)–[87](spb05.htm#page_87.md); on Festivals and on New
 Moons falling on Sabbaths, see pp.
-[207](spb17.htm#page_207)–[225](spb18.htm#page_225)*.
+[207](spb17.htm#page_207)–[225](spb18.htm#page_225.md)*.
 
 *On New Moons and the Intermediate Days of Festivals:—*
 
-*    "Happy are they," [p. 87](spb05.htm#page_87)*.
+*    "Happy are they," [p. 87](spb05.htm#page_87.md)*.
 
-*    "And a redeemer," [p. 90](spb05.htm#page_90), to "honorable," [p.
-92](spb05.htm#page_92)*.
+*    "And a redeemer," [p. 90](spb05.htm#page_90.md), to "honorable," [p.
+92](spb05.htm#page_92.md)*.
 
 *Say Kaddish to "in the world, and say ye, Amen," [p.
-92](spb05.htm#page_92)*.
+92](spb05.htm#page_92.md)*.
 
 *On New Moons continue with the following Amidah*.
 
 *On Festivals, and on the Intermediate Days of Festivals, say the
 appropriate Amidoth of the Additional Service, pp.
-[336](spb31.htm#page_336)–[347](spb31.htm#page_347)*.
+[336](spb31.htm#page_336)–[347](spb31.htm#page_347.md)*.
 
 ------------------------------------------------------------------------
 
@@ -242,6 +242,6 @@ appropriate Amidoth of the Additional Service, pp.
 
 ------------------------------------------------------------------------
 
-[Next: Additional Service for the New Moon](spb27)
+[Next: Additional Service for the New Moon](spb27.md)
 
 </div>

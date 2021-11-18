@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng02)  [Next](vlsng04) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng02)  [Next](vlsng04.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ crimes, an outlaw.
 ------------------------------------------------------------------------
 
 [Next: Chapter II: Of the Birth of Volsung, the Son of Rerir, who was
-the Son of Sigi.](vlsng04)
+the Son of Sigi.](vlsng04.md)

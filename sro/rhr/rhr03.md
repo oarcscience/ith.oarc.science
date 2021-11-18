@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr02)  [Next](rhr04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr02)  [Next](rhr04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ digested and modified, produces gold. Hence it follows, if this
 etymology be admitted, that a Rosycrucian philosopher is one who by the
 intervention and assistance of the dew, seeks for light, or, in other
 words, the substance called the Philosopher's Stone." <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 This opinion exaggerates the importance attributed to the dew of the
 alchemists. The universal dissolvent has figured under various names, of
@@ -60,9 +60,9 @@ of the Philosophers is the matter of the stone when under the
 manipulation of the artist, and chiefly during its circulations in the
 philosophical egg. The White and Celestial Dew of the Wise is the
 philosophical stone perfected to the White. Mosheim derived his opinion
-from Peter Gassendi, <span id="fr_6"></span>[2](#fn_6) and from a writer
+from Peter Gassendi, <span id="fr_6"></span>[2](#fn_6.md) and from a writer
 in Eusebius Renandot's "Conferences Publiques," <span
-id="fr_7"></span>[3](#fn_7) who confesses that he knew nothing
+id="fr_7"></span>[3](#fn_7.md) who confesses that he knew nothing
 whatsoever of the Rosicrucians till the task of speaking on the subject
 was imposed on him by the *Bureau d’Addresse*. He says:--"Dew, the most
 powerful dissolvent of gold which is to be found among natural and
@@ -117,10 +117,10 @@ thus:--
 When it can be done it is surmounted with a glory and placed on a
 calvary. When it is worn appended and made of cornelian, garnet, ruby,
 or red glass, the calvary and glory are generally omitted." <span
-id="fr_8"></span>[1](#fn_8)
+id="fr_8"></span>[1](#fn_8.md)
 
 Mr Hargrave Jennings, who borrows the whole of this passage <span
-id="fr_9"></span>[2](#fn_9) without acknowledgment of any kind, also
+id="fr_9"></span>[2](#fn_9.md) without acknowledgment of any kind, also
 tells us that "the jewel of the Rosicrucians is formed of a transparent
 red stone with a red cross on one side and a red rose on the other--thus
 it is a crucified rose."
@@ -147,7 +147,7 @@ interpreter came forward who conjectured those letters to signify the
 Rose Cross, in which opinion the matter remains till this present,
 notwithstanding that the Brothers in subsequent writings do affirm it to
 be erroneously so denominated, and testify that the letters R. C. denote
-the name of their first inaugurator. <span id="fr_10"></span>[1](#fn_10)
+the name of their first inaugurator. <span id="fr_10"></span>[1](#fn_10.md)
 If the mind of one man could search that of another and behold formed
 therein the idea or sensible and intelligible form, there would be no
 necessity for speech or writing among men. But this being denied to us
@@ -180,7 +180,7 @@ was produced by a stroke of the hoof of Pegasus.
 In England the pseudonymous author of the "Summum Bonum," who is
 supposed to be Robert Fludd, gives a purely religious explanation of the
 Rose Cross symbol, asserting it to mean "the Cross sprinkled with the
-rosy blood of Christ." <span id="fr_11"></span>[1](#fn_11) The general
+rosy blood of Christ." <span id="fr_11"></span>[1](#fn_11.md) The general
 concensus of opinion is preferable to fanciful interpretations, and we
 may therefore safely take the words *Rosa* and *Crux* as explanatory of
 the name Rosicrucian, and by *Fratres R. C.* we may understand *Fratres
@@ -216,7 +216,7 @@ in the Apocalypse, the *Sapientia quæ ex ore Altissimii prodiit*, as it
 is called in the sublime Advent antiphon of the Latin Church. The
 mystical Rose in the centre of the allegorical garden is continually met
 with in legend. Buddha is said to have been crucified for robbing a
-garden of a flower, <span id="fr_12"></span>[1](#fn_12) and after a
+garden of a flower, <span id="fr_12"></span>[1](#fn_12.md) and after a
 common fashion of mythology, the divine Avatar of the Indians is
 henceforth identified with the object for which he suffered, and he
 becomes himself "a flower, a Rose, a Padma, Lotus, or Lily." Thus he is
@@ -233,7 +233,7 @@ that Christ was crucified in the Empyrean; and as Nazareth, according to
 St Jerome, signified the flower, and was situated in Carmel, "the
 vineyard or garden of God," Jesus of Nazareth, by a common extension of
 the symbolism, is sometimes identified as this crucified flower. <span
-id="fr_13"></span>[1](#fn_13)
+id="fr_13"></span>[1](#fn_13.md)
 
 In classical fable, the garden of Midas, the King of the Phrygians, was
 situated at the foot of Mount Bermion, and was glorified by the presence
@@ -245,7 +245,7 @@ direct connection between the Rose and Alchemy.
 In the Metamorphoses of Apuleius, Lucius is restored to his human shape
 by devouring a chaplet of roses. Everywhere the same typology meets us.
 The Peruvian Eve sinned by plucking roses, which are also called *Frute
-del Arbor*. <span id="fr_14"></span>[2](#fn_14) A messenger from heaven
+del Arbor*. <span id="fr_14"></span>[2](#fn_14.md) A messenger from heaven
 announces to the Mexican Eve that she will bear a Son who shall bruise
 the serpent's head; he presents her with a Rose, and this gift was
 followed by an Age of Roses, as in India there was the Age of the Lotus.
@@ -253,7 +253,7 @@ followed by an Age of Roses, as in India there was the Age of the Lotus.
 There are occasional allusions to the Rose in the Hebrew Scriptures, but
 it is used as a poetic image rather than an arcane symbol, and as such
 it has been always in high favour with poets. <span
-id="fr_15"></span>[3](#fn_15)
+id="fr_15"></span>[3](#fn_15.md)
 
 <span id="page_13">p. 13</span>
 
@@ -265,7 +265,7 @@ whose death occurred in the year 1316, according to the general opinion.
 This extraordinary work, once of universal popularity, is supposed by
 some of its commentators to admit of an alchemical interpretation, and
 openly professes the principles of the *Magnum Opus*. <span
-id="fr_16"></span>[1](#fn_16) The garden, or *vergier*, which contains
+id="fr_16"></span>[1](#fn_16.md) The garden, or *vergier*, which contains
 the Rose, is richly sculptured on its outer walls with symbolical
 figures of Hatred, Treason, Meanness, Covetousness, Avarice, Envy,
 Sadness, Age, Hypocrisy, Poverty--all the vices and miseries of
@@ -293,7 +293,7 @@ Et par dessus siet li boutons,
 Si qu ’il ne cline ne ne pent.  
 L’ odor de lui entor s’ espent;  
 La soatisme qui en ist,  
-Toute la place replenist, <span id="fr_17"></span>[1](#fn_17)</span>
+Toute la place replenist, <span id="fr_17"></span>[1](#fn_17.md)</span>
 
 </div>
 
@@ -317,7 +317,7 @@ significance of this allegory:--
 <div style="margin-left: 32px">
 
 *La Rose c’est d’Amour le guerdon gracieux*. <span
-id="fr_18"></span>[2](#fn_18)
+id="fr_18"></span>[2](#fn_18.md)
 
 </div>
 
@@ -357,7 +357,7 @@ Of ample radiance! Yet, nor amplitude
 Nor height impeded, but my view with ease  
 Took in the full dimension of that joy.  
 Near or remote, what then avails, *where God  
-Immediate rules*, <span id="fr_19"></span>[1](#fn_19) and Nature, awed,
+Immediate rules*, <span id="fr_19"></span>[1](#fn_19.md) and Nature, awed,
 suspends  
 Her sway? Into the yellow of the Rose  
 Perennial, which, in bright expansiveness,  
@@ -419,13 +419,13 @@ in the mystical poetry of a remote period. In the Paradise of Dante we
 find, however, the emblem whose history we are tracing, placed, and
 assuredly not without reason, in the supreme, central heaven amidst the
 intolerable manifestation of the Untreated Light, the Shecinah of
-Rabbinical theosophy, <span id="fr_20"></span>[1](#fn_20) the chosen
+Rabbinical theosophy, <span id="fr_20"></span>[1](#fn_20.md) the chosen
 habitation of God--"a sacred Rose and Flower of Light, brighter than a
 million suns, immaculate, inaccessible, vast, fiery with magnificence,
 and surrounding God as if with a million veils. This symbolic Rose is as
 common a hierogram throughout the vast temples and palaces of the
 Ancient East as it is in the immense ruins of Central America." <span
-id="fr_21"></span>[2](#fn_21)
+id="fr_21"></span>[2](#fn_21.md)
 
 From the time of the Guelphs and the Ghibellines a common device in
 heraldry is the Rose-Emblem. It figures on our English coins; it is used
@@ -436,7 +436,7 @@ is characteristic of St Joseph. "As an emblem of the Virgin, the Rose,
 both white and red, appears at a very early period; it was especially so
 recognised by St Dominic, when he instituted the devotion of the rosary,
 with direct reference to St Mary. The prayers appear to have been
-symbolised as roses." <span id="fr_22"></span>[3](#fn_22) In Scandinavia
+symbolised as roses." <span id="fr_22"></span>[3](#fn_22.md) In Scandinavia
 the same flower was sacred to the goddess Holda, who is called "Frau
 
 <span id="page_18">p. 18</span>
@@ -469,7 +469,7 @@ Above is the well-known emblem
 which symbolises the accomplishment of the *Magnum Opus*, while through
 an open window the sun and moon shed down their benign influence and
 concur in the consummation of the ineffable act. <span
-id="fr_23"></span>[1](#fn_23)
+id="fr_23"></span>[1](#fn_23.md)
 
 <span id="page_19">p. 19</span>
 
@@ -529,7 +529,7 @@ equally common in India, and, according to Colonel Wilford, is exactly
 the Cross of the Manichees, with leaves, flowers, and fruits springing
 from it. It is called the divine tree, the tree of the gods, the tree of
 life and knowledge, and is productive of all things good and
-desirable. <span id="fr_24"></span>[1](#fn_24)
+desirable. <span id="fr_24"></span>[1](#fn_24.md)
 
 According to Godfrey Higgins we must go to the Buddhists for the origin
 of the Cross, "and to the Lama of Thibet, who takes his name from the
@@ -546,7 +546,7 @@ Initiations was sanctified by the sign of a Cross, which was marked on
 every part of his body. After his perfect regeneration it was again set
 upon his forehead <span id="img_02100"></span> ![](img/02100.jpg) and
 inverted <span id="img_02101"></span> ![](img/02101.jpg) upon his
-breast. <span id="fr_25"></span>[1](#fn_25)
+breast. <span id="fr_25"></span>[1](#fn_25.md)
 
 The paschal lamb of the Jewish passover was roasted on a cross-shaped
 wooden spit, and with this sign Ezekiel ordered the people to be marked
@@ -556,7 +556,7 @@ who was its first victim. As an instrument of suffering and death, it is
 not, however, to be found on ancient monuments. It had no orthodox shape
 among the Romans when applied to this purpose, and the victims were
 either tied or nailed, "being usually left to perish by thirst and
-hunger." <span id="fr_26"></span>[2](#fn_26)
+hunger." <span id="fr_26"></span>[2](#fn_26.md)
 
 In the Christendom of both the East and West this divine symbol has a
 history too generally known to need recapitulation here. On this point
@@ -582,7 +582,7 @@ allegories and enigmas. Jean de Roquetaillade, known under the name of
 the composition of the Stone of the Philosophers:--It is needful that
 the Son of Man be lifted up on the Cross before being glorified; to
 signify the volatilisation of the fixed and igneous part of the
-matter." <span id="fr_27"></span>[1](#fn_27)
+matter." <span id="fr_27"></span>[1](#fn_27.md)
 
 I have briefly traced the typological history of the Rose and Cross. It
 is obvious, as I have already remarked, that the antiquity of these
@@ -590,7 +590,7 @@ emblems is no proof of the antiquity of a society which we find to be
 using them at a period subsequent to the Renaissance. It does not even
 suppose that society's initiation into the hieratic secrets which the
 elder world may have summarised in those particular symbols. In the case
-which is in question, such a knowledge would [involve](errata.htm#0) the
+which is in question, such a knowledge would [involve](errata.htm#0.md) the
 antiquity of the Rosicrucians, because it is only at a time long
 subsequent to their first public appearance that the past has been
 sufficiently disentombed to uncover the significance of its symbols to
@@ -683,39 +683,39 @@ collected concerning the Fraternity.
 
 ### Footnotes
 
-<span id="fn_5"></span>[6:1](rhr03.htm#fr_5) Mosheim, Book iv., sect. 1.
+<span id="fn_5"></span>[6:1](rhr03.htm#fr_5.md) Mosheim, Book iv., sect. 1.
 
-<span id="fn_6"></span>[6:2](rhr03.htm#fr_6) "Examen Philosophiæ
+<span id="fn_6"></span>[6:2](rhr03.htm#fr_6.md) "Examen Philosophiæ
 Fluddanæ," sect. 15, op. iii,, 261.
 
-<span id="fn_7"></span>[6:3](rhr03.htm#fr_7) "Conferences du Bureau
+<span id="fn_7"></span>[6:3](rhr03.htm#fr_7.md) "Conferences du Bureau
 d’Addresse," vol. v., p. 509.
 
-<span id="fn_8"></span>[8:1](rhr03.htm#fr_8) Anacalypsis, ii., p. 243.
+<span id="fn_8"></span>[8:1](rhr03.htm#fr_8.md) Anacalypsis, ii., p. 243.
 
-<span id="fn_9"></span>[8:2](rhr03.htm#fr_9) "The Rosicrucians," &c., p.
+<span id="fn_9"></span>[8:2](rhr03.htm#fr_9.md) "The Rosicrucians," &c., p.
 281. Ed. 1870.
 
-<span id="fn_10"></span>[9:1](rhr03.htm#fr_10) The "Fama Fraternitatis"
+<span id="fn_10"></span>[9:1](rhr03.htm#fr_10.md) The "Fama Fraternitatis"
 makes use of the initials C. R., afterwards of R. C., C. R. C., &c., to
 designate their founder.
 
-<span id="fn_11"></span>[10:1](rhr03.htm#fr_11) Elsewhere he interprets
+<span id="fn_11"></span>[10:1](rhr03.htm#fr_11.md) Elsewhere he interprets
 the letters F.R.C. to mean Faith, Religion, and Charity. See Renandot,
 "Conferences Publiques," v., p. 509.
 
-<span id="fn_12"></span>[11:1](rhr03.htm#fr_12) The same story is told
+<span id="fn_12"></span>[11:1](rhr03.htm#fr_12.md) The same story is told
 of Indra, who was crucified by the keepers of the Hindoo Paradise for
 having robbed it.
 
-<span id="fn_13"></span>[12:1](rhr03.htm#fr_13) Professor Max Müller
+<span id="fn_13"></span>[12:1](rhr03.htm#fr_13.md) Professor Max Müller
 considers the word ῥόδον to be Aryan, and originally to have meant
 simply a sprig or flower.
 
-<span id="fn_14"></span>[12:2](rhr03.htm#fr_14) "Mexican Antiquities,"
+<span id="fn_14"></span>[12:2](rhr03.htm#fr_14.md) "Mexican Antiquities,"
 vol. vi., p. 120.
 
-<span id="fn_15"></span>[12:3](rhr03.htm#fr_15) In Persia it is
+<span id="fn_15"></span>[12:3](rhr03.htm#fr_15.md) In Persia it is
 connected with the nightingale. "Tradition says that the bird utters a
 plaintive cry whenever the flower is gathered, and that it will hover
 round the plant in the spring-time, till, overpowered with its
@@ -728,7 +728,7 @@ of his beloved Rose."--Friend, "Flowers and Flower Lore." There is a
 Persian Feast of Roses, which lasts the whole time the flower is in
 bloom.
 
-<span id="fn_16"></span>[13:1](rhr03.htm#fr_16) See in particular the
+<span id="fn_16"></span>[13:1](rhr03.htm#fr_16.md) See in particular the
 verses 16914 to 16997, and the speech of Genius.
 
 "Jean de Meung," says Langlet du Fresnoy in his "Histoire de la
@@ -738,7 +738,7 @@ addicted to the curious sciences, and in particular to Hermetic
 Philosophy. He composed two treatises called "Nature's Remonstrances to
 the Alchemist," and "The Alchemist's Answer to Nature."
 
-<span id="fn_17"></span>[14:1](rhr03.htm#fr_17)
+<span id="fn_17"></span>[14:1](rhr03.htm#fr_17.md)
 
 <div style="margin-left: 32px">
 
@@ -761,40 +761,40 @@ That it died all the place about.
 
 </div>
 
-<span id="fn_18"></span>[14:2](rhr03.htm#fr_18) Baïf--"Sonnet to Charles
+<span id="fn_18"></span>[14:2](rhr03.htm#fr_18.md) Baïf--"Sonnet to Charles
 IX."
 
-<span id="fn_19"></span>[15:1](rhr03.htm#fr_19) Compare the Oriental
+<span id="fn_19"></span>[15:1](rhr03.htm#fr_19.md) Compare the Oriental
 legend, previously cited, of that Silver Rose in which God has His
 permanent residence. It is an extraordinary instance of identity in the
 celestial symbolism of East and West.
 
-<span id="fn_20"></span>[17:1](rhr03.htm#fr_20) See [Additional Notes,
-No. 1](rhr33.htm#an_n01).
+<span id="fn_20"></span>[17:1](rhr03.htm#fr_20.md) See [Additional Notes,
+No. 1](rhr33.htm#an_n01.md).
 
-<span id="fn_21"></span>[17:2](rhr03.htm#fr_21) "The Book of God," part
+<span id="fn_21"></span>[17:2](rhr03.htm#fr_21.md) "The Book of God," part
 iii., p. 511.
 
-<span id="fn_22"></span>[17:3](rhr03.htm#fr_22) Hilderic Friend,
+<span id="fn_22"></span>[17:3](rhr03.htm#fr_22.md) Hilderic Friend,
 "Flowers and Flower-Lore."
 
-<span id="fn_23"></span>[18:1](rhr03.htm#fr_23) See [Additional Notes,
-No. 2](rhr33.htm#an_n02).
+<span id="fn_23"></span>[18:1](rhr03.htm#fr_23.md) See [Additional Notes,
+No. 2](rhr33.htm#an_n02.md).
 
-<span id="fn_24"></span>[20:1](rhr03.htm#fr_24) "Asiatic Researches," x.
+<span id="fn_24"></span>[20:1](rhr03.htm#fr_24.md) "Asiatic Researches," x.
 124. The pre-Christian cross is not infrequently associated with a tree
 or trees. Balfour, "Cyclop. of India," i., p. 891.
 
-<span id="fn_25"></span>[21:1](rhr03.htm#fr_25) "History of
+<span id="fn_25"></span>[21:1](rhr03.htm#fr_25.md) "History of
 Initiations."
 
-<span id="fn_26"></span>[21:2](rhr03.htm#fr_26) Higgins’ "Anacalypsis,"
+<span id="fn_26"></span>[21:2](rhr03.htm#fr_26.md) Higgins’ "Anacalypsis,"
 i., pp. 500, 503.
 
-<span id="fn_27"></span>[22:1](rhr03.htm#fr_27) "Dictionnaire
+<span id="fn_27"></span>[22:1](rhr03.htm#fr_27.md) "Dictionnaire
 Mytho-Hermétique."
 
 ------------------------------------------------------------------------
 
 [Next: Chapter I. On The State of Mystical Philosophy in Germany at the
-Close of the Sixteenth Century](rhr04)
+Close of the Sixteenth Century](rhr04.md)

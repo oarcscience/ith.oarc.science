@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](bui05)  [Next](bui07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](bui05)  [Next](bui07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH0G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ to be won. Everything must not be told to everybody. Truth is power, and
 when held by untrue hands it may become a plague. Even Jesus had His
 "little flock" to whom He confided much which He kept from the world, or
 else taught it in parables cryptic and veiled. <span
-id="fr_46"></span>[1](#fn_46) One of His sayings in explanation of His
+id="fr_46"></span>[1](#fn_46.md) One of His sayings in explanation of His
 method is quoted by Clement of Alexandria in his *Homilies*:
 
 <span id="page_58">p. 58</span>
@@ -62,7 +62,7 @@ method is quoted by Clement of Alexandria in his *Homilies*:
 
 <span class="small">It was not from grudgingness that our Lord gave the
 charge in a certain Gospel: "*My mystery is for Me and the sons of My
-house*." <span id="fr_47"></span>[1](#fn_47)</span>
+house*." <span id="fr_47"></span>[1](#fn_47.md)</span>
 
 </div>
 
@@ -125,7 +125,7 @@ in an imperfect and limited degree. These hidden sages, it would seem,
 look upon our eager aspiring humanity much like the patient masters of
 an idiot school, watching it go on forever seeking without finding,
 while they sit in seclusion keeping the keys of the occult. <span
-id="fr_48"></span>[1](#fn_48) All of which would be very wonderful, if
+id="fr_48"></span>[1](#fn_48.md) All of which would be very wonderful, if
 true. It is, however, only one more of those fascinating fictions with
 which mystery-mongers entertain themselves, and deceive others. Small
 wonder
@@ -149,7 +149,7 @@ our race farthest along the way toward the Mount of Vision, have not
 been men who learned their lore from any coterie of esoteric experts,
 but, rather, men who told in song what they had been taught in
 sorrow—initiates into eternal truth, to be sure, but by the grace of God
-and the divine right of genius! <span id="fr_49"></span>[1](#fn_49)
+and the divine right of genius! <span id="fr_49"></span>[1](#fn_49.md)
 Seers, sages,
 
 <span id="page_62">p. 62</span>
@@ -241,7 +241,7 @@ and distorted at others by bigotry, but still, in what guise soever,
 containing as its secret the meaning of the life of man from his birth
 to his reunion with God who is his Goal. And the result is a series of
 volumes noble in form, united in aim, unique in wealth of revealing
-beauty, and of unequalled worth. <span id="fr_50"></span>[1](#fn_50)
+beauty, and of unequalled worth. <span id="fr_50"></span>[1](#fn_50.md)
 
 <span id="page_66">p. 66</span>
 
@@ -269,7 +269,7 @@ perpetuates the instituted
 <span class="contnote">\[paragraph continues\]</span> Mysteries of
 antiquity, with much else derived from innumerable store-houses of
 treasure. His last work is a survey of *The Secret Doctrine in Israel*,
-being a study of the *Zohar*, <span id="fr_51"></span>[1](#fn_51) or
+being a study of the *Zohar*, <span id="fr_51"></span>[1](#fn_51.md) or
 Hebrew "Book of Splendor," a feat for which no Hebrew scholar has had
 the heart. This Bible of Kabbalism is indeed so confused and confusing
 that only a "golden dustman" would have had the patience to sift out its
@@ -299,7 +299,7 @@ These are but so many symbols of the fact that men are made of one blood
 and born to one need; that they should seek the Lord, if haply they
 might feel after Him, and find Him, though He is not far from every one
 of us; for in Him we live and move and have our being. <span
-id="fr_52"></span>[1](#fn_52)
+id="fr_52"></span>[1](#fn_52.md)
 
 What, then, is the Secret Doctrine, of which this seer-like scholar has
 written with so many improvisations of eloquence and emphasis, and of
@@ -345,12 +345,12 @@ found out.
 
 ### Footnotes
 
-<span id="fn_46"></span>[57:1](bui06.htm#fr_46) Matt. 13:10, 11.
+<span id="fn_46"></span>[57:1](bui06.htm#fr_46.md) Matt. 13:10, 11.
 
-<span id="fn_47"></span>[58:1](bui06.htm#fr_47) *Unwritten Sayings of
+<span id="fn_47"></span>[58:1](bui06.htm#fr_47.md) *Unwritten Sayings of
 Our Lord*, David Smith, vii.
 
-<span id="fn_48"></span>[60:1](bui06.htm#fr_48) By occultism is meant
+<span id="fn_48"></span>[60:1](bui06.htm#fr_48.md) By occultism is meant
 the belief in, and the claim to be able to use, a certain range of
 forces neither natural, nor, technically, supernatural, but more
 properly to be called preternatural—often, though by no means always,
@@ -361,7 +361,7 @@ is audacious and seclusive, the other humble and open; and if we are not
 to end in blunderland we must not confound the two (*Mysticism*, by E.
 Underhill, part i, chap. vii).
 
-<span id="fn_49"></span>[61:1](bui06.htm#fr_49) Much time would have
+<span id="fn_49"></span>[61:1](bui06.htm#fr_49.md) Much time would have
 been saved, and not a little confusion avoided, had this obvious fact
 been kept in mind. Even so charming a book as *Jesus, the Last Great
 Initiate*, by Schure—not to speak of *The Great Work and Mystic
@@ -378,7 +378,7 @@ artistic power, and the Romans in executive skill. Leaving all theories
 of inspiration out of account, facts are facts, and the Bible has no
 peer in the literature of mankind.
 
-<span id="fn_50"></span>[65:1](bui06.htm#fr_50) Some there are who think
+<span id="fn_50"></span>[65:1](bui06.htm#fr_50.md) Some there are who think
 that much of the best work of Mr. Waite is in his poetry, of which there
 are two volumes, *A Book of Mystery and Vision*, and *Strange Houses of
 Sleep*. There one meets a fine spirit, alive to the glory of the world
@@ -389,7 +389,7 @@ are his slender volume of aphorisms, *Steps to the Crown*, his *Life of
 Saint-Martin*, and his *Studies in Mysticism*; for what he touches he
 adorns.
 
-<span id="fn_51"></span>[67:1](bui06.htm#fr_51) Even the *Jewish
+<span id="fn_51"></span>[67:1](bui06.htm#fr_51.md) Even the *Jewish
 Encyclopedia*, and such scholars as Zunz, Graetz, Luzzatto, Jost, and
 Munk avoid this jungle, as well they might, remembering the legend of
 the four sages in "the enclosed garden:" one of whom looked around and
@@ -397,8 +397,8 @@ died; another lost his reason; a third tried to destroy the garden; and
 only one came out with his wits. See *The Cabala*, by Pick, and *The
 Kabbalah Unveiled*, by MacGregor.
 
-<span id="fn_52"></span>[68:1](bui06.htm#fr_52) Acts 17:26-28.1
+<span id="fn_52"></span>[68:1](bui06.htm#fr_52.md) Acts 17:26-28.1
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Collegia](bui07)
+[Next: Chapter V. The Collegia](bui07.md)

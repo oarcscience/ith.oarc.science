@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe109)  [Next](prwe111) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe109)  [Next](prwe111.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ reached England that the young man had been killed on this very night.
 
 ------------------------------------------------------------------------
 
-[Next: The Ghost of Rosewarne](prwe111)
+[Next: The Ghost of Rosewarne](prwe111.md)

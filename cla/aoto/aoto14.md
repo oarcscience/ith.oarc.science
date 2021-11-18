@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto13) 
-[Next](aoto15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto13.md) 
+[Next](aoto15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -73,13 +73,13 @@ harbour. Here, then, we moored our ships and camped down upon the beach,
 
 <span id="img_04200"></span> <span align="CENTER"> [![THE CAVE OF
 POLYPHEMUS](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 THE CAVE OF POLYPHEMUS  
 </span>
 
 <span id="img_04300"></span> <span align="CENTER"> [![SIG. SUGAMELI AND
 THE AUTHOR, IN THE CAVE OF POLYPHEMUS](tn/04300.jpg)  
-Click to enlarge](img/04300.jpg)  
+Click to enlarge](img/04300.jpg.md)  
 SIG. SUGAMELI AND THE AUTHOR, IN THE CAVE OF POLYPHEMUS  
 </span>
 
@@ -87,7 +87,7 @@ SIG. SUGAMELI AND THE AUTHOR, IN THE CAVE OF POLYPHEMUS
 
 "When morning came we hunted the wild goats, of which <span
 class="margnote"><span id="an_9:152">152</span></span> we killed over a
-hundred, <span id="fr_22"></span>[\*](#fn_22) and all day long to the
+hundred, <span id="fr_22"></span>[\*](#fn_22.md) and all day long to the
 going down of the sun we feasted on them and the store of wine we had
 taken from the Cicons. We kept looking also on the land of the Cyclopes
 over against us, which was so near that we could see the smoke of their
@@ -167,7 +167,7 @@ wood in the fire till it was
 
 well burning, and drove it into the wretch's eye, turning it round and
 round as though it were an auger. After a while he plucked it out, flung
-[it](errata.htm#1) from him, and began crying to his neighbours for
+[it](errata.htm#1.md) from him, and began crying to his neighbours for
 help. When they came, they said, 'What ails you? Who is harming you?'
 and he answered, 'No man is harming me.' They then said that he must be
 ill, and had better pray to his father Neptune; so they went away, and I
@@ -236,7 +236,7 @@ comrades whom Polyphemus had eaten.
 
 ### Footnotes
 
-<span id="fn_22"></span>[43:\*](aoto14.htm#fr_22) Dwellers on the East
+<span id="fn_22"></span>[43:\*](aoto14.htm#fr_22.md) Dwellers on the East
 coast of Sicily believe the island here referred to to be Acitrezza,
 between Acireale and Catania. I have been all over it and do not believe
 that it contains more than two acres of land on which any goat could
@@ -251,4 +251,4 @@ any scene if they make up their minds to do so.
 
 ------------------------------------------------------------------------
 
-[Next: Book X. Æolus, Læstrygonians, Circe](aoto15)
+[Next: Book X. Æolus, Læstrygonians, Circe](aoto15.md)

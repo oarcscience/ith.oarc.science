@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](adam01)  [Next](adam03) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](adam01)  [Next](adam03.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ transferred into black mud and finally as clay.
 
 ------------------------------------------------------------------------
 
-[Next: Useful Caution](adam03)
+[Next: Useful Caution](adam03.md)

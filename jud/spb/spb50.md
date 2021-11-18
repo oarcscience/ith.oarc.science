@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb49)  [Next](spb51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb49)  [Next](spb51.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -48,13 +48,13 @@ Lord. We will give thanks unto thy name in the midst of the faithful:
 blessed are ye of the Lord.
 
 With the sanction of those present I will open my lips
-[with](errata.htm#9) song, yea, my bones shall declare, Blessed is he
+[with](errata.htm#9.md) song, yea, my bones shall declare, Blessed is he
 that cometh in the name of the Lord. We will give thanks unto thy name
 in the midst of the faithful: blessed are ye of the Lord.
 
-*Then proceed as on [p. 425](spb43.htm#page_425), "We will bless," etc*.
+*Then proceed as on [p. 425](spb43.htm#page_425.md), "We will bless," etc*.
 
-*After "in the sight of God and man," [p. 430](spb43.htm#page_430), the
+*After "in the sight of God and man," [p. 430](spb43.htm#page_430.md), the
 following is introduced:—*
 
 May the All-merciful bless the father and mother of the child: may they
@@ -94,7 +94,7 @@ with his mantle and wrapped himself therein, with whom is God's covenant
 of life and of peace.
 
 *Continue, "May the All-merciful make us worthy," etc., [p.
-430](spb43.htm#page_430)*.
+430](spb43.htm#page_430.md)*.
 
 ------------------------------------------------------------------------
 
@@ -102,6 +102,6 @@ of life and of peace.
 
 ------------------------------------------------------------------------
 
-[Next: Service for the Redemption of the First-Born](spb51)
+[Next: Service for the Redemption of the First-Born](spb51.md)
 
 </div>

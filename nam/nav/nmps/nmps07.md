@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](nmps06)  [Next](nmps08) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](nmps06)  [Next](nmps08.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,10 +48,10 @@ Bekotsidi began to make a donkey, and the former said: "I shall stop
 with this; I shall make no more." But Békot*s*ïdi said, "I shall
 continue my work." Then he made the jack-rabbit, the small rabbit, the
 prairie-dog, the wood-rat, and many more animals. <span
-id="fr_37"></span>[25](#fn_26)
+id="fr_37"></span>[25](#fn_26.md)
 
 No pictures were drawn of Bekotsidi and no one masquerades in his form.
-His appearance is not known. <span id="fr_38"></span>[26](#fn_27)
+His appearance is not known. <span id="fr_38"></span>[26](#fn_27.md)
 
 Four songs and no more belong to this tale. If you want a fine horse,
 sing the second and third songs, say a prayer, and you will get the
@@ -140,7 +140,7 @@ Ba*h*at*s*idïlé*s*
 Now \| in old age \| wandering \| now \| its trail \| beautiful. \| For
 them I make.
 
-13\. Tentíngo <span id="fr_39"></span>[27](#fn_28) *l*a\` baanï*s*lé
+13\. Tentíngo <span id="fr_39"></span>[27](#fn_28.md) *l*a\` baanï*s*lé
 Ba*h*at*s*idïlé*s*  
 To make them well \| \| for them I do it. \| For them I make.
 
@@ -155,18 +155,18 @@ For them I make. \| \|
 
 ### Footnotes
 
-<span id="fn_26"></span>[59:25](nmps07.htm#fr_37) *H*a*t*á*l*i Natlói
+<span id="fn_26"></span>[59:25](nmps07.htm#fr_37.md) *H*a*t*á*l*i Natlói
 does not know in what order these small animals were made, and does not
 know if Bekotsidi made snakes and fish.
 
-<span id="fn_27"></span>[59:26](nmps07.htm#fr_38) *H*a*t*á*l*i Natlói
+<span id="fn_27"></span>[59:26](nmps07.htm#fr_38.md) *H*a*t*á*l*i Natlói
 does not know where he lives; but thinks he dwells either in the sky or
 in Estsánatlehi's house in the western ocean.
 
-<span id="fn_28"></span>[60:27](nmps07.htm#fr_39) The author was
+<span id="fn_28"></span>[60:27](nmps07.htm#fr_39.md) The author was
 uncertain about this word. An informant has suggested dantingo, "several
 paths."
 
 ------------------------------------------------------------------------
 
-[Next: Protection Song.](nmps08)
+[Next: Protection Song.](nmps08.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](exo)  [Next](num) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](exo)  [Next](num.md) 
 
 ------------------------------------------------------------------------
 
@@ -3234,4 +3234,4 @@ Sinai berg og bød ham kunngjøre for Israels barn.
 
 ------------------------------------------------------------------------
 
-[Next: Numbers](num)
+[Next: Numbers](num.md)

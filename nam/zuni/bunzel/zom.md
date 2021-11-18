@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index)  [Native American](../../index)  [Zuñi
-Religion](../index)  [Bunzel Index](index) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md)  [Zuñi
+Religion](../index)  [Bunzel Index](index.md) 
 
 ------------------------------------------------------------------------
 

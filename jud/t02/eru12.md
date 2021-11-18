@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru11)  [Next](eru13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru11)  [Next](eru13.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -109,11 +109,11 @@ of this regulation more lenient. R. Johanan ben Berokah said: It is
 sufficient to effect the combination if the loaf used therefor be worth
 a Pundian, when the price of flour is one selah for four saah. R. Simeon
 said: Two-thirds of a loaf (is sufficient), such as go three to one
-[kabh](errata.htm#10) of flour. (The time it takes to eat) half (of such
+[kabh](errata.htm#10) of flour. (The time it takes to eat.md) half (of such
 a loaf, is the prescribed time for remaining) in the house of a
-leper, <span id="fr_52"></span>[1](#fn_52) and the half of a half of
+leper, <span id="fr_52"></span>[1](#fn_52.md) and the half of a half of
 such a loaf (which were it [](errata.htm#11) unclean) would make the
-body unclean. <span id="fr_53"></span>[2](#fn_53)
+body unclean. <span id="fr_53"></span>[2](#fn_53.md)
 
 GEMARA: How much food constitutes food for two meals? Said R. Jehudah in
 the name of Rabh: "Two loaves as used by the peasants in the field." R.
@@ -139,7 +139,7 @@ should be deducted as the profit of the dealer. Then
 <span id="page_201">p. 201</span>
 
 according to one a kabh contains sufficient for eight meals and
-according to the other, nine. <span id="fr_54"></span>[1](#fn_54) Hence
+according to the other, nine. <span id="fr_54"></span>[1](#fn_54.md) Hence
 we have already heard that there was *not much* difference between R.
 Simeon and R. Johanan.
 
@@ -282,7 +282,7 @@ such a loft, stable, shed, or granary), he who dwells there does not
 impede the other inmates of the court.
 
 GEMARA: Said R. Jehudah the son of R. Samuel bar Silas <span
-id="fr_55"></span>[1](#fn_55): In all cases where the sages decree that
+id="fr_55"></span>[1](#fn_55.md): In all cases where the sages decree that
 if a man reside in a certain place (and had forgotten to join in the
 Erub) he does not impede the others, an Erub which he might deposit in
 such a place is not legal, excepting only in the case of a vestibule
@@ -321,7 +321,7 @@ held by Bunayis ben Bunayis (according to the Aruch Ben Nanas), who was
 a very wealthy man and would loan his houses for the use of the other
 inhabitants, but would reserve the right to store his utensils in such
 houses. At one time he came before Rabbi; said Rabbi: "Make room for a
-man who has a hundred golden minas." <span id="fr_56"></span>[1](#fn_56)
+man who has a hundred golden minas." <span id="fr_56"></span>[1](#fn_56.md)
 Later another man came along and (thinking that he was the wealthier)
 Rabbi said: "Make room for a man who has two hundred golden minas." Said
 R. Ishmael the son of R. Jose to Rabbi: "Rabbi, the father of this
@@ -384,7 +384,7 @@ however, that the partition must not be outside of the well proper, but
 within its enclosures." Beth Hillel's reason for the decree is that
 wherever water is concerned the ordinances are to be construed in as
 lenient a manner as possible, as we have learned from R. Tabla's
-question and Rabh's answer (see page [24](eru05.htm#page_24)).
+question and Rabh's answer (see page [24](eru05.htm#page_24).md).
 
 <span id="page_207">p. 207</span>
 
@@ -396,7 +396,7 @@ balcony four ells square a hole four spans square may be cut out and
 water may be drawn through that hole (and although there were no
 partitions surrounding the balcony, it is considered as if it reached
 the ground by the application of the law of Gud Achith <span
-id="fr_57"></span>[1](#fn_57)). So said R. Hananiah ben Aqabia." (This
+id="fr_57"></span>[1](#fn_57).md). So said R. Hananiah ben Aqabia." (This
 is virtually the same as the opinion of R. Jehudah in our Mishna.) Said
 Abayi to Rabba: "Perhaps this is not so! R. Jehudah, who says, that no
 separate partition is necessary, does so because he holds, that the wall
@@ -447,7 +447,7 @@ partition.
 
 Said R. Jehudah: "It happened that water was drawn from "the canal
 flowing into the city of Sepphoris from the walls, around it <span
-id="fr_58"></span>[1](#fn_58) (the canal flowing from the moat) with the
+id="fr_58"></span>[1](#fn_58) (the canal flowing from the moat.md) with the
 sanction of the elders," but the sages said to him: "Wouldst thou place
 this in evidence? In that case the canal was not ten spans deep nor four
 spans wide."
@@ -504,7 +504,7 @@ either, unless they have been combined by an Erub.
 GEMARA: Our Mishna is not in accordance with the opinion of Hananiah ben
 Aqabia, who holds, that in a balcony four ells square, a hole may be cut
 out four spans square, etc., as, related previously (page
-[207](#page_207)), but R. Johanan in the name of R. Jose ben Zimra said:
+[207](#page_207).md), but R. Johanan in the name of R. Jose ben Zimra said:
 "Hananiah ben Aqabia permitted this to be done only in the case of a
 balcony erected above the waters of the sea of Tiberias for the reason
 as stated previously, but not above other waters."
@@ -567,7 +567,7 @@ temporary right to it. If, then, by using the lower balcony during the
 week the upper balcony does so wrongfully, and on Sabbath the lower
 balcony reverts to its rightful owners, to the exclusion of the inmates
 of the upper balcony, how can the upper balcony prove an impediment to
-the lower, which it cannot use?" <span id="fr_59"></span>[1](#fn_59)
+the lower, which it cannot use?" <span id="fr_59"></span>[1](#fn_59.md)
 Said R. Shesheth: "The Mishna refers to a case, where the partition made
 for the upper balcony was joint property of both upper and lower." If
 the partition was made jointly, of what benefit would a partition made
@@ -668,17 +668,17 @@ vessels with water and then carry them to the sewer."
 
 ### Footnotes
 
-<span id="fn_52"></span>[200:1](eru12.htm#fr_52) One who remains in the
+<span id="fn_52"></span>[200:1](eru12.htm#fr_52.md) One who remains in the
 house of a leper the length of time required to eat half of such a loaf,
 renders his clothes unclean and must wash them (as explained in Tract
 Negayim).
 
-<span id="fn_53"></span>[200:2](eru12.htm#fr_53) One who eats a fourth
+<span id="fn_53"></span>[200:2](eru12.htm#fr_53.md) One who eats a fourth
 of such a loaf which has become unclean, renders himself unclean arid
 cannot partake of any consecrated thing until he has bathed (as will be
 explained in Tract Oholeth).
 
-<span id="fn_54"></span>[201:1](eru12.htm#fr_54) In order to explain
+<span id="fn_54"></span>[201:1](eru12.htm#fr_54.md) In order to explain
 this problem mathematically it must be borne in mind that a Kabh is
 equal to 2 Saah and a Pundian is equal to 1/4 Selah. Hence if 1/3 be
 allowed the dealer for baking the loaf, according to R, Johanan the loaf
@@ -687,19 +687,19 @@ Kabh, while, according to R. Simeon, a loaf is 2/3 of 1/3 of a Kabh or
 2/9. If 2/9 of a Kabh constitute sufficient for 2 meals, then 1 Kabh
 provides 9 meals, and according to R. Johanan 6.
 
-<span id="fn_55"></span>[204:1](eru12.htm#fr_55) At times the name Silas
+<span id="fn_55"></span>[204:1](eru12.htm#fr_55.md) At times the name Silas
 is also called Shila in the Talmud, and while the same person is meant,
 still we render it according to the manner in which it appears in the
 original.
 
-<span id="fn_56"></span>[205:1](eru12.htm#fr_56) A mina was at one time
+<span id="fn_56"></span>[205:1](eru12.htm#fr_56.md) A mina was at one time
 of the value of 100 Zuz, but later its value was increased to 60 Shekel
 or Sela, which is equal to 240 Zuz.
 
-<span id="fn_57"></span>[207:1](eru12.htm#fr_57) For explanation of Gud,
-see note to page [7](eru05.htm#page_7).
+<span id="fn_57"></span>[207:1](eru12.htm#fr_57.md) For explanation of Gud,
+see note to page [7](eru05.htm#page_7.md).
 
-<span id="fn_58"></span>[208:1](eru12.htm#fr_58) The term in the Mishna
+<span id="fn_58"></span>[208:1](eru12.htm#fr_58.md) The term in the Mishna
 which we render with "walls around the city" is "Ebal," and in a
 translation of the Mishna by De Sola and Raphall, Ebal is called the
 "town of Ebal." This seems to be inconsistent with the text, however, as
@@ -709,11 +709,11 @@ not be ten spans deep and four wide. Aside from this, the Mashbir of
 Schoenhak and the dictionary of Levy define the term Abuloh (Greek
 ἐυβολή), "walls around a town."
 
-<span id="fn_59"></span>[211:1](eru12.htm#fr_59) The explanation of this
+<span id="fn_59"></span>[211:1](eru12.htm#fr_59.md) The explanation of this
 paragraph of the Gemara is according to the commentary of Rabbena
 Hananel, as Rashi reverses the case from the lower balcony to the upper
 and presents an incomprehensible explanation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX: Combining of Roofs on Sabbath](eru13)
+[Next: Chapter IX: Combining of Roofs on Sabbath](eru13.md)

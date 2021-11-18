@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss24)  [Next](jss26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss24)  [Next](jss26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -244,20 +244,20 @@ and we shall see who is stronger, thou or I."
 
 <span id="img_23600"></span> <span align="CENTER"> [![GODS WHICH GUARD
 THE HOUSE FROM THE OUTSIDE&lt;br&gt; OLKHON ISLAND.](tn/23600.jpg)  
-Click to enlarge](img/23600.jpg)  
+Click to enlarge](img/23600.jpg.md)  
 GODS WHICH GUARD THE HOUSE FROM THE OUTSIDE  
 OLKHON ISLAND.  
 </span>
 
-*Page* [85](jss10.htm#page_85)
+*Page* [85](jss10.htm#page_85.md)
 
 <span id="img_23601"></span> <span align="CENTER"> [![BURIAT GODS, OR
 REPRESENTATIONS OF THEIR GODS OUTSIDE ONGONS.](tn/23601.jpg)  
-Click to enlarge](img/23601.jpg)  
+Click to enlarge](img/23601.jpg.md)  
 BURIAT GODS, OR REPRESENTATIONS OF THEIR GODS OUTSIDE ONGONS.  
 </span>
 
-*Page* [85](jss10.htm#page_85)
+*Page* [85](jss10.htm#page_85.md)
 
  
 
@@ -685,4 +685,4 @@ bride; but that is another story.
 
 ------------------------------------------------------------------------
 
-[Next: Yerente Khan and His Son Sokto](jss26)
+[Next: Yerente Khan and His Son Sokto](jss26.md)

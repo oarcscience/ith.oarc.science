@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc36)  [Next](crc38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc36)  [Next](crc38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -59,7 +59,7 @@ the hillside in the boundary of Ulster, though the men of Ireland were
 protecting you from me, they should not protect you.'
 
 Then his sword was brought to Fergus, and Ailill said: 'Take thy sword,'
-etc. <span id="fr_115"></span>[1](#fn_110)
+etc. <span id="fr_115"></span>[1](#fn_110.md)
 
 'A pity for thee to fall on the field of battle, thick \[with slain?\],'
 said Fergus to Ailill.
@@ -131,7 +131,7 @@ a wanton.'
 Conall Cernach.
 
 Fergus smote the hills then, so that he struck the three Maela <span
-id="fr_116"></span>[1](#fn_111) of Meath with his three blows.
+id="fr_116"></span>[1](#fn_111.md) of Meath with his three blows.
 Cuchulainn heard the blows then that Fergus gave on the hills or on the
 shield of Conchobar himself.
 
@@ -162,7 +162,7 @@ its two tyres, and he made for Fergus round about the battle.
 
 'Turn hither, O friend Fergus,' said Cuchulainn; and he did not answer
 till the third time. 'I swear by the god by whom the Ulstermen swear,'
-said he, 'I will wash thee as foam <span id="fr_117"></span>[1](#fn_112)
+said he, 'I will wash thee as foam <span id="fr_117"></span>[1](#fn_112.md)
 (?) is washed in a pool, I will go over thee as the tail goes over a
 cat, I will smite thee as a fond mother smites her son.'
 
@@ -201,7 +201,7 @@ Cuchulainn.
 Then he protected her, because he used not to slay women. He convoyed
 them westward, till they passed Ath Luain. Then he stopped. He struck
 three blows with his sword on the stone in Ath Luain. Their name is the
-Maelana <span id="fr_118"></span>[1](#fn_113) of Ath Luain.
+Maelana <span id="fr_118"></span>[1](#fn_113.md) of Ath Luain.
 
 When the battle was broken, then said Medb to Fergus: 'Faults and ———
 meet here to-day, O Fergus,' said she.
@@ -213,21 +213,21 @@ after a woman who has ill consulted their interest.'
 
 ### Footnotes
 
-<span id="fn_110"></span>[135:1](crc37.htm#fr_115) Rhetoric, twelve
+<span id="fn_110"></span>[135:1](crc37.htm#fr_115.md) Rhetoric, twelve
 lines.
 
-<span id="fn_111"></span>[137:1](crc37.htm#fr_116) *i.e.* flat-topped
+<span id="fn_111"></span>[137:1](crc37.htm#fr_116.md) *i.e.* flat-topped
 hills.
 
-<span id="fn_112"></span>[138:1](crc37.htm#fr_117) Reading with LL.
+<span id="fn_112"></span>[138:1](crc37.htm#fr_117.md) Reading with LL.
 
-<span id="fn_113"></span>[139:1](crc37.htm#fr_118) See note on [p.
-137](#page_137).
+<span id="fn_113"></span>[139:1](crc37.htm#fr_118.md) See note on [p.
+137](#page_137.md).
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Meeting of the Bulls](crc38)
+[Next: The Meeting of the Bulls](crc38.md)
 
 </div>

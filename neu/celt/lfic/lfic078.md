@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic077)  [Next](lfic079) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic077)  [Next](lfic079.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ Where many a grave shall be."
 
 ------------------------------------------------------------------------
 
-[Next: The Building of Ardfert Cathredral](lfic079)
+[Next: The Building of Ardfert Cathredral](lfic079.md)

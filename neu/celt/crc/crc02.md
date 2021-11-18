@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc01)  [Next](crc03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc01)  [Next](crc03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 ### INTRODUCTION
 
 <span class="smallcaps">The</span> Cattle-Raid of Cualnge <span
-id="fr_0"></span>[1](#fn_0) is the chief story belonging to the heroic
+id="fr_0"></span>[1](#fn_0.md) is the chief story belonging to the heroic
 cycle of Ulster, which had its centre in the deeds of the Ulster king,
 Conchobar Mac Nessa, and his nephew and chief warrior, Cuchulainn Mac
 Sualtaim. Tradition places their date at the beginning of the Christian
@@ -37,7 +37,7 @@ introduction to the *Tain*, and from the other tales belonging to the
 Ulster cycle.
 
 It is elsewhere narrated that the Dun Bull of Cualnge, for whose sake
-Ailill and Medb, <span id="fr_1"></span>[2](#fn_1) the king and queen of
+Ailill and Medb, <span id="fr_1"></span>[2](#fn_1.md) the king and queen of
 Connaught, undertook this expedition, was one of two bulls in whom two
 rival swineherds, belonging to the supernatural race known as the people
 of the *Sid*, or fairy-mounds, were re-incarnated, after passing through
@@ -79,7 +79,7 @@ protection of Fergus, as told in the *Exile of the*
 <span id="page_xi">p. xi</span>
 
 <span class="contnote">\[paragraph continues\]</span> *Sons of
-Uisnech*. <span id="fr_2"></span>[1](#fn_2) The Ulster mischief-maker,
+Uisnech*. <span id="fr_2"></span>[1](#fn_2.md) The Ulster mischief-maker,
 Bricriu of the Poison-tongue, was also with the Connaught army. Though
 fighting for Connaught, the exiles have a friendly feeling for their
 former comrades, and a keen jealousy for the credit of Ulster. There is
@@ -474,11 +474,11 @@ obscure words.
 
 ### Footnotes
 
-<span id="fn_0"></span>[ix:1](crc02.htm#fr_0) Pronounce *Cooley*.
+<span id="fn_0"></span>[ix:1](crc02.htm#fr_0.md) Pronounce *Cooley*.
 
-<span id="fn_1"></span>[ix:2](crc02.htm#fr_1) Pronounce *Maive*.
+<span id="fn_1"></span>[ix:2](crc02.htm#fr_1.md) Pronounce *Maive*.
 
-<span id="fn_2"></span>[xi:1](crc02.htm#fr_2) Text in Windisch and
+<span id="fn_2"></span>[xi:1](crc02.htm#fr_2.md) Text in Windisch and
 Stokes's *Irische Texte;* English translation in Miss Hull's *Cuchullin
 Saga*.
 
@@ -486,6 +486,6 @@ Saga*.
 
 ------------------------------------------------------------------------
 
-[Next: The Cattle-Raid of Cualnge](crc03)
+[Next: The Cattle-Raid of Cualnge](crc03.md)
 
 </div>

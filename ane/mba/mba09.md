@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba08)  [Next](mba10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba08)  [Next](mba10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -216,14 +216,14 @@ the water of life and under control of the moon.
 The body moisture of gods and demons had vitalizing properties. When the
 Indian creator, Prajâpati, wept at the beginning, "that (the tears)
 which fell into the water became the air. That which he wiped away,
-upwards, became the sky." <span id="fr_49"></span>[1](#fn_49) The
+upwards, became the sky." <span id="fr_49"></span>[1](#fn_49.md) The
 ancient Egyptians believed that all men were born from the eyes of Horus
 except negroes, who came from other parts of his body. <span
-id="fr_50"></span>[2](#fn_50) The creative tears of Ra, the sun god,
+id="fr_50"></span>[2](#fn_50.md) The creative tears of Ra, the sun god,
 fell as shining rays upon the earth. When this god grew old saliva
 dripped from his mouth, and Isis mixed the vitalizing moisture with
 dust, and thus made the serpent which bit and paralysed the great solar
-deity. <span id="fr_51"></span>[3](#fn_51)
+deity. <span id="fr_51"></span>[3](#fn_51.md)
 
 Other Egyptian deities, including Osiris and Isis, wept creative tears.
 Those which fell from the eyes of the evil gods produced poisonous
@@ -260,7 +260,7 @@ When the Eye of Ra was blinded by Set, Thoth spat in it to restore
 vision. The sun god Turn, who was linked with Ra as Ra-Tum, spat on the
 ground, and his saliva became the gods Shu and Tefnut. In the Underworld
 the devil serpent Apep was spat upon to curse it, as was also its waxen
-image which the priests fashioned. <span id="fr_52"></span>[1](#fn_52)
+image which the priests fashioned. <span id="fr_52"></span>[1](#fn_52.md)
 
 Several African tribes spit to make compacts, declare friendship, and to
 curse.
@@ -287,7 +287,7 @@ Brand, who refers to various spitting customs, quotes Scot's *Discovery
 of Witchcraft* regarding the saliva cure for king's evil, which is
 still, by the way, practised in the Hebrides. Like Pliny, Scot
 recommended ceremonial spitting as a charm against witchcraft. <span
-id="fr_53"></span>[1](#fn_53) In China spitting to expel demons is a
+id="fr_53"></span>[1](#fn_53.md) In China spitting to expel demons is a
 common practice. We still call a hasty person a "spitfire", and a
 calumniator a "spit-poison".
 
@@ -313,7 +313,7 @@ Of Thammuz yearly wounded.--*Paradise Lost*, i, 450.</span>
 which the swollen river derived from the soil at a certain season was
 ascribed to the blood of the god, who received his death wound in
 Lebanon at that time of the year, and lay buried beside the sacred
-source." <span id="fr_54"></span>[1](#fn_54)
+source." <span id="fr_54"></span>[1](#fn_54.md)
 
 In Babylonia the river was regarded as the source of the life blood and
 the seat of the soul. No doubt this theory was based on the fact that
@@ -327,13 +327,13 @@ Inspiration was derived by drinking blood as well as by drinking
 intoxicating liquors--the mead of the gods. Indian magicians who drink
 the blood of the goat sacrificed to the goddess Kali, are believed to be
 temporarily possessed by her spirit, and thus enabled to prophesy. <span
-id="fr_55"></span>[2](#fn_55) Malayan exorcists still expel demons while
+id="fr_55"></span>[2](#fn_55.md) Malayan exorcists still expel demons while
 they suck the blood from a decapitated fowl. <span
-id="fr_56"></span>[3](#fn_56)
+id="fr_56"></span>[3](#fn_56.md)
 
 Similar customs were prevalent in Ancient Greece. A woman who drank the
 blood of a sacrificed lamb or bull uttered prophetic sayings. <span
-id="fr_57"></span>[4](#fn_57)
+id="fr_57"></span>[4](#fn_57.md)
 
 But while most Babylonians appear to have believed that the life
 principle was in blood, some were apparently of opinion that it was in
@@ -357,13 +357,13 @@ To demand payment of rites and the pouring out of libations
   They have come forth from the grave;  
 All that is evil in their hosts, like a whirlwind,  
   Hath come forth from the grave. <span
-id="fr_58"></span>[1](#fn_58)</span>
+id="fr_58"></span>[1](#fn_58.md)</span>
 
 </div>
 
 The Hebrew "nephesh ruach" and "neshamah" (in Arabic "ruh" and "nefs")
 pass from meaning "breath" to "spirit" <span
-id="fr_59"></span>[2](#fn_59) In Egypt the god Khnumu was "Kneph" in his
+id="fr_59"></span>[2](#fn_59.md) In Egypt the god Khnumu was "Kneph" in his
 character as an atmospheric deity. The ascendancy of storm and wind gods
 in some Babylonian cities may have been due to the belief that they were
 the source of the "air of life". It is possible that this conception was
@@ -391,12 +391,12 @@ purposes. It destroyed demons, and put to flight the spirits of disease.
 Possibly the fire-purification ceremonies resembled those which were
 practised by the Canaanites, and are referred to in the Bible. Ahaz
 "made his son to pass through the fire, according to the abominations of
-the heathen". <span id="fr_60"></span>[1](#fn_60) Ezekiel declared that
+the heathen". <span id="fr_60"></span>[1](#fn_60.md) Ezekiel declared that
 "when ye offer your gifts, when ye make your sons to pass through the
 fire, ye pollute yourselves with all your idols". <span
-id="fr_61"></span>[2](#fn_61) In *Leviticus* it is laid down: "Thou
+id="fr_61"></span>[2](#fn_61.md) In *Leviticus* it is laid down: "Thou
 shalt not let any of thy seed pass through the fire to Moloch". <span
-id="fr_62"></span>[3](#fn_62) It may be that in Babylonia the
+id="fr_62"></span>[3](#fn_62.md) It may be that in Babylonia the
 fire-cleansing ceremony resembled that which obtained at Beltane (May
 Day) in Scotland, Germany, and other countries. Human sacrifices might
 also have been offered up as burnt offerings. Abraham, who came from the
@@ -419,7 +419,7 @@ MOON GOD.&lt;br&gt; Cylinder-Seal of Khashkhamer, Patesi of Ishkun-Sin
 (in North Babylonia), and vassal of Ur-Engur, King of Ur.
 (&lt;i&gt;c&lt;/i&gt;. 2400 B.C.)&lt;br&gt; Photo.
 Mansell.](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)  
+Click to enlarge](img/05000.jpg.md)  
 WORSHIP OF THE MOON GOD.  
 Cylinder-Seal of Khashkhamer, Patesi of Ishkun-Sin (in North Babylonia),
 and vassal of Ur-Engur, King of Ur. (*c*. 2400 B.C.)  
@@ -433,14 +433,14 @@ Photo. Mansell.
 burned constantly; it was "bound and confined", but could not be
 extinguished. Fed by water, this fire, it was believed, would burst
 forth at the last day and consume the universe. <span
-id="fr_63"></span>[1](#fn_63) A similar belief can be traced in Teutonic
+id="fr_63"></span>[1](#fn_63.md) A similar belief can be traced in Teutonic
 mythology. The Babylonian incantation cult appealed to many gods, but
 "the most important share in the rites", says Jastrow, "are taken by
 fire and water--suggesting, therefore, that the god of water--more
 particularly Ea--and the god of fire . . . are the chief deities on
 which the ritual itself hinges". In some temples there was a *bit
 rimki*, a "house of washing", and a *bit nuri*, a "house of
-light". <span id="fr_64"></span>[2](#fn_64)
+light". <span id="fr_64"></span>[2](#fn_64.md)
 
 It is possible, of course, that fire was regarded as the vital principle
 by some city cults, which were influenced by imported ideas. If so, the
@@ -479,7 +479,7 @@ moon god was believed to be the father of the sun god: he was the "great
 steer with mighty horns and perfect limbs".
 
 His name Sin is believed to be a corruption of "Zu-ena", which signifies
-"knowledge lord". <span id="fr_65"></span>[1](#fn_65) Like the lunar
+"knowledge lord". <span id="fr_65"></span>[1](#fn_65.md) Like the lunar
 Osiris of Egypt, he was apparently an instructor of mankind; the moon
 measured time and controlled the seasons; seeds were sown at a certain
 phase of the moon, and crops were ripened by the harvest moon. The
@@ -507,7 +507,7 @@ spring sun was personified as Tammuz, the youthful shepherd, who was
 loved by the earth goddess Ishtar and her rival Eresh-ki-gal, goddess of
 death, the Babylonian Persephone. During the winter Tammuz dwelt in
 Hades, and at the beginning of spring Ishtar descended to search for him
-among the shades. <span id="fr_66"></span>[1](#fn_66) But the burning
+among the shades. <span id="fr_66"></span>[1](#fn_66.md) But the burning
 summer sun was symbolized as a destroyer, a slayer of men, and therefore
 a war god. As Ninip or Nirig, the son of Enlil, who was made in the
 likeness of Anu, he waged war against the earth spirits, and was
@@ -543,7 +543,7 @@ could be concealed from Shamash. One of his names was Mitra, like the
 god who was linked with Varuna in the Indian *Rigveda*. These twin
 deities, Mitra and Varuna, measured out the span of human life. They
 were the source of all heavenly gifts: they regulated sun and moon, the
-winds and waters, and the seasons. <span id="fr_67"></span>[1](#fn_67)
+winds and waters, and the seasons. <span id="fr_67"></span>[1](#fn_67.md)
 
 <span class="small">These did the gods establish in royal power over
 themselves, because they were wise and the children of wisdom, and
@@ -554,21 +554,21 @@ Mitra and Varuna were protectors of hearth and home, and they chastised
 sinners. "In a striking passage of the *Mahàbhàrata*," says Professor
 Moulton, "one in which Indian thought comes nearest to the conception of
 conscience, a kingly wrongdoer is reminded that the sun sees secret
-sin." <span id="fr_68"></span>[2](#fn_68)
+sin." <span id="fr_68"></span>[2](#fn_68.md)
 
 In Persian mythology Mitra, as Mithra, is the patron
 
 <span id="page_55">p. 55</span>
 
 of Truth, and "the Mediator" between heaven and earth. <span
-id="fr_69"></span>[1](#fn_69) This god was also worshipped by the
+id="fr_69"></span>[1](#fn_69.md) This god was also worshipped by the
 military aristocracy of Mitanni, which held sway for a period over
 Assyria. In Roman times the worship of Mithra spread into Europe from
 Persia. Mithraic sculptures depict the deity as a corn god slaying the
 harvest bull; on one of the monuments "cornstalks instead of blood are
 seen issuing from the wound inflicted with the knife". <span
-id="fr_70"></span>[2](#fn_70) The Assyrian word "metru" signifies
-rain. <span id="fr_71"></span>[1](#fn_69) As a sky god Mitra may have
+id="fr_70"></span>[2](#fn_70.md) The Assyrian word "metru" signifies
+rain. <span id="fr_71"></span>[1](#fn_69.md) As a sky god Mitra may have
 been associated, like Varuna, with the waters above the firmament. Rain
 would therefore be gifted by him as a fertilizing deity. In the
 Babylonian Flood legend it is the sun god Shamash who "appointed the
@@ -599,7 +599,7 @@ the impress of Babylonian religious thought:
 Whate'er exists within this earth, and all within the sky,  
 Yea, all that is beyond, King Varuna perceives. . . .  
                                             *Rigveda*, iv, 16. <span
-id="fr_72"></span>[1](#fn_71)
+id="fr_72"></span>[1](#fn_71.md)
 
 </div>
 
@@ -610,7 +610,7 @@ That we as men commit against the heavenly folk,
 When through our want of thought we violate thy laws,  
 Chastise us not, O god, for that iniquity.  
                                                                  *Rigveda*,
-vii, 89. <span id="fr_73"></span>[2](#fn_72)</span>
+vii, 89. <span id="fr_73"></span>[2](#fn_72.md)</span>
 
 </div>
 
@@ -627,7 +627,7 @@ rejectest.
 All, whoever they be, are in thy care. . . .  
 He who takes no bribe, who cares for the oppressed,  
 Is favoured by Shamash,--his life shall be prolonged. <span
-id="fr_74"></span>[3](#fn_73)</span>
+id="fr_74"></span>[3](#fn_73.md)</span>
 
 </div>
 
@@ -636,7 +636,7 @@ dead like those who exalted the rival fire god Agni. The grave was the
 "house of clay", as in Babylonia. Mitra, who was identical with Yama,
 ruled over departed souls in the "Land of the Pitris" (Fathers), which
 was reached by crossing the mountains and the rushing stream of
-death. <span id="fr_75"></span>[4](#fn_74) As we have seen, the
+death. <span id="fr_75"></span>[4](#fn_74.md) As we have seen, the
 Babylonian solar god Nergal was also the lord of the dead.
 
 As Ma-banda-anna, "the boat of the sky", Shamash links with the Egyptian
@@ -660,7 +660,7 @@ was similarly the goddess of maternity, and is depicted in this
 character, like Isis and other goddesses of similar character, suckling
 a babe. Another Babylonian lady of the gods was Ama, Mama, or Mami, "the
 creatress of the seed of mankind", and was "probably so called as the
-'mother' of all things". <span id="fr_76"></span>[1](#fn_75)
+'mother' of all things". <span id="fr_76"></span>[1](#fn_75.md)
 
 A characteristic atmospheric deity was Ramman, the Rimmon of the Bible,
 the Semitic Addu, Adad, Hadad, or Dadu. He was not a presiding deity in
@@ -691,7 +691,7 @@ department is that of calamities and punishments have harsher titles: to
 the first class both private persons and states erect altars and
 temples; the second is not worshipped either with prayers or burnt
 sacrifices, but in their case we perform ceremonies of riddance". <span
-id="fr_77"></span>[1](#fn_76)
+id="fr_77"></span>[1](#fn_76.md)
 
 The Sumerians, like the Ancient Egyptians, developed their deities, who
 reflected the growth of culture, from vague spirit groups, which, like
@@ -705,87 +705,87 @@ passing the demons and evil spirits under review.
 
 ### Footnotes
 
-<span id="fn_49"></span>[45:1](mba09.htm#fr_49) *Indian Myth and
+<span id="fn_49"></span>[45:1](mba09.htm#fr_49.md) *Indian Myth and
 Legend*, p. 100.
 
-<span id="fn_50"></span>[45:2](mba09.htm#fr_50) Maspero's *Dawn of
+<span id="fn_50"></span>[45:2](mba09.htm#fr_50.md) Maspero's *Dawn of
 Civilization*, p. 156 *et seq*.
 
-<span id="fn_51"></span>[45:3](mba09.htm#fr_51) *Egyptian Myth and
+<span id="fn_51"></span>[45:3](mba09.htm#fr_51.md) *Egyptian Myth and
 Legend*, p. 1 *et seq*. The saliva of the frail and elderly was
 injurious.
 
-<span id="fn_52"></span>[46:1](mba09.htm#fr_52) *Osiris and the Egyptian
+<span id="fn_52"></span>[46:1](mba09.htm#fr_52.md) *Osiris and the Egyptian
 Resurrection*, E. Wallis Budge, vol. ii, p. 203 *et seq*.
 
-<span id="fn_53"></span>[47:1](mba09.htm#fr_53) Brana's *Popular
+<span id="fn_53"></span>[47:1](mba09.htm#fr_53.md) Brana's *Popular
 Antiquities*, vol. iii, pp. 259-263 (1889 ed.).
 
-<span id="fn_54"></span>[48:1](mba09.htm#fr_54) *The Religion of the
+<span id="fn_54"></span>[48:1](mba09.htm#fr_54.md) *The Religion of the
 Semites*, pp. 158, 159.
 
-<span id="fn_55"></span>[48:2](mba09.htm#fr_55) *Castes and Tribes of
+<span id="fn_55"></span>[48:2](mba09.htm#fr_55.md) *Castes and Tribes of
 Southern India*, E. Thurston, iv, 187.
 
-<span id="fn_56"></span>[48:3](mba09.htm#fr_56) *Omens and Superstitions
+<span id="fn_56"></span>[48:3](mba09.htm#fr_56.md) *Omens and Superstitions
 of Southern India*, E. Thurston (1912), pp. 245, 246.
 
-<span id="fn_57"></span>[48:4](mba09.htm#fr_57) Pausanias, 24, 1.
+<span id="fn_57"></span>[48:4](mba09.htm#fr_57.md) Pausanias, 24, 1.
 
-<span id="fn_58"></span>[49:1](mba09.htm#fr_58) *Devils and Evil Spirits
+<span id="fn_58"></span>[49:1](mba09.htm#fr_58.md) *Devils and Evil Spirits
 of Babylonia*, R. C. Thompson, vol. ii, tablet *Y*.
 
-<span id="fn_59"></span>[49:2](mba09.htm#fr_59) *Animism*, E. Clodd, p.
+<span id="fn_59"></span>[49:2](mba09.htm#fr_59.md) *Animism*, E. Clodd, p.
 37.
 
-<span id="fn_60"></span>[50:1](mba09.htm#fr_60) *2 Kings*, xvi, 3.
+<span id="fn_60"></span>[50:1](mba09.htm#fr_60.md) *2 Kings*, xvi, 3.
 
-<span id="fn_61"></span>[50:2](mba09.htm#fr_61) *Ezekiel*, xx, 31.
+<span id="fn_61"></span>[50:2](mba09.htm#fr_61.md) *Ezekiel*, xx, 31.
 
-<span id="fn_62"></span>[50:3](mba09.htm#fr_62) *Leviticus*, xviii, 21.
+<span id="fn_62"></span>[50:3](mba09.htm#fr_62.md) *Leviticus*, xviii, 21.
 
-<span id="fn_63"></span>[51:1](mba09.htm#fr_63) *Indian Myth and
+<span id="fn_63"></span>[51:1](mba09.htm#fr_63.md) *Indian Myth and
 Legend*, p. 65.
 
-<span id="fn_64"></span>[51:2](mba09.htm#fr_64) *Religious Belief in
+<span id="fn_64"></span>[51:2](mba09.htm#fr_64.md) *Religious Belief in
 Babylonia and Assyria*, M. .Jastrow, pp. 312, 313.
 
-<span id="fn_65"></span>[52:1](mba09.htm#fr_65) *The Religion of
+<span id="fn_65"></span>[52:1](mba09.htm#fr_65.md) *The Religion of
 Babylonia and Assyria*, T. G. Pinches, p. 81.
 
-<span id="fn_66"></span>[53:1](mba09.htm#fr_66) In early times two
+<span id="fn_66"></span>[53:1](mba09.htm#fr_66.md) In early times two
 goddesses searched for Tammuz at different periods.
 
-<span id="fn_67"></span>[54:1](mba09.htm#fr_67) *Indian Myth and
+<span id="fn_67"></span>[54:1](mba09.htm#fr_67.md) *Indian Myth and
 Legend*, p. 30.
 
-<span id="fn_68"></span>[54:2](mba09.htm#fr_68) *Early Religious Poetry
+<span id="fn_68"></span>[54:2](mba09.htm#fr_68.md) *Early Religious Poetry
 of Persia*, p. 35.
 
-<span id="fn_69"></span>[55:1](mba09.htm#fr_71) *Early Religious Poetry
+<span id="fn_69"></span>[55:1](mba09.htm#fr_71.md) *Early Religious Poetry
 of Persia*, p. 37.
 
-<span id="fn_70"></span>[55:2](mba09.htm#fr_70) *The Golden Bough*
+<span id="fn_70"></span>[55:2](mba09.htm#fr_70.md) *The Golden Bough*
 (Spirits of the Corn and Wild, vol. ii, p. 10), 3rd edition.
 
-<span id="fn_71"></span>[56:1](mba09.htm#fr_72) *Indian Wisdom*, Sir
+<span id="fn_71"></span>[56:1](mba09.htm#fr_72.md) *Indian Wisdom*, Sir
 Monier Monier-Williams.
 
-<span id="fn_72"></span>[56:2](mba09.htm#fr_73) *A History of Sanskrit
+<span id="fn_72"></span>[56:2](mba09.htm#fr_73.md) *A History of Sanskrit
 Literature*, Professor Macdonell.
 
-<span id="fn_73"></span>[56:3](mba09.htm#fr_74) *Religious Belief and
+<span id="fn_73"></span>[56:3](mba09.htm#fr_74.md) *Religious Belief and
 Practice in Babylonia and Assyria*, M. Jastrow, pp. 112.
 
-<span id="fn_74"></span>[56:4](mba09.htm#fr_75) *Indian Myth and
+<span id="fn_74"></span>[56:4](mba09.htm#fr_75.md) *Indian Myth and
 Legend*, pp. xxxii, and 38 *et seq*.
 
-<span id="fn_75"></span>[57:1](mba09.htm#fr_76) *The Religion of
+<span id="fn_75"></span>[57:1](mba09.htm#fr_76.md) *The Religion of
 Babylonia and Assyria*, T. G. Pinches, p. 94.
 
-<span id="fn_76"></span>[58:1](mba09.htm#fr_77) *The Religion of Ancient
+<span id="fn_76"></span>[58:1](mba09.htm#fr_77.md) *The Religion of Ancient
 Greece*, J. E. Harrison, p. 46, and Isoc. *Orat*., v, 117.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Demons, Fairies, and Ghosts](mba10)
+[Next: Chapter IV. Demons, Fairies, and Ghosts](mba10.md)

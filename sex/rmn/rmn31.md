@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn30)  [Next](rmn32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn30)  [Next](rmn32.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ Minerva:
 Cassandra, dragg'd by her dishevell'd hair;  
 Whom not Minerva's shrine, nor sacred bands,  
 In safety could protect from sacrilegious hands." <span
-id="fr_34"></span>[1](#fn_34)
+id="fr_34"></span>[1](#fn_34.md)
 
 This supposition does not seem probable; for the rape of the priestess,
 the daughter of Priam, often exercised the talent of the artists of
@@ -84,8 +84,8 @@ science which is neither error nor truth.
 
 ### Footnotes
 
-<span id="fn_34"></span>[60:1](rmn31.htm#fr_34) VIRG., Æn. II.
+<span id="fn_34"></span>[60:1](rmn31.htm#fr_34.md) VIRG., Æn. II.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXXI: The Flight of Aeneas](rmn32)
+[Next: Plate XXXI: The Flight of Aeneas](rmn32.md)

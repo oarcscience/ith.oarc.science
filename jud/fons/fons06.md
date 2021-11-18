@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](fons05)  [Next](fons07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](fons05)  [Next](fons07.md) 
 
 ------------------------------------------------------------------------
 
@@ -670,4 +670,4 @@ of the simple substances. Begin then this demonstration.
 
 ------------------------------------------------------------------------
 
-[Next: Part VI](fons07)
+[Next: Part VI](fons07.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic06)  [Next](tic08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic06)  [Next](tic08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ love*.
 1\. Now let us consider which are the souls that enter the second
 mansions, and what they do there: I do not wish to enlarge on this
 subject, having already treated it very fully elsewhere, <span
-id="fr_63"></span>[1](#fn_63) for I could not avoid repeating myself, as
+id="fr_63"></span>[1](#fn_63.md) for I could not avoid repeating myself, as
 my memory is very bad. If I could state my ideas in another form they
 would not weary you, for we never tire of reading books on this subject,
 numerous as they are.
@@ -119,7 +119,7 @@ Memory reminds the soul how all earthly joys end, recalling the death of
 those who lived at ease; how some died suddenly and were soon forgotten,
 how others, once so prosperous, are now buried beneath the ground and
 men pass by the graves where they lie, the prey of worms, <span
-id="fr_64"></span>[2](#fn_64) while the mind recalls many other such
+id="fr_64"></span>[2](#fn_64.md) while the mind recalls many other such
 incidents.
 
 9\. The will inclines to love Our Lord and longs to make some return to
@@ -141,7 +141,7 @@ abroad, its own being full of riches that it can enjoy at will. Besides,
 it is not every one who, like itself, possesses all he needs within his
 own dwelling, and above all, such a Host, Who will give it all it can
 desire, unless, like the prodigal son, it chooses to go astray and feed
-with the swine. <span id="fr_65"></span>[3](#fn_65) Surely these
+with the swine. <span id="fr_65"></span>[3](#fn_65.md) Surely these
 arguments are strong enough to defeat the devil's wiles! But, O my God,
 how the force of worldly habits and the example of others who practise
 them ruin everything! Our faith is so dead that we trust less to its
@@ -165,7 +165,7 @@ begun! Enlighten it to see that its welfare consists in perseverance in
 the right way, and in the withdrawing from bad company.
 
 12\. It is of the utmost importance for the beginner to associate with
-those who lead a spiritual life, <span id="fr_66"></span>[4](#fn_66) and
+those who lead a spiritual life, <span id="fr_66"></span>[4](#fn_66.md) and
 not only with those in the same mansion as herself, but with others who
 have travelled farther into the castle, who will aid her greatly and
 draw her to join them. The soul should firmly resolve never to submit to
@@ -175,37 +175,37 @@ mansion, he will the sooner leave it alone.
 
 13\. Let the Christian be valiant; let him not be like those who lay
 down to drink from the brook when they went to battle (I do not remember
-when). <span id="fr_67"></span>[5](#fn_67) Let him resolve to go forth
+when). <span id="fr_67"></span>[5](#fn_67.md) Let him resolve to go forth
 to combat with the host of demons, and be convinced that there is no
 better weapon than the cross. I have already said, <span
-id="fr_68"></span>[6](#fn_68) yet it is of such importance that I repeat
+id="fr_68"></span>[6](#fn_68.md) yet it is of such importance that I repeat
 it here: let no one think on starting of the reward to be reaped: this
 would be a very ignoble way of commencing such a large and stately
 building. If built on sand it would soon fall down. <span
-id="fr_69"></span>[7](#fn_69) Souls
+id="fr_69"></span>[7](#fn_69.md) Souls
 
 <span id="page_65">p. 65</span>
 
 who acted thus would continually suffer from discouragement and
 temptations, for in these mansions no manna rains; <span
-id="fr_70"></span>[8](#fn_70) farther on, the soul is pleased with all
+id="fr_70"></span>[8](#fn_70.md) farther on, the soul is pleased with all
 that comes, because it desires nothing but what God wills.
 
 14\. What a farce it is! Here are we, with a thousand obstacles,
 drawbacks, and imperfections within ourselves, our virtues so newly born
 that they have scarcely the strength to act (and God grant that they
 exist at all!) yet we are not ashamed to expect sweetness in prayer and
-to complain of feeling dryness. <span id="fr_71"></span>[9](#fn_71)
+to complain of feeling dryness. <span id="fr_71"></span>[9](#fn_71.md)
 
 15\. Do not act thus, sisters; embrace the cross your Spouse bore on His
 shoulders; know that your motto should be: 'Most happy she who suffers
-most if it be for Christ!' <span id="fr_72"></span>[10](#fn_72) All else
+most if it be for Christ!' <span id="fr_72"></span>[10](#fn_72.md) All else
 should be looked upon as secondary: if our Lord give it you, render Him
 grateful thanks. You may imagine you would be resolute in enduring
 external trials if God gave you interior consolations: His Majesty knows
 best what is good for us; it is not for us to advise Him how to treat
 us, for He has the right to tell us that we know not what we ask. <span
-id="fr_73"></span>[11](#fn_73) Remember, it is of the greatest
+id="fr_73"></span>[11](#fn_73.md) Remember, it is of the greatest
 importance--the sole aim of one beginning to practise prayer should be
 to endure trials, and to resolve and strive to the utmost of her power
 to conform her own will to the will of
@@ -213,7 +213,7 @@ to conform her own will to the will of
 <span id="page_66">p. 66</span>
 
 <span class="contnote">\[paragraph continues\]</span> God. <span
-id="fr_74"></span>[12](#fn_74) Be certain that in this consists all the
+id="fr_74"></span>[12](#fn_74.md) Be certain that in this consists all the
 greatest perfection to be attained in the spiritual life, as I will
 explain later. She who practises this most perfectly will receive from
 God the highest reward and is the farthest advanced on the right road.
@@ -232,7 +232,7 @@ offending Him. Therefore if you occasionally lapse into sin, do not lose
 heart and cease trying to advance, for God will draw good even out of
 our falls, like the merchant who sells theriac, who first takes poison,
 then the theriac, to prove the power of his elixir. <span
-id="fr_75"></span>[13](#fn_75) This combat would suffice to teach us to
+id="fr_75"></span>[13](#fn_75.md) This combat would suffice to teach us to
 amend our habits if we realized our failings in no other way, and would
 show us the injury we receive from a life of dissipation. Can any evil
 be greater than that we find at home? What peace can we hope to find
@@ -245,7 +245,7 @@ powers of our soul, which, whether we will or no, must ever bear us
 company? These seem to wage war on us as if they knew the harm our vices
 had wrought them. 'Peace, peace be unto you,' my sisters, as our Lord
 said, and many a time proclaimed to His Apostles. <span
-id="fr_76"></span>[14](#fn_76) Believe me, if we neither possess nor
+id="fr_76"></span>[14](#fn_76.md) Believe me, if we neither possess nor
 strive to obtain this peace at home, we shall never find it abroad.
 
 17\. By the blood which our Lord shed for us, I implore those who have
@@ -261,11 +261,11 @@ this life, they will enjoy a far greater happiness than they are able
 even to desire.
 
 18\. As I said at the beginning of this work, I have explained
-elsewhere <span id="fr_77"></span>[15](#fn_77) how you should behave
+elsewhere <span id="fr_77"></span>[15](#fn_77.md) how you should behave
 when the devil thus disturbs you. I also told you that the habit of
 recollection is not to be gained by force of arms, but with calmness,
 which will enable you to practise it for a longer space of time. <span
-id="fr_78"></span>[16](#fn_78)
+id="fr_78"></span>[16](#fn_78.md)
 
 <span id="page_68">p. 68</span>
 
@@ -275,7 +275,7 @@ beginners to consult persons experienced in such matters, lest you
 imagine that you are injuring yourselves by leaving your prayer to
 perform any necessary duties. This is not the case; our Lord will direct
 such things to our profit, although we may have no one to counsel
-us. <span id="fr_79"></span>[17](#fn_79) The only remedy for having
+us. <span id="fr_79"></span>[17](#fn_79.md) The only remedy for having
 given up a habit of recollection is to recommence it, otherwise the soul
 will continue to lose it more and more every day, and God grant it may
 realize its danger.
@@ -283,15 +283,15 @@ realize its danger.
 19\. You may think, that if it is so very injurious to desist, it would
 have been better never to have begun, and to have remained outside the
 castle. But, as I began by saying, and as God Himself declares: 'He that
-loves danger shall perish by it,' <span id="fr_80"></span>[18](#fn_80)
+loves danger shall perish by it,' <span id="fr_80"></span>[18](#fn_80.md)
 and the door by which we must enter this castle is prayer. Remember, we
 *must* get to heaven, and it would be madness to think we could do so
 without sometimes retiring into our souls so as to know ourselves, or
 thinking of our failings and of what we owe to God, or frequently
 imploring His mercy. Our Lord also says, 'No man cometh to the Father
-but by Me' <span id="fr_81"></span>[19](#fn_81) (I am not sure whether
+but by Me' <span id="fr_81"></span>[19](#fn_81.md) (I am not sure whether
 this quotation is correct, but I think so), and, 'He that seeth Me seeth
-the Father also.' <span id="fr_82"></span>[20](#fn_82)
+the Father also.' <span id="fr_82"></span>[20](#fn_82.md)
 
 20\. If we never look up at Him and reflect on what we owe Him for
 having died for us, I do not understand how we can know Him, or perform
@@ -303,18 +303,18 @@ and what are they worth if they are not united to the merits of Jesus
 Christ, our only good? What would incite us to love our Lord unless we
 thought of Him? May He give us grace to understand how much we cost Him;
 that 'the servant is not above his lord' <span
-id="fr_83"></span>[21](#fn_83); that we must toil for Him if we would
+id="fr_83"></span>[21](#fn_83.md); that we must toil for Him if we would
 enjoy His glory; and prayer is a necessity to prevent us from constantly
-falling into temptation. <span id="fr_84"></span>[22](#fn_84)
+falling into temptation. <span id="fr_84"></span>[22](#fn_84.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_63"></span>[59:1](tic07.htm#fr_63) *Life*, ch. xi-xiii.
+<span id="fn_63"></span>[59:1](tic07.htm#fr_63.md) *Life*, ch. xi-xiii.
 *Way of Perf.* ch. xx.-xxix.
 
-<span id="fn_64"></span>[62:2](tic07.htm#fr_64) 'How many, thinking to
+<span id="fn_64"></span>[62:2](tic07.htm#fr_64.md) 'How many, thinking to
 live long, have been deceived and unexpectedly have been snatched away!
 How often hast thou heard that such a one was slain by the sword;
 another drowned; another, falling from on high, broke his neck; this man
@@ -325,67 +325,67 @@ shadow' (*Imitation*, bk. 1. ch. xxiii. 7). The edition of the
 was translated by Luis de Granada, printed at Seville in 1536, at Lisbon
 in 1542, and at Alcalá in 1548. See *Life*, ch. xxxix. 21, note.
 
-<span id="fn_65"></span>[63:3](tic07.htm#fr_65) St. Luke xv. 16: 'Et
+<span id="fn_65"></span>[63:3](tic07.htm#fr_65.md) St. Luke xv. 16: 'Et
 cupiebat implere ventrem suum de siliquis quas porci manducabant.'
 
-<span id="fn_66"></span>[64:4](tic07.htm#fr_66) *Life*, ch. vii. 33-37;
+<span id="fn_66"></span>[64:4](tic07.htm#fr_66.md) *Life*, ch. vii. 33-37;
 xvi. 1 2; XXX. 6. *Way of Perfection*, ch. vi. 1; Vii. 4.
 
-<span id="fn_67"></span>[64:5](tic07.htm#fr_67) With Gedeon. Jud. vii.
+<span id="fn_67"></span>[64:5](tic07.htm#fr_67.md) With Gedeon. Jud. vii.
 5: 'Qui lingua lambuerint aquas, sicut solent canes lambere, separabis
 eos seorsum.'
 
-<span id="fn_68"></span>[64:6](tic07.htm#fr_68) *Life*, ch. xi 16.
+<span id="fn_68"></span>[64:6](tic07.htm#fr_68.md) *Life*, ch. xi 16.
 
-<span id="fn_69"></span>[64:7](tic07.htm#fr_69) St. Matt. vii. 26, 27:
+<span id="fn_69"></span>[64:7](tic07.htm#fr_69.md) St. Matt. vii. 26, 27:
 'Qui ædificavit domum suam super arenam . . . <span id="page_65">p.
 65</span> et fuit ruina illius magna.'
 
-<span id="fn_70"></span>[65:8](tic07.htm#fr_70) Ps. lxxvii. 24: 'Pluit
+<span id="fn_70"></span>[65:8](tic07.htm#fr_70.md) Ps. lxxvii. 24: 'Pluit
 illis manna ad manducandum.' *Way of Perf*. ch. x. 4.
 
-<span id="fn_71"></span>[65:9](tic07.htm#fr_71) *Life*, ch. xii. 5.
+<span id="fn_71"></span>[65:9](tic07.htm#fr_71.md) *Life*, ch. xii. 5.
 
-<span id="fn_72"></span>[65:10](tic07.htm#fr_72) *Way of Perf.* ch.
+<span id="fn_72"></span>[65:10](tic07.htm#fr_72.md) *Way of Perf.* ch.
 xvii. 6; xxiii. 1.
 
-<span id="fn_73"></span>[65:11](tic07.htm#fr_73) St. Matt. xx. 22:
+<span id="fn_73"></span>[65:11](tic07.htm#fr_73.md) St. Matt. xx. 22:
 'Nescitis quid petatis.'
 
-<span id="fn_74"></span>[66:12](tic07.htm#fr_74) *Way of Perf.* ch. xvi.
+<span id="fn_74"></span>[66:12](tic07.htm#fr_74.md) *Way of Perf.* ch. xvi.
 2. *Found*. ch. v. 2, 3. *Life*, ch. iv. II; xi. 20.
 
-<span id="fn_75"></span>[66:13](tic07.htm#fr_75) A drug greatly in vogue
+<span id="fn_75"></span>[66:13](tic07.htm#fr_75.md) A drug greatly in vogue
 until recent times. It was composed of all the essences supposed to
 contain life-giving and life-preserving qualities of animals and plants.
 
-<span id="fn_76"></span>[67:14](tic07.htm#fr_76) St. Luke xxiv. 36. St.
+<span id="fn_76"></span>[67:14](tic07.htm#fr_76.md) St. Luke xxiv. 36. St.
 John xx. 19.
 
-<span id="fn_77"></span>[67:15](tic07.htm#fr_77) *Life*, ch. xi. and
+<span id="fn_77"></span>[67:15](tic07.htm#fr_77.md) *Life*, ch. xi. and
 xix. 8. *Way of Perfection*, ch. xxiii. 3.
 
-<span id="fn_78"></span>[67:16](tic07.htm#fr_78) *Way of Perf*. ch. xix.
+<span id="fn_78"></span>[67:16](tic07.htm#fr_78.md) *Way of Perf*. ch. xix.
 3.
 
-<span id="fn_79"></span>[68:17](tic07.htm#fr_79) *Way of Perf.* ch.
+<span id="fn_79"></span>[68:17](tic07.htm#fr_79.md) *Way of Perf.* ch.
 xxiii. 3.
 
-<span id="fn_80"></span>[68:18](tic07.htm#fr_80) Ecclus. iii. 27: 'Qui
+<span id="fn_80"></span>[68:18](tic07.htm#fr_80.md) Ecclus. iii. 27: 'Qui
 amat periculum, in illo peribit.'
 
-<span id="fn_81"></span>[68:19](tic07.htm#fr_81) St. John xiv. 6: 'Nemo
+<span id="fn_81"></span>[68:19](tic07.htm#fr_81.md) St. John xiv. 6: 'Nemo
 venit ad Patrem, nisi per Me.'
 
-<span id="fn_82"></span>[68:20](tic07.htm#fr_82) St. John xiv. 9. 'Qui
+<span id="fn_82"></span>[68:20](tic07.htm#fr_82.md) St. John xiv. 9. 'Qui
 videt me, videt et Patrem.'
 
-<span id="fn_83"></span>[69:21](tic07.htm#fr_83) St. Matt. x. 24: 'Nec
+<span id="fn_83"></span>[69:21](tic07.htm#fr_83.md) St. Matt. x. 24: 'Nec
 servus super dominum suum.'
 
-<span id="fn_84"></span>[69:22](tic07.htm#fr_84) St. Matt. xxvi. 41:
+<span id="fn_84"></span>[69:22](tic07.htm#fr_84.md) St. Matt. xxvi. 41:
 'Orate ut non intretis in tentationem.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Fear of God](tic08)
+[Next: Chapter I. Fear of God](tic08.md)

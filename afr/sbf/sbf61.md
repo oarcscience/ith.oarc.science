@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf60)  [Next](sbf62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf60)  [Next](sbf62.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -159,6 +159,6 @@ to cross it, coming to the place where they (the Bushmen) are.\]
 
 ------------------------------------------------------------------------
 
-[Next: Doings And Prayers When Canopus And Sirius Come Out.](sbf62)
+[Next: Doings And Prayers When Canopus And Sirius Come Out.](sbf62.md)
 
 </div>

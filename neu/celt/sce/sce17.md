@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce16)  [Next](sce18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce16)  [Next](sce18.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ Nothing; but if any were ƒo impious as to have given no Alms, they ƒay
 when the Souls of ƒuch do depairt, they ƒleep in an unaictve State till
 they reƒume the terreƒtriall Bodies again: others, that what the
 Low-countrey Scotts calls a Wreath, and the Irish TAIBHSHE <span
-id="fr_31"></span>[1](#fn_31) or Death's Meƒƒenger, (ap-
+id="fr_31"></span>[1](#fn_31.md) or Death's Meƒƒenger, (ap-
 
 pearing
 
@@ -81,7 +81,7 @@ pearing ƒometimes as a little rough Dog, and if croƒƒed and conjured in
 Time, will be pacified by the Death of any other Creature inƒtead of the
 ƒick Man,) is only exuvious Fumes of the Man approaching Death, exhal'd
 and congeal'd into a various Likneƒs, <span
-id="fr_32"></span>[1](#fn_32) (as Ships and Armies are ƒometimes ƒhapt
+id="fr_32"></span>[1](#fn_32.md) (as Ships and Armies are ƒometimes ƒhapt
 in the Air,) and called aƒtral Bodies, agitated as Wild-fire with Wind,
 and are neather Souls or counterfeiting Spirits; yet not a few avouch
 (as is ƒaid,) that ƒurelie theƒe are a numerous People by them ƒelves,
@@ -93,12 +93,12 @@ made about it.
 
 ### Footnotes
 
-<span id="fn_31"></span>[18:1](sce17.htm#fr_31) The *Death-candle* is
+<span id="fn_31"></span>[18:1](sce17.htm#fr_31.md) The *Death-candle* is
 called DRUIG.
 
-<span id="fn_32"></span>[19:1](sce17.htm#fr_32) Note
-( [c1](sce29.htm#xref_c1)), [p. 87](sce29.htm#page_87).
+<span id="fn_32"></span>[19:1](sce17.htm#fr_32.md) Note
+( [c1](sce29.htm#xref_c1)), [p. 87](sce29.htm#page_87.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](sce18)
+[Next: Chapter 8](sce18.md)

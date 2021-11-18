@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft13)  [Next](zft15) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft13)  [Next](zft15.md) 
 
 ------------------------------------------------------------------------
 
@@ -471,4 +471,4 @@ Thus shortens my story.
 ------------------------------------------------------------------------
 
 [Next: How The Coyotes Tried to Steal The Children Of The Sacred
-Dance](zft15)
+Dance](zft15.md)

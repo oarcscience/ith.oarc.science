@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](moq10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](moq10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysteries of the Qabalah*, by Elias Gewurz, \[1922\], at Intangible
 Textual Heritage
 
@@ -50,7 +50,7 @@ MSS. now in the Vatican which treat of the doctrines. These are quoted
 by Bartolocci in his *Bibliotheca Magna Rabbinica* (vol. 4). There was,
 moreover, a floating body of esoteric wisdom known to students as
 "Secrets and Mysteries" (see Furst's *Bibliotheca Judaica*) during this
-epoch, for references to which see the works of [Ibn](errata.htm#6)
+epoch, for references to which see the works of [Ibn](errata.htm#6.md)
 Gebirol (Isaac Myer's *Qaballah*).
 
 1100-1400 <span class="smallcaps">a.d.</span> The great outstanding work
@@ -215,7 +215,7 @@ great importance.
 
 1849\. *Die Religions-philosophie des Sohar*. Dr. H. Joel.
 
-1851\. [*Bibliotheca*](errata.htm#7) *Judaica* and
+1851\. [*Bibliotheca*](errata.htm#7.md) *Judaica* and
 
 1857\. *Melanzes Juives*. Both in French.
 
@@ -275,7 +275,7 @@ mystic).
 
      *Etude sur les Origines du Zohar*. Karppe.
 
-1902\. *Philosophie, Qabbala* [*und*](errata.htm#8) *Vedanta*. Flugel.
+1902\. *Philosophie, Qabbala* [*und*](errata.htm#8.md) *Vedanta*. Flugel.
 
 1903\. *Jewish Encyclopaedia*. Art. Kaballah. Ginsburg (an article of
 rare worth).

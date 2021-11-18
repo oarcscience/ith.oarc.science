@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti09)  [Next](eti11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti09)  [Next](eti11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -253,7 +253,7 @@ have been at some
 
 <span id="img_02900"></span> <span align="CENTER"> [![THE SAME
 GLITTERING, MYSTERIOUS KNIFE.](tn/02900.jpg)  
-Click to enlarge](img/02900.jpg)  
+Click to enlarge](img/02900.jpg.md)  
 “THE SAME GLITTERING, MYSTERIOUS KNIFE.”  
 </span>
 
@@ -279,7 +279,7 @@ outside,—then closed and locked the door. Turning toward me with the
 apparent object of seeing if I was looking, he deftly drew his knife
 twice across the front of the door-knob, making a deep cross, and then
 deposited the knife in his pocket, and resumed his seat. <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 As soon as he was comfortably seated, he again began the conversation:
 "Now that we have settled the preliminaries, I will ask if you remember
@@ -308,7 +308,7 @@ remain for thirty years, when it must be published."
 
 <span id="img_03200"></span> <span align="CENTER"> [![DREW HIS KNIFE
 TWICE ACROSS THE FRONT OF THE DOOR-KNOB.](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)  
+Click to enlarge](img/03200.jpg.md)  
 “DREW HIS KNIFE TWICE ACROSS THE FRONT OF THE DOOR-KNOB.”  
 </span>
 
@@ -374,11 +374,11 @@ of introduction, read fluently as follows:
 
 ### Footnotes
 
-<span id="fn_1"></span>[31:\*](eti10.htm#fr_1) I noted afterward that
+<span id="fn_1"></span>[31:\*](eti10.htm#fr_1.md) I noted afterward that
 the door-knob, which was of solid metal, was cut deeply, as though made
 of putty.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. A Search For Knowledge.—The Alchemistic
-Letter](eti11)
+Letter](eti11.md)

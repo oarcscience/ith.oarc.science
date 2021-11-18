@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow32)  [Next](dow34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow32)  [Next](dow34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -84,7 +84,7 @@ and came down.
 <span id="img_17500"></span> <span align="CENTER"> [![The Orphan Boys
 killing Ducks and Geese by the River. ''For a month they hunted birds
 and ate them''](tn/17500.jpg)  
-Click to enlarge](img/17500.jpg)  
+Click to enlarge](img/17500.jpg.md)  
 The Orphan Boys killing Ducks and Geese by the River. ''For a month they
 hunted birds and ate them''  
 </span>
@@ -131,7 +131,7 @@ going to make rain?"
 up very slowly, way up to the sky, and went north and found the north
 hole and went through it. When near the sky, but before they had gone
 through, the younger began to make a loud rumbling noise; it was
-*Tim-me-lā'-le* the Thunder. <span id="fr_17"></span>[18](#fn_17) The
+*Tim-me-lā'-le* the Thunder. <span id="fr_17"></span>[18](#fn_17.md) The
 elder tried but failed. The younger told him to try again. He did so and
 in a short time made thunder all right. Then they went through the hole
 and up above the sky into the *Yel'-lo-kin* country.
@@ -147,9 +147,9 @@ to make things grow for the people.
 
 ### Footnotes
 
-<span id="fn_17"></span>[178:18](dow33.htm#fr_17) *Tim-me-lā'-le* is
+<span id="fn_17"></span>[178:18](dow33.htm#fr_17.md) *Tim-me-lā'-le* is
 rolling thunder; the sharp crash is *Kah'-loo*.
 
 ------------------------------------------------------------------------
 
-[Next: *Wek'-wek's* Search for his Father](dow34)
+[Next: *Wek'-wek's* Search for his Father](dow34.md)

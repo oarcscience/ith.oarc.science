@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus11)  [Next](csus13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus11)  [Next](csus13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -225,13 +225,13 @@ the year 1845, when it was found inconvenient.
 <span id="img_10800"></span>
 
 [![CHURCH AT ZOAR.](tn/10800.jpg)  
-Click to enlarge](img/10800.jpg)  
+Click to enlarge](img/10800.jpg.md)  
 CHURCH AT ZOAR.  
 
 <span id="img_10801"></span>
 
 [![SCHOOL HOUSE AT ZOAR.](tn/10801.jpg)  
-Click to enlarge](img/10801.jpg)  
+Click to enlarge](img/10801.jpg.md)  
 SCHOOL HOUSE AT ZOAR.  
 
 <span id="page_109">p. 109</span>
@@ -405,4 +405,4 @@ sees at Zoar.
 
 ------------------------------------------------------------------------
 
-[Next: I. Introduction](csus13)
+[Next: I. Introduction](csus13.md)

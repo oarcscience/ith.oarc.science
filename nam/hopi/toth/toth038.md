@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth037)  [Next](toth039) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth037)  [Next](toth039.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 35. THE WHITE CORN-EAR MAIDEN AND THE SORCERERS. <span id="fr_92"></span>[1](#fn_90)
+## 35. THE WHITE CORN-EAR MAIDEN AND THE SORCERERS. <span id="fr_92"></span>[1](#fn_90.md)
 
 A long time ago when there were a great many people living in Oraíbi
 there lived a beautiful maiden in the village by the name of White
@@ -121,7 +121,7 @@ reassumed their forms as Hopi again. An old woman then washed the face
 of the maiden, rubbed corn meal on it, combed her hair and tied it up in
 whorls and dressed her up nicely. In the meanwhile a bed had been
 prepared for her and she was told to retire and lie down on the
-bed. <span id="fr_93"></span>[1](#fn_91) She was still crying bitterly.
+bed. <span id="fr_93"></span>[1](#fn_91.md) She was still crying bitterly.
 When she had seated herself on the couch the old man approached her, but
 just then the old warrior liberated one of the skeleton flies and
 immediately the humming of the fly arrested the attention of some of
@@ -251,14 +251,14 @@ again.
 
 ### Footnotes
 
-<span id="fn_90"></span>[126:1](toth038.htm#fr_92) Told by Qöyáwaima
+<span id="fn_90"></span>[126:1](toth038.htm#fr_92.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_91"></span>[128:1](toth038.htm#fr_93) She was also told
+<span id="fn_91"></span>[128:1](toth038.htm#fr_93.md) She was also told
 that as she had persistently refused to marry one of the young men of
 the village, all the men present would cohabit with her, which was to be
 her punishment.
 
 ------------------------------------------------------------------------
 
-[Next: 36. Watermelon-rind Woman (Hölö'kop Wuhti)](toth039)
+[Next: 36. Watermelon-rind Woman (Hölö'kop Wuhti)](toth039.md)

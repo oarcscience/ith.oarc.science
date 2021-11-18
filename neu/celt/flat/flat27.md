@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat26)  [Next](flat28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat26)  [Next](flat28.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ enchantment beneath the water are not affected by the movements of time.
 
 ------------------------------------------------------------------------
 
-[Next: The Lady of Gollerus](flat28)
+[Next: The Lady of Gollerus](flat28.md)

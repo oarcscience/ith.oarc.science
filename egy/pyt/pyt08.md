@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt07)  [Next](pyt09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt07)  [Next](pyt09.md) 
 
 ------------------------------------------------------------------------
 
@@ -110,4 +110,4 @@ may \[the eye of Horus\] be pleasing to thee.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Mostly Serpent Charms, Utterances 226-243](pyt09)
+[Next: 6. Mostly Serpent Charms, Utterances 226-243](pyt09.md)

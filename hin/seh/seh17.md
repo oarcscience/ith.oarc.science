@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh16)  [Next](seh18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh16)  [Next](seh18.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ their ancestors would have had them. One could not expect that a great
 idea should persist, in its vigour, for four hundred years together in
 the same spot. Thinking thus, I came to the paved brick pathway that led
 to the temple of Shyam Sundar. Fascinated by the beauty
-[of](errata.htm#2) the paved way, I followed it and came to the
+[of](errata.htm#2.md) the paved way, I followed it and came to the
 precincts of the temple itself. As much as I could see from the entrance
 I saw, and after some moments was turning away, when an old Brahmin
 entered. "Oh no!" he cried; "come to this place in the *Nat-Mandir*. You
@@ -226,4 +226,4 @@ years.
 
 ------------------------------------------------------------------------
 
-[Next: The Holy City](seh18)
+[Next: The Holy City](seh18.md)

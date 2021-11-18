@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp26)  [Next](dmp28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp26)  [Next](dmp28.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ with it; then it does its work.
 
 ------------------------------------------------------------------------
 
-[Next: Col. XXV](dmp28)
+[Next: Col. XXV](dmp28.md)

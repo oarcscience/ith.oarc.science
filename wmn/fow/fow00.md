@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Next](fow01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Next](fow01.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface](fow01)
+[Next: Preface](fow01.md)

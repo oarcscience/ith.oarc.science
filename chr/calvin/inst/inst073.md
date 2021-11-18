@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst072)  [Next](inst074) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst072)  [Next](inst074.md) 
 
 ------------------------------------------------------------------------
 
@@ -305,7 +305,7 @@ cleave to him with full hope. This, indeed, is that secret and hidden
 philosophy which cannot be learned by syllogisms: a philosophy
 thoroughly understood by those whose eyes God has so opened as to see
 light in his light (<span id="iv.iii.xxi-p56.1"></span>[Ps.
-36:9](../../../bib/kjv/psa036.htm#009)<span
+36:9](../../../bib/kjv/psa036.htm#009.md)<span
 id="iv.iii.xxi-p56.1"></span>). But after we have learned by faith to
 know that whatever is necessary for us or defective in us is supplied in
 God and in our Lord Jesus Christ, in whom it hath pleased the Father
@@ -319,14 +319,14 @@ the ground. Hence the Apostle, to show that a faith unaccompanied with
 prayer to God cannot be genuine, states this to be the order: As faith
 springs from the Gospel, so by faith our hearts are framed to call upon
 the name of God (<span id="iv.iii.xxi-p56.2"></span>[Rom.
-10:14](../../../bib/kjv/rom010.htm#014)<span
+10:14](../../../bib/kjv/rom010.htm#014.md)<span
 id="iv.iii.xxi-p56.2"></span>). And this is the very thing which he had
 expressed some time before—viz. that the *Spirit of adoption*, which
 seals the testimony of the Gospel on our hearts, gives us courage to
 make our requests known unto God, calls forth groanings which cannot be
 uttered, and enables us to cry, Abba, Father (<span
 id="iv.iii.xxi-p56.3"></span>[Rom.
-8:26](../../../bib/kjv/rom008.htm#026)<span
+8:26](../../../bib/kjv/rom008.htm#026.md)<span
 id="iv.iii.xxi-p56.3"></span>). This last point, as we have hitherto
 only touched upon it slightly in passing, must now be treated more
 fully.
@@ -358,7 +358,7 @@ know without a monitor both what our difficulties are, and what is meet
 for our interest, so that it seems in some measure superfluous to
 solicit him by our prayers, as if he were winking, or even sleeping,
 until aroused by the sound of our voice?46  <span
-id="fr_458"></span>[459](#fn_458) Those who argue thus attend not to the
+id="fr_458"></span>[459](#fn_458.md) Those who argue thus attend not to the
 end for which the Lord taught us to pray. It was not so much for his
 sake as for ours. He wills indeed, as is just, that due honour be paid
 him by acknowledging that all which men desire or feel to be useful, and
@@ -370,7 +370,7 @@ to refer to the example of Elijah, who being assured of the purpose of
 God had good ground for the promise of rain which he gives to Ahab, and
 yet prays anxiously upon his knees, and sends his servant seven times to
 inquire (<span id="iv.iii.xxi-p59.1"></span>[1 Kings
-18:42](../../../bib/kjv/kg1018.htm#042)<span
+18:42](../../../bib/kjv/kg1018.htm#042.md)<span
 id="iv.iii.xxi-p59.1"></span>); not that he discredits the oracle, but
 because he knows it to be his duty to lay his desires before God, lest
 his faith should become drowsy or torpid. Wherefore, although it is true
@@ -404,7 +404,7 @@ government of the universes is in vain importuned by our supplications,
 when, on the contrary, the Lord himself declares, that he is “nigh unto
 all that call upon him, to all that call upon him in truth” (<span
 id="iv.iii.xxi-p59.2"></span>[Ps.
-145:18](../../../bib/kjv/psa145.htm#018)<span
+145:18](../../../bib/kjv/psa145.htm#018.md)<span
 id="iv.iii.xxi-p59.2"></span>). No better is the frivolous allegation of
 others, that it is superfluous to pray for things which the Lord is
 ready of his own accord to bestow; since it is his pleasure that those
@@ -413,7 +413,7 @@ acknowledged as conceded to our prayers. This is testified by that
 memorable sentence in the psalms to which many others corresponds: “The
 eyes of the Lord are upon the righteous, and his ears are open unto
 their cry,” (<span id="iv.iii.xxi-p59.3"></span>[Ps.
-34:15](../../../bib/kjv/psa034.htm#015)<span
+34:15](../../../bib/kjv/psa034.htm#015.md)<span
 id="iv.iii.xxi-p59.3"></span>). This passage, while extolling the care
 which Divine Providence spontaneously exercises over the safety of
 believers, omits not the exercise of faith by which the mind is aroused
@@ -422,7 +422,7 @@ necessity, but he is likewise pleased to listen to our groans, that he
 may give us the better proof of his love. And thus both things are true,
 “He that keepeth Israel shall neither slumber nor sleep,” (<span
 id="iv.iii.xxi-p59.4"></span>[Ps.
-121:4](../../../bib/kjv/psa121.htm#004)<span
+121:4](../../../bib/kjv/psa121.htm#004.md)<span
 id="iv.iii.xxi-p59.4"></span>); and yet whenever he sees us dumb and
 torpid, he withdraws as if he had forgotten us.
 
@@ -466,7 +466,7 @@ hands in prayer is designed to remind us that we are far removed from
 God, unless our thoughts rise upward: as it is said in the psalm, “Unto
 thee, O Lord, do I lift up my soul,” (<span
 id="iv.iii.xxi-p61.1"></span>[Psalm
-25:1](../../../bib/kjv/psa025.htm#001)<span
+25:1](../../../bib/kjv/psa025.htm#001.md)<span
 id="iv.iii.xxi-p61.1"></span>). And Scripture repeatedly uses the
 expression to *raise our prayer*, meaning that those who would be heard
 by God must not grovel in the mire. The sum is, that the more liberally
@@ -479,7 +479,7 @@ exerting itself against all impediments, rise upward. Our second
 proposition was, that we are to ask only in so far as God permits. For
 though he bids us pour out our hearts (<span
 id="iv.iii.xxi-p61.2"></span>[Ps.
-62:8](../../../bib/kjv/psa062.htm#008)<span
+62:8](../../../bib/kjv/psa062.htm#008.md)<span
 id="iv.iii.xxi-p61.2"></span>) he does not indiscriminately give loose
 reins to foolish and depraved affections; and when he promises that he
 will grant believers their wish, his indulgence does not proceed so far
@@ -502,7 +502,7 @@ our wishes under the restraint of his authority. We must, therefore,
 attend to the observation of John: “This is the confidence that we have
 in him, that if we ask any thing according to his will, he heareth us,”
 (<span id="iv.iii.xxi-p61.3"></span>[1 John
-5:14](../../../bib/kjv/jo1005.htm#014)<span
+5:14](../../../bib/kjv/jo1005.htm#014.md)<span
 id="iv.iii.xxi-p61.3"></span>). But as our faculties are far from being
 able to attain to such high perfection, we must seek for some means to
 assist them. As the eye of our mind should be intent upon God, so the
@@ -513,7 +513,7 @@ of the Spirit in our prayers to dictate what is right, and regulate our
 affections. For seeing “we know not what we should pray for as we
 ought,” “the Spirit itself maketh intercession for us with groanings
 which cannot be uttered,” (<span id="iv.iii.xxi-p61.4"></span>[Rom.
-8:26](../../../bib/kjv/rom008.htm#026)<span
+8:26](../../../bib/kjv/rom008.htm#026.md)<span
 id="iv.iii.xxi-p61.4"></span>) not that he actually prays or groans, but
 he excites in us sighs, and wishes, and confidence, which our natural
 powers are not at all able to conceive. Nor is it without cause Paul
@@ -531,7 +531,7 @@ our minds while otherwise occupied. Our meaning is, that, weary of our
 own heartlessness and sloth, we are to long for the aid of the Spirit.
 Nor, indeed, does Paul, when he enjoins us to pray *in the Spirit*
 (<span id="iv.iii.xxi-p61.5"></span>[1 Cor.
-14:15](../../../bib/kjv/co1014.htm#015)<span
+14:15](../../../bib/kjv/co1014.htm#015.md)<span
 id="iv.iii.xxi-p61.5"></span>), cease to exhort us to vigilance,
 intimating, that while the inspiration of the Spirit is effectual to the
 formation of prayer, it by no means impedes or retards our own
@@ -575,7 +575,7 @@ necessity which urges us to pray is not always equal, I admit it, and
 this distinction is profitably taught us by James: “Is any among you
 afflicted? let him pray. Is any merry? let him sing psalms,” (<span
 id="iv.iii.xxi-p63.1"></span>[James
-5:13](../../../bib/kjv/jam005.htm#013)<span
+5:13](../../../bib/kjv/jam005.htm#013.md)<span
 id="iv.iii.xxi-p63.1"></span>). Therefore, common sense itself dictates,
 that as we are too sluggish, we must be stimulated by God to pray
 earnestly whenever the occasion requires. This David calls a time when
@@ -585,7 +585,7 @@ fears, and other kinds of trial press us, the freer is our access to
 God, as if he were inviting us to himself. Still not less true is the
 injunction of Paul to pray “always,” (<span
 id="iv.iii.xxi-p63.2"></span>[Eph.
-6:18](../../../bib/kjv/eph006.htm#018)<span
+6:18](../../../bib/kjv/eph006.htm#018.md)<span
 id="iv.iii.xxi-p63.2"></span>); because, however prosperously according
 to our view, things proceed, and however we may be surrounded on all
 sides with grounds of joy, there is not an instant of time during which
@@ -618,32 +618,32 @@ against them, that those who, by their hardheartedness, provoke his
 severity should find him inflexible. In Isaiah he thus threatens: “When
 ye make many prayers, I will not hear: your hands are full of blood,”
 (<span id="iv.iii.xxi-p63.3"></span>[Isaiah
-1:15](../../../bib/kjv/isa001.htm#015)<span
+1:15](../../../bib/kjv/isa001.htm#015.md)<span
 id="iv.iii.xxi-p63.3"></span>). In like manner, in Jeremiah, “Though
 they shall cry unto me, I will not hearken unto them,” (<span
 id="iv.iii.xxi-p63.4"></span>[Jer.
-11:7](../../../bib/kjv/jer011.htm#007),
-[8](../../../bib/kjv/jer011.htm#008),
-[11](../../../bib/kjv/jer011.htm#011)<span
+11:7](../../../bib/kjv/jer011.htm#007.md),
+[8](../../../bib/kjv/jer011.htm#008.md),
+[11](../../../bib/kjv/jer011.htm#011.md)<span
 id="iv.iii.xxi-p63.4"></span>); because he regards it as the highest
 insult for the wicked to boast of his covenant while profaning his
 sacred name by their whole lives. Hence he complains in Isaiah: “This
 people draw near to me with their mouth, and with their lips do honour
 me; but have removed their heart far from men” (<span
 id="iv.iii.xxi-p63.5"></span>[Isaiah
-29:13](../../../bib/kjv/isa029.htm#013)<span
+29:13](../../../bib/kjv/isa029.htm#013.md)<span
 id="iv.iii.xxi-p63.5"></span>). Indeed, he does not confine this to
 prayers alone, but declares that he abominates pretense in every part of
 his service. Hence the words of James, “Ye ask and receive note because
 ye ask amiss, that ye may consume it upon your lusts,” (<span
 id="iv.iii.xxi-p63.6"></span>[James
-4:3](../../../bib/kjv/jam004.htm#003)<span
+4:3](../../../bib/kjv/jam004.htm#003.md)<span
 id="iv.iii.xxi-p63.6"></span>). It is true, indeed (as we shall again
 see in a little), that the pious, in the prayers which they utter, trust
 not to their own worth; still the admonition of John is not superfluous:
 “Whatsoever we ask, we receive of him, because we keep his
 commandments,” (<span id="iv.iii.xxi-p63.7"></span>[1 John
-3:22](../../../bib/kjv/jo1003.htm#022)<span
+3:22](../../../bib/kjv/jo1003.htm#022.md)<span
 id="iv.iii.xxi-p63.7"></span>); an evil conscience shuts the door
 against us. Hence it follows, that none but the sincere worshippers of
 God pray aright, or are listened to. Let every one, therefore, who
@@ -669,12 +669,12 @@ if he were one of the individuals in a crowd: he rather confesses his
 guilt apart, and as a suppliant betaking himself to the asylum of
 pardon, he distinctly declares that he was confessing his own sin, and
 the sin of his people Israel (<span id="iv.iii.xxi-p64.1"></span>[Dan.
-9:18-20](../../../bib/kjv/dan009.htm#018)<span
+9:18-20](../../../bib/kjv/dan009.htm#018.md)<span
 id="iv.iii.xxi-p64.1"></span>). David also sets us an example of this
 humility: “Enter not into judgment with thy servant: for in thy sight
 shall no man living be justified,” (<span
 id="iv.iii.xxi-p64.2"></span>[Psalm
-143:2](../../../bib/kjv/psa143.htm#002)<span
+143:2](../../../bib/kjv/psa143.htm#002.md)<span
 id="iv.iii.xxi-p64.2"></span>). In like manner, Isaiah prays, “Behold,
 thou art wroth; for we have sinned: in those is continuance, and we
 shall be saved. But we are all as an unclean thing, and all our
@@ -687,25 +687,25 @@ clay, and thou our potter; and we all are the work of thy hand. Be not
 wroth very sore, O Lord, neither remember iniquity for ever: Behold,
 see, we beseech thee, we are all thy people.” (<span
 id="iv.iii.xxi-p64.3"></span>[Isa.
-64:5-9](../../../bib/kjv/isa064.htm#005)<span
+64:5-9](../../../bib/kjv/isa064.htm#005.md)<span
 id="iv.iii.xxi-p64.3"></span>). You see how they put no confidence in
 any thing but this: considering that they are the Lord’s, they despair
 not of being the objects of his care. In the same way, Jeremiah says, “O
 Lord, though our iniquities testify against us, do thou it for thy
 name’s sake,” (<span id="iv.iii.xxi-p64.4"></span>[Jer.
-14:7](../../../bib/kjv/jer014.htm#007)<span
+14:7](../../../bib/kjv/jer014.htm#007.md)<span
 id="iv.iii.xxi-p64.4"></span>). For it was most truly and piously
 written by the uncertain author (whoever he may have been) that wrote
 the book which is attributed to the prophet Baruch,46  <span
-id="fr_459"></span>[460](#fn_459) “But the soul that is greatly vexed,
+id="fr_459"></span>[460](#fn_459.md) “But the soul that is greatly vexed,
 which goeth stooping and feeble, and the eyes that fail, and the hungry
 soul, will give thee praise and righteousness, O Lord. Therefore, we do
 not make our humble supplication before thee, O Lord our God, for the
 righteousness of our fathers, and of our kings.” “Hear, O Lord, and have
 mercy; for thou art merciful: and have pity upon us, because we have
 sinned before thee,” (<span id="iv.iii.xxi-p65.1"></span>[Bar.
-2:18](../../../bib/apo/bar002.htm#018),
-[19](../../../bib/apo/bar002.htm#019)<span
+2:18](../../../bib/apo/bar002.htm#018.md),
+[19](../../../bib/apo/bar002.htm#019.md)<span
 id="iv.iii.xxi-p65.1"></span>; 3:2).
 
 <span id="iv.iii.xxi-p66"></span>9. In fine, supplication for pardon,
@@ -719,10 +719,10 @@ Psalms. David, when presenting a request on a different subject, says,
 “Remember not the sins of my youth, nor my transgressions; according to
 thy mercy remember me, for thy goodness sake, O Lord,” (<span
 id="iv.iii.xxi-p66.1"></span>[Psalm
-25:7](../../../bib/kjv/psa025.htm#007)<span
+25:7](../../../bib/kjv/psa025.htm#007.md)<span
 id="iv.iii.xxi-p66.1"></span>). Again, “Look upon my affliction and my
 pain, and forgive my sins,” (<span id="iv.iii.xxi-p66.2"></span>[Psalm
-25:18](../../../bib/kjv/psa025.htm#018)<span
+25:18](../../../bib/kjv/psa025.htm#018.md)<span
 id="iv.iii.xxi-p66.2"></span>). Here also we see that it is not
 sufficient to call ourselves to account for the sins of each passing
 day; we must also call to mind those which might seem to have been long
@@ -730,7 +730,7 @@ before buried in oblivion. For in another passage the same prophet,
 confessing one grievous crime, takes occasion to go back to his very
 birth, “I was shapen in iniquity, and in sin did my mother conceive me,”
 (<span id="iv.iii.xxi-p66.3"></span>[Psalm
-51:5](../../../bib/kjv/psa051.htm#005)<span
+51:5](../../../bib/kjv/psa051.htm#005.md)<span
 id="iv.iii.xxi-p66.3"></span>); not to extenuate the fault by the
 corruption of his nature, but as it were to accumulate the sins of his
 whole life, that the stricter he was in condemning himself, the more
@@ -744,11 +744,11 @@ cares familiarly before God, that if he did not trust to mercy and
 pardon, he would tremble at the very thought of approaching him. There
 is, indeed, another special confession. When believers long for
 deliverance from punishment, they at the same time pray that their sins
-may be pardoned;46  <span id="fr_460"></span>[461](#fn_460) for it were
+may be pardoned;46  <span id="fr_460"></span>[461](#fn_460.md) for it were
 absurd to wish that the effect should be taken away while the cause
 remains. For we must beware of imitating foolish patients who, anxious
 only about curing accidental symptoms, neglect the root of the
-disease.46  <span id="fr_461"></span>[462](#fn_461) Nay, our endeavour
+disease.46  <span id="fr_461"></span>[462](#fn_461.md) Nay, our endeavour
 must be to have God propitious even before he attests his favour by
 external signs, both because this is the order which he himself chooses,
 and it were of little avail to experience his kindness, did not
@@ -765,7 +765,7 @@ omitted, because prayers will never reach God unless they are founded on
 free mercy. To this we may refer the words of John, “If we confess our
 sins, he is faithful and just to forgive us our sins and to cleanse us
 from all unrighteousness,” (<span id="iv.iii.xxi-p68.1"></span>[1 John
-1:9](../../../bib/kjv/jo1001.htm#009)<span
+1:9](../../../bib/kjv/jo1001.htm#009.md)<span
 id="iv.iii.xxi-p68.1"></span>). Hence, under the law it was necessary to
 consecrate prayers by the expiation of blood, both that they might be
 accepted, and that the people might be warned that they were unworthy of
@@ -776,22 +776,22 @@ founded their confidence in prayer entirely on the mercy of God.
 supplicating God, seem to appeal to their own righteousness, as when
 David says, “Preserve my soul; for I am holy,” (<span
 id="iv.iii.xxi-p69.1"></span>[Ps.
-86:2](../../../bib/kjv/psa086.htm#002)<span
+86:2](../../../bib/kjv/psa086.htm#002.md)<span
 id="iv.iii.xxi-p69.1"></span>). Also Hezekiah, “Remember now, O Lord, I
 beseech thee how I have walked before thee in truth, and with a perfect
 heart, and have done that which is good in thy sight,” (<span
 id="iv.iii.xxi-p69.2"></span>[Is.
-38:2](../../../bib/kjv/isa038.htm#002)<span
+38:2](../../../bib/kjv/isa038.htm#002.md)<span
 id="iv.iii.xxi-p69.2"></span>). All they mean by such expressions is,
 that regeneration declares them to be among the servants and children to
 whom God engages that he will show favour. We have already seen how he
 declares by the Psalmist that his eyes “are upon the righteous, and his
 ears are open unto their cry,” (<span id="iv.iii.xxi-p69.3"></span>[Ps.
-34:16](../../../bib/kjv/psa034.htm#016)<span
+34:16](../../../bib/kjv/psa034.htm#016.md)<span
 id="iv.iii.xxi-p69.3"></span>) and again by the apostle, that
 “whatsoever we ask of him we obtain, because we keep his commandments,”
 (<span id="iv.iii.xxi-p69.4"></span>[John
-3:22](../../../bib/kjv/joh003.htm#022)<span
+3:22](../../../bib/kjv/joh003.htm#022.md)<span
 id="iv.iii.xxi-p69.4"></span>). In these passages he does not fix a
 value on prayer as a meritorious work, but designs to establish the
 confidence of those who are conscious of an unfeigned integrity and
@@ -799,7 +799,7 @@ innocence, such as all believers should possess. For the saying of the
 blind man who had received his sight is in perfect accordance with
 divine truth, And God heareth not sinners (<span
 id="iv.iii.xxi-p69.5"></span>[John
-9:31](../../../bib/kjv/joh009.htm#031)<span
+9:31](../../../bib/kjv/joh009.htm#031.md)<span
 id="iv.iii.xxi-p69.5"></span>); provided we take the term sinners in the
 sense commonly used by Scripture to mean those who, without any desire
 for righteousness, are sleeping secure in their sins; since no heart
@@ -832,7 +832,7 @@ other joy, so in prayer they must both be present. This concurrence
 David expresses in a few words: “But as for me, I will come into thy
 house in the multitude of thy mercy, and in thy fear will I worship
 toward thy holy temple,” (<span id="iv.iii.xxi-p70.1"></span>[Ps.
-5:7](../../../bib/kjv/psa005.htm#007)<span
+5:7](../../../bib/kjv/psa005.htm#007.md)<span
 id="iv.iii.xxi-p70.1"></span>). Under the goodness of God he comprehends
 faith, at the same time not excluding fear; for not only does his
 majesty compel our reverence, but our own unworthiness also divests us
@@ -861,17 +861,17 @@ footsteps of faith. To this principle Christ directs all of us in these
 words, “Therefore, I say unto you, What things soever ye desire, when ye
 pray, believe that ye receive them, and ye shall have them,” (<span
 id="iv.iii.xxi-p70.2"></span>[Mark
-11:24](../../../bib/kjv/mar011.htm#024)<span
+11:24](../../../bib/kjv/mar011.htm#024.md)<span
 id="iv.iii.xxi-p70.2"></span>). The same thing he declares in another
 passage, “All things, whatsoever ye shall ask in prayer, believing, ye
 shall receive,” (<span id="iv.iii.xxi-p70.3"></span>[Mt.
-21:22](../../../bib/kjv/mat021.htm#022)<span
+21:22](../../../bib/kjv/mat021.htm#022.md)<span
 id="iv.iii.xxi-p70.3"></span>). In accordance with this are the words of
 James, “If any of you lack wisdom, let him ask of God, that giveth to
 all men liberally, and upbraideth not, and it shall be given him. But
 let him ask in faith, nothing wavering,” (<span
 id="iv.iii.xxi-p70.4"></span>[James
-1:5](../../../bib/kjv/jam001.htm#005)<span
+1:5](../../../bib/kjv/jam001.htm#005.md)<span
 id="iv.iii.xxi-p70.4"></span>). He most aptly expresses the power of
 faith by opposing it to wavering. No less worthy of notice is his
 additional statement, that those who approach God with a doubting,
@@ -880,7 +880,7 @@ not, gain nothing by their prayers. Such persons he compares to a wave
 of the sea, driven with the wind and tossed. Hence, in another passage
 he terms genuine prayer “the prayer of faith,” (<span
 id="iv.iii.xxi-p70.5"></span>[James
-5:15](../../../bib/kjv/jam005.htm#015)<span
+5:15](../../../bib/kjv/jam005.htm#015.md)<span
 id="iv.iii.xxi-p70.5"></span>). Again, since God so often declares that
 he will give to every man according to his faith he intimates that we
 cannot obtain any thing without faith. In short, it is faith which
@@ -890,8 +890,8 @@ Paul in the well known passage to which dull men give too little heed,
 how shall they believe in him of whom they have not heard?” “So then
 faith cometh by hearing, and hearing by the word of God,” (<span
 id="iv.iii.xxi-p70.6"></span>[Rom.
-10:14](../../../bib/kjv/rom010.htm#014),
-[17](../../../bib/kjv/rom010.htm#017)<span
+10:14](../../../bib/kjv/rom010.htm#014.md),
+[17](../../../bib/kjv/rom010.htm#017.md)<span
 id="iv.iii.xxi-p70.6"></span>). Gradually deducing the origin of prayer
 from faith, he distinctly maintains that God cannot be invoked sincerely
 except by those to whom, by the preaching of the Gospel, his mercy and
@@ -919,11 +919,11 @@ whose prayers are given in Scripture thus supplicated. Nor are we thus
 taught by the Holy Spirit, who tells us to “come boldly unto the throne
 of grace, that we may obtain mercy, and find grace to help in time of
 need,” (<span id="iv.iii.xxi-p71.1"></span>[Heb.
-4:16](../../../bib/kjv/heb004.htm#016)<span
+4:16](../../../bib/kjv/heb004.htm#016.md)<span
 id="iv.iii.xxi-p71.1"></span>); and elsewhere teaches us to “have
 boldness and access with confidence by the faith of Christ,” (<span
 id="iv.iii.xxi-p71.2"></span>[Eph.
-3:12](../../../bib/kjv/eph003.htm#012)<span
+3:12](../../../bib/kjv/eph003.htm#012.md)<span
 id="iv.iii.xxi-p71.2"></span>). This confidence of obtaining what we
 ask, a confidence which the Lord commands, and all the saints teach by
 their example, we must therefore hold fast with both hands, if we would
@@ -935,16 +935,16 @@ liberty or boldness, that by this mark he might distinguish us from
 unbelievers, who indeed like us pray to God, but pray at random. Hence,
 the whole Church thus prays “Let thy mercy O Lord, be upon us, according
 as we hope in thee,” (<span id="iv.iii.xxi-p71.3"></span>[Ps.
-33:22](../../../bib/kjv/psa033.htm#022)<span
+33:22](../../../bib/kjv/psa033.htm#022.md)<span
 id="iv.iii.xxi-p71.3"></span>). The same condition is set down by the
 Psalmist in another passage, “When I cry unto thee, then shall mine
 enemies turn back: this I know, for God is for me,” (<span
 id="iv.iii.xxi-p71.4"></span>[Ps.
-56:9](../../../bib/kjv/psa056.htm#009)<span
+56:9](../../../bib/kjv/psa056.htm#009.md)<span
 id="iv.iii.xxi-p71.4"></span>). Again, “In the morning will I direct my
 prayer unto thee, and will look up,” (<span
 id="iv.iii.xxi-p71.5"></span>[Ps.
-5:3](../../../bib/kjv/psa005.htm#003)<span
+5:3](../../../bib/kjv/psa005.htm#003.md)<span
 id="iv.iii.xxi-p71.5"></span>). From these words we gather, that prayers
 are vainly poured out into the air unless accompanied with faith, in
 which, as from a watchtower, we may quietly wait for God. With this
@@ -953,7 +953,7 @@ pray in the Spirit always, with vigilance and assiduity, he enjoins them
 to take “the shield of faith,” “the helmet of salvation, and the sword
 of the Spirit, which is the word of God,” (<span
 id="iv.iii.xxi-p71.6"></span>[Eph.
-6:16-18](../../../bib/kjv/eph006.htm#016)<span
+6:16-18](../../../bib/kjv/eph006.htm#016.md)<span
 id="iv.iii.xxi-p71.6"></span>). Let the reader here call to mind what I
 formerly observed, that faith by no means fails though accompanied with
 a recognition of our wretchedness, poverty, and pollution. How much
@@ -970,7 +970,7 @@ before their parents. Nay, the immense accumulation of our sins should
 rather spur us on and incite us to prayer. Of this the Psalmist gives us
 an example, “Heal my soul: for I have sinned against thee,” (<span
 id="iv.iii.xxi-p71.7"></span>[Ps.
-41:4](../../../bib/kjv/psa041.htm#004)<span
+41:4](../../../bib/kjv/psa041.htm#004.md)<span
 id="iv.iii.xxi-p71.7"></span>). I confess, indeed, that these stings
 would prove mortal darts, did not God give succour; but our heavenly
 Father has, in ineffable kindness, added a remedy, by which, calming all
@@ -983,13 +983,13 @@ to pray, he by the very injunction convicts us of impious contumacy if
 we obey not. He could not give a more precise command than that which is
 contained in the psalms: “Call upon me in the day of trouble,” (<span
 id="iv.iii.xxi-p72.1"></span>[Ps.
-50:15](../../../bib/kjv/psa050.htm#015)<span
+50:15](../../../bib/kjv/psa050.htm#015.md)<span
 id="iv.iii.xxi-p72.1"></span>). But as there is no office of piety more
 frequently enjoined by Scripture, there is no occasion for here dwelling
 longer upon it. “Ask,” says our Divine Master, “and it shall be given
 you; seek, and ye shall find; knock, and it shall be opened unto you,”
 (<span id="iv.iii.xxi-p72.2"></span>[Mt.
-7:7](../../../bib/kjv/mat007.htm#007)<span
+7:7](../../../bib/kjv/mat007.htm#007.md)<span
 id="iv.iii.xxi-p72.2"></span>). Here, indeed, a promise is added to the
 precept, and this is necessary. For though all confess that we must obey
 the precept, yet the greater part would shun the invitation of God, did
@@ -1013,7 +1013,7 @@ the presence of God, did he not anticipate us by his invitation.
 Accordingly, he opens up the way for us by his own voice, “I will say,
 It is my people: and they shall say, The Lord is my God,” (<span
 id="iv.iii.xxi-p72.3"></span>[Zech.
-13:9](../../../bib/kjv/zac013.htm#009)<span
+13:9](../../../bib/kjv/zac013.htm#009.md)<span
 id="iv.iii.xxi-p72.3"></span>). We see how he anticipates his
 worshippers, and desires them to follow, and therefore we cannot fear
 that the melody which he himself dictates will prove unpleasing.
@@ -1021,7 +1021,7 @@ Especially let us call to mind that noble description of the divine
 character, by trusting to which we shall easily overcome every obstacle:
 “O thou that hearest prayer, unto thee shall all flesh come,” (<span
 id="iv.iii.xxi-p72.4"></span>[Ps.
-65:2](../../../bib/kjv/psa065.htm#002)<span
+65:2](../../../bib/kjv/psa065.htm#002.md)<span
 id="iv.iii.xxi-p72.4"></span>). What can be more lovely or soothing than
 to see God invested with a title which assures us that nothing is more
 proper to his nature than to listen to the prayers of suppliants? Hence
@@ -1029,18 +1029,18 @@ the Psalmist infers, that free access is given not to a few individuals,
 but to all men, since God addresses all in these terms, “Call upon me in
 the day of trouble: I will deliver thee, and thou shalt glorify me,”
 (<span id="iv.iii.xxi-p72.5"></span>[Ps.
-50:15](../../../bib/kjv/psa050.htm#015)<span
+50:15](../../../bib/kjv/psa050.htm#015.md)<span
 id="iv.iii.xxi-p72.5"></span>). David, accordingly, appeals to the
 promise thus given in order to obtain what he asks: “Thou, O Lord of
 hosts, God of Israel, hast revealed to thy servant, saying, I will build
 thee an house: therefore hath thy servant found in his heart to pray
 this prayer unto thee” (<span id="iv.iii.xxi-p72.6"></span>[2 Sam.
-7:27](../../../bib/kjv/sa2007.htm#027)<span
+7:27](../../../bib/kjv/sa2007.htm#027.md)<span
 id="iv.iii.xxi-p72.6"></span>). Here we infer, that he would have been
 afraid but for the promise which emboldened him. So in another passage
 he fortifies himself with the general doctrine, “He will fulfill the
 desire of them that fear him,” (<span id="iv.iii.xxi-p72.7"></span>[Ps.
-145:19](../../../bib/kjv/psa145.htm#019)<span
+145:19](../../../bib/kjv/psa145.htm#019.md)<span
 id="iv.iii.xxi-p72.7"></span>). Nay, we may observe in The Psalms how
 the continuity of prayer is broken, and a transition is made at one time
 to the power of God, at another to his goodness, at another to the
@@ -1068,7 +1068,7 @@ before they call, I will answer; and while they are yet speaking, I will
 hear.” This honour he elsewhere bestows upon the whole Church in
 general, as belonging to all the members of Christ: “He shall call upon
 me, and I will answer him: I will be with him in trouble; I will deliver
-him, and honour him.”46  <span id="fr_462"></span>[463](#fn_462) My
+him, and honour him.”46  <span id="fr_462"></span>[463](#fn_462.md) My
 intention, however, as I already observed, is not to enumerate all, but
 only select some admirable passages as a specimen how kindly God allures
 us to himself, and how extreme our ingratitude must be when with such
@@ -1076,7 +1076,7 @@ powerful motives our sluggishness still retards us. Wherefore, let these
 words always resound in our ears: “The Lord is nigh unto all them that
 call upon him, to all that call upon him in truth,” (<span
 id="iv.iii.xxi-p74.6"></span>[Ps.
-145:18](../../../bib/kjv/psa145.htm#018)<span
+145:18](../../../bib/kjv/psa145.htm#018.md)<span
 id="iv.iii.xxi-p74.6"></span>). Likewise those passages which we have
 quoted from Isaiah and Joel, in which God declares that his ear is open
 to our prayers, and that he is delighted as with a sacrifice of sweet
@@ -1106,16 +1106,16 @@ method of prayer to which I lately referred: “And now, O Lord God, thou
 art that God, and thy words be true, and thou hast promised this
 goodness unto thy servant, that it may continue for ever before thee”
 (<span id="iv.iii.xxi-p74.7"></span>[2 Sam.
-7:28](../../../bib/kjv/sa2007.htm#028)<span
+7:28](../../../bib/kjv/sa2007.htm#028.md)<span
 id="iv.iii.xxi-p74.7"></span>). So also, in another passage, “Let, I
 pray thee, thy merciful kindness be for my comfort, according to thy
 word unto thy servant,” (<span id="iv.iii.xxi-p74.8"></span>[Psalm
-119:76](../../../bib/kjv/psa119.htm#076)<span
+119:76](../../../bib/kjv/psa119.htm#076.md)<span
 id="iv.iii.xxi-p74.8"></span>). And the whole body of the Israelites,
 whenever they fortify themselves with the remembrance of the covenant,
 plainly declare, that since God thus prescribes they are not to pray
 timorously (<span id="iv.iii.xxi-p74.9"></span>[Gen.
-32:13](../../../bib/kjv/gen032.htm#013)<span
+32:13](../../../bib/kjv/gen032.htm#013.md)<span
 id="iv.iii.xxi-p74.9"></span>). In this they imitated the example of the
 patriarchs, particularly Jacob, who, after confessing that he was
 unworthy of the many mercies which he had received of the Lord’s hand,
@@ -1135,14 +1135,14 @@ reverence, and anxiety, and that there is no inconsistency when God
 raises up those who had fallen prostrate. In this way forms of
 expression apparently inconsistent admirably harmonize. Jeremiah and
 David speak of humbly laying their supplications47  <span
-id="fr_463"></span>[464](#fn_463) before God. In another passage
+id="fr_463"></span>[464](#fn_463.md) before God. In another passage
 Jeremiah says “Let, we beseech thee, our supplication be accepted before
 thee, and pray for us unto the Lord thy God, even for all this remnant.”
 On the other hand, believers are often said to *lift up prayer*. Thus
 Hezekiah speaks, when asking the prophet to undertake the office of
 interceding. And David says, “Let my prayer be set forth before thee as
 incense; and the lifting up of my hands as the evening sacrifice.”47
- <span id="fr_464"></span>[465](#fn_464) The explanation is, that though
+ <span id="fr_464"></span>[465](#fn_464.md) The explanation is, that though
 believers, persuaded of the paternal love of God, cheerfully rely on his
 faithfulness, and have no hesitation in imploring the aid which he
 voluntarily offers, they are not elated with supine or presumptuous
@@ -1156,13 +1156,13 @@ regulated. It is true, that the cause for which Jotham imprecated on the
 inhabitants of Shechem the disaster which afterwards befell them was
 well founded; but still he was inflamed with anger and revenge (<span
 id="iv.iii.xxi-p77.1"></span>[Judges
-9:20](../../../bib/kjv/jdg009.htm#020)<span
+9:20](../../../bib/kjv/jdg009.htm#020.md)<span
 id="iv.iii.xxi-p77.1"></span>); and hence God, by complying with the
 execration, seems to approve of passionate impulses. Similar fervor also
 seized Samson, when he prayed, “Strengthen me, I pray thee, only this
 once, O God, that I may be at once avenged of the Philistines for my two
 eyes,” (<span id="iv.iii.xxi-p77.2"></span>[Judges
-16:28](../../../bib/kjv/jdg016.htm#028)<span
+16:28](../../../bib/kjv/jdg016.htm#028.md)<span
 id="iv.iii.xxi-p77.2"></span>). For although there was some mixture of
 good zeal, yet his ruling feeling was a fervid, and therefore vicious
 longing for vengeance. God assents, and hence apparently it might be
@@ -1175,7 +1175,7 @@ attend to the answer which our Saviour gave to his disciples when they
 inconsiderately wished to imitate the example of Elias, “Ye know not
 what manner of spirit ye are of,” (<span
 id="iv.iii.xxi-p77.3"></span>[Luke
-9:55](../../../bib/kjv/luk009.htm#055)<span
+9:55](../../../bib/kjv/luk009.htm#055.md)<span
 id="iv.iii.xxi-p77.3"></span>). We must, however, go farther and say,
 that the wishes to which God assents are not always pleasing to him; but
 he assents, because it is necessary, by way of example, to give clear
@@ -1190,9 +1190,9 @@ assistance to those who are unworthily oppressed though they by
 addressing an unknown deity only beat the air? There is one psalm which
 clearly teaches that prayers are not without effect, though they do not
 penetrate to heaven by faith (<span id="iv.iii.xxi-p77.4"></span>[Ps.
-107:6](../../../bib/kjv/psa107.htm#006),
-[13](../../../bib/kjv/psa107.htm#013),
-[19](../../../bib/kjv/psa107.htm#019)<span
+107:6](../../../bib/kjv/psa107.htm#006.md),
+[13](../../../bib/kjv/psa107.htm#013.md),
+[19](../../../bib/kjv/psa107.htm#019.md)<span
 id="iv.iii.xxi-p77.4"></span>). For it enumerates the prayers which, by
 natural instinct, necessity extorts from unbelievers not less than from
 believers, and to which it shows by the event, that God is,
@@ -1221,13 +1221,13 @@ concerning Abraham and Samuel, the one of whom, without any instruction
 from the word of God, prayed in behalf of the people of Sodom, and the
 other, contrary to an express prohibition, prayed in behalf of Saul
 (<span id="iv.iii.xxi-p77.5"></span>[Gen.
-18:23](../../../bib/kjv/gen018.htm#023)<span
+18:23](../../../bib/kjv/gen018.htm#023.md)<span
 id="iv.iii.xxi-p77.5"></span>; <span id="iv.iii.xxi-p77.6"></span>[1
-Sam. 15:11](../../../bib/kjv/sa1015.htm#011)<span
+Sam. 15:11](../../../bib/kjv/sa1015.htm#011.md)<span
 id="iv.iii.xxi-p77.6"></span>). Similar is the case of Jeremiah, who
 prayed that the city might not be destroyed (<span
 id="iv.iii.xxi-p77.7"></span>[Jer.
-32:16](../../../bib/kjv/jer032.htm#016)<span
+32:16](../../../bib/kjv/jer032.htm#016.md)<span
 id="iv.iii.xxi-p77.7"></span>). It is true their prayers were refused,
 but it seems harsh to affirm that they prayed without faith. Modest
 readers will, I hope, be satisfied with this solution—viz. that leaning
@@ -1247,10 +1247,10 @@ Wherefore, whenever no certain promise exists, our request to God must
 have a condition annexed to it. Here we may refer to the prayer of
 David, “Awake for me to the judgment that thou hast commanded,” (<span
 id="iv.iii.xxi-p77.8"></span>[Ps.
-7:6](../../../bib/kjv/psa007.htm#006)<span
+7:6](../../../bib/kjv/psa007.htm#006.md)<span
 id="iv.iii.xxi-p77.8"></span>); for he reminds us that he had received
 special instruction to pray for a temporal blessing.47  <span
-id="fr_465"></span>[466](#fn_465)
+id="fr_465"></span>[466](#fn_465.md)
 
 <span id="iv.iii.xxi-p79"></span>16. It is also of importance to
 observe, that the four laws of prayer of which I have treated are not so
@@ -1275,10 +1275,10 @@ emotions appear, nay, sometimes burst forth,—emotions not a little at
 variance with the first law which we laid down. In particular, we may
 see in a clause of the thirty-ninth Psalm, how this saint was carried
 away by the vehemence of his grief, and unable to keep within bounds. “O
-spare me,47  <span id="fr_466"></span>[467](#fn_466) that I may recover
+spare me,47  <span id="fr_466"></span>[467](#fn_466.md) that I may recover
 strength, before I go hence, and be no more,” (<span
 id="iv.iii.xxi-p80.1"></span>[Ps.
-39:13](../../../bib/kjv/psa039.htm#013)<span
+39:13](../../../bib/kjv/psa039.htm#013.md)<span
 id="iv.iii.xxi-p80.1"></span>). You would call this the language of a
 desperate man, who had no other desire than that God should withdraw and
 leave him to relish in his distresses. Not that his devout mind rushes
@@ -1306,7 +1306,7 @@ are truly exercised in prayer feel that they bring scarcely a tenth of
 the sacrifice of which David speaks, “The sacrifices of God are a broken
 spirit: a broken and a contrite heart, O God, thou wilt not despise,”
 (<span id="iv.iii.xxi-p80.2"></span>[Ps.
-51:17](../../../bib/kjv/psa051.htm#017)<span
+51:17](../../../bib/kjv/psa051.htm#017.md)<span
 id="iv.iii.xxi-p80.2"></span>). Thus a twofold pardon is always to be
 asked; first, because they are conscious of many faults the sense of
 which, however, does not touch them so as to make them feel dissatisfied
@@ -1321,11 +1321,11 @@ extinguish their faith. The hardest of such trials is when believers are
 forced to exclaim, “O Lord God of hosts, how long wilt thou be angry
 against the prayer of thy people?” (<span
 id="iv.iii.xxi-p80.3"></span>[Ps.
-80:4](../../../bib/kjv/psa080.htm#004)<span
+80:4](../../../bib/kjv/psa080.htm#004.md)<span
 id="iv.iii.xxi-p80.3"></span>), as if their very prayers offended him.
 In like manner, when Jeremiah says “Also when I cry and shout, he
 shutteth out my prayers” (<span id="iv.iii.xxi-p80.4"></span>[Lam.
-3:8](../../../bib/kjv/lam003.htm#008)<span
+3:8](../../../bib/kjv/lam003.htm#008.md)<span
 id="iv.iii.xxi-p80.4"></span>), there cannot be a doubt that he was in
 the greatest perturbation. Innumerable examples of the same kind occur
 in the Scriptures, from which it is manifest that the faith of the
@@ -1350,15 +1350,15 @@ and keep their aim, though without immediately reaching it.
 <span id="iv.iii.xxi-p81"></span>17. But since no man is worthy to come
 forward in his own name, and appear in the presence of God, our heavenly
 Father, to relieve us at once from fear and shame, with which all must
-feel oppressed,47  <span id="fr_467"></span>[468](#fn_467) has given us
+feel oppressed,47  <span id="fr_467"></span>[468](#fn_467.md) has given us
 his Son, Jesus Christ our Lord, to be our Advocate and Mediator, that
 under his guidance we may approach securely, confiding that with him for
 our Intercessor nothing which we ask in his name will be denied to us,
 as there is nothing which the Father can deny to him (<span
 id="iv.iii.xxi-p82.1"></span>[1 Tim.
-2:5](../../../bib/kjv/ti1002.htm#005)<span
+2:5](../../../bib/kjv/ti1002.htm#005.md)<span
 id="iv.iii.xxi-p82.1"></span>; <span id="iv.iii.xxi-p82.2"></span>[1
-John 2:1](../../../bib/kjv/jo1002.htm#001)<span
+John 2:1](../../../bib/kjv/jo1002.htm#001.md)<span
 id="iv.iii.xxi-p82.2"></span>; see sec. 36, 37). To this it is necessary
 to refer all that we have previously taught concerning faith; because,
 as the promise gives us Christ as our Mediator, so, unless our hope of
@@ -1370,7 +1370,7 @@ a throne of dreadful glory into a throne of grace, as the Apostle
 teaches that thus we can “come boldly unto the throne of grace, that we
 may obtain mercy, and find grace to help in time of need,” (<span
 id="iv.iii.xxi-p82.3"></span>[Heb.
-4:16](../../../bib/kjv/heb004.htm#016)<span
+4:16](../../../bib/kjv/heb004.htm#016.md)<span
 id="iv.iii.xxi-p82.3"></span>). And as a rule has been laid down as to
 prayer, as a promise has been given that those who pray will be heard,
 so we are specially enjoined to pray in the name of Christ, the promise
@@ -1379,14 +1379,14 @@ ask in my name,” says our Saviour, “that will I do; that the Father may
 be glorified in the Son;” “Hitherto ye have asked nothing in my name;
 ask, and ye shall receive, that your joy may be full,” (<span
 id="iv.iii.xxi-p82.4"></span>[John
-14:13](../../../bib/kjv/joh014.htm#013)<span
+14:13](../../../bib/kjv/joh014.htm#013.md)<span
 id="iv.iii.xxi-p82.4"></span>; 16:24). Hence it is incontrovertibly
 clear that those who pray to God in any other name than that of Christ
 contumaciously falsify his orders, and regard his will as nothing, while
 they have no promise that they shall obtain. For, as Paul says “All the
 promises of God in him are yea, and in him amen;” (<span
 id="iv.iii.xxi-p82.5"></span>[2 Cor.
-1:20](../../../bib/kjv/co2001.htm#020)<span
+1:20](../../../bib/kjv/co2001.htm#020.md)<span
 id="iv.iii.xxi-p82.5"></span>), that is, are confirmed and fulfilled in
 him.
 
@@ -1394,7 +1394,7 @@ him.
 circumstance of time. Christ enjoins his disciples to have recourse to
 his intercession after he shall have ascended to heaven: “At that day ye
 shall ask in my name,” (<span id="iv.iii.xxi-p83.1"></span>[John
-16:26](../../../bib/kjv/joh016.htm#026)<span
+16:26](../../../bib/kjv/joh016.htm#026.md)<span
 id="iv.iii.xxi-p83.1"></span>). It is certain, indeed, that from the
 very first all who ever prayed were heard only for the sake of the
 Mediator. For this reason God had commanded in the Law, that the priest
@@ -1413,7 +1413,7 @@ the saints, when they desired to obtain any thing, founded their hopes
 on sacrifices, because they knew that by sacrifice all prayers were
 ratified: “Remember all thy offerings,” says David, “and accept thy
 burnt sacrifice,” (<span id="iv.iii.xxi-p83.2"></span>[Ps.
-20:3](../../../bib/kjv/psa020.htm#003)<span
+20:3](../../../bib/kjv/psa020.htm#003.md)<span
 id="iv.iii.xxi-p83.2"></span>). Hence we infer, that in receiving the
 prayers of his people, God was from the very first appeased by the
 intercession of Christ. Why then does Christ speak of a new period (“at
@@ -1432,8 +1432,8 @@ intercession they should invoke God with greater freedom. In this sense
 the Apostle says that we have “boldness to enter into the holiest by the
 blood of Jesus, by a new and living way, which he hath consecrated for
 us,” (<span id="iv.iii.xxi-p83.3"></span>[Heb.
-10:19](../../../bib/kjv/heb010.htm#019),
-[20](../../../bib/kjv/heb010.htm#020)<span
+10:19](../../../bib/kjv/heb010.htm#019.md),
+[20](../../../bib/kjv/heb010.htm#020.md)<span
 id="iv.iii.xxi-p83.3"></span>). Therefore, the more inexcusable we are,
 if we do not with both hands (as it is said) embrace the inestimable
 gift which is properly destined for us.
@@ -1447,15 +1447,15 @@ or turn aside from him in any way endeavour, as much as in them lies, to
 sully and efface the stamp which God has impressed. Christ, therefore,
 is the only Mediator by whose intercession the Father is rendered
 propitious and exorable (<span id="iv.iii.xxi-p84.1"></span>[1 Tim.
-2:5](../../../bib/kjv/ti1002.htm#005)<span
+2:5](../../../bib/kjv/ti1002.htm#005.md)<span
 id="iv.iii.xxi-p84.1"></span>). For though the saints are still
 permitted to use intercessions, by which they mutually beseech God in
 behalf of each others salvation, and of which the Apostle makes mention
 (<span id="iv.iii.xxi-p84.2"></span>[Eph.
-6:18](../../../bib/kjv/eph006.htm#018),
-[19](../../../bib/kjv/eph006.htm#019)<span
+6:18](../../../bib/kjv/eph006.htm#018.md),
+[19](../../../bib/kjv/eph006.htm#019.md)<span
 id="iv.iii.xxi-p84.2"></span>; <span id="iv.iii.xxi-p84.3"></span>[1
-Tim. 2:1](../../../bib/kjv/ti1002.htm#001)<span
+Tim. 2:1](../../../bib/kjv/ti1002.htm#001.md)<span
 id="iv.iii.xxi-p84.3"></span>); yet these depend on that one
 intercession, so far are they from derogating from it. For as the
 intercessions which, as members of one body we offer up for each other,
@@ -1485,17 +1485,17 @@ whose simplicity every pious man will be satisfied, without paying any
 regard to those importers. For when John says, “If any man sin, we have
 an advocate with the Father, Jesus Christ the righteous,” (<span
 id="iv.iii.xxi-p85.1"></span>[1 John
-2:1](../../../bib/kjv/jo1002.htm#001)<span
+2:1](../../../bib/kjv/jo1002.htm#001.md)<span
 id="iv.iii.xxi-p85.1"></span>), does he mean merely that we once had an
 advocate; does he not rather ascribe to him a perpetual intercession?
 What does Paul mean when he declares that he “is even at the right hand
 of God, who also maketh intercession for us”? (<span
 id="iv.iii.xxi-p85.2"></span>[Rom.
-8:32](../../../bib/kjv/rom008.htm#032)<span
+8:32](../../../bib/kjv/rom008.htm#032.md)<span
 id="iv.iii.xxi-p85.2"></span>). But when in another passage he declares
 that he is the only Mediator between God and man (<span
 id="iv.iii.xxi-p85.3"></span>[1 Tim.
-2:5](../../../bib/kjv/ti1002.htm#005)<span
+2:5](../../../bib/kjv/ti1002.htm#005.md)<span
 id="iv.iii.xxi-p85.3"></span>), is he not referring to the supplications
 which he had mentioned a little before? Having previously said that
 prayers were to be offered up for all men, he immediately adds, in
@@ -1520,12 +1520,12 @@ the other apostles, and thus there would be many mediators, and Paul’s
 statement could not stand, ‘There is one God, and one Mediator between
 God and men, the man Christ Jesus;’ in whom we also are one if we keep
 the unity of the faith in the bond of peace,”47  <span
-id="fr_468"></span>[469](#fn_468) (August. Contra Parmenian, Lib. 2 cap.
+id="fr_468"></span>[469](#fn_468.md) (August. Contra Parmenian, Lib. 2 cap.
 8). Likewise in another passage Augustine says, “If thou requirest a
 priest, he is above the heavens, where he intercedes for those who on
 earth died for thee,” (August. in <span
 id="iv.iii.xxi-p86.8"></span>[Ps.
-94](../../../bib/kjv/psa094.htm#000)<span id="iv.iii.xxi-p86.8"></span>)
+94](../../../bib/kjv/psa094.htm#000)<span id="iv.iii.xxi-p86.8"></span>.md)
 imagine not that he throws himself before his Father’s knees, and
 suppliantly intercedes for us; but we understand with the Apostle, that
 he appears in the presence of God, and that the power of his death has
@@ -1593,7 +1593,7 @@ just as if they had been tutelar deities. And thus not only were gods
 set up according to the number of the cities (the charge which the
 prophet brought against Israel of old, <span
 id="iv.iii.xxi-p88.1"></span>[Jer.
-2:28](../../../bib/kjv/jer002.htm#028)<span
+2:28](../../../bib/kjv/jer002.htm#028.md)<span
 id="iv.iii.xxi-p88.1"></span>; 11:13), but according to the number of
 individuals. But while the saints in all their desires refer to the will
 of God alone, look to it, and acquiesce in it, yet to assign to them any
@@ -1608,15 +1608,15 @@ forsake their proper station, that is, the word of God. I say nothing of
 the more monstrous specimens of impiety in which, though detestable to
 God, angels, and men, they themselves feel no pain or shame. Prostrated
 at a statue or picture of Barbara or Catherine, and the like, they
-mutter a *Pater Noster*;47  <span id="fr_469"></span>[470](#fn_469) and
-so far are their pastors47  <span id="fr_470"></span>[471](#fn_470) from
+mutter a *Pater Noster*;47  <span id="fr_469"></span>[470](#fn_469.md) and
+so far are their pastors47  <span id="fr_470"></span>[471](#fn_470.md) from
 curing or curbing this frantic course, that, allured by the scent of
 gain, they approve and applaud it. But while seeking to relieve
 themselves of the odium of this vile and criminal procedure, with what
 pretext can they defend the practice of calling upon Eloy (Eligius) or
 Medard to look upon their servants, and send them help from heaven, or
 the Holy Virgin to order her Son to do what they ask?47  <span
-id="fr_471"></span>[472](#fn_471) The Council of Carthage forbade direct
+id="fr_471"></span>[472](#fn_471.md) The Council of Carthage forbade direct
 prayer to be made at the altar to saints. It is probable that these holy
 men, unable entirely to suppress the force of depraved custom, had
 recourse to this check, that public prayers might not be vitiated with
@@ -1645,14 +1645,14 @@ pleased to give angels the charge of our safety. Hence they attend our
 sacred meetings, and the Church is to them a theatre in which they
 behold the manifold wisdom of God (<span
 id="iv.iii.xxi-p92.1"></span>[Eph.
-3:10](../../../bib/kjv/eph003.htm#010)<span
+3:10](../../../bib/kjv/eph003.htm#010.md)<span
 id="iv.iii.xxi-p92.1"></span>). Those who transfer to others this office
 which is peculiar to them, certainly pervert and confound the order
 which has been established by God and ought to be inviolable. With
 similar dexterity they proceed to quote other passages. God said to
 Jeremiah, “Though Moses and Samuel stood before me, yet my mind could
 not be toward this people,” (<span id="iv.iii.xxi-p92.2"></span>[Jer.
-15:1](../../../bib/kjv/jer015.htm#001)<span
+15:1](../../../bib/kjv/jer015.htm#001.md)<span
 id="iv.iii.xxi-p92.2"></span>). How (they ask) could he have spoken thus
 of the dead but because he knew that they interceded for the living? My
 inference, on the contrary, is this: since it thus appears that neither
@@ -1676,7 +1676,7 @@ them. This meaning is most clearly elicited from a similar passage in
 Ezekiel: “Though these three men, Noah, Daniel, and Job, were in it,
 they should deliver but their own souls by their righteousness, saith
 the Lord God,” (<span id="iv.iii.xxi-p92.3"></span>[Ezek.
-14:14](../../../bib/kjv/eze014.htm#014)<span
+14:14](../../../bib/kjv/eze014.htm#014.md)<span
 id="iv.iii.xxi-p92.3"></span>). Here there can be no doubt that we are
 to understand the words as if it had been said, If two of the persons
 named were again to come alive; for the third was still living, namely,
@@ -1686,7 +1686,7 @@ Scripture declares to have completed their course. Accordingly, when
 Paul speaks of David, he says not that by his prayers he assisted
 posterity, but only that he “served his own generation,” (<span
 id="iv.iii.xxi-p92.4"></span>[Acts
-13:36](../../../bib/kjv/act013.htm#036)<span
+13:36](../../../bib/kjv/act013.htm#036.md)<span
 id="iv.iii.xxi-p92.4"></span>).
 
 <span id="iv.iii.xxi-p93"></span>24. They again object, Are those, then,
@@ -1711,8 +1711,8 @@ of primary importance in prayer. But all such reasons are inapplicable
 to the dead, with whom the Lord, in withdrawing them from our society,
 has left us no means of intercourse (<span
 id="iv.iii.xxi-p93.1"></span>[Eccl.
-9:5](../../../bib/kjv/ecc009.htm#005),
-[6](../../../bib/kjv/ecc009.htm#006)<span
+9:5](../../../bib/kjv/ecc009.htm#005.md),
+[6](../../../bib/kjv/ecc009.htm#006.md)<span
 id="iv.iii.xxi-p93.1"></span>), and to whom, so far as we can
 conjecture, he has left no means of intercourse with us. But if any one
 allege that they certainly must retain the same charity for us, as they
@@ -1735,7 +1735,7 @@ which they employ to defend their error are miserably wrested. Jacob
 (they say) asks for the sons of Joseph, “Let my name be named on them,
 and the name of my fathers, Abraham and Isaac,” (<span
 id="iv.iii.xxi-p94.1"></span>[Gen.
-48:16](../../../bib/kjv/gen048.htm#016)<span
+48:16](../../../bib/kjv/gen048.htm#016.md)<span
 id="iv.iii.xxi-p94.1"></span>). First, let us see what the nature of
 this invocation was among the Israelites. They do not implore their
 fathers to bring succour to them, but they beseech God to remember his
@@ -1748,7 +1748,7 @@ it. The expression repeatedly occurs in Scripture. Isaiah speaks of
 women being called by the name of men, when they have them for husbands
 and live under their protection (<span
 id="iv.iii.xxi-p94.2"></span>[Isa.
-4:1](../../../bib/kjv/isa004.htm#001)<span
+4:1](../../../bib/kjv/isa004.htm#001.md)<span
 id="iv.iii.xxi-p94.2"></span>). The calling of the name of Abraham over
 the Israelites consists in referring the origin of their race to him,
 and holding him in distinguished remembrance as their author and parent.
@@ -1767,7 +1767,7 @@ fathers, the public voice of the Church declares in the prophets
 “Doubtless thou art our Father, though Abraham be ignorant of us, and
 Israel acknowledge us not; thou, O Lord, art our Father, our Redeemer,”
 (<span id="iv.iii.xxi-p94.3"></span>[Isa.
-63:16](../../../bib/kjv/isa063.htm#016)<span
+63:16](../../../bib/kjv/isa063.htm#016.md)<span
 id="iv.iii.xxi-p94.3"></span>). And while the Church thus speaks, she at
 the same time adds, “Return for thy servants’ sake,” not thinking of any
 thing like intercession, but adverting only to the benefit of the
@@ -1776,9 +1776,9 @@ eternal covenant of mercy was not only made but confirmed, what better
 name can we bear before us in our prayers? And since those good Doctors
 would make out by these words that the Patriarchs are intercessors, I
 should like them to tell me why, in so great a multitude,47  <span
-id="fr_472"></span>[473](#fn_472) no place whatever is given to Abraham,
+id="fr_472"></span>[473](#fn_472.md) no place whatever is given to Abraham,
 the father of the Church? We know well from what a crew they select
-their intercessors.48  <span id="fr_473"></span>[474](#fn_473) Let them
+their intercessors.48  <span id="fr_473"></span>[474](#fn_473.md) Let them
 then tell me what consistency there is in neglecting and rejecting
 Abraham, whom God preferred to all others, and raised to the highest
 degree of honour. The only reason is, that as it was plain there was no
@@ -1788,7 +1788,7 @@ mere diversity of names they could excuse a practice at once novel and
 impure. They sometimes, also, object that God is entreated to have mercy
 on his people “for David’s sake,” (<span
 id="iv.iii.xxi-p96.1"></span>[Ps.
-132:10](../../../bib/kjv/psa132.htm#010)<span
+132:10](../../../bib/kjv/psa132.htm#010.md)<span
 id="iv.iii.xxi-p96.1"></span>; see Calv. Com). This is so far from
 supporting their error, that it is the strongest refutation of it. We
 must consider the character which David bore. He is set apart from the
@@ -1803,7 +1803,7 @@ fact, that the prayers of saints are often said to have been heard. Why?
 Because they prayed. “They cried unto thee,” (says the Psalmist), “and
 were delivered: they trusted in thee, and were not confounded,” (<span
 id="iv.iii.xxi-p97.1"></span>[Ps.
-22:5](../../../bib/kjv/psa022.htm#005)<span
+22:5](../../../bib/kjv/psa022.htm#005.md)<span
 id="iv.iii.xxi-p97.1"></span>). Let us also pray after their example,
 that like them we too may be heard. Those men, on the contrary, absurdly
 argue that none will be heard but those who have been heard already. How
@@ -1812,8 +1812,8 @@ as we are, and he prayed earnestly that it might not rain: and it rained
 not on the earth by the space of three years and six months. And he
 prayed again and the heaven gave rain, and the earth brought forth her
 fruit.” (<span id="iv.iii.xxi-p97.2"></span>[Jas.
-5:17](../../../bib/kjv/jam005.htm#017),
-[18](../../../bib/kjv/jam005.htm#018)<span
+5:17](../../../bib/kjv/jam005.htm#017.md),
+[18](../../../bib/kjv/jam005.htm#018.md)<span
 id="iv.iii.xxi-p97.2"></span>). What? Does he infer that Elias possessed
 some peculiar privilege, and that we must have recourse to him for the
 use of it? By no means. He shows the perpetual efficacy of a pure and
@@ -1828,22 +1828,22 @@ repeatedly delivered by the power of God. Was this to give that power to
 him that we might be delivered on his application? Very different is his
 affirmation: “The righteous shall compass me about; for thou shalt deal
 bountifully with me,” (<span id="iv.iii.xxi-p97.3"></span>[Ps.
-142:7](../../../bib/kjv/psa142.htm#007)<span
+142:7](../../../bib/kjv/psa142.htm#007.md)<span
 id="iv.iii.xxi-p97.3"></span>). Again, “The righteous also shall see,
 and fear, and shall laugh at him,” (<span
 id="iv.iii.xxi-p97.4"></span>[Ps.
-52:6](../../../bib/kjv/psa052.htm#006)<span
+52:6](../../../bib/kjv/psa052.htm#006.md)<span
 id="iv.iii.xxi-p97.4"></span>). “This poor man cried, and the Lord heard
 him, and saved him out of all his troubles,” (<span
 id="iv.iii.xxi-p97.5"></span>[Ps.
-34:6](../../../bib/kjv/psa034.htm#006)<span
+34:6](../../../bib/kjv/psa034.htm#006.md)<span
 id="iv.iii.xxi-p97.5"></span>). In The Psalms are many similar prayers,
 in which David calls upon God to give him what he asks, for this
 reason—viz. that the righteous may not be put to shame, but by his
 example encouraged to hope. Here let one passage suffice, “For this
 shall every one that is godly pray unto thee in a time when thou mayest
 be found,” (<span id="iv.iii.xxi-p97.6"></span>[Ps.
-32:6](../../../bib/kjv/psa032.htm#006)<span
+32:6](../../../bib/kjv/psa032.htm#006.md)<span
 id="iv.iii.xxi-p97.6"></span>, Calv. Com). This passage I have quoted
 the more readily, because those ravers who employ their hireling tongues
 in defense of the Papacy, are not ashamed to adduce it in proof of the
@@ -1859,7 +1859,7 @@ the same thing by his own example, “I am not worthy of the least of all
 thy mercies, and of all the truth which thou hast showed unto thy
 servant: for with my staff l passed over this Jordan; and now I am
 become two bands,” (<span id="iv.iii.xxi-p97.7"></span>[Gen.
-32:10](../../../bib/kjv/gen032.htm#010)<span
+32:10](../../../bib/kjv/gen032.htm#010.md)<span
 id="iv.iii.xxi-p97.7"></span>). He indeed alleges the promise, but not
 the promise only; for he at the same time adds the effect, to animate
 him with greater confidence in the future kindness of God. God is not
@@ -1867,7 +1867,7 @@ like men who grow weary of their liberality, or whose means of
 exercising it become exhausted; but he is to be estimated by his own
 nature, as David properly does when he says, “Thou hast redeemed me, O
 Lord God of truth,” (<span id="iv.iii.xxi-p97.8"></span>[Ps
-31:5](../../../bib/kjv/psa031.htm#005)<span
+31:5](../../../bib/kjv/psa031.htm#005.md)<span
 id="iv.iii.xxi-p97.8"></span>). After ascribing the praise of his
 salvation to God, he adds that he is true: for were he not ever like
 himself, his past favour would not be an infallible ground for
@@ -1882,8 +1882,8 @@ sacrifices), it is manifest sacrilege to offer prayer to others. Hence
 it is said in the psalm: “If we have forgotten the name of our God, or
 stretched out our hands to a strange god, shall not God search this
 out?” (<span id="iv.iii.xxi-p98.1"></span>[Ps.
-44:20](../../../bib/kjv/psa044.htm#020),
-[21](../../../bib/kjv/psa044.htm#021)<span
+44:20](../../../bib/kjv/psa044.htm#020.md),
+[21](../../../bib/kjv/psa044.htm#021.md)<span
 id="iv.iii.xxi-p98.1"></span>). Again, since it is only in faith that
 God desires to be invoked, and he distinctly enjoins us to frame our
 prayers according to the rule of his word: in fine, since faith is
@@ -1903,7 +1903,7 @@ to offer up mutual prayers; but says not one syllable concerning the
 dead; nay, James tacitly excludes the dead when he combines the two
 things, to “confess our sins one to another, and to pray one for
 another,” (<span id="iv.iii.xxi-p98.2"></span>[James
-5:16](../../../bib/kjv/jam005.htm#016)<span
+5:16](../../../bib/kjv/jam005.htm#016.md)<span
 id="iv.iii.xxi-p98.2"></span>). Hence it is sufficient to condemn this
 error, that the beginning of right prayer springs from faith, and that
 faith comes by the hearing of the word of God, in which there is no
@@ -1926,7 +1926,7 @@ confined to vows and supplications, yet so strong is the affinity
 between petition and thanksgiving, that both may be conveniently
 comprehended under one name. For the forms which Paul enumerates (<span
 id="iv.iii.xxi-p99.1"></span>[1 Tim.
-2:1](../../../bib/kjv/ti1002.htm#001)<span
+2:1](../../../bib/kjv/ti1002.htm#001.md)<span
 id="iv.iii.xxi-p99.1"></span>) fall under the first member of this
 division. By prayer and supplication we pour out our desires before God,
 asking as well those things which tend to promote his glory and display
@@ -1936,7 +1936,7 @@ his liberality every blessing which enters into our lot. David
 accordingly includes both in one sentence, “Call upon me in the day of
 trouble: I will deliver thee, and thou shalt glorify me,” (<span
 id="iv.iii.xxi-p99.2"></span>[Ps.
-50:15](../../../bib/kjv/psa050.htm#015)<span
+50:15](../../../bib/kjv/psa050.htm#015.md)<span
 id="iv.iii.xxi-p99.2"></span>). Scripture, not without reason, commands
 us to use both continually. We have already described the greatness of
 our want, while experience itself proclaims the straits which press us
@@ -1961,10 +1961,10 @@ assistance. God has pronounced a curse upon all who, confiding in
 themselves or others, form plans and resolutions, who, without regarding
 his will, or invoking his aid, either plan or attempt to execute (<span
 id="iv.iii.xxi-p99.3"></span>[James
-4:14](../../../bib/kjv/jam004.htm#014)<span
+4:14](../../../bib/kjv/jam004.htm#014.md)<span
 id="iv.iii.xxi-p99.3"></span>; <span
 id="iv.iii.xxi-p99.4"></span>[Isaiah
-30:1](../../../bib/kjv/isa030.htm#001)<span
+30:1](../../../bib/kjv/isa030.htm#001.md)<span
 id="iv.iii.xxi-p99.4"></span>; 31:1). And since, as has already been
 observed, he receives the honour which is due when he is acknowledged to
 be the author of all good, it follows that, in deriving all good from
@@ -1974,49 +1974,49 @@ we do not assiduously proclaim his praise, and give him thanks, these
 being the ends for which they are given. When Paul declares that every
 creature of God “is sanctified by the word of God and prayers” (<span
 id="iv.iii.xxi-p99.5"></span>[1 Tim.
-4:5](../../../bib/kjv/ti1004.htm#005)<span
+4:5](../../../bib/kjv/ti1004.htm#005.md)<span
 id="iv.iii.xxi-p99.5"></span>), he intimates that without the word and
 prayers none of them are holy and pure, *word* being used metonymically
 for *faith*. Hence David, on experiencing the loving-kindness of the
 Lord, elegantly declares, “He hath put a new song in my mouth,” (<span
 id="iv.iii.xxi-p99.6"></span>[Ps.
-40:3](../../../bib/kjv/psa040.htm#003)<span
+40:3](../../../bib/kjv/psa040.htm#003.md)<span
 id="iv.iii.xxi-p99.6"></span>); intimating, that our silence is
 malignant when we leave his blessings unpraised, seeing every blessing
 he bestows is a new ground of thanksgiving. Thus Isaiah, proclaiming the
 singular mercies of God, says, “Sing unto the Lord a new song (<span
 id="iv.iii.xxi-p99.7"></span>[Is.
-42:10](../../../bib/kjv/isa042.htm#010)<span
+42:10](../../../bib/kjv/isa042.htm#010.md)<span
 id="iv.iii.xxi-p99.7"></span>).” In the same sense David says in another
 passage, “O Lord, open thou my lips; and my mouth shall show forth thy
 praise,” (<span id="iv.iii.xxi-p99.8"></span>[Ps.
-51:15](../../../bib/kjv/psa051.htm#015)<span
+51:15](../../../bib/kjv/psa051.htm#015.md)<span
 id="iv.iii.xxi-p99.8"></span>). In like manner, Hezekiah and Jonah
 declare that they will regard it as the end of their deliverance “to
 celebrate the goodness of God with songs in his temple,” (<span
 id="iv.iii.xxi-p99.9"></span>[Is.
-38:20](../../../bib/kjv/isa038.htm#020)<span
+38:20](../../../bib/kjv/isa038.htm#020.md)<span
 id="iv.iii.xxi-p99.9"></span>; <span
 id="iv.iii.xxi-p99.10"></span>[Jonah
-2:10](../../../bib/kjv/jon002.htm#010)<span
+2:10](../../../bib/kjv/jon002.htm#010.md)<span
 id="iv.iii.xxi-p99.10"></span>). David lays down a general rule for all
 believers in these words, “What shall I render unto the Lord for all his
 benefits toward me? I will take the cup of salvation, and call upon the
 name of the Lord,” (<span id="iv.iii.xxi-p99.11"></span>[Ps.
-116:12](../../../bib/kjv/psa116.htm#012),
-[13](../../../bib/kjv/psa116.htm#013)<span
+116:12](../../../bib/kjv/psa116.htm#012.md),
+[13](../../../bib/kjv/psa116.htm#013.md)<span
 id="iv.iii.xxi-p99.11"></span>). This rule the Church follows in another
 psalm, “Save us, O Lord our God, and gather us from among the heathen,
 to give thanks unto thy holy name, and to triumph in thy praise,” (<span
 id="iv.iii.xxi-p99.12"></span>[Ps.
-106:47](../../../bib/kjv/psa106.htm#047)<span
+106:47](../../../bib/kjv/psa106.htm#047.md)<span
 id="iv.iii.xxi-p99.12"></span>). Again, “He will regard the prayer of
 the destitute, and not despise their prayer. This shall be written for
 the generation to come: and the people which shall be created shall
 praise the Lord.” “To declare the name of the Lord in Zion, and his
 praise in Jerusalem,” (<span id="iv.iii.xxi-p99.13"></span>[Ps.
-102:18](../../../bib/kjv/psa102.htm#018),
-[21](../../../bib/kjv/psa102.htm#021)<span
+102:18](../../../bib/kjv/psa102.htm#018.md),
+[21](../../../bib/kjv/psa102.htm#021.md)<span
 id="iv.iii.xxi-p99.13"></span>). Nay, whenever believers beseech the
 Lord to do anything *for his own name’s sake*, as they declare
 themselves unworthy of obtaining it in their own name, so they oblige
@@ -2025,23 +2025,23 @@ lovingkindness by being the heralds of it. Thus Hosea, speaking of the
 future redemption of the Church, says, “Take away all iniquity, and
 receive us graciously; so will we render the calves of our lips,” (<span
 id="iv.iii.xxi-p99.14"></span>[Hos.
-14:2](../../../bib/kjv/hos014.htm#002)<span
+14:2](../../../bib/kjv/hos014.htm#002.md)<span
 id="iv.iii.xxi-p99.14"></span>). Not only do our tongues proclaim the
 kindness of God, but they naturally inspire us with love to him. “I love
 the Lord, because he hath heard my voice and my supplications,” (<span
 id="iv.iii.xxi-p99.15"></span>[Ps.
-116:1](../../../bib/kjv/psa116.htm#001)<span
+116:1](../../../bib/kjv/psa116.htm#001.md)<span
 id="iv.iii.xxi-p99.15"></span>). In another passage, speaking of the
 help which he had experienced, he says, “I will love thee, O Lord, my
 strength,” (<span id="iv.iii.xxi-p99.16"></span>[Ps.
-18:1](../../../bib/kjv/psa018.htm#001)<span
+18:1](../../../bib/kjv/psa018.htm#001.md)<span
 id="iv.iii.xxi-p99.16"></span>). No praise will ever please God that
 does not flow from this feeling of love. Nay, we must attend to the
 declaration of Paul, that all wishes are vicious and perverse which are
 not accompanied with thanksgiving. His words are, “In everything by
 prayer and supplication with thanksgiving let your requests be made
 known unto God,” (<span id="iv.iii.xxi-p99.17"></span>[Phil.
-4:6](../../../bib/kjv/phi004.htm#006)<span
+4:6](../../../bib/kjv/phi004.htm#006.md)<span
 id="iv.iii.xxi-p99.17"></span>). Because many, under the influence of
 moroseness, weariness, impatience, bitter grief and fear, use murmuring
 in their prayers, he enjoins us so to regulate our feelings as
@@ -2053,15 +2053,15 @@ already shown that our prayers, which otherwise would be polluted) are
 sanctified by the intercession of Christ, so the Apostle, by enjoining
 us “to offer the sacrifice of praise to God continually” by Christ
 (<span id="iv.iii.xxi-p99.18"></span>[Heb.
-13:15](../../../bib/kjv/heb013.htm#015)<span
+13:15](../../../bib/kjv/heb013.htm#015.md)<span
 id="iv.iii.xxi-p99.18"></span>), reminds us, that without the
 intervention of his priesthood our lips are not pure enough to celebrate
 the name of God. Hence we infer that a monstrous delusion prevails among
 Papists, the great majority of whom wonder when Christ is called an
 intercessor. The reason why Paul enjoins, “Pray without ceasing; in
 every thing give thanks,” (<span id="iv.iii.xxi-p99.19"></span>[1 Thess.
-5:17](../../../bib/kjv/th1005.htm#017),
-[18](../../../bib/kjv/th1005.htm#018)<span
+5:17](../../../bib/kjv/th1005.htm#017.md),
+[18](../../../bib/kjv/th1005.htm#018.md)<span
 id="iv.iii.xxi-p99.19"></span>), is, because he would have us with the
 utmost assiduity, at all times, in every place, in all things, and under
 all circumstances, direct our prayers to God, to expect all the things
@@ -2078,7 +2078,7 @@ hours which, though indifferent in regard to God, are necessary for the
 use of man, that the general convenience may be consulted, and all
 things be done in the Church, as Paul enjoins, “decently and in order,”
 (<span id="iv.iii.xxi-p100.1"></span>[1 Cor.
-14:40](../../../bib/kjv/co1014.htm#040)<span
+14:40](../../../bib/kjv/co1014.htm#040.md)<span
 id="iv.iii.xxi-p100.1"></span>). But there is nothing in this to prevent
 each church from being now and then stirred up to a more frequent use of
 prayer and being more zealously affected under the impulse of some
@@ -2087,7 +2087,7 @@ assiduity, we shall speak towards the close of the chapter (sec. 51,
 52). This assiduity, moreover, is very different from the βαττολογίαν,
 *vain speaking*, which our Saviour has prohibited (<span
 id="iv.iii.xxi-p100.2"></span>[Mt.
-6:7](../../../bib/kjv/mat006.htm#007)<span
+6:7](../../../bib/kjv/mat006.htm#007.md)<span
 id="iv.iii.xxi-p100.2"></span>). For he does not there forbid us to pray
 long or frequently, or with great fervor, but warns us against supposing
 that we can extort anything from God by importuning him with garrulous
@@ -2100,7 +2100,7 @@ gain a reputation for sanctity by his prayers. Hence that *vain
 speaking*, which for a similar reason prevails so much in the Papacy in
 the present day, some vainly spinning out the time by a reiteration of
 the same frivolous prayers, and others employing a long series of
-verbiage for vulgar display.48  <span id="fr_474"></span>[475](#fn_474)
+verbiage for vulgar display.48  <span id="fr_474"></span>[475](#fn_474.md)
 This childish garrulity being a mockery of God, it is not strange that
 it is prohibited in the Church, in order that every feeling there
 expressed may be sincere, proceeding from the inmost heart. Akin to this
@@ -2117,7 +2117,7 @@ lay down the best rule for prayer, his injunction was, “Enter into thy
 closet, and when thou hast shut thy door, pray to thy Father which is in
 secret, and thy Father which seeth in secret shall reward thee openly,”
 (<span id="iv.iii.xxi-p101.1"></span>[Mt.
-6:6](../../../bib/kjv/mat006.htm#006)<span
+6:6](../../../bib/kjv/mat006.htm#006.md)<span
 id="iv.iii.xxi-p101.1"></span>). Dissuading us from the example of
 hypocrites, who sought the applause of men by an ambitious ostentation
 in prayer, he adds the better course—enter thy chamber, shut thy door,
@@ -2137,7 +2137,7 @@ to wander, to become sincerely intent on prayer. Meanwhile, as he
 abstained not from prayer when the occasion required it, though he were
 in the midst of a crowd, so must we, whenever there is need, lift up
 “pure hands” (<span id="iv.iii.xxi-p101.2"></span>[1 Tim.
-2:8](../../../bib/kjv/ti1002.htm#008)<span
+2:8](../../../bib/kjv/ti1002.htm#008.md)<span
 id="iv.iii.xxi-p101.2"></span>) at all places. And hence we must hold
 that he who declines to pray in the public meeting of the saints, knows
 not what it is to pray apart, in retirement, or at home. On the other
@@ -2148,15 +2148,15 @@ of God. Still, lest the public prayers of the Church should be held in
 contempt, the Lord anciently bestowed upon them the most honourable
 appellation, especially when he called the temple the “*house of
 prayer*,” (<span id="iv.iii.xxi-p101.3"></span>[Isa.
-56:7](../../../bib/kjv/isa056.htm#007)<span
+56:7](../../../bib/kjv/isa056.htm#007.md)<span
 id="iv.iii.xxi-p101.3"></span>). For by this expression he both showed
 that the duty of prayer is a principal part of his worship, and that to
 enable believers to engage in it with one consent his temple is set up
 before them as a kind of banner. A noble promise was also added, “Praise
 waiteth for thee, O God, in Sion: and unto thee shall the vow be
-performed,”48  <span id="fr_475"></span>[476](#fn_475) (<span
+performed,”48  <span id="fr_475"></span>[476](#fn_475.md) (<span
 id="iv.iii.xxi-p102.1"></span>[Ps.
-65:1](../../../bib/kjv/psa065.htm#001)<span
+65:1](../../../bib/kjv/psa065.htm#001.md)<span
 id="iv.iii.xxi-p102.1"></span>). By these words the Psalmist reminds us
 that the prayers of the Church are never in vain; because God always
 furnishes his people with materials for a song of joy. But although the
@@ -2173,12 +2173,12 @@ observance have no ground for the pretext, that they enter their chamber
 in order that they may obey the command of the Lord. For he who promises
 to grant whatsoever two or three assembled in his name shall ask (<span
 id="iv.iii.xxi-p103.1"></span>[Mt.
-18:20](../../../bib/kjv/mat018.htm#020)<span
+18:20](../../../bib/kjv/mat018.htm#020.md)<span
 id="iv.iii.xxi-p103.1"></span>), declares, that he by no means despises
 the prayers which are publicly offered up, provided there be no
 ostentation, or catching at human applause, and provided there be a true
 and sincere affection in the secret recesses of the heart.48  <span
-id="fr_476"></span>[477](#fn_476) If this is the legitimate use of
+id="fr_476"></span>[477](#fn_476.md) If this is the legitimate use of
 churches (and it certainly is), we must, on the other hand, beware of
 imitating the practice which commenced some centuries ago, of imagining
 that churches are the proper dwellings of God, where he is more ready to
@@ -2188,7 +2188,7 @@ of God, we must pray in ourselves if we would invoke God in his holy
 temple. Let us leave such gross ideas to the Jews or the heathen,
 knowing that we have a command to pray without distinction of place, “in
 spirit and in truth,” (<span id="iv.iii.xxi-p104.1"></span>[John
-4:23](../../../bib/kjv/joh004.htm#023)<span
+4:23](../../../bib/kjv/joh004.htm#023.md)<span
 id="iv.iii.xxi-p104.1"></span>). It is true that by the order of God the
 temple was anciently dedicated for the offering of prayers and
 sacrifices, but this was at a time when the truth (which being now fully
@@ -2199,10 +2199,10 @@ meant to train them to contemplate the image of the true temple.
 Accordingly, a severe rebuke is administered both by Isaiah and Stephen,
 to those who thought that God could in any way dwell in temples made
 with hands (<span id="iv.iii.xxi-p104.2"></span>[Isa.
-66:2](../../../bib/kjv/isa066.htm#002)<span
+66:2](../../../bib/kjv/isa066.htm#002.md)<span
 id="iv.iii.xxi-p104.2"></span>; <span
 id="iv.iii.xxi-p104.3"></span>[Acts
-7:48](../../../bib/kjv/act007.htm#048)<span
+7:48](../../../bib/kjv/act007.htm#048.md)<span
 id="iv.iii.xxi-p104.3"></span>).
 
 <span id="iv.iii.xxi-p105"></span>31. Hence it is perfectly clear that
@@ -2219,7 +2219,7 @@ therefore, behold, I will proceed to do a marvellous work among this
 people, even a marvellous work and a wonder: for the wisdom of their
 wise men shall perish, and the understanding of their prudent men shall
 be hid,” (<span id="iv.iii.xxi-p105.1"></span>[Isa.
-29:13](../../../bib/kjv/isa029.htm#013)<span
+29:13](../../../bib/kjv/isa029.htm#013.md)<span
 id="iv.iii.xxi-p105.1"></span>). Still we do not condemn words or
 singing, but rather greatly commend them, provided the feeling of the
 mind goes along with them. For in this way the thought of God is kept
@@ -2241,12 +2241,12 @@ singing in churches (which I may mention in passing) is not only very
 ancient, but was also used by the Apostles, as we may gather from the
 words of Paul, “I will sing with the spirit, and I will sing with the
 understanding also,” (<span id="iv.iii.xxi-p106.1"></span>[1 Cor.
-14:15](../../../bib/kjv/co1014.htm#015)<span
+14:15](../../../bib/kjv/co1014.htm#015.md)<span
 id="iv.iii.xxi-p106.1"></span>). In like manner he says to the
 Colossians, “Teaching and admonishing one another in psalms, and hymns,
 and spiritual songs, singing with grace in your hearts to the Lord,”
 (<span id="iv.iii.xxi-p106.2"></span>[Col.
-3:16](../../../bib/kjv/col003.htm#016)<span
+3:16](../../../bib/kjv/col003.htm#016.md)<span
 id="iv.iii.xxi-p106.2"></span>). In the former passage, he enjoins us to
 sing with the voice and the heart; in the latter, he commends spiritual
 Songs, by which the pious mutually edify each other. That it was not an
@@ -2254,17 +2254,17 @@ universal practice, however, is attested by Augustine (Confess. Lib. 9
 cap. 7), who states that the church of Milan first began to use singing
 in the time of Ambrose, when the orthodox faith being persecuted by
 Justina, the mother of Valentinian, the vigils of the people were more
-frequent than usual;48  <span id="fr_477"></span>[478](#fn_477) and that
+frequent than usual;48  <span id="fr_477"></span>[478](#fn_477.md) and that
 the practice was afterwards followed by the other Western churches. He
 had said a little before that the custom came from the East.48  <span
-id="fr_478"></span>[479](#fn_478) He also intimates (Retract. Lib. 2)
+id="fr_478"></span>[479](#fn_478) He also intimates (Retract. Lib. 2.md)
 that it was received in Africa in his own time. His words are,
 “Hilarius, a man of tribunitial rank, assailed with the bitterest
 invectives he could use the custom which then began to exist at
 Carthage, of singing hymns from the book of Psalms at the altar, either
 before the oblation, or when it was distributed to the people; I
 answered him, at the request of my brethren.”48  <span
-id="fr_479"></span>[480](#fn_479) And certainly if singing is tempered
+id="fr_479"></span>[480](#fn_479.md) And certainly if singing is tempered
 to a gravity befitting the presence of God and angels, it both gives
 dignity and grace to sacred actions, and has a very powerful tendency to
 stir up the mind to true zeal and ardor in prayer. We must, however,
@@ -2275,7 +2275,7 @@ him wish for the introduction of a practice observed by Athanasius, who
 ordered the reader to use only a gentle inflection of the voice, more
 akin to recitation than singing. But on again considering how many
 advantages were derived from singing, he inclined to the other side.48
- <span id="fr_480"></span>[481](#fn_480) If this moderation is used,
+ <span id="fr_480"></span>[481](#fn_480.md) If this moderation is used,
 there cannot be a doubt that the practice is most sacred and salutary.
 On the other hand, songs composed merely to tickle and delight the ear
 are unbecoming the majesty of the Church, and cannot but be most
@@ -2294,14 +2294,14 @@ spirit, how shall he that occupieth the room of the unlearned say, Amen,
 at thy giving of thanks, seeing he understandeth not what thou sayest?
 For thou verily givest thanks, but the other is not edified,” (<span
 id="iv.iii.xxi-p111.1"></span>[1 Cor.
-14:16](../../../bib/kjv/co1014.htm#016),
-[17](../../../bib/kjv/co1014.htm#017)<span
+14:16](../../../bib/kjv/co1014.htm#016.md),
+[17](../../../bib/kjv/co1014.htm#017.md)<span
 id="iv.iii.xxi-p111.1"></span>). How then can one sufficiently admire
 the unbridled license of the Papists, who, while the Apostle publicly
 protests against it, hesitate not to bawl out the most verbose prayers
 in a foreign tongue, prayers of which they themselves sometimes do not
 understand one syllable, and which they have no wish that others should
-understand?48  <span id="fr_481"></span>[482](#fn_481) Different is the
+understand?48  <span id="fr_481"></span>[482](#fn_481.md) Different is the
 course which Paul prescribes, “What is it then? I will pray with the
 spirit, and I will pray with the understanding also; I will sing with
 the spirit, and I will sing with the understanding also:” meaning by the
@@ -2318,13 +2318,13 @@ although the best prayers are sometimes without utterance, yet when the
 feeling of the mind is overpowering, the tongue spontaneously breaks
 forth into utterance, and our other members into gesture. Hence that
 dubious muttering of Hannah (<span id="iv.iii.xxi-p112.1"></span>[1 Sam.
-1:13](../../../bib/kjv/sa1001.htm#013)<span
+1:13](../../../bib/kjv/sa1001.htm#013.md)<span
 id="iv.iii.xxi-p112.1"></span>), something similar to which is
 experienced by all the saints when concise and abrupt expressions escape
 from them. The bodily gestures usually observed in prayer, such as
 kneeling and uncovering of the head (Calv. in <span
 id="iv.iii.xxi-p112.2"></span>[Acts
-20:36](../../../bib/kjv/act020.htm#036)<span
+20:36](../../../bib/kjv/act020.htm#036.md)<span
 id="iv.iii.xxi-p112.2"></span>), are exercises by which we attempt to
 rise to higher veneration of God.
 
@@ -2333,10 +2333,10 @@ surer method, but also form of prayer, that, namely, which our heavenly
 Father has delivered to us by his beloved Son, and in which we may
 recognize his boundless goodness and condescension (<span
 id="iv.iii.xxi-p113.1"></span>[Mt.
-6:9](../../../bib/kjv/mat006.htm#009)<span
+6:9](../../../bib/kjv/mat006.htm#009.md)<span
 id="iv.iii.xxi-p113.1"></span>; <span
 id="iv.iii.xxi-p113.2"></span>[Luke
-11:2](../../../bib/kjv/luk011.htm#002)<span
+11:2](../../../bib/kjv/luk011.htm#002.md)<span
 id="iv.iii.xxi-p113.2"></span>). Besides admonishing and exhorting us to
 seek him in our every necessity (as children are wont to betake
 themselves to the protection of their parents when oppressed with any
@@ -2360,7 +2360,7 @@ at the same time, he reminds us of our unhappy condition in not being
 able to open our lips before God without dangers unless his Spirit
 instruct us how to pray aright (<span
 id="iv.iii.xxi-p113.3"></span>[Rom.
-8:26](../../../bib/kjv/rom008.htm#026)<span
+8:26](../../../bib/kjv/rom008.htm#026.md)<span
 id="iv.iii.xxi-p113.3"></span>). The higher value, therefore, ought we
 to set on the privilege, when the only begotten Son of God puts words
 into our lips, and thus relieves our minds of all hesitation.
@@ -2372,9 +2372,9 @@ the Evangelist, who appears to have intended to unite the two members
 together; as if he had said, Do not allow us to be overcome by
 temptation, but rather bring assistance to our frailty, and deliver us
 that we may not fall. Ancient writers48  <span
-id="fr_482"></span>[483](#fn_482) also agree with us, that what is added
+id="fr_482"></span>[483](#fn_482.md) also agree with us, that what is added
 by Matthew as a seventh head is to be considered as explanatory of the
-sixth petition.49  <span id="fr_483"></span>[484](#fn_483) But though in
+sixth petition.49  <span id="fr_483"></span>[484](#fn_483.md) But though in
 every part of the prayer the first place is assigned to the glory of
 God, still this is more especially the object of the three first
 petitions, in which we are to look to the glory of God alone, without
@@ -2397,10 +2397,10 @@ did not count it grievous to turn away their eyes and minds from
 themselves, and with intense and fervent zeal long for death, if by
 their loss the kingdom and glory of God might be promoted (<span
 id="iv.iii.xxi-p116.1"></span>[Exod.
-32:32](../../../bib/kjv/exo032.htm#032)<span
+32:32](../../../bib/kjv/exo032.htm#032.md)<span
 id="iv.iii.xxi-p116.1"></span>; <span
 id="iv.iii.xxi-p116.2"></span>[Rom.
-9:3](../../../bib/kjv/rom009.htm#003)<span
+9:3](../../../bib/kjv/rom009.htm#003.md)<span
 id="iv.iii.xxi-p116.2"></span>). On the other hand, when we ask for
 daily bread, although we desire what is advantageous for ourselves, we
 ought also especially to seek the glory of God, so much so that we would
@@ -2422,7 +2422,7 @@ becomes ours by adoption, if we embrace this great mercy with firm
 faith. As John says, “As many as received him, to them gave he power to
 become the sons of God, even to them that believe in his name,” (<span
 id="iv.iii.xxi-p118.1"></span>[John
-1:12](../../../bib/kjv/joh001.htm#012)<span
+1:12](../../../bib/kjv/joh001.htm#012.md)<span
 id="iv.iii.xxi-p118.1"></span>). Hence he both calls himself our Father,
 and is pleased to be so called by us, by this delightful name relieving
 us of all distrust, since no where can a stronger affection be found
@@ -2431,22 +2431,22 @@ testimony of his boundless love than in calling us his sons. But his
 love towards us is so much the greater and more excellent than that of
 earthly parents, the farther he surpasses all men in goodness and mercy
 (<span id="iv.iii.xxi-p118.2"></span>[Isaiah
-63:16](../../../bib/kjv/isa063.htm#016)<span
+63:16](../../../bib/kjv/isa063.htm#016.md)<span
 id="iv.iii.xxi-p118.2"></span>). Earthly parents, laying aside all
 paternal affection, might abandon their offspring; he will never abandon
 us (<span id="iv.iii.xxi-p118.3"></span>[Ps.
-27:10](../../../bib/kjv/psa027.htm#010)<span
+27:10](../../../bib/kjv/psa027.htm#010.md)<span
 id="iv.iii.xxi-p118.3"></span>), seeing he cannot deny himself. For we
 have his promise, “If ye then, being evil, know how to give good gifts
 unto your children, how much more shall your Father which is in heaven
 give good things to them that ask him?” (<span
 id="iv.iii.xxi-p118.4"></span>[Mt.
-7:11](../../../bib/kjv/mat007.htm#011)<span
+7:11](../../../bib/kjv/mat007.htm#011.md)<span
 id="iv.iii.xxi-p118.4"></span>). In like manner in the prophet, “Can a
 woman forget her sucking child, that she should not have compassion on
 the son of her womb? Yea, they may forget, yet will not I forget thee,”
 (<span id="iv.iii.xxi-p118.5"></span>[Isaiah
-49:15](../../../bib/kjv/isa049.htm#015)<span
+49:15](../../../bib/kjv/isa049.htm#015.md)<span
 id="iv.iii.xxi-p118.5"></span>). But if we are his sons, then as a son
 cannot betake himself to the protection of a stranger and a foreigner
 without at the same time complaining of his father’s cruelty or poverty,
@@ -2463,7 +2463,7 @@ come himself suppliant and downcast, acknowledging his fault, to implore
 the mercy of his father, whose paternal feelings cannot but be moved by
 such entreaties, what will that “Father of all mercies, and God of all
 comfort,” do? (<span id="iv.iii.xxi-p119.1"></span>[2 Cor.
-1:3](../../../bib/kjv/co2001.htm#003)<span
+1:3](../../../bib/kjv/co2001.htm#003.md)<span
 id="iv.iii.xxi-p119.1"></span>). Will he not rather listen to the tears
 and groans of his children, when supplicating for themselves (especially
 seeing he invites and exhorts us to do so), than to any advocacy of
@@ -2471,7 +2471,7 @@ others to whom the timid have recourse, not without some semblance of
 despair, because they are distrustful of their father’s mildness and
 clemency? The exuberance of his paternal kindness he sets before us in
 the parable (<span id="iv.iii.xxi-p119.2"></span>[Luke
-15:20](../../../bib/kjv/luk015.htm#020)<span
+15:20](../../../bib/kjv/luk015.htm#020.md)<span
 id="iv.iii.xxi-p119.2"></span>; see Calv. Comm). when the father with
 open arms receives the son who had gone away from him, wasted his
 substance in riotous living, and in all ways grievously sinned against
@@ -2489,7 +2489,7 @@ of so much affection for thy children, and art so ready to forgive, we
 thy children approach thee and present our requests, fully persuaded
 that thou hast no other feelings towards us than those of a father,
 though we are unworthy of such a parent.49  <span
-id="fr_484"></span>[485](#fn_484) But as our narrow hearts are incapable
+id="fr_484"></span>[485](#fn_484.md) But as our narrow hearts are incapable
 of comprehending such boundless favour, Christ is not only the earnest
 and pledge of our adoption, but also gives us the Spirit as a witness of
 this adoption, that through him we may freely cry aloud, Abba, Father.
@@ -2505,7 +2505,7 @@ reminded how strong the feeling of brotherly love between us ought to
 be, since we are all alike, by the same mercy and free kindness, the
 children of such a Father. For if He from whom we all obtain whatever is
 good is our common Father (<span id="iv.iii.xxi-p121.1"></span>[Mt.
-23:9](../../../bib/kjv/mat023.htm#009)<span
+23:9](../../../bib/kjv/mat023.htm#009.md)<span
 id="iv.iii.xxi-p121.1"></span>), every thing which has been distributed
 to us we should be prepared to communicate to each other, as far as
 occasion demands. But if we are thus desirous as we ought, to stretch
@@ -2520,7 +2520,7 @@ Parent it becomes us to extend towards his people, his family, and, in
 fine, his heritage, which he has honoured so highly as to give them the
 appellation of the “fulness” of his only begotten Son (<span
 id="iv.iii.xxi-p121.2"></span>[Eph.
-1:23](../../../bib/kjv/eph001.htm#023)<span
+1:23](../../../bib/kjv/eph001.htm#023.md)<span
 id="iv.iii.xxi-p121.2"></span>). Let the Christian, then, so regulate
 his prayers as to make them common, and embrace all who are his brethren
 in Christ; not only those whom at present he sees and knows to be such,
@@ -2530,7 +2530,7 @@ concerning them is both pious and humane. Still it becomes us to regard
 with special affection those who are of the household of faith, and whom
 the Apostle has in express terms recommended to our care in every thing
 (<span id="iv.iii.xxi-p121.3"></span>[Gal.
-6:10](../../../bib/kjv/gal006.htm#010)<span
+6:10](../../../bib/kjv/gal006.htm#010.md)<span
 id="iv.iii.xxi-p121.3"></span>). In short, all our prayers ought to bear
 reference to that community which our Lord has established in his
 kingdom and family.
@@ -2559,7 +2559,7 @@ which, including all the sons of God, includes them also. To this we may
 refer the exhortation which Paul gave to the believers of his age, to
 lift up “holy hands without wrath and doubting,” (<span
 id="iv.iii.xxi-p122.1"></span>[1 Tim.
-2:8](../../../bib/kjv/ti1002.htm#008)<span
+2:8](../../../bib/kjv/ti1002.htm#008.md)<span
 id="iv.iii.xxi-p122.1"></span>). By reminding them that dissension is a
 bar to prayer, he shows it to be his wish that they should with one
 accord present their prayers in common.
@@ -2569,11 +2569,11 @@ HEAVEN. From this we are not to infer that he is enclosed and confined
 within the circumference of heaven, as by a kind of boundaries. Hence
 Solomon confesses, “The heaven of heavens cannot contain thee,” (<span
 id="iv.iii.xxi-p123.1"></span>[1 Kings
-8:27](../../../bib/kjv/kg1008.htm#027)<span
+8:27](../../../bib/kjv/kg1008.htm#027.md)<span
 id="iv.iii.xxi-p123.1"></span>); and he himself says by the Prophet,
 “The heaven is my throne, and the earth is my footstool,” (<span
 id="iv.iii.xxi-p123.2"></span>[Isa.
-66:1](../../../bib/kjv/isa066.htm#001)<span
+66:1](../../../bib/kjv/isa066.htm#001.md)<span
 id="iv.iii.xxi-p123.2"></span>); thereby intimating, that his presence,
 not confined to any region, is diffused over all space. But as our gross
 minds are unable to conceive of his ineffable glory, it is designated to
@@ -2603,7 +2603,7 @@ therefore, that it is not in vain to approach him whose present care we
 actually experience. “He that cometh to God,” says the Apostle, “must
 believe that he is, and that he is a rewarder of them that diligently
 seek him,” (<span id="iv.iii.xxi-p123.3"></span>[Heb.
-11:6](../../../bib/kjv/heb011.htm#006)<span
+11:6](../../../bib/kjv/heb011.htm#006.md)<span
 id="iv.iii.xxi-p123.3"></span>). Here Christ makes both claims for his
 Father, *first*, that we place our faith in him; and, *secondly* , that
 we feel assured that our salvation is not neglected by him, inasmuch as
@@ -2612,13 +2612,13 @@ principles Paul prepares us to pray aright; for before enjoining us to
 make our requests known unto God, he premises in this way, “The Lord is
 at hand. Be careful for nothing,” (<span
 id="iv.iii.xxi-p123.4"></span>[Phil.
-4:5](../../../bib/kjv/phi004.htm#005),
-[6](../../../bib/kjv/phi004.htm#006)<span
+4:5](../../../bib/kjv/phi004.htm#005.md),
+[6](../../../bib/kjv/phi004.htm#006.md)<span
 id="iv.iii.xxi-p123.4"></span>). Whence it appears that doubt and
 perplexity hang over the prayers of those in whose minds the belief is
 not firmly seated, that “the eyes of the Lord are upon the righteous,”
 (<span id="iv.iii.xxi-p123.5"></span>[Ps.
-34:15](../../../bib/kjv/psa034.htm#015)<span
+34:15](../../../bib/kjv/psa034.htm#015.md)<span
 id="iv.iii.xxi-p123.5"></span>).
 
 <span id="iv.iii.xxi-p124"></span>41. The first petition is, HALLOWED BE
@@ -2630,7 +2630,7 @@ sacrilegious rage, the holiness of God’s name still shines forth. Justly
 does the Psalmist exclaim, “According to thy name, O God, so is thy
 praise unto the ends of the earth,” (<span
 id="iv.iii.xxi-p124.1"></span>[Ps.
-48:10](../../../bib/kjv/psa048.htm#010)<span
+48:10](../../../bib/kjv/psa048.htm#010.md)<span
 id="iv.iii.xxi-p124.1"></span>). For wherever God hath made himself
 known, his perfections must be displayed, his power, goodness, wisdom,
 justice, mercy, and truth, which fill us with admiration, and incite us
@@ -2674,7 +2674,7 @@ already been given, I now briefly repeat that God reigns when men, in
 denial of themselves and contempt of the world and this earthly life,
 devote themselves to righteousness and aspire to heaven (see Calvin,
 Harm. <span id="iv.iii.xxi-p125.1"></span>[Mt.
-6](../../../bib/kjv/mat006.htm#000)<span id="iv.iii.xxi-p125.1"></span>)
+6](../../../bib/kjv/mat006.htm#000)<span id="iv.iii.xxi-p125.1"></span>.md)
 Thus this kingdom consists of two parts; the first is, when God by the
 agency of his Spirit corrects all the depraved lusts of the flesh, which
 in bands war against Him; and the second, when he brings all our
@@ -2701,7 +2701,7 @@ impurities of vice are purged away, and integrity flourishes in full
 vigor. The completion, however, is deferred to the final advent of
 Christ, when, as Paul declares, “God will be all in all,” (<span
 id="iv.iii.xxi-p125.2"></span>[1 Cor.
-15:28](../../../bib/kjv/co1015.htm#028)<span
+15:28](../../../bib/kjv/co1015.htm#028.md)<span
 id="iv.iii.xxi-p125.2"></span>). This prayer, therefore, ought to
 withdraw us from the corruptions of the world which separate us from
 God, and prevent his kingdom from flourishing within us; secondly, it
@@ -2720,7 +2720,7 @@ conspiracies of his enemies, dissipates their wiles and frauds, prevents
 their malice and curbs their petulance, until at length he consume
 Antichrist “with the spirit of his mouth,” and destroy all impiety “with
 the brightness of his coming,” (<span id="iv.iii.xxi-p125.3"></span>[2
-Thess. 2:8](../../../bib/kjv/th2002.htm#008)<span
+Thess. 2:8](../../../bib/kjv/th2002.htm#008.md)<span
 id="iv.iii.xxi-p125.3"></span>, Calv. Com).
 
 <span id="iv.iii.xxi-p126"></span>43. The third petition is, THY WILL BE
@@ -2740,7 +2740,7 @@ counterpart; and, therefore, heaven is expressly contrasted with earth,
 because, as is said in The Psalms, the angels “do his commandments,
 hearkening unto the voice of his word,” (<span
 id="iv.iii.xxi-p126.1"></span>[Ps.
-103:20](../../../bib/kjv/psa103.htm#020)<span
+103:20](../../../bib/kjv/psa103.htm#020.md)<span
 id="iv.iii.xxi-p126.1"></span>). We are, therefore, enjoined to pray
 that as everything done in heaven is at the command of God, and the
 angels are calmly disposed to do all that is right, so the earth may be
@@ -2779,7 +2779,7 @@ prayer, in which we descend to our own interests, not, indeed, that we
 are to lose sight of the glory of God (to which, as Paul declares, we
 must have respect even in meat and drink, <span
 id="iv.iii.xxi-p127.1"></span>[1 Cor.
-10:31](../../../bib/kjv/co1010.htm#031)<span
+10:31](../../../bib/kjv/co1010.htm#031.md)<span
 id="iv.iii.xxi-p127.1"></span>), and ask only what is expedient for
 ourselves; but the distinction, as we have already observed, is this:
 God claiming the three first petitions as specially his own, carries us
@@ -2819,7 +2819,7 @@ them. As if his blessing and paternal favour were not eminently
 displayed in giving us food, or as if there were nothing in the
 declaration that godliness hath “the promise of the life that now is,
 and of that which is to come,” (<span id="iv.iii.xxi-p127.2"></span>[1
-Tim. 4:8](../../../bib/kjv/ti1004.htm#008)<span
+Tim. 4:8](../../../bib/kjv/ti1004.htm#008.md)<span
 id="iv.iii.xxi-p127.2"></span>). But although the forgiveness of sins is
 of far more importance than the nourishment of the body, yet Christ has
 set down the inferior in the prior place, in order that he might
@@ -2830,10 +2830,10 @@ which our heavenly Father is pleased to dispense, and not strive to make
 gain by illicit arts. Meanwhile, we must hold that the title by which it
 is ours is donation, because, as Moses says (<span
 id="iv.iii.xxi-p127.3"></span>[Lev.
-26:20](../../../bib/kjv/lev026.htm#020)<span
+26:20](../../../bib/kjv/lev026.htm#020.md)<span
 id="iv.iii.xxi-p127.3"></span>, <span
 id="iv.iii.xxi-p127.4"></span>[Deut.
-8:17](../../../bib/kjv/deu008.htm#017)<span
+8:17](../../../bib/kjv/deu008.htm#017.md)<span
 id="iv.iii.xxi-p127.4"></span>), neither our industry, nor labour, nor
 hands, acquire any thing for us, unless the blessing of God be present;
 nay, not even would abundance of bread be of the least avail were it not
@@ -2859,18 +2859,18 @@ nothing is more difficult to human pride than the admission of this
 truth, the Lord declares that he gave a special proof for all ages, when
 he fed his people with manna in the desert (<span
 id="iv.iii.xxi-p127.5"></span>[Deut.
-8:3](../../../bib/kjv/deu008.htm#003)<span
+8:3](../../../bib/kjv/deu008.htm#003.md)<span
 id="iv.iii.xxi-p127.5"></span>), that he might remind us that “man shall
 not live by bread alone, but by every word that proceedeth out of the
 mouth of God,” (<span id="iv.iii.xxi-p127.6"></span>[Mt.
-4:4](../../../bib/kjv/mat004.htm#004)<span
+4:4](../../../bib/kjv/mat004.htm#004.md)<span
 id="iv.iii.xxi-p127.6"></span>). It is thus intimated, that by his power
 alone our life and strength are sustained, though he ministers supply to
 us by bodily instruments. In like manner, whenever it so pleases, he
 gives us a proof of an opposite description, by breaking the strength,
 or, as he himself calls it, the *staff* of bread (<span
 id="iv.iii.xxi-p127.7"></span>[Lev.
-26:26](../../../bib/kjv/lev026.htm#026)<span
+26:26](../../../bib/kjv/lev026.htm#026.md)<span
 id="iv.iii.xxi-p127.7"></span>), and leaving us even while eating to
 pine with hunger, and while drinking to be parched with thirst. Those
 who, not contented with daily bread, indulge an unrestrained insatiable
@@ -2901,7 +2901,7 @@ members contain the spiritual covenant which God made for the salvation
 of his Church, “I will put my law in their inward parts, and write it on
 their hearts.” “I will pardon all their iniquities,” (<span
 id="iv.iii.xxi-p128.1"></span>[Jer.
-31:33](../../../bib/kjv/jer031.htm#033)<span
+31:33](../../../bib/kjv/jer031.htm#033.md)<span
 id="iv.iii.xxi-p128.1"></span>; 33:8). Here our Saviour begins with the
 forgiveness of sins, and then adds the subsequent blessing—viz. that God
 would protect us by the power, and support us by the aid of his Spirit,
@@ -2912,7 +2912,7 @@ remission, the result of his free mercy, when he freely expunges the
 debt, accepting nothing in return; but of his own mercy receiving
 satisfaction in Christ, who gave himself a ransom for us (<span
 id="iv.iii.xxi-p128.2"></span>[Rom.
-3:24](../../../bib/kjv/rom003.htm#024)<span
+3:24](../../../bib/kjv/rom003.htm#024.md)<span
 id="iv.iii.xxi-p128.2"></span>). Hence, those who expect to satisfy God
 by merits of their own or of others, or to compensate and purchase
 forgiveness by means of satisfactions, have no share in this free
@@ -2925,9 +2925,9 @@ satisfactions upon God, since by so doing they do not implore his mercy,
 but appeal to his justice. Let those, again, who dream of a perfection
 which makes it unnecessary to seek pardon, find their disciples among
 those whose itching ears incline them to imposture49  <span
-id="fr_485"></span>[486](#fn_485) (see Calv. on <span
+id="fr_485"></span>[486](#fn_485.md) (see Calv. on <span
 id="iv.iii.xxi-p129.1"></span>[Dan.
-9:20](../../../bib/kjv/dan009.htm#020)<span
+9:20](../../../bib/kjv/dan009.htm#020.md)<span
 id="iv.iii.xxi-p129.1"></span>); only let them understand that those
 whom they thus acquire have been carried away from Christ, since he, by
 instructing all to confess their guilt, receives none but sinners, not
@@ -2946,7 +2946,7 @@ endeavour to dazzle the simple, and make them believe that they can
 render themselves completely free from guilt? This, as John declares, is
 nothing else than to make God a liar (<span
 id="iv.iii.xxi-p129.2"></span>[1 John
-1:10](../../../bib/kjv/jo1001.htm#010)<span
+1:10](../../../bib/kjv/jo1001.htm#010.md)<span
 id="iv.iii.xxi-p129.2"></span>). In like manner, those foolish men
 mutilate the covenant in which we have seen that our salvation is
 contained by concealing one head of it, and so destroying it entirely;
@@ -2992,7 +2992,7 @@ Luke, we have this distinctly stated in the words of Christ.
 
 <span id="iv.iii.xxi-p130"></span>46. The sixth petition corresponds (as
 we have observed) to the promise49  <span
-id="fr_486"></span>[487](#fn_486) of *writing the law upon our hearts*;
+id="fr_486"></span>[487](#fn_486.md) of *writing the law upon our hearts*;
 but because we do not obey God without a continual warfare, without
 sharp and arduous contests, we here pray that he would furnish us with
 armour, and defend us by his protection, that we may be able to obtain
@@ -3006,7 +3006,7 @@ suggests or the devil excites, are temptations; and things which in
 their own nature are not evil, become temptations by the wiles of the
 devil, when they are presented to our eyes in such a way that the view
 of them makes us withdraw or decline from God.49  <span
-id="fr_487"></span>[488](#fn_487) These temptations are both on the
+id="fr_487"></span>[488](#fn_487.md) These temptations are both on the
 right hand and on the left. On the right, when riches, power, and
 honours, which by their glare, and the semblance of good which they
 present, generally dazzle the eyes of men, and so entice by their
@@ -3028,7 +3028,7 @@ is very necessary to excite, stimulate, and urge us on, that we may not
 become too lethargic. It was not without reason that David wished to be
 tried, nor is it without cause that the Lord daily tries his elect,
 chastising them by disgrace, poverty, tribulation, and other kinds of
-cross.49  <span id="fr_488"></span>[489](#fn_488) But the temptations of
+cross.49  <span id="fr_488"></span>[489](#fn_488.md) But the temptations of
 God and Satan are very different: Satan tempts, that he may destroy,
 condemn, confound, throw headlong; God, that by proving his people he
 may make trial of their sincerity, and by exercising their strength
@@ -3058,7 +3058,7 @@ the Lord rescue us from the midst of death; at the same time knowing
 that if the Lord is present and will fight for us while we stand by,
 through him “we shall do valiantly,” (<span
 id="iv.iii.xxi-p133.7"></span>[Ps.
-60:12](../../../bib/kjv/psa060.htm#012)<span
+60:12](../../../bib/kjv/psa060.htm#012.md)<span
 id="iv.iii.xxi-p133.7"></span>). Let others if they will confide in the
 powers and resources of their free will which they think they possess;
 enough for us that we stand and are strong in the power of God alone.
@@ -3071,7 +3071,7 @@ with new supplies of divine grace, until completely replenished with
 them, we triumph over every evil. To some it seems rude and harsh to ask
 God not to lead us into temptation, since, as James declares (<span
 id="iv.iii.xxi-p133.8"></span>[James
-1:13](../../../bib/kjv/jam001.htm#013)<span
+1:13](../../../bib/kjv/jam001.htm#013.md)<span
 id="iv.iii.xxi-p133.8"></span>), it is contrary to his nature to do so.
 This difficulty has already been partly solved by the fact that our
 concupiscence is the cause, and therefore properly bears the blame of
@@ -3119,11 +3119,11 @@ all that we are able, to ask of God, are contained in this formula, and
 as it were rule, of prayer delivered by Christ, our divine Master, whom
 the Father has appointed to be our teacher, and to whom alone he would
 have us to listen (<span id="iv.iii.xxi-p135.1"></span>[Mt.
-17:5](../../../bib/kjv/mat017.htm#005)<span
+17:5](../../../bib/kjv/mat017.htm#005.md)<span
 id="iv.iii.xxi-p135.1"></span>). For he ever was the eternal wisdom of
 the Father, and being made man, was manifested as the Wonderful, the
 Counsellor (<span id="iv.iii.xxi-p135.2"></span>[Isa.
-11:2](../../../bib/kjv/isa011.htm#002)<span
+11:2](../../../bib/kjv/isa011.htm#002.md)<span
 id="iv.iii.xxi-p135.2"></span>). Accordingly, this prayer is complete in
 all its parts, so complete, that whatever is extraneous and foreign to
 it, whatever cannot be referred to it, is impious and unworthy of the
@@ -3221,8 +3221,8 @@ in mercy he kindly denies to others. Of this we have a proof in the
 children of Israel, for whom it had been better not to have been heard
 by the Lord, than to swallow his indignation with their flesh (<span
 id="iv.iii.xxi-p138.1"></span>[Num.
-11:18](../../../bib/kjv/num011.htm#018),
-[33](../../../bib/kjv/num011.htm#033)<span
+11:18](../../../bib/kjv/num011.htm#018.md),
+[33](../../../bib/kjv/num011.htm#033.md)<span
 id="iv.iii.xxi-p138.1"></span>).
 
 <span id="iv.iii.xxi-p139"></span>52. But if our sense is not able till
@@ -3243,7 +3243,7 @@ an unknown way, shows that our prayers have not been in vain. This is
 the meaning of the words of John, “If we know that he hear us,
 whatsoever we ask, we know that we have the petitions that we desired of
 him,” (<span id="iv.iii.xxi-p139.1"></span>[1 John
-5:15](../../../bib/kjv/jo1005.htm#015)<span
+5:15](../../../bib/kjv/jo1005.htm#015.md)<span
 id="iv.iii.xxi-p139.1"></span>). It might seem that there is here a
 great superfluity of words, but the declaration is most useful, namely,
 that God, even when he does not comply with our requests, yet listens
@@ -3255,7 +3255,7 @@ nay, he often drives us to extremes, and when driven allows us long to
 stick fast in the mire before he gives us any taste of his sweetness. As
 Hannah says, “The Lord killeth, and maketh alive; he bringeth down to
 the grave, and bringeth up,” (<span id="iv.iii.xxi-p139.2"></span>[1
-Sam. 2:6](../../../bib/kjv/sa1002.htm#006)<span
+Sam. 2:6](../../../bib/kjv/sa1002.htm#006.md)<span
 id="iv.iii.xxi-p139.2"></span>). What could they here do but become
 dispirited and rush on despair, were they not, when afflicted, desolate,
 and half dead, comforted with the thought that they are regarded by God,
@@ -3267,7 +3267,7 @@ prayer unaccompanied by perseverance leads to no result.
 
 ### Footnotes
 
-<span id="fn_458"></span>[459](inst073.htm#fr_458) <span
+<span id="fn_458"></span>[459](inst073.htm#fr_458.md) <span
 id="iv.iii.xxi-p58.1"></span>
 
 <span id="iv.iii.xxi-p59"></span>65 465 French, “Dont il sembleroit que
@@ -3277,7 +3277,7 @@ sont endormis.”—Whence it would seem that it was a superflous matter to
 solicit him by prayer; seeing we are accustomed to solicit those who
 think not of our business, and who are slumbering.
 
-<span id="fn_459"></span>[460](inst073.htm#fr_459) <span
+<span id="fn_459"></span>[460](inst073.htm#fr_459.md) <span
 id="iv.iii.xxi-p64.5"></span>
 
 <span id="iv.iii.xxi-p65"></span>66 466 French, “Pourtant ce qui est
@@ -3286,14 +3286,14 @@ soit incertain, est tres sainctement dit;”—However, what is written in
 the prophecy which is attributed to Baruch, though the author is
 uncertain, is very holily said.
 
-<span id="fn_460"></span>[461](inst073.htm#fr_460) <span
+<span id="fn_460"></span>[461](inst073.htm#fr_460.md) <span
 id="iv.iii.xxi-p66.4"></span>
 
 <span id="iv.iii.xxi-p67"></span>67 467 French, “il recognoissent le
 chastiement qu’ils ont merité;”—they acknowledge the punishment which
 they have deserved.
 
-<span id="fn_461"></span>[462](inst073.htm#fr_461) <span
+<span id="fn_461"></span>[462](inst073.htm#fr_461.md) <span
 id="iv.iii.xxi-p67.1"></span>
 
 <span id="iv.iii.xxi-p68"></span>68 468 The French adds, “Ils voudront
@@ -3302,86 +3302,86 @@ touche point a la fievre;”—They would wish to get quit of the pain in
 the head and the loins, and would be contented to leave the fever
 untouched.
 
-<span id="fn_462"></span>[463](inst073.htm#fr_462) <span
+<span id="fn_462"></span>[463](inst073.htm#fr_462.md) <span
 id="iv.iii.xxi-p73.1"></span>
 
 <span id="iv.iii.xxi-p74"></span>69 469 <span
 id="iv.iii.xxi-p74.1"></span>[Jer.
-2:13](../../../bib/kjv/jer002.htm#013)<span
+2:13](../../../bib/kjv/jer002.htm#013.md)<span
 id="iv.iii.xxi-p74.1"></span>; <span id="iv.iii.xxi-p74.2"></span>[Prov.
-18:10](../../../bib/kjv/pro018.htm#010)<span
+18:10](../../../bib/kjv/pro018.htm#010.md)<span
 id="iv.iii.xxi-p74.2"></span>; <span id="iv.iii.xxi-p74.3"></span>[Joel
-2:32](../../../bib/kjv/joe002.htm#032)<span
+2:32](../../../bib/kjv/joe002.htm#032.md)<span
 id="iv.iii.xxi-p74.3"></span>; <span id="iv.iii.xxi-p74.4"></span>[Is.
-65:24](../../../bib/kjv/isa065.htm#024)<span
+65:24](../../../bib/kjv/isa065.htm#024.md)<span
 id="iv.iii.xxi-p74.4"></span>; <span id="iv.iii.xxi-p74.5"></span>[Ps.
-91:15](../../../bib/kjv/psa091.htm#015)<span
+91:15](../../../bib/kjv/psa091.htm#015.md)<span
 id="iv.iii.xxi-p74.5"></span>; 145:18.
 
-<span id="fn_463"></span>[464](inst073.htm#fr_463) <span
+<span id="fn_463"></span>[464](inst073.htm#fr_463.md) <span
 id="iv.iii.xxi-p74.10"></span>
 
 <span id="iv.iii.xxi-p75"></span>70 470 Latin, “prosternere preces”
 French, “mettent bas leurs prieres;”—lay low their prayers.
 
-<span id="fn_464"></span>[465](inst073.htm#fr_464) <span
+<span id="fn_464"></span>[465](inst073.htm#fr_464.md) <span
 id="iv.iii.xxi-p75.1"></span>
 
 <span id="iv.iii.xxi-p76"></span>71 471 <span
 id="iv.iii.xxi-p76.1"></span>[Jer.
-42:9](../../../bib/kjv/jer042.htm#009)<span
+42:9](../../../bib/kjv/jer042.htm#009.md)<span
 id="iv.iii.xxi-p76.1"></span>; <span id="iv.iii.xxi-p76.2"></span>[Dan.
-9:18](../../../bib/kjv/dan009.htm#018)<span
+9:18](../../../bib/kjv/dan009.htm#018.md)<span
 id="iv.iii.xxi-p76.2"></span>; <span id="iv.iii.xxi-p76.3"></span>[Jer.
-42:2](../../../bib/kjv/jer042.htm#002)<span
+42:2](../../../bib/kjv/jer042.htm#002.md)<span
 id="iv.iii.xxi-p76.3"></span>; <span id="iv.iii.xxi-p76.4"></span>[2
-Kings 19:4](../../../bib/kjv/kg2019.htm#004)<span
+Kings 19:4](../../../bib/kjv/kg2019.htm#004.md)<span
 id="iv.iii.xxi-p76.4"></span>; <span id="iv.iii.xxi-p76.5"></span>[Ps.
-144:2](../../../bib/kjv/psa144.htm#002)<span
+144:2](../../../bib/kjv/psa144.htm#002.md)<span
 id="iv.iii.xxi-p76.5"></span>.
 
-<span id="fn_465"></span>[466](inst073.htm#fr_465) <span
+<span id="fn_465"></span>[466](inst073.htm#fr_465.md) <span
 id="iv.iii.xxi-p77.9"></span>
 
 <span id="iv.iii.xxi-p78"></span>72 472 The French adds, “dequel il
 n’eust pas autrement esté asseuré;”—of which he would not otherwise have
 felt assured
 
-<span id="fn_466"></span>[467](inst073.htm#fr_466) <span
+<span id="fn_466"></span>[467](inst073.htm#fr_466.md) <span
 id="iv.iii.xxi-p79.1"></span>
 
 <span id="iv.iii.xxi-p80"></span>73 473 Latin, “Desine a me.” French,
 “Retire-toy;”—Withdraw from me.
 
-<span id="fn_467"></span>[468](inst073.htm#fr_467) <span
+<span id="fn_467"></span>[468](inst073.htm#fr_467.md) <span
 id="iv.iii.xxi-p81.1"></span>
 
 <span id="iv.iii.xxi-p82"></span>74 474 French, “Confusion que nous
 avons, ou devons avoir en nousmesmes;”—confusion which we have, or ought
 to have, in ourselves.
 
-<span id="fn_468"></span>[469](inst073.htm#fr_468) <span
+<span id="fn_468"></span>[469](inst073.htm#fr_468.md) <span
 id="iv.iii.xxi-p85.4"></span>
 
 <span id="iv.iii.xxi-p86"></span>75 475 <span
 id="iv.iii.xxi-p86.1"></span>[Heb.
-9:11](../../../bib/kjv/heb009.htm#011),
-[24](../../../bib/kjv/heb009.htm#024)<span
+9:11](../../../bib/kjv/heb009.htm#011.md),
+[24](../../../bib/kjv/heb009.htm#024.md)<span
 id="iv.iii.xxi-p86.1"></span>; <span id="iv.iii.xxi-p86.2"></span>[Rom.
-15:30](../../../bib/kjv/rom015.htm#030)<span
+15:30](../../../bib/kjv/rom015.htm#030.md)<span
 id="iv.iii.xxi-p86.2"></span>; <span id="iv.iii.xxi-p86.3"></span>[Eph.
-6:19](../../../bib/kjv/eph006.htm#019)<span
+6:19](../../../bib/kjv/eph006.htm#019.md)<span
 id="iv.iii.xxi-p86.3"></span>; <span id="iv.iii.xxi-p86.4"></span>[Col.
-4:3](../../../bib/kjv/col004.htm#003)<span
+4:3](../../../bib/kjv/col004.htm#003.md)<span
 id="iv.iii.xxi-p86.4"></span>; <span id="iv.iii.xxi-p86.5"></span>[1
-Cor. 12:25](../../../bib/kjv/co1012.htm#025)<span
+Cor. 12:25](../../../bib/kjv/co1012.htm#025.md)<span
 id="iv.iii.xxi-p86.5"></span>; <span id="iv.iii.xxi-p86.6"></span>[1
-Tim. 2:5](../../../bib/kjv/ti1002.htm#005)<span
+Tim. 2:5](../../../bib/kjv/ti1002.htm#005.md)<span
 id="iv.iii.xxi-p86.6"></span>; <span id="iv.iii.xxi-p86.7"></span>[Eph.
-4:3](../../../bib/kjv/eph004.htm#003)<span
+4:3](../../../bib/kjv/eph004.htm#003.md)<span
 id="iv.iii.xxi-p86.7"></span>.
 
-<span id="fn_469"></span>[470](inst073.htm#fr_469) <span
+<span id="fn_469"></span>[470](inst073.htm#fr_469.md) <span
 id="iv.iii.xxi-p88.2"></span>
 
 <span id="iv.iii.xxi-p89"></span>76 476 Erasmus, though stumbling and
@@ -3398,14 +3398,14 @@ the help of Abraham. But though in so weighty a matter it may justly
 seem dangerous to introduce anything without the authority of Scripture,
 I by no means condemn the invocation of saints, &c.
 
-<span id="fn_470"></span>[471](inst073.htm#fr_470) <span
+<span id="fn_470"></span>[471](inst073.htm#fr_470.md) <span
 id="iv.iii.xxi-p89.1"></span>
 
 <span id="iv.iii.xxi-p90"></span>77 477 Latin, “Pastores;”—French, “ceux
 qui se disent prelats, curés ou precheurs;”—those who call themselves
 prelates, curates, or preachers.
 
-<span id="fn_471"></span>[472](inst073.htm#fr_471) <span
+<span id="fn_471"></span>[472](inst073.htm#fr_471.md) <span
 id="iv.iii.xxi-p90.1"></span>
 
 <span id="iv.iii.xxi-p91"></span>78 478 French, “Mais encore qu’ils
@@ -3419,20 +3419,20 @@ they repeat with full throat, in which they pray St Eloy or St Medard to
 look from heaven upon their servants and assist them; even supplicate
 the Virgin Mary to command her Son to grant their requests?
 
-<span id="fn_472"></span>[473](inst073.htm#fr_472) <span
+<span id="fn_472"></span>[473](inst073.htm#fr_472.md) <span
 id="iv.iii.xxi-p94.4"></span>
 
 <span id="iv.iii.xxi-p95"></span>79 479 The French adds, “et quasi en
 une fourmiliere de saincts;”—and as it were a swarm of saints.
 
-<span id="fn_473"></span>[474](inst073.htm#fr_473) <span
+<span id="fn_473"></span>[474](inst073.htm#fr_473.md) <span
 id="iv.iii.xxi-p95.1"></span>
 
 <span id="iv.iii.xxi-p96"></span>80 480 “C’est chose trop notoire de
 quel bourbieu de quelle racaille ils tirent leur saincts.”—It is too
 notorious out of what mire or rubbish they draw their saints.
 
-<span id="fn_474"></span>[475](inst073.htm#fr_474) <span
+<span id="fn_474"></span>[475](inst073.htm#fr_474.md) <span
 id="iv.iii.xxi-p100.3"></span>
 
 <span id="iv.iii.xxi-p101"></span>81 481 French, “Cette longueur de
@@ -3446,38 +3446,38 @@ hundred times, lose part of their time; others, as the canons and monks,
 grumbling over their parchment night and day, and muttering their
 breviary, sell their cockleshells to the people.
 
-<span id="fn_475"></span>[476](inst073.htm#fr_475) <span
+<span id="fn_475"></span>[476](inst073.htm#fr_475.md) <span
 id="iv.iii.xxi-p101.4"></span>
 
 <span id="iv.iii.xxi-p102"></span>82 482 Calvin translates, “Te expectat
 Deus, laus in Sion;”—God, the praise in Sion waiteth for thee.
 
-<span id="fn_476"></span>[477](inst073.htm#fr_476) <span
+<span id="fn_476"></span>[477](inst073.htm#fr_476.md) <span
 id="iv.iii.xxi-p103.2"></span>
 
 <span id="iv.iii.xxi-p104"></span>83 483 See Book 1, chap 11 sec 7, 13,
 on the subject of images in churches. Also Book 4, chap. 4 sec. 8, and
 chap 5 sec 18, as to the ornaments of churches.
 
-<span id="fn_477"></span>[478](inst073.htm#fr_477) <span
+<span id="fn_477"></span>[478](inst073.htm#fr_477.md) <span
 id="iv.iii.xxi-p106.3"></span>
 
 <span id="iv.iii.xxi-p107"></span>84 484 This clause of the sentence is
 omitted in the French.
 
-<span id="fn_478"></span>[479](inst073.htm#fr_478) <span
+<span id="fn_478"></span>[479](inst073.htm#fr_478.md) <span
 id="iv.iii.xxi-p107.1"></span>
 
 <span id="iv.iii.xxi-p108"></span>85 485 The French adds, “o˜ on en
 avoit tousjours usé;”—where it had always been used.
 
-<span id="fn_479"></span>[480](inst073.htm#fr_479) <span
+<span id="fn_479"></span>[480](inst073.htm#fr_479.md) <span
 id="iv.iii.xxi-p108.1"></span>
 
 <span id="iv.iii.xxi-p109"></span>86 486 The whole of this quotation is
 omitted in the French.
 
-<span id="fn_480"></span>[481](inst073.htm#fr_480) <span
+<span id="fn_480"></span>[481](inst073.htm#fr_480.md) <span
 id="iv.iii.xxi-p109.1"></span>
 
 <span id="iv.iii.xxi-p110"></span>87 487 French, “Mais il adjouste
@@ -3488,7 +3488,7 @@ when he called to mind the fruit and edification which he had received
 from hearing singing in the church, he inclined more to the other side;
 that is, to approve singing.
 
-<span id="fn_481"></span>[482](inst073.htm#fr_481) <span
+<span id="fn_481"></span>[482](inst073.htm#fr_481.md) <span
 id="iv.iii.xxi-p111.2"></span>
 
 <span id="iv.iii.xxi-p112"></span>88 488 French, “Qui est-ce donc qui se
@@ -3501,13 +3501,13 @@ Apostle, chant and bray in a foreign and unknown tongue, in which, for
 the most part, they do not understand one syllable, and which they have
 no wish that others uncerstand?
 
-<span id="fn_482"></span>[483](inst073.htm#fr_482) <span
+<span id="fn_482"></span>[483](inst073.htm#fr_482.md) <span
 id="iv.iii.xxi-p114.1"></span>
 
 <span id="iv.iii.xxi-p115"></span>89 489 August. in Enchirid. ad
 Laurent. cap. 116. Chrysost. in an imperfect work. See end of sec. 53.
 
-<span id="fn_483"></span>[484](inst073.htm#fr_483) <span
+<span id="fn_483"></span>[484](inst073.htm#fr_483.md) <span
 id="iv.iii.xxi-p115.1"></span>
 
 <span id="iv.iii.xxi-p116"></span>90 490 “Dont il est facile de juger
@@ -3517,7 +3517,7 @@ icelle rapporter;”—Whence it is easy to perceive that what is added in
 St Matthew, and which some have taken for a seventh petition, is only an
 explanation of the sixth, and ought to be referred to it.
 
-<span id="fn_484"></span>[485](inst073.htm#fr_484) <span
+<span id="fn_484"></span>[485](inst073.htm#fr_484.md) <span
 id="iv.iii.xxi-p119.3"></span>
 
 <span id="iv.iii.xxi-p120"></span>91 491 French, “Quelque mauvaistié
@@ -3525,59 +3525,59 @@ qu’ayons eië, ou quelque imperfection ou poureté qui soit en
 nous;”—whatever wickedness we may have done, or whatever imperfection or
 poverty there may be in us.
 
-<span id="fn_485"></span>[486](inst073.htm#fr_485) <span
+<span id="fn_485"></span>[486](inst073.htm#fr_485.md) <span
 id="iv.iii.xxi-p128.3"></span>
 
 <span id="iv.iii.xxi-p129"></span>92 492 French, “Telles disciples
 qu’ils voudront;”—such disciples as they will.
 
-<span id="fn_486"></span>[487](inst073.htm#fr_486) <span
+<span id="fn_486"></span>[487](inst073.htm#fr_486.md) <span
 id="iv.iii.xxi-p130.1"></span>
 
 <span id="iv.iii.xxi-p131"></span>93 493 The French adds, “que Dieu nous
 a donnee et faite;”—which God has given and performed to us.
 
-<span id="fn_487"></span>[488](inst073.htm#fr_487) <span
+<span id="fn_487"></span>[488](inst073.htm#fr_487.md) <span
 id="iv.iii.xxi-p131.1"></span>
 
 <span id="iv.iii.xxi-p132"></span>94 494 <span
 id="iv.iii.xxi-p132.1"></span>[Jas.
-1:2](../../../bib/kjv/jam001.htm#002),
-[14](../../../bib/kjv/jam001.htm#014)<span
+1:2](../../../bib/kjv/jam001.htm#002.md),
+[14](../../../bib/kjv/jam001.htm#014.md)<span
 id="iv.iii.xxi-p132.1"></span>; <span
 id="iv.iii.xxi-p132.2"></span>[Matt.
-4:1](../../../bib/kjv/mat004.htm#001),
-[3](../../../bib/kjv/mat004.htm#003)<span
+4:1](../../../bib/kjv/mat004.htm#001.md),
+[3](../../../bib/kjv/mat004.htm#003.md)<span
 id="iv.iii.xxi-p132.2"></span>; <span id="iv.iii.xxi-p132.3"></span>[1
-Thess. 3:5](../../../bib/kjv/th1003.htm#005)<span
+Thess. 3:5](../../../bib/kjv/th1003.htm#005.md)<span
 id="iv.iii.xxi-p132.3"></span>; <span id="iv.iii.xxi-p132.4"></span>[2
-Cor. 6:7](../../../bib/kjv/co2006.htm#007),
-[8](../../../bib/kjv/co2006.htm#008)<span
+Cor. 6:7](../../../bib/kjv/co2006.htm#007.md),
+[8](../../../bib/kjv/co2006.htm#008.md)<span
 id="iv.iii.xxi-p132.4"></span>.
 
-<span id="fn_488"></span>[489](inst073.htm#fr_488) <span
+<span id="fn_488"></span>[489](inst073.htm#fr_488.md) <span
 id="iv.iii.xxi-p132.5"></span>
 
 <span id="iv.iii.xxi-p133"></span>95 495 <span
 id="iv.iii.xxi-p133.1"></span>[Ps.
-26:2](../../../bib/kjv/psa026.htm#002)<span
+26:2](../../../bib/kjv/psa026.htm#002.md)<span
 id="iv.iii.xxi-p133.1"></span>; <span
 id="iv.iii.xxi-p133.2"></span>[Gen.
-22:1](../../../bib/kjv/gen022.htm#001)<span
+22:1](../../../bib/kjv/gen022.htm#001.md)<span
 id="iv.iii.xxi-p133.2"></span>; <span
 id="iv.iii.xxi-p133.3"></span>[Deut.
-8:2](../../../bib/kjv/deu008.htm#002)<span
+8:2](../../../bib/kjv/deu008.htm#002.md)<span
 id="iv.iii.xxi-p133.3"></span>; 13:3; <span
 id="iv.iii.xxi-p133.4"></span>[1 Cor.
-10:13](../../../bib/kjv/co1010.htm#013)<span
+10:13](../../../bib/kjv/co1010.htm#013.md)<span
 id="iv.iii.xxi-p133.4"></span>; <span id="iv.iii.xxi-p133.5"></span>2
 Pet. 11:9<span id="iv.iii.xxi-p133.5"></span>; <span
 id="iv.iii.xxi-p133.6"></span>[1 Pet.
-5:8](../../../bib/kjv/pe1005.htm#008)<span
+5:8](../../../bib/kjv/pe1005.htm#008.md)<span
 id="iv.iii.xxi-p133.6"></span>. For the sense in which God is said to
 lead us into temptation, see the end of this section.
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 21. - OF THE ETERNAL ELECTION, BY WHICH GOD HAS
-PREDESTINATED SOME TO SALVATION, AND OTHERS TO DESTRUCTION.](inst074)
+PREDESTINATED SOME TO SALVATION, AND OTHERS TO DESTRUCTION.](inst074.md)

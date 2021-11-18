@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](spa20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](spa20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [![](img/tease.jpg)  
-](index)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
+](index.md)*Selections from the Poetry of the Afghans*, by H.G. Raverty,
 \[1868\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -26,7 +26,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002JTWQM0/internetsacredte)
 #### I.
 
 <span class="smallcaps">Either</span> the ḥinnā <span
-id="fr_387"></span>[\*](#fn_387) hath been unto thy white hands
+id="fr_387"></span>[\*](#fn_387.md) hath been unto thy white hands
 applied,  
 Or they have been made red in the blood of thy lover.
 
@@ -37,7 +37,7 @@ Those languid eyes of thine have many in misery plunged:
 It would be well, my beloved! shouldst thou their tyranny restrain.
 
 Thy stricken ones, without union with thee, revive not again,  
-Though Abū-Sinā <span id="fr_388"></span>[†](#fn_388) himself to
+Though Abū-Sinā <span id="fr_388"></span>[†](#fn_388.md) himself to
 prescribe for them should come.
 
 Those sable locks of thine are like unto spring's lowering clouds;  
@@ -84,7 +84,7 @@ But no one drinketh one mouthful from the mighty stream.
 
 My mind will not become comforted by any other person,  
 Than by thee only; O thou, of all poles now the pole <span
-id="fr_389"></span>[\*](#fn_389) unto me!
+id="fr_389"></span>[\*](#fn_389.md) unto me!
 
 <span id="page_330">p. 330</span>
 
@@ -165,19 +165,19 @@ As are accomplished by the fervid enthusiasm of love?
 
 If the lover be small in stature, but be great in heart,  
 Then of what use is Æāj's gigantic stature unto him? <span
-id="fr_390"></span>[\*](#fn_390)
+id="fr_390"></span>[\*](#fn_390.md)
 
 Love hath brought dishonour, both in this world and the next,  
-Upon one Majnūn; <span id="fr_391"></span>[†](#fn_391) upon another
-Manṣūr, Ḥillāj's son. <span id="fr_392"></span>[‡](#fn_392)
+Upon one Majnūn; <span id="fr_391"></span>[†](#fn_391.md) upon another
+Manṣūr, Ḥillāj's son. <span id="fr_392"></span>[‡](#fn_392.md)
 
 What would the sportsman in the forest know concerning it,  
 If the partridge did not acquaint him by so loudly calling?
 
-The fame of Kasrā's <span id="fr_393"></span>[§](#fn_393) justice hath
+The fame of Kasrā's <span id="fr_393"></span>[§](#fn_393.md) justice hath
 unto all time remained,  
 But tyranny's scar remaineth branded Ḥujāj's forehead upon. <span
-id="fr_394"></span>[§§](#fn_394)
+id="fr_394"></span>[§§](#fn_394.md)
 
 The unfinished and incomplete woof of the world's warp behold!  
 The weaver by no means soever can it to perfection bring!
@@ -266,7 +266,7 @@ If thou art anxious as to thy award hereafter, now is thy time!
 
 Be prudent, and do not the world's transient pleasures pursue!  
 Let it not be that the prosperous be ruined by the adverse. <span
-id="fr_395"></span>[\*](#fn_395)
+id="fr_395"></span>[\*](#fn_395.md)
 
 The torrent of death hath carried whole peoples away;  
 Then what stay canst thou make upon the face of the flood?
@@ -302,7 +302,7 @@ When wilt thou be able, for even one of them, fitting thanks to return?
 One of the favours <span class="smallcaps">He</span> hath bestowed upon
 thee is Islām's true faith:  
 The other, that <span class="smallcaps">He</span> hath placed thee the
-great Ḥumā's shadow <span id="fr_396"></span>[\*](#fn_396) beneath.
+great Ḥumā's shadow <span id="fr_396"></span>[\*](#fn_396.md) beneath.
 
 Let it not happen, that in the end, thou shouldst lament about that,  
 For which, like the nightingale, thou constantly sacrificest thyself.
@@ -341,7 +341,7 @@ Day and night thou pursuest this transient world,
 And hast, O foolish one! turned from the immortal away.
 
 At last, He will take away from thee, by force, for ever,  
-This borrowed garment, <span id="fr_397"></span>[\*](#fn_397) that is so
+This borrowed garment, <span id="fr_397"></span>[\*](#fn_397.md) that is so
 very precious unto thee.
 
 <span id="page_337">p. 337</span>
@@ -398,7 +398,7 @@ Notwithstanding thou shouldst, with gold, brass ever so enwrap.
 
 The bead of this arrow will not come out from thy bones,  
 Until thy flesh shall have been by the sharp diamond incised. <span
-id="fr_398"></span>[\*](#fn_398)
+id="fr_398"></span>[\*](#fn_398.md)
 
 It was because he made use of words of arrogance and pride,  
 That Satan himself was wholly from God's mercy debarred.
@@ -410,8 +410,8 @@ In thy ways indeed, thou art still more silly than children,
 Even now that thy years are beyond forty and fifty passed.
 
 Shouldst thou drink one mouthful from the cup of love,  
-Like unto <u>Kh</u>izr <span id="fr_399"></span>[†](#fn_399) and Mihtar
-Iliyās, <span id="fr_400"></span>[‡](#fn_400) thou wilt never die!
+Like unto <u>Kh</u>izr <span id="fr_399"></span>[†](#fn_399.md) and Mihtar
+Iliyās, <span id="fr_400"></span>[‡](#fn_400.md) thou wilt never die!
 
 I am filled with terror and dismay, beyond all bounds;  
 For the Tempter waylayeth me before and on every side!
@@ -466,7 +466,7 @@ Remember thy beloved in thine heart, but with silent lips!
 
 The world is black, and maketh man's face so too at last;  
 But drink thou the wine of love, and red-faced become! <span
-id="fr_401"></span>[\*](#fn_401)
+id="fr_401"></span>[\*](#fn_401.md)
 
 <span id="page_340">p. 340</span>
 
@@ -559,7 +559,7 @@ But I am unable in any way the bonds of affection to break.
 The tears of separation flow so continually down my cheeks,  
 That I cannot upon my eyeballs retain the image of my beloved.
 
-Like the tulip, <span id="fr_402"></span>[\*](#fn_402) the blood of my
+Like the tulip, <span id="fr_402"></span>[\*](#fn_402.md) the blood of my
 own vitals I am ever consuming;  
 For I, <span class="smallcaps"><u>Kh</u>wājah Muḥammad</span>, am
 unable, openly, to speak.
@@ -621,7 +621,7 @@ The excellent of their time have passed from the world away,
 Around whom their disciples gathered their discourses to hear.
 
 Upon what wound of mine will the physicians salve apply?  
-For, with the diamonds <span id="fr_403"></span>[\*](#fn_403) of
+For, with the diamonds <span id="fr_403"></span>[\*](#fn_403.md) of
 separation I am all covered with wounds.
 
 <span id="page_344">p. 344</span>
@@ -738,8 +738,8 @@ They, before whom the poor were wont in humility to stand,
 In the tomb, on their backs fallen, have now mouldered away.
 
 For munificence and for justice their names still remain,  
-Though Hāt̤im Tā-yī <span id="fr_404"></span>[\*](#fn_404), and
-No<u>sh</u>erwān <span id="fr_405"></span>[†](#fn_405) have long from
+Though Hāt̤im Tā-yī <span id="fr_404"></span>[\*](#fn_404.md), and
+No<u>sh</u>erwān <span id="fr_405"></span>[†](#fn_405.md) have long from
 the world departed.
 
 <span id="page_347">p. 347</span>
@@ -748,7 +748,7 @@ Neither by power, nor by entreaty is there any escape from death:
 Happy the sanctified, who are occupied with eternal things!
 
 My heart hath become rent to atoms by the diamond <span
-id="fr_406"></span>[\*](#fn_406) of separation;  
+id="fr_406"></span>[\*](#fn_406.md) of separation;  
 For, one after the other, all my dear friends have been severed from me.
 
 All must hence depart: for what can <span
@@ -824,13 +824,13 @@ rend not Thou the veil!
 
 ### Footnotes
 
-<span id="fn_387"></span>[328:\*](spa21.htm#fr_387) See second note at
-page [195](spa11.htm#page_195).
+<span id="fn_387"></span>[328:\*](spa21.htm#fr_387.md) See second note at
+page [195](spa11.htm#page_195.md).
 
-<span id="fn_388"></span>[328:†](spa21.htm#fr_388) The name of a
+<span id="fn_388"></span>[328:†](spa21.htm#fr_388.md) The name of a
 celebrated Arabian physician, erroneously called Avicenna in the West.
 
-<span id="fn_389"></span>[329:\*](spa21.htm#fr_389) Among the three
+<span id="fn_389"></span>[329:\*](spa21.htm#fr_389.md) Among the three
 hundred and fifty-six persons who, among the Ṣūfis, are accounted holy
 men, nine only are deemed qualified to invest others with authority as
 teachers: these nine consist of the pole of poles, three poles, and five
@@ -838,58 +838,58 @@ props, and these nine alone can be deemed perfect teachers or spiritual
 guides. It is to his spiritual guide, the pole of whom he was a
 disciple, that the poet addresses the lines above.
 
-<span id="fn_390"></span>[332:\*](spa21.htm#fr_390) Og, king of Bashan.
+<span id="fn_390"></span>[332:\*](spa21.htm#fr_390.md) Og, king of Bashan.
 
-<span id="fn_391"></span>[332:†](spa21.htm#fr_391) See note at page
-[29](spa05.htm#page_29).
+<span id="fn_391"></span>[332:†](spa21.htm#fr_391.md) See note at page
+[29](spa05.htm#page_29.md).
 
-<span id="fn_392"></span>[332:‡](spa21.htm#fr_392) The name of a Ṣūfi
+<span id="fn_392"></span>[332:‡](spa21.htm#fr_392.md) The name of a Ṣūfi
 teacher, who is said to have attained the highest stage of Ṣūfi-ism, and
 who proclaimed, "I am the truth;" or, in other words, "I am God." The
 constant repetition of this impious phrase alarmed the orthodox
 priesthood, and he was therefore seized and impaled.
 
-<span id="fn_393"></span>[332:§](spa21.htm#fr_393) The name of a Persian
+<span id="fn_393"></span>[332:§](spa21.htm#fr_393.md) The name of a Persian
 king, Cyrus.
 
-<span id="fn_394"></span>[332:§§](spa21.htm#fr_394) See note at page
-[201](spa11.htm#page_201).
+<span id="fn_394"></span>[332:§§](spa21.htm#fr_394.md) See note at page
+[201](spa11.htm#page_201.md).
 
-<span id="fn_395"></span>[334:\*](spa21.htm#fr_395) The prosperous here
+<span id="fn_395"></span>[334:\*](spa21.htm#fr_395.md) The prosperous here
 signifies " immortal joys," and the adverse, "worldly pleasures."
 
-<span id="fn_396"></span>[335:\*](spa21.htm#fr_396) Muḥammad the Prophet
-is probably meant here; but see note at page [137](spa09.htm#page_137).
+<span id="fn_396"></span>[335:\*](spa21.htm#fr_396.md) Muḥammad the Prophet
+is probably meant here; but see note at page [137](spa09.htm#page_137.md).
 
-<span id="fn_397"></span>[336:\*](spa21.htm#fr_397) The body, the
+<span id="fn_397"></span>[336:\*](spa21.htm#fr_397.md) The body, the
 borrowed garment of the soul.
 
-<span id="fn_398"></span>[338:\*](spa21.htm#fr_398) It is believed that
+<span id="fn_398"></span>[338:\*](spa21.htm#fr_398.md) It is believed that
 the wound which a diamond touches will never heal.
 
-<span id="fn_399"></span>[338:†](spa21.htm#fr_399) See note at page
-[48](spa05.htm#page_48).
+<span id="fn_399"></span>[338:†](spa21.htm#fr_399.md) See note at page
+[48](spa05.htm#page_48.md).
 
-<span id="fn_400"></span>[338:‡](spa21.htm#fr_400) Elias, said to have
+<span id="fn_400"></span>[338:‡](spa21.htm#fr_400.md) Elias, said to have
 been a grandson of Shem, son of Noah.
 
-<span id="fn_401"></span>[339:\*](spa21.htm#fr_401) To become
+<span id="fn_401"></span>[339:\*](spa21.htm#fr_401.md) To become
 face-blackened, is to become disgraced; and red-faced, to be honoured
 and exalted.
 
-<span id="fn_402"></span>[342:\*](spa21.htm#fr_402) The tulip of a
+<span id="fn_402"></span>[342:\*](spa21.htm#fr_402.md) The tulip of a
 blood-red colour.
 
-<span id="fn_403"></span>[343:\*](spa21.htm#fr_403) See note at page
-[338](#page_338).
+<span id="fn_403"></span>[343:\*](spa21.htm#fr_403.md) See note at page
+[338](#page_338.md).
 
-<span id="fn_404"></span>[346:\*](spa21.htm#fr_404) See third note at
-page [207](spa11.htm#page_207).
+<span id="fn_404"></span>[346:\*](spa21.htm#fr_404.md) See third note at
+page [207](spa11.htm#page_207.md).
 
-<span id="fn_405"></span>[346:†](spa21.htm#fr_405) See second note at
-page [201](spa11.htm#page_201).
+<span id="fn_405"></span>[346:†](spa21.htm#fr_405.md) See second note at
+page [201](spa11.htm#page_201.md).
 
-<span id="fn_406"></span>[347:\*](spa21.htm#fr_406) See note at page
-[338](#page_338).
+<span id="fn_406"></span>[347:\*](spa21.htm#fr_406.md) See note at page
+[338](#page_338.md).
 
  

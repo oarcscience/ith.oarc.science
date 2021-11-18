@@ -10,16 +10,16 @@ categories: ' <BR> <A HREF="../sha/index">Shamanism</A>&nbsp; <A HREF="../pag/in
 ------------------------------------------------------------------------
 
 For a larger image, click on each painting.  
-Explanatory text: [English](cavepeng.txt) [French](cavepfrn.txt).
+Explanatory text: [English](cavepeng.txt) [French](cavepfrn.txt.md).
 
-[![](mamotth.gif)](mamot11.gif)
+[![](mamotth.gif)](mamot11.gif.md)
 
-[![](hyeneth.gif)](hyene11.gif)
+[![](hyeneth.gif)](hyene11.gif.md)
 
-[![](gvpdath.gif)](gvpda11.gif)
+[![](gvpdath.gif)](gvpda11.gif.md)
 
-[![](chevoth.gif)](chevo11.gif)
+[![](chevoth.gif)](chevo11.gif.md)
 
 ------------------------------------------------------------------------
 
-[![](../cnote.gif)](../cnote) [Copyright information](pgcnote.txt)
+[![](../cnote.gif)](../cnote) [Copyright information](pgcnote.txt.md)

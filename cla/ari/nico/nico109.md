@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico108) 
-[Next](nico110) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico108.md) 
+[Next](nico110.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ expressed about pleasure.
 ------------------------------------------------------------------------
 
 [Next: Chapter 2. Discussion of the view that pleasure is the
-good](nico110)
+good](nico110.md)

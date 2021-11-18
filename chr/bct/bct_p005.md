@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Return
-to text](bct03.htm#p005)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [Return
+to text](bct03.htm#p005.md)
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ heaven.</span>
 
 ------------------------------------------------------------------------
 
-[Return to text](bct03.htm#p005)
+[Return to text](bct03.htm#p005.md)

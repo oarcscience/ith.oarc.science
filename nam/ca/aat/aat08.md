@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat07)  [Next](aat09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat07)  [Next](aat09.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ Bluejay were dead. Thus Lizard and Bluejay lived through the winter.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Silver-Fox And Coyote (Achomawi)](aat09)
+[Next: 8. Silver-Fox And Coyote (Achomawi)](aat09.md)

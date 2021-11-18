@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml10)  [Next](yml12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml10)  [Next](yml12.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ names the sun (Zingg 1938: 517).
 
 ------------------------------------------------------------------------
 
-[Next: Mochomo](yml12)
+[Next: Mochomo](yml12.md)

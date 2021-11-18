@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe06) 
-[Next](ioe08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe06.md) 
+[Next](ioe08.md) 
 
 ------------------------------------------------------------------------
 
@@ -408,4 +408,4 @@ the vicinity of Rajagriha.
 
 ------------------------------------------------------------------------
 
-[Next: The Asuka Period: 550 to 700 A.D.](ioe08)
+[Next: The Asuka Period: 550 to 700 A.D.](ioe08.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj15) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj15.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ occurred to me that I could very well venture to swim out to the lights.
 They were moving slowly. I dropped my robe on the beach, and plunged in.
 The sea was calm,
 
-![The Lights of the Dead](img/23000.jpg)  
+![The Lights of the Dead](img/23000.jpg.md)  
 THE LIGHTS OF THE DEAD
 
 {p. 231}

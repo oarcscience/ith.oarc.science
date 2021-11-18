@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-07tx) [Next](dob-08tx)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-07tx) [Next](dob-08tx.md)
 
 ------------------------------------------------------------------------
 
@@ -820,4 +820,4 @@ are there expressly mentioned.}</span>
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: VIII. Kassapa-sîhanâda Sutta](dob-08tx)
+[Return to top](#top)   [Next: VIII. Kassapa-sîhanâda Sutta](dob-08tx.md)

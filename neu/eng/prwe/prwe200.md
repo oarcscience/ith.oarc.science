@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe199)  [Next](prwe201) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe199)  [Next](prwe201.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ twelve months after I had as good a head of dark-brown hair as ever."
 
 ------------------------------------------------------------------------
 
-[Next: The Phantom Lights](prwe201)
+[Next: The Phantom Lights](prwe201.md)

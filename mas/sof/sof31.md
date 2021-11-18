@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](sof30)  [Next](sof32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](sof30)  [Next](sof32.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <div>
 
 <span id="img_head29.png"></span> ![Header Chapter
-XXIX.](img/head29.png)
+XXIX.](img/head29.png.md)
 
 ## XXIX.
 
@@ -20,7 +20,7 @@ that it teaches not only the necessity, but the nobility, of labor.
 Among the earliest of the implements in whose emblematic use it
 instructs its neophytes is the Trestle Board, the acknowledged symbol of
 the Divine Law, in accordance with whose
-decree [199](sof37.htm#xref_199) labor was originally instituted as the
+decree [199](sof37.htm#xref_199.md) labor was originally instituted as the
 common lot of all; and therefore the important lesson that is closely
 connected with this symbol is, that to labor well and truly, to labor
 honestly and persistently, is the object and the chief end of all
@@ -58,7 +58,7 @@ much, but they did no work. And thus they passed their lives, giving no
 pity, aid, or consolation to their fellow-men, adding no mite to the
 treasury of human knowledge, and leaving the world, when their selfish
 pilgrimage was finished, without a single contribution, in labor of mind
-or body, to its welfare. [200](sof37.htm#xref_200)
+or body, to its welfare. [200](sof37.htm#xref_200.md)
 
 And men, seeing the uselessness of these ascetic lives, shrink now from
 their example, and fall back upon that wiser teaching, that he best does
@@ -139,7 +139,7 @@ terrestrial globe, and all the countless worlds that surround it. He is
 not the *ens entium*, or *to theion*, or any other of the thousand
 titles with which ancient and modern speculation has invested him, but
 simply the Architect,--as the Greeks have it, the ἀρχὸς, the chief
-workman,--under whom we are all workmen also; [201](sof37.htm#xref_201)
+workman,--under whom we are all workmen also; [201](sof37.htm#xref_201.md)
 and hence our labor is his worship.
 
 This idea, then, of masonic labor, is closely connected with the history
@@ -259,13 +259,13 @@ conversation, does not allow us to doubt of the Saviour's meaning.
 "Then said the Jews, Forty and six years was this temple in building,
 and wilt thou rear it up in three days?
 
-"But he spake of the temple of his body."  [202](sof37.htm#xref_202)
+"But he spake of the temple of his body."  [202](sof37.htm#xref_202.md)
 
 In more than one place the apostle Paul has fondly dwelt upon this
 metaphor. Thus he tells the Corinthians that they are "God's building,"
 and he calls himself the "wise master builder," who was to lay the
 foundation in his truthful doctrine, upon which they were to erect the
-edifice. [203](sof37.htm#xref_203) And he says to them immediately
+edifice. [203](sof37.htm#xref_203.md) And he says to them immediately
 afterwards, "Know ye not that ye are the temple of God, and that the
 Spirit of God dwelleth in you?"
 
@@ -293,7 +293,7 @@ promises for the preservation of a Christian's life and glory. The
 God, ready to break forth into Abba, Father. The *veiles*, the
 righteousness of Christ. The *holy of holies* may relate to the
 conscience purified from dead works and brought into a heavenly frame."
- [204](sof37.htm#xref_204) And thus he proceeds, symbolizing every part
+ [204](sof37.htm#xref_204.md) And thus he proceeds, symbolizing every part
 and utensil of the temple as alluding to some emotion or affection of
 man, but in language too tedious for quotation.
 
@@ -326,7 +326,7 @@ any tool of iron,' was altogether a moral building--a building of God,
 not made with hands: in short, many see in the story of Solomon's temple
 a symbolical representation of MAN as the temple of God, with its *holy
 of holies* deep-seated in the centre of the human heart."
- [205](sof37.htm#xref_205)
+ [205](sof37.htm#xref_205.md)
 
 The French Masons have not been inattentive to this symbolism. Their
 already quoted expression that the "Freemasons build temples for virtue
@@ -336,7 +336,7 @@ most distinguished writers never lose sight of it.
 Thus Ragon, one of the most learned of the French historians of
 Freemasonry, in his lecture to the Apprentice, says that the founders of
 our Order "called themselves Masons, and proclaimed that they were
-building a temple to truth and virtue."  [206](sof37.htm#xref_206) And
+building a temple to truth and virtue."  [206](sof37.htm#xref_206.md) And
 subsequently he addresses the candidate who has received the Master's
 degree in the following language:--
 
@@ -345,7 +345,7 @@ your mind. Direct your passions to the general good; combat your
 prejudices; watch over your thoughts and your actions; love, enlighten,
 and assist your brethren; and you will have perfected that *temple* of
 which you are at once the *architect*, the *material*, and the
-*workman*."  [207](sof37.htm#xref_207)
+*workman*."  [207](sof37.htm#xref_207.md)
 
 Rebold, another French historian of great erudition, says, "If
 Freemasonry has ceased to erect temples, and by the aid of its
@@ -354,14 +354,14 @@ and hopes to heaven, it has not therefore desisted from its work of
 moral and intellectual building;" and he thinks that the success of the
 institution has justified this change of purpose and the disruption of
 the speculative from the operative character of the
-Order. [208](sof37.htm#xref_208)
+Order. [208](sof37.htm#xref_208.md)
 
 Eliphas Levi, who has written abstrusely and mystically on Freemasonry
 and its collateral sciences, sees very clearly an allegorical and a real
 design in the institution, the former being the rebuilding of the temple
 of Solomon, and the latter the improvement of the human race by a
 reconstruction of its social and religious
-elements. [209](sof37.htm#xref_209)
+elements. [209](sof37.htm#xref_209.md)
 
 The Masons of Germany have elaborated this idea with all the
 exhaustiveness that is peculiar to the German mind, and the masonic
@@ -375,19 +375,19 @@ Thus writes Bro. Rhode, of Berlin:--
 to him that we are building a mystical temple;" and he adds that "this
 temple which we Masons are building is nothing else than that which will
 conduce to the greatest possible happiness of mankind."
- [210](sof37.htm#xref_210)
+ [210](sof37.htm#xref_210.md)
 
 And another German brother, Von Wedekind, asserts that "we only labor in
 our temple when we make man our predominating object, when we unite
 goodness of heart with polished manners, truth with beauty, virtue with
-grace."  [211](sof37.htm#xref_211)
+grace."  [211](sof37.htm#xref_211.md)
 
 Again we have Reinhold telling us, in true Teutonic expansiveness of
 expression, that "by the mystical Solomonic temple we are to understand
 the high ideal or archetype of humanity in the best possible condition
 of social improvement, wherein every evil inclination is overcome, every
 passion is resolved into the spirit of love, and wherein each for all,
-and all for each, kindly strive to work."  [212](sof37.htm#xref_212)
+and all for each, kindly strive to work."  [212](sof37.htm#xref_212.md)
 
 And thus the German Masons call this striving for an almost millennial
 result *labor in the temple*.
@@ -405,7 +405,7 @@ any other of the distinguished masonic writers of England, has dwelt on
 this peculiar symbolism of a moral temple with that earnest appreciation
 of the idea that is to be found in the works of the French and German
 Masons. But although the allusions are rather casual and incidental, yet
-the symbolic theory is evidently recognized. [213](sof37.htm#xref_213)
+the symbolic theory is evidently recognized. [213](sof37.htm#xref_213.md)
 
 Our own country has produced many students of Masonic symbolism, who
 have thoroughly grasped this noble thought, and treated it with
@@ -416,13 +416,13 @@ to present acceptation, has an ultimate reference to that spiritual
 building erected by virtue in the heart, and summarily implies the
 arrangement and perfection of those holy and sublime principles by which
 the soul is fitted for a meet temple of God in a world of immortality."
- [214](sof37.htm#xref_214)
+ [214](sof37.htm#xref_214.md)
 
 Charles Scott has devoted one of the lectures in his "Analogy of Ancient
 Craft Masonry to Natural and Revealed Religion" to a thorough
 consideration of this subject. The language is too long for quotation,
 but the symbol has been well interpreted by
-him. [215](sof37.htm#xref_215)
+him. [215](sof37.htm#xref_215.md)
 
 Still more recently, Bro. John A. Loclor has treated the topic in an
 essay, which I regret has not had a larger circulation. A single and
@@ -494,6 +494,6 @@ words--LABOR IS WORSHIP.
 
 ------------------------------------------------------------------------
 
-[Next: XXX. The Stone of Foundation](sof32)
+[Next: XXX. The Stone of Foundation](sof32.md)
 
 </div>

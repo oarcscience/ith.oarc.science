@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly16)  [Next](lly18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly16)  [Next](lly18.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,7 +118,7 @@ the brooding,
 <span id="img_04700"></span> [![SENTINEL ROCK (OR LOI-YA) AND THE MERCED
 RIVER&lt;BR&gt; &lt;I&gt;Photo A. C.
 Pillsbury&lt;/I&gt;](tn/04700.jpg)  
-Click to enlarge](img/04700.jpg)  
+Click to enlarge](img/04700.jpg.md)  
 SENTINEL ROCK (OR LOI-YA) AND THE MERCED RIVER  
 *Photo A. C. Pillsbury*  
 
@@ -130,4 +130,4 @@ unbroken, trancelike, listening silence of the far places of the earth.
 
 ------------------------------------------------------------------------
 
-[Next: North Dome and Basket Dome](lly18)
+[Next: North Dome and Basket Dome](lly18.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah18)  [Next](oah20) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah18)  [Next](oah20.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,4 +193,4 @@ obsessing them to madness and death.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](oah20)
+[Next: Chapter IV](oah20.md)

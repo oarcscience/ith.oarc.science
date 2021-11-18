@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw15)  [Next](omw17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw15)  [Next](omw17.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ was a Quichua scholar, in 1583.
 
 ------------------------------------------------------------------------
 
-[Next: Central American and Mexican](omw17)
+[Next: Central American and Mexican](omw17.md)

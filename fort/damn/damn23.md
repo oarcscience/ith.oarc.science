@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](damn22)  [Next](damn24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](damn22)  [Next](damn24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8878/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of the Damned*, by Charles Fort, \[1919\], at Intangible
 Textual Heritage
 
@@ -144,7 +144,7 @@ horizon, a great number of round bodies, dark brown, and seemingly the
 size of a hat crown. They passed overhead and disappeared in the eastern
 horizon. Tremendous procession. It lasted two hours. Occasionally one
 fell to the ground. When the place of a fall was examined, there was
-found a film, which soon dried [and](errata.htm#6) vanished. Often, when
+found a film, which soon dried [and](errata.htm#6.md) vanished. Often, when
 approaching the sun, these bodies seemed to link together, or were then
 seen to be linked together, in groups not exceeding eight, and, under
 the sun, they were seen to have tails three or four fathoms long. Away
@@ -268,4 +268,4 @@ mystery of its reported 'fall' remained unexplained."
 
 ------------------------------------------------------------------------
 
-[Next: 24](damn24)
+[Next: 24](damn24.md)

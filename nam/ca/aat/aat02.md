@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat01)  [Next](aat03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat01)  [Next](aat03.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ points; and when they went hunting, they killed many deer.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Making of Daylight (Achomawi)](aat03)
+[Next: 2. The Making of Daylight (Achomawi)](aat03.md)

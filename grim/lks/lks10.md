@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks09)  [Next](lks11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks09)  [Next](lks11.md) 
 
 ------------------------------------------------------------------------
 
 ### THE HEXAGRAM OF SOLOMON.
 
-<span id="img_fig155"></span> [![](tn/generic.jpg)](img/fig155.jpg)
+<span id="img_fig155"></span> [![](tn/generic.jpg)](img/fig155.jpg.md)
 
 THIS is the Form of the Hexagram of Solomon, the figure whereof is to be
 made on parchment of a calf's skin, and worn at the skirt of thy white
@@ -28,4 +28,4 @@ Omega in red letters.)
 
 ------------------------------------------------------------------------
 
-[Next: The Pentagram Of Solomon](lks11)
+[Next: The Pentagram Of Solomon](lks11.md)

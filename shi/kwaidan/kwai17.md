@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai16)  [Next](kwai18) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai16)  [Next](kwai18.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ his life for his friend...\]
 
 ------------------------------------------------------------------------
 
-[Next: Horai](kwai18)
+[Next: Horai](kwai18.md)

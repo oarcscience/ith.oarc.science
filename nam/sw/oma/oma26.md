@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma25)  [Next](oma27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma25)  [Next](oma27.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ countries, from which they brought back many scalps of people they
 killed. The rulers in the four directions did not like the Twins, so
 they held a meeting and decided that the Twins were doing too much
 wrong, that they were afraid of nothing nor anybody. They decided the
-Twins should be punished. <span id="fr_182"></span>[83](#fn_182) So they
+Twins should be punished. <span id="fr_182"></span>[83](#fn_182.md) So they
 called Pishuni hachtsa \[old man\] (the evil spirit) to help them. When
 he came they asked him if he would help them punish the Twins, and told
 him the wrongs they had been doing. So he said, "Yes, I'll be glad to
@@ -43,7 +43,7 @@ are my husband, don't you remember you invited me to live here?" and
 tried to pull them back. The Twins were frightened and ran out of the
 house followed by Pishuna. The spirit was called Ko’oko, a haunt. Thus,
 if a man murders another, he is always haunted by Kooko at night. <span
-id="fr_183"></span>[84](#fn_183)
+id="fr_183"></span>[84](#fn_183.md)
 
 She followed the Twins all night. They would go a distance and try to
 rest, but she would catch up and speak to them. She kept haunting them
@@ -113,7 +113,7 @@ there you are to take your scalps and wash them. You are also to dance
 for the public. But from the day you wash the scalps, you are to fast 30
 days (and observe continence). After the thirtieth day you are to come
 out and dance." They were to call the Koshari (impersonators) to be the
-leaders in this dance. <span id="fr_184"></span>[85](#fn_184) He taught
+leaders in this dance. <span id="fr_184"></span>[85](#fn_184.md) He taught
 them how to dance and how to carry the scalps. They were to have cedar
 branches, one scalp to hang from each twig. They were to get a long pole
 to the top of which they would tie the scalps. They were to place this
@@ -151,7 +151,7 @@ true, I know you are talking to us. It is true that we have made a
 mistake. You have always known us to be superior. We have never told
 you, but we have killed many people in our travels and their bodies are
 scattered all around. For this reason punishment was brought upon us by
-the Skau'pistaia. <span id="fr_185"></span>[86](#fn_185) For this reason
+the Skau'pistaia. <span id="fr_185"></span>[86](#fn_185.md) For this reason
 they brought alive Kooko for us. They almost got the best of us with the
 Kooko. But Gaukapuchume helped us conquer it. We were saved in the South
 Mountain. For 8 days and 8 nights we were without sleep, food, or water.
@@ -193,7 +193,7 @@ After the twelfth day, they called Country Chief to tell him to tell his
 people they should make songs to be used in dramatizing the bringing of
 scalps into the pueblo. (They were to act as though they had killed an
 enemy and were bringing in the scalp.) <span
-id="fr_186"></span>[87](#fn_186) Country Chief did as he was asked to
+id="fr_186"></span>[87](#fn_186.md) Country Chief did as he was asked to
 do. The men gathered and made songs. They had a song they were to use
 when the scalps were to be brought in and to sing to them all night till
 sunrise.
@@ -219,7 +219,7 @@ likewise cried out for all the able-bodied men to come out into the
 plaza. Giving the war cry, Masewi and Oyoyewi approached as the people
 gathered in the plaza. Country Chief was coaxing the people to hurry;
 they were frightened. The Twins finally came into the crowd and they
-told the people, "The Moishumoi <span id="fr_187"></span>[88](#fn_187)
+told the people, "The Moishumoi <span id="fr_187"></span>[88](#fn_187.md)
 (enemies) are coming after us; we have killed some of them."
 
 <span id="page_88">p. 88</span>
@@ -253,7 +253,7 @@ to help with our dance. For 4 days you will practice this dance. Our
 mother is going to do the ashia (the name of her part in the dance)." He
 told the people, "This is the way you are to pay tribute to your
 warriors if they conquer some other people." <span
-id="fr_188"></span>[89](#fn_188)
+id="fr_188"></span>[89](#fn_188.md)
 
 That same night Country Chief had asked that the Koshari come out of the
 kiva. They were to go from house to house and gel, the people to go to
@@ -290,7 +290,7 @@ to wear.
 As soon as the sun came up, the Koshari said the dance was to start. All
 the people came out and took position on the plaza.
 
-The mother <span id="fr_189"></span>[90](#fn_189) of the twins goes in
+The mother <span id="fr_189"></span>[90](#fn_189.md) of the twins goes in
 dancing among the men as they come into the plaza. When the song is over
 the men stop, and the mother dances alone back of the pole, Masewi and a
 chaianyi sitting between her and the pole. She dances just one song by
@@ -310,7 +310,7 @@ When the dance was over, the Twins said a prayer for the people and
 thanked them for taking part in the ceremony. The people then left and
 rested. The Twins took down the pole and told the people that the scalps
 belonged to the tribe, and anyone wishing to be brave might come and ask
-the scalps for power. <span id="fr_190"></span>[91](#fn_190) They told
+the scalps for power. <span id="fr_190"></span>[91](#fn_190.md) They told
 the people that they were to go through this ceremony any time that an
 enemy was killed. This dance is also to pay respect to the enemy who has
 been killed, so he will not haunt the killer.
@@ -327,7 +327,7 @@ enemy is known as Opi or Masewi, he always represents Masewi. The last
 of these, an old man, about 25 years ago, had the scalps buried, there
 would be no one to feed them and care for them when he died, and he
 feared sickness or pests might come to the village as a result.) <span
-id="fr_191"></span>[92](oma27.htm#fn_191)
+id="fr_191"></span>[92](oma27.htm#fn_191.md)
 
 From this day on, the Twins were much more careful of what they did and
 were not so impetuous and purposeless in their activities. Every time a
@@ -337,10 +337,10 @@ were not very happy any more and that they were no longer fit to be with
 the people and that they were going to disappear. They said that they
 were going to take their mother and the three would go on top of the
 east point of the rock <span
-id="fr_192"></span>[93](oma27.htm#fn_192)(at Acoma). They said they
+id="fr_192"></span>[93](oma27.htm#fn_192)(at Acoma.md). They said they
 selected this place because they knew that Iatiku meant for the people
 to live on top of the rock, as it would be more wonderful and
-mysterious. <span id="fr_193"></span>[94](oma27.htm#fn_193) "So we are
+mysterious. <span id="fr_193"></span>[94](oma27.htm#fn_193.md) "So we are
 going ahead in order to disappear there." Shortly after this Masewi,
 Oyoyewi, and their mother were missed by the people.
 
@@ -348,51 +348,51 @@ Oyoyewi, and their mother were missed by the people.
 
 ### Footnotes
 
-<span id="fn_182"></span>[83:83](oma26.htm#fr_182) Cf. Acoma, White,
+<span id="fn_182"></span>[83:83](oma26.htm#fr_182.md) Cf. Acoma, White,
 1942; Santo Domingo, White, 1935, pp. 187-191; Zuñi, Parsons, 1923 b,
 155-159.
 
-<span id="fn_183"></span>[84:84](oma26.htm#fr_183) An Acoma man was sent
+<span id="fn_183"></span>[84:84](oma26.htm#fr_183.md) An Acoma man was sent
 to the penitentiary at Santa Fé to serve a long term for murder. When he
 returned to Acoma he said that what he suffered most while in prison was
 being pursued his sleep by ko’ok.--L. A. W.
 
-<span id="fn_184"></span>[85:85](oma26.htm#fr_184) White, 1932, pp.
+<span id="fn_184"></span>[85:85](oma26.htm#fr_184.md) White, 1932, pp.
 97-101; Boas, 1928, pt. 1, pp. 2891-90. See White, 1942.
 
-<span id="fn_185"></span>[86:86](oma26.htm#fr_185) The informant said
+<span id="fn_185"></span>[86:86](oma26.htm#fr_185.md) The informant said
 that this term includes the rulers of the directions, the katsina and
 others. White was told that ckau'pictaiya is a term embracing the
 spirits of the four directions, Sun, Moon, Wind, and Earth, but that it
 does not include the katsina, Lightning, or Iatiku. He was unable to
 ascertain the basis of this distinction.
 
-<span id="fn_186"></span>[87:87](oma26.htm#fr_186) Informant's note: At
+<span id="fn_186"></span>[87:87](oma26.htm#fr_186.md) Informant's note: At
 Acoma one could become an Opi \[a member of the Warriors' society\] only
 by killing a human enemy, but in other places one could become Opi
 through killing an eagle or a bear. Cf. White, 1932, p. 96 At Santa Ana
 one could become an Opi through killing a bear, puma, and perhaps
 wildcat and eagle (White, ms.).
 
-<span id="fn_187"></span>[87:88](oma26.htm#fr_187) Mo'acomi does not
+<span id="fn_187"></span>[87:88](oma26.htm#fr_187.md) Mo'acomi does not
 mean enemies literally, but "nomadic Indian tribes adjacent to the
 pueblos:" Navaho, Apache, Ute, Comanche. Actually, of course, they were
 enemies of the pueblos. Cf. Gunn, 1917, p. 86. "The Queres call the
 Navajos 'Moa-shrum.' The name means, 'those who came out of the hills or
 rough country.'"
 
-<span id="fn_188"></span>[88:89](oma26.htm#fr_188) This sentence seems
+<span id="fn_188"></span>[88:89](oma26.htm#fr_188.md) This sentence seems
 highly paraphrased or highly acculturated for: This is the way you are
 to dance when you take a scalp (or have killed an enemy). See below.
 
-<span id="fn_189"></span>[89:90](oma26.htm#fr_189) According to Boas,
+<span id="fn_189"></span>[89:90](oma26.htm#fr_189.md) According to Boas,
 1928, pt. 1, pp. 16, 207, 286, 289, the woman who dances with Masewi in
 the scalp dance is ko’oko, and is the sister of the War Twins, not their
 mother.
 
-<span id="fn_190"></span>[89:91](oma26.htm#fr_190) Cf. White, 1935, p.
+<span id="fn_190"></span>[89:91](oma26.htm#fr_190.md) Cf. White, 1935, p.
 60, ftn. 56.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part XVIII](oma27)
+[Next: Wanderings, Part XVIII](oma27.md)

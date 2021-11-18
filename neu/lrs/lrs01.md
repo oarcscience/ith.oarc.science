@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs00)  [Next](lrs02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs00)  [Next](lrs02.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ EDINBURGH,
 
 ------------------------------------------------------------------------
 
-[Next: Contents](lrs02)
+[Next: Contents](lrs02.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ift02) 
-[Next](ift04) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ift02.md) 
+[Next](ift04.md) 
 
 ------------------------------------------------------------------------
 
@@ -414,4 +414,4 @@ ever came to make war on him, he never needed to use the stick.
 
 ------------------------------------------------------------------------
 
-[Next: The Lambikin](ift04)
+[Next: The Lambikin](ift04.md)

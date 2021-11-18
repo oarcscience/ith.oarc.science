@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](bet06)  [Next](bet08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](bet06)  [Next](bet08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -75,7 +75,7 @@ day shall be a solemn assembly unto the Lord thy God"; another verse
 contradiction between these two verses be explained? R. Eliezer explains
 it thus. The whole day shall be either for you or for the Lord; but R.
 Joshuah explains it thus: Divide the day--one-half for the Lord and
-one-half for you. Said R. Elazar: <span id="fr_14"></span>[1](#fn_14)
+one-half for you. Said R. Elazar: <span id="fr_14"></span>[1](#fn_14.md)
 All agree that on Pentecost the day must be partly devoted to one's self
 also. Why so? Because on this day the law was given to Israel, and we
 must enjoy it. Said Rabha: All agree also that on a Sabbath the day must
@@ -123,7 +123,7 @@ one, he ate the former, and left the better one for Sabbath; but Hillel
 the Elder had another habit: Because all his deeds were for the sake of
 Heaven, as it is written \[Ps. lxviii. 20\]: "Blessed be the Lord! *day
 by day* he loadeth us with benefits" (trusting in God to provide for
-Sabbath at the proper time). <span id="fr_15"></span>[1](#fn_15)
+Sabbath at the proper time). <span id="fr_15"></span>[1](#fn_15.md)
 
 "*One may prepare on the eve of the festival one dish*," etc. Said
 Abayi: Only a dish is good for the purpose, but bread alone is not. Why
@@ -293,7 +293,7 @@ become polluted may be purified by pouring it into an earthenware
 vessel, but not on earth itself. It is lawful, however, to dip vessels
 whose original appropriation has been altered, and men may bathe when
 they have changed from one company to another (to eat the Paschal
-lamb). <span id="fr_16"></span>[1](#fn_16)
+lamb). <span id="fr_16"></span>[1](#fn_16.md)
 
 GEMARA: We see from this Mishna that, according to all, a vessel must
 not be dipped on Sabbath. Why so? Said R. Bibbi: It is a precautionary
@@ -344,7 +344,7 @@ thereafter he changed his mind to eat with another company, he might do
 so.
 
 MISHNA: One may bring peace-offerings on the festival, but not lay his
-hands on them; <span id="fr_17"></span>[1](#fn_17) and burnt-offerings
+hands on them; <span id="fr_17"></span>[1](#fn_17.md) and burnt-offerings
 may not be brought at all--according to Beth Shammai. Beth Hillel,
 however, allow all this.
 
@@ -409,7 +409,7 @@ of the feast-offering is not fulfilled. As R. Simeon b. Lakish asked of
 R. Johanan: If one say, "I will bring a thanksgiving-offering, and with
 this I will fulfil the duty of a feast-offering"; or, "I will be a
 Nazarite, but when I shall bring the offering after shaving, <span
-id="fr_18"></span>[1](#fn_18) I will take it from the second tithe
+id="fr_18"></span>[1](#fn_18.md) I will take it from the second tithe
 money," what is the law? And R. Johanan answered him: He must bring a
 thanksgiving-offering, but the duty of the feast-offering is not
 fulfilled; he is a Nazarite, but cannot bring the shaving-offering from
@@ -541,7 +541,7 @@ they went away in peace. Rejoined R. Jehudah b. Baba: I wonder whether
 your loss vas not greater than your benefit, for the Torah teaches "unto
 you," but not unto Gentiles. (They should not have done work for the
 soldiers.) Now, why? Were not the calves fit for Israelites also? Said
-R. Joseph: The calves were Terepha. <span id="fr_19"></span>[1](#fn_19)
+R. Joseph: The calves were Terepha. <span id="fr_19"></span>[1](#fn_19.md)
 
 But was it not fit for dogs when the owners are obliged to feed them?
 The Tanaim of the following Boraitha differ about this law: It is
@@ -644,7 +644,7 @@ is R. Zbid, who has also asked the same question, and I answered him
 that assistance is not considered a labor at all. The same Amemar
 allowed that one should dye his eyes on the second day of New Year. Said
 R. Ashi to him: Did not Rabha say that in the two days of New Year the
-case is different with an egg (see above, [p. 8](bet06.htm#page_8))? And
+case is different with an egg (see above, [p. 8](bet06.htm#page_8).md)? And
 he answered: My opinion is as that of the sages of Nehardai, who say
 there is no difference.
 
@@ -801,23 +801,23 @@ Said R. Abba; *Asthma*.--From Abodah Zarah, pp. 28a-29b.}
 
 ### Footnotes
 
-<span id="fn_14"></span>[29:1](bet07.htm#fr_14) This is transferred from
+<span id="fn_14"></span>[29:1](bet07.htm#fr_14.md) This is transferred from
 Pesachim, p. 68, b.
 
-<span id="fn_15"></span>[30:1](bet07.htm#fr_15) The saying of R. Johanan
+<span id="fn_15"></span>[30:1](bet07.htm#fr_15.md) The saying of R. Johanan
 here is transferred in our edition from here to Tract Sabbath, p. 18, as
 it belongs there.
 
-<span id="fn_16"></span>[34:1](bet07.htm#fr_16) See Tract Pesachim,
+<span id="fn_16"></span>[34:1](bet07.htm#fr_16.md) See Tract Pesachim,
 Chap. IX., Mishna I.
 
-<span id="fn_17"></span>[35:1](bet07.htm#fr_17) See Lev. i. 4.
+<span id="fn_17"></span>[35:1](bet07.htm#fr_17.md) See Lev. i. 4.
 
-<span id="fn_18"></span>[37:1](bet07.htm#fr_18) See Num. vi. 9.
+<span id="fn_18"></span>[37:1](bet07.htm#fr_18.md) See Num. vi. 9.
 
-<span id="fn_19"></span>[40:1](bet07.htm#fr_19) Legally prohibited to be
+<span id="fn_19"></span>[40:1](bet07.htm#fr_19.md) Legally prohibited to be
 eaten by Israelites, as will be explained in Tract Hulin.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](bet08)
+[Next: Chapter III](bet08.md)

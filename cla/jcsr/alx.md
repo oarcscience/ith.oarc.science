@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](civ3)  [Next](afr) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](civ3)  [Next](afr.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140444335/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140444335/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ McDevitte and W.S. Bohn \[1869\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: African War](afr)
+[Next: African War](afr.md)

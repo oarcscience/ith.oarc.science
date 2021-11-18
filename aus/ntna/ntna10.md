@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Images](imglist)  [Index](index)  [Previous](ntna09)  [Next](ntna11) 
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](ntna09)  [Next](ntna11.md) 
 
 ------------------------------------------------------------------------
 
@@ -372,4 +372,4 @@ representative of one special individual amongst the old ancestors.
 ------------------------------------------------------------------------
 
 [Next: Chapter IX: Traditions Concerning Imberombera, The Great
-Ancestor, And Also Other Ancestors Of The Kakadu Nation](ntna11)
+Ancestor, And Also Other Ancestors Of The Kakadu Nation](ntna11.md)

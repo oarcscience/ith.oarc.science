@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](ipi02)  [Next](ipi04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](ipi02)  [Next](ipi04.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ intimately connected--the power of healing being merely a phase of
 wisdom. From the earliest times of which we have any historical notice,
 the serpent has been connected with the gods of wisdom. This animal was
 the especial symbol of Thoth or Taaut, a primeval deity of Syro-Egyptian
-mythology, <span id="fr_12"></span>[13](ipi14.htm#fn_12) and of all
+mythology, <span id="fr_12"></span>[13](ipi14.htm#fn_12.md) and of all
 those gods, such as Hermes and Seth, who can be connected with him. This
 is true also of the third member of the primitive Chaldean triad, Hea or
 Hoa. According to Sir Henry Rawlinson, the most important titles of this
@@ -33,11 +33,11 @@ science." Not only is he "the intelligent fish," but his name may be
 read as signifying both "life" and a "serpent," and he may be considered
 as "figured by the great serpent which occupies so conspicuous a place
 among the symbols of the gods on the black stones recording Babylonian
-benefactions." <span id="fr_13"></span>[14](ipi14.htm#fn_13) The serpent
+benefactions." <span id="fr_13"></span>[14](ipi14.htm#fn_13.md) The serpent
 was also the symbol of the Egyptian Kneph, who resembled the Sophia of
 the Gnostics, the Divine Wisdom. This animal, moreover, was the
 Agathodaemon of the religions of antiquity--the giver of happiness and
-good fortune. <span id="fr_14"></span>[15](ipi14.htm#fn_14) It was in
+good fortune. <span id="fr_14"></span>[15](ipi14.htm#fn_14.md) It was in
 these capacities, rather than as having a phallic significance, that the
 serpent was associated with the sun-gods, the Chaldean Bel, the Grecian
 Apollo, and the Semitic Seth.
@@ -51,24 +51,24 @@ is always represented as accompanied by a great male serpent. This
 serpent is the Sun-god Tonacatl-coatl, the principal deity of the
 Mexican pantheon; and the goddess-mother of primitive man is called
 Cihua-Cohuatl, which signifies woman of the serpent. <span
-id="fr_15"></span>[16](ipi14.htm#fn_15) According to this legend, which
+id="fr_15"></span>[16](ipi14.htm#fn_15.md) According to this legend, which
 agrees with that of other American tribes, a serpent must have been the
 father of the human race. This notion can be explained only on the
 supposition that the serpent was thought to have had at one time a human
 form. In the Hebrew legend the tempter speaks; and "the old serpent
 having two feet," of Persian mythology, is none other than the evil
-spirit Ahriman himself. <span id="fr_16"></span>[17](ipi14.htm#fn_16)
+spirit Ahriman himself. <span id="fr_16"></span>[17](ipi14.htm#fn_16.md)
 The fact is that the serpent was only a symbol, or at most an
 embodiment, of the spirit which it represented, as we see from the
 belief of certain African and American tribes, which probably preserves
 the primitive form of this supposition. Serpents are looked upon by
 these peoples as embodiments of their departed ancestors, <span
-id="fr_17"></span>[18](ipi14.htm#fn_17) and an analogous notion is
+id="fr_17"></span>[18](ipi14.htm#fn_17.md) and an analogous notion is
 entertained by various Hindu tribes. No doubt the noiseless movement and
 the activity of the serpent, combined with its peculiar gaze and
 marvellous power of fascination, led to its being viewed as a
 spirit-embodiment, and hence also as the possessor of wisdom. <span
-id="fr_18"></span>[19](ipi14.htm#fn_18) In the spirit-character ascribed
+id="fr_18"></span>[19](ipi14.htm#fn_18.md) In the spirit-character ascribed
 to the serpent, we have the explanation of the association of its
 worship with human sacrifice noted by Mr. Fergusson--this sacrifice
 being really connected with the worship of ancestors.
@@ -82,12 +82,12 @@ desire to injure him. Mr. Fergusson states that "the chief
 characteristic of the serpents throughout the east in all ages seems to
 have been their power over the wind and rain," which they gave or
 witheld according to their good or ill-will towards man. <span
-id="fr_19"></span>[20](ipi14.htm#fn_19) This notion is curiously
+id="fr_19"></span>[20](ipi14.htm#fn_19.md) This notion is curiously
 confirmed by the title given by the Egyptians to the Semitic god Seti
 (Seth)-Typhon, which was the name of the Phoenician evil principle, and
 also of a destructive wind, thus havlng a curious analogy with the
 "typhoon" of the Chinese seas. <span
-id="fr_20"></span>[21](ipi14.htm#fn_20) When the notion of a duality in
+id="fr_20"></span>[21](ipi14.htm#fn_20.md) When the notion of a duality in
 nature was developed, there would be no difficulty in applying it to the
 symbols or embodiments by which the idea of wisdom was represented in
 the animal-world. Thus, there came to be, not only good, but also bad,
@@ -95,27 +95,27 @@ serpents, both of which are referred to in the narrative of the Hebrew
 exodus, but still more clearly in the struggle between the good and the
 bad serpents of Persian mythology, which symbolized Ormuzd, or Mithra,
 and the evil spirit Ahriman. <span
-id="fr_21"></span>[22](ipi14.htm#fn_21) So far as I can discover, the
+id="fr_21"></span>[22](ipi14.htm#fn_21.md) So far as I can discover, the
 serpent-symbol has not a direct phallic reference, <span
-id="fr_22"></span>[23](ipi14.htm#fn_22) nor, after all, is its attribute
+id="fr_22"></span>[23](ipi14.htm#fn_22.md) nor, after all, is its attribute
 of wisdom the most essential. The idea most intimately associated with
 this animal was life, not present, but future, and ultimately, no doubt,
-eternal. <span id="fr_23"></span>[24](ipi14.htm#fn_23) Thus the snake
+eternal. <span id="fr_23"></span>[24](ipi14.htm#fn_23.md) Thus the snake
 Bai was figured as guardian of the doorways of those chambers of
 Egyptian tombs which represented the mansions of heaven. <span
-id="fr_24"></span>[25](ipi14.htm#fn_24) A sacred serpent appears to have
+id="fr_24"></span>[25](ipi14.htm#fn_24.md) A sacred serpent appears to have
 been kept in all the Egyptian temples, and we are told that "many of the
 subjects, in the tombs of the kings at Thebes in particular, show the
 importance it was thought to enjoy in a future state." <span
-id="fr_25"></span>[26](ipi14.htm#fn_25) The use of crowns formed of the
+id="fr_25"></span>[26](ipi14.htm#fn_25.md) The use of crowns formed of the
 asp, or sacred Thermuthis, given to sovereigns, and divinities,
-particularly to Isis, <span id="fr_26"></span>[27](ipi14.htm#fn_26) the
+particularly to Isis, <span id="fr_26"></span>[27](ipi14.htm#fn_26.md) the
 goddess of life and healing, was, doubtless, intended to symbolize
 eternal life. This notion is quite consistent with the ideas entertained
 by the Phoenicians as to the serpent, which they supposed to have the
 quality "of putting off its old age, and assuming a second youth." <span
-id="fr_27"></span>[28](ipi14.htm#fn_27)
+id="fr_27"></span>[28](ipi14.htm#fn_27.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Tree of Knowledge of Good and Evil](ipi04)
+[Next: The Tree of Knowledge of Good and Evil](ipi04.md)

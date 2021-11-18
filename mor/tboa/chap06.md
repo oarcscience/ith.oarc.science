@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap05) [Next](chap07)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap05) [Next](chap07.md)
 
 ------------------------------------------------------------------------
 
@@ -278,4 +278,4 @@ Deluge.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7](chap07)
+[Next: Chapter 7](chap07.md)

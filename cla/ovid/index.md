@@ -9,7 +9,7 @@ titleh1: "The Works of Ovid"
 <span class="c_da"></span> <span class="c_da"></span>
 
 <span class="c_e"> <span class="c_t">[The
-Metamorphoses](meta/index)</span>  
+Metamorphoses](meta/index.md)</span>  
 translated into English verse under the direction of <span
 class="c_a">Sir Samuel Garth</span> by <span class="c_a">John
 Dryden</span>, <span class="c_a">Alexander Pope</span>, <span
@@ -18,7 +18,7 @@ Congreve</span> and other eminent hands. *English and Latin*. \[<span
 class="c_d">1717</span>\] </span>
 
 <span class="c_e"> <span class="c_t">[The Love Books of
-Ovid](lboo/index)</span>  
+Ovid](lboo/index.md)</span>  
 An English translation of the <span class="c_t">Amores</span>, <span
 class="c_t">Ars Amatoria</span>, <span class="c_t">Remedia Amoris</span>
 and <span class="c_t">Medicamina Faciei Femineae</span> by <span

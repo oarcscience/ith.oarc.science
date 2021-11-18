@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](ttlaw08) 
-[Next](ttlaw10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](ttlaw08.md) 
+[Next](ttlaw10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -166,7 +166,7 @@ just said, are only so much dead matter. This inert material is pulled
 about in various directions by strings which we call muscles, according
 to the movements we wish our bodies to make, and these muscles are set
 in motion by the vibrations of the nerves. <span
-id="fr_3"></span>[1](#fn_3) But what is it that occasions these
+id="fr_3"></span>[1](#fn_3.md) But what is it that occasions these
 vibrations of the nerves? Here we begin to pass beyond the limits of
 official Science, though not beyond
 
@@ -278,7 +278,7 @@ plexus and controlling all the automatic actions of the body, and thus
 being the agent of that continual renewal of the physical organism which
 is always going on, and keeps in existence for a life time a body which
 begins to disintegrate immediately the soul has left it. <span
-id="fr_4"></span>[1](#fn_4) Now it is through this inner Builder of the
+id="fr_4"></span>[1](#fn_4.md) Now it is through this inner Builder of the
 Body that our Thought re-acts upon our physical organism. The response
 is purely automatic, for the simple reason that there is no original
 thinking power in the three lower principles; the action is that of the
@@ -304,7 +304,7 @@ constituting the atom.
 That the particles automatically arrange themselves into groups of
 different geometrical form within the sphere of the atom, has been
 demonstrated both mathematically and experimentally by Professor J. J.
-Thompson, <span id="fr_5"></span>[1](#fn_5)
+Thompson, <span id="fr_5"></span>[1](#fn_5.md)
 
 <span id="page_145">p. 145</span>
 
@@ -664,7 +664,7 @@ Life is the Return from its lowest point, or the *Full Consciousness of
 Personal Distinctness*, gained through *the Material Body*, back to its
 highest point or the Originating Life itself. This is the truth embodied
 in the parable of the Prodigal Son. It is a Cosmic truth, and this
-return journey is technically called by the [Greek](errata.htm#3) name
+return journey is technically called by the [Greek](errata.htm#3.md) name
 "Anaktorion." It is the Rising-again, that is from matter to Spirit, and
 is the Resurrection Principle.
 
@@ -827,14 +827,14 @@ the "Word of Life." This is the true Resurrection of the Individual.
 
 ### Footnotes
 
-<span id="fn_3"></span>[138:1](ttlaw09.htm#fr_3) See Chapters on "Body,
+<span id="fn_3"></span>[138:1](ttlaw09.htm#fr_3.md) See Chapters on "Body,
 Soul, and Spirit" in my "Edinburgh Lectures on Mental Science."
 
-<span id="fn_4"></span>[143:1](ttlaw09.htm#fr_4) See "Edinburgh
+<span id="fn_4"></span>[143:1](ttlaw09.htm#fr_4.md) See "Edinburgh
 Lectures."
 
-<span id="fn_5"></span>[144:1](ttlaw09.htm#fr_5) "New Knowledge."
+<span id="fn_5"></span>[144:1](ttlaw09.htm#fr_5.md) "New Knowledge."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Transferring the Burden](ttlaw10)
+[Next: Chapter VIII. Transferring the Burden](ttlaw10.md)

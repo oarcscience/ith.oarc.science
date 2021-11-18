@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits084) [Next](bits086)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits084) [Next](bits086.md)
 
 ------------------------------------------------------------------------
 
@@ -152,7 +152,7 @@ seen my offence, I will atone for it.'"
 
 ------------------------------------------------------------------------
 
-[Next: § 86. The Mendicant Ideal](bits086)
+[Next: § 86. The Mendicant Ideal](bits086.md)
 
  
 

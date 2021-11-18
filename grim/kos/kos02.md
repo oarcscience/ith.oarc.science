@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos01)  [Next](kos03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos01)  [Next](kos03.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preliminary Discourse](kos03)
+[Next: Preliminary Discourse](kos03.md)

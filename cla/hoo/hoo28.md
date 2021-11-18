@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo27)  [Next](hoo29) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo27)  [Next](hoo29.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ And of Apollo bright, the Muse's king.
 
 ------------------------------------------------------------------------
 
-[Next: XXIV: To Proteus](hoo29)
+[Next: XXIV: To Proteus](hoo29.md)

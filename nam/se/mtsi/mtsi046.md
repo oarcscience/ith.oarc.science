@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi045)  [Next](mtsi047) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi045)  [Next](mtsi047.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ cap. He returned to his people, who thus obtained fire from the east.
 
 ------------------------------------------------------------------------
 
-[Next: 45. Rabbit Tries a Game of Scratch With Wildcat](mtsi047)
+[Next: 45. Rabbit Tries a Game of Scratch With Wildcat](mtsi047.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas041n)  [Next](jas043n)   
- \[[42. Fire and Anansi.](jas042)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas041n)  [Next](jas043n.md)   
+ \[[42. Fire and Anansi.](jas042.md)\]
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ possession, and crowd Sun and his wife, Moon, out into the sky.
 
 ------------------------------------------------------------------------
 
-[Next: Note 43. Quit-quit and Anansi.](jas043n)
+[Next: Note 43. Quit-quit and Anansi.](jas043n.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sie08)  [Next](sie10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sie08)  [Next](sie10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of Innocence and of Experience*, by William Blake, \[1789-1794\],
 at Intangible Textual Heritage
 
@@ -54,4 +54,4 @@ So if all do their duty, they need not fear harm.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Boy lost](sie10)
+[Next: The Little Boy lost](sie10.md)

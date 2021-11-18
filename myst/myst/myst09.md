@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst08)  [Next](myst10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst08)  [Next](myst10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -115,11 +115,11 @@ consciousness in which, as they say, they are “in union” with Divine
 Reality, with God. Whatever be the theological creed of the mystic, he
 never varies in declaring this close, definite, and actual intimacy to
 be the end of his quest. “Mark me like the tulip with Thine own
-streaks,” says the Sufi.  <span id="fr_257"></span>[258](#fn_257) “I
+streaks,” says the Sufi.  <span id="fr_257"></span>[258](#fn_257.md) “I
 would fain be to the Eternal Goodness what his own hand is to a man,”
-says the German contemplative.  <span id="fr_258"></span>[259](#fn_258)
+says the German contemplative.  <span id="fr_258"></span>[259](#fn_258.md)
 “My *me* isGod, nor do I know my self-hood save in Him,” says the
-Italian saint.  <span id="fr_259"></span>[260](#fn_259)
+Italian saint.  <span id="fr_259"></span>[260](#fn_259.md)
 
 <span id="an_iii.vi-p10"></span>But, since this Absolute God is for him
 substance, ground or underlying Reality of all that *is* : present yet
@@ -196,7 +196,7 @@ see the mystic life as involving inward change rather than outgoing
 search. Regeneration is their watchword, and they will choose symbols of
 growth or transmutation: saying with St. Catherine of Genoa, “my Being
 is God, not by simple participation, but by a true transformation of my
-Being.”  <span id="fr_260"></span>[261](#fn_260)
+Being.”  <span id="fr_260"></span>[261](#fn_260.md)
 
 <span id="an_iii.vi-p16"></span>These three groups of mystics, then,
 stand for three kinds of temperament; and we may fairly take as their
@@ -217,7 +217,7 @@ Dante, the Beatific Vision or fulfilment of love—is often called
 Jerusalem by the Christian mystics: naturally enough since that city was
 for the mediaeval mind the supreme end of pilgrimage. By Jerusalem they
 mean not only the celestial country Heaven, but also the spiritual life,
-which is “itself a heaven.”  <span id="fr_261"></span>[262](#fn_261)
+which is “itself a heaven.”  <span id="fr_261"></span>[262](#fn_261.md)
 “Right as a true pilgrim going to Jerusalem,” says Hilton, “leaveth
 behind him house and land, wife and child, and maketh himself poor and
 bare from all that he hath, that he may go lightly without letting:
@@ -226,7 +226,7 @@ naked from all that thou hast . . . then shalt thou set in thy heart
 wholly and fully that thou wouldst be at Jerusalem, and at none other
 place but there.” “Jerusalem,” he says in this same chapter, “is as much
 as to say a sight of peace; and betokeneth contemplation in perfect love
-of God.”  <span id="fr_262"></span>[263](#fn_262)
+of God.”  <span id="fr_262"></span>[263](#fn_262.md)
 
 <span id="an_iii.vi-p20"></span>Under this image of a pilgrimage—an
 image as concrete and practical, as remote from the romantic and
@@ -274,7 +274,7 @@ for Thyself and our hearts can find no rest except in Thee.” This
 irresistibly along the road from the Many to the One. His second aid,
 Devotion, says the “Remotest Aim” in a phrase of great depth and beauty,
 is “the prosecution of the journey *to* God and *in* God.”  <span
-id="fr_263"></span>[264](#fn_263) It embraces, in fact, the whole
+id="fr_263"></span>[264](#fn_263.md) It embraces, in fact, the whole
 contemplative life. It is the next degree of spiritual consciousness
 after the blind yielding to the attraction of the Real, and the setting
 in order of man’s relation to his source.
@@ -286,13 +286,13 @@ language of European mystics. The point at which this is reached is
 called the Tavern or resting-place upon the road, where he is fed with
 the Divine Mysteries. There are also “Wine Shops” upon the way, where
 the weary pilgrim is cheered and refreshed by a draught of the wine of
-Divine Love.  <span id="fr_264"></span>[265](#fn_264) Only when the
+Divine Love.  <span id="fr_264"></span>[265](#fn_264.md) Only when the
 journey *to* God is completed begins the “Journey *in* God”—that which
 the Christian mystics call the Unitive Way—and this, since it is the
 essence of Eternal Life, can have no end. Elevation, the pilgrim’s third
 aid, is the exalted or ecstatic form of consciousness peculiar to the
 contemplative, and which allows the traveller a glimpse of the spiritual
-city towards which he goes.  <span id="fr_265"></span>[266](#fn_265)
+city towards which he goes.  <span id="fr_265"></span>[266](#fn_265.md)
 
 <span id="an_iii.vi-p27"></span>The Sufi poet ‘Attar, in his mystical
 poem, “The Colloquy of the Birds,” has described the stages of this same
@@ -347,7 +347,7 @@ of all our apprehensions of the Godhead. It is the Cloud of Unknowing,
 <span id="an_iii.vi-p34"></span>(7) The Valley of Annihilation of Self:
 the supreme degree of union or theopathetic state, in which the self is
 utterly merged “like a fish in the sea” in the ocean of Divine Love.
- <span id="fr_266"></span>[267](#fn_266)
+ <span id="fr_266"></span>[267](#fn_266.md)
 
 <span id="an_iii.vi-p36"></span>Through all these metaphors of
 pilgrimage to a goal—of a road followed, distance overpassed, fatigue
@@ -358,7 +358,7 @@ destined or *called* to the quest of the Grail. “All men are *called* to
 their origin,” says Rulman Merswin, and the fishes which he sees in his
 Vision of Nine Rocks are impelled to struggle, as it were “against
 nature,” uphill from pool to pool towards their source.  <span
-id="fr_267"></span>[268](#fn_267)
+id="fr_267"></span>[268](#fn_267.md)
 
 <span id="an_iii.vi-p38"></span>All mystical thinkers agree in declaring
 that there is a mutual attraction between the Spark of the Soul, the
@@ -366,17 +366,17 @@ free divine germ in man, and the Fount from which it came forth. “We
 long for the Absolute,” says Royce, “only in so far as in us the
 Absolute also longs, and seeks, through our very temporal striving, the
 peace that is nowhere in Time, but only, and yet Absolutely, in
-Eternity.”  <span id="fr_268"></span>[269](#fn_268) So, many centuries
+Eternity.”  <span id="fr_268"></span>[269](#fn_268.md) So, many centuries
 before the birth of American philosophy, Hilton put the same truth of
 experience in lovelier words. “He it is that desireth in thee, and He it
 is that is desired. He is all and He doth all if thou might see Him.”
- <span id="fr_269"></span>[270](#fn_269)
+ <span id="fr_269"></span>[270](#fn_269.md)
 
 <span id="an_iii.vi-p41"></span>The homeward journey of man’s spirit,
 then, may be thought of as due to the push of a divine life within,
 answering to the pull of <span id="page_133">p. 133</span> <span
 id="an_iii.vi-Page_133"></span> a divine life without.  <span
-id="fr_270"></span>[271](#fn_270) It is only possible because there is
+id="fr_270"></span>[271](#fn_270.md) It is only possible because there is
 already in that spirit a certain kinship with the Divine, a capacity for
 Eternal Life; and the mystics, in undertaking it, are humanity’s
 pioneers on the only road to rest. Hence that attraction which the
@@ -389,7 +389,7 @@ man,” says Eckhart. It is Love calling to love: and the journey, though
 in one sense a hard pilgrimage, up and out, by the terraced mount and
 the ten heavens to God, in another is the inevitable rush of the roving
 comet, caught at last, to the Central Sun. “My weight is my love,” said
-St. Augustine.  <span id="fr_271"></span>[272](#fn_271) Like
+St. Augustine.  <span id="fr_271"></span>[272](#fn_271.md) Like
 gravitation, it inevitably compels, for good or evil, every spirit to
 its own place. According to another range of symbols, that love flings
 open a door, in order that the larger Life may rush in and it and the
@@ -410,20 +410,20 @@ thee ready to open and let Him in. Thou needst not call Him from a
 distance; to wait until thou openest is harder for Him than for thee. He
 needs thee a thousand times more than thou canst need Him. *Thy opening
 and His entering are but one moment* .”  <span
-id="fr_272"></span>[273](#fn_272) “God,” he says in another place, “can
+id="fr_272"></span>[273](#fn_272.md) “God,” he says in another place, “can
 as little do without us, as we without Him.”  <span
-id="fr_273"></span>[274](#fn_273) Our attainment of the Absolute is not
+id="fr_273"></span>[274](#fn_273.md) Our attainment of the Absolute is not
 a one-sided ambition, but the fulfilment of a mutual desire. “For our
 natural Will,” says Lady Julian, “is to have God, and the Good will of
 <span id="page_134">p. 134</span> <span id="an_iii.vi-Page_134"></span>
 God is to have us; and we may never cease from longing till we have Him
-in fullness of joy.”  <span id="fr_274"></span>[275](#fn_274)
+in fullness of joy.”  <span id="fr_274"></span>[275](#fn_274.md)
 
 <span id="an_iii.vi-p49"></span>So, in the beautiful poem or ritual
 called the “Hymn of Jesus,” contained in the apocryphal “Acts of John”
 and dating from primitive Christian times, the Logos, or Eternal Christ,
 is thus represented as matching with His own transcendent, self-giving
-desire every need of the soul.  <span id="fr_275"></span>[276](#fn_275)
+desire every need of the soul.  <span id="fr_275"></span>[276](#fn_275.md)
 
 <span id="an_iii.vi-p51"></span>The Soul says:—
 
@@ -463,17 +463,17 @@ symbolism by the great Mahommedan mystic:—
 > Be sure this love is reciprocated in *that* heart.  
 > When the love of God arises in thy heart,  
 > Without doubt God also feels love for thee.”  <span
-> id="fr_276"></span>[277](#fn_276)  
+> id="fr_276"></span>[277](#fn_276.md)  
 
 <span id="an_iii.vi-p56"></span>The mystic vision, then, is of a
 spiritual universe held within <span id="page_135">p. 135</span> <span
 id="an_iii.vi-Page_135"></span> the bonds of love:  <span
-id="fr_277"></span>[278](#fn_277) and of the free and restless human
+id="fr_277"></span>[278](#fn_277.md) and of the free and restless human
 soul, having within it the spark of divine desire, the “tendency to the
 Absolute,” pnly finding satisfaction and true life when united with this
 Life of God. Then, in Patmore’s lovely image, “the babe is at its
 mother’s breast,” “the lover has returned to the beloved.”  <span
-id="fr_278"></span>[279](#fn_278)
+id="fr_278"></span>[279](#fn_278.md)
 
 <span id="an_iii.vi-p63"></span>Whatever their outward sense, all true
 mystic symbols express aspects of this “secret of the world,” this
@@ -513,7 +513,7 @@ thee, for this was my desire; I bound thee, and I rejoice in thy bonds;
 I have <span id="page_136">p. 136</span> <span
 id="an_iii.vi-Page_136"></span> wounded thee, that thou mayst be united
 to me. If I gave thee blows, it was that I might be possessed of thee.”
- <span id="fr_279"></span>[280](#fn_279)
+ <span id="fr_279"></span>[280](#fn_279.md)
 
 <span id="an_iii.vi-p67"></span>So in the beautiful Middle English poem
 of “Quia amore langueo,”—
@@ -526,7 +526,7 @@ of “Quia amore langueo,”—
 > I purveyde for hir a paleis precious;  
 > She fleyth, I folowe, I sought hir so.  
 > I suffride this peyne piteous  
-> Quia amore langueo,”  <span id="fr_280"></span>[281](#fn_280)  
+> Quia amore langueo,”  <span id="fr_280"></span>[281](#fn_280.md)  
 
 <span id="an_iii.vi-p69"></span>Meister Eckhart has the same idea of the
 inexorable Following Love, impossible to escape, expressed under less
@@ -534,13 +534,13 @@ personal images. “Earth,” he says, “cannot escape the sky; let it flee
 up or down, the sky flows into it, and makes it fruitful whether it will
 or no. So God does to man. He who will escape Him only runs to His
 bosom; for all corners are open to Him.”  <span
-id="fr_281"></span>[282](#fn_281)
+id="fr_281"></span>[282](#fn_281.md)
 
 <span id="an_iii.vi-p71"></span>We find in all the mystics this strong
 sense of a mysterious spiritual life—a Reality—over against man, seeking
 him and compelling him to Its will. It is not for him, they think, to
 say that he will or will not aspire to the transcendental world.  <span
-id="fr_282"></span>[283](#fn_282) Hence sometimes this inversion of
+id="fr_282"></span>[283](#fn_282.md) Hence sometimes this inversion of
 man’s long quest of God. The self resists the pull of spiritual
 gravitation, flees from the touch of Eternity; and the Eternal seeks it,
 tracks it ruthlessly down. The Following Love, the mystics say, is a
@@ -618,7 +618,7 @@ common, and they possess nothing separate or divided. They have one
 inheritance, one dwelling-place, one table, and they are in fact one
 flesh. If, then, mutual love is especially befitting to a bride and
 bridegroom, it is not unfitting that the name of Bride is given to a
-soul which loves.”  <span id="fr_283"></span>[284](#fn_283)
+soul which loves.”  <span id="fr_283"></span>[284](#fn_283.md)
 
 <span id="an_iii.vi-p79"></span>To women mystics of the Catholic Church,
 familiar with the antique and poetic metaphor which called every
@@ -627,7 +627,7 @@ history in which they definitely vowed themselves to the service of
 Transcendent Reality seemed, naturally enough, the veritable betrothal
 of the soul. Often, in a dynamic vision, they saw as in a picture the
 binding vows exchanged between their spirits and their God.  <span
-id="fr_284"></span>[285](#fn_284) That further progress on the mystic
+id="fr_284"></span>[285](#fn_284.md) That further progress on the mystic
 way which brought with it a sharp and permanent consciousness of union
 with the Divine Will, the constant sustaining presence of a Divine
 Companion, became, by an extension of the original simile, Spiritual
@@ -636,7 +636,7 @@ obedience involved in the mediaeval conception of the marriage tie, made
 it an apt image of a spiritual state in which humility, intimacy, and
 love were the dominant characteristics. There is really no need to seek
 a pathological explanation of these simple facts.  <span
-id="fr_285"></span>[286](#fn_285) Moreover with few exceptions, the
+id="fr_285"></span>[286](#fn_285.md) Moreover with few exceptions, the
 descriptions of spiritual marriage which the great mystics have left are
 singularly free from physical imagery. “So mysterious is the secret,”
 says St. Teresa, “and so sublime the favour that God thus bestows
@@ -650,16 +650,16 @@ Who has been pleased to show certain persons how far His love for us
 extends in order that we may praise His greatness. He has thus deigned
 to unite Himself to His creature: He has bound Himself to her as firmly
 as two human beings are joined in wedlock and will never separate
-Himself from her.”  <span id="fr_286"></span>[287](#fn_286)
+Himself from her.”  <span id="fr_286"></span>[287](#fn_286.md)
 
 <span id="an_iii.vi-p83"></span>The great Richard of St. Victor, in one
 of his most splendid mystical treatises,  <span
-id="fr_287"></span>[288](#fn_287) has given us perhaps the most daring
+id="fr_287"></span>[288](#fn_287.md) has given us perhaps the most daring
 and detailed application of the symbolism of marriage to the adventures
 of the spirit of man. He divides the “steep stairway of love,” by which
 the contemplative ascends to union with the Absolute, into four stages.
 These he calls the betrothal, the marriage, the wedlock, and the
-fruitfulness of the soul.  <span id="fr_288"></span>[289](#fn_288) In
+fruitfulness of the soul.  <span id="fr_288"></span>[289](#fn_288.md) In
 the betrothal, he says, the soul “thirsts for the Beloved”; that is to
 say, it longs to experience the delights of Reality. “The Spirit comes
 to the Soul, and seems sweeter than honey.” It is conversion, the
@@ -684,7 +684,7 @@ transfigured, he says, by immediate contact with the Divine Substance,
 into an utterly different quality of being. “Thus,” says St. John of the
 Cross, “the soul, when it shall have driven away from itself all that is
 contrary to the divine will, becomes transformed in God by love.  <span
-id="fr_289"></span>[290](#fn_289)
+id="fr_289"></span>[290](#fn_289.md)
 
 <span id="an_iii.vi-p87"></span>“The Soul,” says Richard again, “is
 utterly concentrated on the One.” She is “caught up to the divine
@@ -711,7 +711,7 @@ evolution of the great mystics, in which they return to the world which
 they forsook; and there live, as it were, as centres of transcendental
 energy, the creators of spiritual families, the partners and
 fellow-labourers with the Divine Life.  <span
-id="fr_290"></span>[291](#fn_290)
+id="fr_290"></span>[291](#fn_290.md)
 
 #### <span id="an_iii.vi-p88.1"></span>III
 
@@ -742,7 +742,7 @@ points out as illusory or impure, his purifications and trials, all form
 part of it. If that which is whole or perfect is to come, then that
 which is in part must be done away: “for in what measure we put off the
 creature, in the same measure are we able to put on the Creator: neither
-more nor less.”  <span id="fr_291"></span>[292](#fn_291)
+more nor less.”  <span id="fr_291"></span>[292](#fn_291.md)
 
 <span id="an_iii.vi-p92"></span>Of all the symbolic systems in which
 this truth has been enshrined none is so complete, so picturesque, and
@@ -796,7 +796,7 @@ a very melancholy place, I resolved to get out of it, and rather content
 myself to walk in the little garden before the entrance, where many
 things, though not all, were orderly to be seen. Choosing rather to stay
 there, and contemplate on the Metaphor set up, than venture again into
-the wilderness.”  <span id="fr_292"></span>[293](#fn_292)
+the wilderness.”  <span id="fr_292"></span>[293](#fn_292.md)
 
 <span id="an_iii.vi-p96"></span>Coming, then, to the “contemplation of
 the Metaphor set up,”—by far the most judicious course for modern
@@ -831,11 +831,11 @@ the Philosopher’s Stone,” says Sir Thomas Browne, “(which is something
 more than the perfect exaltation of gold) hath taught me a great deal of
 divinity, and instructed my belief how that immortal spirit and
 incorruptible substance of my soul may lie obscure, and sleep awhile
-within this house of flesh.”  <span id="fr_293"></span>[294](#fn_293)
+within this house of flesh.”  <span id="fr_293"></span>[294](#fn_293.md)
 This “incorruptible substance” is man’s goldness, his perfect principle:
 for “the highest mineral virtue resides in Man,” says Albertus Magnus,
 “and God may be found everywhere.”  <span
-id="fr_294"></span>[295](#fn_294) Hence the prosecution of a spiritual
+id="fr_294"></span>[295](#fn_294.md) Hence the prosecution of a spiritual
 chemistry is a proper part of the true Hermetic science.
 
 <span id="an_iii.vi-p100"></span>The art of the alchemist, whether
@@ -859,7 +859,7 @@ that remarkable tract, “is the Concealed Stone of Many Colours, which is
 born and brought forth in one colour; know this and conceal it . . . it
 leads from darkness into light, from this desert wilderness to a secure
 habitation, and from poverty and straits to a free and ample fortune.”
- <span id="fr_295"></span>[296](#fn_295)
+ <span id="fr_295"></span>[296](#fn_295.md)
 
 <span id="an_iii.vi-p102"></span>Man, then, was for the alchemists “the
 true laboratory of the Hermetic art”; which concealed in an entanglement
@@ -874,7 +874,7 @@ alchemists, identified with the <span id="an_iii.vi-p102.1"></span>
 *Lapis Philosophorum* and with Sol: and was regarded both as the image
 and as the earnest of this “great work.” His spirit was the “noble
 tincture” which “can bring that which is lowest in the death to its
-highest ornament or glory;”  <span id="fr_296"></span>[297](#fn_296)
+highest ornament or glory;”  <span id="fr_296"></span>[297](#fn_296.md)
 transmuting the natural to the supernatural, operating the “New Birth.”
 “This,” says Boehme, “is the noble precious Stone <span
 id="an_iii.vi-p103.1"></span> *(Lapis Philosophorum),* the Philosopher’s
@@ -902,7 +902,7 @@ contain and are able to do. There never was from eternity anything
 better or more precious than this, and it is offered by God and bestowed
 upon man; every one may have it . . . it is in a simple form, and hath
 the power of the whole Deity in it.”  <span
-id="fr_297"></span>[298](#fn_297)
+id="fr_297"></span>[298](#fn_297.md)
 
 <span id="an_iii.vi-p106"></span>Boehme is here using alchemic symbols,
 according to his custom, in a loose and artistic manner; for the true
@@ -921,7 +921,7 @@ far back. If you can only rectify the Mercury, Sulphur, and Salt
 (understand *those of the sages)* until the metallic spirit and body are
 inseparably joined together by means of the metallic soul, you thereby
 firmly rivet the chain of love and prepare the palace for the
-Coronation.”  <span id="fr_298"></span>[299](#fn_298)
+Coronation.”  <span id="fr_298"></span>[299](#fn_298.md)
 
 <span id="an_iii.vi-p108"></span>Of these three ingredients, the
 important one is the spiritual principle, the unseizable Mercury; which
@@ -941,7 +941,7 @@ can know this Mercury, the agent of man’s transmutation: and until it
 has been discovered, brought out of the hiddenness, nothing can be done.
 “This Mercury or Snowy Splendour, is a Celestial Body drawn from the
 beams of the Sun and the Moon. It is the only Agent in the world for
-this art.”  <span id="fr_299"></span>[300](#fn_299) It is the
+this art.”  <span id="fr_299"></span>[300](#fn_299.md) It is the
 divine-human “spark of the soul,” the bridge between Gold and Silver,
 God and man.
 
@@ -971,7 +971,7 @@ dealt with before anything further can be done. “There is a black beast
 in our forest,” says the highly allegorical “Book of Lambspring,” “his
 name is Putrefaction, his blackness is called the Head of the Raven;
 when it is cut off, Whiteness appears.”  <span
-id="fr_300"></span>[301](#fn_300) This Whiteness, the state of Luna, or
+id="fr_300"></span>[301](#fn_300.md) This Whiteness, the state of Luna, or
 Silver, the “chaste and immaculate Queen,” is the equivalent of the
 Illuminative Way: the highest point which the mystic can attain short of
 union with the Absolute. This White Stone is pure, and precious; but in
@@ -993,7 +993,7 @@ out of the crucifixion of the cerebral life, when the sensual dominant
 is occultated in the Divine Fiat, and subdued, there arises a Light
 wonderfully about the summit, which wisely returned and multiplied
 according to the Divine Blessing, is made substantial in life.”  <span
-id="fr_301"></span>[302](#fn_301)
+id="fr_301"></span>[302](#fn_301.md)
 
 <span id="an_iii.vi-p115"></span>I have said, that side by side with the
 metallic and planetary language of the alchemists, runs a strange
@@ -1011,7 +1011,7 @@ them may well be of use.
 celebrated of all these allegories <span id="page_147">p. 147</span>
 <span id="an_iii.vi-Page_147"></span> is that which describes the quest
 of the Philosopher’s Stone as “the hunting of the Green Lion.”  <span
-id="fr_302"></span>[303](#fn_302) The Green Lion, though few would
+id="fr_302"></span>[303](#fn_302.md) The Green Lion, though few would
 divine it, is the First Matter of the Great Work: hence, in spiritual
 alchemy, natural man in his wholeness—Salt, Sulphur, and Mercury in
 their crude state. He is called green because, seen from the
@@ -1029,7 +1029,7 @@ enforce the same law.
 > Is called greene for his unripeness trust me:  
 > And yet full quickly he can run,  
 > And soon can overtake the Sun.”  <span
-> id="fr_303"></span>[304](#fn_303)  
+> id="fr_303"></span>[304](#fn_303.md)  
 
 <span id="an_iii.vi-p119"></span>The Green Lion, then, in his strength
 and wholeness is the only creature potentially able to attain
@@ -1095,7 +1095,7 @@ of “the Hidden Treasure that desires to be found.”
 bodies, or resolve things beyond their First Matter, and you discover
 the habitation of Angels: which, if I call it the ubiquitary and
 omnipresent Essence of God, I hope I shall not offend Divinity.”  <span
-id="fr_304"></span>[305](#fn_304)
+id="fr_304"></span>[305](#fn_304.md)
 
 <span id="an_iii.vi-p124"></span><span id="page_149">p. 149</span> <span
 id="an_iii.vi-Page_149"></span>
@@ -1104,42 +1104,42 @@ id="an_iii.vi-Page_149"></span>
 
 ### Footnotes
 
-<span id="fn_257"></span>[127:258](myst09.htm#fr_257) <span
+<span id="fn_257"></span>[127:258](myst09.htm#fr_257.md) <span
 id="an_iii.vi-p6.1"></span>
 
 <span id="an_iii.vi-p7"></span> Jámi, “Joseph and Zulaikha. The Poet’s
 Prayer.”
 
-<span id="fn_258"></span>[127:259](myst09.htm#fr_258) <span
+<span id="fn_258"></span>[127:259](myst09.htm#fr_258.md) <span
 id="an_iii.vi-p7.1"></span>
 
 <span id="an_iii.vi-p8"></span> “Theologia Germanica,” cap. x.
 
-<span id="fn_259"></span>[127:260](myst09.htm#fr_259) <span
+<span id="fn_259"></span>[127:260](myst09.htm#fr_259.md) <span
 id="an_iii.vi-p8.1"></span>
 
 <span id="an_iii.vi-p9"></span> St. Catherine of Genoa, “ Vita e
 Dottrina,” cap. xiv.
 
-<span id="fn_260"></span>[129:261](myst09.htm#fr_260) <span
+<span id="fn_260"></span>[129:261](myst09.htm#fr_260.md) <span
 id="an_iii.vi-p14.1"></span>
 
 <span id="an_iii.vi-p15"></span> “Vita e Dottrina,” p. 36.
 
-<span id="fn_261"></span>[129:262](myst09.htm#fr_261) <span
+<span id="fn_261"></span>[129:262](myst09.htm#fr_261.md) <span
 id="an_iii.vi-p17.1"></span>
 
 <span id="an_iii.vi-p18"></span> This image seems first to have been
 elaborated by St. Augustine, from whom it was borrowed by Hugh of St.
 Victor, and most of the mediaeval mystics.
 
-<span id="fn_262"></span>[129:263](myst09.htm#fr_262) <span
+<span id="fn_262"></span>[129:263](myst09.htm#fr_262.md) <span
 id="an_iii.vi-p18.1"></span>
 
 <span id="an_iii.vi-p19"></span> “The Scale of Perfection,” bk. ii. cap.
 xxi.
 
-<span id="fn_263"></span>[130:264](myst09.htm#fr_263) <span
+<span id="fn_263"></span>[130:264](myst09.htm#fr_263.md) <span
 id="an_iii.vi-p22.1"></span>
 
 <span id="an_iii.vi-p23"></span> So too Ruysbroeck says that “the just
@@ -1147,44 +1147,44 @@ man goes *towards* God by inward love in perpetual activity and *in* God
 in virtue of his fruitive affection in eternal rest” (“De Ornatu
 Spiritalium Nuptiarum.” I. ii. cap. lxv).
 
-<span id="fn_264"></span>[131:265](myst09.htm#fr_264) <span
+<span id="fn_264"></span>[131:265](myst09.htm#fr_264.md) <span
 id="an_iii.vi-p24.1"></span>
 
 <span id="an_iii.vi-p25"></span> I need not remind the reader of the
 fact that this symbolism, perverted to the purposes of his skeptical
 philosophy, runs through the whole of the Rubaiyat of Omar Khayyám.
 
-<span id="fn_265"></span>[131:266](myst09.htm#fr_265) <span
+<span id="fn_265"></span>[131:266](myst09.htm#fr_265.md) <span
 id="an_iii.vi-p25.1"></span>
 
 <span id="an_iii.vi-p26"></span> See Palmer’s “Oriental Mysticism,” pt.
 I. caps. i., ii., iii., and v.
 
-<span id="fn_266"></span>[132:267](myst09.htm#fr_266) <span
+<span id="fn_266"></span>[132:267](myst09.htm#fr_266.md) <span
 id="an_iii.vi-p34.1"></span>
 
 <span id="an_iii.vi-p35"></span> An abridged translation of ‘Attar’s
 allegory of the Valleys will be found in “The Conference of the Birds,”
 by R. P. Masani (1924). See also W. S. Lilly’s “Many Mansions,” p. 130.
 
-<span id="fn_267"></span>[132:268](myst09.htm#fr_267) <span
+<span id="fn_267"></span>[132:268](myst09.htm#fr_267.md) <span
 id="an_iii.vi-p36.1"></span>
 
 <span id="an_iii.vi-p37"></span> Jundt, “Rulman Merswin,” p. 27.
 
-<span id="fn_268"></span>[132:269](myst09.htm#fr_268) <span
+<span id="fn_268"></span>[132:269](myst09.htm#fr_268.md) <span
 id="an_iii.vi-p38.1"></span>
 
 <span id="an_iii.vi-p39"></span> Royce, “The World and the Individual,”
 vol. ii. p. 386.
 
-<span id="fn_269"></span>[132:270](myst09.htm#fr_269) <span
+<span id="fn_269"></span>[132:270](myst09.htm#fr_269.md) <span
 id="an_iii.vi-p39.1"></span>
 
 <span id="an_iii.vi-p40"></span> “The Scale of Perfection,” bk. ii. cap.
 xxiv.
 
-<span id="fn_270"></span>[133:271](myst09.htm#fr_270) <span
+<span id="fn_270"></span>[133:271](myst09.htm#fr_270.md) <span
 id="an_iii.vi-p41.1"></span>
 
 <span id="an_iii.vi-p42"></span> Compare Récéjac (“Fondements de la
@@ -1194,7 +1194,7 @@ to enter, but this is not enough. This movement of pure Freedom cannot
 succeed unless there is an equivalent movement within the Absolute
 itself.”
 
-<span id="fn_271"></span>[133:272](myst09.htm#fr_271) <span
+<span id="fn_271"></span>[133:272](myst09.htm#fr_271.md) <span
 id="an_iii.vi-p42.1"></span>
 
 <span id="an_iii.vi-p43"></span> Aug. Conf., bk. xiii. cap. 9. “All
@@ -1202,22 +1202,22 @@ those who love,” says Ruysbroeck, “feel this attraction: more or less
 according to the degree of their love.” (“De Calculo sive de Perfectione
 filiorum Dei.”)
 
-<span id="fn_272"></span>[133:273](myst09.htm#fr_272) <span
+<span id="fn_272"></span>[133:273](myst09.htm#fr_272.md) <span
 id="an_iii.vi-p45.1"></span>
 
 <span id="an_iii.vi-p46"></span> Meister Eckhart, Pred. iii.
 
-<span id="fn_273"></span>[133:274](myst09.htm#fr_273) <span
+<span id="fn_273"></span>[133:274](myst09.htm#fr_273.md) <span
 id="an_iii.vi-p46.1"></span>
 
 <span id="an_iii.vi-p47"></span> *Ibid* ., Pred. xiii.
 
-<span id="fn_274"></span>[134:275](myst09.htm#fr_274) <span
+<span id="fn_274"></span>[134:275](myst09.htm#fr_274.md) <span
 id="an_iii.vi-p47.1"></span>
 
 <span id="an_iii.vi-p48"></span> “Revelations of Divine Love,” cap. vi.
 
-<span id="fn_275"></span>[134:276](myst09.htm#fr_275) <span
+<span id="fn_275"></span>[134:276](myst09.htm#fr_275.md) <span
 id="an_iii.vi-p49.1"></span>
 
 <span id="an_iii.vi-p50"></span> The Greek and English text will be
@@ -1226,13 +1226,13 @@ found in the “Apocrypha Anecdota” of Dr. M. R. James, series 2
 that I have adopted the hypotheses of Mr. G. R. S. Mead as to the
 dramatic nature of this poem. See his “Echoes from the Gnosis,” 1896.
 
-<span id="fn_276"></span>[134:277](myst09.htm#fr_276) <span
+<span id="fn_276"></span>[134:277](myst09.htm#fr_276.md) <span
 id="an_iii.vi-p54.10"></span>
 
 <span id="an_iii.vi-p55"></span> Jalalu d’ Din Rumi (Wisdom of the East
 Series), p. 77.
 
-<span id="fn_277"></span>[135:278](myst09.htm#fr_277) <span
+<span id="fn_277"></span>[135:278](myst09.htm#fr_277.md) <span
 id="an_iii.vi-p56.1"></span>
 
 <span id="an_iii.vi-p57"></span> So Dante—
@@ -1245,38 +1245,38 @@ id="an_iii.vi-p56.1"></span>
 
 <span id="an_iii.vi-p61"></span>(Par. xxxiii. 85.)
 
-<span id="fn_278"></span>[135:279](myst09.htm#fr_278) <span
+<span id="fn_278"></span>[135:279](myst09.htm#fr_278.md) <span
 id="an_iii.vi-p61.1"></span>
 
 <span id="an_iii.vi-p62"></span> “The Rod, the Root, and the Flower,”
 “Aurea Dicta,” ccxxviii.
 
-<span id="fn_279"></span>[136:280](myst09.htm#fr_279) <span
+<span id="fn_279"></span>[136:280](myst09.htm#fr_279.md) <span
 id="an_iii.vi-p65.1"></span>
 
 <span id="an_iii.vi-p66"></span> “Das Fliessende Licht der Gottheit,”
 pt. i. cap. iii.
 
-<span id="fn_280"></span>[136:281](myst09.htm#fr_280) <span
+<span id="fn_280"></span>[136:281](myst09.htm#fr_280.md) <span
 id="an_iii.vi-p67.10"></span>
 
 <span id="an_iii.vi-p68"></span> “Quia amore langueo,” an anonymous
 fifteenth-century poem. Printed from the Lambeth MS. by the E.E.T.S.,
 1866-67.
 
-<span id="fn_281"></span>[136:282](myst09.htm#fr_281) <span
+<span id="fn_281"></span>[136:282](myst09.htm#fr_281.md) <span
 id="an_iii.vi-p69.1"></span>
 
 <span id="an_iii.vi-p70"></span> Pred. lxxxviii.
 
-<span id="fn_282"></span>[136:283](myst09.htm#fr_282) <span
+<span id="fn_282"></span>[136:283](myst09.htm#fr_282.md) <span
 id="an_iii.vi-p71.1"></span>
 
 <span id="an_iii.vi-p72"></span> So we are told of St. Francis of
 Assisi, that in his youth he “tried to flee God’s hand.” Thomas of
 Celano, Legenda Prima, cap. ii.
 
-<span id="fn_283"></span>[138:284](myst09.htm#fr_283) <span
+<span id="fn_283"></span>[138:284](myst09.htm#fr_283.md) <span
 id="an_iii.vi-p77.1"></span>
 
 <span id="an_iii.vi-p78"></span> Sr. Bernard, “Cantica Canticorum,”
@@ -1284,12 +1284,12 @@ Sermon vii. For a further and excellent discussion of St. Bernard’s
 mystical language, see Dom Cuthbert Butler, “Western Mysticism,” 2nd
 ed., pp. 160 *seq* .
 
-<span id="fn_284"></span>[138:285](myst09.htm#fr_284) <span
+<span id="fn_284"></span>[138:285](myst09.htm#fr_284.md) <span
 id="an_iii.vi-p79.1"></span>
 
 <span id="an_iii.vi-p80"></span> *Vide* *infra,* Pt. II. cap. v.
 
-<span id="fn_285"></span>[138:286](myst09.htm#fr_285) <span
+<span id="fn_285"></span>[138:286](myst09.htm#fr_285.md) <span
 id="an_iii.vi-p80.1"></span>
 
 <span id="an_iii.vi-p81"></span> Professor Pratt, by no means an
@@ -1302,19 +1302,19 @@ his experience, or give up the attempt of describing it at all. It is
 the only way he has of even suggesting to the non-mystical what he has
 felt” (“The Religious Consciousness,” p. 418).
 
-<span id="fn_286"></span>[139:287](myst09.htm#fr_286) <span
+<span id="fn_286"></span>[139:287](myst09.htm#fr_286.md) <span
 id="an_iii.vi-p81.1"></span>
 
 <span id="an_iii.vi-p82"></span> “El Castillo Interior,” Moradas
 Sétimas, cap ii.
 
-<span id="fn_287"></span>[139:288](myst09.htm#fr_287) <span
+<span id="fn_287"></span>[139:288](myst09.htm#fr_287.md) <span
 id="an_iii.vi-p83.1"></span>
 
 <span id="an_iii.vi-p84"></span> “De Quatuor Gradibus Violentae
 Charitatis” (Migne, Patrologia Latina, vol. cxcvi. col. 1207).
 
-<span id="fn_288"></span>[139:289](myst09.htm#fr_288) <span
+<span id="fn_288"></span>[139:289](myst09.htm#fr_288.md) <span
 id="an_iii.vi-p84.1"></span>
 
 <span id="an_iii.vi-p85"></span> “In primo gradu fit desponsatio, in
@@ -1322,34 +1322,34 @@ secundo nuptiae, in tertio copula, in quarto puerperium. . . . De quarto
 dicitur, Coucepimus, et quasi parturivimus et peperimus spiritum” (Isa.
 xviii . 26). ( *Op. cit.,* 1216, D.)
 
-<span id="fn_289"></span>[139:290](myst09.htm#fr_289) <span
+<span id="fn_289"></span>[139:290](myst09.htm#fr_289.md) <span
 id="an_iii.vi-p85.1"></span>
 
 <span id="an_iii.vi-p86"></span> “Subida del Monte Carmelo,” lii. cap.
 v.
 
-<span id="fn_290"></span>[140:291](myst09.htm#fr_290) <span
+<span id="fn_290"></span>[140:291](myst09.htm#fr_290.md) <span
 id="an_iii.vi-p87.3"></span>
 
 <span id="an_iii.vi-p88"></span> *Vide infra* , pt. ii. caps. i. and x.
 
-<span id="fn_291"></span>[141:292](myst09.htm#fr_291) <span
+<span id="fn_291"></span>[141:292](myst09.htm#fr_291.md) <span
 id="an_iii.vi-p90.1"></span>
 
 <span id="an_iii.vi-p91"></span> “Theologia Germanica,” cap. i.
 
-<span id="fn_292"></span>[142:293](myst09.htm#fr_292) <span
+<span id="fn_292"></span>[142:293](myst09.htm#fr_292.md) <span
 id="an_iii.vi-p94.1"></span>
 
 <span id="an_iii.vi-p95"></span> “A Short Enquiry Concerning the
 Hermetic Art,” p. 29.
 
-<span id="fn_293"></span>[143:294](myst09.htm#fr_293) <span
+<span id="fn_293"></span>[143:294](myst09.htm#fr_293.md) <span
 id="an_iii.vi-p97.2"></span>
 
 <span id="an_iii.vi-p98"></span> “Religio Medici,” pt. i.
 
-<span id="fn_294"></span>[143:295](myst09.htm#fr_294) <span
+<span id="fn_294"></span>[143:295](myst09.htm#fr_294.md) <span
 id="an_iii.vi-p98.1"></span>
 
 <span id="an_iii.vi-p99"></span> “A Suggestive Enquiry into the Hermetic
@@ -1360,60 +1360,60 @@ certain type—that she had revealed matters which might not be spoken of;
 as Coventry Patmore for the same reason destroyed his masterpiece,
 “Sponsa Dei.”
 
-<span id="fn_295"></span>[143:296](myst09.htm#fr_295) <span
+<span id="fn_295"></span>[143:296](myst09.htm#fr_295.md) <span
 id="an_iii.vi-p100.1"></span>
 
 <span id="an_iii.vi-p101"></span> Quoted in “A Suggestive Enquiry into
 the Hermetic Mystery,” p. 107. The whole of the “Golden Treatise” will
 be found set out in this work.
 
-<span id="fn_296"></span>[144:297](myst09.htm#fr_296) <span
+<span id="fn_296"></span>[144:297](myst09.htm#fr_296.md) <span
 id="an_iii.vi-p102.2"></span>
 
 <span id="an_iii.vi-p103"></span> Jacob Boehme, “The Threefold Life of
 Man,” cap. iv. § 23.
 
-<span id="fn_297"></span>[144:298](myst09.htm#fr_297) <span
+<span id="fn_297"></span>[144:298](myst09.htm#fr_297.md) <span
 id="an_iii.vi-p104.1"></span>
 
 <span id="an_iii.vi-p105"></span> Boehme, “The Threefold Life of Man,”
 cap. vi. § 98; cap. x. §§ 3, 4; and cap. xiii. § 1.
 
-<span id="fn_298"></span>[145:299](myst09.htm#fr_298) <span
+<span id="fn_298"></span>[145:299](myst09.htm#fr_298.md) <span
 id="an_iii.vi-p106.1"></span>
 
 <span id="an_iii.vi-p107"></span> “The Golden Tripod of the Monk
 Basilius Valentinus” (“The Hermetic Museum, “ vol. i. p. 319).
 
-<span id="fn_299"></span>[145:300](myst09.htm#fr_299) <span
+<span id="fn_299"></span>[145:300](myst09.htm#fr_299.md) <span
 id="an_iii.vi-p108.1"></span>
 
 <span id="an_iii.vi-p109"></span> “A Short Enquiry Concerning the
 Hermetic Art,” p. 17.
 
-<span id="fn_300"></span>[146:301](myst09.htm#fr_300) <span
+<span id="fn_300"></span>[146:301](myst09.htm#fr_300.md) <span
 id="an_iii.vi-p111.2"></span>
 
 <span id="an_iii.vi-p112"></span> “The Hermetic Museum,” vol. i. p. 272.
 
-<span id="fn_301"></span>[146:302](myst09.htm#fr_301) <span
+<span id="fn_301"></span>[146:302](myst09.htm#fr_301.md) <span
 id="an_iii.vi-p113.2"></span>
 
 <span id="an_iii.vi-p114"></span> “A Suggestive Enquiry,” p. 345.
 
-<span id="fn_302"></span>[147:303](myst09.htm#fr_302) <span
+<span id="fn_302"></span>[147:303](myst09.htm#fr_302.md) <span
 id="an_iii.vi-p116.1"></span>
 
 <span id="an_iii.vi-p117"></span> See “A Short Enquiry,” p. 17, and “A
 Suggestive Enquiry,” pp. 297 *et seq* ., where the rhymed Alchemic tract
 called “Hunting the Greene Lyon” is printed in full.
 
-<span id="fn_303"></span>[147:304](myst09.htm#fr_303) <span
+<span id="fn_303"></span>[147:304](myst09.htm#fr_303.md) <span
 id="an_iii.vi-p117.6"></span>
 
 <span id="an_iii.vi-p118"></span> *Op. cit.*
 
-<span id="fn_304"></span>[148:305](myst09.htm#fr_304) <span
+<span id="fn_304"></span>[148:305](myst09.htm#fr_304.md) <span
 id="an_iii.vi-p122.1"></span>
 
 <span id="an_iii.vi-p123"></span> Sir Thomas Browne, “Religio Medici,”
@@ -1423,6 +1423,6 @@ pt. i.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Mysticism and Magic](myst10)
+[Next: VII. Mysticism and Magic](myst10.md)
 
 </div>

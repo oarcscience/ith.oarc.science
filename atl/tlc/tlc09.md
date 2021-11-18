@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc08)  [Next](tlc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc08)  [Next](tlc10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -323,7 +323,7 @@ that they must slack out more links of one of the tiger's
 
 <span id="img_10400"></span> <span align="CENTER"> [![“THE GREAT
 CAVE-TIGER”](tn/10400.jpg)  
-Click to enlarge](img/10400.jpg)  
+Click to enlarge](img/10400.jpg.md)  
 “THE GREAT CAVE-TIGER”  
 </span>
 
@@ -654,4 +654,4 @@ speak."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Biters of the Walls (Further Account)](tlc10)
+[Next: Chapter VII. The Biters of the Walls (Further Account)](tlc10.md)

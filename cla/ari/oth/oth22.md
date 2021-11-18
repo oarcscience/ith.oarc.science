@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth21)  [Next](oth23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth21)  [Next](oth23.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ mathematicians show, with their distance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11](oth23)
+[Next: Chapter 11](oth23.md)

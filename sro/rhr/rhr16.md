@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr15)  [Next](rhr17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr15)  [Next](rhr17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -193,7 +193,7 @@ various organs of the human body are intimately
 connected with and influence each other." Every change that takes place
 in the *macrocosmus* may be sensed by the spiritual body which surrounds
 the spirit of the *minutum mundum*. The forces composing the one are
-identical with those of the other. <span id="fr_54"></span>[1](#fn_54)
+identical with those of the other. <span id="fr_54"></span>[1](#fn_54.md)
 
 II\. We find, in the next place, the doctrine of Elemental spirits,
 which it is a common error to suppose originated with the Rosicrucians.
@@ -222,7 +222,7 @@ they live and propagate offspring; they eat and talk, act and sleep, &c.
 men and spirits, resembling men and women in their organisation and
 form, and resembling spirits in the rapidity of their locomotion." They
 must not be confounded with the Elementaries which are the astral bodies
-of the dead. <span id="fr_55"></span>[1](#fn_55) They are divided into
+of the dead. <span id="fr_55"></span>[1](#fn_55.md) They are divided into
 four classes. "The air is replete with an innumerable multitude of
 creatures, having human shapes, somewhat fierce in appearance, but
 docile in reality; great lovers of the sciences, subtle, serviceable to
@@ -244,7 +244,7 @@ Philosophers, but do not eagerly seek
 
 their company, and their wives and daughters are seldom visible. They
 transcend all the others in beauty, for they are natives of a purer
-element." <span id="fr_56"></span>[1](#fn_56)
+element." <span id="fr_56"></span>[1](#fn_56.md)
 
 III\. In the third place, the Rosicrucian manifestoes contain the
 doctrine of the *signatura rerum*, which again is of Paracelsian origin.
@@ -253,7 +253,7 @@ characters of that "Book of Nature" which, according to the "Confessio,"
 stands open "for all eyes," but "can be read or understood by only a
 very few." These characters are the seal of God imprinted "on the
 wonderful work of creation, on the heavens, the earth, and on all
-beasts." <span id="fr_57"></span>[2](#fn_57) This "signature of things"
+beasts." <span id="fr_57"></span>[2](#fn_57.md) This "signature of things"
 is described by Paracelsus as "a certain organic vital activity," which
 is frequently "expressed even in the exterior form of things; and by
 observing that form we may learn something in regard to their interior
@@ -265,7 +265,7 @@ expressed in their outward forms. As long as man remained in a natural
 state, he recognised the signatures of things and knew their true
 character; but the more he diverged from the path of Nature, and the
 more his mind became captivated by illusive external appearances, the
-more this power became lost." <span id="fr_58"></span>[3](#fn_58) The
+more this power became lost." <span id="fr_58"></span>[3](#fn_58.md) The
 same doctrine is developed by the most distinguished disciple of
 Paracelsus, the Kentish Rosicrucian, Robert Fludd. "There are other
 invisible writings, secretly impressed on the leaves of
@@ -278,7 +278,7 @@ understanding, being traced by the Spirit of the living God on the
 hidden fleshly tablets of our own hearts. . . . These internal and
 spiritual characters, constituting the interior writing, may also to the
 bodily eyes be the cause and origin of the things which do
-appear." <span id="fr_59"></span>[1](#fn_59) "It is manifest," he also
+appear." <span id="fr_59"></span>[1](#fn_59.md) "It is manifest," he also
 remarks, "that those vivific letters and characters impressed on the
 Bible and on the great Book of Nature, and which we call arcane, because
 they are understood only by the few, are one thing, and that the dead,
@@ -316,7 +316,7 @@ the power by which the will forms sidereal entities out of thoughts. It
 is not *fancy*, which latter is the corner-stone of superstition and
 foolishness. . . . The power of the imagination is a great factor in
 medicine. It may produce diseases in man and in animals, and it may cure
-them." <span id="fr_60"></span>[1](#fn_60) This theory covers all the
+them." <span id="fr_60"></span>[1](#fn_60.md) This theory covers all the
 phenomena of visions, ecstacies, evocations, and other pseudo-miracles,
 recognising that they are facts, and accounting for the futility of
 their results.
@@ -329,7 +329,7 @@ knowledge of Nature, while this knowledge bringeth forth both that and
 an infinite number of other natural miracles, it is right that we be
 rather earnest to attain to the knowledge of philosophy, nor tempt
 excellent wits to the tincture of metals sooner then to the observation
-of Nature." <span id="fr_61"></span>[2](#fn_61) Whatever may be thought
+of Nature." <span id="fr_61"></span>[2](#fn_61.md) Whatever may be thought
 of this reasoning, it definitely places
 
 <span id="page_207">p. 207</span>
@@ -338,7 +338,7 @@ the Rosicrucians in that school of alchemy to which I made reference at
 the close of the first chapter, and whose aim was to accomplish the
 spiritual side of the *magnum opus*, or great work of alchemical
 reconstruction. For them the transmutation of metals being no operation
-of common chemistry, <span id="fr_62"></span>[1](#fn_62) both the "Fama"
+of common chemistry, <span id="fr_62"></span>[1](#fn_62.md) both the "Fama"
 and "Confessio" appear to condemn indiscriminately all professors of the
 purely physical process, which they call "the ungodly and accursed
 gold-making." Here, as in their other opinions, they echo Paracelsus.
@@ -356,7 +356,7 @@ silver by chemical means; still he condemns such experiments as useless,
 and it seems to be more than probable that even in such chemical
 experiments as may have succeeded, something more than merely chemical
 manipulations was required to make them successful." <span
-id="fr_63"></span>[2](#fn_63) Éliphas Lévi, one of the most profound
+id="fr_63"></span>[2](#fn_63.md) Éliphas Lévi, one of the most profound
 commentators on Paracelsus, declares that "there is light in gold, gold
 in light, and light in all things." Thus the first
 
@@ -365,7 +365,7 @@ in light, and light in all things." Thus the first
 matter of the *magnum opus* is both within and about us, and "the
 intelligent will, which assimilates light, directs the operations of
 substantial form, and only employs chemistry as a very secondary
-instrument." <span id="fr_64"></span>[1](#fn_64)
+instrument." <span id="fr_64"></span>[1](#fn_64.md)
 
 At the same time the Rosicrucians claimed to be in possession of "great
 treasures of gold," and of the purse of Fortunatus. There seems no
@@ -392,7 +392,7 @@ Of very subtle and magical powers,"</span>
 the Rosicrucians come before us as essentially, or at least primarily, a
 healing fraternity. "Their agreement was this . . . . That none of them
 should profess any other thing than to cure the sick, and that
-gratis." <span id="fr_65"></span>[2](#fn_65) Professor Buhle, in his
+gratis." <span id="fr_65"></span>[2](#fn_65.md) Professor Buhle, in his
 notice of the Rosicrucians and Freemasons, says that the evils of
 Germany at this period were immense, that the land was overswept by a
 "great storm of wretchedness and confusion." The science of medicine was
@@ -401,7 +401,7 @@ monasteries, had
 
 <span id="page_209">p. 209</span>
 
-destroyed hospitals, <span id="fr_66"></span>[1](#fn_66) and the
+destroyed hospitals, <span id="fr_66"></span>[1](#fn_66.md) and the
 diseases and miseries unavoidably consequent on unsanitary principles
 and medical guesswork, were undoubtedly very widely spread. The utter
 incompetence of the ancient methods led many others besides the
@@ -431,10 +431,10 @@ of this important point.
 
 ### Footnotes
 
-<span id="fn_54"></span>[202:1](rhr16.htm#fr_54) "Paracelsus," by Franz
+<span id="fn_54"></span>[202:1](rhr16.htm#fr_54.md) "Paracelsus," by Franz
 Hartmann, M.D., p. 44.
 
-<span id="fn_55"></span>[203:1](rhr16.htm#fr_55) According to Eliphas
+<span id="fn_55"></span>[203:1](rhr16.htm#fr_55.md) According to Eliphas
 Lévi, the Astral Light, *i.e.*, the substance diffused through infinity,
 and which is the first matter of the material and psycho-material
 universe, is "transformed at the moment of conception into human light,
@@ -446,36 +446,36 @@ already inert, the other still animated by the universal movement of the
 soul of the world, but destined to die gradually, being absorbed by the
 astral energies which produced it."--"Mysteries of Magic," pp. 97, 105.
 
-<span id="fn_56"></span>[204:1](rhr16.htm#fr_56) "Comte de Gabalis."
+<span id="fn_56"></span>[204:1](rhr16.htm#fr_56.md) "Comte de Gabalis."
 Second Entretien.
 
-<span id="fn_57"></span>[204:2](rhr16.htm#fr_57) "Confessio
+<span id="fn_57"></span>[204:2](rhr16.htm#fr_57.md) "Confessio
 Fraternatis," c. viii.
 
-<span id="fn_58"></span>[204:3](rhr16.htm#fr_58) Hartmann's
+<span id="fn_58"></span>[204:3](rhr16.htm#fr_58.md) Hartmann's
 "Paracelsus," pp. 51, 52.
 
-<span id="fn_59"></span>[205:1](rhr16.htm#fr_59) Robertus de Fluctibus,
+<span id="fn_59"></span>[205:1](rhr16.htm#fr_59.md) Robertus de Fluctibus,
 "Apologia Compendiana Fraternitatem de Rosea Cruce."
 
-<span id="fn_60"></span>[206:1](rhr16.htm#fr_60) "Confessio
+<span id="fn_60"></span>[206:1](rhr16.htm#fr_60.md) "Confessio
 Fraternitatis," c. xi.
 
-<span id="fn_61"></span>[206:2](rhr16.htm#fr_61) *Ibid*.
+<span id="fn_61"></span>[206:2](rhr16.htm#fr_61.md) *Ibid*.
 
-<span id="fn_62"></span>[207:1](rhr16.htm#fr_62) On this point see
+<span id="fn_62"></span>[207:1](rhr16.htm#fr_62.md) On this point see
 "Mysteries of Magic," Biographical and Critical Preface, p. xliii.
 
-<span id="fn_63"></span>[207:2](rhr16.htm#fr_63) Hartmann's
+<span id="fn_63"></span>[207:2](rhr16.htm#fr_63.md) Hartmann's
 "Paracelsus," pp. 177, 178.
 
-<span id="fn_64"></span>[208:1](rhr16.htm#fr_64) "Mysteries of Magic,"
+<span id="fn_64"></span>[208:1](rhr16.htm#fr_64.md) "Mysteries of Magic,"
 p. 204.
 
-<span id="fn_65"></span>[208:2](rhr16.htm#fr_65) "Fama Fraternitatis,"
+<span id="fn_65"></span>[208:2](rhr16.htm#fr_65.md) "Fama Fraternitatis,"
 p. 73.
 
-<span id="fn_66"></span>[209:1](rhr16.htm#fr_66) "The origin of our
+<span id="fn_66"></span>[209:1](rhr16.htm#fr_66.md) "The origin of our
 present hospitals must be looked for in monastic arrangements for the
 care of the sick and indigent. Every monastery had its *infirmaria*,
 managed by an *infirmarius*, in which not only were sick and
@@ -484,4 +484,4 @@ housed."--"Encyc. Brit.," 9th ed., s. v, "Hospitals."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Antiquity of the Rosicrucian Fraternity](rhr17)
+[Next: Chapter VII. Antiquity of the Rosicrucian Fraternity](rhr17.md)

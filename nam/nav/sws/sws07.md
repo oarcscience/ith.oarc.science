@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](sws06)  [Next](sws08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](sws06)  [Next](sws08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQAH5Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Spider Woman*, by Gladys A. Reichard, \[1934\], at Intangible Textual
 Heritage
 
@@ -47,25 +47,25 @@ looks better; I achieve it with greater ease.
 
 <span id="img_02400"></span> <span align="CENTER"> [![MARIE
 CARDS—](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)  
+Click to enlarge](img/02400.jpg.md)  
 MARIE CARDS—  
 </span>
 
 <span id="img_02401"></span> <span align="CENTER"> [![—AND
 SPINS](tn/02401.jpg)  
-Click to enlarge](img/02401.jpg)  
+Click to enlarge](img/02401.jpg.md)  
 —AND SPINS  
 </span>
 
 <span id="img_02500"></span> <span align="CENTER"> [![MARIE SHOWS HOW TO
 HOLD BATTEN AND COMB](tn/02500.jpg)  
-Click to enlarge](img/02500.jpg)  
+Click to enlarge](img/02500.jpg.md)  
 MARIE SHOWS HOW TO HOLD BATTEN AND COMB  
 </span>
 
 <span id="img_02501"></span> <span align="CENTER"> [![MARIE PULLS THE
 HEALD](tn/02501.jpg)  
-Click to enlarge](img/02501.jpg)  
+Click to enlarge](img/02501.jpg.md)  
 MARIE PULLS THE HEALD  
 </span>
 
@@ -198,25 +198,25 @@ for home. Here are two boys, relatives of Tom and Curley's—
 
 <span id="img_02800"></span> <span align="CENTER"> [![SUN'S HOUSE
 BLANKET](tn/02800.jpg)  
-Click to enlarge](img/02800.jpg)  
+Click to enlarge](img/02800.jpg.md)  
 SUN'S HOUSE BLANKET  
 </span>
 
 <span id="img_02801"></span> <span align="CENTER"> [![SUN'S HOUSE
 DETAIL](tn/02801.jpg)  
-Click to enlarge](img/02801.jpg)  
+Click to enlarge](img/02801.jpg.md)  
 SUN'S HOUSE DETAIL  
 </span>
 
 <span id="img_02900"></span> <span align="CENTER"> [![MARIE'S POSITION
 OF REST](tn/02900.jpg)  
-Click to enlarge](img/02900.jpg)  
+Click to enlarge](img/02900.jpg.md)  
 MARIE'S POSITION OF REST  
 </span>
 
 <span id="img_02901"></span> <span align="CENTER"> [![ATLNABA UNWINDS
 SKEIN AND WINDS BALL](tn/02901.jpg)  
-Click to enlarge](img/02901.jpg)  
+Click to enlarge](img/02901.jpg.md)  
 ATLNABA UNWINDS SKEIN AND WINDS BALL  
 </span>
 
@@ -237,4 +237,4 @@ has washed it and dried it. Tomorrow I can get back to my weaving.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Sympathy](sws08)
+[Next: Chapter V: Sympathy](sws08.md)

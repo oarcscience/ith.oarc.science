@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb14)  [Next](ttb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb14)  [Next](ttb16.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_28">p. 28</span>
 
-<span id="img_02800"></span> ![Ho-Xhok, The Crane](img/02800.jpg)
+<span id="img_02800"></span> ![Ho-Xhok, The Crane](img/02800.jpg.md)
 
 ### Ho-Xhok, (HO-HOOK), THE CRANE
 
@@ -63,4 +63,4 @@ generations.
 
 ------------------------------------------------------------------------
 
-[Next: Shwah Kuk, The Frog](ttb16)
+[Next: Shwah Kuk, The Frog](ttb16.md)

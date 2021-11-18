@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh06)  [Next](sadh08) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh06)  [Next](sadh08.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ should we give credit to its first recommendation and disbelieve the
 second one? That the flower has got its being in the unbroken chain of
 causation is true beyond doubt; but that is an outer truth. The inner
 truth is: *Verily from the everlasting joy do all objects have their
-birth.*  <span id="fr_38"></span>[39](#fn_38)
+birth.*  <span id="fr_38"></span>[39](#fn_38.md)
 
 A flower, therefore, has not its only function in nature, but has
 another great function to exercise in the mind of man. And what is that
@@ -226,7 +226,7 @@ creatures, by joy they are sustained, towards joy they progress, and
 into joy they enter."
 
 *The immortal being manifests himself in joy-form.*  <span
-id="fr_39"></span>[40](#fn_39) His manifestation in creation is out of
+id="fr_39"></span>[40](#fn_39.md) His manifestation in creation is out of
 his fullness of joy. It is the nature of this abounding joy to realise
 itself in form which is law. The joy, which is without form, must
 create, must translate itself into forms. The joy of the singer is
@@ -296,7 +296,7 @@ one with this *sarvānubhūh*, this all-feeling being who is in the
 external sky, as well as in our inner soul, we must attain to that
 summit of consciousness, which is love: *Who could have breathed or
 moved if the sky were not filled with joy, with love?*  <span
-id="fr_40"></span>[41](#fn_40) It is through the heightening of our
+id="fr_40"></span>[41](#fn_40.md) It is through the heightening of our
 consciousness into love, and extending it all over the world, that we
 can attain *Brahma-vihāra,* communion with this infinite joy.
 
@@ -523,15 +523,15 @@ world and of the world-soul with the supreme lover.
 
 ### Footnotes
 
-<span id="fn_38"></span>[39](sadh07.htm#fr_38) Ānandādhyēva khalvimāni
+<span id="fn_38"></span>[39](sadh07.htm#fr_38.md) Ānandādhyēva khalvimāni
 bhūtāni jāyantē.
 
-<span id="fn_39"></span>[40](sadh07.htm#fr_39) Ānandarūpamamritam yad
+<span id="fn_39"></span>[40](sadh07.htm#fr_39.md) Ānandarūpamamritam yad
 vibhāti.
 
-<span id="fn_40"></span>[41](sadh07.htm#fr_40) Ko hyēvānyāt kah prānyāt
+<span id="fn_40"></span>[41](sadh07.htm#fr_40.md) Ko hyēvānyāt kah prānyāt
 yadēsha ākāça ānandō na syāt.
 
 ------------------------------------------------------------------------
 
-[Next: VI: Realisation in Action](sadh08)
+[Next: VI: Realisation in Action](sadh08.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,13 +22,13 @@ Sagas](../../index)  [England](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](str00)    [Page
-Index](pageidx)    [Text \[Zipped\]](str.txt.gz)
+[Contents](#contents)    [Start Reading](str00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](str.txt.gz.md)
 
 ------------------------------------------------------------------------
 
 Like Lockyer's [Stonehenge and Other British Stone Monuments
-Astronomically Considered](../sac/index), William Stukeley's 1740 study
+Astronomically Considered](../sac/index.md), William Stukeley's 1740 study
 of Stonehenge stands out among the huge number of books on the subject.
 Stukeley was a pioneer preservationist. He lamented the callous
 treatment of the majestic ruins both by tourists and landholders. He
@@ -55,7 +55,7 @@ It is remarkable that two centuries later Lockyer also propounded a
 theory that Stonehenge was built by immigrants from the Near East. Also
 of note is Stukeley's discovery of vast linear features in the vicinity
 of Stonehenge. This of course anticipated [Watkins' ley
-lines](../ebt/index). He points out one case where these lines have
+lines](../ebt/index.md). He points out one case where these lines have
 Roman roads constructed over them, indicating that they could not be
 Roman in origin. He describes a huge oval track in the landscape, which
 he hypothesized was an ancient horse race course! Stukeley also proposed
@@ -82,19 +82,19 @@ surprisingly accessible and makes a fascinating read.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](str00)  
-[Dedication](str01)  
-[Preface](str02)  
-[Chapter I](str03)  
-[Chapter II](str04)  
-[Chapter III](str05)  
-[Chapter IV](str06)  
-[Chapter V](str07)  
-[Chapter VI](str08)  
-[Chapter VII](str09)  
-[Chapter VIII](str10)  
-[Chapter IX](str11)  
-[Chapter X](str12)  
-[Chapter XI](str13)  
-[Chapter XII](str14)  
-[Index](str15)  
+<span id="contents"></span> [Title Page](str00.md)  
+[Dedication](str01.md)  
+[Preface](str02.md)  
+[Chapter I](str03.md)  
+[Chapter II](str04.md)  
+[Chapter III](str05.md)  
+[Chapter IV](str06.md)  
+[Chapter V](str07.md)  
+[Chapter VI](str08.md)  
+[Chapter VII](str09.md)  
+[Chapter VIII](str10.md)  
+[Chapter IX](str11.md)  
+[Chapter X](str12.md)  
+[Chapter XI](str13.md)  
+[Chapter XII](str14.md)  
+[Index](str15.md)  

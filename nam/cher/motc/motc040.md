@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc039) 
-[Next](motc041) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc039.md) 
+[Next](motc041.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ ever since he shuts himself up in his box when anyone comes near him.
 
 ------------------------------------------------------------------------
 
-[Next: 41. How The Redbird Got His Color](motc041)
+[Next: 41. How The Redbird Got His Color](motc041.md)

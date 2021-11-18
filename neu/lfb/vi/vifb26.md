@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb25)  [Next](vifb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb25)  [Next](vifb27.md) 
 
 </div>
 
@@ -146,6 +146,6 @@ their goodness and beauty.
 
 ------------------------------------------------------------------------
 
-[Next: The Monkey and the Jelly-Fish](vifb27)
+[Next: The Monkey and the Jelly-Fish](vifb27.md)
 
 </div>

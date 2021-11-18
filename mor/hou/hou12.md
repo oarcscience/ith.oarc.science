@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou11)  [Next](hou13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou11)  [Next](hou13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ Missouri.</span></span>
 the Missouri, the Pottawattamies on the east side and the Omahas on the
 west side, the outcasts from Nauvoo were warmly welcomed. "My Mormon
 brethren," said the chief Pied Riche, <span
-id="fr_295"></span>[1](#fn_295) "the Pottawattamie came sad and tired
+id="fr_295"></span>[1](#fn_295.md) "the Pottawattamie came sad and tired
 into this unhealthy Missouri bottom, not many years back, when he was
 taken from his beautiful country beyond the Mississippi, which had
 abundant game and timber and clear water everywhere. Now you are driven
@@ -51,7 +51,7 @@ blankets, with pipes and trinkets
 beside them. At Cutler Park there were friendly negotiations made with
 Big Elk, chief of the Omahas, who said: "I am willing you should stop in
 my country, but I am afraid of my great father at Washington." <span
-id="fr_296"></span>[2](#fn_296)
+id="fr_296"></span>[2](#fn_296.md)
 
     As the United States pretended to hold the title to the land, it was
 thought that the Pottawattamies had no right to convey their timber to
@@ -61,12 +61,12 @@ permit for passing through their territory, and for remaining while
 
 <span id="img_23700"></span> <span align="CENTER"> [![ABOUT THE
 MISSOURI.](tn/23700.jpg)  
-Click to enlarge](img/23700.jpg)  
+Click to enlarge](img/23700.jpg.md)  
 ABOUT THE MISSOURI.  
 </span>
 
 necessary, was obtained from Colonel Allen, who was acting for the
-United States. <span id="fr_297"></span>[3](#fn_297)
+United States. <span id="fr_297"></span>[3](#fn_297.md)
 
     Although it was late in the season when the first bands of emigrants
 crossed the Missouri, some of them still moved westward as far as the
@@ -79,19 +79,19 @@ which other parties of the
 saints reached the Mormon encampments, forbade further progress, and all
 prepared to spend the winter on the prairie. To the Mormon encampment on
 the site of the present town of Council Bluffs was afterward given the
-name of Kanesville. <span id="fr_298"></span>[4](#fn_298)
+name of Kanesville. <span id="fr_298"></span>[4](#fn_298.md)
 
  
 
     While the saints were undergoing their infelicities at Nauvoo, war
 had broken out between the United States and Mexico. At that time New
 Mexico and California were a part of Mexico, and Utah and Nevada were a
-part of California. <span id="fr_299"></span>[5](#fn_299) Journeying
+part of California. <span id="fr_299"></span>[5](#fn_299.md) Journeying
 west from Nauvoo, California or Oregon would be reached. The latter
 territory was already secured to the United States; people were there
 from the United States, composing religious sects and political parties
 as jealous of their holdings as any in Missouri or Illinois. Vancouver
-Island <span id="fr_300"></span>[6](#fn_300) was practically unoccupied,
+Island <span id="fr_300"></span>[6](#fn_300.md) was practically unoccupied,
 but the Hudson's Bay Company would scarcely regard with favor its
 occupation by a large body of American citizens whose government was at
 that moment crowding them out of the Oregon territory and across the
@@ -111,7 +111,7 @@ every instance determined. The question of the boundary line between
 England's possessions and those of the United States had stirred up no
 small discussion and feeling, and out of the present war with Mexico
 would doubtless arise some changes. <span
-id="fr_301"></span>[7](#fn_301) It was a foregone conclusion in the
+id="fr_301"></span>[7](#fn_301.md) It was a foregone conclusion in the
 minds of many, before ever the migratory saints had reached the Missouri
 River, that when the present troubles with Mexico were ended the United
 States would have California. But however this might be, the saints had
@@ -121,7 +121,7 @@ them their future home. Thus it was that while the Mormons in the
 western states took the route overland, another portion living at the
 east took passage round Cape Horn, the intention being that the two
 bodies of brethren should come together somewhere upon the Pacific
-slope, which indeed they did. <span id="fr_302"></span>[8](#fn_302)
+slope, which indeed they did. <span id="fr_302"></span>[8](#fn_302.md)
 
     The national title to what is now the Pacific United States being at
 this time thus unsettled, and the Mormons having been driven from what
@@ -150,7 +150,7 @@ means.
 
     They even asked for aid direct about the time the exodus began,
 being represented at Washington by Elder Jesse C. Little, <span
-id="fr_303"></span>[9](#fn_303) who, aided by Colonel Kane, Amos
+id="fr_303"></span>[9](#fn_303.md) who, aided by Colonel Kane, Amos
 Kendall, and others, brought the matter before President Polk. While
 negotiations were yet in progress, news arrived that General Taylor had
 already won two victories over the Mexicans; whereupon the elder
@@ -202,18 +202,18 @@ promising to look after the wants of the families of those enlisting.
 
     Though in reality a great benefit to the brethren, there were some
 hardships connected with the measure. <span
-id="fr_304"></span>[10](#fn_304) As Brigham and others were on their way
+id="fr_304"></span>[10](#fn_304.md) As Brigham and others were on their way
 from Council Bluffs to Pisgah to aid in obtaining these recruits, they
 passed 800 west-bound wagons. At their encampments on each side the
 river there was much serious illness, and as many of the teamsters had
 been withdrawn for this campaign, much heavy work fell upon the women
 and children, and the aged and infirm. <span
-id="fr_305"></span>[11](#fn_305)
+id="fr_305"></span>[11](#fn_305.md)
 
     After a ball on the afternoon of the 19th, the volunteers next day
 bade farewell to their families and friends, and accompanied by eighty
-women and children, <span id="fr_306"></span>[12](#fn_306) set forth on
-their march, <span id="fr_307"></span>[13](#fn_307) on the 1st of August
+women and children, <span id="fr_306"></span>[12](#fn_306.md) set forth on
+their march, <span id="fr_307"></span>[13](#fn_307.md) on the 1st of August
 arriving at Fort Leavenworth. Here the men received
 
 <span id="page_243">p. 243</span>
@@ -222,14 +222,14 @@ their arms and accoutrements, and to each was given a bounty of forty
 dollars, most of the money being sent back to the brethren by the hands
 of elders Hyde, Taylor, and others, who accompanied the battalion to
 that point, and there bade them God speed. <span
-id="fr_308"></span>[14](#fn_308)
+id="fr_308"></span>[14](#fn_308.md)
 
     About the middle of August the corps resumed its march toward Santa
 Fé, a distance of seven hundred miles, arriving at that place in two
 parties on the 9th and 12th of October. There eighty-eight men were
 invalided and sent back to Pueblo for the winter, and later a second
 detachment of fifty-five, being found unfit for service, was also
-ordered to Pueblo. <span id="fr_309"></span>[15](#fn_309) Many of them
+ordered to Pueblo. <span id="fr_309"></span>[15](#fn_309.md) Many of them
 found their way during the following year to the valley of Great Salt
 Lake.
 
@@ -240,17 +240,17 @@ miles. Much of the route lay through a pathless desert; at few points
 could food be obtained in sufficient quantity for man or beast, and
 sometimes even water failed. Wells were sunk in the wilderness; but on
 one occasion, at least, the men travelled for a hundred miles without
-water. <span id="fr_310"></span>[16](#fn_310) Before leaving Santa
+water. <span id="fr_310"></span>[16](#fn_310.md) Before leaving Santa
 
 <span id="page_244">p. 244</span>
 
 <span class="contnote">\[paragraph continues\]</span> Fé rations were
-reduced, <span id="fr_311"></span>[17](#fn_311) and soon afterward
+reduced, <span id="fr_311"></span>[17](#fn_311.md) and soon afterward
 further reduced to one half and finally to one quarter allowance, the
 meat issued to the troops being the flesh of such animals as were unable
 to proceed further, though their hides and entrails were eagerly
 devoured, being gulped down with draughts of water, when water could be
-had. <span id="fr_312"></span>[18](#fn_312) While suffering these
+had. <span id="fr_312"></span>[18](#fn_312.md) While suffering these
 hardships the men were compelled to carry their own knapsacks, muskets,
 and extra ammunition, and sometimes to push the wagons through heavy
 sand, or help to drag them over mountain ranges.
@@ -268,13 +268,13 @@ fought during their campaign—an encounter with a
 herd of wild bulls. Thence, without further adventure worthy of note,
 they continued their march, and reaching the Pacific coast on the 29th
 of January, 1847, found the stars and stripes floating peacefully over
-the town of San Diego. <span id="fr_313"></span>[19](#fn_313)
+the town of San Diego. <span id="fr_313"></span>[19](#fn_313.md)
 
     A more detailed account of the career of the Mormon battalion will
 be found in my *History of California*. It remains only to add here that
 about one hundred of the men reached Salt Lake City in the winter of
 1847, while some remained on the Pacific coast. <span
-id="fr_314"></span>[20](#fn_314)
+id="fr_314"></span>[20](#fn_314.md)
 
     The alacrity displayed by the Mormon president in raising this
 battalion has been ascribed to various causes; to the fear of further
@@ -300,7 +300,7 @@ first bands that crossed the Mississippi encountered no very severe
 hardships, as I have said, the sufferings of those who set forth later
 have few parallels, even among the pioneers, who, a year or two
 afterward, followed their track westward in search of gold. <span
-id="fr_315"></span>[21](#fn_315)
+id="fr_315"></span>[21](#fn_315.md)
 
     Mount Pisgah, the next encampment west of Garden Grove, was on the
 middle fork of Grand River. Through this winter of 1846-7, which was one
@@ -311,14 +311,14 @@ in bringing forward the emigration from the Mississippi. Many
 <span id="page_247">p. 247</span>
 
 families were entirely out of provisions, and their destitute neighbors
-were sorely taxed. <span id="fr_316"></span>[22](#fn_316) A fatal
+were sorely taxed. <span id="fr_316"></span>[22](#fn_316.md) A fatal
 sickness swept through the camp, and soon there were not sufficient
 persons to nurse the sick; frequently burials were hastened with little
 ceremony. In the spring of 1847, Lorenzo Snow was made president of the
 camp. The men were put to work wherever they could get it. Seed was
 planted, and the result was enough not only for themselves, but they
 were enabled to send supplies to the camp at Council Bluffs. <span
-id="fr_317"></span>[23](#fn_317) Snow instituted religious ceremonies
+id="fr_317"></span>[23](#fn_317.md) Snow instituted religious ceremonies
 and amusements to brighten and encourage them. He describes a dance in
 his log cabin, where clean straw was spread over the ground floor, and
 the walls draped with sheets. Turnips were scooped out and in them were
@@ -338,7 +338,7 @@ rails, posts, or whatever were needed, as
 <span id="page_248">p. 248</span>
 
 readily as the most expert backwoodsmen of their day. <span
-id="fr_318"></span>[24](#fn_318)
+id="fr_318"></span>[24](#fn_318.md)
 
     During the summer and autumn months of 1846, the Papillon camp, near
 the Little Butterfly River, in common with the others, was stricken with
@@ -360,27 +360,27 @@ and as the season advanced there were in some of the encampments not one
 who escaped the fever, the few who were able to stagger from tent to
 tent carrying food and water to their comrades. For several weeks it was
 impossible to dig graves quickly enough for the burial of the
-dead, <span id="fr_319"></span>[25](#fn_319) and one might see in the
+dead, <span id="fr_319"></span>[25](#fn_319.md) and one might see in the
 open tents the wasted forms of women brushing away the flies from the
 putrefying corpses of their children.
 
     Through all these months building was continually going on at Winter
-Quarters. <span id="fr_320"></span>[26](#fn_320) The axe and saw were
+Quarters. <span id="fr_320"></span>[26](#fn_320.md) The axe and saw were
 
 <span id="page_249">p. 249</span>
 
 incessantly at work night and day. It was a city of mud and logs; the
 houses had puncheon floors and roofs of straw and dirt, or of turf and
 willows; they were warm and nat unwholesome, but would not endure the
-thaw, rain, and sunshine. <span id="fr_321"></span>[27](#fn_321)
+thaw, rain, and sunshine. <span id="fr_321"></span>[27](#fn_321.md)
 
     There was a camp at Cutler Park which was moved to Winter Quarters.
 Great difficulty was experienced in getting flour and meal; a little
 grain was ground at the government mill, and the rest was obtained in
 Missouri, a hundred and fifty miles distant. <span
-id="fr_322"></span>[28](#fn_322) Brigham kept everybody busy, and
+id="fr_322"></span>[28](#fn_322.md) Brigham kept everybody busy, and
 everything was well organized and systematically executed. <span
-id="fr_323"></span>[29](#fn_323) Schools were soon established, officers
+id="fr_323"></span>[29](#fn_323.md) Schools were soon established, officers
 of the church appointed, and men sent on missions. The whole machinery
 was apparently in as active operation as it had been at Nauvoo. The
 gathering continued through the summer,
@@ -402,7 +402,7 @@ though often scant was never stinted.
     Within the camp the women attended not only to their ordinary
 household duties, but were busily occupied spinning, knitting, making
 leggings from deer and elk skins, and in weaving willow baskets for
-market. <span id="fr_324"></span>[30](#fn_324) With cheerfulness and
+market. <span id="fr_324"></span>[30](#fn_324.md) With cheerfulness and
 courage they adapted themselves to their many vicissitudes, their faith
 in their religion never swerving, and supported by it to a patient
 endurance beyond human strength. Most of them had exchanged their
@@ -424,31 +424,31 @@ matters assumed a brighter look.
 
 <span class="contnote">\[paragraph continues\]</span> New-year's day was
 ushered in at Winter Quarters by the firing of cannon. <span
-id="fr_325"></span>[31](#fn_325) There were frequent assemblies for
+id="fr_325"></span>[31](#fn_325.md) There were frequent assemblies for
 dancing, and in February several picnics were held. In inaugurating
 these festivities, Brigham told the people he would show them how to go
 forth in the dance in an acceptable manner before the Lord, <span
-id="fr_326"></span>[32](#fn_326) and to the sound of music led the
+id="fr_326"></span>[32](#fn_326.md) and to the sound of music led the
 dance. A picnic lasting for three days was also given, at which three
-hundred of the poor were feasted. <span id="fr_327"></span>[33](#fn_327)
+hundred of the poor were feasted. <span id="fr_327"></span>[33](#fn_327.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_295"></span>[236:1](hou12.htm#fr_295) Surnamed Le Clerc, on
+<span id="fn_295"></span>[236:1](hou12.htm#fr_295.md) Surnamed Le Clerc, on
 account of his scholarship.
 
-<span id="fn_296"></span>[237:2](hou12.htm#fr_296) 'The Omahas caused
+<span id="fn_296"></span>[237:2](hou12.htm#fr_296.md) 'The Omahas caused
 them some trouble, as they would steal with one hand while we fed them
 with the other.' *Hist. B. Young*, MS., 46, Oct. 18th.
 
-<span id="fn_297"></span>[237:3](hou12.htm#fr_297) *Hist. B. Young*,
+<span id="fn_297"></span>[237:3](hou12.htm#fr_297.md) *Hist. B. Young*,
 MS., 1846, 98-9. Maj. Harvey brought the Mormons at Winter Quarters
 letters from Washington, expecting them to leave the Pottawattamie lands
 in the spring. See cor., *Hist. B. Young*, MS., 441-52.
 
-<span id="fn_298"></span>[238:4](hou12.htm#fr_298) So called after
+<span id="fn_298"></span>[238:4](hou12.htm#fr_298.md) So called after
 Thomas L. Kane. Here was first issued on Feb. 7, 1849, the *Frontier
 Guardian*, and its publication was continued till March 22, 1852.
 *Richards’ Narr*., MS,, 65; *Richards’ Bibliog. of Utah*, MS., 13. The
@@ -459,7 +459,7 @@ exchange for the *Guardian* at the rate of $2 per hundred pounds, if
 good.' The last number of the *Times and Seasons* bears date Feb. 15,
 1846.
 
-<span id="fn_299"></span>[238:5](hou12.htm#fr_299) I frequently find
+<span id="fn_299"></span>[238:5](hou12.htm#fr_299.md) I frequently find
 California and Utah confounded by writers of this early period. The
 limits of California on the east were not then defined, and it was not
 uncommon, nor indeed incorrect, to apply that term to territory east of
@@ -469,7 +469,7 @@ Rocky Mts, being a portion of the great basin of Upper California.' As
 we shall see later, the Mormons knew even less about Utah than they did
 about California.
 
-<span id="fn_300"></span>[238:6](hou12.htm#fr_300) Brigham Young at
+<span id="fn_300"></span>[238:6](hou12.htm#fr_300.md) Brigham Young at
 first suggested Vancouver Island. 'There are said to be many good
 locations for settlements on the Pacific, especially at Vancouver
 Island.' Circular to the brethren, in *Times and Seasons*, vi. 1019. In
@@ -478,7 +478,7 @@ I. as their future home, the metropolis to be situated at Nootka.
 *Niles' Register*, lxix. 134. The *Quincy Whig* thinks the Mormons
 intend to settle at Nootka Sound. *Polynesian*, ii. 1846.
 
-<span id="fn_301"></span>[239:7](hou12.htm#fr_301) In a letter to Pres.
+<span id="fn_301"></span>[239:7](hou12.htm#fr_301.md) In a letter to Pres.
 Polk, dated near Council Bluffs, Aug. 9, 1846, the determination was
 expressed, 'that as soon as we are settled in the great basin, we design
 to petition the U.S. for a territorial govt, bounded on the north by the
@@ -488,7 +488,7 @@ intended settling in the great basin on Bear River Valley; that those
 who went round by water would settle in S. F. That was in council with
 the twelve and Col Kane.' *Hist. B. Young*, MS., 133, 140.
 
-<span id="fn_302"></span>[239:8](hou12.htm#fr_302) In his address to the
+<span id="fn_302"></span>[239:8](hou12.htm#fr_302.md) In his address to the
 saints in Great Britain, dated Liverpool, 1849, Elder John Taylor says:
 'When we arrive in California, according to the provisions of the
 Mexican government, each family will be entitled to a large tract of
@@ -498,14 +498,14 @@ American nation, there has been a bill before congress in relation to
 Or., which will undoubtedly pass, appropriating 640 acres of land to
 every male settler.' *Millennial Star*, viii. 115.
 
-<span id="fn_303"></span>[240:9](hou12.htm#fr_303) In the letter
+<span id="fn_303"></span>[240:9](hou12.htm#fr_303.md) In the letter
 appointing and giving instructions to Elder Little is the following: 'If
 our government should offer facilities for emigrating to the western
 coast, embrace these facilities if possible. As a wise and faithful man,
 take every advantage of the times you can.' *Tullidge's Life of Brigham
 Young*, 48.
 
-<span id="fn_304"></span>[242:10](hou12.htm#fr_304) So ingrafted in
+<span id="fn_304"></span>[242:10](hou12.htm#fr_304.md) So ingrafted in
 their minds was the idea of persecution, and so accustomed were they now
 to complaining, that when the government acceded to their request, there
 were many who believed, and so expressed themselves, that this was but
@@ -531,24 +531,24 @@ But I think I am safe in saying that plan was laid by certain parties
 for our destruction if we did not comply.' *Utah Pioneers*, 33d Ann.,
 20.
 
-<span id="fn_305"></span>[242:11](hou12.htm#fr_305) 'Most of our people
+<span id="fn_305"></span>[242:11](hou12.htm#fr_305.md) 'Most of our people
 were sick; in fact, the call for 500 able-bodied men from Council Bluffs
 for Mexico, by the government, deprived us of about all our strength.'
 *Richards’ Rem*., MS., 25.
 
-<span id="fn_306"></span>[242:12](hou12.htm#fr_306) Compare official
+<span id="fn_306"></span>[242:12](hou12.htm#fr_306.md) Compare official
 report in *U. S. House Ex. Doc*., no. 24, 31st Cong., 1st Sess., and
 *Tyler's Hist. Mormon Battalion*, and note discrepancies in regard to
 numbers enlisted and discharged. The names of those who reached
 California will be found in my pioneer register, *Hist. Cal*., this
 series.
 
-<span id="fn_307"></span>[242:13](hou12.htm#fr_307) 'The members started
+<span id="fn_307"></span>[242:13](hou12.htm#fr_307.md) 'The members started
 upon their pilgrimage cheerfully,' says Woodruff, 'understanding that
 they occupied the place of a ram caught in a thicket, and were making a
 sacrifice for the salvation of Israel.' *Utah Pioneers*, 20.
 
-<span id="fn_308"></span>[243:14](hou12.htm#fr_308) 'Here they received
+<span id="fn_308"></span>[243:14](hou12.htm#fr_308.md) 'Here they received
 100 tents, one for every 6 privates.' 'The paymaster remarked that every
 one of the Mormon battalion could write his own name, but only about one
 third of the volunteers he had previously paid could do so.' *Hist. B.
@@ -562,14 +562,14 @@ MS., 1846, 150. 'When the goods were bought, prices had advanced and
 ferriage was very high, all of which brought the goods higher than was
 anticipated, and produced some grumbling in camp.' *Id*., MS., 1847, 12.
 
-<span id="fn_309"></span>[243:15](hou12.htm#fr_309) Families
+<span id="fn_309"></span>[243:15](hou12.htm#fr_309.md) Families
 accompanying the battalion were ordered to Pueblo for winter quarters.
 *Hist. B. Young*, MS., 1S46, 260. A detachment was sent to Pueblo
 consisting of 89 men and 18 laundresses. Later in this vol., I refer to
 affairs at Pueblo as furnished me in a very valuable manuscript by Judge
 Stone of Colorado.
 
-<span id="fn_310"></span>[243:16](hou12.htm#fr_310) In a general order
+<span id="fn_310"></span>[243:16](hou12.htm#fr_310.md) In a general order
 issued at San Diego on Jan. 30, 1847, by command of Lieut-col St George
 Cooke, then in charge of the battalion, vice Col Allen, deceased, the
 men are thus complimented on their safe arrival at the shores of the
@@ -585,14 +585,14 @@ way over mountains which seemed to defy aught save the wild goat, and
 hewed a passage through a chasm of living rock, more narrow than our
 wagons.' *Smith's Rise, Progress, and Travels*, 10.
 
-<span id="fn_311"></span>[244:17](hou12.htm#fr_311) 'Until further
+<span id="fn_311"></span>[244:17](hou12.htm#fr_311.md) 'Until further
 orders, three fourths pound of flour, also three fourths rations sugar
 and coffee will be issued. Beef, one and a half pounds will be issued
 for a day's ration.' *Order No. 11, Headquarters Mormon Battalion*,
 Santa Fé. A copy of it will be found in *Tyler's Hist. Mor. Battalion*,
 175-6.
 
-<span id="fn_312"></span>[244:18](hou12.htm#fr_312) During the march
+<span id="fn_312"></span>[244:18](hou12.htm#fr_312.md) During the march
 from Santa Fé to San Diego a song was composed by Levi W. Hancock, a
 musician belonging to company E. It was entitled the 'Desert Route,' and
 commences:
@@ -621,7 +621,7 @@ To eat small entrails and the skin.
 
 <span class="contnote">\[paragraph continues\]</span> *Id*., 181-2.
 
-<span id="fn_313"></span>[245:19](hou12.htm#fr_313) In *A Concise
+<span id="fn_313"></span>[245:19](hou12.htm#fr_313.md) In *A Concise
 History of the Mormon Battalion in the Mexican War, 1846-1847*, by
 Sergeant Daniel Tlyer, (Salt Lake City,) 1881, 8vo, 376 pp., we have a
 most valuable hook, and one that forms the leading authority on this
@@ -655,13 +655,13 @@ The Mormons*, 27-9. Biographical notices of some of the members, and the
 names of the women who accompanied the battalion, are given in
 *Tullidge's Women*, 427, 432, 443-4.
 
-<span id="fn_314"></span>[245:20](hou12.htm#fr_314) In the *Frontier
+<span id="fn_314"></span>[245:20](hou12.htm#fr_314.md) In the *Frontier
 Guardian*, March 7, 1849, is a notice copied from the *St Joseph
 Gazette*, stating that the members of the battalion can at once receive
 their extra pay at Fort Leavenworth. The notice is signed by Paymaster
 Thos S. Bryant.
 
-<span id="fn_315"></span>[246:21](hou12.htm#fr_315) Instance the
+<span id="fn_315"></span>[246:21](hou12.htm#fr_315.md) Instance the
 experiences of Mrs Richards, *Reminiscences*, MS., passim. While on
 their journey toward the Missouri, having parted from her husband who
 was about starting on a mission to England, her little daughter was
@@ -682,7 +682,7 @@ Mormons." I turned on my bed and wept, as I heard them trying to comfort
 my little one in her disappointment. When she was taken from me I only
 lived because I could not die.'
 
-<span id="fn_316"></span>[247:22](hou12.htm#fr_316) It cannot be said
+<span id="fn_316"></span>[247:22](hou12.htm#fr_316.md) It cannot be said
 that any considerable number died of starvation. 'Only those died of it
 outright,' says Kane in *The Mormons*, 'who fell in out-of-the-way
 places that the hand of brotherhood could not reach…If but part of a
@@ -694,12 +694,12 @@ Nauvoo, a gentile neighbor gave me a pound of tea, which through
 sickness and great suffering was about all the sustenance I had for some
 time.' *Mrs Richards’ Rem*., MS., 20.
 
-<span id="fn_317"></span>[247:23](hou12.htm#fr_317) 'Parties were sent
+<span id="fn_317"></span>[247:23](hou12.htm#fr_317.md) 'Parties were sent
 to the gentile settlements to look for work, food, and clothing, and
 elders Dana and Campbell collected about $600 from the rich gentiles in
 Ohio and elsewhere.' *Snow's Biography*, 91.
 
-<span id="fn_318"></span>[248:24](hou12.htm#fr_318) 'There were among
+<span id="fn_318"></span>[248:24](hou12.htm#fr_318.md) 'There were among
 them many skilled mechanics, who could work at forge, loom, or
 turning-lathe. A Mormon gunsmith is the inventor of the excellent
 repeating rifle that loads by slides instead of cylinders; and one of
@@ -707,18 +707,18 @@ the neatest finished fire-arms I have ever seen was of this kind,
 wrought from scraps of old iron, and inlaid with the silver of a couple
 of half-dollars.' *Kane's The Mormons*, 36.
 
-<span id="fn_319"></span>[248:25](hou12.htm#fr_319) At the camp situated
+<span id="fn_319"></span>[248:25](hou12.htm#fr_319.md) At the camp situated
 on the site of the town of Florence, there were over 600 burials.
 *Kane's The Mormons*, 51.
 
-<span id="fn_320"></span>[248:26](hou12.htm#fr_320) 'Here we suffered
+<span id="fn_320"></span>[248:26](hou12.htm#fr_320.md) 'Here we suffered
 terribly from scurvy, for want of vegetables. I was a victim, and even
 my little children as young as three years of age. The <span
 id="page_249">p. 249</span> first relief experienced was when a bag of
 potatoes was brought in from Missouri…It was observed that those who had
 milk escaped the trouble.' *Horne's Migrations*, MS., 20.
 
-<span id="fn_321"></span>[249:27](hou12.htm#fr_321) 'The buildings were
+<span id="fn_321"></span>[249:27](hou12.htm#fr_321.md) 'The buildings were
 generally of logs from 12 to 18 feet long, a few were split, and made
 from lynn and cotton-wood timber; many roofs were made by splitting oak
 timber into boards, called shakes, about 3 ft long and 6 in. wide, and
@@ -737,7 +737,7 @@ Rem*., MS., 27. In Dec. 1846, at Winter Quarters there were '538 log
 houses and 83 sod houses, inhabited by 3,483 souls, of whom 334 were
 sick.' *Church Chronology*, 65.
 
-<span id="fn_322"></span>[249:28](hou12.htm#fr_322) '$8,000 was sent by
+<span id="fn_322"></span>[249:28](hou12.htm#fr_322.md) '$8,000 was sent by
 Whitney to St Louis to purchase stones and machinery for flouring mills;
 and through A. H. Perkins a carding machine was ordered from Savannah.'
 *Hist. B. Young*, MS., Aug. 30, 1846. 'Sugar and coffee were 16 2/3 cts
@@ -750,20 +750,20 @@ brethren burst forth: 'Woe unto you, Missourians! but we are independent
 of them and can live without them, for we have thousands of cattle
 left.'
 
-<span id="fn_323"></span>[249:29](hou12.htm#fr_323) 'At a meeting of the
+<span id="fn_323"></span>[249:29](hou12.htm#fr_323.md) 'At a meeting of the
 council July 14th, it was voted that colonies be established on the east
 side of the river to put in buckwheat, and winter; that a fort be built
 on Grand Island and a settlement made there; and that Bishop Miller and
 a company go over the mountains.' *Hist. B. Young*, MS., 1846, 50.
 
-<span id="fn_324"></span>[250:30](hou12.htm#fr_324) Several loads of
+<span id="fn_324"></span>[250:30](hou12.htm#fr_324.md) Several loads of
 willow baskets were manufactured. *Hist. B. Young*, MS., 534.
 
-<span id="fn_325"></span>[251:31](hou12.htm#fr_325) The thermometer was
+<span id="fn_325"></span>[251:31](hou12.htm#fr_325.md) The thermometer was
 during that week from 2° to 8° below zero, later falling several degrees
 lower.
 
-<span id="fn_326"></span>[251:32](hou12.htm#fr_326) 'I then knelt down
+<span id="fn_326"></span>[251:32](hou12.htm#fr_326.md) 'I then knelt down
 and prayed to God in behalf of the meeting,…and dedicated the meeting
 and house to the Lord,…and led forth in the dance.' *Hist. B. Young*,
 MS., 1847, 27. In an address Brigham said: 'For some weeks past I could
@@ -772,10 +772,10 @@ now my feelings are, dance all night if you desire to do so.' p. 48.
 'The "Silver Greys" and spectacled dames,…some nearly a hundred years
 old, dancing like ancient Israel.' p. 49.
 
-<span id="fn_327"></span>[251:33](hou12.htm#fr_327) 'There were 117 poor
+<span id="fn_327"></span>[251:33](hou12.htm#fr_327.md) 'There were 117 poor
 adults,…divided into three wards…Shortly after noon I met with 66 of my
 family, including my adopted children.' *Id*., p. 53.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Migration to Utah. 1847.](hou13)
+[Next: Chapter X. Migration to Utah. 1847.](hou13.md)

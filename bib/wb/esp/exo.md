@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](gen)  [Next](lev) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](gen)  [Next](lev.md) 
 
 ------------------------------------------------------------------------
 
@@ -4557,4 +4557,4 @@ la okuloj de cxiuj Izraelidoj en cxiuj iliaj marsxoj.
 
 ------------------------------------------------------------------------
 
-[Next: Leviticus](lev)
+[Next: Leviticus](lev.md)

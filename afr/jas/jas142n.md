@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas141n)  [Next](jas143n)   
- \[[142. Anansi makes a Dance.](jas142)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas141n)  [Next](jas143n.md)   
+ \[[142. Anansi makes a Dance.](jas142.md)\]
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ fifing is possibly taken from 139.
 
 ------------------------------------------------------------------------
 
-[Next: Note 143. Red Yam.](jas143n)
+[Next: Note 143. Red Yam.](jas143n.md)

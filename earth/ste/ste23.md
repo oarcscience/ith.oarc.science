@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste22)  [Next](ste24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste22)  [Next](ste24.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,7 +236,7 @@ Severus*. And lastly, those Authors that represent *Paradise* as remote
 from our World, and inaccessible, so St. *Austin*, *Procopius Gazeus*,
 *Beda*, *Strabus Fuldensis*, *Historia Scholiastica*, and others, these,
 I say, pursue the same notion of Antiquity; for what is remote from our
-World (that is, from our Continent, as <span id="fr_8"></span>[1](#fn_8)
+World (that is, from our Continent, as <span id="fr_8"></span>[1](#fn_8.md)
 we before explain’d it) is to be understood to be that *Antichthon*, or
 Anti-hemisphere which the Ancients oppos’d to ours.
 
@@ -464,8 +464,8 @@ an account of most of their Opinions concerning the Seat of Paradise.
 
 ### Footnotes
 
-<span id="fn_8"></span>[185:1](ste23.htm#fr_8) Οἰχουμένη.
+<span id="fn_8"></span>[185:1](ste23.htm#fr_8.md) Οἰχουμένη.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](ste24)
+[Next: Chapter VIII](ste24.md)

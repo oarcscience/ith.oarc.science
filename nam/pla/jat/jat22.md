@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat21)  [Next](jat23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat21)  [Next](jat23.md) 
 
 ------------------------------------------------------------------------
 
-### 20. RELEASING THE BUFFALO. <span id="fr_34"></span>[2](#fn_34)
+### 20. RELEASING THE BUFFALO. <span id="fr_34"></span>[2](#fn_34.md)
 
 Long ago, they were camping about over on the plain without food. They
 were playing the hoop and pole game. Raven came from nobody knew where
@@ -65,7 +65,7 @@ plenty to eat. That way he did.
 
 ### Footnotes
 
-<span id="fn_34"></span>[212:2](jat22.htm#fr_34) In the version obtained
+<span id="fn_34"></span>[212:2](jat22.htm#fr_34.md) In the version obtained
 by Russell, (a), p. 259, many other animals are released. This story
 seems not to be known to the Western Apache and the Navajo. The
 Mescalero say that Coyote failed and Naiyenesgani succeeded in inducing
@@ -78,4 +78,4 @@ mentioned. Kroeber, (a), p. 65.
 
 ------------------------------------------------------------------------
 
-[Next: 21. Releasing the Buffalo. (Second Version.)](jat23)
+[Next: 21. Releasing the Buffalo. (Second Version.)](jat23.md)

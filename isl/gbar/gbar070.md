@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar069) [Next](gbar071)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar069) [Next](gbar071.md)
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ extinguished.
 
 ------------------------------------------------------------------------
 
-[Next](gbar071)
+[Next](gbar071.md)

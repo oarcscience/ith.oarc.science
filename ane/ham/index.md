@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,22 +21,22 @@ and Islamic legal systems alike.
 
 At the other end of the evolution of Ancient Near Eastern law is the
 refined and considerably more merciful
-[Talmud](../../jud/index.htm#talmud), composed two and half millenia
+[Talmud](../../jud/index.htm#talmud.md), composed two and half millenia
 later, also in Babylon, by expatriate Jewish scholars.
 
 ------------------------------------------------------------------------
 
-[Title Page](ham00)  
-[Introduction](ham01)  
+[Title Page](ham00.md)  
+[Introduction](ham01.md)  
 [Babylonian Law--The Code of Hammurabi (Encyclopedia Britanica, 11th
-Ed.)](ham02)  
-[Bibliography](ham03)  
+Ed.)](ham02.md)  
+[Bibliography](ham03.md)  
 <span id="section_000"></span>
 
 ### Hammurabi's Code of Laws
 
-[Preamble](ham04)  
-[Paragraphs 1-65](ham05)  
-[Paragraphs 100-199](ham06)  
-[Paragraphs 200-282](ham07)  
-[The Epilogue](ham08)  
+[Preamble](ham04.md)  
+[Paragraphs 1-65](ham05.md)  
+[Paragraphs 100-199](ham06.md)  
+[Paragraphs 200-282](ham07.md)  
+[The Epilogue](ham08.md)  

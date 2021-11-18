@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb08)  [Next](wfb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb08)  [Next](wfb10.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ life.
 
 ------------------------------------------------------------------------
 
-[Next: The Llanfabon Changeling](wfb10)
+[Next: The Llanfabon Changeling](wfb10.md)

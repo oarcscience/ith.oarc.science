@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -42,12 +42,12 @@ that the idea of evil has been personified
 
 <span id="img_44000"></span> <span align="CENTER"> [![EGYPTIAN
 DEVIL.&lt;br&gt; Postclassic age.](tn/generic.jpg)  
-Click to view](img/44000.jpg)  
+Click to view](img/44000.jpg.md)  
 EGYPTIAN DEVIL.  
 Postclassic age.  
 </span>
 
- <span id="fr_232"></span>[1](#fn_231)
+ <span id="fr_232"></span>[1](#fn_231.md)
 
 among all nations. There is no religion in the world but has its demons
 or evil monsters who represent pain, misery, and destruction. In Egypt
@@ -55,14 +55,14 @@ the powers of darkness were feared and worshipped under various names as
 Set or Seth, Bess, Typhon, etc. Though the ancient Gods of Brahmanism
 are not fully differentiated into evil and good deities, we have yet the
 victory of Mahâmâya, the great goddess, over Mahisha, the king of the
-giants. <span id="fr_233"></span>[2](#fn_232) Buddhists call the
+giants. <span id="fr_233"></span>[2](#fn_232.md) Buddhists call the
 personification of evil Mâra, the tempter, the father of
 
 <span id="img_44001"></span> <span align="CENTER"> [![MAHÂMÂYA, THE
 SLAYER OF MAHISHA.&lt;br&gt; (From Moor's &lt;i&gt;Hindu
 Pantheon&lt;/i&gt;, Plate xix. Cf. Wilson, &lt;i&gt;Hindu
 Mythology&lt;/i&gt;, p. 249)](tn/generic.jpg)  
-Click to view](img/44001.jpg)  
+Click to view](img/44001.jpg.md)  
 MAHÂMÂYA, THE SLAYER OF MAHISHA.  
 (From Moor's *Hindu Pantheon*, Plate xix. Cf. Wilson, *Hindu Mythology*,
 p. 249)  
@@ -75,11 +75,11 @@ chaos that was in the beginning, in Tiamat,
 
 <span id="img_44100"></span> <span align="CENTER"> [![THE CHRISTIAN VIEW
 OF THE CHAINED RULER OF HELL. Missal of Poitiers.](tn/generic.jpg)  
-Click to view](img/44100.jpg)  
+Click to view](img/44100.jpg.md)  
 THE CHRISTIAN VIEW OF THE CHAINED RULER OF HELL. Missal of Poitiers.  
 </span>
 
- <span id="fr_234"></span>[1](#fn_233)
+ <span id="fr_234"></span>[1](#fn_233.md)
 
 <span id="page_442">p. 442</span>
 
@@ -128,18 +128,18 @@ most fascinating chapters in history, and
 <span id="img_44300"></span> <span align="CENTER"> [![SATAN ACCUSING
 JOB.&lt;br&gt; Fresco by Francesco da Volterra, in the Campo Santo at
 Pisa.](tn/generic.jpg)  
-Click to view](img/44300.jpg)  
+Click to view](img/44300.jpg.md)  
 SATAN ACCUSING JOB.  
 Fresco by Francesco da Volterra, in the Campo Santo at Pisa.  
 </span>
 
- <span id="fr_237"></span>[1](#fn_236)
+ <span id="fr_237"></span>[1](#fn_236.md)
 
 the changes which characterise the successive phases are instructive.
 While the old Pagan views survive in both Hebrew and Christian
 demonologies, we are constantly confronted with accretions and new
 interpretations. Franz Xaver Kraus, in his *History of Christian
-Art* <span id="fr_238"></span>[2](#fn_237)concedes
+Art* <span id="fr_238"></span>[2](#fn_237.md)concedes
 
 <span id="page_444">p. 444</span>
 
@@ -180,7 +180,7 @@ From an Anglo-Saxon MS. in the British Museum, belonging to the earlier half of 
 
 <span class="small">Martyrs. We read in the Vision of Perpetua: "Under
 the scales themselves \[i. e., for weighing the souls\] the dragon lies,
-of wonderful magnitude.'" <span id="fr_239"></span>[1](#fn_238)</span>
+of wonderful magnitude.'" <span id="fr_239"></span>[1](#fn_238.md)</span>
 
 The intellectual life of mankind develops by gradual growth. The old
 views are, as a rule, preserved but transformed. There is nowhere an
@@ -189,7 +189,7 @@ changed, or vice versa, the main idea is objected to while the details
 
 <span id="page_445">p. 445</span>
 
-remain the same. Gunkel has proved <span id="fr_240"></span>[1](#fn_239)
+remain the same. Gunkel has proved <span id="fr_240"></span>[1](#fn_239.md)
 that the splendid description of Leviathan (in Job xli) as a monster of
 the deep protected by scales is a reproduction of Chaldæan mythology,
 and God's fight with the monsters of the deep is a repetition of Bel
@@ -405,7 +405,7 @@ And what I should be."</span>
 
 <span id="img_45100"></span> <span align="CENTER"> [![MILTON'S SATAN.
 (After Doré.)](tn/generic.jpg)  
-Click to view](img/45100.jpg)  
+Click to view](img/45100.jpg.md)  
 MILTON'S SATAN. (After Doré.)  
 </span>
 
@@ -455,7 +455,7 @@ ills of life are positive, for she describes all the horrors of war in
 their drastic reality. Nevertheless, Bertha von Suttner devotes in her
 ingenious book *The Inventory of a Soul* a whole chapter to the
 proposition "The Principle of Evil a Phantom." <span
-id="fr_242"></span>[1](#fn_241) She says:
+id="fr_242"></span>[1](#fn_241.md) She says:
 
 <span class="small">"I do not believe in the phantoms of badness,
 misery, and death. They are mere shadows, zeros, nothingnesses. They are
@@ -516,7 +516,7 @@ destructive of human life, certain antidotes destroy bacilli. There are
 everywhere parasites living upon other lives, and what is positive or
 life-sustaining to the one is negative and destructive to the other, and
 every such negation is a reality, the effectiveness of which neutralises
-the action of another reality. <span id="fr_243"></span>[1](#fn_242)
+the action of another reality. <span id="fr_243"></span>[1](#fn_242.md)
 
 The idea of goodness is by no means equivalent with existence, and
 badness with non-existence. Existence is the reality; it is the
@@ -548,7 +548,7 @@ it, the standard of goodness and badness would be purely subjective. The
 famous savage chief quoted by Tylor, and from Tylor by Spencer, would
 have fathomed the problem of good and evil when he declared that "bad is
 if anybody took away his wife, but if he took away the wife of some one
-else, that would be good." <span id="fr_244"></span>[1](#fn_243) Good
+else, that would be good." <span id="fr_244"></span>[1](#fn_243.md) Good
 would be that which pleases me; and the good as an objective reality
 would not exist. There would be something good for me, for you, and for
 many others, but what might be good for me might be bad for you.
@@ -740,7 +740,7 @@ but is embraced in the whole as a part
 
 <span id="img_46200"></span> <span align="CENTER"> [![LUCIFER BEFORE THE
 FALL. From the &lt;i&gt;Hortus Deliciarum&lt;/i&gt;.](tn/generic.jpg)  
-Click to view](img/46200.jpg)  
+Click to view](img/46200.jpg.md)  
 LUCIFER BEFORE THE FALL. From the *Hortus Deliciarum*.  
 </span>
 
@@ -770,7 +770,7 @@ all norms that shape life, is not a
 
 <span id="img_46300"></span> <span align="CENTER"> [![THE FALLEN
 LUCIFER. (After Doré.)](tn/generic.jpg)  
-Click to view](img/46300.jpg)  
+Click to view](img/46300.jpg.md)  
 THE FALLEN LUCIFER. (After Doré.)  
 </span>
 
@@ -800,7 +800,7 @@ heterogeneity, but growth of soul. Evolution is not mere adaptation to
 surroundings, but a more and more perfect incarnation of truth.
 Adaptation to surroundings is, from an ethical point of view, an
 incidental blessing only of the power afforded by right conduct. <span
-id="fr_245"></span>[1](#fn_244)
+id="fr_245"></span>[1](#fn_244.md)
 
 All facts of experience are revelations, but those facts which teach us
 morality (man's conduct to his fellow-beings) embody truths of special
@@ -851,7 +851,7 @@ existence. God is something distinct and definite, not an indifferent
 omneity. This is monotheism, but not the old monotheism, for it no
 longer looks upon God as one individual ego-being. Yet it preserves the
 nucleus of the oldest conception of God, and accepts at the same time
-all that is true in pantheism. <span id="fr_246"></span>[1](#fn_245)
+all that is true in pantheism. <span id="fr_246"></span>[1](#fn_245.md)
 
 God was always an idea of moral import. God was and will remain (so long
 as the word is retained) the ultimate authority for conduct. Since the
@@ -925,7 +925,7 @@ is a captive of his own making, so all the beings that belong to him are
 his prisoners. He is their torturer and destroyer.
 
 A most drastic picture of Satan which is found in the missal of
-Poitiers, <span id="fr_247"></span>[1](#fn_246) is described by Didron
+Poitiers, <span id="fr_247"></span>[1](#fn_246.md) is described by Didron
 as follows:
 
 <span class="small">"He is chained to the mouth of hell as a dog to its
@@ -973,7 +973,7 @@ than to discard the word and retain the substance
 
 <span id="img_47000"></span> <span align="CENTER"> [![THE FEELING OF
 DEPENDENCE.&lt;br&gt; (After Sasha Schneider.)](tn/generic.jpg)  
-Click to view](img/47000.jpg)  
+Click to view](img/47000.jpg.md)  
 THE FEELING OF DEPENDENCE.  
 (After Sasha Schneider.)  
 </span>
@@ -1183,12 +1183,12 @@ what your conception of the Devil is."
 <span id="img_47600"></span> <span align="CENTER"> [![GOD SUPPORTING THE
 WORLD. (By Buonamico Buffamalco.) &lt;br&gt; Fresco in the Campo Santo
 of Pisa.](tn/generic.jpg)  
-Click to view](img/47600.jpg)  
+Click to view](img/47600.jpg.md)  
 GOD SUPPORTING THE WORLD. (By Buonamico Buffamalco.)  
 Fresco in the Campo Santo of Pisa.  
 </span>
 
- <span id="fr_251"></span>[1](#fn_249)
+ <span id="fr_251"></span>[1](#fn_249.md)
 
 <span id="page_477">p. 477</span>
 
@@ -1198,19 +1198,19 @@ possess a certain family likeness. Your idea of the Devil is your best
 interpretation of your idea of God. It will be interesting to compare
 one of the most famous representations of God, holding the universe in
 his hands with the pictures of Mara, the Buddhist Satan with the
-world-wheel in his clutches. (See pages [119](hod10.htm#page_119),
-[121](hod10.htm#page_121), [123](hod10.htm#page_123).)
+world-wheel in his clutches. (See pages [119](hod10.htm#page_119.md),
+[121](hod10.htm#page_121), [123](hod10.htm#page_123)..md)
 
 This similarity can be proved from history.
 
 <span id="img_47700"></span> <span align="CENTER"> [![HERCULES WITH
 CERBERUS.&lt;br&gt; From a vase found in Alta mura.](tn/generic.jpg)  
-Click to view](img/47700.jpg)  
+Click to view](img/47700.jpg.md)  
 HERCULES WITH CERBERUS.  
 From a vase found in Alta mura.  
 </span>
 
- <span id="fr_252"></span>[1](#fn_250)
+ <span id="fr_252"></span>[1](#fn_250.md)
 
 The Trinity conception of Satan is as old as the Trinity conception of
 God. As we have Trinities among the Pagan deities, for instance among
@@ -1280,7 +1280,7 @@ glowing</span>
 <span id="img_47900"></span> <span align="CENTER"> [![ST. ANTHONY
 ASSAULTED BY DEVILS.&lt;br&gt; (After Schoengauer's copper engraving,
 1420-1499.)](tn/generic.jpg)  
-Click to view](img/47900.jpg)  
+Click to view](img/47900.jpg.md)  
 ST. ANTHONY ASSAULTED BY DEVILS.  
 (After Schoengauer's copper engraving, 1420-1499.)  
 </span>
@@ -1302,7 +1302,7 @@ one heroic like the English nation,
 <span id="img_48000"></span> <span align="CENTER"> [![THE GOOD LORD AND
 THE DEVIL.&lt;br&gt; (In Goethe's Faust, by Franz
 Simm.)](tn/generic.jpg)  
-Click to view](img/48000.jpg)  
+Click to view](img/48000.jpg.md)  
 THE GOOD LORD AND THE DEVIL.  
 (In Goethe's Faust, by Franz Simm.)  
 </span>
@@ -1470,11 +1470,11 @@ persecuted on
 
 <span id="img_48500"></span> <span align="CENTER"> [![THE DEVIL IN THE
 CAMPO SANTO (PISA).](tn/generic.jpg)  
-Click to view](img/48500.jpg)  
+Click to view](img/48500.jpg.md)  
 THE DEVIL IN THE CAMPO SANTO (PISA).  
 </span>
 
- <span id="fr_253"></span>[1](#fn_251)
+ <span id="fr_253"></span>[1](#fn_251.md)
 
 <span id="page_486">p. 486</span>
 
@@ -1486,13 +1486,13 @@ rather undergo an eternity of torture than suffer humiliation.
 <span id="img_48600"></span> <span align="CENTER"> [![SEAL OF
 SATAN.&lt;br&gt; Probably used in mystic plays of the fifteenth century.
 (From Didron, &lt;i&gt;Chr. Iconography&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/48600.jpg)  
+Click to view](img/48600.jpg.md)  
 SEAL OF SATAN.  
 Probably used in mystic plays of the fifteenth century. (From Didron,
 *Chr. Iconography*.)  
 </span>
 
- <span id="fr_254"></span>[1](#fn_252)
+ <span id="fr_254"></span>[1](#fn_252.md)
 
 Consider but the fact that, taking the statement of his adversaries
 alone, the Devil is the most trustworthy person in existence. He has
@@ -1574,12 +1574,12 @@ the existence of the Devil is filled with the presence of God.
 
 ### Footnotes
 
-<span id="fn_231"></span>[440:1](hod20.htm#fr_232) Egyptian Devil,
+<span id="fn_231"></span>[440:1](hod20.htm#fr_232.md) Egyptian Devil,
 reproduced from Montfaucon, has a human head from which project the
 heads of six animals, one of an ox, one of a bird, and four others,
 apparently those of serpents.
 
-<span id="fn_232"></span>[440:2](hod20.htm#fr_233) As to the myth of the
+<span id="fn_232"></span>[440:2](hod20.htm#fr_233.md) As to the myth of the
 origin of Mahâmâya, who is identified with Durgâ, see "the Chandi" in
 the *Mârkandyea Purâna*. Vishnu, beholding the wretchedness of the gods
 to which the powers of the victorious giant-king Mahisha had reduced
@@ -1591,11 +1591,11 @@ buffalo-shaped monster Mahisha. Another account of the same myth is
 contained in the *Vâmana Purâna*. For details see Hindu mythologies
 under Mahisha and Mahishamardini (the slayer of Mahisha).
 
-<span id="fn_233"></span>[441:1](hod20.htm#fr_234) Didron, *Chr. Icon.*,
-II., p. 119 (See pp. [468](#page_468) and [469](#page_469) of the
+<span id="fn_233"></span>[441:1](hod20.htm#fr_234.md) Didron, *Chr. Icon.*,
+II., p. 119 (See pp. [468](#page_468) and [469](#page_469.md) of the
 present work.)
 
-<span id="fn_234"></span>[442:1](hod20.htm#fr_235) I A Persian Devil
+<span id="fn_234"></span>[442:1](hod20.htm#fr_235.md) I A Persian Devil
 appears in an engraving in the Didron collection in the form of a man,
 clothed and wearing necklets, bracelets, and anklets, but with claws on
 his heels and toes, and horns on his head. He is named Ahriman, Spirit
@@ -1604,7 +1604,7 @@ One, like Ormuzd an emanation from the Primal Light; equally pure, but
 ambitious and full of pride, he had become jealous of the first-born of
 God."--Didron, *Iconography*, II., p. 122.
 
-<span id="fn_235"></span>[442:2](hod20.htm#fr_236) From a Turkish MS.
+<span id="fn_235"></span>[442:2](hod20.htm#fr_236.md) From a Turkish MS.
 obtained by Napoleon I. at Cairo and presented to the National Library
 at Paris (S.C. 242). Its author is Saïaidi Mahammed ebu emer Hassan
 esseoudi (990<sup>an</sup>), and the picture is described as follows:
@@ -1613,41 +1613,41 @@ and his tongue is also red. He wears a green scarf around his loins,
 pale purple trousers lined with blue, and necklets and armlets of
 gold."--Didron, *Iconography*, II., 122.
 
-<span id="fn_236"></span>[443:1](hod20.htm#fr_237) From Kugler's
+<span id="fn_236"></span>[443:1](hod20.htm#fr_237.md) From Kugler's
 *Italian Schools of Painting*.
 
-<span id="fn_237"></span>[443:2](hod20.htm#fr_238) *Geschichte der
+<span id="fn_237"></span>[443:2](hod20.htm#fr_238.md) *Geschichte der
 christlichen Kunst*, Vol. I., p. 210.
 
-<span id="fn_238"></span>[444:1](hod20.htm#fr_239) *Sub ipsa scala draco
+<span id="fn_238"></span>[444:1](hod20.htm#fr_239.md) *Sub ipsa scala draco
 cubans mirae magnitudinis*.
 
-<span id="fn_239"></span>[445:1](hod20.htm#fr_240) *Schöpfung und
+<span id="fn_239"></span>[445:1](hod20.htm#fr_240.md) *Schöpfung und
 Chaos*. Göttingen, 1891.
 
-<span id="fn_240"></span>[445:2](hod20.htm#fr_241) The remarkable
+<span id="fn_240"></span>[445:2](hod20.htm#fr_241.md) The remarkable
 feature of this picture consists not only in admitting the Virgin Mary
 to the throne of the Trinity (which is quite frequent in similar
 representations) but in the double presence of Christ, as a full-grown
 man and as an infant.
 
-<span id="fn_241"></span>[453:1](hod20.htm#fr_242) *Inventarium einer
+<span id="fn_241"></span>[453:1](hod20.htm#fr_242.md) *Inventarium einer
 Seele*. Chap. XV.
 
-<span id="fn_242"></span>[455:1](hod20.htm#fr_243) This exposition
+<span id="fn_242"></span>[455:1](hod20.htm#fr_243.md) This exposition
 appeared first in *The Monist*, Vol. VI. No. 4. pp. 585 fl. In reply the
 Baroness Bertha von Suttner wrote a few courteous lines of recognition
 which may indicate that she is inclined to accept the author's
 arguments.
 
-<span id="fn_243"></span>[456:1](hod20.htm#fr_244) Tylor, *Primitive
+<span id="fn_243"></span>[456:1](hod20.htm#fr_244.md) Tylor, *Primitive
 Culture*, Vol. II., p. 318.
 
-<span id="fn_244"></span>[464:1](hod20.htm#fr_245) Cf. *Homilies of
+<span id="fn_244"></span>[464:1](hod20.htm#fr_245.md) Cf. *Homilies of
 Science*, "The Test of Progress," p. 36, and "The Ethics of Evolution,"
 p. 41.
 
-<span id="fn_245"></span>[466:1](hod20.htm#fr_246) Pantheism identifies
+<span id="fn_245"></span>[466:1](hod20.htm#fr_246.md) Pantheism identifies
 God and the All. *Nomotheism* teaches that the laws of nature are not
 laws given by God as a lawgiver may issue ordinances, but that they are
 manifestations of God and as such parts of the Deity. They are
@@ -1657,31 +1657,31 @@ monotheism is commonly understood to mean that this one God is a
 personal being. See the author's *Religion of Science*, pp., 19 et seq.,
 The Authority for Conduct.
 
-<span id="fn_246"></span>[468:1](hod20.htm#fr_247) See the illustration
-on page [441](#page_441).
+<span id="fn_246"></span>[468:1](hod20.htm#fr_247.md) See the illustration
+on page [441](#page_441.md).
 
-<span id="fn_247"></span>[472:1](hod20.htm#fr_249) Didron, *Icon. Chr.*,
+<span id="fn_247"></span>[472:1](hod20.htm#fr_249.md) Didron, *Icon. Chr.*,
 pages 25 and 64
 
-<span id="fn_248"></span>[475:1](hod20.htm#fr_250) This conception of
+<span id="fn_248"></span>[475:1](hod20.htm#fr_250.md) This conception of
 Serapis reminds one of Cerberus, and Manobius (*Sal*., I. 20) actually
 says that the heads of Cerberus are those of a lion, a wolf, and a dog.
 See Menzel, *Vorchr. Unsterblichkeitslehre*, II., p. 5
 
-<span id="fn_249"></span>[476:1](hod20.htm#fr_251) This picture is the
+<span id="fn_249"></span>[476:1](hod20.htm#fr_251.md) This picture is the
 embodiment of the Christian world-conception of the fourteenth century.
 A sonnet accompanies the fresco and explains that nine choirs of angels
 surround the world, in whose inner circles the constellations roll round
 the earth which occupies the centre of the universe.
 
-<span id="fn_250"></span>[477:1](hod20.htm#fr_252) This picture is a
+<span id="fn_250"></span>[477:1](hod20.htm#fr_252.md) This picture is a
 part of the representation of Hades, given on page
-[194](hod13.htm#page_194).
+[194](hod13.htm#page_194.md).
 
-<span id="fn_251"></span>[485:1](hod20.htm#fr_253) Compare [p.
-164](hod12.htm#page_164).
+<span id="fn_251"></span>[485:1](hod20.htm#fr_253.md) Compare [p.
+164](hod12.htm#page_164.md).
 
-<span id="fn_252"></span>[486:1](hod20.htm#fr_254) The inscription reads
+<span id="fn_252"></span>[486:1](hod20.htm#fr_254.md) The inscription reads
 "Seel Lucifer mātre (i. e., maistre) d’abisme d’enfer.'
 
  

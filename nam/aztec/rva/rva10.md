@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva09)  [Next](rva11) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva09)  [Next](rva11.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### X. Amimitl icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Cotiuana, cotiuana, cali totoch maca huiya yyalimanico,
 oquixanimanico, tlacochcalico, oua, yya yya, matonicaya, matonicalico,
@@ -70,4 +70,4 @@ Diego Duran, *Historia*, cap. 87.
 
 ------------------------------------------------------------------------
 
-[Next: XI. Hymn of the Otomi Leader.](rva11) 
+[Next: XI. Hymn of the Otomi Leader.](rva11.md) 

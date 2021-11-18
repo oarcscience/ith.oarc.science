@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Next](crfb01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Next](crfb01.md) 
 
 </div>
 
@@ -26,6 +26,6 @@ New York: Longmans, Green, and Co.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](crfb01)
+[Next: Contents](crfb01.md)
 
 </div>

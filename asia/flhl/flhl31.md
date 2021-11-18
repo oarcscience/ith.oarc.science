@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl30)  [Next](flhl32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl30)  [Next](flhl32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Hanauer \[1907\], at Intangible Textual Heritage
 
 THE people of Palestine, Christian as well as Moslem, believe in the
 existence of a race of beings of pre-adamite origin, called by the
-general name of "Jân." <span id="fr_100"></span>[1](#fn_99) Whilst the
+general name of "Jân." <span id="fr_100"></span>[1](#fn_99.md) Whilst the
 angels dwell in the heavens and have
 
 <span id="page_189">p. 189</span>
@@ -31,7 +31,7 @@ various offices and forms differing according to their respective abodes
 in the second, like falcons; in the third, like eagles; in the fourth,
 like horses, and so on), the Jân are said by the learned to be created
 out of the fire of the "simûm" which they describe as a fire lacking
-both heat and smoke. <span id="fr_101"></span>[1](#fn_100) They are said
+both heat and smoke. <span id="fr_101"></span>[1](#fn_100.md) They are said
 to dwell chiefly in or amongst the Jebel Kâf, the range of mountains
 which surrounds the earth. Some of the Jân are good Moslems, and do not
 injure their human co-religionists, but the greater number of them are
@@ -74,7 +74,7 @@ The father acted on the sheykh's advice; and no sooner had he disposed
 of his daughter in marriage than the Jân ceased to trouble him; but the
 bridegroom, till then a thriving man, has not now enough money to buy
 oil to keep a lamp burning through the night. <span
-id="fr_102"></span>[1](#fn_101)
+id="fr_102"></span>[1](#fn_101.md)
 
 Not only are the Jân men and women like ourselves,
 
@@ -92,7 +92,7 @@ was said he had been devoured by a hyæna. But in the end he reappeared
 and told his story. He was sleeping one night on the threshing-floor to
 protect his store of dhurra when he was awakened about midnight by a
 sound of voices drawing near. Supposing it to be the tax-gatherer and
-his assistant "khayâleh," <span id="fr_103"></span>[1](#fn_102) he lay
+his assistant "khayâleh," <span id="fr_103"></span>[1](#fn_102.md) he lay
 quite still for fear of being beaten. But it was a party of the Jân,
 and, as, at lying down, he had neglected through weariness to invoke the
 protection of Allah, so now, sudden fear kept him from using that simple
@@ -233,12 +233,12 @@ A certain woman who had no children, but who longed for offspring, sat
 one evening on her doorstep, ignorant of danger, when she noticed a
 black beetle crawling along the road. "I want a child," said the woman,
 "even though she be only a girl and as black as a beetle. O
-Khûnûfseh! <span id="fr_104"></span>[1](#fn_103) won't you come and be
+Khûnûfseh! <span id="fr_104"></span>[1](#fn_103.md) won't you come and be
 my daughter?" With that she rose and went into the house. Some time
 later, to her vast surprise, she actually gave birth to a whole swarm of
 black beetles. "O Lord!" said she, "I only asked for one. Whatever shall
 I do with all these hundreds? I will sweep them up into the basket where
-I put dry dung, <span id="fr_105"></span>[2](#fn_104) and carry them to
+I put dry dung, <span id="fr_105"></span>[2](#fn_104.md) and carry them to
 the tabûn and burn them all." She did so, but, on the point of returning
 to the house, she
 
@@ -249,7 +249,7 @@ with its feet to the wickerwork. "Well," she considered, "I did ask for
 one. I will make a pet of this beetle, which, after all, is my child."
 So she took the insect home and made a pet of it. It grew bigger and
 bigger, and in time, to the mother's joy, developed into a dark maiden
-whom she named Khûneyfseh. <span id="fr_106"></span>[1](#fn_105) The
+whom she named Khûneyfseh. <span id="fr_106"></span>[1](#fn_105.md) The
 creature, however, was a ghûleh, one of the most dreadful enemies of the
 human race; and she was rapidly growing big and strong. At length, upon
 a day, her mother bade her take four loaves of bread and a plate of
@@ -283,7 +283,7 @@ open, when to! there came forth from her belly, whole and unhurt, the
 four loaves and the leben, the ploughman and his oxen, the kneader with
 her troughful of dough, and the old woman with her spinning-wheel. Since
 then people have learnt not to sit on door-steps <span
-id="fr_107"></span>[1](#fn_106) in the evening, and not to speak to any
+id="fr_107"></span>[1](#fn_106.md) in the evening, and not to speak to any
 living creature, except it be human, without pointing to it.
 
 Another story illustrative of the danger people run by calling animals
@@ -296,7 +296,7 @@ evening that she found time to knead the bread. By the time it was ready
 
 night had come, and it had grown so dark that she was afraid to go,
 unaccompanied, to the village oven. <span
-id="fr_108"></span>[1](#fn_107) She begged her husband to escort her;
+id="fr_108"></span>[1](#fn_107.md) She begged her husband to escort her;
 but he ridiculed her fears, and just when she was setting out called to
 a he-goat tethered in the yard, "Here, O he-goat! take her! take her!"
 He meant it as a joke, and was surprised when she did not return. He
@@ -305,7 +305,7 @@ He inquired at every house, searched the whole district, but in vain.
 Unable to believe that she had gone off with another man, since he knew
 her heart was his, he could not account for her disappearance to himself
 or to his neighbours, who began to suspect that he had killed her for
-infidelity. <span id="fr_109"></span>[2](#fn_108)
+infidelity. <span id="fr_109"></span>[2](#fn_108.md)
 
 One day, when the bereaved husband was ploughing, an aged derwìsh came
 up and entered into conversation with him. The peasant bemoaned the loss
@@ -385,7 +385,7 @@ It is of the utmost consequence to remember that the Jân should always
 be treated with respect. On entering an empty room, a cellar, cave, or
 even when sweeping a room which has for some time stood empty, one
 should never forget to say "Dustûrkum ya mubârakìn" (by your permission,
-blessed ones), <span id="fr_110"></span>[1](#fn_109) or, for short,
+blessed ones), <span id="fr_110"></span>[1](#fn_109.md) or, for short,
 "Dustûr" (permission). The same formula should be used whenever one is
 carrying fire or water, so that the spirits may get out of the way, and
 not run the risk of a wetting or of getting burnt by accident. The
@@ -398,7 +398,7 @@ Commandment; but not realising that they are merely following a
 practice, which from their infancy they have been accustomed to look
 upon as belonging to the very essentials of religion, and the object of
 which is protection from the powers of evil. <span
-id="fr_111"></span>[2](#fn_110) The importance
+id="fr_111"></span>[2](#fn_110.md) The importance
 
 <span id="page_203">p. 203</span>
 
@@ -419,7 +419,7 @@ took advantage of the omission. A sudden whirlwind swept her off her
 feet and down through a crack in the floor. When at last the motion
 ceased, and she had recovered her senses sufficiently to look about her,
 she was in a large, well-furnished room, which seemed empty save for a
-handsome Persian cat. <span id="fr_112"></span>[1](#fn_111) Noticing
+handsome Persian cat. <span id="fr_112"></span>[1](#fn_111.md) Noticing
 that the creature was soon to have kittens she stroked her, saying, "The
 mention of Allah be upon you! Allah grant you full recovery!" The animal
 appeared to understand, and showed great pleasure by purring
@@ -594,7 +594,7 @@ sort, and so nothing but good resulted to him."
 
  
 
-A fellâheh of El Welejeh <span id="fr_113"></span>[1](#fn_112) lost an
+A fellâheh of El Welejeh <span id="fr_113"></span>[1](#fn_112.md) lost an
 eye a few years
 
 <span id="page_210">p. 210</span>
@@ -716,44 +716,44 @@ while afterwards.
 
 ### Footnotes
 
-<span id="fn_99"></span>[188:1](flhl31.htm#fr_100) Genis. Under the name
+<span id="fn_99"></span>[188:1](flhl31.htm#fr_100.md) Genis. Under the name
 of Shedim the orthodox Jews also believe in their existence and general
 character as here described.
 
-<span id="fn_100"></span>[189:1](flhl31.htm#fr_101) Mejr-ud-dìn, "Uns el
+<span id="fn_100"></span>[189:1](flhl31.htm#fr_101.md) Mejr-ud-dìn, "Uns el
 Jelìl" (Cairo Edition), vol. i. p. 15.
 
-<span id="fn_101"></span>[190:1](flhl31.htm#fr_102) None but the very
+<span id="fn_101"></span>[190:1](flhl31.htm#fr_102.md) None but the very
 poorest will sleep without a night-light.
 
-<span id="fn_102"></span>[191:1](flhl31.htm#fr_103) Irregular cavalry.
+<span id="fn_102"></span>[191:1](flhl31.htm#fr_103.md) Irregular cavalry.
 
-<span id="fn_103"></span>[196:1](flhl31.htm#fr_104) Blackbeetle.
+<span id="fn_103"></span>[196:1](flhl31.htm#fr_104.md) Blackbeetle.
 
-<span id="fn_104"></span>[196:2](flhl31.htm#fr_105) Fuel for the tabûn
+<span id="fn_104"></span>[196:2](flhl31.htm#fr_105.md) Fuel for the tabûn
 or hovel-oven.
 
-<span id="fn_105"></span>[197:1](flhl31.htm#fr_106) Little blackbeetle.
+<span id="fn_105"></span>[197:1](flhl31.htm#fr_106.md) Little blackbeetle.
 
-<span id="fn_106"></span>[198:1](flhl31.htm#fr_107) It is not uncommon
+<span id="fn_106"></span>[198:1](flhl31.htm#fr_107.md) It is not uncommon
 among the natives of Palestine for a man or a woman to bury a charm
 under the threshold over which some enemy is bound to pass. A woman
 known to me, who was servant in an English family, thus buried the
 shoulder-blades of a sheep covered over with curses at a gate through
 which another servant had to go.
 
-<span id="fn_107"></span>[199:1](flhl31.htm#fr_108) Ar. tabûn.
+<span id="fn_107"></span>[199:1](flhl31.htm#fr_108.md) Ar. tabûn.
 
-<span id="fn_108"></span>[199:2](flhl31.htm#fr_109) As every husband has
+<span id="fn_108"></span>[199:2](flhl31.htm#fr_109.md) As every husband has
 a right to do, unless he prefer to hand her over to her brothers, or
 nearest male relations, that they may themselves put her to death for
 her sin.
 
-<span id="fn_109"></span>[202:1](flhl31.htm#fr_110) "Thou blessed one!"
+<span id="fn_109"></span>[202:1](flhl31.htm#fr_110.md) "Thou blessed one!"
 are the words with which you should address a serpent, if you have the
 misfortune to meet one unexpectedly.
 
-<span id="fn_110"></span>[202:2](flhl31.htm#fr_111) The devil once had a
+<span id="fn_110"></span>[202:2](flhl31.htm#fr_111.md) The devil once had a
 bet with someone that he would obtain a meal in a certain city renowned
 for piety. He entered house after house at dinner-time, but was always
 frustrated by the name of Allah till, by good luck, he happened on the
@@ -761,12 +761,12 @@ dwelling of a Frankish consul who, when Iblìs entered, was at table
 wrestling with a tough <span id="page_203">p. 203</span> beefsteak.
 "Devil take this meat," said the consul, and the devil took it.--ED.
 
-<span id="fn_111"></span>[203:1](flhl31.htm#fr_112) For Moslem ideas
+<span id="fn_111"></span>[203:1](flhl31.htm#fr_112.md) For Moslem ideas
 about cats, see the chapter on animal folk-lore.
 
-<span id="fn_112"></span>[209:1](flhl31.htm#fr_113) A village about nine
+<span id="fn_112"></span>[209:1](flhl31.htm#fr_113.md) A village about nine
 miles S.W. of Jerusalem, and on the Jerusalem-Jaffa railway line.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Nursery Tales](flhl32)
+[Next: VII. Nursery Tales](flhl32.md)

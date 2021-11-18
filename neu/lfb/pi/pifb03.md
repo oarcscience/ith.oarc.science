@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb02)  [Next](pifb04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb02)  [Next](pifb04.md) 
 
 </div>
 
@@ -121,6 +121,6 @@ their lives.
 
 ------------------------------------------------------------------------
 
-[Next: How the Dragon Was Tricked](pifb04)
+[Next: How the Dragon Was Tricked](pifb04.md)
 
 </div>

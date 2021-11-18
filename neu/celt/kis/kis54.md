@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis53)  [Next](kis55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis53)  [Next](kis55.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ longed for a berry of it. There and then he told me this story:--
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the Fairy Rowan Tree](kis55)
+[Next: The Story of the Fairy Rowan Tree](kis55.md)

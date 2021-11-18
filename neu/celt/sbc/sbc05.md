@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sbc04)  [Next](sbc06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sbc04)  [Next](sbc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 ### THE WANDERINGS OF PSYCHE.
 
 IT is a primitive idea that the soul can leave the body. As separable
-soul <span id="fr_105"></span>[1](#fn_105) it may take manifold forms. A
+soul <span id="fr_105"></span>[1](#fn_105.md) it may take manifold forms. A
 Breton tale tells of a giant's life as being in an egg, in a dove, in a
 hare, in a wolf, which lives in a coffer at the bottom of the sea. On
 Gadhelic ground we meet with it in the young king of Easaidh Ruadh,
@@ -40,21 +40,21 @@ which lives in an island in a loch.
 
 Next, the external-soul may be regarded as present in an object
 intimately associated with a man, as, for instance, the
-[ancestral](errata.htm#0) sword.
+[ancestral](errata.htm#0.md) sword.
 
 The Highland oath upon the dirk is referred to in the legends of
-Strathisla, <span id="fr_106"></span>[1](#fn_106) the Strathylefe <span
-id="fr_107"></span>[2](#fn_107) of the charter of King William of
+Strathisla, <span id="fr_106"></span>[1](#fn_106.md) the Strathylefe <span
+id="fr_107"></span>[2](#fn_107.md) of the charter of King William of
 Scotland. The 'Sick-Bed of Cuchulainn,' an ancient Gadhelic tale, says
 expressly that, of old, demons were wont to speak to men from out of
 their weapons: the consequence was that, if men swore false oaths, their
 swords became turned, or turned themselves against them. <span
-id="fr_108"></span>[3](#fn_108) The Gadhelic asseveration <span
-id="fr_109"></span>[4](#fn_109)—by thy father's hand and by thy
+id="fr_108"></span>[3](#fn_108.md) The Gadhelic asseveration <span
+id="fr_109"></span>[4](#fn_109.md)—by thy father's hand and by thy
 grandfather's hand and by thine own two hands supporting them—has
 reference ultimately to the sword. The custom is parallel to that in
 Aeschylus, who makes a hero swear by his sword. <span
-id="fr_110"></span>[5](#fn_110) One recalls the familiar spirit which
+id="fr_110"></span>[5](#fn_110.md) One recalls the familiar spirit which
 Paracelsus kept imprisoned in the pummel of his sword as in the portrait
 of Lumley Castle, and of which Butler in *Hudibras* speaks:
 
@@ -69,13 +69,13 @@ In the modern Scottish oath with uplifted hand both judge and witness
 appeal to the Deity, as did the Greeks when they lifted up their hand at
 sacrifice, as did Aaron when he lifted up his hand towards the people.
 But the Gadhelic tradition leads back to an earlier world, and recurs
-likewise in the word for oath, <span id="fr_111"></span>[1](#fn_111)
+likewise in the word for oath, <span id="fr_111"></span>[1](#fn_111.md)
 which was originally taken in presence of the relics. Keating (vol. iii.
 53) tells of one whose head fell off at the fair of Taillte for having
 sworn falsely by the hand of Ciaran. And Spenser for his time says: "The
 Irish use now to sweare by their lord's hand, and to forsweare it they
 hold it more criminal than to sweare by God." <span
-id="fr_112"></span>[2](#fn_112)
+id="fr_112"></span>[2](#fn_112.md)
 
 The external-soul may meet us as a little spectre (*fuatharlan*) or
 moth. This I have heard spoken of as a soul-form. And for the more
@@ -101,7 +101,7 @@ his word with the spectre, whom he soon saw come floating through the
 air towards him: that he spoke to her, but she told him at that time she
 was in too much haste to attend to him, but bid him go away, and no harm
 should befall him; and so the affair rested when I left the
-country." <span id="fr_113"></span>[1](#fn_113)
+country." <span id="fr_113"></span>[1](#fn_113.md)
 
 An authentic instance given by a friend is that of M. A., a solicitor in
 Edinburgh, about seventy years ago; he saw a moth flitting round the
@@ -146,13 +146,13 @@ Ireland were quite deserted after that time, for people said, what is
 the use of going so far to learn when the wisest man in all Ireland did
 not know if he had a soul till he was near losing it; and was only saved
 at last through the simple belief of a little child? <span
-id="fr_114"></span>[1](#fn_114)
+id="fr_114"></span>[1](#fn_114.md)
 
 <span id="page_81">p. 81</span>
 
 In Brittany souls are frequently thought of as in butterfly form; but
 there the soul, on leaving the body, is often held to take the form of a
-fly, sometimes that of a raven. <span id="fr_115"></span>[1](#fn_115)
+fly, sometimes that of a raven. <span id="fr_115"></span>[1](#fn_115.md)
 There is here, and in what is said of the moth, much that reminds of
 what Ralston (*Songs of the Russian People*, 118) tells of the Slays:
 "The butterfly seems to have been universally accepted by the Slavonians
@@ -183,7 +183,7 @@ The idea of the soul as in bee-form is familiar; for this reason the
 habit prevailed in some places of veiling the hive in crape, as if to
 notify them of a death in the household. I remember the case of I. B.,
 who, when his brother died, put the bees into mourning. <span
-id="fr_116"></span>[1](#fn_116) The late Rev. Dr. Forsyth, minister of
+id="fr_116"></span>[1](#fn_116.md) The late Rev. Dr. Forsyth, minister of
 Abernethy, recorded the following tradition in his earlier days when
 minister at Dornoch,—a legend which illustrates also the ideas of the
 soul-bridge and of the tree as taken to witness: "Once upon a time there
@@ -222,7 +222,7 @@ stayed. An’ for all his gear he neuer got a friend to bide wi’ him, nor
 a lass to mary him. At last he was ouer weary of it all, and went to the
 priest and telled him the way of it, and made a restitution to the dead
 man's folk, and that was good to him whatever; but he didna live lang
-syne.'" <span id="fr_117"></span>[1](#fn_117)
+syne.'" <span id="fr_117"></span>[1](#fn_117.md)
 
 Hugh Miller, in *My Schools and Schoolmasters* (ch. vi.), records a
 story told him by his cousin at Gruids, Sutherland. He communicated to
@@ -355,7 +355,7 @@ The soul then explains the dipping of the feet in milk as an act of
 cleansing ere appearing before the Judge, and explains his flitting
 about as a bidding farewell to the farm-implements and animals, and his
 being shut in the coffin as an obligation to remain with the body until
-God gave sentence. <span id="fr_118"></span>[1](#fn_118)
+God gave sentence. <span id="fr_118"></span>[1](#fn_118.md)
 
 The belief in the bird-soul was well known in the Highlands. To
 illustrate: A farmer was coming home from Inverness to Buntait when at a
@@ -411,7 +411,7 @@ a ray-fish as offering: the sailors of St. Cast, if they hear it sing
 when embarking, light a pipe in its honour. In Friesland, Lithuania, and
 south-east of the Urals there are dances in honour of the cuckoo, which
 have been regarded as remnants of a totem-dance in Europe. <span
-id="fr_119"></span>[1](#fn_119) The Highland song by Dr. Maclachlan of
+id="fr_119"></span>[1](#fn_119.md) The Highland song by Dr. Maclachlan of
 Rahoy speaks of the cuckoo as dispelling sorrow—*’s to thogadh bròn om
 chridhe*, *i.e.* '’tis thou wouldst raise grief from mine heart'—but
 this is quite modern, and the whole song reproduces loosely the feeling
@@ -438,8 +438,8 @@ house it portends a
 
 <span id="page_91">p. 91</span>
 
-wedding. <span id="fr_120"></span>[1](#fn_120) The raven is equally a
-bird of omen, raven-knowledge <span id="fr_121"></span>[2](#fn_121) or
+wedding. <span id="fr_120"></span>[1](#fn_120.md) The raven is equally a
+bird of omen, raven-knowledge <span id="fr_121"></span>[2](#fn_121.md) or
 wisdom being proverbial; I find it referred to in a poem in the
 'Massacre of the Rosses,' and quite recently in a poem in memory of
 Louisa MacDougall of MacDougall by the clan bard to whom the raven is
@@ -479,7 +479,7 @@ Reinach, *Cultes, Mythes et Religions*, iii. p. 78). The witches
 (*doiteagan*) of Mull in legend are said to assume raven form, and in
 this guise raise a tempest and croak maledictions on the Lochlin
 princess associated in Mull story with the disaster <span
-id="fr_122"></span>[1](#fn_122) to a vessel from Spain.
+id="fr_122"></span>[1](#fn_122.md) to a vessel from Spain.
 
 The soul in swan form is best evidenced by the *Fate of the Children of
 Lir*, a tragic story of great pathos wherein human beings are
@@ -506,12 +506,12 @@ the men so much that they thought it was a ghost, and looked upon it as
 the cause of the bad weather they were experiencing. They, therefore,
 killed the poor bird, and threw it at the back of the house, covering it
 with stones. It has ever since gone by the name of the
-'ghost-bird.'" <span id="fr_123"></span>[1](#fn_123)
+'ghost-bird.'" <span id="fr_123"></span>[1](#fn_123.md)
 
 The sapient islanders of the Hebrides would thus seem to have been at
 the same level of belief with those Greeks who believed that the soul
 left the body in the form of a bird. <span
-id="fr_124"></span>[2](#fn_124)
+id="fr_124"></span>[2](#fn_124.md)
 
 Here, I think, one should place Cuchulainn's bird-of-valour, which
 symbolises not merely the hero's fury, but the transmission of the
@@ -535,7 +535,7 @@ to sea and overcame them. The birds quit their bird-skins and turn upon
 him with spears and swords. One of them protects him and says: "I am
 Némglan, king of thy father's birds, and thou hast been forbidden to
 cast at birds, for here there is no one that should not be dear to thee
-because of his father and mother." <span id="fr_125"></span>[1](#fn_125)
+because of his father and mother." <span id="fr_125"></span>[1](#fn_125.md)
 The violation of this Tabu led to Conaire's death. In the Cuchulainn
 saga there is the case of Dechtere and her attendant troop of
 bird-maidens.
@@ -572,7 +572,7 @@ said to have taken it philosophically enough. "By the death of Christ"
 (his customary oath), he replied, "it is not so much to be wondered at.
 For although by our great power we may impose injustice and violence
 upon these people, yet they are nevertheless known to have the
-hereditary right to the country." <span id="fr_126"></span>[1](#fn_126)
+hereditary right to the country." <span id="fr_126"></span>[1](#fn_126.md)
 
 In Scotland there was a saying that the robin "had a drop of God's blood
 in its veins, and that therefore to kill or hurt it was a sin, and that
@@ -585,7 +585,7 @@ repaid in some fashion. Boys did not dare to harry a robin's nest." The
 yellow-hammer and the swallow were said, each, "to have a drop of the
 Devil's blood in its veins; so the yellow-hammer was 'remorselessly
 harried,' and the swallow 'was feared and therefore let alone.'" <span
-id="fr_127"></span>[1](#fn_127) Here is an illustration of the blood of
+id="fr_127"></span>[1](#fn_127.md) Here is an illustration of the blood of
 the gods communicated to earthly organisms.
 
 One may infer from many references that the Druids practised augury from
@@ -599,7 +599,7 @@ My Druid is Christ the Son of God.
 A Latin Life of St. Moling has it that the wren is a bird of augury:
 *magus avium, eo quod aliquibus praebet augurium*; the *Pseudo-Cormac
 Glossary* explains it as *drui-en*, a druid bird. In Gaelic *dreathan*
-(donn) is used for 'wren'; Stokes <span id="fr_128"></span>[2](#fn_128)
+(donn) is used for 'wren'; Stokes <span id="fr_128"></span>[2](#fn_128.md)
 gives *dreoan*, from \**dreo* = W. *dryw*, 'wren; also druid,
 soothsayer,' from proto-Celtic \**drevo*, cognate with German *treu*, E.
 *true*. It seems to me that this derivation has much to support it in
@@ -647,7 +647,7 @@ birds, they kill her and lay her on a bier with the utmost solemnity,
 bringing her to the parish church, and burying her with a whimsical kind
 of solemnity, singing dirges over her in the Manx language, which they
 call her knell, after which Xmas begins." <span
-id="fr_129"></span>[1](#fn_129) The divinity of the wren as protecting
+id="fr_129"></span>[1](#fn_129.md) The divinity of the wren as protecting
 spirit is here indicated; the slaughter is a rite of sacrifice to attain
 communion with the divine, here held to be a malific power.
 
@@ -664,14 +664,14 @@ used to be said that the earth placed over spots where a murder had been
 committed was wont to be disturbed by birds at night, which recalls to
 one the old Arab belief that the blood of a murdered man turned into an
 accusing bird till vengeance was taken for the dead. An Irish tradition
-in Keating <span id="fr_130"></span>[2](#fn_130) tells of a queen and
+in Keating <span id="fr_130"></span>[2](#fn_130.md) tells of a queen and
 her handmaid who were turned into two herons at the word of Columcille.
 Another
 
 <span id="page_99">p. 99</span>
 
 tells of Aoife in the form of a crane that belonged to the sea-god,
-Manannán. <span id="fr_131"></span>[1](#fn_131)
+Manannán. <span id="fr_131"></span>[1](#fn_131.md)
 
 Birds are credited with a speech of their own. Such was the lapwing's
 cry: *Mhurchaidh bhig! na creach mo nid* (*sic*), *i.e.* 'little
@@ -686,7 +686,7 @@ the spirit of the departed was imagined to haunt its last resting-place.
 An early Indian code requires that upon the occasion of a sacrifice a
 fragment of the offering to the departed spirits should also be thrown
 to the birds, "because we are taught that our fathers glide along,
-taking the form of birds." <span id="fr_132"></span>[2](#fn_132)
+taking the form of birds." <span id="fr_132"></span>[2](#fn_132.md)
 
 Here comes the transition to the Language of Animals.
 
@@ -736,7 +736,7 @@ The boar was also sacred, as may be inferred from emblems on
 coins. The mare-goddess Epona had its parallel in the male horse-god
 Rudiobus, of which an image in bronze, showing no rider, has been found
 near Orleans, along with figures of boars and of a stag. <span
-id="fr_133"></span>[1](#fn_133)
+id="fr_133"></span>[1](#fn_133.md)
 
 So closely was the association between man and cattle felt in former
 times that we come across cases of 'animal-fasting,' like as we meet
@@ -751,28 +751,28 @@ Mahon.' The practice may possibly, Dr. Todd suggests, have been
 suggested by Jonah iii. 7. But it rather seems a result of the belief in
 the souls of animals, and of the tendency to treat them as human, which
 are found in every race at a certain stage of its culture." <span
-id="fr_134"></span>[2](#fn_134) In Ireland the local saints were
+id="fr_134"></span>[2](#fn_134.md) In Ireland the local saints were
 believed to guard the lives of certain kinds of animals. St. Colman's
 teal could neither be killed nor injured; St. Brendan provided an asylum
 for stags, wild boars and hares; St. Beanus protected his cranes and the
 grouse which bred upon the Ulster mountains. <span
-id="fr_135"></span>[3](#fn_135)
+id="fr_135"></span>[3](#fn_135.md)
 
 The local saints often took the place of the old gods. Caesar's
-statement <span id="fr_136"></span>[4](#fn_136) shows us that to the
+statement <span id="fr_136"></span>[4](#fn_136.md) shows us that to the
 ancient Britons hare, goose and domestic fowl were
 
 <span id="page_102">p. 102</span>
 
 taboo. Giraldus gives a story of the loathing shown by the Irish
 chieftains on being offered a dish of roasted crane. <span
-id="fr_137"></span>[1](#fn_137) The hare often figures in folk-belief.
+id="fr_137"></span>[1](#fn_137.md) The hare often figures in folk-belief.
 Thus Boudicca, the queen-heroine of the ancient Britons, loosed a hare
 from her robe, observed its movements as a kind of omen, and when it
 turned propitiously the whole multitude rejoiced and shouted. <span
-id="fr_138"></span>[2](#fn_138) In Western Brittany not many years ago
+id="fr_138"></span>[2](#fn_138.md) In Western Brittany not many years ago
 the peasantry could hardly endure its name; <span
-id="fr_139"></span>[3](#fn_139) such is the case in parts of Russia. The
+id="fr_139"></span>[3](#fn_139.md) such is the case in parts of Russia. The
 oldest Welsh laws allude to the magical character of the hare, which was
 thought to change its sex every month or year, and to be the companion
 of the witches who were believed to assume its shape. In one part of
@@ -780,10 +780,10 @@ Wales the hares are called St. Monacella's lambs, and it is said that up
 to very recent times no one in the district would kill one. "When a hare
 was pursued by dogs it was believed that if any one cried 'God and St.
 Monacella be with thee!' it was sure to escape." <span
-id="fr_140"></span>[4](#fn_140)
+id="fr_140"></span>[4](#fn_140.md)
 
 To be fed on the hares of Naas was one of the prerogatives of the kings
-of Tara, <span id="fr_141"></span>[5](#fn_141) which means that to
+of Tara, <span id="fr_141"></span>[5](#fn_141.md) which means that to
 others it was forbidden. Shape-shifting or transformation into hare-form
 may fitly lead to the consideration of the theriomorphic soul or the
 soul in animal form.
@@ -808,10 +808,10 @@ six-pence,' the creature shot being reputed to be some local witch
 afterwards found suffering of secret wounds. The transformation of
 witches into hare-form is the chief Highland characteristic, which
 tallies with the Isle of Man account. <span
-id="fr_142"></span>[1](#fn_142) It enters into Welsh folk-lore, but it
+id="fr_142"></span>[1](#fn_142.md) It enters into Welsh folk-lore, but it
 is rather the idea of augury that is emphasised. <span
-id="fr_143"></span>[2](#fn_143) In Brittany at Lannion <span
-id="fr_144"></span>[3](#fn_144) souls take the form of hares. Everywhere
+id="fr_143"></span>[2](#fn_143.md) In Brittany at Lannion <span
+id="fr_144"></span>[3](#fn_144.md) souls take the form of hares. Everywhere
 in Celtdom it is a creature of omen for expectant mothers who have their
 old rites to avert hare-lip. Its lore dates from British times, and is
 met with widely in England; a writer in the *Oxford Times* (2nd January,
@@ -917,7 +917,7 @@ Scotland the name of the hare must not be pronounced at sea. One cannot
 but agree with Mr. Gomme's conclusion that a classification of the
 beliefs and customs connected with the hare takes us to every phase of
 totemistic belief, and that it is impossible to reject such a mass of
-cumulative evidence. <span id="fr_145"></span>[1](#fn_145)
+cumulative evidence. <span id="fr_145"></span>[1](#fn_145.md)
 
 Shape-shifting (*dol ann an riochd*) does not as such raise the question
 of re-incarnation of the soul. Soul and body are not nicely
@@ -952,7 +952,7 @@ errand he was late of returning. A search was made for him, and he was
 found dead on the way.
 
 With this compare the strange big cats in the *Fled Bricrend*, <span
-id="fr_146"></span>[1](#fn_146) an early Irish tale of the Cuchulainn
+id="fr_146"></span>[1](#fn_146.md) an early Irish tale of the Cuchulainn
 saga. One night as their portion was assigned the heroes, three cats
 from the cave of Cruachan were let loose to attack them, *i.e.* three
 beasts of magic. Conall and Loigaire made for the rafters, having left
@@ -1113,7 +1113,7 @@ sin chaidh
 <span id="page_114">p. 114</span>
 
 e-san a chadal. Air an là màireach bha bròn mór air an tigh sin oir bha
-bean an tighe <span id="fr_147"></span>[1](#fn_147) gu tinn. Agus ni a
+bean an tighe <span id="fr_147"></span>[1](#fn_147.md) gu tinn. Agus ni a
 bha ’cur iongantais air gach h-aon cha robh neach sam bith air a ligeil
 a steach ga faicinn. ’Nuair a bha so mar so thàinig e-san, an gille, far
 an robh a mhaighstir agus thubhairt e e-san a ligeil a steach ga
@@ -1124,7 +1124,7 @@ chunnaic i e chas i sgreang oirre.
 
 “Dh’fhoighneac e dhìth ciamar a bha i. Cha robh i air-son freagairt a
 thoirt dha ach thubhairt e-san rithe: Sin a mach do phluit. <span
-id="fr_148"></span>[2](#fn_148) Cha deanadh i so agus rug e oirre is
+id="fr_148"></span>[2](#fn_148.md) Cha deanadh i so agus rug e oirre is
 thug e mach a làmh agus de a bha ann ach gun robh cruidh eich oirre agus
 air an laimh eile cuideachd, agus air gach cois. Sheall e oirre agus
 thubhairt e rithe: 'Tha fios agad gu math de is ciall da so agus de an
@@ -1144,7 +1144,7 @@ Ireland, where it has quite recently
 
 been printed: *Lúb Na Caillighe*, narrated by Michael Mhag Ruaidhri, and
 edited with vocabulary by Mr. J. Lloyd. <span
-id="fr_149"></span>[1](#fn_149) The story is located at The Loop, a tiny
+id="fr_149"></span>[1](#fn_149.md) The story is located at The Loop, a tiny
 hamlet in Ballymulligan townland, five miles to the east of Moneymore,
 Co. Derry. The location has been motived in part by the word *Lúb*,
 usually meaning 'a bend,' 'a curve,' having the secondary sense of
@@ -1174,7 +1174,7 @@ awake: the third time she goes off in high dudgeon, as it was near
 midnight; hence "it was no time for her to delay about it." Apparently,
 unless her bridle had worked its magic by that hour, she was left
 powerless, for the Hag retired to her bed where the lad, who went
-thither at cock-crow, found her fast [asleep](errata.htm#1),—"her
+thither at cock-crow, found her fast [asleep](errata.htm#1.md),—"her
 snoring would fetch deaf kine from the woods." He shook the bridle,
 which was at the head of the bed, over her, and the Hag became a mare.
 At daybreak, as he was returning, he came upon a smithy. He asks the
@@ -1222,10 +1222,10 @@ modern philosopher remarks on the English: "they have forgotten that
 they are horses though the fact remains. Do they not still worship their
 totem at their chief festivals, abstain from eating it, and pay more
 attention to its breeding than to their own." <span
-id="fr_150"></span>[1](#fn_150) The mythic Hengist and Horsa contain
+id="fr_150"></span>[1](#fn_150.md) The mythic Hengist and Horsa contain
 some such reference.
 
-Gregorson Campbell states: <span id="fr_151"></span>[2](#fn_151) In the
+Gregorson Campbell states: <span id="fr_151"></span>[2](#fn_151.md) In the
 Hebrides a horse is supposed to have reference to the Clan Mac Leod. The
 surname of horses is Mac Leod, as the Coll bard said to the Skye bard:
 
@@ -1278,73 +1278,73 @@ taboo, as not to be killed or eaten.
 
 ### Footnotes
 
-<span id="fn_105"></span>[76:1](sbc05.htm#fr_105) J. A. MacCulloch, *The
+<span id="fn_105"></span>[76:1](sbc05.htm#fr_105.md) J. A. MacCulloch, *The
 Childhood of Fiction*, 134-5.
 
-<span id="fn_106"></span>[77:1](sbc05.htm#fr_106) *Legends of
+<span id="fn_106"></span>[77:1](sbc05.htm#fr_106.md) *Legends of
 Strathisla, Inverness-shire, and Strathbogie*, Elgin, 1862, p. 10.
 
-<span id="fn_107"></span>[77:2](sbc05.htm#fr_107) *Ib*. p. 105.
+<span id="fn_107"></span>[77:2](sbc05.htm#fr_107.md) *Ib*. p. 105.
 
-<span id="fn_108"></span>[77:3](sbc05.htm#fr_108) § 2 of 'Serglige
+<span id="fn_108"></span>[77:3](sbc05.htm#fr_108.md) § 2 of 'Serglige
 Chonchulaind' in Windisch's *Irische Texte*; cf. "I swear by my shield
 and by my spear" (*Ériu*, iv. 99).
 
-<span id="fn_109"></span>[77:4](sbc05.htm#fr_109) "Air laimh t’ athar ’s
+<span id="fn_109"></span>[77:4](sbc05.htm#fr_109.md) "Air laimh t’ athar ’s
 do sheanar is air do dhā laimh fhéin ga saoradh sin"-*v*. Barra version
 of 'Deirdire and the Sons of Usnech.'
 
-<span id="fn_110"></span>[77:5](sbc05.htm#fr_110) Usener's
+<span id="fn_110"></span>[77:5](sbc05.htm#fr_110.md) Usener's
 *Götternamen*, 1896, p. 280.
 
-<span id="fn_111"></span>[78:1](sbc05.htm#fr_111) Mionn; E. Ir. *mind*,
+<span id="fn_111"></span>[78:1](sbc05.htm#fr_111.md) Mionn; E. Ir. *mind*,
 oath, diadem, the swearing relics of a saint, cognate with O. Welsh
 *minn*, sertum.
 
-<span id="fn_112"></span>[78:2](sbc05.htm#fr_112) Spenser's *View of the
+<span id="fn_112"></span>[78:2](sbc05.htm#fr_112.md) Spenser's *View of the
 State of Ireland*, 82, 99.
 
-<span id="fn_113"></span>[79:1](sbc05.htm#fr_113) Pennant's *Tour*, i.
+<span id="fn_113"></span>[79:1](sbc05.htm#fr_113.md) Pennant's *Tour*, i.
 96.
 
-<span id="fn_114"></span>[80:1](sbc05.htm#fr_114) Lady Wilde's *Anc.
+<span id="fn_114"></span>[80:1](sbc05.htm#fr_114.md) Lady Wilde's *Anc.
 Legends*, i. 66-67.
 
-<span id="fn_115"></span>[81:1](sbc05.htm#fr_115) Sébillot, p. 342.
+<span id="fn_115"></span>[81:1](sbc05.htm#fr_115.md) Sébillot, p. 342.
 
 With the priest's thought compare the Indeterminates or questions barred
 by Buddha: whether the Soul is the same as the body or different from
 it: *v*. Rhys Davids, *Dialogues of the Buddha*, vol. i. 186 fol.
 
-<span id="fn_116"></span>[82:1](sbc05.htm#fr_116) Chuir Iain Bān aodach
+<span id="fn_116"></span>[82:1](sbc05.htm#fr_116.md) Chuir Iain Bān aodach
 dubh air na seilleanan nuair chaochail a bhrathair = John Bayne placed
 black clothing on the bees when his brother died. Cf. telling the bees
 of the death of the owner (a custom widely spread in England).
 
-<span id="fn_117"></span>[83:1](sbc05.htm#fr_117) Rev. W. Forsyth,
+<span id="fn_117"></span>[83:1](sbc05.htm#fr_117.md) Rev. W. Forsyth,
 Dornoch, Folk-Lore Journal, vi. 171.
 
-<span id="fn_118"></span>[88:1](sbc05.htm#fr_118) Condensed from Le
+<span id="fn_118"></span>[88:1](sbc05.htm#fr_118.md) Condensed from Le
 Braz's *La Legende de la Mort en Basse Bretagne*.
 
-<span id="fn_119"></span>[90:1](sbc05.htm#fr_119) Sébillot, 339.
+<span id="fn_119"></span>[90:1](sbc05.htm#fr_119.md) Sébillot, 339.
 
-<span id="fn_120"></span>[91:1](sbc05.htm#fr_120) *Pigheid bās ’s a dhā
+<span id="fn_120"></span>[91:1](sbc05.htm#fr_120.md) *Pigheid bās ’s a dhā
 banais*. Seemingly old British; cf. the belief in the Cotswolds that to
 have a magpie cross one's path in the morning means that a death will
 follow.
 
-<span id="fn_121"></span>[91:2](sbc05.htm#fr_121) Fios fithich.
+<span id="fn_121"></span>[91:2](sbc05.htm#fr_121.md) Fios fithich.
 
-<span id="fn_122"></span>[92:1](sbc05.htm#fr_122) *v*. 'The Tobermory
+<span id="fn_122"></span>[92:1](sbc05.htm#fr_122.md) *v*. 'The Tobermory
 Treasure Ship in Fact and Legend,' by Rev. D. McGillivray, in *Northern
 Chronicle*, January or February 16, 1910.
 
-<span id="fn_123"></span>[93:1](sbc05.htm#fr_123) *St. Kilda and its
+<span id="fn_123"></span>[93:1](sbc05.htm#fr_123.md) *St. Kilda and its
 Birds*, by J. Wiglesworth, M.D., F.R.C.P., Liverpool, 1903, p. 37; cf.
 A. B. Cook, in *Folk-Lore* for 1904, p. 387 n.
 
-<span id="fn_124"></span>[93:2](sbc05.htm#fr_124) The literary evidence
+<span id="fn_124"></span>[93:2](sbc05.htm#fr_124.md) The literary evidence
 for which is seen in the myths of Caeneus (Ovid's *Metam*. 12, 514 ff.)
 and Ctesylla (*Ant. Lib*. i.); the monumental evidence in works like G.
 Weicker's *Der Seelenvogel* and J. E. Harrison's *Prolegomena to the
@@ -1352,84 +1352,84 @@ Study of Greek Religion* (p. 197 In Egypt the king's soul is referred to
 as a hawk under the twelfth and nineteenth dynasties (Flinders Petrie,
 *Religion and Conscience in Ancient Egypt*, p. 30).
 
-<span id="fn_125"></span>[94:1](sbc05.htm#fr_125) *Orgain Brudne Da
+<span id="fn_125"></span>[94:1](sbc05.htm#fr_125.md) *Orgain Brudne Da
 Dergae*, ed. Stokes, § 7, 13.
 
-<span id="fn_126"></span>[95:1](sbc05.htm#fr_126) Girald. Cambr.,
+<span id="fn_126"></span>[95:1](sbc05.htm#fr_126.md) Girald. Cambr.,
 *Itinerarium Cambriae*, l. i. c. 2.
 
-<span id="fn_127"></span>[96:1](sbc05.htm#fr_127) Napier's *Folk-Lore of
+<span id="fn_127"></span>[96:1](sbc05.htm#fr_127.md) Napier's *Folk-Lore of
 the West of Scotland*, p. 111.
 
-<span id="fn_128"></span>[96:2](sbc05.htm#fr_128) *Indogerm.
+<span id="fn_128"></span>[96:2](sbc05.htm#fr_128.md) *Indogerm.
 Forschungen*, 1910, 2nd pt. p. 143.
 
-<span id="fn_129"></span>[98:1](sbc05.htm#fr_129) A. W. Moore, *The
+<span id="fn_129"></span>[98:1](sbc05.htm#fr_129.md) A. W. Moore, *The
 Folk-Lore of the Isle of Man*, pp. 133, 144, where the various accounts
 are quoted, also the music of 'Hunt the Wren.'
 
-<span id="fn_130"></span>[98:2](sbc05.htm#fr_130) Keating's *History of
+<span id="fn_130"></span>[98:2](sbc05.htm#fr_130.md) Keating's *History of
 Ireland*, vol. iii. p. 91 (Irish Texts Society ed.).
 
-<span id="fn_131"></span>[99:1](sbc05.htm#fr_131) *Duanaire Fhinn*., pt.
+<span id="fn_131"></span>[99:1](sbc05.htm#fr_131.md) *Duanaire Fhinn*., pt.
 i. p. 119.
 
-<span id="fn_132"></span>[99:2](sbc05.htm#fr_132) Bertholet, *The
+<span id="fn_132"></span>[99:2](sbc05.htm#fr_132.md) Bertholet, *The
 Transmigration of Souls*, 64.
 
-<span id="fn_133"></span>[101:1](sbc05.htm#fr_133) Reinach's *Orpheus*
+<span id="fn_133"></span>[101:1](sbc05.htm#fr_133.md) Reinach's *Orpheus*
 (French ed.), p. 168.
 
-<span id="fn_134"></span>[101:2](sbc05.htm#fr_134) *Rev. Celtique*, 12,
+<span id="fn_134"></span>[101:2](sbc05.htm#fr_134.md) *Rev. Celtique*, 12,
 p. 441.
 
-<span id="fn_135"></span>[101:3](sbc05.htm#fr_135) Elton's *Origins of
+<span id="fn_135"></span>[101:3](sbc05.htm#fr_135.md) Elton's *Origins of
 English History*, 287.
 
-<span id="fn_136"></span>[101:4](sbc05.htm#fr_136) *De Bello Gallico*,
+<span id="fn_136"></span>[101:4](sbc05.htm#fr_136.md) *De Bello Gallico*,
 V. 12.
 
-<span id="fn_137"></span>[102:1](sbc05.htm#fr_137) *Conqu. Hibern*. i.
+<span id="fn_137"></span>[102:1](sbc05.htm#fr_137.md) *Conqu. Hibern*. i.
 31.
 
-<span id="fn_138"></span>[102:2](sbc05.htm#fr_138) Dion. Cass. lxii. 3.
+<span id="fn_138"></span>[102:2](sbc05.htm#fr_138.md) Dion. Cass. lxii. 3.
 
-<span id="fn_139"></span>[102:3](sbc05.htm#fr_139) Cf. Figuier, *Prim.
+<span id="fn_139"></span>[102:3](sbc05.htm#fr_139.md) Cf. Figuier, *Prim.
 Man* (Tylor), 268.
 
-<span id="fn_140"></span>[102:4](sbc05.htm#fr_140) Pennant's *Tour
+<span id="fn_140"></span>[102:4](sbc05.htm#fr_140.md) Pennant's *Tour
 Through Montgomeryshire* and Sikes's *British Goblins*, 162.
 
-<span id="fn_141"></span>[102:5](sbc05.htm#fr_141) O’Curry's *Man. and
+<span id="fn_141"></span>[102:5](sbc05.htm#fr_141.md) O’Curry's *Man. and
 Cus*. ii. 141.
 
-<span id="fn_142"></span>[103:1](sbc05.htm#fr_142) *The Folk-Lore of the
+<span id="fn_142"></span>[103:1](sbc05.htm#fr_142.md) *The Folk-Lore of the
 Isle of Man*, by A. W. Moore, p. 147.
 
-<span id="fn_143"></span>[103:2](sbc05.htm#fr_143) Trevelyan, p. 77.
+<span id="fn_143"></span>[103:2](sbc05.htm#fr_143.md) Trevelyan, p. 77.
 
-<span id="fn_144"></span>[103:3](sbc05.htm#fr_144) Sébillot, 196.
+<span id="fn_144"></span>[103:3](sbc05.htm#fr_144.md) Sébillot, 196.
 
-<span id="fn_145"></span>[107:1](sbc05.htm#fr_145) *Folklore as an
+<span id="fn_145"></span>[107:1](sbc05.htm#fr_145.md) *Folklore as an
 Historical Science*, 287-288.
 
-<span id="fn_146"></span>[108:1](sbc05.htm#fr_146) *v*. my trans. in
+<span id="fn_146"></span>[108:1](sbc05.htm#fr_146.md) *v*. my trans. in
 Irish Texts Society ed.
 
-<span id="fn_147"></span>[114:1](sbc05.htm#fr_147) Ta’a—Tiree dialect.
+<span id="fn_147"></span>[114:1](sbc05.htm#fr_147.md) Ta’a—Tiree dialect.
 
-<span id="fn_148"></span>[114:2](sbc05.htm#fr_148) Sort of slang for
+<span id="fn_148"></span>[114:2](sbc05.htm#fr_148.md) Sort of slang for
 'paw, hand.'
 
-<span id="fn_149"></span>[115:1](sbc05.htm#fr_149) *Atha Cliath,
+<span id="fn_149"></span>[115:1](sbc05.htm#fr_149.md) *Atha Cliath,
 Connradh na Gaedhilge*, 1910.
 
-<span id="fn_150"></span>[117:1](sbc05.htm#fr_150) Craveth Read,
+<span id="fn_150"></span>[117:1](sbc05.htm#fr_150.md) Craveth Read,
 *Natural and Social Morals*, p. 85.
 
-<span id="fn_151"></span>[117:2](sbc05.htm#fr_151) *Superstitions of the
+<span id="fn_151"></span>[117:2](sbc05.htm#fr_151.md) *Superstitions of the
 Scottish Highlands*, p. 269.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Wanderings of Psyche (part 2)](sbc06)
+[Next: II. The Wanderings of Psyche (part 2)](sbc06.md)

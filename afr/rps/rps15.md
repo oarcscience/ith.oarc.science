@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps14)  [Next](rps16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps14)  [Next](rps16.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ KING OF KINGS.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 14. Fasting--How to Fast](rps16)
+[Next: Chapter 14. Fasting--How to Fast](rps16.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw25)  [Next](tfgw27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw25)  [Next](tfgw27.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ Tim Sheehy Sent Back to This World to Prove His Innocence
 
 ------------------------------------------------------------------------
 
-[Next: Tom Moore and the Seal Woman](tfgw27)
+[Next: Tom Moore and the Seal Woman](tfgw27.md)

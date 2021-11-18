@@ -1,6 +1,6 @@
 <span class="small"></span>
 
-[Intangible Textual Heritage](../index)  [Hinduism](index) 
+[Intangible Textual Heritage](../index)  [Hinduism](index.md) 
 
 ------------------------------------------------------------------------
 

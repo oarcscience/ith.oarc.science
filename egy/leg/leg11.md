@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg10)  [Next](leg12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg10)  [Next](leg12.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,12 +23,12 @@ kinds. All such creatures were regarded
  
 
 <span id="img_pl17"></span> [![](tn/pl17.jpg)  
-Click to enlarge](img/pl17.jpg)  
+Click to enlarge](img/pl17.jpg.md)  
 PLATE XVII.  
 The Metternich Stele--Obverse.
 
 <span id="img_pl18"></span> [![](tn/pl18.jpg)  
-Click to enlarge](img/pl18.jpg)  
+Click to enlarge](img/pl18.jpg.md)  
 PLATE XVIII.  
 The Metternich Stele--Reverse.
 
@@ -90,7 +90,7 @@ of the text, by Professor
 <span id="page_lxxi">p. lxxi</span>
 
 \[paragraph continues\] Golénischeff. <span
-id="fr_48"></span>[1](#fn_47) The importance of the stele is enhanced by
+id="fr_48"></span>[1](#fn_47.md) The importance of the stele is enhanced by
 the fact that it mentions the name of the king in whose reign it was
 made, viz., Nectanebus I., who reigned from B.C. 378 to B.C. 360.
 
@@ -316,11 +316,11 @@ on any other monument.
 
 ### Footnotes
 
-<span id="fn_47"></span>[lxxi:1](leg11.htm#fr_48) See *Metternichstele*,
+<span id="fn_47"></span>[lxxi:1](leg11.htm#fr_48.md) See *Metternichstele*,
 Leipzig, 1877. The Stele was made for Ankh-Psemthek, son of the lady
 Tent-Het-nub, prophet of Nebun, overseer of Temt and scribe of Het (see
 line 87).
 
 ------------------------------------------------------------------------
 
-[Next: Summary: IX: The History of Isis and Osiris](leg12)
+[Next: Summary: IX: The History of Isis and Osiris](leg12.md)

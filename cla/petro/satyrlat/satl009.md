@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat02.htm#IX)  [Previous](satl008) 
-[Next](satl010) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat02.htm#IX)  [Previous](satl008.md) 
+[Next](satl010.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ es.--Subduxisti te, inquam, a praeceptoris colloquio.
 
 ------------------------------------------------------------------------
 
-[Next: X](satl010)
+[Next: X](satl010.md)

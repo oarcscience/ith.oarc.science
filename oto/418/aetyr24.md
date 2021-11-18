@@ -1,30 +1,30 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Sacred texts](../../index)  [Thelema](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Sacred texts](../../index)  [Thelema](../index.md) 
 
 ------------------------------------------------------------------------
 
 **The Cry of the 24th Aethyr,  
-Which is Called NIA**[**1**](#1)
+Which is Called NIA**[**1**](#1.md)
 
 An angel comes forward into the stone like a warrior clad in chain-
-armour. Upon his head are plumes of gray[**2**](#2), spread out like the
-fan of a peacock[**3**](#3). About his feet a great army of scorpions
+armour. Upon his head are plumes of gray[**2**](#2.md), spread out like the
+fan of a peacock[**3**](#3.md). About his feet a great army of scorpions
 and dogs, lions, elephants, and many other wild beasts. He stretches
 forth his arms to heaven and cries; In the crackling of the lightning,
 in the rolling of the thunder, in the clashing of the swords and the
-hurling of the arrows[**4**](#4): be thy name exalted!
+hurling of the arrows[**4**](#4.md): be thy name exalted!
 
 Streams of fire come out of the heavens, a pale brilliant
-blue[**5**](#5), like plumes. And they gather themselves and settle upon
+blue[**5**](#5.md), like plumes. And they gather themselves and settle upon
 his lips. His lips are redder than roses, and the blue plumes gather
-themselves into a blue rose[**6**](#6), and from beneath the petals of
-the rose come brightly coloured humming-birds[**7**](#7), and dew falls
-from the rose- honey-coloured dew[**8**](#8). I stand in the shower of
+themselves into a blue rose[**6**](#6.md), and from beneath the petals of
+the rose come brightly coloured humming-birds[**7**](#7.md), and dew falls
+from the rose- honey-coloured dew[**8**](#8.md). I stand in the shower of
 it.
 
 And a voice proceeds from the rose: Come away! Our chariot is drawn by
-doves[**9**](#9). Of mother-of-pearl and ivory is our
-chariot[**10**](#10) and the reins thereof are the heart-strings of men.
+doves[**9**](#9.md). Of mother-of-pearl and ivory is our
+chariot[**10**](#10.md) and the reins thereof are the heart-strings of men.
 Every moment that we fly shall cover an aeon. And every place on which
 we rest shall be a young universe rejoicing in its strength; the meadows
 thereof shall be covered with flowers. There shall we rest but a night,
@@ -35,25 +35,25 @@ and I looked to see who was with me in the chariot. It was an Angel of
 golden hair and golden skin, whose eyes were bluer than the sea, whose
 mouth was redder than the fire, whose breath was ambrosial air. Finer
 than a spider's web were her robes. And they were of the seven
-colours[**11**](#11).
+colours[**11**](#11.md).
 
 All this I saw; and then the hidden voice went on low and sweet: Come
 away! The price of the journey is little, though its name be death. Thou
 shalt die to all that thou fearest and hopest and hatest and lovest and
 thinkest and art. Yea! thou shalt die, even as thou must die. For all
 that thou hast, thou hast not; all that thou art, thou art
-not[**12**](#12)!
+not[**12**](#12.md)!
 
 NENNI OFEKUFA ANANAEL LAIADA I MAELPEREJI NONUKA AFAFA ADAREPEHETA
-PEREGI ALADI NIISA NIISA LAPE OL ZODIR IDOIAN[**13**](#13).
+PEREGI ALADI NIISA NIISA LAPE OL ZODIR IDOIAN[**13**](#13.md).
 
 And I said: ODO KIKALE QAA. Why art thou hidden from me, whom I hear?
 
 And the voice answered and said unto me: Hearing is of the spirit
-alone[**14**](#14). Thou art a partaker of the five-fold
-mystery[**15**](#15). Thou must roll up the ten divine ones like a
-scroll, and fashion therefrom a star[**16**](#16). Yet must thou blot
-out the star in the heart of Hadit[**17**](#17).
+alone[**14**](#14.md). Thou art a partaker of the five-fold
+mystery[**15**](#15.md). Thou must roll up the ten divine ones like a
+scroll, and fashion therefrom a star[**16**](#16.md). Yet must thou blot
+out the star in the heart of Hadit[**17**](#17.md).
 
 For the blood of my heart is like a warm bath of myrrh and ambergris;
 bathe thyself therein. The blood of my heart is all gathered upon my
@@ -70,31 +70,31 @@ If once I put thee apart from me, it was the joy of play. Is not the ebb
 and flowing of the tide a music of the sea? Come, let us mount unto Nuit
 our mother and be lost! Let being be emptied in the infinite abyss! For
 by me only shalt thou mount; thou hast none other wings than
-mine[**18**](#18).
+mine[**18**](#18.md).
 
 All this while the Rose has been shooting out blue flames, coruscating
 like snakes through the whole Aire. And the snakes have taken shapes of
 sentences. One of them is: *Sub umbra alarum tuarum Adonai quies et
-felicitas*[**19**](#19). And another: *Summum bonum, vera sapientia,
-magnanima vita, sub noctis nocte sunt*[**20**](#20). And another is:
-*Vera medicina est vinum mortis*[**21**](#21). And another is: *Libertas
+felicitas*[**19**](#19.md). And another: *Summum bonum, vera sapientia,
+magnanima vita, sub noctis nocte sunt*[**20**](#20.md). And another is:
+*Vera medicina est vinum mortis*[**21**](#21.md). And another is: *Libertas
 evangelii per jugum legis ob gloriam dei intactam ad vacuum nequaquam
-tendit*[**22**](#22). And another is: *Sub aqu lex
-terrarum*[**23**](#23). And another is: *Mens edax rerum, cor umbra
-rerum; intelligentia via summa*[**24**](#24). And another is: *Summa via
-lucis: per Hephaestum* *undas regas*[**25**](#25). And another is: *Vir
-introit tumulum regis, invenit oleum lucis*[**26**](#26).
+tendit*[**22**](#22.md). And another is: *Sub aqu lex
+terrarum*[**23**](#23.md). And another is: *Mens edax rerum, cor umbra
+rerum; intelligentia via summa*[**24**](#24.md). And another is: *Summa via
+lucis: per Hephaestum* *undas regas*[**25**](#25.md). And another is: *Vir
+introit tumulum regis, invenit oleum lucis*[**26**](#26.md).
 
 And all round the whole of these things are the letters TARO; but the
 light is so dreadful that I cannot read the words. I am going to try
 again. All these serpents are collected together very thickly at the
 edges of the wheel, because there are an innumerable number of
-sentences. One is: *tres annos regimen oraculi*[**27**](#27). And
+sentences. One is: *tres annos regimen oraculi*[**27**](#27.md). And
 another is: *terribilis ardet rex*
-{HEB:Nun-final}{HEB:Vau}{HEB:Yod}{HEB:Lamed}{HEB:Ayin}[**28**](#28). And
+{HEB:Nun-final}{HEB:Vau}{HEB:Yod}{HEB:Lamed}{HEB:Ayin}[**28**](#28.md). And
 another is: *Ter amb* (amp?) (can't see it) *Rosam oleo*
-(?)[**29**](#29). And another is: Tribus annulis regna
-olisbon[**30**](#30). And the marvel is that with those four letters you
+(?)[**29**](#29.md). And another is: Tribus annulis regna
+olisbon[**30**](#30.md). And the marvel is that with those four letters you
 can get a complete set of rules for doing everything, both for white
 magic and black.
 
@@ -117,12 +117,12 @@ upwards, drinking, drinking, drinking, drinking, drinking of the dew.
 
 I cannot describe to you the joy and the exhaustion of everything that
 was, and the energy of everything that is, for it is only a corpse that
-is lying on the moss. I am the soul of the Aethyr[**31**](#31).
+is lying on the moss. I am the soul of the Aethyr[**31**](#31.md).
 
 Now it reverberates like the swords of archangels, clashing upon the
 armour of the damned; and there seem to be the blacksmiths of heaven
 beating the steel of the worlds upon the anvils of hell, to make a roof
-to the Aethyr[**32**](#32).
+to the Aethyr[**32**](#32.md).
 
 For if the great work were accomplished and all the Aethyrs were caught
 up into one, then would the vision fail; then would the voice be still.

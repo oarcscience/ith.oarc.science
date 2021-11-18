@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](mmp05)  [Next](mmp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](mmp05)  [Next](mmp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HIF0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HIF0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myths of Mexico and Peru*, by Lewis Spence, \[1913\], at Intangible
 Textual Heritage
 
@@ -719,4 +719,4 @@ and receive baptism at their hands was the Princess Papan.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: The Maya Race and Mythology](mmp07)
+[Next: Chapter IV: The Maya Race and Mythology](mmp07.md)

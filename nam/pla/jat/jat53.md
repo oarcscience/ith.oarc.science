@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat52)  [Next](jat54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat52)  [Next](jat54.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ him, 'whu o whu!'" Thus he spoke they say.
 
 ------------------------------------------------------------------------
 
-[Next: 52. Panther, the Great Hunter](jat54)
+[Next: 52. Panther, the Great Hunter](jat54.md)

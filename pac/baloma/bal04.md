@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](bal03)  [Next](bal05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](bal03)  [Next](bal05.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,14 +42,14 @@ spells. Moreover, in some magical performances offerings are made to the
 some share in fostering the ends of the given magical performances;
 indeed, those offerings to the *baloma* are the only ceremonial element
 (in the narrower sense) in magical performances I was able to
-detect. [28](bal09.htm#xref_28)
+detect. [28](bal09.htm#xref_28.md)
 
 I wish to add in this place that there is no association between the
 *baloma* of a dead man and the relics of his body, such as his skull,
 jawbone, arm and leg bones, and hair, which are carried about by the
 relatives and used as lime pot, necklace, and lime spatulae
 respectively, a connection which exists among some other tribes of New
-Guinea. [29](bal09.htm#xref_29)
+Guinea. [29](bal09.htm#xref_29.md)
 
 The facts connected with the *milamala* and with the magical role of
 spirits must now be considered in detail.
@@ -132,7 +132,7 @@ into the village covers several days. This description may give some
 idea of the considerable heightening of the tempo in village life at the
 time of the harvest, especially as the *taitu* is often brought in from
 other villages, and the harvest is a time when even distant communities
-pay each other visits. [30](bal09.htm#xref_30)
+pay each other visits. [30](bal09.htm#xref_30.md)
 
 <span id="page_175">p. 175</span>
 
@@ -145,7 +145,7 @@ begins. The ceremony consists, like the majority of ceremonies in
 Kiriwina, of a distribution of food (*sagali*). The food is put in
 heaps, and in this particular ceremony it is cooked and the heaps placed
 on wooden dishes or in baskets. Then a man comes along, and in a loud
-voice calls out a name at each heap. [31](bal09.htm#xref_31) The wife or
+voice calls out a name at each heap. [31](bal09.htm#xref_31.md) The wife or
 other female relative of the man named takes the food and carries it to
 his house, where it is eaten. Such a ceremony (called distribution of
 *sagali*) does not seem to us much of a feast, especially as the
@@ -320,7 +320,7 @@ moon of
 <span id="page_180">p. 180</span>
 
 milamala falls in the second half of August or first half of
-September. [32](bal09.htm#xref_32)
+September. [32](bal09.htm#xref_32.md)
 
 When the time approaches, the *baloma*, taking advantage of any spell of
 fair wind that may occur, sail from Tuma to their native villages. It is
@@ -336,10 +336,10 @@ platforms, called *tokaikaya*, are erected for the *baloma* of the
 *guya'u* (chiefs). The chief is always supposed to be in a physically
 higher position than the commoners. Why the platforms for the spirit
 *guya'u* are so very high (they measure some 5 to 7 meters in height) I
-could not ascertain. [33](bal09.htm#xref_33) Besides these platforms
+could not ascertain. [33](bal09.htm#xref_33.md) Besides these platforms
 several other arrangements are made in connection with the display of
 valuables and of food, with the professed intention of pleasing the
-*baloma*. [34](bal09.htm#xref_34)
+*baloma*. [34](bal09.htm#xref_34.md)
 
 The display of valuables is called *ioiova*. The headman of each
 village, or the headmen, as there are at times more than one, have
@@ -388,7 +388,7 @@ which is given to them takes place at the *katukuala*, the opening feast
 of the *milamala*, with which the festive period really begins. The
 *katukuala* consists of a distribution of cooked food, which takes place
 on the *baku*, and for which the food is supplied by all the members of
-the village and redistributed among them. [35](bal09.htm#xref_35) This
+the village and redistributed among them. [35](bal09.htm#xref_35.md) This
 food is exposed to the spirits by being placed on the *baku*. They
 partake of the "spirit substance" of the food exactly in the same way as
 they take away to Tuma the *baloma* of the valuables with which men are
@@ -407,7 +407,7 @@ Food is cooked early every day, and exposed in big, fine wooden dishes
 the food is taken away and is presented to some friend or relative, who
 in turn will present the donor with an equivalent dish. The chiefs have
 the privilege of giving to the *tokay* (commoners) betel nut and pig,
-and of receiving in return fish and fruits. [36](bal09.htm#xref_36) Such
+and of receiving in return fish and fruits. [36](bal09.htm#xref_36.md) Such
 food, offered to the *baloma*, and subsequently given away to a friend,
 is called *bubualu'a*. It is usually put on the bedstead in the house,
 and the man, laying down the *kaboma*, says: "*Balom' kam bubualua*." It
@@ -529,7 +529,7 @@ sufficient *kaidebu* to dance with properly for the last five years at
 least), they at once began to dance the *gumagabu*, a dance performed
 with the dancing shields. This was a serious breach of the customary
 rules (though I did not know it at the time), for every new form of
-dance has to be ceremonially inaugurated. [37](bal09.htm#xref_37) The
+dance has to be ceremonially inaugurated. [37](bal09.htm#xref_37.md) The
 omission was very much resented by the *baloma*, hence bad weather,
 falling coconuts, etc. This was brought up against me several times.
 
@@ -537,7 +537,7 @@ After the *baloma* have enjoyed their reception for two or four weeks
 (the *milamala* has a fixed end, the second day after the full moon, but
 it may begin any time between the previous full moon and the new moon),
 they have to leave their native village and return to
-Tuma. [38](bal09.htm#xref_38) This return is compulsory, and is induced
+Tuma. [38](bal09.htm#xref_38.md) This return is compulsory, and is induced
 by the *ioba*, or ceremonial bunting away of the spirits. The second
 night after the full moon, about one hour before sunrise, when the
 leatherhead (*saka'u*) sings out, and the morning star (*kubuana*)
@@ -546,7 +546,7 @@ appears in the heavens, the dancing, which has been going on
 <span id="page_186">p. 186</span>
 
 the whole night, ceases, and the drums intone a peculiar beat, that of
-the *ioba*. [39](bal09.htm#xref_39) The spirits know the beat, and they
+the *ioba*. [39](bal09.htm#xref_39.md) The spirits know the beat, and they
 prepare for their return journey. Such is the power of this beat that if
 somebody struck it a couple of nights earlier, all the *baloma* would
 leave the village, and go to their home in the nether world. The *ioba*
@@ -581,7 +581,7 @@ part of the village remains "unswept" They go through the village,
 stopping for a time on the *baku* (central place) and then they walk up
 the place, where the road to Tuma leaves the village. There they finish
 the *ioba*, and always end up with a beat of a peculiar form of dance,
-the *kasawaga*. [40](bal09.htm#xref_40)
+the *kasawaga*. [40](bal09.htm#xref_40.md)
 
 <span id="page_187">p. 187</span>
 
@@ -633,7 +633,7 @@ the old men looking on with smiles, and making fun of the poor lame
 spirits, which have to hobble away. Yet there is no doubt that the
 *ioba*, as an event, as a critical point in tribal life, is a matter of
 importance. It would never on any account be
-omitted. [41](bal09.htm#xref_41) As already noted, it would not be
+omitted. [41](bal09.htm#xref_41.md) As already noted, it would not be
 performed except at the proper moment, and the *ioba* drum beat must not
 be trifled with. But in its performance it has no traces of sanctity or
 even seriousness.
@@ -664,7 +664,7 @@ acquiescence is at once distinguishable from a direct endorsement of a
 statement. There was never the slightest difficulty in deciding whether
 an opinion obtained was a customary, well-established, orthodox native
 view, or whether it was an idea new to the native
-mind. [42](bal09.htm#xref_42)
+mind. [42](bal09.htm#xref_42.md)
 
 Some general remarks about the natives' attitude towards the *baloma*
 during *milamala* may follow this account of details. This attitude is
@@ -731,4 +731,4 @@ they take in magic.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](bal05)
+[Next: Chapter V](bal05.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc112) 
-[Next](motc114) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc112.md) 
+[Next](motc114.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ the bear ran away.
 
 ------------------------------------------------------------------------
 
-[Next: 114. Two Lazy Hunters](motc114)
+[Next: 114. Two Lazy Hunters](motc114.md)

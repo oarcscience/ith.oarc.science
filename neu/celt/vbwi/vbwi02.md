@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi01)  [Next](vbwi03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi01)  [Next](vbwi03.md) 
 
 ------------------------------------------------------------------------
 
@@ -658,4 +658,4 @@ so I hear.
 
 ------------------------------------------------------------------------
 
-[Next: Seers and Healers](vbwi03)
+[Next: Seers and Healers](vbwi03.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah09)  [Next](mah11) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah09)  [Next](mah11.md) 
 
 ------------------------------------------------------------------------
 
@@ -274,4 +274,4 @@ impossible for me to observe the base of the two structures.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII: Knowledge Of God Comes From Within](mah11)
+[Next: Chapter VIII: Knowledge Of God Comes From Within](mah11.md)

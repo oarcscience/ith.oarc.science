@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw01)  [Next](isw03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw01)  [Next](isw03.md) 
 
 ------------------------------------------------------------------------
 
@@ -172,4 +172,4 @@ A murmur of soft words and meeting lips.
 
 ------------------------------------------------------------------------
 
-[Next: Baile and Aillinn](isw03)
+[Next: Baile and Aillinn](isw03.md)

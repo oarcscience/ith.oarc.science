@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft64)  [Next](sfft66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft64)  [Next](sfft66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 # WITCHCRAFT.
 
-### MACGILLICHALLUM OF RAZAY. <span id="fr_98"></span>[1](#fn_98)
+### MACGILLICHALLUM OF RAZAY. <span id="fr_98"></span>[1](#fn_98.md)
 
 JOHN GARVE MACGILLICHALLUM, of Razay, was an ancient hero of great
 celebrity. Distinguished in the age in which he lived for the gallantry
@@ -115,9 +115,9 @@ the abominable witches who thus accomplished his lamentable doom.
 
 ### Footnotes
 
-<span id="fn_98"></span>[218:1](sfft65.htm#fr_98) W. Grant Stewart,
+<span id="fn_98"></span>[218:1](sfft65.htm#fr_98.md) W. Grant Stewart,
 *Highland Superstitions*.
 
 ------------------------------------------------------------------------
 
-[Next: The Witch Of Laggan](sfft66)
+[Next: The Witch Of Laggan](sfft66.md)

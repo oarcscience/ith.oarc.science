@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe263)  [Next](prwe265) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe263)  [Next](prwe265.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ and devoured it.
 
 ------------------------------------------------------------------------
 
-[Next: Shooting Stars](prwe265)
+[Next: Shooting Stars](prwe265.md)

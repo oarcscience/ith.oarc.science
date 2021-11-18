@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi03) 
-[Next](jlgi05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi03.md) 
+[Next](jlgi05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus, the Last Great Initiate*, by Edouard Schuré, \[1908\], at
 Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ Intangible Textual Heritage
 
 <span class="smallcaps">Jehoshoua</span>, whom we call Jesus, from the
 Greek form of his name, was probably born in Nazareth. <span
-id="fr_9"></span>[1](#fn_9) It was certainly in this abandoned corner of
+id="fr_9"></span>[1](#fn_9.md) It was certainly in this abandoned corner of
 Galilee that his childhood was passed, and the first, the greatest, of
 the Christian mysteries accomplished: the appearance of the soul of the
 Christ. He was the son of Miriam, or Mary, wife of the carpenter Joseph,
@@ -76,11 +76,11 @@ initiates. It appears in the prophets. Jeremiah affirms it in the
 following terms: "The word of the Lord came unto me, saying, Before I
 formed thee in the belly, I knew thee; and before thou camest forth out
 of the womb, I sanctified thee, and I ordained thee a prophet unto the
-nations." <span id="fr_10"></span>[1](#fn_10)
+nations." <span id="fr_10"></span>[1](#fn_10.md)
 
 Jesus will say the same to the scandalized Pharisees, "Jesus said unto
 them, Verily, verily, I say unto you, before Abraham was, I am." <span
-id="fr_11"></span>[2](#fn_11)
+id="fr_11"></span>[2](#fn_11.md)
 
 How much of this can we apply in the case of -Mary, the mother of Jesus?
 It appears that, in the first Christian communities, Jesus had been
@@ -93,7 +93,7 @@ since Matthew gives us the genealogical tree of Joseph to prove that
 Jesus can trace his descent from David. At a later date, legend, anxious
 to show the supernatural origin of the Christ, wove her web of gold and
 azure; the history of Joseph and Mary, the Annunciation and even the
-infancy of Mary in the temple. <span id="fr_12"></span>[1](#fn_12)
+infancy of Mary in the temple. <span id="fr_12"></span>[1](#fn_12.md)
 
 An attempt to discover the esoteric signification of Jewish tradition
 and Christian legend would lead one to say that the action of
@@ -109,7 +109,7 @@ highly gifted mother, who by the attitude of her moral being, the desire
 of her soul, and the purity of her life, has a presentiment, attracts
 and incarnates into her very blood and flesh the soul of the Redeemer,
 destined in the eyes of men to become a son of God. Such is the
-[profound](errata.htm#5) truth beneath the ancient idea of the
+[profound](errata.htm#5.md) truth beneath the ancient idea of the
 Virgin-Mother. The Hindu genius had already given expression to this
 idea in the legend of Krishna. The Gospels of Matthew and of Luke have
 rendered it with an even more admirable simplicity and poetic instinct.
@@ -118,7 +118,7 @@ rendered it with an even more admirable simplicity and poetic instinct.
 
 <span id="page_31">p. 31</span>
 
-death," [Empedocles](errata.htm#6) had said 500 years B. C. However
+death," [Empedocles](errata.htm#6.md) had said 500 years B. C. However
 sublime the spirit be, once imprisoned in flesh, it temporarily loses
 the remembrance of all its past; once engaged in corporal life, the
 development of its earthly consciousness is subjected to the laws of the
@@ -132,7 +132,7 @@ manifestation. Jesus passed his early years amid the calm of Galilee.
 His first impressions were gentle, austere, and serene. His birthplace
 resembled a corner of heaven, dropped on the side of a mountain. The
 village of Nazareth has changed but little with the flight of
-time. <span id="fr_13"></span>[1](#fn_13) Its houses rising in tiers
+time. <span id="fr_13"></span>[1](#fn_13.md) Its houses rising in tiers
 under the rock, resembled—so travellers say—white cubes scattered about
 in a forest of pomegranate, vine, and fig trees, while myriads of doves
 filled the heavens. Around this nest of verdant freshness floats the
@@ -188,7 +188,7 @@ again, we see him brought into contact with pagan life as he visited the
 wealthy Sephoris, capital of Galilee, residence of Antipas, guarded by
 Herod's mercenaries, Gauls, Thracians, and barbarians of every kind. In
 one of those frequent journeys to visit Jewish families, he might well
-have pushed on to a [Phoenician](errata.htm#7) town, one of those
+have pushed on to a [Phoenician](errata.htm#7.md) town, one of those
 veritable hives of human beings, swarming with life, by the seaside. He
 would see from afar the low temples, with their thick sturdy columns,
 surrounded with dark groves, whence issued the songs of the priestesses
@@ -227,7 +227,7 @@ forth from the depths of his nature, carrying him away to the most
 distant tracts of space, and yet uniting him by secret vibrations with
 all souls? Was it not the source of souls and worlds?
 
-He named it: His Father in Heaven. <span id="fr_14"></span>[1](#fn_14)
+He named it: His Father in Heaven. <span id="fr_14"></span>[1](#fn_14.md)
 
 This primitive feeling of unity with God in the light of Love, is the
 first, the great revelation of Jesus. An inner voice told him to hide it
@@ -270,7 +270,7 @@ had said "The Gentiles shall come to thy light, and kings to the
 brightness of thy rising.… Violence shall no more be heard in thy land,
 wasting nor destruction within thy borders; but thou shalt call thy
 walls Salvation and thy gates Praise." <span
-id="fr_15"></span>[1](#fn_15) To see Jerusalem and the Temple of Jehovah
+id="fr_15"></span>[1](#fn_15.md) To see Jerusalem and the Temple of Jehovah
 was the dream of all Jews, especially since Judæa had become a Roman
 province. They journeyed hither from Perea, Galilee, Alexandria, and
 Babylon. On the way, whether in the wilderness under the waving palms,
@@ -333,24 +333,24 @@ open peaks of Galilee. A cry leapt forth from the depths of his heart:
 
 ### Footnotes
 
-<span id="fn_9"></span>[28:1](jlgi04.htm#fr_9) It is by no means
+<span id="fn_9"></span>[28:1](jlgi04.htm#fr_9.md) It is by no means
 impossible that Jesus might chance to have been born in Bethlehem. But
 this tradition seems to form part of the cycle of posterior legends
 relating to the holy family and the infancy of the Christ.
 
-<span id="fn_10"></span>[29:1](jlgi04.htm#fr_10) Jeremiah i. 4.
+<span id="fn_10"></span>[29:1](jlgi04.htm#fr_10.md) Jeremiah i. 4.
 
-<span id="fn_11"></span>[29:2](jlgi04.htm#fr_11) John viii. 58.
+<span id="fn_11"></span>[29:2](jlgi04.htm#fr_11.md) John viii. 58.
 
-<span id="fn_12"></span>[30:1](jlgi04.htm#fr_12) "Apocryphal Gospel of
+<span id="fn_12"></span>[30:1](jlgi04.htm#fr_12.md) "Apocryphal Gospel of
 Mary and of the Savior's Childhood, published by Tischendorff."
 
-<span id="fn_13"></span>[31:1](jlgi04.htm#fr_13) See the masterly
+<span id="fn_13"></span>[31:1](jlgi04.htm#fr_13.md) See the masterly
 description of M. Renan's Galilée in his *Vie de Jésus*, and the no less
 remarkable one of M. E. Melchior de Vogué in his *Voyage en Syrie et en
 Palestine*.
 
-<span id="fn_14"></span>[34:1](jlgi04.htm#fr_14) Mystical annals of all
+<span id="fn_14"></span>[34:1](jlgi04.htm#fr_14.md) Mystical annals of all
 times show that moral or spiritual truths of a superior order have been
 perceived by certain highly endowed souls, without reasoning, simply by
 inner contemplation and under the form of a vision. This is a psychical
@@ -365,12 +365,12 @@ those which took place in the consciousness of Jesus, but simply to
 establish the universality of an inner perception, independent of the
 bodily senses.
 
-<span id="fn_15"></span>[36:1](jlgi04.htm#fr_15) Isaiah lx. 3, 18.
+<span id="fn_15"></span>[36:1](jlgi04.htm#fr_15.md) Isaiah lx. 3, 18.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Essenes—John the Baptist—The Temptation](jlgi05)
+[Next: Chapter III. The Essenes—John the Baptist—The Temptation](jlgi05.md)
 
 </div>

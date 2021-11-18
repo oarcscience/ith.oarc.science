@@ -1,31 +1,31 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tdp06)  [Next](tdp08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tdp06)  [Next](tdp08.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_267">p. 267</span>
 
-<span id="img_26700"></span> ![THE DARK ROSE](img/26700.jpg)
+<span id="img_26700"></span> ![THE DARK ROSE](img/26700.jpg.md)
 
 <span id="page_268">p. 268</span>
 
 <span id="img_26800"></span>
 
 [![Roisin Dubh (The Dark Rose): Sheet-music](tn/26800.jpg)  
-Click to enlarge](img/26800.jpg)  
+Click to enlarge](img/26800.jpg.md)  
   
 
 <span id="page_269">p. 269</span>
 
-<span id="img_26900"></span> ![The Dark Rose](img/26900.jpg)
+<span id="img_26900"></span> ![The Dark Rose](img/26900.jpg.md)
 
 <span id="img_a3init"></span>
 
 |                      |
 |----------------------|
-| ![A](img/a3init.jpg) |
+| ![A](img/a3init.jpg.md) |
 
 *ND gun-peal, and slogan cry  
      Wake many a glen serene,  
@@ -102,7 +102,7 @@ lived in the hearts of the children of Banva.
 
 |                     |
 |---------------------|
-| ![S](img/sinit.jpg) |
+| ![S](img/sinit.jpg.md) |
 
 O the lad, Hugh, whose head was ever filled with one old legend, or
 another old song, merged crowned Banva the Fair, and a nameless fairy
@@ -590,7 +590,7 @@ she would not see.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 T was late twilight when he brought down the sheep to the fold, and
 Molly Donn, his foster sister, put before him a brown loaf baked in the
@@ -738,7 +738,7 @@ for--Bride and Mary to our helping!--it is only to you he will hearken."
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 ND in the old Kerry castle of Argial, a dark old man, in an invalid's
 chair, frowned at the girl called by Hugh the Dark Rose, and all the
@@ -816,7 +816,7 @@ quietly, "but to be overpowered does not mean to be conquered."
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N an early April a woman rode down the boreen of the glen from Templard,
 and her eyes rested often on the simple growths--from cress of the brook
@@ -1283,7 +1283,7 @@ it would hurt her none at all to be human to him as she was to us!"
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE stars were out when the lady of Argial rode along the great oak
 avenue from the forest, and had joy in the night odors of swelling buds,
@@ -1355,7 +1355,7 @@ want to make trouble for you. Let it be burned rather than that."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE boy had sunk in his chair--rather pale and shaky from his brief fury.
 She put her arm about him with a wonderful smile in her eyes. "There are
@@ -1390,7 +1390,7 @@ over to you again!"
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 FORTNIGHT later the hell of revolution broke loose in Dublin, and a
 reign of terror ruled. Wild fear dominated the official group, and
@@ -1436,7 +1436,7 @@ Siod.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 T was the last week in April, gloriously bright, and the warm sun
 calling out patches of bloom in every southern nook. The green grass was
@@ -1521,7 +1521,7 @@ If a crime has been done against him, Argial must answer!"
 
 |                     |
 |---------------------|
-| ![S](img/sinit.jpg) |
+| ![S](img/sinit.jpg.md) |
 
 HE sent message by wire so imperative that some reply must come back.
 After that there was nothing to do but the waiting, and Shamas she would
@@ -1576,7 +1576,7 @@ what I can do for your comfort I will."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE twilight crept through the dusky wood, and quiet settled over the
 sombre mass of gray Argial. A star glimmered here and there in the
@@ -1629,7 +1629,7 @@ the moonless night!
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HROUGH the gray forest, darkening to green, she rode. And over the high
 moor the black horse sped like a night-bird skimming the earth. She was
@@ -1751,7 +1751,7 @@ And I will rear your royal throne
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 T was there they found her asleep in the early dawn, wrapped in the
 green-hooded cloak and the spray of hawthorn across her breast.
@@ -1873,7 +1873,7 @@ Shamas gazed at her with a reflected light of joy on his face.
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 CCORDING to official records it was six days after Beltain ere the
 dominating political group of Dublin Castle was forced to make public an
@@ -1904,11 +1904,11 @@ phantasies as those evolved by the Irish mind!
 <span id="img_31900"></span>
 
 [![Lullaby: Sheet-music](tn/31900.jpg)  
-Click to enlarge](img/31900.jpg)  
+Click to enlarge](img/31900.jpg.md)  
   
 
  
 
 ------------------------------------------------------------------------
 
-[Next: Acknowledgment](tdp08)
+[Next: Acknowledgment](tdp08.md)

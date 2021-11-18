@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](aof02)  [Next](aof04) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](aof02)  [Next](aof04.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ with its infinite applications.
 
 ------------------------------------------------------------------------
 
-[Next: 2: The Fundamental Doctrine of the Mahayana Faith](aof04)
+[Next: 2: The Fundamental Doctrine of the Mahayana Faith](aof04.md)

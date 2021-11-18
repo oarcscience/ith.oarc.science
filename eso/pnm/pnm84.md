@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm83)  [Next](pnm85) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm83)  [Next](pnm85.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Laurence ed. \[1913\], at Intangible Textual Heritage
 ### HENRY MORLEY'S CRITICISM.
 
 <span class="smallcaps">Little</span> disguised by Hebrew admixture, and
-little [pervaded](errata.htm#6) by the speculations of the Platonists of
+little [pervaded](errata.htm#6.md) by the speculations of the Platonists of
 Alexandria, Philo the Jew, Plotinus, and Iamblichus, whom the young
 student quotes most frequently, we have again the Attic Moses, Plato,
 speaking through a young and strong heart to the world. Very great was
@@ -77,4 +77,4 @@ by crowds on free inquiry, there is no true heart that will not say:
 
 ------------------------------------------------------------------------
 
-[Next: Agrippa and the Rosicrucians](pnm85)
+[Next: Agrippa and the Rosicrucians](pnm85.md)

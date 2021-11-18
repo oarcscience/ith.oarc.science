@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi265)  [Next](mtsi267) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi265)  [Next](mtsi267.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,15 +50,15 @@ said, "All these noises you hear are made by people you think are not
 living. You must know that they are living. The people that came to get
 fire were people that had died a long time ago. Some had not been dead
 so long as others. They have kept on living until the present
-time." <span id="fr_68"></span>[1](#fn_67)
+time." <span id="fr_68"></span>[1](#fn_67.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_67"></span>[214:1](mtsi266.htm#fr_68) For another Natchez
+<span id="fn_67"></span>[214:1](mtsi266.htm#fr_68.md) For another Natchez
 version of the flood legend see Bull. 73, Bur, Amer. Ethn., p. 316.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Rolling Head](mtsi267)
+[Next: 2. The Rolling Head](mtsi267.md)

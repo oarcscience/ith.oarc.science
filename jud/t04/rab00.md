@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Next](rab01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Next](rab01.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -21,22 +21,22 @@ Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 |         |                                                                                                               |                         |
 |---------|---------------------------------------------------------------------------------------------------------------|-------------------------|
 |         |                                                                                                               | PAGE                    |
-|         | SYNOPSIS OF SUBJECTS OF VOL. VIII.--EBEL RABBATHI,                                                            | [iii](#page_iii)        |
+|         | SYNOPSIS OF SUBJECTS OF VOL. VIII.--EBEL RABBATHI,                                                            | [iii](#page_iii.md)        |
 | CHAPTER |                                                                                                               |                         |
-| I.      | ORDINANCES REGARDING ONE IN THE STRUGGLE OF DEATH, AND WHEN DEATH OCCURS IN A VILLAGE,                        | [1](rab01.htm#page_1)   |
-| II\.    | WHAT IS CONSIDERED SUICIDE,                                                                                   | [3](rab01.htm#page_3)   |
-| III\.   | ORDINANCES CONCERNING THE BURIAL OF INFANTS AND MINORS UP TO THE AGE OF SEVEN YEARS,                          | [6](rab02.htm#page_6)   |
-| IV\.    | MOURNING OVER RELATIVES OF THE FIRST AND SECOND DEGREES,                                                      | [12](rab04.htm#page_12) |
-| V.      | REGULATION REGARDING LABOR DURING MOURNING,                                                                   | [18](rab04.htm#page_18) |
-| VI\.    | WHAT A MOURNER MAY AND MAY NOT READ,                                                                          | [23](rab05.htm#page_23) |
-| VII\.   | THE THIRTY DAYS' PERIOD OF MOURNING,                                                                          | [27](rab07.htm#page_27) |
-| VIII\.  | THE EXAMINATION OF THE CORPSE; THE BURIAL OF A BRIDAL COUPLE; THE SAGES THAT WERE EXECUTED BY THE GOVERNMENT, | [30](rab07.htm#page_30) |
-| IX\.    | THE RENDING OF GARMENTS OVER RELATIVES, PARENTS, AND SCHOLARS,                                                | [36](rab08.htm#page_36) |
-| X.      | WHAT AN ONEN MAY AND MAY NOT READ,                                                                            | [45](rab10.htm#page_45) |
-| XI\.    | WHEN SEVERAL DEATHS OCCUR IN A TOWN AT THE SAME TIME WHO MUST BE BURIED FIRST,                                | [48](rab10.htm#page_48) |
-| XII\.   | FROM WHAT DAY THE SEVEN, THIRTY DAYS' MOURNING, ETC., BEGIN TO COUNT,                                         | [51](rab12.htm#page_51) |
-| XIII\.  | THE REMOVAL FROM ONE GRAVE TO ANOTHER,                                                                        | [57](rab12.htm#page_57) |
-| XIV\.   | WHAT MAY AND WHAT MAY NOT BE DONE IN A CEMETERY AND ABOUT THE GRAVES OF FAMILIES,                             | [58](rab13.htm#page_58) |
+| I.      | ORDINANCES REGARDING ONE IN THE STRUGGLE OF DEATH, AND WHEN DEATH OCCURS IN A VILLAGE,                        | [1](rab01.htm#page_1.md)   |
+| II\.    | WHAT IS CONSIDERED SUICIDE,                                                                                   | [3](rab01.htm#page_3.md)   |
+| III\.   | ORDINANCES CONCERNING THE BURIAL OF INFANTS AND MINORS UP TO THE AGE OF SEVEN YEARS,                          | [6](rab02.htm#page_6.md)   |
+| IV\.    | MOURNING OVER RELATIVES OF THE FIRST AND SECOND DEGREES,                                                      | [12](rab04.htm#page_12.md) |
+| V.      | REGULATION REGARDING LABOR DURING MOURNING,                                                                   | [18](rab04.htm#page_18.md) |
+| VI\.    | WHAT A MOURNER MAY AND MAY NOT READ,                                                                          | [23](rab05.htm#page_23.md) |
+| VII\.   | THE THIRTY DAYS' PERIOD OF MOURNING,                                                                          | [27](rab07.htm#page_27.md) |
+| VIII\.  | THE EXAMINATION OF THE CORPSE; THE BURIAL OF A BRIDAL COUPLE; THE SAGES THAT WERE EXECUTED BY THE GOVERNMENT, | [30](rab07.htm#page_30.md) |
+| IX\.    | THE RENDING OF GARMENTS OVER RELATIVES, PARENTS, AND SCHOLARS,                                                | [36](rab08.htm#page_36.md) |
+| X.      | WHAT AN ONEN MAY AND MAY NOT READ,                                                                            | [45](rab10.htm#page_45.md) |
+| XI\.    | WHEN SEVERAL DEATHS OCCUR IN A TOWN AT THE SAME TIME WHO MUST BE BURIED FIRST,                                | [48](rab10.htm#page_48.md) |
+| XII\.   | FROM WHAT DAY THE SEVEN, THIRTY DAYS' MOURNING, ETC., BEGIN TO COUNT,                                         | [51](rab12.htm#page_51.md) |
+| XIII\.  | THE REMOVAL FROM ONE GRAVE TO ANOTHER,                                                                        | [57](rab12.htm#page_57.md) |
+| XIV\.   | WHAT MAY AND WHAT MAY NOT BE DONE IN A CEMETERY AND ABOUT THE GRAVES OF FAMILIES,                             | [58](rab13.htm#page_58.md) |
 
  
 
@@ -57,17 +57,17 @@ those stealing the duties. At what age are poor children to be lamented,
 and at what age rich ones? The funeral meal. At what age is death
 considered Kareth (short life)? The days of sickness. The legend about
 the conversation of the Angel of Death with many of the Amoraim,
-[1](rab01.htm#page_1)-11
+[1](rab01.htm#page_1.md)-11
 
 CHAPTERS IV. and V. Who are considered relatives of the first and second
 degrees? The regulations of an *Onen* (a mourner before the burial of
 the dead), and the period of Aninuth (see Commentary, [p.
-13](rab04.htm#page_13)). Over what relatives priests and. high-priests
+13](rab04.htm#page_13).md). Over what relatives priests and. high-priests
 may defile themselves. The decision of the sages as to the exhumation of
 a body for the purpose of examination as to age, and the reasons
 therefor. For what purposes the high-priest may or may not leave
 Palestine. Who is considered a Meth-Mitzvah (see Commentary, [p.
-17](rab04.htm#page_17)), and what shall be done with him, and how a
+17](rab04.htm#page_17).md), and what shall be done with him, and how a
 Meth-Mitzvah was the incident which caused R. Aqiba to be counted among
 the wise. What work may and what may not be done by a mourner. What must
 be observed during the seven, the thirty days, and during the whole year
@@ -75,7 +75,7 @@ of mourning. The exact periods for weeping, lamenting, not to calender
 clothes, and not to cut the hair, which must not be exceeded. Whence is
 it deduced that mourning lasts for seven days? When one mourning
 succeeds another. The regulations concerning the ban and for how many
-days it shall continue, [12](rab04.htm#page_12)-23
+days it shall continue, [12](rab04.htm#page_12.md)-23
 
 CHAPTERS VI. and VII. What a mourner may read, what clothes he may wash,
 and if he may- or may not wear shoes. When he may leave his house, and
@@ -85,7 +85,7 @@ in detail relating to calendering clothes, cutting the hair, etc., etc.,
 etc., during the thirty days. What happened to Mar Samuel with his
 brother Pin'has during their mourning. The period after which it is
 allowed to remarry after the death of one's wife,
-[23](rab05.htm#page_23)-30
+[23](rab05.htm#page_23.md)-30
 
 <span id="page_iv">p. iv</span>
 
@@ -99,7 +99,7 @@ rend his garments, and the rending of garments over scholars, chiefs of
 a college, etc. When the rent may be mended. The size of the rent. If a
 mourner travels from one place to another. The obligation of lowering
 the couches and when they may be placed in proper condition. The saving
-of the garment which was upon the dead, [30](rab07.htm#page_30)-45
+of the garment which was upon the dead, [30](rab07.htm#page_30.md)-45
 
 CHAPTERS X. to XII. From the performance of what religious duties a
 mourner is exempt. The funeral meal. The standing in line of the
@@ -117,7 +117,7 @@ dead bodies in one grave. The saying of R. Eliezer b. Zadok as to what
 his father commanded him in regard to his burial, and what Abba Saul
 said in his will to his son. When a hearse is used. What Hanina b.
 Teradion did when his son was executed as a robber,
-[45](rab10.htm#page_45)-57
+[45](rab10.htm#page_45.md)-57
 
 CHAPTERS XIII. and XIV. From what religious duties a gatherer of bones
 is exempt. The places in which bones and the Scriptures must be placed
@@ -131,8 +131,8 @@ three different kinds of graves. A cemetery which surrounds the city on
 three sides. The seven standings and sittings after the burial. The ten
 goblets of wine that the sages have ordered in the house of a mourner.
 What shall be said in the fourth meal benediction in the house of a
-mourner? [57](rab12.htm#page_57)-62
+mourner? [57](rab12.htm#page_57.md)-62
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](rab01)
+[Next: Chapter I](rab01.md)

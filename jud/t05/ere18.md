@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ere17)  [Next](ere19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ere17)  [Next](ere19.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-# THE CHAPTER ON PEACE. <span id="fr_7"></span>[1](#fn_7)
+# THE CHAPTER ON PEACE. <span id="fr_7"></span>[1](#fn_7.md)
 
 R. Jehoshua b. Levi said: Great is peace, for it is as the leaven to
 dough. If the Holy One had not given peace to the world, sword and beast
@@ -119,9 +119,9 @@ END OF TRACT DERECH ERETZ--RABBA AND ZUTA.
 
 ### Footnotes
 
-<span id="fn_7"></span>[30:1](ere18.htm#fr_7) This chapter is considered
+<span id="fn_7"></span>[30:1](ere18.htm#fr_7.md) This chapter is considered
 a separate treatise. See Zunz and other bibliographers.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisement at end of Volume](ere19)
+[Next: Advertisement at end of Volume](ere19.md)

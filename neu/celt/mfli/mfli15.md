@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli14)  [Next](mfli16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli14)  [Next](mfli16.md) 
 
 ------------------------------------------------------------------------
 
@@ -720,4 +720,4 @@ we know. We are the luck and they are the winners.
 
 ------------------------------------------------------------------------
 
-[Next: Fin MacCumhail The Seven Brothers and the King of France](mfli16)
+[Next: Fin MacCumhail The Seven Brothers and the King of France](mfli16.md)

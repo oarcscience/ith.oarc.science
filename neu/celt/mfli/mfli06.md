@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli05)  [Next](mfli07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli05)  [Next](mfli07.md) 
 
 ------------------------------------------------------------------------
 
@@ -390,4 +390,4 @@ first.
 ------------------------------------------------------------------------
 
 [Next: The Three Daughters of the King of the East and the Son of a King
-in Erin](mfli07)
+in Erin](mfli07.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico092) 
-[Next](nico094) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico092.md) 
+[Next](nico094.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ stranger, a comrade, and a schoolfellow.
 ------------------------------------------------------------------------
 
 [Next: Chapter 13. Principles of interchange of services (a) in
-friendship between equals](nico094)
+friendship between equals](nico094.md)

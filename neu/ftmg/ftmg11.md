@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg10)  [Next](ftmg12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg10)  [Next](ftmg12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -75,7 +75,7 @@ fell back to let him enter.
 
 <span id="img_08500"></span> <span align="CENTER"> [![He moved solemnly
 to Tasoula's bed and held his cross above her.](tn/08500.jpg)  
-Click to enlarge](img/08500.jpg)  
+Click to enlarge](img/08500.jpg.md)  
 He moved solemnly to Tasoula's bed and held his cross above her.  
 </span>
 
@@ -220,4 +220,4 @@ been more beautiful. We would never have seen her again."
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Haunted Ship](ftmg12)
+[Next: IX. The Haunted Ship](ftmg12.md)

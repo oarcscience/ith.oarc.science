@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut13)  [Next](mdut15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut13)  [Next](mdut15.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ is said.
 
 ------------------------------------------------------------------------
 
-[Next: 13. The Serpent-Lover](mdut15)
+[Next: 13. The Serpent-Lover](mdut15.md)

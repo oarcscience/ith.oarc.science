@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](pray019)  [Next](pray021) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](pray019)  [Next](pray021.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ Textual Heritage
 circumstance of time. Christ enjoins his disciples to have recourse to
 his intercession after he shall have ascended to heaven: "At that day ye
 shall ask in my name" (<span id="iii.xviii-p1.1"></span>[John
-16:26](../../../bib/kjv/joh016.htm#026)<span
+16:26](../../../bib/kjv/joh016.htm#026.md)<span
 id="iii.xviii-p1.1"></span>). It is certain, indeed, that from the very
 first all who ever prayed were heard only for the sake of the Mediator.
 For this reason God had commanded in the Law, that the priest alone
@@ -37,7 +37,7 @@ the saints, when they desired to obtain anything, founded their hopes on
 sacrifices, because they knew that by sacrifice all prayers were
 ratified: " Remember all thy offerings," says David, "and accept thy
 burnt sacrifice" (<span id="iii.xviii-p1.2"></span>[Psalm
-20:3](../../../bib/kjv/psa020.htm#003)<span
+20:3](../../../bib/kjv/psa020.htm#003.md)<span
 id="iii.xviii-p1.2"></span>). Hence we infer, that in receiving the
 prayers of his people, God was from the very first appeased by the
 intercession of Christ. Why then does Christ speak of a new period ("at
@@ -56,12 +56,12 @@ intercession they should invoke God with greater freedom. In this sense
 the Apostle says that we have "boldness to enter into the holiest by the
 blood of Jesus, by a new and living way, which he hath consecrated for
 us" (<span id="iii.xviii-p1.3"></span>[Heb.
-10:19](../../../bib/kjv/heb010.htm#019),
-[20](../../../bib/kjv/heb010.htm#020)<span id="iii.xviii-p1.3"></span>).
+10:19](../../../bib/kjv/heb010.htm#019.md),
+[20](../../../bib/kjv/heb010.htm#020)<span id="iii.xviii-p1.3"></span>.md).
 Therefore, the more inexcusable we are, if we do not with both hands (as
 it is said) embrace the inestimable gift which is properly destined for
 us.
 
 ------------------------------------------------------------------------
 
-[Next: 19.](pray021)
+[Next: 19.](pray021.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec06)  [Next](aec08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec06)  [Next](aec08.md) 
 
 ------------------------------------------------------------------------
 
@@ -334,4 +334,4 @@ accepted by all men.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Mystery of Suffering](aec08)
+[Next: V. The Mystery of Suffering](aec08.md)

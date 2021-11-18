@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca16)  [Next](fsca18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca16)  [Next](fsca18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -124,10 +124,10 @@ founder of the West Saxon kingdom, slew there Naud, the pendragon, with
 
 |                                                              |
 |--------------------------------------------------------------|
-| ![Dragon Standard. From the Bayeux Tapestry.](img/08600.jpg) |
+| ![Dragon Standard. From the Bayeux Tapestry.](img/08600.jpg.md) |
 
 Naud is called Natan-leod, a corruption of Naud-an-ludh; Naud, the
-people's refuge. <span id="fr_6"></span>[\*](#fn_6)
+people's refuge. <span id="fr_6"></span>[\*](#fn_6.md)
 
 "It has sometimes been thought," says Miss Millington, "that the royal
 Saxon banner bore a dragon; certain it is, that on the Bayeux tapestry a
@@ -255,7 +255,7 @@ id="img_09000"></span>
 
 |                                     |
 |-------------------------------------|
-| ![A Dragon passant.](img/09000.jpg) |
+| ![A Dragon passant.](img/09000.jpg.md) |
 
 who could not achieve their rescue until they had overcome their
 terrible guardians." The common heraldic signification of a dragon is
@@ -281,9 +281,9 @@ of Wales (*y Ddraig Coch*) described as:
 
 ### Footnotes
 
-<span id="fn_6"></span>[86:\*](fsca17.htm#fr_6) Brewer's "Dictionary of
+<span id="fn_6"></span>[86:\*](fsca17.htm#fr_6.md) Brewer's "Dictionary of
 Phrase and Fable."
 
 ------------------------------------------------------------------------
 
-[Next: The Crocodile as the Prototype of the Dragon](fsca18)
+[Next: The Crocodile as the Prototype of the Dragon](fsca18.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft27)  [Next](meft29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft27)  [Next](meft29.md) 
 
 ------------------------------------------------------------------------
 
@@ -267,4 +267,4 @@ brains again, for his wife had enough for both.
 
 ------------------------------------------------------------------------
 
-[Next: The King of England and his Three Sons](meft29)
+[Next: The King of England and his Three Sons](meft29.md)

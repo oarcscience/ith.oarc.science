@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac22)  [Next](sac24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac22)  [Next](sac24.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ red fruits gleams among the foliage, each berry having the form of a
 tiny apple, and containing a little core and seeds within."
 
 At Christiania the mean of ten years’ flowering is given by Professor
-Schübeler <span id="fr_40"></span>[1](#fn_40) as—first flowers, June 19;
+Schübeler <span id="fr_40"></span>[1](#fn_40.md) as—first flowers, June 19;
 general flowering, June 30. This, then, is later than in Britain. On
 high grounds the fruit is conspicuous here on November 1; on lower
 levels the birds attack it and reduce its striking appearance before
@@ -91,7 +91,7 @@ is the Hawthorn, Whitethorn or "May" (*Crategus oxyocantha*), which also
 flowers at the beginning of May, while its berries or "haws," like those
 of the Rowan, are conspicuous in November. We see, then, that there is a
 most obvious reason in this for the association of the two trees.
-According to Rhys, <span id="fr_41"></span>[2](#fn_41) the English
+According to Rhys, <span id="fr_41"></span>[2](#fn_41.md) the English
 
 <span id="page_203">p. 203</span>
 
@@ -122,10 +122,10 @@ the things we have still with us, the trees and flowers; and it is in
 connection with this. side of the worship that most information is
 available. From the facts I have already stated, for Britain the Rowan
 and Hawthorn were most naturally, selected as the typical forms. <span
-id="fr_42"></span>[1](#fn_42)
+id="fr_42"></span>[1](#fn_42.md)
 
 Many poets have written of this festival <span
-id="fr_43"></span>[2](#fn_43) Chaucer,
+id="fr_43"></span>[2](#fn_43.md) Chaucer,
 
 <span id="page_204">p. 204</span>
 
@@ -159,7 +159,7 @@ formed a part, may be summed up as follows:—
 
  
 
-1\. Lighting of bonfires, <span id="fr_44"></span>[1](#fn_44) and, in
+1\. Lighting of bonfires, <span id="fr_44"></span>[1](#fn_44.md) and, in
 the evening, houses
 
 <span id="page_205">p. 205</span>
@@ -249,7 +249,7 @@ were worn about the person. In an old song called "Laidley Wood," in the
  Where there is Rown-tree wood."
 
 Rhys, referring to May Day customs in the Isle of Man, writes <span
-id="fr_45"></span>[1](#fn_45): "This was a day when systematic efforts
+id="fr_45"></span>[1](#fn_45.md): "This was a day when systematic efforts
 were made to protect man and beast against elves, and witches; for it
 was then that people carried, crosses of rowan: in their hats and placed
 may-flowers over the tops of their doors and elsewhere as preservatives
@@ -259,7 +259,7 @@ crosses which had to be made without. the help of a knife."
 
 In connection with this last reference, Rhys, quotes a passage showing
 that a similar thing is done in Wales on May Eve. <span
-id="fr_46"></span>[2](#fn_46) "Another bad papistic habit which prevails
+id="fr_46"></span>[2](#fn_46.md) "Another bad papistic habit which prevails
 among some Welsh people is that of placing some of the wood of the
 rowan-tree (*coed cerdin* or criafol) in their corn lands (*ttafyrieu*)
 and their fields on May eve (*Nos Glamau*) with the idea that such a
@@ -270,7 +270,7 @@ custom brings a blessing on their fields, a proceeding
 which would better become atheists and pagans than Christians."
 
 Rhys also tells us that in Lincolnshire, <span
-id="fr_47"></span>[1](#fn_47) "a twig of the rowan-tree, or wicken, as
+id="fr_47"></span>[1](#fn_47.md) "a twig of the rowan-tree, or wicken, as
 it is called, was effective against all evil things, including witches.
 It is useful in many ways to guard the welfare of the household, and to
 preserve both the live stock and the crops; while placed on the churn it
@@ -314,7 +314,7 @@ exactly the same manner; indeed, it was to the later Solstitial worship
 what, the Rowan and Maythorn were to the earlier May worship.
 
 Mr. Frazer has collected in his *Golden Bough* <span
-id="fr_48"></span>[1](#fn_48) much information bearing on these points.
+id="fr_48"></span>[1](#fn_48.md) much information bearing on these points.
 
 In Sweden, on Midsummer Eve, Mistletoe is sought after, the people
 "believing it to be, in a high degree, possessed of mystic qualities;
@@ -367,12 +367,12 @@ be considered. It is probable that the Rowan-tree was chiefly taken here
 as the representative of the ash in more southern and eastern lands, and
 the ash indeed did not always take second rank, especially in the
 worship connected with wells, as we shall see. Grimm <span
-id="fr_49"></span>[1](#fn_49) calls the ash "a world tree which links
+id="fr_49"></span>[1](#fn_49.md) calls the ash "a world tree which links
 heaven, earth and hell together; of all trees the greatest and holiest."
 
 In the same way at the later established Vernal Equinox festival, the
 palm which grows in lower latitudes was replaced here by the willow:
-Coles, in his *Adam in Eden*, <span id="fr_50"></span>[2](#fn_50)
+Coles, in his *Adam in Eden*, <span id="fr_50"></span>[2](#fn_50.md)
 writes: "The willow blossoms come forth before any leaves appear, and
 are in their most flourishing state usually before Easter, divers
 gathering them to deck up their houses on Palm Sunday, and therefore the
@@ -404,7 +404,7 @@ early stages of civilisation.
 
 Indeed, these magical practices seem to have taken such firm root that
 it was difficult to get rid of them even in much later times.
-Newton <span id="fr_51"></span>[1](#fn_51) writes: "I once knew a
+Newton <span id="fr_51"></span>[1](#fn_51.md) writes: "I once knew a
 foolish cock-brained priest which ministered to a certaine young man the
 ashes of boxe, being (forsooth) hallowed on Palme Sunday, according to
 the superstitious order and doctrine of the Romish Church, which ashes
@@ -422,19 +422,19 @@ out on May morning for this purpose.
 
 ### Footnotes
 
-<span id="fn_40"></span>[202:1](sac23.htm#fr_40) Schübeler, *Die
+<span id="fn_40"></span>[202:1](sac23.htm#fr_40.md) Schübeler, *Die
 Pflanzenwelt Norwegens*, Christiania, 1873-75, P. 439.
 
-<span id="fn_41"></span>[202:2](sac23.htm#fr_41) *Hibbert Lecture*s, p.
+<span id="fn_41"></span>[202:2](sac23.htm#fr_41.md) *Hibbert Lecture*s, p.
 358.
 
-<span id="fn_42"></span>[203:1](sac23.htm#fr_42) The Rowan had to be cut
+<span id="fn_42"></span>[203:1](sac23.htm#fr_42.md) The Rowan had to be cut
 on Ascension Day, *Golden Bough*, III, p. 448.
 
-<span id="fn_43"></span>[203:2](sac23.htm#fr_43) *Pratt's British
+<span id="fn_43"></span>[203:2](sac23.htm#fr_43.md) *Pratt's British
 Flowering Plants*, vol. 2, p. 266.
 
-<span id="fn_44"></span>[204:1](sac23.htm#fr_44) The word bonfire,
+<span id="fn_44"></span>[204:1](sac23.htm#fr_44.md) The word bonfire,
 according to the Century Dictionary, comes from the "early modern
 English, boonfire, bondfire, bounfire, later burnfire; Scotch, banefire;
 the earliest known instance is banefyre, 'ignis ossium,' in the
@@ -445,26 +445,26 @@ Hence the word seems formerly to have meant a fire of bones; a funeral
 pile, a pyre. And it has gradually developed into a fire out in the
 open, whatever its object.
 
-<span id="fn_45"></span>[207:1](sac23.htm#fr_45) *Celtic Folklore*, vol.
+<span id="fn_45"></span>[207:1](sac23.htm#fr_45.md) *Celtic Folklore*, vol.
 i. p. 308.
 
-<span id="fn_46"></span>[207:2](sac23.htm#fr_46) Vol. ii p. 691.
+<span id="fn_46"></span>[207:2](sac23.htm#fr_46.md) Vol. ii p. 691.
 
-<span id="fn_47"></span>[208:1](sac23.htm#fr_47) *Celtic Folklore*, vol.
+<span id="fn_47"></span>[208:1](sac23.htm#fr_47.md) *Celtic Folklore*, vol.
 i. p. 325.
 
-<span id="fn_48"></span>[209:1](sac23.htm#fr_48) Second Edition, vol.
+<span id="fn_48"></span>[209:1](sac23.htm#fr_48.md) Second Edition, vol.
 iii. pp. 343 *et seq*.
 
-<span id="fn_49"></span>[211:1](sac23.htm#fr_49) *Teutonic Mythology*,
+<span id="fn_49"></span>[211:1](sac23.htm#fr_49.md) *Teutonic Mythology*,
 Stallybrass's translation, ii. 796.
 
-<span id="fn_50"></span>[211:2](sac23.htm#fr_50) Quoted by Hazlitt under
+<span id="fn_50"></span>[211:2](sac23.htm#fr_50.md) Quoted by Hazlitt under
 Palm Sunday.
 
-<span id="fn_51"></span>[212:1](sac23.htm#fr_51) *Herbal for the Bible*,
+<span id="fn_51"></span>[212:1](sac23.htm#fr_51.md) *Herbal for the Bible*,
 p. 207.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. Holy Wells And Streams](sac24)
+[Next: Chapter XXI. Holy Wells And Streams](sac24.md)

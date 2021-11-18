@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw47)  [Next](omw49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw47)  [Next](omw49.md) 
 
 ------------------------------------------------------------------------
 
@@ -226,4 +226,4 @@ of Midir's son. Now we ride back to the Land of the Ever-living."
 
 ------------------------------------------------------------------------
 
-[Next: The Voyage of Bran to the Land of the Immortals](omw49)
+[Next: The Voyage of Bran to the Land of the Immortals](omw49.md)

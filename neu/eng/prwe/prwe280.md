@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe279)  [Next](prwe281) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe279)  [Next](prwe281.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ all events, turn their money.
 
 ------------------------------------------------------------------------
 
-[Next: Looking-Glasses](prwe281)
+[Next: Looking-Glasses](prwe281.md)

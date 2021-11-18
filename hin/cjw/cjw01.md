@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw00)  [Next](cjw02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw00)  [Next](cjw02.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_jacket"></span>
 
 [![Inner Dust Jacket](tn/jacket.jpg)  
-Click to enlarge](img/jacket.jpg)  
+Click to enlarge](img/jacket.jpg.md)  
 Inner Dust Jacket  
 
 *Front*
@@ -63,7 +63,7 @@ occultism.
 <span id="img_bcover"></span>
 
 [![Back Cover](tn/bcover.jpg)  
-Click to enlarge](img/bcover.jpg)  
+Click to enlarge](img/bcover.jpg.md)  
 Back Cover  
 
 ### BACK COVER
@@ -127,4 +127,4 @@ PASADENA 15</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Preface](cjw02)
+[Next: Preface](cjw02.md)

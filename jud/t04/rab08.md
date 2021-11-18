@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab07)  [Next](rab09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab07)  [Next](rab09.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -16,7 +16,7 @@ A. During three days before the interment, experts repair to the
 cemetery and examine the dead whether they are really dead; \[and
 although this is the custom of other nations\], there is no fear of the
 prohibition of the deeds of the Amorites. <span
-id="fr_87"></span>[A1](#fn_87) It happened that one of the dead was
+id="fr_87"></span>[A1](#fn_87.md) It happened that one of the dead was
 examined (and found alive), and he lived twenty-five years after that;
 and to another one, that he begat five children before he died.
 
@@ -26,9 +26,9 @@ Meir. R. Jehudah, however, said: Only unripe things-viz., unripe nuts,
 unripe χαλλοξ, tongus of purple, and flasks of Arabian oil; but not when
 they are ripe, nor ripe pomegranates, nor flasks of sweet oil, as
 whatever hangs on the canopy, no benefit may be derived from it. <span
-id="fr_88"></span>[B1](#fn_88) Strings of fish, pieces of meat, may be
+id="fr_88"></span>[B1](#fn_88.md) Strings of fish, pieces of meat, may be
 thrown before the dead bridegroom or bride in the summer, <span
-id="fr_89"></span>[B2](#fn_89) but not in rain time; and even during
+id="fr_89"></span>[B2](#fn_89.md) but not in rain time; and even during
 
 <span id="page_31">p. 31</span>
 
@@ -40,7 +40,7 @@ There is a rule that anything which may be spoiled must not be thrown.
 C. Likewise wine and oil may be put in a water pipe in honor of live
 bridegrooms and brides. As it happened to Jehudah and Hillel the sons of
 R. Gamaliel, when they were the guests of Ben Zakkai in Babylon, <span
-id="fr_90"></span>[C1](#fn_90) the townspeople flooded the water pipes
+id="fr_90"></span>[C1](#fn_90.md) the townspeople flooded the water pipes
 with wine and oil to honor them. Also the bodies of kings, and their
 clothes may be burned, their cattle ham-stringed, without fear that it
 is after the usages of the Amorites. The ceremony of burning clothes and
@@ -50,7 +50,7 @@ burned in his honor clothes of the value of eight thousand Zuz, and when
 he was asked why he did so, he answered: It is written \[Jerem. xxxiv.
 5\]: "In peace shalt thou die; and as burnings were made for thy
 father," etc. Was not Rabban Gamaliel more worthy than a hundred kings,
-for whom we have no use? <span id="fr_91"></span>[C2](#fn_91)
+for whom we have no use? <span id="fr_91"></span>[C2](#fn_91.md)
 
 D. The hair of a dead bride may be loosened; and the face of a
 bridegroom may be uncovered, and the marriage contract and the pen may
@@ -121,7 +121,7 @@ consume another? The parchment only is burned, but the letters fly away.
 Thou must also know that the great servants of the king are mostly
 beaten through the lesser, as it is written \[Hosea, vi. 5\]: "Therefore
 did I hew (them) down by means of the prophets, I slew them by the work
-of my mouth." <span id="fr_92"></span>[G1](#fn_92)
+of my mouth." <span id="fr_92"></span>[G1](#fn_92.md)
 
 H. R. Aqiba said: There is a king who has four sons. One is struck and
 is silent; the second rebels; the third prays for mercy; and the fourth
@@ -137,14 +137,14 @@ know for what cause thou contendest against me." Hezekiah was struck,
 and he prayed for mercy, as it is written \[II Kings, xix. 15\]: "And
 Hezekiah prayed before the Lord," etc. According to others, even
 Hezekiah rebelled, because he said: "Did I not do what is good in thy
-eyes?" \[ibid. xx. 3\]. <span id="fr_93"></span>[H1](#fn_93) But David
+eyes?" \[ibid. xx. 3\]. <span id="fr_93"></span>[H1](#fn_93.md) But David
 is the one who said to his father: Strike me (because I am deserving),
 as it is written \[Psalms, li. 4\]: "Wash me thoroughly from my
 iniquity, and cleanse me from my sin."
 
 I. The study of the Torah must not be interrupted till the soul is out
 of the dying one. When R. Simeon the son of R. Aqiba was ill, <span
-id="fr_94"></span>[I1](#fn_94) he (R. Aqiba) did not absent himself from
+id="fr_94"></span>[I1](#fn_94) he (R. Aqiba.md) did not absent himself from
 the college, but inquired about him through messengers. The first
 
 <span id="page_34">p. 34</span>
@@ -214,7 +214,7 @@ will this people rise up and go astray." The paragraphs of the
 blasphemer and the violator of Sabbath would have been written even if
 the blasphemer and the stick-gatherer should not have existed. Israel
 was destined to be slain by the sword, even if the persecutors <span
-id="fr_95"></span>[L1](#fn_95) at different times should not have
+id="fr_95"></span>[L1](#fn_95.md) at different times should not have
 existed, as it is written \[Amos, ix. 10\]: "By the sword shall die all
 the sinners of my people." Jerusalem would have been destroyed also,
 without Nebuchadnezzar and his associates, as it is written \[Micah,
@@ -270,16 +270,16 @@ to be perfect before the Holy One, blessed be He?
 
 ### Footnotes
 
-<span id="fn_87"></span>[30:A1](rab08.htm#fr_87)
+<span id="fn_87"></span>[30:A1](rab08.htm#fr_87.md)
 
 ### CHAPTER VIII.
 
 A. Lev. xviii. 3.
 
-<span id="fn_88"></span>[30:B1](rab08.htm#fr_88) *B*. Therefore only
+<span id="fn_88"></span>[30:B1](rab08.htm#fr_88.md) *B*. Therefore only
 unripe things were allowed, lest one should use them if they were ripe.
 
-<span id="fn_89"></span>[30:B2](rab08.htm#fr_89) It must have been a
+<span id="fn_89"></span>[30:B2](rab08.htm#fr_89.md) It must have been a
 custom at that time to throw some things which were prepared for the
 wedding feast. It is certainly difficult to explain, without a
 particular knowledge of this obsolete custom. Naumburg, however,
@@ -288,30 +288,30 @@ not agree with him, for the reason that this is not mentioned in
 Berachoth, where it is enumerated what is to be done to honor the bride
 and bridegroom.
 
-<span id="fn_90"></span>[31:C1](rab08.htm#fr_90) *C*. These were Jehudah
+<span id="fn_90"></span>[31:C1](rab08.htm#fr_90.md) *C*. These were Jehudah
 the second and Hillel his brother the grandsons of Rabbi; and b. Zakkai
 must have been a prominent person in Babylon.
 
-<span id="fn_91"></span>[31:C2](rab08.htm#fr_91) In Abodah Zarah, 11*a*,
+<span id="fn_91"></span>[31:C2](rab08.htm#fr_91.md) In Abodah Zarah, 11*a*,
 is stated that burning of clothes was also done for princes, and
 Aquilas' deed was used as a support without any explanation.
 
-<span id="fn_92"></span>[33:G1](rab08.htm#fr_92) *G*. This is Leeser's
+<span id="fn_92"></span>[33:G1](rab08.htm#fr_92.md) *G*. This is Leeser's
 translation, but the Talmud takes it literally--that the prophets were
 slain through the sin of Israel.
 
-<span id="fn_93"></span>[33:H1](rab08.htm#fr_93) *H*. It means that this
+<span id="fn_93"></span>[33:H1](rab08.htm#fr_93.md) *H*. It means that this
 expression is a protest against his affliction, as it was not proper to
 remind the Lord of His good deeds.
 
-<span id="fn_94"></span>[33:I1](rab08.htm#fr_94) *I*. See above, p. 18.
+<span id="fn_94"></span>[33:I1](rab08.htm#fr_94.md) *I*. See above, p. 18.
 The entire occurrence is repeated here at length, with some changes;
 therefore we leave it as it is in both places.
 
-<span id="fn_95"></span>[35:L1](rab08.htm#fr_95) *L*. In Yalkut is
+<span id="fn_95"></span>[35:L1](rab08.htm#fr_95.md) *L*. In Yalkut is
 mentioned Balaam instead of persecutors, but it seems to us to be proper
 as explained here.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](rab09)
+[Next: Chapter IX](rab09.md)

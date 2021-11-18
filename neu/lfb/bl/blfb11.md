@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb10)  [Next](blfb12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb10)  [Next](blfb12.md) 
 
 </div>
 
@@ -115,6 +115,6 @@ both hands and tore himself in two.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Beauty and the Beast](blfb12)
+[Next: Beauty and the Beast](blfb12.md)
 
 </div>

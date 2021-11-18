@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Next](ait01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Next](ait01.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,27 +40,27 @@ copies.
 <span id="img_cover"></span>
 
 [![Front Cover and Spine](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover and Spine  
 
 <span id="img_front"></span>
 
 [![“Once he found a water-lily with a leaf so broad that it made a
 petticoat for his wife”](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 “Once he found a water-lily with a leaf so broad that it made a
 petticoat for his wife”  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_verso"></span>
 
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 
 COPYRIGHT, 1895  
@@ -77,4 +77,4 @@ AFFECTIONATELY DEDICATED.
 
 ------------------------------------------------------------------------
 
-[Next: Author's Note](ait01)
+[Next: Author's Note](ait01.md)

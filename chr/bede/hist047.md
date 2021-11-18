@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist046) 
-[Next](hist048) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist046.md) 
+[Next](hist048.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ goodwill with which it is sent by us.
 ------------------------------------------------------------------------
 
 [Next: XII. How Edwin was persuaded to believe by a vision which he had
-once seen when he was in exile. \[Circ. 616 A.D.\]](hist048)
+once seen when he was in exile. \[Circ. 616 A.D.\]](hist048.md)

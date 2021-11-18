@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa04)  [Next](smoa06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa04)  [Next](smoa06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -184,7 +184,7 @@ mocked, again I speak, the artists wondrous skill.
 
 For, life imbued, the smallest creeping thing is fraught with beauty in
 comparison with modeled clay or stroke of brush by man. Those courts
-held vases of the beaten stuff <span id="fr_5"></span>[\*](#fn_5) ye
+held vases of the beaten stuff <span id="fr_5"></span>[\*](#fn_5.md) ye
 coin, and barter, not "for good of soul," and crystal basins held the
 bloom of rose, or pungent dust that cast sweet breath around, and tiny
 trees sprang up, as Nature there had placed, in basket rooted in rich
@@ -281,9 +281,9 @@ unto others.
 
 ### Footnotes
 
-<span id="fn_5"></span>[35:\*](smoa05.htm#fr_5) Gold.
+<span id="fn_5"></span>[35:\*](smoa05.htm#fr_5.md) Gold.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter IV. Institutions for the training of youth. Music. Arts.
-Industries. Some customs. Food.](smoa06)
+Industries. Some customs. Food.](smoa06.md)

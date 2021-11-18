@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs31) [Next](hbs33)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs31) [Next](hbs33.md)
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Sagas](../index) [Index](index) [Previous](hbs31) [Next](hbs33)
 
 ------------------------------------------------------------------------
 
-[Next](hbs33)
+[Next](hbs33.md)
 
  
 

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg04)  [Next](ttg06) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg04)  [Next](ttg06.md) 
 
 ------------------------------------------------------------------------
 
@@ -250,4 +250,4 @@ this magic, but started back through the night to catch him.
 ------------------------------------------------------------------------
 
 [Next: Fifth Goblin: The Brave Man, the Wise Man, and the Clever Man. To
-which should the girl be given?](ttg06)
+which should the girl be given?](ttg06.md)

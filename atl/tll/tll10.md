@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll09)  [Next](tll11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll09)  [Next](tll11.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ in the consideration of the subject.
 
 ------------------------------------------------------------------------
 
-[Next: Processes of Reproduction](tll11)
+[Next: Processes of Reproduction](tll11.md)

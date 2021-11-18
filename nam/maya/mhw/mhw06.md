@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](mhw00)  [Next](mhwap1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](mhw00)  [Next](mhwap1.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -273,7 +273,7 @@ Gates has pointed out, it is impossible to derive uinal directly from u,
 moon. Gates (1931, p. 90) seems to suggest that uinal is a contraction
 of *uinicil* or *uinical*, "manhood," but the trouble there is that
 *uinal* is a Yucatec word, whereas *uinical* is highland.
-[Furthermore](errata.htm#0), as we have seen, *uinic* survives in
+[Furthermore](errata.htm#0.md), as we have seen, *uinic* survives in
 Yucatec for a count of 20 cords. That being the case, it is most
 improbable that it would be changed to *uinal* to denote 20 days. It
 seems much more probable, therefore, that *uinal* is the Yucatec word
@@ -1115,7 +1115,7 @@ so as to obtain a LC position in the following way:
 | A   | 13.0.0.0.0        | Base. Last creation of world?                                   |
 | B   | <u> 7.0.0.0.0</u> | Theoretical passage of time.                                    |
 | C   | 7.0.0.0.0         | Inauguration of CR.                                             |
-| D   | <u>   5.0.0.0</u> | Time elapsed between [inauguration](errata.htm#1) of CR and IS. |
+| D   | <u>   5.0.0.0</u> | Time elapsed between [inauguration](errata.htm#1.md) of CR and IS. |
 | E   | 7.5.0.0.0         | Inauguration of LC.                                             |
 
 </div>
@@ -1493,4 +1493,4 @@ of beauty.
 ------------------------------------------------------------------------
 
 [Next: Appendix I. Divinatory Almanacs in the Books of Chilam
-Balam](mhwap1)
+Balam](mhwap1.md)

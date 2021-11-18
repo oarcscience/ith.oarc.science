@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mab17)  [Next](mab19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mab17)  [Next](mab19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001W0Z8PY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mabinogion*, tr. by Lady Charlotte Guest, \[1877\], at Intangible
 Textual Heritage
 
@@ -22,10 +22,10 @@ Textual Heritage
 
 # THE DREAM OF RHONABWY
 
-Madawc the son of Maredudd [299a](mab19.htm#xref_299a) possessed Powys
-within its boundaries [299b](mab19.htm#xref_299b), from Porfoed to
+Madawc the son of Maredudd [299a](mab19.htm#xref_299a.md) possessed Powys
+within its boundaries [299b](mab19.htm#xref_299b.md), from Porfoed to
 Gwauan in the uplands of Arwystli. And at that time he had a brother,
-Iorwerth the son of Maredudd [299c](mab19.htm#xref_299c), in rank not
+Iorwerth the son of Maredudd [299c](mab19.htm#xref_299c.md), in rank not
 equal to himself. And Iorwerth had great sorrow and heaviness because of
 the honour and power that his brother enjoyed, which he shared not. And
 he sought his fellows and his foster-brothers, and took counsel with
@@ -43,15 +43,15 @@ each of the three Commots of Powys to seek for him. And thus did they in
 <span id="page_300">p. 300</span>
 
 the plains of Powys from Aber Ceirawc, and in Allictwn Ver, and in Rhyd
-Wilure [300a](mab19.htm#xref_300a), on the Vyrnwy, the three best
+Wilure [300a](mab19.htm#xref_300a.md), on the Vyrnwy, the three best
 Commots of Powys. So he was none the better, he nor his household, in
 Powys, nor in the plains thereof. And they spread these men over the
 plains as far as Nillystwn Trevan.
 
 Now one of the men who was upon this quest was called Rhonabwy. And
 Rhonabwy and Kynwrig Vrychgoch, a man of
-Mawddwy [300b](mab19.htm#xref_300b), and Cadwgan Vras, a man of Moelvre
-in Kynlleith [300c](mab19.htm#xref_300c), came together to the house of
+Mawddwy [300b](mab19.htm#xref_300b.md), and Cadwgan Vras, a man of Moelvre
+in Kynlleith [300c](mab19.htm#xref_300c.md), came together to the house of
 Heilyn Goch the son of Cadwgan the son of Iddon. And when they came near
 to the house, they saw an old hall, very black and having an upright
 gable, whence issued a great smoke; and on entering, they found the
@@ -94,7 +94,7 @@ stretched out on the floor. And there he slept.
 
 As soon as sleep had come upon his eyes, it seemed to him that he was
 journeying with his companions across the plain of
-Argyngroeg [301a](mab19.htm#xref_301a), and he thought that he went
+Argyngroeg [301a](mab19.htm#xref_301a.md), and he thought that he went
 towards Rhyd y Groes on the Severn. As he journeyed, he heard a mighty
 noise, the like whereof heard he never before; and looking behind him,
 he beheld a youth with yellow curling hair, and with his beard newly
@@ -120,10 +120,10 @@ mercy upon me, tell me also who thou art," said Rhonabwy. "I will not
 conceal my lineage from thee, I am Iddawc the son of Mynyo, yet not by
 my name, but by my nickname am I best known." "And wilt thou tell us
 what thy nickname is?" "I will tell you; it is Iddawc Cordd
-Prydain [302a](mab19.htm#xref_302a)." "Ha, chieftain," said Rhonabwy,
+Prydain [302a](mab19.htm#xref_302a.md)." "Ha, chieftain," said Rhonabwy,
 "why art thou called thus?" "I will tell thee. I was one of the
 messengers between Arthur and Medrawd his nephew, at the battle of
-Camlan [302b](mab19.htm#xref_302b); and I was then a reckless youth, and
+Camlan [302b](mab19.htm#xref_302b.md); and I was then a reckless youth, and
 through my desire for battle, I kindled strife between them, and stirred
 up wrath, when I was sent by Arthur the Emperor to reason with Medrawd,
 and to show him, that he was his foster-father and his uncle, and to
@@ -215,28 +215,28 @@ horse's head round towards his army.
 
 "Iddawc," said Rhonabwy, "who was yonder knight?" "The most eloquent and
 the wisest youth that is in this island; Adaon, the son of
-Taliesin [304a](mab19.htm#xref_304a)." "Who was the man that struck his
-horse?" "A youth of froward nature; Elphin [304b](mab19.htm#xref_304b),
+Taliesin [304a](mab19.htm#xref_304a.md)." "Who was the man that struck his
+horse?" "A youth of froward nature; Elphin [304b](mab19.htm#xref_304b.md),
 the son of Gwyddno."
 
 Then spake a tall and stately man, of noble and flowing speech, saying
 that it was a marvel that so vast a host should be assembled in so
 narrow a space, and that it was a still greater marvel that those should
 be there at that time who had promised to be by mid-day in the battle of
-Badon [304c](mab19.htm#xref_304c), fighting with Osla
-Gyllellvawr [304d](mab19.htm#xref_304d). "Whether thou mayest choose to
+Badon [304c](mab19.htm#xref_304c.md), fighting with Osla
+Gyllellvawr [304d](mab19.htm#xref_304d.md). "Whether thou mayest choose to
 
 <span id="page_305">p. 305</span>
 
 proceed or not, I will proceed." "Thou sayest well," said Arthur, "and
 we will go altogether." "Iddawc," said Rhonabwy, "who was the man who
 spoke so marvellously unto Arthur erewhile?" "A man who may speak as
-boldly as he listeth, Caradawc Vreichvras [305a](mab19.htm#xref_305a),
+boldly as he listeth, Caradawc Vreichvras [305a](mab19.htm#xref_305a.md),
 the son of Llyr Marini, his chief counsellor and his cousin."
 
 Then Iddawc took Rhonabwy behind him on his horse, and that mighty host
 moved forward, each troop in its order, towards
-Cevndigoll [305b](mab19.htm#xref_305b). And when they came to the middle
+Cevndigoll [305b](mab19.htm#xref_305b.md). And when they came to the middle
 of the ford of the Severn, Iddawc turned his horse's head, and Rhonabwy
 looked along the valley of the Severn. And he beheld two fair troops
 coming towards the ford. One troop there came of brilliant white,
@@ -247,7 +247,7 @@ And their banners were pure white, with black points to them all.
 
 "Iddawc," said Rhonabwy, "who are yonder pure white troop?" "They are
 the men of Norway, and March the son of
-Meirchion [305c](mab19.htm#xref_305c) is their prince. And he is cousin
+Meirchion [305c](mab19.htm#xref_305c.md) is their prince. And he is cousin
 unto Arthur." And further on he saw a troop, whereof each man wore
 garments of jet-black, with borders of pure white to every scarf; and
 the tops of the shoulders and the knees of their horses were pure white.
@@ -278,7 +278,7 @@ the centre flee to the side, from the shock of his horse. And this is
 the cause of the confusion of the host."
 
 Thereupon they heard a call made for Kadwr, Earl of
-Cornwall [306a](mab19.htm#xref_306a), and behold he arose with the sword
+Cornwall [306a](mab19.htm#xref_306a.md), and behold he arose with the sword
 of Arthur in his hand. And the similitude of two serpents was upon the
 sword in gold. And when the sword was drawn from its scabbard, it seemed
 as if two flames of fire burst forth from the jaws of the serpents, and
@@ -450,13 +450,13 @@ crimson-red, in his head. And the knight came, bearing in his hand a
 <span id="page_311">p. 311</span>
 
 thick ashen lance, the head whereof, which had been newly steeped in
-blood, was overlaid with silver [311a](mab19.htm#xref_311a).
+blood, was overlaid with silver [311a](mab19.htm#xref_311a.md).
 
 And the youth saluted the Emperor: "Lord," said he, "carest thou not for
 the slaying of thy pages, and thy young men, and the sons of the nobles
 of the Island of Britain, whereby it will be difficult to defend this
 island from henceforward for ever?" "Owain," said Arthur, "forbid thy
-Ravens [311b](mab19.htm#xref_311b)." "Play this game, Lord," said Owain.
+Ravens [311b](mab19.htm#xref_311b.md)." "Play this game, Lord," said Owain.
 
 So they finished the game and began another; and as they were finishing
 that game, lo, they heard a great tumult and a clamour of armed men, and
@@ -494,8 +494,8 @@ Then Rhonabwy inquired of Iddawc who were the first three men that came
 to Owain, to tell him his Ravens were being slain. Said Iddawc, "They
 were men who grieved that Owain should suffer loss, his
 fellow-chieftains and companions, Selyv the son of Kynan
-Garwyn [312a](mab19.htm#xref_312a) of Powys, and Gwgawn
-Gleddyvrudd [312b](mab19.htm#xref_312b), and Gwres the son of Rheged, he
+Garwyn [312a](mab19.htm#xref_312a.md) of Powys, and Gwgawn
+Gleddyvrudd [312b](mab19.htm#xref_312b.md), and Gwres the son of Rheged, he
 who bears the banner in the day of battle and strife." "Who," said
 Rhonabwy, "were the last three men who came to Arthur, and told him that
 the Ravens were slaughtering his men?" "The best of men," said Iddawc,
@@ -510,14 +510,14 @@ curly-headed man was a little way off, and there he assembled his
 counsellors. Bedwini, the Bishop, and Gwarthegyd the son of Kaw, and
 March the son of Meirchawn, and Caradawc Vreichvras, and Gwalchmai the
 son of Gwyar, and Edeyrn the son of Nudd, and Rhuvawn Pebyr the son of
-Prince Deorthach, and Rhiogan [312c](mab19.htm#xref_312c) the son of the
+Prince Deorthach, and Rhiogan [312c](mab19.htm#xref_312c.md) the son of the
 King of Ireland, and Gwenwynwyn the son of Nav, Howel the son of Emyr
 Llydaw, Gwilym the son of Rhwyf Freinc, and Daned the son of Ath, and
 Goreu Custennin, and Mabon the son of Modron, and Peredur Paladyr Hir,
 and Hyveidd Unllenn, and Twrch the son of Perif, and Nerth the son of
 Kadarn, and Gobrwy the son of Echel Vorddwyttwll, Gwair the son of
 Gwestyl, and Gadwy the son of Geraint, Trystan the son of
-Tallwch [312e](mab19.htm#xref_312e), Moryen [312f](mab19.htm#xref_312f)
+Tallwch [312e](mab19.htm#xref_312e), Moryen [312f](mab19.htm#xref_312f.md)
 Manawc, Granwen the son of Llyr, and Llacheu the son of Arthur<span
 id="xref_312g">312g</span>, and Llawvrodedd Varvawc, and Kadwr Earl of
 Cornwall, Morvran the son of Tegid, and Rhyawd the son of Morgant<span
@@ -528,8 +528,8 @@ id="xref_312h">312h</span>, and Dyvyr the son of Alun Dyved, Gwrhyr
 <span class="contnote">\[paragraph continues\]</span> Gwalstawd
 Ieithoedd, Adaon the son of Taliesin, Llary the son of Kasnar Wledig,
 and Fflewddur Fflam, and Greidawl Galldovydd, Gilbert the son of
-Kadgyffro [313a](mab19.htm#xref_313a), Menw the son of Teirgwaedd,
-Gwrthmwl Wledig [313b](mab19.htm#xref_313b), Cawrdav the son of Caradawc
+Kadgyffro [313a](mab19.htm#xref_313a.md), Menw the son of Teirgwaedd,
+Gwrthmwl Wledig [313b](mab19.htm#xref_313b.md), Cawrdav the son of Caradawc
 Vreichvras, Gildas the son of Kaw, Kadyriaith the son of Saidi, and many
 of the men of Norway and Denmark, and many of the men of Greece, and a
 crowd of the men of the host came to that council.
@@ -576,4 +576,4 @@ precious scarfs, and of the virtue-bearing stones.
 
 ------------------------------------------------------------------------
 
-[Next: Notes to the Dream of Rhonabwy](mab19)
+[Next: Notes to the Dream of Rhonabwy](mab19.md)

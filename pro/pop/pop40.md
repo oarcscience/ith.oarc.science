@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop39)  [Next](pop41) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop39)  [Next](pop41.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ of the Grand Duke of Baden at Karlsruhe.
 
 ------------------------------------------------------------------------
 
-[Next: Interpretation](pop41)
+[Next: Interpretation](pop41.md)

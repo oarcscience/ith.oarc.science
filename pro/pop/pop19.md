@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop18)  [Next](pop20) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop18)  [Next](pop20.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ reckoned openly as a folly.'
 
 ------------------------------------------------------------------------
 
-[Next: The Fifteenth Figure](pop20)
+[Next: The Fifteenth Figure](pop20.md)

@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth055)  [Next](toth057) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth055)  [Next](toth057.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 53. THE CHILD WHO TURNED INTO AN OWL. <span id="fr_121"></span>[1](#fn_119)
+## 53. THE CHILD WHO TURNED INTO AN OWL. <span id="fr_121"></span>[1](#fn_119.md)
 
 Alíksai! They were living in Shupaúlavi, and one time a child was crying
 bitterly. Its mother did not pity it and beat it. "You are crying," she
@@ -102,9 +102,9 @@ and it will now remain an Owl."
 
 ### Footnotes
 
-<span id="fn_119"></span>[173:1](toth056.htm#fr_121) Told by Sik'áhpiki
+<span id="fn_119"></span>[173:1](toth056.htm#fr_121.md) Told by Sik'áhpiki
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
-[Next: 54. The Children and the Lizards](toth057)
+[Next: 54. The Children and the Lizards](toth057.md)

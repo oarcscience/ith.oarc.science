@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah24.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ TITIEV, MISCHA
 
 1944 Old Oraibi. A study of the Hopi Indians of Third Mesa. Peabody Mus.
 Am. Arch. and Eth., Papers. Vol. XXII, No. 1, Cambridge. Chap. VI. The
-[Disintegration](errata.htm#17) of Oraibi.
+[Disintegration](errata.htm#17.md) of Oraibi.
 
 VOTH, H. R.
 

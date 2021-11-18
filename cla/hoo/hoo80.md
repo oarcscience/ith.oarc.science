@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo79)  [Next](hoo81) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo79)  [Next](hoo81.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 ###### The FUMIGATION from FRANKINCENSE.
 
 Daughters of Jove, dire-sounding and divine,  <span
-id="fr_122"></span>[1](#fn_122)  
+id="fr_122"></span>[1](#fn_122.md)  
 Renown'd Pierian, sweetly speaking Nine;
 
 <span id="page_206">p. 206</span>
@@ -51,7 +51,7 @@ Melpomene from skill in music nam'd:
 <span id="page_213">p. 213</span>
 
 Terpischore, Urania heav'nly bright,  
-With thee <span id="fr_123"></span>[\*](#fn_123) who gav'st me to behold
+With thee <span id="fr_123"></span>[\*](#fn_123.md) who gav'st me to behold
 the light.  
 Come, venerable, various, pow'rs divine,  
 With fav'ring aspect on your mystics shine; 20  
@@ -62,7 +62,7 @@ And warm my bosom with your sacred fire.
 
 ### Footnotes
 
-<span id="fn_122"></span>[205:1](hoo80.htm#fr_122) Ver. i.\] *Daughters
+<span id="fn_122"></span>[205:1](hoo80.htm#fr_122.md) Ver. i.\] *Daughters
 of Jove*. Proclus, in some manuscript commentary, cited by Gyraldus, in
 Syntag. de Musis. p.534. says that the Muses are called the daughters of
 Jove and Mnemosyne, because to those who desire to posses disciplines
@@ -291,8 +291,8 @@ was incapable of the true, simple, and ancient music; and laboured only
 to move the affectons and imagination, not following right opinion, or
 the science of imitation.
 
-<span id="fn_123"></span>[213:\*](hoo80.htm#fr_123) Calliope.
+<span id="fn_123"></span>[213:\*](hoo80.htm#fr_123.md) Calliope.
 
 ------------------------------------------------------------------------
 
-[Next: LXXVI: To Mnemosyne, or the Goddess of Memory](hoo81)
+[Next: LXXVI: To Mnemosyne, or the Goddess of Memory](hoo81.md)

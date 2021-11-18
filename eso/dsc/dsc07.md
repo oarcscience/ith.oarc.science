@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc06) 
-[Next](dsc08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc06.md) 
+[Next](dsc08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -50,7 +50,7 @@ somewhat in this way: The senses, namely, touch, taste, smell, sight and
 hearing, together with the nervous systems, form the various lines of
 communication between the *Ego* and the *non-ego*, between the *Self*
 and the *not-self*, between *purusha*—to use the technicality of our
-Sankaya Philosophy—and [*Prakriti*](errata.htm#1). The plastic mind of
+Sankaya Philosophy—and [*Prakriti*](errata.htm#1.md). The plastic mind of
 the child, like the photographer's sensitized plate is exposed to
 stimuli from the external world. Impressions from outside—the
 environmental conditions, i.e., the times, circumstances, and various
@@ -120,4 +120,4 @@ really due to changing cycles of race-evolution in varying environments.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Spiritual Unfoldment](dsc08)
+[Next: Chapter VI. Spiritual Unfoldment](dsc08.md)

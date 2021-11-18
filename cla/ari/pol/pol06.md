@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](pol05)  [Next](pol07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](pol05)  [Next](pol07.md) 
 
 ------------------------------------------------------------------------
 
@@ -542,4 +542,4 @@ institution. Enough of the different kinds of offices.
 
 ------------------------------------------------------------------------
 
-[Next: Book VII](pol07)
+[Next: Book VII](pol07.md)

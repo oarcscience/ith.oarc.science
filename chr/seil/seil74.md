@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil73)  [Next](seil75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil73)  [Next](seil75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Thy hands I commend My spirit!"
 
 **Second Point.** Second: The sun was darkened, the stones broken, the
 graves opened, the veil of the Temple was rent in two from above
-below. <span id="fr_29"></span>[30](seil83.htm#fn_29)
+below. <span id="fr_29"></span>[30](seil83.htm#fn_29.md)
 
 **Third Point.** Third: They blaspheme Him, saying: "\`Thou wert He who
 destroyest the Temple of God; come down from the Cross."\` His garments
@@ -37,4 +37,4 @@ blood.
 
 ------------------------------------------------------------------------
 
-[Next: Mysteries from the Cross to the Sepulchre](seil75)
+[Next: Mysteries from the Cross to the Sepulchre](seil75.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe270)  [Next](prwe272) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe270)  [Next](prwe272.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ Towednack, because there are no horns on the church tower."
 
 ------------------------------------------------------------------------
 
-[Next: Tea-Stalks and Smut](prwe272)
+[Next: Tea-Stalks and Smut](prwe272.md)

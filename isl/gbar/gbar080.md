@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar079) [Next](gbar081)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar079) [Next](gbar081.md)
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ blessed for evermore.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar081)
+[Next](gbar081.md)

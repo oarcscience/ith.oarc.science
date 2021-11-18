@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](bsd09)  [Next](bsd11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](bsd09)  [Next](bsd11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FU5NUK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Bushido, the Soul of Japan*, by Inazo Nitobe, \[1905\], at Intangible
 Textual Heritage
 
@@ -86,7 +86,7 @@ a paternal government lies in this, that in the one the people obey
 reluctantly, while in the other they do so with "that proud submission,
 that dignified obedience, that subordination of heart which kept alive,
 even in servitude itself, the spirit of exalted freedom." <span
-id="fr_8"></span>[1](#fn_8) The old saying is not entirely false which
+id="fr_8"></span>[1](#fn_8.md) The old saying is not entirely false which
 called the king of England the "king of devils, because of his subjects'
 often insurrections against, and depositions of, their princes," and
 which made
@@ -225,7 +225,7 @@ principality of Satsuma, noted for its martial spirit and education, the
 custom prevailed for young men to practise music; not the blast of
 trumpets or the beat of drums,--"those clamorous harbingers of blood and
 death"--stirring us to imitate the actions of a tiger, but sad and
-tender melodies on the *biwa*, <span id="fr_9"></span>[1](#fn_9)
+tender melodies on the *biwa*, <span id="fr_9"></span>[1](#fn_9.md)
 soothing our fiery spirits, drawing our thoughts away from
 
 <span id="page_47">p. 47</span>
@@ -256,7 +256,7 @@ writing of verses was encouraged. Our poetry has therefore a strong
 undercurrent of pathos and tenderness. A well-known anecdote of a rustic
 samurai illustrates the case in point. When he was told to learn
 versification, and "The Warbler's Notes" <span
-id="fr_10"></span>[1](#fn_10) was given him for the subject of his first
+id="fr_10"></span>[1](#fn_10.md) was given him for the subject of his first
 attempt, his fiery spirit rebelled and he flung at the feet of his
 master this uncouth production, which ran
 
@@ -296,15 +296,15 @@ for others' feelings, are at the root of politeness.
 
 ### Footnotes
 
-<span id="fn_8"></span>[39:1](bsd10.htm#fr_8) Burke, *French
+<span id="fn_8"></span>[39:1](bsd10.htm#fr_8.md) Burke, *French
 Revolution*.
 
-<span id="fn_9"></span>[46:1](bsd10.htm#fr_9) A musical instrument,
+<span id="fn_9"></span>[46:1](bsd10.htm#fr_9.md) A musical instrument,
 resembling the guitar.
 
-<span id="fn_10"></span>[48:1](bsd10.htm#fr_10) The uguisu or warbler,
+<span id="fn_10"></span>[48:1](bsd10.htm#fr_10.md) The uguisu or warbler,
 sometimes called the nightingale of Japan.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Politeness](bsd11)
+[Next: Chapter VI: Politeness](bsd11.md)

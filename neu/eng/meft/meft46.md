@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft45)  [Next](meft47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft45)  [Next](meft47.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ have not neglected these.
 
 ------------------------------------------------------------------------
 
-[Next: Notes](meft47)
+[Next: Notes](meft47.md)

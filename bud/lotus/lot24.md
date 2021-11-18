@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot23)  [Next](lot25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot23)  [Next](lot25.md) 
 
 ------------------------------------------------------------------------
 
@@ -311,4 +311,4 @@ nothing else can be compared.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 25](lot25)
+[Next: Chapter 25](lot25.md)

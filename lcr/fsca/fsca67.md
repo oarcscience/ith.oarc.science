@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca66)  [Next](fsca68) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca66)  [Next](fsca68.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ Parthenope, Ligea, and Leucosia.
 Parthenope, the ancient name of Neapolis (Naples)
 
 <span id="img_24900"></span> ![Ulysses and the Sirens. Flaxman's
-Odyssey.](img/24900.jpg)
+Odyssey.](img/24900.jpg.md)
 
 was derived from one of the sirens, whose tomb was shown in Strabo's
 time. Poetic legend states that she threw herself into the sea out of
@@ -48,7 +48,7 @@ sirens as beautiful young women seated on the strand and singing.
 In the illustration from an ancient Greek vase
 
 <span id="img_25000"></span> ![Ulysses and the Sirens. From a painting
-on a Greek vase.](img/25000.jpg)
+on a Greek vase.](img/25000.jpg.md)
 
 gives a Grecian rendering of the story, and represents the Sirens as
 birds with heads of maidens.
@@ -127,7 +127,7 @@ those old days when reading and writing were rare accomplishments,
 pictured signboards served to give "a local habitation and a name" to
 hostelries and other places of business and resort. Among the most
 celebrated of the old London taverns bearing this sign, <span
-id="fr_30"></span>[\*](#fn_30) that in Bread Street stands foremost.
+id="fr_30"></span>[\*](#fn_30.md) that in Bread Street stands foremost.
 
 <span id="page_253">p. 253</span>
 
@@ -162,7 +162,7 @@ quotation from a letter of Beaumont to Ben Jonson:
 
 ### Footnotes
 
-<span id="fn_30"></span>[252:\*](fsca67.htm#fr_30) The sign was also
+<span id="fn_30"></span>[252:\*](fsca67.htm#fr_30.md) The sign was also
 used by printers: John Rastall, brother-in-law to Sir Thomas More,
 "emprynted in the <span id="page_253">p. 253</span> Cheapesyde at the
 Sygne of the Mermayde; next to Powlsgate in 1572." Henry Binnemann, the
@@ -173,4 +173,4 @@ p. 227.
 
 ------------------------------------------------------------------------
 
-[Next: The Dolphin of Legend and of Heraldry](fsca68)
+[Next: The Dolphin of Legend and of Heraldry](fsca68.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](kog19)  [Next](kog21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](kog19)  [Next](kog21.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ Heaven again, and there he is still, as right as rain.
 
 ------------------------------------------------------------------------
 
-[Next: 18. Old Nick and Kitty](kog21)
+[Next: 18. Old Nick and Kitty](kog21.md)

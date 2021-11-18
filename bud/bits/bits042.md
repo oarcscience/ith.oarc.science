@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits041) [Next](bits043)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits041) [Next](bits043.md)
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ Will yield a blessing in the next."<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 43. How to Obtain Wealth, Beauty, and Social Position](bits043)
+[Next: § 43. How to Obtain Wealth, Beauty, and Social Position](bits043.md)
 
  
 

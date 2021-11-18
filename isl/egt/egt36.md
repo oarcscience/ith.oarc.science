@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt35)  [Next](egt37) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt35)  [Next](egt37.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ about us is the act of a thoughtless fool.
 
 ------------------------------------------------------------------------
 
-[Next: CONCERNING THE PIOUS DISCIPLE AND THE GREAT MASTER.](egt37)
+[Next: CONCERNING THE PIOUS DISCIPLE AND THE GREAT MASTER.](egt37.md)

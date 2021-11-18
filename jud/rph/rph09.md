@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph08)  [Next](rph10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph08)  [Next](rph10.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ already held sway, mysticism finds in this very consciousness the divine
 action, the immediate revelation which it claims to be indispensable to
 man. It recognizes it either in the feelings or in the intuitions of
 reason. Thus it is, to cite an example, how mysticism was conceived in
-the fifteenth century by Gerson. <span id="fr_59"></span>[1](#fn_59) But
+the fifteenth century by Gerson. <span id="fr_59"></span>[1](#fn_59.md) But
 when mystical ideas require the support
 
 <span id="page_lv">p. lv</span>
@@ -142,10 +142,10 @@ articles of their belief is that after the prophet,
 <span id="page_lvi">p. lvi</span>
 
 his apostle Ali and the Imams of his race are the representatives of God
-on earth. <span id="fr_60"></span>[2](#fn_60)
+on earth. <span id="fr_60"></span>[2](#fn_60.md)
 
 Islamism had also its scholastic philosophers, known by the name of
-Motecallemin, <span id="fr_61"></span>[3](#fn_61) and it had also a
+Motecallemin, <span id="fr_61"></span>[3](#fn_61.md) and it had also a
 large number of heresies which seem to have joined the doctrine of
 Pelagius to the rational method of modern Protestantism. This is how a
 celebrated orientalist defined the latter: "All sects of the Mutazilahs
@@ -157,7 +157,7 @@ liberty of his own actions and deny God all interference with them;
 finally, they agree in teaching that all the knowledge necessary to
 salvation is within the province of reason, and that it can be acquired
 solely by means of the light of reason before, as well as after,
-revelation." <span id="fr_62"></span>[4](#fn_62)
+revelation." <span id="fr_62"></span>[4](#fn_62.md)
 
 The Karmates, whose existence dates from the year 264 of the Hegira,
 embraced the system of allegorical interpretations and all the opinions
@@ -169,7 +169,7 @@ allegories and in substituting things founded on imagination for
 external observance, as well as allegorizing verses of the Koran and
 giving them forced interpretations." There is more than one point of
 resemblance between this doctrine and the doctrine which we aim to make
-acquaintance with. <span id="fr_63"></span>[5](#fn_63)
+acquaintance with. <span id="fr_63"></span>[5](#fn_63.md)
 
 <span id="page_lvii">p. lvii</span>
 
@@ -180,7 +180,7 @@ naturally to our subject. Besides the Bible, orthodox Jews recognize
 traditions which receive from them the same respect as the precepts of
 the Pentateuch. At first transmitted from mouth to mouth and scattered
 everywhere, then collected and edited by Judah the Holy <span
-id="fr_64"></span>[6](#fn_64) under the name of Mishnah; and, finally,
+id="fr_64"></span>[6](#fn_64.md) under the name of Mishnah; and, finally,
 prodigiously augmented and developed by the authors of the Talmud, they
 now leave not the smallest part to reason and liberty. Not only do they
 deny in principle the existence of these two moral forces, but they
@@ -193,7 +193,7 @@ every day and of every instant against which one is inevitably compelled
 to fight with trickery if he does not want to substitute a higher
 authority in its place. The Karaites, who must not be confounded with
 the Saducees whose existence does not reach beyond the destruction of
-the second temple <span id="fr_65"></span>[7](#fn_65)--the Karaites are,
+the second temple <span id="fr_65"></span>[7](#fn_65.md)--the Karaites are,
 in a way, the Protestants of Judaism; they reject, apparently, the
 tradition and pretend to recognize nothing but the Bible, I mean the Old
 Testament, for the explanation of which reason seems to them to be
@@ -214,9 +214,9 @@ The first, and beyond a question the boldest of them, is the celebrated
 Rabbi Saadia, who at the beginning of the tenth century was at the head
 of the academy of Sura in Persia; and whose name is cited with respect
 by Mussulman authors, as well as by his coreligionists. <span
-id="fr_66"></span>[8](#fn_66) After Saadia came Abraham Ibn-Ezra, Rabbi
+id="fr_66"></span>[8](#fn_66.md) After Saadia came Abraham Ibn-Ezra, Rabbi
 Bachye, Arabic author of an excellent moral and theological
-treatise; <span id="fr_67"></span>[9](#fn_68) and Moses Maimonides,
+treatise; <span id="fr_67"></span>[9](#fn_68.md) and Moses Maimonides,
 whose stupendous reputation was detrimental to the many, who, coming
 after him, defended the same cause. Those among the Jews who saw in the
 law only a gross exterior under which was hidden a mysterious meaning,
@@ -236,7 +236,7 @@ character of Philo and all those who are customarily called "Hellenizing
 Jews," because, mixed among the Greeks of Alexandria, they borrowed from
 the latter their language, their civilization, and such of their
 philosophic systems as could best reconcile with the monotheism and
-religious legislation of Moses. <span id="fr_69"></span>[10](#fn_69)
+religious legislation of Moses. <span id="fr_69"></span>[10](#fn_69.md)
 
 The others obeyed the impulse of their intelligence only. The ideas they
 introduced into the sacred books, in order to make it appear that they
@@ -247,7 +247,7 @@ grand which resembles any other system, whether philosophical or
 religious only in that it comes from the same source, in that it was
 called forth by the same causes, in that it responds to the same needs,
 in short, in that it rests upon the general laws of the human mind.
-These are the Kabbalists <span id="fr_70"></span>[11](#fn_70) whose
+These are the Kabbalists <span id="fr_70"></span>[11](#fn_70.md) whose
 opinions must be drawn from original
 
 <span id="page_lx">p. lx</span>
@@ -280,24 +280,24 @@ we shall finally follow it to its most recent destinies.
 
 ### Footnotes
 
-<span id="fn_59"></span>[liv:1](rph09.htm#fr_59) "Considerationes de
+<span id="fn_59"></span>[liv:1](rph09.htm#fr_59.md) "Considerationes de
 Theologia Mystica." From the very beginning this proposition confronts
 us: Quod si dicatur omnis scientia procedens ex experientiis, mystica
 theologia vere erit philosophia. <span id="page_lv">p. lv</span> Consid.
 2d, He goes even so far as to define the nature of this experience.
 Experientiis habitis ad intra, in cordibus animarum devotarum. (Gerson.)
 
-<span id="fn_60"></span>[lvi:2](rph09.htm#fr_60) Maracci, Prodromus in
+<span id="fn_60"></span>[lvi:2](rph09.htm#fr_60.md) Maracci, Prodromus in
 ref. Alcor., B, IV. De Sacy, Exposé de la religion des Druzes,
 introduction.
 
-<span id="fn_61"></span>[lvi:3](rph09.htm#fr_61) The rabbis converted
+<span id="fn_61"></span>[lvi:3](rph09.htm#fr_61.md) The rabbis converted
 the name to ‏מדברים‎ which means speakers or dialecticians.
 
-<span id="fn_62"></span>[lvi:4](rph09.htm#fr_62) De Sacy, Introduction à
+<span id="fn_62"></span>[lvi:4](rph09.htm#fr_62.md) De Sacy, Introduction à
 l’exposé de la religion des Druzes, p. 37.
 
-<span id="fn_63"></span>[lvi:5](rph09.htm#fr_63) I shall cite but one of
+<span id="fn_63"></span>[lvi:5](rph09.htm#fr_63.md) I shall cite but one of
 those points. The Karmathians hold that man's body, when standing,
 represents an *Alef*; that when kneeling, it represents a *Lam*, and
 that when prostrate, it represents a *He*. So the <span
@@ -310,13 +310,13 @@ legs, surmounted by a basin, form another *He* (‏ה‎). So that his entire
 body represents the thrice-holy name, Jehovah. (Zohar, 2nd part, fol.
 42, published in Mantua.)
 
-<span id="fn_64"></span>[lvii:6](rph09.htm#fr_64) Better known as Judah
+<span id="fn_64"></span>[lvii:6](rph09.htm#fr_64.md) Better known as Judah
 ha-Nassi (the Prince).--Transl.
 
-<span id="fn_65"></span>[lvii:7](rph09.htm#fr_65) Peter Beer. History of
+<span id="fn_65"></span>[lvii:7](rph09.htm#fr_65.md) Peter Beer. History of
 the religious sects of Judaism. 1st part. p. 149.
 
-<span id="fn_66"></span>[lviii:8](rph09.htm#fr_66) The commentary which
+<span id="fn_66"></span>[lviii:8](rph09.htm#fr_66.md) The commentary which
 he wrote in Arabic on the Sefer Yetzirah, one of the most ancient
 monuments of the Kabbalah, is of wholly philosophical meaning, and it is
 wrong that he is counted by Reuchlin and other historians of the
@@ -337,18 +337,18 @@ conscience--as when we say that falsehood is a vice and truth a virtue;
 we admit the existence of the soul because of its operations; 4th, the
 authentic tradition (‏ההנדה הנאמנה‎) which should take the place of
 science with people who are not in a condition to exercise their
-intelligence. <span id="fr_68"></span>[\*](#fn_67))
+intelligence. <span id="fr_68"></span>[\*](#fn_67).md)
 
-<span id="fn_67"></span>[lviii:\*](rph09.htm#fr_68)) The Hebrew
+<span id="fn_67"></span>[lviii:\*](rph09.htm#fr_68).md) The Hebrew
 commentary attributed to Saadia is forged. Comp. Rapaport, Biography of
 R. Saadia. Note 30, Munk, Notice sur Rabbi Saadiah Gaon. p.
 14-15.--Jellinek
 
-<span id="fn_68"></span>[lviii:9](rph09.htm#fr_67) This work is called
+<span id="fn_68"></span>[lviii:9](rph09.htm#fr_67.md) This work is called
 ‏חובות הלבבות‎--"The Duties of the Heart." The author lived around 5921
 (1161).
 
-<span id="fn_69"></span>[lix:10](rph09.htm#fr_69) They are mentioned in
+<span id="fn_69"></span>[lix:10](rph09.htm#fr_69.md) They are mentioned in
 this passage of Eusebius:
 
 Τὸ πᾶν Ἰουδαίων ἴθνος, εἰς δύο τμήματα διήσηται. Καὶ τήν μὲν πληθὺν ταῖς
@@ -360,7 +360,7 @@ this passage of Eusebius:
 The author puts these words in the mouth of Aristobulus, who could not
 have known the Kabbalah.
 
-<span id="fn_70"></span>[lix:11](rph09.htm#fr_70) Although we shall
+<span id="fn_70"></span>[lix:11](rph09.htm#fr_70.md) Although we shall
 later on find opportunity to speak at length of Philo, it is necessary
 to point out here his distinction from the Kabbalists with whom several
 historians confounded him. First, it is almost certain that Philo was
@@ -379,4 +379,4 @@ Kabbalah. "Ἔστιν ἐν τοῖς οὖσιν, τὸ μὲν εἷναι δ
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Antiquity of the Kabbalah](rph10)
+[Next: Chapter I. The Antiquity of the Kabbalah](rph10.md)

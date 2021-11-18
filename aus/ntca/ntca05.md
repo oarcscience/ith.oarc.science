@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca04)  [Next](ntca06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca04)  [Next](ntca06.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ men, and they, together with men who are *Unkulla* and *Unawa* to the
 girl, but not <span id="page_93">p. 93</span> including her future
 husband, take her out into the bush and there perform the operation
 called *Atna-ariltha-kuma* (*atna*, vulva; *kuma*, cut. <span
-id="fr_44"></span>[1](#fn_44) The operation is conducted with a stone
+id="fr_44"></span>[1](#fn_44.md) The operation is conducted with a stone
 knife and the operator who is, except in the southern Arunta, a man who
 is *Ipmunna* to the girl, carries with him one of the small wooden
 Churinga called *Namatwinna* with which before operating he touches the
@@ -59,12 +59,12 @@ during the progress of an Altherta or ordinary corrobboree when, during
 the day time, the men habitually assemble at the corrobboree ground.
 When it is over the woman's head is decorated, by the *Ipmunna* man who
 operated, with head bands and tufts of *Alpita*, <span
-id="fr_45"></span>[2](#fn_45) the neck with necklaces, the arms with
+id="fr_45"></span>[2](#fn_45.md) the neck with necklaces, the arms with
 bands of fur string, and her body is painted all over with a mixture of
 fat and red ochre. Thus decorated, she is taken to the camp of her
 special *Unawa* by the men who have taken part in the ceremony and who
 have meanwhile painted themselves with charcoal. <span
-id="fr_46"></span>[3](#fn_46) On the day following the husband will most
+id="fr_46"></span>[3](#fn_46.md) On the day following the husband will most
 likely—though there is no obligation for him to do so—send her to the
 same men, and after that she becomes his special wife, to whom no one
 else has right of access; though at times a man will lend his wife to a
@@ -200,7 +200,7 @@ the men present on the corrobboree ground. In the Arunta tribe the
 following is exactly what takes place: a man goes to another who is
 actually or tribally his son-in-law, that is, one who stands to him in
 the relationship of *Gammona*, and says to the latter: “You will take my
-*Unawa* into the bush <span id="fr_47"></span>[1](#fn_47) and bring in
+*Unawa* into the bush <span id="fr_47"></span>[1](#fn_47.md) and bring in
 with you some *undattha altherta*” (down used for decorating during
 ordinary corrobborees). The *Gammona* then goes away, followed by the
 woman who has been previously told what to do by her husband. This woman
@@ -326,7 +326,7 @@ lending in the same sense in which the term is used in connection with
 the former custom.
 
 In his well-known work dealing with human marriage, Westermarck <span
-id="fr_48"></span>[1](#fn_48) has brought together, from various
+id="fr_48"></span>[1](#fn_48.md) has brought together, from various
 sources, facts relating to similar customs, and, while discussing the
 hypothesis of promiscuity from an adverse point of view, has endeavoured
 to explain them as due to various causes. These we may conveniently
@@ -399,14 +399,14 @@ hypothesis of hospitality, the other is not. The hypothesis of
 hospitality does not, in short, appear to us to be capable of explaining
 the fact that both at marriage and at certain other times, it is only
 particular men who are allowed access to particular women. <span
-id="fr_49"></span>[1](#fn_49)
+id="fr_49"></span>[1](#fn_49.md)
 
 A third hypothesis suggested to account for certain customs such as the
 “jus primae noctis,” accorded to chiefs and particular individuals, is
 that “it may be a right taken forcibly by the stronger, or it may be a
 privilege voluntarily given to the chief man as a mark of esteem; in
 either case it depends upon his authority.” <span
-id="fr_50"></span>[2](#fn_50) It will be generally admitted that here
+id="fr_50"></span>[2](#fn_50.md) It will be generally admitted that here
 again no such explanation will account for the customs as met with
 amongst Australian tribes. In the first place, while the elder men are
 undoubtedly accorded certain privileges, there is not in any Australian
@@ -416,7 +416,7 @@ tribe any one individual
 
 to whom the term chief can, with strict propriety, be applied, and in
 the second place the privilege with which we are dealing is by no means
-enjoyed wholly by the elder men. <span id="fr_51"></span>[1](#fn_51)
+enjoyed wholly by the elder men. <span id="fr_51"></span>[1](#fn_51.md)
 Unless the leading man in any group stands in a particular relationship
 to the woman, he has no more right of access to her than the most
 insignificant man in the group.
@@ -426,12 +426,12 @@ granted to men who have assisted the bridegroom in the capture of the
 woman. “In such cases the ‘jus primae noctis’ is a reward for a good
 turn done, or perhaps, as Mr. McLennan suggests, a common war right,
 exercised by the captors of the woman.” <span
-id="fr_52"></span>[2](#fn_52) There is undoubtedly much to be said in
+id="fr_52"></span>[2](#fn_52.md) There is undoubtedly much to be said in
 favour of this, but there are objections applying to it as to the second
 hypothesis dealt with. In the first place, so far as Australia is
 concerned, it is founded upon such vague statements as that quoted by
 Brough Smyth upon the authority of Mr. J. M. Davis. <span
-id="fr_53"></span>[3](#fn_53) Mr. Davis says, “when a young man is
+id="fr_53"></span>[3](#fn_53.md) Mr. Davis says, “when a young man is
 entitled to have a lubra, he organises a party of his friends, and they
 make a journey into the territories of some other tribe, and there lie
 in wait, generally in the evening, by a waterhole, where the lubras come
@@ -515,7 +515,7 @@ just the same way, and with just the same significance attached to them,
 in which we speak of “rudimentary organs” and we may recognise in them
 an abbreviated record of a stage passed through in the development of
 the customs of the tribe amongst which they are found. <span
-id="fr_54"></span>[1](#fn_54) Such
+id="fr_54"></span>[1](#fn_54.md) Such
 
 <span id="page_106">p. 106</span>
 
@@ -543,7 +543,7 @@ may be observed, is not a matter of assumption but of actual fact. In
 the Arunta tribe for example a Panunga man will call the Purula whom he
 actually marries *Unawa*, but he has no name to distinguish her from all
 the other Purula women whom he does not actually marry, but any one of
-whom he might lawfully marry. <span id="fr_55"></span>[1](#fn_55)
+whom he might lawfully marry. <span id="fr_55"></span>[1](#fn_55.md)
 Further than this, while he has no actual right of access to any woman,
 except his own special *Unawa* woman or women, there are times, as, for
 example, during special ceremonies, or when he is visiting a distant
@@ -636,14 +636,14 @@ him. These *Piraungaru* are the wives of other men of his own group,
 just as his own wives are *Piraungaru* to some of the latter men, and we
 thus find in the Urabunna tribe that a group of women actually have
 marital relations with a group of men. Westermarck <span
-id="fr_56"></span>[1](#fn_56) has referred in his work to what he calls
+id="fr_56"></span>[1](#fn_56.md) has referred in his work to what he calls
 “the pretended group-marriages” of the Australians. In the case of the
 Urabunna there is no pretence of any kind, and exactly the same remark
 holds true of the neighbouring Dieri tribe.
 
 The matter can be expressed clearly in the form of a diagram used by Mr.
 Fison in explaining the marriage system of the Dieri tribe: <span
-id="fr_57"></span>[2](#fn_57)
+id="fr_57"></span>[2](#fn_57.md)
 
 It must be remembered, of course, that any one woman may be *Piraungaru*
 to a larger number of men than the two who are represented in the
@@ -676,13 +676,13 @@ The evidence in favour of the third grade, that is the existence of
 wider marital relations than those indicated by the form of group
 marriage which has just been discussed, is naturally more indefinite and
 difficult to deal with. Westermarck, after having discussed at length
-the hypothesis of promiscuity, says: <span id="fr_58"></span>[1](#fn_58)
+the hypothesis of promiscuity, says: <span id="fr_58"></span>[1](#fn_58.md)
 “Having now examined all the groups of social phenomena adduced as
 evidence for the hypothesis of promiscuity, we have found that, in point
 of fact, they are no evidence. Not one of the customs alleged as relics
 of an ancient state of indiscriminate cohabitation of the sexes or
 ‘communal marriage’ presupposes the former existence of that state,” and
-further on he says: <span id="fr_59"></span>[2](#fn_59) “It is not, of
+further on he says: <span id="fr_59"></span>[2](#fn_59.md) “It is not, of
 course, impossible that, among some people, intercourse between the
 sexes may have been almost promiscuous. But there is not a shred of
 genuine evidence for the notion that promiscuity ever formed a general
@@ -732,28 +732,28 @@ tribe to tribe, appear to us to be capable of satisfactory explanation.
 
 ### Footnotes
 
-<span id="fn_44"></span>[93:1](ntca05.htm#fr_44) As this ceremony has
+<span id="fn_44"></span>[93:1](ntca05.htm#fr_44.md) As this ceremony has
 important bearings upon the question now under discussion, it is dealt
 with here; but it must be remembered that it is, strictly speaking, an
 initiation ceremony, equivalent in the case of woman to that of
 sub-incision or *pura-ariltha-kuma* amongst the men.
 
-<span id="fn_45"></span>[93:2](ntca05.htm#fr_45) *Alpita* is the name
+<span id="fn_45"></span>[93:2](ntca05.htm#fr_45.md) *Alpita* is the name
 given to the tail tips of the rabbit-bandicoot (*Peragale lagotis*):
 they are constantly used for personal decoration.
 
-<span id="fn_46"></span>[93:3](ntca05.htm#fr_46) It is worth noting that
+<span id="fn_46"></span>[93:3](ntca05.htm#fr_46.md) It is worth noting that
 charcoal is specially used for decorative purposes, firstly in
 connection with magic, and secondly in connection with avenging parties.
 
-<span id="fn_47"></span>[97:1](ntca05.htm#fr_47) The bush is a term used
+<span id="fn_47"></span>[97:1](ntca05.htm#fr_47.md) The bush is a term used
 in Australia to denote country more or less covered with a growth of
 natural trees and shrubs.
 
-<span id="fn_48"></span>[100:1](ntca05.htm#fr_48) *The History of Human
+<span id="fn_48"></span>[100:1](ntca05.htm#fr_48.md) *The History of Human
 Marriage*, pp. 51–133.
 
-<span id="fn_49"></span>[102:1](ntca05.htm#fr_49) It may perhaps be
+<span id="fn_49"></span>[102:1](ntca05.htm#fr_49.md) It may perhaps be
 advisable to point out that in many cases in which apparently women are
 lent (in the sense in which we use the word, which is the sense in which
 it is generally used in this connection) indiscriminately, a knowledge
@@ -765,10 +765,10 @@ valueless unless we know the exact conditions or relative status of the
 individual men and the woman. In the nine tribes examined by us we have
 found that intercourse of this nature is strictly regulated by custom.
 
-<span id="fn_50"></span>[102:2](ntca05.htm#fr_50) Westermarck, *op.
+<span id="fn_50"></span>[102:2](ntca05.htm#fr_50.md) Westermarck, *op.
 cit*., p. 78.
 
-<span id="fn_51"></span>[103:1](ntca05.htm#fr_51) The term chief or even
+<span id="fn_51"></span>[103:1](ntca05.htm#fr_51.md) The term chief or even
 king of a tribe is not seldom used in writings of a somewhat popular
 nature, which deal with Australia. Travellers will often find in
 up-country parts a native of appropriate age decorated with a brass
@@ -778,20 +778,20 @@ though it is just as likely that he was not, the head of a local group
 or even tribe, but the natives have no term which can be correctly
 rendered by the word “chief.”
 
-<span id="fn_52"></span>[103:2](ntca05.htm#fr_52) Westermarck, *op.
+<span id="fn_52"></span>[103:2](ntca05.htm#fr_52.md) Westermarck, *op.
 cit*., p. 76.
 
-<span id="fn_53"></span>[103:3](ntca05.htm#fr_53) *Aborigines of
+<span id="fn_53"></span>[103:3](ntca05.htm#fr_53.md) *Aborigines of
 Victoria*, vol. ii., p. 316.
 
-<span id="fn_54"></span>[105:1](ntca05.htm#fr_54) Since the above was
+<span id="fn_54"></span>[105:1](ntca05.htm#fr_54.md) Since the above was
 written we have seen the essays by Professor Karl Pearson dealing with
 the same subject, in his work *The Chances of Death*. In these Mr.
 Pearson has used the term “fossil,” but though the term “rudimentary
 custom” has the disadvantage of length, we prefer to retain it as it
 appears to us to draw attention to a striking analogy.
 
-<span id="fn_55"></span>[106:1](ntca05.htm#fr_55) By lawfully marry we
+<span id="fn_55"></span>[106:1](ntca05.htm#fr_55.md) By lawfully marry we
 mean that though the woman may be betrothed to another man, he would not
 break any tribal law by marrying her. If the woman belonged to a
 different local group from his own, and he obtained her by one of the
@@ -801,16 +801,16 @@ woman of a forbidden class, then, not only would he receive no help from
 his own group, but they would either put him to death themselves, or
 else they would request some neighbouring group to do so.
 
-<span id="fn_56"></span>[109:1](ntca05.htm#fr_56) *Op. cit*., p. 95,
+<span id="fn_56"></span>[109:1](ntca05.htm#fr_56.md) *Op. cit*., p. 95,
 footnote.
 
-<span id="fn_57"></span>[109:2](ntca05.htm#fr_57) Classificatory System
+<span id="fn_57"></span>[109:2](ntca05.htm#fr_57.md) Classificatory System
 of Relationship, *Bril. Ass. Adv. Sci*., Oxford, 1894, p. 360.
 
-<span id="fn_58"></span>[110:1](ntca05.htm#fr_58) *Op. cit.*, p. 113.
+<span id="fn_58"></span>[110:1](ntca05.htm#fr_58.md) *Op. cit.*, p. 113.
 
-<span id="fn_59"></span>[110:2](ntca05.htm#fr_59) *Op. cit.*, p. 133.
+<span id="fn_59"></span>[110:2](ntca05.htm#fr_59.md) *Op. cit.*, p. 133.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Totems](ntca06)
+[Next: Chapter IV. The Totems](ntca06.md)

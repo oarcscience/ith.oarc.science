@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic080)  [Next](lfic082) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic080)  [Next](lfic082.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ are concerned with for the present.
 
 ------------------------------------------------------------------------
 
-[Next: Kilstoheen in the Shannon](lfic082)
+[Next: Kilstoheen in the Shannon](lfic082.md)

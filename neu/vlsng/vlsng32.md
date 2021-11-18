@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng31)  [Next](vlsng33) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng31)  [Next](vlsng33.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@ offspring and his kin."
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXI: Of the Lamentation of Gudrun over Sigurd's
-dead.](vlsng33)
+dead.](vlsng33.md)

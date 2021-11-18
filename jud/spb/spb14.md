@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb13)  [Next](spb15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb13)  [Next](spb15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -145,11 +145,11 @@ king at the flood; yea, the Lord sitteth as king for ever. The Lord will
 give strength unto his people; the Lord will bless his people with
 peace.
 
- <span id="fr_16"></span>[\*](#fn_14) Come, my friend, to meet the
+ <span id="fr_16"></span>[\*](#fn_14.md) Come, my friend, to meet the
 bride; let us welcome the presence of the Sabbath.
 
 "Observe" and "Remember the Sabbath day," the only God caused us to hear
-in a single utterance: <span id="fr_17"></span>[†](#fn_15) the Lord is
+in a single utterance: <span id="fr_17"></span>[†](#fn_15.md) the Lord is
 One, and his name is One to his renown and his glory and his praise.
 Come, etc.
 
@@ -256,7 +256,7 @@ us and for all Israel; and say ye, Amen.
 
 *When a Festival or one of the Intermediate Days of a Festival falls on
 Sabbath, the Inauguration Service commences with "A Psalm, a Song,
-etc.," [p. 156](#page_156)*.
+etc.," [p. 156](#page_156.md)*.
 
 ------------------------------------------------------------------------
 
@@ -264,12 +264,12 @@ etc.," [p. 156](#page_156)*.
 
 ### Footnotes
 
-<span id="fn_14"></span>[155:\*](spb14.htm#fr_16) In this poem, written
+<span id="fn_14"></span>[155:\*](spb14.htm#fr_16.md) In this poem, written
 in the form of an acrostic on the name of the author, R. Shelomo Halevi
 (Alkabets), the Sabbath is personified as a bride, whose visit to the
 faithful of Israel it is desired to honor and welcome.
 
-<span id="fn_15"></span>[155:†](spb14.htm#fr_17) A reference to the
+<span id="fn_15"></span>[155:†](spb14.htm#fr_17.md) A reference to the
 Midrashic explanation (see *Talmud Shebuoth*, 20*b*) of the discrepancy
 between the two versions of the Fourth Commandment in Exodus xx. 8 and
 Deut. v. 12.
@@ -278,6 +278,6 @@ Deut. v. 12.
 
 ------------------------------------------------------------------------
 
-[Next: Evening Service for Sabbaths and Festivals](spb15)
+[Next: Evening Service for Sabbaths and Festivals](spb15.md)
 
 </div>

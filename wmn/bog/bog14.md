@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog13)  [Next](bog15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog13)  [Next](bog15.md) 
 
 ------------------------------------------------------------------------
 
@@ -174,4 +174,4 @@ O holy goddess, bountiful spirit!
 
 ------------------------------------------------------------------------
 
-[Next: Demeter](bog15)
+[Next: Demeter](bog15.md)

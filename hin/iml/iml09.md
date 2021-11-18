@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml08)  [Next](iml10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml08)  [Next](iml10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ the change. We read that "the gods and Asuras contended together, and
 that the former, being less numerous than the latter, took some bricks,
 and placing them in a proper position to receive the sacrificial fire,
 with the formula, 'Thou art a multiplier', they became numerous". <span
-id="fr_113"></span>[1](#fn_112)
+id="fr_113"></span>[1](#fn_112.md)
 
 In one of the Brahmanas we are informed:
 
@@ -94,7 +94,7 @@ raised it as a weapon, the Asuras did not comprehend it. With it the
 Devas aimed a blow at the Asuras, and defeated them, for they had no
 comprehension of this weapon. Thereupon the Devas became masters of the
 Asuras. He who has such a knowledge becomes master of his enemy,
-adversary, and hater." <span id="fr_114"></span>[2](#fn_113)
+adversary, and hater." <span id="fr_114"></span>[2](#fn_113.md)
 
 This explanation is but an echo of the Indra-Vritra combat. Another
 statement is to the effect that "the Devas gave up falsehood and adopted
@@ -117,10 +117,10 @@ it up in its course with his thunderbolt. Then Kesin, furious with rage,
 hurled a huge mass of rock at him." Indra "of a hundred sacrifices rent
 it asunder with his thunderbolt, and it fell down upon the ground. And
 Kesin himself was wounded by that falling mass of rock. <span
-id="fr_115"></span>[1](#fn_114) Thus sorely afflicted he fled". Indra
+id="fr_115"></span>[1](#fn_114.md) Thus sorely afflicted he fled". Indra
 rescues a beautiful lady who had been seized by the Asura, and she
 informs the god that her sister had previously fallen a victim to the
-demon. . . . <span id="fr_116"></span>[2](#fn_115)
+demon. . . . <span id="fr_116"></span>[2](#fn_115.md)
 
 The Asuras obstructed sacrifices; they were ever hovering round altars
 to discover if rites were properly performed; if a priest did not
@@ -147,7 +147,7 @@ which is called Patala, and they remain
 
 [![DURGA SLAYING GIANTS AND DEMONS&lt;br&gt; &lt;i&gt;From a sculpture
 at Mamallapuram&lt;/i&gt;.](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 DURGA SLAYING GIANTS AND DEMONS  
 *From a sculpture at Mamallapuram*.  
 
@@ -155,12 +155,12 @@ DURGA SLAYING GIANTS AND DEMONS
 
 <span id="page_65">p. 65</span>
 
-there "afflicted by Time ", <span id="fr_117"></span>[1](#fn_116) and
+there "afflicted by Time ", <span id="fr_117"></span>[1](#fn_116.md) and
 subject to the sway of Varuna. Like the Norse giants, they will be let
 loose to take part in the "Last Battle". An "Asura fire" burns
 constantly in Patala, fed by water; it is "bound and confined", but
 cannot be extinguished; when the end of all comes, it will burst forth
-and burn up the three worlds. <span id="fr_118"></span>[2](#fn_117) In
+and burn up the three worlds. <span id="fr_118"></span>[2](#fn_117.md) In
 Teutonic mythology the Universe is similarly doomed to be consumed by
 fire at Ragnarok, "the Dusk of the Gods".
 
@@ -170,7 +170,7 @@ the mansions, and there are also recreation grounds, and forests and
 mountains resembling clouds. Indeed, the Daityas and Danavas live pretty
 much in the same manner as the gods, for "the gods and Danavas are
 brothers, although ever hostile to one another". <span
-id="fr_119"></span>[3](#fn_118) The Danava women are of gigantic
+id="fr_119"></span>[3](#fn_118.md) The Danava women are of gigantic
 stature, and wear jewels as large as mountain boulders; when terrified
 by the attacks of the gods, they "bewail like unto cranes in Autumn".
 One of the Daitya tribes reside in the moving city named Hiranyapura,
@@ -199,7 +199,7 @@ worshippers. The female Nagas were beautiful nymphs, who were sometimes
 wooed by mortals.
 
 As the Asuras are the enemies of the gods, the Rakshas or Rakshasas are
-the enemies of man. <span id="fr_120"></span>[1](#fn_119) These demons
+the enemies of man. <span id="fr_120"></span>[1](#fn_119.md) These demons
 are "night prowlers"; they have greatest power after "the first forty
 seconds of grey twilight preceding nightfall". They travel faster than
 the wind, and go through the air; they have also power to change their
@@ -226,7 +226,7 @@ themselves into beautiful women. Bhima takes one for his bride, and she
 carries him through the air to a Celestial retreat among the mountains.
 
 The most loathsome Rakshasas are the goblin-like Pisachas, <span
-id="fr_121"></span>[1](#fn_120) who are devourers of dead bodies in
+id="fr_121"></span>[1](#fn_120.md) who are devourers of dead bodies in
 cemeteries, and are exceedingly vile and malignant fiends. They are the
 bringers of diseases and wasting fevers. In the *Atharvaveda* Agni is
 invoked by the priests, who mutter charms over suffering and "possessed"
@@ -237,7 +237,7 @@ and whom I overcome". The priest declares: "I plague the Pisachas as the
 tiger the cattle owners. As dogs who have seen a lion, these do not find
 a refuge. . . . From villages I enter Pisachas fly away. . . . May
 Nirriti (a goddess of destruction) take hold of this one." <span
-id="fr_122"></span>[2](#fn_121)
+id="fr_122"></span>[2](#fn_121.md)
 
 Kali, a demon who holds friendly converse with the gods in the "Story of
 Nala", is attended by Dwápara, a flesh-eater like the Pisachas. The
@@ -271,7 +271,7 @@ stature, some of fierce visage, some hunchbacked, some of blood-red
 eyes, some of frightful yells; some are feeding upon fat and flesh, and
 some are terrible to behold; and all are armed with various weapons, and
 endued with the speed of the wind". <span
-id="fr_123"></span>[1](#fn_122)
+id="fr_123"></span>[1](#fn_122.md)
 
 The Gandharvas are grouped in tribes, and number over six thousand
 individuals. They are all of the male sex. They haunt the air, the
@@ -287,7 +287,7 @@ conquer they carry
 
 [![THE CELESTIAL FAIRIES (APSARAS)&lt;br&gt; &lt;i&gt;Sculpture on a
 modern Hindu temple, Benares&lt;/i&gt;.](tn/06800.jpg)  
-Click to enlarge](img/06800.jpg)  
+Click to enlarge](img/06800.jpg.md)  
 THE CELESTIAL FAIRIES (APSARAS)  
 *Sculpture on a modern Hindu temple, Benares*.  
 
@@ -312,7 +312,7 @@ lotus blooms, employed in enticing hearts"; they had "fair round hips
 and slim waists", and "began to perform various evolutions, shaking
 their deep bosoms and casting their glances around, and exhibiting other
 attractive attitudes capable of stealing the hearts and resolutions and
-minds of the spectators". <span id="fr_124"></span>[1](#fn_123)
+minds of the spectators". <span id="fr_124"></span>[1](#fn_123.md)
 
 In the *Rigveda* there is a water-nymph, named Apsaras; she is the
 "spouse" of Gandharva, an atmospheric deity who prepares Soma for the
@@ -329,7 +329,7 @@ modern-day writers as the dark aborigines who were displaced by the
 significance is also given to the Rakshasas and the Gandharvas. But this
 tendency to identify the creatures of the spirit world with human beings
 may be carried too far. If "Dasyus" were really "dark folk", <span
-id="fr_125"></span>[1](#fn_124) it should be remembered that in Teutonic
+id="fr_125"></span>[1](#fn_124.md) it should be remembered that in Teutonic
 mythology there are "black dwarfs", who live in underground dwellings,
 and "white elves" associated with air and ocean; there are also black
 and white fairies in the Scottish High-lands, so that black and white
@@ -437,7 +437,7 @@ sight thou hast distracted my heart. My mind wandereth. Be merciful; I
 am thy obedient slave, thy adorer. O accept me. . . . O thou of lotus
 eyes, the flame of desire burneth within me. O extinguish that flame by
 throwing on it the water of thy love. . . . " <span
-id="fr_126"></span>[1](#fn_125)
+id="fr_126"></span>[1](#fn_125.md)
 
 Tapati replied: "I am not mistress of mine own self. I am a maiden ruled
 by my father. If thou dost love me, demand me of him. My heart hath been
@@ -474,7 +474,7 @@ Then a great Rishi brought Samvarana back to his capital with his
 Celestial bride. And after that things became as they were before. Rain
 fell in abundance and corn was grown. "Revived by that foremost of
 monarchs of virtuous soul, the capital and the country became glad with
-exceeding joy." <span id="fr_127"></span>[1](#fn_126) A son was born to
+exceeding joy." <span id="fr_127"></span>[1](#fn_126.md) A son was born to
 the king, and his name was Kuru.
 
 There are many other uncatalogued Celestial beings like Tapati in Indian
@@ -515,56 +515,56 @@ the widespread association of birds with the spirit world.
 
 ### Footnotes
 
-<span id="fn_112"></span>[63:1](iml09.htm#fr_113) Muir's *Original
+<span id="fn_112"></span>[63:1](iml09.htm#fr_113.md) Muir's *Original
 Sanskrit Texts*, v, 15.
 
-<span id="fn_113"></span>[63:2](iml09.htm#fr_114) Professor E. Vernon
+<span id="fn_113"></span>[63:2](iml09.htm#fr_114.md) Professor E. Vernon
 Arnold's *The Rigveda*, p. 54.
 
-<span id="fn_114"></span>[64:1](iml09.htm#fr_115) In the combat between
+<span id="fn_114"></span>[64:1](iml09.htm#fr_115.md) In the combat between
 Thor and the giant Hrungner, the thunder-hammer similarly cleaves a mass
 of flint hurled by the enemy.--*Teutonic Myth and Legend*.
 
-<span id="fn_115"></span>[64:2](iml09.htm#fr_116) *Mahabharata*, *Vana
+<span id="fn_115"></span>[64:2](iml09.htm#fr_116.md) *Mahabharata*, *Vana
 Parva* section, pp. 679-80, Roy's trans.
 
-<span id="fn_116"></span>[65:1](iml09.htm#fr_117) "Overwhelmed by
+<span id="fn_116"></span>[65:1](iml09.htm#fr_117.md) "Overwhelmed by
 misfortune" (Roy).
 
-<span id="fn_117"></span>[65:2](iml09.htm#fr_118) Heaven, Earth, and the
+<span id="fn_117"></span>[65:2](iml09.htm#fr_118.md) Heaven, Earth, and the
 Underworld.
 
-<span id="fn_118"></span>[65:3](iml09.htm#fr_119) *Mahabharata*.
+<span id="fn_118"></span>[65:3](iml09.htm#fr_119.md) *Mahabharata*.
 
-<span id="fn_119"></span>[66:1](iml09.htm#fr_120) Asuras are sometimes
+<span id="fn_119"></span>[66:1](iml09.htm#fr_120.md) Asuras are sometimes
 called Rakshasas also.
 
-<span id="fn_120"></span>[67:1](iml09.htm#fr_121) *Pron*. pe-shatch´as.
+<span id="fn_120"></span>[67:1](iml09.htm#fr_121.md) *Pron*. pe-shatch´as.
 
-<span id="fn_121"></span>[67:2](iml09.htm#fr_122) Bloomfield's
+<span id="fn_121"></span>[67:2](iml09.htm#fr_122.md) Bloomfield's
 *Atharvaveda*, iv, 36 (*Sacred Books of the East*, vol. xlii).
 
-<span id="fn_122"></span>[68:1](iml09.htm#fr_123) *Mahabharata*, Roy's
+<span id="fn_122"></span>[68:1](iml09.htm#fr_123.md) *Mahabharata*, Roy's
 trans. (*Sabha Parva*, p. 32).
 
-<span id="fn_123"></span>[69:1](iml09.htm#fr_124) *Vana Parva* section
+<span id="fn_123"></span>[69:1](iml09.htm#fr_124.md) *Vana Parva* section
 of *Mahabharata*.
 
-<span id="fn_124"></span>[70:1](iml09.htm#fr_125) Dasyu and Dasa are
+<span id="fn_124"></span>[70:1](iml09.htm#fr_125.md) Dasyu and Dasa are
 "applied in many passages of the *Rigveda* to superhuman enemies". The
 colour reference in Dasa is probable, but it is also used in other
 senses. For a full discussion on conflicting views regarding Dasyu and
 Dasa see *Vedic Index of Names and Subjects*. Macdonell and Keith, vol.
 i, pp. 347-9 and 356-8.
 
-<span id="fn_125"></span>[73:1](iml09.htm#fr_126) *Mahabharata*, Roy's
+<span id="fn_125"></span>[73:1](iml09.htm#fr_126.md) *Mahabharata*, Roy's
 translation (*Adi Parva*, section, pp. 495-6).
 
-<span id="fn_126"></span>[74:1](iml09.htm#fr_127) Like an Egyptian
+<span id="fn_126"></span>[74:1](iml09.htm#fr_127.md) Like an Egyptian
 Pharaoh, the rajah is here a god among men. His presence 01 necessary to
 ensure the success of rain-bringing ceremonies.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Social and Religious Developments of the Vedic
-Age](iml10)
+Age](iml10.md)

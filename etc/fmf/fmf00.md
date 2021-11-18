@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Next](fmf01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Next](fmf01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,9 +28,9 @@ attribution is left intact in all copies.
 <span id="img_cover"></span>
 
 [![Front Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover  
 
 ------------------------------------------------------------------------
 
-[Next: A Table of Contents](fmf01)
+[Next: A Table of Contents](fmf01.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc119) 
-[Next](motc121) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc119.md) 
+[Next](motc121.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ together.
 
 ------------------------------------------------------------------------
 
-[Next: 121. Herbert's Spring](motc121)
+[Next: 121. Herbert's Spring](motc121.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](chj10)  [Next](chj12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](chj10)  [Next](chj12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHTGG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Half Japan*, by Arthur Lloyd, \[1911\], at Intangible
 Textual Heritage
 
@@ -38,7 +38,7 @@ several successive nights there stood before him a man in golden
 raiment, holding in his hand a bow and arrows, pointing him to the west.
 The emperor was much moved by his vision, and, divining its purpose,
 determined to send men to the west to seek for the *mabito* <span
-id="fr_106"></span>[1](#fn_105) (<span id="img_07600"></span>
+id="fr_106"></span>[1](#fn_105.md) (<span id="img_07600"></span>
 ![](img/07600.jpg)) "the true man" of his vision. There was at this
 moment no commanding figure in Buddhism to whom the words could apply.
 As’vaghosha might have
@@ -82,12 +82,12 @@ conditions of the countries concerned, and we can readily understand
 that such an inquiry might bring the fact of Christ to the cognizance of
 the officials. The inquiry might have led them to an explanation of the
 "Great One Descending Man," looked for by the Jews of Kaifongfu. <span
-id="fr_107"></span>[1](#fn_106)
+id="fr_107"></span>[1](#fn_106.md)
 
 At any rate, Ming-ti, warned by his dream, sends his commissioners to
 the West. There were eighteen of them, their names, or at least some of
 them, are given, and they start for India. According to the most
-authentic form of the story, <span id="fr_108"></span>[2](#fn_107) they
+authentic form of the story, <span id="fr_108"></span>[2](#fn_107.md) they
 never reached India, for on the road they met two monks toiling over the
 mountain passes, and leading a white horse laden with the *impedimenta*
 of their journey. The names of these two travellers were Kaśyapa Matanga
@@ -112,7 +112,7 @@ Monastery of the White
 <span class="contnote">\[paragraph continues\]</span> Horse." It is
 evident that the White Horse made a great impression on China, an
 impression which apparently reached Japan as well. <span
-id="fr_109"></span>[1](#fn_108)
+id="fr_109"></span>[1](#fn_108.md)
 
 Kaśyapa Matanga and Dharmaraksha reached China in A.D. 67. Three years
 later, in A.D. 70, they both died. They had had but a short sojourn in
@@ -143,10 +143,10 @@ Four books are put to the credit of these two missionaries in Nanjo's
 "Catalogue of Tripitaka," of which, however, only one survives. One of
 the best books is said to have been a life of Buddha, which some have
 identified with the "Buddha caritâ" <span
-id="fr_110"></span>[1](#fn_109) of [As’vaghosha](errata.htm#1), an
+id="fr_110"></span>[1](#fn_109) of [As’vaghosha](errata.htm#1.md), an
 impossibility, seeing that the day of As’vaghosha had not yet come. The
 book that survives, that has weathered the many vicissitudes of Chinese
-history, the fires <span id="fr_111"></span>[2](#fn_110) and other
+history, the fires <span id="fr_111"></span>[2](#fn_110.md) and other
 catastrophes, is known as the "Sūtra of the Forty-Two Sections." It is
 not in the form of a dialogue as are most other Sūtras, but is merely a
 collection of short pithy sayings of "the Buddha," loosely strung
@@ -234,7 +234,7 @@ three first letters of the *name* of the Perfect Man, our cherished
 
 <span class="contnote">\[paragraph continues\]</span> Christian
 monogram, <span id="img_08300"></span> ![](img/08300.jpg), the man with
-the bow and arrows! <span id="fr_112"></span>[1](#fn_111)
+the bow and arrows! <span id="fr_112"></span>[1](#fn_111.md)
 
 6\. We may suppose this character for Buddha to have been introduced to
 China about the year 68 A.D. There are many competent scholars who
@@ -280,23 +280,23 @@ before Nero, by some unknown preacher before the Great Han Emperor. Then
 the labourers fell asleep, and the enemy came to sow the tares. Those
 first men were sent forth only to give a testimony, and when the
 testimony had been delivered the End of the Age came. <span
-id="fr_113"></span>[1](#fn_112)
+id="fr_113"></span>[1](#fn_112.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_105"></span>[76:1](chj11.htm#fr_106) Murakami, "Handbook of
+<span id="fn_105"></span>[76:1](chj11.htm#fr_106.md) Murakami, "Handbook of
 Buddhism," p. 290. The story will be found in the S.P.C.K. "Handbook of
 Chinese Buddhism."
 
-<span id="fn_106"></span>[78:1](chj11.htm#fr_107) See above, [p.
-50](chj07.htm#page_50).
+<span id="fn_106"></span>[78:1](chj11.htm#fr_107.md) See above, [p.
+50](chj07.htm#page_50.md).
 
-<span id="fn_107"></span>[78:2](chj11.htm#fr_108) Bukkyō Kakushu Kōyō,"
+<span id="fn_107"></span>[78:2](chj11.htm#fr_108.md) Bukkyō Kakushu Kōyō,"
 vol. i. chap. i. p. 4.
 
-<span id="fn_108"></span>[79:1](chj11.htm#fr_109) In "Bukkyō Mondō Shu,"
+<span id="fn_108"></span>[79:1](chj11.htm#fr_109.md) In "Bukkyō Mondō Shu,"
 vol. i. p. 34, in a discussion on As’vaghosha as the patron saint of
 silk-culture (he is so considered in the provinces of Shinshu and
 Echigo, and perhaps elsewhere in Japan), there is a mention of
@@ -308,26 +308,26 @@ The Shingon speaks of him as an incarnation of Vairoc’ana, who, in the
 days of his flesh, was the Eighth Patriarch of Buddhism. There are
 several temples in Japan in which a white horse is constantly kept.
 
-<span id="fn_109"></span>[80:1](chj11.htm#fr_110) In "Sacred Books of
+<span id="fn_109"></span>[80:1](chj11.htm#fr_110.md) In "Sacred Books of
 the East," vol. xlix. Bukkyō Mondo Shu (*l.c.*) correctly gives
 As’vaghosha's approximate date as "during the sixth century after the
 Nirvana."
 
-<span id="fn_110"></span>[80:2](chj11.htm#fr_111) Chinese history has
+<span id="fn_110"></span>[80:2](chj11.htm#fr_111.md) Chinese history has
 several "bibliothecal catastrophes," as they are termed, when, by order
 of the Government, all books were burned except a few favoured ones on
 practical subjects. But these catastrophes sometimes occurred at a time
 when China was divided into several kingdoms, and then of course they
 did not apply to the whole empire.
 
-<span id="fn_111"></span>[83:1](chj11.htm#fr_112) Compare what has been
+<span id="fn_111"></span>[83:1](chj11.htm#fr_112.md) Compare what has been
 said above of the "Divine Name of the Six Letters."
 
-<span id="fn_112"></span>[84:1](chj11.htm#fr_113) A good translation of
+<span id="fn_112"></span>[84:1](chj11.htm#fr_113.md) A good translation of
 the Sutra of the Forty-Two Sections will be found in "Sermons by a
 Buddhist Abbot." Chicago, Open Court, 1905.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter X. Buddhism just before the Coming of
-Christianity](chj12)
+Christianity](chj12.md)

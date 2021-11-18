@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico095) 
-[Next](nico097) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico095.md) 
+[Next](nico097.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ assessed it at before he had it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2. Conflict of obligations](nico097)
+[Next: Chapter 2. Conflict of obligations](nico097.md)

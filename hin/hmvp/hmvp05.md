@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp04)  [Next](hmvp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp04)  [Next](hmvp06.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -80,7 +80,7 @@ seventeen hymns—is by far the most important; whilst the
 Atharva-Veda-Sanhita, though generally held to be the most recent, is
 perhaps the most interesting. Moreover, these are the only two Vedic
 hymn-books worthy of being called separate original collections;" <span
-id="fr_0"></span>[\*](#fn_0) the others being almost entirely made up of
+id="fr_0"></span>[\*](#fn_0.md) the others being almost entirely made up of
 extracts from the Rig-Veda. Between the time of the composition of the
 Rig-Veda and that of the Atharva, considerable changes in the religious
 faith of the people had come about. The childlike trust of the earlier
@@ -107,7 +107,7 @@ of which, in its reference to mantras, must not
 always be taken literally, as there are hymns in which not gods nor
 deified beings, but, for instance, a sacrificial post, weapons, etc.,
 invoked, are considered as the *devata*. <span
-id="fr_1"></span>[\*](#fn_1) It should, however, be noticed that the
+id="fr_1"></span>[\*](#fn_1.md) It should, however, be noticed that the
 deifying of a "sacrificial post" or a "weapon" is in perfect harmony
 with the general pantheistic notions which prevailed amongst the people
 then as now: so that there is nothing unnatural according to their
@@ -149,7 +149,7 @@ tainted texts and retained them. Hence these texts are called
 Taittiriyas. But Yājnavalkya, desirous of obtaining Yajus texts,
 devoutly prayed to the Sun, and had granted to him his wish—'to possess
 such texts as were not known to his teacher.'" <span
-id="fr_2"></span>[\*](#fn_2) And thus there are two Yajur-Vedas to this
+id="fr_2"></span>[\*](#fn_2.md) And thus there are two Yajur-Vedas to this
 day; the Black being considered the older of the two.
 
 As to the date of the Vedas, there is nothing certainly known. There is
@@ -177,14 +177,14 @@ Vedas are threatened with the punishment of hell.( 9 )
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:\*](hmvp05.htm#fr_0) "Indian Wisdom," p. 9.
+<span id="fn_0"></span>[5:\*](hmvp05.htm#fr_0.md) "Indian Wisdom," p. 9.
 
-<span id="fn_1"></span>[6:\*](hmvp05.htm#fr_1) Goldstücker, art.
+<span id="fn_1"></span>[6:\*](hmvp05.htm#fr_1.md) Goldstücker, art.
 "Vedas," Chambers's Cyclopædia.
 
-<span id="fn_2"></span>[7:\*](hmvp05.htm#fr_2) Art. "Vedas," Chambers's
+<span id="fn_2"></span>[7:\*](hmvp05.htm#fr_2.md) Art. "Vedas," Chambers's
 Cyclopædia.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Vedic Gods Generally](hmvp06)
+[Next: Chapter II. The Vedic Gods Generally](hmvp06.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes10)  [Next](mes12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes10)  [Next](mes12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -45,7 +45,7 @@ historian Eflākī, his disciple, were together at Sultāniyya, in the
 north of Persia, the new capital of the great western Mogul empire.
 
 They were visiting at the convent of a certain Mevlevi dervish, named
-Sheykh Suhrāb, <span id="fr_34"></span>[1](#fn_33) with sundry of the
+Sheykh Suhrāb, <span id="fr_34"></span>[1](#fn_33.md) with sundry of the
 friends and saints, all of whom were engaged in the study of different
 books, at about the hour of midday, excepting ‘Ārif, who was enjoying a
 *siesta*.
@@ -258,9 +258,9 @@ of his grandfather. His half-brother ‘Ābid succeeded him.
 
 ### Footnotes
 
-<span id="fn_33"></span>[126:1](mes11.htm#fr_34) Europeanised Armenians
+<span id="fn_33"></span>[126:1](mes11.htm#fr_34.md) Europeanised Armenians
 have made this into *Zohrab*, as their own family name.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](mes12)
+[Next: Chapter IX](mes12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm42)  [Next](bnm44) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm42)  [Next](bnm44.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ should never be able to keep it closed.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The Picture On The Vase.](bnm44)
+[Next: The Story Of The Picture On The Vase.](bnm44.md)

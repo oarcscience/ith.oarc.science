@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tolkien](../index) 
-[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw25) 
-[Next](wbw27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tolkien](../index.md) 
+[Morris](../../neu/morris/index)  [Index](index)  [Previous](wbw25.md) 
+[Next](wbw27.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wood Beyond the World*, by William Morris, \[1894\], at Intangible
 Textual Heritage
 
@@ -166,6 +166,6 @@ of life. Meanwhile, I bid thee good-night, fair friend!"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVII: Morning Amongst The Bears](wbw27)
+[Next: Chapter XXVII: Morning Amongst The Bears](wbw27.md)
 
 </div>

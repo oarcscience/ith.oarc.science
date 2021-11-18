@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc22)  [Next](sfoc24) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc22)  [Next](sfoc24.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ their great progenitors, who live in the upper world
 
 ------------------------------------------------------------------------
 
-[Next: Color Symbolism](sfoc24)
+[Next: Color Symbolism](sfoc24.md)

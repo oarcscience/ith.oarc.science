@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa61)  [Next](psa63) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa61)  [Next](psa63.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ favour, they make whomsoever they please great and powerful, renowned,
 celebrated and glorious, by conferring boons. And whatsoever persons
 perform a very difficult penance in honour of you, for a hundred years,
 attain to the dignity of Raja .And whoever forgetting and abandoning
-your worship, [meditation](errata.htm#15), prayers, penance and
+your worship, [meditation](errata.htm#15.md), prayers, penance and
 guidance, do wicked acts, are of themselves utterly ruined and
 disgraced. O lord of compassion! it is your constant custom to descend
 in various forms and frequently upon the earth for the sake of your
@@ -149,4 +149,4 @@ attended upon him.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXII](psa63)
+[Next: Chapter LXII](psa63.md)

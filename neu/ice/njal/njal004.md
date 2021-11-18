@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal003)  [Next](njal005) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal003)  [Next](njal005.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ well." Then Hrut sailed away south with his crews.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Atli Arnvid Son's Slaying](njal005)
+[Next: 5. Atli Arnvid Son's Slaying](njal005.md)

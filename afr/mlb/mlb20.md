@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb19)  [Next](mlb21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb19)  [Next](mlb21.md) 
 
 ------------------------------------------------------------------------
 
@@ -695,4 +695,4 @@ sacrificed. But this is to digress too far from our subject.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIX: Stories of Some Other Animals](mlb21)
+[Next: Chapter XIX: Stories of Some Other Animals](mlb21.md)

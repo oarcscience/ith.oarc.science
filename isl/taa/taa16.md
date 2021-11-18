@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa15)  [Next](taa17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa15)  [Next](taa17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -98,7 +98,7 @@ revelation, not of faith and mystery, and that they proceed from the
 manifestation of forms.
 
 7\. He refers to a state of concealment which is characteristic of the
-Malámatís. <span id="fr_22"></span>[1](#fn_22)
+Malámatís. <span id="fr_22"></span>[1](#fn_22.md)
 
 9\. 'They journeyed continuously': since the object sought is infinite,
 the return from it is also a journey towards it. There is no migration
@@ -127,7 +127,7 @@ essence, so that envy and jealousy are removed from their hearts.
 
 ### Footnotes
 
-<span id="fn_22"></span>[74:1](taa16.htm#fr_22) A Ṣúfí sect or school
+<span id="fn_22"></span>[74:1](taa16.htm#fr_22.md) A Ṣúfí sect or school
 who emphasized the need of incurring blame (*malámat*) for God's sake
 and of concealing spiritual merit, lest they should fall into
 self-conceit. See my translation of the *Kashf al-Maḥjúb*, pp. 62-9.
@@ -136,6 +136,6 @@ self-conceit. See my translation of the *Kashf al-Maḥjúb*, pp. 62-9.
 
 ------------------------------------------------------------------------
 
-[Next: XIV](taa17)
+[Next: XIV](taa17.md)
 
 </div>

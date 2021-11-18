@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq63)  [Next](sfq65) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq63)  [Next](sfq65.md) 
 
 ------------------------------------------------------------------------
 
@@ -108,4 +108,4 @@ just merit.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventure of the Two Brothers and the Coffer](sfq65)
+[Next: The Adventure of the Two Brothers and the Coffer](sfq65.md)

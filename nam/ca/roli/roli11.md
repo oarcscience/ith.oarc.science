@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli10)  [Next](roli12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli10)  [Next](roli12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 Both the Luiseños and the Diegueños have had a commemorative ceremony
 for the dead from early times; but with what tribe the manufacture of
 images made to represent the dead person originated, must be matter of
-speculation. <span id="fr_48"></span>[41](#fn_45)
+speculation. <span id="fr_48"></span>[41](#fn_45.md)
 
 The Luiseño ritual is especially complete in the exactness with which
 the song series are performed; and the Chungichnish worship may be said
@@ -48,13 +48,13 @@ ceremony and digs as many holes as there are images to stand them in. He
 first calls out three times and the others answer him; then, carrying
 the images, they march to the sacred enclosure of brush, singing the
 solemn recitative: "Towish chokya, the spirit appears." <span
-id="fr_49"></span>[42](#fn_46) They stand the images in the holes
+id="fr_49"></span>[42](#fn_46.md) They stand the images in the holes
 
 <span id="page_101">p. 101</span>
 
 while the women among the relatives place gifts of valuables where they
 can be accepted by those performing the ceremony, who sing the songs of
-Tochinish, <span id="fr_50"></span>[43](#fn_47) the Image ritual, while
+Tochinish, <span id="fr_50"></span>[43](#fn_47.md) the Image ritual, while
 standing near the images.
 
 The men and women of the visiting party have their faces painted, but
@@ -62,21 +62,21 @@ the relatives do not paint or sing or take any part in the ceremony.
 
 The singing without dancing goes on for a certain length of time. Then
 the chief takes a whirling-board, or bull-roarer, mumlapish. <span
-id="fr_51"></span>[44](#fn_48) Instead of telling them to stop singing,
+id="fr_51"></span>[44](#fn_48.md) Instead of telling them to stop singing,
 he whirls the board three times. The images are then again lifted up,
 and carried back in procession to the more distant place. The dancers
 now paint themselves and put on the feather head-dresses. The
 whirling-board is swung again as a signal, and they come again carrying
 the images and marching around the sacred enclosure, bringing the
-turtle-shell rattle. <span id="fr_52"></span>[45](#fn_49) In the sacred
+turtle-shell rattle. <span id="fr_52"></span>[45](#fn_49.md) In the sacred
 enclosure they dance to a long series of songs.
 
 Then they burn the images, sometimes burning the clothes and decorations
 with them; but the visitors have the right to take off the clothes and
 keep them, the relatives furnishing others for the burning. While the
 images are burning, the men and women dance around the fire singing
-Sungamish, <span id="fr_53"></span>[46](#fn_50) the finishing songs.
-Other songs called Topasish <span id="fr_54"></span>[47](#fn_51) are
+Sungamish, <span id="fr_53"></span>[46](#fn_50.md) the finishing songs.
+Other songs called Topasish <span id="fr_54"></span>[47](#fn_51.md) are
 sung while only the men dance. They sing one or two of these songs and
 half a dozen or so will dance.
 
@@ -84,7 +84,7 @@ A whirling dance with an eagle-feather skirt is danced at this ceremony.
 They sing and dance all night, and may end the ceremony by noon the next
 day.
 
-The songs of Pikmakvul, <span id="fr_55"></span>[48](#fn_52) death, are
+The songs of Pikmakvul, <span id="fr_55"></span>[48](#fn_52.md) death, are
 sung while they burn the clothes, and during the burning they have a
 recitative describing
 
@@ -127,19 +127,19 @@ times as an ordeal in a sort of sequel to the toloache ceremony to train
 the young men.
 
 Then some of the series called Nokwanish, <span
-id="fr_56"></span>[49](#fn_53) songs in memory of the dead. The little
+id="fr_56"></span>[49](#fn_53.md) songs in memory of the dead. The little
 rabbit, Tovit, was the first man to sing in the original ceremony for
 the dead when they burned Ouiot, so they sing the Nokwanish songs which
 the rabbit sang.
 
 Then follow some of the series called Totowish. <span
-id="fr_57"></span>[50](#fn_54) These mention the spiders, rattlesnakes,
+id="fr_57"></span>[50](#fn_54.md) These mention the spiders, rattlesnakes,
 and the sun, the avengers of Chungichnish.
 
 <span id="page_103">p. 103</span>
 
 Then some of the series called Munival, <span
-id="fr_58"></span>[51](#fn_55) songs of places or landmarks.
+id="fr_58"></span>[51](#fn_55.md) songs of places or landmarks.
 
 Last of all are sung some songs from the series Nyachish, song of the
 people, in which they load their enemies with indecent epithets and
@@ -151,52 +151,52 @@ Fighting arose over this. So they sing against each other. Even the
 women sing these songs.
 
 This ends Lucario's account of the Image fiesta. <span
-id="fr_59"></span>[52](#fn_56)
+id="fr_59"></span>[52](#fn_56.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_45"></span>[100:41](roli11.htm#fr_48) Mourning ceremonies
+<span id="fn_45"></span>[100:41](roli11.htm#fr_48.md) Mourning ceremonies
 with images to represent the dead are not confined to Southern
 California. Professor Dixon has recently described an elaborate form in
 his "The Northern Maidu," Bull. Am. Mus. Nat. Hist., XVII, 245, 254.—Ed.
 
-<span id="fn_46"></span>[100:42](roli11.htm#fr_49) Towish, spirit,
+<span id="fn_46"></span>[100:42](roli11.htm#fr_49.md) Towish, spirit,
 corpse, 'devil'; choxya (x German ch), perfect tense of choxi, to be
 born.—S.
 
-<span id="fn_47"></span>[101:43](roli11.htm#fr_50) Tauchanish.—S.
+<span id="fn_47"></span>[101:43](roli11.htm#fr_50.md) Tauchanish.—S.
 
-<span id="fn_48"></span>[101:44](roli11.htm#fr_51) A flat disk of wood
+<span id="fn_48"></span>[101:44](roli11.htm#fr_51.md) A flat disk of wood
 attached to a string and whirled in the air to make a dull humming
 sound, still used at Mesa Grande. Mr. Sparkman gives momlaxpish (x
 German ch).
 
-<span id="fn_49"></span>[101:45](roli11.htm#fr_52) Paiayut; paiala,
+<span id="fn_49"></span>[101:45](roli11.htm#fr_52.md) Paiayut; paiala,
 turtle. (Paayat, paila.—S.)
 
-<span id="fn_50"></span>[101:46](roli11.htm#fr_53) Shangamish, songs,
+<span id="fn_50"></span>[101:46](roli11.htm#fr_53.md) Shangamish, songs,
 also a dance, at the ceremony at which clothing is burned.—S.
 
-<span id="fn_51"></span>[101:47](roli11.htm#fr_54) Tapa’sash.—S.
+<span id="fn_51"></span>[101:47](roli11.htm#fr_54.md) Tapa’sash.—S.
 
-<span id="fn_52"></span>[101:48](roli11.htm#fr_55) Pi’mukvul, death,
+<span id="fn_52"></span>[101:48](roli11.htm#fr_55.md) Pi’mukvul, death,
 also songs at mourning ceremony; pi’mukvul is singular past; pi’makish,
 singular present.—S.
 
-<span id="fn_53"></span>[102:49](roli11.htm#fr_56) Nokwanish, general
+<span id="fn_53"></span>[102:49](roli11.htm#fr_56.md) Nokwanish, general
 name for men's songs.—S.
 
-<span id="fn_54"></span>[102:50](roli11.htm#fr_57) Totawish, a dancer of
+<span id="fn_54"></span>[102:50](roli11.htm#fr_57.md) Totawish, a dancer of
 the morahash ceremony.—S.
 
-<span id="fn_55"></span>[103:51](roli11.htm#fr_58) Monival, verbal noun
+<span id="fn_55"></span>[103:51](roli11.htm#fr_58.md) Monival, verbal noun
 from moni, to go, come, journey; denotes past action of verb, tracks,
 where something passed; there are songs of monival, where one's
 ancestors traveled.—S.
 
-<span id="fn_56"></span>[103:52](roli11.htm#fr_59) According to the
+<span id="fn_56"></span>[103:52](roli11.htm#fr_59.md) According to the
 Diegueños, the Mohave people first made mourning images at Wikami, a
 wonderful mountain, level on top, where all the religious ceremonials
 originated. Humkahap, the Mohaves, were the youngest, that is, the last
@@ -207,4 +207,4 @@ Anthropologist, N.s. VII, 625, 1905.
 
 ------------------------------------------------------------------------
 
-[Next: The Notish Ceremony](roli12)
+[Next: The Notish Ceremony](roli12.md)

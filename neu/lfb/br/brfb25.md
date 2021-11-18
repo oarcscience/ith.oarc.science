@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb24)  [Next](brfb26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb24)  [Next](brfb26.md) 
 
 </div>
 
@@ -394,6 +394,6 @@ cooked the salmon.
 
 ------------------------------------------------------------------------
 
-[Next: Kisa the Cat](brfb26)
+[Next: Kisa the Cat](brfb26.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ctdi03)  [Next](ctdi05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ctdi03)  [Next](ctdi05.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ be found at Mesa Grande, where most of the younger Indians know only
 enough of their mother tongue for conversation with parents and
 grandparents in the house. Any Diegueño word not in common use, any
 allusion to the myths, the gods, or ceremonies, is foreign to
-them. <span id="fr_7"></span>[1](#fn_8) It is extremely fortunate that
+them. <span id="fr_7"></span>[1](#fn_8.md) It is extremely fortunate that
 in the Manzanita region an excellent interpreter was found, familiar
 with the rare terminology of the past. The loss is great that in the
 death of Cinon Duro, September 17, 1906, there must die many a secret of
@@ -159,10 +159,10 @@ in every look and gesture.
 
 ### Footnotes
 
-<span id="fn_8"></span>[232:1](ctdi04.htm#fr_7) The Mesa Grande Chaup
+<span id="fn_8"></span>[232:1](ctdi04.htm#fr_7.md) The Mesa Grande Chaup
 story (*Journal of American Folk-Lore*, 1904, vol. xvii, pp. 217-241) is
 an exception, being well interpreted.
 
 ------------------------------------------------------------------------
 
-[Next: Significance of Myths](ctdi05)
+[Next: Significance of Myths](ctdi05.md)

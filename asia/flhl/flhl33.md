@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl32)  [Next](flhl34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl32)  [Next](flhl34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ discover secrets in the magic mirror of ink or by the sand table.
 
 When Ali was grown up, the old man said to him: "My son, I have taught
 you all I know. There are few khatìbs <span
-id="fr_136"></span>[1](#fn_135) with half your learning. All you have
+id="fr_136"></span>[1](#fn_135.md) with half your learning. All you have
 now to do is to become a Haji by pilgrimage to the Holy Places. Then, in
 sh’Allah, you will find it easy to obtain a post, like mine, of
 honourable ease. As a derwìsh, you need no money. Take my old abâyeh,
@@ -81,8 +81,8 @@ once the makâm of Sheykh ’Eyr. Things had gone too far for explanation.
 Ali could only watch the work which was begun without delay. First of
 all they built a cenotaph over the grave and enclosed it in a room of
 the right shape and size. Then they made an open hall <span
-id="fr_137"></span>[1](#fn_136) with a prayer-niche, <span
-id="fr_138"></span>[2](#fn_137) to mark the kibleh. On the side of the
+id="fr_137"></span>[1](#fn_136.md) with a prayer-niche, <span
+id="fr_138"></span>[2](#fn_137.md) to mark the kibleh. On the side of the
 hall opposite the tomb-chamber, a second room was erected for the
 accommodation of the guardian of the shrine. Last of all, they built a
 little minaret, dug a well, and surrounded the whole with an
@@ -105,7 +105,7 @@ could
 not remember even to have heard of this one. Out of curiosity, he
 determined to make the pilgrimage to Sheykh ’Eyr and find out for
 himself its origin and history. On the last day of its season of
-pilgrimage, <span id="fr_139"></span>[1](#fn_138) he reached the makâm,
+pilgrimage, <span id="fr_139"></span>[1](#fn_138.md) he reached the makâm,
 and was astonished at the endless crowd of pilgrims. In the guardian of
 the shrine he was still more surprised to recognise his pupil Ali. The
 pair embraced one another with cries of joy, and went into Ali's house
@@ -149,7 +149,7 @@ associate with his tricks. However, she said to herself, "Here on earth,
 naturally, mistakes are made, but in heaven they will be corrected."
 
 Hannah died in the odour of sanctity, and her soul was wafted to the
-gate of heaven, where Mar Bûtrus <span id="fr_140"></span>[1](#fn_139)
+gate of heaven, where Mar Bûtrus <span id="fr_140"></span>[1](#fn_139.md)
 sits with the keys to admit the worthy. She timidly knocked for
 admission. "Who is there?" said Mar Bûtrus, looking out of the
 machicolated window above the gate. "Ah! Another redeemed soul! Your
@@ -240,7 +240,7 @@ morning transferred one of them to another pocket. Thus, by counting the
 peas still in the first pocket, he could always tell how many days
 remained.
 
-This priest had a wife, <span id="fr_141"></span>[1](#fn_140) who did
+This priest had a wife, <span id="fr_141"></span>[1](#fn_140.md) who did
 not know of this arrangement. One day, when tidying his clothes, she
 found pease in his pockets, and concluded that
 
@@ -252,7 +252,7 @@ forehead and exclaiming: "According to the peas there will be no feast."
 
  
 
-One day during a fast, <span id="fr_142"></span>[1](#fn_141) a monk who
+One day during a fast, <span id="fr_142"></span>[1](#fn_141.md) a monk who
 was strolling through the market came upon a peasant woman with some
 eggs for sale. Sick to death of eating nothing but vegetables, he bought
 a few of them, carried them secretly to his cell in the convent, and
@@ -306,11 +306,11 @@ hostage. The woman refused, pointing out that
 she did not even know his name, in case she had to make complaint to his
 Abbot. "Oh," said the monk, "that is easily remedied. We all go by
 Scripture names in our convent. Mine is "’Ufû lina Khateyâna." <span
-id="fr_143"></span>[1](#fn_142) You have but to inquire for 'Ufû lina
+id="fr_143"></span>[1](#fn_142.md) You have but to inquire for 'Ufû lina
 Khateyâna, and I should be called at once." "Ah, that's a beautiful
 name," said the woman, "but I have a better one: "La tadkhilna fi
 et-tajribat wa-lakin najì dajajâti min esh-sharìr." <span
-id="fr_144"></span>[2](#fn_143)
+id="fr_144"></span>[2](#fn_143.md)
 
  
 
@@ -345,7 +345,7 @@ This sheykh of the camels was so huge that he looked like a mountain
 moving. Hair hung from his sides like the tassels from a pair of
 saddle-bags. At every step he raised a cloud of dust that darkened the
 air, and his foot left a print as large as a kneading-trough. <span
-id="fr_145"></span>[1](#fn_144) All who passed him exclaimed,
+id="fr_145"></span>[1](#fn_144.md) All who passed him exclaimed,
 "Mashallah! Praised be the Creator!" at the same time spitting to right
 and left against the evil eye.
 
@@ -372,35 +372,35 @@ little donkey--this it is we find insufferable."
 
 ### Footnotes
 
-<span id="fn_135"></span>[234:1](flhl33.htm#fr_136) The khatìb is the
+<span id="fn_135"></span>[234:1](flhl33.htm#fr_136.md) The khatìb is the
 Moslem village preacher and schoolmaster.
 
-<span id="fn_136"></span>[236:1](flhl33.htm#fr_137) Iwân.
+<span id="fn_136"></span>[236:1](flhl33.htm#fr_137.md) Iwân.
 
-<span id="fn_137"></span>[236:2](flhl33.htm#fr_138) Mihrab.
+<span id="fn_137"></span>[236:2](flhl33.htm#fr_138.md) Mihrab.
 
-<span id="fn_138"></span>[237:1](flhl33.htm#fr_139) Maûsam.
+<span id="fn_138"></span>[237:1](flhl33.htm#fr_139.md) Maûsam.
 
-<span id="fn_139"></span>[238:1](flhl33.htm#fr_140) St Peter.
+<span id="fn_139"></span>[238:1](flhl33.htm#fr_140.md) St Peter.
 
-<span id="fn_140"></span>[241:1](flhl33.htm#fr_141) The Greek parish
+<span id="fn_140"></span>[241:1](flhl33.htm#fr_141.md) The Greek parish
 clergy are obliged to marry, and, if their wife dies, to retire to a
 monastery, as it is forbidden them to marry again.--ED.
 
-<span id="fn_141"></span>[242:1](flhl33.htm#fr_142) The fast days of the
+<span id="fn_141"></span>[242:1](flhl33.htm#fr_142.md) The fast days of the
 Orthodox Eastern Church amount to more than a third of the whole year.
 Abstinence is enjoined from all animal food, including eggs, milk, and
 butter, and everything cooked with those ingredients.
 
-<span id="fn_142"></span>[244:1](flhl33.htm#fr_143) Forgive us our
+<span id="fn_142"></span>[244:1](flhl33.htm#fr_143.md) Forgive us our
 trespasses.
 
-<span id="fn_143"></span>[244:2](flhl33.htm#fr_144) Lead us not into
+<span id="fn_143"></span>[244:2](flhl33.htm#fr_144.md) Lead us not into
 temptation, but deliver my fowls from the Evil One.
 
-<span id="fn_144"></span>[245:1](flhl33.htm#fr_145) Circular wooden
+<span id="fn_144"></span>[245:1](flhl33.htm#fr_145.md) Circular wooden
 dishes are used as kneading-troughs by the Syrian fellahìn.
 
 ------------------------------------------------------------------------
 
-[Next: IX. About Women](flhl34)
+[Next: IX. About Women](flhl34.md)

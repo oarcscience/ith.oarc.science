@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey11)  [Next](grey13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey11)  [Next](grey13.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ he raised the winds that they should blow
 upon the prow of the canoe, and drive it astern, and the crew of the
 canoe were at their wits' end, and quite forgot their skill as seamen,
 and the canoe drew straight into the whirlpool, called 'The throat of Te
-Parata', <span id="fr_13"></span>[1](#fn_13) and dashed right into that
+Parata', <span id="fr_13"></span>[1](#fn_13.md) and dashed right into that
 whirlpool.
 
 The canoe became engulfed by the whirlpool, and its prow disappeared in
@@ -197,7 +197,7 @@ gave to a place the name of Te Ranga of Taikehu.
 
 <span id="page_108">p. 108</span>
 
-The Tainui left Whanga-Paraoa <span id="fr_14"></span>[1](#fn_14)
+The Tainui left Whanga-Paraoa <span id="fr_14"></span>[1](#fn_14.md)
 shortly after the Arawa, and, proceeding nearly in the same direction as
 the Arawa, made the Gulf of Hauraki, and then coasted along to
 Rakau-mangamanga, or Cape Brett, and to the island with an arched
@@ -241,7 +241,7 @@ their canoe, fixed themselves there for the time, whilst the Arawa was
 left at Maketu.
 
 We now return to the Arawa. We left the people of it at Tauranga. That
-canoe next floated at Motiti; <span id="fr_15"></span>[1](#fn_15) they
+canoe next floated at Motiti; <span id="fr_15"></span>[1](#fn_15.md) they
 named that place after a spot in Hawaiki (because there was no firewood
 there). Next Tia, to commemorate his name, called the place now known by
 the name of Rangiuru, Takapu-o-tapui-ika-nui-a-Tia. Then Hei stood up
@@ -353,7 +353,7 @@ After this a dispute arose between Tama-te-kapua and Kahu-mata-momoe,
 and in consequence of that disturbance, Tama' and Ngatoro removed to
 Tauranga, and found Taikehu living there, and collecting food for them
 (by fishing), and that place was called by them *Te
-Ranga-a-Taikehu*; <span id="fr_16"></span>[1](#fn_16) it lies beyond
+Ranga-a-Taikehu*; <span id="fr_16"></span>[1](#fn_16.md) it lies beyond
 Motu-hoa; then they departed from Tauranga, and stopped at Kati-kati,
 where they ate food. Tama's men devoured the food very fast, whilst he
 kept on only nibbling his, therefore they applied this circumstance as a
@@ -391,7 +391,7 @@ Tama-te-kapua had told him. After this the Wife of Kahu-mata-momoe
 conceived a child.
 
 At this time Ihenga, taking some dogs with him to catch kiwi <span
-id="fr_17"></span>[1](#fn_17) with, went to Paritangi by way of
+id="fr_17"></span>[1](#fn_17.md) with, went to Paritangi by way of
 Hakomiti, and a kiwi was chased by one of his dogs, and caught in a
 lake, and the dog ate some
 
@@ -612,21 +612,21 @@ the Tainui.
 
 ### Footnotes
 
-<span id="fn_13"></span>[105:1](grey12.htm#fr_13) The Maoris have
+<span id="fn_13"></span>[105:1](grey12.htm#fr_13.md) The Maoris have
 another name for this whirlpool; they call it 'the steep descent where
 the world ends.'
 
-<span id="fn_14"></span>[108:1](grey12.htm#fr_14) Whanga-Paraoa, the bay
+<span id="fn_14"></span>[108:1](grey12.htm#fr_14.md) Whanga-Paraoa, the bay
 of the sperm whale, so called from the whale found there.
 
-<span id="fn_15"></span>[109:1](grey12.htm#fr_15) Kai Motiti koe e noho
+<span id="fn_15"></span>[109:1](grey12.htm#fr_15.md) Kai Motiti koe e noho
 ana, 'I suppose you are at Motiti, as you can find no firewood.'
 
-<span id="fn_16"></span>[112:1](grey12.htm#fr_16) The fishing bank of
+<span id="fn_16"></span>[112:1](grey12.htm#fr_16.md) The fishing bank of
 Taikehu.
 
-<span id="fn_17"></span>[113:1](grey12.htm#fr_17) Apterix australis.
+<span id="fn_17"></span>[113:1](grey12.htm#fr_17.md) Apterix australis.
 
 ------------------------------------------------------------------------
 
-[Next: The Curse of Manaia](grey13)
+[Next: The Curse of Manaia](grey13.md)

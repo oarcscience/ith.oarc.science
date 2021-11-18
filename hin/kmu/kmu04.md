@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu03)  [Next](kmu05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu03)  [Next](kmu05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -79,9 +79,9 @@ he fail or succeed only partially or for a season, who lives only to
 bring about peace of soul, joy, purity and perfection among all
 mankind."
 
-<span class="small">[Excerpt](errata.htm#3) from the "Yoga and Its
+<span class="small">[Excerpt](errata.htm#3.md) from the "Yoga and Its
 Objects" by a Master.</span>
 
 ------------------------------------------------------------------------
 
-[Next: Location of Kundalini](kmu05)
+[Next: Location of Kundalini](kmu05.md)

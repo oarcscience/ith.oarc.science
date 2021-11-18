@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar187) [Next](gbar189)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar187) [Next](gbar189.md)
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ And that is all that thou desiredst, O Master,' \[said the scribe\].
 
 ------------------------------------------------------------------------
 
-[Next](gbar189)
+[Next](gbar189.md)

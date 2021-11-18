@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah92)  [Next](oah94) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah92)  [Next](oah94.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ in atmospherea.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](oah94)
+[Next: Chapter VII](oah94.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp33)  [Next](dmp35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp33)  [Next](dmp35.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ with styrax (?), (18) you pound it together with one drachma of apple
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. III](dmp35)
+[Next: Verso Col. III](dmp35.md)

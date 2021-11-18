@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico075) 
-[Next](nico077) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico075.md) 
+[Next](nico077.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ ought to do so, while the former does not think this.
 ------------------------------------------------------------------------
 
 [Next: Chapter 10. Practical wisdom is not compatible with incontinence,
-but cleverness is](nico077)
+but cleverness is](nico077.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc40)  [Next](osc42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc40)  [Next](osc42.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ antiquarian.
 
 ------------------------------------------------------------------------
 
-[Next: (1) Dreams](osc42)
+[Next: (1) Dreams](osc42.md)

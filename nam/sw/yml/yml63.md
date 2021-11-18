@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml62)  [Next](yml64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml62)  [Next](yml64.md) 
 
 ------------------------------------------------------------------------
 
@@ -175,4 +175,4 @@ Indians (Densmore 1929: 45-54).
 
 ------------------------------------------------------------------------
 
-[Next: The Snake of the Hill of Nohme](yml64)
+[Next: The Snake of the Hill of Nohme](yml64.md)

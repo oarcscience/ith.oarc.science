@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll10)  [Next](tll12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll10)  [Next](tll12.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,7 +78,7 @@ fructified; a female (a queen, or working bee) if the egg has been
 fructified. It is evident from this, that in reality there exists no
 wide chasm between sexual and non-sexual reproduction, but that both
 modes of reproduction are directly connected." <span
-id="fr_15"></span>[1](#fn_15)
+id="fr_15"></span>[1](#fn_15.md)
 
 Now, the interesting fact in connection with the evolution of Third Race
 man on Lemuria, is that his mode of reproduction ran through phases
@@ -109,18 +109,18 @@ the fourth sub-race, the babe lost its faculty of walking as soon as
 liberated from its shell, and by the end of the fifth, mankind was born
 under the same conditions and by the same identical process as our
 historical generations. This required, of course, millions of
-years." <span id="fr_16"></span>[1](#fn_16)
+years." <span id="fr_16"></span>[1](#fn_16.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_15"></span>[27:1](tll11.htm#fr_15) Ernst Haeckel's " The
+<span id="fn_15"></span>[27:1](tll11.htm#fr_15.md) Ernst Haeckel's " The
 History of Creation," 2nd ed., Vol. I., pp. 193-8.
 
-<span id="fn_16"></span>[28:1](tll11.htm#fr_16) "The Secret Doctrine,"
+<span id="fn_16"></span>[28:1](tll11.htm#fr_16.md) "The Secret Doctrine,"
 Vol. ii., p. 197.
 
 ------------------------------------------------------------------------
 
-[Next: Lemurian Races still Inhabiting the Earth](tll12)
+[Next: Lemurian Races still Inhabiting the Earth](tll12.md)

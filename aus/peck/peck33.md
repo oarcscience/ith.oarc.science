@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck32)  [Next](peck34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck32)  [Next](peck34.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ and they are the red flowering ones. The Waratah is one of them.
 
 ------------------------------------------------------------------------
 
-[Next: Mist And A Fringe Flower](peck34)
+[Next: Mist And A Fringe Flower](peck34.md)

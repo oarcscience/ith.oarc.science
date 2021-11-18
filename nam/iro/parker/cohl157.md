@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl156)  [Next](cohl158) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl156)  [Next](cohl158.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ rattles.
 
 ------------------------------------------------------------------------
 
-[Next: Chanters for the Dead](cohl158)
+[Next: Chanters for the Dead](cohl158.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp11) [Next](onp13)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp11) [Next](onp13.md)
 
 ------------------------------------------------------------------------
 
@@ -29,14 +29,14 @@ reception. But now, great din arises, and he asks Bragi, the god of
 Skaldic art, what it might be. No less joyful it sounds, Bragi thinks,
 than if Baldr himself were returning—Baldr whose fall was most fateful
 to the gods, and whose longed-for return to Valholl would be for them a
-matter of the greatest rejoicing!<span id="fr_1"></span>[1](#note_1) But
+matter of the greatest rejoicing!<span id="fr_1"></span>[1](#note_1.md) But
 Óthin, better acquainted with Fate, recognizes King Eric from afar and
 bids two of the heroes of the olden times rise up and welcome him:
 *ragnarok,* the Doom of the Gods, is approaching, and heroes such as
 Eric will be needed for the impending battle with the monsters of
 destruction. Eric draws near; and with him enter into Valholl <span
 id="page_64">p. 64</span> no less than five kings slain in battle—worthy
-retinue for his apotheosis!<span id="fr_2"></span>[2](#note_2)
+retinue for his apotheosis!<span id="fr_2"></span>[2](#note_2.md)
 
  The form of the poem is quite irregular—*málaháttr* followed by loosely
 built *lióthaháttr* stanzas. Though a skaldic effort, it is notably
@@ -168,7 +168,7 @@ This fain would I know: who be following thee<br />
 
 ------------------------------------------------------------------------
 
-[Next](onp13)
+[Next](onp13.md)
 
 ------------------------------------------------------------------------
 
@@ -176,24 +176,24 @@ This fain would I know: who be following thee<br />
 
 <span id="footnotes_page_63">p. 63</span>
 
-<span id="note_1"></span>[1](#fr_1) Cf. *Baldr’s Dreams,* 6, 7;
+<span id="note_1"></span>[1](#fr_1.md) Cf. *Baldr’s Dreams,* 6, 7;
 *Voluspó,* 24 ff.
 
 <span id="footnotes_page_64">p. 64</span>
 
-<span id="note_2"></span>[2](#fr_2) It is interesting to note that in
+<span id="note_2"></span>[2](#fr_2.md) It is interesting to note that in
 that spirited Anglo-Saxon poem of the *Battle of Brunanburh,* fought not
 so many years before (937) and under similar circumstances, the bodies
 of five kings likewise lie on the battlefield (line 28).
 
-<span id="note_3"></span>[3](#fr_3) The fallen warriors who are gathered
+<span id="note_3"></span>[3](#fr_3.md) The fallen warriors who are gathered
 by the valkyries into Óthin’s hall; cf. *Vafthrúthnismól,* 41.
 
-<span id="note_4"></span>[4](#fr_4) The earth.
+<span id="note_4"></span>[4](#fr_4.md) The earth.
 
 <span id="footnotes_page_65">p. 65</span>
 
-<span id="note_5"></span>[5](#fr_5) The same reproach is hurled at Óthin
+<span id="note_5"></span>[5](#fr_5.md) The same reproach is hurled at Óthin
 by Loki, *Lokasenna,* 22:
 
 <table data-cellpadding="10">
@@ -213,11 +213,11 @@ Oft thou gavest, as give thou shouldst not,<br />
 </tbody>
 </table>
 
-<span id="note_6"></span>[6](#fr_6) Conjecture. Óthin’s defense is that
+<span id="note_6"></span>[6](#fr_6.md) Conjecture. Óthin’s defense is that
 the best of (fallen) heroes—the *einheriar*—will be needed in the final
 battle with the Wolf, Fenrir (cf. *Voluspó,* 45 f.).
 
-<span id="note_7"></span>[7](#fr_7) Pars *pro toto* for “sword.”
+<span id="note_7"></span>[7](#fr_7.md) Pars *pro toto* for “sword.”
 
  
 

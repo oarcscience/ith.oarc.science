@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe013)  [Next](prwe015) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe013)  [Next](prwe015.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ and took no more heed of it.
 ------------------------------------------------------------------------
 
 [Next: Tom and the Giant Blunderbuss or, The Wheel and Exe
-Fight](prwe015)
+Fight](prwe015.md)

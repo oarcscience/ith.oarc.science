@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv09)  [Next](rsv11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv09)  [Next](rsv11.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,7 +204,7 @@ of Hue’ and Saigon. The diocese of Saigon was sub-divided in 1965 into
 three dioceses with these being Saigon, Xuan-loc, and Phu-Cuong. Exact
 area of each diocese is given on statistical pages of this
 study.](tn/03900.jpg)  
-Click to enlarge](img/03900.jpg)  
+Click to enlarge](img/03900.jpg.md)  
   
 
 Map of Roman Catholic Dioceses of South Vietnam
@@ -649,4 +649,4 @@ PERSONAL RESPONSE PROJECT FILE
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Protestantism in South Vietnam](rsv11)
+[Next: VIII. Protestantism in South Vietnam](rsv11.md)

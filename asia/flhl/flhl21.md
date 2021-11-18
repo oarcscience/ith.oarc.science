@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl20)  [Next](flhl22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl20)  [Next](flhl22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -84,7 +84,7 @@ The impartial judge caused search to be made for
 
 that girl. She was found, and brought before him.
 
-"O veiled one," <span id="fr_62"></span>[1](#fn_62) he said, "the red
+"O veiled one," <span id="fr_62"></span>[1](#fn_62.md) he said, "the red
 dress which you wore on such a day has cost this carpenter a broken leg,
 and so you must pay the damages."
 
@@ -104,7 +104,7 @@ Kadi, who inquired: "Is the dog dead?" They replied, "He is tall, and
 the door of his house is very low. He will not hang there."
 
 "Then hang the first short man you can find," said Karakash. <span
-id="fr_63"></span>[2](#fn_63)
+id="fr_63"></span>[2](#fn_63.md)
 
  
 
@@ -121,7 +121,7 @@ jaws, performed the usual ablutions upon the body, stuffed the nostrils,
 ears and other apertures with cotton wool against the entrance of
 demons, sprinkled the wool with a mixture of water, pounded camphor, and
 dried and pounded leaves of the lotus-tree, <span
-id="fr_64"></span>[1](#fn_64) and also with rose-water; bound the feet
+id="fr_64"></span>[1](#fn_64.md) and also with rose-water; bound the feet
 together by a bandage round the ankles, and disposed the hands upon the
 breast.
 
@@ -157,19 +157,19 @@ peacefully buried.
 
 ### Footnotes
 
-<span id="fn_62"></span>[122:1](flhl21.htm#fr_62) Ya mustûrah.
+<span id="fn_62"></span>[122:1](flhl21.htm#fr_62.md) Ya mustûrah.
 Respectable Moslem and Christian townswomen always go about veiled.
 
-<span id="fn_63"></span>[122:2](flhl21.htm#fr_63) A delightful compound
+<span id="fn_63"></span>[122:2](flhl21.htm#fr_63.md) A delightful compound
 of this and the foregoing story is given as a reading exercise in "A
 manual of the Spoken Arabic of Egypt," by J. S. Willmore. It is called
 "El Harâmi el Mazlûm" (The ill-treated Robber), and the name of Karakash
 is omitted. It is the funnier from being written in the kind of
-baby-Arabic spoken by the [Egyptian](errata.htm#1) fellahìn.--ED.
+baby-Arabic spoken by the [Egyptian](errata.htm#1.md) fellahìn.--ED.
 
-<span id="fn_64"></span>[123:1](flhl21.htm#fr_64) Zizyphus spina
+<span id="fn_64"></span>[123:1](flhl21.htm#fr_64.md) Zizyphus spina
 Christi.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Saragossan Purim](flhl22)
+[Next: VIII. The Saragossan Purim](flhl22.md)

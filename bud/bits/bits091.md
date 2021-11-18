@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits090) [Next](bits092)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits090) [Next](bits092.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ distressed at, ashamed of, and loathe doing evil with the mind."
 
 ------------------------------------------------------------------------
 
-[Next: § 92. The Saints Superior to the Gods](bits092)
+[Next: § 92. The Saints Superior to the Gods](bits092.md)
 
  
 

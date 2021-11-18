@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa06)  [Next](smoa08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa06)  [Next](smoa08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -217,4 +217,4 @@ strength to soul.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Atlantian knowledge of creation's laws. Origin of the
-priesthood. Authority of the priests.](smoa08)
+priesthood. Authority of the priests.](smoa08.md)

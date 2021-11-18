@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl06)  [Next](hpl08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl06)  [Next](hpl08.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ Ulthar no man may kill a cat.
 
 ------------------------------------------------------------------------
 
-[Next: The Doom That Came to Sarnath (1920)](hpl08)
+[Next: The Doom That Came to Sarnath (1920)](hpl08.md)

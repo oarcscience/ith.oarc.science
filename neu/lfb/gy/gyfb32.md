@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb31)  [Next](gyfb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb31)  [Next](gyfb33.md) 
 
 </div>
 
@@ -301,6 +301,6 @@ together in joy and happiness.
 
 ------------------------------------------------------------------------
 
-[Next: Cannetella](gyfb33)
+[Next: Cannetella](gyfb33.md)
 
 </div>

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](fsgr07)  [Next](fsgr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](fsgr07)  [Next](fsgr09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Five Stages of Greek Religion*, by Gilbert Murray, \[1925\], at
 Intangible Textual Heritage
 
@@ -62,7 +62,7 @@ without a contrite heart and conviction of sin, man can hardly attain
 the religious life. I can imagine an historian of this temper believing
 that the period we are about to discuss was a necessary softening of
 human pride, a *Praeparatio Evangelica*.<span
-id="an_fr_124_1"></span>[124\_1](fsgr08.htm#an_fn_124_1)
+id="an_fr_124_1"></span>[124\_1](fsgr08.htm#an_fn_124_1.md)
 
 <span id="page_125">p. 125</span>
 
@@ -181,7 +181,7 @@ the popular superstitions, when they have constructed complete systems
 which, if not absolutely logic-proof, are calculated at least to keep
 out the weather for a century or so, open curious side-doors at the last
 moment and let in all the gods of mythology.<span
-id="an_fr_129_1"></span>[129\_1](fsgr08.htm#an_fn_129_1) True, they are
+id="an_fr_129_1"></span>[129\_1](fsgr08.htm#an_fn_129_1.md) True, they are
 admitted as suspicious characters, and under promise of good behaviour.
 Epicurus explains that they do not and cannot do anything whatever to
 anybody; Zeno explains that they are not anthropomorphic, and are only
@@ -290,10 +290,10 @@ There is the famous
 
 taken by Juvenal from the Greek. There are many unguarded phrases and at
 least three corrections in Polybius.<span
-id="an_fr_133_1"></span>[133\_1](fsgr08.htm#an_fn_133_1) Most
+id="an_fr_133_1"></span>[133\_1](fsgr08.htm#an_fn_133_1.md) Most
 interesting of all perhaps, there is the first oration of Plutarch on
 the Fortune of Alexander.<span
-id="an_fr_133_2"></span>[133\_2](fsgr08.htm#an_fn_133_2) A sentence in
+id="an_fr_133_2"></span>[133\_2](fsgr08.htm#an_fn_133_2.md) A sentence in
 Pliny's *Natural History*, ii. 22, seems to go back to Hellenistic
 sources:
 
@@ -324,18 +324,18 @@ requires a certain amount of thoughtfulness to rise to the conception
 that nothing really happens without a cause. It is the beginning,
 perhaps, of science. Ionic philosophers of the fifth century had laid
 stress on the <u>Ἀνάγκη φύσιος</u>,<span
-id="an_fr_134_1"></span>[134\_1](fsgr08.htm#an_fn_134_1) what we should
+id="an_fr_134_1"></span>[134\_1](fsgr08.htm#an_fn_134_1.md) what we should
 call the Chain of causes in Nature. After the rise of Stoicism Fate
 becomes something less physical, more related to conscious purpose. It
 is not *Anankê* but *Heimarmenê*. Heimarmenê, in the striking simile of
-Zeno,<span id="an_fr_134_2"></span>[134\_2](fsgr08.htm#an_fn_134_2) is
+Zeno,<span id="an_fr_134_2"></span>[134\_2](fsgr08.htm#an_fn_134_2.md) is
 like a fine thread running through the whole of existence—the world, we
 must remember, was to the Stoics a live <span id="page_135">p.
 135</span> thing—like that invisible thread of life which, in heredity,
 passes on from generation to generation of living species and keeps the
 type alive; it runs causing, causing for ever, both the infinitesimal
 and the infinite. It is the <u>Λόγος τοῦ Κόσμου</u>,<span
-id="an_fr_135_1"></span>[135\_1](fsgr08.htm#an_fn_135_1) the <u>Νοῦς
+id="an_fr_135_1"></span>[135\_1](fsgr08.htm#an_fn_135_1.md) the <u>Νοῦς
 Διός</u>, the Reason of the World or the mind of Zeus, rather difficult
 to distinguish from the Pronoia or Providence which is the work of God
 and indeed the very essence of God. Thus it is not really an external
@@ -347,13 +347,13 @@ freedom. Only when you are false to your own nature and become a rebel
 against the kingdom of God which is within you, are you dragged perforce
 behind the chariot-wheels. The doctrine is implied in Cleanthes'
 celebrated Hymn to Destiny and is explained clearly by Plotinus.<span
-id="an_fr_135_2"></span>[135\_2](fsgr08.htm#an_fn_135_2)
+id="an_fr_135_2"></span>[135\_2](fsgr08.htm#an_fn_135_2.md)
 
 That is a noble conception. But the vulgar of course can turn Kismet
 into a stupid idol, as easily as they can Fortune. And Epicurus may have
 had some excuse for exclaiming that he would sooner be a slave to the
 old gods of the vulgar, than to the Destiny of the philosophers.<span
-id="an_fr_135_3"></span>[135\_3](fsgr08.htm#an_fn_135_3)
+id="an_fr_135_3"></span>[135\_3](fsgr08.htm#an_fn_135_3.md)
 
 So much for the result in superstitious minds of the denial, or rather
 the removal, of the Olympian Gods. It landed men in the worship of
@@ -367,7 +367,7 @@ religion after the Olympian system fell.
 
 Aristotle himself gives us a fairly clear answer. He held that the
 origins of man's idea (<u>ἔννοια</u>) of the Divine were twofold,<span
-id="an_fr_136_1"></span>[136\_1](fsgr08.htm#an_fn_136_1) the phenomena
+id="an_fr_136_1"></span>[136\_1](fsgr08.htm#an_fn_136_1.md) the phenomena
 of the sky and the phenomena of the human soul. It is very much what
 Kant found two thousand years later. The spectacle of the vast and
 ordered movements of the heavenly bodies are compared by him in a famous
@@ -398,7 +398,7 @@ themselves divine, and it is a step which both Plato and Aristotle,
 following Pythagoras and followed by the Stoics, take with confidence.
 Chrysippus gives practically the same list of gods: 'the Sun, Moon, and
 Stars; and Law: and men who have become Gods.'<span
-id="an_fr_136_2"></span>[136\_2](fsgr08.htm#an_fn_136_2) Both the
+id="an_fr_136_2"></span>[136\_2](fsgr08.htm#an_fn_136_2.md) Both the
 wandering stars and the fixed stars are 'animate beings, divine and
 eternal', self-acting subordinate gods. As to the divinity of the soul
 or the mind of man, the earlier generations are shy about it. But in the
@@ -440,14 +440,14 @@ development in the life of this goddess. In the old religion of Greece
 and Western Asia, she begins as a Maiden, then in fullness of time
 becomes a mother. There is evidence also for a third stage, the
 widowhood of withering autumn.<span
-id="an_fr_138_1"></span>[138\_1](fsgr08.htm#an_fn_138_1) To the
+id="an_fr_138_1"></span>[138\_1](fsgr08.htm#an_fn_138_1.md) To the
 classical Greek this motherhood was quite as it should be, a due
 fulfilment of normal functions. But to the Gnostic and his kind it
 connoted a 'fall', a passage from the glory of Virginity to a state of
-Sin.<span id="an_fr_138_2"></span>[138\_2](fsgr08.htm#an_fn_138_2) The
+Sin.<span id="an_fr_138_2"></span>[138\_2](fsgr08.htm#an_fn_138_2.md) The
 Korê becomes a fallen Virgin, sometimes a temptress or even a female
 devil; sometimes she has to be saved by her Son the Redeemer.<span
-id="an_fr_138_3"></span>[138\_3](fsgr08.htm#an_fn_138_3) As far as I
+id="an_fr_138_3"></span>[138\_3](fsgr08.htm#an_fn_138_3.md) As far as I
 have observed, she loses most of her earthly agricultural quality,
 though as Selene or even Helen she keeps up her affinity with the Moon.
 
@@ -458,7 +458,7 @@ bodies. When Plutarch explains in his beautiful and kindly way that all
 religions are really attempts towards the same goal, he clinches his
 argument by <span id="page_139">p. 139</span> observing that we all see
 the same Sun and Moon though we call them by different names in all
-languages.<span id="an_fr_139_1"></span>[139\_1](fsgr08.htm#an_fn_139_1)
+languages.<span id="an_fr_139_1"></span>[139\_1](fsgr08.htm#an_fn_139_1.md)
 But the belief does not seem to have had much religious intensity in it,
 until it was reinforced by two alien influences.
 
@@ -470,7 +470,7 @@ ideal world. This worship came gradually into contact with the
 traditional and definite Sun-worship of Persia. The final combination
 took place curiously late. It was the Roman conquests of Cilicia,
 Cappadocia, Commagene, and Armenia that gave the decisive moment.<span
-id="an_fr_139_2"></span>[139\_2](fsgr08.htm#an_fn_139_2) To men who had
+id="an_fr_139_2"></span>[139\_2](fsgr08.htm#an_fn_139_2.md) To men who had
 wearied of the myths of the poets, who could draw no more inspiration
 from their Apollo and Hyperion, but still had the habits and the craving
 left by their old Gods, a fresh breath of reality came with the entrance
@@ -478,7 +478,7 @@ of <u>Ἥλιος ἀνίκητος Μίθρας</u>, 'Mithras, the Unconquere
 long before the triumph of Mithraism as the military religion of the
 Roman frontier, Greek literature is permeated with a kind of intense
 language about the Sun, which seems derived from Plato.<span
-id="an_fr_139_3"></span>[139\_3](fsgr08.htm#an_fn_139_3) In later times,
+id="an_fr_139_3"></span>[139\_3](fsgr08.htm#an_fn_139_3.md) In later times,
 in the fourth century <span class="smcap">a. d.</span> for instance, it
 has absorbed some more full-blooded and less critical element as well.
 
@@ -492,7 +492,7 @@ planet under the guidance of a divine spirit? The latter seems to win
 the day. Anthropomorphism has stolen back upon us: we can use the old
 language and speak simply of the planet Mercury as <u>Ἑρμοῦ ἀστήρ</u>.
 It is the star of Hermes, and Hermes is the spirit who guides it.<span
-id="an_fr_140_1"></span>[140\_1](fsgr08.htm#an_fn_140_1) Even Plato in
+id="an_fr_140_1"></span>[140\_1](fsgr08.htm#an_fn_140_1.md) Even Plato in
 his old age had much to say about the souls of the seven planets.
 Further, each planet has its sphere. The Earth is in the centre, then
 comes the sphere of the Moon, then that of the Sun, and so on through a
@@ -505,7 +505,7 @@ names, Mercury and Venus.) But one part only is visible. The voice of
 one school, as usual, is raised in opposition. One veteran had seen
 clearly from the beginning whither all this sort of thing was sure to
 lead. 'Epicurus approves none of these things.'<span
-id="an_fr_140_2"></span>[140\_2](fsgr08.htm#an_fn_140_2) It was no <span
+id="an_fr_140_2"></span>[140\_2](fsgr08.htm#an_fn_140_2.md) It was no <span
 id="page_141">p. 141</span> good his having destroyed the old
 traditional superstition, if people by deifying the stars were to fill
 the sky with seven times seven as many objects of worship as had been
@@ -530,7 +530,7 @@ for the phenomena as completely as the current theory with its
 'Epicycles'; his fellow astronomers were against him; Cleanthes the
 Stoic denounced him for 'disturbing the Hearth of the Universe', and his
 heresy made little headway.<span
-id="an_fr_141_1"></span>[141\_1](fsgr08.htm#an_fn_141_1)
+id="an_fr_141_1"></span>[141\_1](fsgr08.htm#an_fn_141_1.md)
 
 The planets in their seven spheres surrounding the earth continued to be
 objects of adoration. They had their special gods or guiding spirits
@@ -543,12 +543,12 @@ seem always to be unfavourable. It may be that we are too far off,
 though, considering the vastness of the orchestra, this seems
 improbable. More likely we are merely deaf to it because it never stops
 and we have been in the middle of it since we first drew breath.<span
-id="an_fr_142_1"></span>[142\_1](fsgr08.htm#an_fn_142_1)
+id="an_fr_142_1"></span>[142\_1](fsgr08.htm#an_fn_142_1.md)
 
 The planets also become Elements in the Kosmos, *Stoicheia*. It is
 significant that in Hellenistic theology the word Stoicheion, Element,
 gets to mean a Daemon—as Megathos, Greatness, means an Angel.<span
-id="an_fr_142_2"></span>[142\_2](fsgr08.htm#an_fn_142_2) But behold a
+id="an_fr_142_2"></span>[142\_2](fsgr08.htm#an_fn_142_2.md) But behold a
 mystery! The word *Stoicheia*, 'elementa', had long been used for the
 Greek A B C, and in particular for the seven vowels <u>α</u> <u>ε</u>
 <u>η</u> <u>ι</u> <u>ο</u> <u>υ</u> <u>ω</u>. That is no chance, no mere
@@ -566,7 +566,7 @@ the Jewish campaign of Pompeius. But it was not the Jewish week. The
 Jews scorned such idolatrous and polytheistic proceedings. It was the
 old week of Babylon, the original home of astronomy and
 planet-worship.<span
-id="an_fr_143_1"></span>[143\_1](fsgr08.htm#an_fn_143_1)
+id="an_fr_143_1"></span>[143\_1](fsgr08.htm#an_fn_143_1.md)
 
 For here again a great foreign religion came like water in the desert to
 minds reluctantly and superficially enlightened, but secretly longing
@@ -574,7 +574,7 @@ for the old terrors and raptures from which they had been set free. Even
 in the old days Aeschylus had called the planets 'bright potentates,
 shining in the fire of heaven', and Euripides had spoken of the 'shaft
 hurled from a star'.<span
-id="an_fr_143_2"></span>[143\_2](fsgr08.htm#an_fn_143_2) But we are told
+id="an_fr_143_2"></span>[143\_2](fsgr08.htm#an_fn_143_2.md) But we are told
 that the first teaching of astrology in Hellenic lands was in the time
 of Alexander, when Bêrôssos the Chaldaean set up a school in Cos and,
 according to Seneca, *Belum interpretatus est*. This must mean that he
@@ -582,7 +582,7 @@ translated into Greek the '*Eye of Bel*', a treatise in seventy tablets
 found in the library of Assur-bani-pal (686-626 <span class="smcap">b.
 c.</span>) but composed for Sargon I in the third millennium <span
 class="smcap">b. c.</span> Even the philosopher Theophrastus is reported
-by Proclus<span id="an_fr_143_3"></span>[143\_3](fsgr08.htm#an_fn_143_3)
+by Proclus<span id="an_fr_143_3"></span>[143\_3](fsgr08.htm#an_fn_143_3.md)
 as saying that 'the most extraordinary thing of his age was the lore of
 the Chaldaeans, who foretold not only events of public interest but even
 the lives and deaths of individuals'. One wonders slightly whether
@@ -630,23 +630,23 @@ gave way. They formed with good reason the leading school of philosophy,
 and it would have been a service to mankind if they had resisted. But
 they were already committed to a belief in the deity of the stars and to
 the doctrine of Heimarmenê, or Destiny. They believed in the pervading
-Pronoia,<span id="an_fr_145_1"></span>[145\_1](fsgr08.htm#an_fn_145_1)
+Pronoia,<span id="an_fr_145_1"></span>[145\_1](fsgr08.htm#an_fn_145_1.md)
 or Forethought, of the divine mind, and in the <u>Συμπάθεια τῶν
 ὅλων</u>—the Sympathy of all Creation,<span
-id="an_fr_145_2"></span>[145\_2](fsgr08.htm#an_fn_145_2) whereby
+id="an_fr_145_2"></span>[145\_2](fsgr08.htm#an_fn_145_2.md) whereby
 whatever happens to any one part, however remote or insignificant,
 affects all the rest. It seemed only a natural and beautiful
 illustration of this Sympathy that the movements of the Stars should be
 bound up with the sufferings of man. They also appealed to the general
 belief in prophecy and divination.<span
-id="an_fr_145_3"></span>[145\_3](fsgr08.htm#an_fn_145_3) If a prophet
+id="an_fr_145_3"></span>[145\_3](fsgr08.htm#an_fn_145_3.md) If a prophet
 can foretell that such and such an event will happen, then it is
 obviously fated to happen. Foreknowledge implies Predestination. This
 belief in prophecy was, in reality, a sort of appeal to fact and to
 common sense. People could produce then, as they can now, a large number
 of striking cases of second sight, presentiment, clairvoyance, actual
 prophecy and the like;<span
-id="an_fr_145_4"></span>[145\_4](fsgr08.htm#an_fn_145_4) and it was more
+id="an_fr_145_4"></span>[145\_4](fsgr08.htm#an_fn_145_4.md) and it was more
 difficult then to test them.
 
 <span id="page_146">p. 146</span>
@@ -663,14 +663,14 @@ was respectable, recondite, and in a way sublime.
 In all the religious systems of later antiquity, if I mistake not, the
 Seven Planets play some lordly or terrifying part. The great Mithras
 Liturgy, unearthed by Dieterich from a magical papyrus in Paris,<span
-id="an_fr_146_1"></span>[146\_1](fsgr08.htm#an_fn_146_1) repeatedly
+id="an_fr_146_1"></span>[146\_1](fsgr08.htm#an_fn_146_1.md) repeatedly
 confronts the worshipper with the seven vowels as names of 'the Seven
 Deathless Kosmokratores', or Lords of the Universe, and seems, under
 their influence, to go off into its 'Seven Maidens with heads of
 serpents, in white raiment', and its divers other Sevens. The various
 Hermetic and Mithraic communities, the Naassenes described by
 Hippolytus,<span
-id="an_fr_146_2"></span>[146\_2](fsgr08.htm#an_fn_146_2) and other
+id="an_fr_146_2"></span>[146\_2](fsgr08.htm#an_fn_146_2.md) and other
 Gnostic bodies, authors like Macrobius and even Cicero in his *Somnium
 Scipionis*, are full of the influence of the seven planets and of the
 longing to escape beyond them. For by some simple psychological law the
@@ -682,7 +682,7 @@ laughter will end, become inevitably powers of evil rather than good,
 beings malignant as well as pitiless, making life a vain thing. And
 Saturn, the chief of them, becomes the most malignant. To some of the
 Gnostics he becomes Jaldabaoth, the Lion-headed God, the evil
-Jehovah.<span id="an_fr_147_1"></span>[147\_1](fsgr08.htm#an_fn_147_1)
+Jehovah.<span id="an_fr_147_1"></span>[147\_1](fsgr08.htm#an_fn_147_1.md)
 The religion of later antiquity is overpoweringly absorbed in plans of
 escape from the prison of the seven planets.
 
@@ -695,7 +695,7 @@ damp and the ills of earth and bad daemons. Above the Moon there is no
 chance, only Necessity: there is the will of the other six
 Kosmokratores, Rulers of the Universe. But above them all there is an
 Eighth region—they call it simply the Ogdoas—the home of the ultimate
-God,<span id="an_fr_147_2"></span>[147\_2](fsgr08.htm#an_fn_147_2)
+God,<span id="an_fr_147_2"></span>[147\_2](fsgr08.htm#an_fn_147_2.md)
 whatever He is named, whose being was before the Kosmos. In this Sphere
 is true Being and Freedom. And more than freedom, there is the ultimate
 Union with God. For that spark of divine life which is man's soul is not
@@ -710,7 +710,7 @@ his vision, answers them unterrified: <u>ἐγώ εἰμι σύμπλανος 
 carried to the grave on his golden scroll the same boast: first, 'I am
 the child of Earth and of the starry Heaven'; then later, 'I too am
 become God'.<span
-id="an_fr_148_1"></span>[148\_1](fsgr08.htm#an_fn_148_1) The Gnostic
+id="an_fr_148_1"></span>[148\_1](fsgr08.htm#an_fn_148_1.md) The Gnostic
 writings consist largely of charms to be uttered by the Soul to each of
 the Planets in turn, as it pursues its perilous path past all of them to
 its ultimate home.
@@ -722,7 +722,7 @@ But to see Him after due purification, to be led to Him along the true
 Way by an initiating Priest, is the ultimate blessing of human life. It
 is to die and be born again. There were regular official initiations. We
 have one in the Mithras-Liturgy, more than one in the Corpus Hermeticum.
-Apuleius<span id="an_fr_148_2"></span>[148\_2](fsgr08.htm#an_fn_148_2)
+Apuleius<span id="an_fr_148_2"></span>[148\_2](fsgr08.htm#an_fn_148_2.md)
 tells us at some length, though in guarded language, how he was
 initiated to Isis and became 'her image'. After much fasting, clad in
 holy garments and led by the High Priest, he crossed the threshold of
@@ -738,12 +738,12 @@ visions of god vouchsafed to persons of special prophetic powers. St.
 Paul, we may remember, knew personally a man who had actually been
 snatched up into the Third Heaven, and another who was similarly rapt
 into Paradise, where he heard unspeakable words;<span
-id="an_fr_149_1"></span>[149\_1](fsgr08.htm#an_fn_149_1) whether in the
+id="an_fr_149_1"></span>[149\_1](fsgr08.htm#an_fn_149_1.md) whether in the
 body or not, the apostle leaves undecided. He himself on the road to
 Damascus had seen the Christ in glory, not after the flesh. The
 philosopher Plotinus, so his disciple tells us, was united with God in
 trance four times in five years.<span
-id="an_fr_149_2"></span>[149\_2](fsgr08.htm#an_fn_149_2)
+id="an_fr_149_2"></span>[149\_2](fsgr08.htm#an_fn_149_2.md)
 
 We seem to have travelled far from the simplicity <span id="page_150">p.
 150</span> of early Greek religion. Yet, apart always from Plotinus, who
@@ -761,16 +761,16 @@ quite at home in some of these rituals, though in others they would have
 been put off with some substitute for the actual blood. The primitive
 priestesses who waited in a bridal chamber for the Divine Bridegroom,
 even the Cretan Kourêtes with their Zeus Kourês<span
-id="an_fr_150_1"></span>[150\_1](fsgr08.htm#an_fn_150_1) and those
+id="an_fr_150_1"></span>[150\_1](fsgr08.htm#an_fn_150_1.md) and those
 strange hierophants of the 'Men's House' whose initiations are written
 on the rocks of Thera, would have found rites very like their own
 reblossoming on earth after the fall of Hellenism. 'Prepare thyself as a
 bride to receive her bridegroom,' says Markos the Gnostic,<span
-id="an_fr_150_2"></span>[150\_2](fsgr08.htm#an_fn_150_2) 'that thou
+id="an_fr_150_2"></span>[150\_2](fsgr08.htm#an_fn_150_2.md) 'that thou
 mayst be what I am and I what thou art.' 'I in thee, and thou in me!' is
 the ecstatic cry of one of the Hermes liturgies. Before that the prayer
 has been 'Enter into me as a babe into the womb of a woman'.<span
-id="an_fr_150_3"></span>[150\_3](fsgr08.htm#an_fn_150_3)
+id="an_fr_150_3"></span>[150\_3](fsgr08.htm#an_fn_150_3.md)
 
 <span id="page_151">p. 151</span>
 
@@ -809,7 +809,7 @@ as Euripides, whose Melanippe says of her cosmological doctrines,
 <div class="stanza">
 
 <span class="i0">'It is not my word but my Mother's word'.<span
-id="an_fr_152_1"></span>[152\_1](fsgr08.htm#an_fn_152_1)  
+id="an_fr_152_1"></span>[152\_1](fsgr08.htm#an_fn_152_1.md)  
 </span>
 
 </div>
@@ -835,7 +835,7 @@ between Man and God. Sophrosynê in religion was the message of the
 classical age. But the ages before and after had no belief in such a
 lesson. The old Medicine-Man was perhaps himself the first *Theos*. At
 any rate the primeval kings and queens were treated as divine.<span
-id="an_fr_152_2"></span>[152\_2](fsgr08.htm#an_fn_152_2) Just for a few
+id="an_fr_152_2"></span>[152\_2](fsgr08.htm#an_fn_152_2.md) Just for a few
 great generations, it would seem, humanity rose to a sufficient height
 of self-criticism <span id="page_153">p. 153</span> and self-restraint
 to reject these dreams of self-abasement or megalomania. But the effort
@@ -846,7 +846,7 @@ about.
 
 First there was the explicit recognition by the soberest philosophers of
 the divine element in man's soul.<span
-id="an_fr_153_1"></span>[153\_1](fsgr08.htm#an_fn_153_1) Aristotle
+id="an_fr_153_1"></span>[153\_1](fsgr08.htm#an_fn_153_1.md) Aristotle
 himself built an altar to Plato. He did nothing superstitious; he did
 not call Plato a god, but we can see from his beautiful elegy to
 Eudemus, that he naturally and easily used language of worship which
@@ -865,15 +865,15 @@ beggaring the fables of the poets, put people in the right mind for
 worship. Then came the fact that the kings whom he conquered were, as a
 matter of fact, mostly regarded by their subjects as <span
 id="page_154">p. 154</span> divine beings.<span
-id="an_fr_154_1"></span>[154\_1](fsgr08.htm#an_fn_154_1) It was easy, it
+id="an_fr_154_1"></span>[154\_1](fsgr08.htm#an_fn_154_1.md) It was easy, it
 was almost inevitable, for those who worshipped the 'God'<span
-id="an_fr_154_2"></span>[154\_2](fsgr08.htm#an_fn_154_2) Darius to feel
+id="an_fr_154_2"></span>[154\_2](fsgr08.htm#an_fn_154_2.md) Darius to feel
 that it was no man but a greater god who had overthrown Darius. The
 incense which had been burned before those conquered gods was naturally
 offered to their conqueror. He did not refuse it. It was not good policy
 to do so, and self-depreciation is not apt to be one of the weaknesses
 of the born ruler.<span
-id="an_fr_154_3"></span>[154\_3](fsgr08.htm#an_fn_154_3) But besides all
+id="an_fr_154_3"></span>[154\_3](fsgr08.htm#an_fn_154_3.md) But besides all
 this, if you are to judge a God by his fruits, what God could produce
 better credentials? Men had often seen Zeus defied with impunity; they
 had seen faithful servants of Apollo come to bad ends. But those who
@@ -895,7 +895,7 @@ One of the characteristics of the period of the Diadochi is the
 accumulation of capital and military force in the hands of individuals.
 The Ptolemies and Seleucidae had at any moment at their disposal powers
 very much greater than any Pericles or Nicias or Lysander.<span
-id="an_fr_155_1"></span>[155\_1](fsgr08.htm#an_fn_155_1) The folk of the
+id="an_fr_155_1"></span>[155\_1](fsgr08.htm#an_fn_155_1.md) The folk of the
 small cities of the Aegean hinterlands must have felt towards these
 great strangers almost as poor Indian peasants in time of flood and
 famine feel towards an English official. There were men now on earth who
@@ -928,7 +928,7 @@ Wendland in his brilliant book, *Hellenistisch-römische Kultur*, calls
 attention to an inscription of the year 196 <span class="smcap">b.
 c.</span> in honour of the young Ptolemaios Epiphanês, who was made
 manifest at the age of twelve years.<span
-id="an_fr_156_1"></span>[156\_1](fsgr08.htm#an_fn_156_1) It is a typical
+id="an_fr_156_1"></span>[156\_1](fsgr08.htm#an_fn_156_1.md) It is a typical
 document of Graeco-Egyptian king-worship:
 
 <div class="blockquot">
@@ -974,7 +974,7 @@ those who of old revolted in the same regions . . . in return for which
 the Gods have granted him Health Victory Power and all other good
 things, the Kingdom remaining to him and his sons for time
 everlasting.'<span
-id="an_fr_157_1"></span>[157\_1](fsgr08.htm#an_fn_157_1)
+id="an_fr_157_1"></span>[157\_1](fsgr08.htm#an_fn_157_1.md)
 
 </div>
 
@@ -992,12 +992,12 @@ was the really divine thing in man; and the most divine kind of virtue
 was that of helping humanity. To love and help humanity is, according to
 Stoic doctrine, the work and the very essence of God. If you take away
 Pronoia from God, says Chrysippus,<span
-id="an_fr_158_1"></span>[158\_1](fsgr08.htm#an_fn_158_1) it is like
+id="an_fr_158_1"></span>[158\_1](fsgr08.htm#an_fn_158_1.md) it is like
 taking away light and heat from fire. This doctrine is magnificently
 expressed by Pliny in a phrase that is probably translated from
 Posidonius: 'God is the helping of man by man; and that is the way to
 eternal glory.'<span
-id="an_fr_158_2"></span>[158\_2](fsgr08.htm#an_fn_158_2)
+id="an_fr_158_2"></span>[158\_2](fsgr08.htm#an_fn_158_2.md)
 
 The conception took root in the minds of many Romans. A great Roman
 governor often had the chance of thus helping humanity on a vast scale,
@@ -1010,7 +1010,7 @@ built up that road for himself while he was among mankind.'
 
 I have been using some rather late authors, though the ideas seem
 largely to come from Posidonius.<span
-id="an_fr_159_1"></span>[159\_1](fsgr08.htm#an_fn_159_1) But before
+id="an_fr_159_1"></span>[159\_1](fsgr08.htm#an_fn_159_1.md) But before
 Posidonius the sort of fact on which we have been dwelling had had its
 influence on religious speculation. When Alexander made his conquering
 journey to India and afterwards was created a god, it was impossible not
@@ -1035,7 +1035,7 @@ everlasting elements.
 The philosophic romance of Euhemerus, published early in the third
 century <span class="smcap">b. c.</span>, had instantaneous success and
 enormous influence.<span
-id="an_fr_160_1"></span>[160\_1](fsgr08.htm#an_fn_160_1) It was one of
+id="an_fr_160_1"></span>[160\_1](fsgr08.htm#an_fn_160_1.md) It was one of
 the first Greek books translated into Latin, and became long afterwards
 a favourite weapon of the Christian fathers in their polemics against
 polytheism. 'Euhemerism' was, on the face of it, a very brilliant
@@ -1062,7 +1062,7 @@ complete union, a merging of beings. And, as we have always to keep
 reminding our cold modern intelligence, he who has 'known' God is
 himself thereby deified. He is the Image of God, the Son of God, in a
 sense he *is* God.<span
-id="an_fr_161_1"></span>[161\_1](fsgr08.htm#an_fn_161_1) The stratum of
+id="an_fr_161_1"></span>[161\_1](fsgr08.htm#an_fn_161_1.md) The stratum of
 ideas described in the first of the studies will explain the ease with
 which transition took place. The worshipper of Bacchos became Bacchos
 simply enough, because in reality the God Bacchos was originally only
@@ -1071,7 +1071,7 @@ notion of these secondary mediating gods was made easier by the analogy
 of the human interpreters. Of course, we have abundant instances of
 actual preachers and miracle-workers who on their own authority posed,
 and were accepted, as gods. The adventure of Paul and Barnabas at
-Lystra<span id="an_fr_161_2"></span>[161\_2](fsgr08.htm#an_fn_161_2)
+Lystra<span id="an_fr_161_2"></span>[161\_2](fsgr08.htm#an_fn_161_2.md)
 shows how easily such things could happen. But as a rule, I suspect, the
 most zealous priest or preacher preferred to have his God in the
 background. He preaches, he heals the sick and casts out devils, not in
@@ -1097,13 +1097,13 @@ look close', says Professor Bousset, 'the result emerges with great
 clearness, that the figure of the Redeemer as such did not wait for
 Christianity to force its way into the religion of Gnôsis, but was
 already present there under various forms.'<span
-id="an_fr_162_1"></span>[162\_1](fsgr08.htm#an_fn_162_1) He occurs
+id="an_fr_162_1"></span>[162\_1](fsgr08.htm#an_fn_162_1.md) He occurs
 notably in two pre-Christian documents, discovered by the keen analysis
 and profound learning of Dr. Reitzenstein: the Poimandres revelation
 printed in the *Corpus Hermeticum*, and the sermon of the Naassenes in
 Hippolytus, *Refutatio Omnium Haeresium*, which is combined with
 Attis-worship.<span
-id="an_fr_162_2"></span>[162\_2](fsgr08.htm#an_fn_162_2) The violent
+id="an_fr_162_2"></span>[162\_2](fsgr08.htm#an_fn_162_2.md) The violent
 anti-Jewish bias of most of the sects—they <span id="page_163">p.
 163</span> speak of 'the accursed God of the Jews' and identify him with
 Saturn and the Devil—points on the whole to pre-Christian conditions:
@@ -1128,19 +1128,19 @@ Suffering and Dying God, of whom we spoke in the first of these studies.
 It is vividly affected by the ideal 'Righteous Man' of Plato, who 'shall
 be scourged, tortured, bound, his eyes burnt out, and at last, after
 suffering every evil, shall be impaled or crucified'.<span
-id="an_fr_163_1"></span>[163\_1](fsgr08.htm#an_fn_163_1) But in <span
+id="an_fr_163_1"></span>[163\_1](fsgr08.htm#an_fn_163_1.md) But in <span
 id="page_164">p. 164</span> the main he descends, of his free will or by
 the eternal purpose of the Father, from Heaven through the spheres of
 all the Archontes or Kosmokratores, the planets, to save mankind, or
 sometimes to save the fallen Virgin, the Soul, Wisdom, or 'the
-Pearl'.<span id="an_fr_164_1"></span>[164\_1](fsgr08.htm#an_fn_164_1)
+Pearl'.<span id="an_fr_164_1"></span>[164\_1](fsgr08.htm#an_fn_164_1.md)
 The Archontes let him pass because he is disguised; they do not know him
 (cf. 1 Cor. ii. 7 ff.). When his work is done he ascends to Heaven to
 sit by the side of the Father in glory; he conquers the Archontes, leads
 them captive in his triumph, strips them of their armour (Col. ii. 15;
 cf. the previous verse), sometimes even crucifies them for ever in their
 places in the sky.<span
-id="an_fr_164_2"></span>[164\_2](fsgr08.htm#an_fn_164_2) The epistles to
+id="an_fr_164_2"></span>[164\_2](fsgr08.htm#an_fn_164_2.md) The epistles to
 the Colossians and the Ephesians are much influenced by these doctrines.
 Paul himself constantly uses the language of them, but in the main we
 find him discouraging the excesses of superstition, reforming, ignoring,
@@ -1148,7 +1148,7 @@ rejecting. His Jewish blood was perhaps enough to keep him to strict
 monotheism. Though he admits Angels and Archontes, Principalities and
 Powers, he scorns the Elements and he seems deliberately to reverse the
 doctrine of the first and second Man.<span
-id="an_fr_164_3"></span>[164\_3](fsgr08.htm#an_fn_164_3) He says nothing
+id="an_fr_164_3"></span>[164\_3](fsgr08.htm#an_fn_164_3.md) He says nothing
 about the Trinity of Divine Beings that was usual in Gnosticism, nothing
 about the Divine Mother. His mind, for all its vehement mysticism, has
 something of that clean antiseptic quality that makes such early
@@ -1164,7 +1164,7 @@ charlatan-ridden, and helplessly ignorant, who still believed in Gods
 begetting children of mortal mothers, who took the 'Word', the 'Spirit',
 and the 'Divine Wisdom', to be persons called by those names, and turned
 the Immortality of the Soul into 'the standing up of the corpses';<span
-id="an_fr_165_1"></span>[165\_1](fsgr08.htm#an_fn_165_1) and to reflect
+id="an_fr_165_1"></span>[165\_1](fsgr08.htm#an_fn_165_1.md) and to reflect
 that it was these who held the main road of advance towards the greatest
 religion of the western world.
 
@@ -1181,11 +1181,11 @@ a great myth, a thing whose value lies not in itself but in the
 spiritual meaning which it hides and reveals. To Cleanthes at the
 beginning of it the Universe was a mystic pageant, in which the immortal
 stars were the dancers and the Sun the priestly torch-bearer.<span
-id="an_fr_165_2"></span>[165\_2](fsgr08.htm#an_fn_165_2) <span
+id="an_fr_165_2"></span>[165\_2](fsgr08.htm#an_fn_165_2.md) <span
 id="page_166">p. 166</span> Chrysippus reduced the Homeric gods to
 physical or ethical principles; and Crates, the great critic, applied
 allegory in detail to his interpretation of the all-wise poet.<span
-id="an_fr_166_1"></span>[166\_1](fsgr08.htm#an_fn_166_1) We possess two
+id="an_fr_166_1"></span>[166\_1](fsgr08.htm#an_fn_166_1.md) We possess two
 small but complete treatises which illustrate well the results of this
 tendency, Cornutus <u>ρεπὶ θεῶν</u> and the *Homeric Allegories* of
 Heraclitus, a brilliant little work of the first century <span
@@ -1216,7 +1216,7 @@ Heraclitus of Ephesus is an obvious instance. He deliberately expressed
 himself in language which should not be understood of the vulgar, and
 which bore a hidden meaning to his disciples. Pythagoras did the same.
 The prophets and religious writers must have done so to an even greater
-extent.<span id="an_fr_167_1"></span>[167\_1](fsgr08.htm#an_fn_167_1)
+extent.<span id="an_fr_167_1"></span>[167\_1](fsgr08.htm#an_fn_167_1.md)
 And we know enough of the history of ritual to be sure that a great deal
 of it is definitely allegorical. The Hellenistic Age did not wantonly
 invent the theory of allegory.
@@ -1289,7 +1289,7 @@ If a reader of Proclus and the *Corpus Hermeticum* wants relief, he will
 find it, perhaps, best in the writings of a gentle old Epicurean who
 lived at Oenoanda in Cappadocia about <span class="smcap">a. d.</span>
 200. His name was Diogenes.<span
-id="an_fr_169_1"></span>[169\_1](fsgr08.htm#an_fn_169_1) His works are
+id="an_fr_169_1"></span>[169\_1](fsgr08.htm#an_fn_169_1.md) His works are
 preserved, in a fragmentary state, not on papyrus or parchment, but on
 the wall of a large portico where he engraved them for passers-by to
 read. He lived in a world of <span id="page_170">p. 170</span>
@@ -1323,7 +1323,7 @@ were puzzled, apparently, by this simple message, which only told them
 to use their reason, their courage, and their sympathy, and not to be
 afraid of death or of angry gods. The doctrine was condensed into four
 sentences of a concentrated eloquence that make a translator
-despair:<span id="an_fr_170_1"></span>[170\_1](fsgr08.htm#an_fn_170_1)
+despair:<span id="an_fr_170_1"></span>[170\_1](fsgr08.htm#an_fn_170_1.md)
 'Nothing <span id="page_171">p. 171</span> to fear in God: Nothing to
 feel in Death: Good can be attained: Evil can be endured.'
 
@@ -1408,7 +1408,7 @@ thought.
 
 <div class="footnote">
 
-<span id="an_fn_124_1"></span>[124\_1](fsgr08.htm#an_fr_124_1) Mr.
+<span id="an_fn_124_1"></span>[124\_1](fsgr08.htm#an_fr_124_1.md) Mr.
 Marett has pointed out that this conception has its roots deep in
 primitive human nature: *The Birth of Humility*, Oxford, 1910, p. 17.
 'It would, perhaps, be fanciful to say that man tends to run away from
@@ -1438,7 +1438,7 @@ directed.
 
 <div class="footnote">
 
-<span id="an_fn_129_1"></span>[129\_1](fsgr08.htm#an_fr_129_1) Usener,
+<span id="an_fn_129_1"></span>[129\_1](fsgr08.htm#an_fr_129_1.md) Usener,
 *Epicurea* (1887), pp. 232 ff.; Diels, *Doxographi Graeci* (1879), p.
 306; Arnim, *Stoicorum Veterum Fragmenta* (1903-5), Chrysippus 1014,
 1019.
@@ -1447,14 +1447,14 @@ directed.
 
 <div class="footnote">
 
-<span id="an_fn_133_1"></span>[133\_1](fsgr08.htm#an_fr_133_1) Juv. x.
+<span id="an_fn_133_1"></span>[133\_1](fsgr08.htm#an_fr_133_1.md) Juv. x.
 365 f.; Polyb. ii. 38, 5; x. 5, 8; xviii. 11, 5.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_133_2"></span>[133\_2](fsgr08.htm#an_fr_133_2) Cf. also
+<span id="an_fn_133_2"></span>[133\_2](fsgr08.htm#an_fr_133_2.md) Cf. also
 his *Consolatio ad Apollonium*. The earliest text is perhaps the
 interesting fragment of Demetrius of Phalerum (fr. 19, in *F. H. G.* ii.
 368), written about 317 <span class="smcap">b. c.</span> It is quoted
@@ -1483,28 +1483,28 @@ uttered, as it were, by inspired lips.'
 
 <div class="footnote">
 
-<span id="an_fn_134_1"></span>[134\_1](fsgr08.htm#an_fr_134_1) Eur.,
+<span id="an_fn_134_1"></span>[134\_1](fsgr08.htm#an_fr_134_1.md) Eur.,
 *Tro.* 886. Literally it means 'The Compulsion in the way Things grow'.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_134_2"></span>[134\_2](fsgr08.htm#an_fr_134_2) Zeno, fr.
+<span id="an_fn_134_2"></span>[134\_2](fsgr08.htm#an_fr_134_2.md) Zeno, fr.
 87, Arnim.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_135_1"></span>[135\_1](fsgr08.htm#an_fr_135_1)
+<span id="an_fn_135_1"></span>[135\_1](fsgr08.htm#an_fr_135_1.md)
 Chrysippus, fr. 913, Arnim.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_135_2"></span>[135\_2](fsgr08.htm#an_fr_135_2)
+<span id="an_fn_135_2"></span>[135\_2](fsgr08.htm#an_fr_135_2.md)
 Cleanthes, 527, Arnim. <u>Ἂγου δέ μ', ὦ Ζεῦ, καὶ σύ γ' ἡ Πεπρωμένη,
 κτλ.</u> Plotinus, *Enn.* <span class="smcap">iii.</span> i. 10.
 
@@ -1512,35 +1512,35 @@ Cleanthes, 527, Arnim. <u>Ἂγου δέ μ', ὦ Ζεῦ, καὶ σύ γ' �
 
 <div class="footnote">
 
-<span id="an_fn_135_3"></span>[135\_3](fsgr08.htm#an_fr_135_3) Epicurus,
+<span id="an_fn_135_3"></span>[135\_3](fsgr08.htm#an_fr_135_3.md) Epicurus,
 Third Letter. Usener, p. 65, 12 = Diog. La. x. 134.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_136_1"></span>[136\_1](fsgr08.htm#an_fr_136_1)
+<span id="an_fn_136_1"></span>[136\_1](fsgr08.htm#an_fr_136_1.md)
 Aristotle, fr. 12 ff.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_136_2"></span>[136\_2](fsgr08.htm#an_fr_136_2) e. g.
+<span id="an_fn_136_2"></span>[136\_2](fsgr08.htm#an_fr_136_2.md) e. g.
 Chrysippus, fr. 1076, Arnim.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_138_1"></span>[138\_1](fsgr08.htm#an_fr_138_1) *Themis*,
+<span id="an_fn_138_1"></span>[138\_1](fsgr08.htm#an_fr_138_1.md) *Themis*,
 p. 180, n. 1.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_138_2"></span>[138\_2](fsgr08.htm#an_fr_138_2) Not to
+<span id="an_fn_138_2"></span>[138\_2](fsgr08.htm#an_fr_138_2.md) Not to
 Plotinus: *Enn.* <span class="smcap">ii.</span> ix against the
 Valentinians. Cf. Porphyry, <u>Ἀφορμαί</u>, 28.
 
@@ -1548,7 +1548,7 @@ Valentinians. Cf. Porphyry, <u>Ἀφορμαί</u>, 28.
 
 <div class="footnote">
 
-<span id="an_fn_138_3"></span>[138\_3](fsgr08.htm#an_fr_138_3) Bousset,
+<span id="an_fn_138_3"></span>[138\_3](fsgr08.htm#an_fr_138_3.md) Bousset,
 *Hauptprobleme der Gnosis*, 1907, pp. 13, 21, 26, 81, &c.; pp. 332 ff.
 She becomes Helen in the beautiful myth of the Simonian Gnostics—a Helen
 who has forgotten her name and race, and is a slave in a brothel in
@@ -1559,7 +1559,7 @@ her. Irenaeus, i. 23, 2.
 
 <div class="footnote">
 
-<span id="an_fn_139_1"></span>[139\_1](fsgr08.htm#an_fr_139_1) *De Iside
+<span id="an_fn_139_1"></span>[139\_1](fsgr08.htm#an_fr_139_1.md) *De Iside
 et Osiride*, 67. (He distinguishes them from the real God, however, just
 as Sallustius would.)
 
@@ -1567,7 +1567,7 @@ as Sallustius would.)
 
 <div class="footnote">
 
-<span id="an_fn_139_2"></span>[139\_2](fsgr08.htm#an_fr_139_2) Mithras
+<span id="an_fn_139_2"></span>[139\_2](fsgr08.htm#an_fr_139_2.md) Mithras
 was worshipped by the Cilician Pirates conquered by Pompey. Plut., *Vit.
 Pomp.* 24.
 
@@ -1575,7 +1575,7 @@ Pomp.* 24.
 
 <div class="footnote">
 
-<span id="an_fn_139_3"></span>[139\_3](fsgr08.htm#an_fr_139_3)
+<span id="an_fn_139_3"></span>[139\_3](fsgr08.htm#an_fr_139_3.md)
 <u>ἔκγονος τοῦ πρώτου θεοῦ.</u> Plato (Diels, 305); Stoics, ib. 547, l.
 8.
 
@@ -1583,7 +1583,7 @@ Pomp.* 24.
 
 <div class="footnote">
 
-<span id="an_fn_140_1"></span>[140\_1](fsgr08.htm#an_fr_140_1) Aristotle
+<span id="an_fn_140_1"></span>[140\_1](fsgr08.htm#an_fr_140_1.md) Aristotle
 (Diels, 450). <u>ὅσας δὲ εἶναι τὰς σφαίρας,</u> <u>τοσούτους ὑπάρχειν
 καὶ τοὺς κινοῦντας θεούς.</u> Chrysippus (Diels 466); Posidonius, ib.
 (cf. Plato, *Laws*. 898 ff.). See Epicurus's Second Letter, especially
@@ -1594,7 +1594,7 @@ heavenly bodies cf. Chrysippus, fr. 658-61, Arnim.
 
 <div class="footnote">
 
-<span id="an_fn_140_2"></span>[140\_2](fsgr08.htm#an_fr_140_2) <u>ὁ δὲ
+<span id="an_fn_140_2"></span>[140\_2](fsgr08.htm#an_fr_140_2.md) <u>ὁ δὲ
 Ἐπίκουρος οὐδὲν τούτων ἐγκρίνει.</u> Diels, 307<sup>a</sup> 15. Cf.
 432<sup>a</sup> 10.
 
@@ -1602,14 +1602,14 @@ heavenly bodies cf. Chrysippus, fr. 658-61, Arnim.
 
 <div class="footnote">
 
-<span id="an_fn_141_1"></span>[141\_1](fsgr08.htm#an_fr_141_1) Heath,
+<span id="an_fn_141_1"></span>[141\_1](fsgr08.htm#an_fr_141_1.md) Heath,
 *Aristarchos of Samos*, pp. 301-10.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_142_1"></span>[142\_1](fsgr08.htm#an_fr_142_1)
+<span id="an_fn_142_1"></span>[142\_1](fsgr08.htm#an_fr_142_1.md)
 Pythagoras in Diels, p. 555, 20; the best criticism is in Aristotle, *De
 Caelo*, chap. 9 (p. 290 b), the fullest account in Macrobius, *Comm. in
 Somn. Scipionis*, ii.
@@ -1618,7 +1618,7 @@ Somn. Scipionis*, ii.
 
 <div class="footnote">
 
-<span id="an_fn_142_2"></span>[142\_2](fsgr08.htm#an_fr_142_2) See
+<span id="an_fn_142_2"></span>[142\_2](fsgr08.htm#an_fr_142_2.md) See
 Diels, *Elementium*, 1899, p. 17. These magic letters are still used in
 the Roman ritual for the consecration of churches.
 
@@ -1626,7 +1626,7 @@ the Roman ritual for the consecration of churches.
 
 <div class="footnote">
 
-<span id="an_fn_143_1"></span>[143\_1](fsgr08.htm#an_fr_143_1) A
+<span id="an_fn_143_1"></span>[143\_1](fsgr08.htm#an_fr_143_1.md) A
 seven-day week was known to Pseudo-Hippocrates <u>περὶ σαρκῶν</u> *ad
 fin.*, but the date of that treatise is very uncertain.
 
@@ -1634,7 +1634,7 @@ fin.*, but the date of that treatise is very uncertain.
 
 <div class="footnote">
 
-<span id="an_fn_143_2"></span>[143\_2](fsgr08.htm#an_fr_143_2) Aesch.,
+<span id="an_fn_143_2"></span>[143\_2](fsgr08.htm#an_fr_143_2.md) Aesch.,
 *Ag.* 6; Eur., *Hip.* 530. Also *Ag.* 365, where <u>ἀστρῶν βέλος</u>
 goes together and <u>μήτε πρὸ καιροῦ μήθ' ὕπερ</u>.
 
@@ -1642,7 +1642,7 @@ goes together and <u>μήτε πρὸ καιροῦ μήθ' ὕπερ</u>.
 
 <div class="footnote">
 
-<span id="an_fn_143_3"></span>[143\_3](fsgr08.htm#an_fr_143_3) Proclus,
+<span id="an_fn_143_3"></span>[143\_3](fsgr08.htm#an_fr_143_3.md) Proclus,
 *In Timaeum*, 289 <span class="smcap">f</span>; Seneca, *Nat. Quaest.*
 iii. 29, 1.
 
@@ -1650,14 +1650,14 @@ iii. 29, 1.
 
 <div class="footnote">
 
-<span id="an_fn_145_1"></span>[145\_1](fsgr08.htm#an_fr_145_1)
+<span id="an_fn_145_1"></span>[145\_1](fsgr08.htm#an_fr_145_1.md)
 Chrysippus, 1187-95. Esse divinationem si di sint et providentia.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_145_2"></span>[145\_2](fsgr08.htm#an_fr_145_2) Cicero,
+<span id="an_fn_145_2"></span>[145\_2](fsgr08.htm#an_fr_145_2.md) Cicero,
 *De Nat. De.* iii. 11, 28; especially *De Divinatione*, ii. 14, 34; 60,
 124; 69, 142. 'Qua ex coniunctione naturae et quasi concentu atque
 consensu, quam <u>συμπάθειαν</u> Graeci appellant, convenire potest aut
@@ -1668,21 +1668,21 @@ rerumque natura?' asks the sceptic in the second of these passages.
 
 <div class="footnote">
 
-<span id="an_fn_145_3"></span>[145\_3](fsgr08.htm#an_fr_145_3)
+<span id="an_fn_145_3"></span>[145\_3](fsgr08.htm#an_fr_145_3.md)
 Chrysippus, 939-44. Vaticinatio probat fati necessitatem.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_145_4"></span>[145\_4](fsgr08.htm#an_fr_145_4)
+<span id="an_fn_145_4"></span>[145\_4](fsgr08.htm#an_fr_145_4.md)
 Chrysippus, 1214, 1200-6.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_146_1"></span>[146\_1](fsgr08.htm#an_fr_146_1) *Eine
+<span id="an_fn_146_1"></span>[146\_1](fsgr08.htm#an_fr_146_1.md) *Eine
 Mithrasliturgie*, 1903. The MS. is 574 Supplément grec de la Bibl.
 Nationale. The formulae of various religions were used as instruments of
 magic, as our own witches used the Lord's Prayer backwards.
@@ -1691,7 +1691,7 @@ magic, as our own witches used the Lord's Prayer backwards.
 
 <div class="footnote">
 
-<span id="an_fn_146_2"></span>[146\_2](fsgr08.htm#an_fr_146_2)
+<span id="an_fn_146_2"></span>[146\_2](fsgr08.htm#an_fr_146_2.md)
 *Refutatio Omnium Haeresium*, v. 7. They worshipped the Serpent, Nāhāsh
 (<u>נָחָשׁ</u>).
 
@@ -1699,7 +1699,7 @@ magic, as our own witches used the Lord's Prayer backwards.
 
 <div class="footnote">
 
-<span id="an_fn_147_1"></span>[147\_1](fsgr08.htm#an_fr_147_1) Bousset,
+<span id="an_fn_147_1"></span>[147\_1](fsgr08.htm#an_fr_147_1.md) Bousset,
 p. 351. The hostility of Zoroastrianism to the old Babylonian planet
 gods was doubtless at work also. Ib. pp. 37-46.
 
@@ -1707,28 +1707,28 @@ gods was doubtless at work also. Ib. pp. 37-46.
 
 <div class="footnote">
 
-<span id="an_fn_147_2"></span>[147\_2](fsgr08.htm#an_fr_147_2) Or, in
+<span id="an_fn_147_2"></span>[147\_2](fsgr08.htm#an_fr_147_2.md) Or, in
 some Gnostic systems, of the Mother.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_148_1"></span>[148\_1](fsgr08.htm#an_fr_148_1) Harrison,
+<span id="an_fn_148_1"></span>[148\_1](fsgr08.htm#an_fr_148_1.md) Harrison,
 *Prolegomena*, Appendix on the Orphic tablets.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_148_2"></span>[148\_2](fsgr08.htm#an_fr_148_2) Ap.
+<span id="an_fn_148_2"></span>[148\_2](fsgr08.htm#an_fr_148_2.md) Ap.
 *Metamorphoses*, xi.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_149_1"></span>[149\_1](fsgr08.htm#an_fr_149_1) 2 Cor.
+<span id="an_fn_149_1"></span>[149\_1](fsgr08.htm#an_fr_149_1.md) 2 Cor.
 xii. 2 and 3 (he may be referring in veiled language to himself); Gal.
 i. 12 ff.; Acts ix. 1-22. On the difference of tone and fidelity between
 the Epistles and the Acts see the interesting remarks of Prof. P.
@@ -1738,7 +1738,7 @@ Gardner, *The Religious Experience of St. Paul*, pp. 5 ff.
 
 <div class="footnote">
 
-<span id="an_fn_149_2"></span>[149\_2](fsgr08.htm#an_fr_149_2) Porphyry,
+<span id="an_fn_149_2"></span>[149\_2](fsgr08.htm#an_fr_149_2.md) Porphyry,
 *Vita Plotini*, 23. 'We have explained that he was good and gentle, mild
 and merciful; we who lived with him could feel it. We have said that he
 was vigilant and pure of soul, and always striving towards the Divine,
@@ -1759,21 +1759,21 @@ speech.'
 
 <div class="footnote">
 
-<span id="an_fn_150_1"></span>[150\_1](fsgr08.htm#an_fr_150_1) *C. I.
+<span id="an_fn_150_1"></span>[150\_1](fsgr08.htm#an_fr_150_1.md) *C. I.
 G.*, vol. xii, fasc. 3; and Bethe in *Rhein. Mus.*, N. F., xlii, 438-75.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_150_2"></span>[150\_2](fsgr08.htm#an_fr_150_2) Irenaeus,
+<span id="an_fn_150_2"></span>[150\_2](fsgr08.htm#an_fr_150_2.md) Irenaeus,
 i. 13, 3.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_150_3"></span>[150\_3](fsgr08.htm#an_fr_150_3) Bousset,
+<span id="an_fn_150_3"></span>[150\_3](fsgr08.htm#an_fr_150_3.md) Bousset,
 chap. vii; Reitzenstein, *Mysterienreligionen*, p. 20 ff., with
 excursus; *Poimandres*, 226 ff.; Dieterich, *Mithrasliturgie*, pp. 121
 ff.
@@ -1782,14 +1782,14 @@ ff.
 
 <div class="footnote">
 
-<span id="an_fn_152_1"></span>[152\_1](fsgr08.htm#an_fr_152_1) Eur. fr.
+<span id="an_fn_152_1"></span>[152\_1](fsgr08.htm#an_fr_152_1.md) Eur. fr.
 484.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_152_2"></span>[152\_2](fsgr08.htm#an_fr_152_2) *R. G.
+<span id="an_fn_152_2"></span>[152\_2](fsgr08.htm#an_fr_152_2.md) *R. G.
 E.*<sup>3</sup>, pp. 135-40. I do not touch on the political side of
 this apotheosis of Hellenistic kings; it is well brought out in
 Ferguson's *Hellenistic Athens*, e. g. p. 108 f., also p. 11 f. and
@@ -1800,7 +1800,7 @@ Sallustius's opinion, see below, p. 223, chap. xviii *ad fin.*
 
 <div class="footnote">
 
-<span id="an_fn_153_1"></span>[153\_1](fsgr08.htm#an_fr_153_1) Cf.
+<span id="an_fn_153_1"></span>[153\_1](fsgr08.htm#an_fr_153_1.md) Cf.
 <u>ψυχὴ οἰκητήριον δαίμονος</u>, Democr. 171, Diels, and Alcmaeon is
 said by Cicero to have attributed divinity to the Stars and the Soul.
 Melissus and Zeno <u>θείας οἴεται τὰς ψυχάς</u>. The phrase <u>τινὲς τὴν
@@ -1811,14 +1811,14 @@ sect.
 
 <div class="footnote">
 
-<span id="an_fn_154_1"></span>[154\_1](fsgr08.htm#an_fr_154_1) See for
+<span id="an_fn_154_1"></span>[154\_1](fsgr08.htm#an_fr_154_1.md) See for
 instance Frazer, *Golden Bough*<sup>3</sup>, part I, i. 417-19.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_154_2"></span>[154\_2](fsgr08.htm#an_fr_154_2) Aesch.
+<span id="an_fn_154_2"></span>[154\_2](fsgr08.htm#an_fr_154_2.md) Aesch.
 *Pers.* 157, 644 (<u>θεός</u>), 642 (<u>δαίμων</u>). Mr. Bevan however
 suspects that Aeschylus misunderstood his Persian sources: see his
 article on 'Deification' in Hastings's *Dictionary of Religion*.
@@ -1827,7 +1827,7 @@ article on 'Deification' in Hastings's *Dictionary of Religion*.
 
 <div class="footnote">
 
-<span id="an_fn_154_3"></span>[154\_3](fsgr08.htm#an_fr_154_3) Cf.
+<span id="an_fn_154_3"></span>[154\_3](fsgr08.htm#an_fr_154_3.md) Cf.
 Aristotle on the <u>Μεγαλόψυχος</u>, *Eth. Nic.* 1123 b. 15. <u>εἰ δὲ δὴ
 μεγάλων ἑαμτὸν ἀξιοῖ ἄξιος ὤν,</u> <u>καὶ μάλιστα τῶν μεγίστων,</u>
 <u>περὶ ἓν μάλιστα ἂν εἲη</u>. . . . <u>μέγιστον δὲ τοῦτ' ἂν θείημεν ὃ
@@ -1839,14 +1839,14 @@ Meyer, *Kleine Schriften*, 301 ff., 330.
 
 <div class="footnote">
 
-<span id="an_fn_155_1"></span>[155\_1](fsgr08.htm#an_fr_155_1) Lysander
+<span id="an_fn_155_1"></span>[155\_1](fsgr08.htm#an_fr_155_1.md) Lysander
 too had altars raised to him by some Asiatic cities.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_156_1"></span>[156\_1](fsgr08.htm#an_fr_156_1)
+<span id="an_fn_156_1"></span>[156\_1](fsgr08.htm#an_fr_156_1.md)
 Dittenberger, *Inscr. Orientis Graeci*, 90; Wendland,
 *Hellenistisch-römische Kultur*, 1907, p. 74 f. and notes.
 
@@ -1854,7 +1854,7 @@ Dittenberger, *Inscr. Orientis Graeci*, 90; Wendland,
 
 <div class="footnote">
 
-<span id="an_fn_157_1"></span>[157\_1](fsgr08.htm#an_fr_157_1) Several
+<span id="an_fn_157_1"></span>[157\_1](fsgr08.htm#an_fr_157_1.md) Several
 of the phrases are interesting. The last gift of the heavenly gods to
 this Theos is the old gift of Mana. In Hesiod it was <u>Κάρτος τε Βίη
 τε</u>, the two ministers who are never away from the King Zeus. In
@@ -1874,7 +1874,7 @@ iv. 4; Ephes. i. 5, 6.
 
 <div class="footnote">
 
-<span id="an_fn_158_1"></span>[158\_1](fsgr08.htm#an_fr_158_1) Fr. 1118.
+<span id="an_fn_158_1"></span>[158\_1](fsgr08.htm#an_fr_158_1.md) Fr. 1118.
 Arnim. Cf. Antipater, fr. 33, 34, <u>τὸ εὐποιητικόν</u> is part of the
 definition of Deity.
 
@@ -1882,7 +1882,7 @@ definition of Deity.
 
 <div class="footnote">
 
-<span id="an_fn_158_2"></span>[158\_2](fsgr08.htm#an_fr_158_2) Plin.,
+<span id="an_fn_158_2"></span>[158\_2](fsgr08.htm#an_fr_158_2.md) Plin.,
 *Nat. Hist.* ii. 7, 18. Deus est mortali iuvare mortalem et haec ad
 aeternam gloriam via. Cf. also the striking passages from Cicero and
 others in Wendland, p. 85, n. 2.
@@ -1891,7 +1891,7 @@ others in Wendland, p. 85, n. 2.
 
 <div class="footnote">
 
-<span id="an_fn_159_1"></span>[159\_1](fsgr08.htm#an_fr_159_1) The Stoic
+<span id="an_fn_159_1"></span>[159\_1](fsgr08.htm#an_fr_159_1.md) The Stoic
 philosopher, teaching at Rhodes, *c.* 100 <span class="smcap">b.
 c.</span> A man of immense knowledge and strong religious emotions, he
 moved the Stoa in the direction of Oriental mysticism. See Schwartz's
@@ -1902,7 +1902,7 @@ sketch in *Characterköpfe*<sup>a</sup>, pp. 89-98. Also Norden's
 
 <div class="footnote">
 
-<span id="an_fn_160_1"></span>[160\_1](fsgr08.htm#an_fr_160_1) Jacoby in
+<span id="an_fn_160_1"></span>[160\_1](fsgr08.htm#an_fr_160_1.md) Jacoby in
 Pauly-Wissowa's *Realencyclopädie*, vi. 954. It was called <u>Ἱερὰ
 Ἀναγραφή</u>.
 
@@ -1910,7 +1910,7 @@ Pauly-Wissowa's *Realencyclopädie*, vi. 954. It was called <u>Ἱερὰ
 
 <div class="footnote">
 
-<span id="an_fn_161_1"></span>[161\_1](fsgr08.htm#an_fr_161_1) Cf.
+<span id="an_fn_161_1"></span>[161\_1](fsgr08.htm#an_fr_161_1.md) Cf.
 Plotin. *Enn.* <span class="smcap">i</span>, ii. 6 <u>ἀλλ' ἡ σπουδὴ οὐκ
 ἔξω ἁμαρτίας εἶναι, ἀλλὰ θεὸν εἶναι</u>.
 
@@ -1918,7 +1918,7 @@ Plotin. *Enn.* <span class="smcap">i</span>, ii. 6 <u>ἀλλ' ἡ σπουδὴ
 
 <div class="footnote">
 
-<span id="an_fn_161_2"></span>[161\_2](fsgr08.htm#an_fr_161_2) Acts xiv.
+<span id="an_fn_161_2"></span>[161\_2](fsgr08.htm#an_fr_161_2.md) Acts xiv.
 12. They called Barnabas Zeus and Paul Hermes, because he was <u>ὁ
 ἡγούμενος τοῦ λόγου</u>.—Paul also writes to the Galatians (iv. 14): 'Ye
 received me *as a messenger of God, as Jesus Christ*.'
@@ -1927,21 +1927,21 @@ received me *as a messenger of God, as Jesus Christ*.'
 
 <div class="footnote">
 
-<span id="an_fn_162_1"></span>[162\_1](fsgr08.htm#an_fr_162_1) Bousset,
+<span id="an_fn_162_1"></span>[162\_1](fsgr08.htm#an_fr_162_1.md) Bousset,
 p. 238.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_162_2"></span>[162\_2](fsgr08.htm#an_fr_162_2)
+<span id="an_fn_162_2"></span>[162\_2](fsgr08.htm#an_fr_162_2.md)
 Hippolytus, 134, 90 ff., text in Reitzenstein's *Poimandres*, pp. 83-98.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_163_1"></span>[163\_1](fsgr08.htm#an_fr_163_1)
+<span id="an_fn_163_1"></span>[163\_1](fsgr08.htm#an_fr_163_1.md)
 *Republic*, 362 <span class="smcap">a</span>. <u>Ἀνασχινδυλεύω</u> is
 said to = <u>ἀνασκολοπίζω</u>, which is used both for 'impale' and
 'crucify'. The two were alternative forms of the most slavish and cruel
@@ -1951,7 +1951,7 @@ capital punishment, impalement being mainly Persian, crucifixion Roman.
 
 <div class="footnote">
 
-<span id="an_fn_164_1"></span>[164\_1](fsgr08.htm#an_fr_164_1) See *The
+<span id="an_fn_164_1"></span>[164\_1](fsgr08.htm#an_fr_164_1.md) See *The
 Hymn of the Soul*, attributed to the Gnostic Bardesanes, edited by A. A.
 Bevan, Cambridge, 1897.
 
@@ -1959,28 +1959,28 @@ Bevan, Cambridge, 1897.
 
 <div class="footnote">
 
-<span id="an_fn_164_2"></span>[164\_2](fsgr08.htm#an_fr_164_2) Bousset
+<span id="an_fn_164_2"></span>[164\_2](fsgr08.htm#an_fr_164_2.md) Bousset
 cites Acta Archelai 8, and Epiphanius, *Haeres*. 66, 32.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_164_3"></span>[164\_3](fsgr08.htm#an_fr_164_3) Gal. iv.
+<span id="an_fn_164_3"></span>[164\_3](fsgr08.htm#an_fr_164_3.md) Gal. iv.
 9; 1 Cor. xv. 21 f., 47; Rom. v. 12-18.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_165_1"></span>[165\_1](fsgr08.htm#an_fr_165_1) <u>ἡ
+<span id="an_fn_165_1"></span>[165\_1](fsgr08.htm#an_fr_165_1.md) <u>ἡ
 ἀνάστασις τῶν νεκρῶν.</u> Cf. Acts xvii. 32.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_165_2"></span>[165\_2](fsgr08.htm#an_fr_165_2)
+<span id="an_fn_165_2"></span>[165\_2](fsgr08.htm#an_fr_165_2.md)
 Cleanthes, 538, Arnim; Diels, p. 592, 30. Cf. Philolaus, Diels, p. 336
 f.
 
@@ -1988,14 +1988,14 @@ f.
 
 <div class="footnote">
 
-<span id="an_fn_166_1"></span>[166\_1](fsgr08.htm#an_fr_166_1) See
+<span id="an_fn_166_1"></span>[166\_1](fsgr08.htm#an_fr_166_1.md) See
 especially the interpretation of Nestor's Cup, Athenaeus, pp. 489 c. ff.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_167_1"></span>[167\_1](fsgr08.htm#an_fr_167_1) I may
+<span id="an_fn_167_1"></span>[167\_1](fsgr08.htm#an_fr_167_1.md) I may
 refer to the learned and interesting remarks on the Esoteric Style in
 Prof. Margoliouth's edition of Aristotle's *Poetics*. It is not, of
 course, the same as Allegory.
@@ -2004,14 +2004,14 @@ course, the same as Allegory.
 
 <div class="footnote">
 
-<span id="an_fn_169_1"></span>[169\_1](fsgr08.htm#an_fr_169_1) Published
+<span id="an_fn_169_1"></span>[169\_1](fsgr08.htm#an_fr_169_1.md) Published
 in the Teubner series by William, 1907.
 
 </div>
 
 <div class="footnote">
 
-<span id="an_fn_170_1"></span>[170\_1](fsgr08.htm#an_fr_170_1)
+<span id="an_fn_170_1"></span>[170\_1](fsgr08.htm#an_fr_170_1.md)
 
 <div class="poem">
 
@@ -2035,6 +2035,6 @@ source.
 
 ------------------------------------------------------------------------
 
-[Next: V. The Last Protest](fsgr09)
+[Next: V. The Last Protest](fsgr09.md)
 
 </div>

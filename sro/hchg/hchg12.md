@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg11)  [Next](hchg13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg11)  [Next](hchg13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -537,4 +537,4 @@ undergoes transmutation and reappears as a chalice.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Graal Vessel Considered as a Bowl of Plenty](hchg13)
+[Next: IV. The Graal Vessel Considered as a Bowl of Plenty](hchg13.md)

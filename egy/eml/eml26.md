@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml25)  [Next](eml27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml25)  [Next](eml27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -91,18 +91,18 @@ god, who passed through so many stages of development that it is
 impossible to grasp the original tribal conception, which may, perhaps,
 have been crude and vague enough. His name is believed to signify "The
 Hidden One"--he concealed his "soul" and his "name", like the giant who
-hid his soul in an egg. <span id="fr_109"></span>[1](#fn_109) Sokar of
+hid his soul in an egg. <span id="fr_109"></span>[1](#fn_109.md) Sokar of
 Memphis was also a "hidden" god, and was associated with the land of the
 dead. Amon may have been likewise a deity of Hades, for he links with
 Osiris as a lunar deity (Chapter XXII). In fact, as Amon Ra he displaced
 Osiris for a time as judge of the dead.
 
 Amon is represented in various forms: (1) As an ape; <span
-id="fr_110"></span>[2](#fn_110) (2) as a lion resting with head erect,
+id="fr_110"></span>[2](#fn_110) (2.md) as a lion resting with head erect,
 like the primitive earth lion Aker; (3) as a frog-headed man accompanied
 by Ament, his serpent-headed female counterpart; (4) as a serpent-headed
 man, while his consort is cat-headed; <span
-id="fr_111"></span>[3](#fn_111) (5) as a man god with the royal sceptre
+id="fr_111"></span>[3](#fn_111) (5.md) as a man god with the royal sceptre
 in one hand and the symbol of life (*ankh*) in the other; (6) as a
 ram-headed man.
 
@@ -112,7 +112,7 @@ goddess of that name who ultimately was fused with Hathor. "Thebes" is
 believed to have been derived from her name, the female article "T",
 being placed before "Ape"; Tap or Tape was pronounced Thebai by the
 Greeks, who had a town of that name. <span
-id="fr_112"></span>[4](#fn_112) The sacred name of the city was Nu or
+id="fr_112"></span>[4](#fn_112.md) The sacred name of the city was Nu or
 Nu-Amon. "Art thou better than populous No?" cried
 
 <span id="page_198">p. 198</span>
@@ -205,7 +205,7 @@ wonderful cure effected by Khonsu. It happened that the Pharaoh, "the
 Horus, he who resembles Tum, the son of the sun, the mighty with
 scimitars, the smiter of the nine-bow barbarians", &c., was collecting
 the annual tribute from the subject kings of Syria. The Prince of
-Bakhten, <span id="fr_113"></span>[1](#fn_113) who brought many gifts,
+Bakhten, <span id="fr_113"></span>[1](#fn_113.md) who brought many gifts,
 "placed in front of these his eldest daughter". She was very beautiful,
 arid the Pharaoh immediately fell in love with her, arid she became his
 "royal wife".
@@ -408,28 +408,28 @@ centuries ago!
 
 ### Footnotes
 
-<span id="fn_109"></span>[197:1](eml26.htm#fr_109) Osiris Sokar "dost
+<span id="fn_109"></span>[197:1](eml26.htm#fr_109.md) Osiris Sokar "dost
 hide his essence in the great shrine of Amon".--*The Burden of Isis*, p.
 54.
 
-<span id="fn_110"></span>[197:2](eml26.htm#fr_110) Osiris Sokar is
+<span id="fn_110"></span>[197:2](eml26.htm#fr_110.md) Osiris Sokar is
 addressed: "Hail, thou who growest like unto the ape of Tehuti" (Thoth).
 The Thoth-ape appears to be a dawn god.
 
-<span id="fn_111"></span>[197:3](eml26.htm#fr_111) Seb is depicted with
+<span id="fn_111"></span>[197:3](eml26.htm#fr_111.md) Seb is depicted with
 a serpent's head. The cat goddess is Bast, who links with other Great
 Mothers.
 
-<span id="fn_112"></span>[197:4](eml26.htm#fr_112) Budge's *Gods of the
+<span id="fn_112"></span>[197:4](eml26.htm#fr_112.md) Budge's *Gods of the
 Egyptians*.
 
-<span id="fn_113"></span>[200:1](eml26.htm#fr_113) identified with the
+<span id="fn_113"></span>[200:1](eml26.htm#fr_113.md) identified with the
 King of the Hittites who became the ally of Ramesis II.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Tale of the Fugitive Prince](eml27)
+[Next: Chapter XVI: Tale of the Fugitive Prince](eml27.md)
 
 </div>

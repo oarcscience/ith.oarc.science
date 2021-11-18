@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth28)  [Next](oth30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth28)  [Next](oth30.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ movements. It is plain, then, that there are elements, and why.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](oth30)
+[Next: Chapter 4](oth30.md)

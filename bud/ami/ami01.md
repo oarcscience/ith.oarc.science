@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami00)  [Next](ami02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami00)  [Next](ami02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="page_1">p. 1</span>
 
-### THE ORDINATION.[1](ami16.htm#an_1)
+### THE ORDINATION.[1](ami16.htm#an_1.md)
 
 <span class="smallcaps">Soon</span> after the time of Açoka, the great
 Buddhist emperor of the third century before Christ, India became the
@@ -57,7 +57,7 @@ present Peshawur, that Charaka, a descendant of the Northern
 
 <span id="page_3">p. 3</span>
 
-invaders, had decided to join the brotherhood.[2](ami16.htm#an_2) He was
+invaders, had decided to join the brotherhood.[2](ami16.htm#an_2.md) He was
 as yet little acquainted with the spirit and purpose of the institution;
 but being very serious and devoutly religious, the youth had decided,
 for the sake of attaining perfect enlightenment, to give up everything
@@ -141,7 +141,7 @@ Then the chanting began again:
  Who found the path of salvation.  
  We follow His lead  
  Who taught us to read  
- The problem of origination.[3](ami16.htm#an_3)"
+ The problem of origination.[3](ami16.htm#an_3.md)"
 
 </div>
 
@@ -206,4 +206,4 @@ aisles, each brother thereupon betaking himself to his cell.
 
 ------------------------------------------------------------------------
 
-[Next: The Novice](ami02)
+[Next: The Novice](ami02.md)

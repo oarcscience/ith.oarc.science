@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma23)  [Next](fmma25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma23)  [Next](fmma25.md) 
 
 ------------------------------------------------------------------------
 
@@ -147,4 +147,4 @@ as snow and so long that it reached the ground.
 
 ------------------------------------------------------------------------
 
-[Next: Henry The Second 1154-1189, and His Sons 1189-1216](fmma25)
+[Next: Henry The Second 1154-1189, and His Sons 1189-1216](fmma25.md)

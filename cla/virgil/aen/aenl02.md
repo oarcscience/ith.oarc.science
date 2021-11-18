@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen02) 
-[Previous](aenl01)  [Next](aenl03) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen02.md) 
+[Previous](aenl01)  [Next](aenl03.md) 
 
 ------------------------------------------------------------------------
 
@@ -844,4 +844,4 @@ cessi et sublato montis genitore petiui.
 >
 > ------------------------------------------------------------------------
 >
-> [Next: Book III](aenl03)
+> [Next: Book III](aenl03.md)

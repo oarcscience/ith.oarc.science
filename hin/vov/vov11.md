@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov10)  [Next](vov12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov10)  [Next](vov12.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ lingam, will it fill your belly in any way?
 904
 
 After bathing, fasting, preparing food and desiring the god to eat it,
-they smite him on the [face](errata.htm#164) and devour it themselves.
+they smite him on the [face](errata.htm#164.md) and devour it themselves.
 (satire)
 
 905
@@ -69,7 +69,7 @@ application (enjoyment)? Hear this word openly declared to the world!
 
 910
 
-He who can gainsay the writing of [Brahma](errata.htm#165), he who can
+He who can gainsay the writing of [Brahma](errata.htm#165.md), he who can
 destroy the institutes of the Prime Vishnu, he who can stand in
 opposition to Him who has three eyes such shall never appear among men,
 save (excepting) thyself O! Vema!
@@ -91,8 +91,8 @@ can desert woman?
 913
 
 Ah! did you never hear that golden animals (deer) are produced in the
-world? Is king Rama [devoid](errata.htm#166) of sense? Your schemes
-avail [nothing](errata.htm#167) for fate rules all.
+world? Is king Rama [devoid](errata.htm#166.md) of sense? Your schemes
+avail [nothing](errata.htm#167.md) for fate rules all.
 
 914
 
@@ -115,7 +115,7 @@ the favour of Lakshmi.
 
 917
 
-When Siva struck off and threw away [Brahma's](errata.htm#168) head, did
+When Siva struck off and threw away [Brahma's](errata.htm#168.md) head, did
 any of the other deities oppose him? Who can perfect the sinner who hath
 not the favour of Siva?
 
@@ -136,7 +136,7 @@ neighbour?
 <span id="page_222">p. 222</span>
 
 Did not Indra, through cupidity become degraded? Was not cupid, through
-[desire](errata.htm#169), turned into earth? When Brahma contracted
+[desire](errata.htm#169.md), turned into earth? When Brahma contracted
 desire did not he lose his principal head.
 
 921
@@ -156,7 +156,7 @@ you, you cannot become a Brahmin.
 
 By the various names of generative eggs, having grown like hills,
 recklessly (dancingly, lit) they insult God When their turn arrives they
-fall in the hands [of](errata.htm#170) Yama's messenger.
+fall in the hands [of](errata.htm#170.md) Yama's messenger.
 
 924
 
@@ -186,8 +186,8 @@ who is wicked, but will praise him who is charitable.
 
 928
 
-[Vishnu](errata.htm#171) left the circle of skin, and would not come to
-the shore being entangled in the [wiles](errata.htm#172) of Lakshmi,
+[Vishnu](errata.htm#171.md) left the circle of skin, and would not come to
+the shore being entangled in the [wiles](errata.htm#172.md) of Lakshmi,
 daughter of the sea. Vishnu (Shargnee the Bowyer) being so mighty, what
 can men do?
 
@@ -196,7 +196,7 @@ can men do?
 <span id="page_224">p. 224</span>
 
 He that is as great as Sukrachari, knowing all things with his sharp
-sight if instead of [restraining](errata.htm#173) his mind let it roam,
+sight if instead of [restraining](errata.htm#173.md) his mind let it roam,
 is like the blind crow. (The crow and Sukrachari each have but one eye )
 
 930
@@ -410,7 +410,7 @@ Among the Gods Brahma, Siva, Vishnu and the rest and among the demi-Gods
 that roam the three worlds and among the excellent men and with in
 thyself O Vema he who acts up rightly is the eternal.
 
-[963](errata.htm#174)
+[963](errata.htm#174.md)
 
 The Lingam is the highest Siva. The (Zangam) worshipper, is the animated
 beast. If that animated being be pure, he shall attain Siva, Unless thou
@@ -449,7 +449,7 @@ believe in Siva, Bramins?
 
 969
 
-Were fire a [deity](errata.htm#175), by worshipping it should not we
+Were fire a [deity](errata.htm#175.md), by worshipping it should not we
 attain the dwelling of salvation? Did not the fire turn pale before
 Veerabhadra.
 
@@ -463,7 +463,7 @@ sacrifice made by Dakshudu?
 
 971
 
-He wears the lingam merely to [attain](errata.htm#176) money, thereby,
+He wears the lingam merely to [attain](errata.htm#176.md) money, thereby,
 vile and worthless son of a brute. Being for the sake of money they fall
 into the doctrine of works.
 
@@ -476,7 +476,7 @@ firmament the divinity is mightily infused.
 973
 
 Vishnu and Siva dwelling perpetually in the soul of a foolish mind is he
-who seeks for a distinct deity. Like a [shepherd](errata.htm#177) who
+who seeks for a distinct deity. Like a [shepherd](errata.htm#177.md) who
 seeks the sheep that is under his armpit.
 
 974
@@ -501,7 +501,7 @@ the next world shines forth in the present life.
 977
 
 That saint who hath learnt to know the difference between sunshine and
-shade cannot live in this world which he [despises](errata.htm#178) from
+shade cannot live in this world which he [despises](errata.htm#178.md) from
 knowing a better, but the glutton saint who worships the belly ever
 roameth the earth.
 
@@ -521,7 +521,7 @@ in the world and there is no thief greater than the linga worshipper.
 980
 
 Sandhya performed out of season is mere idling. What is time? What is
-the [preceding](errata.htm#179) time? If thou rule not time, and past
+the [preceding](errata.htm#179.md) time? If thou rule not time, and past
 time how is this Sandhya?
 
 981
@@ -540,7 +540,7 @@ living lingam, the terms indeed vary, but the divinity is all one.
 
 The curse of Goutama is terrible as the wrath of Siva, the poison
 throated. It made Indra king of Gods, as a debased. The reproach of
-Goutama the *muni*, was an [infallible](errata.htm#180) magic arrow.
+Goutama the *muni*, was an [infallible](errata.htm#180.md) magic arrow.
 (Sanscrit)
 
 <span id="page_236">p. 236</span>
@@ -656,7 +656,7 @@ jest. But know that the three a. e one. This shall gain the heaven.
 These aching (teasing) bones are the rafters. The entwined nerves are
 the laths. The strong skin may be considered the covering ail. The doors
 are the nine apertures. With pride the five (senses or pranas) if we go
-to look at them [have](errata.htm#181) exceeded through cause of hungers
+to look at them [have](errata.htm#181.md) exceeded through cause of hungers
 and thirst. In the body, like to a vest, the strong family of
 consanguinity dwells. His acts are the covering cast over all. In this
 house imbued with the nature of dung and urine and in such a dwelling
@@ -665,4 +665,4 @@ permanent.
 
 ------------------------------------------------------------------------
 
-[Next: 1000-1099](vov12)
+[Next: 1000-1099](vov12.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc01)  [Next](pjc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc01)  [Next](pjc03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -33,9 +33,9 @@ obedience, and upon the repeated commands of the directors of her
 conscience.
 
 The writer of the following pages was introduced to this holy religious
-by Count Leopold de Stolberg. <span id="fr_1"></span>[1](#fn_1) Dean
+by Count Leopold de Stolberg. <span id="fr_1"></span>[1](#fn_1.md) Dean
 Bernard Overberg, her director extraordinary, and Bishop Michael
-Sailer, <span id="fr_2"></span>[2](#fn_2) who had often been her
+Sailer, <span id="fr_2"></span>[2](#fn_2.md) who had often been her
 counsellor and consoler, urged her to relate to us in detail all that
 she experienced; and the latter, who survived her, took the deepest
 interest in the arrangement and publication of the notes taken down from
@@ -49,7 +49,7 @@ whom they loved and respected, on account of the singular graces with
 which God had favoured her. The editor of this book received equal
 encouragement, and met with no less sympathy in his labours, from the
 late Bishop of Ratisbonne, Mgr. Wittman. <span
-id="fr_3"></span>[1](#fn_3) This holy Bishop, who was so deeply versed
+id="fr_3"></span>[1](#fn_3.md) This holy Bishop, who was so deeply versed
 in the ways of Divine grace, and so well acquainted with its effects on
 certain souls, both from his private investigations of the subject, and
 his own experience, took the most lively interest in all that concerned
@@ -94,17 +94,17 @@ future they to publish her biography more in full.
 
 ### Footnotes
 
-<span id="fn_1"></span>[11:1](pjc02.htm#fr_1) The Count de Stolberg is
+<span id="fn_1"></span>[11:1](pjc02.htm#fr_1.md) The Count de Stolberg is
 one of the most eminent converts whom the Catholic Church has made from
 Protestantism. He died in 1819.
 
-<span id="fn_2"></span>[11:2](pjc02.htm#fr_2) The Bishop of Ratisbonne,
+<span id="fn_2"></span>[11:2](pjc02.htm#fr_2.md) The Bishop of Ratisbonne,
 one of the most celebrated defenders of the faith in Germany.
 
-<span id="fn_3"></span>[12:1](pjc02.htm#fr_3) Mgr. Wittman was the
+<span id="fn_3"></span>[12:1](pjc02.htm#fr_3.md) Mgr. Wittman was the
 worthy successor of Sailer, and a man of eminent sanctity, whose memory
 is held in veneration by all the Catholics of the south of Germany.
 
 ------------------------------------------------------------------------
 
-[Next: Life of Anne Catherine Emmerich](pjc03)
+[Next: Life of Anne Catherine Emmerich](pjc03.md)

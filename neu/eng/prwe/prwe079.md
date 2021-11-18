@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe078)  [Next](prwe080) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe078)  [Next](prwe080.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ evidence of the wisdom of the days gone by.
 
 ------------------------------------------------------------------------
 
-[Next: Piper's Hole, Scilly](prwe080)
+[Next: Piper's Hole, Scilly](prwe080.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap12) [Next](chap14)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap12) [Next](chap14.md)
 
 ------------------------------------------------------------------------
 
@@ -209,4 +209,4 @@ idle, dormant, dead.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: The Old Prospector](chap14)
+[Next: Chapter XIV: The Old Prospector](chap14.md)

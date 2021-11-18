@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,8 +20,8 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](spc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](spc.txt.gz)
+[Contents](#contents)    [Start Reading](spc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](spc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,14 +43,14 @@ tell.<span class="small">--*J. B. Hare*, August 27th, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](spc00)  
-[Preface](spc01)  
-[Contents](spc02)  
-[Early Buddhism in Hwang Mei](spc03)  
-[Ngn Ren Tsz—The Monastery of Benevolence](spc04)  
-[Kiu Hua Shan—Or The Nine-Lotus-Flower Mountain](spc05)  
-[Poot’oo: China's Sacred Island](spc06)  
-[The White Deer Grotto University](spc07)  
-[The Mandarin's Grave](spc08)  
-[Lung-Hu Shan—The Dragon-Tiger Mountain](spc09)  
-[Conclusions](spc10)  
+<span id="contents"></span> [Title Page](spc00.md)  
+[Preface](spc01.md)  
+[Contents](spc02.md)  
+[Early Buddhism in Hwang Mei](spc03.md)  
+[Ngn Ren Tsz—The Monastery of Benevolence](spc04.md)  
+[Kiu Hua Shan—Or The Nine-Lotus-Flower Mountain](spc05.md)  
+[Poot’oo: China's Sacred Island](spc06.md)  
+[The White Deer Grotto University](spc07.md)  
+[The Mandarin's Grave](spc08.md)  
+[Lung-Hu Shan—The Dragon-Tiger Mountain](spc09.md)  
+[Conclusions](spc10.md)  

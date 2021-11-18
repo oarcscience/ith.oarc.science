@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj45) 
-[Next](npj47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj45.md) 
+[Next](npj47.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ sadness, and in the end he let Yuya go home.
 
 ------------------------------------------------------------------------
 
-[Next: Tango-Monogurui](npj47)
+[Next: Tango-Monogurui](npj47.md)

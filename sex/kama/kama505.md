@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama504) 
-[Next](kama506) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama504.md) 
+[Next](kama506.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ necessary to be done, they should make use of the proper means as
 described in the following paragraphs.
 
 The head man of the village, the king's officer employed there, and the
-man <span id="fr_59"></span>[1](kama101.htm#fn_0) whose business it is
+man <span id="fr_59"></span>[1](kama101.htm#fn_0.md) whose business it is
 to glean corn, can gain over female villagers simply by asking them. It
 is on this account that this class of woman are called unchaste women by
 voluptuaries.
@@ -135,26 +135,26 @@ Thus end the means of gaining over the wives of others secretly.
 The above mentioned ways of gaining over the wives of other men are
 chiefly practised in the palaces of kings. But a king should never enter
 the abode of another person, for Abhira, <span
-id="fr_60"></span>[2](kama101.htm#fn_1) the king of the Kottas, was
+id="fr_60"></span>[2](kama101.htm#fn_1.md) the king of the Kottas, was
 killed by a washerman while in the house of another, and in the same way
 Jayasana, the king of the Kashis, was slain by the commandant of his
 cavalry.
 
 But according to the customs of some countries there are facilities for
 kings to make love to the wives of other men. Thus in the country of the
-Andhras <span id="fr_61"></span>[3](kama101.htm#fn_2) the newly married
+Andhras <span id="fr_61"></span>[3](kama101.htm#fn_2.md) the newly married
 daughters of the people thereof enter the king's harem with some
 presents on the tenth day of their marriage, and having been enjoyed by
 the king are then dismissed. In the country of the Vatsagulmas <span
-id="fr_62"></span>[4](kama102.htm#fn_6) the wives of the chief ministers
+id="fr_62"></span>[4](kama102.htm#fn_6.md) the wives of the chief ministers
 approach the king at night to serve him. In the country of the
-Vaidarbhas <span id="fr_63"></span>[5](kama104.htm#fn_13) the beautiful
+Vaidarbhas <span id="fr_63"></span>[5](kama104.htm#fn_13.md) the beautiful
 wives of the inhabitants pass a month in the king's harem under the
 pretence of affection for the king. In the country of the
-Aparatakas <span id="fr_64"></span>[6](kama104.htm#fn_14) the people
+Aparatakas <span id="fr_64"></span>[6](kama104.htm#fn_14.md) the people
 gave their beautiful wives as presents to the ministers and the kings.
 And lastly in the country of the Saurashtras <span
-id="fr_65"></span>[7](kama104.htm#fn_15) the women of the city and the
+id="fr_65"></span>[7](kama104.htm#fn_15.md) the women of the city and the
 country enter the royal harem for the king's pleasure either together or
 separately.
 
@@ -166,40 +166,40 @@ the welfare of his people at heart, should not on any account put them
 into practice.'
 
 'A king, who has conquered the six <span
-id="fr_66"></span>[8](kama104.htm#fn_16) enemies of mankind, becomes the
+id="fr_66"></span>[8](kama104.htm#fn_16.md) enemies of mankind, becomes the
 master of the whole earth.'
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_59"></span>[1](#fr_-1) This is a phrase used for a man who
+<span id="fn_59"></span>[1](#fr_-1.md) This is a phrase used for a man who
 does the work of everybody, and who is fed by the whole village.
 
-<span id="fn_60"></span>[2](#fr_-1) The exact date of the reign of these
+<span id="fn_60"></span>[2](#fr_-1.md) The exact date of the reign of these
 kings is not known. It is supposed to have been about the beginning of
 the Christian era.
 
-<span id="fn_61"></span>[3](#fr_-1) The modern country of Tailangam
+<span id="fn_61"></span>[3](#fr_-1.md) The modern country of Tailangam
 which is to the South of Rajamundry.
 
-<span id="fn_62"></span>[4](#fr_-1) Supposed to be a tract of the
+<span id="fn_62"></span>[4](#fr_-1.md) Supposed to be a tract of the
 country to the south of Malwa.
 
-<span id="fn_63"></span>[5](#fr_-1) Now known by the name of Berar. Its
+<span id="fn_63"></span>[5](#fr_-1.md) Now known by the name of Berar. Its
 capital was Kundinpura, which has been identified with the modern
 Oomravati.
 
-<span id="fn_64"></span>[6](#fr_-1) Also called Aparantakas, being the
+<span id="fn_64"></span>[6](#fr_-1.md) Also called Aparantakas, being the
 northern and southern Concan.
 
-<span id="fn_65"></span>[7](#fr_-1) The modern provinces of Katteeawar.
+<span id="fn_65"></span>[7](#fr_-1.md) The modern provinces of Katteeawar.
 Its capital was called Girinaguda, or the modern Junagurh.
 
-<span id="fn_66"></span>[8](#fr_-1) These are Lust, Anger, Avarice,
+<span id="fn_66"></span>[8](#fr_-1.md) These are Lust, Anger, Avarice,
 Spiritual Ignorance, Pride, and Envy.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. About the Women of the Royal Harem, and of the
-Keeping of One's Own Wife](kama506)
+Keeping of One's Own Wife](kama506.md)

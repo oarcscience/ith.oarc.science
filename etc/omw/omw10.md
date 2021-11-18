@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw09)  [Next](omw11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw09)  [Next](omw11.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ with the Magic Songs of the West Finns" has also been used.
 
 ------------------------------------------------------------------------
 
-[Next: Icelandic](omw11)
+[Next: Icelandic](omw11.md)

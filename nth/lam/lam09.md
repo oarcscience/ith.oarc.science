@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](lam08)  [Next](lam10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](lam08)  [Next](lam10.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ Supreme Being can and does intervene in the affairs of men. It is much
 more reasonable to believe that He cares for His creations than to
 accept the scientific theory that there is nothing but cold, natural
 law, devoid of feeling and intelligence. Apparently men are not content
-to [create](errata.htm#1) God in THEIR likeness, but must ascribe to Him
+to [create](errata.htm#1.md) God in THEIR likeness, but must ascribe to Him
 their limitations as well.
 
 In the study of miracles we can discard all ideas of accident and
@@ -303,7 +303,7 @@ of money which she had extorted from a poor man. She had loaned him the
 money for a stipulated period, at the end of which he was unable to
 repay due to unemployment and illness. But, nevertheless, she was
 determined to have her money. So she hounded and
-[harassed](errata.htm#2) the unfortunate man who, in order to get out of
+[harassed](errata.htm#2.md) the unfortunate man who, in order to get out of
 her clutches, borrowed the money elsewhere and repaid her. She paid
 dearly for her cupidity. Total blindness for over a year; many months
 more of only partial vision. Not only this, in her terror and confusion
@@ -408,4 +408,4 @@ same time*.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Equality](lam10)
+[Next: VIII. Equality](lam10.md)

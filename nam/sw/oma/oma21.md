@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma20)  [Next](oma22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma20)  [Next](oma22.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,8 +29,8 @@ four honani to be with this altar, but they were to lie flat (as corn is
 piled) and not set up on end.
 
 One of the katsina always had fire with him. He was called
-Shura'cha <span id="fr_154"></span>[55](#fn_154) ([pl. 1, lower
-right](oma34.htm#img_pl01f)). He was small and he also had a little
+Shura'cha <span id="fr_154"></span>[55](#fn_154.md) ([pl. 1, lower
+right](oma34.htm#img_pl01f).md). He was small and he also had a little
 canteen, always miraculously full of water. So they thought of calling
 him to bring some of this water to place in the jar belonging to
 Antelope Man so the people would never be out of water, and to bring
@@ -55,11 +55,11 @@ morning. Corn clan nawai had told the Corn clan they were to fast on
 this day. A little after sunrise they saw Shuracha in the distance with
 smoke around him. He built a series of fires as he approached the
 pueblo. There were three other katsina with him, Shu'naata, <span
-id="fr_155"></span>[56](oma22.htm#fn_155) Shumaashka <span
-id="fr_156"></span>[57](oma22.htm#fn_156) ([pl. 7, fig.
-2](oma40.htm#img_pl07b)), and Kumootina. <span
-id="fr_157"></span>[58](oma22.htm#fn_157) The latter was a
-berdache. <span id="fr_158"></span>[59](oma22.htm#fn_158) They were very
+id="fr_155"></span>[56](oma22.htm#fn_155.md) Shumaashka <span
+id="fr_156"></span>[57](oma22.htm#fn_156.md) ([pl. 7, fig.
+2](oma40.htm#img_pl07b).md), and Kumootina. <span
+id="fr_157"></span>[58](oma22.htm#fn_157.md) The latter was a
+berdache. <span id="fr_158"></span>[59](oma22.htm#fn_158.md) They were very
 slow and took some time to approach. They were not at all lively and
 poked along. When they came near the pueblo, the Corn clan went out to
 meet them. Country Chief and his officers acted as guards, keeping other
@@ -80,18 +80,18 @@ katsina. These katsina lived west of Washpashuka.
 
 ### Footnotes
 
-<span id="fn_151"></span>[69:52](oma20.htm#fr_151) The impersonator of
+<span id="fn_151"></span>[69:52](oma20.htm#fr_151.md) The impersonator of
 the Kopishtaiya draws four lines on the ground with a flint between
 himself and his mask at the conclusion of the ceremony (White, 1932, p.
 87). This is a common Pueblo way of separating one's self from something
 sacred or injurious.
 
-<span id="fn_152"></span>[69:53](oma20.htm#fr_152) Informant's note:
+<span id="fn_152"></span>[69:53](oma20.htm#fr_152.md) Informant's note:
 This method of getting rid of disease is still followed. When another
 village is visited the visitor on leaving brushes sickness off and
 leaves it behind. No sand painting is used.
 
-<span id="fn_153"></span>[69:54](oma20.htm#fr_153) Cf. White, 1932, p.
+<span id="fn_153"></span>[69:54](oma20.htm#fr_153.md) Cf. White, 1932, p.
 145. Stevenson renders wash'pa "cactus" (Stevenson, 1894, p. 19);
 Bandelier, "buffalo grass" \[*Bulbilis dactyloides*\] (Bandelier, 1940,
 vol. 2, p. 216); a Sia informant identified it with the Spanish
@@ -101,11 +101,11 @@ Southwest. Cŭkŭ means "corner," as in koamicŭkŭ, "southeast corner," the
 winter solstice (White, 1932, p. 85). (See Washpa, Washpashuka, in
 Handbook of American Indians.)
 
-<span id="fn_154"></span>[69:55](oma21.htm#fr_154) Cf. White, 1932, p.
+<span id="fn_154"></span>[69:55](oma21.htm#fr_154.md) Cf. White, 1932, p.
 79, pl. 2, *c*, pp. 94-96; 1942: Represented at Acoma today by a boy
 about 10 years 1932, p. 94). He carries a little pottery canteen and a
 firebrand.
 
 ------------------------------------------------------------------------
 
-[Next: Wanderings, Part XIII](oma22)
+[Next: Wanderings, Part XIII](oma22.md)

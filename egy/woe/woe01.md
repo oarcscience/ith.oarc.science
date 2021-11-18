@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](woe00)  [Next](woe02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](woe00)  [Next](woe02.md) 
 
 ------------------------------------------------------------------------
 
@@ -275,4 +275,4 @@ named the 'land of immortality."'
 
 ------------------------------------------------------------------------
 
-[Next: Contents](woe02)
+[Next: Contents](woe02.md)

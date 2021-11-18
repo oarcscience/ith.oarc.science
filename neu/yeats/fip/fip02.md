@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip01)  [Next](fip03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip01)  [Next](fip03.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ Hackets of Castle Hacket, Galway, who had for their ancestor a fairy,
 or John-o'-Daly of Lisadell, Sligo, who wrote "Eilleen Aroon", the song
 the Scots have stolen and called "Robin Adair", and which Handel would
 sooner have written than all his oratorios, <span
-id="fr_0"></span>[1](#fn_0) and the "O'Donahue of Kerry". Round these
+id="fr_0"></span>[1](#fn_0.md) and the "O'Donahue of Kerry". Round these
 men stories tended to group themselves, sometimes deserting more ancient
 heroes for the purpose. Round poets have they gathered especially, for
 poetry in Ireland has always been mysteriously connected with magic.
@@ -247,7 +247,7 @@ As to my own part in this book, I have tried to make it representative,
 as far as so few pages would allow, of every kind of Irish folk-faith.
 The reader will perhaps wonder that in all my notes I have not
 rationalised a single hobgoblin. I seek for shelter to the words of
-Socrates. <span id="fr_1"></span>[1](#fn_1)
+Socrates. <span id="fr_1"></span>[1](#fn_1.md)
 
 "*Phædrus*. I should like to know, Socrates, whether the
 
@@ -316,12 +316,12 @@ W. B. YEATS
 
 ### Footnotes
 
-<span id="fn_0"></span>[xii:1](fip02.htm#fr_0) He lived some time in
+<span id="fn_0"></span>[xii:1](fip02.htm#fr_0.md) He lived some time in
 Dublin, and heard it then.
 
-<span id="fn_1"></span>[xvi:1](fip02.htm#fr_1) *Phædrus*, Jowett's
+<span id="fn_1"></span>[xvi:1](fip02.htm#fr_1.md) *Phædrus*, Jowett's
 translation (Clarendon Press).
 
 ------------------------------------------------------------------------
 
-[Next: The Trooping Fairies](fip03)
+[Next: The Trooping Fairies](fip03.md)

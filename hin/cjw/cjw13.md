@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw12)  [Next](cjw14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw12)  [Next](cjw14.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,4 +155,4 @@ they are deluded by the mere seeming of the body. \[548\]
 
 ------------------------------------------------------------------------
 
-[Next: For Ever Free](cjw14)
+[Next: For Ever Free](cjw14.md)

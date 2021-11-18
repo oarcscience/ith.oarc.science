@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tll01)  [Next](tll03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tll01)  [Next](tll03.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ Englishman, has called *Lemuria*, from the monkey-like animals which
 inhabited it, and it is at the same time of great importance from being
 the probable cradle of the human race, which in all likelihood here
 first developed out of anthropoid apes. <span
-id="fr_0"></span>[1](#fn_0) The important proof which Alfred Wallace has
+id="fr_0"></span>[1](#fn_0.md) The important proof which Alfred Wallace has
 furnished, by the help of chorological facts, that the present Malayan
 Archipelago consists in reality of two completely different divisions,
 is particularly interesting. The western division, the Indo-Malayan
@@ -89,10 +89,10 @@ above the level of the sea as new land. Nothing can be more erroneous
 than the idea of a firm and unchangeable outline of our continents, such
 as is impressed upon us in early youth by defective lessons on
 geography, which are devoid of a geological basis." <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 The name Lemuria, as above stated, was originally adopted by Mr. Sclater
-in recognition of the fact that it was [probably](errata.htm#0) on this
+in recognition of the fact that it was [probably](errata.htm#0.md) on this
 continent that animals of the Lemuroid type were developed.
 
 "This," writes A. R. Wallace, "is undoubtedly a legitimate and highly
@@ -108,7 +108,7 @@ what that epoch was and what were the limits of the region in question,
 we are quite unable to say. If we are to suppose that it comprised the
 whole area now inhabited by Lemuroid animals, we must make it extend
 from West Africa to Burmah, South China and Celebes, an area which it
-possibly did once occupy." <span id="fr_2"></span>[1](#fn_2)
+possibly did once occupy." <span id="fr_2"></span>[1](#fn_2.md)
 
 "We have already had occasion," he elsewhere writes, "to refer to an
 ancient connection between this sub-region (the Ethiopian) and
@@ -118,7 +118,7 @@ is supported by the geology of India, which shows us Ceylon and South
 India consisting mainly of granite and old-metamorphic rocks, while the
 greater part of the peninsula is of tertiary formation, with a few
 isolated patches of secondary rocks. It is evident, therefore, that
-during much of the tertiary period, <span id="fr_3"></span>[2](#fn_3)
+during much of the tertiary period, <span id="fr_3"></span>[2](#fn_3.md)
 Ceylon and South India were bounded on the north by a considerable
 extent of sea, and probably formed part of an extensive Southern
 Continent or great island. The very numerous and remarkable cases of
@@ -136,7 +136,7 @@ and insects the competition was less severe, or the older forms were too
 well adapted to local conditions to be expelled; so that it is among
 these groups alone that we find any considerable number of what are
 probably the remains of the ancient fauna of a now submerged Southern
-Continent." <span id="fr_4"></span>[1](#fn_4)
+Continent." <span id="fr_4"></span>[1](#fn_4.md)
 
 After stating that during the whole of the tertiary and perhaps during
 much of the secondary periods, the great land masses of the earth were
@@ -147,7 +147,7 @@ always keeping distinct from each other, and represented more or less
 completely by Australia, South Africa and South America of our time.
 Into these flowed successive waves of life as they each in turn became
 temporarily united with some part of the Northern land." <span
-id="fr_5"></span>[2](#fn_5)
+id="fr_5"></span>[2](#fn_5.md)
 
 Although, apparently in vindication of some conclusions of his which had
 been criticised by Dr. Hartlaub, Wallace subsequently denied the
@@ -159,7 +159,7 @@ remain of course unaltered.
 
 The following extracts from Mr. H. F. Blandford's most interesting paper
 read before a meeting of the Geological Society deals with the subject
-in still greater detail <span id="fr_6"></span>[3](#fn_6):--
+in still greater detail <span id="fr_6"></span>[3](#fn_6.md):--
 
 <span id="page_6">p. 6</span>
 
@@ -231,7 +231,7 @@ existed in this
 
 region (or rather between Abyssinia and India) during the Miocene epoch.
 From what has been said above it will be seen that I infer its existence
-from a far earlier date. <span id="fr_7"></span>[1](#fn_7) With regard
+from a far earlier date. <span id="fr_7"></span>[1](#fn_7.md) With regard
 to its depression, the only present evidence relates to its northern
 extremity, and shows that it was in this region, later than the great
 trap-flows of the Dakhan. These enormous sheets of volcanic rock are
@@ -255,7 +255,7 @@ concurrent testimony to the former close connexion of Africa and India,
 including the tropical islands of the Indian Ocean. This Indo-Oceanic
 land appears to have existed from at least early Permian times, probably
 (as Professor Huxley has pointed out) up to the close of the Miocene
-epoch; <span id="fr_8"></span>[2](#fn_8) and South Africa and Peninsular
+epoch; <span id="fr_8"></span>[2](#fn_8.md) and South Africa and Peninsular
 India are the existing remnants of that ancient land. It may not have
 been absolutely continuous during the whole of this long period. Indeed,
 the Cretaceous
@@ -340,7 +340,7 @@ former existence of an old submerged continent ('Lemuria') which
 Darwin's researches on coral reefs had long since foreshadowed."
 
 "Of the five now existing continents," writes Ernst Haeckel, in his
-great work "The History of Creation," <span id="fr_9"></span>[1](#fn_9)
+great work "The History of Creation," <span id="fr_9"></span>[1](#fn_9.md)
 "neither Australia, nor America, nor Europe can have been this primæval
 home \[of man\], or the so-called 'Paradise,' the 'cradle of the human
 race.' Most circumstances indicate Southern Asia as the locality in
@@ -368,7 +368,7 @@ an acknowledged fact.
 
 The following quotation from Dr. Hartlaub's writings may bring to a
 close this portion of the evidence in favour of the existence of the
-lost Lemuria <span id="fr_10"></span>[1](tll03.htm#fn_10):--
+lost Lemuria <span id="fr_10"></span>[1](tll03.htm#fn_10.md):--
 
 "Five and thirty years ago, Isidore Geoffroy St. Hilaire remarked that,
 if one had to classify the Island of Madagascar exclusively on
@@ -393,45 +393,45 @@ it."
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](tll02.htm#fr_0) Haeckel is correct enough
+<span id="fn_0"></span>[2:1](tll02.htm#fr_0.md) Haeckel is correct enough
 in his surmise that Lemuria was the cradle of the human race as it now
 exists, but it was not out of Anthropoid apes that mankind developed. A
 reference will be made later on to the position in nature which the
 Anthropoid apes really occupy.
 
-<span id="fn_1"></span>[3:1](tll02.htm#fr_1) Ernst Haeckel's "Hist. of
+<span id="fn_1"></span>[3:1](tll02.htm#fr_1.md) Ernst Haeckel's "Hist. of
 Creation," 2nd ed., 1876, Vol. I., pp. 360-62.
 
-<span id="fn_2"></span>[4:1](tll02.htm#fr_2) Alfred Russell Wallace's
+<span id="fn_2"></span>[4:1](tll02.htm#fr_2.md) Alfred Russell Wallace's
 "The Geographical Distribution of Animals--with a study of the relations
 of living and extinct Faunas as elucidating the past changes of the
 Earth's Surface." London: Macmillan & Co., 1876. Vol. I., pp. 76-7.
 
-<span id="fn_3"></span>[4:2](tll02.htm#fr_3) Ceylon and South India, it
+<span id="fn_3"></span>[4:2](tll02.htm#fr_3.md) Ceylon and South India, it
 is true, have been bounded on the north by a considerable extent of sea,
 but that was at a much earlier date than the Tertiary period.
 
-<span id="fn_4"></span>[5:1](tll02.htm#fr_4) Wallace's "Geographical
+<span id="fn_4"></span>[5:1](tll02.htm#fr_4.md) Wallace's "Geographical
 Distribution, etc." Vol. I, pp. 328-9.
 
-<span id="fn_5"></span>[5:2](tll02.htm#fr_5) Wallace's "Geographical
+<span id="fn_5"></span>[5:2](tll02.htm#fr_5.md) Wallace's "Geographical
 Distribution, etc.," Vol. ii., p. 155.
 
-<span id="fn_6"></span>[5:3](tll02.htm#fr_6) H. F. Blandford "On the age
+<span id="fn_6"></span>[5:3](tll02.htm#fr_6.md) H. F. Blandford "On the age
 and correlations of the Plant-bearing series of India and the former
 existence of an Indo-Oceanic Continent," see Quarterly journal of the
 Geological Society, Vol. xxxi., 1875, pp. 534-540.
 
-<span id="fn_7"></span>[8:1](tll02.htm#fr_7) A reference to the maps
+<span id="fn_7"></span>[8:1](tll02.htm#fr_7.md) A reference to the maps
 will show that Mr. Blandford's estimate of date is the more correct of
 the two.
 
-<span id="fn_8"></span>[8:2](tll02.htm#fr_8) Parts of the continent of
+<span id="fn_8"></span>[8:2](tll02.htm#fr_8.md) Parts of the continent of
 course endured, but the dismemberment of Lemuria is said to have taken
 place before the beginning of the Eocene Age.
 
-<span id="fn_9"></span>[11:1](tll02.htm#fr_9) Vol. ii., pp. 325-6.
+<span id="fn_9"></span>[11:1](tll02.htm#fr_9.md) Vol. ii., pp. 325-6.
 
 ------------------------------------------------------------------------
 
-[Next: Evidence obtained from Archaic Records](tll03)
+[Next: Evidence obtained from Archaic Records](tll03.md)

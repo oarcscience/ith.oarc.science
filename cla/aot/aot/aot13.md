@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot12) 
-[Next](aot14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot12.md) 
+[Next](aot14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -125,7 +125,7 @@ sense, but owing to "that wisdom which God reveals to the wise" (iv.
 
 The most numerous wonder-doings ascribed to Apollonius are instances
 precisely of such foreknowledge or prophecy. <span
-id="fr_108"></span>[\*](#fn_108) It must be confessed that the
+id="fr_108"></span>[\*](#fn_108.md) It must be confessed that the
 utterances recorded are often obscure and enigmatical, but this is the
 usual case with such prophecy; for future events are most frequently
 either seen in symbolic representations, the meaning of which is not
@@ -223,7 +223,7 @@ causing the writing to disappear from the tablets of one of his accusers
 before Tigellinus (iv. 44); of his drawing his leg out of the fetters to
 show Damis that he was not really a prisoner though chained in the
 dungeons of Domitian (vii. 38); and of his "disappearing" (ἠφανίσθη)
-from the tribunal (viii. 5). <span id="fr_109"></span>[\*](#fn_109)
+from the tribunal (viii. 5). <span id="fr_109"></span>[\*](#fn_109.md)
 
 We are not, however, to suppose that Apollonius despised or neglected
 the study of physical phenomena in his devotion to the inner science of
@@ -241,15 +241,15 @@ category (v. 2).
 
 ### Footnotes
 
-<span id="fn_108"></span>[114:\*](aot13.htm#fr_108) See i. 22 (cf. 40),
+<span id="fn_108"></span>[114:\*](aot13.htm#fr_108) See i. 22 (cf. 40.md),
 34; iv. 4, 6, 18 (cf. v. 19), 24, 43; v. 7, 11, 13, 30, 37; vi. 32;
 viii. 26.
 
-<span id="fn_109"></span>[118:\*](aot13.htm#fr_109) This expression is,
+<span id="fn_109"></span>[118:\*](aot13.htm#fr_109.md) This expression is,
 however, perhaps only to be taken as rhetorical, for in viii. 8, the
 incident is referred to in the simple words "when he departed (ἀπῆλθε)
 from the tribunal."
 
 ------------------------------------------------------------------------
 
-[Next: Section XIII. His Mode of Life](aot14)
+[Next: Section XIII. His Mode of Life](aot14.md)

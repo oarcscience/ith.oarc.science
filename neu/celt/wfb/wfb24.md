@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb23)  [Next](wfb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb23)  [Next](wfb25.md) 
 
 ------------------------------------------------------------------------
 
@@ -80,4 +80,4 @@ so many minutes.
 
 ------------------------------------------------------------------------
 
-[Next: Tudur ap Einion](wfb25)
+[Next: Tudur ap Einion](wfb25.md)

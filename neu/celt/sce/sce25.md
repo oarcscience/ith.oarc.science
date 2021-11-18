@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce24)  [Next](sce26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce24)  [Next](sce26.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ her
 <span id="page_35">p. 35</span>
 
 her long faƒting, \[*her Name is not intyre*.\] <span
-id="fr_35"></span>[1](#fn_35) It was told by them of the Houƒe, as well
+id="fr_35"></span>[1](#fn_35.md) It was told by them of the Houƒe, as well
 as her ƒelfe, that ƒhe tooke verie little or no Food for ƒeverall Years
 paƒt; that ƒhe tarried in the Fields over Night, ƒaw and converƒed with
 a People ƒhe knew not, having wandered in ƒeeking of her Sheep, and
@@ -109,9 +109,9 @@ Diƒtance.
 
 ### Footnotes
 
-<span id="fn_35"></span>[35:1](sce25.htm#fr_35) Thus in the manuscript,
+<span id="fn_35"></span>[35:1](sce25.htm#fr_35.md) Thus in the manuscript,
 which is only a Transcript of Mr. Kirk's Original. Perhaps M'Intyre?
 
 ------------------------------------------------------------------------
 
-[Next: A Succint Accompt Of My Lord Tarbott's Relations](sce26)
+[Next: A Succint Accompt Of My Lord Tarbott's Relations](sce26.md)

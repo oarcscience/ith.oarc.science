@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal10)  [Next](goal12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal10)  [Next](goal12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -59,7 +59,7 @@ earth. Yet we think our earth a very large place, do we not?
 Leaving the confines of the solar system, we now enter for our
 comparisons a vaster field—the stellar domain. From a recent article in
 the *Scientific American* we copy the following: "Epsilon
-[Aurigae](errata.htm#1) is supposed to be a double star, the smaller of
+[Aurigae](errata.htm#1.md) is supposed to be a double star, the smaller of
 the two is about 350, 000, 000 miles in diameter and the larger one
 about 850, 000, 000 miles, or about 400 and 1,000 times the sun's
 diameter." With the scale used in our comparison of the solar system,
@@ -86,7 +86,7 @@ planet he would doubtless need a microscope to discover man upon it.
 We make one more comparison. If the Garden of Eden had been on the
 equator of Epsilon, and Adam on being driven out from Eden, had begun a
 journey on a fast express train around Epsilon—making the
-[schedule](errata.htm#2) time, usually made between New York and San
+[schedule](errata.htm#2.md) time, usually made between New York and San
 Francisco, about 3,000 miles in 4 days—and had traveled until now, 6,000
 years, it would be nearly 4,000 years before he would reach his starting
 point; or, in other words, it would take nearly 10,000 years to encircle
@@ -105,8 +105,8 @@ Again we quote from the *Scientific American*:
 
 "The head of Taurus is brilliantly lighted by the V-shaped figure called
 Hyades, whose brightest star of the first magnitude is the celebrated
-[Aldebaran](errata.htm#3). This star is red and of a deeper hue than
-[Betelgeuse](errata.htm#4). In actual luminosity it about equals Sirius,
+[Aldebaran](errata.htm#3.md). This star is red and of a deeper hue than
+[Betelgeuse](errata.htm#4.md). In actual luminosity it about equals Sirius,
 but being much farther away appears less brilliant to us. It may be
 remarked that Rigel \[or Beta Orionis\], according to Newcomb's
 estimate, is immensely greater than Sirius and possibly exceeds the sun
@@ -139,7 +139,7 @@ From terrestrial experiences we have no conception of our distance from
 the sun, and can form but a faint idea by comparison. Charles A. Young,
 Professor of astronomy in Princeton University, says that an explosion
 on the sun would be heard by us about fourteen years after it actually
-[occurred](errata.htm#5).
+[occurred](errata.htm#5.md).
 
 For years investigations have been made to discover whether our sun with
 its system of worlds is not circling around another grander center. Some
@@ -225,7 +225,7 @@ without limit to space or to numbers of systems of worlds, or of
 universes. If there is no limit to space, then there is no conceiving
 the numbers of universes filling space; and here we must stop because of
 the inability of mind to grasp infinity. <span
-id="fr_1"></span>[\*](#fn_1)
+id="fr_1"></span>[\*](#fn_1.md)
 
 THE CREATOR OF THE UNIVERSE
 
@@ -244,25 +244,25 @@ All astronomers and philosophers unite in saying
 
 <span id="img_08000"></span> <span align="CENTER"> [![Double and
 Multiple Nebulæ.](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 Double and Multiple Nebulæ.  
 </span>
 
 <span id="img_08001"></span> <span align="CENTER"> [![Annular
 Nebulæ'](tn/08001.jpg)  
-Click to enlarge](img/08001.jpg)  
+Click to enlarge](img/08001.jpg.md)  
 Annular Nebulæ'  
 </span>
 
 <span id="img_08002"></span> <span align="CENTER"> [![Stellar
 Clusters.](tn/08002.jpg)  
-Click to enlarge](img/08002.jpg)  
+Click to enlarge](img/08002.jpg.md)  
 Stellar Clusters.  
 </span>
 
 <span id="img_08003"></span> <span align="CENTER"> [![Nebula in the
 Lion](tn/08003.jpg)  
-Click to enlarge](img/08003.jpg)  
+Click to enlarge](img/08003.jpg.md)  
 Nebula in the Lion  
 </span>
 
@@ -339,7 +339,7 @@ Almighty God, this wondrous God of the whole universe, and of all
 universes, as having been once confined, limited, within the personality
 of a single man?—even the man. Jesus with all his divinity, his
 grandeur, glory and power! Reason recoils from such a thought. <span
-id="fr_2"></span>[\*](#fn_2) He was the son of God: yes, in a higher and
+id="fr_2"></span>[\*](#fn_2.md) He was the son of God: yes, in a higher and
 a holier sense than the church has understood; He said, "I came out from
 God." Have we not all come out from God? Is God not the Life, the
 Fountain, from which all life is organized? Is not God the Potentiality
@@ -355,7 +355,7 @@ you conceive
 the Cause of all these wondrous systems of worlds, the Producer of all
 the inhabitants of all these numberless universes to be without
 intelligence? If so, whence came the intelligence, small as it is, that
-you yourself possess? If you [believe](errata.htm#6) yourself to possess
+you yourself possess? If you [believe](errata.htm#6.md) yourself to possess
 intelligence and deprive your Source of the same conscious intelligence,
 are you not unreasonable?—Certainly you are. You would bring something
 out of nothing. Yes, the intelligence that you possess is but the merest
@@ -375,7 +375,7 @@ him? the thunder of his power who can understand?"
 
 ### Footnotes
 
-<span id="fn_1"></span>[79:\*](goal11.htm#fr_1) While Prof. Young in his
+<span id="fn_1"></span>[79:\*](goal11.htm#fr_1.md) While Prof. Young in his
 "General Astronomy" speaks disparagingly of the hypothesis of other
 universes beyond ours, yet at the same time he says that our universe is
 disc-shaped. The very fact that he gives our universe a form necessarily
@@ -414,7 +414,7 @@ telescope are probably other universes remote from our universe and
 there may be numbers of systems smaller even than our universe that
 would appear as nebula).
 
-<span id="fn_2"></span>[83:\*](goal11.htm#fr_2) The Christian believer
+<span id="fn_2"></span>[83:\*](goal11.htm#fr_2.md) The Christian believer
 will at once ask: Are we not told in Col. ii. 9, that "in him dwelleth
 all the fulness of the Godhead bodily"? Yes, we believe that is true,
 and in a coming chapter on "The Elohim" this thought is more fully
@@ -429,4 +429,4 @@ Christ. This will be made perfectly clear in the following chapters.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Great Name, Yahveh](goal12)
+[Next: Chapter VIII. The Great Name, Yahveh](goal12.md)

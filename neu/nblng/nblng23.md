@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng22)  [Next](nblng24) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng22)  [Next](nblng24.md) 
 
 ------------------------------------------------------------------------
 
@@ -202,4 +202,4 @@ to Tulln still bears the name of Zeiselstrasse. See Laehmann,
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXII: How Etzel Made Kriemhild His Bride.](nblng24)
+[Next: Adventure XXII: How Etzel Made Kriemhild His Bride.](nblng24.md)

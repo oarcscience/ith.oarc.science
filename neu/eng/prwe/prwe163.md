@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe162)  [Next](prwe164) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe162)  [Next](prwe164.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ came.
 
 ------------------------------------------------------------------------
 
-[Next: Slaughter Bridge](prwe164)
+[Next: Slaughter Bridge](prwe164.md)

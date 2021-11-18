@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto12) 
-[Next](aoto14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto12.md) 
+[Next](aoto14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -84,7 +84,7 @@ none of the look," said he, "of an athlete about you."
 Ulysses was furious, and told Euryalus that he was a good-looking <span
 class="margnote"><span id="an_8:164">164</span></span> young fool. He
 then took up a disc far heavier than those which the Phæacians were in
-the habit of throwing. <span id="fr_20"></span>[\*](#fn_20) The disc
+the habit of throwing. <span id="fr_20"></span>[\*](#fn_20.md) The disc
 made a hurtling sound as it passed through the air, and easily surpassed
 any throw that had been made yet. Thus encouraged he made another long
 and very angry speech, in which he said he would compete with any
@@ -144,7 +144,7 @@ now falling, they therefore adjourned to the house of Alcinous. Here the
 presents began to arrive, whereon the king desired Arēte to find Ulysses
 a chest in which to stow them, and to put a shirt and clean cloak in it
 as his own contribution; he also declared his intention of giving him a
-gold cup. <span id="fr_21"></span>[\*](#fn_21) Meanwhile, he said that
+gold cup. <span id="fr_21"></span>[\*](#fn_21.md) Meanwhile, he said that
 Ulysses had better have a warm bath.
 
 <span class="margnote"><span id="an_8:433">433</span></span> The bath
@@ -191,13 +191,13 @@ high mountain.
 
 ### Footnotes
 
-<span id="fn_20"></span>[39:\*](aoto13.htm#fr_20) It is a little odd
+<span id="fn_20"></span>[39:\*](aoto13.htm#fr_20.md) It is a little odd
 that this disc should have been brought, considering that none such were
 used by the Phæacians. We must suppose that Minerva put it in along with
 the others, and then shed a thick darkness over it, which prevented the
 attendants from noticing it.
 
-<span id="fn_21"></span>[40:\*](aoto13.htm#fr_21) Alcinous never seems
+<span id="fn_21"></span>[40:\*](aoto13.htm#fr_21.md) Alcinous never seems
 to have got beyond saying that he was going to give the cup; he never
 gives it, nor yet the talent—the familiar an ὣσ εἰπὼν ἐν χερσὶ τίθει
 κ.τ.λ. is noticeably absent. He found the chest, and he took a great
@@ -208,4 +208,4 @@ to have ended.
 ------------------------------------------------------------------------
 
 [Next: Book IX. The Voyages of Ulysses: Cicons, Lotus Eaters, and the
-Cyclops](aoto14)
+Cyclops](aoto14.md)

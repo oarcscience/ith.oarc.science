@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca69)  [Next](fsca71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca69)  [Next](fsca71.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ slight resemblance to<span id="img_26700"></span>
 
 |                                            |
 |--------------------------------------------|
-| ![Example—Dolphin embowed.](img/26700.jpg) |
+| ![Example—Dolphin embowed.](img/26700.jpg.md) |
 
 the natural form of this celebrated historic marine symbol; a nearer
 resemblance to the natural shape is decidedly preferable. Some of the
@@ -98,4 +98,4 @@ Walterton family.
 
 ------------------------------------------------------------------------
 
-[Next: The Sea-Horse](fsca71)
+[Next: The Sea-Horse](fsca71.md)

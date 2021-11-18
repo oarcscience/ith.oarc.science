@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt13)  [Next](crt15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt13)  [Next](crt15.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ reading thereof that I shall have in telling of them to you.
 
 ------------------------------------------------------------------------
 
-[Next: Prologue](crt15)
+[Next: Prologue](crt15.md)

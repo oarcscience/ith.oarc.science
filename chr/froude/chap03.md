@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index) [Christianity](../index)
-[Pilgrim's Progress](../bunyan/index)  
-[Index](index) [Previous](chap02) [Next](chap04)
+[Intangible Textual Heritage](../../index) [Christianity](../index.md)
+[Pilgrim's Progress](../bunyan/index.md)  
+[Index](index) [Previous](chap02) [Next](chap04.md)
 
 ------------------------------------------------------------------------
 
@@ -473,4 +473,4 @@ to say, Praise ye the Lord. Praise God in His sanctuary."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Call to the Ministry](chap04)
+[Next: Chapter IV. Call to the Ministry](chap04.md)

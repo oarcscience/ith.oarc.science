@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb18)  [Next](gyfb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb18)  [Next](gyfb20.md) 
 
 </div>
 
@@ -737,6 +737,6 @@ any wrongs in the past. Then they parted and went their ways.
 
 ------------------------------------------------------------------------
 
-[Next: Bobino](gyfb20)
+[Next: Bobino](gyfb20.md)
 
 </div>

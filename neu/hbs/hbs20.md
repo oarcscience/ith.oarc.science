@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs19) [Next](hbs21)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs19) [Next](hbs21.md)
 
 ------------------------------------------------------------------------
 
@@ -193,7 +193,7 @@ Be everywhere remembered while the sun and moon abide!”
 
 ------------------------------------------------------------------------
 
-[Next](hbs21)
+[Next](hbs21.md)
 
  
 

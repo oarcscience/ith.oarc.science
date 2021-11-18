@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](app38)  [Next](app40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](app38)  [Next](app40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674035011/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancilla to the Pre-Socratic Philosophers*, by Kathleen Freeman,
 \[1948\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ fifth century B.C.
 He was said to have written one book, which was the first published
 account of Pythagoreanism. The fragments attributed to him are in Doric
 dialect. Their genuineness has been disputed by modern scholars,
-probably without justification. <span id="fr_66"></span>[1](#fn_61) This
+probably without justification. <span id="fr_66"></span>[1](#fn_61.md) This
 work was usually given the title *On the Universe*. Another work
 entitled *Bacchae* was sometimes attributed to him.
 
@@ -105,7 +105,7 @@ or in their relationship to one another, unless there existed Number and
 its essence. But in fact Number, fitting all things into the soul
 through sense-perception, makes them recognisable and comparable with
 one another as is provided by the nature of the Gnômôn, <span
-id="fr_67"></span>[1](#fn_62) in that Number gives them body and divides
+id="fr_67"></span>[1](#fn_62.md) in that Number gives them body and divides
 the different relationships of things, whether they be Non-Limited or
 Limiting, into their separate groups.
 
@@ -124,7 +124,7 @@ union with the race of Number.
 
 12\. The bodies (*physical Elements)* of the Sphere are five: the Fire
 in the Sphere, and the Water, and Earth, and Air, and, fifth, the
-vehicle(?) <span id="fr_68"></span>[2](#fn_63) of the Sphere.
+vehicle(?) <span id="fr_68"></span>[2](#fn_63.md) of the Sphere.
 
 13\. (The Four Elements of the rational animal are: Brain, Heart, Navel,
 Genital Organ). The Head is the seat of the Mind, the
@@ -145,7 +145,7 @@ a tomb.
 15\. (*Socrates to Cebes in the 'Phaedo': The theory that we are in a
 sort of watch-tower which we must not desert is difficult; but I agree
 that we are one of the possessions of the gods*). <span
-id="fr_69"></span>[1](#fn_64)
+id="fr_69"></span>[1](#fn_64.md)
 
 16\. There are certain thoughts which are stronger than ourselves.
 
@@ -227,21 +227,21 @@ contents of the universe.
 
 ### Footnotes
 
-<span id="fn_61"></span>[73:1](app39.htm#fr_66) See *Companion*, pp.
+<span id="fn_61"></span>[73:1](app39.htm#fr_66.md) See *Companion*, pp.
 228-9.
 
-<span id="fn_62"></span>[75:1](app39.htm#fr_67) Gnômôn: here, a figure
+<span id="fn_62"></span>[75:1](app39.htm#fr_67.md) Gnômôn: here, a figure
 used in solving geometrical problems. Heath, *Greek Mathematics*, I. p.
 78; and Newbold, *Philolaus, in Arch. für Gesch. der Phil.* (1906) P.
 176 *sqq*.
 
-<span id="fn_63"></span>[75:2](app39.htm#fr_68) ὁλκάς, 'hull of a ship';
+<span id="fn_63"></span>[75:2](app39.htm#fr_68.md) ὁλκάς, 'hull of a ship';
 some emend to ὁλκός, 'roll' or 'envelope', an unlikely meaning.
 
-<span id="fn_64"></span>[76:1](app39.htm#fr_69) Plato does not name
+<span id="fn_64"></span>[76:1](app39.htm#fr_69.md) Plato does not name
 Philolaus here; but his name is applied by Athenagoras (second century
 A.D.) to a similar statement.
 
 ------------------------------------------------------------------------
 
-[Next: 45. Eurytus of Southern Italy](app40)
+[Next: 45. Eurytus of Southern Italy](app40.md)

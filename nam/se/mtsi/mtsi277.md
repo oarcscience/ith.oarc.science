@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi276)  [Next](mtsi278) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi276)  [Next](mtsi278.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ say.
 
 ------------------------------------------------------------------------
 
-[Next: 13. The Cannibal](mtsi278)
+[Next: 13. The Cannibal](mtsi278.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Next](wmsp01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Next](wmsp01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,9 +28,9 @@ fashion, as required by law at the time.
 <span id="img_cover"></span>
 
 [![Front Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover  
 
 ------------------------------------------------------------------------
 
-[Next: Helen's Story](wmsp01)
+[Next: Helen's Story](wmsp01.md)

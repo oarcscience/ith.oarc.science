@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](tlc04)  [Next](tlc06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](tlc04)  [Next](tlc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KMTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Continent*, by Cutcliffe Hyne, \[1900\], at Intangible Textual
 Heritage
 
@@ -387,7 +387,7 @@ I judged them to be vulnerable,
 
 <span id="img_04200"></span> <span align="CENTER"> [![“‘I DROVE IN THE
 LANCE AT ITS OOZY EYE’”](tn/04200.jpg)  
-Click to enlarge](img/04200.jpg)  
+Click to enlarge](img/04200.jpg.md)  
 “‘I DROVE IN THE LANCE AT ITS OOZY EYE’”  
 </span>
 
@@ -437,4 +437,4 @@ not omit to pay these little attentions.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. A Rival Navy](tlc06)
+[Next: Chapter III. A Rival Navy](tlc06.md)

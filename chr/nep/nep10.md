@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep09)  [Next](nep11) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep09)  [Next](nep11.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ of God in vain.
 
 ------------------------------------------------------------------------
 
-[Next: Duty Of Children To Their Parents](nep11)
+[Next: Duty Of Children To Their Parents](nep11.md)

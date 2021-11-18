@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index) 
-[Previous](maha06)  [Next](maha08) 
+[Sacred-Texts](../../index)  [Tantra](../index)  [Index](index.md) 
+[Previous](maha06)  [Next](maha08.md) 
 
 ------------------------------------------------------------------------
 
@@ -372,6 +372,6 @@ Amulet (Kavacha), and the description of the Kula-tattva."
 ------------------------------------------------------------------------
 
 [Next: Chapter 8 - The Dharmma and Customs of the Castes and
-Ashramas](maha08)
+Ashramas](maha08.md)
 
   

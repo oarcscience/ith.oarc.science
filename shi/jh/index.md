@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](jh00)
+[Contents](#contents)    [Start Reading](jh00.md)
 
 ------------------------------------------------------------------------
 
@@ -34,11 +34,11 @@ original book.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](jh00)  
-[A Note On Japanese Haiku](jh01)  
-[Part 1](jh02)  
-[Part 2](jh03)  
-[Part 3](jh04)  
-[Part 4](jh05)  
-[Part 5](jh06)  
-[Part 6](jh07)  
+<span id="contents"></span> [Title Page](jh00.md)  
+[A Note On Japanese Haiku](jh01.md)  
+[Part 1](jh02.md)  
+[Part 2](jh03.md)  
+[Part 3](jh04.md)  
+[Part 4](jh05.md)  
+[Part 5](jh06.md)  
+[Part 6](jh07.md)  

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj22) 
-[Next](npj24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj22.md) 
+[Next](npj24.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Princess. And from that time he has loved her with a love that gives his
 heart no rest.
 
 Some one told her of this, and she said, "Love's equal realm knows no
-divisions," <span id="fr_118"></span>[1](#fn_116) and in her pity she
+divisions," <span id="fr_118"></span>[1](#fn_116.md) and in her pity she
 said, "By that pond there stands a laurel-tree, and on its branches
 there hangs a drum. Let him beat the drum, and if the sound is heard in
 the Palace, he shall see my face again."
@@ -113,10 +113,10 @@ CHORUS.
 And got worse torment so  
 Than by remembrance. But all in this world  
 Is as the horse of the aged man of the land of Sai; <span
-id="fr_119"></span>[1](#fn_117)  
+id="fr_119"></span>[1](#fn_117.md)  
 And as a white colt flashes  
 Past a gap in the hedge, even so our days pass. <span
-id="fr_120"></span>[2](#fn_118)  
+id="fr_120"></span>[2](#fn_118.md)  
 And though the time be come,  
 Yet can none know the road that he at last must tread,  
 Goal of his dewdrop-life.  
@@ -200,7 +200,7 @@ himself into the pond by the laurel tree, and died. The soul of .such a
 one may cling to you and do you injury. Go out and look upon him
 
 PRINCESS (*speaking wildly, already possessed by the* GARDENER'S *angry
-ghost, which speaks through her*). <span id="fr_121"></span>[1](#fn_119)
+ghost, which speaks through her*). <span id="fr_121"></span>[1](#fn_119.md)
 
 <span id="page_138">p. 138</span>
 
@@ -272,14 +272,14 @@ GHOST.
 Though the brooks run dry,  
 Never shall the place be shown  
 Of the spring that feeds my heart." <span
-id="fr_122"></span>[1](#fn_120)  
+id="fr_122"></span>[1](#fn_120.md)  
 So I had resolved. Oh, why so cruelly  
 Set they me to win  
 Voice from a voiceless drum,  
 Spending my heart in vain?  
 And I spent my heart on the glimpse of a moon that slipped  
 Through the boughs of an autumn tree. <span
-id="fr_123"></span>[2](#fn_121)
+id="fr_123"></span>[2](#fn_121.md)
 
 CHORUS.
 
@@ -332,10 +332,10 @@ The mallet lashed, as these waves lash the shore,
 Lash on the ice of the eastern shore.  
 The wind passes; the rain falls  
 On the Red Lotus, the Lesser and the Greater. <span
-id="fr_124"></span>[1](#fn_122)  
+id="fr_124"></span>[1](#fn_122.md)  
 The hair stands up on my head.  
 "The fish that leaps the falls  
-To a fell snake is turned," <span id="fr_125"></span>[2](#fn_123)
+To a fell snake is turned," <span id="fr_125"></span>[2](#fn_123.md)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -360,38 +360,38 @@ Into the whirlpool of desire.
 
 ### Footnotes
 
-<span id="fn_116"></span>[134:1](npj23.htm#fr_118) A twelfth-century
+<span id="fn_116"></span>[134:1](npj23.htm#fr_118.md) A twelfth-century
 folk-song (*Ryōjin Hisshō*, p. 126), speaks of "The Way of Love which
 knows no castes of 'high' and 'low."
 
-<span id="fn_117"></span>[136:1](npj23.htm#fr_119) A story from
+<span id="fn_117"></span>[136:1](npj23.htm#fr_119.md) A story from
 *Huai-nan Tzŭ*. What looks like disaster turns out to be good fortune
 and vice versa. The horse broke away and was lost. A revolution occurred
 during which the Government seized all horses. When the revolution was
 over the man of Sai's horse was rediscovered. If he had not lost it the
 Government would have taken it.
 
-<span id="fn_118"></span>[136:2](npj23.htm#fr_120) This simile, which
+<span id="fn_118"></span>[136:2](npj23.htm#fr_120.md) This simile, which
 passed into a proverb in China and Japan, occurs first in *Chuang Tzŭ*,
 chap. xxii.
 
-<span id="fn_119"></span>[137:1](npj23.htm#fr_121) Compare the
+<span id="fn_119"></span>[137:1](npj23.htm#fr_121.md) Compare the
 "possession" in *Sotoba Komachi*.
 
-<span id="fn_120"></span>[139:1](npj23.htm#fr_122) Adapted from a poem
+<span id="fn_120"></span>[139:1](npj23.htm#fr_122.md) Adapted from a poem
 in the *Gosenshū*.
 
-<span id="fn_121"></span>[139:2](npj23.htm#fr_123) Adapted from a poem
+<span id="fn_121"></span>[139:2](npj23.htm#fr_123.md) Adapted from a poem
 in the *Kokinshū*.
 
-<span id="fn_122"></span>[140:1](npj23.htm#fr_124) The names of two of
+<span id="fn_122"></span>[140:1](npj23.htm#fr_124.md) The names of two of
 the Cold Hells in the Buddhist Inferno.
 
-<span id="fn_123"></span>[140:2](npj23.htm#fr_125) There is a legend
+<span id="fn_123"></span>[140:2](npj23.htm#fr_125.md) There is a legend
 that the fish who succeed in leaping a certain waterfall turn into
 dragons. So the Gardener's attempt to raise himself to the level of the
 Princess has changed him into an evil demon.
 
 ------------------------------------------------------------------------
 
-[Next: Note On Aoi no Uye](npj24)
+[Next: Note On Aoi no Uye](npj24.md)

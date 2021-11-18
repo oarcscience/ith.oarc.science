@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot09) 
-[Next](bot11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot09.md) 
+[Next](bot11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -42,17 +42,17 @@ also to secure the good will of Horus; and, when placed like the golden
 Tat at the neck of the dead on the day of the funeral in the soul's
 journey through the under-world it opened up all hidden places and
 procured the favour of Isis and her son, Horus, for ever and ever (see
-Illustrations Nos. 71, 72, 73, [Plate V](#img_pl05)).
+Illustrations Nos. 71, 72, 73, [Plate V](#img_pl05).md).
 
 <span class="smallcaps">The Tie</span>, or <span
-class="smallcaps">Sa</span> (Illustration No. 70, [Plate V](#img_pl05))
+class="smallcaps">Sa</span> (Illustration No. 70, [Plate V](#img_pl05).md)
 is the symbol of Ta-urt, the Hippopotamus-headed goddess, who was
 associated with the god Thoth, the personification of Divine
 Intelligence and Human Reason; it was worn for magical protection.
 
 <span id="img_pl05"></span> <span align="CENTER"> [![PLATE 5. EGYPTIAN
 TALISMANS.](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE 5. EGYPTIAN TALISMANS.  
 </span>
 
@@ -96,7 +96,7 @@ presents between friends, many scarabs being found with good wishes or
 mottoes engraved on the under side, and some of the kings used the back
 of scarabs to commemorate historical events; one in the British Museum
 records the slaughter of 102 fierce lions by Amenhetep III, with his own
-hand (see Illustrations Nos. 74, 75, [Plate VI](#img_pl06)).
+hand (see Illustrations Nos. 74, 75, [Plate VI](#img_pl06).md).
 
 Next to the Scarab, the ancient Egyptians attached much importance to
 the
@@ -139,7 +139,7 @@ liable to this injurious influence, and Talismans
 to avert such a misfortune to them were hung on their foreheads, or over
 the left eye.
 
-Examples of Eye Amulets are illustrated on [Plate VI](#img_pl06), Nos.
+Examples of Eye Amulets are illustrated on [Plate VI](#img_pl06.md), Nos.
 79, 80, and 81.
 
 'When two eyes are used together the right eye is symbolic of Ra, or
@@ -152,7 +152,7 @@ greatest at that time.
 The Talisman of the
 
 <span class="smallcaps">Two Fingers</span> (Illustration No. 82, [Plate
-VI](#img_pl06)) was symbolical of Help, Assistance, and Benediction,
+VI](#img_pl06).md) was symbolical of Help, Assistance, and Benediction,
 typified by the two fingers extended by Horus to assist his father in
 mounting the ladder suspended between this world and the next. This
 Amulet was frequently placed in the interior of the mummified body to
@@ -174,14 +174,14 @@ finger of his bride to show that next to God in the Trinity, a man's
 life should be devoted to his wife.
 
 <span class="smallcaps">The Collar Amulet</span> (Illustrations Nos. 83,
-84, [Plate VI](#img_pl06)) was a symbol of Isis, and was worn to procure
+84, [Plate VI](#img_pl06).md) was a symbol of Isis, and was worn to procure
 her protection and the strength of her son Horus. In both examples the
 head of the Hawk appears, this bird being attributed to Horus as well as
 to Ra. This collar, which was made of gold, was engraved with words of
 power and seems to have been chiefly used as a funeral amulet.
 
 <span class="smallcaps">The Sma</span> (Illustration No. 85, [Plate
-VI](#img_pl06)) was a favourite Amulet from the dawn of Egyptian
+VI](#img_pl06).md) was a favourite Amulet from the dawn of Egyptian
 history, and is frequently used in various forms of decorated art. It
 was symbolical of Union and Stability of Affection, and was worn to
 strengthen love and friendship and ensure physical happiness and
@@ -199,15 +199,15 @@ reach this a ladder was deemed necessary. From the Pyramid texts it
 seems there were two stages of ascent to the upper Paradise, represented
 by two ladders, one being the ladder of Sut, forming the ladder of
 ascent from the land of darkness, and the other the ladder of Horus
-reaching the Land of Light (Illustration No. 86, [Plate VI](#img_pl06)).
+reaching the Land of Light (Illustration No. 86, [Plate VI](#img_pl06).md).
 
 <span class="smallcaps">The Steps</span> (Illustrations Nos. 87, 88,
-[Plate VI](#img_pl06)) are a symbol of Osiris, who is described as the
+[Plate VI](#img_pl06).md) are a symbol of Osiris, who is described as the
 god of the staircase, through whom it was hoped the deceased might reach
 the Heaven world and attain everlasting bliss.
 
 <span class="smallcaps">The Snake's Head</span> Talisman (Illustration
-No. 89, [Plate VI](#img_pl06)) was worn to protect its wearer from the
+No. 89, [Plate VI](#img_pl06).md) was worn to protect its wearer from the
 attacks of Rerek, or Apep, the servant of Set, who was typified as a
 terrible serpent, which when killed had the power of rising in new forms
 and who obstructed the passage to the Heaven world. The serpent,
@@ -220,7 +220,7 @@ round the heads
 
 <span id="img_pl06"></span> <span align="CENTER"> [![PLATE 6. EGYPTIAN
 TALISMANS.](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 PLATE 6. EGYPTIAN TALISMANS.  
 </span>
 
@@ -236,14 +236,14 @@ country folk at the present day there is a popular belief that a serpent
 will not die until the sun goes down.
 
 <span class="smallcaps">The Sun's Disc</span> Talismans (Illustrations
-No. 90, 92, [Plate VII](bot11.htm#img_pl07)) are symbols of the god Ra,
+No. 90, 92, [Plate VII](bot11.htm#img_pl07).md) are symbols of the god Ra,
 No. 92 being appropriately placed upon the head of a Ram, the symbol of
 the Zodiacal house Aries, in which sign the sun is exalted. It was worn
 for Power and Renown, and to obtain the favours of the great ones, being
 also an emblem of new birth and resurrection.
 
 <span class="smallcaps">The Frog</span> Talisman (Illustration No. 91,
-[Plate VII](bot11.htm#img_pl07)) was highly esteemed, and is an
+[Plate VII](bot11.htm#img_pl07).md) was highly esteemed, and is an
 attribute of Isis, being worn to attract her favours and for
 fruitfulness. Because of its fertility its hieroglyphic meaning was an
 immense number. It was also used as a symbol of Ptah, as it represented
@@ -257,13 +257,13 @@ and Long Life, taking the place sometimes of the Crux Ansata or Ankh, as
 a symbol of Life.
 
 <span class="smallcaps">The Pillow</span> (Illustration No. 93, [Plate
-VII](bot11.htm#img_pl07)) was used for preservation from sickness and
+VII](bot11.htm#img_pl07).md) was used for preservation from sickness and
 against pain and suffering; it was also worn for the favour of Horus,
 and was placed with the dead as a protection and to prevent violation of
 the Tomb.
 
 <span class="smallcaps">The Lotus</span> (Illustrations No. 94, 95,
-[Plate VII](bot11.htm#img_pl07)) is a symbol with two meanings.
+[Plate VII](bot11.htm#img_pl07).md) is a symbol with two meanings.
 Emblematical of the Sun in the ancient days of Egypt and typifying
 Light, Understanding, Fruitfulness, and Plenty, it was believed to bring
 the favours of the god Ra. Later it is described as "the pure Lily of
@@ -273,13 +273,13 @@ having the double virtue of chastity and fecundity it was alike prized
 for Maiden- and Motherhood.
 
 <span class="smallcaps">The Fish</span> Talisman (Illustrations Nos. 96,
-97, [Plate VII](bot11.htm#img_pl07)) is a symbol of Hathor (who
+97, [Plate VII](bot11.htm#img_pl07).md) is a symbol of Hathor (who
 controlled the rising of the Nile), as well as an Amulet under the
 influence of Isis and Horus. It typified the primeval Creative principle
 and was worn for domestic felicity, Abundance, and general Prosperity.
 
 <span class="smallcaps">The Vulture</span> Talisman (Illustration No.
-98, [Plate VII](bot11.htm#img_pl07)) was worn to protect from the bites
+98, [Plate VII](bot11.htm#img_pl07).md) was worn to protect from the bites
 of
 
 <span id="page_75">p. 75</span>
@@ -295,7 +295,7 @@ might identify himself with Horus and partake of his good fortune in the
 fields of eternal bliss.
 
 <span class="smallcaps">The Sceptre</span> (Illustrations Nos. 76, 77,
-78, [Plate VI](#img_pl06)) is a symbol of Isis, typifying power over the
+78, [Plate VI](#img_pl06).md) is a symbol of Isis, typifying power over the
 fruits of the earth, and was worn to preserve and renew youth and
 vigour, and to attract physical strength and virility.
 
@@ -312,6 +312,6 @@ dealt with.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII](bot11)
+[Next: Chapter VIII](bot11.md)
 
 </div>

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](eiu00)  [Next](eiu02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](eiu00)  [Next](eiu02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425496466/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1425496466/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,15 +32,15 @@ worship of the inhabitants thereof, and of various other things worthy
 to be related: and because in this manner it has been granted me to know
 these things, it is permitted to describe them from what has been heard
 and seen. It is to be known that all spirits and angels are from the
-human race; <span id="fr_0"></span>[1-1](#fn_0) and that they are near
-their own earths; <span id="fr_1"></span>[1-2](#fn_1) and that they know
+human race; <span id="fr_0"></span>[1-1](#fn_0.md) and that they are near
+their own earths; <span id="fr_1"></span>[1-2](#fn_1.md) and that they know
 what is there; and that by them man may be instructed, if his interiors
 are so far opened that he can speak and converse with them; for man in
-his essence is a spirit, <span id="fr_2"></span>[1-3](#fn_2) and he is
+his essence is a spirit, <span id="fr_2"></span>[1-3](#fn_2.md) and he is
 together with spirits as to his interiors; <span
-id="fr_3"></span>[1-4](#fn_3) wherefore he whose interiors are opened by
+id="fr_3"></span>[1-4](#fn_3.md) wherefore he whose interiors are opened by
 the Lord, may speak with them as man with man; <span
-id="fr_4"></span>[1-5](#fn_4) which has been granted me now for twelve
+id="fr_4"></span>[1-5](#fn_4.md) which has been granted me now for twelve
 years daily. FROM THE ARCANA COELESTIA; WHERE THESE AND THE FOLLOWING
 NOTES ARE EXPLAINED AND SHOWN.
 
@@ -113,7 +113,7 @@ the particulars with man, myriads corresponding to every member, organ,
 and viscus, and to every affection of each; and it has been given to
 know, that this heaven, as to all its correspondences, can by no means
 exist, except from the inhabitants of very many earths. <span
-id="fr_5"></span>[5-1](#fn_5)
+id="fr_5"></span>[5-1](#fn_5.md)
 
 <span class="margnote"><span id="6.">6.</span></span>
 
@@ -132,9 +132,9 @@ other earths, those of them who are not idolaters, all acknowledge the
 Lord as the only God; for they adore the Divine not as invisible, but as
 visible, also for this reason, because when the Divine appears to them,
 He appears in the human form, as He also formerly appeared to Abraham
-and others on this earth; <span id="fr_6"></span>[7-1](#fn_6) and they
+and others on this earth; <span id="fr_6"></span>[7-1](#fn_6.md) and they
 who adore the Divine under a human form, are all accepted by the
-Lord. <span id="fr_7"></span>[7-2](#fn_7) They say also, that no one can
+Lord. <span id="fr_7"></span>[7-2](#fn_7.md) They say also, that no one can
 rightly worship God, much less be joined to Him, unless He comprehends
 Him by some idea, and that God cannot be comprehended except in the
 human form; and if He be not so comprehended, the interior sight, which
@@ -155,7 +155,7 @@ heaven resembles one man, which is therefore called the Greatest Man,
 and that each and all things with man, both his exteriors and interiors,
 correspond to that man or heaven, is an arcanum not yet known in the
 world; but that it is so, has been abundantly shown. <span
-id="fr_8"></span>[9-1](#fn_8) To constitute that Greatest Man, there is
+id="fr_8"></span>[9-1](#fn_8.md) To constitute that Greatest Man, there is
 need of spirits from many earths, those who come from our earth into
 heaven not being sufficient for this purpose, being respectively few;
 and it is provided by the Lord, that whenever there is a deficiency in
@@ -182,7 +182,7 @@ from the earth which is nearest to the sun, and which in our earth is
 called by the name of the planet Mercury. Immediately on their coming,
 they sought from my memory what I knew. Spirits can do this most
 dexterously, for when they come to man, they see in his memory all
-things contained therein. <span id="fr_9"></span>[11-1](#fn_9) During
+things contained therein. <span id="fr_9"></span>[11-1](#fn_9.md) During
 their search for various things, and amongst others, for the cities and
 places where I had been, I observed that they did not wish to know
 anything of temples, palaces, houses, or streets, but only of those
@@ -212,7 +212,7 @@ a certainty, and believe in the life after death, are concerned about
 heavenly things, as being eternal and happy, but not about worldly
 things, only so far as the necessities of life require. Because the
 inhabitants of Mercury are such, therefore also the spirits who are from
-thence are of a like nature. <span id="fr_10"></span>[12-1](#fn_10)
+thence are of a like nature. <span id="fr_10"></span>[12-1](#fn_10.md)
 
 <span class="margnote"><span id="13.">13.</span></span>
 
@@ -224,7 +224,7 @@ passed hastily through them all, and continually saying that this and
 that were so and so. For when spirits come to man, they enter into all
 his memory, and excite thence whatever suits themselves: yea, what I
 have often observed, they read the things contained therein, as out of a
-book. <span id="fr_11"></span>[13-1](#fn_11) These spirits did this with
+book. <span id="fr_11"></span>[13-1](#fn_11.md) These spirits did this with
 greater dexterity and expedition, because they did not stop at such
 things as are heavy and sluggish, and which confine and consequently
 retard the internal sight, as all terrestrial and corporeal things do,
@@ -268,7 +268,7 @@ collect from them what they know, and then they depart; for such
 communication is granted amongst spirits and especially amongst angels,
 that when they are in a society, if they are accepted and loved, all
 things which they know are communicated. <span
-id="fr_12"></span>[15-1](#fn_12)
+id="fr_12"></span>[15-1](#fn_12.md)
 
 <span class="margnote"><span id="16.">16.</span></span>
 
@@ -354,7 +354,7 @@ left eye, although they were to the right. The reason was, because the
 left eye corresponds to the knowledges of things abstracted from what is
 material, consequently to such things as appertain to intelligence:
 whereas the right eye corresponds to such things as appertain to
-wisdom. <span id="fr_13"></span>[22-1](#fn_13) They likewise perceived
+wisdom. <span id="fr_13"></span>[22-1](#fn_13.md) They likewise perceived
 and judged of what they heard with the same promptitude with which they
 discoursed, saying of such a thing that it was so, and of such a thing
 that it was not so; their judgment was as it were instantaneous.
@@ -397,7 +397,7 @@ assembled together, they form as it were a globe. Thus they are joined
 together by the Lord, that they may act in unity, and that the
 knowledges of each may be communicated with all, and the knowledges of
 all with each, as is the case in heaven. <span
-id="fr_14"></span>[25-1](#fn_14) That they wander through the universe
+id="fr_14"></span>[25-1](#fn_14.md) That they wander through the universe
 to acquire the knowledges of things, appeared to me also from this, that
 once, when they appeared very far from me, they discoursed with me
 thence, and said, that they were then gathered together, and journeying
@@ -493,7 +493,7 @@ spirits and angels whatsoever, were once men for the human race is the
 seminary of heaven; also that the spirits are altogether such, as to
 affections and inclinations, as they were during their life in the world
 whilst men; for every one's life follows him. <span
-id="fr_15"></span>[30-1](#fn_15) This being the case, the genius of the
+id="fr_15"></span>[30-1](#fn_15.md) This being the case, the genius of the
 men of every earth may be known from the genius of the spirits who are
 thence.
 
@@ -529,12 +529,12 @@ may be represented to the life. When they saw the birds represented,
 they at first wished to change them, but afterwards they were delighted
 with them and were satisfied. The reason was, because birds signify the
 knowledges of things, and the perception of this then flowed in
-also. <span id="fr_16"></span>[33-1](#fn_16) Thus they desisted from
+also. <span id="fr_16"></span>[33-1](#fn_16.md) Thus they desisted from
 transmuting them, and thereby from averting the ideas of their memory.
 Afterwards it was allowed to represent before them a most pleasant
 garden full of lamps and lights; then they paused, and their attention
 was fixed, for the reason that lamps with lights signify truths which
-shine from good. <span id="fr_17"></span>[33-2](#fn_17) Hence it was
+shine from good. <span id="fr_17"></span>[33-2](#fn_17.md) Hence it was
 made manifest that their attention might be fixed in viewing things
 material, if only the signification of those things in the spiritual
 sense was insinuated at the same time; for the things of the spiritual
@@ -548,7 +548,7 @@ willing to hear of such things, because they were perceived by them as
 things terrestrial. The reason was, because they did not understand what
 innocence is, which lambs signify, as was perceivable from this, that
 when I told them that lambs, represented in heaven, signify innocence,
- <span id="fr_18"></span>[34-1](#fn_18) they immediately said that they
+ <span id="fr_18"></span>[34-1](#fn_18.md) they immediately said that they
 did not know what innocence was, but only knew it as to the name; and
 this was because they are affected only with knowledges, and not with
 uses, which are the ends of knowledges, consequently they cannot know
@@ -587,7 +587,7 @@ It is their custom not to declare to another what they know, but still
 they desire to learn from all others what is known to them. But with
 their own society they communicate all things, insomuch that what one
 knows all know, and what all know each one there knows. <span
-id="fr_19"></span>[36-1](#fn_19)
+id="fr_19"></span>[36-1](#fn_19.md)
 
 <span class="margnote"><span id="37.">37.</span></span>
 
@@ -757,7 +757,7 @@ spirits of our earth were of the number of those who in the world had
 made profession of faith agreeable to the doctrine of the church, but
 still had not lived the life of faith; and they who do not live the life
 of faith, in the other life have not faith, because it is not in the
-man. <span id="fr_20"></span>[39-1](#fn_20) On hearing this they were
+man. <span id="fr_20"></span>[39-1](#fn_20.md) On hearing this they were
 silent, inasmuch as, by apperception then given them, they acknowledged
 that it was so.
 
@@ -783,7 +783,7 @@ many in order, confessed that it was the Lord Himself. This confession
 they made before all the company. Then also the Lord, out of the sun,
 appeared to the spirits of the planet Jupiter, who declared aloud that
 it was He Himself whom they had seen on their earth when the God of the
-universe appeared to them. <span id="fr_21"></span>[40-1](#fn_21)
+universe appeared to them. <span id="fr_21"></span>[40-1](#fn_21.md)
 
 <span class="margnote"><span id="41.">41.</span></span>
 
@@ -791,7 +791,7 @@ Certain of them, after the Lord appeared, were led away towards the
 front to the right, and as they advanced, they said that they saw a
 light much clearer and purer than they had ever seen before, and that it
 was impossible any light could exceed it; and it was then evening here.
-There were many who said this. <span id="fr_22"></span>[41-1](#fn_22)
+There were many who said this. <span id="fr_22"></span>[41-1](#fn_22.md)
 
 <span class="margnote"><span id="42.">42.</span></span>
 
@@ -973,37 +973,37 @@ encompassing glittering and wandering stars; but all disagreements among
 them are soon adjusted. Glittering stars, which are at the same time
 wandering, signify what is false; but glittering and fixed stars signify
 what is true; thus the former signify disagreement. <span
-id="fr_23"></span>[50-1](#fn_23)
+id="fr_23"></span>[50-1](#fn_23.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[1-1](eiu01.htm#fr_0) There are no spirits and
+<span id="fn_0"></span>[1-1](eiu01.htm#fr_0.md) There are no spirits and
 angels who are not from the human race (n. 1880).
 
-<span id="fn_1"></span>[1-2](eiu01.htm#fr_1) The spirits of every earth
+<span id="fn_1"></span>[1-2](eiu01.htm#fr_1.md) The spirits of every earth
 are near to their own earth, because they are from the inhabitants of
 that earth, and of a similar genius; and they are serviceable to those
 inhabitants (n. 9968).
 
-<span id="fn_2"></span>[1-3](eiu01.htm#fr_2) The soul, which lives after
+<span id="fn_2"></span>[1-3](eiu01.htm#fr_2.md) The soul, which lives after
 death, is the spirit of man, which is the real man in him, and also
 appears in the other life in a perfect human form (n. 322, 1880 1881,
 3633, 4622, 4735, 6054, 6605, 6626, 7021, 10,594).
 
-<span id="fn_3"></span>[1-4](eiu01.htm#fr_3) Man, even when he is in the
+<span id="fn_3"></span>[1-4](eiu01.htm#fr_3.md) Man, even when he is in the
 world, as to his interiors, thus as to his spirit or soul, is in the
 midst of spirits and angels, of a quality such as he is himself (n.
 2379, 3645, 4067, 4073, 4077).
 
-<span id="fn_4"></span>[1-5](eiu01.htm#fr_4) Man can speak with spirits
+<span id="fn_4"></span>[1-5](eiu01.htm#fr_4.md) Man can speak with spirits
 and angels, and the ancients on our earth frequently spoke with them (n.
 67-69, 784, 1634, 1636, 7802). But at this day it is dangerous to speak
 with them, unless man is in true faith, and led by the Lord (n. 784,
 9438, 10, 751).
 
-<span id="fn_5"></span>[5-1](eiu01.htm#fr_5) Heaven corresponds to the
+<span id="fn_5"></span>[5-1](eiu01.htm#fr_5.md) Heaven corresponds to the
 Lord, and man as to each and all things corresponds to heaven, and hence
 heaven, before the Lord, is a man in a large effigy, and may be called
 the Greatest Man (n. 2996, 2998, 3624-3649, 3636-3643, 3741-3745, 4625)
@@ -1014,7 +1014,7 @@ him, with the Greatest Man, which is heaven, in general, from experience
 4931-4953, 5050-5061, 5171-5189, 5377-5396, 5552-5573, 5711-5727,
 10,030).
 
-<span id="fn_6"></span>[7-1](eiu01.htm#fr_6) The inhabitants of all the
+<span id="fn_6"></span>[7-1](eiu01.htm#fr_6.md) The inhabitants of all the
 earths adore the Divine under a human form, consequently the Lord (n.
 8541-8547, 10, 159, 10, 736-10, 738). And they rejoice when they hear
 that God actually became Man (n. 9361). It is impossible to think of God
@@ -1022,10 +1022,10 @@ except in a human form (n. 8705, 9359, 9972). Man can worship and love
 what he has some idea of, but not what he has no idea of (n. 4733, 5110,
 5633, 7211, 9267, 10067).
 
-<span id="fn_7"></span>[7-2](eiu01.htm#fr_7) The Lord receives all who
+<span id="fn_7"></span>[7-2](eiu01.htm#fr_7.md) The Lord receives all who
 are in good and who adore the Divine under a human form (n. 9359, 7173).
 
-<span id="fn_8"></span>[9-1](eiu01.htm#fr_8) Heaven corresponds to the
+<span id="fn_8"></span>[9-1](eiu01.htm#fr_8.md) Heaven corresponds to the
 Lord, and man as to each and all things corresponds to heaven, and hence
 heaven, before the Lord, is a man in a large effigy, and may be called
 the Greatest Man (n. 2996, 2998, 3624-3649, 3636-3643, 3741-3745, 4625)
@@ -1036,31 +1036,31 @@ him, with the Greatest Man, which is heaven, in general, from experience
 4931-4953, 5050-5061, 5171-5189, 5377-5396, 5552-5573, 5711-5727,
 10030).
 
-<span id="fn_9"></span>[11-1](eiu01.htm#fr_9) Spirits enter into all the
+<span id="fn_9"></span>[11-1](eiu01.htm#fr_9.md) Spirits enter into all the
 things of man's memory but not from their own memory into man's (n.
 2488, 5863, 6192, 6193, 6198, 6199, 6214). Angels enter into the
 affections and ends, from which and for the sake of which man thinks,
 wills, and acts in such and such a manner and not otherwise (n. 1317,
 1645, 5844).
 
-<span id="fn_10"></span>[12-1](eiu01.htm#fr_10) Spirits enter into all
+<span id="fn_10"></span>[12-1](eiu01.htm#fr_10.md) Spirits enter into all
 the things of man's memory but not from their own memory into man's (n.
 2488, 5863, 6192, 6193, 6198, 6199, 6214). Angels enter into the
 affections and ends, from which and for the sake of which man thinks,
 wills, and acts in such and such a manner and not otherwise (n. 1317,
 1645, 5844).
 
-<span id="fn_11"></span>[13-1](eiu01.htm#fr_11) That the spirits who are
+<span id="fn_11"></span>[13-1](eiu01.htm#fr_11.md) That the spirits who are
 with man, are in possession of all things appertaining to his memory
 (n.5853, 5857, 5859, 5860).
 
-<span id="fn_12"></span>[15-1](eiu01.htm#fr_12) That in the heavens
+<span id="fn_12"></span>[15-1](eiu01.htm#fr_12.md) That in the heavens
 there is given a communication of all goods, inasmuch as it is the
 property of heavenly love to communicate all its possessions with
 others; and that hence the angels derive wisdom and happiness (n. 549,
 550, 1390, 1391, 1399, 10,130, 10,723).
 
-<span id="fn_13"></span>[22-1](eiu01.htm#fr_13) The eye corresponds to
+<span id="fn_13"></span>[22-1](eiu01.htm#fr_13.md) The eye corresponds to
 the understanding, because the understanding is the internal sight, and
 the sight of things immaterial (n. 2701, 4410, 4526, 9051, 10,569). The
 sight of the left eye corresponds to truths, consequently to
@@ -1068,42 +1068,42 @@ intelligence; and the sight of the right eye corresponds to the goods of
 truth, consequently to wisdom (n. 4410). \* A more accurate translation
 would be "in a rolling fashion."
 
-<span id="fn_14"></span>[25-1](eiu01.htm#fr_14) That in the heavens
+<span id="fn_14"></span>[25-1](eiu01.htm#fr_14.md) That in the heavens
 there is given a communication of all goods, inasmuch as it is the
 property of heavenly love to communicate all its possessions with
 others; and that hence the angels derive wisdom and happiness (n. 549,
 550, 1390, 1391, 1399, 10,130, 10,723).
 
-<span id="fn_15"></span>[30-1](eiu01.htm#fr_15) Every one's life remains
+<span id="fn_15"></span>[30-1](eiu01.htm#fr_15.md) Every one's life remains
 with him and follows him after death (n. 4227, 7440). The externals of
 life are kept closed after death, and the internals opened (n. 4314,
 5128, 6495). Then all and each of the things of thought are made
 manifest (n. 4633, 5128).
 
-<span id="fn_16"></span>[33-1](eiu01.htm#fr_16) Birds signify things
+<span id="fn_16"></span>[33-1](eiu01.htm#fr_16.md) Birds signify things
 rational, intellectual, thoughts, ideas, and knowledges (n. 40, 745,
 776, 778, 866, 988, 993, 5149, 7441). And this with variety according to
 the genera and species of birds (n. 3219).
 
-<span id="fn_17"></span>[33-2](eiu01.htm#fr_17) Lamps with lights
+<span id="fn_17"></span>[33-2](eiu01.htm#fr_17.md) Lamps with lights
 signify truths shining from good (n. 4638, 9548, 9783).
 
-<span id="fn_18"></span>[34-1](eiu01.htm#fr_18) Lambs in heaven, and in
+<span id="fn_18"></span>[34-1](eiu01.htm#fr_18.md) Lambs in heaven, and in
 the Word, signify innocence (n. 3994, 7840, 10,132).
 
-<span id="fn_19"></span>[36-1](eiu01.htm#fr_19) That in the heavens
+<span id="fn_19"></span>[36-1](eiu01.htm#fr_19.md) That in the heavens
 there is given a communication of all goods, inasmuch as it is the
 property of heavenly love to communicate all its possessions with
 others; and that hence the angels derive wisdom and happiness (n. 549,
 550, 1390, 1391, 1399, 10,130, 10,723).
 
-<span id="fn_20"></span>[39-1](eiu01.htm#fr_20) They who make profession
+<span id="fn_20"></span>[39-1](eiu01.htm#fr_20.md) They who make profession
 of faith from doctrine and do not live the life of faith, have no faith
 (n. 3865, 7766, 7778, 7790, 7950, 8094). And their interiors are
 contrary to the truths of faith, although in the world they do not know
 this (n. 7790, 7950).
 
-<span id="fn_21"></span>[40-1](eiu01.htm#fr_21) The Lord is the sun of
+<span id="fn_21"></span>[40-1](eiu01.htm#fr_21.md) The Lord is the sun of
 heaven, from whom is all light there (n. 1053, 3636, 4060). And the Lord
 thus appears to those who are in His celestial kingdom, where love to
 Him reigns (n. 1521, 1529-1531, 1837, 4696). He appears at a middle
@@ -1114,7 +1114,7 @@ angels, but in the place thereof there appears somewhat as it were
 darkish, not in front, but behind and opposite to the sun of heaven, or
 to the Lord (n. 9755).
 
-<span id="fn_22"></span>[41-1](eiu01.htm#fr_22) There is in the heavens
+<span id="fn_22"></span>[41-1](eiu01.htm#fr_22.md) There is in the heavens
 great light, which exceeds, by many degrees, the noonday light of this
 world (n. 1117, 1521, 1533, 1619-1632. 4527, 5400, 8644). All light in
 the heavens is from the Lord as a sun there (n. 1053, 1521, 3195, 3341,
@@ -1126,11 +1126,11 @@ and the understanding of the angels (n. 2776, 3138). When heaven is said
 to be in light and heat, it signifies being in wisdom and in love (n.
 3643, 9399, 9401).
 
-<span id="fn_23"></span>[50-1](eiu01.htm#fr_23) Stars in the word
+<span id="fn_23"></span>[50-1](eiu01.htm#fr_23.md) Stars in the word
 signify the knowledges of good and truth, consequently truths (n. 2495,
 2849, 4697). And in the other life truths are represented by fixed
 stars, but falsities by wandering stars (n. 1128).
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](eiu02)
+[Next: 51-100](eiu02.md)

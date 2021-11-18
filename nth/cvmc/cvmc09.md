@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc08)  [Next](cvmc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc08)  [Next](cvmc10.md) 
 
 ------------------------------------------------------------------------
 
@@ -185,4 +185,4 @@ rubies.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. The Environment](cvmc10)
+[Next: VIII. The Environment](cvmc10.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut23)  [Next](hut25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut23)  [Next](hut25.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,11 +9,11 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # XXI.
 
-### Origin of the Jumping Dance. <span id="fr_57"></span>[1](#fn_57)
+### Origin of the Jumping Dance. <span id="fr_57"></span>[1](#fn_57.md)
 
 <span id="page_231">p. 231</span>
 
- <span id="fr_58"></span>[1](#fn_58)It was at TakimiLdiñ the Indian who
+ <span id="fr_58"></span>[1](#fn_58.md)It was at TakimiLdiñ the Indian who
 became Kīxûnai used to live. He liked dances. When it rained much he
 used to say, "Come, let's dance, I don't like heavy rains." He went over
 the world looking at dances. Finally he went around the world. Over here
@@ -57,12 +57,12 @@ TakimiLdiñ dance. He likes that.
 
 ### Footnotes
 
-<span id="fn_57"></span>[229:1](hut24.htm#fr_57) Told at Hupa, November
+<span id="fn_57"></span>[229:1](hut24.htm#fr_57.md) Told at Hupa, November
 1901, by McCann. This is apparently another form of the formula told by
 Senaxon which is given above. The narrator called it one of his choicest
 stories, but said nothing of its ceremonial use.
 
-<span id="fn_58"></span>[231:1](hut24.htm#fr_58) Compare Powers' version
+<span id="fn_58"></span>[231:1](hut24.htm#fr_58.md) Compare Powers' version
 in Contributions to North American Ethnology, Vol. iii, p. 80. The
 author feels like apologizing on behalf of himself and his Indian
 informants for the tameness of the form here given as compared with that
@@ -70,4 +70,4 @@ produced by Mr. Powers and the Indian Agent.
 
 ------------------------------------------------------------------------
 
-[Next: XXII. Formula of the Acorn Feast](hut25)
+[Next: XXII. Formula of the Acorn Feast](hut25.md)

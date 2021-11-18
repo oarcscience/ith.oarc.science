@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb14)  [Next](spb16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb14)  [Next](spb16.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -347,7 +347,7 @@ lovingkindnesses never cease, we have ever hoped in thee
 *On Chanukah say:—*
 
 <span class="small">We thank thee, etc., [p.
-63](spb05.htm#page_63).</span>
+63](spb05.htm#page_63.md).</span>
 
 For all these things thy name, O our King, shall be continually blessed
 and exalted for ever and ever
@@ -542,7 +542,7 @@ concerning thee. For the sake of the house of the Lord our God I would
 seek thy good. The Lord will give strength unto his people; the Lord
 will bless his people with peace.
 
-*Kiddush is said by the Reader, [p. 181](spb16.htm#page_181)*.
+*Kiddush is said by the Reader, [p. 181](spb16.htm#page_181.md)*.
 
 It is our duty to praise the Lord of all things, to ascribe greatness to
 him who formed the world in the beginning, since he hath not made us
@@ -704,6 +704,6 @@ of the fruit of her hands; and let her works praise her in the gates.
 
 ------------------------------------------------------------------------
 
-[Next: Kiddush for Sabbath Evening](spb16)
+[Next: Kiddush for Sabbath Evening](spb16.md)
 
 </div>

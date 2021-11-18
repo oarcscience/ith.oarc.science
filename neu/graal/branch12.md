@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch11) 
-[Next](branch13) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch11.md) 
+[Next](branch13.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -286,5 +286,5 @@ Therewithal they depart and commend them one another to God.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XIII](branch13)  
+XIII](branch13.md)  
 </span>

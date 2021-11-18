@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck03)  [Next](peck05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck03)  [Next](peck05.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ a wonder this flower is!
 
 ------------------------------------------------------------------------
 
-[Next: The First Gymea Or Gigantic Lily](peck05)
+[Next: The First Gymea Or Gigantic Lily](peck05.md)

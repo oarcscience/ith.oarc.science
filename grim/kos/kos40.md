@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos39)  [Next](kos41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos39)  [Next](kos41.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ perfection.
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Concerning the Baths, And How They Are To Be
-Arranged](kos41)
+Arranged](kos41.md)

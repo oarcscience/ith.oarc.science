@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](lifb31)  [Next](lifb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](lifb31)  [Next](lifb33.md) 
 
 </div>
 
@@ -182,6 +182,6 @@ From 'West Highland Tales.'
 
 ------------------------------------------------------------------------
 
-[Next: The Hoodie-Crow](lifb33)
+[Next: The Hoodie-Crow](lifb33.md)
 
 </div>

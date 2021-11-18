@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst083)  [Next](inst085) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst083)  [Next](inst085.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ better prepared for their duty, as I will shortly show at greater
 length. Accordingly, Jerome, in setting forth five orders in the Church,
 enumerates Bishops, Presbyters, Deacons, Believers, Catechumens: to the
 other Clergy and Monks he gives no proper place53  <span
-id="fr_542"></span>[543](#fn_542) (Hieron. in Jes. c. 9).
+id="fr_542"></span>[543](#fn_542) (Hieron. in Jes. c. 9.md).
 
 <span id="iv.iv.v-p21"></span>2. All, therefore, to whom the office of
 teaching was committed, they called presbyters, and in each city these
@@ -145,7 +145,7 @@ bishop. Each city, therefore, had a college of presbyters, consisting of
 pastors and teachers. For they all performed to the people that office
 of teaching, exhorting, and correcting, which Paul enjoins on bishops
 (<span id="iv.iv.v-p21.1"></span>[Tit.
-1:9](../../../bib/kjv/tit001.htm#009)<span id="iv.iv.v-p21.1"></span>);
+1:9](../../../bib/kjv/tit001.htm#009)<span id="iv.iv.v-p21.1"></span>.md);
 and that they might leave a seed behind them, they made it their
 business to train the younger men who had devoted themselves to the
 sacred warfare. To each city was assigned a certain district which took
@@ -178,13 +178,13 @@ he says, “The priest dies when no sound is heard from him: for he calls
 forth the wrath of the unseen Judge against him if he walks without the
 sound of preaching.” Elsewhere he says, “When Paul testifies that he is
 pure from the blood of all men (<span id="iv.iv.v-p22.1"></span>[Acts
-20:26](../../../bib/kjv/act020.htm#026)<span
+20:26](../../../bib/kjv/act020.htm#026.md)<span
 id="iv.iv.v-p22.1"></span>), by his words, we, who are called priests,
 are charged, are arraigned, are shown to be guilty, since to those sins
 which we have of our own we add the deaths of other men, for we commit
 murder as often as lukewarm and silent we see them daily going to
 destruction” (Gregor. Hom. in <span id="iv.iv.v-p22.2"></span>[Ezek.
-11:26](../../../bib/kjv/eze011.htm#026)<span id="iv.iv.v-p22.2"></span>
+11:26](../../../bib/kjv/eze011.htm#026.md)<span id="iv.iv.v-p22.2"></span>
 ). He calls himself and others silent when less assiduous in their work
 than they ought to be. Since he does not spare even those who did their
 duty partially, what think you would he do in the case of those who
@@ -203,7 +203,7 @@ reason for which these orders were instituted was, that if anything
 occurred in any church which could not well be explicated by a few, it
 might be referred to a provincial synod. If the magnitude or difficulty
 of the case demanded a larger discussion, patriarchs were employed along
-with synods,54  <span id="fr_543"></span>[544](#fn_543) and from them
+with synods,54  <span id="fr_543"></span>[544](#fn_543.md) and from them
 there was no appeal except to a General Council. To the government thus
 constituted some gave the name of Hierarchy—a name, in my opinion,
 improper, certainly one not used by Scripture. For the Holy Spirit
@@ -245,7 +245,7 @@ deacons, to assist them in the management of the poor; but the
 distinction was gradually lost. Archdeacons began to be appointed when
 the extent of the revenues demanded a new and more exact method of
 administration, though Jerome mentions that it already existed in his
-day.54  <span id="fr_544"></span>[545](#fn_544) To them belonged the
+day.54  <span id="fr_544"></span>[545](#fn_544.md) To them belonged the
 amount of revenues, possessions, and furniture, and the charge of the
 daily offerings. Hence Gregory declares to the Archdeacon Solitanus,
 that the blame rested with him, if any of the goods of the Church
@@ -291,13 +291,13 @@ of some, bad examples arose, canons were framed, to correct these evils,
 and divided the revenues of the Church into four parts, assigning one to
 the clergy, another to the poor, another to the repair of churches and
 other edifices, a fourth to the poor, whether54  <span
-id="fr_545"></span>[546](#fn_545) strangers or natives. For though other
+id="fr_545"></span>[546](#fn_545.md) strangers or natives. For though other
 canons attribute this last part to the bishop, it differs in no respect
 from the division which I have mentioned. For they do not mean that it
 is his property, which he may devour alone or squander in any way he
 pleases, but that it may enable him to use the hospitality which Paul
 requires in that order (<span id="iv.iv.v-p29.1"></span>[1 Tim.
-3:2](../../../bib/kjv/ti1003.htm#002)<span id="iv.iv.v-p29.1"></span>).
+3:2](../../../bib/kjv/ti1003.htm#002)<span id="iv.iv.v-p29.1"></span>.md).
 This is the interpretation of Gelasius and Gregory. For the only reason
 which Gelasius gives why the bishop should claim anything to himself is,
 that he may be able to bestow it on captives and strangers. Gregory
@@ -368,7 +368,7 @@ name had been given them, for this appellation had its origin in error,
 or at least improper feeling, since the whole church is by Peter
 denominated κληρος (*clerus*), that is, the inheritance of the Lord
 (<span id="iv.iv.v-p31.1"></span>[1 Pet.
-5:3](../../../bib/kjv/pe1005.htm#003)<span id="iv.iv.v-p31.1"></span>).
+5:3](../../../bib/kjv/pe1005.htm#003)<span id="iv.iv.v-p31.1"></span>.md).
 It was in itself, however, a most sacred and salutary institution, that
 those who wished to devote themselves and their labour to the Church
 should be brought up under the charge of the bishop; so that no one
@@ -384,12 +384,12 @@ and shutting of the church, and called them Ostiarii. Next, they gave
 the name of Acolytes to those who assisted the bishop in domestic
 services, and constantly attended him, first, as a mark of respect; and,
 secondly, that no suspicion might arise.54  <span
-id="fr_546"></span>[547](#fn_546) Moreover, that they might gradually
+id="fr_546"></span>[547](#fn_546.md) Moreover, that they might gradually
 become known to the people, and recommend themselves to them, and at the
 same time might learn to stand the gaze of all, and speak before all,
 that they might not, when appointed presbyters, be overcome with shame
 when they came forward to teach, the office of reading in the desk was
-given them.54  <span id="fr_547"></span>[548](#fn_547) In this way they
+given them.54  <span id="fr_547"></span>[548](#fn_547.md) In this way they
 were gradually advanced, that they might prove their carefulness in
 separate exercises, until they were appointed subdeacons. All I mean by
 this is, that these were rather the rudimentary exercises of tyros than
@@ -404,7 +404,7 @@ with the greatest reverence, and with earnest prayer to God. Moreover,
 they had a form of examination by which they tested the life and
 doctrine of those who were to be elected by the standard of Paul (<span
 id="iv.iv.v-p34.1"></span>[1 Tim.
-3:2](../../../bib/kjv/ti1003.htm#002)<span id="iv.iv.v-p34.1"></span>);
+3:2](../../../bib/kjv/ti1003.htm#002)<span id="iv.iv.v-p34.1"></span>.md);
 only here they sometimes erred from excessive strictness, by exacting
 more of a bishop than Paul requires, and especially, in process of time,
 by exacting celibacy: but in other respects their practice corresponded
@@ -417,7 +417,7 @@ Church, because, although done contrary to custom, it was not done
 without reason. He thus premises: “In ordaining clergy, dearest
 brethren, we are wont previously to consult you, and weigh the manners
 and merits of each by the common advice” (Cyprian. Lib. 2 Ep. 5). But as
-in these minor exercises54  <span id="fr_548"></span>[549](#fn_548)
+in these minor exercises54  <span id="fr_548"></span>[549](#fn_548.md)
 there was no great danger, inasmuch as they were appointed to a long
 probation and unimportant function, the consent of the people ceased to
 be asked. Afterwards, in other orders also, with the exception of the
@@ -465,7 +465,7 @@ id="iv.iv.v-p36.2"></span>). And Theodoret, after relating that Peter
 was the successor nominated by Athanasius, immediately adds, that the
 sacerdotal order ratified it, that the magistracy, chief men, and whole
 people, by their acclamation approved.54  <span
-id="fr_549"></span>[550](#fn_549)
+id="fr_549"></span>[550](#fn_549.md)
 
 <span id="iv.iv.v-p38"></span>12. It was, indeed, decreed (and I admit
 on the best grounds) by the Council of Laodicea (Can. 18) that the
@@ -597,7 +597,7 @@ having the power of ordaining.
 
 ### Footnotes
 
-<span id="fn_542"></span>[543](inst084.htm#fr_542) <span
+<span id="fn_542"></span>[543](inst084.htm#fr_542.md) <span
 id="iv.iv.v-p19.1"></span>
 
 <span id="iv.iv.v-p20"></span>39 539 “Pourtant Sainct Hierome apres
@@ -613,7 +613,7 @@ had presented themselves to be instructed in the Christian faith, and
 thereafter received baptism. Thus he attributes no certain place to the
 remainder of the Clergy or to the Monks.
 
-<span id="fn_543"></span>[544](inst084.htm#fr_543) <span
+<span id="fn_543"></span>[544](inst084.htm#fr_543.md) <span
 id="iv.iv.v-p23.1"></span>
 
 <span id="iv.iv.v-p24"></span>40 540 French, “La cognoissance venoit aux
@@ -621,13 +621,13 @@ patriarches, qui assemblerent le concile do tous les eveques respondant
 a leur primauté;”—the cognisance fell to the patriarchs, who assembled a
 council of all the bishops corresponding to their precedence.
 
-<span id="fn_544"></span>[545](inst084.htm#fr_544) <span
+<span id="fn_544"></span>[545](inst084.htm#fr_544.md) <span
 id="iv.iv.v-p25.1"></span>
 
 <span id="iv.iv.v-p26"></span>41 541 Hieronymus, Epist. ad Nepotianum.
 It is mentioned also by Chrysostom, Epist. ad Innocent.
 
-<span id="fn_545"></span>[546](inst084.htm#fr_545) <span
+<span id="fn_545"></span>[546](inst084.htm#fr_545.md) <span
 id="iv.iv.v-p28.1"></span>
 
 <span id="iv.iv.v-p29"></span>42 542 In the Amsterdam edition the words
@@ -635,27 +635,27 @@ are only “quartam vero advenis pauperibus.” The Geneva edition of 1559,
 the last published under Calvin’s own eye, has “quartam vero tam advenis
 quam indigenis pauperibus.” With this Tholuck agrees.
 
-<span id="fn_546"></span>[547](inst084.htm#fr_546) <span
+<span id="fn_546"></span>[547](inst084.htm#fr_546.md) <span
 id="iv.iv.v-p31.2"></span>
 
 <span id="iv.iv.v-p32"></span>43 543 The French adds, “Afin qu’il n’all’
 nulle part sans compagnie et sans temoin;”— in order that he might not
 go anywhere without company and without witness.
 
-<span id="fn_547"></span>[548](inst084.htm#fr_547) <span
+<span id="fn_547"></span>[548](inst084.htm#fr_547.md) <span
 id="iv.iv.v-p32.1"></span>
 
 <span id="iv.iv.v-p33"></span>44 544 French, “On leur ordonnoit de faire
 la lecture des Pseaumes au pulpitre;”—they ordered them to read the
 Psalms in the desk.
 
-<span id="fn_548"></span>[549](inst084.htm#fr_548) <span
+<span id="fn_548"></span>[549](inst084.htm#fr_548.md) <span
 id="iv.iv.v-p34.2"></span>
 
 <span id="iv.iv.v-p35"></span>45 545 The French adds, “Comme de Lecteurs
 et Acolytes;”—as Readers and Acolytes.
 
-<span id="fn_549"></span>[550](inst084.htm#fr_549) <span
+<span id="fn_549"></span>[550](inst084.htm#fr_549.md) <span
 id="iv.iv.v-p36.3"></span>
 
 <span id="iv.iv.v-p37"></span>46 546 The whole narrative in Theodoret is
@@ -664,4 +664,4 @@ most deserving of notice. Theodoret. Lib. 4 cap. 20.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 5. - THE ANCIENT FORM OF GOVERNMENT UTTERLY CORRUPTED BY
-THE TYRANNY OF THE PAPACY.](inst085)
+THE TYRANNY OF THE PAPACY.](inst085.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc42)  [Next](scc44) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc42)  [Next](scc44.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ feet, and threw her out. Then he burned the house and went off. He said:
 
 ------------------------------------------------------------------------
 
-[Next: III. Abstracts.](scc44)
+[Next: III. Abstracts.](scc44.md)

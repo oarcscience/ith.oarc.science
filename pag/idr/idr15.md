@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr14) 
-[Next](idr16) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr14.md) 
+[Next](idr16.md) 
 
 ------------------------------------------------------------------------
 
@@ -184,4 +184,4 @@ IRISH DRUIDS.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](idr16)
+[Next: Introduction](idr16.md)

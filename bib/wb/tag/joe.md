@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](hos)  [Next](amo) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](hos)  [Next](amo.md) 
 
 ------------------------------------------------------------------------
 
@@ -327,4 +327,4 @@ hindi ko nilinis: sapagka't ang Panginoon ay tumatahan sa Sion.
 
 ------------------------------------------------------------------------
 
-[Next: Amos](amo)
+[Next: Amos](amo.md)

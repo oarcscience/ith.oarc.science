@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index)  [Index](index) 
-[Previous](jch00)  [Next](jch02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index)  [Index](index.md) 
+[Previous](jch00)  [Next](jch02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/uni_t.jpg)](index)  
+[![](../img/uni_t.jpg)](index.md)  
 *Jesus Christ heals*, by Charles Fillmore, \[1939\], at Intangible
 Textual Heritage
 
@@ -112,4 +112,4 @@ ages and generations and now revealed in Jesus Christ.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](jch02)
+[Next: Contents](jch02.md)

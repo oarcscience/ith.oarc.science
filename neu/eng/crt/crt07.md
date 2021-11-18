@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt06)  [Next](crt08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt06)  [Next](crt08.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_02600"></span>
 
 [![Sir Lionel of Britain](tn/02600.jpg)  
-Click to enlarge](img/02600.jpg)  
+Click to enlarge](img/02600.jpg.md)  
 Sir Lionel of Britain  
 
 <span id="page_27">p. 27</span>
@@ -351,4 +351,4 @@ greatest knight in all the world, unless it be Sir Launcelot."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Third](crt08)
+[Next: Chapter Third](crt08.md)

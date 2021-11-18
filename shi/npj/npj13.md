@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj12) 
-[Next](npj14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj12.md) 
+[Next](npj14.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ Past the creek of Awata, to Matsusaka,
 To the shore of Shinomiya I travel.  
 Down the road to the barrier of Osaka walking behind pack-ponies,  
 How long shall I serve in sadness these hucksters of gold?  
-Here where once the blind harper <span id="fr_47"></span>[1](#fn_47) lay
+Here where once the blind harper <span id="fr_47"></span>[1](#fn_47.md) lay
 sorrowing  
 On a cottage-bed, far away from the City,  
 Thinking perhaps some such thoughts as I do now.  
@@ -107,7 +107,7 @@ I think it is about me that this messenger is speaking. I must not
 
 <span id="img_07000"></span>
 
-![YOUNG MAN'S MASK](img/07000.jpg)  
+![YOUNG MAN'S MASK](img/07000.jpg.md)  
 YOUNG MAN'S MASK
 
  
@@ -115,7 +115,7 @@ YOUNG MAN'S MASK
 <span id="page_71">p. 71</span>
 
 let him know me. I will cut my hair and wear an *eboshi*, <span
-id="fr_48"></span>[1](#fn_48) so that people may think I am an Eastern
+id="fr_48"></span>[1](#fn_48.md) so that people may think I am an Eastern
 boy.
 
 (*He goes to the curtain which separates the green-room from the
@@ -182,7 +182,7 @@ HATMAKER.
 
 My grandfather lived at Karasu-maru in the Third Ward.  
 It was the time when Hachimantarō Yoshi-iye, having routed <span
-id="fr_49"></span>[1](#fn_49) the brothers Sadatō and Munetō,  
+id="fr_49"></span>[1](#fn_49.md) the brothers Sadatō and Munetō,  
 Came home in triumph to the Capital.  
 And when he was summoned to the Emperor's Palace, he went first to my
 grandfather and ordered from him  
@@ -207,13 +207,13 @@ On that day forget not the gift you owe!
 But alas!  
 These things were, but shall not be again.  
 The time of the left-folded *eboshi* was long ago:  
-When the houses of Gen and Hei <span id="fr_50"></span>[2](#fn_50) were
+When the houses of Gen and Hei <span id="fr_50"></span>[2](#fn_50.md) were
 in their pride,  
 like the plum-tree and cherry-tree among flowers,  
 Like Spring and Autumn among the four seasons.  
 Then, as snow that would outsparkle the moonlight,  
 Gen strove with Hei; and after the years of Hōgen, <span
-id="fr_51"></span>[3](#fn_51) <span id="page_73">p. 73</span>  
+id="fr_51"></span>[3](#fn_51.md) <span id="page_73">p. 73</span>  
 The house of Hei prevailed and the whole land was theirs.  
 So is it now.  
 But retribution shall come; time shall bring  
@@ -277,7 +277,7 @@ am the sister of Kamada Masakiyo who fell at the Battle of Utsumi in the
 country of Noma. At the time when Tokiwa bore Ushiwaka, her third son,
 the lord her husband sent her this weapon as a charm-sword, and I was
 the messenger whom he charged to carry it. Oh were he in the world
-again; <span id="fr_52"></span>[1](#fn_52) then would our eyes no longer
+again; <span id="fr_52"></span>[1](#fn_52.md) then would our eyes no longer
 behold such misery. Oh sorrow, sorrow!
 
 HATMAKER.
@@ -320,7 +320,7 @@ Ushiwaka, the nursling of Kurama Temple.
 USHIWAKA.
 
 I am no other. (*To the* WIFE.) And you, perhaps, are some kinswoman of
-Masakiyo? <span id="fr_53"></span>[1](#fn_53)
+Masakiyo? <span id="fr_53"></span>[1](#fn_53.md)
 
 WIFE.
 
@@ -369,7 +369,7 @@ CHORUS.
 
 So he spoke and pressed the sword into the young lord's hands. And the
 boy could not any longer refuse, but taking it said, "If ever I come
-into the World <span id="fr_54"></span>[1](#fn_54) again, I will not
+into the World <span id="fr_54"></span>[1](#fn_54.md) again, I will not
 forget." And so saying he turned and went on his way m company with the
 merchants his masters. On they went till at last, weary with travel,
 they came to the Inn of Akasaka in the country of Mino.
@@ -436,7 +436,7 @@ cried, "to show the world those arts of war that for many months and
 years upon the Mountain of Kurama I have rehearsed."
 
 Then he opened the double-doors and waited there for the slow incoming
-of the white waves. <span id="fr_55"></span>[1](#fn_55)
+of the white waves. <span id="fr_55"></span>[1](#fn_55.md)
 
 BRIGANDS.
 
@@ -471,7 +471,7 @@ Kichiji and his brother. Who else is there?
 
 BRIGAND.
 
-By the light of a rocket <span id="fr_56"></span>[1](#fn_56) I saw a lad
+By the light of a rocket <span id="fr_56"></span>[1](#fn_56.md) I saw a lad
 of twelve or thirteen years slashing about him with a short-sword; and
 he was nimble as a butterfly or bird.
 
@@ -481,7 +481,7 @@ And the brothers Surihari?
 
 BRIGAND.
 
-Stood foster-fathers <span id="fr_57"></span>[1](#fn_56) to the
+Stood foster-fathers <span id="fr_57"></span>[1](#fn_56.md) to the
 fire-throwers and were the first to enter.
 
 But soon there meets them this child I tell of and with a blow at each
@@ -501,7 +501,7 @@ KUMASAKA.
 
 Ha! It is not the first time that lout has played me false.
 
-How fared the torch-diviners? <span id="fr_58"></span>[1](#fn_56)
+How fared the torch-diviners? <span id="fr_58"></span>[1](#fn_56.md)
 
 BRIGAND.
 
@@ -547,14 +547,14 @@ war-cry, leapt to the assault.
 (*Speaking for* USHIWAKA.)
 
 "Hoho! What a to-do! Himself has come, undaunted by the fate of those he
-sent before him. Now, Hachiman, <span id="fr_59"></span>[1](#fn_57) look
+sent before him. Now, Hachiman, <span id="fr_59"></span>[1](#fn_57.md) look
 clown upon me, for no other help is here." So he prayed, and stood
 waiting at the gap.
 
 (*Speaking for* KUMASAKA.)
 
 "Sixty-three years has Kumasaka lived, and to-day shall make his last
-night-assault." <span id="fr_60"></span>[2](#fn_58) So he spoke and
+night-assault." <span id="fr_60"></span>[2](#fn_58.md) So he spoke and
 kicking off his iron-shoes in a twinkling he levelled his great
 battle-sword that measured five foot three, and as he leapt forward like
 a great bird pouncing on his prey, no god or demon had dared encounter
@@ -578,7 +578,7 @@ Now fire dances at the sword-points;
 Now the sword-backs clash.
 
 At last even the great battle-sword has spent its art. Parried by the
-little belt-sword of Zōshi, <span id="fr_61"></span>[1](#fn_59) it has
+little belt-sword of Zōshi, <span id="fr_61"></span>[1](#fn_59.md) it has
 become no more than a guard-sword.
 
 (*Speaking for* KUMASAKA.)
@@ -597,39 +597,39 @@ Lay cloven in twain.
 
 ### Footnotes
 
-<span id="fn_47"></span>[70:1](npj13.htm#fr_47) Semimaru.
+<span id="fn_47"></span>[70:1](npj13.htm#fr_47.md) Semimaru.
 
-<span id="fn_48"></span>[71:1](npj13.htm#fr_48) A tall, nodding hat.
+<span id="fn_48"></span>[71:1](npj13.htm#fr_48.md) A tall, nodding hat.
 
-<span id="fn_49"></span>[72:1](npj13.htm#fr_49) 1064 A. D.
+<span id="fn_49"></span>[72:1](npj13.htm#fr_49.md) 1064 A. D.
 
-<span id="fn_50"></span>[72:2](npj13.htm#fr_50) I.e. Minamoto and Taira.
+<span id="fn_50"></span>[72:2](npj13.htm#fr_50.md) I.e. Minamoto and Taira.
 
-<span id="fn_51"></span>[72:3](npj13.htm#fr_51) 1156-1159 A.D.
+<span id="fn_51"></span>[72:3](npj13.htm#fr_51.md) 1156-1159 A.D.
 
-<span id="fn_52"></span>[74:1](npj13.htm#fr_52) Yoshi-iye.
+<span id="fn_52"></span>[74:1](npj13.htm#fr_52.md) Yoshi-iye.
 
-<span id="fn_53"></span>[75:1](npj13.htm#fr_53) Ushiwaka had not heard
+<span id="fn_53"></span>[75:1](npj13.htm#fr_53.md) Ushiwaka had not heard
 this conversation between the hatmaker and his wife, which takes place
 as an "aside."
 
-<span id="fn_54"></span>[76:1](npj13.htm#fr_54) I.e. into power.
+<span id="fn_54"></span>[76:1](npj13.htm#fr_54.md) I.e. into power.
 
-<span id="fn_55"></span>[77:1](npj13.htm#fr_55) I.e. robbers. A band of
+<span id="fn_55"></span>[77:1](npj13.htm#fr_55.md) I.e. robbers. A band of
 brigands who troubled China in 184 A. D. were known as the White Waves,
 and the phrase was later applied to robbers in general.
 
-<span id="fn_56"></span>[78:1](npj13.htm#fr_58) Torches were thrown
+<span id="fn_56"></span>[78:1](npj13.htm#fr_58.md) Torches were thrown
 among the enemy to discover their number and defences.
 
-<span id="fn_57"></span>[79:1](npj13.htm#fr_59) God of War and clan-god
+<span id="fn_57"></span>[79:1](npj13.htm#fr_59.md) God of War and clan-god
 of the Minamotos.
 
-<span id="fn_58"></span>[79:2](npj13.htm#fr_60) He feels that he is too
+<span id="fn_58"></span>[79:2](npj13.htm#fr_60.md) He feels that he is too
 old for the work.
 
-<span id="fn_59"></span>[80:1](npj13.htm#fr_61) I.e. Ushiwaka.
+<span id="fn_59"></span>[80:1](npj13.htm#fr_61.md) I.e. Ushiwaka.
 
 ------------------------------------------------------------------------
 
-[Next: Benkei on the Bridge](npj14)
+[Next: Benkei on the Bridge](npj14.md)

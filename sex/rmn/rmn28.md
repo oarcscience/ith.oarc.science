@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn27)  [Next](rmn29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn27)  [Next](rmn29.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ lightning conductors.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XXVIII: Votive Phalli](rmn29)
+[Next: Plate XXVIII: Votive Phalli](rmn29.md)

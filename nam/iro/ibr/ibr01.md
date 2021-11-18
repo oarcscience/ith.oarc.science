@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr00)  [Next](ibr02) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr00)  [Next](ibr02.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ value.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Huron-Iroquois Nations](ibr02)
+[Next: Chapter I: The Huron-Iroquois Nations](ibr02.md)

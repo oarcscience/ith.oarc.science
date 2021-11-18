@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly55)  [Next](lly57) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly55)  [Next](lly57.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ used, and pots running into the hundreds of dollars are not uncommon.
 
 ------------------------------------------------------------------------
 
-[Next: Medicine Men](lly57)
+[Next: Medicine Men](lly57.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192838857/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192838857/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192838857/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](tna00)
+[Contents](#contents)    [Start Reading](tna00.md)
 
 ------------------------------------------------------------------------
 
@@ -32,12 +32,12 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0192838857/internetsacredte)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 Sir Francis Bacon, inventor of the scientific method, and putative
-author of [Shakespeare's plays](../../sks/index), wrote this utopian
+author of [Shakespeare's plays](../../sks/index.md), wrote this utopian
 voyage as a proposal for a society based on scientific inquiry and
 research.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](tna00)  
-[Introductory Note](tna01)  
-[The New Atlantis](tna02)  
+<span id="contents"></span> [Title Page](tna00.md)  
+[Introductory Note](tna01.md)  
+[The New Atlantis](tna02.md)  

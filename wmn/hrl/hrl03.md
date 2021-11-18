@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](hrl02)  [Next](hrl04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](hrl02)  [Next](hrl04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -599,4 +599,4 @@ joyous sense of recovered freedom, successfully followed our leader.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. Our Venture](hrl04)
+[Next: Chapter 4. Our Venture](hrl04.md)

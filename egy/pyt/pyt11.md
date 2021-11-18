@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt10)  [Next](pyt12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt10)  [Next](pyt12.md) 
 
 ------------------------------------------------------------------------
 
@@ -169,4 +169,4 @@ causes N. to approach to Rē‘.
 ------------------------------------------------------------------------
 
 [Next: 9. Means Whereby the Deceased King Reaches Heaven, Utterances
-263-271](pyt12)
+263-271](pyt12.md)

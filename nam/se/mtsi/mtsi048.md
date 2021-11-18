@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi047)  [Next](mtsi049) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi047)  [Next](mtsi049.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ anything, and if an animal or man lies still it can get it.
 
 ------------------------------------------------------------------------
 
-[Next: 47. Rabbit Gets a Turkey For Wildcat](mtsi049)
+[Next: 47. Rabbit Gets a Turkey For Wildcat](mtsi049.md)

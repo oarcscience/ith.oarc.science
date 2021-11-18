@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm14)  [Next](tsm16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm14)  [Next](tsm16.md) 
 
 ------------------------------------------------------------------------
 
@@ -375,4 +375,4 @@ night.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Maid-of-the-Wave](tsm16)
+[Next: Chapter XIII. The Maid-of-the-Wave](tsm16.md)

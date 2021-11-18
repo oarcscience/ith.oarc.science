@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc037) 
-[Next](motc039) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc037.md) 
+[Next](motc039.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ then he gobbles whenever he hears a noise.
 
 ------------------------------------------------------------------------
 
-[Next: 39. How The Kingfisher Got His Bill](motc039)
+[Next: 39. How The Kingfisher Got His Bill](motc039.md)

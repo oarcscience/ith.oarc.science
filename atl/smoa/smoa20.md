@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa19)  [Next](smoa21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa19)  [Next](smoa21.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -180,7 +180,7 @@ three seconds had they stood upon the planet when the "fight" was done.
 
 I tell the story in all truth as it was told to me: A general of that
 age when Thought did rule, so planned and taught that from a solitary
-point of Earth—this very land, <span id="fr_14"></span>[\*](#fn_14) ye
+point of Earth—this very land, <span id="fr_14"></span>[\*](#fn_14.md) ye
 speak, those warriors, men, were sent long ages since.
 
 And yet ye speak: "In old barbaric days!"
@@ -200,9 +200,9 @@ is but the mist which sun drinks.
 
 ### Footnotes
 
-<span id="fn_14"></span>[134:\*](smoa20.htm#fr_14) America.
+<span id="fn_14"></span>[134:\*](smoa20.htm#fr_14.md) America.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XIX. The great sea-fight of Atlantis. Setting out of the
-Northmen for plunder](smoa21)
+Northmen for plunder](smoa21.md)

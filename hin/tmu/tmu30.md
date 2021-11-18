@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu29)  [Next](tmu31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu29)  [Next](tmu31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_243">p. 243</span>
 
-### MAṆDALABRĀHMAṆA-UPANISHAḌ <span id="fr_225"></span>[1](#fn_210)
+### MAṆDALABRĀHMAṆA-UPANISHAḌ <span id="fr_225"></span>[1](#fn_210.md)
 
 ### OF
 
@@ -42,7 +42,7 @@ objects)—all these come under (or are) yama. Devotion to one's guru,
 love of the true path, enjoyment of objects producing happiness,
 internal satisfaction, freedom from association, living in a retired
 place, the controlling of the manas and the not longing after the fruits
-of actions and a state of vairāgya—all these [constitute](errata.htm#17)
+of actions and a state of vairāgya—all these [constitute](errata.htm#17.md)
 niyama. The sitting in any posture pleasant to one and clothed in
 tatters (or bark) is prescribed for āsana (posture). Inspiration,
 restraint of breath and expiration, which have respectively 16, 64 and
@@ -64,11 +64,11 @@ of saṅkalpa, forgiveness, moderate food, carefulness, and a spiritual
 sight of ṭaṭṭvas. In order to cross the ocean of samsāra where sleep and
 fear are the serpents, injury, etc., are the waves, ṭṛshṇā (thirst) is
 the whirlpool, and wife is the mire, one should adhere to the subtle
-path and overstepping ṭaṭṭva <span id="fr_226"></span>[1](#fn_211) and
+path and overstepping ṭaṭṭva <span id="fr_226"></span>[1](#fn_211.md) and
 other guṇas should look out for Ṭāraka. <span
-id="fr_227"></span>[2](#fn_212) Ṭāraka is Brahman which being in the
+id="fr_227"></span>[2](#fn_212.md) Ṭāraka is Brahman which being in the
 middle of the two eyebrows, is of the nature of the spiritual
-[effulgence](errata.htm#18) of Sachchiḍānanḍa. The (spiritual) seeing
+[effulgence](errata.htm#18) of Sachchiḍānanḍa. The (spiritual.md) seeing
 through the three lakshyas (or the three kinds of introvision) is the
 means to It (Brahman). Sushumnā which is from the mūlāḍhāra to
 brahmaranḍhra has the radiance of the sun. In the centre of it, is
@@ -77,7 +77,7 @@ the lotus-stalk. Ṭamas is destroyed there. Through seeing it, all sins
 are destroyed. When the two ears are closed by the tips of the
 forefingers, a phūṭkāra (or booming) sound is heard. When the mind is
 fixed on it, it sees a blue light between the eyes as also in the heart.
-(This is anṭarlakshya or internal [introvision](errata.htm#19)). In the
+(This is anṭarlakshya or internal [introvision](errata.htm#19).md). In the
 bahirlakshya (or external introvision) one sees in order before his nose
 at distance of 4, 6, 8, 10, and 12 digits, the space of blue colour,
 then a colour resembling śyāma (indigo-black) and then shining as rakṭa
@@ -112,7 +112,7 @@ should be performed through manas. Anṭarḍṛshti (internal vision)
 associated with manas comes to aid ṭāraka. Ṭejas (spiritual light)
 appears in the hole between the two eyebrows. This ṭāraka is the earlier
 one. The later is amanaska. The great jyoṭis (light) <span
-id="fr_228"></span>[1](#fn_213) is above the root of the palate. By
+id="fr_228"></span>[1](#fn_213.md) is above the root of the palate. By
 seeing it, one gets the siḍḍhis aṇimā, etc. Śāmbhavīmuḍrā occurs when
 the lakshya (spiritual vision) is internal while the (physical) eyes are
 seeing externally without winking. This is the great science which is
@@ -125,7 +125,7 @@ the nature of Jalajyoṭis (or waterjyotis). It is known by the great
 Ṛshis and is invisible both to the internal and external senses.
 
 "Sahasrāra (*viz*., the thousand-petalled lotus of the pineal gland)
-Jalajyoṭis <span id="fr_229"></span>[1](#fn_214) is the anṭarlakshya.
+Jalajyoṭis <span id="fr_229"></span>[1](#fn_214.md) is the anṭarlakshya.
 Some say the form of Purusha in the cave of buḍḍhi beautiful in all its
 parts is anṭarlakshya. Some again say that the all-quiescent Nīlakaṇtha
 accompanied by Umā (his wife) and having five mouths and latent in the
@@ -162,7 +162,7 @@ Kara. Above it (*viz*., the sphere of agni) is the sphere of the sun; in
 its midst is the sphere of the nectary moon; in its midst is the sphere
 of the partless Brahma-ṭejas (or the spiritual effulgence of Brahman).
 It has the brightness of Śukla (white light) <span
-id="fr_230"></span>[1](#fn_215) like the ray of lightning. It alone has
+id="fr_230"></span>[1](#fn_215.md) like the ray of lightning. It alone has
 the characteristic of Śāmbhavī. In seeing this, there are three kinds of
 ḍṛshti (sight), *viz*., amā (the new moon), praṭipaṭ (the first day of
 lunar fortnight), and pūrṇimā (the full moon). The sight of amā is the
@@ -177,7 +177,7 @@ place. She (Śāmbhavī) alone is called Khecharī. By practising it
 (*viz*., the muḍrā), a man obtains firmness of mind. Through it, he
 obtains firmness of vāyu. The following are the signs: first it is seen
 like a star; then a reflecting (or dazzling) diamond; <span
-id="fr_231"></span>[2](#fn_216) then the sphere of full moon; then the
+id="fr_231"></span>[2](#fn_216.md) then the sphere of full moon; then the
 sphere of the brightness of nine gems; then the sphere of the midday
 sun; then the sphere of the flame of agni (fire); all these are seen in
 order.
@@ -188,7 +188,7 @@ lustres of crystal, smoke, binḍu, nāḍa, kalā, star, firefly, lamp, eye,
 gold, and nine gems, etc. are seen. This alone is the form of Praṇava.
 Having united Prāṇa and Apāna and holding the breath in kumbhaka, one
 should fix his concentration at the tip of his nose and making
-shaṇmukhi <span id="fr_232"></span>[3](#fn_217) with the fingers of both
+shaṇmukhi <span id="fr_232"></span>[3](#fn_217.md) with the fingers of both
 his hands, one hears
 
 <span id="page_248">p. 248</span>
@@ -205,7 +205,7 @@ unmanī (the state above manas). Through the state of unmanī, he becomes
 amanaska (or without manas).
 
 "Not being troubled by any thoughts (of the world) then constitutes the
-ḍhyāna. <span id="fr_233"></span>[1](#fn_218) The abandoning of all
+ḍhyāna. <span id="fr_233"></span>[1](#fn_218.md) The abandoning of all
 karmas constitutes āvāhana (invocation of god). Being firm in the
 unshaken (spiritual) wisdom constitutes āsana (posture). Being in the
 state of unmanī constitutes the pāḍya (offering of water for washing the
@@ -220,7 +220,7 @@ worshipping with) flower. The real state of agni (fire) of Chiṭ is the
 ḍhūpa (burning of incense). The state of the sun of Chiṭ is the ḍīpa
 (light waved before the image). The union of oneself with the nectar of
 full moon is the naivēḍya (offering of food, etc.). <span
-id="fr_234"></span>[2](#fn_219) The immobility in that state (of the ego
+id="fr_234"></span>[2](#fn_219.md) The immobility in that state (of the ego
 being one with all) is praḍakshiṇa (going round the image). The
 conception of 'I am He' is namaskāra (prostration). The silence (then)
 is the sṭuṭi (praise). The all-contentment (or serenity then) is the
@@ -230,7 +230,7 @@ visarjana (giving leave to god or finishing worship). (This is
 
 the worship of Āṭmā by all Raja-yogins). He who knows this knows all.
 
-"When the ṭriputi <span id="fr_235"></span>[1](#fn_220) are thus
+"When the ṭriputi <span id="fr_235"></span>[1](#fn_220.md) are thus
 dispelled, he becomes the kaivalya jyoṭis without bhāva (existence) or
 abhāva (nonexistence), full and motionless, like the ocean without the
 tides or like the lamp without the wind. He becomes a brahmaviṭ (knower
@@ -254,7 +254,7 @@ again and again in all states jñāna (wisdom) and jñeya (object of
 wisdom), ḍhyāna (meditation) and ḍhyeya (object of meditation), lakshya
 (the aim) and alakshya (non-aim), ḍṛśya (the visible) and aḍṛśya (the
 non-visible and ūha (reasoning) and apoha (negative reasoning). <span
-id="fr_236"></span>[2](#fn_221) He who knows this knows all.
+id="fr_236"></span>[2](#fn_221.md) He who knows this knows all.
 
 "There are five avasṭhās (states), *viz*.: jāgraṭ (waking), svapna
 (dreaming), sushupṭi (dreamless sleeping), the ṭurya (fourth) and
@@ -354,7 +354,7 @@ collective merits gathered in all his previous lives and thinking always
 'I am Brahman,' becomes one that has done his duty. 'I am thou alone.
 There is no difference between thee and me owing to the fullness of
 Paramāṭmā.' Saying thus, he (the Purusha of the sun) embraced his
-pupil <span id="fr_237"></span>[1](#fn_222) and made him understand it.
+pupil <span id="fr_237"></span>[1](#fn_222.md) and made him understand it.
 
 "Thus ends the third Brāhmaṇa."
 
@@ -409,69 +409,69 @@ is the Upanishaḍ. Thus ends the fifth Brāhmaṇa."
 
 ### Footnotes
 
-<span id="fn_210"></span>[243:1](tmu30.htm#fr_225) Maṇdala means sphere.
+<span id="fn_210"></span>[243:1](tmu30.htm#fr_225.md) Maṇdala means sphere.
 As the Purusha in the maṇdala or sphere of the sun gives out this
 Upanishaḍ to Yājñavalkya, hence it is called Maṇdala-Brāhmaṇa. It is
 very mystic. There is a book called *Rājayoga Bhāshya* which is a
 commentary thereon; in the light of it which is by some attributed to
 Śri Saṅkarāchārya, notes are given herein.
 
-<span id="fn_211"></span>[244:1](tmu30.htm#fr_226) Comm.: Rising above
+<span id="fn_211"></span>[244:1](tmu30.htm#fr_226.md) Comm.: Rising above
 the seven Prāṇas, one should with introvision cognise in the region of
 Ākās, Ṭamas and should then make Ṭamas get into Rajas, Rajas into
 Saṭṭva, Saṭṭva into Nārāyaṇa and Nārāyaṇa, into the Supreme One.
 
-<span id="fn_212"></span>[244:2](tmu30.htm#fr_227) Ṭāraka is from tr.,
+<span id="fn_212"></span>[244:2](tmu30.htm#fr_227.md) Ṭāraka is from tr.,
 to cross, as it enables one to cross samsāra. The higher vision is here
 said to take place in a centre between the eyebrows—probably in the
 brain.
 
-<span id="fn_213"></span>[245:1](tmu30.htm#fr_228) The commentator puts
+<span id="fn_213"></span>[245:1](tmu30.htm#fr_228.md) The commentator puts
 it as 12 digits above the root of the palate—perhaps the Ḍvāḍasānṭa or
 twelfth centre corresponding to the pituitary body.
 
-<span id="fn_214"></span>[246:1](tmu30.htm#fr_229) The commentator to
+<span id="fn_214"></span>[246:1](tmu30.htm#fr_229.md) The commentator to
 support the above that anṭarlakshya, *viz*., Brahman is jala- or
 water-jyoṭis quotes the Prāṇāyāma-Gāyaṭrī which says: "Om
 Āpojyoṭī-raso’amṛṭam-Brahma, etc."—Apo-jyoṭis or water-jyoṭis is
 Brahman.
 
-<span id="fn_215"></span>[247:1](tmu30.htm#fr_230) Comm.: Śukla is
+<span id="fn_215"></span>[247:1](tmu30.htm#fr_230.md) Comm.: Śukla is
 Brahman.
 
-<span id="fn_216"></span>[247:2](tmu30.htm#fr_231) The original is,
+<span id="fn_216"></span>[247:2](tmu30.htm#fr_231.md) The original is,
 'Vajra-Ḍarpaṇam.'
 
-<span id="fn_217"></span>[247:3](tmu30.htm#fr_232) Shaṇmukhi is said to
+<span id="fn_217"></span>[247:3](tmu30.htm#fr_232.md) Shaṇmukhi is said to
 be the process of hearing the internal sound by closing the two ears
 with the two thumbs, the two eyes with the two forefingers, the two
 nostrils with the two middle fingers, and the mouth with the remaining
 two fingers of both hands.
 
-<span id="fn_218"></span>[248:1](tmu30.htm#fr_233) In this paragraph,
+<span id="fn_218"></span>[248:1](tmu30.htm#fr_233.md) In this paragraph,
 the higher or secret meaning is given of all actions done in the pūjā or
 worship of God in the Hinḍū houses as well as temples. Regarding the
 clothing of the idol which is left out here, the commentator explains it
 as āvaraṇa or screen.
 
-<span id="fn_219"></span>[248:2](tmu30.htm#fr_234) Here also the
+<span id="fn_219"></span>[248:2](tmu30.htm#fr_234.md) Here also the
 commentator brings in nīrājana or the waving of the light before the
 image. That is according to him, the idea, "I am the self-shining."
 
-<span id="fn_220"></span>[249:1](tmu30.htm#fr_235) The Triputi are the
+<span id="fn_220"></span>[249:1](tmu30.htm#fr_235.md) The Triputi are the
 three, the knower, the known and the knowledge. Comm.: Ḍhyāna and others
 stated before wherein the three distinctions are made.
 
-<span id="fn_221"></span>[249:2](tmu30.htm#fr_236) Ūha and apoha—the
+<span id="fn_221"></span>[249:2](tmu30.htm#fr_236.md) Ūha and apoha—the
 consideration of the pros and cons.
 
-<span id="fn_222"></span>[252:1](tmu30.htm#fr_237) This is a reference
+<span id="fn_222"></span>[252:1](tmu30.htm#fr_237.md) This is a reference
 to the secret way of imparting higher truth.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 29. Nāḍabinḍu-Upanishaḍ of Ṛgveḍa](tmu31)
+[Next: 29. Nāḍabinḍu-Upanishaḍ of Ṛgveḍa](tmu31.md)
 
 </div>

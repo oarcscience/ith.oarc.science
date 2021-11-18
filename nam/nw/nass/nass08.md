@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass07)  [Next](nass09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass07)  [Next](nass09.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ escaping. For this reason the Deer are afraid of the Wolves.
 
 ------------------------------------------------------------------------
 
-[Next: The Stars](nass09)
+[Next: The Stars](nass09.md)

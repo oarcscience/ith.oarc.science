@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre09)  [Next](vre11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre09)  [Next](vre11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -130,7 +130,7 @@ and tell the wonders of redeeming love. I lost all
 
 <span class="small">taste for carnal pleasures, and carnal company, and
 was enabled to forsake them." <span
-id="fr_118"></span>[1](#fn_118)</span>
+id="fr_118"></span>[1](#fn_118.md)</span>
 
 Young Mr. Alline, after the briefest of delays, and with no
 book-learning but his Bible, and no teaching save that of his own
@@ -261,7 +261,7 @@ The most curious record of sudden conversion with which I am acquainted
 is that of M. Alphonse Ratisbonne, a free-thinking French Jew, to
 Catholicism, at Rome in 1842. In a letter to a clerical friend, written
 a few months later, the convert gives a palpitating account of the
-circumstances. <span id="fr_119"></span>[1](#fn_119) The predisposing
+circumstances. <span id="fr_119"></span>[1](#fn_119.md) The predisposing
 conditions appear to have been slight. He had an elder brother who had
 been converted and was a Catholic priest. He was himself irreligious,
 and nourished an antipathy to the apostate brother and generally to his
@@ -610,7 +610,7 @@ consciousness is based. You will find it set forth in many recent books,
 <span id="page_229">p. 229</span>
 
 <span class="contnote">\[paragraph continues\]</span> Binet's
-Alterations of Personality <span id="fr_120"></span>[1](#fn_120) being
+Alterations of Personality <span id="fr_120"></span>[1](#fn_120.md) being
 perhaps as good a one as any to recommend.
 
 The human material on which the demonstration has been made has so far
@@ -686,7 +686,7 @@ in subliminal regions which improvements in our methods may yet
 conceivably put on tap. There lies the mechanism logically to be
 assumed—but the assumption involves a vast program of work to be done in
 the way of verification, in which the religious experiences of man must
-play their part. <span id="fr_121"></span>[1](#fn_121)
+play their part. <span id="fr_121"></span>[1](#fn_121.md)
 
 <span id="page_232">p. 232</span>
 
@@ -732,7 +732,7 @@ methodistic growth, you will probably agree that no splendor worthy of a
 wholly supernatural creature fulgurates from them, or sets them apart
 from the mortals who have never experienced that favor. Were it true
 that a suddenly converted man as such is, as Edwards says, <span
-id="fr_122"></span>[1](#fn_122) of an entirely different kind from a
+id="fr_122"></span>[1](#fn_122.md) of an entirely different kind from a
 natural man, partaking as he does directly of Christ's substance, there
 surely ought to be some exquisite class-mark, some distinctive radiance
 attaching even to the lowliest specimen of this genus, to which no one
@@ -785,7 +785,7 @@ fruits of our ordinary evangelicism look discouraging. Who knows how
 much less ideal still the lives of these spiritual grubs and earthworms,
 these Crumps and Stigginses, might have been, if such poor grace as they
 have received had never touched them at all? <span
-id="fr_123"></span>[1](#fn_123)
+id="fr_123"></span>[1](#fn_123.md)
 
 <span id="page_235">p. 235</span>
 
@@ -796,7 +796,7 @@ regenerative change effects have, then, no general spiritual
 significance, but only a psychological significance. We have seen how
 Starbuck's laborious statistical studies tend to assimilate conversion
 to ordinary spiritual growth. Another American psychologist, Prof.
-George A. Coe, <span id="fr_124"></span>[1](#fn_124) has analyzed the
+George A. Coe, <span id="fr_124"></span>[1](#fn_124.md) has analyzed the
 cases of seventy-seven converts or ex-candidates for conversion, known
 to him, and the results strikingly confirm the view that sudden
 conversion is connected with the possession of an active subliminal
@@ -807,7 +807,7 @@ found these relatively much more frequent in the group of converts whose
 transformation had been "striking," "striking" transformation being
 defined as a change which, though not necessarily instantaneous, seems
 to the subject of it to be distinctly different from a process of
-growth, however rapid." <span id="fr_125"></span>[2](#fn_125) Candidates
+growth, however rapid." <span id="fr_125"></span>[2](#fn_125.md) Candidates
 for conversion at revivals are, as you know, often disappointed: they
 experience nothing striking. Professor Coe had a number of persons of
 this class among his seventy-seven subjects, and they almost all, when
@@ -836,7 +836,7 @@ conversion when it has occurred? Not in the least, as Professor Coe well
 says; for "the ultimate test of religious values is nothing
 psychological, nothing definable in terms of *how it happens*, but
 something ethical, definable only in terms of *what is attained*." <span
-id="fr_126"></span>[1](#fn_126)
+id="fr_126"></span>[1](#fn_126.md)
 
 As we proceed farther in our inquiry we shall see that what is attained
 is often an altogether new level of spiritual vitality, a relatively
@@ -895,7 +895,7 @@ notion of a higher penetration.
 
 If there be higher powers able to impress us, they may get access to us
 only through the subliminal door. (See below, [p.
-506](vre16.htm#page_506) ff.)
+506](vre16.htm#page_506) ff..md)
 
  
 
@@ -934,7 +934,7 @@ in my life. From this day onwards a new interior life began for me: not
 that my melancholy had disappeared, but it had lost its sting. Hope had
 entered into my heart, and once entered on the path, the God of Jesus
 Christ, to whom I then had learned to give myself up, little by little
-did the rest." <span id="fr_127"></span>[1](#fn_127)</span>
+did the rest." <span id="fr_127"></span>[1](#fn_127.md)</span>
 
 It is needless to remind you once more of the admirable congruity of
 Protestant theology with the structure of the mind as shown in such
@@ -979,7 +979,7 @@ me,' even 'for me,' I say, a miserable, wretched sinner. Now, therefore,
 I take comfort and apply this to *myself*. And this manner of applying
 is the very true force and power of faith. For he died *not* to justify
 the righteous, but the *un*-righteous, and to make *them* the children
-of God." <span id="fr_128"></span>[1](#fn_128)</span>
+of God." <span id="fr_128"></span>[1](#fn_128.md)</span>
 
 That is, the more literally lost you are, the more literally you are the
 very being whom Christ's sacrifice has already saved. Nothing in
@@ -1001,7 +1001,7 @@ intellectually conceived of. But this is only one part of Luther's
 faith, the other part being far more vital. This other part is something
 not intellectual but immediate and intuitive, the assurance, namely,
 that I, this individual I, just as I stand, without one plea, etc., am
-saved now and forever.  <span id="fr_129"></span>[1](#fn_129) Professor
+saved now and forever.  <span id="fr_129"></span>[1](#fn_129.md) Professor
 Leuba is undoubtedly right in contending that the conceptual belief
 about Christ's work, although so often efficacious and antecedent, is
 really accessory and non-essential, and that the "joyous conviction" can
@@ -1025,7 +1025,7 @@ is irrelevant. But such conviction being a mere casual offshoot of the
 faith-state, it is a gross error to imagine that the chief practical
 value of the faith-state is its power to stamp with the seal of reality
 certain particular theological conceptions. <span
-id="fr_130"></span>[1](#fn_130) On the contrary, its value lies solely
+id="fr_130"></span>[1](#fn_130.md) On the contrary, its value lies solely
 in the fact that it is the psychic correlate of a biological growth
 reducing contending desires to one direction; a growth which expresses
 itself in new affective states and new reactions; in larger, nobler,
@@ -1035,7 +1035,7 @@ may even be preposterous; the affective stream will float them along,
 and invest them with unshakable certitude. The more startling the
 affective experience, the less explicable it seems, the easier it is to
 make it the carrier of unsubstantiated notions." <span
-id="fr_131"></span>[2](#fn_131)</span>
+id="fr_131"></span>[2](#fn_131.md)</span>
 
 The characteristics of the affective experience which, to avoid
 ambiguity, should, I think, be called the state of assurance rather than
@@ -1068,7 +1068,7 @@ the world often appears to undergo. "An appearance of newness beautifies
 every object," the precise opposite of that other sort of newness, that
 dreadful unreality and strangeness in the appearance of the world, which
 is experienced by melancholy patients, and of which you may recall my
-relating some examples. <span id="fr_132"></span>[1](#fn_132) This sense
+relating some examples. <span id="fr_132"></span>[1](#fn_132.md) This sense
 of clean and beautiful newness within and without is one of the
 commonest entries in conversion records. Jonathan Edwards thus describes
 it in himself:—
@@ -1085,7 +1085,7 @@ works of nature, was so sweet to me as thunder and lightning; formerly
 nothing had been so terrible to me. Before, I used to be uncommonly
 terrified with thunder, and to be struck with terror when I saw a
 thunderstorm rising; but now, on the contrary, it rejoices me." <span
-id="fr_133"></span>[2](#fn_133)</span>
+id="fr_133"></span>[2](#fn_133.md)</span>
 
 <span id="page_244">p. 244</span>
 
@@ -1101,7 +1101,7 @@ November, 1823, but what day of the month I do not know. I remember
 this, that everything looked new to me, the people, the fields, the
 cattle, the trees. I was like a new man in a new world. I spent the
 greater part of my time in praising the Lord." <span
-id="fr_134"></span>[1](#fn_134)</span>
+id="fr_134"></span>[1](#fn_134.md)</span>
 
 Starbuck and Leuba both illustrate this sense of newness by quotations.
 I take the two following from Starbuck's manuscript collection. One, a
@@ -1157,7 +1157,7 @@ great divergence of opinion quickly arose concerning them. Edwards, in
 his Thoughts on the Revival of Religion in New England, has to defend
 them against their critics; and their value has long been matter of
 debate even within the revivalistic denominations. <span
-id="fr_135"></span>[1](#fn_135) They undoubtedly have no essential
+id="fr_135"></span>[1](#fn_135.md) They undoubtedly have no essential
 spiritual
 
 <span id="page_246">p. 246</span>
@@ -1202,7 +1202,7 @@ experience, of that light that prostrated</span>
 <span class="contnote">\[paragraph continues\]</span> <span
 class="small">Paul on the way to Damascus. It was surely a light such as
 I could not have endured long." <span
-id="fr_136"></span>[1](#fn_136)</span>
+id="fr_136"></span>[1](#fn_136.md)</span>
 
 Such reports of photisms are indeed far from uncommon. Here is another
 from Starbuck's collection, where the light appeared evidently
@@ -1253,7 +1253,7 @@ the glory of God appeared in all his visible creation. I well remember
 we reaped oats, and how every straw and head of the oats seemed, as it
 were, arrayed in a kind of rainbow glory, or to glow, if I may so
 express it, in the glory of God." <span
-id="fr_137"></span>[1](#fn_137)</span>
+id="fr_137"></span>[1](#fn_137.md)</span>
 
 <span id="page_249">p. 249</span>
 
@@ -1322,7 +1322,7 @@ account of his post-conversion feelings:—
 <span class="small">"I can't help praising the Lord. As I go along the
 street, I lift up one foot, and it seems to say 'Glory'; and I lift up
 the other, and it seems to say 'Amen'; and so they keep up like that all
-the time I am walking." <span id="fr_138"></span>[1](#fn_138)</span>
+the time I am walking." <span id="fr_138"></span>[1](#fn_138.md)</span>
 
 One word, before I close this lecture, on the question of the transiency
 or permanence of these abrupt conversions. Some of you, I feel sure,
@@ -1378,24 +1378,24 @@ permanent, although the feelings fluctuate. . . . In other words, the
 persons who have passed through conversion, having once taken a stand
 for the religious life, tend to feel themselves identified with it, no
 matter how much their religious enthusiasm declines." <span
-id="fr_139"></span>[1](#fn_139)
+id="fr_139"></span>[1](#fn_139.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_118"></span>[216:1](vre10.htm#fr_118) Life and Journals,
+<span id="fn_118"></span>[216:1](vre10.htm#fr_118.md) Life and Journals,
 Boston, 1806, pp. 31-40, abridged.
 
-<span id="fn_119"></span>[219:1](vre10.htm#fr_119) My quotations are
+<span id="fn_119"></span>[219:1](vre10.htm#fr_119.md) My quotations are
 made from an Italian translation of this letter in the Biografia del
 sig. M. A. Ratisbonne, Ferrara, 1843, which I have to thank Monsignore
 D. O'Connell of Rome for bringing to my notice. I abridge the original.
 
-<span id="fn_120"></span>[229:1](vre10.htm#fr_120) Published in the
+<span id="fn_120"></span>[229:1](vre10.htm#fr_120.md) Published in the
 International Scientific Series.
 
-<span id="fn_121"></span>[231:1](vre10.htm#fr_121) The reader will here
+<span id="fn_121"></span>[231:1](vre10.htm#fr_121.md) The reader will here
 please notice that in my exclusive reliance in the last lecture on the
 subconscious "incubation" of motives deposited by a growing experience,
 I followed the method of employing accepted principles of explanation as
@@ -1412,9 +1412,9 @@ candor obliges me to confess that there are occasional bursts into
 consciousness of results of which it is not easy to demonstrate any
 prolonged subconscious incubation. Some of the cases I used to
 illustrate the sense of presence of the unseen in Lecture III were of
-this order (compare pages [59](vre05.htm#page_59),
-[60](vre05.htm#page_60), [61](vre05.htm#page_61),
-[66](vre05.htm#page_66)); and we shall see other experiences of the kind
+this order (compare pages [59](vre05.htm#page_59.md),
+[60](vre05.htm#page_60), [61](vre05.htm#page_61.md),
+[66](vre05.htm#page_66).md); and we shall see other experiences of the kind
 when we come to the subject of mysticism. The case of Mr. Bradley, that
 of M. Ratisbonne, possibly that of Colonel Gardiner, possibly that of
 saint Paul, might not be so easily explained in this simple way. The
@@ -1429,13 +1429,13 @@ consider the question of its absolute sufficiency as an explanation of
 all the facts. That subconscious incubation explains a great number of
 them, there can be no doubt.
 
-<span id="fn_122"></span>[233:1](vre10.htm#fr_122) Edwards says
+<span id="fn_122"></span>[233:1](vre10.htm#fr_122.md) Edwards says
 elsewhere: "I am bold to say that the work of God in the conversion of
 one soul, considered together with the source foundation, and purchase
 of it, and also the benefit, end, and eternal issue of it, is a more
 glorious work of God than the creation of the whole material universe."
 
-<span id="fn_123"></span>[234:1](vre10.htm#fr_123) Emerson writes: "When
+<span id="fn_123"></span>[234:1](vre10.htm#fr_123.md) Emerson writes: "When
 we see a soul whose acts are regal, graceful <span id="page_235">p.
 235</span> and pleasant as roses, we must thank God that such things can
 be and are, and not turn sourly on the angel and say: Crump is a better
@@ -1447,21 +1447,21 @@ individually might be had he only some Crump-like capacity for
 compunction over his own peculiar diabolisms, graceful and pleasant and
 invariably gentlemanly as these may be.
 
-<span id="fn_124"></span>[235:1](vre10.htm#fr_124) In his book, The
+<span id="fn_124"></span>[235:1](vre10.htm#fr_124.md) In his book, The
 Spiritual Life, New York, 1900.
 
-<span id="fn_125"></span>[235:2](vre10.htm#fr_125) Op. cit., p. 112.
+<span id="fn_125"></span>[235:2](vre10.htm#fr_125.md) Op. cit., p. 112.
 
-<span id="fn_126"></span>[236:1](vre10.htm#fr_126) Op. cit., p. 144.
+<span id="fn_126"></span>[236:1](vre10.htm#fr_126.md) Op. cit., p. 144.
 
-<span id="fn_127"></span>[239:1](vre10.htm#fr_127) I piece together a
+<span id="fn_127"></span>[239:1](vre10.htm#fr_127.md) I piece together a
 quotation made by W. Monod, in his book la Vie, and a letter printed in
 the work: Adolphe Monod: I,. Souvenirs de sa Vie, 1885, p. 433.
 
-<span id="fn_128"></span>[240:1](vre10.htm#fr_128) Commentary on
+<span id="fn_128"></span>[240:1](vre10.htm#fr_128.md) Commentary on
 Galatians, ch. iii. verse 19, and ch. ii. verse 20, abridged.
 
-<span id="fn_129"></span>[241:1](vre10.htm#fr_129) In some conversions,
+<span id="fn_129"></span>[241:1](vre10.htm#fr_129.md) In some conversions,
 both steps are distinct; in this one, for example:—
 
 "Whilst I was reading the evangelical treatise, I was soon struck by an
@@ -1480,33 +1480,33 @@ God forever." Autobiography of Hudson Taylor. I translate back into
 English from the French translation of Challand (Geneva, no date), the
 original not being accessible.
 
-<span id="fn_130"></span>[242:1](vre10.htm#fr_130) Tolstoy's case was a
+<span id="fn_130"></span>[242:1](vre10.htm#fr_130.md) Tolstoy's case was a
 good comment on those words. There was almost no theology in his
 conversion. His faith-state was the sense come back that life was
 infinite in its moral significance.
 
-<span id="fn_131"></span>[242:2](vre10.htm#fr_131) American Journal of
+<span id="fn_131"></span>[242:2](vre10.htm#fr_131.md) American Journal of
 Psychology, vii. 345-347, abridged.
 
-<span id="fn_132"></span>[243:1](vre10.htm#fr_132) Above, [p.
-150](vre07.htm#page_150).
+<span id="fn_132"></span>[243:1](vre10.htm#fr_132.md) Above, [p.
+150](vre07.htm#page_150.md).
 
-<span id="fn_133"></span>[243:2](vre10.htm#fr_133) <span
+<span id="fn_133"></span>[243:2](vre10.htm#fr_133.md) <span
 class="smallcaps">Dwight</span>: Life of Edwards, New York, 1830, p. 61,
 abridged.
 
-<span id="fn_134"></span>[244:1](vre10.htm#fr_134) <span
+<span id="fn_134"></span>[244:1](vre10.htm#fr_134.md) <span
 class="smallcaps">W. F. Bourne</span>: The King's Son, a Memoir of Billy
 Bray, London, Hamilton, Adams & Co., 1887, p. 9.
 
-<span id="fn_135"></span>[245:1](vre10.htm#fr_135) Consult <span
+<span id="fn_135"></span>[245:1](vre10.htm#fr_135.md) Consult <span
 class="smallcaps">William B. Sprague</span>: Lectures on Revivals of
 Religion, New York, 1832, in the long Appendix to which the opinions of
 a large number of ministers are given.
 
-<span id="fn_136"></span>[247:1](vre10.htm#fr_136) Memoirs, p. 34.
+<span id="fn_136"></span>[247:1](vre10.htm#fr_136.md) Memoirs, p. 34.
 
-<span id="fn_137"></span>[248:1](vre10.htm#fr_137) These reports of
+<span id="fn_137"></span>[248:1](vre10.htm#fr_137.md) These reports of
 sensorial photism shade off into what are evidently only metaphorical
 accounts of the sense of new spiritual illumination, as, for instance,
 in Brainerd's statement: "As I was walking in a thick grove, unspeakable
@@ -1551,7 +1551,7 @@ feel so wonderfully happy.' This I regard as the hour of conversion. It
 was the hour in which I became assured of divine acceptance and favor.
 So far as my life was concerned, it made little immediate change."
 
-<span id="fn_138"></span>[251:1](vre10.htm#fr_138) I add in a note a few
+<span id="fn_138"></span>[251:1](vre10.htm#fr_138.md) I add in a note a few
 more records:—
 
 "One morning, being in deep distress, fearing every moment I should drop
@@ -1586,9 +1586,9 @@ I was as light as if walking on air. I felt as if I had gained greater
 peace and happiness than I had ever expected to experience." <span
 class="smallcaps">Starbuck's</span> correspondents.
 
-<span id="fn_139"></span>[253:1](vre10.htm#fr_139) Psychology of
+<span id="fn_139"></span>[253:1](vre10.htm#fr_139.md) Psychology of
 Religion, pp. 360, 357.
 
 ------------------------------------------------------------------------
 
-[Next: Lectures XI, XII, and XIII. Saintliness](vre11)
+[Next: Lectures XI, XII, and XIII. Saintliness](vre11.md)

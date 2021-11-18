@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft43)  [Next](efft45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft43)  [Next](efft45.md) 
 
 ------------------------------------------------------------------------
 
-# THE PARSON AND CLERK  <span id="fr_50"></span>[1](#fn_50)
+# THE PARSON AND CLERK  <span id="fr_50"></span>[1](#fn_50.md)
 
 NEAR Dawlish stand, out in the sea, two rocks, of red sandstone
 conglomerate, to which the above name is given.
@@ -83,9 +83,9 @@ to all generations.
 
 ### Footnotes
 
-<span id="fn_50"></span>[1](efft44.htm#fr_50) Robert Hunt, *Popular
+<span id="fn_50"></span>[1](efft44.htm#fr_50.md) Robert Hunt, *Popular
 Romances of the West of England*, 1st series, p. 262.
 
 ------------------------------------------------------------------------
 
-[Next: Outwitting the Bogie](efft45)
+[Next: Outwitting the Bogie](efft45.md)

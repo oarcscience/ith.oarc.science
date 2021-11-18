@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot10) 
-[Next](aot12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot10.md) 
+[Next](aot12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -51,7 +51,7 @@ from the lips of one of these ascetics, in giving the story of his life,
 affords us a clue to the real meaning of the term. "At the age of
 fourteen," he tells Apollonius, "I resigned my patrimony to those who
 desired such things, and *naked* I sought the *Naked*" (vi. 16). <span
-id="fr_105"></span>[\*](#fn_105)
+id="fr_105"></span>[\*](#fn_105.md)
 
 This is the very same diction that Philo uses about the Therapeut
 communities, which he declares were very numerous in every province of
@@ -74,7 +74,7 @@ best known to classical students from the humorous use made of it by
 Aristophanes, who in The Clouds calls the school of Socrates, a
 *phrontistērion* or "thinking shop." The collection of *monasteria*
 (ἱερά), presumably caves, shrines, or cells, <span
-id="fr_106"></span>[\*](#fn_106) was situated on a hill or rising ground
+id="fr_106"></span>[\*](#fn_106.md) was situated on a hill or rising ground
 not far from the Nile. They were all separated from one another, dotted
 about the hill, and ingeniously arranged. There was hardly a tree in the
 place, with the exception of a single group of palms, under whose shade
@@ -188,15 +188,15 @@ detestable of crimes to all the true philosophers.
 
 ### Footnotes
 
-<span id="fn_105"></span>[100:\*](aot11.htm#fr_105) The word γυμνός
+<span id="fn_105"></span>[100:\*](aot11.htm#fr_105.md) The word γυμνός
 (naked), however, usually means lightly clad, as, for instance, when a
 man is said to plough "naked," that is with only one garment, and this
 is evident from the comparison made between the costume of the
 Gymnosophists and that of people in the hot weather at Athens (vi. 6).
 
-<span id="fn_106"></span>[101:\*](aot11.htm#fr_106) For they had neither
+<span id="fn_106"></span>[101:\*](aot11.htm#fr_106.md) For they had neither
 huts nor houses, but lived in the open air.
 
 ------------------------------------------------------------------------
 
-[Next: Section XI. Apollonius and the Rulers of the Empire](aot12)
+[Next: Section XI. Apollonius and the Rulers of the Empire](aot12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Next](ioe01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Next](ioe01.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](ioe01)
+[Next: Table of Contents](ioe01.md)

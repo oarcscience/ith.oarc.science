@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes04)  [Next](mes06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes04)  [Next](mes06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -21,7 +21,7 @@ Textual Heritage
 ### CHAPTER II.
 
 *Seyyid Burhānu-’d-Dīn, Sirr-Dān, el Muhaqqiq, el Huseynī, of the
-posterity of Yā-Sīn* (*Muhammed*). <span id="fr_8"></span>[1](#fn_8)
+posterity of Yā-Sīn* (*Muhammed*). <span id="fr_8"></span>[1](#fn_8.md)
 
 (<span class="smallcaps">He</span> is called Seyyid, the "*Syud*" of our
 East India authorities, for the reason that he was a descendant of the
@@ -204,10 +204,10 @@ his deceased teacher, returning home again afterwards.
 
 ### Footnotes
 
-<span id="fn_8"></span>[13:1](mes05.htm#fr_8) The two letters *Yā* and
+<span id="fn_8"></span>[13:1](mes05.htm#fr_8.md) The two letters *Yā* and
 *Sīn* heading the thirty-sixth chapter of the Qur’ān are said to stand
 for the words, Yā insān, *O man!* as Mohammed is there addressed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](mes06)
+[Next: Chapter III](mes06.md)

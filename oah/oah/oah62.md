@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah61)  [Next](oah63) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah61)  [Next](oah63.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ talk with them face to face.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](oah63)
+[Next: Chapter VI](oah63.md)

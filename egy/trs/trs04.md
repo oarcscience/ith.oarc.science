@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](trs03)  [Next](trs05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](trs03)  [Next](trs05.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ at Youngsbury, in Hertfordshire,
 where he seems to have devoted himself to the study of English, French,
 Italian, Latin, Greek, Hebrew, Chaldee, Syriac, Samaritan, Arabic,
 Persian, Turkish, and Ethiopic, as well as to that of natural
-Philosophy, Botany, and Entomology. <span id="fr_51"></span>[1](#fn_51)
+Philosophy, Botany, and Entomology. <span id="fr_51"></span>[1](#fn_51.md)
 <span class="margnote">Young's medical studies.</span>In 1792 Young
 began to study Medicine and Anatomy in London, and in 1793 he entered
 St. Bartholomew's Hospital as a pupil. In 1803 he read a paper before
@@ -97,7 +97,7 @@ Young, by R. Ward, from a picture by Sir Thomas Lawrence, PṚȦ., forms
 the frontispiece to his life by Dean Peacock, which, according to J. J.
 Champollion-Figeac, "exprime fidèlement la douceur, la grâce, les traits
 d’une figure toute rayonnante d’intelligence." <span
-id="fr_52"></span>[1](#fn_52)
+id="fr_52"></span>[1](#fn_52.md)
 
 **Jean François Champollion**, surnamed **le Jeune**, the immortal
 discoverer of a correct system of decipherment of Egyptian
@@ -109,7 +109,7 @@ studies, and he devoted himself at the same time to botany and
 mineralogy; at a very early date however he showed a natural taste for
 oriental languages, and like Young was, at the age of thirteen, master
 of a fair knowledge of Hebrew, Syriac and Chaldee. <span
-id="fr_53"></span>[2](#fn_53) In 1805 his brother J. J.
+id="fr_53"></span>[2](#fn_53.md) In 1805 his brother J. J.
 Champollion-Figeac brought him to Paris, and caused him to be admitted
 to the Cours de l’Ecole des Langues Orientales, and introduced him to
 Silvestre de Sacy. Soon after his arrival in Paris Champollion turned
@@ -226,7 +226,7 @@ The results of Dr. Young's studies of the Rosetta Stone were first
 communicated to the Royal Society of Antiquaries in a letter from Sir W.
 E. Rouse Boughton, Bart.; the letter was read on the 19th of May, 1814,
 and was published the following year in *Archæologia*, Vol. XVIII. pp.
-59-72. <span id="fr_54"></span>[1](#fn_54)<span class="margnote">Young's
+59-72. <span id="fr_54"></span>[1](#fn_54.md)<span class="margnote">Young's
 labours on the Rosetta Stone in 1814.</span> The letter was accompanied
 by a translation of the demotic text on the Rosetta Stone, which was
 subsequently reprinted anonymously in the *Museum Criticum* of
@@ -253,7 +253,7 @@ syllabic sort of characters by which the Chinese express the sounds of
 foreign languages, and that in their usual acceptation they had
 different significations: but of this conjecture I cannot at present
 speak with any great confidence." . . . . .  <span
-id="fr_55"></span>[1](#fn_55) To this M. de Sacy replied: "Je ne vous
+id="fr_55"></span>[1](#fn_55.md) To this M. de Sacy replied: "Je ne vous
 dissimule pas, Monsieur, que malgré l’espèce<span class="margnote">De
 Sacy's opinions of Akerblad’s works.</span> d’approbation que j’ai
 donnée au système de M. Akerblad, dans la réponse que je lui ai
@@ -262,7 +262,7 @@ de l’alphabet qu’il s’est fait. . . . . Je dois vous ajouter que M.
 Akerblad n’est pas le seul qui se flatte d’avoir lu le texte Egyptien de
 l’inscription de Rosette. M. Champollion, qui vient de publier deux
 volumes sur l’ancienne géographie de l’Egypte, <span
-id="fr_56"></span>[2](#fn_56) et qui s’est beaucoup occupé de la langue
+id="fr_56"></span>[2](#fn_56.md) et qui s’est beaucoup occupé de la langue
 Copte, prétend avoir aussi lu cette inscription. Je mets assurément plus
 de confiance dans les lumières et la critique de M. Akerblad que dans
 celles de<span class="margnote">De Sacy distrusts Champollion's
@@ -443,7 +443,7 @@ Young's work was lent to Champollion between May 9 and July 20, 1815.
 <span id="page_138">p. 138</span>
 
 On August 2, 1816, Young addressed a letter <span
-id="fr_57"></span>[1](#fn_57) to the Archduke John of Austria, in which
+id="fr_57"></span>[1](#fn_57.md) to the Archduke John of Austria, in which
 he reported further progress in his hieroglyphic studies, thus: "I have
 already ascertained, as I have mentioned in one of my letters to M. de
 Sacy, that the enchorial inscription of Rosetta contained a number of
@@ -451,7 +451,7 @@ individual characters resembling the corresponding hieroglyphics, and I
 was not disposed to place any great reliance on the alphabetical
 interpretation of any considerable part of the inscription. I have now
 fully demonstrated the hieroglyphical origin of the running hand, <span
-id="fr_58"></span>[2](#fn_58) in which the manuscripts on papyrus, found
+id="fr_58"></span>[2](#fn_58.md) in which the manuscripts on papyrus, found
 with the mummies . . . . . ." (Leitch, p. 74) The principal contents of
 Young's letters, however, incorporated with other matter, were made into
 a more extensive article, which was contributed to the Supplement of the
@@ -468,7 +468,7 @@ of Rosetta having been somewhat more than doubled by means of a careful
 examination of other monuments. . . . . . The higher numerals were
 readily obtained by a comparison of some inscriptions in which they
 stood combined with units and with tens. <span
-id="fr_59"></span>[3](#fn_59) Young's article in the *Encyclopædia
+id="fr_59"></span>[3](#fn_59.md) Young's article in the *Encyclopædia
 Britannica* obtained great celebrity in Europe; and was reprinted by
 
 <span id="page_139">p. 139</span>
@@ -499,9 +499,9 @@ the hieroglyphics, and had Young taken the trouble of having it printed
 as a separate publication, there would have been less doubt in the minds
 of scholars as to the good work which he did, and results borrowed from
 it by Champollion would have been more easily identified. <span
-id="fr_60"></span>[1](#fn_60)
+id="fr_60"></span>[1](#fn_60.md)
 
-It has already been said ([p. 130](#page_130)) that Champollion
+It has already been said ([p. 130](#page_130).md) that Champollion
 published at Paris in 1814 the two first parts of a work entitled<span
 class="margnote">Champollion on them geography of Egypt.</span>
 *L’Egypte sous les Pharaons, ou recherches sur la Géographie, la
@@ -548,12 +548,12 @@ characters.</span>accompanying Young's article EGYPT, printed in 1818
 and published in 1819, it will be found that *fourteen* of the
 characters are identical in both alphabets. Thus it seems that a greater
 degree of credit is due to Akerblad than has usually been awarded to him
-either by Young <span id="fr_61"></span>[1](#fn_61)
+either by Young <span id="fr_61"></span>[1](#fn_61.md)
 
 <span id="page_141">p. 141</span>
 
-or Champollion, <span id="fr_62"></span>[1](#fn_62) or, indeed, by
-writers on Egyptology generally. <span id="fr_63"></span>[2](#fn_63)
+or Champollion, <span id="fr_62"></span>[1](#fn_62.md) or, indeed, by
+writers on Egyptology generally. <span id="fr_63"></span>[2](#fn_63.md)
 
 Having seen what foundations Young and Champollion had for their own
 works on the demotic text to rest on, we may return to the consideration
@@ -568,15 +568,15 @@ Amasis; of Autocrator, Arsinoe, etc., etc. He correctly identified the
 names of Ptolemy and Berenice, although in each case he attributed wrong
 values to some of the hieroglyphic characters which formed these names.
 The hieroglyphic alphabet given by Young was as follows <span
-id="fr_64"></span>[3](#fn_64):—
+id="fr_64"></span>[3](#fn_64.md):—
 
 <span class="margnote">Young's hieroglyphic alphabet.</span><span
-id="img_14100"></span> ![Young's hieroglyphic alphabet](img/14100.jpg)
+id="img_14100"></span> ![Young's hieroglyphic alphabet](img/14100.jpg.md)
 
 <span id="page_142">p. 142</span>
 
 <span id="img_14200"></span> ![Young's hieroglyphic alphabet
-(continued)](img/14200.jpg)
+(continued)](img/14200.jpg.md)
 
 In 1822 Champollion published his famous *Lettre à M. Dacier relative d
 l’alphabet des Hiéroglyphes Phonétiques*, in which he stated his
@@ -631,8 +631,8 @@ Egyptian language by the early workers in this field.
 
 <span class="margnote">Statement of results of labours of Zoëga,
 Akerblad, Young and Champollion.</span>Barthélemy <span
-id="fr_65"></span>[1](#fn_65) and Zoëga <span
-id="fr_66"></span>[2](#fn_66) had come to the conclusion long before the
+id="fr_65"></span>[1](#fn_65.md) and Zoëga <span
+id="fr_66"></span>[2](#fn_66.md) had come to the conclusion long before the
 labours of Akerblad, Young, and Champollion, that the cartouches
 contained proper names. Akerblad drew up an alphabet of the demotic
 character, in which fourteen signs appear to have had correct values
@@ -657,51 +657,51 @@ overestimate, and the amount of work which he did in his comparatively
 short life is little less than marvellous. It is, however, to be
 regretted that Champollion did not state more clearly what Young had
 done, for a full acknowledgment of this would have in no way injured or
-lessened his own immortal fame. <span id="fr_67"></span>[1](#fn_67)
+lessened his own immortal fame. <span id="fr_67"></span>[1](#fn_67.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_51"></span>[128:1](trs04.htm#fr_51) For the list of books
+<span id="fn_51"></span>[128:1](trs04.htm#fr_51.md) For the list of books
 read by him at this time, see the *Life of Thomas Young*, by G. Peacock,
 London, 1855 pp. 14-17.
 
-<span id="fn_52"></span>[129:1](trs04.htm#fr_52) *Lettre au Directeur de
+<span id="fn_52"></span>[129:1](trs04.htm#fr_52.md) *Lettre au Directeur de
 la Revue Britannique au sujet des Recherches du Docteur Young*, Paris,
 1857, p. II.
 
-<span id="fn_53"></span>[129:2](trs04.htm#fr_53) On the subject of
+<span id="fn_53"></span>[129:2](trs04.htm#fr_53.md) On the subject of
 Champollion's studies, at Grenoble, *see Chroniques Dauphinoises*, par
 A. Champollion-Figeac, t. III. pp. 553,156,157-238.
 
-<span id="fn_54"></span>[132:1](trs04.htm#fr_54) *Letter to the Rev. S.
+<span id="fn_54"></span>[132:1](trs04.htm#fr_54.md) *Letter to the Rev. S.
 Weston respecting some Egyptian Antiquities*. With 4 copper plates.
 London, 1814.
 
-<span id="fn_55"></span>[133:1](trs04.htm#fr_55) For these letters I am
+<span id="fn_55"></span>[133:1](trs04.htm#fr_55.md) For these letters I am
 indebted to the third volume of the *Miscellaneous Works of the late
 Thomas Young*, MḌ., FṚṢ., &c., ed. John Leitch, London, 1855.
 
-<span id="fn_56"></span>[133:2](trs04.htm#fr_56) *L’Egypte sous les
+<span id="fn_56"></span>[133:2](trs04.htm#fr_56.md) *L’Egypte sous les
 Pharaons, ou recherches sur la Géographie, la Religion, la Langue, les
 Ecritures, et l’Histoire de l’Egypte*, Paris, 1814.
 
-<span id="fn_57"></span>[138:1](trs04.htm#fr_57) This letter was printed
+<span id="fn_57"></span>[138:1](trs04.htm#fr_57.md) This letter was printed
 in 1816, and circulated in London, Paris, and elsewhere; it did not
 appear in the *Museum Criticum* until 1821.
 
-<span id="fn_58"></span>[138:2](trs04.htm#fr_58) "Que ce second système
+<span id="fn_58"></span>[138:2](trs04.htm#fr_58.md) "Que ce second système
 (l’Hiératique) n’est qu’une simple modification du système
 Hiéroglyphique, et n’en diffère uniquement que par la forme des signes."
 Champollion, *De l’Ecriture Hiératique des Anciens Egyptiens:* Grenoble,
 1821. We should have expected some reference by Champollion to Young's
 discovery quoted above.
 
-<span id="fn_59"></span>[138:3](trs04.htm#fr_59) Young. *An Account of
+<span id="fn_59"></span>[138:3](trs04.htm#fr_59.md) Young. *An Account of
 some recent discoveries in Hieroglyphical Literature*, p. 17.
 
-<span id="fn_60"></span>[139:1](trs04.htm#fr_60) Ich halte mich daher
+<span id="fn_60"></span>[139:1](trs04.htm#fr_60.md) Ich halte mich daher
 verpflichtet, alles auf unsern Gegenstand bezügliche dem Leser
 nachträglich genau mitzutheilen und zwar mit einer um so grössem
 Gewissenhaftigkeit, je höher durch dessen Kenntniss die Achtung gegen
@@ -711,7 +711,7 @@ den Artikel der Encyclopaedie gelesen zu haben, meistens als das
 Eigenthum Champollion's zu betrachten gewohnt ist. Schwartze, *Das Alte
 Aegypten*, p. 446.
 
-<span id="fn_61"></span>[140:1](trs04.htm#fr_61) Mr. Akerblad was far
+<span id="fn_61"></span>[140:1](trs04.htm#fr_61.md) Mr. Akerblad was far
 from having completed his examination of the whole enchorial
 inscription, apparently from the want of some collateral encouragement
 or co-operation to induce him to continue so laborious an inquiry; and
@@ -723,14 +723,14 @@ which proceeds on the supposition that parts of the first lines of the
 hieroglyphics are still remaining on the stone, Young, *An Account*, p.
 10.
 
-<span id="fn_62"></span>[141:1](trs04.htm#fr_62) "Feu Akerblad essaya
+<span id="fn_62"></span>[141:1](trs04.htm#fr_62.md) "Feu Akerblad essaya
 d’étendre ses lectures hors des noms propres grecs, et il échoua
 complètement." Champollion, *Précis*, 1 éd., p. 14.
 
-<span id="fn_63"></span>[141:2](trs04.htm#fr_63) See Schwartze, *Das
+<span id="fn_63"></span>[141:2](trs04.htm#fr_63.md) See Schwartze, *Das
 Alte Aegypten*, pp. 160, 162.
 
-<span id="fn_64"></span>[141:3](trs04.htm#fr_64) No. 205, which is
+<span id="fn_64"></span>[141:3](trs04.htm#fr_64.md) No. 205, which is
 omitted here, is really two demotic characters the values of which are
 BA and R: to these Young gave the value BERE, and so far he was right,
 but he failed to see that what he considered to be one sign was, in
@@ -743,16 +743,16 @@ Docteur Young sur les Hiéroglyphes Egyptiens*, p. 5, gives Young no
 credit whatever for the three partly correct values assigned to
 hieroglyphic characters by him.
 
-<span id="fn_65"></span>[143:1](trs04.htm#fr_65) Caylus, *Recueil
+<span id="fn_65"></span>[143:1](trs04.htm#fr_65.md) Caylus, *Recueil
 d’Antiquités Egyptiennes, Etrusques*, etc., Tom. V. p. 79.
 
-<span id="fn_66"></span>[143:2](trs04.htm#fr_66) In *De Origine et Usu
+<span id="fn_66"></span>[143:2](trs04.htm#fr_66.md) In *De Origine et Usu
 Obeliscorum*, p. 465. Conspiciuntur autem passim in Aegyptiis monumentis
 schemata quaedam ovata sive elliptica planae basi insidentia, quae
 emphatica ratione includunt certa notarum syntagmata, sive ad propria
 personarum nomina exprimenda, sive ad sacratiores formulas designandas.
 
-<span id="fn_67"></span>[144:1](trs04.htm#fr_67) We have seen above that
+<span id="fn_67"></span>[144:1](trs04.htm#fr_67.md) We have seen above that
 Champollion did know of Young's work, yet in his *Précis du Système
 Hiéroglyphique*, p. 18, he says that he had arrived at results similar
 to those obtained by Dr. Young, without having any knowledge of his
@@ -760,4 +760,4 @@ opinion.
 
 ------------------------------------------------------------------------
 
-[Next: How Champollion deciphered the Egyptian Alphabet](trs05)
+[Next: How Champollion deciphered the Egyptian Alphabet](trs05.md)

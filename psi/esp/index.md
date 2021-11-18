@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/076613962X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](esp00)    [Page
-Index](pageidx)    [Text \[Zipped\]](esptxt.zip)
+[Contents](#contents)    [Start Reading](esp00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](esptxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ Index](pageidx)    [Text \[Zipped\]](esptxt.zip)
 
 Although this was not the first appearance of the term 'Extrasensory
 Perception' in print, this book was the first one which brought *ESP* to
-the foreground. Even in [Mental Radio](../mrad/index), which preceded
+the foreground. Even in [Mental Radio](../mrad/index.md), which preceded
 this study (in 1930), there was no general agreement as to what to call
 the phenomena.
 
@@ -64,44 +64,44 @@ conventional science.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](esp00)  
-[Contents](esp01)  
-[List of Illustrations](esp02)  
-[Foreword](esp03)  
-[Introduction by Dr. Walter Franklin Prince](esp04)  
-[List of Abbreviations](esp05)  
-[Preface](esp06)  
+<span id="contents"></span> [Title Page](esp00.md)  
+[Contents](esp01.md)  
+[List of Illustrations](esp02.md)  
+[Foreword](esp03.md)  
+[Introduction by Dr. Walter Franklin Prince](esp04.md)  
+[List of Abbreviations](esp05.md)  
+[Preface](esp06.md)  
 <span id="section_000"></span>
 
 ### Part I. General Introduction
 
-[Chapter 1. Clarification of the Problem](esp07)  
-[Chapter 2. Historical Background](esp08)  
+[Chapter 1. Clarification of the Problem](esp07.md)  
+[Chapter 2. Historical Background](esp08.md)  
 [Appendix to Chapter 2. Mathematics of Probability Used in
-Evaluation](esp09)  
+Evaluation](esp09.md)  
 <span id="section_001"></span>
 
 ### Part II. The Experimental Results
 
-[Chapter 3. A General Survey](esp10)  
-[Chapter IV. Earlier and Minor Experiments](esp11)  
-[Chapter 5. A. J. Linzmayer](esp12)  
-[Chapter 6. Charles E. Stuart](esp13)  
-[Chapter 7. Hubert E. Pearce, Jr.](esp14)  
-[Chapter 8. Five Other Major Subjects](esp15)  
+[Chapter 3. A General Survey](esp10.md)  
+[Chapter IV. Earlier and Minor Experiments](esp11.md)  
+[Chapter 5. A. J. Linzmayer](esp12.md)  
+[Chapter 6. Charles E. Stuart](esp13.md)  
+[Chapter 7. Hubert E. Pearce, Jr.](esp14.md)  
+[Chapter 8. Five Other Major Subjects](esp15.md)  
 <span id="section_002"></span>
 
 ### Part III. Explanation and Discussion
 
-[Chapter 9. Elimination of Negative Hypotheses](esp16)  
-[Chapter 10. Physical Conditions in the Functioning of E.S.P.](esp17)  
-[Chapter 11. Some Physiological Conditions Affecting E.S.P.](esp18)  
+[Chapter 9. Elimination of Negative Hypotheses](esp16.md)  
+[Chapter 10. Physical Conditions in the Functioning of E.S.P.](esp17.md)  
+[Chapter 11. Some Physiological Conditions Affecting E.S.P.](esp18.md)  
 [Chapter 12. The Psychological Conditions and Bearings of the
-Results](esp19)  
+Results](esp19.md)  
 [Chapter 13. E.S.P. From the Viewpoint of General
-Parapsychology](esp20)  
-[Chapter 14. Some General Biological Considerations](esp21)  
-[Chapter 15. Summary and Concluding Remarks](esp22)  
+Parapsychology](esp20.md)  
+[Chapter 14. Some General Biological Considerations](esp21.md)  
+[Chapter 15. Summary and Concluding Remarks](esp22.md)  
 [Appendix to Chapter 15. Suggestions to Those Who May Care to Repeat
-These Experiments](esp23)  
-[Second Appendix to Chapter 15.](esp24)  
+These Experiments](esp23.md)  
+[Second Appendix to Chapter 15.](esp24.md)  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr16)  [Next](ppr18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr16)  [Next](ppr18.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ Bid the soil unlock her treasures!
 
 ------------------------------------------------------------------------
 
-[Next: Hymn To Panu (Finnish)](ppr18)
+[Next: Hymn To Panu (Finnish)](ppr18.md)

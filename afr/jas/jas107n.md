@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas106n)  [Next](jas108n)   
- \[[107. Uncle Green and Jack.](jas107)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas106n)  [Next](jas108n.md)   
+ \[[107. Uncle Green and Jack.](jas107.md)\]
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ numbers 23 and 108 in this collection.
 
 ------------------------------------------------------------------------
 
-[Next: Note 108. Big Begum and Little Begum.](jas108n)
+[Next: Note 108. Big Begum and Little Begum.](jas108n.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw09)  [Next](isw11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw09)  [Next](isw11.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ Even in an old story, is a burden not to be borne.
 ------------------------------------------------------------------------
 
 [Next: The Players Ask for a Blessing on the Psalteries and
-Themselves](isw11)
+Themselves](isw11.md)

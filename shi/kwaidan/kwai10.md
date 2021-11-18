@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](kwai09)  [Next](kwai11) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](kwai09)  [Next](kwai11.md) 
 
 ------------------------------------------------------------------------
 
@@ -333,4 +333,4 @@ declares) even unto this day.
 
 ------------------------------------------------------------------------
 
-[Next: A Dead Secret](kwai11)
+[Next: A Dead Secret](kwai11.md)

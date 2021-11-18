@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj53)  [Next](atfj55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj53)  [Next](atfj55.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_58"></span> <span align="CENTER"> [![58. Ukon Shows
 Sayemon that he has Already Sacrificed Himself](tn/58.jpg)  
-Click to enlarge](img/58.jpg)  
+Click to enlarge](img/58.jpg.md)  
 58. Ukon Shows Sayemon that he has Already Sacrificed Himself  
 </span>
 
 ### LII
 
-### THE CHESSBOARD CHERRY TREE <span id="fr_52"></span>[1](#fn_52)
+### THE CHESSBOARD CHERRY TREE <span id="fr_52"></span>[1](#fn_52.md)
 
 IN olden times, long before the misfortunes of Europeanisation came to
 Japan, there lived at Kasamatsu, in Nakasatani, near Shichikwai mura
@@ -114,7 +114,7 @@ take it off.'
 'Your sword is to kill your enemies, not your retainers and friends,'
 said Ukon. 'Sheathe your sword, my Lord. You need not trouble yourself
 to kill me, for I have already done seppuku <span
-id="fr_53"></span>[1](#fn_53) in order to offer you the advice which I
+id="fr_53"></span>[1](#fn_53.md) in order to offer you the advice which I
 have given, and to save all others. See here, my Lord!' Ukon opened his
 clothes and exhibited an immense cut across his stomach.
 
@@ -173,20 +173,20 @@ present, they say, the tree is to be seen.
 
 ### Footnotes
 
-<span id="fn_52"></span>[326:1](atfj54.htm#fr_52) This story (with the
+<span id="fn_52"></span>[326:1](atfj54.htm#fr_52.md) This story (with the
 exception of the ghost) I believe to be true, for the 'seppuku' of Saito
 Ukon is just the kind of reasoning that would have been held out in the
 days of the story, and is even to-day possible in many cases. See a
 case—quoted by Professor Chamberlain—of the servant to an Englishman at
 Yokohama, and note the number of cases in the recent war.
 
-<span id="fn_53"></span>[329:1](atfj54.htm#fr_53) 'Disembowelled
+<span id="fn_53"></span>[329:1](atfj54.htm#fr_53.md) 'Disembowelled
 myself.'
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: LIII. The Precious Sword 'Natori no Hoto'](atfj55)
+[Next: LIII. The Precious Sword 'Natori no Hoto'](atfj55.md)
 
 </div>

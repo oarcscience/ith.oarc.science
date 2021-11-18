@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/oth)  [Previous](../mww/mww) 
-[Next](../ppt/ppt) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/oth)  [Previous](../mww/mww.md) 
+[Next](../ppt/ppt.md) 
 
 ------------------------------------------------------------------------
 
@@ -5435,4 +5435,4 @@ Index](../index)  [First Folio](../ff/oth)  [Previous](../mww/mww) 
 
 ------------------------------------------------------------------------
 
-[Next: Pericles, Prince of Tyre](../ppt/ppt) 
+[Next: Pericles, Prince of Tyre](../ppt/ppt.md) 

@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi02) 
-[Next](jlgi04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi02.md) 
+[Next](jlgi04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus, the Last Great Initiate*, by Edouard Schuré, \[1908\], at
 Intangible Textual Heritage
 
@@ -68,8 +68,8 @@ inspired poets are to be heard! Minerva, Wisdom, and Foresight, veils
 her countenance in presence of her people converted into Satyrs,
 profaning the mysteries, and insulting the gods in Aristophanic farces
 on the stage of Bacchus. The very mysteries themselves are corrupted,
-for [sycophants](errata.htm#0) and courtesans are admitted to the
-[Eleusinian](errata.htm#1) rites. … When soul becomes blunted, religion
+for [sycophants](errata.htm#0.md) and courtesans are admitted to the
+[Eleusinian](errata.htm#1.md) rites. … When soul becomes blunted, religion
 falls into idolatry; when thought becomes materialized, philosophy
 degenerates into scepticism. Thus we see Lucian, poor microbe born from
 the corpse of paganism, turn the myths into ridicule, when once
@@ -122,7 +122,7 @@ contrary
 
 of truth, by which a government receives its justification, according to
 the supreme principles of science, justice and economy. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 The whole of Roman history is merely the consequence of the iniquitous
 pact by which the Conscript Fathers declared war, first, against Italy,
@@ -142,9 +142,9 @@ King Numa, long cherished in the memory of the people, who regarded him
 as inspired by divine genius, seems to be a historical intervention of
 sacred science in the government. He does not represent the genius of
 Rome, but rather that of the Etruscan initiation, which followed the
-same principles as the [school](errata.htm#2) of Memphis and Delphi.
+same principles as the [school](errata.htm#2.md) of Memphis and Delphi.
 
-After Numa, the Roman Senate burnt the [Sibylline](errata.htm#3) Books,
+After Numa, the Roman Senate burnt the [Sibylline](errata.htm#3.md) Books,
 ruined the authority of the flamens, destroyed
 
 <span id="page_17">p. 17</span>
@@ -162,7 +162,7 @@ there appears the final offspring of this ravenous creature, the
 embodiment of the genius of Rome—Cæsar! Rome has conquered all the
 nations of the earth, Cæsar, her incarnation, arrogates to himself
 universal power. He aspires not merely to become the ruler of mankind,
-for, uniting the [tiara](errata.htm#4) with the diadem, he causes
+for, uniting the [tiara](errata.htm#4.md) with the diadem, he causes
 himself to be proclaimed Chief Pontiff. After the Battle of Thapsus,
 deification as a hero is voted him, after that of Munda, divine
 apotheosis is granted by the Senate; his statue is erected in the temple
@@ -270,7 +270,7 @@ anguish, constitutes the prophetic element.
 
 <span class="contnote">\[paragraph continues\]</span> *The prophetic
 manifestations, throughout history, have been the thunderbolts and
-lightning flashes of truth*." <span id="fr_2"></span>[1](#fn_2)
+lightning flashes of truth*." <span id="fr_2"></span>[1](#fn_2.md)
 
 From this spring, those giants, Elijah, Isaiah, Ezekiel, and Jeremiah,
 drew their might. Deep in their caves or in the palaces of the kings,
@@ -324,7 +324,7 @@ and the mouse shall be consumed together, saith the Lord.
 
 “For I know their works and their thoughts: it shall come that I will
 gather all nations and tongues; and they shall come and see my
-glory.” <span id="fr_3"></span>[1](#fn_3)
+glory.” <span id="fr_3"></span>[1](#fn_3.md)
 
 It is only before the tomb of the Christ that this vision begins to find
 realization, but who could deny its prophetic truth when thinking of the
@@ -354,7 +354,7 @@ for the meek of the earth; and he shall smite the earth with the rod of
 his mouth, and with the breath of his lips shall he slay the wicked.
 
 “And righteousness shall be the girdle of his loins, and faithfulness
-the girdle of his reins.” <span id="fr_4"></span>[1](#fn_4)
+the girdle of his reins.” <span id="fr_4"></span>[1](#fn_4.md)
 
 Before this vision, the gloomy soul of the prophet becomes calm and
 clear, as does a tempest-troubled sky after a storm. For now it is
@@ -390,7 +390,7 @@ shearers is dumb, so he openeth not his mouth.
 “He was taken from prison and from judgment: and who shall declare his
 generation? for he was cut off out of the land of the living: for the
 transgression of my people was he stricken.” <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 For eight centuries the thunder-words of the prophets caused the idea
 and image of the Messiah to hover above all national dissensions and
@@ -425,7 +425,7 @@ dreamt of a divine child. The temples spoke of him in mystery;
 astrologists calculated his coming; frenzied sibyls had loudly
 proclaimed the downfall of pagan gods. The initiates had announced that
 some day the world would be governed by one of their own, a Son of
-God. <span id="fr_6"></span>[1](#fn_6) The world was expecting the
+God. <span id="fr_6"></span>[1](#fn_6.md) The world was expecting the
 spiritual king, such a one as would be understood by the poor and lowly.
 
 The great Æschylus, son of a priest of Eleusis, was almost killed by the
@@ -453,7 +453,7 @@ Virgil announces a new age, and dreams of a marvelous child—
 <span class="small">… Aspice convexo nutantem pondere mundum,  
  Terrasque, tractusque maris, coelumque profundum,  
  Aspice venturo laetantur ut omnia saeclo." <span
-id="fr_7"></span>[1](#fn_7)</span>
+id="fr_7"></span>[1](#fn_7.md)</span>
 
 </div>
 
@@ -484,34 +484,34 @@ sovereignty.
 
 Thus died the last king of the Jews. At this very moment had just been
 born the future spiritual king of humanity, <span
-id="fr_8"></span>[1](#fn_8) and the few initiates of Israel were
+id="fr_8"></span>[1](#fn_8.md) and the few initiates of Israel were
 silently preparing for his reign in profound humility and silence.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[16:1](jlgi03.htm#fr_1) This point of view, in
+<span id="fn_1"></span>[16:1](jlgi03.htm#fr_1.md) This point of view, in
 diametrical opposition to the empiric school of Aristotle and
 Montesquieu, was that of the great initiates, the Egyptian priests, as
 of Moses and Pythagoras. It had been previously amplified in the
 *Mission des Juifs* of M. Saint-Yves. See his remarkable chapter on the
 foundation of Rome.
 
-<span id="fn_2"></span>[21:1](jlgi03.htm#fr_2) Ewald, *Die Propheten:*
+<span id="fn_2"></span>[21:1](jlgi03.htm#fr_2.md) Ewald, *Die Propheten:*
 Introduction.
 
-<span id="fn_3"></span>[22:1](jlgi03.htm#fr_3) Isaiah lxvi. 10-18.
+<span id="fn_3"></span>[22:1](jlgi03.htm#fr_3.md) Isaiah lxvi. 10-18.
 
-<span id="fn_4"></span>[23:1](jlgi03.htm#fr_4) Isaiah xi. 1-5.
+<span id="fn_4"></span>[23:1](jlgi03.htm#fr_4.md) Isaiah xi. 1-5.
 
-<span id="fn_5"></span>[24:1](jlgi03.htm#fr_5) Isaiah liii. 2-8.
+<span id="fn_5"></span>[24:1](jlgi03.htm#fr_5.md) Isaiah liii. 2-8.
 
-<span id="fn_6"></span>[25:1](jlgi03.htm#fr_6) Such is the esoteric
+<span id="fn_6"></span>[25:1](jlgi03.htm#fr_6.md) Such is the esoteric
 significance of the beautiful legend of the magi coming from the far
 East to worship the child of Bethlehem.
 
-<span id="fn_7"></span>[26:1](jlgi03.htm#fr_7) Virgil, Eclogue 4:—
+<span id="fn_7"></span>[26:1](jlgi03.htm#fr_7.md) Virgil, Eclogue 4:—
 
 <div style="margin-left: 32px">
 
@@ -534,7 +534,7 @@ class="smallcaps">DRYDEN</span>.</span>
 
 </div>
 
-<span id="fn_8"></span>[27:1](jlgi03.htm#fr_8) Herod died in the fourth
+<span id="fn_8"></span>[27:1](jlgi03.htm#fr_8.md) Herod died in the fourth
 year before our era. Calculations of the critics are now generally
 unanimous in giving this date also as the birth of Jesus. See Keim, *Das
 Leben Jesu*.
@@ -543,6 +543,6 @@ Leben Jesu*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Mary—First Development of Jesus](jlgi04)
+[Next: Chapter II. Mary—First Development of Jesus](jlgi04.md)
 
 </div>

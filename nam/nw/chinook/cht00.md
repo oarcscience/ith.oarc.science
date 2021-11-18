@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Next](cht01) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Next](cht01.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ American](../../index)  [Northwest](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Contents](cht01)
+[Next: Contents](cht01.md)

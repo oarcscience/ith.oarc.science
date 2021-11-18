@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst034)  [Next](inst036) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst034)  [Next](inst036.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,7 +214,7 @@ of the tree of the knowledge of good and evil, were meant to prove and
 exercise his faith. Hence it is not difficult to infer in what way Adam
 provoked the wrath of God. Augustine, indeed, is not far from the mark,
 when he says (in <span id="iv.ii.ii-p19.1"></span>[Psal.
-19](../../../bib/kjv/psa019.htm#000)<span id="iv.ii.ii-p19.1"></span>),
+19](../../../bib/kjv/psa019.htm#000)<span id="iv.ii.ii-p19.1"></span>.md),
 that pride was the beginning of all evil, because, had not man’s
 ambition carried him higher than he was permitted, he might have
 continued in his first estate. A further definition, however, must be
@@ -250,7 +250,7 @@ his word. The strongest curb to keep all his affections under due
 restraint, would have been the belief that nothing was better than to
 cultivate righteousness by obeying the commands of God, and that the
 highest possible felicity was to be loved by him.14  <span
-id="fr_136"></span>[137](#fn_136) Man, therefore, when carried away by
+id="fr_136"></span>[137](#fn_136.md) Man, therefore, when carried away by
 the blasphemies of Satan, did his very utmost to annihilate the whole
 glory of God.
 
@@ -260,8 +260,8 @@ from him was the death of his soul. Nor is it strange that he who
 perverted the whole order of nature in heaven and earth deteriorated his
 race by his revolt. “The whole creation groaneth,” saith St Paul, “being
 made subject to vanity, not willingly,” (<span
-id="iv.ii.ii-p21.1"></span>[Rom. 8:20](../../../bib/kjv/rom008.htm#020),
-[22](../../../bib/kjv/rom008.htm#022)<span id="iv.ii.ii-p21.1"></span>).
+id="iv.ii.ii-p21.1"></span>[Rom. 8:20](../../../bib/kjv/rom008.htm#020.md),
+[22](../../../bib/kjv/rom008.htm#022)<span id="iv.ii.ii-p21.1"></span>.md).
 If the reason is asked, there cannot be a doubt that creation bears part
 of the punishment deserved by man, for whose use all other creatures
 were made. Therefore, since through man’s fault a curse has extended
@@ -294,7 +294,7 @@ Celestians, who has learned from the writings of that holy man how
 extreme the effrontery of these heretics was. Surely there is no
 ambiguity in David’s confession, “I was shapen in iniquity; and in sin
 did my mother conceive me,” (<span id="iv.ii.ii-p21.2"></span>[Ps.
-51:5](../../../bib/kjv/psa051.htm#005)<span
+51:5](../../../bib/kjv/psa051.htm#005.md)<span
 id="iv.ii.ii-p21.2"></span>). His object in the passage is not to throw
 blame on his parents; but the better to commend the goodness of God
 towards him, he properly reiterates the confession of impurity from his
@@ -305,7 +305,7 @@ come into the world tainted with the contagion of sin. Nay, before we
 behold the light of the sun we are in God’s sight defiled and polluted.
 “Who can bring a clean thing out of an unclean? Not one,” says the Book
 of Job (<span id="iv.ii.ii-p21.3"></span>[Job
-14:4](../../../bib/kjv/job014.htm#004)<span
+14:4](../../../bib/kjv/job014.htm#004.md)<span
 id="iv.ii.ii-p21.3"></span>).
 
 <span id="iv.ii.ii-p22"></span>6. We thus see that the impurity of
@@ -321,7 +321,7 @@ into the world, and death by sin; and so death passed upon all men, for
 that all have sinned; even so might grace reign through righteousness
 unto eternal life by Jesus Christ our Lord,” (<span
 id="iv.ii.ii-p22.1"></span>[Rom.
-5:19-21](../../../bib/kjv/rom005.htm#019)<span
+5:19-21](../../../bib/kjv/rom005.htm#019.md)<span
 id="iv.ii.ii-p22.1"></span>). To what quibble will the Pelagians here
 recur? That the sin of Adam was propagated by imitation! Is the
 righteousness of Christ then available to us only in so far as it is an
@@ -340,7 +340,7 @@ too, in the First Epistle to the Corinthians, when Paul would confirm
 believers in the confident hope of the resurrection, he shows that the
 life is recovered in Christ which was lost in Adam (<span
 id="iv.ii.ii-p22.2"></span>[1 Cor.
-15:22](../../../bib/kjv/co1015.htm#022)<span
+15:22](../../../bib/kjv/co1015.htm#022.md)<span
 id="iv.ii.ii-p22.2"></span>). Having already declared that all died in
 Adam, he now also openly testifies, that all are imbued with the taint
 of sin. Condemnation, indeed, could not reach those who are altogether
@@ -350,7 +350,7 @@ restored in Christ. Every one knows that the only mode in which this is
 done is, when by a wondrous communication Christ transfuses into us the
 power of his own righteousness, as it is elsewhere said, “The Spirit is
 life because of righteousness,” (<span id="iv.ii.ii-p22.3"></span>[1
-Cor. 15:22](../../../bib/kjv/co1015.htm#022)<span
+Cor. 15:22](../../../bib/kjv/co1015.htm#022.md)<span
 id="iv.ii.ii-p22.3"></span>). Therefore, the only explanation which can
 be given of the expression, “in Adam all died,” is, that he by sinning
 not only brought disaster and ruin upon himself, but also plunged our
@@ -359,7 +359,7 @@ matter not pertaining to us, but by the corruption into which he himself
 fell, he infected his whole seed. Paul never could have said that all
 are “by nature the children of wrath,” (<span
 id="iv.ii.ii-p22.4"></span>[Eph.
-2:3](../../../bib/kjv/eph002.htm#003)<span id="iv.ii.ii-p22.4"></span>),
+2:3](../../../bib/kjv/eph002.htm#003)<span id="iv.ii.ii-p22.4"></span>.md),
 if they had not been cursed from the womb. And it is obvious that the
 nature there referred to is not nature such as God created, but as
 vitiated in Adam; for it would have been most incongruous to make God
@@ -368,7 +368,7 @@ transmitted the contagion to all his posterity. For a heavenly Judge,
 even our Saviour himself, declares that all are by birth vicious and
 depraved, when he says that “that which is born of the flesh is fleshy”
 (<span id="iv.ii.ii-p22.5"></span>[John
-3:6](../../../bib/kjv/joh003.htm#006)<span id="iv.ii.ii-p22.5"></span>),
+3:6](../../../bib/kjv/joh003.htm#006)<span id="iv.ii.ii-p22.5"></span>.md),
 and that therefore the gate of life is closed against all until they
 have been regenerated.
 
@@ -376,7 +376,7 @@ have been regenerated.
 there is no necessity for an anxious discussion (which in no small
 degree perplexed the ancient doctors), as to whether the soul of the
 child comes by transmission from the soul of the parent.14  <span
-id="fr_137"></span>[138](#fn_137) It should be enough for us to know
+id="fr_137"></span>[138](#fn_137.md) It should be enough for us to know
 that Adam was made the depository of the endowments which God was
 pleased to bestow on human nature, and that, therefore, when he lost
 what he had received, he lost not only for himself but for us all. Why
@@ -398,10 +398,10 @@ himself. The Pelagian cavil, as to the improbability of children
 deriving corruption from pious parents, whereas, they ought rather to be
 sanctified by their purity, is easily refuted. Children come not by
 spiritual regeneration but carnal descent.14  <span
-id="fr_138"></span>[139](#fn_138) Accordingly, as Augustine says, “Both
+id="fr_138"></span>[139](#fn_138.md) Accordingly, as Augustine says, “Both
 the condemned unbeliever and the acquitted believer beget offspring not
 acquitted but condemned, because the nature which begets is corrupt.”14
- <span id="fr_139"></span>[140](#fn_139) Moreover, though godly parents
+ <span id="fr_139"></span>[140](#fn_139.md) Moreover, though godly parents
 do in some measure contribute to the holiness of their offspring, this
 is by the blessing of God; a blessing, however, which does not prevent
 the primary and universal curse of the whole race from previously taking
@@ -418,9 +418,9 @@ and depravity of our nature, extending to all the parts of the soul,
 which first makes us obnoxious to the wrath of God, and then produces in
 us works which in Scripture are termed works of the flesh. This
 corruption is repeatedly designated by Paul by the term sin14  <span
-id="fr_140"></span>[141](#fn_140) (<span
+id="fr_140"></span>[141](#fn_140.md) (<span
 id="iv.ii.ii-p28.1"></span>[Gal.
-5:19](../../../bib/kjv/gal005.htm#019)<span
+5:19](../../../bib/kjv/gal005.htm#019.md)<span
 id="iv.ii.ii-p28.1"></span>); while the works which proceed from it,
 such as adultery, fornication, theft, hatred, murder, revellings, he
 terms, in the same way, the fruits of sin, though in various passages of
@@ -434,15 +434,15 @@ Adam has made us obnoxious to the justice of God, the meaning is not,
 that we, who are in ourselves innocent and blameless, are bearing his
 guilt, but that since by his transgression we are all placed under the
 curse, he is said to have brought us under obligation.14  <span
-id="fr_141"></span>[142](#fn_141) Through him, however, not only has
+id="fr_141"></span>[142](#fn_141.md) Through him, however, not only has
 punishment been derived, but pollution instilled, for which punishment
 is justly due. Hence Augustine, though he often terms it another’s sin
 (that he may more clearly show how it comes to us by descent), at the
 same time asserts that it is each individual’s own sin.14  <span
-id="fr_142"></span>[143](#fn_142) And the Apostle most distinctly
+id="fr_142"></span>[143](#fn_142.md) And the Apostle most distinctly
 testifies, that “death passed upon all men, for that all have sinned,”
 (<span id="iv.ii.ii-p30.1"></span>[Rom.
-5:12](../../../bib/kjv/rom005.htm#012)<span
+5:12](../../../bib/kjv/rom005.htm#012.md)<span
 id="iv.ii.ii-p30.1"></span>); that is, are involved in original sin, and
 polluted by its stain. Hence, even infants bringing their condemnation
 with them from their mother’s womb, suffer not for another’s, but for
@@ -473,7 +473,7 @@ the fountain of righteousness. For not only did the inferior appetites
 entice him, but abominable impiety seized upon the very citadel of the
 mind, and pride penetrated to his inmost heart (<span
 id="iv.ii.ii-p31.1"></span>[Rom.
-7:12](../../../bib/kjv/rom007.htm#012)<span id="iv.ii.ii-p31.1"></span>;
+7:12](../../../bib/kjv/rom007.htm#012.md)<span id="iv.ii.ii-p31.1"></span>;
 Book 4, chap. 15, sec. 10–12), so that it is foolish and unmeaning to
 confine the corruption thence proceeding to what are called sensual
 motions, or to call it an excitement, which allures, excites, and drags
@@ -488,22 +488,22 @@ only, but that no part is free from its deadly taint. For, speaking of
 corrupt nature, he not only condemns the inordinate nature of the
 appetites, but, in particular, declares that the understanding is
 subjected to blindness, and the heart to depravity (<span
-id="iv.ii.ii-p31.2"></span>[Eph. 4:17](../../../bib/kjv/eph004.htm#017),
-[18](../../../bib/kjv/eph004.htm#018)<span id="iv.ii.ii-p31.2"></span>).
+id="iv.ii.ii-p31.2"></span>[Eph. 4:17](../../../bib/kjv/eph004.htm#017.md),
+[18](../../../bib/kjv/eph004.htm#018)<span id="iv.ii.ii-p31.2"></span>.md).
 The third chapter of the Epistle to the Romans is nothing but a
 description of original sin; The same thing appears more clearly from
 the mode of renovation. For the spirit, which is contrasted with the old
 man, and the flesh, denotes not only the grace by which the sensual or
 inferior part of the soul is corrected, but includes a complete
 reformation of all its parts (<span id="iv.ii.ii-p31.3"></span>[Eph.
-4:23](../../../bib/kjv/eph004.htm#023)<span
+4:23](../../../bib/kjv/eph004.htm#023.md)<span
 id="iv.ii.ii-p31.3"></span>). And, accordingly, Paul enjoins not only
 that gross appetites be suppressed, but that we be renewed in the spirit
 of our mind (<span id="iv.ii.ii-p31.4"></span>[Eph.
-4:23](../../../bib/kjv/eph004.htm#023)<span
+4:23](../../../bib/kjv/eph004.htm#023.md)<span
 id="iv.ii.ii-p31.4"></span>), as he elsewhere tells us to be transformed
 by the renewing of our mind (<span id="iv.ii.ii-p31.5"></span>[Rom.
-12:2](../../../bib/kjv/rom012.htm#002)<span
+12:2](../../../bib/kjv/rom012.htm#002.md)<span
 id="iv.ii.ii-p31.5"></span>). Hence it follows, that that part in which
 the dignity and excellence of the soul are most conspicuous, has not
 only been wounded, but so corrupted, that mere cure is not sufficient.
@@ -514,7 +514,7 @@ deluged, as it were, that no part remains exempt from sin, and,
 therefore, everything which proceeds from him is imputed as sin. Thus
 Paul says, that all carnal thoughts and affections are enmity against
 God, and consequently death (<span id="iv.ii.ii-p31.6"></span>[Rom.
-8:7](../../../bib/kjv/rom008.htm#007)<span id="iv.ii.ii-p31.6"></span>).
+8:7](../../../bib/kjv/rom008.htm#007)<span id="iv.ii.ii-p31.6"></span>.md).
 
 <span id="iv.ii.ii-p32"></span>10. Let us have done, then, with those
 who dare to inscribe the name of God on their vices, because we say that
@@ -537,7 +537,7 @@ have no ground of complaint except against ourselves. This is carefully
 taught in Scripture. For the Preacher says, “Lo, this only have I found,
 that God made man upright; but they have sought out many inventions,”
 (<span id="iv.ii.ii-p32.1"></span>[Eccl.
-7:29](../../../bib/kjv/ecc007.htm#029)<span
+7:29](../../../bib/kjv/ecc007.htm#029.md)<span
 id="iv.ii.ii-p32.1"></span>). Since man, by the kindness of God, was
 made upright, but by his oven infatuation fell away unto vanity, his
 destruction is obviously attributable only to himself (Athanas. in Orat.
@@ -548,13 +548,13 @@ by a natural viciousness, but not by one which proceeded from nature. In
 saying that it proceeded not from nature, we mean that it was rather an
 adventitious event which befell man, than a substantial property
 assigned to him from the beginning.15  <span
-id="fr_143"></span>[144](#fn_143) We, however call it *natural* to
+id="fr_143"></span>[144](#fn_143.md) We, however call it *natural* to
 prevent any one from supposing that each individual contracts it by
 depraved habit, whereas all receive it by a hereditary law. And we have
 authority for so calling it. For, on the same grounds the apostle says,
 that we are “by nature the children of wrath,” (<span
 id="iv.ii.ii-p34.1"></span>[Eph.
-2:3](../../../bib/kjv/eph002.htm#003)<span id="iv.ii.ii-p34.1"></span>).
+2:3](../../../bib/kjv/eph002.htm#003)<span id="iv.ii.ii-p34.1"></span>.md).
 How could God, who takes pleasure in the meanest of his works be
 offended with the noblest of them all? The offence is not with the work
 itself, but the corruption of the work. Wherefore, if it is not improper
@@ -572,13 +572,13 @@ cause and origin of evil to a righteous God.
 
 ### Footnotes
 
-<span id="fn_136"></span>[137](inst035.htm#fr_136) <span
+<span id="fn_136"></span>[137](inst035.htm#fr_136.md) <span
 id="iv.ii.ii-p19.2"></span>
 
 <span id="iv.ii.ii-p20"></span>43 143 The latter clause of this sentence
 is ommitted in the French.
 
-<span id="fn_137"></span>[138](inst035.htm#fr_137) <span
+<span id="fn_137"></span>[138](inst035.htm#fr_137.md) <span
 id="iv.ii.ii-p23.1"></span>
 
 <span id="iv.ii.ii-p24"></span>44 144 The French is, “Assavoir, si l’ame
@@ -587,7 +587,7 @@ l’ame que reside le peché originel.” That is, whether the soul of the
 child is derived from the substance of the soul of the parent, seeing it
 is in the soul that original sin resides.
 
-<span id="fn_138"></span>[139](inst035.htm#fr_138) <span
+<span id="fn_138"></span>[139](inst035.htm#fr_138.md) <span
 id="iv.ii.ii-p24.1"></span>
 
 <span id="iv.ii.ii-p25"></span>45 145 The French is, “Les enfans ne
@@ -597,7 +597,7 @@ Children descend not from the spiritual generation which the servants of
 God have of the Holy Spirit, but the carnal generation which they have
 of Adam.
 
-<span id="fn_139"></span>[140](inst035.htm#fr_139) <span
+<span id="fn_139"></span>[140](inst035.htm#fr_139.md) <span
 id="iv.ii.ii-p25.1"></span>
 
 <span id="iv.ii.ii-p26"></span>46 146 Lib. contra Pelag. Cœlest. See
@@ -605,13 +605,13 @@ also <span id="iv.ii.ii-p26.1"></span>Ep. 157<span
 id="iv.ii.ii-p26.1"></span>, ad Gregor., Lib. 7. <span
 id="iv.ii.ii-p26.2"></span>Ep. 53<span id="iv.ii.ii-p26.2"></span>.
 
-<span id="fn_140"></span>[141](inst035.htm#fr_140) <span
+<span id="fn_140"></span>[141](inst035.htm#fr_140.md) <span
 id="iv.ii.ii-p27.1"></span>
 
 <span id="iv.ii.ii-p28"></span>47 147 The French adds, “Sans adjouster
 Originel:”--without adding Original.
 
-<span id="fn_141"></span>[142](inst035.htm#fr_141) <span
+<span id="fn_141"></span>[142](inst035.htm#fr_141.md) <span
 id="iv.ii.ii-p28.2"></span>
 
 <span id="iv.ii.ii-p29"></span>48 148 The French is, “Car en ce qui est
@@ -625,13 +625,13 @@ innocent, and that without having deserved any punishment, we are made
 to pay dear for his sin, but because by his transgression we are covered
 with confusion, he is said to have bound us.
 
-<span id="fn_142"></span>[143](inst035.htm#fr_142) <span
+<span id="fn_142"></span>[143](inst035.htm#fr_142.md) <span
 id="iv.ii.ii-p29.1"></span>
 
 <span id="iv.ii.ii-p30"></span>49 149 In many passages, and especially
 in his treatise, De Peccatorum Merit. et Remiss Lib. 3 cap. 8.
 
-<span id="fn_143"></span>[144](inst035.htm#fr_143) <span
+<span id="fn_143"></span>[144](inst035.htm#fr_143.md) <span
 id="iv.ii.ii-p33.1"></span>
 
 <span id="iv.ii.ii-p34"></span>50 150 The French is, “Nous nions qu’elle
@@ -644,4 +644,4 @@ his substance, which has been from the beginning rooted in him.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 2. - MAN NOW DEPRIVED OF FREEDOM OF WILL, AND MISERABLY
-ENSLAVED.](inst036)
+ENSLAVED.](inst036.md)

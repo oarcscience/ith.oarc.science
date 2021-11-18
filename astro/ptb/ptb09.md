@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb08)  [Next](ptb10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb08)  [Next](ptb10.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ and at others moisture, and performs each in an equal ratio.
 The stars, however, are also said to be masculine and feminine, by their
 positions with regard to the Sun. While they are matutine and preceding
 the Sun, they are masculine; when vespertine and following the Sun, they
-become feminine <span id="fr_40"></span>[1](#fn_40).
+become feminine <span id="fr_40"></span>[1](#fn_40.md).
 
 And they are further regulated in this respect by their positions with
 regard to the horizon. From the ascendant to the mid-heaven, or from the
@@ -34,11 +34,11 @@ feminine, being then occidental.
 
 ### Footnotes
 
-<span id="fn_40"></span>[15:1](ptb09.htm#fr_40) "Astronomers call the
+<span id="fn_40"></span>[15:1](ptb09.htm#fr_40.md) "Astronomers call the
 planets matutine, when, being oriental from the Sun, they are above the
 earth when he rises; and vespertine, when they set after him." Moxon's
 Mathematical Dictionary.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Diurnal and Nocturnal](ptb10)
+[Next: Chapter VII. Diurnal and Nocturnal](ptb10.md)

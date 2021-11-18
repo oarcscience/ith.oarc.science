@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf49)  [Next](sbf51) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf49)  [Next](sbf51.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -40,6 +40,6 @@ coming up to us, we shall shoot (him). He runs away, he goes to lie down
 
 ------------------------------------------------------------------------
 
-[Next: How The Father-In-Law Of The Narrator Treated Bones.](sbf51)
+[Next: How The Father-In-Law Of The Narrator Treated Bones.](sbf51.md)
 
 </div>

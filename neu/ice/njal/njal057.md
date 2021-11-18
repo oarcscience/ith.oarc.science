@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal056)  [Next](njal058) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal056)  [Next](njal058.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ Modylfings are sprung.
 
 ------------------------------------------------------------------------
 
-[Next: 58. How Gunnar's Horse Fought](njal058)
+[Next: 58. How Gunnar's Horse Fought](njal058.md)

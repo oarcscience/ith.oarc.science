@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr18)  [Next](ppr20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr18)  [Next](ppr20.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ Such is the Salutation of the Dawn.
 
 ------------------------------------------------------------------------
 
-[Next: Prayer to Buddha (Buddhist)](ppr20)
+[Next: Prayer to Buddha (Buddhist)](ppr20.md)

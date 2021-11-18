@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl01)  [Next](flhl03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl01)  [Next](flhl03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -27,11 +27,11 @@ in its present folk-lore.
 
 Of Old Testament times the fellahìn have countless stories, more or less
 reminiscent of their religious instruction at the mouth of Greek priest
-or Moslem Khatìb, <span id="fr_0"></span>[1](#fn_0) vivified by the
+or Moslem Khatìb, <span id="fr_0"></span>[1](#fn_0.md) vivified by the
 incorporation in the text of naïve conjectures, points of private
 humour, and realistic touches from the present day life of the country,
 which shock the pompous listener as absurd anachronisms. Thus the
-disguise of a Russian pilgrim <span id="fr_1"></span>[2](#fn_1)--a
+disguise of a Russian pilgrim <span id="fr_1"></span>[2](#fn_1.md)--a
 figure now commonly to be met with on the road from Jerusalem to the
 Jordan--is given to Satan when he beguiles the Patriarch Lot (sect. i.
 chap. vi.); and our father Adam has been described to me as sitting
@@ -80,7 +80,7 @@ Khudr" (sect. i.), with a tradition, given in sect. ii. chap. vi.,
 concerning some caves in Wady Isma ’ìn, called "the Upper Chambers of
 the Maidens," undoubtedly belong to this period. The romantic deeds of
 ’Antar and Abu Zeyd, with all the wealth of stories ascribed to the
-Arabs of the Ignorance, <span id="fr_2"></span>[1](#fn_2) though known
+Arabs of the Ignorance, <span id="fr_2"></span>[1](#fn_2.md) though known
 to natives of Palestine, have not been localised. They belong to the
 Arabic language and literature, and must be set down as acquired.
 
@@ -122,7 +122,7 @@ self-interest (or conviction) and not at the point of the sword as has
 been represented. Indeed, the toleration displayed by the Moslems
 towards the vanquished, though less than we should practise nowadays, is
 without a parallel in Europe till many centuries later. It was not
-emulated by the Crusaders, <span id="fr_3"></span>[1](#fn_3) who,
+emulated by the Crusaders, <span id="fr_3"></span>[1](#fn_3.md) who,
 rushing to wrest the Holy Sepulchre from the clutch of the "foul
 Paynim," were astonished to find it in the hands of Christians, whom, to
 cloak their disconcertion, they denounced as heretics.
@@ -207,7 +207,7 @@ standpoint and posture of his ancestors of the time of Christ to-day is
 found with the Moslem, who also claims descent from Abraham.
 
 About one-third of the matter here presented has been published in
-America <span id="fr_4"></span>[1](#fn_4) in another version, and the
+America <span id="fr_4"></span>[1](#fn_4.md) in another version, and the
 chapters on Animal and Plant-lore were originally contributed to the
 *Palestine Exploration Fund Quarterly Statement*, from which they are
 reprinted by permission of the committee. Stories spread fast and far in
@@ -239,25 +239,25 @@ MARMADUKE PICKTHALL.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xi:1](flhl02.htm#fr_0) Village preacher and
+<span id="fn_0"></span>[xi:1](flhl02.htm#fr_0.md) Village preacher and
 schoolmaster.
 
-<span id="fn_1"></span>[xi:2](flhl02.htm#fr_1) The Russian Church, and
+<span id="fn_1"></span>[xi:2](flhl02.htm#fr_1.md) The Russian Church, and
 the Coptic, still include a pilgrimage to the Holy Places among the
 duties of the devout Christian.
 
-<span id="fn_2"></span>[xiii:1](flhl02.htm#fr_2) The Time of the
+<span id="fn_2"></span>[xiii:1](flhl02.htm#fr_2.md) The Time of the
 Ignorance is the name given to the days before Muhammad, when a majority
 of the Arabians were idolators.
 
-<span id="fn_3"></span>[xv:1](flhl02.htm#fr_3) Many of the Crusaders
+<span id="fn_3"></span>[xv:1](flhl02.htm#fr_3.md) Many of the Crusaders
 were so ignorant as to believe that the Moslems were idolators.
 
-<span id="fn_4"></span>[xviii:1](flhl02.htm#fr_4) "Tales told in
+<span id="fn_4"></span>[xviii:1](flhl02.htm#fr_4.md) "Tales told in
 Palestine," by J. E. Hanauer. Edited by H. G. Mitchell. Cincinnati:
 Jennings & Graham. New York: Eaton & Mains. (Copyright (1904) by H. G.
 Mitchell.)
 
 ------------------------------------------------------------------------
 
-[Next: A Mohammedan Legend: Introductory And Apologetic](flhl03)
+[Next: A Mohammedan Legend: Introductory And Apologetic](flhl03.md)

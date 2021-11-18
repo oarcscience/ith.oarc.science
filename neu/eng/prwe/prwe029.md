@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe028)  [Next](prwe030) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe028)  [Next](prwe030.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ laughed at by all the parish; and "Barker's knee" became a proverb.
 
 ------------------------------------------------------------------------
 
-[Next: The Piskies in the Cellar](prwe030)
+[Next: The Piskies in the Cellar](prwe030.md)

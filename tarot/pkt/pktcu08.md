@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktcu09)  [Next](pktcu07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktcu09)  [Next](pktcu07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Eight
 
 <span id="img_cu08"></span> <span align="CENTER"> [![](tn/cu08.jpg)  
-Click to enlarge](img/cu08.jpg)</span>
+Click to enlarge](img/cu08.jpg.md)</span>
 
 A man of dejected aspect is deserting the cups of his felicity,
 enterprise, undertaking or previous concern. *Divinatory Meanings*: The
@@ -33,4 +33,4 @@ joy, happiness, feasting.
 
 ------------------------------------------------------------------------
 
-[Next: Seven of Cups](pktcu07)
+[Next: Seven of Cups](pktcu07.md)

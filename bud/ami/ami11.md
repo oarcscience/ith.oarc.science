@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami10)  [Next](ami12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami10)  [Next](ami12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -47,7 +47,7 @@ to attack your unwary soldiers and drive them out of the country.
 Everything has been planned in the strictest privacy, and your noble
 confidence in my faith and friendship made it easy for them to replace
 the guards gradually by their friends until they now have everything
-their own way, and I am given to [understand](errata.htm#3) that unless
+their own way, and I am given to [understand](errata.htm#3.md) that unless
 I join the conspirators they will elect another king."
 
 "And what is your pleasure in this matter?" asked Kanishka, who betrayed
@@ -141,7 +141,7 @@ the Tathâgata
 "Hate is not overcome by hate:  
  By love alone ’tis quelled.  
  This is a truth of ancient date,  
- To-day still unexcelled."[17](ami16.htm#an_17)
+ To-day still unexcelled."[17](ami16.htm#an_17.md)
 
 </div>
 
@@ -192,7 +192,7 @@ was frightened when he awoke and learned that he was in the power of his
 enemy's son; and finally how each granted the other his life and made
 peace, thus demonstrating the wisdom of the maxim, that hatred cannot be
 appeased by hatred, but is appeased by love,—and by love
-only.[18](ami16.htm#an_18)
+only.[18](ami16.htm#an_18.md)
 
 When the king finished the story of Prince Long-life, the hall was
 crowded with armed officers of the Gandhâra army, and seeing his
@@ -251,4 +251,4 @@ and myself, his ally and brother on the throne."
 
 ------------------------------------------------------------------------
 
-[Next: The Man-Eating Tiger](ami12)
+[Next: The Man-Eating Tiger](ami12.md)

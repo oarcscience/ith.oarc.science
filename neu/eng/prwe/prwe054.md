@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe053)  [Next](prwe055) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe053)  [Next](prwe055.md) 
 
 ------------------------------------------------------------------------
 
@@ -198,4 +198,4 @@ probable that he will ever "prent them."
 
 ------------------------------------------------------------------------
 
-[Next: Dosmery Pool](prwe055)
+[Next: Dosmery Pool](prwe055.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ipc21)  [Next](ipc23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ipc21)  [Next](ipc23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135209/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *India in Primitive Christianity*, by Arthur Lille, \[1909\], at
 Intangible Textual Heritage
 
@@ -117,28 +117,28 @@ in the
 
 <span id="img_pl26"></span> <span align="CENTER"> [![PLATE 26.&lt;br&gt;
 WORSHIP OF THE SILVER TREE-STEM.](tn/pl26.jpg)  
-Click to enlarge](img/pl26.jpg)  
+Click to enlarge](img/pl26.jpg.md)  
 PLATE 26.  
 WORSHIP OF THE SILVER TREE-STEM.  
 </span>
 
 <span id="img_pl27"></span> <span align="CENTER"> [![PLATE 27.&lt;br&gt;
 LINGAM WORSHIP.](tn/pl27.jpg)  
-Click to enlarge](img/pl27.jpg)  
+Click to enlarge](img/pl27.jpg.md)  
 PLATE 27.  
 LINGAM WORSHIP.  
 </span>
 
 <span id="img_pl28"></span> <span align="CENTER"> [![PLATE 28.&lt;br&gt;
 THREE SCENES IN THE INEBRIATING FESTIVAL.](tn/pl28.jpg)  
-Click to enlarge](img/pl28.jpg)  
+Click to enlarge](img/pl28.jpg.md)  
 PLATE 28.  
 THREE SCENES IN THE INEBRIATING FESTIVAL.  
 </span>
 
 <span id="img_pl29"></span> <span align="CENTER"> [![PLATE 29.&lt;br&gt;
 THE CUP.](tn/pl29.jpg)  
-Click to enlarge](img/pl29.jpg)  
+Click to enlarge](img/pl29.jpg.md)  
 PLATE 29.  
 THE CUP.  
 </span>
@@ -148,7 +148,7 @@ THE CUP.
 ritual of the Buddhism on the mainland of Hindustan,—somewhere about 150
 A.D.; and that it is depicted in ineffaceable characters on five slabs
 of one of its temples. I commence with slab One (See bottom of [Pl.
-28](#img_pl28)).
+28](#img_pl28).md).
 
 "On the left," says Mr. Fergusson, "a chief seated on a throne is
 listening to the animated eloquence of a warrior who seems addressing a
@@ -172,7 +172,7 @@ and they fled from the kingdom without striking a blow. (Slab 3). The
 White Elephant in the second plate shows that their pursuer was Buddha
 in person, and the mighty "Cup" on the fourth bas-relief (.) shows the
 mixture of blood and spirit, the immortal drink. The framer of this
-[weird](errata.htm#39) story of Buddha-Silenus thought to make it a
+[weird](errata.htm#39.md) story of Buddha-Silenus thought to make it a
 little less preposterous by announcing that Buddha himself only
 pretended to drink. But he forgot that to take in Nâgas you must imitate
 their favourite rites to the letter. The warm blood from a human victim
@@ -186,12 +186,12 @@ calling for in their corybantic frenzy is Buddha's alms-bowl, but would
 an alms bowl be as big as a sitz bath, and require five or six people to
 hold it up?
 
-In the fifth of these tablets ([Pl. 30](#img_pl30)) we have a startling
+In the fifth of these tablets ([Pl. 30](#img_pl30).md) we have a startling
 piece of corroborative evidence making plain that this group of
 bas-reliefs really tells the story of Mâga. In the Cingalese Masque, the
 Kolan Nattanawa, as translated by the Rev. John Calloway, a pyramid of
 scantily clothed women supporting each other in the air is a prominent
-factor. <span id="fr_304"></span>[\*](#fn_302)
+factor. <span id="fr_304"></span>[\*](#fn_302.md)
 
 Here is a similar pyramid, six women. The Cingalese group consisted of
 five.
@@ -217,7 +217,7 @@ the story of
 
 <span id="img_pl30"></span> <span align="CENTER"> [![PLATE 30.&lt;br&gt;
 PYRAMID OF WOMEN.](tn/pl30.jpg)  
-Click to enlarge](img/pl30.jpg)  
+Click to enlarge](img/pl30.jpg.md)  
 PLATE 30.  
 PYRAMID OF WOMEN.  
 </span>
@@ -233,7 +233,7 @@ can certainly claim cousinship with the tapers that are miraculously
 lighted in Christ's sepulchre in Jerusalem, when the Patriarch of the
 Holy City goes into it at Easter, and then brings them out as a prize
 for his zealous but combatant congregation, who wrestle for them
-wildly. <span id="fr_305"></span>[\*](#fn_303)
+wildly. <span id="fr_305"></span>[\*](#fn_303.md)
 
 The death of the year-god by all ancient nations was fixed at the Spring
 equinox. He died always on March 25th. This gives a much graver aspect
@@ -466,7 +466,7 @@ chaff represented the souls in hell. And the third day, for the festival
 lasted three days, the tail was empty, "by which it was understood,"
 says Hone, "that the first two days the devil reigned in the world, but
 that on the third day he was dispossessed of his kingdom." <span
-id="fr_306"></span>[\*](#fn_304)
+id="fr_306"></span>[\*](#fn_304.md)
 
 <span id="page_294">p. 294</span>
 
@@ -490,7 +490,7 @@ describes these "impure mysteries."
 "Indecency approaches and insults the most holy temples." He tells us of
 "devotees performing unhallowed sacrifices," "offering victims that
 ought not to be offered." He talks of an "impure piety, a debauched
-service." <span id="fr_307"></span>[\*](#fn_305)
+service." <span id="fr_307"></span>[\*](#fn_305.md)
 
 The worship of Serapis reached Rome 146 A.D.; "but the Senate soon
 found," says Jacobi ("Dictionnaire Mythologique") "its rites so
@@ -502,27 +502,27 @@ reticences and pious falsehoods of their model.
 
 "All the divinity lies in their secret recesses. There are revealed all
 the aspirations of the fully initiated, the entire mystery of the sealed
-tongue, the symbol of virility." <span id="fr_308"></span>[†](#fn_306)
+tongue, the symbol of virility." <span id="fr_308"></span>[†](#fn_306.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_302"></span>[286:\*](ipc22.htm#fr_304) See page
-[259](ipc19.htm#page_259).
+<span id="fn_302"></span>[286:\*](ipc22.htm#fr_304.md) See page
+[259](ipc19.htm#page_259.md).
 
-<span id="fn_303"></span>[287:\*](ipc22.htm#fr_305) Picart, "Ceremonies,
+<span id="fn_303"></span>[287:\*](ipc22.htm#fr_305.md) Picart, "Ceremonies,
 etc.," III. p. 143.
 
-<span id="fn_304"></span>[293:\*](ipc22.htm#fr_306) Hone, "Ancient
+<span id="fn_304"></span>[293:\*](ipc22.htm#fr_306.md) Hone, "Ancient
 Mysteries described," p. 134.
 
-<span id="fn_305"></span>[294:\*](ipc22.htm#fr_307) Philo. "Cain and his
+<span id="fn_305"></span>[294:\*](ipc22.htm#fr_307.md) Philo. "Cain and his
 birth," sect. 28.
 
-<span id="fn_306"></span>[294:†](ipc22.htm#fr_308) Tertullian. "Adversus
+<span id="fn_306"></span>[294:†](ipc22.htm#fr_308.md) Tertullian. "Adversus
 Valent." cap, I.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary and Index](ipc23)
+[Next: Glossary and Index](ipc23.md)

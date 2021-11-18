@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps04) 
-[Next](mps06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps04.md) 
+[Next](mps06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -309,7 +309,7 @@ in Hell; love for thee would slay me, piercing my heart with a knife!"
 <span id="page_23">p. 23</span>
 
 <span class="margnote"><span id="133">133</span></span> The knight
-replied: "O sun, who causest the jet <span id="fr_14"></span>[1](#fn_14)
+replied: "O sun, who causest the jet <span id="fr_14"></span>[1](#fn_14.md)
 to blink, what have I said to thee, and what have I done to make thee
 suspect me? I awaited death; thou hast renewed my will to live. I shall
 certainly obey thee like a slave in service."
@@ -504,8 +504,8 @@ will give thee a letter, whoever is my courtier must obey thee."
 
 ### Footnotes
 
-<span id="fn_14"></span>[23:1](mps05.htm#fr_14) black eyes.
+<span id="fn_14"></span>[23:1](mps05.htm#fr_14.md) black eyes.
 
 ------------------------------------------------------------------------
 
-[Next: III. Avt’handil's Letter to His Vassals](mps06)
+[Next: III. Avt’handil's Letter to His Vassals](mps06.md)

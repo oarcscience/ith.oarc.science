@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww26)  [Next](lww28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww26)  [Next](lww28.md) 
 
 ------------------------------------------------------------------------
 
@@ -225,4 +225,4 @@ blood would more than satisfy her for some time to come.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVIII--The Breaking of the Storm](lww28)
+[Next: Chapter XXVIII--The Breaking of the Storm](lww28.md)

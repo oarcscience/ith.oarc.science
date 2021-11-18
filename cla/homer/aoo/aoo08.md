@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo07)  [Next](aoo09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo07)  [Next](aoo09.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ adventure that had brought to him the last tidings of Odysseus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](aoo09)
+[Next: Chapter IX](aoo09.md)

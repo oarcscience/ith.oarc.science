@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca38)  [Next](fsca40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca38)  [Next](fsca40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ at Intangible Textual Heritage
 
 <span id="page_171">p. 171</span>
 
-<span id="img_17100"></span> ![The Phœnix.](img/17100.jpg)
+<span id="img_17100"></span> ![The Phœnix.](img/17100.jpg.md)
 
 ### The Phœnix Bird of the Sun
 
@@ -28,7 +28,7 @@ at Intangible Textual Heritage
 writers as in form like an eagle, but more beautiful in its plumage.
 Among the ancient classical writers it was an emblem of those existing
 in paradise, enjoying eternal youth and never-ending pleasure. Tacitus
-[describes](errata.htm#5) the phœnix as a singular bird, consecrated to
+[describes](errata.htm#5.md) the phœnix as a singular bird, consecrated to
 the sun, and distinguished by its rich appearance and variegated
 colours. Herodotus naïvely says: "I
 
@@ -107,7 +107,7 @@ phœnix and palm-tree. It is thus alluded to in Shakespeare:
 
 <span id="page_174">p. 174</span>
 
-Pliny <span id="fr_19"></span>[\*](#fn_19) gives minute particulars
+Pliny <span id="fr_19"></span>[\*](#fn_19.md) gives minute particulars
 concerning the natural history of this *rara avis in terris*. But the
 ancient fable is most fully given by Ovid and translated by Dryden.
 Ariosto, also, and many early writers refer to the wonderful creature
@@ -283,8 +283,8 @@ faith, and went to his fathers contented.
 
 ### Footnotes
 
-<span id="fn_19"></span>[174:\*](fsca39.htm#fr_19) Book x. ch. 2.
+<span id="fn_19"></span>[174:\*](fsca39.htm#fr_19.md) Book x. ch. 2.
 
 ------------------------------------------------------------------------
 
-[Next: The Harpy](fsca40)
+[Next: The Harpy](fsca40.md)

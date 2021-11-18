@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index) 
-[Index](index)  [Previous](ftc14)  [Next](ftc16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md) 
+[Index](index)  [Previous](ftc14)  [Next](ftc16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0879800356/internetsacredte.md)
 
 </div>
 
@@ -720,6 +720,6 @@ suit of spades stands unrivalled.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Signification of Suits in the Master Method](ftc16)
+[Next: Chapter XIV. Signification of Suits in the Master Method](ftc16.md)
 
 </div>

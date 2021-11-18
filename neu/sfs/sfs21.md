@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs20)  [Next](sfs22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs20)  [Next](sfs22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -131,7 +131,7 @@ to devour the moon, who is afterwards rescued by the sun, the archer of
 the heavens, whose bow and arrow are by a common anachronism represented
 in the story by a gun. Though the moon is masculine in Slavonic, as in
 German, yet she is a lady, 'my lady Luna,' in the Croatian legend [No.
-53](sfs70.htm#an_53), below. In the Norse mythology, when Loki is let
+53](sfs70.htm#an_53.md), below. In the Norse mythology, when Loki is let
 loose at the end of the world, he is to 'hung in the form of a wolf to
 swallow the moon' (Cox ii., p. 200). The present masculine Slavonic word
 for moon, which is also that for month, 'mesic,' or 'mesec,' is a
@@ -140,4 +140,4 @@ Latin the moon is always feminine.\]
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sfs22)
+[Next: Introduction](sfs22.md)

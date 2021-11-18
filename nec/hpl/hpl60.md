@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl59)  [Next](hpl61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl59)  [Next](hpl61.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ infinities and eternities beyond them.
 
 ------------------------------------------------------------------------
 
-[Next: The Evil Clergyman (Weird Tales, 1939)](hpl61)
+[Next: The Evil Clergyman (Weird Tales, 1939)](hpl61.md)

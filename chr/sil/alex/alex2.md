@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](alex1) [Next](alex)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](alex1) [Next](alex.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ which he had withdrawn from public life.
 
 ------------------------------------------------------------------------
 
-[Next](alex)
+[Next](alex.md)

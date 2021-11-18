@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Next](exo) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Next](exo.md) 
 
 ------------------------------------------------------------------------
 
@@ -5743,4 +5743,4 @@ ajastaikaisena, ja he voitelivat hänen, ja panivat arkkuun Egyptissä.
 
 ------------------------------------------------------------------------
 
-[Next: Exodus](exo)
+[Next: Exodus](exo.md)

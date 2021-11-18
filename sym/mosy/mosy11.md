@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy10)  [Next](mosy12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy10)  [Next](mosy12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -51,7 +51,7 @@ of mythologies by the mutual exchange of myths and symbols.
 
 <span class="smallcaps">The</span> Tree is one of the oldest and most
 widely diffused subjects in Semitic pictorial art, especially in
-Mesopotamia. <span id="fr_240"></span>[1](#fn_240) It first appears, on
+Mesopotamia. <span id="fr_240"></span>[1](#fn_240.md) It first appears, on
 Chaldæan
 
 <span id="page_119">p. 119</span>
@@ -60,33 +60,33 @@ cylinders, as a stem divided at the base, surmounted by a fork, or a
 crescent, and cut, mid-way,
 
 <span id="img_fig061"></span> ![FIG. 61. RUDIMENTARY FORMS OF THE SACRED
-TREE.](img/fig061.jpg)
+TREE.](img/fig061.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 61. Rudimentary Forms
-of the Sacred Tree</span> <span id="fr_241"></span>[1](#fn_241)</span>
+of the Sacred Tree</span> <span id="fr_241"></span>[1](#fn_241.md)</span>
 
 by one or more cross-bars, which sometimes bear a fruit at each
 extremity.
 
 <span id="img_fig062"></span> ![FIG. 62. VARIETIES OF SACRED
-TREES.](img/fig062.jpg)
+TREES.](img/fig062.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 62. Varieties of Sacred
-Trees</span> <span id="fr_242"></span>[2](#fn_242)</span>
+Trees</span> <span id="fr_242"></span>[2](#fn_242.md)</span>
 
 This rudimentary image frequently changes into
 
 <span id="page_120">p. 120</span>
 
 the palm, the pomegranate, the cypress, the vine, etc. ([fig.
-62](#img_fig062)).
+62](#img_fig062).md).
 
 On the monuments of Nimrud and Khorsabad, beginning with the tenth
 century before our era, the
 
 <span id="img_fig063"></span> <span align="CENTER"> [![FIG. 63.
 CONVENTIONAL TREES OF ASSYRIAN BAS-RELIEFS.](tn/fig063.jpg)  
-Click to enlarge](img/fig063.jpg)  
+Click to enlarge](img/fig063.jpg.md)  
   
 </span>
 
@@ -101,14 +101,14 @@ base is concealed
 <span id="page_121">p. 121</span>
 
 behind a bunch of slender loaves, which, in some cases, recall our
-*fleur-de-lis* ([fig. 62e](#img_fig062)), or else it rests upon a pair
+*fleur-de-lis* ([fig. 62e](#img_fig062).md), or else it rests upon a pair
 of fluted horns, which recur again at the top and even in the middle of
-the stem ([fig. 63](#img_fig063)). On both sides branches spread out
-symmetrically, bearing conical fruits ([fig. 63b](#img_fig063)), or
-fan-shaped leaves ([fig. 63c](#img_fig063)), at their extremities.
+the stem ([fig. 63](#img_fig063).md). On both sides branches spread out
+symmetrically, bearing conical fruits ([fig. 63b](#img_fig063).md), or
+fan-shaped leaves ([fig. 63c](#img_fig063).md), at their extremities.
 Sometimes the ends of these branches are connected by straps which form
 a net-work of the most pleasing effect. <span
-id="fr_243"></span>[1](#fn_243)
+id="fr_243"></span>[1](#fn_243.md)
 
 Whatever the ornamental value of this figure may be, it is certain that
 it has, above all, a religious
@@ -116,7 +116,7 @@ it has, above all, a religious
 <span id="img_fig064"></span> <span align="CENTER"> [![FIG. 64. THE
 ACOLYTES OF THE SACRED TREE. (Lajard. Mithra, pl. xlix., fig.
 9.)](tn/fig064.jpg)  
-Click to enlarge](img/fig064.jpg)  
+Click to enlarge](img/fig064.jpg.md)  
   
 </span>
 
@@ -148,7 +148,7 @@ appearance on the oldest
 <span id="img_fig065"></span> <span align="CENTER"> [![FIG. 65. (From
 the Catalogue of the de Clercq collection, vol. i., pl. ii., 15, and pl.
 vii., 61.)](tn/fig065.jpg)  
-Click to enlarge](img/fig065.jpg)  
+Click to enlarge](img/fig065.jpg.md)  
   
 </span>
 
@@ -160,7 +160,7 @@ cylinders of Chaldæa. In the de Clercq collection it is seen on engraved
 stones which are attributed, one to the archaic art of Chaldæa, the
 other to the school that flourished, according to M. J. Menant, in the
 city of Agadi at the time of Sargon I., some four thousand years before
-our era. <span id="fr_244"></span>[1](#fn_244)
+our era. <span id="fr_244"></span>[1](#fn_244.md)
 
 <span id="page__000"></span>
 
@@ -168,7 +168,7 @@ our era. <span id="fr_244"></span>[1](#fn_244)
 
 <span id="img_pl04"></span> <span align="CENTER"> [![Plate
 IV](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 Plate IV  
 </span>
 
@@ -226,7 +226,7 @@ However this may be, it was only at the time of the Assyrian domination
 that it received its definite and so highly artistic shape. While the
 Tree becomes larger and more conspicuous, the two animals, no longer
 embracing or crossing one another, assume a more natural and strictly
-symmetrical attitude (see [pl. iv., fig. a](#img_pl04)).
+symmetrical attitude (see [pl. iv., fig. a](#img_pl04).md).
 
 From Mesopotamia this subject passed on the one hand among the
 Phœnicians and into the whole of Western Asia, on the other among the
@@ -235,22 +235,22 @@ Persians after the fall of Babylon.
 The latter confined themselves to copying the Assyrian type on their
 seals, their jewels, their cloths, and their bas-reliefs, until the end
 of the empire of the Sassanidæ, in the seventh century of our era ([pl.
-iv., figs. c and d](#img_pl04)).
+iv., figs. c and d](#img_pl04).md).
 
 From Persia it passed into India, doubtlessly during the period
 immediately preceding the invasion of Alexander. The presence of the
 Tree between two lions facing one another among the Buddhist sculptures
 of Bharhut is even one of the indications that help to prove the
 influence of Iranian art on the most ancient monuments of Hindu
-architecture ([pl. iv., fig. h](#img_pl04)). <span
-id="fr_245"></span>[1](#fn_245)
+architecture ([pl. iv., fig. h](#img_pl04).md). <span
+id="fr_245"></span>[1](#fn_245.md)
 
 In the bas-reliefs of Kanheri, where the symbols of Buddhism are mingled
 with the reminiscences of an earlier form of worship, the Sacred Tree is
 sculptured as an object of veneration between two elephants facing one
 another, whilst in other bas-reliefs it is transformed, flanked by the
 same two elephants, into the Lotus-flower which forms the Throne of
-Buddha. <span id="fr_246"></span>[2](#fn_246) Lastly, after the
+Buddha. <span id="fr_246"></span>[2](#fn_246.md) Lastly, after the
 extinction of Buddhism in India, it was resumed by the
 
 <span id="page_124">p. 124</span>
@@ -258,21 +258,21 @@ extinction of Buddhism in India, it was resumed by the
 <span class="contnote">\[paragraph continues\]</span> Brahmanical sects,
 which confined themselves to replacing Buddha on his Lotus Throne (still
 between the two elephants), by Parbati, the spouse of Vishnu. <span
-id="fr_247"></span>[1](#fn_247) Moreover, we again meet with the Tree—in
+id="fr_247"></span>[1](#fn_247.md) Moreover, we again meet with the Tree—in
 which Sir George Birdwood does not hesitate to recognize the Tree of
 Life—between two animals facing one another on the cloths, the carpets,
 the vases, and the jewels of contemporary India. <span
-id="fr_248"></span>[2](#fn_248) In this last case, however, it is not
+id="fr_248"></span>[2](#fn_248.md) In this last case, however, it is not
 always easy to discriminate whether we are in the presence of a survival
 of pre-Islamitic symbolism, or of a reaction of Sassanian art introduced
 into India by the Islamic invasions (*cf*. [fig.
-60](mosy10.htm#img_fig060) and [pl. iv., fig. i](#img_pl04)).
+60](mosy10.htm#img_fig060) and [pl. iv., fig. i](#img_pl04).md).
 
 The Phœnicians borrowed it from Mesopotamia
 
 <span id="img_fig066"></span> <span align="CENTER"> [![FIG. 66. STELE
 FROM CYPRUS. (PERROT et CHIPIEZ, Vol. iii., fig. 152.)](tn/fig066.jpg)  
-Click to enlarge](img/fig066.jpg)  
+Click to enlarge](img/fig066.jpg.md)  
   
 </span>
 
@@ -284,7 +284,7 @@ class="smallcaps">Chipiez</span>, Vol. iii., fig. 152.)</span>
 more than a thousand years anterior to our era, developing its
 artificial appearance until all semblance of its arboreal origin has
 well-nigh vanished, to be replaced by an interlacing of spirals and
-strap-like curves ([pl. iv., fig. b](#img_pl04)).
+strap-like curves ([pl. iv., fig. b](#img_pl04).md).
 
 <span id="page_125">p. 125</span>
 
@@ -292,18 +292,18 @@ strap-like curves ([pl. iv., fig. b](#img_pl04)).
 combinations, in which winged sphinxes cling to the spirals, betray a
 singular medley of Egyptian influences, whilst at the same time already
 suggesting the elegant modifications of Greek art. <span
-id="fr_249"></span>[1](#fn_249)
+id="fr_249"></span>[1](#fn_249.md)
 
 This type, as conventional as it is æsthetic, occurs wherever Phœnician
 influence was felt, more especially among the archaic pottery of Corinth
-and of Athens ([pl. iv., fig. f](#img_pl04)). Perhaps it had already
+and of Athens ([pl. iv., fig. f](#img_pl04).md). Perhaps it had already
 penetrated directly into Greece through Asia Minor, for it is seen on an
 amphora, discovered by General de Cesnola at Curium, which MM. Rayet and
 Collignon place among the vases with geometric decorations belonging to
 an
 
 <span id="img_fig067"></span> ![FIG. 67. VASE FROM CURIUM. (CESNOLA.
-Cyprus, chap. i., p. 55.)](img/fig067.jpg)  
+Cyprus, chap. i., p. 55.)](img/fig067.jpg.md)  
 FIG. 67. VASE FROM CURIUM. (CESNOLA. Cyprus, chap. i., p. 55.)
 
 <span class="small"><span class="smallcaps">Fig. 67. Vase From
@@ -314,13 +314,13 @@ Curium.</span>
 earlier time than the period of Phœnician influence. The Tree preserves
 here a more natural appearance; it is placed between two quadrupeds
 standing on their hind legs and overlooking the stem. This brings us
-back to the Chaldæan prototype of our [fig. 65](#img_fig065).
+back to the Chaldæan prototype of our [fig. 65](#img_fig065.md).
 
 If it did not furnish the Greeks with the first idea of the palmette and
 the honeysuckle ornament, it certainly suggested the decoration of
 certain capitals, such as those of the temple of Apollo at Didyme, and
-of Athene Polias at Priene ([pl. iv., fig. e](#img_pl04)). <span
-id="fr_250"></span>[2](#fn_250)
+of Athene Polias at Priene ([pl. iv., fig. e](#img_pl04).md). <span
+id="fr_250"></span>[2](#fn_250.md)
 
 <span id="page_126">p. 126</span>
 
@@ -328,7 +328,7 @@ Greece, however, seems only to have made use of it by way of exception.
 If it penetrated into Italy, and even into Gaul, along with the other
 products of Oriental imagery, it did not become an ordinary motive of
 classic art. We may draw attention to its presence, by the way, in a
-decorative painting at Corneto, <span id="fr_251"></span>[1](#fn_251)
+decorative painting at Corneto, <span id="fr_251"></span>[1](#fn_251.md)
 and on a Gallic coin found near Amiens, and attributed to the
 commencement of our era.
 
@@ -336,7 +336,7 @@ Following in the footsteps of M. Hucher, I had at first taken the object
 engraved on this coin between
 
 <span id="img_fig068"></span> ![FIG. 68. GALLIC COIN. (HUCHER. L’art
-gaulois, vol. ii., p. 36.)](img/fig068.jpg)
+gaulois, vol. ii., p. 36.)](img/fig068.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 68. Gallic
 Coin</span>.  
@@ -346,7 +346,7 @@ Coin</span>.
 two quadrupeds to be a cup or drinking vessel. But my attention has been
 directed to some intaglios of Cyprus, and even of Chaldæa, where the
 tree assumes the form of a staff supporting a semicircle, as in the
-figure [61d](#img_fig061) given above. M. Hucher, with his usual
+figure [61d](#img_fig061.md) given above. M. Hucher, with his usual
 perspicacity, thinks that the subject engraved on this coin belongs "to
 the same train of thought as that which in antiquity brought face to
 face the lions of Mycenæ on the gates of that town, and the lions of the
@@ -359,7 +359,7 @@ discovered
 <span id="page_127">p. 127</span>
 
 near Geneva, which M. Blavignac considers to be of Christian
-origin. <span id="fr_252"></span>[1](#fn_252)
+origin. <span id="fr_252"></span>[1](#fn_252.md)
 
 However, it is by another way that it was introduced into Christian
 symbolism. It was, in fact, taken directly from the Persians by the
@@ -370,45 +370,45 @@ Charles Bayet, "did not invent all the ornamental combinations from
 which they got such pleasing effects; in this instance again they
 borrowed them from the East, and on the monuments of Persia models are
 found from which they drew their inspirations." <span
-id="fr_253"></span>[2](#fn_253) The same writer proves that in the sixth
+id="fr_253"></span>[2](#fn_253.md) The same writer proves that in the sixth
 and seventh centuries the apartments of the rich, and even the treasures
 of the churches, were filled with stuffs which came from Persia, or
 which reproduced the subjects of Persian art. <span
-id="fr_254"></span>[3](#fn_254) It is related that even Justinian had
+id="fr_254"></span>[3](#fn_254.md) It is related that even Justinian had
 employed a Persian architect to decorate several buildings in
-Constantinople. <span id="fr_255"></span>[4](#fn_255) Under these
+Constantinople. <span id="fr_255"></span>[4](#fn_255.md) Under these
 circumstances, how could the Byzantines help adopting one of the most
 pleasing and widely diffused Sassanian themes of decoration, which lent
 itself both to the refinements of ornamentation and to the fancies of
 the symbolical imagination? This is, moreover, the way by which the
 whole fantastic fauna of the East entered Europe, to form the Christian
 symbolic menagery of the Middle Ages. <span
-id="fr_256"></span>[5](#fn_256)
+id="fr_256"></span>[5](#fn_256.md)
 
 <span id="page_128">p. 128</span>
 
 From the Grecian provinces it was introduced into Italy, where it is
 often found in religious architecture between the seventh and the
 eleventh centuries in Sicily, at Ravenna, and especially at Venice (see
-[pl. iv., fig. g](#img_pl04), and also [fig.
-58](mosy10.htm#img_fig058)). Here it was even taken up and reproduced by
+[pl. iv., fig. g](#img_pl04.md), and also [fig.
+58](mosy10.htm#img_fig058).md). Here it was even taken up and reproduced by
 the Renaissance, as may be seen at Santa Maria del Miracoli, at the
-Scuola of San Marco, etc. <span id="fr_257"></span>[1](#fn_257)
+Scuola of San Marco, etc. <span id="fr_257"></span>[1](#fn_257.md)
 
 Finally, it crossed the Alps with Roman art. M. de Caumont was one of
 the first to draw attention to its presence amongst the sculptures of
 the Roman period, in particular on a tympanum of the church at Marigny,
 in the Calvados department. It is here sculptured between two lions,
 which hold the stem with their fore-paws, and bite at the extremities of
-the middle branches ([pl. iv., fig. j](#img_pl04)). <span
-id="fr_258"></span>[2](#fn_258)
+the middle branches ([pl. iv., fig. j](#img_pl04).md). <span
+id="fr_258"></span>[2](#fn_258.md)
 
 What a strange fate for this antique symbol, which, after being used for
 several thousand years in the long since vanished worships of Higher
 Asia, came thus to be stranded, in the western extremity of Europe, on
 the sanctuary of a religion possessing also amongst its oldest
 traditions the reminiscence of the Paradisaical Trees of
-Mesopotamia! <span id="fr_259"></span>[3](#fn_259)
+Mesopotamia! <span id="fr_259"></span>[3](#fn_259.md)
 
 <span id="page__001"></span>
 
@@ -416,7 +416,7 @@ Mesopotamia! <span id="fr_259"></span>[3](#fn_259)
 
 <span id="img_pl05"></span> <span align="CENTER"> [![Plate
 V](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 Plate V  
 </span>
 
@@ -471,19 +471,19 @@ B. The image of the Tree between two human (or semi-human) personages
 invariably facing one another followed at first almost the same route as
 the type whose migrations I have just described. The two themes are
 sometimes combined, as we see, in Assyria itself, on the cylinder
-reproduced above ([fig. 64](#img_fig064)). Modified considerably by
+reproduced above ([fig. 64](#img_fig064).md). Modified considerably by
 Greek art, like all symbols which made use of the human figure ([pl. v.,
-fig. c](#img_pl05), and below, figs. [69](#img_fig069) and
-[83](mosy13.htm#img_fig083)), it remained more faithful to its earliest
-type in Phœnicia ([pl. v., fig. b](#img_pl05)), in Persia ([pl. v., fig.
-d](#img_pl05)), and even in India, where the two Assyrian eagle-headed
-*genii* ([pl. v., fig. a](#img_pl05)), which advance towards the Tree
+fig. c](#img_pl05), and below, figs. [69](#img_fig069.md) and
+[83](mosy13.htm#img_fig083).md), it remained more faithful to its earliest
+type in Phœnicia ([pl. v., fig. b](#img_pl05).md), in Persia ([pl. v., fig.
+d](#img_pl05).md), and even in India, where the two Assyrian eagle-headed
+*genii* ([pl. v., fig. a](#img_pl05).md), which advance towards the Tree
 holding the symbolical Cone, became the two *naga-rajahs*, or
 "snake-kings,"—their heads entwined with *cobras*—who support the stem
-of the Buddhist Lotus ([pl. v., fig. e](#img_pl05)). In the grottoes of
+of the Buddhist Lotus ([pl. v., fig. e](#img_pl05).md). In the grottoes of
 Karli this stem, which serves as a support to the Throne of the Master,
 stands erect both between two of those *naga-rajahs* and two deer facing
-one another ([pl. v., fig. f](#img_pl05)).
+one another ([pl. v., fig. f](#img_pl05).md).
 
 These sculptures date back to a period which cannot be prior to the
 reign of Asoka, *i.e.*, the middle of the third century B.C., nor much
@@ -494,7 +494,7 @@ In one of them the *naga-rajahs* bear a genuine dragon on their
 shoulders; this substitution, together with some differences in the
 costume and the figure of these personages, is almost the only liberty
 which the native art took with the old Buddhist subject, long since
-forgotten in its original home ([pl. v., fig. g](#img_pl05)).
+forgotten in its original home ([pl. v., fig. g](#img_pl05).md).
 
 From India it reached, in company with Buddhism, the island of Java,
 where we meet with it upon those curious medals of temples which the
@@ -506,10 +506,10 @@ natives, although converted centuries ago to
 to wear by way of talismans. It occurs there, amongst other Buddhist
 symbols, between two figures with human bodies and beasts’ or birds’
 heads,—which is surely the Mesopotamian conception in all its integrity
-([pl. v., figs. i and j](#img_pl05)).
+([pl. v., figs. i and j](#img_pl05).md).
 
 It is also found in China on Taoist medals, recalling the coins of the
-Javanese temples. <span id="fr_260"></span>[1](#fn_260) Here, however,
+Javanese temples. <span id="fr_260"></span>[1](#fn_260.md) Here, however,
 the disposition of the Tree, as also the costume of the personages,
 refer to quite a different type, whether it be that we are here in the
 presence of a corruption of Javanese coins, or that these, in imitating
@@ -526,7 +526,7 @@ inhabitants of America, to represent the winds which bring the rain.
 These crosses sometimes assume a tree-like form, and are then composed
 of a stem bearing two horizontal branches, with a bird perched on the
 fork, as in the famous *stele* of Palenque. <span
-id="fr_261"></span>[2](#fn_261) Moreover, this tree is sometimes placed
+id="fr_261"></span>[2](#fn_261.md) Moreover, this tree is sometimes placed
 between two personages facing one another, with a sort of wreath of
 feathers on their heads, who cannot but. recall the monstrous aspect of
 the beings depicted on both sides of the Tree upon the medals of
@@ -534,11 +534,11 @@ Javanese temples. The reproduction which I
 
 <span id="page_131">p. 131</span>
 
-here give ([pl. v., fig. k](#img_pl05)) from the Fejervary Codex <span
-id="fr_262"></span>[1](#fn_262) shows up this parallel all the more,
+here give ([pl. v., fig. k](#img_pl05).md) from the Fejervary Codex <span
+id="fr_262"></span>[1](#fn_262.md) shows up this parallel all the more,
 since it is placed close to medals of Java and underneath a Chaldæan
 cylinder which might be almost made the prototype of all these images
-([pl. v., fig. h](#img_pl05)).—We have here certainly fresh evidence in
+([pl. v., fig. h](#img_pl05).md).—We have here certainly fresh evidence in
 favour of the theory which already relies upon so many symbolical and
 ornamental similarities in order to discover, in the pre-Columbian
 civilization of America, the traces of intercourse with Japan, China, or
@@ -548,7 +548,7 @@ Finally, by a singular case of atavism, this subject, which already
 adorned the Chaldæan cylinders of five or six thousand years ago,
 reappears in our own times in the decoration of the copper vases or
 plates, known as *mosouli*, which are still manufactured in Syria, on
-the banks of the Euphrates and the Tigris ([pl. v., fig. l](#img_pl05)).
+the banks of the Euphrates and the Tigris ([pl. v., fig. l](#img_pl05).md).
 There is still the palm-tree between its two acolytes,—henceforth
 dressed as *fellahin*,—who are engaged in plucking the two large fruits,
 or rather conventional *clusters*, suspended side by side beneath the
@@ -557,8 +557,8 @@ crown.
 On the other hand, it was quite adapted to furnish the first Christian
 artists with a model of the scene of the Temptation; all that was needed
 was to give a different sex to the two acolytes ([pl. v., fig.
-m](#img_pl05)). Already in the art of the Catacombs it frequently occurs
-with this application. <span id="fr_263"></span>[2](#fn_263)
+m](#img_pl05).md). Already in the art of the Catacombs it frequently occurs
+with this application. <span id="fr_263"></span>[2](#fn_263.md)
 
 The cabinet of antiquities at the Bibliothèque Nationale of Paris
 possesses a cameo which has likewise been held to represent the scene of
@@ -568,14 +568,14 @@ Athene under the sacred olive-tree,
 <span id="page_132">p. 132</span>
 
 in the presence of the serpent Erichthonios. <span
-id="fr_264"></span>[1](#fn_264) What makes the case very interesting is,
+id="fr_264"></span>[1](#fn_264.md) What makes the case very interesting is,
 not only that we have here engraved upon the stone the Hebrew text of
 Genesis III. 6, but that we also find at work those touching-up
 processes which were sometimes made use of in order to
 
 <span id="img_fig069"></span> <span align="CENTER"> [![FIG. 69. ANTIQUE
 CAMEO. (BABELON. Cabinet des Médailles, pl. xxvi.)](tn/fig069.jpg)  
-Click to enlarge](img/fig069.jpg)  
+Click to enlarge](img/fig069.jpg.md)  
   
 </span>
 
@@ -610,10 +610,10 @@ of the two acolytes, often also in the form of the Tree and the
 arrangement of the branches. Then we have the presence, often
 unaccountable, of a pair of volutes between which the stem rises. These
 two spirals sometimes represent branches, or petals, of flowers ([pl.
-iv.](#img_pl04), figs. *a*, *b*, *c*, *e*, *g*, *i*, *j*,; [pl.
-v.](#img_pl05), figs. *a*, *d*, *h*, *i*, *l*), sometimes curved horns
-([figs. 63](#img_fig063), [64](#img_fig064); [pl. iv.](#img_pl04), figs.
-*a*, *b*, *e*, *f*, *g*, *i*, *j*; [pl. v.](#img_pl05), figs. *a*, *b*,
+iv.](#img_pl04.md), figs. *a*, *b*, *c*, *e*, *g*, *i*, *j*,; [pl.
+v.](#img_pl05), figs. *a*, *d*, *h*, *i*, *l*.md), sometimes curved horns
+([figs. 63](#img_fig063), [64](#img_fig064); [pl. iv.](#img_pl04.md), figs.
+*a*, *b*, *e*, *f*, *g*, *i*, *j*; [pl. v.](#img_pl05.md), figs. *a*, *b*,
 *f*, *i*, *k*). We may, perhaps, attribute their origin either to the
 conventional representation of the *clusters* which adorn the image of
 the Chaldæan Palm-tree, or to the introduction of the horns which were
@@ -622,15 +622,15 @@ amongst the Assyrians a distinguishing sign of the divinity.
 Finally, a detail which seems to be equally characteristic of the Sacred
 Tree in the most different countries is the appearance of serpents,
 which sometimes twine themselves round the stem ([figs.
-60](mosy10.htm#img_fig060), [69](#img_fig069),
-[83](mosy13.htm#img_fig083); [pl. iv.](#img_pl04), fig. d; [pl.
-v.](#img_pl05), figs. *c*, *e*, *f*, *g*, *m*), and sometimes figure
+60](mosy10.htm#img_fig060), [69](#img_fig069.md),
+[83](mosy13.htm#img_fig083); [pl. iv.](#img_pl04.md), fig. d; [pl.
+v.](#img_pl05), figs. *c*, *e*, *f*, *g*, *m*.md), and sometimes figure
 merely in the
 
 <span id="page_134">p. 134</span>
 
-background of the image ([fig. 59](mosy10.htm#img_fig059), and [pl.
-v.](#img_pl05), fig. *h*).
+background of the image ([fig. 59](mosy10.htm#img_fig059.md), and [pl.
+v.](#img_pl05), fig. *h*.md).
 
 It must be observed that it is not the identity of the species of plants
 which constitutes the essential feature of the symbol through all its
@@ -641,7 +641,7 @@ Each nation seems, indeed, to have introduced into this symbolical
 combination the tree which it deemed the most valuable. Thus we see
 depicted in turn the date-palm in Chaldæa, the vine or a cone-bearing
 plant in Assyria, the lotus in Phœnicia, and the fig-tree in
-India. <span id="fr_265"></span>[1](#fn_265)
+India. <span id="fr_265"></span>[1](#fn_265.md)
 
 Moreover, following in the footsteps of the Assyrians, who had inserted
 into this Tree features which were quite extraneous to the vegetable
@@ -651,7 +651,7 @@ The Phrygians placed the representation of a pillar, a *phallus*, or an
 urn, between winged sphinxes,
 
 <span id="img_fig070"></span> ![FIG. 70. TOMB AT KUMBET. (Perrot et
-Chipiez. Histoire de l’Art, vol. V., fig. 84.)](img/fig070.jpg)
+Chipiez. Histoire de l’Art, vol. V., fig. 84.)](img/fig070.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 70. Tomb At
 Kumbet.</span>  
@@ -666,13 +666,13 @@ observes: "Though one element is substituted for another,
 <span id="page_135">p. 135</span>
 
 the group preserves none the less the same character." <span
-id="fr_266"></span>[1](#fn_266)
+id="fr_266"></span>[1](#fn_266.md)
 
 On a cylinder, which M. Menant considers of
 
 <span id="img_fig071"></span> ![FIG. 71. HITTITE CYLINDER. (De Clercq
 collection, vol. i. of Catalogue, pl. xxviii., No.
-289.)](img/fig071.jpg)
+289.)](img/fig071.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 71. Hittite
 Cylinder</span>.  
@@ -683,11 +683,11 @@ Cylinder</span>.
 the arborescent stalk becomes a Winged Globe.
 
 The Pelopides of Mycenæ, and, later, the Persians, put in its stead a
-pyre or fire-altar. <span id="fr_267"></span>[2](#fn_267)
+pyre or fire-altar. <span id="fr_267"></span>[2](#fn_267.md)
 
 <span id="img_fig072"></span> ![FIG. 72. PERSIAN CYLINDER. (CH.
 LENORMANT, in the Mélanges d’archéologie, vol. iii., pp. 130 and
-131.)](img/fig072.jpg)
+131.)](img/fig072.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 72. Persian
 Cylinder.</span>  
@@ -697,7 +697,7 @@ d’archéologie*, vol. iii., pp. 130 and 131.)</span>
 <span class="contnote">\[paragraph continues\]</span> The group which
 formerly surmounted the celebrated gate of Mycenæ certainly represented
 an object of this nature between lions facing one another ([fig.
-73](#img_fig073)).
+73](#img_fig073).md).
 
 The Buddhists introduced their principal "jewels" into the image, as may
 be seen in the following reproduction of a small portable altar, where
@@ -709,18 +709,18 @@ represents perhaps the
 astronomical emblem of the nine planets, the
 
 <span id="img_fig073"></span> ![FIG. 73. GATE OF MYCENÆ. (Schliemann.
-Mycènes.)](img/fig073.jpg)
+Mycènes.)](img/fig073.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 73. Gate of
 Mycenæ.</span>  
 (<span class="smallcaps">Schliemann</span>. *Mycènes*.)</span>
 
 *nava-ratna*, borrowed by Buddhist symbolism from the Hindus ([fig.
-74](#img_fig074)).
+74](#img_fig074).md).
 
 <span id="img_fig074"></span> ![FIG. 74. TIBETAN SYMBOL. (HODGSON.
 Journ. of the Roy. Asiatic Soc., vol. xviii., 1st series, pl. i., No.
-18.)](img/fig074.jpg)
+18.)](img/fig074.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 74. Tibetan
 Symbol</span>.  
@@ -740,13 +740,13 @@ eclipses,
 <span id="page_137">p. 137</span>
 
 or the vain efforts of falsehood to swallow up truth. <span
-id="fr_268"></span>[1](#fn_268)
+id="fr_268"></span>[1](#fn_268.md)
 
 We have seen above that the Greeks, in imitation of the Phœnicians,
 represented between
 
 <span id="img_fig075a"></span> ![FIG. 75a. BAS-RELIEF ON A SARCOPHAGUS.
-(MILLIN. Voyage dans le Midi, pi. lxv.)](img/fig075a.jpg)
+(MILLIN. Voyage dans le Midi, pi. lxv.)](img/fig075a.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig.</span> 75*a*. <span
 class="smallcaps">Bas-Relief on a Sarcophagus.</span>  
@@ -754,7 +754,7 @@ class="smallcaps">Bas-Relief on a Sarcophagus.</span>
 lxv.)</span>
 
 <span id="img_fig075b"></span> ![FIG. 75b. CHRISTIAN SCULPTURE OF THE
-THIRD CENTURY. (ROLLER. Catacombes, vol. i., p. 53.)](img/fig075b.jpg)
+THIRD CENTURY. (ROLLER. Catacombes, vol. i., p. 53.)](img/fig075b.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig.</span> 75*b*. <span
 class="smallcaps">Christian Sculpture of the Third Century.</span>  
@@ -771,9 +771,9 @@ emblems,—not only of the Cross, which is
 
 also called "a Tree of Life," but also of the Chrism, the *labarum*, the
 *rouelle*, the Crown, the bunch of Grapes, the eucharistic Cup, and so
-forth. <span id="fr_269"></span>[1](#fn_269) Sometimes these figures are
-lambs, and sometimes peacocks, or doves (fig. 75, [a](#img_fig075a) and
-[b](#img_fig075b)).
+forth. <span id="fr_269"></span>[1](#fn_269.md) Sometimes these figures are
+lambs, and sometimes peacocks, or doves (fig. 75, [a](#img_fig075a.md) and
+[b](#img_fig075b).md).
 
 Among the wooden ornaments of Romoaldus’ episcopal throne in San Sabino
 at Canossa, we even find the mystic candelabrum thus sculptured between
@@ -781,7 +781,7 @@ two griffins:
 
 <span id="img_fig076"></span> ![FIG. 76. WOODEN SCULPTURE AT CANOSSA.
 (H. W. SCHULTZ. Kunst des Mittelalters in Italien, pl. vi., fig.
-1.)](img/fig076.jpg)
+1.)](img/fig076.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 76. Wooden Sculpture at
 Canossa.</span>  
@@ -797,7 +797,7 @@ first lions drawn on escutcheons were certainly copied from Persian and
 Arabian tissues. These tissues themselves dated back, from one imitation
 to another, to the models from which, perhaps, over a thousand years
 before Christ, the author of the bas-reliefs of Mycenæ, drew his
-inspiration." <span id="fr_270"></span>[2](#fn_270)
+inspiration." <span id="fr_270"></span>[2](#fn_270.md)
 
 The same tendency is still at work. When, more than half-a-century ago,
 the *Royal Institute of British Architects* wished to have *armes
@@ -810,7 +810,7 @@ British lions facing each other.
 
 <span id="img_fig077"></span> <span align="CENTER"> [![FIG. 77. SEAL OF
 THE R. Inst. of British Architects.](tn/fig077.jpg)  
-Click to enlarge](img/fig077.jpg)  
+Click to enlarge](img/fig077.jpg.md)  
   
 </span>
 
@@ -837,13 +837,13 @@ to account for the combination.
 
 ### Footnotes
 
-<span id="fn_240"></span>[118:1](mosy11.htm#fr_240) <span
+<span id="fn_240"></span>[118:1](mosy11.htm#fr_240.md) <span
 class="smallcaps">Joachin Menant</span>. *Les pierres gravées de la
 Haute-Asie*. Paris, 1883–86, vol. i., figs. 41, 43, 71, 86, 704, 115,
 120, 121, <span id="page_119">p. 119</span> and 142; vol. ii., figs. 11,
 13, 17, 18, 19, 36, 41, 54 to 61, 85, 110, 208, 213, etc.
 
-<span id="fn_241"></span>[119:1](mosy11.htm#fr_241) *a* is taken from a
+<span id="fn_241"></span>[119:1](mosy11.htm#fr_241.md) *a* is taken from a
 Chaldæan cylinder (<span class="smallcaps">J. Menant</span>, *Pierres
 gravées*, vol. i., fig. 71); *b*, from a cylinder of Nineveh (<span
 class="smallcaps">Layard</span>, *Monuments of Nineveh*, 2nd series, pl.
@@ -853,7 +853,7 @@ Assyrian cylinder (<span class="smallcaps">Perrot</span> et <span
 class="smallcaps">Chipiez</span>, *Histoire de l’art dans l’antiquité*,
 vol. ii., fig. 342).
 
-<span id="fn_242"></span>[119:2](mosy11.htm#fr_242) *a* (<span
+<span id="fn_242"></span>[119:2](mosy11.htm#fr_242.md) *a* (<span
 class="smallcaps">Menant</span>, *Pierres gravées*, vol. i., fig. 86);
 *b* (<span class="smallcaps">Lajard</span>, Mithra, pl. xxxix., fig. 8);
 *c* (<span class="smallcaps">Perrot</span> et <span
@@ -861,7 +861,7 @@ class="smallcaps">Chipiez</span>, *Histoire de l’art*, vol. ii., fig.
 235); *d* (Seal of Sennacherib, <span class="smallcaps">Menant</span>,
 *Pierres gravées*, vol. ii., fig. 85).
 
-<span id="fn_243"></span>[121:1](mosy11.htm#fr_243) <span
+<span id="fn_243"></span>[121:1](mosy11.htm#fr_243.md) <span
 class="smallcaps">Layard</span>. *Monuments of Nineveh*, 1st series, pl.
 6, 7, 8, 9, 25, 39, 44.—<span class="smallcaps">G. Rawlinson</span>.
 *The Five Great Monarchies of the Ancient Eastern World*. London,
@@ -869,76 +869,76 @@ class="smallcaps">Layard</span>. *Monuments of Nineveh*, 1st series, pl.
 appended by Félix Lajard to his *Introduction à l’étude du culte de
 Mithra*.
 
-<span id="fn_244"></span>[122:1](mosy11.htm#fr_244) The object engraved
-between the two monsters in fig. [65a](#img_fig065) is, according to the
+<span id="fn_244"></span>[122:1](mosy11.htm#fr_244.md) The object engraved
+between the two monsters in fig. [65a](#img_fig065.md) is, according to the
 Catalogue of the de Clercq collection, a candelabrum. I think that we
 must rather see in this a tree of the kind reproduced above (fig.
-[62c](#img_fig062)), from a bas-relief in the Louvre. Moreover, the
+[62c](#img_fig062).md), from a bas-relief in the Louvre. Moreover, the
 Tree, the Candelabrum, and the Column, are images which merge into one
-another with the greatest ease (*cf*. below, fig. [76](#img_fig076)).
+another with the greatest ease (*cf*. below, fig. [76](#img_fig076).md).
 The two objects have not only a resemblance of form, but also of idea,
 on which matter I cannot do better than refer the reader to the chapter
 entitled The <span id="page_123">p. 123</span> *Jewel Bearing Tree* in
 Mr. W. R. Lethaby's recent work, *Architecture, Mysticism, and Myth*.
 
-<span id="fn_245"></span>[123:1](mosy11.htm#fr_245) <span
+<span id="fn_245"></span>[123:1](mosy11.htm#fr_245.md) <span
 class="smallcaps">A. Cunningham</span>. *The Ships of Bharhut*. London,
 1879, pl. vi. and vii.
 
-<span id="fn_246"></span>[123:2](mosy11.htm#fr_246) <span
+<span id="fn_246"></span>[123:2](mosy11.htm#fr_246.md) <span
 class="smallcaps">Fergusson</span> and <span
 class="smallcaps">Burgess</span>. *Cave Temples of India*. London, 1880,
 p. 350.
 
-<span id="fn_247"></span>[124:1](mosy11.htm#fr_247) <span
+<span id="fn_247"></span>[124:1](mosy11.htm#fr_247.md) <span
 class="smallcaps">Moor</span>. *Hindu Pantheon*, pl. 30.
 
-<span id="fn_248"></span>[124:2](mosy11.htm#fr_248) <span
+<span id="fn_248"></span>[124:2](mosy11.htm#fr_248.md) <span
 class="smallcaps">Sir George Birdwood</span>. *Industrial Arts of
 India*. London, 1880, p. 350.
 
-<span id="fn_249"></span>[125:1](mosy11.htm#fr_249) <span
+<span id="fn_249"></span>[125:1](mosy11.htm#fr_249.md) <span
 class="smallcaps">Sara Yorke Stevenson</span>. *On certain Symbols of
 some Potsherds from Daphnæ and Naucratis*. Philadelphia, 1892, p. 13 *et
 seq.*
 
-<span id="fn_250"></span>[125:2](mosy11.htm#fr_250) <span
+<span id="fn_250"></span>[125:2](mosy11.htm#fr_250.md) <span
 class="smallcaps">O. Rayet</span> and <span class="smallcaps">A.
 Thomas</span>. *Milet et le golfe Latinique*. Paris, 1877, pl. xvii.,
 No. 9, and pl. xlix., No. 5.
 
-<span id="fn_251"></span>[126:1](mosy11.htm#fr_251) <span
+<span id="fn_251"></span>[126:1](mosy11.htm#fr_251.md) <span
 class="smallcaps">J. Martha</span>. *Archéologie Etrusque et Romaine*.
 Paris, fig. 8.
 
-<span id="fn_252"></span>[127:1](mosy11.htm#fr_252) <span
+<span id="fn_252"></span>[127:1](mosy11.htm#fr_252.md) <span
 class="smallcaps">J. D. Blavignac</span>. Histoire de l’architecture
 sacrée à Genève. Paris, Atlas, pl. ii., fig. 2.
 
-<span id="fn_253"></span>[127:2](mosy11.htm#fr_253) *L’Art Byzantin*.
+<span id="fn_253"></span>[127:2](mosy11.htm#fr_253.md) *L’Art Byzantin*.
 Paris, p. 60.
 
-<span id="fn_254"></span>[127:3](mosy11.htm#fr_254) *Id*., chap. iii.
+<span id="fn_254"></span>[127:3](mosy11.htm#fr_254.md) *Id*., chap. iii.
 
-<span id="fn_255"></span>[127:4](mosy11.htm#fr_255) <span
+<span id="fn_255"></span>[127:4](mosy11.htm#fr_255.md) <span
 class="smallcaps">Batissier</span>, quoted by <span class="smallcaps">E.
 Soldi</span>. *Les Arts méconnus*. Paris, 1881, p. 252.
 
-<span id="fn_256"></span>[127:5](mosy11.htm#fr_256) The Tree between two
+<span id="fn_256"></span>[127:5](mosy11.htm#fr_256.md) The Tree between two
 lions facing one another appears already on an ivory casket which Millin
 attributes to an early period of the Byzantine Empire, and which is now
 in the <span id="page_128">p. 128</span> cathedral of Sens. (*Voyage
 dans les Départements du Midi*. Paris, 1807, pl. x. of Atlas.)
 
-<span id="fn_257"></span>[128:1](mosy11.htm#fr_257) <span
+<span id="fn_257"></span>[128:1](mosy11.htm#fr_257.md) <span
 class="smallcaps">Bachelin Deflorenne</span>. *L’Art, la Décoration et
 l’Ornement des Tissus*. Paris, pl. iv. and xiii.
 
-<span id="fn_258"></span>[128:2](mosy11.htm#fr_258) It is generally the
+<span id="fn_258"></span>[128:2](mosy11.htm#fr_258.md) It is generally the
 griffin which is chosen in preference, perhaps because it symbolizes
 vigilance.
 
-<span id="fn_259"></span>[128:3](mosy11.htm#fr_259) The Arabs adopted it
+<span id="fn_259"></span>[128:3](mosy11.htm#fr_259.md) The Arabs adopted it
 in their turn, when they had overthrown the Sassanian dynasty, but
 divesting it of all religious signification. Through their agency it
 reached Europe towards the beginning of the Middle Ages, together with
@@ -951,54 +951,54 @@ partition work, which belongs to the church of Saint-Martin-en-Valais,
 and which is said to have been sent to Charlemagne by the Caliph Haroun
 Al Rashid.
 
-<span id="fn_260"></span>[130:1](mosy11.htm#fr_260) Specimens of these
+<span id="fn_260"></span>[130:1](mosy11.htm#fr_260.md) Specimens of these
 medals are to be found in the department of medals in the Bibliothèque
 Nationale at Paris.
 
-<span id="fn_261"></span>[130:2](mosy11.htm#fr_261) A bird perched on
+<span id="fn_261"></span>[130:2](mosy11.htm#fr_261.md) A bird perched on
 the fork of the Sacred Tree is likewise seen on certain Persian
 cylinders. (<span class="smallcaps">Lajard</span>. *Mithra*, pl.
 LIV<sup>c</sup> fig. 6.)
 
-<span id="fn_262"></span>[131:1](mosy11.htm#fr_262) <span
+<span id="fn_262"></span>[131:1](mosy11.htm#fr_262.md) <span
 class="smallcaps">Cyrus Thomas</span>. *Notes on certain Maya and
 Mexican Manuscripts*, in the publications of the *Bureau of Ethnology*.
 Washington, 1881–82, vol. iii., p. 32.
 
-<span id="fn_263"></span>[131:2](mosy11.htm#fr_263) <span
+<span id="fn_263"></span>[131:2](mosy11.htm#fr_263.md) <span
 class="smallcaps">Garucci</span>. *Storia del’ Arte christiana*, tab.
 xxiii., 1.
 
-<span id="fn_264"></span>[132:1](mosy11.htm#fr_264) <span
+<span id="fn_264"></span>[132:1](mosy11.htm#fr_264.md) <span
 class="smallcaps">Babelon</span>. Le Cabinet des Médailles d la
 Bibliothèque nationale. Paris, 1888, p. 79.
 
-<span id="fn_265"></span>[134:1](mosy11.htm#fr_265) M. Didron observes,
+<span id="fn_265"></span>[134:1](mosy11.htm#fr_265.md) M. Didron observes,
 in his *Manuel d’iconographie chrétienne* (Paris, 1845, p. 80), that
 each Christian nation chose the plant which it preferred to represent
 the Tree of Temptation; the fig and orange-trees in Greece, the vine in
 Burgundy and Champagne, the cherry-tree in the Isle of France, and the
 apple-tree in Picardy.
 
-<span id="fn_266"></span>[135:1](mosy11.htm#fr_266) <span
+<span id="fn_266"></span>[135:1](mosy11.htm#fr_266.md) <span
 class="smallcaps">Perrot</span> et <span
 class="smallcaps">Chipiez</span>. *Op. cit.*, vol. v., p. 220.
 
-<span id="fn_267"></span>[135:2](mosy11.htm#fr_267) See a painted vase
+<span id="fn_267"></span>[135:2](mosy11.htm#fr_267.md) See a painted vase
 in the Blacas collection. *(Mém. de l’Acad. des inscr. et bel.-lett.*,
 vol. xvii., pl. viii.)
 
-<span id="fn_268"></span>[137:1](mosy11.htm#fr_268) *Les fêtes annuelles
+<span id="fn_268"></span>[137:1](mosy11.htm#fr_268.md) *Les fêtes annuelles
 à Emoui*, in vol. xi. of the *Annales du Musée Guimet*. Paris, 1886, p.
 369.
 
-<span id="fn_269"></span>[138:1](mosy11.htm#fr_269) <span
+<span id="fn_269"></span>[138:1](mosy11.htm#fr_269.md) <span
 class="smallcaps">Roller</span>. *Catacombes*, vol. i., pl. xi., figs.
 3, 4, 29 to 34, etc.
 
-<span id="fn_270"></span>[138:2](mosy11.htm#fr_270) *Mélanges
+<span id="fn_270"></span>[138:2](mosy11.htm#fr_270.md) *Mélanges
 d’archéologie*, by MM. Martin and Cahier, vol. iii., p. 138.
 
 ------------------------------------------------------------------------
 
-[Next: II. Signification of the Sacred Tree Amongst the Semites](mosy12)
+[Next: II. Signification of the Sacred Tree Amongst the Semites](mosy12.md)

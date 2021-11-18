@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa15)  [Next](psa17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa15)  [Next](psa17.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ calves with them, they all came home, laughing and playing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI](psa17)
+[Next: Chapter XVI](psa17.md)

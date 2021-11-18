@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim41)  [Next](sim43) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim41)  [Next](sim43.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ strong it is, we'll try to bring that tree to life that is lying over
 there on the ground."
 
 In this bird medicine was a bit of the flesh of each of the birds. <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 When making the medicine, the birds caused a corn stalk to come up out
 of the ground. They broke the stalk and in it was blood. They put some
@@ -127,9 +127,9 @@ it gets, this water he uses to try the medicine in.
 
 ### Footnotes
 
-<span id="fn_5"></span>[226:1](sim42.htm#fr_5) They were birds of the
+<span id="fn_5"></span>[226:1](sim42.htm#fr_5.md) They were birds of the
 ancient time, not such birds as live now.
 
 ------------------------------------------------------------------------
 
-[Next: Hagowane and his Ten Sons](sim43)
+[Next: Hagowane and his Ten Sons](sim43.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi03)  [Next](hpi05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi03)  [Next](hpi05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,9 +24,9 @@ Textual Heritage
 
 |      |                            |                |      |       |     |            |      |          |
 |------|----------------------------|----------------|------|-------|-----|------------|------|----------|
-| Page | [5](hpi05.htm#page_5);     | 3<sup>rd</sup> | last | line: | As  | last word, | read | *and*.   |
-| »    | [144](hpi17.htm#page_144); | 8<sup>th</sup> | »    | »:    | For | *abone*,   | read | *above*. |
-| »    | [186](hpi23.htm#page_186); | 2<sup>nd</sup> | »    | »:    | »   | *bestows*  | »    | *pays*.  |
+| Page | [5](hpi05.htm#page_5.md);     | 3<sup>rd</sup> | last | line: | As  | last word, | read | *and*.   |
+| »    | [144](hpi17.htm#page_144.md); | 8<sup>th</sup> | »    | »:    | For | *abone*,   | read | *above*. |
+| »    | [186](hpi23.htm#page_186.md); | 2<sup>nd</sup> | »    | »:    | »   | *bestows*  | »    | *pays*.  |
 
 </div>
 
@@ -34,4 +34,4 @@ Textual Heritage
 
 ------------------------------------------------------------------------
 
-[Next: 1. The Theatre](hpi05)
+[Next: 1. The Theatre](hpi05.md)

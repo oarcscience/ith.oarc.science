@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ people is of a different origin, so with us to be of the sacerdotal
 dignity, is an indication of the splendor of a family. Now, I am not
 only sprung from a sacerdotal family in general, but from the first of
 the twenty-four <span
-id="EndNote Auto.1a"></span>[(1)](#EndNote%20Auto.1b) courses; and as
+id="EndNote Auto.1a"></span>[(1)](#EndNote%20Auto.1b.md) courses; and as
 among us there is not only a considerable difference between one family
 of each course and another, I am of the chief family of that first
 course also; nay, further, by my mother I am of the royal blood; for the
@@ -32,7 +32,7 @@ Matthias in the first year of the reign of Caius Caesar. I have three
 sons: Hyrcanus, the eldest, was born in the fourth year of the reign of
 Vespasian, as was Justus born in the seventh, and Agrippa in the ninth.
 Thus have I set down the genealog of my family as I have found it
-described <span id="EndNote Auto.2a"></span>[(2)](#EndNote%20Auto.2b) in
+described <span id="EndNote Auto.2a"></span>[(2)](#EndNote%20Auto.2b.md) in
 the public records, and so bid adieu to those who calumniate me \[as of
 a lower original\].
 
@@ -59,7 +59,7 @@ and used no other clothing than grew upon trees, and had no other food
 than what grew of its own accord, and bathed himself in cold water
 frequently, both by night and by day, in order to preserve his chastity,
 I imitated him in those things, and continued with him three years.
-<span id="EndNote Auto.3a"></span>[(3)](#EndNote%20Auto.3b) So when I
+<span id="EndNote Auto.3a"></span>[(3)](#EndNote%20Auto.3b.md) So when I
 had accomplished my desires, I returned back to the city, being now
 nineteen years old, and began to conduct myself according to the rules
 of the sect of the Pharisees, which is of kin to the sect of the Stoics,
@@ -74,11 +74,11 @@ sent to Rome to plead their cause before Caesar. These I was desirous to
 procure deliverance for, and that especially because I was informed that
 they were not unmindful of piety towards God, even under their
 afflictions, but supported themselves with figs and nuts. <span
-id="EndNote Auto.4a"></span>[(4)](#EndNote%20Auto.4b) Accordingly I came
+id="EndNote Auto.4a"></span>[(4)](#EndNote%20Auto.4b.md) Accordingly I came
 to Rome, though it were through a great number of hazards by sea; for as
 our ship was drowned in the Adriatic Sea, we that were in it, being
 about six hundred in number, <span
-id="EndNote Auto.5a"></span>[(5)](#EndNote%20Auto.5b) swam for our lives
+id="EndNote Auto.5a"></span>[(5)](#EndNote%20Auto.5b.md) swam for our lives
 all the night; when, upon the first appearance of the day, and upon our
 sight of a ship of Cyrene, I and some others, eighty in all, by God's
 providence, prevented the rest, and were taken up into the other ship.
@@ -132,11 +132,11 @@ any innovation or revolt from the Romans, nor had they given any marks
 of hatred or treacherous designs towards the Syrians. But what was done
 by the inhabitants of Scythopolis was the most impious and most highly
 criminal of all; <span
-id="EndNote Auto.6a"></span>[(6)](#EndNote%20Auto.6b) for when the Jews
+id="EndNote Auto.6a"></span>[(6)](#EndNote%20Auto.6b.md) for when the Jews
 their enemies came upon them from without, they forced the Jews that
 were among them to bear arms against their own countrymen, which it is
 unlawful for us to do; <span
-id="EndNote Auto.7a"></span>[(7)](#EndNote%20Auto.7b) and when, by their
+id="EndNote Auto.7a"></span>[(7)](#EndNote%20Auto.7b.md) and when, by their
 assistance, they had joined battle with those who attacked them, and had
 beaten them, after that victory they forgot the assurances they had
 given these their fellow citizens and confederates, and slew them all,
@@ -180,7 +180,7 @@ as well as all his companions, Herod the son of Miarus, and Herod the
 son of Gamalus, and Compsus the son of Compsus; (for as to Compsus's
 brother Crispus, who had once been governor of the city under the great
 king \[Agrippa\] <span
-id="EndNote Auto.8a"></span>[(8)](#EndNote%20Auto.8b) he was beyond
+id="EndNote Auto.8a"></span>[(8)](#EndNote%20Auto.8b.md) he was beyond
 Jordan in his own possessions;) all these persons before named gave
 their advice, that the city should then continue in their allegiance to
 the Romans and to the king. But Pistus, who was guided by his son
@@ -295,7 +295,7 @@ who, not at all suspecting what would come, sent them accordingly. So
 these seventy went down to Caesarea, together with the twelve
 ambassadors; where Varus met them with the king's forces, and slew them
 all, together with the \[twelve\] <span
-id="EndNote Auto.9a"></span>[(9)](#EndNote%20Auto.9b) ambassadors, and
+id="EndNote Auto.9a"></span>[(9)](#EndNote%20Auto.9b.md) ambassadors, and
 made an expedition against the Jews of Ecbatana. But one there was of
 the seventy who escaped, and made haste to inform the Jews of their
 coming; upon which they took their arms, with their wives and children,
@@ -424,7 +424,7 @@ and Gadara once, and when I had subdued and taken John, who often laid
 treacherous snares for me, I did not punish \[with death\] either him or
 any of the people forenamed, as the progress of this discourse will
 show. And on this account, I suppose, it was that God, <span
-id="EndNote Auto.10a"></span>[(10)](#EndNote%20Auto.10b) who is never
+id="EndNote Auto.10a"></span>[(10)](#EndNote%20Auto.10b.md) who is never
 unacquainted with those that do as they ought to do, delivered me still
 out of the hands of these my enemies, and afterwards preserved me when I
 fell into those many dangers which I shall relate hereafter.
@@ -572,7 +572,7 @@ Trachonius, bringing their horses and their arms, and carrying with them
 their money also; and when the Jews would force them to be circumcised,
 if they would stay among them, I would not permit them to have any force
 put upon them, <span
-id="EndNote Auto.11a"></span>[(11)](#EndNote%20Auto.11b) but said to
+id="EndNote Auto.11a"></span>[(11)](#EndNote%20Auto.11b.md) but said to
 them, "Every one ought to worship God according to his own inclinations,
 and not to be constrained by force; and that these men, who had fled to
 us for protection, ought not to be so treated as to repent of their
@@ -653,7 +653,7 @@ Tarichese, with four mules' loading of garments, and other furniture;
 and the weight of the silver they brought was not small, and there were
 five hundred pieces of gold also. Now I had a mind to preserve these
 spoils for Ptolemy, who was my countryman; and it is prohibited <span
-id="EndNote Auto.12a"></span>[(12)](#EndNote%20Auto.12b) by our laws
+id="EndNote Auto.12a"></span>[(12)](#EndNote%20Auto.12b.md) by our laws
 even to spoil our enemies; so I said to those that brought these spoils,
 that they ought to be kept, in order to rebuild the walls of Jerusalem
 with them when they came to be sold. But the young men took it very ill
@@ -770,7 +770,7 @@ pretenses as were agreeable to their own inclinations, and were
 prevailed on by them. But when I was informed of this, I instructed the
 multitude again, that those who fled to them for refuge ought not to be
 persecuted: I also laughed at the allegation about witchcraft, <span
-id="EndNote Auto.13a"></span>[(13)](#EndNote%20Auto.13b) and told them
+id="EndNote Auto.13a"></span>[(13)](#EndNote%20Auto.13b.md) and told them
 that the Romans would not maintain so many ten thousand soldiers, if
 they could overcome their enemies by wizards. Upon my saying this, the
 people assented for a while; but they returned again afterwards, as
@@ -829,7 +829,7 @@ stratagem; so I immediately placed those my friends of Tarichee, on whom
 I could best confide, at the gates, to watch those very carefully who
 went out at those gates: I also called to me the heads of families, and
 bade every one of them to seize upon a ship <span
-id="EndNote Auto.14a"></span>[(14)](#EndNote%20Auto.14b) to go on board
+id="EndNote Auto.14a"></span>[(14)](#EndNote%20Auto.14b.md) to go on board
 it, and to take a master with them, and follow him to the city of
 Tiberias. I also myself went on board one of those ships, with my
 friends, and the seven armed men already mentioned, and sailed for
@@ -937,7 +937,7 @@ Jamnia, and Meroth, and Achabare. I also fortified, in the Lower
 Galilee, the cities Tarichee, Tiberias, Sepphoris, and the villages, the
 cave of Arbela, Bersobe, Selamin, Jotapata, Capharecho, and Sigo, and
 Japha, and Mount Tabor. <span
-id="EndNote Auto.15a"></span>[(15)](#EndNote%20Auto.15b) I also laid up
+id="EndNote Auto.15a"></span>[(15)](#EndNote%20Auto.15b.md) I also laid up
 a great quantity of corn in these places, and arms withal, that might be
 for their security afterward.
 
@@ -947,7 +947,7 @@ proposed to himself, by all means possible, to make away with me; and
 built the walls of Gischala, which was the place of his nativity. He
 then sent his brother Simon, and Jonathan, the son of Sisenna, and about
 a hundred armed men, to Jerusalem, to Simon, the son of Gamaliel, <span
-id="EndNote Auto.16a"></span>[(16)](#EndNote%20Auto.16b) in order to
+id="EndNote Auto.16a"></span>[(16)](#EndNote%20Auto.16b.md) in order to
 persuade him to induce the commonalty of Jerusalem to take from me the
 government over the Galileans, and to give their suffrages for
 conferring that authority upon him. This Simon was of the city of
@@ -983,7 +983,7 @@ Galilee, without making the rest of the citizens acquainted with what
 they were doing. Accordingly, they resolved to send men of distinction
 as to their families, and of distinction as to their learning also. Two
 of these were of the populace, Jonathan <span
-id="EndNote Auto.17a"></span>[(17)](#EndNote%20Auto.17b) and Ananias, by
+id="EndNote Auto.17a"></span>[(17)](#EndNote%20Auto.17b.md) and Ananias, by
 sect Pharisees; while the third, Jozar, was of the stock of the priests,
 and a Pharisee also; and Simon, the last of them, was of the youngest of
 the high priests. These had it given them in charge, that, when they
@@ -1040,7 +1040,7 @@ which was Asochis.
 42\. But wonderful it was what a dream I saw that very night; for when I
 had betaken myself to my bed, as grieved and disturbed at the news that
 had been written to me, it seemed to me, that a certain person stood by
-me, <span id="EndNote Auto.18a"></span>[(18)](#EndNote%20Auto.18b) and
+me, <span id="EndNote Auto.18a"></span>[(18)](#EndNote%20Auto.18b.md) and
 said, "O Josephus! leave off to afflict thy soul, and put away all fear;
 for what now grieves thee will render thee very considerable, and in all
 respects most happy; for thou shalt get over not only these
@@ -1214,7 +1214,7 @@ as I had taken my place, and began to speak to them, they all made an
 acclamation, and called me the benefactor and savior of the country. And
 when I had made them my acknowledgments, and thanked them \[for their
 affection to me\], I also advised them to fight with nobody, <span
-id="EndNote Auto.19a"></span>[(19)](#EndNote%20Auto.19b) nor to spoil
+id="EndNote Auto.19a"></span>[(19)](#EndNote%20Auto.19b.md) nor to spoil
 the country; but to pitch their tents in the plain, and be content with
 their sustenance they had brought with them; for I told them that I had
 a mind to compose these troubles without shedding any blood. Now it came
@@ -1272,13 +1272,13 @@ itself convicting them. I then said, "O Jonathan! and you that are sent
 with him as his colleagues, if I were to be judged as to my behavior,
 compared with that of John's, and had brought no more than two or three
 witnesses, <span
-id="EndNote Auto.20a"></span>[(20)](#EndNote%20Auto.20b) good men and
+id="EndNote Auto.20a"></span>[(20)](#EndNote%20Auto.20b.md) good men and
 true, it is plain you had been forced, upon the examination of their
 characters beforehand, to discharge the accusations: that therefore you
 may be informed that I have acted well in the affairs of Galilee, I
 think three witnesses too few to be brought by a man that hath done as
 he ought to do; so I gave you all these for witnesses. Inquire of them
-<span id="EndNote Auto.21a"></span>[(21)](#EndNote%20Auto.21b) how I
+<span id="EndNote Auto.21a"></span>[(21)](#EndNote%20Auto.21b.md) how I
 have lived, and whether I have not behaved myself with all decency, and
 after a virtuous manner, among them. And I further conjure you, O
 Galileans! to hide no part of the truth, but to speak before these men
@@ -1375,7 +1375,7 @@ whether any thing was said about me: I also set many persons all the way
 that led from Tarichese to Tiberias, that they might communicate from
 one to another, if they learned any news from those that were left in
 the city. On the next day, therefore, they all came into the Proseucha;
-<span id="EndNote Auto.22a"></span>[(22)](#EndNote%20Auto.22b) it was a
+<span id="EndNote Auto.22a"></span>[(22)](#EndNote%20Auto.22b.md) it was a
 large edifice, and capable of receiving a great number of people;
 thither Jonathan went in, and though he durst not openly speak of a
 revolt, yet did he say that their city stood in need of a better
@@ -1439,7 +1439,7 @@ undertakings.
 
 56\. Now there was one whose name was Ananias (a wicked man he was, and
 very mischievous); he proposed that a general religious fast <span
-id="EndNote Auto.23a"></span>[(23)](#EndNote%20Auto.23b) should be
+id="EndNote Auto.23a"></span>[(23)](#EndNote%20Auto.23b.md) should be
 appointed the next day for all the people, and gave order that at the
 same hour they should come to the same place, without any weapons, to
 make it manifest before God, that while they obtained his assistance,
@@ -1781,7 +1781,7 @@ to him, nor by way of irony, as thou wilt say, (for he was entirely a
 stranger to such an evil disposition of mind,) but he wrote this by way
 of attestation to what was true, as all that read histories may do. And
 so much shall be said concerning Justus <span
-id="EndNote Auto.24a"></span>[(24)](#EndNote%20Auto.24b) which I am
+id="EndNote Auto.24a"></span>[(24)](#EndNote%20Auto.24b.md) which I am
 obliged to add by way of digression.
 
 66\. Now, when I had settled the affairs of Tiberias, and had assembled
@@ -1993,7 +1993,7 @@ Jewish war.
 Romans, I was kept with much Care, by means of the great respect that
 Vespasian showed me. Moreover, at his command, I married a virgin, who
 was from among the captives of that country <span
-id="EndNote Auto.25a"></span>[(25)](#EndNote%20Auto.25b) yet did she not
+id="EndNote Auto.25a"></span>[(25)](#EndNote%20Auto.25b.md) yet did she not
 live with me long, but was divorced, upon my being freed from my bonds,
 and my going to Alexandria. However, I married another wife at
 Alexandria, and was thence sent, together with Titus, to the siege of
@@ -2011,7 +2011,7 @@ me leave so to do. But when my country was destroyed, I thought nothing
 else to be of any value, which I could take and keep as a comfort under
 my calamities; so I made this request to Titus, that my family might
 have their liberty: I had also the holy books <span
-id="EndNote Auto.26a"></span>[(26)](#EndNote%20Auto.26b) by Titus's
+id="EndNote Auto.26a"></span>[(26)](#EndNote%20Auto.26b.md) by Titus's
 concession. Nor was it long after that I asked of him the life of my
 brother, and of fifty friends with him, and was not denied. When I also
 went once to the temple, by the permission of Titus, where there were a
@@ -2070,7 +2070,7 @@ which is a mark of the greatest honor to him who hath it; nay, Domitia,
 the wife of Caesar, continued to do me kindnesses. And this is the
 account of the actions of my whole life; and let others judge of my
 character by them as they please. But to thee, O Epaphroditus, <span
-id="EndNote Auto.27a"></span>[(27)](#EndNote%20Auto.27b) thou most
+id="EndNote Auto.27a"></span>[(27)](#EndNote%20Auto.27b.md) thou most
 excellent of men! do I dedicate all this treatise of our Antiquities;
 and so, for the present, I here conclude the whole.
 
@@ -2078,7 +2078,7 @@ and so, for the present, I here conclude the whole.
 
 ENDNOTES
 
-<span id="EndNote Auto.1b"></span>[(1)](#EndNote%20Auto.1a) We may hence
+<span id="EndNote Auto.1b"></span>[(1)](#EndNote%20Auto.1a.md) We may hence
 correct the error of the Latin copy of the second book Against Apion,
 sect. 8, (for the Greek is there lost,) which says, there were then only
 four tribes or courses of the priests, instead of twenty-four. Nor is
@@ -2095,11 +2095,11 @@ courses of priests, agree with Josephus's own further assertion
 elsewhere, Antiq. B. VII. ch. 14. sect. 7, that David's partition of the
 priests into twenty-four courses had continued to that day.
 
-<span id="EndNote Auto.2b"></span>[(2)](#EndNote%20Auto.2a) An eminent
+<span id="EndNote Auto.2b"></span>[(2)](#EndNote%20Auto.2a.md) An eminent
 example of the care of the Jews about their genealogies, especially as
 to the priests. See Against Ap. B. 1 sect. 7.
 
-<span id="EndNote Auto.3b"></span>[(3)](#EndNote%20Auto.3a) When
+<span id="EndNote Auto.3b"></span>[(3)](#EndNote%20Auto.3a.md) When
 Josephus here says, that from sixteen to nineteen, or for three years,
 he made trial of the three Jewish sects, the Pharisees, the Sadducees,
 and the Essens, and yet says presently, in all our copies, that he
@@ -2115,23 +2115,23 @@ him Josephus might easily imbibe such notions, as afterwards prepared
 him to have a favorable opinion of Jesus Christ himself, who was
 attested to by John the Baptist.
 
-<span id="EndNote Auto.4b"></span>[(4)](#EndNote%20Auto.4a) We may note
+<span id="EndNote Auto.4b"></span>[(4)](#EndNote%20Auto.4a.md) We may note
 here, that religious men among the Jews, or at least those that were
 priests, were sometimes ascetics also, and, like Daniel and his
 companions in Babylon, Daniel 1:8-16, ate no flesh, but figs and nuts,
 etc. only. This was like the, or austere diet of the Christian ascetics
 in Passion-week. Constitut. V. 18.
 
-<span id="EndNote Auto.5b"></span>[(5)](#EndNote%20Auto.5a) It has been
+<span id="EndNote Auto.5b"></span>[(5)](#EndNote%20Auto.5a.md) It has been
 thought the number of Paul and his companions on ship-board, Acts 27:38,
 which are 276 in our copies, are too many; whereas we find here, that
 Josephus and his companions, a very few years after the other, were
 about 600.
 
-<span id="EndNote Auto.6b"></span>[(6)](#EndNote%20Auto.6a) See Jewish
+<span id="EndNote Auto.6b"></span>[(6)](#EndNote%20Auto.6a.md) See Jewish
 War, B. II. ch. 18. sect. 3.
 
-<span id="EndNote Auto.7b"></span>[(7)](#EndNote%20Auto.7a) The Jews
+<span id="EndNote Auto.7b"></span>[(7)](#EndNote%20Auto.7a.md) The Jews
 might collect this unlawfulness of fighting against their brethren from
 that law of Moses, Leviticus 19:16, "Thou shalt not stand against the
 blood of thy neighbor;" and that, ver. 17, "Thou shalt not avenge, nor
@@ -2139,14 +2139,14 @@ bear any grudge against the children of thy people; but thou shalt love
 thy neighbor as thyself;" as well as from many other places in the
 Pentateuch and Prophets. See Antiq. B. VIII. ch. 8. sect. 3.
 
-<span id="EndNote Auto.8b"></span>[(8)](#EndNote%20Auto.8a) That this
+<span id="EndNote Auto.8b"></span>[(8)](#EndNote%20Auto.8a.md) That this
 Herod Agrippa, the father, was of old called a Great King, as here,
 appears by his coins still remaining; to which Havercamp refers us.
 
-<span id="EndNote Auto.9b"></span>[(9)](#EndNote%20Auto.9a) The famous
+<span id="EndNote Auto.9b"></span>[(9)](#EndNote%20Auto.9a.md) The famous
 Jewish numbers of twelve and seventy are here remarkable.
 
-<span id="EndNote Auto.10b"></span>[(10)](#EndNote%20Auto.10a) Our
+<span id="EndNote Auto.10b"></span>[(10)](#EndNote%20Auto.10a.md) Our
 Josephus shows, both here and every where, that he was a most religious
 person, and one that had a deep sense of God and his providence upon his
 mind, and ascribed all his numerous and wonderful escapes and
@@ -2154,7 +2154,7 @@ preservations, in times of danger, to God's blessing him, and taking
 care of him, and this on account of his acts of piety, justice,
 humanity, and charity, to the Jews his brethren.
 
-<span id="EndNote Auto.11b"></span>[(11)](#EndNote%20Auto.11a)
+<span id="EndNote Auto.11b"></span>[(11)](#EndNote%20Auto.11a.md)
 Josephus's opinion is here well worth noting: — That every one is to be
 permitted to worship God according to his own conscience, and is not to
 be compelled in matters of religion: as one may here observe, on the
@@ -2163,7 +2163,7 @@ who married Jewesses to be circumcised, and become Jews, and were ready
 to destroy all that would not submit to do so. See sect. 31, and Luke
 11:54.
 
-<span id="EndNote Auto.12b"></span>[(12)](#EndNote%20Auto.12a) How
+<span id="EndNote Auto.12b"></span>[(12)](#EndNote%20Auto.12a.md) How
 Josephus could say here that the Jewish laws forbade them to "spoil even
 their enemies, while yet, a little before his time, our Savior had
 mentioned it as then a current maxim with them, "Thou shalt love thy
@@ -2179,11 +2179,11 @@ examples in this his life, sect. 3, 13, 15, 19, 21, 23, and shall have
 many more therein before its conclusion, as well as we have them
 elsewhere in all his later writings.
 
-<span id="EndNote Auto.13b"></span>[(13)](#EndNote%20Auto.13a) Here we
+<span id="EndNote Auto.13b"></span>[(13)](#EndNote%20Auto.13a.md) Here we
 may observe the vulgar Jewish notion of witchcraft, but that our
 Josephus was too wise to give any countenance to it.
 
-<span id="EndNote Auto.14b"></span>[(14)](#EndNote%20Auto.14a) In this
+<span id="EndNote Auto.14b"></span>[(14)](#EndNote%20Auto.14a.md) In this
 section, as well as in the 18 and 33. those small vessels that sailed on
 the sea of Galilee, are called by Josephus, i.e. plainly ships; so that
 we need not wander at our evangelists, who still call them ships; nor
@@ -2191,28 +2191,28 @@ ought we to render them boats, as some do, Their number was in all 230,
 as we learn from our author elsewhere. Jewish War. B. II. ch. 21. sect.
 8.
 
-<span id="EndNote Auto.15b"></span>[(15)](#EndNote%20Auto.15a) Part of
+<span id="EndNote Auto.15b"></span>[(15)](#EndNote%20Auto.15a.md) Part of
 these fortifications on Mount Tabor may be those still remaining, and
 which were seen lately by Mr. Maundrel. See his Travels, p. 112.
 
-<span id="EndNote Auto.16b"></span>[(16)](#EndNote%20Auto.16a) This
+<span id="EndNote Auto.16b"></span>[(16)](#EndNote%20Auto.16a.md) This
 Gamaliel may be the very same that is mentioned by the rabbins in the
 Mishna, in Juchasin, and in Porta Mosis, as is observed in the Latin
 notes. He might be also that Gamaliel II., whose grandfather was
 Gamaliel I., who is mentioned in Acts 5:34, and at whose feet St. Paul
 was brought up, Acts 22:3. See Prid. at the year 449.
 
-<span id="EndNote Auto.17b"></span>[(17)](#EndNote%20Auto.17a) This
+<span id="EndNote Auto.17b"></span>[(17)](#EndNote%20Auto.17a.md) This
 Jonathan is also taken notice of in the Latin notes, as the same that is
 mentioned by the rabbins in Porta Mosis.
 
-<span id="EndNote Auto.18b"></span>[(18)](#EndNote%20Auto.18a) This I
+<span id="EndNote Auto.18b"></span>[(18)](#EndNote%20Auto.18a.md) This I
 take to be the first of Josephus's remarkable or divine dreams, which
 were predictive of the great things that afterwards came to pass; of
 which see more in the note on Antiq. B. III. ch. 8. sect. 9. The other
 is in the War, B. III. ch. 8. sect. 3, 9.
 
-<span id="EndNote Auto.19b"></span>[(19)](#EndNote%20Auto.19a)
+<span id="EndNote Auto.19b"></span>[(19)](#EndNote%20Auto.19a.md)
 Josephus's directions to his soldiers here are much the same that John
 the Baptist gave, Luke 3:14, "Do violence to no man, neither accuse any
 falsely, and be content with your wages." Whence Dr. Hudson confirms
@@ -2220,20 +2220,20 @@ this conjecture, that Josephus, in some things, was, even now, a
 follower of John the Baptist, which is no way improbable. See the note
 on sect. 2.
 
-<span id="EndNote Auto.20b"></span>[(20)](#EndNote%20Auto.20a) We here
+<span id="EndNote Auto.20b"></span>[(20)](#EndNote%20Auto.20a.md) We here
 learn the practice of the Jews, in the days of Josephus, to inquire into
 the characters of witnesses before they were admitted; and that their
 number ought to be three, or two at the least, also exactly as in the
 law of Moses, and in the Apostolical Constitutions, B. II. ch. 37. See
 Horeb Covenant Revived, page 97, 98.
 
-<span id="EndNote Auto.21b"></span>[(21)](#EndNote%20Auto.21a) This
+<span id="EndNote Auto.21b"></span>[(21)](#EndNote%20Auto.21a.md) This
 appeal to the whole body of the Galileans by Josephus, and the testimony
 they gave him of integrity in his conduct as their governor, is very
 like that appeal and testimony in the case of the prophet Samuel, 1
 Samuel 12:1-5, and perhaps was done by Josephus in imitation of him.
 
-<span id="EndNote Auto.22b"></span>[(22)](#EndNote%20Auto.22a) It is
+<span id="EndNote Auto.22b"></span>[(22)](#EndNote%20Auto.22a.md) It is
 worth noting here, that there was now a great Proseucha, or place of
 prayer, in the city of Tiberias itself, though such Proseucha used to be
 out of cities, as the synagogues were within them. Of them, see Le Moyne
@@ -2241,12 +2241,12 @@ on Polycarp's Epistle, page 76. It is also worth our remark, that the
 Jews, in the days of Josephus, used to dine at the sixth hour, or noon;
 and that in obedience to their notions of the law of Moses also.
 
-<span id="EndNote Auto.23b"></span>[(23)](#EndNote%20Auto.23a) One may
+<span id="EndNote Auto.23b"></span>[(23)](#EndNote%20Auto.23a.md) One may
 observe here, that this lay Pharisee, Ananias, is we have seen he was,
 sect. 39, took upon him to appoint a fast at Tiberias, and was obeyed;
 though indeed it was not out of religion, but knavish policy.
 
-<span id="EndNote Auto.24b"></span>[(24)](#EndNote%20Auto.24a) The
+<span id="EndNote Auto.24b"></span>[(24)](#EndNote%20Auto.24a.md) The
 character of this history of Justus of Tiberias, the rival of our
 Josephus, which is now lost, with its only remaining fragment, are given
 us by a very able critic, Photius, who read that history. It is in the
@@ -2274,7 +2274,7 @@ this man wrote is, for the main, fabulous, and chiefly as to those parts
 where he describes the Roman war with the Jews, and the taking of
 Jerusalem."
 
-<span id="EndNote Auto.25b"></span>[(25)](#EndNote%20Auto.25a) Here
+<span id="EndNote Auto.25b"></span>[(25)](#EndNote%20Auto.25a.md) Here
 Josephus, a priest, honestly confesses that he did that at the command
 of Vespasian, which he had before told us was not lawful for a priest to
 do by the law of Moses, Antiq. B. III. ch. 12. sect. 2. I mean, the
@@ -2283,11 +2283,11 @@ But he seems to have been quickly sensible that his compliance with the
 commands of an emperor would not excuse him, for he soon put her away,
 as Reland justly observes here.
 
-<span id="EndNote Auto.26b"></span>[(26)](#EndNote%20Auto.26a) Of this
+<span id="EndNote Auto.26b"></span>[(26)](#EndNote%20Auto.26a.md) Of this
 most remarkable clause, and its most important consequences, see Essay
 on the Old Testament, page 193--195.
 
-<span id="EndNote Auto.27b"></span>[(27)](#EndNote%20Auto.27a) Of this
+<span id="EndNote Auto.27b"></span>[(27)](#EndNote%20Auto.27a.md) Of this
 Epaphroditus, see the note on the Preface to the Antiquities.
 
-[Back To The Table Of Contents](index)
+[Back To The Table Of Contents](index.md)

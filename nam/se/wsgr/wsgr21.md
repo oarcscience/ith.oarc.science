@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr20)  [Next](wsgr22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr20)  [Next](wsgr22.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ For years Quanah worked. His blankets
 <span id="img_11600"></span>
 
 [![](tn/11600.jpg)  
-Click to enlarge](img/11600.jpg)
+Click to enlarge](img/11600.jpg.md)
 
 <span id="page_117">p. 117</span>
 
@@ -149,4 +149,4 @@ world.
 
 ------------------------------------------------------------------------
 
-[Next: How Sickness Entered the World](wsgr22)
+[Next: How Sickness Entered the World](wsgr22.md)

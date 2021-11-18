@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar60)  [Next](gar62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar60)  [Next](gar62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ the
 
 actual figures of the "Old Man" adored by the Knights, described so
 persistently by the witnesses against them as "une ydole avec *trois
-faces*." <span id="fr_248"></span>[\*](#fn_246) The same statuettes are
+faces*." <span id="fr_248"></span>[\*](#fn_246.md) The same statuettes are
 for the most part girded with serpents, whose heads they hold in their
 mouths, or in various distorted attitudes, amply sufficient grounds for
 Von Hammer to connect them with the Ophite mysteries. But this very
@@ -87,7 +87,7 @@ Osiris seen in front face, otherwise that terminal figure often to be
 found cut on certain large green jaspers, which differ widely in style
 from the true Gnostic talismans dating from the Lower Empire, but rather
 have something about them bespeaking a mediæval and Arabian origin. For
-example, Raspe <span id="fr_249"></span>[\*](#fn_247) gives a gem (No.
+example, Raspe <span id="fr_249"></span>[\*](#fn_247.md) gives a gem (No.
 588) with "God the Father" crowned with five stars, and several
 barbarous characters. Reverse, a square, a sphere, a pentagon of
 Pythagoras, and several astrological and geometrical figures. Such a
@@ -150,7 +150,7 @@ etymologies that have been proposed for the mighty word "Baphomet." One,
 equally consistent with Von Hammer's views, and much more so with the
 genius of the Byzantine language, would be βαφὴ Μητρός, "Baptism of the
 Mother," that special designation of Barbelo in the Valentinian
-theology. <span id="fr_250"></span>[\*](#fn_248) Such Greek technical
+theology. <span id="fr_250"></span>[\*](#fn_248.md) Such Greek technical
 phrases *may* have been perpetuated in the Manichean ritual, wherever,
 and however late, it was introduced into France.
 
@@ -158,7 +158,7 @@ Another explanation makes Baphomet the corruption of *Behemoth*, meaning
 the golden calves Opis and Mnevis, whose bones were exhibited to their
 worshippers, set out upon the lid of the coffin. So in later times were
 the bones of Manes displayed for the adoration of his followers; and
-those of the **G.M.** Hiram, <span id="fr_251"></span>[†](#fn_249)
+those of the **G.M.** Hiram, <span id="fr_251"></span>[†](#fn_249.md)
 according to report, at the initiation of a Templar. Hence came the
 *Death's Head* and *Coffin*, that figure so conspicuously at the
 Carbonari Conclaves, and the cognate engine of terror at our Masonic
@@ -231,7 +231,7 @@ suggests, with no better reason, that the work belongs to Persia.
 
 ### Footnotes
 
-<span id="fn_246"></span>[403:\*](gar61.htm#fr_248) "Car tantôt après
+<span id="fn_246"></span>[403:\*](gar61.htm#fr_248.md) "Car tantôt après
 ils alloient adorer une *Idole*, et pour certain icelle idole était une
 vielle peau, ainsi comme toute embaumée, et comme toile polie; et
 illecques certès le Templier mettoit sa tres vile foy et croyance; et en
@@ -241,16 +241,16 @@ esperance étoit en icelle, et étoit leur Dieu souverain, et mêmement se
 affioit en lui de bon coeur" (Art. 3. Vie de Philippe le Bel, chap. 66.
 'Chronique de S. Denys').
 
-<span id="fn_247"></span>[404:\*](gar61.htm#fr_249) 'Descriptive
+<span id="fn_247"></span>[404:\*](gar61.htm#fr_249.md) 'Descriptive
 Catalogue of Engraved Gems.'
 
-<span id="fn_248"></span>[406:\*](gar61.htm#fr_250) Which made her the
+<span id="fn_248"></span>[406:\*](gar61.htm#fr_250.md) Which made her the
 *heavenly* mother of the Saviour.
 
-<span id="fn_249"></span>[406:†](gar61.htm#fr_251) Being set upon a
+<span id="fn_249"></span>[406:†](gar61.htm#fr_251.md) Being set upon a
 coffin containing a corpse, elevated upon a catafalque of five steps
 (Clarkson).
 
 ------------------------------------------------------------------------
 
-[Next: Manicheism](gar62)
+[Next: Manicheism](gar62.md)

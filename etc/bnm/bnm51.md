@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm50)  [Next](bnm52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm50)  [Next](bnm52.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ This is why men hide from the sun and the wind, but never from the moon.
 
 ------------------------------------------------------------------------
 
-[Next: Why There Is A Hare In The Moon.](bnm52)
+[Next: Why There Is A Hare In The Moon.](bnm52.md)

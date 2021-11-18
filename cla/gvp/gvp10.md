@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp09)  [Next](gvp11) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp09)  [Next](gvp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ fruit worthy of its nature.
 
 ------------------------------------------------------------------------
 
-[Next: The Symbols of Pythagoras](gvp11)
+[Next: The Symbols of Pythagoras](gvp11.md)

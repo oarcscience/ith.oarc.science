@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs35)  [Next](mhs37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs35)  [Next](mhs37.md) 
 
 ------------------------------------------------------------------------
 
@@ -145,4 +145,4 @@ stone.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Helping To Salt At Table](mhs37)
+[Next: VI. Helping To Salt At Table](mhs37.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic066)  [Next](lfic068) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic066)  [Next](lfic068.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ would make an article in themselves. We must return to Mrs. K. and her.
 
 ------------------------------------------------------------------------
 
-[Next: Legend of Loch na Piasta](lfic068)
+[Next: Legend of Loch na Piasta](lfic068.md)

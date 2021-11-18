@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen03)  [Next](gen05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen03)  [Next](gen05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -37,7 +37,7 @@ preserved in our memories. He had always striven to keep all these
 intrigues in the utmost secrecy, and had to appear constantly virtuous.
 This caution was observed to such an extent that he scarcely
 accomplished anything really romantic, a fact which
-Katano-no-Shiôshiô <span id="fr_22"></span>[1](#fn_21) would have
+Katano-no-Shiôshiô <span id="fr_22"></span>[1](#fn_21.md) would have
 ridiculed.
 
 Even with such jealous watchfulness, secrets easily transpire from one
@@ -48,8 +48,8 @@ improprieties in his career.
 
 Now, it was the season of continuous rain (namely, the month of May),
 and the Court was keeping a strict Monoimi <span
-id="fr_23"></span>[2](#fn_22) Genji, who had now been made a
-Chiûjiô, <span id="fr_24"></span>[3](#fn_23) and who was still
+id="fr_23"></span>[2](#fn_22.md) Genji, who had now been made a
+Chiûjiô, <span id="fr_24"></span>[3](#fn_23.md) and who was still
 continuing his residence in the Imperial Palace, was also confined to
 his apartments for a considerable length of time. His father-in-law
 naturally felt for him, and his sons were sent to bear him company.
@@ -91,7 +91,7 @@ seem, after all, to have been of second-rate importance.
 "What a variety," said Tô-no-Chiûjiô, as he turned them over, and he
 asked several questions guessingly about this or that. About some he
 guessed correctly, about others he was puzzled and suspicious. <span
-id="fr_25"></span>[4](#fn_24) Genji smiled and spoke little, only making
+id="fr_25"></span>[4](#fn_24.md) Genji smiled and spoke little, only making
 some obscure remark, and continuing as he took the letters: "but you,
 surely, must have collected many. Will not you show me some? And then my
 bureau also may open more easily."
@@ -141,8 +141,8 @@ to a high position, and, with self-important faces and in ostentatious
 residences, regard themselves as inferior to none. Into what class will
 you allot *these*?"
 
-Just at this moment the Sama-no-Kami <span id="fr_26"></span>[5](#fn_25)
-and Tô Shikib-no-Jiô <span id="fr_27"></span>[6](#fn_26) joined the
+Just at this moment the Sama-no-Kami <span id="fr_26"></span>[5](#fn_25.md)
+and Tô Shikib-no-Jiô <span id="fr_27"></span>[6](#fn_26.md) joined the
 party. They came to pay their respects to
 
 <span id="page_31">p. 31</span>
@@ -161,7 +161,7 @@ meet our eyes, though her heart may still remain as noble as ever.
 Examples of both of these are very common. After much reflection, I can
 only come to the conclusion that both of them should be included in the
 middle class. In this class, too, must be included many daughters of the
-Duriô, <span id="fr_28"></span>[7](#fn_27) who occupy themselves with
+Duriô, <span id="fr_28"></span>[7](#fn_27.md) who occupy themselves with
 local administration. These ladies are often very attractive, and are
 not seldom introduced at Court and enjoy high favor."
 
@@ -200,7 +200,7 @@ imagined, answered the description.
 Meantime, Genji may have thought, "If it is so difficult to choose one
 even from the best class, how can—Ah!" and he began to close his eyes
 and doze. His dress was of soft white silk, partly covered by the
-*naoshi*, <span id="fr_29"></span>[8](#fn_28) worn carelessly, with its
+*naoshi*, <span id="fr_29"></span>[8](#fn_28.md) worn carelessly, with its
 cord left loose and untied. His appearance and bearing formed quite a
 picture.
 
@@ -260,7 +260,7 @@ more sense.
 
 "Others, again, are singularly earnest—too earnest, indeed—in the
 performance of their domestic duty; and such, with their hair pushed
-back, <span id="fr_30"></span>[9](#fn_29) devote themselves like
+back, <span id="fr_30"></span>[9](#fn_29.md) devote themselves like
 household drudges to household affairs. Man, whose duties generally call
 him from home all the day, naturally hears and sees the social movements
 both of public and private life, and notices different things, both good
@@ -337,14 +337,14 @@ lover who has been unable to cast her out of his heart, and whose tears
 drop silently when he hears aught about her. Then, when she hears of his
 affections still living, and his heart still yearning, and thinks of the
 uselessness of the sacrifice she has made voluntarily, she touches the
-hair <span id="fr_31"></span>[10](#fn_30) on her forehead, and she
+hair <span id="fr_31"></span>[10](#fn_30.md) on her forehead, and she
 becomes regretful. She may, indeed, do her best to persevere in her
 resolve, but if one single tear bedews her cheek, she is no longer
 strong in the sanctity of her vow. Weakness of this kind would be in the
 eyes of Buddha more sinful than those offences which are committed by
 those who never leave the lay circle at all, and she would eventually
 wander about in the "wrong passage." <span
-id="fr_32"></span>[11](#fn_31)
+id="fr_32"></span>[11](#fn_31.md)
 
 "But there are also women, who are too self-confident and obtrusive.
 These, if they discover some slight inconsistency in men, fiercely
@@ -404,7 +404,7 @@ particular building, in conformity with correct taste and high æsthetic
 principles. Look for another instance at the eminence which has been
 attained by several of the artists of the Imperial College of Painting.
 Take the case of draughtsmen in black ink. Pictures, indeed, such as
-those of Mount Horai, <span id="fr_33"></span>[12](#fn_32) which has
+those of Mount Horai, <span id="fr_33"></span>[12](#fn_32.md) which has
 never been beheld by mortal eye, or of some raging monstrous fish in a
 rough sea, or of a wild animal of some far-off country, or of the
 imaginary face of the demon, are often drawn with such striking
@@ -421,7 +421,7 @@ spirit and effectiveness of the superior hand of a master; and in these
 an inferior artist would only show dulness and inefficiency.
 
 "Similar observations are applicable to handwriting. <span
-id="fr_34"></span>[13](#fn_33) Some people boldly dash away with great
+id="fr_34"></span>[13](#fn_33.md) Some people boldly dash away with great
 freedom and endless flourishes, and appear at the first glance to be
 elegant and skilful. But that which is written with scrupulous neatness,
 in accordance with the true rules of penmanship, constitutes a very
@@ -599,8 +599,8 @@ died, perhaps broken-hearted.
 might place his confidence. Often, too, I had talked with her on music
 and on poetry, as well as on the more important business of life, and I
 found her to be by no means wanting in intellect and capability. She had
-too the clever hands of Tatyta-himè <span id="fr_35"></span>[14](#fn_34)
-and Tanabata. <span id="fr_36"></span>[15](#fn_35)
+too the clever hands of Tatyta-himè <span id="fr_35"></span>[14](#fn_34.md)
+and Tanabata. <span id="fr_36"></span>[15](#fn_35.md)
 
 "When I recall these pleasant memories my heart still clings to her
 endearingly."
@@ -608,7 +608,7 @@ endearingly."
 "Clever in weaving, she may have been like Tanabata, that is but a small
 matter," interposed Tô-no-Chiûjiô, "we should have preferred to have
 seen your love as enduring as Tanabata's. <span
-id="fr_37"></span>[16](#fn_36) Nothing is so beautiful as the brilliant
+id="fr_37"></span>[16](#fn_36.md) Nothing is so beautiful as the brilliant
 dyes spread over the face of Nature, yet the red tints of autumn are
 often not dyed to a color so deep as we desire, because of the early
 drying of the dew, so we say, "such is the uncertain fate of this
@@ -754,7 +754,7 @@ frightened her by sending, through some channel, mischief-making
 messages to her. This I did not become aware of till afterwards, and, it
 seems, she was quite cast down and helpless. She had a little one for
 whose sake, it appears, she was additionally sad. One day I unexpectedly
-received a bunch of Nadeshiko <span id="fr_38"></span>[17](#fn_37)
+received a bunch of Nadeshiko <span id="fr_38"></span>[17](#fn_37.md)
 flowers. They were from her."
 
 At this point Tô-no-Chiûjiô became gloomy.
@@ -783,7 +783,7 @@ we were in a real romance. I said to her:—
 <span class="small">When with confused gaze we view  
     The mingled flowers on gay parterre,  
  Amid their blooms of radiant hue  
-    The Tokonatz, <span id="fr_39"></span>[18](#fn_38) my love, is
+    The Tokonatz, <span id="fr_39"></span>[18](#fn_38.md) my love, is
 there.</span>
 
 </div>
@@ -840,7 +840,7 @@ understood.
 difficulty of choice, seems to be the common lot of humanity. Where,
 again, I say, are we to go to find the one who will realize our desires?
 Shall we fix our aspirations on the beautiful goddess, the heavenly
-Kichijiô? <span id="fr_40"></span>[19](#fn_39) Ah! this would be but
+Kichijiô? <span id="fr_40"></span>[19](#fn_39.md) Ah! this would be but
 superstitious and impracticable."
 
 So mournfully finished Tô-no-Chiûjiô; and all his companions, who had
@@ -869,7 +869,7 @@ would be at once reduced to silence. Now, my story is as follows:—
 daughters, and she was one of them. It happened by some chance or other
 I fell much into her society. The professor, who noticed this, once took
 up a wine-cup in his hand, and said to me, "Hear what I sing about two
-choices." <span id="fr_41"></span>[20](#fn_40)
+choices." <span id="fr_41"></span>[20](#fn_40.md)
 
 "This was a plain offer put before me, and thenceforward I endeavored,
 for the sake of his tuition, to make myself as agreeable as possible to
@@ -878,7 +878,7 @@ affection for her, though she seemed already to regard me as her victim.
 She seized every opportunity of pointing out to me the way in which we
 should have to steer, both in public and private life. When she wrote to
 me she never employed the effeminate style of the Kana, <span
-id="fr_42"></span>[21](#fn_41) but wrote, oh! so magnificently! The
+id="fr_42"></span>[21](#fn_41.md) but wrote, oh! so magnificently! The
 great interest which she took in me induced me to pay frequent visits to
 her; and, by making her my tutor, I learned how to compose ordinary
 Chinese poems. However, though I do not forget all these benefits, and
@@ -958,7 +958,7 @@ public and private affairs, and this knowledge can be imperceptibly
 acquired without any regular study of them, which, though superficial,
 will yet be amply sufficient to enable them to talk pleasantly about
 them with their friends. But how contemptible they would seem if this
-made them vain of it! The Manna <span id="fr_43"></span>[22](#fn_42)
+made them vain of it! The Manna <span id="fr_43"></span>[22](#fn_42.md)
 style and pedantic phrases were not meant for them; and, if they use
 them, the public will only say, "would that they would remember that
 they are women and not men," and they would only incur the reproach of
@@ -969,11 +969,11 @@ to be betrayed into using strange quotations, the only consequence of
 which would be that they would appear to be bold when they ought to be
 reserved, and abstracted when very likely they have practical duties to
 attend to. How utterly inappropriate, for instance, it would be on the
-May festival <span id="fr_44"></span>[23](#fn_43) if, while the
+May festival <span id="fr_44"></span>[23](#fn_43.md) if, while the
 attention of all present was concentrated on the solemnity of the
 occasion, the thoughts of these ladies were wandering on their own
 poetical imaginations about "sweet flags"; or if, again, on the
-Ninth-day festiva1, <span id="fr_45"></span>[24](#fn_44) when all the
+Ninth-day festiva1, <span id="fr_45"></span>[24](#fn_44.md) when all the
 nobles present were exercising their inventive faculties on the subject
 of Chinese poems, they were to volunteer to pour forth their grand ideas
 on the dew-laid flowers of the chrysanthemum, thus endeavoring to rival
@@ -1019,7 +1019,7 @@ It was, by no means, becoming behavior on the part of the Prince.
 
 The day was drawing to an end when it was announced that the mansion was
 closed in the certain celestial direction of the Naka-gami (central
-God). <span id="fr_46"></span>[25](#fn_45) His own mansion in Nijiô (the
+God). <span id="fr_46"></span>[25](#fn_45.md) His own mansion in Nijiô (the
 one mentioned as being repaired in a previous chapter) was also in the
 same line of direction.
 
@@ -1040,7 +1040,7 @@ himself, and he at once intimated to Ki-no-Kami his desire of visiting
 his house. To which the latter answered simply, "Yes." He did not,
 however, really like the Prince's visit, and was reluctantly telling his
 fellow attendants that, owing to a certain circumstance which had taken
-place at Iyo-no-Kami's <span id="fr_47"></span>[26](#fn_46) residence,
+place at Iyo-no-Kami's <span id="fr_47"></span>[26](#fn_46.md) residence,
 his wife (Ki-no-Kami's step-mother) had taken up her abode with him that
 very evening, and that the rooms were all in confusion.
 
@@ -1353,7 +1353,7 @@ turning to the lady on the bank of the middle river. He therefore
 summoned Ki-no-Kami before him, and thus addressed him:—
 
 "Cannot you let me have the boy, the son of the late Chiûnagon <span
-id="fr_48"></span>[27](#fn_47) whom I saw the other day? He is a nice
+id="fr_48"></span>[27](#fn_47.md) whom I saw the other day? He is a nice
 lad, and I wish to have him near at hand. I will also introduce him to
 the Emperor."
 
@@ -1488,7 +1488,7 @@ For these reasons she retired while her brother was with Genji, to a
 private chamber of Chiûjiô, her companion, in the rear of the main
 building, under the pretence that her own room was too near that of the
 Prince, besides she was indisposed and required "Tataki," <span
-id="fr_49"></span>[28](#fn_48) which she desired to have done in a
+id="fr_49"></span>[28](#fn_48.md) which she desired to have done in a
 retired part of the house.
 
 Genji sent his attendants very early to their own quarters, and then,
@@ -1521,7 +1521,7 @@ his feelings with a long-drawn sigh, and hummed:—
 
 <div style="margin-left: 32px">
 
-<span class="small">"The Hahaki-gi  <span id="fr_50"></span>[29](#fn_49)
+<span class="small">"The Hahaki-gi  <span id="fr_50"></span>[29](#fn_49.md)
 distant tree  
     Spreads broom-like o'er the silent waste;  
   Approach, how changed its shape we see,  
@@ -1558,62 +1558,62 @@ apartment!"
 
 ### Footnotes
 
-<span id="fn_21"></span>[28:1](gen04.htm#fr_22) A hero of an older
+<span id="fn_21"></span>[28:1](gen04.htm#fr_22.md) A hero of an older
 fiction, who is represented as the perfect ideal of a gallant.
 
-<span id="fn_22"></span>[28:2](gen04.htm#fr_23) A fast observed when
+<span id="fn_22"></span>[28:2](gen04.htm#fr_23.md) A fast observed when
 some remarkable or supernatural event took place, or on the anniversary
 of days of domestic misfortune.
 
-<span id="fn_23"></span>[28:3](gen04.htm#fr_24) A general of the
+<span id="fn_23"></span>[28:3](gen04.htm#fr_24.md) A general of the
 Imperial Guards.
 
-<span id="fn_24"></span>[29:4](gen04.htm#fr_25) Love letters generally
+<span id="fn_24"></span>[29:4](gen04.htm#fr_25.md) Love letters generally
 are not signed or are signed with a fancy name.
 
-<span id="fn_25"></span>[30:5](gen04.htm#fr_26) Left Master of the
+<span id="fn_25"></span>[30:5](gen04.htm#fr_26.md) Left Master of the
 Horse.
 
-<span id="fn_26"></span>[30:6](gen04.htm#fr_27) Secretary to the Master
+<span id="fn_26"></span>[30:6](gen04.htm#fr_27.md) Secretary to the Master
 of Ceremonies.
 
-<span id="fn_27"></span>[31:7](gen04.htm#fr_28) Deputy-governors of
+<span id="fn_27"></span>[31:7](gen04.htm#fr_28.md) Deputy-governors of
 provinces. In those days these functionaries were greatly looked down
 upon by the Court nobles, and this became one of the causes of the
 feudal system.
 
-<span id="fn_28"></span>[32:8](gen04.htm#fr_29) The naoshi is an outer
+<span id="fn_28"></span>[32:8](gen04.htm#fr_29.md) The naoshi is an outer
 attire. It formed part of a loose and unceremonious Court dress.
 
-<span id="fn_29"></span>[33:9](gen04.htm#fr_30) This alludes to a common
+<span id="fn_29"></span>[33:9](gen04.htm#fr_30.md) This alludes to a common
 habit of women, who push back their hair before commencing any task.
 
-<span id="fn_30"></span>[35:10](gen04.htm#fr_31) Some kinds of nuns did
+<span id="fn_30"></span>[35:10](gen04.htm#fr_31.md) Some kinds of nuns did
 not shave their heads, and this remark seems to allude to the common
 practice of women who often involuntarily smooth their hair before they
 see people, which practice comes, no doubt, from the idea that the
 beauty of women often depends on the tidiness of their hair.
 
-<span id="fn_31"></span>[35:11](gen04.htm#fr_32) This means that her
+<span id="fn_31"></span>[35:11](gen04.htm#fr_32.md) This means that her
 soul, which was sinful, would not go at once to its final resting-place,
 but wander about in unknown paths.
 
-<span id="fn_32"></span>[37:12](gen04.htm#fr_33) A mountain spoken of in
+<span id="fn_32"></span>[37:12](gen04.htm#fr_33.md) A mountain spoken of in
 Chinese literature. It was said to be in the Eastern Ocean, and people
 of extraordinary long lives, called Sennin, were supposed to dwell
 there.
 
-<span id="fn_33"></span>[37:13](gen04.htm#fr_34) In China and Japan
+<span id="fn_33"></span>[37:13](gen04.htm#fr_34.md) In China and Japan
 handwriting is considered no less an art than painting.
 
-<span id="fn_34"></span>[41:14](gen04.htm#fr_35) An ideal woman
+<span id="fn_34"></span>[41:14](gen04.htm#fr_35.md) An ideal woman
 patroness of the art of dyeing.
 
-<span id="fn_35"></span>[41:15](gen04.htm#fr_36) The weaver, or star
+<span id="fn_35"></span>[41:15](gen04.htm#fr_36.md) The weaver, or star
 Vega. In the Chinese legend she is personified as a woman always engaged
 in weaving.
 
-<span id="fn_36"></span>[41:16](gen04.htm#fr_37) In the same legend, it
+<span id="fn_36"></span>[41:16](gen04.htm#fr_37.md) In the same legend, it
 is said that this weaver, who dwells on one side of the Milky Way in the
 heavens, meets her lover—another star called Hikoboshi, or the
 bull-driver—once every year, on the evening of the seventh day of the
@@ -1622,17 +1622,17 @@ meeting took place on a bridge, made by birds (jays), by the
 intertwining of their wings. It was this which gave rise to the popular
 festival, which takes place on this day, both in China and Japan.
 
-<span id="fn_37"></span>[45:17](gen04.htm#fr_38) Little darlings—a kind
+<span id="fn_37"></span>[45:17](gen04.htm#fr_38.md) Little darlings—a kind
 of pink.
 
-<span id="fn_38"></span>[45:18](gen04.htm#fr_39) The Tokonatz
+<span id="fn_38"></span>[45:18](gen04.htm#fr_39.md) The Tokonatz
 (everlasting summer) is another name for the pink, and it is poetically
 applied to the lady whom we love.
 
-<span id="fn_39"></span>[46:19](gen04.htm#fr_40) A female divinity in
+<span id="fn_39"></span>[46:19](gen04.htm#fr_40.md) A female divinity in
 Indian mythology.
 
-<span id="fn_40"></span>[47:20](gen04.htm#fr_41) From the Chinese poet
+<span id="fn_40"></span>[47:20](gen04.htm#fr_41.md) From the Chinese poet
 Hak-rak-ten, who was mentioned before. He says in one of his poems:
 "Once upon a time a certain host invited to his abode a clever
 match-maker. When the guests were assembled he poured forth wine into a
@@ -1641,43 +1641,43 @@ what I say about the two choices, daughters of the rich get married
 soon, hurt snub their husbands, daughters of the poor get married with
 difficulty but dearly love their mothers-in-law."
 
-<span id="fn_41"></span>[47:21](gen04.htm#fr_42) A soft style of
+<span id="fn_41"></span>[47:21](gen04.htm#fr_42.md) A soft style of
 Japanese writing commonly used by ladies.
 
-<span id="fn_42"></span>[49:22](gen04.htm#fr_43) A stiff and formal
+<span id="fn_42"></span>[49:22](gen04.htm#fr_43.md) A stiff and formal
 style of Japanese writing.
 
-<span id="fn_43"></span>[49:23](gen04.htm#fr_44) The fifth of May is one
+<span id="fn_43"></span>[49:23](gen04.htm#fr_44.md) The fifth of May is one
 of the five important national festivals. A solemn celebration of this
 fête used to be performed at Court. It is sometimes called the festival
 of the "Sweet Flags,"—*calami aromatici*—because it was held at the
 season when those beautiful water-plants were in the height of
 perfection.
 
-<span id="fn_44"></span>[49:24](gen04.htm#fr_45) Another of the five
+<span id="fn_44"></span>[49:24](gen04.htm#fr_45.md) Another of the five
 above-mentioned. It was held on the ninth of September, and it was
 customary on the occasion for rhymes to be given out to those present,
 wherewith to compose Chinese poems. It was sometimes called the
 "Chrysanthemum Festival," for the same reason that the celebration of
 the fifth of May was termed the "Sweet Flag Festival."
 
-<span id="fn_45"></span>[50:25](gen04.htm#fr_46) This is an astrological
+<span id="fn_45"></span>[50:25](gen04.htm#fr_46.md) This is an astrological
 superstition. It is said that when this God is in any part of the
 compass, at the time being, it is most unlucky to proceed towards it,
 and to remain in the same line of its direction.
 
-<span id="fn_46"></span>[51:26](gen04.htm#fr_47) The deputy governor of
+<span id="fn_46"></span>[51:26](gen04.htm#fr_47.md) The deputy governor of
 the province Iyo; he is supposed to be in the province at this time,
 leaving his young wife and family behind.
 
-<span id="fn_47"></span>[57:27](gen04.htm#fr_48) The father of Kokimi
+<span id="fn_47"></span>[57:27](gen04.htm#fr_48.md) The father of Kokimi
 seems to have been holding the office Yemon-no-Kami as well as
 Chiûnagon.
 
-<span id="fn_48"></span>[60:28](gen04.htm#fr_49) Tataki, or Amma, a sort
+<span id="fn_48"></span>[60:28](gen04.htm#fr_49.md) Tataki, or Amma, a sort
 of shampooing, a very common medical treatment in Japan.
 
-<span id="fn_49"></span>[61:29](gen04.htm#fr_50) Hahaki-gi, the
+<span id="fn_49"></span>[61:29](gen04.htm#fr_50.md) Hahaki-gi, the
 broom-like tree, is said to have been a certain tree growing in the
 plain of Sonohara, so called from its shape, which, at a distance,
 looked like a spreading broom, but when one comes near, its appearance
@@ -1687,6 +1687,6 @@ was totally changed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Beautiful Cicada](gen05)
+[Next: Chapter III: Beautiful Cicada](gen05.md)
 
 </div>

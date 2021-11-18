@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal083)  [Next](njal085) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal083)  [Next](njal085.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ Pentland Firth.
 
 ------------------------------------------------------------------------
 
-[Next: 85. The Battle With The Earls](njal085)
+[Next: 85. The Battle With The Earls](njal085.md)

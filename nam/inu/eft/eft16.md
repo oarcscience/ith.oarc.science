@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft15)  [Next](eft17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft15)  [Next](eft17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -43,7 +43,7 @@ took the seal and made a tow-line fast.
  Then the two kayaks set off together in towards land.
 
  "Hum-hum. Wouldn't care to . . . come and visit us?"<span
-id="page_60_fr_*"></span>[\*](#page_60_note_*) said the dwarf suddenly.
+id="page_60_fr_*"></span>[\*](#page_60_note_*.md) said the dwarf suddenly.
 
  But this the man would gladly do.
 
@@ -180,7 +180,7 @@ in his boat again, so great was his fear of dogs.
 
  And at last the skin was worn quite away from his forehead with
 carrying of tent-skins up on to the shore in vain.<span
-id="page_63_fr_*"></span>[\*](#page_63_note_*)
+id="page_63_fr_*"></span>[\*](#page_63_note_*.md)
 
  One day they were lying-to, when a wind began to blow from the north.
 
@@ -210,13 +210,13 @@ know.
 
 <span id="footnotes_page_60">p. 60</span>
 
-<span id="page_60_note_*"></span>[\*](#page_60_fr_*) The story-teller
+<span id="page_60_note_*"></span>[\*](#page_60_fr_*.md) The story-teller
 speaks the dwarf's part throughout in a hurried and jerky manner, to
 illustrate the little man's shyness.
 
 <span id="footnotes_page_63">p. 63</span>
 
-<span id="page_63_note_*"></span>[\*](#page_63_fr_*) A heavy burden
+<span id="page_63_note_*"></span>[\*](#page_63_fr_*.md) A heavy burden
 carried on the back is supported by a strap or thong passing over the
 forehead.
 
@@ -253,4 +253,4 @@ forehead.
 ------------------------------------------------------------------------
 
 [Next: THE BOY FROM THE BOTTOM OF THE SEA, WHO FRIGHTENED THE PEOPLE OF
-THE HOUSE TO DEATH](eft17)
+THE HOUSE TO DEATH](eft17.md)

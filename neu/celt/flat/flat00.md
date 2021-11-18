@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](flat01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](flat01.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ T. Crofton Croker
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Knocksheogowna](flat01)
+[Next: The Legend of Knocksheogowna](flat01.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp18)  [Next](flwp20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp18)  [Next](flwp20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -24,8 +24,8 @@ grants that this motion is adapted to the world, he will also grant that
 heaven, or the universe, naturally resolves in a circle; but if it has
 this motion according to nature, we must say, that neither a motion
 upward, nor a motion downward, \[nor a progressive motion,\] <span
-id="fr_51"></span>[\*](#fn_51) pertain to it. These, however, are the
-motions of the sublunary elements. <span id="fr_52"></span>[†](#fn_52)
+id="fr_51"></span>[\*](#fn_51.md) pertain to it. These, however, are the
+motions of the sublunary elements. <span id="fr_52"></span>[†](#fn_52.md)
 It is necessary, therefore, that heaven should be exempt from the
 rectilinear
 
@@ -49,12 +49,12 @@ these, viz. of heaven, and the wholes of the four elements;this being
 the case, the world will be without generation, and without corruption.
 Such things, therefore, as are in any way whatever generated and
 corrupted, are the effects, and not parts <span
-id="fr_53"></span>[\*](#fn_53) of
+id="fr_53"></span>[\*](#fn_53.md) of
 
 <span id="page_62">p. 62</span>
 
 the world, the Gods which it contains (as Plato says) <span
-id="fr_54"></span>[\*](#fn_54) borrowing parts from the world, and the
+id="fr_54"></span>[\*](#fn_54.md) borrowing parts from the world, and the
 genera of efficient causes, as things which are
 
 <span id="page_63">p. 63</span>
@@ -83,7 +83,7 @@ principles.
 
 ### Footnotes
 
-<span id="fn_51"></span>[60:\*](flwp19.htm#fr_51) The words within the
+<span id="fn_51"></span>[60:\*](flwp19.htm#fr_51.md) The words within the
 brackets are added from the version of Mahotius, whose version of this
 sentence is, "Quare si à natura motum hunc obtinet, neque eum motum, quo
 sursùm itur, neque eum, quo deorsum descenditur, *neque progressionem*
@@ -92,11 +92,11 @@ ipsi convenire dixerimus." But the Greek is, ει δε ταυτην εχει κ�
 φαιμεν αυτοῳ προσηεκειν. It appears, therefore, that immediately after
 κατω, it is requisite to insert the words ουτε την κατα πορωειαν.
 
-<span id="fn_52"></span>[60:†](flwp19.htm#fr_52) This sentence shews the
+<span id="fn_52"></span>[60:†](flwp19.htm#fr_52.md) This sentence shews the
 necessity of the above emendation. For the motion of fire and air is
 upward, of earth downward, and the motion of water is *progressive*.
 
-<span id="fn_53"></span>[61:\*](flwp19.htm#fr_53) "Part" (says Proclus,
+<span id="fn_53"></span>[61:\*](flwp19.htm#fr_53.md) "Part" (says Proclus,
 in his Commentary on the Parmenides of Plato,) "has a manifold
 signification; for we call that <span id="page_62">p. 62</span> a part,
 which is in a certain respect the same with the whole, and which
@@ -126,9 +126,9 @@ said, therefore, by Proclus, about the natures which are generated and
 corrupted in the world, are parts of it, according to the last
 signification of part, as above explained.
 
-<span id="fn_54"></span>[62:\*](flwp19.htm#fr_54) See the Note on
+<span id="fn_54"></span>[62:\*](flwp19.htm#fr_54.md) See the Note on
 Argument the Fourteenth.
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Fourteenth](flwp20)
+[Next: Argument the Fourteenth](flwp20.md)

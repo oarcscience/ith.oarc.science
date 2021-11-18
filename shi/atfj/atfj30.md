@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj29)  [Next](atfj31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj29)  [Next](atfj31.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_32"></span> <span align="CENTER"> [![32. Kume Slays the
 Eagle, Torijima](tn/32.jpg)  
-Click to enlarge](img/32.jpg)  
+Click to enlarge](img/32.jpg.md)  
 32. Kume Slays the Eagle, Torijima  
 </span>
 
 ### XXVIII
 
-### THE KING OF TORIJIMA <span id="fr_31"></span>[1](#fn_31)
+### THE KING OF TORIJIMA <span id="fr_31"></span>[1](#fn_31.md)
 
 MANY years ago there lived a Daimio called Tarao. His castle and home
 were at Osaki, in Osumi Province, and amongst his retinue was a faithful
@@ -238,7 +238,7 @@ and exchanged things they wanted for it—such as beds, iron rods, calico,
 and salt. After three months' residence Kume was able to talk the
 language a little, and had managed to narrate his adventures; moreover,
 he had explained that the island from which he had sailed—he had named
-it Torijima, <span id="fr_32"></span>[1](#fn_32) on account of the birds
+it Torijima, <span id="fr_32"></span>[1](#fn_32.md) on account of the birds
 there—was a far better island than their own for all marine produce.
 'Do, my friends,' said Kume, 'accompany me over there and see. I have
 shown you my pearls. I am not much of a diver; but, for those that are
@@ -292,7 +292,7 @@ will notice from the sea a monument erected to Kume Shuzen.
 
 ### Footnotes
 
-<span id="fn_31"></span>[168:1](atfj30.htm#fr_31) It is impossible to
+<span id="fn_31"></span>[168:1](atfj30.htm#fr_31.md) It is impossible to
 say exactly to which of the Torijima islands this story relates. There
 are two—one a rock islet some sixty miles east of Okinawajima, the main
 island on which is the capital of all the islands, Nafa; and the other
@@ -306,12 +306,12 @@ well have been meant for Kumeshima. With Japanese, Chinese, and English
 names, these islands are very puzzling. The Japanese, though excellent
 map-makers, are bad geographers, changing names as they think fit.
 
-<span id="fn_32"></span>[175:1](atfj30.htm#fr_32) Tori-bird Island.
+<span id="fn_32"></span>[175:1](atfj30.htm#fr_32.md) Tori-bird Island.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXIX. The Perpetual Life-Giving Wine](atfj31)
+[Next: XXIX. The Perpetual Life-Giving Wine](atfj31.md)
 
 </div>

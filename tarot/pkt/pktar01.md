@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pkt0202)  [Next](pktar02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pkt0202)  [Next](pktar02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### The Magician
 
 <span id="img_ar01"></span> <span align="CENTER"> [![](tn/ar01.jpg)  
-Click to enlarge](img/ar01.jpg)</span>
+Click to enlarge](img/ar01.jpg.md)</span>
 
 A youthful figure in the robe of a magician, having the countenance of
 divine Apollo, with smile of confidence and shining eyes. Above his head
@@ -52,4 +52,4 @@ Martinism, 8 is the number of Christ.
 
 ------------------------------------------------------------------------
 
-[Next: II. The High Priestess](pktar02)
+[Next: II. The High Priestess](pktar02.md)

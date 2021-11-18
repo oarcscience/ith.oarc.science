@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index)
+Heritage](../../index) [Buddhism](../index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ The She-rab Dong-bu is an ethical treatise written by the illustrious
 Nagarjuna. Although he is celebrated as one of the most subtle thinkers
 that Buddhism, and indeed the world, has ever produced, this work is
 fairly simple and intended for a broad audience. Particularly striking
-is the (nearly rabid) [misogyny](srdb.htm#pp_246), a feature fully in
+is the (nearly rabid) [misogyny](srdb.htm#pp_246.md), a feature fully in
 keeping with the time and place of composition, but one that we might
 wish not to see in the writing of the grand formulator of the Madhyamika
 school of philosophy.
@@ -34,7 +34,7 @@ corrected in a future edition.
 
 NOTE: The Microsoft font is no longer available for download. For more
 information about unicode at Intangible Textual Heritage, refer to [this
-page](../../unicode).(JBH)
+page](../../unicode).(JBH.md)
 
 There were three corrigenda bound into the copy that I scanned from.
 These have been added to the original text after the text that they are

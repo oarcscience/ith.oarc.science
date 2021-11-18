@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ American](../../index)  [Southwest](../index) 
 
 ------------------------------------------------------------------------
 
-[Tribes of the Thirty-Fifth Parallel](32p)  
+[Tribes of the Thirty-Fifth Parallel](32p.md)  

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo22)  [Next](aoo24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo22)  [Next](aoo24.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ the youth, his father, Odysseus, was even then nearing his home.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](aoo24)
+[Next: Chapter I](aoo24.md)

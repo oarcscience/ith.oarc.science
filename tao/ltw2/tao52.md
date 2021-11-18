@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao52)   
-[Previous](tao51)  [Next](tao53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao52.md)   
+[Previous](tao51)  [Next](tao53.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ one's body is to return to the nature of one's origin.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 53](tao53)
+[Next: Chapter 53](tao53.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca10) 
-[Next](lca12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca10.md) 
+[Next](lca12.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ Horus in her arms; and the Roman church fixed the celebration of Mary's
 assumption into glory at the very date (15th August) of the said
 constellation's disappearance from sight in the blaze of the solar rays,
 and her birth on the date (8th Sep.) of the same constellation's
-reappearance <span id="fr_31"></span>[1](#fn_31).
+reappearance <span id="fr_31"></span>[1](#fn_31.md).
 
 The history of Israel reveals a long series of avowedly sexual and solar
 worships carried on alongside with that of Jehovah--worships of Baal,
@@ -88,7 +88,7 @@ altar-cloths of Christianity, just as the astronomical symbols are woven
 and worked into its Calendar, and both sets of symbols, astronomical and
 sexual, into the very construction of our Churches and Cathedrals. Jesus
 himself--so entangled is the worship of this greatest man with the
-earlier cults--is purported <span id="fr_32"></span>[1](#fn_32) to have
+earlier cults--is purported <span id="fr_32"></span>[1](#fn_32.md) to have
 been born like the other sungods, Bacchus, Apollo, Osiris, on the 25th
 day of December, the day of the sun's re-birth (*i.e.*, the first day
 which obviously lengthens after the 21st December--the day of the
@@ -132,7 +132,7 @@ the wildest races, rejoicing
 
 before all things in the consciousness of Life, we find festivals of
 fierce endurance and torments willingly undergone with a kind of savage
-glee; <span id="fr_33"></span>[1](#fn_33) and during the Christian
+glee; <span id="fr_33"></span>[1](#fn_33.md) and during the Christian
 centuries--monks, mystics, and world-spiting puritans--this instinct was
 sometimes exalted into the very first place of honor. I suppose it will
 have to be recognised--whatever absurd aberrations the tendency may have
@@ -194,17 +194,17 @@ the attempt of the human mind to establish some such sane polarity?
 
 ### Footnotes
 
-<span id="fn_31"></span>[155:1](lca11.htm#fr_31) These dates have
+<span id="fn_31"></span>[155:1](lca11.htm#fr_31.md) These dates have
 shifted now by two or three weeks owing to the equinoctial precession.
 
-<span id="fn_32"></span>[156:1](lca11.htm#fr_32) The date of his birth
+<span id="fn_32"></span>[156:1](lca11.htm#fr_32.md) The date of his birth
 was not fixed till A.D. 531--when it was computed by a monkish
 astrologer.
 
-<span id="fn_33"></span>[158:1](lca11.htm#fr_33) Note especially the
+<span id="fn_33"></span>[158:1](lca11.htm#fr_33.md) Note especially the
 ordeals through which the youth of so many savage races have had to pass
 before being admitted to manhood.
 
 ------------------------------------------------------------------------
 
-[Next: Note on the Primitive Group-Marriage](lca12)
+[Next: Note on the Primitive Group-Marriage](lca12.md)

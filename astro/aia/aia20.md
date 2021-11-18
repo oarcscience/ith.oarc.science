@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia19)  [Next](aia21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia19)  [Next](aia21.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ planets' aspects to one another at the time of the question, according
 to natural and not enforced maxims of art; for by how much you endeavour
 to strain a judgment beyond nature, by so much the more you augment your
 error. A planet is then said to be really strong when he has many
-essential dignities, <span id="fr_54"></span>[1](#fn_54) which are known
+essential dignities, <span id="fr_54"></span>[1](#fn_54.md) which are known
 by his being either in his house, exaltation, triplicity, term, or face,
 at the time of erecting the figure. As, for example, in any scheme of
 heaven, if you find a planet in any of those signs we call his house, he
@@ -95,11 +95,11 @@ present thee with a table according to Ptolemy.
 
 ### Footnotes
 
-<span id="fn_54"></span>[69:1](aia20.htm#fr_54) These apply not to
+<span id="fn_54"></span>[69:1](aia20.htm#fr_54.md) These apply not to
 nativities where the angular position and good aspects received by a
 planet constitute its strength.--ZAD.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVIII. Table of the Essential Dignities of the
-Planets](aia21)
+Planets](aia21.md)

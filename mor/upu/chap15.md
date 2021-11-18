@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap14) [Next](chap16)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap14) [Next](chap16.md)
 
 ------------------------------------------------------------------------
 
@@ -361,4 +361,4 @@ senators made anything like such a despicable record.
 
 ------------------------------------------------------------------------
 
-[Next: XVI The Price of Protest](chap16)
+[Next: XVI The Price of Protest](chap16.md)

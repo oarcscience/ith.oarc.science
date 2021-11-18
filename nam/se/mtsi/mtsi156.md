@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi155)  [Next](mtsi157) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi155)  [Next](mtsi157.md) 
 
 ------------------------------------------------------------------------
 
-### 20. THE MEN WHO WENT TO THE SKY <span id="fr_38"></span>[1](#fn_38) (23)
+### 20. THE MEN WHO WENT TO THE SKY <span id="fr_38"></span>[1](#fn_38) (23.md)
 
 Two men started off to visit The-One-Sitting-Above (God). They went on.
 They went a long distance and came to where a Sharp-buttocks lived. He
@@ -36,7 +36,7 @@ got through and went on. After they had gone on for a while they saw
 something black coming after them and they stopped and looked at it.
 They became frightened. "Something wants to kill us," they said. They
 turned round and waited for it to come close, but when it got near it
-fell into a steep-sided hollow. <span id="fr_39"></span>[1](#fn_39)
+fell into a steep-sided hollow. <span id="fr_39"></span>[1](#fn_39.md)
 
 Then they started on and presently they came to where a man lived who
 said, "You can not pass along this trail without assistance. There is a
@@ -103,13 +103,13 @@ will live; if you do not see me you will die."
 
 ### Footnotes
 
-<span id="fn_38"></span>[139:1](mtsi156.htm#fr_38) A note of another
+<span id="fn_38"></span>[139:1](mtsi156.htm#fr_38.md) A note of another
 version speaks of four men instead of two and says that they traveled
 west.
 
-<span id="fn_39"></span>[140:1](mtsi156.htm#fr_39) This was probably a
+<span id="fn_39"></span>[140:1](mtsi156.htm#fr_39.md) This was probably a
 magic kålaha, or chunk stone, supposed to be self-operant.
 
 ------------------------------------------------------------------------
 
-[Next: 21. The Men Who Went to the Sky (Second Version)](mtsi157)
+[Next: 21. The Men Who Went to the Sky (Second Version)](mtsi157.md)

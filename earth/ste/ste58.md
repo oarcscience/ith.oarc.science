@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste57)  [Next](ste59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste57)  [Next](ste59.md) 
 
 ------------------------------------------------------------------------
 
@@ -289,4 +289,4 @@ be deceiv’d.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](ste59)
+[Next: Chapter II](ste59.md)

@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa04) [Next](rsa06)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa04) [Next](rsa06.md)
 
 ------------------------------------------------------------------------
 
@@ -7,7 +7,7 @@
 ### NOTE.
 
 S<span class="small">INCE</span> writing [Note 62, p.
-91](rsa01.htm#page_91_note_62), on the Shade or Shadow of a man, I have
+91](rsa01.htm#page_91_note_62.md), on the Shade or Shadow of a man, I have
 found that many of the natives connect the shade with the spirit to a
 much greater extent than I supposed.
 
@@ -36,4 +36,4 @@ shadow, he is still living. If a short one, or none at all, he is dead!
 
 ------------------------------------------------------------------------
 
-[Next](rsa06)
+[Next](rsa06.md)

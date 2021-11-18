@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
-[Index](index)  [Previous](flos03)  [Next](flos05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
+[Index](index)  [Previous](flos03)  [Next](flos05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of Shakespeare*, by T.F. Thiselton Dyer, \[1883\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ not surprising that Shakespeare should have made frequent allusions to
 this popular belief, considering how extensively it prevailed in the
 sixteenth and seventeenth centuries; the religious and dramatic
 literature of the period being full of it. Indeed, as Mr Williams <span
-id="fr_45"></span>[1](#fn_45) points out, "what the vulgar superstition
+id="fr_45"></span>[1](#fn_45.md) points out, "what the vulgar superstition
 must have been may be easily conceived, when men of the greatest genius
 or learning credited the possibility, and not only a theoretical but
 possible occurrence, of these infernal phenomena." Thus Francis Bacon
@@ -44,7 +44,7 @@ itself famous for all time by the thousands of victims it caused to be
 sent to the torture-chamber, to the stake, and to the scaffold. Thus he
 has given a graphic account of the celebrated Jeanne D’Arc, the Maid of
 Orleans, in 1 Henry VI., although Mr Dowden <span
-id="fr_46"></span>[2](#fn_46) is of opinion that this play was written
+id="fr_46"></span>[2](#fn_46.md) is of opinion that this play was written
 by one or
 
 <span id="page_25">p. 25</span>
@@ -55,7 +55,7 @@ our greatest poet the crude and hateful handling of the character of
 Joan of Arc, excused though to some extent it may be by the occurrence
 of view in our old English chronicles."
 
-   Mr Lecky, <span id="fr_47"></span>[1](#fn_47) too, regards the
+   Mr Lecky, <span id="fr_47"></span>[1](#fn_47.md) too, regards the
 conception of Joan of Arc given in I Henry VI. as "the darkest blot upon
 the poet's genius," but it must be remembered that we only have
 expressed the current belief of his day—the English vulgar having
@@ -104,7 +104,7 @@ But she adds—
 
    Finally, convicted of practising sorcery, and filling "the world with
 vicious qualities," she was condemned to be burnt. Her death, however,
-Sir Walter Scott <span id="fr_48"></span>[2](#fn_48) says, "was not, we
+Sir Walter Scott <span id="fr_48"></span>[2](#fn_48.md) says, "was not, we
 
 <span id="page_26">p. 26</span>
 
@@ -121,18 +121,18 @@ pages.
 
    The witch of Brentford, mentioned by Mrs Page in "The Merry Wives of
 Windsor" (iv. 2), was an actual personage, the fame, says
-Staunton, <span id="fr_49"></span>[1](#fn_49) "of whose vaticinations
+Staunton, <span id="fr_49"></span>[1](#fn_49.md) "of whose vaticinations
 must have been traditionally well known to an audience of the time,
 although the records we possess of her are scant enough. The chief of
 them is a black letter tract, printed. by William Copland in the middle
 of the sixteenth century, entitled "Jyl of Braintford's Testament," from
 which it appears she was hostess of a tavern at Brentford. <span
-id="fr_50"></span>[2](#fn_50) One of the characters in Dekker and
-Webster's "Westward Ho" <span id="fr_51"></span>[3](#fn_51) says, "I
+id="fr_50"></span>[2](#fn_50.md) One of the characters in Dekker and
+Webster's "Westward Ho" <span id="fr_51"></span>[3](#fn_51.md) says, "I
 doubt that old hag, Gillian of Brainford has bewitched me."
 
    The witches in "Macbeth" are probably Scottish hags. As Mr Gunnyon
-remarks, <span id="fr_52"></span>[4](#fn_52) "They are hellish monsters,
+remarks, <span id="fr_52"></span>[4](#fn_52.md) "They are hellish monsters,
 brewing hell-broth, having cats and toads for familiars, loving
 midnight, riding on the passing storm, and devising evil against such as
 offend them. They crouch beneath the gibbet of the murderer, meet in
@@ -153,7 +153,7 @@ anomalous of physical nature, elemental avengers without sex or kin."
    It has been urged, however, by certain modern critics, that these
 three sisters, "who play such an important part in 'Macbeth' are not
 witches at all, but are, or are intimately allied to, the Norns or Fates
-of Scandinavian paganism." <span id="fr_53"></span>[1](#fn_53) Thus, a
+of Scandinavian paganism." <span id="fr_53"></span>[1](#fn_53.md) Thus, a
 writer in the *Academy* (Feb. 8th, 1879) thinks that Shakespeare drew
 upon Scandinavian mythology for a portion of the material he used in
 constructing these characters, and that he derived the rest from the
@@ -220,8 +220,8 @@ Renaissance. Hecate, of course, is only another name for Diana.
 "Witchcraft, in truth, is no modern invention. Witches were believed in
 by the vulgar in the time of Horace as implicitly as in the time of
 Shakespeare. And the belief that the Pagan gods were really existent as
-evil demons is one which has [come](errata.htm#0) down from the very
-earliest ages of Christianity." <span id="fr_54"></span>[1](#fn_54) As
+evil demons is one which has [come](errata.htm#0.md) down from the very
+earliest ages of Christianity." <span id="fr_54"></span>[1](#fn_54.md) As
 far back as the fourth century, the Council of Ancyra is said to have
 condemned the pretensions of witches; that in the night-time they rode
 abroad, or feasted with their mistress, who was one of the
@@ -230,11 +230,11 @@ abroad, or feasted with their mistress, who was one of the
 
 <span class="contnote">\[paragraph continues\]</span> Pagan goddesses,
 Minerva, Sibylla, or Diana, or else Herodias. <span
-id="fr_55"></span>[1](#fn_55) In Middleton's "Witch," Hecate is the name
+id="fr_55"></span>[1](#fn_55.md) In Middleton's "Witch," Hecate is the name
 of one of his witches, and she has a son a low buffoon. In Jonson's "Sad
 Shepherd" (ii. 1) Maudlin the witch calls Hecate the mistress of
 witches, "Our dame Hecate." Whilst speaking of the witches in "Macbeth,"
-it may be pointed out that <span id="fr_56"></span>[2](#fn_56) "the full
+it may be pointed out that <span id="fr_56"></span>[2](#fn_56.md) "the full
 meaning of the 1st scene is the fag-end of a witch's Sabbath, which, if
 fully represented, would bear a strong resemblance to the scene at the
 commencement of the 4th Act. But a long scene on such a subject would be
@@ -243,7 +243,7 @@ is therefore left to assume that the witches have met, performed their
 conjurations, obtained from the evil spirits the information concerning
 Macbeth's career that they desired to obtain, and perhaps have been
 commanded by the fiends to perform the mission they subsequently carry
-through." Brand <span id="fr_57"></span>[3](#fn_57) describes this
+through." Brand <span id="fr_57"></span>[3](#fn_57.md) describes this
 "Sabbath of the witches as a meeting to which the sisterhood, after
 having been anointed with certain magical ointments, provided by their
 infernal leader, are supposed to be carried through the air on brooms,"
@@ -277,14 +277,14 @@ One distinctive mark, also, of a werwolf, or human being changed into a
 wolf, was the absence of a tail. The cat was said to be the form most
 commonly assumed by the familiar spirits of witches; as, for instance,
 where the first witch says, "I come, Graymalkin!" <span
-id="fr_58"></span>[1](#fn_58) (i. 1), and further on (iv. i), "Thrice
+id="fr_58"></span>[1](#fn_58) (i. 1), and further on (iv. i.md), "Thrice
 the brinded cat hath mew’d." In German legends and traditions, we find
 frequent notice of witches, assuming the form of a cat, and displaying
 their fiendish character in certain diabolical acts. It was, however,
 the absence of the tail that only too often was the cause of the witch
 being detected in her disguised form. There were various other modes of
 detecting witches; one being "the trial by the stool," to which an
-[allusion](errata.htm#1) is made in "Troilus and Cressida" (ii. 1),
+[allusion](errata.htm#1) is made in "Troilus and Cressida" (ii. 1.md),
 where Ajax says to Thersites—
 
 <div style="margin-left: 32px">
@@ -328,7 +328,7 @@ scratching with a needle the arm of a young girl. He pleaded that he had
 complaints on him at once, had lost fourteen canaries, and about fifty
 goldfinches, and that his neighbours told him this was the only way to
 break the spell and get out of her power." <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 It was, also, a popular belief that a great share of faith was a
 protection from witchcraft. Hence, in the "Comedy of Errors" (iii. 2.),
@@ -450,12 +450,12 @@ Sumner's "Last Will and Testament"—
 the sale of winds. After being paid they knitted three magical knots,
 and told the buyer that when he untied the first he would have a good
 gale; when the second, a strong wind; and when the third, a severe
-tempest. <span id="fr_60"></span>[1](#fn_60)
+tempest. <span id="fr_60"></span>[1](#fn_60.md)
 
    The sieve, as a symbol of the clouds, has been regarded amongst all
 nations of the Aryan stock as the mythical vehicle used by witches,
 nightmares, and other elfish beings in their excursions over land and
-sea. <span id="fr_61"></span>[2](#fn_61) Thus the first witch in
+sea. <span id="fr_61"></span>[2](#fn_61.md) Thus the first witch in
 "Macbeth" (i. 3), referring to the scoff which she had received from a
 sailor's wife, says—
 
@@ -464,7 +464,7 @@ sailor's wife, says—
 <span class="small">"Her husband's to Aleppo gone, master o’ the
 Tiger:  
  But in a sieve I'll thither sail." <span
-id="fr_62"></span>[3](#fn_62)</span>
+id="fr_62"></span>[3](#fn_62.md)</span>
 
 </div>
 
@@ -529,7 +529,7 @@ after giving instructions to the weird host, says—
 </div>
 
    To this purpose they prepared various ointments, concerning which
-Reginald Scot <span id="fr_63"></span>[1](#fn_63) says—"The devil
+Reginald Scot <span id="fr_63"></span>[1](#fn_63.md) says—"The devil
 teacheth them to make ointment of the bowels and members of children,
 whereby they ride in the air and accomplish all their desires. After
 burial they steal them out of their graves and seethe them in a cauldron
@@ -540,7 +540,7 @@ their graves, of the juices of smallage, wolfbane, and cinquefoil,
 mingled with the meal of fine wheat; but I suppose the soporiferous
 medicines are likest to do it, which are—henbane, hemlock, mandrake,
 moonshade—or, rather, nightshade—tobacco, opium, saffron," <span
-id="fr_64"></span>[2](#fn_64) &c. These witch recipes, which are very
+id="fr_64"></span>[2](#fn_64.md) &c. These witch recipes, which are very
 
 <span id="page_35">p. 35</span>
 
@@ -557,7 +557,7 @@ numerous, are well illustrated in Shakespeare's grim cauldron scene. In
 we may compare a similar notion given by Apuleius, who, in describing
 the process used by the witch, Milo's wife, for transforming herself
 into a bird, says—"That she cut the lumps of flesh of such as were
-hanged." <span id="fr_65"></span>[1](#fn_65)
+hanged." <span id="fr_65"></span>[1](#fn_65.md)
 
    Another way by which witches exercise their power was by looking into
 futurity, as in "Macbeth" (i. 3), where Banquo says to them—
@@ -662,7 +662,7 @@ And again, in "The Two Gentlemen of Verona" (ii. 4), Proteus says—
 <span class="small">"For now my love is thaw’d;  
  Which, like a waxen image ’gainst a fire,  
  Bears no impression of the thing it was." <span
-id="fr_66"></span>[1](#fn_66)</span>
+id="fr_66"></span>[1](#fn_66.md)</span>
 
 </div>
 
@@ -713,7 +713,7 @@ their cows and other cattle from witchcraft; but they seem to have been
 most suspected of malice against swine. Harsnet observes, how, formerly,
 "A sow could not be ill of the measles, nor a girl of the sullens, but
 some old woman was charged with witchcraft." <span
-id="fr_67"></span>[1](#fn_67)
+id="fr_67"></span>[1](#fn_67.md)
 
    Mr Henderson, in his "Folk-Lore of the Northern Counties" (1879, p.
 182), relates how a few years ago a witch died in the village of Bovey
@@ -728,7 +728,7 @@ ancient and modern. Thus in "Macbeth" (i. 3), the
 
 witches take hold of hands and dance round in a ring nine times—three
 rounds for each witch as a charm for the furtherance of her
-purposes." <span id="fr_68"></span>[1](#fn_68)
+purposes." <span id="fr_68"></span>[1](#fn_68.md)
 
 <div style="margin-left: 32px">
 
@@ -806,7 +806,7 @@ in nativity, chance, or death!"</span>
 
 he alludes to the use that witches and enchanters were commonly supposed
 to make of withered branches in their charms. <span
-id="fr_69"></span>[2](#fn_69)\*
+id="fr_69"></span>[2](#fn_69.md)\*
 
    Amongst other items of witch-lore mentioned by Shakespeare, may be
 noticed the common belief in the intercourse
@@ -841,9 +841,9 @@ speaking of Beatrice, she says—
 
 </div>
 
-   Familiar spirits <span id="fr_70"></span>[1](#fn_70) attending on
+   Familiar spirits <span id="fr_70"></span>[1](#fn_70.md) attending on
 magicians and witches were always impatient of confinement. <span
-id="fr_71"></span>[2](#fn_71) So in the "Tempest" (i. 2) we find an
+id="fr_71"></span>[2](#fn_71) So in the "Tempest" (i. 2.md) we find an
 illustration of this notion in the following dialogue—
 
 <div style="margin-left: 32px">
@@ -858,7 +858,7 @@ illustration of this notion in the following dialogue—
 witch, occurs again in "King Lear" (iii. 4), "Aroint thee, witch, aroint
 thee." That *aroint* is equivalent to "away," "begone," seems to be
 agreed, though its etymology is uncertain. <span
-id="fr_72"></span>[3](#fn_72)\* "Rynt thee" is used by Milkmaids in
+id="fr_72"></span>[3](#fn_72.md)\* "Rynt thee" is used by Milkmaids in
 Cheshire to a. cow, when she has been milked, to bid her get out of the
 way. Ray in his Collection of North Country Words (1768, p. 52) gives
 "Rynt ye, by your leave, stand handsomly, as rynt you witch, quoth
@@ -877,7 +877,7 @@ Fame" (book ii. 32)—
 </div>
 
 Other derivations are from the Latin averrunco: the Italian rogna, a
-cutaneous disease, &c. <span id="fr_73"></span>[1](#fn_73)\*
+cutaneous disease, &c. <span id="fr_73"></span>[1](#fn_73.md)\*
 
    How thoroughly Shakespeare was acquainted with the system of
 witchcraft is evident from the preceding pages, in which we have noticed
@@ -889,101 +889,101 @@ by him, mention of which is made in succeeding chapters.
 
 ### Footnotes
 
-<span id="fn_45"></span>[24:1](flos04.htm#fr_45) "Superstitions of
+<span id="fn_45"></span>[24:1](flos04.htm#fr_45.md) "Superstitions of
 Witchcraft," 1865, p. 220.
 
-<span id="fn_46"></span>[24:2](flos04.htm#fr_46) "Shakspere Primer,"
+<span id="fn_46"></span>[24:2](flos04.htm#fr_46.md) "Shakspere Primer,"
 1877, p. 63.
 
-<span id="fn_47"></span>[25:1](flos04.htm#fr_47) "Rationalism in
+<span id="fn_47"></span>[25:1](flos04.htm#fr_47.md) "Rationalism in
 Europe," 1870, i. p. 106.
 
-<span id="fn_48"></span>[25:2](flos04.htm#fr_48) "Demonology and
+<span id="fn_48"></span>[25:2](flos04.htm#fr_48.md) "Demonology and
 Witchcraft," 1881, pp. 292, 193.
 
-<span id="fn_49"></span>[26:1](flos04.htm#fr_49) "Shakespeare," 1864,
+<span id="fn_49"></span>[26:1](flos04.htm#fr_49.md) "Shakespeare," 1864,
 ii. p. 161.
 
-<span id="fn_50"></span>[26:2](flos04.htm#fr_50) See Dyce's "Glossary,"
+<span id="fn_50"></span>[26:2](flos04.htm#fr_50.md) See Dyce's "Glossary,"
 p. 51.
 
-<span id="fn_51"></span>[26:3](flos04.htm#fr_51) Webster's Works, edited
+<span id="fn_51"></span>[26:3](flos04.htm#fr_51.md) Webster's Works, edited
 by Dyce, 1857, p. 238.
 
-<span id="fn_52"></span>[26:4](flos04.htm#fr_52) "Illustrations of
+<span id="fn_52"></span>[26:4](flos04.htm#fr_52.md) "Illustrations of
 Scottish History, Life, and Superstition," 1879, p. 322.
 
-<span id="fn_53"></span>[27:1](flos04.htm#fr_53) Spalding's "Elizabethan
+<span id="fn_53"></span>[27:1](flos04.htm#fr_53.md) Spalding's "Elizabethan
 Demonology," 1880, p. 86.
 
-<span id="fn_54"></span>[28:1](flos04.htm#fr_54) "Notes to Macbeth"
+<span id="fn_54"></span>[28:1](flos04.htm#fr_54.md) "Notes to Macbeth"
 (Clark & Wright), 1877, p. 137.
 
-<span id="fn_55"></span>[29:1](flos04.htm#fr_55) Scot's "Discovery of
+<span id="fn_55"></span>[29:1](flos04.htm#fr_55.md) Scot's "Discovery of
 Witchcraft," 1584, Book iii., chap. 16. See Douce's "Illustrations of
 Shakespeare," p. 235.
 
-<span id="fn_56"></span>[29:2](flos04.htm#fr_56) "Elizabethan
+<span id="fn_56"></span>[29:2](flos04.htm#fr_56.md) "Elizabethan
 Demonology," pp. 102, 103. See Conway's "Demonology and Devil-lore," ii.
 p. 253.
 
-<span id="fn_57"></span>[29:3](flos04.htm#fr_57) "Pop. Antiq.," 1849,
+<span id="fn_57"></span>[29:3](flos04.htm#fr_57.md) "Pop. Antiq.," 1849,
 iii. p. 8.
 
-<span id="fn_58"></span>[30:1](flos04.htm#fr_58) Graymalkin—a grey cat.
+<span id="fn_58"></span>[30:1](flos04.htm#fr_58.md) Graymalkin—a grey cat.
 
-<span id="fn_59"></span>[31:1](flos04.htm#fr_59) Henderson's "Folk-Lore
+<span id="fn_59"></span>[31:1](flos04.htm#fr_59.md) Henderson's "Folk-Lore
 of Northern Counties," p. 181.
 
-<span id="fn_60"></span>[33:1](flos04.htm#fr_60) Olaus Magnus' "History
+<span id="fn_60"></span>[33:1](flos04.htm#fr_60.md) Olaus Magnus' "History
 of the Goths," 1638, p. 47. See note to the "Pirate."
 
-<span id="fn_61"></span>[33:2](flos04.htm#fr_61) See Hardwick's
+<span id="fn_61"></span>[33:2](flos04.htm#fr_61.md) See Hardwick's
 "Traditions and Folk-Lore," pp. 108, 109; Kelly's "Indo-European
 Folk-Lore," pp. 214, 215.
 
-<span id="fn_62"></span>[33:3](flos04.htm#fr_62) In Greek, ἑπὶ ῥιπους
+<span id="fn_62"></span>[33:3](flos04.htm#fr_62.md) In Greek, ἑπὶ ῥιπους
 πλε̑ιν, "to go to sea in a sieve," was a proverbial expression for an
 enterprise of extreme hazard or impossible of achievement.—Clarke &
 Wright's notes to "Macbeth," 1877, p. 82.
 
-<span id="fn_63"></span>[34:1](flos04.htm#fr_63) "Discovery of
+<span id="fn_63"></span>[34:1](flos04.htm#fr_63.md) "Discovery of
 Witchcraft," 1584, Book iii. chap. I, p. 40; see Spalding's "Elizabethan
 Demonology," p. 103.
 
-<span id="fn_64"></span>[34:2](flos04.htm#fr_64) See Brand's "Pop.
+<span id="fn_64"></span>[34:2](flos04.htm#fr_64.md) See Brand's "Pop.
 Antiq.," iii. pp. 8–10.
 
-<span id="fn_65"></span>[35:1](flos04.htm#fr_65) Douce, "Illustrations
+<span id="fn_65"></span>[35:1](flos04.htm#fr_65.md) Douce, "Illustrations
 of Shakespeare," p. 245, says—"See Adlington's Translation (1596, p.
 49), a book certainly used by Shakespeare on other occasions."
 
-<span id="fn_66"></span>[36:1](flos04.htm#fr_66) See Henderson's
+<span id="fn_66"></span>[36:1](flos04.htm#fr_66.md) See Henderson's
 "Folk-Lore of the Northern Counties," 1879, p. 181.
 
-<span id="fn_67"></span>[37:1](flos04.htm#fr_67) See *Pig*—Chapter on
+<span id="fn_67"></span>[37:1](flos04.htm#fr_67.md) See *Pig*—Chapter on
 Animals.
 
-<span id="fn_68"></span>[38:1](flos04.htm#fr_68) Notes to "Macbeth" by
+<span id="fn_68"></span>[38:1](flos04.htm#fr_68.md) Notes to "Macbeth" by
 Clarke and Wright, 1877, p. 84.
 
-<span id="fn_69"></span>[38:2](flos04.htm#fr_69) See Jones’ "Credulities
+<span id="fn_69"></span>[38:2](flos04.htm#fr_69.md) See Jones’ "Credulities
 Past and Present," 1880, pp. 256–289.
 
-<span id="fn_70"></span>[39:1](flos04.htm#fr_70) Allusions to this
+<span id="fn_70"></span>[39:1](flos04.htm#fr_70.md) Allusions to this
 superstition occur in "Love's Labour's Lost" (i. 2) "love is a
 familiar"; in 1 Henry VI. (iii. 2), "I think her old familiar is asleep;
 and in 2 Henry VI. (iv. 7) "he has a familiar under his tongue."
 
-<span id="fn_71"></span>[39:2](flos04.htm#fr_71) See Scot's "Discovery
+<span id="fn_71"></span>[39:2](flos04.htm#fr_71.md) See Scot's "Discovery
 of Witchcraft," 1584, p. 85.
 
-<span id="fn_72"></span>[39:3](flos04.htm#fr_72) See Dyce's "Glossary,"
+<span id="fn_72"></span>[39:3](flos04.htm#fr_72.md) See Dyce's "Glossary,"
 pp. 18, 19.
 
-<span id="fn_73"></span>[40:1](flos04.htm#fr_73) "Notes to Macbeth"
+<span id="fn_73"></span>[40:1](flos04.htm#fr_73.md) "Notes to Macbeth"
 (Clarke and Wright), pp. 81, 82.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Ghosts](flos05)
+[Next: Chapter III. Ghosts](flos05.md)

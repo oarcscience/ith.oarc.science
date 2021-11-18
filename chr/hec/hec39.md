@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](hec38)  [Next](hec40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](hec38)  [Next](hec40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKOI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Eastern Church*, by J.M. Neale, \[1884\], at Intangible
 Textual Heritage
 
@@ -27,7 +27,7 @@ by S. Cosmas
 
 Rod of the Root of Jesse,  
   Thou, Flower of Mary born,  
-From that thick shady mountain <span id="fr_4"></span>[\*](#fn_4)  
+From that thick shady mountain <span id="fr_4"></span>[\*](#fn_4.md)  
   Cam’st glorious forth this morn:  
 Of her, the ever Virgin,  
   Incarnate east Thou made,  
@@ -78,11 +78,11 @@ Schroeder.</span>\]
 
 ### Footnotes
 
-<span id="fn_4"></span>[136:\*](hec39.htm#fr_4) The reference is to the
+<span id="fn_4"></span>[136:\*](hec39.htm#fr_4.md) The reference is to the
 Song of Habakkuk; \[iii. 3\], where the LXX. give—"<span
 class="smallcaps">God</span> shall come from Teman, and The Holy from
 the thick and shady mountain of Paran."
 
 ------------------------------------------------------------------------
 
-[Next: Canon For Christmas Day, Ode V.](hec40)
+[Next: Canon For Christmas Day, Ode V.](hec40.md)

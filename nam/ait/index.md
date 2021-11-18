@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ait00)
+[Contents](#contents)    [Start Reading](ait00.md)
 
 ------------------------------------------------------------------------
 
@@ -40,28 +40,28 @@ in 1895 and titled Snow Bird and the Water Tiger and other American
 Indian Tales. The uncredited illustrations are nice examples of
 children's book art from the period. The book also has decorative
 borders on every page, some of which can be viewed on the [verso page
-image](img/verso.jpg).
+image](img/verso.jpg.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ait00)  
-[Author's Note](ait01)  
-[Contents](ait02)  
-[List of Illustrations](ait03)  
-[The Story-Teller Himself](ait04)  
-[Snowbird and the Water-Tiger](ait05)  
-[The Coyote or Prairie Wolf.](ait06)  
-[How Mad Buffalo Fought the Thunder-Bird](ait07)  
-[The Red Swan](ait08)  
-[The Bended Rocks](ait09)  
-[White Hawk, the Lazy](ait10)  
-[The Magic Feather](ait11)  
-[The Star Maiden](ait12)  
-[The Fighting Hare](ait13)  
-[The Great Head](ait14)  
-[The Adventures of Living Statue](ait15)  
-[Turtle-Dove, Sage-Cock, and the Witch](ait16)  
-[The Island of Skeletons](ait17)  
-[Stone-Shirt and the One-Two](ait18)  
-[The Great Wizard](ait19)  
-[White Cloud's Visit to the Sun-Prince](ait20)  
+<span id="contents"></span> [Title Page](ait00.md)  
+[Author's Note](ait01.md)  
+[Contents](ait02.md)  
+[List of Illustrations](ait03.md)  
+[The Story-Teller Himself](ait04.md)  
+[Snowbird and the Water-Tiger](ait05.md)  
+[The Coyote or Prairie Wolf.](ait06.md)  
+[How Mad Buffalo Fought the Thunder-Bird](ait07.md)  
+[The Red Swan](ait08.md)  
+[The Bended Rocks](ait09.md)  
+[White Hawk, the Lazy](ait10.md)  
+[The Magic Feather](ait11.md)  
+[The Star Maiden](ait12.md)  
+[The Fighting Hare](ait13.md)  
+[The Great Head](ait14.md)  
+[The Adventures of Living Statue](ait15.md)  
+[Turtle-Dove, Sage-Cock, and the Witch](ait16.md)  
+[The Island of Skeletons](ait17.md)  
+[Stone-Shirt and the One-Two](ait18.md)  
+[The Great Wizard](ait19.md)  
+[White Cloud's Visit to the Sun-Prince](ait20.md)  

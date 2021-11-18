@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](kmu11)  [Next](kmu13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](kmu11)  [Next](kmu13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428628258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Kundalini, The Mother of the Universe*, by Rishi Singh Gherwal,
 \[1930\], at Intangible Textual Heritage
 
@@ -192,7 +192,7 @@ Devatas).
 
 78\. When Ganesa broke the obstacle of the magic, Thou wast delighted.
 
-79\. Thou dischargeth [Missiles](errata.htm#20) to answer the Bhandasura
+79\. Thou dischargeth [Missiles](errata.htm#20.md) to answer the Bhandasura
 (realization of self and overcoming ignorance).
 
 80\. From Thy nails the ten Vishnu take form.
@@ -586,7 +586,7 @@ all).
 
 262\. Thou art the State of Ecstacy.
 
-263\. Thou art the All [Transcending](errata.htm#21) State.
+263\. Thou art the All [Transcending](errata.htm#21.md) State.
 
 264\. Thou art the Creator.
 
@@ -716,7 +716,7 @@ purposely controlling the Three).
 
 323\. Thou art fond of Flowers.
 
-324\. Thou art [Beneficent](errata.htm#22).
+324\. Thou art [Beneficent](errata.htm#22.md).
 
 325\. Thou art the Root of the World.
 
@@ -738,7 +738,7 @@ purposely controlling the Three).
 
 333\. Thou art disturbed by liquor.
 
-334\. Thou [transcendest](errata.htm#23) the Universe.
+334\. Thou [transcendest](errata.htm#23.md) the Universe.
 
 335\. Thou canst be known thru the Vedas (Holy book of Wisdom).
 
@@ -847,7 +847,7 @@ of Misery.
 
 385\. Thou art not seen by Any.
 
-386\. Thou art [accompanied](errata.htm#24) by Deities.
+386\. Thou art [accompanied](errata.htm#24.md) by Deities.
 
 387\. Thou art the Possessor of the Six Qualities.
 
@@ -1235,9 +1235,9 @@ evening junction time or meditation. Also means Brahma).
 
 571\. Thou art the witness of the dissolution of the Universe.
 
-572\. Thou art perfect [Energy](errata.htm#25).
+572\. Thou art perfect [Energy](errata.htm#25.md).
 
-573\. Thou art [perfect](errata.htm#26) Endlessness.
+573\. Thou art [perfect](errata.htm#26.md) Endlessness.
 
 574\. Thou art pure Wisdom.
 
@@ -1323,7 +1323,7 @@ evening junction time or meditation. Also means Brahma).
 
 613\. Thou art the Speech of the Poets.
 
-614\. Thou art attended by [Lakshmi](errata.htm#27) and Saraswati
+614\. Thou art attended by [Lakshmi](errata.htm#27.md) and Saraswati
 (Goddess’ of Wealth and Wisdom).
 
 615\. Thou art the First Energy.
@@ -1388,7 +1388,7 @@ evening junction time or meditation. Also means Brahma).
 
 643\. Thou art the Giver of Knowledge.
 
-645\. Thou canst be known thru the [Vedanta](errata.htm#28). (Wisdom.)
+645\. Thou canst be known thru the [Vedanta](errata.htm#28). (Wisdom..md)
 
 646\. Thou art Truth and Bliss.
 
@@ -1426,7 +1426,7 @@ evening junction time or meditation. Also means Brahma).
 
 662\. Thou art Eight-Formed,
 
-663\. Thou art [Conqueror](errata.htm#29) of Ignorance.
+663\. Thou art [Conqueror](errata.htm#29.md) of Ignorance.
 
 664\. Thou art the Director of the Worlds.
 
@@ -1472,7 +1472,7 @@ evening junction time or meditation. Also means Brahma).
 
 684\. Thou art the King of Kings.
 
-685\. Thou art the Giver of [Dominion](errata.htm#30).
+685\. Thou art the Giver of [Dominion](errata.htm#30.md).
 
 686\. Thou art the Spirit of Gladness in Dominion. (in the six Chakras).
 
@@ -1639,7 +1639,7 @@ olden times).
 
 762\. Thou art Three-Sun, Moon and Fire.
 
-763\. Thou art Three Qualities.—Raja, Tamas and [Sattva](errata.htm#31).
+763\. Thou art Three Qualities.—Raja, Tamas and [Sattva](errata.htm#31.md).
 
 764\. Thou art the Giver of Heaven and Liberation.
 
@@ -1781,7 +1781,7 @@ Yogis).
 
 829\. Thou art the Foundation of All.
 
-830\. Thou [art](errata.htm#32) experienced in all Forms.
+830\. Thou [art](errata.htm#32.md) experienced in all Forms.
 
 831\. Thou art Master of the Senses.
 
@@ -1923,13 +1923,13 @@ to Thee.
 
 895\. Thou art the Home of Origin.
 
-896\. Thou art the [Manifester](errata.htm#33) of ignorance.
+896\. Thou art the [Manifester](errata.htm#33.md) of ignorance.
 
 897\. Thou art worshipped Externally.
 
 898\. Thou art in the assembly of Warriors.
 
-599\. Thou art [Valorous](errata.htm#34).
+599\. Thou art [Valorous](errata.htm#34.md).
 
 900 Thou art above Actions.
 
@@ -2007,7 +2007,7 @@ to Thee.
 
 935\. Thou art the Supporter. of the Universe.
 
-936\. Thou art worshipped at [Benares](errata.htm#35), Himalaya (between
+936\. Thou art worshipped at [Benares](errata.htm#35.md), Himalaya (between
 both eyes).
 
 937\. Thou art free from Passion.
@@ -2147,4 +2147,4 @@ Sadasiva.
 
 ------------------------------------------------------------------------
 
-[Next: Why We Worship Siva](kmu13)
+[Next: Why We Worship Siva](kmu13.md)

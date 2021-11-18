@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](oprt14)  [Next](oprt16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](oprt14)  [Next](oprt16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Old Peter's Russian Tales*, by Arthur Ransome, \[1916\], at Intangible
 Textual Heritage
 
@@ -72,7 +72,7 @@ ones.
 
 <span id="img_20800"></span> <span align="CENTER"> [![Head in air and
 tail in sea, Fish, fish, listen to me.](tn/20800.jpg)  
-Click to enlarge](img/20800.jpg)  
+Click to enlarge](img/20800.jpg.md)  
 Head in air and tail in sea, Fish, fish, listen to me.  
 </span>
 
@@ -176,4 +176,4 @@ story, and a chapter all by itself, and begins on the next page.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Fish](oprt16)
+[Next: The Golden Fish](oprt16.md)

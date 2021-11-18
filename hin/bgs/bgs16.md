@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg16)   
-[Previous](bgs15)  [Next](bgs17) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg16.md)   
+[Previous](bgs15)  [Next](bgs17.md) 
 
 ------------------------------------------------------------------------
 
@@ -94,4 +94,4 @@ jñātvā śāstravidhānoktaṃ karma kartum ihārhasi
 
 ------------------------------------------------------------------------
 
-[Next: XVII. atha saptadaśodhyāyaḥ. (śraddhātrayavibhāgayogaḥ)](bgs17)
+[Next: XVII. atha saptadaśodhyāyaḥ. (śraddhātrayavibhāgayogaḥ)](bgs17.md)

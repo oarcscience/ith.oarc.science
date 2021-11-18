@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo78)  [Next](hoo80) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo78)  [Next](hoo80.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ And far avert the deep's destructive ire. 10
 
 ------------------------------------------------------------------------
 
-[Next: LXXV: To the Muses](hoo80)
+[Next: LXXV: To the Muses](hoo80.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](sotu11)  [Next](sotu13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](sotu11)  [Next](sotu13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00086EZJI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Universe*, by Nathan R. Wood, \[1932\], at Intangible
 Textual Heritage
 
@@ -398,4 +398,4 @@ is one who consciously lives in the triune kingdom of the Triune God.
 ------------------------------------------------------------------------
 
 [Next: VII. The Secret of the Universe and the Problem of Ethics, or the
-Good](sotu13)
+Good](sotu13.md)

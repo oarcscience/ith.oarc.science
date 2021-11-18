@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot02) 
-[Next](sot04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot02.md) 
+[Next](sot04.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ themselves.
 
 ------------------------------------------------------------------------
 
-[Next: Card II. The High Priestess](sot04)
+[Next: Card II. The High Priestess](sot04.md)

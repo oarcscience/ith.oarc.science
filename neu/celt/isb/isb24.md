@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb23)  [Next](isb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb23)  [Next](isb25.md) 
 
 ------------------------------------------------------------------------
 
@@ -677,4 +677,4 @@ round and never reach a second edition
 
 ------------------------------------------------------------------------
 
-[Next: Country Meetings in Kildare--Meath--Drogheda.](isb25)
+[Next: Country Meetings in Kildare--Meath--Drogheda.](isb25.md)

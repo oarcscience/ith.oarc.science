@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot25) 
-[Next](laot27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](laot25.md) 
+[Next](laot27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996135/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life of Apollonius of Tyana*, by Philostratus, tr. F.C. Conybeare,
 \[1912\], at Intangible Textual Heritage
 
@@ -146,7 +146,7 @@ repeated to us so evil a record; and bestow
 
 upon Romans a popular government, and on yourself the glory of
 inaugurating for them a reign of liberty." <span
-id="fr_14"></span>[1](#fn_14)
+id="fr_14"></span>[1](#fn_14.md)
 
 ### CHAPTER XXXIV
 
@@ -481,9 +481,9 @@ letters to Dion he censures his use of words to captivate the crowd.
 
 ### Footnotes
 
-<span id="fn_14"></span>[1:543:1](laot26.htm#fr_14) Cp. Tacitus, Hist.
+<span id="fn_14"></span>[1:543:1](laot26.htm#fr_14.md) Cp. Tacitus, Hist.
 i. 16: dignus eram a quo respublica inciperet.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters 41-43](laot27)
+[Next: Chapters 41-43](laot27.md)

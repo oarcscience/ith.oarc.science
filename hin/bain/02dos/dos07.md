@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos06)  [Next](dos08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos06)  [Next](dos08.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ his sword.
 
 ------------------------------------------------------------------------
 
-[Next: V. Nightwalker](dos08)
+[Next: V. Nightwalker](dos08.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal097)  [Next](njal099) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal097)  [Next](njal099.md) 
 
 ------------------------------------------------------------------------
 
@@ -176,4 +176,4 @@ part of the rites of the new faith.
 
 ------------------------------------------------------------------------
 
-[Next: 99. Of Gest Oddleif's Son](njal099)
+[Next: 99. Of Gest Oddleif's Son](njal099.md)

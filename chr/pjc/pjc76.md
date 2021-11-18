@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc75)  [Next](pjc77) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc75)  [Next](pjc77.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -33,7 +33,7 @@ tomb. These angels were clothed as priests. Their position, and the
 manner in which they crossed their arms over their breasts, reminded me
 of the cherubim who surrounded the Ark of the Covenant, only they were
 without wings; at least I did not see any. The whole of the
-[sepulchre](errata.htm#2) reminded me of the Ark of the Covenant at
+[sepulchre](errata.htm#2.md) reminded me of the Ark of the Covenant at
 different periods of its history. It is possible that Cassius was
 sensible of the presence of the angels, and of the bright light which
 filled the sepulchre, for his attitude was like that of a person in deep
@@ -164,4 +164,4 @@ Nicodemus.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXIII. The Resurrection of our Lord](pjc77)
+[Next: Chapter LXIII. The Resurrection of our Lord](pjc77.md)

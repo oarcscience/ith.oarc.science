@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa21)  [Next](zfa23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa21)  [Next](zfa23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,9 +21,9 @@ Heritage
 
 <span id="page_193">p. 193</span>
 
-### BUDDHIST VIEW OF WAR <span id="fr_42"></span>[1](#fn_42)
+### BUDDHIST VIEW OF WAR <span id="fr_42"></span>[1](#fn_42.md)
 
-"THIS triple world <span id="fr_43"></span>[2](#fn_43) is my own
+"THIS triple world <span id="fr_43"></span>[2](#fn_43.md) is my own
 possession. All the things therein are my own children. Sentient or
 non-sentient, animate or inanimate, organic or inorganic, the ten
 thousand things in this world are no more than the reflections of my own
@@ -137,14 +137,14 @@ But let us rest confident that finally every ill will come to some good.
 
 ### Footnotes
 
-<span id="fn_42"></span>[193:1](zfa22.htm#fr_42) Reproduced from THE
+<span id="fn_42"></span>[193:1](zfa22.htm#fr_42.md) Reproduced from THE
 OPEN COURT, May, 3, 1904.
 
-<span id="fn_43"></span>[193:2](zfa22.htm#fr_43) The "triple world"
+<span id="fn_43"></span>[193:2](zfa22.htm#fr_43.md) The "triple world"
 (*triloka*) is a common Buddhist term for "universe." The three worlds
 are "the world of desire"--(*kâmaloka*), "the world of bodily form"
 (*rûpaloka*), and "the immaterial world" (*arûpaloka*).
 
 ------------------------------------------------------------------------
 
-[Next: At The Battle of Nan-Shan Hill](zfa23)
+[Next: At The Battle of Nan-Shan Hill](zfa23.md)

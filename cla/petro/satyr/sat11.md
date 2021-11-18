@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat10)  [Next](sat12) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat10)  [Next](sat12.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER TEN
 
-\[LXV <span id="LXV"></span>[(Latin)](../satyrlat/satl065) \] After this
+\[LXV <span id="LXV"></span>[(Latin)](../satyrlat/satl065.md) \] After this
 display of good nature, there followed a course of delicacies, only to
 think of which, if you'll believe me, makes me feel ill. For instead of
 thrushes, a fatted hen was set before each guest and chaperoned
@@ -38,7 +38,7 @@ dead man's fortune came to fifty thousand. I assure you it was all very
 pleasant, though we did have to pour half our liquor over his old
 bones."
 
-\[LXVI <span id="LXVI"></span>[(Latin)](../satyrlat/satl066) \] "But
+\[LXVI <span id="LXVI"></span>[(Latin)](../satyrlat/satl066.md) \] "But
 what did you have for dinner?" Trimalchio asked.
 
 "I'll tell you, if I can," was the answer, "but there, I have such a
@@ -64,7 +64,7 @@ siftings; pickled olives also were handed round in a bowl, from which
 some of the party were mean enough to help themselves to three handfuls
 each; the ham we declined altogether.
 
-\[LXVII <span id="LXVII"></span>[(Latin)](../satyrlat/satl067) \] "But
+\[LXVII <span id="LXVII"></span>[(Latin)](../satyrlat/satl067.md) \] "But
 pray, Gaius, why is not Fortunata at table?"
 
 "Don't you know her better than that?" answered Trimalchio. "Not until
@@ -113,7 +113,7 @@ screeched, as her tunic slipped up above her knees. Then falling on
 Scintilla's bosom, she hid in her handkerchief a face all afire with
 blushes.
 
-\[LXVIII <span id="LXVIII"></span>[(Latin)](../satyrlat/satl068) \]
+\[LXVIII <span id="LXVIII"></span>[(Latin)](../satyrlat/satl068.md) \]
 After a short interval Trimalchio next ordered the dessert to be served;
 hereupon the servants removed all the tables and brought in fresh ones,
 and strewed the floor with saffron and vermilion colored sawdust and,--a
@@ -146,7 +146,7 @@ squinting, I don't mind that; Venus has the same little defect. That's
 why his tongue is never still, because one eye is pretty much always on
 the alert. I gave three hundred denars for him."
 
-\[LXIX <span id="LXIX"></span>[(Latin)](../satyrlat/satl069) \] Here
+\[LXIX <span id="LXIX"></span>[(Latin)](../satyrlat/satl069.md) \] Here
 Scintilla interrupted the speaker; "You take good care," she said, "not
 to mention all the scamp's qualifications. I'm sure he must be an arrant
 go-between; but I'll see to it that he has his brand before long."
@@ -181,7 +181,7 @@ I instantly guessed its nature, and said, giving Agamemnon a look, "For
 my own part, I shall be greatly surprised, if it is not all made of
 filth, or at any rate mud. When I was in Rome at the Saturnalia, I saw
 some sham eatables of the same sort." \[LXX <span
-id="LXX"></span>[(Latin)](../satyrlat/satl070) \] I had not done
+id="LXX"></span>[(Latin)](../satyrlat/satl070.md) \] I had not done
 speaking when Trimalchio explained, "As I hope to grow a bigger man,--in
 fortune I mean, not fat,--I declare my cook made it every bit out of a
 pig. Never was a more invaluable fellow! Give the word, he'll make you a
@@ -224,7 +224,7 @@ Indeed he was not satisfied with merely being present, but immediately
 began an imitation of Ephesus the Tragedian, after which he offered his
 master a bet that at the next races the green would score first prize.
 
-\[LXXI <span id="LXXI"></span>[(Latin)](../satyrlat/satl071) \]
+\[LXXI <span id="LXXI"></span>[(Latin)](../satyrlat/satl071.md) \]
 Delighted at the challenge, Trimalchio cried, "Yes! my friends, slaves
 are human beings too, and have sucked mother's milk as well as we,
 though untoward circumstance has borne them down. Nevertheless, without
@@ -285,7 +285,7 @@ BEHIND HIM.
 FAREWELL;  
 GO AND DO THOU LIKEWISE!"
 
-\[LXXII <span id="LXXII"></span>[(Latin)](../satyrlat/satl072) \] When
+\[LXXII <span id="LXXII"></span>[(Latin)](../satyrlat/satl072.md) \] When
 he had finished reading this document, Trimalchio fell to weeping
 copiously. Fortunata wept too; so did Habinnas; so did the servants; in
 fact, the whole household filled the room with lamentations, for all the
@@ -319,7 +319,7 @@ hall-keeper to let us out, "You're much mistaken," said he, "if you
 think you can go out the same way you came in. No guest is ever
 dismissed by the same door; they enter one, go out by another."
 
-\[LXXIII <span id="LXXIII"></span>[(Latin)](../satyrlat/satl073) \] So
+\[LXXIII <span id="LXXIII"></span>[(Latin)](../satyrlat/satl073.md) \] So
 what were we poor unfortunates to do now, prisoners in this new kind of
 labyrinth, and reduced to choose the bath as the only alternative? We
 took the bull by the horns therefore, and asked the hall-keeper to show
@@ -360,7 +360,7 @@ a ring from his left hand to his right, saying, "'Tis not for nothing
 chanticleer has sounded his note of warning; a fire is bound to happen,
 or some one's going to die in the vicinity. Save us from ill! Anyone
 bringing me yonder prophet of evil, shall have a present for his pains."
-\[LXXIV <span id="LXXIV"></span>[(Latin)](../satyrlat/satl074) \] No
+\[LXXIV <span id="LXXIV"></span>[(Latin)](../satyrlat/satl074.md) \] No
 sooner said than done; a cock was instantly produced from somewhere
 near, which Trimalchio ordered to be killed and put in the pot to boil.
 He was cut up accordingly by the same clever cordon bleu who a while
@@ -403,7 +403,7 @@ Habinnas, to put her statue on my tomb at all, that I may not have any
 scolding when I'm gone. I'll teach her I can do her a mischief; I won't
 have her so much as kiss my dead body!"
 
-\[LXXV <span id="LXXV"></span>[(Latin)](../satyrlat/satl075) \] After
+\[LXXV <span id="LXXV"></span>[(Latin)](../satyrlat/satl075.md) \] After
 this thunderclap, Habinnas began to entreat him to forget and forgive.
 "Nobody," he urged, "but goes wrong sometimes; we're men after all, not
 gods." Scintilla spoke to the same purpose with tears in her eyes, and
@@ -434,7 +434,7 @@ my master's joy for fourteen years; there's nothing disgraceful in doing
 your master's bidding. And I satisfied my mistress into the bargain. You
 know what I mean; I say no more, for I'm none of your boasters.
 
-\[LXXVI <span id="LXXVI"></span>[(Latin)](../satyrlat/satl076) \]
+\[LXXVI <span id="LXXVI"></span>[(Latin)](../satyrlat/satl076.md) \]
 "Eventually, it so pleased the gods, I found myself king of the castle,
 and behold! I could twist my master round my finger. To make a long
 story short, he made me his co-heir with the Emperor, and I came into a
@@ -465,7 +465,7 @@ forgotten, explaining it all as pat as needle and thread; he knew my
 inside, he could all but tell me what I'd had for dinner the day before.
 You would have thought he had lived with me all my life.
 
-\[LXXVII <span id="LXXVII"></span>[(Latin)](../satyrlat/satl077) \] "Now
+\[LXXVII <span id="LXXVII"></span>[(Latin)](../satyrlat/satl077.md) \] "Now
 tell me, Habinnas,--you were there at the time, I think--didn't he say:
 'You have used your wealth to set a mistress over you. You are not very
 lucky in your friends. No one is ever properly grateful to you. You have
@@ -490,7 +490,7 @@ humble servant, who was a toad once upon a time, is a king now.
 buried in; also the unguent, and a taste of the wine I wish to have my
 bones washed with."
 
-\[LXXVIII <span id="LXXVIII"></span>[(Latin)](../satyrlat/satl078) \]
+\[LXXVIII <span id="LXXVIII"></span>[(Latin)](../satyrlat/satl078.md) \]
 Without a moment's delay, Stichus produced a white shroud and a
 magistrate's gown into the dining-hall, and asked us to feel if they
 were made of good wool. Then his master added with a laugh, "Mind,
@@ -520,4 +520,4 @@ real conflagration.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eleven](sat12)
+[Next: Chapter Eleven](sat12.md)

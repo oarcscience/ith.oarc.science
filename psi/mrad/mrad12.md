@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Parapsychology](../index) 
-[Index](index)  [Previous](mrad11)  [Next](mrad13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Parapsychology](../index.md) 
+[Index](index)  [Previous](mrad11)  [Next](mrad13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTN5A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mental Radio*, by Upton Sinclair, \[1930\], at Intangible Textual
 Heritage
 
@@ -49,14 +49,14 @@ driving. After a few minutes Craig said, "I see something long and
 oblong, like a stand." She got a pad and pencil from a pocket of the
 car, and switched on the ceiling light, and made a drawing, and then
 opened the envelope. Here are the pictures; I call it a partial success
-([fig. 26, 26a](#img_fig026)):
+([fig. 26, 26a](#img_fig026).md):
 
-<span id="img_fig026"></span> ![Fig. 26, Fig. 26a](img/fig026.jpg)
+<span id="img_fig026"></span> ![Fig. 26, Fig. 26a](img/fig026.jpg.md)
 
 Here is the next pair, done on the same drive to Pasadena ([figs. 27,
-27a](#img_fig027)):
+27a](#img_fig027).md):
 
-<span id="img_fig027"></span> ![Fig. 27, Fig. 27a](img/fig027.jpg)
+<span id="img_fig027"></span> ![Fig. 27, Fig. 27a](img/fig027.jpg.md)
 
 <span id="page_89">p. 89</span>
 
@@ -70,9 +70,9 @@ legs, and the legs sticking out in bug effect." When she looked into the
 envelope, she was so excited that she tried to get me to look—at forty
 miles an hour on a highway at night! Here is the drawing, meant to be a
 skull and cross-bones, but so done that a "bug with legs" is really a
-fair description of it ([fig. 28](#img_fig028)):
+fair description of it ([fig. 28](#img_fig028).md):
 
-<span id="img_fig028"></span> ![Fig. 28](img/fig028.jpg)
+<span id="img_fig028"></span> ![Fig. 28](img/fig028.jpg.md)
 
 After we arrived at our destination, my wife did some more of the
 drawings, and got partial successes. On this telephone the comment was:
@@ -81,22 +81,22 @@ drawings, and got partial successes. On this telephone the comment was:
 
 <span class="contnote">\[paragraph continues\]</span> "Goblet with
 another one floating near or above it inverted" ([figs. 29,
-29a](#img_fig029)):
+29a](#img_fig029).md):
 
-<span id="img_fig029"></span> ![Fig. 29, Fig. 29a](img/fig029.jpg)
+<span id="img_fig029"></span> ![Fig. 29, Fig. 29a](img/fig029.jpg.md)
 
-And then this arrow ([figs. 30, 30a](#img_fig030)):
+And then this arrow ([figs. 30, 30a](#img_fig030).md):
 
-<span id="img_fig030"></span> ![Fig. 30, Fig. 30a](img/fig030.jpg)
+<span id="img_fig030"></span> ![Fig. 30, Fig. 30a](img/fig030.jpg.md)
 
 Concerning the above my wife wrote: "See something that suggests a
 garden tool—a lawn rake, or spade." And for the next one ([fig.
-31](#img_fig031)) she wrote: "A pully-bone"—which is Mississippi "darky"
+31](#img_fig031).md) she wrote: "A pully-bone"—which is Mississippi "darky"
 talk for a wish-bone of a chicken. I don't know whether it means a bone
 that you pull, or whether it is Creole for "poulet." Here is what my
-secretary had drawn ([fig. 31](#img_fig031)):
+secretary had drawn ([fig. 31](#img_fig031).md):
 
-<span id="img_fig031"></span> ![Fig. 31](img/fig031.jpg)
+<span id="img_fig031"></span> ![Fig. 31](img/fig031.jpg.md)
 
 <span id="page_91">p. 91</span>
 
@@ -111,23 +111,23 @@ stroke done exactly, with the curl. A capital E in script was done with
 the curls left out.
 
 And the same with the second series. Here is a square—but you see that
-the two halves of it are wandering about ([fig. 32, 32a](#img_fig032)):
+the two halves of it are wandering about ([fig. 32, 32a](#img_fig032).md):
 
-<span id="img_fig032"></span> ![Fig. 32, Fig. 32a](img/fig032.jpg)
+<span id="img_fig032"></span> ![Fig. 32, Fig. 32a](img/fig032.jpg.md)
 
 <span id="page_92">p. 92</span>
 
 And here is a letter Y, but by telepathy it has been turned from script
-into print ([fig. 33, 33a](#img_fig033)):
+into print ([fig. 33, 33a](#img_fig033).md):
 
-<span id="img_fig033"></span> ![Fig. 33, Fig. 33a](img/fig033.jpg)
+<span id="img_fig033"></span> ![Fig. 33, Fig. 33a](img/fig033.jpg.md)
 
 A quite different story began when my secretary allowed his imagination
 a little play. He knows that my wife lives in part on milk, and he knows
 that she is particular about the quality, because he has to handle the
 bills. So he has a little fun with her, and you see that immediately she
 gets, not the form, but the color and feeling of it ([figs. 34,
-34a](#img_fig034)):
+34a](#img_fig034).md):
 
 <span id="img_fig034"></span> ![](img/fig034.jpg)
 
@@ -146,9 +146,9 @@ exclamation mark at the end has been justified by the effect of it on
 our lives. My wife made a figure five with long lines going out, and
 wrote: "I don't know why the five should have such a thing as an
 appendage, but the appendage was most vivid, so there it is" ([figs. 35,
-35a](#img_fig035)):
+35a](#img_fig035).md):
 
-<span id="img_fig035"></span> ![Fig. 35, Fig. 35a](img/fig035.jpg)
+<span id="img_fig035"></span> ![Fig. 35, Fig. 35a](img/fig035.jpg.md)
 
 After she had opened the envelope and seen the original drawing, the
 problem became, not why a figure five should have an appendage, but why
@@ -166,4 +166,4 @@ explanation, but it is the one which her mind brought to her.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII](mrad13)
+[Next: Chapter XII](mrad13.md)

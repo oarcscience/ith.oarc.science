@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl16)  [Next](isl18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl16)  [Next](isl18.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ containing dust.
 the Qur’ān; (6) Touching a copy of the Qur’ān; (7) Remaining in a
 mosque; (8) Sexual contacts; (9) Formal repudiation of a wife; (10)
 Being counted in a period of voluntary continence. <span
-id="fr_50"></span>[2](#fn_50)
+id="fr_50"></span>[2](#fn_50.md)
 
  
 
@@ -220,7 +220,7 @@ has not fulfilled the conditions (of preparation).
 When a Muslim abstains from saying his prayers from negligence, one
 should ask him three times to repent; if he repents, all is well; if he
 refuses it is lawful to put him to death. <span
-id="fr_51"></span>[3](#fn_51)
+id="fr_51"></span>[3](#fn_51.md)
 
  
 
@@ -245,7 +245,7 @@ mid-night. Then begins the "delay of necessity" which persists until the
 true dawn.
 
 The time of the dawn-prayer falls from the true dawn until the sun has
-risen. <span id="fr_52"></span>[4](#fn_52)
+risen. <span id="fr_52"></span>[4](#fn_52.md)
 
 \[It is characteristic of the type of differences between the
 law-schools that the exact times of prayer vary from school to school.\]
@@ -413,7 +413,7 @@ reason. . . .
 words in the recitation. As for "reciting loudly," it is for one to hear
 himself and be heard by a man near him, if he is not acting as an
 *imām*. A woman should speak more softly than a man. <span
-id="fr_53"></span>[5](#fn_53)
+id="fr_53"></span>[5](#fn_53.md)
 
 \[Friday is the Muslim day of Congregational Prayer, though it does not
 have to be kept as a day of rest. The noon-prayers are recited by the
@@ -583,7 +583,7 @@ a niche in the grave for the body) and the other did not. So they said,
 "Whoever comes first shall perform his office." And the man who (made
 niches at the bottom of the grave) came first, so he dug a niche for the
 Messenger of God--God's blessing and peace be on him!" <span
-id="fr_54"></span>[6](#fn_54) \[Virtually all Muslim graves have this
+id="fr_54"></span>[6](#fn_54.md) \[Virtually all Muslim graves have this
 recess at the sides.\]
 
  
@@ -782,7 +782,7 @@ religious knowledge or going on a pilgrimage).
 
 *Zakāt* may not be distributed to an infidel, or to a member of the
 Prophet's clan (who is entitled to a regular allotment). <span
-id="fr_55"></span>[7](#fn_55)
+id="fr_55"></span>[7](#fn_55.md)
 
  
 
@@ -888,7 +888,7 @@ do that, he must fast sixty days, or if he cannot do that, give sixty
 days' provisions to the poor. If he is unable to do all this, the
 obligation remains, and he must still do it if ever he is able. . . . It
 is not possible for a poor person to pay his atonement to his own
-family. <span id="fr_56"></span>[8](#fn_56)
+family. <span id="fr_56"></span>[8](#fn_56.md)
 
  
 
@@ -1015,39 +1015,39 @@ Visitation is finished.
 
 Shaving the head is best, in Pilgrimage and Visitation, but merely
 cropping it close is permitted. *Sunna* for a woman is cropping. <span
-id="fr_57"></span>[9](#fn_57)
+id="fr_57"></span>[9](#fn_57.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_50"></span>[118:2](isl17.htm#fr_50) Muwaffaq al-Dīn ibn
+<span id="fn_50"></span>[118:2](isl17.htm#fr_50.md) Muwaffaq al-Dīn ibn
 Qudāma, *Kitāb al-‘Umda fi Ahkām al-Fiqh*, pp. 1-14. Translation of
 Henri Laoust as: *Le Précis de droit d’Ibn Qudama* (Beirut, 1950).
 
-<span id="fn_51"></span>[118:3](isl17.htm#fr_51) *Ibid*., p. 17.
+<span id="fn_51"></span>[118:3](isl17.htm#fr_51.md) *Ibid*., p. 17.
 
-<span id="fn_52"></span>[118:4](isl17.htm#fr_52) *Ibid*., pp. 19, 20.
+<span id="fn_52"></span>[118:4](isl17.htm#fr_52.md) *Ibid*., pp. 19, 20.
 
-<span id="fn_53"></span>[118:5](isl17.htm#fr_53) Ibn Abī Zayd
+<span id="fn_53"></span>[118:5](isl17.htm#fr_53.md) Ibn Abī Zayd
 al-Qayrawāni, Al-*Risāla* (4th Ed.; Algiers, 1952), with French
 translation by L. Bercher, pp. 56-68.
 
-<span id="fn_54"></span>[118:6](isl17.htm#fr_54) Muhammad Fu’ad ‘Abd
+<span id="fn_54"></span>[118:6](isl17.htm#fr_54.md) Muhammad Fu’ad ‘Abd
 al-Bāqī, *Al-Muwaṭṭa’* (Cairo, 1951), Vol. I, p. 222 ff.
 
-<span id="fn_55"></span>[118:7](isl17.htm#fr_55) Abū Ishaq al-Shīrāzi
+<span id="fn_55"></span>[118:7](isl17.htm#fr_55.md) Abū Ishaq al-Shīrāzi
 al-Fīrūzābādī, *Kitāb al-Tanbīh*. Abridged from French translation of G.
 H. Bousquet (Algiers, 1949).
 
-<span id="fn_56"></span>[118:8](isl17.htm#fr_56) Muhyi al-Dīn al-Nawawī,
+<span id="fn_56"></span>[118:8](isl17.htm#fr_56.md) Muhyi al-Dīn al-Nawawī,
 *Minhāj al-Ṭālibīn*, Vol. I, "Kitāb al-Ṡiyam," abridged from pp.
 279-291. With a French translation by L. W. C. Van Den Berg (Batavia,
 1882).
 
-<span id="fn_57"></span>[118:9](isl17.htm#fr_57) Ibn Abī Zayd
+<span id="fn_57"></span>[118:9](isl17.htm#fr_57.md) Ibn Abī Zayd
 al-Qayrawāni, *op. cit.*, pp. 141-147.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Regulation of Personal Status](isl18)
+[Next: 2. The Regulation of Personal Status](isl18.md)

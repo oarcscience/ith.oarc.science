@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm04)  [Next](rrm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm04)  [Next](rrm06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -145,7 +145,7 @@ life and the beliefs of the Rosicrucians were very dramatic, at the same
 time that the latter were very true, although generally disbelieved.
 
 <span id="img_00500"></span> ![Delphic E&lt;br&gt; (With the significant
-point in the centre)](img/00500.jpg)  
+point in the centre)](img/00500.jpg.md)  
 Delphic E  
 (With the significant point in the centre)
 
@@ -153,4 +153,4 @@ Delphic E
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Singular Adventure in Staffordshire](rrm06)
+[Next: Chapter II. Singular Adventure in Staffordshire](rrm06.md)

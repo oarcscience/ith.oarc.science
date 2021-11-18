@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](gen)  [Next](mat) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](gen)  [Next](mat.md) 
 
 ------------------------------------------------------------------------
 
@@ -4486,4 +4486,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Matthew](mat)
+[Next: Matthew](mat.md)

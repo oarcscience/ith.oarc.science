@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw70)  [Next](omw72) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw70)  [Next](omw72.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 <span id="img_24500"></span>
 
 [![Ama-terasu and the Storm God](tn/24500.jpg)  
-Click to enlarge](img/24500.jpg)  
+Click to enlarge](img/24500.jpg.md)  
 Ama-terasu and the Storm God  
 
 # JAPANESE
@@ -112,7 +112,7 @@ younger God. Susa-no-wo awakened. He could not even move his head since
 his hair was tied to the beams of the roof, and he had to loosen each
 strand of hair before he could go in pursuit of the one who had carried
 off his daughter and his treasures. At last he freed
-[himself](errata.htm#1); led by the sound of the harp that still played
+[himself](errata.htm#1.md); led by the sound of the harp that still played
 of itself he followed that one. But when he came to where Oh-kuni-nushi
 was with the maiden whom he had carried off, Susa-no-wo said, "You have
 great craft, and because you have I will give you this maiden and all my
@@ -170,4 +170,4 @@ in our land.
 
 ------------------------------------------------------------------------
 
-[Next: The First People](omw72)
+[Next: The First People](omw72.md)

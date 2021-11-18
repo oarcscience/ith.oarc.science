@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale09)  [Next](tale11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale09)  [Next](tale11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ various kinds of
 <span id="img_05500"></span>
 
 [![THE MAN IS ASTONISHED AT THE BEAUTY OF THE PORTERESS](tn/05500.jpg)  
-Click to enlarge](img/05500.jpg)  
+Click to enlarge](img/05500.jpg.md)  
 THE MAN IS ASTONISHED AT THE BEAUTY OF THE PORTERESS  
 
 scents and spices from a druggist's store, she halted before a
@@ -245,7 +245,7 @@ Shortly after Amina entered carrying a seat, which she
 <span id="img_06100"></span>
 
 [![ZOBEIDA PREPARES TO WHIP THE DOG](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)  
+Click to enlarge](img/06100.jpg.md)  
 ZOBEIDA PREPARES TO WHIP THE DOG  
 
 <span id="page_62">p. 62</span> <span id="page_63">p. 63</span>
@@ -421,4 +421,4 @@ principal lady, began his story.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of the First Calender, Son of a King](tale11)
+[Next: The Story of the First Calender, Son of a King](tale11.md)

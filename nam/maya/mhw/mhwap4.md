@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](mhwap3)  [Next](mhwap5) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](mhwap3)  [Next](mhwap5.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -212,7 +212,7 @@ reads:
 
 Conceivably the equation should be moved forward one CR. The association
 of the calabtun glyph with the earlier date would most logically
-[indicate](errata.htm#4) that the earlier date fell in a calabtun which
+[indicate](errata.htm#4.md) that the earlier date fell in a calabtun which
 was not the same as that current during Baktun 9. Should the coefficient
 of the pictun have been 0 at 13.0.0.0.0 4 Ahau 8 Cumku, as I believe,
 the coefficient of the calabtun would have been one digit less if a
@@ -335,4 +335,4 @@ which should also appeal to the psychologist.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix V. Determinants](mhwap5)
+[Next: Appendix V. Determinants](mhwap5.md)

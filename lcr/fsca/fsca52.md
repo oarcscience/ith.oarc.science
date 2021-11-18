@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca51)  [Next](fsca53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca51)  [Next](fsca53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ beast of prey, and totally unlike in appearance and in disposition to
 the beautiful small-limbed gentle creature with which we are acquainted.
 That such was the prevailing opinion
 
-<span id="img_21400"></span> ![Heraldic Antelope.](img/21400.jpg)
+<span id="img_21400"></span> ![Heraldic Antelope.](img/21400.jpg.md)
 
 in the time of Spenser is evident. In the "Faerie Queen" he makes the
 stout Sir Satyrane—
@@ -77,4 +77,4 @@ the natural antelope is intended.
 
 ------------------------------------------------------------------------
 
-[Next: Heraldic Ibex](fsca53)
+[Next: Heraldic Ibex](fsca53.md)

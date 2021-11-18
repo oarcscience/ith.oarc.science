@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wil01)  [Next](wil03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wil01)  [Next](wil03.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ RABINDRANATH TAGORE
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Setting of the Warp](wil03)
+[Next: Chapter I. The Setting of the Warp](wil03.md)

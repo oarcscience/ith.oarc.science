@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas02)  [Next](sas04)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas02)  [Next](sas04.md)  
 
 ------------------------------------------------------------------------
 
@@ -447,4 +447,4 @@ by reason of their attainment, it is no longer necessary.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Four: Tantra Shastra and Veda](sas04)
+Next: [Chapter Four: Tantra Shastra and Veda](sas04.md)

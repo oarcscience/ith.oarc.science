@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt15)  [Next](ettt17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt15)  [Next](ettt17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Intangible Textual Heritage
 Now the third instruction on the Illusoriness of Bardo:
 
 This topic will be discussed in two aspects; a general introduction to
-the subject of the Bardo[88](ettt22.htm#an_n_nar:88)<span
+the subject of the Bardo[88](ettt22.htm#an_n_nar:88.md)<span
 id="an_r_nar:88"></span> state, and instructions on the successive
 practices.
 
@@ -75,7 +75,7 @@ Instead, a body for them will come into being (made) of the Skandha of
 the Heaven-of-Non-Form.
 
 Some declare that the Beings of
-Non-Intermission[89](ettt22.htm#an_n_nar:89)<span
+Non-Intermission[89](ettt22.htm#an_n_nar:89.md)<span
 id="an_r_nar:89"></span> both of lower and upper, will not experience
 Bardo at all. This kind of statement shows ignorance. The
 *Abhidharma-Ghosa* says:
@@ -141,7 +141,7 @@ Trikaya of the Path and Fruit are used to denote the Three Dharmas of
 the Foundation. They understand that it is merely the names of the
 Trikaya and not the real Trikaya being used to explain the Three Dharmas
 of Foundation. This background is found in many other
-sources.[90](ettt22.htm#an_n_nar:90)<span id="an_r_nar:90"></span>
+sources.[90](ettt22.htm#an_n_nar:90.md)<span id="an_r_nar:90"></span>
 
 From this view, the so-called practice of the Illusory Body Bardo in the
 waking state is merely a name, not the real Bardo. Likewise the
@@ -157,7 +157,7 @@ ordinary sentient beings, however, the same period is merely Bardo.
 
 For these reasons the "so-called" three Bardos are avowed; however, such
 statements do not make much sense and are
-superfluous.[91](ettt22.htm#an_n_nar:91)<span id="an_r_nar:91"></span>
+superfluous.[91](ettt22.htm#an_n_nar:91.md)<span id="an_r_nar:91"></span>
 The basic principle is to interpret and associate the Three Dharmas of
 the Foundation with the Trikaya of the Path (in order) to establish a
 system. Only after this first consideration can the Birth-Death Bardo
@@ -212,7 +212,7 @@ with the Third Initiation).
 In view of the fact that the Bardoist always experiences the Lust and
 Hate when entering into the womb of the mother, some scholars mistakenly
 aligned the Illusory Body with the Hate. This view is
-erroneous,[92](ettt22.htm#an_n_nar:92)<span id="an_r_nar:92"></span>
+erroneous,[92](ettt22.htm#an_n_nar:92.md)<span id="an_r_nar:92"></span>
 because it implied the abandonment of the practice of the Illusory Body
 of the Waking and Dream states. By holding these views they neglect the
 real basis of the Illusory Body teaching. Also they cannot possibly
@@ -244,7 +244,7 @@ aligned with Sleeping-state and Light).
 Some claim that Marpa said that the Lust should be aligned with the
 Non-Leakage (Zag-med), the Hate should be aligned with the Illusory
 Body, the Blindness with the Light. The two former statements are not a
-convincing theory at all.[92](ettt22.htm#an_n_nar:92)
+convincing theory at all.[92](ettt22.htm#an_n_nar:92.md)
 
 Some Lamas say that in correspondence with the Sg’ye-she-bardo certain
 aspects of the Two-Successive Step Practice (Arising Yoga and Perfecting
@@ -278,7 +278,7 @@ Bardo conditions. This technical use of the word "illusory" will be
 noticed on several occasions.\] Sambhogakaya will appear in the Bardo;
 rely on it and you will attain Buddhahood. In the past the scholars of
 Tibet regarded this teaching of attaining Buddhahood while in the Bardo
-state as "the lazy man's teaching."[93](ettt22.htm#an_n_nar:93)<span
+state as "the lazy man's teaching."[93](ettt22.htm#an_n_nar:93.md)<span
 id="an_r_nar:93"></span> However, there are some yogis who are not lazy
 but nevertheless lack certain necessary conditions which are required
 (for the attainment of Buddhahood in this life), so that they cannot
@@ -446,7 +446,7 @@ At the time of the emergence of the Death-Light, the Three Steps
 subside, one after another. Eventually, all the pranas dissolve in the
 Heart Center; the white *Thig-le* drops down from the Head-Center, the
 red *Thig-le* rises up from the Navel Center, and they join together at
-the Heart Center. <span id="fr_15"></span>[\*](#fn_15) In the case of
+the Heart Center. <span id="fr_15"></span>[\*](#fn_15.md) In the case of
 the sentient beings
 
 <span id="page_234">p. 234</span>
@@ -475,7 +475,7 @@ avail if he has not practised and meditated on the Middle Way View in
 his lifetime and knows how to absorb his mind in that view. Otherwise,
 this yogi will not be able to see Reality. It is, therefore, necessary
 to have had the experiences of the deep contemplation on the [Mādhyamika
-principle in](errata.htm#56) one's lifetime and the practices of the
+principle in](errata.htm#56.md) one's lifetime and the practices of the
 Bliss-Void or the practice of Son-Light or Light of the Path. Said the
 Jetsün \[*i.e.* venerated *Ed*.\] Milarepa:
 
@@ -555,7 +555,7 @@ them.
 
 The yogi who practices the Teachings of Path may not be womb-born in his
 next life. Very possibly he may take any of the other three forms of
-Birth[94](ettt22.htm#an_n_nar:94)<span id="an_r_nar:94"></span>.
+Birth[94](ettt22.htm#an_n_nar:94.md)<span id="an_r_nar:94"></span>.
 Therefore the Bardoist should try all the more to practise the teaching
 of manifestation-as-Yidam, Yidam-as-delusion, delusion-as-Voidness, as
 instructed before. He should also identity his future parents as the
@@ -572,15 +572,15 @@ Transforming One's Consciousness).
 
 ### Footnotes
 
-<span id="fn_15"></span>[233:\*](ettt16.htm#fr_15) This is an extremely
+<span id="fn_15"></span>[233:\*](ettt16.htm#fr_15.md) This is an extremely
 significant point. Compare our observations on pages
-[176](ettt13.htm#page_176)–[178](ettt13.htm#page_178),
-[182](ettt13.htm#page_182) and [191](ettt14.htm#page_191). *Ed*.
+[176](ettt13.htm#page_176)–[178](ettt13.htm#page_178.md),
+[182](ettt13.htm#page_182) and [191](ettt14.htm#page_191.md). *Ed*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Eight: The Yoga of the Light](ettt17)
+[Next: Chapter Eight: The Yoga of the Light](ettt17.md)
 
 </div>

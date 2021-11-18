@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had07)  [Next](had09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had07)  [Next](had09.md) 
 
 ------------------------------------------------------------------------
 
@@ -637,4 +637,4 @@ I beg of Thy grace of Thee'."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Adhān and Iqāmah](had09)
+[Next: Chapter VI: Adhān and Iqāmah](had09.md)

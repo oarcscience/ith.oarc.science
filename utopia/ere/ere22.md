@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](ere21)  [Next](ere23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](ere21)  [Next](ere23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0543899462/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -238,7 +238,7 @@ taking shelter incessantly in the work which you have in hand. This much
 you may perhaps recall; and this, if you will imprint it deeply upon
 your every faculty, will be most likely to bring you safely and
 honourably home through the trials that are before you."  <span
-id="fr_2"></span>[3](#fn_2)
+id="fr_2"></span>[3](#fn_2.md)
 
 This is the fashion in which they reason with those who would be for
 leaving them, but it is seldom that they do much good, for none but the
@@ -261,11 +261,11 @@ themselves is not for him to choose.
 
 ### Footnotes
 
-<span id="fn_2"></span>[3](ere22.htm#fr_2) The myth above alluded to
+<span id="fn_2"></span>[3](ere22.htm#fr_2.md) The myth above alluded to
 exists in Erewhon with changed names, and considerable modifications. I
 have taken the liberty of referring to the story as familiar to
 ourselves.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX: What They Mean By It](ere23)
+[Next: Chapter XX: What They Mean By It](ere23.md)

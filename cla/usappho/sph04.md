@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph03)  [Next](sph05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph03)  [Next](sph05.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,42 +11,42 @@ I
 Ο\]ἰ μὲν ἰππήων στρότον οἰ δὲ πέσδων  
 οἰ δὲ νάων φαῖσ᾽ ἐπὶ γᾶν μέλαιναν  
 ἔ\]μμεναι κάλλιστον ἔγω δὲ κῆν᾽  
-     ὄττω τὶσ ἔπαται. [\[transcription\]](xlatall.htm#2)
+     ὄττω τὶσ ἔπαται. [\[transcription\]](xlatall.htm#2.md)
 
 II
 
 πά\]γχυ δ᾽ εὔμαρεσ σύνετον πόησαι  
 πά\]ντι τ\[οῦ\]τ᾽. ἀ γὰρ πόλυ περσκόπεισα  
 κά\]λλοσ ἀνθρώπων Ἐλένα \[τὸ\]ν ἄνδρα  
-     \[κρίννεν ἄρ\]ιστον, [\[transcription\]](xlatall.htm#3)
+     \[κρίννεν ἄρ\]ιστον, [\[transcription\]](xlatall.htm#3.md)
 
 III
 
 ὂσ τὸ πὰν\] σέβασ τροΐα\[σ ὄ\]λεσσ\[ε,  
 κωὐδὲ πα\]ῖδοσ οὔδε \[φίλ\]ων το\[κ\]ήων  
 μᾶλλον\] ἐμνάσθη, ἀ\[λλὰ\] παράγαγ᾽ αὔταν  
-     πῆλε φίλει\]σαν, [\[transcription\]](xlatall.htm#4)
+     πῆλε φίλει\]σαν, [\[transcription\]](xlatall.htm#4.md)
 
 IV
 
 Ὠροσ. εὔκ\]αμπτον γαρ \[ἀεὶ τὸ θῆλυ\]  
 αἴ κέ\] τισ κούφωσ τ\[ὸ πάρον ν\]οήσῃ.  
 οὐ\]δὲ νῦν, Ἀνακτορί\[α, τ\]ὺ μέμναι  
-     δὴ\] παρειοῖσασ, [\[transcription\]](xlatall.htm#5)
+     δὴ\] παρειοῖσασ, [\[transcription\]](xlatall.htm#5.md)
 
 V
 
 τᾶ\]σ κε βολλοίμαν ἔρατόν τε βᾶμα  
 κ\]αμάρυγμα λάμπρον ἴδην προσώπω  
 η τὰ λύδων ἄρματα κἀν ὄπλοισι  
-     πεσδομ\]άχεντασ [\[transcription\]](xlatall.htm#6)
+     πεσδομ\]άχεντασ [\[transcription\]](xlatall.htm#6.md)
 
 VI
 
 εὶ μεν ἴδ\]μεν οὔ δύνατον γένεσθαι  
 λῷστ᾽\] ὀν᾽ ἀνθρώποισ, πεδέχην δ᾽ ἄραστηαι,  
 \[τῶν πέδειχόν ἐστι βρότοισι λῷον\]  
-      \[ἢ λελάθεσθαι.\] [\[transcription\]](xlatall.htm#7)
+      \[ἢ λελάθεσθαι.\] [\[transcription\]](xlatall.htm#7.md)
 
 With the emendations by Mr. J.M. Edmonds, the reprinting of which he has
 been kind enough to permit, a nearly literal rendering would be as
@@ -111,4 +111,4 @@ Man can never attain his greatest desire,
 
 ------------------------------------------------------------------------
 
-[Next: 4: The stars about the full moon...](sph05)
+[Next: 4: The stars about the full moon...](sph05.md)

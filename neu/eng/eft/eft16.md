@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft15)  [Next](eft17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft15)  [Next](eft17.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ nothing plain, and the shell to his ear produced only indistinct
 murmurings, like the breaking of distant seas on an unknown shore.
 
 <span id="img_039"></span> [![](tn/039.jpg)  
-Click to enlarge](img/039.jpg)
+Click to enlarge](img/039.jpg.md)
 
 'I can do nothing,' he said, 'as I don't know the right words to utter,
 and they are locked up in yon book.' He looked round, and, see! the book
@@ -88,4 +88,4 @@ words which cast Beelzebub back into his fiery home.
 
 ------------------------------------------------------------------------
 
-[Next: Titty Mouse and Tatty Mouse](eft17)
+[Next: Titty Mouse and Tatty Mouse](eft17.md)

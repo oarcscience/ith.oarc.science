@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos34)  [Next](gbos36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos34)  [Next](gbos36.md) 
 
 ------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@ Altar of Mysteries manifold, The Sacred Circle's central point, Thus do
 I sign thee as of old, With kisses of my lips anoint.
 
 (Eightfold Kiss: 3 points, Lips, 2 Breasts and back to lips, & 5
-points <span id="fr_2"></span>[3](#fn_2), with oil, wine, & kisses)
+points <span id="fr_2"></span>[3](#fn_2), with oil, wine, & kisses.md)
 
 Open for me the Secret Way, The pathway of intelligence, Between the
 Gates of Night and Day, Beyond the bounds of time and sense.
@@ -91,10 +91,10 @@ there is no part of us that is not of the Gods."
 
 ### Footnotes
 
-<span id="fn_2"></span>[3](gbos35.htm#fr_2) These are shown by a drawing
+<span id="fn_2"></span>[3](gbos35.htm#fr_2.md) These are shown by a drawing
 to be: genitals, left foot, right knee, left knee, right foot, and back
 to genitals.
 
 ------------------------------------------------------------------------
 
-[Next: The Witches' Chant or Rune](gbos36)
+[Next: The Witches' Chant or Rune](gbos36.md)

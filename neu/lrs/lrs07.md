@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](lrs06)  [Next](lrs08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](lrs06)  [Next](lrs08.md) 
 
 ------------------------------------------------------------------------
 
@@ -344,7 +344,7 @@ Lyons in 1553, and an Italian one at Venice in 1555. Southey maintained
 that there never was a Spanish original of this story, and that it was
 first written in Portuguese. But this hypothesis was upset by Salva's
 discovery of a copy of the lost Spanish original, written by Luis
-Kuxtado  <span id="fr_48"></span>[1](#fn_48) and published at Toledo in
+Kuxtado  <span id="fr_48"></span>[1](#fn_48.md) and published at Toledo in
 two parts, in 1547 and 1548. Southey attempted to show in his English
 translation of *Palmerin of England* that a consideration of its *mise
 en scène* would afford irrefragable proof of its Lusitanian
@@ -552,10 +552,10 @@ to behold them and saw only the outward glamours of that rainbow world.
 
 ### Footnotes
 
-<span id="fn_48"></span>[179:1](lrs07.htm#fr_48) For a brief account of
+<span id="fn_48"></span>[179:1](lrs07.htm#fr_48.md) For a brief account of
 this Toledan poet, who translated Ovid's *Metamorphoses,* see Antonio,
 *Bib. Nov.,* t. ii, p. 44.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Catalonian Romances](lrs08)
+[Next: VI. Catalonian Romances](lrs08.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep14)  [Next](nep16) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep14)  [Next](nep16.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,4 +10,4 @@ And as thyself thy neighbor love
 
 ------------------------------------------------------------------------
 
-[Next: Our Savior's Golden Rule](nep16)
+[Next: Our Savior's Golden Rule](nep16.md)

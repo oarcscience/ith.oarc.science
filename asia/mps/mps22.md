@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps21) 
-[Next](mps23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps21.md) 
+[Next](mps23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -257,7 +257,7 @@ and behaves sportively, albeit his
 
 tears were not dry. I marvel why he spends his time in making jokes, why
 he is not grieved in heart! (Quoth he): "He who gives not what he
-promised quarrels with the Mourav <span id="fr_15"></span>[1](#fn_15).
+promised quarrels with the Mourav <span id="fr_15"></span>[1](#fn_15.md).
 It is said: 'A bribe settles matters even in hell.'
 
 <span class="margnote"><span id="747">747</span></span>"How he took the
@@ -315,10 +315,10 @@ kinsman.
 
 ### Footnotes
 
-<span id="fn_15"></span>[119:1](mps22.htm#fr_15) Headman, governor,
+<span id="fn_15"></span>[119:1](mps22.htm#fr_15.md) Headman, governor,
 chief of police, arbitrator.
 
 ------------------------------------------------------------------------
 
 [Next: XX. Avt’handil's Discourse With Shermadin When He Stole
-Away](mps23)
+Away](mps23.md)

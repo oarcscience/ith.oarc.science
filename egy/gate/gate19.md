@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](gate18)  [Next](gate20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](gate18)  [Next](gate20.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ this gateway when they hear this door close upon them."
  
 
 <span id="img_12100"></span> [![](tn/generic.jpg)  
-Click to view](img/12100.jpg)  
+Click to view](img/12100.jpg.md)  
 The Gate of the serpent Tchetbi.
 
  
@@ -69,15 +69,15 @@ that he spawneth twelve serpents to be devoured by the hours."
  
 
 <span id="img_12300"></span> [![](tn/generic.jpg)  
-Click to view](img/12300.jpg)  
+Click to view](img/12300.jpg.md)  
 The Gods of the Fourth Division of the Tuat towing the Boat of Ra.
 
 <span id="img_12301"></span> [![](tn/generic.jpg)  
-Click to view](img/12301.jpg)  
+Click to view](img/12301.jpg.md)  
 The Nine Gods who follow Osiris.
 
 <span id="img_12302"></span> [![](tn/generic.jpg)  
-Click to view](img/12302.jpg)  
+Click to view](img/12302.jpg.md)  
 The Serpent Hereret and the Goddesses of the Hours.
 
  
@@ -182,15 +182,15 @@ drink is \[made\] of the red \[barley\], and their
  
 
 <span id="img_13100"></span> [![](tn/generic.jpg)  
-Click to view](img/13100.jpg)  
+Click to view](img/13100.jpg.md)  
 The Twelve Gods who carry their Doubles.
 
 <span id="img_13101"></span> [![](tn/generic.jpg)  
-Click to view](img/13101.jpg)  
+Click to view](img/13101.jpg.md)  
 The Twelve Gods of the Lake of Life.
 
 <span id="img_13102"></span> [![](tn/generic.jpg)  
-Click to view](img/13102.jpg)  
+Click to view](img/13102.jpg.md)  
 The Ten Living Uraei of the Lake of the Uraei.
 
  
@@ -286,16 +286,16 @@ they have done against the
  
 
 <span id="img_13700"></span> [![](tn/generic.jpg)  
-Click to view](img/13700.jpg)  
+Click to view](img/13700.jpg.md)  
 The Twelve Gods before the Shrine. Heru-ur.
 
 <span id="img_13701"></span> [![](tn/generic.jpg)  
-Click to view](img/13701.jpg)  
+Click to view](img/13701.jpg.md)  
 The Twelve Gods behind the Shrine. Osiris Khent-Amenti. The goddess of
 Flame (Nesert).
 
 <span id="img_13702"></span> [![](tn/generic.jpg)  
-Click to view](img/13702.jpg)  
+Click to view](img/13702.jpg.md)  
 The Master of Earths. The Four Masters of their Pits.
 
  
@@ -311,4 +311,4 @@ according to what belongeth to you \[to do\].' This god standeth over
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. The Gate Of Teka-Hra. The Fifth Division of the
-Tuat](gate20)
+Tuat](gate20.md)

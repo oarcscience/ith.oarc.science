@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku45)  [Next](tku47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku45)  [Next](tku47.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ under this figure of man than under any other forms.
 
 885\. "Also we have learned, that when this glory (*of Microprosopus*)
 is illuminated by the light of the excellent beard, <span
-id="fr_155"></span>[1](#fn_154) and emitteth light into the other
+id="fr_155"></span>[1](#fn_154.md) and emitteth light into the other
 dispositions, then it is called 'Bearing Iniquity' on the one side, and
 'Passing over Transgression' on the other side.
 
@@ -51,8 +51,8 @@ dispositions, then it is called 'Bearing Iniquity' on the one side, and
 jawbones.
 
 887\. "And in the 'Book of Concealed Mystery' is the same called Glory,
-HVD, <span id="fr_156"></span>[2](#fn_155) *Hod*, and Honour, HDR,
-*Hadar*, and ThPARTh, <span id="fr_157"></span>[3](#fn_156) *Tiphereth*,
+HVD, <span id="fr_156"></span>[2](#fn_155.md) *Hod*, and Honour, HDR,
+*Hadar*, and ThPARTh, <span id="fr_157"></span>[3](#fn_156.md) *Tiphereth*,
 Beauty.
 
 888\. "And unto *Tiphereth*, Beauty, appertaineth the title 'Passing
@@ -147,9 +147,9 @@ beard, covering the throat, that it cannot be seen.
 910\. "For we have learned in the exotic tradition that neither the
 throat nor any of its parts (*are apparent*) through (*the hair*). And
 if in the time of contest (otherwise of Victory, NTzCh, *Netzach* <span
-id="fr_158"></span>[1](#fn_157)), during such contest any portion of
+id="fr_158"></span>[1](#fn_157).md), during such contest any portion of
 (*the throat*) be visible, then it appeareth like Strength
-(*Geburah*). <span id="fr_159"></span>[2](#fn_158)
+(*Geburah*). <span id="fr_159"></span>[2](#fn_158.md)
 
 911\. "For we have learned that a thousand worlds are contained thereby.
 
@@ -159,7 +159,7 @@ shields' is an Arcanum.
 
 913\. "It is related in the 'Book of Concealed Mystery' that 'all the
 shields of the mighty men,' which come from the side of the
-rigours, <span id="fr_160"></span>[3](#fn_159) are derived from those
+rigours, <span id="fr_160"></span>[3](#fn_159.md) are derived from those
 severities (*Geboran*, GBVRAN).
 
 914\. "The ninth conformation is that the hairs flow
@@ -177,7 +177,7 @@ joined unto those which hang down, and each holdeth its own course.
 young man is his strength.'
 
 917\. "And He appeareth upon the (*Red*) Sea, <span
-id="fr_161"></span>[1](tku47.htm#fn_160) like a beautiful youth, which
+id="fr_161"></span>[1](tku47.htm#fn_160.md) like a beautiful youth, which
 is written in Cant. v. 16: 'Excellent (or young) as the cedars.'
 
 918\. "Like a hero hath He exhibited His valour, and this is that
@@ -188,21 +188,21 @@ ThPARTh, ChILA, VGBVRThA, VRChMI, *Tiphereth*, *Chila*, *Ve Geburatha*,
 
 ### Footnotes
 
-<span id="fn_154"></span>[222:1](tku46.htm#fr_155) Namely, that of
+<span id="fn_154"></span>[222:1](tku46.htm#fr_155.md) Namely, that of
 Macroprosopus.
 
-<span id="fn_155"></span>[222:2](tku46.htm#fr_156) The eighth Sephira.
+<span id="fn_155"></span>[222:2](tku46.htm#fr_156.md) The eighth Sephira.
 
-<span id="fn_156"></span>[222:3](tku46.htm#fr_157) The sixth Sephira.
+<span id="fn_156"></span>[222:3](tku46.htm#fr_157.md) The sixth Sephira.
 
-<span id="fn_157"></span>[224:1](tku46.htm#fr_158) The seventh Sephira.
+<span id="fn_157"></span>[224:1](tku46.htm#fr_158.md) The seventh Sephira.
 
-<span id="fn_158"></span>[224:2](tku46.htm#fr_159) The fifth Sephira.
+<span id="fn_158"></span>[224:2](tku46.htm#fr_159.md) The fifth Sephira.
 
-<span id="fn_159"></span>[224:3](tku46.htm#fr_160) We must not forget
+<span id="fn_159"></span>[224:3](tku46.htm#fr_160.md) We must not forget
 that in Microprosopus are "right and left." Marcy and justice.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIX: Concerning the Body of Microprosopus in General,
-Under the Condition of an Androgyn](tku47)
+Under the Condition of an Androgyn](tku47.md)

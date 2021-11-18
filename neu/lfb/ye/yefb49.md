@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb48)  [Next](yefb50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb48)  [Next](yefb50.md) 
 
 </div>
 
@@ -222,6 +222,6 @@ the reporters—and they are not to be believed for a moment.
 
 ------------------------------------------------------------------------
 
-[Next: A Story About a Darning-Needle](yefb50)
+[Next: A Story About a Darning-Needle](yefb50.md)
 
 </div>

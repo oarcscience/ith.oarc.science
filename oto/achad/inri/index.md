@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Thelema](../../index) 
-[Frater Achad](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Thelema](../../index.md) 
+[Frater Achad](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,9 +22,9 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](inri00)
+[Contents](#contents)    [Start Reading](inri00.md)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](inri00)  
-[I.N.R.I.: De Mysteriis Rosæ Rubeæ et Aureæ Crucis](inri01)  
+<span id="contents"></span> [Title Page](inri00.md)  
+[I.N.R.I.: De Mysteriis Rosæ Rubeæ et Aureæ Crucis](inri01.md)  

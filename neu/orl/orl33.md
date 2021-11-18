@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl32)  [Next](orl34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl32)  [Next](orl34.md) 
 
 ------------------------------------------------------------------------
 
@@ -1445,4 +1445,4 @@ I shall conclude my canto and repose.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 34](orl34)
+[Next: Canto 34](orl34.md)

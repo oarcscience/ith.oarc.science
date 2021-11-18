@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](mbh10)  [Next](mbh12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](mbh10)  [Next](mbh12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XPY0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Myth of the Birth of the Hero*, by Otto Rank, \[1914\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ in the adventures of the hero himself (duplication) . Riwalin, king in
 the land of the Parmenians, in an expedition to the court of Mark, king
 of Cornwall and England, had become acquainted with the latter's
 beautiful sister, Blancheflure, and his heart was aflame with love for
-her. While assisting Mark in a [campaign](errata.htm#0), Riwalin was
+her. While assisting Mark in a [campaign](errata.htm#0.md), Riwalin was
 mortally wounded and
 
 <span id="page_42">p. 42</span>
@@ -53,7 +53,7 @@ in him the son of his beloved sister, and raised him to the rank of
 knight. In order *to avenge his father*, Tristan proceeded with Rual to
 Parmenia, vanquished Morgan, the usurper, and gave the country to Rual
 as liege, while he himself returned to his uncle Mark. <span
-id="fr_59"></span>[1](#fn_59)
+id="fr_59"></span>[1](#fn_59.md)
 
 The actual Tristan saga goes on with a repetition of the principal
 themes. In the service of Mark, Tristan kills Morald, the bridegroom of
@@ -72,17 +72,17 @@ banishment of Tristan, his several attempts to regain his beloved,
 although he had meanwhile married another Isolde--"Isolde the White
 Hand," of Brittany, who resembled his love, "Isolde the Fair." At last
 he is again wounded unto death, and Isolde arrives too late to save
-him. <span id="fr_60"></span>[1](#fn_60)
+him. <span id="fr_60"></span>[1](#fn_60.md)
 
 A plainer version of the Tristan saga--in the sense of the
 characteristic features of the myth of the birth of the hero--is found
 in the fairy tale "The True Bride," quoted by Riklin from
-Rittershaus. <span id="fr_61"></span>[2](#fn_61) A royal pair have no
+Rittershaus. <span id="fr_61"></span>[2](#fn_61.md) A royal pair have no
 children. The king having threatened to kill his wife unless she bears a
 child by the time of his return from his sea voyage, she is brought to
 him during his journey, by his zealous maid-servant, as the fairest of
 three promenading ladies, and he takes her into his tent without
-recognizing her. <span id="fr_62"></span>[3](#fn_62) She returns home
+recognizing her. <span id="fr_62"></span>[3](#fn_62.md) She returns home
 without having been discovered, gives birth to a daughter, Isol, and
 dies. Isol later on finds, in a box by the seaside, a most beautiful
 little boy, whose name is Tristram, and she raises him to become engaged
@@ -97,10 +97,10 @@ discovers the deception, however, and becomes united with Isol.
 
 ### Footnotes
 
-<span id="fn_59"></span>[42:1](mbh11.htm#fr_59) After Chop:
+<span id="fn_59"></span>[42:1](mbh11.htm#fr_59.md) After Chop:
 *Erläuterungen zu Wagner's Tristan* (Reclam edition).
 
-<span id="fn_60"></span>[43:1](mbh11.htm#fr_60) Compare Immermann:
+<span id="fn_60"></span>[43:1](mbh11.htm#fr_60.md) Compare Immermann:
 *Tristan and Isolde, Ein Gedicht in Romanzen* (Düsseldorf, 1841). Like
 the epic of Gottfried von Strassburg, his version begins with the
 preliminary history of the loves of Tristan's parents, King Riwalin
@@ -113,14 +113,14 @@ Florete, the winsome youth Tristan introduces himself to Mark in a stag
 hunt, as an expert huntsman, is recognized as his nephew by a ring, the
 king's gift to his beloved sister, and becomes his favorite.
 
-<span id="fn_61"></span>[43:2](mbh11.htm#fr_61) *Wunscherfüllung and
+<span id="fn_61"></span>[43:2](mbh11.htm#fr_61.md) *Wunscherfüllung and
 Symbolik im Märchen*, p. 56; from the Rittershaus collection of fairy
 tales (XXVII, p. 113). See translation by W. A. White, M.D.,
 *Psychoanalytic Review*, Vol. I, No. 1.
 
-<span id="fn_62"></span>[43:3](mbh11.htm#fr_62) Compare the substitution
+<span id="fn_62"></span>[43:3](mbh11.htm#fr_62.md) Compare the substitution
 of the bride, through Brangäne.
 
 ------------------------------------------------------------------------
 
-[Next: Romulus](mbh12)
+[Next: Romulus](mbh12.md)

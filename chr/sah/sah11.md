@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah10)  [Next](sah12) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah10)  [Next](sah12.md) 
 
 ------------------------------------------------------------------------
 
@@ -757,4 +757,4 @@ to the Scriptures.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII - Christian Science Practice](sah12) 
+[Next: Chapter XII - Christian Science Practice](sah12.md) 

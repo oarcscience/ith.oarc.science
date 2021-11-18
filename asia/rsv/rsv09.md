@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv08)  [Next](rsv10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv08)  [Next](rsv10.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ Department National Education (n.d.)
 
 ------------------------------------------------------------------------
 
-[Next: VII. Roman Catholicism in South Vietnam](rsv10)
+[Next: VII. Roman Catholicism in South Vietnam](rsv10.md)

@@ -1,6 +1,6 @@
 <span class="small"></span>
 
-[sacred-texts main index](../index)  [European texts index](index) 
+[sacred-texts main index](../index)  [European texts index](index.md) 
 
 ------------------------------------------------------------------------
 

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml12)  [Next](tml14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml12)  [Next](tml14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -54,9 +54,9 @@ of fertility from the branches of Ygdrasil. When the queen partook of
 it, her desire was fulfilled, and in due season an heir was born,
 whereat there was great rejoicing in the kingdom.
 
-Thus Aurboda <span id="fr_19"></span>[1](#fn_19) had fair repute in
+Thus Aurboda <span id="fr_19"></span>[1](#fn_19.md) had fair repute in
 Asgard despite her evil character--she who was mother of the wolves that
-pursue [sun](errata.htm#0) and moon; she who was Hag of Eastern Winds
+pursue [sun](errata.htm#0.md) and moon; she who was Hag of Eastern Winds
 which bear the burden of her fearsome song and drive fair vessels into
 the very jaws of Ægir, the storm-god of western ocean.
 
@@ -201,7 +201,7 @@ celestial city.
 Njord was chief of heroes, and with him fought Frey and Ull, the warlike
 son of Sith, and Svipdag, Freyja's husband. Frigg espoused the cause of
 the Vana-gods, her kinsmen, and remained in Asgard. <span
-id="fr_20"></span>[1](#fn_20)
+id="fr_20"></span>[1](#fn_20.md)
 
 Odin made swift escape on the back of Sleipner, and Thor yoked his
 goats, and in his thundering car departed with those who remained
@@ -365,12 +365,12 @@ Soon again did Hadding appear in the east, leading his hosts to battle.
 
 ### Footnotes
 
-<span id="fn_19"></span>[73:1](tml13.htm#fr_19) Also Angerboda.
+<span id="fn_19"></span>[73:1](tml13.htm#fr_19.md) Also Angerboda.
 
-<span id="fn_20"></span>[77:1](tml13.htm#fr_20) Hence the Heimskringla
+<span id="fn_20"></span>[77:1](tml13.htm#fr_20.md) Hence the Heimskringla
 story of Odin going a long journey, and the wooing of Frigg by his
 brothers, who thought he would never return.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. The Gods Reconciled](tml14)
+[Next: Chapter IX. The Gods Reconciled](tml14.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp50)  [Next](prp52) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp50)  [Next](prp52.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ looking on it as a punishment.\]
 
 ------------------------------------------------------------------------
 
-[Next: 52. Ho thou, which hardly thy rapacious hand](prp52)
+[Next: 52. Ho thou, which hardly thy rapacious hand](prp52.md)

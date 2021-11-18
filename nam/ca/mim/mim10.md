@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](mim09)  [Next](mim11) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](mim09)  [Next](mim11.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ met him on the bank of the river.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Salamander and Chipmunk](mim11)
+[Next: 9. Salamander and Chipmunk](mim11.md)

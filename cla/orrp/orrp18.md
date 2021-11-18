@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](orrp17)  [Next](orrp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](orrp17)  [Next](orrp19.md) 
 
 ------------------------------------------------------------------------
 
@@ -377,14 +377,14 @@ Robertson Smith has written admirably and convincingly (pp. 446 ff. and
 by Lagrange, pp. 141 ff.--The development of the notion of purity in the
 ancient religions has been recently expounded by Farnell, *The Evolution
 of Religion*, 1905, pp. 88 ff., especially pp. 124 ff. Cf. also *supra*,
-[p. 91](orrp08.htm#page_91) f. An example of the prohibitions and
+[p. 91](orrp08.htm#page_91.md) f. An example of the prohibitions and
 purifications is found in the Occident in an inscription, unfortunately
 mutilated, discovered at Rome and dedicated to Beellefarus (*CIL*, VI,
 30934, 31168; cf. Lafaye, *Rev. hist. relig.*, XVII, 1888, pp. 218 ff.;
 Dessau, *Inscr. sel.*, 4343). If I have understood the text correctly it
 commands those who have eaten pork to purify themselves by means of
 honey.--On penances in the Syrian religions see ch. II, n.
- [2\_31](orrp15.htm#xref_2_31).
+ [2\_31](orrp15.htm#xref_2_31.md).
 
 <span id="xref_5_47">5\_47</span>. M. Clermont-Ganneau (*Etudes
 d'archéologie orientale*, IT, 1896, p. 104) states that the epithet
@@ -430,7 +430,7 @@ who availed themselves of the right of sanctuary in the churches (cf.
 *Comptes Rendus Acad. Inscr.*, 1907, p. 454).
 
 <span id="xref_5_50">5\_50</span>. Cf. *infra*, n.
- [5\_59](orrp18.htm#xref_5_59).
+ [5\_59](orrp18.htm#xref_5_59.md).
 
 <span id="xref_5_51">5\_51</span>. Strabo, XVI, I, 6. Cf. Pliny, *H.
 N.*, VI, 6: "Durat adhuc ibi Iovis Beli templum.". . Cf. my *Mon. myst.
@@ -444,7 +444,7 @@ Mithra*, I, pp. 35 ff.; Chapot, *Mém. soc. antiq. de France*, 1902, pp.
 
 <span id="xref_5_54">5\_54</span>. On the worship of Bel in Syria cf.
 *Comptes Rendus Acad. Inscr.*, 1907, pp. 447 ff--Cf. *infra*, n.
- [5\_59](orrp18.htm#xref_5_59).
+ [5\_59](orrp18.htm#xref_5_59.md).
 
 <span id="xref_5_55">5\_55</span>. On the Heliopolitan triad and the
 addition of Mercury to the original couple see Perdrizet, *Rev. études
@@ -515,7 +515,7 @@ Klein-Asien und Nord-Syrien*, 1890, pl. XL; *Mon. myst. Mithra*, I, p.
 Inschriften* (*Mitt. der vorderasiat. Gesellsch.*, X), 1905, pp. 319
 ff.; Lidzbarski, *Ephemeris*, I, pp. 255 ff., II, p. 280.--Priests of
 Bel: Clermont-Ganneau, *Recueil d'arch. orient.*, VII, p. 12, 24, 364.
-Cf. *supra*, n.  [5\_54](orrp18.htm#xref_5_54). The power of Palmyra
+Cf. *supra*, n.  [5\_54](orrp18.htm#xref_5_54.md). The power of Palmyra
 under Zenobia, who ruled from the Tigris to the Nile, must have had as a
 corollary the establishment of an official worship that was necessarily
 syncretic. Hence its special importance for the history of paganism.
@@ -533,7 +533,7 @@ V, p. 229; Dittenberger, *Orientis inscript.*, 729). This influence of
 Judaism seems to explain the development at Palmyra of the cult of Ζεὺς
 ὕψιστος καὶ ἐπήκοος, "he whose name is blessed in eternity." The name of
 Hypsistos has been applied everywhere to Jehovah and to the pagan Zeus
-(*supra*, [62](orrp07.htm#page_62), [128](orrp09.htm#page_128)) at the
+(*supra*, [62](orrp07.htm#page_62), [128](orrp09.htm#page_128).md) at the
 same time. The text of Zosimus (I, 61), according to which Aurelian
 brought from Palmyra to Rome the statues of Ἡλίου τε καὶ Βήλου (this has
 been wrongly changed to read τοῦ καὶ Βήλου), proves that the
@@ -543,11 +543,11 @@ been wrongly changed to read τοῦ καὶ Βήλου), proves that the
 astrological religion of the great desert city recognized a supreme god
 residing in the highest heavens, and a solar god, his visible image and
 agent, according to the Semitic theology of the last period of paganism
-(*supra*, [p. 134](orrp09.htm#page_134)).
+(*supra*, [p. 134](orrp09.htm#page_134).md).
 
 <span id="xref_5_60">5\_60</span>. I have spoken of this solar
 eschatology in the memorial cited *infra*, n.
- [5\_88](orrp18.htm#xref_5_88).
+ [5\_88](orrp18.htm#xref_5_88.md).
 
 <span id="xref_5_61">5\_61</span>. This opinion is that of Posidonius
 (see Wendland, *Philos Schrift über die Vorsehung*, Berlin, 1892, p. 68,
@@ -555,7 +555,7 @@ n. 1; 70, n. 2). It is shared by the ancient astrologers.
 
 <span id="xref_5_62">5\_62</span>. This old pagan and gnostic idea has
 continued to the present day in Syria among the
-[Nosaïris](errata.htm#9); cf. Dussaud, *Histoire et religion des
+[Nosaïris](errata.htm#9.md); cf. Dussaud, *Histoire et religion des
 Nosaïris*, 1900, p. 125.
 
 <span id="xref_5_63">5\_63</span>. The belief that pious souls are
@@ -580,8 +580,8 @@ in the peculiar epitaph of a sailor who died at Marseilles (Kaibel,
 
 It is the same term that Julian used (*Césars*, p. 336 C) in speaking of
 Mithra, the guide of souls: ἡγεμόνα θεόν. Cf. also *infra*, n.
- [5\_66](orrp18.htm#xref_5_66) and ch. VIII, n.
- [8\_24](orrp21.htm#xref_8_24).
+ [5\_66](orrp18.htm#xref_5_66.md) and ch. VIII, n.
+ [8\_24](orrp21.htm#xref_8_24.md).
 
 <span id="xref_5_64">5\_64</span>. The Babylonian origin of the doctrine
 that the souls returned to heaven by crossing the seven planetary
@@ -609,7 +609,7 @@ stars after death certainly developed under the influence of the
 sidereal worship of the Semites to a point where it dominated all other
 eschatological theories. The belief in the eternity of souls is the
 corollary to the belief in the eternity of the celestial gods ([p.
-129](orrp09.htm#page_129)). We cannot give the history of this
+129](orrp09.htm#page_129).md). We cannot give the history of this
 conception here, and we shall limit ourselves to brief observations. The
 first account of this system ever given at Rome is found in "Scipio's
 Dream" (c. 3); it probably dates back to Posidonius of Apamea (cf.
@@ -646,14 +646,14 @@ Badstübner, *Beiträge zur Erklärung Senecas*, Hamburg, pp. 2 ff.--It is
 expressed in many inscriptions (Friedlander, *Sitteng.*, III, pp. 749
 ff.; Rohde, *Psyche*, p. 673, cf. 610; epitaph of Vezir-Keupru, *Studia
 Pontica*, No. 85; *CIL*. III (Salone), 6384; *supra*, n.
- [5\_63](orrp18.htm#xref_5_63), etc.) It gained access into Judaism and
+ [5\_63](orrp18.htm#xref_5_63), etc..md) It gained access into Judaism and
 paganism simultaneously (cf. Bousset, *Die Religion des Judentums im,
 neutest. Zeitalter*, 1903, p. 271, and, for Philo of Alexandria, Zeller,
 *Philos. der Griechen*, V, p. 397 and p. 297).--During the third century
 it was expounded by Cornelius Labeo, the source of Arnobius and Servius
 (Nieggetiet, *De Cornelio Labeone* \[Diss. Munster\], 1908, pp. 77-86).
 It was generally accepted towards the end of the empire; see *infra*, n.
- [5\_25](orrp18.htm#xref_5_25).--I hope soon to have the opportunity of
+ [5\_25](orrp18.htm#xref_5_25.md).--I hope soon to have the opportunity of
 setting forth the development of this sidereal eschatology with greater
 precision in my lectures on "Astrology and Religion in Antiquity" which
 will appear in 1912 (chap. VI).
@@ -663,7 +663,7 @@ Egyptian mysteries the Elysian Fields were in the under-world (Apul.,
 *Metam.*, XI, 6).--According to the astrological theory, the Elysian
 Fields were in the sphere of the fixed stars (Macrobius, *Comm. somn.
 Scip.*, I, 11, § 8; cf. *infra*, chap. VIII, n.
- [8\_25](orrp21.htm#xref_8_25)). Others placed them in the moon
+ [8\_25](orrp21.htm#xref_8_25).md). Others placed them in the moon
 (Servius, Ad *Aen.*, VI, 887; cf. Norden, *Vergils Buch* VI, p. 23;
 Rohde, *Psyche*, pp. 609 ff.). Iamblichus placed them between the moon
 and the sun (Lydus, *De mens.*, IV, 149, p. 167, 23, Wünsch).
@@ -675,7 +675,7 @@ reality an apocryphal composition of the first century of our era. It
 was said that Hermes guided the pure souls, after their separation from
 the body, εἰς τὸν Ὕψιστον (Diog. Laert., VIII, §31; cf. Zeller, *Philos.
 der Griechen*, V, p. 106, n. 2).--On the meaning of Hypsistos, cf.
-*supra*, [p. 128](orrp09.htm#page_128). It appears very plainly in the
+*supra*, [p. 128](orrp09.htm#page_128.md). It appears very plainly in the
 passage of Isaiah, xiv, 13, as rendered by the Septuagint:
 
 <span id="page_256">p. 256</span>
@@ -696,14 +696,14 @@ Roscher, *Lexikon Myth.*, s. v. "Keraunos").
 He is the god to whom Seleucus sacrificed when founding Seleucia
 (Malalas, p. 199), and a dedication to the same god has been found
 recently in the temple of the Syrian divinities at Rome (*supra*, n.
- [5\_10](orrp18.htm#xref_5_10)).--An equivalent of the Zeus Keraunios is
+ [5\_10](orrp18.htm#xref_5_10).md).--An equivalent of the Zeus Keraunios is
 the Zeus Καταιβάτης--"he who descends in the lightning"--worshiped at
 Cyrrhus (Wroth, *Greek Coins in the British Museum*: "Galatia, Syria,"
 p. 52 and LII; Roscher, *Lexikon*, s. v.)
 
 <span id="xref_5_68">5\_68</span>. For instance the double ax was
 carried by Jupiter Dolichenus (cf. *supra*, [p.
-147](orrp10.htm#page_147)). On its significance, cf. Usener, *loc.
+147](orrp10.htm#page_147).md). On its significance, cf. Usener, *loc.
 cit.*, p. 20.
 
 <span id="xref_5_69">5\_69</span>. Cf. Lidzbarski, Balsamem, *Ephem.
@@ -729,7 +729,7 @@ p. 87.--The texts attesting the existence of a real cult of
 heaven among the Semites are very numerous. Besides the ones I have
 gathered (*loc. cit.*, n. 5); see Conybeare, *Philo about the
 Contemplative Life*, p. 33, n. 16; Kayser, *Das Buch der Erkenntniss der
-Wahrheit*, 1893, p. 337, and *infra*, n.  [5\_75](orrp18.htm#xref_5_75).
+Wahrheit*, 1893, p. 337, and *infra*, n.  [5\_75](orrp18.htm#xref_5_75.md).
 Zeus Οὐράνιος: Le Bas-Waddington, 2720 *a* (Baal of Bétocécé); Renan,
 *Mission de Phénicie*, p. 103.--Cf. *Archiv für Religionswissenschaft*,
 IX, 1906, p. 333.
@@ -741,10 +741,10 @@ IX, 1906, p. 333.
 <span id="xref_5_72">5\_72</span>. All these qualities ascribed to the
 Baals by astrological paganism (ὕψιστος, παντοκράτωρ, etc.), are also
 the attributes which, according to the doctrine of Alexandrian Judaism,
-characterized Jehovah (see *supra*, n.  [5\_66](orrp18.htm#xref_5_66)).
+characterized Jehovah (see *supra*, n.  [5\_66](orrp18.htm#xref_5_66).md).
 If he was originally a god of thunder, as has been maintained, the
 evolution of the Jewish theology was parallel to that of the pagan
-conceptions (see *supra*, n.  [5\_69](orrp18.htm#xref_5_69)).
+conceptions (see *supra*, n.  [5\_69](orrp18.htm#xref_5_69).md).
 
 <span id="xref_5_73">5\_73</span>. On this subject cf. *Jupiter summus
 exsuperantissimus* (*Archiv f. Religionsw.*, IX), 1906, pp. 326 ff.
@@ -769,7 +769,7 @@ fully treated in my lectures on "Astrology and Religion" (chaps. IV-V).
 
 <span id="xref_5_77">5\_77</span>. At Palmyra: De Vogüé, *Inscr. sem.*,
 pp. 53 ff., etc.--On the first title, see *infra*, n.
- [5\_80](orrp18.htm#xref_5_80).
+ [5\_80](orrp18.htm#xref_5_80.md).
 
 <span id="xref_5_78">5\_78</span>. Note especially *CIL*, VI, 406 =
 30758, where Jupiter Dolichenus is called *Aeternus conservator totius
@@ -793,12 +793,12 @@ the epithet מרא עלמא means "lord of the world" or "lord of eternity"
 our opinion the controversy is to no purpose, since in the spirit of the
 Syrian priests the two ideas are inseparable and one expression in
 itself embraces both, the world being conceived as eternal (*supra*, n.
- [5\_76](orrp18.htm#xref_5_76)). See for Egypt, Horapoll.,
+ [5\_76](orrp18.htm#xref_5_76).md). See for Egypt, Horapoll.,
 *Hieroglyph.*, I (serpent as symbol of the αἰών, and κόσμος). At
 Palmyra, too, the title "lord of all" is found, מרא כל (Lidzbarski,
 *loc. cit.*); cf. Julian, *Or.*, IV, p. 203, 5 (Hertlein): Ὁ βασιλεὺσ
-τῶν ὅλων, and *infra*, n.  [5\_81](orrp18.htm#xref_5_81); n.
- [5\_87](orrp18.htm#xref_5_87). Already at Babylon the title "lord of
+τῶν ὅλων, and *infra*, n.  [5\_81](orrp18.htm#xref_5_81.md); n.
+ [5\_87](orrp18.htm#xref_5_87.md). Already at Babylon the title "lord of
 the universe" was given to Shamash and Hadad; see Jastrow, *Religion
 Babyloniens*, I, p. 254, n. 10. Nöldeke has been good enough to write me
 as follows on this subject. "Daran kan kein Zweifel sein, dass עלם
@@ -845,7 +845,7 @@ votaries of Jupiter Dolichenus (*fratres carissimos*, *CIL*, VI, 406 =
 the pagans. See the inscription *Numini et virtutibus dei aeterni* as
 reconstructed in *Revue de Philologie*, 1902, p. 9; *Archiv für
 Religionsw.*, *loc. cit.*, p. 335, n. 1 and *infra*, ch. VIII, n.
- [8\_20](orrp21.htm#xref_8_20).
+ [8\_20](orrp21.htm#xref_8_20.md).
 
 <span id="xref_5_85">5\_85</span>. *CIL*, VII, 759 = Bücheler, *Carm.
 epig.*, 24.--Cf. Lucian, *De dea Syria*, 32.
@@ -876,4 +876,4 @@ old astrological ideas with Christian theology.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Persia](orrp19)
+[Next: VI. Persia](orrp19.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb25)  [Next](blfb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb25)  [Next](blfb27.md) 
 
 </div>
 
@@ -231,6 +231,6 @@ window, and every year they bore the finest red and white roses.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: The Goose-Girl](blfb27)
+[Next: The Goose-Girl](blfb27.md)
 
 </div>

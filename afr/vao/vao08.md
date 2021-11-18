@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [African](../index) 
-[Index](index)  [Previous](vao07)  [Next](vao09) 
+[Intangible Textual Heritage](../../index)  [African](../index.md) 
+[Index](index)  [Previous](vao07)  [Next](vao09.md) 
 
 ------------------------------------------------------------------------
 
@@ -1169,4 +1169,4 @@ kindred subjects.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](vao09)
+[Next: Bibliography](vao09.md)

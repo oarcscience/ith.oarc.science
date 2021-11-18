@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb40)  [Next](ttb42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb40)  [Next](ttb42.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -15,7 +15,7 @@ Intangible Textual Heritage
 
 <span id="img_05400"></span> <span align="CENTER"> [![The Thunder Bird
 Totem Pole](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)  
+Click to enlarge](img/05400.jpg.md)  
 The Thunder Bird Totem Pole  
 </span>
 
@@ -42,10 +42,10 @@ friendship.
 
 <span id="img_05500"></span> <span align="CENTER"> [![Silver Brooches,
 Earrings and Bracelets](tn/05500.jpg)  
-Click to enlarge](img/05500.jpg)  
+Click to enlarge](img/05500.jpg.md)  
 Silver Brooches, Earrings and Bracelets  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: The Shadow People and the Raven](ttb42)
+[Next: The Shadow People and the Raven](ttb42.md)

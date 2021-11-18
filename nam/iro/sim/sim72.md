@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim71)  [Next](sim73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim71)  [Next](sim73.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ were spirits.
 
 ------------------------------------------------------------------------
 
-[Next: A Dead Man Speaks Through Fire](sim73)
+[Next: A Dead Man Speaks Through Fire](sim73.md)

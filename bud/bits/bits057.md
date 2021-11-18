@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int4) [Next](bits058)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int4) [Next](bits058.md)
 
 ------------------------------------------------------------------------
 
@@ -169,7 +169,7 @@ exposition in detail.
 
 ------------------------------------------------------------------------
 
-[Next: 58. Concentration](bits058)
+[Next: 58. Concentration](bits058.md)
 
  
 

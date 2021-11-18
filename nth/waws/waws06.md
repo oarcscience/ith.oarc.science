@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](waws05)  [Next](waws07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](waws05)  [Next](waws07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766101258/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -408,7 +408,7 @@ it not to one of the least of these, ye did it not to me*."
 
 After spending the greater portion of his life in many distant climes in
 a fruitless endeavor to find the Cup of the Holy Grail, <span
-id="fr_2"></span>[\*](#fn_2) thinking that thereby he was doing the
+id="fr_2"></span>[\*](#fn_2.md) thinking that thereby he was doing the
 greatest service he could for God, Sir Launfal at last returns an old
 man, gray-haired and bent. He finds that his castle is occupied by
 others, and that he himself is an outcast. His cloak is torn; and
@@ -529,7 +529,7 @@ the world never hears.
 
 ### Footnotes
 
-<span id="fn_2"></span>[128:\*](waws06.htm#fr_2) "According to the
+<span id="fn_2"></span>[128:\*](waws06.htm#fr_2.md) "According to the
 mythology of the Romancers, the Sangreal, or Holy Grail, was the cup out
 of which Jesus partook of the Last Supper with his disciples. It was
 brought into England by Joseph of Arimathea, and remained there, an
@@ -543,4 +543,4 @@ Lowell*.
 
 ------------------------------------------------------------------------
 
-[Next: Part V. The Incoming](waws07)
+[Next: Part V. The Incoming](waws07.md)

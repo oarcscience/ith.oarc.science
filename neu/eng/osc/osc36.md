@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc35)  [Next](osc37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc35)  [Next](osc37.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ which the modern bridesmaid and best man find themselves.
 
 ------------------------------------------------------------------------
 
-[Next: (5) May Marriages](osc37)
+[Next: (5) May Marriages](osc37.md)

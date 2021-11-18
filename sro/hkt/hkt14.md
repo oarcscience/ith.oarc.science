@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt13)  [Next](hkt15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt13)  [Next](hkt15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ St. Yvod de Braine in France, with this inscription, in
 <span id="page_310">p. 310</span>
 
 letters of gold, carved upon the monument--F. JEAN LI TEMPLIER FUIS AU
-COMTE JEAN DE DREUX. <span id="fr_476"></span>[\*](#fn_476)
+COMTE JEAN DE DREUX. <span id="fr_476"></span>[\*](#fn_476.md)
 
 Although not monuments of Knight Templars, yet these interesting
 cross-legged effigies have strong claims to our attention upon other
@@ -126,7 +126,7 @@ of Rue; the reverend Brother Chosoardi, Preceptor of Barles; Brother
 Jordan de Mison, Preceptor of Embrun; Brother G. de la Tour, Preceptor
 of the house of Limaise. Of laymen are witnesses, the lady countess, the
 mother of the aforesaid count; Gerald, his brother, &c. &c." <span
-id="fr_477"></span>[\*](#fn_477)
+id="fr_477"></span>[\*](#fn_477.md)
 
 William of Asheby in Lincolnshire was admitted into this species of
 spiritual confraternity with the Templars, as appears from the following
@@ -141,7 +141,7 @@ consent of my Brothers Ingram, Gerard, and Jordan, given and granted to
 God and the blessed Mary, and to the aforesaid knights of the Temple,
 all the residue of my waste and heath land, over and above what I have
 confirmed to them by my previous grant . . . &c. &c." <span
-id="fr_478"></span>[†](#fn_478)
+id="fr_478"></span>[†](#fn_478.md)
 
 By these curious arrangements with secular persons, the Templars
 succeeded in attaching men of rank and influence to their interests, and
@@ -185,7 +185,7 @@ In Camden's Britannia, the first edition of which was published in the
 38th of Eliz., A.D. 1586, we are informed that many noblemen lie buried
 in the Temple Church, whose effigies are to be seen cross-legged, among
 whom were William the father, and William and Gilbert his sons, earls of
-Pembroke and marshals of England. <span id="fr_479"></span>[\*](#fn_479)
+Pembroke and marshals of England. <span id="fr_479"></span>[\*](#fn_479.md)
 
 <span id="page_314">p. 314</span>
 
@@ -198,19 +198,19 @@ remain monuments of noblemen there buried, to the number of eleven.
 *Eight* of them are images of armed knights; *five* lying cross-legged,
 as men vowed to the Holy Land against the infidels and unbelieving Jews,
 the other three straight-legged. The rest are coped stones, all of gray
-marble." <span id="fr_480"></span>[\*](#fn_480) A manuscript history of
+marble." <span id="fr_480"></span>[\*](#fn_480.md) A manuscript history of
 the Temple in the Inner Temple library, written at the commencement of
 the reign of Charles the First, tells us that "the crossed-legged images
 or portraitures remain in carved stone in the *middle of the round
 walke, environed with barres of iron*." <span
-id="fr_481"></span>[†](#fn_481) And Dugdale, in his Origines
+id="fr_481"></span>[†](#fn_481.md) And Dugdale, in his Origines
 Juridiciales, published 1666, thus describes them: "Within a spacious
 *grate of iron in the midst of the round walk* under the steeple, do lye
 *eight* statues in military habits, each of them having large and deep
 shields on their left armes, of which *five* are cross-legged. There are
 also three other gravestones lying about five inches above the level of
 the ground, on one of which is a large escocheon, with a lion rampant
-graven thereon." <span id="fr_482"></span>[‡](#fn_482) Such is the
+graven thereon." <span id="fr_482"></span>[‡](#fn_482.md) Such is the
 ancient account of these monuments; now, however, *six* instead of five
 cross-legged statues are to be seen, making *nine* armed knights, whilst
 only *one* coped gravestone remains. The effigies are no longer inclosed
@@ -230,7 +230,7 @@ Flying Post, of the date of the 2nd of January, 1696, that Roger
 Gillingham, Esq., treasurer of the Middle Temple, who died on the 29th
 of December, 1695, æt. seventy, had the credit of facing the Temple
 Church with New Portland stone, and of "*marshalling the Knights
-Templars in uniform order*." <span id="fr_483"></span>[\*](#fn_483) Stow
+Templars in uniform order*." <span id="fr_483"></span>[\*](#fn_483.md) Stow
 tells us that "the first of the crossed-legged was William Marshall, the
 elder, earl of Pembroke," but the effigy of that nobleman now stands the
 second; the additional figure appears to have been placed the first, and
@@ -256,7 +256,7 @@ door of the
 
 <span id="page_316">p. 316</span>
 
-church. <span id="fr_484"></span>[\*](#fn_484) The sarcophagus lately
+church. <span id="fr_484"></span>[\*](#fn_484.md) The sarcophagus lately
 found in that position is of Purbeck marble; so also is the first figure
 on the south side of the Round, whilst nearly all the others are of
 common stone. The tablet whereon it rests had been grooved round the
@@ -268,7 +268,7 @@ must, moreover, be mentioned, that the first figure on the south side
 had no coffin of any description under it. We may, therefore, reasonably
 conclude, that this figure is the monumental effigy of Geoffrey de
 Magnaville, earl of Essex. It represents an armed knight with his legs
-crossed, <span id="fr_485"></span>[†](#fn_485) in token that he had
+crossed, <span id="fr_485"></span>[†](#fn_485.md) in token that he had
 assumed the cross, and taken a vow to fight in defence of the christian
 faith. His body is cased in chain mail, over which is worn a loose
 flowing garment confined to the waist by a girdle, his right arm is
@@ -293,12 +293,12 @@ Normandy. On the accession of king Stephen to the throne, he was made
 constable of the Tower, and created earl of Essex, and was sent by the
 king to the Isle of Ely to put down a rebellion which had been excited
 there by Baldwin de Rivers, and Nigel bishop of Ely. <span
-id="fr_486"></span>[\*](#fn_486)
+id="fr_486"></span>[\*](#fn_486.md)
 
 In A.D. 1136, he founded the great abbey of Walden in Essex, which was
 consecrated by the bishops of London, Ely, and Norwich, in the presence
 of Sir Geoffrey, the lady Roisia his wife, and all his principal
-tenants. <span id="fr_487"></span>[†](#fn_487) For some time after the
+tenants. <span id="fr_487"></span>[†](#fn_487.md) For some time after the
 commencment of the war between Stephen and the empress Matilda for the
 succession to the throne, he remained faithful to the former, but after
 the fatal result of the bloody battle of Lincoln, in which king Stephen
@@ -309,7 +309,7 @@ permanently to her interests. She confirmed him in his post of constable
 of the Tower; granted him the hereditary shrievalties of several
 counties, together with large estates and possessions both in England
 and in Normandy, and invested him with numerous and important
-privileges. <span id="fr_488"></span>[‡](#fn_488) On the flight of the
+privileges. <span id="fr_488"></span>[‡](#fn_488.md) On the flight of the
 empress, however, and the discomfiture of her party, king Stephen was
 released from prison, and an apparent reconciliation took place between
 him and his powerful vassal the earl of Essex, but
@@ -322,7 +322,7 @@ were unsuspectingly attending the court at Saint Alban's.
 
 The earl of Essex was compelled to surrender the Tower of London, and
 several of his strong castles, as the price of his freedom; <span
-id="fr_489"></span>[\*](#fn_489) but he was no sooner at liberty, than
+id="fr_489"></span>[\*](#fn_489.md) but he was no sooner at liberty, than
 he collected together his vassals and adherents, and raised the standard
 of rebellion. He was joined by crowds of freebooters and needy
 adventurers, and soon found himself at the head of a powerful army. He
@@ -337,7 +337,7 @@ The most frightful excesses are said to have been committed by this
 potent earl. He sent spies, we are told, to beg from door to door, and
 discover where rich men dwelt, that he might seize them at night in
 their beds, throw them into dungeons, and compel the payment of a heavy
-ransom for their liberty. <span id="fr_490"></span>[†](#fn_490) He got
+ransom for their liberty. <span id="fr_490"></span>[†](#fn_490.md) He got
 by water to Ramsey, and entering the abbey of St. Benedict at morning's
 dawn, surprised the monks asleep in their beds after the fatigue of
 nocturnal offices; he turned them out of their
@@ -348,7 +348,7 @@ cells, filled the abbey with his soldiers, and made a fort of the
 church; he took away all the gold and silver vessels of the altar, the
 copes and vestments of the priests and singers ornamented with precious
 stones, and all the decorations of the church, and sold them for money
-to reward his soldiers. <span id="fr_491"></span>[\*](#fn_491) The
+to reward his soldiers. <span id="fr_491"></span>[\*](#fn_491.md) The
 monkish historians of the period speak with horror of these sacrilegious
 excesses.
 
@@ -370,7 +370,7 @@ before the destruction of this impious man, as we have learned from the
 true relation of many witnesses, that the walls of the church sweated
 pure blood,--a terrible manifestation, as it afterwards appeared, of the
 enormity of the crime, and of the speedy judgement of God upon the
-sinners." <span id="fr_492"></span>[†](#fn_492)
+sinners." <span id="fr_492"></span>[†](#fn_492.md)
 
 <span id="page_320">p. 320</span>
 
@@ -384,7 +384,7 @@ wall, and gave him a slight wound on the head; "which slight wound,"
 says our worthy monk of Newburgh, "although at first treated with
 derision, after a few days destroyed him, so that that most ferocious
 man, never having been absolved from the bond of the ecclesiastical
-curse, went to hell." <span id="fr_493"></span>[\*](#fn_493)
+curse, went to hell." <span id="fr_493"></span>[\*](#fn_493.md)
 
 Peter de Langtoft thus speaks of these evil doings of the earl of Essex,
 in his curious poetic chronicle.
@@ -401,13 +401,13 @@ Here now of their scheme, what chance befelle,
 The story sais the same soth as the gospelle: <span id="page_321">p.
 321</span>  
 Geffrey of Maundeuile to fele wrouh he wouh, <span
-id="fr_494"></span>[\*](#fn_494)  
+id="fr_494"></span>[\*](#fn_494.md)  
 The deuelle gald him his while with an arrowe him slouh.  
 The gode bishop of Chestre cursed this ilk Geffrey,  
 The lif out of his entre in cursing went away.  
 Arnulf his sonne was taken ale thefe, and brouht in bond,  
 Before the kyng forsaken, and exiled out of his lond." <span
-id="fr_495"></span>[†](#fn_495)</span>
+id="fr_495"></span>[†](#fn_495.md)</span>
 
 </div>
 
@@ -422,7 +422,7 @@ carried the dead body with them to the Old Temple at London; but as the
 earl had died excommunicated, they durst not give him christian burial
 in consecrated ground, and they accordingly soldered him up in lead, and
 hung him on a crooked tree in their orchard. <span
-id="fr_496"></span>[‡](#fn_496) Some years afterwards, through the
+id="fr_496"></span>[‡](#fn_496.md) Some years afterwards, through the
 exertions and at the expense of William, whom the earl had made prior of
 Walden Abbey, his absolution was obtained from pope Alexander the Third,
 so that his body was permitted to be received amongst Christians, and
@@ -433,8 +433,8 @@ Templars, being informed of his design, buried
 <span id="page_322">p. 322</span>
 
 it in their own cemetery at the New Temple, <span
-id="fr_497"></span>[\*](#fn_497) in the portico before the western door
-of the church. <span id="fr_498"></span>[†](#fn_498)
+id="fr_497"></span>[\*](#fn_497.md) in the portico before the western door
+of the church. <span id="fr_498"></span>[†](#fn_498.md)
 
 Pope Alexander, from whom the absolution was obtained, was elected to
 the pontifical chair in September, 1159, and died in 1181. It was this
@@ -450,12 +450,12 @@ patriarch, (A.D. 1185,) it was finally buried in the portico before the
 west door.
 
 The monks of Walden tell us that the above earl of Essex was a religious
-man, endowed with many virtues. <span id="fr_499"></span>[‡](#fn_499) He
+man, endowed with many virtues. <span id="fr_499"></span>[‡](#fn_499.md) He
 was married to the famous Roisia de Vere, of the family of the earls of
 Oxford, who in her old age led an ascetic life, and constructed for
 herself an extraordinary subterranean cell or oratory, which was
 curiously discovered towards the close of the last century. <span
-id="fr_500"></span>[§](#fn_500) He had issue by
+id="fr_500"></span>[§](#fn_500.md) He had issue by
 
 <span id="page_323">p. 323</span>
 
@@ -475,7 +475,7 @@ history. Matthew Paris describes his burial in the Temple Church in the
 year 1119, and in Camden's time, (A.D. 1586,) the inscription upon his
 monument was legible. "In altero horum tumulo," says Camden, "literis
 fugientibus legi, *Comes Pembrochiæ*, et in latere, *Miles eram Martis,
-Mars multos vicerat armis*." <span id="fr_501"></span>[\*](#fn_501)
+Mars multos vicerat armis*." <span id="fr_501"></span>[\*](#fn_501.md)
 Although no longer, ("the first of the cross-legged,") as described by
 Stow, A.D. 1598, yet tradition has always, since the days of Roger
 Gillingham, who moved these figures, pointed it out as "the monument of
@@ -505,20 +505,20 @@ of Strigul, and was the faithful and constant supporter of the royal
 house of Plantagenet. When the young prince Henry, eldest son of king
 Henry the Second, was on his deathbed at the castle of Martel near
 Turenne, he gave to him, as his best friend, his cross to carry to
-Jerusalem. <span id="fr_502"></span>[\*](#fn_502) On the return of
+Jerusalem. <span id="fr_502"></span>[\*](#fn_502.md) On the return of
 William Marshall from the holy city, he was present at the coronation of
 Richard Cœur de Lion, and bore on that occasion the royal sceptre of
-gold surmounted by a cross. <span id="fr_503"></span>[†](#fn_503) King
+gold surmounted by a cross. <span id="fr_503"></span>[†](#fn_503.md) King
 Richard the same year gave him in marriage Isabel de Clare, the only
 child and heiress of Richard de Clare, earl of Pembroke, surnamed
 Strongbow, and granted him with this illustrious lady the earldom of
-Pembroke. <span id="fr_504"></span>[‡](#fn_504) The year following (A.D.
+Pembroke. <span id="fr_504"></span>[‡](#fn_504.md) The year following (A.D.
 1190) he became one of the sureties for the performance by king Richard
 of his part of the treaty entered into with the king of France for the
 accomplishment of the crusade to the Holy Land, and on the departure of
 king Richard for the far East he was appointed by that monarch one of
 the council for the government of the kingdom during his absence. <span
-id="fr_505"></span>[§](#fn_505)
+id="fr_505"></span>[§](#fn_505.md)
 
 From the year 1189 to 1205 he was sheriff of Lincolnshire, and was after
 that sheriff of Sussex, and held that office during
@@ -532,7 +532,7 @@ sent over to England to keep the peace of the kingdom until the arrival
 of king John. In conjunction with Hubert, archbishop of Canterbury, he
 caused the freemen of England, both of the cities and boroughs, and most
 of the earls, barons, and free tenants, to swear fealty to John. <span
-id="fr_506"></span>[\*](#fn_506)
+id="fr_506"></span>[\*](#fn_506.md)
 
 On the arrival of the latter in England he was constituted sheriff of
 Gloucestershire and of Sussex, and was shortly afterwards sent into
@@ -553,7 +553,7 @@ fortress of Chateau Gaillard, which was besieged by Philip king of
 France, but failed in consequence of the non-arrival of seventy
 flat-bottomed vessels, whose progress up the river Seine had been
 retarded by a strong contrary wind. <span
-id="fr_507"></span>[†](#fn_507) For his fidelity and services to the
+id="fr_507"></span>[†](#fn_507.md) For his fidelity and services to the
 crown he was rewarded with numerous manors, lands, and castles, both in
 England and in
 
@@ -567,7 +567,7 @@ In the year 1204 he was sent ambassador to Paris, and on his return he
 continued to be the constant and faithful attendant of the English
 monarch. He was one of the witnesses to the surrender by king John at
 Temple Ewell of his crown and kingdom to the pope, <span
-id="fr_508"></span>[\*](#fn_508) and when the barons’ war broke out he
+id="fr_508"></span>[\*](#fn_508.md) and when the barons’ war broke out he
 was the constant mediator and negotiator between the king and his
 rebellious subjects, enjoying the confidence and respect of both
 parties. When the armed barons came to the Temple, where king John
@@ -583,13 +583,13 @@ submission of the king to their desires. Shortly afterwards he attended
 king John to Runnymede, in company with Brother Americ, the Master of
 the Temple, and at the earnest request of these two exalted personages,
 king John was at last induced to sign MAGNA CHARTA. <span
-id="fr_509"></span>[†](#fn_509)
+id="fr_509"></span>[†](#fn_509.md)
 
 On the death of that monarch, in the midst of a civil war and a foreign
 invasion, he assembled the loyal bishops and barons of the land at
 Gloucester, and by his eloquence, talents, and address, secured the
 throne for king John's son, the young prince Henry. <span
-id="fr_510"></span>[‡](#fn_510)
+id="fr_510"></span>[‡](#fn_510.md)
 
 <span id="page_327">p. 327</span>
 
@@ -600,13 +600,13 @@ was supported by the late king's rebellious barons in a claim to the
 throne. Pembroke was chosen guardian and protector of the young king and
 of the kingdom, and exerted himself with great zeal and success in
 driving out the French, and in bringing back the English to their
-antient allegiance. <span id="fr_511"></span>[\*](#fn_511) He offered
+antient allegiance. <span id="fr_511"></span>[\*](#fn_511.md) He offered
 pardon in the king's name to the disaffected barons for their past
 offences. He confirmed, in the name of the youthful sovereign, MAGNA
 CHARTA and the CHARTA FORESTÆ; and as the great seal had been lost by
 king John, together with all his treasure, in the washes of
 Lincolnshire, the deeds of confirmation were sealed with the seal of the
-earl marshall. <span id="fr_512"></span>[†](#fn_512) He also extended
+earl marshall. <span id="fr_512"></span>[†](#fn_512.md) He also extended
 the benefit of Magna Charta to Ireland, and commanded all the sheriffs
 to read it publicly at the county courts, and enforce its observance in
 every particular. Having thus exerted himself to remove the just
@@ -642,7 +642,7 @@ and the monasteries.
 
 As soon as the fate of the day was decided, the protector rode back to
 the young king at Stow, and was the first to communicate the happy
-intelligence of his victory. <span id="fr_513"></span>[\*](#fn_513) He
+intelligence of his victory. <span id="fr_513"></span>[\*](#fn_513.md) He
 then marched upon London, where prince Louis and his adherents had
 fortified themselves, and leaving a corps of observation in the
 neighbourhood of the metropolis, he proceeded to take possession of all
@@ -654,9 +654,9 @@ vessels, he gained a brilliant victory over a
 <span id="page_329">p. 329</span>
 
 much superior naval force of the enemy. <span
-id="fr_514"></span>[\*](#fn_514) By his valour and military talents he
+id="fr_514"></span>[\*](#fn_514.md) By his valour and military talents he
 speedily reduced the French prince to the necessity of suing for
-peace. <span id="fr_515"></span>[†](#fn_515) On the 11th of September a
+peace. <span id="fr_515"></span>[†](#fn_515.md) On the 11th of September a
 personal interview took place between the latter and the protector at
 Staines near London, and it was agreed that the prince and all the
 French forces should immediately evacuate the country.
@@ -672,7 +672,7 @@ choir of the church, and high mass was celebrated with vast pomp. On the
 following day it was brought to Westminster Abbey, where high mass was
 again performed; and from thence it was borne in state to the Temple
 Church, where it was solemnly interred on Ascension-day, A.D.
-1219. <span id="fr_516"></span>[‡](#fn_516) Matthew Paris tells us that
+1219. <span id="fr_516"></span>[‡](#fn_516.md) Matthew Paris tells us that
 the following epitaph was composed to the memory of the above
 distinguished nobleman:--
 
@@ -697,7 +697,7 @@ as before mentioned, and the only verse that could be read was,
 "Miles eram Martis Mars multos vicerat armis."
 
 All the historians of the period speak in the highest terms of the earl
-of Pembroke as a warrior <span id="fr_517"></span>[\*](#fn_517) and a
+of Pembroke as a warrior <span id="fr_517"></span>[\*](#fn_517.md) and a
 statesman, and concur in giving him a noble character. Shakspeare,
 consequently, in his play of King John, represents him as the eloquent
 intercessor in behalf of the unfortunate prince Arthur.
@@ -752,7 +752,7 @@ Exampled by this heinous spectacle."</span>
 This illustrious nobleman was a great benefactor to the Templars. He
 granted them the advowsons of the churches of Spenes, Castelan-Embyan,
 together with eighty acres of land in Eschirmanhir. <span
-id="fr_518"></span>[\*](#fn_518)
+id="fr_518"></span>[\*](#fn_518.md)
 
 By the side of the earl of Pembroke, towards the northern windows of the
 Round of the Temple Church, reposes a youthful warrior, clothed in
@@ -786,7 +786,7 @@ represents could not have been a Templar, as the brethren of the Temple
 were required to cut their hair close, and they wore long beards.
 
 In an antient genealogical account of the Ros family, <span
-id="fr_519"></span>[\*](#fn_519) written at the commencement of the
+id="fr_519"></span>[\*](#fn_519.md) written at the commencement of the
 reign of Henry the Eighth, A.D. 1513, two centuries after the abolition
 of the order of the Temple, it is stated that Robert Lord de Ros became
 a Templar, and was buried at London. The writer must have been
@@ -816,7 +816,7 @@ William de Spiney, who, being bribed, suffered the Frenchman to escape
 from the Castle of Bonville, in consequence whereof the Lord de Ros was
 compelled by king Richard to pay eight hundred pounds, the ransom of the
 prisoner, and William de Spiney was executed. <span
-id="fr_520"></span>[\*](#fn_520)
+id="fr_520"></span>[\*](#fn_520.md)
 
 On the accession of king John to the throne, the Lord de Ros was in high
 favour at court, and received by grant from that monarch the barony of
@@ -829,7 +829,7 @@ journey into England to do homage to king John, and was present at the
 interview between the two monarchs on the bill near Lincoln, when the
 king of Scotland swore fealty on the cross of Hubert archbishop of
 Canterbury, in the presence of the nobility of both kingdoms, and a vast
-concourse of spectators. <span id="fr_521"></span>[†](#fn_521) From his
+concourse of spectators. <span id="fr_521"></span>[†](#fn_521.md) From his
 sovereign the Lord de Ros obtained various privileges and immunities,
 and in the year 1213 he was made sheriff of Cumberland. He was at first
 faithful to king John, but, in common with the best and bravest of the
@@ -841,20 +841,20 @@ standard
 of rebellion, and was amongst the foremost of those bold patriots who
 obtained MAGNA CHARTA. He was chosen one of the twenty-five conservators
 of the public liberties, and engaged to compel John to observe the great
-charter. <span id="fr_522"></span>[\*](#fn_522) Upon the death of that
+charter. <span id="fr_522"></span>[\*](#fn_522.md) Upon the death of that
 monarch he was induced to adhere to the infant prince Henry, through the
 influence and persuasions of the earl of Pembroke, the Protector, <span
-id="fr_523"></span>[†](#fn_523) and he received from the youthful
+id="fr_523"></span>[†](#fn_523.md) and he received from the youthful
 monarch various marks of the royal favour. He died in the eleventh year
 of the reign of the young king Henry the Third, (A.D. 1227,) and was
-buried in the Temple Church. <span id="fr_524"></span>[‡](#fn_524)
+buried in the Temple Church. <span id="fr_524"></span>[‡](#fn_524.md)
 
 The above Lord de Ros was a great benefactor to the Templars. He granted
 them the manor of Ribstane, and the advowson of the church; the ville of
 Walesford, and all his windmills at that place; the ville of Hulsyngore,
 with the wood and windmill there; also all his land at Cattail, and
 various tenements in Conyngstreate, York. <span
-id="fr_525"></span>[§](#fn_525)
+id="fr_525"></span>[§](#fn_525.md)
 
 Weever has evidently misapplied the inscription seen on the antient
 monument of Brother Constance Hover, the visitor-general of the order of
@@ -912,13 +912,13 @@ patriotic barons who compelled king John to sign MAGNA CHARTA. He was
 appointed one of the twenty-five conservators of the public liberties,
 and was one of the chief leaders and promoters of the barons’ war, being
 a party to the covenant for holding the city and Tower of London. <span
-id="fr_526"></span>[\*](#fn_526) On the death of king John, his father
+id="fr_526"></span>[\*](#fn_526.md) On the death of king John, his father
 the Protector brought him over to the cause of the young king Henry, the
 rightful heir to the throne, whom he served with zeal and fidelity. He
 was a gallant soldier, and greatly distinguished himself in a campaign
 in Wales. He overthrew Prince Llewellyn in battle with the loss of eight
 thousand men, and laid waste the dominions of that prince with fire and
-sword. <span id="fr_527"></span>[†](#fn_527) For these services he had
+sword. <span id="fr_527"></span>[†](#fn_527.md) For these services he had
 scutage of all his tenants in *twenty counties in England!* He was made
 governor of the castles of Cardigan and Carmarthen, and received various
 marks of royal favour. In the fourteenth year of the reign of king Henry
@@ -928,7 +928,7 @@ whereupon he was sent to that kingdom with a considerable army to
 restore tranquillity. He married Eleanor, the daughter of king John by
 the beautiful Isabella of Angoulême, and he was consequently the
 brother-in-law of the young king Henry the Third. <span
-id="fr_528"></span>[‡](#fn_528) He died without issue, A.D. 1231, (15
+id="fr_528"></span>[‡](#fn_528.md) He died without issue, A.D. 1231, (15
 Hen. III.,) and on the 14th of April he was buried in the Temple Church
 at London, by the side of his father the Protector. He was greatly
 beloved by king Henry the Third,
@@ -937,7 +937,7 @@ beloved by king Henry the Third,
 
 who attended his funeral, and Matthew Paris tells us, that when the king
 saw the dead body covered with the mournful pall, he heaved a deep sigh,
-and was greatly affected. <span id="fr_529"></span>[\*](#fn_529)
+and was greatly affected. <span id="fr_529"></span>[\*](#fn_529.md)
 
 The manors, castles, estates, and possessions of this powerful nobleman
 in England, Wales, Ireland, and Normandy, were immense. He gave
@@ -946,15 +946,15 @@ monastery of Friars preachers in Dublin, and to the Templars he gave the
 church of Westone with all its appurtenances, and granted and confirmed
 to them the borough of Baudac, the estate of Langenache, with various
 lands, windmills, and *villeins* of the soil. <span
-id="fr_530"></span>[†](#fn_530)
+id="fr_530"></span>[†](#fn_530.md)
 
 GILBERT MARSHALL, EARL OF PEMBROKE, brother to the above, and third son
 of the Protector, succeeded to the earldom and the vast estates of his
 ancestors on the melancholy murder in Ireland of his gallant brother
 Richard, "the flower of the chivalry of that time," (A.D. 1234.) The
 year after his accession to the title he married Margaret, the daughter
-of the king of Scotland, who is [described](errata.htm#7) by Matthew
-Paris as "a most elegant girl," <span id="fr_531"></span>[‡](#fn_531),
+of the king of Scotland, who is [described](errata.htm#7.md) by Matthew
+Paris as "a most elegant girl," <span id="fr_531"></span>[‡](#fn_531.md),
 and received with her a splendid dowry. In the year 1236 he assumed the
 cross, and joined the king's brother, the earl of Cornwall, in the
 promotion of a Crusade to the Holy Land.
@@ -965,22 +965,22 @@ between this earl of Pembroke and king Henry
 <span id="page_338">p. 338</span>
 
 the Third, when the latter was eating his Christmas dinner at
-Winchester, in the year 1239. <span id="fr_532"></span>[\*](#fn_532)
+Winchester, in the year 1239. <span id="fr_532"></span>[\*](#fn_532.md)
 
 At a great meeting of Crusaders at Northampton, he took a solemn oath
 upon the high altar of the church of All Saints to proceed without delay
 to Palestine to fight against the enemies of the cross; <span
-id="fr_533"></span>[†](#fn_533) but his intentions were frustrated by
+id="fr_533"></span>[†](#fn_533.md) but his intentions were frustrated by
 the hand of death. At a tournament held at Ware, A.D. 1241, he was
 thrown from his horse, and died a few hours afterwards at the monastery
 at Hertford. His entrails were buried in the church of the Virgin at
 that place, but his body was brought up to London, accompanied by all
 his family, and was interred in the Temple Church by the side of his
-father and eldest brother. <span id="fr_534"></span>[‡](#fn_534)
+father and eldest brother. <span id="fr_534"></span>[‡](#fn_534.md)
 
 The above Gilbert Marshall granted to the Templars the church of Weston,
 the borough of Baldok, lands and houses at Roydon, and the wood of
-Langnoke. <span id="fr_535"></span>[§](#fn_535)
+Langnoke. <span id="fr_535"></span>[§](#fn_535.md)
 
 All the five sons of the elder Marshall, the Protector, died without
 issue in the reign of Henry the Third, and the family became extinct.
@@ -1031,7 +1031,7 @@ Temple Church was consecrated, the body of the Protector
 
 was found entire, sewed up in a bull's hide, but in a state of
 putridity, and disgusting in appearance. <span
-id="fr_536"></span>[\*](#fn_536)
+id="fr_536"></span>[\*](#fn_536.md)
 
 It will be observed that the dates of the burial of the above nobleman,
 as mentioned by Matthew Paris and other authorities, are as
@@ -1045,7 +1045,7 @@ mistaken.
 
 Amongst the many distinguished persons interred in the Temple Church is
 WILLIAM PLANTAGENET, the fifth son of Henry the Third, who died A.D.
-1256, under age. <span id="fr_537"></span>[†](#fn_537) The greatest
+1256, under age. <span id="fr_537"></span>[†](#fn_537.md) The greatest
 desire was manifested by all classes of persons to be buried in the
 cemetery of the Templars.
 
@@ -1075,34 +1075,34 @@ there decently buried as above mentioned. . . . . As witness the
 venerable father R., bishop of Hereford, &c. Given by the hand of the
 venerable father Edmund, bishop of Chichester, our chancellor, at
 Gloucester, the 27th of July, in the nineteenth year of our
-reign." <span id="fr_538"></span>[\*](#fn_538)
+reign." <span id="fr_538"></span>[\*](#fn_538.md)
 
 Queen Eleanor also provided in a similar manner for her interment in the
 Temple Church, the formal instrument being expressed to be made with the
 consent and approbation of her lord, Henry the illustrious king of
 England, who had lent a willing ear to her prayers upon the
-subject. <span id="fr_539"></span>[†](#fn_539) These sepulchral
+subject. <span id="fr_539"></span>[†](#fn_539.md) These sepulchral
 arrangements, however, were afterwards altered, and the king by his will
 directed his body to be buried as follows:--"I will that my body be
 buried in the church of the blessed Edward at Westminster, there being
 no impediment, having formerly appointed my body to be buried in the New
-Temple." <span id="fr_540"></span>[‡](#fn_540)
+Temple." <span id="fr_540"></span>[‡](#fn_540.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_476"></span>[310:\*](hkt14.htm#fr_476) Monumens de la
+<span id="fn_476"></span>[310:\*](hkt14.htm#fr_476.md) Monumens de la
 monarchie Françoise, par *Montfaucon*, tom. ii. p. \]84, plate p. 185.
 Hist. de la Maison de Dreux, p. 86, 276.
 
-<span id="fn_477"></span>[312:\*](hkt14.htm#fr_477) *Ducange*. Gloss.
+<span id="fn_477"></span>[312:\*](hkt14.htm#fr_477.md) *Ducange*. Gloss.
 tom. iii. p. 16, 17; ed. 1678, verb. *Oblati*.
 
-<span id="fn_478"></span>[312:†](hkt14.htm#fr_478) *Peck*. MS. vol. iv.
+<span id="fn_478"></span>[312:†](hkt14.htm#fr_478.md) *Peck*. MS. vol. iv.
 p. 67.
 
-<span id="fn_479"></span>[313:\*](hkt14.htm#fr_479) Plurimique nobiles
+<span id="fn_479"></span>[313:\*](hkt14.htm#fr_479.md) Plurimique nobiles
 apud eos humati fuerunt, quorum imagines visuntur in hoc Templo, tibiis
 in crucem transversis (sic enim sepulti fuerunt quotquot illo sæculo
 nomina bello sacro dedissent, vel qui ut tunc temporis sunt locuti
@@ -1110,44 +1110,44 @@ crucem suscepissent.) <span id="page_314">p. 314</span> E quibus fuerunt
 Guilielmus Pater, Guilielmus et Gilbertus ejus filii, omnes marescalli
 Angliæ, comitesque Pembrochiæ.--*Camden's* Britannia, p. 375.
 
-<span id="fn_480"></span>[314:\*](hkt14.htm#fr_480) *Stow's* Survey.
+<span id="fn_480"></span>[314:\*](hkt14.htm#fr_480.md) *Stow's* Survey.
 
-<span id="fn_481"></span>[314:†](hkt14.htm#fr_481) MS. Inner Temple
+<span id="fn_481"></span>[314:†](hkt14.htm#fr_481.md) MS. Inner Temple
 Library, No. 17. fol. 402.
 
-<span id="fn_482"></span>[314:‡](hkt14.htm#fr_482) Origines
+<span id="fn_482"></span>[314:‡](hkt14.htm#fr_482.md) Origines
 Juridiciales, p. 173.
 
-<span id="fn_483"></span>[315:\*](hkt14.htm#fr_483) *Nicholls’*
+<span id="fn_483"></span>[315:\*](hkt14.htm#fr_483.md) *Nicholls’*
 Leicestershire, vol. iii. p. 960.
 
-<span id="fn_484"></span>[316:\*](hkt14.htm#fr_484) "In *porticu* ante
+<span id="fn_484"></span>[316:\*](hkt14.htm#fr_484.md) "In *porticu* ante
 ostium ecclesiæ occidentale." The word porticus, which means "a walking
 place environed with pillars," exactly corresponds with the external
 circular walk surrounding the round tower of the church.
 
-<span id="fn_485"></span>[316:†](hkt14.htm#fr_485) Some surprise has
+<span id="fn_485"></span>[316:†](hkt14.htm#fr_485.md) Some surprise has
 been expressed that the effigies of women should be found in this
 curious position. It must be recollected, that women frequently fought
 in the field during the Crusades, and were highly applauded for so
 doing.
 
-<span id="fn_486"></span>[317:\*](hkt14.htm#fr_486) *Hoveden* apud rer.
+<span id="fn_486"></span>[317:\*](hkt14.htm#fr_486.md) *Hoveden* apud rer.
 Anglican script. post Bedam, p. 488. *Dugdale's* Baronage, vol. i. p.
 201. Lel. Coll. vol. i. 864.
 
-<span id="fn_487"></span>[317:†](hkt14.htm#fr_487) *Monast. Angl.*, vol.
+<span id="fn_487"></span>[317:†](hkt14.htm#fr_487.md) *Monast. Angl.*, vol.
 i. p. 444 to 464.
 
-<span id="fn_488"></span>[317:‡](hkt14.htm#fr_488) *Dugd.* Bar., vol. i.
+<span id="fn_488"></span>[317:‡](hkt14.htm#fr_488.md) *Dugd.* Bar., vol. i.
 p. 202. *Selden*, tit. hon. p. 647.
 
-<span id="fn_489"></span>[318:\*](hkt14.htm#fr_489) *Triveti* annales
+<span id="fn_489"></span>[318:\*](hkt14.htm#fr_489.md) *Triveti* annales
 apud Hall, p. 12, 13, ad ann. 1143. *Guill. Neubr.* lib. i. cap. ii.
 p.44. ad ann. 1143. *Hoveden*, p. 488, Hist. Minor. Matt. Par. in bib.
 reg. apud S. Jacobum.
 
-<span id="fn_490"></span>[318:†](hkt14.htm#fr_490) *Henry Huntingdon*,
+<span id="fn_490"></span>[318:†](hkt14.htm#fr_490.md) *Henry Huntingdon*,
 lib. viii. Rer. Anglicar. script. post Bedam, p. 393. *Chron. Gervasii*,
 apud script. R. col. 1360. *Radulph de Diceto*, ib. col. 508. Vir autem
 late magnanimus, velut equus validus et infrænus, maneria, villas,
@@ -1156,13 +1156,13 @@ cætereque, proprietatem regiam contingentes, invasit, igni combussit,
 Library of the Royal Society. *Annales Dunstaple* apud Hearne, tom, i.
 p. 25.
 
-<span id="fn_491"></span>[319:\*](hkt14.htm#fr_491) Vasa autem altaris
+<span id="fn_491"></span>[319:\*](hkt14.htm#fr_491.md) Vasa autem altaris
 aurea et argentes Deo sacrata, capas etiam cantorum lapidibus preciosis
 ac opere mirifico contextas, casulas cum albis et cæteris ecclesiastici
 decoris ornamentis rapuit, &c. MS. ut sup. Gest. reg. Steph. p. 693,
 964.
 
-<span id="fn_492"></span>[319:†](hkt14.htm#fr_492) De vitâ sceleratâ et
+<span id="fn_492"></span>[319:†](hkt14.htm#fr_492.md) De vitâ sceleratâ et
 condigno interitu Gaufridi de Magnavilla.--*Guill. Neubr.* lib. i. <span
 id="page_320">p. 320</span> cap. xi. p. 44 to 46. Henry of Huntingdon,
 who lived in king Stephen's reign, \[and kept up a correspondence with
@@ -1175,30 +1175,30 @@ quidem meis oculis inspexi!* *Script. post Bedam.* lib. viii. p. 393,
 ed. 1601, Francfort. Hoveden, who wrote shortly after, has copied this
 account. Annales, ib. p. 488.
 
-<span id="fn_493"></span>[320:\*](hkt14.htm#fr_493) *Guill. Neubr*, ut
+<span id="fn_493"></span>[320:\*](hkt14.htm#fr_493.md) *Guill. Neubr*, ut
 supr. p. 45, 46. Chron. *Gervasii*, apud X. script. col. 1360. *Annal.
 S. Augustin*. *Trivet* ad ann. 1144, p. 14. *Chron. Brampton*, col.
 1033. *Hoveden*, ut supr. p. 488.
 
-<span id="fn_494"></span>[321:\*](hkt14.htm#fr_494) Grew mad with much
+<span id="fn_494"></span>[321:\*](hkt14.htm#fr_494.md) Grew mad with much
 anger.
 
-<span id="fn_495"></span>[321:†](hkt14.htm#fr_495) Peter Langtoft's
+<span id="fn_495"></span>[321:†](hkt14.htm#fr_495.md) Peter Langtoft's
 Chronicle, vol. i. 123, by Robert of Brunne, translated from a MS. in
 the Inner Temple Library, Oxon. 1725.
 
-<span id="fn_496"></span>[321:‡](hkt14.htm#fr_496) In pomœrio suo
+<span id="fn_496"></span>[321:‡](hkt14.htm#fr_496.md) In pomœrio suo
 veteris, scilicet Templi apud London, canali inclusum plumbeo, in arbore
 torvâ suspenderant. *Antient MS. de fundatione cænobii Sancti Jacobi de
 Waldena*, fol. 43, a. cap. ix. no. 51, in the Library of the Royal
 Society.
 
-<span id="fn_497"></span>[322:\*](hkt14.htm#fr_497) Cumque Prior ille,
+<span id="fn_497"></span>[322:\*](hkt14.htm#fr_497.md) Cumque Prior ille,
 corpus defunctum deponere, et secum Waldenam transferre satageret,
 Templarii caute premeditati, statim illud tollentes, in cimiterio Novi
 Templi ignobili satis tradiderunt sepulturæ.--Ib.
 
-<span id="fn_498"></span>[322:†](hkt14.htm#fr_498) A.D. MCLXIIII, sexto
+<span id="fn_498"></span>[322:†](hkt14.htm#fr_498.md) A.D. MCLXIIII, sexto
 kal. Octobris, obiit Galfridus de Mandeuil, comes Essexiæ, fundator
 primus hujus monasterii de Walden, cujus corpus jacet Londoniis humatum,
 apud Temple-bar *in porticu ante ostium ecclesiæ occidentale*. MS. in
@@ -1206,12 +1206,12 @@ the library of the Royal Society, marked No. 29, entitled *Liber de
 fundatione Sancti Jacobi Apostoli de Waldenâ*. *Cotton*, MS. Vesp. E.
 vi. fol. 25.
 
-<span id="fn_499"></span>[322:‡](hkt14.htm#fr_499) Hoveden speaks of him
+<span id="fn_499"></span>[322:‡](hkt14.htm#fr_499.md) Hoveden speaks of him
 as a man of the highest probity, but irreligious. Erat autem summæ
 probitatis, sed summæ in Deum obstinationis, magnæ in mundanis
 diligentiæ, magnæ in Deum negligentiæ. *Hoveden* ut supra.
 
-<span id="fn_500"></span>[322:§](hkt14.htm#fr_500) It was a recess, hewn
+<span id="fn_500"></span>[322:§](hkt14.htm#fr_500.md) It was a recess, hewn
 out of the chalk, of a bell shape and exactly circular, thirty feet high
 and seventy feet in diameter. The sides of this curious retreat were
 adorned <span id="page_323">p. 323</span> with imagery in basso relievo
@@ -1220,42 +1220,42 @@ and eccentric lady is supposed to have cut for her entertainment.--See
 the extraordinary account of the discovery, in 1742, of the Lady
 Roisia's Cave at Royston, published by *Dr. Stukeley*. Cambridge, 1795.
 
-<span id="fn_501"></span>[323:\*](hkt14.htm#fr_501) *Camden's*
+<span id="fn_501"></span>[323:\*](hkt14.htm#fr_501.md) *Camden's*
 Britannia, ed. 1600, p. 375.
 
-<span id="fn_502"></span>[324:\*](hkt14.htm#fr_502) Tradidit Willielmo
+<span id="fn_502"></span>[324:\*](hkt14.htm#fr_502.md) Tradidit Willielmo
 Marescallo, familiari suo, crucem seam Jerosolymam deferendam. *Hoveden*
 ad ann. 1183, apud rer. Anglic. script. post Bedam, p. 620.
 
-<span id="fn_503"></span>[324:†](hkt14.htm#fr_503) *Chron. Joan
+<span id="fn_503"></span>[324:†](hkt14.htm#fr_503.md) *Chron. Joan
 Brompton*, apud X. script. col. 1158. *Hoveden*, p. 655, 666.
 
-<span id="fn_504"></span>[324:‡](hkt14.htm#fr_504) Selden's Tit. of
+<span id="fn_504"></span>[324:‡](hkt14.htm#fr_504.md) Selden's Tit. of
 Honour, p. 677.
 
-<span id="fn_505"></span>[324:§](hkt14.htm#fr_505) *Hoveden*, p. 659,
+<span id="fn_505"></span>[324:§](hkt14.htm#fr_505.md) *Hoveden*, p. 659,
 660. *Radulf de Diceto*, apud X. script. p. 659.
 
-<span id="fn_506"></span>[325:\*](hkt14.htm#fr_506) *Matt. Par.*, p.
+<span id="fn_506"></span>[325:\*](hkt14.htm#fr_506.md) *Matt. Par.*, p.
 196. *Hoveden*, p. 792. *Dugdale* Baronage, tom. i. p. 601.
 
-<span id="fn_507"></span>[325:†](hkt14.htm#fr_507) *Trivet*, p. 144.
+<span id="fn_507"></span>[325:†](hkt14.htm#fr_507.md) *Trivet*, p. 144.
 *Gul. Britt*, lib. vii. *Ann. Waverley*, p. 168.
 
-<span id="fn_508"></span>[326:\*](hkt14.htm#fr_508) *Matt. Par.*, p.
+<span id="fn_508"></span>[326:\*](hkt14.htm#fr_508.md) *Matt. Par.*, p.
 237.
 
-<span id="fn_509"></span>[326:†](hkt14.htm#fr_509) *Matt. Par.*, p.
+<span id="fn_509"></span>[326:†](hkt14.htm#fr_509.md) *Matt. Par.*, p.
 253-256, ad ann. 1215.
 
-<span id="fn_510"></span>[326:‡](hkt14.htm#fr_510) See his eloquent
+<span id="fn_510"></span>[326:‡](hkt14.htm#fr_510.md) See his eloquent
 address to the bishops and barons in behalf of the young
 king.--*Hemingford*, lib. iii. cap. 1. p. 562, apud *Gale* XV, script.
 
-<span id="fn_511"></span>[327:\*](hkt14.htm#fr_511) *Matt. Par.*, p.
+<span id="fn_511"></span>[327:\*](hkt14.htm#fr_511.md) *Matt. Par.*, p.
 289, ad ann. 1216. Acta *Rymeri*, tom. i. p. 216.
 
-<span id="fn_512"></span>[327:†](hkt14.htm#fr_512) *Hemingford*, p. 565,
+<span id="fn_512"></span>[327:†](hkt14.htm#fr_512.md) *Hemingford*, p. 565,
 568. "These liberties, distinctly reduced to writing, we send to you our
 faithful subjects, sealed with the seal of our faithful William
 Marshall, earl of Pembroke, the guardian of us and our kingdom, because
@@ -1265,61 +1265,61 @@ letters patent were sealed with the seal of the earl marshall, "Rectoris
 nostri et regni, eo quod *nondum sigillum habuimus*. Acta *Rymeri*, tom.
 i. p. 224, ed. 1704.
 
-<span id="fn_513"></span>[328:\*](hkt14.htm#fr_513) *Matt. Par.*, p.
+<span id="fn_513"></span>[328:\*](hkt14.htm#fr_513.md) *Matt. Par.*, p.
 292-296.
 
-<span id="fn_514"></span>[329:\*](hkt14.htm#fr_514) Matthew Paris bears
+<span id="fn_514"></span>[329:\*](hkt14.htm#fr_514.md) Matthew Paris bears
 witness to the great superiority of the English sailors over the French
 even in those days.--Ibid., p. 298. *Trivet*, p. 167-169.
 
-<span id="fn_515"></span>[329:†](hkt14.htm#fr_515) Acta *Rymeri*, tom.
+<span id="fn_515"></span>[329:†](hkt14.htm#fr_515.md) Acta *Rymeri*, tom.
 i. p. 219, 221, 223.
 
-<span id="fn_516"></span>[329:‡](hkt14.htm#fr_516) *Dugd*. Baronage,
+<span id="fn_516"></span>[329:‡](hkt14.htm#fr_516.md) *Dugd*. Baronage,
 tom. i. p. 602, A.D. 1219. Willielmus senior, mareschallus regis et
 rector regni, diem clausit extremum, et Londini apud Novum Templum
 honorifice tumulatur, scilicet in ecclesiâ, in Ascensionis die videlicet
 xvii. calendas Aprilis.--*Matt. Par*. p. 304. *Ann. Dunstaple*, ad ann.
 1319. *Ann. Waverley*.
 
-<span id="fn_517"></span>[330:\*](hkt14.htm#fr_517) Miles strenuissimus
+<span id="fn_517"></span>[330:\*](hkt14.htm#fr_517.md) Miles strenuissimus
 et per universum orbem nominatissimus.--*Chron. T. Wikes* apud *Gale*,
 script. XV. p. 39.
 
-<span id="fn_518"></span>[331:\*](hkt14.htm#fr_518) *Monast. Angl.*, p.
+<span id="fn_518"></span>[331:\*](hkt14.htm#fr_518.md) *Monast. Angl.*, p.
 833, 834, 837, 843.
 
-<span id="fn_519"></span>[332:\*](hkt14.htm#fr_519) MS. Bib. Cotton.
+<span id="fn_519"></span>[332:\*](hkt14.htm#fr_519.md) MS. Bib. Cotton.
 *Vitellius*, F. 4. *Monast. Angl.*, tom. i. p. 728, ed. 1655.
 
-<span id="fn_520"></span>[333:\*](hkt14.htm#fr_520) *Matt. Par.*, p.
+<span id="fn_520"></span>[333:\*](hkt14.htm#fr_520.md) *Matt. Par.*, p.
 182. ad ann. 1196.
 
-<span id="fn_521"></span>[333:†](hkt14.htm#fr_521) *Hoveden* apud rer.
+<span id="fn_521"></span>[333:†](hkt14.htm#fr_521.md) *Hoveden* apud rer.
 Anglicar. script. post Bedam, p. 811.
 
-<span id="fn_522"></span>[334:\*](hkt14.htm#fr_522) *Matt. Par.* p. 254,
+<span id="fn_522"></span>[334:\*](hkt14.htm#fr_522.md) *Matt. Par.* p. 254,
 262. *Lel*. col. vol. i. p. 362.
 
-<span id="fn_523"></span>[334:†](hkt14.htm#fr_523) Acta *Rymeri*, tom.
+<span id="fn_523"></span>[334:†](hkt14.htm#fr_523.md) Acta *Rymeri*, tom.
 i. p. 224, ad ann. 1217.
 
-<span id="fn_524"></span>[334:‡](hkt14.htm#fr_524) *Dugd*. Baronage,
+<span id="fn_524"></span>[334:‡](hkt14.htm#fr_524.md) *Dugd*. Baronage,
 vol. i. p. 545, 546.
 
-<span id="fn_525"></span>[334:§](hkt14.htm#fr_525) *Monast. Angl.,* vol.
+<span id="fn_525"></span>[334:§](hkt14.htm#fr_525.md) *Monast. Angl.,* vol.
 vi. part ii. p. 838, 842.
 
-<span id="fn_526"></span>[336:\*](hkt14.htm#fr_526) *Matt. Par.* p. 254,
+<span id="fn_526"></span>[336:\*](hkt14.htm#fr_526.md) *Matt. Par.* p. 254,
 256. *Lel*. col. vol. i. p. 841.
 
-<span id="fn_527"></span>[336:†](hkt14.htm#fr_527) *Matt. Par.* p. 317,
+<span id="fn_527"></span>[336:†](hkt14.htm#fr_527.md) *Matt. Par.* p. 317,
 ad ann. 1223.
 
-<span id="fn_528"></span>[336:‡](hkt14.htm#fr_528) *Matt. Par.* p. 366.
+<span id="fn_528"></span>[336:‡](hkt14.htm#fr_528.md) *Matt. Par.* p. 366.
 *Ann. Dunst.* p. 99. 134, 150.
 
-<span id="fn_529"></span>[337:\*](hkt14.htm#fr_529) Eodem tempore, A.D.
+<span id="fn_529"></span>[337:\*](hkt14.htm#fr_529.md) Eodem tempore, A.D.
 1237, mense Aprili, Willielmus, Marescallus comes Pembrochiæ, in militiâ
 vir strenuus, in dolorem multorum, diem clausit extremum, et Londoniis
 apud Novum Templum sepultus est, juxta patrem suum, XVII calend. Maii.
@@ -1328,26 +1328,26 @@ vidisset, corpus defuncti pallâ coopertum, ex alto trahens suspiria,
 ait, Heu, heu, mihi! nonne adhuc penitus vindicatus est sanguis beati
 Thomæ Martyris.--*Matt. Par.* p. 368.
 
-<span id="fn_530"></span>[337:†](hkt14.htm#fr_530) *Dugd*. Monast Angl.
+<span id="fn_530"></span>[337:†](hkt14.htm#fr_530.md) *Dugd*. Monast Angl.
 ut sup. p. 820.
 
-<span id="fn_531"></span>[337:‡](hkt14.htm#fr_531) Margaretam *puellam
+<span id="fn_531"></span>[337:‡](hkt14.htm#fr_531.md) Margaretam *puellam
 elegantissimam* matrimonio sibi copulaverat.--*Matt. Par.*, p. 432, 404.
 
-<span id="fn_532"></span>[338:\*](hkt14.htm#fr_532) *Matt. Par.* p. 483.
+<span id="fn_532"></span>[338:\*](hkt14.htm#fr_532.md) *Matt. Par.* p. 483.
 
-<span id="fn_533"></span>[338:†](hkt14.htm#fr_533) Ib. p. 431, 483, 516,
+<span id="fn_533"></span>[338:†](hkt14.htm#fr_533.md) Ib. p. 431, 483, 516,
 524.
 
-<span id="fn_534"></span>[338:‡](hkt14.htm#fr_534) In crastino autem
+<span id="fn_534"></span>[338:‡](hkt14.htm#fr_534.md) In crastino autem
 delatum est corpus Londinum, fratre ipsius prævio, cum tota sua familia
 comitante, juxta patrem suum et fratrem tumulandum.--Ib. p. 565. ad ann.
 1241.
 
-<span id="fn_535"></span>[338:§](hkt14.htm#fr_535) *Dugd*. Monast.
+<span id="fn_535"></span>[338:§](hkt14.htm#fr_535.md) *Dugd*. Monast.
 Angl., p. 833.
 
-<span id="fn_536"></span>[340:\*](hkt14.htm#fr_536) Paucis ante evolutis
+<span id="fn_536"></span>[340:\*](hkt14.htm#fr_536.md) Paucis ante evolutis
 annis, post mortem omnium suorum filiorum, videlicet, quando dedicata
 est ecclesia Novi Templi, inventum est corpus sæpedicti comitis quod
 erat insutum corio taurino, integrum, putridum tamen et prout videri
@@ -1356,22 +1356,22 @@ interpolation by some wag. The last of the Pembroke; died A.D. 1245,
 whilst, according to Matthew Paris's own showing, the eastern part of
 the church was consecrated A.D. 1240, p. 526.
 
-<span id="fn_537"></span>[340:†](hkt14.htm#fr_537) *Mill's* Catalogues,
+<span id="fn_537"></span>[340:†](hkt14.htm#fr_537.md) *Mill's* Catalogues,
 p. 145. *Speed*, p. 551. *Sandford's* Genealogies, p. 92, 93, 2nd
 edition.
 
-<span id="fn_538"></span>[341:\*](hkt14.htm#fr_538) Ex Registr. Hosp. S.
+<span id="fn_538"></span>[341:\*](hkt14.htm#fr_538.md) Ex Registr. Hosp. S.
 Joh. Jerus. in Angliâ, in *Bib. Cotton.* fol. 25 a.
 
-<span id="fn_539"></span>[341:†](hkt14.htm#fr_539) Ib.
+<span id="fn_539"></span>[341:†](hkt14.htm#fr_539.md) Ib.
 
-<span id="fn_540"></span>[341:‡](hkt14.htm#fr_540) *Nicolas*, Testamenta
+<span id="fn_540"></span>[341:‡](hkt14.htm#fr_540.md) *Nicolas*, Testamenta
 Vetusta, p. 6.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](hkt15)
+[Next: Chapter XIII](hkt15.md)
 
 </div>

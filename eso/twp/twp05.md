@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp04)  [Next](twp06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp04)  [Next](twp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -452,4 +452,4 @@ mind, and spirit which is man begins and ends.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](twp06)
+[Next: Chapter IV](twp06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut11)  [Next](hut13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut11)  [Next](hut13.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,14 +9,14 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # IX.
 
-### Mīmedakût Kyūwintsit. <span id="fr_36"></span>[1](#fn_36)--At Mīmedakût She Pounded Acorns.
+### Mīmedakût Kyūwintsit. <span id="fr_36"></span>[1](#fn_36.md)--At Mīmedakût She Pounded Acorns.
 
 <span id="page_186">p. 186</span>
 
  
 
 <span id="img_18600"></span> ![](img/18600.jpg) <span
-id="fr_37"></span>[1](#fn_37)
+id="fr_37"></span>[1](#fn_37.md)
 
  
 
@@ -51,7 +51,7 @@ always cried as he travelled.
 After a time he saw by the appearance of the trail that his son had gone
 along only a little ahead of him. When he came closer he heard him
 singing. Woodpecker heads had been left for him on sticks by the trail.
-Then right across from him [he heard his son singing](#img_18600). Then
+Then right across from him [he heard his son singing](#img_18600.md). Then
 the son thought, "Poor man, never mind, let him catch up with me." He
 waited for him. When the father came along the son said, "I just thought
 you would turn back from here." "No," said the father, "I will go with
@@ -69,10 +69,10 @@ southeast.
 
 ### Footnotes
 
-<span id="fn_36"></span>[185:1](hut12.htm#fr_36) Told at Hupa, July
+<span id="fn_36"></span>[185:1](hut12.htm#fr_36.md) Told at Hupa, July
 1901, by Mary Marshall.
 
-<span id="fn_37"></span>[186:1](hut12.htm#fr_37) NOTE.--This song was
+<span id="fn_37"></span>[186:1](hut12.htm#fr_37.md) NOTE.--This song was
 taken down from a phonograph cylinder and the voice of a Hupa, by Miss
 Edith May Lee, class of 103, University of California.
 
@@ -82,4 +82,4 @@ exactly.
 
 ------------------------------------------------------------------------
 
-[Next: X. Tōdiñ KeïtLō.--By the River She Made Baskets](hut13)
+[Next: X. Tōdiñ KeïtLō.--By the River She Made Baskets](hut13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb62)  [Next](wfb64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb62)  [Next](wfb64.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ diseases.
 
 ------------------------------------------------------------------------
 
-[Next: The Ancients of the World](wfb64)
+[Next: The Ancients of the World](wfb64.md)

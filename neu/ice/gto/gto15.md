@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto14)  [Next](gto16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto14)  [Next](gto16.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ heart. The weather was cold, but still and bright.
 <span id="page_59">p. 59</span>
 
 \[paragraph continues\] But she goes once or twice round the house
-widdershins, <span id="fr_10"></span>[1](#fn_10) and snuffs to all
+widdershins, <span id="fr_10"></span>[1](#fn_10.md) and snuffs to all
 airts, and draws in the air. And as she did this the weather began to
 change, and there was a driving sleet, and after that a thaw; and a
 flood poured down the hillside; and a snowslip fell on the farm of Berg,
@@ -165,9 +165,9 @@ The end was, that he had his way.
 
 ### Footnotes
 
-<span id="fn_10"></span>[59:1](gto15.htm#fr_10) "Widdershins"--*i.e.*
+<span id="fn_10"></span>[59:1](gto15.htm#fr_10.md) "Widdershins"--*i.e.*
 against the sun.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Gisli An Outlaw](gto16)
+[Next: Chapter XI. Gisli An Outlaw](gto16.md)

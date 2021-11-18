@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl02)  [Next](vrl04) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl02)  [Next](vrl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ me. I fell on my knees and covered my face with my hands.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER V](vrl04)
+[Next: CHAPTER V](vrl04.md)

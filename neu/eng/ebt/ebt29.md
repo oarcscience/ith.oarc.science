@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt28)  [Next](ebt30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt28)  [Next](ebt30.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ sighting mounds. This is not the case in the district investigated.
 
 [![PLATE XV. CHURCH.&lt;BR&gt; Ledbury, the Spire sighed up Church
 Lane.](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 PLATE XV. CHURCH.  
 Ledbury, the Spire sighed up Church Lane.  
 
@@ -51,7 +51,7 @@ Ledbury, the Spire sighed up Church Lane.
 
 [![PLATE XVI. CASTLE.&lt;BR&gt; Wigmore Castle, showing the sighting
 mound.](tn/pl16.jpg)  
-Click to enlarge](img/pl16.jpg)  
+Click to enlarge](img/pl16.jpg.md)  
 PLATE XVI. CASTLE.  
 Wigmore Castle, showing the sighting mound.  
 
@@ -59,4 +59,4 @@ Wigmore Castle, showing the sighting mound.
 
 ------------------------------------------------------------------------
 
-[Next: Index](ebt30)
+[Next: Index](ebt30.md)

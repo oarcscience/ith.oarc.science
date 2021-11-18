@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](mks28)  [Next](mks30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](mks28)  [Next](mks30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B001VEI7V8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Master Key System*, by Charles F. Haanel, \[1919\], at Intangible
 Textual Heritage
 
@@ -295,7 +295,7 @@ who do the thinking, and the ninety-five per cent. who merely accept the
 thought of others. It is those only who think who can see and feel a
 thing before it happens.
 
-17\. *What, more [explicitly](errata.htm#7), is to be understood by the
+17\. *What, more [explicitly](errata.htm#7.md), is to be understood by the
 term "polarity" as applied to the mental process?*
 
 Polarity is the tendency or inclination of a thought or feeling in a
@@ -404,7 +404,7 @@ entirely unaware.
 
 23\. *Amid the seeming chaos of present day conditions is it not easy to
 discern the coming of that dawn which all the great ones of earth have
-foretold, the second coming of the [Millennium](errata.htm#8)?*
+foretold, the second coming of the [Millennium](errata.htm#8.md)?*
 
 One of the characteristic signs of a general awakening is the optimism
 shining through the mist of doubt and unrest, this optimism is taking
@@ -479,4 +479,4 @@ Edwards.
 
 ------------------------------------------------------------------------
 
-[Next: Index](mks30)
+[Next: Index](mks30.md)

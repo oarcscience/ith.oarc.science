@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt02)  [Next](pyt04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt02)  [Next](pyt04.md) 
 
 ------------------------------------------------------------------------
 
@@ -1803,4 +1803,4 @@ Sethe, Ut. 691 (§§ 2120- 2136)</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: 1. Nut and the Deceased King, Utterances 1-11](pyt04)
+[Next: 1. Nut and the Deceased King, Utterances 1-11](pyt04.md)

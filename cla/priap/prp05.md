@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp04)  [Next](prp06) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp04)  [Next](prp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ surely bury in thee to thy seventh rib.
 ------------------------------------------------------------------------
 
 [Next: 6. Oft in my speech one letter is lost; for Predicate
-always](prp06)
+always](prp06.md)

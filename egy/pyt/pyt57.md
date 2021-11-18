@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt56)  [Next](pyt58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt56)  [Next](pyt58.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ Heliopolis."
 
 ------------------------------------------------------------------------
 
-[Next: 55. The Deceased King Ascends to Heaven, Utterance 684](pyt58)
+[Next: 55. The Deceased King Ascends to Heaven, Utterance 684](pyt58.md)

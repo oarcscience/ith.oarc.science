@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm00)  [Next](pnm02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm00)  [Next](pnm02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Laurence ed. \[1913\], at Intangible Textual Heritage
 
 <span id="img_00500"></span> <span align="CENTER">
 [![Dedication](tn/00500.jpg)  
-Click to enlarge](img/00500.jpg)  
+Click to enlarge](img/00500.jpg.md)  
 Dedication  
 </span>
 
@@ -46,4 +46,4 @@ DEDICATED.</span>
 
 ------------------------------------------------------------------------
 
-[Next: Agrippa](pnm02)
+[Next: Agrippa](pnm02.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl001)  [Next](cohl003) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl001)  [Next](cohl003.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 
 ## HANDSOME LAKE'S RELIGION
 
-The Gai'wiio\` <span id="fr_0"></span>[1](#fn_0) is the record of the
+The Gai'wiio\` <span id="fr_0"></span>[1](#fn_0.md) is the record of the
 teachings of Handsome Lake, the Seneca prophet, and purports to be an
 exact exposition of the precepts that he taught during a term of sixteen
 years, ending with his death in 1815. It is the basis of the so-called
@@ -56,7 +56,7 @@ down when I sing that song," affirms Chief Cornplanter.
 During the recital of the Gai'wiio\` the preacher stands at the
 fireplace which serves as the altar. Sitting beside him is an assistant
 or some officer of the rites who holds a white wampum strand. <span
-id="fr_1"></span>[1](#fn_1) A select congregation sits on benches placed
+id="fr_1"></span>[1](#fn_1.md) A select congregation sits on benches placed
 across the long house but the majority use the double row of seats
 around the walls. The women wear shawls over their heads and during
 affecting parts of the story hide their faces to conceal the tears. Some
@@ -93,7 +93,7 @@ example, caused many of the Buffalo Senecas to move to the Cattaraugus
 reservation. Here they settled at Ganûn'dase:\` or Newtown, then a
 desolate wilderness. Their bitter wrongs made them hate white men and to
 resist all missionary efforts. Today there is no mission chapel at
-Newtown. All attempts have failed. <span id="fr_2"></span>[1](#fn_2)
+Newtown. All attempts have failed. <span id="fr_2"></span>[1](#fn_2.md)
 Whether future ones will readily succeed is conjectural. The Indian
 there clings to his prophet and heeds the word of his teacher. At Cold
 Spring on the Allegany is another center of the "old time people." On
@@ -147,17 +147,17 @@ revelation of the four messengers.
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:1](cohl002.htm#fr_0) Key to pronunciation of
-Indian words on page [139](cohl166.htm#page_139). See also Glossary,
-page [140](cohl167.htm#page_140).
+<span id="fn_0"></span>[5:1](cohl002.htm#fr_0.md) Key to pronunciation of
+Indian words on page [139](cohl166.htm#page_139.md). See also Glossary,
+page [140](cohl167.htm#page_140.md).
 
-<span id="fn_1"></span>[6:1](cohl002.htm#fr_1) The original Handsome
+<span id="fn_1"></span>[6:1](cohl002.htm#fr_1.md) The original Handsome
 Lake belt is still displayed at the religious council at Tonawanda. (See
 plate 15.)
 
-<span id="fn_2"></span>[7:1](cohl002.htm#fr_2) See Caswell, Our Life
+<span id="fn_2"></span>[7:1](cohl002.htm#fr_2.md) See Caswell, Our Life
 Among the Iroquois. Boston, 1808.
 
 ------------------------------------------------------------------------
 
-[Next: Handsome Lake](cohl003)
+[Next: Handsome Lake](cohl003.md)

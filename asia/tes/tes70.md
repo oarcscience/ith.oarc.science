@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes69)  [Next](tes71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes69)  [Next](tes71.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ Markova. Recorded by Mrs. Sophie Bogoras, winter of 1900.
 
 ------------------------------------------------------------------------
 
-[Next: 6. A Markova Tale](tes71)
+[Next: 6. A Markova Tale](tes71.md)

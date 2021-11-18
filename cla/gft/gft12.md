@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft11)  [Next](gft13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft11)  [Next](gft13.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ I, who am the younger, sing before our ancient host?" So they called on
 Cheiron to sing, and Achilles brought him his harp; and he began a
 wondrous song; a famous story of old time, of the fight between the
 Centaurs and the Lapithai, which you may still see carved in
-stone. <span id="fr_0"></span>[1](#fn_0)He sang how his brothers came to
+stone. <span id="fr_0"></span>[1](#fn_0.md)He sang how his brothers came to
 ruin by their folly, when they were mad with wine; and how they and the
 heroes fought, with fists, and teeth, and the goblets from which they
 drank; and how they tore up the pine-trees in their fury, and hurled
@@ -241,7 +241,7 @@ them on Olympus with honey and milk and wine; and Hera gave them
 
 [![They snatched the meat from off the table, and flew shrieking out
 above the roofs.](tn/08600.jpg)  
-Click to enlarge](img/08600.jpg)  
+Click to enlarge](img/08600.jpg.md)  
 They snatched the meat from off the table, and flew shrieking out above
 the roofs.  
 
@@ -558,7 +558,7 @@ golden fleece, if a wise maiden help bold men."
 <span id="img_09600"></span>
 
 [![Both the princesses besought him.](tn/09600.jpg)  
-Click to enlarge](img/09600.jpg)  
+Click to enlarge](img/09600.jpg.md)  
 Both the princesses besought him.  
 
  
@@ -831,7 +831,7 @@ and long beds of whispering reeds;
 <span id="img_10400"></span>
 
 [![Then Jason leapt forward warily.](tn/10400.jpg)  
-Click to enlarge](img/10400.jpg)  
+Click to enlarge](img/10400.jpg.md)  
 Then Jason leapt forward warily.  
 
  
@@ -857,9 +857,9 @@ darkness of the West.
 
 ### Footnotes
 
-<span id="fn_0"></span>[82:1](gft12.htm#fr_0) In the Elgin Marbles.
+<span id="fn_0"></span>[82:1](gft12.htm#fr_0.md) In the Elgin Marbles.
 
 ------------------------------------------------------------------------
 
 [Next: Part Five: How the Argonauts Were Driven into the Unknown
-Sea](gft13)
+Sea](gft13.md)

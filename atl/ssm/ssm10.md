@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ssm09)  [Next](ssm11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ssm09)  [Next](ssm11.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ feathers.\[paragraph continues\]
 <span id="img_19000"></span>
 
 [![&lt;I&gt;Sculptured Slab A&lt;/I&gt;.](tn/19000.jpg)  
-Click to enlarge](img/19000.jpg)  
+Click to enlarge](img/19000.jpg.md)  
 *Sculptured Slab A*.  
 
 Found by William Niven in a grave at Rio del Oro near Placeres del Oro,
@@ -141,7 +141,7 @@ for speech, so they are giving a command.
 <span id="img_19400"></span>
 
 [![&lt;I&gt;Sculptured Slab B&lt;/I&gt;.](tn/19400.jpg)  
-Click to enlarge](img/19400.jpg)  
+Click to enlarge](img/19400.jpg.md)  
 *Sculptured Slab B*.  
 
  
@@ -428,7 +428,7 @@ An Oriental legend states that nearly a billion of
 <span id="img_20400"></span>
 
 [![](tn/20400.jpg)  
-Click to enlarge](img/20400.jpg)
+Click to enlarge](img/20400.jpg.md)
 
  
 
@@ -618,12 +618,12 @@ the forefathers of the Kooteney \[paragraph continues\]
 
 <span id="img_21000"></span> ![&lt;I&gt;Ornament on a ceremonial
 blanket&lt;BR&gt; Koteney Indian, British
-Columbia&lt;/I&gt;](img/21000.jpg)  
+Columbia&lt;/I&gt;](img/21000.jpg.md)  
 *Ornament on a ceremonial blanket  
 Koteney Indian, British Columbia*
 
 <span id="img_21001"></span> ![&lt;I&gt;Fan with Mu's symbol, eight
-pointed sun&lt;BR&gt; Gilbert Islands&lt;/I&gt;](img/21001.jpg)  
+pointed sun&lt;BR&gt; Gilbert Islands&lt;/I&gt;](img/21001.jpg.md)  
 *Fan with Mu's symbol, eight pointed sun  
 Gilbert Islands*
 
@@ -821,4 +821,4 @@ the sunken land.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. The Mound Builders Of North America](ssm11)
+[Next: Chapter VIII. The Mound Builders Of North America](ssm11.md)

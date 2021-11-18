@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](amm08)  [Next](amm10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](amm08)  [Next](amm10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486435199/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -270,7 +270,7 @@ other with gold.'
 Erech, the old sacred city of the Chaldeans, is called on a tablet 'The
 City of the Seven Zones or Stones' (Sayce).
 
-At Borsippa, close to [Babylon](errata.htm#2), there was a very ancient
+At Borsippa, close to [Babylon](errata.htm#2.md), there was a very ancient
 terraced temple or *Ziggurat;* it was restored by Nebuchadnezzar, and an
 inscription of his is preserved, which says: 'I have repaired and
 perfected the marvel of Borsippa, the temple of the seven spheres of the
@@ -528,7 +528,7 @@ each, an Assyrian would know at once it was the city of the dead:—
 <span id="img_fig12"></span>
 
 [![Figure 12. Seven Walled City, from 1481 Dante](tn/fig12.jpg)  
-Click to enlarge](img/fig12.jpg)  
+Click to enlarge](img/fig12.jpg.md)  
   
 
 According to Sir George Birdwood, the regents of the planets that govern
@@ -563,7 +563,7 @@ another expanse. As he stands centrally
 
 [![Figure 13. The Throne on the Seven Steps of the
 Heavens](tn/fig13.jpg)  
-Click to enlarge](img/fig13.jpg)  
+Click to enlarge](img/fig13.jpg.md)  
   
 
 under them, the steps of the throne form an inverted amphitheatre, 'the
@@ -944,4 +944,4 @@ and down in the midst of the stones of fire.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. The Labyrinth](amm10)
+[Next: Chapter VII. The Labyrinth](amm10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron03)  [Next](ron05) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron03)  [Next](ron05.md) 
 
 ------------------------------------------------------------------------
 
@@ -635,10 +635,10 @@ Only far fairer.
 In fear and woe she bore me,
 
 <span id="img_05200"></span> [![](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)
+Click to enlarge](img/05200.jpg.md)
 
 The hot blood burns like fire!  
-                     See [p. 58](#page_58)
+                     See [p. 58](#page_58.md)
 
  
 
@@ -724,10 +724,10 @@ Were the best that came.
 Now I will see
 
 <span id="img_05400"></span> [![](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)
+Click to enlarge](img/05400.jpg.md)
 
 The dwarfs quarrelling over the body of Fafner  
-                                       See [p. 59](#page_59)
+                                       See [p. 59](#page_59.md)
 
  
 
@@ -1637,4 +1637,4 @@ direction towards the back, the bird flies away*.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Third Act](ron05)
+[Next: The Third Act](ron05.md)

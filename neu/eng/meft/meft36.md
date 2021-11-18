@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft35)  [Next](meft37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft35)  [Next](meft37.md) 
 
 ------------------------------------------------------------------------
 
 # Paddock, Mousie, and Ratton
 
 <span id="img_051"></span> [![](tn/051.jpg)  
-Click to enlarge](img/051.jpg)
+Click to enlarge](img/051.jpg.md)
 
 There lived a Puddock in a well,  
 And a merry Mousie in a mill.
@@ -62,4 +62,4 @@ Crept into a hole beneath the wall;
 
 ------------------------------------------------------------------------
 
-[Next: The Little Bull-Calf](meft37)
+[Next: The Little Bull-Calf](meft37.md)

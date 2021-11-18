@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu13)  [Next](tmu15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu13)  [Next](tmu15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 
 <span id="page_78">p. 78</span>
 
-### ṬEJOBINḌU <span id="fr_54"></span>[1](#fn_54)-UPANISHAḌ
+### ṬEJOBINḌU <span id="fr_54"></span>[1](#fn_54.md)-UPANISHAḌ
 
 ### OF
 
@@ -42,7 +42,7 @@ who has subdued his passions, who has overcome all pairs (heat and cold
 etc.), who has given up his egoism, who does not bless anyone nor take
 anything from others, and also who goes where they naturally ought not
 to go, and naturally would not go where they like to go—such persons
-also obtain three <span id="fr_55"></span>[2](#fn_55) in the face. Hamsa
+also obtain three <span id="fr_55"></span>[2](#fn_55.md) in the face. Hamsa
 is said to have three seats. Therefore know it is the greatest of
 mysteries, without sleep and without support. It is very subtle, of the
 form of Soma, and is the supreme seat of Vishṇu. That seat has three
@@ -71,7 +71,7 @@ there the collection of the knot of salvation. (In It) there is no fear,
 no happiness, no pains, neither fame nor disgrace. That which is without
 these states is the supreme Brahman.
 
-Yama, <span id="fr_56"></span>[1](#fn_56) (forbearance), niyama
+Yama, <span id="fr_56"></span>[1](#fn_56) (forbearance.md), niyama
 (religious observance), tyāga (renunciation), mouna (silence) according
 to time and place, āsana (posture), mūlabanḍha, seeing all bodies as
 equal, the position of the eye, prāṇa-samyamana (control of breath),
@@ -171,7 +171,7 @@ to Brahman, and who are greatly attached to the world—those certainly
 are born again and again (in this world) through their ajñāna; (the
 former) never remain, even for half a moment—without the vṛṭṭi of
 Brahman, like Brahma and others, Sanaka, <span
-id="fr_57"></span>[1](#fn_57) etc., Śuka and others. When a cause is
+id="fr_57"></span>[1](#fn_57.md) etc., Śuka and others. When a cause is
 subject to changes, it (as an effect) must also have its cause. When the
 cause ceases to exist in truth, the effect perishes through right
 discrimination. Then that substance (or principle) which is beyond the
@@ -184,7 +184,7 @@ the first chapter of Ṭejobinḍu.
 
 ##### <span class="smallcaps">Chapter</span> II
 
-Then the Kumāra <span id="fr_58"></span>[2](#fn_58) asked Śiva: "Please
+Then the Kumāra <span id="fr_58"></span>[2](#fn_58.md) asked Śiva: "Please
 explain to me the nature of Chinmāṭra, that is the partless non-dual
 essence." The great Śiva replied: "The partless non-dual essence is the
 visible. It is the world, it is the existence, it is the Self, it is
@@ -325,7 +325,7 @@ consciousness. I am alone the great Śiva. I am beyond the nature of
 existence. I am of the nature of happiness. As there is nothing that can
 witness me, I am without the state of witness. Being purely of the
 nature of Brahman, I am the eternal Āṭmā. I alone am the Āḍiśesha (the
-primeval Śesha). <span id="fr_59"></span>[1](#fn_59) I alone am the
+primeval Śesha). <span id="fr_59"></span>[1](#fn_59.md) I alone am the
 Śesha. I am without name and form, of the nature of bliss, of the nature
 of being unperceivable by the senses, and of the nature of all beings; I
 have neither bondage nor salvation. I am of the form of eternal bliss. I
@@ -582,7 +582,7 @@ explain to me the discrimination of Āṭmā from non-Āṭmā." The Sage
 replied thus:
 
 "The furthest limit of all vāk (speech) is Brahman; the furthest limit
-to all thoughts is the Guru. <span id="fr_60"></span>[1](#fn_60) That
+to all thoughts is the Guru. <span id="fr_60"></span>[1](#fn_60.md) That
 which is of the nature of all causes and effects but yet without them,
 that which is without saṅkalpa, of the nature of all bliss and the
 auspicious, that which is the great one of the nature of bliss, that
@@ -660,7 +660,7 @@ chiṭṭa nor ahaṅkāra nor Jīva exists (really). Neither the creation of
 Māyā nor Māyā itself exists (really). Fear does not (really) exist.
 Actor, action, hearing, thinking, the two samāḍhis, the measurer, the
 measure, ajñāna and aviveka—none of these exists (truly) anywhere.
-Therefore the four moving <span id="fr_61"></span>[1](#fn_61)
+Therefore the four moving <span id="fr_61"></span>[1](#fn_61.md)
 considerations and the three kinds of relationship exist not. There is
 no Gaṅgā, no Gaya, no Seṭu (bridge), no elements or anything else, no
 earth, water, fire, vāyu, and ākas anywhere, no Ḍevas, no guardians of
@@ -1017,30 +1017,30 @@ one with Brahman. Thus ends the sixth chapter. Thus ends the Upanishaḍ."
 
 ### Footnotes
 
-<span id="fn_54"></span>[78:1](tmu14.htm#fr_54) Ṭejas is spiritual light
+<span id="fn_54"></span>[78:1](tmu14.htm#fr_54.md) Ṭejas is spiritual light
 and binḍu is seed; hence the seed or source of spiritual light.
 
-<span id="fn_55"></span>[78:2](tmu14.htm#fr_55) This probably refers to
+<span id="fn_55"></span>[78:2](tmu14.htm#fr_55.md) This probably refers to
 the triangle appearing in the disciples.
 
-<span id="fn_56"></span>[79:1](tmu14.htm#fr_56) All these parts of yoga
+<span id="fn_56"></span>[79:1](tmu14.htm#fr_56.md) All these parts of yoga
 are explained here from the standpoint of veḍānṭa.
 
-<span id="fn_57"></span>[82:1](tmu14.htm#fr_57) Sanaka is one of the
+<span id="fn_57"></span>[82:1](tmu14.htm#fr_57.md) Sanaka is one of the
 four Kumāras in the Purāṇas who refused to create; Suka is the son of
 Veḍa-Vyās.
 
-<span id="fn_58"></span>[82:2](tmu14.htm#fr_58) The Kumāra is the son of
+<span id="fn_58"></span>[82:2](tmu14.htm#fr_58.md) The Kumāra is the son of
 Śiva called Kārṭikēya the six-faced, symbolising the six-faced Mars in
 one sense.
 
-<span id="fn_59"></span>[86:1](tmu14.htm#fr_59) Sesha, meaning remainder
+<span id="fn_59"></span>[86:1](tmu14.htm#fr_59.md) Sesha, meaning remainder
 is the serpent representing time.
 
-<span id="fn_60"></span>[93:1](tmu14.htm#fr_60) Herein is given the hint
+<span id="fn_60"></span>[93:1](tmu14.htm#fr_60.md) Herein is given the hint
 as to the difference of functions between an Ishta-ḍevaṭā and a Guru.
 
-<span id="fn_61"></span>[95:1](tmu14.htm#fr_61) The four moving
+<span id="fn_61"></span>[95:1](tmu14.htm#fr_61.md) The four moving
 considerations (of veḍānṭa) are subject (Brahman), object, relationship,
 and the qualified person.
 
@@ -1048,6 +1048,6 @@ and the qualified person.
 
 ------------------------------------------------------------------------
 
-[Next: 13. Brahmopanishaḍ of Kṛshṇa-Yajurveḍa](tmu15)
+[Next: 13. Brahmopanishaḍ of Kṛshṇa-Yajurveḍa](tmu15.md)
 
 </div>

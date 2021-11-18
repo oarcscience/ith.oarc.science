@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs63)  [Next](mhs65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs63)  [Next](mhs65.md) 
 
 ------------------------------------------------------------------------
 
@@ -85,4 +85,4 @@ uncongenial climate.
 
 ------------------------------------------------------------------------
 
-[Next: The Luck Of Odd Numbers](mhs65)
+[Next: The Luck Of Odd Numbers](mhs65.md)

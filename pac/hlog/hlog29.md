@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog28)  [Next](hlog30) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog28)  [Next](hlog30.md) 
 
 ------------------------------------------------------------------------
 
@@ -109,4 +109,4 @@ lying toward the sunset.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](hlog30)
+[Next: Appendix](hlog30.md)

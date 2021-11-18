@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vrb06)  [Next](vrb08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vrb06)  [Next](vrb08.md) 
 
 ------------------------------------------------------------------------
 
@@ -210,4 +210,4 @@ the shrine and go out to meet my day.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Six: Archetype Rituals](vrb08)
+[Next: Chapter Six: Archetype Rituals](vrb08.md)

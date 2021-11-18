@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag05)  [Next](rag07) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag05)  [Next](rag07.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ Mountains, where was the rest of the world, and the life it contained?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Was It Caused By Glaciers?](rag07)
+[Next: Chapter V. Was It Caused By Glaciers?](rag07.md)

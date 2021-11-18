@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft07)  [Next](pft09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft07)  [Next](pft09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 *Tinguian*
 
 Aponitolau and Aponibolinayen had a son whose name was Dumalawi.  <span
-id="fr_46"></span>[47](pft68.htm#fn_46) When the son had become a young
+id="fr_46"></span>[47](pft68.htm#fn_46.md) When the son had become a young
 man, his father one day was very angry with him, and tried to think of
 some way in which to destroy him. The next morning he said to Dumalawi:
 
@@ -53,7 +53,7 @@ not give up the idea of getting rid of his son, and the next day he
 said:
 
 "Come, Dumalawi, we will go to our little house in the field  <span
-id="fr_47"></span>[48](pft68.htm#fn_47) and repair it, so that it will
+id="fr_47"></span>[48](pft68.htm#fn_47.md) and repair it, so that it will
 be a protection when the rainy season sets in."
 
 The father and son went together to the field, and when they reached the
@@ -61,7 +61,7 @@ little house, Aponitolau, pointing to a certain spot in the ground,
 said:
 
 "Dig there, and you will find a jar of basi  <span
-id="fr_48"></span>[49](pft68.htm#fn_48) which I buried when I was a boy.
+id="fr_48"></span>[49](pft68.htm#fn_48.md) which I buried when I was a boy.
 It will be very good to drink now."
 
 Dumalawi dug up the jar and they tasted the wine, and it was so pleasing
@@ -80,7 +80,7 @@ By and by he used his magical power, and many betel-nuts grew in the
 field, and when they bore fruit it was covered with gold,
 
 "This is good," said Dumalawi, "for I will scatter these betel-nuts and
-they shall become people,  <span id="fr_49"></span>[50](pft68.htm#fn_49)
+they shall become people,  <span id="fr_49"></span>[50](pft68.htm#fn_49.md)
 who will be my neighbors."
 
 So in the middle of the night he cut the gold-covered betel-nuts into
@@ -88,7 +88,7 @@ many small pieces which he scattered in all directions. And in the early
 morning, when he awoke, he heard many people talking around the house,
 and many roosters crowed. Then Dumalawi knew that he had companions, and
 upon going out he walked about where the people were warming themselves
- <span id="fr_50"></span>[51](pft68.htm#fn_50) by fires in their yards,
+ <span id="fr_50"></span>[51](pft68.htm#fn_50.md) by fires in their yards,
 and he visited them all.
 
 In one yard was a beautiful maiden, Dapilisan, and after Dumalawi had
@@ -101,9 +101,9 @@ his father and mother did not want him, they gave their consent, and
 Dapilisan became his bride.
 
 Soon after the marriage they decided to perform a ceremony  <span
-id="fr_51"></span>[52](pft68.htm#fn_51) for the spirits. So Dapilisan
+id="fr_51"></span>[52](pft68.htm#fn_51.md) for the spirits. So Dapilisan
 sent for the betel-nuts which were covered with gold,  <span
-id="fr_52"></span>[53](pft68.htm#fn_52) and when they were brought to
+id="fr_52"></span>[53](pft68.htm#fn_52.md) and when they were brought to
 her, she said:
 
 "You betel-nuts that are covered with gold, come here and oil yourselves
@@ -138,21 +138,21 @@ Aponitolau, who was left on the bank alone, shouted as if crazy until
 Dumalawi sent another alligator to carry him across.
 
 Then Dumalawi had food brought  <span
-id="fr_53"></span>[54](pft68.htm#fn_53) and Dapilisan passed basi in a
+id="fr_53"></span>[54](pft68.htm#fn_53.md) and Dapilisan passed basi in a
 little jar that looked like a fist,  <span
-id="fr_54"></span>[55](pft68.htm#fn_54) and though each guest drank a
+id="fr_54"></span>[55](pft68.htm#fn_54.md) and though each guest drank a
 cupful of the sweet wine the little jar was still a third full. After
 they had eaten and drunk, Aponibolinayen spoke, and, telling all the
 people that she was glad to have Dapilisan for a daughter-in-law, added:
 
 "Now we are going to pay the marriage price  <span
-id="fr_55"></span>[56](pft68.htm#fn_55) according to our custom. We
+id="fr_55"></span>[56](pft68.htm#fn_55.md) according to our custom. We
 shall fill the spirit house  <span
-id="fr_56"></span>[57](pft68.htm#fn_56) nine times with different kinds
+id="fr_56"></span>[57](pft68.htm#fn_56.md) nine times with different kinds
 of jars."
 
 Then she called, "You spirits  <span
-id="fr_57"></span>[58](pft68.htm#fn_57) who live in different springs,
+id="fr_57"></span>[58](pft68.htm#fn_57.md) who live in different springs,
 get the jars which Dumalawi must pay as a marriage price for Dapilisan,"
 
 The spirits did as they were commanded, and when they brought the jars
@@ -171,7 +171,7 @@ it."
 Then Dalonagan called a pet spider and said:
 
 "You big spider, go all around the town, and as you go spin a thread
- <span id="fr_58"></span>[59](pft68.htm#fn_58) on which Aponibolinayen
+ <span id="fr_58"></span>[59](pft68.htm#fn_58.md) on which Aponibolinayen
 must string golden beads." So the spider spun the thread and
 Aponibolinayen again called to the spirits of the springs, and they
 brought golden beads which they strung on the thread. Then Dalonagan
@@ -184,4 +184,4 @@ with his wife in the town he had created.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Kanag](pft09)
+[Next: The Story of Kanag](pft09.md)

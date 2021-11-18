@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh10)  [Next](msh12) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh10)  [Next](msh12.md) 
 
 ------------------------------------------------------------------------
 
@@ -334,4 +334,4 @@ by. This reminds one of Rev. iv, 5 and v. 6, compared with Rev. ii. 7.\]
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Al-Ghazzali And The Seven Spheres](msh12)
+[Next: VIII. Al-Ghazzali And The Seven Spheres](msh12.md)

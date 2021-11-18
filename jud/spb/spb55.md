@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb54)  [Next](spb56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb54)  [Next](spb56.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 *After the ordinary Daily Service, the following Psalm (xlix.) is read
 in the House of the Mourner. On those days on which Tachanun ([p.
-70](spb05.htm#page_70)) is not said, Psalm xvi. p. 460, is substituted
+70](spb05.htm#page_70).md) is not said, Psalm xvi. p. 460, is substituted
 for Psalm xlix*.
 
 Psalm xlix. For the Chief Musician. A Psalm of the Sons of Korah.
@@ -56,9 +56,9 @@ is in glory, but without understanding, is like the beasts that perish.
 <span id="page_464">p. 464</span>
 
 *In addition to the above, other appropriate Psalms, such as Psalms xv.,
-[p. 445](spb47.htm#page_445); xc., [p. 26](spb05.htm#page_26); xci., [p.
-27](spb05.htm#page_27); ciii., [p. 455](spb52.htm#page_455); and xxxix.,
-or such passages as Proverbs xxxi. 10–31, [p. 180](spb15.htm#page_180),
+[p. 445](spb47.htm#page_445); xc., [p. 26](spb05.htm#page_26.md); xci., [p.
+27](spb05.htm#page_27); ciii., [p. 455](spb52.htm#page_455.md); and xxxix.,
+or such passages as Proverbs xxxi. 10–31, [p. 180](spb15.htm#page_180.md),
 should be read in the House of Mourning*.
 
 Psalm xxxix.
@@ -125,6 +125,6 @@ earth: for the Lord hath spoken it.
 
 ------------------------------------------------------------------------
 
-[Next: Service at the Setting of a Tombstone](spb56)
+[Next: Service at the Setting of a Tombstone](spb56.md)
 
 </div>

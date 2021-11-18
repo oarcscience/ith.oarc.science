@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mhm00)  [Next](mhm02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mhm00)  [Next](mhm02.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ W. J. P.
 
 ------------------------------------------------------------------------
 
-[Next: Errata](mhm02)
+[Next: Errata](mhm02.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo22)  [Next](hoo24) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo22)  [Next](hoo24.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ With equal reason, for my constant guide.
 
 ------------------------------------------------------------------------
 
-[Next: XIX: To Jove, as the Author of Lightning](hoo24)
+[Next: XIX: To Jove, as the Author of Lightning](hoo24.md)

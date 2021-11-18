@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](irl00)  [Next](irl02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](irl00)  [Next](irl02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0932813631/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *I Remember Lemuria*, by Richard S. Shaver, \[1948\], at Intangible
 Textual Heritage
 
@@ -83,7 +83,7 @@ Stories, the stories in this book were
 first published, for his open mind and for the way he has received the
 things I have told him in addition to what I have written in this story
 of Mutan Mion of ancient Lemuria. It began when he published my ancient
-alphabet in "Discussions" <span id="fr_0"></span>[1](#fn_0) and
+alphabet in "Discussions" <span id="fr_0"></span>[1](#fn_0.md) and
 requested the readers to carry out checks of their own. I myself did not
 realize the extent of the alphabetic (more properly phonetic) language.
 But surely there must be tremendous significance in the fact that the
@@ -105,7 +105,7 @@ express my feelings.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](irl01.htm#fr_0) January, 1945 issue of
+<span id="fn_0"></span>[3:1](irl01.htm#fr_0.md) January, 1945 issue of
 AMAZING STORIES. Some of the reports by readers were subsequently
 published, but the great majority were not. These reports proved to be
 the most amazing the editor has ever received on anything published in
@@ -120,4 +120,4 @@ mutation by the use of force or rays.—Ed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. City of the Titans](irl02)
+[Next: Chapter I. City of the Titans](irl02.md)

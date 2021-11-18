@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr05) 
-[Next](idr07) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr05.md) 
+[Next](idr07.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ cured him of the wound.
 
 ------------------------------------------------------------------------
 
-[Next: Opinions On Irish Druids](idr07)
+[Next: Opinions On Irish Druids](idr07.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas080n)  [Next](jas082n)   
- \[[81. Bosen Corner.](jas081)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas080n)  [Next](jas082n.md)   
+ \[[81. Bosen Corner.](jas081.md)\]
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ Grimm 24, Frau Holle; Bolte u. Polívka 2:207-227.
 
 ------------------------------------------------------------------------
 
-[Next: Note 82. The Witch and the Three Dogs.](jas082n)
+[Next: Note 82. The Witch and the Three Dogs.](jas082n.md)

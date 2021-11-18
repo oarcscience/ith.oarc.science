@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi296)  [Next](mtsi298) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi296)  [Next](mtsi298.md) 
 
 ------------------------------------------------------------------------
 
-### 32. THE WOLF AND THE RABBIT <span id="fr_87"></span>[1](#fn_86) (61, 62)
+### 32. THE WOLF AND THE RABBIT <span id="fr_87"></span>[1](#fn_86) (61, 62.md)
 
 There was a girl whom the Wolf and the Rabbit both wanted to marry. The
 Wolf got her but afterwards the Rabbit came to court her. The girl's
@@ -88,10 +88,10 @@ now has a big head.
 
 ### Footnotes
 
-<span id="fn_86"></span>[256:1](mtsi297.htm#fr_87) Told to Watt Sam by
+<span id="fn_86"></span>[256:1](mtsi297.htm#fr_87.md) Told to Watt Sam by
 Charlie Jumper, one of the three remaining speakers of Natchez, who got
 it from his grandmother.
 
 ------------------------------------------------------------------------
 
-[Next: 33. The Tar Baby](mtsi298)
+[Next: 33. The Tar Baby](mtsi298.md)

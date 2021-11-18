@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah74)  [Next](oah76) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah74)  [Next](oah76.md) 
 
 ------------------------------------------------------------------------
 
@@ -183,7 +183,7 @@ chosen.
 
 29\. But there were giants (Druks) in those days and in time after that;
 and my chosen came unto them, and they bare children to them also. <span
-id="fr_16"></span>[1](#fn_16) And their flesh became corrupt, so that
+id="fr_16"></span>[1](#fn_16.md) And their flesh became corrupt, so that
 vermin inhabited them from the time of their birth to the time of death.
 And they became rotten in the head with catarrh; and in the throat with
 ulcers and running sores; and in the lungs and joints with the poison of
@@ -286,7 +286,7 @@ designed them, so landed they in the different countries of the world.
 
 53\. The fleet named Guatama was carried to the eastward, and the
 country whither it landed was also called Guatama. <span
-id="fr_17"></span>[2](#fn_17) The Lord said: From this place shall my
+id="fr_17"></span>[2](#fn_17.md) The Lord said: From this place shall my
 chosen spread out north and south. But they shall not inhabit the lands
 to the east or west as far as the sea; for they shall be testimony in
 time to come of this landing place from the continent of Pan.
@@ -392,12 +392,12 @@ Whosoever is born of my chosen shall inherit my everlasting kingdom.
 
 ### Footnotes
 
-<span id="fn_16"></span>[72b:1](oah75.htm#fr_16) See Ezra Bible, Book of
+<span id="fn_16"></span>[72b:1](oah75.htm#fr_16.md) See Ezra Bible, Book of
 Genesis, chapter vi. verse 4
 
-<span id="fn_17"></span>[74b:2](oah75.htm#fr_17) The meaning of this
+<span id="fn_17"></span>[74b:2](oah75.htm#fr_17.md) The meaning of this
 word is, FOUR TRIBES UNITED IN ONE.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah76)
+[Next: Chapter II](oah76.md)

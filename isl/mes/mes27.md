@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mes26)  [Next](mes28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mes26)  [Next](mes28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVTTRU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Mesnavi and The Acts of the Adepts*, by Jelal-'d-din Rumi and
 Shemsu-'d-Din Ahmed, tr. by James W. Redhouse, \[1881\], at Intangible
 Textual Heritage
@@ -20,7 +20,7 @@ Textual Heritage
 
 ### XII.
 
-<span id="img_m22800"></span> ![Joseph and the Mirror.](img/m22800.jpg)
+<span id="img_m22800"></span> ![Joseph and the Mirror.](img/m22800.jpg.md)
 
 <span class="smallcaps">The</span> kings of yore a custom had, so I've
 been told,  
@@ -59,7 +59,7 @@ Said Joseph: "As the moon in wane and change at last."
 
 At change, the new moon's bent in two, a poor weak thing,  
 But ripens to the full apace, night's matchless king. <span
-id="fr_339"></span>[1](#fn_338)  
+id="fr_339"></span>[1](#fn_338.md)  
 Pearls in a mortar pounded are, by chance, sometimes;  
 Still, they're esteemed a joy to glad eyes in all climes. <span
 class="margnote"><span id="an_15">15</span></span>  
@@ -71,7 +71,7 @@ Again ’tis crushed between the teeth; to chyme it turns,
 And feeds the mind, the thoughts, the soul;—in wisdom burns.  
 The soul, in turn, is subject to the stress of love;  
 New miracles, as seen, "the sowers marvel " <span
-id="fr_340"></span>[2](#fn_339) prove.  
+id="fr_340"></span>[2](#fn_339.md) prove.  
 But truce to these reflections; let us follow now  
 The words of Joseph's friend. ’Tis worth while these to know. <span
 class="margnote"><span id="an_20">20</span></span>
@@ -85,7 +85,7 @@ E’en God will ask His creatures in the judgment day:
 "What offerings have you brought to meet your Maker? Say!  
 Alone, and empty-handed? Is it thus you come?  
 E’en as We first created you? Gifts left at home?' <span
-id="fr_341"></span>[3](#fn_340)
+id="fr_341"></span>[3](#fn_340.md)
 
 <span id="page_m230">p. 230</span>
 
@@ -102,16 +102,16 @@ How come you to a friend's gate, scorning just demands?"
 Put by a little from thy daily meat and drink,  
 So shalt thou have a store for offerings’ binding link.  
 "Sleep little" when thou art of those "who lay them down." <span
-id="fr_342"></span>[1](#fn_341)  
+id="fr_342"></span>[1](#fn_341.md)  
 <span class="margnote"><span id="an_30">30</span></span> "Of mornings,"
 be of them who "ask for pardon's crown." <span
-id="fr_343"></span>[2](#fn_342)  
+id="fr_343"></span>[2](#fn_342.md)  
 Give signs of life, though slight;—as babes do in the womb;  
 So may God grant thee inward light to cheer thy tomb.  
 And when thou ’scapest from dark and narrow prison there,  
 Then mayst thou soar from earth beyond the realms of air.  
 "The spacious land of God" ’tis named in holy writ, <span
-id="fr_344"></span>[3](#fn_343)  
+id="fr_344"></span>[3](#fn_343.md)  
 The land to which the prophets all have gladly flit.  
 The heart is never lonesome in that vast abode;  
 Its green trees never wither, frosts no leaves corrode.  
@@ -124,7 +124,7 @@ Fatigue is thence recruited;—strength regains its head.
 Know then, thy sleep's a foretaste of what is to come,  
 From the rapt state of saints arriving at their home.  
 The saints were well prefigured by the "Sleepers Seven." <span
-id="fr_345"></span>[4](#fn_344)  
+id="fr_345"></span>[4](#fn_344.md)  
 "Their sleep," "their stretchings," "their awaking," lead to heaven.
 
 <span id="page_m231">p. 231</span>
@@ -132,9 +132,9 @@ id="fr_345"></span>[4](#fn_344)
 Without the least exertion on their parts by acts,  
 The "right and left-hand registers" draw them by facts.  
 The "right-hand register" ’s the record of good deeds; <span
-id="fr_346"></span>[1](#fn_345)  
+id="fr_346"></span>[1](#fn_345.md)  
 The "left-hand register" ’s the list of fleshly greeds. <span
-id="fr_347"></span>[2](#fn_346) <span class="margnote"><span
+id="fr_347"></span>[2](#fn_346.md) <span class="margnote"><span
 id="an_40">40</span></span>  
 But both of these abolished are in case of saints.  
 To them such things are but as echo dies and faints.  
@@ -149,13 +149,13 @@ How could I bring a diamond to its native mine;
 Or add a drop of water to a sea of brine? <span class="margnote"><span
 id="an_45">45</span></span>  
 Shall I to Kāshān cummin bring, whence it is drawn, <span
-id="fr_348"></span>[3](#fn_347)  
+id="fr_348"></span>[3](#fn_347.md)  
 By offering up my life and soul to beauty's fawn?  
 I know no rarity that's not surpassed by thee;  
 Thy loveliness the rarity men nowhere see.  
 The fittest present, then, I've found, a mirror is.  
 And this I've brought; unsullied, bright, refulgent ’tis <span
-id="fr_349"></span>[4](#fn_348)  
+id="fr_349"></span>[4](#fn_348.md)  
 Therein thou’lt contemplate thy beauteous, matchless face,  
 As beaming as the sun that decorates sky's space.  
 A mirror have I brought, thou charming, witching one;  
@@ -203,7 +203,7 @@ self-conceit, that paints its owner gold refined.
 How many bitter tears has not the vain to shed,  
 Ere arrogance can be expelled, and pride be dead!  
 The malady of Satan,—self-conceit:—"I'm best," <span
-id="fr_350"></span>[1](#fn_349)  
+id="fr_350"></span>[1](#fn_349.md)  
 Exists in germ in every panting human breast.  
 These fancy they have mortified themselves throughout.  
 Take them to be pure streams; their filth seek in the grout.
@@ -238,33 +238,33 @@ class="margnote"><span id="an_78">78</span></span>
 
 ### Footnotes
 
-<span id="fn_338"></span>[m229:1](mes27.htm#fr_339) In Semitic and
+<span id="fn_338"></span>[m229:1](mes27.htm#fr_339.md) In Semitic and
 Muslim lore the moon is "he," the sun "she."
 
-<span id="fn_339"></span>[m229:2](mes27.htm#fr_340) Qur’ān xlviii. 29.
+<span id="fn_339"></span>[m229:2](mes27.htm#fr_340.md) Qur’ān xlviii. 29.
 
-<span id="fn_340"></span>[m229:3](mes27.htm#fr_341) Qur’ān vi. 94.
+<span id="fn_340"></span>[m229:3](mes27.htm#fr_341.md) Qur’ān vi. 94.
 
-<span id="fn_341"></span>[m230:1](mes27.htm#fr_342) Qur’ān li. 17.
+<span id="fn_341"></span>[m230:1](mes27.htm#fr_342.md) Qur’ān li. 17.
 
-<span id="fn_342"></span>[m230:2](mes27.htm#fr_343) Qur’ān li. 18.
+<span id="fn_342"></span>[m230:2](mes27.htm#fr_343.md) Qur’ān li. 18.
 
-<span id="fn_343"></span>[m230:3](mes27.htm#fr_344) Qur’ān iv. 99.
+<span id="fn_343"></span>[m230:3](mes27.htm#fr_344.md) Qur’ān iv. 99.
 
-<span id="fn_344"></span>[m230:4](mes27.htm#fr_345) Qur’ān xviii. 8-21.
+<span id="fn_344"></span>[m230:4](mes27.htm#fr_345.md) Qur’ān xviii. 8-21.
 
-<span id="fn_345"></span>[m231:1](mes27.htm#fr_346) Qur’ān lxix. 19.
+<span id="fn_345"></span>[m231:1](mes27.htm#fr_346.md) Qur’ān lxix. 19.
 
-<span id="fn_346"></span>[m231:2](mes27.htm#fr_347) Qur’ān lxix. 25.
+<span id="fn_346"></span>[m231:2](mes27.htm#fr_347.md) Qur’ān lxix. 25.
 
-<span id="fn_347"></span>[m231:3](mes27.htm#fr_348) The Persian
+<span id="fn_347"></span>[m231:3](mes27.htm#fr_348.md) The Persian
 equivalent of our "*carrying coats to Newcastle*."
 
-<span id="fn_348"></span>[m231:4](mes27.htm#fr_349) A metallic mirror,
+<span id="fn_348"></span>[m231:4](mes27.htm#fr_349.md) A metallic mirror,
 formerly much used.
 
-<span id="fn_349"></span>[m232:1](mes27.htm#fr_350) Qur’ān vii. 11.
+<span id="fn_349"></span>[m232:1](mes27.htm#fr_350.md) Qur’ān vii. 11.
 
 ------------------------------------------------------------------------
 
-[Next: XIII. The Prophet's First Amanuensis](mes28)
+[Next: XIII. The Prophet's First Amanuensis](mes28.md)

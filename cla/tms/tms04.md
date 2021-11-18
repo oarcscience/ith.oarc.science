@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](tms03)  [Next](tms05) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](tms03)  [Next](tms05.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ fields.
 
 Negative mana has been considered a form of negative magic. Just as in
 homoeopathic or in contagious magic (as we shall see in our chapter on
-magic acts) <span id="fr_28"></span>[1](#fn_28) man performs certain
+magic acts) <span id="fr_28"></span>[1](#fn_28.md) man performs certain
 actions in accordance with the laws of similarity or contact that
 certain results may ensue, so, in accordance with the same principles,
 he will refrain from certain acts, or things, or persons, for fear that
@@ -85,16 +85,16 @@ own forehead. He apparently had the feeling that he could thus, by
 contact with the blood of the gladiator, acquire from him bravery and
 skill, which he most certainly lacked, for the Roman people often
 snickered at his pretense of gladiatorial prowess. <span
-id="fr_29"></span>[2](#fn_29)
+id="fr_29"></span>[2](#fn_29.md)
 
 The interpretations of these actions may become clearer through a
 somewhat detailed study of the attitude of the Romans toward blood. But
 first let us examine the statements of two modern scholars on this
 subject. W. Warde Fowler writes thus about the taboo on blood among the
-Romans: <span id="fr_30"></span>[3](#fn_30) ". . . at Rome, so far as I
+Romans: <span id="fr_30"></span>[3](#fn_30.md) ". . . at Rome, so far as I
 can discover, there was in historical times hardly a trace left of this
 anxiety in its original form of taboo." Again, H. J. Rose says: <span
-id="fr_31"></span>[4](#fn_31) " . . . as the late W. Warde Fowler has
+id="fr_31"></span>[4](#fn_31.md) " . . . as the late W. Warde Fowler has
 repeatedly pointed out, the Romans had very little, if any,
 superstitious horror of blood."
 
@@ -105,55 +105,55 @@ battlefields, and that the blood of sacrifice at the altars and at the
 gladiatorial combats was an everyday sight. Despite this, a considerable
 body of evidence can be brought forward to show that the Romans did have
 an uncanny feeling about blood. Seneca, for example, writes: <span
-id="fr_32"></span>[5](#fn_32) "Some say that they themselves suspect
+id="fr_32"></span>[5](#fn_32.md) "Some say that they themselves suspect
 that there is actually in blood a certain force potent to avert and
 repel a rain cloud." It was dangerous to have the blood of a living
-person over one's head. <span id="fr_33"></span>[6](#fn_33) Tibullus
+person over one's head. <span id="fr_33"></span>[6](#fn_33.md) Tibullus
 curses with these words a woman whom he hates: <span
-id="fr_34"></span>[7](#fn_34) "May she eat bloody food." The skeptical
+id="fr_34"></span>[7](#fn_34.md) "May she eat bloody food." The skeptical
 Ovid refuses to believe that mere water can wipe away bloodstains. <span
-id="fr_35"></span>[8](#fn_35) Some Romans believed that blood was the
-seat of the soul. <span id="fr_36"></span>[9](#fn_36) The ancient
+id="fr_35"></span>[8](#fn_35.md) Some Romans believed that blood was the
+seat of the soul. <span id="fr_36"></span>[9](#fn_36.md) The ancient
 Hebrews also believed that the life resided in the blood. <span
-id="fr_37"></span>[10](#fn_37)
+id="fr_37"></span>[10](#fn_37.md)
 
 The dangerous character of blood is further suggested by the common
-accounts of rains of blood. <span id="fr_38"></span>[11](#fn_38) There
+accounts of rains of blood. <span id="fr_38"></span>[11](#fn_38.md) There
 is at least one reference to a rain of flesh. <span
-id="fr_39"></span>[12](#fn_39) Among the prodigies recorded during the
+id="fr_39"></span>[12](#fn_39.md) Among the prodigies recorded during the
 Hannibalic War, we read that at Praeneste shields sweated blood, that
 the waters of Caere were mixed with blood, that both water and blood
 gushed from the springs of Hercules, and that bloody ears of wheat were
-garnered at Antium. <span id="fr_40"></span>[13](#fn_40) Again, later in
+garnered at Antium. <span id="fr_40"></span>[13](#fn_40.md) Again, later in
 the same war, reports reached Rome that statues sweated blood, and that
 again the waters of Caere were mixed with blood. <span
-id="fr_41"></span>[14](#fn_41) Tullia, the daughter of Servius Tullius,
+id="fr_41"></span>[14](#fn_41.md) Tullia, the daughter of Servius Tullius,
 drove her carriage over the dead body of her father, and she was, in
 consequence, spattered with blood. Some of this blood accidentally
 contaminated her Penates and those of her husband. Soothsayers who were
 consulted predicted that, because of this bloodstain, the last of the
 Tarquins was doomed to suffer the same fate as Servius Tullius. <span
-id="fr_42"></span>[15](#fn_42) Once, while Flaminius was sacrificing, a
+id="fr_42"></span>[15](#fn_42.md) Once, while Flaminius was sacrificing, a
 calf broke away, spattering several spectators with its blood. This was
 considered terrible and ominous by the people present. <span
-id="fr_43"></span>[16](#fn_43) In 460 B.C., during the quarrels between
+id="fr_43"></span>[16](#fn_43.md) In 460 B.C., during the quarrels between
 the plebeians and the Senate, a large number of slaves and exiles seized
 the Capitol and the Citadel. After they had been driven out, the temple
 was purified, since many of them had desecrated it with their
-blood. <span id="fr_44"></span>[17](#fn_44) On one occasion, while the
+blood. <span id="fr_44"></span>[17](#fn_44.md) On one occasion, while the
 Emperor Caligula was sacrificing, he was spattered with the blood of a
 flamingo. Again, toward the end of the reign, during a performance of a
 broad farce, an actor, playing the part of a brigand, vomited blood. At
 the conclusion of the piece, a group of actors entertained the audience
 with such a vigorous burlesque of the brigand's vomiting that the stage
 overflowed with blood. These prodigies, among others, were believed to
-forebode the death of Caligula. <span id="fr_45"></span>[18](#fn_45) The
+forebode the death of Caligula. <span id="fr_45"></span>[18](#fn_45.md) The
 Emperor Domitian abhorred blood; and once he proposed an edict that oxen
-should not be sacrificed. <span id="fr_46"></span>[19](#fn_46)
+should not be sacrificed. <span id="fr_46"></span>[19](#fn_46.md)
 
 We recall the horror of Sallust in recounting the gruesome story that
 Catiline and his followers drank human blood to seal their covenant of
-crime. <span id="fr_47"></span>[20](#fn_47) A similar charge was made
+crime. <span id="fr_47"></span>[20](#fn_47.md) A similar charge was made
 against the early Christians. Minucius Felix, the first of the Christian
 Latin writers, in his Octavius, a work written to defend his faith,
 writes (IX):
@@ -169,7 +169,7 @@ covenant; through complicity in the crime they are pledged to mutual
 silence."
 
 This mystic association with blood finds curious expression in a story
-recorded <span id="fr_48"></span>[21](#fn_48) about the mutiny of the
+recorded <span id="fr_48"></span>[21](#fn_48.md) about the mutiny of the
 Roman soldiers under Germanicus. Later, realizing their crime, they felt
 that, by shedding the blood of the ringleaders, they might atone for
 their sins of rebellion. A bloody massacre took place in the camp. When
@@ -177,8 +177,8 @@ Germanicus appeared on the scene, the soldiers repented but, still
 "seeing red," they wanted to cross the Rhine into Germany, again to
 atone with their blood for their murdered comrades. A Roman would vow
 vengeance by the bloodstained sword of a murderer. <span
-id="fr_49"></span>[22](#fn_49) A curious bit of military lore is
-recorded in Gellius. <span id="fr_50"></span>[23](#fn_50) According to
+id="fr_49"></span>[22](#fn_49.md) A curious bit of military lore is
+recorded in Gellius. <span id="fr_50"></span>[23](#fn_50.md) According to
 the old military laws, when a soldier had committed an offense involving
 dishonor, a vein was opened, and the "bad blood" was let out. Gellius
 has suggested that the procedure may have been medicinal at first and
@@ -189,49 +189,49 @@ his life-blood was bad, it was drawn off to allow better life to enter
 his body.
 
 It would seem that the earliest Roman sacrifices were bloodless. <span
-id="fr_51"></span>[24](#fn_51) Ceres was said to have been the first to
-receive animal sacrifice--the pig. <span id="fr_52"></span>[25](#fn_52)
+id="fr_51"></span>[24](#fn_51.md) Ceres was said to have been the first to
+receive animal sacrifice--the pig. <span id="fr_52"></span>[25](#fn_52.md)
 Only bloodless sacrifices might be made to Genius on birthdays, though
 it is probable that animal sacrifices were permitted on other
-days. <span id="fr_53"></span>[26](#fn_53) The first day of the Festival
+days. <span id="fr_53"></span>[26](#fn_53.md) The first day of the Festival
 of Minerva had to be free from blood. <span
-id="fr_54"></span>[27](#fn_54) No animal sacrifice was made to Venus nor
-to Terminus on the Capitol. <span id="fr_55"></span>[28](#fn_55)
+id="fr_54"></span>[27](#fn_54.md) No animal sacrifice was made to Venus nor
+to Terminus on the Capitol. <span id="fr_55"></span>[28](#fn_55.md)
 Originally there was no animal sacrifice on the Festival of Pales; and
-the reason, as given by Plutarch <span id="fr_56"></span>[29](#fn_56)
+the reason, as given by Plutarch <span id="fr_56"></span>[29](#fn_56.md)
 was that the festival might be free from bloodstains. Fowler remarks
- <span id="fr_57"></span>[30](#fn_57) the absence of the mention of
+ <span id="fr_57"></span>[30](#fn_57.md) the absence of the mention of
 blood in sacrifices, but he fails to recognize that this very absence is
 an indication that blood was taboo.
 
 The Priest of Jupiter (Flamen Dialis) was not allowed to mention raw
-meat. <span id="fr_58"></span>[31](#fn_58) Plutarch suggests <span
-id="fr_59"></span>[32](#fn_59) that the repulsive appearance of meat and
+meat. <span id="fr_58"></span>[31](#fn_58.md) Plutarch suggests <span
+id="fr_59"></span>[32](#fn_59.md) that the repulsive appearance of meat and
 its likeness to the flesh of a wound may be the reason for the taboo.
 This uncanny aversion which the Romans felt for raw meat is further
 shown by a story told about the Emperor Maximus (238 A.D.). It seems
 that at the time of his birth an eagle dropped a large piece of beef
 into the house through the opening in the roof and that no one would
 touch it because of superstitious fear. <span
-id="fr_60"></span>[33](#fn_60) The Priest of Jupiter was forbidden also
+id="fr_60"></span>[33](#fn_60.md) The Priest of Jupiter was forbidden also
 to pass under a vine which was trained on an arbor. <span
-id="fr_61"></span>[34](#fn_61) Frazer suggests a possible explanation of
-this taboo. <span id="fr_62"></span>[35](#fn_62) The juice of the grape
+id="fr_61"></span>[34](#fn_61.md) Frazer suggests a possible explanation of
+this taboo. <span id="fr_62"></span>[35](#fn_62.md) The juice of the grape
 was considered blood because it was red and looked like blood; and it
 was believed to contain the spirit. Moreover, wine was intoxicating, and
 so the soul of the vine could be felt actually at work in the person who
 drank the wine. There is another possible interpretation of the
 prohibition: the intertwining tendrils of the vine would make it
-dangerous to a priest. <span id="fr_63"></span>[36](#fn_63)
+dangerous to a priest. <span id="fr_63"></span>[36](#fn_63.md)
 
 Ovid represents Numa performing sacrifice, before which he had to
 refrain from the pleasures of love and from flesh, and he might wear no
-ring. <span id="fr_64"></span>[37](#fn_64) A priest who had been
+ring. <span id="fr_64"></span>[37](#fn_64.md) A priest who had been
 splashed with the blood of a sacrificial animal was unclean until he had
-changed his dress. <span id="fr_65"></span>[38](#fn_65) We recall that
+changed his dress. <span id="fr_65"></span>[38](#fn_65.md) We recall that
 AEneas could not touch his home-gods until he had cleansed the
 bloodstains from his hands with pure water. <span
-id="fr_66"></span>[39](#fn_66)
+id="fr_66"></span>[39](#fn_66.md)
 
 Blood, too, had a magic part in religious rites. We shall describe its
 use in three of these.
@@ -239,13 +239,13 @@ use in three of these.
 On October fifteenth, the Field of Mars witnessed a chariot race. The
 right-hand horse of the pair which won the race was killed, and blood
 from his tail was allowed to drip onto the sacred hearth. <span
-id="fr_67"></span>[40](#fn_67) This blood, together with the blood from
+id="fr_67"></span>[40](#fn_67.md) This blood, together with the blood from
 his head, was mixed with sulphur and with bean straw, and with the ashes
 of unborn calves which had been sacrificed at the Festival of the
 Slaying of the Pregnant Cows (Fordicidia) on April fifteenth. The
 mixture was dispensed by the Vestals as a fertility charm at the
 Festival of Pales (Palilia) on April twenty-first. <span
-id="fr_68"></span>[41](#fn_68) Farmers and flocks at this festival
+id="fr_68"></span>[41](#fn_68.md) Farmers and flocks at this festival
 leaped through bonfires into which some of the mixture had been thrown.
 It is not my plan to attempt, at this juncture, an explanation of these
 rites; for our purpose it is sufficient to note that in this rite blood
@@ -256,7 +256,7 @@ to the people who used the mixture.
 Again at the Festival of the Lupercalia on February fifteenth blood from
 the sacrificial goats was smeared with a knife on the foreheads of two
 youths by some of the priests called Luperci, and then was wiped off
-with wool by other priests. <span id="fr_69"></span>[42](#fn_69) Much
+with wool by other priests. <span id="fr_69"></span>[42](#fn_69.md) Much
 has been written in attempted explanation of this element in the rite.
 We shall return to the subject in a later chapter; here again we must be
 satisfied with pointing out merely the fact that blood was believed to
@@ -266,10 +266,10 @@ Once more, at the Festival of Terminus, the god of boundaries, in the
 county districts at least, blood from the sacrificial victim, together
 with its bones and ashes, incense, and various products of the farm, was
 lowered into a hole in the ground and the boundary stone was rammed into
-it. <span id="fr_70"></span>[43](#fn_70) The worship of such stones was
+it. <span id="fr_70"></span>[43](#fn_70.md) The worship of such stones was
 doubtless fetishism at first; but let us apply the rule for
 distinguishing a fetish from a god, as given by Dr. Jevons: <span
-id="fr_71"></span>[44](#fn_71) "If the object is the private property of
+id="fr_71"></span>[44](#fn_71.md) "If the object is the private property of
 some individual, it is fetish; if it is worshipped by the community as a
 whole, it, or rather the spirit which manifests itself therein, is a god
 of the community." The stone, in historical times, certainly was by this
@@ -281,16 +281,16 @@ beyond the fetish stage.
 The blood of foreigners, especially of enemies, was felt to be
 dangerous. The spear which the war-herald (fetial) threw into the
 enemy's country as a declaration of war was dipped in blood. <span
-id="fr_72"></span>[45](#fn_72) The blood, being taboo from the point of
+id="fr_72"></span>[45](#fn_72.md) The blood, being taboo from the point of
 view of the enemy, was calculated to do harm to him. The head of the
 spear might be of iron, which, as we shall presently find, had magic
 force. The soldiers who followed the general's triumphal car wore
 garlands of laurel, that they might enter the city with the stain of
-human blood removed. <span id="fr_73"></span>[46](#fn_73) A priest,
+human blood removed. <span id="fr_73"></span>[46](#fn_73.md) A priest,
 known as the verbenarims, accompanied the war-heralds, carrying with him
 for purificatory purposes the sacred herbs, probably the modern vervain
 which is commonly believed to possess magic properties. <span
-id="fr_74"></span>[47](#fn_74)
+id="fr_74"></span>[47](#fn_74.md)
 
 On March nineteenth occurred the lustration of the sacred shields of the
 Leaping Priests of Mars (Salii), and probably of the whole army before
@@ -299,21 +299,21 @@ performed ceremonial dances, beating their shields and brandishing their
 spears--originally a magic ceremony to drive away malevolent spirits.
 Again, after the war season was over, the shields and, doubtless, the
 whole army were again lustrated and the shields were put away for the
-winter. <span id="fr_75"></span>[48](#fn_75) It has been suggested that
+winter. <span id="fr_75"></span>[48](#fn_75.md) It has been suggested that
 the lustration in October was to disinfect both arms and men from the
 double stain of blood and of contact with foreign influences. <span
-id="fr_76"></span>[49](#fn_76) We meet with a similar ceremony at the
+id="fr_76"></span>[49](#fn_76.md) We meet with a similar ceremony at the
 conclusion of the war against Fidenae in the reign of Tullus Hostilius,
 when the king performed purificatory rites to rid the army of the taint
 of blood and of contact with the enemy. <span
-id="fr_77"></span>[50](#fn_77) All people at all times have believed
+id="fr_77"></span>[50](#fn_77.md) All people at all times have believed
 that the spirits of the slain haunt their slayers. <span
-id="fr_78"></span>[51](#fn_78) The spirits of enemies killed in battle
+id="fr_78"></span>[51](#fn_78.md) The spirits of enemies killed in battle
 would naturally haunt the soldiers who slew them; hence the need of such
 purificatory rites for armies.
 
 There is a curious story recorded in Tacitus  <span
-id="fr_79"></span>[52](#fn_79) which seems to involve the taboo on
+id="fr_79"></span>[52](#fn_79.md) which seems to involve the taboo on
 blood. It appears that Arminius, the chief of the Cheruscans, in order
 to facilitate his escape from the Germans, "disfigured himself by
 smearing blood over his face." This, on the principle that "like cures
@@ -324,7 +324,7 @@ smearing the face and body with paint of clay (particularly if it is
 red) is common among savages. Prospective brides in the Congo region of
 Africa parade before the men who desire mates. These girls are covered
 with red clay, which is washed off in the river as soon as they are
-chosen as wives. <span id="fr_80"></span>[53](#fn_80)
+chosen as wives. <span id="fr_80"></span>[53](#fn_80.md)
 
 Sufficient evidence has been presented thus far to show that the Romans,
 despite their putative indifference to blood because of the daily
@@ -349,7 +349,7 @@ danger which was characteristic of that period.
 How did the taboo on blood arise? According to some scholars the fear of
 blood is instinctive. A horse, for example, will shy at blood. Antiquity
 furnishes at least one example of this. <span
-id="fr_81"></span>[54](#fn_81) To our thinking, the taboo in many cases
+id="fr_81"></span>[54](#fn_81.md) To our thinking, the taboo in many cases
 arose in some such way as this: when the savage shed his blood, suffered
 and died as the result of a wound, either accidental or from the blow of
 an enemy, his fellows associated the blood with the idea of pain and
@@ -366,21 +366,21 @@ superstitious horror of blood--particularly the blood of menstruation
 and of childbirth--common to all peoples.
 
 The Laws of Moses say that a woman who had given birth to a boy was
-unclean for seven days; <span id="fr_82"></span>[55](#fn_82) if she gave
+unclean for seven days; <span id="fr_82"></span>[55](#fn_82.md) if she gave
 birth to a girl, she was unclean for two weeks; <span
-id="fr_83"></span>[56](#fn_83) and she was not allowed to touch anything
+id="fr_83"></span>[56](#fn_83.md) and she was not allowed to touch anything
 sacred or to enter the sanctuary until after that period. <span
-id="fr_84"></span>[57](#fn_84) Furthermore, if she had an issue of
+id="fr_84"></span>[57](#fn_84.md) Furthermore, if she had an issue of
 blood, she had to be put apart for seven days, and anyone who touched
-her was unclean until night. <span id="fr_85"></span>[58](#fn_85)
+her was unclean until night. <span id="fr_85"></span>[58](#fn_85.md)
 
-According to Pliny the Elder <span id="fr_86"></span>[59](#fn_86) a
+According to Pliny the Elder <span id="fr_86"></span>[59](#fn_86.md) a
 woman in her menstrual period will sour must, make grain barren, kill
 grafts, wither vegetables, dull mirrors, and do a host of other harmful
 things.
 
 "During certain periods," writes Lafcadio Hearn <span
-id="fr_87"></span>[60](#fn_87) of Shinto worship in Japan, "women must
+id="fr_87"></span>[60](#fn_87.md) of Shinto worship in Japan, "women must
 not even pray before the miya, much less make offerings or touch the
 sacred vessels, or kindle the lights of the Kami."
 
@@ -390,11 +390,11 @@ George Washington laid the buffeting which wintry storms inflicted upon
 their ship to the presence of a woman stowaway in the coal bunker. A
 woman, they said, had no place where men only were allowed. Her presence
 had caused all their woes during the voyage. <span
-id="fr_88"></span>[61](#fn_88)
+id="fr_88"></span>[61](#fn_88.md)
 
 The taboo on women was prevalent in Rome. At the country rites of Mars
 Silvanus no woman was allowed to be present or to see how the rites were
-performed. <span id="fr_89"></span>[62](#fn_89) Women were not allowed
+performed. <span id="fr_89"></span>[62](#fn_89.md) Women were not allowed
 to swear by Hercules, and were forbidden to take part in his worship at
 the Greatest Altar in the Cattle Market. The story goes that Hercules,
 while driving through Italy the cattle which he had stolen in Spain from
@@ -407,16 +407,16 @@ spring. Hercules, in anger, burst open the door of the temple and
 drained the spring dry. In consequence of this refusal, he ordered that
 all women be excluded from his rites at the Greatest Altar which he
 erected in celebration of his victory over Cacus. <span
-id="fr_90"></span>[63](#fn_90) The tale, of course, was invented to
+id="fr_90"></span>[63](#fn_90.md) The tale, of course, was invented to
 explain the exclusion of women. Fowler has suggested <span
-id="fr_91"></span>[64](#fn_91) an explanation of the taboo, on the
+id="fr_91"></span>[64](#fn_91.md) an explanation of the taboo, on the
 ground that the cult of Hercules had been superimposed on an older cult
 of Genius or the male principle. From this cult, quite naturally, women
 would be excluded. However, the presence of the Leaping Priests of Mars
 in the rites seems to suggest Mars, rather than Genius, behind the later
 Hercules. We know, too, that women were excluded from the worship of
-Hercules at Lanuvium. <span id="fr_92"></span>[65](#fn_92) Frazer
-retells  <span id="fr_93"></span>[66](#fn_93) from Aelian a story which
+Hercules at Lanuvium. <span id="fr_92"></span>[65](#fn_92.md) Frazer
+retells  <span id="fr_93"></span>[66](#fn_93.md) from Aelian a story which
 so humorously indicates the antipathy of Hercules for women that we
 shall introduce it at this point.
 
@@ -430,23 +430,23 @@ returned the running stream purified them from the pollution they had
 incurred by contact with the other sex."
 
 Festus mentions the fact that in certain rites, undefined by him, women
-and girls were bidden to depart. <span id="fr_94"></span>[67](#fn_94)
+and girls were bidden to depart. <span id="fr_94"></span>[67](#fn_94.md)
 There has survived a law, traditionally attributed to Numa, to the
 effect that no kept mistress might touch the temple of Juno, and that if
 she did so, she must, with flowing hair, offer up an ewe lamb to the
-goddess. <span id="fr_95"></span>[68](#fn_95)
+goddess. <span id="fr_95"></span>[68](#fn_95.md)
 
 That the Romans early overcame their uneasiness about the presence of
 women in religious rites is shown by the fact that the overseer's wife
 on a farm had certain minor religious duties to perform. <span
-id="fr_96"></span>[69](#fn_96) Again, the farmer's wife at the Festival
+id="fr_96"></span>[69](#fn_96.md) Again, the farmer's wife at the Festival
 of the Boundary Stone brought fire from the home hearth for use on the
 altar erected at the boundary of the farm. <span
-id="fr_97"></span>[70](#fn_97) On the day of the Liberalia, old women
+id="fr_97"></span>[70](#fn_97.md) On the day of the Liberalia, old women
 crowned with ivy, called priestesses of Liber (sacerdotes Liberia), made
 sacrificial cakes on portable hearths, which, with honey, were bought
 and offered to Liber in the interest of the buyers. <span
-id="fr_98"></span>[71](#fn_98)
+id="fr_98"></span>[71](#fn_98.md)
 
 ### Children
 
@@ -485,7 +485,7 @@ foreknowledge of her son's career. At least this is suggested in a
 childhood reminiscence of his association with witches, in the
 well-known passage which constitutes a part of Horace's famous
 description of his encounter with the bore in the Sacred Road. <span
-id="fr_99"></span>[72](#fn_99) Though the story is doubtless
+id="fr_99"></span>[72](#fn_99.md) Though the story is doubtless
 fanciful-told to heighten the effect of the satire--it is probably based
 on fact and shows that fortune-telling by witches was prevalent in the
 country districts. Horace, we recall, when vainly trying to rid himself
@@ -502,7 +502,7 @@ let him avoid the talkative when once he has grown to manhood.'"
 
 The Romans commonly believed that witches murdered children to secure
 parts of their bodies for use in their gruesome rites. Horace  <span
-id="fr_100"></span>[73](#fn_100) gives us a picture of certain witches
+id="fr_100"></span>[73](#fn_100.md) gives us a picture of certain witches
 murdering a boy to use his entrails in plying their art. The poem opens
 with the cries of the boy, who is being spirited away from his home by
 four witches. One of them, Canidia, orders wild fig trees to be uprooted
@@ -520,7 +520,7 @@ cries that he will, as an avenging spirit, hound the witches.
 
 Witches would steal babies for use in their rites and would leave
 bundles of straw in their place. We have an illustration of this
-practice in Petronius. <span id="fr_101"></span>[74](#fn_101) Trimalchio
+practice in Petronius. <span id="fr_101"></span>[74](#fn_101.md) Trimalchio
 relates that when he was a boy, the favorite of his master, a mere
 child, died; and while the boy's mother was bemoaning his death, witches
 were heard screeching outside. A husky Cappadocian, one of Trimalchio's
@@ -531,33 +531,33 @@ carried off the dead child for use in their nefarious business.
 
 Witches, probably midwives in some cases, occasionally removed unborn
 children by unnatural means from their mothers' wombs and placed them on
-magic altars. <span id="fr_102"></span>[75](#fn_102) The entrails,
+magic altars. <span id="fr_102"></span>[75](#fn_102.md) The entrails,
 urine, caul, teeth, liver, marrow and other parts of boys were used in
 these rites. The caul of a child, for instance, was often seized by
 midwives and sold to superstitious lawyers, for it was believed to have
 the power to bring them luck while pleading. <span
-id="fr_103"></span>[76](#fn_103) It is not difficult to credit this when
+id="fr_103"></span>[76](#fn_103.md) It is not difficult to credit this when
 we recall that Regulus, a lawyer contemporary with Pliny the Younger,
 would daub paint around his right eye if he was to plead for a plaintiff
 and around the left eye if for a defendant, and would transfer a white
 adhesive plaster from one eyebrow to the other, depending on the nature
 of the case which he was pleading. <span
-id="fr_104"></span>[77](#fn_104)
+id="fr_104"></span>[77](#fn_104.md)
 
 Not only were professional witches and wizards accused of murdering
 children for magic purposes, but sometimes men in public life were also
 charged with these practices. Cicero, for example, in a speech attacking
 Vatinius, a political adventurer and henchman of Julius Caesar, charged
 him, among other things, with using the vitals of a boy in questionable
-rites. <span id="fr_105"></span>[78](#fn_105) Justin Martyr in a much
+rites. <span id="fr_105"></span>[78](#fn_105.md) Justin Martyr in a much
 later day accused the Romans of practicing divination from murdered
-children. <span id="fr_106"></span>[79](#fn_106) Such heinous crimes
+children. <span id="fr_106"></span>[79](#fn_106.md) Such heinous crimes
 were in later times committed even in the emperor's palace. One of the
 horrible deeds of Heliogabalus, recorded by AElius Lampridius, was that
 he sacrificed beautiful children of noble birth whose parents were still
 living. For this purpose he kept magicians in his household; and he
 himself would torture his victims and examine their vitals. <span
-id="fr_107"></span>[80](#fn_107)
+id="fr_107"></span>[80](#fn_107.md)
 
 #### 2. CHILD SACRIFICE
 
@@ -573,7 +573,7 @@ at the Festival of the Cross-Roads (Compitalia)--an offering calculated
 to guarantee the welfare of families. At the expulsion of the Tarquins,
 the custom was abolished by Brutus, who ordered that heads of garlic and
 poppies be sacrificed in place of boys. <span
-id="fr_108"></span>[81](#fn_108)
+id="fr_108"></span>[81](#fn_108.md)
 
 #### 3. CHILDREN IN DIVINATION
 
@@ -581,7 +581,7 @@ The ancients commonly used boys in rites of divination both privately in
 magic and in forms sanctioned by the State. Thus, one of the charges
 brought against Apuleius of Madaura in Africa, in the famous trial under
 the proconsul Claudius Maximus of Sabrata, was that he used a boy in
-certain magic rites. <span id="fr_109"></span>[82](#fn_109) According to
+certain magic rites. <span id="fr_109"></span>[82](#fn_109.md) According to
 the charge, he spirited a boy away to a secret spot and there, in the
 presence of a few witnesses, at an altar under the flickering light of a
 lantern, performed magic rites, after which the boy collapsed, falling
@@ -605,20 +605,20 @@ what will happen in the future. Boys who perform such functions must be
 beautiful, without physical blemish, quick-witted and ready of speech.
 We may compare, in this respect, the requirements for the girls who
 presented themselves as priestesses of Vesta. <span
-id="fr_110"></span>[83](#fn_110) They must, among other things, be free
+id="fr_110"></span>[83](#fn_110.md) They must, among other things, be free
 from impediments in speech, must possess good hearing and must, like
 animals offered in sacrifices to the gods, have no bodily defect.
 
 An interesting instance of unconscious divination by a child is recorded
 in Cicero's treatise On Divination. <span
-id="fr_111"></span>[84](#fn_111) When Lucius AEmilius Paulus, having
+id="fr_111"></span>[84](#fn_111.md) When Lucius AEmilius Paulus, having
 been chosen to wage war against Perseus, King of Macedonia, returned
 home, he noticed that his daughter was sad. On inquiry, he found that
 her pet puppy Persa had died. The father--he had been an augur--took
 this as a prophecy that King Perseus was doomed to death. It is not
 difficult to believe that this incident actually happened; but it takes
 a stretch of the imagination to credit the story recorded by Livy  <span
-id="fr_112"></span>[85](#fn_112) that in the fifth year of the Second
+id="fr_112"></span>[85](#fn_112.md) that in the fifth year of the Second
 Punic War a baby called out from its mother's womb, "Io Triumphe!"
 
 The Emperor Didius Julianus, assisted by magicians, performed certain
@@ -626,7 +626,7 @@ rites in which boys, with bandages over their eyes, gazed, as it seemed,
 into a mirror while charms were muttered over their heads. While in this
 state one of the boys declared that he saw in the mirror the coming of
 Severus as emperor and the departure of Julianus. <span
-id="fr_113"></span>[86](#fn_113)
+id="fr_113"></span>[86](#fn_113.md)
 
 #### 4. SUPERSTITIONS CONCERNING CHILDREN.
 
@@ -636,13 +636,13 @@ Many superstitions concerning children at birth have been preserved for
 us in Roman writers. Thus both the new-born child and its mother are
 considered uncannily dangerous. This may be due to their physical
 weakness and to the presence of blood at birth. <span
-id="fr_114"></span>[87](#fn_114) It is for fear that the weakness of the
+id="fr_114"></span>[87](#fn_114.md) It is for fear that the weakness of the
 child may bring a corresponding weakness to the father that an English
 gypsy father to-day will not touch his child until it is several months
-old. <span id="fr_115"></span>[88](#fn_115) It was for the same reason,
+old. <span id="fr_115"></span>[88](#fn_115.md) It was for the same reason,
 perhaps, that a Gallic father, in Caesar's day, would not allow his son
 to come into his presence until he had grown up and could endure
-military service. <span id="fr_116"></span>[89](#fn_116) The feeling
+military service. <span id="fr_116"></span>[89](#fn_116.md) The feeling
 that mother and child were surrounded by evil forces survived among the
 Romans of historical times. It was natural, then, that they should seek
 means not only to shield the child from evil influences but to protect
@@ -652,7 +652,7 @@ The danger surrounding the mother and her child is well illustrated in
 the superstition that they were liable to be tormented by evil spirits
 from the woodland--Silvanus, as the later Romans believed--until a
 curious ceremony was performed. I quote St. Augustine: <span
-id="fr_117"></span>[90](#fn_117)
+id="fr_117"></span>[90](#fn_117.md)
 
 ". . . After the birth of the child, three protecting divinities are
 summoned lest the god Silvanus enter during the night and harass mother
@@ -674,17 +674,17 @@ child.
 
 The Roman child up to the age of puberty needed the protection of a
 special purple-bordered dress which has been shown to have possessed
-religious significance. <span id="fr_118"></span>[91](#fn_118) Again,
+religious significance. <span id="fr_118"></span>[91](#fn_118.md) Again,
 boys and girls wore about their necks amulets of gold or of skin,
 usually containing a representation of the phallus, but occasionally a
 green lizard or a heart and perhaps also other objects. These were
 believed to ward off baleful influences, especially the evil eye. When
 the child doffed his boyish dress, he hung up his amulet on the
-Lares. <span id="fr_119"></span>[92](#fn_119)
+Lares. <span id="fr_119"></span>[92](#fn_119.md)
 
 Children were liable to be harassed by bloodsucking vampires in the form
 of owls. The rites of riddance, described by Ovid  <span
-id="fr_120"></span>[93](#fn_120) in the case of the infant Procas, are
+id="fr_120"></span>[93](#fn_120.md) in the case of the infant Procas, are
 as follows:
 
 "Immediately she (Crane) touches the doorposts three times in succession
@@ -705,50 +705,50 @@ organs of the child which, in early Roman times, were under the care of
 the goddess Carna, are to be saved by the vicarious offering of the
 vitals of a sow. The pig was frequently so used. A similar substitution
 is to be seen in the ceremony of treaty-making, preserved by Livy. <span
-id="fr_121"></span>[94](#fn_121)
+id="fr_121"></span>[94](#fn_121.md)
 
 The child, too, was liable to be harmed by the evil eye. Persius
 satirizes the old woman--an adept at averting the evil eye--who takes a
 baby from its cradle and applies spittle to its forehead and lips with
-the middle finger. <span id="fr_122"></span>[95](#fn_122) The goddess of
+the middle finger. <span id="fr_122"></span>[95](#fn_122.md) The goddess of
 the cradle (Cunina) was believed, in popular superstition at least, to
 have the power of averting the evil eye. <span
-id="fr_123"></span>[96](#fn_123)
+id="fr_123"></span>[96](#fn_123.md)
 
 Several superstitions with regard to the luckiness or unluckiness of
 children at birth are recorded by Pliny the Elder. Thus, inasmuch as it
 was contrary to nature for a baby to come into the world foot-foremost,
 such a birth was considered unlucky. <span
-id="fr_124"></span>[97](#fn_124) The child who at birth had caused the
+id="fr_124"></span>[97](#fn_124.md) The child who at birth had caused the
 death of its mother was believed to have been born under happy
-auspices. <span id="fr_125"></span>[98](#fn_125) For a girl to be born
+auspices. <span id="fr_125"></span>[98](#fn_125.md) For a girl to be born
 with teeth was considered ominous. <span
-id="fr_126"></span>[99](#fn_126) It would seem that the birth of
+id="fr_126"></span>[99](#fn_126.md) It would seem that the birth of
 triplets caused parents no uneasiness, but that when four children were
 born it was considered ill-omened. <span
-id="fr_127"></span>[100](#fn_127) So when, in the principate of
+id="fr_127"></span>[100](#fn_127.md) So when, in the principate of
 Augustus, a certain woman of low origin gave birth to two boys and two
 girls, it was believed to presage a famine which took place shortly
-afterward. <span id="fr_128"></span>[101](#fn_128)
+afterward. <span id="fr_128"></span>[101](#fn_128.md)
 
 Savages believe that blood and anything that looks like blood has the
 power to drive away evils. A survival of this superstition may account
 for the custom which obtained in the family of the Emperor Albinus (196
 A.D.), requiring that new-born children be wrapped in bandages of a
-reddish color. <span id="fr_129"></span>[102](#fn_129)
+reddish color. <span id="fr_129"></span>[102](#fn_129.md)
 
 The Romans, in common with many other peoples, ancient and modern, often
 identified the lifetime of a particular tree with the duration of the
 life of the person at whose birth it was planted. So on the country
 estate of the Flavians stood an ancient oak which sent forth a branch on
 each of three occasions when Vespasia gave birth to a child. <span
-id="fr_130"></span>[103](#fn_130)
+id="fr_130"></span>[103](#fn_130.md)
 
 #### 5. THE CHILD IN RELIGIOUS RITES
 
 ##### a. At Birth
 
-Tertullian  <span id="fr_131"></span>[104](#fn_131) acquaints us with a
+Tertullian  <span id="fr_131"></span>[104](#fn_131.md) acquaints us with a
 whole series of divinities which looked after the interests of the child
 before and after birth. Among these Fluviona cared for the child in its
 mother's womb; Candelifera was the spirit of the light--equivalent
@@ -756,12 +756,12 @@ magically to the life of the child--which was placed in the room where
 the baby was born; Cunina, in addition to having the power of averting
 the evil eye, supplied quiet; Levana presided over the ceremonial
 lifting of the child from the ground by the father. It has been
-suggested  <span id="fr_132"></span>[105](#fn_132) that the new-born
+suggested  <span id="fr_132"></span>[105](#fn_132.md) that the new-born
 baby was placed on the ground that it might receive a soul from Mother
 Earth; for among savages even to-day the belief prevails that babies at
 birth are not possessed of souls.
 
-Ovid  <span id="fr_133"></span>[106](#fn_133) distinguishes two
+Ovid  <span id="fr_133"></span>[106](#fn_133.md) distinguishes two
 goddesses of birth, Postverta and Porrima, the former for children born
 foot-first, the abnormal posture, and the latter for the child born
 normally. Other names for Porrima were Prorsa and Antevorta. In all
@@ -772,31 +772,31 @@ they originated in magic. And indeed the worship of the Roman Carmenta
 (Carmentis) may have originated in magic; for, in old Latin,
 prophetesses were called carmentes and the scribes who copied out their
 prophecies were called carmentarii. These carmentes, as W. Warde Fowler
-has pointed out, <span id="fr_134"></span>[107](#fn_134) may well have
+has pointed out, <span id="fr_134"></span>[107](#fn_134.md) may well have
 been wise women whom prospective mothers consulted. But it is more
 likely that Carmenta was an old Italian divinity. In her rites, leather,
 except perhaps for the skins of the sacrificial animals, was taboo. The
 reason for this, as Ovid rightly indicates, <span
-id="fr_135"></span>[108](#fn_135) was to prevent the contagion of the
+id="fr_135"></span>[108](#fn_135.md) was to prevent the contagion of the
 dead animal from communicating death to the mother or to her child.
 
 The goddesses most commonly invoked by mothers at the time of
 parturition were Juno Lucina, Diana, and Mater Matuta. These divinities
 seem to have displaced the carmentes in historical times. <span
-id="fr_136"></span>[109](#fn_136)
+id="fr_136"></span>[109](#fn_136.md)
 
 Springs were commonly worshiped by expectant mothers. Such a spring was
 that of Egeria in the sacred grove not far from the Capene Gate on the
-Appian Road. <span id="fr_137"></span>[110](#fn_137) Certain springs at
+Appian Road. <span id="fr_137"></span>[110](#fn_137.md) Certain springs at
 Sinuessa were believed to possess, among other powers, that of
-preventing childlessness. <span id="fr_138"></span>[111](#fn_138)
+preventing childlessness. <span id="fr_138"></span>[111](#fn_138.md)
 
 The Romans, as we have seen, sought, by means of magic rites, to shield
 their children from evil influences. It was for this reason, doubtless,
 that the child was purified and given a name in accordance with
 religious forms--the boy on the ninth and the girl on the eighth day
 after birth. A goddess Nundina, it would seem, presided over the rites
-of purification. <span id="fr_139"></span>[112](#fn_139)
+of purification. <span id="fr_139"></span>[112](#fn_139.md)
 
 ##### b. At Puberty
 
@@ -805,12 +805,12 @@ At that period--usually on the day of the Festival of Liber
 (Liberalia)--the boy ceremonially put on the white dress of manhood
 (toga virilis) and laid aside, in the presence of the Lares, his amulet
 (bulla) and his magic boyhood dress. <span
-id="fr_140"></span>[113](#fn_140) This ceremony may have descended from
+id="fr_140"></span>[113](#fn_140.md) This ceremony may have descended from
 a prehistoric rite of initiation of the lad into the clan. <span
-id="fr_141"></span>[114](#fn_141) According to the unknown author of a
+id="fr_141"></span>[114](#fn_141.md) According to the unknown author of a
 work De Praenominibus, the boy received a name on this day. If this be
 true, the child probably discarded the name which had been given to him
-on the dies lustricus. <span id="fr_142"></span>[115](#fn_142) I suggest
+on the dies lustricus. <span id="fr_142"></span>[115](#fn_142.md) I suggest
 that if the name given to him in infancy had proved magically lucky, he
 retained it; but if he had suffered disease, accident, or other
 misfortune, the name was changed at his "coming of age" ceremony.
@@ -820,17 +820,17 @@ misfortune, the name was changed at his "coming of age" ceremony.
 The Romans both buried and burned their dead; but archaeologists have
 shown that the largest numbers of Roman burials were those of
 children--a fact which suggests that some superstition prohibited their
-cremation. <span id="fr_143"></span>[116](#fn_143) This archaeological
+cremation. <span id="fr_143"></span>[116](#fn_143.md) This archaeological
 evidence corroborates a statement in Pliny the Elder that it was not the
 custom to cremate children whose teeth had not yet appeared. <span
-id="fr_144"></span>[117](#fn_144)
+id="fr_144"></span>[117](#fn_144.md)
 
 #### 6. THE CHILD AS ACOLYTE
 
 Children, among all peoples, have definite roles assigned to them in
 religion, often in connection with rites of purification and of
 divination. For instance, according to an early Christian writer,
-Barnabas, <span id="fr_145"></span>[118](#fn_145) it would appear that
+Barnabas, <span id="fr_145"></span>[118](#fn_145.md) it would appear that
 in the popular religion of the Jews the most wicked men of their number
 would slay and burn a heifer. Boys would take the ashes and place them
 in vessels, and, with a stick bound with purple wool and hyssop, would
@@ -841,36 +841,36 @@ suppose that it belonged to the popular religion.
 The employment of children as acolytes in Roman religion originated in
 the primitive home where children alone, because of their purity, were
 allowed to handle the food in the storeroom. <span
-id="fr_146"></span>[119](#fn_146) After the first course of the meal had
+id="fr_146"></span>[119](#fn_146.md) After the first course of the meal had
 been removed, silence was enjoined, and an offering made on the hearth.
 Then the son of the family, according to the custom, announced whether
-the omens were favorable. <span id="fr_147"></span>[120](#fn_147) In
+the omens were favorable. <span id="fr_147"></span>[120](#fn_147.md) In
 certain rites in the fields, too, both boys and girls acted as
 assistants. At the Festival of Terminus in February each member of the
 family took part: the boy carried the basket containing products of the
 farm, which he threw into the fire on the altar; his sister offered
-honey cakes. <span id="fr_148"></span>[121](#fn_148)
+honey cakes. <span id="fr_148"></span>[121](#fn_148.md)
 
 Hence the Romans, because of childhood associations, often grew up with
 great affection for the gods of the home. Tibullus, for instance,
-describes  <span id="fr_149"></span>[122](#fn_149) how he used to run as
+describes  <span id="fr_149"></span>[122](#fn_149.md) how he used to run as
 a child about the feet of the Lares, protected by their kindly
 influence.
 
 Boys and girls called camilli and camillae, wearing the toga praetexta,
 often took part in Roman State rites. <span
-id="fr_150"></span>[123](#fn_150) They had to be free-born and both of
+id="fr_150"></span>[123](#fn_150.md) They had to be free-born and both of
 their parents must be living. Hence the names patrimi and matrimi were
 also given to them. Three such boys took part in the procession which
 escorted the bride to her new home. One carried the whitethorn torch in
 front of the procession and the other two held the hands of the
-bride. <span id="fr_151"></span>[124](#fn_151) Even in our day in far
+bride. <span id="fr_151"></span>[124](#fn_151.md) Even in our day in far
 separated parts of the world boys and girls take part in magic and
 religious rites, and both their parents must be living. <span
-id="fr_152"></span>[125](#fn_152)
+id="fr_152"></span>[125](#fn_152.md)
 
 At the request of the Emperor Augustus, Horace composed the "Secular
-Hymn"  <span id="fr_153"></span>[126](#fn_153) which was sung on the
+Hymn"  <span id="fr_153"></span>[126](#fn_153.md) which was sung on the
 third day of the religious festival of 17 A.D., first at the temple of
 Apollo, then at the Capitol, by a chorus of twenty-seven boys and a like
 number of girls, whose parents were living. It seems that the Sibylline
@@ -965,12 +965,12 @@ these rites.
 
 In all ages, corpses have been looked upon as uncanny and as needing
 purificatory rites. "Primitive thought," writes Crawley, <span
-id="fr_154"></span>[127](#fn_154) "has no definition of the nature of
+id="fr_154"></span>[127](#fn_154.md) "has no definition of the nature of
 death, but the usual attitude toward it, as may be inferred from
 mourning customs, is a mystic terror." Thus, among the uneducated
 Japanese of modern times, a corpse is felt to be dangerous, and
 precautions must be taken against infection. "One must not sleep, for
-example," says Lafcadio Hearn, <span id="fr_155"></span>[128](#fn_155)
+example," says Lafcadio Hearn, <span id="fr_155"></span>[128](#fn_155.md)
 "or even lie down to rest, with his feet turned toward it. One must not
 pray before it, or even stand before it, while in a state of religious
 impurity,--such as that entailed by having touched a corpse, or attended
@@ -979,14 +979,14 @@ buried according to the Buddhist rite." The same feeling of danger
 arising from contact with death or corpses was common among the ancient
 Hebrews. For instance, any person who had been defiled by contact with
 the dead was debarred from the camp. <span
-id="fr_156"></span>[129](#fn_156) The person who had touched a dead
+id="fr_156"></span>[129](#fn_156.md) The person who had touched a dead
 body, the bones of a man, or a grave was unclean for seven days. <span
-id="fr_157"></span>[130](#fn_157)
+id="fr_157"></span>[130](#fn_157.md)
 
 We turn again to Rome. We have seen that witches, to effect their secret
 ends, would cut off parts of a dead body. <span
-id="fr_158"></span>[131](#fn_158) Cemeteries, then, would be their
-favorite haunt. Horace describes <span id="fr_159"></span>[132](#fn_159)
+id="fr_158"></span>[131](#fn_158.md) Cemeteries, then, would be their
+favorite haunt. Horace describes <span id="fr_159"></span>[132](#fn_159.md)
 the magic rites of four witches, by which one of them hopes to win back
 the affection of an aged lover. A boy is captured. He is buried up to
 the neck in the ground, in the heart of the witch's house, and there
@@ -996,21 +996,21 @@ potion. Unfortunately, there is reason to suspect that witches actually
 committed such gruesome crimes in Rome. But is it so strange that
 witch-murders occurred in ancient times, when to-day, in our own
 country, one may read about similar murders for magic purposes? <span
-id="fr_160"></span>[133](#fn_160)
+id="fr_160"></span>[133](#fn_160.md)
 
 It was believed that one's strength could be impaired by treading on a
-corpse. <span id="fr_161"></span>[134](#fn_161) A boy who had been
+corpse. <span id="fr_161"></span>[134](#fn_161.md) A boy who had been
 performing acrobatic stunts on a ladder for the amusement of the guests
 at Trimalchio's dinner slipped and fell. Uproar ensued--not, as
-Petronius assures us, <span id="fr_162"></span>[135](#fn_162) because
+Petronius assures us, <span id="fr_162"></span>[135](#fn_162.md) because
 the boy had fallen, but because his death, especially since he was a
 slave, would have been ill-omened. Scipio Africanus the Elder was found
 one morning dead in bed. No inquest was made, <span
-id="fr_163"></span>[136](#fn_163) and we may readily believe that this
+id="fr_163"></span>[136](#fn_163.md) and we may readily believe that this
 omission was due to superstitious horror of the corpse. The Romans once
 refused to hazard battle because they discovered that the mound from
 which their general had addressed them was a burial place. <span
-id="fr_164"></span>[137](#fn_164) In 509 B.C., the dedication of the
+id="fr_164"></span>[137](#fn_164.md) In 509 B.C., the dedication of the
 temple of Jupiter on the Capitol fell by lot to one of the consuls,
 Horatius. The friends of the other consul jealously tried to hinder the
 dedication. They concocted a scheme which, they thought, would play on
@@ -1018,36 +1018,36 @@ Horatius' fear of contagion from death. When Horatius was already
 holding the door-post, praying to the gods, his enemies interrupted the
 rites, announcing "that his son was dead, and that he could not dedicate
 a temple when his household was thus tainted with death. <span
-id="fr_165"></span>[138](#fn_165) The consul, however, proceeded with
+id="fr_165"></span>[138](#fn_165.md) The consul, however, proceeded with
 the ceremony.
 
 In 459 B.C. the regular five-year expiatory sacrifice at Rome was not
 held, because the Capitol had been stained with the blood of exiles and
 slaves and because a consul had been slain. <span
-id="fr_166"></span>[139](#fn_166) Germanicus, having arrived at the spot
+id="fr_166"></span>[139](#fn_166.md) Germanicus, having arrived at the spot
 beyond the Rhine where the Roman general Varus and his legions had been
 annihilated by the Germans, helped with his own hands in the burial of
 his country's soldiers of an earlier day. The Emperor Tiberius, however,
 misinterpreted his actions, thinking "that a general, invested with the
 office of augur and other ancient religious functions, ought not to have
 assisted at the performance of funeral rites." <span
-id="fr_167"></span>[140](#fn_167)
+id="fr_167"></span>[140](#fn_167.md)
 
 A day was regularly set by the Roman consul for the enrollment of raw
 recruits in the army. The soldier was bound by oath to appear, unless
 prevented by specified reasons: among them the necessity of his presence
 at a funeral in his family, or at a rite of purification from contact
-with the dead. <span id="fr_168"></span>[141](#fn_168) Those who
+with the dead. <span id="fr_168"></span>[141](#fn_168.md) Those who
 attended a Roman funeral procession, "on returning, were sprinkled with
 water and walked over fire. . . ." <span
-id="fr_169"></span>[142](#fn_169) After a dead body had been taken out
+id="fr_169"></span>[142](#fn_169.md) After a dead body had been taken out
 of a Roman house, a ceremonial sweeping of the house took place,
 performed probably by the heir, but possibly, as Ovid intimates, <span
-id="fr_170"></span>[143](#fn_170) by an officer, an assistant of the
+id="fr_170"></span>[143](#fn_170.md) by an officer, an assistant of the
 Priest of Jupiter.
 
 Frazer furnishes a parallel to this custom. He writes: <span
-id="fr_171"></span>[144](#fn_171) " . . . in Thuringia three heaps of
+id="fr_171"></span>[144](#fn_171.md) " . . . in Thuringia three heaps of
 salt are placed on the floor of a house in which a person has died; the
 room is then swept out, and the sweepings and the broom are carried to
 the churchyard or to the field; sometimes the mattress is burned in the
@@ -1056,38 +1056,38 @@ from returning." The ceremonial sweeping in such rites is to brush the
 ghost of the dead man out of the house. Salt was regularly used in
 purifying rites among all peoples; and salt and spelt are also regular
 offerings to the souls of the dead. <span
-id="fr_172"></span>[145](#fn_172)
+id="fr_172"></span>[145](#fn_172.md)
 
 The boy who carried the whitethorn torch in the wedding procession to
 the house of the bridegroom had to be the child of parents who were
-still living. <span id="fr_173"></span>[146](#fn_173) This requirement
+still living. <span id="fr_173"></span>[146](#fn_173.md) This requirement
 also applied to boys who sang in the chorus at the Secular Games. <span
-id="fr_174"></span>[147](#fn_174) The taboo on death doubtless caused
+id="fr_174"></span>[147](#fn_174.md) The taboo on death doubtless caused
 this restriction; for if the parents were dead, the boys might have
 adversely affected the rites. The Priest of Jupiter was not allowed to
 set foot on a grave or touch a dead body. <span
-id="fr_175"></span>[148](#fn_175) It was the custom of the Romans to
+id="fr_175"></span>[148](#fn_175.md) It was the custom of the Romans to
 place a cypress before the house where a person had died, that the Chief
 Priest (Pontifex Maximus) might avoid contamination by shunning
-it. <span id="fr_176"></span>[149](#fn_176)
+it. <span id="fr_176"></span>[149](#fn_176.md)
 
 Not only were corpses considered dangerous, but so also were days on
 which the Romans celebrated the Festival of the Dead, when temples were
 closed, the altars were cold, and it was unpropitious for girls to
-marry. <span id="fr_177"></span>[150](#fn_177) The Laws of the Twelve
+marry. <span id="fr_177"></span>[150](#fn_177.md) The Laws of the Twelve
 Tables forbade the cremation or burial of a dead body within the city
-walls. <span id="fr_178"></span>[151](#fn_178) A law passed in 260 B.C.
+walls. <span id="fr_178"></span>[151](#fn_178.md) A law passed in 260 B.C.
 forbade burials in the city of Rome. Victorious generals and Vestals,
 however, were exempt from this prohibition. <span
-id="fr_179"></span>[152](#fn_179)
+id="fr_179"></span>[152](#fn_179.md)
 
 The nearest equivalent, perhaps, to the word taboo in Latin is religio;
 and it seems that the Romans at times used this word in the sense of
-taboo on death. <span id="fr_180"></span>[153](#fn_180) Varro, for
+taboo on death. <span id="fr_180"></span>[153](#fn_180.md) Varro, for
 instance, uses the term religiosa, with this connotation, of certain
 personal belongings of King Numa which, according to tradition, were
 believed to have been placed after his death in jars at a spot near the
-Cloaca Maxima in Rome. <span id="fr_181"></span>[154](#fn_181)
+Cloaca Maxima in Rome. <span id="fr_181"></span>[154](#fn_181.md)
 
 The origin of the feeling with regard to the dead seems to lie in man's
 instinct for self-preservation. We may give as an additional reason one
@@ -1109,27 +1109,27 @@ Leather, unless it were the skin of a sacrificial animal, was often
 considered dangerous by ancient peoples. Thus leather was prohibited in
 the worship of Carmentis, a goddess popular with prospective mothers;
 and the reason for this prohibition was, according to Ovid, <span
-id="fr_182"></span>[155](#fn_182) the fear that it might pollute the
+id="fr_182"></span>[155](#fn_182.md) the fear that it might pollute the
 pure altars of the goddess. A woman would naturally fear that any part
 of a dead animal might cause death to the child or to herself. The taboo
 on leather seems to have applied also in other rites. <span
-id="fr_183"></span>[156](#fn_183) The wife of the Priest of Jupiter
+id="fr_183"></span>[156](#fn_183.md) The wife of the Priest of Jupiter
 (Flaminica Dialis) might wear shoes or sandals made only of the skin of
 the sacrificial animal, or of an animal that had not met death
 naturally; for animals that had died natural deaths were considered
-unlucky. <span id="fr_184"></span>[157](#fn_184) The Jews were forbidden
+unlucky. <span id="fr_184"></span>[157](#fn_184.md) The Jews were forbidden
 to eat a beast which had died a natural death:  <span
-id="fr_185"></span>[158](#fn_185) "And if any beast, of which ye eat,
+id="fr_185"></span>[158](#fn_185.md) "And if any beast, of which ye eat,
 die; he that toucheth the carcass thereof shall be unclean until the
 even."
 
 At the Lupercalia the youthful priests wore skins of the sacrificial
 animals about their loins and used lashes made of them. They were
-otherwise naked. <span id="fr_186"></span>[159](#fn_186) We have seen
+otherwise naked. <span id="fr_186"></span>[159](#fn_186.md) We have seen
 that in the ceremony of rain-making women walked barefoot. <span
-id="fr_187"></span>[160](#fn_187) According to the testimony of Ovid
+id="fr_187"></span>[160](#fn_187.md) According to the testimony of Ovid
 women were also barefoot at the worship of Vesta. <span
-id="fr_188"></span>[161](#fn_188) The taboo in these cases may be
+id="fr_188"></span>[161](#fn_188.md) The taboo in these cases may be
 ascribed both to the fear of knots and of things which bind and to the
 fear of leather.
 
@@ -1147,10 +1147,10 @@ principle which we shall note in our treatment of the taboo on knots.
 The days following the Kalends, the Nones, and the Ides of every month
 were called black days (dies atri) by the Romans. On these days no
 battle might be fought, no sacrifice made, no business, public or
-private, undertaken. <span id="fr_189"></span>[162](#fn_189)
+private, undertaken. <span id="fr_189"></span>[162](#fn_189.md)
 Occasionally, however, the taboo on sacrifice was waived, as, for
 example, after the defeat of the Romans at Lake Trasimenus when Hannibal
-threatened Rome. <span id="fr_190"></span>[163](#fn_190)
+threatened Rome. <span id="fr_190"></span>[163](#fn_190.md)
 
 The Romans themselves explained black days as instituted by a decree of
 the pontiffs in 389 B.C., made because on these days they had suffered
@@ -1164,7 +1164,7 @@ prohibition of sacrifices on that day in later times.
 The taboo on these days, if the historical explanation is correct--as
 well it may be--was artificial and not truly primitive. However, there
 is a possible explanation in another direction. <span
-id="fr_191"></span>[164](#fn_191) The Hindoos call the days when the
+id="fr_191"></span>[164](#fn_191.md) The Hindoos call the days when the
 moon is waning the "dark half" of the month, and when it is waxing they
 call it the "bright half." Now in Latin the word quinquatrus, the fifth
 day after the period when the moon is full and at its brightest--the
@@ -1182,7 +1182,7 @@ November were termed dies religiosi. On these days the spirits of the
 dead (manes) were believed to issue forth into the upper world through
 the mundus--the name given to a trench or entrance to a vault in the
 city of Romulus which was believed to be the gate of hell. <span
-id="fr_192"></span>[165](#fn_192) On these days, again, no public
+id="fr_192"></span>[165](#fn_192.md) On these days, again, no public
 business might be undertaken, no battle fought, no army conscripted.
 This taboo is ascribable to the taboo on death and corpses. So, too, the
 taboo on death accounts for the fact that the days of the Parentalia in
@@ -1190,482 +1190,482 @@ February and those of the Lemuria in May were religiosi. On the days in
 February known collectively as the Parentalia no temple might be open,
 no fire might burn on the altars, and no marriages could be performed.
 The magistrates laid aside their official dress for the day and wore
-that of ordinary citizens. <span id="fr_193"></span>[166](#fn_193)
+that of ordinary citizens. <span id="fr_193"></span>[166](#fn_193.md)
 
 June seventh, when the temple of Vesta was allowed to remain open, was
-religiosus. Fowler ascribes  <span id="fr_194"></span>[167](#fn_194) the
+religiosus. Fowler ascribes  <span id="fr_194"></span>[167](#fn_194.md) the
 taboo on the day to ". . . some mystical purification or disinfection
 preparatory to the ingathering of the crops." It was considered unlucky
 for a Roman girl to marry on the Kalends, the Nones, or the Ides of any
 month. The pontiffs had decreed them "black" because, whenever on these
 days Roman generals petitioned the gods for success in battle, disasters
-followed. <span id="fr_195"></span>[168](#fn_195)
+followed. <span id="fr_195"></span>[168](#fn_195.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_28"></span>[1](tms04.htm#fr_28) Chapter IV, pp. 124-126.
+<span id="fn_28"></span>[1](tms04.htm#fr_28.md) Chapter IV, pp. 124-126.
 
-<span id="fn_29"></span>[2](tms04.htm#fr_29) Aelius Lampridius, Commodus
+<span id="fn_29"></span>[2](tms04.htm#fr_29.md) Aelius Lampridius, Commodus
 Anioninus XVI. 6.
 
-<span id="fn_30"></span>[3](tms04.htm#fr_30) The Religious Experience of
+<span id="fn_30"></span>[3](tms04.htm#fr_30.md) The Religious Experience of
 the Roman People, P. 33.
 
-<span id="fn_31"></span>[4](tms04.htm#fr_31) Primitive Culture in Italy,
+<span id="fn_31"></span>[4](tms04.htm#fr_31.md) Primitive Culture in Italy,
 pp. 193-194.
 
-<span id="fn_32"></span>[5](tms04.htm#fr_32) Naturales Quaestiones
+<span id="fn_32"></span>[5](tms04.htm#fr_32.md) Naturales Quaestiones
 IV(b). 7, 2.
 
-<span id="fn_33"></span>[6](tms04.htm#fr_33) See Frazer, The Golden
+<span id="fn_33"></span>[6](tms04.htm#fr_33.md) See Frazer, The Golden
 Bough, Vol. II, pp. 253-254.
 
-<span id="fn_34"></span>[7](tms04.htm#fr_34) I. 5, 49.
+<span id="fn_34"></span>[7](tms04.htm#fr_34.md) I. 5, 49.
 
-<span id="fn_35"></span>[8](tms04.htm#fr_35) Fasti II. 45-46.
+<span id="fn_35"></span>[8](tms04.htm#fr_35.md) Fasti II. 45-46.
 
-<span id="fn_36"></span>[9](tms04.htm#fr_36) Servius on Vergil's Aeneid
+<span id="fn_36"></span>[9](tms04.htm#fr_36.md) Servius on Vergil's Aeneid
 V. 79.
 
-<span id="fn_37"></span>[10](tms04.htm#fr_37) Genesis IX. 4; Leviticus
+<span id="fn_37"></span>[10](tms04.htm#fr_37.md) Genesis IX. 4; Leviticus
 XVII. 11-14.
 
-<span id="fn_38"></span>[11](tms04.htm#fr_38) Livy XXIV. 10; Plutarch,
+<span id="fn_38"></span>[11](tms04.htm#fr_38.md) Livy XXIV. 10; Plutarch,
 Romulus XXIV; Vergil, Georgica I. 485; Apuleius, Metamorphoses IX. 34;
 Cicero, De Divinatione I. 98.
 
-<span id="fn_39"></span>[12](tms04.htm#fr_39) Livy III. 10. 6.
+<span id="fn_39"></span>[12](tms04.htm#fr_39.md) Livy III. 10. 6.
 
-<span id="fn_40"></span>[13](tms04.htm#fr_40) Livy XXII. 36.
+<span id="fn_40"></span>[13](tms04.htm#fr_40.md) Livy XXII. 36.
 
-<span id="fn_41"></span>[14](tms04.htm#fr_41) Livy XXII. 1.
+<span id="fn_41"></span>[14](tms04.htm#fr_41.md) Livy XXII. 1.
 
-<span id="fn_42"></span>[15](tms04.htm#fr_42) Livy I. 48, 7.
+<span id="fn_42"></span>[15](tms04.htm#fr_42.md) Livy I. 48, 7.
 
-<span id="fn_43"></span>[16](tms04.htm#fr_43) Livy XXI. 63.
+<span id="fn_43"></span>[16](tms04.htm#fr_43.md) Livy XXI. 63.
 
-<span id="fn_44"></span>[17](tms04.htm#fr_44) Livy III. 18, 10.
+<span id="fn_44"></span>[17](tms04.htm#fr_44.md) Livy III. 18, 10.
 
-<span id="fn_45"></span>[18](tms04.htm#fr_45) Suetonius, Caligula LVII.
+<span id="fn_45"></span>[18](tms04.htm#fr_45.md) Suetonius, Caligula LVII.
 4.
 
-<span id="fn_46"></span>[19](tms04.htm#fr_46) Suetonius, Domilian IX. 1.
+<span id="fn_46"></span>[19](tms04.htm#fr_46.md) Suetonius, Domilian IX. 1.
 
-<span id="fn_47"></span>[20](tms04.htm#fr_47) Sallust, Bellum Catilinum
+<span id="fn_47"></span>[20](tms04.htm#fr_47.md) Sallust, Bellum Catilinum
 XXII. 1-2.
 
-<span id="fn_48"></span>[21](tms04.htm#fr_48) Tacitus, Annales I. 44.
+<span id="fn_48"></span>[21](tms04.htm#fr_48.md) Tacitus, Annales I. 44.
 
-<span id="fn_49"></span>[22](tms04.htm#fr_49) Livy I. 59, 1.
+<span id="fn_49"></span>[22](tms04.htm#fr_49.md) Livy I. 59, 1.
 
-<span id="fn_50"></span>[23](tms04.htm#fr_50) Noctes Atticae X. 8.
+<span id="fn_50"></span>[23](tms04.htm#fr_50.md) Noctes Atticae X. 8.
 
-<span id="fn_51"></span>[24](tms04.htm#fr_51) See Ovid, Fasti I.
+<span id="fn_51"></span>[24](tms04.htm#fr_51.md) See Ovid, Fasti I.
 349-350; Vergil, Georgica II. 536-537; Plutarch, Numa XII. 1.
 
-<span id="fn_52"></span>[25](tms04.htm#fr_52) Ovid, Fasti I. 349.
+<span id="fn_52"></span>[25](tms04.htm#fr_52.md) Ovid, Fasti I. 349.
 
-<span id="fn_53"></span>[26](tms04.htm#fr_53) Varro in Censorinus III.
+<span id="fn_53"></span>[26](tms04.htm#fr_53.md) Varro in Censorinus III.
 
-<span id="fn_54"></span>[27](tms04.htm#fr_54) Ovid, Fasti III. 811.
+<span id="fn_54"></span>[27](tms04.htm#fr_54.md) Ovid, Fasti III. 811.
 
-<span id="fn_55"></span>[28](tms04.htm#fr_55) Tacitus, Historiae II. 3;
+<span id="fn_55"></span>[28](tms04.htm#fr_55.md) Tacitus, Historiae II. 3;
 Plutarch, Quaestiones Romanae XV.
 
-<span id="fn_56"></span>[29](tms04.htm#fr_56) Romulus XII. 1; Solinus I.
+<span id="fn_56"></span>[29](tms04.htm#fr_56.md) Romulus XII. 1; Solinus I.
 19.
 
-<span id="fn_57"></span>[30](tms04.htm#fr_57) The Religious Experience
+<span id="fn_57"></span>[30](tms04.htm#fr_57.md) The Religious Experience
 of the Roman People, p. 33.
 
-<span id="fn_58"></span>[31](tms04.htm#fr_58) Aulus Gellius, Noctes
+<span id="fn_58"></span>[31](tms04.htm#fr_58.md) Aulus Gellius, Noctes
 Atticae X. 15, 12; see Frazer, Taboo, Vol. II, p. 239; Leviticus VII.
 26.
 
-<span id="fn_59"></span>[32](tms04.htm#fr_59) Quaestiones Romanae CX.
+<span id="fn_59"></span>[32](tms04.htm#fr_59.md) Quaestiones Romanae CX.
 
-<span id="fn_60"></span>[33](tms04.htm#fr_60) Julius Capitolinus,
+<span id="fn_60"></span>[33](tms04.htm#fr_60.md) Julius Capitolinus,
 Maximus et Balbinus V. 3-4.
 
-<span id="fn_61"></span>[34](tms04.htm#fr_61) Festus: Ederam (Mueller,
+<span id="fn_61"></span>[34](tms04.htm#fr_61.md) Festus: Ederam (Mueller,
 p. 82) ; Plutarch, Quaestiones Romanae CXII.
 
-<span id="fn_62"></span>[35](tms04.htm#fr_62) The Golden Bough, Vol. II.
+<span id="fn_62"></span>[35](tms04.htm#fr_62.md) The Golden Bough, Vol. II.
 pp. 259-264.
 
-<span id="fn_63"></span>[36](tms04.htm#fr_63) See Chapter III, Knots,
+<span id="fn_63"></span>[36](tms04.htm#fr_63.md) See Chapter III, Knots,
 pp. 109-112.
 
-<span id="fn_64"></span>[37](tms04.htm#fr_64) Fasti IV. 657-658.
+<span id="fn_64"></span>[37](tms04.htm#fr_64.md) Fasti IV. 657-658.
 
-<span id="fn_65"></span>[38](tms04.htm#fr_65) Tacitus, Annales II. 14.
+<span id="fn_65"></span>[38](tms04.htm#fr_65.md) Tacitus, Annales II. 14.
 
-<span id="fn_66"></span>[39](tms04.htm#fr_66) Vergil, Aeneid II. 717.
+<span id="fn_66"></span>[39](tms04.htm#fr_66.md) Vergil, Aeneid II. 717.
 
-<span id="fn_67"></span>[40](tms04.htm#fr_67) Festus: October equus
+<span id="fn_67"></span>[40](tms04.htm#fr_67.md) Festus: October equus
 (Mueller. p. 178).
 
-<span id="fn_68"></span>[41](tms04.htm#fr_68) Ovid, Fasti IV. 721-862.
+<span id="fn_68"></span>[41](tms04.htm#fr_68.md) Ovid, Fasti IV. 721-862.
 
-<span id="fn_69"></span>[42](tms04.htm#fr_69) Plutarch, Romulus XXI;
+<span id="fn_69"></span>[42](tms04.htm#fr_69.md) Plutarch, Romulus XXI;
 Fowler, The Roman Festivals, p. 311.
 
-<span id="fn_70"></span>[43](tms04.htm#fr_70) Siculus Flaccus in
+<span id="fn_70"></span>[43](tms04.htm#fr_70.md) Siculus Flaccus in
 Gromatici Veleres I. 141.
 
-<span id="fn_71"></span>[44](tms04.htm#fr_71) The Idea of God, p. 5.
+<span id="fn_71"></span>[44](tms04.htm#fr_71.md) The Idea of God, p. 5.
 
-<span id="fn_72"></span>[45](tms04.htm#fr_72) Livy I. 32, 12.
+<span id="fn_72"></span>[45](tms04.htm#fr_72.md) Livy I. 32, 12.
 
-<span id="fn_73"></span>[46](tms04.htm#fr_73) Festus: Laureati (Mueller,
+<span id="fn_73"></span>[46](tms04.htm#fr_73.md) Festus: Laureati (Mueller,
 p. 117).
 
-<span id="fn_74"></span>[47](tms04.htm#fr_74) Servius on Vergil's Aeneid
+<span id="fn_74"></span>[47](tms04.htm#fr_74.md) Servius on Vergil's Aeneid
 XII. 120; Pliny, Naturalis Historia XXII. 5.
 
-<span id="fn_75"></span>[48](tms04.htm#fr_75) Festus: Armilustrium
+<span id="fn_75"></span>[48](tms04.htm#fr_75.md) Festus: Armilustrium
 (Mueller, p. 19); Charisius I (Keil, p. 81); Varro, De Lingua Latina V.
 153, VI. 22.
 
-<span id="fn_76"></span>[49](tms04.htm#fr_76) Fowler, The Religious
+<span id="fn_76"></span>[49](tms04.htm#fr_76.md) Fowler, The Religious
 Experience of The Roman People, pp. 97 and 217.
 
-<span id="fn_77"></span>[50](tms04.htm#fr_77) Livy I. 28, 1.
+<span id="fn_77"></span>[50](tms04.htm#fr_77.md) Livy I. 28, 1.
 
-<span id="fn_78"></span>[51](tms04.htm#fr_78) Frazer, The Fasti of Ovid,
+<span id="fn_78"></span>[51](tms04.htm#fr_78.md) Frazer, The Fasti of Ovid,
 Vol. II, p. 235.
 
-<span id="fn_79"></span>[52](tms04.htm#fr_79) Annales II. 17.
+<span id="fn_79"></span>[52](tms04.htm#fr_79.md) Annales II. 17.
 
-<span id="fn_80"></span>[53](tms04.htm#fr_80) Fred Puleston, African
+<span id="fn_80"></span>[53](tms04.htm#fr_80.md) Fred Puleston, African
 Drums, p. 95.
 
-<span id="fn_81"></span>[54](tms04.htm#fr_81) Aelius Spartianus,
+<span id="fn_81"></span>[54](tms04.htm#fr_81.md) Aelius Spartianus,
 Septimius Severus XI. 8.
 
-<span id="fn_82"></span>[55](tms04.htm#fr_82) Leviticus XII. 2-4.
+<span id="fn_82"></span>[55](tms04.htm#fr_82.md) Leviticus XII. 2-4.
 
-<span id="fn_83"></span>[56](tms04.htm#fr_83) Ibid. XII. 2-4.
+<span id="fn_83"></span>[56](tms04.htm#fr_83.md) Ibid. XII. 2-4.
 
-<span id="fn_84"></span>[57](tms04.htm#fr_84) Ibid. XII. 4.
+<span id="fn_84"></span>[57](tms04.htm#fr_84.md) Ibid. XII. 4.
 
-<span id="fn_85"></span>[58](tms04.htm#fr_85) Ibid. XV. 19.
+<span id="fn_85"></span>[58](tms04.htm#fr_85.md) Ibid. XV. 19.
 
-<span id="fn_86"></span>[59](tms04.htm#fr_86) Naturalis Historia VII.
+<span id="fn_86"></span>[59](tms04.htm#fr_86.md) Naturalis Historia VII.
 63.
 
-<span id="fn_87"></span>[60](tms04.htm#fr_87) Glimpses of Unfamiliar
+<span id="fn_87"></span>[60](tms04.htm#fr_87.md) Glimpses of Unfamiliar
 Japan, p. 126.
 
-<span id="fn_88"></span>[61](tms04.htm#fr_88) The Herald Tribune (New
+<span id="fn_88"></span>[61](tms04.htm#fr_88.md) The Herald Tribune (New
 York City), February 4, 1930, p. 2.
 
-<span id="fn_89"></span>[62](tms04.htm#fr_89) Cato, De Agricultura
+<span id="fn_89"></span>[62](tms04.htm#fr_89.md) Cato, De Agricultura
 LXXXIII.
 
-<span id="fn_90"></span>[63](tms04.htm#fr_90) Macrobius, Saturnalia I.
+<span id="fn_90"></span>[63](tms04.htm#fr_90.md) Macrobius, Saturnalia I.
 12, 28; Propertius V. 9 (Lucian Mueller) ; see Frazer, The Fasti of
 Ovid, Vol. II, p. 215.
 
-<span id="fn_91"></span>[64](tms04.htm#fr_91) The Roman Festivals, p.
+<span id="fn_91"></span>[64](tms04.htm#fr_91.md) The Roman Festivals, p.
 143.
 
-<span id="fn_92"></span>[65](tms04.htm#fr_92) Tertullian, Ad Nationes
+<span id="fn_92"></span>[65](tms04.htm#fr_92.md) Tertullian, Ad Nationes
 II. 7.
 
-<span id="fn_93"></span>[66](tms04.htm#fr_93) The Fasti of Ovid, Vol.
+<span id="fn_93"></span>[66](tms04.htm#fr_93.md) The Fasti of Ovid, Vol.
 II. p. 217.
 
-<span id="fn_94"></span>[67](tms04.htm#fr_94) Festus: Exesto (Mueller,
+<span id="fn_94"></span>[67](tms04.htm#fr_94.md) Festus: Exesto (Mueller,
 p. 82).
 
-<span id="fn_95"></span>[68](tms04.htm#fr_95) Gellius, Noctes Atticae
+<span id="fn_95"></span>[68](tms04.htm#fr_95.md) Gellius, Noctes Atticae
 IV. 3. 3.
 
-<span id="fn_96"></span>[69](tms04.htm#fr_96) Cato, De Agricultura
+<span id="fn_96"></span>[69](tms04.htm#fr_96.md) Cato, De Agricultura
 CXLIII. 2.
 
-<span id="fn_97"></span>[70](tms04.htm#fr_97) Ovid, Fasti II. 645-646.
+<span id="fn_97"></span>[70](tms04.htm#fr_97.md) Ovid, Fasti II. 645-646.
 
-<span id="fn_98"></span>[71](tms04.htm#fr_98) Ovid, Fasti III. 725-726;
+<span id="fn_98"></span>[71](tms04.htm#fr_98.md) Ovid, Fasti III. 725-726;
 Varro, De Lingua Latina VI. 14.
 
-<span id="fn_99"></span>[72](tms04.htm#fr_99) Horace, Sermones 1. 9.
+<span id="fn_99"></span>[72](tms04.htm#fr_99.md) Horace, Sermones 1. 9.
 
-<span id="fn_100"></span>[73](tms04.htm#fr_100) Horace, Epodi V.
+<span id="fn_100"></span>[73](tms04.htm#fr_100.md) Horace, Epodi V.
 
-<span id="fn_101"></span>[74](tms04.htm#fr_101) Satyricon LXIII.
+<span id="fn_101"></span>[74](tms04.htm#fr_101.md) Satyricon LXIII.
 
-<span id="fn_102"></span>[75](tms04.htm#fr_102) Lucan, Bellum Civile VI.
+<span id="fn_102"></span>[75](tms04.htm#fr_102.md) Lucan, Bellum Civile VI.
 557-558.
 
-<span id="fn_103"></span>[76](tms04.htm#fr_103) Aelius Lampridius,
+<span id="fn_103"></span>[76](tms04.htm#fr_103.md) Aelius Lampridius,
 Diadumenus Antoninus IV. 2.
 
-<span id="fn_104"></span>[77](tms04.htm#fr_104) Pliny, Epistulae VI. 2,
+<span id="fn_104"></span>[77](tms04.htm#fr_104.md) Pliny, Epistulae VI. 2,
 2.
 
-<span id="fn_105"></span>[78](tms04.htm#fr_105) In Vatinium XIV.
+<span id="fn_105"></span>[78](tms04.htm#fr_105.md) In Vatinium XIV.
 
-<span id="fn_106"></span>[79](tms04.htm#fr_106) Apologia I. 18.
+<span id="fn_106"></span>[79](tms04.htm#fr_106.md) Apologia I. 18.
 
-<span id="fn_107"></span>[80](tms04.htm#fr_107) Aelius Lampridius,
+<span id="fn_107"></span>[80](tms04.htm#fr_107.md) Aelius Lampridius,
 Heliogabalus VIII. 1-2.
 
-<span id="fn_108"></span>[81](tms04.htm#fr_108) Macrobius, Saturnalia I.
+<span id="fn_108"></span>[81](tms04.htm#fr_108.md) Macrobius, Saturnalia I.
 7, 34-35.
 
-<span id="fn_109"></span>[82](tms04.htm#fr_109) Apuleius, Apologia
+<span id="fn_109"></span>[82](tms04.htm#fr_109.md) Apuleius, Apologia
 XLII-XLIII.
 
-<span id="fn_110"></span>[83](tms04.htm#fr_110) Gellius, Noctes Atticae
+<span id="fn_110"></span>[83](tms04.htm#fr_110.md) Gellius, Noctes Atticae
 I. 12.
 
-<span id="fn_111"></span>[84](tms04.htm#fr_111) De Divinatione I. 46,
+<span id="fn_111"></span>[84](tms04.htm#fr_111.md) De Divinatione I. 46,
 103.
 
-<span id="fn_112"></span>[85](tms04.htm#fr_112) XXIV. 10.
+<span id="fn_112"></span>[85](tms04.htm#fr_112.md) XXIV. 10.
 
-<span id="fn_113"></span>[86](tms04.htm#fr_113) Aelius Spartianus,
+<span id="fn_113"></span>[86](tms04.htm#fr_113.md) Aelius Spartianus,
 Didius Julianus VII. 10-11.
 
-<span id="fn_114"></span>[87](tms04.htm#fr_114) See Eli E. Burriss, in
+<span id="fn_114"></span>[87](tms04.htm#fr_114.md) See Eli E. Burriss, in
 Classical Philology, XXIV (1929), pp. 151-153.
 
-<span id="fn_115"></span>[88](tms04.htm#fr_115) T. W. Thompson, Journal
+<span id="fn_115"></span>[88](tms04.htm#fr_115.md) T. W. Thompson, Journal
 of the Gypsy Folklore Society VIII (1929), pp. 33-39.
 
-<span id="fn_116"></span>[89](tms04.htm#fr_116) Caesar, Bellum Gallicum
+<span id="fn_116"></span>[89](tms04.htm#fr_116.md) Caesar, Bellum Gallicum
 VI. 18.
 
-<span id="fn_117"></span>[90](tms04.htm#fr_117) De Civitate Dei VI. 9.
+<span id="fn_117"></span>[90](tms04.htm#fr_117.md) De Civitate Dei VI. 9.
 
-<span id="fn_118"></span>[91](tms04.htm#fr_118) See W. Warde Fowler, in
+<span id="fn_118"></span>[91](tms04.htm#fr_118.md) See W. Warde Fowler, in
 Classical Review, X (1896), p. 317.
 
-<span id="fn_119"></span>[92](tms04.htm#fr_119) See Frazer, The Fasti of
+<span id="fn_119"></span>[92](tms04.htm#fr_119.md) See Frazer, The Fasti of
 Ovid, Vol. III, p. 139.
 
-<span id="fn_120"></span>[93](tms04.htm#fr_120) Fasti VI. 155-162.
+<span id="fn_120"></span>[93](tms04.htm#fr_120.md) Fasti VI. 155-162.
 
-<span id="fn_121"></span>[94](tms04.htm#fr_121) I. 24, 8.
+<span id="fn_121"></span>[94](tms04.htm#fr_121.md) I. 24, 8.
 
-<span id="fn_122"></span>[95](tms04.htm#fr_122) II. 31-34.
+<span id="fn_122"></span>[95](tms04.htm#fr_122.md) II. 31-34.
 
-<span id="fn_123"></span>[96](tms04.htm#fr_123) Tertullian, Ad Nationes
+<span id="fn_123"></span>[96](tms04.htm#fr_123.md) Tertullian, Ad Nationes
 II. 11; Lactantius, Institutiones I. 20, 36.
 
-<span id="fn_124"></span>[97](tms04.htm#fr_124) Naturalis Historia VII.
+<span id="fn_124"></span>[97](tms04.htm#fr_124.md) Naturalis Historia VII.
 6.
 
-<span id="fn_125"></span>[98](tms04.htm#fr_125) Ibid., VII. 7.
+<span id="fn_125"></span>[98](tms04.htm#fr_125.md) Ibid., VII. 7.
 
-<span id="fn_126"></span>[99](tms04.htm#fr_126) Ibid., VII. 15.
+<span id="fn_126"></span>[99](tms04.htm#fr_126.md) Ibid., VII. 15.
 
-<span id="fn_127"></span>[100](tms04.htm#fr_127) Ibid., VII. 3.
+<span id="fn_127"></span>[100](tms04.htm#fr_127.md) Ibid., VII. 3.
 
-<span id="fn_128"></span>[101](tms04.htm#fr_128) Ibis., VII. 3.
+<span id="fn_128"></span>[101](tms04.htm#fr_128.md) Ibis., VII. 3.
 
-<span id="fn_129"></span>[102](tms04.htm#fr_129) Julius Capitolinus,
+<span id="fn_129"></span>[102](tms04.htm#fr_129.md) Julius Capitolinus,
 Clodius Albinus V. 9.
 
-<span id="fn_130"></span>[103](tms04.htm#fr_130) Suetonius, Vespasianus
+<span id="fn_130"></span>[103](tms04.htm#fr_130.md) Suetonius, Vespasianus
 V. 2.
 
-<span id="fn_131"></span>[104](tms04.htm#fr_131) Tertullian, Ad Nationes
+<span id="fn_131"></span>[104](tms04.htm#fr_131.md) Tertullian, Ad Nationes
 II. 11.
 
-<span id="fn_132"></span>[105](tms04.htm#fr_132) By H. J. Rose in
+<span id="fn_132"></span>[105](tms04.htm#fr_132.md) By H. J. Rose in
 Primitive Culture in Italy, p. 133.
 
-<span id="fn_133"></span>[106](tms04.htm#fr_133) Fasti I. 629-633. See
+<span id="fn_133"></span>[106](tms04.htm#fr_133.md) Fasti I. 629-633. See
 E. S. McCartney, Sex Determination and Sex Control in Antiquity, in
 American journal of Philology, XLIII, pp. 62-70.
 
-<span id="fn_134"></span>[107](tms04.htm#fr_134) The Roman Festivals, p.
+<span id="fn_134"></span>[107](tms04.htm#fr_134.md) The Roman Festivals, p.
 292.
 
-<span id="fn_135"></span>[108](tms04.htm#fr_135) Fasti I. 629.
+<span id="fn_135"></span>[108](tms04.htm#fr_135.md) Fasti I. 629.
 
-<span id="fn_136"></span>[109](tms04.htm#fr_136) See Frazer. The Fasti
+<span id="fn_136"></span>[109](tms04.htm#fr_136.md) See Frazer. The Fasti
 of Ovid, Vol. II, p. 181.
 
-<span id="fn_137"></span>[110](tms04.htm#fr_137) Festus: Egeriae nymphae
+<span id="fn_137"></span>[110](tms04.htm#fr_137.md) Festus: Egeriae nymphae
 (Mueller, p. 77).
 
-<span id="fn_138"></span>[111](tms04.htm#fr_138) Pliny, Naturalis
+<span id="fn_138"></span>[111](tms04.htm#fr_138.md) Pliny, Naturalis
 Historia XXXI. 9.
 
-<span id="fn_139"></span>[112](tms04.htm#fr_139) Festus: Lustrici
+<span id="fn_139"></span>[112](tms04.htm#fr_139.md) Festus: Lustrici
 (Mueller, p. 120).
 
-<span id="fn_140"></span>[113](tms04.htm#fr_140) Ovid, Fasti III.
+<span id="fn_140"></span>[113](tms04.htm#fr_140.md) Ovid, Fasti III.
 771-777; Persius V. 30-31; Suetonius, Divus Julius LXXXIV. 4; De
 Rhetoribus I; Festus: Bulla aurea (Mueller, p. 36) ; Macrobius,
 Saturnalia I. 6, 16; Plutarch, Romulus XXV. 5, Quaestiones Romanae CI.
 
-<span id="fn_141"></span>[114](tms04.htm#fr_141) H. J. Rose, Primitive
+<span id="fn_141"></span>[114](tms04.htm#fr_141.md) H. J. Rose, Primitive
 Culture in Italy, p. 135.
 
-<span id="fn_142"></span>[115](tms04.htm#fr_142) Incertus Auctor, De
+<span id="fn_142"></span>[115](tms04.htm#fr_142.md) Incertus Auctor, De
 Praenominibus III (text at the end of C. Kempfe's edition of Valerius
 Maximus).
 
-<span id="fn_143"></span>[116](tms04.htm#fr_143) See Frazer, The Fasti
+<span id="fn_143"></span>[116](tms04.htm#fr_143.md) See Frazer, The Fasti
 of Ovid, Vol. IV, p. 186.
 
-<span id="fn_144"></span>[117](tms04.htm#fr_144) Pliny the Elder,
+<span id="fn_144"></span>[117](tms04.htm#fr_144.md) Pliny the Elder,
 Naturalis Historia VII, 72.
 
-<span id="fn_145"></span>[118](tms04.htm#fr_145) Epistulae V. 8.
+<span id="fn_145"></span>[118](tms04.htm#fr_145.md) Epistulae V. 8.
 
-<span id="fn_146"></span>[119](tms04.htm#fr_146) Horace, Carmina III.
+<span id="fn_146"></span>[119](tms04.htm#fr_146.md) Horace, Carmina III.
 23, 17; see Fowler, The Religious Experience of the Roman People, p. 74.
 
-<span id="fn_147"></span>[120](tms04.htm#fr_147) Servius on Vergil's
+<span id="fn_147"></span>[120](tms04.htm#fr_147.md) Servius on Vergil's
 Aeneid I. 730.
 
-<span id="fn_148"></span>[121](tms04.htm#fr_148) Ovid, Fasti II.
+<span id="fn_148"></span>[121](tms04.htm#fr_148.md) Ovid, Fasti II.
 650-652.
 
-<span id="fn_149"></span>[122](tms04.htm#fr_149) I. 10. 15-16.
+<span id="fn_149"></span>[122](tms04.htm#fr_149.md) I. 10. 15-16.
 
-<span id="fn_150"></span>[123](tms04.htm#fr_150) Servius on Vergil's
+<span id="fn_150"></span>[123](tms04.htm#fr_150.md) Servius on Vergil's
 Aeneid XI. 543; Festus: Camillus (Mueller, p. 43).
 
-<span id="fn_151"></span>[124](tms04.htm#fr_151) Festus: Patrimi et
+<span id="fn_151"></span>[124](tms04.htm#fr_151.md) Festus: Patrimi et
 matrimi pueri (Mueller, p. 245).
 
-<span id="fn_152"></span>[125](tms04.htm#fr_152) See Frazer, The Fasti
+<span id="fn_152"></span>[125](tms04.htm#fr_152.md) See Frazer, The Fasti
 of Ovid, Vol. II, pp. 200-201.
 
-<span id="fn_153"></span>[126](tms04.htm#fr_153) Carmen Saeculare,
+<span id="fn_153"></span>[126](tms04.htm#fr_153.md) Carmen Saeculare,
 passim. See E. S. McCartney, "The Role of the Child in Supplications,"
 in The Classical Weekly, XXII, p. 151.
 
-<span id="fn_154"></span>[127](tms04.htm#fr_154) Ernest Crawley, Studies
+<span id="fn_154"></span>[127](tms04.htm#fr_154.md) Ernest Crawley, Studies
 of Savages and Sex, p. 178.
 
-<span id="fn_155"></span>[128](tms04.htm#fr_155) Lafcadio Hearn,
+<span id="fn_155"></span>[128](tms04.htm#fr_155.md) Lafcadio Hearn,
 Glimpses of Unfamiliar Japan, p. 125.
 
-<span id="fn_156"></span>[129](tms04.htm#fr_156) Numbers V. 2.
+<span id="fn_156"></span>[129](tms04.htm#fr_156.md) Numbers V. 2.
 
-<span id="fn_157"></span>[130](tms04.htm#fr_157) Numbers XIX. 11-16.
+<span id="fn_157"></span>[130](tms04.htm#fr_157.md) Numbers XIX. 11-16.
 
-<span id="fn_158"></span>[131](tms04.htm#fr_158) Apuleius, Metamorphoses
+<span id="fn_158"></span>[131](tms04.htm#fr_158.md) Apuleius, Metamorphoses
 II. 21-26; see also Lucan, Bellum Civile Vi. 529-537.
 
-<span id="fn_159"></span>[132](tms04.htm#fr_159) Epodi V.
+<span id="fn_159"></span>[132](tms04.htm#fr_159.md) Epodi V.
 
-<span id="fn_160"></span>[133](tms04.htm#fr_160) See Theda Kenyon,
+<span id="fn_160"></span>[133](tms04.htm#fr_160.md) See Theda Kenyon,
 Witches Still Live, Chapter XXV.
 
-<span id="fn_161"></span>[134](tms04.htm#fr_161) Petronius, Satyricon
+<span id="fn_161"></span>[134](tms04.htm#fr_161.md) Petronius, Satyricon
 CXXXIV. 1.
 
-<span id="fn_162"></span>[135](tms04.htm#fr_162) Satyricon LIV.
+<span id="fn_162"></span>[135](tms04.htm#fr_162.md) Satyricon LIV.
 
-<span id="fn_163"></span>[136](tms04.htm#fr_163) Velleius Paterculus II.
+<span id="fn_163"></span>[136](tms04.htm#fr_163.md) Velleius Paterculus II.
 4, 6.
 
-<span id="fn_164"></span>[137](tms04.htm#fr_164) Plutarch, Flaminius
+<span id="fn_164"></span>[137](tms04.htm#fr_164.md) Plutarch, Flaminius
 VII. 4.
 
-<span id="fn_165"></span>[138](tms04.htm#fr_165) Livy II. 8. 6-7.
+<span id="fn_165"></span>[138](tms04.htm#fr_165.md) Livy II. 8. 6-7.
 
-<span id="fn_166"></span>[139](tms04.htm#fr_166) Livy III. 22. 1.
+<span id="fn_166"></span>[139](tms04.htm#fr_166.md) Livy III. 22. 1.
 
-<span id="fn_167"></span>[140](tms04.htm#fr_167) Tacitus, Annales I. 62.
+<span id="fn_167"></span>[140](tms04.htm#fr_167.md) Tacitus, Annales I. 62.
 
-<span id="fn_168"></span>[141](tms04.htm#fr_168) Gellius, Noctes Atticae
+<span id="fn_168"></span>[141](tms04.htm#fr_168.md) Gellius, Noctes Atticae
 XVI. 4. 4.
 
-<span id="fn_169"></span>[142](tms04.htm#fr_169) Festus: Aqua et igni
+<span id="fn_169"></span>[142](tms04.htm#fr_169.md) Festus: Aqua et igni
 (Mueller, p. 2).
 
-<span id="fn_170"></span>[143](tms04.htm#fr_170) Fasti II. 23; see
+<span id="fn_170"></span>[143](tms04.htm#fr_170.md) Fasti II. 23; see
 Festus: Everriator (Mueller, p. 77).
 
-<span id="fn_171"></span>[144](tms04.htm#fr_171) Frazer, The Fasti of
+<span id="fn_171"></span>[144](tms04.htm#fr_171.md) Frazer, The Fasti of
 Ovid, Vol. II, p. 279.
 
-<span id="fn_172"></span>[145](tms04.htm#fr_172) Frazer, The Fasli of
+<span id="fn_172"></span>[145](tms04.htm#fr_172.md) Frazer, The Fasli of
 Ovid, Vol. II, pp. 279-283.
 
-<span id="fn_173"></span>[146](tms04.htm#fr_173) Festus: Patrimi
+<span id="fn_173"></span>[146](tms04.htm#fr_173.md) Festus: Patrimi
 (Mueller, p. 245).
 
-<span id="fn_174"></span>[147](tms04.htm#fr_174) Frazer, The Fasti of
+<span id="fn_174"></span>[147](tms04.htm#fr_174.md) Frazer, The Fasti of
 Ovid, Vol. 11, p. 197.
 
-<span id="fn_175"></span>[148](tms04.htm#fr_175) Gellius, Noctes Atticae
+<span id="fn_175"></span>[148](tms04.htm#fr_175.md) Gellius, Noctes Atticae
 X. 15.24.
 
-<span id="fn_176"></span>[149](tms04.htm#fr_176) Servius on Vergil's
+<span id="fn_176"></span>[149](tms04.htm#fr_176.md) Servius on Vergil's
 Aeneid III. 64.
 
-<span id="fn_177"></span>[150](tms04.htm#fr_177) Ovid, Fasti II.
+<span id="fn_177"></span>[150](tms04.htm#fr_177.md) Ovid, Fasti II.
 557-564.
 
-<span id="fn_178"></span>[151](tms04.htm#fr_178) Cicero, De Legibus II.
+<span id="fn_178"></span>[151](tms04.htm#fr_178.md) Cicero, De Legibus II.
 23-58.
 
-<span id="fn_179"></span>[152](tms04.htm#fr_179) Servius on Vergil's
+<span id="fn_179"></span>[152](tms04.htm#fr_179.md) Servius on Vergil's
 Aeneid XI. 206.
 
-<span id="fn_180"></span>[153](tms04.htm#fr_180) Gaius, Institutiones
+<span id="fn_180"></span>[153](tms04.htm#fr_180.md) Gaius, Institutiones
 II. 4.
 
-<span id="fn_181"></span>[154](tms04.htm#fr_181) Varro, De Lingua Latina
+<span id="fn_181"></span>[154](tms04.htm#fr_181.md) Varro, De Lingua Latina
 V. 157. On sacer as equivalent to taboo see Frazer's article on "Taboo"
 in the Encyclopedia Britannica, Vol. xxiii.
 
-<span id="fn_182"></span>[155](tms04.htm#fr_182) Ovid, Fasti I. 627-629.
+<span id="fn_182"></span>[155](tms04.htm#fr_182.md) Ovid, Fasti I. 627-629.
 
-<span id="fn_183"></span>[156](tms04.htm#fr_183) Varro, De Lingua Latina
+<span id="fn_183"></span>[156](tms04.htm#fr_183.md) Varro, De Lingua Latina
 VII. 84.
 
-<span id="fn_184"></span>[157](tms04.htm#fr_184) Festus: Mortuae pecudis
+<span id="fn_184"></span>[157](tms04.htm#fr_184.md) Festus: Mortuae pecudis
 (Mueller, p. 161).
 
-<span id="fn_185"></span>[158](tms04.htm#fr_185) Leviticus XI. 39; see
+<span id="fn_185"></span>[158](tms04.htm#fr_185.md) Leviticus XI. 39; see
 also Leviticus VII. 24.
 
-<span id="fn_186"></span>[159](tms04.htm#fr_186) Ovid, Fasti II.
+<span id="fn_186"></span>[159](tms04.htm#fr_186.md) Ovid, Fasti II.
 283-284.
 
-<span id="fn_187"></span>[160](tms04.htm#fr_187) Petronius, Satyricon
+<span id="fn_187"></span>[160](tms04.htm#fr_187.md) Petronius, Satyricon
 XLIV.
 
-<span id="fn_188"></span>[161](tms04.htm#fr_188) See Fasti VI. 397.
+<span id="fn_188"></span>[161](tms04.htm#fr_188.md) See Fasti VI. 397.
 
-<span id="fn_189"></span>[162](tms04.htm#fr_189) Ovid, Fasti I. 57-58;
+<span id="fn_189"></span>[162](tms04.htm#fr_189.md) Ovid, Fasti I. 57-58;
 Festus: Religiosus (Mueller, p. 278); Varro, De Lingua Latina VI. 29;
 Livy VI. 1, 11; Macrobius, Saturnalia I. 15, 22, I. 16, 21-25; Gellius,
 Noctes Atticae V. 17, 1-2; Festus Nonarum (Mueller, p. 178); Plutarch,
 Quaestiones Romanae XXV.
 
-<span id="fn_190"></span>[163](tms04.htm#fr_190) Livy XXII. 10.
+<span id="fn_190"></span>[163](tms04.htm#fr_190.md) Livy XXII. 10.
 
-<span id="fn_191"></span>[164](tms04.htm#fr_191) I owe this explanation
+<span id="fn_191"></span>[164](tms04.htm#fr_191.md) I owe this explanation
 to Frazer, The Fasti of Ovid, Vol. II, pp. 79-82.
 
-<span id="fn_192"></span>[165](tms04.htm#fr_192) Festus: Mundus and
+<span id="fn_192"></span>[165](tms04.htm#fr_192.md) Festus: Mundus and
 Mundum (Mueller, pp. 154 and 156) Macrobius, Saturnalia 1. 16, 16-18
 (quoting Varro).
 
-<span id="fn_193"></span>[166](tms04.htm#fr_193) Joannes Lydus, De
+<span id="fn_193"></span>[166](tms04.htm#fr_193.md) Joannes Lydus, De
 Mensibus XIV. 29 (Wuensch): see Ovid, Fasti II. 557-558. 563-564.
 
-<span id="fn_194"></span>[167](tms04.htm#fr_194) The Religious
+<span id="fn_194"></span>[167](tms04.htm#fr_194.md) The Religious
 Experience of the Roman People, p. 40.
 
-<span id="fn_195"></span>[168](tms04.htm#fr_195) Festus: Nonarum
+<span id="fn_195"></span>[168](tms04.htm#fr_195.md) Festus: Nonarum
 (Mueller, p. 178).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: Miscellaneous Taboos](tms05)
+[Next: Chapter III: Miscellaneous Taboos](tms05.md)

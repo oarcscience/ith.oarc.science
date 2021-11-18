@@ -21,4 +21,4 @@ even manual labor, can be an act of worship. - *jbh*
 
 ------------------------------------------------------------------------
 
-[The Shaker Compendium](sc/sc) by F.W. Evans \[1859\]  
+[The Shaker Compendium](sc/sc.md) by F.W. Evans \[1859\]  

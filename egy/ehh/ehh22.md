@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh21)  [Next](ehh23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh21)  [Next](ehh23.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ annihilated.
 ------------------------------------------------------------------------
 
 [Next: Chapter XII. Tenth Division of the Tuat. I. Kingdom of
-Temu-Khepera-Ra According to the Book Am-Tuat](ehh23)
+Temu-Khepera-Ra According to the Book Am-Tuat](ehh23.md)

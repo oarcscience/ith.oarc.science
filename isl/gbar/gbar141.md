@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar140) [Next](gbar142)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar140) [Next](gbar142.md)
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ arrogantly and more lasciviously than one another.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar142)
+[Next](gbar142.md)

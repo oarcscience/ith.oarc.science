@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta01)  [Next](sta03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta01)  [Next](sta03.md) 
 
 ------------------------------------------------------------------------
 
@@ -282,4 +282,4 @@ The Golden Chain of Homer--Hypatia, the Alexandrian Neo-Platonist--The "divine" 
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sta03)
+[Next: Introduction](sta03.md)

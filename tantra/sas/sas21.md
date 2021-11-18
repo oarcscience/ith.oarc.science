@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tantra](../index)
- [Index](index)  [Previous](sas20)  [Next](sas22)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md)
+ [Index](index)  [Previous](sas20)  [Next](sas22.md)  
 
 ------------------------------------------------------------------------
 
@@ -642,4 +642,4 @@ then the *Purna* or Whole.
 
 ------------------------------------------------------------------------
 
-Next: [Chapter Twenty-two: Vedanta and Tantra Shastra](sas22)
+Next: [Chapter Twenty-two: Vedanta and Tantra Shastra](sas22.md)

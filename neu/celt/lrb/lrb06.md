@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lrb05)  [Next](lrb07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lrb05)  [Next](lrb07.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ went; a fool
 <span id="page_55">p. 55</span>
 
 \[paragraph continues\] I went, a fool I came back; foolishness I
-sought; a fool I hold myself." <span id="fr_19"></span>[1](#fn_19)
+sought; a fool I hold myself." <span id="fr_19"></span>[1](#fn_19.md)
 
 Our age, even less sceptical than his, sees no folly in questing for the
 beautiful, and if we expect no marvels, nor any sleight of faëry,
@@ -101,7 +101,7 @@ under a ban, outcast and abhorred.
 
 <span id="page_57">p. 57</span>
 
-### The Seigneur of Nann <span id="fr_20"></span>[1](#fn_20)
+### The Seigneur of Nann <span id="fr_20"></span>[1](#fn_20.md)
 
 The Seigneur of Nann was high of heart, for that day his bride of a year
 had presented him with two beautiful children, a boy and a girl, both
@@ -171,7 +171,7 @@ lodged here died this night."
 <span id="img_05800"></span>
 
 [![THE SEIGNEUR OF NANN AND THE KORRIGAN](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 THE SEIGNEUR OF NANN AND THE KORRIGAN  
 
  
@@ -201,7 +201,7 @@ branches of which intertwined more closely as they grew.
 
 In the depths of Lake Tegid in our own Wales dwelt Keridwen, a fertility
 goddess who possessed a magic cauldron--the sure symbol of a deity of
-abundance. <span id="fr_21"></span>[1](#fn_21) Like Demeter, she was
+abundance. <span id="fr_21"></span>[1](#fn_21.md) Like Demeter, she was
 strangely associated with the harmless necessary sow, badge of many
 earth-mothers, and itself typical of fertility. Like Keridwen, the
 Korrigan is associated with water, with the element which makes for
@@ -235,7 +235,7 @@ and the magnificence which had furnished it, became once more tree and
 thicket, its carpets moss, its tapestries leaves, its silver cups wild
 roses, and its dazzling mirrors pools of stagnant water.
 
-### The Unbroken Vow <span id="fr_22"></span>[1](#fn_22)
+### The Unbroken Vow <span id="fr_22"></span>[1](#fn_22.md)
 
 Sir Roland of Brittany rides through gloomy Broceliande a league ahead
 of his troop, unattended by squire or by page. The red cross upon his
@@ -327,7 +327,7 @@ kneeling in thanksgiving for his deliverance from the evils which beset
 him. He had been saved from breaking his vow!
 
 The nine attendant maidens of the Korrigan bring to mind a passage in
-Pomponius Mela <span id="fr_23"></span>[1](#fn_23): "Sena \[the Ile de
+Pomponius Mela <span id="fr_23"></span>[1](#fn_23.md): "Sena \[the Ile de
 Sein, not far from Brest\], in the British Sea, opposite the Ofismician
 coast, is remarkable for an oracle of the Gallic god. Its priestesses,
 holy in perpetual virginity, are said to be nine in number. They are
@@ -342,7 +342,7 @@ But this they do only for navigators, who go thither purposely to
 consult them."
 
 Like the sylphs and salamanders so humorously described by the Abbé de
-Villars in *Le Comte de Gabalis*, <span id="fr_24"></span>[1](#fn_24)
+Villars in *Le Comte de Gabalis*, <span id="fr_24"></span>[1](#fn_24.md)
 the Korrigans desired union with humanity in order that they might thus
 gain immortality. Such, at least, is the current peasant belief in
 Brittany. "For this end they violate all the laws of modesty." This
@@ -371,7 +371,7 @@ But what say the folk of Broceliande themselves of
 this? Let us hear their version of a tale which has been so battered by
 modern criticism, and which has been related in at least half a score of
 versions, prose and poetic. Let us have the Broceliande account of what
-happened in Broceliande. <span id="fr_25"></span>[1](#fn_25) Surely its
+happened in Broceliande. <span id="fr_25"></span>[1](#fn_25.md) Surely its
 folk, in the very forest in which he wandered with Vivien, must know
 more of Merlin's enchantment than we of that greater Britain which he
 left to find a paradise in Britain the Less, for, according to Breton
@@ -436,7 +436,7 @@ Now Merlin had to be present at the espousal of Arthur,
 <span id="img_06600"></span>
 
 [![MERLIN AND VIVIEN](tn/06600.jpg)  
-Click to enlarge](img/06600.jpg)  
+Click to enlarge](img/06600.jpg.md)  
 MERLIN AND VIVIEN  
 
  
@@ -555,7 +555,7 @@ story of his love for Vivien was composed at a comparatively late date
 for the purpose of rounding off his fate in Arthurian legend. A recent
 hypothesis concerning him is to the effect that "if he belongs to the
 pagan period \[of Celtic lore\] at all, he was probably an ideal
-magician or god of magicians." <span id="fr_26"></span>[1](#fn_26) Canon
+magician or god of magicians." <span id="fr_26"></span>[1](#fn_26.md) Canon
 MacCulloch smiles at the late Sir John Rhys's belief that Merlin was "a
 Celtic Zeus," but his later suggestion seems equally debatable. We must
 remember that we draw our conception of Merlin as Arthurian archimagus
@@ -654,7 +654,7 @@ when we discover a mortal child. Now what will you give him?"
 <span id="img_07200"></span>
 
 [![THE FAIRIES OF BROCELIANDE FIND THE LITTLE BRUNO](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)  
+Click to enlarge](img/07200.jpg.md)  
 THE FAIRIES OF BROCELIANDE FIND THE LITTLE BRUNO  
 
  
@@ -712,7 +712,7 @@ In Upper Brittany, where French is the language in general use, the
 usual French ideas concerning fairies prevail. They are called *fées* or
 *fetes* (Latin *fata*), and sometimes *fions*, which reminds us of the
 *fions* of Scottish and Irish folk-lore. <span
-id="fr_27"></span>[1](#fn_27) There are old people still alive who claim
+id="fr_27"></span>[1](#fn_27.md) There are old people still alive who claim
 to have seen the fairies, and who describe them variously, but the
 general belief seems to be that they disappeared from the land several
 generations ago. One old man described them as having teeth as long as
@@ -731,7 +731,7 @@ are condemned to walk the earth for a certain space. Some even think
 them rebellious angels who have been sent to earth for a time to expiate
 their offences against heaven. For the most part they inhabit the
 dolmens and the grottos and caverns on the coast. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 On the shores of the Channel are numerous grottos or caverns which the
 Bretons call *houles*, and these are supposed to harbour a distinct
@@ -941,7 +941,7 @@ fisherman observed that while they made merry they
 <span id="img_08000"></span>
 
 [![FAIRIES IN A BRETON 'HOULE'](tn/08000.jpg)  
-Click to enlarge](img/08000.jpg)  
+Click to enlarge](img/08000.jpg.md)  
 FAIRIES IN A BRETON 'HOULE'  
 
  
@@ -1008,7 +1008,7 @@ Another Breton tale recounts how a mortal woman was given a polished
 stone in the form of an egg wherewith to rub a fairy child's eyes. She
 applied it to her own right eye, and became possessed of magic sight so
 far as elves were concerned. Still another case, alluded to in the
-*Revue Celtique*, <span id="fr_29"></span>[1](#fn_29) arose through 'the
+*Revue Celtique*, <span id="fr_29"></span>[1](#fn_29.md) arose through 'the
 sacred bond' formed between a fairy man and a mortal woman where both
 stood as god-parents to a child. The association
 
@@ -1016,7 +1016,7 @@ stood as god-parents to a child. The association
 
 enabled the woman to see magically. The fairy maiden Rockflower bestows
 a similar gift on her lover in a Breton tale from Saint-Cast, and speaks
-of "clearing his eyes like her own." <span id="fr_30"></span>[1](#fn_30)
+of "clearing his eyes like her own." <span id="fr_30"></span>[1](#fn_30.md)
 
 ### Changelings
 
@@ -1036,7 +1036,7 @@ bringing back the true infant. Again, if the wizened occupant of the
 cradle can be made to laugh that is accepted as proof of its fairy
 nature. "Something ridiculous," says Simrock, "must be done to cause him
 to laugh, for laughter brings deliverance." <span
-id="fr_31"></span>[2](#fn_31) The same stratagem appears to be used as
+id="fr_31"></span>[2](#fn_31.md) The same stratagem appears to be used as
 the cure in English and Scots changeling tales.
 
 ### The King of the Fishes
@@ -1069,7 +1069,7 @@ called a large tunny-fish, and as Arion mounted the dolphin in the old
 Argolian tale, so the fisherman approached the tunny, which
 
 Hollowed his back and shaped it as a selle. <span
-id="fr_32"></span>[1](#fn_32)
+id="fr_32"></span>[1](#fn_32.md)
 
  
 
@@ -1080,7 +1080,7 @@ The fisherman at once
 Seized the strange sea-steed by his bristling fin  
 And vaulted on his shoulders; the fleet fish  
 Swift sought the shallows and the friendly shore. <span
-id="fr_33"></span>[1](#fn_33)
+id="fr_33"></span>[1](#fn_33.md)
 
 Before dismissing the fisherman, however, the Fish King presented him
 with an inexhaustible purse--probably as a hint that it would be
@@ -1131,7 +1131,7 @@ Yea, I sang, as now I sing, when the Prehistoric Spring
 Made the piled Biscayan ice-pack split and shove,  
 And the troll, and gnome, and dwerg, and the gods of cliff and berg  
 Were about me and beneath me and above. <span
-id="fr_34"></span>[1](#fn_34)
+id="fr_34"></span>[1](#fn_34.md)
 
 The idea of animism, the belief that everything had a personality of its
 own, certainly belonged to the later prehistoric period, for among the
@@ -1213,7 +1213,7 @@ often go supperless to bed."
 <span id="img_08800"></span>
 
 [![THE POOR BOY AND THE THREE FAIRY DAMSELS](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)  
+Click to enlarge](img/08800.jpg.md)  
 THE POOR BOY AND THE THREE FAIRY DAMSELS  
 
  
@@ -1350,7 +1350,7 @@ long time the youth. refused, but at last he gave way to the maiden's
 entreaties, cut her into little pieces, and placed the bones in a large
 cauldron, forgetting, however, the little toe of her left foot. Then he
 rose as if by magic to the top of the tower, found the turtle-dove, and
-came down again. <span id="fr_35"></span>[1](#fn_35) Having completed
+came down again. <span id="fr_35"></span>[1](#fn_35.md) Having completed
 his task, he took a wand which lay beside the cauldron, and when he
 touched the bones they came together again and the
 
@@ -1458,59 +1458,59 @@ afterward, as all young spouses do in fairy-tale.
 
 ### Footnotes
 
-<span id="fn_19"></span>[55:1](lrb06.htm#fr_19) *Roman de Rou*, v. 6415
+<span id="fn_19"></span>[55:1](lrb06.htm#fr_19.md) *Roman de Rou*, v. 6415
 ff.
 
-<span id="fn_20"></span>[57:1](lrb06.htm#fr_20) Consult original ballad
+<span id="fn_20"></span>[57:1](lrb06.htm#fr_20.md) Consult original ballad
 in Vicomte de la Villemarqué's *Chants Populaires de la Bretagne*.
 
-<span id="fn_21"></span>[59:1](lrb06.htm#fr_21) MacCulloch, *The
+<span id="fn_21"></span>[59:1](lrb06.htm#fr_21.md) MacCulloch, *The
 Religion of the Ancient Celts*, p. 116 (Edinburgh, 1911).
 
-<span id="fn_22"></span>[60:1](lrb06.htm#fr_22) See *Ballads and
+<span id="fn_22"></span>[60:1](lrb06.htm#fr_22.md) See *Ballads and
 Metrical Tales, illustrating the Fairy Mythology of Europe* (anonymous,
 London, 1857) for a metrical version of this tale.
 
-<span id="fn_23"></span>[63:1](lrb06.htm#fr_23) Lib. III, cap. vi.
+<span id="fn_23"></span>[63:1](lrb06.htm#fr_23.md) Lib. III, cap. vi.
 
-<span id="fn_24"></span>[64:1](lrb06.htm#fr_24) Paris, 1670. Strange
+<span id="fn_24"></span>[64:1](lrb06.htm#fr_24.md) Paris, 1670. Strange
 that this book should have been seized upon by students of the occult as
 a 'text-book' furnishing longed-for details of the 'lost knowledge'
 concerning elementary spirits, when it is, in effect, a very
 whole-hearted satire upon belief in such beings.
 
-<span id="fn_25"></span>[65:1](lrb06.htm#fr_25) Villemarqué, *Myrdhinn,
+<span id="fn_25"></span>[65:1](lrb06.htm#fr_25.md) Villemarqué, *Myrdhinn,
 ou l'Enchanteur Merlin* (1861).
 
-<span id="fn_26"></span>[70:1](lrb06.htm#fr_26) MacCulloch, *The
+<span id="fn_26"></span>[70:1](lrb06.htm#fr_26.md) MacCulloch, *The
 Religion of the Ancient Celts*, p. 122.
 
-<span id="fn_27"></span>[74:1](lrb06.htm#fr_27) Or subterranean
+<span id="fn_27"></span>[74:1](lrb06.htm#fr_27.md) Or subterranean
 dwellers. See D. MacRitchie's *Fians, Fairies, and Picts* (1893).
 
-<span id="fn_28"></span>[75:1](lrb06.htm#fr_28) See the chapter on
+<span id="fn_28"></span>[75:1](lrb06.htm#fr_28.md) See the chapter on
 "Menhirs and Dolmens."
 
-<span id="fn_29"></span>[82:1](lrb06.htm#fr_29) Vol. i, p. 231
+<span id="fn_29"></span>[82:1](lrb06.htm#fr_29.md) Vol. i, p. 231
 
-<span id="fn_30"></span>[83:1](lrb06.htm#fr_30) *Contes populaires de la
+<span id="fn_30"></span>[83:1](lrb06.htm#fr_30.md) *Contes populaires de la
 Haute-Bretagne* (Paris, 1880).
 
-<span id="fn_31"></span>[83:2](lrb06.htm#fr_31) *Handbuch der deutschen
+<span id="fn_31"></span>[83:2](lrb06.htm#fr_31.md) *Handbuch der deutschen
 Mythologie*.
 
-<span id="fn_32"></span>[84:1](lrb06.htm#fr_32) Saddle.
+<span id="fn_32"></span>[84:1](lrb06.htm#fr_32.md) Saddle.
 
-<span id="fn_33"></span>[85:1](lrb06.htm#fr_33) See the author's *Le Roi
+<span id="fn_33"></span>[85:1](lrb06.htm#fr_33.md) See the author's *Le Roi
 d' Ys and other Poems* (London, 1910).
 
-<span id="fn_34"></span>[86:1](lrb06.htm#fr_34) Kipling, "Primum
+<span id="fn_34"></span>[86:1](lrb06.htm#fr_34.md) Kipling, "Primum
 Tempus."
 
-<span id="fn_35"></span>[92:1](lrb06.htm#fr_35) In folk-tales of this
+<span id="fn_35"></span>[92:1](lrb06.htm#fr_35.md) In folk-tales of this
 nature a ladder is usually made of the bones, but this circumstance
 seems to. have been omitted in the present instance.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Sprites and Demons of Brittany](lrb07)
+[Next: Chapter VI: Sprites and Demons of Brittany](lrb07.md)

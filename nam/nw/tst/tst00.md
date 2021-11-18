@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Next](tst01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Next](tst01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ American](../../index)  [Northwest](../index)  [Index](index) 
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](tst01)
+[Next: Introduction](tst01.md)

@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt05)  [Next](ettt07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt05)  [Next](ettt07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 *Of the Heart Treasury of Heavenly Dharma, Among the Oceanlike Teachings
 in the Whisper Succession, This is*
 
-### THE INITIATION RITUAL OF THE RED GSHIN-RJE[1](ettt06.htm#an_n_5:1)<span id="an_r_5:1"></span>
+### THE INITIATION RITUAL OF THE RED GSHIN-RJE[1](ettt06.htm#an_n_5:1.md)<span id="an_r_5:1"></span>
 
 <span id="img_08200"></span>
 
@@ -32,7 +32,7 @@ in the Whisper Succession, This is*
 *Namo Guru Diwa Dargini Shidi Hūṃ!* \[Note Tibetan transliterations of
 Sanskrit words like Deva and Ḍākinī. Ed.\]
 
-If one wants to practice the Three Pillars[2](ettt06.htm#an_n_5:2)<span
+If one wants to practice the Three Pillars[2](ettt06.htm#an_n_5:2.md)<span
 id="an_r_5:2"></span> Red Gshin-rje, he should arrange the Mandala as in
 that of the foregoing rituals. He should prepare a hill-shaped Gtor-ma.
 At the back of the Gtor-ma, a vase with red decorations on its brim
@@ -108,7 +108,7 @@ confessions, consecration, and exorcising.
 The Guru then addresses the disciples:
 
 Now, you are to be given the Initiation of the Red Gshin-rje. He is
-identical with Mañjuśri[3](ettt06.htm#an_n_5:3)<span
+identical with Mañjuśri[3](ettt06.htm#an_n_5:3.md)<span
 id="an_r_5:3"></span> in essence. The Sutra of Mañjuśri says:
 
 "If one repeatedly calls the names of numerous Buddhas as numerous as
@@ -158,7 +158,7 @@ Thus the Sutra says.
 
 This initiation of Deva Yama, extremely powerful and dynamic, yet easy
 to practice and to accomplish, was given by the All-Perfect Buddha to my
-first Guru <span id="fr_3"></span>[\*](#fn_3), Mi-jyur-rdo-rje (The
+first Guru <span id="fr_3"></span>[\*](#fn_3.md), Mi-jyur-rdo-rje (The
 Immutable Vajra), early one morning in the Dragon Month of the Monkey
 Year when he was twelve years old. I obtained this initiation from him,
 the Adi-Buddha like Illumination-Possessor, directly. Hence, this
@@ -203,7 +203,7 @@ I now raise the all-virtuous Bodhi Heart.
 I will serve all sentient beings as their servant.
 
 I will practice the all-virtuous Action-of
-Bodhi[4](ettt06.htm#an_n_5:4)<span id="an_r_5:4"></span>.
+Bodhi[4](ettt06.htm#an_n_5:4.md)<span id="an_r_5:4"></span>.
 
 For the benefit of sentient beings,
 
@@ -231,9 +231,9 @@ In this manner you should visualize yourself as the Red Yama. See a
 white *Oṃ* placed at your forehead, a red *Ah* at your throat, a blue
 *Hūṃ* at your heart. From them emanate infinite rays of light reaching
 to the Buddha's Pure Land and also the Land of
-Self-Nature[5](ettt06.htm#an_n_5:5)<span id="an_r_5:5"></span> inviting
+Self-Nature[5](ettt06.htm#an_n_5:5.md)<span id="an_r_5:5"></span> inviting
 all the Buddhas and the Red Yama together with infinite incantation,
-tantric symbols and seeds[6](ettt06.htm#an_n_5:6)<span
+tantric symbols and seeds[6](ettt06.htm#an_n_5:6.md)<span
 id="an_r_5:6"></span> to come here, and they all enter and are absorbed
 in you as the rain falls into the ocean and merges with it.
 
@@ -251,13 +251,13 @@ I pray you to grant them the highest initiation;
 Thus they may eschew temptations and not go astray,
 
 Thus they may be freed from all the causes of accidental and untimely
-death[7](ettt06.htm#an_n_5:7)<span id="an_r_5:7"></span>.
+death[7](ettt06.htm#an_n_5:7.md)<span id="an_r_5:7"></span>.
 
 *Oṃ Śri Hūṃ Śri Hūṃ Savha Betsa Ah Bi Sha Ya Ah Ah*
 
 (Recite this incantation as much as possible and play the musical
 instruments. Next, the Guru places the Diamond Flower on the heads of
-the disciples.) <span id="fr_4"></span>[\*](#fn_4)
+the disciples.) <span id="fr_4"></span>[\*](#fn_4.md)
 
 Now the disciples should think that the Wisdom Buddha is consolidated.
 
@@ -300,7 +300,7 @@ Drug-drum, Gshed-bzhe; the demon of illness, death; the demon-afflictor
 of Mdung-bsu, Rjes-rgyal—in short, all the three-hundred-and-sixty
 different demons. I pray you to protect them from the eighteen different
 kinds of untimely death. I pray you to grant them the one hundred
-Siddhis, the Four Performances[8](ettt06.htm#an_n_5:8)<span
+Siddhis, the Four Performances[8](ettt06.htm#an_n_5:8.md)<span
 id="an_r_5:8"></span>, the mundane and transcendental accomplishments. I
 pray you to give them these accomplishments without delay!
 
@@ -356,7 +356,7 @@ Good wishes to all sentient beings.
 
 ##### NOTES
 
-[1](ettt06.htm#an_r_5:1)<span id="an_n_5:1"></span>. *The Red Gshin-rje
+[1](ettt06.htm#an_r_5:1.md)<span id="an_n_5:1"></span>. *The Red Gshin-rje
 (Yama):* How does Buddhism come to have a "judge of the dead" if,
 according to Buddhist doctrine, the Law of Karma responding to the
 individual's action brings of itself full punishment or reward? To
@@ -381,27 +381,27 @@ enlightenment. The doctrine concerning Yama will be understood best,
 perhaps, if the reader remembers that Buddhism is very fluid in its
 teachings which best fit the different levels of human development.
 
-[2](ettt06.htm#an_r_5:2)<span id="an_n_5:2"></span>. *Three Pillars:*
+[2](ettt06.htm#an_r_5:2.md)<span id="an_n_5:2"></span>. *Three Pillars:*
 Guru, Patron Buddha, and Garuda.
 
-[3](ettt06.htm#an_r_5:3)<span id="an_n_5:3"></span>. *Mañjuśri:* A great
+[3](ettt06.htm#an_r_5:3.md)<span id="an_n_5:3"></span>. *Mañjuśri:* A great
 Bodhisattva who represents the wisdom of all Buddhas.
 
-[4](ettt06.htm#an_r_5:4)<span id="an_n_5:4"></span>. *Action-of-Bodhi:*
+[4](ettt06.htm#an_r_5:4.md)<span id="an_n_5:4"></span>. *Action-of-Bodhi:*
 The Wish-for-Heart-of-Bodhi must be followed by Action for-Bodhi,
 practical application of the Bodhisattva's precepts.
 
-[5](ettt06.htm#an_r_5:5)<span id="an_n_5:5"></span>. *Land of
+[5](ettt06.htm#an_r_5:5.md)<span id="an_n_5:5"></span>. *Land of
 Self-nature:* Reality, the eternal world.
 
-[6](ettt06.htm#an_r_5:6)<span id="an_n_5:6"></span>. *Seeds:* The
+[6](ettt06.htm#an_r_5:6.md)<span id="an_n_5:6"></span>. *Seeds:* The
 'seed-words' such as *Śri* and *Hūṃ*, which the disciple visualizes
 placed in the various centers of the body according to the initiator's
 instructions.
 
 <span id="page_91">p. 91</span>
 
-[7](ettt06.htm#an_r_5:7)<span id="an_n_5:7"></span>. Untimely death:
+[7](ettt06.htm#an_r_5:7.md)<span id="an_n_5:7"></span>. Untimely death:
 According to Buddhism, there are two kinds of death. The first is that
 arising from the inevitable decay and running down of the bodily machine
 and its functions. The second, or untimely death is that which results
@@ -411,7 +411,7 @@ punishment, or other man-made causes. This kind of death can be
 prevented by certain Yoga. Untimely death cannot be prevented by
 hygiene; Yoga is the antidote.
 
-[8](ettt06.htm#an_r_5:8)<span id="an_n_5:8"></span>. Four Performances:
+[8](ettt06.htm#an_r_5:8.md)<span id="an_n_5:8"></span>. Four Performances:
 (1) to subdue ominous evils; (2) to increase whatever is auspicious,
 such as Wisdom and Merits; (3) to gain the power to attract human beings
 and animals; (4) to uproot and finally conquer various stubborn evils.
@@ -420,10 +420,10 @@ and animals; (4) to uproot and finally conquer various stubborn evils.
 
 ### Footnotes
 
-<span id="fn_3"></span>[85:\*](ettt06.htm#fr_3) The Guru-Scribe is
+<span id="fn_3"></span>[85:\*](ettt06.htm#fr_3.md) The Guru-Scribe is
 speaking.—*Ed*.
 
-<span id="fn_4"></span>[87:\*](ettt06.htm#fr_4) In the "Diamond Flower"
+<span id="fn_4"></span>[87:\*](ettt06.htm#fr_4.md) In the "Diamond Flower"
 the symbolism of the combined natures of active love (upāya) with the
 lotus of wisdom (prajñā) or padma. The same symbolism exists in the
 sacred phrase "The Jewel or Vajra-Diamond is in the lotus."—*Ed*.
@@ -433,6 +433,6 @@ sacred phrase "The Jewel or Vajra-Diamond is in the lotus."—*Ed*.
 ------------------------------------------------------------------------
 
 [Next: Chapter Six. The Superb Initiation Ritual of Ahm Gtsug
-Vajrapāṇi](ettt07)
+Vajrapāṇi](ettt07.md)
 
 </div>

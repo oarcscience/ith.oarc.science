@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi283)  [Next](mtsi285) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi283)  [Next](mtsi285.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ of in Story 14 being the longest my informant had ever heard of.)
 
 ------------------------------------------------------------------------
 
-[Next: 20. The Frog That Lost His Wife](mtsi285)
+[Next: 20. The Frog That Lost His Wife](mtsi285.md)

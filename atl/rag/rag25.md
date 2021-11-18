@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag24)  [Next](rag26) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag24)  [Next](rag26.md) 
 
 ------------------------------------------------------------------------
 
@@ -249,4 +249,4 @@ seal upon him, that he should no more seduce the nations."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Book Of Job](rag26)
+[Next: Chapter XII. The Book Of Job](rag26.md)

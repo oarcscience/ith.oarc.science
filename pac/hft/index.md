@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHH0/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hft00)    [Page
-Index](pageidx)    [Text \[Zipped\]](hft.txt.gz)
+[Contents](#contents)    [Start Reading](hft00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](hft.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ as Maui and Pele, historical legends, topographical folklore, and the
 folklore of fishing.
 
 Of interest to the general reader will be [the tales of the
-Menehune](hft13), the 'little people' of Hawaii, who resemble in some
+Menehune](hft13.md), the 'little people' of Hawaii, who resemble in some
 aspects the fairies of Europe. The Menehune are credited with numerous
 earth-works such as fish ponds and stone platforms. This is reminiscent
 of European folklore which attributes the construction of megalithic
@@ -61,38 +61,38 @@ islands.
 
 ------------------------------------------------------------------------
 
-[Title Page](hft00)  
-[Preface](hft01)  
-[Note](hft02)  
-[Contents](hft03)  
-[I. Legends Resembling Old Testament History](hft04)  
-[II. Exploits of Maui](hft05)  
-[III. Pele and the Deluge](hft06)  
-[IV. Pele And Kahawali](hft07)  
-[V. Hiku and Kawelu](hft08)  
-[VI. Lonopuha; Or, Origin of the Art of Healing In Hawaii](hft09)  
+[Title Page](hft00.md)  
+[Preface](hft01.md)  
+[Note](hft02.md)  
+[Contents](hft03.md)  
+[I. Legends Resembling Old Testament History](hft04.md)  
+[II. Exploits of Maui](hft05.md)  
+[III. Pele and the Deluge](hft06.md)  
+[IV. Pele And Kahawali](hft07.md)  
+[V. Hiku and Kawelu](hft08.md)  
+[VI. Lonopuha; Or, Origin of the Art of Healing In Hawaii](hft09.md)  
 [VII. A Visit to the Spirit Land; or, the Strange Experience of a Woman
-in Kona, Hawaii](hft10)  
-[VIII. Kapeepeekauila; or, The Rocks of Kana](hft11)  
-[IX. Kalelealuaka](hft12)  
-[X. Stories of the Menehunes](hft13)  
-[XI. Kahalaopuna, Princess of Manoa](hft14)  
-[XII. The Punahou Spring](hft15)  
-[XIII. Oahunui](hft16)  
+in Kona, Hawaii](hft10.md)  
+[VIII. Kapeepeekauila; or, The Rocks of Kana](hft11.md)  
+[IX. Kalelealuaka](hft12.md)  
+[X. Stories of the Menehunes](hft13.md)  
+[XI. Kahalaopuna, Princess of Manoa](hft14.md)  
+[XII. The Punahou Spring](hft15.md)  
+[XIII. Oahunui](hft16.md)  
 [XIV. Ahuula: A Legend of Kanikaniaula and the First Feather
-Cloak](hft17)  
-[XV. Kaala and Kaaialii, A Legend of Lanai](hft18)  
-[XVI. The Tomb of Puupehe, A Legend of Lanai](hft19)  
-[XVII. Ai Kanaka, A Legend of Molokai](hft20)  
+Cloak](hft17.md)  
+[XV. Kaala and Kaaialii, A Legend of Lanai](hft18.md)  
+[XVI. The Tomb of Puupehe, A Legend of Lanai](hft19.md)  
+[XVII. Ai Kanaka, A Legend of Molokai](hft20.md)  
 [XVIII. Kaliuwaa, Scene of the Demigod Kamapuaa's Escape From
-Olopana](hft21)  
-[XIX. Battle of the Owls](hft22)  
+Olopana](hft21.md)  
+[XIX. Battle of the Owls](hft22.md)  
 [XX. This Land Is the Sea's, Traditional Account of an Ancient Hawaiian
-Prophecy](hft23)  
-[XII. Ku-ula, The Fish God Of Hawaii](hft24)  
+Prophecy](hft23.md)  
+[XII. Ku-ula, The Fish God Of Hawaii](hft24.md)  
 [XXII. Aiai, Son of Ku-Ula, Part II of the Legend of Ku-Ula, the Fish
-God of Hawaii](hft25)  
-[XXIII. Kaneaukai, A Legend of Waialua](hft26)  
-[XXIV. The Shark-Man, Nanaue](hft27)  
-[XXV. Fish Stories and Superstitions](hft28)  
-[Glossary of Hawaiian Words](hft29)  
+God of Hawaii](hft25.md)  
+[XXIII. Kaneaukai, A Legend of Waialua](hft26.md)  
+[XXIV. The Shark-Man, Nanaue](hft27.md)  
+[XXV. Fish Stories and Superstitions](hft28.md)  
+[Glossary of Hawaiian Words](hft29.md)  

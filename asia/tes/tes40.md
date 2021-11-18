@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes39)  [Next](tes41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes39)  [Next](tes41.md) 
 
 ------------------------------------------------------------------------
 
-### 18. STORY ABOUT THE BAD MERCHANT. <span id="fr_58"></span>[1](#fn_58)
+### 18. STORY ABOUT THE BAD MERCHANT. <span id="fr_58"></span>[1](#fn_58.md)
 
 Three brothers lived. I cannot tell who they were, whether Russian or
 Yakut. They lived in a wild place, somewhat after the manner of Lamut
@@ -64,7 +64,7 @@ innocent face, picked up the
 lance. "What a beautiful lance!" said he, "and what a shaft! Strong like
 iron. Even against a bear such a shaft would hold out and never break."
 Then he poised it in his hands. Together with the shaft it weighed no
-less than one pud. <span id="fr_59"></span>[1](#fn_59) He took the lance
+less than one pud. <span id="fr_59"></span>[1](#fn_59.md) He took the lance
 by the iron and lifted it, shaft upward, and all at once struck the Bad
 Merchant on the neck. The woman seized a knife and tried to stab him;
 but he struck her with the shaft, and she fell down senseless. Then he
@@ -91,14 +91,14 @@ in the Kolyma country, summer of 1895.
 
 ### Footnotes
 
-<span id="fn_58"></span>[81:1](tes40.htm#fr_58) This story refers
+<span id="fn_58"></span>[81:1](tes40.htm#fr_58.md) This story refers
 perhaps to some real incident. Events like this still happen in
 northeastern Siberia. However, the manner in which it is told
 corresponds to the style of local Russian folklore.--W. B.
 
-<span id="fn_59"></span>[83:1](tes40.htm#fr_59) Thirty-six pounds
+<span id="fn_59"></span>[83:1](tes40.htm#fr_59.md) Thirty-six pounds
 avoirdupois.
 
 ------------------------------------------------------------------------
 
-[Next: 19. Stepmother And Stepdaughter](tes41)
+[Next: 19. Stepmother And Stepdaughter](tes41.md)

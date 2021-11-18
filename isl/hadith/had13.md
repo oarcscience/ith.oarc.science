@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had12)  [Next](had14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had12)  [Next](had14.md) 
 
 ------------------------------------------------------------------------
 
@@ -742,4 +742,4 @@ duty of a person.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Friday Service](had14)
+[Next: Chapter XI: Friday Service](had14.md)

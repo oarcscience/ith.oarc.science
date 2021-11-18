@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar34)  [Next](gar36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar34)  [Next](gar36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 Having in the preceding sections cleared the ground of the innumerable
 usurpers of the title "Abraxas gems," we can conveniently proceed to
 consider the wondrous Sigil, the invention whereof is universally
-ascribed to Basilides himself. And for this [assumption](errata.htm#14)
+ascribed to Basilides himself. And for this [assumption](errata.htm#14.md)
 there are very good grounds, for it is certain that such a Sigil never
 occurs executed in a style that bespeaks a date anterior to the grand
 heresiarch's, the first years of the second century.
@@ -74,7 +74,7 @@ his epithets, **ΑΒΡΑΣΑΞ** and **ΣΑΒΑΩΘ**, and often accompanied wit
 invocations such as, **ΣΕΜΕΣ ΕΙΛΑΜ**, "The Eternal Sun";
 **ΑΒΛΑΝΑΘΑΝΑΛΒΑ**, "Thou art our Father" (sometimes curtailed, but
 generally so arranged as to read the same both ways); or **ΑΔΟΝΑΙ**,
-"The Lord." <span id="fr_144"></span>[\*](#fn_143)
+"The Lord." <span id="fr_144"></span>[\*](#fn_143.md)
 
 In all this a further relationship to the ancient idea of the Sun-god is
 readily to be discovered. Phœbus, as the god of day, is similarly
@@ -144,11 +144,11 @@ above each other; to the left, as many ibises and serpents so arranged.
 
 ### Footnotes
 
-<span id="fn_143"></span>[246:\*](gar35.htm#fr_144) Besides these
+<span id="fn_143"></span>[246:\*](gar35.htm#fr_144.md) Besides these
 regular titles, others are occasionally used, of unknown import. Thus a
 well-engraved Abraxas figure (John Evans) has over his head **ΒΙCΤΥC**,
 below his feet **ΕΙCΙΤ**.
 
 ------------------------------------------------------------------------
 
-[Next: Gnostic Plaque](gar36)
+[Next: Gnostic Plaque](gar36.md)

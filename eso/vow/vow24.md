@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow23)  [Next](vow25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow23)  [Next](vow25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
 *Asclepios to the King Ammon*.
 
 I ADDRESS to thee, O King, a comprehensive discourse, <span
-id="fr_43"></span>[1](#fn_43) which is, as it were, the sum and epitome
+id="fr_43"></span>[1](#fn_43.md) which is, as it were, the sum and epitome
 of all others. Far from being in accordance with the opinion of the
 vulgar, it is wholly adverse thereto. Even to
 
@@ -177,7 +177,7 @@ the control of mundane things, and our bodies
 <span id="page_106">p. 106</span>
 
 serve them as instruments. Now, it is this control which Hermes calls
-Destiny. <span id="fr_44"></span>[1](#fn_44)
+Destiny. <span id="fr_44"></span>[1](#fn_44.md)
 
 The Intelligible World is attached to God, the Sensible World to the
 Intelligible World, and through these two worlds, the sun conducts the
@@ -193,7 +193,7 @@ operation which God accomplishes by gods and genii for Himself.
 Everything is a part of God, thus God is all. In creating all, He
 perpetuates Himself without any intermission, for the energy of God has
 no past, and since God is without limits, His creation is without
-beginning or end. <span id="fr_45"></span>[2](#fn_45)
+beginning or end. <span id="fr_45"></span>[2](#fn_45.md)
 
 \[If
 
@@ -201,7 +201,7 @@ beginning or end. <span id="fr_45"></span>[2](#fn_45)
 
 ### Footnotes
 
-<span id="fn_43"></span>[101:1](vow24.htm#fr_43) This discourse, which
+<span id="fn_43"></span>[101:1](vow24.htm#fr_43.md) This discourse, which
 usually concludes, not precedes, the "Fragments," is sometimes but
 erroneously attributed to Apuleius; see Hargrave Jennings' scholarly and
 exhaustive "Introductory Essay" to my Annotated Edition of "The Divine
@@ -209,7 +209,7 @@ Pymander."
 
 Robt. H. FRYAR, Bath.
 
-<span id="fn_44"></span>[106:1](vow24.htm#fr_44) Asclepios, throughout
+<span id="fn_44"></span>[106:1](vow24.htm#fr_44.md) Asclepios, throughout
 this discourse, preaches pure Hermetic doctrine, which discourages all
 traffic with elementals, astrals, and other dæmonic influences, whether
 beneficent or the reverse, and instructs man rather to seek the grace of
@@ -218,7 +218,7 @@ in the reasonable and divine part of his nature.
 
 A.K.
 
-<span id="fn_45"></span>[106:2](vow24.htm#fr_45) Compare with this
+<span id="fn_45"></span>[106:2](vow24.htm#fr_45.md) Compare with this
 declaration the opening passage of Section III. in the *Book of Hermes
 to Tatios*, and my note thereon. The Divine Olympos, or Mount of
 Energies, emits a continuous river of Generation, or "Becoming." And the
@@ -236,4 +236,4 @@ A.K.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](vow25)
+[Next: Part II](vow25.md)

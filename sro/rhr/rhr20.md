@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rhr19)  [Next](rhr21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rhr19)  [Next](rhr21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026L7FOU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Real History of the Rosicrucians*, by Arthur Edward Waite,
 \[1887\], at Intangible Textual Heritage
 
@@ -465,7 +465,7 @@ the imperator in a special
 dress, with an assistant on either side, the one being his magister, and
 the other a brother. He shall then say I, N. N., swear by the eternal
 and living God not to make known the secret which has been communicated
-to me (here he uplifts two fingers <span id="fr_90"></span>[1](#fn_90))
+to me (here he uplifts two fingers <span id="fr_90"></span>[1](#fn_90).md)
 to any human being, but to preserve it in concealment under the natural
 seal all the days of my life; likewise to keep secret all things
 connected therewith as far as they maybe made known to me; likewise to
@@ -514,9 +514,9 @@ of fidelity in the name of the Lord Jesus Christus.
 
 ### Footnotes
 
-<span id="fn_90"></span>[281:1](rhr20.htm#fr_90) See "The Mysteries of
+<span id="fn_90"></span>[281:1](rhr20.htm#fr_90.md) See "The Mysteries of
 Magic," pp. 324, 325.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Rosicrucian Apologists: Robert Fludd](rhr21)
+[Next: Chapter XI. Rosicrucian Apologists: Robert Fludd](rhr21.md)

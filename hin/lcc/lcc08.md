@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](lcc07)  [Next](lcc09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](lcc07)  [Next](lcc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417982012/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ at Intangible Textual Heritage
 
 ### ACT THE SECOND
 
-#### THE SHAMPOOER <span id="fr_38"></span>[1](#fn_38) WHO GAMBLED
+#### THE SHAMPOOER <span id="fr_38"></span>[1](#fn_38.md) WHO GAMBLED
 
 \[*Enter a maid*.\]
 
@@ -136,7 +136,7 @@ him.
 
  
 
-*A voice* <span id="fr_39"></span>[1](#fn_39) *behind the scenes*. Oh,
+*A voice* <span id="fr_39"></span>[1](#fn_39.md) *behind the scenes*. Oh,
 sir, a shampooer owes me ten gold-pieces, and he got away from us. Hold
 him, hold him! \[*To the fleeing shampooer*.\] Stop, stop! I see you
 from here. \[*Enter hurriedly a frightened shampooer*.\]
@@ -377,7 +377,7 @@ Yet after all, what more could a poor saint do? For you see,
 <div style="margin-left: 32px">
 
 One foot I've planted in the sky,  
-The other on the ground must lie. <span id="fr_40"></span>[1](#fn_40)  
+The other on the ground must lie. <span id="fr_40"></span>[1](#fn_40.md)  
 The elevation's rather high,  
 But the sun stands it. Why can't I?<span class="margnote">11</span>
 
@@ -405,7 +405,7 @@ Who does not rub his back with sand
   Till boils begin to run,  
 Whose shins dogs may not browse upon,  
   As they pass him in their rambling. <span
-id="fr_41"></span>[1](#fn_41)  
+id="fr_41"></span>[1](#fn_41.md)  
 Why should this tall and dainty man  
   Be so in love with gambling?<span class="margnote">12</span>
 
@@ -782,7 +782,7 @@ Each a tangled, pearly wonder!<span class="margnote">19</span>
 And that rogue of an elephant dives with his trunk and his feet and his
 tusks into the city of Ujjayinī, as if it were a lotus-pond in full
 flower. At last he comes upon a Buddhist monk. <span
-id="fr_42"></span>[1](#fn_42) And while the man's staff and his water
+id="fr_42"></span>[1](#fn_42.md) And while the man's staff and his water
 jar and his begging-bowl fly every which way, he drizzles water over him
 and gets him between his tusks. The people see him and begin to shriek
 again, crying "Oh, oh, the monk is killed!"
@@ -857,21 +857,21 @@ Chārudatta.
 
 ### Footnotes
 
-<span id="fn_38"></span>[27:1](lcc08.htm#fr_38) Perhaps masseur would be
+<span id="fn_38"></span>[27:1](lcc08.htm#fr_38.md) Perhaps masseur would be
 more accurate.
 
-<span id="fn_39"></span>[29:1](lcc08.htm#fr_39) That of Māthura, the
+<span id="fn_39"></span>[29:1](lcc08.htm#fr_39.md) That of Māthura, the
 keeper of the gambling-house.
 
-<span id="fn_40"></span>[33:1](lcc08.htm#fr_40) A humorously exaggerated
+<span id="fn_40"></span>[33:1](lcc08.htm#fr_40.md) A humorously exaggerated
 reference to Indian ascetic practices.
 
-<span id="fn_41"></span>[34:1](lcc08.htm#fr_41) See note on page
-[33](#page_33).
+<span id="fn_41"></span>[34:1](lcc08.htm#fr_41.md) See note on page
+[33](#page_33.md).
 
-<span id="fn_42"></span>[41:1](lcc08.htm#fr_42) The shampooer, whose
+<span id="fn_42"></span>[41:1](lcc08.htm#fr_42.md) The shampooer, whose
 transformation is astonishingly sudden.
 
 ------------------------------------------------------------------------
 
-[Next: Act the Third: The Hole in the Wall](lcc09)
+[Next: Act the Third: The Hole in the Wall](lcc09.md)

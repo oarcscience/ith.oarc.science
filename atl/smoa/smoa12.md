@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa11)  [Next](smoa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa11)  [Next](smoa13.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -208,7 +208,7 @@ mourned.
 
 The instruments for war were barbed missiles, shot from prow, from
 stern, from sides through missile-thrower simple, not complex. A wheel,
-a [pulley](errata.htm#3), piles of seeming toys which opened jaws and
+a [pulley](errata.htm#3.md), piles of seeming toys which opened jaws and
 crushed the bone or entered body with their barbed fangs. The spear
 three sided. The stave, the axe with biting blade, and fiery baubles
 peering from the box which gathered force from out the atmosphere, were
@@ -272,4 +272,4 @@ not afraid to seek and conquered every foe.
 ------------------------------------------------------------------------
 
 [Next: Chapter XI. Mining and minerals of Atlantis. The man who came to
-Atlantis from Spain to study its minerals](smoa13)
+Atlantis from Spain to study its minerals](smoa13.md)

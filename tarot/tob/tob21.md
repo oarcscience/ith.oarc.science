@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob20) 
-[Next](tob22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob20.md) 
+[Next](tob22.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,12 +22,12 @@ corresponds with the astronomic sign of the Twins in the Zodiac.
 
 <span id="img_wiar07"></span>
 
-![THE CHARIOT.](img/wiar07.jpg)  
+![THE CHARIOT.](img/wiar07.jpg.md)  
 THE CHARIOT.
 
    <span id="img_msar07"></span>
 
-![THE CHARIOT.](img/msar07.jpg)  
+![THE CHARIOT.](img/msar07.jpg.md)  
 THE CHARIOT.
 
 SEVENTH CARD OF THE TAROT.
@@ -140,4 +140,4 @@ equilibrium. This is shown by the eighth card.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Justice](tob22)
+[Next: 8. Justice](tob22.md)

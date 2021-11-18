@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf16)  [Next](taf18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf16)  [Next](taf18.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ philosophical grasp of the doctrine of the Mahâyâna.
 
 4\. That he might enable those whose root of merit is weak and
 insignificant, to acquire faith and to advance to the stage of immovable
-firmness (*avaivartikatva*). <span id="fr_61"></span>[1](#fn_61)
+firmness (*avaivartikatva*). <span id="fr_61"></span>[1](#fn_61.md)
 
 5\. That he might induce all beings to obliterate
 
@@ -29,16 +29,16 @@ firmness (*avaivartikatva*). <span id="fr_61"></span>[1](#fn_61)
 
 the previously acquired evils (*durgati* or *karmâvarana*), to restrain
 their own thoughts, and to free themselves from the three venomous
-passions. <span id="fr_62"></span>[1](#fn_62)
+passions. <span id="fr_62"></span>[1](#fn_62.md)
 
 6\. That he might induce all beings to practise the orthodox method of
 cessation \[or tranquilisation *çamatha*\] and of intellectual insight
-(vidarçana) <span id="fr_63"></span>[2](#fn_63) to be fortified against
+(vidarçana) <span id="fr_63"></span>[2](#fn_63.md) to be fortified against
 the commission of mental trespasses due to inferiority of mind.
 
 7\. That he might induce all beings in the right way to ponder on the
 doctrine of the Mahâyâna, for thus they will be born in the presence of
-Buddhas, <span id="fr_64"></span>[3](#fn_64) and acquire the absolutely
+Buddhas, <span id="fr_64"></span>[3](#fn_64.md) and acquire the absolutely
 immovable Mahâyâna faith.
 
 8\. That he might, by disclosing those benefits which are produced by
@@ -49,9 +49,9 @@ Though all these doctrines are sufficiently set forth
 
 <span id="page_51">p. 51</span>
 
-in the Mahâyâna Sûtras, <span id="fr_65"></span>[1](#fn_65) yet as the
+in the Mahâyâna Sûtras, <span id="fr_65"></span>[1](#fn_65.md) yet as the
 predispositions and inclinations of the people <span
-id="fr_66"></span>[2](#fn_66) are not the same, and the conditions for
+id="fr_66"></span>[2](#fn_66.md) are not the same, and the conditions for
 obtaining enlightenment vary, I now write this Discourse.
 
 There is another reason for doing so. At the time of the Tathâgata the
@@ -62,7 +62,7 @@ need for a philosophical discourse (*çâstra*).
 
 After the Nirvâna of the Buddha there were men who possessed in
 themselves the intellectual power to understand the many-sided meanings
-of the Sûtras, <span id="fr_67"></span>[3](#fn_67)
+of the Sûtras, <span id="fr_67"></span>[3](#fn_67.md)
 
 <span id="page_52">p. 52</span>
 
@@ -84,21 +84,21 @@ Doctrine of the Tathâgata will be treated in comprehensive brevity.
 
 ### Footnotes
 
-<span id="fn_61"></span>[49:1](taf17.htm#fr_61) *Avaivartikatva* means
+<span id="fn_61"></span>[49:1](taf17.htm#fr_61.md) *Avaivartikatva* means
 literally "never retreat." Faith is said to become immovably firm when
 one enters into the group of those who cannot be shaken in the
 possession of absolute truth (*samyaktvaniyataraçi*). For a further
 explanation see the reference in the Index to *samyaktvaniyataraçi*.
 
-<span id="fn_62"></span>[50:1](taf17.htm#fr_62) They are: (1)
+<span id="fn_62"></span>[50:1](taf17.htm#fr_62) They are: (1.md)
 covetousness (*lobha*); (2) malice (*dvesha*); (3) ignorance (*moha*).
 
-<span id="fn_63"></span>[50:2](taf17.htm#fr_63) *Camatha* and
+<span id="fn_63"></span>[50:2](taf17.htm#fr_63.md) *Camatha* and
 *Vidarçana* or *Vipaçyana* constitute one of the five methods of
 discipline, for whose full explanation see the reference in the Index to
 these terms.
 
-<span id="fn_64"></span>[50:3](taf17.htm#fr_64) This passage, which is
+<span id="fn_64"></span>[50:3](taf17.htm#fr_64.md) This passage, which is
 considered to be a reference to the Sukhâvatî Sutras, such as the Larger
 and the Smaller *Sukhâvatî-vyûha*, or the *Amitâyur-dhyâna*, seems to
 prove that some of the Mahâyâna texts of the Pure Land Sect had been in
@@ -108,16 +108,16 @@ Sûtras. The Sûtras therefore must be at least one or two hundred years
 older than Açvaghosha, in order that they might be quoted as an
 authentic teaching of Buddha.
 
-<span id="fn_65"></span>[51:1](taf17.htm#fr_65) The view here proposed
+<span id="fn_65"></span>[51:1](taf17.htm#fr_65.md) The view here proposed
 by Açvaghosha, which is called by Chinese Buddhists the theory of the
 evolution of the Tathâgata-garbha, is considered to be an elucidation of
 the doctrine taught by Buddha in such Mahâyâna Sûtras as the
 *Lankâvatâra*, *Ghanavyûha*, *Crîmâlâ*, etc.
 
-<span id="fn_66"></span>[51:2](taf17.htm#fr_66) Literally, those who are
+<span id="fn_66"></span>[51:2](taf17.htm#fr_66.md) Literally, those who are
 to be converted.
 
-<span id="fn_67"></span>[51:3](taf17.htm#fr_67) There are twelve
+<span id="fn_67"></span>[51:3](taf17.htm#fr_67.md) There are twelve
 divisions called *Angas* in the Mahâyânist writings, while in the Pâli
 only nine are counted. The twelve *angas* are: (1) *sûtra* (aphorisms);
 (2) *geya* (verses in which the same thing is repeated as in the prose
@@ -132,4 +132,4 @@ lives); (10) *vaipulya* (doctrines of deep significance); (11)
 
 ------------------------------------------------------------------------
 
-[Next: II. General Statement](taf18)
+[Next: II. General Statement](taf18.md)

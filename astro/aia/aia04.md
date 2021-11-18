@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia03)  [Next](aia05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia03)  [Next](aia05.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ These are ♅ Herschel, ♄ Saturn, ♃ Jupiter, ♂ Mars.
 <span id="page_14">p. 14</span>
 
 \[paragraph continues\] ☉ Sol, the Sun, <span
-id="fr_3"></span>[1](#fn_3) ♀ Venus, ☿ Mercury, and ☽ Luna, Moon. These
+id="fr_3"></span>[1](#fn_3.md) ♀ Venus, ☿ Mercury, and ☽ Luna, Moon. These
 characters have been always in use, and may, (with the exception of ♅)
 be traced to the remotest antiquity, and their origin found among the
 hieroglyphics of Egypt. But as the object of this work is practical
@@ -77,7 +77,7 @@ again he has no declination, and gives equal days and nights.
 <span id="img_01500"></span>
 
 [![Diagram of the Sun's Motion in the Zodiac](tn/01500.jpg)  
-Click to enlarge](img/01500.jpg)  
+Click to enlarge](img/01500.jpg.md)  
 Diagram of the Sun's Motion in the Zodiac  
 
 EXPLANATION.--The space between the two outer circles may be considered
@@ -142,7 +142,7 @@ malefic planet. The latter is of the nature of ♄, and does the reverse.
 In nativities these characters have no avail, and are not to be
 considered, except with regard to the Moon, who is found to produce good
 or evil when she reaches them by direction. <span
-id="fr_4"></span>[1](#fn_4)
+id="fr_4"></span>[1](#fn_4.md)
 
 ### THE PART OF FORTUNE.
 
@@ -196,7 +196,7 @@ taking the ☽'s from 180°. In this nativity (which is that of the Duke of
 Wellington) the semi-arc of the Moon is 90° 57', which taken from 180°
 leaves the semi-arc of ⊕ 89° 3', two-thirds of which are 59° 22'; and it
 appears that ⊕ is just 1° 22' outside the cusp of the 12th house. <span
-id="fr_5"></span>[1](#fn_5)
+id="fr_5"></span>[1](#fn_5.md)
 
 The ⊕ has no influence on the *health* or *life* of the native;
 
@@ -204,7 +204,7 @@ The ⊕ has no influence on the *health* or *life* of the native;
 
 but it influences the pecuniary affairs very powerfully, and also, in
 some degree, the profession or employment. <span
-id="fr_6"></span>[1](#fn_6)
+id="fr_6"></span>[1](#fn_6.md)
 
 *To find the Place of* ⊕ *an the Figure of a Horary Question*.
 
@@ -217,7 +217,7 @@ which subtract the longitude of the ☉: the remainder will be the
 longitude of ⊕.
 
 Example:--Where was the ⊕ at 3h. 20m. P.M. 28th of December, 1644? <span
-id="fr_7"></span>[2](#fn_7)
+id="fr_7"></span>[2](#fn_7.md)
 
 |                                      |           |           |           |
 |--------------------------------------|-----------|-----------|-----------|
@@ -234,17 +234,17 @@ id="fr_7"></span>[2](#fn_7)
 
 ### Footnotes
 
-<span id="fn_3"></span>[14:1](aia04.htm#fr_3) The Sun and Moon are
+<span id="fn_3"></span>[14:1](aia04.htm#fr_3.md) The Sun and Moon are
 considered as planets in all astrological matters.
 
-<span id="fn_4"></span>[17:1](aia04.htm#fr_4) These nodes are the points
+<span id="fn_4"></span>[17:1](aia04.htm#fr_4.md) These nodes are the points
 in the ecliptic where the Moon crosses from north into south latitude,
 or the reverse, which occurs twice each month.
 
-<span id="fn_5"></span>[18:1](aia04.htm#fr_5) This is found by taking
+<span id="fn_5"></span>[18:1](aia04.htm#fr_5.md) This is found by taking
 its distance from the 10th 5E° 0' from \#\#\# of its semi-arc 59° 22 .
 
-<span id="fn_6"></span>[19:1](aia04.htm#fr_6) In proof of this, it is
+<span id="fn_6"></span>[19:1](aia04.htm#fr_6.md) In proof of this, it is
 evident that in the Duke's nativity ☽ came to ☌ of ⊕ in November 1834,
 when he was appointed to the ministry. Thus ⊕ is 58° from the meridian,
 and ☽ 124° 29'; the difference is 66° 29'; which arc of direction, added
@@ -258,9 +258,9 @@ seen to cause such eminent preferment. The semi-arc of ☉ is 68° 13', ☉
 dist from 4th house 1° 44'; the difference is 66° 29', the arc of
 direction.
 
-<span id="fn_7"></span>[19:2](aia04.htm#fr_7) See the figure--Question.
+<span id="fn_7"></span>[19:2](aia04.htm#fr_7.md) See the figure--Question.
 "A ship at sea, if lost?"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II.](aia05)
+[Next: Chapter II.](aia05.md)

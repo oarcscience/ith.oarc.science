@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw37)  [Next](omw39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw37)  [Next](omw39.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,4 +194,4 @@ high above the sea.
 
 ------------------------------------------------------------------------
 
-[Next: The Children of Mars, Part I](omw39)
+[Next: The Children of Mars, Part I](omw39.md)

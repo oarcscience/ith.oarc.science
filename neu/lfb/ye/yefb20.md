@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb19)  [Next](yefb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb19)  [Next](yefb21.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_114">p. 114</span>
 
-THE GLASS MOUNTAIN <span id="fr_15"></span>[1](#fn_15)
+THE GLASS MOUNTAIN <span id="fr_15"></span>[1](#fn_15.md)
 
 Once upon a time there was a Glass Mountain at the top of which stood a
 castle made of pure gold, and in front of the castle there grew an
@@ -178,13 +178,13 @@ population are gazing on this unheard-of wonder with joy and amazement.'
 
 ### Footnotes
 
-<span id="fn_15"></span>[114:1](yefb20.htm#fr_15) From the Polish. 
+<span id="fn_15"></span>[114:1](yefb20.htm#fr_15.md) From the Polish. 
 Kletke.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Alphege, or the Green Monkey](yefb21)
+[Next: Alphege, or the Green Monkey](yefb21.md)
 
 </div>

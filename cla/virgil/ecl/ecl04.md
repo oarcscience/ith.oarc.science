@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [Latin](ecll04)  [Previous](ecl03) 
-[Next](ecl05) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [Latin](ecll04)  [Previous](ecl03.md) 
+[Next](ecl05.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ one honoured at a god's board or on a goddess' couch.
 
 ------------------------------------------------------------------------
 
-[Next: Eclogue V.--Daphnis](ecl05)
+[Next: Eclogue V.--Daphnis](ecl05.md)

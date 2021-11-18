@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb13)  [Next](ldjb15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb13)  [Next](ldjb15.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -48,7 +48,7 @@ no more than a tree can grow out of the idea of a tree existing within
 the mind, but it needs a material seed or kernel to serve as a material
 focus for the attraction and distribution of material principles. For
 similar reasons it was necessary that the *Logos* <span
-id="fr_168"></span>[1](#fn_168) should actually become flesh and enter
+id="fr_168"></span>[1](#fn_168.md) should actually become flesh and enter
 the human
 
 <span id="page_225">p. 225</span>
@@ -65,7 +65,7 @@ Testament.
 In the configuration of the person of our Redeemer there are to be
 distinguished three factors: the eternal generation of the Son of God,
 His birth as a celestial Man, and, finally, His being incarnated as a
-terrestrial person. <span id="fr_169"></span>[1](#fn_169)
+terrestrial person. <span id="fr_169"></span>[1](#fn_169.md)
 
 "Christ is greater than any angel in heaven, because He has a celestial
 human body; He also has the eternal celestial bride, the virgin of
@@ -83,7 +83,7 @@ incarnated in humanity it did not change its nature and become something
 else, but remained in. the Father, in its centre and seat, as it had
 been from eternity. The other (second) formation took place in a natural
 manner at the time of the annunciation by the angel Gabriel, <span
-id="fr_170"></span>[1](#fn_170) when the virgin said to the angel, 'Let
+id="fr_170"></span>[1](#fn_170.md) when the virgin said to the angel, 'Let
 it be done as you say.' The fulfilling of this Word was effected in the
 celestial element, as was the creation of the first Adam before the
 fall. The third formation took place simultaneously with the second, and
@@ -103,14 +103,14 @@ incarnation), but without any separation, differentiation, or division
 of the divine being. Thus the Word remains in the Father, the created
 being of the holy element remained before the Father, and the natural
 human state was attained in this world in the womb of the virgin
-Mary." <span id="fr_171"></span>[2](#fn_171) (*Three Principles*, xx.
+Mary." <span id="fr_171"></span>[2](#fn_171.md) (*Three Principles*, xx.
 86).
 
 <span id="page_227">p. 227</span>
 
 Those who regard Christ as being not a person, and who claim that Mary
 was an eternal virgin and not born from terrestrial parents, are in
-error. <span id="fr_172"></span>[1](#fn_172)
+error. <span id="fr_172"></span>[1](#fn_172.md)
 
 "Those err who say that Christ is not a created being. As far as His
 divinity is concerned, He is certainly not a created being; but
@@ -125,7 +125,7 @@ called the seed of the woman, and would therefore have to be born from
 an entirely celestial virgin. If this were so, it would serve very
 little to us poor children of Eve, as we have become earthly and are
 carrying our souls in earthly tabernacles." <span
-id="fr_173"></span>[2](#fn_173) (*Menschwerdung*, i. 8. 1.)
+id="fr_173"></span>[2](#fn_173) (*Menschwerdung*, i. 8. 1..md)
 
 "It has been said that Mary was an eternal virgin of the Holy Trinity,
 and that from her Christ had been born; because, according to His own
@@ -143,7 +143,7 @@ the Son of Man, neither could a son of man come out of the Trinity; but
 if it had been possible to redeem man by means of a foreign soul brought
 down from heaven, where would then have been the necessity for God to
 enter into our (human) shape and to be crucified therein." <span
-id="fr_174"></span>[1](#fn_174) (*Three Principles*, xxii. 61.)
+id="fr_174"></span>[1](#fn_174) (*Three Principles*, xxii. 61..md)
 
  
 
@@ -186,14 +186,14 @@ would have been of this world." (*Menschwerdung*, i. 9, 20.)
 "All that is born from the flesh and blood of this world is impure, and
 a pure virgin cannot be born in this corrupted flesh and blood; but
 Christ has been received and born without sin from a pure virgin." <span
-id="fr_175"></span>[1](#fn_175) (*Three Principles*, xxii. 36.)
+id="fr_175"></span>[1](#fn_175) (*Three Principles*, xxii. 36..md)
 
  
 
 According to the external flesh, Mary descended from Joachim and Anna;
 but she was also the daughter of the covenant, and as such she was
 blessed (penetrated) by the virgin of wisdom. <span
-id="fr_176"></span>[2](#fn_176)
+id="fr_176"></span>[2](#fn_176.md)
 
 "Mary was generated from the seed of Joachim and Anna in the same manner
 as other human beings are
@@ -221,7 +221,7 @@ as was said by the angel." (*Three Principles*, xxii. 38.)
 The celestial virgin did not become terrestrial in Mary (or enter into
 her mechanically from the outside); but the omnipresent celestial virgin
 became revealed (unfolded) within Mary's innermost being. <span
-id="fr_177"></span>[1](#fn_177)
+id="fr_177"></span>[1](#fn_177.md)
 
 "We cannot say that the celestial virgin, when she entered into Mary,
 became terrestrial by the order of God, but we say that the soul of Mary
@@ -297,7 +297,7 @@ will be overshadowed by the power of the Supreme,' means: The Holy
 Spirit shall open the closed centre within, in the moribund seed, and
 the Word of God will enter with living and celestial substantiality
 within that which had been closed in death, and become one flesh with
-it." <span id="fr_178"></span>[1](#fn_178) (*Three Principles*, xxii.
+it." <span id="fr_178"></span>[1](#fn_178.md) (*Three Principles*, xxii.
 4l.)
 
 It is certain that the soul of the Redeemer could issue from Mary only
@@ -317,7 +317,7 @@ will, and the *tincture* which received the *Limbus* of God and
 impregnated her, belonged to her. If, then, the soul of the child is in
 the Holy Trinity, do you then not think that its glorious light
 beautifully illuminates the mother, and does not that mother rightfully
-put her feet upon the Moon, <span id="fr_179"></span>[1](#fn_179) as
+put her feet upon the Moon, <span id="fr_179"></span>[1](#fn_179.md) as
 being exalted above all that is of an earthly nature? She gave birth to
 the Redeemer of the world without any carnal commingling, and from her
 issued the body which attracts all members, namely, the children of God
@@ -328,7 +328,7 @@ in Christ, *i.e.*, the children of Light." (*Three Principles*, xviii.
 
 Mary, however, was not deified. In spite of all her greatness she could
 only through her Son become perfect and inherit heaven. <span
-id="fr_180"></span>[2](#fn_180)
+id="fr_180"></span>[2](#fn_180.md)
 
 "The Word which was promised by God in the garden of Eden came to bloom
 in the life-light of the virgin; and when the angel Gabriel, by order of
@@ -381,11 +381,11 @@ thus her external human nature had to (he in regard to earthly life, so
 that she could live in God. But because she has been blessed, and has
 carried in her womb the object of the covenant, that which was celestial
 in her consumed her terrestrial part." (*Menschwerdung*, i. 9,
-18.) <span id="fr_181"></span>[1](#fn_181)
+18.) <span id="fr_181"></span>[1](#fn_181.md)
 
 The Saviour had to receive earthly essences from Mary, and He became in
 her, in the normal way, a terrestrial man. <span
-id="fr_182"></span>[2](#fn_182)
+id="fr_182"></span>[2](#fn_182.md)
 
 "The virgin comprised Christ as a mother her child. She gave to him
 natural essences, such as she had inherited from her parents, and these
@@ -447,7 +447,7 @@ to introduce the human qualities again into divine harmony."
 
 Still less has the innermost essence of the Lord, the eternal Word, ever
 mingled with His terrestrial body; it did not even mingle with His human
-soul. <span id="fr_183"></span>[1](#fn_183)
+soul. <span id="fr_183"></span>[1](#fn_183.md)
 
 "God has become revealed within the external seed (principle) of Mary,
 for Christ did not differ while upon the earth from other human beings
@@ -471,7 +471,7 @@ majesty unto itself." (*Threefold Life*, vi. 83.)
 
 The Word and the soul are not standing separately side by side, but the
 latter is penetrated and illumined by the former. <span
-id="fr_184"></span>[2](#fn_184)
+id="fr_184"></span>[2](#fn_184.md)
 
 <span id="page_238">p. 238</span>
 
@@ -515,7 +515,7 @@ incomprehensible to the reasoning intellect;
 <span id="page_239">p. 239</span>
 
 but it is nevertheless logical to accept it, because in Christ the
-infinite God became man. <span id="fr_185"></span>[1](#fn_185)
+infinite God became man. <span id="fr_185"></span>[1](#fn_185.md)
 
 "Reason says: 'The body of Christ is in one place; how then can it be
 everywhere? It is a creature, and one creature cannot be in every place
@@ -525,7 +525,7 @@ above the stars? While it was at Nazareth was it then not also at
 Jerusalem and everywhere? Or do you think that God, while He became a
 man, had been confined to His human form?' This is an impossibility, and
 thus, while God became man, His humanity was everywhere where His
-divinity existed." <span id="fr_186"></span>[2](#fn_186) (*Three
+divinity existed." <span id="fr_186"></span>[2](#fn_186.md) (*Three
 Principles*, xxiii. 8.)
 
 "Christ has not become man solely in the body of the (terrestrial)
@@ -577,7 +577,7 @@ constitutes the sun. Likewise the corporeity of Christ is all the
 fulness of the heavens, as a created being in the person and without the
 person; but (both) exist in one spirit and one power as one, and not in
 a state of duality or as two things separated from each other." (*Tilk*.
-ii. 251,) <span id="fr_187"></span>[1](#fn_187)
+ii. 251,) <span id="fr_187"></span>[1](#fn_187.md)
 
  
 
@@ -601,18 +601,18 @@ Thus the Lord has entered into the servant, whereof all the angels in
 heaven are filled with surprise. It is the greatest miracle that has
 occurred from all eternity, because it is against (human) nature, and
 could only have been accomplished by divine love." (*Three Principles*,
-xviii. 42.) <span id="fr_188"></span>[1](#fn_188)
+xviii. 42.) <span id="fr_188"></span>[1](#fn_188.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_168"></span>[224:1](ldjb14.htm#fr_168) The *Logos* is
+<span id="fn_168"></span>[224:1](ldjb14.htm#fr_168.md) The *Logos* is
 everywhere, and did not enter from any external locality. Likewise the
 body of the sun is everywhere, although it manifests its light only in
 one locality in the sky.
 
-<span id="fn_169"></span>[225:1](ldjb14.htm#fr_169) All disputes about
+<span id="fn_169"></span>[225:1](ldjb14.htm#fr_169.md) All disputes about
 the nature of Christ only prove that the disputants are not Christians,
 because if they were true followers of the Christ they would have the
 living Christ within themselves, and know His true nature. The
@@ -634,10 +634,10 @@ obedience, His incarnation, His suffering and death; I must myself arise
 in Him and adopt the obedience of Christ. Only in this way can I be a
 Christian, and not in any other way." (*Mysterium*, li. 43).
 
-<span id="fn_170"></span>[226:1](ldjb14.htm#fr_170) "'Gabriel,' an angel
+<span id="fn_170"></span>[226:1](ldjb14.htm#fr_170.md) "'Gabriel,' an angel
 or god of sound, an internal, sourcive spirit." (*Aurora*, xii. 86.)
 
-<span id="fn_171"></span>[226:2](ldjb14.htm#fr_171) There is no doubt
+<span id="fn_171"></span>[226:2](ldjb14.htm#fr_171.md) There is no doubt
 that, as some will have it, the legend of the descent of the Redeemer is
 the description of an astrological process; but this theory, far from
 disproving the incarnation of divine wisdom into a human form, confirms
@@ -650,29 +650,29 @@ outer world, the sun in him arises and gives joy to his heart. Any
 individual person, or also humanity as a whole, may become either a god
 or a devil incarnate.
 
-<span id="fn_172"></span>[227:1](ldjb14.htm#fr_172) Christ, or the
+<span id="fn_172"></span>[227:1](ldjb14.htm#fr_172.md) Christ, or the
 Universal *Logos*, is not a personality in the usual acceptation of that
 term, but becomes personal if personified in man. Likewise the celestial
 virgin is personified in woman, in the same sense as the light of the
 sun becomes individualised in a flower, a diamond, or precious stone.
 
-<span id="fn_173"></span>[227:2](ldjb14.htm#fr_173) " Outside of a body
+<span id="fn_173"></span>[227:2](ldjb14.htm#fr_173.md) " Outside of a body
 the spirit cannot remain in its perfection, for as soon as it is
 separated from the form it loses its rule. The body is the mother of the
 spirit. In the body the spirit is born, and receives therein its power
 and strength. If it is separated from the body it still remains a
 spirit, but loses its ruling power." (*Aurora*, xxvi. 50.)
 
-<span id="fn_174"></span>[228:1](ldjb14.htm#fr_174) And the divinity in
+<span id="fn_174"></span>[228:1](ldjb14.htm#fr_174.md) And the divinity in
 man continues to be crucified in him until the self-will is dead and the
 Christ arisen in His own light.
 
-<span id="fn_175"></span>[229:1](ldjb14.htm#fr_175) The Christ can never
+<span id="fn_175"></span>[229:1](ldjb14.htm#fr_175.md) The Christ can never
 be born or revealed in any impure soul. A soul wherein regeneration is
 to take place must be an immaculate virgin, having no intercourse with
 any external god; but executing the will of God dwelling within herself.
 
-<span id="fn_176"></span>[229:2](ldjb14.htm#fr_176) "Ana" is the
+<span id="fn_176"></span>[229:2](ldjb14.htm#fr_176.md) "Ana" is the
 Chaldean name for the astral light (see *Secret Doctrine*). "In the
 language of nature the name 'Mary' means 'salvation from this valley of
 sorrow.'" (*Principles*, xviii. 37.)
@@ -692,26 +692,26 @@ because it is not known that this heaven is in this world, and this
 world rooted in heaven. They are both one in the other, like day and
 night." (*Baptism*, i.)
 
-<span id="fn_177"></span>[230:1](ldjb14.htm#fr_177) The spiritual soul
+<span id="fn_177"></span>[230:1](ldjb14.htm#fr_177.md) The spiritual soul
 does not become an animal soul in man; neither is the former a separate
 entity to be put into the latter; but as the vibrations of light awaken
 corresponding vibrations within the ether that is in darkness, so the
 divine harmony existing in the spiritual soul of the universe awakens
 corresponding harmonies in the soul of man.
 
-<span id="fn_178"></span>[232:1](ldjb14.htm#fr_178) Perhaps the same
+<span id="fn_178"></span>[232:1](ldjb14.htm#fr_178.md) Perhaps the same
 idea might be approached by saying: The divine harmony underlying the
 original order of nature, which was thrown into confusion by the action
 of an evil will within the seven qualities of eternal nature, created a
 centre of harmony within the soul of Mary, which, expanding from within
 outwardly, rendered her whole nature harmonious and spiritual.
 
-<span id="fn_179"></span>[233:1](ldjb14.htm#fr_179) The sunlight of
+<span id="fn_179"></span>[233:1](ldjb14.htm#fr_179.md) The sunlight of
 wisdom (self- knowledge and self-perception) is superior to all that is
 merely imaginary, fanciful, and illusive. Wisdom sees the illusion, but
 is not captivated by it.
 
-<span id="fn_180"></span>[233:2](ldjb14.htm#fr_180) No soul can become
+<span id="fn_180"></span>[233:2](ldjb14.htm#fr_180.md) No soul can become
 divine or deified by merely contemplating God as if He were something
 foreign to herself. God must become substantial and corporified in her.
 The mere idealist is satisfied with enjoying in his imagination the
@@ -721,17 +721,17 @@ acquires nothing better than what he already has. The true Christian,
 *i.e.*, the "ideo-realist," seeks to realise the ideal, so that it
 becomes a part of himself.
 
-<span id="fn_181"></span>[235:1](ldjb14.htm#fr_181) The *Manas* became
+<span id="fn_181"></span>[235:1](ldjb14.htm#fr_181.md) The *Manas* became
 absorbed in the *Buddhi*.
 
-<span id="fn_182"></span>[235:2](ldjb14.htm#fr_182) "God lives also in
+<span id="fn_182"></span>[235:2](ldjb14.htm#fr_182.md) "God lives also in
 man." (*Threefold Life*, xi. 106.) Each human being (if he is not
 godless) carries God and the Christ, the Holy Spirit, the virgin Mary,
 together with the angel Gabriel and all the rest of the angels and
 spirits within himself. It is, therefore, of little use to seek for all
 that in history. We can find it nowhere except within ourselves.
 
-<span id="fn_183"></span>[237:1](ldjb14.htm#fr_183) The divine spirit,
+<span id="fn_183"></span>[237:1](ldjb14.htm#fr_183.md) The divine spirit,
 *i.e.*, the spiritual consciousness of each or any individual person
 upon this earth, never was, is, or will be imprisoned, incarnated or
 reincarnated, or absorbed in any material mind or person. It for ever
@@ -739,7 +739,7 @@ remains in heaven, *i.e.*, in its own celestial state. The mind and the
 body are merely reflections of the light of the spirit as it shines into
 "matter." The true Man is in heaven; his shadow walks upon the earth.
 
-<span id="fn_184"></span>[237:2](ldjb14.htm#fr_184) Whenever I speak of
+<span id="fn_184"></span>[237:2](ldjb14.htm#fr_184.md) Whenever I speak of
 the man Christ, and of what a triune God and man He is, I make a
 distinction between the human creature, that came from us human beings,
 and the triune Divinity, the revealed word of the power and omnipotence.
@@ -752,16 +752,16 @@ stand or walk I do not say, "Here stands or walks Christ;" but I say,
 "Here stands and walks a Christian man in whom shines the sun of
 Christ." (*Stief*. 421.)
 
-<span id="fn_185"></span>[239:1](ldjb14.htm#fr_185) It is universal and
+<span id="fn_185"></span>[239:1](ldjb14.htm#fr_185.md) It is universal and
 nevertheless individual, like that of a god.
 
-<span id="fn_186"></span>[239:2](ldjb14.htm#fr_186) This would be like
+<span id="fn_186"></span>[239:2](ldjb14.htm#fr_186.md) This would be like
 imagining that the trunk of a tree was dwelling within the leaves.
 
-<span id="fn_187"></span>[240:1](ldjb14.htm#fr_187) The universal life
+<span id="fn_187"></span>[240:1](ldjb14.htm#fr_187.md) The universal life
 and the individual life are only one principle.
 
-<span id="fn_188"></span>[241:1](ldjb14.htm#fr_188) "You must not seek
+<span id="fn_188"></span>[241:1](ldjb14.htm#fr_188.md) "You must not seek
 for any historical knowledge in our writings. It is not possible to see
 God with earthly eyes, and therefore it is impossible for an unillumined
 mind to comprehend heavenly thoughts and perceptions in its terrestrial
@@ -771,6 +771,6 @@ vehicle. Like can be grasped only by like." (*Princ. Appendix*, 30.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Redemption](ldjb15)
+[Next: Chapter XII. Redemption](ldjb15.md)
 
 </div>

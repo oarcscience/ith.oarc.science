@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog28)  [Next](bog30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog28)  [Next](bog30.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ jealous of your other lovers. Blessed be."
 
 ------------------------------------------------------------------------
 
-[Next: Ninth Principle: Eris](bog30)
+[Next: Ninth Principle: Eris](bog30.md)

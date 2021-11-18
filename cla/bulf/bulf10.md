@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf09) [Next](bulf11) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf09) [Next](bulf11.md) 
 
 # CHAPTER XI.
 
@@ -418,4 +418,4 @@ characters personated is Psyche-
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XII. Cadmus- The Myrmidons.](bulf11)
+Next: [CHAPTER XII. Cadmus- The Myrmidons.](bulf11.md)

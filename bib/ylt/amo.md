@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](joe)  [Next](oba) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](joe)  [Next](oba.md) 
 
 ------------------------------------------------------------------------
 
@@ -586,4 +586,4 @@ That I have given to them, said Jehovah thy God!
 
 ------------------------------------------------------------------------
 
-[Next: Obadiah](oba)
+[Next: Obadiah](oba.md)

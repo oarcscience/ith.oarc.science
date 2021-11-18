@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm51)  [Next](rrm53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm51)  [Next](rrm53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ We will now compress (into certain well-considered
 passages) some of the ideas of that very remarkable chemist and
 speculative philosopher, B. V. Van Helmont, advanced in his *Paradoxal
 Discourses concerning the Macrocosm and Microcosm, or the Greater and
-Lesser World, and Their Union*. <span id="fr_19"></span>[1](#fn_19)
+Lesser World, and Their Union*. <span id="fr_19"></span>[1](#fn_19.md)
 
 Metals consist universally of a hot and a cold sulphur. They are as of
 male and female; in respect to both of which, the more intimately they
@@ -331,10 +331,10 @@ the 'Sun', and is implanted and perfected by him.
 
 ### Footnotes
 
-<span id="fn_19"></span>[436:1](rrm52.htm#fr_19) London: Printed by J.
+<span id="fn_19"></span>[436:1](rrm52.htm#fr_19.md) London: Printed by J.
 C. and Freeman Collins, for Robert Kettlewel, at The Hand and Scepter,
 near S. Dunstan's Church in Fleet Street. 1685.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII: The Outline of the Cabala, or Kabbalah...](rrm53)
+[Next: Chapter XXIII: The Outline of the Cabala, or Kabbalah...](rrm53.md)

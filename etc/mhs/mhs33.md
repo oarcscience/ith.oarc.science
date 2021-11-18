@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs32)  [Next](mhs34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs32)  [Next](mhs34.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ safeguard against the ever-watchful Bhuts.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Latin Word ''sal''](mhs34)
+[Next: III. The Latin Word ''sal''](mhs34.md)

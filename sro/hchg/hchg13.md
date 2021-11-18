@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hchg12)  [Next](hchg14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hchg12)  [Next](hchg14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1589639057/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ speaks of the great delight experienced in the *Grace* and of the great
 joy with which the communicants were penetrated. They were filled as the
 Psalmist was filled and she who sang the Magnificat: *Esurientes
 implevit bonis*. What was filled was the heart of man, and what was
-[reflected](errata.htm#0) was the entire soul. My contention is
+[reflected](errata.htm#0.md) was the entire soul. My contention is
 therefore that Robert de Borron had the idea of the Feeding Dish present
 to his mind when he made the scarcity of food for his company an
 opportunity for the discriminating test of the second great table of
@@ -350,4 +350,4 @@ with the grace of the Holy Ghoost." And, as the Welsh version has it,
 
 ------------------------------------------------------------------------
 
-[Next: § A.--The Summary of These Matters](hchg14)
+[Next: § A.--The Summary of These Matters](hchg14.md)

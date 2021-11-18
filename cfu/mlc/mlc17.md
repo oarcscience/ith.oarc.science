@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mlc16)  [Next](mlc18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mlc16)  [Next](mlc18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486280926/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6FKE/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths and Legends of China*, by Edward T.C. Werner, \[1922\], at
 Intangible Textual Heritage
 
@@ -91,7 +91,7 @@ look down on the feasters below; and he himself went down and brought
 away from the tables all kinds of nice food and wine, without appearing
 to be seen or noticed by any of the company. After a while a man dressed
 in red garments came forward and laid upon the table some dishes of
-cumquats;  <span id="fr_35"></span>[1](#fn_35) the master at once
+cumquats;  <span id="fr_35"></span>[1](#fn_35.md) the master at once
 requested the old man to go down and get him some of these. “Ah,”
 replied the latter, “that is an upright man: I cannot approach him.”
 Thereupon the master said to himself, “By thus seeking the companionship
@@ -111,7 +111,7 @@ A certain labourer, named Ma T’ien-jung, lost his wife when he was only
 about twenty years of age, and was too poor to take another. One day,
 when out hoeing in the fields, he beheld a nice-looking young lady leave
 the path and come tripping across the furrows toward him. Her face was
-well painted,  <span id="fr_36"></span>[2](#fn_36) and she had
+well painted,  <span id="fr_36"></span>[2](#fn_36.md) and she had
 altogether such a <span id="page_373">p. 373</span> refined look that Ma
 concluded she must have lost her way, and began to make some playful
 remarks in consequence. “You go along home,” cried the young lady, “and
@@ -131,7 +131,7 @@ following evening she made precisely the same excuse, promising to bring
 it another day. A few nights afterward Ma asked her once more for the
 money, and then she drew from her sleeve two pieces of silver, each
 weighing about five or six ounces. They were both of fine quality, with
-turned-up edges,  <span id="fr_37"></span>[3](#fn_37) and Ma was very
+turned-up edges,  <span id="fr_37"></span>[3](#fn_37.md) and Ma was very
 pleased, and stored them away in a cupboard. Some months after this he
 happened to require some money for use, and took out these pieces; but
 the person to whom he showed them said they were only pewter, and easily
@@ -146,7 +146,7 @@ ourselves to our company. Now you haven’t the luck of an ounce of silver
 to call your own; and what would you do, for instance, with a beautiful
 princess? My beauty may not be good enough for the aristocracy; but
 among your big-footed, bent-backed rustics,  <span
-id="fr_38"></span>[4](#fn_38) why, it may safely be called
+id="fr_38"></span>[4](#fn_38.md) why, it may safely be called
 ‘surpassing’!”
 
 A few months passed away, and then one day the young lady came and gave
@@ -161,7 +161,7 @@ what will she be like?” asked Ma. “Why, as your aspirations are for
 possessed of surpassing beauty.” “I hardly expect that,” said Ma; “at
 any rate, three ounces of silver will not be enough to get a wife.”
 “Marriages,” explained the young lady, “are made in the moon;  <span
-id="fr_39"></span>[5](#fn_39) mortals have nothing to do with them.”
+id="fr_39"></span>[5](#fn_39.md) mortals have nothing to do with them.”
 “And why must you be going away like this?” inquired Ma. “Because,”
 answered she, “for us to meet only by night is not the proper thing. I
 had <span id="page_375">p. 375</span> better get you another wife and
@@ -172,7 +172,7 @@ come, and Ma at once asked what the proposed bride was like; to which
 the former replied that she was very passable-looking. Four or five
 ounces of silver was fixed as the marriage present, Ma making no
 difficulty on that score, but declaring he must have a peep at the young
-lady.  <span id="fr_40"></span>[6](#fn_40) The go-between said she was a
+lady.  <span id="fr_40"></span>[6](#fn_40.md) The go-between said she was a
 respectable girl, and would never allow herself to be seen; however, it
 was arranged that they should go to the house together, and await a good
 opportunity. So off they went, Ma remaining outside while the go-between
@@ -198,7 +198,7 @@ meaning of his fox-friend’s remarks then flashed upon him.
 At Chin-ling there lived a young man named Ku, who had considerable
 ability, but was very poor; and having an old mother, he was very loth
 to leave home. So he employed himself in writing or painting  <span
-id="fr_41"></span>[7](#fn_41) for people, and gave his mother the
+id="fr_41"></span>[7](#fn_41.md) for people, and gave his mother the
 proceeds, going on thus till he was twenty-five years of age without
 taking a wife. Opposite to their house was another building, which had
 long been untenanted; and one day an old woman and a young girl came to
@@ -326,7 +326,7 @@ obtained two lumps of silver, with which he bought some choice morsels
 to help them out with their wine that evening. The fox now told him that
 there was a vault in his backyard which he ought to open; and when he
 did so he found therein more than a hundred strings of cash.  <span
-id="fr_42"></span>[8](#fn_42) “Now then,” cried Ch’ê, delighted, “I
+id="fr_42"></span>[8](#fn_42.md) “Now then,” cried Ch’ê, delighted, “I
 shall have no more anxiety about funds for buying wine with all this in
 my purse!” “Ah,” replied the fox, “the water in a puddle is not
 inexhaustible. I must do something further for you.” Some days afterward
@@ -342,10 +342,10 @@ on Ch’ê’s wife as a sister, and on Ch’ê’s children as his own; but whe
 subsequently Ch’ê died it never came to the house again.
 
 <span id="img_p382"></span> <span align="CENTER"> [![](tn/p382.jpg)  
-Click to enlarge](img/p382.jpg)</span>  
+Click to enlarge](img/p382.jpg.md)</span>  
 Chia Tzŭ-lung Finds the Stone
 
-## The Alchemist  <span id="fr_43"></span>[9](#fn_43)
+## The Alchemist  <span id="fr_43"></span>[9](#fn_43.md)
 
 At Ch’ang-an there lived a scholar named Chia Tzŭ-lung, who one day
 noticed a very refined-looking stranger; and, on making inquiries about
@@ -393,7 +393,7 @@ tipsy and lost it; but divination told me where it was, and if you will
 now restore it to me I will take care to repay your kindness.” “You have
 divined rightly,” replied Chia; “the stone is with me; but recollect, if
 you please, that the indigent Kuan Chung  <span
-id="fr_44"></span>[10](#fn_44) shared the wealth of his friend Pao Shu.”
+id="fr_44"></span>[10](#fn_44.md) shared the wealth of his friend Pao Shu.”
 At this hint Mr Chên said he would give Chia one hundred ounces of
 silver; to which the latter replied that one hundred ounces was a fair
 offer, but that he would far sooner have Mr Chên teach him the formula
@@ -403,7 +403,7 @@ out, “You are an Immortal yourself; you must know well enough that I
 would never deceive a friend.” So Mr Chên was prevailed upon to teach
 him the formula, and then Chia would have tried the art upon the immense
 stone <span id="page_384">p. 384</span> washing-block  <span
-id="fr_45"></span>[11](#fn_45) which was lying near at hand had not Mr
+id="fr_45"></span>[11](#fn_45.md) which was lying near at hand had not Mr
 Chên seized his arm and begged him not to do anything so outrageous.
 Chia then picked up half a brick and laid it on the washing-block,
 saying to Mr Chên, “This little piece is not too much, surely?”
@@ -415,7 +415,7 @@ washing-block was already a solid mass of silver, and Chia quietly
 handed him back the stone. “Alas! alas!” cried Mr Chên in despair, “what
 is to be done now? For, having thus irregularly conferred wealth upon a
 mortal, Heaven will surely punish me. Oh, if you would save me, give
-away one hundred coffins  <span id="fr_46"></span>[12](#fn_46) and one
+away one hundred coffins  <span id="fr_46"></span>[12](#fn_46.md) and one
 hundred suits of wadded clothes.” “My friend,” replied Chia, “my object
 in getting money was not to hoard it up like a miser.” Mr Chên was
 delighted at this; and during the next three years Chia engaged in
@@ -423,7 +423,7 @@ trade, taking care to fulfil always his promise to Mr Chên. At the
 expiration of that time Mr Chên himself reappeared, and, grasping Chia’s
 hand, said to him, “Trustworthy and noble friend, when we last parted
 the Spirit of Happiness impeached me before God,  <span
-id="fr_47"></span>[13](#fn_47) and my name was erased from the list of
+id="fr_47"></span>[13](#fn_47.md) and my name was erased from the list of
 <span id="page_385">p. 385</span> angels. But now that you have carried
 out my request that sentence has been rescinded. Go on as you have
 begun, without ceasing.” Chia asked Mr Chên what office he filled in
@@ -438,30 +438,30 @@ age of ninety years the fox still used to visit him from time to time.
 
 ### Footnotes
 
-<span id="fn_35"></span>[386:1](mlc17.htm#fr_35) Literally ‘golden
+<span id="fn_35"></span>[386:1](mlc17.htm#fr_35.md) Literally ‘golden
 oranges.’ These are skilfully preserved by the Cantonese, and form a
 delicious sweetmeat for dessert.
 
-<span id="fn_36"></span>[386:2](mlc17.htm#fr_36) Only slave-girls and
+<span id="fn_36"></span>[386:2](mlc17.htm#fr_36.md) Only slave-girls and
 women of the poorer classes and old women omit this very important part
 of a Chinese lady’s toilet.
 
-<span id="fn_37"></span>[386:3](mlc17.htm#fr_37) Alluding probably to
+<span id="fn_37"></span>[386:3](mlc17.htm#fr_37.md) Alluding probably to
 the shape of the ‘shoe’ or ingot of silver.
 
-<span id="fn_38"></span>[386:4](mlc17.htm#fr_38) Slave-girls do not have
+<span id="fn_38"></span>[386:4](mlc17.htm#fr_38.md) Slave-girls do not have
 their feet compressed.
 
-<span id="fn_39"></span>[386:5](mlc17.htm#fr_39) Wherein resides an old
+<span id="fn_39"></span>[386:5](mlc17.htm#fr_39.md) Wherein resides an old
 gentleman who ties together with a red cord the feet of those destined
 to become man and wife. From this bond there is no escape, no matter
 what distance may separate the affianced pair.
 
-<span id="fn_40"></span>[386:6](mlc17.htm#fr_40) This proceeding is
+<span id="fn_40"></span>[386:6](mlc17.htm#fr_40.md) This proceeding is
 highly improper, but is ‘winked at’ in a large majority of Chinese
 betrothals.
 
-<span id="fn_41"></span>[386:7](mlc17.htm#fr_41) The usual occupation of
+<span id="fn_41"></span>[386:7](mlc17.htm#fr_41.md) The usual occupation of
 poor scholars who are ashamed to go into trade and who have not
 enterprise enough to start as doctors or fortune-tellers. Besides
 painting pictures and fans, and illustrating books, these men write
@@ -469,34 +469,34 @@ fancy scrolls in the various ornamental styles so much prized by the
 Chinese; they keep accounts for people, and write or read business and
 private letters for the illiterate masses.
 
-<span id="fn_42"></span>[386:8](mlc17.htm#fr_42) Say about £10.
+<span id="fn_42"></span>[386:8](mlc17.htm#fr_42.md) Say about £10.
 
-<span id="fn_43"></span>[386:9](mlc17.htm#fr_43) Alchemy is first
+<span id="fn_43"></span>[386:9](mlc17.htm#fr_43.md) Alchemy is first
 mentioned in Chinese history B.C. 133, and was widely cultivated in
 China during the Han dynasty by priests of the Taoist religion.
 
-<span id="fn_44"></span>[386:10](mlc17.htm#fr_44) Kuan Chung and Pao Shu
+<span id="fn_44"></span>[386:10](mlc17.htm#fr_44.md) Kuan Chung and Pao Shu
 are the Chinese types of friendship. They were two statesmen of
 considerable ability who flourished in the seventh century B.C.
 
-<span id="fn_45"></span>[386:11](mlc17.htm#fr_45) These are used,
+<span id="fn_45"></span>[386:11](mlc17.htm#fr_45.md) These are used,
 together with a heavy wooden *bâton*, by the Chinese washerman, the
 effect being most disastrous to a European wardrobe.
 
-<span id="fn_46"></span>[386:12](mlc17.htm#fr_46) To provide coffins for
+<span id="fn_46"></span>[386:12](mlc17.htm#fr_46.md) To provide coffins for
 poor people has ever been regarded as an act of transcendent merit. The
 tornado at Canton in April 1878, in which several thousand lives were
 lost, afforded an admirable opportunity for the exercise of this form of
 charity—an opportunity which was largely taken advantage of by the
 benevolent.
 
-<span id="fn_47"></span>[386:13](mlc17.htm#fr_47) For usurping its
+<span id="fn_47"></span>[386:13](mlc17.htm#fr_47.md) For usurping its
 prerogative by allowing Chia to obtain wealth.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Miscellaneous Legends](mlc18)
+[Next: Chapter XVI. Miscellaneous Legends](mlc18.md)
 
 </div>

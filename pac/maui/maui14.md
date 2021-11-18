@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](maui13)  [Next](maui15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](maui13)  [Next](maui15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHBQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAHBQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Legends of Maui, A Demi-God of Polynesia*, by W. D. Westervelt,
 \[1910\], at Intangible Textual Heritage
 
@@ -270,4 +270,4 @@ So dusk of eve came on."
 
 ------------------------------------------------------------------------
 
-[Next: XII. Hina of Hilo](maui15)
+[Next: XII. Hina of Hilo](maui15.md)

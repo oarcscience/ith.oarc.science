@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht06)  [Next](cht08) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht06)  [Next](cht08.md) 
 
 ------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ until he was covered with ashes and looked like all old man.
 In the evening the noise of falling objects was heard. A person entered
 and when he came to the middle of the house he cried: "I smell salmon; I
 smell salmon." When he saw the old man he kicked him many times, until
-blood came out of his mouth. <span id="fr_1"></span>[1](#fn_1) Then the
+blood came out of his mouth. <span id="fr_1"></span>[1](#fn_1.md) Then the
 woman arose and gave him one bundle of meat, saying: "I am a human
 being; do you think I have no relatives? This old man \[is one of my
 family\]; he brought this for you." "O, my sister in-law's relative, why
@@ -492,9 +492,9 @@ piece of whale meat each.
 
 ### Footnotes
 
-<span id="fn_1"></span>[81:1](cht07.htm#fr_1) In fact he was
+<span id="fn_1"></span>[81:1](cht07.htm#fr_1.md) In fact he was
 expectorating, the juice of the alder bark which he had chewed.
 
 ------------------------------------------------------------------------
 
-[Next: 5. Raven and Gull](cht08)
+[Next: 5. Raven and Gull](cht08.md)

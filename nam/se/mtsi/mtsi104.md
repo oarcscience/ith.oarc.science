@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi103)  [Next](mtsi105) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi103)  [Next](mtsi105.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ This is how it is told.
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Orphan And The Owl](mtsi105)
+[Next: 12. The Orphan And The Owl](mtsi105.md)

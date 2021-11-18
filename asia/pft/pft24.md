@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft23)  [Next](pft25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft23)  [Next](pft25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -44,8 +44,8 @@ Again another shell answered, "Here I am!"
 The carabao was surprised that the shell could keep up with him. But he
 ran on and on, and every time he stopped to call, another shell answered
 him. But he was determined that the shell should not beat him, so he ran
-until he dropped dead.  <span id="fr_90"></span>[91](pft68.htm#fn_90)
+until he dropped dead.  <span id="fr_90"></span>[91](pft68.htm#fn_90.md)
 
 ------------------------------------------------------------------------
 
-[Next: The Alligator's Fruit](pft25)
+[Next: The Alligator's Fruit](pft25.md)

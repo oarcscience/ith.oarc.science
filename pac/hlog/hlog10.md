@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlog09)  [Next](hlog11) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlog09)  [Next](hlog11.md) 
 
 ------------------------------------------------------------------------
 
@@ -176,4 +176,4 @@ shape for wonderful and successful voyages.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Lau-ka-ieie](hlog11)
+[Next: VI. Lau-ka-ieie](hlog11.md)

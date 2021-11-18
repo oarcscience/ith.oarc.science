@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn02)  [Next](rmn04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn02)  [Next](rmn04.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,11 +53,11 @@ This subject has been several times treated by the artists of antiquity.
 Among others a painting was found at Herculaneum which has none of the
 obscenity of the group here described: Marsyas is there represented with
 the features of a Faun and the legs of a man. <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 According to Pliny, the invention of the pastoral flute, composed of
 several reeds bound together, and called *fistula* or *syrinx*, is due
-to Pan. <span id="fr_8"></span>[2](#fn_8)
+to Pan. <span id="fr_8"></span>[2](#fn_8.md)
 
 The above group is taken from the Farnese Museum.
 
@@ -65,10 +65,10 @@ The above group is taken from the Farnese Museum.
 
 ### Footnotes
 
-<span id="fn_7"></span>[4:1](rmn03.htm#fr_7) Pausanias, x. 30.
+<span id="fn_7"></span>[4:1](rmn03.htm#fr_7.md) Pausanias, x. 30.
 
-<span id="fn_8"></span>[4:2](rmn03.htm#fr_8) Pliny, vii. 56.
+<span id="fn_8"></span>[4:2](rmn03.htm#fr_8.md) Pliny, vii. 56.
 
 ------------------------------------------------------------------------
 
-[Next: Plate III: Venus Callipyge](rmn04)
+[Next: Plate III: Venus Callipyge](rmn04.md)

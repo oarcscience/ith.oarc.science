@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft29)  [Next](pft31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft29)  [Next](pft31.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### HOW THE FIRST HEAD WAS TAKEN  <span id="fr_104"></span>[105](pft68.htm#fn_104)
+### HOW THE FIRST HEAD WAS TAKEN  <span id="fr_104"></span>[105](pft68.htm#fn_104.md)
 
 *Igorot*
 
@@ -22,7 +22,7 @@ One day the Moon, who was a woman named Kabigat, sat out in the yard
 making a large copper pot. The copper was still soft and pliable like
 clay, and the woman squatted on the ground with the heavy pot against
 her knees while she patted and shaped it.  <span
-id="fr_105"></span>[106](pft68.htm#fn_105)
+id="fr_105"></span>[106](pft68.htm#fn_105.md)
 
 Now while she was working a son of Chal-chal, the Sun, came by and
 stopped to watch her mould the form. Against the inside of the jar she
@@ -45,4 +45,4 @@ heads."
 
 ------------------------------------------------------------------------
 
-[Next: The Serpent Eagle](pft31)
+[Next: The Serpent Eagle](pft31.md)

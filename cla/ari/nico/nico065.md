@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico064) 
-[Next](nico066) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico064.md) 
+[Next](nico066.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ virtue of a different part of the soul.
 ------------------------------------------------------------------------
 
 [Next: Chapter 12. What is the use of philosophic and of practical
-wisdom?...](nico066)
+wisdom?...](nico066.md)

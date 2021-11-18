@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Next](vlsng01) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Next](vlsng01.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Killings.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](vlsng01)
+[Next: Introduction](vlsng01.md)

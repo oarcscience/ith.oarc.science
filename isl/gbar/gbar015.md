@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar014) [Next](gbar016)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar014) [Next](gbar016.md)
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ house of Judah with love, and blessed be his holy name.
 
 ------------------------------------------------------------------------
 
-[Next](gbar016)
+[Next](gbar016.md)
 
  
 

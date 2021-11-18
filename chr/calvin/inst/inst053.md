@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst052)  [Next](inst054) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst052)  [Next](inst054.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ considered in the Twenty-Fifth Chapter.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 1. - THE BENEFITS OF CHRIST MADE AVAILABLE TO US BY THE
-SECRET OPERATION OF THE SPIRIT.](inst054)
+SECRET OPERATION OF THE SPIRIT.](inst054.md)

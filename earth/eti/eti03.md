@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti02)  [Next](eti04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti02)  [Next](eti04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
 
 ### PREFACE TO THIS EDITION.
 
-The foot-note on page [160](eti31.htm#page_160), with the connected
+The foot-note on page [160](eti31.htm#page_160.md), with the connected
 matter, has awakened considerable interest in the life and fate of
 Professor Daniel Vaughn.
 
@@ -58,4 +58,4 @@ J. U. L.
 
 ------------------------------------------------------------------------
 
-[Next: A Valuable and Unique Library](eti04)
+[Next: A Valuable and Unique Library](eti04.md)

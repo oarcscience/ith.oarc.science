@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe069)  [Next](prwe071) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe069)  [Next](prwe071.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ Elwood In her Trayels."--Gentlemen's Magazine, July 1831.
 
 ------------------------------------------------------------------------
 
-[Next: The Dancing Stones, the Hurlers &c](prwe071)
+[Next: The Dancing Stones, the Hurlers &c](prwe071.md)

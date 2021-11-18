@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../aww/aww) 
-[Previous](tos)  [Next](twn) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../aww/aww.md) 
+[Previous](tos)  [Next](twn.md) 
 
 ------------------------------------------------------------------------
 
@@ -3969,4 +3969,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Twelfe Night, Or what you will](twn) 
+[Next: Twelfe Night, Or what you will](twn.md) 

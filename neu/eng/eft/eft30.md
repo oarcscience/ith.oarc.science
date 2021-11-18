@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft29)  [Next](eft31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft29)  [Next](eft31.md) 
 
 ------------------------------------------------------------------------
 
 # Earl Mar's Daughter
 
 <span id="img_034"></span> [![](tn/034.jpg)  
-Click to enlarge](img/034.jpg)
+Click to enlarge](img/034.jpg.md)
 
 ONE fine summer's day Earl Mar's daughter went into the castle garden,
 dancing and tripping along. And as she played and sported she would stop
@@ -101,7 +101,7 @@ and then Earl Mar's men, and then the bridegroom, and lastly, pale and
 beautiful, Earl Mar's daughter herself.
 
 <span id="img_035"></span> [![](tn/035.jpg)  
-Click to enlarge](img/035.jpg)
+Click to enlarge](img/035.jpg.md)
 
 Slowly, slowly they moved to stately music till they came past the trees
 on which the birds were settling. A word from Prince Florentine, the
@@ -121,4 +121,4 @@ mother, who took the spell off him and they lived happy ever afterwards.
 
 ------------------------------------------------------------------------
 
-[Next: Mr Miacca](eft31)
+[Next: Mr Miacca](eft31.md)

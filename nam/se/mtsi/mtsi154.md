@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi153)  [Next](mtsi155) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi153)  [Next](mtsi155.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ Then they cooked all the fish and ate them.
 <span id="page_137">p. 137</span>
 
 After this the young man said to his wife again, "Comb your hair." <span
-id="fr_37"></span>[1](#fn_37) The two went to the water, and when they
+id="fr_37"></span>[1](#fn_37.md) The two went to the water, and when they
 had gotten there and she had washed her hair numbers of lice fell out
 which turned into fish. Then they went back to the house, and she said
 to the people, "Take your baskets and go to the water to see what is in
@@ -114,9 +114,9 @@ about midnight the house fell down upon him.
 
 ### Footnotes
 
-<span id="fn_37"></span>[137:1](mtsi154.htm#fr_37) This episode is
+<span id="fn_37"></span>[137:1](mtsi154.htm#fr_37.md) This episode is
 omitted in some versions.
 
 ------------------------------------------------------------------------
 
-[Next: 19. The Celestial Skiff](mtsi155)
+[Next: 19. The Celestial Skiff](mtsi155.md)

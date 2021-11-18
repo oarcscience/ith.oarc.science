@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](num)  [Next](jos) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](num)  [Next](jos.md) 
 
 ------------------------------------------------------------------------
 
@@ -3842,4 +3842,4 @@ Israel gedoen het.
 
 ------------------------------------------------------------------------
 
-[Next: Joshua](jos)
+[Next: Joshua](jos.md)

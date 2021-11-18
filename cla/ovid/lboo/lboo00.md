@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Ovid](../index)  [Index](index)  [Next](lboo01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Ovid](../index)  [Index](index)  [Next](lboo01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,18 +26,18 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417905824/internetsacredte)
 <span id="img_front"></span>
 
 [![](tn/front.jpg)  
-Click to enlarge](img/front.jpg)
+Click to enlarge](img/front.jpg.md)
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="img_cover"></span>
 
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 
 Scanned at Intangible Textual Heritage, January, 2002. Proofed and
@@ -50,4 +50,4 @@ renewed at the US Copyright Office as required by law at the time.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction: I](lboo01)
+[Next: Introduction: I](lboo01.md)

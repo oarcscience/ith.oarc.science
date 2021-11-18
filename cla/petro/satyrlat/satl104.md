@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat14.htm#CIV)  [Previous](satl103) 
-[Next](satl105) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat14.htm#CIV)  [Previous](satl103.md) 
+[Next](satl105.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ neque capillos deponere, nisi cum pelago ventus irascitur"
 
 ------------------------------------------------------------------------
 
-[Next: CV](satl105)
+[Next: CV](satl105.md)

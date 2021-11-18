@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Next](toe01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Next](toe01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674996143/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../laot/img/tease.jpg)](index)  
+[![](../laot/img/tease.jpg)](index.md)  
 *The Treatise of Eusebius Against the Life of Apollonius by
 Philostratus*, by Eusebius, tr. F.C. Conybeare, \[1912\], at Intangible
 Textual Heritage
@@ -38,4 +38,4 @@ it was published prior to 1922.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters I to X](toe01)
+[Next: Chapters I to X](toe01.md)

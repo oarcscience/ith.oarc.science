@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo35)  [Next](hoo37) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo35)  [Next](hoo37.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 
 ONLY-Begotten, noble race of Jove,  
 Blessed and fierce, who joy'st in caves to rove:  <span
-id="fr_88"></span>[2](#fn_88)
+id="fr_88"></span>[2](#fn_88.md)
 
 <span id="page_157">p. 157</span>
 
@@ -27,9 +27,9 @@ Mother of arts, imperious; understood,
 Rage to the wicked., wisdom to the good:  
 Female and male, the arts of war are thine,  
 Fanatic, much-form'd dragoness, divine:  <span
-id="fr_89"></span>[14](#fn_89)  
+id="fr_89"></span>[14](#fn_89.md)  
 O'er the Phlegrean giants rous'd to ire, 15  <span
-id="fr_90"></span>[15](#fn_90)  
+id="fr_90"></span>[15](#fn_90.md)  
 Thy coursers driving, with destruction dire.
 
 <span id="page_158">p. 158</span>
@@ -53,7 +53,7 @@ O, much implor'd, art's parent, blue eyed maid.
 
 ### Footnotes
 
-<span id="fn_88"></span>[156:2](hoo36.htm#fr_88) XXXI. Ver. 2.\] *Who
+<span id="fn_88"></span>[156:2](hoo36.htm#fr_88.md) XXXI. Ver. 2.\] *Who
 joy'st in caves to rove*. Proclus, in Plat. Theol, P. 372. informs us,
 that there are three zoogonic or vivific <span id="page_157">p.
 157</span> monads, Diana, Proserpine, and Minerva; and that these three
@@ -65,13 +65,13 @@ the reason from hence, why Minerva is called, in line 14, Female and
 Male, as well as the Moon; and why the Moon is called in the Hymn to her
 πάνσοφε κύρη, i. e. "all-wife virgin."
 
-<span id="fn_89"></span>[157:14](hoo36.htm#fr_89) Ver. 14.\]
+<span id="fn_89"></span>[157:14](hoo36.htm#fr_89.md) Ver. 14.\]
 *Much-form'd dragoness*. It is easy to perceive the  
 agreement between Minerva, who is the same with divine  
 Wisdom and Providence, and a Dragon; since according to  
 Phurnutus, a dragon is of a vigilant and guardian nature.
 
-<span id="fn_90"></span>[157:15](hoo36.htm#fr_90) Ver. 15.\] *O'er the
+<span id="fn_90"></span>[157:15](hoo36.htm#fr_90.md) Ver. 15.\] *O'er the
 Phlegrean giants*, &c. The fable of the giants is common; but its
 philosophical explanation is, I fear, but little known and less
 understood. For the sake of thc liberal, therefore, the following
@@ -129,7 +129,7 @@ interpreted divine concerns, introduced the battles and wars of the
 Gods, according to the first reasons, i. e. so far as the divine genera
 admit of diversity, according to the first principles of all things. For
 fables, concealing truth under a veil, shew that such things as
-[recall](errata.htm#5) to [principles](errata.htm#6), oppose and fight
+[recall](errata.htm#5) to [principles](errata.htm#6.md), oppose and fight
 with the authors of generation: collecting with separating natures,
 things unifying with such as multiply by the progression of beings; and
 universal genera, with such as operate in a partial and particular
@@ -144,4 +144,4 @@ farther account of Minerva, see the note to Hymn ix. to Nature.
 
 ------------------------------------------------------------------------
 
-[Next: XXXII: To Victory](hoo37)
+[Next: XXXII: To Victory](hoo37.md)

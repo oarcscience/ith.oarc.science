@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl13)  [Next](flhl15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl13)  [Next](flhl15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -27,10 +27,10 @@ THE contents of this chapter are practically identical with Mejr-ed-dìn,
 vol. i. ch. i., though it is here derived from the lips of an Arab
 Khatìb.
 
-P. [5](flhl04.htm#page_5). The idea of the great serpent is analogous to
+P. [5](flhl04.htm#page_5.md). The idea of the great serpent is analogous to
 that of the great Midgard-snake in Scandinavian myths.
 
-P. [6](flhl04.htm#page_6). *Behemoth and the great whale*.--This is
+P. [6](flhl04.htm#page_6.md). *Behemoth and the great whale*.--This is
 apparently drawn from Talmudic sources. Thus we read in Bava Bathra,
 fol. 74, col. 2, R. Judah said: Everything that God created in the world
 He created male and female. And thus He did with Leviathan the piercing
@@ -51,7 +51,7 @@ feast of the righteous on their entry into Paradise.
 There are, in Rabbinical writings, many similar allusions to the great
 ox and the great fish or sea dragon.
 
-P. [7](flhl04.htm#page_7). *Eclipses of the moon*.--On the 6th of
+P. [7](flhl04.htm#page_7.md). *Eclipses of the moon*.--On the 6th of
 October 1903, we had the good fortune to bivouac within the walls of the
 famous palace of Meshetta in Moab. While the sun was setting the moon
 was eclipsed, and a more magnificent spectacle, in surroundings so
@@ -76,11 +76,11 @@ Society*, 1906, and page 104 of vol. xxvii. 1906).
 
 II
 
-P. [9](flhl05.htm#page_9). *The mother of devils*.--For the Jewish
+P. [9](flhl05.htm#page_9.md). *The mother of devils*.--For the Jewish
 notions on this subject see Bodenschatz, iii. ch. x. pars. 5-7, pp. 169,
 170.
 
-P. [11](flhl05.htm#page_11). *Origin of ghouls, etc*.--For Jewish
+P. [11](flhl05.htm#page_11.md). *Origin of ghouls, etc*.--For Jewish
 notions (which are also current amongst other orientals) on this
 subject, see Bodenschatz, iii. ch. x. par. 3, and Wünche, "Bibliotheca
 Rabbinica, Midrasch Bereshit Rabba," p. 94, and Edersheim, "Life and
@@ -88,7 +88,7 @@ Times of Jesus the Messiah," Appendix xiii. Section III. par. 1., also
 note 41 of "Tales told in Palestine," by J. E. Hanauer, edited by H. G.
 Mitchell (Cincinnati: Jennings & Graham. New York: Eaton & Mains).
 
-P. [11](flhl05.htm#page_11). *Cain and Abel*.--Kabil and Habil, or Cain
+P. [11](flhl05.htm#page_11.md). *Cain and Abel*.--Kabil and Habil, or Cain
 and Abel, with their two sisters were the first children born to Adam
 and Eve. Adam, by Allah's direction, ordered Cain to marry Abel's twin
 sister, and that Abel should marry Cain's (for, it being the common
@@ -96,7 +96,7 @@ opinion that marriages ought not to take place with those very near
 akin, such as their own sisters, it seemed reasonable to suppose that
 they ought to take those of the remoter degree, but this Cain refused to
 agree to, because his sister was the handsomer. <span
-id="fr_32"></span>[1](#fn_32) Hereupon Adam told them to make their
+id="fr_32"></span>[1](#fn_32.md) Hereupon Adam told them to make their
 offerings to Allah, thereby referring the dispute to
 
 <span id="page_70">p. 70</span>
@@ -123,7 +123,7 @@ the latter was hunting at Tell el Kaimûn, near the Kishon, at the
 northern foot of Mount Carmel. (See Sale's Koran, pp. 76 and 77, text
 and foot-note. Chandos Classics.)
 
-P. [12](flhl05.htm#page_12). *Burial of Adam*.--A Christian tradition to
+P. [12](flhl05.htm#page_12.md). *Burial of Adam*.--A Christian tradition to
 the effect that Adam was buried with his head resting at the foot of
 Calvary, and that he was reawakened to life by some drops of Christ's
 blood trickling on to his skull at the Crucifixion, may be traced back
@@ -131,7 +131,7 @@ to the time of Origen in the second century.
 
 III
 
-P. [13](flhl06.htm#page_13). *The nâkûs*.--The nâkûs is a plank or a
+P. [13](flhl06.htm#page_13.md). *The nâkûs*.--The nâkûs is a plank or a
 plate of metal which is struck with a mallet to announce the time of
 service. When the Moslems under Omar Ibn el Khattab first took Jerusalem
 (A.D. 637), the use of church-bells was prohibited, but the nâkûs was
@@ -156,7 +156,7 @@ in Palestine, though the writer remembers the time when a great riot
 took place amongst the Moslems at Nablûs because a small bell had been
 put up in the Mission school in that place.
 
-P. [14](flhl06.htm#page_14). *The donkey and Iblìs in the
+P. [14](flhl06.htm#page_14.md). *The donkey and Iblìs in the
 ark*.--Presumably to pay the donkey out for this meanness, Iblìs
 whispered in his ear that all the females of his kind had been
 destroyed; whereupon the unfortunate beast made so terrible a noise of
@@ -165,18 +165,18 @@ by adding, "But there is one left for you." At that the donkey's noise
 subsided in one long "Ah!" of relief. This is the origin of the donkey's
 braying. (I have the story from a friend in Egypt.)--ED.
 
-P. [15](flhl06.htm#page_15). *The ’abâyeh*, or ’aba, is the wide,
+P. [15](flhl06.htm#page_15.md). *The ’abâyeh*, or ’aba, is the wide,
 coarse, outer garment worn by all classes in Palestine, and on occasion
 adaptable to other uses. See Deut. xxiv. 13; Amos ii. 8; P.E.F.
 Quarterly Statement, 1881, p. 298. The fables concerning Og are
 doubtless derived from Rabbinical sources; see article "Og" in Smith's
 Bible Dictionary.
 
-P. [17](flhl06.htm#page_17). "The ark informed Noah that here the Beyt
+P. [17](flhl06.htm#page_17.md). "The ark informed Noah that here the Beyt
 el Makdas would be rebuilt." *Cf*. "Uns el Jelìl." Cairo edition, vol.
 i. pp. 19-22.
 
-P. [17](flhl06.htm#page_17). *Marriage of Noah's daughter*.--This story
+P. [17](flhl06.htm#page_17.md). *Marriage of Noah's daughter*.--This story
 is a very common one. There is a version of it given by P. Baldensperger
 in one of the Quarterly Statements of the P.E.F. The tomb of one of
 Noah's daughters is shown at ’Ellar in Southern Palestine, and another,
@@ -184,7 +184,7 @@ it is said, at, or near, Baalbec.
 
 IV
 
-P. [18](flhl07.htm#page_18). *Job*.--In the fourth Christian century
+P. [18](flhl07.htm#page_18.md). *Job*.--In the fourth Christian century
 many pilgrims used to visit the district east of the Jordan in order to
 see and embrace the dunghill on which Job sat and scratched himself in
 his day, and even now there may be seen at the ancient sanctuary called
@@ -201,19 +201,19 @@ Hinnom. This well is a hundred feet
 deep, and contains an unfailing supply of water, a great deal of which
 is carried in skins to supply the needs of Jerusalem. A few steps east
 of this well, under a ledge of rock, in which may still be seen the vats
-used by the fullers of antiquity, <span id="fr_33"></span>[1](#fn_33) is
+used by the fullers of antiquity, <span id="fr_33"></span>[1](#fn_33.md) is
 a small opening. It is the entrance to a cave which, according to
 peasants of the neighbouring village of Siloam, was once the
 dwelling-place of the Patriarch.
 
 It is said that Ayûb was a Rûmi, a Greco-Roman descendant of Esau, <span
-id="fr_34"></span>[2](#fn_34) and that his wife's name was Rahmeh
+id="fr_34"></span>[2](#fn_34.md) and that his wife's name was Rahmeh
 (Mercy). She, rather than her husband, is the bright example of human
 patience. A few years ago an Arab woman of the Orthodox Eastern Church
 disagreed with her husband and went for advice to a priest, who bade her
 take example from Job's wife.
 
-P. [19](flhl07.htm#page_19). *El Hakìm Lokman*.--The greater part of the
+P. [19](flhl07.htm#page_19.md). *El Hakìm Lokman*.--The greater part of the
 thirty-first sûra of the Koran is a record of wise sayings of Lokman.
 (The following anecdote is related in the larger "Kâmûs" (Dictionary) of
 El Bistani: "A certain man asked Lokman, "Did I not once see thee
@@ -222,7 +222,7 @@ degree of greatness?" Lokman answered, "By speaking the truth, restoring
 the pledge, and refraining from talk on matters which do not concern
 me."
 
-P. [20](flhl07.htm#page_20). *Danger of sleeping in the fields where
+P. [20](flhl07.htm#page_20.md). *Danger of sleeping in the fields where
 yellow melons grow*.--In order to prevent such accidents, in the
 occurrence of which they implicitly believe, the fellahìn who have to
 watch the melon-fields are said to eat a great deal of garlic, and to
@@ -230,7 +230,7 @@ strew bits of that rank vegetable around their beds. The smell is said
 to be an effective protection, not only against snakes, but also the
 evil eye.
 
-P. [21](flhl07.htm#page_21). *Benj* = Bhang, Indian hemp or hashish,
+P. [21](flhl07.htm#page_21.md). *Benj* = Bhang, Indian hemp or hashish,
 figures in Eastern tales, and with effects more wonderful than those of
 chloroform. This story of Lokman is given in a different version in
 "Tales told in Palestine," under the title of "El Hakìm Risto."
@@ -241,7 +241,7 @@ A. Cherbonneau (Paris: Hachette & Cie. 1884).
 
 V
 
-P. [33](flhl08.htm#page_33). *The rite of circumcision*.--Sarah, in a
+P. [33](flhl08.htm#page_33.md). *The rite of circumcision*.--Sarah, in a
 fit of furious jealousy, is said to have sworn to imbrue her hands in
 the blood
 
@@ -254,7 +254,7 @@ to submit to which has, since then, become a "sunnah," or traditional
 and religious custom amongst Mohammedan women. (See Mejr-ed-dìn, vol. i.
 p. 46.)
 
-P. [35](flhl08.htm#page_35). *The patriarchs said to be not dead but
+P. [35](flhl08.htm#page_35.md). *The patriarchs said to be not dead but
 living*.--The tomb of the patriarchs at Hebron is very jealousy guarded
 against intruders who are not Moslems. Very few Christians have ever
 been admitted even into the courts of the Haram; the first in modern
@@ -284,7 +284,7 @@ the Crucifixion, planted at the head of Adam's tomb, and that some drops
 of the Saviour's blood, percolating through the soil and the fissure
 made in the rock by the earthquake that then occurred, touched Adam's
 skull and revived the progenitor of mankind to life. <span
-id="fr_35"></span>[1](#fn_35) He led the band of
+id="fr_35"></span>[1](#fn_35.md) He led the band of
 
 <span id="page_74">p. 74</span>
 
@@ -295,7 +295,7 @@ v. 14 and 21; 1 Corinthians xv. 21, 22; 45, 47.
 
 VII
 
-P. [41](flhl10.htm#page_41). *Pilgrimage to Mûsa's grave*.--The writer
+P. [41](flhl10.htm#page_41.md). *Pilgrimage to Mûsa's grave*.--The writer
 was some years ago informed by a native Jew that he had been told by his
 late father that the latter had been informed by a Moslem sheykh that
 the annual Mohammedan pilgrimage to the traditional tomb of Moses had
@@ -307,23 +307,23 @@ necessity. Whether this statement is correct I cannot tell; at any rate,
 the Neby Mûsa pilgrimage generally coincides in time with the Christian
 Easter festivities.
 
-P. [41](flhl10.htm#page_41). *The stones of the place should be lit for
+P. [41](flhl10.htm#page_41.md). *The stones of the place should be lit for
 fuel*.--The limestone at Neby Mûsa is bituminous, and somewhat
 combustible.
 
 VIII
 
-P. [45](flhl11.htm#page_45). "*The tower still bears his (David's)
+P. [45](flhl11.htm#page_45). "*The tower still bears his (David's.md)
 name*."--This tower is situated just inside the city, near the Jaffa
 Gate. It is often called the Tower of Hippicus, though its base
 measurements agree more nearly with those of Herod's tower Phasælus.
 
-P. [49](flhl11.htm#page_49). *The Kharrûb*.--The Carob-tree (*Ceratonia
+P. [49](flhl11.htm#page_49.md). *The Kharrûb*.--The Carob-tree (*Ceratonia
 silique*), said by tradition to have furnished, in its pods, the locusts
 which the Baptist ate; and also the husks on which the swine, in the
 parable of the Prodigal Son, were fed.
 
-P. [50](flhl11.htm#page_50). *Stones left unfinished at the death of
+P. [50](flhl11.htm#page_50.md). *Stones left unfinished at the death of
 Solomon*.--These stones are generally called "Hajar el Hibleh" or stone
 of the pregnant woman, from the belief that the work of cutting and
 carrying them had been assigned to female jinns in that condition. One
@@ -342,22 +342,22 @@ II. in connection with legends possibly founded on facts.
 
 IX
 
-p\. [51](flhl12.htm#page_51). *Dhu’lkarnein*.--See Sale's Koran, Chandos
+p\. [51](flhl12.htm#page_51.md). *Dhu’lkarnein*.--See Sale's Koran, Chandos
 Classics Edition, chap. xviii. pp. 224-225 and foot-notes.
 
-P. [54](flhl12.htm#page_54). *Elijah's cave on Carmel*.--For other
+P. [54](flhl12.htm#page_54.md). *Elijah's cave on Carmel*.--For other
 particulars concerning this place and the " treatment " here practised,
 see Dr Thomson's "The Land and the Book" (1886), vol. i. p. 329 ff.
 
 X
 
-P. [62](flhl13.htm#page_62). *Simon the Just*.--It seems now to be
+P. [62](flhl13.htm#page_62.md). *Simon the Just*.--It seems now to be
 conclusively established that this was Simon II., and that Josephus
 (Antip. Book XII. chap. ii. 5) was mistaken in identifying him with
 Simon I. G. (See Derembourg, 47-51; Dean Stanley's "Jewish Church," vol.
 iii. p. 247.)
 
-P. [62](flhl13.htm#page_62). *The thirty-third of ’Omer*.--That is the
+P. [62](flhl13.htm#page_62.md). *The thirty-third of ’Omer*.--That is the
 thirty-third day after the fifteenth of Nisan and the second of
 Passover, when a sheaf (’omer) of barley was offered to God in the
 Temple as the firstfruits of the coming harvest (Lev. xxiii. 10). This
@@ -366,7 +366,7 @@ disappearance of a plague in the days of Rabbi Akiba. (See Friedlænder,
 "Text-book of the Jewish Religion," 27, and note 34, "Tales told in
 Palestine," p. 219.)
 
-P. [62](flhl13.htm#page_62)-[64](flhl13.htm#page_64). Compare 3 Mace. i.
+P. [62](flhl13.htm#page_62)-[64](flhl13.htm#page_64.md). Compare 3 Mace. i.
 28, 29; ii. 21-24; with Dean Stanley's "Jewish Church," vol. iii. p.
 248.
 
@@ -374,7 +374,7 @@ P. [62](flhl13.htm#page_62)-[64](flhl13.htm#page_64). Compare 3 Mace. i.
 
 ### Footnotes
 
-<span id="fn_32"></span>[69:1](flhl14.htm#fr_32) Allah ordained that
+<span id="fn_32"></span>[69:1](flhl14.htm#fr_32.md) Allah ordained that
 Hawa should produce children in pairs, a male with a female, in order
 that some restraint of decency might be imposed on mankind from the
 outset. It was forbidden for a son to marry his twin sister. Cain,
@@ -384,14 +384,14 @@ prevent such havoc being wrought by woman's looks, it was from that time
 forth decreed that all females having reached a certain age should go
 veiled. A popular variant of the above.--ED.
 
-<span id="fn_33"></span>[72:1](flhl14.htm#fr_33) The existence of these
+<span id="fn_33"></span>[72:1](flhl14.htm#fr_33.md) The existence of these
 vats so near the well is one of the reasons for believing, as many do,
 that Bìr Eyyûb is the En-Rogel of the Old Testament.
 
-<span id="fn_34"></span>[72:2](flhl14.htm#fr_34) An Arab subject of the
+<span id="fn_34"></span>[72:2](flhl14.htm#fr_34.md) An Arab subject of the
 Greco-Roman Empire.--ED.
 
-<span id="fn_35"></span>[73:1](flhl14.htm#fr_35) A Maronite Christian
+<span id="fn_35"></span>[73:1](flhl14.htm#fr_35.md) A Maronite Christian
 once told me a story, beginning with the burial of Adam and ending with
 the Crucifixion, which lasted a whole summer afternoon. It included the
 subject of this note and also that of the foregoing chapter, yet seemed
@@ -405,4 +405,4 @@ me, and I had been listening to a whole cycle of folk-tales.--ED.
 
 ------------------------------------------------------------------------
 
-[Next: I. Bâb El Khalìl, The Jaffa Gate at Jerusalem](flhl15)
+[Next: I. Bâb El Khalìl, The Jaffa Gate at Jerusalem](flhl15.md)

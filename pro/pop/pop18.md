@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop17)  [Next](pop19) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop17)  [Next](pop19.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ shall come to thee as a mockery.'
 
 ------------------------------------------------------------------------
 
-[Next: The Fourteenth Figure](pop19)
+[Next: The Fourteenth Figure](pop19.md)

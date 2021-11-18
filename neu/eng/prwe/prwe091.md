@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe090)  [Next](prwe092) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe090)  [Next](prwe092.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ therefore there is nothing left to protect the shore.
 
 ------------------------------------------------------------------------
 
-[Next: "The island" St Ives](prwe092)
+[Next: "The island" St Ives](prwe092.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc50)  [Next](osc52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc50)  [Next](osc52.md) 
 
 ------------------------------------------------------------------------
 
@@ -209,4 +209,4 @@ mind (or 'imagination') brought into activity by a suitable symbol.
 
 ------------------------------------------------------------------------
 
-[Next: (11) Omens--Introductory](osc52)
+[Next: (11) Omens--Introductory](osc52.md)

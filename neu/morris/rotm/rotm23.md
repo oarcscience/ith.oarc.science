@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm22)  [Next](rotm24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm22)  [Next](rotm24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -403,6 +403,6 @@ But lo! here are we come to the Gate of the Burg that abideth battle.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII. Talk in the Hall of the House of the Face](rotm24)
+[Next: Chapter XXIII. Talk in the Hall of the House of the Face](rotm24.md)
 
 </div>

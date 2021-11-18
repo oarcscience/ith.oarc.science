@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar208) [Next](gbar210)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar208) [Next](gbar210.md)
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ by command of God brought him to her.
 
 ------------------------------------------------------------------------
 
-[Next](gbar210)
+[Next](gbar210.md)

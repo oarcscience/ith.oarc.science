@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](aia35)  [Next](aia37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](aia35)  [Next](aia37.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,7 +139,7 @@ pi, he obtains office, power, &c. in another place.
 
 The lord of the 10th, or ☽, being afflicted by ☌ of an infortune in any
 angle, the king, &c. shall never be restored. <span
-id="fr_122"></span>[1](#fn_121)
+id="fr_122"></span>[1](#fn_121.md)
 
 *Of the Profession, Trade, or Employment of which any one is capable*.
 
@@ -219,7 +219,7 @@ water-men, laundresses waiters in taverns, &c.
 <span id="img_fig28"></span>
 
 [![&lt;i&gt;Fig&lt;/i&gt;. 28.](tn/fig28.jpg)  
-Click to enlarge](img/fig28.jpg)  
+Click to enlarge](img/fig28.jpg.md)  
 *Fig*. 28.  
 
 JUDGMENT ON THE ABOVE FIGURE.
@@ -249,7 +249,7 @@ about it, hitherto without any success.
 
 ### Footnotes
 
-<span id="fn_121"></span>[272:1](aia36.htm#fr_122) This rule will answer
+<span id="fn_121"></span>[272:1](aia36.htm#fr_122.md) This rule will answer
 the question of the re-election of any Member of Parliament for any
 place he has formerly represented; as well as the restoration of any
 minister, &c. to power, or the return of any individual to any office or
@@ -258,4 +258,4 @@ employment.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIV. Of the Eleventh House, and its Questions, viz. of
-Friends, Hopes, Property of the King, &c.](aia37)
+Friends, Hopes, Property of the King, &c.](aia37.md)

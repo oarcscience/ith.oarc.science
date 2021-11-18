@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](tmu24)  [Next](tmu26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](tmu24)  [Next](tmu26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574GO/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Thirty Minor Upanishads*, tr. by K. Narayanasvami Aiyar, \[1914\], at
 Intangible Textual Heritage
 
@@ -168,7 +168,7 @@ diminished; tears, rheum in the eye, salivary flow, sweat and bad smell
 in the mouth do not arise in him. With a still further practice, he
 acquires great strength by which he attains Bhūchara siḍḍhi, which
 enables him to bring under his control all the creatures that tread this
-earth; tigers, śarabhas, <span id="fr_159"></span>[1](#fn_146)
+earth; tigers, śarabhas, <span id="fr_159"></span>[1](#fn_146.md)
 elephants, wild bulls or lions die on being struck by the palm of the
 yogin. He becomes as beautiful as the god of love himself. All females
 being taken up with the beauty of his person will desire to have
@@ -192,7 +192,7 @@ practise only for a yāma (3 hours). Let him practise kevala kumbhaka
 once a day. Drawing away completely the organs from the objects of sense
 during cessation of breath is called praṭyāhāra. Whatever he sees with
 his eyes, let him consider as Āṭmā. Whatever he hears with his ears let
-him consider as Āṭmā. Whatever [he](errata.htm#13) smells with his nose
+him consider as Āṭmā. Whatever [he](errata.htm#13.md) smells with his nose
 let him consider as Āṭmā. Whatever he tastes with his tongue let him
 consider as Āṭmā. Whatever the yogin touches with his skin let him
 consider as Āṭmā. The yogin should thus unwearied gratify his organs of
@@ -282,9 +282,9 @@ Brahma.
 "Then he should practise ḍhāraṇā for a period of six ghatikās (2 hours,
 24 minutes). Restraining the breath in (the region of) ākāś and
 contemplating on the deity who grants his wishes—this is said to be
-saguṇa <span id="fr_160"></span>[1](#fn_147) ḍhyāna capable of giving
+saguṇa <span id="fr_160"></span>[1](#fn_147.md) ḍhyāna capable of giving
 (the siḍḍhis) aṇimā, etc. One who is engaged in nirguṇa <span
-id="fr_161"></span>[1](#fn_147) ḍhyāna attains the stage of samāḍhi.
+id="fr_161"></span>[1](#fn_147.md) ḍhyāna attains the stage of samāḍhi.
 Within twelve days at least, he attains the stage of samāḍhi.
 Restraining his breath, the wise one becomes an emancipated person.
 Samāḍhi is that state in which the jīvāṭmā (lower self) and the
@@ -365,7 +365,7 @@ stem upwards. Its binḍu is downwards and in its centre is situated
 manas. By the letter A, the lotus becomes expanded; by the letter U, it
 becomes split (or opened), by the letter M, it obtains nāḍa; and the
 arḍhamāṭrā (half-metre) is silence. The person engaged in yoga obtains
-[the](errata.htm#14) supreme seat, which is like a pure crystal, which
+[the](errata.htm#14.md) supreme seat, which is like a pure crystal, which
 is without parts and which destroys all sins. As a tortoise draws its
 hands and head within itself, so drawing in air thus and expelling it
 through the nine holes of the body, he breathes upwards and forwards.
@@ -378,16 +378,16 @@ to be Āṭmā alone."
 
 ### Footnotes
 
-<span id="fn_146"></span>[196:1](tmu25.htm#fr_159) An animal said to
+<span id="fn_146"></span>[196:1](tmu25.htm#fr_159.md) An animal said to
 have eight legs and to be stronger than lion.
 
-<span id="fn_147"></span>[199:1](tmu25.htm#fr_161) .Lit., "with guṇas"
+<span id="fn_147"></span>[199:1](tmu25.htm#fr_161.md) .Lit., "with guṇas"
 and "without guṇas".
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 24. Ḍhyānabinḍu-Upanishaḍ of Sāmaveḍa](tmu26)
+[Next: 24. Ḍhyānabinḍu-Upanishaḍ of Sāmaveḍa](tmu26.md)
 
 </div>

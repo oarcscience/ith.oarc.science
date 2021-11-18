@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont30)  [Next](ont32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont30)  [Next](ont32.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -173,7 +173,7 @@ A messenger came into camp, announcing that Running Antelope would
 
 <span id="img_38700"></span> <span align="CENTER"> [![BULL PLUME LEADING
 THE CEREMONIAL.](tn/38700.jpg)  
-Click to enlarge](img/38700.jpg)  
+Click to enlarge](img/38700.jpg.md)  
 BULL PLUME LEADING THE CEREMONIAL.  
 </span>
 
@@ -284,13 +284,13 @@ A boisterous game was being played by lively boys and girls. The game
 was similar to our 'catcher,' in which all endeavoured to avoid the
 touch of one of their number, at whom they sang derisively,
 "Ape-koi-ya-soma-tia-kake-kina" (You are a mangey old skunk with no hair
-along your backbone). <span id="fr_38"></span>[1](#fn_34)
+along your backbone). <span id="fr_38"></span>[1](#fn_34.md)
 
 The young girls played a game called, "Throwing
 
 <span id="img_39100"></span> <span align="CENTER"> [![CHILD'S PLAY
 TIPI.](tn/39100.jpg)  
-Click to enlarge](img/39100.jpg)  
+Click to enlarge](img/39100.jpg.md)  
 CHILD'S PLAY TIPI.  
 </span>
 
@@ -394,9 +394,9 @@ all the large cities of Christendom.
 
 ### Footnotes
 
-<span id="fn_34"></span>[391:1](ont31.htm#fr_38) Song 9. See [p.
-515](ont43.htm#page_515).
+<span id="fn_34"></span>[391:1](ont31.htm#fr_38.md) Song 9. See [p.
+515](ont43.htm#page_515.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIX. Proper Names](ont32)
+[Next: Chapter XXIX. Proper Names](ont32.md)

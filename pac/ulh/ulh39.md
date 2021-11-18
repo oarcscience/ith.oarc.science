@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh38)  [Next](ulh40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh38)  [Next](ulh40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 <span id="img_pl23"></span> <span align="CENTER"> [![PLATE
 XXIII&lt;br&gt; HINANO HALA&lt;br&gt; MALE FLOWER OF THE PANDANUS
 ODORATISSIMUS](tn/pl23.jpg)  
-Click to enlarge](img/pl23.jpg)  
+Click to enlarge](img/pl23.jpg.md)  
 PLATE XXIII  
 HINANO HALA  
 MALE FLOWER OF THE PANDANUS ODORATISSIMUS  
@@ -141,19 +141,19 @@ feelings in song:
 
 <div style="margin-left: 32px">
 
-Pua ehu kamaléna <span id="fr_466"></span>[a](#fn_450) ka uka o
+Pua ehu kamaléna <span id="fr_466"></span>[a](#fn_450.md) ka uka o
 Kapa’a;  
-Luhi-ehu iho la <span id="fr_467"></span>[b](#fn_451) ka pua i
+Luhi-ehu iho la <span id="fr_467"></span>[b](#fn_451.md) ka pua i
 Maile-húna;  
-Hele a ha ka iwi <span id="fr_468"></span>[c](#fn_452) a ke Koolau,  
+Hele a ha ka iwi <span id="fr_468"></span>[c](#fn_452.md) a ke Koolau,  
 Ke puá mai i ka maka o ka nahelehele,  
-5 I hali hoo-muú, <span id="fr_469"></span>[d](#fn_453) hoohalana i
+5 I hali hoo-muú, <span id="fr_469"></span>[d](#fn_453.md) hoohalana i
 Wailua.  
 Pa kahea a Koolau-wahine,  
 O Pua-ke’i, e-e-e-e!  
-He pua laukona <span id="fr_470"></span>[e](#fn_454) ka moe e aloh’
+He pua laukona <span id="fr_470"></span>[e](#fn_454.md) ka moe e aloh’
 ai;  
-O ia moe la, e kaulele hou, <span id="fr_471"></span>[f](#fn_455)  
+O ia moe la, e kaulele hou, <span id="fr_471"></span>[f](#fn_455.md)  
 10 No ka po i hala aku aku net.  
 Hoiho kaua a eloelo, e ka hoa, e,  
 A hookahi!
@@ -199,14 +199,14 @@ was for his childishness in blabbing.
 
 <div style="margin-left: 32px">
 
-Kálakálaíhi, kaha <span id="fr_472"></span>[a](#fn_456) ka La ma ke kua
+Kálakálaíhi, kaha <span id="fr_472"></span>[a](#fn_456.md) ka La ma ke kua
 o Lehua;  
-Lulana iho la ka pihe a ke Akua; <span id="fr_473"></span>[b](#fn_457)  
-Ea mai ka Unulau <span id="fr_474"></span>[c](#fn_458) o Halali’i;  
-Lawe ke Koolau-wahine <span id="fr_475"></span>[d](#fn_459) i ka hoa la,
+Lulana iho la ka pihe a ke Akua; <span id="fr_473"></span>[b](#fn_457.md)  
+Ea mai ka Unulau <span id="fr_474"></span>[c](#fn_458.md) o Halali’i;  
+Lawe ke Koolau-wahine <span id="fr_475"></span>[d](#fn_459.md) i ka hoa la,
 lilo;  
-5 Hao ka Mikioi <span id="fr_476"></span>[e](#fn_460) ke kai o Lehua:  
-Puwa-i’a na hoa-makani <span id="fr_477"></span>[f](#fn_461) mai lalo,
+5 Hao ka Mikioi <span id="fr_476"></span>[e](#fn_460.md) ke kai o Lehua:  
+Puwa-i’a na hoa-makani <span id="fr_477"></span>[f](#fn_461.md) mai lalo,
 e-e-e, a.  
 I hoonalonalo i ke aloha, pe’e ma-loko;  
 Ha’i ka wai-maka hanini;  
@@ -262,10 +262,10 @@ proved it had not unsettled her nerves.
 
 <div style="margin-left: 32px">
 
-Ula Kala’e-loa <span id="fr_478"></span>[a](#fn_462) i ka lepo a ka
+Ula Kala’e-loa <span id="fr_478"></span>[a](#fn_462.md) i ka lepo a ka
 makani;  
 Hoonu’anu’a na pua i Kalama-ula,  
-He hoa i Ra la’i a ka manu-- <span id="fr_479"></span>[b](#fn_463)  
+He hoa i Ra la’i a ka manu-- <span id="fr_479"></span>[b](#fn_463.md)  
 Manu ai ia i ka hoa laukona.  
 5 I keke lau-au’a ia e ka moe;  
 E kuhi ana ia he kanaka e.  
@@ -332,7 +332,7 @@ audience deals out applause or derision in unstinted pleasure; the
 enthusiasm reaches fever-point when some one makes himself the champion
 of the game by bringing his score up to ten, the limit. The play is
 often kept up till morning, to be resumed the following night. <span
-id="fr_480"></span>[a](#fn_464)
+id="fr_480"></span>[a](#fn_464.md)
 
 Here also is a mele, which tradition reports to have been cantillated by
 Hiiaka, the sister of Pele, during her famous kilu contest with the
@@ -351,13 +351,13 @@ herself.
 <div style="margin-left: 32px">
 
 Ku’u hoa mai ka makani kuehu-kapa o Kalalau, <span
-id="fr_481"></span>[b](#fn_465)  
-Mai na pali ku’i <span id="fr_482"></span>[c](#fn_466) o Makua-iki,  
-Ke lawe la i ka haka, <span id="fr_483"></span>[d](#fn_467) a lilo!  
+id="fr_481"></span>[b](#fn_465.md)  
+Mai na pali ku’i <span id="fr_482"></span>[c](#fn_466.md) o Makua-iki,  
+Ke lawe la i ka haka, <span id="fr_483"></span>[d](#fn_467.md) a lilo!  
 A lilo o-e, la!  
 5 Ku’u kane i ka uhu ka’i o Maka-pu’u,  
-Huki iluna ka Lae-o-ka-laau; <span id="fr_484"></span>[e](#fn_468)  
-Oia pali makaa-ole <span id="fr_485"></span>[f](#fn_469) olaila.  
+Huki iluna ka Lae-o-ka-laau; <span id="fr_484"></span>[e](#fn_468.md)  
+Oia pali makaa-ole <span id="fr_485"></span>[f](#fn_469.md) olaila.  
 Ohiohi ku ka pali o Ulamao, e-e!  
 A lilo oe, la!
 
@@ -403,18 +403,18 @@ the game in her own hands and foiled the hopes of the lovers.
 
 <div style="margin-left: 32px">
 
-Ula ka lani ia Kanaloa, <span id="fr_486"></span>[a](#fn_470)  
+Ula ka lani ia Kanaloa, <span id="fr_486"></span>[a](#fn_470.md)  
 Ula ma’ema’e ke ahi a ke A’e-loa. <span
-id="fr_487"></span>[b](#fn_471)  
+id="fr_487"></span>[b](#fn_471.md)  
 Pohina iluna i ke ao makani,  
 Naue pu no i ka ilikai o Makahana-loa, <span
-id="fr_488"></span>[c](#fn_472)  
-5 Makemake i ka ua lihau. <span id="fr_489"></span>[d](#fn_473)  
-Aohe hana i koe a Ka-wai-loa; <span id="fr_490"></span>[e](#fn_474)  
+id="fr_488"></span>[c](#fn_472.md)  
+5 Makemake i ka ua lihau. <span id="fr_489"></span>[d](#fn_473.md)  
+Aohe hana i koe a Ka-wai-loa; <span id="fr_490"></span>[e](#fn_474.md)  
 Noho a ka li’u-lá i ke kula.  
 I kula oe no ka makemake, a hiki iho,  
 I hoa hula no ka la le’ale’a,  
-10 I noho pu me ka uahi pohina. <span id="fr_491"></span>[f](#fn_475)
+10 I noho pu me ka uahi pohina. <span id="fr_491"></span>[f](#fn_475.md)
 
 </div>
 
@@ -422,21 +422,21 @@ I hoa hula no ka la le’ale’a,
 
 <div style="margin-left: 32px">
 
-Hina oe i ka Naulu, <span id="fr_492"></span>[a](#fn_476) noho pu me ka
-Inuwai. <span id="fr_493"></span>[b](#fn_477)  
+Hina oe i ka Naulu, <span id="fr_492"></span>[a](#fn_476.md) noho pu me ka
+Inuwai. <span id="fr_493"></span>[b](#fn_477.md)  
 Akahi no a pumehana ka hale, ua hiki oe:  
-Ma’ema’e ka luna i Haupu. <span id="fr_494"></span>[c](#fn_478)  
+Ma’ema’e ka luna i Haupu. <span id="fr_494"></span>[c](#fn_478.md)  
 Upu ka makemake e ike ia Ka-ala.  
 15 He ala ka makemake e ike ia Lihu'e; <span
-id="fr_495"></span>[d](#fn_479)  
-Ku’u uka ia noho ia Halemano. <span id="fr_496"></span>[e](#fn_480)  
+id="fr_495"></span>[d](#fn_479.md)  
+Ku’u uka ia noho ia Halemano. <span id="fr_496"></span>[e](#fn_480.md)  
 Maanei oe, pale oe, pale au,  
 Hana ne’e ke kikala i ka ha’i keiki.  
 Hai'na ka manao--noho i Waimea,  
 20 Hoonu’u pu i ka i’a ku o ka aina. <span
-id="fr_497"></span>[f](#fn_481)  
+id="fr_497"></span>[f](#fn_481.md)  
 E kala oe a kala au a kala ia Ku, Ahuena. <span
-id="fr_498"></span>[g](#fn_482)
+id="fr_498"></span>[g](#fn_482.md)
 
 </div>
 
@@ -526,148 +526,148 @@ The Hawaiian thought it not undignified to express sympathy
 
 ### Footnotes
 
-<span id="fn_450"></span>[237:a](ulh39.htm#fr_466) *Pua ehu kamaléna*
+<span id="fn_450"></span>[237:a](ulh39.htm#fr_466.md) *Pua ehu kamaléna*
 (yellow child). This exclamation is descriptive of the man's visual
 impression on seeing the canoe with its crowd of passengers and
 paddlers, in the misty light of morning, receding in the distance. The
 kamaléna is a mountain shrub having a yellow flower.
 
-<span id="fn_451"></span>[237:b](ulh39.htm#fr_467) *Luhi ehu iho la*.
+<span id="fn_451"></span>[237:b](ulh39.htm#fr_467.md) *Luhi ehu iho la*.
 Refers to the drooping of a shrub under the weight of its leaves and
 flowers, a figure applied to the bending of the paddlemen to their work.
 
-<span id="fn_452"></span>[237:c](ulh39.htm#fr_468) *Hele a ha ka iwi*.
+<span id="fn_452"></span>[237:c](ulh39.htm#fr_468.md) *Hele a ha ka iwi*.
 An exaggerated figure of speech, referring to the exertions of the men
 at their paddles (ha, to strain).
 
-<span id="fn_453"></span>[237:d](ulh39.htm#fr_469) *I hali hoomú*. This
+<span id="fn_453"></span>[237:d](ulh39.htm#fr_469.md) *I hali hoomú*. This
 refers in a fine spirit of exaggeration to the regular motions of the
 paddlers.
 
-<span id="fn_454"></span>[237:e](ulh39.htm#fr_470) *Pua laukona*. A kind
+<span id="fn_454"></span>[237:e](ulh39.htm#fr_470.md) *Pua laukona*. A kind
 of sugar-cane which was prescribed and used by the kahunas as an
 aphrodisiac.
 
-<span id="fn_455"></span>[237:f](ulh39.htm#fr_471) *Kaulele hou*. To
+<span id="fn_455"></span>[237:f](ulh39.htm#fr_471.md) *Kaulele hou*. To
 experience, or to enjoy, again.
 
-<span id="fn_456"></span>[238:a](ulh39.htm#fr_472) The picture of the
+<span id="fn_456"></span>[238:a](ulh39.htm#fr_472.md) The picture of the
 sun declining, *kaha*, to the west, its reflected light-track, *kala
 kalaihi*, furrowing the ocean with glory, may be taken to be figurative
 of the loved and beautiful woman, Kalola, speeding on her westward
 canoe-flight.
 
-<span id="fn_457"></span>[238:b](ulh39.htm#fr_473) *Akua*. Literally a
+<span id="fn_457"></span>[238:b](ulh39.htm#fr_473.md) *Akua*. Literally a
 god, must stand for the king.
 
-<span id="fn_458"></span>[238:c](ulh39.htm#fr_474) *Unulau*. A special
+<span id="fn_458"></span>[238:c](ulh39.htm#fr_474.md) *Unulau*. A special
 name for the trade-wind.
 
-<span id="fn_459"></span>[238:d](ulh39.htm#fr_475) *Koolau-wahine*.
+<span id="fn_459"></span>[238:d](ulh39.htm#fr_475.md) *Koolau-wahine*.
 Likewise another name for the trade-wind, here represented as carrying
 off the (man's) companion.
 
-<span id="fn_460"></span>[238:e](ulh39.htm#fr_476) *Mikioi*. An
+<span id="fn_460"></span>[238:e](ulh39.htm#fr_476.md) *Mikioi*. An
 impetuous, gusty wind is represented as lashing the ocean at Lehua, thus
 picturing the emotional stir attending Kalola's departure.
 
-<span id="fn_461"></span>[238:f](ulh39.htm#fr_477) The words *Puwa-i’a
+<span id="fn_461"></span>[238:f](ulh39.htm#fr_477.md) The words *Puwa-i’a
 na hoa makani*, which literally mean that the congress of winds, *na hoa
 makani*, have stirred up a commotion, even as a school of fish agitate
 the surface of the ocean, *puwa-i’a*, refer to the scandal caused by
 Ka’i-ama's conduct.
 
-<span id="fn_462"></span>[239:a](ulh39.htm#fr_478) *Kala’e-loa*. The
+<span id="fn_462"></span>[239:a](ulh39.htm#fr_478.md) *Kala’e-loa*. The
 full name of the place on Molokai now known as Kala’e.
 
-<span id="fn_463"></span>[239:b](ulh39.htm#fr_479) *La’i a ka manu*.
+<span id="fn_463"></span>[239:b](ulh39.htm#fr_479.md) *La’i a ka manu*.
 Some claim this to be a proper name, *La’i-a-ka-manu*, that of a place
 near Kala’e. However that may be the poet evidently uses the phrase here
 in its etymological sense.
 
-<span id="fn_464"></span>[240:a](ulh39.htm#fr_480) The account above
+<span id="fn_464"></span>[240:a](ulh39.htm#fr_480.md) The account above
 given is largely based on David Malo's description of the game kilu. In
 his confessedly imperfect list of the hulas he does not mention the hula
 kilu. This hula was, however, included in the list of hulas announced
 for performance in the programme of King Kalakaua's coronation
 ceremonies.
 
-<span id="fn_465"></span>[240:b](ulh39.htm#fr_481) *Ka-lalau* (in the
+<span id="fn_465"></span>[240:b](ulh39.htm#fr_481.md) *Ka-lalau* (in the
 translation by the omission of the article *ka*, shortened to *Lalau*).
 A deep cliff-bound valley on the windward side of Kauai. accessible only
 at certain times of the year by boats and by a steep mountain trail at
 its head.
 
-<span id="fn_466"></span>[240:c](ulh39.htm#fr_482) *Pala ku’i*. *Ku’i*
+<span id="fn_466"></span>[240:c](ulh39.htm#fr_482.md) *Pala ku’i*. *Ku’i*
 means literally to join together, to splice or piece out. The cliffs
 tower one above another like the steps of a stairway.
 
-<span id="fn_467"></span>[240:d](ulh39.htm#fr_483) *Haka*. A ladder or
+<span id="fn_467"></span>[240:d](ulh39.htm#fr_483.md) *Haka*. A ladder or
 frame such as was laid across a chasm or set up at an impassable place
 in a precipitous road. The windward side of Kauai about Kalalau abounded
 in such places.
 
-<span id="fn_468"></span>[240:e](ulh39.htm#fr_484) *Lae-o-ka-laau*. The
+<span id="fn_468"></span>[240:e](ulh39.htm#fr_484.md) *Lae-o-ka-laau*. The
 southwest point of Molokai. on which is a light-house.
 
-<span id="fn_469"></span>[240:f](ulh39.htm#fr_485) *Makua-ole*.
+<span id="fn_469"></span>[240:f](ulh39.htm#fr_485.md) *Makua-ole*.
 Literally fatherless, perhaps meaning remarkable, without peer.
 
-<span id="fn_470"></span>[241:a](ulh39.htm#fr_486) *Kanaloa*. One of the
+<span id="fn_470"></span>[241:a](ulh39.htm#fr_486.md) *Kanaloa*. One of the
 four great gods of the Hawaiians, here represented as playing the part
 of Phœbus Apollo.
 
-<span id="fn_471"></span>[241:b](ulh39.htm#fr_487) *A’e-loa*. The name
+<span id="fn_471"></span>[241:b](ulh39.htm#fr_487.md) *A’e-loa*. The name
 of a wind whose blowing was said to be favorable to the fisherman in
 this region.
 
-<span id="fn_472"></span>[241:c](ulh39.htm#fr_488) *Makahana-loa*. A
+<span id="fn_472"></span>[241:c](ulh39.htm#fr_488.md) *Makahana-loa*. A
 favorite fishing ground. The word *ilikai* ("skin of the sea")
 graphically depicts the calm of the region. In the translation the name
 aforementioned has been shortened to Kahana.
 
-<span id="fn_473"></span>[241:d](ulh39.htm#fr_489) *Lihau*. A gentle
+<span id="fn_473"></span>[241:d](ulh39.htm#fr_489.md) *Lihau*. A gentle
 rain that was considered favorable to the work of the fisherman.
 
-<span id="fn_474"></span>[241:e](ulh39.htm#fr_490) *Ka-wai-loa*. A
+<span id="fn_474"></span>[241:e](ulh39.htm#fr_490.md) *Ka-wai-loa*. A
 division of Waialua, here seemingly used to mean the farm.
 
-<span id="fn_475"></span>[241:f](ulh39.htm#fr_491) *Uahi pohina*.
+<span id="fn_475"></span>[241:f](ulh39.htm#fr_491.md) *Uahi pohina*.
 Literally gray-headed smoke. It is said that when studying together the
 words of the mele the pupils and the kumu would often gather about a
 fire, while the teacher recited and expounded the text. There is a
 possible allusion to this in the mention of the smoke.
 
-<span id="fn_476"></span>[242:a](ulh39.htm#fr_492) *Naulu*. A wind.
+<span id="fn_476"></span>[242:a](ulh39.htm#fr_492.md) *Naulu*. A wind.
 
-<span id="fn_477"></span>[242:b](ulh39.htm#fr_493) *Inu-wai*. A wind
+<span id="fn_477"></span>[242:b](ulh39.htm#fr_493.md) *Inu-wai*. A wind
 that dried up vegetation, here indicating thirst.
 
-<span id="fn_478"></span>[242:c](ulh39.htm#fr_494) Haupu. A mountain on
+<span id="fn_478"></span>[242:c](ulh39.htm#fr_494.md) Haupu. A mountain on
 Kauai, sometimes visible on Oahu in clear weather. (See note e, [p.
-229](ulh37.htm#page_229), on Haupu.)
+229](ulh37.htm#page_229), on Haupu..md)
 
-<span id="fn_479"></span>[242:d](ulh39.htm#fr_495) *Lihu'e*. A beautiful
+<span id="fn_479"></span>[242:d](ulh39.htm#fr_495.md) *Lihu'e*. A beautiful
 and romantic region nestled, as the Hawaiians say, "between the thighs
 of the mountain," Mount Kaala.
 
-<span id="fn_480"></span>[242:e](ulh39.htm#fr_496) *Hale-mano*.
+<span id="fn_480"></span>[242:e](ulh39.htm#fr_496.md) *Hale-mano*.
 Literally the multitude of houses: a sylvan region bound to the south
 western flank of the Konahuanni range of mountains, a region of legend
 and romance, since the coming of the white mau given over to the ravage
 and desolation that follow the free-ranging of cattle and horses, the
 vaquero, and the abusive use of fire and ax by the woodman.
 
-<span id="fn_481"></span>[242:f](ulh39.htm#fr_497) *I'a ku o ka aina*.
+<span id="fn_481"></span>[242:f](ulh39.htm#fr_497.md) *I'a ku o ka aina*.
 Fish common to a region; in this place it was probably the kala, which
 word is found in the next line, though in a different sense. Here the
 expression is doubtless a euphemism for dalliance.
 
-<span id="fn_482"></span>[242:g](ulh39.htm#fr_498) *Ku*, *Ahuena*. At
+<span id="fn_482"></span>[242:g](ulh39.htm#fr_498.md) *Ku*, *Ahuena*. At
 Waimea, Oahu, stood two rocks on the opposite bluffs that sentineled the
 bay. These rocks were said to represent respectively the gods Ku and
 Ahuena, patrons of the local fishermen.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVI.--The Hula Hoo-na-ná](ulh40)
+[Next: XXXVI.--The Hula Hoo-na-ná](ulh40.md)

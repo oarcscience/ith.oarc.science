@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits040) [Next](bits042)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits040) [Next](bits042.md)
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 § 41. THE DEATH OF MOGGALLÂNA.<span
 id="page_221_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_221_note_1)
+class="small">1</span></sup>](#page_221_note_1.md)
 
 <span class="small">Translated from the Dhammapada, and from
 Buddhaghosa's commentary on stanza 137.</span>
@@ -93,7 +93,7 @@ previous karma, and could not flee. Then the highwaymen
 
 captured him, and broke his bones into bits of the size of
 rice-grains.<span id="page_223_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_223_note_1) And when they supposed
+class="small">1</span></sup>](#page_223_note_1.md) And when they supposed
 he was dead, they threw him into a thicket, and departed.
 
    But the elder thought, "I will see The Teacher before I pass into
@@ -288,7 +288,7 @@ In hell the fool shall be reborn."<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 42. Good and Bad Karma](bits042)
+[Next: § 42. Good and Bad Karma](bits042.md)
 
 ------------------------------------------------------------------------
 
@@ -296,15 +296,15 @@ In hell the fool shall be reborn."<br />
 
 <span id="footnotes_page_221">p. 221</span>
 
-<span id="page_221_note_1"></span>[1](#page_221_fr_1) Anguttara-Nikâya,
+<span id="page_221_note_1"></span>[1](#page_221_fr_1.md) Anguttara-Nikâya,
 i.14<sup><span class="small">1</span></sup>: "O priests, the chief of my
 disciples who possess magical power is Moggallâna the Great."
 
 <span id="footnotes_page_223">p. 223</span>
 
-<span id="page_223_note_1"></span>[1](#page_223_fr_1) See the
+<span id="page_223_note_1"></span>[1](#page_223_fr_1.md) See the
 *Straw-Bolster* torture as described on page 440 {[p.
-439](bits098.htm#footnotes_page_439)}.
+439](bits098.htm#footnotes_page_439.md)}.
 
  
 

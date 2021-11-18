@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](msh13)  [Next](msh15) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](msh13)  [Next](msh15.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ itself *lâ ilâha ill-Allâh* "there is no god but God". This would seem
 to be as unreserved an assertion of flat pantheism as could be found in
 philosophic Hinduism itself. Equally worthy of philosophic Hinduism is
 Ghazzâlî's "*He is everything*: He is that He is: none but He has
-ipseity or heity at all . ."\[9\](p. \[22\]). And then gain the
+ipseity or heity at all . ."\[9\](p. \[22\].md). And then gain the
 experience of the advanced Initiates and Adepts is described in terms of
 thorough pantheism: to them "the plurality of things fell away in its
 entirety. They were drowned in the absolute Unitude\[5\] and their
@@ -286,4 +286,4 @@ in the universe?
 
 ------------------------------------------------------------------------
 
-[Next: Translation](msh15)
+[Next: Translation](msh15.md)

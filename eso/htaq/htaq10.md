@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](htaq09)  [Next](htaq11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](htaq09)  [Next](htaq11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662316/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hidden Treasures of the Ancient Qabalah*, by Elias Gewurz, \[1918\], at
 Intangible Textual Heritage
 
@@ -85,7 +85,7 @@ by renunciation and by devotion to prove himself worthy of the wisdom
 which he is striving to attain. In the Gita we are told that no one is
 to be taught the higher truths who does not practice Tapas, which means
 renunciation of all that is of the earth earthy. In the
-[Upanishads](errata.htm#6) too, great stress is laid upon self-control,
+[Upanishads](errata.htm#6.md) too, great stress is laid upon self-control,
 and the great Yogis of the East have at all times been ascetics first
 and disciples afterwards.
 
@@ -170,7 +170,7 @@ spiritual life of man. The affinities that bind atom to atom in the
 mineral world govern also the association of thoughts and ideas. If we
 try to cast aside the habits of a lifetime, as we generally do on
 entering the Path, then this law of affinity, which lies latent in our
-[subconscious](errata.htm#7) nature, suddenly rises against us and binds
+[subconscious](errata.htm#7.md) nature, suddenly rises against us and binds
 us to those tendencies which have grown up within us throughout the
 innumerable lives of the past. The disciple's task, having to face this
 opposition, is to fortify himself in his inner stronghold, and to
@@ -261,7 +261,7 @@ just as dear as he himself. Thus the Qabalah tells us that by learning
 <span id="page_118">p. 118</span>
 
 this last lesson of identification with high and low, the disciple
-becomes a cooperator with those high [intelligences](errata.htm#8) whom
+becomes a cooperator with those high [intelligences](errata.htm#8.md) whom
 we call Masters, and, under Their guidance and with their help, he
 continues his career, ever upward, and ever onward, until he enters the
 presence of the Ancient of Ancients, the merciful Teacher of Gods,
@@ -269,4 +269,4 @@ angels and men.
 
 ------------------------------------------------------------------------
 
-[Next: IX. The Light Eternal According to the Qabalah](htaq11)
+[Next: IX. The Light Eternal According to the Qabalah](htaq11.md)

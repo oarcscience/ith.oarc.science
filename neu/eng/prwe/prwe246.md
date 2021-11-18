@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe245)  [Next](prwe247) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe245)  [Next](prwe247.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ confess her crime and beg forgiveness.
 
 ------------------------------------------------------------------------
 
-[Next: Cures for Warts](prwe247)
+[Next: Cures for Warts](prwe247.md)

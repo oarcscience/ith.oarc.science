@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai21) 
-[Next](phai23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai21.md) 
+[Next](phai23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -143,7 +143,7 @@ to break in pieces the great, loosely-compacted monarchy.
 <span class="contnote">\[paragraph continues\]</span> The provinces
 became gradually disintegrated, and the kingdom shrivelled up till it
 covered no more than the land of Asshur. <span
-id="fr_262"></span>[1](#fn_262)
+id="fr_262"></span>[1](#fn_262.md)
 
 The inroad of the Scythians aroused to energy again the voice of
 prophecy which had been dumb during the very sinful but not very
@@ -180,7 +180,7 @@ find clearer expression than in Deuteronomy,—the thought that Jehovah
 asks nothing for Himself, but asks it as a religious duty that man
 should render to man what is right, that His will lies not in any
 unknown height, but in the moral sphere which is known and understood by
-all. <span id="fr_263"></span>[1](#fn_263)
+all. <span id="fr_263"></span>[1](#fn_263.md)
 
 But the result of the innovation did not correspond exactly to its
 prophetic origin. Prophecy died when its precepts attained to the force
@@ -201,7 +201,7 @@ country districts.
 
 ### Footnotes
 
-<span id="fn_262"></span>[487:1](phai22.htm#fr_262) Our knowledge of the
+<span id="fn_262"></span>[487:1](phai22.htm#fr_262.md) Our knowledge of the
 events of the second half of the 7th century has remained singularly
 imperfect hitherto, notwithstanding the importance of the changes they
 wrought on the face of the ancient world. The account given above is
@@ -215,7 +215,7 @@ Diodorus, ὅτι τὴν Νῖνον οὐδεὶς ἑλεῖ κατὰ κρά
 speaks of the siege alluded to by him as the first, saying, "the trouble
 shall not rise up the second time."
 
-<span id="fn_263"></span>[488:1](phai22.htm#fr_263) The commandments
+<span id="fn_263"></span>[488:1](phai22.htm#fr_263.md) The commandments
 which I command thee are not unattainable for thee, neither are they far
 off; not in heaven so that one might say, Who can climb up into heaven
 and bring them down, and tell us them that we might do them! not beyond
@@ -226,4 +226,4 @@ near thee, in thy mouth and in thy heart, so that thou canst do it
 
 ------------------------------------------------------------------------
 
-[Next: 9. Jeremiah and the Destruction of Jerusalem.](phai23)
+[Next: 9. Jeremiah and the Destruction of Jerusalem.](phai23.md)

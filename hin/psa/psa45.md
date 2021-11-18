@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa44)  [Next](psa46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa44)  [Next](psa46.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ circumstances."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLV](psa46)
+[Next: Chapter XLV](psa46.md)

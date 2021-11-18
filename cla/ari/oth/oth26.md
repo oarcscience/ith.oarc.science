@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth25)  [Next](oth27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth25)  [Next](oth27.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ also that as compared with the stars it is not of great size.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 1](oth27)
+[Next: Chapter 1](oth27.md)

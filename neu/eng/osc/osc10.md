@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc09)  [Next](osc11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc09)  [Next](osc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ faith-healing--nothing more, nothing less.
 
 ------------------------------------------------------------------------
 
-[Next: (8) Picking Up Sixpences At Smithfield](osc11)
+[Next: (8) Picking Up Sixpences At Smithfield](osc11.md)

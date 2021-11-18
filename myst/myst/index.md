@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
@@ -29,8 +29,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](myst00)    [Page
-Index](pageidx)    [Text \[Zipped\]](myst.txt.gz)
+[Contents](#contents)    [Start Reading](myst00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](myst.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,9 +43,9 @@ Anglo-Catholic writer who wrote extensively on Christian mysticism. A
 pacifist, novelist, and philosopher, she was widely read during the
 first half of the 20th century. This work, Mysticism, is not a textbook
 of the subject. She disagrees with William James' [The Varieties of
-Religious Experience](../../etc/vre/index) with his four-part division
+Religious Experience](../../etc/vre/index.md) with his four-part division
 of the mystic state (ineffability, noetic quality, transcience, and
-passivity). She sees Bucke's [Cosmic Consciousness](../../eso/cc/index)
+passivity). She sees Bucke's [Cosmic Consciousness](../../eso/cc/index.md)
 as only the gateway to Unitative Living, about halfway there by her view
 (p. 193).
 
@@ -59,49 +59,49 @@ a century later.--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](myst00)  
-[Preface to the Twelfth Edition](myst01)  
-[Preface to the First Edition](myst02)  
+<span id="contents"></span> [Title Page](myst00.md)  
+[Preface to the Twelfth Edition](myst01.md)  
+[Preface to the First Edition](myst02.md)  
 <span id="section_000"></span>
 
 ### Part One: The Mystic Fact
 
-[Part One: The Mystic Fact](myst03)  
-[I. The Point of Departure](myst04)  
-[II. Mysticism and Vitalism](myst05)  
-[III. Mysticism and Psychology](myst06)  
-[IV. The Characteristics of Mysticism](myst07)  
-[V. Mysticism and Theology](myst08)  
-[VI. Mysticism and Symbolism](myst09)  
-[VII. Mysticism and Magic](myst10)  
+[Part One: The Mystic Fact](myst03.md)  
+[I. The Point of Departure](myst04.md)  
+[II. Mysticism and Vitalism](myst05.md)  
+[III. Mysticism and Psychology](myst06.md)  
+[IV. The Characteristics of Mysticism](myst07.md)  
+[V. Mysticism and Theology](myst08.md)  
+[VI. Mysticism and Symbolism](myst09.md)  
+[VII. Mysticism and Magic](myst10.md)  
 <span id="section_001"></span>
 
 ### Part Two: The Mystic Way
 
-[Part Two: The Mystic Way](myst11)  
-[I. Introductory](myst12)  
-[II. The Awakening of the Self](myst13)  
-[III. The Purification of the Self](myst14)  
-[IV. The Illumination of the Self](myst15)  
-[V. Voices and Visions](myst16)  
-[VI. Introversion. Part I: Recollection and Qui](myst17)  
-[VII. Introversion. Part II: Contemplation](myst18)  
-[VIII. Ecstasy and Rapture](myst19)  
-[IX. The Dark Night of the Soul](myst20)  
-[X. The Unitive Life](myst21)  
+[Part Two: The Mystic Way](myst11.md)  
+[I. Introductory](myst12.md)  
+[II. The Awakening of the Self](myst13.md)  
+[III. The Purification of the Self](myst14.md)  
+[IV. The Illumination of the Self](myst15.md)  
+[V. Voices and Visions](myst16.md)  
+[VI. Introversion. Part I: Recollection and Qui](myst17.md)  
+[VII. Introversion. Part II: Contemplation](myst18.md)  
+[VIII. Ecstasy and Rapture](myst19.md)  
+[IX. The Dark Night of the Soul](myst20.md)  
+[X. The Unitive Life](myst21.md)  
 
  
 
-[Conclusion](myst22)  
-[Appendix: Historical Sketch of Mysticism](myst23)  
-[Bibliography](myst24)  
-[Bibliographical Note](myst25)  
-[Index](myst26)  
+[Conclusion](myst22.md)  
+[Appendix: Historical Sketch of Mysticism](myst23.md)  
+[Bibliography](myst24.md)  
+[Bibliographical Note](myst25.md)  
+[Index](myst26.md)  
 <span id="section_002"></span>
 
 ### Indexes
 
-[Index of Scripture References](myst27)  
-[Latin Words and Phrases](myst28)  
-[French Words and Phrases](myst29)  
-[Index of Pages of the Print Edition](myst30)  
+[Index of Scripture References](myst27.md)  
+[Latin Words and Phrases](myst28.md)  
+[French Words and Phrases](myst29.md)  
+[Index of Pages of the Print Edition](myst30.md)  

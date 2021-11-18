@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](lot02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](lot02.md) 
 
 ------------------------------------------------------------------------
 
@@ -727,4 +727,4 @@ Bodhisattvas here striving after enlightenment.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](lot02)
+[Next: Chapter 2](lot02.md)

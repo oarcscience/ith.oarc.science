@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq64)  [Next](sfq66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq64)  [Next](sfq66.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ the treasure belongs
 <span id="img_30800"></span>
 
 [![](tn/30800.jpg)  
-Click to enlarge](img/30800.jpg)
+Click to enlarge](img/30800.jpg.md)
 
 to herself, that she transported the same by sea, to bring it to her
 newly made husband, but suffered shipwreck by the way. Whether it be so
@@ -163,4 +163,4 @@ way.
 
 ------------------------------------------------------------------------
 
-[Next: Radigund, Queen of the Amazons](sfq66)
+[Next: Radigund, Queen of the Amazons](sfq66.md)

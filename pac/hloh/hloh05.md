@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh04)  [Next](hloh06) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh04)  [Next](hloh06.md) 
 
 ------------------------------------------------------------------------
 
@@ -309,4 +309,4 @@ Hawaii and Easter Island.
 
 ------------------------------------------------------------------------
 
-[Next: II. Legendary Places In Honolulu](hloh06)
+[Next: II. Legendary Places In Honolulu](hloh06.md)

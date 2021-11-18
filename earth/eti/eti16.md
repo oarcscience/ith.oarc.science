@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti15)  [Next](eti17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti15)  [Next](eti17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -152,7 +152,7 @@ prisoner who, a few days
 
 <span id="img_07000"></span> <span align="CENTER"> [![I AM THE MAN YOU
 SEEK.](tn/07000.jpg)  
-Click to enlarge](img/07000.jpg)  
+Click to enlarge](img/07000.jpg.md)  
 “I AM THE MAN YOU SEEK.”  
 </span>
 
@@ -268,4 +268,4 @@ craving to know what the future had in store for me.
 ------------------------------------------------------------------------
 
 [Next: Chapter X. My Journey Towards the End of Earth Begins.—The
-Adepts’ Brotherhood](eti17)
+Adepts’ Brotherhood](eti17.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](ram06)  [Next](ram08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](ram06)  [Next](ram08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0837115507/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Religion and Myth*, by James Macdonald, \[1883\], at Intangible Textual
 Heritage
 
@@ -83,12 +83,12 @@ borders of the inhabited country. This was done by the priest, and
 before they had had any communication with the tribe. In the Yoruba
 country there is a custom of keeping strangers standing outside the gate
 of the town till sundown, lest evil spirits should enter with them if
-admitted during the day. <span id="fr_94"></span>[\*](#fn_94) In South
+admitted during the day. <span id="fr_94"></span>[\*](#fn_94.md) In South
 Africa the traveller must halt at a distance from the "great place," and
 is invited to the chief's presence only after the magician has performed
 the necessary incantations. Dinka and Bongo tribes on the Nile, take the
 like precautions against the advent of evil spirits when visited by
-strangers. <span id="fr_95"></span>[†](#fn_95) The South Sea Islanders
+strangers. <span id="fr_95"></span>[†](#fn_95.md) The South Sea Islanders
 subject those landing on their shores to a process of purgation to expel
 any evil which may hang about them. These are all general precautions
 taken for the benefit of the community. But do what he may, the savage
@@ -111,7 +111,7 @@ happens that those whose lives are so guarded may not eat in public, nor
 must their food be seen except by trusted personal attendants. In
 Gondokoro a guest asked to a marriage sends a present of food, but it
 must be carefully covered with a napkin to protect it from the influence
-of wizards and witches, <span id="fr_96"></span>[\*](#fn_96) through
+of wizards and witches, <span id="fr_96"></span>[\*](#fn_96.md) through
 whom the whole bridal party might be affected. A Wanyoro will not return
 by the way he went; his very footprints may in the interval be
 bewitched. The King of Loango may not be seen eating or drinking, on
@@ -149,7 +149,7 @@ conditions, but let these be violated, and his divinity becomes a source
 of greatest danger; a fire which, if touched, will burst forth to scorch
 and burn. Should any one wear the Mikado's clothes without his leave, he
 would have swellings all over his body. <span
-id="fr_97"></span>[\*](#fn_97) Nor is this
+id="fr_97"></span>[\*](#fn_97.md) Nor is this
 
 <span id="page_89">p. 89</span>
 
@@ -184,7 +184,7 @@ purity
 
 are so strict among some tribes that cases are on record where men have
 killed their wives for lying down on their mats at forbidden
-periods. <span id="fr_98"></span>[\*](#fn_98) Hence it is that at such
+periods. <span id="fr_98"></span>[\*](#fn_98.md) Hence it is that at such
 times women are secluded, as also after child-birth. In the former case
 they may be even rolled up in mats and suspended as in a hammock for a
 period of six or seven days, to be unstrapped and conveyed to a stream
@@ -198,13 +198,13 @@ unclean and polluted. But the savage makes no such moral distinction
 between them To him they are dangerous and in danger, and the danger in
 which they stand and to which they expose others is what we should call
 spiritual or supernatural—that is, imaginary." <span
-id="fr_99"></span>[†](#fn_99) One of the substances most commonly
+id="fr_99"></span>[†](#fn_99.md) One of the substances most commonly
 tabooed by savages is iron. No iron may touch a sacred person's body. He
 may die when a simple incision might save his life, but the incision
 must not be made. A Hottentot priest never uses a knife in performing
 the operation of circumcision; he uses a sharp bit of quartz instead.
 Gold Coast natives remove all iron from their persons when consulting
-Fetish. <span id="fr_100"></span>[‡](#fn_100) Scottish Highlanders never
+Fetish. <span id="fr_100"></span>[‡](#fn_100.md) Scottish Highlanders never
 use iron nails or hammers in making the fire-wheel
 
 <span id="page_91">p. 91</span>
@@ -245,7 +245,7 @@ From the first day he went to sea with his new boat luck forsook him,
 nor would fickle fortune be wooed. He bethought him of his horse-shoe,
 and went to his neighbour to demand restitution. This was denied, the
 new owner contending successfully that he had purchased the "boat and
-its gear." <span id="fr_101"></span>[\*](#fn_101) To this day that man
+its gear." <span id="fr_101"></span>[\*](#fn_101.md) To this day that man
 believes that to parting with an old shoe was due the entire failure of
 his season's fishing. Whether returning luck—for he still lives and
 prospers—had an educative effect upon his mind, I do not know.
@@ -280,7 +280,7 @@ headquarters he was at once detailed for cattle-guard, but on his return
 in the evening he was met by a young man of his regiment, who told him
 his companion had been put to death, and that he was to be killed for
 having touched articles belonging to sacred persons. <span
-id="fr_102"></span>[\*](#fn_102) He fled, but was overtaken and put to
+id="fr_102"></span>[\*](#fn_102.md) He fled, but was overtaken and put to
 death. If touching ornaments is a capital offence, stepping over the
 head of a recumbent African is a yet more serious crime, if the sleeper
 be a person sacred in virtue of position or office. The head is
@@ -300,7 +300,7 @@ cleansed by the magicians. He then proceeds to the royal residence, and,
 in presence of the king's guards and officers of State, removes the mass
 close to the skull. If after the operation the king takes a chill the
 poor barber is accused of something more than neglect of duty: <span
-id="fr_103"></span>[\*](#fn_103) he bewitched the king, or he may have
+id="fr_103"></span>[\*](#fn_103.md) he bewitched the king, or he may have
 given a hair to his friend the wizard to enable the latter to do the
 evil deed. In either case the barber must stand his trial, in the first
 case as a principal, in the second as an accessory, and failing his
@@ -320,7 +320,7 @@ of burning hair or
 nail clippings is what the carcase is to the vulture. Nor is it safe to
 keep them by one, for who can guard against rats and white ants, not to
 speak of accidents of fire, war, and theft. The only prudent course is
-to bury them. <span id="fr_104"></span>[\*](#fn_104) But how and where?
+to bury them. <span id="fr_104"></span>[\*](#fn_104.md) But how and where?
 And here the sacred and lawful art of the magician comes to the aid of
 the perplexed. Sacred spots are set apart for such purposes—a kind of
 consecrated ground where the chief can bury his shorn locks and cut
@@ -352,12 +352,12 @@ folly to kirk and market.
 
 The gods of the Dakota Indians are mortal, and propagate their kind.
 Their Onkteri resemble a bull, and can extend their tails and horns to
-the sky, the seat of their power. <span id="fr_105"></span>[\*](#fn_105)
+the sky, the seat of their power. <span id="fr_105"></span>[\*](#fn_105.md)
 The earth is believed to be animated by the spirit of the female
 Onkteri, while the water and the earth beneath the water is the abode of
 the male god. The Onkteri have power to issue from their bodies an
 essence, signifying a god's arrow, which can work wholesale
-destruction. <span id="fr_106"></span>[†](#fn_106) The priests possess
+destruction. <span id="fr_106"></span>[†](#fn_106.md) The priests possess
 or claim all the power ascribed to the gods, and are believed to pass
 through a series of inspirations by which they receive the god-spirit.
 They lay hold on all that is mysterious, predict events, and declare
@@ -414,33 +414,33 @@ sought to rid himself of spirits which he both feared and hated.
 
 ### Footnotes
 
-<span id="fn_94"></span>[86:\*](ram07.htm#fr_94) Hinderer.
+<span id="fn_94"></span>[86:\*](ram07.htm#fr_94.md) Hinderer.
 
-<span id="fn_95"></span>[86:†](ram07.htm#fr_95) Schweinfurth.
+<span id="fn_95"></span>[86:†](ram07.htm#fr_95.md) Schweinfurth.
 
-<span id="fn_96"></span>[87:\*](ram07.htm#fr_96) Felkin.
+<span id="fn_96"></span>[87:\*](ram07.htm#fr_96.md) Felkin.
 
-<span id="fn_97"></span>[88:\*](ram07.htm#fr_97) Kaempfer.
+<span id="fn_97"></span>[88:\*](ram07.htm#fr_97.md) Kaempfer.
 
-<span id="fn_98"></span>[90:\*](ram07.htm#fr_98) *Journal Anthrop.* ix.
+<span id="fn_98"></span>[90:\*](ram07.htm#fr_98.md) *Journal Anthrop.* ix.
 
-<span id="fn_99"></span>[90:†](ram07.htm#fr_99) J. G. Frazer.
+<span id="fn_99"></span>[90:†](ram07.htm#fr_99.md) J. G. Frazer.
 
-<span id="fn_100"></span>[90:‡](ram07.htm#fr_100) C. J. Gordon Cumming.
+<span id="fn_100"></span>[90:‡](ram07.htm#fr_100.md) C. J. Gordon Cumming.
 
-<span id="fn_101"></span>[92:\*](ram07.htm#fr_101) Rev. A, Mackay, MS.
+<span id="fn_101"></span>[92:\*](ram07.htm#fr_101.md) Rev. A, Mackay, MS.
 notes.
 
-<span id="fn_102"></span>[93:\*](ram07.htm#fr_102) Hon. C. Brownlee.
+<span id="fn_102"></span>[93:\*](ram07.htm#fr_102.md) Hon. C. Brownlee.
 
-<span id="fn_103"></span>[94:\*](ram07.htm#fr_103) J. Sutton, MS. notes.
+<span id="fn_103"></span>[94:\*](ram07.htm#fr_103.md) J. Sutton, MS. notes.
 
-<span id="fn_104"></span>[95:\*](ram07.htm#fr_104) Livingstone.
+<span id="fn_104"></span>[95:\*](ram07.htm#fr_104.md) Livingstone.
 
-<span id="fn_105"></span>[96:\*](ram07.htm#fr_105) Schoolcraft.
+<span id="fn_105"></span>[96:\*](ram07.htm#fr_105.md) Schoolcraft.
 
-<span id="fn_106"></span>[96:†](ram07.htm#fr_106) Bettany.
+<span id="fn_106"></span>[96:†](ram07.htm#fr_106.md) Bettany.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Expulsion of Demons](ram08)
+[Next: Chapter VI. Expulsion of Demons](ram08.md)

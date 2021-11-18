@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai31)  [Next](iai33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai31)  [Next](iai33.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Queen Ishtar, Sin's great daughter, now doth turn;
 Inclined her ear and listened through the void  
 That lay beneath of every path devoid,  
 The home of darkness, of the Under-World,  
-Where god Ir-kal-la <span id="fr_233"></span>[1](#fn_231) from the
+Where god Ir-kal-la <span id="fr_233"></span>[1](#fn_231.md) from the
 heights was hurled.  
 The land and road from whence is no return,  
 Where light no entrance hath to that dark bourne;  
@@ -90,11 +90,11 @@ With foul disease her strike, within the gate!"
 
 ### Footnotes
 
-<span id="fn_231"></span>[91:1](iai32.htm#fr_233) "Ir-kal-la," the King
+<span id="fn_231"></span>[91:1](iai32.htm#fr_233.md) "Ir-kal-la," the King
 of Hades, who was hurled front the heights of heaven with the evil gods
 who rebelled with Tiamatu, the goddess of chaos, against the reign of
 the gods of heaven.
 
 ------------------------------------------------------------------------
 
-[Next: Column II. Effect of Ishtar's Imprisonment in Hades](iai33)
+[Next: Column II. Effect of Ishtar's Imprisonment in Hades](iai33.md)

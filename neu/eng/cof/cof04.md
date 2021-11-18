@@ -1,8 +1,8 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Celtic
-Fairies](../../celt/index.htm#fairies)  [Index](index) 
-[Previous](cof03)  [Next](cof05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md)  [Celtic
+Fairies](../../celt/index.htm#fairies)  [Index](index.md) 
+[Previous](cof03)  [Next](cof05.md) 
 
 ------------------------------------------------------------------------
 
@@ -471,7 +471,7 @@ took them myself to the Kodak Company's Offices in
 <span id="img_03200"></span>
 
 [![B. ELSIE AND THE GNOME](tn/03200.jpg)  
-Click to enlarge](img/03200.jpg)  
+Click to enlarge](img/03200.jpg.md)  
 B. ELSIE AND THE GNOME  
 
 Photograph taken by Frances. Fairly bright day in September, 1917. The
@@ -483,7 +483,7 @@ and beckoning it to come on to her knee.
 <span id="img_03300"></span>
 
 [![ELSIE AND FRANCES](tn/03300.jpg)  
-Click to enlarge](img/03300.jpg)  
+Click to enlarge](img/03300.jpg.md)  
 ELSIE AND FRANCES  
 
 A snapshot taken by Mr. Wright in June 1917, with the "Midg" camera he
@@ -492,7 +492,7 @@ had just obtained--his first and only camera.
 <span id="img_03301"></span>
 
 [![COTTINGLEY BECK AND GLEN](tn/03301.jpg)  
-Click to enlarge](img/03301.jpg)  
+Click to enlarge](img/03301.jpg.md)  
 COTTINGLEY BECK AND GLEN  
 
 Sites of photographs are marked A, B, C, D, E, and the cottage with an
@@ -643,4 +643,4 @@ introductory chapter.
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The First Published Account--''Strand'' Christmas
-Number, 1920](cof05)
+Number, 1920](cof05.md)

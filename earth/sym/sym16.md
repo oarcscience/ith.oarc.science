@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](sym15) 
-[Next](sym17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](sym15.md) 
+[Next](sym17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ interval of bright light; and as the rays of heat are more refrangible
 
 <span id="page_183">p. 183</span>
 
-than those of light <span id="fr_3"></span>[\*](#fn_3), a sufficient
+than those of light <span id="fr_3"></span>[\*](#fn_3.md), a sufficient
 degree of heat is experienced to ripen the most delicate fruits.
 
 At this season, during night, the rays of the sun are reflected from the
@@ -151,9 +151,9 @@ for all the purposes of agriculture and mechanics.
 
 ### Footnotes
 
-<span id="fn_3"></span>[183:\*](sym16.htm#fr_3) See Dr. Herschel's
+<span id="fn_3"></span>[183:\*](sym16.htm#fr_3.md) See Dr. Herschel's
 Experiments on the refrangibility of the rays of light and heat.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV](sym17)
+[Next: Chapter XIV](sym17.md)

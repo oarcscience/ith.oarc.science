@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic08)  [Next](tic10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic08)  [Next](tic10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ think themselves capable of teaching it, and believe that they have
 abundant reason to feel miserable.
 
 2\. The only way to help them is to compassionate their troubles; <span
-id="fr_96"></span>[1](#fn_96) indeed, one cannot but feel sorry at
+id="fr_96"></span>[1](#fn_96.md) indeed, one cannot but feel sorry at
 seeing people in such an unhappy state. They must not be argued with,
 for they are convinced they suffer only for God's sake, and cannot be
 made to understand they are acting imperfectly, which is a further error
@@ -58,7 +58,7 @@ for a time, but I think they ought speedily to overcome their concern
 about such matters. God, wishing His elect to realize their own misery,
 often temporarily withdraws His favours: no more is needed to prove to
 us in a very short time what we really are. <span
-id="fr_97"></span>[2](#fn_97)
+id="fr_97"></span>[2](#fn_97.md)
 
 3\. Souls soon learn in this way; they perceive their faults very
 clearly, and sometimes the discovery of how quickly they are overcome by
@@ -75,7 +75,7 @@ and examined ourselves beforehand.
 
 <span id="page_80">p. 80</span>
 
-his property, <span id="fr_98"></span>[3](#fn_98) but still has more
+his property, <span id="fr_98"></span>[3](#fn_98.md) but still has more
 than enough to keep himself and his household. If this misfortune
 grieves and disquiets him as though he were left to beg his bread, how
 can our Lord ask him to give up all things for His sake? This man will
@@ -105,7 +105,7 @@ nevertheless, these persons are disturbed, and
 <span id="page_81">p. 81</span>
 
 cannot overcome or get rid of the feeling for some time. <span
-id="fr_99"></span>[4](#fn_99) Alas! have they not long meditated on the
+id="fr_99"></span>[4](#fn_99.md) Alas! have they not long meditated on the
 pains our Lord endured and how well it is for us to suffer, and have
 even longed to do so? They wish every one were as virtuous as they are;
 and God grant they do not consider other people to blame for their
@@ -147,7 +147,7 @@ for, believe me, we are walking through a mist; it will be fortunate if
 we do not lose ourselves. Do you think, my daughters, if we could travel
 from one country to another in eight days, that it would be well to
 spend a year on the journey, through wind, snow, and inundations and
-over bad roads? <span id="fr_100"></span>[5](#fn_100) Would it not be
+over bad roads? <span id="fr_100"></span>[5](#fn_100.md) Would it not be
 better to get it over at once, for it is full of dangers and serpents?
 Oh, how many striking instances could I give you of this! God grant that
 I have passed beyond this state myself: often I think that I have not.
@@ -211,7 +211,7 @@ him who bade me write this. I must obey Superiors, not argue with them,
 which I have no right to do.
 
 16\. I assure you that when I had neither received these favours, <span
-id="fr_101"></span>[6](#fn_101) nor understood them by experience, or
+id="fr_101"></span>[6](#fn_101.md) nor understood them by experience, or
 ever expected to (and rightly so, for I should have felt reassured if I
 had known or even conjectured that I was pleasing to God in any way),
 
@@ -236,10 +236,10 @@ is best for you.
 no small mercy, for they are likely to ascend still higher) will be
 greatly benefited by practising prompt obedience. Even if they are not
 in the religious state, it would be well if they, like certain other
-people, were to take a director, <span id="fr_102"></span>[7](#fn_102)
+people, were to take a director, <span id="fr_102"></span>[7](#fn_102.md)
 so as never to follow their own will, which is the cause of most of our
 ills. They should not choose one of their own turn of mind <span
-id="fr_103"></span>[8](#fn_103) (as the saying goes), who is over
+id="fr_103"></span>[8](#fn_103) (as the saying goes.md), who is over
 prudent in his actions, but should select one thoroughly detached from
 worldly things; it is very helpful to consult a person who has learnt
 and can teach this. It is encouraging to see that trials which seemed to
@@ -264,7 +264,7 @@ them.
 
 19\. Let us look at our own faults, and not at other persons’. People
 who are extremely correct themselves are often shocked at everything
-they see <span id="fr_104"></span>[9](#fn_104); however, we might often
+they see <span id="fr_104"></span>[9](#fn_104.md); however, we might often
 learn a great deal that is essential from the very persons whom we
 censure. Our exterior comportment and manners may be better--this is
 well enough, but not of the first importance. We ought not to insist on
@@ -276,7 +276,7 @@ is. Zeal for the good of souls, though given us by God, may
 
 often lead us astray, sisters; it is best to keep our rule, which bids
 us ever to live in silence and in hope. <span
-id="fr_105"></span>[10](#fn_105) Our Lord will care for the souls
+id="fr_105"></span>[10](#fn_105.md) Our Lord will care for the souls
 belonging to Him; and if we beg His Majesty to do so, by His grace we
 shall be able to aid them greatly. May He be for ever blessed!
 
@@ -284,36 +284,36 @@ shall be able to aid them greatly. May He be for ever blessed!
 
 ### Footnotes
 
-<span id="fn_96"></span>[79:1](tic09.htm#fr_96) See letter concerning
+<span id="fn_96"></span>[79:1](tic09.htm#fr_96.md) See letter concerning
 Francisco de Salcedo. Nov. 1576. Vol. II.
 
-<span id="fn_97"></span>[79:2](tic09.htm#fr_97) *Way of Perf*. ch,
+<span id="fn_97"></span>[79:2](tic09.htm#fr_97.md) *Way of Perf*. ch,
 xxxviii. 7.
 
-<span id="fn_98"></span>[80:3](tic09.htm#fr_98) *Way of Perf*. ch,
+<span id="fn_98"></span>[80:3](tic09.htm#fr_98.md) *Way of Perf*. ch,
 xxxviii, 10. *Concep*. ch. ii. 11, 12. *Life*, xi. 3.
 
-<span id="fn_99"></span>[81:4](tic09.htm#fr_99) *Way of Perf.*. ch.
+<span id="fn_99"></span>[81:4](tic09.htm#fr_99.md) *Way of Perf.*. ch.
 xxxviii. 12.
 
-<span id="fn_100"></span>[82:5](tic09.htm#fr_100) St. Teresa very
+<span id="fn_100"></span>[82:5](tic09.htm#fr_100.md) St. Teresa very
 probably had in her mind her journey, to make a foundation at Seville,
 when the boat, which was crossing the Guadalquivir, narrowly escaped
 being carried down the river by the current. *Found*. ch. xxiv, 6
 
-<span id="fn_101"></span>[84:6](tic09.htm#fr_101) *Life*, ch. xii. 2.
+<span id="fn_101"></span>[84:6](tic09.htm#fr_101.md) *Life*, ch. xii. 2.
 *Rel*. vii. 3.
 
-<span id="fn_102"></span>[85:7](tic09.htm#fr_102) *Life*. ch. xiii. 29.
+<span id="fn_102"></span>[85:7](tic09.htm#fr_102.md) *Life*. ch. xiii. 29.
 
-<span id="fn_103"></span>[85:8](tic09.htm#fr_103) *Rel*. vii. 18.
+<span id="fn_103"></span>[85:8](tic09.htm#fr_103.md) *Rel*. vii. 18.
 
-<span id="fn_104"></span>[86:9](tic09.htm#fr_104) *Way of Perf*. ch.
+<span id="fn_104"></span>[86:9](tic09.htm#fr_104.md) *Way of Perf*. ch.
 vii. 6. *Castle*, M. I. ch. ii. 20, 21.
 
-<span id="fn_105"></span>[87:10](tic09.htm#fr_105) Isa. xxx. 15: 'In
+<span id="fn_105"></span>[87:10](tic09.htm#fr_105.md) Isa. xxx. 15: 'In
 silentio et in spe erit fortitudo vestra.' *Rule* § 13.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Sweetness in Prayer.](tic10)
+[Next: Chapter I. Sweetness in Prayer.](tic10.md)

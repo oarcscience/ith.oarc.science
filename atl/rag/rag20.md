@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag19)  [Next](rag21) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag19)  [Next](rag21.md) 
 
 ------------------------------------------------------------------------
 
@@ -1095,4 +1095,4 @@ and spread gradually to all the continents and the islands of the sea.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Legends Of The Cave-Life](rag21)
+[Next: Chapter VII. Legends Of The Cave-Life](rag21.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](sby23)  [Next](sby25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](sby23)  [Next](sby25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564596958/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ at Intangible Textual Heritage
 1\. MELEK ṬÂ’ÛS
 
 A distinguished modern scholar (see the printed text, [p.
-80](sby16.htm#page_80), lines 12-35) argues that Ṭâ’ûs is the god
+80](sby16.htm#page_80), lines 12-35.md) argues that Ṭâ’ûs is the god
 Tammuz. His argument is that the word Ṭâ’ûs must embody an ancient god,
 but owing to the obscurity in which the origin of Yezidism. and the
 being of Melek Ṭâ’ûs are wrapped, it is very difficulty to say which god
@@ -40,7 +40,7 @@ question who this god Tauz is, he answers it is Tammuz. To justify his
 explanation, the writer contends that the Yezidis speak in Kurdish, and
 according to Justi's *Kurdische Grammatik*, p. 82ff, the change of meem
 to waw in this language is frequent. <span
-id="fr_133"></span>[2](#fn_132)
+id="fr_133"></span>[2](#fn_132.md)
 
 However plausible this process may seem to be, philologically it cannot
 here yield a satisfactory conclusion. For it is based on wrong premises.
@@ -48,7 +48,7 @@ It is not true that the word Ṭâ’ûs signifies an ancient deity. It
 denotes the devil and nothing else. This is so clear to the Yezidis, or
 to anyone acquainted with their religion, as to leave no need for
 further discussion. And to question the religious consciousness of a
-sect is to engage in pure [speculation](errata.htm#16). Likewise, the
+sect is to engage in pure [speculation](errata.htm#16.md). Likewise, the
 method of determining this supposed god by the name of some deity
 resembling it is objectionable. There are many such names. One might
 also infer that the sect worship Christ under the form of the devil.
@@ -96,7 +96,7 @@ Palestine two months later. Tammuz had changed his character in passing
 from country to country, but the idea of him as a slain god, and of his
 festival as the idealization of human sorrow, a kind of "All Souls Day,"
 was never altered wherever he was adored." <span
-id="fr_134"></span>[3](#fn_133) Such beliefs are not found in the Yezidi
+id="fr_134"></span>[3](#fn_133.md) Such beliefs are not found in the Yezidi
 view of their King Peacock. On the contrary his festival is for them the
 occasion of joy and pleasure.
 
@@ -129,13 +129,13 @@ According to Philostratus they were connected with magic. In Palestine
 the dove was sacred for the Phoenicians and Philistines. The Jews
 brought accusation against the Samaritans that they were worshippers of
 the dove. Sacred doves were found also at Mecca. Nasar (eagle) was a
-deity of the tribe of Ḥamyar. <span id="fr_135"></span>[4](#fn_134)
+deity of the tribe of Ḥamyar. <span id="fr_135"></span>[4](#fn_134.md)
 
 A question suggesting itself is how the Yezidi god came to be designated
 by the form of a peacock. This bird is a native of Ceylon, and not of
 Mesopotamia or Kurdistan where the Yezidis live. <span
-id="fr_136"></span>[5](#fn_135) The answer may be found in the Muslim
-tradition <span id="fr_137"></span>[6](#fn_136) that when the first
+id="fr_136"></span>[5](#fn_135.md) The answer may be found in the Muslim
+tradition <span id="fr_137"></span>[6](#fn_136.md) that when the first
 parents forfeited heaven for eating wheat, they were cast down upon
 earth. Eve descended upon ‘Arafat; Adam at Ceylon; the peacock at Gabul,
 and Satan at Bilbays. In this myth the devil and the peacock are figured
@@ -148,7 +148,7 @@ of the former was pride, but nothing is said about the guilt of the
 latter. We learn, however, from other sources, that the bird in question
 is thought of as a symbol of pride. In his article "Peacock,"' in the
 Enc. Brit., vol. 18, p. 443, Professor A. Newton says: "The, bird is
-well known as the proverbial [personification](errata.htm#17) of pride.
+well known as the proverbial [personification](errata.htm#17.md) of pride.
 It is seldom kept in large numbers for it has a bad reputation for doing
 mischief in gardens." Hence we may infer that the notion of the peacock
 as a symbol of pride together with the Koranic idea of Satan's sin led
@@ -164,7 +164,7 @@ used in his praise is so elevated that one is led to think that he is
 identical with God. Some scholars deny this theory on the ground that
 the principal prayer of these people is directed to God and no mention
 is made of King Peacock. Hence they contend also that no direct worship
-is offered to the latter deity. <span id="fr_138"></span>[7](#fn_137) It
+is offered to the latter deity. <span id="fr_138"></span>[7](#fn_137.md) It
 seems to me that such a contention is not justifiable. In the first
 place. the people themselves confess their loyalty to the chief angels.
 Moreover, the expression in this prayer, "Thou hast neither feather, nor
@@ -172,7 +172,7 @@ wings, nor
 
 <span id="page_153">p. 153</span>
 
-arms, nor voice" (see [p. 74](sby14.htm#page_74)) is more applicable to
+arms, nor voice" (see [p. 74](sby14.htm#page_74).md) is more applicable to
 the symbol Peacock than to God. There can be no doubt I think, that in
 the conception of the sect ‘Azazil appears to be identical with God.
 This fact finds definite expression in the Book of Jilwah. In Chapter I
@@ -186,10 +186,10 @@ the great God, but superior to all other gods. He was created, and is
 under the command of God; but he is made the chief of all.
 
 It is not quite easy to understand the underlying idea in worshipping
-the devil. Some <span id="fr_139"></span>[8](#fn_138) explain this by
+the devil. Some <span id="fr_139"></span>[8](#fn_138.md) explain this by
 supposing he is so bad that he requires constant propitiation; otherwise
 he will take revenge and cause great misery. For this reason, it is
-claimed, <span id="fr_140"></span>[9](#fn_139) they do not worship God,
+claimed, <span id="fr_140"></span>[9](#fn_139.md) they do not worship God,
 because he is so good that he cannot but forgive. This is the usual
 interpretation, and it is confirmed by the nature of the religious
 service rendered. It seems to partake much more of a propitiatory than
@@ -206,11 +206,11 @@ of the innumerable dangers to which the soul was exposed from the action
 of the powers seen and unseen. So that as a matter of precaution, it was
 well to maintain a propitiatory attitude. Hence the great object of
 worship was to secure and retain the somewhat capricious favor of the
-deity. <span id="fr_141"></span>[10](#fn_140) This is in accord with the
+deity. <span id="fr_141"></span>[10](#fn_140.md) This is in accord with the
 natural feeling of man in his primitive state, which leads him rather to
 dread punishment for his sin than to be thankful for blessings received.
 
-Others <span id="fr_142"></span>[11](#fn_141) hold that the
+Others <span id="fr_142"></span>[11](#fn_141.md) hold that the
 Devil-worshippers believe that their Lord is a fallen angel, now
 suffering a temporary punishment for his rebellion against the divine
 will because he deceived Adam, or because he did not recognize the
@@ -220,7 +220,7 @@ fallen or not; on the contrary man's duty-is to venerate them all alike.
 The great God will be finally reconciled to Ṭâ’ûs, and will restore him
 to his high place in the celestial hierarchy.
 
-Still others <span id="fr_143"></span>[12](#fn_142) assert that the sect
+Still others <span id="fr_143"></span>[12](#fn_142.md) assert that the sect
 does not believe in an evil spirit but as a true divinity. This theory
 is not generally accepted, but seems more probable than the preceding
 ones. For there is nothing in the sacred book to indicate that Melek
@@ -245,7 +245,7 @@ were in reality powers by whom mankind are unwittingly led to their
 destruction. "In Islam, the gods of heathenism are degraded into jinn,
 just as the gods of north Semitic heathenism are called šĕirim (hairy
 demons) in Lev. 17: 7, or as the gods of Greece and Rome became devils
-to the early Christians." <span id="fr_144"></span>[13](#fn_143)
+to the early Christians." <span id="fr_144"></span>[13](#fn_143.md)
 
 The Yezidis' veneration for the devil in their assemblies is paid to his
 symbol, the sanjak. It is the figure of a peacock with a swelling
@@ -288,7 +288,7 @@ the district of Sarḫidar, which is in Russia; and the seventh remains at
 the tomb of Šeiḫ ‘Adî.
 
 When sent from village to village of its respective district, a sanjaḳ
-is put in a hagibah <span id="fr_145"></span>[14](#fn_144) (saddle-bag)
+is put in a hagibah <span id="fr_145"></span>[14](#fn_144) (saddle-bag.md)
 and carried on a horse that belongs to a pir (religious teacher). On
 nearing a certain place, a messenger is sent to announce in Kurdish
 "Sanjaḳ hat," "the Sanjaḳ has come." Then all the people don their
@@ -327,51 +327,51 @@ al-Frat.
 
 ### Footnotes
 
-<span id="fn_132"></span>[148:2](sby24.htm#fr_133) Lidzbarski Z. D. N.
+<span id="fn_132"></span>[148:2](sby24.htm#fr_133.md) Lidzbarski Z. D. N.
 G., vol. LI, p. 592; he is followed by Makas *Kurdische Studien*, p. 35.
 
-<span id="fn_133"></span>[150:3](sby24.htm#fr_134) See "Tammuz" in
+<span id="fn_133"></span>[150:3](sby24.htm#fr_134.md) See "Tammuz" in
 Jastrow's religion of Babylonia and Assyria, and Cheney's Dictionary of
 the Bible.
 
-<span id="fn_134"></span>[151:4](sby24.htm#fr_135) R. W. Smith: Religion
+<span id="fn_134"></span>[151:4](sby24.htm#fr_135.md) R. W. Smith: Religion
 of the Semites, p. 219; Aš-Šahrastanî, Vol. II, p. 434. Yakut (vol. IV,
 p. 780) says: Originally nasr was worshipped by the people of Noah, and
 from them was brought to the tribe of Ḥamyar. According to the Syriac
 doctrine of Addai (Ed. George Philips, p. 24) the people of Edessa
 worshipped "the eagle as the Arabians."
 
-<span id="fn_135"></span>[151:5](sby24.htm#fr_136) So far as I am aware
+<span id="fn_135"></span>[151:5](sby24.htm#fr_136.md) So far as I am aware
 no writer on the Yezidis has ever raised this question.
 
-<span id="fn_136"></span>[151:6](sby24.htm#fr_137) Hughes: *Dictionary
+<span id="fn_136"></span>[151:6](sby24.htm#fr_137.md) Hughes: *Dictionary
 of Islam*, p. 21.
 
-<span id="fn_137"></span>[152:7](sby24.htm#fr_138) Victor *Dingelstedt*,
+<span id="fn_137"></span>[152:7](sby24.htm#fr_138.md) Victor *Dingelstedt*,
 SGM, vol. XIV.
 
-<span id="fn_138"></span>[153:8](sby24.htm#fr_139) Badger: *The
+<span id="fn_138"></span>[153:8](sby24.htm#fr_139.md) Badger: *The
 Nestorians*, vol. I, p. 125; Layard, Nineveh, vol. I, p. 297.
 
-<span id="fn_139"></span>[153:9](sby24.htm#fr_140) p. Anastase:
+<span id="fn_139"></span>[153:9](sby24.htm#fr_140.md) p. Anastase:
 *Al-Mašrik*, vol. II, p. 152.
 
-<span id="fn_140"></span>[154:10](sby24.htm#fr_141) The Hibbert journal,
+<span id="fn_140"></span>[154:10](sby24.htm#fr_141.md) The Hibbert journal,
 vol. V, No. 2, Jan., 1907. p. 337.
 
-<span id="fn_141"></span>[154:11](sby24.htm#fr_142) Layard: Ibid;
+<span id="fn_141"></span>[154:11](sby24.htm#fr_142.md) Layard: Ibid;
 *Victor Dingelstedt*, Ibid, p. 299.
 
-<span id="fn_142"></span>[154:12](sby24.htm#fr_143) Dingelstedt: Ibid.
+<span id="fn_142"></span>[154:12](sby24.htm#fr_143.md) Dingelstedt: Ibid.
 
-<span id="fn_143"></span>[155:13](sby24.htm#fr_144) R. W. Smith:
+<span id="fn_143"></span>[155:13](sby24.htm#fr_144.md) R. W. Smith:
 *Religion of the Semites*, p. 220; Fihrist, p. 322, 326, calls the gods
 of the Harranians devils.
 
-<span id="fn_144"></span>[157:14](sby24.htm#fr_145) <span
+<span id="fn_144"></span>[157:14](sby24.htm#fr_145.md) <span
 id="page_168">p. 168</span> *Hagibah* is a Turkish word, meaning a
 saddleback.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Šeiḫ ‘Adî](sby25)
+[Next: 2. Šeiḫ ‘Adî](sby25.md)

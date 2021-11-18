@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](isi01)  [Next](isi03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](isi01)  [Next](isi03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766181146/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766181146/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Isiac Tablet of Cardinal Bembo*, by W. Wynn Westcott, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_isitab"></span> <span align="CENTER"> [![The Isiac Tablet
 of Cardinal Bembo (267Kb)](tn/isitab.jpg)  
-Click to enlarge](img/isitab.jpg)  
+Click to enlarge](img/isitab.jpg.md)  
 The Isiac Tablet of Cardinal Bembo (267Kb)  
 </span>
 
@@ -29,9 +29,9 @@ DETAIL IMAGES
 
 |                                                                                      |                                                                                      |                                                                                      |
 |--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| <span id="img_01"></span> <span align="CENTER"> [![@](tn/01.jpg)](img/01.jpg)</span> | <span id="img_02"></span> <span align="CENTER"> [![@](tn/02.jpg)](img/02.jpg)</span> | <span id="img_03"></span> <span align="CENTER"> [![@](tn/03.jpg)](img/03.jpg)</span> |
-| <span id="img_04"></span> <span align="CENTER"> [![@](tn/04.jpg)](img/04.jpg)</span> | <span id="img_05"></span> <span align="CENTER"> [![@](tn/05.jpg)](img/05.jpg)</span> | <span id="img_06"></span> <span align="CENTER"> [![@](tn/06.jpg)](img/06.jpg)</span> |
-| <span id="img_07"></span> <span align="CENTER"> [![@](tn/07.jpg)](img/07.jpg)</span> | <span id="img_08"></span> <span align="CENTER"> [![@](tn/08.jpg)](img/08.jpg)</span> | <span id="img_09"></span> <span align="CENTER"> [![@](tn/09.jpg)](img/09.jpg)</span> |
+| <span id="img_01"></span> <span align="CENTER"> [![@](tn/01.jpg)](img/01.jpg)</span> | <span id="img_02"></span> <span align="CENTER"> [![@](tn/02.jpg)](img/02.jpg)</span> | <span id="img_03"></span> <span align="CENTER"> [![@](tn/03.jpg)](img/03.jpg.md)</span> |
+| <span id="img_04"></span> <span align="CENTER"> [![@](tn/04.jpg)](img/04.jpg)</span> | <span id="img_05"></span> <span align="CENTER"> [![@](tn/05.jpg)](img/05.jpg)</span> | <span id="img_06"></span> <span align="CENTER"> [![@](tn/06.jpg)](img/06.jpg.md)</span> |
+| <span id="img_07"></span> <span align="CENTER"> [![@](tn/07.jpg)](img/07.jpg)</span> | <span id="img_08"></span> <span align="CENTER"> [![@](tn/08.jpg)](img/08.jpg)</span> | <span id="img_09"></span> <span align="CENTER"> [![@](tn/09.jpg)](img/09.jpg.md)</span> |
 
 </div>
 
@@ -386,7 +386,7 @@ Martial) of many colors and spots, denotes the variety of created
 things. The Basket denotes abundance, and the Persea denotes that Wisdom
 which administers all events: the Horns denote the Moon, and the
 Scarabæus and disc the Sun, the sceptre denotes that all things are
-modelled after the [pattern](errata.htm#0) of the Paternal Mens, and the
+modelled after the [pattern](errata.htm#0.md) of the Paternal Mens, and the
 Lotus means the unwearied procession alike by night and day, the raised
 left hand denotes the ruling power whose every command is fulfilled.
 This mother of Universal Nature the Egyptians called ISIS, of her they
@@ -476,7 +476,7 @@ fecundating it." P is an Andro-sphynx, the fiery nature deity, and the
 hieroglyphics read:—"The divine arbiter by his power impresses with his
 seal the heavenly life." R is the executor of the commands of this
 triad, he is almost naked and his legs apart as in motion on his
-pedestal we read:—"He penetrates with the [greatest](errata.htm#1)
+pedestal we read:—"He penetrates with the [greatest](errata.htm#1.md)
 celerity through the celestial sphere, through the moist Kingdom of
 Momphta, and the sacred Ibimorphous lakes." S is a flying Hawk it holds
 a circle and a rod, and refers to the power of heat, supplied by the
@@ -1051,7 +1051,7 @@ the Feasts of the Religion of Egypt.
 
 In the Upper Region the Central Figure seems to be intended to represent
 the Rising of the Canicula, the Dog Star, Sothis, marking the
-[beginning](errata.htm#2) of the Egyptian year, and indeed the
+[beginning](errata.htm#2.md) of the Egyptian year, and indeed the
 
 <span id="page_13">p. 13</span>
 
@@ -1173,7 +1173,7 @@ and the other 19 only.
 In the First Segment, P S and V form a Fourth Group, occupied in the
 sacrifice of a Goat, or Gazelle; the priest slaying the animal is seen
 by the head-dress to belong to the cult of Y, the seated Deity facing
-the central [Iynx](errata.htm#3); V is a priestess, not a deity, and P
+the central [Iynx](errata.htm#3.md); V is a priestess, not a deity, and P
 is a soldier or guard, bearing on his head the same dress as that of the
 seated Ibis-headed deity Q; the altar M is peculiar and deserves study.
 
@@ -1408,13 +1408,13 @@ explanation
 
 <span id="img_01700"></span> <span align="CENTER"> [![The Diagram of
 Eliphaz Levi](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 The Diagram of Eliphaz Levi  
 </span>
 
 <span id="img_01701"></span> <span align="CENTER"> [![Westcott's Diagram
 from the Views of Kircher](tn/01701.jpg)  
-Click to enlarge](img/01701.jpg)  
+Click to enlarge](img/01701.jpg.md)  
 Westcott's Diagram from the Views of Kircher  
 </span>
 
@@ -1716,4 +1716,4 @@ only vague legends which posterity will refuse to believe."
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements](isi03)
+[Next: Advertisements](isi03.md)

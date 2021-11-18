@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes27)  [Next](nes29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes27)  [Next](nes29.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![W](img/winit.jpg) |
+| ![W](img/winit.jpg.md) |
 
 HEN one entered upon a farm, it was usual for friends and neighbours to
 lend a helping hand. Aid was given in ploughing. A day was fixed, and
@@ -261,9 +261,9 @@ did the work of evil among their neighbours' cattle if their anger had
 been aroused in any way.
 
 The fairies often wrought injury amongst cattle. <span
-id="fr_136"></span>[1](#fn_136) Every animal that died suddenly was
+id="fr_136"></span>[1](#fn_136.md) Every animal that died suddenly was
 killed by the dart of the fairies, or, in the language of the people,
-was "shot-a-dead." <span id="fr_137"></span>[2](#fn_137) Flint arrows
+was "shot-a-dead." <span id="fr_137"></span>[2](#fn_137.md) Flint arrows
 and spear-heads went by the name of "faery dairts," whilst the kelts
 were called "thunderbolts," and were coveted as the sure bringers of
 success, provided they were not allowed to fall to the ground. When an
@@ -274,7 +274,7 @@ great satisfaction of the owner of the dead animal.
 There were those who were dreaded as buyers, if the purchase was not
 completed by them. In a short time the animal began to "dwine," or an
 accident befell it, or death speedily followed. Such had an
-"ill-ee." <span id="fr_138"></span>[3](#fn_138) It was alleged that they
+"ill-ee." <span id="fr_138"></span>[3](#fn_138.md) It was alleged that they
 were well aware of the opinion entertained of their power, and offered a
 price less than that of the market, fully aware that the seller would
 rather give the animal at the low price than risk a sale in the market,
@@ -345,7 +345,7 @@ and sprinkle the ashes over the byre and other farm buildings. This
 order was carried out, except that the pig was killed before it was
 burned. A more terrible sacrifice was made at times. One of the diseased
 animals was rubbed over with tar, driven forth, set on fire, and allowed
-to run till it fell down and died. <span id="fr_139"></span>[1](#fn_139)
+to run till it fell down and died. <span id="fr_139"></span>[1](#fn_139.md)
 
 When the quarter-ill made its appearance the "muckle wheel" was set in
 motion, and turned till fire was produced. From this virgin flame fires
@@ -372,14 +372,14 @@ but as they ver desired be James Duncan in Keyth. Also, they delated
 some of their owne elderis to haue been accessorie thereto . . . . . .
 all ordained to satisfie according to the ordinance of the Provinciall
 Assemblie, vith three dayes repentance in sackcloth." <span
-id="fr_140"></span>[2](#fn_140)
+id="fr_140"></span>[2](#fn_140.md)
 
 The fore-legs of one of the animals that had died were cut
 
 <span id="page_187">p. 187</span>
 
 off a little above the knee, and hung over the fire-place in the
-kitchen. <span id="fr_141"></span>[1](#fn_141) It was thought sufficient
+kitchen. <span id="fr_141"></span>[1](#fn_141.md) It was thought sufficient
 by some if they were placed over the door of the byre, in the "crap o’
 the wa." Sometimes the heart and part of the liver and lungs were cut
 out, and hung over the fireplace instead of the fore-feet. Boiling them
@@ -424,7 +424,7 @@ round while the words, "In the name of the Father, the Son, and the Holy
 Ghost," are repeated. The bridle is then dropped into the water and
 turned round in the same way, and with the same words. The water so
 treated has the power to cure all manner of disease. <span
-id="fr_142"></span>[1](#fn_142)
+id="fr_142"></span>[1](#fn_142.md)
 
 To keep the witches at a distance there were various methods, and all of
 approved value. On bonfire night (1st May, O.S.) small pieces of
@@ -446,7 +446,7 @@ Pits the witches t’ their speed."
 
 "Rawn-tree in red-threed  
 Gars the witches tyne their speed." <span
-id="fr_143"></span>[2](#fn_143)
+id="fr_143"></span>[2](#fn_143.md)
 
 \[paragraph continues\] When all animal was led away to market the besom
 was thrown on it to ward off all harm from witches, the "ill-ee," or
@@ -472,17 +472,17 @@ been pitched on the market-green for the sale of refreshments, when
 payment was made, and the "blockan ale" drunk. The seller, on receiving
 payment, returned a "luck penny" to the buyer, a sixpence, a shilling,
 or a larger sum, if it was thought a "stret bargain." <span
-id="fr_144"></span>[1](#fn_144)
+id="fr_144"></span>[1](#fn_144.md)
 
 ### THE DAIRY.
 
 The chief enemies of the dairy were the witch and the warlock, <span
-id="fr_145"></span>[2](#fn_145) that had the power of drawing away the
+id="fr_145"></span>[2](#fn_145.md) that had the power of drawing away the
 milk and the cream of the cows. There were various modes of doing so.
 The witch with hair streaming over her face and shoulders has been seen
 on her knees in the byres beside a blazing fire. Then she has been known
 to make the milk pour through the key-hole of the door or from the foot
-of the couple. <span id="fr_146"></span>[3](#fn_146) She has been
+of the couple. <span id="fr_146"></span>[3](#fn_146.md) She has been
 observed to turn herself into a hare, mount on the cow's back, and sit
 for a time, and the milk has departed, whilst she never wanted milk,
 though she had no cow at all, or, if she had one, though she was
@@ -556,7 +556,7 @@ Another method was to catch some of the animal's urine in a bottle, cork
 it tightly, and keep it. In no long time the milk-stealer made her
 appearance, confessed her wicked deed, and entreated to be relieved of
 the disease with which he had been seized. <span
-id="fr_147"></span>[1](#fn_147)
+id="fr_147"></span>[1](#fn_147.md)
 
 A crofter in the north-east of Buchan bought a cow. He took her home,
 and everything seemed right and proper with the animal when tied lip in
@@ -690,7 +690,7 @@ stopped by a pin. This tube and pin went by the name of a "cock and
 pail" and served to draw off the thin sour part of the cream--the "wig."
 
 When the butter was being churned a crooked sixpence, <span
-id="fr_148"></span>[1](#fn_148) or a cross of rowan-tree, or a
+id="fr_148"></span>[1](#fn_148.md) or a cross of rowan-tree, or a
 horse-shoe was placed below the churn. When one entered the house during
 the process of churning, the hand of the one who entered had to be put
 to the churn. This was done to show that there was no evil intended
@@ -701,7 +701,7 @@ enter there was either no butter, or it was bad in quality, or less in
 quantity than it should have been, and got only after hours of churning.
 
 That the cow might calve during day, she was let "yeel" on Sunday. <span
-id="fr_149"></span>[2](#fn_149) When the calf fell from the cow it was
+id="fr_149"></span>[2](#fn_149.md) When the calf fell from the cow it was
 on no account
 
 <span id="page_195">p. 195</span>
@@ -712,7 +712,7 @@ terminated in death. The human hand, stained with sin, brought about
 this result. Something must be between the animal and the human hand the
 first time it was touched--a little straw or the apron. Neither was it
 safe to lay the hand at any time on the calf's back. <span
-id="fr_150"></span>[1](#fn_150)
+id="fr_150"></span>[1](#fn_150.md)
 
 When a cow was to be taken to market she was not milked on that morning.
 Such an act was unlucky, and would have hurt the sale of the animal. A
@@ -732,7 +732,7 @@ going along with the animal.
 The fields in many districts were unfenced, and the cattle had to be
 tended, "hirdit." The "hird" used a stick for driving the cattle--"a
 club." If possible the club was of ash. <span
-id="fr_151"></span>[2](#fn_151) This was because, if it had to be used,
+id="fr_151"></span>[2](#fn_151.md) This was because, if it had to be used,
 which was often done by throwing, it was believed that it would break no
 bones, and would not injure the beast if struck. In some districts this
 club was ornamented with a carving representing "Jockie's plew."
@@ -800,54 +800,54 @@ line. The last line sometimes took the form:--
 
 ### Footnotes
 
-<span id="fn_136"></span>[184:1](nes28.htm#fr_136) *Choice Notes*, p.
+<span id="fn_136"></span>[184:1](nes28.htm#fr_136.md) *Choice Notes*, p.
 38.
 
-<span id="fn_137"></span>[184:2](nes28.htm#fr_137) Cf. Henderson, pp,
+<span id="fn_137"></span>[184:2](nes28.htm#fr_137.md) Cf. Henderson, pp,
 185-7.
 
-<span id="fn_138"></span>[184:3](nes28.htm#fr_138) *Choice Notes*, p.
+<span id="fn_138"></span>[184:3](nes28.htm#fr_138.md) *Choice Notes*, p.
 257.
 
-<span id="fn_139"></span>[186:1](nes28.htm#fr_139) Cf. Henderson, pp.
+<span id="fn_139"></span>[186:1](nes28.htm#fr_139.md) Cf. Henderson, pp.
 148, 149.
 
-<span id="fn_140"></span>[186:2](nes28.htm#fr_140) Extracts from "the
+<span id="fn_140"></span>[186:2](nes28.htm#fr_140.md) Extracts from "the
 Presbytery Book of Strathbogie," pp. 51, 104, 105 Spalding Club,
 Aberdeen. A.D. 1843. Cf. Henderson, pp. 167, 168.
 
-<span id="fn_141"></span>[187:1](nes28.htm#fr_141) Cf. Henderson, p.
+<span id="fn_141"></span>[187:1](nes28.htm#fr_141.md) Cf. Henderson, p.
 167.
 
-<span id="fn_142"></span>[188:1](nes28.htm#fr_142) Cf. Henderson, pp.
+<span id="fn_142"></span>[188:1](nes28.htm#fr_142.md) Cf. Henderson, pp.
 163-166.
 
-<span id="fn_143"></span>[188:2](nes28.htm#fr_143) Cf. Henderson, pp.
+<span id="fn_143"></span>[188:2](nes28.htm#fr_143.md) Cf. Henderson, pp.
 225, 226; *Choice Notes*, pp. 38, 39.
 
-<span id="fn_144"></span>[189:1](nes28.htm#fr_144) Cf. Henderson, pp.
+<span id="fn_144"></span>[189:1](nes28.htm#fr_144.md) Cf. Henderson, pp.
 119, 120; *Notes and Queries*, 5th series, vol. vi. p. 6.
 
-<span id="fn_145"></span>[189:2](nes28.htm#fr_145) Cf. Henderson, pp.
+<span id="fn_145"></span>[189:2](nes28.htm#fr_145.md) Cf. Henderson, pp.
 183, 184.
 
-<span id="fn_146"></span>[189:3](nes28.htm#fr_146) Cf. *Songs of the
+<span id="fn_146"></span>[189:3](nes28.htm#fr_146.md) Cf. *Songs of the
 Russian People*, p. 391.
 
-<span id="fn_147"></span>[191:1](nes28.htm#fr_147) Cf. Henderson, p.
+<span id="fn_147"></span>[191:1](nes28.htm#fr_147.md) Cf. Henderson, p.
 186.
 
-<span id="fn_148"></span>[194:1](nes28.htm#fr_148) Cf. Henderson, p,
+<span id="fn_148"></span>[194:1](nes28.htm#fr_148.md) Cf. Henderson, p,
 183.
 
-<span id="fn_149"></span>[194:2](nes28.htm#fr_149) *Notes and Queries*,
+<span id="fn_149"></span>[194:2](nes28.htm#fr_149.md) *Notes and Queries*,
 5th series, vol. vi. p. 109.
 
-<span id="fn_150"></span>[195:1](nes28.htm#fr_150) Cf. *ibid*. p. 109.
+<span id="fn_150"></span>[195:1](nes28.htm#fr_150.md) Cf. *ibid*. p. 109.
 
-<span id="fn_151"></span>[195:2](nes28.htm#fr_151) Cf. *Choice Notes*,
+<span id="fn_151"></span>[195:2](nes28.htm#fr_151.md) Cf. *Choice Notes*,
 p. 24.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI. Boats and Fishing](nes29)
+[Next: Chapter XXVI. Boats and Fishing](nes29.md)

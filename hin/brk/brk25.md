@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](brk24)  [Next](brk26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](brk24)  [Next](brk26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DEMAYK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_hin.jpg)](index)  
+[![](../../img/tn_hin.jpg)](index.md)  
 *Brahma Knowledge*, by L. D. Barnett, \[1911\], at Intangible Textual
 Heritage
 
@@ -69,11 +69,11 @@ is gained they lose all significance (on III. iv. 25 f., IV. i. 1 f.).
 
 ### Footnotes
 
-<span id="fn_2"></span>[47:1](brk24.htm#fr_2) *Predestination* for
+<span id="fn_2"></span>[47:1](brk24.htm#fr_2.md) *Predestination* for
 empiric life, B.A. III. viii. 9, IV. iv. 5, Ch. III. xiv. 1, VIII, i. 5;
 *Unconscious freedom of transcendental Self,* Ch. VIII. iii. 2;
 *Absolute freedom* *in enlightenment,* Ch. VII. xxv. 2, VII. i. 6, v. 4.
 
 ------------------------------------------------------------------------
 
-[Next: Brahma the Destroyer](brk26)
+[Next: Brahma the Destroyer](brk26.md)

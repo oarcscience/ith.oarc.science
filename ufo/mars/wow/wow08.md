@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow07)  [Next](wow09) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow07)  [Next](wow09.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ This was the second cylinder.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Nine: The Fighting Begins](wow09)
+[Next: Chapter Nine: The Fighting Begins](wow09.md)

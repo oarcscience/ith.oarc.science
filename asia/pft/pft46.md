@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft45)  [Next](pft47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft45)  [Next](pft47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -59,8 +59,8 @@ water, for they live largely on food from the sea.
 
 Their folk-lore, as will be seen from the following tales, shows decided
 influence from Arabia and India, which has filtered in through the
-islands to the south.  <span id="fr_139"></span>[140](pft68.htm#fn_139)
+islands to the south.  <span id="fr_139"></span>[140](pft68.htm#fn_139.md)
 
 ------------------------------------------------------------------------
 
-[Next: Mythology of Mindanao](pft47)
+[Next: Mythology of Mindanao](pft47.md)

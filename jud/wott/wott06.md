@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](wott05)  [Next](wott07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](wott05)  [Next](wott07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -37,7 +37,7 @@ speculating. The universe in itself did not, however, answer Abraham's
 quest. God met him halfway, and rewarded his groping by revealing
 Himself to him with the reassuring word of His presence. "The Lord
 looked upon him and said: 'I am the master of the universe.'"<span
-id="an_r_04_1"></span>[1](wott11.htm#an_n_04_1)
+id="an_r_04_1"></span>[1](wott11.htm#an_n_04_1.md)
 
 The assertion that the universe is the creation of God does not make
 clear the many varied and intriguing problems that the contemplation of
@@ -72,7 +72,7 @@ symbolism which that letter's shape, a square open on the left side,
 suggests: "As the letter *beth* is closed on all sides and only open in
 front, you are to regard as closed to inquiry what was before creation
 or what is behind; what is open begins from the actual time of
-creation."<span id="an_r_04_2"></span>[2](wott11.htm#an_n_04_2)
+creation."<span id="an_r_04_2"></span>[2](wott11.htm#an_n_04_2.md)
 
 The rabbis, following the style of the Bible, frequently spoke of God as
 though He were a person. They ascribe to Him bodily attributes. It is
@@ -98,7 +98,7 @@ epithets by which God is referred to in the Talmud is "The Place", for
 God is the "place" or the ground of creation; the universe exists in Him
 not He in the universe. In the words of the Midrash "The Holy One,
 blessed be He, is the place of His universe, but His universe is not His
-place."<span id="an_r_04_3"></span>[3](wott11.htm#an_n_04_3)
+place."<span id="an_r_04_3"></span>[3](wott11.htm#an_n_04_3.md)
 
 But by a paradox of the divine mystery God, though transcending the
 universe, is yet ever present, and men can enter into close and intimate
@@ -108,7 +108,7 @@ teach us that there is no place which is devoid of God's presence, not
 even so humble an object as a thorn bush. Another rabbi declared: "At
 times the universe and its fulness are insufficient to contain the glory
 of God's presence; at other times He speaks with man in intimate
-discourse."<span id="an_r_04_4"></span>[4](wott11.htm#an_n_04_4)
+discourse."<span id="an_r_04_4"></span>[4](wott11.htm#an_n_04_4.md)
 
 The assertion that God is invisible made him unreal for people
 accustomed to identify reality with concreteness. But the rabbis
@@ -127,7 +127,7 @@ much more beyond your power of vision is God Himself." Rabban
 the reality of God by analogy to the soul whose specific abode we do not
 know and of which we have no direct concrete experience. That, however,
 does not make it unreal.<span
-id="an_r_04_5"></span>[5](wott11.htm#an_n_04_5)
+id="an_r_04_5"></span>[5](wott11.htm#an_n_04_5.md)
 
 God's ultimate essence must elude human comprehension. We may, however,
 see manifestations of divine activity throughout creation.
@@ -143,7 +143,7 @@ torch, His shield the clouds, and His sword the lightning. He fashioned
 mountains and hills and covered them with grass. He makes the rains and
 dew to descend, and causes the vegetation to sprout. He also forms the
 embryo in the mother's womb and enables it to issue forth as a living
-being."<span id="an_r_04_6"></span>[6](wott11.htm#an_n_04_6)
+being."<span id="an_r_04_6"></span>[6](wott11.htm#an_n_04_6.md)
 
 In this vast panorama of existence, moreover, there is the evidence of a
 purposeful Intelligence at work. No organism is superfluous. A close
@@ -161,7 +161,7 @@ precision with which it functions in the
 <span id="page_89">p. 89</span>
 
 world, offers eloquent testimony to the divine source from which it is
-derived.<span id="an_r_04_7"></span>[7](wott11.htm#an_n_04_7)
+derived.<span id="an_r_04_7"></span>[7](wott11.htm#an_n_04_7.md)
 
 It is in man that the design of creation shows itself most forcefully.
 The Talmudists admired the marvellous construction of the human body in
@@ -183,7 +183,7 @@ only higher, it would be better! But has man ever come and said, If I
 had three eyes or three hands or three legs, if I walked on my head or
 my head were turned backward, I should have preferred it? … The Holy One
 … decided upon every limb which you have and set it in its proper
-place."<span id="an_r_04_8"></span>[8](wott11.htm#an_n_04_8)
+place."<span id="an_r_04_8"></span>[8](wott11.htm#an_n_04_8.md)
 
 #### MIRACLES
 
@@ -214,7 +214,7 @@ which happened when Hananiah, Mishael, and Azariah escaped from the
 fiery furnace." And the tortuous manner in which a family in distress
 manages to eke out an existence is as great a miracle as the parting of
 the Red Sea for the Israelites.<span
-id="an_r_04_9"></span>[9](wott11.htm#an_n_04_9)
+id="an_r_04_9"></span>[9](wott11.htm#an_n_04_9.md)
 
 #### THE PURPOSE OF HUMAN EXISTENCE
 
@@ -236,7 +236,7 @@ thyself'" (Lev. 19:18). Ben Azzai made the Torah's fundamental teaching
 not the golden rule but the doctrine on which it is ultimately
 based—that man is made in the divine image: "This is the book of the
 generations of man … in the likeness of God made He him" (Gen.
-5:1).<span id="an_r_04_10"></span>[10](wott11.htm#an_n_04_10)
+5:1).<span id="an_r_04_10"></span>[10](wott11.htm#an_n_04_10.md)
 
 The Talmudists saw, however, that the anchor on which all the elements
 of the good life rest, is the recognition of God's sovereignty. It is
@@ -261,7 +261,7 @@ thee, but to do justly, to love mercy and to walk humbly with thy God'
 'Thus saith the Lord, keep ye justice and do righteousness' (Is. 56:1).
 Lastly came Habakkuk and reduced them to one, as it is said, 'The
 righteous shall live by his faith'" (Hab. 2:4).<span
-id="an_r_04_11"></span>[11](wott11.htm#an_n_04_11)
+id="an_r_04_11"></span>[11](wott11.htm#an_n_04_11.md)
 
 #### GOD AS THE SOURCE OF MORALITY
 
@@ -278,7 +278,7 @@ This is taught by Rabbi Reuben who had been asked to define the most
 reprehensible act a man may be guilty of. His answer was that it is the
 denial of God's existence. "For no man violates the commandments, 'Thou
 shalt not murder', 'Thou shalt not steal', till he has renounced his
-faith in God."<span id="an_r_04_12"></span>[12](wott11.htm#an_n_04_12)
+faith in God."<span id="an_r_04_12"></span>[12](wott11.htm#an_n_04_12.md)
 
 The same doctrine is conveyed in the famous homily by Raba. As the
 Talmud relates it, "Raba said: when a person is brought for judgment on
@@ -290,7 +290,7 @@ one proposition to another?' All this will suffice provided he be a
 God-fearing man, too, for the fear of God is the treasury in which all
 else is stored. If he be not a God-fearing man, the other virtues will
 prove insufficient."<span
-id="an_r_04_13"></span>[13](wott11.htm#an_n_04_13)
+id="an_r_04_13"></span>[13](wott11.htm#an_n_04_13.md)
 
 #### THE TOOLS OF HUMAN PERFECTION
 
@@ -321,14 +321,14 @@ two impulses. "But," it is asked, "is the evil impulse very good?" And
 the answer is given that it is. For "were it not for that impulse, a man
 would not build a house, marry a wife, beget children or conduct
 business affairs."<span
-id="an_r_04_14"></span>[14](wott11.htm#an_n_04_14)
+id="an_r_04_14"></span>[14](wott11.htm#an_n_04_14.md)
 
 The person in whom the drive for self has been integrated in a sound
 pattern of character has made of the so-called evil impulse also a tool
 of goodness. The Talmud makes this clear in the comment on Deut. 6:5:
 "Thou shalt love the Lord thy God with all thy heart." "Thy heart" is
 taken as meaning "with the two impulses—the good and the evil."<span
-id="an_r_04_15"></span>[15](wott11.htm#an_n_04_15)
+id="an_r_04_15"></span>[15](wott11.htm#an_n_04_15.md)
 
 #### THE TORAH AND THE COMMANDMENTS
 
@@ -354,7 +354,7 @@ The most important manifestation of prophecy was in Israel, but not
 exclusively so. The rabbis saw the evidence of prophetic inspiration in
 the lives of men outside the Jewish people. Thus they declared: "Seven
 prophets prophesied for the pagans:<span
-id="an_r_04_16"></span>[16](wott11.htm#an_n_04_16) Balaam and his
+id="an_r_04_16"></span>[16](wott11.htm#an_n_04_16.md) Balaam and his
 father, and Job and his four friends." But prophecy, in its highest
 expression, appeared in Israel solely.
 
@@ -385,7 +385,7 @@ descends
 on the prophets in degrees. Some prophesied to the extent of one book,
 others of two books. Beeri only prophesied two verses, which, being
 insufficient for an independent book, were included in Isaiah."<span
-id="an_r_04_17"></span>[17](wott11.htm#an_n_04_17)
+id="an_r_04_17"></span>[17](wott11.htm#an_n_04_17.md)
 
 The Divine plan could not, however, fulfill itself through the
 individual prophets. It was essential that the prophets be given a
@@ -425,7 +425,7 @@ original promulgation of the Torah took place in the desert, a no-man's
 land, rather than in the land of Israel. This was to suggest that its
 treasures were not meant to belong to any particular people exclusively;
 the Torah was God's message through Israel to all humanity.<span
-id="an_r_04_18"></span>[18](wott11.htm#an_n_04_18)
+id="an_r_04_18"></span>[18](wott11.htm#an_n_04_18.md)
 
 In projecting the goal of sharing the Torah with the rest of mankind,
 the rabbis did not call for the conversion of the rest of the world to
@@ -439,14 +439,14 @@ Noahite laws" and they include the practices of equity in human
 relations, the prohibition of blaspheming God's name, the prohibition of
 idolatry, sexual unchastity, bloodshed, robbery, and cruelty to animals,
 such as tearing a limb from the animal when it is still alive.<span
-id="an_r_04_19"></span>[19](wott11.htm#an_n_04_19)
+id="an_r_04_19"></span>[19](wott11.htm#an_n_04_19.md)
 
 Proselytes were of course accepted in Judaism, when they proved their
 sincere desire to become part of Israel and to share in its destiny. But
 that, the rabbis made it clear, was not a prerequisite for earning
 divine approval. "A pagan," declared Rabbi Meir, "who studies the Torah
 and practices it is the equal of a high priest in Israel."<span
-id="an_r_04_20"></span>[20](wott11.htm#an_n_04_20) Rabbi Meir clearly
+id="an_r_04_20"></span>[20](wott11.htm#an_n_04_20.md) Rabbi Meir clearly
 refers to a pagan who practices the universal principles of religion and
 morality as embodied in the so-called "Seven Noahite laws". If he
 practiced the Torah in its entirety he would no longer be a pagan.
@@ -468,7 +468,7 @@ Torah are revealed to him. He is made like a never-failing fountain, and
 like a river that flows on with ever sustained vigor. He becomes modest,
 long-suffering, and forgiving of insults; and it magnifies and exalts
 him above all things."<span
-id="an_r_04_21"></span>[21](wott11.htm#an_n_04_21)
+id="an_r_04_21"></span>[21](wott11.htm#an_n_04_21.md)
 
 Life's highest goal which is attainable by man must be sought by living
 according to the teachings of the Torah. The study of Torah must
@@ -478,7 +478,7 @@ to ignorance of Torah. In poverty, in wealth, in youth and old age, a
 person must ever give himself to the mastery of Torah. It is the only
 sure compass by which he can guide himself amid the turbulence and
 uncertainty of life about him.<span
-id="an_r_04_22"></span>[22](wott11.htm#an_n_04_22)
+id="an_r_04_22"></span>[22](wott11.htm#an_n_04_22.md)
 
 The rabbis saw the educational service of the Torah reinforced by the
 disciplines which are enjoined by it. Some of the commandments enjoined
@@ -499,7 +499,7 @@ exposure to these symbols man was to be reminded vividly of his
 relationship to God. As the rabbis put it: "Whoever has phylacteries on
 his head and arm, the fringe on his garment and the mezuzah on his door
 may be presumed to be safe from committing sin."<span
-id="an_r_04_23"></span>[23](wott11.htm#an_n_04_23)
+id="an_r_04_23"></span>[23](wott11.htm#an_n_04_23.md)
 
 The performance of the commandments was seen as serving man in a deeper
 sense. It gave him the opportunity to do something concrete in
@@ -509,7 +509,7 @@ for the purpose of refining human beings; what, for example, does it
 matter to the Holy One, blessed be He, whether an animal's neck is cut
 in the front or the rear (as prescribed in the dietary laws)! But the
 ordinances He gave us have as their purpose the purification of human
-beings."<span id="an_r_04_24"></span>[24](wott11.htm#an_n_04_24)
+beings."<span id="an_r_04_24"></span>[24](wott11.htm#an_n_04_24.md)
 
 #### FREEDOM AND ITS CONSEQUENCES
 
@@ -523,7 +523,7 @@ however, would have destroyed human freedom. Instead. God has made man a
 free agent, which involves the uncoerced exercise of the will in any
 direction, regardless of its moral consequences. As an oft-quoted
 Talmudic maxim: "All is in the hands of Heaven except the fear of
-Heaven."<span id="an_r_04_25"></span>[25](wott11.htm#an_n_04_25) God, in
+Heaven."<span id="an_r_04_25"></span>[25](wott11.htm#an_n_04_25.md) God, in
 other words, is master of the Universe, but He is not master over man's
 moral decisions, which he must learn to make himself.
 
@@ -540,7 +540,7 @@ comfort me"; rod is applied to suffering while staff is applied to the
 Torah. Suffering is therefore not an evil to be avoided but an
 opportunity that points to a better life. "Whoever rejoices in the
 sufferings that come upon him in this life brings salvation to the
-world."<span id="an_r_04_26"></span>[26](wott11.htm#an_n_04_26)
+world."<span id="an_r_04_26"></span>[26](wott11.htm#an_n_04_26.md)
 
 The Talmudists did not advise people to seek suffering. One of them put
 it quite bluntly: "I desire neither the suffering nor the rewards which
@@ -557,7 +557,7 @@ Law' (Ps. 94:12). If he attributed them to neglect of Torah without
 finding any justification, it is certain that his chastenings are
 chastenings of love; as it is said, 'For whom the Lord loveth He
 correcteth'" (Prov. 3:12).<span
-id="an_r_04_27"></span>[27](wott11.htm#an_n_04_27)
+id="an_r_04_27"></span>[27](wott11.htm#an_n_04_27.md)
 
 The so-called suffering inflicted because of "love" is the highest kind
 of suffering. For it comes not to expiate for some wrong done but to
@@ -573,7 +573,7 @@ through such sufferings Israel would achieve a new vitality in its
 spiritual life. "As the olive does not give of its precious oil except
 under pressure, so Israel does not bring forth its highest virtues
 except through adversity."<span
-id="an_r_04_28"></span>[28](wott11.htm#an_n_04_28)
+id="an_r_04_28"></span>[28](wott11.htm#an_n_04_28.md)
 
 In their trials no less than in their triumphs, therefore, God is
 guiding mankind toward their destiny. But its fulfillment is a long
@@ -609,7 +609,7 @@ Messianic fulfillment, moreover, will not be complete. There will be men
 who will hold on defiantly to the error of their life and endeavor to
 impede the dawn of the new day. And those men will have to be vanquished
 in a bloody contest of arms.<span
-id="an_r_04_29"></span>[29](wott11.htm#an_n_04_29)
+id="an_r_04_29"></span>[29](wott11.htm#an_n_04_29.md)
 
 As for the time when this consummation was to take place, it was
 generally held to depend on the degree of progress men will have
@@ -625,8 +625,8 @@ that day, a deeply disappointed Joshua returned to Elijah with the
 complaint: "He spoke falsely to me, stating that he would come today,
 but has not!" Elijah then enlightened him that the Messiah had really
 quoted Scripture (Ps. 95:7): "Today, if ye hearken to His voice."<span
-id="an_r_04_30"></span>[30](wott11.htm#an_n_04_30)
+id="an_r_04_30"></span>[30](wott11.htm#an_n_04_30.md)
 
 ------------------------------------------------------------------------
 
-[Next: Social Ethics in the Talmud](wott07)
+[Next: Social Ethics in the Talmud](wott07.md)

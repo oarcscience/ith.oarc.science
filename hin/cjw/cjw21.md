@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw20)  [Next](cjw22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw20)  [Next](cjw22.md) 
 
 ------------------------------------------------------------------------
 
@@ -69,4 +69,4 @@ How shall I tell this perfect wisdom's crowd?
 
 ------------------------------------------------------------------------
 
-[Next: Appendix: A Symposium on the Life of Śankarâchârya](cjw22)
+[Next: Appendix: A Symposium on the Life of Śankarâchârya](cjw22.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp08)  [Next](hmvp10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp08)  [Next](hmvp10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -50,12 +50,12 @@ arms, dark eyes, eyebrows and hair. He rides on a ram, wears a poita
 (Brāhmanical thread), and a garland of fruit. Flames of fire issue from
 his mouth, and seven streams of glory radiate from his body. The
 following passage, for every sentence of which Dr. Muir <span
-id="fr_20"></span>[\*](#fn_20) quotes a text from the Vedas, gives a
+id="fr_20"></span>[\*](#fn_20.md) quotes a text from the Vedas, gives a
 good idea of the character and functions of this deity in the Vedic Age.
 
 <span id="img_02200"></span> <span align="CENTER">
 [![AGNI.](tn/02200.jpg)  
-Click to enlarge](img/02200.jpg)  
+Click to enlarge](img/02200.jpg.md)  
 AGNI.  
 </span>
 
@@ -120,7 +120,7 @@ are said to be comprehended in him; he surrounds them as the
 circumference of a wheel does the spokes.
 
 The main characteristics of this deity are taught in the following
-verses by Dr. Muir:— <span id="fr_21"></span>[\*](#fn_21)
+verses by Dr. Muir:— <span id="fr_21"></span>[\*](#fn_21.md)
 
 <div style="margin-left: 32px">
 
@@ -140,7 +140,7 @@ verses by Dr. Muir:— <span id="fr_21"></span>[\*](#fn_21)
    Thou wast drawn down to human hearths of yore,  
  And thou abid’st a denizen of earth.
 
-"Sprung from the mystic pair, <span id="fr_22"></span>[\*](#fn_22) by
+"Sprung from the mystic pair, <span id="fr_22"></span>[\*](#fn_22.md) by
 priestly hands  
    In wedlock joined, forth flashes Agni bright;  
    But, oh! ye heavens and earth, I tell you right,  
@@ -239,14 +239,14 @@ represented under a form as hideous as the beings he, in common with the
 other gods, is called upon to devour. He sharpens his two iron tusks,
 puts his enemies into his mouth, and devours them. He heats the edges of
 his shafts, and sends them into the hearts of the Rākshasas." <span
-id="fr_23"></span>[\*](#fn_23)
+id="fr_23"></span>[\*](#fn_23.md)
 
 "In the Mahābhārata, Agni is represented as having exhausted his vigour
 by devouring too many oblations, and desiring to consume the whole
 Khāndava forest, as a means of recruiting his strength. He was \[at
 first\] prevented from doing this by Indra; but having obtained the
 assistance of Krishna and Arjuna, he baffled Indra, and accomplished his
-object." <span id="fr_24"></span>[†](#fn_24)
+object." <span id="fr_24"></span>[†](#fn_24.md)
 
 According to the Rāmāyana, in order to assist Vishnu when incarnate as
 Rāma, Agni became the father of Nila by a monkey mother; and according
@@ -306,26 +306,26 @@ himself become Brahmanaspati at the moment when they pronounce the
 mantras which gave them power over the things of heaven and of earth."
 
 <span id="img_02900"></span> <span align="CENTER"> [![](tn/02900.jpg)  
-Click to enlarge](img/02900.jpg)</span>
+Click to enlarge](img/02900.jpg.md)</span>
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_20"></span>[22:\*](hmvp09.htm#fr_20) Muir, O. S. T., v. 119
+<span id="fn_20"></span>[22:\*](hmvp09.htm#fr_20.md) Muir, O. S. T., v. 119
 ff.
 
-<span id="fn_21"></span>[24:\*](hmvp09.htm#fr_21) Muir, O. S. T., v.
+<span id="fn_21"></span>[24:\*](hmvp09.htm#fr_21.md) Muir, O. S. T., v.
 221.
 
-<span id="fn_22"></span>[25:\*](hmvp09.htm#fr_22) The two pieces of wood
+<span id="fn_22"></span>[25:\*](hmvp09.htm#fr_22.md) The two pieces of wood
 from which fire is produced.
 
-<span id="fn_23"></span>[27:\*](hmvp09.htm#fr_23) Dowson, "Dictionary of
+<span id="fn_23"></span>[27:\*](hmvp09.htm#fr_23.md) Dowson, "Dictionary of
 Hindu Mythology.''
 
-<span id="fn_24"></span>[27:†](hmvp09.htm#fr_24) Ibid. *s.v.*
+<span id="fn_24"></span>[27:†](hmvp09.htm#fr_24.md) Ibid. *s.v.*
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Sun or Light Deities](hmvp10)
+[Next: Chapter VI. Sun or Light Deities](hmvp10.md)

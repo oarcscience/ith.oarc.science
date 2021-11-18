@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb08)  [Next](isb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb08)  [Next](isb10.md) 
 
 ------------------------------------------------------------------------
 
@@ -268,4 +268,4 @@ had carried the Englishmen to Bantry
 
 ------------------------------------------------------------------------
 
-[Next: From Glengariff to Killarney](isb10)
+[Next: From Glengariff to Killarney](isb10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl09)  [Next](vrl11) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl09)  [Next](vrl11.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ questions connected with the language of the Vril-ya.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XII](vrl11)
+[Next: CHAPTER XII](vrl11.md)

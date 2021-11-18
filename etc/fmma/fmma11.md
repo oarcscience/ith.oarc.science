@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma10)  [Next](fmma12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma10)  [Next](fmma12.md) 
 
 ------------------------------------------------------------------------
 
@@ -320,4 +320,4 @@ entitled by the Koran to hold this position.
 
 ------------------------------------------------------------------------
 
-[Next: Charles Martel, 714-741 A.D. And Pepin, 741-768 A.D.](fmma12)
+[Next: Charles Martel, 714-741 A.D. And Pepin, 741-768 A.D.](fmma12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe10)  [Next](toe12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe10)  [Next](toe12.md) 
 
 ------------------------------------------------------------------------
 
@@ -357,7 +357,7 @@ easy, although it may be made abundantly plain; and to be convinced that
 this calcareous stone, which calcines so easily in our fires, should
 have been brought into fusion by subterraneous heat, without suffering
 calcination, must require a chain of reasoning which every one is not
-able to attain <span id="fr_20"></span>[13](#fn_20). But when fire
+able to attain <span id="fr_20"></span>[13](#fn_20.md). But when fire
 bursts forth from the bottom of the sea, and when the land is heaved up
 and down, so as to demolish cities in an instant, and split asunder
 rocks and solid mountains, there is nobody but must see in this a power,
@@ -601,7 +601,7 @@ in some places, there is perceived a short one, running at right angles,
 and communicating with other two that run parallel.
 
 There is in this country, and in Derbyshire <span
-id="fr_21"></span>[14](#fn_21), another regular appearance of this
+id="fr_21"></span>[14](#fn_21.md), another regular appearance of this
 stone, which Cronstedt has not mentioned. In this case, the strata are
 not broken in order to have the whin-stone introduced, they are
 separated, and the whin-stone is interjected in form of strata, having
@@ -618,7 +618,7 @@ among the strata of the globe, strata which had been formed by
 subsidence at the bottom of the sea, it will now be proper to examine
 the difference that subsists between these subterraneous lavas, as they
 may be termed, and the analogous bodies which are proper lavas, in
-having issued out of a volcano. <span id="fr_22"></span>[15](#fn_22)
+having issued out of a volcano. <span id="fr_22"></span>[15](#fn_22.md)
 
 There can be no doubt that these two different species of bodies have
 had the same origin, and that they are composed of the same materials
@@ -778,7 +778,7 @@ its operations, as a living world, maintaining plants and animals.
 
 ### Footnotes
 
-<span id="fn_20"></span>[v1:13](toe11.htm#fr_20) Mr le Chevalier de
+<span id="fn_20"></span>[v1:13](toe11.htm#fr_20.md) Mr le Chevalier de
 Dolomieu, in considering the different effects of heat, has made the
 following observation; Journal de Physique, Mai 1792.
 
@@ -822,10 +822,10 @@ subterraneous fire, it is impossible to conceive the fusion and
 concretion of those various bodies, which we examine when brought up to
 the surface of the earth.
 
-<span id="fn_21"></span>[v1:14](toe11.htm#fr_21) See Mr Whitehurst's
+<span id="fn_21"></span>[v1:14](toe11.htm#fr_21.md) See Mr Whitehurst's
 Theory of the Earth.
 
-<span id="fn_22"></span>[v1:15](toe11.htm#fr_22) The Chevalier de
+<span id="fn_22"></span>[v1:15](toe11.htm#fr_22.md) The Chevalier de
 Dolomieu, in his accurate examination of Aetna and the Lipari islands,
 has very well observed the distinction of these two different species of
 lavas; but without seeming to know the principle upon which this
@@ -863,4 +863,4 @@ ever observed.
 ------------------------------------------------------------------------
 
 [Next: Section IV. System of Decay and Renovation observed in the
-Earth](toe12)
+Earth](toe12.md)

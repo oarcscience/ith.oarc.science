@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index.md) 
 
 </div>
 
@@ -25,8 +25,8 @@ Sagas](../../index)  [William Morris](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](thol00)    [Text
-\[Zipped\]](thol.txt.gz)
+[Contents](#contents)    [Start Reading](thol00.md)    [Text
+\[Zipped\]](thol.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -36,9 +36,9 @@ once obtained, will only be half-remembered.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](thol00)  
-[Contents](thol01)  
-[Struggling in the World](thol02)  
-[Failing in the World](thol03)  
-[Fytte the Second](thol04)  
-[Fytte the Third](thol05)  
+<span id="contents"></span> [Title Page](thol00.md)  
+[Contents](thol01.md)  
+[Struggling in the World](thol02.md)  
+[Failing in the World](thol03.md)  
+[Fytte the Second](thol04.md)  
+[Fytte the Third](thol05.md)  

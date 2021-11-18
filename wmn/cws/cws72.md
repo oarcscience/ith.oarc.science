@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws71)  [Next](cws73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws71)  [Next](cws73.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ spirit of all the moons.
 ------------------------------------------------------------------------
 
 [Next: No. XVII: The Mysteries Of The Kingdoms Of The Seven
-Spheres](cws73)
+Spheres](cws73.md)

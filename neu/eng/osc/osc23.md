@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc22)  [Next](osc24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc22)  [Next](osc24.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ type.
 
 ------------------------------------------------------------------------
 
-[Next: (21) Lammas Day](osc24)
+[Next: (21) Lammas Day](osc24.md)

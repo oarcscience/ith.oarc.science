@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob09) 
-[Next](sob11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob09.md) 
+[Next](sob11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -78,7 +78,7 @@ proper breathing.
 
 Even the nervous system suffers from improper breathing, inasmuch as the
 brain, the spinal cord, the nerve centers, and the nerves themselves,
-when improperly nourished by means of [the](errata.htm#16) blood, become
+when improperly nourished by means of [the](errata.htm#16.md) blood, become
 poor and inefficient instruments for generating, storing.
 
 <span id="page_45">p. 45</span>
@@ -139,7 +139,7 @@ organs, which in connection with the rhythm of the lungs acts as a
 gentle massage of these organs and stimulates their actions, and
 encourages normal functioning. Each inhalation aids in this internal
 exercise, and assists in causing a normal circulation to the organs of
-nutrition and [elimination](errata.htm#17). In High or Mid Breathing
+nutrition and [elimination](errata.htm#17.md). In High or Mid Breathing
 
 <span id="page_47">p. 47</span>
 
@@ -171,4 +171,4 @@ builders reject is the real cornerstone of the Temple of Health.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. A Few Bits of Yogi Lore](sob11)
+[Next: Chapter X. A Few Bits of Yogi Lore](sob11.md)

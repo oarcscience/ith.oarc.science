@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait03)  [Next](ait05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait03)  [Next](ait05.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![I](img/00100.jpg) |
+| ![I](img/00100.jpg.md) |
 
 AGOO, the story-teller of the Indians, is a little, old man with a face
 as black as the shell of the butternut and a body like a twisted stick.
@@ -66,4 +66,4 @@ our own land, America.
 
 ------------------------------------------------------------------------
 
-[Next: Snowbird and the Water-Tiger](ait05)
+[Next: Snowbird and the Water-Tiger](ait05.md)

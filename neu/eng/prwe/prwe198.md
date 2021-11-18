@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe197)  [Next](prwe199) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe197)  [Next](prwe199.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ explain the phrase a 'poor month."
 
 ------------------------------------------------------------------------
 
-[Next: Hingston Downs](prwe199)
+[Next: Hingston Downs](prwe199.md)

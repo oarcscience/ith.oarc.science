@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff07)  [Next](fff09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff07)  [Next](fff09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ Tehuti, the God of Wisdom, whose name, as Jamblichus tells us, was
 of the wisdom-tradition in all its branches.
 
 The Greeks, finding in their own Hermes some points of similarity with
-the [characteristics](errata.htm#7) of Tehuti, called him by that name,
+the [characteristics](errata.htm#7.md) of Tehuti, called him by that name,
 with the added title
 
 <span id="page_58">p. 58</span>
@@ -153,7 +153,7 @@ necessary to prefix a few words by way of introduction.
 The appearance in 1895 of Conybeare's admirable edition of the text of
 Philo's famous treatise <span class="margnote">The Earliest Christians
 of Eusebius.</span> *On the Contemplative Life* has at length set one of
-the ingeniously inverted [pyramids](errata.htm#8) of the origins
+the ingeniously inverted [pyramids](errata.htm#8.md) of the origins
 squarely on its base again.
 
 The full title of this important work is: *Philo about the Contemplative
@@ -285,4 +285,4 @@ But to the tractate itself.
 
 ------------------------------------------------------------------------
 
-[Next: Philo on the Contemplative Life](fff09)
+[Next: Philo on the Contemplative Life](fff09.md)

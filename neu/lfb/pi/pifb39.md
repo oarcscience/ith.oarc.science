@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](pifb38)  [Next](pifb40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](pifb38)  [Next](pifb40.md) 
 
 </div>
 
@@ -208,6 +208,6 @@ afresh so at last the poor beast was drowned altogether.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Hare](pifb40)
+[Next: The Little Hare](pifb40.md)
 
 </div>

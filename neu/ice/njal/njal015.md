@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal014)  [Next](njal016) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal014)  [Next](njal016.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ and kindly, but still kept on in his own way.
 
 ------------------------------------------------------------------------
 
-[Next: 16. Glum's Sheep Hunt](njal016)
+[Next: 16. Glum's Sheep Hunt](njal016.md)

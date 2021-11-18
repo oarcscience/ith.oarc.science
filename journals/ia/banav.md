@@ -1,6 +1,6 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Buddhist
-Articles](../../bud/etc/index)
+Heritage](../../index) [Journals](../index.md) [Buddhist
+Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -12,8 +12,8 @@ Articles](../../bud/etc/index)
 
  
 
-[Aśvagosha](#pp_1)   [Nâgarjuṇa](#pp_2)   [Âryadeva](#pp_3) 
- [Vasubandhu](#pp_4)
+[Aśvagosha](#pp_1)   [Nâgarjuṇa](#pp_2)   [Âryadeva](#pp_3.md) 
+ [Vasubandhu](#pp_4.md)
 
 ------------------------------------------------------------------------
 
@@ -50,11 +50,11 @@ Articles](../../bud/etc/index)
 *Translated from Vassilief's work on Buddhism, by Miss E. Lyall.*
 
    <span id="pp_1"></span>1. Aśvagosha<span
-id="page_141_fr_*"></span>[\*](#page_141_note_*) (in Chinese *Ma-mine*,
+id="page_141_fr_*"></span>[\*](#page_141_note_*.md) (in Chinese *Ma-mine*,
 'voice of the horse') was a disciple of the venerable Pârśva. Pârśva, on
 arriving in Central India from the North, learned that the clergy of
 that district dared not strike the *Gaṇṭâ*,<span
-id="page_141_fr_dagger"></span>[†](#page_141_note_dagger) a privilege,
+id="page_141_fr_dagger"></span>[†](#page_141_note_dagger.md) a privilege,
 as we know, which had been granted to the religions which prevailed or
 which had obtained preponderance. The cause of this humiliation was
 Aśvagosha, who, belonging to the most learned Tîrthikas, had demanded
@@ -126,7 +126,7 @@ consisting of 5,000 *gâthas*; *Da tzzi fane biane lune*, 'The Art of
 Pity,' consisting of 50 *gâthas* (5,000 ?). It was by means of these
 that the doctrine of the Mahâyâna spread on all sides in Southem India.
 Besides these he composed *U veï lune*, 'Meditations on Intrepidity,' in
-100,000 *gâthas*.<span id="page_142_fr_*"></span>[\*](#page_142_note_*)
+100,000 *gâthas*.<span id="page_142_fr_*"></span>[\*](#page_142_note_*.md)
 A Brâhmaṇ who had entered into discussion with him produced a magic pond
 in the middle of which was a water-lily with a thousand leaves, but
 Nâgârjuṇa produced a magic elephant which overturned the pond. At
@@ -140,13 +140,13 @@ conversion, the name Nâga was added, whence has resulted the name
 Nâgârjuṇa (in Chinese *Lune-chu*, dragon-tree; the Thibetans translate
 it 'converted by a dragon'). He was the thirteenth patriarch, and
 administered religion more than three hundred years.<span
-id="page_142_fr_dagger"></span>[†](#page_142_note_dagger)
+id="page_142_fr_dagger"></span>[†](#page_142_note_dagger.md)
 
    <span id="pp_3"></span>3. Deva (Âryadeva) was descended from a
 Brahmanical family of Southern India. He rendered himself celebrated by
 his general knowledge. There was in his kingdom a golden image of
 Maheśvara two *sagenes*<span
-id="page_142_fr_ddagger"></span>[‡](#page_142_note_ddagger) high;
+id="page_142_fr_ddagger"></span>[‡](#page_142_note_ddagger.md) high;
 whoever, in asking a favour, turned himself towards it, had his prayer
 granted in the present life. All who presented themselves were not
 admitted to the image, but Deva insisted that he should be allowed to
@@ -154,7 +154,7 @@ enter, and when the angry spirit began to roll his eyes, he pulled one
 of them out. Another day Maheśvara appeared to him in a festival and
 promised him that the people should believe his words. Deva came to the
 pagoda of Nâgârjuṇa,<span
-id="page_142_fr_sect"></span>[§](#page_142_note_sect) advanced into the
+id="page_142_fr_sect"></span>[§](#page_142_note_sect.md) advanced into the
 spiritual state, and then began to enlighten the people. But that did
 not satisfy him, he was possessed with the desire to convert the king
 himself. For that purpose he went to the bodyguards, and after having
@@ -168,19 +168,19 @@ and was surnamed Kânadeva.
 
    <span id="pp_4"></span>4. Vasubandhu was born in the kingdom of
 Purushapura,<span
-id="page_142_fr_dvert"></span>[‖](#page_142_note_dvert) in Northern
+id="page_142_fr_dvert"></span>[‖](#page_142_note_dvert.md) in Northern
 India. In the history of the god Vishṇu the following is related:—Vishṇu
 was the younger brother of Indra, who had sent him into Jambudvîpa to
 conquer the Asura: he was born as son to the king Vâsudeva. At this time
 the Asura existed under the name of Indradamana<span
-id="page_142_fr_para"></span>[¶](#page_142_note_para) (conqueror of
+id="page_142_fr_para"></span>[¶](#page_142_note_para.md) (conqueror of
 Indra), a name which he had received because of his war against Indra.
 In the *Vyâkaraṇa*<span
-id="page_142_fr_**"></span>[\*\*](#page_142_note_**) it is said that the
+id="page_142_fr_**"></span>[\*\*](#page_142_note_**.md) it is said that the
 Asura asserts that it is not a good thing for people to amuse themselves
 by giving opposition to the gods who find enjoyment in well doing. This
 Asura had a sister named Prabhâvatî<span
-id="page_142_fr_daggerdagger"></span>[††](#page_142_note_daggerdagger)
+id="page_142_fr_daggerdagger"></span>[††](#page_142_note_daggerdagger.md)
 (sovereign of light), who was very beautiful. The Asura, wishing to
 injure Vishṇu, placed his sister in a prominent position, and himself
 told her that if any one wished to marry her she was to propose that he
@@ -202,7 +202,7 @@ promised that his body would be joined together again if it should be
 torn asunder. As Vishṇu had shown here the courage of a man, the kingdom
 was thus named Purusha. There was in this kingdom a royal chief who was
 a Brâhmaṇ of the Kauśika<span
-id="page_143_fr_*"></span>[\*](#page_143_note_*) family. He had three
+id="page_143_fr_*"></span>[\*](#page_143_note_*.md) family. He had three
 sons who bore the single name Vasubandhu, which was common to them, and
 which signifies 'celestial parent' (*Tiane-tzine*). It is the custom in
 India to give all children only one name, which is common to them, and
@@ -274,7 +274,7 @@ surrounded on all sides by mountains, and there were gates only on one
 side; all the prelates had set their guard of Yakshas as sentinels to
 allow all those who wished to be instructed to pass in, but not to allow
 them to go out again. In the kingdom of Ayodhya lived the master
-Vasasubhadra,<span id="page_144_fr_*"></span>[\*](#page_144_note_*) who
+Vasasubhadra,<span id="page_144_fr_*"></span>[\*](#page_144_note_*.md) who
 was gifted with intelligence and a good memory; as he wished to learn
 the *Vaibhâshya*, he feigned madness and repaired to Kipine, where he
 listened for twelve consecutive years. Sometimes while they were
@@ -371,7 +371,7 @@ years.
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Buddhist Articles](../../bud/etc/index)
+[Journals](../index) [Buddhist Articles](../../bud/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -379,7 +379,7 @@ years.
 
 <span id="footnotes_page_141">p. 141</span>
 
-<span id="page_141_note_*"></span>[\*](#page_141_fr_*) The biographies
+<span id="page_141_note_*"></span>[\*](#page_141_fr_*.md) The biographies
 of the first three were translated into Chinese under the dynasty of
 Yao-tzine, <span class="small">A.D.</span> 384-417, by Kumâraśya
 (Kumâraśila ?); and the last, that of Vasubandhu, appeared under the
@@ -387,45 +387,45 @@ Chene dynasty (<span class="small">A.D.</span> 557-588), by the
 celebrated Chene-ti. From theee M. Vassilief derives the following
 abridged lives (pp. 210-222 of the Russian ed.).
 
-<span id="page_141_note_dagger"></span>[†](#page_141_fr_dagger) A sort
+<span id="page_141_note_dagger"></span>[†](#page_141_fr_dagger.md) A sort
 of bell for calling to religious exercises.
 
 <span id="footnotes_page_142">p. 142</span>
 
-<span id="page_142_note_*"></span>[\*](#page_142_fr_*) We do not now
+<span id="page_142_note_*"></span>[\*](#page_142_fr_*.md) We do not now
 find all these works of Nâgârjuṇa either in Chinese or Thibetan, though
 there are others that go under his name.
 
-<span id="page_142_note_dagger"></span>[†](#page_142_fr_dagger) This
+<span id="page_142_note_dagger"></span>[†](#page_142_fr_dagger.md) This
 note is found in the Chinese biography.
 
-<span id="page_142_note_ddagger"></span>[‡](#page_142_fr_ddagger) The
+<span id="page_142_note_ddagger"></span>[‡](#page_142_fr_ddagger.md) The
 'sagene' is a Russian measure of 6 ft. 9.2 in.
 
-<span id="page_142_note_sect"></span>[§](#page_142_fr_sect) Yet we do
+<span id="page_142_note_sect"></span>[§](#page_142_fr_sect.md) Yet we do
 not know that Nâgârjuṇa was still alive, though the usual legends make
 Âryadeva the personal disciple of Nâgârjuṇa.
 
-<span id="page_142_note_dvert"></span>[‖](#page_142_fr_dvert)
+<span id="page_142_note_dvert"></span>[‖](#page_142_fr_dvert.md)
 *Fu-lou-cha-fu-lo*.
 
-<span id="page_142_note_para"></span>[¶](#page_142_fr_para)
+<span id="page_142_note_para"></span>[¶](#page_142_fr_para.md)
 *Ine-to-lo-to-ma-na*; *to-ma-na* signifying vanquisher.
 
-<span id="page_142_note_**"></span>[\*\*](#page_142_fr_**) *Bi-kia-lo*.
+<span id="page_142_note_**"></span>[\*\*](#page_142_fr_**.md) *Bi-kia-lo*.
 
 <span
-id="page_142_note_daggerdagger"></span>[††](#page_142_fr_daggerdagger)
+id="page_142_note_daggerdagger"></span>[††](#page_142_fr_daggerdagger.md)
 *Po-lo-po-no-di*.
 
 <span id="footnotes_page_143">p. 143</span>
 
-<span id="page_143_note_*"></span>[\*](#page_143_fr_*) *Kiao-chi-kia*,
+<span id="page_143_note_*"></span>[\*](#page_143_fr_*.md) *Kiao-chi-kia*,
 one of the names of Indra himself.
 
 <span id="footnotes_page_144">p. 144</span>
 
-<span id="page_144_note_*"></span>[\*](#page_144_fr_*)
+<span id="page_144_note_*"></span>[\*](#page_144_fr_*.md)
 *Po-soso-siui-ba-to-lo*.
 
  

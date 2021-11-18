@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi061)  [Next](mtsi063) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi061)  [Next](mtsi063.md) 
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ Rabbit decided that the Terrapin had won.
 
 ------------------------------------------------------------------------
 
-[Next: 61. The Bungling Host](mtsi063)
+[Next: 61. The Bungling Host](mtsi063.md)

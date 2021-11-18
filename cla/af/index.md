@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Classics](../index)
+[Sacred-Texts](../../index) [Classics](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -34,17 +34,17 @@ have been retained have been completely renumbered.
 
 ------------------------------------------------------------------------
 
-[INTRODUCTORY DISSERTATION.](af00)  
-[THE THEOLOGY OF THE PHŒNICIANS: FROM SANCHONIATHO.](af01)  
+[INTRODUCTORY DISSERTATION.](af00.md)  
+[THE THEOLOGY OF THE PHŒNICIANS: FROM SANCHONIATHO.](af01.md)  
 FRAGMENTS OF CHALDÆAN HISTORY,  
-   [BEROSSUS: FROM ALEXANDER POLYHISTOR.](af02)  
-   [BEROSSUS: FROM APOLLODORUS.](af03)  
-   [BEROSSUS: FROM ABYDENUS.](af04)  
-   [BEROSSUS: FROM JOSEPHUS, &c.](af05)  
-   [MEGASTHENES: FROM ABYDENUS.](af06)  
-   [SUPPLEMENTAL FRAGMENTS AND EXTRACTS.](af07)  
-[THE CHALDÆAN ORACLES OF ZOROASTER.](af08)  
-[HERMETIC FRAGMENTS.](af09)  
-[ORPHIC FRAGMENTS.](af10)  
-[PYTHAGOREAN FRAGMENTS.](af11)  
-[THE THEOGONIES.](af12)  
+   [BEROSSUS: FROM ALEXANDER POLYHISTOR.](af02.md)  
+   [BEROSSUS: FROM APOLLODORUS.](af03.md)  
+   [BEROSSUS: FROM ABYDENUS.](af04.md)  
+   [BEROSSUS: FROM JOSEPHUS, &c.](af05.md)  
+   [MEGASTHENES: FROM ABYDENUS.](af06.md)  
+   [SUPPLEMENTAL FRAGMENTS AND EXTRACTS.](af07.md)  
+[THE CHALDÆAN ORACLES OF ZOROASTER.](af08.md)  
+[HERMETIC FRAGMENTS.](af09.md)  
+[ORPHIC FRAGMENTS.](af10.md)  
+[PYTHAGOREAN FRAGMENTS.](af11.md)  
+[THE THEOGONIES.](af12.md)  

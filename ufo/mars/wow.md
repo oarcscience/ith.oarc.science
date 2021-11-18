@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](index)
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](index.md)
 
 ------------------------------------------------------------------------
 

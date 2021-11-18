@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps19)  [Next](rps21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps19)  [Next](rps21.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ PERFECT STANDARD.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 19. Ethiopia's Triumphant Proclamation](rps21)
+[Next: Chapter 19. Ethiopia's Triumphant Proclamation](rps21.md)

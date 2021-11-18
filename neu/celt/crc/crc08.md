@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc07)  [Next](crc09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc07)  [Next](crc09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ Cualnge. That man will kill two-thirds of the host in this way.'
 <span id="page_40">p. 40</span>
 
 It is there that the harpers of the *Cainbili* <span
-id="fr_39"></span>[1](#fn_39) from Ossory came to them to amuse them.
+id="fr_39"></span>[1](#fn_39.md) from Ossory came to them to amuse them.
 They thought it was from the Ulstermen to spy on them. They set to
 hunting them, till they went before them in the forms of deer into the
 stones at Liac Mor on the north. For they were wizards with great
@@ -70,13 +70,13 @@ cunning.
 
 ### Footnotes
 
-<span id="fn_39"></span>[40:1](crc08.htm#fr_39) Reference obscure. They
+<span id="fn_39"></span>[40:1](crc08.htm#fr_39.md) Reference obscure. They
 were wizards of some sort.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Lethan](crc09)
+[Next: The Death of Lethan](crc09.md)
 
 </div>

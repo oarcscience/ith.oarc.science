@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tmm08)  [Next](tmm10) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tmm08)  [Next](tmm10.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,7 +236,7 @@ fixed upon as the best place for the Temple, and Palestine as the
 country for Israel.--Levit. Rabba 13.
 
 A man is not consulted by his parents as to whether he wishes to be
-brought into this world. <span id="fr_19"></span>[1](#fn_19)--Levit.
+brought into this world. <span id="fr_19"></span>[1](#fn_19.md)--Levit.
 Rabba 14.
 
 Man is the last in creation and the first in responsibility.--Levit.
@@ -394,7 +394,7 @@ habit. Thus the Israelites, when in Egypt, got into the habit of
 offering sacrifices to the Egyptian gods; they were therefore commanded
 to bring the sacrifices which they used to offer to demons (Levit. 17.
 7) unto the Tabernacle of the Lord. <span
-id="fr_20"></span>[1](#fn_20)--Levit. Rabba 22.
+id="fr_20"></span>[1](#fn_20.md)--Levit. Rabba 22.
 
 The present Rome is Edom.--Levit. Rabba 22.
 
@@ -611,12 +611,12 @@ God.--Levit. Rabba 34.
 
 ### Footnotes
 
-<span id="fn_19"></span>[118:1](tmm09.htm#fr_19) Schiller expresses the
+<span id="fn_19"></span>[118:1](tmm09.htm#fr_19.md) Schiller expresses the
 same idea.
 
-<span id="fn_20"></span>[122:1](tmm09.htm#fr_20) See also Maimonides'
+<span id="fn_20"></span>[122:1](tmm09.htm#fr_20.md) See also Maimonides'
 *Moreh Nebuchim*, cap. 3.
 
 ------------------------------------------------------------------------
 
-[Next: Numbers Rabba](tmm10)
+[Next: Numbers Rabba](tmm10.md)

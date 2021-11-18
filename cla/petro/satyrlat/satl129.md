@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat16.htm#CXXIX) 
-[Previous](satl128)  [Next](satl130) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat16.htm#CXXIX.md) 
+[Previous](satl128)  [Next](satl130.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ verbaque codicillis talia imposui:
 
 ------------------------------------------------------------------------
 
-[Next: CXXX](satl130)
+[Next: CXXX](satl130.md)

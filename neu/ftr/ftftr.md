@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Next](foreword) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Next](foreword.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XSSI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002H9XSSI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk Tales From the Russian*, by Verra Xenophontovna Kalamatiano de
 Blumenthal, \[1903\], at Intangible Textual Heritage
 
@@ -54,20 +54,20 @@ because it was published prior to 1923.
 |                           |                                 |
 |---------------------------|---------------------------------|
 |                           | <span class="small">PAGE</span> |
-| *Foreword*                | [7](#page_7)                    |
-| *A List of Illustrations* | [10](listill.htm#page_10)       |
-| *Dedication*              | [11](dedicati.htm#page_11)      |
-| *Notes*                   | [149](notes.htm#page_n149)      |
+| *Foreword*                | [7](#page_7.md)                    |
+| *A List of Illustrations* | [10](listill.htm#page_10.md)       |
+| *Dedication*              | [11](dedicati.htm#page_11.md)      |
+| *Notes*                   | [149](notes.htm#page_n149.md)      |
 | FOLK TALES                |                                 |
-| The Tsarevna Frog         | [13](chap01.htm#page_13)        |
-| Seven Simeons             | [27](chap02.htm#page_27)        |
-| The Language of the Birds | [66](chap03.htm#page_66)        |
-| Ivanoushka the Simpleton  | [77](chap04.htm#page_77)        |
-| Woe Bogotir               | [107](chap05.htm#page_107)      |
-| Baba Yaga                 | [118](chap06.htm#page_118)      |
-| Dimian the Peasant        | [128](chap07.htm#page_128)      |
-| The Golden Mountain       | [132](chap08.htm#page_132)      |
-| Father Frost              | [141](chap09.htm#page_141)      |
+| The Tsarevna Frog         | [13](chap01.htm#page_13.md)        |
+| Seven Simeons             | [27](chap02.htm#page_27.md)        |
+| The Language of the Birds | [66](chap03.htm#page_66.md)        |
+| Ivanoushka the Simpleton  | [77](chap04.htm#page_77.md)        |
+| Woe Bogotir               | [107](chap05.htm#page_107.md)      |
+| Baba Yaga                 | [118](chap06.htm#page_118.md)      |
+| Dimian the Peasant        | [128](chap07.htm#page_128.md)      |
+| The Golden Mountain       | [132](chap08.htm#page_132.md)      |
+| Father Frost              | [141](chap09.htm#page_141.md)      |
 
 </div>
 
@@ -75,4 +75,4 @@ because it was published prior to 1923.
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](foreword)
+[Next: Foreword](foreword.md)

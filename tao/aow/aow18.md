@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Confucianism](../../cfu/index)  [Index](index)  [Previous](aow17) 
-[Next](aow19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Confucianism](../../cfu/index)  [Index](index)  [Previous](aow17.md) 
+[Next](aow19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1934255122/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Art of War*, by Lionel Giles, \[1910\], at Intangible Textual
 Heritage
 
@@ -20,61 +20,61 @@ Heritage
 
 <span id="img_10000"></span> ![](img/10000.gif)
 
-### X. TERRAIN <span id="fr_518"></span>[1](#fn_517).
+### X. TERRAIN <span id="fr_518"></span>[1](#fn_517.md).
 
 1\. Sun Tzŭ said: We may distinguish six kinds of terrain, to wit: (1)
-Accessible ground; <span id="fr_519"></span>[2](#fn_518) (2) entangling
-ground; <span id="fr_520"></span>[3](#fn_519) (3) temporising
-ground; <span id="fr_521"></span>[4](#fn_520) (4) narrow passes; (5)
-precipitous heights; <span id="fr_522"></span>[5](#fn_521) (6) positions
+Accessible ground; <span id="fr_519"></span>[2](#fn_518) (2.md) entangling
+ground; <span id="fr_520"></span>[3](#fn_519) (3.md) temporising
+ground; <span id="fr_521"></span>[4](#fn_520) (4) narrow passes; (5.md)
+precipitous heights; <span id="fr_522"></span>[5](#fn_521) (6.md) positions
 at a great distance from the enemy. <span
-id="fr_523"></span>[6](#fn_522)
+id="fr_523"></span>[6](#fn_522.md)
 
 <span id="page_101">p. 101</span>
 
 <span id="img_10100"></span> ![](img/10100.gif)
 
 2\. Ground which can be freely traversed by both sides is called
-*accessible*. <span id="fr_524"></span>[1](#fn_523)
+*accessible*. <span id="fr_524"></span>[1](#fn_523.md)
 
 3\. With regard to ground of this nature, <span
-id="fr_525"></span>[2](#fn_524) be before the enemy in occupying the
-raised and sunny spots, <span id="fr_526"></span>[3](#fn_525) and
+id="fr_525"></span>[2](#fn_524.md) be before the enemy in occupying the
+raised and sunny spots, <span id="fr_526"></span>[3](#fn_525.md) and
 carefully guard your line of supplies. <span
-id="fr_527"></span>[4](#fn_526)
+id="fr_527"></span>[4](#fn_526.md)
 
 Then you will be able to fight with advantage. <span
-id="fr_530"></span>[5](#fn_527)
+id="fr_530"></span>[5](#fn_527.md)
 
 <span id="page_102">p. 102</span>
 
 <span id="img_10200"></span> ![](img/10200.gif)
 
 4\. Ground which can be abandoned but is hard to re-occupy is called
-*entangling*. <span id="fr_531"></span>[1](#fn_530)
+*entangling*. <span id="fr_531"></span>[1](#fn_530.md)
 
 5\. From a position of this sort, if the enemy is unprepared, you may
 sally forth and defeat him. But if the enemy is prepared for your
 coming, and you fail to defeat him, then, return being impossible,
-disaster will ensue. <span id="fr_532"></span>[2](#fn_531)
+disaster will ensue. <span id="fr_532"></span>[2](#fn_531.md)
 
 6\. When the position is such that neither side will gain by making the
 first move, it is called *temporising* ground. <span
-id="fr_533"></span>[3](#fn_532)
+id="fr_533"></span>[3](#fn_532.md)
 
 7\. In a position of this sort, even though the enemy should offer us an
-attractive bait, <span id="fr_534"></span>[4](#fn_533) it will be
+attractive bait, <span id="fr_534"></span>[4](#fn_533.md) it will be
 advisable not to stir forth, but rather to retreat, thus enticing the
 enemy in his turn; then, when part of his army has come out, we may
-deliver our attack with advantage. <span id="fr_535"></span>[5](#fn_534)
+deliver our attack with advantage. <span id="fr_535"></span>[5](#fn_534.md)
 
 <span id="page_103">p. 103</span>
 
 <span id="img_10300"></span> ![](img/10300.gif)
 
 8\. With regard to *narrow passes*, if you can occupy them first, <span
-id="fr_536"></span>[1](#fn_535) let them be strongly garrisoned and
-await the advent of the enemy. <span id="fr_537"></span>[2](#fn_536)
+id="fr_536"></span>[1](#fn_535.md) let them be strongly garrisoned and
+await the advent of the enemy. <span id="fr_537"></span>[2](#fn_536.md)
 
 9\. Should the enemy forestall you in occupying a pass, do not go after
 him if the pass is fully garrisoned, but only if it is weakly
@@ -82,7 +82,7 @@ garrisoned.
 
 10\. With regard to *precipitous heights*, if you are beforehand with
 your adversary, you should occupy the raised and sunny spots, and there
-wait for him to come up. <span id="fr_538"></span>[3](#fn_537)
+wait for him to come up. <span id="fr_538"></span>[3](#fn_537.md)
 
 <span id="page_104">p. 104</span>
 
@@ -90,36 +90,36 @@ wait for him to come up. <span id="fr_538"></span>[3](#fn_537)
 
 11\. If the enemy has occupied them before you, do not follow him, but
 retreat and try to entice him away. <span
-id="fr_539"></span>[1](#fn_538)
+id="fr_539"></span>[1](#fn_538.md)
 
 12\. If you are situated at a great distance from the enemy, and the
 strength of the two armies is equal, <span
-id="fr_540"></span>[2](#fn_539) it is not easy to provoke a
-battle, <span id="fr_541"></span>[3](#fn_540) and fighting will be to
+id="fr_540"></span>[2](#fn_539.md) it is not easy to provoke a
+battle, <span id="fr_541"></span>[3](#fn_540.md) and fighting will be to
 your disadvantage.
 
 13\. These six are the principles connected with Earth. <span
-id="fr_542"></span>[4](#fn_541) The general who has attained a
+id="fr_542"></span>[4](#fn_541.md) The general who has attained a
 responsible post must be careful to study them. <span
-id="fr_543"></span>[5](#fn_542)
+id="fr_543"></span>[5](#fn_542.md)
 
 <span id="page_105">p. 105</span>
 
 <span id="img_10500"></span> ![](img/10500.gif)
 
 14\. Now an army is exposed to six several calamities, not arising from
-natural causes, <span id="fr_544"></span>[1](#fn_543) but from faults
+natural causes, <span id="fr_544"></span>[1](#fn_543.md) but from faults
 for which the general is responsible. These are: (1) Flight; (2)
 insubordination; (3) collapse; (4) ruin; (5) disorganisation; (6)
-rout. <span id="fr_545"></span>[2](#fn_544)
+rout. <span id="fr_545"></span>[2](#fn_544.md)
 
 15\. Other conditions being equal, if one force is hurled against
 another ten times its size, the result will be the *flight* of the
-former. <span id="fr_546"></span>[3](#fn_545)
+former. <span id="fr_546"></span>[3](#fn_545.md)
 
 16\. When the common soldiers are too strong and their officers too
 weak, the result is *insubordination*. <span
-id="fr_547"></span>[4](#fn_546)
+id="fr_547"></span>[4](#fn_546.md)
 
 <span id="page_106">p. 106</span>
 
@@ -127,52 +127,52 @@ id="fr_547"></span>[4](#fn_546)
 
 <span class="contnote">\[paragraph continues\]</span> When the officers
 are too strong and the common soldiers too weak, the result is
-*collapse*. <span id="fr_548"></span>[1](#fn_547)
+*collapse*. <span id="fr_548"></span>[1](#fn_547.md)
 
-17\. When the higher officers <span id="fr_549"></span>[2](#fn_548) are
+17\. When the higher officers <span id="fr_549"></span>[2](#fn_548.md) are
 angry and insubordinate, and on meeting the enemy give battle on their
 own account from a feeling of resentment, before the commander-in-chief
 can tell whether or no he is in a position to fight, the result is
-*ruin*. <span id="fr_550"></span>[3](#fn_549)
+*ruin*. <span id="fr_550"></span>[3](#fn_549.md)
 
 <span id="page_107">p. 107</span>
 
 <span id="img_10700"></span> ![](img/10700.gif)
 
 18\. When the general is weak and without authority; when his orders are
-not clear and distinct; <span id="fr_551"></span>[1](#fn_550) when there
+not clear and distinct; <span id="fr_551"></span>[1](#fn_550.md) when there
 are no fixed duties assigned to officers and men, <span
-id="fr_552"></span>[2](#fn_551) and the ranks are formed in a slovenly
+id="fr_552"></span>[2](#fn_551.md) and the ranks are formed in a slovenly
 haphazard manner, the result is utter *disorganisation*.
 
 19\. When a general, unable to estimate the enemy's strength, allows an
 inferior force to engage a larger one, or hurls a weak detachment
 against a powerful one, and neglects to place picked soldiers in the
 front rank, the result must be a *rout*. <span
-id="fr_554"></span>[3](#fn_552)
+id="fr_554"></span>[3](#fn_552.md)
 
 <span id="page_108">p. 108</span>
 
 <span id="img_10800"></span> ![](img/10800.gif)
 
 20\. These are six ways of courting defeat, <span
-id="fr_555"></span>[1](#fn_554) which must be carefully noted by the
+id="fr_555"></span>[1](#fn_554.md) which must be carefully noted by the
 general who has attained a responsible post. <span
-id="fr_556"></span>[2](#fn_555)
+id="fr_556"></span>[2](#fn_555.md)
 
 21\. The natural formation of the country is the soldier's best
-ally; <span id="fr_557"></span>[3](#fn_556) but a power of estimating
-the adversary, <span id="fr_558"></span>[4](#fn_557) of controlling the
-forces of victory, <span id="fr_559"></span>[5](#fn_558) and of shrewdly
+ally; <span id="fr_557"></span>[3](#fn_556.md) but a power of estimating
+the adversary, <span id="fr_558"></span>[4](#fn_557.md) of controlling the
+forces of victory, <span id="fr_559"></span>[5](#fn_558.md) and of shrewdly
 calculating difficulties, dangers and distances, <span
-id="fr_560"></span>[6](#fn_559)
+id="fr_560"></span>[6](#fn_559.md)
 
 <span id="page_109">p. 109</span>
 
 <span id="img_10900"></span> ![](img/10900.gif)
 
 constitutes the test of a great general. <span
-id="fr_561"></span>[1](#fn_560)
+id="fr_561"></span>[1](#fn_560.md)
 
 22\. He who knows these things, and in fighting puts his knowledge into
 practice, will win his battles. He who knows them not, nor practises
@@ -181,22 +181,22 @@ them, will surely be defeated.
 2 3. If fighting is sure to result in victory, then you must fight, even
 though the ruler forbid it; if fighting will not result in victory, then
 you must not fight even at the ruler's bidding. <span
-id="fr_562"></span>[2](#fn_561)
+id="fr_562"></span>[2](#fn_561.md)
 
 <span id="page_110">p. 110</span>
 
 <span id="img_11000"></span> ![](img/11000.gif)
 
 24\. The general who advances without coveting fame and retreats without
-fearing disgrace, <span id="fr_564"></span>[1](#fn_563) whose only
+fearing disgrace, <span id="fr_564"></span>[1](#fn_563.md) whose only
 thought is to protect his country and do good service for his
-sovereign, <span id="fr_565"></span>[2](#fn_564) is the jewel of the
-kingdom. <span id="fr_566"></span>[3](#fn_565)
+sovereign, <span id="fr_565"></span>[2](#fn_564.md) is the jewel of the
+kingdom. <span id="fr_566"></span>[3](#fn_565.md)
 
 25\. Regard your soldiers as your children, and they will follow you
 into the deepest valleys; look on them as your own beloved sons, and
 they will stand by you even unto death. <span
-id="fr_567"></span>[4](#fn_566)
+id="fr_567"></span>[4](#fn_566.md)
 
 <span id="page_111">p. 111</span>
 
@@ -204,13 +204,13 @@ id="fr_567"></span>[4](#fn_566)
 
 26\. If, however, you are indulgent, but unable to make your authority
 felt; kind-hearted, but unable to enforce your commands; and incapable,
-moreover, of quelling disorder: <span id="fr_568"></span>[1](#fn_567)
+moreover, of quelling disorder: <span id="fr_568"></span>[1](#fn_567.md)
 then your soldiers must be likened to spoilt children; they are useless
-for any practical purpose. <span id="fr_569"></span>[2](#fn_568)
+for any practical purpose. <span id="fr_569"></span>[2](#fn_568.md)
 
 27\. If we know that our own men are in a condition to attack, but are
 unaware that the enemy is not open to attack, we have gone only halfway
-towards victory. <span id="fr_570"></span>[3](#fn_569)
+towards victory. <span id="fr_570"></span>[3](#fn_569.md)
 
 <span id="page_112">p. 112</span>
 
@@ -218,72 +218,72 @@ towards victory. <span id="fr_570"></span>[3](#fn_569)
 
 28\. If we know that the enemy is open to attack, but are unaware that
 our own men are not in a condition to attack, we have gone only halfway
-towards victory. <span id="fr_571"></span>[1](#fn_570)
+towards victory. <span id="fr_571"></span>[1](#fn_570.md)
 
 29\. If we know that the enemy is open to attack, and also know that our
 men are in a condition to attack, but are unaware that the nature of the
 ground makes fighting impracticable, we have still gone only halfway
-towards victory. <span id="fr_572"></span>[2](#fn_571)
+towards victory. <span id="fr_572"></span>[2](#fn_571.md)
 
 30\. Hence the experienced soldier, once in motion, is never bewildered;
 once he has broken camp, he is never at a loss <span
-id="fr_573"></span>[3](#fn_572)
+id="fr_573"></span>[3](#fn_572.md)
 
 31\. Hence the saying: If you know the enemy and know yourself, your
-victory will not stand in doubt; <span id="fr_574"></span>[4](#fn_573)
+victory will not stand in doubt; <span id="fr_574"></span>[4](#fn_573.md)
 
 <span id="page_113">p. 113</span>
 
-if you know Heaven and know Earth, <span id="fr_575"></span>[1](#fn_574)
+if you know Heaven and know Earth, <span id="fr_575"></span>[1](#fn_574.md)
 you may make your victory complete. <span
-id="fr_576"></span>[2](#fn_575)
+id="fr_576"></span>[2](#fn_575.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_517"></span>[100:1](aow18.htm#fr_518) Only about a third of
+<span id="fn_517"></span>[100:1](aow18.htm#fr_518.md) Only about a third of
 the chapter, comprising §§ 1–13, deals with \#, the subject being more
 fully treated in ch. XI. The "six calamities" are discussed in §§ 14–20,
 and the rest of the chapter is again a mere string of desultory remarks,
 though not less interesting, perhaps, on that account.
 
-<span id="fn_518"></span>[100:2](aow18.htm#fr_519) Mei Yao-ch‘ên says:
+<span id="fn_518"></span>[100:2](aow18.htm#fr_519.md) Mei Yao-ch‘ên says:
 "plentifully provided with roads and means of communication."
 
-<span id="fn_519"></span>[100:3](aow18.htm#fr_520) The same commentator
+<span id="fn_519"></span>[100:3](aow18.htm#fr_520.md) The same commentator
 says: \# "Net-like country, venturing into which you become entangled."
 
-<span id="fn_520"></span>[100:4](aow18.htm#fr_521) Tu Yu explains \# as
+<span id="fn_520"></span>[100:4](aow18.htm#fr_521.md) Tu Yu explains \# as
 \#. This meaning is still retained in modern phrases such as \#, \#
 "stave off," "delay." I do not know why Capt. Calthrop calls \#
 "suspended ground," unless he is confusing it with \#.
 
-<span id="fn_521"></span>[100:5](aow18.htm#fr_522) The root idea in \#
+<span id="fn_521"></span>[100:5](aow18.htm#fr_522.md) The root idea in \#
 is narrowness; in \#, steepness.
 
-<span id="fn_522"></span>[100:6](aow18.htm#fr_523) It is hardly
+<span id="fn_522"></span>[100:6](aow18.htm#fr_523.md) It is hardly
 necessary to point out the faultiness of this classification. A strange
 lack of logical perception is shown in the Chinaman's unquestioning
 acceptance of glaring cross-divisions such as the above.
 
-<span id="fn_523"></span>[101:1](aow18.htm#fr_524) Generally speaking,
+<span id="fn_523"></span>[101:1](aow18.htm#fr_524.md) Generally speaking,
 \# "level country" is meant. Cf. IX. § 9: \#.
 
-<span id="fn_524"></span>[101:2](aow18.htm#fr_525) The T‘ung Tien reads
+<span id="fn_524"></span>[101:2](aow18.htm#fr_525.md) The T‘ung Tien reads
 \#.
 
-<span id="fn_525"></span>[101:3](aow18.htm#fr_526) See IX. § 2. The
+<span id="fn_525"></span>[101:3](aow18.htm#fr_526.md) See IX. § 2. The
 *T‘ung Tien* reads \#.
 
-<span id="fn_526"></span>[101:4](aow18.htm#fr_527) A curious use of \#
+<span id="fn_526"></span>[101:4](aow18.htm#fr_527.md) A curious use of \#
 as a verb, if our text is right. The general meaning is doubtless, as Tu
 Yu says,\# "not to allow the enemy to cut your communications." Tu Mu,
 who was not a soldier and can hardly have had any practical experience
 of fighting, goes more into detail and speaks of protecting me line of
 communications by a wall (\#), or enclosing it by embankments on each
 side (\#)! In view of Napoleon's dictum, "the secret of war lies in the
-communications," <span id="fr_528"></span>[\*](#fn_528) we could wish
+communications," <span id="fr_528"></span>[\*](#fn_528.md) we could wish
 that Sun Tzŭ had done more than skirt the edge of this important subject
 here and in I. § 10, VII. § 11. Col. Henderson says: "The line of supply
 may be said to be as vital to the existence of an army as the heart to
@@ -297,49 +297,49 @@ plans, to split up his force into more or less isolated detachments, and
 to fight with inferior numbers on ground which he has not had time to
 prepare, and where defeat will not he an ordinary failure, but will
 entail the ruin or the surrender of his whole army." <span
-id="fr_529"></span>[\*\*](#fn_529)
+id="fr_529"></span>[\*\*](#fn_529.md)
 
-<span id="fn_527"></span>[101:5](aow18.htm#fr_530) Omitted by Capt.
+<span id="fn_527"></span>[101:5](aow18.htm#fr_530.md) Omitted by Capt.
 Calthrop.
 
-<span id="fn_528"></span>[101:\*](aow18.htm#fr_528) See "Pensées de
+<span id="fn_528"></span>[101:\*](aow18.htm#fr_528.md) See "Pensées de
 Napoléon I<sup>er</sup>," no. 47.
 
-<span id="fn_529"></span>[101:\*\*](aow18.htm#fr_529) "The Science of
+<span id="fn_529"></span>[101:\*\*](aow18.htm#fr_529.md) "The Science of
 War," chap. 2.
 
-<span id="fn_530"></span>[102:1](aow18.htm#fr_531) Capt. Calthrop is
+<span id="fn_530"></span>[102:1](aow18.htm#fr_531.md) Capt. Calthrop is
 wrong in translating \#, "retreat from it."
 
-<span id="fn_531"></span>[102:2](aow18.htm#fr_532) \# (an example of
+<span id="fn_531"></span>[102:2](aow18.htm#fr_532.md) \# (an example of
 litotes) is paraphrased by Mei Yao-ch‘ên as \#, "you will receive a
 check."
 
-<span id="fn_532"></span>[102:3](aow18.htm#fr_533) \# "Each side finds
+<span id="fn_532"></span>[102:3](aow18.htm#fr_533.md) \# "Each side finds
 it inconvenient to move, and the situation remains at a deadlock" (Tu
 Yu).
 
-<span id="fn_533"></span>[102:4](aow18.htm#fr_534) Tu Yu says \#
+<span id="fn_533"></span>[102:4](aow18.htm#fr_534.md) Tu Yu says \#
 "turning their backs on us and pretending to flee." But this is only one
 of the lures which might induce us to quit our position. Here again \#
 is used as a verb, but this time in a different sense: "to hold out an
 advantage to."
 
-<span id="fn_534"></span>[102:5](aow18.htm#fr_535) Mei Yao-ch‘ên
+<span id="fn_534"></span>[102:5](aow18.htm#fr_535.md) Mei Yao-ch‘ên
 paraphrases the passage in a curious jingle, the scheme of rhymes being
 *abcbdd:* \#
 
-<span id="fn_535"></span>[103:1](aow18.htm#fr_536) Capt. Calthrop says:
+<span id="fn_535"></span>[103:1](aow18.htm#fr_536.md) Capt. Calthrop says:
 "Defiles, make haste to occupy." But this is a conditional clause,
 answering to \# in the next paragraph.
 
-<span id="fn_536"></span>[103:2](aow18.htm#fr_537) Because then, as Tu
+<span id="fn_536"></span>[103:2](aow18.htm#fr_537.md) Because then, as Tu
 Yu observes, \# "the initiative will lie with us, and by making sudden
 and unexpected attacks we shall have the enemy at our mercy." The
 commentators make a great pother about the precise meaning of \#, which
 to the foreign reader seems to present no difficulty whatever.
 
-<span id="fn_537"></span>[103:3](aow18.htm#fr_538) Ts‘ao Kung says: \#
+<span id="fn_537"></span>[103:3](aow18.htm#fr_538.md) Ts‘ao Kung says: \#
 "The particular advantage of securing heights and defiles is that your
 actions cannot then be dictated by the enemy." \[For the enunciation of
 the grand principle alluded to, see VI. § 2\]. Chang Yü tells the
@@ -362,7 +362,7 @@ without asking <span id="page_14">p. 14</span> unnecessary questions.'
 high and sunny places are advantageous not only for fighting, but also
 because they are immune from disastrous floods."
 
-<span id="fn_538"></span>[104:1](aow18.htm#fr_539) The turning-point of
+<span id="fn_538"></span>[104:1](aow18.htm#fr_539.md) The turning-point of
 \# Li Shih-min's campaign in 621 A.D. against the two rebels, \# Tou
 Chien-tê, King of \# Hsia, and \# Wang Shih-ch‘ung, Prince of \# Chêng,
 was his seizure of the heights of \# Wu-lao, in spite of which Tou
@@ -370,32 +370,32 @@ Chien-tê persisted in his attempt to relieve his ally in Lo-yang, was
 defeated and taken prisoner. \[See *Chiu T‘ang Shu*, ch. 2, fol. 5
 *v*°., and also ch. 54.\]
 
-<span id="fn_539"></span>[104:2](aow18.htm#fr_540) The *T‘ung Tien*
+<span id="fn_539"></span>[104:2](aow18.htm#fr_540.md) The *T‘ung Tien*
 reads \#.
 
-<span id="fn_540"></span>[104:3](aow18.htm#fr_541) Ts‘ao Kung says that
+<span id="fn_540"></span>[104:3](aow18.htm#fr_541.md) Ts‘ao Kung says that
 \# means \# "challenging the enemy." But the enemy being far away, that
 plainly involves, as Tu Yu says, \# "going to meet him." The point of
 course is, that we must not think of undertaking a long and wearisome
 march, at the end of which \# "we should be exhausted and our adversary
 fresh and keen."
 
-<span id="fn_541"></span>[104:4](aow18.htm#fr_542) Or perhaps, "the
+<span id="fn_541"></span>[104:4](aow18.htm#fr_542.md) Or perhaps, "the
 principles relating to ground." See, however, I. § 8.
 
-<span id="fn_542"></span>[104:5](aow18.htm#fr_543) Capt. Calthrop omits
+<span id="fn_542"></span>[104:5](aow18.htm#fr_543.md) Capt. Calthrop omits
 \#. Out of the foregoing six \#, it will be noticed that nos. 3 and 6
 have really no reference to the configuration of the country, and that
 only 4 and 5 can be said to convey any definite geographical idea.
 
-<span id="fn_543"></span>[105:1](aow18.htm#fr_544) The *T‘u Shu* reads
+<span id="fn_543"></span>[105:1](aow18.htm#fr_544.md) The *T‘u Shu* reads
 \#.
 
-<span id="fn_544"></span>[105:2](aow18.htm#fr_545) I take exception to
+<span id="fn_544"></span>[105:2](aow18.htm#fr_545.md) I take exception to
 Capt. Calthrop's rendering of \# and \# as "distress" and
 "disorganisation," respectively.
 
-<span id="fn_545"></span>[105:3](aow18.htm#fr_546) Cf. III. § 10. The
+<span id="fn_545"></span>[105:3](aow18.htm#fr_546.md) Cf. III. § 10. The
 general's fault here is that of \# "not calculating the enemy's
 strength." It is obvious that \# cannot have the same force as in § 12,
 where it was equivalent to \#. I should not be inclined, however, to
@@ -405,7 +405,7 @@ the sharpness of the weapons." As Li Ch‘üan very justly remarks, \#
 such as a flank attack or an ambuscade, it would be quite possible \[to
 fight in the ratio of one to ten\]."
 
-<span id="fn_546"></span>[105:4](aow18.htm#fr_547) \# "laxity"—the
+<span id="fn_546"></span>[105:4](aow18.htm#fr_547.md) \# "laxity"—the
 metaphor being taken from an unstrung bow. Capt. Calthrop's "relaxation"
 is not good, on account of its ambiguity. Tu Mu cites the unhappy case
 of \# T‘ien Pu \[Hsin Tang Shu, ch. 148\], who was sent to \# Wei in 821
@@ -418,18 +418,18 @@ some months had passed, he made an attempt to engage the enemy, his
 troops turned tail and dispersed in every direction. After that, the
 unfortunate man committed suicide by cutting his throat.
 
-<span id="fn_547"></span>[106:1](aow18.htm#fr_548) Ts‘ao Kung says: \#
+<span id="fn_547"></span>[106:1](aow18.htm#fr_548.md) Ts‘ao Kung says: \#
 "The officers are energetic and want to press on, the common soldiers
 are feeble and suddenly collapse." Note that \# is to be taken literally
 of physical weakness, whereas in the former clause it is figurative. Li
 Ch‘üan makes \# equivalent to \#, and Tu Mu explains it as \# "stumbling
 into a death-trap."
 
-<span id="fn_548"></span>[106:2](aow18.htm#fr_549) \#, according to
+<span id="fn_548"></span>[106:2](aow18.htm#fr_549.md) \#, according to
 Ts‘ao Kung, are the \# "generals of inferior rank." But Li Ch‘üan, Ch‘ên
 Hao and Wang Hsi take the term as simply convertible with \# or \#.
 
-<span id="fn_549"></span>[106:3](aow18.htm#fr_550) Ts‘ao Kung makes \#,
+<span id="fn_549"></span>[106:3](aow18.htm#fr_550.md) Ts‘ao Kung makes \#,
 understood, the subject of \#, which seems rather far-fetched. Wang
 Hsi's note is: \# "This means, the general is angry without just cause,
 and at the same time does not appreciate the ability of his subordinate
@@ -443,23 +443,23 @@ was lost for the Chin State through the contumacy of \# Hsien Hu and the
 resentful spite of \# Wei I and \# Chao Chan. Chang Yü also alludes to
 the mutinous conduct of \# Luan Yen \[*ibid*. \#, XIV. 3\].
 
-<span id="fn_550"></span>[107:1](aow18.htm#fr_551) Wei Liao Tzŭ (ch. 4)
+<span id="fn_550"></span>[107:1](aow18.htm#fr_551) Wei Liao Tzŭ (ch. 4.md)
 says: \# "If the commander gives his orders with decision, the soldiers
 will not wait to hear them twice; if his moves are made without
 vacillation, the soldiers will not be in two minds about doing their
 duty." General Baden-Powell says, italicising the words: "The secret of
 getting successful work out of your trained men lies in one nutshell—in
 the clearness of the instructions they receive." <span
-id="fr_553"></span>[\*](#fn_553) Assuming that clear instructions beget
+id="fr_553"></span>[\*](#fn_553.md) Assuming that clear instructions beget
 confidence, this is very much what Wei Liao Tzŭ (*loc. cit.*) goes on to
 say: \#. Cf. also Wu Tzŭ ch. 3: \# "the most fatal defect in a military
 leader is diffidence; the worst calamities that befall an army arise
 from hesitation."
 
-<span id="fn_551"></span>[107:2](aow18.htm#fr_552) \# "Neither officers
+<span id="fn_551"></span>[107:2](aow18.htm#fr_552.md) \# "Neither officers
 nor men have any regular routine" \[Tu Mu\].
 
-<span id="fn_552"></span>[107:3](aow18.htm#fr_554) Chang Yü paraphrases
+<span id="fn_552"></span>[107:3](aow18.htm#fr_554.md) Chang Yü paraphrases
 the latter part of the sentence \#, and continues: \# "Whenever there is
 fighting to be done, the keenest spirits should be <span
 id="page_108">p. 108</span> appointed to serve in the front ranks, both
@@ -468,41 +468,41 @@ the enemy." Cf. the *primi ordines* of Caesar ("De Bello Gallico," V.
 28, 44 *et al*.). There seems little to distinguish \# from \# in § 15,
 except that \# is a more forcible word.
 
-<span id="fn_553"></span>[107:\*](aow18.htm#fr_553) "Aids to Scouting,"
+<span id="fn_553"></span>[107:\*](aow18.htm#fr_553.md) "Aids to Scouting,"
 p. xii.
 
-<span id="fn_554"></span>[108:1](aow18.htm#fr_555) Ch‘ên Hao makes them
+<span id="fn_554"></span>[108:1](aow18.htm#fr_555.md) Ch‘ên Hao makes them
 out to be: (1) \# "neglect to estimate the enemy's strength;" (2) \#
 "want of authority;" (3) \# "defective training;" (4) \# "unjustifiable
 anger;" (5) \# "non-observance of discipline;" (6) \# "failure to use
 picked men."
 
-<span id="fn_555"></span>[108:2](aow18.htm#fr_556) See *supra*, § 53.
+<span id="fn_555"></span>[108:2](aow18.htm#fr_556.md) See *supra*, § 53.
 
-<span id="fn_556"></span>[108:3](aow18.htm#fr_557) Chia Lin's text has
+<span id="fn_556"></span>[108:3](aow18.htm#fr_557.md) Chia Lin's text has
 the reading \# for \#. Ch‘ên Hao says: \# "The advantages of weather and
 season are not equal to those connected with ground."
 
-<span id="fn_557"></span>[108:4](aow18.htm#fr_558) The insertion of a
+<span id="fn_557"></span>[108:4](aow18.htm#fr_558.md) The insertion of a
 "but" is necessary to show the connection of thought here. A general
 should always utilise, but never rely wholly on natural advantages of
 terrain.
 
-<span id="fn_558"></span>[108:5](aow18.htm#fr_559) \# is one of those
+<span id="fn_558"></span>[108:5](aow18.htm#fr_559.md) \# is one of those
 condensed expressions which mean so much in Chinese, and so little in an
 English translation. What it seems to imply is complete mastery of the
 situation from the beginning.
 
-<span id="fn_559"></span>[108:6](aow18.htm#fr_560) The *T‘ung Tien* and
+<span id="fn_559"></span>[108:6](aow18.htm#fr_560.md) The *T‘ung Tien* and
 *Yü Lan* read \#. I am decidedly puzzled by Capt. Calthrop's
 translation: "an eye for steepness, *command* and distances." Where did
 he find the word which I have put in italics?
 
-<span id="fn_560"></span>[109:1](aow18.htm#fr_561) A somewhat free
+<span id="fn_560"></span>[109:1](aow18.htm#fr_561.md) A somewhat free
 translation of \#. As Chang Yü remarks, these are \# "the essentials of
 soldiering," ground being only a helpful accessory.
 
-<span id="fn_561"></span>[109:2](aow18.htm#fr_562) Cf. VIII. § 3 *fin*.
+<span id="fn_561"></span>[109:2](aow18.htm#fr_562.md) Cf. VIII. § 3 *fin*.
 Huang Shih-kung of the Chin dynasty, who is said to have been the patron
 of \# Chang Liang and to have written the \#, has these words attributed
 to him: \# "The responsibility of setting an army in motion must devolve
@@ -519,25 +519,25 @@ same sense: "Un général en chef n’est pas à couvert de ses fautes à la
 guerre par un ordre de son souverain ou du ministre, quand celui qui le
 donne est éloigné du champ d’opération, et qu’il connaît mal, ou ne
 connaît pas du tout le dernier état des choses." <span
-id="fr_563"></span>[\*](#fn_562)
+id="fr_563"></span>[\*](#fn_562.md)
 
-<span id="fn_562"></span>[109:\*](aow18.htm#fr_563) "Maximes de Guerre,"
+<span id="fn_562"></span>[109:\*](aow18.htm#fr_563.md) "Maximes de Guerre,"
 no. 72.
 
-<span id="fn_563"></span>[110:1](aow18.htm#fr_564) It was Wellington, I
+<span id="fn_563"></span>[110:1](aow18.htm#fr_564.md) It was Wellington, I
 think, who said that the hardest thing of all for a soldier is to
 retreat.
 
-<span id="fn_564"></span>[110:2](aow18.htm#fr_565) \#, which is omitted
+<span id="fn_564"></span>[110:2](aow18.htm#fr_565.md) \#, which is omitted
 by the *T‘u Shu*, is said by Ch‘ên Hao to be equivalent to \#. If it had
 to be separately translated, it would be something like our word
 "accrue."
 
-<span id="fn_565"></span>[110:3](aow18.htm#fr_566) A noble presentment,
+<span id="fn_565"></span>[110:3](aow18.htm#fr_566.md) A noble presentment,
 in few words, of the Chinese "happy warrior." Such a man, says Ho Shih,
 \# "even if he had to suffer punishment, would not regret his conduct."
 
-<span id="fn_566"></span>[110:4](aow18.htm#fr_567) Cf. I. § 6. In this
+<span id="fn_566"></span>[110:4](aow18.htm#fr_567.md) Cf. I. § 6. In this
 connection, Tu Mu draws for us an engaging picture of the famous general
 Wu Ch‘i, from whose treatise on war I have frequently had occasion to
 quote: "He wore the same clothes and ate the same food as the meanest of
@@ -560,11 +560,11 @@ straightway they felt as if they were clothed in garments lined with
 floss silk. \[*Tso Chuan*, \#, XII. 5\] \# Chang Yü alludes to the same
 passage, saying: \#.
 
-<span id="fn_567"></span>[111:1](aow18.htm#fr_568) Capt. Calthrop has
+<span id="fn_567"></span>[111:1](aow18.htm#fr_568.md) Capt. Calthrop has
 got these three clauses quite wrong. The last he translates:
 "overindulgence may produce disorder."
 
-<span id="fn_568"></span>[111:2](aow18.htm#fr_569) Cf. IX. § 42. We read
+<span id="fn_568"></span>[111:2](aow18.htm#fr_569.md) Cf. IX. § 42. We read
 in the \#, pt. 2: \# "Injury comes out of kindness." Li Ching once said
 that if you could make your soldiers afraid of you, they would not be
 afraid of the enemy. Tu Mu recalls an instance of stern military
@@ -582,12 +582,12 @@ so. This act of severity filled the army with wholesome awe, and from
 that time forth even articles dropped in the highway were not picked up.
 \[*San Kuo Chih*, ch. 54, f. 13 *r*°. & *v*°.\].
 
-<span id="fn_569"></span>[111:3](aow18.htm#fr_570) That is, as Ts‘ao
+<span id="fn_569"></span>[111:3](aow18.htm#fr_570.md) That is, as Ts‘ao
 Kong says, "the issue in this case is uncertain."
 
-<span id="fn_570"></span>[112:1](aow18.htm#fr_571) Cf. III. § 13 (1).
+<span id="fn_570"></span>[112:1](aow18.htm#fr_571) Cf. III. § 13 (1.md).
 
-<span id="fn_571"></span>[112:2](aow18.htm#fr_572) I may take this
+<span id="fn_571"></span>[112:2](aow18.htm#fr_572.md) I may take this
 opportunity of pointing out the rather nice distinction in meaning
 between \# and \#. The latter is simply "to attack" without any further
 implication, whereas \# is a stronger word which in nine cases out of
@@ -598,7 +598,7 @@ scale, as of one State *making war* on another, often with the added
 idea of invasion. \#, finally, has special reference to the subjugation
 of rebels. See Mencius, VII. 2. ii. 2.
 
-<span id="fn_572"></span>[112:3](aow18.htm#fr_573) The reason being,
+<span id="fn_572"></span>[112:3](aow18.htm#fr_573.md) The reason being,
 according to Tu Mu, that he has taken his measures so thoroughly as to
 ensure victory beforehand. "He does not move recklessly," says Chang Yü,
 "so that when he does move, he makes no mistakes." Another reading
@@ -606,16 +606,16 @@ substitutes \# for \# and \# for \#. The latter variant only is adopted
 by the *T‘ung Tien* and *Yü Lan*. Note that \# here means "at the end of
 his *mental* resources."
 
-<span id="fn_573"></span>[112:4](aow18.htm#fr_574) <span
+<span id="fn_573"></span>[112:4](aow18.htm#fr_574.md) <span
 id="page_113">p. 113</span> Capt. Calthrop makes the saying end here,
 which cannot be justified.
 
-<span id="fn_574"></span>[113:1](aow18.htm#fr_575) \# and \# are
+<span id="fn_574"></span>[113:1](aow18.htm#fr_575.md) \# and \# are
 transposed for the sake of the jingle between \# and \#. The original
 text, however, has \#, and the correction has been made from the *T‘ung
 Tien*.
 
-<span id="fn_575"></span>[113:2](aow18.htm#fr_576) As opposed to \#,
+<span id="fn_575"></span>[113:2](aow18.htm#fr_576.md) As opposed to \#,
 above. The original text has \#, the corruption being perhaps due to the
 occurrence of \# in the preceding sentence. Here, however \# would not
 be synonymous with \#, but equivalent to \# "inexhaustible," "beyond
@@ -626,4 +626,4 @@ advantages of earth—, victory will invariably crown your battles."
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Nine Situations](aow19)
+[Next: XI. The Nine Situations](aow19.md)

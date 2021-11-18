@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419967/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486419967/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -36,19 +36,19 @@ Mysticism at any level.
 
 ------------------------------------------------------------------------
 
-[Title Page](jm00)  
-[Editor's Preface](jm01)  
-[Preface](jm02)  
-[Contents](jm03)  
-[Introduction](jm04)  
-[Chapter I. Some Early Elements: Essenism](jm05)  
-[Chapter II. The Merkabah (Chariot) Mysticism](jm06)  
-[Chapter III. Philo: Metatron: Wisdom](jm07)  
-[Chapter IV. Kingdom of Heaven: Fellowship: Shechinah](jm08)  
-[Chapter V. The Book 'Yetsirah'](jm09)  
-[Chapter VI. Some General Features of the 'Zohar' Mysticism](jm10)  
-[Chapter VII. The Ten Sefirot](jm11)  
-[Chapter VIII. The Soul](jm12)  
-[Concluding Note](jm13)  
-[Bibliography](jm14)  
-[Index](jm15)  
+[Title Page](jm00.md)  
+[Editor's Preface](jm01.md)  
+[Preface](jm02.md)  
+[Contents](jm03.md)  
+[Introduction](jm04.md)  
+[Chapter I. Some Early Elements: Essenism](jm05.md)  
+[Chapter II. The Merkabah (Chariot) Mysticism](jm06.md)  
+[Chapter III. Philo: Metatron: Wisdom](jm07.md)  
+[Chapter IV. Kingdom of Heaven: Fellowship: Shechinah](jm08.md)  
+[Chapter V. The Book 'Yetsirah'](jm09.md)  
+[Chapter VI. Some General Features of the 'Zohar' Mysticism](jm10.md)  
+[Chapter VII. The Ten Sefirot](jm11.md)  
+[Chapter VIII. The Soul](jm12.md)  
+[Concluding Note](jm13.md)  
+[Bibliography](jm14.md)  
+[Index](jm15.md)  

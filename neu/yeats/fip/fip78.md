@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip77)  [Next](fip79) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip77)  [Next](fip79.md) 
 
 ------------------------------------------------------------------------
 
-### THE STORY OF CONN-EDA; OR THE GOLDEN APPLES OF LOUGH ERNE. <span id="fr_70"></span>[1](#fn_70)
+### THE STORY OF CONN-EDA; OR THE GOLDEN APPLES OF LOUGH ERNE. <span id="fr_70"></span>[1](#fn_70.md)
 
 Translated from the original Irish of the Story-teller,  
 ABRAHAM M'COY, *by* NICHOLAS O'KEARNEY.
 
 It was long before the time the western districts of *Innis
-Fodhla* <span id="fr_71"></span>[2](#fn_71) had any settled name, but
+Fodhla* <span id="fr_71"></span>[2](#fn_71.md) had any settled name, but
 were indiscriminately called after the person who took possession of
 them, and whose name they retained only as long as his sway lasted, that
 a powerful king reigned over this part of the sacred island. He was a
@@ -116,7 +116,7 @@ space of a year and a day, the three golden apples that grew in the
 garden, the *each dubh* (black steed), and *coileen con na mbuadh*
 (hound of supernatural powers), called Samer, which are in the
 possession of the king of the Firbolg race, who resides in Lough
-Erne. <span id="fr_72"></span>[1](#fn_72) Those two things are so
+Erne. <span id="fr_72"></span>[1](#fn_72.md) Those two things are so
 precious, and so well guarded, that he can never attain them by his own
 power; and, if he would rashly attempt to seek them, he should lose his
 life."
@@ -177,7 +177,7 @@ sun-rising on the morrow, and learn by virtue of my Druidism what can be
 done to assist you." The Druid, accordingly, as the sun rose on the
 following morning, retired to his *grianan*, and consulted the god he
 adored, through the power of his *draoidheacht*. <span
-id="fr_73"></span>[1](#fn_73) When he returned, he called Conn-eda aside
+id="fr_73"></span>[1](#fn_73.md) When he returned, he called Conn-eda aside
 on the plain, and addressed him thus: "My dear son, I find you have been
 under a severe--an almost impossible--*geis* intended for your
 destruction; no person m earth could have advised the queen to impose it
@@ -458,20 +458,20 @@ Connaucht, or *Conneda*, or *Connacht*, was so called.
 
 ### Footnotes
 
-<span id="fn_70"></span>[306:1](fip78.htm#fr_70) Printed first in the
+<span id="fn_70"></span>[306:1](fip78.htm#fr_70.md) Printed first in the
 *Cambrian Journal*, 1855; reprinted and re-edited in the *Folk-Lore
 Record*, vol. ii.
 
-<span id="fn_71"></span>[306:2](fip78.htm#fr_71) *Innis Fodhla*--Island
+<span id="fn_71"></span>[306:2](fip78.htm#fr_71.md) *Innis Fodhla*--Island
 of Destiny, an old name for Ireland.
 
-<span id="fn_72"></span>[309:1](fip78.htm#fr_72) The Firbolgs believed
+<span id="fn_72"></span>[309:1](fip78.htm#fr_72.md) The Firbolgs believed
 their elysium to be under water. The peasantry still believe many lakes
 to be peopled.--See section on *T'yeer-na-n-Oge*.
 
-<span id="fn_73"></span>[311:1](fip78.htm#fr_73) *Draoidheacht*, *i.e.*,
+<span id="fn_73"></span>[311:1](fip78.htm#fr_73.md) *Draoidheacht*, *i.e.*,
 the Druidic worship; magic, sorcery, divination.
 
 ------------------------------------------------------------------------
 
-[Next: Gods of the Earth](fip79)
+[Next: Gods of the Earth](fip79.md)

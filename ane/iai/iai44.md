@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai43)  [Next](iai45) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai43)  [Next](iai45.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ East](../index)  [Index](index)  [Previous](iai43)  [Next](iai45) 
 
 A gate half opened shows the silvery sea  
 Yet distant shining lambent on his way.  
-And now he sees young Siduri, <span id="fr_262"></span>[1](#fn_259)
+And now he sees young Siduri, <span id="fr_262"></span>[1](#fn_259.md)
 whose breast  
 Infuses life; all nature she hath blest,  
 Whose lips are flames, her arms are walls of fire,  
@@ -27,7 +27,7 @@ And near her glows the Happy Palace domes.
 And lo! 'tis she his lips have fondly kissed  
 Within the garden, when like fleeing mist  
 She disappeared with the bright spirit Seven, <span
-id="fr_263"></span>[2](#fn_260)  
+id="fr_263"></span>[2](#fn_260.md)  
 The Sabit, who oft glide from earth to Heaven.  
 And lo I one of the Seven, Sabitu,  
 Emerging from the gate doth jealous view  
@@ -166,20 +166,20 @@ And lo! young Siduri hath disappeared,
 And with the Zisi crowned she now appeared;  
 The corn-gods in a crescent round their queen,  
 She waves before the king her Nusku <span
-id="fr_264"></span>[3](#fn_261) green,  
+id="fr_264"></span>[3](#fn_261.md) green,  
 And sings with her sweet voice a joyful lay,  
 And all the Zisi join the chorus gay:
 
 <span id="page_137">p. 137</span>
 
- <span id="fr_265"></span>[4](#fn_262) A heifer of the corn am I,  
-        Kara! Kara! <span id="fr_266"></span>[5](#fn_263)  
+ <span id="fr_265"></span>[4](#fn_262.md) A heifer of the corn am I,  
+        Kara! Kara! <span id="fr_266"></span>[5](#fn_263.md)  
 Yoked with the kine we gayly fly,  
         Kara! Kara!  
 The ploughman's hand is strong and drives  
 The glowing soil, the meadow thrives!  
         Before the oxen  
-Sa-lum-mat-u na-si. <span id="fr_267"></span>[6](#fn_264)
+Sa-lum-mat-u na-si. <span id="fr_267"></span>[6](#fn_264.md)
 
 Chorus
 
@@ -220,7 +220,7 @@ Our corn immortal there is high
         And ripe! and ripe!  
 And ever ripens 'neath that sky  
         As gold! as gold!  
-Our corn is bearded, <span id="fr_268"></span>[7](#fn_265) thus 'tis
+Our corn is bearded, <span id="fr_268"></span>[7](#fn_265.md) thus 'tis
 known,  
 And ripens quickly when 'tis grown.  
         Be joy with thee,  
@@ -305,30 +305,30 @@ Thou seekest,--welcome thee, and thy heart bless."
 
 ### Footnotes
 
-<span id="fn_259"></span>[133:1](iai44.htm#fr_262) "Siduri," the
+<span id="fn_259"></span>[133:1](iai44.htm#fr_262.md) "Siduri," the
 "pourer" or "shedder forth," the "all-bountiful," the goddess who brings
 the rain and mists, and running streams to fill the vegetable world with
 its productions; the goddess who presides over productive nature. She
 was also called "the Goddess of Wisdom."
 
-<span id="fn_260"></span>[133:2](iai44.htm#fr_263) Seven spirits of the
+<span id="fn_260"></span>[133:2](iai44.htm#fr_263.md) Seven spirits of the
 earth and heaven, the daughters of Hea.
 
-<span id="fn_261"></span>[136:3](iai44.htm#fr_264) "Nusku," a budding or
+<span id="fn_261"></span>[136:3](iai44.htm#fr_264.md) "Nusku," a budding or
 blooming rub or branch, the wand of the Queen, used in magical
 incantations, which was called the plant of Nusku, the divining-rod.
 
-<span id="fn_262"></span>[137:4](iai44.htm#fr_265) See Accadian songs,
+<span id="fn_262"></span>[137:4](iai44.htm#fr_265.md) See Accadian songs,
 "C. I. W. A" vol. ii. 16, and translated by Mr. Sayce in "Records of the
 Past, vol. xi. pp. 154, 155.
 
-<span id="fn_263"></span>[137:5](iai44.htm#fr_266) "Kara!" cry out,
+<span id="fn_263"></span>[137:5](iai44.htm#fr_266.md) "Kara!" cry out,
 sing, shout.
 
-<span id="fn_264"></span>[137:6](iai44.htm#fr_267) "Sa-lum-mat-u na-si,"
+<span id="fn_264"></span>[137:6](iai44.htm#fr_267.md) "Sa-lum-mat-u na-si,"
 lift up the shadows, or be joyful.
 
-<span id="fn_265"></span>[138:7](iai44.htm#fr_268) "Our corn is
+<span id="fn_265"></span>[138:7](iai44.htm#fr_268.md) "Our corn is
 bearded." This refers to the heads of wheat which are bearded. See
 translation by Mr. Sayce, "the corn is bearded." ("Records of the Past,"
 vol. xi. p. 156.)
@@ -336,4 +336,4 @@ vol. xi. p. 156.)
 ------------------------------------------------------------------------
 
 [Next: Column II. The King and Ur-Hea Build a Ship and Sail Through the
-Waters of Death](iai45)
+Waters of Death](iai45.md)

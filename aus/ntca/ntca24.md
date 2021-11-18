@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](ntca23)  [Next](ntca25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](ntca23)  [Next](ntca25.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ F. J. Gillen \[1899\], at Intangible Textual Heritage
 IN the following table we give the measurements of twenty males and ten
 females, all mature, the majority of whom belonged to the Arunta tribe.
 The measurements follow those recommended by Broca. <span
-id="fr_199"></span>[1](#fn_198) The facial angle was determined by means
+id="fr_199"></span>[1](#fn_198.md) The facial angle was determined by means
 of Broca's “facial and lateral goniometer” and it must be stated that,
 apart from the natural reluctance of the natives to remain sufficiently
 quiet under what was at least an uncomfortable and to them mysterious
@@ -211,11 +211,11 @@ Wilson of Sydney University.
 
 ### Footnotes
 
-<span id="fn_198"></span>[643:1](ntca24.htm#fr_199) *Instructions
+<span id="fn_198"></span>[643:1](ntca24.htm#fr_199.md) *Instructions
 générales pour les Recherches Anthropologiques*. M. P. Broca, Société d'
 Anthropologie de Paris. Paris, 1879. For the instruments used we are
 indebted to the kindness of Professor J. T. Wilson of Sydney University.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary of Native Terms Used](ntca25)
+[Next: Glossary of Native Terms Used](ntca25.md)

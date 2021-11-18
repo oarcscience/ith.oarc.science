@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain11)  [Next](ain13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain11)  [Next](ain13.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ are a thief.
 Now I want you to stop these bad habits. You may not know all that the
 people say about you: They say that when any hunter brings in game you
 are always the first to be there, and you will be very apt to swallow
-charcoal <span id="fr_2"></span>[1](#fn_2) if you are so greedy.
+charcoal <span id="fr_2"></span>[1](#fn_2.md) if you are so greedy.
 
 Wherever you go, when the people see you coming, they say: 'There comes
 a man who is a thief,' and they hide their precious things. When you
@@ -497,10 +497,10 @@ nothing to be afraid of, and they were all happy.
 
 ### Footnotes
 
-<span id="fn_2"></span>[74:1](ain12.htm#fr_2) "To swallow charcoal"
+<span id="fn_2"></span>[74:1](ain12.htm#fr_2.md) "To swallow charcoal"
 implies the swallowing of meat so greedily it is not properly cleansed
 of the ashes of its roasting.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on the Story of Vandaih](ain13)
+[Next: Notes on the Story of Vandaih](ain13.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cbu07)  [Next](cbu09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cbu07)  [Next](cbu09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Chinese Buddhism*, by Joseph Edkins, \[1893\], at Intangible Textual
 Heritage
 
@@ -52,7 +52,7 @@ vows and receiving instruction.
 
 They were placed, says the legend, under the care of Shariputra and
 Maudgalyayana as their tutors—*Ho-shang* (*Upâsaka*), and *A-che-li*
-(*Acharya*). <span id="fr_25"></span>[1](#fn_25) The original meaning of
+(*Acharya*). <span id="fr_25"></span>[1](#fn_25.md) The original meaning of
 the ordinary Chinese term for Buddhist priest thus appears to be
 "tutor." The primary duty of the Ho-shang was to be the guide of young
 monks. The term was afterwards extended in Eastern Turkestan to all
@@ -211,7 +211,7 @@ on the agriculture."
 
 After the gods and dragons had finished this speech, Buddha addressed
 himself to a son of a Deva called Vishvakarma, the patron of
-artisans, <span id="fr_26"></span>[1](#fn_26) the Yaksha Kapila, and
+artisans, <span id="fr_26"></span>[1](#fn_26.md) the Yaksha Kapila, and
 fifteen daughters of Devas, having eyes with two pupils, and directed
 them to become the patrons of China. Each of them was told to take 5000
 followers and wherever there was strife, litigation, war, or pestilence,
@@ -228,7 +228,7 @@ called Devas, the *Theoi* of Greece, and the *Dei* of the Latins, were a
 class subordinate to Buddha, the self-elevated sage. For want of a
 better word, the Chinese term for "Heaven," *T‘ien*, is applied to them.
 The "dragons," or *nagas*,—with which the Hebrew *nahash* <span
-id="fr_27"></span>[1](#fn_27) and English snake may be compared,—are
+id="fr_27"></span>[1](#fn_27.md) and English snake may be compared,—are
 here viewed as a class of celestial beings.
 
 All these beings, however exalted, are regarded by the Buddhists as
@@ -257,7 +257,7 @@ patriarchs, founded on some of these works the Shastra
 
 <span id="page_41">p. 41</span>
 
-of the "Measure of Wisdom." <span id="fr_28"></span>[1](#fn_28) The
+of the "Measure of Wisdom." <span id="fr_28"></span>[1](#fn_28.md) The
 Chinese Chï-k‘ai, the sage of T‘ien-t‘ai, made much use of the Prajna in
 constructing his system. He had only Kumarajiva's fragmentary
 translations, such as the "Diamond Classic."
@@ -320,7 +320,7 @@ In temples Ananda is placed on the right hand of Buddha, for, says the
 legend, Shakyamuni set his heart upon him, as the sun at his rising
 sheds his light straight on the western wall. In Singhalese temples
 Ananda's image is not placed in that close proximity to Buddha which is
-common in China. <span id="fr_29"></span>[1](#fn_29) This circumstance
+common in China. <span id="fr_29"></span>[1](#fn_29.md) This circumstance
 suggests that he does not, among the Southern Buddhists, occupy so
 prominent a position as keeper of the Sutras and personal attendant on
 Shakyamuni as he is entitled to in the opinion of their Northern
@@ -441,22 +441,22 @@ shall enter the Nirvâna in the third month of next year."
 
 ### Footnotes
 
-<span id="fn_25"></span>[35:1](cbu08.htm#fr_25) Eitel's *Handbook*. The
+<span id="fn_25"></span>[35:1](cbu08.htm#fr_25.md) Eitel's *Handbook*. The
 word Ho-shang is translated from *Upâsaka* into the former language of
 Khoten. From Turkestan it was introduced into China.—(*Fan-yi-ming-i*).
 
-<span id="fn_26"></span>[39:1](cbu08.htm#fr_26) Eitel's *Handbook*.
+<span id="fn_26"></span>[39:1](cbu08.htm#fr_26.md) Eitel's *Handbook*.
 
-<span id="fn_27"></span>[40:1](cbu08.htm#fr_27) Nahash in Hebrew,
+<span id="fn_27"></span>[40:1](cbu08.htm#fr_27.md) Nahash in Hebrew,
 "serpent," is said to be named from the hissing sound of the animal. To
 "utter incantations" is *nahash* or *lahash*.
 
-<span id="fn_28"></span>[41:1](cbu08.htm#fr_28) *Chi-tu-lun*. See
+<span id="fn_28"></span>[41:1](cbu08.htm#fr_28.md) *Chi-tu-lun*. See
 *Fo-tsu-t‘ung-ki*, xxx. 13.
 
-<span id="fn_29"></span>[42:1](cbu08.htm#fr_29) When at Galle in 1858 I
+<span id="fn_29"></span>[42:1](cbu08.htm#fr_29.md) When at Galle in 1858 I
 noticed this.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Last Discourses and Death of Buddha](cbu09)
+[Next: Chapter IV. Last Discourses and Death of Buddha](cbu09.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap08) [Next](chap10)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap08) [Next](chap10.md)
 
 ------------------------------------------------------------------------
 
@@ -325,4 +325,4 @@ dignify with the respectability of material success.
 
 ------------------------------------------------------------------------
 
-[Next: X On the Downward Path](chap10)
+[Next: X On the Downward Path](chap10.md)

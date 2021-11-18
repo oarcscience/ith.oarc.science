@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-0-1) [Next](gjb-1)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-0-1) [Next](gjb-1.md)
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ Drower). The latter has made great friends with the Amara community and
 gives an entertaining chapter about them, under the heading 'A Peculiar
 People,' in her brightly-written travel-book, *By Tigris and
 Euphrates*.<span id="page_vii_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_vii_note_1) It is the description of
+class="small">1</span></sup>](#page_vii_note_1.md) It is the description of
 an intelligent and deeply interested observer, but of one unaquainted
 with the literature of the subject, and therefore not in a position to
 press for information on points of importance, if perchance it could be
@@ -182,7 +182,7 @@ for the ethnologist to decide.
 
 ------------------------------------------------------------------------
 
-[Next: I. John the Baptizer and Christian Origins](gjb-1)
+[Next: I. John the Baptizer and Christian Origins](gjb-1.md)
 
 ------------------------------------------------------------------------
 
@@ -190,7 +190,7 @@ for the ethnologist to decide.
 
 <span id="footnotes_page_vii">p. vii</span>
 
-<span id="page_vii_note_1"></span>[1](#page_vii_fr_1) London, Hurst &
+<span id="page_vii_note_1"></span>[1](#page_vii_fr_1.md) London, Hurst &
 Blackett, 1923, pp. 204-219.
 
  

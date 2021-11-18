@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist083) 
-[Next](hist085) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist083.md) 
+[Next](hist085.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ conformed to these, or returned into their own country.
 
 [Next: XXIX. How the priest Wighard was sent from Britain to Rome, to be
 ordained archbishop; of his death there, and of the letters of the
-Apostolic Pope giving an account thereof. \[667 A.D.\]](hist085)
+Apostolic Pope giving an account thereof. \[667 A.D.\]](hist085.md)

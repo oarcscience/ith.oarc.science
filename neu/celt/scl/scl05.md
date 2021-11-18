@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](scl04)  [Next](scl06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](scl04)  [Next](scl06.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,4 +200,4 @@ the Germanic genius, as we commonly conceive the two.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](scl06)
+[Next: Part IV](scl06.md)

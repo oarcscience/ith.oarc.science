@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico055) 
-[Next](nico057) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico055.md) 
+[Next](nico057.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ parts will reach truth are the virtues of the two parts.
 ------------------------------------------------------------------------
 
 [Next: Chapter 3. Science--demonstrative knowledge of the necessary and
-eternal](nico057)
+eternal](nico057.md)

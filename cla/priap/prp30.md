@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp29)  [Next](prp31) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp29)  [Next](prp31.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ purpose.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: 31. Long as thy wanton hand to pluck refrain](prp31)
+[Next: 31. Long as thy wanton hand to pluck refrain](prp31.md)

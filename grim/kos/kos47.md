@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos46)  [Next](kos48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos46)  [Next](kos48.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,8 +32,8 @@ lavender, sage, valerian, mint, garden-basil, rosemary, and hyssop,
 gathered in the day and hour of Mercury, the moon being in her increase.
 Bind together these herbs with a thread spun by a young maiden, and
 engrave upon the handle on the one side the characters shown in *[Figure
-82](kos44.htm#img_kos14)*, and on the other side those given in *[Figure
-83](kos44.htm#img_kos14)*.
+82](kos44.htm#img_kos14.md)*, and on the other side those given in *[Figure
+83](kos44.htm#img_kos14.md)*.
 
 After this thou wayest use the Water, using the Sprinkler whenever it is
 necessary; and know that wheresoever thou shalt sprinkle this Water, it
@@ -43,4 +43,4 @@ the Art.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. Of the Light, And of the Fire](kos48)
+[Next: Chapter XII. Of the Light, And of the Fire](kos48.md)

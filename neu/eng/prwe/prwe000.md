@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Next](prwe001) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Next](prwe001.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ people is so changed with pride now, that tey crave for nothing.'"
 
 ------------------------------------------------------------------------
 
-[Next: Preface to the Third Edition](prwe001)
+[Next: Preface to the Third Edition](prwe001.md)

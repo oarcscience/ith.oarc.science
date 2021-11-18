@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku51)  [Next](tku53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku51)  [Next](tku53.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 1059\. RABBI SCHIMEON spake, and said: Let us behold. The superiors are
 below, and the inferiors are above. <span
-id="fr_191"></span>[1](#fn_190)
+id="fr_191"></span>[1](#fn_190.md)
 
 <span id="page_243">p. 243</span>
 
@@ -18,13 +18,13 @@ id="fr_191"></span>[1](#fn_190)
 Universal Superior Conformation.
 
 1061\. We have learned this which is written, <span
-id="fr_192"></span>[1](#fn_191) "And the just man is the foundation,
+id="fr_192"></span>[1](#fn_191.md) "And the just man is the foundation,
 ISVD, *Yesod*, of the world," Prov. x. 25, because He comprehendeth the
-Hexad in one enumeration. <span id="fr_193"></span>[1](#fn_191)
+Hexad in one enumeration. <span id="fr_193"></span>[1](#fn_191.md)
 
 1062\. And this is that which is written, Cant. v. 15: "His legs are as
 columns, ShSh, *Shesh*, of the Number Six." <span
-id="fr_194"></span>[2](#fn_192)
+id="fr_194"></span>[2](#fn_192.md)
 
 1063\. We have learned in the "Book of Concealed Mystery" that in man
 are comprehended the Superior Crowns in general and in special; and that
@@ -36,7 +36,7 @@ of all those conformations, as hath been already said.
 1065\. (*The Superior Crowns*) in special (*are comprehended*) in the
 fingers of the hands, which are ChMSh KNGD ChMSh, *Chamesh Ke-Neged
 Chamesh*, Five over against (or opposed to, or chief above) Five. <span
-id="fr_195"></span>[3](#fn_193)
+id="fr_195"></span>[3](#fn_193.md)
 
 1066\. The Inferior Crowns (*are comprehended in*) the toes of the feet,
 which are special and general.
@@ -76,7 +76,7 @@ in the Body are all far distant and impure, and pollute whom they are
 permitted--whosoever, namely, cometh near unto them so that he may learn
 anything from them.
 
-1074. <span id="fr_196"></span>[1](#fn_194) This have we learned.
+1074. <span id="fr_196"></span>[1](#fn_194.md) This have we learned.
 Wherefore, then, is there so great a desire for them among the Disciples
 of Wisdom? For no other reason than that they (the Crowns which are
 impure) should approach that Holy Body, and that thus perchance through
@@ -136,7 +136,7 @@ concerning them they have knowledge who have spoken concerning them.
 1086\. Also, this is the tradition in the "Book of Concealed Mystery."
 When the Syntagma of the Supernal Man had been mitigated as to the Holy
 Body, in Male and Female form, these two were conjoined together again
-for the third time. <span id="fr_197"></span>[1](#fn_195)
+for the third time. <span id="fr_197"></span>[1](#fn_195.md)
 
 1087\. And the temperation of all things proceeded therefrom, and the
 superior and inferior worlds were mitigated.
@@ -144,7 +144,7 @@ superior and inferior worlds were mitigated.
 1088\. And thenceforth the superior and inferior worlds are bound
 together under the form of the Holy Body, and the worlds are associated
 together, and cohere together, and have been made one Body. <span
-id="fr_198"></span>[2](#fn_196)
+id="fr_198"></span>[2](#fn_196.md)
 
 1089\. And since all things are one Body, the Schechinah Superior, the
 Schechinah Inferior--that Holy One, may His be blessed above! that Holy
@@ -233,7 +233,7 @@ abideth. (Otherwise: Under the command of the Holy Crown, *Kether*, of
 the King, *Microprosopus*, in the earth, concerning which it is written,
 Isa. i. 21, "Justice abideth in Her.")
 
-1108. <span id="fr_199"></span>[1](#fn_197) Since that venerable Body is
+1108. <span id="fr_199"></span>[1](#fn_197.md) Since that venerable Body is
 the Form of the King; but if it were thus permitted to remain, then it
 would be counted as one of the beasts. (Otherwise: Since this venerable
 Body is called the Form of the King, and if it were thus left abiding,
@@ -246,7 +246,7 @@ beast.) Therefore is it said, "Like unto the beasts which perish."
 1109\. We have learned this which is written, Gen. vi. 2: "And the sons
 of the Elohim beheld the daughters of Adam." These (*sons of the
 Elohim*) are they who were withdrawn, and who fell into the mouth of the
-Great Abyss. <span id="fr_200"></span>[1](#fn_198)
+Great Abyss. <span id="fr_200"></span>[1](#fn_198.md)
 
 1110\. "The daughters of Adam." (*Here it is to be. noted that it is
 written HADM, Ha-Adam, the initial being demonstrative and emphatic,
@@ -257,7 +257,7 @@ were mighty men, who were from the Earth," &c. From that place, namely,
 which is called the earth, like as the tradition is concerning the
 phrase IMI OVLM, *Yemi Olahm*, the day of the world.
 
-1112\. The impurities <span id="fr_201"></span>[2](#fn_199) of the Name.
+1112\. The impurities <span id="fr_201"></span>[2](#fn_199.md) of the Name.
 From them have gone forth the Spirits, RVChIN, *Ruachin*, and the
 Demons, ShDIN, *Shedin*, into the world, so that they may adhere unto
 the wicked.
@@ -293,7 +293,7 @@ all hearts.
 
 1119\. And Tetragrammaton said: "I will destroy the Adam whom I have
 created, from off the face of HADMH, *Ha-Adamah*, the Earth," &c., for
-the restriction <span id="fr_202"></span>[1](#fn_200) of the Adam, who
+the restriction <span id="fr_202"></span>[1](#fn_200.md) of the Adam, who
 is supernal.
 
 1120\. And if thou sayest that the Inferior Adam is alone to be
@@ -346,57 +346,57 @@ Ancient of Days he came, and they made Him approach unto Him."
 
 ### Footnotes
 
-<span id="fn_190"></span>[242:1](tku52.htm#fr_191) Which is equivalent
+<span id="fn_190"></span>[242:1](tku52.htm#fr_191.md) Which is equivalent
 to the great magical precept of Hermes Trismegistus, in the second
 clause of the Smaragdine Tablet: "That which is <span id="page_243">p.
 243</span> below is like that which is above, and that which is above is
 like that which is below, for the performance of the miracles of the one
 substance."
 
-<span id="fn_191"></span>[243:1](tku52.htm#fr_193) It is not at first
+<span id="fn_191"></span>[243:1](tku52.htm#fr_193.md) It is not at first
 sight clear what is meant by this statement. But if we examine the
 passage closely, we shall see that the "just man" is taken for
 Microprosopus, who is the son, the "form of the man"; "comprehending the
 Hexad," because he is composed of the six Sephiroth--*Chesed*,
 *Geburah*, *Tiphereth*, *Netzach*, *Hod*, and *Yesod*.
 
-<span id="fn_192"></span>[243:2](tku52.htm#fr_194) The ordinary
+<span id="fn_192"></span>[243:2](tku52.htm#fr_194.md) The ordinary
 translation of this passage is: "His legs are as pillars of marble."
 ShSh may he translated either "marble" or "the Number Six," according to
 the pointing.
 
-<span id="fn_193"></span>[243:3](tku52.htm#fr_195) Compare "Sepher
+<span id="fn_193"></span>[243:3](tku52.htm#fr_195.md) Compare "Sepher
 Yetzirah," ch. i. § 3: "Ten are the restricting numerations
 (*Sephiroth*). The Number Ten (is that of the) fingers--Five as chief
 above (or over against, or opposed to) Five, ChMSh KNGD ChMSh, and the
 pure Unity enthroned in Her strength in the Word of Renewal. and in the
 Word of Might."
 
-<span id="fn_194"></span>[244:1](tku52.htm#fr_196) This section
+<span id="fn_194"></span>[244:1](tku52.htm#fr_196.md) This section
 apparently intends to inculcate the doctrine that it is the duty of the
 righteous to endeavour to improve not only the ungodly but even the
 demons themselves.
 
-<span id="fn_195"></span>[246:1](tku52.htm#fr_197) For their first
+<span id="fn_195"></span>[246:1](tku52.htm#fr_197.md) For their first
 conjunction produced Qain, the severe and evil judgment; their second,
 Abel, the milder and weaker form whom Qain absorbs; but their third
 produces Seth, the equilibrium of the supernal and inferiors.
 
-<span id="fn_196"></span>[246:2](tku52.htm#fr_198) "And they twain shall
+<span id="fn_196"></span>[246:2](tku52.htm#fr_198.md) "And they twain shall
 be one flesh."
 
-<span id="fn_197"></span>[248:1](tku52.htm#fr_199) These sections are
+<span id="fn_197"></span>[248:1](tku52.htm#fr_199.md) These sections are
 going on the idea of the Body remaining alive when the Divine Spirit has
 been withdrawn therefrom; that is, were it possible for it to be so.
 
-<span id="fn_198"></span>[249:1](tku52.htm#fr_200) See *ante*. § 1048
+<span id="fn_198"></span>[249:1](tku52.htm#fr_200.md) See *ante*. § 1048
 
-<span id="fn_199"></span>[249:2](tku52.htm#fr_201) Knorr Von Rosenroth
+<span id="fn_199"></span>[249:2](tku52.htm#fr_201.md) Knorr Von Rosenroth
 translates this word ANShI, *Aneshi*; Viri, "men;" but I think
 "impurities" preferable.
 
-<span id="fn_200"></span>[250:1](tku52.htm#fr_202) Or counterbalancing.
+<span id="fn_200"></span>[250:1](tku52.htm#fr_202.md) Or counterbalancing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLV: Conclusion](tku53)
+[Next: Chapter XLV: Conclusion](tku53.md)

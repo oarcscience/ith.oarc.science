@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv03)  [Next](ogv05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv03)  [Next](ogv05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -23,25 +23,25 @@ legislator of thought, sketched with bold strokes the tree of human
 knowledge, and brought back each branch of science to that of the moral
 faculties upon which it depends, he did not fail to observe sagaciously
 that it was necessary to distinguish in poetry two things, its essence
-and its form <span id="fr_2"></span>[1](#fn_2): its essence as
+and its form <span id="fr_2"></span>[1](#fn_2.md): its essence as
 pertaining wholly to the imagination, and composing by itself alone one
-of the principal branches of science <span id="fr_3"></span>[2](#fn_3);
+of the principal branches of science <span id="fr_3"></span>[2](#fn_3.md);
 its form, as making part of the grammar, and entering thus into the
 domain of philosophy and into the rational faculty of the
-understanding. <span id="fr_4"></span>[3](#fn_4) This celebrated man had
+understanding. <span id="fr_4"></span>[3](#fn_4.md) This celebrated man had
 borrowed this idea from a man much older and more celebrated than
 himself, Plato. According to this admirable philosopher, poetry is
 either a simple talent, an art which one uses to give to his own ideas a
 particular form, or it is a divine inspiration by means of which one
 clothes in the human language and transmits to men the ideas of the
-gods. <span id="fr_5"></span>[4](#fn_5) It is because, never having felt
+gods. <span id="fr_5"></span>[4](#fn_5.md) It is because, never having felt
 sufficiently this important distinction and having confused two ideas
 that ought to be separated, the essence and the form of poetry, which
 are as the soul and body of this science, that so many men among the
 modern nations proclaimed themselves poets, whereas they were, in strict
 truth, only clever versifiers. For it does not suffice, as Plato again
 said, to have poetic talent, it does not suffice to make verse and even
-good verse, to be called a poet <span id="fr_6"></span>[5](#fn_6); it is
+good verse, to be called a poet <span id="fr_6"></span>[5](#fn_6.md); it is
 necessary to possess that divine enthusiasm, that inspiration which
 elevates the soul, enlightens it, transports it, as it
 
@@ -71,7 +71,7 @@ has shown afterwards in the elementary nature, thus adapting the
 simulacra of physical things to the movement inspired by the soul,
 instead of adapting this movement to those same simulacra, as those who
 write history. This is what Bacon, the modern philosopher whom I have
-already cited, has felt so perfectly. <span id="fr_7"></span>[1](#fn_7)
+already cited, has felt so perfectly. <span id="fr_7"></span>[1](#fn_7.md)
 He says:
 
 As the sentient world is inferior to the human soul, it is for poetry to
@@ -93,7 +93,7 @@ events.
 The philosopher who expressed thus his thought regarding the essence of
 poetry, was far from believing, as the vulgar have always believed, and
 as certain modern writers have wished to convince the savants, <span
-id="fr_8"></span>[1](#fn_8) that, of the two parts of poetry, the
+id="fr_8"></span>[1](#fn_8.md) that, of the two parts of poetry, the
 positive form might be the only genuine; that is to say, that they do
 not by any means consider that the human characters put upon the stage
 by the poets whom I have just named, were historic characters. Bacon
@@ -102,7 +102,7 @@ Helen, Iphigenia, Œdipus, Phædra, etc., are somewhat more than they
 appear to be, and that their virtues or their vices, their heroic
 actions, even their crimes, celebrated by poetry, contain a profound
 meaning wherein lie buried the mysteries of religion and the secrets of
-philosophy. <span id="fr_9"></span>[2](#fn_9)
+philosophy. <span id="fr_9"></span>[2](#fn_9.md)
 
 It belongs only to the men to whom poetry is known by its exterior forms
 alone and who have never penetrated as far as its essence, to imagine
@@ -122,9 +122,9 @@ the spirit of Homer or of Sophocles, would never see in Ulysses a real
 man, a king who, returning to his isle after long wanderings, kills in
 cold blood a crowd of lovers of his wife and rests confident of the
 conjugal fidelity of that spouse abandoned for twenty years, and whom he
-had won in the course, <span id="fr_10"></span>[1](#fn_10) although,
+had won in the course, <span id="fr_10"></span>[1](#fn_10.md) although,
 according to the most common reports, she was delivered of a son in his
-absence <span id="fr_11"></span>[2](#fn_11); nor in Œdipus, another
+absence <span id="fr_11"></span>[2](#fn_11.md); nor in Œdipus, another
 king, who, without knowing it, without wishing it, always innocent,
 kills his father, espouses his mother and, driven to parricide and
 incest by an irresistible destiny, tears out his eyes and condemns
@@ -139,7 +139,7 @@ into virtue, and on the other, virtue changed into vice, and the gods
 operating this strange metamorphosis against all the laws of natural
 justice. He would throw aside the book with disgust, or, agreeing with
 the judicious reflection of an ancient Greek writer, exclaim with
-him <span id="fr_12"></span>[3](#fn_12):
+him <span id="fr_12"></span>[3](#fn_12.md):
 
 If Homer had merely thought with respect to the gods what he said, he
 would have been an impious, sacrilegious man, a veritable Salmoneus, a
@@ -224,17 +224,17 @@ men who are too enlightened to ignore what the ancients have said in
 this respect. Heraclides, whom I have already cited, is not the only one
 who has given this impression. Strabo assures positively that ancient
 poetry was only the language of allegory <span
-id="fr_13"></span>[1](#fn_13), and he refutes Eratosthenes who pretended
+id="fr_13"></span>[1](#fn_13.md), and he refutes Eratosthenes who pretended
 that the aim of Homer was only to amuse and please. In this he is in
 accord with Denys of Halicarnassus who avows that the mysteries of
 nature and the most sublime conceptions of morals have been covered with
-the veil of allegory. <span id="fr_14"></span>[2](#fn_14) Phurnutus goes
+the veil of allegory. <span id="fr_14"></span>[2](#fn_14.md) Phurnutus goes
 farther: he declares that the allegories used by Hesiod and by Homer do
 not differ from those which other foreign poets have used before
-them. <span id="fr_15"></span>[3](#fn_15) Damascius said as much of the
-poems of Orpheus, <span id="fr_16"></span>[4](#fn_16) and Plutarch
+them. <span id="fr_15"></span>[3](#fn_15.md) Damascius said as much of the
+poems of Orpheus, <span id="fr_16"></span>[4](#fn_16.md) and Plutarch
 confirms it in a passage which has been preserved to us by
-Eusebius. <span id="fr_17"></span>[5](#fn_17)
+Eusebius. <span id="fr_17"></span>[5](#fn_17.md)
 
 In the first ages of Greece, poetry, consecrated to the service of the
 altars, left the enclosures of the temples only for the instruction of
@@ -247,17 +247,17 @@ emanation, an order, or a favour from the Divinity, all was written in
 verse. To this sacred language was given the name Poetry, that is to
 say, the Language of the Gods: a symbolic name which accords with it
 perfectly, since it expressed at the same time its origin and its
-usage. <span id="fr_18"></span>[6](#fn_18) It was said to have come from
-Thrace, <span id="fr_19"></span>[7](#fn_19) and the one who had invented
+usage. <span id="fr_18"></span>[6](#fn_18.md) It was said to have come from
+Thrace, <span id="fr_19"></span>[7](#fn_19.md) and the one who had invented
 it and caused its first accents to be heard was
 
 <span id="page_14">p. 14</span>
 
-called Olen. <span id="fr_20"></span>[1](#fn_20) Now these are again two
+called Olen. <span id="fr_20"></span>[1](#fn_20.md) Now these are again two
 symbolic names perfectly adapted to the idea that one had of this divine
 science: it was descended from *Thrace*, that is to say, from the
 Ethereal Space; it was *Olen* who had invented it, that, is to say, the
-Universal Being. <span id="fr_21"></span>[\*](#fn_21) To understand
+Universal Being. <span id="fr_21"></span>[\*](#fn_21.md) To understand
 these three etymologies which can be regarded as the fundamental points
 of the history of poetry, it is necessary to remember, first, that the
 Phœnicians, at the epoch when they covered not only Greece but the
@@ -266,7 +266,7 @@ language, and gave their names to the countries of which they had taken
 possession; secondly, that these names drawn almost always from objects
 symbolic of their cult, constituted for these countries a sort of sacred
 geography, which Greece above all others, was faithful in
-preserving. <span id="fr_22"></span>[†](#fn_22) It was thus (for there
+preserving. <span id="fr_22"></span>[†](#fn_22.md) It was thus (for there
 is nothing
 
 <span id="page_15">p. 15</span>
@@ -291,17 +291,17 @@ divine country, *par excellence*. All the names that it has borne in
 different dialects and which in the course of time have become
 concentrated in particular regions, have been synonyms of theirs. Thus,
 Getæ, Mœsia, Dacia, all signify the country of the gods. <span
-id="fr_23"></span>[\*](#fn_23) Strabo, in speaking of the Getæ, said
+id="fr_23"></span>[\*](#fn_23.md) Strabo, in speaking of the Getæ, said
 that these peoples recognized a sovereign pontiff to whom they gave the
 title of God, the dignity of which existed still in his time. <span
-id="fr_24"></span>[1](#fn_24) This sovereign pontiff
+id="fr_24"></span>[1](#fn_24.md) This sovereign pontiff
 
 <span id="page_16">p. 16</span>
 
 resided upon a mountain that d’Anville believes he has recognized,
 between Moldavia and Transylvania. The Thracians had also a sovereign
 pontiff instituted in the same manner as that of the Getæ, and residing
-likewise upon a sacred mountain. <span id="fr_25"></span>[\*](#fn_25) It
+likewise upon a sacred mountain. <span id="fr_25"></span>[\*](#fn_25.md) It
 was, no doubt, from the heights of these mountains that the divine
 oracles, the laws and teachings which the great pontiffs had composed in
 verse, were at first spread throughout Greece; so that it might be said,
@@ -316,7 +316,7 @@ from Lycia, that is to say from the light, caused all Greece to
 recognize the cult of Apollo and Diana; composed the hymns which were
 chanted at Delos in honour of these two divinities and established the
 temple of Delphi of which he was the first pontiff. <span
-id="fr_26"></span>[1](#fn_26) Thus the temple of Delphi rivalled those
+id="fr_26"></span>[1](#fn_26.md) Thus the temple of Delphi rivalled those
 of Thrace. Its foundation, doubtless due to some innovator priest, was
 attributed by a poetic metaphor to the divinity which had inspired it.
 At that time a schism arose and two cults were formed, that of the
@@ -325,12 +325,12 @@ spirit, and Demeter the
 
 <span id="page_17">p. 17</span>
 
-earth-mother <span id="fr_27"></span>[\*](#fn_27); and that of the
+earth-mother <span id="fr_27"></span>[\*](#fn_27.md); and that of the
 Greeks, properly speaking, consecrated to the sun and the moon, adored
 under the names of Apollo and Diana. It is to this schism that one
 should ascribe the famous dispute which was raised, it is said, between
 Bacchus and Apollo concerning the possession of the tripod of
-Delphi. <span id="fr_28"></span>[1](#fn_28) The poetic fable woven from
+Delphi. <span id="fr_28"></span>[1](#fn_28.md) The poetic fable woven from
 this subject was made to preserve the remembrance of the moral incident
 and not of the physical event; for at this remote epoch, when verse only
 was written, history, ever allegorical, treated only of moral and
@@ -345,7 +345,7 @@ worthy of observation that Hesiod, born in the village of Ascra, a short
 distance from Delphi, makes no mention either of the oracle or of the
 temple of Apollo. All that he said of this city, which he named Pytho,
 has reference to the stone which Saturn had swallowed, believing to
-devour his son. <span id="fr_29"></span>[2](#fn_29) Homer does not
+devour his son. <span id="fr_29"></span>[2](#fn_29.md) Homer does not
 mention this Pytho in the *Iliad;*
 
 <span id="page_18">p. 18</span>
@@ -361,14 +361,14 @@ and Eumolpus were Thracians. Pieria, where the Muses were born, was a
 mountain of Thrace; and when, at length, it was a question of rendering
 to the gods a severe and orthodox cult, it was said that it was
 necessary to imitate the Thracians, or, as one would say in French,
-*thraciser*. <span id="fr_30"></span>[\*](#fn_30)
+*thraciser*. <span id="fr_30"></span>[\*](#fn_30.md)
 
 Besides it must be observed, that at the epoch when the temple of Delphi
 was founded,, the new cult, presented to the Greeks under the name of
 the universal Olen, tended to unite Apollo and Diana, or the sun and the
 moon, under the same symbolic figure, and to make of it only one and the
 same object of adoration, under the name of *Œtolinos*, that is to say,
-*Sun-moon*. <span id="fr_31"></span>[†](#fn_31) It was proclaimed that
+*Sun-moon*. <span id="fr_31"></span>[†](#fn_31.md) It was proclaimed that
 the middle of the earth, its paternal and maternal umbilicus, was found
 placed exactly on the spot where the new sacred city was built, which
 was called for this mystical reason
@@ -376,7 +376,7 @@ was called for this mystical reason
 <span id="page_19">p. 19</span>
 
 <span class="contnote">\[paragraph continues\]</span> Delphi. <span
-id="fr_32"></span>[1](#fn_32) But it seems that the universality of this
+id="fr_32"></span>[1](#fn_32.md) But it seems that the universality of this
 Œtolinos was never well understood by the Greeks, who, in their minds,
 united only with difficulty that which custom and their senses had
 taught them to separate. Moreover one can well conjecture that, as in
@@ -395,66 +395,66 @@ pardon of my judges for this necessary digression.
 
 ### Footnotes
 
-<span id="fn_2"></span>[7:1](ogv04.htm#fr_2) *De Dignit. et Increment.
+<span id="fn_2"></span>[7:1](ogv04.htm#fr_2.md) *De Dignit. et Increment.
 Scient.*, l. ii., c. 13.
 
-<span id="fn_3"></span>[7:2](ogv04.htm#fr_3) *Ibid*., l. ii., c. 1.
+<span id="fn_3"></span>[7:2](ogv04.htm#fr_3.md) *Ibid*., l. ii., c. 1.
 
-<span id="fn_4"></span>[7:3](ogv04.htm#fr_4) *Ibid*., l. vi., c. 1.
+<span id="fn_4"></span>[7:3](ogv04.htm#fr_4.md) *Ibid*., l. vi., c. 1.
 
-<span id="fn_5"></span>[7:4](ogv04.htm#fr_5) Plat., *Dial. Ion.*
+<span id="fn_5"></span>[7:4](ogv04.htm#fr_5.md) Plat., *Dial. Ion.*
 Aristotle, who was often opposed to Plato, did not dare to be on this
 point. He agrees that verse alone does not constitute poetry, and that
 the History of Herodotus, put into verse, would never be other than
 history.
 
-<span id="fn_6"></span>[7:5](ogv04.htm#fr_6) *Ibid*.
+<span id="fn_6"></span>[7:5](ogv04.htm#fr_6.md) *Ibid*.
 
-<span id="fn_7"></span>[8:1](ogv04.htm#fr_7) *De Dignit. et Increment.
+<span id="fn_7"></span>[8:1](ogv04.htm#fr_7.md) *De Dignit. et Increment.
 Scient.*, l. ii., c. 13.
 
-<span id="fn_8"></span>[9:1](ogv04.htm#fr_8) Leclerc, known by the
+<span id="fn_8"></span>[9:1](ogv04.htm#fr_8.md) Leclerc, known by the
 multitude of his works; l’abbé Bannier, Warburton, etc.
 
-<span id="fn_9"></span>[9:2](ogv04.htm#fr_9) *De Dignit. et Increment.
+<span id="fn_9"></span>[9:2](ogv04.htm#fr_9.md) *De Dignit. et Increment.
 Scient.*, l. ii., c. 13. Court de Gébelin cites Chancellor Bacon as one
 of the first defenders of allegory. (*Génie allég.*)
 
-<span id="fn_10"></span>[10:1](ogv04.htm#fr_10) Pausanias, l. iii., p.
+<span id="fn_10"></span>[10:1](ogv04.htm#fr_10.md) Pausanias, l. iii., p.
 93.
 
-<span id="fn_11"></span>[10:2](ogv04.htm#fr_11) Acron, *In Epist.
+<span id="fn_11"></span>[10:2](ogv04.htm#fr_11.md) Acron, *In Epist.
 Horat.*, i., 2. Certain authors say that Penelope had conceived this son
 when Mercury disguised as a goat had forced her virginity. (Lucian,
 *Dialog. Deor.*, t. i., p. 176.)
 
-<span id="fn_12"></span>[10:3](ogv04.htm#fr_12) Héraclides, entre les
+<span id="fn_12"></span>[10:3](ogv04.htm#fr_12.md) Héraclides, entre les
 petits mythologues.
 
-<span id="fn_13"></span>[13:1](ogv04.htm#fr_13) *Geogr.*, l. i.
+<span id="fn_13"></span>[13:1](ogv04.htm#fr_13.md) *Geogr.*, l. i.
 
-<span id="fn_14"></span>[13:2](ogv04.htm#fr_14) *Antiq. rom.*, l. ii.
+<span id="fn_14"></span>[13:2](ogv04.htm#fr_14.md) *Antiq. rom.*, l. ii.
 
-<span id="fn_15"></span>[13:3](ogv04.htm#fr_15) In his book entitled
+<span id="fn_15"></span>[13:3](ogv04.htm#fr_15.md) In his book entitled
 Περὶ τῆς τῶν θεῶν φύσεως, ch. 17.
 
-<span id="fn_16"></span>[13:4](ogv04.htm#fr_16) In his book entitled
+<span id="fn_16"></span>[13:4](ogv04.htm#fr_16.md) In his book entitled
 Περὶ θεῶν καὶ κόσμον, ch. 3. Court de Gébelin cites these works. (*Génie
 allég.*)
 
-<span id="fn_17"></span>[13:5](ogv04.htm#fr_17) *Præp. Evang.*, l. iii.,
+<span id="fn_17"></span>[13:5](ogv04.htm#fr_17.md) *Præp. Evang.*, l. iii.,
 c. 1.
 
-<span id="fn_18"></span>[13:6](ogv04.htm#fr_18) Court de Gébelin, *Génie
+<span id="fn_18"></span>[13:6](ogv04.htm#fr_18.md) Court de Gébelin, *Génie
 allég.*, p. 149.
 
-<span id="fn_19"></span>[13:7](ogv04.htm#fr_19) Strabo positively
+<span id="fn_19"></span>[13:7](ogv04.htm#fr_19.md) Strabo positively
 assures it. See Bannier, *Mythol.*, ii., p. 252.
 
-<span id="fn_20"></span>[14:1](ogv04.htm#fr_20) Bailly, *Essai sur les
+<span id="fn_20"></span>[14:1](ogv04.htm#fr_20.md) Bailly, *Essai sur les
 Fables*, ch. 14. Pausanias, l. ix., p. 302.
 
-<span id="fn_21"></span>[14:\*](ogv04.htm#fr_21) Poetry, in Greek
+<span id="fn_21"></span>[14:\*](ogv04.htm#fr_21.md) Poetry, in Greek
 ποίησις, derived from the Phœnician ‏פאח‎ (*phohe*), mouth, voice,
 language, discourse; and from ‏יש‎ (*ish*), a superior being, a
 principle being, figuratively God. This last word, spread throughout
@@ -484,11 +484,11 @@ the sun. According to an ancient tradition, Olen was native of Lycia,
 that is to say, of the light; for this is the meaning of the Greek word
 λύκη.
 
-<span id="fn_22"></span>[14:†](ogv04.htm#fr_22) Strabo has judiciously
+<span id="fn_22"></span>[14:†](ogv04.htm#fr_22.md) Strabo has judiciously
 observed that in Greece all the technical words were foreign. (*Voyez*
 Bailly, *Essai sur les Fables*, ch. 14, p. 136.)
 
-<span id="fn_23"></span>[15:\*](ogv04.htm#fr_23) The Getæ, in Greek
+<span id="fn_23"></span>[15:\*](ogv04.htm#fr_23.md) The Getæ, in Greek
 Γέται, were, according to Ælius Spartianus, and according to the author
 of *le Monde primitif* (t. ix., p. 49), the same peoples as the Goths.
 Their country called Getæ, which should be pronounced *Ghœtie*, comes
@@ -504,10 +504,10 @@ found placed the letter ‏מ‎ (M), one of the *hémantiques*, which
 according to the best grammarians serves to express the proper place,
 the means, the local manifestation of a thing.
 
-<span id="fn_24"></span>[15:1](ogv04.htm#fr_24) *Voyez* Court de
+<span id="fn_24"></span>[15:1](ogv04.htm#fr_24.md) *Voyez* Court de
 Gébelin, *Monde primitif*, t. ix., p. 49.
 
-<span id="fn_25"></span>[16:\*](ogv04.htm#fr_25) This mountain was
+<span id="fn_25"></span>[16:\*](ogv04.htm#fr_25.md) This mountain was
 called Kô-Kajôn, according to d’Anville. This learned geographer has
 clearly seen that this name was the same as that of Caucasus, a generic
 name given to all the sacred mountains. It is known that Caucasus was
@@ -518,11 +518,11 @@ that of the Indians, upon which still resides the God-Priest, or
 immortal Man, similar to that of the Getæ. (*Mém. de l’Acad. des
 Inscript.*, t. xxv., p. 45.)
 
-<span id="fn_26"></span>[16:1](ogv04.htm#fr_26) Bailly, *Essai sur les
+<span id="fn_26"></span>[16:1](ogv04.htm#fr_26.md) Bailly, *Essai sur les
 Fables*, ch. 14. Conférez avec Hérodote, l. iv.; et Pausanias, l. ix.,
 p. 302, l. x., p. 320.
 
-<span id="fn_27"></span>[17:\*](ogv04.htm#fr_27) *Dionysus*, in Greek
+<span id="fn_27"></span>[17:\*](ogv04.htm#fr_27.md) *Dionysus*, in Greek
 Διονύσος, comes from the word Διός, irregular genitive of Ζεύς, the
 living God, and of Νόος, mind or understanding. The Phœnician roots of
 these words are ‏אש‎, ‏יש‎, or ‏איש‎ (*ash*, *ish*, or *aïsh*), Unique
@@ -536,15 +536,15 @@ earth*, united to the word μήτερ, *mother*. The Phœnician roots are ‏ד
 formed by aggregation of similar parts; and the latter, all that which
 varies the form and gives it generative movement.
 
-<span id="fn_28"></span>[17:1](ogv04.htm#fr_28) Bailly, *Essai sur les
+<span id="fn_28"></span>[17:1](ogv04.htm#fr_28.md) Bailly, *Essai sur les
 Fables*, ch. 15. Court de Gébelin expressly says, that the sacred
 mountain of Thrace was consecrated to Bacchus. *Monde prim.*, t. ix., p.
 49. Now, it is generally known that Parnassus of the Greeks was
 consecrated to Apollo.
 
-<span id="fn_29"></span>[17:2](ogv04.htm#fr_29) *Theog*., V. 500.
+<span id="fn_29"></span>[17:2](ogv04.htm#fr_29.md) *Theog*., V. 500.
 
-<span id="fn_30"></span>[18:\*](ogv04.htm#fr_30) The Greek word Θρᾴκη,
+<span id="fn_30"></span>[18:\*](ogv04.htm#fr_30.md) The Greek word Θρᾴκη,
 Thrace, in passing into the Ionian dialect Θρῄξ, has furnished the
 following expressions: θρῆσκος, a devotee, θρησκεία, devotion, θρησκηύω,
 I adore with devotion. These words, diverted from their real sense and
@@ -554,18 +554,18 @@ of considering the Thracians as schismatics was even reached, and the
 word ἐθελοθρησκεία composed to express a heresy, a cult particular to
 those who practised it, and separated from orthodoxy.
 
-<span id="fn_31"></span>[18:†](ogv04.htm#fr_31) Œtolinos is composed, by
+<span id="fn_31"></span>[18:†](ogv04.htm#fr_31.md) Œtolinos is composed, by
 contraction, of two words which appear to belong to one of the Thracian
 dialects. *Œto-Kyros* signifies the ruling sun, among the Scythians,
 according to Herodotus (l. iv., 59). *Helena* signified the moon, among
 the Dorian. It is from this last word, deprived of its article *he*,
 that the Latins have made *Luna*.
 
-<span id="fn_32"></span>[19:1](ogv04.htm#fr_32) Court de Gébelin, *Monde
+<span id="fn_32"></span>[19:1](ogv04.htm#fr_32.md) Court de Gébelin, *Monde
 primit.*, t. viii., p. 190. Pausanias, l. x. Conférez avec Æschyl. *In
 Choephori*, v. 1036; Eurip., *In Orest.*, v. 1330; Plat., *De Rep.*, l.
 iv., etc.
 
 ------------------------------------------------------------------------
 
-[Next: § II](ogv05)
+[Next: § II](ogv05.md)

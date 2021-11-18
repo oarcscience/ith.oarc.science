@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](cab04)  [Next](cab06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](cab04)  [Next](cab06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cabala*, by Bernhard Pick, \[1913\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -166,7 +166,7 @@ distinguished Christian scholars. On the other hand it has been clearly
 demonstrated by such Jewish scholars as Zunz, Geiger, Jellinek, Graetz,
 Steinschneider, and a host of others, that the Zohar is not the
 production of Rabbi Simon, but of the thirteenth century, by Moses de
-Leon (1250-1305). <span id="fr_34"></span>[1](#fn_34) Simon ben Jochaï
+Leon (1250-1305). <span id="fr_34"></span>[1](#fn_34.md) Simon ben Jochaï
 was a pupil of Rabbi Akiba; but the earliest mention of the book's
 existence occurs in the year 1290, and the anachronisms of its style and
 in the facts referred to, together with the circumstance that it speaks
@@ -188,7 +188,7 @@ all men must appear (II, 38*a*).
 
 2\. The Zohar quotes and mystically explains the Hebrew vowel-points (I,
 16*b*, 24*b*; II, 116*a*; III, 65*a*), which were introduced
-later. <span id="fr_35"></span>[2](#fn_35)
+later. <span id="fr_35"></span>[2](#fn_35.md)
 
 3\. The Zohar (II, 32*a*) mentions the Crusades, the temporary taking of
 Jerusalem by the Crusaders from the Infidels, and the retaking of it by
@@ -242,7 +242,7 @@ Zohar took deep root, and found its way to Italy, Palestine and Poland.
 
 ### Footnotes
 
-<span id="fn_34"></span>[50:1](cab05.htm#fr_34) See my article *s.v.* in
+<span id="fn_34"></span>[50:1](cab05.htm#fr_34.md) See my article *s.v.* in
 McClintock and Strong. Professor Strack, who is entitled to a hearing in
 matters of Rabbinic literature, says: "He \[Rabbi Simon\] has long been
 regarded as the author of the Zohar; but this main work of the Cabala
@@ -251,9 +251,9 @@ second half of the thirteenth century, as has been proved especially by
 Jacob Emden, in *Mitpahath Sepharim*, Altona, 1768.'--*Einleitung in den
 Talmud*, 4th ed., Leipsic, 1908; p. 93.
 
-<span id="fn_35"></span>[51:2](cab05.htm#fr_35) See my article
+<span id="fn_35"></span>[51:2](cab05.htm#fr_35.md) See my article
 "Vowel-Points" in McClintock and Strong.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Cabala in the Post-Zohar Period](cab06)
+[Next: Chapter IV. The Cabala in the Post-Zohar Period](cab06.md)

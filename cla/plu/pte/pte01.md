@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](pte00)  [Next](pte02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](pte00)  [Next](pte02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plutarch's Morals: Theosophical Essays*, tr. by Charles William King,
 \[1908\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
 
 <span id="page_v">p. v</span>
 
-<span id="img__00500"></span> ![\[Gryphon\]](img/_00500.jpg)  
+<span id="img__00500"></span> ![\[Gryphon\]](img/_00500.jpg.md)  
 \[Gryphon\]
 
 ### PREFACE.
@@ -123,9 +123,9 @@ Cambridge</span>,
          *May* 6, 1882.</span>
 
 <span id="img__00800"></span> ![\[Apollo seated before the Delphic
-Tripod\]](img/_00800.jpg)  
+Tripod\]](img/_00800.jpg.md)  
 \[Apollo seated before the Delphic Tripod\]
 
 ------------------------------------------------------------------------
 
-[Next: Contents](pte02)
+[Next: Contents](pte02.md)

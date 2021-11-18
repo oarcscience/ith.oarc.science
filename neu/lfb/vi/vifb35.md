@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](vifb34)  [Next](vifb36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](vifb34)  [Next](vifb36.md) 
 
 </div>
 
@@ -244,6 +244,6 @@ they died.
 
 ------------------------------------------------------------------------
 
-[Next: Virgilius the Sorcerer](vifb36)
+[Next: Virgilius the Sorcerer](vifb36.md)
 
 </div>

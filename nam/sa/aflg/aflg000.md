@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Next](aflg001)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Next](aflg001.md)
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Author of "North Queensland Ethnography," etc.*
 
 ------------------------------------------------------------------------
 
-[Next](aflg001)
+[Next](aflg001.md)

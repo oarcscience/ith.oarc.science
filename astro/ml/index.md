@@ -1,12 +1,12 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16MO4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16MO4/internetsacredte.md)
 
 </div>
 
@@ -30,8 +30,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16MO4/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](ml00)    [Page
-Index](pageidx)    [Text \[Zipped\]](ml.txt.gz)
+[Contents](#contents)    [Start Reading](ml00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](ml.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -52,44 +52,44 @@ there. The universe will continue to surprise us.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](ml00)  
-[Quotations](ml01)  
-[Table of Contents](ml02)  
-[Preface](ml03)  
-[List of Illustrations](ml04)  
+<span id="contents"></span> [Title Page](ml00.md)  
+[Quotations](ml01.md)  
+[Table of Contents](ml02.md)  
+[Preface](ml03.md)  
+[List of Illustrations](ml04.md)  
 <span id="section_000"></span>
 
 ### Moon Spots
 
-[I. Introduction](ml05)  
-[II. The Man in the Moon](ml06)  
-[III. The Woman in the Moon](ml07)  
-[IV. The Hare in the Moon](ml08)  
-[V. The Toad in the Moon](ml09)  
-[VI. Other Moon Myths](ml10)  
+[I. Introduction](ml05.md)  
+[II. The Man in the Moon](ml06.md)  
+[III. The Woman in the Moon](ml07.md)  
+[IV. The Hare in the Moon](ml08.md)  
+[V. The Toad in the Moon](ml09.md)  
+[VI. Other Moon Myths](ml10.md)  
 <span id="section_001"></span>
 
 ### Moon Worship
 
-[I. Introduction](ml11)  
-[II. The Moon Mostly a Male Deity](ml12)  
-[III. The Moon a World-Wide Deity](ml13)  
-[IV. The Moon a Water-Deity](ml14)  
+[I. Introduction](ml11.md)  
+[II. The Moon Mostly a Male Deity](ml12.md)  
+[III. The Moon a World-Wide Deity](ml13.md)  
+[IV. The Moon a Water-Deity](ml14.md)  
 <span id="section_002"></span>
 
 ### Moon Superstitions
 
-[I. Introduction](ml15)  
-[II. Lunar Fancies](ml16)  
-[III. Lunar Eclipses](ml17)  
-[IV. Lunar Influences](ml18)  
+[I. Introduction](ml15.md)  
+[II. Lunar Fancies](ml16.md)  
+[III. Lunar Eclipses](ml17.md)  
+[IV. Lunar Influences](ml18.md)  
 <span id="section_003"></span>
 
 ### Moon Inhabitation
 
-[Moon Inhabitation](ml19)  
+[Moon Inhabitation](ml19.md)  
 
  
 
-[Appendix](ml20)  
-[Notes](ml21)  
+[Appendix](ml20.md)  
+[Notes](ml21.md)  

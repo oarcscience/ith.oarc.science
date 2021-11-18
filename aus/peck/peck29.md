@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](peck28)  [Next](peck30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](peck28)  [Next](peck30.md) 
 
 ------------------------------------------------------------------------
 
@@ -81,4 +81,4 @@ vines," still with them.
 
 ------------------------------------------------------------------------
 
-[Next: A Star Legend](peck30)
+[Next: A Star Legend](peck30.md)

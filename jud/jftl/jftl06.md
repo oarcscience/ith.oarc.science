@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl05)  [Next](jftl07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl05)  [Next](jftl07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -41,7 +41,7 @@ about to leave this world.
 <span id="img_03600"></span> <span align="CENTER"> [![A strange crowd of
 demons of all shapes and sizes poured into the synagogue with
 threatening gestures. (&lt;i&gt;Page 49&lt;/i&gt;).](tn/03600.jpg)  
-Click to enlarge](img/03600.jpg)  
+Click to enlarge](img/03600.jpg.md)  
 A strange crowd of demons of all shapes and sizes poured into the
 synagogue with threatening gestures. (*Page 49*).  
 </span>
@@ -278,7 +278,7 @@ bird's feathers. Immediately, to his dismay, the bird rose from the
 tree. Bar Shalmon clung to its back with all his might.
 
 Higher and higher soared the eagle until the trees below looked like
-mere dots on the land. [Swiftly](errata.htm#0) flew the eagle over miles
+mere dots on the land. [Swiftly](errata.htm#0.md) flew the eagle over miles
 and miles of desert until Bar Shalmon began to feel giddy. He was faint
 with hunger and feared that he would not be able to retain his hold. All
 day the bird flew without resting, across island and sea. No houses, no
@@ -784,7 +784,7 @@ city. A wondrous sight met their gaze in the market place. It was filled
 with hundreds upon hundreds of the queerest creatures they had ever
 seen, goblins and brownies, demons and fairies. Dainty little elves ran
 about the square to the delight of the children, and quaint sprites
-clambered up the [lampposts](errata.htm#1) and squatted on the gables of
+clambered up the [lampposts](errata.htm#1.md) and squatted on the gables of
 the council house. On the steps of that building was a glittering array
 of fairies and attendant genii,
 
@@ -872,4 +872,4 @@ up into the air with their royal mistress in their midst and vanished.
 
 ------------------------------------------------------------------------
 
-[Next: The Higgledy-Piggledy Palace](jftl07)
+[Next: The Higgledy-Piggledy Palace](jftl07.md)

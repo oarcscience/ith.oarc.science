@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe291)  [Next](prwe293) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe291)  [Next](prwe293.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ disturbed by unholy footsteps.
 
 ------------------------------------------------------------------------
 
-[Next: A Loose Garter](prwe293)
+[Next: A Loose Garter](prwe293.md)

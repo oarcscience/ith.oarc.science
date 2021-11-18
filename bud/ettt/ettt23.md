@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt22)  [Next](ettt24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt22)  [Next](ettt24.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -25,23 +25,23 @@ Intangible Textual Heritage
 ### <span class="smallcaps">Translator's Introduction</span>
 
 Buddhism seldom positively asserts what is the Truth. <span
-id="fr_23"></span>[\*](#fn_23) Rather, it teaches the truth-seekers to
+id="fr_23"></span>[\*](#fn_23.md) Rather, it teaches the truth-seekers to
 understand and to explore their own minds, for in the quest of Reality
 nothing is more important or befitting for the seeker than to know *what
 the mind actually is* rather than to know only *what mind knows of*—the
 so-called knowledge and objects known by the mind. Reality is the object
 known, but the first step is to understand the knower of this
-Reality. <span id="fr_24"></span>[\*\*](#fn_24) Whatever one's beliefs,
+Reality. <span id="fr_24"></span>[\*\*](#fn_24.md) Whatever one's beliefs,
 opinions, and thoughts, all these depend on the mind and come through
 the mind, for there is no possibility for one to escape from the sphere
 of mind in thinking or knowing.
 
 After waking from sleep, each day of our lives begins with an awareness
-of 'I'. [Descartes](errata.htm#79) observed, "I think, therefore I
+of 'I'. [Descartes](errata.htm#79.md) observed, "I think, therefore I
 am"—which seems logical to common sense since it feels the necessity for
 a knower in order for anything to be known. But whether or not this 'I'
 really exists and is substantial is debatable, says
-[Buddhism](errata.htm#80). Although Buddhism denies the reality of the
+[Buddhism](errata.htm#80.md). Although Buddhism denies the reality of the
 ego, it does not absolutely deny the reality of the "awareness," or
 thinking-process (at least in Mahayana Buddhism). Therefore, it is of
 the utmost importance to know what this "awareness" or "mind" is.
@@ -53,7 +53,7 @@ The Vaibhasika and Yogacara may be said to use the "horizontal"
 approach, i.e. studying the mind analytically by mapping its divisions,
 characteristics, functions, etc., including the 8 Consciousnesses and
 mental functions of the different stages of Samadhis. The Tantric
-\[Buddhist\] schools and Zen, <span id="fr_25"></span>[\*](#fn_25)
+\[Buddhist\] schools and Zen, <span id="fr_25"></span>[\*](#fn_25.md)
 however, employ what may be called a "vertical" approach—urging the
 student to disregard the analysis of functions and peripheral knowledge
 of mind and instead to penetrate directly and deeply to the very
@@ -86,11 +86,11 @@ ideas, etc.), and if we include the two obscure consciousnesses (No. 7
 and No. 8) their functions are to become aware of the illusory ego (in
 the case of No. 7) and the "form of all Dharmas" (in the case of No. 8).
 Also, the function of mind refers to the emotional manifestations of
-mind in being able to express love, <span id="fr_26"></span>[\*](#fn_26)
+mind in being able to express love, <span id="fr_26"></span>[\*](#fn_26.md)
 hate, anger, joy, etc. This realm, of the functioning-aspect-of-mind or
 the first dimension of mind, is very obvious and immediately known by
 all. Now, the second dimension—the form or characteristics of the
-mind—refers to the awareness <span id="fr_27"></span>[\*\*](#fn_27) of
+mind—refers to the awareness <span id="fr_27"></span>[\*\*](#fn_27.md) of
 the mind, or more clearly, the "awaring-aspect-of-the-mind". This
 "awaring-aspect-of-mind" is found in all the Eight Consciousnesses,
 though some consciousnesses (such as No. 8, the Alaya) are not as
@@ -139,8 +139,8 @@ immeasurable lifetimes in the past.
 Therefore, Mahamudra and Zen can never be considered merely philosophy
 or art, for they are actually the most serious teachings of the Buddhist
 religion. They are teachings of liberation <span
-id="fr_28"></span>[\*](#fn_28) and should not be abused, as Zen
-[has](errata.htm#81) recently been in the Occident, by being made a
+id="fr_28"></span>[\*](#fn_28.md) and should not be abused, as Zen
+[has](errata.htm#81.md) recently been in the Occident, by being made a
 subject of vain talk or subtle speculations as though they were only a
 game of the mind.
 
@@ -153,11 +153,11 @@ great authority and accomplished yogi whose numerous writings include
 the greatest work on the subject. *The Vow* is recited by the White
 School as a daily prayer.
 
-Although this Vow is comparatively short, [it](errata.htm#82) contains
+Although this Vow is comparatively short, [it](errata.htm#82.md) contains
 the majority of the essential teachings of Mahamudra. In Tibet, there
 exists quite a body of books and commentaries explaining this Vow. At
 present these works are not available; therefore translator has supplied
-a short commentary to accompany the stanzas[also](errata.htm#83) . Also,
+a short commentary to accompany the stanzas[also](errata.htm#83.md) . Also,
 since the original text was not available, the present translation was
 made from the Chinese text that the translator had previously made from
 the Tibetan.
@@ -190,40 +190,40 @@ Transcendent Bliss."
 
 ### Footnotes
 
-<span id="fn_23"></span>[285:\*](ettt23.htm#fr_23) The translator must
+<span id="fn_23"></span>[285:\*](ettt23.htm#fr_23.md) The translator must
 here be restricting himself to the skeptical method of Nagārjuna and
 some schools of Zen, for there exist very explicit Buddhist cosmological
 and psychological texts, both in Hinayana and Mahayana.—*Ed*.
 
-<span id="fn_24"></span>[285:\*\*](ettt23.htm#fr_24) The translator
+<span id="fn_24"></span>[285:\*\*](ettt23.htm#fr_24.md) The translator
 overlooks here the ancient Upaniśadic dictum, which became part of the
 essence of the much later Zen: O Maitreya, the knower cannot be known!
 *Ed*.
 
-<span id="fn_25"></span>[286:\*](ettt23.htm#fr_25) Growing out of more
+<span id="fn_25"></span>[286:\*](ettt23.htm#fr_25.md) Growing out of more
 of a Mādhyamika emphasis. *Ed*.
 
-<span id="fn_26"></span>[287:\*](ettt23.htm#fr_26) Not the correct word
+<span id="fn_26"></span>[287:\*](ettt23.htm#fr_26.md) Not the correct word
 here, merely "affection" being meant; (see our note to stanza 15) the
 word "mind" in the same line could also be bettered by "consciousness",
 "mind" having too intellectualistic a connotation. *Ed*.
 
-<span id="fn_27"></span>[287:\*\*](ettt23.htm#fr_27) The editor here
+<span id="fn_27"></span>[287:\*\*](ettt23.htm#fr_27.md) The editor here
 assumes responsibility for this term throughout, having suggested it to
 the translator, in several discussions preceding the writing of this
 essay, as a better one in this context than "consciousness," quoting to
 him the editor's definition of *mind* as "that which orders awareness."
 The awareness is thus more primal than the ordering.—*Ed*.
 
-<span id="fn_28"></span>[289:\*](ettt23.htm#fr_28) They become such only
+<span id="fn_28"></span>[289:\*](ettt23.htm#fr_28.md) They become such only
 when linked to a definite practice of tantric yoga type. See also our
-remarks in the footnotes on pages [244](ettt17.htm#page_244) and
-[296](ettt24.htm#page_296).—*Ed*.
+remarks in the footnotes on pages [244](ettt17.htm#page_244.md) and
+[296](ettt24.htm#page_296.md).—*Ed*.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Text](ettt24)
+[Next: Text](ettt24.md)
 
 </div>

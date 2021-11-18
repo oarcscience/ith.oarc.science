@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov13)  [Next](hlov15) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov13)  [Next](hlov15.md) 
 
 ------------------------------------------------------------------------
 
@@ -206,4 +206,4 @@ the north.
 
 ------------------------------------------------------------------------
 
-[Next: X. Genealogy of the Pele Family](hlov15)
+[Next: X. Genealogy of the Pele Family](hlov15.md)

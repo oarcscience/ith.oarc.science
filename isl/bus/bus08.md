@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus07)  [Next](bus09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus07)  [Next](bus09.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -65,7 +65,7 @@ steps, for a mosque is better cleansed from such."
 Humility is the only ritual for a devotee. If thou desire greatness, be
 humble; no other ladder is there by which to climb.
 
-#### STORY OF SULTAN BAYAZID BUSTAMI [21](bus15.htm#an_21)
+#### STORY OF SULTAN BAYAZID BUSTAMI [21](bus15.htm#an_21.md)
 
 When Bayazid was coming from his bath one morning during the Id
 festival, some one unwittingly emptied a tray of ashes from a window
@@ -286,7 +286,7 @@ slave—his agreeable manners, or his skill, or beauty? Surely, it is not
 worth while to keep such an unruly knave and burden thyself with such an
 affliction. I will procure for thee a slave of handsome appearance and
 good character. Take this one to the slave-market and sell him. If a
-[price](errata.htm#1) is offered for him, do not refuse it, for he would
+[price](errata.htm#1.md) is offered for him, do not refuse it, for he would
 be dear at that."
 
 The good-natured man smiled and said: "O friend! although the character
@@ -304,7 +304,7 @@ thyself, involve not thy fellows.
 Forbearance is at first like poison, but when engrained in the nature it
 becomes like honey.
 
-#### STORY OF MARUF KARCHI [22](bus15.htm#an_22) AND THE SICK TRAVELLER
+#### STORY OF MARUF KARCHI [22](bus15.htm#an_22.md) AND THE SICK TRAVELLER
 
 No one follows the path of Maruf Karchi who does not first banish the
 idea of fame from his head.
@@ -377,7 +377,7 @@ stones.
 
 A certain man knew something of astronomy and his head, in consequence,
 was filled with pride. Journeying far, he visited Kushyar,
-[23](bus15.htm#an_23) the sage, who turned his eyes from him and would
+[23](bus15.htm#an_23.md) the sage, who turned his eyes from him and would
 teach him nothing. When the disappointed traveller was on the point of
 leaving, Kushyar addressed him with these words:
 
@@ -479,7 +479,7 @@ to be writ in letters of gold:
 "Alone in my heart there dwelleth affection for my loved one; thus, it
 contains no room. for malice."
 
-#### STORY OF LUQMAN, [24](bus15.htm#an_24) THE SAGE
+#### STORY OF LUQMAN, [24](bus15.htm#an_24.md) THE SAGE
 
 I have heard that Luqman was of dark complexion and careless of his
 appearance. Some one mistook him for a slave, and employed him in
@@ -507,4 +507,4 @@ inferiors.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Concerning Resignation](bus09)
+[Next: Chapter V. Concerning Resignation](bus09.md)

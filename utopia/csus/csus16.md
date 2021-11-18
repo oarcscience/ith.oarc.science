@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus15)  [Next](csus17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus15)  [Next](csus17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ people—polite, patient, noiseless in their motions except during their
 <span id="img_15300"></span>
 
 [![ELDER FREDERICK W EVANS.](tn/15300.jpg)  
-Click to enlarge](img/15300.jpg)  
+Click to enlarge](img/15300.jpg.md)  
 ELDER FREDERICK W EVANS.  
 
 sometimes quite noisy; scrupulously neat, and much given to attend to
@@ -125,7 +125,7 @@ manner. He was dressed rigidly in the Shaker costume.
 <span id="img_15400"></span>
 
 [![VIEW OF A SHAKER VILLAGE.](tn/15400.jpg)  
-Click to enlarge](img/15400.jpg)  
+Click to enlarge](img/15400.jpg.md)  
 VIEW OF A SHAKER VILLAGE.  
 
 Mount Lebanon lies beautifully among the hills of Berkshire, two and a
@@ -165,7 +165,7 @@ establishment is built on a tolerably steep hillside.
 <span id="img_15500"></span>
 
 [![THE HERB HOUSE, MOUNT LEBANON.](tn/15500.jpg)  
-Click to enlarge](img/15500.jpg)  
+Click to enlarge](img/15500.jpg.md)  
 THE HERB HOUSE, MOUNT LEBANON.  
 
 A quarter of a mile farther on are the buildings of the Church Family,
@@ -181,7 +181,7 @@ itself.
 <span id="img_15600"></span>
 
 [![MEETING HOUSE AT MOUNT LEBANON.](tn/15600.jpg)  
-Click to enlarge](img/15600.jpg)  
+Click to enlarge](img/15600.jpg.md)  
 MEETING HOUSE AT MOUNT LEBANON.  
 
 The illustrations show sufficiently the character of the different
@@ -204,7 +204,7 @@ being no seats. A brief address by Elder Frederick opened the services,
 <span id="img_15700"></span>
 
 [![INTERIOR OF MEETING-HOUSE AT MOUNT LEBANON.](tn/15700.jpg)  
-Click to enlarge](img/15700.jpg)  
+Click to enlarge](img/15700.jpg.md)  
 INTERIOR OF MEETING-HOUSE AT MOUNT LEBANON.  
 
 after which there was singing; different brethren and sisters spoke
@@ -309,7 +309,7 @@ healthful, and tends to prolong life; "as we are constantly
 proving." He afterward gave me a file of the *Shaker*, a monthly paper,
 in which the deaths in all the societies are recorded; and I judge from
 its reports that the death rate is low, and the people mostly
-long-lived. <span id="fr_19"></span>[\*](#fn_19)
+long-lived. <span id="fr_19"></span>[\*](#fn_19.md)
 
 "We look for a testimony against disease," he said; "and even now I hold
 that no man who lives as we do has a right to be ill before he is sixty;
@@ -360,7 +360,7 @@ he thought<span id="img_16100"></span>
 
 |                                                  |
 |--------------------------------------------------|
-| ![SHAKER TANNERY, MOUNT LEBANON.](img/16100.jpg) |
+| ![SHAKER TANNERY, MOUNT LEBANON.](img/16100.jpg.md) |
 
 immoderately so. They bought to the extent of their means; being
 economical, industrious, and honest, they saved money rapidly, and
@@ -380,7 +380,7 @@ should own to not more than one hundred acres.
 <span id="img_16200"></span>
 
 [![SHAKER OFFICE AND STORE AT MOUNT LEBANON.](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)  
+Click to enlarge](img/16200.jpg.md)  
 SHAKER OFFICE AND STORE AT MOUNT LEBANON.  
 
 He thought it a mistake in his people to own farms outside of their
@@ -427,7 +427,7 @@ As to books and literature in general, they are not a reading people.
 "Though a man should gain all the natural knowledge in the universe, he
 could not thereby gain either the knowledge or power of salvation from
 sin, nor redemption from a sinful nature." <span
-id="fr_20"></span>[\*](#fn_20) Elder Frederick's library is of extremely
+id="fr_20"></span>[\*](#fn_20.md) Elder Frederick's library is of extremely
 limited range, and contains but a few books, mostly concerning social
 problems and physiological laws. The Swedish brother, who had been a
 student, said in answer to my
@@ -475,7 +475,7 @@ more light,<span id="img_16500"></span>
 
 |                                   |
 |-----------------------------------|
-| ![A SHAKER ELDER.](img/16500.jpg) |
+| ![A SHAKER ELDER.](img/16500.jpg.md) |
 
 a more equal distribution of heat, and a more general care for
 protection and comfort, because these things tend to health and long
@@ -534,13 +534,13 @@ tobacco, but this is thought a weakness, to be
 <span id="img_16600"></span>
 
 [![A GROUP OF SHAKER CHILDREN.](tn/16600.jpg)  
-Click to enlarge](img/16600.jpg)  
+Click to enlarge](img/16600.jpg.md)  
 A GROUP OF SHAKER CHILDREN.  
 
 <span id="img_16601"></span>
 
 [![SHAKER DINING HALL.](tn/16601.jpg)  
-Click to enlarge](img/16601.jpg)  
+Click to enlarge](img/16601.jpg.md)  
 SHAKER DINING HALL.  
 
 <span id="page_167">p. 167</span>
@@ -1163,16 +1163,16 @@ sexes is in some of the societies called "sparking."
 
 ### Footnotes
 
-<span id="fn_19"></span>[160:\*](csus16.htm#fr_19) In nine numbers of
+<span id="fn_19"></span>[160:\*](csus16.htm#fr_19.md) In nine numbers of
 the *Shaker* (year 1873), twenty-seven deaths are recorded. Of these,
 Abigail Munson died at Mount Lebanon, aged 101 years, 11 months, and 12
 days. The ages of the remainder were 97, 93, 88, 87, 86, 82, six above
 75, four above 70, 69, 65, 64, 55, 54, 49, 37, 31, and two whose ages
 were not given.
 
-<span id="fn_20"></span>[163:\*](csus16.htm#fr_20) "Christ's First and
+<span id="fn_20"></span>[163:\*](csus16.htm#fr_20.md) "Christ's First and
 Second Appearing"
 
 ------------------------------------------------------------------------
 
-[Next: Details of the Shaker Societies](csus17)
+[Next: Details of the Shaker Societies](csus17.md)

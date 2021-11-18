@@ -1,4 +1,4 @@
-# [Intangible Textual Heritage Site Map](index)
+# [Intangible Textual Heritage Site Map](index.md)
 
 <table data-border="0" data-cellpadding="3px" data-cellspacing="8px" data-align="CENTER">
 <colgroup>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi244)  [Next](mtsi246) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi244)  [Next](mtsi246.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,8 +9,8 @@ American](../../index)  [Southeast](../index)  [Index](index) 
 
 Opossum used to have a bushy tail. Skunk's tail was slender and bare,
 and Opossum saw it and laughed at him. Traveling along behind him he
-said, "Skunk's tail is ~~l~~ōfga; <span id="fr_62"></span>[2](#fn_62) my
-tail is wåtålwåtål." <span id="fr_63"></span>[3](#fn_63) Then Skunk
+said, "Skunk's tail is ~~l~~ōfga; <span id="fr_62"></span>[2](#fn_62.md) my
+tail is wåtålwåtål." <span id="fr_63"></span>[3](#fn_63.md) Then Skunk
 became angry, but he did not know what he could do about it. After they
 had traveled a considerable time he said, "I wish I could clip your
 tail." So he hunted up his friend Cricket, and talked to him. "Opossum
@@ -23,12 +23,12 @@ his mouth open and drools.
 
 ### Footnotes
 
-<span id="fn_62"></span>[200:2](mtsi245.htm#fr_62) Probably a Creek word
+<span id="fn_62"></span>[200:2](mtsi245.htm#fr_62.md) Probably a Creek word
 meaning "scraped."
 
-<span id="fn_63"></span>[200:3](mtsi245.htm#fr_63) Said to be in the
+<span id="fn_63"></span>[200:3](mtsi245.htm#fr_63.md) Said to be in the
 Opossum language.
 
 ------------------------------------------------------------------------
 
-[Next: 46. Panther and Rattlesnake](mtsi246)
+[Next: 46. Panther and Rattlesnake](mtsi246.md)

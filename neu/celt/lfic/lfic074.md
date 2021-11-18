@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic073)  [Next](lfic075) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic073)  [Next](lfic075.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ its Danaan patron, Mananan, son of Lir.
 
 ------------------------------------------------------------------------
 
-[Next: Killarney](lfic075)
+[Next: Killarney](lfic075.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](meg04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](meg04.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -330,7 +330,7 @@ should reach the half of my age. Said he to him: Rabbi, and not your
 whole age? Do you not wish I should live as long as you? He replied to
 him: And what will your sons do? will they tend sheep? If you will live
 so long, you will survive them (Rabbi was a Nasi). The disciples of R.
-Adda bar Ahba <span id="fr_50"></span>[1](#fn_40) asked him: Why have
+Adda bar Ahba <span id="fr_50"></span>[1](#fn_40.md) asked him: Why have
 you lived so long? He answered: I never was angry in my house, I never
 preceded a superior, I never thought of Divine subjects in unclean
 alleys, and I never walked four ells without thinking about the Law and
@@ -586,7 +586,7 @@ prevails that the main attention must be given to the first of the
 month, not to Hanuka.
 
 It was taught: When the Sabbath of Shekalim falls when the portion
-proper to this Sabbath is Thetzaveh <span id="fr_51"></span>[1](#fn_41)
+proper to this Sabbath is Thetzaveh <span id="fr_51"></span>[1](#fn_41.md)
 \[Ex. xxvii. 20\], said R. Itz'hak of Naph'ha: Six persons should read
 from verse 20 of xxvii. to verse 11 of xxx., and one from verse 11 in
 xxx. to verse 17. Said Abayi: The people will think the portion is so
@@ -663,7 +663,7 @@ meant? R. Ami says: To the order of the portions usually read on each
 Sabbath; and R. Jeremiah says, to the order of the portions from the
 Prophets (because on these four Sabbaths the portions from the Prophets
 were different). Said Abayi: It seems to us it should be as R. Ami said,
-as the Mishna stated above ([p. 81](#page_81)) agrees with his opinion.
+as the Mishna stated above ([p. 81](#page_81).md) agrees with his opinion.
 
 MISHNA: On the first day of Passover the portion in Leviticus relating
 to the festival must be read; on Pentecost that commencing "Seven weeks
@@ -866,7 +866,7 @@ scholars are in one town, that contradict themselves in Halakha, to them
 is the above verse applied.
 
 Said R. Pornach in the name of R. Johanan: Who handled the Holy Scrolls,
-while naked, <span id="fr_52"></span>[1](#fn_42) *will be buried naked*.
+while naked, <span id="fr_52"></span>[1](#fn_42.md) *will be buried naked*.
 Said R.
 
 <span id="page_90">p. 90</span>
@@ -887,16 +887,16 @@ END OF TRACT MEGILLA.
 
 ### Footnotes
 
-<span id="fn_40"></span>[77:1](meg05.htm#fr_50) In text it is written R.
+<span id="fn_40"></span>[77:1](meg05.htm#fr_50.md) In text it is written R.
 Zera, but it is a misprint. See Taanith, p. 54.
 
-<span id="fn_41"></span>[83:1](meg05.htm#fr_51) In Babylon they read
+<span id="fn_41"></span>[83:1](meg05.htm#fr_51.md) In Babylon they read
 through the Pentateuch once a year, as we do now; in Palestine, once in
 three years. This question applies to both; it can happen in both that
 the portion of Thetzaveh before that of Shekalim can come to have to be
 read when Shekalim should be.
 
-<span id="fn_42"></span>[89:1](meg05.htm#fr_52) According to Rashi, it
+<span id="fn_42"></span>[89:1](meg05.htm#fr_52.md) According to Rashi, it
 applies to the scrolls; Mordchai Plungian, however, in his "Alphai
 Menashe," interprets it in the name of Menashe of Ila that it applies to
 the man, which seems to be more correct, though he was persecuted for

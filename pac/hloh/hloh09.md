@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hloh08)  [Next](hloh10) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hloh08)  [Next](hloh10.md) 
 
 ------------------------------------------------------------------------
 
@@ -160,4 +160,4 @@ to locate water springs as a gift from the gods.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The Water of Life of Ka-ne](hloh10)
+[Next: VI. The Water of Life of Ka-ne](hloh10.md)

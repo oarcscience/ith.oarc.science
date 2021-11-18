@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo88)  [Next](hoo90) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo88)  [Next](hoo90.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ And save thy mystics in their works divine.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXV: To the Divinity of Dreams](hoo90)
+[Next: LXXXV: To the Divinity of Dreams](hoo90.md)

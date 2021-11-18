@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn13)  [Next](rmn15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn13)  [Next](rmn15.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,9 +28,9 @@ its gestures seem too indicate modesty.
 Sometimes the ancients made use of certain *drillopotæ*, made of glass
 these were called *phallovitroboli*, or *phalloveretroboli*,
 drinking-glasses in the form of phalluses. <span
-id="fr_19"></span>[1](#fn_19) Juvenal says: "He drinks from a Priapeian
-glass;" <span id="fr_20"></span>[2](#fn_20) and the commentator adds:
-"Glass [phalluses](errata.htm#2) called *drillopotæ*."
+id="fr_19"></span>[1](#fn_19.md) Juvenal says: "He drinks from a Priapeian
+glass;" <span id="fr_20"></span>[2](#fn_20.md) and the commentator adds:
+"Glass [phalluses](errata.htm#2.md) called *drillopotæ*."
 
 The present vase is seen full and side-face; it will be remarked that
 the upper part has no opening, whence it appears that the vessel was
@@ -46,10 +46,10 @@ description of them.
 
 ### Footnotes
 
-<span id="fn_19"></span>[29:1](rmn14.htm#fr_19) PLINY, xxxiii. 1.
+<span id="fn_19"></span>[29:1](rmn14.htm#fr_19.md) PLINY, xxxiii. 1.
 
-<span id="fn_20"></span>[29:2](rmn14.htm#fr_20) JUVENAL, *Sat*. ii. 95.
+<span id="fn_20"></span>[29:2](rmn14.htm#fr_20.md) JUVENAL, *Sat*. ii. 95.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XIV: Dancer to the Crotalum](rmn15)
+[Next: Plate XIV: Dancer to the Crotalum](rmn15.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr02) 
-[Next](idr04) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr02.md) 
+[Next](idr04.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ in Erin?
 
 ------------------------------------------------------------------------
 
-[Next: Welsh Or British Druidism](idr04)
+[Next: Welsh Or British Druidism](idr04.md)

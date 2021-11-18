@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](taf29)  [Next](taf31) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](taf29)  [Next](taf31.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,7 +75,7 @@ Ignorance <span id="img_15203"></span> ![](img/15203.jpg) *wu ming*,
 birth-and-death.
 
 Intellectual hindrance <span id="img_15204"></span> ![](img/15204.jpg)
-*so chih chang*, [*jñeyâvarana*](errata.htm#25), the hindrance to the
+*so chih chang*, [*jñeyâvarana*](errata.htm#25.md), the hindrance to the
 attainment of Nirvâna, which arises from intellectual prejudices.
 
 Interrelated defilement <span id="img_15205"></span> ![](img/15205.jpg)
@@ -100,7 +100,7 @@ denote a state of suchness in its operation or evolution.
 
 Negation, or emptiness <span id="img_15209"></span> ![](img/15209.jpg)
 *k‘ung*, *çûnyatâ*, an aspect of suchness as transcending all forms of
-[relativity](errata.htm#26).
+[relativity](errata.htm#26.md).
 
 Nirvâna <span id="img_15210"></span> ![](img/15210.jpg) *nieh p‘an*, the
 recognition of the truth or suchness.
@@ -175,4 +175,4 @@ world.
 
 ------------------------------------------------------------------------
 
-[Next: Corrigenda](taf31)
+[Next: Corrigenda](taf31.md)

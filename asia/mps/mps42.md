@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps41) 
-[Next](mps43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](mps41.md) 
+[Next](mps43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0947593438/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ I should be full of regret; either I would cast myself down from the
 rock or slay myself with a knife.
 
 <span class="margnote"><span id="1279">1279</span></span>"By thy sun
-(life)! thy moon <span id="fr_36"></span>[1](#fn_35) will fall to the
+(life)! thy moon <span id="fr_36"></span>[1](#fn_35.md) will fall to the
 lot of none save thee! By thy sun! to none shall she
 
 <span id="page_208">p. 208</span>
@@ -181,9 +181,9 @@ brother, to P’hridon."
 
 ### Footnotes
 
-<span id="fn_35"></span>[207:1](mps42.htm#fr_36) "I, Nestan, thy
+<span id="fn_35"></span>[207:1](mps42.htm#fr_36.md) "I, Nestan, thy
 satellite."
 
 ------------------------------------------------------------------------
 
-[Next: XL. Avt’handil's Letter to P’hridon](mps43)
+[Next: XL. Avt’handil's Letter to P’hridon](mps43.md)

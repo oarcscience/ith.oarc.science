@@ -1,26 +1,26 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](yat08)  [Next](yat10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](yat08)  [Next](yat10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EQALSY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yana Texts*, by Edward Sapir, \[1910\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### VII. COYOTE AND HIS SISTER. <span id="fr_50"></span>[152](#fn_48)
+### VII. COYOTE AND HIS SISTER. <span id="fr_50"></span>[152](#fn_48.md)
 
 <span id="page_103">p. 103</span>
 
 Coyote was dwelling at Ha'udulilmauna. <span
-id="fr_51"></span>[153](#fn_49) Coyote was living there alone with his
+id="fr_51"></span>[153](#fn_49.md) Coyote was living there alone with his
 sister. His sister pounded acorns, while Coyote went out to hunt small
 game. When it was dark Coyote came back home from hunting. The woman
 soaked acorns at a small creek to the south. In the morning Coyote went
@@ -52,9 +52,9 @@ Coyote. Coyote Woman had gone out to fetch water and stood right there.
 door! Lie down yonder on the north! You might be hurting your cheek if I
 step on you." "?En" groaned Coyote with (pretended) pain. "Step over me,
 take your water. Step over me, sister." <span
-id="fr_52"></span>[154](#fn_50) The woman did so, stepped over him.
+id="fr_52"></span>[154](#fn_50.md) The woman did so, stepped over him.
 Coyote was lying on his back and yelped (when she stepped over
-him). <span id="fr_53"></span>[155](#fn_51) "M‘!" said the woman. "You
+him). <span id="fr_53"></span>[155](#fn_51.md) "M‘!" said the woman. "You
 see, why did you do that, not lying away from the door? I told you that
 your cheek would be hurt." She pounded acorns, and soaked them in a
 small creek to the south. Coyote Woman came back into the house,
@@ -72,7 +72,7 @@ I shall tell you," said Coyote. "When the eastern people come they will
 have their faces blackened with black pitch. All those eastern people
 will be that way, having their faces blackened, and all of them will
 have faces that are quite black. When yon see the Yā'?wi <span
-id="fr_54"></span>[156](#fn_52) people, (you will notice that) the
+id="fr_54"></span>[156](#fn_52) people, (you will notice that.md) the
 Yā'?wi chief will be very tall and will talk loudly as dance leader."
 The woman listened with lowered head. "Pray do not look at those eastern
 people, but do look at the Yā'?wi. When the chief shouts as leader, take
@@ -145,7 +145,7 @@ away. Coyote went out of the house, ran down hill to the south. He ran
 west along the creek, following his children. The little coyotes floated
 westwards in the water; he ran west, following them along the creek.
 They floated on till they arrived at Wī'tc‘uman?na, <span
-id="fr_55"></span>[157](#fn_53) he still running west along the creek.
+id="fr_55"></span>[157](#fn_53.md) he still running west along the creek.
 Coyote had run west ahead of his children. He made a fish trap, twining
 it out of willow. He placed it in the water. There was Coyote, while the
 little coyotes came floating in the water from the east. They floated
@@ -160,7 +160,7 @@ into the water. The little coyotes came floating in the water from the
 east, floated west past it. "Hê!" said Coyote, "get up out of the water,
 boys, and get something to eat for yourselves." They floated west,
 floated till they arrived there at Hamā'damtc!i. <span
-id="fr_56"></span>[158](#fn_54) "Get up out of the water, boys." They
+id="fr_56"></span>[158](#fn_54.md) "Get up out of the water, boys." They
 did so, came up out of the water. They were now grown up young men.
 "Start off south for the hills across the plain." The young coyotes did
 so, scampered about in every direction to look for gophers, jumping on
@@ -171,16 +171,16 @@ leaving his boys behind him.
 
 Coyote went north and turned east, leaving Clover creek to the north. He
 went east to Bagat?didja'myak!aina, <span
-id="fr_57"></span>[159](#fn_55) that far he went. Coming up from the
+id="fr_57"></span>[159](#fn_55.md) that far he went. Coming up from the
 west, Coyote had an otter-skin quiver, and very good was the flint in
 his quiver. He had white feathers and put them into a net-cap, an
 eagle's white breast and leg feathers he put into the net-cap. <span
-id="fr_58"></span>[160](#fn_56) Coyote did not have merely arrow shafts
+id="fr_58"></span>[160](#fn_56.md) Coyote did not have merely arrow shafts
 put under his arm, these were all provided with flint arrowheads. Frost
 came from the east. Frost also had a net-cap filled with white feathers,
 he had his feathers made of snow. Very pretty were Frost's white
 feathers. Frost was going west, Coyote was going east; they met each
-other at Ganu'myā. <span id="fr_59"></span>[161](#fn_57) "Hu!" panted
+other at Ganu'myā. <span id="fr_59"></span>[161](#fn_57.md) "Hu!" panted
 Coyote. Coyote sat down, Frost
 
 <span id="page_108">p. 108</span>
@@ -224,7 +224,7 @@ until he arrived at Ha'udulilmauna.
 
 Crow said, "I shall hunt deer." The people camped out to hunt, all the
 women camped out. They went out till they settled down to camp at
-Luwa'iha; <span id="fr_60"></span>[169](#fn_58) the men were out hunting
+Luwa'iha; <span id="fr_60"></span>[169](#fn_58.md) the men were out hunting
 deer. Coyote was married to Mountain-Quail Woman, a young woman. Coyote
 said, "I do not want to have you camping out with me. It shall be my
 mother-in-law who will camp out with me. You stay home!" said Coyote. "I
@@ -265,7 +265,7 @@ over your place of sleeping, son-in-law! Why should it leak?" (Coyote
 had said to himself,) "I wish that her part of the house should not
 leak!" "Your place of sleeping does not leak," (said Coyote). "I should
 like that we sleep together with heads and bodies averted from each
-other, mother-in-law!" <span id="fr_61"></span>[170](#fn_59)
+other, mother-in-law!" <span id="fr_61"></span>[170](#fn_59.md)
 
 <span id="page_114">p. 114</span>
 
@@ -298,19 +298,19 @@ home. "Husband! Do not call me mother-in-law!" (she said to Coyote).
 Mountain-Quail Woman was pregnant. "So that is why you told me to go out
 camping with yourself! You intended to act in that way!" Mountain Quail
 Woman threw the children into the water but Coyote did not follow his
-children. <span id="fr_62"></span>[171](#fn_60)
+children. <span id="fr_62"></span>[171](#fn_60.md)
 
 <span id="page_115">p. 115</span>
 
-### IX. THE ROLLING SKULL.  <span id="fr_63"></span>[191](#fn_61)
+### IX. THE ROLLING SKULL.  <span id="fr_63"></span>[191](#fn_61.md)
 
 <span id="page_123">p. 123</span>
 
 Many were the people dwelling at Unte'unaha. <span
-id="fr_64"></span>[192](#fn_62) Wildcat's wife was pregnant and he had a
+id="fr_64"></span>[192](#fn_62.md) Wildcat's wife was pregnant and he had a
 child born to him. The woman gave birth to a child; Wildcat did not go
 to hunt deer, for his wife had a child. <span
-id="fr_65"></span>[193](#fn_63) Wildcat said, "Let us go to get pine
+id="fr_65"></span>[193](#fn_63.md) Wildcat said, "Let us go to get pine
 nuts. We can do no other work now than to go to get pine nuts. And dress
 up your child!"
 
@@ -350,7 +350,7 @@ afraid," said the woman.
 "Indeed!" said the people. "Let us run off to save ourselves. He might
 cause us all to die." The people did so, and started off to run for
 safety, running off to the south. They all went into the sweathouse at
-Wamā'rawi, <span id="fr_66"></span>[194](#fn_64) and put a sandstone
+Wamā'rawi, <span id="fr_66"></span>[194](#fn_64.md) and put a sandstone
 rock on the roof to keep others out. The people filled the house,
 children, women, and men. Wildcat was saying, "Hū!" but the woman did
 not answer him. Wildcat's skull came bounding down, bounded down to the
@@ -368,12 +368,12 @@ their tracks which they had made in moving to the south. "Am! I shall
 find you," said he, as he bounded off to the south. He cut bottom-oaks
 down one after another, he cut the brush down. He bounded on to the
 rocks, and burst them to pieces. He bounded south to
-P‘u'ls\*u?aina, <span id="fr_67"></span>[195](#fn_65) rolling along to
+P‘u'ls\*u?aina, <span id="fr_67"></span>[195](#fn_65.md) rolling along to
 the west, a human skull. He was like a strong wind, thus he was as he
-went along. <span id="fr_68"></span>[196](#fn_66)
+went along. <span id="fr_68"></span>[196](#fn_66.md)
 
 He bounded up hill to the south to ‘Ô'djinimauna, <span
-id="fr_69"></span>[197](#fn_67) following the people's tracks. He
+id="fr_69"></span>[197](#fn_67.md) following the people's tracks. He
 bounded on until he arrived at Wamā'rawi. "Let me in, you people, I want
 to enter," said the human skull. "Don't say anything," (they whispered
 to one another). "Don't let him in," said the people. He was not allowed
@@ -412,21 +412,21 @@ He bounded back to the north, rushed back as far as Old Cow creek. He
 arrived rushing back at what had been his house. "Whither, now, shall I
 go?" He bounded north and met some people. He killed the people and went
 on rushing to the north. He rushed down hill to the north at
-Djit‘p‘ama'uwitc‘u. <span id="fr_70"></span>[198](#fn_68) He killed ten
+Djit‘p‘ama'uwitc‘u. <span id="fr_70"></span>[198](#fn_68.md) He killed ten
 people, and went rushing up hill to the north. He was heard coming by
 all the people, rushing along, acting like a wind, as he came rushing
 on. He rushed on as far as K!ā's\*ip!u. <span
-id="fr_71"></span>[199](#fn_69)
+id="fr_71"></span>[199](#fn_69.md)
 
 Coyote was coming from the north at I‘da'lmadu. <span
-id="fr_72"></span>[200](#fn_70) Coyote had on an elk-skin belt and
+id="fr_72"></span>[200](#fn_70.md) Coyote had on an elk-skin belt and
 carried a quiver of otter-skin. Coyote stood there, listening, listened
 down on the ground. "That must be the human skull," said Coyote. He was
 coming from the north. "I am going to meet him," said Coyote in his
 heart. "I do not think that I shall be killed. I hear that he is killing
 the people." The human skull came rushing down hill from the south;
 Coyote on his part was coming from the north. Coyote stood still right
-there at Djêwint‘a'urik!u. <span id="fr_73"></span>[201](#fn_71) "Heh!
+there at Djêwint‘a'urik!u. <span id="fr_73"></span>[201](#fn_71.md) "Heh!
 What shall I do?" He took off his belt, and hid his otter-skin quiver
 
 <span id="page_127">p. 127</span>
@@ -492,98 +492,98 @@ west, going back to the north.
 
 ### Footnotes
 
-<span id="fn_48"></span>[93:152](yat09.htm#fr_50) This myth consists of
+<span id="fn_48"></span>[93:152](yat09.htm#fr_50.md) This myth consists of
 two quite unconnected episodes, Coyote's rape of his sister and his
 deception by Frost. The former of these episodes bears a resemblance to
 Betty Brown's story of "Coyote, Heron, and Lizard" (no. XII), except
 that in the latter it is Coyote who is deceived by his wife.
 
-<span id="fn_49"></span>[103:153](yat09.htm#fr_51) An Indian village at
+<span id="fn_49"></span>[103:153](yat09.htm#fr_51.md) An Indian village at
 a mountain, said to be named "Black Mountain," situated about two miles
 up from Wī'tc‘uman?na (see note 103).
 
-<span id="fn_50"></span>[104:154](yat09.htm#fr_52) Coyote wished to see
+<span id="fn_50"></span>[104:154](yat09.htm#fr_52.md) Coyote wished to see
 his sister's private parts.
 
-<span id="fn_51"></span>[104:155](yat09.htm#fr_53) Pretendedly with
+<span id="fn_51"></span>[104:155](yat09.htm#fr_53.md) Pretendedly with
 pain, really with lust.
 
-<span id="fn_52"></span>[104:156](yat09.htm#fr_54) The Yana name for the
+<span id="fn_52"></span>[104:156](yat09.htm#fr_54.md) The Yana name for the
 Wintun.
 
-<span id="fn_53"></span>[106:157](yat09.htm#fr_55) See note 103.
+<span id="fn_53"></span>[106:157](yat09.htm#fr_55.md) See note 103.
 
-<span id="fn_54"></span>[107:158](yat09.htm#fr_56) An Indian village at
+<span id="fn_54"></span>[107:158](yat09.htm#fr_56.md) An Indian village at
 the present hamlet of Millville, not far from the confluence of Cow
 creek and Clover creek.
 
-<span id="fn_55"></span>[107:159](yat09.htm#fr_57) A point near the
+<span id="fn_55"></span>[107:159](yat09.htm#fr_57.md) A point near the
 present Basin Hollow, between Cow creek and Clover creek, formerly a
 favorable spot for the gathering of roots, seeds, and clover and the
 burning out of grasshoppers. It took its name (see note 146) from a hill
 with big sandstone boulders on the summit.
 
-<span id="fn_56"></span>[107:160](yat09.htm#fr_58) The yô'l?aiyauna, a
+<span id="fn_56"></span>[107:160](yat09.htm#fr_58.md) The yô'l?aiyauna, a
 sort of white war bonnet, consisted of the white breast and leg feathers
 of the eagle loosely filled, like down, into a net worn on the head
 (tc!a'iwānu, larger than the ordinary k!a'‘di, "net-cap"). The net
 itself was not visible, as it was entirely covered by the white
 feathers.
 
-<span id="fn_57"></span>[107:161](yat09.htm#fr_59) The present Basin
+<span id="fn_57"></span>[107:161](yat09.htm#fr_59.md) The present Basin
 Hollow in Clover Creek Valley. It was a waha'iri?mauna, "resting place,"
 at which it was considered good luck for traveling parties to stop.
 
-<span id="fn_58"></span>[112:169](yat09.htm#fr_60) An Indian village on
+<span id="fn_58"></span>[112:169](yat09.htm#fr_60.md) An Indian village on
 Old Cow creek about twenty-five miles east of Millville.
 
-<span id="fn_59"></span>[113:170](yat09.htm#fr_61) Avowedly for reasons
+<span id="fn_59"></span>[113:170](yat09.htm#fr_61.md) Avowedly for reasons
 of modesty.
 
-<span id="fn_60"></span>[114:171](yat09.htm#fr_62) An implied reference
+<span id="fn_60"></span>[114:171](yat09.htm#fr_62.md) An implied reference
 to the preceding story (no. vii).
 
-<span id="fn_61"></span>[115:191](yat09.htm#fr_63) This myth is
+<span id="fn_61"></span>[115:191](yat09.htm#fr_63.md) This myth is
 practically identical with Curtin's "Hitchinna" (op. cit., pp. 325-35);
 Hitchinna, "wildcat," corresponds to ‘itc!i'nna, Metsi, "coyote," is
 me'ts\*!i, Patokya, "skull people," is p‘u't!uk!uyā. cf. also Dixon, op.
 cit., pp. 97-8, and no. XXIII of this paper.
 
-<span id="fn_62"></span>[123:192](yat09.htm#fr_64) An Indian village
+<span id="fn_62"></span>[123:192](yat09.htm#fr_64.md) An Indian village
 located on a plain between the upper courses of Old Cow creek and Clover
 creek, at a distance of about fifteen miles south of Round Mountain.
 There was said to be an abundance of flint in the neighborhood.
 
-<span id="fn_63"></span>[123:193](yat09.htm#fr_65) See note .101.
+<span id="fn_63"></span>[123:193](yat09.htm#fr_65.md) See note .101.
 
-<span id="fn_64"></span>[124:194](yat09.htm#fr_66) See note 111.
+<span id="fn_64"></span>[124:194](yat09.htm#fr_66.md) See note 111.
 
-<span id="fn_65"></span>[125:195](yat09.htm#fr_67) An Indian village on
+<span id="fn_65"></span>[125:195](yat09.htm#fr_67.md) An Indian village on
 the present "Tamarack Road," near Ba'n?xa. See note 107. P‘u'ls\*u?aina
 means "red clay."
 
-<span id="fn_66"></span>[125:196](yat09.htm#fr_68) Sam Bat‘wī said that
+<span id="fn_66"></span>[125:196](yat09.htm#fr_68.md) Sam Bat‘wī said that
 when the older Indians first saw the trolley cars of the whites, they
 compared them with the wildly rushing P‘u't!uk!uyā' or Human Skull.
 
-<span id="fn_67"></span>[125:197](yat09.htm#fr_69) An Indian village on
+<span id="fn_67"></span>[125:197](yat09.htm#fr_69.md) An Indian village on
 the upper course of Bear creek.
 
-<span id="fn_68"></span>[126:198](yat09.htm#fr_70) An Indian village on
+<span id="fn_68"></span>[126:198](yat09.htm#fr_70.md) An Indian village on
 the south bank of Cedar creek, near the Bullskin Ridge.
 
-<span id="fn_69"></span>[126:199](yat09.htm#fr_71) An Indian village
+<span id="fn_69"></span>[126:199](yat09.htm#fr_71.md) An Indian village
 situated on a hill a short distance south of the present Buzzard's Roost
 (Round Mountain).
 
-<span id="fn_70"></span>[126:200](yat09.htm#fr_72) A rocky spot with
+<span id="fn_70"></span>[126:200](yat09.htm#fr_72.md) A rocky spot with
 small creek just north of the present stage station situated about a
 mile and a half south of Montgomery creek.
 
-<span id="fn_71"></span>[126:201](yat09.htm#fr_73) An Indian village
+<span id="fn_71"></span>[126:201](yat09.htm#fr_73.md) An Indian village
 about two or three miles north of the present hamlet of Buzzard's Roost
 or Round Mountain.
 
 ------------------------------------------------------------------------
 
-[Next: X. Coyote, Pine Marten, and Loon](yat10)
+[Next: X. Coyote, Pine Marten, and Loon](yat10.md)

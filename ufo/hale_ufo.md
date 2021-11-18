@@ -154,4 +154,4 @@ them reveal themselves to humanity at large, to our scientists, and to me.
 
 ------------------------------------------------------------------------
 
-[Next: Hanger 19](hanger18)
+[Next: Hanger 19](hanger18.md)

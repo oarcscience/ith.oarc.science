@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](hgg00)  [Next](hgg02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](hgg00)  [Next](hgg02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ the Minim? For three things the Holy One, blessed be He, weeps every
 day. What happened to Rabbi and R. Hyya while on the road with the blind
 scholar, and his beautiful blessings. The law as to minority, and at
 what age a child is exempt from this condition,
-[1](hgg02.htm#page_1)-[13](hgg02.htm#page_13)
+[1](hgg02.htm#page_1)-[13](hgg02.htm#page_13.md)
 
 MISHNAS II. to V. The law regarding the offerings which may or may not
 be brought from the money of the second-tithe. Peace-offerings and
@@ -43,7 +43,7 @@ Elijah to Ben Hei Hei regarding the passage cf. Is. xlviii. 10. About a
 scholar who has separated himself from the Law. The laws about the
 dissolving of vows hang in the air, and which laws are suspended by a
 hair, and which of them are the essential parts of the Law,
-[13](hgg02.htm#page_13)-[20](hgg02.htm#page_20)
+[13](hgg02.htm#page_13)-[20](hgg02.htm#page_20.md)
 
 ### CHAPTER II.
 
@@ -73,13 +73,13 @@ questioned Elijah, and his answer. What R. Jehudah questioned Samuel
 about the world to come, and what the latter rejoined. Nimus of Gardi
 and R. Meir (see note). The six things regarding the demons. Every one
 who gazes upon three things, his eyes grow weak,
-[21](hgg03.htm#page_21)-[38](hgg03.htm#page_38)
+[21](hgg03.htm#page_21)-[38](hgg03.htm#page_38.md)
 
 MISHNAS II. to IV. The difference of opinions concerning the princes and
 the chiefs of courts. About the law of laying the hand on the offers on
 a festival, Which is the feast in which thou makest proclamation and
 reapest? About the garments of a common person which are defiled by
-pressure for Pharisees, [38](hgg03.htm#page_38)-[43](hgg03.htm#page_43)
+pressure for Pharisees, [38](hgg03.htm#page_38)-[43](hgg03.htm#page_43.md)
 
 ### CHAPTER III.
 
@@ -89,9 +89,9 @@ in Galilee as to which of the inhabitants are trusted and which are not.
 About the salamander and the fire of Gehenna, and that the fire of
 Gehenna will not affect the sinners of Israel, who are full of merit as
 a pomegranate is full of seed,
-[44](hgg04.htm#page_44)-[54](hgg04.htm#page_54)
+[44](hgg04.htm#page_44)-[54](hgg04.htm#page_54.md)
 
 ------------------------------------------------------------------------
 
 [Next: Chapter I: Regulations Concerning the Holocaust, and the
-Appointed Time for the Peace-Offering](hgg02)
+Appointed Time for the Peace-Offering](hgg02.md)

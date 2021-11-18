@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index)  [Index](index)  [English](aen04) 
-[Previous](aenl03)  [Next](aenl05) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index)  [Index](index)  [English](aen04.md) 
+[Previous](aenl03)  [Next](aenl05.md) 
 
 ------------------------------------------------------------------------
 
@@ -744,4 +744,4 @@ dilapsus calor atque in uentos uita recessit.
 >
 > ------------------------------------------------------------------------
 >
-> [Next: Book V](aenl05)
+> [Next: Book V](aenl05.md)

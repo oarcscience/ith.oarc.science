@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cog00)  [Next](cog02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cog00)  [Next](cog02.md) 
 
 ------------------------------------------------------------------------
 
@@ -1872,4 +1872,4 @@ and kissed them good-bye.
 
 ------------------------------------------------------------------------
 
-[Next: Book 2--The Philosophers Journey](cog02)
+[Next: Book 2--The Philosophers Journey](cog02.md)

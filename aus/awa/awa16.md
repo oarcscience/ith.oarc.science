@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa15)  [Next](awa17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa15)  [Next](awa17.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ aboriginal friends with the Lost Tribes!
 
 ------------------------------------------------------------------------
 
-[Next: Boomerangs](awa17)
+[Next: Boomerangs](awa17.md)

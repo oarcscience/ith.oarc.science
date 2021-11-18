@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](lrb01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](lrb01.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,19 +33,19 @@ Sagas](../../index)  [Celtic](../index)  [Index](index)  [Next](lrb01) 
 <span id="img_front"></span>
 
 [![GRAELENT AND THE FAIRY-WOMAN](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 GRAELENT AND THE FAIRY-WOMAN  
 
 <span id="img_cover"></span>
 
 [![Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Cover  
 
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 NOTES ON TRANSCRIPTION: In the original book all titles and subheadings
@@ -62,4 +62,4 @@ GREAT BRITAIN
 
 ------------------------------------------------------------------------
 
-[Next: Preface](lrb01)
+[Next: Preface](lrb01.md)

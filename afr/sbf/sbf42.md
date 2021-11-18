@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf41)  [Next](sbf43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf41)  [Next](sbf43.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -56,6 +56,6 @@ arise." (They had been lying down, or, as the narrator expressed it,
 
 ------------------------------------------------------------------------
 
-[Next: Habits Of The Bat And The Porcupine.](sbf43)
+[Next: Habits Of The Bat And The Porcupine.](sbf43.md)
 
 </div>

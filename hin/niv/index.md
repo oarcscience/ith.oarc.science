@@ -9,8 +9,8 @@ alttext1: "Sister Nivedita (Public Domain Image)"
 titleh1: "The Writings of Sister Nivedita (Margaret E. Noble)"
 ---
 <span class="c_e"><span class="c_t">[Kali the
-Mother](../ktm/index)</span> \[<span class="c_d">1900</span>\]</span>  
+Mother](../ktm/index.md)</span> \[<span class="c_d">1900</span>\]</span>  
 <span class="c_e"><span class="c_t">[The Web of Indian
-Life](../wil/index)</span> \[<span class="c_d">1904</span>\]</span>  
+Life](../wil/index.md)</span> \[<span class="c_d">1904</span>\]</span>  
 <span class="c_e"><span class="c_t">[Studies from an Eastern
-Home](../seh/index)</span> \[<span class="c_d">1913</span>\]</span>  
+Home](../seh/index.md)</span> \[<span class="c_d">1913</span>\]</span>  

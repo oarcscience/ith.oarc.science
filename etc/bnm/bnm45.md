@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm44)  [Next](bnm46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm44)  [Next](bnm46.md) 
 
 ------------------------------------------------------------------------
 
@@ -93,4 +93,4 @@ flow first one way and then the other.
 
 ------------------------------------------------------------------------
 
-[Next: How The Raven Helped Men.](bnm46)
+[Next: How The Raven Helped Men.](bnm46.md)

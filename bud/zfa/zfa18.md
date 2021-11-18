@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa17)  [Next](zfa19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa17)  [Next](zfa19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Heritage
 
 <span id="page_170">p. 170</span>
 
-### BUDDHISM AND ORIENTAL CULTURE <span id="fr_37"></span>[1](#fn_37)
+### BUDDHISM AND ORIENTAL CULTURE <span id="fr_37"></span>[1](#fn_37.md)
 
 ONE of the features peculiar to Buddhism and which appeals most
 powerfully to Oriental imagination is that man's life is not limited to
@@ -150,7 +150,7 @@ utterance he put this in verse: "Though I may die here while executing
 this work, I will come back seven times over and again to discharge my
 duties for my country. I have nothing to fear, nothing to desire at the
 present moment. Calmly and smilingly I embark on this fated boat." <span
-id="fr_38"></span>[1](#fn_38) Can we not say here that the idea which
+id="fr_38"></span>[1](#fn_38.md) Can we not say here that the idea which
 was our long deceased hero himself, found its conscious expression in
 this brave Commander? Those who fell in the field and on the water were
 equally his incarnations, only with this difference that the former gave
@@ -327,11 +327,11 @@ meeting with each other.
 
 ### Footnotes
 
-<span id="fn_37"></span>[170:1](zfa18.htm#fr_37) Address at the George
+<span id="fn_37"></span>[170:1](zfa18.htm#fr_37.md) Address at the George
 Washington University, April, 1906.
 
-<span id="fn_38"></span>[175:1](zfa18.htm#fr_38) From memory.
+<span id="fn_38"></span>[175:1](zfa18.htm#fr_38.md) From memory.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Deer Park](zfa19)
+[Next: The Story of Deer Park](zfa19.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes08)  [Next](tes10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes08)  [Next](tes10.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ of Kolyma, winter of 1895.
 
 ------------------------------------------------------------------------
 
-[Next: 7. Tale About Three Storks](tes10)
+[Next: 7. Tale About Three Storks](tes10.md)

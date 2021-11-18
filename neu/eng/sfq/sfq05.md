@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq04)  [Next](sfq06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq04)  [Next](sfq06.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ you will win many others in like manner."
 
 ------------------------------------------------------------------------
 
-[Next: The Knight deceived by the Magician](sfq06)
+[Next: The Knight deceived by the Magician](sfq06.md)

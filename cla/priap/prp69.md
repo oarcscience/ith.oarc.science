@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp68)  [Next](prp70) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp68)  [Next](prp70.md) 
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ battle this day is without quarter.'\]
 
 ------------------------------------------------------------------------
 
-[Next: 70. When the fig's honied sweet thy taste shall catch](prp70)
+[Next: 70. When the fig's honied sweet thy taste shall catch](prp70.md)

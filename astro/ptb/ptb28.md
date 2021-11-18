@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb27)  [Next](ptb29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb27)  [Next](ptb29.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ clearly stated by writers on the subject, but is also especially evident
 by the demonstration constantly afforded, that their natures, influences
 and familiarities have no other origin than from the tropics and
 equinoxes, as has been already plainly shown. <span
-id="fr_70"></span>[1](#fn_70) And, if other beginnings were allowed, it
+id="fr_70"></span>[1](#fn_70.md) And, if other beginnings were allowed, it
 would either be necessary to exclude the natures of the signs from the
 theory of prognostication, or impossible to avoid error in then
 retaining and making use of them; as the regularity of their spaces and
@@ -43,10 +43,10 @@ broken in upon.
 
 ### Footnotes
 
-<span id="fn_70"></span>[37:1](ptb28.htm#fr_70) *Vide* Chapters xii and
+<span id="fn_70"></span>[37:1](ptb28.htm#fr_70.md) *Vide* Chapters xii and
 xiv of this Book.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVI. Faces, Chariots, and Other Similar Attributes of
-the Planets](ptb29)
+the Planets](ptb29.md)

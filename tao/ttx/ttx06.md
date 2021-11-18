@@ -1,10 +1,10 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx05) [Next](ttx07)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ttx05) [Next](ttx07.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_68">p. 68</span>
 
-# THE TA T‘UNG CHING.<span id="page_68_fr_*"></span>[\*](#page_68_note_*)
+# THE TA T‘UNG CHING.<span id="page_68_fr_*"></span>[\*](#page_68_note_*.md)
 
 ------------------------------------------------------------------------
 
@@ -14,9 +14,9 @@ Existence, it is incorporeal. But that which is incorporeal has never
 really been extant; wherefore such a thing may be said to be
 unthinkable. The inherent nature \[of man\] is quiescent; then his
 *mind* is within him.<span
-id="page_68_fr_dagger"></span>[†](#page_68_note_dagger) The mind \[of
+id="page_68_fr_dagger"></span>[†](#page_68_note_dagger.md) The mind \[of
 man\] is active; then his *nature* is within him.<span
-id="page_68_fr_ddagger"></span>[‡](#page_68_note_ddagger) When the mind
+id="page_68_fr_ddagger"></span>[‡](#page_68_note_ddagger.md) When the mind
 prevails, the inherent nature is annihilated; when the mind is
 annihilated, the inherent nature becomes manifested. Resembling
 emptiness, without external form, it is then pure and pellucid, perfect
@@ -32,7 +32,7 @@ ignores them all; he is not engulphed in the toils of the Six
 Despoilers; living in the dusty world, he is yet outside of it; he is
 not drawn into the transmutations of the myriad affinities. Being
 perfectly quiescent, he never moves; possessing perfect harmony,<span
-id="page_68_fr_sect"></span>[§](#page_68_note_sect) he never changes.
+id="page_68_fr_sect"></span>[§](#page_68_note_sect.md) he never changes.
 His wisdom reflects, as in a mirror, the entire Universe; his emptiness
 evolves inaction.
 
@@ -53,7 +53,7 @@ evolves inaction.
 
 ------------------------------------------------------------------------
 
-[Next](ttx07)
+[Next](ttx07.md)
 
 ------------------------------------------------------------------------
 
@@ -61,20 +61,20 @@ evolves inaction.
 
 <span id="footnotes_page_68">p. 68</span>
 
-<span id="page_68_note_*"></span>[\*](#page_68_fr_*) The most
+<span id="page_68_note_*"></span>[\*](#page_68_fr_*.md) The most
 superficial perusal of this essay will be found sufficient to detect the
 strong Buddhist influences to which the author was subjected. Its date
 is therefore probable later than the Han.
 
-<span id="page_68_note_dagger"></span>[†](#page_68_fr_dagger) That is,
+<span id="page_68_note_dagger"></span>[†](#page_68_fr_dagger.md) That is,
 while quiescence, which is the real nature of man, is in the ascendant,
 the mind remains inactive; it does not emerge from the interior.
 
-<span id="page_68_note_ddagger"></span>[‡](#page_68_fr_ddagger) When the
+<span id="page_68_note_ddagger"></span>[‡](#page_68_fr_ddagger.md) When the
 mind bursts forth in action, the inherent nature of man, being
 quiescent, takes no part in it, but remains tranquilly within.
 
-<span id="page_68_note_sect"></span>[§](#page_68_fr_sect) Harmony, in
+<span id="page_68_note_sect"></span>[§](#page_68_fr_sect.md) Harmony, in
 the sense that all his powers are held in *perfect equilibrium*; or,
 perhaps, in harmony with \#\#\#.
 

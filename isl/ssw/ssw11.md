@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](ssw10) 
-[Next](ssw12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](ssw10.md) 
+[Next](ssw12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sadi's Scroll of Wisdom*, by Arthur N. Wollaston, \[1906\], at
 Intangible Textual Heritage
 
@@ -23,7 +23,7 @@ Pride on the part of a wise man is not comely;
 Sad is such demeanour in the case of a prudent person.  
 Pride is the habit of the ignorant,  
 Pride doth not proceed from men of intelligence.  
-Pride caused the fall of Azazil, <span id="fr_7"></span>[1](#fn_7)  
+Pride caused the fall of Azazil, <span id="fr_7"></span>[1](#fn_7.md)  
 And led to his being ensnared in the prison of the accursed.  
 Whoever is by nature arrogant, <span id="page_37">p. 37</span>  
 His head is filled with pride beyond imagination.  
@@ -36,12 +36,12 @@ If thou actest thus, thou doest wrong.
 
 ### Footnotes
 
-<span id="fn_7"></span>[36:1](ssw11.htm#fr_7) Satan.
+<span id="fn_7"></span>[36:1](ssw11.htm#fr_7.md) Satan.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: On the Excellence of Learning](ssw12)
+[Next: On the Excellence of Learning](ssw12.md)
 
 </div>

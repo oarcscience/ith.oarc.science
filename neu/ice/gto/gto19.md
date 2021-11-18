@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto18)  [Next](gto20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto18)  [Next](gto20.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Sagas](../../index)  [Iceland](../index)  [Index](index) 
 <span id="img_08100"></span>
 
 [![GISLI SLIPS THROUGH BORK'S FINGERS.](tn/08100.jpg)  
-Click to enlarge](img/08100.jpg)  
+Click to enlarge](img/08100.jpg.md)  
 GISLI SLIPS THROUGH BORK'S FINGERS.  
 
  
@@ -186,4 +186,4 @@ the very first.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV. Thorkel's Slaying](gto20)
+[Next: Chapter XV. Thorkel's Slaying](gto20.md)

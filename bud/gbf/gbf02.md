@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Shinto](../../shi)  [Index](index)  [Previous](gbf01)  [Next](gbf03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Shinto](../../shi)  [Index](index)  [Previous](gbf01)  [Next](gbf03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F2GHE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F2GHE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gleaings in Buddha-Fields*, by Lafcadio Hearn, \[1897\], at Intangible
 Textual Heritage
 
@@ -640,4 +640,4 @@ say so much for your Western notions about the soul."
 
 ------------------------------------------------------------------------
 
-[Next: II. Out of the Street](gbf03)
+[Next: II. Out of the Street](gbf03.md)

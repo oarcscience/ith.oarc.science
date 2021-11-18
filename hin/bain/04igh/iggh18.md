@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh17) 
-[Next](iggh19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh17.md) 
+[Next](iggh19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -38,7 +38,7 @@ only by frivolity and the desire of selfish pleasure, evil and woe will
 be her doom. But if she has made her choice not obeying her own
 inebriation but rather spell-bound and appropriated by the master spirit
 of her true husband and the fatal moment <span
-id="fr_31"></span>[y](#fn_31) that brought her like a planet within his
+id="fr_31"></span>[y](#fn_31.md) that brought her like a planet within his
 grasp, then poor is her nature and feeble her devotion if she be not
 prepared to follow him blindfold, and take all that fate in his form may
 involve in her lot. For she that leaves all behind her and comes at the
@@ -84,7 +84,7 @@ that was never hers.
 
 ### Footnotes
 
-<span id="fn_31"></span>[60:y](iggh18.htm#fr_31) The Sanskrit word
+<span id="fn_31"></span>[60:y](iggh18.htm#fr_31.md) The Sanskrit word
 *lagna*, meaning an astrological moment of planetary conjunction, has
 become, in modern Maráthí, the common term for a marriage. It is, I
 believe, essential for a Hindoo marriage that the horoscopes of the
@@ -92,4 +92,4 @@ bride and groom should correspond.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. A God abashed](iggh19)
+[Next: XVI. A God abashed](iggh19.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Icelandic](../index)  [Index](index) 
-[Previous](lax14)  [Next](lax16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Icelandic](../index)  [Index](index.md) 
+[Previous](lax14)  [Next](lax16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434613038/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -121,4 +121,4 @@ journey until he got home, and was mightily ill at ease over his travel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI: Thord becomes Olaf's Foster Father, A.D. 945](lax16)
+[Next: Chapter XVI: Thord becomes Olaf's Foster Father, A.D. 945](lax16.md)

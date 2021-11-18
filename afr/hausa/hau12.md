@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](hau11)  [Next](hau13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](hau11)  [Next](hau13.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hausa Folk-Lore*, by Maalam Shaihua, tr. by R. Sutherland Rattray,
 \[1913\], at Intangible Textual Heritage
 
@@ -213,6 +213,6 @@ Off with the rat's head.
 
 ------------------------------------------------------------------------
 
-[Next: 9. The doctor who went a pilgrimage to Mecca on a hyena](hau13)
+[Next: 9. The doctor who went a pilgrimage to Mecca on a hyena](hau13.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](iol01) 
-[Next](iol03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](iol01.md) 
+[Next](iol03.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ E. C.
 
 ------------------------------------------------------------------------
 
-[Next: I. Friendship-Customs in the Pagan and Early World](iol03)
+[Next: I. Friendship-Customs in the Pagan and Early World](iol03.md)

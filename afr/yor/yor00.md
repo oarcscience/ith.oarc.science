@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Next](yor01) 
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Next](yor01.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ etext. We will be adding this material at some point in the future.*}
 
 ------------------------------------------------------------------------
 
-[Next: Contents.](yor01)
+[Next: Contents.](yor01.md)

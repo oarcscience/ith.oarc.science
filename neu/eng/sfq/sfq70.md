@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq69)  [Next](sfq71) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq69)  [Next](sfq71.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,7 +179,7 @@ the Prince could advance
 <span id="img_34200"></span>
 
 [![](tn/34200.jpg)  
-Click to enlarge](img/34200.jpg)
+Click to enlarge](img/34200.jpg.md)
 
 his spear, he was past and gone; yet still he followed him everywhere,
 and in turn was followed by him.
@@ -249,4 +249,4 @@ she was transformed into a tiger.
 
 ------------------------------------------------------------------------
 
-[Next: The Adventure at the Den of Deceit](sfq71)
+[Next: The Adventure at the Den of Deceit](sfq71.md)

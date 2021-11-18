@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb16)  [Next](ttb18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb16)  [Next](ttb18.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_30">p. 30</span>
 
-<span id="img_03000"></span> ![Chee-Che-Ka, The Mink](img/03000.jpg)
+<span id="img_03000"></span> ![Chee-Che-Ka, The Mink](img/03000.jpg.md)
 
 ### Chee-Che-Ka, THE MINK
 
@@ -54,4 +54,4 @@ the invisible people.
 
 ------------------------------------------------------------------------
 
-[Next: Le-Loo, The Wolf](ttb18)
+[Next: Le-Loo, The Wolf](ttb18.md)

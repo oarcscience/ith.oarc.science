@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../index)  [Esoteric &
-Occult](../eso/index)   [Mysteries](../myst)  
-[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo)  
-[Index](index)  [Previous](avenger)  [Next](bermuda) 
+[Intangible Textual Heritage](../index.md)  [Esoteric &
+Occult](../eso/index)   [Mysteries](../myst.md)  
+[Buy CD-ROM](../index)   [Buy Books about UFOs](../books/ufo.md)  
+[Index](index)  [Previous](avenger)  [Next](bermuda.md) 
 
 ### The B2 Bomber: Could it be Responsible For Boomerang UFO Sightings?
 
@@ -148,4 +148,4 @@ Occult](../eso/index)   [Mysteries](../myst)
 
 ------------------------------------------------------------------------
 
-[Next: The Bermuda Triangle and Parapsychology](bermuda)
+[Next: The Bermuda Triangle and Parapsychology](bermuda.md)

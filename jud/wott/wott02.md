@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](wott01)  [Next](wott03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](wott01)  [Next](wott03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -158,7 +158,7 @@ them … The conclusion of the matter is
 <span id="page_xiii">p. xiii</span>
 
 that it would be most unworthy to suppress books in order to silence
-teachers …"<span id="an_r_00_1"></span>[1](wott11.htm#an_n_00_1)
+teachers …"<span id="an_r_00_1"></span>[1](wott11.htm#an_n_00_1.md)
 
 The rise of modern anti-Semitism gave fresh impetus to the attacks
 against the Talmud. The father of the modern calumnies upon the Talmud
@@ -171,7 +171,7 @@ an official encyclopaedia of German bibliography published by the German
 Imperial Academy of Science in 1876. "Some passages," the appraisal
 continues, "are misinterpreted; some distorted; others are insinuations
 based on one-sided inferences."<span
-id="an_r_00_2"></span>[2](wott11.htm#an_n_00_2)
+id="an_r_00_2"></span>[2](wott11.htm#an_n_00_2.md)
 
 The most spectacular campaign against the Talmud was led by August
 Rohling (1839–1931), a professor of Hebrew Antiquities at the University
@@ -272,7 +272,7 @@ Czarist government to issue the permit for the removal of his body from
 Petersburg to Tashkent. Objections had to be overcome of local officials
 in Tashkent who were anxious to avoid a public demonstration at his
 funeral and urged an inconspicuous burial in Petersburg.<span
-id="an_r_00_3"></span>[3](wott11.htm#an_n_00_3)
+id="an_r_00_3"></span>[3](wott11.htm#an_n_00_3.md)
 
 Nazi Germany produced a flood of new material vilifying the Talmud. With
 the pretense of scholarly objectivity which characterized the technique
@@ -310,7 +310,7 @@ into an admirer of this great literature. His work *The Talmud in the
 Crucible of the Centuries* is a brilliant appreciation of the moral
 values of Talmudic literature and a refutation of the libels against it,
 especially those of Rohling and Pranaitis.<span
-id="an_r_00_4"></span>[4](wott11.htm#an_n_00_4)
+id="an_r_00_4"></span>[4](wott11.htm#an_n_00_4.md)
 
 Talmudic literature went through a long and varied development. The
 earliest layer of the Talmud is the *Mishnah*, a product of Palestinian
@@ -355,7 +355,7 @@ their Talmud in European countries. This success was largely due to the
 fact that Babylonia, under the rule of the Abbasids, became the center
 of Arabic culture, and consequently of Jewish culture, since the
 majority of Jews then lived in Islamic countries."<span
-id="an_r_00_5"></span>[5](wott11.htm#an_n_00_5)
+id="an_r_00_5"></span>[5](wott11.htm#an_n_00_5.md)
 
 There is a splendid English translation of the Mishnah, published in
 1933, by Reverend Herbert Danby, Canon of Christ Church and Regius
@@ -429,4 +429,4 @@ criticism.
 
 ------------------------------------------------------------------------
 
-[Next: The Talmud as Literature](wott03)
+[Next: The Talmud as Literature](wott03.md)

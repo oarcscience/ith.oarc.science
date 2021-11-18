@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch06) 
-[Next](branch08) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch06.md) 
+[Next](branch08.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -576,5 +576,5 @@ the ladies, and issueth forth of the city.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-VIII](branch08)  
+VIII](branch08.md)  
 </span>

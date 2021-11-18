@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd10)  [Next](pbd12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd10)  [Next](pbd12.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ comprising his armor for this purpose.
 
 ------------------------------------------------------------------------
 
-[Next: Comparison With Yuki Beliefs](pbd12)
+[Next: Comparison With Yuki Beliefs](pbd12.md)

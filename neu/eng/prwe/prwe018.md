@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe017)  [Next](prwe019) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe017)  [Next](prwe019.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ traditions of Jack and Tom will be evident to every reader.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant Bolster](prwe019)
+[Next: The Giant Bolster](prwe019.md)

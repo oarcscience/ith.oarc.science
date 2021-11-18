@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv41)  [Next](ogv43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv41)  [Next](ogv43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -35,35 +35,35 @@ the knowledge of which you ought to seek. "For, "Plato will also tell
 you, "he who knows his body, only knows that it is his, and is not
 himself. To know his body as a physician or as a sculptor, is an art, to
 know his soul, as a sage, is a science and the greatest of all
-sciences." <span id="fr_626"></span>[b](#fn_625)
+sciences." <span id="fr_626"></span>[b](#fn_625.md)
 
 From the knowledge of himself man passes to that of God; and it is in
 fixing this model of all perfection that he succeeds in delivering
 himself from the evils which he has attracted by his own choice. <span
-id="fr_627"></span>[c](#fn_626) His deliverance depends,
+id="fr_627"></span>[c](#fn_626.md) His deliverance depends,
 
 <span id="page_260">p. 260</span>
 
 according to Pythagoras, upon virtue and upon truth. <span
-id="fr_628"></span>[a](ogv43.htm#fn_627) The virtue, that he acquires by
+id="fr_628"></span>[a](ogv43.htm#fn_627.md) The virtue, that he acquires by
 purification, tempers and directs the passions; the truth, which he
 attains by his union with the Being of beings, dissipates the darkness
 with which his intelligence is obsessed; and both of them, acting
 jointly in him, give him the divine form, according as he is disposed to
 receive it, and guide him to supreme felicity. <span
-id="fr_629"></span>[b](ogv43.htm#fn_628) But how difficult to obtain
+id="fr_629"></span>[b](ogv43.htm#fn_628.md) But how difficult to obtain
 this desired goal!
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_625"></span>[259:b](ogv42.htm#fr_626) Plato, *In
+<span id="fn_625"></span>[259:b](ogv42.htm#fr_626.md) Plato, *In
 Alcibiad.*, ii.
 
-<span id="fn_626"></span>[259:c](ogv42.htm#fr_627) Hiérocl., *Aur.
+<span id="fn_626"></span>[259:c](ogv42.htm#fr_627.md) Hiérocl., *Aur.
 Carm.*, v. 56.
 
 ------------------------------------------------------------------------
 
-[Next: 32. For few know happiness](ogv43)
+[Next: 32. For few know happiness](ogv43.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](sor07)  [Next](sor09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](sor07)  [Next](sor09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMUG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sorceress*, by Jules Michelet, \[1939\], at Intangible Textual
 Heritage
 
@@ -148,7 +148,7 @@ being like a rushing mighty wind. She receives at once and together the
 three sacraments, reversed and desecrate,—Baptism, Priesthood, and
 Marriage. In this new church, the exact opposite of its counterpart, the
 Church of God, everything is reversed. Patient and submissive, she bore
-the cruel initiation, <span id="fr_30"></span>[1](#fn_30) her spirit
+the cruel initiation, <span id="fr_30"></span>[1](#fn_30.md) her spirit
 borne up and comforted by the one word, "Revenge!" Far from the infernal
 levin exhausting her energies, making her weak and ailing, it made her
 more strong and terrible, and brought fire from her eyes. The moon, that
@@ -220,11 +220,11 @@ tomorrow you shall be queen of all this countryside."
 
 ### Footnotes
 
-<span id="fn_30"></span>[58:1](sor08.htm#fr_30) This will be found
+<span id="fn_30"></span>[58:1](sor08.htm#fr_30.md) This will be found
 explained later. We must beware of the pedantic additions of the moderns
 in the seventeenth century. The tinsel ornaments fools tack on to so
 awful a reality only serve to lower Satan to their own poor level.
 
 ------------------------------------------------------------------------
 
-[Next: 7. King of the Dead](sor09)
+[Next: 7. King of the Dead](sor09.md)

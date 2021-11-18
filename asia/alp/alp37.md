@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp36) 
-[Next](alp38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp36.md) 
+[Next](alp38.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ In its shadow pause and gaze, astonished,
 
 New its form, more wondrous than the Gothic,  
      Than the Doric or Ionic fair;  
-At command of an Armenian genius <span id="fr_6"></span>[1](#fn_6)  
+At command of an Armenian genius <span id="fr_6"></span>[1](#fn_6.md)  
      Did the master builder rear it there.
 
 By the windows, rich with twisted scroll-work,  
@@ -75,8 +75,8 @@ Stands embodied there a noble thought.
 
 ### Footnotes
 
-<span id="fn_6"></span>[44:1](alp37.htm#fr_6) The late Hagop Bey Balian.
+<span id="fn_6"></span>[44:1](alp37.htm#fr_6.md) The late Hagop Bey Balian.
 
 ------------------------------------------------------------------------
 
-[Next: The Dream](alp38)
+[Next: The Dream](alp38.md)

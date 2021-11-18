@@ -1,13 +1,13 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
@@ -31,8 +31,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](gsft00)    [Page
-Index](pageidx)    [Text \[Zipped\]](gsft.txt.gz)
+[Contents](#contents)    [Start Reading](gsft00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](gsft.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -67,27 +67,27 @@ world, and for the longevity and persistance of their culture.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](gsft00)  
-[Contents](gsft01)  
-[Preface](gsft02)  
-[Chapter I: The Origin of Witchcraft, Shamanism and Sorcery](gsft03)  
+<span id="contents"></span> [Title Page](gsft00.md)  
+[Contents](gsft01.md)  
+[Preface](gsft02.md)  
+[Chapter I: The Origin of Witchcraft, Shamanism and Sorcery](gsft03.md)  
 [Chapter II: Charms and Conjurations to Cure the Disorders of Grown
-People](gsft04)  
-[Chapter III: Gypsy Conjurations and Exorcisms](gsft05)  
-[Chapter IV: South Slavonian and other Gypsy Witch-lore](gsft06)  
-[Chapter V: Charms or Conjurations to Cure or Protect Animals](gsft07)  
-[Chapter VI: Of Pregnancy and Charms](gsft08)  
-[Chapter VII: The Recovery of Stolen Property, Love Charms](gsft09)  
+People](gsft04.md)  
+[Chapter III: Gypsy Conjurations and Exorcisms](gsft05.md)  
+[Chapter IV: South Slavonian and other Gypsy Witch-lore](gsft06.md)  
+[Chapter V: Charms or Conjurations to Cure or Protect Animals](gsft07.md)  
+[Chapter VI: Of Pregnancy and Charms](gsft08.md)  
+[Chapter VII: The Recovery of Stolen Property, Love Charms](gsft09.md)  
 [Chapter VIII: Roumanian and Transylvanian Sorceries and
-Superstitions](gsft10)  
-[Chapter IX: The Meetings of Witches](gsft11)  
+Superstitions](gsft10.md)  
+[Chapter IX: The Meetings of Witches](gsft11.md)  
 [Chapter X: Of the Haunts, Homes and Habits of Witches in the South
-Slavic Lands](gsft12)  
+Slavic Lands](gsft12.md)  
 [Chapter XI: Gypsy Witchcraft—Magical Power and
-Fortune-telling](gsft13)  
-[Chapter XII: Fortune-Telling (continued)](gsft14)  
+Fortune-telling](gsft13.md)  
+[Chapter XII: Fortune-Telling (continued)](gsft14.md)  
 [Chapter XIII: Proverbs Referring to Witches, Gypsies and
-Fairies](gsft15)  
-[Chapter XIV: A Gypsy Magic Spell—The Great Secret](gsft16)  
-[Chapter XV: Gypsy Amulets](gsft17)  
-[Chapter XVI: Gypsies, Toads and Toad-lore](gsft18)  
+Fairies](gsft15.md)  
+[Chapter XIV: A Gypsy Magic Spell—The Great Secret](gsft16.md)  
+[Chapter XV: Gypsy Amulets](gsft17.md)  
+[Chapter XVI: Gypsies, Toads and Toad-lore](gsft18.md)  

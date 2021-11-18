@@ -1,7 +1,7 @@
 [Intangible Textual
-Heritage](../../index) [Journals](../index) [Ismâ’ili
-materials](../../isl/isma/index)  
-[Previous](isma1-2) [Next](isma1-4)
+Heritage](../../index) [Journals](../index.md) [Ismâ’ili
+materials](../../isl/isma/index.md)  
+[Previous](isma1-2) [Next](isma1-4.md)
 
 ------------------------------------------------------------------------
 
@@ -23,48 +23,48 @@ sense appertains to the sciences of language, and that the relation of
 the inward sense to the outward is like the relation of the pith to the
 bark. And they say that the laying hold of its outward sense punishes
 with fatigue in assiduous action,<span
-id="page_279_fr_*"></span>[\*](#page_279_note_*) and that its inward
+id="page_279_fr_*"></span>[\*](#page_279_note_*.md) and that its inward
 sense is an aid to the leaving off of action by its outward sense. And
 as respects this, they lay hold of his saying,—let him be exalted! "And
 so there is established between them a wall, having a gate the inward
 part of which, within it, is mercy, and the outward part before it, is
 punishment."<span
-id="page_279_fr_dagger"></span>[†](#page_279_note_dagger) \[2.\] The
+id="page_279_fr_dagger"></span>[†](#page_279_note_dagger.md) \[2.\] The
 Ḳarâmaṭeh, because their leader, he who levelled the high-way for their
 doctrine, was a man named Ḥamdân of Ḳarmaṭ,<span
-id="page_279_fr_ddagger"></span>[‡](#page_279_note_ddagger) which is the
+id="page_279_fr_ddagger"></span>[‡](#page_279_note_ddagger.md) which is the
 only place of its name, namely, Ḳarmaṭ of Wâsiṭ. \[3.\] The
-Ḥaramîyeh,<span id="page_279_fr_sect"></span>[§](#page_279_note_sect) on
+Ḥaramîyeh,<span id="page_279_fr_sect"></span>[§](#page_279_note_sect.md) on
 account of their desecration of sacred things, and allowing of things
 forbidden. \[4.\] The Sab’îyeh,<span
-id="page_279_fr_dvert"></span>[‖](#page_279_note_dvert) because they
+id="page_279_fr_dvert"></span>[‖](#page_279_note_dvert.md) because they
 think that the Nâṭiḳs of the revealed laws, that is, the Envoys, are
 seven, <span id="page_280">p. 280</span> namely, Adam, and Nûḥ, and
 Ibrâhîm, and Mûsa, and ’Îsa, and Muḥammed,—let the divine benediction
 and peace be to him! and Muḥammed the Mehdy,<span
-id="page_280_fr_*"></span>[\*](#page_280_note_*) the seventh of the
+id="page_280_fr_*"></span>[\*](#page_280_note_*.md) the seventh of the
 Nâṭiḳs; and that between each two of the Nâṭiḳs there are seven Imâms,
 who rely upon the law of the Nâṭiḳ; and that there must of necessity be
 in every age seven who are imitated, and by whom direction is given, in
 respect to religion, who differ from one another in rank, namely, an
 Imâm, who aids the religion of God, who is the acme of arguments in
 proof of the religion of God; and a Ḥujjeh,<span
-id="page_280_fr_dagger"></span>[†](#page_280_note_dagger) who relieves
+id="page_280_fr_dagger"></span>[†](#page_280_note_dagger.md) who relieves
 the Imâm, sustaining his science, and thereby authenticating him; and a
 Dhû-l-maṣṣah,<span
-id="page_280_fr_ddagger"></span>[‡](#page_280_note_ddagger) who imbibes
+id="page_280_fr_ddagger"></span>[‡](#page_280_note_ddagger.md) who imbibes
 science from the Ḥujjeh, that is, receives it from him;—these three, and
 also certain Bâbs, who are the Dâ’is,<span
-id="page_280_fr_sect"></span>[§](#page_280_note_sect) namely, an Akbar,
+id="page_280_fr_sect"></span>[§](#page_280_note_sect.md) namely, an Akbar,
 that is a Dâ’i Akbar;<span
-id="page_280_fr_dvert"></span>[‖](#page_280_note_dvert) who is the
+id="page_280_fr_dvert"></span>[‖](#page_280_note_dvert.md) who is the
 fourth allong them, who elevates the degrees of believers; and a Dâ’i
-Madhûn,<span id="page_280_fr_para"></span>[¶](#page_280_note_para) who
+Madhûn,<span id="page_280_fr_para"></span>[¶](#page_280_note_para.md) who
 receives the engagements binding inquirers from among the People of the
 outward sense, and causes them to enter into clientship with the Imâm,
 and opens to them the gate of science and knowledge; and he is the
 fifth; and a Mukellib,<span
-id="page_280_fr_**"></span>[\*\*](#page_280_note_**) whose degree in
+id="page_280_fr_**"></span>[\*\*](#page_280_note_**.md) whose degree in
 religion is indeed elevated, but who is not licensed in respect to the
 office of Dâ’i, whose license on the contrary respects argumentation
 with men, and who accordingly argues, and renders eager for the Dâ’i,
@@ -77,14 +77,14 @@ call such a person a Mukellib only because he is like the ravenous
 beast, who draws off the hunter's dog from the game, according to what
 he says agreeing therewith, and ye know not of ravenous beasts any which
 train dogs;) and he is the sixth; and a Mumin,<span
-id="page_281_fr_*"></span>[\*](#page_281_note_*) who follows after him,
+id="page_281_fr_*"></span>[\*](#page_281_note_*.md) who follows after him,
 that is, pants for the Dâ’i, from whom are received the engagements
 binding him, and who believes, and is thoroughly acquainted with the
 engagement, and enters into clientship with the Imâm, and acts according
 to him; and he is the seventh. These, they say, are like the heavens,
 and the earths, and the seas, and the days of the week, and the planets
 which govern with a command. \[5.\] The Bâbekîyeh,<span
-id="page_281_fr_dagger"></span>[†](#page_281_note_dagger) inasmuch as a
+id="page_281_fr_dagger"></span>[†](#page_281_note_dagger.md) inasmuch as a
 party among them follow Bâbek El-Khurṣany in respect to going out clad
 in the mantle of Yemen, and in red, because they wore red in the days of
 Bâbek, or because they were like those who differed from them of the
@@ -93,13 +93,13 @@ their affirming the imamship as the right of Isma’îl Ibn Ja’far
 Eṣ-Ṣâdiḳ, who was the eldest of Ja’far's sons; or, as some say, on
 account of the derivation of their heterodoxy from Muḥammed Ibn
 Isma’îl.<span
-id="page_281_fr_ddagger"></span>[‡](#page_281_note_ddagger)
+id="page_281_fr_ddagger"></span>[‡](#page_281_note_ddagger.md)
 
    And the root from which their preaching of the abrogation of the laws
 grew up, was the Kobâdîyeh, a sect of the Magians, who, being goaded by
 Islam, aimed to allegorize the laws in certain ways coming back to the
 principles of their forefathers;<span
-id="page_281_fr_sect"></span>[§](#page_281_note_sect) that is to say,
+id="page_281_fr_sect"></span>[§](#page_281_note_sect.md) that is to say,
 they assembled, and reminded one another of the position of undivided
 rule which their forefathers held, and said, "There is no way for us to
 eject the Muslims by the sword, on account <span id="page_282">p.
@@ -108,16 +108,16 @@ empire; but let us use stratagem, by allegorizing their laws, with a
 view to a coming back to our principles, leading on by degrees the weak
 among them; and so that will necessitate their being at variance with
 one another, and the shaking of their system." And their head, in
-respect to that,<span id="page_282_fr_*"></span>[\*](#page_282_note_*)
+respect to that,<span id="page_282_fr_*"></span>[\*](#page_282_note_*.md)
 was Ḥamdân of Ḳarmaṭ, or, as some say, ’Abdallah Ibn Meimûn
 El-Ḳaddaḥ.<span
-id="page_282_fr_dagger"></span>[†](#page_282_note_dagger)
+id="page_282_fr_dagger"></span>[†](#page_282_note_dagger.md)
 
    And in calling and leading on men, they have degrees of finesse;
 which comprehends \[1.\] the judging by the countenance of the state of
 the person called, whether he is favorable to the call, or not; and the
 saying, "Thou wilt make excuse for the putting of the germ into the
-trunk,"<span id="page_282_fr_ddagger"></span>[‡](#page_282_note_ddagger)
+trunk,"<span id="page_282_fr_ddagger"></span>[‡](#page_282_note_ddagger.md)
 that is, for the call of one not favorable, is in accordance with that;
 and they refuse to dispute "in a house where there is a lamp," that is,
 in a place where there is a doctor of the law, or a metaphysician; and
@@ -130,7 +130,7 @@ he inclines to free living, that is set off in fair colors before him,
 and its opposite is depreciated, until the man is thereby gained; and
 then \[3.\] the causing to doubt in respect to the corner-stones of the
 law, and the abbreviations of the surahs,<span
-id="page_282_fr_sect"></span>[§](#page_282_note_sect) in that one says,
+id="page_282_fr_sect"></span>[§](#page_282_note_sect.md) in that one says,
 "What is the meaning of the isolated letters in the beginnings of the
 surahs? and of the statute requiring woman in her menses to fast,
 without a statute requiring her to pray, that is, why is one needful,
@@ -146,7 +146,7 @@ receiving of the engagement from the candidate, in that they say that
 God's Sunneh has had currency by the receiving of engagements and
 pledges, and alledge, in proof of that, his saying,—let him be exalted!
 "And when we received from the Prophets their engagements,"<span
-id="page_283_fr_*"></span>[\*](#page_283_note_*) and then receive, with
+id="page_283_fr_*"></span>[\*](#page_283_note_*.md) and then receive, with
 receiving, his engagement, made in accordance with a firm belief, on his
 part, that no secret thing is hidden from them; and second, the
 obligating him, in behalf of the Imâm, with respect to the clearing up
@@ -156,7 +156,7 @@ of them until he elevates himself to something of the degree which
 pertains to him, and comes to the Imâm; and then \[5.\] the imposition,
 which is the pretension of agreement with them on the part of the great
 in religious and worldly affairs,<span
-id="page_283_fr_dagger"></span>[†](#page_283_note_dagger) so that the
+id="page_283_fr_dagger"></span>[†](#page_283_note_dagger.md) so that the
 candidate may be more in favor of that to which one calls him; and then
 \[6.\] the putting upon a foundation, which is the arranging of premises
 to which he who is called is favorable, and which he grants, which point
@@ -172,7 +172,7 @@ is the receiving by hearsay from the Madhûn, when the Imâm is hidden,
 what prayer is; and that prayer signifies the Nâṭiḳ, who is the Envoy,
 as is proved by his saying,—let him be exalted! "Verily, prayer
 restrains from depravity and crime;"<span
-id="page_283_fr_ddagger"></span>[‡](#page_283_note_ddagger) and that the
+id="page_283_fr_ddagger"></span>[‡](#page_283_note_ddagger.md) and that the
 having nocturnal pollution signifies <span id="page_284">p. 284</span>
 the divulging of one of their secrets to one who is not of the people to
 whom it belongs, without any object in so doing; and the ablution of the
@@ -180,12 +180,12 @@ whole body, the renewal of the pledge; and alms-giving, the purification
 of the soul by knowledge of the religion which they profess; and the
 Ka’beh, the Prophet, and the gate \[of the Ka’beh,\] ’Aly; and Eṣ-Ṣafâ,
 ’Aly, and El-Marweh,<span
-id="page_284_fr_*"></span>[\*](#page_284_note_*) the Prophet; and the
+id="page_284_fr_*"></span>[\*](#page_284_note_*.md) the Prophet; and the
 place of rendezvous of pilgrims,<span
-id="page_284_fr_dagger"></span>[†](#page_284_note_dagger) the
+id="page_284_fr_dagger"></span>[†](#page_284_note_dagger.md) the
 familiarizing;<span
-id="page_284_fr_ddagger"></span>[‡](#page_284_note_ddagger) and the
-bending,<span id="page_284_fr_sect"></span>[§](#page_284_note_sect) the
+id="page_284_fr_ddagger"></span>[‡](#page_284_note_ddagger.md) and the
+bending,<span id="page_284_fr_sect"></span>[§](#page_284_note_sect.md) the
 responding to the call; and the circling of the House seven times,
 friendship to the seven Imâms; and the Garden, the repose of bodies from
 duty; and the Fire, the severity of toil in duty;—and so on to other of
@@ -199,7 +199,7 @@ anthropomorphism; while absolute denial requires the association of him
 with things non-existent, which is a making void. But that, on the
 contrary, he is necessarily possessed of these attributes, and the Lord
 of contraries.<span
-id="page_284_fr_dvert"></span>[‖](#page_284_note_dvert) And often they
+id="page_284_fr_dvert"></span>[‖](#page_284_note_dvert.md) And often they
 blend their system with the system of the Philosophers, and accordingly
 say that he,—let him be exalted! produced by his Amr the perfect
 Intelligence, and that by means of that was the production of the Soul,
@@ -227,7 +227,7 @@ the Legatee,—that it is so in every age and period.
 
    Says El-Âmidy, Such were the opinions of some senseless person; and
 when El-Ḥasan Ibn Muḥammed Eṣ-Ṣabbâḥ appeared,<span
-id="page_285_fr_*"></span>[\*](#page_285_note_*) he exerted himself, and
+id="page_285_fr_*"></span>[\*](#page_285_note_*.md) he exerted himself, and
 the call assumed that he was the Ḥujjeh, who relieves the Imâm, whom no
 period may be without. And the sum of his system was that which took the
 precedence, respecting the need of the teacher. Moreover, he prohibited
@@ -242,7 +242,7 @@ became like brute beasts, without any religious control, or legal
 restraint.
 
    Says he \[the author\] respecting the *Tâtârkhânîyeh*,<span
-id="page_285_fr_dagger"></span>[†](#page_285_note_dagger) And in the
+id="page_285_fr_dagger"></span>[†](#page_285_note_dagger.md) And in the
 year 577, the doctors of the law of Samarḳand were <span
 id="page_286">p. 286</span> asked,—respecting a man who makes a show of
 Islâm, and prays, and fasts, and makes a show of the profession of
@@ -267,7 +267,7 @@ injuries."
    Abû-l-Ḥasan Muḥammed Sa’îd said, "It may be said of this man of whom
 mention is made, as Abû Ḥanîfeh,—let God be merciful to him! is related
 to have said respecting a Ḳadary<span
-id="page_286_fr_*"></span>[\*](#page_286_note_*) who said, in the
+id="page_286_fr_*"></span>[\*](#page_286_note_*.md) who said, in the
 presence of Abû Ḥanîfeh, 'I am a convert;' Abû Ḥanîfeh, namely,—let God
 be merciful to him! said, 'Conversion on thy part is that thou returnest
 to all whom thou hast led astray, and callest them to the truth, and
@@ -293,7 +293,7 @@ thereof; for a certain one said, 'Methinks that to pray, which profits
 not, is advantageous among Imâms,' and he was one of the Party of the
 Impious; to which his pupil said, 'O my preceptor, what avails this
 assiduity, while we acknowledge the faith?'<span
-id="page_287_fr_*"></span>[\*](#page_287_note_*) whereupon he said, 'It
+id="page_287_fr_*"></span>[\*](#page_287_note_*.md) whereupon he said, 'It
 is on account of the custom of the country, and for the protection of
 family and children.' So then, if we were to admit, on their part, that
 which they pretend of conversion, they would make that turn out to the
@@ -324,7 +324,7 @@ was a Muslim originally, whenever he professes Islâm, he returns, and we
 know that he is converted. Verily he,—let him be exalted! says, "So
 then, what shall be the portion of those who fight against God and his
 Envoy, and exert themselves to corrupt the earth? etc.,"<span
-id="page_288_fr_*"></span>[\*](#page_288_note_*)—which is directed
+id="page_288_fr_*"></span>[\*](#page_288_note_*.md)—which is directed
 against those who exert themselves to corrupt the earth; but religion is
 worthier and prior, because that which religion enjoins is of more
 moment, to be cared for, than the earth, in every respect, and prior to
@@ -335,13 +335,13 @@ it."'
    And an inquiry was proposed to the Sheikh el-Islâm, the Seal of
 profound investigators, of the party of Ḥanbal, Taḳḳy ed-dîn Ibn
 Yatmiyeh, the form of which was as follows:<span
-id="page_288_fr_dagger"></span>[†](#page_288_note_dagger) "What say the
+id="page_288_fr_dagger"></span>[†](#page_288_note_dagger.md) "What say the
 learned seignors, the Imâms of religion,—let God be gracious to them
 all, and aid them to manifest the plain truth, and to cover the fair
 show of errorists! respecting the Nuṣairîyeh, who declare the lawfulness
 of wine, and the transmigration of spirits, and the eternity of the
 world; and profess to deny the awakening,<span
-id="page_288_fr_ddagger"></span>[‡](#page_288_note_ddagger) and the
+id="page_288_fr_ddagger"></span>[‡](#page_288_note_ddagger.md) and the
 gathering, and the resurrection, and the Garden and the Fire, in another
 than the life which is of this world; and declare that the five prayers
 signify five names, which are ’Aly, and El-Ḥasan, and El-Ḥusein, and
@@ -369,22 +369,22 @@ Muslim, nor any others, excepting those who are of the people of his
 religion, and that he acknowledges his Imâm, and his Lord, as manifested
 in his revolutions and his periods, and so acknowledges the transmission
 of the Ism and the Ma’na<span
-id="page_289_fr_*"></span>[\*](#page_289_note_*) in every epoch and age.
+id="page_289_fr_*"></span>[\*](#page_289_note_*.md) in every epoch and age.
 And the Ism, in their opinion, among the first of men, was Adam, and the
 Ma’na, Shait;<span
-id="page_289_fr_dagger"></span>[†](#page_289_note_dagger) and the Ism,
+id="page_289_fr_dagger"></span>[†](#page_289_note_dagger.md) and the Ism,
 Ya’ḳûb, and the Ma’na, Yûsuf; and they use to prove this representation,
 as they think, that which is in the Ḳurân, namely, a story about Ya’ḳûb
 and Yûsuf;—let peace be to them both! and accordingly say, "What was
 Ya’ḳûb? as for him, he was the Ism, for what power exceeds its
 station?<span
-id="page_289_fr_ddagger"></span>[‡](#page_289_note_ddagger) and he says,
+id="page_289_fr_ddagger"></span>[‡](#page_289_note_ddagger.md) and he says,
 'Presently, I will ask pardon for you of my Lord; verily, he is the
 Pardoner, the Compassionate;'<span
-id="page_289_fr_sect"></span>[§](#page_289_note_sect) and as for Yûsuf,
+id="page_289_fr_sect"></span>[§](#page_289_note_sect.md) and as for Yûsuf,
 he was the Ma’na who is asked, and so he says, 'There is no reprimanding
 of you this day, God pardons you,'<span
-id="page_289_fr_dvert"></span>[‖](#page_289_note_dvert) and brings not
+id="page_289_fr_dvert"></span>[‖](#page_289_note_dvert.md) and brings not
 in the authority of another, because he knows that he is the absolute
 Deity." And they lay it down that Mûsa was the Ism, and Yûshû’a, the
 Ma’na, and say, "As for Yûshû’a, the sun yielded to him, after he had
@@ -394,7 +394,7 @@ except its Lord?" And they lay it down that Suleimân was the Ism, and
 the throne of Belḳîs, and Âṣaf had power to do it, because Suleimân
 <span id="page_290">p. 290</span> was the Ism, and Âṣaf was the Ma’na,
 the Potent, the Powerful."<span
-id="page_290_fr_*"></span>[\*](#page_290_note_*) And they enumerate the
+id="page_290_fr_*"></span>[\*](#page_290_note_*.md) And they enumerate the
 Prophets and the Messengers, one by one, after the manner of this talk,
 up to the time of the Envoy of God,—let the divine benediction and peace
 be to him! and so they say that Muḥammed was the Ism, and ’Aly, the
@@ -409,13 +409,13 @@ famous among them, of some of their extravagances, belongs the saying of
 one, the accursed, the disbeliever in God,—let him be exalted! "I
 testify that there is no Deity, except, the Lion with bald temples and
 big belly;<span
-id="page_290_fr_dagger"></span>[†](#page_290_note_dagger) and no Veil to
+id="page_290_fr_dagger"></span>[†](#page_290_note_dagger.md) and no Veil to
 him, except Muḥammed the Just, the Faithful; and no Way to him, except
 Selmân the Possessor of power, the Stedfast." And in like manner, there
 are the five Solitaries,<span
-id="page_290_fr_ddagger"></span>[‡](#page_290_note_ddagger) and the
+id="page_290_fr_ddagger"></span>[‡](#page_290_note_ddagger.md) and the
 twelve Naḳîbs,<span
-id="page_290_fr_sect"></span>[§](#page_290_note_sect) whose names are
+id="page_290_fr_sect"></span>[§](#page_290_note_sect.md) whose names are
 made known, according to them, in their detestable books; for they cease
 not to proclaim the Lord, the Veil, and the Gate, in every revolution
 and period, forever, without end. Also, that the Iblîs of Iblîses was
@@ -438,7 +438,7 @@ common people, also, up to the present time, have verified the state of
 the case in respect to them. For, during the time that the heretic
 Franks held possession of the country, it was unknown to many, how it
 stood with them; but after the days of Islâm came,<span
-id="page_291_fr_*"></span>[\*](#page_291_note_*) the state of the case
+id="page_291_fr_*"></span>[\*](#page_291_note_*.md) the state of the case
 in respect to them was discovered, and their departure from the right
 way was manifested, and the proof of them was very abundant.
 
@@ -451,7 +451,7 @@ also? And is the burying of them among the Muslims allowed, or not? And
 is it allowed to employ any of them on the frontiers of the Muslims, and
 to entrust them to them? or, on the other hand, is it obligatory upon
 the prefect of command<span
-id="page_291_fr_dagger"></span>[†](#page_291_note_dagger) to displace
+id="page_291_fr_dagger"></span>[†](#page_291_note_dagger.md) to displace
 them, and to employ other men, of the trusty Muslims? And does he do
 wrong, when he commands to turn them off, and to employ others than
 them? or, on the other hand, is it allowed to him to grant delay, in
@@ -470,7 +470,7 @@ a show of their false religion? And is he who wars with the said
 Nuṣairîyeh counted as one who mounts a cavalier? and is his recompense
 like the recompense of him who mounts a cavalier on the frontiers, on
 the shore of the Sea,<span
-id="page_292_fr_*"></span>[\*](#page_292_note_*) through fear of an
+id="page_292_fr_*"></span>[\*](#page_292_note_*.md) through fear of an
 invasion of the Franks? or has this one a greater recompense? And is it
 obligatory upon any one who knows the said persons, and their doctrines,
 to divulge what they are, and to help to do away with their false
@@ -488,7 +488,7 @@ aided, and recompensed, if God,—let him be exalted! wills?"
 ed-dîn Ibn Yatmiyeh,—may God,—let him be exalted! be merciful to him!
 was as follows: "As for these people, denominated the Nuṣairîyeh, they
 and the other classes of the mystical Ḳarâmaṭeh,<span
-id="page_292_fr_dagger"></span>[†](#page_292_note_dagger) are more
+id="page_292_fr_dagger"></span>[†](#page_292_note_dagger.md) are more
 unbelieving than the Jews and the Christians; nay, more unbelieving than
 many idolaters; and the injury which they do to the community of
 Muḥammed,—let the divine benediction and peace be to him! is greater
@@ -506,7 +506,7 @@ pretending that they constitute the science of the hidden sense, such as
 those mentioned by the inquirer, and others not of this sort. For, as
 for them, they have no set limit as to that which they pretend of heresy
 respecting the names of the Creator, and his signs,<span
-id="page_293_fr_*"></span>[\*](#page_293_note_*) and of perversion of
+id="page_293_fr_*"></span>[\*](#page_293_note_*.md) and of perversion of
 the word of God,—let him be exalted! and the word of his Envoy, to the
 doing away of its positions, inasmuch as their intention is to deny the
 faith and the laws of Islâm, altogether; while at the same time they
@@ -515,9 +515,9 @@ are such sort of things as the inquirer has mentioned, and such as their
 saying that the five prayers are the knowledge of their secrets; and the
 prescribed fasting, the concealment of their secrets; and the pilgrimage
 to the Ancient House,<span
-id="page_293_fr_dagger"></span>[†](#page_293_note_dagger) the visiting
+id="page_293_fr_dagger"></span>[†](#page_293_note_dagger.md) the visiting
 of their sheikhs; and that the two hands of Abû Lahab<span
-id="page_293_fr_ddagger"></span>[‡](#page_293_note_ddagger) were Abû
+id="page_293_fr_ddagger"></span>[‡](#page_293_note_ddagger.md) were Abû
 Bekr and ’Omar,—let God be gracious to them both! and that the Great
 Prophet, and the Evident Imâm, was ’Aly Ibn Abû Ṭâlib,—let God be
 gracious to him!
@@ -530,13 +530,13 @@ Zemzem, and, once upon a time, took off the Black Stone, which remained
 with them a long while, and put to death a multitude which only God,—let
 him be exalted! can compute, of the learned men of the Muslims, and
 their elders, and their princes, and their troops.<span
-id="page_293_fr_sect"></span>[§](#page_293_note_sect)
+id="page_293_fr_sect"></span>[§](#page_293_note_sect.md)
 
    And it is said that they have composed many books, and that what the
 inquirer mentions is in them, and other things. And the learned men of
 the Muslims have composed books disclosing their secrets, and have
 therein made evident the infidelity, and the Zendiḳism,<span
-id="page_293_fr_dvert"></span>[‖](#page_293_note_dvert) and the heresy,
+id="page_293_fr_dvert"></span>[‖](#page_293_note_dvert.md) and the heresy,
 which they profess, inasmuch as they are herein more <span
 id="page_294">p. 294</span> unbelieving than the Jews, or than the
 Christians, or than those who worship idols.
@@ -549,7 +549,7 @@ Syria only by means of them, who are always in league with every enemy
 to the Muslims, and so were leagued with the Christians against the
 Muslims. And one of the greatest of calamities, in their opinion, was
 the Muslims coming off superior over the Tâtârs;<span
-id="page_294_fr_*"></span>[\*](#page_294_note_*) and one of the greatest
+id="page_294_fr_*"></span>[\*](#page_294_note_*.md) and one of the greatest
 of their rejoicings was when the Christians,—and reverse is God's
 appointment,—possessed themselves of the frontiers of the Muslims, which
 ceased not to be under the power of the Muslims, as far as the island of
@@ -557,7 +557,7 @@ Cyprus, (conquered by the Muslims in the khalifate of the Prince of the
 believers ’Othmân Ibn ’Affân,—let God be gracious to him! which
 Mu’âwiyeh, the son of Abû Sufyân,—let God be gracious to them both!
 conquered,<span
-id="page_294_fr_dagger"></span>[†](#page_294_note_dagger)) up to the
+id="page_294_fr_dagger"></span>[†](#page_294_note_dagger).md) up to the
 middle of the fourth century; when these combattants against God and his
 Envoy multiplied on the sea-coasts and elsewhere, and so the Christians
 possessed themselves of the sea-board; and afterwards, owing to them,
@@ -572,32 +572,32 @@ about two hundred years, and were at peace with them and the Christians,
 for, until they had conquered the country, the Muslims made war upon
 them; <span id="page_295">p. 295</span> and within that period, the call
 of Islâm was published in the country of Egypt, and in that of
-Syria.<span id="page_295_fr_*"></span>[\*](#page_295_note_*)
+Syria.<span id="page_295_fr_*"></span>[\*](#page_295_note_*.md)
 
    And they have certain appellations affixed to them among the Muslims.
 Sometimes, they are called the Mellâḥeh;<span
-id="page_295_fr_dagger"></span>[†](#page_295_note_dagger) and sometimes
+id="page_295_fr_dagger"></span>[†](#page_295_note_dagger.md) and sometimes
 they are called the Ḳarâmaṭeh; and sometimes thay are caled
 Nâshîyeh;<span
-id="page_295_fr_ddagger"></span>[‡](#page_295_note_ddagger) and
+id="page_295_fr_ddagger"></span>[‡](#page_295_note_ddagger.md) and
 sometimes thay are called the Nuṣairîyeh; and sometimes they are caled
 the Ḥaramîyeh;<span
-id="page_295_fr_sect"></span>[§](#page_295_note_sect) and sometimes they
+id="page_295_fr_sect"></span>[§](#page_295_note_sect.md) and sometimes they
 are caled the Muḥammareh.<span
-id="page_295_fr_dvert"></span>[‖](#page_295_note_dvert) And as for these
+id="page_295_fr_dvert"></span>[‖](#page_295_note_dvert.md) And as for these
 names, some of them belong to them in common, and some are peculiar to
 some of their classes, just as the name formed from the fourth
 conjugation *salama*,<span
-id="page_295_fr_para"></span>[¶](#page_295_note_para) and that formed
+id="page_295_fr_para"></span>[¶](#page_295_note_para.md) and that formed
 from the fourth conjugation of *amana*,<span
-id="page_295_fr_**"></span>[\*\*](#page_295_note_**) belongs to the
+id="page_295_fr_**"></span>[\*\*](#page_295_note_**.md) belongs to the
 Muslims in common, while some of them have names peculiar to them,
 either by parentage, or by country, or on account of something else."
 
    And he \[Ibn Yatmiyeh\] comments upon their purposes, at some length,
 as follows: "so then, they consist of those who are outwardly
 Râfiḍheh,<span
-id="page_295_fr_daggerdagger"></span>[††](#page_295_note_daggerdagger)
+id="page_295_fr_daggerdagger"></span>[††](#page_295_note_daggerdagger.md)
 and inwardly pure infidels. And the truth of the matter in respect to
 them is, that they believe not in any one of the Prophets and the
 Messengers, neither in Nûh, or in Ibrâhîm, nor in Mûsa, nor in ’Îsa, nor
@@ -610,7 +610,7 @@ state of being in which he recompenses men for their actions, other than
 the present state. And sometimes, they base their profession of belief
 in accordance with the doctrines of the Philosophers, naturalistic, or
 deistic, upon that of the Mutaḳashshifeh,<span
-id="page_295_fr_ddaggerddagger"></span>[‡‡](#page_295_note_ddaggerddagger)
+id="page_295_fr_ddaggerddagger"></span>[‡‡](#page_295_note_ddaggerddagger.md)
 and <span id="page_296">p. 296</span> that of the Magians who worship
 fire; and to that add a mingling of Râfiḍhism, and falsify, reporting,
 for instance as a tradition handed down from the Prophet,—let the divine
@@ -619,7 +619,7 @@ created was the Intelligence, and he said to it, 'Approach,' and it
 approached, and he said to it, 'Retire,' and it retired;" and perverting
 the Prophet's expressions to such a degree that one of them writes, "The
 name of God,—let him be exalted! is on the lower part of his legs."<span
-id="page_296_fr_*"></span>[\*](#page_296_note_*) And they deny what the
+id="page_296_fr_*"></span>[\*](#page_296_note_*.md) And they deny what the
 Prophets have communicated.
 
    And the learned men of the Muslims are already agreed that, as for
@@ -642,7 +642,7 @@ whomsoever the sacrifice may not be partaken of; his sacrifice is like a
 dead animal. And as for their vessels, and their garments, they are like
 the vessels of the Magians, and the garments of the Magians, according
 to what is known of the doctrines of the Imâms; and The *The
-Ṣaḥîḥ*,<span id="page_296_fr_dagger"></span>[†](#page_296_note_dagger)
+Ṣaḥîḥ*,<span id="page_296_fr_dagger"></span>[†](#page_296_note_dagger.md)
 on that point, says that "their vessels should not be used, except after
 they have been <span id="page_297">p. 297</span> washed; for their
 sacrifices are dead animals; and so, of necessity, if any part of what
@@ -665,7 +665,7 @@ but keeping such difference secret. Says God,—let him be exalted! "And
 thou mayest not pronounce the benediction upon any one of them who dies,
 ever, and thou mayest not preside over his burial; verily, they
 disbelieve in God and his Envoy, and die as wicked persons."<span
-id="page_297_fr_*"></span>[\*](#page_297_note_*) How shall it be, then,
+id="page_297_fr_*"></span>[\*](#page_297_note_*.md) How shall it be, then,
 with these, who, together with Zendiḳism and hypocrisy, make a show of
 infidelity and heresy? And as for the employing of such as these on the
 frontiers of the Muslims, and in their fortresses, or among their
@@ -720,12 +720,12 @@ and as for those, they are those who are saved. Their Lord announces to
 them the gladness of mercy from him, and grace; and there are gardens
 for them, in which is enduring pleasure, where they shall abide forever.
 With God is great recompense."<span
-id="page_299_fr_*"></span>[\*](#page_299_note_*) And God,—glory be to
+id="page_299_fr_*"></span>[\*](#page_299_note_*.md) And God,—glory be to
 him! is the Knowing One.
 
 ------------------------------------------------------------------------
 
-[Next](isma1-4)
+[Next](isma1-4.md)
 
 ------------------------------------------------------------------------
 
@@ -733,15 +733,15 @@ him! is the Knowing One.
 
 <span id="footnotes_page_279">p. 279</span>
 
-<span id="page_279_note_*"></span>[\*](#page_279_fr_*) Meaning that it
+<span id="page_279_note_*"></span>[\*](#page_279_fr_*.md) Meaning that it
 obliges to go through laborious outward observances.
 
-<span id="page_279_note_dagger"></span>[†](#page_279_fr_dagger) See
+<span id="page_279_note_dagger"></span>[†](#page_279_fr_dagger.md) See
 Ḳurân, Sur. lvii. v. 13. The "wall" spoken of in this passage, is
 properly a wall separating "believers" from "hypocrites" in a future
 state.
 
-<span id="page_279_note_ddagger"></span>[‡](#page_279_fr_ddagger) This
+<span id="page_279_note_ddagger"></span>[‡](#page_279_fr_ddagger.md) This
 person, commonly called Ḳarmaṭ, was the leader of a faction among the
 Ismâ’ilis, which separated itself A. H. 277, i. e. A. D. 890-1, and
 afterwards became fearfully celebrated under the name of the Ḳarmaṭis,
@@ -751,15 +751,15 @@ said by our author to have originated, was on the Tigris, at about the
 same distance, fifty parasangs, from Baṣrah, Kûfeh, Ahwâz and Baghdâd.
 See Reinaud and De Slane's *Géographie d'Aboulféda*, p. 307.
 
-<span id="page_279_note_sect"></span>[§](#page_279_fr_sect) i. e. Party
+<span id="page_279_note_sect"></span>[§](#page_279_fr_sect.md) i. e. Party
 of the illegal.
 
-<span id="page_279_note_dvert"></span>[‖](#page_279_fr_dvert) i. e.
+<span id="page_279_note_dvert"></span>[‖](#page_279_fr_dvert.md) i. e.
 Party of the number seven.
 
 <span id="footnotes_page_280">p. 280</span>
 
-<span id="page_280_note_*"></span>[\*](#page_280_fr_*) i. e. Way of
+<span id="page_280_note_*"></span>[\*](#page_280_fr_*.md) i. e. Way of
 direction. The Muḥammed so designated was a son of Isma’îl Ibn Ja’far
 Eṣ-Ṣâdiḳ. Being the Nâṭiḳ of the seventh and last period of the
 Ismâ’ilis, this personage is to be considered as the originator of their
@@ -769,32 +769,32 @@ latter part of the eighth, or the beginning of the ninth, century of our
 era. See De Sacy's *Exposé de la Relig. des Druzes*, Tome i. Introd. pp,
 66-7.
 
-<span id="page_280_note_dagger"></span>[†](#page_280_fr_dagger) i. e.
+<span id="page_280_note_dagger"></span>[†](#page_280_fr_dagger.md) i. e.
 Argument, literally.
 
-<span id="page_280_note_ddagger"></span>[‡](#page_280_fr_ddagger) i. e.
+<span id="page_280_note_ddagger"></span>[‡](#page_280_fr_ddagger.md) i. e.
 Imbiber.
 
-<span id="page_280_note_sect"></span>[§](#page_280_fr_sect) The
+<span id="page_280_note_sect"></span>[§](#page_280_fr_sect.md) The
 Ismâ’ilian missionaries are called Bâbs, i. e. Gates, with reference to
 their being a medium of access to the Imâm.
 
-<span id="page_280_note_dvert"></span>[‖](#page_280_fr_dvert) i. e.
+<span id="page_280_note_dvert"></span>[‖](#page_280_fr_dvert.md) i. e.
 Greater Dâ’i, or Head Missionary. The Ismâ’ilis, in carrying on their
 proselytism, formed dioceses, over each of which some one Dâ’i presided.
 
-<span id="page_280_note_para"></span>[¶](#page_280_fr_para) i. e.
+<span id="page_280_note_para"></span>[¶](#page_280_fr_para.md) i. e.
 Licensed Dâ’i.
 
-<span id="page_280_note_**"></span>[\*\*](#page_280_fr_**) i. e.
+<span id="page_280_note_**"></span>[\*\*](#page_280_fr_**.md) i. e.
 Dog-trainer. The ground of this appellation appears in what immediately
 follows.
 
 <span id="footnotes_page_281">p. 281</span>
 
-<span id="page_281_note_*"></span>[\*](#page_281_fr_*) i e. Believer.
+<span id="page_281_note_*"></span>[\*](#page_281_fr_*.md) i e. Believer.
 
-<span id="page_281_note_dagger"></span>[†](#page_281_fr_dagger) i. e.
+<span id="page_281_note_dagger"></span>[†](#page_281_fr_dagger.md) i. e.
 Party of the Followers of Bâbek. These were, originally at least, of
 that subdivision of the Ismâ’ilis called the Extravagant Shi's. See
 Weil's *Geschichte der Chalifen*, Bd. ii. s. 236-6. The appellation
@@ -803,76 +803,76 @@ El-Khurṣany, here given to Bâbek, should undoubtedly be El-Khursany,
 Khorâsân, the country where Bâbek mustered his followers, in the reign
 of the Khalîfeh Mamûn.
 
-<span id="page_281_note_ddagger"></span>[‡](#page_281_fr_ddagger) See
-[note \* p. 280](#page_280_note_*).
+<span id="page_281_note_ddagger"></span>[‡](#page_281_fr_ddagger.md) See
+[note \* p. 280](#page_280_note_*.md).
 
-<span id="page_281_note_sect"></span>[§](#page_281_fr_sect) From this it
+<span id="page_281_note_sect"></span>[§](#page_281_fr_sect.md) From this it
 would appear that the Magian party established by Mazdak, whom the
 Sâsânide king Kobâd patronized, survived the death of its founder, and
 existed, bearing a name derived from its royal patron, at the time of
 the inroads of Islâm into Persia. See [note \* p.
-264](isma1-2.htm#page_264_note_*).
+264](isma1-2.htm#page_264_note_*.md).
 
 <span id="footnotes_page_282">p. 282</span>
 
-<span id="page_282_note_*"></span>[\*](#page_282_fr_*) That is, the
+<span id="page_282_note_*"></span>[\*](#page_282_fr_*.md) That is, the
 leader of the Ismâ’ilis in respect to the imitation of the Kobâdiyeh, in
 annulling the laws of Islâm by allegorical interpretation.
 
-<span id="page_282_note_dagger"></span>[†](#page_282_fr_dagger) De Sacy
+<span id="page_282_note_dagger"></span>[†](#page_282_fr_dagger.md) De Sacy
 supposes that this person lived about the middle of the century of the
 Hijrah, that is, about A. D. 864. See *Exposé de la Relig. des Druzes*,
 Tome i. Introd. p. 160.
 
-<span id="page_282_note_ddagger"></span>[‡](#page_282_fr_ddagger) A
+<span id="page_282_note_ddagger"></span>[‡](#page_282_fr_ddagger.md) A
 saying, apparently, of the Ismâ’ilis, meaning that to impart instruction
 to one not fit to receive it is not allowed. According to Von Hammer,
 quoting El-Jorjâny, the saying was that seed should not be thrown into a
 saline soil. See *Journal Asiatique*, Tome vi. p. 333.
 
-<span id="page_282_note_sect"></span>[§](#page_282_fr_sect) i. e. The
+<span id="page_282_note_sect"></span>[§](#page_282_fr_sect.md) i. e. The
 chapters of the Ḳurân.
 
 <span id="footnotes_page_283">p. 283</span>
 
-<span id="page_283_note_*"></span>[\*](#page_283_fr_*) Ḳurân, Sur.
+<span id="page_283_note_*"></span>[\*](#page_283_fr_*.md) Ḳurân, Sur.
 xxxiii v. 7.
 
-<span id="page_283_note_dagger"></span>[†](#page_283_fr_dagger) See [p.
-262](isma1-1.htm#page_262).
+<span id="page_283_note_dagger"></span>[†](#page_283_fr_dagger.md) See [p.
+262](isma1-1.htm#page_262.md).
 
-<span id="page_283_note_ddagger"></span>[‡](#page_283_fr_ddagger) Ḳurân
+<span id="page_283_note_ddagger"></span>[‡](#page_283_fr_ddagger.md) Ḳurân
 Sur. xxix. v. 44.
 
 <span id="footnotes_page_284">p. 284</span>
 
-<span id="page_284_note_*"></span>[\*](#page_284_fr_*) This and Eṣ-Ṣafâ
+<span id="page_284_note_*"></span>[\*](#page_284_fr_*.md) This and Eṣ-Ṣafâ
 are the two hills, near Mekkeh, between which the Muslim pilgrim
 performs a seven times repeated ceremonial walk, on coming to the holy
 city. See *Travels in Arabia*, by John Lewis Burckhardt, vol. i. pp.
 174-6.
 
-<span id="page_284_note_dagger"></span>[†](#page_284_fr_dagger) That is,
+<span id="page_284_note_dagger"></span>[†](#page_284_fr_dagger.md) That is,
 after the ceremonies on first coming to Mekkeh. See Burckhardt's
 *Travels in Arabia*, vol. i. pp. 179-80.
 
-<span id="page_284_note_ddagger"></span>[‡](#page_284_fr_ddagger)
+<span id="page_284_note_ddagger"></span>[‡](#page_284_fr_ddagger.md)
 Meaning the associating oneself with the Ismâ’ilis.
 
-<span id="page_284_note_sect"></span>[§](#page_284_fr_sect) Meaning the
+<span id="page_284_note_sect"></span>[§](#page_284_fr_sect.md) Meaning the
 performance of *reka’hs*, or prostrations, before the seven times
 repeated walk around the Ka’beh. See Burckhardt's *Travels in Arabia*
 vol. i. p. 172.
 
-<span id="page_284_note_dvert"></span>[‖](#page_284_fr_dvert) See [page
-264](isma1-2.htm#page_264).
+<span id="page_284_note_dvert"></span>[‖](#page_284_fr_dvert.md) See [page
+264](isma1-2.htm#page_264.md).
 
 <span id="footnotes_page_285">p. 285</span>
 
-<span id="page_285_note_*"></span>[\*](#page_285_fr_*) See [page
-267](isma1-2.htm#page_267), ff.
+<span id="page_285_note_*"></span>[\*](#page_285_fr_*.md) See [page
+267](isma1-2.htm#page_267.md), ff.
 
-<span id="page_285_note_dagger"></span>[†](#page_285_fr_dagger) El-Âmidy
+<span id="page_285_note_dagger"></span>[†](#page_285_fr_dagger.md) El-Âmidy
 now proceeds to state opinions which had been recently delivered by the
 fakîhs of Samarḳand, relative to the Ḳarmaṭis. The appellation of the
 Tâtârkhânîyeh which he here gives them, without any explanation, is
@@ -885,169 +885,169 @@ applicable to them.
 
 <span id="footnotes_page_286">p. 286</span>
 
-<span id="page_286_note_*"></span>[\*](#page_286_fr_*) See [note ¶ p.
-276](isma1-2.htm#page_276_note_para).
+<span id="page_286_note_*"></span>[\*](#page_286_fr_*.md) See [note ¶ p.
+276](isma1-2.htm#page_276_note_para.md).
 
 <span id="footnotes_page_287">p. 287</span>
 
-<span id="page_287_note_*"></span>[\*](#page_287_fr_*) Meaning the
+<span id="page_287_note_*"></span>[\*](#page_287_fr_*.md) Meaning the
 principles involving the abrogation of all outward observances.
 
 <span id="footnotes_page_288">p. 288</span>
 
-<span id="page_288_note_*"></span>[\*](#page_288_fr_*) Ḳurân, Sur. v. v.
+<span id="page_288_note_*"></span>[\*](#page_288_fr_*.md) Ḳurân, Sur. v. v.
 37. But there is a slight variation from the common reading in this
 quotation. The passage properly reads, "The portion of those etc. is
 only that etc."
 
-<span id="page_288_note_dagger"></span>[†](#page_288_fr_dagger) Here
+<span id="page_288_note_dagger"></span>[†](#page_288_fr_dagger.md) Here
 begins the third part of this document. See [p.
-261](isma1-1.htm#page_261).
+261](isma1-1.htm#page_261.md).
 
-<span id="page_288_note_ddagger"></span>[‡](#page_288_fr_ddagger) By
+<span id="page_288_note_ddagger"></span>[‡](#page_288_fr_ddagger.md) By
 this is intended, I suppose, the awakening of the dead, in their graves,
 to be examined by the angels Munkir and Nakîr, and to receive from them
 a foretaste of their final allotments.
 
 <span id="footnotes_page_289">p. 289</span>
 
-<span id="page_289_note_*"></span>[\*](#page_289_fr_*) The Nuṣairis are
+<span id="page_289_note_*"></span>[\*](#page_289_fr_*.md) The Nuṣairis are
 here represented as holding that the Deity in name, the Ism, and the
 Deity in reality, the Ma’na, appear in every age.
 
-<span id="page_289_note_dagger"></span>[†](#page_289_fr_dagger) Seth.
+<span id="page_289_note_dagger"></span>[†](#page_289_fr_dagger.md) Seth.
 
-<span id="page_289_note_ddagger"></span>[‡](#page_289_fr_ddagger) Its
+<span id="page_289_note_ddagger"></span>[‡](#page_289_fr_ddagger.md) Its
 original.
 
-<span id="page_289_note_sect"></span>[§](#page_289_fr_sect) See Ḳurân,
+<span id="page_289_note_sect"></span>[§](#page_289_fr_sect.md) See Ḳurân,
 Sur. xii. v. 99.
 
-<span id="page_289_note_dvert"></span>[‖](#page_289_fr_dvert) Ibid., v.
+<span id="page_289_note_dvert"></span>[‖](#page_289_fr_dvert.md) Ibid., v.
 92.
 
 <span id="footnotes_page_290">p. 290</span>
 
-<span id="page_290_note_*"></span>[\*](#page_290_fr_*) See Ḳurân, Sur.
+<span id="page_290_note_*"></span>[\*](#page_290_fr_*.md) See Ḳurân, Sur.
 xxvii. vv. 38-40. Âṣaf is not named in the Ḳurân, but El-Beiḍhâwy allows
 the interpretation which attributes to him the miracle here referred to.
 See *Beidawii Commentarius in Coranum*, ed. H. O. Fleischer, vol. ii. p.
 69.
 
-<span id="page_290_note_dagger"></span>[†](#page_290_fr_dagger) A
+<span id="page_290_note_dagger"></span>[†](#page_290_fr_dagger.md) A
 well-known sobriquet of ’Aly, among the Muslims, is the *Lion of God*.
 
-<span id="page_290_note_ddagger"></span>[‡](#page_290_fr_ddagger)
+<span id="page_290_note_ddagger"></span>[‡](#page_290_fr_ddagger.md)
 Meaning, probably, Ḥujjahs without manifested Imâms. The document,
 referred to in the Introduction, which I have set aside for the present,
 teaches that the number of the Imâms is seven, while that of the Ḥujjahs
 is twelve, without, however, admitting the doctrine of the disappearance
 of the Imâm.
 
-<span id="page_290_note_sect"></span>[§](#page_290_fr_sect) i. e.
+<span id="page_290_note_sect"></span>[§](#page_290_fr_sect.md) i. e.
 Administrators, a name given to the Ḥujjahs of the Imâms.
 
 <span id="footnotes_page_291">p. 291</span>
 
-<span id="page_291_note_*"></span>[\*](#page_291_fr_*) This refers to
+<span id="page_291_note_*"></span>[\*](#page_291_fr_*.md) This refers to
 the victories of Ṣalâḥ ed-dîn over the Christians, in the latter part of
 the twelfth century of our era. See *Vita et Res Gestae Saladini*, ed.
 Albertus Schultens, pp. 34, ff.
 
-<span id="page_291_note_dagger"></span>[†](#page_291_fr_dagger) Meaning
+<span id="page_291_note_dagger"></span>[†](#page_291_fr_dagger.md) Meaning
 the provincial governor.
 
 <span id="footnotes_page_292">p. 292</span>
 
-<span id="page_292_note_*"></span>[\*](#page_292_fr_*) The
+<span id="page_292_note_*"></span>[\*](#page_292_fr_*.md) The
 Mediterranean.
 
-<span id="page_292_note_dagger"></span>[†](#page_292_fr_dagger) It seems
+<span id="page_292_note_dagger"></span>[†](#page_292_fr_dagger.md) It seems
 to have been understood, when Ibn Yatmiyeh gave the following opinion,
 that the Nusairis were a class of the Ḳarmaṭis.
 
 <span id="footnotes_page_293">p. 293</span>
 
-<span id="page_293_note_*"></span>[\*](#page_293_fr_*) Meaning the
+<span id="page_293_note_*"></span>[\*](#page_293_fr_*.md) Meaning the
 verses of the Ḳurân.
 
-<span id="page_293_note_dagger"></span>[†](#page_293_fr_dagger) The
+<span id="page_293_note_dagger"></span>[†](#page_293_fr_dagger.md) The
 Ka’beh.
 
-<span id="page_293_note_ddagger"></span>[‡](#page_293_fr_ddagger) Abû
+<span id="page_293_note_ddagger"></span>[‡](#page_293_fr_ddagger.md) Abû
 Lahab, an uncle of Muḥammed, was one of his most implacable enemies.
 
-<span id="page_293_note_sect"></span>[§](#page_293_fr_sect) This refers
+<span id="page_293_note_sect"></span>[§](#page_293_fr_sect.md) This refers
 to the taking of Mekkeh by the followers of Ḳarmaṭ, under Abû Ṭâhir,
 A. H. 317, i. e. A. D. 929-30. See *Mémoires de l'Institut*, Tome iv. p.
 5.
 
-<span id="page_293_note_dvert"></span>[‖](#page_293_fr_dvert) Or,
+<span id="page_293_note_dvert"></span>[‖](#page_293_fr_dvert.md) Or,
 Magism.
 
 <span id="footnotes_page_294">p. 294</span>
 
-<span id="page_294_note_*"></span>[\*](#page_294_fr_*) Alluding,
+<span id="page_294_note_*"></span>[\*](#page_294_fr_*.md) Alluding,
 probably, to the discomfiture and repulse which the Mongols received,
 when they at length invaded Syria, in the beginning of the fourteenth
 century of our era. See *Abulfedae Annales Muslemici*, ed. J. J. Reiske,
 Tome v. pp. 172, ff.
 
-<span id="page_294_note_dagger"></span>[†](#page_294_fr_dagger) Abulfeda
+<span id="page_294_note_dagger"></span>[†](#page_294_fr_dagger.md) Abulfeda
 assigns this conquest of Cyprus by Mu’âwiyeh to the year of the Hijrah
 28, i. e. A. D. 648-9. See *Abulfedae Annales Muslemici*, Tome i. p.
 262.
 
 <span id="footnotes_page_295">p. 295</span>
 
-<span id="page_295_note_*"></span>[\*](#page_295_fr_*) This statement of
+<span id="page_295_note_*"></span>[\*](#page_295_fr_*.md) This statement of
 the relations existing between the Nuṣairis and the Christians in Syria,
 from the middle of the tenth century of our era down into the fourteenth
 century, the period when Ibn Yatmiyeh himself lived, can not fail to be
 regarded with interest, as it is believed to be quite new.
 
-<span id="page_295_note_dagger"></span>[†](#page_295_fr_dagger) i. e.
+<span id="page_295_note_dagger"></span>[†](#page_295_fr_dagger.md) i. e.
 Party of the Sellers of salt, probably. I think it has been said by some
 one, that, at the present day, Nuṣairis come to Beirût to sell salt.
 
-<span id="page_295_note_ddagger"></span>[‡](#page_295_fr_ddagger) i. e.
+<span id="page_295_note_ddagger"></span>[‡](#page_295_fr_ddagger.md) i. e.
 Party of the inebriates.
 
-<span id="page_295_note_sect"></span>[§](#page_295_fr_sect) See [note §
-p. 279](#page_279_note_sect).
+<span id="page_295_note_sect"></span>[§](#page_295_fr_sect.md) See [note §
+p. 279](#page_279_note_sect.md).
 
-<span id="page_295_note_dvert"></span>[‖](#page_295_fr_dvert) See [note
-‖ p. 273](isma1-2.htm#page_273_note_dvert).
+<span id="page_295_note_dvert"></span>[‖](#page_295_fr_dvert.md) See [note
+‖ p. 273](isma1-2.htm#page_273_note_dvert.md).
 
-<span id="page_295_note_para"></span>[¶](#page_295_fr_para) Meaning the
+<span id="page_295_note_para"></span>[¶](#page_295_fr_para.md) Meaning the
 name El-Muslimûn.
 
-<span id="page_295_note_**"></span>[\*\*](#page_295_fr_**) Meaning the
+<span id="page_295_note_**"></span>[\*\*](#page_295_fr_**.md) Meaning the
 name El-Muminûn.
 
 <span
-id="page_295_note_daggerdagger"></span>[††](#page_295_fr_daggerdagger)
-See [note † p. 276](isma1-2.htm#page_276_note_dagger).
+id="page_295_note_daggerdagger"></span>[††](#page_295_fr_daggerdagger.md)
+See [note † p. 276](isma1-2.htm#page_276_note_dagger.md).
 
 <span
-id="page_295_note_ddaggerddagger"></span>[‡‡](#page_295_fr_ddaggerddagger)
+id="page_295_note_ddaggerddagger"></span>[‡‡](#page_295_fr_ddaggerddagger.md)
 i. e. Party of the Squalid. The Brâhman Hermits, or Buddhist Mendicants,
 are probably referred to here.
 
 <span id="footnotes_page_296">p. 296</span>
 
-<span id="page_296_note_*"></span>[\*](#page_296_fr_*) May not the
+<span id="page_296_note_*"></span>[\*](#page_296_fr_*.md) May not the
 saying here attributed to the Nuṣairis, be an imitation of what is said
 of the "Word of God" in Rev. xix. 16. "And he hath on his vesture and on
 his thigh a name written, King of kings and Lord of lords?"
 
-<span id="page_296_note_dagger"></span>[†](#page_296_fr_dagger) Probably
+<span id="page_296_note_dagger"></span>[†](#page_296_fr_dagger.md) Probably
 *The Ṣaḥîḥ* of El-Bukhâry, which is the most esteemed of the collections
 of authentic traditions bearing this name.
 
 <span id="footnotes_page_297">p. 297</span>
 
-<span id="page_297_note_*"></span>[\*](#page_297_fr_*) Ḳurân, Sur. ix.
+<span id="page_297_note_*"></span>[\*](#page_297_fr_*.md) Ḳurân, Sur. ix.
 v. 85. In El-Beiḍhâwy's commentary on this verse we read, "It is
 reported by tradition that ’Abdallah Ibn Ubeiy called for the Prophet of
 God, during his illness; and after he had entered where he was, he asked
@@ -1061,7 +1061,7 @@ Prophet*, von Dr. Gustav Weil, s. 283.
 
 <span id="footnotes_page_299">p. 299</span>
 
-<span id="page_299_note_*"></span>[\*](#page_299_fr_*) Ḳurân, Sur. ix.
+<span id="page_299_note_*"></span>[\*](#page_299_fr_*.md) Ḳurân, Sur. ix.
 vv. 19-22.
 
  

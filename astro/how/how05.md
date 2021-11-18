@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how04)  [Next](how06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how04)  [Next](how06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ when the planet is lowest and nearest to the sun and thereby delays the
 least in one degree of its eccentric, and conversely in one day
 traverses the greatest diurnal arc of its eccentric and appears fastest
 from the sun: then its movement remains for some time in this strength
-without [perceptible](errata.htm#2) variation, until, after passing the
+without [perceptible](errata.htm#2.md) variation, until, after passing the
 perihelion, the planet gradually begins to depart farther from the sun
 in a straight line; at that same time it delays longer in the degrees of
 its eccentric circle; or, if you consider the movement of one day, on
@@ -71,7 +71,7 @@ the table:
 <span id="img_102400"></span>
 
 [![](tn/102400.jpg)  
-Click to enlarge](img/102400.jpg)
+Click to enlarge](img/102400.jpg.md)
 
 Accordingly, in these periodic times there are no harmonic ratios, as is
 easily apparent, if the greater periods are continuously halved, and the
@@ -82,7 +82,7 @@ octave.
 <span id="img_102401"></span>
 
 [![](tn/102401.jpg)  
-Click to enlarge](img/102401.jpg)
+Click to enlarge](img/102401.jpg.md)
 
 All the last numbers, as you see, are counter to harmonic ratios and
 seem, as it were, irrational. For let 687, the number of days of Mars,
@@ -148,12 +148,12 @@ Mars* and investigated in very persevering study for seventeen years.
 <span id="page_1026">p. 1026</span>
 
 Intervals Compared with Harmonic Ratios <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 <span id="img_102600"></span>
 
 [![](tn/102600.jpg)  
-Click to enlarge](img/102600.jpg)
+Click to enlarge](img/102600.jpg.md)
 
 \[285\] Therefore the extreme intervals of no one planet come near
 consonances except those of Mars and Mercury.
@@ -241,7 +241,7 @@ produced:
 <span id="img_102900"></span>
 
 [![](tn/102900.jpg)  
-Click to enlarge](img/102900.jpg)
+Click to enlarge](img/102900.jpg.md)
 
 Thus Saturn traverses barely one seventh of the journey of Mercury; and
 hence, as Aristotle judged consonant with reason in Book II of *On the
@@ -316,7 +316,7 @@ the perihelial movement will become 393; and both cases are
 <span id="img_103100"></span>
 
 [![](tn/103100.jpg)  
-Click to enlarge](img/103100.jpg)
+Click to enlarge](img/103100.jpg.md)
 
 greater than I have here laid down, because the mean movement at the
 mean anomaly, viewed very obliquely, does not appear as great, *viz*.,
@@ -379,7 +379,7 @@ one eighth of 38´1″ is 4´45″, although Jupiter has 4´30″; and between
 these numbers there is still a difference of 18 : 19, which is a mean
 between the semitone of 15 : 16 and the diesis of 24 : 25, namely,
 approximately a perfect lemma of 128 : 135. <span
-id="fr_3"></span>[1](#fn_3) Thus one fifth of 26´14″ is 5´15″, although
+id="fr_3"></span>[1](#fn_3.md) Thus one fifth of 26´14″ is 5´15″, although
 Jupiter has 5´30″; accordingly in this case the quintuple ratio is
 diminished in the ratio of 21 : 22, the augment in the case of the other
 ratio, *viz*., approximately a diesis of 24 : 25.
@@ -418,7 +418,7 @@ as their least, but not absolute-perfectly. For one fourth of 384´ is
 96´0″, although Venus has 94´50″. Therefore the quadruple adds
 approximately one comma. Thus one fifth of 164´ is 32´48″, which if
 multiplied by 3 gives 98´24″, although Venus has 97´37″. Therefore the
-planetary ratio is diminished by about [two](errata.htm#3) thirds of a
+planetary ratio is diminished by about [two](errata.htm#3.md) thirds of a
 comma, *i.e.*, 126 : 127.
 
 Accordingly the above consonances have been ascribed to the planets; nor
@@ -504,8 +504,8 @@ at its aphelion, cannot be at the same time at the opposite perihelion
 too, but of two planets one can be at its aphelion and the other at its
 perihelion at the same moment of time. And so the ratio of plain-song or
 monody, which we call choral music and which alone was known to the
-ancients, <span id="fr_4"></span>[1](#fn_4) to polyphony—called "figured
-song,"; <span id="fr_5"></span>[2](#fn_5) the invention of the latest
+ancients, <span id="fr_4"></span>[1](#fn_4.md) to polyphony—called "figured
+song,"; <span id="fr_5"></span>[2](#fn_5.md) the invention of the latest
 generations—is the same as the ratio of the consonances which the single
 planets designate to the consonances of the planets taken together. And
 so, further on, in Chapters 5 and 6, the single planets will be compared
@@ -518,7 +518,7 @@ things.
 
 ### Footnotes
 
-<span id="fn_2"></span>[1026:1](how05.htm#fr_2) GENERAL NOTE: Throughout
+<span id="fn_2"></span>[1026:1](how05.htm#fr_2.md) GENERAL NOTE: Throughout
 this text Kepler's *concinna* and *inconcinna* are translated as
 "concordant" and "discordant." *Concinna* is usually used by Kepler of
 all intervals whose ratios occur within the "natural system" or the just
@@ -544,7 +544,7 @@ An octave system in the minor scale (*Systema octavae in cantu molli*)
 <span id="img_102601"></span>
 
 [![](tn/102601.jpg)  
-Click to enlarge](img/102601.jpg)
+Click to enlarge](img/102601.jpg.md)
 
 <span id="page_1027">p. 1027</span>
 
@@ -553,7 +553,7 @@ In the major scale (*In cantu duro*)
 <span id="img_102700"></span>
 
 [![](tn/102700.jpg)  
-Click to enlarge](img/102700.jpg)
+Click to enlarge](img/102700.jpg.md)
 
 As in all music, these scales can be repeated at one or more octaves
 above. The ratios would then all be halved, *i.e.*,
@@ -561,21 +561,21 @@ above. The ratios would then all be halved, *i.e.*,
 <span id="img_102701"></span>
 
 [![](tn/102701.jpg)  
-Click to enlarge](img/102701.jpg)
+Click to enlarge](img/102701.jpg.md)
 
 Various intervals which Kepler considers are:
 
 <span id="img_102702"></span>
 
 [![](tn/102702.jpg)  
-Click to enlarge](img/102702.jpg)
+Click to enlarge](img/102702.jpg.md)
 
 <span id="page_1028">p. 1028</span>
 
 <span id="img_102800"></span>
 
 [![](tn/102800.jpg)  
-Click to enlarge](img/102800.jpg)
+Click to enlarge](img/102800.jpg.md)
 
 All these are simple intervals. When one or more octaves are added to
 any simple intervals the resultant interval is a "compound" interval.
@@ -610,7 +610,7 @@ the opposite order from those in ratios of string lengths:
 <span id="img_102801"></span>
 
 [![](tn/102801.jpg)  
-Click to enlarge](img/102801.jpg)
+Click to enlarge](img/102801.jpg.md)
 
 An arbitrary pitch G is chosen to situate these ratios. This g or
 "gamma" was usually the lowest tone of the sixteenth-century musical
@@ -618,14 +618,14 @@ gamut.
 
 ELLIOTT CARTER, JR.
 
-<span id="fn_3"></span>[1032:1](how05.htm#fr_3) *cf*. Footnote to
+<span id="fn_3"></span>[1032:1](how05.htm#fr_3.md) *cf*. Footnote to
 *Intervals Compared with Harmonic Ratios*, p. 1026.
 
-<span id="fn_4"></span>[1034:1](how05.htm#fr_4) The choral music of the
+<span id="fn_4"></span>[1034:1](how05.htm#fr_4.md) The choral music of the
 Greeks was monolinear, everyone singing the same melody together.—E. C.,
 Jr.
 
-<span id="fn_5"></span>[1034:2](how05.htm#fr_5) In plain-song all the
+<span id="fn_5"></span>[1034:2](how05.htm#fr_5.md) In plain-song all the
 time values of the notes were approximately equal, while in "figured
 song" time values of different lengths were indicated by the notes,
 which gave composers an opportunity both to regulate the way different
@@ -636,4 +636,4 @@ style.—E. C., Jr.
 ------------------------------------------------------------------------
 
 [Next: 5. In The Ratios of the Planetary Movements Which Are
-Apparent...](how06)
+Apparent...](how06.md)

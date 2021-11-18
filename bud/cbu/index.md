@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029LHUYM/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](cbu00)    [Page
-Index](pageidx)    [Text \[Zipped\]](cbu.txt.gz)
+[Contents](#contents)    [Start Reading](cbu00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](cbu.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Buddhist geography and cosmology, the calendar of festivals, temple
 architecture, and the vast array of entities which are represented in
 sacred spaces. Of interest is his discussion of Kwan-yin, the Chinese
 Madonna, who began as a male Buddha and evolved into a goddess figure.
-There is a critical [essay on Feng-shui](cbu26), with details of this
+There is a critical [essay on Feng-shui](cbu26.md), with details of this
 form of Chinese geomancy and how it developed. He enumerates dozens of
 Chinese Buddhist sacred texts, and provides translations of some
 excerpts. Edkins was a skilled linguist and explains how Sanskrit terms
@@ -69,61 +69,61 @@ a snapshot of China in the late 19th century.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](cbu00)  
-[Advertisements](cbu01)  
-[Preface to Second Edition](cbu02)  
-[Preface](cbu03)  
-[Contents](cbu04)  
-[Introduction](cbu05)  
+<span id="contents"></span> [Title Page and Front Matter](cbu00.md)  
+[Advertisements](cbu01.md)  
+[Preface to Second Edition](cbu02.md)  
+[Preface](cbu03.md)  
+[Contents](cbu04.md)  
+[Introduction](cbu05.md)  
 [Chapter I: Life of Shakyamuni Till His Appearance at Benares as a
-Teacher](cbu06)  
+Teacher](cbu06.md)  
 [Chapter II: Life of Buddha From His Appearance as a Teacher at Benares
-to the Conversion of Rahula](cbu07)  
+to the Conversion of Rahula](cbu07.md)  
 [Chapter III. From the Commencement of Rahula's Religious Life Till the
-Near Approach of the Nirvana](cbu08)  
-[Chapter IV. Last Discourses and Death of Buddha](cbu09)  
+Near Approach of the Nirvana](cbu08.md)  
+[Chapter IV. Last Discourses and Death of Buddha](cbu09.md)  
 
  
 
-[Chapter V. The Patriarchs of the Northern Buddhists](cbu10)  
-[Chapter VI. Sketch of the History of Buddhism in China](cbu11)  
-[Chapter VII. The Schools of Chinese Buddhism](cbu12)  
+[Chapter V. The Patriarchs of the Northern Buddhists](cbu10.md)  
+[Chapter VI. Sketch of the History of Buddhism in China](cbu11.md)  
+[Chapter VII. The Schools of Chinese Buddhism](cbu12.md)  
 [Chapter VIII. On Chi-K‘ai and the T‘ien-T‘ai School of
-Buddhism](cbu13)  
-[Chapter IX. The Buddhist Moral System](cbu14)  
-[Chapter X. The Buddhist Calendar](cbu15)  
+Buddhism](cbu13.md)  
+[Chapter IX. The Buddhist Moral System](cbu14.md)  
+[Chapter X. The Buddhist Calendar](cbu15.md)  
 [Chapter XI. Relation of Buddhism to the Older Hindoo
-Mythology](cbu16)  
-[Chapter XII. The Buddhist Universe](cbu17)  
-[Chapter XIII. The Extended Universe of the Northern Buddhists](cbu18)  
-[Chapter XIV. Buddhist Images and Image Worship](cbu19)  
-[Chapter XV. Monasteries At P‘u-To](cbu20)  
+Mythology](cbu16.md)  
+[Chapter XII. The Buddhist Universe](cbu17.md)  
+[Chapter XIII. The Extended Universe of the Northern Buddhists](cbu18.md)  
+[Chapter XIV. Buddhist Images and Image Worship](cbu19.md)  
+[Chapter XV. Monasteries At P‘u-To](cbu20.md)  
 [Chapter XVI. Buddhist Processions, Associations, Pilgrimages, and
-Ceremonies for the Dead](cbu21)  
-[Chapter XVII. Buddhist Literature](cbu22)  
-[Chapter XVIII. The Leng-Yen-King.—First Chapter](cbu23)  
-[Chapter XIX. The Ekashloka Shastra](cbu24)  
+Ceremonies for the Dead](cbu21.md)  
+[Chapter XVII. Buddhist Literature](cbu22.md)  
+[Chapter XVIII. The Leng-Yen-King.—First Chapter](cbu23.md)  
+[Chapter XIX. The Ekashloka Shastra](cbu24.md)  
 [Chapter XX. Effect of Buddhism on the Philosophy of the Sung
-Dynasty](cbu25)  
+Dynasty](cbu25.md)  
 [Chapter XXI. Feng-Shui; or, the Wind and Water Superstition of the
-Chinese](cbu26)  
+Chinese](cbu26.md)  
 [Chapter XXII. Buddhist Phraseology in Relation to Christian
-Teaching](cbu27)  
+Teaching](cbu27.md)  
 [Chapter XXIII. Notice of the Wu-Wei-Kiau, a Reformed Buddhist
-Sect](cbu28)  
-[Chapter XXIV. Buddhism and Tauism in their Popular Aspects](cbu29)  
-[Chapter XXV. On the Use of Sanscrit by the Chinese Buddhists](cbu30)  
+Sect](cbu28.md)  
+[Chapter XXIV. Buddhism and Tauism in their Popular Aspects](cbu29.md)  
+[Chapter XXV. On the Use of Sanscrit by the Chinese Buddhists](cbu30.md)  
 [Chapter XXVI. Books and Papers That May be Consulted for the Study of
-Chinese Buddhism](cbu31)  
+Chinese Buddhism](cbu31.md)  
 <span id="section_000"></span>
 
 ### Alphabetical Index of Proper Names and Subjects
 
-[A-E](cbu32)  
-[F-M](cbu33)  
-[N-R](cbu34)  
-[R-Z](cbu35)  
+[A-E](cbu32.md)  
+[F-M](cbu33.md)  
+[N-R](cbu34.md)  
+[R-Z](cbu35.md)  
 
  
 
-[Alphabetical Index of Titles of Books Mentioned in this Work](cbu36)  
+[Alphabetical Index of Titles of Books Mentioned in this Work](cbu36.md)  

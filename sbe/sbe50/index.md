@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Books of the
-East](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred Books of the
+East](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,8 +22,8 @@ East](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](_000)    [Page
-Index](pageidx)   
+[Contents](#contents)    [Start Reading](_000.md)    [Page
+Index](pageidx.md)   
 
 ------------------------------------------------------------------------
 
@@ -37,13 +37,13 @@ headings as a stand-in for the main body of the book.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](_000)  
-[Contents](_001)  
-[Preface](_002)  
-[Introductory Note, by the Author](_003)  
-[List of Religions Represented in the Sacred Books of the East](_004)  
-[List of Translators](_005)  
-[Abbreviations](_006)  
-[List of the 49 Volumes of the Sacred Books of the East](_007)  
-[Index](_008)  
-[Addenda And Corrigenda](_009)  
+<span id="contents"></span> [Title Page](_000.md)  
+[Contents](_001.md)  
+[Preface](_002.md)  
+[Introductory Note, by the Author](_003.md)  
+[List of Religions Represented in the Sacred Books of the East](_004.md)  
+[List of Translators](_005.md)  
+[Abbreviations](_006.md)  
+[List of the 49 Volumes of the Sacred Books of the East](_007.md)  
+[Index](_008.md)  
+[Addenda And Corrigenda](_009.md)  

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe068)  [Next](prwe070) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe068)  [Next](prwe070.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ pins acquiring, through some unknown agency, a peculiar motion.
 
 ------------------------------------------------------------------------
 
-[Next: The Crick Stone in Morva](prwe070)
+[Next: The Crick Stone in Morva](prwe070.md)

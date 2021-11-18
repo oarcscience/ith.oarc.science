@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp22)  [Next](potp24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp22)  [Next](potp24.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ experienced,
 the Antarctic Circle. It must migrate for food in winter, but it cannot
 fly. If the earth is not hollow, where does this bird go when the ice
 prevents it from swimming?](tn/25700.jpg)  
-Click to enlarge](img/25700.jpg)  
+Click to enlarge](img/25700.jpg.md)  
 THE EMPEROR PENGUIN.  
 Found at the farthest point reached in the Antarctic Circle. It must
 migrate for food in winter, but it cannot fly. If the earth is not
@@ -273,4 +273,4 @@ explorers have found to be the case.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX. The Centre of Gravity](potp24)
+[Next: Chapter XX. The Centre of Gravity](potp24.md)

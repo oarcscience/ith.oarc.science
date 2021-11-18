@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc10)  [Next](scc12) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc10)  [Next](scc12.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ them into the fire." And so the dead were burned.
 
 ------------------------------------------------------------------------
 
-[Next: 10.--Pohonichi Miwok. The Bear And Deer Children.](scc12)
+[Next: 10.--Pohonichi Miwok. The Bear And Deer Children.](scc12.md)

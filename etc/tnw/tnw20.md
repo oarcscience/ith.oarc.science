@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw19)  [Next](tnw21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw19)  [Next](tnw21.md) 
 
 ------------------------------------------------------------------------
 
@@ -453,4 +453,4 @@ no continuing city, but he seeks one to come.
 
 ------------------------------------------------------------------------
 
-[Next: 20. Ethics: The Book of Etiquette](tnw21)
+[Next: 20. Ethics: The Book of Etiquette](tnw21.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs47)  [Next](mhs49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs47)  [Next](mhs49.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ the spell which binds me."
 
 ------------------------------------------------------------------------
 
-[Next: Days Of Good And Evil Omen](mhs49)
+[Next: Days Of Good And Evil Omen](mhs49.md)

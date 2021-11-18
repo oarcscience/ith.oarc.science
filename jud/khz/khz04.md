@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](khz03)  [Next](khz05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](khz03)  [Next](khz05.md) 
 
 ------------------------------------------------------------------------
 
@@ -285,8 +285,8 @@ these things. He to whom this eye has been given is clear-sighted
 indeed. Other people who appear to him as blind, he guides on their way.
 It is possible that this eye is the power of imagination as long as it
 is under the control of the intellect. It beholds, then, a grand
-[and](errata.htm#12) awful sight which reveals
-[unmistakable](errata.htm#13) truths. The best proof of its truth is the
+[and](errata.htm#12.md) awful sight which reveals
+[unmistakable](errata.htm#13.md) truths. The best proof of its truth is the
 harmony prevailing
 
 <span id="page_208">p. 208</span>
@@ -1462,4 +1462,4 @@ Finished is Part Four, and we begin--
 
 ------------------------------------------------------------------------
 
-[Next: Part Five](khz05)
+[Next: Part Five](khz05.md)

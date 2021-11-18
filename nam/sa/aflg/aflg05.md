@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg04) [Next](aflg06)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg04) [Next](aflg06.md)
 
 ------------------------------------------------------------------------
 
@@ -8,37 +8,37 @@ American](../index) [Index](index) [Previous](aflg04) [Next](aflg06)
 ## C<span class="small">HAPTER</span> V THE BODY AND ITS ASSOCIATED SPIRITS
 
    <span class="small">The Body: Originally considered immortal
-(*[63](#pp_63)*); renovated by change of skin (*[64](#pp_64)*), or by
-Fountain of Youth (*[65](#pp_65)*); its immortality put to the test
-(*[66](#pp_66)*), and assured by its transformation into stone
-(*[67](#pp_67)*).  
+(*[63](#pp_63)*); renovated by change of skin (*[64](#pp_64)*.md), or by
+Fountain of Youth (*[65](#pp_65)*.md); its immortality put to the test
+(*[66](#pp_66)*.md), and assured by its transformation into stone
+(*[67](#pp_67)*.md).  
    The Spirits: Several in each body; Shadow Spirits; Head, Heart, and
 Pulse-beat, Blood, Spittle, Footprint, and Bone Spirits, possessed by
-both men (*[68](#pp_68)-69*) and animals (*[70](#pp_70)*): become
+both men (*[68](#pp_68)-69*) and animals (*[70](#pp_70)*.md): become
 associated with Dream, Familiar, Forest, Mountain, Sky, and Water,
-Spirits (*[71](#pp_71)*).  
+Spirits (*[71](#pp_71)*.md).  
    Stages in Conception of Spirit Immortality shown in disposal and
-treatment of corpse: attitude in which buried, etc. (*[72](#pp_72)*);
-flattery and adulation, festivals and feasts (*[73](#pp_73)-74*);
-furnishing dead with means of capturing assailant (*[75](#pp_75)*);
+treatment of corpse: attitude in which buried, etc. (*[72](#pp_72)*.md);
+flattery and adulation, festivals and feasts (*[73](#pp_73)-74*.md);
+furnishing dead with means of capturing assailant (*[75](#pp_75)*.md);
 supplying dead with dogs, women, ornaments, hunting and fighting
-weapons, and food (*[76](#pp_76)*); eating his flesh and bones
-(*[77](#pp_77)*); exhuming his remains for witchcraft and prophecy
-(*[78](#pp_78)*); abandonment of place of sepulture, etc.
-(*[79](#pp_79)*); doubtful animistic indications of other burial customs
-(*[80](#pp_80)*).  
+weapons, and food (*[76](#pp_76)*.md); eating his flesh and bones
+(*[77](#pp_77)*.md); exhuming his remains for witchcraft and prophecy
+(*[78](#pp_78)*.md); abandonment of place of sepulture, etc.
+(*[79](#pp_79)*.md); doubtful animistic indications of other burial customs
+(*[80](#pp_80)*.md).  
    Where spirits take on anthropomorphic forms, they reach their final
-destination direct (*[81](#pp_81)*) or only after certain trials and
-ordeals (*[82](#pp_82)*), but the idea of a future existence dependent
-on present conduct is very probably a borrowed one (*[83](#pp_83)*).  
+destination direct (*[81](#pp_81)*.md) or only after certain trials and
+ordeals (*[82](#pp_82)*.md), but the idea of a future existence dependent
+on present conduct is very probably a borrowed one (*[83](#pp_83)*.md).  
    Spirits are Good or Bad according as they help or harm the Indian,
 and *not* according to the bodies whence they have been derived; the
 latter conception is an error into which many missionaries and travelers
-have fallen—*e. g.*, the Maboya Spirit (*[84](#pp_84)*).  
+have fallen—*e. g.*, the Maboya Spirit (*[84](#pp_84)*.md).  
    Individuals can be relieved of the presence of undesirable Spirits by
-use of rattle, by blowing (*[85](#pp_85)*).</span>
+use of rattle, by blowing (*[85](#pp_85)*.md).</span>
 
-   <span id="pp_63"></span>**63.**[\*](#pp_63) As with many another
+   <span id="pp_63"></span>**63.**[\*](#pp_63.md) As with many another
 savage people, there are traces among the Guiana Indians of an idea of
 perpetual existence of both body and its contained spirits. On the upper
 Yary River, Cayenne, when a Roucouyenne piai is buried, the flesh
@@ -54,7 +54,7 @@ records in his 'Unter den Naturvölkern' (p. 348)." So also on the upper
 Rio Negro Koch-Grünberg (<span class="small">I</span>, 197) was applied
 to for a panacea (*Universalsmittel*) against death.
 
-   <span id="pp_64"></span>**64.**[\*](#pp_64) Other phases of this idea
+   <span id="pp_64"></span>**64.**[\*](#pp_64.md) Other phases of this idea
 of an immortal body are met with in the myths relative to changed skins:
 the Indian belief is that those creatures which undergo ecdysis live
 forever. After Amalivaca had lived a long while with the Tamanacas, he
@@ -70,16 +70,16 @@ took away their everlasting life and bestowed it on those creatures who
 cast their skins—snakes, lizard and cockroaches (ScR, <span
 class="small">II</span>, 319).
 
-   <span id="pp_64A"></span>**64A.**[\*](#pp_64A) There are several
+   <span id="pp_64A"></span>**64A.**[\*](#pp_64A.md) There are several
 examples of this taking-off and putting-on of skins and consequent
 continuous existence, to be met with in the Guiana folk-lore (*e. g.*,
-[Sects. *64B*](aflg05.htm#pp_64B), [*137*](aflg09.htm#pp_137),
-[*162*](aflg09.htm#pp_162)), therefore I can only conclude that all of
+[Sects. *64B*](aflg05.htm#pp_64B), [*137*](aflg09.htm#pp_137.md),
+[*162*](aflg09.htm#pp_162).md), therefore I can only conclude that all of
 these are stages in the conception of the same idea of living forever.
 
  
 
-<span id="story_11"></span>[\*](#story_11)T<span class="small">HE</span>
+<span id="story_11"></span>[\*](#story_11.md)T<span class="small">HE</span>
 M<span class="small">AN WlTH A</span> B<span class="small">AD</span>
 T<span class="small">EMPER</span> (W)
 
@@ -143,13 +143,13 @@ T<span class="small">EMPER</span> (W)
 > broke her calabash, and smashed her goblets. What a bad temper he must
 > have had!
 
-   <span id="pp_64B"></span>**64B.**[\*](#pp_64B) Another example is to
+   <span id="pp_64B"></span>**64B.**[\*](#pp_64B.md) Another example is to
 be met in the story which I am adapting here from Brett ([BrB,
-177](../lmbg/lmbg5b.htm#page_177)).
+177](../lmbg/lmbg5b.htm#page_177).md).
 
  
 
-<span id="story_12"></span>[\*](#story_12)T<span class="small">HE</span>
+<span id="story_12"></span>[\*](#story_12.md)T<span class="small">HE</span>
 S<span class="small">ORCERER'S</span> D<span
 class="small">AUGHTER</span>
 
@@ -171,7 +171,7 @@ class="small">AUGHTER</span>
 > on the already lighted fire. He then claimed the girl from her father
 > for his wife.
 
-   <span id="pp_65"></span>**65.**[\*](#pp_65) It was owing to a myth
+   <span id="pp_65"></span>**65.**[\*](#pp_65.md) It was owing to a myth
 relative to the fountain of perennial youth that Florida came to be
 discovered just four centuries ago. Some old Island Indians, presumably
 of the Arawak stock, assured Ponce de Leon that—
@@ -185,7 +185,7 @@ of the Arawak stock, assured Ponce de Leon that—
 > was concluded that they were flourishing in renovated youth, detained
 > by the pleasure of that enchanting country. \[WI, 788.\]
 
-   <span id="pp_66"></span>**66.**[\*](#pp_66) Another interesting
+   <span id="pp_66"></span>**66.**[\*](#pp_66.md) Another interesting
 example of the existence of this idea of immortality is connected with
 the Arawak stock in Porto Rico:
 
@@ -211,16 +211,16 @@ the Arawak stock in Porto Rico:
 > readily entered into a general conspiracy to destroy them. \[WI,
 > 779.\]
 
-   <span id="pp_67"></span>**67.**[\*](#pp_67) Certain of the Indians
+   <span id="pp_67"></span>**67.**[\*](#pp_67.md) Certain of the Indians
 (*e. g.*, Otomacs) seemingly held the view that, after death, the body
 or skeleton itself turned into stone, reverted to the very material from
 which some of them believed it to have originally sprung ([Sect.
-*58*](aflg04.htm#pp_58)). The Atorais regard certain enormous blocks of
+*58*](aflg04.htm#pp_58).md). The Atorais regard certain enormous blocks of
 granite as some of their local warriors who, after death, have been
 changed into stone (Cou, <span class="small">II</span>, 346). Hence we
 must not be surprised to find cases where bowlders ([Sect.
-*171*](aflg11.htm#pp_171) et seq.) and bones ([Sects.
-*26*](aflg02.htm#pp_26), [*91*](aflg07.htm#pp_91)) possess a more or
+*171*](aflg11.htm#pp_171) et seq..md) and bones ([Sects.
+*26*](aflg02.htm#pp_26), [*91*](aflg07.htm#pp_91).md) possess a more or
 less independent animate existence of their own. The transformation of
 people into rocks and stones by way of punishment, or for other reasons,
 may be a development of the same belief. Thus, a long time ago, the
@@ -230,20 +230,20 @@ the good Spirit who in those days lived among the Makusis took pity on
 them, and changed their enemies into these stones (ScR, <span
 class="small">I</span>, 375).
 
-   <span id="pp_68"></span>**68.**[\*](#pp_68) Having reached a higher
+   <span id="pp_68"></span>**68.**[\*](#pp_68.md) Having reached a higher
 stage of belief, and realized that the material body does indeed undergo
 dissolution at death, the Indians are convinced of a Spirit or
 Something, one or more, being set free at the time of its occurrence. I
 purposely say "one or more" because it would seem that originally, not
 only the shadow, but also the heart, the head, and the more perceptible
 of all the parts of the body where there is a pulsation of arteries, as
-well as perhaps the blood ([Sect. *240A*](aflg14.htm#pp_240A)), the
-spittle ([Sect. *112*](aflg08.htm#pp_112)), the footprint ([Sect.
-*24*](aflg02.htm#pp_24)), and the bone ([Sect. *69*](aflg05.htm#pp_69))
+well as perhaps the blood ([Sect. *240A*](aflg14.htm#pp_240A).md), the
+spittle ([Sect. *112*](aflg08.htm#pp_112).md), the footprint ([Sect.
+*24*](aflg02.htm#pp_24)), and the bone ([Sect. *69*](aflg05.htm#pp_69).md)
 were each regarded in the light of a Spirit or Something that was part
 and parcel of the body, and took its departure at the material death.
 The Arawak present-day conception of this Something is connected with
-the person's shadow ([Sect. *253*](aflg15.htm#pp_253)); their terms for
+the person's shadow ([Sect. *253*](aflg15.htm#pp_253).md); their terms for
 a dead person's spirit and a person's shadow are (*h*)*iyaloko* and
 (*h*)*iyá*, respectively. With these same people according as this
 spirit helps or harms them, they may qualify the designation by
@@ -251,18 +251,18 @@ spirit helps or harms them, they may qualify the designation by
 doing evil. The hiyaloko, strange to say, does not appear any further in
 the folk-lore collected by me, *unless indeed it is identical with*
 Iya-imi and so with Hyorokon, Yolok, etc., the word for a bush spirit, a
-term which, as I propose showing ([Sect. *94*](aflg08.htm#pp_94)), is
+term which, as I propose showing ([Sect. *94*](aflg08.htm#pp_94).md), is
 met with throughout the extent of the Guianas, from the Orinoco to the
 Amazon.
 
-   <span id="pp_69"></span>**69.**[\*](#pp_69) The mainland Caribs term
+   <span id="pp_69"></span>**69.**[\*](#pp_69.md) The mainland Caribs term
 a person's shadow *ai-akaru*, and the spirit resident in his head, his
-Dream Spirit, *aka* or *akari* ([Sect. *86*](aflg06.htm#pp_86)); but
+Dream Spirit, *aka* or *akari* ([Sect. *86*](aflg06.htm#pp_86).md); but
 after the latter leaves the body for the forest permanently, it is <span
 id="page_153">p. 153</span> known as *aka-tomba*. The Warrau expression
 for the shadow is *amého-ko-i*, while *ak-óbi* is their word for 'heart'
 or for the heart's Spirit which, leaving the body at death, becomes
-their *Hebu*, or Bush Spirit ([Sect. *99*](aflg08.htm#pp_99)). The
+their *Hebu*, or Bush Spirit ([Sect. *99*](aflg08.htm#pp_99).md). The
 Island Caribs applied the word *akamboüe* \[cf. mainland Carib
 *akatomba*\] to the spirit of a person whatever it might be like, the
 women speaking of it as *opoyem* (RoP, 471); unfortunately no
@@ -274,7 +274,7 @@ latter as the Spirit of the Hand \[RoP, 452\]; they spoke of the
 Spirit-something near the heart as Gonanni or Lanichi" (BBR, 237). This
 one at the heart was the principal one, which after death went to the
 sky in company with its Ichĕiri, or Chemin ([Sect.
-*89*](aflg07.htm#pp_89)), to live there with other Familiar Spirits
+*89*](aflg07.htm#pp_89).md), to live there with other Familiar Spirits
 (RoP, 484), and change into a young and new body (BBR, 237). They do not
 regard the spirit as being so immaterial as it is invisible. As to their
 other Spirits which have nothing to do with the heart, they believe that
@@ -288,7 +288,7 @@ that certain procedures connected with some of the death festivals point
 to a belief in the bones constituting the real and final resting-place
 of the Spirit after the dismemberment (*Zersetzung*) of the body.
 
-   <span id="pp_70"></span>**70.**[\*](#pp_70) The possession of a Body
+   <span id="pp_70"></span>**70.**[\*](#pp_70.md) The possession of a Body
 Spirit, or spirits, was not, however, the prerogative solely of man,
 but, as will be subsequently shown, there was a widespread belief in the
 association of spirits with animal life. Survivals of this cult, in part
@@ -297,9 +297,9 @@ certain omens and tokens, charms or talismans, in the observance of
 certain tabus with regard to food, in blood-atonement and the treatment
 of disease, and perhaps in the application of family group-names. So
 also, there are similarly many traces of a corresponding association of
-spirits with plant-life ([Chap. X](aflg10)).
+spirits with plant-life ([Chap. X](aflg10).md).
 
-   <span id="pp_71"></span>**71.**[\*](#pp_71) The general mainland
+   <span id="pp_71"></span>**71.**[\*](#pp_71.md) The general mainland
 belief in a Something (singular or plural) emanating, disintegrating,
 separating, etc., from the dead body of an individual, or an animal, and
 either remaining in the immediate neighborhood or pursuing various
@@ -310,13 +310,13 @@ fields, and trees, sometimes with stones, rocks, mountains, underground
 caverns, and occasionally with stars, clouds, lightning, with rain,
 river, or sea. Thus, associated <span id="page_154">p. 154</span> with
 spirits already there; we can speak collectively of Dream ([Sect.
-*86*](aflg06.htm#pp_86)), Familiar ([Sect. *89*](aflg07.htm#pp_89)),
-Forest ([Sect. *94*](aflg08.htm#pp_94)), Mountain ([Sect.
-*171*](aflg11.htm#pp_171)), Water ([Sect. *178*](aflg12.htm#pp_178)),
-and Sky ([Sect. *195*](aflg13.htm#pp_195)) Spirits. I have met with no
+*86*](aflg06.htm#pp_86)), Familiar ([Sect. *89*](aflg07.htm#pp_89).md),
+Forest ([Sect. *94*](aflg08.htm#pp_94).md), Mountain ([Sect.
+*171*](aflg11.htm#pp_171)), Water ([Sect. *178*](aflg12.htm#pp_178).md),
+and Sky ([Sect. *195*](aflg13.htm#pp_195).md) Spirits. I have met with no
 example of a freed spirit associating itself with a person's shadow, and
 hence purposely omit the term Shadow Spirits ([Sect.
-*68*](aflg05.htm#pp_68)) from this category. The important thing to
+*68*](aflg05.htm#pp_68).md) from this category. The important thing to
 remember is that two or more different kinds of spirits may have been
 derived from one and the same body. The old Spanish Fathers used the
 word *demonio* as a generic term for these Beings, in the same way that
@@ -338,7 +338,7 @@ analogous to that of choosing a picture to suit the frame; in other
 cases, they may perhaps have been due to foreign introduction, while I
 doubt not that a few, like Topsy, "growed" on their own account.
 
-   <span id="pp_72"></span>**72.**[\*](#pp_72) The extent or degree of
+   <span id="pp_72"></span>**72.**[\*](#pp_72.md) The extent or degree of
 the spirit's immortality, if such an expression may be used, varies from
 the primitive idea of its hovering around the place of sepulture to the
 advanced view of its translation, with or without apparent zoomorphic or
@@ -367,11 +367,11 @@ was taken in the arms and made to jump over it. So also at the
 anniversary of the death of a captain among the Guahiba of the Vichada
 River (Orinoco) the pyre is jumped over by the piai, the men, and women,
 at the same time that they blow with full force ([Sect.
-*85*](aflg05.htm#pp_85)) in the direction of the country occupied by the
+*85*](aflg05.htm#pp_85).md) in the direction of the country occupied by the
 Piaroa, their terrible neighbors who make them die through throwing
 spells over them (Cr, 548).
 
-   <span id="pp_73"></span>**73.**[\*](#pp_73) However beloved or
+   <span id="pp_73"></span>**73.**[\*](#pp_73.md) However beloved or
 despised during life, the spirit of the dead is always an object of
 dread, and is to be propitiated by kind and flattering expressions, by
 festivals and feasts. At York Hill, near Tinadu Creek, Demerara, says
@@ -411,7 +411,7 @@ grandmother of the child stood over it and in wailing tones said:
    This was a family of Christian Arawaks, but the roots of inbred
 traditional beliefs could not at once be eradicated.
 
-   <span id="pp_74"></span>**74.**[\*](#pp_74) At the burial of a Makusi
+   <span id="pp_74"></span>**74.**[\*](#pp_74.md) At the burial of a Makusi
 woman at Nappi, upper Essequibo: Surrounding the hammock in which the
 corpse lay, in and between the wailing, the women were chanting
 eulogiums upon the deceased—one had lost her best friend; another
@@ -427,7 +427,7 @@ he retired (ScR, <span class="small">I</span>, 421). So again, at the
 death of a Makusi female from the effects of a snake bite, all the women
 of the village gathered in the hut and shouted unintelligible words into
 the corpse's ears (ScR, <span class="small">II</span>, 269).<span
-id="page_156_fr_1"></span>[1](#page_156_note_1)
+id="page_156_fr_1"></span>[1](#page_156_note_1.md)
 
    On the Moruca River, the Warrau women sit in a circle round the
 grave, and break out ever anew with their song of mourning, which is
@@ -452,12 +452,12 @@ fisherman we have lost!" "What a clever archer has died; he never missed
 his mark!" (G, <span class="small">I</span>, 197). Among the special
 feasts and festivals in honor, or rather in propitiation, of the dead, I
 would mention the Arawak Makuari (Mora-Kuyuha, [Sect.
-*75*](aflg05.htm#pp_75)) and Hauyari dances for deceased males and
+*75*](aflg05.htm#pp_75).md) and Hauyari dances for deceased males and
 females, respectively. In the far western Guianas, the object of the
 Mask dances is to propitiate the spirit of the dead, so that he will not
 come back again to fetch one of the survivors (KG, 138).
 
->    <span id="pp_75"></span>**75.**[\*](#pp_75) When the death of any
+>    <span id="pp_75"></span>**75.**[\*](#pp_75.md) When the death of any
 > member of that tribe \[Akawai\] is supposed to have been brought about
 > by unfair means, the knife of the deceased is buried with him, that he
 > may have the means of avenging himself in the world of spirits. The
@@ -486,7 +486,7 @@ word, corrupted now into *macquarrie*, *makuari*, etc., is seemingly of
 Tupi origin, the creature being known on the lower Amazon as magoary
 (HWB, 146, 316).
 
-   <span id="pp_76"></span>**76.**[\*](#pp_76) Future provision may be
+   <span id="pp_76"></span>**76.**[\*](#pp_76.md) Future provision may be
 made for the deceased by burying with him his dog, his women, or his
 slaves, some food, his hunting and fighting implements, and his
 ornaments. Examples of these procedures are plentiful in the old
@@ -512,7 +512,7 @@ records.
 > class="small">I</span>, 201\].
 >
 >    On the upper Amazon, when a mother dies, her young infant may be
-> buried alive with her \[[Sect. *284*](aflg16.htm#pp_284)\].
+> buried alive with her \[[Sect. *284*](aflg16.htm#pp_284.md)\].
 >
 >    Little bits of bone, fruits, bread, etc., were strewn on the corpse
 > in the grave \[Makusi, ScR, <span class="small">I</span>, 421\]:
@@ -553,7 +553,7 @@ cause for wishing to come out of the grave, certain of the present-day
 Pomeroon Arawaks are said either to plant cassava, or to place a
 cassava-squeezer, upon the top of it.
 
-   <span id="pp_77"></span>**77.**[\*](#pp_77) The eating of the
+   <span id="pp_77"></span>**77.**[\*](#pp_77.md) The eating of the
 corpse's flesh or the drinking of a preparation made therefrom, except
 in those cases in which cannibalism was indulged in rather by reason of
 vengeance with the object of inspiring terror in their enemies (PBa,
@@ -563,8 +563,8 @@ flesh and bones of the deceased certain qualities, somethings, spirits,
 etc., which could be detached, separated, and transferred to the living
 by means of ingestion. There is abundant evidence among these Guiana
 Indians of a belief in the transference of individual (animal or human)
-peculiarities through this agency ([Sects. *250*](aflg15.htm#pp_250),
-[*280*](aflg16.htm#pp_280)). Thus in order to strengthen their own
+peculiarities through this agency ([Sects. *250*](aflg15.htm#pp_250.md),
+[*280*](aflg16.htm#pp_280).md). Thus in order to strengthen their own
 courage and contempt for death, the Caribs of the upper Pomeroon would
 cut out the heart of the person slain, dry it over the fire, powder it,
 and then mix the powder in their drink (ScR, <span
@@ -589,16 +589,16 @@ who disinter the bones when they consider the body is putrid enough, and
 after calcining them, drink the ashes which they mix with their *vicou*,
 believing that by this means they are giving the defunct a more
 honorable burial than by leaving them a prey to worms and corruption
-(PBa, 231).<span id="page_158_fr_1"></span>[1](#page_158_note_1)
+(PBa, 231).<span id="page_158_fr_1"></span>[1](#page_158_note_1.md)
 
-   <span id="pp_78"></span>**78.**[\*](#pp_78) Surely it is not
+   <span id="pp_78"></span>**78.**[\*](#pp_78.md) Surely it is not
 unreasonable to suppose, granted certain spirits and other agencies were
 believed to be contained in the corpses, that the bones of the deceased
 distributed among friends and acquaintances, or slung up in their
 houses, must have served a purpose other <span id="page_159">p.
 159</span> than that of an every-day gift or ordinary ornament. The
 Island Caribs certainly used the bones of their friends for purposes of
-witchcraft and prophecy ([Sect. *91*](aflg07.htm#pp_91)). The practice
+witchcraft and prophecy ([Sect. *91*](aflg07.htm#pp_91).md). The practice
 of exhuming the remains after longer or shorter intervals, although not
 direct evidence, may nevertheless indicate the existence in former times
 of a similar use for the bones among the Mainland Caribs and other
@@ -614,7 +614,7 @@ with the many other baskets containing the bones of their forefathers
 the upper Pomeroon) who prepare the bones are considered unclean for
 several months (ScR, <span class="small">II</span>, 431-2).
 
-   <span id="pp_79"></span>**79.**[\*](#pp_79) With regard to the
+   <span id="pp_79"></span>**79.**[\*](#pp_79.md) With regard to the
 abandonment by the Indians of the locality where death has taken place,
 nothing can conquer their fear lest the deceased's spirit, located
 somewhere in the immediate neighborhood, should do them harm. On the
@@ -622,7 +622,7 @@ Orinoco the practice of rooting up the fields which deceased has
 planted, so soon as his widow or widows have buried him, is also almost
 universal: They said they do it to destroy all memory of the deceased
 (G, <span class="small">I</span>, 207).<span
-id="page_159_fr_1"></span>[1](#page_159_note_1) With the Anabali and
+id="page_159_fr_1"></span>[1](#page_159_note_1.md) With the Anabali and
 other tribes of this same river, when anyone dies they bury him in the
 place where he had his hearth and, covering the grave with many mats,
 they forsake the village and all their fields, and build and sow at 12
@@ -646,12 +646,12 @@ corpse, but the spirits of the distinguished dead may be visited by
 "doctors," by the common crowd, and by animals for the special purpose
 of consultation (Cr, 298).
 
-   <span id="pp_80"></span>**80.**[\*](#pp_80) Of other obscure burial
+   <span id="pp_80"></span>**80.**[\*](#pp_80.md) Of other obscure burial
 customs—obscure in the sense that their real signification has been only
 approximately, if at all, determined—may be mentioned that of the Island
 Caribs (BBR, 252) who place two weights on the eyes of the deceased, so
 that he may not see his parents and thus make them ill ([Sect.
-*253*](aflg15.htm#pp_253)). Most extraordinary of all, however, would
+*253*](aflg15.htm#pp_253).md). Most extraordinary of all, however, would
 seem to be the procedure followed by the Warraus at the mouth of the
 Orinoco:
 
@@ -663,7 +663,7 @@ Orinoco:
 > persons who are not desirous of having their actions exposed to public
 > notoriety. \[Cr, 612.\]
 
-   <span id="pp_81"></span>**81.**[\*](#pp_81) While certain of the
+   <span id="pp_81"></span>**81.**[\*](#pp_81.md) While certain of the
 Indians appear to hold advanced views respecting the immortality of that
 particular spirit which, on its departure from the body, takes on an
 anthropomorphic form, they are not in agreement as to the place of
@@ -674,7 +674,7 @@ Yary River, Cayenne). According to the views of these people, the
 spirits of the "good" and "bad" \[within certain limitations to be
 immediately discussed in this and succeeding paragraphs\] rise after
 death toward the skies, which they call Capoun.<span
-id="page_160_fr_1"></span>[1](#page_160_note_1) The former travel high,
+id="page_160_fr_1"></span>[1](#page_160_note_1.md) The former travel high,
 very high, above the clouds where they find pretty women; they dance
 every night; they drink cassiri, and do not work in the clearings
 (provision-fields). The wicked remain below the clouds where they are
@@ -716,7 +716,7 @@ of love in dealing with them can become intelligible, in Schomburgk's
 opinion (ScR, <span class="small">II</span>, 318), only on the
 assumption of their belief in some such religious tradition as this.
 
-   <span id="pp_82"></span>**82.**[\*](#pp_82) Certain Venezuelan
+   <span id="pp_82"></span>**82.**[\*](#pp_82.md) Certain Venezuelan
 Indians believed that the spirit retires to certain lakes and is
 swallowed by monstrous serpents, which transport it to a paradise where
 its time is occupied in constant dancing and drinking (FD, 52). The
@@ -727,7 +727,7 @@ swallows them, unless they valorously fight it (ScR, <span
 class="small">II</span>, 318). Humboldt (<span class="small">II</span>,
 249) speaks of this fabulous bird as Tikitiki and makes it responsible
 for the deformities of new-born children ([Sect.
-*279*](aflg16.htm#pp_279)). In the province of Curoana are several lofty
+*279*](aflg16.htm#pp_279).md). In the province of Curoana are several lofty
 mountains, the highest of which is Tumeriquiri.
 
 >    In this mountain is situated the cavern of Guacharo, which is so
@@ -756,8 +756,8 @@ mountains, the highest of which is Tumeriquiri.
    The superstitions connected with this cavern are recorded also by
 Humboldt (<span class="small">I</span>, 258).
 
-   <span id="pp_83"></span>**83.**[\*](#pp_83) It has been mentioned
-([Sect. *81*](aflg05.htm#pp_81)) that in the case of a spirit taking on
+   <span id="pp_83"></span>**83.**[\*](#pp_83.md) It has been mentioned
+([Sect. *81*](aflg05.htm#pp_81).md) that in the case of a spirit taking on
 an anthropomorphic form there were indications showing that its future
 state may sometimes depend on the character of the individual whence it
 had been derived. But mainly for the reason that the more complex ideas
@@ -768,7 +768,7 @@ inclined to the opinion that the belief in a future condition directly
 dependent on present conduct is not only of comparatively late
 introduction, but is a borrowed one; the purgatorial nature of the
 ordeals to be successfully undergone by the spirits ([Sect.
-*82*](aflg05.htm#pp_82)) certainly savors strongly of Roman Catholic
+*82*](aflg05.htm#pp_82).md) certainly savors strongly of Roman Catholic
 influences. In a sense this opinion is strengthened by a study of the
 Orinoco Indians, whose original beliefs have been preserved through the
 careful investigations of Father Gumilla, one of the very first of the
@@ -781,7 +781,7 @@ distinction between good and bad spirits, all the members of the tribes
 after death finding their way to a forest upon high mountains on the
 upper Içana (KG, <span class="small">I</span>, 166).
 
-   <span id="pp_84"></span>**84.**[\*](#pp_84) So again there does not
+   <span id="pp_84"></span>**84.**[\*](#pp_84.md) So again there does not
 appear to be sufficient warrant for many of the old travelers and
 missionaries making that arbitrary distinction of "good" and "bad"
 spirits (according to the bodies whence they have been derived) which
@@ -793,7 +793,7 @@ view that he concerns himself with the spirit at all. A spirit may be
 good as judged by its source of origin (*e. g.*, a brave man), but bad
 as regards the evil which it happens to inflict upon the person
 concerned. Thus it was among the Carib Islanders, that the good Familiar
-Spirits, the Chemin or Icheiri, ([Sect. *67*](aflg05.htm#pp_67)) were
+Spirits, the Chemin or Icheiri, ([Sect. *67*](aflg05.htm#pp_67).md) were
 sent by their human associates as messengers to carry sickness and evil
 to their enemies (RoP, 472). As a matter of fact, the above-mentioned
 misconception of the Indian's point of view affords an excellent
@@ -803,7 +803,7 @@ distinction existing between the Evil Spirit, or Maboya, of the Carib
 Islanders, and their Good Spirit, or Chemin, when pursuing evil courses.
 It will be convenient to rectify this error, as far as possible, here.
 Maboya, or Maboia, was undoubtedly of human origin. Thus, of the several
-spirits which the body possesses ([Sect. *69*](aflg05.htm#pp_69)) some
+spirits which the body possesses ([Sect. *69*](aflg05.htm#pp_69).md) some
 "remain on earth changed into beasts or into Maboia" (BBR, 237): they go
 and live in the woods and forests and are called Maboyas (RoP, 484).
 That is to say, in the same way that others of the body's spirits attach
@@ -811,7 +811,7 @@ themselves to the waters, mountains, skies, etc., and remain there, so
 the Maboya attaches itself to the bush and forest. Indeed, there can be
 no doubt that the Maboya of the Antilleans corresponds in every sense
 with the mainland Spirit of the Forest, that is, the Yawahu, Hebu,
-Yurokon, etc. ([Sect. *94*](aflg08.htm#pp_94)). The Mainland Caribs of
+Yurokon, etc. ([Sect. *94*](aflg08.htm#pp_94).md). The Mainland Caribs of
 Cayenne actually used the identical term Maboya (PBa, 206). The people
 never invoke Maboya, as some imagine (RoP, 472): notwithstanding the
 extent to which he or it may be feared, and in spite of the brutality of
@@ -820,7 +820,7 @@ offerings, prayers, adoration, or sacrifice (ibid., 476). When the
 proverbial "pain and anguish wring the brow," Indians believe that these
 are due to the Familiar Spirits of some of their enemies by whom they
 have been sent (ibid., 473). When a person is sick, the offerings
-(*anacri*, [Sect. *89*](aflg07.htm#pp_89)) laid on the little table
+(*anacri*, [Sect. *89*](aflg07.htm#pp_89).md) laid on the little table
 (*matutu*) are *not* for the Maboya, as (incorrectly) stated in one
 passage by Rochefort and Poincy (ibid., 563), but for that Familiar
 Spirit which had been instructed to convey the sickness, or for that
@@ -835,11 +835,11 @@ into other channels. This figure was said to be Maboia (*e. g.*, BBR,
 Forest Spirits upon the bosom of the waters, I am forced to the
 conclusion that it represented a Chemin, or Familiar Spirit, capable of
 course of committing good or evil according to its "master's"
-instructions (cf. [Sect. *48*](aflg03.htm#pp_48)).
+instructions (cf. [Sect. *48*](aflg03.htm#pp_48).md).
 
-   <span id="pp_85"></span>**85.**[\*](#pp_85) Individuals can be
+   <span id="pp_85"></span>**85.**[\*](#pp_85.md) Individuals can be
 relieved of the presence of undesirable spirits by means of the
-piai-rattle ([Sect. *289*](aflg17.htm#pp_289)), as well as by so-called
+piai-rattle ([Sect. *289*](aflg17.htm#pp_289).md), as well as by so-called
 "kissing" and "blowing." It is this latter method that I propose
 discussing here. While one writer talks of kissing being "unknown among
 Indians" (IT, 193), another speaks of these people expressing tenderness
@@ -856,10 +856,10 @@ class="small">II</span>, 254) on the principle that both by the Indians
 inward spiritual and mental vigor." A far more satisfactory explanation,
 however, would seem to lie in the fact that the blowing is intended to
 drive away an attached Evil Spirit, etc., as is indeed the belief among
-the Galibi piai ([Sect. *310*](aflg17.htm#pp_310)) and elsewhere
-([Sects. *14*](aflg02.htm#pp_14), [*59*](aflg04.htm#pp_59),
-[*72*](aflg05.htm#pp_72), [*246*](aflg15.htm#pp_246),
-[*319*](aflg17.htm#pp_319)) a view which is only strengthened by the
+the Galibi piai ([Sect. *310*](aflg17.htm#pp_310).md) and elsewhere
+([Sects. *14*](aflg02.htm#pp_14), [*59*](aflg04.htm#pp_59.md),
+[*72*](aflg05.htm#pp_72), [*246*](aflg15.htm#pp_246.md),
+[*319*](aflg17.htm#pp_319).md) a view which is only strengthened by the
 particular circumstances, above referred to, under which it is
 practised, namely, in sickness, or in absence of adequate protecting
 influences. On the way to Roraima, the Serekong "women brought us
@@ -890,11 +890,11 @@ blown upon (*angeblasen*) by the relatives, before its parents take to
 their hammocks (ScR, <span class="small">II</span>, 314) to keep the
 couvade. With the same tribe, the piai will blow upon the girl after the
 menstruation ceremony with the object of disenchanting her ([Sect.
-*267*](aflg16.htm#pp_267)).
+*267*](aflg16.htm#pp_267).md).
 
 ------------------------------------------------------------------------
 
-[Next](aflg06)
+[Next](aflg06.md)
 
 ------------------------------------------------------------------------
 
@@ -902,10 +902,10 @@ menstruation ceremony with the object of disenchanting her ([Sect.
 
 <span id="footnotes_page_156">p. 156</span>
 
-<span id="page_156_note_1"></span>[1](#page_156_fr_1) In these last two
+<span id="page_156_note_1"></span>[1](#page_156_fr_1.md) In these last two
 examples there is difficulty in interpreting the real signification of
 the shouting into the ears—whether it is the deceased or the mischievous
-spirit causing the death ([Sect. *310*](aflg17.htm#pp_310)) that is
+spirit causing the death ([Sect. *310*](aflg17.htm#pp_310).md) that is
 being addressed. In North Queensland I have observed a similar custom.
 There, the seat of intelligence, life, etc., is located in the ear; and
 at death these escape through this exit: hence, by shouting into the
@@ -914,20 +914,20 @@ their proper place.—W. E. R.
 
 <span id="footnotes_page_158">p. 158</span>
 
-<span id="page_158_note_1"></span>[1](#page_158_fr_1) This was
+<span id="page_158_note_1"></span>[1](#page_158_fr_1.md) This was
 practically the identical reason given me by a North Queensland
 aboriginal native when I asked her why she had eaten her little child's
 body instead of burying it.—W. E. R.
 
 <span id="footnotes_page_159">p. 159</span>
 
-<span id="page_159_note_1"></span>[1](#page_159_fr_1) The more probable
+<span id="page_159_note_1"></span>[1](#page_159_fr_1.md) The more probable
 reason, by analogy elsewhere in the Gulanas, is for the purpose of
 supplying the necessary drink at the funeral festivities.
 
 <span id="footnotes_page_160">p. 160</span>
 
-<span id="page_160_note_1"></span>[1](#page_160_fr_1) *Kabu*, Carib term
+<span id="page_160_note_1"></span>[1](#page_160_fr_1.md) *Kabu*, Carib term
 for 'sun.'—W. E. R.
 
  

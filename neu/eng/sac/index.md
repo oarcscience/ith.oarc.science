@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ Sagas](../../index)  [England](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sac00)
+[Contents](#contents)    [Start Reading](sac00.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ particularly his focus on archaeo-astronomy. Lockyer's primary
 hypothesis, that Stonehenge and other megalithic constructions were
 ancient observatories, is still considered plausible. He also noted the
 vast alignments of sites which covered the landscape, both in Britain
-and in northern France, anticipating [Afred Watkins'](../ebt/index)
+and in northern France, anticipating [Afred Watkins'](../ebt/index.md)
 discovery of ley lines by over a decade.
 
 On the other hand, his conclusion that Stonehenge was constructed by
@@ -58,49 +58,49 @@ Hopefully this will be remedied at some point--J.B. Hare.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sac00)  
-[Preface](sac01)  
-[Contents](sac02)  
-[List of Illustrations](sac03)  
-[Chapter I. Introductory](sac04)  
-[Chapter II. The Astronomical Divisions of the Year](sac05)  
-[Chapter III. The Agricultural Divisions of the Year](sac06)  
-[Chapter IV. The Various New-Year Days](sac07)  
-[Chapter V. Conditions and Traditions at Stonehenge](sac08)  
-[Chapter VI. General Architecture of Stonehenge](sac09)  
-[Chapter VII. Astronomical Observations at Stonehenge in 1901](sac10)  
-[Chapter VIII. Archeological Observations at Stonehenge, 1901](sac11)  
-[Chapter IX. Was There an Earlier Circle?](sac12)  
-[Chapter X. The May and June Worships in Brittany](sac13)  
-[Chapter XI. Astronomical Hints For Archæologists](sac14)  
-[Chapter XII. Astronomical Hints for Archæologists—Continued](sac15)  
-[Chapter XIII. Stenness](sac16)  
-[Chapter XIV. The Hurlers](sac17)  
-[Chapter XV. The Dartmoor Avenues](sac18)  
-[Chapter XVI. The Dartmoor Avenues (continued)](sac19)  
-[Chapter XVII. Stanton Drew](sac20)  
-[Chapter XVIII. Folklore and Tradition](sac21)  
-[Chapter XIX. Sacred Fires](sac22)  
-[Chapter XX. Sacred Trees](sac23)  
-[Chapter XXI. Holy Wells And Streams](sac24)  
-[Chapter XXII. Where Did the British Worship Originate?](sac25)  
+<span id="contents"></span> [Title Page](sac00.md)  
+[Preface](sac01.md)  
+[Contents](sac02.md)  
+[List of Illustrations](sac03.md)  
+[Chapter I. Introductory](sac04.md)  
+[Chapter II. The Astronomical Divisions of the Year](sac05.md)  
+[Chapter III. The Agricultural Divisions of the Year](sac06.md)  
+[Chapter IV. The Various New-Year Days](sac07.md)  
+[Chapter V. Conditions and Traditions at Stonehenge](sac08.md)  
+[Chapter VI. General Architecture of Stonehenge](sac09.md)  
+[Chapter VII. Astronomical Observations at Stonehenge in 1901](sac10.md)  
+[Chapter VIII. Archeological Observations at Stonehenge, 1901](sac11.md)  
+[Chapter IX. Was There an Earlier Circle?](sac12.md)  
+[Chapter X. The May and June Worships in Brittany](sac13.md)  
+[Chapter XI. Astronomical Hints For Archæologists](sac14.md)  
+[Chapter XII. Astronomical Hints for Archæologists—Continued](sac15.md)  
+[Chapter XIII. Stenness](sac16.md)  
+[Chapter XIV. The Hurlers](sac17.md)  
+[Chapter XV. The Dartmoor Avenues](sac18.md)  
+[Chapter XVI. The Dartmoor Avenues (continued)](sac19.md)  
+[Chapter XVII. Stanton Drew](sac20.md)  
+[Chapter XVIII. Folklore and Tradition](sac21.md)  
+[Chapter XIX. Sacred Fires](sac22.md)  
+[Chapter XX. Sacred Trees](sac23.md)  
+[Chapter XXI. Holy Wells And Streams](sac24.md)  
+[Chapter XXII. Where Did the British Worship Originate?](sac25.md)  
 [Chapter XXIII. The Similarity of the Semitic and British
-Worships](sac26)  
-[Chapter XXIV. The May-Year in South-West Cornwall](sac27)  
-[Chapter XXV. The Merry Maidens Circle](sac28)  
-[Chapter XXVI. The Tregaseal Circles](sac29)  
-[Chapter XXVII. Some Other Cornish Monuments](sac30)  
-[Chapter XXVIII. The Clock-Stars in Egypt and Britain](sac31)  
-[Chapter XXIX. A Short History of Sun Temples](sac32)  
-[Chapter XXX. The Life of the Astronomer-Priests](sac33)  
+Worships](sac26.md)  
+[Chapter XXIV. The May-Year in South-West Cornwall](sac27.md)  
+[Chapter XXV. The Merry Maidens Circle](sac28.md)  
+[Chapter XXVI. The Tregaseal Circles](sac29.md)  
+[Chapter XXVII. Some Other Cornish Monuments](sac30.md)  
+[Chapter XXVIII. The Clock-Stars in Egypt and Britain](sac31.md)  
+[Chapter XXIX. A Short History of Sun Temples](sac32.md)  
+[Chapter XXX. The Life of the Astronomer-Priests](sac33.md)  
 <span id="section_000"></span>
 
 ### Appendices
 
-[I. Details of the Theodolite Observations at Stonehenge](sac34)  
+[I. Details of the Theodolite Observations at Stonehenge](sac34.md)  
 [II: Hints on Making, and Method of Reducing, the Field
-Observations](sac35)  
+Observations](sac35.md)  
 
  
 
-[Index](sac36)  
+[Index](sac36.md)  

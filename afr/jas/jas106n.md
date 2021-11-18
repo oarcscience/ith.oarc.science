@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas105n)  [Next](jas107n)   
- \[[106. The Magic Hat and the Staff of Life.](jas106)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas105n)  [Next](jas107n.md)   
+ \[[106. The Magic Hat and the Staff of Life.](jas106.md)\]
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ see note to 109.
 
 ------------------------------------------------------------------------
 
-[Next: Note 107. Uncle Green and Jack.](jas107n)
+[Next: Note 107. Uncle Green and Jack.](jas107n.md)

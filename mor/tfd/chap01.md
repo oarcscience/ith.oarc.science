@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](foreword) [Next](chap02)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](foreword) [Next](chap02.md)
 
 ------------------------------------------------------------------------
 
@@ -195,4 +195,4 @@ came, at last, to the city of the Latter Day Saints.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: A Far West City](chap02)
+[Next: Chapter II: A Far West City](chap02.md)

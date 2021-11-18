@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc051) 
-[Next](motc053) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc051.md) 
+[Next](motc053.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ he found game whenever he went for it.
 
 ------------------------------------------------------------------------
 
-[Next: 53. The Hunter And The Uksu'hï](motc053)
+[Next: 53. The Hunter And The Uksu'hï](motc053.md)

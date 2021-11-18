@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa18)  [Next](awa20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa18)  [Next](awa20.md) 
 
 ------------------------------------------------------------------------
 
@@ -246,4 +246,4 @@ country not as yet occupied by Europeans.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](awa20)
+[Next: Conclusion](awa20.md)

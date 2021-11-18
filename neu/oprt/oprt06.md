@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](oprt05)  [Next](oprt07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](oprt05)  [Next](oprt07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1603123210/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKL9K/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Old Peter's Russian Tales*, by Arthur Ransome, \[1916\], at Intangible
 Textual Heritage
 
@@ -141,7 +141,7 @@ maid, who had heard the last words, began to cry,
 a rich bridegroom and a handsome one. See how much he owns. All the
 pines and firs are his, and the birch trees. Any one would envy his
 possessions, and he himself is a very bogatir, <span
-id="fr_1"></span>[2](#fn_1) a man of strength and power."
+id="fr_1"></span>[2](#fn_1.md) a man of strength and power."
 
 The old man trembled, and said nothing in reply. And Martha went on
 crying quietly, though she tried to stop her tears. The old man packed
@@ -289,7 +289,7 @@ open and the cold entered their bosoms.
 <span id="img_06400"></span> <span align="CENTER"> [![There she was, a
 good fur cloak about her shoulders and costly blankets round her
 feet.](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 There she was, a good fur cloak about her shoulders and costly blankets
 round her feet.  
 </span>
@@ -450,9 +450,9 @@ steaming spoons.
 
 ### Footnotes
 
-<span id="fn_1"></span>[59:2](oprt06.htm#fr_1) The bogatirs were strong
+<span id="fn_1"></span>[59:2](oprt06.htm#fr_1.md) The bogatirs were strong
 men, heroes of old Russia.
 
 ------------------------------------------------------------------------
 
-[Next: The Fool of the World and the Flying Ship](oprt07)
+[Next: The Fool of the World and the Flying Ship](oprt07.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Astrology](../index) 
-[Index](index)  [Previous](hba16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Astrology](../index.md) 
+[Index](index)  [Previous](hba16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766187152/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Hindu Book of Astrology*, by Bhakti Seva, \[1902\], at Intangible
 Textual Heritage
 
@@ -260,7 +260,7 @@ only one dollar a year. Address**
 
 <span id="img__00500"></span> ![Occult, Psychic or Spiritual Powers To
 Do and Achieve, as Taught by the Great Mystic Adepts in THE MAGAZINE OF
-MYSTERIES](img/_00500.jpg)
+MYSTERIES](img/_00500.jpg.md)
 
 In a spiritual, dignified way, the Mystic Adepts in The Magazine of
 Mysteries unfold Psychic or Spiritual Powers, giving to all Vibrations
@@ -278,7 +278,7 @@ a Year
 <span id="page_vi">p. vi</span>
 
 <span id="img__00600"></span> ![A FULL DELINEATION OF YOUR CHARACTER
-THROUGH THE SCIENCE OF GRAPHOLOGY](img/_00600.jpg)
+THROUGH THE SCIENCE OF GRAPHOLOGY](img/_00600.jpg.md)
 
 THE MAGAZINE OF MYSTERIES will give absolutely free to each person
 sending $1.00 for one year's subscription to the Magazine, a lengthy
@@ -316,7 +316,7 @@ Write your letter in ink and send $1.00 for a year's subscription to
 <span id="page_vii">p. vii</span>
 
 <span id="img__00700"></span> ![A Personal Astrological Delineation by
-Our Mystic Adept Astrologer Absolutely FREE](img/_00700.jpg)
+Our Mystic Adept Astrologer Absolutely FREE](img/_00700.jpg.md)
 
 <span class="smallcaps">The Magazine of Mysteries</span> Will give,
 absolutely free, to each person sending one dollar for one year's

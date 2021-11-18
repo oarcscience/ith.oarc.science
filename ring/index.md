@@ -13,46 +13,46 @@ academic linguist, drew on the following source materials to inspire his
 world-building exercise. The texts presented at this site are complete
 and in some cases in the original languages.
 
-[The Kalevala. \[English\]](../neu/kveng/index)  
-[The Kalevala. \[Finnish\]](../neu/kvfin/index)  
+[The Kalevala. \[English\]](../neu/kveng/index.md)  
+[The Kalevala. \[Finnish\]](../neu/kvfin/index.md)  
 This Finnish saga, replete with battling wizards and heroes, quests and
 magical objects has been cited as one of the early inspirations for
 Tolkien. The languages of Middle Earth also have more than a passing
 resemblance to Finnish.
 
-[The Elder (Poetic) Edda.](../neu/poe/index)  
-[The Younger (Prose) Edda.](../neu/pre/index)  
+[The Elder (Poetic) Edda.](../neu/poe/index.md)  
+[The Younger (Prose) Edda.](../neu/pre/index.md)  
 These Icelandic collections of epic poetry are key sources for the study
 of Norse mythology. Our plane of existence is called 'Middle Earth' in
 this mythology. Tolkien also took many of the names of key characters
 from this text; particularly one sequence early on in the
-[Voluspo](../neu/poe/poe03), including Gandalf, and all of the Dwarves
+[Voluspo](../neu/poe/poe03.md), including Gandalf, and all of the Dwarves
 from the Hobbit. Also found in the Eddas is the forest of Myrkwood;
 Bilbo's party traversed the vast Mirkwood forest in the Hobbit.
 
-[Wagner's Ring of the Niblung](../neu/ron/index)  
-[The Volsung Saga](../neu/vlsng/index)  
-[The Nibelungenlied](../neu/nblng/index)  
+[Wagner's Ring of the Niblung](../neu/ron/index.md)  
+[The Volsung Saga](../neu/vlsng/index.md)  
+[The Nibelungenlied](../neu/nblng/index.md)  
 The Volsung saga is the Icelandic version of the story which was later
 re-told in the Germanic Nibelungenlied. This was the basis for Wagner's
 Ring cycle. The cursed ring of doom is likewise a central theme of
 Tolkiens' mythology.
 
-[<img src="../img/buycd.jpg" height="20" alt="this text is on the sacred-texts CD-ROM" />](../index)
+[<img src="../img/buycd.jpg" height="20" alt="this text is on the sacred-texts CD-ROM" />](../index.md)
 [Heimskringla or The Chronicle of the Kings of
-Norway](../neu/heim/index)  
+Norway](../neu/heim/index.md)  
 by Snorri Sturlson. tr. Samuel Laing \[1844\]  
 Gandalf is not only mentioned in the Voluspo, but in the Heimskringla
 Sagas: Gandalf was the name of the last king to rule over Alfheim, He
 was killed by Harald Harfagra in the year 866. Gandalf gets mentioned in
-[The Ynglinga Saga](../neu/heim/02ynglga), [Halfdan, the Black
-Saga](../neu/heim/03halfdn), and [Harald Harfager's
-Saga](../neu/heim/04harfgr).
+[The Ynglinga Saga](../neu/heim/02ynglga.md), [Halfdan, the Black
+Saga](../neu/heim/03halfdn.md), and [Harald Harfager's
+Saga](../neu/heim/04harfgr.md).
 
 <span class="c_e"> <span class="c_t">[Beowulf \[Modern
-English\]](../neu/beo/index)</span>  
+English\]](../neu/beo/index.md)</span>  
 </span> <span class="c_e"> <span class="c_t">[Beowulf \[Anglo
-Saxon\]](../neu/asbeo)</span>   <span class="c_b">The original monster
+Saxon\]](../neu/asbeo.md)</span>   <span class="c_b">The original monster
 story, in the original Old English</span>. Tolkien was a distinguished
 scholar of Middle and Old English. The Beowulf saga is one of the
 treasures of this branch of literature, and Grendel, the monster of this
@@ -60,7 +60,7 @@ tale, is a prototype for many of the darker creatures that populate
 Middle Earth. </span>
 
 <span class="c_e"> <span class="c_t">[The
-Mabinogion](../neu/celt/mab/index)</span>  
+Mabinogion](../neu/celt/mab/index.md)</span>  
 tr. Lady <span class="c_a">Charlotte Guest</span> \[<span
 class="c_d">1877</span>\]   <span class="c_b">The Original Red
 Book.</span> Among the sources for Tokien's languages was Welsh, and the
@@ -70,8 +70,8 @@ Westmarch'. </span>
 
 ### Modern Fantasy
 
-[The Faerie Queene](../neu/eng/fq/index), by Edmund Spenser \[1596\]  
-[Stories from the Faerie Queene](../neu/eng/sfq/index), by Mary Macleod
+[The Faerie Queene](../neu/eng/fq/index.md), by Edmund Spenser \[1596\]  
+[Stories from the Faerie Queene](../neu/eng/sfq/index.md), by Mary Macleod
 \[1916\]   <span class="c_b">The Faerie Queene is one of the wellsprings
 of modern Fantasy writing.</span> Spenser, like Tolkien, did not simply
 retell classical or medieval stories. He used similar themes and
@@ -79,21 +79,21 @@ elements but put the pieces together in an entirely new way,
 constructing an invented reality with a consistent internal logic.
 
 <span class="c_e"> <span class="c_t">[The Works of Lord
-Dunsany](../neu/dun/index)</span>   by <span class="c_a">Edward
+Dunsany](../neu/dun/index.md)</span>   by <span class="c_a">Edward
 Plunkett, Lord Dunsany</span> \[<span class="c_d">1905-22</span>\]  
 <span class="c_b">Lord Dunsany paved the way for Tolkien with his
 delightful internally consistent fantasy worlds.</span> </span>
 
 <span class="c_e"> <span class="c_t">[The Wood Beyond the
-World](wbw/index)</span>   by <span class="c_a">William Morris</span>
+World](wbw/index.md)</span>   by <span class="c_a">William Morris</span>
 \[<span class="c_d">1894</span>\]   <span class="c_b">The Wood Beyond
 the World is one of Morris' masterpieces which he originally published
 using hand-set type.</span> One of the recognized forerunners of Tolkien
-was [William Morris](../neu/morris/index), skilled artist, pioneering
+was [William Morris](../neu/morris/index.md), skilled artist, pioneering
 Socialist, translator of Icelandic sagas, and fantasy writer. </span>
 
 <span class="c_e"> <span class="c_t">[The Worm
-Ouroboros](two/index)</span>   by <span class="c_a">E. R. Eddison</span>
+Ouroboros](two/index.md)</span>   by <span class="c_a">E. R. Eddison</span>
 \[<span class="c_d">1922</span>\]   <span class="c_b">"The greatest and
 most convincing writer of 'invented worlds' that I have read"</span> --
-\[[J.R.R. Tolkien \*](two/index.htm#fn1)\] </span>
+\[[J.R.R. Tolkien \*](two/index.htm#fn1.md)\] </span>

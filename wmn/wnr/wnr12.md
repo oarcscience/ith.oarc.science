@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr11)  [Next](wnr13) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr11)  [Next](wnr13.md) 
 
 ------------------------------------------------------------------------
 
@@ -274,4 +274,4 @@ with this question:
 
 ------------------------------------------------------------------------
 
-[Next: XI. Are Preventive Means Certain?](wnr13)
+[Next: XI. Are Preventive Means Certain?](wnr13.md)

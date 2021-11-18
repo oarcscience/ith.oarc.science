@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml19)  [Next](yml21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml19)  [Next](yml21.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,4 +86,4 @@ be a buzzard.
 
 ------------------------------------------------------------------------
 
-[Next: The Snake People](yml21)
+[Next: The Snake People](yml21.md)

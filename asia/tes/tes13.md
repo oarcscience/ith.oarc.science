@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes12)  [Next](tes14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes12)  [Next](tes14.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,7 +39,7 @@ off the halter of her reindeer, which was attached to his own saddle.
 After that he galloped on more headlong than ever.
 
 The Chukchee followed on. Another of them shot an arrow, and hit a
-cradle. <span id="fr_16"></span>[1](tes14.htm#fn_16) The infant fell
+cradle. <span id="fr_16"></span>[1](tes14.htm#fn_16.md) The infant fell
 out. His father (the one who said, "We may kill all of them") glanced
 back, and cut off the reindeer halter. That done, he rode on with all
 possible speed. They rode across the mountain-ridge, and fled to steep
@@ -55,4 +55,4 @@ Nishne-Kolymsk, winter of 1896.
 
 ------------------------------------------------------------------------
 
-[Next: 3. Story About Cannibals](tes14)
+[Next: 3. Story About Cannibals](tes14.md)

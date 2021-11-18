@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl10)  [Next](isl12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl10)  [Next](isl12.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,7 +136,7 @@ the Gospel. And when she related to him what the Apostle of God told her
 he had seen and heard, Waraqa cried: "Holy! Holy! Verily, by Him in
 whose hand is Waraqa's soul, if thou hast spoken to me the truth, O
 Khadīja, there hath come unto him the greatest *Nāmūs*, <span
-id="fr_8"></span>[2](#fn_8) who came to Moses, and lo, he will be the
+id="fr_8"></span>[2](#fn_8.md) who came to Moses, and lo, he will be the
 prophet of this people. Bid him to be of good heart." So Khadīja
 returned to the Apostle of God and told him what Waraqa had said, and
 that calmed his anxiety somewhat.
@@ -154,7 +154,7 @@ they will use thee despitefully and cast thee out and fight against
 thee. Should I live to see that day, I will help God in such wise as He
 knoweth." Then he lowered his head and kissed Muhammad's forehead; and
 the Apostle went to his own house, encouraged by Waraqa's words, and
-with his anxiety relieved. <span id="fr_9"></span>[3](#fn_9)
+with his anxiety relieved. <span id="fr_9"></span>[3](#fn_9.md)
 
  
 
@@ -164,7 +164,7 @@ burden of the Prophet. He never met with contradiction and charges of
 falsehood, which saddened him, but God comforted him by her when he went
 home. She strengthened him, lightened his burden, proclaimed his truth,
 and belittled men's opposition. May God Almighty have mercy on
-her! <span id="fr_10"></span>[4](#fn_10)
+her! <span id="fr_10"></span>[4](#fn_10.md)
 
  
 
@@ -199,7 +199,7 @@ society was desired, well liked, and of easy manners . . . a merchant of
 high character and kindliness. People used to come to him to discuss
 many matters . . . because of his wide knowledge, his experience of
 commerce, and his sociable nature. He began to call to God and to Islam
-all whom he trusted. <span id="fr_11"></span>[5](#fn_11)
+all whom he trusted. <span id="fr_11"></span>[5](#fn_11.md)
 
  
 
@@ -211,7 +211,7 @@ him, he could not be harmed, but his followers in the other clans were
 more vulnerable. Muhammad there-fore sent some of them to Abyssinia,
 where they were protected by the Negus. It is conceivable that at this
 time the Prophet was contemplating some sort of alliance with
-Abyssinia. <span id="fr_12"></span>[6](#fn_12) The following story about
+Abyssinia. <span id="fr_12"></span>[6](#fn_12.md) The following story about
 this is almost certainly not historical in all particulars, but it is a
 very early apologia for Islam.
 
@@ -264,7 +264,7 @@ beard was wet, and the bishops wept until their scrolls were wet, when
 they heard what he read. Then the Negus said, 'Of a truth, this and what
 Jesus brought have come from the same niche. You two may go, for by God,
 I will never give them up to you, and they shall not be
-betrayed.'" <span id="fr_13"></span>[7](#fn_13)
+betrayed.'" <span id="fr_13"></span>[7](#fn_13.md)
 
 <span id="page_66">p. 66</span>
 
@@ -274,7 +274,7 @@ of the Afterworld. Art, poesy and pious imagination have lavished
 attention on the story. It is now generally admitted that not only the
 general plan but many small details of Dante's Divine Comedy were
 borrowed from the later fancifully developed treatments of this Islamic
-theme. <span id="fr_14"></span>[8](#fn_14) Ibn Isḥāq presents the story
+theme. <span id="fr_14"></span>[8](#fn_14.md) Ibn Isḥāq presents the story
 in one of its earliest forms as he pieced it together. The main elements
 are all present--the journey to Jerusalem, the ascent to the heavens and
 the vision of the afterlife.
@@ -383,7 +383,7 @@ seen a man more like myself. This was my father Abraham. Then he took me
 into Paradise and there I saw a damsel with dark red lips and I asked
 her to whom she belonged, for she pleased me much when I saw her, and
 she told me 'Zayd ibn Ḥāritha.'" The Apostle gave \[his adopted son\]
-Zayd the good news about her. <span id="fr_15"></span>[9](#fn_15)
+Zayd the good news about her. <span id="fr_15"></span>[9](#fn_15.md)
 
 <span id="page_69">p. 69</span>
 
@@ -402,39 +402,39 @@ the Apostle went into his house with the dust still on his head and one
 of his daughters got up to wash it off, weeping as she did so. "Don't
 weep, my little girl," he said, "for God will protect your father."
 Meanwhile he was saying, "The Quraysh never treated me thus while Abū
-Ṭālib was alive. . . ." <span id="fr_16"></span>[10](#fn_16)
+Ṭālib was alive. . . ." <span id="fr_16"></span>[10](#fn_16.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_8"></span>[69:2](isl11.htm#fr_8) "By this he meant
+<span id="fn_8"></span>[69:2](isl11.htm#fr_8.md) "By this he meant
 Gabriel": al-Tabari.
 
-<span id="fn_9"></span>[69:3](isl11.htm#fr_9) Alfred Guillaume, *The
+<span id="fn_9"></span>[69:3](isl11.htm#fr_9.md) Alfred Guillaume, *The
 Life of Muhammad* (Oxford, 1955), pp. 105-107. Translation of Ibn Ishaq,
 *Sirat Rasūl Allah*.
 
-<span id="fn_10"></span>[69:4](isl11.htm#fr_10) *Ibid*., p. 111.
+<span id="fn_10"></span>[69:4](isl11.htm#fr_10.md) *Ibid*., p. 111.
 
-<span id="fn_11"></span>[69:5](isl11.htm#fr_11) *Ibid*., pp. 114, 115.
+<span id="fn_11"></span>[69:5](isl11.htm#fr_11.md) *Ibid*., pp. 114, 115.
 
-<span id="fn_12"></span>[69:6](isl11.htm#fr_12) However, on this cf.
+<span id="fn_12"></span>[69:6](isl11.htm#fr_12.md) However, on this cf.
 Montgomery Watt, *Muhammad at Mecca* (Oxford, 1953), pp. 109 ff.
 
-<span id="fn_13"></span>[69:7](isl11.htm#fr_13) Guillaume, *op. cit.*,
+<span id="fn_13"></span>[69:7](isl11.htm#fr_13.md) Guillaume, *op. cit.*,
 pp. 150-152.
 
-<span id="fn_14"></span>[69:8](isl11.htm#fr_14) Cf. Dom Miguel Asin
-Palacios, *La Escatologia Musulmana En [la](errata.htm#0) Divina
+<span id="fn_14"></span>[69:8](isl11.htm#fr_14.md) Cf. Dom Miguel Asin
+Palacios, *La Escatologia Musulmana En [la](errata.htm#0.md) Divina
 Comedia* (2nd Ed.; Madrid-Granada, 1943). Translated to English and
 Abridged in H. Sunderland, *Islam and the Divine Comedy* (London, 1926).
 
-<span id="fn_15"></span>[69:9](isl11.htm#fr_15) <span id="page_244">p.
+<span id="fn_15"></span>[69:9](isl11.htm#fr_15.md) <span id="page_244">p.
 244</span> Guillaume, *op. cit.*, pp. 181-186 (here abridged).
 
-<span id="fn_16"></span>[69:10](isl11.htm#fr_16) *Ibid*., p. 191.
+<span id="fn_16"></span>[69:10](isl11.htm#fr_16.md) *Ibid*., p. 191.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Founding of the Community](isl12)
+[Next: 2. The Founding of the Community](isl12.md)

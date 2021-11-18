@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits050) [Next](bits052)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits050) [Next](bits052.md)
 
 ------------------------------------------------------------------------
 
@@ -425,7 +425,7 @@ Yields to his fate,--so ends my tale.<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 52. The Ass in the Lion's Skin](bits052)
+[Next: § 52. The Ass in the Lion's Skin](bits052.md)
 
  
 

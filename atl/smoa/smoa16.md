@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa15)  [Next](smoa17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa15)  [Next](smoa17.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -244,4 +244,4 @@ crumble. Speak I thus in prophecy.
 ------------------------------------------------------------------------
 
 [Next: Chapter XV. Origin of the Mongolian race. Kling, from Atlantis,
-tempted.](smoa17)
+tempted.](smoa17.md)

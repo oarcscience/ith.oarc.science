@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt14)  [Next](crt16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt14)  [Next](crt16.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_10000"></span>
 
 [![Sir Tristram of Lyonesse.](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 Sir Tristram of Lyonesse.  
 
 <span id="page_101">p. 101</span>
@@ -234,4 +234,4 @@ in all of the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter First](crt16)
+[Next: Chapter First](crt16.md)

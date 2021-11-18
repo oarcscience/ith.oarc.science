@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](jo2)  [Next](jde) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](jo2)  [Next](jde.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ wollen wir mündlich miteinander reden.
 
 ------------------------------------------------------------------------
 
-[Next: Jude](jde)
+[Next: Jude](jde.md)

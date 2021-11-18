@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](dmt07)  [Next](dmt09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](dmt07)  [Next](dmt09.md) 
 
 ------------------------------------------------------------------------
 
@@ -721,4 +721,4 @@ see the different schools forming under clear and definite leaders.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](dmt09)
+[Next: Chapter II](dmt09.md)

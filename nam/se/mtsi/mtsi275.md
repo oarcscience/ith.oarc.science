@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi274)  [Next](mtsi276) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi274)  [Next](mtsi276.md) 
 
 ------------------------------------------------------------------------
 
 ### 10. THUNDER
 
-Thunder married a human being. <span id="fr_76"></span>[1](#fn_75) He
+Thunder married a human being. <span id="fr_76"></span>[1](#fn_75.md) He
 had a big frog covered up to keep his fire. When Thunder came back from
 killing someone he hung up an arm, the head and the buttocks. As he went
 along Thunder sang, "I am flying. I am flying. I am flying. Flying water
@@ -38,9 +38,9 @@ what they always used to say.
 
 ### Footnotes
 
-<span id="fn_75"></span>[239:1](mtsi275.htm#fr_76) And that is how the
+<span id="fn_75"></span>[239:1](mtsi275.htm#fr_76.md) And that is how the
 other facts regarding him came to be known.
 
 ------------------------------------------------------------------------
 
-[Next: 11. Adoption of the Human Race](mtsi276)
+[Next: 11. Adoption of the Human Race](mtsi276.md)

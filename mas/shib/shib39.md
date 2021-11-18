@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib38)  [Next](shib40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib38)  [Next](shib40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ Priory suitably arrayed, the necessary precautionary steps will be
 taken. This is the array:
 
 <span id="img_13100"></span> <span align="CENTER"> [![](tn/13100.jpg)  
-Click to enlarge](img/13100.jpg)</span>
+Click to enlarge](img/13100.jpg.md)</span>
 
 <span id="page_132">p. 132</span>
 
@@ -160,7 +160,7 @@ sufficient for the Commanderies at present.</span>
 ###### OF THE PROPOSED REVISED RITUAL OF THE ORDER OF MALTA.
 
 <span id="img_13500"></span> <span align="CENTER"> [![](tn/13500.jpg)  
-Click to enlarge](img/13500.jpg)</span>
+Click to enlarge](img/13500.jpg.md)</span>
 
 Stations same as in K. T. at Opening. The dotted lines show course of
 second entrance.
@@ -172,4 +172,4 @@ Saviour.
 
 ------------------------------------------------------------------------
 
-[Next: Calendars](shib40)
+[Next: Calendars](shib40.md)

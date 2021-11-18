@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb36)  [Next](crfb38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb36)  [Next](crfb38.md) 
 
 </div>
 
@@ -161,6 +161,6 @@ happily for many years.
 
 ------------------------------------------------------------------------
 
-[Next: The Magic Kettle](crfb38)
+[Next: The Magic Kettle](crfb38.md)
 
 </div>

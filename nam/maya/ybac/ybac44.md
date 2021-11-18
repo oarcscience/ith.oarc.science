@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac43)  [Next](ybac45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac43)  [Next](ybac45.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ id="img_07203"></span>
 
 meanwhile the chacs covered the idols and the small stones with a blue
 bitumen like that of the books of the priests. <span
-id="fr_38"></span>[\*](#fn_38)
+id="fr_38"></span>[\*](#fn_38.md)
 
 After this each one wrapped up the implements of his office, and taking
 the pouch on his back all danced a dance they called **Chantuniah**.
@@ -330,7 +330,7 @@ banners and idols, returning them to the house of the chief, and thence
 each one to his home. They said and believed that Kukulcán descended on
 the last of those days from heaven and received their sacrifices,
 penances and offerings. This festival they called **Chicc-kaban**. <span
-id="fr_39"></span>[\*](#fn_39)
+id="fr_39"></span>[\*](#fn_39.md)
 
 <span id="page_75">p. 75</span>
 
@@ -472,7 +472,7 @@ with their characters.
 
 A: January 29: **1 Imix**. Here begins the calendar of the Indians,
 saying in their language, **Hun Imix**. <span
-id="fr_40"></span>[\*](#fn_40)
+id="fr_40"></span>[\*](#fn_40.md)
 
 <div align="center">
 
@@ -731,7 +731,7 @@ work, fearing lest evil fall on them.
 
 ### Footnotes
 
-<span id="fn_38"></span>[72:\*](ybac44.htm#fr_38) The first two figures
+<span id="fn_38"></span>[72:\*](ybac44.htm#fr_38.md) The first two figures
 on this page are from the Dresden Codex, showing **Ixchel** as goddess
 <span id="page_73">p. 73</span> of medicine; of the rest, from the
 Madrid codex, in one the god **Ekchuah** traps the deer; next a vulture
@@ -742,7 +742,7 @@ used in what is known as the 'chapter of the bees.' A little further on,
 under the month **Xul**, is shown one of the very handsome handled
 incense burners, of which a number of specimens have been found.
 
-<span id="fn_39"></span>[74:\*](ybac44.htm#fr_39) We probably have here
+<span id="fn_39"></span>[74:\*](ybac44.htm#fr_39.md) We probably have here
 a survival from an earlier adjustment of the calendar, as shown both by
 the month-names and the ceremonies. **Xul** means 'end, termination,'
 and on the 16th they created new fire, and continued offerings and other
@@ -786,7 +786,7 @@ form, attached to the transitory presence of Quetzalcóatl in Yucatan
 (according to the traditions), while the greater and fuller
 sin-cleansing five-day ceremonies fell in July.
 
-<span id="fn_40"></span>[77:\*](ybac44.htm#fr_40) The 'book of
+<span id="fn_40"></span>[77:\*](ybac44.htm#fr_40.md) The 'book of
 divination,' of lucky and unlucky days, called **tzolkin**, meaning
 'day-count' in Maya, **ch’olkih** in Quiché, and **tonalamatl** in
 Aztec, was a period of 260 days, revolving continuously without regard
@@ -796,4 +796,4 @@ day-names.
 
 ------------------------------------------------------------------------
 
-[Next: XLI. Cycle of the Mayas. Their Writings](ybac45)
+[Next: XLI. Cycle of the Mayas. Their Writings](ybac45.md)

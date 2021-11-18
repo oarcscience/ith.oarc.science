@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim14)  [Next](sim16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim14)  [Next](sim16.md) 
 
 ------------------------------------------------------------------------
 
@@ -171,4 +171,4 @@ The man went home to his wife and they lived happily ever after.
 ------------------------------------------------------------------------
 
 [Next: Two Young Men Who Went to ''The Blue'', Speaker and
-Definer](sim16)
+Definer](sim16.md)

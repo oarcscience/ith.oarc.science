@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife4) [Next](ife6)
+[Sacred-Texts](../../index) [Africa](../index) [Index](index) [Previous](ife4) [Next](ife6.md)
 
 ------------------------------------------------------------------------
 
@@ -250,7 +250,7 @@ Have lain in bondage.</td>
 
 ------------------------------------------------------------------------
 
-[Next](ife6)
+[Next](ife6.md)
 
 ------------------------------------------------------------------------
 
@@ -258,20 +258,20 @@ Have lain in bondage.</td>
 
 <span id="footnotes_page_28">p. 28</span>
 
-<span id="page_28_note_1"></span>[1](#page_28_fr_1) cp. Yoruba threat
+<span id="page_28_note_1"></span>[1](#page_28_fr_1.md) cp. Yoruba threat
 "The Elephant has power to crush the Leopard, though he be silent."
 (Communicated by drum-beats, I think.)
 
-<span id="page_28_note_2"></span>[2](#page_28_fr_2) Yoruba saying. The
+<span id="page_28_note_2"></span>[2](#page_28_fr_2.md) Yoruba saying. The
 speaker is probably prepared to travel.
 
 <span id="footnotes_page_32">p. 32</span>
 
-<span id="page_32_note_1"></span>[1](#page_32_fr_1) Yoruba saying.
+<span id="page_32_note_1"></span>[1](#page_32_fr_1.md) Yoruba saying.
 
 <span id="footnotes_page_34">p. 34</span>
 
-<span id="page_34_note_1"></span>[1](#page_34_fr_1) Yoruba saying.
+<span id="page_34_note_1"></span>[1](#page_34_fr_1.md) Yoruba saying.
 
  
 

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](tmm01) 
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](tmm01.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ TO MY SON ISIDORE RAPAPORT
 
 ------------------------------------------------------------------------
 
-[Next: Contents](tmm01)
+[Next: Contents](tmm01.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ftmg03)  [Next](ftmg05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ftmg03)  [Next](ftmg05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HWRKVG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fairy Tales of Modern Greece*, by Theodore P. Gianakoulis and Georgia
 H. MacPherson, \[1930\], at Intangible Textual Heritage
 
@@ -124,7 +124,7 @@ the entrances to fairy palaces were said to be found. I was
 congratulating myself on getting away unseen, when my mother's voice
 called from the doorway.
 
-"Theodorake <span id="fr_0"></span>[1](#fn_0), come back. Where did you
+"Theodorake <span id="fr_0"></span>[1](#fn_0.md), come back. Where did you
 get that gun?"
 
 When I told her, she asked what I was about to do with it. My answer was
@@ -206,8 +206,8 @@ her scolding humbly and never again did I go fairy-hunting.
 
 ### Footnotes
 
-<span id="fn_0"></span>[24:1](ftmg04.htm#fr_0) Little Theodore.
+<span id="fn_0"></span>[24:1](ftmg04.htm#fr_0.md) Little Theodore.
 
 ------------------------------------------------------------------------
 
-[Next: II. Fairy Gardens](ftmg05)
+[Next: II. Fairy Gardens](ftmg05.md)

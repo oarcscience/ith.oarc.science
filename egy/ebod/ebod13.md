@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod12)  [Next](ebod14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod12)  [Next](ebod14.md) 
 
 ------------------------------------------------------------------------
 
@@ -388,4 +388,4 @@ to thy father Nu."
 
 ------------------------------------------------------------------------
 
-[Next: Plate II.](ebod14)
+[Next: Plate II.](ebod14.md)

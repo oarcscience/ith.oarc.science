@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas095n)  [Next](jas097n)   
- \[[96. The Dumb Wife.](jas096)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas095n)  [Next](jas097n.md)   
+ \[[96. The Dumb Wife.](jas096.md)\]
 
 ------------------------------------------------------------------------
 
@@ -15,4 +15,4 @@ burial song.
 
 ------------------------------------------------------------------------
 
-[Next: Note 97. Leap, Timber, Leap.](jas097n)
+[Next: Note 97. Leap, Timber, Leap.](jas097n.md)

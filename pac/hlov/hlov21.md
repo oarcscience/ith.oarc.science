@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hlov20)  [Next](hlov22) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hlov20)  [Next](hlov22.md) 
 
 ------------------------------------------------------------------------
 
@@ -240,4 +240,4 @@ leaving Hiiaka and Wahine-omao to go on after Lohiau.
 
 ------------------------------------------------------------------------
 
-[Next: XVII. Lohiau](hlov22)
+[Next: XVII. Lohiau](hlov22.md)

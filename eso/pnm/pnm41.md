@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm40)  [Next](pnm42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm40)  [Next](pnm42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -114,13 +114,13 @@ fox
 
 and ape, under Saturn and Mercury; and domestical dogs under Mercury and
 the Moon. And thus we have shewed more things in these inferiors by
-their superiors. <span id="fr_25"></span>[\*](#fn_25)
+their superiors. <span id="fr_25"></span>[\*](#fn_25.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_25"></span>[114:\*](pnm41.htm#fr_25) Agrippa's historian,
+<span id="fn_25"></span>[114:\*](pnm41.htm#fr_25.md) Agrippa's historian,
 Mr. Henry Morley, says: "Here ends the detail of the theory of Nature,
 upon which were based, so far as concerned natural things, the arts of
 sorcery and divination. From theory to practice, therefore, the young
@@ -129,4 +129,4 @@ student passes."—"Life of Cornelius Agrippa," Vol. I., p. 136.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXIII. Of the Seals and Characters of Natural
-Things](pnm42)
+Things](pnm42.md)

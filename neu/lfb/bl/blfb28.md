@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](blfb27)  [Next](blfb29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](blfb27)  [Next](blfb29.md) 
 
 </div>
 
@@ -132,6 +132,6 @@ wood, and there died.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Prince Darling](blfb29)
+[Next: Prince Darling](blfb29.md)
 
 </div>

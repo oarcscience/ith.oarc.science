@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,16 +11,16 @@
 
 ------------------------------------------------------------------------
 
-[Title Page](row00)  
+[Title Page](row00.md)  
 [What Makes a Man Superstitious; His Religion, or a Lack of
-It?](row01)  
+It?](row01.md)  
 [Witchcraft And Beliefs In Evil Spirits Came To America Long
-Ago](row02)  
-[Puritans Raised Hell With Witches In Early Days](row03)  
-[Strange Evolution For Getting Rid of Evil Spirits](row04)  
-[Charms and Trinkets Are Revered by Many of our People](row05)  
-[Some of the ''Famous'' Witch Trials in Pennsylvania](row06)  
-[Those Little ''Differences'' Between Science and Folklore](row07)  
-[And So They Celebrate Pagan Days In Our Public Schools](row08)  
-[Who Gets Hurt If Our Witchcraft Is Taken From Us?](row09)  
-[A Witch Case In The Making--That Never Went To Court (Yet)!](row10)  
+Ago](row02.md)  
+[Puritans Raised Hell With Witches In Early Days](row03.md)  
+[Strange Evolution For Getting Rid of Evil Spirits](row04.md)  
+[Charms and Trinkets Are Revered by Many of our People](row05.md)  
+[Some of the ''Famous'' Witch Trials in Pennsylvania](row06.md)  
+[Those Little ''Differences'' Between Science and Folklore](row07.md)  
+[And So They Celebrate Pagan Days In Our Public Schools](row08.md)  
+[Who Gets Hurt If Our Witchcraft Is Taken From Us?](row09.md)  
+[A Witch Case In The Making--That Never Went To Court (Yet)!](row10.md)  

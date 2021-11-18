@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs35) 
-[Next](wscs37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs35.md) 
+[Next](wscs37.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -719,7 +719,7 @@ It is a matter of no importance whether Christianity was originally
 known by another name, so long as it can be shown that its doctrines had
 all been preached and proclaimed to the world centuries prior to the
 date assigned for its origin. And this is proved by the long list of
-[parallelisms](errata.htm#8) presented in the incipient pages of this
+[parallelisms](errata.htm#8.md) presented in the incipient pages of this
 chapter. And this proof explodes the pretensions of Christianity to an
 "original divine revelation," and brings it down to a level with pagan
 orientalism. And the fact that it sprang up in a country where its
@@ -837,4 +837,4 @@ teachings of Christianity in all their details.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXII: Three Hundred and Forty-Six Striking Analogies
-Between Christ and Chrishna](wscs37)
+Between Christ and Chrishna](wscs37.md)

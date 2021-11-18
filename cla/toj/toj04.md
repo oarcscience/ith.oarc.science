@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](toj03)  [Next](toj05) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](toj03)  [Next](toj05.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,7 +70,7 @@ Phrygia an inanimate image, but some
 <span id="page_102">p. 102</span>
 
 thing endued with a greater and more divine power than ordinary <span
-id="fr_55"></span>[1](#fn_55), stopped the vessel as soon as it reached
+id="fr_55"></span>[1](#fn_55.md), stopped the vessel as soon as it reached
 the Tyber, and suddenly rooted it, as it were, in the stream. Hence, on
 the people endeavouring to draw it against the tide, it resisted their
 efforts, and remained fixed; nor did it in the least yield to their
@@ -141,7 +141,7 @@ to the lowest matter, and which contains in itself all the reasons and
 causes of material forms: for the forms of all things do not subsist in
 all, nor are the ideas of the lowest and last of things, which possess
 nothing but the name of privation, with an obscure conception, in the
-most supreme and first of causes <span id="fr_56"></span>[1](#fn_56). As
+most supreme and first of causes <span id="fr_56"></span>[1](#fn_56.md). As
 therefore there are many essences, and many artificers of things, that
 nature of the third demiurgus, (who contains the exempt reasons, and
 continued causes, of material forms), which, descending from on high,
@@ -160,7 +160,7 @@ Epicurean opinion: for if there be nothing more ancient than these two
 principles, the realms of generation must be alloted a rash and
 fortuitous impulse. But we may perceive (says a certain sagacious
 Peripatetic, such as Xenarchus) that the cause of these is a fifth and
-circular body <span id="fr_57"></span>[1](#fn_57). But it appears to me
+circular body <span id="fr_57"></span>[1](#fn_57.md). But it appears to me
 that both Aristotle and Theophrastus are ridiculously anxious about a
 body of this kind, and that they are ignorant, as it were, of their own
 voice. For, as when we have arrived at an incorporeal and intelligible
@@ -198,13 +198,13 @@ should still farther purify the eyes of our soul? But proper purgation
 consists in a conversion of the soul to itself, and a perception how
 soul and a material intellect are, as it were, certain express
 resemblances and images of immaterial <span
-id="fr_58"></span>[1](#fn_58) forms: for there is not any one body, or
+id="fr_58"></span>[1](#fn_58.md) forms: for there is not any one body, or
 any thing incorporeal, which subsists and is beheld about bodies, the
 image of which intellect is not able to receive in an incorporeal
 manner; and this it could never be able to accomplish unless it
 possessed something naturally allied to these. On this account Aristotle
 also says, that the soul is the place of forms, not indeed in energy,
-but in capacity only <span id="fr_59"></span>[2](#fn_59). It is
+but in capacity only <span id="fr_59"></span>[2](#fn_59.md). It is
 necessary therefore that such a soul, and which converts itself to the
 body, should possess these in capacity: and if there is any soul
 unrestrained by, and unmixed with, the body, we ought to think that all
@@ -218,7 +218,7 @@ Plato employs in the Sophista, though for a purpose different from the
 present. But I do not introduce this example with a view to give
 demonstration to what has been said, for it is not proper to receive
 this by demonstration, but by a *direct application of intellect* <span
-id="fr_60"></span>[1](#fn_60) alone: for our discourse is about first
+id="fr_60"></span>[1](#fn_60.md) alone: for our discourse is about first
 principles, or things co-ordinate with such as are first; since Attis is
 considered by us, and with great propriety, as a god. But what, and of
 what kind, is this example? Plato then says, that, among those who are
@@ -245,7 +245,7 @@ energy prior to material natures, and from which, having a prior
 subsistence, our soul necessarily receives the reasons of forms, in the
 same manner as a mirror the images of things. But from hence she imparts
 them through nature to matter, and to these material bodies: for we are
-certain that Nature <span id="fr_61"></span>[1](#fn_61)
+certain that Nature <span id="fr_61"></span>[1](#fn_61.md)
 
 <span id="page_112">p. 112</span>
 
@@ -261,7 +261,7 @@ a reasoning energy? Besides, where is the person so contentious, who
 will allow that material reasons subsist in nature, all indeed in
 capacity, though not all according to the same in energy, and yet will
 not allow this to soul? If, therefore, forms subsist in nature in
-capacity, and not in energy <span id="fr_62"></span>[1](#fn_62), and
+capacity, and not in energy <span id="fr_62"></span>[1](#fn_62.md), and
 likewise subsist in soul, but more pure and distinct, so as that they
 can be apprehended and known, but yet are by no means in energy; from
 whence do we derive the firm persuasion of the perpetuity of generation?
@@ -297,7 +297,7 @@ who is similar to the solar rays, to leap and dance. But when, in the
 course of his progression, he arrived at the extremity of things, the
 fable relates that he came into a cavern, and had connection with a
 nymph, obscurely signifying by this, the humid nature of matter <span
-id="fr_63"></span>[1](#fn_63); though indeed matter is not so much
+id="fr_63"></span>[1](#fn_63.md); though indeed matter is not so much
 signified here, as that last incorporeal cause which presides over
 matter; for, according to Heraclitus,
 
@@ -351,7 +351,7 @@ demiurgus assigned to Hercules: for his soul, prior to her incarnation,
 then was, and appeared to be, more efficacious than when she consented
 to a conjunction with body. For a providential attention to these
 inferior concerns is much easier to Hercules now, having wholly departed
-to his universal father <span id="fr_64"></span>[1](#fn_64), than it was
+to his universal father <span id="fr_64"></span>[1](#fn_64.md), than it was
 formerly,
 
 <span id="page_117">p. 117</span>
@@ -380,7 +380,7 @@ But who the nymph is, we have already explained: and the lion is said to
 be subservient to the demiurgic providence of things, i.e. without
 doubt, to the mother of the gods; and afterwards by his detecting and
 betraying Attis, to have been the cause of his castration. But
-castration <span id="fr_65"></span>[1](#fn_65) is a certain repression
+castration <span id="fr_65"></span>[1](#fn_65.md) is a certain repression
 of infinity: for things in generation are not established in bounded
 forms, and restrained by a demiurgic providence, without that which is
 called the insanity of Attis; which, when it departs from measure, and
@@ -399,16 +399,16 @@ therefore absurd to assert, that Attis is a certain demigod, (for this
 is the meaning of the fable) or rather he is in reality a god: for he
 proceeds from the third demiurgus, and after his castration is again
 recalled to the mother of the gods; but as he persuaded himself wholly
-to verge, he appears to incline <span id="fr_66"></span>[1](#fn_66) into
+to verge, he appears to incline <span id="fr_66"></span>[1](#fn_66.md) into
 matter. Indeed he who considers this deity as the last of the gods, but
 the head of all the divine genera, will by no means deviate from the
 truth; for on this account the fable calls him a demigod <span
-id="fr_67"></span>[2](#fn_67), that it may evince the difference between
+id="fr_67"></span>[2](#fn_67.md), that it may evince the difference between
 him and the immutable
 
 <span id="page_120">p. 120</span>
 
-gods. And the Corybantes <span id="fr_68"></span>[1](#fn_68), who are
+gods. And the Corybantes <span id="fr_68"></span>[1](#fn_68.md), who are
 the three ruling hypostases of the more excellent genera after the gods,
 were placed round him by the mother of the gods as his guards.
 
@@ -484,7 +484,7 @@ correct. For the ancients in interpreting the causes of things which
 have a perpetual subsistence, or rather in exploring the nature of the
 gods under the inspiring influence of the gods themselves, when they had
 discovered the objects of their investigation, concealed them under the
-veil of incredible fables <span id="fr_69"></span>[1](#fn_69), that
+veil of incredible fables <span id="fr_69"></span>[1](#fn_69.md), that
 through the paradoxical and apparently incongruous nature of the
 fictions, we might be secretly excited to an enquiry after the truth; an
 utility which is merely irrational, and which takes place through
@@ -505,9 +505,9 @@ energy, which subsists alone according to intellect.
 
 In short, whatever we conceive having a subsistence as far as to the
 fifth body, I do not mean that which is intelligible only, but likewise
-these apparent bodies <span id="fr_70"></span>[1](#fn_70), which are of
+these apparent bodies <span id="fr_70"></span>[1](#fn_70.md), which are of
 an impassive and divine condition, as far as to these, the *pure* <span
-id="fr_71"></span>[2](#fn_71) gods are understood to subsist:
+id="fr_71"></span>[2](#fn_71.md) gods are understood to subsist:
 
 <span id="page_125">p. 125</span>
 
@@ -559,7 +559,7 @@ Again, when Attis was led back, as it were, from the earth, he is said
 to have recovered the possession of his ancient sceptres; not that in
 reality he ever fell from them, or ever will; but he is said to have
 deserted his dominion, on account of his being mingled with a passive
-nature <span id="fr_72"></span>[1](#fn_72). But it is perhaps worth
+nature <span id="fr_72"></span>[1](#fn_72.md). But it is perhaps worth
 investigating why, since the equinoctial is twofold, we do not celebrate
 the mysteries of this god when the sun is in Libra, but when he is in
 Aries; the reason therefore of this is beyond all doubt obvious: for
@@ -591,14 +591,14 @@ the naturally reductorial power of the rays of the god is shewn by his
 apparent and unapparent energy, through which a great multitude of souls
 are led back again, by following the most splendid and eminently solar
 form of the senses: for the sense of sight is celebrated by the divine
-Plato <span id="fr_73"></span>[1](#fn_73) as not only lovely and useful
+Plato <span id="fr_73"></span>[1](#fn_73.md) as not only lovely and useful
 for the purposes of life, but
 
 <span id="page_129">p. 129</span>
 
 as a leader in the acquisition of wisdom. But if I should touch upon
 that arcane and mystic narration which the Chaldean <span
-id="fr_74"></span>[1](#fn_74), agitated by divine fury, poured forth
+id="fr_74"></span>[1](#fn_74.md), agitated by divine fury, poured forth
 about the *seven-rayed god*, and through which he leads souls back again
 to the courts of light, I should speak of things unknown, and indeed
 vehemently so, to the sordid vulgar, though well known to theurgic and
@@ -610,7 +610,7 @@ celebration of these sacred rites was not irrationally assumed, but with
 the greatest propriety, and agreeable to the most perfect reason: and an
 argument for the truth of this may be derived from considering, that the
 venerable and arcane mysteries of Ceres and Proserpine <span
-id="fr_75"></span>[2](#fn_75) are celebrated when the sun is in Libra;
+id="fr_75"></span>[2](#fn_75.md) are celebrated when the sun is in Libra;
 and this with the greatest propriety; for it is necessary to be again
 initiated when the solar god is departing from our zone, that we may
 suffer no molestation from the prevalence of
@@ -624,7 +624,7 @@ already assigned. But it appears to me that they were called greater and
 lesser on other accounts, but especially for this reason, because it is
 more proper to celebrate these mysteries when the god is departing from,
 than when he is approaching to, our zone. Hence, in the lesser
-mysteries, the *proteleia* <span id="fr_76"></span>[1](#fn_76) of
+mysteries, the *proteleia* <span id="fr_76"></span>[1](#fn_76.md) of
 initiation take place, and this so far only as is sufficient for the
 purposes of recollection; as the saving and reductorial god is at this
 period present. But a little after this, continued lustrations, and the
@@ -659,7 +659,7 @@ of which must necessarily be attended
 
 with affliction and pain? Such are the objections which may be raised by
 many, and those not of the vulgar of mankind: and these very particulars
-are now derided by the most impious <span id="fr_77"></span>[1](#fn_77);
+are now derided by the most impious <span id="fr_77"></span>[1](#fn_77.md);
 for, say they, in these rites, the stalks of pot-herbs may be eaten, but
 the roots must be rejected, as likewise turnips; and again, figs are
 allowed, but pomegranates and apples are not permitted to be eaten. As I
@@ -733,7 +733,7 @@ as are nourished in, and sympathize with, the earth.
 Again, with respect to the fruits of trees, she prohibits us from
 corrupting and consuming apples, as being sacred and golden, and images
 of the rewards attending arcane and telestic labours <span
-id="fr_78"></span>[1](#fn_78); and as deserving reverence and respect,
+id="fr_78"></span>[1](#fn_78.md); and as deserving reverence and respect,
 on account of their exemplars: but she forbids the use of the
 pomegranate as being a terrestrial plant; and likewise the fruit of the
 palm, because, perhaps some one may say, it does not grow in Phrygia,
@@ -788,7 +788,7 @@ us to feed on birds, a few excepted, which happen to be perfectly
 sacred; and likewise all quadrupeds which we usually feed on, except the
 hog: for as this animal is entirely terrestrial in its form, manner of
 living, and from the very condition of its essence, (as its flesh is
-excrementitious and gross <span id="fr_79"></span>[1](#fn_79)) on this
+excrementitious and gross <span id="fr_79"></span>[1](#fn_79).md) on this
 account it is driven from the sacred feast: for this victim is not
 undeservedly considered as friendly to the terrestrial gods; since it is
 an animal which never beholds the heavens, and is not only unwilling,
@@ -838,7 +838,7 @@ indeed the Oracles of the gods testify the truth of these assertions,
 when they declare, that through purifying ceremonies, not the soul only,
 but bodies themselves, become worthy of receiving much assistance and
 health: "for (say they) the mortal vestment of bitter matter will, by
-this means, be preserved <span id="fr_80"></span>[1](#fn_80)." And this
+this means, be preserved <span id="fr_80"></span>[1](#fn_80.md)." And this
 the gods in an exhortatory manner, announce to the most holy of
 Theurgists.
 
@@ -864,12 +864,12 @@ every partial fabrication. But it
 <span id="page_142">p. 142</span>
 
 is proper likewise to call to mind, in conjunction with these, Hermes
-*Epaphroditus* <span id="fr_81"></span>[1](#fn_81); for thus is this god
+*Epaphroditus* <span id="fr_81"></span>[1](#fn_81.md); for thus is this god
 denominated by the mystics, who are said to kindle lamps in honour of
 the wise Attis. Who, therefore, is so dull of apprehension as not to
 understand that all things which entirely subsist for the sake of
 generation are called upward **through** Hermes and Venus <span
-id="fr_82"></span>[2](#fn_82)? And this recalling power is especially
+id="fr_82"></span>[2](#fn_82.md)? And this recalling power is especially
 the characteristic of reason; but is not Attis he, who, a little before
 being imprudent, is now, through his castration, denominated wise? For
 he was before unwise, because he connected himself with matter, and
@@ -913,7 +913,7 @@ glory, together with good hope of a progression to thy divinity.
 
 ### Footnotes
 
-<span id="fn_55"></span>[102:1](toj04.htm#fr_55) To believe that the
+<span id="fn_55"></span>[102:1](toj04.htm#fr_55.md) To believe that the
 statues of the gods, such as they were fabricated by the ancients,
 participated of a divine influence, as much as the substances from which
 they were composed is capable of admitting, must appear ridiculous to
@@ -962,7 +962,7 @@ to reverence the *resemblances of divinity*; since the former conduct is
 *beautifully pious*, is replete with *real good*, and is *divinely
 wise*.
 
-<span id="fn_56"></span>[106:1](toj04.htm#fr_56) I have already
+<span id="fn_56"></span>[106:1](toj04.htm#fr_56.md) I have already
 observed, in the Introduction to this volume, that our religious Emperor
 had not arrived at the most consummate degree of perfection In
 philosophic attainments, and the present passage proves the truth of my
@@ -975,19 +975,19 @@ accommodated to the nature of each; just as earth subsists in heaven
 *celestially*, and heaven in earth according to a *terrestrial
 property*.
 
-<span id="fn_57"></span>[107:1](toj04.htm#fr_57) Concerning this fifth
+<span id="fn_57"></span>[107:1](toj04.htm#fr_57.md) Concerning this fifth
 body, see my Introduction to the Timæus of Plato.
 
-<span id="fn_58"></span>[109:1](toj04.htm#fr_58) The original is ενυλων,
+<span id="fn_58"></span>[109:1](toj04.htm#fr_58.md) The original is ενυλων,
 but should doubtless be αυλων.
 
-<span id="fn_59"></span>[109:2](toj04.htm#fr_59) The soul is, indeed
+<span id="fn_59"></span>[109:2](toj04.htm#fr_59.md) The soul is, indeed
 παμμορφον αγαλμα, an omniform image; and the forms which partial souls
 like ours contain, are, prior to the Illuminations of science, said to
 be in capacity, because they are then in a dormant state, and may be
 compared to beautiful colours secluded from the light.
 
-<span id="fn_60"></span>[110:1](toj04.htm#fr_60) The, νοερα επιβολη, or
+<span id="fn_60"></span>[110:1](toj04.htm#fr_60.md) The, νοερα επιβολη, or
 *application of intellect*, which the Emperor mentions in this place,
 signifies that self-inspective power of intellect by which it is able to
 pass into immediate contact with ideas superior to such as are
@@ -995,7 +995,7 @@ participated by soul: and a knowledge of this kind is superior to that
 of science, above which it is immediately situated. See more concerning
 this in a note to my translation of the Phædo of Plato.
 
-<span id="fn_61"></span>[111:1](toj04.htm#fr_61) Nature is that
+<span id="fn_61"></span>[111:1](toj04.htm#fr_61.md) Nature is that
 divisible life which subsists about body, which is productive of seeds,
 and which is the cause to all bodies of vegetation, nutrition, and
 increase: but this life is void of phantasy, as is evident from its
@@ -1003,15 +1003,15 @@ being distributed through every part of the body, and becoming by this
 means passive in the most eminent degree, whereas the phantasy, which is
 the summit of the irrational life, is undistributed and impassive.
 
-<span id="fn_62"></span>[112:1](toj04.htm#fr_62) Forms subsist in Nature
+<span id="fn_62"></span>[112:1](toj04.htm#fr_62.md) Forms subsist in Nature
 fabricative, but not intellective; in partial souls like ours,
 intellective but not fabricative; and in divine souls and Intellects,
 both fabricative and intellective.
 
-<span id="fn_63"></span>[114:1](toj04.htm#fr_63) See more concerning
+<span id="fn_63"></span>[114:1](toj04.htm#fr_63.md) See more concerning
 this In my translation of Porphyry's Cave of the Nymphs.
 
-<span id="fn_64"></span>[116:1](toj04.htm#fr_64) Let the reader
+<span id="fn_64"></span>[116:1](toj04.htm#fr_64.md) Let the reader
 carefully remember that Hercules is <span id="page_117">p. 117</span>
 said to have been the son of Jupiter, because, during his subsistence on
 the earth, he immutably preserved a commanding or ruling life, over
@@ -1019,15 +1019,15 @@ which Jupiter presides, and knew that he descended from Jupiter: and a
 similar reasoning must be preserved in the characters of the other
 heroes.
 
-<span id="fn_65"></span>[118:1](toj04.htm#fr_65) Castration among the
+<span id="fn_65"></span>[118:1](toj04.htm#fr_65.md) Castration among the
 gods signifies the prolific progression of secondary divine causes into
 a subject order.
 
-<span id="fn_66"></span>[119:1](toj04.htm#fr_66) It must ever be
+<span id="fn_66"></span>[119:1](toj04.htm#fr_66.md) It must ever be
 remembered that the gods comprehend and preside over the whole of things
 in an impassive and immaterial manner.
 
-<span id="fn_67"></span>[119:2](toj04.htm#fr_67) As Attis is the
+<span id="fn_67"></span>[119:2](toj04.htm#fr_67.md) As Attis is the
 artificer of things conversant with generation and corruption, he may be
 called a dæmon with respect to a god who is the artificer of immutable
 natures: not that he is a dæmon *essentially*, but only according to
@@ -1048,17 +1048,17 @@ id="page_120">p. 120</span> speech of Diotima in the Banquet, Plato
 clearly places the genus of *dæmons* as a medium between *gods* and
 *men*.
 
-<span id="fn_68"></span>[120:1](toj04.htm#fr_68) The *Corybantes* form
+<span id="fn_68"></span>[120:1](toj04.htm#fr_68.md) The *Corybantes* form
 the unpolluted, guardian triad of the *supermundane* order of gods, and
 are analogous to the *Curetes* in the *intellectual* order.
 
-<span id="fn_69"></span>[123:1](toj04.htm#fr_69) See more concerning
+<span id="fn_69"></span>[123:1](toj04.htm#fr_69.md) See more concerning
 this in my translation of Sallust on the Gods and the World.
 
-<span id="fn_70"></span>[124:1](toj04.htm#fr_70) *i.e.* The celestial
+<span id="fn_70"></span>[124:1](toj04.htm#fr_70.md) *i.e.* The celestial
 bodies.
 
-<span id="fn_71"></span>[124:2](toj04.htm#fr_71) The celestial gods may
+<span id="fn_71"></span>[124:2](toj04.htm#fr_71.md) The celestial gods may
 be called pure with respect to the sublunary gods from the bodies which
 are their participants; *i.e.* because a celestial is so much purer than
 a sublunary body. For as the essences of all the gods are transcendently
@@ -1066,36 +1066,36 @@ pure, when one deity is called purer than another, this can only be
 understood as Implying that the participant suspended from the one is
 purer than that of the other.
 
-<span id="fn_72"></span>[127:1](toj04.htm#fr_72) *i.e.* From his
+<span id="fn_72"></span>[127:1](toj04.htm#fr_72.md) *i.e.* From his
 presiding over a passive nature.
 
-<span id="fn_73"></span>[128:1](toj04.htm#fr_73) In the Timæus.
+<span id="fn_73"></span>[128:1](toj04.htm#fr_73.md) In the Timæus.
 
-<span id="fn_74"></span>[129:1](toj04.htm#fr_74) *i.e.*, Julian the
+<span id="fn_74"></span>[129:1](toj04.htm#fr_74.md) *i.e.*, Julian the
 Theurgist.
 
-<span id="fn_75"></span>[129:2](toj04.htm#fr_75) See my Dissertation on
+<span id="fn_75"></span>[129:2](toj04.htm#fr_75.md) See my Dissertation on
 the Eleusinian and Bacchic Mysteries.
 
-<span id="fn_76"></span>[130:1](toj04.htm#fr_76) The mysteries consisted
+<span id="fn_76"></span>[130:1](toj04.htm#fr_76.md) The mysteries consisted
 of three parts τελετη, μυνσις, and εποπτεια i.e. *certain perfective
 rites*, *initiation*, and *inspection*; and the *proteleia*, or *things
 previous to perfection*, belonged to the two first of these parts, but
 not to the third.
 
-<span id="fn_77"></span>[132:1](toj04.htm#fr_77) Meaning the Christians,
+<span id="fn_77"></span>[132:1](toj04.htm#fr_77.md) Meaning the Christians,
 Epicureans, and perfect Atheists.
 
-<span id="fn_78"></span>[135:1](toj04.htm#fr_78) He alludes to the
+<span id="fn_78"></span>[135:1](toj04.htm#fr_78.md) He alludes to the
 Hesperian golden apples which were plucked by Hercules, which formed his
 last labour, and signify his reaping undefiled advantages through mystic
 operations; for gold is a symbol of purity.
 
-<span id="fn_79"></span>[138:1](toj04.htm#fr_79) I have observed that
+<span id="fn_79"></span>[138:1](toj04.htm#fr_79.md) I have observed that
 the most vulgar and gross part of mankind are remarkably fond of pork;
 and this very properly, since like rejoices in like.
 
-<span id="fn_80"></span>[140:1](toj04.htm#fr_80) This is most probably
+<span id="fn_80"></span>[140:1](toj04.htm#fr_80.md) This is most probably
 one of the Chaldæan Oracles, but is not to be found among the fragments
 of the Zoroastrian Oracles, collected first by Patricius, and afterwards
 republished by Stanley. Among these fragments, however, the following
@@ -1111,7 +1111,7 @@ preserve the flowing body." But the Oracle by a fiery intellect, means
 an intellect full of divine conceptions, and which profoundly beholds
 the nature of the gods.
 
-<span id="fn_81"></span>[142:1](toj04.htm#fr_81) That is, *beautiful*,
+<span id="fn_81"></span>[142:1](toj04.htm#fr_81.md) That is, *beautiful*,
 or *graceful*, a name which was doubtless given to Hermes from his
 intimate alliance with Venus; for Mercury forms the summit of the
 *harmonic* and *elevating*, or *reductorial* supermundane triad, which
@@ -1121,10 +1121,10 @@ and foam implies, as Proclus on the Cratylus beautifully observes in his
 account of Venus, *purity of nature, prolific light and power, and, as
 it were, the highest flower of life*.
 
-<span id="fn_82"></span>[142:2](toj04.htm#fr_82) And this because they
+<span id="fn_82"></span>[142:2](toj04.htm#fr_82.md) And this because they
 belong to the supermundane reductorial triad, which elevates through
 *Truth, Beauty, and Harmony*.
 
 ------------------------------------------------------------------------
 
-[Next: To the Ancient Platonic Philosophers](toj05)
+[Next: To the Ancient Platonic Philosophers](toj05.md)

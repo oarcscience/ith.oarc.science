@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas135n)  [Next](jas137n)   
- \[[136. White Belly and Anansi.](jas136)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas135n)  [Next](jas137n.md)   
+ \[[136. White Belly and Anansi.](jas136.md)\]
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ Polívka's analysis of The Little Peasant.
 
 ------------------------------------------------------------------------
 
-[Next: Note 137. Monkey hunts Anansi.](jas137n)
+[Next: Note 137. Monkey hunts Anansi.](jas137n.md)

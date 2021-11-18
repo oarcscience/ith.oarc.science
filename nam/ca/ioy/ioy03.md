@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ioy02)  [Next](ioy04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ioy02)  [Next](ioy04.md) 
 
 ------------------------------------------------------------------------
 
@@ -245,4 +245,4 @@ San Francisco,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter One: Early History](ioy04)
+[Next: Chapter One: Early History](ioy04.md)

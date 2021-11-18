@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf04)  [Next](tsf06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf04)  [Next](tsf06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ sex
 <span id="img_04000"></span>
 
 [![Venus and Cupid fulfilling their mission of love](tn/04000.jpg)  
-Click to enlarge](img/04000.jpg)  
+Click to enlarge](img/04000.jpg.md)  
 Venus and Cupid fulfilling their mission of love  
 
 cells. Their function was to perpetuate the light of life so that it
@@ -170,7 +170,7 @@ from the ceiling of his chapel and were so numerous that when the wind
 stirred them, the lingam struck against the yoni, to the apparent
 disturbance of the faithful at their devotions.
 
-<span id="img_04200"></span> ![A Phallic amulet](img/04200.jpg)  
+<span id="img_04200"></span> ![A Phallic amulet](img/04200.jpg.md)  
 A Phallic amulet
 
 <span id="page_43">p. 43</span>
@@ -213,7 +213,7 @@ envelope. Siva, the great god of India, is the
 <span id="img_04400"></span>
 
 [![Brahma created himself double, both male and female](tn/04400.jpg)  
-Click to enlarge](img/04400.jpg)  
+Click to enlarge](img/04400.jpg.md)  
 Brahma created himself double, both male and female  
 
 <span class="contnote">\[paragraph continues\]</span> Reproducer. He was
@@ -332,7 +332,7 @@ be in favor with the generative gods.
 <span id="img_04800"></span>
 
 [![At the altar of Priapus](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 At the altar of Priapus  
 
 <span class="contnote">\[paragraph continues\]</span> Having received
@@ -500,4 +500,4 @@ experience that it is today.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Spirit of Love in God and Man](tsf06)
+[Next: Chapter IV. The Spirit of Love in God and Man](tsf06.md)

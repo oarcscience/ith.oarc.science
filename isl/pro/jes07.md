@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](jes06)  [Next](jes08) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](jes06)  [Next](jes08.md) 
 
 ------------------------------------------------------------------------
 
@@ -95,4 +95,4 @@ edition.**
 
 ------------------------------------------------------------------------
 
-[Next: Gospel of Mark](jes08)
+[Next: Gospel of Mark](jes08.md)

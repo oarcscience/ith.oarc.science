@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](roli06)  [Next](roli08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](roli06)  [Next](roli08.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Religion of the Luiseño Indians of Southern California*, by
 Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 
@@ -14,8 +14,8 @@ Constance Goddard DuBois, \[1908\], at Intangible Textual Heritage
 ### THE ANT ORDEAL.
 
 Another almost prehistoric ceremony was that of Anut, <span
-id="fr_35"></span>[32](#fn_32) called Antish <span
-id="fr_36"></span>[33](#fn_33) or Tivihayish, used as a sort of
+id="fr_35"></span>[32](#fn_32.md) called Antish <span
+id="fr_36"></span>[33](#fn_33.md) or Tivihayish, used as a sort of
 supplement to the toloache initiation, as an education in courage,
 skill, and quickness for young men. It has been so long discontinued
 that it is impossible to obtain a complete description of it. It was not
@@ -72,13 +72,13 @@ The meaning of the marks could not be discovered.
 
 ### Footnotes
 
-<span id="fn_32"></span>[91:32](roli07.htm#fr_35) Anut, species of large
+<span id="fn_32"></span>[91:32](roli07.htm#fr_35.md) Anut, species of large
 red ant, regarding which there are songs.—S.
 
-<span id="fn_33"></span>[91:33](roli07.htm#fr_36) Antish, the action of
+<span id="fn_33"></span>[91:33](roli07.htm#fr_36.md) Antish, the action of
 lying on an ant hill and permitting one's self to be stung, which was
 thought to be beneficial; anti, verb, antish, action of same.—S.
 
 ------------------------------------------------------------------------
 
-[Next: The Chungichnish Ceremony of Unish Matakish](roli08)
+[Next: The Chungichnish Ceremony of Unish Matakish](roli08.md)

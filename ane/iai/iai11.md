@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai10)  [Next](iai12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai10)  [Next](iai12.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@ East](../index)  [Index](index)  [Previous](iai10)  [Next](iai12) 
 
 ### HEABANI, THE HERMIT SEER
 
-Before a cave within the Gab-ri <span id="fr_114"></span>[1b](#fn_114)
+Before a cave within the Gab-ri <span id="fr_114"></span>[1b](#fn_114.md)
 wild,  
 A seer is resting on a rock; exiled  
 By his own will from all the haunts of men,  
@@ -26,7 +26,7 @@ In wait upon the ground the fox hath lain
 To lure the bird, which flying deems him slain.  
 He fiercely seizes it, as swooping down,  
 The bird with its sly quarry would have flown;  
-But the *a-si* <span id="fr_115"></span>[2](#fn_115) quick seized it by
+But the *a-si* <span id="fr_115"></span>[2](#fn_115.md) quick seized it by
 the throat,  
 While the wide wings with frantic fury smote  
 The beast, and the sharp talons deeply tore  
@@ -59,7 +59,7 @@ Upon my back here sleep eternally."
 And Samas urging, to him thus replied:  
 "Heabani, hast thou not some manly pride?  
 And thinkest thou no joy thou here wilt lose?  
-The lovely Sam-kha-tu <span id="fr_116"></span>[3](#fn_116) the seer may
+The lovely Sam-kha-tu <span id="fr_116"></span>[3](#fn_116.md) the seer may
 choose.  
 Arrayed in trappings of divinity  
 And the insignia of royalty,
@@ -95,13 +95,13 @@ While soft-eyed maidens dance and cymbals play.
 
 ### Footnotes
 
-<span id="fn_114"></span>[36:1b](iai11.htm#fr_114) "Gab-ri," mountains.
+<span id="fn_114"></span>[36:1b](iai11.htm#fr_114.md) "Gab-ri," mountains.
 
-<span id="fn_115"></span>[37:2](iai11.htm#fr_115) "A-si," fox.
+<span id="fn_115"></span>[37:2](iai11.htm#fr_115.md) "A-si," fox.
 
-<span id="fn_116"></span>[37:3](iai11.htm#fr_116) "Sam-kha-tu" ("Joy"),
+<span id="fn_116"></span>[37:3](iai11.htm#fr_116) "Sam-kha-tu" ("Joy".md),
 one of the maids of Ishtar.
 
 ------------------------------------------------------------------------
 
-[Next: Column V. Expedition of Zaidu in Search of the Seer](iai12)
+[Next: Column V. Expedition of Zaidu in Search of the Seer](iai12.md)

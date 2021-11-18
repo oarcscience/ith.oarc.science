@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg60)  [Next](leg62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg60)  [Next](leg62.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,9 +12,9 @@ in the marshes of Buto, because the vapour of damp land destroys
 drought. Nephthys, or Teleute, represents the extreme limits of the
 country and the sea-shore, that is, barren land. Osiris (i.e., the Nile)
 overflowed this barren land, and Anubis <span
-id="fr_340"></span>[2](leg62.htm#fn_338) was the result. <span
-id="fr_341"></span>[3](leg62.htm#fn_339)\]
+id="fr_340"></span>[2](leg62.htm#fn_338.md) was the result. <span
+id="fr_341"></span>[3](leg62.htm#fn_339.md)\]
 
 ------------------------------------------------------------------------
 
-[Next: Section XXXIX](leg62)
+[Next: Section XXXIX](leg62.md)

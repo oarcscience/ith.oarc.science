@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[England](../../neu/eng/index)  [Index](index)  [Previous](hist050) 
-[Next](hist052) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[England](../../neu/eng/index)  [Index](index)  [Previous](hist050.md) 
+[Next](hist052.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014044565X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ his days there in peace.
 ------------------------------------------------------------------------
 
 [Next: XVI. How Paulinus preached in the province of Lindsey; and of thc
-character of the reign of Edwin. \[Circ. 628 A.D.\]](hist052)
+character of the reign of Edwin. \[Circ. 628 A.D.\]](hist052.md)

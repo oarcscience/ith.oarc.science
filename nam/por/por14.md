@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](por13)  [Next](por15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](por13)  [Next](por15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BNKRAM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Path on the Rainbow*, edited by George W. Cronyn, \[1918\], at
 Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ id="page_30">p. 30</span> <span id="page_31">p. 31</span>
 
 ### SONGS FROM THE SOUTHEAST
 
-#### FRAGMENT FROM THE WALLUM-OLUM OR CHRONICLE OF THE LENI-LENÂPÉ <span id="fr_0"></span>[\*](#fn_0)
+#### FRAGMENT FROM THE WALLUM-OLUM OR CHRONICLE OF THE LENI-LENÂPÉ <span id="fr_0"></span>[\*](#fn_0.md)
 
 **DELAWARE**
 
@@ -91,11 +91,11 @@ They at last had food on a pleasant plain.
 
 ### Footnotes
 
-<span id="fn_0"></span>[31:\*](por14.htm#fr_0) This famous fragment, the
+<span id="fn_0"></span>[31:\*](por14.htm#fr_0.md) This famous fragment, the
 only written (pictograph) historical record extant among the Eastern
 tribes, is included as an example of the Saga element in Indian
 literature.
 
 ------------------------------------------------------------------------
 
-[Next: Sacred Formulas of the Cherokees](por15)
+[Next: Sacred Formulas of the Cherokees](por15.md)

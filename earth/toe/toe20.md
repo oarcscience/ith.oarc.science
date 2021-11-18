@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe19)  [Next](toe21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe19)  [Next](toe21.md) 
 
 ------------------------------------------------------------------------
 
@@ -905,4 +905,4 @@ and this will appear more fully in the following chapter.
 ------------------------------------------------------------------------
 
 [Next: Section III. The Mineralogical Operations of the Earth
-illustrated from the Theory of Fossil Coal](toe21)
+illustrated from the Theory of Fossil Coal](toe21.md)

@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat13)  [Next](sat15) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat13)  [Next](sat15.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER THIRTEEN
 
-\[C <span id="C"></span>[(Latin)](../satyrlat/satl100) \] We chose out a
+\[C <span id="C"></span>[(Latin)](../satyrlat/satl100.md) \] We chose out a
 retired spot on the stern-deck, and as it was not even yet daylight,
 Eumolpus dozed off; but neither Giton nor myself could get a single wink
 of sleep. I reflected with anxiety on the fact that I had made a
@@ -65,7 +65,7 @@ business. So this is the Cyclops, the pirate king, we owe our
 passage-money to; then besides him, there is Tryphaena, the fairest of
 fair women, who is sailing from port to port on pleasure bent."
 
-\[CI <span id="CI"></span>[(Latin)](../satyrlat/satl101) \] "Why!
+\[CI <span id="CI"></span>[(Latin)](../satyrlat/satl101.md) \] "Why!
 these," retorted Giton, "are the very persons we wish to avoid," and
 gave the amazed Eumolpus a short account of the reasons for their
 hostility and the extremity of the risk we ran. So confounded was he at
@@ -93,7 +93,7 @@ seeing us? With faces muffled, or faces bare? If muffled, who but will
 spring forward to help the poor patients ashore? If bare, what does this
 amount to but simply giving ourselves away?"
 
-\[CII <span id="CII"></span>[(Latin)](../satyrlat/satl102) \] "Nay! why
+\[CII <span id="CII"></span>[(Latin)](../satyrlat/satl102.md) \] "Nay! why
 not," I interposed, "make a bold stroke, slip down a rope into the
 ship's boat and cutting the painter leave the rest to Fortune? Not that
 I expect Eumolpus to join in the venture; why should we involve an
@@ -152,7 +152,7 @@ disfigure the person, it cannot change it. Now hear a desperate man's
 remedy; let us wind our clothes around our heads, and plunge into the
 deep."
 
-\[CIII <span id="CIII"></span>[(Latin)](../satyrlat/satl103) \] "Gods
+\[CIII <span id="CIII"></span>[(Latin)](../satyrlat/satl103.md) \] "Gods
 and men forbid," cried Eumolpus, "you should end your days in so base a
 fashion. Better, far better, do as I advise. My servant, as the razor
 incident showed you, is a barber; let him instantly shave you both,--not
@@ -176,7 +176,7 @@ sufferer's imprecation, we fell into the same melancholy train of
 thought as before, and settling down in silence, spent the remaining
 hours of darkness in an uneasy doze.
 
-\[CIV <span id="CIV"></span>[(Latin)](../satyrlat/satl104) \] Next day,
+\[CIV <span id="CIV"></span>[(Latin)](../satyrlat/satl104.md) \] Next day,
 directly Eumolpus learned Tryphaena was risen, he entered Lichas's
 cabin; here, after some conversation about the prosperous voyage
 promised by the fine weather, Lichas remarked, turning towards
@@ -219,7 +219,7 @@ night, an abominable thing to do, upon my word! For they tell me it's
 wicked for any man alive, when aboard ship, to cut either nails or hair,
 except when the wind is at odds with the waves."
 
-\[CV <span id="CV"></span>[(Latin)](../satyrlat/satl105) \] Lichas flew
+\[CV <span id="CV"></span>[(Latin)](../satyrlat/satl105.md) \] Lichas flew
 into a passion of anger and consternation at the words, blustering, "Has
 anyone dared to cut his hair on my ship, and at dead of night too?
 Produce the culprits instantly, that I may know whose head must fall to
@@ -266,7 +266,7 @@ terrible a punishment. Doubtless they had merited some mark of ignominy,
 the runaways, whom her favors had only turned into enemies--but not such
 a one as this!
 
-\[CVI <span id="CVI"></span>[(Latin)](../satyrlat/satl106) \] Frenzied
+\[CVI <span id="CVI"></span>[(Latin)](../satyrlat/satl106.md) \] Frenzied
 with indignation, Lichas sprang forward, crying, "Oh! the simplicity of
 the woman! to actually believe these scars were made and the letters
 really imprinted, with the branding-iron! I only wish the marks they
@@ -291,7 +291,7 @@ and declared she would make no further objection to our punishment, but
 would gladly second so just a piece of retribution. She had received,
 she added, as cruel wrong as Lichas himself; for had not her good name
 been publicly traduced before a vulgar mob? \[CVII <span
-id="CVII"></span>[(Latin)](../satyrlat/satl107) \]
+id="CVII"></span>[(Latin)](../satyrlat/satl107.md) \]
 
 'Twas terror first gave origin to gods,  
 When the forked lightning, flashing from the sky  
@@ -367,7 +367,7 @@ likely to win compassion? But there, what use trying to get at the truth
 through an interpreter? What have you to say for yourself, you thief?
 What salamander has burnt off your eyebrows? what god have you vowed
 your locks to? Answer me, villain." \[CVIII <span
-id="CVIII"></span>[(Latin)](../satyrlat/satl108) \] As for me, I stood
+id="CVIII"></span>[(Latin)](../satyrlat/satl108.md) \] As for me, I stood
 dumfounded, silenced by my terror of punishment, unable in my confusion
 to find a word, so plain was the case against me. Besides, I was so
 disfigured, what with my cropped head and my eyebrows as bare as my
@@ -429,7 +429,7 @@ For blood and murderous deeds amidst these waves;
 Why die before our time? your wrath forbear,  
 Nor make the harmless sea your passions share!"
 
-\[CIX <span id="CIX"></span>[(Latin)](../satyrlat/satl109) \] This
+\[CIX <span id="CIX"></span>[(Latin)](../satyrlat/satl109.md) \] This
 effusion, pronounced by Tryphaena in a broken voice, did something to
 stop the fray, the combatants at length turning their thoughts to a
 peaceful solution and ceasing from active hostilities. Eumolpus, the
@@ -489,7 +489,7 @@ And death with hasty steps will soon be here.
 His fatal night already clouds thy morn,  
 Beauty is fallen! and thy gay locks are shorn.
 
-\[CX <span id="CX"></span>[(Latin)](../satyrlat/satl110) \] He was still
+\[CX <span id="CX"></span>[(Latin)](../satyrlat/satl110.md) \] He was still
 longing, I verily believe, to give us more of this stuff or perhaps
 something worse, when Tryphaena's maid led Giton away below and dressed
 the lad up in one of her mistress's heads of hair. She next produced
@@ -517,7 +517,7 @@ he need only instance a case that had occurred, he said, within his own
 memory, which if we pleased he would now relate. This offer concentrated
 the attention of all on the speaker, who began as follows:
 
-\[CXI <span id="CXI"></span>[(Latin)](../satyrlat/satl111) \] "There was
+\[CXI <span id="CXI"></span>[(Latin)](../satyrlat/satl111.md) \] "There was
 once upon a time at Ephesus a lady of so high repute for chastity that
 women would actually come to that city from neighboring lands to see and
 admire. This fair lady, having lost her husband, was not content with
@@ -582,7 +582,7 @@ widow therefore, worn as she was with several days' fasting, suffered
 her resolution to be broken, and took her fill of nourishment with no
 less avidity than her maid had done, who had been the first to give way.
 
-\[CXII <span id="CXII"></span>[(Latin)](../satyrlat/satl112) \] "Now you
+\[CXII <span id="CXII"></span>[(Latin)](../satyrlat/satl112.md) \] "Now you
 all know what temptations assail poor human nature after a hearty meal.
 The soldier resorted to the same cajolements which had already been
 successful in inducing the lady to eat, in order to overcome her virtue.
@@ -626,4 +626,4 @@ own way to the cross."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fourteen](sat15)
+[Next: Chapter Fourteen](sat15.md)

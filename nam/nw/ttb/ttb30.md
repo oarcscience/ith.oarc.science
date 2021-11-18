@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb29)  [Next](ttb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb29)  [Next](ttb31.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_43">p. 43</span>
 
-<span id="img_04300"></span> ![Quil-Tum-Tum](img/04300.jpg)
+<span id="img_04300"></span> ![Quil-Tum-Tum](img/04300.jpg.md)
 
 ### Quil-Tum-Tum
 
@@ -24,7 +24,7 @@ towering mountains. This all intrigued him, yet he was lonely. He wished
 for a companion to share these gifts and to comfort him so he said to
 himself: "I will create an image of my own likeness and add to it a form
 more beautiful than my own; something that will be the envy of all the
-realm of Nature. He then went about it, [whittling](errata.htm#19) a
+realm of Nature. He then went about it, [whittling](errata.htm#19.md) a
 stick of timber a little less than his own height. Throughout the rainy
 weather, night and day he toiled, cutting and scraping with crude knives
 of stone and shell. He hunted magic herbs in the forest to make flesh
@@ -64,4 +64,4 @@ a Totem.
 
 ------------------------------------------------------------------------
 
-[Next: Kwaie’tek, The Sea Gull](ttb31)
+[Next: Kwaie’tek, The Sea Gull](ttb31.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap71) 
-[Next](bap73) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap71.md) 
+[Next](bap73.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ unto his house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LIX](bap73)
+[Next: Chapter LIX](bap73.md)

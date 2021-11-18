@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap51) 
-[Next](bap53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap51.md) 
+[Next](bap53.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ worshipped them. 4. And God said: One way is *verily* 
 
 <span id="page_185">p. 185</span>
 
-appointed, <span id="fr_129"></span>[1](#fn_129) that I should not
+appointed, <span id="fr_129"></span>[1](#fn_129.md) that I should not
 rebuke Gedeon in his lifetime, even because when he destroyed the
 sanctuary of Baal, then all men said: Let Baal avenge himself. Now,
 therefore, if I chastise him for that he hath done evil against me, ye
@@ -66,11 +66,11 @@ Gedeon died in a good old age and was buried in his own city.
 
 ### Footnotes
 
-<span id="fn_129"></span>[185:1](bap52.htm#fr_129) XXXVI. 4. *One way is
+<span id="fn_129"></span>[185:1](bap52.htm#fr_129.md) XXXVI. 4. *One way is
 verily appointed*: *Una uia posita est, ut*. I understand this to mean:
 "This at least is clear," but others may be able to suggest a better
 interpretation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVII](bap53)
+[Next: Chapter XXXVII](bap53.md)

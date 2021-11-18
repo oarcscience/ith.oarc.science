@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar146) [Next](gbar148)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar146) [Next](gbar148.md)
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ do all that they desire; for I fear not them, but fear God.
 
 ------------------------------------------------------------------------
 
-[Next](gbar148)
+[Next](gbar148.md)

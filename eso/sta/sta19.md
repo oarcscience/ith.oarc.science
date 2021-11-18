@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta18)  [Next](sta20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta18)  [Next](sta20.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ subsequently proved that hammers striking metal in the manner
 <span id="img_08100"></span>
 
 [![THE INTERVALS AND HARMONIES OF THE SPHERES.](tn/08100.jpg)  
-Click to enlarge](img/08100.jpg)  
+Click to enlarge](img/08100.jpg.md)  
 THE INTERVALS AND HARMONIES OF THE SPHERES.  
 
 From Stanley's *The History of Philosophy*.
@@ -127,7 +127,7 @@ these intervals equals the six whole tones of the octave.
 <span id="img_08101"></span>
 
 [![THE CONSONANCES OF THE MUNDANE MONOCHORD.](tn/08101.jpg)  
-Click to enlarge](img/08101.jpg)  
+Click to enlarge](img/08101.jpg.md)  
 THE CONSONANCES OF THE MUNDANE MONOCHORD.  
 
 From Fludd's *De Musica Mundana*.
@@ -290,7 +290,7 @@ of Venice* the author of the Shakesperian plays
 
 [![THE MUNDANE MONOCHORD WITH ITS PROPORTIONS AND
 INTERVALS.](tn/08200.jpg)  
-Click to enlarge](img/08200.jpg)  
+Click to enlarge](img/08200.jpg.md)  
 THE MUNDANE MONOCHORD WITH ITS PROPORTIONS AND INTERVALS.  
 
 From Fludd's *De Musica Mundana*.
@@ -447,7 +447,7 @@ the optic nerve. Few realize how they are walled in by the limitations
 <span id="img_08300"></span>
 
 [![THE THEORY OF ELEMENTAL MUSIC.](tn/08300.jpg)  
-Click to enlarge](img/08300.jpg)  
+Click to enlarge](img/08300.jpg.md)  
 THE THEORY OF ELEMENTAL MUSIC.  
 
 From Fludd's *De Musica Mundana*.
@@ -613,7 +613,7 @@ preserve their proper tone and color analogies. Thus *do* becomes Mars;
 <span id="img_08400"></span>
 
 [![THE FOUR ELEMENTS AND THEIR CONSONANTAL INTERVALS.](tn/08400.jpg)  
-Click to enlarge](img/08400.jpg)  
+Click to enlarge](img/08400.jpg.md)  
 THE FOUR ELEMENTS AND THEIR CONSONANTAL INTERVALS.  
 
 From Fludd's *De Musica Mundana*.
@@ -638,4 +638,4 @@ the elements.
 
 ------------------------------------------------------------------------
 
-[Next: Fishes, Insects, Animals, Reptiles and Birds (Part One)](sta20)
+[Next: Fishes, Insects, Animals, Reptiles and Birds (Part One)](sta20.md)

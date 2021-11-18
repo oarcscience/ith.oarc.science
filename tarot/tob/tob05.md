@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob04) 
-[Next](tob06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob04.md) 
+[Next](tob06.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ is so incomprehensible to our mathematicians.
 It is however evident that if the ancients had not known how to work any
 other problems than those we now use, nothing could have led them to the
 ideas we find current in the Hindu, Egyptian, and Greek
-Universities. <span id="fr_21"></span>[1](#fn_21)
+Universities. <span id="fr_21"></span>[1](#fn_21.md)
 
 What then are these operations, that our savants do not know?
 
@@ -86,7 +86,7 @@ The figure 7 equals--
 
 Theosophic reduction and addition are the two operations which it is
 indispensable to know, if we would understand the secrets of
-antiquity. <span id="fr_22"></span>[1](#fn_22)
+antiquity. <span id="fr_22"></span>[1](#fn_22.md)
 
 Let us now apply these rules to all the numbers, that we may discover
 the law which directs their progression.
@@ -216,7 +216,7 @@ But these three principles all reduce themselves into
 <span id="page_31">p. 31</span>
 
 the fourth, which merely represents a new acceptation of the Unity as an
-active principle. <span id="fr_23"></span>[1](#fn_23)
+active principle. <span id="fr_23"></span>[1](#fn_23.md)
 
 The law of these principles is therefore as follows--
 
@@ -291,17 +291,17 @@ upon the unity.</p></td>
 
 ### Footnotes
 
-<span id="fn_21"></span>[26:1](tob05.htm#fr_21) See Fabre d'Olivet, *La
+<span id="fn_21"></span>[26:1](tob05.htm#fr_21.md) See Fabre d'Olivet, *La
 Langue Hébraïque Restituée* et Saint-Yves d'Alveydre, *Mission des
 Juifs*.
 
-<span id="fn_22"></span>[28:1](tob05.htm#fr_22) See for more details
+<span id="fn_22"></span>[28:1](tob05.htm#fr_22.md) See for more details
 *Traité Elémentaire de Science Occulte*, by Papus, chap. ii.
 
-<span id="fn_23"></span>[31:1](tob05.htm#fr_23) See for further
+<span id="fn_23"></span>[31:1](tob05.htm#fr_23.md) See for further
 enlightenment the *Traité Elémentaire de Science Occulte*, p. 49 and
 following.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Analogy Between the Sacred Word and Numbers](tob06)
+[Next: Chapter IV: Analogy Between the Sacred Word and Numbers](tob06.md)

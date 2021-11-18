@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw69)  [Next](omw71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw69)  [Next](omw71.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,4 +97,4 @@ the flood of the River of Heaven.
 ------------------------------------------------------------------------
 
 [Next: The Sun Goddess and the Storm God and the Strife there was
-Between Them](omw71)
+Between Them](omw71.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet12)  [Next](tet14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet12)  [Next](tet14.md) 
 
 ------------------------------------------------------------------------
 
@@ -334,4 +334,4 @@ country where 'the green fades into grey.'
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Trapping of Game](tet14)
+[Next: Chapter XII. The Trapping of Game](tet14.md)

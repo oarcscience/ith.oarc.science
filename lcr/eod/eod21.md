@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod20)  [Next](eod22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod20)  [Next](eod22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -24,7 +24,7 @@ Textual Heritage
 
 ### CHAPTER II.
 
-### DRAGONS AND RAIN GODS. <span id="fr_129"></span>[1](#fn_129)
+### DRAGONS AND RAIN GODS. <span id="fr_129"></span>[1](#fn_129.md)
 
 <span class="smallcaps">An</span> adequate account of the development of
 the dragon-legend would represent the history of the expression of
@@ -48,7 +48,7 @@ all stories that make a strong appeal to its emotions, and then
 secondarily elaborated with a wealth of circumstantial detail. This is
 the history of popular legends and the development of rumours. But these
 phenomena are displayed in their most emphatic form in dreams. <span
-id="fr_130"></span>[2](#fn_130) In his waking state man restrains his
+id="fr_130"></span>[2](#fn_130.md) In his waking state man restrains his
 roving fancies and exercises what Freud has called a "censorship" over
 the stream of his thoughts: but when he falls asleep, the "censor" dozes
 also; and free rein is given to his unrestrained
@@ -80,7 +80,7 @@ In instituting these comparisons between the development of myths and
 dreams, I should like to emphasize the fact that the interpretation of
 the *myth* proposed in these pages is almost diametrically opposed to
 that suggested by Freud, and pushed to a *reductio ad absurdum* by his
-more reckless followers, and especially by [Jung](errata.htm#3).
+more reckless followers, and especially by [Jung](errata.htm#3.md).
 
 The dragon has been described as "the most venerable symbol employed in
 ornamental art and the favourite and most highly decorative motif in
@@ -152,7 +152,7 @@ mythology—I refer to the story of "The Destruction of Mankind".
 The attributes of these three members of the Trinity, Hathor, Osiris,
 and Horus, thus became intimately linked the one with the other; and in
 Susa, where the earliest pictorial representation of a real dragon
-developed, it received concrete form ([Fig. 1](#img_07900)) as a monster
+developed, it received concrete form ([Fig. 1](#img_07900).md) as a monster
 compounded of the lioness of Hathor (Sekhet) with the falcon (or eagle)
 of Horus, but with the human attributes and water-controlling powers
 which originally belonged to Osiris. In some parts of Africa
@@ -160,14 +160,14 @@ which originally belonged to Osiris. In some parts of Africa
 <span id="img_07900"></span> ![FIG. I.EARLY REPRESENTATION OF A
 DRAGON COMPOUNDED OF THE FOREPART OF AN EAGLE AND THE HINDPART OF A
 LION(from an Archaic Cylinder-seal from Susa, after
-Jequier).](img/07900.jpg)  
+Jequier).](img/07900.jpg.md)  
 FIG. I.—EARLY REPRESENTATION OF A “DRAGON” COMPOUNDED OF THE FOREPART OF
 AN EAGLE AND THE HINDPART OF A LION—(from an Archaic Cylinder-seal from
 Susa, after Jequier).
 
 <span id="img_07901"></span> ![FIG. 2.THE EARLIEST BABYLONIAN
 CONCEPTION OF THE DRAGON TIAMAT (from a Cylinder-seal in the British
-Museum, after L. W. King).](img/07901.jpg)  
+Museum, after L. W. King).](img/07901.jpg.md)  
 FIG. 2.—THE EARLIEST BABYLONIAN CONCEPTION OF THE DRAGON TIAMAT (from a
 Cylinder-seal in the British Museum, after L. W. King).
 
@@ -179,7 +179,7 @@ slayer of the evil dragon?
 
 The story of the dragon-conflict is really a recital of Horus's vendetta
 against Set, intimately blended and confused with different versions of
-"The Destruction of Mankind". <span id="fr_131"></span>[1](#fn_131) The
+"The Destruction of Mankind". <span id="fr_131"></span>[1](#fn_131.md) The
 commonplace incidents of the originally prosaic stories were distorted
 into an almost unrecognizable form, then secondarily elaborated without
 any attention to their original meaning, but with a wealth of
@@ -197,10 +197,10 @@ life and the rumours and traditions that have been handed down from the
 story-teller's predecessors.
 
 In the "Destruction of Mankind," which I shall discuss more fully in the
-following pages ([p. 109](eod23.htm#page_109) *et seq*.), Hathor does
+following pages ([p. 109](eod23.htm#page_109) *et seq*..md), Hathor does
 the slaying: in the later stories Horus takes his mother's place and
 earns his spurs as the Warrior Sun-god: <span
-id="fr_132"></span>[1](#fn_132) hence confusion was inevitably
+id="fr_132"></span>[1](#fn_132.md) hence confusion was inevitably
 introduced between the enemies of Re, the original victims in the
 legend, and Horus's traditional enemies, the followers of Set. Against
 the latter it was Osiris himself who fought originally; and in many of
@@ -236,26 +236,26 @@ as the hero, armed with the Trinity as weapon, slays the
 <span id="img_fig07"></span> <span align="CENTER"> [![FIG. 7.A MEDIÆVAL
 PICTURE OF A CHINESE DRAGON UPON ITS CLOUD (After the late Professor W.
 Anderson)](tn/fig07.jpg)  
-Click to enlarge](img/fig07.jpg)  
+Click to enlarge](img/fig07.jpg.md)  
 FIG. 7.—A MEDIÆVAL PICTURE OF A CHINESE DRAGON UPON ITS CLOUD (After the
 late Professor W. Anderson)  
 </span>
 
 <span id="img_fig08"></span> <span align="CENTER"> [![FIG. 8.A CHINESE
 DRAGON (After de Groot)](tn/fig08.jpg)  
-Click to enlarge](img/fig08.jpg)  
+Click to enlarge](img/fig08.jpg.md)  
 FIG. 8.—A CHINESE DRAGON (After de Groot)  
 </span>
 
 <span id="img_fig09"></span> <span align="CENTER"> [![FIG. 9.DRAGON
 FROM THE ISHTAR GATE OF BABYLON](tn/fig09.jpg)  
-Click to enlarge](img/fig09.jpg)  
+Click to enlarge](img/fig09.jpg.md)  
 FIG. 9.—DRAGON FROM THE ISHTAR GATE OF BABYLON  
 </span>
 
 <span id="img_fig10"></span> <span align="CENTER"> [![FIG.
 10.BABYLONIAN WEATHER GOD](tn/fig10.jpg)  
-Click to enlarge](img/fig10.jpg)  
+Click to enlarge](img/fig10.jpg.md)  
 FIG. 10.—BABYLONIAN WEATHER GOD  
 </span>
 
@@ -279,7 +279,7 @@ Dynasty, enumerates the "nine resemblances" of the dragon. "His horns
 resemble those of a stag, his head that of a camel, his eyes those of a
 demon, his neck that of a snake, his belly that of a clam, his scales
 those of a carp, his claws those of an eagle, his soles those of a
-tiger, his ears those of a cow." <span id="fr_133"></span>[1](#fn_133)
+tiger, his ears those of a cow." <span id="fr_133"></span>[1](#fn_133.md)
 But this list includes only a small minority of the menagerie of diverse
 creatures which at one time or another have contributed their quota to
 this truly astounding hotchpotch.
@@ -320,13 +320,13 @@ Such fantastic claims can be made only by writers devoid of any
 knowledge of palæontology or of the distinctive features of the dragon
 and its history. But when the Keeper of the Egyptian and Assyrian
 Antiquities in the British Museum, in a book that is not intended to be
-humorous, <span id="fr_134"></span>[1](#fn_134) seriously claims Dr.
+humorous, <span id="fr_134"></span>[1](#fn_134.md) seriously claims Dr.
 Andrews' discovery of a gigantic fossil snake as "proof" of the former
 existence of "the great serpent-devil Āpep," it is time to protest.
 
 Those who attempt to derive the dragon from such living creatures as
 lizards like *Draco volans* or *Moloch horridus* <span
-id="fr_135"></span>[2](#fn_135) ignore the evidence of the composite and
+id="fr_135"></span>[2](#fn_135.md) ignore the evidence of the composite and
 unnatural features of the monsters.
 
 "Whatever be the origin of the Northern dragon, the myths, when they
@@ -334,7 +334,7 @@ first became articulate for us, show him to be in all essentials the
 same as that of the South and East. He is a power of evil, guardian of
 hoards, the greedy withholder of good things from men; and the slaying
 of a dragon is the crowning achievement of heroes—of Siegmund, of
-Beowulf, of Sigurd, of Arthur, of [Tristram](errata.htm#4)—even of
+Beowulf, of Sigurd, of Arthur, of [Tristram](errata.htm#4.md)—even of
 Lancelot, the *beau ideal* of mediæval chivalry" (*Encyclopædia
 Britannica*, vol. viii., p. 467). But if in the West the dragon is
 usually a "power of evil," in the far East he is equally emphatically a
@@ -366,33 +366,33 @@ punishment that tradition metes out to his European cousins.
 
 ### Footnotes
 
-<span id="fn_129"></span>[76:1](eod21.htm#fr_129) An elaboration of a
+<span id="fn_129"></span>[76:1](eod21.htm#fr_129.md) An elaboration of a
 Lecture delivered in the John Rylands Library on 8 November, 1916.
 
-<span id="fn_130"></span>[76:2](eod21.htm#fr_130) In his lecture,
+<span id="fn_130"></span>[76:2](eod21.htm#fr_130.md) In his lecture,
 "Dreams and Primitive Culture," delivered at the John Rylands Library on
 10 April, 1918, Dr. Rivers has expounded the principles of
 dream-development.
 
-<span id="fn_131"></span>[79:1](eod21.htm#fr_131) *Vide infra*, [p.
-109](eod23.htm#page_109) *et seq*.
+<span id="fn_131"></span>[79:1](eod21.htm#fr_131.md) *Vide infra*, [p.
+109](eod23.htm#page_109.md) *et seq*.
 
-<span id="fn_132"></span>[80:1](eod21.htm#fr_132) Hence soldiers killed
+<span id="fn_132"></span>[80:1](eod21.htm#fr_132.md) Hence soldiers killed
 in battle and women dying in childbirth receive special consideration in
 the exclusive heaven of (Osiris s) Horus's Indian and American
 representatives, Indra and Tlaloc.
 
-<span id="fn_133"></span>[81:1](eod21.htm#fr_133) M. W. de Visser, "The
+<span id="fn_133"></span>[81:1](eod21.htm#fr_133.md) M. W. de Visser, "The
 Dragon in China and Japan," *Verhandelingen der Koninklijke Akademie van
 Wetenschappen te Amsterdam*, Afdeeling Letterkunde, Deel XIII, No. 2,
 1913, p. 70.
 
-<span id="fn_134"></span>[82:1](eod21.htm#fr_134) E. A. Wallis Budge,
+<span id="fn_134"></span>[82:1](eod21.htm#fr_134.md) E. A. Wallis Budge,
 "The Gods of the Egyptians," 1904, vol. i., p. 11.
 
-<span id="fn_135"></span>[82:2](eod21.htm#fr_135) Gould's "Mythical
+<span id="fn_135"></span>[82:2](eod21.htm#fr_135.md) Gould's "Mythical
 Monsters," 1886.
 
 ------------------------------------------------------------------------
 
-[Next: The Dragon in America and Eastern Asia](eod22)
+[Next: The Dragon in America and Eastern Asia](eod22.md)

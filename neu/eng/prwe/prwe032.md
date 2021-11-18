@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe031)  [Next](prwe033) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe031)  [Next](prwe033.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ had made, and died a beggar.
 
 ------------------------------------------------------------------------
 
-[Next: The Spriggan's Child](prwe033)
+[Next: The Spriggan's Child](prwe033.md)

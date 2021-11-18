@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](rps25)  [Next](rps27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](rps25)  [Next](rps27.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ GOVERNMENT.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 25. The Owner of Most Holy Theocracy, K.A.Q.O.](rps27)
+[Next: Chapter 25. The Owner of Most Holy Theocracy, K.A.Q.O.](rps27.md)

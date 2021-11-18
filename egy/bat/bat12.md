@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](bat11)  [Next](bat13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](bat11)  [Next](bat13.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ by the serpent MEHEN.
  
 
 <span id="img_18800"></span> [![](tn/generic.jpg)  
-Click to view](img/18800.jpg)  
+Click to view](img/18800.jpg.md)  
 The Boat of Afu, the dead Sun-god, in the Ninth Hour.
 
  
@@ -68,15 +68,15 @@ paddle in his hands; their names are:--
  
 
 <span id="img_18900"></span> [![](tn/generic.jpg)  
-Click to view](img/18900.jpg)  
+Click to view](img/18900.jpg.md)  
 Khennu.     Akhem-sek-f.     Akhem-urt-f.     Akhem-hemi-f.
 
 <span id="img_18901"></span> [![](tn/generic.jpg)  
-Click to view](img/18901.jpg)  
+Click to view](img/18901.jpg.md)  
 Akhem-hep-f.     Akhem-khemes-f.     Khen-unnut-f.     Hepti-ta-f.
 
 <span id="img_18902"></span> [![](tn/generic.jpg)  
-Click to view](img/18902.jpg)  
+Click to view](img/18902.jpg.md)  
 Hetep-uaa.     Neter-neteru.     Tcha-Tuat.     Tepi.
 
  
@@ -132,7 +132,7 @@ HETEPET-NETERU.
  
 
 <span id="img_19200"></span> [![](tn/generic.jpg)  
-Click to view](img/19200.jpg)  
+Click to view](img/19200.jpg.md)  
 Muti-khenti-Tuat.
 
  
@@ -144,11 +144,11 @@ The text which refers to these reads:
  
 
 <span id="img_19300"></span> [![](tn/generic.jpg)  
-Click to view](img/19300.jpg)  
+Click to view](img/19300.jpg.md)  
 Nesti-khenti-Tuat.
 
 <span id="img_19301"></span> [![](tn/generic.jpg)  
-Click to view](img/19301.jpg)  
+Click to view](img/19301.jpg.md)  
 (*Left*) Nebt-au-khenti-Tuat. (*Right*) Hetepet-neter.
 
  
@@ -189,15 +189,15 @@ swathings; their names are:--
  
 
 <span id="img_19500"></span> [![](tn/generic.jpg)  
-Click to view](img/19500.jpg)  
+Click to view](img/19500.jpg.md)  
 Neha-ta.     Teba.     Maati.     Menkhet.
 
 <span id="img_19501"></span> [![](tn/generic.jpg)  
-Click to view](img/19501.jpg)  
+Click to view](img/19501.jpg.md)  
 Nebs.     Nebti.     Asti-neter.     Asti-paut.
 
 <span id="img_19502"></span> [![](tn/generic.jpg)  
-Click to view](img/19502.jpg)  
+Click to view](img/19502.jpg.md)  
 Hetemet-khu.     Neb-Pat.     Temtu.     Men-a.
 
  
@@ -269,15 +269,15 @@ are\], and they utter words on \[his behalf\] in the chamber each day."
  
 
 <span id="img_19900"></span> [![](tn/generic.jpg)  
-Click to view](img/19900.jpg)  
+Click to view](img/19900.jpg.md)  
 Perit.     Shemat-khu.     Nebt-shat.     Nebt-shefsheft.
 
 <span id="img_19901"></span> [![](tn/generic.jpg)  
-Click to view](img/19901.jpg)  
+Click to view](img/19901.jpg.md)  
 Aat-aatet.     Nebt-setau.     Hent-nut-s.     Nebt-mat.
 
 <span id="img_19902"></span> [![](tn/generic.jpg)  
-Click to view](img/19902.jpg)  
+Click to view](img/19902.jpg.md)  
 Tesert-ant.     Aat-khu.     Sekhet-metu.     Netert-en-khentet-Ra.
 
  
@@ -321,15 +321,15 @@ Maspero's restoration, reads:
  
 
 <span id="img_20100"></span> [![](tn/generic.jpg)  
-Click to view](img/20100.jpg)  
+Click to view](img/20100.jpg.md)  
 . . . . .     Tekait.      . . . . .     Khut-Tuat.
 
 <span id="img_20101"></span> [![](tn/generic.jpg)  
-Click to view](img/20101.jpg)  
+Click to view](img/20101.jpg.md)  
 Tertneshen.      Ap-shet.      Ankhet.      Shen-ten-amm.
 
 <span id="img_20102"></span> [![](tn/generic.jpg)  
-Click to view](img/20102.jpg)  
+Click to view](img/20102.jpg.md)  
 . . . . .     Aat-Aru.      Nebt-uauau.      Nebt-Rekeh.
 
  
@@ -379,7 +379,7 @@ names of the nine gods are:--
  
 
 <span id="img_20400"></span> [![](tn/generic.jpg)  
-Click to view](img/20400.jpg)  
+Click to view](img/20400.jpg.md)  
 Sekhti.     Am-sekhet-f.     Nehebeti.     Tchamuti.     Neb-aatti.
 
  
@@ -389,7 +389,7 @@ Sekhti.     Am-sekhet-f.     Nehebeti.     Tchamuti.     Neb
  
 
 <span id="img_02500"></span> [![](tn/generic.jpg)  
-Click to view](img/02500.jpg)  
+Click to view](img/02500.jpg.md)  
 Heq-neteru-f.     Pan-ari.     Teser-ari.     Aha-sekhet.     Heru-her-she-tuati.
 
  
@@ -405,4 +405,4 @@ Heq-neteru-f.     Pan-ari.     Teser-ari.     Aha-sekhet.    
 ------------------------------------------------------------------------
 
 [Next: Chapter X. The Tenth Division of the Tuat, Which Is Called
-Metet-Qa-Utchebu](bat13)
+Metet-Qa-Utchebu](bat13.md)

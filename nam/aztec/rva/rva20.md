@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva19)  [Next](rvagloss) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva19)  [Next](rvagloss.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### XX. Yacatecutli icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Anomatia aytoloc, anomatia aytoloc, tzocotzontla aytoloc,
 tzocotzontla anomatia aytoloc.
@@ -74,4 +74,4 @@ Terrestrial Paradise.
 
 ------------------------------------------------------------------------
 
-[Next: Glossary](rvagloss) 
+[Next: Glossary](rvagloss.md) 

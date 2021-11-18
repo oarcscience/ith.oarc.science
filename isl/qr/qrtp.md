@@ -1,8 +1,8 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Next](qrintro) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Next](qrintro.md) 
 
 </div>
 
@@ -30,6 +30,6 @@ Intangible Textual Heritage, August 2006.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](qrintro)
+[Next: Introduction](qrintro.md)
 
 </div>

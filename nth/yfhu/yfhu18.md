@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](yfhu17)  [Next](yfhu19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](yfhu17)  [Next](yfhu19.md) 
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_nth.jpg)](index)  
+[![](../../img/tn_nth.jpg)](index.md)  
 *Your Forces and How to Use Them*, by Christian D. Larson, \[1912\], at
 Intangible Textual Heritage
 
@@ -551,4 +551,4 @@ ill to say, say something else*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. The Building Power of Constructive Speech](yfhu19)
+[Next: Chapter XVII. The Building Power of Constructive Speech](yfhu19.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](sft04)  [Next](sft06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](sft04)  [Next](sft06.md) 
 
 ------------------------------------------------------------------------
 
@@ -2044,4 +2044,4 @@ tale with much satisfaction.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Telling of Fairy Tales](sft06)
+[Next: Chapter III. The Telling of Fairy Tales](sft06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft18)  [Next](meft20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft18)  [Next](meft20.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ more was seen at Dalton Mill.
 
 ------------------------------------------------------------------------
 
-[Next: Scrapefoot](meft20)
+[Next: Scrapefoot](meft20.md)

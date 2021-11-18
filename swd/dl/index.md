@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,9 +13,9 @@
 
 #### \[1914\]
 
-[Start Reading](dl00)
+[Start Reading](dl00.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](dl00)  
-[1-50](dl01)  
+[Title Page](dl00.md)  
+[1-50](dl01.md)  

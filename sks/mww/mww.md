@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/mww)  [Previous](../mov/mov) 
-[Next](../oth/oth) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/mww)  [Previous](../mov/mov.md) 
+[Next](../oth/oth.md) 
 
 ------------------------------------------------------------------------
 
@@ -4459,4 +4459,4 @@ Index](../index)  [First Folio](../ff/mww)  [Previous](../mov/mov) 
 
 ------------------------------------------------------------------------
 
-[Next: Othello](../oth/oth) 
+[Next: Othello](../oth/oth.md) 

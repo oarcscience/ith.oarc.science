@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt05)  [Next](trt07) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt05)  [Next](trt07.md) 
 
 ------------------------------------------------------------------------
 
@@ -201,4 +201,4 @@ stone, as is told in another place.
 
 ------------------------------------------------------------------------
 
-[Next: How the Round Table Began](trt07)
+[Next: How the Round Table Began](trt07.md)

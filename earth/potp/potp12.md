@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp11)  [Next](potp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp11)  [Next](potp13.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ melted the iron in it.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Finding of Rock in and on Ice](potp13)
+[Next: Chapter IX. Finding of Rock in and on Ice](potp13.md)

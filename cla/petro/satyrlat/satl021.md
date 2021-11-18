@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat05.htm#XXI)  [Previous](satl020) 
-[Next](satl022) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat05.htm#XXI)  [Previous](satl020.md) 
+[Next](satl022.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ cum sciatis Priapi genio pervigilium deberi?" &lt;. . .&gt;
 
 ------------------------------------------------------------------------
 
-[Next: XXII](satl022)
+[Next: XXII](satl022.md)

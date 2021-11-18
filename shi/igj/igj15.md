@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj14)  [Next](igj16) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj14)  [Next](igj16.md) 
 
 ------------------------------------------------------------------------
 
@@ -156,4 +156,4 @@ that now I cannot fly." And with these words the Tengu vanished forever.
 
 ------------------------------------------------------------------------
 
-[Next: At Yaidzu](igj16)
+[Next: At Yaidzu](igj16.md)

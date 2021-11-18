@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp36)  [Next](hmvp38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp36)  [Next](hmvp38.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 <span class="smallcaps">The</span> three main divisions of time employed
 in the Hindu Scriptures are <span class="smallcaps">Yugas</span>, <span
 class="smallcaps">Manvantaras</span>, and <span
-class="smallcaps">Kalpas</span>. <span id="fr_312"></span>[\*](#fn_312)
+class="smallcaps">Kalpas</span>. <span id="fr_312"></span>[\*](#fn_312.md)
 These will now be described.
 
 There are four Yugas, which together extend to 12,000 *divine* years.
@@ -89,10 +89,10 @@ dissolution which occurs at the end of each Kalpa,
 <span id="page_355">p. 355</span>
 
 or day of Brahmā, is called *naimittika*, incidental, occasional, or
-contingent." <span id="fr_313"></span>[\*](#fn_313)
+contingent." <span id="fr_313"></span>[\*](#fn_313.md)
 
 The dissolution of existing beings is of three kinds: "incidental,
-elemental, and absolute." <span id="fr_314"></span>[†](#fn_314) The
+elemental, and absolute." <span id="fr_314"></span>[†](#fn_314.md) The
 first is *naimittika*, occasional, incidental, or Brāhmya, as occasioned
 by the intervals of Brahmā's days; the destruction of creatures, though
 not of the substance of the world, occurring during the night. The
@@ -138,9 +138,9 @@ their functions, and being annoyed by the heat, remove to the sphere
 above, or Maharloka. When that becomes heated, its tenants, who after
 the full period of their stay, are desirous of ascending to higher
 regions, depart for the Janaloka." <span
-id="fr_315"></span>[\*](#fn_315)
+id="fr_315"></span>[\*](#fn_315.md)
 
-The "Vāyu Purāna" <span id="fr_316"></span>[†](#fn_316) gives more
+The "Vāyu Purāna" <span id="fr_316"></span>[†](#fn_316.md) gives more
 explicit teaching on this subject.
 
 "Those sainted mortals who have diligently worshipped Vishnu and are
@@ -159,7 +159,7 @@ attained a residence in the Brahmaloka,
 by having identified themselves in spirit with the Supreme, are finally
 resolved into the sole existing Brahma."
 
-The "Vishnu Purāna" <span id="fr_317"></span>[\*](#fn_317) continues as
+The "Vishnu Purāna" <span id="fr_317"></span>[\*](#fn_317.md) continues as
 follows: "Janārddana, in the person of Rudra, having consumed the whole
 world, breathes forth heavy clouds. Mighty in size, and loud in thunder,
 they fill all space. Showering down torrents of water, these clouds
@@ -173,7 +173,7 @@ hundred years."
 
 The four Yugas mentioned above—viz. the Krita, Tretā, Dvāpara, and
 Kāli—have characteristic qualities. The Krita is the golden, and Kāli
-the iron age. The Mahābhārata <span id="fr_318"></span>[†](#fn_318)
+the iron age. The Mahābhārata <span id="fr_318"></span>[†](#fn_318.md)
 gives these characteristics very distinctly. Hanumān, the monkey-god, is
 the speaker, describing the four ages to Bhīmasena, one of the Pandus.
 
@@ -240,13 +240,13 @@ long-lived act in conformity with the character of the age." In the
 thousand years are specified as the duration of life in the Krita Yuga,
 three thousand in the Tretā, and two thousand form the period at present
 established on earth in the Dvāpara. There is no fixed measure in the
-Tishya (Kali)." <span id="fr_319"></span>[\*](#fn_319)
+Tishya (Kali)." <span id="fr_319"></span>[\*](#fn_319.md)
 
 It should be noticed that the immense duration of the ages as quoted
 above from the "Vishnu Purāna" is peculiar to the Purānas. In the text
 of the Mahābhārata "no mention is made of the years comprising the
 different Yugas being *divine years*," <span
-id="fr_320"></span>[†](#fn_320) though the earlier books certainly
+id="fr_320"></span>[†](#fn_320.md) though the earlier books certainly
 favour far more extravagant notions of chronology than those which
 Western nations accept.
 
@@ -268,30 +268,30 @@ which the prevailing characteristic was righteousness.
 
 ### Footnotes
 
-<span id="fn_312"></span>[353:\*](hmvp37.htm#fr_312) See "Vishnu
+<span id="fn_312"></span>[353:\*](hmvp37.htm#fr_312.md) See "Vishnu
 Purāna," book i. chap. iii., and book vi. chap. i.
 
-<span id="fn_313"></span>[355:\*](hmvp37.htm#fr_313) Muir, O. S. T., i.
+<span id="fn_313"></span>[355:\*](hmvp37.htm#fr_313.md) Muir, O. S. T., i.
 45.
 
-<span id="fn_314"></span>[355:†](hmvp37.htm#fr_314) "Vishnu Purāna," p.
+<span id="fn_314"></span>[355:†](hmvp37.htm#fr_314.md) "Vishnu Purāna," p.
 630, note.
 
-<span id="fn_315"></span>[356:\*](hmvp37.htm#fr_315) "Vishnu Purāna," p.
+<span id="fn_315"></span>[356:\*](hmvp37.htm#fr_315.md) "Vishnu Purāna," p.
 631.
 
-<span id="fn_316"></span>[356:†](hmvp37.htm#fr_316) Ibid., p. 632, note.
+<span id="fn_316"></span>[356:†](hmvp37.htm#fr_316.md) Ibid., p. 632, note.
 
-<span id="fn_317"></span>[357:\*](hmvp37.htm#fr_317) Page 633.
+<span id="fn_317"></span>[357:\*](hmvp37.htm#fr_317.md) Page 633.
 
-<span id="fn_318"></span>[357:†](hmvp37.htm#fr_318) Muir, O. S. T., i.
+<span id="fn_318"></span>[357:†](hmvp37.htm#fr_318.md) Muir, O. S. T., i.
 144.
 
-<span id="fn_319"></span>[359:\*](hmvp37.htm#fr_319) Muir, O. S. T., i.
+<span id="fn_319"></span>[359:\*](hmvp37.htm#fr_319.md) Muir, O. S. T., i.
 148.
 
-<span id="fn_320"></span>[359:†](hmvp37.htm#fr_320) Ibid., i. 148.
+<span id="fn_320"></span>[359:†](hmvp37.htm#fr_320.md) Ibid., i. 148.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Divine Rishis](hmvp38)
+[Next: Chapter I. The Divine Rishis](hmvp38.md)

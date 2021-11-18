@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,60 +30,60 @@ illustrations.
 
 ------------------------------------------------------------------------
 
-[Title Page](lks00)  
-[Preface](lks01)  
-[Preliminary Invocation](lks02)  
+[Title Page](lks00.md)  
+[Preface](lks01.md)  
+[Preliminary Invocation](lks02.md)  
 <span id="section_000"></span>
 
 ### Goetia
 
-[The Initiated Interpretation Of Ceremonial Magic](lks03)  
-[Preliminary Definition Of Magic](lks04)  
-[Shemhamphorash](lks05)  
-[Observations](lks06)  
-[Classified List of the 72 Chief Spirits](lks07)  
-[The Magical Circle](lks08)  
-[The Magical Triangle Of Solomon](lks09)  
-[The Hexagram Of Solomon](lks10)  
-[The Pentagram Of Solomon](lks11)  
-[The Magic Ring Or Disc Of Solomon](lks12)  
-[The Vessel Of Brass](lks13)  
-[The Secret Seal Of Solomon](lks14)  
-[The Other Magical Requisites](lks15)  
-[The Adoration At The Bath](lks16)  
-[The Conjuration To Call Forth Any Of The Aforesaid Spirits](lks17)  
-[The Second Conjuration](lks18)  
-[The Constraint](lks19)  
-[The Invocation Of The King](lks20)  
+[The Initiated Interpretation Of Ceremonial Magic](lks03.md)  
+[Preliminary Definition Of Magic](lks04.md)  
+[Shemhamphorash](lks05.md)  
+[Observations](lks06.md)  
+[Classified List of the 72 Chief Spirits](lks07.md)  
+[The Magical Circle](lks08.md)  
+[The Magical Triangle Of Solomon](lks09.md)  
+[The Hexagram Of Solomon](lks10.md)  
+[The Pentagram Of Solomon](lks11.md)  
+[The Magic Ring Or Disc Of Solomon](lks12.md)  
+[The Vessel Of Brass](lks13.md)  
+[The Secret Seal Of Solomon](lks14.md)  
+[The Other Magical Requisites](lks15.md)  
+[The Adoration At The Bath](lks16.md)  
+[The Conjuration To Call Forth Any Of The Aforesaid Spirits](lks17.md)  
+[The Second Conjuration](lks18.md)  
+[The Constraint](lks19.md)  
+[The Invocation Of The King](lks20.md)  
 [The General Curse, Called The Spirits' Chain, Against All Spirits That
-Rebel](lks21)  
-[The Conjuration Of The Fire](lks22)  
-[The Greater Curse](lks23)  
-[The Address Unto The Spirit Upon His Coming](lks24)  
-[The Welcome Unto The Spirit](lks25)  
-[The License To Depart](lks26)  
+Rebel](lks21.md)  
+[The Conjuration Of The Fire](lks22.md)  
+[The Greater Curse](lks23.md)  
+[The Address Unto The Spirit Upon His Coming](lks24.md)  
+[The Welcome Unto The Spirit](lks25.md)  
+[The License To Depart](lks26.md)  
 <span id="section_001"></span>
 
 ### Explanation Of Certain Names Used In This Book Lemegeton
 
-[Explanation Of Certain Names Used In This Book Lemegeton](lks27)  
-[The Explanation Of The Two Triangles In The Parchment](lks28)  
-[An Explanation Of Solomon's Triangle](lks29)  
+[Explanation Of Certain Names Used In This Book Lemegeton](lks27.md)  
+[The Explanation Of The Two Triangles In The Parchment](lks28.md)  
+[An Explanation Of Solomon's Triangle](lks29.md)  
 <span id="section_002"></span>
 
 ### Conjurations
 
-[Preamble](lks30)  
-[Atte Ye Bathes Of Art](lks31)  
-[Atte Ye Induynge Of Ye Holy Vestures](lks32)  
-[Ye Fyrste Conjouratioun](lks33)  
-[Ye Secounde Conjouratioun](lks34)  
-[Ye Constraynte](lks35)  
-[Ye Potent Invocatioun Of Hys Kynge](lks36)  
+[Preamble](lks30.md)  
+[Atte Ye Bathes Of Art](lks31.md)  
+[Atte Ye Induynge Of Ye Holy Vestures](lks32.md)  
+[Ye Fyrste Conjouratioun](lks33.md)  
+[Ye Secounde Conjouratioun](lks34.md)  
+[Ye Constraynte](lks35.md)  
+[Ye Potent Invocatioun Of Hys Kynge](lks36.md)  
 [Ye Generall Curse Yclept Ye Spirits' Chayne, Against All Spirits Yt
-Rebelle](lks37)  
-[Ye Conjouratioun Of Ye Fyre](lks38)  
-[Ye Greter Curse](lks39)  
-[Ye Addresse Unto Ye Spirit On Hys Coming](lks40)  
-[Ye Welcome Unto Ye Spirit Dygnytie](lks41)  
-[Ye License To Ye Spirit Yt He Maye Depart](lks42)  
+Rebelle](lks37.md)  
+[Ye Conjouratioun Of Ye Fyre](lks38.md)  
+[Ye Greter Curse](lks39.md)  
+[Ye Addresse Unto Ye Spirit On Hys Coming](lks40.md)  
+[Ye Welcome Unto Ye Spirit Dygnytie](lks41.md)  
+[Ye License To Ye Spirit Yt He Maye Depart](lks42.md)  

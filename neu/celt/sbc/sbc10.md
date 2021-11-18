@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sbc09)  [Next](sbc11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sbc09)  [Next](sbc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ grave is in Iona. His spirit found no rest and his apparition (taibhse)
 has been fabled for 300 years to have been seen: he rides his mettlesome
 horse as he did when he fell in battle, in consequence of his having
 fought on the fatal day without having broken his fast (*thuit e na
-thrasg*). <span id="fr_392"></span>[1](#fn_391)
+thrasg*). <span id="fr_392"></span>[1](#fn_391.md)
 
 The multitude of restrictions are so numerous that it would serve no
 purpose to further amplify the above; suffice it to refer to the curious
@@ -38,7 +38,7 @@ restrictions
 on the old Irish kings, derived probably from the earlier ages of the
 priest-kings. The sun might not rise at Tara on the King of Ireland in
 his bed, with which compare Ossian's advice to his mother; <span
-id="fr_393"></span>[1](#fn_392) he was not to alight on a Wednesday at
+id="fr_393"></span>[1](#fn_392.md) he was not to alight on a Wednesday at
 Magh Breagh, nor traverse Magh Cuilinn after sunset: on Monday after
 May-day (*Bealltuine*) he must not go in a ship; the Tuesday after
 Samhuin he was not to leave the track of his army upon Ath Maighne. The
@@ -50,7 +50,7 @@ the water of Bo-Neimhidh between two darknesses. The King of Connaught
 might not sit on the grave mound of the wife of Maine in harvest time,
 nor go on a grey steed in a speckled garment to Dal Chais, nor conclude
 a treaty concerning his palace at Cruachan after having made peace at
-All-H allows. <span id="fr_394"></span>[2](#fn_393)
+All-H allows. <span id="fr_394"></span>[2](#fn_393.md)
 
 Even before the Christian mission had familiarised the Gadhelic tribes
 with the Latin *peccatum*, which has become *peacadh*, 'sin,' the
@@ -58,13 +58,13 @@ language testifies to burdens which must be inferred to have pressed
 heavily if we may judge from the native Gadhelic word *fine*, 'sin': *ar
 fine* glossed .i. *ar pectha* in Sanctáin's Hymn, as to which Stokes
 thinks cognation with Latin *vieo*, *vi-tium*, Anglo-Saxon *wídl* seems
-probable. <span id="fr_395"></span>[3](#fn_394) Irish *cean*, *cion*,
+probable. <span id="fr_395"></span>[3](#fn_394.md) Irish *cean*, *cion*,
 means 'transgression,
 
 <span id="page_299">p. 299</span>
 
 fault, sin.' Another word, *immorbus*, is frequent in the sense of
-'trespass, sin, *scandalum*.' <span id="fr_396"></span>[1](#fn_395) The
+'trespass, sin, *scandalum*.' <span id="fr_396"></span>[1](#fn_395.md) The
 magician's spell (*òrtha*, *ubaidh*, *obaidh*, etc.), the wizard's word
 (*facal*), the incantation-charm (*eòlas*) of native medicine-men, the
 sacrifices (*ìiobairtean*) of Druids were alike impotent and vain, but
@@ -83,7 +83,7 @@ than one in Ross-shire who will transmit this secret as carefully as the
 Druid wizards of old, passing it by word of mouth, with necessary
 restrictions, from father to daughter, and so forth through a continual
 alternation from man to woman, from woman to man. *Eòlas Casga
-Fola*, <span id="fr_397"></span>[2](#fn_396) 'the charm for staunching
+Fola*, <span id="fr_397"></span>[2](#fn_396.md) 'the charm for staunching
 blood,' was known in the Isle of Man; Moore gives a charm to staunch the
 horse's blood: "Three Maries went to Rome, the spirits of the church
 
@@ -101,7 +101,7 @@ his right hand, and Christ drew a cross over him. Three young women came
 over the water, one of them said, 'up'; another one said, 'stay'; and
 the third one said, 'I will stop the blood of man or woman.' Me to say
 it, and Christ to do it, in the name of the Father, and the Son, and the
-Holy Ghost." <span id="fr_398"></span>[1](#fn_397)
+Holy Ghost." <span id="fr_398"></span>[1](#fn_397.md)
 
 The resort to similar charms is by no means quite a thing of the past. I
 gave in my *Leabhar nan Gleann* a short charm for toothache which I know
@@ -149,7 +149,7 @@ epilepsy; in East
 was held to bring good luck and to be a cure for toothache.
 
 A proper witness for West Ross is the late Rev. Kenneth Macdonald of
-Applecross, <span id="fr_399"></span>[1](#fn_398) who states: "Another
+Applecross, <span id="fr_399"></span>[1](#fn_398.md) who states: "Another
 cure for epilepsy is a drink from the skull of a suicide. One may be
 found in Torridon on the west of Ross-shire still. Two years ago a man
 from Shieldaig declared that he used the skull himself for that purpose,
@@ -214,7 +214,7 @@ woman whose son is afflicted in this way, said to me: 'Oh! we have done
 everything for him and tried every known cure; we had him prayed for in
 church and we even sent down for so and so's skull (mentioning the
 Englishman) to see if it would do any good.'" <span
-id="fr_400"></span>[1](#fn_399)
+id="fr_400"></span>[1](#fn_399.md)
 
 A correspondence on this subject, styled "A Torridon Myth," took place
 in the *Scotsman* in 1901, I think, and though the minister of the
@@ -267,7 +267,7 @@ diseases, and were 'devoted' to the services of voyagers only who have
 set out on no other errand than to consult them (*Mela*, iii. 6). There
 was a witch in Assynt, near Drumbeg, known as *Mór Bhán*, who had a
 similar gift of raising wind for becalmed sailors, and her memory is
-still fresh among the people. <span id="fr_401"></span>[1](#fn_400) In
+still fresh among the people. <span id="fr_401"></span>[1](#fn_400.md) In
 the isle of Gigha, too, there was a similar 'witch.' The tabu against
 any of the roofing material touching the ground reminds me of the holy
 water got from the Willock family in Strathnāin, which lost its virtue
@@ -314,14 +314,14 @@ people devoured one another there at this
 
 <span id="page_308">p. 308</span>
 
-time " <span id="fr_402"></span>[1](#fn_401) (*go m-bídís na daoine ag
+time " <span id="fr_402"></span>[1](#fn_401.md) (*go m-bídís na daoine ag
 ithe a chéile innte an trath soin*). Not alike is the reference to
 Eithne Uathach, daughter of Congain, wife of Criomhthann, son of Eanne
 Cinnsealach, King of Leinster, fostered and "fed by the Deise on the
 flesh of infants (*is ar fheoil naoidhean do biathadh leis na Déisibh
 i*) that she might grow up the more quickly; for a certain druid had
 foretold that they would get territory from the man whose wife she would
-be." <span id="fr_403"></span>[2](#fn_402) Here there may be a reflex of
+be." <span id="fr_403"></span>[2](#fn_402.md) Here there may be a reflex of
 the need of keeping the divine life in the tribal representative at its
 fullest and highest. It is not ordinary cannibalism, but a ritual act
 reflected on as possible for dark thought and for darker practice on the
@@ -373,20 +373,20 @@ where it had been previously laid."
 <span id="page_310">p. 310</span>
 
 Such sacred stones or charms were once extensively used: faith in them
-is not yet quite extinct. <span id="fr_404"></span>[1](#fn_403)
+is not yet quite extinct. <span id="fr_404"></span>[1](#fn_403.md)
 
 The Loch mo Nāir stone is egg-shaped, and "it measures two inches in the
 long diameter and rather over one and a half inch in the shorter, weighs
 exactly four ounces, and has a specific gravity of 2.666, or almost that
 of Aberdeen granite. The stone exhibits a beautifully mottled cream and
 liver coloured surface, with delicate touches and streaks of pink here
-and there on the cream colour." <span id="fr_405"></span>[2](#fn_404)
+and there on the cream colour." <span id="fr_405"></span>[2](#fn_404.md)
 Gems and crystals early impressed the imaginative faculty, and the
 water-rounded pebble of white quartz is associated with early burials so
 often, one has remarked, as to point "to an underlying significancy so
 highly esteemed as to have rendered it not unfrequently to all
 appearance the only relic thought worthy of preservation among the ashes
-of the dead." <span id="fr_406"></span>[3](#fn_405)
+of the dead." <span id="fr_406"></span>[3](#fn_405.md)
 
 The tradition as told by Dr. Gregor is: "Once upon a time, in
 Strathnaver, there lived a woman who was both poor and old. She was able
@@ -413,7 +413,7 @@ the middle of the loch and there dipped. His wet clothes were then
 exchanged for dry ones, and his friends took him home in the full
 expectation of a cure. "Belief in the loch's powers was acknowledged
 till recently, and is probably still secretly cherished in the
-district." <span id="fr_407"></span>[1](#fn_406)
+district." <span id="fr_407"></span>[1](#fn_406.md)
 
 I know this to be the case: a few years ago this method of cure was
 tried. Here is an account by an eye-witness:
@@ -463,7 +463,7 @@ absurdity was in paying the loch in sterling coin. Forsooth, the cure
 cannot be effected without money cast into the waters! I may add that
 the practice of dipping in the loch is said to have been carried on from
 time immemorial, and it is alleged that many cures have been effected by
-it." <span id="fr_408"></span>[1](#fn_407)
+it." <span id="fr_408"></span>[1](#fn_407.md)
 
 In the *Statistical Account for the Parish of Farr*, written in August,
 1834, the Rev. David M‘Kenzie, minister of the parish, notes that
@@ -523,7 +523,7 @@ One of the three charm-stones purported to have been thrown into *Loch
 mo Nāir* was said to have come into the possession of the Lord Reay, who
 gave it to an ancestor of Mr. Eric Ross, Golspie, who owned it in 1900,
 and whose notes thereanent are as follow: <span
-id="fr_409"></span>[1](#fn_408)
+id="fr_409"></span>[1](#fn_408.md)
 
 *The Witch's Stone*.—". . . This stone, which had been in possession of
 the Reay family for generations, was highly esteemed by the country
@@ -543,7 +543,7 @@ regretted that
 no particulars of the early history of the stone are known, except the
 fact that it was once the property of a notorious witch. History is
 silent also regarding the recovery of the stone from Loch Mon-aar, <span
-id="fr_410"></span>[1](#fn_409) how it came into the possession of the
+id="fr_410"></span>[1](#fn_409.md) how it came into the possession of the
 Reay family, and the fate of its fellow-stones. The stone was never
 used, except for the purpose already mentioned. If the stone dried
 quickly after being taken out of the water, the sick animal would get
@@ -574,7 +574,7 @@ Far in Inverness-shire, and both apparently Pictish.
 
 But in his legend the St. Bairre of Cork has annexed some of the
 attributes of a marine deity; he rides on St. David's horse across the
-Irish Sea, and, as Mr. Plummer <span id="fr_411"></span>[1](#fn_410)
+Irish Sea, and, as Mr. Plummer <span id="fr_411"></span>[1](#fn_410.md)
 points out, his full name Findbharr 'white-crest' points in the same
 direction.
 
@@ -601,7 +601,7 @@ his wife and mother,
 
 The legend of Crimthann Nia Nāir (*i.e.* C. hero of Nāir) is summarised
 in the tract known as *Flathiusa h-Erenn*. <span
-id="fr_412"></span>[1](#fn_411) The goddess Nāir brought him to an
+id="fr_412"></span>[1](#fn_411.md) The goddess Nāir brought him to an
 over-sea land, where he abode for what seemed a month and a half. A
 longing seized him to return, and he brought back a chariot entirely
 wrought of gold; a chess-board of gold ornamented with three hundred
@@ -646,7 +646,7 @@ What a marvel it is, O Crimthann Cass!
 I was master of the blue sword.  
 One night of the night of the gods!  
 I would not exchange for all thy kingdom. <span
-id="fr_413"></span>[1](#fn_412)
+id="fr_413"></span>[1](#fn_412.md)
 
 <span class="contnote">\[paragraph continues\]</span> The going at night
 into the lake then was some form of obeisance to the Other-World past.
@@ -663,7 +663,7 @@ goddess Nāir in character reminds of the Greek Νηρεύς, 'a water-nymph,
 Nereid.'
 
 Other well-cures of special significance were resorted to. At
-Strath-fillan in Pennant's <span id="fr_414"></span>[1](#fn_413) time it
+Strath-fillan in Pennant's <span id="fr_414"></span>[1](#fn_413.md) time it
 is observed that the saint "is pleased to take under his protection the
 disordered in mind; and works wonderful cures, say his votaries, even to
 this day. The unhappy lunatics are brought here by their friends, who
@@ -677,7 +677,7 @@ bonds, his cure remains doubtful; but it often happens that death proves
 the angel that releases the afflicted, before the morrow, from all the
 troubles of this life." Near hand there formerly lived an old woman of
 the name Dewar, who was custodian of St. Fillan's *fairche* or
-mallet, <span id="fr_415"></span>[2](#fn_414) which was used to stir the
+mallet, <span id="fr_415"></span>[2](#fn_414.md) which was used to stir the
 sacred waters, if not to impart them virtues.
 
 <span id="page_321">p. 321</span>
@@ -775,7 +775,7 @@ Sacred wells are met with in all countries where a
 
 <span class="contnote">\[paragraph continues\]</span> Celtic speech has
 been spoken. I need not linger over the Holy Wells of Cornwall, <span
-id="fr_416"></span>[1](#fn_415) but pass at once to a great shrine of
+id="fr_416"></span>[1](#fn_415.md) but pass at once to a great shrine of
 present-day repute in Wales. It is a special account contributed to *The
 Baptist* of November 23, 1905, by Mr. W. Harris of Oxford; I may be
 allowed to quote it in full, as it is I believe quite reliable, and of
@@ -980,15 +980,15 @@ of the priest, uttered before the service, 'Not all who bathe are
 healed, but only those who have faith in the water.'"
 
 At Killin, Perthshire, two springs, Creideag Bheg and Creideag Mhór, had
-curative qualities. <span id="fr_417"></span>[1](#fn_416) Children were
+curative qualities. <span id="fr_417"></span>[1](#fn_416.md) Children were
 dipped in the Lady of Lawers’ Well at Beltane, and sprinkled when the
-sun was visible. <span id="fr_418"></span>[2](#fn_417) Immersion in the
+sun was visible. <span id="fr_418"></span>[2](#fn_417.md) Immersion in the
 Dòchart was resorted to for insanity. <span
-id="fr_419"></span>[3](#fn_418)
+id="fr_419"></span>[3](#fn_418.md)
 
 Of a parallel nature, if on another plane, are the rites associated with
 St. Patrick's Purgatory, Lough Derg. A saint specially connected with
-the spot is St. Dabheoc, <span id="fr_420"></span>[4](#fn_419) who is
+the spot is St. Dabheoc, <span id="fr_420"></span>[4](#fn_419.md) who is
 credited with having had a vision there ere he died. It is this saint
 who gives his name to the sacred well in Gigha, Argyll, known as *Tobar
 Da Bheathag* or *Tobar ath Bheathag*, but
@@ -997,7 +997,7 @@ Da Bheathag* or *Tobar ath Bheathag*, but
 
 correctly written *Tobar Dha Bheoc*, with the accent on the *bhe*
 (Bhe-oc). The Gigha well since the time of the Druids has been credited
-with special virtues: <span id="fr_421"></span>[1](#fn_420) if a stone
+with special virtues: <span id="fr_421"></span>[1](#fn_420.md) if a stone
 is taken out of it a great gale of east wind is aroused, which was taken
 advantage of when the islanders were given to smuggling, so that
 excisemen were kept from the island. Not many years ago a man from the
@@ -1061,7 +1061,7 @@ much is due to the Celt, the Vision itself, by the aid of Faith, helped
 to cleanse the soul. Terror to a certain extent purified. There was a
 further basis in practices somewhat similar to the rites of incubation
 which still take place in Tenos, in Greece; and of old the
-temple-sleep <span id="fr_422"></span>[1](#fn_421) in the cult of
+temple-sleep <span id="fr_422"></span>[1](#fn_421.md) in the cult of
 Asklepios at Epidaurus, where suppliants approached the god by
 sacrifices and rites likely to win his favour, and lay down to sleep
 awaiting the divine visitation. All such rites had healing and
@@ -1072,7 +1072,7 @@ or by reason of their being credited in belief with healing power remain
 to be considered. Cures wrought by substances of ascertained physical
 properties must be set aside here for lack of space, forerunners though
 they be in some instances of later science. <span
-id="fr_423"></span>[2](#fn_422) Whatever is outside of
+id="fr_423"></span>[2](#fn_422.md) Whatever is outside of
 
 <span id="page_335">p. 335</span>
 
@@ -1083,7 +1083,7 @@ although this is strengthened by visible means. In 1849 the people of
 Carrick were in the habit of carrying away from the churchyard portions
 of the clay of a priest's grave and using it as a cure for several
 diseases, and they also boiled the clay from the grave of Father
-O’Connor with milk, and drank it. <span id="fr_424"></span>[1](#fn_423)
+O’Connor with milk, and drank it. <span id="fr_424"></span>[1](#fn_423.md)
 
 Things connected with or named after a priest's belongings, such as a
 biretta (*currachd sagairt*) or a processional canopy (*puball
@@ -1093,7 +1093,7 @@ they are soon to add to the number of the faithful. This is to 'sain'
 the expected child as well as the mother from all harm, and to attach
 all good spiritual powers on her side. Parallel is the magic or wizard
 belt of St. Fillan (*sianchrios Fhaolain* <span
-id="fr_425"></span>[2](#fn_424)), whereby MacUalraig of Lianachan,
+id="fr_425"></span>[2](#fn_424).md), whereby MacUalraig of Lianachan,
 Lochaber, tied the Glaistig or water-nymph
 
 <span id="page_336">p. 336</span>
@@ -1114,7 +1114,7 @@ the god! Epilepsy was held to be curable as follows: "A live snake was
 caught and placed in a bottle, which was then filled with pure water and
 corked. After standing for a short time, the infusion was given to the
 patient, who was kept ignorant of the nature of the drug." <span
-id="fr_426"></span>[1](#fn_425) To check whooping-cough it was
+id="fr_426"></span>[1](#fn_425.md) To check whooping-cough it was
 recommended to hold a live frog over the sufferer's mouth. What is
 unusual has magic virtue: King's evil or scrofula could be cured if
 water were poured into a basin and applied by the seventh son in a
@@ -1142,18 +1142,18 @@ under the wing of a black cock, and buried in a hole dug at the spot
 where the first fit occurred, by the oldest God-fearing man of the
 district, who must watch and pray all night by the fire, which must not
 be let out. Another very universal remedy was drinking water out of the
-skull of a suicide at dawn." <span id="fr_427"></span>[1](#fn_426)
+skull of a suicide at dawn." <span id="fr_427"></span>[1](#fn_426.md)
 Serpent-bite was cured by a decoction of water wherein a serpent's head
 had been boiled. In Tiree "water taken from the crest of nine waves, and
 in which nine stones had been boiled, was an infallible cure for
 jaundice. The shirt of the patient, after being dipped in this magic
-infusion, is put on wet." <span id="fr_428"></span>[2](#fn_427)
+infusion, is put on wet." <span id="fr_428"></span>[2](#fn_427.md)
 
 <span id="page_338">p. 338</span>
 
 On the west side of the same island there is a rock with a hole in it,
 through which children are passed when suffering from whooping-cough or
-other complaints. <span id="fr_429"></span>[1](#fn_428) "On the point of
+other complaints. <span id="fr_429"></span>[1](#fn_428.md) "On the point of
 Oa, Islay, there is a small arch formed in a huge boulder, which had
 been resorted to by invalids for ages. Any person who passed through it
 was supposed to have left his malady behind him, whatever it was. The
@@ -1166,9 +1166,9 @@ would stick to the next passing through it unless he got a substitute to
 pass before him. Probably a valuable animal of the clean kind was the
 original substitute required, but latterly any living creature was
 considered sufficient. An old worn-out dog was supposed to be as good as
-a first-class ram." <span id="fr_430"></span>[2](#fn_429) The water-vole
+a first-class ram." <span id="fr_430"></span>[2](#fn_429.md) The water-vole
 (*labhalan*), referred to in *Rob Donn*, is mentioned also by
-Pennant: <span id="fr_431"></span>[3](#fn_430) "The country-people have
+Pennant: <span id="fr_431"></span>[3](#fn_430.md) "The country-people have
 a notion that it is noxious to cattle: they preserve the skin, and as a
 cure for their sick beasts give them the water in which it has been
 dipt. I believe it to be the same animal which in Sutherland is called
@@ -1188,7 +1188,7 @@ described by Pliny.
 
 Goats especially were held to be proof against adders, and the minister
 of Kirkmichael, Banff, in 1794, quotes <span
-id="fr_432"></span>[1](#fn_431) a Gadhelic saying which implies that the
+id="fr_432"></span>[1](#fn_431.md) a Gadhelic saying which implies that the
 goat eats the serpent or adder: *cleas na goibhr’ ag itheadh na
 nathrach*, *i.e.* 'like the goat eating the adder or serpent.' Red
 woollen thread which has been 'sained' (*snàithlein*) has various
@@ -1219,7 +1219,7 @@ bowl full of water; into this bowl molten lead is poured through iron
 lead is thought to take the rough shape of a heart, and the lead has to
 be melted over and over until a smooth or 'whole heart' is produced with
 no hole in it, whereupon the patient may rest assured that his heart is
-whole. <span id="fr_433"></span>[1](#fn_432) In the ritual of
+whole. <span id="fr_433"></span>[1](#fn_432.md) In the ritual of
 cow-healing and of turning the evil eye off children, lustral water,
 literally silver-water (*būrn* *airgid*), water which has been blessed
 in the Triune Name and has had silver coins cast into it, is given to
@@ -1259,25 +1259,25 @@ redress, to injure an enemy, to obtain a request as if by magic
 
 <span id="page_342">p. 342</span>
 
-force; <span id="fr_434"></span>[1](#fn_433) to ward off a plague. <span
-id="fr_435"></span>[2](#fn_434) The rite has its parallel in the sitting
+force; <span id="fr_434"></span>[1](#fn_433.md) to ward off a plague. <span
+id="fr_435"></span>[2](#fn_434.md) The rite has its parallel in the sitting
 *dharna* (*sic (dharana)—JBH*) of the Hindoos. The explanation is that
 as eating keeps the body in life so fasting is a feigning of death; the
 dead-body does not eat. The spirit of Eoghan of Lochbuy cannot rest, for
-the warrior fell fasting. <span id="fr_436"></span>[3](#fn_435) Fasting
+the warrior fell fasting. <span id="fr_436"></span>[3](#fn_435.md) Fasting
 makes a man more accessible to magic power whereby he may get his wish,
 just as it renders the body open to magical transformations; fasting
 elevates one on a par with the dead who eat not. Thus a fasting man may
 get his 'wish,' which becomes equal to an imprecation, which has
 magic-compelling power according to the Highland proverb. <span
-id="fr_437"></span>[4](#fn_436) That request or 'entreaty' passes into
+id="fr_437"></span>[4](#fn_436.md) That request or 'entreaty' passes into
 'conjuration or exorcism' is shown by the meaning of *geas*, Irish
 *geiss*, from a word signifying 'I bid, entreat ': the magic word is
 mighty to place one under a prohibition from doing a certain act, which
 is tantamount to an obligation to doing another thing. The magic-spell
 (Irish *feth fia*: the Highland *fāth-fīthe*) has power to cause
 invisibility. The root is \**vet*, 'to say.' <span
-id="fr_438"></span>[5](#fn_437) Power centres in the magic word, and
+id="fr_438"></span>[5](#fn_437.md) Power centres in the magic word, and
 this is the justification of embracing a part of folk-medicine along
 with sacrifice. The word makes sacred.
 
@@ -1294,7 +1294,7 @@ magic. There is felt or implied that some Power exists outside and
 beyond the actual words recited. In charms of the older period names of
 deities, such as Goibniu and Diancecht, occur. By easy transitions, as
 in the case of the pre-Christian Brigit, all <span
-id="fr_439"></span>[1](#fn_438) such deities make way for Christian
+id="fr_439"></span>[1](#fn_438.md) such deities make way for Christian
 saints. The lower rites anticipate the higher. The Divine Life is to man
 as man is to the Divine Life. There is freedom on both sides. Priority
 remains with the greater. It is the higher that gives, it is the lower
@@ -1308,7 +1308,7 @@ messages and signs of the will and favour of God. Its holy or *naomh*,
 Old Irish *nōib*, has its nearest cognate in the Old Persian *naiba*,
 'beautiful.' Holiness in its spiritual depths and inwardness is a
 product of Christian associations. Non-Christian folk-consciousness is
-'yet without strength'; <span id="fr_440"></span>[2](#fn_439) it does
+'yet without strength'; <span id="fr_440"></span>[2](#fn_439.md) it does
 not know God as Holy. In Christianity alone is God seen as giving up
 Himself without giving up His Love.
 
@@ -1316,71 +1316,71 @@ Himself without giving up His Love.
 
 ### Footnotes
 
-<span id="fn_391"></span>[297:1](sbc10.htm#fr_392) N. Macleod in
+<span id="fn_391"></span>[297:1](sbc10.htm#fr_392.md) N. Macleod in
 *Teachdaire Gaelach*, Aug. 1830, p. 93.
 
-<span id="fn_392"></span>[298:1](sbc10.htm#fr_393) See previous chapter
+<span id="fn_392"></span>[298:1](sbc10.htm#fr_393.md) See previous chapter
 sub Deer Parentage of Ossian.
 
-<span id="fn_393"></span>[298:2](sbc10.htm#fr_394) Cf. *The Books of
+<span id="fn_393"></span>[298:2](sbc10.htm#fr_394.md) Cf. *The Books of
 Rights*, ed. J. O’Donovan.
 
-<span id="fn_394"></span>[298:3](sbc10.htm#fr_395) *Thes. Pal-Hib*. ii.
+<span id="fn_394"></span>[298:3](sbc10.htm#fr_395.md) *Thes. Pal-Hib*. ii.
 351; *K.Z*. 41, 385.
 
-<span id="fn_395"></span>[299:1](sbc10.htm#fr_396) Windisch's
+<span id="fn_395"></span>[299:1](sbc10.htm#fr_396.md) Windisch's
 *Wörterbuch* for references.
 
-<span id="fn_396"></span>[299:2](sbc10.htm#fr_397) Cf. the charms of
+<span id="fn_396"></span>[299:2](sbc10.htm#fr_397.md) Cf. the charms of
 healing put into the wounds of Cuchulainn. Faraday's trans. of the
 *Tāin*, p. 84-5.
 
-<span id="fn_397"></span>[300:1](sbc10.htm#fr_398) Moore, *Folk Lore of
+<span id="fn_397"></span>[300:1](sbc10.htm#fr_398.md) Moore, *Folk Lore of
 the Isle of Man*, 98.
 
-<span id="fn_398"></span>[302:1](sbc10.htm#fr_399) *Social and Religious
+<span id="fn_398"></span>[302:1](sbc10.htm#fr_399.md) *Social and Religious
 Life in the Highlands*, pp. 29, 30 (Edin. 1902).
 
-<span id="fn_399"></span>[304:1](sbc10.htm#fr_400) *Folk-Lore* for 1903,
+<span id="fn_399"></span>[304:1](sbc10.htm#fr_400.md) *Folk-Lore* for 1903,
 p. 370.
 
-<span id="fn_400"></span>[306:1](sbc10.htm#fr_401) Her grave is still
+<span id="fn_400"></span>[306:1](sbc10.htm#fr_401.md) Her grave is still
 pointed out, covered with flagstones in a lonely spot where she is said
 to have been done to death by a number of young men. She entreated that
 her slayers should all die a violent death, which tradition says was the
 case.
 
-<span id="fn_401"></span>[308:1](sbc10.htm#fr_402) *Irish Texts Soc*.
+<span id="fn_401"></span>[308:1](sbc10.htm#fr_402.md) *Irish Texts Soc*.
 ed. vol. iii. p. 143.
 
-<span id="fn_402"></span>[308:2](sbc10.htm#fr_403) *Ib*. vol. ii. p.
+<span id="fn_402"></span>[308:2](sbc10.htm#fr_403.md) *Ib*. vol. ii. p.
 317.
 
-<span id="fn_403"></span>[310:1](sbc10.htm#fr_404) For an account of
+<span id="fn_403"></span>[310:1](sbc10.htm#fr_404.md) For an account of
 charm-stones for curing cattle, see *Proceed. Soc. Scot. Antiq*. for
 1889-90, pp. 483-488.
 
-<span id="fn_404"></span>[310:2](sbc10.htm#fr_405) A. Hutcheson,
+<span id="fn_404"></span>[310:2](sbc10.htm#fr_405.md) A. Hutcheson,
 *Proceed. Soc. Antiq. Scot*. for May 14, 1900, p. 486.
 
-<span id="fn_405"></span>[310:3](sbc10.htm#fr_406) See Mitchell as to
+<span id="fn_405"></span>[310:3](sbc10.htm#fr_406.md) See Mitchell as to
 the association of white pebbles with burials, *ib*. vol. xviii. pp.
 286-291.
 
-<span id="fn_406"></span>[311:1](sbc10.htm#fr_407) Quoted in Mackinlay's
+<span id="fn_406"></span>[311:1](sbc10.htm#fr_407.md) Quoted in Mackinlay's
 *Folklore of Scottish Lochs and Springs*, pp. 249-250.
 
-<span id="fn_407"></span>[313:1](sbc10.htm#fr_408) From the *Inverness
+<span id="fn_407"></span>[313:1](sbc10.htm#fr_408.md) From the *Inverness
 Courier*, quoted in the *Celtic Magazine* for 1877-78.
 
-<span id="fn_408"></span>[315:1](sbc10.htm#fr_409) *Proceedings of Soc.
+<span id="fn_408"></span>[315:1](sbc10.htm#fr_409.md) *Proceedings of Soc.
 of Antiquaries, Scotland*, 14th May, 1900.
 
-<span id="fn_409"></span>[316:1](sbc10.htm#fr_410) Mr. Ross's spelling
+<span id="fn_409"></span>[316:1](sbc10.htm#fr_410.md) Mr. Ross's spelling
 indicates the true pronunciation, viz. *ā* long, and bearing the chief
 stress.
 
-<span id="fn_410"></span>[317:1](sbc10.htm#fr_411) *Vitae Sanctorum
+<span id="fn_410"></span>[317:1](sbc10.htm#fr_411.md) *Vitae Sanctorum
 Hiberniae*, vol. i. p. xxxi. St. Barr begged St. David for the loan of
 his horse that he might make his journey the quicker. Quo concesso, ac
 benedictione optenta, equum ascendit, et sic super eum mare confidenter
@@ -1388,22 +1388,22 @@ benedictione optenta, equum ascendit, et sic super eum mare confidenter
 seruicio fratrum secum retinuit. Set in memoria miraculi discipuli eius
 fecerunt equum eneum, qui usque hodie apud Corkagiam manet. *Ib*. 69 n.
 
-<span id="fn_411"></span>[318:1](sbc10.htm#fr_412) *Book of Leinster*,
+<span id="fn_411"></span>[318:1](sbc10.htm#fr_412.md) *Book of Leinster*,
 p. 23, col. 2, lines 2-8; *Book of Lecan*, fol. 295, v. col. 2. Cf.
 Keating's *History*, ed. 1811, pp. 408-9.
 
-<span id="fn_412"></span>[319:1](sbc10.htm#fr_413) D’Arbois de
+<span id="fn_412"></span>[319:1](sbc10.htm#fr_413.md) D’Arbois de
 Jubainville's *Irish Mythological Cycle*, trans. by Best, p. 204.
 
-<span id="fn_413"></span>[320:1](sbc10.htm#fr_414) *Tour*, pt. ii. 15.
+<span id="fn_413"></span>[320:1](sbc10.htm#fr_414.md) *Tour*, pt. ii. 15.
 
-<span id="fn_414"></span>[320:2](sbc10.htm#fr_415) Originally, the
+<span id="fn_414"></span>[320:2](sbc10.htm#fr_415.md) Originally, the
 mallet for bruising barley, but in later ages used for stirring the
 pool. St. Fillan's relics further embrace his bell, which was put over
 the patients in the morning; his Quigerach; his belt or girdle. Cf.
 Brigit's girdle (*Relig. Songs of Connaught*, ii. 27).
 
-<span id="fn_415"></span>[324:1](sbc10.htm#fr_416) The Cornish Well of
+<span id="fn_415"></span>[324:1](sbc10.htm#fr_416.md) The Cornish Well of
 St. Keyne has a unique fame. Its water is gifted with the marvellous
 property that whoever first drinks of it after marriage will be ruler in
 the household. The poet Southey was so struck with this well when on his
@@ -1429,19 +1429,19 @@ turn and rolled straight in at the entrance, retaking its old position,
 where it remains to this day. The oxen then fell dead, and the farmer
 was struck both lame and speechless.
 
-<span id="fn_416"></span>[331:1](sbc10.htm#fr_417) *Trans. Gael. Soc.
+<span id="fn_416"></span>[331:1](sbc10.htm#fr_417.md) *Trans. Gael. Soc.
 Inverness*, 26, 48.
 
-<span id="fn_417"></span>[331:2](sbc10.htm#fr_418) *Ib*. 25, 131.
+<span id="fn_417"></span>[331:2](sbc10.htm#fr_418.md) *Ib*. 25, 131.
 
-<span id="fn_418"></span>[331:3](sbc10.htm#fr_419) *Ib*. 26, 145.
+<span id="fn_418"></span>[331:3](sbc10.htm#fr_419.md) *Ib*. 26, 145.
 
-<span id="fn_419"></span>[331:4](sbc10.htm#fr_420) Shane Leslie's *Lough
+<span id="fn_419"></span>[331:4](sbc10.htm#fr_420.md) Shane Leslie's *Lough
 Derg in Ulster* (Maunsel & Co., 1909); T. Wright's St. Patrick's
 Purgatory, 1844; P. de Félice, *L’Autre Monde: Le Purgatoire de Saint
 Patrice*, Paris, 1906.
 
-<span id="fn_420"></span>[332:1](sbc10.htm#fr_421) 'Buaidhean
+<span id="fn_420"></span>[332:1](sbc10.htm#fr_421.md) 'Buaidhean
 sònruichte'; cf. Gordon Cumming's *In the Hebrides* and Martin's
 *Western Isles* as to the round bluish stone always moist on the altar
 of Fladda's Chapel in the island of Fladdahuan: windbound fishermen
@@ -1451,11 +1451,11 @@ might be sold to mariners: it was enclosed in three knots; undoing the
 first brought a moderate wind, the second half a gale, the third a
 hurricane.
 
-<span id="fn_421"></span>[334:1](sbc10.htm#fr_422) Cf. Mary Hamilton,
+<span id="fn_421"></span>[334:1](sbc10.htm#fr_422.md) Cf. Mary Hamilton,
 *Incubation, or The Cure of Disease in Pagan Temples and Christian
 Churches* (Henderson & Son, St. Andrews, 1906).
 
-<span id="fn_422"></span>[334:2](sbc10.htm#fr_423) v. Dr. Masson on
+<span id="fn_422"></span>[334:2](sbc10.htm#fr_423.md) v. Dr. Masson on
 'Popular Domestic Medicine' in *Trans. Gael. Soc. Inverness*, vol. xiv.;
 Dr. Clerk's 'Notes on Ancient Gaelic Medicine' in *Trans. of Gaelic Soc.
 of Glasgow*, vol. i.; *The Caledonian Medical* <span id="page_335">p.
@@ -1466,39 +1466,39 @@ in substance follow known Latin works of the Middle Ages, and are on a
 par with the 'science' of their day. In Pennant's *Tour* there are
 interesting remarks on *The Diseases of the Highlands*.
 
-<span id="fn_423"></span>[335:1](sbc10.htm#fr_424) Gomme's *Folk-Lore as
+<span id="fn_423"></span>[335:1](sbc10.htm#fr_424.md) Gomme's *Folk-Lore as
 an Historical Science*, p. 199, quoting Wilde's *Beauties of the Boyne*,
 45; Croker's *Researches in the South of Ireland*, 170; *Rev. Celt*. V.
 358.
 
-<span id="fn_424"></span>[335:2](sbc10.htm#fr_425) Domhnull
+<span id="fn_424"></span>[335:2](sbc10.htm#fr_425.md) Domhnull
 Mac-Mhuirich, *An Duanaire*, Dun-éidinn, 1868, pp. 123-126. A fairly
 literal rendering is given in J. G. Campbell's *Superstitions of the
 Scottish Highlands* (MacLehose), p. 169.
 
-<span id="fn_425"></span>[336:1](sbc10.htm#fr_426) Rev. Kenneth
+<span id="fn_425"></span>[336:1](sbc10.htm#fr_426.md) Rev. Kenneth
 Macdonald, *Social and Religious Life in the Highlands*, p. 29.
 
-<span id="fn_426"></span>[337:1](sbc10.htm#fr_427) Dr. Aitken in *Trans.
+<span id="fn_426"></span>[337:1](sbc10.htm#fr_427.md) Dr. Aitken in *Trans.
 Gael. Soc. Inverness*, 14, 309.
 
-<span id="fn_427"></span>[337:2](sbc10.htm#fr_428) *Folk-Lore Journal*,
+<span id="fn_427"></span>[337:2](sbc10.htm#fr_428.md) *Folk-Lore Journal*,
 i. 167.
 
-<span id="fn_428"></span>[338:1](sbc10.htm#fr_429) *Folk-Lore Journal*,
+<span id="fn_428"></span>[338:1](sbc10.htm#fr_429.md) *Folk-Lore Journal*,
 vol. i. p. 167.
 
-<span id="fn_429"></span>[338:2](sbc10.htm#fr_430) Rev. K. Macdonald,
+<span id="fn_429"></span>[338:2](sbc10.htm#fr_430.md) Rev. K. Macdonald,
 *op. cit.* p. 35.
 
-<span id="fn_430"></span>[338:3](sbc10.htm#fr_431) *Tour*, i. 175.
+<span id="fn_430"></span>[338:3](sbc10.htm#fr_431.md) *Tour*, i. 175.
 Possibly *an fhadhbh-alan;* *alan* being a Pictish word, root as in
 *Aln*wick, the river-name Alaunos of Ptolemy.
 
-<span id="fn_431"></span>[339:1](sbc10.htm#fr_432) *Old Statistical
+<span id="fn_431"></span>[339:1](sbc10.htm#fr_432.md) *Old Statistical
 Account of Scotland*.
 
-<span id="fn_432"></span>[340:1](sbc10.htm#fr_433) For lead-turning
+<span id="fn_432"></span>[340:1](sbc10.htm#fr_433.md) For lead-turning
 magic, see also *Folk-Lore*, Sept. 1893, p. 361. Divination by symbolic
 burial was resorted to: parents were wont to dig two adjacent graves
 beside a lake in the parish of Reay in Caithness, and there to lay their
@@ -1506,29 +1506,29 @@ distempered children in the interval to ascertain the probability of
 their recovery from whooping-cough (Brand's *Description of Orkney*, p.
 154).
 
-<span id="fn_433"></span>[342:1](sbc10.htm#fr_434) v. Joyce, *Social
+<span id="fn_433"></span>[342:1](sbc10.htm#fr_434.md) v. Joyce, *Social
 History of Ancient Ireland*, i. 205, for evidence from the Brehon Laws.
 
-<span id="fn_434"></span>[342:2](sbc10.htm#fr_435) E. Hull, *The Ancient
+<span id="fn_434"></span>[342:2](sbc10.htm#fr_435.md) E. Hull, *The Ancient
 Hymn-Charms of Ireland* in *Folk-Lore*, xxi. 423.
 
-<span id="fn_435"></span>[342:3](sbc10.htm#fr_436) v. [p.
-297](sbc09.htm#page_297).
+<span id="fn_435"></span>[342:3](sbc10.htm#fr_436.md) v. [p.
+297](sbc09.htm#page_297.md).
 
-<span id="fn_436"></span>[342:4](sbc10.htm#fr_437) [p.
-10](sbc03.htm#page_10).
+<span id="fn_436"></span>[342:4](sbc10.htm#fr_437.md) [p.
+10](sbc03.htm#page_10.md).
 
-<span id="fn_437"></span>[342:5](sbc10.htm#fr_438) Cymric *gwedyd*,
+<span id="fn_437"></span>[342:5](sbc10.htm#fr_438.md) Cymric *gwedyd*,
 'say'; also *dywedyd*; old perfect *dywawt*: *gwawd*, 'carmen, eulogy,
 poem'; *gwawdiaeth*, 'sarcasm.' From the ablaut \**vat* comes the
 Gadhelic *fath*; *ferba-fath*, 'words of magic' (*Rev. Celt*. xx. 246).
 
-<span id="fn_438"></span>[343:1](sbc10.htm#fr_439) Lady Wilde has a
+<span id="fn_438"></span>[343:1](sbc10.htm#fr_439.md) Lady Wilde has a
 spell wherein the three daughters of Fliethas are invoked against the
 serpent.
 
-<span id="fn_439"></span>[343:2](sbc10.htm#fr_440) Romans, ch. v. 6.
+<span id="fn_439"></span>[343:2](sbc10.htm#fr_440.md) Romans, ch. v. 6.
 
 ------------------------------------------------------------------------
 
-[Next: Index](sbc11)
+[Next: Index](sbc11.md)

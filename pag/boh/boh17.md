@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh16)  [Next](boh18) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh16)  [Next](boh18.md) 
 
 ------------------------------------------------------------------------
 
@@ -459,4 +459,4 @@ holidays of the year?
 
 ------------------------------------------------------------------------
 
-[Next: Four Poems](boh18)
+[Next: Four Poems](boh18.md)

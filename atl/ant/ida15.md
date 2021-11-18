@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida14)  [Next](ida16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida14)  [Next](ida16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -430,7 +430,7 @@ He had lived with them for two years, in their tents, the devil knows
 where. He presented me to their chief, Sheik Otham, and to four others,
 splendid fellows in their blue cotton draperies and their amulets of red
 leather. Fortunately, they all spoke a kind of *sabir* <span
-id="fr_13"></span>[1](#fn_13) which helped things along.
+id="fr_13"></span>[1](#fn_13.md) which helped things along.
 
 "I only mention in passing the lunch at the Tuileries, the visits in the
 evening to the Museum, to the *Hotel de Ville*, to the Imperial Printing
@@ -442,7 +442,7 @@ time, the Tuareg inscribed their names in the registry of the place they
 were visiting. It was interminable. To give you an idea, here is the
 complete name of Sheik Otham alone:
 Otham-ben-el-Hadj-el-Bekri-ben-el-Hadj-el-Faqqi-ben-Mohammad-Bouyaben-si-Ahmed-es-Souki-ben-Mahmoud. <span
-id="fr_14"></span>[1](#fn_14)
+id="fr_14"></span>[1](#fn_14.md)
 
 "And there were five of them like that!
 
@@ -665,15 +665,15 @@ The sun was rising, pale yellow, behind the sharp blue mountains.
 
 ### Footnotes
 
-<span id="fn_13"></span>[204:1](ida15.htm#fr_13) Dialect spoken in
+<span id="fn_13"></span>[204:1](ida15.htm#fr_13.md) Dialect spoken in
 Algeria and the Levant—a mixture of Arabian, French, Italian and
 Spanish.
 
-<span id="fn_14"></span>[205:1](ida15.htm#fr_14) I have succeeded in
+<span id="fn_14"></span>[205:1](ida15.htm#fr_14.md) I have succeeded in
 finding on the registry of the Imperial Printing Press the names of the
 Tuareg chiefs and those who accompanied them on their visit, M. Henry
 Duveyrier and the Count Bielowsky. (Note by M. Leroux.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Hours of Waiting](ida16)
+[Next: Chapter XIV. Hours of Waiting](ida16.md)

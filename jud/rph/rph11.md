@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph10)  [Next](rph12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph10)  [Next](rph12.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 
 We come now to the original books in which, according to the most
 wide-spread opinion, the Kabbalistic system took form since its birth.
-Judging from the titles <span id="fr_107"></span>[1](#fn_107) which have
+Judging from the titles <span id="fr_107"></span>[1](#fn_107.md) which have
 come down to us, the books were very numerous. But we shall consider
 only those which time has conserved for us, and which commend themselves
 to our attention by their importance as well as by their antiquity.
@@ -33,7 +33,7 @@ where, consequently, certain general and superficial relations perceived
 in the external world, must have passed for the science of nature. The
 other is called the Zohar, ‏זהר‎, or Brightness, according to the words
 of Daniel: "And they that be wise shall shine as the brightness of the
-firmament." <span id="fr_109"></span>[2](#fn_109)
+firmament." <span id="fr_109"></span>[2](#fn_109.md)
 
 The Zohar treats more particularly of God, of spirits and of the human
 soul, in a word, of the spiritual world. We are far from according the
@@ -59,7 +59,7 @@ Eternity, Whose name is sublime and holy."
 
 2nd. The means employed there to explain the work of the creation and
 the importance given to numbers and to letters, make us understand how
-ignorance and [superstition](errata.htm#2) abused later this principle;
+ignorance and [superstition](errata.htm#2.md) abused later this principle;
 how the fables mentioned by us spread; and, finally, how the so-called
 practical Kabbalah was formed, which gives to numbers and to letters the
 power to change the course of nature.
@@ -73,14 +73,14 @@ distributed in fairly regulated order, but as concise as the ancient
 oracles. One striking fact is that the term which was later on used
 exclusively for the designation of the soul, is still used here as in
 the Pentateuch to designate the living human body. <span
-id="fr_110"></span>[3](#fn_110)
+id="fr_110"></span>[3](#fn_110.md)
 
 True, there are several words of foreign origin in the book: The names
 of the seven planets and the name of the Celestial Dragon, mentioned
 several times in the book, belong, evidently, to the language as well as
 to the science of the Chaldeans, who exercised an all-powerful influence
 over the Hebrews during the Babylonian captivity. <span
-id="fr_111"></span>[4](#fn_111) But the purely Greek, Latin and Arabic
+id="fr_111"></span>[4](#fn_111.md) But the purely Greek, Latin and Arabic
 expressions, seen in large numbers in the Talmud and in the more modern
 writings where the Hebrew language serves philosophy and science, are
 not found there.
@@ -100,12 +100,12 @@ paths of Wisdom which served for the creation of the universe, it adds
 that there are also three terms: that which counts, that which is
 counted, and the very action of counting, translated by the oldest
 commentators as: the subject, the object, and the act of the reflection
-or the thought, <span id="fr_112"></span>[5](#fn_112) it is impossible
+or the thought, <span id="fr_112"></span>[5](#fn_112.md) it is impossible
 not to recall this celebrated phrase of the twelfth book of Metaphysics;
 the intelligence comprehends itself by grasping the intelligible, and it
 becomes the intelligible by the very act of comprehension and cognition;
 so that the intelligence and the intelligible are identical. <span
-id="fr_113"></span>[6](#fn_113)
+id="fr_113"></span>[6](#fn_113.md)
 
 But it is evident that these words were added to the text, for they are
 connected neither with the proposition which precedes them, nor with the
@@ -119,7 +119,7 @@ the material world. As to the difference in the two manuscripts
 reproduced in the Mantua edition, one at the end of the volume, the
 other amidst the diverse commentaries, they are far from being as great
 as certain modern critics would have us believe. <span
-id="fr_114"></span>[7](#fn_114)
+id="fr_114"></span>[7](#fn_114.md)
 
 After an impartial and detailed comparison, it is found to be
 
@@ -145,7 +145,7 @@ where it is the question of enumerating the principles of the universe
 which correspond to the ten numbers, one manuscript very simply says
 that first of all comes the spirit of the Living God; the other adds
 that this spirit of the Living God is the Holy Spirit which is, at the
-same time, Spirit, Voice and Word. <span id="fr_115"></span>[8](#fn_115)
+same time, Spirit, Voice and Word. <span id="fr_115"></span>[8](#fn_115.md)
 Doubtless this idea is of the greatest importance; but it is not lacking
 in the manuscript where it is not so clearly formulated. It constitutes,
 as we shall soon prove, the basis and the result of the entire system.
@@ -153,7 +153,7 @@ Moreover, the Book of Formation was translated and explained in Arabic
 at the commencement of the tenth century, by Rabbi Saadia, a high
 methodical and wise mind, who considered it one of the most ancient and
 one of the first monuments of the human mind. <span
-id="fr_116"></span>[9](#fn_116) Without according any exaggerated value
+id="fr_116"></span>[9](#fn_116.md) Without according any exaggerated value
 to this testimony, we shall add that all the
 
 <span id="page_83">p. 83</span>
@@ -171,7 +171,7 @@ then believed in God, and that was counted unto him as a work of
 justice; and the glory of God was called upon him; for it is to him that
 these words apply: I have known thee before I formed thee in the womb of
 thy mother." This passage can not be considered as a modern invention.
-[With](errata.htm#3) only a few alterations it exists in the two texts
+[With](errata.htm#3.md) only a few alterations it exists in the two texts
 of the Mantua edition, and it is found in the oldest commentaries. It is
 our opinion that in order to give more interest to the Book of
 Formation, it was supposed, or it was desired to have others suppose,
@@ -221,7 +221,7 @@ This other opinion is, no doubt, less improbable than the first one;
 yet, we surely do not believe it better based. Although, whenever
 mentioning him, the Talmud represents Akkiba as an almost divine being,
 and although it ranks him even above Moses, <span
-id="fr_117"></span>[10](#fn_117) yet he is not presented in any place as
+id="fr_117"></span>[10](#fn_117.md) yet he is not presented in any place as
 one of the luminaries of the Merkaba or of the science of Genesis;
 nowhere are we led to surmise that he wrote the Book of Formation, or
 any other book of that nature. On the contrary, he was positively
@@ -232,10 +232,10 @@ God. "Until when, Rabbi Akkiba," said Rabbi Jose the Galilean to him,
 <span id="page_85">p. 85</span>
 
 <span class="contnote">\[paragraph continues\]</span> Majesty?" <span
-id="fr_118"></span>[11](#fn_118) The enthusiasm he inspired was caused
+id="fr_118"></span>[11](#fn_118.md) The enthusiasm he inspired was caused
 by the importance he accorded to the tradition, by the patience with
 which he knew how to draw from the traditions rules for all actions of
-life, <span id="fr_119"></span>[12](#fn_119) by the zeal with which he
+life, <span id="fr_119"></span>[12](#fn_119.md) by the zeal with which he
 taught during a period of forty years, and, perhaps, also by the heroism
 of his death. The twenty-four thousand disciples attributed to him do
 not bear out the fact that the Mishnah forbade to divulge even the least
@@ -246,16 +246,16 @@ under the same title "Sefer Yetzirah;" one attributed to the patriarch
 Abraham, has long since disappeared; the other, much more modern, is the
 one conserved for us. This opinion is founded upon gross ignorance.
 Morin, author of "Biblical Exercises," <span
-id="fr_120"></span>[13](#fn_120) borrowed it from a chronicler of the
+id="fr_120"></span>[13](#fn_120.md) borrowed it from a chronicler of the
 sixteenth century, who, speaking of Akkiba, said: "Akkiba is he who drew
 up the Book of Formation in honor of the Kabbalah; but there is another
 Book of Formation composed by Abraham, to which Rabbi Moses ben Nahman
 (abbreviated, Ramban), wrote a great and marvelous commentary. <span
-id="fr_121"></span>[14](#fn_121)
+id="fr_121"></span>[14](#fn_121.md)
 
 This commentary, written at the close of the thirteenth century, but
 printed in the Mantua edition several years after the chronicle just
-cited, <span id="fr_122"></span>[15](#fn_122) evidently relates to the
+cited, <span id="fr_122"></span>[15](#fn_122.md) evidently relates to the
 book now in our hands. Most of the expressions of the text are
 faithfully preserved therein, and it is evident that it was not read by
 the historian whose words we have cited. Besides, the first who wrote
@@ -267,7 +267,7 @@ name of Akkiba instead of the name of Abraham was a Kabbalist of the
 fourteenth century, Isaac de Lattes, who in his preface to the Zohar
 asked: "Who permitted Rabbi Akkiba to write the book which has been
 orally transmitted since Abraham?" <span
-id="fr_123"></span>[16](#fn_123) These words, which we have tried to
+id="fr_123"></span>[16](#fn_123.md) These words, which we have tried to
 preserve faithfully, are evidently contrary to the distinction which we
 wish to destroy; and, yet, this distinction rests, in the last instance,
 on that authority only. So the author of the Book of Formation is as yet
@@ -282,7 +282,7 @@ philosophical interest which we must look for in these matters.
 
 ### Footnotes
 
-<span id="fn_107"></span>[78:1](rph11.htm#fr_107) The Sefer Ha-Bahir,
+<span id="fn_107"></span>[78:1](rph11.htm#fr_107.md) The Sefer Ha-Bahir,
 ‏ספר הבהיר‎, attributed to Nehunya Ben Hakanah, a contemporary of Hillel
 the Aged and of Herod the Great, is frequently cited: and to this day
 different fragments, evidently spurious, are quoted as from that work.
@@ -292,15 +292,15 @@ commentary. Otherwise, nothing has remained to us but names and a few
 rare citations from the following authors frequently mentioned with the
 greatest respect by the Zohar: Rabbi Jose the Elder, ‏ר׳ יוסי סבא.‎;
 Rabbi Hamnuna the Elder, ‏ר׳ המנונא סבא.‎; and Rabbi Jebi the Elder, ‏ר׳
-ייבי סבא.‎. <span id="fr_108"></span>[\*](#fn_108)
+ייבי סבא.‎. <span id="fr_108"></span>[\*](#fn_108.md)
 
-<span id="fn_108"></span>[78:\*](rph11.htm#fr_108) According to Peter
+<span id="fn_108"></span>[78:\*](rph11.htm#fr_108.md) According to Peter
 Beer, part 2, p. 28, also R. Kruspedai, ‏ר׳ כרוספדאי‎--Jellinek.
 
-<span id="fn_109"></span>[79:2](rph11.htm#fr_109) Daniel, XII,
+<span id="fn_109"></span>[79:2](rph11.htm#fr_109.md) Daniel, XII,
 ‏והמשכילים יזהירו בזהר הרקיע.‎.
 
-<span id="fn_110"></span>[80:3](rph11.htm#fr_110) We refer here to the
+<span id="fn_110"></span>[80:3](rph11.htm#fr_110.md) We refer here to the
 word Nefesh, ‏נפש‎. It is evident that it can not be applied to the soul
 in any of the following passages: 1, When it is said of those who,
 according to the literal meaning of the word, "came out of the loins of
@@ -316,13 +316,13 @@ Talmudists or by more modern writers to designate the body. All, without
 exception, make use of the word Guf, ‏גוף‎), which is not met with even
 once in the Sefer Yetzirah.
 
-<span id="fn_111"></span>[80:4](rph11.htm#fr_111) These names, excepting
+<span id="fn_111"></span>[80:4](rph11.htm#fr_111.md) These names, excepting
 those which designate the sun and the moon, do not belong to the
 Chaldaic language; they are a translation of Chaldean names. They are:
 ‏נוגה‎, supposed to be Venus; ‏ככב‎, Mercury; ‏שבתאי‎, Saturn; ‏צדק‎,
 Jupiter; ‏מאדים‎, Mars; ‏תלי‎, which designates the Dragon, is Arabic.
 
-<span id="fn_112"></span>[81:5](rph11.htm#fr_112) ‏בג׳ ספרים בספר וספר
+<span id="fn_112"></span>[81:5](rph11.htm#fr_112.md) ‏בג׳ ספרים בספר וספר
 וסיפור‎, according to the author of the Cuzari, Rabbi Judah ha-Levi, the
 three terms designate the Thought, the Word, and the Scriptures, which
 in Divinity are identical, although in man they are separate. (Cuzari,
@@ -331,47 +331,47 @@ the object, and to the very act of knowledge, ‏דעת יזדע והידוע‎
 ‏שכל משכייל ומושבל‎. See Abraham ben Dior's commentary to the Sefer
 Yetzirah, p. 27a.
 
-<span id="fn_113"></span>[81:6](rph11.htm#fr_113) Αὐτὸν δὲ νοεῖ ὁ νοῦς
+<span id="fn_113"></span>[81:6](rph11.htm#fr_113.md) Αὐτὸν δὲ νοεῖ ὁ νοῦς
 κατὰ μετάληψιν τοῦ νοητοῦ; νοητὸς γὰρ γίγνεται θιγγάνων καὶ νοῶν ὥστε
 ταυτὸν νοῦς καὶ νοητόν.--Metaphysics, Book 12.
 
-<span id="fn_114"></span>[81:7](rph11.htm#fr_114) See Wolf, Bibliotheca
+<span id="fn_114"></span>[81:7](rph11.htm#fr_114.md) See Wolf, Bibliotheca
 Hebraica, vol. I. Bayle, Dictionn. erit., article Abraham. Moreri, same
 article, etc.
 
-<span id="fn_115"></span>[82:8](rph11.htm#fr_115) Mantua edition, fol.
+<span id="fn_115"></span>[82:8](rph11.htm#fr_115.md) Mantua edition, fol.
 49a, ‏קול ורוח ודבור זהו רוח הקודש‎.
 
-<span id="fn_116"></span>[82:9](rph11.htm#fr_116) Saadia begins his
+<span id="fn_116"></span>[82:9](rph11.htm#fr_116.md) Saadia begins his
 Arabic preface with the following words: ‏הדא כתאב יסמא כתאב אלמבאדי
 מנסוב אלי אברהם אבינו עליה אלסלַם‎. "This book is called: Book of the
 Beginnings; it is attributed to our father Abraham (peace be with him)."
 Munk, l.c.
 
-<span id="fn_117"></span>[84:10](rph11.htm#fr_117) Babyl. Talmud, Tract,
+<span id="fn_117"></span>[84:10](rph11.htm#fr_117.md) Babyl. Talmud, Tract,
 Menahoth, 29b.
 
-<span id="fn_118"></span>[85:11](rph11.htm#fr_118) Babyl. Talmud, Tract.
+<span id="fn_118"></span>[85:11](rph11.htm#fr_118.md) Babyl. Talmud, Tract.
 Haggiga, 14a. ‏אמר לן ר׳ יוסי הגלילי עד מתי אתה עושה שכינה הול.‎
 
-<span id="fn_119"></span>[85:12](rph11.htm#fr_119) Babyl. Talmud, Tract.
+<span id="fn_119"></span>[85:12](rph11.htm#fr_119.md) Babyl. Talmud, Tract.
 Haggiga, 14a. It is said he knew how to deduct "heaps" of principles
 from the smallest particulars of the Biblical words. ‏תילי תילין על
 הלכות.‎
 
-<span id="fn_120"></span>[85:13](rph11.htm#fr_120) Morimus,
+<span id="fn_120"></span>[85:13](rph11.htm#fr_120.md) Morimus,
 Exercitationes biblicae, p. 374.
 
-<span id="fn_121"></span>[85:14](rph11.htm#fr_121) ‏והוא חבר ספר מכילתין
+<span id="fn_121"></span>[85:14](rph11.htm#fr_121.md) ‏והוא חבר ספר מכילתין
 וספר היצירה על הקבלה ויש ספר יצירה שחבר אברהם אשר הרמב״ן חבר פירוש גדול
 ונפלה עליו‎ Shal-sheleth ha-kabbalah, fol. 20b.
 
-<span id="fn_122"></span>[85:15](rph11.htm#fr_122) The first edition of
+<span id="fn_122"></span>[85:15](rph11.htm#fr_122.md) The first edition of
 the Sefer Yetzirah is the Mantua edition published in 1565; while the
 Chronicle, just mentioned, Shalsheleth hakabbalah (The Chain of
 Tradition) was printed already in Imola in 1549.
 
-<span id="fn_123"></span>[86:16](rph11.htm#fr_123) Isaac De Lattes
+<span id="fn_123"></span>[86:16](rph11.htm#fr_123.md) Isaac De Lattes
 really combined both statements by saying:‏מי התיר לר׳ עקיבה לבתוב ספר
 יצירה וקראהו משנה שהיתה שומה בפיהם בקבלה מאנרהם אבינו ע״ה ובא הרמב״ן
 הנודע בשערים מהללן וחבר עלין פי׳ ארוד.‎ "Who permitted R. Akkiba to
@@ -382,4 +382,4 @@ wide-spread, and made an exhaustive commentary to it?"--Jellinek.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Authenticity of the Zohar](rph12)
+[Next: Chapter III. The Authenticity of the Zohar](rph12.md)

@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft18)  [Next](efft20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft18)  [Next](efft20.md) 
 
 ------------------------------------------------------------------------
 
 # FAIRIES.
 
-## WORCESTERSHIRE FAIRIES.  <span id="fr_20"></span>[1](#fn_20)
+## WORCESTERSHIRE FAIRIES.  <span id="fr_20"></span>[1](#fn_20.md)
 
 ACCORDING to tradition, that interesting headland called Oseberrow, or
 Osebury (*vulgo* Rosebury) Rock, which lies not far from Alfrick, and is
@@ -65,9 +65,9 @@ in life
 
 ### Footnotes
 
-<span id="fn_20"></span>[1](efft19.htm#fr_20) Jabez Allies, *On the
+<span id="fn_20"></span>[1](efft19.htm#fr_20.md) Jabez Allies, *On the
 Antiquities and Folk-Lore of Worcestershire*, p. 413.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Midwife](efft20)
+[Next: The Fairy Midwife](efft20.md)

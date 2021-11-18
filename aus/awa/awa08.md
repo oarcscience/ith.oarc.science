@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](awa07)  [Next](awa09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](awa07)  [Next](awa09.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ the most moving voice
 
 ------------------------------------------------------------------------
 
-[Next: Women](awa09)
+[Next: Women](awa09.md)

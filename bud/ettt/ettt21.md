@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ettt20)  [Next](ettt22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ettt20)  [Next](ettt22.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Esoteric Teachings of the Tibetan Tantra*, by C.A. Musés, \[1961\], at
 Intangible Textual Heritage
 
@@ -73,7 +73,7 @@ Let the supreme path increasingly expand!"
 This book is called "The Six Yogas of Naropa, with the Successive
 Instructions Leading to the Profound Path—the Book with Three
 Confidences" \[i.e. The Book of Threefold Faith—see Note
-[1](ettt22.htm#an_n_nar:1) *Ed*.\].
+[1](ettt22.htm#an_n_nar:1.md) *Ed*.\].
 
 Because of repeated requests from the Lord Canopy of Fame
 (Mi-Dong-grogs-b’a-rgyal-mds’an) and the Reverend Canopy of Merit
@@ -96,6 +96,6 @@ May goodness and prosperity thrive!
 
 ------------------------------------------------------------------------
 
-[Next: Notes](ettt22)
+[Next: Notes](ettt22.md)
 
 </div>

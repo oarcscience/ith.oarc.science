@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cms40)  [Next](cms42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cms40)  [Next](cms42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874778662/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ we know to be true; we
 <span id="page_74">p. 74</span>
 
 know that to be true which we have experienced within
-[ourselves](errata.htm#4). Although we may have heard or read that this
+[ourselves](errata.htm#4.md). Although we may have heard or read that this
 or that thing is true, it is only when there is something within our own
 souls that corresponds or recognizes its truth, that it is true to us.
 This ought never to be lost sight of: we can effectively affirm only
@@ -80,4 +80,4 @@ find that a larger and greater experience has come into your life.
 
 ------------------------------------------------------------------------
 
-[Next: Keeping The Thing In Mind](cms42)
+[Next: Keeping The Thing In Mind](cms42.md)

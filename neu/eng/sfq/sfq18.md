@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq17)  [Next](sfq19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq17)  [Next](sfq19.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ deadly face again."
 
 ------------------------------------------------------------------------
 
-[Next: In the Cave of Despair](sfq19)
+[Next: In the Cave of Despair](sfq19.md)

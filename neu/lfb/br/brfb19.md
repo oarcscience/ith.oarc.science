@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb18)  [Next](brfb20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb18)  [Next](brfb20.md) 
 
 </div>
 
@@ -230,6 +230,6 @@ And so he did.
 
 ------------------------------------------------------------------------
 
-[Next: How Some Wild Animals Became Tame Ones](brfb20)
+[Next: How Some Wild Animals Became Tame Ones](brfb20.md)
 
 </div>

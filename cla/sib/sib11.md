@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Index](index)  [Previous](sib10)  [Next](sib12) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Index](index)  [Previous](sib10)  [Next](sib12.md) 
 
 ------------------------------------------------------------------------
 
@@ -692,4 +692,4 @@ And fearful madness, and give charming song.
 
 ------------------------------------------------------------------------
 
-[Next: Book XII.](sib12)
+[Next: Book XII.](sib12.md)

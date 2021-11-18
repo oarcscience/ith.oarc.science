@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](wott02)  [Next](wott04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](wott02)  [Next](wott04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -219,7 +219,7 @@ they did not inaugurate a revolutionary movement in Judaism. A careful
 analysis of the historical books of the Bible indicated that Jewish
 authorities in the past had, under certain circumstances, suspended the
 procedures of Biblical law. Thus the Bible (Deut. 17:6) requires two
-witnesses to [establish](errata.htm#1) the fact of culpable crime; no
+witnesses to [establish](errata.htm#1.md) the fact of culpable crime; no
 one was to be found guilty of crime on the basis of his own confession,
 without corroborating evidence. But Joshua (Joshua 7:24, 25) executed a
 soldier by the name of Achan when he confessed violating the orders of
@@ -237,7 +237,7 @@ suspend the fast on a Day of Atonement
 <span id="page_7">p. 7</span>
 
 in order to hold the dedication of the Temple which he had built in
-Jerusalem?<span id="an_r_01_1"></span>[1](wott11.htm#an_n_01_1)
+Jerusalem?<span id="an_r_01_1"></span>[1](wott11.htm#an_n_01_1.md)
 
 It is thus clear that in an emergency traditional law could be suspended
 for specified or unspecified periods of time. What was justified in the
@@ -264,7 +264,7 @@ problem of doctrine and law.' To which the Lord replied, 'There are no
 pre-existent final truths in doctrine or law; the truth is the
 considered judgment of the majority of authoritative interpreters in
 every generation.' …"<span
-id="an_r_01_2"></span>[2](wott11.htm#an_n_01_2)
+id="an_r_01_2"></span>[2](wott11.htm#an_n_01_2.md)
 
 The legal powers of a generation's duly authorized interpreters of
 tradition were looked upon as a function of their office, regardless of
@@ -281,7 +281,7 @@ enter your mind that a person would go to a judge who was not in his
 days! The meaning is that you are to be guided by a contemporary
 authority, whoever he be. As Scripture puts it (Eccles. 7:10), 'Say not,
 How was it that the former days were better than these.'"<span
-id="an_r_01_3"></span>[3](wott11.htm#an_n_01_3)
+id="an_r_01_3"></span>[3](wott11.htm#an_n_01_3.md)
 
 There is a beautiful rabbinic parable which dramatizes man's complete
 sovereignty in the development of what we may call the supplementary
@@ -319,7 +319,7 @@ blessed be He do in that hour? He laughed with joy, he replied, saying,
 'My sons have defeated me, my sons have defeated me.'" The Torah was
 given to men and human minds interpreting the Torah in accordance with
 their best judgments alone define what is or what is not law.<span
-id="an_r_01_4"></span>[4](wott11.htm#an_n_01_4)
+id="an_r_01_4"></span>[4](wott11.htm#an_n_01_4.md)
 
 #### THE METHOD OF MIDRASH HALAKAH
 
@@ -345,7 +345,7 @@ committed by children, and vice versa, behold it is explicitly stated,
 'Every man shall be put to death for his own sin!' (*ibid*) The meaning
 must therefore be: 'Fathers shall not be put to death by the evidence of
 children', and vice versa."<span
-id="an_r_01_5"></span>[5](wott11.htm#an_n_01_5)
+id="an_r_01_5"></span>[5](wott11.htm#an_n_01_5.md)
 
 <span id="page_10">p. 10</span>
 
@@ -365,7 +365,7 @@ shall let him go free for his tooth's sake." The specifications, eye and
 tooth, are seen in their common general aspects as vital irreplaceable
 bodily organs; and the same law is therefore applied to the mutilation
 of any organ in a slave's body, which is enough to send him to
-liberty.<span id="an_r_01_6"></span>[6](wott11.htm#an_n_01_6)
+liberty.<span id="an_r_01_6"></span>[6](wott11.htm#an_n_01_6.md)
 
 There were times when the midrash could not discover Biblical precedents
 and it became necessary to legislate, to add to or abrogate traditional
@@ -410,7 +410,7 @@ agent, and stipulated that the usual law of debt cancellation on the
 Sabbatical year shall not apply to this particular loan. The court was
 not included in the provisions of the Biblical law and was, therefore,
 technically free to carry on collections until the complete liquidation
-of the debt.<span id="an_r_01_7"></span>[7](wott11.htm#an_n_01_7)
+of the debt.<span id="an_r_01_7"></span>[7](wott11.htm#an_n_01_7.md)
 
 It was similarly through the circumvention that the rabbis reformed the
 Biblical code of criminal law. There had developed among the rabbis a
@@ -428,7 +428,7 @@ The two witnesses were expected to have warned the culprit of the
 criminality and legal consequences of his projected act; and the
 criminal was expected to have defied the warning with the assertion that
 he refuses to be deterred by them!<span
-id="an_r_01_8"></span>[8](wott11.htm#an_n_01_8)
+id="an_r_01_8"></span>[8](wott11.htm#an_n_01_8.md)
 
 But the midrash, through an ingenious technique of reinterpretation,
 discovered sanctions for the formal abrogation of old laws as well. Thus
@@ -469,7 +469,7 @@ and all law must therefore be superseded where the broader interests of
 life demand it. As one rabbi, ingeniously rendering the ambiguous verse
 in Psalm 119:126 expressed it: "When it is time to do for the sake of
 the Lord, they voided Thy Torah."<span
-id="an_r_01_9"></span>[9](wott11.htm#an_n_01_9)
+id="an_r_01_9"></span>[9](wott11.htm#an_n_01_9.md)
 
 #### THE METHOD OF MIDRASH HAGGADAH
 
@@ -516,7 +516,7 @@ and wine, beside forty shekels of silver.'" The discussion of the
 authorship of the different books of the Bible also led to the question
 who composed the last eight verses in Deuteronomy, which describe the
 death of Moses, and they were ascribed by some to the disciple of Moses,
-Joshua.<span id="an_r_01_10"></span>[10](wott11.htm#an_n_01_10)
+Joshua.<span id="an_r_01_10"></span>[10](wott11.htm#an_n_01_10.md)
 
 *Midrash haggadah* is frequently a defense of traditional doctrines
 against the challenge of contemporary skepticism. On one occasion Rabban
@@ -573,7 +573,7 @@ nations. It is
 thus abundantly demonstrated that even a pagan, provided he adheres to
 the moral discipline of the Torah is the equal of the highest ranking
 priest in Israel."<span
-id="an_r_01_11"></span>[11](wott11.htm#an_n_01_11)
+id="an_r_01_11"></span>[11](wott11.htm#an_n_01_11.md)
 
 #### THE MIDRASH AS LITERATURE
 
@@ -658,7 +658,7 @@ tempted to say, 'I will study the Torah so that I become rich, that I
 may be called master, that I may receive rewards in the world to come'.
 It is for this reason that the verse emphasizes, *to love the Lord your
 God;* whatever you do, let it be only with the motivation of true
-love."<span id="an_r_01_12"></span>[12](wott11.htm#an_n_01_12)
+love."<span id="an_r_01_12"></span>[12](wott11.htm#an_n_01_12.md)
 
 The Midrash was particularly suited for preaching purposes. In following
 the continuous text of the Bible it enabled the preacher to draw his
@@ -881,7 +881,7 @@ self-evident? We might have assumed that the physician's knowledge,
 being more authentic, ought to carry greater weight. If the physician
 says that he needs food, while the patient says that he does not, we
 heed the physician. Why? There is always the fear that the patient may
-be in stupor."<span id="an_r_01_13"></span>[13](wott11.htm#an_n_01_13)
+be in stupor."<span id="an_r_01_13"></span>[13](wott11.htm#an_n_01_13.md)
 
 Here is another Mishnah: "If debris falls on someone and it is doubtful
 whether or not he is there or whether he is alive or dead, one should
@@ -919,7 +919,7 @@ should have suggested a more convincing explanation. The Torah appraises
 its rules of life with *He shall live by them* (Lev. 18:5), implying
 clearly that one must not thwart life because of them.' Raba said: 'The
 other explanations may be refuted but that of Samuel is
-irrefutable'".<span id="an_r_01_14"></span>[14](wott11.htm#an_n_01_14)
+irrefutable'".<span id="an_r_01_14"></span>[14](wott11.htm#an_n_01_14.md)
 
 Our final illustration is taken from the field of civil law. The Mishnah
 provides: "If a person found something in a shop, it belongs to him;
@@ -959,7 +959,7 @@ shine in your country?' 'Certainly,' was the reply. 'Does rain descend
 in your country?' 'Of course.' 'Are there small animals in your
 country?' 'Of course'. 'A curse alight upon you! you only live, then, by
 the merit of those animals!'"<span
-id="an_r_01_15"></span>[15](wott11.htm#an_n_01_15)
+id="an_r_01_15"></span>[15](wott11.htm#an_n_01_15.md)
 
 <span id="page_27">p. 27</span>
 
@@ -986,4 +986,4 @@ the history of Jewish tradition.
 
 ------------------------------------------------------------------------
 
-[Next: The Forerunners of the Talmud](wott04)
+[Next: The Forerunners of the Talmud](wott04.md)

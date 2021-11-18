@@ -1,12 +1,12 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [List
-of Plates](bct01.htm#page_vii) [Previous Plate](bct_pl11) [Next
-Plate](bct_pl13)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [List
+of Plates](bct01.htm#page_vii) [Previous Plate](bct_pl11.md) [Next
+Plate](bct_pl13.md)
 
 ------------------------------------------------------------------------
 
 PLATE XII
 
-<span class="small">{facing [page 224](bct09.htm#page_224)}</span>
+<span class="small">{facing [page 224](bct09.htm#page_224.md)}</span>
 
 ![](pl12.jpg)
 
@@ -17,8 +17,8 @@ father Terah were living in Ur; this street must have been seen by these
 patriarchs. They are the first private houses of the period to be
 discovered, and their state of preservation is such that it is possible
 to reconstruct the general plan of the house of a well-to-do citizen of
-Ur. (*See* [page 284](bct12.htm#pl12).)</span>
+Ur. (*See* [page 284](bct12.htm#pl12)..md)</span>
 
 ------------------------------------------------------------------------
 
-[Next Plate](bct_pl13)
+[Next Plate](bct_pl13.md)

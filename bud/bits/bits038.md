@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int3) [Next](bits039)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bit-int3) [Next](bits039.md)
 
 ------------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ Will yield a blessing in the next."<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 39. The Cause of Inequality in the World](bits039)
+[Next: § 39. The Cause of Inequality in the World](bits039.md)
 
  
 

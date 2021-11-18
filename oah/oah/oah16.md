@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah15)  [Next](oah17) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah15)  [Next](oah17.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ successors forever to keep a like record.
 2\. And in the times of my harvest a copy of these records shall be
 taken up to My etherean kingdoms and filed with My Orian Chiefs and
 Archangels in the roadway of the travel of the great serpent, <span
-id="fr_1"></span>[1](#fn_1) for their deliberations as to the progress
+id="fr_1"></span>[1](#fn_1.md) for their deliberations as to the progress
 and management of the inhabitants of the earth and her heavens.
 
 3\. Think not, O ye angels, that the resurrection of your heirs, and
@@ -97,9 +97,9 @@ END OF BOOK OF JEHOVIH.
 
 ### Footnotes
 
-<span id="fn_1"></span>[13:1](oah16.htm#fr_1) The words GREAT SERPENT
+<span id="fn_1"></span>[13:1](oah16.htm#fr_1.md) The words GREAT SERPENT
 mean solar phalanx. See illustrations in Books of Ben and Saphah.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah17)
+[Next: Chapter I](oah17.md)

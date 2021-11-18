@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft49)  [Next](efft51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft49)  [Next](efft51.md) 
 
 ------------------------------------------------------------------------
 
-# THE WITCH AND THE TOAD  <span id="fr_57"></span>[1](#fn_57)
+# THE WITCH AND THE TOAD  <span id="fr_57"></span>[1](#fn_57.md)
 
 AN old woman called Alsey--usually Aunt Alsey--occupied a small cottage
 in Anthony, one of a row which belonged to a tradesman living in
@@ -118,9 +118,9 @@ deeply skilled in witchcraft than I am may perhaps tell.
 
 ### Footnotes
 
-<span id="fn_57"></span>[1](efft50.htm#fr_57) Robert Hunt, *Popular
+<span id="fn_57"></span>[1](efft50.htm#fr_57.md) Robert Hunt, *Popular
 Romances of the West of England*, 2nd series, p. 105.
 
 ------------------------------------------------------------------------
 
-[Next: Witch and Hare](efft51)
+[Next: Witch and Hare](efft51.md)

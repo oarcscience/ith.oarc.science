@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll10)  [Next](oll12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll10)  [Next](oll12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -33,7 +33,7 @@ It might arouse the Mother's wrath.
 Thy name, which is so dear to me,  
 Will surely pass from mouth to mouth.  
 Honour shall be shown to chosen ones, <span
-id="fr_52"></span>[1](#fn_52)  
+id="fr_52"></span>[1](#fn_52.md)  
 Who wish to close the outer gate.  
 Amuse thyself within the walls,  
 And no one then can say a word.  
@@ -145,7 +145,7 @@ What a serpent! What a puma!
 
 ### Footnotes
 
-<span id="fn_52"></span>[375:1](oll11.htm#fr_52) *Aclla Cuna*, the
+<span id="fn_52"></span>[375:1](oll11.htm#fr_52.md) *Aclla Cuna*, the
 selected ones, the Virgins of the Sun. They were under the supervision
 of so called Mothers--*Mama Cuna*. The novices were not obliged to take
 the oaths at the end of their novitiate.
@@ -154,6 +154,6 @@ the oaths at the end of their novitiate.
 
 ------------------------------------------------------------------------
 
-[Next: Scene 1](oll12)
+[Next: Scene 1](oll12.md)
 
 </div>

@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca19)  [Next](fsca21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca19)  [Next](fsca21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -35,7 +35,7 @@ in armory.<span id="img_09600"></span>
 
 |                                                                    |
 |--------------------------------------------------------------------|
-| ![Hercules and the Lernean Hydra. From Greek vase.](img/09600.jpg) |
+| ![Hercules and the Lernean Hydra. From Greek vase.](img/09600.jpg.md) |
 
 The terrible dragon, with one hundred heads, that guarded the golden
 apples of the Hesperides, slain by Hercules, was celebrated in classic
@@ -49,13 +49,13 @@ ancient gems usually represent it with seven or nine. Hercules was sent
 to kill it as one of his twelve labours. After driving the monster from
 its lair with arrows he attacked it with his sword, and in place
 
-<span id="img_09700"></span> ![The Hydra.](img/09700.jpg)
+<span id="img_09700"></span> ![The Hydra.](img/09700.jpg.md)
 
 of each head he struck off two sprang up. Setting fire to a neighbouring
 wood with the firebrands he seared the throat of the Hydra until he at
 length succeeded in slaying it. The fable is usually referred to in
 illustration of a difficulty which goes on increasing as it is combated.
-(*See* page [63](fsca14.htm#page_63).)
+(*See* page [63](fsca14.htm#page_63)..md)
 
 <div style="margin-left: 32px">
 
@@ -77,4 +77,4 @@ Avely, Essex. It is also borne by the names *Crespine* and *Downes*.
 
 ------------------------------------------------------------------------
 
-[Next: The Wyvern](fsca21)
+[Next: The Wyvern](fsca21.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth08) 
-[Next](dth10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth08.md) 
+[Next](dth10.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ confident man, and have no connection with his physical life. Such a man
 owing to his mind being at peace, is always capable of the best and
 highest effort. It is those whose minds are at rest who work the best.
 Therefore those who think that they can become
-[successful](errata.htm#16) without translating their thoughts into
+[successful](errata.htm#16.md) without translating their thoughts into
 actions, are deluding themselves.
 
  
@@ -392,4 +392,4 @@ idea which will make your life really successful and useful.
 
 ------------------------------------------------------------------------
 
-[Next: Part IX](dth10)
+[Next: Part IX](dth10.md)

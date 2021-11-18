@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr19)  [Next](ibr21) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr19)  [Next](ibr21.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ positions of the Indian tribes
 
 and villages, and whose notes on this subject illustrate the excellent
 work of Dr. Hawley on the early history of the Cayuga nation, <span
-id="fr_82"></span>[1](#fn_82) has favored me, in a recent letter, with
+id="fr_82"></span>[1](#fn_82.md) has favored me, in a recent letter, with
 the following brief but valuable summary of what is known in regard to
 the Iroquois towns:--
 
@@ -115,7 +115,7 @@ town from which the Oswego river took its name, or a town at the mouth
 of any other river; and Deyaokenh, "the Forks," may have been Tioga, or
 any other village at the junction of two streams. *Jonondese* ("it is a
 high hill") is perhaps the same name as Onontare, which in Charlevoix's
-map appears as Onnontatacet; <span id="fr_83"></span>[1](#fn_83) but the
+map appears as Onnontatacet; <span id="fr_83"></span>[1](#fn_83.md) but the
 name may well have been a common one. A few other apparent coincidences
 might be pointed out; but of most of the towns in the list we can only
 say that no trace remains in name or known locality, and that in some
@@ -130,13 +130,13 @@ work."
 
 ### Footnotes
 
-<span id="fn_82"></span>[184:1](ibr20.htm#fr_82) *Early Chapters of
+<span id="fn_82"></span>[184:1](ibr20.htm#fr_82.md) *Early Chapters of
 Cayuga History*: By Charles Hawley, D. D., President of the Cayuga
 Historical Society.
 
-<span id="fn_83"></span>[186:1](ibr20.htm#fr_83) See "Early Chapters of
+<span id="fn_83"></span>[186:1](ibr20.htm#fr_83.md) See "Early Chapters of
 Cayuga History," p. 4.
 
 ------------------------------------------------------------------------
 
-[Next: Note F: The Pre-Aryan Race in Europe and America](ibr21)
+[Next: Note F: The Pre-Aryan Race in Europe and America](ibr21.md)

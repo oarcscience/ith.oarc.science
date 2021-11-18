@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc02)  [Next](crc04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc02)  [Next](crc04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ shoulders,
 <span id="page_2">p. 2</span>
 
 and round shields with engraved edges, and the pillars <span
-id="fr_3"></span>[1](#fn_3) of a palace in the hand of each man.
+id="fr_3"></span>[1](#fn_3.md) of a palace in the hand of each man.
 
 'This is Cormac now,' said Medb.
 
@@ -75,11 +75,11 @@ many colours, and a golden pin in it; and a hooded tunic with red
 embroidery. She wore two shoes with buckles of gold. Her face was narrow
 below and broad above. Very black were her two eyebrows; her black
 delicate eyelashes cast a shadow into the middle of her two cheeks. You
-would think it was with *partaing* <span id="fr_4"></span>[2](#fn_4) her
+would think it was with *partaing* <span id="fr_4"></span>[2](#fn_4.md) her
 lips were adorned. You would think it was a shower of pearls that was in
 her mouth, that is, her teeth. She had three tresses: two tresses round
 her head above, and a tress behind, so that it struck her two thighs
-behind her. A shuttle <span id="fr_5"></span>[3](#fn_5) of white metal,
+behind her. A shuttle <span id="fr_5"></span>[3](#fn_5.md) of white metal,
 with an inlaying of gold, was in her hand. Each of her two eyes had
 three pupils. The maiden was armed, and there were two black horses to
 her chariot.
@@ -95,7 +95,7 @@ her chariot.
 'From Scotland, after learning the art of prophecy,' said the maiden.
 
 'Have you the inspiration (?): which illumines?' <span
-id="fr_6"></span>[1](#fn_6) said Medb.
+id="fr_6"></span>[1](#fn_6.md) said Medb.
 
 'Yes, indeed,' said the maiden.
 
@@ -108,7 +108,7 @@ how seest thou the host?'
 
 'That is not true,' said Medb; 'for Conchobar is in his sickness at
 Emain and the Ulstermen with him, with all the best <span
-id="fr_7"></span>[2](#fn_7) of their warriors; and my messengers have
+id="fr_7"></span>[2](#fn_7.md) of their warriors; and my messengers have
 come and brought me tidings thence.
 
 'Fedelm the prophetess, how seest thou our host?' said Medb.
@@ -138,7 +138,7 @@ great army. Look again for us then, and tell us the truth.
 
 'I see a fair man who will make play  
  With a number of wounds (?) on his girdle; <span
-id="fr_8"></span>[1](#fn_8)  
+id="fr_8"></span>[1](#fn_8.md)  
  A hero's flame over his head,  
  His forehead a meeting-place of victory.
 
@@ -150,7 +150,7 @@ id="fr_8"></span>[1](#fn_8)
 'He has a face that is noble,  
  Which causes amazement to women.  
  A young man who is fair of hue  
- Comes ———. <span id="fr_9"></span>[2](#fn_9)
+ Comes ———. <span id="fr_9"></span>[2](#fn_9.md)
 
 'Like is the nature of his valour  
  To Cuchulainn of Murthemne.  
@@ -170,15 +170,15 @@ id="fr_8"></span>[1](#fn_8)
 
 <div style="margin-left: 32px">
 
-'Two *Gae-bolga*, <span id="fr_10"></span>[1](#fn_10) he carries them,  
+'Two *Gae-bolga*, <span id="fr_10"></span>[1](#fn_10.md) he carries them,  
  Besides an ivory-hilted sword and spear;  
- ——— <span id="fr_11"></span>[2](#fn_11) he wields to the host;  
+ ——— <span id="fr_11"></span>[2](#fn_11.md) he wields to the host;  
  Different is the deed for which each arm goes from him.
 
 'A man in a battle-girdle (?), of a red cloak,  
  He puts ——— every plain.  
  He smites them, over left chariot wheel (?);  
- The Riastartha <span id="fr_12"></span>[3](#fn_12) wounds them.  
+ The Riastartha <span id="fr_12"></span>[3](#fn_12.md) wounds them.  
  The form that appeared to me on him hitherto,  
  I see that his form has been changed.
 
@@ -201,7 +201,7 @@ id="fr_8"></span>[1](#fn_8)
 
 </div>
 
-The Monday after Samain <span id="fr_13"></span>[4](#fn_13) they set
+The Monday after Samain <span id="fr_13"></span>[4](#fn_13.md) they set
 forth, and this is the way they took: south-east from Cruachan Ai,
 *i.e.* by Muicc Cruimb, by Teloch Teora Crich, by Tuaim Mona, by Cul
 Sibrinne, by Fid, by Bolga, by Coltain,
@@ -320,15 +320,15 @@ that it is there that Dubthach sang this song:
 'Grant what you have not heard hitherto,  
  Listening to the fight of Dubthach.  
  A hosting very black is before you,  
- Against Findbend <span id="fr_14"></span>[1](#fn_14) of the wife of
+ Against Findbend <span id="fr_14"></span>[1](#fn_14.md) of the wife of
 Ailill.
 
 'The man of expeditions will come  
  Who will defend (?) Murthemne.  
- Ravens will drink milk of ——— <span id="fr_15"></span>[2](#fn_15)  
+ Ravens will drink milk of ——— <span id="fr_15"></span>[2](#fn_15.md)  
  From the friendship of the swineherds.
 
-'The turfy Cronn <span id="fr_16"></span>[3](#fn_16) will resist them;  
+'The turfy Cronn <span id="fr_16"></span>[3](#fn_16.md) will resist them;  
  He will not let them into Murthemne  
  Until the work of warriors is over  
  In Sliab Tuad Ochaine.
@@ -364,10 +364,10 @@ Fergus, till they were in Iraird Cuillend, watching the host there.
 
 'I think of the host to-night,' said Cuchulainn to his father. 'Go from
 us with a warning to the Ulstermen. I am forced to go to a tryst with
-Fedelm Noichride, <span id="fr_17"></span>[1](#fn_17) from my own pledge
+Fedelm Noichride, <span id="fr_17"></span>[1](#fn_17.md) from my own pledge
 that went out to her.'
 
-He made a spancel-withe <span id="fr_18"></span>[2](#fn_18) then before
+He made a spancel-withe <span id="fr_18"></span>[2](#fn_18.md) then before
 he went, and wrote an ogam on its ———, and threw it on the top of the
 pillar.
 
@@ -424,7 +424,7 @@ Fergus replied:
 
 Then they went till they were in Iraird Cuillend. Eirr and Indell, Foich
 and Foclam (their two charioteers), the four sons of Iraird Mac
-Anchinne, <span id="fr_19"></span>[1](#fn_19) it is they who were before
+Anchinne, <span id="fr_19"></span>[1](#fn_19.md) it is they who were before
 the host, to protect their brooches and their cushions and their cloaks,
 that the dust of the host might not soil them. They found the withe that
 Cuchulainn threw, and perceived the grazing that the horses had grazed.
@@ -525,14 +525,14 @@ long time.
 
 'It is easier indeed to me than to you,' said Cuchulainn; 'for I have
 three gifts, the gifts of eye, and of mind, and of reckoning. I have put
-a reckoning <span id="fr_20"></span>[1](#fn_20) on this,' said he;
+a reckoning <span id="fr_20"></span>[1](#fn_20.md) on this,' said he;
 'there are eighteen cantreds,' said he, 'for their number; only that the
 eighteenth cantred is distributed among all the host, so that their
 number is not clear; that is, the cantred of the Leinstermen.'
 
 Then Cuchulainn went round the host till he was at Ath Gabla. <span
-id="fr_21"></span>[2](#fn_21) He cuts a fork <span
-id="fr_22"></span>[3](#fn_22) there with one blow of his sword, and put
+id="fr_21"></span>[2](#fn_21.md) He cuts a fork <span
+id="fr_22"></span>[3](#fn_22.md) there with one blow of his sword, and put
 it on the middle of the stream, so that a chariot could not pass it on
 this side or that. Eirr and Indell, Foich and Fochlam (their two
 charioteers) came upon him thereat. He strikes their four heads off, and
@@ -560,7 +560,7 @@ struck.'
 
 'It was not that that was a marvel,' said Fergus; 'it was the striking
 of the fork from the trunk with one blow; and if the end was \[cut\]
-with one blow, <span id="fr_23"></span>[1](#fn_23) it is the fairer for
+with one blow, <span id="fr_23"></span>[1](#fn_23.md) it is the fairer for
 it, and that it was thrust in in this manner; for it is not a hole that
 has been dug for it, but it is from the back of the chariot it has been
 thrown with one hand.'
@@ -639,78 +639,78 @@ deed to-day; for even when he was younger his deeds were manly.'
 
 ### Footnotes
 
-<span id="fn_3"></span>[2:1](crc03.htm#fr_3) *i.e.* spears as large as
+<span id="fn_3"></span>[2:1](crc03.htm#fr_3.md) *i.e.* spears as large as
 pillars, etc.
 
-<span id="fn_4"></span>[2:2](crc03.htm#fr_4) Exact meaning unknown. It
+<span id="fn_4"></span>[2:2](crc03.htm#fr_4.md) Exact meaning unknown. It
 is always used in this connection.
 
-<span id="fn_5"></span>[2:3](crc03.htm#fr_5) Literally, a beam used for
+<span id="fn_5"></span>[2:3](crc03.htm#fr_5.md) Literally, a beam used for
 making fringe.
 
-<span id="fn_6"></span>[3:1](crc03.htm#fr_6) Ir. *imbas forasnai*, the
+<span id="fn_6"></span>[3:1](crc03.htm#fr_6.md) Ir. *imbas forasnai*, the
 name of a kind of divination.
 
-<span id="fn_7"></span>[3:2](crc03.htm#fr_7) Conjectural; some letters
+<span id="fn_7"></span>[3:2](crc03.htm#fr_7.md) Conjectural; some letters
 missing. For the Ulster sickness, see Introduction.
 
-<span id="fn_8"></span>[4:1](crc03.htm#fr_8) Unless this is an allusion
+<span id="fn_8"></span>[4:1](crc03.htm#fr_8.md) Unless this is an allusion
 to the custom of carrying an enemy's head at the girdle, the meaning is
 obscure. LL has quite a different reading. The language of this poem is
 late.
 
-<span id="fn_9"></span>[4:2](crc03.htm#fr_9) Five syllables missing.
+<span id="fn_9"></span>[4:2](crc03.htm#fr_9.md) Five syllables missing.
 
-<span id="fn_10"></span>[5:1](crc03.htm#fr_10) The Gae-bolga was a
+<span id="fn_10"></span>[5:1](crc03.htm#fr_10.md) The Gae-bolga was a
 special kind of spear, which only Cuchulainn could use.
 
-<span id="fn_11"></span>[5:2](crc03.htm#fr_11) Three syllables missing.
+<span id="fn_11"></span>[5:2](crc03.htm#fr_11.md) Three syllables missing.
 
-<span id="fn_12"></span>[5:3](crc03.htm#fr_12) The Riastartha (\`
+<span id="fn_12"></span>[5:3](crc03.htm#fr_12.md) The Riastartha (\`
 distorted one') was a name given to Cuchulainn because of the
 contortion, described later, which came over him.
 
-<span id="fn_13"></span>[5:4](crc03.htm#fr_13) Samain, 'summer-end,'
+<span id="fn_13"></span>[5:4](crc03.htm#fr_13.md) Samain, 'summer-end,'
 about the beginning of November.
 
-<span id="fn_14"></span>[9:1](crc03.htm#fr_14) Findbennach, the
+<span id="fn_14"></span>[9:1](crc03.htm#fr_14.md) Findbennach, the
 Whitehorned; *i.e.* the other of the two bulls in whom the rival
 swineherds were reincarnated.
 
-<span id="fn_15"></span>[9:2](crc03.htm#fr_15) Some kenning for blood?
+<span id="fn_15"></span>[9:2](crc03.htm#fr_15.md) Some kenning for blood?
 
-<span id="fn_16"></span>[9:3](crc03.htm#fr_16) *i.e.* the river Cronn.
+<span id="fn_16"></span>[9:3](crc03.htm#fr_16.md) *i.e.* the river Cronn.
 This line is a corruption of a reference which occurs later, in the
 account of the flooding of the Cronn, as Professor Strachan first
 pointed out to me.
 
-<span id="fn_17"></span>[10:1](crc03.htm#fr_17) Gloss incorporated in
+<span id="fn_17"></span>[10:1](crc03.htm#fr_17.md) Gloss incorporated in
 the text: 'that is, with her servant,' etc.
 
-<span id="fn_18"></span>[10:2](crc03.htm#fr_18) This was a twig twisted
+<span id="fn_18"></span>[10:2](crc03.htm#fr_18.md) This was a twig twisted
 in the form of two rings, joined by one straight piece, as used for
 hobbling horses and cattle.
 
-<span id="fn_19"></span>[11:1](crc03.htm#fr_19) Marginal gloss: 'or the
+<span id="fn_19"></span>[11:1](crc03.htm#fr_19.md) Marginal gloss: 'or the
 four sons of Nera Mac Nuado Mac Taccain, as it is found in other books.'
 
-<span id="fn_20"></span>[14:1](crc03.htm#fr_20) Marginal gloss: 'This is
+<span id="fn_20"></span>[14:1](crc03.htm#fr_20.md) Marginal gloss: 'This is
 one of the three severest and most difficult reckonings made in Ireland;
 *i.e.* Cuchulainn's reckoning of the men of Ireland on the Tain; and
 Lug's reckoning of the Fomorian hosts at the battle of Mag Tured; and
 Ingcel's reckoning of the hosts at the Bruiden Da Derga.'
 
-<span id="fn_21"></span>[14:2](crc03.htm#fr_21) LU has Ath Grena.
+<span id="fn_21"></span>[14:2](crc03.htm#fr_21.md) LU has Ath Grena.
 
-<span id="fn_22"></span>[14:3](crc03.htm#fr_22) *i.e.* fork of a tree.
+<span id="fn_22"></span>[14:3](crc03.htm#fr_22.md) *i.e.* fork of a tree.
 
-<span id="fn_23"></span>[15:1](crc03.htm#fr_23) Lit. 'if its end was one
+<span id="fn_23"></span>[15:1](crc03.htm#fr_23.md) Lit. 'if its end was one
 cutting.'
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Cuchulainn's Boyish Deeds](crc04)
+[Next: Cuchulainn's Boyish Deeds](crc04.md)
 
 </div>

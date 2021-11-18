@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Copyright FAQ](../faq) 
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Copyright FAQ](../faq.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ the 1970 US Games deck.
 
 ------------------------------------------------------------------------
 
-[Introduction](tcc00)  
-[The Fool](tcc01)  
-[The High Priestess](tcc02)  
-[The Sun](tcc03)  
+[Introduction](tcc00.md)  
+[The Fool](tcc01.md)  
+[The High Priestess](tcc02.md)  
+[The Sun](tcc03.md)  

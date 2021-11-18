@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](rls14)  [Next](rls16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](rls14)  [Next](rls16.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ men gods, without much ado about it.
 
 ------------------------------------------------------------------------
 
-[Next: Mozoomdar's Judgement](rls16)
+[Next: Mozoomdar's Judgement](rls16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa46)  [Next](psa48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa46)  [Next](psa48.md) 
 
 ------------------------------------------------------------------------
 
@@ -402,4 +402,4 @@ There were rejoicings and festivities in every house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVII](psa48)
+[Next: Chapter XLVII](psa48.md)

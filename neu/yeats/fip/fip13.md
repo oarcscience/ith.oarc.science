@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip12)  [Next](fip14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip12)  [Next](fip14.md) 
 
 ------------------------------------------------------------------------
 
@@ -208,4 +208,4 @@ fairy tunes again.
 
 ------------------------------------------------------------------------
 
-[Next: A Donegal Fairy, by Letitia Maclintock](fip14)
+[Next: A Donegal Fairy, by Letitia Maclintock](fip14.md)

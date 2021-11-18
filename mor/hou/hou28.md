@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou27)  [Next](hou29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou27)  [Next](hou29.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -55,29 +55,29 @@ second time in its history no quorum of the first presidency, to which
 authority, and to no other, as the prophet Joseph had declared, the
 twelve were subject. Once more, therefore, until the presidency was
 reorganized, the apostles must step forward and take its duties upon
-themselves. <span id="fr_1122"></span>[1](#fn_1122) At a meeting of the
+themselves. <span id="fr_1122"></span>[1](#fn_1122.md) At a meeting of the
 quorum, held two days after the obsequies of Brigham, ten of the number
-being present, <span id="fr_1123"></span>[2](#fn_1123) it was
+being present, <span id="fr_1123"></span>[2](#fn_1123.md) it was
 unanimously resolved that John Taylor, the senior apostle and acting
 president of the apostles, should be sustained in his office, and that
 the quorum should be the presiding authority of the church. <span
-id="fr_1124"></span>[3](#fn_1124) But this resolution, as well as the
+id="fr_1124"></span>[3](#fn_1124.md) But this resolution, as well as the
 election of all the authorities of the church, from the twelve down to
 the deacons and teachers, must be indorsed by a vote of each quorum of
 the priesthood and of the people assembled in conference.
 
     The forty-eighth semi-annual conference of the church was held, as
 was now the custom, in the great tabernacle; <span
-id="fr_1125"></span>[4](#fn_1125) and in addition to the general
+id="fr_1125"></span>[4](#fn_1125.md) and in addition to the general
 congregation, there were present more than five thousand of the
 priesthood. First was presented the name of John Taylor; then in their
 order and separately those of each member of the twelve, together with
 councillors John W. Young and Daniel H. Wells, <span
-id="fr_1126"></span>[5](#fn_1126) the
+id="fr_1126"></span>[5](#fn_1126.md) the
 
 <span id="page_679">p. 679</span>
 
-patriarch of the church, <span id="fr_1127"></span>[6](#fn_1127) the
+patriarch of the church, <span id="fr_1127"></span>[6](#fn_1127.md) the
 presidents of the seventies, and other church dignitaries, concluding
 with the lesser priesthood. The votes were cast first by the twelve,
 then by the patriarchs, presidents of stakes, and high councils, after
@@ -93,7 +93,7 @@ this vast gathering there was not a dissenting vote. As the quorums rose
 to their feet, and with uplifted hand vowed to sustain those whom their
 leaders had chosen, the choice was in every instance confirmed by
 assembled Israel. It was evident that, as yet, the church was in no
-danger of dissolution. <span id="fr_1128"></span>[7](#fn_1128)
+danger of dissolution. <span id="fr_1128"></span>[7](#fn_1128.md)
 
     Addressing the congregation, President Taylor remarked that the
 apostles were thankful for the confidence and faith that had been
@@ -109,20 +109,20 @@ of God would roll forth, and the favor and blessing of God would rest
 upon us." "No man need think this work would stop. It would go on and
 increase until the purposes of Jehovah were accomplished, and no power
 on earth or in hell could stay its progress." Three years
-afterward <span id="fr_1129"></span>[8](#fn_1129) John Taylor was
+afterward <span id="fr_1129"></span>[8](#fn_1129.md) John Taylor was
 elected president of the Church of Jesus Christ of Latter-day Saints,
 with George Q. Cannon and Joseph F. Smith as councillors. The vacancies
 which thus occurred in the quorum of the twelve were partially filled by
-the election of Francis M. Lyman <span id="fr_1130"></span>[9](#fn_1130)
+the election of Francis M. Lyman <span id="fr_1130"></span>[9](#fn_1130.md)
 and
 
 <span id="page_681">p. 681</span>
 
 <span class="contnote">\[paragraph continues\]</span> John Henry
-Smith, <span id="fr_1131"></span>[10](#fn_1131) George Teasdale and
+Smith, <span id="fr_1131"></span>[10](#fn_1131.md) George Teasdale and
 Heber J. Grant being chosen to the apostolate on the death of Orson
 Pratt, which occurred in October 1881. <span
-id="fr_1132"></span>[11](#fn_1132)
+id="fr_1132"></span>[11](#fn_1132.md)
 
 <span id="page_682">p. 682</span>
 
@@ -131,7 +131,7 @@ old man, deformed and crippled,' and Mrs. Ferris as a 'heavy, dark
 colored, beetle-brewed man.' Of course I could not recognize him from
 these descriptions—a stout, good-looking, somewhat elderly personage,
 with a kindly gray eye, pleasant expression, and a forehead of the
-superior order." <span id="fr_1133"></span>[12](#fn_1133) When I was
+superior order." <span id="fr_1133"></span>[12](#fn_1133.md) When I was
 introduced to him in 1884, Mr Taylor being then in his seventy-seventh
 year, there stepped forward with a quick, decisive, nervous tread,
 greeting me with a smile and a cordial shake of the hand, a
@@ -142,7 +142,7 @@ slightly tinged with melancholy, such as might be expected from one who
 had passed through many trying scenes, not the least among which was the
 escape, as by a miracle, from the tragedy of Carthage jail, and who knew
 that he had still many trials to undergo. <span
-id="fr_1134"></span>[13](#fn_1134)
+id="fr_1134"></span>[13](#fn_1134.md)
 
     Days of tribulation were indeed at hand. The saints, who for so many
 years had been buffeted, afflicted, tormented for opinion's sake, were
@@ -155,7 +155,7 @@ inoperative, although declared constitutional
 by the supreme court of the United States. Under the Poland bill only
 one conviction was made, that of George Reynolds, private secretary to
 Brigham, the man being sentenced to fine and imprisonment. <span
-id="fr_1135"></span>[14](#fn_1135) Both these measures were sufficiently
+id="fr_1135"></span>[14](#fn_1135.md) Both these measures were sufficiently
 ill-advised, and rank, perhaps, among the clumsiest specimens of
 legislation as yet devised by man; but it remained for the Edmunds bill
 to cap the climax of absurdity by virtually setting aside the statute of
@@ -164,7 +164,7 @@ time with other than their legal wives.
 
     By the provisions of this bill, approved March 22, 1882. and of
 which brief mention has already been made, <span
-id="fr_1136"></span>[15](#fn_1136) polygamists were made liable to
+id="fr_1136"></span>[15](#fn_1136.md) polygamists were made liable to
 punishment by fine not exceeding $500 and imprisonment not exceeding
 five years, the president being authorized to grant amnesty on such
 conditions as he saw fit to those who might have offended before the
@@ -191,14 +191,14 @@ voters, the conduct of elections, the receiving, rejection, canvassing,
 and return of votes, and the issuing of certificates, were to be
 performed by persons selected by a board of five commissioners, of whom
 three might belong to the same political party. <span
-id="fr_1137"></span>[16](#fn_1137) After scrutiny by the board of the
+id="fr_1137"></span>[16](#fn_1137.md) After scrutiny by the board of the
 returns of all votes for members of the legislative assembly,
 certificates were to be issued to those who had been legally elected,
 and on or after the first meeting of an assembly, the members of which
 had been so elected, that body might make such laws as it saw fit
 concerning the offices declared vacant, provided they were not
 inconsistent with the organic act and with the laws of the United
-States. <span id="fr_1138"></span>[17](#fn_1138)
+States. <span id="fr_1138"></span>[17](#fn_1138.md)
 
     The Edmunds act, intended to be supplementary to the act of 1862 and
 to the Poland bill, is virtually a penal statute, as indicated by its
@@ -261,7 +261,7 @@ composed entirely of gentiles, thus giving to twenty-two, or at that
 date perhaps twenty-five, per cent of the population the control of the
 entire criminal proceedings in Utah, although more than seven eighths of
 the arrests made in the territory were among gentile citizens. <span
-id="fr_1139"></span>[18](#fn_1139)
+id="fr_1139"></span>[18](#fn_1139.md)
 
     Before striving to regenerate the Mormons, it would seem that
 congress should have attempted the regeneration of the gentile portion
@@ -269,7 +269,7 @@ of the population of Utah. At the time when the Edmunds bill was passed,
 all the keepers of brothels, and nearly all the gamesters and
 saloon-keepers, were gentiles. Two hundred out of the two hundred and
 fifty towns and villages in the territory contained not a single
-bagnio. <span id="fr_1140"></span>[19](#fn_1140) Until gentiles settled
+bagnio. <span id="fr_1140"></span>[19](#fn_1140.md) Until gentiles settled
 in Salt Lake City there were seldom heard in its streets or dwellings
 oaths, imprecations, or expletives; there were no place-hunters or
 beggar-politicians; there was no harlotry;
@@ -287,12 +287,12 @@ most industrious, sober, and thrifty communities in the world.
 Mormons once more asked that Utah be admitted as a state. Seventy-two
 delegates from the different counties met at Salt Lake City, and during
 a nine days’ session drew up a constitution, <span
-id="fr_1141"></span>[20](#fn_1141) which was duly presented by Delegate
+id="fr_1141"></span>[20](#fn_1141.md) which was duly presented by Delegate
 John T. Caine, but with the usual result; and now the Mormons were left
 to the tender mercies of the commission. The members <span
-id="fr_1142"></span>[21](#fn_1142) went to work vigorously; between 1882
+id="fr_1142"></span>[21](#fn_1142.md) went to work vigorously; between 1882
 and 1884 some twelve thousand persons were disfranchised, <span
-id="fr_1143"></span>[22](#fn_1143) and at the latter date all the
+id="fr_1143"></span>[22](#fn_1143.md) and at the latter date all the
 municipal and other officers in the territory living in polygamy or
 unlawful cohabitation were superseded, each elector being also required
 to swear that he was not so living. It would be a curious subject for
@@ -326,7 +326,7 @@ earns a dollar by the sweat of his brow is entitled to that dollar. It
 is the reward of honest toil, and he should be protected in the full
 enjoyment of it. Any exaction or undue influence to dispossess him of
 any part of it, in any other manner than in payment of a legal
-obligation, is oppression." <span id="fr_1144"></span>[23](#fn_1144) One
+obligation, is oppression." <span id="fr_1144"></span>[23](#fn_1144.md) One
 would think that after two years’ residence in Utah the governor ought
 to have learned at least that, among the saints, the payment of tithes
 is an optional matter.
@@ -334,13 +334,13 @@ is an optional matter.
     Among the first important acts of Governor Murray was to grant to
 Allan G. Campbell a certificate of election as delegate to congress,
 although he received only 1,350 votes as against 18,568 polled for
-George Q. Cannon, <span id="fr_1145"></span>[24](#fn_1145) and to
+George Q. Cannon, <span id="fr_1145"></span>[24](#fn_1145.md) and to
 declare that the latter
 
 <span id="page_689">p. 689</span>
 
 was not a citizen of the United States, <span
-id="fr_1146"></span>[25](#fn_1146) notwithstanding that he held a
+id="fr_1146"></span>[25](#fn_1146.md) notwithstanding that he held a
 certificate of citizenship. Thus the chief magistrate took upon himself
 a function altogether
 
@@ -363,7 +363,7 @@ composed of men loyal to the constitution and the laws, there would come
 that adjustment of wrongs and termination of contentions so earnestly
 prayed for by those in Utah who possess the intelligence and one third
 of the wealth of the territory." <span
-id="fr_1147"></span>[26](#fn_1147) To the Mormons, as it would seem, he
+id="fr_1147"></span>[26](#fn_1147.md) To the Mormons, as it would seem, he
 denied the attribute of intelligence; and by such rulers, with scarce an
 exception, has this people been misgoverned—a people which to impartial
 observers has been subjected to abuse, calumny, and persecution such as
@@ -373,7 +373,7 @@ are almost without parallel, even in their Hebrew prototype.
 
 ### Footnotes
 
-<span id="fn_1122"></span>[678:1](hou28.htm#fr_1122) At the conference
+<span id="fn_1122"></span>[678:1](hou28.htm#fr_1122.md) At the conference
 above mentioned, George Q. Cannon remarked that some had been much
 exercised about the organization of a first presidency, 'but he wished
 them distinctly to understand that whenever God commanded a first
@@ -381,19 +381,19 @@ presidency to be appointed it would not be revealed through any one but
 his servant, who was now God's mouthpiece.' *Deseret News*, Oct. 10,
 1877.
 
-<span id="fn_1123"></span>[678:2](hou28.htm#fr_1123) Apostles Orson
+<span id="fn_1123"></span>[678:2](hou28.htm#fr_1123.md) Apostles Orson
 Pratt and Joseph F. Smith were in England at the time. *Millennial
 Star*, xxxix. 682. They arrived two or three weeks later. See *Deseret
 News*, Oct. 10, 1877.
 
-<span id="fn_1124"></span>[678:3](hou28.htm#fr_1124) General Epistle of
+<span id="fn_1124"></span>[678:3](hou28.htm#fr_1124.md) General Epistle of
 the Twelve, in *Millennial Star*, xxxix. 680-4. See also *Deseret News*,
 September 12, 1877; *Mormon Pamphlets, Religious*, no. 16.
 
-<span id="fn_1125"></span>[678:4](hou28.htm#fr_1125) Completed in 1870.
+<span id="fn_1125"></span>[678:4](hou28.htm#fr_1125.md) Completed in 1870.
 A description of it is given elsewhere in this vol.
 
-<span id="fn_1126"></span>[678:5](hou28.htm#fr_1126) Daniel H. Wells was
+<span id="fn_1126"></span>[678:5](hou28.htm#fr_1126.md) Daniel H. Wells was
 a native of Oneida co., N.Y., his father, who was a direct descendant of
 the fourth governor of Connecticut, having served in the <span
 id="page_679">p. 679</span> war of 1812, while his mother, née Catherine
@@ -415,7 +415,7 @@ is mentioned elsewhere in these pages. *Wells’ Narr.*, MS., 1-8;
 *Tullidge's Life of Brig. Young*, suppl. 13-17; *The Mormons at Home*,
 114-15; *Beadle's Western Wilds*, 93.
 
-<span id="fn_1127"></span>[679:6](hou28.htm#fr_1127) John Smith, son of
+<span id="fn_1127"></span>[679:6](hou28.htm#fr_1127.md) John Smith, son of
 Hyrum Smith, was a native of Kirtland, where he was born in 1832. Nearly
 two years after the assassination of his father in Carthage jail the boy
 set forth from Nauvoo in company with Heber C. Kimball's family.
@@ -450,13 +450,13 @@ After his return the patriarch was engaged in the duties of his calling
 and in attending to his business interests. *Autobiog. of John Smith*,
 MS.
 
-<span id="fn_1128"></span>[680:7](hou28.htm#fr_1128) For account of this
+<span id="fn_1128"></span>[680:7](hou28.htm#fr_1128.md) For account of this
 conference, see *Deseret News*, Oct. 10, 17, 1877.
 
-<span id="fn_1129"></span>[680:8](hou28.htm#fr_1129) At the general
+<span id="fn_1129"></span>[680:8](hou28.htm#fr_1129.md) At the general
 conference, commencing on the 6th of October, 1880.
 
-<span id="fn_1130"></span>[680:9](hou28.htm#fr_1130) Francis Marion, the
+<span id="fn_1130"></span>[680:9](hou28.htm#fr_1130.md) Francis Marion, the
 eldest son of Amasa Lyman, a pioneer, who was excommunicated in 1870,
 was but seven years of age at the date of the exodus from Nauvoo. As an
 instance of the experience of Mormon evangelists, it may be mentioned
@@ -468,7 +468,7 @@ until 1877, when he was appointed president of the Tooele stake. In 1860
 he was elected a member of the legislature, and on the death of Orson
 Pratt was appointed speaker of the house of representatives.
 
-<span id="fn_1131"></span>[681:10](hou28.htm#fr_1131) The son of George
+<span id="fn_1131"></span>[681:10](hou28.htm#fr_1131.md) The son of George
 A. Smith, and a native of Winter Quarters, where he was born Sept. 18,
 1848. The first portion of his life was spent mainly at Provo, where he
 worked on a farm until 1874, when he was sent on a mission to Europe,
@@ -479,7 +479,7 @@ served until called to the apostolate. For six years he was a member of
 the city council, and in August 1881 was elected a member of the
 legislature, where he soon became one of the most prominent debaters.
 
-<span id="fn_1132"></span>[681:11](hou28.htm#fr_1132) Orson Pratt, in
+<span id="fn_1132"></span>[681:11](hou28.htm#fr_1132.md) Orson Pratt, in
 1881 the only surviving member of the first quorum of the twelve, was
 accounted one of the most eloquent preachers in the church; and for his
 championship of the cause, as a speaker and writer, was known as the
@@ -536,10 +536,10 @@ considerably over six feet, Mr Grant affords a striking example of the
 energy displayed by the descendants of the Mormon patriarchs. *Autobiog.
 of Heber J. Grant*, MS.
 
-<span id="fn_1133"></span>[682:12](hou28.htm#fr_1133) *City of the
+<span id="fn_1133"></span>[682:12](hou28.htm#fr_1133.md) *City of the
 Saints*, 328.
 
-<span id="fn_1134"></span>[682:13](hou28.htm#fr_1134) Descriptions of
+<span id="fn_1134"></span>[682:13](hou28.htm#fr_1134.md) Descriptions of
 President Taylor's appearance will be found in many of the books written
 on Mormonism, some of them fair and accurate, as is Burton's, and others
 varying in degrees of absurdity from that of Lady Duffus-Hardy, who
@@ -551,7 +551,7 @@ his appearance, manner, and speech were those of a member of the British
 parliament. See *Duffus-Hardy's Through Cities and Prairie Lands*, 117;
 *Deseret News*, Nov. 12, 1879.
 
-<span id="fn_1135"></span>[683:14](hou28.htm#fr_1135) He was indicted
+<span id="fn_1135"></span>[683:14](hou28.htm#fr_1135.md) He was indicted
 and convicted at S. L. City in 1874. An appeal was taken to the supreme
 court of Utah, and the case dismissed on the ground that the grand jury
 had been illegally constituted. In October 1875 he was again indicted,
@@ -562,14 +562,14 @@ supreme court by the attorney-general for the prosecution, and by Sheeks
 jail in Jan. 1879. For review of the decision of the supreme court by
 George Q. Cannon, see *Utah Pamphlets, Political*, no. 19.
 
-<span id="fn_1136"></span>[683:15](hou28.htm#fr_1136) See [p.
-395](hou18.htm#page_395), this volume.
+<span id="fn_1136"></span>[683:15](hou28.htm#fr_1136.md) See [p.
+395](hou18.htm#page_395.md), this volume.
 
-<span id="fn_1137"></span>[684:16](hou28.htm#fr_1137) The secretary of
+<span id="fn_1137"></span>[684:16](hou28.htm#fr_1137.md) The secretary of
 the territory was to be the secretary of the board, keep a journal of
 its proceedings, and attest its action.
 
-<span id="fn_1138"></span>[684:17](hou28.htm#fr_1138) For copy of the
+<span id="fn_1138"></span>[684:17](hou28.htm#fr_1138.md) For copy of the
 Edmunds act, see *United States Statutes*, 47th Cong. 1st Sess., 30-2;
 *Utah Commission*, 1-5; *S. F. Call*, Feb. 17, 1882. As soon as its
 passage became known in Utah, petitions asking congress to send a
@@ -589,25 +589,25 @@ senate were afterward published in the form of a pamphlet entitled
 *Defence of the Constitutional and Religious Rights of the People of
 Utah*.
 
-<span id="fn_1139"></span>[686:18](hou28.htm#fr_1139) For criminal
+<span id="fn_1139"></span>[686:18](hou28.htm#fr_1139.md) For criminal
 statistics, taken mainly from the census of 1880, see [p.
-394](hou18.htm#page_394), this vol.
+394](hou18.htm#page_394.md), this vol.
 
-<span id="fn_1140"></span>[686:19](hou28.htm#fr_1140) *Utah and its
+<span id="fn_1140"></span>[686:19](hou28.htm#fr_1140.md) *Utah and its
 People*, 21. Of the gamblers 98 per cent were gentiles, and of the
 saloon-keepers 94 per cent.
 
-<span id="fn_1141"></span>[687:20](hou28.htm#fr_1141) For copy, see
+<span id="fn_1141"></span>[687:20](hou28.htm#fr_1141.md) For copy, see
 *Constit. State of Utah*. Its provisions were directed mainly against
 the Edmunds bill.
 
-<span id="fn_1142"></span>[687:21](hou28.htm#fr_1142) Their names were
+<span id="fn_1142"></span>[687:21](hou28.htm#fr_1142.md) Their names were
 Alex. Ramsey of Minnesota, Algernon S. Paddock of Nebraska, G. F.
 Godfrey of Iowa, Ambrose B. Carleton of Indiana, and James R. Pettigrew
 of Arkansas. For brief biographical sketches of these men, see
 *Contrib*., iii. 315-16.
 
-<span id="fn_1143"></span>[687:22](hou28.htm#fr_1143) *Special Rept Utah
+<span id="fn_1143"></span>[687:22](hou28.htm#fr_1143.md) *Special Rept Utah
 Commission*, 1884, p. 18. In *Barclay's Mormonism Exposed*, 18, the
 number is erroneously given at 16,000. *Mormonism Exposed, The Other
 Side, an English View of the Case, by James W. Barclay*, is a pamphlet
@@ -620,12 +620,12 @@ opinion, grow, and probably be the religion of the settlers or farming
 classes in the mountainous country between the great plains east of the
 Rocky Mountains and California on the west.'
 
-<span id="fn_1144"></span>[688:23](hou28.htm#fr_1144) The governor's
+<span id="fn_1144"></span>[688:23](hou28.htm#fr_1144.md) The governor's
 messages for each year will be found in *Utah Jour. Legisl*., and of
 late years have been printed in pamphlet form. See also the files of the
 *Deseret News*, and other Utah journals.
 
-<span id="fn_1145"></span>[688:24](hou28.htm#fr_1145) *Barclay's
+<span id="fn_1145"></span>[688:24](hou28.htm#fr_1145.md) *Barclay's
 Mormonism Exposed*, 18-19. The certificate was rejected by <span
 id="page_689">p. 689</span> congress. For papers in the case, see *House
 Misc. Doc*., 47th Cong. 1st Sess., no. 25. The seat was declared vacant,
@@ -656,7 +656,7 @@ Utah legislature, see *Utah Laws and Utah Acts Legisl*., 1870, pp.
 95-6; 1882, 106, passim; *Utah Jour. Legisl*., 1872, pp. 234, 1876,
 24-5, 31, 104-5; 1878, 36, 45-6, 225-6, 339, passim.
 
-<span id="fn_1146"></span>[689:25](hou28.htm#fr_1146) *S. F. Call*, Jan.
+<span id="fn_1146"></span>[689:25](hou28.htm#fr_1146.md) *S. F. Call*, Jan.
 9, 1881. As the reader is probably aware, the Edmunds act was declared
 constitutional by the supreme court of the United States. For decision,
 see *S. F. Alta*, March 24, 1885. For arguments against the act, see,
@@ -699,7 +699,7 @@ prosecutions in Arizona, see *Id*., Sept. 29, Nov. 28, 1884; Apr. 8, 13,
 21, 1885. In 1880 further alterations were made in the first and third
 judicial districts, for which, see *Utah Laws*, 1880, pp. 67-8.
 
-<span id="fn_1147"></span>[690:26](hou28.htm#fr_1147) *S. L. City
+<span id="fn_1147"></span>[690:26](hou28.htm#fr_1147.md) *S. L. City
 Tribune*, Nov. 28, 1883. The governor's policy was indorsed by President
 Arthur, and of course by the gentile community of Utah. See *Id*., Dec.
 23, 1883.
@@ -707,4 +707,4 @@ Arthur, and of course by the gentile community of Utah. See *Id*., Dec.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVI. Settlements, Society, and Education.
-1862-1886.](hou29)
+1862-1886.](hou29.md)

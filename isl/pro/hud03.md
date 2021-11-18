@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hud02)  [Next](hud04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hud02)  [Next](hud04.md) 
 
 ------------------------------------------------------------------------
 
@@ -149,4 +149,4 @@ time of A'ad, and only God knows.
 
 ------------------------------------------------------------------------
 
-[Next: And Some Historians Said](hud04)
+[Next: And Some Historians Said](hud04.md)

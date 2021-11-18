@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](bit01)  [Next](bit03) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](bit01)  [Next](bit03.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ are given.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](bit03)
+[Next: Contents](bit03.md)

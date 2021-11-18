@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Buddhist Articles](index)
+[Intangible Textual Heritage](../../index) [Buddhist Articles](index.md)
 
 ------------------------------------------------------------------------
 
@@ -81,7 +81,7 @@ spoke the Â.tânâ.tiya defence.
    Adored be the all seeing and glorious Vipassi; adored be Sikhi,
 compassionate to all creatures<span
 id="page_333_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_333_note_1).
+class="small">1</span></sup>](#page_333_note_1.md).
 
    Adored be Vessabhû, the subjector and destroyer of the passions;
 adored be Kakusandha, the conqueror of the hosts of Mâra.
@@ -91,7 +91,7 @@ perfectly free.
 
    Adored be the glorious Buddha, the son of Sakya<span
 id="page_333_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_333_note_2), who teaches the
+class="small">2</span></sup>](#page_333_note_2.md), who teaches the
 doctrines destroying all sorrow.
 
    Those in the world whose passions are extinguished perceive things as
@@ -287,7 +287,7 @@ the priests to learn the Paritta.
 
 ------------------------------------------------------------------------
 
-[Buddhist Articles](index)
+[Buddhist Articles](index.md)
 
 ------------------------------------------------------------------------
 
@@ -295,10 +295,10 @@ the priests to learn the Paritta.
 
 <span id="footnotes_page_333">p. 333</span>
 
-<span id="page_333_note_1"></span>[1](#page_333_fr_1) These are the
+<span id="page_333_note_1"></span>[1](#page_333_fr_1.md) These are the
 names of former Buddhas.
 
-<span id="page_333_note_2"></span>[2](#page_333_fr_2) Gotama, the
+<span id="page_333_note_2"></span>[2](#page_333_fr_2.md) Gotama, the
 present Buddha.
 
  

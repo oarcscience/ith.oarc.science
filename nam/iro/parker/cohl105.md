@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl104)  [Next](cohl106) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl104)  [Next](cohl106.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ believe in me.'
 you but none in me. I am inclined to believe that in the end it will
 also be so with you. Now it is rumored that you are but a talker with
 spirits (djîs'gä<sup>n</sup>dâtâha\` <span
-id="fr_82"></span>[1](#fn_82)). Now it is true that I am a spirit and
+id="fr_82"></span>[1](#fn_82).md). Now it is true that I am a spirit and
 the one of him who was murdered. Now tell your people that they will
 become lost when they follow the ways of the white man.'"
 
@@ -52,9 +52,9 @@ So that is what he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_82"></span>[68:1](cohl105.htm#fr_82) See Spiritism, [p.
-126](cohl158.htm#page_126).
+<span id="fn_82"></span>[68:1](cohl105.htm#fr_82.md) See Spiritism, [p.
+126](cohl158.htm#page_126.md).
 
 ------------------------------------------------------------------------
 
-[Next: Section 95](cohl106)
+[Next: Section 95](cohl106.md)

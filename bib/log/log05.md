@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](log04)  [Next](log06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](log04)  [Next](log06.md) 
 
 ------------------------------------------------------------------------
 
@@ -472,7 +472,7 @@ to the free play of the imagination.
 The most important feature of this study is the history of religion. In
 very many legends of Genesis a monotheistic tendency is to be observed,
 an avoidance of mythology to which we have referred (see pp.
-[15](log03.htm#page_15) and [95](#page_95)). This feeling continued to
+[15](log03.htm#page_15) and [95](#page_95).md). This feeling continued to
 grow in Israel and was the cause for the fading out of a number of
 legends. In the case of the myth of creation, of which we have older
 variants of a different attitude, the history of this elimination of the
@@ -830,7 +830,7 @@ our gratification at this gradual improvement in ethical judgment which
 we can see in Genesis.
 
 On the history of ethical taste which is to be found in these legends we
-have already treated in the preceding pages (see [p. 111](#page_111))
+have already treated in the preceding pages (see [p. 111](#page_111).md)
 and have but a few points to add here. We gain a deep insight into the
 heart of the primitive people when we collect the chief motives in which
 the eye of the legends takes pleasure. This is not the place for such a
@@ -924,7 +924,7 @@ are related to Jephthah and Jabne: they are all names of tribes or of
 places, like Israel, Ishmael, and J<sup>e</sup>rahm<sup>e</sup>el. Even
 on this evidence we should conclude that Jacob was originally the name
 of a Canaanitish district, which existed in Canaan before the
-Israelitish immigration. <span id="fr_4"></span>[1](#fn_4)
+Israelitish immigration. <span id="fr_4"></span>[1](#fn_4.md)
 
 <span id="page_119">p. 119</span>
 
@@ -935,7 +935,7 @@ originally names of divinities, as for instance Asshur is at the same
 time the name of the God of Asshur (Assyria). This is to be assumed for
 Gad, which is at the same time the name of the god of fortune, and also
 for Edom--cp. the name Obed-edom, "servant of Edom." <span
-id="fr_5"></span>[1](#fn_5) Names of divinities have been suspected
+id="fr_5"></span>[1](#fn_5.md) Names of divinities have been suspected
 further in Selah (cp. the name Methuselah = man of Selah),
 R<sup>e</sup>'u (cp. the name R<sup>e</sup>'u-el), Nahor (cp. the name
 Ebednahor = servant of Nahor), Terah (perhaps the same as the
@@ -987,7 +987,7 @@ perfectly
 <span id="page_121">p. 121</span>
 
 clear and unquestioned fashion. Such a demonstration as this has not
-been given by investigators hitherto. <span id="fr_6"></span>[1](#fn_6)
+been given by investigators hitherto. <span id="fr_6"></span>[1](#fn_6.md)
 Let us hope that those who attempt it in the future may be more
 successful! But let us by no means fail to recognise the fact that
 Israel in historical times, when these legends were told, saw in
@@ -1021,13 +1021,13 @@ the legends, ascribed by them to Abraham.
 
 ### Footnotes
 
-<span id="fn_4"></span>[118:1](log05.htm#fr_4) Cp. Ed. Meyer ZAW 1886,
+<span id="fn_4"></span>[118:1](log05.htm#fr_4.md) Cp. Ed. Meyer ZAW 1886,
 p. 1. ff.
 
-<span id="fn_5"></span>[119:1](log05.htm#fr_5) Wellhausen
+<span id="fn_5"></span>[119:1](log05.htm#fr_5.md) Wellhausen
 Composition<sup>2</sup>, p. 47, 2. ed.
 
-<span id="fn_6"></span>[121:1](log05.htm#fr_6) The older theory of
+<span id="fn_6"></span>[121:1](log05.htm#fr_6.md) The older theory of
 Goldziher (*Der Mythos bei den Hebräern*, 1876), which depended chiefly
 on the etymologies of names, is long since discredited. Stucken
 (*Astralmythen*, I. Abraham, 1896, II. Lot, 1897) bases his assertions
@@ -1057,4 +1057,4 @@ patriarchs.
 
 ------------------------------------------------------------------------
 
-[Next: V. Jahvist, Elohist, Jehovist, the Later Collections](log06)
+[Next: V. Jahvist, Elohist, Jehovist, the Later Collections](log06.md)

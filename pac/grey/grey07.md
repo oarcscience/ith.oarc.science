@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey06)  [Next](grey08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey06)  [Next](grey08.md) 
 
 ------------------------------------------------------------------------
 
@@ -221,4 +221,4 @@ a large army, and avenged the death of Kae by slaying Tinirau's son.
 
 ------------------------------------------------------------------------
 
-[Next: The Murder of Tuwhakararo](grey08)
+[Next: The Murder of Tuwhakararo](grey08.md)

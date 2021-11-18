@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -32,8 +32,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](eod00)    [Page
-Index](pageidx)    [Text \[Zipped\]](eod.txt.gz)
+[Contents](#contents)    [Start Reading](eod00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](eod.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ His views on the origin of culture have not fared as well. Smith was a
 diffusionist, a school of thought popular in the late 19th and early
 20th century which attempted to trace diverse cultural phenomena to
 unitary geographic points of origin. One example of this is Donnelly's
-[Atlantis](../../atl/ataw/index), which Donnelly proposed was the mother
+[Atlantis](../../atl/ataw/index.md), which Donnelly proposed was the mother
 of all cultures. Smith, a bit more mainstream, traced the development of
 megalithic culture to Egypt, radiating out to distant lands, including
 America. Today, we know that megalithic culture preceded ancient
@@ -69,73 +69,73 @@ the prototype for the Christian devil. He uses linguistic, ethnographic,
 and biological data to bolster his theory. While in some respects a
 difficult book, depending on one's attention span, it is also a
 browser's delight. We learn about the origin of clothing, the water of
-immortality which [Gilgamesh](../../ane/eog/index) sought, and the
+immortality which [Gilgamesh](../../ane/eog/index.md) sought, and the
 symbolism, folklore and biology of the octopus, mandrake, pearls, cowry
 shells, etc. In particular, students of comparative mythology will enjoy
 this book, even if they reject Smith's hyperdiffusionist views.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](eod00)  
-[Corrigenda](eod01)  
-[Preface](eod02)  
-[Contents](eod03)  
-[List of Illustrations](eod04)  
+<span id="contents"></span> [Title Page](eod00.md)  
+[Corrigenda](eod01.md)  
+[Preface](eod02.md)  
+[Contents](eod03.md)  
+[List of Illustrations](eod04.md)  
 <span id="section_000"></span>
 
 ### Chapter I. Incense and Libations
 
-[Introduction](eod05)  
-[The Beginning of Stone-Working](eod06)  
-[The Origin of Embalming](eod07)  
-[Early Mummies](eod08)  
-[The Significance of Libations](eod09)  
-[Early Biological Theories](eod10)  
-[Incense](eod11)  
-[The Breath of Life](eod12)  
-[The Power of the Eye](eod13)  
-[The Moon and the Sky-World](eod14)  
-[The Worship of the Cow](eod15)  
-[The Diffusion of Culture](eod16)  
-[Summary](eod17)  
-[Appendix A](eod18)  
-[Appendix B](eod19)  
-[Appendix C](eod20)  
+[Introduction](eod05.md)  
+[The Beginning of Stone-Working](eod06.md)  
+[The Origin of Embalming](eod07.md)  
+[Early Mummies](eod08.md)  
+[The Significance of Libations](eod09.md)  
+[Early Biological Theories](eod10.md)  
+[Incense](eod11.md)  
+[The Breath of Life](eod12.md)  
+[The Power of the Eye](eod13.md)  
+[The Moon and the Sky-World](eod14.md)  
+[The Worship of the Cow](eod15.md)  
+[The Diffusion of Culture](eod16.md)  
+[Summary](eod17.md)  
+[Appendix A](eod18.md)  
+[Appendix B](eod19.md)  
+[Appendix C](eod20.md)  
 <span id="section_001"></span>
 
 ### Chapter II. Dragons and Rain Gods
 
-[Introduction](eod21)  
-[The Dragon in America and Eastern Asia](eod22)  
-[The Evolution of the Dragon](eod23)  
-[The Dragon Myth](eod24)  
-[The Thunder-Weapon](eod25)  
-[The Deer](eod26)  
-[The Ram, The Pig](eod27)  
-[Certain Incidents in the Dragon Myth](eod28)  
-[The Ethical Aspect](eod29)  
+[Introduction](eod21.md)  
+[The Dragon in America and Eastern Asia](eod22.md)  
+[The Evolution of the Dragon](eod23.md)  
+[The Dragon Myth](eod24.md)  
+[The Thunder-Weapon](eod25.md)  
+[The Deer](eod26.md)  
+[The Ram, The Pig](eod27.md)  
+[Certain Incidents in the Dragon Myth](eod28.md)  
+[The Ethical Aspect](eod29.md)  
 <span id="section_002"></span>
 
 ### Chapter III. The Birth of Aphrodite
 
-[Introduction](eod30)  
-[The Search for the Elixir of Life. Blood as Life.](eod31)  
-[The Cowry as a Giver of Life](eod32)  
-[The Origin of Clothing](eod33)  
-[Pearls](eod34)  
-[Sharks and Dragons](eod35)  
-[The Octopus](eod36)  
-[The Swastika](eod37)  
-[The Mother Pot](eod38)  
-[Artemis and the Guardian of the Portal](eod39)  
-[The Mandrake](eod40)  
-[The Measurement of Time](eod41)  
-[The Seven-Headed Dragon](eod42)  
-[The Pig](eod43)  
-[Gold and the Golden Aphrodite](eod44)  
-[Aphrodite as the Thunder-Stone](eod45)  
-[The Serpent and the Lioness](eod46)  
+[Introduction](eod30.md)  
+[The Search for the Elixir of Life. Blood as Life.](eod31.md)  
+[The Cowry as a Giver of Life](eod32.md)  
+[The Origin of Clothing](eod33.md)  
+[Pearls](eod34.md)  
+[Sharks and Dragons](eod35.md)  
+[The Octopus](eod36.md)  
+[The Swastika](eod37.md)  
+[The Mother Pot](eod38.md)  
+[Artemis and the Guardian of the Portal](eod39.md)  
+[The Mandrake](eod40.md)  
+[The Measurement of Time](eod41.md)  
+[The Seven-Headed Dragon](eod42.md)  
+[The Pig](eod43.md)  
+[Gold and the Golden Aphrodite](eod44.md)  
+[Aphrodite as the Thunder-Stone](eod45.md)  
+[The Serpent and the Lioness](eod46.md)  
 
  
 
-[Advertisements](eod47)  
+[Advertisements](eod47.md)  

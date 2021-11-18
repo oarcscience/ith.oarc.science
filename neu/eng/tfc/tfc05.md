@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](tfc04)  [Next](tfc06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](tfc04)  [Next](tfc06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI0C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tales from Chaucer*, by Charles Cowden Clarke, \[1833\], at Intangible
 Textual Heritage
 
@@ -78,7 +78,7 @@ his lady-love that he would outwatch the doting nightingale.
 
 One other attendant, and no more, had our Knight upon the present
 occasion, a Yeoman, dressed in a green coat and hood. He had a head like
-a nut, <span id="fr_0"></span>[\*](#fn_0) and a face of the same colour.
+a nut, <span id="fr_0"></span>[\*](#fn_0.md) and a face of the same colour.
 In his hand he carried a sturdy bow, and at his side under his belt a
 sheaf of bright sharp arrows, winged with peacock feathers. His arm was
 defended by a bracer; on one side hung a sword and buckler, and on the
@@ -119,7 +119,7 @@ The next in succession was a Monk, one well calculated to rule his
 order. He was a bold rider and fond of hunting. A manly man, and worthy
 to have been an abbot. Many a capital horse had he in stall, and as he
 rode along one could hear his bridle jingling in the whistling wind like
-the distant chapel bells. <span id="fr_1"></span>[\*](#fn_1)
+the distant chapel bells. <span id="fr_1"></span>[\*](#fn_1.md)
 
 Our Monk set but little store by the strict regulations of the good old
 saints, holding rather with modern opinions. For instance, he cared not
@@ -148,16 +148,16 @@ dish. A fine and stately horse, as brown as a berry, and boots supple
 and without a wrinkle, completed the equipment of this choice specimen
 of a prelate.
 
-There was a Friar, a limiter, <span id="fr_2"></span>[\*](#fn_2) who,
+There was a Friar, a limiter, <span id="fr_2"></span>[\*](#fn_2.md) who,
 though in appearance a solemn man, was a wanton and merry wag. No man in
 all the four orders of brotherhood was such an adept in dalliance and
 smooth speech. Many a young girl had he joined in wedlock free of
 expense. He was the very prop and stay of his order. He was a favourite
 with all the country round, and especially cherished by the good dames
-of the town, for being a licenciate, <span id="fr_3"></span>[†](#fn_3)
+of the town, for being a licenciate, <span id="fr_3"></span>[†](#fn_3.md)
 he was, by his own account, as great in hearing confession as a curate.
 Sweetly would he dispense the duties of shrift, <span
-id="fr_4"></span>[‡](#fn_4) and pleasant
+id="fr_4"></span>[‡](#fn_4.md) and pleasant
 
 <span id="page_6">p. 6</span>
 
@@ -265,7 +265,7 @@ the same costume. Their furniture was all spick and span new. Their
 knives were not of the common description, mounted with brass, but
 wrought with pure silver. Their girdles and pouches also were equally
 costly. Each seemed to be of the respectable class of burgesses who take
-the uppermost seats <span id="fr_5"></span>[\*](#fn_5) in the Guildhall.
+the uppermost seats <span id="fr_5"></span>[\*](#fn_5.md) in the Guildhall.
 Their grave and sensible demeanour befitted them for the office of
 aldermen. They were men of landed estate and wealthy in cattle, and this
 their wives had no objection to, for it is a fine thing to be styled
@@ -289,7 +289,7 @@ brown—he was a fine, hearty-looking fellow. Many and many a cask of wine
 had he brought from Bourdeaux while the merchants were fast asleep in
 their beds. He was not remarkable for tenderness of conscience, seeing
 that if he were engaged at sea, and had got the upper-hand, he always
-sent his prisoners home *by water*. <span id="fr_6"></span>[\*](#fn_6)
+sent his prisoners home *by water*. <span id="fr_6"></span>[\*](#fn_6.md)
 But for skill in reckoning his tides, for knowing all the currents,
 shallows, and sandbanks, the exact place of the sun, the age of the
 moon, and for the complete art of piloting, there was not his equal
@@ -332,7 +332,7 @@ without a wrinkle, and her shoes tight and new. She had been ever
 esteemed a worthy woman, and had accompanied to church five husbands in
 her time. Having thrice travelled to Jerusalem, crossing many a strange
 river, and having visited Rome, Saint James's, <span
-id="fr_7"></span>[\*](#fn_7) Cologne, with its three kings, and passed
+id="fr_7"></span>[\*](#fn_7.md) Cologne, with its three kings, and passed
 through Galicia, she had a world of intelligence to communicate by the
 way. Her dress
 
@@ -383,11 +383,11 @@ best loved his God and Creator, and then his neighbor as himself. When
 it lay in his power he would finish a job of threshing for a poor man
 without hire. He paid his tithes fairly and punctually, both of his
 produce and live stock. He was dressed in a tabard, <span
-id="fr_8"></span>[\*](#fn_8) and rode upon a mare. There were also a
-Reeve, <span id="fr_9"></span>[†](#fn_9) and a Miller, a Summoner, <span
-id="fr_10"></span>[‡](#fn_10) a Pardoner, <span
-id="fr_11"></span>[§](#fn_11) a Manciple, <span
-id="fr_12"></span>[¶](#fn_12) and myself.
+id="fr_8"></span>[\*](#fn_8.md) and rode upon a mare. There were also a
+Reeve, <span id="fr_9"></span>[†](#fn_9.md) and a Miller, a Summoner, <span
+id="fr_10"></span>[‡](#fn_10.md) a Pardoner, <span
+id="fr_11"></span>[§](#fn_11.md) a Manciple, <span
+id="fr_12"></span>[¶](#fn_12.md) and myself.
 
 The Miller was a hardy churl, brawny and large of bone. He always bore
 away the prize ram in wrestling matches. He was short shouldered, broad
@@ -402,7 +402,7 @@ bristles of a hog's ear. His nostrils were wide and black, his mouth
 gaped like a furnace. He was a roaring, roystering madcap, who upon
 occasion would try the strength of his conscience by filching his
 customers’ corn and giving them false tales. <span
-id="fr_13"></span>[\*](#fn_13) Yet, withal, he had "a thumb of gold," as
+id="fr_13"></span>[\*](#fn_13.md) Yet, withal, he had "a thumb of gold," as
 the old saying goes respecting honest millers, and I believe was no
 worse than his brethren. He wore a white coat with a blue hood, and a
 sword and buckler at his side. He was a performer on the bag-pipe, and
@@ -466,7 +466,7 @@ for in purse he should be punished. "The purse," would he say, "is the
 archdeacon's hell": in all which I pronounce him to be an *arch*
 deceiver; since the guilty man should ever stand in awe of a curse,
 which will destroy the soul, as absolution will preserve it. Of the
-"*significavit*" <span id="fr_14"></span>[\*](#fn_14) also let him
+"*significavit*" <span id="fr_14"></span>[\*](#fn_14.md) also let him
 beware.
 
 He contrived to make himself acquainted with all the cabals and little
@@ -482,7 +482,7 @@ was originally from Ronceveaux,
 
 <span id="img_01700"></span> <span align="CENTER"> [![The
 Host](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 The Host  
 </span>
 
@@ -494,7 +494,7 @@ clarion. This Pardoner had smooth yellow hair, which hung by ounces
 about him, like a strike of flax, overspreading his shoulders. In the
 gaiety of his heart he wore no hood, but kept it packed up in his
 wallet; so he rode with his head bare, save and except a cap, in which
-was fastened a vernicle. <span id="fr_15"></span>[\*](#fn_15) He prided
+was fastened a vernicle. <span id="fr_15"></span>[\*](#fn_15.md) He prided
 himself upon his sitting on horseback, as being after the newest
 fashion. Before him lay his wallet stuffed with pardons, all hot from
 Rome. He had a full glaring eye like a hare's, a sneaking voice like a
@@ -516,7 +516,7 @@ Notwithstanding all this, however, I must acknowledge
 
 that he was a famous churchman. He read the service with dignity and
 emphasis, though he shone to greater advantage at the offertory, <span
-id="fr_16"></span>[\*](#fn_16) for he knew that the sermon would then
+id="fr_16"></span>[\*](#fn_16.md) for he knew that the sermon would then
 succeed, in which it behoved him to polish up his tongue for the purpose
 of procuring a handsome collection afterwards, wherein he was
 successful. Therefore, in the anticipation of it he would sing like a
@@ -611,13 +611,13 @@ WHICH IS
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:\*](tfc05.htm#fr_0) In the original, it is
+<span id="fn_0"></span>[3:\*](tfc05.htm#fr_0.md) In the original, it is
 *not-hed*. This may mean either a "head like a nut," as Tyrwhitt has
 interpreted it, and which seems appropriate to the character of the man
 described; or *knotte-hed*, a name given to the knob at the end of a
 staff, and which term still survives in the north of England.
 
-<span id="fn_1"></span>[4:\*](tfc05.htm#fr_1) It was the fashion in
+<span id="fn_1"></span>[4:\*](tfc05.htm#fr_1.md) It was the fashion in
 those days to hang bells to the horses’ bridles. In the *Faery Queene*
 the caparison of a lady's steed is thus described:
 
@@ -630,18 +630,18 @@ the caparison of a lady's steed is thus described:
 
 </div>
 
-<span id="fn_2"></span>[5:\*](tfc05.htm#fr_2) One licensed to beg alms
+<span id="fn_2"></span>[5:\*](tfc05.htm#fr_2.md) One licensed to beg alms
 for his convent, within a certain district.
 
-<span id="fn_3"></span>[5:†](tfc05.htm#fr_3) One licensed by the pope to
+<span id="fn_3"></span>[5:†](tfc05.htm#fr_3.md) One licensed by the pope to
 hear confessions.
 
-<span id="fn_4"></span>[5:‡](tfc05.htm#fr_4) Confession.
+<span id="fn_4"></span>[5:‡](tfc05.htm#fr_4.md) Confession.
 
-<span id="fn_5"></span>[9:\*](tfc05.htm#fr_5) The raised floor at the
+<span id="fn_5"></span>[9:\*](tfc05.htm#fr_5.md) The raised floor at the
 end of the hall was called a dais.
 
-<span id="fn_6"></span>[10:\*](tfc05.htm#fr_6) This passage, which in
+<span id="fn_6"></span>[10:\*](tfc05.htm#fr_6.md) This passage, which in
 the original appears to be rather obscure, I think is intended to convey
 a sly little irony, for the poet, after saying,
 
@@ -663,29 +663,29 @@ adds,
 In other words I conceive the meaning to be, that he drowned his
 prisoners.
 
-<span id="fn_7"></span>[11:\*](tfc05.htm#fr_7) St. James's of
+<span id="fn_7"></span>[11:\*](tfc05.htm#fr_7.md) St. James's of
 Compostella, in Spain.
 
-<span id="fn_8"></span>[13:\*](tfc05.htm#fr_8) A jacket without sleeves;
+<span id="fn_8"></span>[13:\*](tfc05.htm#fr_8.md) A jacket without sleeves;
 worn in the first instance by noblemen in the wars: in later times, by
 heralds, and was their coat of arms in service. From Chaucer's having
 clad the *ploughman* in such a garment, he probably meant to convey the
 hint that it was a cast-off dress.
 
-<span id="fn_9"></span>[13:†](tfc05.htm#fr_9) A steward or bailiff.
+<span id="fn_9"></span>[13:†](tfc05.htm#fr_9.md) A steward or bailiff.
 
-<span id="fn_10"></span>[13:‡](tfc05.htm#fr_10) An officer employed to
+<span id="fn_10"></span>[13:‡](tfc05.htm#fr_10.md) An officer employed to
 summon delinquents to appear in the ecclesiastical courts; now called an
 *apparitor*.
 
-<span id="fn_11"></span>[13:§](tfc05.htm#fr_11) A seller of pardons or
+<span id="fn_11"></span>[13:§](tfc05.htm#fr_11.md) A seller of pardons or
 indulgences from the pope.
 
-<span id="fn_12"></span>[13:¶](tfc05.htm#fr_12) An officer who has the
+<span id="fn_12"></span>[13:¶](tfc05.htm#fr_12.md) An officer who has the
 care of purchasing victuals for an inn or court. The office still
 subsists in several colleges as well as inns of court.
 
-<span id="fn_13"></span>[14:\*](tfc05.htm#fr_13) The old term for
+<span id="fn_13"></span>[14:\*](tfc05.htm#fr_13.md) The old term for
 reckoning is a "*tale*."
 
 <div style="margin-left: 32px">
@@ -696,10 +696,10 @@ reckoning is a "*tale*."
 
 </div>
 
-<span id="fn_14"></span>[16:\*](tfc05.htm#fr_14) The beginning of the
+<span id="fn_14"></span>[16:\*](tfc05.htm#fr_14.md) The beginning of the
 sentence of excommunication.
 
-<span id="fn_15"></span>[17:\*](tfc05.htm#fr_15) A picture of Jesus
+<span id="fn_15"></span>[17:\*](tfc05.htm#fr_15.md) A picture of Jesus
 Christ in miniature. It was usual with persons returning from
 pilgrimages to bring with them certain tokens of the several places
 which they had visited. The Pardoner, therefore, had this vernicle in
@@ -707,10 +707,10 @@ his cap in token of his visit to Rome, where in the church of St. Peter
 was preserved the miniature in question, miraculously imprinted upon a
 handkerchief.
 
-<span id="fn_16"></span>[18:\*](tfc05.htm#fr_16) That portion of the
+<span id="fn_16"></span>[18:\*](tfc05.htm#fr_16.md) That portion of the
 Roman Catholic service which immediately precedes the blessing of the
 bread and wine. It is always sung.
 
 ------------------------------------------------------------------------
 
-[Next: The Knight's Tale](tfc06)
+[Next: The Knight's Tale](tfc06.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](tsf21)  [Next](tsf23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](tsf21)  [Next](tsf23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806504560/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -477,7 +477,7 @@ brings into
 
 [![Kali, lover of death, destruction and murder, trampling under foot
 her own husband](tn/35600.jpg)  
-Click to enlarge](img/35600.jpg)  
+Click to enlarge](img/35600.jpg.md)  
 Kali, lover of death, destruction and murder, trampling under foot her
 own husband  
 
@@ -547,4 +547,4 @@ the universe.
 
 ------------------------------------------------------------------------
 
-[Next: Epilogue: God's Way in Love](tsf23)
+[Next: Epilogue: God's Way in Love](tsf23.md)

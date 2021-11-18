@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo36)  [Next](sdo38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo36)  [Next](sdo38.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ with their hair partings marked in red. When the Conductor came from his
 tipi his hands and body were painted red and his face was striped in
 red; red zigzag lines decorated his arms. These decorations were all
 symbolical, as explained in the section on the Sun dance ([p.
-82](sdo08.htm#page_82)). His regalia as the Conductor consisted of a
+82](sdo08.htm#page_82).md). His regalia as the Conductor consisted of a
 headdress or cap made of tanned skin, to which a small buffalo horn was
 attached at each side so as to stand out from the head as the horns do
 on a buffalo. The cap was further adorned with hawk quills and strips of
@@ -61,4 +61,4 @@ soberly, and others jovially talking and laughing.
 
 ------------------------------------------------------------------------
 
-[Next: The Symbolic Capture](sdo38)
+[Next: The Symbolic Capture](sdo38.md)

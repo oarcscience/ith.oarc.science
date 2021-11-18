@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](tob)  [Next](aes) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](tob)  [Next](aes.md) 
 
 ------------------------------------------------------------------------
 
@@ -1374,4 +1374,4 @@ religiously observed by the Jews from that time until this day.
 
 ------------------------------------------------------------------------
 
-[Next: Additions to Esther](aes)
+[Next: Additions to Esther](aes.md)

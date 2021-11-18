@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt06)  [Next](ebt08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt06)  [Next](ebt08.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ There were cleverly planned high level mountain tracks which, although
 on an average sighting line, could not (being on the side of a mountain
 ridge) keep straight, but took a serpentine course, in round the cwms,
 and out round the headlands. But viewed edgeways they are a straight
-line (see [Plate VIII](ebt14.htm#img_pl08)) as keeping a uniform level
+line (see [Plate VIII](ebt14.htm#img_pl08).md) as keeping a uniform level
 or slope. Such are found high on the Malvern ridge, the road (on three
 leys) through Oldcastle to Blaen Olchon, the lovely Bicknor Walks near
 Symonds Yat, the Precipice Walk near Dolgelly.
@@ -24,7 +24,7 @@ Symonds Yat, the Precipice Walk near Dolgelly.
 There are signs of parallel trackways quite close together, whether one
 to take the place of an older one I do not know. And between Malvern
 Wells and Hanley Swan are three symmetrical triangular woods (see Map,
-[Plate XIX](ebt33.htm#img_pl19).), which I find indicate parallel roads,
+[Plate XIX](ebt33.htm#img_pl19)..md), which I find indicate parallel roads,
 one-sixth mile apart, running northwards, and with a collecting road
 here at right angles, which comes over the ridge and through Mainstone
 Court. There are six of these equidistant parallel roads.
@@ -53,10 +53,10 @@ land."
 The trackways are chiefly 6 feet 6 in. to 9 feet wide. I illustrate two
 pitched causeways at Longtown, a fine one through the Monnow near the
 Tan House, and the other close to a ford over Olchon Brook ([Plate
-VI](ebt05.htm#img_pl04).). Another through the farm yard at Ingestone
+VI](ebt05.htm#img_pl04)..md). Another through the farm yard at Ingestone
 (Ross) going to the centre of the sighting pond ([Plate
-VII](ebt14.htm#img_pl07).).
+VII](ebt14.htm#img_pl07)..md).
 
 ------------------------------------------------------------------------
 
-[Next: Antiquity of the Ley](ebt08)
+[Next: Antiquity of the Ley](ebt08.md)

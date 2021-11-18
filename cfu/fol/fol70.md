@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](fol69)  [Next](fol71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](fol69)  [Next](fol71.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Feast of Lanterns*, by L. Cranmer-Byng, \[1916\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 Surely there sings no lighter heart than mine beneath the sky!  
 And now, companion of my nights of long moon-dreams, good-bye!  
 For mine is the silver dragon car  
-That hovers beyond the Rainbow Dome, <span id="fr_5"></span>[1](#fn_5)  
+That hovers beyond the Rainbow Dome, <span id="fr_5"></span>[1](#fn_5.md)  
 And it's oh to be galloping, galloping home  
 Where my dream-born children are!
 
@@ -30,9 +30,9 @@ Where my dream-born children are!
 
 ### Footnotes
 
-<span id="fn_5"></span>[95:1](fol70.htm#fr_5) The palace where Chang O,
+<span id="fn_5"></span>[95:1](fol70.htm#fr_5.md) The palace where Chang O,
 the Moon-goddess, dwells.
 
 ------------------------------------------------------------------------
 
-[Next: Note](fol71)
+[Next: Note](fol71.md)

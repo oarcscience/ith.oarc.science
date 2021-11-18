@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](sis01)  [Next](sis03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](sis01)  [Next](sis03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shamanism in Siberia*, by M.A. Czaplicka, \[1914\], at Intangible
 Textual Heritage
 
@@ -168,4 +168,4 @@ most nearly approached this ideal.
 
 ------------------------------------------------------------------------
 
-[Next: A. The Shaman's Vocation](sis03)
+[Next: A. The Shaman's Vocation](sis03.md)

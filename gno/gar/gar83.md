@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar82)  [Next](gar84) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar82)  [Next](gar84.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_l"></span> <span align="CENTER"> [![Plate
 L](tn/pl_l.jpg)  
-Click to enlarge](img/pl_l.jpg)  
+Click to enlarge](img/pl_l.jpg.md)  
 Plate L  
 </span>
 
@@ -51,4 +51,4 @@ hitherto-explained formulæ are to be recognised.
 
 ------------------------------------------------------------------------
 
-[Next: Plate M. General Talismans](gar84)
+[Next: Plate M. General Talismans](gar84.md)

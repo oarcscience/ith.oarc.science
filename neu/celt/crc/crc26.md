@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc25)  [Next](crc27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc25)  [Next](crc27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 Then Loch Mac Emonis was asked like the others, and there was promised
 to him a piece of the arable land of Mag Ai equal in size to Mag
 Murthemne, and the equipment of twelve warriors and a chariot worth
-seven cumals <span id="fr_69"></span>[1](#fn_68); and he did not think
+seven cumals <span id="fr_69"></span>[1](#fn_68.md); and he did not think
 combat with a youth worthy. He had a brother, Long Mac Emonis himself.
 The same price was given to him, both maiden and raiment and chariots
 and land. He goes to meet Cuchulainn. Cuchulainn slays him, and he was
@@ -55,7 +55,7 @@ squire, 'if you could see him.' He comes to the ford then as he was.
 'What man is it yonder, O Fergus?' said Medb.
 
 'A boy who wards off,' etc.… 'if it is Culann's Hound.' <span
-id="fr_70"></span>[1](#fn_69)
+id="fr_70"></span>[1](#fn_69.md)
 
 Medb climbed on the men then to look at him.
 
@@ -135,7 +135,7 @@ skin or his ———(?) is not touched. Then he turns on them and kills them,
 the fourteen of them. So that they are the fourteen men of Focherd, and
 they are the men of Cronech, for it is in Cronech at Focherd that they
 were killed. Hence Cuchulainn said: 'Good is my feat of heroism,' <span
-id="fr_71"></span>[1](#fn_70) etc.
+id="fr_71"></span>[1](#fn_70.md) etc.
 
 So it is from this that the name Focherd stuck to the place; that is,
 *focherd*, *i.e.* 'good is the feat of arms' that happened to Cuchulainn
@@ -148,7 +148,7 @@ urge Loch there.
 'Great is the mockery of you,' said she, 'for the man who has killed
 your brother to be destroying our host, and you do not go to battle with
 him! For we deem it certain that the wild man, great and fierce, <span
-id="fr_72"></span>[2](#fn_71) the like of him yonder, will not be able
+id="fr_72"></span>[2](#fn_71.md) the like of him yonder, will not be able
 to withstand the rage and fury of a hero like you. For it is by one
 foster-mother and instructress that an art was built up for you both.'
 
@@ -163,7 +163,7 @@ ford that we shall meet, where Long fell.'
 
 When he came then to seek the ford, the men drove the cattle across.
 
-'It will be across your water <span id="fr_73"></span>[1](#fn_72) here
+'It will be across your water <span id="fr_73"></span>[1](#fn_72.md) here
 to-day,' said Gabran the poet. Hence is Ath Darteisc, and Tir Mor
 Darteisc from that time on this place.
 
@@ -214,19 +214,19 @@ breaks under her. Then he sang a song:
 'There may be strife about one head  
  Only that one tree blazes not;  
  If there were two or three  
- Their brands would blaze. <span id="fr_74"></span>[1](#fn_73)
+ Their brands would blaze. <span id="fr_74"></span>[1](#fn_73.md)
 
 'The men have almost worn me out  
  By reason of the number of single combats;  
  I cannot work the slaughter (?) of glorious warriors  
  As I am all alone.  
-              I am all alone. <span id="fr_75"></span>[1](#fn_73)
+              I am all alone. <span id="fr_75"></span>[1](#fn_73.md)
 
 </div>
 
 It is there then that Cuchulainn did to the Morrigan the three things
 that he had promised her in the *Tain Bo Regamna*; <span
-id="fr_76"></span>[2](#fn_74) and he fights Loch in the ford with the
+id="fr_76"></span>[2](#fn_74.md) and he fights Loch in the ford with the
 *gae-bolga*, which the charioteer threw him along the stream. He
 attacked him with it, so that
 
@@ -252,20 +252,20 @@ beast, could put its head past him southwards between Delga and the sea.
 
 ### Footnotes
 
-<span id="fn_68"></span>[75:1](crc26.htm#fr_69) A measure of value.
+<span id="fn_68"></span>[75:1](crc26.htm#fr_69.md) A measure of value.
 
-<span id="fn_69"></span>[76:1](crc26.htm#fr_70) Rhetoric, four lines.
+<span id="fn_69"></span>[76:1](crc26.htm#fr_70.md) Rhetoric, four lines.
 
-<span id="fn_70"></span>[78:1](crc26.htm#fr_71) *Fo*, 'good'; *cherd*,
+<span id="fn_70"></span>[78:1](crc26.htm#fr_71.md) *Fo*, 'good'; *cherd*,
 'feat.' Twelve lines of rhetoric.
 
-<span id="fn_71"></span>[78:2](crc26.htm#fr_72) Literally, 'sharpened.'
+<span id="fn_71"></span>[78:2](crc26.htm#fr_72.md) Literally, 'sharpened.'
 
-<span id="fn_72"></span>[79:1](crc26.htm#fr_73) Irish, *tarteisc*.
+<span id="fn_72"></span>[79:1](crc26.htm#fr_73.md) Irish, *tarteisc*.
 
-<span id="fn_73"></span>[80:1](crc26.htm#fr_75) Meaning not clear.
+<span id="fn_73"></span>[80:1](crc26.htm#fr_75.md) Meaning not clear.
 
-<span id="fn_74"></span>[80:2](crc26.htm#fr_76) One of the introductory
+<span id="fn_74"></span>[80:2](crc26.htm#fr_76.md) One of the introductory
 stories to the *Tain Bo Cuailnge*, printed with translation in *Irische
 Texte*, 2nd series.
 
@@ -273,6 +273,6 @@ Texte*, 2nd series.
 
 ------------------------------------------------------------------------
 
-[Next: The Healing of the Morrigan](crc27)
+[Next: The Healing of the Morrigan](crc27.md)
 
 </div>

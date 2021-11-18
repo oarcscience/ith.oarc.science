@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr19)  [Next](wnr21) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr19)  [Next](wnr21.md) 
 
 ------------------------------------------------------------------------
 
@@ -199,4 +199,4 @@ is to be sacred because it is free.
 
 ------------------------------------------------------------------------
 
-[Next: Advertisements from first edition](wnr21)
+[Next: Advertisements from first edition](wnr21.md)

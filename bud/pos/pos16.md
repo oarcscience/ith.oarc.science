@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos15)  [Next](pos17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos15)  [Next](pos17.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,14 +12,14 @@ S<span class="small">HE</span>, too, was born, when Padumuttara was
 Buddha, at the city Haŋsavatī, in a clansman's family. And, when grown
 up, she heard, with a great multitude, the Master teach, and assign a
 certain Bhikkhunī the chief place among those who had mystic
-potency.[<sup>318</sup>](pos16.htm#111-1) And she gave great gifts for
+potency.[<sup>318</sup>](pos16.htm#111-1.md) And she gave great gifts for
 seven days to the Buddha and the Order, and aspired to that same rank. .
 . .
 
 In this Buddha-age, she was reborn at Sāvatthī as the daughter of the
 Treasurer. And because her skin was of the colour of the heart
-[<sup>319</sup>](pos16.htm#111-2) of the blue lotus, they called her
-Uppalavaṇṇā.[<sup>320</sup>](pos16.htm#111-3) Now, when she was come of
+[<sup>319</sup>](pos16.htm#111-2.md) of the blue lotus, they called her
+Uppalavaṇṇā.[<sup>320</sup>](pos16.htm#111-3.md) Now, when she was come of
 age, kings and commoners from the whole of India sent messengers to her
 father, saying: 'Give us your daughter.' Thereupon the Treasurer
 thought: 'I cannot possibly meet the wishes of all. I will devise a
@@ -31,20 +31,20 @@ honouring her, brought her to the Bhikkhunīs' quarters, and let her be
 ordained.
 
 A little while afterwards it became her turn for office in the house of
-the Sabbath.[<sup>321</sup>](pos16.htm#112-1) And, lighting the lamp,
+the Sabbath.[<sup>321</sup>](pos16.htm#112-1.md) And, lighting the lamp,
 she swept the room. Then taking the flame of the lamp as a visible sign,
 and contemplating it continually, she brought about Jhana by way of the
-Lambent Artifice,[<sup>322</sup>](pos16.htm#112-2) and making that her
+Lambent Artifice,[<sup>322</sup>](pos16.htm#112-2.md) and making that her
 stepping-stone, she attained Arahantship. With its fruition, intuition
 and grasp of the Norm were achieved, and she became especially versed in
-the mystic potency of transformation.[<sup>323</sup>](pos16.htm#112-3)
+the mystic potency of transformation.[<sup>323</sup>](pos16.htm#112-3.md)
 
 And the Master, seated in conclave in the Jeta Grove, assigned her the
 foremost rank in the mystic powers. She, pondering the bliss of Jhana
 and of fruition, repeated one day certain verses. They had been uttered
 in anguish by a mother who had been living as her daughter's rival with
 him who later, when a Bhikkhu, became known as the Ganges-bank
-Elder,[<sup>324</sup>](pos16.htm#112-4) and were a reflection on the
+Elder,[<sup>324</sup>](pos16.htm#112-4.md) and were a reflection on the
 harm, the vileness and corruption of sensual desires:
 
 I.
@@ -178,7 +178,7 @@ daughter's head, and identifies her rival as her own child.
 <span id="111-2"></span>
 
 > <sup>319</sup> *Gabbha*, or matrix. So also *Ang. Nik.* Commentary.
-> But *cf.* Dr. Neumann's note. And below, [verse 257](pos18.htm#257).
+> But *cf.* Dr. Neumann's note. And below, [verse 257](pos18.htm#257.md).
 
 <span id="111-3"></span>
 
@@ -220,8 +220,8 @@ daughter's head, and identifies her rival as her own child.
 
 > <sup>326</sup> The Pali metre changes here from the usual *śloka* to a
 > mixed *jagatī* and *trishsṭubh* metre, but changes back again after
-> [verse 231.](pos16.htm#231) *Cf.* the other version of this Psalm in
-> the [Appendix](pos22.htm#APPENDIX). *e.g.*:
+> [verse 231.](pos16.htm#231.md) *Cf.* the other version of this Psalm in
+> the [Appendix](pos22.htm#APPENDIX.md). *e.g.*:
 >
 >  
 >
@@ -628,8 +628,8 @@ daughter's head, and identifies her rival as her own child.
 
 <span id="114-3"></span>
 
-> <sup>328</sup> *Cf.* [Ps. xxxv.](pos08.htm#XXXV)
+> <sup>328</sup> *Cf.* [Ps. xxxv.](pos08.htm#XXXV.md)
 
 ------------------------------------------------------------------------
 
-[Next: Canto XII. Psalms of Sixteen Verses](pos17)
+[Next: Canto XII. Psalms of Sixteen Verses](pos17.md)

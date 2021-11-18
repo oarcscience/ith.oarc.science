@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp17) 
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index) [Previous](onp17.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ appear at first blush. Indeed, nothing shows more strikingly the
 saturation and penetration of the North with the traditional “heathen,”
 alliterative art than that such an arch-Catholic poem as *Sólarlióth* is
 composed in one of the time-honored forms, *lióthaháttr* or “chant
-meter”<span id="fr_1"></span>[1](#note_1)—the measure which is firmly
+meter”<span id="fr_1"></span>[1](#note_1.md)—the measure which is firmly
 associated with that arch-heathen collection, *Hóvamól*. Moreover, there
 is little doubt that the author consciously patterned his poem—more
 specially, the first part of it—on the general plan of that unique
@@ -24,7 +24,7 @@ from the older collection; so that it would seem that the author, some
 pious Icelandic cleric of, say, the thirteenth century, was steeped in
 the gnomic lore of his forefathers before even conceiving his poem.
 Still further, there are certain similarities with *Hugsvinnsmól,*<span
-id="fr_2"></span>[2](#note_2) the translation, (also in *lióthaháttr,*
+id="fr_2"></span>[2](#note_2.md) the translation, (also in *lióthaháttr,*
 and possibly by the same person) of the *Dicta Catonis,* a Latin
 collection of wise saws in distichs which was very popular in the Middle
 Ages. Like the *Sun Song*, it is addressed by a father to his son.
@@ -54,7 +54,7 @@ led some students to doubt the unity of the poem.
 by impressive personal experience of death, and of life in the Beyond,
 the sight of the punishments and rewards meted out to sinner and saint
 (33-75). This scheme leaves as obscure in bearing (and detail) only
-stanzas 76-80.<span id="fr_3"></span>[3](#note_3)
+stanzas 76-80.<span id="fr_3"></span>[3](#note_3.md)
 
  The name of the poem, revealed in 81, seems to have reference, not so
 much to the famous initial burthen of the central portion: “The sun I
@@ -768,8 +768,8 @@ may our dear Lord grant their rest to the dead,<span id="fr_80"></span><a href
 </tbody>
 </table>
 
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Iceland](../ice/index) [Index](index)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Iceland](../ice/index) [Index](index.md)
 
 ------------------------------------------------------------------------
 
@@ -777,85 +777,85 @@ Sagas](../index) [Iceland](../ice/index) [Index](index)
 
 <span id="footnotes_page_101">p. 101</span>
 
-<span id="note_1"></span>[1](#fr_1) With frequently only three syllables
+<span id="note_1"></span>[1](#fr_1.md) With frequently only three syllables
 in the half-lines.
 
-<span id="note_2"></span>[2](#fr_2) Also, with the Eddic poem
+<span id="note_2"></span>[2](#fr_2.md) Also, with the Eddic poem
 *Fiolsvinnsmól*.
 
 <span id="footnotes_page_102">p. 102</span>
 
-<span id="note_3"></span>[3](#fr_3) These have, somewhat unconvincingly,
+<span id="note_3"></span>[3](#fr_3.md) These have, somewhat unconvincingly,
 been compared to the Rune Poem of *Hóvamól* (139 f.); as, with better
 reason, the first portion to the “Óthin Ensamples” (*ibid*., 91-100),
 and the second, to *Loddfáfnismól* (*ibid*., 111-137).
 
-<span id="note_4"></span>[4](#fr_4) This unnamed person is to be
+<span id="note_4"></span>[4](#fr_4.md) This unnamed person is to be
 imagined as one of the bold solitary robbers who infested the forest and
 mountain fastnesses of Scandinavia.
 
-<span id="note_5"></span>[5](#fr_5) Conjectural.
+<span id="note_5"></span>[5](#fr_5.md) Conjectural.
 
 <span id="footnotes_page_103">p. 103</span>
 
-<span id="note_6"></span>[6](#fr_6) *I.e.,* the famished wayfarer. In
+<span id="note_6"></span>[6](#fr_6.md) *I.e.,* the famished wayfarer. In
 the following, the personal pronoun applies, now to the one, now to the
 other.
 
-<span id="note_7"></span>[7](#fr_7) Following B. M. Olsen’s
+<span id="note_7"></span>[7](#fr_7.md) Following B. M. Olsen’s
 interpretation. The meaning seems to be that the grim outlaw, for once,
 takes pity on the frightened wayfarer; who afterwards ill requites him.
 
-<span id="note_8"></span>[8](#fr_8) *I.e.,* overwelled.
+<span id="note_8"></span>[8](#fr_8.md) *I.e.,* overwelled.
 
-<span id="note_9"></span>[9](#fr_9) At the moment. The stanza reminds
+<span id="note_9"></span>[9](#fr_9.md) At the moment. The stanza reminds
 one of the many platitudes of *Hugsvinnsmól* (see the Introduction):
 “man proposes, God disposes.”
 
 <span id="footnotes_page_104">p. 104</span>
 
-<span id="note_10"></span>[10](#fr_10) These names, as well as most
+<span id="note_10"></span>[10](#fr_10.md) These names, as well as most
 others occurring in the poem, are evidently made to order.
 
-<span id="note_11"></span>[11](#fr_11) The passage is not certain.
+<span id="note_11"></span>[11](#fr_11.md) The passage is not certain.
 
-<span id="note_12"></span>[12](#fr_12) *I.e.,* as outlaws.
+<span id="note_12"></span>[12](#fr_12.md) *I.e.,* as outlaws.
 
-<span id="note_13"></span>[13](#fr_13) The first woman—or else, Adam and
+<span id="note_13"></span>[13](#fr_13.md) The first woman—or else, Adam and
 Eve—came sinless out of the hands of the Creator.
 
-<span id="note_14"></span>[14](#fr_14) Duels were fought out on islands
+<span id="note_14"></span>[14](#fr_14.md) Duels were fought out on islands
 (holms); hence the expression “to go on the holm” for “to fight a duel.”
 
 <span id="footnotes_page_105">p. 105</span>
 
-<span id="note_15"></span>[15](#fr_15) Evidently a married couple, since
+<span id="note_15"></span>[15](#fr_15.md) Evidently a married couple, since
 Ráthný is a woman’s name.
 
-<span id="note_16"></span>[16](#fr_16) *I.e.,* in hell.
+<span id="note_16"></span>[16](#fr_16.md) *I.e.,* in hell.
 
-<span id="note_17"></span>[17](#fr_17) The damned are tortured both by
+<span id="note_17"></span>[17](#fr_17.md) The damned are tortured both by
 heat and cold.
 
-<span id="note_18"></span>[18](#fr_18) This very worldly, and certainly
+<span id="note_18"></span>[18](#fr_18.md) This very worldly, and certainly
 un-Christian, advice corresponds to *Hóvamól,* 89 f.
 
-<span id="note_19"></span>[19](#fr_19) The term in the original may mean
+<span id="note_19"></span>[19](#fr_19.md) The term in the original may mean
 either one who gives good counsel or one who is easily deceived.
 
-<span id="note_20"></span>[20](#fr_20) In certain cases, northern law
+<span id="note_20"></span>[20](#fr_20.md) In certain cases, northern law
 allowed the award to be made by the fair-mindedness of one of the
 parties to a suit.
 
-<span id="note_21"></span>[21](#fr_21) Cf. the warning *Sigrdrífumól,*
+<span id="note_21"></span>[21](#fr_21.md) Cf. the warning *Sigrdrífumól,*
 37.
 
-<span id="note_22"></span>[22](#fr_22) The security is given by Sorli to
+<span id="note_22"></span>[22](#fr_22.md) The security is given by Sorli to
 his enemies.
 
 <span id="footnotes_page_106">p. 106</span>
 
-<span id="note_23"></span>[23](#fr_23) Here, it seems, the *chorus
+<span id="note_23"></span>[23](#fr_23.md) Here, it seems, the *chorus
 virginum* that bear up the prayers of men to God. The following, rather
 prosy, stanzas are an elaboration on the theme of “pray and ye shall be
 given,” somewhat in the form of the arch-heathen *Loddfáfnismál*
@@ -863,115 +863,115 @@ given,” somewhat in the form of the arch-heathen *Loddfáfnismál*
 
 <span id="footnotes_page_107">p. 107</span>
 
-<span id="note_24"></span>[24](#fr_24) The crown of life.
+<span id="note_24"></span>[24](#fr_24.md) The crown of life.
 
-<span id="note_25"></span>[25](#fr_25) Viz., the Judgment.
+<span id="note_25"></span>[25](#fr_25.md) Viz., the Judgment.
 
-<span id="note_26"></span>[26](#fr_26) *I.e.,* are unsteady in the
+<span id="note_26"></span>[26](#fr_26.md) *I.e.,* are unsteady in the
 faith. To the medieval Christian, “doubt” is a mortal sin.
 
-<span id="note_27"></span>[27](#fr_27) These counsels concerning the
+<span id="note_27"></span>[27](#fr_27.md) These counsels concerning the
 Deadly Sins—Pride, Covetousness, Lust, Anger, Gluttony, Envy, Sloth—seem
 to refer, in a loose fashion, rather to the preceding stanzas.
 
-<span id="note_28"></span>[28](#fr_28) The following passage is the
+<span id="note_28"></span>[28](#fr_28.md) The following passage is the
 kernel of the poem. It deals with life and death, and life in the
 Beyond.
 
-<span id="note_29"></span>[29](#fr_29) It is one of pleasure for those
+<span id="note_29"></span>[29](#fr_29.md) It is one of pleasure for those
 living, but one of terror for those suffering for their sins in hell.
 
 <span id="footnotes_page_108">p. 108</span>
 
-<span id="note_30"></span>[30](#fr_30) That is, of what was to come.
+<span id="note_30"></span>[30](#fr_30.md) That is, of what was to come.
 
-<span id="note_31"></span>[31](#fr_31) Literally, this place for
+<span id="note_31"></span>[31](#fr_31.md) Literally, this place for
 dwelling in (for a short while).
 
-<span id="note_32"></span>[32](#fr_32) Satan?
+<span id="note_32"></span>[32](#fr_32.md) Satan?
 
-<span id="note_33"></span>[33](#fr_33) *I.e.,* death.
+<span id="note_33"></span>[33](#fr_33.md) *I.e.,* death.
 
-<span id="note_34"></span>[34](#fr_34) The meaning of the stanza is
+<span id="note_34"></span>[34](#fr_34.md) The meaning of the stanza is
 doubtful. Possibly, the maids of hell are the diseases sent by Satan to
 torment the dying man.
 
-<span id="note_35"></span>[35](#fr_35) It seems that this world below is
+<span id="note_35"></span>[35](#fr_35.md) It seems that this world below is
 meant, with its tumult and confusion, which reaches the speaker’s ear as
 he lies on his deathbed, between this life and the Beyond.
 
-<span id="note_36"></span>[36](#fr_36) The entrance to the realm of the
+<span id="note_36"></span>[36](#fr_36.md) The entrance to the realm of the
 dead, not necessarily the gates of the Christian hell; cf. the *Short
 Lay of Sigurth,* stanza 67.
 
 <span id="footnotes_page_109">p. 109</span>
 
-<span id="note_37"></span>[37](#fr_37) *I.e.,* the sun, which is
+<span id="note_37"></span>[37](#fr_37.md) *I.e.,* the sun, which is
 feminine in Old Norse. According to Ólson, this passage shows that the
 sun is not here to be taken as a symbol (of Christ), but physically.
 
-<span id="note_38"></span>[38](#fr_38) Kenning for “the sea.” (?).
+<span id="note_38"></span>[38](#fr_38) Kenning for “the sea.” (?.md).
 
-<span id="note_39"></span>[39](#fr_39) *I.e.,* reflecting the bloody red
+<span id="note_39"></span>[39](#fr_39.md) *I.e.,* reflecting the bloody red
 of sunset.
 
-<span id="note_40"></span>[40](#fr_40) Viz., by contrition, knowing that
+<span id="note_40"></span>[40](#fr_40.md) Viz., by contrition, knowing that
 his last hour has struck.
 
-<span id="note_41"></span>[41](#fr_41) Accepting Ólsen’s interpretation:
+<span id="note_41"></span>[41](#fr_41.md) Accepting Ólsen’s interpretation:
 As the eyes of the dying man close, both sun and sea vanish to him.
 
-<span id="note_42"></span>[42](#fr_42) The “star of hope” has been
+<span id="note_42"></span>[42](#fr_42.md) The “star of hope” has been
 interpreted as the soul, departing from the body at the time of birth,
 viz., into another life: there is an intimate connection between each
 human life and its “star.”
 
 <span id="footnotes_page_110">p. 110</span>
 
-<span id="note_43"></span>[43](#fr_43) The night of the “wake.”
+<span id="note_43"></span>[43](#fr_43.md) The night of the “wake.”
 
-<span id="note_44"></span>[44](#fr_44) Cf. *Genesis* 3:19, “Dust thou
+<span id="note_44"></span>[44](#fr_44.md) Cf. *Genesis* 3:19, “Dust thou
 art,” etc.
 
-<span id="note_45"></span>[45](#fr_45) The poet seems to complain that
+<span id="note_45"></span>[45](#fr_45.md) The poet seems to complain that
 the nearest of kin often do not show loving care for the dying.
 
-<span id="note_46"></span>[46](#fr_46) Separated from his wealth by
+<span id="note_46"></span>[46](#fr_46.md) Separated from his wealth by
 death, every man’s destiny is the same.
 
-<span id="note_47"></span>[47](#fr_47) That is, from sin.
+<span id="note_47"></span>[47](#fr_47.md) That is, from sin.
 
-<span id="note_48"></span>[48](#fr_48) According to Ólson, whose text I
+<span id="note_48"></span>[48](#fr_48.md) According to Ólson, whose text I
 follow here, this is the Hill of Purgatory (cf. Dante’s Mountain of
 Purgatory) where the soul dwells nine days, to be cleansed from nine
 deadly sins, then to be lifted up to the highest pinnacle.
 
-<span id="note_49"></span>[49](#fr_49) A difficult passage, but there is
+<span id="note_49"></span>[49](#fr_49.md) A difficult passage, but there is
 no doubt reference to the light of another world.
 
-<span id="note_50"></span>[50](#fr_50) In this obscure stanza, the
+<span id="note_50"></span>[50](#fr_50.md) In this obscure stanza, the
 “seats of victory” seem to signify the stations on the way from Hell to
 Paradise. According to medieval tradition there are seven worlds
 obedient to Christ.
 
 <span id="footnotes_page_111">p. 111</span>
 
-<span id="note_51"></span>[51](#fr_51) *I.e.,* hell.
+<span id="note_51"></span>[51](#fr_51.md) *I.e.,* hell.
 
-<span id="note_52"></span>[52](#fr_52) Because coming out of the fire of
+<span id="note_52"></span>[52](#fr_52.md) Because coming out of the fire of
 cleansing.
 
-<span id="note_53"></span>[53](#fr_53) Leviathan?
+<span id="note_53"></span>[53](#fr_53.md) Leviathan?
 
-<span id="note_54"></span>[54](#fr_54) The glowing Pool (?). The stanza
+<span id="note_54"></span>[54](#fr_54) The glowing Pool (?.md). The stanza
 as a whole is obscure.
 
-<span id="note_55"></span>[55](#fr_55) Very likely, Christ, who in such
+<span id="note_55"></span>[55](#fr_55.md) Very likely, Christ, who in such
 legends as those of Placitus, Hubertus, etc., appears as a stag with the
 cross between his antlers. He comes to bind together Leviathan and
 Lucifer (?).
 
-<span id="note_56"></span>[56](#fr_56) According to Ólson, the seven
+<span id="note_56"></span>[56](#fr_56.md) According to Ólson, the seven
 Wise Men of the old dispensation, who (like Dante’s poets and sages of
 antiquity) are placed at the very entrance, in a *limbus patrum,* where
 they indulge in their earthly habits not subjected to torture. But, more
@@ -980,92 +980,92 @@ signifies God’s mercy. Hence the-burn-of-the-god(*regin*)-of-the-ring is
 a kenning for Christ, who is the “fountain of mercy” (*fons
 misericordiæ*) which refreshes the angels.
 
-<span id="note_57"></span>[57](#fr_57) Evidently, as punishment for
+<span id="note_57"></span>[57](#fr_57.md) Evidently, as punishment for
 adultery. The following stanzas refer to the punishment of the wicked
 and the reward of the pious.
 
-<span id="note_58"></span>[58](#fr_58) *I.e.,* millstones.
+<span id="note_58"></span>[58](#fr_58.md) *I.e.,* millstones.
 
 <span id="footnotes_page_112">p. 112</span>
 
-<span id="note_59"></span>[59](#fr_59) Emasculated? The stanza evidently
+<span id="note_59"></span>[59](#fr_59.md) Emasculated? The stanza evidently
 refers to the punishment of lecherers.
 
-<span id="note_60"></span>[60](#fr_60) Holy Communion. It is,
+<span id="note_60"></span>[60](#fr_60.md) Holy Communion. It is,
 doubtfully, suggested that, without it, man is threatened by signs
 foreboding hell-torment.
 
-<span id="note_61"></span>[61](#fr_61) The stanza seems to refer to the
+<span id="note_61"></span>[61](#fr_61.md) The stanza seems to refer to the
 punishment of Vanity.
 
-<span id="note_62"></span>[62](#fr_62) “Greedy for Money,” *i.e.*.
+<span id="note_62"></span>[62](#fr_62.md) “Greedy for Money,” *i.e.*.
 Mammon.
 
-<span id="note_63"></span>[63](#fr_63) Instead of the gold they had
+<span id="note_63"></span>[63](#fr_63.md) Instead of the gold they had
 craved.
 
-<span id="note_64"></span>[64](#fr_64) As they had run others through
+<span id="note_64"></span>[64](#fr_64.md) As they had run others through
 with their swords.
 
 <span id="footnotes_page_113">p. 113</span>
 
-<span id="note_65"></span>[65](#fr_65) The Sabbath-breakers are punished
+<span id="note_65"></span>[65](#fr_65.md) The Sabbath-breakers are punished
 in the member by which they offended.
 
-<span id="note_66"></span>[66](#fr_66) The sin of Pride was exhibited
+<span id="note_66"></span>[66](#fr_66.md) The sin of Pride was exhibited
 chiefly ir their garments.
 
-<span id="note_67"></span>[67](#fr_67) The “Book of Life,” probably, in
+<span id="note_67"></span>[67](#fr_67.md) The “Book of Life,” probably, in
 which the names of the blessed are recorded. In the following stanzas
 the reward of the “virtuous” is pictured.
 
-<span id="note_68"></span>[68](#fr_68) Meant are the pilgrims.
+<span id="note_68"></span>[68](#fr_68.md) Meant are the pilgrims.
 
 <span id="footnotes_page_114">p. 114</span>
 
-<span id="note_69"></span>[69](#fr_69) Scholars have suggested that the
+<span id="note_69"></span>[69](#fr_69.md) Scholars have suggested that the
 poet was thinking of the wain of Elijah.
 
-<span id="note_70"></span>[70](#fr_70) In the following, exceedingly
+<span id="note_70"></span>[70](#fr_70.md) In the following, exceedingly
 difficult stanzas, the poet seems to return to the punishment of the
 wicked. So emended by Ólsen; if correctly, *Hringvor* refers to the sin
 of Slander, as *Listvor* does to Treason. both personified as women in
 the guise of sirens. Their emanations spread strife among men.
 
-<span id="note_71"></span>[71](#fr_71) As Ólsen ingeniously suggests,
+<span id="note_71"></span>[71](#fr_71.md) As Ólsen ingeniously suggests,
 possibly corrupted from (H)*Erebi,* genitive of *Erebus,* the lower
 world.
 
-<span id="note_72"></span>[72](#fr_72) Apparently, here *Venus*
+<span id="note_72"></span>[72](#fr_72.md) Apparently, here *Venus*
 (*Freya*).
 
-<span id="note_73"></span>[73](#fr_73) The earth viewed as a ship (?).
+<span id="note_73"></span>[73](#fr_73) The earth viewed as a ship (?.md).
 Or can the poet here possibly refer to Venus in her shell drifting on
 the main?
 
-<span id="note_74"></span>[74](#fr_74) Paasche suggests that *Sólkatla*
+<span id="note_74"></span>[74](#fr_74.md) Paasche suggests that *Sólkatla*
 is the Heavenly Jerusalem; her sons, therefore, the company of Saints.
 But none of the conjectures so far offered seem to clear up this obscure
 stanza, whose translation, therefore, mildly put, is uncertain.
 
 <span id="footnotes_page_115">p. 115</span>
 
-<span id="note_75"></span>[75](#fr_75) Hardly the god *Niorth*.
+<span id="note_75"></span>[75](#fr_75.md) Hardly the god *Niorth*.
 
-<span id="note_76"></span>[76](#fr_76) Possibly, this name refers to the
+<span id="note_76"></span>[76](#fr_76.md) Possibly, this name refers to the
 sin of Avarice, “the oldest of the sins,” as *Kreppvor* to Pride. Their
 sisters are the other mortal sins.
 
-<span id="note_77"></span>[77](#fr_77) It has been suggested that the
+<span id="note_77"></span>[77](#fr_77.md) It has been suggested that the
 meaning is: once men surrender to the deadly sins they become “wolves,”
 *i.e.,* commit even unnatural sins.
 
-<span id="note_78"></span>[78](#fr_78) Viz., the son, from his departed
+<span id="note_78"></span>[78](#fr_78.md) Viz., the son, from his departed
 father.
 
-<span id="note_79"></span>[79](#fr_79) *Dies Lætitiæ*.
+<span id="note_79"></span>[79](#fr_79.md) *Dies Lætitiæ*.
 
-<span id="note_80"></span>[80](#fr_80) The *Requiem æternum dona eis* of
+<span id="note_80"></span>[80](#fr_80.md) The *Requiem æternum dona eis* of
 Catholic prayer.
 
 ------------------------------------------------------------------------

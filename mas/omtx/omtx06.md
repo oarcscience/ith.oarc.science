@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](omtx05)  [Next](omtx07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](omtx05)  [Next](omtx07.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,7 +87,7 @@ Ere windows of the mind grow dim.
   Or door of speech obstructed wave:  
 When voice of bird fresh terrors wake;  
   And music's daughters charm no more,  
-Or fear to rise with [trembling](errata.htm#0) shake,  
+Or fear to rise with [trembling](errata.htm#0.md) shake,  
   Along the path we travel o’er.
 
 In youth, to God let memory cling,  
@@ -426,4 +426,4 @@ conferred, and worthy of the confidence we have reposed in you.
 
 ------------------------------------------------------------------------
 
-[Next: Addresses](omtx07)
+[Next: Addresses](omtx07.md)

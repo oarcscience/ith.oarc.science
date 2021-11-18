@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg31)  [Next](leg33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg31)  [Next](leg33.md) 
 
 ------------------------------------------------------------------------
 
 IV\. Nor, indeed, ought such an examination to be looked on as
 unnecessary whilst there are so many ignorant of the true reason even of
 the most ordinary rites observed by the Egyptian priests, such as their
-shavings <span id="fr_267"></span>[1](#fn_265) and wearing linen
+shavings <span id="fr_267"></span>[1](#fn_265.md) and wearing linen
 garments. Some, indeed, there are who never trouble themselves to think
 at all about these matters, whilst others rest satisfied with the most
 superficial accounts of them: "They pay a
 
 <span id="page_203">p. 203</span>
 
-peculiar veneration to the sheep, <span id="fr_268"></span>[1](#fn_266)
+peculiar veneration to the sheep, <span id="fr_268"></span>[1](#fn_266.md)
 therefore they think it their duty not only to abstain from eating its
 flesh, but likewise from wearing its wool. They are continually mourning
 for their gods, therefore they shave themselves. The light azure blossom
@@ -31,7 +31,7 @@ who, whilst; they are in a course of purification, are at so much pains
 to take off the hair from every part of their own bodies, at the same
 time to clothe themselves with that of other animals. So when we are
 told by Hesiod "not to pare our nails whilst we are present at the
-festivals of the gods," <span id="fr_269"></span>[2](#fn_267) we ought
+festivals of the gods," <span id="fr_269"></span>[2](#fn_267.md) we ought
 to understand that he intended hereby to inculcate that purity wherewith
 we ought to
 
@@ -50,16 +50,16 @@ of this in another place.
 
 ### Footnotes
 
-<span id="fn_265"></span>[202:1](leg32.htm#fr_267) A rubric in the
+<span id="fn_265"></span>[202:1](leg32.htm#fr_267.md) A rubric in the
 papyrus of Nes-Menu in the British Museum orders the priestesses of Isis
 and Nephthys to have "the hair of their bodies shaved off" (No. 10,188,
 col. 1), but they are also ordered to wear fillets of rams' wool on
 their heads.
 
-<span id="fn_266"></span>[203:1](leg32.htm#fr_268) Probably the ram of
+<span id="fn_266"></span>[203:1](leg32.htm#fr_268.md) Probably the ram of
 Amen. Animal sacrifices were invariably bulls and cows.
 
-<span id="fn_267"></span>[203:2](leg32.htm#fr_269) This saying is by
+<span id="fn_267"></span>[203:2](leg32.htm#fr_269.md) This saying is by
 Pythagoras--Παρὰ θυσίαν μὴ ὀνυχίζου. The saying of Hesiod (*Works and
 Days*, 740) is rendered by Goodwin:--
 
@@ -68,4 +68,4 @@ With sharp-edged steel to part the green from dry."
 
 ------------------------------------------------------------------------
 
-[Next: Section V](leg33)
+[Next: Section V](leg33.md)

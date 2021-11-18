@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Celtic
-Fairies](../../celt/index.htm#fairies)  [Index](index)  [Next](cof01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index.md)  [Celtic
+Fairies](../../celt/index.htm#fairies)  [Index](index)  [Next](cof01.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,11 +28,11 @@ Fairies](../../celt/index.htm#fairies)  [Index](index)  [Next](cof01) 
 [![MR. E. L. GARDNER Member of the Executive Committee of the
 Theosophical Society (England)&lt;BR&gt;
 &lt;I&gt;Frontispiece&lt;/I&gt;.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 MR. E. L. GARDNER Member of the Executive Committee of the Theosophical
 Society (England)  
 *Frontispiece*.  
 
 ------------------------------------------------------------------------
 
-[Next: Preface](cof01)
+[Next: Preface](cof01.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog02)  [Next](bog04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog02)  [Next](bog04.md) 
 
 ------------------------------------------------------------------------
 
@@ -197,4 +197,4 @@ And all her sisters, even though we know it not.
 
 ------------------------------------------------------------------------
 
-[Next: The Names of the Goddess](bog04)
+[Next: The Names of the Goddess](bog04.md)

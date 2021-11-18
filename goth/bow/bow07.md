@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](bow06)  [Next](bow08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](bow06)  [Next](bow08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B54F2G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Were-Wolves*, by Sabine Baring-Gould, \[1865\], at
 Intangible Textual Heritage
 
@@ -420,4 +420,4 @@ mescognoistre."\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Jean Grenier](bow08)
+[Next: Chapter VII. Jean Grenier](bow08.md)

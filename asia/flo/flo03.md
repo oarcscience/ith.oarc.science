@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flo02)  [Next](flo04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flo02)  [Next](flo04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1859581994/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folklore and Legends: Oriental*, by Charles John Tibbitts, \[1889\], at
 Intangible Textual Heritage
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 Persian
 
 <span class="smallcaps">In</span> the great city of Isfahan lived Ahmed
-the [cobbler](errata.htm#0), an honest and industrious man, whose wish
+the [cobbler](errata.htm#0.md), an honest and industrious man, whose wish
 was to pass through life quietly; and he might have done so, had he not
 married a handsome wife, who, although she had condescended to accept of
 him as a husband, was far from being contented with his humble sphere of
@@ -541,4 +541,4 @@ sensible.
 ------------------------------------------------------------------------
 
 [Next: The Legend of the Terrestrial Paradise of Sheddád, The Son Of
-’A’d](flo04)
+’A’d](flo04.md)

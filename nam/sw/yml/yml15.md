@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml14)  [Next](yml16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml14)  [Next](yml16.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ he died. They buried him. There it ends. MT
 
 ------------------------------------------------------------------------
 
-[Next: The Two Bears](yml16)
+[Next: The Two Bears](yml16.md)

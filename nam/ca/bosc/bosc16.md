@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc15)  [Next](bosc17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc15)  [Next](bosc17.md) 
 
 ------------------------------------------------------------------------
 
@@ -328,4 +328,4 @@ deluded.
 ------------------------------------------------------------------------
 
 [Next: Chapter XV. Origin of the Population of the Mission of St. Juan
-Capistrano](bosc17)
+Capistrano](bosc17.md)

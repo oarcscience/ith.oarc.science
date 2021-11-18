@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai03)  [Next](tai05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai03)  [Next](tai05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ collector, but an indifferent critic; and, from contemporary evidence it
 has been gathered that only six of the learned men of the time ever had
 the opportunity of seeing this vanished MS.: amongst them
 Bantyš-Kamenski, A. F. Malinovski, A. I. Ermoláev, N. M. Karamzín, R. F.
-Tirnkovski and G. N. Boltin. <span id="fr_0"></span>[†](#fn_0)
+Tirnkovski and G. N. Boltin. <span id="fr_0"></span>[†](#fn_0.md)
 
 In the preface Musin-Puškin says:--"The original MS. is in very ancient
 handwriting. It belongs to the editor who, through his own endeavours
@@ -187,7 +187,7 @@ so deficient and faulty.
 
 ### Footnotes
 
-<span id="fn_0"></span>[i:†](tai04.htm#fr_0) Malínovski stated (*teste*
+<span id="fn_0"></span>[i:†](tai04.htm#fr_0.md) Malínovski stated (*teste*
 Dubenski) that the MS. was of the end of the XIV century; Ermoláev that
 it was of the middle of the XV: Kalaidovič (who did not see it)
 pronounced it for the XVI century. At all events it was not the
@@ -195,4 +195,4 @@ contemporary copy.
 
 ------------------------------------------------------------------------
 
-[Next: The Geography of Russia](tai05)
+[Next: The Geography of Russia](tai05.md)

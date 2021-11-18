@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe298)  [Next](prwe300) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe298)  [Next](prwe300.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ that one is certain to be married first.
 
 ------------------------------------------------------------------------
 
-[Next: "By Hook or by Crook"](prwe300)
+[Next: "By Hook or by Crook"](prwe300.md)

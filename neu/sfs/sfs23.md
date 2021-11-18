@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs22)  [Next](sfs24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs22)  [Next](sfs24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -31,14 +31,14 @@ recompense him a hundredfold in another form. And as he was poor, he
 therefore determined to sell his cottage and goods and take the whole
 price to the priest at the church. He went home and told his wife of his
 intentions; and in a few days the money was in the hands of the
-parson. <span id="fr_5"></span>[\*](#fn_5) But day passed after day, and
+parson. <span id="fr_5"></span>[\*](#fn_5.md) But day passed after day, and
 nothing was to be seen of a recompense. At last, when hunger sorely
 tried the cobbler, he dressed himself like an old beggar and went to
 seek for the Lord God. After wandering a couple of days he met with an
 old shepherd, who was pasturing a large flock of lambs. And as he was
 very hungry, he made up his mind to go up to the old shepherd, and ask
 him to give him a little to eat out of his dinner-basket. <span
-id="fr_6"></span>[†](#fn_6) During the meal he related all that he had
+id="fr_6"></span>[†](#fn_6.md) During the meal he related all that he had
 done, and how it was then going with him. The old shepherd
 compassionated the poor cobbler, and gave him a lamb, which scattered
 ducats at every call: 'Lamb, shake yourself!' but gave it him under the
@@ -163,13 +163,13 @@ other people, but assisted every poor person.
 
 ### Footnotes
 
-<span id="fn_5"></span>[102:\*](sfs23.htm#fr_5) *Plebanus*, the priest
+<span id="fn_5"></span>[102:\*](sfs23.htm#fr_5.md) *Plebanus*, the priest
 of a church in which baptisms are celebrated.
 
-<span id="fn_6"></span>[102:†](sfs23.htm#fr_6) Or dinner-pot: two
+<span id="fn_6"></span>[102:†](sfs23.htm#fr_6.md) Or dinner-pot: two
 earthenware pots united together, used by shepherds and others to carry
 their dinners in.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sfs24)
+[Next: Introduction](sfs24.md)

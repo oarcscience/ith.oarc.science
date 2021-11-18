@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe308)  [Next](prwe310) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe308)  [Next](prwe310.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ much of the adjoining parish.
 
 ------------------------------------------------------------------------
 
-[Next: The Penryn Tragedy](prwe310)
+[Next: The Penryn Tragedy](prwe310.md)

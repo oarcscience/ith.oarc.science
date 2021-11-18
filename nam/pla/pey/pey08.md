@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey07)  [Next](pey09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey07)  [Next](pey09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -192,7 +192,7 @@ symbolize the fact that they are to become one; the water represents the
 God's gift, His Holiness. The corn represents the feast to be partaken
 of on the Day of Judgment and the fruit represents the fruit of the tree
 of life. The meat represents the message of Christ and those who accept
-it will be saved.) <span id="fr_3"></span>[4](#fn_3)
+it will be saved.) <span id="fr_3"></span>[4](#fn_3.md)
 
 The above descriptions represent the Peyote cult as it was given between
 1908 and 1913. It is quite clear that a definite organization exists
@@ -228,8 +228,8 @@ that Rave enjoyed before him and that Clay subsequently acquired.
 
 ### Footnotes
 
-<span id="fn_3"></span>[370:4](pey08.htm#fr_3) J.C.'s account ends here.
+<span id="fn_3"></span>[370:4](pey08.htm#fr_3.md) J.C.'s account ends here.
 
 ------------------------------------------------------------------------
 
-[Next: Development of the Ritualistic Complex](pey09)
+[Next: Development of the Ritualistic Complex](pey09.md)

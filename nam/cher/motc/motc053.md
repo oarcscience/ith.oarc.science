@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc052) 
-[Next](motc054) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc052.md) 
+[Next](motc054.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ disabled, to make his way home to Hickory-log.
 
 ------------------------------------------------------------------------
 
-[Next: 54. The Ustû'tlï](motc054)
+[Next: 54. The Ustû'tlï](motc054.md)

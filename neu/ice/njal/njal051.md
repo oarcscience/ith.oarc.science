@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal050)  [Next](njal052) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal050)  [Next](njal052.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ while.
 
 ------------------------------------------------------------------------
 
-[Next: 52. Of Runolf, The Son Of Wolf Aurpriest](njal052)
+[Next: 52. Of Runolf, The Son Of Wolf Aurpriest](njal052.md)

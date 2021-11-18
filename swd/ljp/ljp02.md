@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ljp01)  [Next](ljp03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ljp01)  [Next](ljp03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087785176X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ published. The spirits who are with Quakers, whom they think to be the
 Holy Spirit, are they who were of the same sect in the world. To these
 after death they first pass; who inspire into them not to promulgate
 anything; wherefore they live separated; they are spurious
-spirits. <span id="fr_4"></span>[59-1](#fn_4) A communion of certain
+spirits. <span id="fr_4"></span>[59-1](#fn_4.md) A communion of certain
 detestable wives was disclosed: they then expect an influx from the holy
 spirit, with a perception of leave that it is permitted. Their secret
 holy worship consists of such things, and by such things also the
@@ -155,15 +155,15 @@ this from the insane love, that they wished to be invoked and worshipped
 as gods; and that love profanes all the sanctity of heaven. But still
 the monks, and especially the Jesuits, conceal the lot of those, and lie
 to the common people, that they are saints on account of a
-restraint <span id="fr_5"></span>[60-1](#fn_5) and obedience; although
-they laugh at them in their hearts. <span id="fr_6"></span>[60-2](#fn_6)
+restraint <span id="fr_5"></span>[60-1](#fn_5.md) and obedience; although
+they laugh at them in their hearts. <span id="fr_6"></span>[60-2](#fn_6.md)
 
 <span class="margnote"><span id="61.">61.</span></span>
 
 \[60\] I heard the Pope who lived in the year 1738, -because he receded
 from the Babylonish error, and renounced all power over souls and over
 heaven, and became a Christian, calling upon the Lord alone,  <span
-id="fr_7"></span>[61-1](#fn_7) he related to me that he had spoken with
+id="fr_7"></span>[61-1](#fn_7.md) he related to me that he had spoken with
 almost all who had been made saints, of both sexes; and, except two, he
 had seen no one in heaven; and that these two abhorred being invoked:
 and that many of them were not aware of it; and that some spoke
@@ -718,25 +718,25 @@ these things they were silent, and many acquiesced.
 
 ### Footnotes
 
-<span id="fn_4"></span>[59-1](ljp02.htm#fr_4) \[MARGINAL NOTE.\] There
+<span id="fn_4"></span>[59-1](ljp02.htm#fr_4.md) \[MARGINAL NOTE.\] There
 are Quaker spirits who, from their worship by Quakers in the world,
 believe themselves to be the holy spirit, and to have been from eternity
 but in process of time they come among the profane who are called
 stercoracenus and cadaverous spirits, abominable excrement.
 
-<span id="fn_5"></span>[60-1](ljp02.htm#fr_5) The M.S. has, mucus
+<span id="fn_5"></span>[60-1](ljp02.htm#fr_5.md) The M.S. has, mucus
 narium; Tafel, mercurius vivus. See SE 3811, 3812, where mucus narium
 occurs.
 
-<span id="fn_6"></span>[60-2](ljp02.htm#fr_6) The M.S. has a marginal
+<span id="fn_6"></span>[60-2](ljp02.htm#fr_6.md) The M.S. has a marginal
 note which Tafel omits, namely, Sunt spiritus quaqueriani qui ex cultu a
 quaqueriis in mundo se credunt spiritum sanctum et ab aeterno fuisse,
 sed successu temporis veniunt inter prophanos, qui vocantur spiritu
 stercorei et cadaverosi, excrementum abominabile.
 
-<span id="fn_7"></span>[61-1](ljp02.htm#fr_7) Clement XII, Pope A.D.
+<span id="fn_7"></span>[61-1](ljp02.htm#fr_7.md) Clement XII, Pope A.D.
 1730-1740.
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](ljp03)
+[Next: 101-150](ljp03.md)

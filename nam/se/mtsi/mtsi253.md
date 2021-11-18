@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi252)  [Next](mtsi254) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi252)  [Next](mtsi254.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ Man-eater did not believe him.
 
 ------------------------------------------------------------------------
 
-[Next: 53. Rabbit Obtains Fire](mtsi254)
+[Next: 53. Rabbit Obtains Fire](mtsi254.md)

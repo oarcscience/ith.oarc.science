@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst031)  [Next](inst033) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst031)  [Next](inst033.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Beveridge \[1845\], at Intangible Textual Heritage
 
 <span id="iv.i.xix-p1"></span>THE INSTRUMENTALITY OF THE WICKED EMPLOYED
 BY GOD, WHILE HE CONTINUES FREE FROM EVERY TAINT.14  <span
-id="fr_133"></span>[134](#fn_133)
+id="fr_133"></span>[134](#fn_133.md)
 
 <span id="iv.i.xix-p3"></span>This last chapter of the First Book
 consists of three parts: I. It having been said above that God bends all
@@ -99,7 +99,7 @@ that the perfidious Ahab should be deceived; the devil offers his agency
 for that purpose, and is sent with a definite command to be a lying
 spirit in the mouth of all the prophets (<span
 id="iv.i.xix-p9.1"></span>[2 Kings
-22:20](../../../bib/kjv/kg2022.htm#020)<span
+22:20](../../../bib/kjv/kg2022.htm#020.md)<span
 id="iv.i.xix-p9.1"></span>). If the blinding and infatuation of Ahab is
 a Judgment from God, the fiction of bare permission is at an end; for it
 would be ridiculous for a judge only to permit, and not also to decree,
@@ -108,21 +108,21 @@ of it to his ministers. The Jews purposed to destroy Christ. Pilate and
 the soldiers indulged them in their fury; yet the disciples confess in
 solemn prayer that all the wicked did nothing but what the hand and
 counsel of God had decreed (<span id="iv.i.xix-p9.2"></span>[Acts
-4:28](../../../bib/kjv/act004.htm#028)<span id="iv.i.xix-p9.2"></span>),
+4:28](../../../bib/kjv/act004.htm#028)<span id="iv.i.xix-p9.2"></span>.md),
 just as Peter had previously said in his discourse, that Christ was
 delivered to death by the determinate counsel and foreknowledge of God
 (<span id="iv.i.xix-p9.3"></span>[Acts
-2:23](../../../bib/kjv/act002.htm#023)<span id="iv.i.xix-p9.3"></span>);
+2:23](../../../bib/kjv/act002.htm#023)<span id="iv.i.xix-p9.3"></span>.md);
 in other words, that God, to whom all things are known from the
 beginning, had determined what the Jews had executed. He repeats the
 same thing elsewhere, “Those things, which God before had showed by the
 mouth of all his prophets, that Christ should suffer, he has so
 fulfilled,” (<span id="iv.i.xix-p9.4"></span>[Acts
-4:18](../../../bib/kjv/act004.htm#018)<span id="iv.i.xix-p9.4"></span>).
+4:18](../../../bib/kjv/act004.htm#018)<span id="iv.i.xix-p9.4"></span>.md).
 Absalom incestuously defiling his father’s bed, perpetrates a detestable
 crime. God, however, declares that it was his work; for the words are,
 “Thou midst it secretly, but I will do this thing before all Israel, and
-before the sun.”14  <span id="fr_134"></span>[135](#fn_134) The
+before the sun.”14  <span id="fr_134"></span>[135](#fn_134.md) The
 cruelties of the Chaldeans in Judea are declared by Jeremiah to be the
 work of God. For which reason, Nebuchadnezzar is called the servant of
 God. God frequently exclaims, that by his hiss, by the clang of his
@@ -172,20 +172,20 @@ could any thing be more feeble and insipid than to interpret as if
 Pharaoh had only allowed himself to be hardened? We may add, that
 Scripture cuts off all handle for such cavils: “I,” saith the Lord,
 “will harden his heart,” (<span id="iv.i.xix-p11.1"></span>[Exod.
-4:21](../../../bib/kjv/exo004.htm#021)<span
+4:21](../../../bib/kjv/exo004.htm#021.md)<span
 id="iv.i.xix-p11.1"></span>). So also, Moses says of the inhabitants of
 the land of Canaan, that they went forth to battle because the Lord had
 hardened their hearts (<span id="iv.i.xix-p11.2"></span>[Josh.
-11:20](../../../bib/kjv/jos011.htm#020)<span
+11:20](../../../bib/kjv/jos011.htm#020.md)<span
 id="iv.i.xix-p11.2"></span>). The same thing is repeated by another
 prophet, “He turned their hearts to hate his people,” (<span
 id="iv.i.xix-p11.3"></span>[Psalm
-105:25](../../../bib/kjv/psa105.htm#025)<span
+105:25](../../../bib/kjv/psa105.htm#025.md)<span
 id="iv.i.xix-p11.3"></span>). In like manner, in Isaiah, he says of the
 Assyrian, “I will send him against a hypocritical nation, and against
 the people of my wrath will I give him a charge to take the spoil, and
 to take the prey,” (<span id="iv.i.xix-p11.4"></span>[Isaiah
-10:6](../../../bib/kjv/isa010.htm#006)<span
+10:6](../../../bib/kjv/isa010.htm#006.md)<span
 id="iv.i.xix-p11.4"></span>); not that he intends to teach wicked and
 obstinate man to obey spontaneously, but because he bends them to
 execute his Judgments, just as if they carried their orders engraven on
@@ -195,25 +195,25 @@ reprobate by interposing the agency of Satan; but in such a manner, that
 Satan himself performs his part, just as he is impelled, and succeeds
 only in so far as he is permitted. The evil spirit that troubled Saul is
 said to be from the Lord (<span id="iv.i.xix-p11.5"></span>[1 Sam.
-16:14](../../../bib/kjv/sa1016.htm#014)<span
+16:14](../../../bib/kjv/sa1016.htm#014.md)<span
 id="iv.i.xix-p11.5"></span>), to intimate that Saul’s madness was a just
 punishment from God. Satan is also said to blind the minds of those who
 believe not (<span id="iv.i.xix-p11.6"></span>[2 Cor.
-4:4](../../../bib/kjv/co2004.htm#004)<span id="iv.i.xix-p11.6"></span>).
+4:4](../../../bib/kjv/co2004.htm#004)<span id="iv.i.xix-p11.6"></span>.md).
 But how so, unless that a spirit of error is sent from God himself,
 making those who refuse to obey the truth to believe a lie? According to
 the former view, it is said, “If the prophet be deceived when he has
 spoken a thing, I the Lord have deceived that prophet,” (<span
 id="iv.i.xix-p11.7"></span>[Ezek.
-14:9](../../../bib/kjv/eze014.htm#009)<span
+14:9](../../../bib/kjv/eze014.htm#009.md)<span
 id="iv.i.xix-p11.7"></span>). According to the latter view, he is said
 to have given men over to a reprobate mind (<span
 id="iv.i.xix-p11.8"></span>[Rom.
-1:28](../../../bib/kjv/rom001.htm#028)<span
+1:28](../../../bib/kjv/rom001.htm#028.md)<span
 id="iv.i.xix-p11.8"></span>), because he is the special author of his
 own just vengeance; whereas Satan is only his minister (see Calv. in
 <span id="iv.i.xix-p11.9"></span>[Ps.
-141:4](../../../bib/kjv/psa141.htm#004)<span
+141:4](../../../bib/kjv/psa141.htm#004.md)<span
 id="iv.i.xix-p11.9"></span>). But as in the Second Book (Chap. 4 sec. 3,
 4), in discussing the question of man’s freedom, this subject will again
 be considered, the little that has now been said seems to be all that
@@ -235,7 +235,7 @@ Such petulance, indeed, is not new. In all ages there have been wicked
 and profane men, who rabidly assailed this branch of doctrine. But what
 the Spirit declared of old by the mouth of David (<span
 id="iv.i.xix-p12.1"></span>[Ps.
-51:6](../../../bib/kjv/psa051.htm#006)<span
+51:6](../../../bib/kjv/psa051.htm#006.md)<span
 id="iv.i.xix-p12.1"></span>), they will feel by experience to be
 true—God will overcome when he is judged. David indirectly rebukes the
 infatuation of those whose license is so unbridled, that from their
@@ -258,30 +258,30 @@ plundered by robbers, he acknowledges that their injustice and mischief
 was a just chastisement from God. And what says the Scripture elsewhere?
 The sons of Eli “hearkened not unto the voice of their father, because
 the Lord would slay them,” (<span id="iv.i.xix-p13.1"></span>[1 Sam.
-2:25](../../../bib/kjv/sa1002.htm#025)<span
+2:25](../../../bib/kjv/sa1002.htm#025.md)<span
 id="iv.i.xix-p13.1"></span>). Another prophet also exclaims, “Our God is
 in the heavens: he has done whatsoever he has pleased,” (<span
 id="iv.i.xix-p13.2"></span>[Ps.
-115:3](../../../bib/kjv/psa115.htm#003)<span
+115:3](../../../bib/kjv/psa115.htm#003.md)<span
 id="iv.i.xix-p13.2"></span>). I have already shown clearly enough that
 God is the author of all those things which, according to these
 objectors, happen only by his inactive permission. He testifies that he
 creates light and darkness, forms good and evil (<span
 id="iv.i.xix-p13.3"></span>[Is.
-45:7](../../../bib/kjv/isa045.htm#007)<span
+45:7](../../../bib/kjv/isa045.htm#007.md)<span
 id="iv.i.xix-p13.3"></span>); that no evil happens which he has not done
 (<span id="iv.i.xix-p13.4"></span>[Amos
-3:6](../../../bib/kjv/amo003.htm#006)<span id="iv.i.xix-p13.4"></span>).
+3:6](../../../bib/kjv/amo003.htm#006)<span id="iv.i.xix-p13.4"></span>.md).
 Let them tell me whether God exercises his Judgments willingly or
 unwillingly. As Moses teaches that he who is accidentally killed by the
 blow of an axe, is delivered by God into the hand of him who smites him
 (<span id="iv.i.xix-p13.5"></span>[Deut.
-19:5](../../../bib/kjv/deu019.htm#005)<span
+19:5](../../../bib/kjv/deu019.htm#005.md)<span
 id="iv.i.xix-p13.5"></span>), so the Gospel, by the mouth of Luke,
 declares, that Herod and Pontius Pilate conspired “to do whatsoever thy
 hand and thy counsel determined before to be done,” (<span
 id="iv.i.xix-p13.6"></span>[Acts
-4:28](../../../bib/kjv/act004.htm#028)<span
+4:28](../../../bib/kjv/act004.htm#028.md)<span
 id="iv.i.xix-p13.6"></span>). And, in truth, if Christ was not crucified
 by the will of God, where is our redemption? Still, however, the will of
 God is not at variance with itself. It undergoes no change. He makes no
@@ -292,7 +292,7 @@ different manner, he wills and wills not the very same thing. Paul terms
 the calling of the Gentiles a hidden mystery, and shortly after adds,
 that therein was manifested the manifold wisdom of God (<span
 id="iv.i.xix-p13.7"></span>[Eph.
-3:10](../../../bib/kjv/eph003.htm#010)<span
+3:10](../../../bib/kjv/eph003.htm#010.md)<span
 id="iv.i.xix-p13.7"></span>). Since, on account of the dullness of our
 sense, the wisdom of God seems manifold (or, as an old interpreter
 rendered it, multiform), are we, therefore, to dream of some variation
@@ -301,7 +301,7 @@ Nay, when we cannot comprehend how God can will that to be done which he
 forbids us to do, let us call to mind our imbecility, and remember that
 the light in which he dwells is not without cause termed inaccessible
 (<span id="iv.i.xix-p13.8"></span>[1 Tim.
-6:16](../../../bib/kjv/ti1006.htm#016)<span
+6:16](../../../bib/kjv/ti1006.htm#016.md)<span
 id="iv.i.xix-p13.8"></span>), because shrouded in darkness. Hence, all
 pious and modest men will readily acquiesce in the sentiment of
 Augustine: “Man sometimes with a good will wishes something which God
@@ -327,7 +327,7 @@ which is done contrary to it, because it could not be done if he did not
 permit; nor does he permit it unwillingly, but willingly; nor would He
 who is good permit evil to be done, were he not omnipotent to bring good
 out of evil,” (*Augustin. in* <span id="iv.i.xix-p13.9"></span>[Ps.
-111:2](../../../bib/kjv/psa111.htm#002)<span
+111:2](../../../bib/kjv/psa111.htm#002.md)<span
 id="iv.i.xix-p13.9"></span>).
 
 <span id="iv.i.xix-p14"></span>4. In the same way is solved, or rather
@@ -337,7 +337,7 @@ is the author of all their sins; and, therefore, men, in executing what
 God has decreed, are unjustly condemned, because they are obeying his
 will. Here *will* is improperly confounded with *precept*, though it is
 obvious, from innumerable examples, that there is the greatest
-difference between them.14  <span id="fr_135"></span>[136](#fn_135) When
+difference between them.14  <span id="fr_135"></span>[136](#fn_135.md) When
 Absalom defiled his father’s bed, though God was pleased thus to avenge
 the adultery of David, he did not therefore enjoin an abandoned son to
 commit incest, unless, perhaps, in respect of David, as David himself
@@ -353,14 +353,14 @@ his precept, which of set purpose they violate according to their lust.
 perversely, are of God, and are ruled by his secret providence, is
 strikingly shown in the election of King Jeroboam (<span
 id="iv.i.xix-p16.1"></span>[1 Kings
-12:20](../../../bib/kjv/kg1012.htm#020)<span
+12:20](../../../bib/kjv/kg1012.htm#020.md)<span
 id="iv.i.xix-p16.1"></span>), in which the rashness and infatuation of
 the people are severely condemned for perverting the order sanctioned by
 God, and perfidiously revolting from the family of David. And yet we
 know it was God’s will that Jeroboam should be anointed. Hence the
 apparent contradiction in the words of Hosea (<span
 id="iv.i.xix-p16.2"></span>[Hosea
-8:4](../../../bib/kjv/hos008.htm#004)<span id="iv.i.xix-p16.2"></span>;
+8:4](../../../bib/kjv/hos008.htm#004.md)<span id="iv.i.xix-p16.2"></span>;
 13:11), because, while God complained that that kingdom was erected
 without his knowledge, and against his will, he elsewhere declares, that
 he had given King Jeroboam in his anger. How shall we reconcile the two
@@ -374,7 +374,7 @@ unexpectedly receiving the sacred unction, is urged to aspire to the
 kingdom. For this reason, the sacred history says, that God stirred up
 an enemy to deprive the son of Solomon of part of the kingdom (<span
 id="iv.i.xix-p16.3"></span>[1 Kings
-11:23](../../../bib/kjv/kg1011.htm#023)<span
+11:23](../../../bib/kjv/kg1011.htm#023.md)<span
 id="iv.i.xix-p16.3"></span>). Let the reader diligently ponder both
 points: how, as it was the will of God that the people should be ruled
 by the hand of one king, their being rent into two parties was contrary
@@ -388,7 +388,7 @@ revolted from the posterity of David. For this reason, it is afterwards
 added, that when Rehoboam haughtily spurned the prayers of the people,
 “the cause was from the Lord, that he might perform his saying, which
 the Lord spake by Ahijah,” (<span id="iv.i.xix-p16.4"></span>[I Kings
-12:15](../../../bib/kjv/kg1012.htm#015)<span
+12:15](../../../bib/kjv/kg1012.htm#015.md)<span
 id="iv.i.xix-p16.4"></span>). See how sacred unity was violated against
 the will of God, while, at the same time, with his will the ten tribes
 were alienated from the son of Solomon. To this might be added another
@@ -398,7 +398,7 @@ agency, of the people. Jehu says truly “There shall fall unto the earth
 nothing of the word of the Lord, which the Lord spake concerning the
 house of Ahab: for the Lord has done that which he spake by his servant
 Elijah,” (<span id="iv.i.xix-p16.5"></span>[2 Kings
-10:10](../../../bib/kjv/kg2010.htm#010)<span
+10:10](../../../bib/kjv/kg2010.htm#010.md)<span
 id="iv.i.xix-p16.5"></span>). And yet, with good reason, he upbraids the
 citizens of Samaria for having lent their assistance. “Ye be righteous:
 behold, I conspired against my master, and slew him, but who slew all
@@ -443,7 +443,7 @@ against God, are undeserving of a longer refutation.
 
 ### Footnotes
 
-<span id="fn_133"></span>[134](inst032.htm#fr_133) <span
+<span id="fn_133"></span>[134](inst032.htm#fr_133.md) <span
 id="iv.i.xix-p1.1"></span>
 
 <span id="iv.i.xix-p2"></span>40 140 See Calvin,adv. Libertinos, cap.
@@ -451,24 +451,24 @@ id="iv.i.xix-p1.1"></span>
 discusses the question, Whether the order of Divine Providence includes
 all good and evil?
 
-<span id="fn_134"></span>[135](inst032.htm#fr_134) <span
+<span id="fn_134"></span>[135](inst032.htm#fr_134.md) <span
 id="iv.i.xix-p9.5"></span>
 
 <span id="iv.i.xix-p10"></span>41 141 <span
 id="iv.i.xix-p10.1"></span>[2 Sam.
-12:12](../../../bib/kjv/sa2012.htm#012)<span
+12:12](../../../bib/kjv/sa2012.htm#012.md)<span
 id="iv.i.xix-p10.1"></span>; <span id="iv.i.xix-p10.2"></span>[Jer.
-1:25](../../../bib/kjv/jer001.htm#025)<span id="iv.i.xix-p10.2"></span>;
+1:25](../../../bib/kjv/jer001.htm#025.md)<span id="iv.i.xix-p10.2"></span>;
 <span id="iv.i.xix-p10.3"></span>[Is.
-5:26](../../../bib/kjv/isa005.htm#026)<span id="iv.i.xix-p10.3"></span>;
+5:26](../../../bib/kjv/isa005.htm#026.md)<span id="iv.i.xix-p10.3"></span>;
 10:5; 19:25; <span id="iv.i.xix-p10.4"></span>[2 Sam.
-16:10](../../../bib/kjv/sa2016.htm#010)<span
+16:10](../../../bib/kjv/sa2016.htm#010.md)<span
 id="iv.i.xix-p10.4"></span>; <span id="iv.i.xix-p10.5"></span>[1 Kings
-11:31](../../../bib/kjv/kg1011.htm#031)<span
+11:31](../../../bib/kjv/kg1011.htm#031.md)<span
 id="iv.i.xix-p10.5"></span>; <span id="iv.i.xix-p10.6"></span>[1 Sam.
-2:34](../../../bib/kjv/sa1002.htm#034)<span id="iv.i.xix-p10.6"></span>.
+2:34](../../../bib/kjv/sa1002.htm#034.md)<span id="iv.i.xix-p10.6"></span>.
 
-<span id="fn_135"></span>[136](inst032.htm#fr_135) <span
+<span id="fn_135"></span>[136](inst032.htm#fr_135.md) <span
 id="iv.i.xix-p14.1"></span>
 
 <span id="iv.i.xix-p15"></span>42 142 The French is, “Car ils meslent
@@ -482,4 +482,4 @@ that there is a great distance and diversity between them.
 
 [Next: BOOK SECOND. - OF THE KNOWLEDGE OF GOD THE REDEEMER, IN CHRIST,
 AS FIRST MANIFESTED TO THE FATHERS, UNDER THE LAW, AND THEREAFTER TO US
-UNDER THE GOSPEL.](inst033)
+UNDER THE GOSPEL.](inst033.md)

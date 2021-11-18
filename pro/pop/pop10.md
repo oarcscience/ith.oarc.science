@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Prophecy](../index) 
-[Index](index)  [Previous](pop09)  [Next](pop11) 
+[Intangible Textual Heritage](../../index)  [Prophecy](../index.md) 
+[Index](index)  [Previous](pop09)  [Next](pop11.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ will fall.'
 
 ------------------------------------------------------------------------
 
-[Next: The Sixth Figure](pop11)
+[Next: The Sixth Figure](pop11.md)

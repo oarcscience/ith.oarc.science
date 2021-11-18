@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah19)  [Next](oah21) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah19)  [Next](oah21.md) 
 
 ------------------------------------------------------------------------
 
@@ -103,4 +103,4 @@ listened, longing listened, and looked upward.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](oah21)
+[Next: Chapter V](oah21.md)

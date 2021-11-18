@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](stc10)  [Next](stc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](stc10)  [Next](stc12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Intangible Textual Heritage
 
 # Other Accounts of the History of Creation
 
-### I. Another Version of the Dragon-Myth  <span id="fr_167"></span>[1](#fn_167)
+### I. Another Version of the Dragon-Myth  <span id="fr_167"></span>[1](#fn_167.md)
 
 <span class="small">OBV.</span>
 
@@ -34,12 +34,12 @@ I. The cities sighed, men \[...\],
 
 5\. Who was the dragon \[...\]?
 
-6\. Tiamat <span id="fr_168"></span>[2](#fn_168) was the dragon \[...\]!
+6\. Tiamat <span id="fr_168"></span>[2](#fn_168.md) was the dragon \[...\]!
 
 7\. Bêl in heaven hath formed \[...\].
 
 8\. Fifty kaspu in his length, one kaspu \[his height\], <span
-id="fr_169"></span>[3](#fn_169)
+id="fr_169"></span>[3](#fn_169.md)
 
 <span id="page_118">p. 118</span> <span id="page_119">p. 119</span>
 
@@ -61,7 +61,7 @@ id="fr_169"></span>[3](#fn_169)
 16\. The border of the Moon-god's robe they hasti\[ly grasped\]:
 
 17\. "Who will go and \[slay\] the dragon, <span
-id="fr_170"></span>[1](#fn_170)
+id="fr_170"></span>[1](#fn_170.md)
 
 18\. "And deliver the broad land \[from ...\],
 
@@ -74,7 +74,7 @@ id="fr_170"></span>[1](#fn_170)
 22\. "And become king \[over ...\]?"
 
 23\. "Thou hast sent me, O lord, \[to ...\] the raging (creatures) <span
-id="fr_171"></span>[2](#fn_171) of the river,
+id="fr_171"></span>[2](#fn_171.md) of the river,
 
 24\. "But I know not the \[...\] of the Dragon!"
 
@@ -86,7 +86,7 @@ tablet are wanting.\]
 <span class="small">REV.</span>
 
 1\. \[And ...\] opened his mouth and \[spake\] unto the god <span
-id="fr_172"></span>[1](#fn_172)\[...\]:
+id="fr_172"></span>[1](#fn_172.md)\[...\]:
 
 2 . "Stir up cloud, and storm \[and tempest\]!
 
@@ -101,16 +101,16 @@ id="fr_172"></span>[1](#fn_172)\[...\]:
 7\. He grasped it, and \[he slew\] the dragon.
 
 8\. For three years and three months, one day and \[one night\] <span
-id="fr_173"></span>[2](#fn_173)
+id="fr_173"></span>[2](#fn_173.md)
 
 9\. The blood of the dragon flowed \[...\]  <span
-id="fr_174"></span>[3](#fn_174)
+id="fr_174"></span>[3](#fn_174.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_167"></span>[117:1](stc11.htm#fr_167) For the text, see
+<span id="fn_167"></span>[117:1](stc11.htm#fr_167.md) For the text, see
 *Cuneiform Texts*, part xiii, pl. 33 f., Rm. 282; for a previous
 publication, cf. Delitzsch, *Assyrisches Wörterbuch*, p. 390 f.;
 translations have been given by Zimmern in Gunkel's *Schöpfung und
@@ -122,10 +122,10 @@ Rm. 282 the fight with the dragon did not precede the creation of the
 world, but took place after men had been created and cities had been
 built; see further the Introduction.
 
-<span id="fn_168"></span>[117:2](stc11.htm#fr_168) The form of the name
+<span id="fn_168"></span>[117:2](stc11.htm#fr_168.md) The form of the name
 here used is *Tâmtu*, i.e., the Sea."
 
-<span id="fn_169"></span>[117:3](stc11.htm#fr_169) The kaspu is the
+<span id="fn_169"></span>[117:3](stc11.htm#fr_169.md) The kaspu is the
 space that can be covered in two hours travelling, i.e., about six or
 seven miles. These general dimensions of the size of the dragon are in
 accordance with the statement made in l. 8f. of the reverse to the
@@ -147,18 +147,18 @@ raising of his head in the air to a height of six or seven miles would
 not be inconsistent with the measurement of his mouth as six cubits,
 i.e., some ten feet or more across.
 
-<span id="fn_170"></span>[119:1](stc11.htm#fr_170) Lines 17-19 are the
+<span id="fn_170"></span>[119:1](stc11.htm#fr_170.md) Lines 17-19 are the
 appeal of the gods to the Moon-god; ll. 20-22 contain the address of the
 Moon-god to Ti<u>shh</u>u; and ll. 23 ff. give Ti<u>shh</u>u's answer to
 the Moon-god.
 
-<span id="fn_171"></span>[119:2](stc11.htm#fr_171) Jensen,
+<span id="fn_171"></span>[119:2](stc11.htm#fr_171.md) Jensen,
 *ri-<u>h</u>u-ut*, which he renders as "moisture." The plural,
 *dal<u>h</u>ûti*, may perhaps be explained by supposing that, according
 to this version also, the dragon had other creatures to help her in the
 fight.
 
-<span id="fn_172"></span>[121:1](stc11.htm#fr_172) Jensen suggests the
+<span id="fn_172"></span>[121:1](stc11.htm#fr_172.md) Jensen suggests the
 restoration *<sup>ilu</sup> B*\[*êl*\], which he deduces from the traces
 upon the tablet as published by Delitzsch; for, as he states, the only
 other restoration possible would be *<sup>ilu</sup>
@@ -170,7 +170,7 @@ represent the sign AN and not the conflate sign AN +EN (cf. *Cun.
 Txts*., pt. xiii, pl. 34), and it is not possible to conclude from the
 text who is the hero of this version.
 
-<span id="fn_173"></span>[121:2](stc11.htm#fr_173) Jensen suggests the
+<span id="fn_173"></span>[121:2](stc11.htm#fr_173.md) Jensen suggests the
 restoration *u* \[ . KAS-PU\], i.e., "for three years, three months, a
 day and \[ . hours\]." The trace of the next character after u is the
 single diagonal wedge (cf. Cun. Txts., pt. xiii, pl. 34); according to
@@ -182,11 +182,11 @@ the end of the line may be restored as *umu I<sup>KAN</sup> u*
 one night," or possibly, as Zimmern in his translation suggests, "day
 and night."
 
-<span id="fn_174"></span>[121:3](stc11.htm#fr_174) The lower part of the
+<span id="fn_174"></span>[121:3](stc11.htm#fr_174.md) The lower part of the
 tablet is taken up with the common colophon found upon tablets from
 A<u>sh</u>ur-bani-pal's palace.
 
 ------------------------------------------------------------------------
 
 [Next: II. A Reference to the Creation of the Cattle and the Beasts of
-the Field](stc12)
+the Field](stc12.md)

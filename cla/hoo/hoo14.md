@@ -1,11 +1,11 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo13)  [Next](hoo15) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo13)  [Next](hoo15.md) 
 
 ------------------------------------------------------------------------
 
 ###### IX.
 
-### TO NATURE. <span id="fr_60"></span>[\*](#fn_60)
+### TO NATURE. <span id="fr_60"></span>[\*](#fn_60.md)
 
 ###### The FUMIGATION from AROMATICS.
 
@@ -27,7 +27,7 @@ Thy feet's still traces in a circling course,
 By thee are turn'd, with unremitting force. 10  
 Pure ornament of all the pow'rs divine,  
 Finite and infinite alike you shine;  <span
-id="fr_61"></span>[12](#fn_61)  
+id="fr_61"></span>[12](#fn_61.md)  
 To all things common and in all things known,  
 Yet incommunicable and alone.  
 Without a father of thy wond'rous frame, 15  
@@ -52,7 +52,7 @@ And plastic hand, this changing scene proceeds. 30
 All-parent pow'r, to mortal eyes unseen,  
 Eternal, moving, all-sagacious queen.  
 By thee the world, whose parts in rapid flow,  <span
-id="fr_62"></span>[33](#fn_62)  
+id="fr_62"></span>[33](#fn_62.md)  
 Like swift descending streams, no respite know,  
 On an eternal hinge, with steady course 35  
 Is whirl'd, with matchless, unremitting force.  
@@ -76,7 +76,7 @@ And crown my days with lasting, peace and health.
 
 ### Footnotes
 
-<span id="fn_60"></span>[126:\*](hoo14.htm#fr_60) Nature, according to
+<span id="fn_60"></span>[126:\*](hoo14.htm#fr_60.md) Nature, according to
 the theologists, as related by Proclus, in Tim. p. iv. is the last of
 the demiurgic causes of this sensible world, and the boundary of the
 latitude of incorporeal essences: and is full of reasons and powers, by
@@ -111,7 +111,7 @@ representative of divine unity, she is incommunicable. And in like
 manner as symbolising with the first cause, she is both without any
 origin, and at the same time the source of her own essence.
 
-<span id="fn_61"></span>[128:12](hoo14.htm#fr_61) Ver. 12.\] Finite and
+<span id="fn_61"></span>[128:12](hoo14.htm#fr_61.md) Ver. 12.\] Finite and
 infinite, &c. Philolaus according to Demetrius (in Laert.) published a
 discourse concerning Nature, of which this is the beginning φύσις δὲ ἐν
 τῳ κόσμῳ αῤμόχθη ἑξ ἀϖειρηον τε καὶ ὅλ\# (<span id="img_12800"></span>
@@ -119,7 +119,7 @@ discourse concerning Nature, of which this is the beginning φύσις δὲ ἐ
 whole world, and whatever it contains. arc aptly connected together from
 infinites and finites."
 
-<span id="fn_62"></span>[129:33](hoo14.htm#fr_62) Ver. 33.\] *By thee
+<span id="fn_62"></span>[129:33](hoo14.htm#fr_62.md) Ver. 33.\] *By thee
 the world*, &c. Since the world has an extended and composite essence,
 and is on this account continually separated from itself, it can alone
 be connected by a certain indivisible virtue infused from the divine
@@ -138,4 +138,4 @@ stream.
 
 ------------------------------------------------------------------------
 
-[Next: X: To Pan](hoo15)
+[Next: X: To Pan](hoo15.md)

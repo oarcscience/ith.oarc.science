@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal064)  [Next](njal066) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal064)  [Next](njal066.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ his adversaries envied him much for his honour.
 
 ------------------------------------------------------------------------
 
-[Next: 66. Of Thorgeir Otkell's Son](njal066)
+[Next: 66. Of Thorgeir Otkell's Son](njal066.md)

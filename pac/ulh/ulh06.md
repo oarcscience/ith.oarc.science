@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh05)  [Next](ulh07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh05)  [Next](ulh07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -71,7 +71,7 @@ the fact that the priests of the temple held position by the sovereign's
 appointment; they formed a hierarchy by themselves, whereas the position
 of the *kumu-hula*, who was also a priest, was open to anyone who fitted
 himself for it by training and study and bypassing successfully the
-*ai-lolo* <span id="fr_1"></span>[a](#fn_1) ordeal. After that he had
+*ai-lolo* <span id="fr_1"></span>[a](#fn_1.md) ordeal. After that he had
 the right to approach the altar of the hula god with the prescribed
 offerings and to present the prayers and petitions of the company to
 Laka or Kapo.
@@ -146,10 +146,10 @@ A ke kua-hiwi, i ke kua-lono,
 Ku ana o Laka i ka mauna;  
 Noho ana o Laka i ke po’o o ka ohu.  
 O Laka kumu hula,  
-5 Nana i a’e ka wao-kele, <span id="fr_2"></span>[a](#fn_2)  
+5 Nana i a’e ka wao-kele, <span id="fr_2"></span>[a](#fn_2.md)  
 Kahi, kahi i moli’a i ka pua’a,  
 I ke po’o pua’a,  
-He pua’a hiwa na Kane. <span id="fr_3"></span>[b](#fn_3)
+He pua’a hiwa na Kane. <span id="fr_3"></span>[b](#fn_3.md)
 
 </div>
 
@@ -163,22 +163,22 @@ I kupu ke a’a i ke kumu,
 I lau a puka ka mu’o,  
 Ka liko, ka ao i-luna.  
 Kupu ka lala, hua ma ka Hikina;  
-15 Kupu ka lala ona a Maka-li’i, <span id="fr_4"></span>[a](#fn_4)  
-O Maka-lei, <span id="fr_5"></span>[b](#fn_5) laau kaulana mai ka Po
-mai. <span id="fr_6"></span>[c](#fn_6)  
+15 Kupu ka lala ona a Maka-li’i, <span id="fr_4"></span>[a](#fn_4.md)  
+O Maka-lei, <span id="fr_5"></span>[b](#fn_5.md) laau kaulana mai ka Po
+mai. <span id="fr_6"></span>[c](#fn_6.md)  
 Mai ka Po mai ka oiaio--  
 I ho-i’o i-luna, i o’o i-luna.  
 He luna au e ki’i mai nei ia oe, e Laka,  
-20 E ho’i ke ko-kua <span id="fr_7"></span>[d](#fn_7) pa-ú;  
-He la uniki <span id="fr_8"></span>[e](#fn_8) e no kaua;  
-Ha-ike-ike <span id="fr_9"></span>[f](#fn_9) o ke Akua;  
+20 E ho’i ke ko-kua <span id="fr_7"></span>[d](#fn_7.md) pa-ú;  
+He la uniki <span id="fr_8"></span>[e](#fn_8.md) e no kaua;  
+Ha-ike-ike <span id="fr_9"></span>[f](#fn_9.md) o ke Akua;  
 Hoike ka mana o ka Wahine,  
 O Laka, kaikuahine,  
-25 Wahine a Lono, i ka ou-alii. <span id="fr_10"></span>[g](#fn_10)  
-E Lono, e hu’ <span id="fr_11"></span>[h](#fn_11) ia mai ka lani me ka
+25 Wahine a Lono, i ka ou-alii. <span id="fr_10"></span>[g](#fn_10.md)  
+E Lono, e hu’ <span id="fr_11"></span>[h](#fn_11.md) ia mai ka lani me ka
 honua.  
-Nou okoa Kukulu o Kahiki. <span id="fr_12"></span>[i](#fn_12)  
-Me ke ano-ai <span id="fr_13"></span>[j](#fn_13) aloha, e!  
+Nou okoa Kukulu o Kahiki. <span id="fr_12"></span>[i](#fn_12.md)  
+Me ke ano-ai <span id="fr_13"></span>[j](#fn_13.md) aloha, e!  
 E ola, e!
 
 </div>
@@ -249,7 +249,7 @@ Haki hana maile o ka wao,
 
 <span id="img_pl02"></span> <span align="CENTER"> [![PLATE II&lt;br&gt;
 ÍE-ÍE (FREYCINETIA ARNOTTI) LEAVES AND FRUIT](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 PLATE II  
 ÍE-ÍE (FREYCINETIA ARNOTTI) LEAVES AND FRUIT  
 </span>
@@ -259,10 +259,10 @@ PLATE II
 <div style="margin-left: 32px">
 
 <span class="contnote">\[paragraph continues\]</span> Hooulu <span
-id="fr_14"></span>[a](#fn_14) lei ou, o Laka, e!  
-O Hiiaka <span id="fr_15"></span>[b](#fn_15) ke kaula nana e hooulu na
+id="fr_14"></span>[a](#fn_14.md) lei ou, o Laka, e!  
+O Hiiaka <span id="fr_15"></span>[b](#fn_15.md) ke kaula nana e hooulu na
 ma’i,  
-5 A aeae a ulu <span id="fr_16"></span>[c](#fn_16) a noho i kou kuahu,  
+5 A aeae a ulu <span id="fr_16"></span>[c](#fn_16.md) a noho i kou kuahu,  
 Eia ka pule la, he pule ola,  
 He noi ola nou, e-e!  
    *Chorus*:  
@@ -302,10 +302,10 @@ nonindigenous flowers, as being utterly repugnant to the traditional
 spirit of the hula.
 
 Among decorations approved and most highly esteemed stood preeminent the
-fragrant maile ([pl. IV](ulh09.htm#img_pl04)) and the star-like fronds
-and ruddy drupe of the *íe-íe* ([pl. II](#img_pl02)) and its kindred,
-the *hála-pépe* ([pl. III](ulh07.htm#img_pl03)); the scarlet pompons of
-the *lehúa* ([pl. XIII](ulh22.htm#img_pl13)) and *ohi’a*, with the fruit
+fragrant maile ([pl. IV](ulh09.htm#img_pl04).md) and the star-like fronds
+and ruddy drupe of the *íe-íe* ([pl. II](#img_pl02).md) and its kindred,
+the *hála-pépe* ([pl. III](ulh07.htm#img_pl03).md); the scarlet pompons of
+the *lehúa* ([pl. XIII](ulh22.htm#img_pl13).md) and *ohi’a*, with the fruit
 of the latter (the mountain-apple); many varieties of fern, including
 that splendid parasite, the "bird's nest fern" (*ekáha*), hailed by
 
@@ -314,9 +314,9 @@ that splendid parasite, the "bird's nest fern" (*ekáha*), hailed by
 the Hawaiians as Mawi's paddle; to which must be added the commoner
 leaves and lemon-colored flowers of the native hibiscus, the *hau*, the
 breadfruit, the native banana and the dracæna (*ti*), [plate
-V](ulh11.htm#img_pl05); and lastly, richest of all, in the color that
+V](ulh11.htm#img_pl05.md); and lastly, richest of all, in the color that
 became Hawaii's favorite, the royal yellow *ilíma* ([pl.
-VI](ulh12.htm#img_pl06)), a flower familiar to the eves of the tourist
+VI](ulh12.htm#img_pl06).md), a flower familiar to the eves of the tourist
 to Honolulu.
 
 While deft hands are building and weaving the light framework of the
@@ -339,11 +339,11 @@ kumu sing:
 Ei’ au, e Laka mai uka,  
 E Laka mai kai;  
 O hooulu  
-O ka ilio <span id="fr_18"></span>[a](#fn_17) nana e hae,  
+O ka ilio <span id="fr_18"></span>[a](#fn_17.md) nana e hae,  
 5 O ka maile hihi i ka wao,  
-O ka lau-ki <span id="fr_19"></span>[b](#fn_18) lei o ke akua,  
+O ka lau-ki <span id="fr_19"></span>[b](#fn_18.md) lei o ke akua,  
 O na ku’i hauoli  
-O Ha’i-ka-manawa, <span id="fr_20"></span>[c](#fn_19)  
+O Ha’i-ka-manawa, <span id="fr_20"></span>[c](#fn_19.md)  
 O Laka oe,  
 10 O ke akua i ke kuahu nei, la;  
 E ho’i, ho’i mai a noho i kou kuahu!
@@ -405,7 +405,7 @@ them.
 
 <div style="margin-left: 32px">
 
-E hooulu ana i Kini <span id="fr_21"></span>[a](#fn_20) o ke Akua,  
+E hooulu ana i Kini <span id="fr_21"></span>[a](#fn_20.md) o ke Akua,  
 Ka lehu o ke Akua,  
 Ka mano o ke Akua,  
 I ka pu-ku’i o ke Akua,  
@@ -453,15 +453,15 @@ bouquets, affectionate sacrifices to the gods.
 
 ### Footnotes
 
-<span id="fn_1"></span>[15:a](ulh06.htm#fr_1) *Ai-lolo*. See pp.
-[32](ulh09.htm#page_32), [34](ulh09.htm#page_34),
-[36](ulh09.htm#page_36).
+<span id="fn_1"></span>[15:a](ulh06.htm#fr_1.md) *Ai-lolo*. See pp.
+[32](ulh09.htm#page_32), [34](ulh09.htm#page_34.md),
+[36](ulh09.htm#page_36.md).
 
-<span id="fn_2"></span>[16:a](ulh06.htm#fr_2) *Wao-kéle*. That portion
+<span id="fn_2"></span>[16:a](ulh06.htm#fr_2.md) *Wao-kéle*. That portion
 of the mountain forest where grew the monarch trees was called
 *wao-kele* or *wao-maukele*.
 
-<span id="fn_3"></span>[16:b](ulh06.htm#fr_3) *Na Kane*. Why was the
+<span id="fn_3"></span>[16:b](ulh06.htm#fr_3.md) *Na Kane*. Why was the
 offering, the black roast porkling, said to be for Kane, who was not a
 special patron, *au-makúa*, of the hula? The only answer the author has
 been able to obtain from any Hawaiian is that, though Kane was not a god
@@ -474,14 +474,14 @@ the *kuahu*, and at the close of a performance the wreaths that had been
 worn by the actors were draped about the image. Thus viewed, there is a
 delicate propriety and significance In such disposal of the pig.
 
-<span id="fn_4"></span>[17:a](ulh06.htm#fr_4) *Maka-li’i* (Small eyes).
+<span id="fn_4"></span>[17:a](ulh06.htm#fr_4) *Maka-li’i* (Small eyes.md).
 The Pleiades; also the period of six months, including the rainy season,
 that began some time in October or November and was reckoned from the
 date when the Pleiades appeared in the East at sunset. *Maka-li’i* was
 also the name of a month, by some reckoned as the first month of the
 year.
 
-<span id="fn_5"></span>[17:b](ulh06.htm#fr_5) *Maka-léi*. The name of a
+<span id="fn_5"></span>[17:b](ulh06.htm#fr_5.md) *Maka-léi*. The name of a
 famous mythological tree which had the power of attracting fish. It did
 not poison, but only bewitched or fascinated them. There were two trees
 bearing this name, one a male, the other a female, which both grew at a
@@ -490,34 +490,34 @@ to tradition, carried from its root home to the fish ponds in Kailua,
 Oahu, for the purpose of attracting fish to the neighboring waters. The
 enterprise was eminently successful.
 
-<span id="fn_6"></span>[17:c](ulh06.htm#fr_6) *Po*. Literally night; the
+<span id="fn_6"></span>[17:c](ulh06.htm#fr_6.md) *Po*. Literally night; the
 period in cosmogony when darkness and chaos reigned, before the affairs
 on earth had become settled under the rule of the gods. Here the word is
 used to indicate a period of remote mythologic antiquity. The use of the
 word *Po* in the following verse reminds one of the French adage, "La
 nuit porte conseil."
 
-<span id="fn_7"></span>[17:d](ulh06.htm#fr_7) *Kokúa*. Another form for
+<span id="fn_7"></span>[17:d](ulh06.htm#fr_7.md) *Kokúa*. Another form for
 *kakúa*, to gird on, the *pa-ú*. (See *Pa-ú* song, pp.
-[51](ulh12.htm#page_51)-53.)
+[51](ulh12.htm#page_51)-53..md)
 
-<span id="fn_8"></span>[17:e](ulh06.htm#fr_8) *Uníki*, A word not given
+<span id="fn_8"></span>[17:e](ulh06.htm#fr_8.md) *Uníki*, A word not given
 in the dictionary. The debut of an actor at the hula, after passing the
 *ai-lolo* test and graduating from the school of the halau, a critical
 event.
 
-<span id="fn_9"></span>[17:f](ulh06.htm#fr_9) *Ha-íke-íke*. Equivalent
+<span id="fn_9"></span>[17:f](ulh06.htm#fr_9.md) *Ha-íke-íke*. Equivalent
 to *ho-íke-íke*, an exhibition, to exhibit.
 
-<span id="fn_10"></span>[17:g](ulh06.htm#fr_10) *Ou-alii*. The Hawaiians
+<span id="fn_10"></span>[17:g](ulh06.htm#fr_10.md) *Ou-alii*. The Hawaiians
 seem to have lost the meaning of this word. The author has been at some
 pains to work it out somewhat conjecturally.
 
-<span id="fn_11"></span>[17:h](ulh06.htm#fr_11) *E Lono, e hu’ ia mai,
+<span id="fn_11"></span>[17:h](ulh06.htm#fr_11.md) *E Lono, e hu’ ia mai,
 etc*. The unelided form of the word *hu’* would be *hui*. The final *i*
 is dropped before the similar vowel of *ia*.
 
-<span id="fn_12"></span>[17:i](ulh06.htm#fr_12) *Kukúlu o Kahíki*. The
+<span id="fn_12"></span>[17:i](ulh06.htm#fr_12.md) *Kukúlu o Kahíki*. The
 pillars of Kahiki. The ancient Hawaiians supposed the starry heavens to
 be a solid dome supported by a wall or vertical
 construction--*kukulu*--set up along the horizon. That section of the
@@ -530,13 +530,13 @@ and fro between Hawaii and the lands of the South, geographical ideas
 became hazy and the term *Kahiki* came to be applied to any foreign
 country.
 
-<span id="fn_13"></span>[17:j](ulh06.htm#fr_13) *Áno-ái*. An old form of
+<span id="fn_13"></span>[17:j](ulh06.htm#fr_13.md) *Áno-ái*. An old form of
 salutation, answering In general to the more modern word *aloha*, much
 used at the present time. *Ano-ai* seems to have had a shade of meaning
 more nearly answering to our word "welcome." This is the first instance
 the author has met with of its use in poetry.
 
-<span id="fn_14"></span>[19:a](ulh06.htm#fr_14) *Hoo-ulu*. This word has
+<span id="fn_14"></span>[19:a](ulh06.htm#fr_14.md) *Hoo-ulu*. This word has
 a considerable range of meaning, well illustrated in this mele. In its
 simplest form, *ulu*, it means to grow, to become strong. Joined with
 the causative *hoo*, as here, it takes on the spiritual meaning of
@@ -544,18 +544,18 @@ causing to prosper, of inspiring. The word "collect," used in the
 translation, has been chosen to express the double sense of gathering
 the garlands and of devoting them to the goddess as a religious
 offering. In the fourth verse this word, hooulu, is used in the sense of
-to heal. Compare note  <span id="fr_17"></span>[c](#fn_16).
+to heal. Compare note  <span id="fr_17"></span>[c](#fn_16.md).
 
-<span id="fn_15"></span>[19:b](ulh06.htm#fr_15) *Hiiaka*. The youngest
+<span id="fn_15"></span>[19:b](ulh06.htm#fr_15.md) *Hiiaka*. The youngest
 sister of Pele, often spoken of as *Hiiaka-i-ka-poli-o-Pele*,
 Hiiaka-of-the-bosom-of-Pele. Why she should be spoken of as capable of
 healing diseases is not at all clear.
 
-<span id="fn_16"></span>[19:c](ulh06.htm#fr_17) *Ulu*. Here we have the
+<span id="fn_16"></span>[19:c](ulh06.htm#fr_17.md) *Ulu*. Here we have the
 word ulu in its simple, uncombined form, meaning to enter into and
 inspire.
 
-<span id="fn_17"></span>[20:a](ulh06.htm#fr_18) *Ilio nana e hae*. The
+<span id="fn_17"></span>[20:a](ulh06.htm#fr_18.md) *Ilio nana e hae*. The
 barking of a dog, the crowing of a cock, the grunting of a pig, the
 hooting of an owl, or any such sound occurring at the time of a
 religious solemnity, *aha*, broke the spell of the incantation and
@@ -563,20 +563,20 @@ vitiated the ceremony. Such an untimely accident was as much deprecated
 as were the Turk, the Comet, and the Devil by pious Christian souls
 during the Middle Ages.
 
-<span id="fn_18"></span>[20:b](ulh06.htm#fr_19) *Lau-ki*. The leaf of
+<span id="fn_18"></span>[20:b](ulh06.htm#fr_19.md) *Lau-ki*. The leaf of
 the *ti* plant--the same as the *ki*--(Dracæna terminalis), much used as
 an emblem of divine power, a charm or defense against malign spiritual
 Influences. The kahuna often wore about his neck a fillet of this leaf.
 The *ti* leaf was a special emblem of Ha’i-wahine, or of Li’a-wahine. It
 was much used as a decoration about the halau.
 
-<span id="fn_19"></span>[20:c](ulh06.htm#fr_20) *Ha’i-ka-manawa*. It is
+<span id="fn_19"></span>[20:c](ulh06.htm#fr_20.md) *Ha’i-ka-manawa*. It is
 conjectured that this is the same as *Ha’i-wahine*. She was a
 mythological character, about whom there is a long and tragic story.
 
-<span id="fn_20"></span>[21:a](ulh06.htm#fr_21) *Kini o ke Akua*. See
-note *d*, [p. 24](ulh07.htm#page_24).
+<span id="fn_20"></span>[21:a](ulh06.htm#fr_21.md) *Kini o ke Akua*. See
+note *d*, [p. 24](ulh07.htm#page_24.md).
 
 ------------------------------------------------------------------------
 
-[Next: III.--The Gods of the Hula](ulh07)
+[Next: III.--The Gods of the Hula](ulh07.md)

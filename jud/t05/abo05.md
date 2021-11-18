@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](abo04)  [Next](abo06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](abo04)  [Next](abo06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -30,7 +30,7 @@ many disciples; and, Erect safe guards for the Law."
 
 Tosephhta--Aboth of R. Nathan.
 
- <span id="fr_0"></span>[1](#fn_0)Moses was sanctified in the cloud, and
+ <span id="fr_0"></span>[1](#fn_0.md)Moses was sanctified in the cloud, and
 received the Torah from Sinai, as it is written \[Ex. xxiv. 16\]: "And
 the glory of the Lord abode upon Mount Sinai," which means on *Moses*
 (for what purpose?), to purify him; this occurred after the ten
@@ -98,7 +98,7 @@ Joshua, and all the days of the elders that lived many days after
 Joshua, who had seen all the great deeds of the Lord, which he had done
 for Israel." The judges received it from the elders, as it is written
 \[Ruth, i. 1\]: "And it came to pass in the days when the judges
-judged." <span id="fr_1"></span>[1](#fn_1) The prophets received it from
+judged." <span id="fr_1"></span>[1](#fn_1.md) The prophets received it from
 the judges (beginning with Samuel the prophet, who was also a judge), as
 it is written \[Jerem. vii. 25\]: "And I sent unto you *all* my servants
 the prophets, sending them daily in the morning early." Haggai,
@@ -298,7 +298,7 @@ was put unto him, the seventh he rose to his feet, the eighth Eve was
 mated to him, the ninth he was brought into the Garden of Eden, the
 tenth the command was given to him, the eleventh he sinned, the twelfth
 he was driven out and went away; this is what is written \[Ps. xlix.
-21\]: "*Ve Adam bikor bal yolin*." <span id="fr_2"></span>[1](#fn_2)
+21\]: "*Ve Adam bikor bal yolin*." <span id="fr_2"></span>[1](#fn_2.md)
 (Adam, "Bal Yolin"--he shall not stay over night.) \[We have learned in
 Tract Rosh Hashana, p. 55: On the first day which psalm did
 
@@ -463,7 +463,7 @@ established me"; and it is also written about the Temple \[Ex. xv. 17\]:
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_3"></span>[1](#fn_3)What is the safeguard that the Torah
+ <span id="fr_3"></span>[1](#fn_3.md)What is the safeguard that the Torah
 made to its words? It is written \[Lev. xviii. 19\]: "And a woman in the
 separation of her uncleanness shalt thou not approach." One might say it
 is allowed to embrace and kiss her, and converse with her, therefore it
@@ -475,7 +475,7 @@ separation," that means during all the
 <span id="page_12">p. 12</span>
 
 days of her separation she shall be as if under a ban; <span
-id="fr_4"></span>[1](#fn_4) from this it may be said that a woman who
+id="fr_4"></span>[1](#fn_4.md) from this it may be said that a woman who
 makes herself homely during her separation does it in accordance with
 the will of the sages, and one that adorns herself during that time
 incurs the dissatisfaction of the sages.
@@ -483,7 +483,7 @@ incurs the dissatisfaction of the sages.
 It happened that a man, although faithfully studying (the Bible),
 learning (the Mishna), and serving (in the colleges) of the sages, died
 in the prime of life. His wife used to take his phylacteries <span
-id="fr_5"></span>[2](#fn_5) and go around and visit all the synagogues
+id="fr_5"></span>[2](#fn_5.md) and go around and visit all the synagogues
 and colleges, weeping and crying: "My masters, in the Law it is written
 \[Deut. xxx. 20\]: 'For he is thy life and the length of thy days'; now
 there is my husband, who read and learned much and served the sages, why
@@ -544,7 +544,7 @@ xix. 10\]: "And the Lord said unto Moses, Go unto the people and
 sanctify them to-day and to-morrow." As Moses the upright regarded it
 inexpedient to speak to the people in the manner God spake to him, he
 added one day of his own volition, and said to them \[Ex. xix. 15\]:
-"Prepare yourselves for three days." <span id="fr_6"></span>[1](#fn_6)
+"Prepare yourselves for three days." <span id="fr_6"></span>[1](#fn_6.md)
 Why did he do so? Because he thought it might happen that one could have
 seminal intercourse with his wife that day, and so they will receive the
 Torah when they are unclean; "therefore I will add a third day, that in
@@ -669,7 +669,7 @@ was so born, as it is written \[ibid. v. 3\]: "And begat a son in his
 likeness, after his image." Noah, too, was born circumcised, as \[ibid.
 vi. 9\] the term "perfect" was used in reference to Noah. Shem was also
 so born, as it is written \[ibid. xiv. 19\]: "And Malkizedek, king of
-Salem." <span id="fr_7"></span>[1](#fn_7) Jacob the patriarch was also
+Salem." <span id="fr_7"></span>[1](#fn_7.md) Jacob the patriarch was also
 so born, as the appellation "perfect" was also applied to him \[ibid.
 xxv. 27\]. And Joseph was also so born, as it is written \[ibid. xxxvii.
 2\]: "These are the generations of Jacob: Joseph." It ought to be the
@@ -778,10 +778,10 @@ righteousness.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_8"></span>[1](#fn_8)R. Aqiba said: "Whoever takes a coin
+ <span id="fr_8"></span>[1](#fn_8.md)R. Aqiba said: "Whoever takes a coin
 from the fund intended for charity to the poor when he is not in need of
 it, will not die before he will really be in need of assistance." <span
-id="fr_9"></span>[2](#fn_9) He used to say: One that bandages his eyes
+id="fr_9"></span>[2](#fn_9.md) He used to say: One that bandages his eyes
 or his shoulders, and says: "Give charity to the blind or to the leper,"
 will in the end speak the truth-that is, he will be such. He also said:
 One that throws his bread on the ground, or scatters his money in his
@@ -831,7 +831,7 @@ water out of thy own cistern, and running water out of thy own well."
 It is a duty to study under three masters, such as R. Eliezer, R.
 Joshua, and R. Aqiba, as it is written \[Ps. viii. 34\]: "Happy is the
 man that hearkeneth unto me, waiting day by day at my gates, waiting at
-the posts of my doors." <span id="fr_10"></span>[1](#fn_10) Because thou
+the posts of my doors." <span id="fr_10"></span>[1](#fn_10.md) Because thou
 canst not know which master's teaching will remain with thee, or perhaps
 all are good, as may be learned from the above-mentioned passage.
 
@@ -847,7 +847,7 @@ He used also to say: "If thou hast given a coin to a poor man in the
 morning, and another one begs of you in the evening, give him also, as
 thou knowest not whether both will be benefited by thy donation, and
 whether both are alike deserving, as it is written: "In the morning sow
-thy seed." <span id="fr_11"></span>[1](#fn_11)
+thy seed." <span id="fr_11"></span>[1](#fn_11.md)
 
 It happened that a pious man who used to spend much in charity, while
 aboard a ship encountered a great storm, and the ship foundered. R.
@@ -888,7 +888,7 @@ things: on law, on worship, and on bestowal of favors."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_12"></span>[1](#fn_12)"*Upon the Torah*." How so? It is
+ <span id="fr_12"></span>[1](#fn_12.md)"*Upon the Torah*." How so? It is
 written \[Hosea, vi. 6\]: For piety I desired, and not sacrifice; and
 the knowledge of God more than burnt-offerings." Infer from this that
 the burnt-offering is more favored than ordinary sacrifices, because it
@@ -1045,7 +1045,7 @@ dost thou know it?" He answered: "We have a tradition that the Temple
 will not be delivered to a common man (in the name of the king), but to
 the king himself." As it is written \[Is. x. 34\]: "And he will cut down
 the thickets of the forest with iron, and the Lebanon shall fall by
-(means of) a mighty one." <span id="fr_13"></span>[1](#fn_13) It was
+(means of) a mighty one." <span id="fr_13"></span>[1](#fn_13.md) It was
 said that scarcely had a few days elapsed when a messenger came from the
 city of Rome with the tidings that Cæsar was dead, and the resolution
 was adopted that Vespasian be his successor.
@@ -1101,7 +1101,7 @@ their master without reward; and let the fear of Heaven be upon you."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_14"></span>[1](#fn_14) "*The fear of God shall be upon
+ <span id="fr_14"></span>[1](#fn_14.md) "*The fear of God shall be upon
 you, that your reward may be double in the world to come*." Antigonus
 from Socho had two disciples, who were studying his words. They
 communicated them to their disciples, and they in turn to theirs, who
@@ -1128,7 +1128,7 @@ words with avidity."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_15"></span>[2](#fn_15)"*Thy house shall be the
+ <span id="fr_15"></span>[2](#fn_15.md)"*Thy house shall be the
 meeting-place for the wise*." What does this mean? That the house should
 be for the use of
 
@@ -1166,7 +1166,7 @@ Aqiba then drew an *a fortiori* conclusion. He said: "If the soft has so
 much power over the hard as to bore it (water over stone), how much more
 power will the Torah, the words of which are as hard as iron, have over
 my heart, which is flesh and blood?" He at once turned to the study of
-the Law. He and his son <span id="fr_16"></span>[1](#fn_16) went to a
+the Law. He and his son <span id="fr_16"></span>[1](#fn_16.md) went to a
 school where children were instructed, and addressed one of the
 teachers: "Master, teach me Torah." Aqiba and his son took hold of the
 slate, and the teacher wrote upon it the alphabet, and he quickly
@@ -1213,7 +1213,7 @@ warm myself by its flame; and, thirdly, I make my bed on it when I go to
 sleep."
 
 In the world to come, R. Aqiba will be a menace to the poor who have
-neglected study. <span id="fr_17"></span>[1](#fn_17) When they will be
+neglected study. <span id="fr_17"></span>[1](#fn_17.md) When they will be
 questioned why
 
 <span id="page_30">p. 30</span>
@@ -1302,7 +1302,7 @@ And why was he named Nakdimon? Because the sun hastened for his sake.
 <span id="page_32">p. 32</span>
 
 Why was he called Calba Shebua? Because whoever entered, his house
-hungry as a dog, left satiated. <span id="fr_18"></span>[1](#fn_18) When
+hungry as a dog, left satiated. <span id="fr_18"></span>[1](#fn_18.md) When
 Vespasian came to destroy Jerusalem, the zealous fanatics were going to
 burn all his wealth. Said he to them: "Wherefore are ye, destroying this
 city, and are going to burn my wealth? Wait until I find out what I have
@@ -1332,7 +1332,7 @@ of the Thora, and in the end will be an heir to Gehenna."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_19"></span>[2](#fn_19) "*Thy house should be wide open*."
+ <span id="fr_19"></span>[2](#fn_19.md) "*Thy house should be wide open*."
 This means that one's house should be wide open south, east, west, and
 north, as was
 
@@ -1424,7 +1424,7 @@ favorable side)."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_20"></span>[1](#fn_20)"Get thee a wise teacher." This
+ <span id="fr_20"></span>[1](#fn_20.md)"Get thee a wise teacher." This
 means that one should procure a constant teacher of whom he should learn
 the Scripture, Mishna, Midrash, Halakhoth, and Agadoth. What he has left
 unexplained in the Scripture, he will finally explain in the Mishna,
@@ -1476,7 +1476,7 @@ when they have made up their mind to redeem the captives and release the
 prisoners, and the Holy One, blessed be He, has given them the
 opportunity to do so, they embrace it at once. What is meant by the
 words: "And for those who think after his name"? <span
-id="fr_21"></span>[1](#fn_21) They whose thought of doing the
+id="fr_21"></span>[1](#fn_21.md) They whose thought of doing the
 above-mentioned great things never ripens into firm resolution, but are
 doubtful in the Lord whether they will succeed, and therefore the Lord
 gives them not the opportunity, and they are lost before doing anything
@@ -1515,7 +1515,7 @@ about foolish things?" She therefore did not listen to him. He again
 requested her to go and to notify his companion, and finally she did so.
 What did this man do? He took gold and silver, and, accompanied by other
 people, came and released them both. When he was released he said: "Let
-this maiden sleep with me <span id="fr_22"></span>[1](#fn_22) in bed
+this maiden sleep with me <span id="fr_22"></span>[1](#fn_22.md) in bed
 with her clothes on." In the morning he said: "Let me go and dip (in a
 legal bath), and let her do the same." They did so. He then said to
 them: "Of what did ye suspect me when I went to dip myself?" They
@@ -1560,7 +1560,7 @@ thyself exempt from God's chastisement."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_23"></span>[1](#fn_23)"*Keep aloof from a wicked
+ <span id="fr_23"></span>[1](#fn_23.md)"*Keep aloof from a wicked
 neighbor*." This means any bad neighbor in the house, or outside, or in
 the field. "In the house," because plagues come only in the house of the
 wicked, as it is written \[Prov. v. 22\]: "His own iniquities will truly
@@ -1708,7 +1708,7 @@ come."
 
 MISHNA *H*. Jehudah b. Tobai and Simeon b. Shata'h received from them.
 The former was wont to say: "Make not thyself as those that predispose
-the judges, <span id="fr_24"></span>[1](#fn_24) and while the litigants
+the judges, <span id="fr_24"></span>[1](#fn_24.md) and while the litigants
 stand before thee let them be in thine eyes as guilty; and when
 dismissed from before thee let them
 
@@ -1723,7 +1723,7 @@ falsehood."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_25"></span>[1](#fn_25)"*Make thyself not as those that
+ <span id="fr_25"></span>[1](#fn_25.md)"*Make thyself not as those that
 predispose the judges*." Learn from this, that when entering a college
 and hearing there a saying or a Halakha, thou shalt not be hasty in
 answering, but sit and think over the reason why they have said so \[and
@@ -1773,11 +1773,11 @@ deceivers. Thy words may give them the clue to lying.
 MISHNA *I*. Shemayah and Abtalion received from them. The former was in
 the habit of saying: "Love work and hate to attain superiority, and see
 to it that your name be not known to the government." <span
-id="fr_26"></span>[1](#fn_26)
+id="fr_26"></span>[1](#fn_26.md)
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_27"></span>[2](#fn_27)"*Love work*." How so? That is, one
+ <span id="fr_27"></span>[2](#fn_27.md)"*Love work*." How so? That is, one
 should love work; at all events, he ought not to hate it, for as the
 Torah was given in a covenant, so was labor, as it is written \[Ex. xx.
 9, 10\]: "Six days shalt thou labor, and do all thy work, but the
@@ -1910,7 +1910,7 @@ them nigh unto the Law."
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_28"></span>[1](#fn_28)"*Love peace*." How so? One should
+ <span id="fr_28"></span>[1](#fn_28.md)"*Love peace*." How so? One should
 love to see peace in Israel and peace everywhere, as Aaron loved peace,
 about whom it is written \[Mal. ii. 6\]: "The love of truth was in his
 mouth, and falsehood was not found on his lips; in peace and equity he
@@ -1984,7 +1984,7 @@ stand upon the rock." Thereupon the Lord Himself took the soul of Moses
 and placed it under His throne, as it is written \[I Sam. xxv. 29\]:
 "Yet will the soul of my Lord be bound in the bond of life." And He took
 his soul with a kiss, as it is written \[Deut. xxxiv. 5\]: "Through the
-mouth of God." <span id="fr_29"></span>[1](#fn_29)
+mouth of God." <span id="fr_29"></span>[1](#fn_29.md)
 
 \[Not merely the soul of Moses is placed under His throne, but all the
 souls of the righteous, as it is written: "Yet will the soul of my Lord
@@ -2054,7 +2054,7 @@ desecration of the Holy name; "and exceedingly," that they sinned
 wilfully.
 
 "*And bring them nigh unto the Law*." How so? One should try to
-uplift <span id="fr_30"></span>[1](#fn_30) people and bring them under
+uplift <span id="fr_30"></span>[1](#fn_30.md) people and bring them under
 the wings of
 
 <span id="page_50">p. 50</span>
@@ -2063,7 +2063,7 @@ the Shekhina, as our father Abraham did; and not only Abraham, but also
 Sarah, as it is written \[Gen. xii. 5\]: "And Abraham took Sarah his
 wife, and Lot his brother's son, and all their substance that they had
 acquired, and the persons that they *made* <span
-id="fr_31"></span>[1](#fn_31) in Charan." Is it possible? Even all
+id="fr_31"></span>[1](#fn_31.md) in Charan." Is it possible? Even all
 mankind combined could not create even a small insect. We must,
 therefore, say that the Lord considered the people that they brought
 under the wings of the Shekhina as if they had made them.
@@ -2181,7 +2181,7 @@ judgment of peace, judge ye in your gates.'"
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_32"></span>[1](#fn_32)"*Fix a time for study*," etc. It
+ <span id="fr_32"></span>[1](#fn_32.md)"*Fix a time for study*," etc. It
 means, when one has heard something from a sage in the college, he shall
 not treat it as something unessential, but as a standard saying to be
 studied
@@ -2222,7 +2222,7 @@ afterward shall they go out with great substance." He promised him with
 ‏ד‎ and ‏ן‎ the numerical value of which is 54. But when the Lord at
 last avenged Himself on Israel's enemies, He did so with seventy-two
 letters (contained in verse 34, Deut. xxxiv.): <span
-id="fr_33"></span>[1](#fn_33) "Or hath a
+id="fr_33"></span>[1](#fn_33.md) "Or hath a
 
 <span id="page_54">p. 54</span>
 
@@ -2245,7 +2245,7 @@ he had conferred upon him great favors.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_34"></span>[1](#fn_34)Rabban Johanan b. Zakkai received
+ <span id="fr_34"></span>[1](#fn_34.md)Rabban Johanan b. Zakkai received
 from Hillel and Shammai. Hillel the First had eighty disciples, thirty
 of whom were worthy that the Shekhina rest upon them as on Moses, but
 their generation was not deserving of it. Thirty others were worthy to
@@ -2328,7 +2328,7 @@ in learned circles.
 
 Tosephtha--Aboth of R. Nathan.
 
- <span id="fr_35"></span>[1](#fn_35)"*Thy fellow's honor must be as dear
+ <span id="fr_35"></span>[1](#fn_35.md)"*Thy fellow's honor must be as dear
 to thee as thine own*." How so? As one watches over his own honor, so
 should he guard the honor of his neighbor, and as one is loath to see
 his own honor assailed, he should be so in regard to the honor of his
@@ -2346,7 +2346,7 @@ was to receive the amount. (See Sabbath, p. 50; the whole legend ending
 with): "Take care of thy temper. A Hillel is, worthy that twice that
 amount be lost through him; a Hillel must not get excited."
 
- <span id="fr_36"></span>[2](#fn_36)What was the irascibility of Shammai
+ <span id="fr_36"></span>[2](#fn_36.md)What was the irascibility of Shammai
 the Elder? It was
 
 <span id="page_57">p. 57</span>
@@ -2425,123 +2425,123 @@ and *also* their words are as coals of fire."
 
 ### Footnotes
 
-<span id="fn_0"></span>[1:1](abo05.htm#fr_0) Chapter I. of the original.
+<span id="fn_0"></span>[1:1](abo05.htm#fr_0.md) Chapter I. of the original.
 
-<span id="fn_1"></span>[3:1](abo05.htm#fr_1) The Talmud infers this from
+<span id="fn_1"></span>[3:1](abo05.htm#fr_1.md) The Talmud infers this from
 the two words *shephot hashophtim*, which literally mean that the judges
 were judged. Hence, who have judged the judges? The elders.
 
-<span id="fn_2"></span>[7:1](abo05.htm#fr_2) The translation of this
+<span id="fn_2"></span>[7:1](abo05.htm#fr_2.md) The translation of this
 passage is entirely different. The Talmud, however, interprets this to
 mean Adam the First, and takes it literally.
 
-<span id="fn_3"></span>[11:1](abo05.htm#fr_3) Chapter II. of the
+<span id="fn_3"></span>[11:1](abo05.htm#fr_3.md) Chapter II. of the
 original.
 
-<span id="fn_4"></span>[12:1](abo05.htm#fr_4) In the ancient times, and
+<span id="fn_4"></span>[12:1](abo05.htm#fr_4.md) In the ancient times, and
 even now in some places of the Orient, a woman in her separation must be
 separated and avoid all communication with anybody during the whole
 time.
 
-<span id="fn_5"></span>[12:2](abo05.htm#fr_5) We have explained it in
+<span id="fn_5"></span>[12:2](abo05.htm#fr_5.md) We have explained it in
 our "Philac. Ritus," that at that time only great men were allowed to
 bear phylacteries, and therefore she took them to prove that her husband
 was one of them.
 
-<span id="fn_6"></span>[13:1](abo05.htm#fr_6) Leeser translates
+<span id="fn_6"></span>[13:1](abo05.htm#fr_6.md) Leeser translates
 "against" the third day, but the Talmud translates it as we give it.
 
-<span id="fn_7"></span>[16:1](abo05.htm#fr_7) There is a tradition in
+<span id="fn_7"></span>[16:1](abo05.htm#fr_7.md) There is a tradition in
 the Talmud that Malkizedek is identical with Shem. Salem in Hebrew means
 also "perfect." Hence the analogy.
 
-<span id="fn_8"></span>[19:1](abo05.htm#fr_8) Chapter III. of the
+<span id="fn_8"></span>[19:1](abo05.htm#fr_8.md) Chapter III. of the
 original.
 
-<span id="fn_9"></span>[19:2](abo05.htm#fr_9) In a Mishna at the end of
+<span id="fn_9"></span>[19:2](abo05.htm#fr_9.md) In a Mishna at the end of
 Tract Pëah it is stated the reverse, viz.: That one who needs charity
 and refuses to take it will not depart from this world until he will bc
 in a position to give charity.
 
-<span id="fn_10"></span>[20:1](abo05.htm#fr_10) This is inferred from
+<span id="fn_10"></span>[20:1](abo05.htm#fr_10.md) This is inferred from
 the superfluous letter ‏ו‎ and ‏ת‎; as gates ‏דלתי‎," is also plural,
 not less than two, from the added ‏ו‎ and ‏ת‎ they deduce one more.
 
-<span id="fn_11"></span>[21:1](abo05.htm#fr_11) We omitted the narrative
+<span id="fn_11"></span>[21:1](abo05.htm#fr_11.md) We omitted the narrative
 of a pious man who was compelled too stay over night in a cemetery, as
 its proper place is in Berachoth.
 
-<span id="fn_12"></span>[22:1](abo05.htm#fr_12) Chapter IV. of the
+<span id="fn_12"></span>[22:1](abo05.htm#fr_12.md) Chapter IV. of the
 original.
 
-<span id="fn_13"></span>[25:1](abo05.htm#fr_13) Elsewhere the Talmud
+<span id="fn_13"></span>[25:1](abo05.htm#fr_13.md) Elsewhere the Talmud
 explains that Lebanon means the Temple, and "mighty one" a king.
 
-<span id="fn_14"></span>[27:1](abo05.htm#fr_14) Chapter V. of the
+<span id="fn_14"></span>[27:1](abo05.htm#fr_14.md) Chapter V. of the
 original.
 
-<span id="fn_15"></span>[27:2](abo05.htm#fr_15) Chapter VI. of the
+<span id="fn_15"></span>[27:2](abo05.htm#fr_15.md) Chapter VI. of the
 original.
 
-<span id="fn_16"></span>[28:1](abo05.htm#fr_16) According to this
+<span id="fn_16"></span>[28:1](abo05.htm#fr_16.md) According to this
 legend, R. Aqiba had a son before he married the daughter, of Calba
 Shebua, and thus can be explained the question of Tossaphat in Sabbath,
 old edition 106*b*, beginning with the paragraph, "R. Joshua b. Karcha."
 
-<span id="fn_17"></span>[29:1](abo05.htm#fr_17) See Section Moed, Vol.
+<span id="fn_17"></span>[29:1](abo05.htm#fr_17.md) See Section Moed, Vol.
 VI., Tract Yomah, p. 49, that it is Hillel who will be a menace to the
 poor.
 
-<span id="fn_18"></span>[32:1](abo05.htm#fr_18) *Calba*, means "dog";
+<span id="fn_18"></span>[32:1](abo05.htm#fr_18.md) *Calba*, means "dog";
 *Shebua*, "satiated."
 
-<span id="fn_19"></span>[32:2](abo05.htm#fr_19) Chapter VII. of the
+<span id="fn_19"></span>[32:2](abo05.htm#fr_19.md) Chapter VII. of the
 original.
 
-<span id="fn_20"></span>[35:1](abo05.htm#fr_20) Chapter VIII. of the
+<span id="fn_20"></span>[35:1](abo05.htm#fr_20.md) Chapter VIII. of the
 original.
 
-<span id="fn_21"></span>[36:1](abo05.htm#fr_21) The Talmud translates
+<span id="fn_21"></span>[36:1](abo05.htm#fr_21.md) The Talmud translates
 ‏חושב‎ "think after" (doubt), but Leeser translates it "respect."
 
-<span id="fn_22"></span>[37:1](abo05.htm#fr_22) He did so in order to
+<span id="fn_22"></span>[37:1](abo05.htm#fr_22.md) He did so in order to
 prevent others from doing her violence.
 
-<span id="fn_23"></span>[38:1](abo05.htm#fr_23) Chapter IX. of the
+<span id="fn_23"></span>[38:1](abo05.htm#fr_23.md) Chapter IX. of the
 original.
 
-<span id="fn_24"></span>[41:1](abo05.htm#fr_24) The Hebrew term is
+<span id="fn_24"></span>[41:1](abo05.htm#fr_24.md) The Hebrew term is
 *Kehorkhe Hadaionin*. This translation is according to Rashi. Maimonides
 explains it as follows: "Do not make thyself as those who instruct the
 litigants what to plead." The explanation, however, of the ancient sages
 will be found in the Gemara.
 
-<span id="fn_25"></span>[42:1](abo05.htm#fr_25) Chapter X. of the
+<span id="fn_25"></span>[42:1](abo05.htm#fr_25.md) Chapter X. of the
 original.
 
-<span id="fn_26"></span>[43:1](abo05.htm#fr_26) *I.e.*, do not get into
+<span id="fn_26"></span>[43:1](abo05.htm#fr_26.md) *I.e.*, do not get into
 such affairs as will cause the government to investigate about you. The
 commentators, however, interpret this otherwise.--See Gemara.
 
-<span id="fn_27"></span>[43:2](abo05.htm#fr_27) Chapter XI. of the
+<span id="fn_27"></span>[43:2](abo05.htm#fr_27.md) Chapter XI. of the
 original.
 
-<span id="fn_28"></span>[46:1](abo05.htm#fr_28) Chapter XII. of the
+<span id="fn_28"></span>[46:1](abo05.htm#fr_28.md) Chapter XII. of the
 original.
 
-<span id="fn_29"></span>[48:1](abo05.htm#fr_29) ‏פה‎ in Hebrew means
+<span id="fn_29"></span>[48:1](abo05.htm#fr_29.md) ‏פה‎ in Hebrew means
 "mouth," and the Talmud takes it literally.
 
-<span id="fn_30"></span>[49:1](abo05.htm#fr_30) The Hebrew term for this
+<span id="fn_30"></span>[49:1](abo05.htm#fr_30.md) The Hebrew term for this
 is "Mekapeah," derived from "K'apah," *high* (Bechoroth, 45*b*).
 
-<span id="fn_31"></span>[50:1](abo05.htm#fr_31) According to the
+<span id="fn_31"></span>[50:1](abo05.htm#fr_31.md) According to the
 interpretation of the Talmud, but Leeser translates "obtained."
 
-<span id="fn_32"></span>[52:1](abo05.htm#fr_32) Chapter XIII. of the
+<span id="fn_32"></span>[52:1](abo05.htm#fr_32.md) Chapter XIII. of the
 original.
 
-<span id="fn_33"></span>[53:1](abo05.htm#fr_33) There are seventy-five
+<span id="fn_33"></span>[53:1](abo05.htm#fr_33.md) There are seventy-five
 letters in the Hebrew text beginning with the word ‏לבוא‎ and ending
 with ‏גדלים‎, the translation of which is "go to take to himself a
 nation from the midst of a nation, by proofs, by signs, and by wonders,
@@ -2552,15 +2552,15 @@ id="page_54">p. 54</span> Egypt. Of the many commentaries upon this
 difficult and complicated passage this seems to us to be the best, which
 is according to Isaiah Berlin (Pick).
 
-<span id="fn_34"></span>[54:1](abo05.htm#fr_34) Chapter XIV. of the
+<span id="fn_34"></span>[54:1](abo05.htm#fr_34.md) Chapter XIV. of the
 original.
 
-<span id="fn_35"></span>[56:1](abo05.htm#fr_35) Chapter XV. of the
+<span id="fn_35"></span>[56:1](abo05.htm#fr_35.md) Chapter XV. of the
 original.
 
-<span id="fn_36"></span>[56:2](abo05.htm#fr_36) This is also stated in
+<span id="fn_36"></span>[56:2](abo05.htm#fr_36.md) This is also stated in
 Sabbath, p. 51; but because it is here more in detail, we give it again.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II.](abo06)
+[Next: Chapter II.](abo06.md)

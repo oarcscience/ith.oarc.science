@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp81) 
-[Next](alp83) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp81.md) 
+[Next](alp83.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ This incident reminds us of the Cyclops Polyphemus, in the *Odyssey*.
 Tork had also artistic proclivities. After dividing large stones with
 his hands, he smoothed them with his nails, and with his nails covered
 them with drawings of eagles and other pictures. <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
 Then the historian gives a table of royal names down to Aram, whom he
 describes as industrious and patriotic, and who said that he would
@@ -105,7 +105,7 @@ whom he eventually subdued. He was succeeded by Ara the Beautiful.
 The romantic love of Semiramis for this king, which was a favourite
 theme of ancient Armenian song and epic, is elaborately recounted by
 Moses of Khorene. A translation of his narrative is given on page
-[23](alp23.htm#page_23) of this volume. There are several variants of
+[23](alp23.htm#page_23.md) of this volume. There are several variants of
 this story, which is still related in Armenia, and the names of many
 places as well as many superstitions can be traced to it.
 
@@ -132,7 +132,7 @@ accompanied by a snowstorm, and separated the mother
 from her son. For three days and nights the nurse and the child were
 buried in the snow, but the gods sent a miraculous white animal which
 rescued them and brought them home alive. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 But, though such legends as these may have some foundation in fact,
 there are others that are entirely fabulous, like the following, which
@@ -168,7 +168,7 @@ Moses of Khorene says that, after the death of Ara the Beautiful,
 Semiramis passed the rest of her days in Armenia, which place she
 greatly loved. Here she established the city of Van. A picturesque
 account of its foundation given by the historian is included in this
-volume (page [33](alp30.htm#page_33)).
+volume (page [33](alp30.htm#page_33).md).
 
 The following account is given of the end of Semiramis:--
 
@@ -375,7 +375,7 @@ conversion to Christianity. In this respect they resembled the Saxons of
 Germany, and, even in the early part of the fifth century, they observed
 pagan rites, sometimes openly, sometimes secretly. One of the old
 Armenian songs, describing the birth of the Armenian king Vahagn, is
-given in this volume, page [10](alp14.htm#page_10). This is supposed to
+given in this volume, page [10](alp14.htm#page_10.md). This is supposed to
 be a myth describing the rise of the sun over the sea.
 
 At sunrise the sky gradually becomes light; between the light and the
@@ -412,7 +412,7 @@ story of his birth and his fights with dragons, as related by the poets.
 He also calls Vahagn the first of the *Vahuni* or priestly caste; but
 this caste was far more ancient than the historian thinks, as sun
 worship is one of the oldest forms of religion. <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 Moses of Khorene says, moreover, that there was an image of Vahagn in
 Georgia, where he was worshipped as a god.
@@ -422,7 +422,7 @@ Georgia, where he was worshipped as a god.
 As to the form of this poem--we note the parallelism, similar to that of
 the old Hebrew songs: "To Sisera *a prey of diverse colours, a prey of
 diverse colours of needlework, of diverse colours of needlework*, on
-both sides " (Judges v. 30). <span id="fr_30"></span>[1](#fn_30)
+both sides " (Judges v. 30). <span id="fr_30"></span>[1](#fn_30.md)
 
 The Song of Deborah, from which we have just quoted, is supposed to be
 the oldest passage in the Bible, and is a good specimen of ancient
@@ -461,7 +461,7 @@ form, which expresses endearment
 
 The adjectives used here do not qualify the nouns, but simply serve as
 epithets, or attributes, like the adjectives in the Homeric poems. The
-Armenian word *dzirani*, <span id="fr_31"></span>[2](#fn_31) used in
+Armenian word *dzirani*, <span id="fr_31"></span>[2](#fn_31.md) used in
 this poem, does not always mean "red"; applied to a robe it means "red,"
 applied to a belt it means "variegated"; it may originally have had the
 sense of "pleasing" (cf. Russian *krasni*, which originally meant
@@ -481,7 +481,7 @@ Bagratuni, by whose command his history was written, in these terms:--
 
 "The doings of Artashes are known to thee, through the epical songs
 which are sung in the province of Goghtan; that is to say, his founding
-of Artaxata (Artashat), <span id="fr_32"></span>[1](#fn_32) his alliance
+of Artaxata (Artashat), <span id="fr_32"></span>[1](#fn_32.md) his alliance
 by marriage with the royal house of the Alans, his sons and their
 descendants, the loves of Satenik with the Vishapazuns (progeny of
 dragons) who were of the race of Astyages; his wars with them, the
@@ -495,16 +495,16 @@ meaning."
 Then Moses of Khorene gives, in detail, a prose account of the deeds of
 Artashes and his son Artavazd, as they are related in the epic of
 Artashes, quoting, in the course of his narrative, the songs given in
-this volume on pages [48](alp40.htm#page_48) and
-[49](alp40.htm#page_49).
+this volume on pages [48](alp40.htm#page_48.md) and
+[49](alp40.htm#page_49.md).
 
 Besides these songs, there are included in the history two or three
 metrical lines, which must be extracts from the epic. One of these lines
 contains the reply of the Alan king when he is asked to give his
 daughter in marriage to Artashes: "From whence shall brave . . ." (see
-for the rest page [48](alp40.htm#page_48), the last lines, in this
+for the rest page [48](alp40.htm#page_48.md), the last lines, in this
 volume). The same poem contains a description of the wedding (see page
-[49](alp40.htm#page_49) of this volume).
+[49](alp40.htm#page_49) of this volume.md).
 
 We learn from ancient Armenian historians that weddings were times of
 great festivity, especially royal weddings. All the people of the
@@ -550,7 +550,7 @@ which were celebrated with great splendour, for he was dearly beloved by
 his subjects, many of whom committed suicide at his grave, not caring to
 survive him. His son Artavazd, who was present, became very jealous and
 uttered a complaint which Moses of Khorene gives in the words of the
-epic (see page [65](alp49.htm#page_65) of this volume).
+epic (see page [65](alp49.htm#page_65) of this volume.md).
 
 We have omitted many other incidents of the story of Artashes, as given
 by Moses of Khorene, but it may be gathered, from what we have of the
@@ -570,7 +570,7 @@ villages. The poem gives his dying words:--
 <span id="page_143">p. 143</span>
 
 "Who will give me the smoke of the chimneys and the morn of
-Navasard, <span id="fr_33"></span>[1](#fn_33)  
+Navasard, <span id="fr_33"></span>[1](#fn_33.md)  
 The running of the stag and the coursing of the deer?  
 We sounded the horn and beat the drum  
 As is the manner of kings."
@@ -683,7 +683,7 @@ development.
 
 But the Armenians must have done better, as mention is made of Armenian
 drama by Greek and Roman writers, from whom we learn that King Artavazd
-I. <span id="fr_34"></span>[1](#fn_34) wrote tragedies, some of which
+I. <span id="fr_34"></span>[1](#fn_34.md) wrote tragedies, some of which
 were known to Plutarch. We also learn from Plutarch and others that, in
 the time of Tigranes II., there were theatres in Armenia, and Plutarch
 records that, when Lucullus entered Tigranocerta, he found a body of
@@ -754,7 +754,7 @@ into the story of Er. As the story of Ara was known to Plato, we may
 take for granted that it existed in the fourth century B.C.
 
 Strabo gives an erroneous etymology of the name "Armenia," which he
-derives from "Armenios." <span id="fr_35"></span>[1](#fn_35) Perhaps he
+derives from "Armenios." <span id="fr_35"></span>[1](#fn_35.md) Perhaps he
 had heard of Aram, whose story is told in the epics. This story is known
 to us through Moses of Khorene, who derives the word "Armenia" from
 Aram, and says that the country was called by this name only by
@@ -775,11 +775,11 @@ instruments.
 
 ### Footnotes
 
-<span id="fn_27"></span>[133:1](alp82.htm#fr_27) Zarmaïr, another king
+<span id="fn_27"></span>[133:1](alp82.htm#fr_27.md) Zarmaïr, another king
 of this dynasty, took part in the defence of Troy. The historian
 emphasises the fact that he was killed by Achilles himself.
 
-<span id="fn_28"></span>[134:1](alp82.htm#fr_28) It is interesting to
+<span id="fn_28"></span>[134:1](alp82.htm#fr_28.md) It is interesting to
 recall, in this connection, some passages of Strabo. Speaking of Armenia
 he says:--"It is said that people passing by the foot of the mountains
 are often buried in the snow which falls from the summits. In order to
@@ -788,7 +788,7 @@ sticks for the purpose of making breathing places for themselves, should
 they be covered by the snow. The sticks, at the same time, serve as
 signals to any other travellers who may happen to be passing."
 
-<span id="fn_29"></span>[139:1](alp82.htm#fr_29) Cf. the original text
+<span id="fn_29"></span>[139:1](alp82.htm#fr_29.md) Cf. the original text
 of the Armenian poem which is as follows:--
 
 <div align="center">
@@ -818,7 +818,7 @@ Ev achkunkn ein aregakunk.</p>
 
 </div>
 
-<span id="fn_30"></span>[140:1](alp82.htm#fr_30) The following lines
+<span id="fn_30"></span>[140:1](alp82.htm#fr_30.md) The following lines
 from a Chaldean description of *Ut-napisti*, the Chaldean Noah's
 sacrifice after the Flood, furnish an example from Assyrian poetry:--
 
@@ -826,10 +826,10 @@ sacrifice after the Flood, furnish an example from Assyrian poetry:--
 The gods smelled a sweet savour,  
 The gods gathered like flies over the sacrifice."
 
-<span id="fn_31"></span>[140:2](alp82.htm#fr_31) *Dziran* in Armenian
+<span id="fn_31"></span>[140:2](alp82.htm#fr_31.md) *Dziran* in Armenian
 means "apricot," therefore *dzirani* ="of apricot colour."
 
-<span id="fn_32"></span>[141:1](alp82.htm#fr_32) Strabo says about
+<span id="fn_32"></span>[141:1](alp82.htm#fr_32.md) Strabo says about
 Artaxata that it was built upon a design which Hannibal gave to King
 Artaxes (Artashes), who made it the capital of Armenia, and Tournefort,
 the famous French botanist, who travelled in Armenia in the seventeenth
@@ -837,13 +837,13 @@ century, exclaims, in reference to this fact: "Who could have imagined
 that Hannibal would come from Africa to Armenia to be engineer to an
 Armenian king? But so it is."
 
-<span id="fn_33"></span>[143:1](alp82.htm#fr_33) April, when the New
+<span id="fn_33"></span>[143:1](alp82.htm#fr_33.md) April, when the New
 Year commenced.
 
-<span id="fn_34"></span>[145:1](alp82.htm#fr_34) The son of Tigranes the
+<span id="fn_34"></span>[145:1](alp82.htm#fr_34.md) The son of Tigranes the
 Great.
 
-<span id="fn_35"></span>[146:1](alp82.htm#fr_35) "Armenios, one of the
+<span id="fn_35"></span>[146:1](alp82.htm#fr_35.md) "Armenios, one of the
 Argonauts, who was believed to have been a native of Rhodes or of
 Armenion in Thessaly, and to have settled in the country which was
 called after him, *Armenia*" (Strabo, xi. 530, etc.; Justin, xlii. 2;
@@ -851,4 +851,4 @@ Steph. Byz. S. V. Αρμενια).
 
 ------------------------------------------------------------------------
 
-[Next: Moses of Khorene](alp83)
+[Next: Moses of Khorene](alp83.md)

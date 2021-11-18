@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah08)  [Next](mah10) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah08)  [Next](mah10.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Transportation Department.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Clairvoyant Visions Of Mars](mah10)
+[Next: Chapter VII: Clairvoyant Visions Of Mars](mah10.md)

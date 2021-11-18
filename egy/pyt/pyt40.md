@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt39)  [Next](pyt41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt39)  [Next](pyt41.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ joy?);
 
 ------------------------------------------------------------------------
 
-[Next: 38. Texts of Miscellaneous Contents, Utterances 578-586](pyt41)
+[Next: 38. Texts of Miscellaneous Contents, Utterances 578-586](pyt41.md)

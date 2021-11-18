@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft66)  [Next](sfft68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft66)  [Next](sfft68.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_228">p. 228</span>
 
-### THE BLACKSMITH'S WIFE OF YARROWFOOT. <span id="fr_100"></span>[1](#fn_100)
+### THE BLACKSMITH'S WIFE OF YARROWFOOT. <span id="fr_100"></span>[1](#fn_100.md)
 
 SOME years back, the blacksmith of Yarrowfoot had for apprentices two
 brothers, both steady lads, and, when bound to him, fine healthy
@@ -90,9 +90,9 @@ brought on through being witch-ridden.
 
 ### Footnotes
 
-<span id="fn_100"></span>[228:1](sfft67.htm#fr_100) William Henderson,
+<span id="fn_100"></span>[228:1](sfft67.htm#fr_100.md) William Henderson,
 *Folk-Lore of the Northern Counties*.
 
 ------------------------------------------------------------------------
 
-[Next: The Miller of Holdean](sfft68)
+[Next: The Miller of Holdean](sfft68.md)

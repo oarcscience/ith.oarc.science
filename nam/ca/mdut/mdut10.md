@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut09)  [Next](mdut11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut09)  [Next](mdut11.md) 
 
 ------------------------------------------------------------------------
 
@@ -379,4 +379,4 @@ all, they say.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Sun-Man and Frog-Woman](mdut11)
+[Next: 9. Sun-Man and Frog-Woman](mdut11.md)

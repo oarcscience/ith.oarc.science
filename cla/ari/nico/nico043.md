@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico042) 
-[Next](nico044) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico042.md) 
+[Next](nico044.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,4 +46,4 @@ Now, however, let us discuss justice.
 
 [Next: Chapter 1. The just as the lawful (universal justice) and the
 just as the fair and equal (particular justice): the former
-considered](nico044)
+considered](nico044.md)

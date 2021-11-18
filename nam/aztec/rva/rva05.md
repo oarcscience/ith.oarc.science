@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva04)  [Next](rva06) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva04)  [Next](rva06.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### V. Chimalpanecatl icuic ioan tlaltecaua (nanotl).
 
-[English](#english)
+[English](#english.md)
 
 1\. Ichimalipan chipuchica ueya, mixiuiloc yautlatoaya, ichimalipan
 chipuchica ueya, mixiuiloc yautlatoa.
@@ -63,4 +63,4 @@ second of this collection of chants.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Hymn to the God of Fire.](rva06) 
+[Next: VI. Hymn to the God of Fire.](rva06.md) 

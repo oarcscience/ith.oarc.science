@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl19)  [Next](flhl21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl19)  [Next](flhl21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ approached by a stairway cut in the rock, whose lowest steps were of
 precious metal, and that the staircase and tunnel had been closed by
 order of the Egyptian Government, because the Egyptian soldiers had
 often hidden in the tunnel to waylay women who descended in order to
-fetch water. <span id="fr_55"></span>[1](#fn_55)
+fetch water. <span id="fr_55"></span>[1](#fn_55.md)
 
 From ’Aïn el Lozeh a pathway runs up the hillside towards the ruins of
 the village of Beit Sahur, the inhabitants of which fled one night,
@@ -103,7 +103,7 @@ supposition that it was here that the Danite champion found shelter
 after the exploit of the foxes and the following slaughter. A little
 further east are several smaller caves which also appear to have been
 used as hermitages, and are known by the name of "’Alali el Benât," or
-the "Upper Chambers of the Maidens." <span id="fr_56"></span>[1](#fn_56)
+the "Upper Chambers of the Maidens." <span id="fr_56"></span>[1](#fn_56.md)
 
 The fellahìn of the neighbouring village of ’Akûr say that in the times
 of the Infidels these caves, too high up to be reached unless by ropes
@@ -140,7 +140,7 @@ heaven may become its earth, and its length may become its breadth." The
 order was only too literally executed, and Ibn Khaterìn, in his grief
 and despair, because he had been forced to write this sentence, "smote
 his head on the ground, broke the joints of his fingers, and died in a
-few days." <span id="fr_57"></span>[1](#fn_57)
+few days." <span id="fr_57"></span>[1](#fn_57.md)
 
 The caves in Wad er Rabâbeh were at that time the abode of a population
 of monks and holy men who spent their time in fasting and prayer. Now it
@@ -160,7 +160,7 @@ the second letter of the first word; or whether El Hakìm in his
 wickedness took the order which his scribe had written and himself put
 in the dot, Allah alone knows, but when the order reached Jerusalem the
 dot was there, and the order read, not "Number," but "Mutilate the
-men." <span id="fr_58"></span>[1](#fn_58)
+men." <span id="fr_58"></span>[1](#fn_58.md)
 
 This cruelty was literally carried out, and its victims died in
 consequence, and were buried where they had lived. The human bones now
@@ -207,7 +207,7 @@ bitter tongue, the chieftain resolved to avenge himself upon the
 Christian. He therefore mounted his mare and galloped to the abode of
 the latter, who received him with all courtesy and entertained him.
 Taking leave at length, he mounted his mare, the
-[Christian](errata.htm#0) holding the stirrup. As soon as he was in the
+[Christian](errata.htm#0.md) holding the stirrup. As soon as he was in the
 saddle, the
 
 <span id="page_112">p. 112</span>
@@ -327,7 +327,7 @@ Community at Remamìn.
  
 
 Some four centuries ago, when Sultan Selìm took Palestine, he set a
-garrison of Kurds at Hebron, <span id="fr_59"></span>[1](#fn_59)
+garrison of Kurds at Hebron, <span id="fr_59"></span>[1](#fn_59.md)
 
 <span id="page_116">p. 116</span>
 
@@ -338,7 +338,7 @@ espousing neither party hectored both. They built fine houses on the
 hill-side north of the Haram, and planted orchards of foreign trees till
 then unknown. Now, it is a custom in Palestine for anyone passing along
 a road to pick fruit hanging over an orchard wall without rebuke. <span
-id="fr_60"></span>[1](#fn_60) But the Kurds, if they caught a man
+id="fr_60"></span>[1](#fn_60.md) But the Kurds, if they caught a man
 gleaning from the skirts of their plantations, would cut off both his
 hands. They were hateful in all their ways. At last, their tyranny grew
 so unbearable that the two rival factions were at one in the
@@ -403,7 +403,7 @@ Hearing that on a certain day a great wedding was to take place at
 Artass, they quietly mustered their forces and suddenly fell upon the
 unprepared villagers at a time when they were unarmed and disporting
 themselves in the gardens. Only a few escaped, <span
-id="fr_61"></span>[1](#fn_61) and with their families found refuge in
+id="fr_61"></span>[1](#fn_61.md) and with their families found refuge in
 the castle at the Pools, where their descendants continued to live till
 some fifty years ago, when, the country having become more settled, they
 returned to the adjacent valley of Artass, and built new dwellings amid
@@ -441,33 +441,33 @@ death as "the wife of Rishân."
 
 ### Footnotes
 
-<span id="fn_55"></span>[105:1](flhl20.htm#fr_55) This is indeed not the
+<span id="fn_55"></span>[105:1](flhl20.htm#fr_55.md) This is indeed not the
 exact tradition as related by Sir Charles Warren, but it is what the
 fellahìn told J. E. Hanauer, and the latter, who was at the time
 interpreter on Sir C. Warren's staff, related to him. For a description
 of the wonderful tunnel which Sir Charles discovered at ’Aïn el Lozeh,
 see "The Recovery of Jerusalem," p. 257 ff.
 
-<span id="fn_56"></span>[108:1](flhl20.htm#fr_56) The following legend
+<span id="fn_56"></span>[108:1](flhl20.htm#fr_56.md) The following legend
 may be assigned to the period between 312 and 614 A.D. when the Holy
 Land was covered with convents and hermitages, and swarmed with recluses
 of both sexes.
 
-<span id="fn_57"></span>[109:1](flhl20.htm#fr_57) Renaudot, quoted in
+<span id="fn_57"></span>[109:1](flhl20.htm#fr_57.md) Renaudot, quoted in
 footnote to Williams’ "Holy City," p. 349.
 
-<span id="fn_58"></span>[110:1](flhl20.htm#fr_58) Akhsa er-rijâl instead
+<span id="fn_58"></span>[110:1](flhl20.htm#fr_58.md) Akhsa er-rijâl instead
 of Ahsa er-rìjâl, the difference in the Arabic being of a dot only.--ED.
 
-<span id="fn_59"></span>[115:1](flhl20.htm#fr_59) This story was told me
+<span id="fn_59"></span>[115:1](flhl20.htm#fr_59.md) This story was told me
 by the sheykh of the village of Dûra, south of Hebron.
 
-<span id="fn_60"></span>[116:1](flhl20.htm#fr_60) For the corresponding
+<span id="fn_60"></span>[116:1](flhl20.htm#fr_60.md) For the corresponding
 provision of the Mosaic law, see Deut. xxiii. 24, ff.
 
-<span id="fn_61"></span>[118:1](flhl20.htm#fr_61) *Cf*. 1 Maccabees ix.
+<span id="fn_61"></span>[118:1](flhl20.htm#fr_61.md) *Cf*. 1 Maccabees ix.
 37-42.
 
 ------------------------------------------------------------------------
 
-[Next: VII. Judgements of Karakash](flhl21)
+[Next: VII. Judgements of Karakash](flhl21.md)

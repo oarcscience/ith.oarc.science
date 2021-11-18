@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](ebt29)  [Next](ebt31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](ebt29)  [Next](ebt31.md) 
 
 ------------------------------------------------------------------------
 
@@ -887,14 +887,14 @@ Old Radnor Church 20
 
 [![PLATE XVII. CASTLE.&lt;BR&gt; Brampton Bryan Castle with Coxall Knoll
 on right.](tn/pl17.jpg)  
-Click to enlarge](img/pl17.jpg)  
+Click to enlarge](img/pl17.jpg.md)  
 PLATE XVII. CASTLE.  
 Brampton Bryan Castle with Coxall Knoll on right.  
 
 <span id="img_pl18"></span>
 
 [![PLATE XVIII. HOUSE IN MOAT.&lt;BR&gt; Gillow.](tn/pl18.jpg)  
-Click to enlarge](img/pl18.jpg)  
+Click to enlarge](img/pl18.jpg.md)  
 PLATE XVIII. HOUSE IN MOAT.  
 Gillow.  
 
@@ -1328,4 +1328,4 @@ Yatton 28, 33
 
 ------------------------------------------------------------------------
 
-[Next: Acknowledgments](ebt31)
+[Next: Acknowledgments](ebt31.md)

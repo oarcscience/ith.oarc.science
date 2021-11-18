@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb14)  [Next](mlb16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb14)  [Next](mlb16.md) 
 
 ------------------------------------------------------------------------
 
@@ -528,4 +528,4 @@ Zoo could only describe it as "the illegitimate offspring of a hyena
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: The Swallowing Monster](mlb16)
+[Next: Chapter XIV: The Swallowing Monster](mlb16.md)

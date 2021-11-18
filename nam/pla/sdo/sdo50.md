@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo49)  [Next](sdo51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo49)  [Next](sdo51.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ This is because *Wi* is the chief of the Gods. . . .
 
 ------------------------------------------------------------------------
 
-[Next: Conception of Energy](sdo51)
+[Next: Conception of Energy](sdo51.md)

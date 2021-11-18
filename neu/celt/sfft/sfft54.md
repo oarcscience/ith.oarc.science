@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft53)  [Next](sfft55) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft53)  [Next](sfft55.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE DOOMED RIDER. <span id="fr_82"></span>[1](#fn_82)
+### THE DOOMED RIDER. <span id="fr_82"></span>[1](#fn_82.md)
 
 "Tim Conan is as bonny a river as we hae in a' the north country.
 There's mony a sweet sunny spot on its banks, an' mony a time an' aft
@@ -93,9 +93,9 @@ the kelpie availed naething."
 
 ### Footnotes
 
-<span id="fn_82"></span>[182:1](sfft54.htm#fr_82) *Folk-Lore and
+<span id="fn_82"></span>[182:1](sfft54.htm#fr_82.md) *Folk-Lore and
 Legends, Scotland*. W. W. Gibbings.
 
 ------------------------------------------------------------------------
 
-[Next: Graham Of Morphie](sfft55)
+[Next: Graham Of Morphie](sfft55.md)

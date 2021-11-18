@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo20)  [Next](beo22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo20)  [Next](beo22.md) 
 
 ------------------------------------------------------------------------
 
@@ -78,4 +78,4 @@ and await the attempt of an avenging foe.
 
 ------------------------------------------------------------------------
 
-[Next: Part XXI](beo22)
+[Next: Part XXI](beo22.md)

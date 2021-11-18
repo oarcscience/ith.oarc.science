@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa24)  [Next](tsoa26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa24)  [Next](tsoa26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -383,7 +383,7 @@ bestowals must be universal and impartial, "and whatsoever ye do, do it
 heartily as to the Lord."
 
 Too many of us are like the maiden in the old Eastern legend. A
-[Genie](errata.htm#9) sent her into a field of grain, promising her a
+[Genie](errata.htm#9.md) sent her into a field of grain, promising her a
 rare gift if she would pick for him the largest and ripest ear she could
 find. His gift to be in proportion to the size and perfection of the
 ear.
@@ -492,4 +492,4 @@ and unvarying result of this method."
 
 ------------------------------------------------------------------------
 
-[Next: XV. The Master of Your Fate](tsoa26)
+[Next: XV. The Master of Your Fate](tsoa26.md)

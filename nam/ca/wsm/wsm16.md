@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm15)  [Next](wsm17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm15)  [Next](wsm17.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ threw it high in the sky.
 ------------------------------------------------------------------------
 
 [Next: Coyote Learns to Fly; The Origin of People (Saline Valley,
-California. Shoshoni)](wsm17)
+California. Shoshoni)](wsm17.md)

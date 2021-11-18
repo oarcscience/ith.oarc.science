@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[ESP](../../psi/index)  [Index](index)  [Previous](wild09) 
-[Next](wild11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[ESP](../../psi/index)  [Index](index)  [Previous](wild09.md) 
+[Next](wild11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Wild Talents*, by Charles Fort, \[1933\], at Intangible Textual
 Heritage
 
@@ -227,7 +227,7 @@ And, near Mineola, Long Island, a gorilla was reported.
 The first excitement was at Lewis & Valentine's nursery—story told by
 half a dozen persons—an ape that had come out of the woods, had looked
 them over, and had retreated. It seems that the police
-[hadn't](errata.htm#2) heard of "mass psychology": so they had to
+[hadn't](errata.htm#2.md) heard of "mass psychology": so they had to
 explain less learnedly. Several days later, they were so impressed with
 repeating stories that a dozen members of the Nassau County Police
 Department were armed with shotguns, and were assigned to ape-duty.
@@ -441,4 +441,4 @@ and propriety."
 
 ------------------------------------------------------------------------
 
-[Next: 11](wild11)
+[Next: 11](wild11.md)

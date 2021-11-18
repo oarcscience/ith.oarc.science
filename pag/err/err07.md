@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err06)  [Next](err08) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err06)  [Next](err08.md) 
 
 ------------------------------------------------------------------------
 
@@ -465,7 +465,7 @@ feared. Among savage tribes in the early stages of Shamanism, like the
 Red Indians of America, every remarkable spirit was once a man, always a
 magician. We may say that the Latin Orcus was a personification of hell,
 or of the horrible, just as Jupiter was of lightning, <span
-id="fr_7"></span>[1](#fn_7) but, etymology to the contrary, it is a fact
+id="fr_7"></span>[1](#fn_7.md) but, etymology to the contrary, it is a fact
 that rude races apply such names as hell and lightning to men. According
 to Euhemerus of Messina, who derived all gods from men, in which he
 appears to have been, to a certain degree, right, so far at least as
@@ -670,10 +670,10 @@ in houses.") I believe she is a benevolent spirit.
 
 ### Footnotes
 
-<span id="fn_7"></span>[75:1](err07.htm#fr_7) "Pluton Latiné est
+<span id="fn_7"></span>[75:1](err07.htm#fr_7.md) "Pluton Latiné est
 Diespiter: alii Orcum dicunt " (Tertullian Div. Instit. Lib., i., chap.
 14)
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter V--LARES, LASA, AND LASSI](err08)
+[Next: Part One: Chapter V--LARES, LASA, AND LASSI](err08.md)

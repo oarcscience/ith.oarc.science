@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rph16)  [Next](rph18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rph16)  [Next](rph18.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,12 +17,12 @@ that the latter recommend themselves to our interest, and the study of
 their system becomes of great importance to the history of philosophy as
 well as to that of religion. "For dust thou art, and unto dust shalt
 thou return" is said in Genesis (III, 19); and this curse is followed
-neither by any definite <span id="fr_376"></span>[1](#fn_376) promise of
+neither by any definite <span id="fr_376"></span>[1](#fn_376.md) promise of
 a better future, nor by any mention of the soul which is to return to
 God when the body mingles with the earth. According to the author of the
 Pentateuch, the model of wisdom in Israel, the author of Ecclesiastes,
 has bequeathed the following strange comparison to posterity: <span
-id="fr_377"></span>[2](#fn_377) "For that which befalleth the sons of
+id="fr_377"></span>[2](#fn_377.md) "For that which befalleth the sons of
 man, befalleth the beasts; even the same thing befalleth them; as the
 one dieth, so dieth the other." (Ecl. II, 19.)
 
@@ -32,15 +32,15 @@ with crowned heads and enjoying the divine
 
 <span id="page_190">p. 190</span>
 
-glory. <span id="fr_378"></span>[3](#fn_378) But it endeavors rather to
-humble than [ennoble](errata.htm#18) human nature in general. "Whence
+glory. <span id="fr_378"></span>[3](#fn_378.md) But it endeavors rather to
+humble than [ennoble](errata.htm#18.md) human nature in general. "Whence
 come you? From a fetid drop. Whither go you? To a place of dust, of
 defilement and of worms. And before whom are you some day to vindicate
 yourself and give account of your actions? Before the King of all Kings,
 before the Holy One Whose name be praised!" <span
-id="fr_379"></span>[4](#fn_379) Such are the words we read in a
+id="fr_379"></span>[4](#fn_379.md) Such are the words we read in a
 collection of sayings attributed to the oldest and most honored leaders
-of the Talmudical school. <span id="fr_380"></span>[5](#fn_380)
+of the Talmudical school. <span id="fr_380"></span>[5](#fn_380.md)
 
 In quite a different language the Zohar tells us of our origin, of our
 future destiny and of our relations to the Divine Being. "Man," it says,
@@ -48,13 +48,13 @@ future destiny and of our relations to the Divine Being. "Man," it says,
 reason he was not created until the sixth day. As soon as man appeared,
 everything was completed, the higher world as well as the lower world;
 for all is summed up in man, he unites all form." <span
-id="fr_381"></span>[6](#fn_381) But he is not only the image of the
+id="fr_381"></span>[6](#fn_381.md) But he is not only the image of the
 world, of the universality of beings including the absolute; he is also,
 and above all, the image of God as considered in the totality of these
 infinite attributes. Man is the divine presence on earth, ‏שכינתא תתאה‎
 (Sekinta Tahtoah); it is the Celestial Adam who, departing from the
 highest primitive darkness, created the Terrestrial Adam." <span
-id="fr_382"></span>[7](#fn_382)
+id="fr_382"></span>[7](#fn_382.md)
 
 Here follows at first a representation of man under the first of these
 two aspects, that is--man as the Microcosm. "Do not
@@ -83,12 +83,12 @@ stars of our body. All these signs have a hidden meaning and attract the
 attention of the wise who can read the face of man." (Zohar, Part II,
 76a.) Man makes even the most ferocious animal tremble by the sole power
 of his external form and by the intelligence and grandeur that reflects
-in his features. <span id="fr_383"></span>[8](#fn_383) The angel sent to
+in his features. <span id="fr_383"></span>[8](#fn_383.md) The angel sent to
 Daniel to protect him from the rage of the lions, is, according to the
 Zohar, nothing but the very face of the prophet, or the power exerted by
 the look of a pure man. It is added, though, that this power vanishes as
 soon as the person sinks through sin and through neglect of his
-duties. <span id="fr_384"></span>[9](#fn_384) We shall
+duties. <span id="fr_384"></span>[9](#fn_384.md) We shall
 
 <span id="page_192">p. 192</span>
 
@@ -134,7 +134,7 @@ light, and is entirely dependent upon the spirit. After death, the soul
 finds no rest, and the gates of Eden are closed to her until the spirit
 had risen to its source, to the Ancient of the Ancients, to replenish
 everlastingly from Him; for the spirit always ascends to its
-source." <span id="fr_385"></span>[10](#fn_385)
+source." <span id="fr_385"></span>[10](#fn_385.md)
 
 Each of these three souls, as is easily foreseen, has its source in a
 different degree of the divine existence. The supreme wisdom, also
@@ -152,7 +152,7 @@ a separate existence preceding the body, in short, the idea of the body,
 but with the individual traits which distinguish every one of us. This
 idea descends from heaven, and becomes visible at the moment of
 conception. "At the moment of earthly union, <span
-id="fr_386"></span>[11](#fn_386) the Holy One, praised be His name,
+id="fr_386"></span>[11](#fn_386.md) the Holy One, praised be His name,
 sends down a human-like form which bears the imprint of the divine seal.
 This form is present at the act of which we spoke, and if we were
 permitted to see what goes on at the time, we would notice above its
@@ -172,7 +172,7 @@ sublime form wherein the traits are engraved that are to mark it in this
 world. The image then emanates from this sublime form; it is the third
 from the soul, precedes us to earth and awaits our arrival from the
 moment of the conception; it is always present at the conjugal
-union." <span id="fr_387"></span>[12](#fn_387) The modern Kabbalists
+union." <span id="fr_387"></span>[12](#fn_387.md) The modern Kabbalists
 call this image the "individual principle" (‏יחידה‎--Y’hidoh).
 
 Some, finally, have introduced into the Kabbalistic psychology a fifth
@@ -187,7 +187,7 @@ based upon an allegorical passage in the Zohar, where it is said that
 every night during our sleep our soul ascends to heaven to render
 account there of the day's work, and that during that time the body is
 animated only by a breath of life which has its seat in the heart. <span
-id="fr_388"></span>[13](#fn_388)
+id="fr_388"></span>[13](#fn_388.md)
 
 But, to tell the truth, these last two elements do not count in our
 spiritual existence, which is entirely included in the intimate union of
@@ -244,12 +244,12 @@ you cry? Is he not the son of the king? Is he not right in leaving you
 that he may go to live in the palace of his father? Thus did Moses, who
 knew the truth, say to the weeping inhabitants of the country (i.e., the
 people). You are the sons of Jehovah, your God, you shall not cut
-yourself for the dead. <span id="fr_389"></span>[14](#fn_389) If all the
+yourself for the dead. <span id="fr_389"></span>[14](#fn_389.md) If all the
 just knew this, they would welcome the day they are to quit this world.
 And is it not the height of glory when the queen (the Shekinah or the
 Divine Presence) descends among them, when they are admitted to the
 palace of the king, and when they enjoy His delight forever?" <span
-id="fr_390"></span>[15](#fn_390)
+id="fr_390"></span>[15](#fn_390.md)
 
 In these relations between God, nature and the human soul we find again
 the same form of trinity which we met so often before, and which the
@@ -276,7 +276,7 @@ only where this union exists, as the following words teach us: 'He
 blessed them and called *their* name (Adam) on the day when they were
 created, (Genesis V, 2); for the name Adam (Man) can be given only to a
 man and a woman who are united into one being." <span
-id="fr_391"></span>[16](#fn_391)
+id="fr_391"></span>[16](#fn_391.md)
 
 Just as the soul was in the beginning entirely within the supreme
 intelligence, so were the two halves of the human being, each one of
@@ -292,10 +292,10 @@ and all the spirits, unites them as before, and they become- again one
 single body and one single soul. . . . But this union conforms to the
 acts of man and to the ways which he travelled. If he is pure and acts
 godly, he will enjoy a union which resembles completely the one that
-preceded his birth." <span id="fr_392"></span>[17](#fn_392) The author
+preceded his birth." <span id="fr_392"></span>[17](#fn_392.md) The author
 of these lines may have heard of the androgyne of Plato; for the name of
 this imaginary being is well known in the ancient traditions of the
-Hebrews. <span id="fr_393"></span>[18](#fn_393) But how far inferior to
+Hebrews. <span id="fr_393"></span>[18](#fn_393.md) But how far inferior to
 the Kabbalists did the Greek philosopher remain on this point! We may be
 permitted to remark that the question under
 
@@ -327,7 +327,7 @@ shall be subjected and exposed to all kinds of contamination. The Holy
 One, blessed be He, then said: From the day you were created you had no
 other destination but the world to which I send you. Seeing that it must
 obey, the soul sorrowfully took the earthly path and descended among
-us." <span id="fr_394"></span>[19](#fn_394)
+us." <span id="fr_394"></span>[19](#fn_394.md)
 
 Along with this idea we find the doctrine of reminiscence expressed in a
 very simple manner in the following passage: "Just
@@ -338,7 +338,7 @@ as all things of this world were present in their proper form in the
 thought of God before the creation, so were all human souls, before
 coming into this world, in the presence of God in heaven in the form
 which they have here below; and all that they learn here, they already
-knew before they came here." <span id="fr_395"></span>[20](#fn_395) It
+knew before they came here." <span id="fr_395"></span>[20](#fn_395.md) It
 is perhaps regrettable that such an important principle has not been
 developed further, and that it does not take up more space in the
 totality of the system. But we are forced to admit that it is expressed
@@ -360,7 +360,7 @@ as he is, and all that the Holy One, praised be He, created, was
 necessary. The law was made for the sake of man; but the law is a cloak
 for the Shekinah. Without man and without the law, the divine presence
 (Shekinah) would be like a pauper who has no cloak to cover himself
-with." <span id="fr_396"></span>[21](#fn_396)
+with." <span id="fr_396"></span>[21](#fn_396.md)
 
 In other words, the moral nature of man, the idea of good and evil,
 which can not be conceived without liberty, is one of the forms under
@@ -377,7 +377,7 @@ liberty. "All those who do evil in this world have begun already in
 heaven their estrangement from the Holy One, praised be He; they threw
 themselves into the entrance of the abyss and anticipated the time of
 their coming to earth. Thus were the souls before they came among
-us." <span id="fr_397"></span>[22](#fn_397)
+us." <span id="fr_397"></span>[22](#fn_397.md)
 
 It is precisely for the purpose of reconciling liberty with the
 destination of the soul, and of giving man the means of expiating his
@@ -407,7 +407,7 @@ spirits which enter this world and do not return to the palace of the
 Heavenly King. Man does not know that the souls undergo revolutions
 similar to those of a stone thrown from a sling. The time has finally
 come when these secrets must be divulged." <span
-id="fr_398"></span>[23](#fn_398)
+id="fr_398"></span>[23](#fn_398.md)
 
 To these words, so fully in accord with the metaphysics of the Zohar,
 details are added which reveal at times the most poetic imagination
@@ -419,7 +419,7 @@ soul was taught for a long time among the early Christians as an
 esoteric and traditional doctrine which was to be divulged to a small
 number of the elect only: abscondite quasi in foveis viperarum versari,
 et quasi haereditario malo sercere in paucis. <span
-id="fr_399"></span>[24](#fn_399) Origen considered the doctrine as the
+id="fr_399"></span>[24](#fn_399.md) Origen considered the doctrine as the
 only possible explanation of such Biblical accounts as the prenatal
 scuffle between Esau and Jacob, of Jeremiah's appointment while still in
 his mother's womb, and a host of others which would accuse the heavens
@@ -428,10 +428,10 @@ pre-existing life. To remove all doubt as to the origin and the true
 character of this belief, the Alexandrian priest takes care to add that
 it is not the metempsychosis of Plato which is at issue here, but quite
 a different and much loftier theory. <span
-id="fr_400"></span>[25](#fn_400)
+id="fr_400"></span>[25](#fn_400.md)
 
 To help us regain heaven, modern Kabbalists have conceived another
-remedy, besides so-called [metempsychosis](errata.htm#19), which is
+remedy, besides so-called [metempsychosis](errata.htm#19.md), which is
 offered to our weakness by divine grace. They are of the opinion that
 since the souls lack the power to fulfil separately all the precepts of
 the law God unites them into one life, so that, like the blind
@@ -445,7 +445,7 @@ a mother to the first one, carrying it in its bosom and nourishing it
 from its own substance, like a woman nourishing the fruit of her womb.
 Whence the name "gestation," or "impregnation" (‏עיבור‎--Ibur), the
 philosophical meaning of which, if there be one, is hard to guess. <span
-id="fr_401"></span>[26](#fn_401) But we shall lay aside these vagaries
+id="fr_401"></span>[26](#fn_401.md) But we shall lay aside these vagaries
 or unimportant allegories, if you please, and adhere to the text of the
 Zohar.
 
@@ -458,10 +458,10 @@ very constitution of the soul; in short, they endeavored to explain that
 doctrine by a psychological system which we find, without exception, at
 the bottom of all the theories fathered by mysticism. Having separated
 from human nature the blind force which presides over animal life, which
-never leaves the earth, <span id="fr_402"></span>[27](#fn_402) and
+never leaves the earth, <span id="fr_402"></span>[27](#fn_402.md) and
 consequently plays no part in the destinies of the soul, the Zohar
 distinguishes also two kinds of sentiments and two kinds of cognitions.
-"Awe" <span id="fr_403"></span>[28](#fn_403) and "love" make up the
+"Awe" <span id="fr_403"></span>[28](#fn_403.md) and "love" make up the
 first two; "direct light" and "reflected light," or
 
 <span id="page_203">p. 203</span>
@@ -475,9 +475,9 @@ light (‏שרגא‎--Sargah), which shines forever and the secret of which can
 never be divulged. It is an inner face because it comes from a hidden
 source; but it is also a superior face because it comes from on high.
 The outer face is but the reflection of that light which emanates
-directly from above." <span id="fr_404"></span>[29](#fn_404) When God
+directly from above." <span id="fr_404"></span>[29](#fn_404.md) When God
 told Moses that he might see only His back and not His front, He alluded
-to these two kinds of cognition <span id="fr_405"></span>[30](#fn_405)
+to these two kinds of cognition <span id="fr_405"></span>[30](#fn_405.md)
 which are represented in the early paradise by the tree of life and the
 tree
 
@@ -498,7 +498,7 @@ of the unity of God. It is love that links the higher and lower degrees
 to one another; it is love that lifts everything to that degree where
 all must become one. This is also the secret of the words: Hear O
 Israel, the Eternal our God is One God." <span
-id="fr_406"></span>[31](#fn_406)
+id="fr_406"></span>[31](#fn_406.md)
 
 We understand offhand that the spirit, when it has reached the highest
 degree of perfection, knows neither reflection nor awe. Its blissful
@@ -514,7 +514,7 @@ not be able to bear it were they not clothed with a cloak of light. It
 is only because of this cloak that they can look into that dazzling
 hearth which illumines the seat of life. Moses himself could approach to
 look at it only after discarding his earthly cloak." <span
-id="fr_407"></span>[32](#fn_407)
+id="fr_407"></span>[32](#fn_407.md)
 
 <span id="page_205">p. 205</span>
 
@@ -526,19 +526,19 @@ mysterious and most exalted parts of heaven there is a palace of love
 there are all souls well-beloved by the Celestial King, the Holy One,
 praised be He, together with the holy spirits with whom He unites by
 kisses of love (‏נשיקין דרחימו‎--N’shikin D’hreemoo)." <span
-id="fr_408"></span>[33](#fn_408) It is by virtue of this idea that the
+id="fr_408"></span>[33](#fn_408.md) It is by virtue of this idea that the
 death of the righteous is called the "kiss of God." <span
-id="fr_409"></span>[34](#fn_409) "This kiss," says distinctly the text,
+id="fr_409"></span>[34](#fn_409.md) "This kiss," says distinctly the text,
 "is the union of the soul with the substance from which it
-springs." <span id="fr_410"></span>[35](#fn_410)
+springs." <span id="fr_410"></span>[35](#fn_410.md)
 
 The same principle will explain to us why all the interpreters of
 mysticism venerate so highly the tender, but often profane, expressions
 met with in the Song of. Songs. "My beloved one belongs to me, and I
 belong to my beloved one," said Simeon ben Yohai before dying, <span
-id="fr_411"></span>[36](#fn_411) and it is especially noteworthy that
+id="fr_411"></span>[36](#fn_411.md) and it is especially noteworthy that
 this quotation closes also Gerson's treatise on mystic theology. <span
-id="fr_412"></span>[37](#fn_413) Notwithstanding the surprise that may
+id="fr_412"></span>[37](#fn_413.md) Notwithstanding the surprise that may
 be caused by placing the justly celebrated name just mentioned and the
 great name of Fenelon alongside the names which figure in the Zohar, we
 shall have no trouble to show that it is impossible to find in the
@@ -552,7 +552,7 @@ features.
 Let us present the last deductions which no one admitted with such
 frankness as the Kabbalists. There is one degree among the seven degrees
 of existence (which are also called the seven tabernacles, ‏שבע
-היכלות‎), <span id="fr_414"></span>[38](#fn_414) which is called the
+היכלות‎), <span id="fr_414"></span>[38](#fn_414.md) which is called the
 "all saint," where all the souls unite with the supreme soul and
 mutually complete themselves. There, all return to unity and perfection.
 Everything unites into a single thought which spreads over and
@@ -562,7 +562,7 @@ only the thought that emanates from it. In this state, finally, the
 created can not be differentiated from the creator; the same thought
 illumines them, the same will animates .them; the soul as well as God
 commands the universe, and God executes what the soul commands. <span
-id="fr_415"></span>[39](#fn_415)
+id="fr_415"></span>[39](#fn_415.md)
 
 To close this analysis we must show in a few words the opinion the
 Kabbalists have of a traditional dogma which, while of secondary
@@ -571,13 +571,13 @@ history of religions. The Zohar mentions more than once the fall and the
 curses which the disobedience of our first parents brought down upon
 human nature. It teaches us that, in yielding to the serpent, Adam
 called down death upon himself, upon his posterity and upon entire
-nature. <span id="fr_416"></span>[40](#fn_416) Before his sin Adam was
+nature. <span id="fr_416"></span>[40](#fn_416.md) Before his sin Adam was
 more powerful and more beautiful than the angels. If he had a body at
 all, it was not of that vile matter of which our bodies are made; he
 shared none of our needs and none of our sensual desires. He was
 enlightened by a higher wisdom which the divine messengers of the
 highest rank were condemned to envy. <span
-id="fr_417"></span>[41](#fn_417)
+id="fr_417"></span>[41](#fn_417.md)
 
 <span id="page_207">p. 207</span>
 
@@ -595,7 +595,7 @@ They even go so far as to represent the angel of death as the greatest
 benefactor in the universe; "for," they say, "the Law was given to us as
 a protection against him; on his account the righteous will inherit
 those sublime treasures which are reserved for them in the life to
-come." <span id="fr_418"></span>[42](#fn_418) However, this old belief
+come." <span id="fr_418"></span>[42](#fn_418.md) However, this old belief
 in the fall of man, which is so positively taught in Genesis, is ably
 set forth in the Kabbalah as a natural fact, just as the creation of the
 soul has been explained previously. "Before Adam sinned he obeyed only
@@ -607,7 +607,7 @@ himself from the tree of life. Before they committed this sin, they
 heard the voice from on high, they were in possession of higher wisdom
 and retained their sublime and luminous nature. But after their sin,
 they did not understand even the voice from below." <span
-id="fr_419"></span>[43](#fn_419)
+id="fr_419"></span>[43](#fn_419.md)
 
 We fail to see how the opinion just expressed can be opposed when we are
 taught that Adam and Eve, before they were beguiled by the subtleness of
@@ -636,10 +636,10 @@ him a part of that higher light which shines in heaven. It is this light
 which serves him as garment when he is to enter into another world and
 appear before the Holy One, Whose name be praised. Thanks to this
 garment he is able to taste the bliss of the elect, and to look into the
-luminous mirror. <span id="fr_420"></span>[44](#fn_420) That it may be
+luminous mirror. <span id="fr_420"></span>[44](#fn_420.md) That it may be
 perfect in all respects, the soul has a different garment for each of
 the two worlds it is to inhabit, one for the earthly world, and one for
-the higher world." <span id="fr_421"></span>[45](#fn_421)
+the higher world." <span id="fr_421"></span>[45](#fn_421.md)
 
 On the other hand we know already that death, which is but sin itself,
 is not an universal curse, but solely a voluntary evil; it does not
@@ -659,7 +659,7 @@ fulfilling all the commandments of God. Therefore, the obligation to
 bring the souls out of this state, and to fulfil, as far as possible,
 the precept of the low: "Be fruitful and multiply." Therefore also, the
 necessity of metempsychosis, for one life period does not suffice for
-this work of rehabilitation. <span id="fr_422"></span>[46](#fn_422) Even
+this work of rehabilitation. <span id="fr_422"></span>[46](#fn_422.md) Even
 under another form, it is always the ennobling of our earthly existence
 and the satisfaction of life that is offered the soul as the only means
 of obtaining that perfection the need and the germ of which it carries
@@ -726,23 +726,23 @@ part of this work.
 
 ### Footnotes
 
-<span id="fn_376"></span>[189:1](rph17.htm#fr_376) I have emphasized
+<span id="fn_376"></span>[189:1](rph17.htm#fr_376.md) I have emphasized
 this word because it must be admitted that the doctrine of immortality
 is not indicated anywhere in the Pentateuch with any *definite* words.
 Besides, immortality belongs to the characteristic essence of the other
 side--the religion.--Jellinek.
 
-<span id="fn_377"></span>[189:2](rph17.htm#fr_377) But Ecclesiastes is a
+<span id="fn_377"></span>[189:2](rph17.htm#fr_377.md) But Ecclesiastes is a
 product of the semi-liberal and not of the Jewish spirit.--Jellinek
 
-<span id="fn_378"></span>[190:3](rph17.htm#fr_378) ‏צדיקין יושבין
+<span id="fn_378"></span>[190:3](rph17.htm#fr_378.md) ‏צדיקין יושבין
 ועטרותיהן בראשיהן ובהנין מזין השכינה‎--Babyl. Talmud, Berahot, 17a.
 
-<span id="fn_379"></span>[190:4](rph17.htm#fr_379) ‏מאין באת ממפה סרוחה
+<span id="fn_379"></span>[190:4](rph17.htm#fr_379.md) ‏מאין באת ממפה סרוחה
 ולאן אתה הולד למקים עפר רמה ותולעת ולפי מי עתה עתיד לתן דין וחשבין לפני
 מלד מלכי המלכים הקב״ה.‎--Pirke Aboth, ch. III, 1.
 
-<span id="fn_380"></span>[190:5](rph17.htm#fr_380) Again a bolstered-up
+<span id="fn_380"></span>[190:5](rph17.htm#fr_380.md) Again a bolstered-up
 judgment on the Talmud! The passage quoted here by the author is not
 from the Talmud, but was said by an individual, Akabya ben Mahalalel. In
 what connection did he say it? "Three things you shall hold before you,
@@ -750,97 +750,97 @@ and you will not be tempted to sin: Whence come you? etc.;" a thought
 that is bound to be expressed by any one who has as yet not overcome the
 religious point of view, whether Jew or Gentile.--Jellinek
 
-<span id="fn_381"></span>[190:6](rph17.htm#fr_381) ‏כיון דּנברא אדם
+<span id="fn_381"></span>[190:6](rph17.htm#fr_381.md) ‏כיון דּנברא אדם
 אתתקן כלא כל מה דלעילא ותתא וסלא אתכליל באדם איהו שלימותא דכלא.‎--Zohar,
 part III, fol. 48a.
 
-<span id="fn_382"></span>[190:7](rph17.htm#fr_382) ‏אדם דלעילא בתר
+<span id="fn_382"></span>[190:7](rph17.htm#fr_382.md) ‏אדם דלעילא בתר
 דאתנליא מלתא מגו סתימו עלאה קדמאה ברא אדם לתתא.‎--Part II. fol. 70b.
 
-<span id="fn_383"></span>[191:8](rph17.htm#fr_383) ‏כל אינון בריין דעלמא
+<span id="fn_383"></span>[191:8](rph17.htm#fr_383.md) ‏כל אינון בריין דעלמא
 זקפין דישא ומסתבלין בריוקנא עלאה דבר נש כדין כלהנ דחלין וזעין
 מקמיה.‎-Part I, fol. 191a, Sect. ‏וישב.‎
 
-<span id="fn_384"></span>[191:9](rph17.htm#fr_384) ‏וכד בר נש לא אזיל
+<span id="fn_384"></span>[191:9](rph17.htm#fr_384.md) ‏וכד בר נש לא אזיל
 כארהוי דאוריתא האי דיוקנא קדישה אתהלף ליה.‎--Ib. supr.
 
-<span id="fn_385"></span>[193:10](rph17.htm#fr_385) Part II, fol. 142a,
+<span id="fn_385"></span>[193:10](rph17.htm#fr_385.md) Part II, fol. 142a,
 Sect. ‏תרומה‎ (T’roomah).
 
-<span id="fn_386"></span>[193:11](rph17.htm#fr_386) I wish to note here
+<span id="fn_386"></span>[193:11](rph17.htm#fr_386.md) I wish to note here
 that "union" may be taken in the allegorical sense, and refer to the
-"king" and "queen," (see page [168](rph15.htm#page_168)); but may also
+"king" and "queen," (see page [168](rph15.htm#page_168).md); but may also
 be taken in the sense of concubitus.--Jellinek
 
-<span id="fn_387"></span>[194:12](rph17.htm#fr_387) Zohar, part III,
+<span id="fn_387"></span>[194:12](rph17.htm#fr_387.md) Zohar, part III,
 fol. 104a, b, Sect. ‏אמור‎ (Emor).
 
-<span id="fn_388"></span>[194:13](rph17.htm#fr_388) ‏ולא אשתאד ביה בהדיה
+<span id="fn_388"></span>[194:13](rph17.htm#fr_388.md) ‏ולא אשתאד ביה בהדיה
 גיפא בר הר דשימו דקוסמו דהיותא דליבא.‎--Zohar, part I Sect. ‏לךּ לך‎
 (Lech L’chah).
 
-<span id="fn_389"></span>[196:14](rph17.htm#fr_389) Deuter. XIV, 1.
+<span id="fn_389"></span>[196:14](rph17.htm#fr_389.md) Deuter. XIV, 1.
 
-<span id="fn_390"></span>[196:15](rph17.htm#fr_390) Zohar, part I, fol.
+<span id="fn_390"></span>[196:15](rph17.htm#fr_390.md) Zohar, part I, fol.
 245a, Sect. ‏ויחי‎. This entire passage has been translated into Latin
 by Joseph Voysin.
 
-<span id="fn_391"></span>[197:16](rph17.htm#fr_391) ‏כל דיוקנא דלא אשתכח
+<span id="fn_391"></span>[197:16](rph17.htm#fr_391.md) ‏כל דיוקנא דלא אשתכח
 ביה דבר ונוקבא לאו איהו דיוקנא עלאה כרקא הזי . . . אפילן אדם לא אקרי אלא
 דבר ונוקבא בתדא.‎--Part 1, fol. 55b, Sect. ‏בראשית‎ (Breshith).
 
-<span id="fn_392"></span>[197:17](rph17.htm#fr_392) ‏כל אינון רוחין
+<span id="fn_392"></span>[197:17](rph17.htm#fr_392.md) ‏כל אינון רוחין
 ונשמתין כלהו כלילן זבר ונוקבא דמתתכרין כחדא ובשעתא דנחתין מתפרשין דא מן
 דא ואחית להו בבני נשא. וכר מטא עידן זוונא דלהין קב״ה דידע אינון רוחין
 ונשמתין מחבר לון כקדמיתא וכד מתחגרן אתעבידו חד נופא חד נשמתא
 וכו׳.‎--Part I, fol. 91b.
 
-<span id="fn_393"></span>[197:18](rph17.htm#fr_393) Under the name
+<span id="fn_393"></span>[197:18](rph17.htm#fr_393.md) Under the name
 Androgynos (‏אנדרוגינוס‎), from the Greek ἀνδρόγινος, referring to man
 as well as to animal. The commentator Yitzhaki makes even use of this
 expression in a grammatical connection for a form which is generis
 masculi and feminini.--Jellinek
 
-<span id="fn_394"></span>[198:19](rph17.htm#fr_394) ‏בומנא דבעי הקב״ה
+<span id="fn_394"></span>[198:19](rph17.htm#fr_394.md) ‏בומנא דבעי הקב״ה
 למברי עלמא סליק בדעותה קמיה ועייר כל נשמתין דאינון זמינין למיהב בבני נשא
 ובו׳‎--Part II, fol. 96b, Sect. ‏משפטים‎ (Mishpatim).
 
-<span id="fn_395"></span>[199:20](rph17.htm#fr_395) ‏וכל מה דאולפין בהאי
+<span id="fn_395"></span>[199:20](rph17.htm#fr_395.md) ‏וכל מה דאולפין בהאי
 עלמא כלא ידעי דלא ייתון לעלמא.‎--Part III, fol. 61b, Sect. ‏ארי מית.‎
 (Ahre Moth).
 
-<span id="fn_396"></span>[199:21](rph17.htm#fr_396) ‏אי לא דהוה הכי דברא
+<span id="fn_396"></span>[199:21](rph17.htm#fr_396.md) ‏אי לא דהוה הכי דברא
 הקב״ה יצרא מבא ובישא דאיבון אוד והשד לא חיה זמות וחובה לאדם דבריאה . . .
 מן הדין הוה ליה למברייה כר בגין גאוריתא בנינ״ה אתבריאת וכו׳.‎--Part I,
 fol. 93a, b.
 
-<span id="fn_397"></span>[200:22](rph17.htm#fr_397) ‏כל אינון דלא
+<span id="fn_397"></span>[200:22](rph17.htm#fr_397.md) ‏כל אינון דלא
 משתכחין זכאין בהאי עלמא אפילו תמן מתרחקין מקמיח קב׳ת ועאלון בנוקנא
 דתהומא רכא ודחקין שעתא ונתין לעלמא . . . כר היו ער לא ייתון
 לעלמא.‎--Part III, fol. 61b. Sect. ‏אחרי מות‎ (Ahre Moth).
 
-<span id="fn_398"></span>[201:23](rph17.htm#fr_398) ‏כל נשמתין עאלין
+<span id="fn_398"></span>[201:23](rph17.htm#fr_398.md) ‏כל נשמתין עאלין
 בנלנולא ולא ידעון בני נשא ארהו דקב״ה.‎--Part II, fol. 99b, Sect.
 ‏משפטים‎ (Mishpatim).
 
-<span id="fn_399"></span>[201:24](rph17.htm#fr_399) Hieronymus, Epistol.
+<span id="fn_399"></span>[201:24](rph17.htm#fr_399.md) Hieronymus, Epistol.
 ad Demetriadem. See also Hutt. Origeniana.
 
-<span id="fn_400"></span>[201:25](rph17.htm#fr_400) Περὶ ἀρχῶν liv. I,
+<span id="fn_400"></span>[201:25](rph17.htm#fr_400.md) Περὶ ἀρχῶν liv. I,
 ch. VII. Οὐ κατὰ Πλάτωνος μετενωμάτωσιν, ἀλλὰ χατ᾽ ἄλλην ὑψηλοτέραν
 θεωρίαν,--Adv. Celsum, liv. III.
 
-<span id="fn_401"></span>[202:26](rph17.htm#fr_401) This form of
+<span id="fn_401"></span>[202:26](rph17.htm#fr_401.md) This form of
 transmigration occupied in particular the mind of Isaac Luria, as
 attested by his devoted pupil Ha-Yim Vital, in his "Aytz Ha-Yim,"
 Treatise on Metempsychosis (‏ספר נלנולים‎), ch. I. Moses Cordovero, more
 reserved and adhering closer to the Zohar, speaks very little of it.
 
-<span id="fn_402"></span>[202:27](rph17.htm#fr_402) ‏נפש אשתכחת נו קברא
+<span id="fn_402"></span>[202:27](rph17.htm#fr_402.md) ‏נפש אשתכחת נו קברא
 ומתנלנלת בהאי עלמא‎--Zohar, part I, fol. 83b, sect. ‏לכ לכ‎; part II,
 fol. 141b, sect. ‏תרומה‎.
 
-<span id="fn_403"></span>[202:28](rph17.htm#fr_403) I am taking here the
+<span id="fn_403"></span>[202:28](rph17.htm#fr_403.md) I am taking here the
 word "awe" not in the destructive sense of "dread" or "fear," but in the
 constructive sense of a "feeling inspired by something sublime, not
 necessarily partaking of the nature of fear or dread" (Century
@@ -870,13 +870,13 @@ all the worlds."
 למרחל ב״ג למארוה בנין דאיהו דב ושליט עקרא ושרשא דכל עלמין. . .
 ‎--Transl.
 
-<span id="fn_404"></span>[203:29](rph17.htm#fr_404) Part II, fol. 203b.
+<span id="fn_404"></span>[203:29](rph17.htm#fr_404.md) Part II, fol. 203b.
 This dual cognition is very often called the "luminous mirror"
 (‏אספקלריא נהרא‎--Aspaklaryeh N’haroh), and the "non-luminous mirror"
 (‏אסקפלריא דלא נהדא‎--Aspaklaryah d’lo N’haroh). They are at times also
 met with under these names in the Talmud.
 
-<span id="fn_405"></span>[203:30](rph17.htm#fr_405) It is worthy of note
+<span id="fn_405"></span>[203:30](rph17.htm#fr_405.md) It is worthy of note
 that the Talmud (Yebamoth, fol. 49a), when speaking of Moses, uses also
 the expressions "luminous mirror" and "non-luminous mirror" ‏אספקלריא
 המאורה, אספקלריא שאינה מאורה‎; yet, contrary to the Zohar, the Talmud
@@ -887,70 +887,70 @@ Sabbath (‏מוצאי שבת‎) a custom based upon the passage of the Zohar
 quoted by the author. Compare Orah Hay-im, sect. 298, par. 1, the note
 of R. Moses Isserles.--Jellinek
 
-<span id="fn_406"></span>[204:31](rph17.htm#fr_406) ‏אהבח שריא לבתר יראה
+<span id="fn_406"></span>[204:31](rph17.htm#fr_406.md) ‏אהבח שריא לבתר יראה
 . . . מאן דפלה מנו אהבה אתרבק באתר עלאה לעילא ואתדבק בקרושה דעלמא דאתי‎
 Part II, fol. 216a, sect. ‏ויקהל‎ (Va-yakhol).
 
-<span id="fn_407"></span>[204:32](rph17.htm#fr_407) ‏ה״ת כד סלקין נשמתין
+<span id="fn_407"></span>[204:32](rph17.htm#fr_407.md) ‏ה״ת כד סלקין נשמתין
 לאתר ברורא דהיי תמן מתהנן בזהרא דאספקלריא דנהרא.‎--Part I, fol. 66a,
 sect. ‏נח‎ (Noah).
 
-<span id="fn_408"></span>[205:33](rph17.htm#fr_408) ‏בנו טנרא חקיפא
+<span id="fn_408"></span>[205:33](rph17.htm#fr_408.md) ‏בנו טנרא חקיפא
 רקיעא טמירא אית היבלא חדא דאקרי תיכל אהבה‎--Part II, 97a, sect. ‏משפטים‎
 (Mishpatim).
 
-<span id="fn_409"></span>[205:34](rph17.htm#fr_409) This picture,
+<span id="fn_409"></span>[205:34](rph17.htm#fr_409.md) This picture,
 although not the idea, is represented by the Talmud, which says that
 Moses died by a kiss from God.--Jellinek
 
-<span id="fn_410"></span>[205:35](rph17.htm#fr_410) ‏והיא הנשיקה דהיא
+<span id="fn_410"></span>[205:35](rph17.htm#fr_410.md) ‏והיא הנשיקה דהיא
 דביקותא דנפש בעיקרא‎--Part I, fol. 168a, sect. ‏וישלח‎ (Va-yishlah).
 
-<span id="fn_411"></span>[205:36](rph17.htm#fr_411) Part II, Idra Rabba,
-ad finem. <span id="fr_413"></span>[\*](#fn_412)
+<span id="fn_411"></span>[205:36](rph17.htm#fr_411.md) Part II, Idra Rabba,
+ad finem. <span id="fr_413"></span>[\*](#fn_412.md)
 
-<span id="fn_412"></span>[205:\*](rph17.htm#fr_413) This reference must
+<span id="fn_412"></span>[205:\*](rph17.htm#fr_413.md) This reference must
 be incorrect, as the Idra Rabba is to be found in Part III, Section
 ‏נשא‎, where the quoted passage is looked for in vain, and it is the
 Idra Zutah which tells of the death of Simeon ben Yohai.--Jellinek
 
-<span id="fn_413"></span>[205:37](rph17.htm#fr_412) Considerationes de
+<span id="fn_413"></span>[205:37](rph17.htm#fr_412.md) Considerationes de
 Theologia Mystica, pt. II, ad fin.
 
-<span id="fn_414"></span>[206:38](rph17.htm#fr_414) We have spoken above
+<span id="fn_414"></span>[206:38](rph17.htm#fr_414.md) We have spoken above
 of the tabernacles of death, of degradation and of hell; here it refers
 to tabernacles of life.
 
-<span id="fn_415"></span>[206:39](rph17.htm#fr_415) ‏האי קדש הקדשים בד
+<span id="fn_415"></span>[206:39](rph17.htm#fr_415.md) ‏האי קדש הקדשים בד
 מתחכרין בלהו רוהי דא בדא ואשתלימו דא עם דא. מאן דזבי לאתדבקא במאריה כהאי
 נוונא ירית עלמין כלהו איהו נזיר והקב״ה עביד‎--Part I, fol. 4-8a, b,
 sect. Breshith (‏בראשית‎)
 
-<span id="fn_416"></span>[206:40](rph17.htm#fr_416) ‏בשעתא דעקים האי
+<span id="fn_416"></span>[206:40](rph17.htm#fr_416.md) ‏בשעתא דעקים האי
 חיויא לאדם אסתאב עלמא ואתלטייא ארעא בניניה ונרים מיתא לכל עלמא.‎ Part I,
 fol. 145b, sect. ‏תולדות‎.
 
-<span id="fn_417"></span>[206:41](rph17.htm#fr_417) ‏כיון דחמא אתחשד
+<span id="fn_417"></span>[206:41](rph17.htm#fr_417.md) ‏כיון דחמא אתחשד
 ואזעיר נרמיה ואמריךּ לגופא אחרא.‎--Part III, fol. 83b, sect. ‏קדושים‎
 (Kdoshim).
 
-<span id="fn_418"></span>[207:42](rph17.htm#fr_418) Part II, fol. 163a,
+<span id="fn_418"></span>[207:42](rph17.htm#fr_418.md) Part II, fol. 163a,
 b, sect. ‏וירא‎ (Va-yeeroh).
 
-<span id="fn_419"></span>[207:43](rph17.htm#fr_419) Part I, fol. 52a, b,
+<span id="fn_419"></span>[207:43](rph17.htm#fr_419.md) Part I, fol. 52a, b,
 sect. ‏בראשית‎ (Breshith).
 
-<span id="fn_420"></span>[208:44](rph17.htm#fr_420) That is to say, as
+<span id="fn_420"></span>[208:44](rph17.htm#fr_420.md) That is to say, as
 has been explained above, to know Truth face to face through intuition.
 
-<span id="fn_421"></span>[208:45](rph17.htm#fr_421) ‏אדם הראשון כד הוה
+<span id="fn_421"></span>[208:45](rph17.htm#fr_421.md) ‏אדם הראשון כד הוה
 בגותא דאדן היה מתלבש בלבושא וכו׳‎--Zohar, part II, fol. 229b, sect.
 ‏פקודי‎ (P’koodah).
 
-<span id="fn_422"></span>[209:46](rph17.htm#fr_422) See Aytz Hay-yim,
+<span id="fn_422"></span>[209:46](rph17.htm#fr_422.md) See Aytz Hay-yim,
 Treatise on Metempsychosis, liv. I, ch. 1.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter I. Systems Which Offer Some Resemblance to the Kabbalah.
-Relation of the Kabbalah to the Philosophy of Plato](rph18)
+Relation of the Kabbalah to the Philosophy of Plato](rph18.md)

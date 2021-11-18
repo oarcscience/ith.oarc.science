@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Americana](../index) 
-[Index](index)  [Previous](elpg04)  [Next](elpg06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Americana](../index.md) 
+[Index](index)  [Previous](elpg04)  [Next](elpg06.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ prohibits race propagation soon eliminates itself.
 
 ------------------------------------------------------------------------
 
-[Next: The Derivation of Family Names](elpg06)
+[Next: The Derivation of Family Names](elpg06.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft24)  [Next](zft26) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft24)  [Next](zft26.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ Thus shortens my story.
 
 ------------------------------------------------------------------------
 
-[Next: The Rabbit Huntress And Her Adventures](zft26)
+[Next: The Rabbit Huntress And Her Adventures](zft26.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm16)  [Next](bcm18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm16)  [Next](bcm18.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,7 +102,7 @@ the good Spirits which bear rule and are able to bind and constrain that
 Spirit which we intend to call. If we would further fortify our circle,
 we may add characters and pentacles agreeing to the work. So also, and
 within or without the circle, we may frame an angular figure, <span
-id="fr_35"></span>[1](#fn_35) inscribed with such numbers as are
+id="fr_35"></span>[1](#fn_35.md) inscribed with such numbers as are
 congruent among themselves to our work. Moreover, the operator is to be
 provided with lights, perfumes, unguents and medicines compounded
 according to the nature of the planet and Spirit, which do partly agree
@@ -229,7 +229,7 @@ beaks, on either side. They have also a face on each knee, of a shining
 black. Their motion is like that of the wind, and it is accompanied with
 a kind of earthquake. Their sign is white earth, "whiter than any snow."
 Their particular forms are a bearded king riding on a dragon; <span
-id="fr_36"></span>[1](#fn_36) an old bearded man; an old woman leaning
+id="fr_36"></span>[1](#fn_36.md) an old bearded man; an old woman leaning
 on a staff; a boy; a dragon; an owl; a black garment; a hook or sickle;
 a juniper-tree. How the three last manifestations are provided with the
 six visages is a perplexity which must be surrendered to occult
@@ -242,7 +242,7 @@ which ought to have connected them with Mars; their motion is that of
 flashing lightnings, and withal thunderous; their sign is the apparition
 of men about the circle who seem to be devoured by lions. Their
 particular forms are a king with drawn sword riding on a lion; <span
-id="fr_37"></span>[2](#fn_37) a mitred personage in a long vestment; a
+id="fr_37"></span>[2](#fn_37.md) a mitred personage in a long vestment; a
 maid crowned with laurel and adorned by flowers; a bull; a stag; a
 peacock; an azure garment; a sword; a box-tree.
 
@@ -255,7 +255,7 @@ like a griffin and they bellow like wild
  
 
 <span id="img_08500"></span> [![](tn/generic.jpg)  
-Click to view](img/08500.jpg)  
+Click to view](img/08500.jpg.md)  
 PLATE V: CHARACTERS OF EVIL SPIRITS
 
  
@@ -264,7 +264,7 @@ PLATE V: CHARACTERS OF EVIL SPIRITS
 
 bulls. They have the motion of burning fire, and their sign is thunder
 and lightning about the circle. Their particular forms are an armed king
-riding on a wolf; <span id="fr_38"></span>[1](#fn_38) an armed man; a
+riding on a wolf; <span id="fr_38"></span>[1](#fn_38.md) an armed man; a
 woman holding a buckler on her thigh; a she-goat; a horse; a stag; a red
 garment; wool; a cheestip. Wool of a choleric disposition is perhaps a
 Goëtic form of gun-cotton.
@@ -275,7 +275,7 @@ Browning's pomegranate. Their motion is that of lightning; their sign is
 to produce sweat in the operator, which might, however, be the normal
 property of all these stellar nondescripts of the world infernal. Their
 particular forms are a sceptred king riding on a lion; a crowned
-king; <span id="fr_39"></span>[2](#fn_39) a queen with a sceptre; a
+king; <span id="fr_39"></span>[2](#fn_39.md) a queen with a sceptre; a
 bird-not otherwise described, but anything probably except that of
 paradise; a lion; a cock; a golden garment; a sceptre; and lastly,
 something which Robert Turner wisely left untranslated--*caudatus*,
@@ -288,7 +288,7 @@ maids sporting about the circle and luring the Magician to join them.
 Their particular forms are a sceptred king riding on a camel; a naked
 maid; a she-goat; a camel--possibly the atrocious demon of Cazotte; a
 dove; a white or green garment; the herb savine. <span
-id="fr_40"></span>[3](#fn_40)
+id="fr_40"></span>[3](#fn_40.md)
 
 The Spirits of Mercury appear commonly with a body of middle stature,
 cold, liquid, moist, which sounds redundant, but
@@ -301,7 +301,7 @@ Mercurial spirits of the sorcerer apparently did. They are withal fair,
 affable in speech, of human shape and like unto armed knights. They are
 comparable to silver-coloured clouds in their motion. Their sign is that
 they cause horror and fear in the operator. Their special shapes are a
-king riding on a bear; <span id="fr_41"></span>[1](#fn_41) a comely
+king riding on a bear; <span id="fr_41"></span>[1](#fn_41.md) a comely
 youth; a woman holding a distaff-it is difficult to understand how such
 an apparition can be like an armed knight, an observation which, if it
 were worthwhile, might apply to the remaining modes of manifestation; a
@@ -330,33 +330,33 @@ two are one.
 
 ### Footnotes
 
-<span id="fn_35"></span>[80:1](bcm17.htm#fr_35) Compare the figures of
+<span id="fn_35"></span>[80:1](bcm17.htm#fr_35.md) Compare the figures of
 the *Lemegeton*, Part ii. c. 4.
 
-<span id="fn_36"></span>[84:1](bcm17.htm#fr_36) Alternatively, the image
+<span id="fn_36"></span>[84:1](bcm17.htm#fr_36.md) Alternatively, the image
 of a man, having the countenance of a hart and the feet of a camel, a
 scythe in his right and a dart in his left hand. This also rode upon a
 dragon.
 
-<span id="fn_37"></span>[84:2](bcm17.htm#fr_37) Also on an eagle or
+<span id="fn_37"></span>[84:2](bcm17.htm#fr_37.md) Also on an eagle or
 dragon. Another form was that of a naked man crowned, and yet another a
 Man having the head of a lion or ram and the feet of an eagle.
 
-<span id="fn_38"></span>[87:1](bcm17.htm#fr_38) Otherwise, on a lion,
+<span id="fn_38"></span>[87:1](bcm17.htm#fr_38.md) Otherwise, on a lion,
 and armed with a naked sword, while in his left hand is a man's head.
 
-<span id="fn_39"></span>[87:2](bcm17.htm#fr_39) This manifestation seems
+<span id="fn_39"></span>[87:2](bcm17.htm#fr_39.md) This manifestation seems
 to have been seated on a throne, with a raven in his breast and a globe
 under his feet.
 
-<span id="fn_40"></span>[87:3](bcm17.htm#fr_40) Other forms were a woman
+<span id="fn_40"></span>[87:3](bcm17.htm#fr_40.md) Other forms were a woman
 with the head of a bird and the feet of an eagle, who held a dart in her
 hand; also a little maid in long white garments, with a comb in her left
 hand and flowers in her right.
 
-<span id="fn_41"></span>[88:1](bcm17.htm#fr_41) There is another riding
+<span id="fn_41"></span>[88:1](bcm17.htm#fr_41.md) There is another riding
 on a peacock, with eagle's feet and crested head.
 
 ------------------------------------------------------------------------
 
-[Next: Section 6: The Heptameron](bcm18)
+[Next: Section 6: The Heptameron](bcm18.md)

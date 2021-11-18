@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](nsd01)  [Next](nsd03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](nsd01)  [Next](nsd03.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Notes on the Shoshonean Dialects of Southern California*, by A. L.
 Kroeber, \[1909\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ California," issued in Volume 4 of the
 <span id="page_236">p. 236</span>
 
 present series of publications in 1907. The orthography described in
-that paper has been used here. <span id="fr_0"></span>[1](#fn_0) The
+that paper has been used here. <span id="fr_0"></span>[1](#fn_0.md) The
 character ’ is however better described as a glottal stop, while
 aspirations are denoted ‘. by The Cahuilla, Agua Caliente, Serrano, and
 Gabrielino information here presented was obtained at Cabezon, Morongo,
@@ -45,7 +45,7 @@ therefore given in full.
 
 ### Footnotes
 
-<span id="fn_0"></span>[236:1](nsd02.htm#fr_0) In brief, x is spirant of
+<span id="fn_0"></span>[236:1](nsd02.htm#fr_0.md) In brief, x is spirant of
 k, g‘ of g; q, <span class="sc">g</span>, velar; ñ, nasal of k; c, sh;
 t•, palatal; <span class="it">v</span>, bilabial; ì, è, è, ù, long open;
 ī, ē, ō, ū, long close; <span class="it">ö</span>, <span
@@ -55,4 +55,4 @@ whispered; <sup>n</sup>, nasalization; ’, glottal stop; ‘, aspiration;
 
 ------------------------------------------------------------------------
 
-[Next: Cahuilla](nsd03)
+[Next: Cahuilla](nsd03.md)

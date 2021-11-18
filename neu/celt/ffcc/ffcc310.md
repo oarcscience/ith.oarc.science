@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc309)  [Next](ffcc411) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc309)  [Next](ffcc411.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -83,7 +83,7 @@ Finn's mother and a worm in one, said: "If that worm could get water
 enough it would come to something great." "I'll give it water enough,"
 said another of the followers, and at that he flung it into the lake
 (later called Finn Mac Coul's lake). <span
-id="fr_594"></span>[1](#fn_541) Immediately the worm turned into an
+id="fr_594"></span>[1](#fn_541.md) Immediately the worm turned into an
 enormous water-monster. This water-monster it was that St. Patrick had
 to fight and kill; and, as the struggle went on, the lake ran red with
 the blood of the water-monster, and so the lake came to be called Loch
@@ -121,7 +121,7 @@ of the cave there is the 'Prison Chapel', the practices, though
 naturally much modified and corrupted, retain their primitive outlines.
 Patrick in his time ordered the observance of the following ceremonies
 by all penitents before their entrance into the original cave on Saints'
-Island; <span id="fr_595"></span>[1](#fn_542) and for a long time they
+Island; <span id="fr_595"></span>[1](#fn_542.md) and for a long time they
 were strictly carried out:--'The visitor must first go to the bishop of
 the diocese, declare to him that he came of his own free will,
 
@@ -155,7 +155,7 @@ the mediaeval period, in various European vernaculars and in Latin,
 concerning St. Patrick's Purgatory; and all of it testifies to the
 widespread influence of the rites which already then as now attracted
 thousands of pilgrims from all parts of Christendom. In the poem of
-*Owayne Miles*, <span id="fr_596"></span>[1](#fn_543) which forms part
+*Owayne Miles*, <span id="fr_596"></span>[1](#fn_543.md) which forms part
 of this material, we find a poetical description of the purgatorial
 initiatory rites quite comparable to Virgil's account of Aeneas on his
 initiatory journey to Hades. The poem records how Sir Owain was locked
@@ -190,7 +190,7 @@ passed the fifteen men clad in white, who revealed what things the
 future had in store for him; and reaching the door safely, waited there
 till morning. Then he was taken out, congratulated, and invited to
 remain with the priests for fifteen days. <span
-id="fr_597"></span>[1](#fn_544)
+id="fr_597"></span>[1](#fn_544.md)
 
 Here we have clearly enough many of the essential features of the
 underworld: there is the mystic bridge which when crossed guarantees the
@@ -205,7 +205,7 @@ world. The eating of angel food by Owain has an effect quite like that
 of eating food in Fairyland; but Owain, by Christian influence, is sent
 back on earth to die 'that death which the King of Heaven and Earth hath
 ordained,' as Patrick said of the prince whom he saved from the
-*Sidhe*-folk. <span id="fr_598"></span>[1](#fn_545)
+*Sidhe*-folk. <span id="fr_598"></span>[1](#fn_545.md)
 
 A curious story, in which King Arthur himself is made to visit St.
 Patrick's Purgatory, published during the sixteenth century by a learned
@@ -220,7 +220,7 @@ Merlin, that Gawain, his master of horse, called Arthur back, and
 dissuaded him from examining further the horrid cave in which was heard
 the sound of falling water which emitted a sulphureous smell, and of
 voices lamenting as it were for the loss of their bodies'. <span
-id="fr_599"></span>[2](#fn_546)
+id="fr_599"></span>[2](#fn_546.md)
 
 ### PURGATORIAL AND INITIATORY RITES
 
@@ -240,11 +240,11 @@ night. Among the Greeks, neophytes seeking initiation, after similar
 preparation, entered the cave-shrine recently discovered at Eleusis, the
 site of the Great Mysteries, and therein, in the *sanctum sanctorum*,
 entered into communion with the god and goddess of the lower
-world; <span id="fr_600"></span>[1](#fn_547) whereas in the original
+world; <span id="fr_600"></span>[1](#fn_547.md) whereas in the original
 Purgatory Sir Owain and Arthur are described as having come into contact
 with the Hades-world and its beings. In the state cult at Acharaca,
 Greece, there was another cavern-temple in which initiations were
-conducted. <span id="fr_601"></span>[1](#fn_547) The oracle of Zeus
+conducted. <span id="fr_601"></span>[1](#fn_547.md) The oracle of Zeus
 Trophonius was situated in a subterranean chamber, into which, after
 various preparatory rites, including the invocation of Agamedes,
 neophytes descended to receive in a very mysterious manner the divine
@@ -252,7 +252,7 @@ revelations which were afterwards interpreted for them. So awe-inspiring
 were the descent into the cave and the sights therein seen that it was
 popularly believed that no one who visited the cave ever smiled again;
 and persons of grave and serious aspect were proverbially said to have
-been in the cave of Trophonius. <span id="fr_602"></span>[2](#fn_548)
+been in the cave of Trophonius. <span id="fr_602"></span>[2](#fn_548.md)
 
 The worship of Mithras, the Persian god of created light and all earthly
 wisdom, who in time became identified with the sun, was conducted in
@@ -265,10 +265,10 @@ body, that the soul might be purged
 
 <span id="page_449">p. 449</span>
 
-by many trials. <span id="fr_603"></span>[1](#fn_549) In Mexico the
+by many trials. <span id="fr_603"></span>[1](#fn_549.md) In Mexico the
 cavern of Chalchatongo led to the plains of paradise, evidently through
 initiations; and Mictlan, a subterranean temple, similarly led to the
-Aztec land of the dead. <span id="fr_604"></span>[2](#fn_550)
+Aztec land of the dead. <span id="fr_604"></span>[2](#fn_550.md)
 
 Among the most widespread and characteristic features of contemporary
 primitive races we find highly developed mysteries (puberty
@@ -288,7 +288,7 @@ Ancient Mysteries and St. Patrick's Purgatory on Saints' Island);
 sometimes in a structure specially prepared to exclude the light; or
 else the neophytes are symbolically or literally buried in an
 underground place to be resurrected greatly purified and
-strengthened. <span id="fr_605"></span>[3](#fn_551) And the mystic
+strengthened. <span id="fr_605"></span>[3](#fn_551.md) And the mystic
 purification at the sea-shore and spiritual re-birth sought in the cave
 at Eleusis by the highly cultured Athenians and their fellow Greeks, or
 among other cultured and uncultured ancient and modern peoples through
@@ -296,7 +296,7 @@ some corresponding initiation ceremony, find their parallel in the
 purification and spiritual re-birth still sought in the Christian
 Purgatory, now 'Prison Chapel', and in the lake waters, amid the
 solitude of sacred Lough Derg, Ireland, by thousands of earnest pilgrims
-from all parts of the world. <span id="fr_606"></span>[4](#fn_552)
+from all parts of the world. <span id="fr_606"></span>[4](#fn_552.md)
 
 <span id="page_450">p. 450</span>
 
@@ -313,18 +313,18 @@ on the Festival of the Assumption of the Blessed Virgin, the 15th of
 August, a date which apparently coincides sufficiently to represent, as
 it probably does, the ancient August Lugnasadh, the 1st of August, a day
 sacred to the sun-god Lug, as the name indicates. <span
-id="fr_607"></span>[1](#fn_553)
+id="fr_607"></span>[1](#fn_553.md)
 
 If we are to class together the original Purgatory, New Grange,
 Gavrinis, and other Celtic underground places, as centres of the highest
 religious practices in the past, we should expect to discover that many
 similar structures or natural caverns existed in pagan Ireland, as
 indeed we find they did. Thus in different Irish manuscripts various
-caves are mentioned, <span id="fr_608"></span>[2](#fn_554) and most of
+caves are mentioned, <span id="fr_608"></span>[2](#fn_554.md) and most of
 them, so far as they can be localized, are traditionally places of
 supernatural marvels, and often (as in the case of the last one
 enumerated, the Cave of Cruachan) are directly related to the
-under-world. <span id="fr_609"></span>[3](#fn_555) Another of these
+under-world. <span id="fr_609"></span>[3](#fn_555.md) Another of these
 caves is described as being under a church, which circumstance suggests
 that the church was dedicated over an underground place originally
 sacred to pagan worship, and, as we may safely assume, to pagan
@@ -334,7 +334,7 @@ The curious custom among early Irish Christians, of retiring for a time
 to a cave, seems to show the lasting into historical times of the pagan
 cave-ritual now surviving at Lough Derg only. The custom seems to have
 been common among the saints of Britain and of Scotland; <span
-id="fr_610"></span>[4](#fn_556) and in Stokes's *Tripartite Life of
+id="fr_610"></span>[4](#fn_556.md) and in Stokes's *Tripartite Life of
 Patrick* (p. 242) there is a very significant reference to it. In the
 *Mabinogion* story of *Kulhwch and Olwen* there seems to be another
 traditional echo of the times when caves were used for religious rites
@@ -350,7 +350,7 @@ might be greatly multiplied.
 ### PAGAN ORIGIN OF PURGATORIAL DOCTRINE
 
 The metrical romance of *Orfeo and Herodys* in Ritson's *Collection of
-Metrical Romances* <span id="fr_611"></span>[1](#fn_557) illustrates how
+Metrical Romances* <span id="fr_611"></span>[1](#fn_557.md) illustrates how
 in Britain (and Britain--even England--is more Celtic than Saxon) the
 Grecian Hell or Hades was looked on as identical with the Celtic
 Fairyland. This is quite unusual; and for us is highly significant. It
@@ -364,7 +364,7 @@ philosophical doctrine differs among the three peoples, and not
 otherwise. And, as Wright has shown, the origin of Purgatory in the
 Roman Church is very obscure. As to the location of Purgatory, Roman
 theology confesses it has nothing certain to say. <span
-id="fr_612"></span>[2](#fn_558) The natural conclusion, as we suggested
+id="fr_612"></span>[2](#fn_558.md) The natural conclusion, as we suggested
 in our study of Re-birth, would seem to be that the Irish doctrine of
 the Otherworld in all its aspects, but especially as the underground
 world of the *Sidhe* or fairy-folk, was combined with the pagan
@@ -392,7 +392,7 @@ that it was St. Odilon, Abbot of Cluny, who instituted in 998 in all his
 congregations the Fête in Commemoration of the Dead, and fixed its
 anniversary on the first of November; and that this fête was quickly
 adopted by all the churches of the East. <span
-id="fr_613"></span>[1](#fn_559) To-day in the Roman Church both the
+id="fr_613"></span>[1](#fn_559.md) To-day in the Roman Church both the
 first and second of November are holy days devoted to those who have
 passed out of this life. The first day, the Fête of All the Saints (*La
 Toussaint*), is said to have originated thus: the Roman
@@ -400,7 +400,7 @@ Pantheon--Pantheon meaning the residence of all the gods--was dedicated
 to Jupiter the Avenger, and when Christianity triumphed the pagan images
 were overthrown, and there was thereupon originally established, in
 place of the cult of all the gods, the Fête of all the Saints. <span
-id="fr_614"></span>[2](#fn_560) Why *La Toussaint* should have become a
+id="fr_614"></span>[2](#fn_560.md) Why *La Toussaint* should have become a
 feast of the dead would be difficult to say unless we admit the ancient
 Celtic feast of the dead as having amalgamated with it. This we believe
 is what took place; for if the Fête in Commemoration of the Dead was, as
@@ -415,7 +415,7 @@ Likewise prayers and masses for the dead, which annually
 
 receive emphasis on the first two days of November, seem to have had
 their origin in pre-Christian cults. According to Mosheim, in his
-*Histoire ecclésiastique*, <span id="fr_615"></span>[1](#fn_561) the
+*Histoire ecclésiastique*, <span id="fr_615"></span>[1](#fn_561.md) the
 usage of celebrating the Sacrament at the tombs of martyrs and at
 funerals was introduced during the fourth century; and from this; usage
 the masses for the saints and for the dead originated in the eighth
@@ -428,7 +428,7 @@ fairies. Then, very gradually, in the course of four centuries, the
 character of the Christian cults and feasts of the saints and of the
 dead seems to have been determined. The following citation will serve to
 illustrate the nature of Irish Christian rites in honour of the
-dead:--In the *Lebar Brecc* <span id="fr_616"></span>[2](#fn_562) we
+dead:--In the *Lebar Brecc* <span id="fr_616"></span>[2](#fn_562.md) we
 read: 'There is nothing which one does on behalf of the soul of him who
 has died that doth not help it, both prayer on knees, and abstinence,
 and singing requiems, and frequent blessings. Sons are bound to do
@@ -438,28 +438,28 @@ hell the soul of Brandub son of Echaid.'
 
 According to St. Augustine, the souls of the dead are solaced by the
 piety of their living friends when this expresses itself through
-sacrifice made by the Church; <span id="fr_617"></span>[3](#fn_563) St.
+sacrifice made by the Church; <span id="fr_617"></span>[3](#fn_563.md) St.
 Ephrem commanded his friends not to forget him after death, but to give
 proofs of their charity in offering for the repose of his soul alms,
 prayers, and sacrifices, especially on the thirtieth day; <span
-id="fr_618"></span>[3](#fn_563) Constantine the Great wished to be
+id="fr_618"></span>[3](#fn_563.md) Constantine the Great wished to be
 interred under the Church of the Apostles in order that his soul might
 be benefited by the prayers offered to the saints, by the mystic
 sacrifice, and by the holy communion. <span
-id="fr_619"></span>[3](#fn_563) Such prayers and
+id="fr_619"></span>[3](#fn_563.md) Such prayers and
 
 <span id="page_455">p. 455</span>
 
 sacrifices for the dead were offered by the Church sometimes during
 thirty and even forty days, those offered on the third, the seventh, and
 the thirtieth days being the most solemn. <span
-id="fr_620"></span>[1](#fn_564) The history of the venerable Bede, the
+id="fr_620"></span>[1](#fn_564.md) The history of the venerable Bede, the
 letters of St. Boniface, and of St. Lul prove that even in the ancient
 Anglican church prayers were offered up for the souls of the dead; <span
-id="fr_621"></span>[2](#fn_565) and a council of bishops held at
+id="fr_621"></span>[2](#fn_565.md) and a council of bishops held at
 Canterbury in 816 ordered that immediately after the death of a bishop
 there shall be made for him prayers and alms. <span
-id="fr_622"></span>[2](#fn_565) At Oxford, in 1437, All Souls College
+id="fr_622"></span>[2](#fn_565.md) At Oxford, in 1437, All Souls College
 was founded, chiefly as a place in which to offer prayers on behalf of
 the souls of all those who were killed in the French wars of the
 fifteenth century.
@@ -482,7 +482,7 @@ heirs of all the ages'.
 
 ### Footnotes
 
-<span id="fn_541"></span>[443:1](ffcc310.htm#fr_594) J. G. Campbell
+<span id="fn_541"></span>[443:1](ffcc310.htm#fr_594.md) J. G. Campbell
 collected in Scotland two versions of a parallel episode, but concerning
 Loch Lurgan. In both versions the flight begins by Fionn's foster-mother
 carrying Fionn, and in both, when she is tired, Fionn carries her and
@@ -490,20 +490,20 @@ runs so fast that when the loch is reached only her shanks are left*.*
 These he throws out on the loch, and hence its name Loch Lurgan, 'Lake
 of the Shanks.' (*The Fians*, pp. 18-19).
 
-<span id="fn_542"></span>[444:1](ffcc310.htm#fr_595) During the
+<span id="fn_542"></span>[444:1](ffcc310.htm#fr_595.md) During the
 seventeenth century, the English government, acting through its Dublin
 representatives, ordered this original Cave or Purgatory to be
 demolished; and with the temporary suppression of the ceremonies which
 resulted and the consequent abandonment of the island, the Cave, which
 may have been filled up, has been lost.
 
-<span id="fn_543"></span>[445:1](ffcc310.htm#fr_596) Thomas Wright, *St.
+<span id="fn_543"></span>[445:1](ffcc310.htm#fr_596.md) Thomas Wright, *St.
 Patrick's Purgatory* (London, 1844), pp. 67-8.
 
-<span id="fn_544"></span>[446:1](ffcc310.htm#fr_597) Wright, op. cit.,
+<span id="fn_544"></span>[446:1](ffcc310.htm#fr_597.md) Wright, op. cit.,
 p. 69.
 
-<span id="fn_545"></span>[447:1](ffcc310.htm#fr_598) In the face of all
+<span id="fn_545"></span>[447:1](ffcc310.htm#fr_598.md) In the face of all
 the legends told of pilgrims who have been in Patrick's Purgatory, it
 seems that either through religious frenzy like that produced in
 Protestant revivals, or else through some strange influence due to the
@@ -521,26 +521,26 @@ for they were expected while entranced to leave their physical bodies
 and in reality enter the purgatorial state, as we shall presently have
 occasion to point out.
 
-<span id="fn_546"></span>[447:2](ffcc310.htm#fr_599) Wright, St.
+<span id="fn_546"></span>[447:2](ffcc310.htm#fr_599.md) Wright, St.
 *Patrick's Purgatory*, pp. 62 ff.
 
-<span id="fn_547"></span>[448:1](ffcc310.htm#fr_601) L. R. Farneil,
+<span id="fn_547"></span>[448:1](ffcc310.htm#fr_601.md) L. R. Farneil,
 *Cults of the Greek States* (Oxford, 1907), iii. 126--98, &c.
 
-<span id="fn_548"></span>[448:2](ffcc310.htm#fr_602) Cf. Athenaeus, 614
+<span id="fn_548"></span>[448:2](ffcc310.htm#fr_602.md) Cf. Athenaeus, 614
 A; Aristoph., *Nubes*, 508; and Harper's *Dict. Class. Lit, and Antiq.*,
 p. 1615.
 
-<span id="fn_549"></span>[449:1](ffcc310.htm#fr_603) Cf. O. Seyfert,
+<span id="fn_549"></span>[449:1](ffcc310.htm#fr_603.md) Cf. O. Seyfert,
 *Dict. Class. Antiquities,* trans. (London, 1895), *Mithras*.
 
-<span id="fn_550"></span>[449:2](ffcc310.htm#fr_604) Brasseur,
+<span id="fn_550"></span>[449:2](ffcc310.htm#fr_604.md) Brasseur,
 *Mexique*, iii. 20, &c.; Tylor, *P. C.*,<sup>4</sup> ii. 45.
 
-<span id="fn_551"></span>[449:3](ffcc310.htm#fr_605) Cf. Hutton Webster,
+<span id="fn_551"></span>[449:3](ffcc310.htm#fr_605.md) Cf. Hutton Webster,
 *Primitive Secret Societies* (New York, 1908), p. 38, and *passim*.
 
-<span id="fn_552"></span>[449:4](ffcc310.htm#fr_606) In the ancient
+<span id="fn_552"></span>[449:4](ffcc310.htm#fr_606.md) In the ancient
 Greek world the annual celebration of the Mysteries <span
 id="page_250">p. 250</span> drew great concourses of people from all
 regions round the Mediterranean; to the modern Breton world the chief
@@ -587,13 +587,13 @@ church of St. Anne d'Auray by the bishops and high ecclesiastics of
 Brittany. (For these Classical parallels compare Farnell, *Cults of the
 Greek States*, iii, *passim*.)
 
-<span id="fn_553"></span>[451:1](ffcc310.htm#fr_607) Cf. Rhy^s, *Hib.
+<span id="fn_553"></span>[451:1](ffcc310.htm#fr_607.md) Cf. Rhy^s, *Hib.
 Lect.*, p. 411, &c.
 
-<span id="fn_554"></span>[451:2](ffcc310.htm#fr_608) O'Curry,
+<span id="fn_554"></span>[451:2](ffcc310.htm#fr_608.md) O'Curry,
 *Lectures*, pp. 586-7.
 
-<span id="fn_555"></span>[451:3](ffcc310.htm#fr_609) There is this very
+<span id="fn_555"></span>[451:3](ffcc310.htm#fr_609.md) There is this very
 significant legend on record about the Cave of Cruachan:--'Magh Mucrime,
 now, pigs of magic came out of the cave of Cruachain, and that is
 Ireland's gate of Hell.' And 'Out of it, also, came the Red Birds that
@@ -602,16 +602,16 @@ Ulstermen slew them with their slings.' (*B. of Leinster*, p. 288 a;
 Stokes's trans., in *Rev. Celt.*, xiii. 449; cf. *Silva Gadelica*, ii.
 353)
 
-<span id="fn_556"></span>[451:4](ffcc310.htm#fr_610) Forbes, *Lives of
+<span id="fn_556"></span>[451:4](ffcc310.htm#fr_610.md) Forbes, *Lives of
 S. Ninian and S. Kentigern* (Edinburgh, 1874), pp. 285, 345.
 
-<span id="fn_557"></span>[452:1](ffcc310.htm#fr_611) Cf. Wright, *Si.
+<span id="fn_557"></span>[452:1](ffcc310.htm#fr_611.md) Cf. Wright, *Si.
 Patrick's Purgatory*, pp. 81-2.
 
-<span id="fn_558"></span>[452:2](ffcc310.htm#fr_612) Cf. Godescard,
+<span id="fn_558"></span>[452:2](ffcc310.htm#fr_612.md) Cf. Godescard,
 *Vies des Saints*, xi. 24; also Bergier, *Dict. de Théol.*, v. 405.
 
-<span id="fn_559"></span>[453:1](ffcc310.htm#fr_613) Cf. Godescard,
+<span id="fn_559"></span>[453:1](ffcc310.htm#fr_613.md) Cf. Godescard,
 *Vies des Saints*, xi. 32. But there is some disagreement in this matter
 of dates: Petrus Damianus, *Vita S. Odilonis*, in the Bollandist *Acta
 Sanctorum*, January 1, records a legend of how the Abbot Odion decreed
@@ -619,27 +619,27 @@ that November *2,* the day after All Saints' Day, should be set apart
 for services for the departed (cf. Tylor, *Prim. Cult.*,<sup>4</sup> ii.
 37 n.).
 
-<span id="fn_560"></span>[453:2](ffcc310.htm#fr_614) Cf. Godescard,
+<span id="fn_560"></span>[453:2](ffcc310.htm#fr_614.md) Cf. Godescard,
 *Vies des Saints*, xi. I n.
 
-<span id="fn_561"></span>[454:1](ffcc310.htm#fr_615) Part II, sec. 4; c.
+<span id="fn_561"></span>[454:1](ffcc310.htm#fr_615.md) Part II, sec. 4; c.
 4, par. 8; cf. Bergier, *Dict. de Théol.*, iv. 322.
 
-<span id="fn_562"></span>[454:2](ffcc310.htm#fr_616) P. II<sup>a</sup>,
+<span id="fn_562"></span>[454:2](ffcc310.htm#fr_616.md) P. II<sup>a</sup>,
 I. 19; in Stokes's *Tripartite Life*, Intro., p. 194.
 
-<span id="fn_563"></span>[454:3](ffcc310.htm#fr_619) *Enchiridion*,
+<span id="fn_563"></span>[454:3](ffcc310.htm#fr_619.md) *Enchiridion*,
 chap. cx; *Testament of St. Ephrem* (ed. Vatican), ii. 230, 236; Euseb.,
 *de Vita Constant.*, liv. iv, c. lx. 556, c. lxx. 562*;* cf. Godescard,
 *Vies des Saints*, xi. 30-1.
 
-<span id="fn_564"></span>[455:1](ffcc310.htm#fr_620) St. Ambroise, *de
+<span id="fn_564"></span>[455:1](ffcc310.htm#fr_620.md) St. Ambroise, *de
 Obitu Theodosii*, ii. 1197; *cf.* Godescard, *Vies des Saints*, xi. 31
 n.
 
-<span id="fn_565"></span>[455:2](ffcc310.htm#fr_622) Cf. Godescard,
+<span id="fn_565"></span>[455:2](ffcc310.htm#fr_622.md) Cf. Godescard,
 *Vies des Saints*, xi. 31-2.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Science and Fairies](ffcc411)
+[Next: Chapter XI. Science and Fairies](ffcc411.md)

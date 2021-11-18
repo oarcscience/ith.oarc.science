@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tsm06)  [Next](tsm08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tsm06)  [Next](tsm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ unarmed. Goll was made angry at once. He seized a spear and flung it at
 the stranger. It did not touch his body, but it split the ridged shield
 right through the middle. Then Oscar raised his spear and flung it from
 his left hand. It struck the warrior's steed and slew it. This was
-accounted a mighty deed, and Ossian, <span id="fr_7"></span>[1](#fn_7)
+accounted a mighty deed, and Ossian, <span id="fr_7"></span>[1](#fn_7.md)
 the bard of the Feans, and father of Oscar, celebrated it in a song
 which is still sung in Scotland.
 
@@ -512,7 +512,7 @@ which he had found, and bade the princess to drink.
 
 [![THE CUP OF HEALING&lt;BR&gt; &lt;I&gt;From a drawing by John Duncan,
 A.R.S.A&lt;/I&gt;.](tn/07200.jpg)  
-Click to enlarge](img/07200.jpg)  
+Click to enlarge](img/07200.jpg.md)  
 THE CUP OF HEALING  
 *From a drawing by John Duncan, A.R.S.A*.  
 
@@ -591,9 +591,9 @@ received from the King of Wonder-Plain.
 
 ### Footnotes
 
-<span id="fn_7"></span>[61:1](tsm07.htm#fr_7) Pronounced Osh'yan in
+<span id="fn_7"></span>[61:1](tsm07.htm#fr_7.md) Pronounced Osh'yan in
 Scottish Gaelic.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Nimble Men, Blue Men, and Green Ladies](tsm08)
+[Next: Chapter V. Nimble Men, Blue Men, and Green Ladies](tsm08.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg005) [Next](aflg01)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg005) [Next](aflg01.md)
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ BrA
 
 BrB
 
-― [Legends and myths](../lmbg/index). London (n. d.).
+― [Legends and myths](../lmbg/index). London (n. d..md).
 
 Bri
 
@@ -507,4 +507,4 @@ DE</span>. See C<span class="small">HANCA</span>.
 
 ------------------------------------------------------------------------
 
-[Next](aflg01)
+[Next](aflg01.md)

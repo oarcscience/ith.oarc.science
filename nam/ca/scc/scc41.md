@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc40)  [Next](scc42) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc40)  [Next](scc42.md) 
 
 ------------------------------------------------------------------------
 
@@ -334,4 +334,4 @@ prairie falcon stayed there.
 
 ------------------------------------------------------------------------
 
-[Next: 40.--Yauelmani Yokuts. The Prairie Falcon Loses.](scc42)
+[Next: 40.--Yauelmani Yokuts. The Prairie Falcon Loses.](scc42.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg33)  [Next](btg35) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg33)  [Next](btg35.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ give it no unbridled license."
 
 ------------------------------------------------------------------------
 
-[Next: Visakha And Her Gifts](btg35)
+[Next: Visakha And Her Gifts](btg35.md)

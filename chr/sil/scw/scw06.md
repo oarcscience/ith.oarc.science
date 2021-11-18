@@ -1,7 +1,7 @@
 <span
-class="small">[Sacred-Texts](../../../index) [Christianity](../../index) [Angelus
-Silesius](../index)  
-[Index](index) [Previous](scw05) [Next](scw07)</span>
+class="small">[Sacred-Texts](../../../index) [Christianity](../../index.md) [Angelus
+Silesius](../index.md)  
+[Index](index) [Previous](scw05) [Next](scw07.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -561,4 +561,4 @@ Thy loss is then all happiness.<br />
 
 ------------------------------------------------------------------------
 
-[Next](scw07)
+[Next](scw07.md)

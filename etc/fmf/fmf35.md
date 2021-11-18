@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf34)  [Next](fmf36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf34)  [Next](fmf36.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ MORAL: There are at least two Kinds of Education.
 
 ------------------------------------------------------------------------
 
-[Next: The Fable of The Third and Last Call](fmf36)
+[Next: The Fable of The Third and Last Call](fmf36.md)

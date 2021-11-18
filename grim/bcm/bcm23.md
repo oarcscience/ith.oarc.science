@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm22)  [Next](bcm24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm22)  [Next](bcm24.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ view, though he speaks with some vagueness when
 he says that the sorcery of this Grimoire is more dangerous for weak
 experimentalists than for the enemies of the sorcerer. Éliphas Lévi
 observes that the work is not without importance for the students of
-occult science. <span id="fr_53"></span>[1](#fn_53) At first sight it
+occult science. <span id="fr_53"></span>[1](#fn_53.md) At first sight it
 seems to be nothing but a tissue of repulsive absurdities, but for those
 who are initiated in the signs and secrets of the Kabalah, it is said
 that it becomes a veritable monument of human perversity. There was
@@ -36,7 +36,7 @@ which depends upon the significance of Kabalistic words or signs, for it
 is notorious that with the French occultist they meant many things
 according to his humour, and that he did not know his subject. But
 Éliphas Lévi was not contented with the general impeachment; in a later
-work <span id="fr_54"></span>[2](#fn_54) he elaborated a more particular
+work <span id="fr_54"></span>[2](#fn_54.md) he elaborated a more particular
 charge. In common with the *Key of Solomon*, and all the Grimoires, the
 work of Honorius prescribes the sacrifice of a virgin kid, with the
 object of ensuring the possession of a virgin parchment by the operator.
@@ -58,7 +58,7 @@ first-hand acquaintance with the work under notice. Others who have
 mentioned it within recent years have been content to follow the French
 authority without examination. Thus it is that I find Mr. J. H. Slater,
 in a paper read before the Bibliographical Society, and printed in its
-Transactions, <span id="fr_55"></span>[1](#fn_55) describing this
+Transactions, <span id="fr_55"></span>[1](#fn_55.md) describing this
 Grimoire as an advocate of murder and all kinds of crimes. Furthermore,
 he confuses it throughout with the *Grand Grimoire*.
 
@@ -86,7 +86,7 @@ was forged much earlier than the end of the sixteenth century, being,
 roughly, nine hundred years after the death of its supposed author. The
 canonical Pope, it must be confessed, was a voluminous writer; his
 sermons and his vast correspondence have appeared in two large volumes
-at Paris, <span id="fr_56"></span>[1](#fn_56) under auspices which were
+at Paris, <span id="fr_56"></span>[1](#fn_56.md) under auspices which were
 unlikely to admit even a contemptuous reference to the forged
 constitution. There is none, accordingly, which is to be regretted from
 the standpoint of bibliography. But the editor has further excluded with
@@ -162,7 +162,7 @@ commanding Spirits, which hath been reserved unto us alone, and our
 Possessors did alone enjoy; wishing, I repeat, by Divine inspiration, to
 share it with our venerable Brethren and dear sons in Jesus Christ, and
 fearing lest in the exorcism of the Possessed, <span
-id="fr_57"></span>[1](#fn_57)
+id="fr_57"></span>[1](#fn_57.md)
 
 they might otherwise be appalled at the frightful figures of those
 rebellious angels who in sin were cast into the abyss, lest also they
@@ -182,13 +182,13 @@ inviolably, lest by some negligence unworthy of their character they
 should draw down on themselves the wrath of the Most High.
 
 The *Grimorium Verum* has once been reprinted in the French
-language. <span id="fr_58"></span>[1](#fn_58) Of the Italian version
+language. <span id="fr_58"></span>[1](#fn_58.md) Of the Italian version
 there have been two modern editions, both poorly produced. <span
-id="fr_59"></span>[2](#fn_59) The book of *True Black Magic* is known
+id="fr_59"></span>[2](#fn_59.md) The book of *True Black Magic* is known
 only by the edition of 1750. The *Grand Grimoire* reappeared at Nismes
 in 1823 and is, moreover, in all respects identical with the work
 entitled the *Red Dragon*, of which there are several examples. <span
-id="fr_60"></span>[3](#fn_60) The *Grimoire of Honorius* is exceedingly
+id="fr_60"></span>[3](#fn_60.md) The *Grimoire of Honorius* is exceedingly
 rare in the original, but is better known by the reprints of 1660 and
 1670, though these also are scarce. There is, finally, an edition dated
 1760, and this even commands a high price among collectors. It remains
@@ -204,35 +204,35 @@ atmosphere of its prototype.
 
 ### Footnotes
 
-<span id="fn_53"></span>[104:1](bcm23.htm#fr_53) *Histoire de la Magie*,
+<span id="fn_53"></span>[104:1](bcm23.htm#fr_53.md) *Histoire de la Magie*,
 p. 307.
 
-<span id="fn_54"></span>[104:2](bcm23.htm#fr_54) La Clef des Grands
+<span id="fn_54"></span>[104:2](bcm23.htm#fr_54.md) La Clef des Grands
 Mystères. See also "Thaumaturgical Experiences of Éliphas Lévi." in *The
 Mysteries of Magic*, by E. A. Waite, second edition.
 
-<span id="fn_55"></span>[105:1](bcm23.htm#fr_55) Some Books on Magic."
+<span id="fn_55"></span>[105:1](bcm23.htm#fr_55.md) Some Books on Magic."
 *Transactions of the Bibliographical Society*, Vol. iii. Part 2.
 
-<span id="fn_56"></span>[106:1](bcm23.htm#fr_56) Horoy's *Bibliothecha
+<span id="fn_56"></span>[106:1](bcm23.htm#fr_56.md) Horoy's *Bibliothecha
 Patristica Honorii III. Opera Omnia*. Paris, 1879, 8vo.
 
-<span id="fn_57"></span>[108:1](bcm23.htm#fr_57) This is an evasion of
+<span id="fn_57"></span>[108:1](bcm23.htm#fr_57.md) This is an evasion of
 the Grimoire, which is no wise concerned with the offices of exorcism,
 but with the conjuration of evil spirits for the usual purposes of
 magicians.
 
-<span id="fn_58"></span>[109:1](bcm23.htm#fr_58) *Les Véritables
+<span id="fn_58"></span>[109:1](bcm23.htm#fr_58.md) *Les Véritables
 Clavicules de Salomon. Trésor des Sciences Occultes, suives d'un Grand
 Nombre des Secrets, et notamment de la Magie du Papillon Vert*. N.D.
 
-<span id="fn_59"></span>[109:2](bcm23.htm#fr_59) *La Vera Clavicola del
+<span id="fn_59"></span>[109:2](bcm23.htm#fr_59.md) *La Vera Clavicola del
 Re Salomone, Tesoro delle Scienze Occulte con molti Altri Segreti e
 principalmonte La Cabala della Farfalla Verde tradotte dalla Lingua
 Straniera alla Lingua Italiana da Bestetti*. Milano, 1868. Also, with
 slight variations, Firenze, Amato Muzzi editore, 1880.
 
-<span id="fn_60"></span>[109:3](bcm23.htm#fr_60) For example, *Le Dragon
+<span id="fn_60"></span>[109:3](bcm23.htm#fr_60.md) For example, *Le Dragon
 Rouge, ou l'Art de Commander les Esprits célestes, aériens et
 infernaux*. A Milan, chez Gaspard Buffanelli. And, *Le Véritable Dragon
 Rouge, plus la Poule Noire, edition augmentée des secrets de la Reine
@@ -242,4 +242,4 @@ still extant.
 
 ------------------------------------------------------------------------
 
-[Next: Section 5: Minor and Spurious Rituals of Black Magic](bcm24)
+[Next: Section 5: Minor and Spurious Rituals of Black Magic](bcm24.md)

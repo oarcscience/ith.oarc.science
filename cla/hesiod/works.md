@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index)  [Classics](../index)  [Hesiod](index)
+[Sacred-Texts](../../index)  [Classics](../index)  [Hesiod](index.md)
 
 ------------------------------------------------------------------------
 

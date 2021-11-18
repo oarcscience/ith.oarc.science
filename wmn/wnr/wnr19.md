@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr18)  [Next](wnr20) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr18)  [Next](wnr20.md) 
 
 ------------------------------------------------------------------------
 
@@ -353,4 +353,4 @@ more confidently, with her face set more firmly toward the goal.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. The Goal](wnr20)
+[Next: XVIII. The Goal](wnr20.md)

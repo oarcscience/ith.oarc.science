@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft18)  [Next](geft20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft18)  [Next](geft20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -20,14 +20,14 @@ Textual Heritage
 
 # II
 
-# MINGRELIAN TALES <span id="fr_23"></span>[1](#fn_22)
+# MINGRELIAN TALES <span id="fr_23"></span>[1](#fn_22.md)
 
 ### I
 
 ### The Three Precepts
 
 THERE was, there was, there was, there was, and nothing there was. <span
-id="fr_24"></span>[2](#fn_23) In a certain country, a certain realm, a
+id="fr_24"></span>[2](#fn_23.md) In a certain country, a certain realm, a
 certain region, a certain village, there was an orphan so poor, so poor,
 that ‘tween heaven and earth nought could be found that was his. Being
 in such a plight to-day, tomorrow, the day after to-morrow, this week,
@@ -35,7 +35,7 @@ next week, this month, next month, sad and thoughtful he became; he
 thought, he thought, he thought, and at last made up his mind: 'I will
 arise and try my luck,' quoth he. He rose betimes in the morning, called
 on the name of God, turned himself to the right hand, <span
-id="fr_25"></span>[3](#fn_24) and set forth from the house.
+id="fr_25"></span>[3](#fn_24.md) and set forth from the house.
 
 He went, he went, he went, beyond the sky, across the earth, across the
 forest, across the field, across the plain,
@@ -45,7 +45,7 @@ forest, across the field, across the plain,
 over the mountains, he went as far as he could, and when he looked he
 saw a man of graceful mien coming towards him.. The youth quickened his
 step and they met. 'I wish thee victory, good youth!' <span
-id="fr_26"></span>[1](#fn_25) said the stranger, 'whither goest thou?'
+id="fr_26"></span>[1](#fn_25.md) said the stranger, 'whither goest thou?'
 'May God send thee victory, my master,' answered the young man, 'I go to
 seek a livelihood.' 'Be my servant for three years, and I shall teach
 thee three things that will afterwards be helpful,' said this clever man
@@ -67,7 +67,7 @@ One morning he went out and found on the road a red snake; he remembered
 the instruction of the clever man and threw the snake into the yard. A
 week later, the young man noticed that on the place where he had thrown
 the snake, it had laid a multitude of precious stones. <span
-id="fr_27"></span>[2](#fn_26) It is no
+id="fr_27"></span>[2](#fn_26.md) It is no
 
 <span id="page_111">p. 111</span>
 
@@ -110,15 +110,15 @@ wretched youth who disobeyed the instructions of the clever man.
 
 Yester eve I was there,  
 This evening I am here. . . .  
-Three apples, <span id="fr_28"></span>[1](#fn_27) three pomegranates,  
+Three apples, <span id="fr_28"></span>[1](#fn_27.md) three pomegranates,  
 May God send thee,  
 Ripe in thy hands.
 
 The tale, the tale is ended. . . .  
 Thou hast eaten maize-bread with ashes, <span
-id="fr_29"></span>[2](#fn_28)  
+id="fr_29"></span>[2](#fn_28.md)  
 Thou hast drunk bad, stale wine,  
-And eaten a rotten walnut. <span id="fr_30"></span>[3](#fn_29)
+And eaten a rotten walnut. <span id="fr_30"></span>[3](#fn_29.md)
 
 </div>
 
@@ -126,36 +126,36 @@ And eaten a rotten walnut. <span id="fr_30"></span>[3](#fn_29)
 
 ### Footnotes
 
-<span id="fn_22"></span>[109:1](geft19.htm#fr_23) Mingrelskie etyudy.
+<span id="fn_22"></span>[109:1](geft19.htm#fr_23.md) Mingrelskie etyudy.
 Pervyi vypusk. Mingrelskie teksty s perevodom i obyasneniyami, sobr. i
 izd. Al. Tsagareli. S. Pbg. 1880.
 
-<span id="fn_23"></span>[109:2](geft19.htm#fr_24) The *Mingrelian Tales*
+<span id="fn_23"></span>[109:2](geft19.htm#fr_24.md) The *Mingrelian Tales*
 usually begin thus; sometimes the formula used is: 'there was, there
 was, there was, and nothing there was, but nevertheless there was.'
 
-<span id="fn_24"></span>[109:3](geft19.htm#fr_25) When a Mingrelian
+<span id="fn_24"></span>[109:3](geft19.htm#fr_25.md) When a Mingrelian
 undertakes a journey, he turns to the right several times before his
 door and then sets out. This is held to be a favourable omen.
 
-<span id="fn_25"></span>[110:1](geft19.htm#fr_26) The usual salutation
+<span id="fn_25"></span>[110:1](geft19.htm#fr_26.md) The usual salutation
 in Georgia.
 
-<span id="fn_26"></span>[110:2](geft19.htm#fr_27) The word *Khvitho* in
+<span id="fn_26"></span>[110:2](geft19.htm#fr_27.md) The word *Khvitho* in
 Mingrelian signifies a precious stone laid by a snake or a fowl, which
 turns into gold or precious stones whatever it touches.
 
-<span id="fn_27"></span>[112:1](geft19.htm#fr_28) Cf. Carnoy et
+<span id="fn_27"></span>[112:1](geft19.htm#fr_28.md) Cf. Carnoy et
 Nicolaïdes: *Traditions de l’Asie Mineure*, p. 42.
 
-<span id="fn_28"></span>[112:2](geft19.htm#fr_29) *Chkidi*, bread made
+<span id="fn_28"></span>[112:2](geft19.htm#fr_29.md) *Chkidi*, bread made
 of Indian corn, is generally used in Mingrelia. It is cooked on the
 ashes, and the latter are often found sticking to it.
 
-<span id="fn_29"></span>[112:3](geft19.htm#fr_30) These verses form the
+<span id="fn_29"></span>[112:3](geft19.htm#fr_30.md) These verses form the
 concluding formula of Mingrelian folk-tales. The second couplet is not
 so frequently used as the first.
 
 ------------------------------------------------------------------------
 
-[Next: II. Kazha-ndii](geft20)
+[Next: II. Kazha-ndii](geft20.md)

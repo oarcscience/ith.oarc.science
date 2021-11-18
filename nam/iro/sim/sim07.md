@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim06)  [Next](sim08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim06)  [Next](sim08.md) 
 
 ------------------------------------------------------------------------
 
@@ -560,4 +560,4 @@ spring.
 
 ------------------------------------------------------------------------
 
-[Next: A Battle Between Frost and Whirlwind](sim08)
+[Next: A Battle Between Frost and Whirlwind](sim08.md)

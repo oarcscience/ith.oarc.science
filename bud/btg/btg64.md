@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg63)  [Next](btg65) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg63)  [Next](btg65.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ heaven to the glorious state of the gods."
 
 ------------------------------------------------------------------------
 
-[Next: The Man Born Blind](btg65)
+[Next: The Man Born Blind](btg65.md)

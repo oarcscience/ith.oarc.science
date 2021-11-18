@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs12)  [Next](pifs14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs12)  [Next](pifs14.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ not tell me any such story as that. No, indeed!
 
 Quáh-le-kee-raí-deh, the Horned Toad, gave it to him. So? Oh, yes! He
 talked so nicely to a Horned Toad on the mesa <span
-id="fr_39"></span>[1](#fn_39) the other day, that the little creature
+id="fr_39"></span>[1](#fn_39.md) the other day, that the little creature
 put a *punta* where he could find it the next time he went thither.
 
 Whenever a Pueblo sees a Quáh-le-kee-raí-deh, he jumps from his horse or
@@ -71,7 +71,7 @@ carefully on that broad reach where so many arrow-heads have been lost
 in ancient wars and hunts. Finding one, he prays to the Sun-Father and
 the Moon-Mother and all his other deities, and returns profound thanks
 to the Horned Toad. Some finders put the arrow-head in the pouch which
-serves Indians for a pocket. <span id="fr_40"></span>[1](#fn_40) Some
+serves Indians for a pocket. <span id="fr_40"></span>[1](#fn_40.md) Some
 wear it as an amulet on the necklace. In either case, the belief is that
 no evil spirit can approach the wearer while he has that charm about
 him. In fact, it is a sovereign spell against witches.
@@ -90,13 +90,13 @@ and the
 
 <span id="page_77">p. 77</span>
 
-scalping-knife, <span id="fr_41"></span>[1](#fn_41) but he also invented
+scalping-knife, <span id="fr_41"></span>[1](#fn_41.md) but he also invented
 irrigation, and taught it to man; and is a general benefactor of our
 race.
 
 There is one very sacred folk-story which tells why boys must never
 smoke until they have proved their manhood. Pueblo etiquette is very
-strict on all such points. <span id="fr_42"></span>[2](#fn_42)
+strict on all such points. <span id="fr_42"></span>[2](#fn_42.md)
 
 Once upon a time there lived in Isleta two boys who were cousins. One
 day their grandfather, who was a True Believer (in all the ancient
@@ -110,7 +110,7 @@ bring me Quée-hla-kú-ee, the skin of the oak."
 
 Now, in the talk of men, Quée-hla-kú-ee is another thing; but the boys
 did not know. They got their mothers to give them some tortillas, <span
-id="fr_43"></span>[3](#fn_43) and with this lunch they started for the
+id="fr_43"></span>[3](#fn_43.md) and with this lunch they started for the
 Bosque (a 10,000-foot peak twenty miles east of Isleta). Reaching the
 mountain, they went to every kind of tree and cut a little piece of its
 bark--for they were not sure which was the oak. Then they came home,
@@ -153,7 +153,7 @@ ordered the T'u-a-fú-ar (scalp-dance). After the inside days, when the
 takers of scalps must stay in the *estufa*, was the dance. And when it
 came to the round dance at night the two boys were dancing side by side.
 
-Then a young woman who was a [stranger](errata.htm#0) came and pushed
+Then a young woman who was a [stranger](errata.htm#0.md) came and pushed
 them apart and danced between them. She was very handsome, and both fell
 in love with her. But as soon as their hearts thought of love, a
 skeleton was between them in place of the girl--for they who go to war
@@ -196,7 +196,7 @@ and loved me, but now you run away."
 
 But they could not answer her, and ran into the room of the Trues of the
 Center, and told their story. Then the Trues gave power to the
-Cum-pa-huit-la-wid-deh <span id="fr_44"></span>[1](#fn_44) to see the
+Cum-pa-huit-la-wid-deh <span id="fr_44"></span>[1](#fn_44.md) to see the
 skeleton,-which no one else in the world could see, except the Trues and
 the two young men, and said to him:
 
@@ -204,7 +204,7 @@ the two young men, and said to him:
 
 So the Cum-pa-huit-la-wid-deh shot the skeleton through with an arrow
 from the left side to the right side, <span
-id="fr_45"></span>[2](#fn_45) and took the scalp.
+id="fr_45"></span>[2](#fn_45.md) and took the scalp.
 
 That was the end of the skeleton, and the young men were free. And when
 the Trues had given them counsel, they came to their people, and told
@@ -217,7 +217,7 @@ Then the principals had a meeting and made a rule which is to this
 <span id="page_81">p. 81</span>
 
 day, that in the twelve days of the scalp <span
-id="fr_46"></span>[1](#fn_46) no warrior shall think thoughts of love.
+id="fr_46"></span>[1](#fn_46.md) no warrior shall think thoughts of love.
 
 For it was because they had love-thoughts of the Navajo girl that her
 skeleton haunted them. And at the same time it was made the law, which
@@ -232,33 +232,33 @@ have come. And that is why.
 
 ### Footnotes
 
-<span id="fn_39"></span>[75:1](pifs13.htm#fr_39) Table-land.
+<span id="fn_39"></span>[75:1](pifs13.htm#fr_39.md) Table-land.
 
-<span id="fn_40"></span>[76:1](pifs13.htm#fr_40) The "left-hand-bag,"
+<span id="fn_40"></span>[76:1](pifs13.htm#fr_40.md) The "left-hand-bag,"
 *shur-taí-moo*, because it always hangs from the right shoulder and
 under the left arm.
 
-<span id="fn_41"></span>[77:1](pifs13.htm#fr_41) Which were formerly
+<span id="fn_41"></span>[77:1](pifs13.htm#fr_41.md) Which were formerly
 about the same thing--a large and sharp-edged arrow-head or similar
 stone being the only knife of the Pueblos in prehistoric times.
 
-<span id="fn_42"></span>[77:2](pifs13.htm#fr_42) See my "Strange Corners
+<span id="fn_42"></span>[77:2](pifs13.htm#fr_42.md) See my "Strange Corners
 of Our Country" (The Century Co.), chap. xviii.
 
-<span id="fn_43"></span>[77:3](pifs13.htm#fr_43) A cake of unleavened
+<span id="fn_43"></span>[77:3](pifs13.htm#fr_43.md) A cake of unleavened
 batter cooked on a hot stone. They look something like a huge flapjack,
 but are very tough and keep a long time.
 
-<span id="fn_44"></span>[80:1](pifs13.htm#fr_44) Guard at the door of
+<span id="fn_44"></span>[80:1](pifs13.htm#fr_44.md) Guard at the door of
 the gods.
 
-<span id="fn_45"></span>[80:2](pifs13.htm#fr_45) The only official
+<span id="fn_45"></span>[80:2](pifs13.htm#fr_45.md) The only official
 method of killing a witch, which is one of the chief duties of the
 Cum-pa-huit-la-wen.
 
-<span id="fn_46"></span>[81:1](pifs13.htm#fr_46) The period of fasting
+<span id="fn_46"></span>[81:1](pifs13.htm#fr_46.md) The period of fasting
 and purification before and during the scalp dance.
 
 ------------------------------------------------------------------------
 
-[Next: XI. The Stone-Moving Song](pifs14)
+[Next: XI. The Stone-Moving Song](pifs14.md)

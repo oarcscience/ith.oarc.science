@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe175)  [Next](prwe177) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe175)  [Next](prwe177.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ disappeared.
 
 ------------------------------------------------------------------------
 
-[Next: The Witch of Fraddam and Pengerswick](prwe177)
+[Next: The Witch of Fraddam and Pengerswick](prwe177.md)

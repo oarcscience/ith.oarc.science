@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth070)  [Next](toth072) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth070)  [Next](toth072.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 68. THE COYOTE AND THE BLUE JAYS. <span id="fr_138"></span>[1](#fn_136)
+## 68. THE COYOTE AND THE BLUE JAYS. <span id="fr_138"></span>[1](#fn_136.md)
 
 Halíksai! A long time ago the people lived in Oraíbi. West of the
 village, at Íshmovala, lived the Coyote and his wife. They had six
@@ -77,9 +77,9 @@ to look out for their food alone.
 
 ### Footnotes
 
-<span id="fn_136"></span>[196:1](toth071.htm#fr_138) Told by Wikvaya
+<span id="fn_136"></span>[196:1](toth071.htm#fr_138.md) Told by Wikvaya
 (Oraíbi).
 
 ------------------------------------------------------------------------
 
-[Next: 69. The Coyote and the Eagle](toth072)
+[Next: 69. The Coyote and the Eagle](toth072.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc08)  [Next](pcc10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc08)  [Next](pcc10.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ the advent of Christianity and can by no means be ascribed to any
 miraculous influence of that religion. Abraham was prompted to slay a
 ram as a substitute for his son, long before the Christians were thought
 of; the rather savage Artemis of the old Greek rites was (according to
-Pausanias) <span id="fr_130"></span>[1](#fn_130) honored by the yearly
+Pausanias) <span id="fr_130"></span>[1](#fn_130.md) honored by the yearly
 sacrifice of a perfect boy and girl, but later it was deemed sufficient
 to draw a knife across their throats as a symbol, with the result of
 spilling only a few drops f their blood, or to flog the boys (with the
@@ -48,19 +48,19 @@ same result) upon her altar. Among the Khonds in old days many victims
 (*meriahs*) were sacrificed to the gods, "but in time the man was
 replaced by a horse, the horse by a bull, the bull by a ram, the ram by
 a kid, the kid by fowls, and the fowls by many flowers." <span
-id="fr_131"></span>[2](#fn_131) At one time, according to the
+id="fr_131"></span>[2](#fn_131.md) At one time, according to the
 Yajur-Veda, there was a festival at which one hundred and twenty-five
 victims, men and women, boys and girls, were sacrificed; "but reform
 supervened, and now the victims were bound as before to the stake, but
 afterwards amid litanies to the immolated (god) Narayana, the
 sacrificing priest brandished a knife and--severed the bonds of the
-captives." <span id="fr_132"></span>[3](#fn_132) At the Athenian
+captives." <span id="fr_132"></span>[3](#fn_132.md) At the Athenian
 festival of the Thargelia, to which I referred in the last chapter, it
 appears that the victims, in later times, instead of being slain, were
 tossed from a height into the sea, and after being rescued were then
 simply banished; while at Leucatas a similar festival the fall of the
 victim was graciously broken by tying feathers and even living birds to
-his body. <span id="fr_133"></span>[4](#fn_133)
+his body. <span id="fr_133"></span>[4](#fn_133.md)
 
 With the lapse of time and the general progress of mankind,
 
@@ -104,7 +104,7 @@ exact correspondence and parallel
 of the old pagan ceremonies of Initiation, which are or have been
 observed in almost every primitive tribe over the world. "The rite of
 the second birth," says Jane Harrison, <span
-id="fr_134"></span>[1](#fn_134) "is widespread, universal, over half the
+id="fr_134"></span>[1](#fn_134.md) "is widespread, universal, over half the
 savage world. With the savage to be twice-born is the rule. By his first
 birth he comes into the world; by his second he is born into his tribe.
 At his first birth he belongs to his mother and the women-folk; at his
@@ -116,7 +116,7 @@ instructive, is the rite practised by the Kikuyu tribe of British East
 Africa, who require that every boy, just before circumcision, must be
 born again. The mother stands up with the boy crouching at her feet; she
 pretends to go through all the labour pains, and the boy on being reborn
-cries like a babe and is washed." <span id="fr_135"></span>[2](#fn_135)
+cries like a babe and is washed." <span id="fr_135"></span>[2](#fn_135.md)
 
 Let us pause for a moment. An Initiate is of course one who "enters in."
 He enters into the Tribe; he enters into the revelation of certain
@@ -138,13 +138,13 @@ with his own blood, or, in cases, one of the candidates was really
 killed and his blood used as a substitute for the blood of the others.
 No doubt *human* sacrifice attended the earliest initiations. But later
 it was sufficient to be half-drowned in the blood of a Bull as in the
-Mithra cult, <span id="fr_136"></span>[1](#fn_136) or 'washed in the
+Mithra cult, <span id="fr_136"></span>[1](#fn_136.md) or 'washed in the
 blood of the Lamb' as in the Christian phraseology. Finally, with a
 growing sense of decency and aesthetic perception among the various
 peoples, washing with pure water came in the initiation-ceremonies to
 take the place of blood; and our baptismal service has reduced the
 ceremony to a mere sprinkling with water. <span
-id="fr_137"></span>[2](#fn_137)
+id="fr_137"></span>[2](#fn_137.md)
 
 To continue the quotation from Miss Harrison: "More often the new birth
 is stimulated, or imagined, as a death and a resurrection, either of the
@@ -180,7 +180,7 @@ and, *enter into* the life of the tribe, the life of the Spirit of the
 tribe." "In totemistic societies," to quote Miss Harrison again, "and in
 the animal secret societies that seem to grow out of them, the novice is
 born again as *the sacred animal*. Thus among the Carrier Indians <span
-id="fr_138"></span>[1](#fn_138) when a man wants to become a *Lulem* or
+id="fr_138"></span>[1](#fn_138.md) when a man wants to become a *Lulem* or
 'Bear,' however cold the season he tears off his clothes, puts on a
 bear-skin and dashes into the woods, where he will stay for three or
 four days. Every night his fellow-villagers will go out in search
@@ -217,25 +217,25 @@ moon, scantily clothed and braving the intense cold; to overcome the
 very fear of death and danger, like the Australian novices who, at first
 terrified by the sound of the bull-roarer and threats of fire and the
 knife, learn finally to cast their fears away. <span
-id="fr_139"></span>[1](#fn_139) By so doing one puts off the old
+id="fr_139"></span>[1](#fn_139.md) By so doing one puts off the old
 childish things, and qualifies oneself by firmness and courage to become
 a worthy member of the society
 
 <span id="page_124">p. 124</span>
 
-into which one is called. <span id="fr_140"></span>[1](#fn_140) The
+into which one is called. <span id="fr_140"></span>[1](#fn_140.md) The
 rules of social life are taught--the duty to one's tribe, and to
 oneself, truth-speaking, defence of women and children, the care of
 cattle, the meaning of sex and marriage, and even the mysteries of such
 religious ideas and rudimentary science as the tribe possesses. And by
 so doing one really enters into a new life. Things of the spiritual
 world begin to dawn. Julius Firmicus, in describing the mysteries of the
-resurrection of Osiris, <span id="fr_141"></span>[2](#fn_141) says that
+resurrection of Osiris, <span id="fr_141"></span>[2](#fn_141.md) says that
 when the worshipers had satiated themselves with lamentations over the
 death of the god then the priest would go round anointing them with oil
 and whispering, "Be of good cheer, O Neophytes of the new-arisen God,
 for to us too from our pains shall come salvation." <span
-id="fr_142"></span>[3](#fn_142)
+id="fr_142"></span>[3](#fn_142.md)
 
 It would seem that at some very early time in the history of tribal and
 priestly initiations an attempt was made to impress upon the neophytes
@@ -247,7 +247,7 @@ developments of this faculty among the black and colored
 peoples--East-Indian, Burmese, African, American-Indian, etc.--are well
 known. Miss Alice Fletcher, who lived among the Omaha Indians for thirty
 years, gives a most interesting account <span
-id="fr_143"></span>[4](#fn_143) of the general philosophy of that people
+id="fr_143"></span>[4](#fn_143.md) of the general philosophy of that people
 and their rites of initiation. "The Omahas regard all animate and
 inanimate forms, all phenomena, as pervaded by a common life, which was
 continuous with and similar to the will-power they were conscious of in
@@ -259,7 +259,7 @@ and through it all things were related to man and to each other. In the
 idea of the continuity of life a relation was maintained between the
 seen and the unseen, the dead and the living, and also between the
 fragment of anything and its entirety." <span
-id="fr_144"></span>[1](#fn_144) Thus an Omaha novice might at any time
+id="fr_144"></span>[1](#fn_144.md) Thus an Omaha novice might at any time
 seek to obtain Wakonda by what was called *the rite of the vision*. He
 would go out alone, fast, chant incantations, and finally fall into a
 trance (much resembling what in modern times has been called *cosmic
@@ -271,7 +271,7 @@ Another rite in connection with initiation, and common all over the
 pagan world--in Greece, America, Africa, Australia, New Mexico,
 etc.--was the daubing of the novice all over with clay or chalk or even
 dung, and then after a while removing the same. <span
-id="fr_145"></span>[2](#fn_145) The novice must have looked a
+id="fr_145"></span>[2](#fn_145.md) The novice must have looked a
 sufficiently ugly and uncomfortable object in this state; but later,
 when he was thoroughly *washed*, the ceremony must have afforded a
 thrilling illustration of the idea of a new birth, and one which would
@@ -341,7 +341,7 @@ the newly admitted Initiates were fed for some time after on milk only
 Murray.) When sub-conscious knowledge began to glimmer into direct
 consciousness one of the first aspects (and no doubt one of the truest)
 under which people saw life was just thus: as a series of rebirths and
-transformations. <span id="fr_146"></span>[1](#fn_146) The most modern
+transformations. <span id="fr_146"></span>[1](#fn_146.md) The most modern
 science, I need hardly say, in biology as well as in chemistry and the
 field of inorganic Nature, supports t at view. The savage in earliest
 times *felt* the truth of some things which we to-day are only beginning
@@ -361,7 +361,7 @@ down to a special case--"As in Adam all die, so in *Christ* shall all be
 made alive." The Universal Spirit which can give rebirth and salvation
 to *every* child of man to whom it comes, was offered only under a very
 special form--that of Jesus Christ. <span
-id="fr_147"></span>[1](#fn_147) In this respect it was no better than
+id="fr_147"></span>[1](#fn_147.md) In this respect it was no better than
 the religions which preceded it. In some respects--that is, where it was
 especially fanatical, blinkered, and hostile to other sects--it was
 *worse*. But to those who perceive that the Great Spirit may bring new
@@ -388,16 +388,16 @@ with and united to the
 god; in its milder and more spiritual aspects as in the Mithraic,
 Egyptian, Hindu and Christian cults, one passed behind the veil of
 *maya* and this ever-changing world, and entered into the region of
-divine peace and power. <span id="fr_148"></span>[1](#fn_148)
+divine peace and power. <span id="fr_148"></span>[1](#fn_148.md)
 
 Or again the doctrine of the *Saviour*. That also is one on which I need
 not add much to what has been said already. The number of pagan deities
 (mostly virgin-born and done to death in some way or other in their
 efforts to save mankind) is so great <span
-id="fr_149"></span>[2](#fn_149) as to be difficult to keep account of.
+id="fr_149"></span>[2](#fn_149.md) as to be difficult to keep account of.
 The god *Krishna* in India, the god *Indra* in Nepaul and Thibet, spilt
 their blood for the salvation of men; *Buddha* said, according to Max
-Müller, <span id="fr_150"></span>[3](#fn_150) "Let all the sins that
+Müller, <span id="fr_150"></span>[3](#fn_150.md) "Let all the sins that
 were in the world fall on me, that the world may be delivered"; the
 Chinese *Tien*, the Holy One--"one with God and existing with him from
 all eternity"--died to save the world; the Egyptian *Osiris* was called
@@ -419,7 +419,7 @@ was torn to pieces, not unlike Osiris. Even in far Mexico
 fasted forty days, was done to death, and his second coming looked for
 so eagerly that (as is well known) when Cortes appeared, the Mexicans,
 poor things, greeted *him* as the returning god! <span
-id="fr_151"></span>[1](#fn_151) In Peru and among the American Indians,
+id="fr_151"></span>[1](#fn_151.md) In Peru and among the American Indians,
 North and South of the Equator, similar legends are, or were, to be
 found.
 
@@ -432,7 +432,7 @@ Church, all through, made the greatest of efforts and taken the greatest
 precautions to extinguish and snuff out all evidence of pagan claims on
 the subject. There is much to show that the early Church took this line
 with regard to pre-Christian saviours; <span
-id="fr_152"></span>[2](#fn_152) and in later times the same policy is
+id="fr_152"></span>[2](#fn_152.md) and in later times the same policy is
 remarkably illustrated by the treatment in the sixteenth century of the
 writings of Sahagun the Spanish missionary--to whose work I have already
 referred. Sahagun was a wonderfully broad-minded and fine man who, while
@@ -501,10 +501,10 @@ altar; or of Odin hanging by his own desire upon a tree. "I know I was
 hanged upon a tree shaken by the winds for nine long nights. I was
 transfixed by a spear; I was moved to Odin, myself to myself." And so
 on. The instances are endless. "I am the oblation," says the Lord
-Krishna in the Bhagavad Gita, <span id="fr_153"></span>[1](#fn_153) "I
+Krishna in the Bhagavad Gita, <span id="fr_153"></span>[1](#fn_153.md) "I
 am the sacrifice, I the ancestral offering." "In the truly orthodox
 conception of sacrifice," says Elie Reclus, <span
-id="fr_154"></span>[2](#fn_154) "the consecrated offering, be it man,
+id="fr_154"></span>[2](#fn_154.md) "the consecrated offering, be it man,
 woman or virgin, lamb or heifer, cock or dove, represents *the deity
 himself*. . . . Brahma is the 'imperishable sacrifice'; Indra, Soma,
 Hari and the other gods, became incarnate in animals to the sole end
@@ -544,7 +544,7 @@ It is very puzzling. The whole subject is puzzling. The world-wide
 adoption of similar creeds and rituals (and, we may add, legends and
 fairy tales) among early peoples, and in far-sundered places and times
 is so remarkable that it has given the students of these subjects
-'furiously to think' <span id="fr_155"></span>[1](#fn_155)--yet for the
+'furiously to think' <span id="fr_155"></span>[1](#fn_155.md)--yet for the
 most part without great success in the way of finding a solution. The
 supposition that (1) the creed, rite or legend in question has sprung
 up, so to speak, accidentally, in one place, and
@@ -560,7 +560,7 @@ and between races and peoples absolutely incapable of understanding each
 other. And if to avoid these difficulties it is assumed that the present
 human race all proceeds from one original stock which radiating from one
 centre--say in South-Eastern Asia <span
-id="fr_156"></span>[1](#fn_156)--overspread the world, carrying its
+id="fr_156"></span>[1](#fn_156.md)--overspread the world, carrying its
 rites and customs with it, why, then we are compelled to face the
 difficulty of supposing this radiation to have taken place at an
 enormous time ago (the continents being then all more or less conjoined)
@@ -571,7 +571,7 @@ common source. The far tradition of the Island of Atlantis seems to
 afford a possible explanation of the community of rites and customs
 between the Old and New World, and this without assuming in any way that
 Atlantis (if it existed) was the original and *sole* cradle of the human
-race. <span id="fr_157"></span>[2](#fn_157) Anyhow it is clear that
+race. <span id="fr_157"></span>[2](#fn_157.md) Anyhow it is clear that
 these origins of human culture must be of extreme antiquity, and that it
 would not be wise to be put off the track of the investigation of a
 possible common source merely by that fact of antiquity.
@@ -631,33 +631,33 @@ world-wide myth of the Golden Age, I will now turn.
 
 ### Footnotes
 
-<span id="fn_130"></span>[118:1](pcc09.htm#fr_130) vii. 19, and iii. 8,
+<span id="fn_130"></span>[118:1](pcc09.htm#fr_130.md) vii. 19, and iii. 8,
 16.
 
-<span id="fn_131"></span>[118:2](pcc09.htm#fr_131) *Primitive Folk*, by
+<span id="fn_131"></span>[118:2](pcc09.htm#fr_131.md) *Primitive Folk*, by
 Elie Reclus (Contemp. Science Series), p. 330.
 
-<span id="fn_132"></span>[118:3](pcc09.htm#fr_132) *Ibid*.
+<span id="fn_132"></span>[118:3](pcc09.htm#fr_132.md) *Ibid*.
 
-<span id="fn_133"></span>[118:4](pcc09.htm#fr_133) Muller's *Dorians*
+<span id="fn_133"></span>[118:4](pcc09.htm#fr_133.md) Muller's *Dorians*
 Book II, ch. ii, par. 10.
 
-<span id="fn_134"></span>[120:1](pcc09.htm#fr_134) *Ancient Art and
+<span id="fn_134"></span>[120:1](pcc09.htm#fr_134.md) *Ancient Art and
 Ritual*, p. 104.
 
-<span id="fn_135"></span>[120:2](pcc09.htm#fr_135) See also *Themis*, p.
+<span id="fn_135"></span>[120:2](pcc09.htm#fr_135.md) See also *Themis*, p.
 21.
 
-<span id="fn_136"></span>[121:1](pcc09.htm#fr_136) See *supra*, ch. iii.
-[p. 43](pcc04.htm#page_43).
+<span id="fn_136"></span>[121:1](pcc09.htm#fr_136.md) See *supra*, ch. iii.
+[p. 43](pcc04.htm#page_43.md).
 
-<span id="fn_137"></span>[121:2](pcc09.htm#fr_137) For the virtue
+<span id="fn_137"></span>[121:2](pcc09.htm#fr_137.md) For the virtue
 supposed to reside in blood see Westermarck's *Moral Ideas*, Ch. 46.
 
-<span id="fn_138"></span>[122:1](pcc09.htm#fr_138) *Golden
+<span id="fn_138"></span>[122:1](pcc09.htm#fr_138.md) *Golden
 Bough*<sup>2</sup>, III, p. 438.
 
-<span id="fn_139"></span>[123:1](pcc09.htm#fr_139) According to accounts
+<span id="fn_139"></span>[123:1](pcc09.htm#fr_139.md) According to accounts
 of the Wiradthuri tribe of Western Australia, in their initiations, the
 lads were frightened by a large fire being lighted near them, and
 hearing the awful sound of the bull-roarers, while they were told that
@@ -670,32 +670,32 @@ human shape, and restored them to life as new beings. (See R. H.
 Matthews, "The Wiradthuri tribes," *Journal Anthrop. Inst*., vol. xxv,
 1896, pp. 297 *sq*.)
 
-<span id="fn_140"></span>[124:1](pcc09.htm#fr_140) See Catlin's
+<span id="fn_140"></span>[124:1](pcc09.htm#fr_140.md) See Catlin's
 *North-American Indians*, vol. i, for initiations and ordeals among the
 Mandans.
 
-<span id="fn_141"></span>[124:2](pcc09.htm#fr_141) *De Errore*, c. 22.
+<span id="fn_141"></span>[124:2](pcc09.htm#fr_141.md) *De Errore*, c. 22.
 
-<span id="fn_142"></span>[124:3](pcc09.htm#fr_142)
+<span id="fn_142"></span>[124:3](pcc09.htm#fr_142.md)
 
 Θαρρεῖτε, μυσται το̃ν θεο̃υ σεσωσμένου,  
 Εσται γὰρ ἡμῖν εκ πονῶν σωτηρία.
 
-<span id="fn_143"></span>[124:4](pcc09.htm#fr_143) Summarized in
+<span id="fn_143"></span>[124:4](pcc09.htm#fr_143.md) Summarized in
 *Themis*, pp. 68-71.
 
-<span id="fn_144"></span>[125:1](pcc09.htm#fr_144) A. C. Fletcher, *The
+<span id="fn_144"></span>[125:1](pcc09.htm#fr_144.md) A. C. Fletcher, *The
 Significance of the Scalp-lock*, Journal of Anthropological Studies,
 xxvii (1897-8), p. 436.
 
-<span id="fn_145"></span>[125:2](pcc09.htm#fr_145) See A. Lang's *Myth,
+<span id="fn_145"></span>[125:2](pcc09.htm#fr_145.md) See A. Lang's *Myth,
 Ritual and Religion*, i, 274 *sq*.
 
-<span id="fn_146"></span>[127:1](pcc09.htm#fr_146) The fervent and
+<span id="fn_146"></span>[127:1](pcc09.htm#fr_146.md) The fervent and
 widespread belief in animal metamorphoses among early peoples is well
 known.
 
-<span id="fn_147"></span>[128:1](pcc09.htm#fr_147) The same happened
+<span id="fn_147"></span>[128:1](pcc09.htm#fr_147.md) The same happened
 with regard to another great Pagan doctrine (to which I have just
 alluded), the doctrine of transformations and metamorphoses; and whereas
 the pagans believed in these things, as the common and possible heritage
@@ -703,7 +703,7 @@ of *every* man, the Christians only allowed themselves to entertain the
 idea in the special and unique instance of the Transfiguration of
 Christ.
 
-<span id="fn_148"></span>[129:1](pcc09.htm#fr_148) Baring Gould in his
+<span id="fn_148"></span>[129:1](pcc09.htm#fr_148.md) Baring Gould in his
 *Orig. Relig. Belief*, I. 401, says:--"Among the ancient Hindus Soma was
 a chief deity; he is called the Giver of Life and Health. . . . He
 became incarnate among men, was taken by them and slain, and brayed in a
@@ -713,30 +713,30 @@ God and Man.' Through communion with him in his sacrifice, man (who
 partook of this god) has an assurance of immortality, for by that
 sacrament he obtains union with his divinity."
 
-<span id="fn_149"></span>[129:2](pcc09.htm#fr_149) See for a
+<span id="fn_149"></span>[129:2](pcc09.htm#fr_149.md) See for a
 considerable list Doane's *Bible Myths*, ch. xx.
 
-<span id="fn_150"></span>[129:3](pcc09.htm#fr_150) *Hist. Sanskrit
+<span id="fn_150"></span>[129:3](pcc09.htm#fr_150.md) *Hist. Sanskrit
 Literature*, p. 80.
 
-<span id="fn_151"></span>[130:1](pcc09.htm#fr_151) See Kingsborough,
+<span id="fn_151"></span>[130:1](pcc09.htm#fr_151.md) See Kingsborough,
 *Mexican Antiquities*, vol. vi.
 
-<span id="fn_152"></span>[130:2](pcc09.htm#fr_152) See Tertullian's
+<span id="fn_152"></span>[130:2](pcc09.htm#fr_152.md) See Tertullian's
 *Apologia*, c. 16; Ad Nationes, c. xii.
 
-<span id="fn_153"></span>[132:1](pcc09.htm#fr_153) Ch. ix, v. 16.
+<span id="fn_153"></span>[132:1](pcc09.htm#fr_153.md) Ch. ix, v. 16.
 
-<span id="fn_154"></span>[132:2](pcc09.htm#fr_154) *Primitive Folk*, ch.
+<span id="fn_154"></span>[132:2](pcc09.htm#fr_154.md) *Primitive Folk*, ch.
 vi.
 
-<span id="fn_155"></span>[133:1](pcc09.htm#fr_155) See A. Lang's *Myth,
+<span id="fn_155"></span>[133:1](pcc09.htm#fr_155.md) See A. Lang's *Myth,
 Ritual and Religion*, vol. ii.
 
-<span id="fn_156"></span>[134:1](pcc09.htm#fr_156) See Hastings,
+<span id="fn_156"></span>[134:1](pcc09.htm#fr_156.md) See Hastings,
 *Encycl. Religion and Ethics*, art. "Ethnology."
 
-<span id="fn_157"></span>[134:2](pcc09.htm#fr_157) E. J. Payne, *History
+<span id="fn_157"></span>[134:2](pcc09.htm#fr_157.md) E. J. Payne, *History
 of the New World called America* (vol. i, p. 93) says: "It is certain
 that Europe and America once formed a single continent," but inroads of
 the sea "left a vast island or peninsula stretching from Iceland to the
@@ -745,4 +745,4 @@ Azores--which gradually disappeared." Also he speaks (i. 93) of the
 
 ------------------------------------------------------------------------
 
-[Next: IX. Myth Of The Golden Age](pcc10)
+[Next: IX. Myth Of The Golden Age](pcc10.md)

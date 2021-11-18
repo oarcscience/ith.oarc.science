@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](gto06)  [Next](gto08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](gto06)  [Next](gto08.md) 
 
 ------------------------------------------------------------------------
 
@@ -159,4 +159,4 @@ not daughters alone to my children."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Burning of the Old House](gto08)
+[Next: Chapter III. The Burning of the Old House](gto08.md)

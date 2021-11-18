@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sce11)  [Next](sce13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sce11)  [Next](sce13.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ wandring Tribes; and many of theƒe ƒuperƒtitious People will not be ƒeen
 in Church againe till the nixt Quarter begin, as if no Duty were to be
 learned or done by them, but all the Uƒe of Worƒhip and Sermons were to
 ƒave them from theƒe Arrows that fly in the Dark. <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 THEY are diƒtributed in Tribes and Orders, and have Children, Nurƒes,
 Mariages, Deaths, and Burialls, in appearance, even as we, (unleƒs they
@@ -43,9 +43,9 @@ Mariages, Deaths, and Burialls, in appearance, even as we, (unleƒs they
 
 ### Footnotes
 
-<span id="fn_29"></span>[8:1](sce12.htm#fr_29) Note
-( [a1](sce29.htm#xref_a1)), [p. 86](sce29.htm#page_86).
+<span id="fn_29"></span>[8:1](sce12.htm#fr_29.md) Note
+( [a1](sce29.htm#xref_a1)), [p. 86](sce29.htm#page_86.md).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3](sce13)
+[Next: Chapter 3](sce13.md)

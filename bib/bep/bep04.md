@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](bep03)  [Next](bep05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](bep03)  [Next](bep05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0913510017/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Enoch the Prophet*, tr. by Richard Laurence, \[1883\], at
 Intangible Textual Heritage
 
@@ -20,8 +20,8 @@ Intangible Textual Heritage
 ### CHAP. XLI.
 
 1\. After this I beheld the secrets of the heavens and of
-paradise, <span id="fr_86"></span>[3](#fn_85) according to its
-divisions; and of human action, <span id="fr_87"></span>[4](#fn_86) as
+paradise, <span id="fr_86"></span>[3](#fn_85.md) according to its
+divisions; and of human action, <span id="fr_87"></span>[4](#fn_86.md) as
 they weigh it there in balances.
 
 <span id="page_46">p. 46</span>
@@ -38,23 +38,23 @@ blow over the earth: the secrets of the winds, of the dew, and of the
 clouds. There I perceived the place from which they issued forth, and
 became saturated with the dust of the earth.
 
-3\. There I saw the wooden <span id="fr_88"></span>[1](#fn_87)
+3\. There I saw the wooden <span id="fr_88"></span>[1](#fn_87.md)
 receptacles out of which the winds became separated, the receptacle of
 hail, the receptacle of snow, the receptacle of the clouds, and the
 cloud itself, *which* continued over the earth before *the creation* of
 the world.
 
 4\. I beheld also the receptacles of the moon, whence the moons <span
-id="fr_89"></span>[2](#fn_88) came, whither they proceeded, their
+id="fr_89"></span>[2](#fn_88.md) came, whither they proceeded, their
 glorious return, and how one became more splendid than another. I
 *marked* their rich progress, their unchangeable progress, their
 disunited and undiminished progress; their observance of a mutual
-fidelity by a stable oath <span id="fr_90"></span>[3](#fn_89); their
+fidelity by a stable oath <span id="fr_90"></span>[3](#fn_89.md); their
 proceeding forth before the sun, and their adherence to the
 
 <span id="page_47">p. 47</span>
 
-path *allotted* them, <span id="fr_91"></span>[1](#fn_90) in obedience
+path *allotted* them, <span id="fr_91"></span>[1](#fn_90.md) in obedience
 to the command of the Lord of spirits. Potent is his name for ever and
 for ever.
 
@@ -99,7 +99,7 @@ among them, as rain in the desert, and as a dew in a thirsty land.
 he called them all by their respective names, and that they heard. In a
 righteous balance I saw that he weighed out with their light the
 amplitude of their places, and the day of their appearance, <span
-id="fr_92"></span>[1](#fn_91) and their conversion. Splendour produced
+id="fr_92"></span>[1](#fn_91.md) and their conversion. Splendour produced
 splendour; and their conversion *was* into the number of the angels, and
 of the faithful.
 
@@ -120,10 +120,10 @@ stars, and becomes splendour; being incapable of forsaking them.
 
 <span class="margnote"><span id="an_XLV">XLV</span></span>
 
-### CHAP. XLV. \[SECT. VII. <span id="fr_93"></span>[1](#fn_92)\]
+### CHAP. XLV. \[SECT. VII. <span id="fr_93"></span>[1](#fn_92.md)\]
 
 1\. Parable the second, respecting these who deny <span
-id="fr_94"></span>[2](#fn_93) the name of the habitation of the holy
+id="fr_94"></span>[2](#fn_93.md) the name of the habitation of the holy
 ones, and of the Lord of spirits.
 
 2\. Heaven they shall not ascend, nor shall they come on the earth. This
@@ -146,8 +146,8 @@ ever.
 5\. I will also change *the face of* the earth; will bless it; and cause
 those whom I have elected to dwell upon it. But those who have committed
 sin and iniquity shall not inhabit it, <span
-id="fr_95"></span>[1](#fn_94) for I have marked their proceedings. <span
-id="fr_96"></span>[2](#fn_95) My righteous ones will I satisfy with
+id="fr_95"></span>[1](#fn_94.md) for I have marked their proceedings. <span
+id="fr_96"></span>[2](#fn_95.md) My righteous ones will I satisfy with
 peace, placing them before me; but the condemnation of sinners shall
 draw near, that I may destroy them from the face of the earth.
 
@@ -156,10 +156,10 @@ draw near, that I may destroy them from the face of the earth.
 ### CHAP. XLVI.
 
 1\. There I beheld the Ancient of days, <span
-id="fr_97"></span>[3](#fn_96) whose head was like white wool, and with
+id="fr_97"></span>[3](#fn_96.md) whose head was like white wool, and with
 him another, whose countenance resembled that of man. His countenance
 was full of grace, like *that of* one of the holy angels. Then I
-inquired of one of the angels, <span id="fr_98"></span>[4](#fn_97) who
+inquired of one of the angels, <span id="fr_98"></span>[4](#fn_97.md) who
 went with me, and who showed me every secret thing, concerning this Son
 of man; who he was; whence he was; and why he accompanied the Ancient of
 days.
@@ -171,7 +171,7 @@ spirits has chosen him; and his portion has
 
 <span id="page_51">p. 51</span>
 
-surpassed <span id="fr_99"></span>[1](#fn_98) all before the Lord of
+surpassed <span id="fr_99"></span>[1](#fn_98.md) all before the Lord of
 spirits in everlasting uprightness.
 
 3\. This Son of man, whom thou beholdest, shall raise up kings and the
@@ -181,7 +181,7 @@ sinners.
 
 4\. He shall hurl kings from their thrones and their dominions; because
 they will not exalt and praise him, nor humble themselves *before him*,
-by whom <span id="fr_100"></span>[2](#fn_99) their kingdoms were granted
+by whom <span id="fr_100"></span>[2](#fn_99.md) their kingdoms were granted
 to them. The countenance likewise of the mighty shall He cast down,
 filling them with confusion. Darkness shall be their habitation, and
 worms shall be their bed; nor from *that* their bed shall they hope to
@@ -222,7 +222,7 @@ presence, and *while* all the powers which were above the heavens stood
 around and before him.
 
 4\. Then were the hearts of the saints full of joy, because the
-consummation <span id="fr_101"></span>[1](#fn_100) of righteousness was
+consummation <span id="fr_101"></span>[1](#fn_100.md) of righteousness was
 arrived, the supplication of the saints heard, and the blood of the
 righteous appreciated by the Lord of spirits.
 
@@ -264,18 +264,18 @@ name of the Lord of spirits.
 7\. For in his name shall they be preserved; and his will shall be their
 life. In those days shall the kings of the earth and the mighty men, who
 have gained the world by their achievements, <span
-id="fr_102"></span>[1](#fn_101) become humble in countenance.
+id="fr_102"></span>[1](#fn_101.md) become humble in countenance.
 
 8\. For in the day of their anxiety and trouble their souls shall not be
 saved; and they shall be in subjection to <span
-id="fr_103"></span>[2](#fn_102) those whom I have chosen.
+id="fr_103"></span>[2](#fn_102.md) those whom I have chosen.
 
 9\. I will cast them like hay into the fire, and like lead into the
 water. Thus shall they burn in the presence of the righteous, and sink
 in the presence of the holy; nor shall a tenth part of them be found.
 
 10\. But in the day of their trouble, the world shall obtain
-tranquillity. <span id="fr_104"></span>[3](#fn_103)
+tranquillity. <span id="fr_104"></span>[3](#fn_103.md)
 
 11\. In his presence shall they fall, and not be raised up again; nor
 shall there be any one to take them out of his hands, and to lift them
@@ -286,7 +286,7 @@ of the Lord of spirits shall be blessed.
 
 <span class="margnote"><span id="an_XLVIIIb">XLVIIIb</span></span>
 
-### CHAP. XLVIII. <span id="fr_105"></span>[1](#fn_104)
+### CHAP. XLVIII. <span id="fr_105"></span>[1](#fn_104.md)
 
 1\. Wisdom is poured forth like water, and glory fails not before him
 for ever and ever; for potent is he in all the secrets of righteousness.
@@ -347,14 +347,14 @@ the Lord of spirits has gifted and glorified him.
 <span id="page_57">p. 57</span>
 
 4\. In those days the mountains shall skip like rams, and the hills
-shall leap like young sheep <span id="fr_106"></span>[1](#fn_105)
+shall leap like young sheep <span id="fr_106"></span>[1](#fn_105.md)
 satiated with milk; and all *the righteous* shall become angels in
 heaven.
 
 5\. Their countenance shall be bright with joy; for in those days shall
 the Elect One be exalted. The earth shall rejoice; the righteous shall
 inhabit it, and the elect possess it. <span
-id="fr_107"></span>[2](#fn_106)
+id="fr_107"></span>[2](#fn_106.md)
 
 <span class="margnote"><span id="an_LI">LI</span></span>
 
@@ -365,7 +365,7 @@ I was snatched up in a whirlwind, and carried off westwards.
 
 2\. There my eyes beheld the secrets of heaven, and all which existed on
 earth; a mountain of iron, a mountain of copper, <span
-id="fr_108"></span>[3](#fn_107) a mountain of silver, a mountain of
+id="fr_108"></span>[3](#fn_107.md) a mountain of silver, a mountain of
 gold, a mountain of fluid metal, and a mountain of lead.
 
 3\. And I inquired of the angel who went with me, saying, What are these
@@ -389,7 +389,7 @@ shall be like a honeycomb before the fire, and like water descending
 from above upon these mountains; and shall become debilitated before his
 feet.
 
-6\. In those days men <span id="fr_109"></span>[1](#fn_108) shall not be
+6\. In those days men <span id="fr_109"></span>[1](#fn_108.md) shall not be
 saved by gold and by silver.
 
 7\. Nor shall they have it in their power to secure themselves, and to
@@ -426,7 +426,7 @@ preparing every instrument of Satan.
 whom those instruments were preparing.
 
 5\. He said, These they are preparing for the kings and powerful ones of
-the earth, that thus <span id="fr_110"></span>[1](#fn_109) they may
+the earth, that thus <span id="fr_110"></span>[1](#fn_109.md) they may
 perish.
 
 6\. After which the righteous and chosen house of his congregation shall
@@ -448,7 +448,7 @@ I beheld a deep valley burning with fire.
 2\. To this valley they brought monarchs and the mighty.
 
 3\. And there my eyes beheld the instruments which they were making,
-fetters of iron without weight. <span id="fr_111"></span>[1](#fn_110)
+fetters of iron without weight. <span id="fr_111"></span>[1](#fn_110.md)
 
 4\. Then I inquired of the angel of peace, who proceeded with me,
 saying, For whom are these fetters and instruments prepared?
@@ -475,10 +475,10 @@ the fountains likewise, which are under the heavens and under the earth.
 mixed together.
 
 9\. The water which is above heaven shall be the agent; <span
-id="fr_112"></span>[1](#fn_111)
+id="fr_112"></span>[1](#fn_111.md)
 
 10\. And the water which is under the earth shall be the recipient <span
-id="fr_113"></span>[2](#fn_112): and all shall be destroyed who dwell
+id="fr_113"></span>[2](#fn_112.md): and all shall be destroyed who dwell
 upon earth, and who dwell under the extremities of heaven.
 
 11\. By these means shall they understand the iniquity which they have
@@ -495,8 +495,8 @@ destroyed all the inhabitants of the earth.
 act thus towards all those who dwell upon earth.
 
 3\. But I will place a sign in the heavens; <span
-id="fr_114"></span>[3](#fn_113) and it shall be a faithful witness <span
-id="fr_115"></span>[4](#fn_114) between me and them
+id="fr_114"></span>[3](#fn_113.md) and it shall be a faithful witness <span
+id="fr_115"></span>[4](#fn_114.md) between me and them
 
 <span id="page_62">p. 62</span>
 
@@ -555,7 +555,7 @@ face of the elect.
 them.
 
 2\. And they came upon the wind from the east, from the west, and from
-the south. <span id="fr_116"></span>[1](#fn_115)
+the south. <span id="fr_116"></span>[1](#fn_115.md)
 
 <span id="page_64">p. 64</span>
 
@@ -572,7 +572,7 @@ of heaven at the same time.
 
 <span class="margnote"><span id="an_LVI">LVI</span></span>
 
-### CHAP. LVI. \[SECT. IX. <span id="fr_117"></span>[1](#fn_116)\]
+### CHAP. LVI. \[SECT. IX. <span id="fr_117"></span>[1](#fn_116.md)\]
 
 1\. I now began to utter the third parable, concerning the saints and
 the elect.
@@ -593,7 +593,7 @@ of righteousness, the portion
 
 of faith; for like the sun has it arisen upon the earth, while darkness
 has passed away. There shall be light interminable: <span
-id="fr_118"></span>[1](#fn_117) nor shall they enter upon the
+id="fr_118"></span>[1](#fn_117.md) nor shall they enter upon the
 enumeration of time; for darkness shall be previously destroyed, and
 light shall increase before the Lord of spirits; before the Lord of
 spirits shall the light of uprightness increase for ever.
@@ -609,7 +609,7 @@ splendours, and the judgment belonging to them.
 of the Lord of spirits.
 
 3\. And there I saw the secrets of the thunder, when it rattles <span
-id="fr_119"></span>[2](#fn_118) above in heaven, and its sound is heard.
+id="fr_119"></span>[2](#fn_118.md) above in heaven, and its sound is heard.
 
 4\. The habitations also of the earth were shown to me. The sound of the
 thunder is for peace and for blessing, as well as for a curse, according
@@ -622,7 +622,7 @@ seen by me. For blessing and for fertility they lighten.
 
 <span class="margnote"><span id="an_LVIII">LVIII</span></span>
 
-### CHAP. LVIII. <span id="fr_120"></span>[1](#fn_119) \[SECT. X. <span id="fr_121"></span>[2](#fn_120)\]
+### CHAP. LVIII. <span id="fr_120"></span>[1](#fn_119) \[SECT. X. <span id="fr_121"></span>[2](#fn_120.md)\]
 
 1\. In the five hundredth year, and in the seventh month, on the
 fourteenth *day* of the month, of the lifetime of Enoch, in that
@@ -676,7 +676,7 @@ depths of the sea, and one in the dry desert.
 11\. And he said, Thou, son of man, art here desirous of understanding
 secret things.
 
-12. <span id="fr_122"></span>[1](#fn_121) And the angel of peace, who
+12. <span id="fr_122"></span>[1](#fn_121.md) And the angel of peace, who
 was with me,
 
 <span id="page_68">p. 68</span>
@@ -716,7 +716,7 @@ respective names;
 
 6\. *That* every division is divided; that the lightning flashes;
 
-7\. That its troops <span id="fr_123"></span>[1](#fn_122) immediately
+7\. That its troops <span id="fr_123"></span>[1](#fn_122.md) immediately
 obey; and that a cessation takes place during thunder in continuance of
 its sound. Nor are the thunder and the lightning separated; neither do
 both of them move with one spirit; yet are they not separated.
@@ -724,13 +724,13 @@ both of them move with one spirit; yet are they not separated.
 8\. For when the lightning lightens, the thunder sounds, and the spirit
 at a proper period pauses, making an equal division between them; for
 the receptacle, upon which their periods depend, is *loose* as
-sand. <span id="fr_124"></span>[2](#fn_123) Each of them at a proper
+sand. <span id="fr_124"></span>[2](#fn_123.md) Each of them at a proper
 season is restrained with a bridle; and turned by the power of the
 spirit, which thus propels *them* according to the spacious extent of
 the earth.
 
 9\. The spirit likewise of the sea is potent and strong; and as a strong
-power causes it to ebb, <span id="fr_125"></span>[3](#fn_124) so is it
+power causes it to ebb, <span id="fr_125"></span>[3](#fn_124.md) so is it
 driven forwards, and scattered against the mountains of the earth. The
 spirit of the frost has its angel; in the spirit of hail there is a good
 angel; the spirit of snow ceases in its strength, and a solitary spirit
@@ -758,10 +758,10 @@ ground, because *they afford* nourishment to the earth from the Most
 High, who is in heaven.
 
 14\. Upon this account therefore there is a regulation in the quantity
-of rain, <span id="fr_126"></span>[1](#fn_125) which the angels receive.
+of rain, <span id="fr_126"></span>[1](#fn_125.md) which the angels receive.
 
 15\. These things I saw; all of them, even paradise. <span
-id="fr_127"></span>[2](#fn_126)
+id="fr_127"></span>[2](#fn_126.md)
 
 <span class="margnote"><span id="an_LX">LX</span></span>
 
@@ -779,7 +779,7 @@ forth to measure.
 
 3\. The angel, who proceeded with me, said, These are the measures of
 the righteous; and cords shall the righteous bring, that they may trust
-in <span id="fr_128"></span>[1](#fn_127) the name of the Lord of spirits
+in <span id="fr_128"></span>[1](#fn_127.md) the name of the Lord of spirits
 for ever and ever.
 
 4\. The elect shall begin to dwell with the elect.
@@ -792,7 +792,7 @@ earth.
 
 7\. And *it shall be*, that those who have been destroyed in the desert,
 and who have been devoured by the fish of the sea, and by wild beasts,
-shall return, and trust in <span id="fr_129"></span>[1](#fn_127) the day
+shall return, and trust in <span id="fr_129"></span>[1](#fn_127.md) the day
 of the Elect One; for none shall perish in the presence of the Lord of
 spirits, nor shall any be capable of perishing.
 
@@ -837,7 +837,7 @@ blessing, glorifying, exalting, and praising thy holy name; and every
 
 <span id="page_73">p. 73</span>
 
-mortal man, <span id="fr_130"></span>[1](#fn_128) more than the powers
+mortal man, <span id="fr_130"></span>[1](#fn_128.md) more than the powers
 *of heaven*, shall glorify and bless thy name for ever and ever.
 
 16\. For great is the mercy of the Lord of spirits; long-suffering is
@@ -849,124 +849,124 @@ the Lord of spirits.
 
 ### Footnotes
 
-<span id="fn_85"></span>[45:3](bep04.htm#fr_86) *the kingdom* or
+<span id="fn_85"></span>[45:3](bep04.htm#fr_86.md) *the kingdom* or
 *paradise*.
 
-<span id="fn_86"></span>[45:4](bep04.htm#fr_87) *the work* or *labour of
+<span id="fn_86"></span>[45:4](bep04.htm#fr_87.md) *the work* or *labour of
 man*.
 
-<span id="fn_87"></span>[46:1](bep04.htm#fr_88) *of woods*.
+<span id="fn_87"></span>[46:1](bep04.htm#fr_88.md) *of woods*.
 
-<span id="fn_88"></span>[46:2](bep04.htm#fr_89) *they*.
+<span id="fn_88"></span>[46:2](bep04.htm#fr_89.md) *they*.
 
-<span id="fn_89"></span>[46:3](bep04.htm#fr_90) *by an oath to which
+<span id="fn_89"></span>[46:3](bep04.htm#fr_90.md) *by an oath to which
 they adhered*.
 
-<span id="fn_90"></span>[47:1](bep04.htm#fr_91) *to their path*.
+<span id="fn_90"></span>[47:1](bep04.htm#fr_91.md) *to their path*.
 
-<span id="fn_91"></span>[48:1](bep04.htm#fr_92) *of their existing*.
+<span id="fn_91"></span>[48:1](bep04.htm#fr_92.md) *of their existing*.
 
-<span id="fn_92"></span>[49:1](bep04.htm#fr_93) In the Paris MS. it is
+<span id="fn_92"></span>[49:1](bep04.htm#fr_93.md) In the Paris MS. it is
 section viii. In the Bodleian MS. section vii.
 
-<span id="fn_93"></span>[49:2](bep04.htm#fr_94) In the Bodleian MS.
+<span id="fn_93"></span>[49:2](bep04.htm#fr_94.md) In the Bodleian MS.
 there seems here an evident omission. This omission is supplied in the
 Paris MS. I have followed the latter.
 
-<span id="fn_94"></span>[50:1](bep04.htm#fr_95) *tread upon it*.
+<span id="fn_94"></span>[50:1](bep04.htm#fr_95.md) *tread upon it*.
 
-<span id="fn_95"></span>[50:2](bep04.htm#fr_96) *for I have seen them*.
+<span id="fn_95"></span>[50:2](bep04.htm#fr_96.md) *for I have seen them*.
 
-<span id="fn_96"></span>[50:3](bep04.htm#fr_97) *The Chief* or *Head of
+<span id="fn_96"></span>[50:3](bep04.htm#fr_97.md) *The Chief* or *Head of
 days*, Dan. vii. 9.
 
-<span id="fn_97"></span>[50:4](bep04.htm#fr_98) The words, *Then I
+<span id="fn_97"></span>[50:4](bep04.htm#fr_98.md) The words, *Then I
 inquired of one of the angels*, are omitted in the Bodleian MS. They
 occur in the Paris MS.
 
-<span id="fn_98"></span>[51:1](bep04.htm#fr_99) *conquered*.
+<span id="fn_98"></span>[51:1](bep04.htm#fr_99.md) *conquered*.
 
-<span id="fn_99"></span>[51:2](bep04.htm#fr_100) *from whence*.
+<span id="fn_99"></span>[51:2](bep04.htm#fr_100.md) *from whence*.
 
-<span id="fn_100"></span>[52:1](bep04.htm#fr_101) *the number*.
+<span id="fn_100"></span>[52:1](bep04.htm#fr_101.md) *the number*.
 
-<span id="fn_101"></span>[54:1](bep04.htm#fr_102) *by the work of their
+<span id="fn_101"></span>[54:1](bep04.htm#fr_102.md) *by the work of their
 own hands*.
 
-<span id="fn_102"></span>[54:2](bep04.htm#fr_103) *in the hand of*.
+<span id="fn_102"></span>[54:2](bep04.htm#fr_103.md) *in the hand of*.
 
-<span id="fn_103"></span>[54:3](bep04.htm#fr_104) *rest shall be on
+<span id="fn_103"></span>[54:3](bep04.htm#fr_104.md) *rest shall be on
 earth*.
 
-<span id="fn_104"></span>[55:1](bep04.htm#fr_105) Chap. xlviii. occurs
+<span id="fn_104"></span>[55:1](bep04.htm#fr_105.md) Chap. xlviii. occurs
 twice.
 
-<span id="fn_105"></span>[57:1](bep04.htm#fr_106) Psalm cxiv. 4.
+<span id="fn_105"></span>[57:1](bep04.htm#fr_106.md) Psalm cxiv. 4.
 
-<span id="fn_106"></span>[57:2](bep04.htm#fr_107) *go and walk upon it*.
+<span id="fn_106"></span>[57:2](bep04.htm#fr_107.md) *go and walk upon it*.
 
-<span id="fn_107"></span>[57:3](bep04.htm#fr_108) *nummus minutissimus.
+<span id="fn_107"></span>[57:3](bep04.htm#fr_108.md) *nummus minutissimus.
 Obolus.*
 
-<span id="fn_108"></span>[58:1](bep04.htm#fr_109) *they*.
+<span id="fn_108"></span>[58:1](bep04.htm#fr_109.md) *they*.
 
-<span id="fn_109"></span>[59:1](bep04.htm#fr_110) *by this*.
+<span id="fn_109"></span>[59:1](bep04.htm#fr_110.md) *by this*.
 
-<span id="fn_110"></span>[60:1](bep04.htm#fr_111) *in which there was
+<span id="fn_110"></span>[60:1](bep04.htm#fr_111.md) *in which there was
 not weight*.
 
-<span id="fn_111"></span>[61:1](bep04.htm#fr_112) *male*.
+<span id="fn_111"></span>[61:1](bep04.htm#fr_112.md) *male*.
 
-<span id="fn_112"></span>[61:2](bep04.htm#fr_113) *female*.
+<span id="fn_112"></span>[61:2](bep04.htm#fr_113.md) *female*.
 
-<span id="fn_113"></span>[61:3](bep04.htm#fr_114) Gen. ix. 12. "I do set
+<span id="fn_113"></span>[61:3](bep04.htm#fr_114.md) Gen. ix. 12. "I do set
 my bow in the cloud, and it shall be for a token of a covenant between
 me and the earth."
 
-<span id="fn_114"></span>[61:4](bep04.htm#fr_115) *faith*, or
+<span id="fn_114"></span>[61:4](bep04.htm#fr_115.md) *faith*, or
 *fidelity*.
 
-<span id="fn_115"></span>[63:1](bep04.htm#fr_116) *from the midst of the
+<span id="fn_115"></span>[63:1](bep04.htm#fr_116.md) *from the midst of the
 day*. The army alluded to was probably Roman.
 
-<span id="fn_116"></span>[64:1](bep04.htm#fr_117) Paris MS.
+<span id="fn_116"></span>[64:1](bep04.htm#fr_117.md) Paris MS.
 
-<span id="fn_117"></span>[65:1](bep04.htm#fr_118) *which cannot be
+<span id="fn_117"></span>[65:1](bep04.htm#fr_118.md) *which cannot be
 numbered*.
 
-<span id="fn_118"></span>[65:2](bep04.htm#fr_119) *it is grinding, as in
+<span id="fn_118"></span>[65:2](bep04.htm#fr_119.md) *it is grinding, as in
 a mortar*.
 
-<span id="fn_119"></span>[66:1](bep04.htm#fr_120) There is no chap.
+<span id="fn_119"></span>[66:1](bep04.htm#fr_120.md) There is no chap.
 lviii. in the MS. I have therefore divided chap. lix. into two parts,
 denominating this first part chap. lviii.
 
-<span id="fn_120"></span>[66:2](bep04.htm#fr_121) Paris MS.
+<span id="fn_120"></span>[66:2](bep04.htm#fr_121.md) Paris MS.
 
-<span id="fn_121"></span>[67:1](bep04.htm#fr_122) These last three
+<span id="fn_121"></span>[67:1](bep04.htm#fr_122.md) These last three
 verses, viz. 12, 13, 14, are placed in both MSS. <span id="page_68">p.
 68</span> at the end of chap. lix.; but they so evidently belong to this
 account of the Leviathan and Behemoth, that I have ventured to insert
 them here.
 
-<span id="fn_122"></span>[69:1](bep04.htm#fr_123) *Their host*.
+<span id="fn_122"></span>[69:1](bep04.htm#fr_123.md) *Their host*.
 
-<span id="fn_123"></span>[69:2](bep04.htm#fr_124) *the receptacle of
+<span id="fn_123"></span>[69:2](bep04.htm#fr_124.md) *the receptacle of
 their times is what sand is*.
 
-<span id="fn_124"></span>[69:3](bep04.htm#fr_125) *turns it back with a
+<span id="fn_124"></span>[69:3](bep04.htm#fr_125.md) *turns it back with a
 bridle*.
 
-<span id="fn_125"></span>[70:1](bep04.htm#fr_126) *a measure in the
+<span id="fn_125"></span>[70:1](bep04.htm#fr_126.md) *a measure in the
 rain*.
 
-<span id="fn_126"></span>[70:2](bep04.htm#fr_127) *even to the garden of
+<span id="fn_126"></span>[70:2](bep04.htm#fr_127.md) *even to the garden of
 the righteous*.
 
-<span id="fn_127"></span>[71:1](bep04.htm#fr_129) *lean upon*.
+<span id="fn_127"></span>[71:1](bep04.htm#fr_129.md) *lean upon*.
 
-<span id="fn_128"></span>[73:1](bep04.htm#fr_130) *all of flesh*.
+<span id="fn_128"></span>[73:1](bep04.htm#fr_130.md) *all of flesh*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapters LXI-LXXX](bep05)
+[Next: Chapters LXI-LXXX](bep05.md)

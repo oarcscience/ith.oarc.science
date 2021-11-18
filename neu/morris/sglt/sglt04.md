@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sglt03)  [Next](sglt05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sglt03)  [Next](sglt05.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Story of the Glittering Plain*, by William Morris, \[1891\], at
 Intangible Textual Heritage
 
@@ -76,6 +76,6 @@ abode in peace, awaiting what the change of days might bring them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Now Hallblithe Taketh the Sea](sglt05)
+[Next: Chapter IV. Now Hallblithe Taketh the Sea](sglt05.md)
 
 </div>

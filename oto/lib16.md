@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Sacred texts](../index)  [Thelema](index) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Sacred texts](../index)  [Thelema](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,19 +12,19 @@ Copyright (c) Ordo Templi Orientis
 
 0\. This practice is very difficult. The student cannot hope for much
 success unless he have thoroughly mastered Asana, and obtained much
-definite success in the meditation-practices of [Liber E](lib9) and
-[Liber HHH](lib341).
+definite success in the meditation-practices of [Liber E](lib9.md) and
+[Liber HHH](lib341.md).
 
 On the other hand, any success in this practice is of an exceedingly
 high character, and the student is less liable to illusion and
 self-deception in this than in almost any other that We make known.
 
-\[The meditation-practice in [Liber E](lib9) consisted in the restraint
+\[The meditation-practice in [Liber E](lib9.md) consisted in the restraint
 of the mind to a single predetermined imagined object exterior to the
 student, simple or complex, at rest or in motion: those of [Liber
-HHH](lib341) in causing the mind to pass through a predetermined series
+HHH](lib341.md) in causing the mind to pass through a predetermined series
 of states: the Raja-Yoga of the Hindus is mainly an extension of the
-methods of [Liber E](lib9) to interior objects: the Mahasatipatthana of
+methods of [Liber E](lib9.md) to interior objects: the Mahasatipatthana of
 the Buddhists is primarily an observation and analysis of bodily
 movements. While the present practice differs radically from all of
 these, it is of the greatest advantage to be acquainted practically with

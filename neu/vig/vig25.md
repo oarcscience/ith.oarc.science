@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig24)  [Next](vig26) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig24)  [Next](vig26.md) 
 
 ------------------------------------------------------------------------
 
@@ -126,4 +126,4 @@ enough to set on one man."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIII](vig26)
+[Next: Chapter XXIII](vig26.md)

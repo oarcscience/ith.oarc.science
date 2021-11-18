@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb03)  [Next](boeb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb03)  [Next](boeb05.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_43">p. 43</span>
 
 <span id="img_04300"></span> [![](tn/04300.jpg)  
-Click to enlarge](img/04300.jpg)
+Click to enlarge](img/04300.jpg.md)
 
 <span id="img_04301"></span> ![](img/04301.jpg)
 
@@ -154,4 +154,4 @@ And throughout all the world did flye
 
 ------------------------------------------------------------------------
 
-[Next: King Leir and his Three Daughters](boeb05)
+[Next: King Leir and his Three Daughters](boeb05.md)

@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm32)  [Next](rrm34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm32)  [Next](rrm34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_263">p. 263</span>
 
-<span id="img_26300"></span> ![Templar Banner](img/26300.jpg)  
+<span id="img_26300"></span> ![Templar Banner](img/26300.jpg.md)  
 Templar Banner
 
 ### CHAPTER THE THIRD
@@ -28,7 +28,7 @@ in all Christian
 <span id="img_26301"></span>
 
 [![Fig. 168: Collar of Esses](tn/26301.jpg)  
-Click to enlarge](img/26301.jpg)  
+Click to enlarge](img/26301.jpg.md)  
 Fig. 168: Collar of Esses  
 
 *symbola* or *insignia*. The Prince of Wales's triple plume appears to
@@ -44,7 +44,7 @@ which is the crest of the Prince of Wales;
 <span id="img_26400"></span>
 
 [![Figs. 169-171](tn/26400.jpg)  
-Click to enlarge](img/26400.jpg)  
+Click to enlarge](img/26400.jpg.md)  
 Figs. 169-171  
 
 in this form the Fleur-de-Lis is intended to elude ordinary recognition.
@@ -76,7 +76,7 @@ Temple at Delphi. This, inscription
 <span id="img_26500"></span>
 
 [![Figs. 172, 173](tn/26500.jpg)  
-Click to enlarge](img/26500.jpg)  
+Click to enlarge](img/26500.jpg.md)  
 Figs. 172, 173  
 
 was a single letter, namely, the letter E, the name of which in Greek
@@ -171,7 +171,7 @@ probably from '*Llec*'. From this peculiar cutwater arose the
 Dragon-beak, the 'Prow', or 'Frow', the figurehead and fiddle-head. They
 have all a feminine origin.
 
-<span id="img_26800"></span> ![Fig. 174](img/26800.jpg)
+<span id="img_26800"></span> ![Fig. 174](img/26800.jpg.md)
 
 Fig. 174 represents 'S. Johan' (St., John), from an early woodcut of the
 Twelve Apostles: His right hand is raised in the act of the holy sign,
@@ -263,7 +263,7 @@ bore arms.' By a reference to the foot of the figure, we shall see what
 <span id="img_27100"></span>
 
 [![Fig. 175. a. 'Baron' b. 'Femme'](tn/27100.jpg)  
-Click to enlarge](img/27100.jpg)  
+Click to enlarge](img/27100.jpg.md)  
 Fig. 175. a. 'Baron' b. 'Femme'  
 
 these arms were, and discover male and female resemblances in the shape
@@ -423,7 +423,7 @@ nervous sensitive centre, by election or affinity governed by an
 <span id="img_27600"></span>
 
 [![Figs. 176-179](tn/27600.jpg)  
-Click to enlarge](img/27600.jpg)  
+Click to enlarge](img/27600.jpg.md)  
 Figs. 176-179  
 
 <div align="center">
@@ -466,7 +466,7 @@ and hostility of nature*',
 <span id="img_27700"></span>
 
 [![Figs. 180-185](tn/27700.jpg)  
-Click to enlarge](img/27700.jpg)  
+Click to enlarge](img/27700.jpg.md)  
 Figs. 180-185  
 
 <div align="center">
@@ -496,7 +496,7 @@ derive from the mystic Mercurius
 <span id="img_27800"></span>
 
 [![186-199](tn/27800.jpg)  
-Click to enlarge](img/27800.jpg)  
+Click to enlarge](img/27800.jpg.md)  
 186-199  
 
 <div align="center">
@@ -540,7 +540,7 @@ symbol of the 'Blessed Virgin; it is also the 'Delphic E', or
 <span id="img_27900"></span>
 
 [![Figs. 200-202](tn/27900.jpg)  
-Click to enlarge](img/27900.jpg)  
+Click to enlarge](img/27900.jpg.md)  
 Figs. 200-202  
 
 <div align="center">
@@ -571,4 +571,4 @@ the first Christian centuries.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Rosicrucianism in Strange Symbols](rrm34)
+[Next: Chapter IV: Rosicrucianism in Strange Symbols](rrm34.md)

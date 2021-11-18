@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis50)  [Next](kis52) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis50)  [Next](kis52.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ the tremendous Bull of the Mound outside Crom Duv's Keep.
 
 ------------------------------------------------------------------------
 
-[Next: Part III](kis52)
+[Next: Part III](kis52.md)

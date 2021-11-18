@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos11)  [Next](mos13) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos11)  [Next](mos13.md) 
 
 ------------------------------------------------------------------------
 
@@ -313,4 +313,4 @@ are these miracles and holy phrases that leave no excuse.
 
 ------------------------------------------------------------------------
 
-[Next: The Exit of The Israelites From Egypt to Palestine](mos13)
+[Next: The Exit of The Israelites From Egypt to Palestine](mos13.md)

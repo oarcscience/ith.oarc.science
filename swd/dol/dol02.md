@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dol01)  [Next](dol03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dol01)  [Next](dol03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402179510/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1402179510/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -494,7 +494,7 @@ Word. Consequently neither does he know that adultery is so great an
 evil that it may be called diabolism itself, for he who is in natural
 adultery is also in spiritual adultery, and the converse. That this is
 so will be shown in a separate little work entitled De Conjugio. <span
-id="fr_1"></span>[74-1](#fn_1) But those who from their faith and their
+id="fr_1"></span>[74-1](#fn_1.md) But those who from their faith and their
 life do not regard adulteries as sins, are in adulteries of every kind
 at once.
 
@@ -829,7 +829,7 @@ even I, have seen it, saith Jehovah (Jer. 7:2-4, 9-11).
 
 NO ONE CAN SHUN EVILS AS SINS SO AS TO BE INWARDLY AVERSE TO THEM EXCEPT
 BY MEANS OF COMBATS AGAINST THEM. Everybody knows from the Word and from
-doctrine drawn from it that the Own <span id="fr_2"></span>[92-1](#fn_2)
+doctrine drawn from it that the Own <span id="fr_2"></span>[92-1](#fn_2.md)
 of man is evil from his birth, and that this is the reason why from
 inborn concupiscence he loves evils and is drawn into them. This is why
 he desires to have revenge, and to commit fraud, defamation, and
@@ -946,7 +946,7 @@ temptations (n. 201).
 
 ### Footnotes
 
-<span id="fn_1"></span>[74-1](dol02.htm#fr_1) This projected little work
+<span id="fn_1"></span>[74-1](dol02.htm#fr_1.md) This projected little work
 was afterwards expanded by Swedenborg into a large one, and was
 published by him in Amsterdam in the year 1768, under the (translated)
 title: The Delights of Wisdom concerning Conjugial Love; after which
@@ -956,7 +956,7 @@ of the Royal Academy of Sciences in Stockholm. It was published in the
 original Latin at Tubingen by Dr. Jo. Fr. Im. Tafel in the year 1860.
 \[Tr.\]
 
-<span id="fn_2"></span>[92-1](dol02.htm#fr_2) The Latin word proprium is
+<span id="fn_2"></span>[92-1](dol02.htm#fr_2.md) The Latin word proprium is
 the term used in the original text that in this and other places has
 been rendered by the expression "Own." The dictionary meaning of
 proprius, as an adjective, is "one's own," "proper," "belonging to one's
@@ -972,4 +972,4 @@ answer to the Latin proprium, we effect a very close translation.
 
 ------------------------------------------------------------------------
 
-[Next: 101-150](dol03)
+[Next: 101-150](dol03.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar008) [Next](gbar010)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar008) [Next](gbar010.md)
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ and was subject to them with humility and reverence.
 
 ------------------------------------------------------------------------
 
-[Next](gbar010)
+[Next](gbar010.md)
 
  
 

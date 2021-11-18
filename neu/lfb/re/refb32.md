@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb31)  [Next](refb33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb31)  [Next](refb33.md) 
 
 </div>
 
@@ -155,6 +155,6 @@ could it be got off.\[26\]
 
 ------------------------------------------------------------------------
 
-[Next: Minnikin](refb33)
+[Next: Minnikin](refb33.md)
 
 </div>

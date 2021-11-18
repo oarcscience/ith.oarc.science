@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww07)  [Next](lww09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww07)  [Next](lww09.md) 
 
 ------------------------------------------------------------------------
 
@@ -267,4 +267,4 @@ Adam agreed, and the two men returned to Lesser Hill.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX--Smelling Death](lww09)
+[Next: Chapter IX--Smelling Death](lww09.md)

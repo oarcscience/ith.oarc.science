@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq25)  [Next](sfq27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq25)  [Next](sfq27.md) 
 
 ------------------------------------------------------------------------
 
@@ -101,4 +101,4 @@ little orphan child for the death of his parents.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Sisters](sfq27)
+[Next: The Three Sisters](sfq27.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](phi)  [Next](th1) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](phi)  [Next](th1.md) 
 
 ------------------------------------------------------------------------
 
@@ -358,4 +358,4 @@ anh em. Hãy nhớ về xiềng xích của tôi. Nguyền xin ân điển ở c
 
 ------------------------------------------------------------------------
 
-[Next: 1 Thessalonians](th1)
+[Next: 1 Thessalonians](th1.md)

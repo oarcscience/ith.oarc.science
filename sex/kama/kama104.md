@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama103) 
-[Next](kama105) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama103.md) 
+[Next](kama105.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,9 +26,9 @@ Intangible Textual Heritage
 
 HAVING thus acquired learning, a man, with the wealth that he may have
 gained by gift, conquest, purchase, deposit, <span
-id="fr_9"></span>[1](kama101.htm#fn_0) or inheritance from his
+id="fr_9"></span>[1](kama101.htm#fn_0.md) or inheritance from his
 ancestors, should become a householder, and pass the life of a
-citizen. <span id="fr_10"></span>[2](kama101.htm#fn_1) He should take a
+citizen. <span id="fr_10"></span>[2](kama101.htm#fn_1.md) He should take a
 house in a city, or large village, or in the vicinity of good men, or in
 a place which is the resort of many persons. This abode should be
 situated near some water, and divided into different compartments for
@@ -37,7 +37,7 @@ contain two rooms, an outer and an inner one. The inner room should be
 occupied by the females, while the outer room, balmy with rich perfumes,
 should contain a bed, soft, agreeable to the sight, covered with a clean
 white cloth, low in the middle part, having garlands and bunches of
-flowers <span id="fr_11"></span>[3](kama101.htm#fn_2) upon it, and a
+flowers <span id="fr_11"></span>[3](kama101.htm#fn_2.md) upon it, and a
 canopy above it, and two pillows, one at the top, another at the bottom.
 There should be also a sort of couch besides, and at the head of this a
 sort of stool, on which should be placed the fragrant ointments for the
@@ -50,32 +50,32 @@ containing perfume, some books, and some garlands of the yellow amaranth
 flowers. Not far from the couch, and on the ground, there should be a
 round seat, a toy cart, and a board for playing with dice; outside the
 outer room there should be cages of birds, <span
-id="fr_12"></span>[4](kama102.htm#fn_6) and a separate place for
+id="fr_12"></span>[4](kama102.htm#fn_6.md) and a separate place for
 spinning, carving and such like diversions. In the garden there should
 be a whirling swing and a common swing, as also a bower of creepers
 covered with flowers, in which a raised parterre should be made for
 sitting.
 
 Now the householder, having got up in the morning and performed his
-necessary duties, <span id="fr_13"></span>[5](#fn_13) should wash his
+necessary duties, <span id="fr_13"></span>[5](#fn_13.md) should wash his
 teeth, apply a limited quantity of ointments and perfumes to his body,
 put some ornaments on his person and collyrium on his eyelids and below
 his eyes, colour his lips with alacktaka, <span
-id="fr_14"></span>[6](#fn_14) and look at himself in the glass. Having
+id="fr_14"></span>[6](#fn_14.md) and look at himself in the glass. Having
 then eaten betel leaves, with other things that give fragrance to the
 mouth, he should perform his usual business. He should bathe daily,
 anoint his body with oil every other day, apply a lathering
-substance <span id="fr_15"></span>[7](#fn_15) to his body every three
+substance <span id="fr_15"></span>[7](#fn_15.md) to his body every three
 days, get his head (including face) shaved every four days and the other
 parts of his body every five or ten days. <span
-id="fr_16"></span>[8](#fn_16) All these things should be done without
+id="fr_16"></span>[8](#fn_16.md) All these things should be done without
 fail, and the sweat of the armpits should also be removed. Meals should
 be taken in the forenoon, in the afternoon, and again at night,
 according to Charayana. After breakfast, parrots and other birds should
 be taught to speak, and the fighting of cocks, quails, and rams should
 follow. A limited time should be devoted to diversions with Pithamardas,
-Vitas, and Vidushakas, <span id="fr_17"></span>[9](#fn_17) and then
-should be taken the midday sleep. <span id="fr_18"></span>[10](#fn_18)
+Vitas, and Vidushakas, <span id="fr_17"></span>[9](#fn_17.md) and then
+should be taken the midday sleep. <span id="fr_18"></span>[10](#fn_18.md)
 After this the householder, having put on his clothes and ornaments,
 should, during the afternoon, converse with his friends. In the evening
 there should be singing, and after that the householder, along with his
@@ -88,7 +88,7 @@ a loving and agreeable conversation. Thus end the duties of the day.
 The following are the things to be done occasionally as diversions or
 amusements:
 
--   Holding festivals <span id="fr_19"></span>[11](#fn_19) in honour of
+-   Holding festivals <span id="fr_19"></span>[11](#fn_19.md) in honour of
     different Deities
 -   Social gatherings of both sexes
 -   Drinking parties
@@ -99,7 +99,7 @@ amusements:
 
 On some particular auspicious day, an assembly of citizens should be
 convened in the temple of Saraswati. <span
-id="fr_20"></span>[12](#fn_20) There the skill of singers, and of others
+id="fr_20"></span>[12](#fn_20.md) There the skill of singers, and of others
 who may have come recently to the town, should be tested, and on the
 following day they should always be given some rewards. After that they
 may either be retained or dismissed, according as their performances are
@@ -116,7 +116,7 @@ honour of the different Deities, according to the present rules.
 
 When men of the same age, disposition and talents, fond of the same
 diversions and with the same degree of education, sit together in
-company with public women, <span id="fr_21"></span>[13](#fn_21) or in an
+company with public women, <span id="fr_21"></span>[13](#fn_21.md) or in an
 assembly of citizens, or at the abode of one among themselves, and
 engage in agreeable discourse with each other, such is called a Sitting
 in company or a social gathering. The subjects of discourse are to be
@@ -167,19 +167,19 @@ The above amusements should be followed by a person who diverts himself
 alone in company with a courtesan, as well as by a courtesan who can do
 the same in company with her maid servants or with citizens.
 
-A Pithamarda <span id="fr_22"></span>[14](#fn_22) is a man without
+A Pithamarda <span id="fr_22"></span>[14](#fn_22.md) is a man without
 wealth, alone in the world, whose only property consists of his
-Mallika, <span id="fr_23"></span>[15](#fn_23) some lathering substance
+Mallika, <span id="fr_23"></span>[15](#fn_23.md) some lathering substance
 and a red cloth, who comes from a good country, and who is skilled in
 all the arts; and by teaching these arts is received in the company of
 citizens, and in the abode of public women.
 
-A Vita <span id="fr_24"></span>[16](#fn_24) is a man who has enjoyed the
+A Vita <span id="fr_24"></span>[16](#fn_24.md) is a man who has enjoyed the
 pleasures of fortune, who is a compatriot of the citizens with whom he
 associates, who is possessed of the qualities of a houseliolder, who has
 his wife with him, and who is honoured in the assembly of citizens and
 in the abodes of public women, and lives on their means and on them. A
-Vidushaka <span id="fr_25"></span>[17](#fn_25) (also called a Vaihasaka,
+Vidushaka <span id="fr_25"></span>[17](#fn_25.md) (also called a Vaihasaka,
 i.e. one who provokes laughter) is a person only acquainted with some of
 the arts, who is a jester, and who is trusted by all.
 
@@ -199,7 +199,7 @@ assist one another in the same way.
 There are some verses on this subject as follows:
 
 'A citizen discoursing, not entirely in the Sanscrit language, <span
-id="fr_26"></span>[18](#fn_26) nor wholly in the dialects of the
+id="fr_26"></span>[18](#fn_26.md) nor wholly in the dialects of the
 country, on various topics in society, obtains great respect. The wise
 should not resort to a society disliked by the public, governed by no
 rules, and intent on the destruction of others. But a learned man living
@@ -210,41 +210,41 @@ has pleasure for its only object is highly respected in this world.'
 
 ### Footnotes
 
-<span id="fn_9"></span>[1](#fr_-1) Gift is peculiar to a Brahman,
+<span id="fn_9"></span>[1](#fr_-1.md) Gift is peculiar to a Brahman,
 conquest to a Kshatrya, while purchase, deposit, and other means of
 acquiring wealth belongs to the Vaishya.
 
-<span id="fn_10"></span>[2](#fr_-1) This term would appear to apply
+<span id="fn_10"></span>[2](#fr_-1.md) This term would appear to apply
 generally to an inhabitant of Hindoostan. it is not meant only for a
 dweller in a city, like the Latin Urbanus as opposed to Rusticus.
 
-<span id="fn_11"></span>[3](#fr_-1) Natural garden flowers.
+<span id="fn_11"></span>[3](#fr_-1.md) Natural garden flowers.
 
-<span id="fn_12"></span>[4](#fr_-1) Such as quails, partridges, parrots,
+<span id="fn_12"></span>[4](#fr_-1.md) Such as quails, partridges, parrots,
 starlings, etc.
 
-<span id="fn_13"></span>[5](kama505.htm#fr_63) The calls of nature are
+<span id="fn_13"></span>[5](kama505.htm#fr_63.md) The calls of nature are
 always performed by the Hindoos the first thing in the morning.
 
-<span id="fn_14"></span>[6](kama505.htm#fr_64) A colour made from lac.
+<span id="fn_14"></span>[6](kama505.htm#fr_64.md) A colour made from lac.
 
-<span id="fn_15"></span>[7](kama505.htm#fr_65) This would act instead of
+<span id="fn_15"></span>[7](kama505.htm#fr_65.md) This would act instead of
 soap, which was not introduced until the rule of the Mahomedans.
 
-<span id="fn_16"></span>[8](kama505.htm#fr_66) Ten days are allowed when
+<span id="fn_16"></span>[8](kama505.htm#fr_66.md) Ten days are allowed when
 the hair is taken out with a pair of pincers.
 
-<span id="fn_17"></span>[9](kama104.htm#fr_17) These are characters
+<span id="fn_17"></span>[9](kama104.htm#fr_17.md) These are characters
 generally introduced in the Hindoo drama; their characteristics will be
 explained further on.
 
-<span id="fn_18"></span>[10](kama104.htm#fr_18) Noonday sleep is only
+<span id="fn_18"></span>[10](kama104.htm#fr_18.md) Noonday sleep is only
 allowed in summer, when the nights are short.
 
-<span id="fn_19"></span>[11](kama104.htm#fr_19) These are very common in
+<span id="fn_19"></span>[11](kama104.htm#fr_19.md) These are very common in
 all parts of India.
 
-<span id="fn_20"></span>[12](kama104.htm#fr_20) In the 'Asiatic
+<span id="fn_20"></span>[12](kama104.htm#fr_20.md) In the 'Asiatic
 Miscellany', and in Sir W. Jones's works, will be found a spirited hymn
 addressed to this goddess, who is adored as the patroness of the fine
 arts, especially of music and rhetoric, as the inventress of the
@@ -252,7 +252,7 @@ Sanscrit language, etc. etc. She is the goddess of harmony, eloquence
 and language, and is somewhat analogous to Minerva. For farther
 information about her, see Edward Moor's Hindoo Pantheon.
 
-<span id="fn_21"></span>[13](kama104.htm#fr_21) The public women, or
+<span id="fn_21"></span>[13](kama104.htm#fr_21.md) The public women, or
 courtesans (Vesya), of the early Hindoos have often been compared with
 the Hetera of the Greeks. The subject is dealt with at some length in H.
 H. Wilson's Select Specimens of the Theatre of the Hindoos, in two
@@ -267,20 +267,20 @@ wedded females into society, and opening it only at the expense of
 reputation to women who were trained for association with men by
 personal and mental acquirements to which the matron was a stranger.'
 
-<span id="fn_22"></span>[14](kama104.htm#fr_22) According to this
+<span id="fn_22"></span>[14](kama104.htm#fr_22.md) According to this
 description a Pithamarda would be a sort of professor of all the arts,
 and as such received as the friend and confidant of the citizen
 
-<span id="fn_23"></span>[15](kama104.htm#fr_23) A seat in the form of
+<span id="fn_23"></span>[15](kama104.htm#fr_23.md) A seat in the form of
 the letter T.
 
-<span id="fn_24"></span>[16](kama104.htm#fr_24) The Vita is supposed to
+<span id="fn_24"></span>[16](kama104.htm#fr_24.md) The Vita is supposed to
 represent somewhat the character of the Parasite of the Greek comedy. It
 is possible that he was retained about the person of the wealthy and
 dissipated as a kind of private instructor, as well as an entertaining
 companion.
 
-<span id="fn_25"></span>[17](kama104.htm#fr_25) Vidushaka is evidently
+<span id="fn_25"></span>[17](kama104.htm#fr_25.md) Vidushaka is evidently
 the buffoon and jester. Wilson says of him that he is the humble
 companion, not the servant, of a prince or man of rank, and it is a
 curious peculiarity that he is always a Brahman. He bears more affinity
@@ -292,7 +292,7 @@ ingenuity, and occasionally suffers by his interference. According to
 the technical definition of his attributes he is to excite mirth by
 being ridiculous in person, age, and attire.
 
-<span id="fn_26"></span>[18](kama104.htm#fr_26) This means, it is
+<span id="fn_26"></span>[18](kama104.htm#fr_26.md) This means, it is
 presumed, that the citizen should be acquainted with several languages.
 The middle part of this paragraph might apply to the Nihilists and
 Fenians of the day, or to secret societies. It was perhaps a reference
@@ -301,4 +301,4 @@ to the Thugs.
 ------------------------------------------------------------------------
 
 [Next: Chapter V. About Classes of Women Fit and Unfit for Congress with
-the Citizen, and of Friends, and Messengers](kama105)
+the Citizen, and of Friends, and Messengers](kama105.md)

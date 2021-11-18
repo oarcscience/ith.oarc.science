@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc064) 
-[Next](motc066) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc064.md) 
+[Next](motc066.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ for the feather he found a stone instead.
 
 ------------------------------------------------------------------------
 
-[Next: 66. U\`tlûñ'ta, The Spear-finger](motc066)
+[Next: 66. U\`tlûñ'ta, The Spear-finger](motc066.md)

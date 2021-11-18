@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](moq00)    [Page
-Index](pageidx)    [Text \[Zipped\]](moqtxt.zip)
+[Contents](#contents)    [Start Reading](moq00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](moqtxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Index](pageidx)    [Text \[Zipped\]](moqtxt.zip)
 | <img src="https://rcm-images.amazon.com/images/G/01/rcm/120x240.gif" width="120" height="240" alt="Shop at Amazon.com" /> |
 
 This is the second book on the Kabbalah by Elias Gewurz, the other being
-[Hidden Treasures of the Ancient Qabalah](../htaq/index). Written from a
+[Hidden Treasures of the Ancient Qabalah](../htaq/index.md). Written from a
 Theosophical viewpoint, this thin volume has a lot more Kabbalah content
 than the previous one. Gewurz explains 'signatures' of each Hebrew
 letter, the use of techniques such as permutation and numerology to find
@@ -43,29 +43,29 @@ deeper meaning in the sacred writings, and the history and bibliography
 of Jewish mysticism. Although, strictly speaking, this is uncredited,
 the title page mentions 'E.G.' and most library catalogs list this as
 attributed to Gewurz. Furthermore Gewurz is mentioned by name in a
-footnote on [page 31](moq07.htm#fn_1). This joins the other books
+footnote on [page 31](moq07.htm#fn_1.md). This joins the other books
 published by Yogi Publications under an opaque, and unverified, byline.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](moq00)  
-[Contents](moq01)  
-[Dedication](moq02)  
+<span id="contents"></span> [Title Page](moq00.md)  
+[Contents](moq01.md)  
+[Dedication](moq02.md)  
 <span id="section_000"></span>
 
 ### Part I
 
-[The Hieroglyphical Interpretation of the Hebrew Alphabet](moq03)  
-[Explanatory Note on the Letters](moq04)  
-[The Qabalistic Definition of the Snake Nachash](moq05)  
-[The Brotherhood of the White Lodge](moq06)  
+[The Hieroglyphical Interpretation of the Hebrew Alphabet](moq03.md)  
+[Explanatory Note on the Letters](moq04.md)  
+[The Qabalistic Definition of the Snake Nachash](moq05.md)  
+[The Brotherhood of the White Lodge](moq06.md)  
 [Initiation according to the Qabalah, from a Scientific and
-Philosophical Point of View](moq07)  
+Philosophical Point of View](moq07.md)  
 <span id="section_001"></span>
 
 ### Part II. The Mysteries of the Qabalah
 
-[Chapter I. The Qabalah](moq08)  
-[Chapter II. The Soul of the Qabalah](moq09)  
-[Chapter III. Examples of Permutation and Numerical Valuation](moq10)  
-[The Literature of the Qabalah Throughout the Ages](moq11)  
+[Chapter I. The Qabalah](moq08.md)  
+[Chapter II. The Soul of the Qabalah](moq09.md)  
+[Chapter III. Examples of Permutation and Numerical Valuation](moq10.md)  
+[The Literature of the Qabalah Throughout the Ages](moq11.md)  

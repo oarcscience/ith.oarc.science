@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](wscs36) 
-[Next](wscs38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](wscs36.md) 
+[Next](wscs38.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/093281395X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -1654,7 +1654,7 @@ lessons, so sublime and so pure." "He was recognized as the 'Divine
 Word."' "He received the title of Jeseus, which means pure Essense."
 Chrishna signifies the "Promised of God," the "Messiah." "When he
 preached, he often spoke from a mount. He also spoke in parables.
-'Parable plays a great part in the [familiar](errata.htm#9) instructions
+'Parable plays a great part in the [familiar](errata.htm#9.md) instructions
 of this Hindoo Redeemer.'" He relates a very interesting parable of a
 fisherman who was much persecuted by his neighbors, but who in the time
 of a severe famine, when the people were suffering and dying for the
@@ -1805,4 +1805,4 @@ ancient faith. Vishnuism appears to have finally centered in Buddhism.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXIII: Apollonius, Osiris, Magus, Etc.—Gods](wscs38)
+[Next: Chapter XXXIII: Apollonius, Osiris, Magus, Etc.—Gods](wscs38.md)

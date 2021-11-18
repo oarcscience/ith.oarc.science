@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap13) 
-[Next](bap15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap13.md) 
+[Next](bap15.md) 
 
 ------------------------------------------------------------------------
 
@@ -254,4 +254,4 @@ the Bible, namely, Kenaz.
 
 ------------------------------------------------------------------------
 
-[Next: Additional Note](bap15)
+[Next: Additional Note](bap15.md)

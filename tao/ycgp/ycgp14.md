@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp13) [Next](ycgp15)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp13) [Next](ycgp15.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ who accomplishes great deeds does no small ones. That was my meaning."
 
 ------------------------------------------------------------------------
 
-[Next](ycgp15)
+[Next](ycgp15.md)
 
  
 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe07)  [Next](spe09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe07)  [Next](spe09.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,14 +46,14 @@ that it was in common use throughout the British Isles for many
 centuries before the advent of the Romans. Vast numbers of flint arrow
 heads have been found throughout England, particularly on the wolds of
 Yorkshire and the moors of Derbyshire. <span
-id="fr_226"></span>[1](#fn_226)
+id="fr_226"></span>[1](#fn_226.md)
 
 THE BOW KNOWN TO THE ANGLO-SAXONS AND DANES.--The Anglo-Saxons, and the
 Danes, were certainly well acquainted with the use of the bow; a
 knowledge they derived at an early period from their progenitors. The
 Scandinavian scalds, speaking in praise of the heroes of their country,
 frequently add to the rest of their acquirements a superiority of skill
-in handling of the bow. <span id="fr_227"></span>[2](#fn_227) Offrid,
+in handling of the bow. <span id="fr_227"></span>[2](#fn_227.md) Offrid,
 son of Edwin, king of Northumberland, was killed by an arrow in a battle
 which was fought near Hatfield, Yorkshire, about the year 633. Polydore
 
@@ -65,7 +65,7 @@ Angles, was shot to death with arrows by the Danes.
 
 FORM OF THE SAXON Bow.--Representations of the bow occur frequently in
 the Saxon manuscripts; and from one of them in the Cotton Library,
-written about the tenth century, <span id="fr_228"></span>[1](#fn_228) I
+written about the tenth century, <span id="fr_228"></span>[1](#fn_228.md) I
 have selected two archers, who are figured on the fifth plate. The one
 accompanied by his dog, is in search of the wild deer; the other has no
 companion, but is depicted in the act of shooting at a bird; and from
@@ -89,7 +89,7 @@ period of the Norman Conquest, though apparently at that time used by
 them but little in warfare. There is only one English archer represented
 on the historic Bayeux embroidery, whilst the credit of William's
 victory was mainly due to the archers of Louviers and Evreux. <span
-id="fr_229"></span>[2](#fn_229) Of the Conqueror it was recorded, as of
+id="fr_229"></span>[2](#fn_229.md) Of the Conqueror it was recorded, as of
 Ulysses, that no man could bend his bow. The Normans speedily
 popularised the general use of a weapon, with which they were such
 adepts, throughout England, both for the chase and amusement, as well as
@@ -109,7 +109,7 @@ ARCHERY PRACTISED BY LADIES.--The ladies were also fond of this
 amusement, and by a previous representation on the second plate, from an
 original drawing in a manuscript of the fourteenth century, we see it
 practised by one who has shot at a deer, and wounded it with great
-adroitness; and in another previous engraving ([plate five](#img_pl05))
+adroitness; and in another previous engraving ([plate five](#img_pl05).md)
 the hunting equipments of the female archers about the middle of the
 fifteenth century are represented.
 
@@ -118,7 +118,7 @@ fifteenth century are represented.
 <span id="img_pl05"></span>
 
 [![Archery and Slinging](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 Archery and Slinging  
 
  
@@ -130,10 +130,10 @@ confined by large inclosures, surrounded by the hunters, and driven in
 succession from the covers to the stands, where the fair sportswomen
 were placed; so that they might readily shoot at them, without the
 trouble and fatigue of rousing and pursuing them. <span
-id="fr_230"></span>[1](#fn_230) It is said of Margaret, the daughter of
+id="fr_230"></span>[1](#fn_230.md) It is said of Margaret, the daughter of
 Henry VII., that when she was on her way towards Scotland, a hunting
 party was made for her amusement in Alnwick Park, where she killed a
-buck with an arrow. <span id="fr_231"></span>[2](#fn_231) It is not
+buck with an arrow. <span id="fr_231"></span>[2](#fn_231.md) It is not
 specified whether the long-bow or the cross-bow was used by the princess
 upon this occasion; we are certain that the ladies occasionally shot
 with both, for when queen Elizabeth visited lord Montecute at Cowdrey,
@@ -143,7 +143,7 @@ delicate bowre prepared, under the which were her highness musicians
 placed; and a cross-bow, by a nymph, with a sweet song, was delivered
 into her hands, to shoote at the deere; about some thirty in number were
 put into a paddock, of which number she killed three or four, and the
-Countess of Kildare one." <span id="fr_232"></span>[3](#fn_232)
+Countess of Kildare one." <span id="fr_232"></span>[3](#fn_232.md)
 
 THE CROSS-Bow.--The arbalist, or cross-bow, which was much shorter than
 the long-bow, fastened upon a stock, and discharged by the means of a
@@ -163,14 +163,14 @@ kind, while he was reconnoitring the walls of the castle of Chalezun;
 which wound was the occasion of his death. William Brito seems to
 attribute the introduction of the cross-bow to this monarch, who, he
 says, first showed it to the French. <span
-id="fr_233"></span>[4](#fn_233)
+id="fr_233"></span>[4](#fn_233.md)
 
 In the twenty-third year of the reign of Edward I. the Earl of Warwick
 had in his army a number of soldiers called *ballistari*, and this word
 is translated cross-bow men by our chronological writers, but certainly
 it may with equal propriety be rendered slingers, or casters of stones,
 who frequently formed a part of the Anglo-Norman armies. <span
-id="fr_234"></span>[5](#fn_234)
+id="fr_234"></span>[5](#fn_234.md)
 
 In 1341 an order was issued by Edward III. to the sheriffs of most of
 the English counties to supply five hundred white bows and five hundred
@@ -184,7 +184,7 @@ instructed to provide five hundred painted bows as well as five hundred
 white or unpainted, the latter being sixpence cheaper than the former.
 The painting of these long-bows was intended either to make them smarter
 for military use, or to increase their duration. <span
-id="fr_235"></span>[1](#fn_235)
+id="fr_235"></span>[1](#fn_235.md)
 
 From this period we hear but little concerning the cross-bows, as
 military weapons, until the battle of Cressy in 1346; at which time they
@@ -194,14 +194,14 @@ that memorable occasion; but their efforts were ineffectual when opposed
 to the archery of the English. Previous to the commencement of the
 battle there fell a sharp shower of rain, which wetted the strings of
 the cross-bows; and, we are told, in great measure prevented the archers
-from doing their usual execution; <span id="fr_236"></span>[2](#fn_236)
+from doing their usual execution; <span id="fr_236"></span>[2](#fn_236.md)
 but the strings of the long-bows used by the Englishmen do not appear to
 have been damaged in the least by the rain; this might arise from their
 being made with different materials; or more probably, from their being
 kept with the bows, in the bow-cases, during the continuance of the
 shower; for every man had a case of canvass, or of some such material,
 to draw over his bow when he had done using of it. <span
-id="fr_237"></span>[3](#fn_237)
+id="fr_237"></span>[3](#fn_237.md)
 
 In the succeeding annals the cross-bow is continually spoken of as a
 weapon of war. In 1347, the year after the celebrated victory was
@@ -217,11 +217,11 @@ FORM AND USE OF THE CROSS-BOW.--The reader may see the manner in which
 the cross-bow was formerly used for fowling purposes upon the sixth
 plate. The representation given at the bottom is taken from a manuscript
 of the fourteenth century in the Royal Library. <span
-id="fr_238"></span>[4](#fn_238)
+id="fr_238"></span>[4](#fn_238.md)
 
 In the centre is an illustration, from a painting on another manuscript
 in the Royal Library, much more modern. <span
-id="fr_239"></span>[5](#fn_239) We find here exhibited a school for
+id="fr_239"></span>[5](#fn_239.md) We find here exhibited a school for
 practice; and the manner in which the archers shot at the butts, or dead
 marks, a pastime frequently alluded to by the authors of the fifteenth
 and sixteenth centuries.
@@ -237,20 +237,20 @@ be paid on good bow-staves
 <span id="img_pl06"></span>
 
 [![Archery](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 Archery  
 
  
 
 <span id="page_43">p. 43</span>
 
-brought into the realm. <span id="fr_240"></span>[1](#fn_240) In 1514 a
+brought into the realm. <span id="fr_240"></span>[1](#fn_240.md) In 1514 a
 much more severe statute was passed, whereby any one keeping a cross-bow
 in his house, unless he had land to the yearly value of three hundred
 marks, was to forfeit; and the great penalty of £10 to was imposed for
 every time a cross-bow was used for shooting. <span
-id="fr_241"></span>[2](#fn_241) This Act was renewed and further
-strengthened in 1533. <span id="fr_242"></span>[3](#fn_242) This severe
+id="fr_241"></span>[2](#fn_241.md) This Act was renewed and further
+strengthened in 1533. <span id="fr_242"></span>[3](#fn_242.md) This severe
 fine might probably produce a temporary reformation; which certainly was
 not of long continuance, for cross-bows were commonly used again in the
 succeeding reigns. Hentzner tells us, that in the year 1598, he saw in
@@ -259,7 +259,7 @@ which, says he, to this day, the English make great use in their
 exercises. Stow speaks of a large close, called the Tazell, let in his
 time to the cross-bow makers, wherein, he says, they used to shoot for
 games at the popinjay, which, Maitland tells us, was an artificial
-parrot. <span id="fr_243"></span>[4](#fn_243)
+parrot. <span id="fr_243"></span>[4](#fn_243.md)
 
 Bows AND ARROWS ORDERED TO BE KEPT.--To return to the long-bow: As far
 back as the thirteenth century, every person not having a greater annual
@@ -270,7 +270,7 @@ were commanded to have a bow with sharp arrows, if they dwelt without
 the royal forests, and a bow with round-headed arrows, if they resided
 within the forests. The words of the statute are, "arcs e setes hors de
 forestes, e dedenz forestes arcs e pilets." <span
-id="fr_244"></span>[5](#fn_244) The word *pilet* I believe is derived
+id="fr_244"></span>[5](#fn_244.md) The word *pilet* I believe is derived
 from the Latin, *pila*, a ball; and I suppose these arrows were used to
 prevent the owners from killing the king's deer. The round-headed arrows
 were also called bolts, and also used with the cross-bow; hence the old
@@ -281,7 +281,7 @@ Heywood,
 
 A fooles bolte is soone shot, and fleeth oftymes fer  
 But the fooles bolte, and the marke, cum few times ner. <span
-id="fr_245"></span>[6](#fn_245)
+id="fr_245"></span>[6](#fn_245.md)
 
 It was also ordained by the forementioned statute that proper officers
 should be appointed to see that these weapons were kept in good order,
@@ -320,7 +320,7 @@ quest of wood for bows and spears. In 1472 it was enacted that all
 merchant strangers sending goods to England in any vessel or ship of
 Venice, or of any other city, town, or country whence bow-staves have
 been imported, were to send four bow-staves for every ton of merchandise
-thus imported. <span id="fr_246"></span>[1](#fn_246)
+thus imported. <span id="fr_246"></span>[1](#fn_246.md)
 
 In the sixteenth century we meet with frequent complaints respecting the
 disuse of the long-bow, and especially in the vicinity of London. Stow
@@ -330,7 +330,7 @@ fields at Finsbury, where the citizens were assembled, and shoot at the
 standard, with broad and flight arrows, for games." This exercise was
 continued for several days; but at the period in which our author lived
 it was practised only one afternoon, three or four days after the
-festival of Saint Bartholomew. <span id="fr_247"></span>[2](#fn_247)
+festival of Saint Bartholomew. <span id="fr_247"></span>[2](#fn_247.md)
 
 The same writer attributes the decay of archery among the Londoners to
 the enclosures made near the metropolis, by which means the citizens
@@ -395,7 +395,7 @@ should be wounded, or slain in these sports, with an arrow shot by one
 or other of the archers, he that shot the arrow was not to be sued or
 molested, if he had, immediately before the discharge of the weapon,
 cried out, 'fast,' the signal usually given upon such occasions." <span
-id="fr_248"></span>[1](#fn_248)
+id="fr_248"></span>[1](#fn_248.md)
 
 \* HENRY VIII. AN ARCHER.--Henry VIII. not only took the greatest
 interest in promoting archery, but was himself a remarkable expert in
@@ -436,7 +436,7 @@ archery when in the prime of life. The following occur in the years
 | To Antony Kingston, for 8 shots of 3 angels a shot which he won of Thos. Cary shooting on the King's side                 | £9.                                            |
 | To William Browne, won by him and others of the King and his match at the pricks and by bets in Eltham Park               | £132 15 0.                                     |
 | To Browne the merchant, for money won of the King at shooting                                                             | £22, 10s.                                      |
-| To Henry Byrde, for making pricks at Antyll and Grafton                                                                   | 6s. 8d." <span id="fr_249"></span>[1](#fn_249) |
+| To Henry Byrde, for making pricks at Antyll and Grafton                                                                   | 6s. 8d." <span id="fr_249"></span>[1](#fn_249.md) |
 
 \* Latimer enforced his royal patron's keenness for archery from the
 pulpit, when preaching before the king, and received £5 from the privy
@@ -479,7 +479,7 @@ and Greenwich, taken in 1547, the long-bows at the Tower numbered 3060,
 with "13,050 sheife of livery arrowes"; at Westminster were "twoo Longe
 Bowes of Ewghe to shote stones"; and at Greenwich eighty four long bows
 of various kinds. There were also at the Tower eight boxes containing
-eighty gross of bow-strings. <span id="fr_250"></span>[1](#fn_250)
+eighty gross of bow-strings. <span id="fr_250"></span>[1](#fn_250.md)
 
 PRICES ORDAINED FOR Bows.--In the reign of Edward IV. an ordinance was
 established, which compelled the bowyers of London to sell the best
@@ -489,7 +489,7 @@ Henry VIII.; but these acts were repealed in the third year of queen
 Mary, and the following prices were settled by the parliament: for a bow
 made of the best foreign yew, six shillings and eightpence; for an
 inferior sort, three shillings and fourpence; and for one made of
-English yew, two shillings. <span id="fr_251"></span>[2](#fn_251)
+English yew, two shillings. <span id="fr_251"></span>[2](#fn_251.md)
 
 \* Sir Thomas Elyot's delightful book "The Governour," first issued in
 1531, contains the earliest printed account of English archery; chapter
@@ -557,7 +557,7 @@ goose arrows, with bright burnished heads; every arrow was an ell long,
 <span id="page_49">p. 49</span>
 
 adorned with peacocks' feathers, and bound at the notching with white
-silk. <span id="fr_252"></span>[1](#fn_252)
+silk. <span id="fr_252"></span>[1](#fn_252.md)
 
 With them they had an hundred bowes,  
 The stringes were well ydight;  
@@ -576,12 +576,12 @@ Under his belt he bare ful thriftely
 Well coude he dresse his tackle yomanly;  
 His arrowes drouped not with fethers lowe,  
 And in hande he bare a myghty bowe. <span
-id="fr_253"></span>[2](#fn_253)
+id="fr_253"></span>[2](#fn_253.md)
 
 The adornment of these arrows with peacocks' feathers is not to be
 considered as a mere poetical flourish, for we have sufficient
 testimony, that such plumage was actually used. <span
-id="fr_254"></span>[3](#fn_254)
+id="fr_254"></span>[3](#fn_254.md)
 
 But, returning to our author, he informs us, that the English arrows had
 forked heads and broad-heads, yet he thought, that round pointed heads
@@ -597,12 +597,12 @@ should stand, says another writer, fairly, and upright with his body,
 his left foot at a convenient distance before his right; holding the bow
 by the middle, with his left arm stretched out, and with the three first
 fingers and the thumb of the right hand upon the lower part of the arrow
-affixed to the string of the bow. <span id="fr_255"></span>[4](#fn_255)
+affixed to the string of the bow. <span id="fr_255"></span>[4](#fn_255.md)
 In the second place, a proper attention was to be paid to the nocking,
 that is, the application of the notch at the bottom of the arrow to the
 bow-string; we are told that the notch of the arrow should rest between
 the fore-finger and the middle finger of the right hand. <span
-id="fr_256"></span>[5](#fn_256) Thirdly, our attention is directed to
+id="fr_256"></span>[5](#fn_256.md) Thirdly, our attention is directed to
 the proper manner of drawing the bow-string: in ancient times, says
 Ascham, the right hand was brought to the right pap; but at present it
 is elevated to the right ear, and the latter method he prefers to the
@@ -632,7 +632,7 @@ he was young; "for children," says he, "if sufficient pains are taken
 with them at the onset, may much more easily be taught to shoot well,
 than men," because the latter have frequently more trouble to unlearn
 their bad habits, than was primitively requisite to learn them good
-ones. <span id="fr_257"></span>[1](#fn_257)
+ones. <span id="fr_257"></span>[1](#fn_257.md)
 
 MARKS FOR SHOOTING.--The marks usually shot at by the archers for
 pastime, were, "butts, prickes, and roavers." The butt, we are told, was
@@ -650,7 +650,7 @@ shooting, and in well aimed shooting;--the butts made them perfect in
 the one, and the roaving in the other, for the prickes, the first
 corrupters of archery, through too much preciseness, were formerly
 scarcely known, and little practised." <span
-id="fr_258"></span>[2](#fn_258) Other marks are occasionally mentioned,
+id="fr_258"></span>[2](#fn_258.md) Other marks are occasionally mentioned,
 as the standard, the target, hazel wands, rose garlands, and the
 popinjay, which, we are told, was an artificial parrot. I have not met
 with such a mark in any manuscript delineation; but, in the presentment
@@ -661,7 +661,7 @@ a living cock: the manner of its being placed on the post, may favour
 the first idea; but the mouth being open, and the elevation of the head,
 as if in the last gasp of life, will justify the latter. It is taken
 from a MS. written early in the fourteenth century, preserved in the
-Royal Library. <span id="fr_259"></span>[3](#fn_259)
+Royal Library. <span id="fr_259"></span>[3](#fn_259.md)
 
 <span id="page_51">p. 51</span>
 
@@ -680,13 +680,13 @@ of these poetical legends extend it an ell.
 Hall mentions a company of archers, who met king Henry VIII. at
 Shooter's Hill, on a May-day morning, where they discharged their bows
 in his presence, and the arrows made a loud whistling in their flight,
-"by crafte of the heade." <span id="fr_260"></span>[1](#fn_260) The
+"by crafte of the heade." <span id="fr_260"></span>[1](#fn_260.md) The
 strangeness of the noise, we are informed, surprised his Majesty, though
 at the same time he was much pleased with the contrivance. A modern
 author, the Hon. Daines Barrington, assures us, this sound was
 occasioned by holes being made in the arrow heads, and that such weapons
 were used upon military occasions, and especially as signals; <span
-id="fr_261"></span>[2](#fn_261) but not, I presume, before the time
+id="fr_261"></span>[2](#fn_261.md) but not, I presume, before the time
 mentioned by the historian; for had not those arrows been newly
 introduced, there is no reason why the king, who was well acquainted
 with every branch of archery, should have been surprised at the sound
@@ -701,8 +701,8 @@ The reader, I trust, will pardon the insertion of the following extracts
 from two old poetical legends, which convey, at least, some idea of the
 practice of archery in times anterior to our own; the first is a ballad
 in eight fyttes or parts, entitled, "A mery Geste of Robyn Hode." <span
-id="fr_262"></span>[3](#fn_262) According to the story, the king <span
-id="fr_263"></span>[4](#fn_263) thought proper to pay Robin Hood a
+id="fr_262"></span>[3](#fn_262.md) According to the story, the king <span
+id="fr_263"></span>[4](#fn_263.md) thought proper to pay Robin Hood a
 visit, disguised in the habit of an abbot: and the outlaw, by way of
 entertaining his guest, proposed a shooting match. Two wands were then
 set up, but at so great a distance from each other, that,
@@ -712,7 +712,7 @@ The markes were to longe.--
 On every syde a rose garlande,  
 The shot under the lyne.  
 Whoso faileth of the rose garland, said Robyn,  
-His takyll he shal tyne; <span id="fr_264"></span>[5](#fn_264)
+His takyll he shal tyne; <span id="fr_264"></span>[5](#fn_264.md)
 
 <span id="page_52">p. 52</span>
 
@@ -735,7 +735,7 @@ saying,
 Syr abbot, I deliver thee myne arowe.
 
 The second poem is also of the ballad kind, and apparently as old as the
-former, <span id="fr_265"></span>[1](#fn_265) wherein Adam Bell, Clym of
+former, <span id="fr_265"></span>[1](#fn_265.md) wherein Adam Bell, Clym of
 the Cloughe, and William Cloudesle, are introduced to shoot before the
 king. The butts, or dead marks set up by the king's archers, were
 censured by Cloudesle, saying,
@@ -781,7 +781,7 @@ are mentioned before, nor such precision, even at short lengths, in the
 direction of the arrows. By an act established An. 33 Hen. VIII., no
 person who had reached the age of twenty-four years, might shoot at any
 mark at less than two hundred and twenty yards distance. <span
-id="fr_266"></span>[1](#fn_266) I believe few, if any, of the modern
+id="fr_266"></span>[1](#fn_266.md) I believe few, if any, of the modern
 archers, in shooting at a mark, exceed the distance of eighty or a
 hundred yards, or, in long shooting, reach four hundred yards. I have
 seen the gentlemen who practise archery in the vicinity of London,
@@ -796,7 +796,7 @@ may also recollect, that archery is now followed for amusement only, and
 is to be commended as a manly and gentleman-like exercise.
 
 I remember about four or five years back, <span
-id="fr_267"></span>[2](#fn_267) at a meeting of the society of archers,
+id="fr_267"></span>[2](#fn_267.md) at a meeting of the society of archers,
 in their ground near Bedford Square, the Turkish ambassador paid them a
 visit; and complained that the enclosure was by no means sufficiently
 extensive for a long shot: he therefore went into the adjacent fields to
@@ -809,7 +809,7 @@ distance rather exceeds the length our rhymist has given to the wands
 set up by Cloudesle and his companions, but then we are to recollect
 they shot with vast precision to that distance, which the ambassador did
 not, he had no mark, and his arrows fell exceedingly wide of each
-other. <span id="fr_268"></span>[3](#fn_268)
+other. <span id="fr_268"></span>[3](#fn_268.md)
 
 Carew, speaking of the Cornish archers three centuries back, says, "For
 long shooting, their shaft was a cloth yard in length, and their prickes
@@ -817,12 +817,12 @@ twenty-four score paces, equal to four hundred and eighty yards; and for
 strength, they would pierce any ordinary armour"; he then adds, "and one
 Robert Arundell, whom I well knew, could shoot twelve score paces with
 his right hand, with his left, and from behind his head." <span
-id="fr_269"></span>[4](#fn_269)
+id="fr_269"></span>[4](#fn_269.md)
 
 \* Very few archers, with strong bows and light arrows, can now cover
 more than three hundred yards. To attain this rare„e a bow of at least
 sixty-two pounds must not only be used but mastered, <span
-id="fr_270"></span>[5](#fn_270)
+id="fr_270"></span>[5](#fn_270.md)
 
 <span id="page_54">p. 54</span>
 
@@ -841,20 +841,20 @@ with their different companies, proceeded in a pompous march from
 Merchant Taylors Hall, consisting of three thousand archers, sumptuously
 apparelled; every man had a long-bow, and four arrows. With the marquis
 of Barlo and the marquis of Clerkenwell were "Hunters who wound their
-horns." <span id="fr_271"></span>[1](#fn_271) Nine hundred and forty-two
+horns." <span id="fr_271"></span>[1](#fn_271.md) Nine hundred and forty-two
 of the archers had chains of gold about their necks. This splendid
 company was guarded by four thousand whifflers and billmen, besides
 pages and footmen. They passed through Broad-street, the residence of
 their captain, and thence into Moorfields, by Finsbury, and so on to
 Smithfield, where, having performed several evolutions, they shot at a
-target for honour. <span id="fr_272"></span>[2](#fn_272)
+target for honour. <span id="fr_272"></span>[2](#fn_272.md)
 
 ROYAL SPORT--A GOOD ARCHER WHY CALLED ARTHUR.--Kings and princes have
 been celebrated for their skill in archery, and among those of our own
 country may be placed king Henry VII., who in his youth was partial to
 this exercise, and therefore it is said of him in an old poem, written
 in praise of the princess Elizabeth, afterwards queen to Henry
-VII. <span id="fr_273"></span>[3](#fn_273)
+VII. <span id="fr_273"></span>[3](#fn_273.md)
 
 See where he shoteth at the butts,  
 And with hym are lordes three;  
@@ -863,7 +863,7 @@ And it is coted above the knee.
 
 \[paragraph continues\] He also amused himself with the bow after he had
 obtained the crown, as we find from an account of his
-expenditures, <span id="fr_274"></span>[4](#fn_274) where the following
+expenditures, <span id="fr_274"></span>[4](#fn_274.md) where the following
 memorandums occur: "Lost to my lord Morging at buttes, six shillings and
 eightpence:" and again, "Paid to sir Edward Boroughe thirteen shillings
 and fourpence, which the kynge lost at buttes with his cross-bowe." Both
@@ -877,7 +877,7 @@ was honoured with the title of Prince Arthur, and
 <span id="page_55">p. 55</span>
 
 the other archers were styled his knights. <span
-id="fr_275"></span>[1](#fn_275) The title of Prince Arthur seems to have
+id="fr_275"></span>[1](#fn_275.md) The title of Prince Arthur seems to have
 been superseded by the creation of the "Duke of Shoreditch."
 
 After the death of prince Arthur, his brother Henry continued to honour
@@ -896,27 +896,27 @@ Albeeit, to them that otherwyse cannot, by reason of greefe,
 feeblenesse, or lacke of use, they may bee allowed. This practise of all
 other the manlyest leaveth no part of the body unexercised, the breaste,
 backe, reynes, wast, and armes, withdrawing the thyghes and legges with
-running or going." <span id="fr_276"></span>[2](#fn_276)
+running or going." <span id="fr_276"></span>[2](#fn_276.md)
 
 \* ELIZABETHAN ARCHERS.--The county musters of the first year of
 Elizabeth prove that the country at large was then exceedingly well
 furnished with duly equipped archers. The return for Derbyshire, made on
 March 9th, 1559, shows that that comparatively small county put into the
 field, as "able footemen," 292 archers as against 918 billmen. <span
-id="fr_277"></span>[3](#fn_277) During this reign, however, archery was
+id="fr_277"></span>[3](#fn_277.md) During this reign, however, archery was
 slowly but surely made to give way to musketry. From the muster
 certificate of Derbyshire, in November 1587, it appears that out of 400
 foot pressed for immediate service, 160 were "for shot," 160 were
 billmen, and 80 archers; whilst out of 1300 able men selected for
 further service, only 200 were "for bowes." <span
-id="fr_278"></span>[4](#fn_278) It therefore follows that the proportion
+id="fr_278"></span>[4](#fn_278.md) It therefore follows that the proportion
 of archers had been reduced in thirty years from a third to a fifth.
 
 \* In some counties the change in these thirty years was greater than in
 Derbyshire. In 1587-8, out of 1170 men under training in Lancashire, 700
 bore light muskets and but 80 bows; whilst in Cheshire, out of a total
 of 2189, there were only 80 archers. <span
-id="fr_279"></span>[5](#fn_279) Within a few years after the Armada, the
+id="fr_279"></span>[5](#fn_279.md) Within a few years after the Armada, the
 old national weapon of the long-bow became nearly extinct. Nevertheless
 it lingered longer in England than on the continent; a foreigner
 visiting the Tower in 1598, expressed his surprise at finding bows in
@@ -940,7 +940,7 @@ Royalists, for Wintone appealed to the Parliamentarians for a pension.
 It is scarcely reasonable to suppose that this wounding by an arrow in
 the Peak district was a solitary instance of the use of the bow;
 probably many of the country gentlemen's houses were defended with these
-weapons. <span id="fr_280"></span>[1](#fn_280)
+weapons. <span id="fr_280"></span>[1](#fn_280.md)
 
 \* REVIVAL AT THE RESTORATION.--No sooner was the Restoration of the
 monarchy accomplished than a determined effort was made, particularly in
@@ -963,7 +963,7 @@ worth of plate at eight score yards. A manuscript postscript to the copy
 of the Bowman's Glory in the British Museum names a march through the
 city of a thousand archers on April 21st, 1682, to Tuttlefields, where
 the king again watched their manœuvres, including the "Three Showers of
-Whistling Arrows." <span id="fr_281"></span>[2](#fn_281)
+Whistling Arrows." <span id="fr_281"></span>[2](#fn_281.md)
 
 \* A dull poem, published in 1676, makes the following appeal in favour
 of the revival of archery as a pastime:--
@@ -972,7 +972,7 @@ of the revival of archery as a pastime:--
 With which the tedious minutes you beguile,  
 Wave quoits and nine-pins, those bear-garden sports,  
 And follow shooting, often used at courts." <span
-id="fr_282"></span>[3](#fn_282)
+id="fr_282"></span>[3](#fn_282.md)
 
 \* SIR WILLIAM WOOD.--"Sir" William Wood, the famous archer, and author
 of The Bowman's Glory, who died in 1691, at the age of 82, had the
@@ -992,7 +992,7 @@ Extreme old age from an appointed grave?
 Surviving archers much his loss lament,  
 And in respect bestow’d this monument,  
 Where whistling arrows did his worth proclaim,  
-And eternize his memory and name." <span id="fr_283"></span>[1](#fn_283)
+And eternize his memory and name." <span id="fr_283"></span>[1](#fn_283.md)
 
 \* Wood was buried with archers' honours, three flights of whistling
 arrow: being discharged over his grave.
@@ -1011,7 +1011,7 @@ full title is:--"Ayme for Finsburie Archers, or an alphabeticall table
 of the names of every marke within the same fields, with their true (or
 due) distances, both by the map and dimensuration of the line, published
 for the ease of the skillfull and behoofe of the younge beginners in the
-famed exercise of Archerie." <span id="fr_284"></span>[2](#fn_284)
+famed exercise of Archerie." <span id="fr_284"></span>[2](#fn_284.md)
 
 \* No point of archery, from a military or sporting point of view, was
 more important than keeping the length. On this account roving or
@@ -1020,7 +1020,7 @@ unascertained distances was much preferred, in old-time archery, to
 pricking or shooting at a given mark from a fixed and known distance.
 With one of the last editions of the Finsbury Archers, issued in 1738, a
 plan was given of these fields with all the marks entered by name. <span
-id="fr_285"></span>[3](#fn_285) These marks were originally 164 in
+id="fr_285"></span>[3](#fn_285.md) These marks were originally 164 in
 number, and they varied in length from 73 yards to 265 yards. When Mr
 Barrington contributed his paper on Archery to the Society of
 Antiquaries in 1783, the fields from Peerless-pool to the
@@ -1048,7 +1048,7 @@ their willingness to enter into any reasonable terms of accommodation."
 One of the archer's division was then ordered to shoot an arrow over the
 said inclosure, as an assertion of the Company's right; which having
 been done, the battalion proceeded on its march to several of the other
-marks." <span id="fr_286"></span>[1](#fn_286) But bricks and mortar
+marks." <span id="fr_286"></span>[1](#fn_286.md) But bricks and mortar
 eventually gained the day along the whole line, and all the Finsbury
 marks have disappeared for more than a century.
 
@@ -1063,200 +1063,200 @@ given to archery associations in 1844.
 
 ### Footnotes
 
-<span id="fn_226"></span>[39:1](spe08.htm#fr_226) Evans' *Ancient Stone
+<span id="fn_226"></span>[39:1](spe08.htm#fr_226.md) Evans' *Ancient Stone
 Implements of Great Britain*, chap. xvi.
 
-<span id="fn_227"></span>[39:2](spe08.htm#fr_227) Olaii Worm. *Lit.
+<span id="fn_227"></span>[39:2](spe08.htm#fr_227.md) Olaii Worm. *Lit.
 Run.* p. 129. Barthol. p. 420. Pontoppman's *Hist. Norway*, p. 248.
 
-<span id="fn_228"></span>[40:1](spe08.htm#fr_228) Cott. MSS., Claud. B.
+<span id="fn_228"></span>[40:1](spe08.htm#fr_228.md) Cott. MSS., Claud. B.
 iv.
 
-<span id="fn_229"></span>[40:2](spe08.htm#fr_229) Freeman's *Norman
+<span id="fn_229"></span>[40:2](spe08.htm#fr_229.md) Freeman's *Norman
 Conquest*, iii. ch. 15.
 
-<span id="fn_230"></span>[41:1](spe08.htm#fr_230) See book i. ch. i.
+<span id="fn_230"></span>[41:1](spe08.htm#fr_230.md) See book i. ch. i.
 
-<span id="fn_231"></span>[41:2](spe08.htm#fr_231) Leland's *Collect*.
+<span id="fn_231"></span>[41:2](spe08.htm#fr_231.md) Leland's *Collect*.
 vol. iv. p. 278.
 
-<span id="fn_232"></span>[41:3](spe08.htm#fr_232) Nichols's
+<span id="fn_232"></span>[41:3](spe08.htm#fr_232.md) Nichols's
 *Progresses*, vol. ii.
 
-<span id="fn_233"></span>[41:4](spe08.htm#fr_233) Camden's *Remains*.
+<span id="fn_233"></span>[41:4](spe08.htm#fr_233.md) Camden's *Remains*.
 
-<span id="fn_234"></span>[41:5](spe08.htm#fr_234) See *Manners and
+<span id="fn_234"></span>[41:5](spe08.htm#fr_234.md) See *Manners and
 Customs of the English*, vol. i.
 
-<span id="fn_235"></span>[42:1](spe08.htm#fr_235) *Archæologia*, vii.
+<span id="fn_235"></span>[42:1](spe08.htm#fr_235.md) *Archæologia*, vii.
 48.
 
-<span id="fn_236"></span>[42:2](spe08.htm#fr_236) Serres, and also most
+<span id="fn_236"></span>[42:2](spe08.htm#fr_236.md) Serres, and also most
 of our own historians. Froissart praises the skill of the Genoese
 cross-bowmen upon another occasion, saying, "They shot so surely, that
 lightly they myst not of their level." Vol. iv. chap. 38. fol. 47.
 English translation \[by Lord Berners\], and in several other places.
 
-<span id="fn_237"></span>[42:3](spe08.htm#fr_237) Ascham's *Toxophilus*.
+<span id="fn_237"></span>[42:3](spe08.htm#fr_237.md) Ascham's *Toxophilus*.
 
-<span id="fn_238"></span>[42:4](spe08.htm#fr_238) 2 B. vii.
+<span id="fn_238"></span>[42:4](spe08.htm#fr_238.md) 2 B. vii.
 
-<span id="fn_239"></span>[42:5](spe08.htm#fr_239) 19 C. viii, dated
+<span id="fn_239"></span>[42:5](spe08.htm#fr_239.md) 19 C. viii, dated
 1496.
 
-<span id="fn_240"></span>[43:1](spe08.htm#fr_240) Stat. 19 Hen. VII.
+<span id="fn_240"></span>[43:1](spe08.htm#fr_240.md) Stat. 19 Hen. VII.
 caps. 2 and 4.
 
-<span id="fn_241"></span>[43:2](spe08.htm#fr_241) Stat. 6 Hen. VIII.
+<span id="fn_241"></span>[43:2](spe08.htm#fr_241.md) Stat. 6 Hen. VIII.
 cap. 13.
 
-<span id="fn_242"></span>[43:3](spe08.htm#fr_242) Stat. 25 Hen. VIII.
+<span id="fn_242"></span>[43:3](spe08.htm#fr_242.md) Stat. 25 Hen. VIII.
 cap. 17.
 
-<span id="fn_243"></span>[43:4](spe08.htm#fr_243) *History of London*,
+<span id="fn_243"></span>[43:4](spe08.htm#fr_243.md) *History of London*,
 book ii. p. 482.
 
-<span id="fn_244"></span>[43:5](spe08.htm#fr_244) The Statute of
+<span id="fn_244"></span>[43:5](spe08.htm#fr_244.md) The Statute of
 Winchester, 13 Edw. I. cap. vi.
 
-<span id="fn_245"></span>[43:6](spe08.htm#fr_245) Heywood's *Epigrams
+<span id="fn_245"></span>[43:6](spe08.htm#fr_245.md) Heywood's *Epigrams
 and Proverbs*, 1566. No. 23.
 
-<span id="fn_246"></span>[44:1](spe08.htm#fr_246) *Archæologia*, li.
+<span id="fn_246"></span>[44:1](spe08.htm#fr_246.md) *Archæologia*, li.
 232.
 
-<span id="fn_247"></span>[44:2](spe08.htm#fr_247) Stow's *Survey of
+<span id="fn_247"></span>[44:2](spe08.htm#fr_247.md) Stow's *Survey of
 London*, by Strype, vol. ii. p. 257. Stow died A.D. 1605.
 
-<span id="fn_248"></span>[45:1](spe08.htm#fr_248) Stow's *Survey*, by
+<span id="fn_248"></span>[45:1](spe08.htm#fr_248.md) Stow's *Survey*, by
 Strype, vol. i. p. 250.
 
-<span id="fn_249"></span>[46:1](spe08.htm#fr_249) Add. MSS. 20, 030.
+<span id="fn_249"></span>[46:1](spe08.htm#fr_249.md) Add. MSS. 20, 030.
 
-<span id="fn_250"></span>[47:1](spe08.htm#fr_250) *Archæologia*, li.
+<span id="fn_250"></span>[47:1](spe08.htm#fr_250.md) *Archæologia*, li.
 231-2, 264.
 
-<span id="fn_251"></span>[47:2](spe08.htm#fr_251) Maitland's *London*,
+<span id="fn_251"></span>[47:2](spe08.htm#fr_251.md) Maitland's *London*,
 book v.
 
-<span id="fn_252"></span>[49:1](spe08.htm#fr_252) Geste of Robyn Hode.
+<span id="fn_252"></span>[49:1](spe08.htm#fr_252.md) Geste of Robyn Hode.
 Garrick's Collect. K. vol. x.
 
-<span id="fn_253"></span>[49:2](spe08.htm#fr_253) Prologue to Canterbury
+<span id="fn_253"></span>[49:2](spe08.htm#fr_253.md) Prologue to Canterbury
 Tales.
 
-<span id="fn_254"></span>[49:3](spe08.htm#fr_254) *Lib. Compotis
+<span id="fn_254"></span>[49:3](spe08.htm#fr_254.md) *Lib. Compotis
 Garderobe*, 4 Ed. II. page 53, is this entry, *Pro duodecim flecchiis
 cum pennis de pavone emptis pro rege*, de 12 den.; that is, For twelve
 arrows plumed with peacocks' feathers, bought for the king, twelve
 pence. MS. Cott. Lib. Nero, C. viii.
 
-<span id="fn_255"></span>[49:4](spe08.htm#fr_255) *Country
+<span id="fn_255"></span>[49:4](spe08.htm#fr_255.md) *Country
 Contentments*, 1615, chap. viii. p. 107.
 
-<span id="fn_256"></span>[49:5](spe08.htm#fr_256) *Ibid*.
+<span id="fn_256"></span>[49:5](spe08.htm#fr_256.md) *Ibid*.
 
-<span id="fn_257"></span>[50:1](spe08.htm#fr_257) *Country
+<span id="fn_257"></span>[50:1](spe08.htm#fr_257.md) *Country
 Contentments*.
 
-<span id="fn_258"></span>[50:2](spe08.htm#fr_258) *Survey of Cornwall*,
+<span id="fn_258"></span>[50:2](spe08.htm#fr_258.md) *Survey of Cornwall*,
 by Richard Carew, 1602, B. i. p. 73.
 
-<span id="fn_259"></span>[50:3](spe08.htm#fr_259) 2 B. vii.
+<span id="fn_259"></span>[50:3](spe08.htm#fr_259.md) 2 B. vii.
 
-<span id="fn_260"></span>[51:1](spe08.htm#fr_260) An. 7 Hen. VIII. fol.
+<span id="fn_260"></span>[51:1](spe08.htm#fr_260.md) An. 7 Hen. VIII. fol.
 56.
 
-<span id="fn_261"></span>[51:2](spe08.htm#fr_261) *Archæologia*, vol.
+<span id="fn_261"></span>[51:2](spe08.htm#fr_261.md) *Archæologia*, vol.
 vii. p. 58.
 
-<span id="fn_262"></span>[51:3](spe08.htm#fr_262) Black letter, without
+<span id="fn_262"></span>[51:3](spe08.htm#fr_262.md) Black letter, without
 date. Imprinted at London upon the Three Crane Wharf; by William
 Copland. Garrick's Collect. Old Plays, K. vol. x.
 
-<span id="fn_263"></span>[51:4](spe08.htm#fr_263) King Edward IV., I
+<span id="fn_263"></span>[51:4](spe08.htm#fr_263.md) King Edward IV., I
 presume, is meant by the poet, for in one of the lines we read "Edward
 our comely kynge." Anachronisms of this kind were common enough in the
 old ballads.
 
-<span id="fn_264"></span>[51:5](spe08.htm#fr_264) That is, he shall lose
+<span id="fn_264"></span>[51:5](spe08.htm#fr_264.md) That is, he shall lose
 it, or rather, it shall be forfeited.
 
-<span id="fn_265"></span>[52:1](spe08.htm#fr_265) Black letter, without
+<span id="fn_265"></span>[52:1](spe08.htm#fr_265.md) Black letter, without
 date, and printed also by Copland in Lothbury. Its title is, The Names
 of the Three Archers; the whole ballad, with some small variations, is
 in the *Reliques of Ancient Poetry*, vol. i. p. 154, etc. This copy is
 bound up in the same volume of the Garrick *Collection of Old Plays*
 with the Geste of Robyn Hode.
 
-<span id="fn_266"></span>[53:1](spe08.htm#fr_266) *Archæologia*, vol. i.
+<span id="fn_266"></span>[53:1](spe08.htm#fr_266.md) *Archæologia*, vol. i.
 p. 58.
 
-<span id="fn_267"></span>[53:2](spe08.htm#fr_267) \[Mr. Strutt wrote
+<span id="fn_267"></span>[53:2](spe08.htm#fr_267.md) \[Mr. Strutt wrote
 this in 1800.\]
 
-<span id="fn_268"></span>[53:3](spe08.htm#fr_268) \* This incident
+<span id="fn_268"></span>[53:3](spe08.htm#fr_268.md) \* This incident
 occurred in 1795, in the presence of several gentlemen of the
 Toxophilite Society. The archer was not the Turkish Ambassador, but his
 secretary, Mahmoud Effendi, a man of great muscular strength. He used a
 Turkish bow, which owed its length of cast to the elasticity of the horn
 of which it was composed.
 
-<span id="fn_269"></span>[53:4](spe08.htm#fr_269) *Survey of Cornwall*,
+<span id="fn_269"></span>[53:4](spe08.htm#fr_269.md) *Survey of Cornwall*,
 1602.
 
-<span id="fn_270"></span>[53:5](spe08.htm#fr_270) *Theory and Practice
+<span id="fn_270"></span>[53:5](spe08.htm#fr_270.md) *Theory and Practice
 of Archery* (1887), 137-8.
 
-<span id="fn_271"></span>[54:1](spe08.htm#fr_271) Stow's *Survey*, by
+<span id="fn_271"></span>[54:1](spe08.htm#fr_271.md) Stow's *Survey*, by
 Strype, vol. i. p. 250.
 
-<span id="fn_272"></span>[54:2](spe08.htm#fr_272) Strype's *London*,
+<span id="fn_272"></span>[54:2](spe08.htm#fr_272.md) Strype's *London*,
 vol. i. p. 250.
 
-<span id="fn_273"></span>[54:3](spe08.htm#fr_273) MS. Harl. 3653, fol.
+<span id="fn_273"></span>[54:3](spe08.htm#fr_273.md) MS. Harl. 3653, fol.
 96.
 
-<span id="fn_274"></span>[54:4](spe08.htm#fr_274) \* An. 7 et 9 Hen.
+<span id="fn_274"></span>[54:4](spe08.htm#fr_274.md) \* An. 7 et 9 Hen.
 VII. MS. in the Remembrancer's Office. See also Appendix to Henry's
 *Hist. Brit.* vol. vi.
 
-<span id="fn_275"></span>[55:1](spe08.htm#fr_275) *Archæologia*, vol.
+<span id="fn_275"></span>[55:1](spe08.htm#fr_275.md) *Archæologia*, vol.
 vii.
 
-<span id="fn_276"></span>[55:2](spe08.htm#fr_276) *The Benefit of the
+<span id="fn_276"></span>[55:2](spe08.htm#fr_276.md) *The Benefit of the
 Auncient Bathes of Buckstones*, 1572.
 
-<span id="fn_277"></span>[55:3](spe08.htm#fr_277) Cox's *Three Centuries
+<span id="fn_277"></span>[55:3](spe08.htm#fr_277.md) Cox's *Three Centuries
 of Derbyshire Annals*, i. 130-145.
 
-<span id="fn_278"></span>[55:4](spe08.htm#fr_278) *Ibid*. ii. 151.
+<span id="fn_278"></span>[55:4](spe08.htm#fr_278.md) *Ibid*. ii. 151.
 
-<span id="fn_279"></span>[55:5](spe08.htm#fr_279) Scott's *British
+<span id="fn_279"></span>[55:5](spe08.htm#fr_279.md) Scott's *British
 Army*, ii. 96.
 
-<span id="fn_280"></span>[56:1](spe08.htm#fr_280) Cox's *Derbyshire
+<span id="fn_280"></span>[56:1](spe08.htm#fr_280.md) Cox's *Derbyshire
 Annals*, i. 160.
 
-<span id="fn_281"></span>[56:2](spe08.htm#fr_281) *The Bowman's Glory,
+<span id="fn_281"></span>[56:2](spe08.htm#fr_281.md) *The Bowman's Glory,
 or Archery Revived*, by William Wood, Marshal to the Regiment of
 Archers, 1682.
 
-<span id="fn_282"></span>[56:3](spe08.htm#fr_282) *Archerye Revived*, by
+<span id="fn_282"></span>[56:3](spe08.htm#fr_282.md) *Archerye Revived*, by
 Robert Shotterel and Thomas D’Urfey.
 
-<span id="fn_283"></span>[57:1](spe08.htm#fr_283) *Archæologia*, vii.
+<span id="fn_283"></span>[57:1](spe08.htm#fr_283.md) *Archæologia*, vii.
 50.
 
-<span id="fn_284"></span>[57:2](spe08.htm#fr_284) For the bibliography
+<span id="fn_284"></span>[57:2](spe08.htm#fr_284.md) For the bibliography
 of Archery, see *Notes and Queries*, Ser. v. vols. 9 and 10.
 
-<span id="fn_285"></span>[57:3](spe08.htm#fr_285) Reproduced in the
+<span id="fn_285"></span>[57:3](spe08.htm#fr_285.md) Reproduced in the
 *Gentleman's Magazine* for 1832, p. 209.
 
-<span id="fn_286"></span>[58:1](spe08.htm#fr_286) Highmore's *Hist. of
+<span id="fn_286"></span>[58:1](spe08.htm#fr_286.md) Highmore's *Hist. of
 the Artillery Company*, pp. 366, 396, 399.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](spe09)
+[Next: Chapter II](spe09.md)

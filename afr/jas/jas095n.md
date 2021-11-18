@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas094n)  [Next](jas096n)   
- \[[95. The Dumb Child.](jas095)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas094n)  [Next](jas096n.md)   
+ \[[95. The Dumb Child.](jas095.md)\]
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ him by singing and dancing until he laughs and exposes the cavity.
 
 ------------------------------------------------------------------------
 
-[Next: Note 96. The Dumb Wife.](jas096n)
+[Next: Note 96. The Dumb Wife.](jas096n.md)

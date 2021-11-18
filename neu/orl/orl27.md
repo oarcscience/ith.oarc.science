@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl26)  [Next](orl28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl26)  [Next](orl28.md) 
 
 ------------------------------------------------------------------------
 
@@ -1577,4 +1577,4 @@ What to King Rodomont the landlord told.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 28](orl28)
+[Next: Canto 28](orl28.md)

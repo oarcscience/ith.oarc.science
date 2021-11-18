@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet01)  [Next](tet03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet01)  [Next](tet03.md) 
 
 ------------------------------------------------------------------------
 
@@ -646,4 +646,4 @@ A. LANG.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Introductory](tet03)
+[Next: Chapter I. Introductory](tet03.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo32)  [Next](aoo34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo32)  [Next](aoo34.md) 
 
 ------------------------------------------------------------------------
 
@@ -196,4 +196,4 @@ of his own house.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI](aoo34)
+[Next: Chapter XI](aoo34.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot08) 
-[Next](aot10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Apollonius of Tyana](../index)  [Index](index)  [Previous](aot08.md) 
+[Next](aot10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459131X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apollonius of Tyana*, by G.R.S. Mead, \[1901\], at Intangible Textual
 Heritage
 
@@ -47,8 +47,8 @@ real nature of spiritual science; he had ever to remain in the outer
 courts of the temples and communities into whose shrines and inner
 confidence Apollonius had full access, while he frequently states his
 ignorance of his master's plans and purposes. <span
-id="fr_88"></span>[\*](#fn_88) The additional fact that he refers to his
-notes as the "crumbs" <span id="fr_89"></span>[†](#fn_89) from the
+id="fr_88"></span>[\*](#fn_88.md) The additional fact that he refers to his
+notes as the "crumbs" <span id="fr_89"></span>[†](#fn_89.md) from the
 "feasts of the Gods" (i. 19), those feasts of which he could for the
 most part only learn at secondhand what little Apollonius thought fit to
 tell him, and which he doubtless largely misunderstood and clothed in
@@ -58,7 +58,7 @@ that Damis was outside the circle of initiation, and this accounts both
 for his wonder-loving point of view and his general superficiality.
 
 Another fact that comes out prominently from the narrative is his timid
-nature <span id="fr_90"></span>[‡](#fn_90). He is continually afraid for
+nature <span id="fr_90"></span>[‡](#fn_90.md). He is continually afraid for
 himself or for his master; and even towards the end, when Apollonius is
 imprisoned by Domitian, it requires the phenomenal removal of the
 fetters before his
@@ -81,7 +81,7 @@ Apollonius and give us some idea of his stature.
 
 Apollonius was one of the greatest travellers known to antiquity. Among
 the countries and places he visited the following are the chief ones
-recorded by Philostratus. <span id="fr_91"></span>[\*](#fn_91)
+recorded by Philostratus. <span id="fr_91"></span>[\*](#fn_91.md)
 
 From Ninus (i. 19) Apollonius journeys to Babylon (i. 21), where he
 stops one year and eight months (i. 40) and visits surrounding cities
@@ -91,13 +91,13 @@ Indian frontier no names
 <span id="page_76">p. 76</span>
 
 are mentioned; India was entered in every probability by the Khaibar
-Pass (ii. 6), <span id="fr_92"></span>[\*](#fn_92) for the first city
+Pass (ii. 6), <span id="fr_92"></span>[\*](#fn_92.md) for the first city
 mentioned is Taxila (Attock) (ii. 20); and so they make their way across
 the tributaries of the Indus (ii. 43) to the valley of the Ganges (iii.
 5), and finally arrive at the "monastery of the wise men" (iii. 10),
 where Apollonius spends four months (iii. 50).
 
-This monastery was [presumably](errata.htm#0) in Nepal; it is in the
+This monastery was [presumably](errata.htm#0.md) in Nepal; it is in the
 mountains, and the "city" nearest it is called Paraca. The chaos that
 Philostratus has made of Damis’ account, and before him the wonderful
 transformations Damis himself wrought in Indian names, are presumably
@@ -121,7 +121,7 @@ making for a certain community, which was his peculiar goal, so
 impressed the imagination of Philostratus (and perhaps of Damis before
 him) that he has described it as being the only centre of the kind in
 India. Apollonius went to India with a purpose and returned from it with
-a distinct mission; <span id="fr_93"></span>[\*](#fn_93) and perchance
+a distinct mission; <span id="fr_93"></span>[\*](#fn_93.md) and perchance
 his constant inquiries concerning the particular "wise men" whom he was
 seeking, led Damis to imagine that they alone were the "Gymnosophists,"
 the "naked philosophers" (if we are to take the term in its literal
@@ -157,7 +157,7 @@ visited
 
 (v. 11-14). Thence Apollonius returned to Greece (v. 18), four years
 having elapsed since his landing at Athens from Lesbos (v. 19). <span
-id="fr_94"></span>[\*](#fn_94)
+id="fr_94"></span>[\*](#fn_94.md)
 
 <span id="page_79">p. 79</span>
 
@@ -228,21 +228,21 @@ connected with the temples and communities he visited.
 
 ### Footnotes
 
-<span id="fn_88"></span>[74:\*](aot09.htm#fr_88) See especially iii. 15,
+<span id="fn_88"></span>[74:\*](aot09.htm#fr_88.md) See especially iii. 15,
 41; v. 5, 10; vii. 10, 13; viii. 28.
 
-<span id="fn_89"></span>[74:†](aot09.htm#fr_89) ἐκφατνίσματα.
+<span id="fn_89"></span>[74:†](aot09.htm#fr_89.md) ἐκφατνίσματα.
 
-<span id="fn_90"></span>[74:‡](aot09.htm#fr_90) See especially vii. 13,
+<span id="fn_90"></span>[74:‡](aot09.htm#fr_90.md) See especially vii. 13,
 14, 15, 22, 31.
 
-<span id="fn_91"></span>[75:\*](aot09.htm#fr_91) The list is full of
+<span id="fn_91"></span>[75:\*](aot09.htm#fr_91.md) The list is full of
 gaps, so that we cannot suppose that Damis’ notes were anything like
 complete records of the numerous itineraries; not only so, but one is
 tempted to believe that whole journeys, in which Damis had no share, are
 omitted.
 
-<span id="fn_92"></span>[76:\*](aot09.htm#fr_92) Here at any rate they
+<span id="fn_92"></span>[76:\*](aot09.htm#fr_92.md) Here at any rate they
 came in sight of the giant mountains, the Imaus (Himavat) or Himālayan
 Range, where was the great mountain Meros (Meru). The name of the Hindu
 Olympus being changed into Meros in Greek had, ever since Alexander's
@@ -250,11 +250,11 @@ expedition, given rise to the myth that Bacchus was born from the thigh
 (*meros*) of Zeus—presumably one of the facts which led Professor Max
 Muller to stigmatise the whole of mythology as a "disease of language."
 
-<span id="fn_93"></span>[77:\*](aot09.htm#fr_93) Referring to his
+<span id="fn_93"></span>[77:\*](aot09.htm#fr_93.md) Referring to his
 instructors he says, "I ever remember my masters and journey through the
 world teaching what I have learned from them" (vi. 18).
 
-<span id="fn_94"></span>[78:\*](aot09.htm#fr_94) According to some,
+<span id="fn_94"></span>[78:\*](aot09.htm#fr_94.md) According to some,
 Apollonius would be now about sixty-eight years of age. But if he were
 still young (say thirty years old or so) when he left for India, he must
 <span id="page_79">p. 79</span> either have spent a very long period in
@@ -264,4 +264,4 @@ Minor, Greece, Italy, and Spain, after his return.
 ------------------------------------------------------------------------
 
 [Next: Section IX. In the Shrines of the Temples and the Retreats of
-Religion](aot10)
+Religion](aot10.md)

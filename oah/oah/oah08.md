@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah07)  [Next](oah09) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah07)  [Next](oah09.md) 
 
 ------------------------------------------------------------------------
 
@@ -222,4 +222,4 @@ Speak Thou, O Jehovih!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](oah09)
+[Next: Chapter I](oah09.md)

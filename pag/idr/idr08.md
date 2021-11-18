@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr07) 
-[Next](idr09) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr07.md) 
+[Next](idr09.md) 
 
 ------------------------------------------------------------------------
 
@@ -239,4 +239,4 @@ chieftains of Erin."
 
 ------------------------------------------------------------------------
 
-[Next: Isle Of Man Druidism](idr09)
+[Next: Isle Of Man Druidism](idr09.md)

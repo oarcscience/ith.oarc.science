@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida13)  [Next](ida15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida13)  [Next](ida15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -523,7 +523,7 @@ him like the apple-green wings of a beetle.
 
 "Isn't Aguida a beauty?" he went on, still weeping. "She makes me think
 of the Countess de Teruel, though she is a little darker. You know the
-Countess de [Teruel](errata.htm#8), Mercedes, who went in bathing nude
+Countess de [Teruel](errata.htm#8.md), Mercedes, who went in bathing nude
 at Biarritz, in front of the rock of the Virgin, one day when Prince
 Bismarck was standing on the foot-bridge. You do not remember her?
 Mercedes de Teruel."
@@ -556,4 +556,4 @@ I sat down again.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII. The Hetman of Jitomir's Story](ida15)
+[Next: Chapter XIII. The Hetman of Jitomir's Story](ida15.md)

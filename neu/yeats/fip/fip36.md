@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip35)  [Next](fip37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip35)  [Next](fip37.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ I strive to recall it if I may.
 
 ------------------------------------------------------------------------
 
-[Next: Grace Connor, by Letitia Maclintock](fip37)
+[Next: Grace Connor, by Letitia Maclintock](fip37.md)

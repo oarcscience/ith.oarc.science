@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt35)  [Next](crt37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt35)  [Next](crt37.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_29000"></span>
 
 [![Sir Percival overcometh ye Enchantress Vivien](tn/29000.jpg)  
-Click to enlarge](img/29000.jpg)  
+Click to enlarge](img/29000.jpg.md)  
 Sir Percival overcometh ye Enchantress Vivien  
 
 <span id="page_291">p. 291</span>
@@ -556,4 +556,4 @@ of the Castle of Beaurepaire.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Fourth](crt37)
+[Next: Chapter Fourth](crt37.md)

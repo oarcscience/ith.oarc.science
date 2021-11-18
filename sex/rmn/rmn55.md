@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn54)  [Next](rmn56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn54)  [Next](rmn56.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ preservation.
 
 ------------------------------------------------------------------------
 
-[Next: Plate LV: Pan and Syrinx](rmn56)
+[Next: Plate LV: Pan and Syrinx](rmn56.md)

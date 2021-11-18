@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip72)  [Next](fip74) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip72)  [Next](fip74.md) 
 
 ------------------------------------------------------------------------
 
-### THE HAUGHTY PRINCESS. <span id="fr_66"></span>[1](#fn_66)
+### THE HAUGHTY PRINCESS. <span id="fr_66"></span>[1](#fn_66.md)
 
 PATRICK KENNEDY.
 
@@ -120,9 +120,9 @@ as there was, none of US will ever see, any way.
 
 ### Footnotes
 
-<span id="fn_66"></span>[290:1](fip73.htm#fr_66) *Fireside Stories of
+<span id="fn_66"></span>[290:1](fip73.htm#fr_66.md) *Fireside Stories of
 Ireland*.
 
 ------------------------------------------------------------------------
 
-[Next: The Enchantment of Gearoidh Iarla, by Patrick Kennedy](fip74)
+[Next: The Enchantment of Gearoidh Iarla, by Patrick Kennedy](fip74.md)

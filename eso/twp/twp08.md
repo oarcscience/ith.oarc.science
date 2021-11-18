@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index) 
-[Index](index)  [Previous](twp07)  [Next](twp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric/Occult](../index.md) 
+[Index](index)  [Previous](twp07)  [Next](twp09.md) 
 
 ------------------------------------------------------------------------
 
@@ -689,7 +689,7 @@ standing or on the marble,
 
 granite or stucco pavement of the veranda or the bare ground.
 
-When they need a subject for magnetic or [somnambulistic](errata.htm#0)
+When they need a subject for magnetic or [somnambulistic](errata.htm#0.md)
 phenomena they take any of the servants you may choose, or a European if
 he is willing to serve.
 
@@ -776,4 +776,4 @@ results which the uninstructed would describe as "miraculous."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](twp09)
+[Next: Chapter VII](twp09.md)

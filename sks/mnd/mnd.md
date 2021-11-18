@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index)  [Shakespeare
-Index](../index)  [First Folio](../ff/mnd)  [Previous](../mfm/mfm) 
-[Next](../mov/mov) 
+[Intangible Textual Heritage home](../../index.md)  [Shakespeare
+Index](../index)  [First Folio](../ff/mnd)  [Previous](../mfm/mfm.md) 
+[Next](../mov/mov.md) 
 
 ------------------------------------------------------------------------
 
@@ -3126,4 +3126,4 @@ Index](../index)  [First Folio](../ff/mnd)  [Previous](../mfm/mfm) 
 
 ------------------------------------------------------------------------
 
-[Next: Merchant of Venice](../mov/mov) 
+[Next: Merchant of Venice](../mov/mov.md) 

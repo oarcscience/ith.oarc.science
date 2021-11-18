@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft23)  [Next](eft25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft23)  [Next](eft25.md) 
 
 ------------------------------------------------------------------------
 
 # The Red Ettin
 
 <span id="img_024"></span> [![](tn/024.jpg)  
-Click to enlarge](img/024.jpg)
+Click to enlarge](img/024.jpg.md)
 
 THERE was once a widow that lived on a small bit of ground, which she
 rented from a farmer. And she had two sons; and by and by it was time
@@ -170,4 +170,4 @@ happily all the rest of their days.
 
 ------------------------------------------------------------------------
 
-[Next: The Golden Arm](eft25)
+[Next: The Golden Arm](eft25.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](atawintr)  [Next](wolcott) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](atawintr)  [Next](wolcott.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233715/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233715/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -297,8 +297,8 @@ of us.
 <span class="small"></span>
 
 This page Copyright © 2000 J.B. Hare. Redistribution or reposting
-requires permission of the [author](https://ith.oarc.science/contact).
+requires permission of the [author](https://ith.oarc.science/contact.md).
 
 ------------------------------------------------------------------------
 
-[Next: Additional Information About Donnelly, by Norm Wolcott](wolcott)
+[Next: Additional Information About Donnelly, by Norm Wolcott](wolcott.md)

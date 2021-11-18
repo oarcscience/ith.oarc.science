@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jms08)  [Next](jms10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jms08)  [Next](jms10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -81,7 +81,7 @@ The same writer who protested that they were by no means "superstitions"
 offered a half-apology for advancing them: "Although one should not
 believe in superstitions," he wrote, to recall a previously quoted
 remark, "yet it is best to be heedful of them." Well, "heedful" his
-readers were, whether they believed or not.[1](jms28.htm#an_7_1)
+readers were, whether they believed or not.[1](jms28.htm#an_7_1.md)
 
 The essential character of things and of men resides in their names.
 Therefore to know a name is to be privy to the secret of its owner's
@@ -92,7 +92,7 @@ learn what it is; if an enemy should discover it, its bearer's life is
 forfeit. In highest antiquity and in our own day, among the most
 primitive and the most civilized peoples, the occult power that inheres
 in the name is recognized, and the name itself is known to be a mighty
-and awesome force in the hands of the magician.[2](jms28.htm#an_7_2)
+and awesome force in the hands of the magician.[2](jms28.htm#an_7_2.md)
 
 To know the name of a man is to exercise power over him alone; to know
 the name of a higher, supernatural being is to dominate
@@ -108,7 +108,7 @@ spirits guarded their names as jealously as ever did a primitive tribe.
 "Tell me, I pray thee, thy name," Jacob demanded of the angel with whom
 he had wrestled, but the angel parried the question and his name
 remained his secret, lest Jacob invoke him in a magical incantation and
-he be obliged to obey.[3](jms28.htm#an_7_3) But a vast mystic lore of
+he be obliged to obey.[3](jms28.htm#an_7_3.md) But a vast mystic lore of
 angel-names was inherited by medieval Jews, and expanded by them, so
 that many were initiated into these mysteries, and possessed the power
 to invoke the spirits. Higher than all, however, stands God—and the
@@ -126,7 +126,7 @@ problem by asserting at the same time the power of the Name and the
 power of God. "One may not say that the invocation of God's Name obliges
 Him to do the will of the invoker, that God Himself is coerced by the
 recital of His Name; but the Name itself is invested with the power to
-fulfill the desire of the man who utters it."[4](jms28.htm#an_7_4) The
+fulfill the desire of the man who utters it."[4](jms28.htm#an_7_4.md) The
 Name possesses an autonomous potency. And with this the theologians were
 obliged to content themselves.
 
@@ -165,22 +165,22 @@ which is thrown about magic rites; 'the wizards that squeak and gibber'
 formulas; the solemn parts of Christian rites have likewise tended to
 inaudible pronunciation. There exists a tendency toward intentional
 obscuration of the formulas, which by psychological necessity would tend
-to even greater corruption."[5](jms28.htm#an_7_5) The peculiar logic of
+to even greater corruption."[5](jms28.htm#an_7_5.md) The peculiar logic of
 magic makes a virtue of this process: the more barbaric the word the
 more potent it is likely to be. "So little is it necessary that the
 magic word possess any intelligible sense that most often it is
 considered efficacious in the degree that it is strange and meaningless,
 and words from foreign, incomprehensible tongues, in particular, are
-preferred."[6](jms28.htm#an_7_6) Rashi, in the eleventh century, proved
+preferred."[6](jms28.htm#an_7_6.md) Rashi, in the eleventh century, proved
 his familiarity with this phenomenon when he wrote: "The sorcerer
 whispers his charms, and doesn't understand what they are or what they
 mean, but . . . the desired effect is produced only by such
-incantations."[7](jms28.htm#an_7_7) The repertoire of the Cherokee
+incantations."[7](jms28.htm#an_7_7.md) The repertoire of the Cherokee
 medicine man comprises mostly archaic expressions that have conveyed no
 meaning for centuries; many aborigines in India, as do Tibetan and
 Chinese Buddhists, regard the ancient Sanskrit prayers, which are wholly
 unintelligible to them, as much more potent than their own. The
-"abracadabra"[7a](jms28.htm#an_7_7a) of the modern stage magician
+"abracadabra"[7a](jms28.htm#an_7_7a.md) of the modern stage magician
 reflects a phenomenon familiar to us all.
 
 <span id="page_82">p. 82</span>
@@ -209,7 +209,7 @@ furthered by a significant element in the mystical tradition. The
 Pythagorean concept of the creative power of numbers and letters was
 known in *Tannaitic* times; the famous *Amora* Rab (about 200 C.E.) said
 of Bezalel that "he knew how to combine the letters by which heaven and
-earth were created."[8](jms28.htm#an_7_8) The Geonic mystic lore made
+earth were created."[8](jms28.htm#an_7_8.md) The Geonic mystic lore made
 much of this doctrine, and in the *Sefer Yeẓirah* it was elevated into
 one of the pillars of the *Kabbalah*. It was especially popular in the
 German *Kabbalah* of the thirteenth century which above all insisted
@@ -255,7 +255,7 @@ himself beforehand, not only will he fail in his efforts, but he must
 expect to suffer for his presumption." "Names may be taught only to
 pious scholars and sages, who will not misuse them." One must not even
 dare utter holy names aloud; it sufficed to "meditate on them in one's
-heart."[9](jms28.htm#an_7_9) But fear of the names, however marked, did
+heart."[9](jms28.htm#an_7_9.md) But fear of the names, however marked, did
 not prevent their frequent use, as our literature amply demonstrates.
 
 The powers that were ascribed to the names were limitless. Nothing in
@@ -267,7 +267,7 @@ by having him lick up certain names that the teacher had outlined in the
 sand; names were used to kill and to resurrect; and most wonderful of
 all, by means of a name "the heart of man may be turned to fear the
 Lord, so that even the most wicked may become
-righteous"![10](jms28.htm#an_7_10)
+righteous"![10](jms28.htm#an_7_10.md)
 
 <span id="page_84">p. 84</span>
 
@@ -282,7 +282,7 @@ power, can create nothing smaller than a barley-corn. This was the
 standard limitation imposed on sorcerers by medieval writers, though, as
 the *Gemara* explained: "The demons cannot actually create even large
 beings, but merely assemble already created but unused primeval
-matter."[11](jms28.htm#an_7_11) Thus the ultimate act of genesis was
+matter."[11](jms28.htm#an_7_11.md) Thus the ultimate act of genesis was
 reserved for God alone. It was nowhere suggested that human life could
 be created by ordinary magical means.
 
@@ -317,7 +317,7 @@ the usual generative process," but the methods pursued by non-Jews were
 less subtle than the one proposed by the Talmud. For example, a
 fourteenth-century Christian writer cited the Arab Rasis (tenth century)
 on generating a human being by putting an unnamed substance in a vase
-filled with horse manure, for three days.[12](jms28.htm#an_7_12)
+filled with horse manure, for three days.[12](jms28.htm#an_7_12.md)
 
 The thirteenth-century German *Ḥasidim* (Pietists and Mystics) were
 especially intrigued by this problem. From them comes the use of the
@@ -341,7 +341,7 @@ crumbled into dust. These legends of the *golem* were transferred, not
 before the eighteenth century, to R. Judah Löw b. Bezalel, without any
 historical basis. The remains of the Frankenstein monster which he is
 supposed to have brought into being arc said still to be among the
-debris in the attic of Prague's *Altneuschule*.[13](jms28.htm#an_7_13)
+debris in the attic of Prague's *Altneuschule*.[13](jms28.htm#an_7_13.md)
 
 At least one mystic, the greatest of them all in Germany, Eleazar of
 Worms, had the daring to record the formula, which occurs again later in
@@ -361,7 +361,7 @@ that name, by erasing the initial letter of *emet*, leaving *met*
 ("dead"), or by reversing the creative combinations, for, as R. Jacob b.
 Shalom, who came to Barcelona from Germany in 1325, remarked, the law of
 destruction is nothing more than a reversal of the law of
-creation.[14](jms28.htm#an_7_14)
+creation.[14](jms28.htm#an_7_14.md)
 
 Yet, while not doubting its possibility, medieval Jews were in general
 skeptical of their own ability to imbue dead matter with life, and
@@ -387,7 +387,7 @@ the *Book of Creation*. . . . We German Jews have lost this mystical
 tradition, but in Palestine there are still to be found some men who can
 perform great wonders through the *Kabbalah*. Our fools \[another pun on
 the word *golem*\] are not created out of clay, but come from their
-mothers’ wombs."[15](jms28.htm#an_7_15) His heavy sarcasm, though
+mothers’ wombs."[15](jms28.htm#an_7_15.md) His heavy sarcasm, though
 prompted by apologetic motives, expressed the general Jewish attitude on
 the subject—it can be done, but no longer by us.
 
@@ -433,7 +433,7 @@ sorcery of ancient Egypt, displayed this phenomenon prominently, and
 thence it was reflected to Jewish sorcery. This accounts for the
 comparatively late emergence of such word-magic in Judaism. It is the
 Talmud which first "illustrates the use of these *barbarica
-onomata*."[16](jms28.htm#an_7_16)
+onomata*."[16](jms28.htm#an_7_16.md)
 
 We have then, a fusion of these various streams at about the beginning
 of our era, the ancient Babylonian and Egyptian coming together in early
@@ -450,13 +450,13 @@ time: a vast expansion of mystic nomenclature, and the prominence of
 bizarre terms. Origen believed that there is power in the words
 themselves, "as is to be seen from the fact that when translated into
 another language they lose their operative
-force."[17](jms28.htm#an_7_17)
+force."[17](jms28.htm#an_7_17.md)
 
 The magic of the Talmud depended largely upon the potency inherent in
 the form of the incantation, that is, in the word, and upon the magical
 action, for its most striking effects, and in consequence we find the
 barbaric word coming to occupy an important place. The invocation of
-names,[18](jms28.htm#an_7_18) and in particular of angelic names, came
+names,[18](jms28.htm#an_7_18.md) and in particular of angelic names, came
 distinctly and prominently to the fore only in the post-Talmudic period.
 The Aramaic texts published by Montgomery and others represent an
 intermediary stage in the process; while incomparably richer than in the
@@ -494,7 +494,7 @@ eclecticism which characterized Hellenistic sorcery; Montgomery remarks
 of his early post-Talmudic incantations that "what appears like a good
 Jewish text at times admits a pagan deity into its celestial
 hierarchy—somewhat as the medieval Church came to canonize the
-Buddha."[19](jms28.htm#an_7_19)
+Buddha."[19](jms28.htm#an_7_19.md)
 
 This was the background of thirteenth-century Jewish name-magic, which
 improved upon its antecedents by multiplying the number of names, both
@@ -526,7 +526,7 @@ the hostility of the Church the so-called Notory Art grew steadily in
 popularity during the later Middle Ages. It never achieved, however, the
 independent exuberance and creativeness of its Jewish counterpart,
 though it came in time to reflect it as a result of the introduction of
-the *Kabbalah* into Christian circles.[20](jms28.htm#an_7_20)
+the *Kabbalah* into Christian circles.[20](jms28.htm#an_7_20.md)
 
 <span id="page_90">p. 90</span>
 
@@ -539,24 +539,24 @@ surrounded from early times with an aura of superlative sanctity and
 awe. Already before the beginning of our era the Tetragrammaton had
 become the "Ineffable Name," too sacred for expression, uttered only
 once a year by the High Priest; a substitute took its place in popular
-usage.[21](jms28.htm#an_7_21) During Talmudic times the number of
+usage.[21](jms28.htm#an_7_21.md) During Talmudic times the number of
 "Ineffable" names grew; we hear of 12- and 42- and 72-letter names,
 which might be taught only to a select company of
-ultra-worthies.[22](jms28.htm#an_7_22) Succeeding centuries witnessed
+ultra-worthies.[22](jms28.htm#an_7_22.md) Succeeding centuries witnessed
 the discovery of names of 8, 10, 14, 16, 18, 21, 22, 32, and 60 letters
-or syllables,[23](jms28.htm#an_7_23) hedged around with a vast,
+or syllables,[23](jms28.htm#an_7_23.md) hedged around with a vast,
 well-nigh impenetrable mystic rigmarole which purported to unfold the
 esoteric significance and power of these names, all of which were
 supposed to derive, by a more or less devious route, from the original
-4-letter name.[24](jms28.htm#an_7_24)
+4-letter name.[24](jms28.htm#an_7_24.md)
 
 Important as this secret lore was to the mystic, the pragmatic interest
 of the magician focused his attention upon the names themselves; though
 the Kabbalist insisted that a thorough grounding in theory was a
-prerequisite to the utilization of these names,[25](jms28.htm#an_7_25)
+prerequisite to the utilization of these names,[25](jms28.htm#an_7_25.md)
 the magician was prepared to take the names and leave the theory to the
 scholars. For he knew that "the name of God creates and destroys
-worlds,"[26](jms28.htm#an_7_26) and his preoccupation was to acquire
+worlds,"[26](jms28.htm#an_7_26.md) and his preoccupation was to acquire
 knowledge of *all* the names, and to set them to work for wholly
 practical, if more human, ends. Nor was he deterred by bitter diatribes
 against "those ignorant and impious ones" who dabble in *Kabbalah* with
@@ -577,7 +577,7 @@ Adonay, Ya,
 <span id="page_91">p. 91</span>
 
 <span class="contnote">\[paragraph continues\]</span> Tetragrammaton,
-Saday, and Eloym.[27](jms28.htm#an_7_27) Another name in common usage
+Saday, and Eloym.[27](jms28.htm#an_7_27.md) Another name in common usage
 was the *Ehyeh Asher Ehyeh* ("I Am That I Am") which was revealed to
 Moses at the burning bush. These appellations were often employed in the
 charms, but they did not rank so high in mystical potency as the others.
@@ -587,7 +587,7 @@ four-lettered <span class="smallcaps">yhvh</span>, the original name of
 God. Its powers were ascribed also to a wide range of variations upon
 it, from the particles <span class="smallcaps">yah</span>, <span
 class="smallcaps">yahu</span>, <span
-class="smallcaps">hu</span>,[28](jms28.htm#an_7_28) etc., to the twelve
+class="smallcaps">hu</span>,[28](jms28.htm#an_7_28.md) etc., to the twelve
 forms which it could assume by the transposition of its letters: <span
 class="smallcaps">yhhv</span>, <span class="smallcaps">yvhh</span>,
 <span class="smallcaps">hvhy</span>, etc. The particle <span
@@ -609,7 +609,7 @@ garments which clothe it . . . therefore the vowel is really the more
 important element, and the vocalization, which marks the transition from
 potentiality to actuality, determines the specific virtues of the holy
 names," i.e., their powers and even the times when they are especially
-potent.[29](jms28.htm#an_7_29) The uncertainty that prevailed concerning
+potent.[29](jms28.htm#an_7_29.md) The uncertainty that prevailed concerning
 the vocalization of these names, and the varying traditions concerning
 their pronunciation, made for a certain freedom in their use, and opened
 the way to an expansion of the possibilities afforded by any one name.
@@ -618,12 +618,12 @@ name which constituted their base.
 
 Of the multi-lettered names I shall discuss here only those of 22, 42,
 and 72 elements, which are the only ones that possess any constancy of
-form and content in our literature.[30](jms28.htm#an_7_30) The others
+form and content in our literature.[30](jms28.htm#an_7_30.md) The others
 were the product of individual ingenuity, and made no lasting impression
 upon the practice of Jewish magic. All men felt free, granted the
 requisite skill and training, to extend the traditional magical
 nomenclature for private use by the application of the approved
-methods.[31](jms28.htm#an_7_31) But these three names (in addition to
+methods.[31](jms28.htm#an_7_31.md) But these three names (in addition to
 the Tetragrammaton) were
 
 <span id="page_92">p. 92</span>
@@ -635,18 +635,18 @@ The name of 12 letters, mentioned in the Talmud, was a dead-letter in
 post-Talmudic times. It was unknown to the mystics, and although a
 tradition appears to have persisted relating it to the Priestly
 Benediction (Nu. 6:24-26), and some efforts were made to reconstruct
-it,[32](jms28.htm#an_7_32) it played no part in Jewish magic. Its place,
+it,[32](jms28.htm#an_7_32.md) it played no part in Jewish magic. Its place,
 however, was taken by two new names, of 14 and 22 letters, the first of
 which was comparatively little used. It consisted of the words ‏‎, from
 the *Shema‘*, and by means of *Temurah* (described in Appendix I), it
 appeared as ‏‎. Though recognized as a legitimate name of
-God,[33](jms28.htm#an_7_33) and occasionally employed in incantations
+God,[33](jms28.htm#an_7_33.md) and occasionally employed in incantations
 and amulets, its primary use was as an inscription on the back of the
 *mezuzah*.
 
 The name of 22, however, is another matter, more interesting and
 puzzling—and much more important for the magician. Its debut was made in
-*Sefer Raziel*,[34](jms28.htm#an_7_34) which, while largely ascribed to
+*Sefer Raziel*,[34](jms28.htm#an_7_34.md) which, while largely ascribed to
 Eleazar of Worms, drew extensively upon Geonic mystic sources. It is
 therefore likely that the name is older than the book which introduced
 it to a larger Jewish public. More than this we cannot say concerning
@@ -676,13 +676,13 @@ hidden behind
 
 <span id="page_93">p. 93</span>
 
-these disguises.[3](jms28.htm#an_7_3)" The Greek gods masquerading in
+these disguises.[3](jms28.htm#an_7_3.md)" The Greek gods masquerading in
 pious Jewish garb!
 
 These scholars have gone too far afield in their zeal to discover the
 progenitors of this strange name. Its source may be sooner sought right
 at home, in Jewish tradition, which offers a clew that they have
-overlooked. Some scholars[36](jms28.htm#an_7_36) have, indeed, derived
+overlooked. Some scholars[36](jms28.htm#an_7_36.md) have, indeed, derived
 this name from Jewish origins, pointing in particular to the acrostic of
 the initial letters of certain prayers in the liturgy, which spell it
 out. These prayers, however, were composed *post eventum* and display
@@ -707,7 +707,7 @@ appearance of the 22-letter name was made in association with that
 Benediction; two of the four instances of its occurrence in *Sefer
 Raziel* place them both together. Their relationship is rendered much
 more intimate by illuminating comments in two works which are especially
-close to the mystical tradition. One[37](jms28.htm#an_7_37) informs us
+close to the mystical tradition. One[37](jms28.htm#an_7_37.md) informs us
 that "the name of 22, which is Anaktam, etc., is derived from five words
 which comprise 22 letters, namely, ‏יאר יהוה יברכך יהוה וישמרך‎ 1 "; and
 the other is equally specific: "The name of 22 comes from the Priestly
@@ -732,7 +732,7 @@ parallel:
 <span class="contnote">\[paragraph continues\]</span> The famous Safed
 Kabbalist, Moses Cordovero (sixteenth century), has indeed left us a
 table of alphabetical permutations explaining in detail the derivation
-of this name from the Benediction.[38](jms28.htm#an_7_38)
+of this name from the Benediction.[38](jms28.htm#an_7_38.md)
 
 The name of 42 letters was known to Hai Gaon, who did not hesitate to
 indicate clearly just what it was, though he did not give it in full. He
@@ -740,7 +740,7 @@ wrote, "Although the consonants of this name are well known, its proper
 vocalization is not rendered by tradition. Some pronounce its first part
 *Abgitaẓ*, and others *Abigtaẓ*, and the last part is sometimes read
 *Shakvaẓit*, and sometimes *Shekuẓit*, but there is no definite
-proof."[39](jms28.htm#an_7_39) His doubt concerning its proper reading
+proof."[39](jms28.htm#an_7_39.md) His doubt concerning its proper reading
 is, to my mind, an indication of its antiquity; in a language such as
 Hebrew, written without vowel signs, the consonants are the constant
 element, while the vowels would tend to shift and change in the course
@@ -775,11 +775,11 @@ is to be written upon an amulet and hung around the neck of the victim,
 who will be cured by it." The parts of the name assumed the dignity and
 power of names in their own right. Some went even further and employed
 each letter as the basis of a separate name so that this one name became
-forty-two.[40](jms28.htm#an_7_40)
+forty-two.[40](jms28.htm#an_7_40.md)
 
 It has been generally assumed that this name was derived from the
 acrostic of a prayer beginning *Ana Bekoaḥ*, ascribed to a rabbi of the
-second century, Neḥunya ben HaKana.[41](jms28.htm#an_7_41) While it is
+second century, Neḥunya ben HaKana.[41](jms28.htm#an_7_41.md) While it is
 highly improbable that this prayer was the source of the name, or that
 it dates back to the second century, this theory constitutes a
 recognition of the antiquity of the name. It no doubt represented the
@@ -788,17 +788,17 @@ efforts with the 22-letter name. The medieval mystics, however,
 possessed a tradition according to which this name is derived from the
 first forty-two letters in the Bible. This statement occurs several
 times and was accepted even by the famous Talmudist of the twelfth
-century, Rabbenu Jacob Tam.[42](jms28.htm#an_7_42) There is no reason to
+century, Rabbenu Jacob Tam.[42](jms28.htm#an_7_42.md) There is no reason to
 doubt the truth of this report.
 
 The "holy and awesome" name of 72—this time it is not letters, but
 syllables or triads—is the most powerful
-(*Raziel*[43](jms28.htm#an_7_43) goes so far as to suggest that no magic
+(*Raziel*[43](jms28.htm#an_7_43.md) goes so far as to suggest that no magic
 can be effectively consummated without its aid) and at the same time the
 least mysterious of these artificially created names. Its composition
 was well-known in Geonic times, though the pronunciation of its elements
 was in doubt, and the renowned exegete, Rashi, felt no hesitation in
-disclosing its make-up.[44](jms28.htm#an_7_44) The method adopted to
+disclosing its make-up.[44](jms28.htm#an_7_44.md) The method adopted to
 construct this name was simplicity itself; perhaps the theory was that
 after a series of thoroughly mystifying terms, the analytical powers of
 the student would be too numb to penetrate this one. At any rate it is
@@ -840,13 +840,13 @@ against an enemy, he will die, and if it is uttered before a ruler, his
 favor will be won," and so on and on, realizing all those dreams of
 omnipotence that have tantalized men from the beginning of days. "But
 whoever pronounces this name while he is in a state of uncleanness and
-impurity will surely be struck dead."[45](jms28.htm#an_7_45)
+impurity will surely be struck dead."[45](jms28.htm#an_7_45.md)
 
 The printed text of *Sefer Raziel*, which gives this name of 72 in full,
 omits the vowels; a manuscript version of this work which I have
 examined, in including the vowels, proves that the same confusion
 existed concerning the pronunciation of this name as of the
-others.[46](jms28.htm#an_7_46) After concluding the text of the name,
+others.[46](jms28.htm#an_7_46.md) After concluding the text of the name,
 the scribe appended a note to the effect that "there is another
 tradition of vocalization of the particles of this name, and I studied
 it carefully in connection with the text of the Biblical verses, but I
@@ -878,7 +878,7 @@ the seventh is "to make peace between disputants," the tenth "eliminates
 distance so that one may be miraculously transferred from one place to
 another," the eleventh is "to kill one's enemies," the fourteenth is to
 be used "against a demon, or to uproot a man from his city, or for any
-difficult enterprise."[47](jms28.htm#an_7_47) Evidently this name was so
+difficult enterprise."[47](jms28.htm#an_7_47.md) Evidently this name was so
 powerful that any combination of its parts might be utilized to achieve
 a given purpose; the magicians apparently adjusted these combinations to
 suit their ends.
@@ -896,7 +896,7 @@ accompanied the utterance of the names.
 While the names of God in themselves were effective for the prescribed
 ends, often it was through specific angels that the given task was
 carried out. In employing the great name of 72, says *Sefer
-Raziel*,[48](jms28.htm#an_7_48) the incantation must run in this wise:
+Raziel*,[48](jms28.htm#an_7_48.md) the incantation must run in this wise:
 "I command
 
 <span id="page_98">p. 98</span>
@@ -927,7 +927,7 @@ reciting "Uriel" 242 times is guaranteed to improve the memory!—that
 word at least will probably never after be forgotten. Most often,
 however, the magician's patience was not so long, and he contented
 himself with a mere mouthful of names, a good-sized one, that
-is.[49](jms28.htm#an_7_49)
+is.[49](jms28.htm#an_7_49.md)
 
 The names that appear most frequently are those of the three archangels,
 Michael, Gabriel and Raphael, often mentioned in Talmudic literature.
@@ -937,7 +937,7 @@ back at least to Geonic times, had it that there are seven archangels,
 each of whom is associated with a planet: those already mentioned, and
 Aniel, Kafẓiel, Ẓadkiel, Samael (occasionally Ḥasdiel and Barkiel are
 substituted for two of the others) . The archangels are also brought
-into connection with the signs of the Zodiac.[50](jms28.htm#an_7_50)
+into connection with the signs of the Zodiac.[50](jms28.htm#an_7_50.md)
 
 These angels were inherited, by and large, from preceding centuries. A
 much larger group was called into being to perform specific functions.
@@ -996,7 +996,7 @@ of 36, or 43, or 65 angels, as the case may be (*Sefer Raziel* is not
 chary with the figures), and there are countless angels presiding over
 every feature of our natural universe, and there are seven heavens, each
 with its "chief" and his "host," all bearing magical names, where is the
-end of such an etymological enterprise?[51](jms28.htm#an_7_51)
+end of such an etymological enterprise?[51](jms28.htm#an_7_51.md)
 
 #### BORROWED NAMES
 
@@ -1012,7 +1012,7 @@ been suggested as the sources of the 22-letter name. While this
 interpretation appears doubtful, other names are clearly identifiable.
 Aphrodite put in an appearance as one of the angels of the planet Venus,
 appropriately enough, and Hermes was one of the guardians of the
-sun.[52](jms28.htm#an_7_52) Despite the view of Blau that there is not
+sun.[52](jms28.htm#an_7_52.md) Despite the view of Blau that there is not
 "a single reliable instance" of the occurrence in Hebrew of the name
 Abraxas (the original form was Abrasax), famous in the annals of magic,
 it does make its appearance quite unmistakably in Jewish documents in
@@ -1020,7 +1020,7 @@ both forms. Montgomery and Myrhman have discovered it in post-Talmudic
 incantation texts, Gaster has found it in the Geonic *Sword of Moses*,
 it occurs at least once in Raziel, and I have come across it again in a
 sixteenth-century text of an amulet published by
-Grunwald.[33](jms28.htm#an_7_33)
+Grunwald.[33](jms28.htm#an_7_33.md)
 
 We have noted the appearance of "Tetragrammaton" as one of the names of
 God; it occurred fairly frequently in the Hebrew charms. Similarly,
@@ -1034,7 +1034,7 @@ deception, and jotted down on the margin of
 
 a manuscript the caution, "this should read ‏אלהי צבאות‎." "Alpha" is
 another word which assumed godlike proportions in the
-charms.[54](jms28.htm#an_7_54)
+charms.[54](jms28.htm#an_7_54.md)
 
 One prescription suggests that when a man feels that he is being
 overcome by the powers of evil, they may be dispelled by the utterance
@@ -1046,14 +1046,14 @@ had adopted the custom of substituting a *yod* for the *vav* in the
 Tetragrammaton, making it ?yη?yη. "In the older manuscripts of the
 Septuagint the Tetragrammaton was retained in Hebrew letters. In Greek
 circles these Hebrew letters, *yod he yod he*, were not recognized as
-such, but read as the Greek letters, πιπι."[55](jms28.htm#an_7_55) Thus
+such, but read as the Greek letters, πιπι."[55](jms28.htm#an_7_55.md) Thus
 Pipi became a magic name, and is to be found in Greek incantations.
 Jewish tradition, having borrowed this name from the Greeks, rendered it
 back into Hebrew—the Ineffable Name restored to its original tongue, but
 in how altered a form!
 
 Three widely used angel-names, first prescribed by The Alphabet of Ben
-Sira[56](jms28.htm#an_7_56) as a potent prophylactic against the
+Sira[56](jms28.htm#an_7_56.md) as a potent prophylactic against the
 depredations of the demon Lilit, and since accepted as a specific, have
 aroused much interest and speculation. They are spelled *Snvi*,
 *Snsnvi*, *Smnglf* (sometimes *Snmglf*), and were probably read Sanvi,
@@ -1104,7 +1104,7 @@ the dispute is just as lively, the suggestions even more ingenious, and
 the results even less convincing. I may add that this incantation was
 also recited by a child when it first entered school, with the
 additional tenfold repetition of: Negef, Segef, Agaf, names which were
-ascribed to the "angels of destruction."[57](jms28.htm#an_7_57)
+ascribed to the "angels of destruction."[57](jms28.htm#an_7_57.md)
 
 There are instances of entire phrases and sentences from the Latin and
 the Greek, transposed into Hebrew and employed as a series of names.
@@ -1114,7 +1114,7 @@ one may reread the words as they were once pronounced. A charm
 guaranteed to heal a split tree contains two sets of "names" which
 Grunwald has read, quite plausibly, as "patriæ pax corona evocatur Dei"
 and "ut arcus offensionum submotus est, ita cave
-emovere."[58](jms28.htm#an_7_58) Indeed, Güdemann has very ingeniously
+emovere."[58](jms28.htm#an_7_58.md) Indeed, Güdemann has very ingeniously
 and convincingly reconstructed an entire paragraph in Latin out of a
 fifteenth-century German-Jewish manuscript. He surmises—and this is the
 only possible explanation—that this magical formula, composed by
@@ -1133,17 +1133,17 @@ dozen European tongues—our Hocus Pocus. It is known in European
 literatures only since the beginning of the seventeenth century. The
 origin of the term is uncertain—it has been claimed as of both Jewish
 and Christian derivation—but whatever its origin there is no doubt that
-it has been preserved for us by German Jews.[50](jms28.htm#an_7_50)
+it has been preserved for us by German Jews.[50](jms28.htm#an_7_50.md)
 
 A love charm has it that if three names, which have been read as the
 Greek words *ieros laos filos*, are written with ink on one's left hand
 "when you see the one you desire he will love
-you."[60](jms28.htm#an_7_60) And, to cap the story, a "name of
+you."[60](jms28.htm#an_7_60.md) And, to cap the story, a "name of
 interpretation," employed by a preacher to gain special inspiration for
 his homily, is made up of terms which are probably Greek in origin, and
 among them may be recognized, of all things, the names of "Maria" and
-the "Parakletos," Jesus of Nazareth himself![61](jms28.htm#an_7_61)
+the "Parakletos," Jesus of Nazareth himself![61](jms28.htm#an_7_61.md)
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Bible In Magic](jms10)
+[Next: 8. The Bible In Magic](jms10.md)

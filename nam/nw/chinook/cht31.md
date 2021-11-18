@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](cht30)  [Next](cht32) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](cht30)  [Next](cht32.md) 
 
 ------------------------------------------------------------------------
 
@@ -88,4 +88,4 @@ and their mats. All do thus.
 
 ------------------------------------------------------------------------
 
-[Next: Elk Hunting](cht32)
+[Next: Elk Hunting](cht32.md)

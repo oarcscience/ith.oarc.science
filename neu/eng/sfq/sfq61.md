@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq60)  [Next](sfq62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq60)  [Next](sfq62.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ entrance, but was refused and defied
 <span id="img_28800"></span>
 
 [![](tn/28800.jpg)  
-Click to enlarge](img/28800.jpg)
+Click to enlarge](img/28800.jpg.md)
 
 with a torrent of evil abuse. He was also beaten with stones flung down
 from the battlements, so that he was
@@ -116,4 +116,4 @@ his former journey.
 
 ------------------------------------------------------------------------
 
-[Next: The Giant with the Scales](sfq62)
+[Next: The Giant with the Scales](sfq62.md)

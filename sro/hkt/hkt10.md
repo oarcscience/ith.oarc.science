@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt09)  [Next](hkt11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt09)  [Next](hkt11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ al Acsa, (the Temple of Solomon,) and I saw a bell suspended from the
 dome. The rites and ceremonies of the Mussulmen were abolished; the call
 to prayer was no longer heard. The infidels publicly exercised their
 idolatrous practices in the sanctuaries of the Mussulmen." <span
-id="fr_276"></span>[\*](#fn_276)
+id="fr_276"></span>[\*](#fn_276.md)
 
 By the advice of Benedict, bishop of Marseilles, who came to the holy
 city on a pilgrimage, the Templars rebuilt their ancient
@@ -67,7 +67,7 @@ diameter, and seventy-two feet higher than the walls. The fosse
 surrounding the fortress was thirty-six feet wide, and was pierced in
 the solid rock to a depth of forty-three feet. The garrison, in time of
 peace, amounted to one thousand seven hundred men, and to two thousand
-two hundred in time of war. <span id="fr_277"></span>[\*](#fn_277) The
+two hundred in time of war. <span id="fr_277"></span>[\*](#fn_277.md) The
 ruins of this famous castle crowning the summit of a lofty mountain,
 torn and shattered by earthquakes, still present a stupendous
 appearance. In Pococke's time "two particularly fine large round towers"
@@ -93,7 +93,7 @@ brethren, besides hired soldiers in the pay of the
 <span class="margnote">HERMANN DE  
 PERIGORD  
 A.D. 1244.</span><span class="contnote">\[paragraph continues\]</span>
-Order. <span id="fr_278"></span>[\*](#fn_278) The following account of
+Order. <span id="fr_278"></span>[\*](#fn_278.md) The following account of
 these disasters was forwarded to Europe by the Vice-Master of the
 Temple, and the bishops and abbots of Palestine.
 
@@ -229,7 +229,7 @@ entreat you liberally to receive and patiently to hear the aforesaid
 messengers, who have exposed themselves to great dangers for the church
 of God, by navigating the seas in the depth of winter. Given at Acre,
 this fifth day of November, in the year of our Lord one thousand twelve
-hundred and forty-four." <span id="fr_279"></span>[\*](#fn_279)
+hundred and forty-four." <span id="fr_279"></span>[\*](#fn_279.md)
 
 The above letter was read before a general council of the
 
@@ -274,7 +274,7 @@ the houses of the Temple, and that the Templars suffered them to perform
 PERIGORD  
 A.D. 1244.</span>within them their superstitious rites and ceremonies,
 with invocation of Mahomet, and to indulge in secular delights." <span
-id="fr_280"></span>[\*](#fn_280) The Templars, notwithstanding their
+id="fr_280"></span>[\*](#fn_280.md) The Templars, notwithstanding their
 disasters, successfully defended all their strong fortresses in
 Palestine against the efforts of the Carizmians, and gradually recovered
 their footing in the Holy Land. The galleys of the Order kept the
@@ -282,7 +282,7 @@ command of the sea, and succour speedily arrived to them from their
 western brethren. A general chapter of knights was assembled in the
 Pilgrim's Castle, and the veteran warrior, brother WILLIAM DE SONNAC,
 was chosen Grand Master of the Order. <span
-id="fr_281"></span>[†](#fn_281) <span class="margnote">WILLIAM DE  
+id="fr_281"></span>[†](#fn_281.md) <span class="margnote">WILLIAM DE  
 SONNAC  
 A.D. 1245.</span> Circular mandates were, at the same time, sent to the
 western preceptories, summoning all the brethren to Palestine, and
@@ -292,12 +292,12 @@ to have been promptly attended to, and the Pope praises both the
 Templars and Hospitaliers for the zeal and energy displayed by them in
 sending out the newly-admitted knights and novices with armed bands and
 a large amount of treasure to the succour of the holy territory. <span
-id="fr_282"></span>[‡](#fn_282) The aged knights, and those whose duties
+id="fr_282"></span>[‡](#fn_282.md) The aged knights, and those whose duties
 rendered them unable to leave the western preceptories, implored the
 blessings of heaven upon the exertions of their brethren; they observed
 extraordinary fasts and mortification, and directed continual prayers to
 be offered up throughout the Order. <span
-id="fr_283"></span>[§](#fn_283) Whilst the proposed crusade was slowly
+id="fr_283"></span>[§](#fn_283.md) Whilst the proposed crusade was slowly
 progressing, the holy pontiff wrote to the sultan of Egypt, the ally of
 the Carizmians, proposing a peace or a truce, and received the following
 grand and magnificent reply to his communication:
@@ -353,14 +353,14 @@ imperial court upon the propositions made to us by the Pope's messenger,
 
 "This letter was written on the seventh of the month *Maharan*. Praise
 be to the one only God, and may his blessing rest upon our master
-Mahomet." <span id="fr_284"></span>[\*](#fn_284)
+Mahomet." <span id="fr_284"></span>[\*](#fn_284.md)
 
 The year following, (A.D. 1247,) the Carizmians were annihilated; they
 were cut up in detail by the Templars and Hospitallers, and were at last
 slain to a man. Their very name perished from the face of the earth, but
 the traces of their existence were long preserved in the ruin and
 desolation they had spread around them. <span
-id="fr_285"></span>[†](#fn_285) The Holy Land, although happily freed
+id="fr_285"></span>[†](#fn_285.md) The Holy Land, although happily freed
 from the destructive presence of these barbarians, had yet everything to
 fear from the powerful sultan of Egypt, with whom hostilities still
 continued; and Brother William de Sonnac, the Grand Master of the
@@ -381,7 +381,7 @@ precious relic, signed by the patriarch of Jerusalem, and the bishops,
 the abbots, and the barons of the Holy Land, was forwarded to London for
 the satisfaction of the king and his subjects, and was deposited,
 together with the vase and its inestimable contents, in the cathedral
-church of Saint Paul. <span id="fr_286"></span>[\*](#fn_286)
+church of Saint Paul. <span id="fr_286"></span>[\*](#fn_286.md)
 
 In the month of June, A.D. 1249, the galleys of the Templars left Acre
 with a strong body of forces on board, and joined the expedition
@@ -402,7 +402,7 @@ power and assistance. Moreover, be it known to you that king Louis, with
 God's favour, proposes to march upon Alexandria or Cairo for the purpose
 of delivering our brethren there detained in captivity, and of reducing,
 with God's help, the whole land to the christian worship. Farewell."
- <span id="fr_287"></span>[†](#fn_287)
+ <span id="fr_287"></span>[†](#fn_287.md)
 
 The Lord de Joinville, the friend of king Louis, and one of the bravest
 of the French captains, gives a lively and most interesting account of
@@ -452,12 +452,12 @@ three hundred other knights. The Templars
 SONNAC  
 A.D. 1250.</span>lost, as their chief informed me, full fourteen score
 men-at-arms, and all his horsemen." <span
-id="fr_288"></span>[\*](#fn_288)
+id="fr_288"></span>[\*](#fn_288.md)
 
-The Grand Master of the Temple also lost an eye, [and](errata.htm#5) cut
+The Grand Master of the Temple also lost an eye, [and](errata.htm#5.md) cut
 his way through the infidels to the main body of the christian army,
 accompanied only by two Knights Templars. <span
-id="fr_289"></span>[†](#fn_289) There he again mixed in the affray, took
+id="fr_289"></span>[†](#fn_289.md) There he again mixed in the affray, took
 the command of a vanguard, and is to be found fighting by the side of
 the Lord de Joinville at sunset. In his account of the great battle
 fought on the first Friday in Lent, Joinville thus commemorates the
@@ -483,13 +483,13 @@ earth
 <span id="page_178">p. 178</span>
 
 beneath them, such showers of these had been discharged against the
-Templars by the Saracens!" <span id="fr_290"></span>[\*](#fn_290)
+Templars by the Saracens!" <span id="fr_290"></span>[\*](#fn_290.md)
 
 <span class="margnote">REGINALD DE  
 VICHIER  
 A.D. 1252.</span>The Grand Master, William de Sonnac, was succeeded by
 the Marshall of the Temple, Brother Reginald de Vichier. <span
-id="fr_291"></span>[†](#fn_291) King Louis, after his release from
+id="fr_291"></span>[†](#fn_291.md) King Louis, after his release from
 captivity, proceeded to Palestine, where he remained two years. He
 repaired the fortifications of Jaffa and Cæsarea, and assisted the
 Templars in putting the country into a defensible state. The Lord de
@@ -521,7 +521,7 @@ that the king shall be contented with him and with you.'"
 The ambassadors accordingly did as they were bid, and brought back from
 their scheik a shirt, the symbol of friendship, and a great variety of
 rich presents, "crystal elephants, pieces of amber, with borders of pure
-gold," &c. &c. <span id="fr_292"></span>[\*](#fn_292)" You must know
+gold," &c. &c. <span id="fr_292"></span>[\*](#fn_292.md)" You must know
 that when the ambassadors opened the case containing all these fine
 things, the whole apartment was instantly embalmed with the odour of
 their sweet perfumes."
@@ -536,7 +536,7 @@ At the period of the return of the king of France to Europe, (A.D.
 Robert de Sanford, Master of the Temple at London, who had been
 previously sent by the English monarch into that province to appease the
 troubles which had there broken out. <span
-id="fr_293"></span>[†](#fn_293) King Henry proceeded to the French
+id="fr_293"></span>[†](#fn_293.md) King Henry proceeded to the French
 capital, and was magnificently entertained by the Knights Templars at
 the Temple in Paris, which Matthew Paris tells us was of such immense
 extent that it could contain within its precincts a numerous army. The
@@ -553,29 +553,29 @@ the shields on every side, as many as they can place along the
 <span class="margnote">REGINALD DE  
 VICHIER  
 A.D. 1255.</span>four walls, according to the custom of the order beyond
-sea. . ." <span id="fr_294"></span>[\*](#fn_294) The Knights Templars in
+sea. . ." <span id="fr_294"></span>[\*](#fn_294.md) The Knights Templars in
 this country likewise exercised a magnificent hospitality, and
 constantly entertained kings, princes, nobles, prelates, and foreign
 ambassadors, at the Temple. Immediately after the return of king Henry
 to England, some illustrious ambassadors from Castile came on a visit to
 the Temple at London; and as the king "greatly delighted to honour
 them," he commanded three pipes of wine to be placed in the cellars of
-the Temple for their use, <span id="fr_295"></span>[†](#fn_295) and ten
+the Temple for their use, <span id="fr_295"></span>[†](#fn_295.md) and ten
 fat bucks to be brought them at the same place from the royal forest in
-Essex. <span id="fr_296"></span>[‡](#fn_296) He, moreover, commanded the
+Essex. <span id="fr_296"></span>[‡](#fn_296.md) He, moreover, commanded the
 mayor and sheriffs of London, and the commonalty of the same city, to
 take with them a respectable assemblage of the citizens, and to go forth
 and meet the said ambassadors without the city, and courteously receive
 them, and honour them, and conduct them to the Temple. <span
-id="fr_297"></span>[§](#fn_297)
+id="fr_297"></span>[§](#fn_297.md)
 
 <span class="margnote">THOMAS  
 BERARD  
 A.D. 1256.</span>The Grand Master, Reginald de Vichier, was succeeded by
-Brother Thomas Berard, <span id="fr_298"></span>[¦¦](#fn_298) who wrote
+Brother Thomas Berard, <span id="fr_298"></span>[¦¦](#fn_298.md) who wrote
 several letters to the king of England, displaying the miserable
 condition of the Holy Land, and earnestly imploring succour and
-assistance. <span id="fr_299"></span>[¶](#fn_299) The English monarch,
+assistance. <span id="fr_299"></span>[¶](#fn_299.md) The English monarch,
 however, was too poor to assist him, being obliged to borrow money upon
 his crown jewels, which he sent to the Temple at Paris. The queen of
 France, in a letter "to her very
@@ -591,7 +591,7 @@ golden peacocks, and rings innumerable, adorned with sapphires, rubies,
 emeralds, topazes, and carbuncles, which she says she had inspected in
 the presence of the treasurer of the Temple at Paris, and that the same
 were safely deposited in the coffers of the Templars. <span
-id="fr_300"></span>[\*](#fn_300)
+id="fr_300"></span>[\*](#fn_300.md)
 
 The military power of the orders of the Temple and the Hospital in
 Palestine was at last completely broken by Bibars, or Benocdar, the
@@ -600,7 +600,7 @@ slave, had raised himself to the sovereignty of that country, and
 through his valour and military talents had acquired the title of "the
 Conqueror." He invaded Palestine (A.D. 1262) at the head of thirty
 thousand cavalry, and defeated the Templars and Hospitaliers with
-immense slaughter. <span id="fr_301"></span>[†](#fn_301) After several
+immense slaughter. <span id="fr_301"></span>[†](#fn_301.md) After several
 years of continuous warfare, during which the most horrible excesses
 were committed by both parties, all the strongholds of the Christians,
 with the solitary exception of the Pilgrim's Castle and the city of
@@ -625,20 +625,20 @@ terms were acceded to, but as soon as Benocdar had obtained possession
 of the castle, he imposed upon the whole garrison the severe alternative
 of the Koran or death. They chose the latter, and, according to the
 christian writers, were all slain. <span
-id="fr_302"></span>[\*](#fn_302) The Arabian historian Schafi Ib’n Ali
+id="fr_302"></span>[\*](#fn_302.md) The Arabian historian Schafi Ib’n Ali
 Abbas, however, in his life of Bibars, or Benocdar, states that one of
 the garrison named *Effreez Lyoub*, embraced the Mahommetan faith, and
 was circumcised, and that another was sent to Acre to announce the fall
 of the place to his brethren. This writer attempts to excuse the
 slaughter of the remainder, on the ground that they had themselves first
 broken the terms of the capitulation, by attempting to carry away arms
-and treasure. <span id="fr_303"></span>[†](#fn_303) "By the death of so
+and treasure. <span id="fr_303"></span>[†](#fn_303.md) "By the death of so
 many knights of both orders," says Pope Clement IV., in one of his
 epistles, "the noble college of the Hospitaliers, and the illustrious
 chivalry of the Temple, are almost destroyed, and I know not how we
 shall be able, after this, to find gentlemen and persons of quality
 sufficient to supply the places of such as have perished. <span
-id="fr_304"></span>[‡](#fn_304) The year after the fall of Saphet, (A.D.
+id="fr_304"></span>[‡](#fn_304.md) The year after the fall of Saphet, (A.D.
 1267,) Benocdar captured the cities of Homs, Belfort, Bagras, and Sidon,
 which belonged to the order of the Temple; the maritime towns of
 Laodicea, Gabala, Tripoli, Beirout, and Jaffa, successively fell into
@@ -650,17 +650,17 @@ by the slaughter of seventeen and the captivity of one hundred
 <span class="margnote">THOMAS  
 BERARD  
 A.D. 1268.</span>thousand of her inhabitants. <span
-id="fr_305"></span>[\*](#fn_305) The utter ruin of the Latin kingdom,
+id="fr_305"></span>[\*](#fn_305.md) The utter ruin of the Latin kingdom,
 however, was averted by the timely assistance brought by Edward Prince
 of Wales, son of Henry the Second, king of England, who appeared at Acre
 with a fleet and an army. The infidels were once more defeated and
 driven back into Egypt, and a truce for ten years between the sultan and
-the Christians was agreed upon. <span id="fr_306"></span>[†](#fn_306)
+the Christians was agreed upon. <span id="fr_306"></span>[†](#fn_306.md)
 Prince Edward then prepared for his departure, but, before encountering
 the perils of the sea on his return home, he made his will; it is dated
 at Acre, June 18th, A.D. 1272, and Brother Thomas Berard, Grand Master
 of the Temple, appears as an attesting witness. <span
-id="fr_307"></span>[‡](#fn_307) Whilst the prince was pursuing his
+id="fr_307"></span>[‡](#fn_307.md) Whilst the prince was pursuing his
 voyage to England, his father, the king of England, died, and the
 council of the realm, composed of the archbishops of Canterbury and
 York, and the bishops and barons of the kingdom, assembled in the Temple
@@ -670,7 +670,7 @@ queen-mother, they appointed Walter Giffard, archbishop of York, and the
 earls of Cornwall and Gloucester, guardians of the realm. Letters were
 written from the Temple to acquaint the young sovereign with the death
 of his father, and many of the acts of the new government emanated from
-the same place. <span id="fr_308"></span>[§](#fn_308)
+the same place. <span id="fr_308"></span>[§](#fn_308.md)
 
 King Henry the Third was a great benefactor to the Templars.
 
@@ -680,17 +680,17 @@ King Henry the Third was a great benefactor to the Templars.
 the manors of Lilleston, Hechewayton, Saunford, Sutton, Dartfeld, and
 Halgel, in Kent; several lands, and churches and annual fairs at Baldok,
 Walnesford, Wetherby, and other places, and various weekly
-markets. <span id="fr_309"></span>[\*](#fn_309)
+markets. <span id="fr_309"></span>[\*](#fn_309.md)
 
 <span class="margnote">WILLIAM  
 DE BEAUJEU  
 A.D. 1273.</span>The Grand Master, Thomas Berard, was succeeded by
-Brother William de Beaujeu, <span id="fr_310"></span>[†](#fn_310) who
+Brother William de Beaujeu, <span id="fr_310"></span>[†](#fn_310.md) who
 came to England for the purpose of obtaining succour, and called
 together a general chapter of the order at London. Whilst resident at
 the Temple in that city, he received payment of a large sum of money
 which Edward, the young king, had borrowed of the Templars during his
-residence in Palestine. <span id="fr_311"></span>[‡](#fn_311) The Grand
+residence in Palestine. <span id="fr_311"></span>[‡](#fn_311.md) The Grand
 Master of the Hospital also came to Europe, and every exertion was made
 to stimulate the languid energies of the western Christians, and revive
 their holy zeal in the cause of the Cross. A general council of the
@@ -718,7 +718,7 @@ succour, in sorrow and disappointment, to the East.
 
 William de Beaujeu arrived at the Temple of Acre on Saint Michael's Day,
 A.D. 1275, and immediately assumed the government of Palestine. <span
-id="fr_312"></span>[\*](#fn_312) As there was now no hope of recovering
+id="fr_312"></span>[\*](#fn_312.md) As there was now no hope of recovering
 the lost city of Jerusalem, he bent all his energies to the preservation
 of the few remaining possessions of the Christians in the Holy Land. At
 the expiration of the ten years' truce he entered into a further treaty
@@ -732,7 +732,7 @@ contracting parties strictly bind themselves to make no irruptions into
 each other's territories during the period. To prevent mistakes, the
 towns, villages, and territory belonging to the Christians in Palestine
 are specified and defined, together with the contiguous possessions of
-the Moslems. <span id="fr_313"></span>[†](#fn_313) This treaty, however,
+the Moslems. <span id="fr_313"></span>[†](#fn_313.md) This treaty, however,
 was speedily broken, the war was renewed with various success, and
 another treaty was concluded, which was again violated by an
 unpardonable outrage. Some European adventurers, who had arrived at
@@ -765,7 +765,7 @@ spying out their weaknesses and defects; some barked like dogs, some
 roared like lions, some lowed and bellowed like oxen, some struck drums
 with twisted sticks after their fashion, some threw darts, some cast
 stones, some shot arrows and bolts from cross-bows." <span
-id="fr_314"></span>[\*](#fn_314) On the 5th of April, the place was
+id="fr_314"></span>[\*](#fn_314.md) On the 5th of April, the place was
 regularly invested. No rational hope of saving it could be entertained;
 the sea was open; the harbour was filled with christian vessels, and
 with the galleys of the Temple and the Hospital; yet the two great
@@ -804,7 +804,7 @@ hundred catapults, balistæ, and other instruments of destruction, were
 directed against the fortifications; and the battering machines were of
 such immense size and weight, that a hundred wagons were required to
 transport the separate timbers of one of them. <span
-id="fr_315"></span>[\*](#fn_315) Moveable towers were erected
+id="fr_315"></span>[\*](#fn_315.md) Moveable towers were erected
 
 <span id="page_188">p. 188</span>
 
@@ -884,7 +884,7 @@ they again bade defiance to the advancing foe.
 <span class="margnote">GAUDINI  
 A.D. 1291.</span>The surviving knights now assembled together in solemn
 chapter, and appointed the Knight Templar Brother Gaudini Grand
-Master. <span id="fr_316"></span>[\*](#fn_316) The Temple at Acre was a
+Master. <span id="fr_316"></span>[\*](#fn_316.md) The Temple at Acre was a
 place of great strength, and surrounded by walls and towers of immense
 extent. It was divided into three quarters, the first and principal of
 which contained the palace of the Grand Master, the church, and the
@@ -915,7 +915,7 @@ barricadoed the gates
 <span class="margnote">GAUDINI  
 A.D. 1291.</span>of the Temple; they set upon the treacherous infidels,
 and put every one of them, "from the greatest to the smallest," to
-death. <span id="fr_317"></span>[\*](#fn_317) Immediately after this
+death. <span id="fr_317"></span>[\*](#fn_317.md) Immediately after this
 massacre the Moslem trumpets sounded to the assault, but the Templars
 successfully defended themselves until the next day (the 20th.) The
 Marshall of the order and several of the brethren were then deputed by
@@ -927,7 +927,7 @@ chosen band of his companions, collected together the treasure of the
 order and the ornaments of the church, and sallying out of a secret
 postern of the Temple which communicated with the harbour, they got on
 board a small vessel, and escaped in safety to the island of
-Cyprus. <span id="fr_318"></span>[†](#fn_318) The residue of the
+Cyprus. <span id="fr_318"></span>[†](#fn_318.md) The residue of the
 Templars retired into the large tower of the Temple, called "The Tower
 of the Master," which they defended with desperate energy. The bravest
 of the Mamlooks were driven back in repeated assaults, and the little
@@ -943,7 +943,7 @@ were consumed by fire; the huge tower then fell with a tremendous crash,
 and buried the brave Templars in its ruins. The sultan set fire to the
 town in four places, and the last stronghold of the christian power in
 Palestine was speedily reduced to a smoking solitude. <span
-id="fr_319"></span>[\*](#fn_319) A few years back the ruins of the
+id="fr_319"></span>[\*](#fn_319.md) A few years back the ruins of the
 christian city of Acre were well worthy of the attention of the curious.
 You might still trace the remains of several churches; and the quarter
 occupied by the Knights Templars continued to present many interesting
@@ -953,139 +953,139 @@ memorials of that proud and powerful order.
 
 ### Footnotes
 
-<span id="fn_276"></span>[165:\*](hkt10.htm#fr_276) Michaud Extraits
+<span id="fn_276"></span>[165:\*](hkt10.htm#fr_276.md) Michaud Extraits
 Arabes, p. 549.
 
-<span id="fn_277"></span>[166:\*](hkt10.htm#fr_277) *Steph. Baluz*
+<span id="fn_277"></span>[166:\*](hkt10.htm#fr_277.md) *Steph. Baluz*
 Miscell., lib. vi. p. 357.
 
-<span id="fn_278"></span>[167:\*](hkt10.htm#fr_278) *Marin Sanut*, p.
+<span id="fn_278"></span>[167:\*](hkt10.htm#fr_278.md) *Marin Sanut*, p.
 217.
 
-<span id="fn_279"></span>[170:\*](hkt10.htm#fr_279) *Matt. Par.* p. 631
+<span id="fn_279"></span>[170:\*](hkt10.htm#fr_279.md) *Matt. Par.* p. 631
 to 633, ad ann. 1244. "Huic scripto originali, quod erat hujus exemplum,
 appensa fuerunt duodecim sigilla."
 
-<span id="fn_280"></span>[172:\*](hkt10.htm#fr_280) *Matt. Par.* p.
+<span id="fn_280"></span>[172:\*](hkt10.htm#fr_280.md) *Matt. Par.* p.
 618-620.
 
-<span id="fn_281"></span>[172:†](hkt10.htm#fr_281) Cotton MS. Nero E.
+<span id="fn_281"></span>[172:†](hkt10.htm#fr_281.md) Cotton MS. Nero E.
 VI. p. 60, fol. 466, vir discretus et circumspectus; in negotiis quoque
 bellicis peritus.
 
-<span id="fn_282"></span>[172:‡](hkt10.htm#fr_282) Hospitalarii et
+<span id="fn_282"></span>[172:‡](hkt10.htm#fr_282.md) Hospitalarii et
 Templarii milites neophitos et manum armatam cum thesauro non modico
 illuc ad consolationem et auxilium ibi commorantium festinanter
 transmiserunt. Epist. Pap. Innocent IV.
 
-<span id="fn_283"></span>[172:§](hkt10.htm#fr_283) *Matt. Par.* p. 697,
+<span id="fn_283"></span>[172:§](hkt10.htm#fr_283.md) *Matt. Par.* p. 697,
 698.
 
-<span id="fn_284"></span>[174:\*](hkt10.htm#fr_284) Literæ Soldani
+<span id="fn_284"></span>[174:\*](hkt10.htm#fr_284.md) Literæ Soldani
 Babyloniæ ad Papam missæ, a quodam Cardinali ex Arabico
 translatæ.--*Matt. Par.* p. 711.
 
-<span id="fn_285"></span>[174:†](hkt10.htm#fr_285) Ibid. p. 733.
+<span id="fn_285"></span>[174:†](hkt10.htm#fr_285.md) Ibid. p. 733.
 
-<span id="fn_286"></span>[175:\*](hkt10.htm#fr_286) *Matt. Par.* p. 735.
+<span id="fn_286"></span>[175:\*](hkt10.htm#fr_286.md) *Matt. Par.* p. 735.
 
-<span id="fn_287"></span>[175:†](hkt10.htm#fr_287) Ib. in additamentis,
+<span id="fn_287"></span>[175:†](hkt10.htm#fr_287.md) Ib. in additamentis,
 p. 168, 169.
 
-<span id="fn_288"></span>[177:\*](hkt10.htm#fr_288) Quant les Templiers
+<span id="fn_288"></span>[177:\*](hkt10.htm#fr_288.md) Quant les Templiers
 virent-ce, it se penserent que it seroient honniz se it lessoient le
 Compte d’Artois aler devant eulz; si ferirent des esperons qui
 plus plus, et qui miex miex, et chasserent les Turcs. Hist. de San Louis
 par *Jehan Sire de Joinville*, p. 47.
 
-<span id="fn_289"></span>[177:†](hkt10.htm#fr_289) Nec evasit de totâ
+<span id="fn_289"></span>[177:†](hkt10.htm#fr_289.md) Nec evasit de totâ
 illâ gloriosâ militiâ nisi duo Templarii.--*Matt. Par.* ad ann. 1250.
 Chron. *Nangis*, p. 790.
 
-<span id="fn_290"></span>[178:\*](hkt10.htm#fr_290) Et à celle bataille
+<span id="fn_290"></span>[178:\*](hkt10.htm#fr_290.md) Et à celle bataille
 frere Guillaume le Mestre du Temple perdi l’un des yex, et l’autre avoit
 il perdu le jour de quaresm pernant, et en fu mort ledit seigneur, que
 Dieux absoille.--*Joinville*, p. 58.
 
-<span id="fn_291"></span>[178:†](hkt10.htm#fr_291) Et sachez que il
+<span id="fn_291"></span>[178:†](hkt10.htm#fr_291.md) Et sachez que il
 avoit bien un journel de terre dariere les Templiers, qui estoit si
 chargé de pyles que les Sarrazins leur avoient lanciées, que il n’i
 paroit point de terre pour la grant foison de pyles.--Ib.
 
-<span id="fn_292"></span>[179:\*](hkt10.htm#fr_292) *Joinville*, p. 95,
+<span id="fn_292"></span>[179:\*](hkt10.htm#fr_292.md) *Joinville*, p. 95,
 96.
 
-<span id="fn_293"></span>[179:†](hkt10.htm#fr_293) *Acta Rymeri*, tom.
+<span id="fn_293"></span>[179:†](hkt10.htm#fr_293.md) *Acta Rymeri*, tom.
 i. p. 474, ad ann. 1252.
 
-<span id="fn_294"></span>[180:\*](hkt10.htm#fr_294) *Matt. Par.* ad ann.
+<span id="fn_294"></span>[180:\*](hkt10.htm#fr_294.md) *Matt. Par.* ad ann.
 1254, p. 899, 900.
 
-<span id="fn_295"></span>[180:†](hkt10.htm#fr_295) . . . Mandatum est
+<span id="fn_295"></span>[180:†](hkt10.htm#fr_295.md) . . . Mandatum est
 Johanni de Eynfort, camerario regis London, quod sine dilatione capiat
 quatuor dolia boni vini, et ea liberet Johanni de Suwerk, ponenda in
 cellaria Novi Templi London. ad opus nuntiorum ipsorum.--Acta Rymeri,
 tom i. p. 557, ad ann. 1255.
 
-<span id="fn_296"></span>[180:‡](hkt10.htm#fr_296) Et mandatum est
+<span id="fn_296"></span>[180:‡](hkt10.htm#fr_296.md) Et mandatum est
 Ricardo de Muntfichet, custodi forestæ Regis Essex, quod eadem forestâ
 sine dilatione capiat X. damos, et eos usque ad Novum Templum London
 cariari faciat, liberandos prædicto Johanni, ad opus prædictorum
 nuntiorum.--*Ib*.
 
-<span id="fn_297"></span>[180:§](hkt10.htm#fr_297) Acta *Rymeri*, p.
+<span id="fn_297"></span>[180:§](hkt10.htm#fr_297.md) Acta *Rymeri*, p.
 557, 558.
 
-<span id="fn_298"></span>[180:¦¦](hkt10.htm#fr_298) MCCLVI. morut frère
+<span id="fn_298"></span>[180:¦¦](hkt10.htm#fr_298.md) MCCLVI. morut frère
 Renaut de Vichieres Maístre du Temple. Apres lui fu fait Maistre frère
 Thomas Berard.--Contin. hist. apud *Martene*, tom. v. col. 736.
 
-<span id="fn_299"></span>[180:¶](hkt10.htm#fr_299) *Acta Rymeri*, tom.
+<span id="fn_299"></span>[180:¶](hkt10.htm#fr_299.md) *Acta Rymeri*, tom.
 i. p. 698, 699, 700.
 
-<span id="fn_300"></span>[181:\*](hkt10.htm#fr_300) Acta Rymeri, tom. i.
+<span id="fn_300"></span>[181:\*](hkt10.htm#fr_300.md) Acta Rymeri, tom. i.
 p. 730, 878, 879, ad ann. 1261.
 
-<span id="fn_301"></span>[181:†](hkt10.htm#fr_301) Furent mors et pris,
+<span id="fn_301"></span>[181:†](hkt10.htm#fr_301.md) Furent mors et pris,
 et perdirent les Templiers tot lor hernois, et le commandeor du Temple
 frère Matthieu le Sauvage.--Contin. hist. bell. sacr. ut sup. col. 737.
 *Marin Sanut*, cap. 6.
 
-<span id="fn_302"></span>[182:\*](hkt10.htm#fr_302) *Marin Sanut
+<span id="fn_302"></span>[182:\*](hkt10.htm#fr_302.md) *Marin Sanut
 Torsell*, lib. iii. pars 12, cap. 6, 7, 8. Contin. hist. bell. sacr.
 apud *Martene*, tom. v. col. 74.2. See also Abulfed. Hist. Arab. apud
 Wilkens, p. 223. *De Guignes*, Hist. des Huns, tom. iv. p. 141.
 
-<span id="fn_303"></span>[182:†](hkt10.htm#fr_303) *Michaud*, Extraites
+<span id="fn_303"></span>[182:†](hkt10.htm#fr_303.md) *Michaud*, Extraites
 Arabes, p. 668.
 
-<span id="fn_304"></span>[182:‡](hkt10.htm#fr_304) *De Vertot*, liv.
+<span id="fn_304"></span>[182:‡](hkt10.htm#fr_304.md) *De Vertot*, liv.
 iii. Preuve. xiii. See also epist. ccccii. apud *Martene* thesaur. anec.
 tom. ii. col. 422.
 
-<span id="fn_305"></span>[183:\*](hkt10.htm#fr_305) Facta est civitas
+<span id="fn_305"></span>[183:\*](hkt10.htm#fr_305.md) Facta est civitas
 tam famosa quasi solitudo deserti.--*Marin Sanut*, lib. iii. pars. 12,
 cap. 9. *De Guignes*, Hist. des Huns, tom. iv. p. 143. Contin. Hist.
 apud Martene, tom. v. col. 743. *Abulpharag*. Chron. Syr. p. 546.
 *Michaud*, Extraits Arabes, p. 681.
 
-<span id="fn_306"></span>[183:†](hkt10.htm#fr_306) *Marin Sanu*t ut sup.
+<span id="fn_306"></span>[183:†](hkt10.htm#fr_306.md) *Marin Sanu*t ut sup.
 cap. 11, 12. Contin. Hist. apud *Martene*, col. 745, 746.
 
-<span id="fn_307"></span>[183:‡](hkt10.htm#fr_307) En testimoniaunce de
+<span id="fn_307"></span>[183:‡](hkt10.htm#fr_307.md) En testimoniaunce de
 la queu chose, a ceo testament avons fet mettre nostre sel, et avoms
 pries les honurables Bers frere Hue, Mestre de l’Hospital, et frere
 Thomas Berard, Mestre du Temple, ke a cent escrit meisent ausi lur seul,
 etc. Acta *Rymeri*, tom. i. p. 885, 886, ad ann. 1272.
 
-<span id="fn_308"></span>[183:§](hkt10.htm#fr_308) Trivet ad ann. 1272.
+<span id="fn_308"></span>[183:§](hkt10.htm#fr_308.md) Trivet ad ann. 1272.
 Walsingham, p. 43. Acta *Rymeri*, tom, i. p. 889, ad ann. 1272, tom. ii.
 p. 2.
 
-<span id="fn_309"></span>[184:\*](hkt10.htm#fr_309) Monast. Angl., vol.
+<span id="fn_309"></span>[184:\*](hkt10.htm#fr_309.md) Monast. Angl., vol.
 vi. part 2, p. 800-844.
 
-<span id="fn_310"></span>[184:†](hkt10.htm#fr_310) MCCLXXIII. a viii.
+<span id="fn_310"></span>[184:†](hkt10.htm#fr_310.md) MCCLXXIII. a viii.
 jors d’Avri morut frere Thomas Berart, Maistre du Temple le jor de la
 notre dame de Mars, et fa fait Maistre a xiii. jors de May, frere
 Guillaume de Bieaujeu qui estoit outre *Commendeor* du Temple en
@@ -1096,28 +1096,28 @@ Martene, tom. v. col. 746, 747. This is the earliest instance I have met
 with of the application of the term COMMANDER to the high officers of
 the Temple.
 
-<span id="fn_311"></span>[184:‡](hkt10.htm#fr_311) Acta *Rymeri*, tom.
+<span id="fn_311"></span>[184:‡](hkt10.htm#fr_311.md) Acta *Rymeri*, tom.
 ii. p. 34, ad ann. 1274.
 
-<span id="fn_312"></span>[185:\*](hkt10.htm#fr_312) Contin. hist. bell.
+<span id="fn_312"></span>[185:\*](hkt10.htm#fr_312.md) Contin. hist. bell.
 sacr. apud *Martene*, tom. v. col. 748.
 
-<span id="fn_313"></span>[185:†](hkt10.htm#fr_313) Life of Malek Mansour
+<span id="fn_313"></span>[185:†](hkt10.htm#fr_313.md) Life of Malek Mansour
 Kelaoun. *Michaud*, Extraits Arabes, p. 685, 686, 687.
 
-<span id="fn_314"></span>[186:\*](hkt10.htm#fr_314) De excidio urbis
+<span id="fn_314"></span>[186:\*](hkt10.htm#fr_314.md) De excidio urbis
 Aconis apud *Martene* vet. script. tom. v. col. 767.
 
-<span id="fn_315"></span>[187:\*](hkt10.htm#fr_315) The famous
+<span id="fn_315"></span>[187:\*](hkt10.htm#fr_315.md) The famous
 Abul-feda, prince of Hamah, surnamed Amod-ed-deen, (Pillar of Religion,)
 the great historian and astronomer, superintended the transportation of
 the military engines from Hasn-el-Akrah to St. Jean d’Acre.
 
-<span id="fn_316"></span>[190:\*](hkt10.htm#fr_316) Ex ipsis fratrem
+<span id="fn_316"></span>[190:\*](hkt10.htm#fr_316.md) Ex ipsis fratrem
 monachum Gaudini elegerunt ministrum generalem. De excidio urbis Acconis
 apud *Martene*, tom. v. col 782.
 
-<span id="fn_317"></span>[191:\*](hkt10.htm#fr_317) Videntes pulchros
+<span id="fn_317"></span>[191:\*](hkt10.htm#fr_317.md) Videntes pulchros
 Francorum filios ac filias, manus his injecerunt.--*Abulfarag*, Citron.
 Syr. p. 595. Maledicti Saracen mulieres et pueros ad loca domus
 secretiora ex eisdem abusuri distrahere conabantur, turpibus ecclesiam
@@ -1127,14 +1127,14 @@ minimo usque ad maximum occiderunt, muros, turres, atque portas Templi
 munientes ad defensam.--De excid. Acconis ut sup. col. 782. *Marin
 Sanut* ut sup. cap. xxii. p. 231.
 
-<span id="fn_318"></span>[191:†](hkt10.htm#fr_318) Per totem noctem
+<span id="fn_318"></span>[191:†](hkt10.htm#fr_318.md) Per totem noctem
 illam, dum fideles vigilarent contra perfidorum astutiam, domum contra
 eos defensuri, fratrum adjutorio de thesauris quod potuit cum
 sacrosanctis reliquiis ecclesiæ Templi, ad mare salubriter deportavit.
 Inde quidem cum fratribus paucis auspicato remigio, in Cyprum cum
 cautelâ transfretavit.--De excid. Acconis, col. 782.
 
-<span id="fn_319"></span>[192:\*](hkt10.htm#fr_319) De excidio urbis
+<span id="fn_319"></span>[192:\*](hkt10.htm#fr_319.md) De excidio urbis
 Acconis apud *Martene*, tom. v. col. 757. *De Guignes*, Hist. des Huns,
 tom. iv. p. 162. *Michaud*, Extraits Arabes, p. 762, 808. Abulfarag.
 Chron. Syr. p. 595. Wilkens, Comment. Abulfed. Hist. p. 231-234. *Marin.
@@ -1144,6 +1144,6 @@ Sanut Torsell*, lib. iii. pars 12, cap. 21.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](hkt11)
+[Next: Chapter IX](hkt11.md)
 
 </div>

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Cherokee](../index)  [Index](index) 
-[Previous](sfoc29)  [Next](sfoc31) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Cherokee](../index)  [Index](index.md) 
+[Previous](sfoc29)  [Next](sfoc31.md) 
 
 ------------------------------------------------------------------------
 
@@ -106,4 +106,4 @@ uncoiling the snake have parallels in European folk medicine.
 ------------------------------------------------------------------------
 
 [Next: To Treat Them When Something is Causing Something to Eat
-Them](sfoc31)
+Them](sfoc31.md)

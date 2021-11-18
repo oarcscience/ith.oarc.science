@@ -1,25 +1,25 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tdp03)  [Next](tdp05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tdp03)  [Next](tdp05.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_101">p. 101</span>
 
-<span id="img_10100"></span> ![LIADAN AND KURITHIR](img/10100.jpg)
+<span id="img_10100"></span> ![LIADAN AND KURITHIR](img/10100.jpg.md)
 
 <span id="page_102">p. 102</span>
 
 <span id="img_10200"></span>
 
 [![The Dream of Kurithir: Sheet-music](tn/10200.jpg)  
-Click to enlarge](img/10200.jpg)  
+Click to enlarge](img/10200.jpg.md)  
   
 
 <span id="page_103">p. 103</span>
 
-<span id="img_10300"></span> ![LIADAN AND KURITHIR](img/10300.jpg)
+<span id="img_10300"></span> ![LIADAN AND KURITHIR](img/10300.jpg.md)
 
 # LIADAN AND KURITHIR
 
@@ -35,7 +35,7 @@ Together with the voice of the purple sea*."
 
 |                      |
 |----------------------|
-| ![I](img/i2init.jpg) |
+| ![I](img/i2init.jpg.md) |
 
 T was the time of Hugh Finnliath, Ard-Ri (High King) of Erinn, and glad
 youth of May lay on the land.
@@ -87,7 +87,7 @@ me!"
 
 |                     |
 |---------------------|
-| ![L](img/linit.jpg) |
+| ![L](img/linit.jpg.md) |
 
 IADAN sat by the window and looked down into the enclosed garden where a
 red rose tree and a white rose vine were twining against the stone wall,
@@ -144,7 +144,7 @@ best, and dreamed of him sweetly that night on her maiden pillow.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N the dawn Flann and Kurithir walked along the sea cliff and spoke as
 brothers in bond. "There are other maids and many for you, Flann. For me
@@ -169,7 +169,7 @@ you hear the thrushes sing."
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 ND Kurithir went back at sunrise, and watched her window in the tower
 until her face looked down on him. Speak she dare not because of Aevil
@@ -380,7 +380,7 @@ grace."
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 T was true Kurithir was alone, and a new thought with him for company.
 The next house of the visit of the sisters was that of a friend where a
@@ -514,7 +514,7 @@ To Flann, Kurithir could not speak.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N the morning Liadan was dressed by Moria for the journey, listless and
 cold, staring. Aevil mocked her despair, and hummed the words of her
@@ -578,7 +578,7 @@ dreamhouse of love in any forest," said Kurithir.
 
 |                     |
 |---------------------|
-| ![S](img/sinit.jpg) |
+| ![S](img/sinit.jpg.md) |
 
 TRAIGHT south he steered and then east, through storm and stress seeking
 new ports, seeing new faces, hearing new songs but singing no more.
@@ -668,7 +668,7 @@ first.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 N the nights he smelled hawthorn and May roses over the dark sea, and
 there was one night when he was off Arran, and she sang to him, and in
@@ -759,7 +759,7 @@ and no pledge between broke."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE was silence for a while and only the eyes of Kurithir spoke.
 
@@ -884,7 +884,7 @@ matter. Few of us see as God means us all to see in His own good time."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE raiders were gone from Connaught and the work of the chiefs was done
 there, and Flann rode south and told Kurithir he rode to fetch back his
@@ -907,7 +907,7 @@ of the sweet warm spirit of her.
 
 |                     |
 |---------------------|
-| ![I](img/iinit.jpg) |
+| ![I](img/iinit.jpg.md) |
 
 T was at rising of sun they reached the Dun of Conchinn, and saw marks
 of the siege on it, and it was Aevil who met them in the hall, vested in
@@ -1200,7 +1200,7 @@ are on the earth, and my cares are of earthly things."
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 RUNNER from the castle of the kings came to Flann at the breaking of
 fast, and he opened the seals of the tablet, and read, and took Nealis
@@ -1271,7 +1271,7 @@ for the seat of the king, and the taking of the white rod."
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 EVIL, daughter of the dark woman, took from her hair the gold circlet
 she was pleased of her pride to wear, and trampled it under foot in her
@@ -1358,7 +1358,7 @@ You brought it there."
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HE moon went down, and the stars of dawn broke on the world, and a
 veiled woman who had once dreamed of Erinn's crown stood watching two
@@ -1519,4 +1519,4 @@ It is true as they say*."
 
 ------------------------------------------------------------------------
 
-[Next: Dervail Nan Ciar](tdp05)
+[Next: Dervail Nan Ciar](tdp05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe343)  [Next](prwe345) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe343)  [Next](prwe345.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Society," January 1838.
 
 ------------------------------------------------------------------------
 
-[Next: Padstow Hobby Horse](prwe345)
+[Next: Padstow Hobby Horse](prwe345.md)

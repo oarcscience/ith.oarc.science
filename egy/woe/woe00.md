@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Next](woe01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Next](woe01.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ From the Papyrus of Hunefer in the British Museum
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](woe01)
+[Next: Introduction](woe01.md)

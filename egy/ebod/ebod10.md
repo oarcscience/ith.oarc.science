@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod09)  [Next](ebod11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod09)  [Next](ebod11.md) 
 
 ------------------------------------------------------------------------
 
@@ -189,4 +189,4 @@ Tuat, a common name for the abode of the departed.
 
 ------------------------------------------------------------------------
 
-[Next: Funeral Ceremonies.](ebod11)
+[Next: Funeral Ceremonies.](ebod11.md)

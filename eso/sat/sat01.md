@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat00)  [Next](sat02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat00)  [Next](sat02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -22,7 +22,7 @@ Textual Heritage
 
 <span id="page_v">p. v</span>
 
-### INTRODUCTION <span id="fr_0"></span>[1](#fn_0)
+### INTRODUCTION <span id="fr_0"></span>[1](#fn_0.md)
 
  
 
@@ -239,11 +239,11 @@ CLIFFORD BAX.
 
 ### Footnotes
 
-<span id="fn_0"></span>[v:1](sat01.htm#fr_0) The biographic substance of
+<span id="fn_0"></span>[v:1](sat01.htm#fr_0.md) The biographic substance of
 this introduction is principally drawn from Dr. Hartmann's rare volume,
 and from Professor Deussen's *Preface* to the magnificent edition of
 Boehme's works.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](sat02)
+[Next: Contents](sat02.md)

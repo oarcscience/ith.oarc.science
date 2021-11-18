@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws20)  [Next](cws22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws20)  [Next](cws22.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XVII
 
-#### CONCERNING THE GODS <span id="fr_84"></span>[1](#fn_84)
+#### CONCERNING THE GODS <span id="fr_84"></span>[1](#fn_84.md)
 
 A TRUE Idea is the reflect of a true Substance. It is because religious
 ideas are true ideas that they are common to all ages and peoples; the
@@ -45,10 +45,10 @@ which *is* can be reflected.
 
 ### Footnotes
 
-<span id="fn_84"></span>[47:1](cws21.htm#fr_84) London, December 20,
+<span id="fn_84"></span>[47:1](cws21.htm#fr_84.md) London, December 20,
 1880. Spoken in trance. Referred to in Life of Anna Kingsford, vol. i,
 p. 412.
 
 ------------------------------------------------------------------------
 
-[Next: No. XVIII: Concerning The Greek Mysteries](cws22)
+[Next: No. XVIII: Concerning The Greek Mysteries](cws22.md)

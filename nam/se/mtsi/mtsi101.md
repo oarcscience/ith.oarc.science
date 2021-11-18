@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi100)  [Next](mtsi102) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi100)  [Next](mtsi102.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,12 +31,12 @@ with them. He went out and walked around covered with a deerskin, and he
 chased the female deer.
 
 While he was there, the old Bucks said, "You must travel about very
-carefully. Red-feet <span id="fr_26"></span>[1](#fn_26) travel about.
+carefully. Red-feet <span id="fr_26"></span>[1](#fn_26.md) travel about.
 They must be watched very
 
 <span id="page_92">p. 92</span>
 
-closely. Soup-eaters <span id="fr_27"></span>[1](#fn_27) are also about
+closely. Soup-eaters <span id="fr_27"></span>[1](#fn_27.md) are also about
 but they are not dangerous." It was just as they had told him, and
 presently he was killed. Then he went back and they dressed him up in
 another deerskin. The fourth time one is killed it is the last, and that
@@ -48,10 +48,10 @@ This is how it has been told.
 
 ### Footnotes
 
-<span id="fn_26"></span>[91:1](mtsi101.htm#fr_26) I. e., human beings.
+<span id="fn_26"></span>[91:1](mtsi101.htm#fr_26.md) I. e., human beings.
 
-<span id="fn_27"></span>[92:1](mtsi101.htm#fr_27) Dogs.
+<span id="fn_27"></span>[92:1](mtsi101.htm#fr_27.md) Dogs.
 
 ------------------------------------------------------------------------
 
-[Next: 9. The Hunter and His Dogs](mtsi102)
+[Next: 9. The Hunter and His Dogs](mtsi102.md)

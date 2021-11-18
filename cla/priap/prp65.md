@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp64)  [Next](prp66) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp64)  [Next](prp66.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ sculptures as clothed with hides of swine.\]
 
 ------------------------------------------------------------------------
 
-[Next: 66. Thou, who lest manly mark thy glances meet](prp66)
+[Next: 66. Thou, who lest manly mark thy glances meet](prp66.md)

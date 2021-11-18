@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf00)  [Next](fmf02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf00)  [Next](fmf02.md) 
 
 ------------------------------------------------------------------------
 
@@ -112,4 +112,4 @@ Some Thirty Years
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Undecided Brunette and The Two
-Candidates](fmf02)
+Candidates](fmf02.md)

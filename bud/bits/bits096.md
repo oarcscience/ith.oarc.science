@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits095) [Next](bits097)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits095) [Next](bits097.md)
 
 ------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ Reflective, calm, content alone,<br />
 
 ------------------------------------------------------------------------
 
-[Next: § 97. "And Hate Not His Father and Mother."](bits097)
+[Next: § 97. "And Hate Not His Father and Mother."](bits097.md)
 
  
 

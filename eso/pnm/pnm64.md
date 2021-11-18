@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm63)  [Next](pnm65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm63)  [Next](pnm65.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Laurence ed. \[1913\], at Intangible Textual Heritage
 
 #### <span class="smallcaps">How Auspicias Are Verified by the Light of Natural Instinct, and of Some Rules of Finding It Out</span>.
 
-[AUSPICIA](errata.htm#4) and Auguria, which foretell things to come by
+[AUSPICIA](errata.htm#4.md) and Auguria, which foretell things to come by
 animals and birds, Orpheus, the divine, himself, as we read, did teach
 and show first of all, which afterwards were had in great esteem with
 all nations. Now they are verified by the light of natural instinct, as
@@ -150,7 +150,7 @@ The port, or with full sails the Bay obtained.</span>
 
 Most wonderful is that kind of auguring of theirs, who hear and
 understand the speeches of animals, in which, as amongst the ancients,
-Melampus, [Tiresias](errata.htm#5), Thales, and Apollonius, the Tyanean,
+Melampus, [Tiresias](errata.htm#5.md), Thales, and Apollonius, the Tyanean,
 who, as we read, excelled, and whom, they report, had excellent skill in
 the language of birds; of whom Philostratus and Porphyrius speak,
 saying, that of old, when Apollonius sat in company amongst his friends,
@@ -251,4 +251,4 @@ authority of the fathers.
 ------------------------------------------------------------------------
 
 [Next: Chapter LVI. Of the Soothsayings of Flashes and Lightnings, and
-how Monstrous and Prodigious Things are to be Interpreted](pnm65)
+how Monstrous and Prodigious Things are to be Interpreted](pnm65.md)

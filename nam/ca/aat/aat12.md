@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](aat11)  [Next](aat13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](aat11)  [Next](aat13.md) 
 
 ------------------------------------------------------------------------
 
@@ -216,4 +216,4 @@ ate them, and lived without quarrelling any more.
 ------------------------------------------------------------------------
 
 [Next: 12. Flint-Man, The Search For Fire, And Loon Woman
-(Atsugewi)](aat13)
+(Atsugewi)](aat13.md)

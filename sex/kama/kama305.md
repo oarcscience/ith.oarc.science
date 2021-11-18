@@ -1,17 +1,17 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](kama304) 
-[Next](kama401) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](kama304.md) 
+[Next](kama401.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892814411/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UFY4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Intangible Textual Heritage
 
 ## CHAPTER V
 
-### ON CERTAIN FORMS OF MARRIAGE <span id="fr_46"></span>[1](kama101.htm#fn_0)
+### ON CERTAIN FORMS OF MARRIAGE <span id="fr_46"></span>[1](kama101.htm#fn_0.md)
 
 WHEN a girl cannot meet her lover frequently in private, she should send
 the daughter of her nurse to him, it being understood that she has
@@ -45,7 +45,7 @@ troubled by rival wives, became wretched and miserable, and were finally
 abandoned. She should further speak of the good fortune, the continual
 happiness, the chastity, obedience, and affection of the man, and if the
 girl gets amorous about him, she should endeavour to allay her
-shame <span id="fr_47"></span>[2](kama101.htm#fn_1) and her fear as well
+shame <span id="fr_47"></span>[2](kama101.htm#fn_1.md) and her fear as well
 as her suspicions about any disaster that might result from her
 marriage. In a word, she should act the whole part of a female messenger
 by telling the girl all about the man's affection for her, the places he
@@ -121,7 +121,7 @@ its being more in accordance with the commands of religion, and
 therefore it is only when it is impossible to carry the former into
 practice that the latter should be resorted to, As the fruit of all good
 marriages is love, the Gandharva <span
-id="fr_48"></span>[3](kama101.htm#fn_2) form of marriage is respected,
+id="fr_48"></span>[3](kama101.htm#fn_2.md) form of marriage is respected,
 even though it is formed under unfavourable circumstances, because it
 fulfils the object sought for. Another cause of the respect accorded to
 the Gandharva form of marriage is that it brings forth happiness, causes
@@ -132,16 +132,16 @@ above all the result of previous love.'
 
 ### Footnotes
 
-<span id="fn_46"></span>[1](#fr_-1) These forms of marriage differ from
+<span id="fn_46"></span>[1](#fr_-1.md) These forms of marriage differ from
 the four kinds of marriage mentioned in Chapter I, and are only to be
 made use of when the girl is gained over in the way mentioned in
 Chapters III and IV.
 
-<span id="fn_47"></span>[2](#fr_-1) About this, see a story on the fatal
+<span id="fn_47"></span>[2](#fr_-1.md) About this, see a story on the fatal
 effects of love at of *Early Ideas: a Group of Hindoo Stories*,
 collected and collated by Anaryan, W. H. Allen and Co., London, 1881.
 
-<span id="fn_48"></span>[3](#fr_-1) 'About the Gandharvavivaha form of
+<span id="fn_48"></span>[3](#fr_-1.md) 'About the Gandharvavivaha form of
 marriage, see note to page 28 of Captain R. F. Burton's *Vickram and the
 Vampire; or Tales of Hindu Devilry*, Longmans, Green and Co., London
 1870. This form of matrimony was recognised by the ancient Hindoos, and
@@ -153,4 +153,4 @@ court, who are opposed to be witnesses.
 ------------------------------------------------------------------------
 
 [Next: Chapter I. On the Manner of Living of a Virtuous Woman, and of
-Her Behaviour During the Absence of Her Husband](kama401)
+Her Behaviour During the Absence of Her Husband](kama401.md)

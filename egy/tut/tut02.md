@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](tut01)  [Next](tut03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](tut01)  [Next](tut03.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Redactors Note: the diacritical marks in the original have been omitted.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](tut03)
+[Next: Preface](tut03.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic089)  [Next](lfic091) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic089)  [Next](lfic091.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ and three miracles proved at the examination,
 
 ------------------------------------------------------------------------
 
-[Next: St Patrick](lfic091)
+[Next: St Patrick](lfic091.md)

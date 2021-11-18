@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft40)  [Next](efft42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft40)  [Next](efft42.md) 
 
 ------------------------------------------------------------------------
 
-# LEGEND OF THE ROLLRIGHT STONES  <span id="fr_47"></span>[1](#fn_47)
+# LEGEND OF THE ROLLRIGHT STONES  <span id="fr_47"></span>[1](#fn_47.md)
 
 NOT far from the borders of Gloucestershire and Oxford-shire, and within
 the latter county, is the pretty village of Rollright, and near the
@@ -54,9 +54,9 @@ been before.
 
 ### Footnotes
 
-<span id="fn_47"></span>[1](efft41.htm#fr_47) *Folk Lore Record*, vol.
+<span id="fn_47"></span>[1](efft41.htm#fr_47.md) *Folk Lore Record*, vol.
 ii. p. 177.
 
 ------------------------------------------------------------------------
 
-[Next: Dando and His Dogs](efft42)
+[Next: Dando and His Dogs](efft42.md)

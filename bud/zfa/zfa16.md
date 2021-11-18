@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](zfa15)  [Next](zfa17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](zfa15)  [Next](zfa17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0875482732/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99RLG/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Heritage
 
 THREE things are usually considered necessary for the realization of the
 Buddhist life: 1. *Çîla* (moral precepts), 2, *Dhyâna* (contemplation),
-3, [*Prajñâ*](errata.htm#2) (wisdom); and these are coöperative and
+3, [*Prajñâ*](errata.htm#2) (wisdom.md); and these are coöperative and
 mutually related.
 
 To be a good Buddhist, first of all, a man must be ethical and regulate
@@ -372,4 +372,4 @@ exercise is universally to be recommended.
 
 ------------------------------------------------------------------------
 
-[Next: Kwannon Bosatz](zfa17)
+[Next: Kwannon Bosatz](zfa17.md)

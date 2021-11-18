@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj01)  [Next](igj03) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj01)  [Next](igj03.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: In Ghostly Japan](igj03)
+[Next: In Ghostly Japan](igj03.md)

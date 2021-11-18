@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico013) 
-[Next](nico015) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico013.md) 
+[Next](nico015.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ rather all the difference.
 ------------------------------------------------------------------------
 
 [Next: Chapter 2. These acts cannot be prescribed exactly, but must
-avoid excess and defect](nico015)
+avoid excess and defect](nico015.md)

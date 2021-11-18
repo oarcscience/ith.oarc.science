@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh34)  [Next](ulh36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh34)  [Next](ulh36.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -39,14 +39,14 @@ the tragic death of Lieutenant Hergest (of the ship *Dædalus*) in 1792.
 <div style="margin-left: 32px">
 
 Auwe! pau au i ka manó nui, e!  
-Lala-kea <span id="fr_432"></span>[a](#fn_416) niho pa-kolu.  
-Pau ka papa-ku o Lono <span id="fr_433"></span>[b](#fn_417)  
+Lala-kea <span id="fr_432"></span>[a](#fn_416.md) niho pa-kolu.  
+Pau ka papa-ku o Lono <span id="fr_433"></span>[b](#fn_417.md)  
 I ka ai ia e ka manó nui,  
 5 O Niuhi maka ahi,  
 Olapa i ke kai lipo.  
 Ahu e! au-we!  
 A pua ka wili-wili,  
-A nanahu ka manó, <span id="fr_434"></span>[c](#fn_418)
+A nanahu ka manó, <span id="fr_434"></span>[c](#fn_418.md)
 
 </div>
 
@@ -93,7 +93,7 @@ casts on the imagination of the people of ancient Hawaii!
 
 ### Footnotes
 
-<span id="fn_416"></span>[221:a](ulh35.htm#fr_432) *Lala-kea*. This
+<span id="fn_416"></span>[221:a](ulh35.htm#fr_432.md) *Lala-kea*. This
 proper name, as it seems once to have been, has now become rather the
 designation of a whole class of man-eating sea-monsters. The Hawaiians
 worshiped individual sharks as demigods, in the belief that the souls of
@@ -101,7 +101,7 @@ the departed at death, or even before death, sometimes entered and took
 possession of them, and that they at times resumed human form. To this
 class belonged the famous shark Niuhi (verse 5).
 
-<span id="fn_417"></span>[221:b](ulh35.htm#fr_433) Papa-ku o Lono. This
+<span id="fn_417"></span>[221:b](ulh35.htm#fr_433.md) Papa-ku o Lono. This
 was one of the underlying strata of the earth that must be passed before
 reaching *Milu*, the hades of the Hawaiians. The cosmogony of the
 southern Polynesians, according to Mr. Tregear, recognized ten papa, or
@@ -111,7 +111,7 @@ Meto, or Ameto, or Aweto, wherein the soul of man found utter
 extinction." (The Maori-Polynesian Comparative Dictionary, by Edward
 Tregear, F. R. G. S., etc., Wellington, New Zealand, 1891.)
 
-<span id="fn_418"></span>[221:c](ulh35.htm#fr_434) Verses 8 and 9 are
+<span id="fn_418"></span>[221:c](ulh35.htm#fr_434.md) Verses 8 and 9 are
 from an old proverb which the Hawaiians put into the following quatrain:
 
 <div style="margin-left: 32px">
@@ -141,4 +141,4 @@ into the deep sea by setting before them the terrors of the shark.
 
 ------------------------------------------------------------------------
 
-[Next: XXXII.--The Hula Ilío](ulh36)
+[Next: XXXII.--The Hula Ilío](ulh36.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc01)  [Next](esc03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc01)  [Next](esc03.md) 
 
 ------------------------------------------------------------------------
 
@@ -198,4 +198,4 @@ LECTURE XIX.</strong></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Lecture I. The Second Appearing of Christ](esc03)
+[Next: Lecture I. The Second Appearing of Christ](esc03.md)

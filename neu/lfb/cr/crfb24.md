@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb23)  [Next](crfb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb23)  [Next](crfb25.md) 
 
 </div>
 
@@ -321,6 +321,6 @@ his wife followed him to the grave.
 
 ------------------------------------------------------------------------
 
-[Next: The Rogue And The Herdsman](crfb25)
+[Next: The Rogue And The Herdsman](crfb25.md)
 
 </div>

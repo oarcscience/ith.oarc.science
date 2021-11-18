@@ -1,4 +1,4 @@
-[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-2-1) [Next](gjb-2-3)
+[Sacred-Texts](../../../index) [Christianity](../../index) [Index](index) [Previous](gjb-2-1) [Next](gjb-2-3.md)
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 >
 >    MIRYAI am I, of the Kings of Babel<span
 > id="page_62_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_62_note_1) a daughter, a daughter
+> class="small">1</span></sup>](#page_62_note_1.md) a daughter, a daughter
 > of Jerasalem's mighty rulers. They have given me birth; the priests
 > brought me up. In the fold of their robe they carried me up into the
 > dark house, into the temple. Adonai laid a charge on my hands and on
@@ -25,7 +25,7 @@
 > charged me: "Miryai, close thy inner doors and bolt the bar. See that
 > thou goest not forth into the main streets and that the suns of my
 > Lord<span id="page_62_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_62_note_2) fall not upon thee."
+> class="small">2</span></sup>](#page_62_note_2.md) fall not upon thee."
 >
 >    But I, Miryai, listened not to what my mother did tell me, and
 > hearkened not with the ear to what my father did charge me. I opened
@@ -36,14 +36,14 @@
 > they stand and carry on proclamations. My brothers carry on
 > proclamations and my sisters throw out explanations.<span
 > id="page_62_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_62_note_3) With the voice of their
+> class="small">3</span></sup>](#page_62_note_3.md) With the voice of their
 > proclamations and with the voice of their explanations I became drowsy
 > and laid me down on the spot.<span
 > id="page_62_fr_4"></span>[<sup><span
-> class="small">4</span></sup>](#page_62_note_4) My brothers went forth
+> class="small">4</span></sup>](#page_62_note_4.md) My brothers went forth
 > and did not wake me, and my sisters withdrew and roused me not. But
 > thou, my sister in Truth,<span id="page_62_fr_5"></span>[<sup><span
-> class="small">5</span></sup>](#page_62_note_5) dost rouse me from
+> class="small">5</span></sup>](#page_62_note_5.md) dost rouse me from
 > sleep and dost say: "Arise, arise, Miryai, before the day breaks and
 > the cock lets crow his morn-call, before the sun shines and his glory
 > rises over the <span id="page_63">p. 63</span> worlds, before the
@@ -76,10 +76,10 @@
 > left off coloured raiment and gone to make love with her lord. She
 > forsook gold and silver and went to make love with her lord. She
 > forsook the phylacteries<span id="page_63_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_63_note_1) and went to make love
+> class="small">1</span></sup>](#page_63_note_1.md) and went to make love
 > with the man with the head-band."<span
 > id="page_63_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_63_note_2)
+> class="small">2</span></sup>](#page_63_note_2.md)
 >
 >    Then Miryai makes answer unto him: "Far lies it from me to love him
 > whom I have hated. Far lies it from me to hate him whom I have loved.
@@ -155,7 +155,7 @@
 > its foliage they eat . . . from its inner part they drink wine. They
 > eat what is not to be cast away, and drink what was not wine.<span
 > id="page_65_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_65_note_1)
+> class="small">1</span></sup>](#page_65_note_1.md)
 >
 >    While the birds sat on the vine, winds and tempests broke loose.
 > They shook the good birdlets awake, they smote 'gainst the tree; on
@@ -172,7 +172,7 @@
 >    As the birds sit there and chirp and would be a-building their
 > nest, as the birds sit on the vine, an eagle wheeled and flew hither.
 > A white eagle-bird<span id="page_65_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_65_note_2) came, looked down and
+> class="small">2</span></sup>](#page_65_note_2.md) came, looked down and
 > caught sight of the birds. Round wheeled he, sped down on them with
 > his wings, and came and sat on the tree. In converse with him joined
 > the birds, and said to him:
@@ -192,11 +192,11 @@
 > from me; their wings broke; torn off were they, broken off; they went
 > hence and relied on the bird-catchers.<span
 > id="page_66_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_66_note_1) The harrier and hawk
+> class="small">1</span></sup>](#page_66_note_1.md) The harrier and hawk
 > wheeled round them, tore pieces out of their flesh and fed on those
 > who were fat. Woe to those who fell prey to the water,<span
 > id="page_66_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_66_note_2) if there was no portion
+> class="small">2</span></sup>](#page_66_note_2.md) if there was no portion
 > for them at the crossing. Well for you, ye birds, who hold fast to
 > this vine \[here\]; you became a companionship of Miryai, the vine,
 > who stands at the mouth of Euphrates. See and satisfy yourselves, ye
@@ -205,7 +205,7 @@
 > to bring water to the good, beloved plants, to the vines, who stand at
 > the mouth of Euphrates. In a white<span
 > id="page_66_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_66_note_3) pail I draw water and
+> class="small">3</span></sup>](#page_66_note_3.md) pail I draw water and
 > bring it to my plants. I bear and I hold \[it\] on the arms of glory
 > which are my own. I bear and I hold \[it\] and give \[them\] to drink.
 > Well for him who has drunk of my water. He drinks, finds healing and
@@ -215,7 +215,7 @@
 > herbs and worm-wood (?). Woe to those who have not gone forward upon
 > the Way; woe to those who have not passed on by the way-stone! They
 > hated Life's Treasure-House,<span id="page_66_fr_4"></span>[<sup><span
-> class="small">4</span></sup>](#page_66_note_4) Miryai, the dear Truth.
+> class="small">4</span></sup>](#page_66_note_4.md) Miryai, the dear Truth.
 >
 >    "My brothers, hold fast, be a companionship of Miryai. I will look
 > round in the world, let Life's call sound forth and rouse the sleeping
@@ -228,7 +228,7 @@
 > for Miryai! Woe to Elizar, the great house, the pillar that props the
 > temple! Woe to Zatan, the pillar,<span
 > id="page_67_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_67_note_1) who has witnessed lies
+> class="small">1</span></sup>](#page_67_note_1.md) who has witnessed lies
 > against Miryai!"
 >
 >  
@@ -242,14 +242,14 @@
 > settled at the mouth of Euphrates. We will slay them and make Miryai
 > scorned in Jerusalem. A stake<span
 > id="page_67_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_67_note_2) will we set up for the
+> class="small">2</span></sup>](#page_67_note_2.md) will we set up for the
 > man who has ruined Miryai and led her away. There shall be no day in
 > the world when a stranger<span id="page_67_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_67_note_3) enters Jerusalem."
+> class="small">3</span></sup>](#page_67_note_3.md) enters Jerusalem."
 >
 >    They split open their fellings and catch the doves in
 > Jerusalem.<span id="page_67_fr_4"></span>[<sup><span
-> class="small">4</span></sup>](#page_67_note_4)
+> class="small">4</span></sup>](#page_67_note_4.md)
 >
 >  
 >
@@ -263,7 +263,7 @@
 > water; the girdle is bound round her loins. Miryai in humbleness prays
 > and proclaims with wondrous voice. The fishes gather out of the sea,
 > the birds<span id="page_67_fr_5"></span>[<sup><span
-> class="small">5</span></sup>](#page_67_note_5) from the mouth of
+> class="small">5</span></sup>](#page_67_note_5.md) from the mouth of
 > Euphrates. They come to hear Miryai's voice, and no more long to lie
 > down to sleep. They breathe in the sweet scent around her and forget
 > the world. <span id="page_68">p. 68</span> When the Jews saw this,
@@ -278,7 +278,7 @@
 > therein and knewest what stands in it. The outer keys lay in thy
 > hands, and the inner thou didst put in chains.<span
 > id="page_68_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_68_note_1) All the priests and
+> class="small">1</span></sup>](#page_68_note_1.md) All the priests and
 > priests' sons came and kissed thy hand. For whom thou wouldst, thou
 > didst open the door; whom thou wouldst not, must turn and go back to
 > his seat. A thousand stand there and two thousand sit there. They
@@ -295,17 +295,17 @@
 > city Jerusalem. Come, light up thy lamps, which have been put out from
 > the day when thou withdrewest thyself.<span
 > id="page_68_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_68_note_2) Have no longing after
+> class="small">2</span></sup>](#page_68_note_2.md) Have no longing after
 > this man, who has prisoned thee and taken thee off. Leave <span
 > id="page_69">p. 69</span> the man, who is not of thy
 > dwelling-place,<span id="page_69_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_69_note_1) alone by himself in the
+> class="small">1</span></sup>](#page_69_note_1.md) alone by himself in the
 > world. Let him not say: I have gone and carried off Miryai from her
 > place. Come, teach the children, so that they may learn. Lay the Torah
 > in thy lap and let us hear thy voice as it used to be. From the moment
 > and the day when thou didst detach the dough<span
 > id="page_69_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_69_note_2) has it been covered up
+> class="small">2</span></sup>](#page_69_note_2.md) has it been covered up
 > ... ...."
 >
 >    When Miryai heard this from her mother, she laughed and rejoiced in
@@ -313,14 +313,14 @@
 > infamous, worthless priests! It surely would not be the Jews who stand
 > there and bow down to a brick-grave!<span
 > id="page_69_fr_3"></span>[<sup><span
-> class="small">3</span></sup>](#page_69_note_3) They shall be buried in
+> class="small">3</span></sup>](#page_69_note_3.md) They shall be buried in
 > the Darkness.
 >
 >    "Go, go," says she unto them, "ye fools, ye abortions,<span
 > id="page_69_fr_4"></span>[<sup><span
-> class="small">4</span></sup>](#page_69_note_4) ye who were not of the
+> class="small">4</span></sup>](#page_69_note_4.md) ye who were not of the
 > world.<span id="page_69_fr_5"></span>[<sup><span
-> class="small">5</span></sup>](#page_69_note_5) I am no woman who is
+> class="small">5</span></sup>](#page_69_note_5.md) I am no woman who is
 > stripped for wantoning; and it is not that I have fallen in love with
 > a man. Stripped am I not for returning to you and for again seeing
 > you, doming of blasphemy. Go, go hence from me, ye who have witnessed
@@ -334,14 +334,14 @@
 >    As the priests stand there and speak with Miryai at the mouth of
 > Euphrates, there came a pure eagle-bird, whose wings are the fulness
 > of worlds.<span id="page_70_fr_1"></span>[<sup><span
-> class="small">1</span></sup>](#page_70_note_1) He flew down on the
+> class="small">1</span></sup>](#page_70_note_1.md) He flew down on the
 > Jews, dashed at them with his wings, bound them and sank them down
 > unto the water's bottom, deeper \[down\] than the foul-smelling mud.
 > He sank them deeper down than the blazing \[water\], that is inside
 > the dark water. He sank their ships down to the blazing water's
 > bottom. He destroyed the temple and laid fire to Jerusalem.<span
 > id="page_70_fr_2"></span>[<sup><span
-> class="small">2</span></sup>](#page_70_note_2)
+> class="small">2</span></sup>](#page_70_note_2.md)
 >
 >    He brought down all upon them and in Jerusalem slew the disciples.
 >
@@ -369,7 +369,7 @@
 
 ------------------------------------------------------------------------
 
-[Next: II. iii. Some Typical Examples](gjb-2-3)
+[Next: II. iii. Some Typical Examples](gjb-2-3.md)
 
 ------------------------------------------------------------------------
 
@@ -377,85 +377,85 @@
 
 <span id="footnotes_page_62">p. 62</span>
 
-<span id="page_62_note_1"></span>[1](#page_62_fr_1) A by-name for
+<span id="page_62_note_1"></span>[1](#page_62_fr_1.md) A by-name for
 Jerusalem.
 
-<span id="page_62_note_2"></span>[2](#page_62_fr_2) Presumably Adonai;
+<span id="page_62_note_2"></span>[2](#page_62_fr_2.md) Presumably Adonai;
 M.'s Lord is (below) the King of Light and later on her Lord is Gnosis
 of Life.
 
-<span id="page_62_note_3"></span>[3](#page_62_fr_3) Cp. the prophesyings
+<span id="page_62_note_3"></span>[3](#page_62_fr_3.md) Cp. the prophesyings
 and interpretations of Early Christendom and the 'glossolaly' of the
 earliest Pauline communities.
 
-<span id="page_62_note_4"></span>[4](#page_62_fr_4) M. became entranced.
+<span id="page_62_note_4"></span>[4](#page_62_fr_4.md) M. became entranced.
 
-<span id="page_62_note_5"></span>[5](#page_62_fr_5) Presumably a
+<span id="page_62_note_5"></span>[5](#page_62_fr_5.md) Presumably a
 heavenly visitant.
 
 <span id="footnotes_page_63">p. 63</span>
 
-<span id="page_63_note_1"></span>[1](#page_63_fr_1) *Ṭuṭiftā* = Heb.
+<span id="page_63_note_1"></span>[1](#page_63_fr_1.md) *Ṭuṭiftā* = Heb.
 *tefillīm*.
 
-<span id="page_63_note_2"></span>[2](#page_63_fr_2) Cp. § 22, 'the pure
+<span id="page_63_note_2"></span>[2](#page_63_fr_2.md) Cp. § 22, 'the pure
 *burzinqā*,' and J. B., pp. 30<sup>1</sup> and 50<sup>1</sup>.
 
 <span id="footnotes_page_65">p. 65</span>
 
-<span id="page_65_note_1"></span>[1](#page_65_fr_1) The whole
+<span id="page_65_note_1"></span>[1](#page_65_fr_1.md) The whole
 description is intentionally symbolic or allegorical.
 
-<span id="page_65_note_2"></span>[2](#page_65_fr_2) The White Eagle is
+<span id="page_65_note_2"></span>[2](#page_65_fr_2.md) The White Eagle is
 manifestly Gnosis of Life.
 
 <span id="footnotes_page_66">p. 66</span>
 
-<span id="page_66_note_1"></span>[1](#page_66_fr_1) Presumably the
+<span id="page_66_note_1"></span>[1](#page_66_fr_1.md) Presumably the
 Seven.
 
-<span id="page_66_note_2"></span>[2](#page_66_fr_2) Presumably the
+<span id="page_66_note_2"></span>[2](#page_66_fr_2.md) Presumably the
 End-Sea.
 
-<span id="page_66_note_3"></span>[3](#page_66_fr_3) White for purity,
+<span id="page_66_note_3"></span>[3](#page_66_fr_3.md) White for purity,
 the M. colour *par excellence*. The water is of course the Living Water
 or Water of Life.
 
-<span id="page_66_note_4"></span>[4](#page_66_fr_4) Or Treasury,
+<span id="page_66_note_4"></span>[4](#page_66_fr_4.md) Or Treasury,
 Sīmath-Haiyē, a feminine personification, called elsewhere the Mother of
 all the \[Light\] Kings'; she is *par excellence* the Treasure or
 Treasury of Light.
 
 <span id="footnotes_page_67">p. 67</span>
 
-<span id="page_67_note_1"></span>[1](#page_67_fr_1) Mentioned also in §
-32 {[p. 57](gjb-2-1.htm#page_57)}, but unexplained.
+<span id="page_67_note_1"></span>[1](#page_67_fr_1.md) Mentioned also in §
+32 {[p. 57](gjb-2-1.htm#page_57.md)}, but unexplained.
 
-<span id="page_67_note_2"></span>[2](#page_67_fr_2) In the Lud (cp. note
+<span id="page_67_note_2"></span>[2](#page_67_fr_2.md) In the Lud (cp. note
 on R. Eliezar, founder of the Lud school in § 18, p. 34) Ben Stada
 Talmūd Jesus stories, Jeshu is stoned and hanged on a stake afterwards
 (see *D. J. L. 100 B.C.?*—pp. 176ff.). It was the custom for the dead
 body after the stoning (*e.g.* of an adulterer, or of a
 fornicator—*i.e.* heretic) to be exposed on a stake or post.
 
-<span id="page_67_note_3"></span>[3](#page_67_fr_3) Gnosis of Life is
+<span id="page_67_note_3"></span>[3](#page_67_fr_3.md) Gnosis of Life is
 called the Stranger (*sc*. to the world) *par excellence*.
 
-<span id="page_67_note_4"></span>[4](#page_67_fr_4) The MM. were
+<span id="page_67_note_4"></span>[4](#page_67_fr_4.md) The MM. were
 bitterly persecuted. The fellings or slaughterings of the 'trees' and
 the snaring or imprisonment of the 'doves' refer to the martyrdom of the
 faithful. Cp. the hewing-down of the 'trees' in the Synoptic John-sermon
 and also the John-Jonah (Dove) word-play.
 
-<span id="page_67_note_5"></span>[5](#page_67_fr_5) 'Fishes' and 'birds'
+<span id="page_67_note_5"></span>[5](#page_67_fr_5.md) 'Fishes' and 'birds'
 are the new 'hearers' of the faith.
 
 <span id="footnotes_page_68">p. 68</span>
 
-<span id="page_68_note_1"></span>[1](#page_68_fr_1) Presumably kept
+<span id="page_68_note_1"></span>[1](#page_68_fr_1.md) Presumably kept
 hidden, or made conditions concerning their revelation.
 
-<span id="page_68_note_2"></span>[2](#page_68_fr_2) Compare with the
+<span id="page_68_note_2"></span>[2](#page_68_fr_2.md) Compare with the
 above eloquent invitation to return the similar motive in the Talmūd
 Jesus stories: (1) "When King Jannai directed the destruction of the
 Rabbis. R. Joshua ben Perachiah and Jeshu went to Alexandria. When
@@ -470,25 +470,25 @@ Alexandria the Little: How long lives my betrothed with thee, whilst I
 am sitting grieving for him?'" (*Pal. Chagiga*, 77d). See my *D. J. L.
 100 B.C.?*—pp. 137ff., 148ff.—for a discussion of these passages. Can
 Tabbai possibly in any way connect with the Ṭāb-Yōmīn of the
-Portents-piece § 18 {[p. 35](gjb-2-1)}?
+Portents-piece § 18 {[p. 35](gjb-2-1.md)}?
 
 <span id="footnotes_page_69">p. 69</span>
 
-<span id="page_69_note_1"></span>[1](#page_69_fr_1) Clearly indicating
+<span id="page_69_note_1"></span>[1](#page_69_fr_1.md) Clearly indicating
 that the Mandā was originally not Jewish.
 
-<span id="page_69_note_2"></span>[2](#page_69_fr_2) Heb. *ḥallah*, the
+<span id="page_69_note_2"></span>[2](#page_69_fr_2.md) Heb. *ḥallah*, the
 priests' share of the dough, Cp. [Lev. 15:20,
-21](../../../bib/kjv/lev.htm#15:20): "Of the first of your dough (marg.
+21](../../../bib/kjv/lev.htm#15:20.md): "Of the first of your dough (marg.
 coarse meal) ye shall offer up a cake for a heave-offering."
 
-<span id="page_69_note_3"></span>[3](#page_69_fr_3) Cp. L.'s note (p.
+<span id="page_69_note_3"></span>[3](#page_69_fr_3.md) Cp. L.'s note (p.
 114<sup>2</sup>), referring to the above-quoted (p. 68, n. 2) Talmūd
 passage (1), where the same bowing down is recorded of Jeshu, namely:
 "he set up a brick-bat and worshipped it." L. again prefers to render
 the two words here as 'vault' simply. The Talmūd puzzle has never been
 solved; but the passage of the J. B. above ([p.
-55](gjb-2-1.htm#page_55)) connects it with a coffin, and strongly
+55](gjb-2-1.htm#page_55).md) connects it with a coffin, and strongly
 suggests an Egyptian atmosphere. Cp. now what Josephus (*Antiqq*. I.
 ii.; Cory's *An. Fragg*. pp. 171, 172), Hebraïzing the Egyptian
 tradition, says of the Sons of Sēth ( = Sōthis = Sirius), how "they made
@@ -506,22 +506,22 @@ pyramids were originally tombs. That my suggested version is in the
 right direction is borne out by the following sentence of the text:
 "They shall be buried in the Darkness."
 
-<span id="page_69_note_4"></span>[4](#page_69_fr_4) A common Gnostic
+<span id="page_69_note_4"></span>[4](#page_69_fr_4.md) A common Gnostic
 figure, appearing frequently in Manichæism. In the Christianized Gnosis
 it is the technical term for the unripe birth from Achamōth, the Wisdom
 Without. For the most interesting echo in the N.T. cp. Paul's famous
 utterance: "And last of all he appeared unto me also, as unto 'the
 Abortion'"—*sc*. of whom you have all heard.
 
-<span id="page_69_note_5"></span>[5](#page_69_fr_5) This is presumably
+<span id="page_69_note_5"></span>[5](#page_69_fr_5.md) This is presumably
 ironical = "who thought that ye were not of this world."
 
 <span id="footnotes_page_70">p. 70</span>
 
-<span id="page_70_note_1"></span>[1](#page_70_fr_1) That is, presumably,
+<span id="page_70_note_1"></span>[1](#page_70_fr_1.md) That is, presumably,
 fill the whole of the worlds in their span.
 
-<span id="page_70_note_2"></span>[2](#page_70_fr_2) The MM. evidently
+<span id="page_70_note_2"></span>[2](#page_70_fr_2.md) The MM. evidently
 believed that the destruction of Jerusalem was a retribution for the
 persecution of their community.
 

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,20 +23,20 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](sft00)  
-[Authors Preface](sft01)  
-[Chapter I: The Art of Story-Telling](sft02)  
-[Chapter II: Savage Ideas](sft03)  
-[Chapter III: Fairy Births and Human Midwives](sft04)  
-[Chapter IV: Fairy Births and Human Midwives (continued)](sft05)  
-[Chapter V: Changelings](sft06)  
-[Chapter VI: Robberies from Fairyland](sft07)  
-[Chapter VII: The Supernatural Lapse of Time in Fairyland](sft08)  
+[Title Page](sft00.md)  
+[Authors Preface](sft01.md)  
+[Chapter I: The Art of Story-Telling](sft02.md)  
+[Chapter II: Savage Ideas](sft03.md)  
+[Chapter III: Fairy Births and Human Midwives](sft04.md)  
+[Chapter IV: Fairy Births and Human Midwives (continued)](sft05.md)  
+[Chapter V: Changelings](sft06.md)  
+[Chapter VI: Robberies from Fairyland](sft07.md)  
+[Chapter VII: The Supernatural Lapse of Time in Fairyland](sft08.md)  
 [Chapter VIII: The Supernatural Lapse of Time in Fairyland
-contd](sft09)  
+contd](sft09.md)  
 [Chapter IX: The Supernatural Lapse of Time in Fairyland
-contd.](sft10)  
-[Chapter X: Swan Maidens](sft11)  
-[Chapter XI: Swan Maidens contd.](sft12)  
-[Chapter XII: Conclusion](sft13)  
-[Appendix](sft14)  
+contd.](sft10.md)  
+[Chapter X: Swan Maidens](sft11.md)  
+[Chapter XI: Swan Maidens contd.](sft12.md)  
+[Chapter XII: Conclusion](sft13.md)  
+[Appendix](sft14.md)  

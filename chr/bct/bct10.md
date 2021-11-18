@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct09) [Next](bct11)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Previous](bct09) [Next](bct11.md)
 
 ------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ therein. Bend thy back, and make thy knees <span id="page_247">p.
 247</span> to totter in old age, and I will make thy flesh food for the
 worms. And after five days and half a day<span
 id="page_247_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_247_note_1) I will have compassion
+class="small">1</span></sup>](#page_247_note_1.md) I will have compassion
 upon thee, and shew thee mercy in the abundance of my compassion and my
 mercy. And I will come down into thy house, and I will dwell in thy
 flesh, and for thy sake I will be pleased to be born like an
@@ -149,7 +149,7 @@ Garden (Paradise), and with the seal of Eve his mother.
 
 ------------------------------------------------------------------------
 
-[Next](bct11)
+[Next](bct11.md)
 
 ------------------------------------------------------------------------
 
@@ -157,7 +157,7 @@ Garden (Paradise), and with the seal of Eve his mother.
 
 <span id="footnotes_page_247"></span>p. 247
 
-<span id="page_247_note_1"></span>[1](#page_247_fr_1) I.e. five thousand
+<span id="page_247_note_1"></span>[1](#page_247_fr_1.md) I.e. five thousand
 five hundred years.
 
  

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm48)  [Next](bnm50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm48)  [Next](bnm50.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ flowers of spring, the only flowers that can remember the winter.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Face Of The Moon Is White.](bnm50)
+[Next: Why The Face Of The Moon Is White.](bnm50.md)

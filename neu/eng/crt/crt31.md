@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](crt30)  [Next](crt32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](crt30)  [Next](crt32.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_25200"></span>
 
 [![King Mark broods mischief](tn/25200.jpg)  
-Click to enlarge](img/25200.jpg)  
+Click to enlarge](img/25200.jpg.md)  
 King Mark broods mischief  
 
 <span id="page_253">p. 253</span>
@@ -317,4 +317,4 @@ and so many others have travelled before us. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](crt32)
+[Next: Introduction](crt32.md)

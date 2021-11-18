@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac01)  [Next](sac03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac01)  [Next](sac03.md) 
 
 ------------------------------------------------------------------------
 
@@ -226,4 +226,4 @@ APPENDICES.</p></td>
 
 ------------------------------------------------------------------------
 
-[Next: List of Illustrations](sac03)
+[Next: List of Illustrations](sac03.md)

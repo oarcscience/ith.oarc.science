@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst15)  [Next](myst17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst15)  [Next](myst17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -49,7 +49,7 @@ of the Salpêtriére with patients from the Roman Calendar. The modern
 interpreter, says Rufus Jones, finds in the stigmata of St. Francis of
 Assisi a point of weakness rather than a point of strength: not “the
 marks of a saint,” but “the marks of emotional and physical
-abnormality.”  <span id="fr_557"></span>[558](#fn_557) This is a very
+abnormality.”  <span id="fr_557"></span>[558](#fn_557.md) This is a very
 moderate statement of the “rational” position, by a writer who is in
 actual sympathy with certain aspects of mysticism. Yet it may well be
 doubted whether that flame of living love which could, for one dazzling
@@ -69,14 +69,14 @@ the harmless results of a vivid imagination: and claim as examples of
 miraculous interference with “natural law” psychic phenomena which may
 well be the normal if rare methods by which a certain type of intuitive
 genius actualizes its perceptions of the spiritual world.  <span
-id="fr_558"></span>[559](#fn_558)
+id="fr_558"></span>[559](#fn_558.md)
 
 <span id="an_iv.v-p6"></span>Materialistic piety of this kind, which
 would have us believe that St. Anthony of Padua really held the Infant
 Christ in his arms, and that the Holy Ghost truly told the Blessed
 Angela of Foligno that He loved her better than any other woman in the
 Vale of Spoleto, and she knew Him more intimately than the Apostles
-themselves,  <span id="fr_559"></span>[560](#fn_559) is the best friend
+themselves,  <span id="fr_559"></span>[560](#fn_559.md) is the best friend
 the “rationalists” possess. It turns dreams into miracles and drags down
 the symbolic visions of genius to the level of pious hallucination. Even
 the profound and beautiful significance of St. Margaret Mary Alacoque’s
@@ -89,7 +89,7 @@ id="page_268">p. 268</span> <span id="an_iv.v-Page_268"></span> Teresa
 and countless other saints, have been degraded in the course of their
 supposed elevation to the sphere called “supernatural”—a process as
 fatal to their truth and beauty as the stuffing of birds.  <span
-id="fr_560"></span>[561](#fn_560)
+id="fr_560"></span>[561](#fn_560.md)
 
 <span id="an_iv.v-p9"></span>All this, too, is done in defiance of the
 great mystics themselves, who are unanimous in warning their disciples
@@ -104,7 +104,7 @@ Infinite Being in which it is immersed—can express themselves by means
 of almost any kind of sensory automatism. Strange sweet perfumes and
 tastes, physical sensations of touch, inward fires, are reported over
 and over again in connection with such spiritual adventures.  <span
-id="fr_561"></span>[562](#fn_561) Those symbols under which the mystic
+id="fr_561"></span>[562](#fn_561.md) Those symbols under which the mystic
 tends to approach the Absolute easily become objectivized, and present
 themselves to the consciousness as parts of experience, rather than as
 modes of interpretation. The knowledge which is obtained in such an
@@ -115,7 +115,7 @@ inadequate to it: yet all, perhaps, may hint at that intense perception
 of which they are the scattered parts. “And we shall endlessly be all
 had in God,” says Julian of this supreme experience, “Him verily seeing
 and fully feeling, Him spiritually hearing and Him delectably smelling
-and sweetly swallowing.”  <span id="fr_562"></span>[563](#fn_562)
+and sweetly swallowing.”  <span id="fr_562"></span>[563](#fn_562.md)
 
 <span id="an_iv.v-p12"></span>All those so-called “hallucinations of the
 senses” which appear in the history of mysticism must, then, be
@@ -131,7 +131,7 @@ or personality, some “triumphing spiritual power,” external to himself?
 Is the vision only a pictured thought, an activity of the dream
 imagination: or, is it the violent effort of the self to translate
 something impressed upon its deeper being, some message received from
-without,  <span id="fr_563"></span>[564](#fn_563) which projects this
+without,  <span id="fr_563"></span>[564](#fn_563.md) which projects this
 sharp image and places it before the consciousness?
 
 <span id="an_iv.v-p14"></span>The answer seems to be that the voice or
@@ -139,12 +139,12 @@ vision may be either of these two things: and that pathology and
 religion have both been over-hasty in their eagerness to snatch at these
 phenomena for their own purposes. Many—perhaps most—voices do but give
 the answer which the subject has already suggested to itself;  <span
-id="fr_564"></span>[565](#fn_564) many—perhaps most—visions are the
+id="fr_564"></span>[565](#fn_564.md) many—perhaps most—visions are the
 picturings of dreams and desires.  <span
-id="fr_565"></span>[566](#fn_565) Some are morbid hallucinations: some
+id="fr_565"></span>[566](#fn_565.md) Some are morbid hallucinations: some
 even symptoms of insanity. All probably borrow their shape, as apart
 from their content, from suggestions already present in the mind of the
-seer.  <span id="fr_566"></span>[567](#fn_566)
+seer.  <span id="fr_566"></span>[567](#fn_566.md)
 
 <span id="an_iv.v-p18"></span>But there are some, experienced by minds
 of great power and richness, which are crucial for those who have them.
@@ -159,10 +159,10 @@ higher plane of experience from the radiant appearances of our Lady, the
 piteous exhibitions of the sufferings of Christ, which swarm in the
 lives of the saints, and contain no feature which is not traceable to
 the subject’s religious enthusiasms or previous knowledge.  <span
-id="fr_567"></span>[568](#fn_567) These, in the apt phrase of
+id="fr_567"></span>[568](#fn_567.md) These, in the apt phrase of
 Godfernaux, <span id="page_270">p. 270</span> <span
 id="an_iv.v-Page_270"></span> are but “images floating on the moving
-deeps of feeling,”  <span id="fr_568"></span>[569](#fn_568) not symbolic
+deeps of feeling,”  <span id="fr_568"></span>[569](#fn_568.md) not symbolic
 messages from another plane of consciousness. Some test, then, must be
 applied, some basis of classification discovered, if we are to
 distinguish the visions and voices which seem to be symptoms of real
@@ -194,15 +194,15 @@ easily become the expression of folly as of wisdom. In the moments when
 inspiration has ebbed, old forgotten superstitions may take its place.
 When Julian of Norwich in her illness saw the “horrible showing” of the
 Fiend, red with black freckles, which clutched at her throat with its
-paws:  <span id="fr_569"></span>[570](#fn_569) when St. Teresa was
+paws:  <span id="fr_569"></span>[570](#fn_569.md) when St. Teresa was
 visited by Satan, who left a smell of brimstone behind, or when she saw
 him sitting on the top of her breviary and dislodged him by the use of
-holy water:  <span id="fr_570"></span>[571](#fn_570) it is surely
+holy water:  <span id="fr_570"></span>[571](#fn_570.md) it is surely
 reasonable to allow that we are in the presence of visions which tend
 towards the psychopathic type, and which are expressive of little else
 but an exhaustion and temporary loss of balance on the subject’s part,
 which allowed her intense consciousness of the reality of evil to assume
-a concrete form.  <span id="fr_571"></span>[572](#fn_571) <span
+a concrete form.  <span id="fr_571"></span>[572](#fn_571.md) <span
 id="page_271">p. 271</span> <span id="an_iv.v-Page_271"></span>
 
 <span id="an_iv.v-p26"></span>Because we allow this, however, it does
@@ -238,7 +238,7 @@ ecstatic perception of good or evil—for neither extreme has the
 monopoly—to which the deeper, more real soul has attained. The
 transcendental powers take for this purpose such material as they can
 find amongst the hoarded beliefs and memories of the self.  <span
-id="fr_572"></span>[573](#fn_572) Hence Plotinus sees the Celestial
+id="fr_572"></span>[573](#fn_572.md) Hence Plotinus sees the Celestial
 Venus, Suso the Eternal Wisdom, St. Teresa the <span id="page_272">p.
 272</span> <span id="an_iv.v-Page_272"></span> Humanity of Christ, Blake
 the strange personages of his prophetic books: others more obviously
@@ -246,7 +246,7 @@ symbolic objects. St. Ignatius Loyola, for instance, in a moment of
 lucidity, “saw the most Holy Trinity as it were under the likeness of a
 triple plectrum or of three spinet keys” and on another occasion “the
 Blessed Virgin without distinction of members.”  <span
-id="fr_573"></span>[574](#fn_573)
+id="fr_573"></span>[574](#fn_573.md)
 
 <span id="an_iv.v-p30"></span>Visions and voices, then, may stand in the
 same relation to the mystic as pictures, poems, and musical compositions
@@ -293,7 +293,7 @@ answer to her prayers, “I will espouse thee to Myself in faith”; and the
 vision in which that union was consummated was again initiated by a
 voice saying, “I will *this day* celebrate solemnly with thee the feast
 of the betrothal of thy soul, and even as I promised I will espouse thee
-to Myself in faith.”  <span id="fr_574"></span>[575](#fn_574) “Such
+to Myself in faith.”  <span id="fr_574"></span>[575](#fn_574.md) “Such
 automatisms as these,” says Delacroix, “are by no means scattered and
 incoherent. They are systematic and progressive: they are governed by an
 interior aim; they have, above all, a teleological character. They
@@ -307,7 +307,7 @@ permit the continuous penetration of the conscious personality by these
 deeper activities. They establish a communication between these two
 planes of existence, and, by their imperative nature, they tend to make
 the inferior subordinate to the superior.”  <span
-id="fr_575"></span>[576](#fn_575)
+id="fr_575"></span>[576](#fn_575.md)
 
 #### <span id="an_iv.v-p34.1"></span>Audition
 
@@ -345,7 +345,7 @@ into successive speech.
 <span id="an_iv.v-p37"></span>“Let Thy good Spirit enter my heart and
 there be heard without utterance, and without the sound of words speak
 all truth,” says a prayer attributed to St. Ambrose,  <span
-id="fr_576"></span>[577](#fn_576) exactly describing the function of
+id="fr_576"></span>[577](#fn_576.md) exactly describing the function of
 these unmediated or “intellectual words.” Dynamic messages of this kind,
 imperative intuitions which elude the containing formula of speech, are
 invariably attributed by the self to the direct action of the Divine.
@@ -357,7 +357,7 @@ words,” in fact, are a form of inspiration. Eternal truth bursts in upon
 the temporally-conditioned human mind. Thus St. Hildegarde tells us that
 each of her great revelations was received “in an instant” and St.
 Bridget of Sweden that the whole substance of her 5th Book was given “in
-a flash.”  <span id="fr_577"></span>[578](#fn_577)
+a flash.”  <span id="fr_577"></span>[578](#fn_577.md)
 
 <span id="an_iv.v-p40"></span>“Distinct interior words,” on the other
 hand, lack this character of simultaneity. Nor are they invariably
@@ -377,7 +377,7 @@ within the field of consciousness. That is to say, they are really
 automatic presentations of the result of mystic intuition, not mere
 rearrangements of the constituents <span id="page_275">p. 275</span>
 <span id="an_iv.v-Page_275"></span> of thought.  <span
-id="fr_578"></span>[579](#fn_578) Hence they bring to the surface-self
+id="fr_578"></span>[579](#fn_578.md) Hence they bring to the surface-self
 new conviction or material: have a positive value for life.
 
 <span id="an_iv.v-p42"></span>Those purely self-created locutions, or
@@ -394,13 +394,13 @@ the Cross, with his customary blunt common sense, “by what passes among
 us in these days. Anyone who has barely begun to meditate, if he becomes
 conscious of words of this kind during his self-recollection, pronounces
 them forthwith to be the work of God;  <span
-id="fr_579"></span>[580](#fn_579) and, convinced that they are so, goes
+id="fr_579"></span>[580](#fn_579.md) and, convinced that they are so, goes
 about proclaiming ‘God has told me this,’ or ‘I have had that answer
 from God.’ But all is illusion and fancy; such an one has only been
 speaking to himself. Besides, the desire for these words, and the
 attention they give to them, end by persuading men that all the
 observations which they address to themselves are the responses of God.”
- <span id="fr_580"></span>[581](#fn_580) These are the words of one who
+ <span id="fr_580"></span>[581](#fn_580.md) These are the words of one who
 was at once the sanest of saints and the most penetrating of
 psychologists: words which our modern unruly amateurs of the
 “subconscious” might well take to heart.
@@ -431,7 +431,7 @@ when the understanding and the soul are so troubled and distracted that
 they cannot form one sentence correctly: and yet grand sentences,
 perfectly arranged such as the soul in its most recollected state never
 could have formed, are uttered: and at the first word, as I have said,
-change it utterly.”  <span id="fr_581"></span>[582](#fn_581)
+change it utterly.”  <span id="fr_581"></span>[582](#fn_581.md)
 
 <span id="an_iv.v-p48"></span>St. Teresa’s mystic life was governed by
 voices: her active career as a foundress was much guided by them. They
@@ -440,7 +440,7 @@ plans, ran counter to her personal judgment, forbade a foundation on
 which she was set, or commanded one which appeared imprudent or
 impossible. They concerned themselves with journeys, with the purchase
 of houses; they warned her of coming events.  <span
-id="fr_582"></span>[583](#fn_582) As her mystical life matured, Teresa
+id="fr_582"></span>[583](#fn_582.md) As her mystical life matured, Teresa
 seems to have learned to discriminate those locutions on which action
 should properly be based. She seldom resisted them, though it constantly
 happened that the action on which they insisted seemed the height of
@@ -457,7 +457,7 @@ communications, and at her peril disobeyed its commands.
 “distinct interior words” which the mystic hears within his mind, that
 Suso is able to state that the hundred meditations on the Passion thus
 revealed to him were spoken in German and not in Latin.  <span
-id="fr_583"></span>[584](#fn_583) St. Teresa’s own auditions were all of
+id="fr_583"></span>[584](#fn_583.md) St. Teresa’s own auditions were all of
 this interior kind—some “distinct” and some “substantial” or
 inarticulate—as her corresponding visions were nearly all of the
 “intellectual” or “imaginary” sort: that is to say, she was not subject
@@ -475,7 +475,7 @@ corresponds to the temperamental bias of the self, the ordered sweetness
 of Divine Harmony striking responsive chords in the music-loving soul.
 The lives of St. Francis of Assisi, St. Catherine of Siena, and Richard
 Rolle provide obvious instances of this:  <span
-id="fr_584"></span>[585](#fn_584) but Suso, in whom automatism assumed
+id="fr_584"></span>[585](#fn_584.md) but Suso, in whom automatism assumed
 its richest and most varied forms, has also given in his autobiography
 some characteristic examples.
 
@@ -496,7 +496,7 @@ spirits began to sing the fair Respond: <span id="an_iv.v-p54.2"></span>
 marvellous sweetness in the deeps of his soul. And when the angels had
 sung for some time his soul overflowed with joy: and his feeble body
 being unable to support such happiness, burning tears escaped from his
-eyes.”  <span id="fr_585"></span>[586](#fn_585)
+eyes.”  <span id="fr_585"></span>[586](#fn_585.md)
 
 <span id="an_iv.v-p56"></span>Closely connected on the one hand with the
 phenomena of automatic words, on the other with those of prophecy and
@@ -544,7 +544,7 @@ new wisdom and new life.
 genuine mystic dialogue of this kind—for often enough, as in Suso’s
 “Book of the Eternal Wisdom,” it is deliberately adopted as a literary
 device—is an indication of its automatic character.  <span
-id="fr_586"></span>[587](#fn_586) Expression, once it is divorced from
+id="fr_586"></span>[587](#fn_586.md) Expression, once it is divorced from
 the critical action of the surface intelligence, always tends to assume
 a dithyrambic form. Measure and colour, exaltation of language, here
 take a more important place than the analytic intellect will generally
@@ -593,7 +593,7 @@ and Freedom which are incommunicable. We shall never know, for instance,
 what was the state of consciousness of some citizen of the antique world
 when he gave himself without reserve to the inspiring suggestions of the
 Sacred Fire, or some other image which evoked the infinite.”  <span
-id="fr_587"></span>[588](#fn_587) Neither shall we ever know, unless it
+id="fr_587"></span>[588](#fn_587.md) Neither shall we ever know, unless it
 be our good fortune to attain to it, the secret of that consciousness
 which is able to apprehend the Transcendent in visionary terms.
 
@@ -601,7 +601,7 @@ which is able to apprehend the Transcendent in visionary terms.
 this inquiry is that the mystics are all but unanimous in their refusal
 to attribute <span id="page_280">p. 280</span> <span
 id="an_iv.v-Page_280"></span> importance to any kind of visionary
-experience.  <span id="fr_588"></span>[589](#fn_588) The natural
+experience.  <span id="fr_588"></span>[589](#fn_588.md) The natural
 timidity and stern self-criticism with which they approach auditions is
 here greatly increased: and this, if taken to heart, might well give
 pause to their more extreme enemies and defenders. “If it be so,” says
@@ -621,7 +621,7 @@ and thine affection, thy delight and thy rest, principally therein,
 weening that bodily feeling should be a part of heavenly joy and of
 angels’ bliss . . . this feeling is suspect and of the enemy. And
 therefore, though it be never so liking and wonderful, refuse it, and
-assent not thereto.”  <span id="fr_589"></span>[590](#fn_589) Nearly
+assent not thereto.”  <span id="fr_589"></span>[590](#fn_589.md) Nearly
 every master of the contemplative life has spoken to the same effect:
 none, perhaps, more strongly than that stern and virile lover of the
 invisible, St. John of the Cross, who was relentless in hunting down
@@ -647,7 +647,7 @@ than through the senses, wherein there is usually much danger and
 delusion, because the bodily sense decides upon, and judges, spiritual
 things, thinking them to be what itself feels them to be, when in
 reality they are as different as body and soul, sensuality and reason.”
- <span id="fr_590"></span>[591](#fn_590)
+ <span id="fr_590"></span>[591](#fn_590.md)
 
 <span id="an_iv.v-p68"></span>Again, “in the high state of the union of
 love, God does not communicate Himself to the soul under the disguise of
@@ -658,14 +658,14 @@ visions, forms, figures, and particular intelligible objects, for these
 things can never serve as proportionate or proximate means towards so
 great an end; yea, rather they are an obstacle in the way, and therefore
 to be guarded against and rejected.”  <span
-id="fr_591"></span>[592](#fn_591)
+id="fr_591"></span>[592](#fn_591.md)
 
 <span id="an_iv.v-p70"></span>So, too, St. Teresa. “In such matters as
 these there is always cause to fear illusion; until we are assured that
 they truly proceed from the Spirit of God. Therefore at the beginning it
 is always best to resist them. If it is indeed God who is acting, the
 soul will but progress still more quickly, for the trial will favour her
-advancement.”  <span id="fr_592"></span>[593](#fn_592)
+advancement.”  <span id="fr_592"></span>[593](#fn_592.md)
 
 <span id="an_iv.v-p72"></span>Vision, then, is recognized by the true
 contemplative as at best an imperfect, oblique, and untrustworthy method
@@ -730,14 +730,14 @@ the soul can behold nothing else, because this fulfils her in an
 unspeakable manner. This beholding, whereby the soul can behold no other
 thing, is so profound that it grieves me that I can say nothing of it.
 It is not a thing which can be touched or imagined, for it is
-ineffable.”  <span id="fr_593"></span>[594](#fn_593) <span
+ineffable.”  <span id="fr_593"></span>[594](#fn_593.md) <span
 id="page_283">p. 283</span> <span id="an_iv.v-Page_283"></span>
 
 <span id="an_iv.v-p76"></span>Intellectual vision, then, seems to be
 closely connected with that “consciousness of the Presence of God” which
 we discussed in the last chapter: though the contemplatives themselves
 declare that it differs from it.  <span
-id="fr_594"></span>[595](#fn_594) It is distinguished apparently from
+id="fr_594"></span>[595](#fn_594.md) It is distinguished apparently from
 that more or less diffused consciousness of Divine Immanence by the fact
 that although unseen of the eyes, it can be exactly located in space.
 The mystic’s general awareness of the divine is here focussed upon one
@@ -750,7 +750,7 @@ unconditioned Absolute. “In the prayer of union and of quiet,” says St.
 Teresa, “certain inflowings of the Godhead are present; but in the
 *vision,* the Sacred Humanity also, together with them, is pleased to be
 our companion and to do us good.”  <span
-id="fr_595"></span>[596](#fn_595) “A person who is in no way expecting
+id="fr_595"></span>[596](#fn_595.md) “A person who is in no way expecting
 such a favour,” she says again, “nor has ever imagined herself worthy of
 receiving it, is conscious that Jesus Christ stands by her side;
 although she sees Him neither with the eyes of the body nor of the soul.
@@ -765,7 +765,7 @@ The conscience is greatly purified by the knowledge of His perpetual and
 near presence, for although we know that God sees all we do, yet nature
 inclines us to grow careless and forgetful of it. This is impossible
 here, since our Lord makes the soul conscious that He is close at hand.”
- <span id="fr_596"></span>[597](#fn_596)
+ <span id="fr_596"></span>[597](#fn_596.md)
 
 <span id="an_iv.v-p80"></span>In such a state—to which the term “vision”
 is barely applicable—it will be observed that consciousness is at its
@@ -777,7 +777,7 @@ naked Godhead,” says Suso of this, “is without doubt the pure truth: a
 vision is to be esteemed the more noble the more <span id="page_284">p.
 284</span> <span id="an_iv.v-Page_284"></span> intellectual it is, the
 more it is stripped of all image and approaches the state of pure
-contemplation.”  <span id="fr_597"></span>[598](#fn_597)
+contemplation.”  <span id="fr_597"></span>[598](#fn_597.md)
 
 <span id="an_iv.v-p82"></span>We owe to St. Teresa our finest first-hand
 account of this strange condition of “awareness.” It came upon her
@@ -834,20 +834,20 @@ Himself which is more clear than the sun. I do not mean that we now see
 either a sun or any other brightness, only that there is a light not
 seen, which illumines the understanding, so that the soul may have the
 fruition of so great a good. This vision brings with it great
-blessings.”  <span id="fr_598"></span>[599](#fn_598)
+blessings.”  <span id="fr_598"></span>[599](#fn_598.md)
 
 <span id="an_iv.v-p86"></span>(2) In *Imaginary Vision,* as in “interior
 words,” there is again no sensorial hallucination. The self sees sharply
 and clearly, it is true: but is perfectly aware that it does so in
 virtue of its most precious organ—“that inward eye which is the bliss of
-solitude.”  <span id="fr_599"></span>[600](#fn_599) Imaginary Vision is
+solitude.”  <span id="fr_599"></span>[600](#fn_599.md) Imaginary Vision is
 the spontaneous and automatic activity of a power which all artists, all
 imaginative people, possess. So far as the machinery employed in it is
 concerned, there is little real difference except in degree between
 Wordsworth’s imaginary vision of the “dancing daffodils” and Suso’s of
 the dancing angels, who “though they leapt very high in the dance, did
 so without any lack of gracefulness.”  <span
-id="fr_600"></span>[601](#fn_600) Both are admirable examples of
+id="fr_600"></span>[601](#fn_600.md) Both are admirable examples of
 “passive imaginary vision”: though in the first the visionary is aware
 that the picture seen is supplied by memory, whilst in the second it
 arises spontaneously like a dream from the subliminal region, and
@@ -883,7 +883,7 @@ and she was fair to look upon. And by her side was the soul of the
 Servitor, full of heavenly desires; resting lovingly upon the bosom of
 God, Who had embraced it, and pressed it to His Heart. And it remained
 altogether absorbed and inebriated with love in the arms of God its
-well-beloved.”  <span id="fr_601"></span>[602](#fn_601)
+well-beloved.”  <span id="fr_601"></span>[602](#fn_601.md)
 
 <span id="an_iv.v-p93"></span>In such a vision as this, we see the
 mystic’s passion for the Absolute, his intuition of Its presence in his
@@ -915,7 +915,7 @@ enough to see.
 > Non che da sè sien queste cose acerbe:  
 > ma è difetto dalla parte tua,  
 > che non hai viste ancor tanto superbe.” <span
-> id="fr_602"></span>[603](#fn_602)  
+> id="fr_602"></span>[603](#fn_602.md)  
 
 <span id="an_iv.v-p95"></span>In the last two lines of this wonderful
 passage, the whole philosophy of vision is expressed. It is an
@@ -944,7 +944,7 @@ understood how Love had subjected to herself the Omnipotent Majesty of
 God, had inebriated His Unsearchable Wisdom, had drawn forth all His
 most sweet goodness; and, by wholly conquering His divine justice and
 changing it into gentleness and mercy, had moved the Lord of all
-Majesty.”  <span id="fr_603"></span>[604](#fn_603)
+Majesty.”  <span id="fr_603"></span>[604](#fn_603.md)
 
 <span id="an_iv.v-p97"></span>Imaginary vision of this kind is probably
 far more common than is generally supposed: and can exist without any
@@ -955,7 +955,7 @@ Freud’s insistence upon the symbolic nature of normal dreams, it is the
 less surprising that the dream imagination of the Christian mystic
 should work up visions of a symbolic sort. . . . Our modern tendency to
 consider visions quite extraordinary and pathological is probably
-mistaken.  <span id="fr_604"></span>[605](#fn_604) It is certain that
+mistaken.  <span id="fr_604"></span>[605](#fn_604.md) It is certain that
 the meditations of those persons who are “good visualizers” often take a
 pictorial form; and indeed St. Ignatius Loyola, the great teacher of
 meditation, advised a deliberate effort so to visualize the subject
@@ -976,7 +976,7 @@ closely related to the concrete beliefs and spiritual passions of the
 self, and so perfectly expresses its apprehensions of God, that it is
 not always recognized as symbolic in kind. A simple example of this is
 the vision of Christ at the moment of consecration at Mass, experienced
-by so many Catholic ecstatics.  <span id="fr_605"></span>[606](#fn_605)
+by so many Catholic ecstatics.  <span id="fr_605"></span>[606](#fn_605.md)
 Another is St. Margaret Mary Alacoque’s vision of the Sacred Heart. St.
 Teresa is one of the few mystics who have detected the true character of
 automatisms of this sort: which bring with them—like their purer forms,
@@ -993,7 +993,7 @@ pictures. It would be absurd to suppose that the one bears any
 resemblance whatever to the other, for they differ as a living person
 differs from his portrait, which, however well drawn, cannot be
 lifelike, for it is plain that it is a dead thing.”  <span
-id="fr_606"></span>[607](#fn_606)
+id="fr_606"></span>[607](#fn_606.md)
 
 <span id="an_iv.v-p102"></span>“The vision,” she says in another place,
 “passes as quickly as a flash of lightning, yet this most glorious
@@ -1001,7 +1001,7 @@ picture makes an impression on the imagination that I believe can never
 be effaced until the soul at last sees Christ to enjoy Him for ever.
 Although I call it a ‘picture,’ you must not imagine that it looks like
 a painting; Christ appears as a living Person, Who sometimes speaks and
-reveals deep mysteries.”  <span id="fr_607"></span>[608](#fn_607)
+reveals deep mysteries.”  <span id="fr_607"></span>[608](#fn_607.md)
 
 <span id="an_iv.v-p104"></span>It seems, then, that this swift and
 dazzling vision of Divine Personality may represent a true contact of
@@ -1009,13 +1009,13 @@ the soul with the Absolute Life—a contact immediately referred to the
 image under which the self is accustomed to think of its God. Obviously
 in the case of Christian contemplatives this image will most usually be
 the historical Person of Christ, as He is represented in sacred
-literature and art.  <span id="fr_608"></span>[609](#fn_608) The
+literature and art.  <span id="fr_608"></span>[609](#fn_608.md) The
 life-enhancing quality of such an abrupt apprehension, however, the
 profound sense of reality which it brings, permit of its being classed
 not amongst vivid dreams, but amongst those genuine mystic states in
 which “the immanent God, formless, but capable of assuming all forms,
 expresses Himself in vision as He had expressed Himself in words.”
- <span id="fr_609"></span>[610](#fn_609) Certainty and joy are the
+ <span id="fr_609"></span>[610](#fn_609.md) Certainty and joy are the
 feeling-states accompanying this experience; which is as it were a
 love-letter received by the ardent soul, bringing with it the very
 fragrance of personality, along with the sign-manual of the beloved.
@@ -1028,7 +1028,7 @@ artist’s exalted consciousness of Beauty as a form of Truth is here seen
 operating on the transcendental plane. Thus when St. Teresa saw only the
 Hands of God, she was thrown into an <span id="page_290">p. 290</span>
 <span id="an_iv.v-Page_290"></span> ecstasy of adoration by their
-shining loveliness.  <span id="fr_610"></span>[611](#fn_610) “If I were
+shining loveliness.  <span id="fr_610"></span>[611](#fn_610.md) “If I were
 to spend many years in devising how to picture to myself anything so
 beautiful,” she says of the imaginary vision of Christ, “I should never
 be able, nor even know how, to do it; for it is beyond the scope of any
@@ -1046,7 +1046,7 @@ it is. God puts it before us so instantaneously, that we could not open
 our eyes in time to see it, if it were necessary for us to open them at
 all. But whether our eyes be open or shut, it makes no difference
 whatever: for when our Lord wills, we must see it, whether we will or
-not.”  <span id="fr_611"></span>[612](#fn_611)
+not.”  <span id="fr_611"></span>[612](#fn_611.md)
 
 <span id="an_iv.v-p110"></span>There is another and highly important
 class of visual automatisms: those which I have chosen to call *Active
@@ -1070,7 +1070,7 @@ Catherine of Siena at the moment of their stigmatization: the <span
 id="page_291">p. 291</span> <span id="an_iv.v-Page_291"></span>
 transverberation of St. Teresa; the heavenly visitor who announced to
 Suso his passage from the “lower school” to the “upper school” of the
-Holy Spirit.  <span id="fr_612"></span>[613](#fn_612) But perhaps the
+Holy Spirit.  <span id="fr_612"></span>[613](#fn_612.md) But perhaps the
 most picturesque and convincing example of all such dramas of the soul,
 is that which is known in art as the “Mystic Marriage of St. Catherine
 of Siena.”
@@ -1102,7 +1102,7 @@ Then the vision disappeared, but that ring ever remained on her finger,
 not indeed to the sight of others, but only to the sight of the virgin
 herself; for she often, albeit with bashfulness, confessed to me that
 she always saw that ring on her finger, nor was there any time when she
-did not see it.”’  <span id="fr_613"></span>[614](#fn_613) <span
+did not see it.”’  <span id="fr_613"></span>[614](#fn_613.md) <span
 id="page_292">p. 292</span> <span id="an_iv.v-Page_292"></span>
 
 <span id="an_iv.v-p114"></span>It is not difficult to discern the
@@ -1110,7 +1110,7 @@ materials from which this vision has been composed. As far as its
 outward circumstances go, it is borrowed intact from the legendary
 history of St. Catherine of Alexandria, with which her namesake must
 have been familiar from babyhood.  <span
-id="fr_614"></span>[615](#fn_614) Caterina Benincasa showed a
+id="fr_614"></span>[615](#fn_614.md) Caterina Benincasa showed a
 characteristic artistic suggestibility and quickness in transforming the
 stuff of this old story into the medium of a profound personal
 experience: as her contemporaries amongst the Sienese painters took
@@ -1152,7 +1152,7 @@ body has its share in it, even a large one. It is a caressing of love so
 sweet which now takes <span id="page_293">p. 293</span> <span
 id="an_iv.v-Page_293"></span> place between the soul and God, that I
 pray God of His goodness to make him experience it who may think that I
-am lying.”  <span id="fr_615"></span>[616](#fn_615)
+am lying.”  <span id="fr_615"></span>[616](#fn_615.md)
 
 <span id="an_iv.v-p118"></span>Finally it should be added that dynamic
 vision may assume a purely intellectual form; as in the case of the
@@ -1169,14 +1169,14 @@ angel could describe or explain. And I see and understand that these
 divine operations, that unfathomable abyss, no angel or other creature
 howsoever great or wise, could comprehend; and all I say now of it
 seemeth to me so ill said that it is blasphemy.”  <span
-id="fr_616"></span>[617](#fn_616)
+id="fr_616"></span>[617](#fn_616.md)
 
 #### <span id="an_iv.v-p119.1"></span>Automatic Script
 
 <span id="an_iv.v-p120"></span>The rarest of the automatic activities
 reported to us in connection with mysticism is that of “automatic
 writing.” This form of subliminal action has already been spoken of in
-an earlier chapter;  <span id="fr_617"></span>[618](#fn_617) where two
+an earlier chapter;  <span id="fr_617"></span>[618](#fn_617.md) where two
 of the most marked examples—Blake and Madame Guyon—are discussed. As
 with voice and vision, so this power of automatic composition may and
 does exist in various degrees of intensity: ranging from that
@@ -1188,7 +1188,7 @@ From the point of view of the psychologist, the inspirational writing of
 the mystics differs in degree rather than in kind from such poetic
 creation as that described by de Russet: “it is not work, it is
 listening; it is as if some unknown person were speaking in your ear.”
- <span id="fr_618"></span>[619](#fn_618) Such subliminal activity is
+ <span id="fr_618"></span>[619](#fn_618.md) Such subliminal activity is
 probably present to some extent in all the literary work of the great
 mystics, whose creative power, like that of most poets, is largely
 dissociated from the control of the will and the surface intelligence.
@@ -1209,16 +1209,16 @@ very discursiveness of its style, its loose employment of metaphor, the
 strangely mingled intimacy and remoteness of its tone, link it with
 prophetic literature; and are entirely characteristic of subliminal
 energy of a rich type, dissociated from the criticism and control of the
-normal consciousness.  <span id="fr_619"></span>[620](#fn_619)
+normal consciousness.  <span id="fr_619"></span>[620](#fn_619.md)
 
 <span id="an_iv.v-p125"></span>So too the writings of Rulman Merswin, if
 we accept the ingenious and interesting theory of his psychic state
-elaborated by M. Jundt,  <span id="fr_620"></span>[621](#fn_620) were
+elaborated by M. Jundt,  <span id="fr_620"></span>[621](#fn_620.md) were
 almost wholly of this kind. So Blake insisted that he was “under the
 direction of Messengers from Heaven, Daily and Nightly,”  <span
-id="fr_621"></span>[622](#fn_621) and stated on his deathbed that the
+id="fr_621"></span>[622](#fn_621.md) and stated on his deathbed that the
 credit for all his works belonged not to himself, but to his “celestial
-friends,”  <span id="fr_622"></span>[623](#fn_622) *i.e.* , to the
+friends,”  <span id="fr_622"></span>[623](#fn_622.md) *i.e.* , to the
 inspiration of a personality which had access to levels of truth and
 beauty unknown to his surface mind.
 
@@ -1234,7 +1234,7 @@ swiftly, without hesitations or amendments. Ideas and images welled up
 from her rich and active subliminal region too quickly, indeed, for her
 eager, hurrying pen: so that she sometimes exclaimed, “Oh, that I could
 write with many hands, so that none were forgotten!”  <span
-id="fr_623"></span>[624](#fn_623) In Teresa’s unitive state, a slight
+id="fr_623"></span>[624](#fn_623.md) In Teresa’s unitive state, a slight
 suggestion was enough to change the condition of her consciousness,
 place her under the complete domination of her deeper mind. Often, she
 said, when composing the “Interior Castle,” her work reacted upon
@@ -1258,7 +1258,7 @@ anxious, as she said, to “write what the Lord had given her, before she
 forgot it.” They and many others declared that when she was thus writing
 she seemed like another being: and that her face, excessively beautiful
 in expression, shone with an unearthly splendour which afterwards faded
-away.  <span id="fr_624"></span>[625](#fn_624)
+away.  <span id="fr_624"></span>[625](#fn_624.md)
 
 <span id="an_iv.v-p133"></span>As for Madame Guyon, whose temperament
 had in it almost as much of the medium as of the mystic, and whose
@@ -1274,7 +1274,7 @@ received that gift of writing according to the interior mind, and not
 according to my own mind, which I had never known before. Also my manner
 of writing was altogether changed, and every one was astonished because
 I wrote with such great facility.”  <span
-id="fr_625"></span>[626](#fn_625)
+id="fr_625"></span>[626](#fn_625.md)
 
 <span id="an_iv.v-p136"></span>Again, “. . . Thou didst make me write
 with so great a detachment that I was obliged to leave off and begin
@@ -1305,7 +1305,7 @@ moving house, these were found in a place where no one could have
 imagined that they would be; and the old and new versions were exactly
 alike—a circumstance which greatly astonished those persons of learning
 and merit who undertook its verification.”  <span
-id="fr_626"></span>[627](#fn_626)
+id="fr_626"></span>[627](#fn_626.md)
 
 <span id="an_iv.v-p138"></span>A far greater and stronger mystic than
 Madame Guyon, Jacob Boehme, was also in his literary composition the
@@ -1334,7 +1334,7 @@ did often shake. And though I could have <span id="page_297">p.
 fair and plain Manner, yet the Reason was this, that the burning Fire
 often forced forward with Speed and the Hand and Pen must hasten
 directly after it, for it comes and goes as a sudden shower.”  <span
-id="fr_627"></span>[628](#fn_627)
+id="fr_627"></span>[628](#fn_627.md)
 
 <span id="an_iv.v-p141"></span>No description could give more vividly
 than this the spontaneous and uncontrollable character of these
@@ -1346,7 +1346,7 @@ will influence the form of the message. Hence, in Boehme’s works, the
 prevalence of that obscure Kabalistic and Alchemical imagery which
 baffles even his most eager readers, and which is the result of an
 earlier acquaintance with the works of Paracelsus, Weigel, and Sebastian
-Franck.  <span id="fr_628"></span>[629](#fn_628) Such language, however,
+Franck.  <span id="fr_628"></span>[629](#fn_628.md) Such language, however,
 no more discredits the “power behind the pen,” than the form under which
 St. Catherine of Siena apprehended the mystic marriage discredits her
 attainment of the unitive life. In the fruit of such automatic travail,
@@ -1377,7 +1377,7 @@ id="an_iv.v-Page_298"></span>
 
 ### Footnotes
 
-<span id="fn_557"></span>[267:558](myst16.htm#fr_557) <span
+<span id="fn_557"></span>[267:558](myst16.htm#fr_557.md) <span
 id="an_iv.v-p2.1"></span>
 
 <span id="an_iv.v-p3"></span> “Studies in Mystical Religion,” p. 165.
@@ -1386,20 +1386,20 @@ are directed to Prof. Janet, “L’Automatisme psychologique” and “L’Éta
 mentale des hysteriques,” and Prof. Leuba, “Introduction to the
 Psychology of Religious Mysticism.”
 
-<span id="fn_558"></span>[267:559](myst16.htm#fr_558) <span
+<span id="fn_558"></span>[267:559](myst16.htm#fr_558.md) <span
 id="an_iv.v-p4.1"></span>
 
 <span id="an_iv.v-p5"></span> On the difference in this respect between
 the “normal” and the “average,” see Granger, “The Soul of a Christian,”
 p. 12.
 
-<span id="fn_559"></span>[267:560](myst16.htm#fr_559) <span
+<span id="fn_559"></span>[267:560](myst16.htm#fr_559.md) <span
 id="an_iv.v-p6.1"></span>
 
 <span id="an_iv.v-p7"></span> See St. Angèle de Foligno, *op. cit* ., p.
 130 (English translation, p. 245).
 
-<span id="fn_560"></span>[268:561](myst16.htm#fr_560) <span
+<span id="fn_560"></span>[268:561](myst16.htm#fr_560.md) <span
 id="an_iv.v-p7.1"></span>
 
 <span id="an_iv.v-p8"></span> Poulain, “Les Graces d’Oraison,” cap. xx.
@@ -1413,7 +1413,7 @@ id="an_iv.v-p8.1"></span>“ou de tout autre objet exprimant l’abjection”
 on the bodies of those who have had commerce with the devil (tome iii.
 p. 482).
 
-<span id="fn_561"></span>[268:562](myst16.htm#fr_561) <span
+<span id="fn_561"></span>[268:562](myst16.htm#fr_561.md) <span
 id="an_iv.v-p9.1"></span>
 
 <span id="an_iv.v-p10"></span> *Vide infra,* quotations from Hilton and
@@ -1421,21 +1421,21 @@ St. John of the Cross. Also Rolle “The Fire of Love,” Prologue. E.
 Gardner, “St. Catherine of Siena,” p. 15. Von Hügel, “The Mystical
 Element of Religion,” vol. i. pp. 178-181.
 
-<span id="fn_562"></span>[268:563](myst16.htm#fr_562) <span
+<span id="fn_562"></span>[268:563](myst16.htm#fr_562.md) <span
 id="an_iv.v-p10.1"></span>
 
 <span id="an_iv.v-p11"></span> “Revelations of Divine Love,” cap. xliii.
 I have restored the bold language of the original, which is somewhat
 toned down in modern versions.
 
-<span id="fn_563"></span>[269:564](myst16.htm#fr_563) <span
+<span id="fn_563"></span>[269:564](myst16.htm#fr_563.md) <span
 id="an_iv.v-p12.1"></span>
 
 <span id="an_iv.v-p13"></span> Here as elsewhere the reader will kindly
 recollect that all spatial language is merely symbolic when used in
 connection with spiritual states.
 
-<span id="fn_564"></span>[269:565](myst16.htm#fr_564) <span
+<span id="fn_564"></span>[269:565](myst16.htm#fr_564.md) <span
 id="an_iv.v-p14.1"></span>
 
 <span id="an_iv.v-p15"></span> For instance when Margaret Ebner, the
@@ -1444,7 +1444,7 @@ was the object of great veneration in the circle to which she belonged,
 was the man whom God loved best and that He dwelt in him like melodious
 music (see Rufus Jones, *op. cit* ., p. 257).
 
-<span id="fn_565"></span>[269:566](myst16.htm#fr_565) <span
+<span id="fn_565"></span>[269:566](myst16.htm#fr_565.md) <span
 id="an_iv.v-p15.1"></span>
 
 <span id="an_iv.v-p16"></span> “There are persons to be met with,” says
@@ -1453,7 +1453,7 @@ and imagination that they think they see whatever they are thinking
 about, and this is a very dangerous condition.” (“El Castillo Interior,”
 Moradas Cuartas, cap. iii.)
 
-<span id="fn_566"></span>[269:567](myst16.htm#fr_566) <span
+<span id="fn_566"></span>[269:567](myst16.htm#fr_566.md) <span
 id="an_iv.v-p16.1"></span>
 
 <span id="an_iv.v-p17"></span> The dream-theory of vision is well and
@@ -1463,29 +1463,29 @@ mystics are determined in content by their belief, and are due to the
 dream imagination working upon the mass of theological material which
 fills the mind” is far too absolute.
 
-<span id="fn_567"></span>[269:568](myst16.htm#fr_567) <span
+<span id="fn_567"></span>[269:568](myst16.htm#fr_567.md) <span
 id="an_iv.v-p18.1"></span>
 
 <span id="an_iv.v-p19"></span> The book of Angela of Foligno, already
 cited, contains a rich series of examples.
 
-<span id="fn_568"></span>[270:569](myst16.htm#fr_568) <span
+<span id="fn_568"></span>[270:569](myst16.htm#fr_568.md) <span
 id="an_iv.v-p19.1"></span>
 
 <span id="an_iv.v-p20"></span> “Sur la psychologie du Mysticisme” (
 *Revue* *Philosophique,* February, 1902 *).*
 
-<span id="fn_569"></span>[270:570](myst16.htm#fr_569) <span
+<span id="fn_569"></span>[270:570](myst16.htm#fr_569.md) <span
 id="an_iv.v-p22.1"></span>
 
 <span id="an_iv.v-p23"></span> “Revelations of Divine Love,” cap. lxvi.
 
-<span id="fn_570"></span>[270:571](myst16.htm#fr_570) <span
+<span id="fn_570"></span>[270:571](myst16.htm#fr_570.md) <span
 id="an_iv.v-p23.1"></span>
 
 <span id="an_iv.v-p24"></span> Vida, cap. xxxi. §§ 5 and 10.
 
-<span id="fn_571"></span>[270:572](myst16.htm#fr_571) <span
+<span id="fn_571"></span>[270:572](myst16.htm#fr_571.md) <span
 id="an_iv.v-p24.1"></span>
 
 <span id="an_iv.v-p25"></span> Thus too in the case of St. Catherine of
@@ -1499,7 +1499,7 @@ Siena,” p. 20). We are obliged to agree with Pratt that such visions as
 these are “pathological phenomena quite on a level with other
 hallucinations.”(“The Religious Consciousness,” p 405.)
 
-<span id="fn_572"></span>[271:573](myst16.htm#fr_572) <span
+<span id="fn_572"></span>[271:573](myst16.htm#fr_572.md) <span
 id="an_iv.v-p27.1"></span>
 
 <span id="an_iv.v-p28"></span> An excellent example of such
@@ -1514,96 +1514,96 @@ the Nativity was rung from the belfries of heaven, the Divine Child
 appeared on His Mother’s knee: just as the crèche is exhibited in
 Catholic churches the moment that Christmas has dawned.
 
-<span id="fn_573"></span>[272:574](myst16.htm#fr_573) <span
+<span id="fn_573"></span>[272:574](myst16.htm#fr_573.md) <span
 id="an_iv.v-p28.1"></span>
 
 <span id="an_iv.v-p29"></span> Testament, cap. iii.
 
-<span id="fn_574"></span>[273:575](myst16.htm#fr_574) <span
+<span id="fn_574"></span>[273:575](myst16.htm#fr_574.md) <span
 id="an_iv.v-p32.1"></span>
 
 <span id="an_iv.v-p33"></span> E. Gardner “St. Catherine of Siena,” p.
 25.
 
-<span id="fn_575"></span>[273:576](myst16.htm#fr_575) <span
+<span id="fn_575"></span>[273:576](myst16.htm#fr_575.md) <span
 id="an_iv.v-p33.1"></span>
 
 <span id="an_iv.v-p34"></span> Delacroix, “Études sur le Mysticisme,” p.
 114.
 
-<span id="fn_576"></span>[274:577](myst16.htm#fr_576) <span
+<span id="fn_576"></span>[274:577](myst16.htm#fr_576.md) <span
 id="an_iv.v-p37.1"></span>
 
 <span id="an_iv.v-p38"></span> Missale Romanum. Praeparatio ad Missam;
 Die Dominica.
 
-<span id="fn_577"></span>[274:578](myst16.htm#fr_577) <span
+<span id="fn_577"></span>[274:578](myst16.htm#fr_577.md) <span
 id="an_iv.v-p38.1"></span>
 
 <span id="an_iv.v-p39"></span> Given in Poulain: “Les Grâces d’Oraison,”
 p. 318.
 
-<span id="fn_578"></span>[275:579](myst16.htm#fr_578) <span
+<span id="fn_578"></span>[275:579](myst16.htm#fr_578.md) <span
 id="an_iv.v-p40.1"></span>
 
 <span id="an_iv.v-p41"></span> “El Castillo Interior.” Moradas Sextas,
 cap. iii.
 
-<span id="fn_579"></span>[275:580](myst16.htm#fr_579) <span
+<span id="fn_579"></span>[275:580](myst16.htm#fr_579.md) <span
 id="an_iv.v-p43.1"></span>
 
 <span id="an_iv.v-p44"></span> “Subida del Monte Carmelo,” I. ii. cap.
 xxvii.
 
-<span id="fn_580"></span>[275:581](myst16.htm#fr_580) <span
+<span id="fn_580"></span>[275:581](myst16.htm#fr_580.md) <span
 id="an_iv.v-p44.1"></span>
 
 <span id="an_iv.v-p45"></span> “Subida del Monte Carmelo,” I. ii. cap.
 xxvii.
 
-<span id="fn_581"></span>[276:582](myst16.htm#fr_581) <span
+<span id="fn_581"></span>[276:582](myst16.htm#fr_581.md) <span
 id="an_iv.v-p46.1"></span>
 
 <span id="an_iv.v-p47"></span> Vida. cap. xxv. §§ *2,* 5, 6. See also
 for a detailed discussion of all forms of auditions St. John of the
 Cross, *op. cit* ., I. ii. caps. xxviii. to xxxi.
 
-<span id="fn_582"></span>[276:583](myst16.htm#fr_582) <span
+<span id="fn_582"></span>[276:583](myst16.htm#fr_582.md) <span
 id="an_iv.v-p48.1"></span>
 
 <span id="an_iv.v-p49"></span> “El Libro de las Fundaciones” is full of
 instances.
 
-<span id="fn_583"></span>[276:584](myst16.htm#fr_583) <span
+<span id="fn_583"></span>[276:584](myst16.htm#fr_583.md) <span
 id="an_iv.v-p50.1"></span>
 
 <span id="an_iv.v-p51"></span> Suso, “Buchlein von der ewigen Weisheit,”
 Prologue.
 
-<span id="fn_584"></span>[277:585](myst16.htm#fr_584) <span
+<span id="fn_584"></span>[277:585](myst16.htm#fr_584.md) <span
 id="an_iv.v-p52.1"></span>
 
 <span id="an_iv.v-p53"></span> “Fioretti,” “Delle Istimate,” *2.;* E.
 Gardner, “St. Catherine of Siena.” p. 15; Rolle, “The Fire of Love,” bk.
 i. cap. xvi., and other places.
 
-<span id="fn_585"></span>[277:586](myst16.htm#fr_585) <span
+<span id="fn_585"></span>[277:586](myst16.htm#fr_585.md) <span
 id="an_iv.v-p54.3"></span>
 
 <span id="an_iv.v-p55"></span> Leben, cap. vi.
 
-<span id="fn_586"></span>[278:587](myst16.htm#fr_586) <span
+<span id="fn_586"></span>[278:587](myst16.htm#fr_586.md) <span
 id="an_iv.v-p58.1"></span>
 
 <span id="an_iv.v-p59"></span> Compare p. 80.
 
-<span id="fn_587"></span>[279:588](myst16.htm#fr_587) <span
+<span id="fn_587"></span>[279:588](myst16.htm#fr_587.md) <span
 id="an_iv.v-p61.1"></span>
 
 <span id="an_iv.v-p62"></span> “Les Fondements de la Connaissance
 Mystique.” p. 149.
 
-<span id="fn_588"></span>[280:589](myst16.htm#fr_588) <span
+<span id="fn_588"></span>[280:589](myst16.htm#fr_588.md) <span
 id="an_iv.v-p63.1"></span>
 
 <span id="an_iv.v-p64"></span> Here the exception which proves the rule
@@ -1613,66 +1613,66 @@ those of his fellow-mystics. They seem to have been “corporeal,” not
 that “real and eternal world” in which he held that it was man’s
 privilege to dwell.
 
-<span id="fn_589"></span>[280:590](myst16.htm#fr_589) <span
+<span id="fn_589"></span>[280:590](myst16.htm#fr_589.md) <span
 id="an_iv.v-p64.1"></span>
 
 <span id="an_iv.v-p65"></span> “The Scale of Perfection,” bk. i. cap.
 xi.
 
-<span id="fn_590"></span>[281:591](myst16.htm#fr_590) <span
+<span id="fn_590"></span>[281:591](myst16.htm#fr_590.md) <span
 id="an_iv.v-p66.1"></span>
 
 <span id="an_iv.v-p67"></span> “Subida del Monte Carmelo,” I. ii. cap.
 xi. The whole chapter should be read in this connection.
 
-<span id="fn_591"></span>[281:592](myst16.htm#fr_591) <span
+<span id="fn_591"></span>[281:592](myst16.htm#fr_591.md) <span
 id="an_iv.v-p68.1"></span>
 
 <span id="an_iv.v-p69"></span> “Subida del Monte Carmelo,” I. ii. cap.
 xvi.
 
-<span id="fn_592"></span>[281:593](myst16.htm#fr_592) <span
+<span id="fn_592"></span>[281:593](myst16.htm#fr_592.md) <span
 id="an_iv.v-p70.1"></span>
 
 <span id="an_iv.v-p71"></span> El Castillo Interior,” Moradas Sextas,
 cap. iii.
 
-<span id="fn_593"></span>[282:594](myst16.htm#fr_593) <span
+<span id="fn_593"></span>[282:594](myst16.htm#fr_593.md) <span
 id="an_iv.v-p74.1"></span>
 
 <span id="an_iv.v-p75"></span> St. Angels de Foligno, “Livre de
 l’Expérience des Vrais Fidèles,” pp. 170 *seq.* (English translation, p.
 24).
 
-<span id="fn_594"></span>[283:595](myst16.htm#fr_594) <span
+<span id="fn_594"></span>[283:595](myst16.htm#fr_594.md) <span
 id="an_iv.v-p76.1"></span>
 
 <span id="an_iv.v-p77"></span> “It is not like that presence of God
 which is frequently felt . . . this is a great grace . . . but it is not
 vision” (St. Teresa, Vida, cap, xxvii. § 6).
 
-<span id="fn_595"></span>[283:596](myst16.htm#fr_595) <span
+<span id="fn_595"></span>[283:596](myst16.htm#fr_595.md) <span
 id="an_iv.v-p77.1"></span>
 
 <span id="an_iv.v-p78"></span> *Op. cit., loc. cit.*
 
-<span id="fn_596"></span>[283:597](myst16.htm#fr_596) <span
+<span id="fn_596"></span>[283:597](myst16.htm#fr_596.md) <span
 id="an_iv.v-p78.1"></span>
 
 <span id="an_iv.v-p79"></span> St. Teresa, “El Castillo Interior,”
 Moradas Sextas, cap. viii.
 
-<span id="fn_597"></span>[284:598](myst16.htm#fr_597) <span
+<span id="fn_597"></span>[284:598](myst16.htm#fr_597.md) <span
 id="an_iv.v-p80.1"></span>
 
 <span id="an_iv.v-p81"></span> Leben, cap. liv.
 
-<span id="fn_598"></span>[285:599](myst16.htm#fr_598) <span
+<span id="fn_598"></span>[285:599](myst16.htm#fr_598.md) <span
 id="an_iv.v-p84.1"></span>
 
 <span id="an_iv.v-p85"></span> St. Teresa, Vida, cap. xxvii. §§ 2-5.
 
-<span id="fn_599"></span>[285:600](myst16.htm#fr_599) <span
+<span id="fn_599"></span>[285:600](myst16.htm#fr_599.md) <span
 id="an_iv.v-p86.1"></span>
 
 <span id="an_iv.v-p87"></span> “For oft, when on my couch I lie  
@@ -1684,17 +1684,17 @@ And dances with the daffodils.”
 
 <span id="an_iv.v-p88"></span> *Wordsworth* , “The Daffodils.”
 
-<span id="fn_600"></span>[285:601](myst16.htm#fr_600) <span
+<span id="fn_600"></span>[285:601](myst16.htm#fr_600.md) <span
 id="an_iv.v-p88.1"></span>
 
 <span id="an_iv.v-p89"></span> Leben, cap. vii.
 
-<span id="fn_601"></span>[286:602](myst16.htm#fr_601) <span
+<span id="fn_601"></span>[286:602](myst16.htm#fr_601.md) <span
 id="an_iv.v-p91.1"></span>
 
 <span id="an_iv.v-p92"></span> Suso, Leben, cap. vi.
 
-<span id="fn_602"></span>[287:603](myst16.htm#fr_602) <span
+<span id="fn_602"></span>[287:603](myst16.htm#fr_602.md) <span
 id="an_iv.v-p93.19"></span>
 
 <span id="an_iv.v-p94"></span> Par. xxx. 61-81: “And I saw light in the
@@ -1709,19 +1709,19 @@ things are themselves imperfect; but on thy side is the defect, in that
 thy vision cannot rise so high.” This passage probably owes something to
 Mechthild of Magdeburg’s concept of Deity as a Flowing Light.
 
-<span id="fn_603"></span>[287:604](myst16.htm#fr_603) <span
+<span id="fn_603"></span>[287:604](myst16.htm#fr_603.md) <span
 id="an_iv.v-p95.1"></span>
 
 <span id="an_iv.v-p96"></span> Mechthild of Hackborn, “Liber Specialis
 Gratiae,” I. ii. caps. xvii. and xxxv.
 
-<span id="fn_604"></span>[288:605](myst16.htm#fr_604) <span
+<span id="fn_604"></span>[288:605](myst16.htm#fr_604.md) <span
 id="an_iv.v-p97.1"></span>
 
 <span id="an_iv.v-p98"></span> Pratt, “The Religious Consciousness,” p.
 404.
 
-<span id="fn_605"></span>[288:606](myst16.htm#fr_605) <span
+<span id="fn_605"></span>[288:606](myst16.htm#fr_605.md) <span
 id="an_iv.v-p99.1"></span>
 
 <span id="an_iv.v-p100"></span> For instance, the Blessed Angela of
@@ -1736,18 +1736,18 @@ translation p. 223).“Another time I beheld the Child Christ in the
 consecrated Host. He Appeared beautiful and full of majesty, He seemed
 as a child of twelve years of age (p. 67. English translation, p. 229).
 
-<span id="fn_606"></span>[289:607](myst16.htm#fr_606) <span
+<span id="fn_606"></span>[289:607](myst16.htm#fr_606.md) <span
 id="an_iv.v-p100.1"></span>
 
 <span id="an_iv.v-p101"></span> Vida, cap. xxviii. § 11.
 
-<span id="fn_607"></span>[289:608](myst16.htm#fr_607) <span
+<span id="fn_607"></span>[289:608](myst16.htm#fr_607.md) <span
 id="an_iv.v-p102.1"></span>
 
 <span id="an_iv.v-p103"></span> ”El Castillo Interior,” Moradas Sextas,
 cap. ix.
 
-<span id="fn_608"></span>[289:609](myst16.htm#fr_608) <span
+<span id="fn_608"></span>[289:609](myst16.htm#fr_608.md) <span
 id="an_iv.v-p104.1"></span>
 
 <span id="an_iv.v-p105"></span> “On one of the feasts of St. Paul, while
@@ -1762,18 +1762,18 @@ closely will I hold thee and so much closer, that bodily eyes can
 neither perceive nor comprehend it’.” *(op. cit.,* p. 53. English
 translation, p. 165).
 
-<span id="fn_609"></span>[289:610](myst16.htm#fr_609) <span
+<span id="fn_609"></span>[289:610](myst16.htm#fr_609.md) <span
 id="an_iv.v-p105.1"></span>
 
 <span id="an_iv.v-p106"></span> Delacroix. “Études sur le Mysticisme.”
 p. 116.
 
-<span id="fn_610"></span>[290:611](myst16.htm#fr_610) <span
+<span id="fn_610"></span>[290:611](myst16.htm#fr_610.md) <span
 id="an_iv.v-p107.1"></span>
 
 <span id="an_iv.v-p108"></span> Vida, cap. xxviii. § 2.
 
-<span id="fn_611"></span>[290:612](myst16.htm#fr_611) <span
+<span id="fn_611"></span>[290:612](myst16.htm#fr_611.md) <span
 id="an_iv.v-p108.1"></span>
 
 <span id="an_iv.v-p109"></span> St. Teresa, *op. cit* ., cap. xxviii. §§
@@ -1783,12 +1783,12 @@ that I think I shall never lose it. And so great was my certitude that I
 cannot doubt it in any point” (St. Angèle de Foligno, *op. cit* ., p.
 66. English translation, p. 229).
 
-<span id="fn_612"></span>[291:613](myst16.htm#fr_612) <span
+<span id="fn_612"></span>[291:613](myst16.htm#fr_612.md) <span
 id="an_iv.v-p110.1"></span>
 
 <span id="an_iv.v-p111"></span> Leben, cap. xxi.
 
-<span id="fn_613"></span>[291:614](myst16.htm#fr_613) <span
+<span id="fn_613"></span>[291:614](myst16.htm#fr_613.md) <span
 id="an_iv.v-p112.1"></span>
 
 <span id="an_iv.v-p113"></span> E. Gardner, “St. Catherine of Siena,” p.
@@ -1806,73 +1806,73 @@ gifts of roses, rings, and jewels, is “much to be suspected,” except in
 “souls of a long-continued sanctity” (“Holy Wisdom.” Treatise iii. § iv.
 cap. iii.).
 
-<span id="fn_614"></span>[292:615](myst16.htm#fr_614) <span
+<span id="fn_614"></span>[292:615](myst16.htm#fr_614.md) <span
 id="an_iv.v-p114.1"></span>
 
 <span id="an_iv.v-p115"></span> *Vide* “Legenda Aurea,” Nov. xxv.
 
-<span id="fn_615"></span>[293:616](myst16.htm#fr_615) <span
+<span id="fn_615"></span>[293:616](myst16.htm#fr_615.md) <span
 id="an_iv.v-p116.1"></span>
 
 <span id="an_iv.v-p117"></span> Vida, cap. xxix. §§ 16, 17.
 
-<span id="fn_616"></span>[293:617](myst16.htm#fr_616) <span
+<span id="fn_616"></span>[293:617](myst16.htm#fr_616.md) <span
 id="an_iv.v-p118.1"></span>
 
 <span id="an_iv.v-p119"></span> St. Angèle de Foligno *op. cit* ., p.
 232 (English translation, p. 186).
 
-<span id="fn_617"></span>[293:618](myst16.htm#fr_617) <span
+<span id="fn_617"></span>[293:618](myst16.htm#fr_617.md) <span
 id="an_iv.v-p120.1"></span>
 
 <span id="an_iv.v-p121"></span> P. 66.
 
-<span id="fn_618"></span>[293:619](myst16.htm#fr_618) <span
+<span id="fn_618"></span>[293:619](myst16.htm#fr_618.md) <span
 id="an_iv.v-p121.1"></span>
 
 <span id="an_iv.v-p122"></span> Quoted by Prescott, “The Poetic Mind,”
 p. 102.
 
-<span id="fn_619"></span>[294:620](myst16.htm#fr_619) <span
+<span id="fn_619"></span>[294:620](myst16.htm#fr_619.md) <span
 id="an_iv.v-p123.1"></span>
 
 <span id="an_iv.v-p124"></span> On this point I must respectfully differ
 from Mr. E. Gardner. See his “St. Catherine of Siena,” p. 354.
 
-<span id="fn_620"></span>[294:621](myst16.htm#fr_620) <span
+<span id="fn_620"></span>[294:621](myst16.htm#fr_620.md) <span
 id="an_iv.v-p125.1"></span>
 
 <span id="an_iv.v-p126"></span> *Supra* , p. 185.
 
-<span id="fn_621"></span>[294:622](myst16.htm#fr_621) <span
+<span id="fn_621"></span>[294:622](myst16.htm#fr_621.md) <span
 id="an_iv.v-p126.1"></span>
 
 <span id="an_iv.v-p127"></span> Quoted by M. Wilson, “Life of William
 Blake,” p. 135.
 
-<span id="fn_622"></span>[294:623](myst16.htm#fr_622) <span
+<span id="fn_622"></span>[294:623](myst16.htm#fr_622.md) <span
 id="an_iv.v-p127.1"></span>
 
 <span id="an_iv.v-p128"></span> Berger, “William Blake,” p. 54.
 
-<span id="fn_623"></span>[294:624](myst16.htm#fr_623) <span
+<span id="fn_623"></span>[294:624](myst16.htm#fr_623.md) <span
 id="an_iv.v-p129.1"></span>
 
 <span id="an_iv.v-p130"></span> G. Cunninghame Graham. “Santa Teresa.”
 vol. i, pp. 202.
 
-<span id="fn_624"></span>[295:625](myst16.htm#fr_624) <span
+<span id="fn_624"></span>[295:625](myst16.htm#fr_624.md) <span
 id="an_iv.v-p131.1"></span>
 
 <span id="an_iv.v-p132"></span> G. Cunninghame Graham. “Santa Teresa.”
 vol. i, pp. 203-4.
 
-<span id="fn_625"></span>[295:626](myst16.htm#fr_625) <span
+<span id="fn_625"></span>[295:626](myst16.htm#fr_625.md) <span
 id="an_iv.v-p134.1"></span>
 
 <span id="an_iv.v-p135"></span> Vie, pt. ii. cap. ii.
 
-<span id="fn_626"></span>[296:627](myst16.htm#fr_626) <span
+<span id="fn_626"></span>[296:627](myst16.htm#fr_626.md) <span
 id="an_iv.v-p136.1"></span>
 
 <span id="an_iv.v-p137"></span> Vie, pt. ii. cap. xxi. Those who wish to
@@ -1880,13 +1880,13 @@ compare this vivid subjective account of automatic writing with modern
 attested instances may consult Myers, “Human Personality,” and Oliver
 Lodge, “The Survival of Man.”
 
-<span id="fn_627"></span>[297:628](myst16.htm#fr_627) <span
+<span id="fn_627"></span>[297:628](myst16.htm#fr_627.md) <span
 id="an_iv.v-p139.1"></span>
 
 <span id="an_iv.v-p140"></span> Works of Jacob Boehme (English
 translation, vol. i. p. xiv.).
 
-<span id="fn_628"></span>[297:629](myst16.htm#fr_628) <span
+<span id="fn_628"></span>[297:629](myst16.htm#fr_628.md) <span
 id="an_iv.v-p141.1"></span>
 
 <span id="an_iv.v-p142"></span> See E. Boutroux, “Le Philosophe
@@ -1896,6 +1896,6 @@ Allemand, Jacob Boehme.”
 
 ------------------------------------------------------------------------
 
-[Next: VI. Introversion. Part I: Recollection and Qui](myst17)
+[Next: VI. Introversion. Part I: Recollection and Qui](myst17.md)
 
 </div>

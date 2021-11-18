@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal122)  [Next](njal124) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal122)  [Next](njal124.md) 
 
 ------------------------------------------------------------------------
 
@@ -170,4 +170,4 @@ be got indoors, but something always hindered it.
 
 ------------------------------------------------------------------------
 
-[Next: 124. Of Portents](njal124)
+[Next: 124. Of Portents](njal124.md)

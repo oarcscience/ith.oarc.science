@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou25)  [Next](hou27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou25)  [Next](hou27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -67,7 +67,7 @@ mentioned later, and the remainder cast in their lot with the gentiles.
 in the *Brooklyn*, in 1846, about one fourth apostatized; their leader
 laying the basis of a fine fortune by investing in real estate funds, to
 a great extent at least, belonging to the Latter-day Saints. <span
-id="fr_1047"></span>[1](#fn_1047) Of the Mormon colony, founded, as we
+id="fr_1047"></span>[1](#fn_1047.md) Of the Mormon colony, founded, as we
 have seen, at San Bernardino, in 1851, a considerable number fell into
 apostasy, though many joined the parent organization, and a few became
 members of the reorganized church.
@@ -99,7 +99,7 @@ from grace in other respects, formed themselves into a new sect,
 appointing as their leader Gladden Bishop, whence the name of
 Gladdenites. Together with other recusants, Gladden, who was several
 times disfellowshipped and readmitted on profession of repentance, had
-again rejoined the church, <span id="fr_1048"></span>[2](#fn_1048) but
+again rejoined the church, <span id="fr_1048"></span>[2](#fn_1048.md) but
 being now disgusted with this new feature in the policy of the church
 dignitaries, worked with heart and soul against them. Among his
 followers was one Alfred Smith from St Louis, a man of great tenacity of
@@ -117,7 +117,7 @@ Brigham spoke a few words concerning the apostates in the tabernacle.
 The whole matter was regarded of no great consequence by the church;
 nevertheless it was deemed best to shun the very appearance of evil, and
 consequently the president gave the people clearly to understand that
-there must be no more of it. <span id="fr_1049"></span>[3](#fn_1049)
+there must be no more of it. <span id="fr_1049"></span>[3](#fn_1049.md)
 Such warnings from the president of the church were never uttered in
 vain, and now the days of the Gladdenites were numbered. A few months
 later most of them set forth for California, the rest recanted, and
@@ -128,7 +128,7 @@ after the year 1854 we hear no more of this apostasy.
     The most successful of the recusant sects was the one established by
 Joseph Smith, the prophet's son, who, with his brothers Alexander H. and
 David Hyrum, remained a Nauvoo after the exodus. <span
-id="fr_1050"></span>[4](#fn_1050) A few years later the remnants of the
+id="fr_1050"></span>[4](#fn_1050.md) A few years later the remnants of the
 Strangites and Cutlerites, being in search of a leader, organized a new
 church and requested Joseph to become their head. He at first refused,
 but in 1860, the number of members being then considerably increased by
@@ -149,7 +149,7 @@ Alexander McCord, arrived in Salt Lake City, having crossed the plains,
 they said, as heralds of the gospel, and calling on Brigham, told him
 the object of their mission, and asked permission to preach in the
 tabernacle. This was, of course, refused; <span
-id="fr_1051"></span>[5](#fn_1051) nor were they allowed the use of any
+id="fr_1051"></span>[5](#fn_1051.md) nor were they allowed the use of any
 other public building, whereupon the missionaries visited from house to
 house, offering up prayers for the inmates, and exhorting them to join
 the true faith.
@@ -158,7 +158,7 @@ the true faith.
 were gathered into this fold, and in the spring of 1864 the Josephites
 in Zion mustered more than three hundred, the number of proselytes
 elsewhere being at this date between two and three thousand. <span
-id="fr_1052"></span>[6](#fn_1052) Persecution followed, as they claimed;
+id="fr_1052"></span>[6](#fn_1052.md) Persecution followed, as they claimed;
 and in early summer about one half of the Josephites in Salt Lake City
 started eastward, so great being the excitement that General Connor
 ordered a strong escort to accompany them as far as Green River. To
@@ -176,7 +176,7 @@ Brigham. At first the followers of Brigham trembled
 
 for the supremacy of their leader, and opposition meetings were
 organized under the management of Joseph F., the son of Hyrum
-Smith. <span id="fr_1053"></span>[7](#fn_1053) But the mantle of the
+Smith. <span id="fr_1053"></span>[7](#fn_1053.md) But the mantle of the
 prophet had not fallen on his offspring; they were men almost without
 force of character, of lamb-like placidity, and of hopelessly mediocre
 ability; not shrewd enough to contend with their opponents, and not
@@ -186,16 +186,16 @@ cause of the reorganized church.
     In 1860 the headquarters of the Josephites were established at
 Plano, Illinois, where, between 1860 and 1875, was published by this
 sect *The True Latter-day Saint's Herald*, and where in 1877 their
-leader still resided, <span id="fr_1054"></span>[8](#fn_1054) Joseph
+leader still resided, <span id="fr_1054"></span>[8](#fn_1054.md) Joseph
 being at that date president of the church, and Briggs the president of
 the twelve. A branch was also established at Malad in Idaho; a few of
-the sect gathered at Kirtland, <span id="fr_1055"></span>[9](#fn_1055)
+the sect gathered at Kirtland, <span id="fr_1055"></span>[9](#fn_1055.md)
 and the remainder were scattered throughout the states. They rapidly
 increased, mustering in 1870 not less than twenty thousand in the United
 States, while in Europe entire churches joined the reformed faith, the
 name of the sect, and the more conventional morality of its doctrines,
 being among the causes of its success. <span
-id="fr_1056"></span>[10](#fn_1056)
+id="fr_1056"></span>[10](#fn_1056.md)
 
 <span id="page_647">p. 647</span>
 
@@ -210,14 +210,14 @@ the world for ages, and with our brethren we expect to fight it till,
 with every other relic of tyranny, it is trodden under foot." While
 speaking thus boldly, the magazine essayed the part of umpire between
 the disputants, and otherwise gave sore offence to the church
-dignitaries. <span id="fr_1057"></span>[11](#fn_1057) About the same
+dignitaries. <span id="fr_1057"></span>[11](#fn_1057.md) About the same
 time an article was published urging the development of the mineral
 resources of Utah, a measure which found no favor with Brigham, for thus
 would the flood-gates be opened to the gentiles, while the saints might
 be tempted to worship at the shrine of Mammon, "I want to make a wall so
 thick and so high around the territory," he once exclaimed in the
 tabernacle, "that it would be impossible for the gentiles to get over or
-through it." <span id="fr_1058"></span>[12](#fn_1058) Finally the elders
+through it." <span id="fr_1058"></span>[12](#fn_1058.md) Finally the elders
 were summoned before the school of prophets, by
 
 <span id="page_648">p. 648</span>
@@ -226,7 +226,7 @@ which offenders are examined before being sent for trial by the high
 council, and though the most serious charge against them was the
 publication of the article on mineral developments, both Godbe and
 Harrison were expelled from the church. <span
-id="fr_1059"></span>[13](#fn_1059)
+id="fr_1059"></span>[13](#fn_1059.md)
 
     That the elders should have openly advocated the development of the
 rich mineral resources of Utah may appear from a gentile standpoint a
@@ -284,14 +284,14 @@ from its being composed of people all of whom acted intelligently in all
 their operations." Supported as it was by a portion of the wealth and
 intelligence of Utah, the Walker brothers, the Tullidge brothers,
 Stenhouse, Lawrence, and Eli B. Kelsey, <span
-id="fr_1060"></span>[14](#fn_1060) the reformation gathered weight. On
+id="fr_1060"></span>[14](#fn_1060.md) the reformation gathered weight. On
 Sunday, the 19th of December, 1869, services were held for the first
 time by the reformers, in the chapel of the assembly-rooms in the
 thirteenth ward, and in the
 
 <span id="page_650">p. 650</span>
 
-evening at the Masonic hall. <span id="fr_1061"></span>[15](#fn_1061)
+evening at the Masonic hall. <span id="fr_1061"></span>[15](#fn_1061.md)
 Before a dense audience, was sung by the choir the first hymn in the
 Mormon hymn-book, composed by Parley P. Pratt:
 
@@ -335,7 +335,7 @@ enterprises that have required an outlay of
 
 <span class="contnote">\[paragraph continues\]</span> $1,000 a day for
 ten years, and have given employment to many hundreds of people." <span
-id="fr_1062"></span>[16](#fn_1062)
+id="fr_1062"></span>[16](#fn_1062.md)
 
  
 
@@ -365,16 +365,16 @@ Lake City, and had contributed in no small degree to its commercial
 prosperity. The firm subscribed liberally for all the purposes to which
 the church funds were applied, but refused to pay tithes or to recognize
 the right of the church to collect tithing. <span
-id="fr_1063"></span>[17](#fn_1063)
+id="fr_1063"></span>[17](#fn_1063.md)
 
     During this year, and partly with a view to placing the trade of
 Utah under church control, so far at least as the brethren were
 concerned, the Zion's Coöperative Mercantile Institution was
-organized. <span id="fr_1064"></span>[18](#fn_1064) Aside from such
+organized. <span id="fr_1064"></span>[18](#fn_1064.md) Aside from such
 motives, however, there were good reasons for securing to the country
 the benefits of the cooperative system, for, as we shall see later, the
 prices of imported commodities were still extravagantly high. <span
-id="fr_1065"></span>[19](#fn_1065) To protect the people from these high
+id="fr_1065"></span>[19](#fn_1065.md) To protect the people from these high
 prices by importing from first hands and in large quantities was the
 professed, and perhaps the main, purpose of the promoters. After passing
 through some financial difficulties, the enterprise seems to have
@@ -388,12 +388,12 @@ of about $125,000, and
 <span id="page_653">p. 653</span>
 
 a capital of $1,000,000, divided into $100 shares, and distributed among
-700 or 800 stockholders. <span id="fr_1066"></span>[20](#fn_1066) The
+700 or 800 stockholders. <span id="fr_1066"></span>[20](#fn_1066.md) The
 head of the church continued president of the institution after it was
 no longer under control of the church, but managed simply on business
 principles, representing Mormon as against gentile trading
-interests. <span id="fr_1067"></span>[21](#fn_1067) Branches were
-established at Ogden, Logan, <span id="fr_1068"></span>[22](#fn_1068)
+interests. <span id="fr_1067"></span>[21](#fn_1067.md) Branches were
+established at Ogden, Logan, <span id="fr_1068"></span>[22](#fn_1068.md)
 and Soda Springs, and, as we shall see later, the coöperative movement
 spread rapidly throughout the country, though most of these ventures
 resulted in failure, many of the stores being compelled to close during
@@ -404,12 +404,12 @@ the commercial panic of 1873.
     The first effect of this movement on the trade of gentile merchants
 was disastrous, the sales of the Walker Brothers, for instance,
 decreasing in a brief space from $60,000 to $5,000 per month, <span
-id="fr_1069"></span>[23](#fn_1069) while those of the Auerbach Brothers
-fell off in like ratio, <span id="fr_1070"></span>[24](#fn_1070) these
+id="fr_1069"></span>[23](#fn_1069.md) while those of the Auerbach Brothers
+fell off in like ratio, <span id="fr_1070"></span>[24](#fn_1070.md) these
 two firms, among others, offering to dispose of their entire property to
 the directors of the Zion's Coöperatire Institute for fifty cents on the
 dollar, and leave the territory. <span
-id="fr_1071"></span>[25](#fn_1071) The offer was refused. Hence,
+id="fr_1071"></span>[25](#fn_1071.md) The offer was refused. Hence,
 perhaps, as will presently appear, the rapid development of the mining
 resources of the country after 1869, toward which purpose several
 prominent merchants, among them Godbe and the Walker Brothers, applied
@@ -435,7 +435,7 @@ sense and the self-interest of the community.
 
 ### Footnotes
 
-<span id="fn_1047"></span>[642:1](hou26.htm#fr_1047) Beadle, *Life in
+<span id="fn_1047"></span>[642:1](hou26.htm#fr_1047.md) Beadle, *Life in
 Utah*, 404—5, states that Brannon afterward repaid the money with
 interest, but it would be difficult to make the early Californians
 believe it. About 45 adults and 65 children of the *Brooklyn* party
@@ -444,44 +444,44 @@ San Bernardino or in Arizona. Nearly 100 adults and some 40 children
 reached Utah, most of them in 1848-50. See *Hist. Cal*., v. 544, this
 series.
 
-<span id="fn_1048"></span>[643:2](hou26.htm#fr_1048) Ferris states that
+<span id="fn_1048"></span>[643:2](hou26.htm#fr_1048.md) Ferris states that
 Gladden was cut off and rebaptized nine times. *Utah and the Mormons*,
 326. See also *Olshausen, Mormonen*, 182.
 
-<span id="fn_1049"></span>[644:3](hou26.htm#fr_1049) *Jour. of Disc*.,
+<span id="fn_1049"></span>[644:3](hou26.htm#fr_1049.md) *Jour. of Disc*.,
 i. 82; *Deseret News*, Apr. 2, 1853; *Waite's The Mormon Prophet*,
 120-1; *Beadle's Life in Utah*, 408-9; *Ferris, Utah and the Mormons*,
 328-30. Brigham was followed by Parley Pratt, who said that he had known
 Gladden for 20 years, and had seldom heard his name mentioned, except in
 connection with some imposition or falsehood in the name of the Lord.
 
-<span id="fn_1050"></span>[644:4](hou26.htm#fr_1050) Beadle says that
+<span id="fn_1050"></span>[644:4](hou26.htm#fr_1050.md) Beadle says that
 the prophet left a considerable fortune, mostly in houses and lands at
 Nauvoo. *Life in Utah*, 428. Even if this is true, we well know that the
 houses and lands of the Mormons in Nauvoo were worth little to them when
 the expulsion came.
 
-<span id="fn_1051"></span>[645:5](hou26.htm#fr_1051) In *Waite's The
+<span id="fn_1051"></span>[645:5](hou26.htm#fr_1051.md) In *Waite's The
 Mormon Prophet*, 129, it is stated that Brigham said he would not be
 responsible for Briggs’ safety if he remained in the city.
 
-<span id="fn_1052"></span>[645:6](hou26.htm#fr_1052) Bowles, *Our New
+<span id="fn_1052"></span>[645:6](hou26.htm#fr_1052.md) Bowles, *Our New
 West*, 268, his work being published in 1869, incorrectly places the
 entire number at 1,500. In *Waite's The Mormon Prophet*, 129 (published
 in 1866), we read: 'In the states, those who have gone back to their
 first love are to be numbered by thousands.'
 
-<span id="fn_1053"></span>[646:7](hou26.htm#fr_1053) Stenhouse says that
+<span id="fn_1053"></span>[646:7](hou26.htm#fr_1053.md) Stenhouse says that
 debates between the two parties were held in public. *Rocky Mountain
 Saints*, 629 (note).
 
-<span id="fn_1054"></span>[646:8](hou26.htm#fr_1054) *S. Lake Herald*,
+<span id="fn_1054"></span>[646:8](hou26.htm#fr_1054.md) *S. Lake Herald*,
 June 6, 1877.
 
-<span id="fn_1055"></span>[646:9](hou26.htm#fr_1055) *Ibid*.; *McClure's
+<span id="fn_1055"></span>[646:9](hou26.htm#fr_1055.md) *Ibid*.; *McClure's
 Three Thousand Miles*, 435.
 
-<span id="fn_1056"></span>[646:10](hou26.htm#fr_1056) The Josephite
+<span id="fn_1056"></span>[646:10](hou26.htm#fr_1056.md) The Josephite
 creed will be found in *Waite's The Mormon Prophet*, 130-1; *Utah
 Scraps*, 16. It contains the following: 'We believe that the church in
 Utah, under the presidency of Brigham Young, have apostatized from the
@@ -520,26 +520,26 @@ as to apostate sects before the year 1869, see *S. F. Alta*, May 21,
 Nov. 15, 1867; *Sacramento Union*, Apr. 22, May 20, June 8, Sept. 3, 18,
 1857, Dec. 3, 1859, June 28, Aug. 5, 1867.
 
-<span id="fn_1057"></span>[647:11](hou26.htm#fr_1057) In the *Deseret
+<span id="fn_1057"></span>[647:11](hou26.htm#fr_1057.md) In the *Deseret
 News* of Nov. 3, 1869, is a notice signed by the members of the first
 presidency and three other apostles, cautioning the saints against its
 teachings, and stating that it is unfit for perusal.
 
-<span id="fn_1058"></span>[647:12](hou26.htm#fr_1058) *Godbe's
+<span id="fn_1058"></span>[647:12](hou26.htm#fr_1058.md) *Godbe's
 Statement*, MS., 2.
 
-<span id="fn_1059"></span>[648:13](hou26.htm#fr_1059) *Ibid*.;
+<span id="fn_1059"></span>[648:13](hou26.htm#fr_1059.md) *Ibid*.;
 *Harrison's Crit. Notes on Utah*, MS., 48.
 
-<span id="fn_1060"></span>[649:14](hou26.htm#fr_1060) Kelsey, who voted
+<span id="fn_1060"></span>[649:14](hou26.htm#fr_1060.md) Kelsey, who voted
 against their expulsion, was also excommunicated. *Stenhouse's Rocky
 Mountain Saints*, 640.
 
-<span id="fn_1061"></span>[650:15](hou26.htm#fr_1061) For account of
+<span id="fn_1061"></span>[650:15](hou26.htm#fr_1061.md) For account of
 secret, benefit, and benevolent societies in Utah, see *Utah Gazetteer*,
 1884, 218-26.
 
-<span id="fn_1062"></span>[651:16](hou26.htm#fr_1062) *Godbe's
+<span id="fn_1062"></span>[651:16](hou26.htm#fr_1062.md) *Godbe's
 Statement*, MS., 29. For further mention of the Godbe schism and
 incidents connected with it, see *Tullidge's Mag*., i. 14-55;
 *Stenhouse's Exposé of Polygamy*, 132-45; *Dixon's White Conquest*, i.
@@ -573,10 +573,10 @@ don't look for them. They make a few in the south, where the condition
 of things is analagous, more or less, with that which exists in Europe;
 but they make most of their converts in the latter country.'
 
-<span id="fn_1063"></span>[652:17](hou26.htm#fr_1063) *Walker's
+<span id="fn_1063"></span>[652:17](hou26.htm#fr_1063.md) *Walker's
 Merchants and Miners of Utah*, MS., 2.
 
-<span id="fn_1064"></span>[652:18](hou26.htm#fr_1064) On the 16th of
+<span id="fn_1064"></span>[652:18](hou26.htm#fr_1064.md) On the 16th of
 October. Business was opened March 1, 1869, and the company was
 incorporated Dec. l, 1870. *Zion's Coöp. Merc. Inst*., MS., 1. Brigham
 Young was the principal stockholder, and Geo. Q. Cannon, Geo. A. Smith,
@@ -584,10 +584,10 @@ Wm Jennings, H. S. Eldredge, and Wm H. Hooper were among the first
 directors. For constitution, by-laws, form of certificates of stock, and
 incorporation, see *Utah Religious Pamphlets*, 9, 10.
 
-<span id="fn_1065"></span>[652:19](hou26.htm#fr_1065) See cap. 28, notes
-[29](hou31.htm#fn_1355) and [31](hou31.htm#fn_1357), this vol.
+<span id="fn_1065"></span>[652:19](hou26.htm#fr_1065.md) See cap. 28, notes
+[29](hou31.htm#fn_1355) and [31](hou31.htm#fn_1357.md), this vol.
 
-<span id="fn_1066"></span>[653:20](hou26.htm#fr_1066) *Deseret Ev.
+<span id="fn_1066"></span>[653:20](hou26.htm#fr_1066.md) *Deseret Ev.
 News*, Jan. 2, 1884. The main building, on East Temple street, S. L.
 City, was 318 by 100 ft, the front being of iron, and the roof
 fireproof. It was furnished with hydraulic elevators, fire and burglar
@@ -595,7 +595,7 @@ proof vaults, and all modern appliances. *Zion's Coöp. Merc. Inst*.,
 MS., 1-2. In connection with the institution was a tannery and
 shoe-factory, in which about 170 hands were employed in 1883.
 
-<span id="fn_1067"></span>[653:21](hou26.htm#fr_1067) *Harrison's Crit.
+<span id="fn_1067"></span>[653:21](hou26.htm#fr_1067.md) *Harrison's Crit.
 Notes on Utah*, MS., 58-9. For further mention of the institution and
 its origin, see *Marshall's Through Amer*., 176-7; *Stenhouse's
 Englishwoman*, 371-3; *Townsend's Mormon Trials*, 41-2; *Tullidge's
@@ -634,11 +634,11 @@ Clawson took a leading part in theatrical affairs, and to him and John
 T. Caine are largely due the success and prosperity of the Salt Lake
 theatre. *Tullidge's Mag*., i. 678-84.
 
-<span id="fn_1068"></span>[653:22](hou26.htm#fr_1068) For 1883 the sales
+<span id="fn_1068"></span>[653:22](hou26.htm#fr_1068.md) For 1883 the sales
 of the Ogden branch were about $800,000, and of the Logan branch, of
 which Aaron Farr was manager, about $600,000.
 
-<span id="fn_1069"></span>[654:23](hou26.htm#fr_1069) *Walker's
+<span id="fn_1069"></span>[654:23](hou26.htm#fr_1069.md) *Walker's
 Merchants and Miners of Utah*, MS., 3. Samuel Sharp, Joseph Robinson,
 David, Frederick, and Matthew Henry Walker were in 1883 the members of
 this firm. Englishmen by birth, being the sons of a Yorkshire squire,
@@ -653,7 +653,7 @@ classed a few years later among the leading merchants of Utah. After
 further mention will be made of the firm. *Autobiog. of the Walker
 Bros*., MS.
 
-<span id="fn_1070"></span>[654:24](hou26.htm#fr_1070) The Auerbach
+<span id="fn_1070"></span>[654:24](hou26.htm#fr_1070.md) The Auerbach
 Bros., a dry-goods firm, state that at this time ruin stared them in the
 face, and but for the mining developments which followed almost
 immediately afterward they could not have remained in the territory.
@@ -663,10 +663,10 @@ where they afterward paid their debts in full in gold coin. Their sales
 for 1885 amounted to about $500,000. *Auerback's Edmunds Bill*, MS.;
 *Utah Biogr. Sketches*, MS., 9-10.
 
-<span id="fn_1071"></span>[654:25](hou26.htm#fr_1071) *Harrison's Crit.
+<span id="fn_1071"></span>[654:25](hou26.htm#fr_1071.md) *Harrison's Crit.
 Notes on Utah*, MS., 52; *Walker's Merchants and Miners of Utah*, MS.,
 3.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. The Last Days of Brigham Young. 1869-1877.](hou27)
+[Next: Chapter XXIV. The Last Days of Brigham Young. 1869-1877.](hou27.md)

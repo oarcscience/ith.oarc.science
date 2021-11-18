@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe299)  [Next](prwe301) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe299)  [Next](prwe301.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ or by crook."
 
 ------------------------------------------------------------------------
 
-[Next: Weather Signs](prwe301)
+[Next: Weather Signs](prwe301.md)

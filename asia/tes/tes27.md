@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes26)  [Next](tes28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes26)  [Next](tes28.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ came for her to be married she was a wonderful girl. When she wept her
 tears were costly pearls. When she smiled, her smile was all precious
 stones. She would swing her right sleeve, and sables and martens would
 drop from it. She would swing her left sleeve, and red foxes would fall
-out of it. <span id="fr_39"></span>[1](#fn_39) She was also very pretty.
+out of it. <span id="fr_39"></span>[1](#fn_39.md) She was also very pretty.
 The like of her was not to be met. A strong young man heard about her,
 and went to pay suit to her.
 
@@ -132,10 +132,10 @@ village of Pokhotsk, in the Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_39"></span>[52:1](tes27.htm#fr_39) These details belong to
+<span id="fn_39"></span>[52:1](tes27.htm#fr_39.md) These details belong to
 Old-Russian folklore, and, indeed, are met with in the folk stories of
 various peoples of the Old World.--W. B.
 
 ------------------------------------------------------------------------
 
-[Next: 7. The Alder-Block](tes28)
+[Next: 7. The Alder-Block](tes28.md)

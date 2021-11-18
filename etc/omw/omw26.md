@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw25)  [Next](omw27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw25)  [Next](omw27.md) 
 
 ------------------------------------------------------------------------
 
@@ -200,4 +200,4 @@ created would not pass away.
 
 ------------------------------------------------------------------------
 
-[Next: Jamshīd the Resplendent](omw27)
+[Next: Jamshīd the Resplendent](omw27.md)

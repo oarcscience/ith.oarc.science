@@ -1,11 +1,11 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs39) [Next](hbs41)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs39) [Next](hbs41.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_225">p. 225</span>
 
-## THE WAR OF THE MONTENEGRINS WITH MAHMUD PASHA<span id="page_225_fr_1"></span>[1](#page_225_note_1)
+## THE WAR OF THE MONTENEGRINS WITH MAHMUD PASHA<span id="page_225_fr_1"></span>[1](#page_225_note_1.md)
 
 V<span class="small">IZIER</span> M<span class="small">AHMUD</span> on
 Bóyana in Scútari the white  
@@ -25,7 +25,7 @@ And I cannot gather an army all Bosnia around,
 Or in Herzegovina either or the Albanian bound.  
 Let us stir up Albania, that our fiery winds may fall  
 On the Píperi and also on the Children of White Paul.<span
-id="page_226_fr_1"></span>[1](#page_226_note_1)  
+id="page_226_fr_1"></span>[1](#page_226_note_1.md)  
 Let us burn everything with fire and capture great and small,  
 Till we come to Nikshich, brethren; there our pavilion white  
 
@@ -55,7 +55,7 @@ A lord and pasha shall he be that the Latins thereof may know.
 It is my very strong desire that thus should the matter go.”  
  So Mahmud spake, and nimbly to his feet sprang the vizier;  
 Quickly he seized a writing-set and wrote a letter clear:  
-To Petar the Bishop<span id="page_228_fr_1"></span>[1](#page_228_note_1)
+To Petar the Bishop<span id="page_228_fr_1"></span>[1](#page_228_note_1.md)
 in Tsétinye the letter doth he send:  
  “Prince-Bishop of Montenegro, if thou still wilt be my friend,  
 The champions of Brida in no way shalt thou relieve,  
@@ -111,8 +111,8 @@ Had not the Turks made themselves strong, when here before they came,
 Scatheless the church of Tsétinye they had not burned with flame,  
 Nor without a wound have ruined our monasteries fair;  
 They had not known Kóshchelitsa,<span
-id="page_230_fr_1"></span>[1](#page_230_note_1) nor would thus our
-entrails tear.”<span id="page_230_fr_2"></span>[2](#page_230_note_2)  
+id="page_230_fr_1"></span>[1](#page_230_note_1.md) nor would thus our
+entrails tear.”<span id="page_230_fr_2"></span>[2](#page_230_note_2.md)  
 
 <span id="page_231">p. 231</span>
 
@@ -238,7 +238,7 @@ But to the rest he giveth health and merriment likewise.
 
 ------------------------------------------------------------------------
 
-[Next](hbs41)
+[Next](hbs41.md)
 
 ------------------------------------------------------------------------
 
@@ -246,7 +246,7 @@ But to the rest he giveth health and merriment likewise.
 
 <span id="footnotes_page_225">p. 225</span>
 
-<span id="page_225_note_1"></span>[1](#page_225_fr_1) “I am confident
+<span id="page_225_note_1"></span>[1](#page_225_fr_1.md) “I am confident
 that both ballads \[of which the present is one\] on the war of the
 Montenegrins with Mahmud Pasha were composed by the Prince-Bishop of
 Montenegro, Petar I (now canonized as St. Petar), and that later they
@@ -287,23 +287,23 @@ Balkans*, New York, 1896, pp. 410, 411.
 
 <span id="footnotes_page_226">p. 226</span>
 
-<span id="page_226_note_1"></span>[1](#page_226_fr_1) The Byclópavlichi
+<span id="page_226_note_1"></span>[1](#page_226_fr_1.md) The Byclópavlichi
 rebel against English meter as stoutly as they once resisted Turkish
 oppression; hence their name is translated in the text instead of
 transcribed.
 
 <span id="footnotes_page_228">p. 228</span>
 
-<span id="page_228_note_1"></span>[1](#page_228_fr_1) Petar I, who ruled
+<span id="page_228_note_1"></span>[1](#page_228_fr_1.md) Petar I, who ruled
 1782-1830, and to whom Karájich attributes the composition of this
 ballad.
 
 <span id="footnotes_page_230">p. 230</span>
 
-<span id="page_230_note_1"></span>[1](#page_230_fr_1) The name of a
+<span id="page_230_note_1"></span>[1](#page_230_fr_1.md) The name of a
 mountain in Montenegro.
 
-<span id="page_230_note_2"></span>[2](#page_230_fr_2) “He \[Petar I\]
+<span id="page_230_note_2"></span>[2](#page_230_fr_2.md) “He \[Petar I\]
 had scarcely returned from the ceremony of consecration \[in 1782\] at
 the hands of the Serb patriarch, <span id="footnotes_page_231">p.
 231</span> . . . when he was compelled to face a Turkish invasion. Kara

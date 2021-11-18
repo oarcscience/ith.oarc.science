@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico079) 
-[Next](nico081) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico079.md) 
+[Next](nico081.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ that of any one else, if his activities are not more pleasant.
 
 [Next: Chapter 14. Discussion of the view that most pleasures are bad,
 and of the tendency to identify bodily pleasures with pleasure in
-general](nico081)
+general](nico081.md)

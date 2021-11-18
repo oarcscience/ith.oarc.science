@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw09)  [Next](cjw11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw09)  [Next](cjw11.md) 
 
 ------------------------------------------------------------------------
 
@@ -289,4 +289,4 @@ who is free even in life. \[438\]
 
 ------------------------------------------------------------------------
 
-[Next: The Three Kinds of Works](cjw11)
+[Next: The Three Kinds of Works](cjw11.md)

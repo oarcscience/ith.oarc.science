@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi231)  [Next](mtsi233) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi231)  [Next](mtsi233.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ down. As be lay there he howled and died.
 
 ------------------------------------------------------------------------
 
-[Next: 33. The Pigeon Hawk's Gift](mtsi233)
+[Next: 33. The Pigeon Hawk's Gift](mtsi233.md)

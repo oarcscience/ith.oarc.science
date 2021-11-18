@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth34)  [Next](oth36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth34)  [Next](oth36.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ the speed of its natural downward movement.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 2](oth36)
+[Next: Chapter 2](oth36.md)

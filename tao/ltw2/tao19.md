@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao19)   
-[Previous](tao18)  [Next](tao20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao19.md)   
+[Previous](tao18)  [Next](tao20.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ desires and egoism and return to simplicity and naturalness.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 20](tao20)
+[Next: Chapter 20](tao20.md)

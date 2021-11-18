@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](ldjb05)  [Next](ldjb07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](ldjb05)  [Next](ldjb07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Life and Doctrines of Jacob Boehme*, by Franz Hartmann, \[1891\],
 at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ at Intangible Textual Heritage
 
 ### CHAPTER III.
 
-### THE SEVEN PROPERTIES OR QUALITIES OF ETERNAL NATURE. <span id="fr_8"></span>[1](#fn_8)
+### THE SEVEN PROPERTIES OR QUALITIES OF ETERNAL NATURE. <span id="fr_8"></span>[1](#fn_8.md)
 
 I. ♄ ☾ II. ☿ ♃ III. ♂ ♀
 
@@ -699,7 +699,7 @@ Life, or Good." (*Myst. magn.*, vii. 11.)
 
 ### Footnotes
 
-<span id="fn_8"></span>[71:1](ldjb06.htm#fr_8)If it is asked how it is
+<span id="fn_8"></span>[71:1](ldjb06.htm#fr_8.md)If it is asked how it is
 possible that Jacob Boehme knew anything about the invisible spiritual
 processes taking place in the universe, the answer is that the spirit of
 man is one and universal, and he who knows his own divine self knows the
@@ -713,6 +713,6 @@ history of the universe is the history of a man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Creation](ldjb07)
+[Next: Chapter IV. Creation](ldjb07.md)
 
 </div>

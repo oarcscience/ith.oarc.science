@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml05)  [Next](iml07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml05)  [Next](iml07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ Naaman, who cried: "When my master goeth into the house of Rimmon to
 worship there, and he leaneth on my hand, and I how myself in the house
 of Rimmon: when I bow down myself in the house of Rimmon, the Lord
 pardon thy servant in this thing . . ." <span
-id="fr_41"></span>[1](#fn_41) The thunder god is also known in Babylon,
+id="fr_41"></span>[1](#fn_41.md) The thunder god is also known in Babylon,
 which received many of its settlers from the hills of Elam and where
 Kassites, associated with Aryans, established a dynasty after successful
 invasion, prior to the discovery of the Punjab. The authorities are
@@ -125,7 +125,7 @@ According to Vedic myth, Indra achieved his first great victory
 immediately after birth. Vritra, "the encompasser", the Demon of
 Drought, was holding captive in his mountain fortress the cloud-cattle
 which he had harried in the approved manner of the Aryan raiders. <span
-id="fr_42"></span>[1](#fn_42) Mankind entreated the aid of the gods,
+id="fr_42"></span>[1](#fn_42.md) Mankind entreated the aid of the gods,
 "the shining ones, the world guardians":
 
 Who will take pity? Who will bring refreshment?  
@@ -137,7 +137,7 @@ Who will come nigh to help us in distress?
 
 [![INDRA&lt;br&gt; &lt;i&gt;From the Indra Temple,
 Ellora&lt;/i&gt;](tn/00400.jpg)  
-Click to enlarge](img/00400.jpg)  
+Click to enlarge](img/00400.jpg.md)  
 INDRA  
 *From the Indra Temple, Ellora*  
 
@@ -233,7 +233,7 @@ religious beliefs of the Aryans, it retains some features of the
 original myth which are absent in the Vedic hymns. It should be
 understood that, at the period referred to, the belief obtained that the
 gods derived their powers from the saintly Rishis, <span
-id="fr_43"></span>[1](#fn_43) who fed them with sacrifices and underwent
+id="fr_43"></span>[1](#fn_43.md) who fed them with sacrifices and underwent
 terrible penances, which enabled them to support or destroy the Universe
 at will.
 
@@ -258,13 +258,13 @@ Said Dadhicha: "O ye gods, I will renounce my body for your benefit."
 
 Then the Rishi gave up his life, and from his bones the artisan god,
 Twashtri, shaped Indra's great weapon, which is called Vajra. <span
-id="fr_44"></span>[1](#fn_44)
+id="fr_44"></span>[1](#fn_44.md)
 
 Twashtri spake to Indra and said: "With this, the best of weapons, O
 exalted one, reduce that fierce foe of the gods to ashes! And, having
 slain the foe, rule thou happily the entire domain of heaven, O chief of
 the celestials, with those that follow thee." <span
-id="fr_45"></span>[2](#fn_45)
+id="fr_45"></span>[2](#fn_45.md)
 
 Then Indra led the gods against the mighty host. They found that Vritra
 was surrounded by dreaded Danavas, who resembled mountain peaks. A
@@ -284,7 +284,7 @@ turned and fled to the depths of ocean. There in the fathomless darkness
 <span id="page_9">p. 9</span>
 
 they assembled together, and began to plot how they would accomplish the
-destruction of the three worlds. <span id="fr_46"></span>[1](#fn_46)
+destruction of the three worlds. <span id="fr_46"></span>[1](#fn_46.md)
 
 At length the dread conspirators resolved to destroy all the Rishis who
 were possessed of knowledge and ascetic virtue, because the world was
@@ -293,7 +293,7 @@ high as hills for their protection, and they began to issue forth from
 their fortress to make attacks on the mighty saints.
 
 In the Babylonian Story of Creation the female dragon Tiawath (Tiamat),
-whose name signifies "the sea", <span id="fr_47"></span>[1](#fn_46)
+whose name signifies "the sea", <span id="fr_47"></span>[1](#fn_46.md)
 desired to possess the world, and plotted against the gods with her
 horde of giant serpents, "raging dogs, scorpion men, fish men, and other
 terrible beings". The gods then selected Belus (Bel-Merodach) as their
@@ -302,7 +302,7 @@ heavens with one part of her body, and fashioned the earth with the
 other half. Then he set the moon and the stars in the sky, and
 afterwards created man: "he divided the darkness, separated the heavens
 from the earth, and reduced the universe to order". <span
-id="fr_48"></span>[2](#fn_47) The sun was the offspring of the moon.
+id="fr_48"></span>[2](#fn_47.md) The sun was the offspring of the moon.
 
 The Indian Vedic and Epic dragon-slaying stories have evidently no
 connection, however, with a lost Creation myth. It is possible that they
@@ -318,7 +318,7 @@ the Egyptian Ptah, who acquired a potter's wheel, in addition to his
 hammer, in the Nile valley.
 
 Indra fashioned the universe in the simple manner that the early Aryans
-built their wooden houses. <span id="fr_49"></span>[1](#fn_48) How he
+built their wooden houses. <span id="fr_49"></span>[1](#fn_48.md) How he
 obtained the requisite material puzzled the Vedic poets. It may be that
 there was a World Tree, however, like the great ash Ygdrasil of Teutonic
 mythology. After measuring space with the sun, Indra set up four corner
@@ -349,7 +349,7 @@ They make grass
 <span id="img_01000"></span>
 
 [![INTERIOR OF A TEMPLE TO VISHNU (BRINDABAN)](tn/01000.jpg)  
-Click to enlarge](img/01000.jpg)  
+Click to enlarge](img/01000.jpg.md)  
 INTERIOR OF A TEMPLE TO VISHNU (BRINDABAN)  
 
  
@@ -362,27 +362,27 @@ Egyptian artisan god Ptah, who shaped the world. "Countless little
 figures of these gods are found in Egyptian tombs; for even as once the
 Khnumu had helped in the making of the world, so would they help to
 reconstruct in all its members the body of the dead man in whose tomb
-they were laid." <span id="fr_50"></span>[1](#fn_49) The Ribhus
+they were laid." <span id="fr_50"></span>[1](#fn_49.md) The Ribhus
 similarly renovated aged and decrepit parents; "they reunited the old
 cow to the calf"; they are also credited with having shaped the heavens
-and the earth, <span id="fr_51"></span>[2](#fn_50)and with having
+and the earth, <span id="fr_51"></span>[2](#fn_50.md)and with having
 fashioned the "cow of plenty", and also a man named Vibhvan. <span
-id="fr_52"></span>[3](#fn_51)
+id="fr_52"></span>[3](#fn_51.md)
 
 According to the *Oxford Dictionary*, they are "the three genii of the
 seasons in Hindu mythology". The Sanskrit word "Ribhu" is sometimes
 compared with the Germanic word "Elf". Professor Macdonell considers it
 "likely that the Ribhus were originally terrestrial or aerial
-elves" <span id="fr_53"></span>[4](#fn_52) They are evidently of common
+elves" <span id="fr_53"></span>[4](#fn_52.md) They are evidently of common
 origin with the Teutonic elfin artisans who are associated with Thor,
 the Germanic Indra.
 
 The mother of the Ribhus was Saranyu, daughter of Twashtri, "the Hindu
 Vulcan", the "master workman". Twashtri forms the organism in maternal
-wombs and supports the races of man. <span id="fr_54"></span>[5](#fn_53)
+wombs and supports the races of man. <span id="fr_54"></span>[5](#fn_53.md)
 As we have seen, he was the fashioner of Indra's thunderbolt: similarly
 the Teutonic elfin artisan Sindre makes Thor's hammer. <span
-id="fr_55"></span>[6](#fn_54)
+id="fr_55"></span>[6](#fn_54.md)
 
 The two groups of Teutonic wonder-smiths were rivals; so were the Ribhus
 and Twashtri. The elfin artisans prove their skill in both cases by
@@ -408,7 +408,7 @@ Persian Gulf--half-fish, half-man--who landed "during the day to teach
 the inhabitants the building of houses and temples, the gathering of
 fruits, and also geometry, law and letters". His pupils included
 "potters, blacksmiths, sailors, stonecutters, gardeners, farmers,
-&c." <span id="fr_56"></span>[1](#fn_55)
+&c." <span id="fr_56"></span>[1](#fn_55.md)
 
 The Ribhus and Twashtri were the artisans of nature, the spirits of
 growth, the genii of the seasons, the elves of earth and air. Indra's
@@ -418,7 +418,7 @@ rice god. He was the son of Father Heaven and Mother Earth, two vague
 deities who were never completely individualized, but were never
 forgotten. Heaven was the sky-god Dyaus-pita (from div = to shine), the
 Zeus pater of the Greeks, Jupiter of the Romans, and Tivi <span
-id="fr_57"></span>[2](#fn_56) (later,
+id="fr_57"></span>[2](#fn_56.md) (later,
 
 <span id="page_13">p. 13</span>
 
@@ -442,21 +442,21 @@ did Indra slay his father Dyaus (Heaven). His earth-mother addresses
 him, saying: "Who has made thy mother a widow? Who has sought to slay
 the sleeping and the waking? What deity has been more gracious than
 thou, since thou hast slain thy father, having seized him by the
-foot?" <span id="fr_58"></span>[1](#fn_57)
+foot?" <span id="fr_58"></span>[1](#fn_57.md)
 
 The Indian father-slaying myth appears to be connected with the doctrine
 of reincarnation. In the *Laws of Manu* it is stated that "the husband,
 after conception by his wife, becomes an embryo and is born again of
 her; for that is the wifehood of a wife, that he is born again by
-her". <span id="fr_59"></span>[2](#fn_58) In the famous story of
+her". <span id="fr_59"></span>[2](#fn_58.md) In the famous story of
 Shakuntălā, the husband is similarly referred to as the son of his wife,
 the son being a reincarnation of the father. <span
-id="fr_60"></span>[3](#fn_59) This belief
+id="fr_60"></span>[3](#fn_59.md) This belief
 
 <span id="page_14">p. 14</span>
 
 resembles the Egyptian conception which is summed up in the phrase
-"husband of his mother". <span id="fr_61"></span>[1](#fn_60)
+"husband of his mother". <span id="fr_61"></span>[1](#fn_60.md)
 
 At the barley harvest in spring and the rice harvest in autumn offerings
 were made to the gods. A sacrificial cake of the new barley or rice was
@@ -495,7 +495,7 @@ After the magic spell was removed from the plants by the gods, men ate
 food and cattle grazed once again. Ever afterwards, at the beginning of
 each harvest, the first fruits were offered up to Indra and Agni. The
 fee of the priest was the first-born calf "for that is, as it were, the
-firstfruits of the cattle". <span id="fr_62"></span>[1](#fn_61)
+firstfruits of the cattle". <span id="fr_62"></span>[1](#fn_61.md)
 
 The popular Thunder god of the Vedic period bears a close resemblance to
 the hard-drinking, kindly, and impulsive Thor, the Teutonic god of few
@@ -552,13 +552,13 @@ Seize by the foot and on the hard rock dash him.
 The lord of both the worlds hates all the haughty,  
 He cares for those who feel themselves but human.  
                                            Rigveda, vi, 47. <span
-id="fr_63"></span>[1](#fn_62)
+id="fr_63"></span>[1](#fn_62.md)
 
 These verses recall: "Silence, thou evil one," roared Thor, "or else
 with my hammer shall I strike thy head off and end thy life."
 
 Then did Loke answer humbly: "Silent indeed I shall be now, O Thor, for
-I know full well thou wilt strike." <span id="fr_64"></span>[2](#fn_63)
+I know full well thou wilt strike." <span id="fr_64"></span>[2](#fn_63.md)
 
  
 
@@ -566,7 +566,7 @@ I know full well thou wilt strike." <span id="fr_64"></span>[2](#fn_63)
 
 [![THE PARADISE OF INDRA&lt;br&gt; &lt;i&gt;From a rock sculpture at
 Mamallapuram&lt;/i&gt;](tn/01600.jpg)  
-Click to enlarge](img/01600.jpg)  
+Click to enlarge](img/01600.jpg.md)  
 THE PARADISE OF INDRA  
 *From a rock sculpture at Mamallapuram*  
 
@@ -594,7 +594,7 @@ Vritra . . . eyeing his son of curling locks smilingly and with eyes
 expanded with delight, seemed scarcely to be gratified. The more he
 gazed, the more he liked to gaze on. And seated on one seat, the father
 and son enhanced the beauty of the assembly, like the sun and moon
-beautifying the firmament together." <span id="fr_65"></span>[1](#fn_64)
+beautifying the firmament together." <span id="fr_65"></span>[1](#fn_64.md)
 
 Indra was attended in his heaven by vague spirits, called Vasus, who
 appear to have acted as his counsellors. When Bhishma, a hero of the
@@ -616,83 +616,83 @@ its summits".
 
 ### Footnotes
 
-<span id="fn_41"></span>[3:1](iml06.htm#fr_41) *2 Kings*, v, 18.
+<span id="fn_41"></span>[3:1](iml06.htm#fr_41.md) *2 Kings*, v, 18.
 
-<span id="fn_42"></span>[4:1](iml06.htm#fr_42) One of the sections of
+<span id="fn_42"></span>[4:1](iml06.htm#fr_42.md) One of the sections of
 the epic Mahabharata is called "Go-Harran", which signifies "cattle
 harrying".
 
-<span id="fn_43"></span>[7:1](iml06.htm#fr_43) The deified poets and
-sages. See [Chapter VIII](iml13.htm#ch08).
+<span id="fn_43"></span>[7:1](iml06.htm#fr_43.md) The deified poets and
+sages. See [Chapter VIII](iml13.htm#ch08.md).
 
-<span id="fn_44"></span>[8:1](iml06.htm#fr_44) Adolf Kaegi says: "Also
+<span id="fn_44"></span>[8:1](iml06.htm#fr_44.md) Adolf Kaegi says: "Also
 Vadha or Vadhar", which he compares with German, *Wetter*; O.H. German,
 *Wetar*: Anglo-Saxon, *Weder*; English, *Weather*. The original word
 signifying the sudden change in atmospheric conditions caused by the
 thunderstorm was ultimately applied to all states of the air.
 
-<span id="fn_45"></span>[8:2](iml06.htm#fr_45) Roy's translation of
+<span id="fn_45"></span>[8:2](iml06.htm#fr_45.md) Roy's translation of
 *Mahabharata*.
 
-<span id="fn_46"></span>[9:1](iml06.htm#fr_47) Like the giants and
+<span id="fn_46"></span>[9:1](iml06.htm#fr_47.md) Like the giants and
 demons of Teutonic mythology, who fought with the gods in the Last
 Battle.
 
-<span id="fn_47"></span>[9:2](iml06.htm#fr_48) *The Religion of
+<span id="fn_47"></span>[9:2](iml06.htm#fr_48.md) *The Religion of
 Babylonia and Assyria*, by T. G. Pinches, LL.D.
 
-<span id="fn_48"></span>[10:1](iml06.htm#fr_49) *Cosmology of Rigveda*,
+<span id="fn_48"></span>[10:1](iml06.htm#fr_49.md) *Cosmology of Rigveda*,
 Wallis.
 
-<span id="fn_49"></span>[11:1](iml06.htm#fr_50) *Religion of the Ancient
+<span id="fn_49"></span>[11:1](iml06.htm#fr_50.md) *Religion of the Ancient
 Egyptians*, Professor A. Wiedemann, p. 137.
 
-<span id="fn_50"></span>[11:2](iml06.htm#fr_51) *Rigveda*, iv, 34. 9.
+<span id="fn_50"></span>[11:2](iml06.htm#fr_51.md) *Rigveda*, iv, 34. 9.
 
-<span id="fn_51"></span>[11:3](iml06.htm#fr_52) *Cosmology of Rigveda*,
+<span id="fn_51"></span>[11:3](iml06.htm#fr_52.md) *Cosmology of Rigveda*,
 Wallis.
 
-<span id="fn_52"></span>[11:4](iml06.htm#fr_53) *A History of Sanskrit
+<span id="fn_52"></span>[11:4](iml06.htm#fr_53.md) *A History of Sanskrit
 Literature*, pp. 106, 107.
 
-<span id="fn_53"></span>[11:5](iml06.htm#fr_54) *Rigveda*, ii, 53; iii,
+<span id="fn_53"></span>[11:5](iml06.htm#fr_54.md) *Rigveda*, ii, 53; iii,
 55.
 
-<span id="fn_54"></span>[11:6](iml06.htm#fr_55) *Teutonic Myth and
+<span id="fn_54"></span>[11:6](iml06.htm#fr_55.md) *Teutonic Myth and
 Legend*, pp. 35-9.
 
-<span id="fn_55"></span>[12:1](iml06.htm#fr_56) *The Religion of
+<span id="fn_55"></span>[12:1](iml06.htm#fr_56.md) *The Religion of
 Babylonia and Assyria*, T. G. Pinches, LL.D.
 
-<span id="fn_56"></span>[12:2](iml06.htm#fr_57) An old Germanic name of
+<span id="fn_56"></span>[12:2](iml06.htm#fr_57.md) An old Germanic name of
 Odin related to Divus. Odin's descendants were the "Tivar". (Pronounce
 *Dyaus* as one syllable rhiming with *mouse*.)
 
-<span id="fn_57"></span>[13:1](iml06.htm#fr_58) *Rigveda*, iv, 18.
+<span id="fn_57"></span>[13:1](iml06.htm#fr_58.md) *Rigveda*, iv, 18.
 Wilson, vol. iii, p. 153.
 
-<span id="fn_58"></span>[13:2](iml06.htm#fr_59) *The Laws of Manu*, ix,
+<span id="fn_58"></span>[13:2](iml06.htm#fr_59.md) *The Laws of Manu*, ix,
 8; p. 329. (*Sacred Books of the East*, vol. xxv.)
 
-<span id="fn_59"></span>[13:3](iml06.htm#fr_60) *Adi Parva*, sect. lxxiv
+<span id="fn_59"></span>[13:3](iml06.htm#fr_60.md) *Adi Parva*, sect. lxxiv
 of *Mahabharata*, Roy's translation.
 
-<span id="fn_60"></span>[14:1](iml06.htm#fr_61) See *Egyptian Myth and
+<span id="fn_60"></span>[14:1](iml06.htm#fr_61.md) See *Egyptian Myth and
 Legend*.
 
-<span id="fn_61"></span>[15:1](iml06.htm#fr_62) The *Satapatha
+<span id="fn_61"></span>[15:1](iml06.htm#fr_62.md) The *Satapatha
 Brahmana*, translated by Professor J. Eggeling, Part I, pp. 369, 373,
 (*Sacred Books of the East*, vol. xii.)
 
-<span id="fn_62"></span>[16:1](iml06.htm#fr_63) Arrowsmith's
+<span id="fn_62"></span>[16:1](iml06.htm#fr_63.md) Arrowsmith's
 translation.
 
-<span id="fn_63"></span>[16:2](iml06.htm#fr_64) *Teutonic Myth and
+<span id="fn_63"></span>[16:2](iml06.htm#fr_64.md) *Teutonic Myth and
 Legend*, p. 173.
 
-<span id="fn_64"></span>[17:1](iml06.htm#fr_65) *Vana Parva* section of
+<span id="fn_64"></span>[17:1](iml06.htm#fr_65.md) *Vana Parva* section of
 Mahābhārata, sect. xliii, Roy's translation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Great Vedic Deities](iml07)
+[Next: Chapter II. The Great Vedic Deities](iml07.md)

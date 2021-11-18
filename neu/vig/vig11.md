@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](vig10)  [Next](vig12) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](vig10)  [Next](vig12.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,14 +31,14 @@ over the field and remarked, "Sure-giver has not yet lost his
 character." Then he put on his cloak again, took his spear in his hand,
 and turned sharp on Sigmund, with it uplifted. Sigmund sprang up to meet
 him, but Glum struck him on the head so that he needed no second blow.
- <span id="fr_9"></span>[1](#fn_9) Then he went up to Vigdis, and told
+ <span id="fr_9"></span>[1](#fn_9.md) Then he went up to Vigdis, and told
 her to go home, "and tell Thorkel, on Glum’s part, nothing is yet done
 which will necessarily hinder our being on the footing of kinsmen, but
 that Sigmund is unable to leave the field." Glum rode on to Hole, and
 said nothing to his brother of what had happened; but when Thorstein saw
 how he was equipped, and how he had his cloak and spear, and perceived
 the blood in the ornaments of the weapon,  <span
-id="fr_10"></span>[2](#fn_10) he asked him if he had used it within a
+id="fr_10"></span>[2](#fn_10.md) he asked him if he had used it within a
 short time. "Oh," cried Glum, "it is quite true; I forgot to mention it,
 I killed Sigmund, Thorkel’s son, with it to-day." "That will be some
 news," replied Thorstein, "for Thorkel and his kinsmen at Espihole."
@@ -66,11 +66,11 @@ but Glum had somewhat more men about him than he usually had.
 
 ### Footnotes
 
-<span id="fn_9"></span>[1](vig11.htm#fr_9) Glum’s spear was probably a
+<span id="fn_9"></span>[1](vig11.htm#fr_9.md) Glum’s spear was probably a
 sort of halberd, with which he could either cut or thrust; such as is
 called "höggspiót," in Chapter xxii.
 
-<span id="fn_10"></span>[2](vig11.htm#fr_10) The words of the text are
+<span id="fn_10"></span>[2](vig11.htm#fr_10.md) The words of the text are
 that he saw the blood "I málunum," which may mean in "the
 marks--letters--or ornaments of the weapon." Runes or letters were
 sometimes engraved on the blade of a sword or spear. In the Edda, the
@@ -82,4 +82,4 @@ cases it may mean "bearing runes or letters chased on the blade."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](vig12)
+[Next: Chapter IX](vig12.md)

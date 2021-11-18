@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc69) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc69.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ Of the eight poems by Li Po, all but Number 6 have been translated
 before, some of them by several hands.
 
 Among the poems by Po Chü-i, three (Nos. 11,12, and 44) have been
-translated by Woitsch <span id="fr_61"></span>[1](#fn_58) and one, (No.
+translated by Woitsch <span id="fr_61"></span>[1](#fn_58.md) and one, (No.
 43), very incorrectly, by Pfizmaier. Another (No. 21) was translated
 into rhymed verse by Prof. Giles in "Adversaria Sinica " (1914) , p.
 323. Ou-yang Hsiu's "Autumn" was translated by Giles (with great freedom
@@ -70,7 +70,7 @@ Norwood, Mass.</span>
 
 ### Footnotes
 
-<span id="fn_58"></span>[154:1](mtc70.htm#fr_61) Aus den Gedichten Po
+<span id="fn_58"></span>[154:1](mtc70.htm#fr_61.md) Aus den Gedichten Po
 Chü-i's. Peking, 1908.
 
  

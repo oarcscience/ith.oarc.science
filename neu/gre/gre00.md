@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Next](gre01) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Next](gre01.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ WILLIAM MORRIS.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](gre01)
+[Next: Title Page](gre01.md)

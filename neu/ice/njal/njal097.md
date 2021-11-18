@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal096)  [Next](njal098) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal096)  [Next](njal098.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ burning with Flosi.
 
 ------------------------------------------------------------------------
 
-[Next: 98. Of Thangbrand And Gudleif](njal098)
+[Next: 98. Of Thangbrand And Gudleif](njal098.md)

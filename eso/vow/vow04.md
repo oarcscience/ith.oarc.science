@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Gnostic and Hermetic](../../gno/index)  [Index](index) 
-[Previous](vow03)  [Next](vow05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Gnostic and Hermetic](../../gno/index)  [Index](index.md) 
+[Previous](vow03)  [Next](vow05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FGTM4C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Virgin of the World*, by Anna Kingsford and Edward Maitland,
 \[1884\], at Intangible Textual Heritage
 
@@ -127,7 +127,7 @@ plane, and needing an interpretation, other than are apparent. Hence, it
 is necessary for such a task, to utilise the labours of those various
 exponents of the system who have either derived it from sources not now
 extant, or who, by following the same method, have discerned it for
-themselves, <span id="fr_4"></span>[1](#fn_4) giving it, in some
+themselves, <span id="fr_4"></span>[1](#fn_4.md) giving it, in some
 instances, fresh applications, not the less Hermetic because
 representing a further development of the
 
@@ -364,7 +364,7 @@ ceremonial, the Hermetic system is distinguished from other
 schools of mysticism by its freedom from their gloomy and churlish
 manner of regarding nature, and their contempt and loathing for the body
 and its functions as inherently impure and vile; <span
-id="fr_5"></span>[1](#fn_5) and so far from repudiating the relations of
+id="fr_5"></span>[1](#fn_5.md) and so far from repudiating the relations of
 the sexes, it exalts them as symbolising the loftiest divine mysteries,
 and enjoins their exercise as a duty, the fulfilment of which, in some
 at least of his incarnations, is essential to the full perfectionment
@@ -375,7 +375,7 @@ and so redeems mysticism from the reproach--too often deserved--of
 pessimism. The Hermetist, like the prophet who found God in the sea's
 depths and the while's belly, recognises divinity in every region and
 department of nature. And seeing in "ignorance of God the greatest of
-all evils," <span id="fr_6"></span>[2](#fn_6) he seeks to perfect
+all evils," <span id="fr_6"></span>[2](#fn_6.md) he seeks to perfect
 himself, not simply in order the sooner to escape from existence as a
 thing inherently evil, but to make himself an instrument of perception
 capable of "seeing God" in every region of existence in which he may
@@ -439,20 +439,20 @@ E. M.
 
 ### Footnotes
 
-<span id="fn_4"></span>[xi:1](vow04.htm#fr_4) For, as we have
+<span id="fn_4"></span>[xi:1](vow04.htm#fr_4.md) For, as we have
 subsequently ascertained, "*The Perfect Way*" is not a singular instance
 of the recovery of the Hermetic system, by unwittingly following the
 same method to which it was originally due, namely, intuitional
 perception and recollection, and altogether independently of extraneous
 sources of information.
 
-<span id="fn_5"></span>[xvii:1](vow04.htm#fr_5) The term "corrupt,"
+<span id="fn_5"></span>[xvii:1](vow04.htm#fr_5.md) The term "corrupt,"
 which in the translation of the "Divine Pymander" is applied to things
 earthly, means simply perishable.
 
-<span id="fn_6"></span>[xvii:2](vow04.htm#fr_6) The title of one of the
+<span id="fn_6"></span>[xvii:2](vow04.htm#fr_6.md) The title of one of the
 books in the "Divine Pymander."
 
 ------------------------------------------------------------------------
 
-[Next: An Introduction to The Virgin of the World](vow05)
+[Next: An Introduction to The Virgin of the World](vow05.md)

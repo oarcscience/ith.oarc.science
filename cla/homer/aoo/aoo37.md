@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo36)  [Next](aoo38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo36)  [Next](aoo38.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ many bronze-weighted arrows.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](aoo38)
+[Next: Chapter XV](aoo38.md)

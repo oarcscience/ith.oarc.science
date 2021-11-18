@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa17)  [Next](soa19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa17)  [Next](soa19.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ be dealt with later on.
 
 ------------------------------------------------------------------------
 
-[Next: The Original Semite Race](soa19)
+[Next: The Original Semite Race](soa19.md)

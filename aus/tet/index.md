@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,25 +24,25 @@ time period.
 
 ------------------------------------------------------------------------
 
-[Title Page](tet00)  
-[Contents](tet01)  
-[Introduction](tet02)  
-[Chapter I. Introductory](tet03)  
-[Chapter II. The All Father, Byamee](tet04)  
-[Chapter III. Relationships And Totems](tet05)  
-[Chapter IV. The Medicine Men](tet06)  
-[Chapter V. More About the Medicine Men and Leechcraft](tet07)  
-[Chapter VI. Our Witch Woman](tet08)  
+[Title Page](tet00.md)  
+[Contents](tet01.md)  
+[Introduction](tet02.md)  
+[Chapter I. Introductory](tet03.md)  
+[Chapter II. The All Father, Byamee](tet04.md)  
+[Chapter III. Relationships And Totems](tet05.md)  
+[Chapter IV. The Medicine Men](tet06.md)  
+[Chapter V. More About the Medicine Men and Leechcraft](tet07.md)  
+[Chapter VI. Our Witch Woman](tet08.md)  
 [Chapter VII. Birth--Betrothal--An Aboriginal Girl From Infancy To
-Womanhood](tet09)  
+Womanhood](tet09.md)  
 [Chapter VIII. The Training of a Boy up to Boorah
-Preliminaries](tet10)  
-[Chapter IX. The Boorah and Other Meetings](tet11)  
-[Chapter X. Chiefly as to Funerals and Mourning](tet12)  
-[Chapter XI. Something About Stars And Legends](tet13)  
-[Chapter XII. The Trapping of Game](tet14)  
-[Chapter XIII. Foraging and Cooking](tet15)  
-[Chapter XIV. Costumes and Weapons](tet16)  
-[Chapter XV. The Amusements of Blacks](tet17)  
-[Chapter XVI. Bush Bogies and Finis](tet18)  
-[Glossary](tet19)  
+Preliminaries](tet10.md)  
+[Chapter IX. The Boorah and Other Meetings](tet11.md)  
+[Chapter X. Chiefly as to Funerals and Mourning](tet12.md)  
+[Chapter XI. Something About Stars And Legends](tet13.md)  
+[Chapter XII. The Trapping of Game](tet14.md)  
+[Chapter XIII. Foraging and Cooking](tet15.md)  
+[Chapter XIV. Costumes and Weapons](tet16.md)  
+[Chapter XV. The Amusements of Blacks](tet17.md)  
+[Chapter XVI. Bush Bogies and Finis](tet18.md)  
+[Glossary](tet19.md)  

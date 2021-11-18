@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo16)  [Next](beo18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo16)  [Next](beo18.md) 
 
 ------------------------------------------------------------------------
 
@@ -118,4 +118,4 @@ Beowulf's funeral-pile at the end of the poem.
 
 ------------------------------------------------------------------------
 
-[Next: Part XVII](beo18)
+[Next: Part XVII](beo18.md)

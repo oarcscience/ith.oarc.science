@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../ayl/ayl) 
-[Previous](mov)  [Next](tos) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../ayl/ayl.md) 
+[Previous](mov)  [Next](tos.md) 
 
 ------------------------------------------------------------------------
 
@@ -3589,4 +3589,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Taming of the Shrew](tos) 
+[Next: The Taming of the Shrew](tos.md) 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs29)  [Next](pifs31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs29)  [Next](pifs31.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ does not appear at first sight. It is a story common to all the Quères,
 and is undoubtedly ancient; but as I heard it first in Isleta its scene
 is laid in Laguna, a pueblo only two hundred years old.
 
-Once upon a time the Tah-póh-pee <span id="fr_98"></span>[1](#fn_97) of
+Once upon a time the Tah-póh-pee <span id="fr_98"></span>[1](#fn_97.md) of
 Laguna had a daughter, who was the belle of the village. She was very
 fond of hunting, and killed as much game as any of the young men.
 Several miles south of Laguna is a very large sandstone dome rising in
@@ -80,8 +80,8 @@ native name for Laguna), where she lived for many years.
 
 ### Footnotes
 
-<span id="fn_97"></span>[200:1](pifs30.htm#fr_98) Governor.
+<span id="fn_97"></span>[200:1](pifs30.htm#fr_98.md) Governor.
 
 ------------------------------------------------------------------------
 
-[Next: XXVIII. A Pueblo Bluebeard](pifs31)
+[Next: XXVIII. A Pueblo Bluebeard](pifs31.md)

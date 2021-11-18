@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar121) [Next](gbar123)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar121) [Next](gbar123.md)
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ our merciful God.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar123)
+[Next](gbar123.md)

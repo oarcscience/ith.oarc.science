@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Symbolism](../../sym/index)  [Index](index) 
-[Previous](fsca57)  [Next](fsca59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Symbolism](../../sym/index)  [Index](index.md) 
+[Previous](fsca57)  [Next](fsca59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002D48Q8Y/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fictitious and Symbolic Creatures in Art*, by John Vinycomb, \[1909\],
 at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ at Intangible Textual Heritage
 
 <span id="page_218">p. 218</span>
 
-<span id="img_21800"></span> ![Mantygre—Satyral.](img/21800.jpg)
+<span id="img_21800"></span> ![Mantygre—Satyral.](img/21800.jpg.md)
 
 ### Mantiger, Montegre or Manticora Satyral
 
@@ -37,7 +37,7 @@ man. It is thus with the Lavas of Birma, supposed
 <span id="page_219">p. 219</span>
 
 to be the broken-down remains of a cultured race and dreaded as
-man-tigers. <span id="fr_26"></span>[\*](#fn_26)
+man-tigers. <span id="fr_26"></span>[\*](#fn_26.md)
 
 Two satyrals supported the arms of the Lords Stawell.
 
@@ -68,9 +68,9 @@ extinct monsters.
 
 ### Footnotes
 
-<span id="fn_26"></span>[219:\*](fsca58.htm#fr_26) Tylor's "Primitive
+<span id="fn_26"></span>[219:\*](fsca58.htm#fr_26.md) Tylor's "Primitive
 Culture."
 
 ------------------------------------------------------------------------
 
-[Next: Lamia or Emipusa](fsca59)
+[Next: Lamia or Emipusa](fsca59.md)

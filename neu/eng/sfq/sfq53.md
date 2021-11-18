@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq52)  [Next](sfq54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq52)  [Next](sfq54.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ sight, and each one thought according to
 <span id="img_24100"></span>
 
 [![](tn/24100.jpg)  
-Click to enlarge](img/24100.jpg)
+Click to enlarge](img/24100.jpg.md)
 
 his own fancy. But the Snowy Lady herself thought it was some spiteful
 trick, and it filled her with wrath, and shame as a thing devised to
@@ -130,4 +130,4 @@ discover because of his disguise!
 
 ------------------------------------------------------------------------
 
-[Next: How Sir Scudamour came to the House of Care](sfq54)
+[Next: How Sir Scudamour came to the House of Care](sfq54.md)

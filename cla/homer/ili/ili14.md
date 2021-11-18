@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](ili13)  [Next](ili15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](ili13)  [Next](ili15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE78VC/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Iliad of Homer*, tr. by Samuel Butler, \[1898\], at Intangible
 Textual Heritage
 
@@ -476,6 +476,6 @@ flying foes when Jove had spread panic among them.
 
 ------------------------------------------------------------------------
 
-[Next: Book XV](ili15)
+[Next: Book XV](ili15.md)
 
 </div>

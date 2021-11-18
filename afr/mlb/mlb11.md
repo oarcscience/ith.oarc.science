@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb10)  [Next](mlb12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb10)  [Next](mlb12.md) 
 
 ------------------------------------------------------------------------
 
@@ -532,4 +532,4 @@ of history, as known to Europeans-and there we may leave the Wakilindi.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: The Story of Liongo Fumo](mlb12)
+[Next: Chapter X: The Story of Liongo Fumo](mlb12.md)

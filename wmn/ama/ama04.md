@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](ama03)  [Next](ama05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](ama03)  [Next](ama05.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ hero even in this dominion of ghosts. So they
 
 [![SECTION OF PHIGALEIAN FRIEZE. COMBAT OF GREEKS AND AMAZONS.&lt;BR&gt;
 BRITISH MUSEUM.](tn/04800.jpg)  
-Click to enlarge](img/04800.jpg)  
+Click to enlarge](img/04800.jpg.md)  
 SECTION OF PHIGALEIAN FRIEZE. COMBAT OF GREEKS AND AMAZONS.  
 BRITISH MUSEUM.  
 
@@ -411,4 +411,4 @@ helmets and carry large shields.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV: Amazons in Far Asia](ama05)
+[Next: Chapter IV: Amazons in Far Asia](ama05.md)

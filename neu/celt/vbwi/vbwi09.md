@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi08)  [Next](vbwi10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi08)  [Next](vbwi10.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ wouldn't for all the world come back to that place.
 
 ------------------------------------------------------------------------
 
-[Next: The Fighting of the Friends](vbwi10)
+[Next: The Fighting of the Friends](vbwi10.md)

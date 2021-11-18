@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pym06)  [Next](pym08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pym06)  [Next](pym08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE6GQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Divine Pymander*, by Hermes Mercurius Trismegistus, tr. by John
 Everard, \[1650\], at Intangible Textual Heritage
 
@@ -143,4 +143,4 @@ THAT IN GOD ALONE IS GOOD....
 ------------------------------------------------------------------------
 
 [Next: The Seventh Book, His Secret Sermon in the Mount of Regeneration,
-Profession of Silence](pym08)
+Profession of Silence](pym08.md)

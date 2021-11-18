@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal041)  [Next](njal043) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal041)  [Next](njal043.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ quoth she, "would be no revenge for so great a quarrel."
 
 ------------------------------------------------------------------------
 
-[Next: 43. Njal And Gunnar Make Peace For The Slaying Of Thord](njal043)
+[Next: 43. Njal And Gunnar Make Peace For The Slaying Of Thord](njal043.md)

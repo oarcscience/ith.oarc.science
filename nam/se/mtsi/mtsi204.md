@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi203)  [Next](mtsi205) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi203)  [Next](mtsi205.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ they slept, and when they awoke again they were back in their own house.
 
 ------------------------------------------------------------------------
 
-[Next: 5. A Story of the Origin of Corn and Tobacco](mtsi205)
+[Next: 5. A Story of the Origin of Corn and Tobacco](mtsi205.md)

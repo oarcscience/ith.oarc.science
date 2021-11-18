@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli08)  [Next](mfli10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli08)  [Next](mfli10.md) 
 
 ------------------------------------------------------------------------
 
@@ -477,4 +477,4 @@ of the giants, and left his father-in-law on his own land.
 
 ------------------------------------------------------------------------
 
-[Next: Kil Arthur](mfli10)
+[Next: Kil Arthur](mfli10.md)

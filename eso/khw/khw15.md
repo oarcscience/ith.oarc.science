@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](khw14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](khw14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Knowledge of the Higher Worlds and Its Attainment*, by Rudolf Steiner,
 \[1947\], at Intangible Textual Heritage
 
@@ -172,9 +172,9 @@ actual fact from the language used to describe it is greater than in
 descriptions of physical experience. The reader must be at pains to
 realize that many an expression is intended as an illustration, merely
 indicating in a delicate way the reality to which it refers. Thus it is
-said on page [19](khw05.htm#page_19) of this book: “Originally all rules
+said on page [19](khw05.htm#page_19.md) of this book: “Originally all rules
 and teachings of spiritual science were expressed in a symbolical
-sign-language.” And on page [82](khw06.htm#page_82), a “certain writing
+sign-language.” And on page [82](khw06.htm#page_82.md), a “certain writing
 system” was mentioned. Now, anyone may easily be led to suppose that
 such a writing system can be learned in the same way we learn the
 letters of an ordinary physical language, and their combinations. In
@@ -253,7 +253,7 @@ human being, and he should become quite different.
 \*       \*       \*
 
 \(4\) I should like to add to what was said on pp.
-[131](khw09.htm#page_131) *et seq*. concerning “some results of
+[131](khw09.htm#page_131.md) *et seq*. concerning “some results of
 initiation,” something which, with a slight alteration, can apply to
 other parts of the book. It may occur to someone to ask whether such
 figurative descriptions are necessary, and whether it would not be

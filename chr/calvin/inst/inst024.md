@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst023)  [Next](inst025) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst023)  [Next](inst025.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,8 +70,8 @@ thousands, forgiving iniquity and transgression and sin, and that will
 by no means clear the guilty; visiting the iniquity of the fathers upon
 the children, and upon the children’s children, unto the third and to
 the fourth generation,” (<span id="iv.i.xi-p7.1"></span>[Exod.
-34:6](../../../bib/kjv/exo034.htm#006),
-[7](../../../bib/kjv/exo034.htm#007)<span id="iv.i.xi-p7.1"></span>).
+34:6](../../../bib/kjv/exo034.htm#006.md),
+[7](../../../bib/kjv/exo034.htm#007)<span id="iv.i.xi-p7.1"></span>.md).
 Here we may observe, *first*, that his eternity and selfexistence are
 declared by his magnificent name twice repeated; and, *secondly*, that
 in the enumeration of his perfections, he is described not as he is in
@@ -93,7 +93,7 @@ description is not so full, it is substantially the same. “Let him that
 glorieth,” says he, “glory in this, that he understandeth and knoweth
 me, that I am the Lord which exercise loving-kindness, Judgment, and
 righteousness, in the earth,” (<span id="iv.i.xi-p7.2"></span>[Jer.
-9:24](../../../bib/kjv/jer009.htm#024)<span id="iv.i.xi-p7.2"></span>).
+9:24](../../../bib/kjv/jer009.htm#024)<span id="iv.i.xi-p7.2"></span>.md).
 Assuredly, the attributes which it is most necessary for us to know are
 these three: Loving-kindness, on which alone our entire safety depends:
 Judgment, which is daily exercised on the wicked, and awaits them in a
@@ -126,7 +126,7 @@ sufficient. And this is shrewdly noticed by Justin Martyr, who, to the
 same effect, wrote a treatise, entitled, On the Monarchy of God, in
 which he shows, by a great variety of evidence, that the unity of God is
 engraven on the hearts of all. Tertullian also proves the same thing
-from the common forms of speech.7  <span id="fr_72"></span>[73](#fn_72)
+from the common forms of speech.7  <span id="fr_72"></span>[73](#fn_72.md)
 But as all, without exception, have in the vanity of their minds rushed
 or been dragged into lying fictions, these impressions, as to the unity
 of God, whatever they may have naturally been, have had no further
@@ -147,7 +147,7 @@ has manifested himself in his word.
 
 ### Footnotes
 
-<span id="fn_72"></span>[73](inst024.htm#fr_72) <span
+<span id="fn_72"></span>[73](inst024.htm#fr_72.md) <span
 id="iv.i.xi-p8.1"></span>
 
 <span id="iv.i.xi-p9"></span>9 79 In his book, De Idolatria. See also in
@@ -159,4 +159,4 @@ id="iv.i.xi-p9.1"></span>Ep. 42<span id="iv.i.xi-p9.1"></span>. 43.
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 11. - IMPIETY OF ATTRIBUTING A VISIBLE FORM TO GOD.THE
-SETTING UP OF IDOLS A DEFECTION FROM THE TRUE GOD.](inst025)
+SETTING UP OF IDOLS A DEFECTION FROM THE TRUE GOD.](inst025.md)

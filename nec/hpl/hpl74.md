@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl73)  [Next](hpl75) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl73)  [Next](hpl75.md) 
 
 ------------------------------------------------------------------------
 
@@ -645,4 +645,4 @@ onyx-traders had in them the blood of the Great Ones.
 
 ------------------------------------------------------------------------
 
-[Next: Part IV](hpl75)
+[Next: Part IV](hpl75.md)

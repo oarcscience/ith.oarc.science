@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti19)  [Next](eti21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti19)  [Next](eti21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -259,7 +259,7 @@ from the hide of a water lizard.
 
 <span id="img_09500"></span> <span align="CENTER"> [![CONFRONTED BY A
 SINGULAR LOOKING BEING.](tn/09500.jpg)  
-Click to enlarge](img/09500.jpg)  
+Click to enlarge](img/09500.jpg.md)  
 “CONFRONTED BY A SINGULAR LOOKING BEING.”  
 </span>
 
@@ -346,4 +346,4 @@ Country.'"
 ------------------------------------------------------------------------
 
 [Next: Chapter XIV. Farewell To God's Sunshine.—The Echo of the
-Cry](eti21)
+Cry](eti21.md)

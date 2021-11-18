@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](eml02)  [Next](eml04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](eml02)  [Next](eml04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCXC6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Egyptian Myth and Legend*, by Donald Mackenzie, \[1907\], at Intangible
 Textual Heritage
 
@@ -63,7 +63,7 @@ the tree, and that Mary washed in the well the swaddling clothes of the
 holy child.
 
 When "Cleopatra's Needle" was erected at On, which is also called
-Beth-shemesh <span id="fr_0"></span>[1](#fn_0), "the house of the sun
+Beth-shemesh <span id="fr_0"></span>[1](#fn_0.md), "the house of the sun
 god", in the Hebrew Scriptures, the priests taught classes of students
 in the temple colleges. For about thirty centuries the city was the
 Oxford of Egypt. Eudoxus and Plato, in the course of their travels,
@@ -417,7 +417,7 @@ boat, which will carry him over the heavens. This reference explains the
 line in the complex hymn to Osiris-Sokar:--
 
 Hail, living soul of Osiris, crowning him with the moon. <span
-id="fr_1"></span>[1](#fn_1)
+id="fr_1"></span>[1](#fn_1.md)
 
 We have now reached a point where Thoth, Osiris, Khonsu, and Ah are one;
 they are but various forms of the archaic moon spirit which was
@@ -437,7 +437,7 @@ His attributes were quite beyond man's comprehension. On the rare
 occasions in which He is mentioned in their writings, He is always
 called 'Neter', i.e. God, and besides this He has no name. The exact
 meaning of the word 'Neter' is unknown." <span
-id="fr_2"></span>[2](#fn_2)
+id="fr_2"></span>[2](#fn_2.md)
 
 Dr. Budge explains the multiplication of Nilotic deities by saying that
 the behests of "God Almighty . . . were performed by a number of gods,
@@ -495,7 +495,7 @@ parts of Wales 'Y Mamau.' (the mothers) is the name for the fairies.
 These grouped goddesses take us back to one of the most interesting
 stages in the early Celtic religion, when the earth spirits or the corn
 spirits had not yet been completely individualized." <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 Representatives of the groups of Egyptian spirits called "the Fathers"
 are found at Memphis, where Ptah, assisted by eight earth gnomes called
@@ -519,14 +519,14 @@ who is called--
 
 The bull, begotten of the two cows, Isis and Nepthys . . .  
 He, the progeny of the two cows, Isis and Nepthys,  
-The child surpassingly beautiful! <span id="fr_4"></span>[1](#fn_4)
+The child surpassingly beautiful! <span id="fr_4"></span>[1](#fn_4.md)
 
 At the same time he is son of "his mother Nut". Osiris has thus three
 mothers. The conception may be difficult to grasp, but we must remember
 that we are dealing with vague beliefs regarding ancient mythological
 beings. Heimdal, the Norse god, had nine mothers, "the daughters of
-sea-dwelling Ran". <span id="fr_5"></span>[2](#fn_5) The Norse god,
-Tyr's grandmother, <span id="fr_6"></span>[3](#fn_6) was a giantess with
+sea-dwelling Ran". <span id="fr_5"></span>[2](#fn_5.md) The Norse god,
+Tyr's grandmother, <span id="fr_6"></span>[3](#fn_6.md) was a giantess with
 nine hundred heads. If we reduce that number to nine, it might be
 suggested that she represented nine primitive earth spirits, which were
 multiplied and individualized by the tellers of wonder tales of
@@ -612,7 +612,7 @@ the "one
 <span id="page_xxxv">p. xxxv</span>
 
 god" was worshipped only "at the appearance of the new moon". <span
-id="fr_7"></span>[1](#fn_7) In Arabia, the "mothers" were also
+id="fr_7"></span>[1](#fn_7.md) In Arabia, the "mothers" were also
 prominent, and certain ethnologists have detected the Mediterranean type
 in that country. But, of course, all peoples who worshipped "mother
 spirits" were not of Mediterranean origin. In this respect, however, the
@@ -627,7 +627,7 @@ Thy mother Nut cometh to thee in peace;
 She hath built up life from her own body.
 
 There cometh unto thee Isis, lady of the horizon,  
-Who hath begotten herself alone. <span id="fr_8"></span>[2](#fn_8)
+Who hath begotten herself alone. <span id="fr_8"></span>[2](#fn_8.md)
 
 According to the Greeks, the Great Mother Neith declared to her
 worshippers--
@@ -689,7 +689,7 @@ is evidently a representative survival of great antiquity. In Ireland
 she degenerated, as did other old gigantic deities, into a historical
 personage. An interesting Highland folk tale states that she existed
 "from the long eternity of the world". She is described as "a great big
-old wife". Her face was "blue black". <span id="fr_9"></span>[1](#fn_9)
+old wife". Her face was "blue black". <span id="fr_9"></span>[1](#fn_9.md)
 and she had a single watery eye on her forehead, but "the sight of it"
 was "as swift as the mackerel of the ocean".
 
@@ -707,7 +707,7 @@ tempests. When she sneezed, she was heard for many miles. But her stormy
 wrath, during the period in spring called in Gaelic "Cailleach", was
 especially roused because her son fled away on a white horse with a
 beautiful bride. The hag pursued him on a steed which leapt ravines as
-nimbly as the giant Arthur's <span id="fr_10"></span>[2](#fn_10) horse
+nimbly as the giant Arthur's <span id="fr_10"></span>[2](#fn_10.md) horse
 leapt over the Bristol Channel. But the
 
 <span id="page_xxxviii">p. xxxviii</span>
@@ -743,10 +743,10 @@ Ra', entered upon the
 <span id="page_xxxix">p. xxxix</span>
 
 task of destroying mankind. Other texts represent her as ancestress of
-part of the human race." <span id="fr_11"></span>[1](#fn_11)
+part of the human race." <span id="fr_11"></span>[1](#fn_11.md)
 
 The oldest deities were evidently those of most savage character. <span
-id="fr_12"></span>[2](#fn_12) Sekhet must, therefore, have been a
+id="fr_12"></span>[2](#fn_12.md) Sekhet must, therefore, have been a
 primitive conception of the Great Mother who rejoiced in slaughter and
 had to be propitiated. The kindly Bast and the lovable Isis, on the
 other hand, seem to be representative of a people who, having grown more
@@ -855,12 +855,12 @@ masonry in the Nile valley if, as seems possible, they effected
 settlement there in very early times. As they were of mountain
 characterization, these ancient artisans may have been Ptah worshippers.
 
-The Pyramids evolved from mastabas. <span id="fr_13"></span>[1](#fn_13)
+The Pyramids evolved from mastabas. <span id="fr_13"></span>[1](#fn_13.md)
 Now in Palestine there are. to the north of Jerusalem, "remarkable
 prehistoric monuments". These, Professor Macalister says, "consist of
 long, broad walls in one of which a chamber and shaft have been made,
 happily compared by Père Vincent to an Egyptian mastaba". <span
-id="fr_14"></span>[2](#fn_14)
+id="fr_14"></span>[2](#fn_14.md)
 
 Legends regarding this tall people make reference to giants, and it is
 possible that with other mountain folk their hilltop deities, with whom
@@ -948,7 +948,7 @@ soul possesseth the earth".
 
 In Asia Minor, where the broad-headed patriarchal Alpine hill people
 blended with the long-headed matriarchal Mediterranean people, the
-Pappas <span id="fr_15"></span>[1](#fn_15) god (Attis, Adon) became
+Pappas <span id="fr_15"></span>[1](#fn_15) god (Attis, Adon.md) became
 likewise the husband of the Ma goddess (Nana). A mythological scene
 sculptured upon a cliff at Ibreez in Cappadocia is supposed to represent
 the marriage of the two Great Father and Mother deities, and. it is
@@ -1026,7 +1026,7 @@ deep. Less poetic, but more popular, apparently, was the comedy about
 the chaos goose which was called "Great Cackler", because at the
 beginning she cackled loudly to the chaos gander and laid an egg, which
 was the sun. Ra was identified with the historical egg <span
-id="fr_16"></span>[1](#fn_16), but at Heliopolis the priests claimed
+id="fr_16"></span>[1](#fn_16.md), but at Heliopolis the priests claimed
 that it was shaped by Ptah on his potter's wheel; Khnûmû, the other
 artisan god, was similarly
 
@@ -1083,7 +1083,7 @@ The second chapter is devoted to the Osiris and Isis legends, which
 shows that these deities have both a tribal and seasonal significance.
 In the chapters which follow, special attention is devoted to the
 periods in which the religious myths were formulated and the greater
-gods came into prominence <span id="fr_17"></span>[1](#fn_17), while
+gods came into prominence <span id="fr_17"></span>[1](#fn_17.md), while
 light is thrown on the beliefs and customs of the ancient people of
 Egypt by popular renderings of representative folk tales and metrical
 versions of selected songs and poems.
@@ -1092,44 +1092,44 @@ versions of selected songs and poems.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xviii:1](eml03.htm#fr_0) The Babylonian form is
+<span id="fn_0"></span>[xviii:1](eml03.htm#fr_0.md) The Babylonian form is
 "shamash".
 
-<span id="fn_1"></span>[xxix:1](eml03.htm#fr_1) The *Burden of Isis*,
+<span id="fn_1"></span>[xxix:1](eml03.htm#fr_1.md) The *Burden of Isis*,
 Dennis, p. 54.
 
-<span id="fn_2"></span>[xxix:2](eml03.htm#fr_2) Osiris-Sokar is also
+<span id="fn_2"></span>[xxix:2](eml03.htm#fr_2.md) Osiris-Sokar is also
 "the mysterious one, he who is unknown to mankind", and the "hidden god"
 (*The Burden of Isis*, Dennis, pp. 53, 54).
 
-<span id="fn_3"></span>[xxxi:1](eml03.htm#fr_3) Herodotus says: "The
+<span id="fn_3"></span>[xxxi:1](eml03.htm#fr_3.md) Herodotus says: "The
 Pelasgians did not distinguish the gods by name or surname. . . . They
 called them gods, which by its etymology means 'disposers'" (fates).
 
-<span id="fn_4"></span>[xxxii:1](eml03.htm#fr_4) *The Burden of Isis*
+<span id="fn_4"></span>[xxxii:1](eml03.htm#fr_4.md) *The Burden of Isis*
 (Wisdom of the East), James Teackle Dennis.
 
-<span id="fn_5"></span>[xxxii:2](eml03.htm#fr_5) See *Teutonic Myth and
+<span id="fn_5"></span>[xxxii:2](eml03.htm#fr_5.md) See *Teutonic Myth and
 Legend*.
 
-<span id="fn_6"></span>[xxxii:3](eml03.htm#fr_6) There is no trace in
+<span id="fn_6"></span>[xxxii:3](eml03.htm#fr_6.md) There is no trace in
 Egypt of a "grandmother" or of a "great grandmother" like "Edda" of
 Iceland. With "the mother", however, these may represent a triad of
 nature spirits. A basis of Mediterranean beliefs is traceable in Norse
 mythology.
 
-<span id="fn_7"></span>[xxxv:1](eml03.htm#fr_7) The Accadians also
+<span id="fn_7"></span>[xxxv:1](eml03.htm#fr_7.md) The Accadians also
 believed that the moon had prior existence to the sun.
 
-<span id="fn_8"></span>[xxxv:2](eml03.htm#fr_8) *The Burden of Isis*,
+<span id="fn_8"></span>[xxxv:2](eml03.htm#fr_8.md) *The Burden of Isis*,
 Dennis.
 
-<span id="fn_9"></span>[xxxvii:1](eml03.htm#fr_9) The Egyptians would
+<span id="fn_9"></span>[xxxvii:1](eml03.htm#fr_9.md) The Egyptians would
 have said "true lapis lazuli". The face of the Libyan goddess Neith was
 green. Isis was "the green one whose greenness is like the greenness of
 earth" (Brugsch).
 
-<span id="fn_10"></span>[xxxvii:2](eml03.htm#fr_10) Arthur of "the round
+<span id="fn_10"></span>[xxxvii:2](eml03.htm#fr_10.md) Arthur of "the round
 table" was originally a giant, and, like other giants, became associated
 with the fairies. "Arthur's Seat", Edinburgh, is reminiscent of his
 <span id="page_xxxviii">p. xxxviii</span> giant form. If there was once
@@ -1137,40 +1137,40 @@ a king named Arthur, who was a popular hero, his name may have been
 given to a giant god originally nameless. The Eildon Hills giant was
 called Wallace.
 
-<span id="fn_11"></span>[xxxix:1](eml03.htm#fr_11) *Religion of the
+<span id="fn_11"></span>[xxxix:1](eml03.htm#fr_11.md) *Religion of the
 Ancient Egyptians*, A. Wiedemann. In old Arabia the sun deity was
 female, and there are traces of a sun goddess among the earlier Hittites
 (H. Winckler, *Mitteilungen der Deutschen Orient-Gesellschaft*; Berlin,
 1907).
 
-<span id="fn_12"></span>[xxxix:2](eml03.htm#fr_12) Ra, in one of the
+<span id="fn_12"></span>[xxxix:2](eml03.htm#fr_12.md) Ra, in one of the
 Isis temple chants, "hath produced calamity after the desire of thy
 (Osiris's) heart," and Osiris-Sokar is "the lord of fear who causeth
 himself to come into being". Sokar, who fused with Ra and Osiris, is one
 of the oldest Egyptian deities.
 
-<span id="fn_13"></span>[xlii:1](eml03.htm#fr_13) Oblong platform tombs
+<span id="fn_13"></span>[xlii:1](eml03.htm#fr_13.md) Oblong platform tombs
 which were constructed of limestone. The body was concealed in a secret
 chamber. See chapter VIII.
 
-<span id="fn_14"></span>[xlii:2](eml03.htm#fr_14) *A History of
+<span id="fn_14"></span>[xlii:2](eml03.htm#fr_14.md) *A History of
 Civilization in Palestine*, R. A. S. Macalister.
 
-<span id="fn_15"></span>[xlv:1](eml03.htm#fr_15) 'The Phrygian name of
+<span id="fn_15"></span>[xlv:1](eml03.htm#fr_15.md) 'The Phrygian name of
 the father deity, also called "Bagaios" (Slav, *bogu* god). The roots
 "pa", "ap", "da", "ad", "ta", and "at" signify "father", while "ma",
 "am", "na", and "an" signify "mother".
 
-<span id="fn_16"></span>[xlvii:1](eml03.htm#fr_16) The "soul and egg"
+<span id="fn_16"></span>[xlvii:1](eml03.htm#fr_16.md) The "soul and egg"
 myth is dealt with in Chapter V.
 
-<span id="fn_17"></span>[xlix:1](eml03.htm#fr_17) Aten worship is dealt
+<span id="fn_17"></span>[xlix:1](eml03.htm#fr_17.md) Aten worship is dealt
 with fully in its relation to primitive Egyptian myths in Chapter XXVI.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Creation Legend of Sun Worshippers](eml04)
+[Next: Chapter I: Creation Legend of Sun Worshippers](eml04.md)
 
 </div>

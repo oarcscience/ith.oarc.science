@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont37)  [Next](ont39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont37)  [Next](ont39.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -49,7 +49,7 @@ no lodges, nor people;
 
 <span id="img_45600"></span> <span align="CENTER"> [![THREE LODGES OF
 BRAVE DOG SOCIETY NEAR THE CENTRE OF ENCAMPMENT.](tn/45600.jpg)  
-Click to enlarge](img/45600.jpg)  
+Click to enlarge](img/45600.jpg.md)  
 THREE LODGES OF BRAVE DOG SOCIETY NEAR THE CENTRE OF ENCAMPMENT.  
 </span>
 
@@ -65,7 +65,7 @@ been left behind. A
 <span id="img_45700"></span> <span align="CENTER"> [![INTERIOR OF
 SOCIETY LODGE SHOWING MANNER OF HANGING CLOTHES AND
 HEADDRESSES.](tn/45700.jpg)  
-Click to enlarge](img/45700.jpg)  
+Click to enlarge](img/45700.jpg.md)  
 INTERIOR OF SOCIETY LODGE SHOWING MANNER OF HANGING CLOTHES AND
 HEADDRESSES.  
 </span>
@@ -89,7 +89,7 @@ dream, Red Blanket followed the dog spirit into the bushes, where he saw
 <span id="img_45800"></span> <span align="CENTER"> [![BUCKSKIN SHIRT OF
 MAD DOG SOCIETY.&lt;br&gt; (Decorated with beads and trimmed with
 ermine.)](tn/45800.jpg)  
-Click to enlarge](img/45800.jpg)  
+Click to enlarge](img/45800.jpg.md)  
 BUCKSKIN SHIRT OF MAD DOG SOCIETY.  
 (Decorated with beads and trimmed with ermine.)  
 </span>
@@ -111,7 +111,7 @@ prominent chiefs, Many Eagles, Lost Feather,
 
 <span id="img_45900"></span> <span align="CENTER"> [![BUCKSKIN
 LEGGING.](tn/45900.jpg)  
-Click to enlarge](img/45900.jpg)  
+Click to enlarge](img/45900.jpg.md)  
 BUCKSKIN LEGGING.  
 </span>
 
@@ -133,7 +133,7 @@ went to the head chief's tipi, where we danced four times, and then we
 
 <span id="img_46000"></span> <span align="CENTER"> [![BUCKSKIN SHIRT
 FRINGED AND DECORATED WITH COLOURED PORCUPINE QUILLS.](tn/46000.jpg)  
-Click to enlarge](img/46000.jpg)  
+Click to enlarge](img/46000.jpg.md)  
 BUCKSKIN SHIRT FRINGED AND DECORATED WITH COLOURED PORCUPINE QUILLS.  
 </span>
 
@@ -272,7 +272,7 @@ food and secured equal opportunities
 
 for all. They strictly enforced the rule that private advantages must be
 surrendered to the public good. Under the exercise of such police
-regulations <span id="fr_42"></span>[1](#fn_38) and the enjoyment by all
+regulations <span id="fr_42"></span>[1](#fn_38.md) and the enjoyment by all
 of equal rights and a joint ownership of game and lands, no individual
 could claim or enjoy special privileges. The roaming herds of buffalo, a
 gift from the Great Spirit in the Sun, and their chief source of food
@@ -300,10 +300,10 @@ their commands."
 
 ### Footnotes
 
-<span id="fn_38"></span>[465:1](ont38.htm#fr_42) See
-[Appendix](ont44.htm#an_465).
+<span id="fn_38"></span>[465:1](ont38.htm#fr_42.md) See
+[Appendix](ont44.htm#an_465.md).
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXXVI. Legends of the Friendly Medicine Grizzly and the
-Friendly Medicine Wolf](ont39)
+Friendly Medicine Wolf](ont39.md)

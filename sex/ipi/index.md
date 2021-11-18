@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,18 +16,18 @@ Sexuality](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](ipi00)  
-[Introduction](ipi01)  
-[Circumcision](ipi02)  
-[Serpent Symbolism Associated With Phallic Worship](ipi03)  
-[The Tree of Knowledge of Good and Evil](ipi04)  
-[Source of the Legend of the Fall of Man](ipi05)  
-[Hermae, Termini, Pillars and Groves](ipi06)  
-[The Great Religious Movement of Archaic Time](ipi07)  
-[The Hebrew Identified With Ethnic Religions.](ipi08)  
-[The Sun-Gods of Antiquity](ipi09)  
-[Lesley's Arkite Symbolism](ipi10)  
-[Phallism in the Modern Religions](ipi11)  
-[Serpent-Worship a Vishnavic Custom](ipi12)  
-[Phallism in the Christian Symbols](ipi13)  
-[Footnotes](ipi14)  
+[Title Page](ipi00.md)  
+[Introduction](ipi01.md)  
+[Circumcision](ipi02.md)  
+[Serpent Symbolism Associated With Phallic Worship](ipi03.md)  
+[The Tree of Knowledge of Good and Evil](ipi04.md)  
+[Source of the Legend of the Fall of Man](ipi05.md)  
+[Hermae, Termini, Pillars and Groves](ipi06.md)  
+[The Great Religious Movement of Archaic Time](ipi07.md)  
+[The Hebrew Identified With Ethnic Religions.](ipi08.md)  
+[The Sun-Gods of Antiquity](ipi09.md)  
+[Lesley's Arkite Symbolism](ipi10.md)  
+[Phallism in the Modern Religions](ipi11.md)  
+[Serpent-Worship a Vishnavic Custom](ipi12.md)  
+[Phallism in the Christian Symbols](ipi13.md)  
+[Footnotes](ipi14.md)  

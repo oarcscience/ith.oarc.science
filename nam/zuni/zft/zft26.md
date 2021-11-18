@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft25)  [Next](zft27) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft25)  [Next](zft27.md) 
 
 ------------------------------------------------------------------------
 
@@ -376,4 +376,4 @@ Thus shortens my story.
 ------------------------------------------------------------------------
 
 [Next: The Ugly Wild Boy Who Drove The Bear Away From South-Eastern
-Mesa](zft27)
+Mesa](zft27.md)

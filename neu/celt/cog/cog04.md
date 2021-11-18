@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cog03)  [Next](cog05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cog03)  [Next](cog05.md) 
 
 ------------------------------------------------------------------------
 
@@ -736,4 +736,4 @@ bearing the Philosopher with them to answer a charge of murder.
 
 ------------------------------------------------------------------------
 
-[Next: Book 5--The Policemen](cog05)
+[Next: Book 5--The Policemen](cog05.md)

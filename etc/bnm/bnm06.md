@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm05)  [Next](bnm07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm05)  [Next](bnm07.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ proud as he was.
 
 ------------------------------------------------------------------------
 
-[Next: Why The Cat Always Falls Upon Her Feet.](bnm07)
+[Next: Why The Cat Always Falls Upon Her Feet.](bnm07.md)

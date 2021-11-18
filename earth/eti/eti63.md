@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -276,7 +276,7 @@ Professor John Uri Lloyd has done in his Etidorhpa.
 For eighteen years the writer has been seated at his desk, and all kinds
 of books have been passed in review, but has never before met with such
 a stumper as Etidorhpa. Its name is a stunner, and its title-page,
-head-lines, and [weird](errata.htm#3), artistic pictures send you
+head-lines, and [weird](errata.htm#3.md), artistic pictures send you
 
 |                               |
 |-------------------------------|
@@ -316,7 +316,7 @@ debasing influences of earth, and aspires to a pure and noble existence,
 as beautiful and as true to the existing conditions of human life as
 Bunyan's Pilgrim's Progress. The sorrow; the struggle with self; the
 physical burdens; the indescribable temptations with the presence and
-assistance of those who would assist in [overcoming](errata.htm#4) them;
+assistance of those who would assist in [overcoming](errata.htm#4.md) them;
 the dark hours, Vanity Fair, and the Beulahland, are all there.
 
  

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar123) [Next](gbar125)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar123) [Next](gbar125.md)
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ these three heads do thou avoid, because it is most evil.
 
 ------------------------------------------------------------------------
 
-[Next](gbar125)
+[Next](gbar125.md)

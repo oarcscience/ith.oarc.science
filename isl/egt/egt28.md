@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt27)  [Next](egt29) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt27)  [Next](egt29.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ and foot of Wisdom are at its side.
 
 ------------------------------------------------------------------------
 
-[Next: THE PARABLE OF THE EYE OF THE SQUINT-EYED.](egt29)
+[Next: THE PARABLE OF THE EYE OF THE SQUINT-EYED.](egt29.md)

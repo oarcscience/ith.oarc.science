@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc44)  [Next](osc46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc44)  [Next](osc46.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ but of the fact itself doubt diminishes every year that passes.
 
 ------------------------------------------------------------------------
 
-[Next: (5) Palmistry](osc46)
+[Next: (5) Palmistry](osc46.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl64)  [Next](hpl66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl64)  [Next](hpl66.md) 
 
 ------------------------------------------------------------------------
 
@@ -891,4 +891,4 @@ times almost rose to the intensity of a material emanation.
 
 ------------------------------------------------------------------------
 
-[Next: V. A Nightmare and a Cataclysm](hpl66)
+[Next: V. A Nightmare and a Cataclysm](hpl66.md)

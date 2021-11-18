@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst076)  [Next](inst078) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst076)  [Next](inst078.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ exception disposed of.
 nature and the mode in which it is dispensed. 2. By the word of God. 3.
 By the calling of Abraham, the father of the faithful. 4. By the
 testimony of <span id="iv.iii.xxv-p5.1"></span>[John.
-5](../../../bib/kjv/joh005.htm#000)<span id="iv.iii.xxv-p5.1"></span>.
+5](../../../bib/kjv/joh005.htm#000.md)<span id="iv.iii.xxv-p5.1"></span>.
 By the example of those who have been called.
 
 <span id="iv.iii.xxv-p6"></span>3. The pure doctrine of the calling of
@@ -119,8 +119,8 @@ his calling. “For whom he did foreknow, he also did predestinate to be
 conformed to the image of his Son.” Moreover, “whom he did predestinate,
 them he also called; and whom he called, them he also justified,” that
 he may one day glorify (<span id="iv.iii.xxv-p21.1"></span>[Rom.
-8:29](../../../bib/kjv/rom008.htm#029),
-[30](../../../bib/kjv/rom008.htm#030)<span
+8:29](../../../bib/kjv/rom008.htm#029.md),
+[30](../../../bib/kjv/rom008.htm#030.md)<span
 id="iv.iii.xxv-p21.1"></span>). Though the Lord, by electing his people,
 adopted them as his sons, we, however, see that they do not come into
 possession of this great good until they are called; but when called,
@@ -135,22 +135,22 @@ however, teaches his elect effectually when he brings them to faith, as
 we formerly quoted from the words of our Savior, “Not that any man has
 seen the Father, save he which is of God, he has seen the Father,”
 (<span id="iv.iii.xxv-p21.2"></span>[John
-6:46](../../../bib/kjv/joh006.htm#046)<span
+6:46](../../../bib/kjv/joh006.htm#046.md)<span
 id="iv.iii.xxv-p21.2"></span>). Again, “I have manifested thy name unto
 the men which thou gavest me out of the world,” (<span
 id="iv.iii.xxv-p21.3"></span>[John
-17:6](../../../bib/kjv/joh017.htm#006)<span
+17:6](../../../bib/kjv/joh017.htm#006.md)<span
 id="iv.iii.xxv-p21.3"></span>). He says in another passage, “No man can
 come to me, except the Father which has sent me draw him,” (<span
 id="iv.iii.xxv-p21.4"></span>[John
-6:44](../../../bib/kjv/joh006.htm#044)<span
+6:44](../../../bib/kjv/joh006.htm#044.md)<span
 id="iv.iii.xxv-p21.4"></span>). This passage Augustine ably expounds in
 these words: “If (as Truth says) every one who has learned comes, then
 every one who does not come has not learned. It does not therefore
 follows that he who can come does come, unless he have willed and done
 it; but every one who has learned of the Father, not only can come, but
 also comes; the antecedence of possibility50  <span
-id="fr_499"></span>[500](#fn_499) the affection of will, and the effect
+id="fr_499"></span>[500](#fn_499.md) the affection of will, and the effect
 of action being now present,” (August. de Grat. Chr. Cont. Pelag., Lib.
 1, c. 14, 31). In another passage, he says still more clearly, “What
 means, Every one that has heard and learned of the Father comes unto me,
@@ -179,7 +179,7 @@ chosen. When we come to election, mercy alone everywhere appears; and,
 accordingly, in this the saying of Paul is truly realized, “So then, it
 is not of him that willeth, nor of him that runneth, but of God that
 showeth mercy,” (<span id="iv.iii.xxv-p22.1"></span>[Rom.
-9:16](../../../bib/kjv/rom009.htm#016)<span
+9:16](../../../bib/kjv/rom009.htm#016.md)<span
 id="iv.iii.xxv-p22.1"></span>); and that not as is commonly understood
 by those who share the result between the grace of God and the will and
 agency of man. For their exposition is, that the desire and endeavor of
@@ -210,12 +210,12 @@ the prophet, “I am sought of them that asked not for me: I am found of
 them that sought me not: I said, Behold me, behold me, unto a nation
 that was not called by my name,” (<span
 id="iv.iii.xxv-p23.1"></span>[Isaiah
-65:1](../../../bib/kjv/isa065.htm#001)<span
+65:1](../../../bib/kjv/isa065.htm#001.md)<span
 id="iv.iii.xxv-p23.1"></span>). And lest the Jews should think that that
 mercy applied only to the Gentiles, he calls to their remembrance whence
 it was he took their father Abraham when he condescended to be his
 friend (<span id="iv.iii.xxv-p23.2"></span>[Isaiah
-41:8](../../../bib/kjv/isa041.htm#008)<span
+41:8](../../../bib/kjv/isa041.htm#008.md)<span
 id="iv.iii.xxv-p23.2"></span>); namely, from the midst of idolatry, in
 which he was plunged with all his people. When he first shines with the
 light of his word on the undeserving, he gives a sufficiently clear
@@ -227,7 +227,7 @@ agency of his Spirit. Therefore, this inward calling is an infallible
 pledge of salvation. Hence the words of John, “Hereby we know that he
 abideth in us by the Spirit which he has given us,” (<span
 id="iv.iii.xxv-p23.3"></span>[1 John
-3:24](../../../bib/kjv/jo1003.htm#024)<span
+3:24](../../../bib/kjv/jo1003.htm#024.md)<span
 id="iv.iii.xxv-p23.3"></span>). And lest the flesh should glory, in at
 least responding to him, when he calls and spontaneously offers himself,
 he affirms that there would be no ears to hear, no eyes to see, did not
@@ -237,7 +237,7 @@ when the Jews and Gentiles in common heard the discourse of Paul and
 Barnabas. Though they were all instructed in the same word, it is said,
 that “as many as were ordained to eternal life believed,” (<span
 id="iv.iii.xxv-p23.4"></span>[Acts
-13:48](../../../bib/kjv/act013.htm#048)<span
+13:48](../../../bib/kjv/act013.htm#048.md)<span
 id="iv.iii.xxv-p23.4"></span>). How can we deny that calling is
 gratuitous, when election alone reigns in it even to its conclusion?
 
@@ -267,7 +267,7 @@ salvation, we must begin with the word, and that our confidence ought to
 go no farther than the word when we invoke God the Father. For some to
 obtain more certainty of the counsel of God (which is nigh us in our
 mouth, and in our heart, <span id="iv.iii.xxv-p24.1"></span>[Deut.
-30:14](../../../bib/kjv/deu030.htm#014)<span
+30:14](../../../bib/kjv/deu030.htm#014.md)<span
 id="iv.iii.xxv-p24.1"></span>), absurdly desire to fly above the clouds.
 We must, therefore, curb that temerity by the soberness of faith, and be
 satisfied to have God as the witness of his hidden grace in the external
@@ -320,7 +320,7 @@ which they daily receive from the hand of God originate in that secret
 adoption, as they themselves express it in Isaiah, “Thou hast done
 wonderful things; thy counsels of old are faithfulness and truth,”
 (<span id="iv.iii.xxv-p26.1"></span>[Isa.
-25:1](../../../bib/kjv/isa025.htm#001)<span
+25:1](../../../bib/kjv/isa025.htm#001.md)<span
 id="iv.iii.xxv-p26.1"></span>). For with this as a pledge, God is
 pleased to assure us of as much of his counsel as can be lawfully known.
 But lest any should think that testimony weak, let us consider what
@@ -345,7 +345,7 @@ at rest,” (Bernard, super Cantic. Serm. 14).
 <span id="iv.iii.xxv-p27"></span>5. First, if we seek for the paternal
 mercy and favor of God, we must turn our eyes to Christ, in whom alone
 the Father is well pleased (<span id="iv.iii.xxv-p27.1"></span>[Mt.
-3:17](../../../bib/kjv/mat003.htm#017)<span
+3:17](../../../bib/kjv/mat003.htm#017.md)<span
 id="iv.iii.xxv-p27.1"></span>). When we seek for salvation, life, and a
 blessed immortality, to him also must we retake ourselves, since he
 alone is the fountain of life and the anchor of salvation, and the heir
@@ -356,7 +356,7 @@ discuss you will perceive that in its ultimate object it goes no
 farther. Hence, those whom God has adopted as sons, he is said to have
 elected, not in themselves, but in Christ Jesus (<span
 id="iv.iii.xxv-p27.2"></span>[Eph.
-1:4](../../../bib/kjv/eph001.htm#004)<span
+1:4](../../../bib/kjv/eph001.htm#004.md)<span
 id="iv.iii.xxv-p27.2"></span>); because he could love them only in him,
 and only as being previously made partakers with him, honor them with
 the inheritance of his kingdom. But if we are elected in him, we cannot
@@ -371,20 +371,20 @@ strong that we are written in the Book of Life. Moreover, he admitted us
 to sure communion with himself, when, by the preaching of the gospel, he
 declared that he was given us by the Father, to be ours with all his
 blessings (<span id="iv.iii.xxv-p27.3"></span>[Rom.
-8:32](../../../bib/kjv/rom008.htm#032)<span
+8:32](../../../bib/kjv/rom008.htm#032.md)<span
 id="iv.iii.xxv-p27.3"></span>). We are said to be clothed with him, to
 be one with him, that we may live, because he himself lives. The
 doctrine is often repeated, “God so loved the world, that he gave his
 only begotten Son, that whosoever believeth in him should not perish,
 but have everlasting life,” (<span id="iv.iii.xxv-p27.4"></span>[John
-3:16](../../../bib/kjv/joh003.htm#016)<span
+3:16](../../../bib/kjv/joh003.htm#016.md)<span
 id="iv.iii.xxv-p27.4"></span>). He who believes in him is said to have
 passed from death unto life (<span id="iv.iii.xxv-p27.5"></span>[John
-5:24](../../../bib/kjv/joh005.htm#024)<span
+5:24](../../../bib/kjv/joh005.htm#024.md)<span
 id="iv.iii.xxv-p27.5"></span>). In this sense he calls himself the
 *bread of life*, of which if a man eat, he shall never die (<span
 id="iv.iii.xxv-p27.6"></span>[John
-6:35](../../../bib/kjv/joh006.htm#035)<span
+6:35](../../../bib/kjv/joh006.htm#035.md)<span
 id="iv.iii.xxv-p27.6"></span>). He, I say, was our witness, that all by
 whom he is received in faith will be regarded by our heavenly Father as
 sons. If we long for more than to be regarded as sons of God and heirs,
@@ -415,7 +415,7 @@ be committed and entrusted to him by the Father, that they may be kept
 unto life eternal. What would we have? Christ proclaims aloud that all
 whom the Father is pleased to save he has delivered into his protection
 (<span id="iv.iii.xxv-p28.1"></span>[John
-6:37-39](../../../bib/kjv/joh006.htm#037)<span
+6:37-39](../../../bib/kjv/joh006.htm#037.md)<span
 id="iv.iii.xxv-p28.1"></span>, 17:6, 12). Therefore, if we would know
 whether God cares for our salvation, let us ask whether he has committed
 us to Christ, whom he has appointed to be the only Savior of all his
@@ -423,26 +423,26 @@ people. Then, if we doubt whether we are received into the protection of
 Christ, he obviates the doubt when he spontaneously offers himself as
 our Shepherd, and declares that we are of the number of his sheep if we
 hear his voice (<span id="iv.iii.xxv-p28.2"></span>[John
-10:3](../../../bib/kjv/joh010.htm#003),
-[16](../../../bib/kjv/joh010.htm#016)<span
+10:3](../../../bib/kjv/joh010.htm#003.md),
+[16](../../../bib/kjv/joh010.htm#016.md)<span
 id="iv.iii.xxv-p28.2"></span>). Let us, therefore, embrace Christ, who
 is kindly offered to us, and comes forth to meet us: he will number us
 among his flock, and keep us within his fold. But anxiety arises as to
-our future state.50  <span id="fr_500"></span>[501](#fn_500) For as Paul
+our future state.50  <span id="fr_500"></span>[501](#fn_500.md) For as Paul
 teaches, that those are called who were previously elected, so our
 Savior shows that many are called, but few chosen (<span
 id="iv.iii.xxv-p29.1"></span>[Mt.
-22:14](../../../bib/kjv/mat022.htm#014)<span
+22:14](../../../bib/kjv/mat022.htm#014.md)<span
 id="iv.iii.xxv-p29.1"></span>). Nay, even Paul himself dissuades us from
 security, when he says, “Let him that thinketh he standeth take heed
 lest he fall,” (<span id="iv.iii.xxv-p29.2"></span>[1 Cor.
-10:12](../../../bib/kjv/co1010.htm#012)<span
+10:12](../../../bib/kjv/co1010.htm#012.md)<span
 id="iv.iii.xxv-p29.2"></span>). And again, “Well, because of unbelief
 they were broken off, and thou standest by faith. Be not high-minded,
 but fear: for if God spared not the natural branches, take heed lest he
 also spare not thee,” (<span id="iv.iii.xxv-p29.3"></span>[Rom.
-11:20](../../../bib/kjv/rom011.htm#020),
-[21](../../../bib/kjv/rom011.htm#021)<span
+11:20](../../../bib/kjv/rom011.htm#020.md),
+[21](../../../bib/kjv/rom011.htm#021.md)<span
 id="iv.iii.xxv-p29.3"></span>). In fine, we are sufficiently taught by
 experience itself, that calling and faith are of little value without
 perseverance, which, however, is not the gift of all. But Christ has
@@ -452,43 +452,43 @@ shall come to me, and him that comes to me I will in no wise cast out.”
 Again, “This is the will of him that sent me, that of all which he has
 given me I should lose nothing; but should raise it up at the last day,”
 (<span id="iv.iii.xxv-p29.4"></span>[John
-6:37](../../../bib/kjv/joh006.htm#037),
-[39](../../../bib/kjv/joh006.htm#039)<span
+6:37](../../../bib/kjv/joh006.htm#037.md),
+[39](../../../bib/kjv/joh006.htm#039.md)<span
 id="iv.iii.xxv-p29.4"></span>). Again “My sheep hear my voice, and I
 know them, and they follow me: and I give unto them eternal life, and
 they shall never perish, neither shall any man pluck them out of my
 hand. My Father which gave them me is greater than all: and no man is
 able to pluck them out of my Father’s hand,” (<span
 id="iv.iii.xxv-p29.5"></span>[John
-10:27](../../../bib/kjv/joh010.htm#027),
-[28](../../../bib/kjv/joh010.htm#028)<span
+10:27](../../../bib/kjv/joh010.htm#027.md),
+[28](../../../bib/kjv/joh010.htm#028.md)<span
 id="iv.iii.xxv-p29.5"></span>). Again, when he declares, “Every plant
 which my heavenly Father has not planted shall be rooted up,” (<span
 id="iv.iii.xxv-p29.6"></span>[Mt.
-15:13](../../../bib/kjv/mat015.htm#013)<span
+15:13](../../../bib/kjv/mat015.htm#013.md)<span
 id="iv.iii.xxv-p29.6"></span>), he intimates conversely that those who
 have their root in God can never be deprived of their salvation.
 Agreeable to this are the words of John, “If they had been of us, they
 would no doubt have continued with us,” (<span
 id="iv.iii.xxv-p29.7"></span>[1 John
-2:19](../../../bib/kjv/jo1002.htm#019)<span
+2:19](../../../bib/kjv/jo1002.htm#019.md)<span
 id="iv.iii.xxv-p29.7"></span>). Hence, also, the magnificent triumph of
 Paul over life and death, things present, and things to come (<span
 id="iv.iii.xxv-p29.8"></span>[Rom.
-8:38](../../../bib/kjv/rom008.htm#038)<span
+8:38](../../../bib/kjv/rom008.htm#038.md)<span
 id="iv.iii.xxv-p29.8"></span>). This must be founded on the gift of
 perseverance. There is no doubt that he employs the sentiment as
 applicable to all the elect. Paul elsewhere says, “Being confident of
 this very thing, that he who has begun a good work in you will perform
 it until the day of Jesus Christ,” (<span
 id="iv.iii.xxv-p29.9"></span>[Phil.
-1:6](../../../bib/kjv/phi001.htm#006)<span
+1:6](../../../bib/kjv/phi001.htm#006.md)<span
 id="iv.iii.xxv-p29.9"></span>). David, also, when his faith threatened
 to fail, leant on this support, “Forsake not the works of thy hands.”
 Moreover, it cannot be doubted, that since Christ prays for all the
 elect, he asks the same thing for them as he asked for Peter—viz. that
 their faith fail not (<span id="iv.iii.xxv-p29.10"></span>[Luke
-22:32](../../../bib/kjv/luk022.htm#032)<span
+22:32](../../../bib/kjv/luk022.htm#032.md)<span
 id="iv.iii.xxv-p29.10"></span>). Hence we infer, that there is no danger
 of their falling away, since the Son of God, who asks that their piety
 may prove constant, never meets with a refusal. What then did our Savior
@@ -505,7 +505,7 @@ certainty of our election is established: “They went out from us,” says
 John, “but they were not of us; for if they had been of us, they would,
 no doubt, have continued with us,” (<span
 id="iv.iii.xxv-p30.1"></span>[1 John
-2:19](../../../bib/kjv/jo1002.htm#019)<span
+2:19](../../../bib/kjv/jo1002.htm#019.md)<span
 id="iv.iii.xxv-p30.1"></span>). I deny not that they have signs of
 calling similar to those given to the elect; but I do not at all admit
 that they have that sure confirmation of election which I desire
@@ -515,14 +515,14 @@ promise of the Lord, when he declares that all by whom he is received in
 true faith have been given him by the Father, and that none of them,
 while he is their Guardian and Shepherd, will perish (<span
 id="iv.iii.xxv-p30.2"></span>[John
-3:16](../../../bib/kjv/joh003.htm#016)<span
+3:16](../../../bib/kjv/joh003.htm#016.md)<span
 id="iv.iii.xxv-p30.2"></span>; 6:39). Of Judas we shall shortly speak
 (sec. 9). Paul does not dissuade Christians from security simply, but
 from careless, carnal security, which is accompanied with pride,
 arrogance, and contempt of others, which extinguishes humility and
 reverence for God, and produces a forgetfulness of grace received (<span
 id="iv.iii.xxv-p30.3"></span>[Rom.
-11:20](../../../bib/kjv/rom011.htm#020)<span
+11:20](../../../bib/kjv/rom011.htm#020.md)<span
 id="iv.iii.xxv-p30.3"></span>). For he is addressing the Gentiles, and
 showing them that they ought not to exult proudly and cruelly over the
 Jews, in consequence of whose rejection they had been substituted in
@@ -531,7 +531,7 @@ in alarm, but a fear which, teaching us to receive the grace of God in
 humility, does not impair our confidence in it, as has elsewhere been
 said. We may add, that he is not speaking to individuals, but to sects
 in general (see <span id="iv.iii.xxv-p30.4"></span>[1 Cor.
-10:12](../../../bib/kjv/co1010.htm#012)<span
+10:12](../../../bib/kjv/co1010.htm#012.md)<span
 id="iv.iii.xxv-p30.4"></span>). The Church having been divided into two
 parties, and rivalship producing dissension, Paul reminds the Gentiles
 that their having been substituted in the place of a peculiar and holy
@@ -544,7 +544,7 @@ nature than to be in doubt as to our future destiny.
 <span id="iv.iii.xxv-p31"></span>8. The expression of our Savior, “Many
 are called, but few are chosen,” (<span
 id="iv.iii.xxv-p31.1"></span>[Mt.
-22:14](../../../bib/kjv/mat022.htm#014)<span
+22:14](../../../bib/kjv/mat022.htm#014.md)<span
 id="iv.iii.xxv-p31.1"></span>), is also very improperly interpreted (see
 Book 3, chap. 2, sec. 11, 12). There will be no ambiguity in it, if we
 attend to what our former remarks ought to have made clear—viz. that
@@ -580,8 +580,8 @@ their election. The former call is common to the wicked, the latter
 brings with it the spirit of regeneration, which is the earnest and seal
 of the future inheritance by which our hearts are sealed unto the day of
 the Lord (<span id="iv.iii.xxv-p31.2"></span>[Eph.
-1:13](../../../bib/kjv/eph001.htm#013),
-[14](../../../bib/kjv/eph001.htm#014)<span
+1:13](../../../bib/kjv/eph001.htm#013.md),
+[14](../../../bib/kjv/eph001.htm#014.md)<span
 id="iv.iii.xxv-p31.2"></span>). In one word, while hypocrites pretend to
 piety, just as if they were true worshipers of God, Christ declares that
 they will ultimately be ejected from the place which they improperly
@@ -589,12 +589,12 @@ occupy, as it is said in the psalm, “Lord, who shall abide in thy
 tabernacle? who shall dwell in thy holy hill? He that walketh uprightly,
 and worketh righteousness, and speaketh the truth in his heart,” (<span
 id="iv.iii.xxv-p31.3"></span>[Ps.
-15:1](../../../bib/kjv/psa015.htm#001),
-[2](../../../bib/kjv/psa015.htm#002)<span
+15:1](../../../bib/kjv/psa015.htm#001.md),
+[2](../../../bib/kjv/psa015.htm#002.md)<span
 id="iv.iii.xxv-p31.3"></span>). Again in another passage, “This is the
 generation of them that seek him, that seek thy face, O Jacob,” (<span
 id="iv.iii.xxv-p31.4"></span>[Psalm
-24:6](../../../bib/kjv/psa024.htm#006)<span
+24:6](../../../bib/kjv/psa024.htm#006.md)<span
 id="iv.iii.xxv-p31.4"></span>). And thus the Spirit exhorts believers to
 patience, and not to murmur because Ishmaelites are mingled with them in
 the Church since the mask will at length be torn off, and they will be
@@ -603,7 +603,7 @@ ejected with disgrace.
 <span id="iv.iii.xxv-p32"></span>9. The same account is to be given of
 the passage lately quoted, in which Christ says, that none is lost but
 the son of perdition (<span id="iv.iii.xxv-p32.1"></span>[John
-17:12](../../../bib/kjv/joh017.htm#012)<span
+17:12](../../../bib/kjv/joh017.htm#012.md)<span
 id="iv.iii.xxv-p32.1"></span>). The expression is not strictly proper;
 but it is by no means obscure: for Judas was not numbered among the
 sheep of Christ, because he was one truly, but because he held a place
@@ -611,12 +611,12 @@ among them. Then, in another passage, where the Lord says, that he was
 elected with the apostles, reference is made only to the office, “Have I
 not chosen you twelve,” says he, “and one of you is a devil?” (<span
 id="iv.iii.xxv-p32.2"></span>[John
-6:70](../../../bib/kjv/joh006.htm#070)<span
+6:70](../../../bib/kjv/joh006.htm#070.md)<span
 id="iv.iii.xxv-p32.2"></span>). That is, he had chosen him to the office
 of apostle. But when he speaks of election to salvation, he altogether
 excludes him from the number of the elect, “I speak not of you all: I
 know whom I have chosen,” (<span id="iv.iii.xxv-p32.3"></span>[John
-13:18](../../../bib/kjv/joh013.htm#018)<span
+13:18](../../../bib/kjv/joh013.htm#018.md)<span
 id="iv.iii.xxv-p32.3"></span>). Should any one confound the term
 *election* in the two passages, he will miserably entangle himself;
 whereas if he distinguish between them, nothing can be plainer. Gregory,
@@ -636,19 +636,19 @@ the Spirit sometimes accommodates his language to our feeble capacity;
 as when he says, “They shall not be in the assembly of my people,
 neither shall they be written in the writing of the house of Israel,”
 (<span id="iv.iii.xxv-p32.4"></span>[Ezek.
-13:9](../../../bib/kjv/eze013.htm#009)<span
+13:9](../../../bib/kjv/eze013.htm#009.md)<span
 id="iv.iii.xxv-p32.4"></span>). As if God were beginning to write the
 names of those whom he counts among his people in the Book of Life;
 whereas we know, even on the testimony of Christ, that the names of the
 children of God were written in the Book of Life from the beginning
 (<span id="iv.iii.xxv-p32.5"></span>[Luke
-10:20](../../../bib/kjv/luk010.htm#020)<span
+10:20](../../../bib/kjv/luk010.htm#020.md)<span
 id="iv.iii.xxv-p32.5"></span>). The words simply indicate the
 abandonment of those who seemed to have a chief place among the elect,
 as is said in the psalm, “Let them be blotted out of the Book of the
 Living, and not be written with the righteous,” (<span
 id="iv.iii.xxv-p32.6"></span>[Psalm
-69:28](../../../bib/kjv/psa069.htm#028)<span
+69:28](../../../bib/kjv/psa069.htm#028.md)<span
 id="iv.iii.xxv-p32.6"></span>).
 
 <span id="iv.iii.xxv-p33"></span>10. For the elect are brought by
@@ -670,9 +670,9 @@ were enlightened were not aliens from religion; for instance, that Paul
 led an unblemished life during his Pharisaism, that Cornelius was
 accepted for his prayers and alms, and so forth (<span
 id="iv.iii.xxv-p33.1"></span>[Phil.
-3:5](../../../bib/kjv/phi003.htm#005)<span
+3:5](../../../bib/kjv/phi003.htm#005.md)<span
 id="iv.iii.xxv-p33.1"></span>; <span id="iv.iii.xxv-p33.2"></span>[Acts
-10:2](../../../bib/kjv/act010.htm#002)<span
+10:2](../../../bib/kjv/act010.htm#002.md)<span
 id="iv.iii.xxv-p33.2"></span>). The case of Paul we admit, but we hold
 that they are in error as to Cornelius; for it appears that he was
 already enlightened and regenerated, so that all which he wanted was a
@@ -692,22 +692,22 @@ disobedience: among whom also we all had our conversation in times past
 in the lusts of our flesh, fulfilling the desires of the flesh and of
 the mind; and were by nature the children of wrath, even as others,”
 (<span id="iv.iii.xxv-p33.3"></span>[Eph.
-2:1-3](../../../bib/kjv/eph002.htm#001)<span
+2:1-3](../../../bib/kjv/eph002.htm#001.md)<span
 id="iv.iii.xxv-p33.3"></span>). And again, “At that time ye were without
 Christ,” “having no hope, and without God in the world,” (<span
 id="iv.iii.xxv-p33.4"></span>[Eph.
-2:12](../../../bib/kjv/eph002.htm#012)<span
+2:12](../../../bib/kjv/eph002.htm#012.md)<span
 id="iv.iii.xxv-p33.4"></span>). Again, “Ye were sometimes darkness, but
 now are ye light in the Lord: walk as children of light,” (<span
 id="iv.iii.xxv-p33.5"></span>[Eph.
-5:8](../../../bib/kjv/eph005.htm#008)<span
+5:8](../../../bib/kjv/eph005.htm#008.md)<span
 id="iv.iii.xxv-p33.5"></span>). But perhaps they will insist that in
 this last passage reference is made to that ignorance of the true God,
 in which they deny not that the elect lived before they were called.
 Though this is grossly inconsistent with the Apostle’s inference, that
 they were no longer to lie or steal (<span
 id="iv.iii.xxv-p33.6"></span>[Eph.
-4:28](../../../bib/kjv/eph004.htm#028)<span
+4:28](../../../bib/kjv/eph004.htm#028.md)<span
 id="iv.iii.xxv-p33.6"></span>). What answer will they give to other
 passages; such as that in which, after declaring to the Corinthians that
 “neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor
@@ -717,14 +717,14 @@ God,” he immediately adds, “Such were some of you: but ye are washed,
 but ye are sanctified, but ye are justified in the name of the Lord
 Jesus, and by the Spirit of our God”? (<span
 id="iv.iii.xxv-p33.7"></span>[1 Cor.
-6:9-11](../../../bib/kjv/co1006.htm#009)<span
+6:9-11](../../../bib/kjv/co1006.htm#009.md)<span
 id="iv.iii.xxv-p33.7"></span>). Again he says to the Romans, “As ye have
 yielded your members servants to uncleanness and to iniquity unto
 iniquity; even so now yield your members servants to righteousness unto
 holiness. For when ye were the servants of sin, ye were free from
 righteousness. What fruit had ye then in those things whereof ye are now
 ashamed?” (<span id="iv.iii.xxv-p33.8"></span>[Rom.
-6:19-21](../../../bib/kjv/rom006.htm#019)<span
+6:19-21](../../../bib/kjv/rom006.htm#019.md)<span
 id="iv.iii.xxv-p33.8"></span>).
 
 <span id="iv.iii.xxv-p34"></span>11. Say, then, what seed of election
@@ -737,24 +737,24 @@ have exhorted his countrymen to gratitude for a perpetual seed of
 election. On the contrary, his admonition is, “The time past of our life
 may suffice us to have wrought the will of the Gentiles,” (<span
 id="iv.iii.xxv-p34.1"></span>[1 Pet.
-4:3](../../../bib/kjv/pe1004.htm#003)<span
+4:3](../../../bib/kjv/pe1004.htm#003.md)<span
 id="iv.iii.xxv-p34.1"></span>). What if we come to examples? Was there
 any germ of righteousness in Rahab the harlot before she believed?
 (<span id="iv.iii.xxv-p34.2"></span>[Josh.
-2:4](../../../bib/kjv/jos002.htm#004)<span
+2:4](../../../bib/kjv/jos002.htm#004.md)<span
 id="iv.iii.xxv-p34.2"></span>); in Manasseh when Jerusalem was dyed and
 almost deluged with the blood of the prophets? (<span
 id="iv.iii.xxv-p34.3"></span>[2 Kings
-23:16](../../../bib/kjv/kg2023.htm#016)<span
+23:16](../../../bib/kjv/kg2023.htm#016.md)<span
 id="iv.iii.xxv-p34.3"></span>); in the thief who only with his last
 breath thought of repentance? (<span id="iv.iii.xxv-p34.4"></span>[Luke
-23:42](../../../bib/kjv/luk023.htm#042)<span
+23:42](../../../bib/kjv/luk023.htm#042.md)<span
 id="iv.iii.xxv-p34.4"></span>). Have done, then, with those arguments
 which curious men of themselves rashly devise without any authority from
 Scripture. But let us hold fast what Scripture states—viz. that “All we
 like sheep have gone astray, we have turned every one to his own way,”
 (<span id="iv.iii.xxv-p34.5"></span>[Isa.
-53:6](../../../bib/kjv/isa053.htm#006)<span
+53:6](../../../bib/kjv/isa053.htm#006.md)<span
 id="iv.iii.xxv-p34.5"></span>); that is to perdition. In this gulf of
 perdition God leaves those whom he has determined one day to deliver
 until his own time arrive; he only preserves them from plunging into
@@ -797,7 +797,7 @@ same wickedness would possess the minds of the former, did not God in
 his goodness correct it. And hence we will always be entangled until we
 call in the aid of Paul’s question, “Who maketh thee to differ?” (<span
 id="iv.iii.xxv-p35.1"></span>[1 Cor.
-4:7](../../../bib/kjv/co1004.htm#007)<span
+4:7](../../../bib/kjv/co1004.htm#007.md)<span
 id="iv.iii.xxv-p35.1"></span>), intimating that some excel others, not
 by their own virtue, but by the mere favour of God.
 
@@ -805,7 +805,7 @@ by their own virtue, but by the mere favour of God.
 the one, does he pass by the other? In regard to the former, Luke gives
 the reason, Because they “were ordained to eternal life,” (<span
 id="iv.iii.xxv-p36.1"></span>[Acts
-13:48](../../../bib/kjv/act013.htm#048)<span
+13:48](../../../bib/kjv/act013.htm#048.md)<span
 id="iv.iii.xxv-p36.1"></span>). What, then, shall we think of the
 latter, but that they are vessels of wrath unto dishonor? Wherefore, let
 us not decline to say with Augustine, “God could change the will of the
@@ -822,7 +822,7 @@ who fear God, need this special inspiration of the Spirit. Lydia, a
 seller of purple, feared God, and yet it was necessary that her heart
 should be opened, that she might attend to the doctrine of Paul, and
 profit in it (<span id="iv.iii.xxv-p36.2"></span>[Acts
-16:14](../../../bib/kjv/act016.htm#014)<span
+16:14](../../../bib/kjv/act016.htm#014.md)<span
 id="iv.iii.xxv-p36.2"></span>). This was not said of one woman only but
 to teach us that all progress in piety is the secret work of the Spirit.
 Nor can it be questioned, that God sends his word to many whose
@@ -833,19 +833,19 @@ foretold the result: “The Lord said unto Moses, When thou goest to
 return into Egypt see that thou do all those wonders before Pharaoh,
 which I have put in thine hand: but I will harden his heart, that he
 will not let the people go,” (<span id="iv.iii.xxv-p36.3"></span>[Exod.
-4:21](../../../bib/kjv/exo004.htm#021)<span
+4:21](../../../bib/kjv/exo004.htm#021.md)<span
 id="iv.iii.xxv-p36.3"></span>). So when he raises up Ezekiel, he
 forewarns him, “I send thee to the children of Israel, to a rebellious
 nation that has rebelled against me.” “Be not afraid of their words.”
 “Thou dwellest in the midst of a rebellious house, which has eyes to
 see, and see not; they have ears to hear, and hear not,” (<span
 id="iv.iii.xxv-p36.4"></span>[Ezek.
-2:3](../../../bib/kjv/eze002.htm#003),
-[6](../../../bib/kjv/eze002.htm#006)<span id="iv.iii.xxv-p36.4"></span>;
+2:3](../../../bib/kjv/eze002.htm#003.md),
+[6](../../../bib/kjv/eze002.htm#006.md)<span id="iv.iii.xxv-p36.4"></span>;
 12:2). Thus he foretells to Jeremiah that the effect of his doctrine
 would be, “to root out, and pull down, and to destroy,” (<span
 id="iv.iii.xxv-p36.5"></span>[Jer.
-1:10](../../../bib/kjv/jer001.htm#010)<span
+1:10](../../../bib/kjv/jer001.htm#010.md)<span
 id="iv.iii.xxv-p36.5"></span>). But the prophecy of Isaiah presses still
 more closely; for he is thus commissioned by the Lord, “Go and tell this
 people, Hear ye indeed, but understand not, and see ye indeed but
@@ -853,8 +853,8 @@ perceive not. Make the heart of this people fat, and make their ears
 heavy, and shut their eyes; lest they see with their eyes, and hear with
 their ears, and understand with their heart, and convert and be healed,”
 (<span id="iv.iii.xxv-p36.6"></span>[Isa.
-6:9](../../../bib/kjv/isa006.htm#009),
-[10](../../../bib/kjv/isa006.htm#010)<span
+6:9](../../../bib/kjv/isa006.htm#009.md),
+[10](../../../bib/kjv/isa006.htm#010.md)<span
 id="iv.iii.xxv-p36.6"></span>). Here he directs his voice to them, but
 it is that they may turn a deafer ear; he kindles a light, but it is
 that they may become more blind; he produces a doctrine, but it is that
@@ -868,7 +868,7 @@ blindness. Hence our Savior declares that the parables in which he had
 spoken to the multitude he expounded to the Apostles only, “because it
 is given unto you to know the mysteries of the kingdom of heaven, but to
 them it is not given,” (<span id="iv.iii.xxv-p36.7"></span>[Mt.
-13:11](../../../bib/kjv/mat013.htm#011)<span
+13:11](../../../bib/kjv/mat013.htm#011.md)<span
 id="iv.iii.xxv-p36.7"></span>). What, you will ask, does our Lord mean,
 by teaching those by whom he is careful not to be understood? Consider
 where the fault lies, and then cease to ask. How obscure soever the word
@@ -885,7 +885,7 @@ it, pass to the passage from Moses, on which Paul has commented, namely,
 “Even for this same purpose have I raised thee up, that I might show my
 power in thee, and that my name might be declared throughout all the
 earth,” (<span id="iv.iii.xxv-p37.1"></span>[Rom.
-9:17](../../../bib/kjv/rom009.htm#017)<span
+9:17](../../../bib/kjv/rom009.htm#017.md)<span
 id="iv.iii.xxv-p37.1"></span>). The refusal of the reprobate to obey the
 word of God when manifested to them, will be properly ascribed to the
 malice and depravity of their hearts, provided it be at the same time
@@ -894,7 +894,7 @@ raised up by the just but inscrutable judgment of God, to show forth his
 glory by their condemnation. In like manner, when it is said of the sons
 of Eli, that they would not listen to salutary admonitions “because the
 Lord would slay them,” (<span id="iv.iii.xxv-p37.2"></span>[1 Sam.
-2:25](../../../bib/kjv/sa1002.htm#025)<span
+2:25](../../../bib/kjv/sa1002.htm#025.md)<span
 id="iv.iii.xxv-p37.2"></span>), it is not denied that their stubbornness
 was the result of their own iniquity; but it is at the same time stated
 why they were left to their stubbornness, when the Lord might have
@@ -904,14 +904,14 @@ done so many miracles before them, yet they believed not on him; that
 the saying of Esaias the prophet might be fulfilled which he spake,
 Lord, who has believed our report?” (<span
 id="iv.iii.xxv-p37.3"></span>[John
-12:37](../../../bib/kjv/joh012.htm#037),
-[38](../../../bib/kjv/joh012.htm#038)<span
+12:37](../../../bib/kjv/joh012.htm#037.md),
+[38](../../../bib/kjv/joh012.htm#038.md)<span
 id="iv.iii.xxv-p37.3"></span>); for though he does not exculpate their
 perverseness, he is satisfied with the reason that the grace of God is
 insipid to men, until the Holy Spirit gives it its savor. And Christ, in
 quoting the prophecy of Isaiah, “They shall be all taught of God,”
 (<span id="iv.iii.xxv-p37.4"></span>[John
-6:45](../../../bib/kjv/joh006.htm#045)<span
+6:45](../../../bib/kjv/joh006.htm#045.md)<span
 id="iv.iii.xxv-p37.4"></span>), designs only to show that the Jews were
 reprobates and aliens from the Church, because they would not be taught:
 and gives no other reason than that the promise of God does not belong
@@ -919,7 +919,7 @@ to them. Confirmatory of this are the words of Paul, “Christ crucified”
 was “unto the Jews a stumbling block, and unto the Greeks foolishness;
 but unto them which are called, both Jews and Greeks, Christ the power
 of God, and the wisdom of God,” (<span id="iv.iii.xxv-p37.5"></span>[1
-Cor. 1:23](../../../bib/kjv/co1001.htm#023)<span
+Cor. 1:23](../../../bib/kjv/co1001.htm#023.md)<span
 id="iv.iii.xxv-p37.5"></span>). For after mentioning the usual result
 wherever the gospel is preached, that it exasperates some, and is
 despised by others, he says, that it is precious to them only who are
@@ -934,7 +934,7 @@ of his creatures. But let us, who know that all men are liable on so
 many grounds to the judgment of God, that they cannot answer for one in
 a thousand of their transgressions (<span
 id="iv.iii.xxv-p37.6"></span>[Job
-9:3](../../../bib/kjv/job009.htm#003)<span
+9:3](../../../bib/kjv/job009.htm#003.md)<span
 id="iv.iii.xxv-p37.6"></span>), confess that the reprobate suffer
 nothing which is not accordant with the most perfect justice. When
 unable clearly to ascertain the reason, let us not decline to be
@@ -949,7 +949,7 @@ adverse to the above view. One of the passages adduced is, “have I any
 pleasure at all that the wicked should die? saith the Lord God; and not
 that he should return from his ways and live?” (<span
 id="iv.iii.xxv-p38.1"></span>[Ezek.
-18:23](../../../bib/kjv/eze018.htm#023)<span
+18:23](../../../bib/kjv/eze018.htm#023.md)<span
 id="iv.iii.xxv-p38.1"></span>). If we are to extend this to the whole
 human race, why are not the very many whose minds might be more easily
 bent to obey urged to repentance, rather than those who by his
@@ -957,14 +957,14 @@ invitations become daily more and more hardened? Our Lord declares that
 the preaching of the gospel and miracles would have produced more fruit
 among the people of Nineveh and Sodom than in Judea (<span
 id="iv.iii.xxv-p38.2"></span>[Mt.
-13:23](../../../bib/kjv/mat013.htm#023)<span
+13:23](../../../bib/kjv/mat013.htm#023.md)<span
 id="iv.iii.xxv-p38.2"></span>). How comes its then, that if God would
 have all to be saved he does not open a door of repentance for the
 wretched, who would more readily have received grace? Hence we may see
 that the passage is violently wrested, if the will of God, which the
 prophet mentions, is opposed to his eternal counsel, by which he
 separated the elect from the reprobate.50  <span
-id="fr_501"></span>[502](#fn_501) Now, if the genuine meaning of the
+id="fr_501"></span>[502](#fn_501.md) Now, if the genuine meaning of the
 prophet is inquired into, it will be found that he only means to give
 the hope of pardon to them who repent. The sum is, that God is
 undoubtedly ready to pardon whenever the sinner turns. Therefore, he
@@ -986,7 +986,7 @@ clearly tell us who they are to whom repentance is given.
 <span id="iv.iii.xxv-p40"></span>16. The second passage adduced is that
 in which Paul says that “God will have all men to be saved,” (<span
 id="iv.iii.xxv-p40.1"></span>[1 Tim.
-2:4](../../../bib/kjv/ti1002.htm#004)<span
+2:4](../../../bib/kjv/ti1002.htm#004.md)<span
 id="iv.iii.xxv-p40.1"></span>). Though the reason here differs from the
 former, they have somewhat in common. I answer, first, That the mode in
 which God thus wills is plain from the context; for Paul connects two
@@ -995,7 +995,7 @@ If by this they will have it to be fixed by the eternal counsel of God
 that they are to receive the doctrine of salvation, what is meant by
 Moses in these words, “What nation is there so great, who has God so
 nigh unto them?” (<span id="iv.iii.xxv-p40.2"></span>[Deut.
-4:7](../../../bib/kjv/deu004.htm#007)<span
+4:7](../../../bib/kjv/deu004.htm#007.md)<span
 id="iv.iii.xxv-p40.2"></span>). How comes it that many nations are
 deprived of that light of the Gospel which others enjoy? How comes it
 that the pure knowledge of the doctrine of godliness has never reached
@@ -1015,16 +1015,16 @@ all, but declare that pardon is prepared for all sinners who only turn
 to seek after it. For if they persist in urging the words, “God has
 concluded all in unbelief, that he might have mercy upon all,” (<span
 id="iv.iii.xxv-p40.3"></span>[Rom.
-11:32](../../../bib/kjv/rom011.htm#032)<span
+11:32](../../../bib/kjv/rom011.htm#032.md)<span
 id="iv.iii.xxv-p40.3"></span>), I will, on the contrary, urge what is
 elsewhere written, “Our God is in the heavens: he has done whatsoever he
 has pleased,” (<span id="iv.iii.xxv-p40.4"></span>[Ps.
-115:3](../../../bib/kjv/psa115.htm#003)<span
+115:3](../../../bib/kjv/psa115.htm#003.md)<span
 id="iv.iii.xxv-p40.4"></span>). we must, therefore, expound the passage
 so as to reconcile it with another, I “will be gracious to whom I will
 be gracious, and will show mercy on whom I will show mercy,” (<span
 id="iv.iii.xxv-p40.5"></span>[Exod.
-33:19](../../../bib/kjv/exo033.htm#019)<span
+33:19](../../../bib/kjv/exo033.htm#019.md)<span
 id="iv.iii.xxv-p40.5"></span>). He who selects those whom he is to visit
 in mercy does not impart it to all. But since it clearly appears that he
 is there speaking not of individuals, but of orders of men, let us have
@@ -1035,7 +1035,7 @@ partakers of heavenly doctrine, though in their blindness they rage
 against it. A stronger objection seems to be founded on the passage in
 Peter; the Lord is “not willing that any should perish, but that all
 should come to repentance,” (<span id="iv.iii.xxv-p40.6"></span>[2 Pet.
-3:9](../../../bib/kjv/pe2003.htm#009)<span
+3:9](../../../bib/kjv/pe2003.htm#009.md)<span
 id="iv.iii.xxv-p40.6"></span>). But the solution of the difficulty is to
 be found in the second branch of the sentence, for his will that they
 should come to repentance cannot be used in any other sense than that
@@ -1043,23 +1043,23 @@ which is uniformly employed. Conversion is undoubtedly in the hand of
 God, whether he designs to convert all can be learned from himself, when
 he promises that he will give some a heart of flesh, and leave to others
 a heart of stone (<span id="iv.iii.xxv-p40.7"></span>[Ezek.
-36:26](../../../bib/kjv/eze036.htm#026)<span
+36:26](../../../bib/kjv/eze036.htm#026.md)<span
 id="iv.iii.xxv-p40.7"></span>). It is true, that if he were not disposed
 to receive those who implore his mercy, it could not have been said,
 “Turn ye unto me, saith the Lord of Hosts, and I will turn unto you,
 saith the Lord of Hosts,” (<span id="iv.iii.xxv-p40.8"></span>[Zech.
-1:3](../../../bib/kjv/zac001.htm#003)<span
+1:3](../../../bib/kjv/zac001.htm#003.md)<span
 id="iv.iii.xxv-p40.8"></span>); but I hold that no man approaches God
 unless previously influenced from above. And if repentance were placed
 at the will of man, Paul would not say, “If God per adventure will give
 them repentance,” (<span id="iv.iii.xxv-p40.9"></span>[2 Tim.
-2:25](../../../bib/kjv/ti2002.htm#025)<span
+2:25](../../../bib/kjv/ti2002.htm#025.md)<span
 id="iv.iii.xxv-p40.9"></span>). Nay, did not God at the very time when
 he is verbally exhorting all to repentance, influence the elect by the
 secret movement of his Spirit, Jeremiah would not say, “Turn thou me,
 and I shall be turned; for thou art the Lord my God. Surely after that I
 was turned, I repented,” (<span id="iv.iii.xxv-p40.10"></span>[Jer.
-31:18](../../../bib/kjv/jer031.htm#018)<span
+31:18](../../../bib/kjv/jer031.htm#018.md)<span
 id="iv.iii.xxv-p40.10"></span>).
 
 <span id="iv.iii.xxv-p41"></span>17. But if it is so (you will say),
@@ -1098,7 +1098,7 @@ lamentation of our Savior, “O Jerusalem Jerusalem, how often would I
 have gathered thy children together, even as a hen gathereth her
 chickens under her wings, and ye would not!” (<span
 id="iv.iii.xxv-p42.1"></span>[Mt.
-23:37](../../../bib/kjv/mat023.htm#037)<span
+23:37](../../../bib/kjv/mat023.htm#037.md)<span
 id="iv.iii.xxv-p42.1"></span>); but it gives them no support. I admit
 that here Christ speaks not only in the character of man, but upbraids
 them with having, in every age, rejected his grace. But this will of
@@ -1111,10 +1111,10 @@ nothing is less accordant with the nature of God than that he should
 have a double will. This I concede, provided they are sound
 interpreters. But why do they not attend to the many passages in which
 God clothes himself with human affections, and descends beneath his
-proper majesty?50  <span id="fr_502"></span>[503](#fn_502) He says, “I
+proper majesty?50  <span id="fr_502"></span>[503](#fn_502.md) He says, “I
 have spread out my hands all the day unto a rebellious people,” (<span
 id="iv.iii.xxv-p43.1"></span>[Isa.
-65:1](../../../bib/kjv/isa065.htm#001)<span
+65:1](../../../bib/kjv/isa065.htm#001.md)<span
 id="iv.iii.xxv-p43.1"></span>), exerting himself early and late to bring
 them back. Were they to apply these qualities without regarding the
 figure, many unnecessary disputes would arise which are quashed by the
@@ -1124,10 +1124,10 @@ and Book 3, c. 20, sec. 43) is amply sufficient—viz. that though to our
 apprehension the will of God is manifold, yet he does not in himself
 will opposites, but, according to his manifold wisdom (so Paul styles
 it, <span id="iv.iii.xxv-p43.2"></span>[Eph.
-3:10](../../../bib/kjv/eph003.htm#010)<span
+3:10](../../../bib/kjv/eph003.htm#010.md)<span
 id="iv.iii.xxv-p43.2"></span>), transcends our senses, until such time
 as it shall be given us to know how he mysteriously wills what now seems
-to be adverse to his will.  <span id="fr_503"></span>[504](#fn_503) They
+to be adverse to his will.  <span id="fr_503"></span>[504](#fn_503.md) They
 also amuse themselves with the cavil, that since God is the Father of
 all, it is unjust to discard any one before he has by his misconduct
 merited such a punishment. As if the kindness of God did not extend even
@@ -1138,11 +1138,11 @@ if they were the flower. But those who thus charge God are so blinded by
 their love of evil speaking, that they consider not that as God “maketh
 his sun to rise on the evil and on the good,” (<span
 id="iv.iii.xxv-p44.1"></span>[Mt.
-5:45](../../../bib/kjv/mat005.htm#045)<span
+5:45](../../../bib/kjv/mat005.htm#045.md)<span
 id="iv.iii.xxv-p44.1"></span>), so the inheritance is treasured up for a
 few to whom it shall one day be said, “Come, ye blessed of my Father,
 inherit the kingdom,” &c. (<span id="iv.iii.xxv-p44.2"></span>[Mt.
-25:34](../../../bib/kjv/mat025.htm#034)<span
+25:34](../../../bib/kjv/mat025.htm#034.md)<span
 id="iv.iii.xxv-p44.2"></span>). They object, moreover, that God does not
 hate any of the things which he has made. This I concede, but it does
 not affect the doctrine which I maintain, that the reprobate are hateful
@@ -1155,7 +1155,7 @@ according to his good pleasure, without being astricted to any. This
 disposes of their gloss upon another passage, “God has concluded all in
 unbelief, that he might have mercy upon all,” (<span
 id="iv.iii.xxv-p44.3"></span>[Rom.
-11:32](../../../bib/kjv/rom011.htm#032)<span
+11:32](../../../bib/kjv/rom011.htm#032.md)<span
 id="iv.iii.xxv-p44.3"></span>); in other words, he wills that all who
 are saved should ascribe their salvation to his mercy, although the
 blessing of salvation is not common to all. Finally, after all that has
@@ -1164,7 +1164,7 @@ overawed with Paul at the great depth, and if petulant tongues will
 still murmur, let us not be ashamed to join in his exclamation, “Nay,
 but, O man, who art thou that replies against God?” (<span
 id="iv.iii.xxv-p44.4"></span>[Rom.
-9:20](../../../bib/kjv/rom009.htm#020)<span
+9:20](../../../bib/kjv/rom009.htm#020.md)<span
 id="iv.iii.xxv-p44.4"></span>). Truly does Augustine maintain that it is
 perverse to measure divine by the standard of human justice (De Prædest.
 et Gra. c. 2).
@@ -1173,13 +1173,13 @@ et Gra. c. 2).
 
 ### Footnotes
 
-<span id="fn_499"></span>[500](inst077.htm#fr_499) <span
+<span id="fn_499"></span>[500](inst077.htm#fr_499.md) <span
 id="iv.iii.xxv-p21.5"></span>
 
 <span id="iv.iii.xxv-p22"></span>06 506 Latin, “possililitatis
 profectus.”—French, “l’avancement de possibilité.”
 
-<span id="fn_500"></span>[501](inst077.htm#fr_500) <span
+<span id="fn_500"></span>[501](inst077.htm#fr_500.md) <span
 id="iv.iii.xxv-p28.3"></span>
 
 <span id="iv.iii.xxv-p29"></span>07 507 French, “Mas quelcun dira qu’il
@@ -1189,27 +1189,27 @@ solicitude;”—But some one will say, that we must feel anxious as to what
 may happen to us; and that when we think on the future, our weakness
 warns us to be solicitous.
 
-<span id="fn_501"></span>[502](inst077.htm#fr_501) <span
+<span id="fn_501"></span>[502](inst077.htm#fr_501.md) <span
 id="iv.iii.xxv-p38.3"></span>
 
 <span id="iv.iii.xxv-p39"></span>08 508 Bernard, in his Sermon on the
 Nativity, on <span id="iv.iii.xxv-p39.1"></span>[2 Cor.
-1:3](../../../bib/kjv/co2001.htm#003)<span
+1:3](../../../bib/kjv/co2001.htm#003.md)<span
 id="iv.iii.xxv-p39.1"></span>, quoting the two passages, <span
 id="iv.iii.xxv-p39.2"></span>[Rom.
-9:18](../../../bib/kjv/rom009.htm#018)<span
+9:18](../../../bib/kjv/rom009.htm#018.md)<span
 id="iv.iii.xxv-p39.2"></span>, and <span
 id="iv.iii.xxv-p39.3"></span>[Ezek.
-18:32](../../../bib/kjv/eze018.htm#032)<span
+18:32](../../../bib/kjv/eze018.htm#032.md)<span
 id="iv.iii.xxv-p39.3"></span>, admirably reconciles them.
 
-<span id="fn_502"></span>[503](inst077.htm#fr_502) <span
+<span id="fn_502"></span>[503](inst077.htm#fr_502.md) <span
 id="iv.iii.xxv-p42.2"></span>
 
 <span id="iv.iii.xxv-p43"></span>09 509 The French adds, “pour se
 conformer à notre rudesse;”—in accommodation to our weakness.
 
-<span id="fn_503"></span>[504](inst077.htm#fr_503) <span
+<span id="fn_503"></span>[504](inst077.htm#fr_503.md) <span
 id="iv.iii.xxv-p43.3"></span>
 
 <span id="iv.iii.xxv-p44"></span>100 D100 These two assertions—“to our
@@ -1241,4 +1241,4 @@ depth” of the wisdom and knowledge of God.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 25. - OF THE LAST RESURRECTION.](inst078)
+[Next: CHAPTER 25. - OF THE LAST RESURRECTION.](inst078.md)

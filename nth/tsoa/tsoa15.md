@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](tsoa14)  [Next](tsoa16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](tsoa14)  [Next](tsoa16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1604590467/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0025VL4BQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Ages*, by Robert Collier, \[1926\], at Intangible
 Textual Heritage
 
@@ -40,7 +40,7 @@ Textual Heritage
  Each night I burn the records of the day—  
    At sunrise every soul is born again!"  
                           —WALTER MALONE. <span
-id="fr_3"></span>[\*](#fn_3)
+id="fr_3"></span>[\*](#fn_3.md)
 
 </div>
 
@@ -312,7 +312,7 @@ enforce that law in your behalf just as widely as you need. Opportunity
 is infinite and ever present.
 
 Berton Braley has it well expressed in his poem on "Opportunity" <span
-id="fr_4"></span>[\*](#fn_4):
+id="fr_4"></span>[\*](#fn_4.md):
 
 <div style="margin-left: 10%; margin-right: 10%">
 
@@ -580,7 +580,7 @@ Get firmly in mind the definite conviction that YOU CAN DO ANYTHING
 RIGHT THAT YOU MAY WISH TO DO. Then set your goal and let everything you
 do, all your work, all your study, all your associations, be a step
 towards that goal. To quote Berton Braley <span
-id="fr_5"></span>[\*](#fn_5) again—
+id="fr_5"></span>[\*](#fn_5.md) again—
 
 <div style="margin-left: 10%; margin-right: 10%">
 
@@ -630,15 +630,15 @@ id="fr_5"></span>[\*](#fn_5) again—
 
 ### Footnotes
 
-<span id="fn_3"></span>[225:\*](tsoa15.htm#fr_3) Courtesy of Mrs. Ella
+<span id="fn_3"></span>[225:\*](tsoa15.htm#fr_3.md) Courtesy of Mrs. Ella
 Malone Watson.
 
-<span id="fn_4"></span>[240:\*](tsoa15.htm#fr_4) From "A Banjo at
+<span id="fn_4"></span>[240:\*](tsoa15.htm#fr_4.md) From "A Banjo at
 Armageddon." Copyright 1917, George H. Doran Company.
 
-<span id="fn_5"></span>[254:\*](tsoa15.htm#fr_5) From "Things As They
+<span id="fn_5"></span>[254:\*](tsoa15.htm#fr_5.md) From "Things As They
 Are." Copyright 1916, George H. Doran Company, New York.
 
 ------------------------------------------------------------------------
 
-[Next: Title Page](tsoa16)
+[Next: Title Page](tsoa16.md)

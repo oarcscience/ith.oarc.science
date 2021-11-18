@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Previous](sat09)  [Next](sat11) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Previous](sat09)  [Next](sat11.md) 
 
 ------------------------------------------------------------------------
 
 # CHAPTER NINE
 
-\[LVII <span id="LVII"></span>[(Latin)](../satyrlat/satl057) \] But
+\[LVII <span id="LVII"></span>[(Latin)](../satyrlat/satl057.md) \] But
 Ascyltos, lost to all self-control, threw his arms up in the air, and
 turning the whole proceedings into ridicule, laughed till the tears ran
 down his cheeks. At this once of the freedmen among the guests, the same
@@ -52,7 +52,7 @@ nature--I swam the rapids. That's the real struggle; for to be born a
 gentleman is as easy as 'Come here.' Whatever are you gaping at now,
 like a buck-goat in a field of bitter vetch?"
 
-\[LVIII <span id="LVIII"></span>[(Latin)](../satyrlat/satl058) \] At
+\[LVIII <span id="LVIII"></span>[(Latin)](../satyrlat/satl058.md) \] At
 this harangue Giton, who was standing at my feet, could no longer
 contain himself, but burst into a most indecorous peal of merriment.
 When Ascyltos' adversary noticed the fact, he turned his abuse upon the
@@ -103,7 +103,7 @@ staring about, and don't be impertinent to your elders.' Now it's all
 trash; they turn out nobody worth twopence. That I am what I am, I owe
 to my own wits, and I thank God for it!"
 
-\[LIX <span id="LIX"></span>[(Latin)](../satyrlat/satl059) \] Ascyltos
+\[LIX <span id="LIX"></span>[(Latin)](../satyrlat/satl059.md) \] Ascyltos
 was just beginning to answer his abuse; but Trimalchio, charmed with his
 fellow-freedman's eloquence, stopped him, saying, "Come, come! leave
 your bickerings on one side. Better be good-natured; and do you
@@ -131,7 +131,7 @@ madman slashed it to bits with his naked sword, and making passes now up
 and down, collected the pieces on his point and so distributed the flesh
 among the astonished guests.
 
-\[LX <span id="LX"></span>[(Latin)](../satyrlat/satl060) \] We had
+\[LX <span id="LX"></span>[(Latin)](../satyrlat/satl060.md) \] We had
 little time however to admire these elegant surprises; for all of a
 sudden the ceiling began to rattle and the whole room trembled. I sprang
 up in consternation, fearing some tumbler was going to fall through the
@@ -163,7 +163,7 @@ us they were named respectively Cerdo, Felicio and Lucrio. Then came a
 faithful likeness of Trimalchio in marble, and as everybody else kissed
 it, we were ashamed not to do likewise.
 
-\[LXI <span id="LXI"></span>[(Latin)](../satyrlat/satl061) \] Then after
+\[LXI <span id="LXI"></span>[(Latin)](../satyrlat/satl061.md) \] Then after
 we had all wished one another good health of mind and body, Trimalchio
 turned to Niceros and said, "You used to be better company; what makes
 you so dull and silent today? I beg you, if you wish to oblige me, tell
@@ -186,7 +186,7 @@ saved, I put in her purse, and she never choused me. Well! her husband
 died when they were at a country house. So I moved heaven and earth to
 get to her; true friends, you know, are proved in adversity.
 
-\[LXII <span id="LXII"></span>[(Latin)](../satyrlat/satl062) \] "It so
+\[LXII <span id="LXII"></span>[(Latin)](../satyrlat/satl062.md) \] "It so
 happened my master had gone to Capua, to attend to various trifles of
 business. So seizing the opportunity, I persuade our lodger to accompany
 me as far as the fifth milestone. He was a soldier, as bold as Hell. We
@@ -224,7 +224,7 @@ could never afterwards eat bread with him, no! not if you'd killed me.
 Other people may think what they please; but as for me, if I'm telling
 you a lie, may your guardian spirits confound me!"
 
-\[LXIII <span id="LXIII"></span>[(Latin)](../satyrlat/satl063) \] We
+\[LXIII <span id="LXIII"></span>[(Latin)](../satyrlat/satl063.md) \] We
 were all struck dumb with amazement, till Trimalchio broke the silence,
 saying, "Far be it from me to doubt your story; if you'll believe me, my
 hair stood on end, for I know Niceros is not the man to repeat idle
@@ -255,7 +255,7 @@ ask you, can you help after this believing there are wise women, and
 hags that fly by night. But our tall bully, after what happened, never
 got back his color, in fact a few days afterward he died raving mad!"
 
-\[LXIV <span id="LXIV"></span>[(Latin)](../satyrlat/satl064) \] We
+\[LXIV <span id="LXIV"></span>[(Latin)](../satyrlat/satl064.md) \] We
 listened with wonder and credulity in equal proportions, and kissing the
 table, besought the Night-hags to keep in quarters, while we were
 returning home.
@@ -302,4 +302,4 @@ the daytime, now for jollity!"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Ten](sat11)
+[Next: Chapter Ten](sat11.md)

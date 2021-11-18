@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt15)  [Next](pyt17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt15)  [Next](pyt17.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ among you, O ye *ḥ‘ȝ.tiw*.
 ------------------------------------------------------------------------
 
 [Next: 14. Miscellaneous Utterances on the Career of the Deceased King
-in the Hereafter, 317-337](pyt17)
+in the Hereafter, 317-337](pyt17.md)

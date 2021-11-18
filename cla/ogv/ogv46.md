@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](ogv45)  [Next](ogv47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](ogv45)  [Next](ogv47.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592766/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -50,12 +50,12 @@ system upon the existence of the best of worlds possible, has, however,
 recognized it in Nature, in advancing that all the changes which are
 operated there are the consequence of both; that everything tends toward
 its improvement, and that therefore the present is already teeming with
-the future. <span id="fr_652"></span>[a](#fn_651) Buffon, inclining
+the future. <span id="fr_652"></span>[a](#fn_651.md) Buffon, inclining
 strongly toward the system of atoms, ought also to be much opposed, and
 yet he has been unable to see that Nature, in general, tends far more
 toward life than toward death, and that it seems to be seeking to
 organize bodies as much as is possible. <span
-id="fr_653"></span>[b](#fn_652) The school of Kant has pushed the system
+id="fr_653"></span>[b](#fn_652.md) The school of Kant has pushed the system
 of perfectibility as far as it
 
 <span id="page_272">p. 272</span>
@@ -65,12 +65,12 @@ man, has followed the development of Nature with a force of thought
 which has perhaps passed the mark. The former, has ventured to say that
 Nature is a sort of Divinity in germ, which tends to apotheosis, and is
 prepared for existence with God, by the reign of Chaos, and by that of
-Providence. <span id="fr_654"></span>[a](#fn_653) But those are only
+Providence. <span id="fr_654"></span>[a](#fn_653.md) But those are only
 speculative opinions. Here are opinions founded upon facts.
 
 As soon as one considers the Earth observingly, the naturalists say, one
 perceives striking traces of the revolutions that it has sustained in
-anterior times. <span id="fr_655"></span>[b](#fn_654)
+anterior times. <span id="fr_655"></span>[b](#fn_654.md)
 
 The continents have not always been what they are today, the waters of
 the globe have not always been distributed in the same manner. The ocean
@@ -78,16 +78,16 @@ changes insensibly its bed, undermines the lands, divides them, rushes
 over some, and leaves others dry. The islands have not always been
 islands. The continents have been peopled, with living and vegetating
 beings, before the present disposition of the waters upon the
-globe. <span id="fr_656"></span>[c](#fn_655)
+globe. <span id="fr_656"></span>[c](#fn_655.md)
 
 These observations confirm what Pythagoras and the ancient sages have
-taught upon this subject <span id="fr_657"></span>[d](#fn_656):
+taught upon this subject <span id="fr_657"></span>[d](#fn_656.md):
 
 Besides \[these same naturalists continue\], the greater part of the
 fossil bones that have been assembled and compared are those of animals
 different from any of the species actually known; has the kingdom of
 life therefore changed? This one cannot refuse to believe. <span
-id="fr_658"></span>[e](#fn_657) As Nature proceeds unceasingly from the
+id="fr_658"></span>[e](#fn_657.md) As Nature proceeds unceasingly from the
 simple to the composite, it is probable that the most imperfect animals
 should have been created before the tribes, higher in the scale of life.
 It even seems that each of the animal classes
@@ -101,7 +101,7 @@ thus enumerate the epochs of living Nature, epochs remote in the night
 of ages and which have been obliged to precede the formation of mankind.
 A time may have been when the insect, the shell, the unclean reptile,
 did not recognize the master in the Universe and were placed at the head
-of the organized bodies. <span id="fr_659"></span>[a](#fn_658)
+of the organized bodies. <span id="fr_659"></span>[a](#fn_658.md)
 
 These observers add:
 
@@ -113,14 +113,14 @@ the vegetable. . . . It is evident that Nature, having created a series
 of plants and animals, and having stopped at man who forms the superior
 extremity, has assembled in him all the vital faculties that it had
 distributed among the inferior races. <span
-id="fr_660"></span>[b](#fn_659)
+id="fr_660"></span>[b](#fn_659.md)
 
 These are the ideas of Leibnitz. This celebrated man had said: ''Men
 hold to animals; these to plants, and those to fossils. It is necessary
 that all the natural orders form only one sole chain, in which the
 different classes hold strictly as if they were its links." <span
-id="fr_661"></span>[c](#fn_660) Several philosophers have adopted
-them, <span id="fr_662"></span>[d](#fn_661) but none have expressed them
+id="fr_661"></span>[c](#fn_660.md) Several philosophers have adopted
+them, <span id="fr_662"></span>[d](#fn_661.md) but none have expressed them
 with more order and energy than the author of the article Nature, in *Le
 Nouveau Dictionnaire d’Histoire naturelle*.
 
@@ -139,7 +139,7 @@ resembles only a degraded man; and the same suggestion of degradation is
 observed in passing from monkeys to quadrupeds; so that the primitive
 trend of the organization is recognized in all, and the principal
 viscera, the principal members are identical there. <span
-id="fr_663"></span>[a](#fn_662)
+id="fr_663"></span>[a](#fn_662.md)
 
 Who knows \[observes elsewhere the same writer\] who knows if in the
 eternal night of time the sceptre of the world will not pass from the
@@ -153,7 +153,7 @@ yoke of the European; will the latter bow the head in his turn before a
 race more powerful and more intelligent when it enters into the plans of
 Nature to ordain his existence? Where will his creation stop? Who will
 place the limits of his power? God alone raises it and it is His
-all-powerful hand which governs. <span id="fr_664"></span>[b](#fn_663)
+all-powerful hand which governs. <span id="fr_664"></span>[b](#fn_663.md)
 
 These striking passages full of forceful ideas, which appear new, and
 which would merit being better known, contain only a small part of the
@@ -164,47 +164,47 @@ later.
 
 ### Footnotes
 
-<span id="fn_651"></span>[271:a](ogv46.htm#fr_652) Cité par De Gérando,
+<span id="fn_651"></span>[271:a](ogv46.htm#fr_652.md) Cité par De Gérando,
 *Hist. des Systèmes*, t. ii., p. 100.
 
-<span id="fn_652"></span>[271:b](ogv46.htm#fr_653) *Hist. des Animaux*,
+<span id="fn_652"></span>[271:b](ogv46.htm#fr_653.md) *Hist. des Animaux*,
 *in*-4, p. 37.
 
-<span id="fn_653"></span>[272:a](ogv46.htm#fr_654) *System des
+<span id="fn_653"></span>[272:a](ogv46.htm#fr_654.md) *System des
 transcendental Idalimus*, p. 441; *Zeitschrift für die speculative
 Physick*.
 
-<span id="fn_654"></span>[272:b](ogv46.htm#fr_655) Buffon, *Théorie de
+<span id="fn_654"></span>[272:b](ogv46.htm#fr_655.md) Buffon, *Théorie de
 la Terre;* Linné, *De Telluris habitab. Increment;* Burnet,
 *Archæolog*., etc.
 
-<span id="fn_655"></span>[272:c](ogv46.htm#fr_656) *Nouv. Dict. d’Hist*.
+<span id="fn_655"></span>[272:c](ogv46.htm#fr_656.md) *Nouv. Dict. d’Hist*.
 nat., art. QUADRUPÈDE.
 
-<span id="fn_656"></span>[272:d](ogv46.htm#fr_657) Ovid., *Metamorph*.,
+<span id="fn_656"></span>[272:d](ogv46.htm#fr_657.md) Ovid., *Metamorph*.,
 l. xv.
 
-<span id="fn_657"></span>[272:e](ogv46.htm#fr_658) *Nouv. Dict. d’Hist*.
+<span id="fn_657"></span>[272:e](ogv46.htm#fr_658.md) *Nouv. Dict. d’Hist*.
 nat., art. QUADRUPÈDE.
 
-<span id="fn_658"></span>[273:a](ogv46.htm#fr_659) *Nouv. Dict. d’Hist
+<span id="fn_658"></span>[273:a](ogv46.htm#fr_659.md) *Nouv. Dict. d’Hist
 nat.*, art. ANIMAL.
 
-<span id="fn_659"></span>[273:b](ogv46.htm#fr_660) *Nouv. Dict.*, art.
+<span id="fn_659"></span>[273:b](ogv46.htm#fr_660.md) *Nouv. Dict.*, art.
 NATURE.
 
-<span id="fn_660"></span>[273:c](ogv46.htm#fr_661) Lettre à Hermann.
+<span id="fn_660"></span>[273:c](ogv46.htm#fr_661.md) Lettre à Hermann.
 
-<span id="fn_661"></span>[273:d](ogv46.htm#fr_662) Charles Bonnet,
+<span id="fn_661"></span>[273:d](ogv46.htm#fr_662.md) Charles Bonnet,
 *Contempt. de la Nat.*, p. 16; Lecat., *Traité du Mouvement musculaire*,
 p. 54, art. iii.; Robinet, *De la Nature*, t. iv., p. 17, etc.
 
-<span id="fn_662"></span>[274:a](ogv46.htm#fr_663) *Nouv. Dict.*, art.
+<span id="fn_662"></span>[274:a](ogv46.htm#fr_663.md) *Nouv. Dict.*, art.
 QUADRUPÉDE.
 
-<span id="fn_663"></span>[274:b](ogv46.htm#fr_664) *Nouv. Dict.*, art.
+<span id="fn_663"></span>[274:b](ogv46.htm#fr_664.md) *Nouv. Dict.*, art.
 ANIMAL.
 
 ------------------------------------------------------------------------
 
-[Next: 36. Letting Intelligence O’er Thy Body Reign](ogv47)
+[Next: 36. Letting Intelligence O’er Thy Body Reign](ogv47.md)

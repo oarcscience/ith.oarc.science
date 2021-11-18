@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](csus25)  [Next](csus27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](csus25)  [Next](csus27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486215806/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ at irregular intervals. There seems, too, to have been a speculative
 spirit among them, for while in 1859 they owned ten thousand acres of
 land and a town, which must have been worth at least three hundred
 thousand dollars, as the land was all fenced and improved, and the town
-was uncommonly well built, <span id="fr_26"></span>[\*](#fn_26) they
+was uncommonly well built, <span id="fr_26"></span>[\*](#fn_26.md) they
 owed at that time, or in 1860, between eighty and one hundred thousand
 dollars.
 
@@ -163,7 +163,7 @@ reading except in the Bible, teaching that the most important matter for
 every man was to get a thorough understanding of the commandments of
 God. They had for a little while a newspaper, and they printed at the
 neighboring town of Galva, which was their business centre, an edition
-of their hymn-book. <span id="fr_27"></span>[\*](#fn_27) They
+of their hymn-book. <span id="fr_27"></span>[\*](#fn_27.md) They
 discouraged amusements, as tending to worldliness; and though they
 appear to have lived happily and without disputes, about 1859 they
 discovered that their young people, who had grown up in the society,
@@ -261,15 +261,15 @@ to keep free from debt.
 
 ### Footnotes
 
-<span id="fn_26"></span>[346:\*](csus26.htm#fr_26) Between four and five
+<span id="fn_26"></span>[346:\*](csus26.htm#fr_26.md) Between four and five
 hundred thousand dollars was their own valuation; and in 1860 a report
 given in one of the briefs of a lawsuit gives their assets at $864,000,
 and their debts at less than $100,000.
 
-<span id="fn_27"></span>[347:\*](csus26.htm#fr_27) "Några Sånger, samt
+<span id="fn_27"></span>[347:\*](csus26.htm#fr_27.md) "Några Sånger, samt
 Böner. Förfatade af Erik Janson. Förenade Staterna, Galva, Ills. S.
 Cronsioe, 1857."
 
 ------------------------------------------------------------------------
 
-[Next: The Cedar Vale Community.](csus27)
+[Next: The Cedar Vale Community.](csus27.md)

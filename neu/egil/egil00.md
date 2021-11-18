@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Next](egil01) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Next](egil01.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ ELLIOT STOCK, 62, PATERNOSTER ROW, E.C.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](egil01)
+[Next: Introduction](egil01.md)

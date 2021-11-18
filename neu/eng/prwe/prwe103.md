@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe102)  [Next](prwe104) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe102)  [Next](prwe104.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ pursuit and disappeared."
 
 ------------------------------------------------------------------------
 
-[Next: The Spectral Coach](prwe104)
+[Next: The Spectral Coach](prwe104.md)

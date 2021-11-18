@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](hut09)  [Next](hut11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](hut09)  [Next](hut11.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [California](../index)  [Index](index) 
 
 # VII.
 
-### Xonsadiñ Kûntcūwiltcwil. <span id="fr_32"></span>[1](#fn_32)--Xonsadiñ Young Man.
+### Xonsadiñ Kûntcūwiltcwil. <span id="fr_32"></span>[1](#fn_32.md)--Xonsadiñ Young Man.
 
 <span id="page_177">p. 177</span>
 
@@ -31,7 +31,7 @@ How you were dressed when you climbed that tree!" "Don't say that," he
 said. "We will visit people with it."
 
 After they had been travelling sometime the Xonsadiñ young man said,
-"Come, dress up in it." <span id="fr_33"></span>[1](#fn_33) He put it on
+"Come, dress up in it." <span id="fr_33"></span>[1](#fn_33.md) He put it on
 him but the Miskût young man could do nothing with it. He did not know
 how to use it. They went on to the mouth of Redwood creek and camped.
 When it was dark the Xonsadiñ young man said, "You stay here. I will go
@@ -59,7 +59,7 @@ heard them eating in the house. Then he tore away the fence which was
 about the grave and began to take down the things which were hung above
 it. He had only secured a few articles when he heard someone coming. He
 started to run but was nearly caught before he thought of the
-kitdōñxoi <span id="fr_34"></span>[1](#fn_34) which he had. He touched
+kitdōñxoi <span id="fr_34"></span>[1](#fn_34.md) which he had. He touched
 that and then he nearly flew. When he came where his companion was
 sitting he said, "They nearly caught me."
 
@@ -72,16 +72,16 @@ together; with it we will go visiting."
 
 ### Footnotes
 
-<span id="fn_32"></span>[174:1](hut10.htm#fr_32) Told at Hupa, July
+<span id="fn_32"></span>[174:1](hut10.htm#fr_32.md) Told at Hupa, July
 1901, by Mary Marshall.
 
-<span id="fn_33"></span>[177:1](hut10.htm#fr_33) Probably it was a wolf
+<span id="fn_33"></span>[177:1](hut10.htm#fr_33.md) Probably it was a wolf
 skin.
 
-<span id="fn_34"></span>[178:1](hut10.htm#fr_34) Kitdōñxoi is the name
+<span id="fn_34"></span>[178:1](hut10.htm#fr_34.md) Kitdōñxoi is the name
 given to the material thing of whatever kind from which the evil power
 is obtained. See Life and Culture of the Hupa, p. 64.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Datcwindiñ Xonaïswe.--Gooseberry-place Brush Dance](hut11)
+[Next: VIII. Datcwindiñ Xonaïswe.--Gooseberry-place Brush Dance](hut11.md)

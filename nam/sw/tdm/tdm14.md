@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](tdm13)  [Next](tdm15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](tdm13)  [Next](tdm15.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ that the time had come to pay a visit to the maiden. After the sun had
 gone down he went out and leaned against the northern wall of the big
 house, gazing steadily at the dwellings of the Eagle clan. There were
 too many people about yet for him to attempt the call, and
-[furthermore](errata.htm#5) it was so early that the council could
+[furthermore](errata.htm#5.md) it was so early that the council could
 hardly have assembled. By the light of the moon he saw clearly the
 movements of the people, although it was impossible to recognize
 individuals at any distance. The boy sat down and waited. From where he
@@ -645,4 +645,4 @@ wished, prevent him from becoming Mitsha's husband.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](tdm15)
+[Next: Chapter XIII](tdm15.md)

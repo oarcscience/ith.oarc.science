@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Previous](adg05)  [Next](adg07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Previous](adg05)  [Next](adg07.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,4 +129,4 @@ Allah.
 ------------------------------------------------------------------------
 
 [Next: His adages (puh) about wisdom and wise men, and the mind and the
-mindful men](adg07)
+mindful men](adg07.md)

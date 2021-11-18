@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](orl07)  [Next](orl09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](orl07)  [Next](orl09.md) 
 
 ------------------------------------------------------------------------
 
@@ -1031,4 +1031,4 @@ Him next, the canto which ensues shall tell.</td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto 9](orl09)
+[Next: Canto 9](orl09.md)

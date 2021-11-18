@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](hag)  [Next](mal) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](hag)  [Next](mal.md) 
 
 ------------------------------------------------------------------------
 
@@ -877,4 +877,4 @@ shall be no more a Canaanite in the house of Jehovah of hosts.
 
 ------------------------------------------------------------------------
 
-[Next: Malachi](mal)
+[Next: Malachi](mal.md)

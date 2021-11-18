@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Next](jms01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Next](jms01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0812218620/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Magic and Superstition*, by Joshua Trachtenberg, \[1939\], at
 Intangible Textual Heritage
 
@@ -34,7 +34,7 @@ Copyright office as required by law at the time.
 POPULAR MEDIEVAL AMULET TO PROTECT THE MOTHER AND CHILD AGAINST ATTACK
 BY LILIT DURING CHILDBIRTH.FROM &lt;i&gt;Sefer Raziel&lt;/i&gt;,
 AMSTERDAM, 1701.](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 Frontispiece: POPULAR MEDIEVAL AMULET TO PROTECT THE MOTHER AND CHILD
 AGAINST ATTACK BY LILIT DURING CHILDBIRTH.—FROM *Sefer Raziel*,
 AMSTERDAM, 1701.  
@@ -42,4 +42,4 @@ AMSTERDAM, 1701.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](jms01)
+[Next: Table of Contents](jms01.md)

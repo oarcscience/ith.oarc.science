@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](osc03)  [Next](osc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](osc03)  [Next](osc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -67,4 +67,4 @@ breakfast together.
 
 ------------------------------------------------------------------------
 
-[Next: (2) Valentine's Day (February 14th)](osc05)
+[Next: (2) Valentine's Day (February 14th)](osc05.md)

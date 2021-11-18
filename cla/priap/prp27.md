@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp26)  [Next](prp28) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp26)  [Next](prp28.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ higher.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: 28. Priapus! perish I an words obscene](prp28)
+[Next: 28. Priapus! perish I an words obscene](prp28.md)

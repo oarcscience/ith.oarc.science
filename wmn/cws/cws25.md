@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws24)  [Next](cws26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws24)  [Next](cws26.md) 
 
 ------------------------------------------------------------------------
 
 ### No. XXI
 
-#### CONCERNING THE "MAN OF POWER" <span id="fr_98"></span>[3](#fn_98)
+#### CONCERNING THE "MAN OF POWER" <span id="fr_98"></span>[3](#fn_98.md)
 
 I HAVE said that everything is fourfold, and as is the planet, so also
 is the man. The perfect man has a fourfold outer body,--gaseous,
@@ -104,7 +104,7 @@ when you beheld the human shape in
 <span id="page_60">p. 60</span>
 
 creatures under torture in the laboratory. <span
-id="fr_99"></span>[1](#fn_99) And it is still partly rudimentary when it
+id="fr_99"></span>[1](#fn_99.md) And it is still partly rudimentary when it
 puts on the human. Indulgence in its lower propensities may strengthen
 it in its old likeness, and accentuate its former propensities. On the
 other hand, aspiration towards the divine will accelerate the change,
@@ -128,7 +128,7 @@ Enchanted City, in the eastern fables, is descriptive of this mystery.
 
 ### Footnotes
 
-<span id="fn_96"></span>[57:1](cws24.htm#fr_96) Herein is suggested yet
+<span id="fn_96"></span>[57:1](cws24.htm#fr_96.md) Herein is suggested yet
 another application of the parable of the Deluge. Thibet, like Thebes,
 signifies Ark; and if, as long supposed, it was once the sole home of
 spiritual knowledge in the world and centre whence it was diffused, it
@@ -138,19 +138,19 @@ that Thibet is the highest table-land on the globe, and that the word
 *Ararat* is identical with the word *Arhat*, the Hindu term for the
 summit of spiritual attainment.    E. M.
 
-<span id="fn_97"></span>[57:2](cws24.htm#fr_97) Concerning the method of
+<span id="fn_97"></span>[57:2](cws24.htm#fr_97.md) Concerning the method of
 recovery of these recollections, see note at end of No. XXXII.
 
-<span id="fn_98"></span>[57:3](cws25.htm#fr_98) London, December 1880.
+<span id="fn_98"></span>[57:3](cws25.htm#fr_98.md) London, December 1880.
 Spoken in trance, but not, as in the foregoing, in the speaker's own
 person, but under dictation heard interiorly; and so also with the three
 utterances which follow.    E. M.
 
 Referred to in *Life of Anna Kingsford*, Vol. i, pp. 404-408.
 
-<span id="fn_99"></span>[60:1](cws25.htm#fr_99) See *Dreams and
+<span id="fn_99"></span>[60:1](cws25.htm#fr_99.md) See *Dreams and
 Dream-Stories*, No, XIV, "The Laboratory Under-ground."
 
 ------------------------------------------------------------------------
 
-[Next: No. XXII: Concerning The ''Work Of Power''](cws26)
+[Next: No. XXII: Concerning The ''Work Of Power''](cws26.md)

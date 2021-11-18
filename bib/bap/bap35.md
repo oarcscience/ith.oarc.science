@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap34) 
-[Next](bap36) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](bap34.md) 
+[Next](bap36.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,14 +30,14 @@ both ye and your sons and
 all your generations after you will arise and seek the day of my death
 and will say in their heart: Who will give us a shepherd like unto
 Moses, or such another judge to the children of Israel, to pray for our
-sins at all times, <span id="fr_84"></span>[1](#fn_84) and to be heard
+sins at all times, <span id="fr_84"></span>[1](#fn_84.md) and to be heard
 for our
 
 |                |
 |----------------|
 | Dt. 4:26, etc. |
 
-iniquities? 4. <span id="fr_85"></span>[2](#fn_85) Howbeit, *this day I
+iniquities? 4. <span id="fr_85"></span>[2](#fn_85.md) Howbeit, *this day I
 call heaven and earth to witness against you*, for the heaven shall hear
 this and the earth shall take it in with her ears, that God hath
 revealed the end of the world,
@@ -109,7 +109,7 @@ I will give to my people. And he shewed him the place from whence the
 clouds draw up water to water all the earth, and the place whence the
 river receiveth his water, and the land of Egypt, and the place of the
 firmament, from whence the holy land only drinketh. <span
-id="fr_86"></span>[1](#fn_86) He shewed him also the place from whence
+id="fr_86"></span>[1](#fn_86.md) He shewed him also the place from whence
 it rained manna for the people, and even unto the paths of paradise. And
 he shewed him the measures of the sanctuary, and the number of the
 offerings, and the sign whereby men shall interpret (*lit*. begin to
@@ -122,18 +122,18 @@ wherewith the
 signs were wrought shall be for a witness between me and my people. And
 when they sin I shall be wroth with them and remember my rod, and spare
 them according to my mercy, and thy rod shall be in my sight for a
-remembrance all the days, <span id="fr_87"></span>[1](#fn_87) and shall
+remembrance all the days, <span id="fr_87"></span>[1](#fn_87.md) and shall
 be like unto the bow wherein I made a covenant with Noe when he came out
 of the ark, saying: I will set my bow in the cloud, and it shall be a
 sign between me and men that the water of a flood be no more upon the
 earth. 12. But thee will I take hence and give thee sleep <span
-id="fr_88"></span>[2](#fn_88) with thy fathers and give thee rest in thy
+id="fr_88"></span>[2](#fn_88.md) with thy fathers and give thee rest in thy
 slumber, and bury thee in peace, and all the angels shall lament for
 thee, and the hosts *of heaven* shall be sorrowful. But there shall not
 any, of angels or men, know thy sepulchre wherein thou art to be buried,
 but thou shalt rest therein until I visit the world, and raise thee up
 and thy fathers out of the earth \[of Egypt\] <span
-id="fr_89"></span>[3](#fn_89) wherein ye shall sleep, and ye shall come
+id="fr_89"></span>[3](#fn_89.md) wherein ye shall sleep, and ye shall come
 together and dwell in an immortal habitation that is not subject unto
 time. 13. But this heaven shall be in my sight as a fleeting cloud, and
 like yesterday when it is past, and it shall be when I draw near to
@@ -151,10 +151,10 @@ therein.
 according to the multitude of thy mercy, be not wroth with me. And shew
 me what measure of time hath passed by and what remaineth. 15. And the
 Lord said to him: An instant, the topmost part of a hand, <span
-id="fr_90"></span>[1](#fn_90) the fulness of a moment, <span
-id="fr_91"></span>[2](#fn_91) and the drop of a cup. And time hath
+id="fr_90"></span>[1](#fn_90.md) the fulness of a moment, <span
+id="fr_91"></span>[2](#fn_91.md) and the drop of a cup. And time hath
 fulfilled all. For 4½ have passed by, and 2½ remain. <span
-id="fr_92"></span>[3](#fn_92)
+id="fr_92"></span>[3](#fn_92.md)
 
 <span id="page_132">p. 132</span>
 
@@ -178,48 +178,48 @@ whole world.
 
 ### Footnotes
 
-<span id="fn_84"></span>[127:1](bap35.htm#fr_84) XIX. 3. *to pray for
+<span id="fn_84"></span>[127:1](bap35.htm#fr_84.md) XIX. 3. *to pray for
 our sins at all times*. cf. *Assumption of Moses*, 11:11, 11:17; 12:3.
 
-<span id="fn_85"></span>[127:2](bap35.htm#fr_85) 4. DCCXL. years of the
+<span id="fn_85"></span>[127:2](bap35.htm#fr_85.md) 4. DCCXL. years of the
 MSS. should, as Dr. Cohn suggests, be changed to DCCCL. From the death
 of Moses to the building of the first temple 440 years are reckoned, and
 from thence to its destruction 410. The *Seder Olam Rabbah* XI. reckons
 seventeen Jubilees (850 years) from the entrance into the Holy Land to
 the Captivity (Cohn, p. 327, note).
 
-<span id="fn_86"></span>[129:1](bap35.htm#fr_86) 10. *the place of the
+<span id="fn_86"></span>[129:1](bap35.htm#fr_86.md) 10. *the place of the
 firmament from whence the holy land only drinketh*. cf. Babylonian
 Talmud *Taanith* I (tr. Rodkinson, p. 24). "The land of Israel is
 watered by the Lord himself, while the rest of the world is watered by a
 messenger. . . The land of Israel is watered by rain, while the rest of
 the world is watered by the residue remaining in the clouds."
 
-<span id="fn_87"></span>[130:1](bap35.htm#fr_87) 11. The rod of Moses is
+<span id="fn_87"></span>[130:1](bap35.htm#fr_87.md) 11. The rod of Moses is
 to be transported to heaven and to become a sign like the rainbow.
 Perhaps the Milky Way is meant. No such tradition is cited in Mr. I.
 Abrahams' interesting paper on "The Rod of Moses," in *Papers read
 before the Jews' College Literary Society* (1887, p. 28), nor in
 Daehnhardt's *Natursagen*, nor in other sources which I have consulted.
 
-<span id="fn_88"></span>[130:2](bap35.htm#fr_88) 12. *give thee sleep*.
+<span id="fn_88"></span>[130:2](bap35.htm#fr_88.md) 12. *give thee sleep*.
 *Dormificabo* R., which must be preferred, I think, to *glorificabo* of
 AP.
 
-<span id="fn_89"></span>[130:3](bap35.htm#fr_89) *the earth* \[*of
+<span id="fn_89"></span>[130:3](bap35.htm#fr_89.md) *the earth* \[*of
 Egypt*\]. The word *Aegypti* is certainly intrusive, written
 mechanically after *excitabo te*, etc., *de terra*.
 
-<span id="fn_90"></span>[131:1](bap35.htm#fr_90) *Lit*.: Here *is*
+<span id="fn_90"></span>[131:1](bap35.htm#fr_90.md) *Lit*.: Here *is*
 honey, a great summit.
 
-<span id="fn_91"></span>[131:2](bap35.htm#fr_91) 15. The corrupt words
+<span id="fn_91"></span>[131:2](bap35.htm#fr_91.md) 15. The corrupt words
 *istic mel apex magnus* I emend into *stigma et apex manus*, cf. 4 Esdr.
 4:48-50; 6:9, 6:10. *The fulness of a moment: momenti plenitudo*.
 Perhaps this renders ρηοπῆσ πλήρωμα, that which fills the scale of the
 balance and causes it to sink.
 
-<span id="fn_92"></span>[131:3](bap35.htm#fr_92) *four and a half have
+<span id="fn_92"></span>[131:3](bap35.htm#fr_92.md) *four and a half have
 passed and two and a half remain* (cf. 4 Esdr. 14:11). The total, seven,
 agrees with that in the Vision of Kenaz (XXVI I 1. 8), "men shall dwell
 in the world VII. (*i.e.* 7000) years." The calculation in the present
@@ -267,4 +267,4 @@ spent much space in trying to prove that it was actually part of the
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XX](bap36)
+[Next: Chapter XX](bap36.md)

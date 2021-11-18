@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi113)  [Next](mtsi115) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi113)  [Next](mtsi115.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ This is how it is told.
 
 ------------------------------------------------------------------------
 
-[Next: 22. Terrapin Races](mtsi115)
+[Next: 22. Terrapin Races](mtsi115.md)

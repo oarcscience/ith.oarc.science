@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp10)  [Next](wgp12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp10)  [Next](wgp12.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ trichomanes*, was and is also called popularly maiden-hair, or
 maiden's-hair; and we believe that the same name has been given to one
 or two other plants. There is reason for believing that the hair implied
 in these names was that of the pubes. <span
-id="fr_67"></span>[68](#fn_67) We might collect a number of other old
+id="fr_67"></span>[68](#fn_67.md) We might collect a number of other old
 popular names of plants of a similar character with these just
 enumerated.
 
@@ -96,7 +96,7 @@ VI. and Charles VII. In 1429 one Friar Richard, of the order of the
 Cordeliers, preached a fierce sermon against the use of this amulet, the
 temporary effect of which was so great, that a certain number of his
 congregation delivered up their "mandragoires" to the preacher to be
-burnt. <span id="fr_68"></span>[69](#fn_68)
+burnt. <span id="fr_68"></span>[69](#fn_68.md)
 
 It appears that the people who dealt in these amulets helped nature to a
 rather considerable extent by the means of art, and that there was a
@@ -116,21 +116,21 @@ twenty days. They then took up the mandrake again, trimmed the fibrous
 roots of millet or barley which served for hair, retouched the parts
 themselves so as to give them their form more perfectly and more
 permanently, and then sold it. <span
-id="fr_69"></span>[70](wgp12.htm#fn_69)
+id="fr_69"></span>[70](wgp12.htm#fn_69.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_67"></span>[100:68](wgp11.htm#fr_67) Fumitory was another
+<span id="fn_67"></span>[100:68](wgp11.htm#fr_67.md) Fumitory was another
 of these plants, and in a vocabulary of plants in a MS. of the middle of
 the thirteenth century, we find its names in Latin, French, and English
 given as follows, "*Fumus terrae, fumeterre, cunteboare*." See Wright's
 *Volume of Vocabularies*, p. 17.
 
-<span id="fn_68"></span>[102:69](wgp11.htm#fr_68) *Journal a'un
+<span id="fn_68"></span>[102:69](wgp11.htm#fr_68.md) *Journal a'un
 Bourgeois de Paris*, under the year 1429.
 
 ------------------------------------------------------------------------
 
-[Next: Other Festivals](wgp12)
+[Next: Other Festivals](wgp12.md)

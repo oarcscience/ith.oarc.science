@@ -1,4 +1,4 @@
-[Intangible Textual Heritage](../../index) [Islam](../index)
+[Intangible Textual Heritage](../../index) [Islam](../index.md)
 
 ------------------------------------------------------------------------
 
@@ -35,15 +35,15 @@ of additional available material would be greatly appreciated.
 
 ***JAOS*, vol. ii, art. xii, pp. 257-324:**
 
--   [Introduction](../../journals/jaos/isma1-1)
+-   [Introduction](../../journals/jaos/isma1-1.md)
 -   [Excerpts from Esh-Shahrastâny's *Book of Creeds and
-    Sects*](../../journals/jaos/isma1-2)
+    Sects*](../../journals/jaos/isma1-2.md)
 -   [The Attack of the Partizan of Justice upon the party of the
     Ismâ’ilîyeh, and the Angry Eye upon the party of the
-    Ḳarâmaṭah](../../journals/jaos/isma1-3)
--   [Untitled Ismâ’ili document](../../journals/jaos/isma1-4)
+    Ḳarâmaṭah](../../journals/jaos/isma1-3.md)
+-   [Untitled Ismâ’ili document](../../journals/jaos/isma1-4.md)
 
 ***JAOS*, vol. iii, art. ii, pp. 167-193:**
 
 -   [Two fragments of a *Risâleh* by Khâlid Ibn Zeid
-    El-Ju’fy](../../journals/jaos/isma2)
+    El-Ju’fy](../../journals/jaos/isma2.md)

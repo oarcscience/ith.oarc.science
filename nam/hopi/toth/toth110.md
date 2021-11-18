@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth109)  [Next](toth111) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth109)  [Next](toth111.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 107. THE LAST FIGHT WITH THE NAVAHO. <span id="fr_196"></span>[1](#fn_194)
+## 107. THE LAST FIGHT WITH THE NAVAHO. <span id="fr_196"></span>[1](#fn_194.md)
 
 The Navaho had repeatedly raided the other villages, though the Oraíbi
 had never had a real encounter with that warlike tribe, by which they
@@ -229,7 +229,7 @@ carried their wounded away while the battle was raging, taking them all
 to a certain place from which they later took them with them, tying them
 on their ponies. The retreating Hopi were followed by bands of Navaho,
 while other bands of the latter tried to outflank them and to reach the
-village first. <span id="fr_197"></span>[1](#fn_195)
+village first. <span id="fr_197"></span>[1](#fn_195.md)
 
 While both parties were drawing closer to the village, the Hopi
 retreating and the Navaho following them, more or less fighting was
@@ -338,16 +338,16 @@ parents,
 
 where they were then taken care of. Some of the wounded Hopi later on
 also died, while a great many of them recovered. <span
-id="fr_198"></span>[1](toth111.htm#fn_196)
+id="fr_198"></span>[1](toth111.htm#fn_196.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_194"></span>[258:1](toth110.htm#fr_196) Told by Qöyáwaima
+<span id="fn_194"></span>[258:1](toth110.htm#fr_196.md) Told by Qöyáwaima
 (Oraíbi).
 
-<span id="fn_195"></span>[263:1](toth110.htm#fr_197) The number killed
+<span id="fn_195"></span>[263:1](toth110.htm#fr_197.md) The number killed
 on both sides will perhaps never be fully ascertained, but the
 aforementioned Navaho, Mâ'yalolo had become a member of one of the Hopi
 societies, later on came to Oraíbi, and he is authority for the
@@ -367,4 +367,4 @@ ponies.
 
 ------------------------------------------------------------------------
 
-[Next: 108. A Hopi Raid On A Navaho Dance](toth111)
+[Next: 108. A Hopi Raid On A Navaho Dance](toth111.md)

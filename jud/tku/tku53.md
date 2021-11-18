@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku52)  [Next](tku54) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku52)  [Next](tku54.md) 
 
 ------------------------------------------------------------------------
 
-# CHAPTER XLV. <span id="fr_203"></span>[1](#fn_201)
+# CHAPTER XLV. <span id="fr_203"></span>[1](#fn_201.md)
 
 ### CONCLUSION.
 
@@ -82,7 +82,7 @@ through two hundred and fifty worlds.
 1145\. And before that those (*three Rabbis*) could recollect their
 souls, NShMThIIHV, *Nesehamathiyehu*, among those words (*of that
 Voice*) their souls had gone forth with a kiss <span
-id="fr_204"></span>[1](#fn_202); and were joined unto that expanded
+id="fr_204"></span>[1](#fn_202.md); and were joined unto that expanded
 veil, and the Supernal Angels carried them away.
 
 1146\. But wherefore those? Because they had entered in, and had not
@@ -133,7 +133,7 @@ none present there save those (*companions*).
 1159\. And Rabbi Schimeon called them the seven eyes of Tetragrammaton,
 like as it is written, Zach. iii. 9: "These are the seven eyes of
 Tetragrammaton." And this was said concerning us. <span
-id="fr_205"></span>[1](#fn_203)
+id="fr_205"></span>[1](#fn_203.md)
 
 <span id="page_255">p. 255</span>
 
@@ -144,7 +144,7 @@ us all.
 1161\. "For assuredly there is no stability in those six, save (what
 they derive) from the seventh. For all things depend from the seventh."
 
-1162\. Rabbi Yehudah called him <span id="fr_206"></span>[1](#fn_204)
+1162\. Rabbi Yehudah called him <span id="fr_206"></span>[1](#fn_204.md)
 the Sabbath of all the six (Rabbi).
 
 1163\. Like as it is written: "The Sabbath for Tetragrammaton, holy unto
@@ -154,7 +154,7 @@ Tetragrammaton."
 Schimeon is, like the Sabbath, holy unto Tetragrammaton.
 
 1165\. Rabbi Schimeon said: "It is strange that he <span
-id="fr_207"></span>[2](#fn_205) who is girded about the loins, and
+id="fr_207"></span>[2](#fn_205.md) who is girded about the loins, and
 clothed with a heavy garment, was not found in the place of our conclave
 when those holy matters were revealed!"
 
@@ -195,12 +195,12 @@ eaten for three days.
 1174\. "And all the day I quitted them not.
 
 1175\. "And when I returned (*hither*), I found the Veil expanded which
-all these Columns <span id="fr_208"></span>[1](#fn_206) upheld; and
+all these Columns <span id="fr_208"></span>[1](#fn_206.md) upheld; and
 three of the Companions (*had ascended*) above it.
 
 1176\. "And I spake unto them, and they answered: 'This is the portion
 of God the most Holy One--may He be blessed!--from the nuptials <span
-id="fr_209"></span>[2](#fn_207) of Rabbi Schimeon and his companions.'
+id="fr_209"></span>[2](#fn_207.md) of Rabbi Schimeon and his companions.'
 
 1177\. "Blessed art thou, Rabbi Schimeon, and blessed is thy portion,
 and that of those companions who are sitting in thy presence.
@@ -260,34 +260,34 @@ Hereunto is the Greater Holy Assembly.
 
 ### Footnotes
 
-<span id="fn_201"></span>[251:1](tku53.htm#fr_203) It is worthy of note
+<span id="fn_201"></span>[251:1](tku53.htm#fr_203.md) It is worthy of note
 that the total number of chapters in the "Idra Rabba Qadisha" is 45,
 which is equal to MH, *Mah*, the concealed name of Yetzirah. (See
 Introduction concerning the Four Worlds.)
 
-<span id="fn_202"></span>[253:1](tku53.htm#fr_204) The palace which is
+<span id="fn_202"></span>[253:1](tku53.htm#fr_204.md) The palace which is
 situate in the secret and most elevated part of heaven is called the
 Palace of Love. There dwells the Heavenly King--blessed be He!--with the
 holy souls, and is united with them with a loving kiss. This kiss is the
 union of the soul with the substance from which it emanated.
 
-<span id="fn_203"></span>[254:1](tku53.htm#fr_205) Meaning, I suppose,
+<span id="fn_203"></span>[254:1](tku53.htm#fr_205.md) Meaning, I suppose,
 that Rabbi Abba adds this by way of note to the test.
 
-<span id="fn_204"></span>[255:1](tku53.htm#fr_206) Him: *i.e.*, Rabbi
+<span id="fn_204"></span>[255:1](tku53.htm#fr_206.md) Him: *i.e.*, Rabbi
 Schimeon Ben Yochai, who was chief among the seven surviving Rabbis,
 like the Sabbath among the days of the week.
 
-<span id="fn_205"></span>[255:2](tku53.htm#fr_207) Elihu, who now
+<span id="fn_205"></span>[255:2](tku53.htm#fr_207.md) Elihu, who now
 enters.
 
-<span id="fn_206"></span>[256:1](tku53.htm#fr_208) The columns of the
+<span id="fn_206"></span>[256:1](tku53.htm#fr_208.md) The columns of the
 Sephiroth.
 
-<span id="fn_207"></span>[256:2](tku53.htm#fr_209) This term is
+<span id="fn_207"></span>[256:2](tku53.htm#fr_209.md) This term is
 occasionally used in a mystical sense to signify the acquisition of
 divine wisdom.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Which Containeth the Introduction](tku54)
+[Next: Chapter I: Which Containeth the Introduction](tku54.md)

@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg15)   
-[Previous](bgs14)  [Next](bgs16) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg15.md)   
+[Previous](bgs14)  [Next](bgs16.md) 
 
 ------------------------------------------------------------------------
 
@@ -87,4 +87,4 @@ etat buddhvā buddhimān syāt kṛtakṛtyaś ca bhārata
 
 ------------------------------------------------------------------------
 
-[Next: XVI. atha ṣoḍaśodhyāyaḥ. (daivāsurasaṃpadvibhāgayogaḥ)](bgs16)
+[Next: XVI. atha ṣoḍaśodhyāyaḥ. (daivāsurasaṃpadvibhāgayogaḥ)](bgs16.md)

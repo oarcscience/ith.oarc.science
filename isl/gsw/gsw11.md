@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](gsw10)  [Next](gsw12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](gsw10)  [Next](gsw12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Glory of the Shia World*, by P. M. Sykes and Khan Bahadur Ahmad din
 Khan, \[1910\], at Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Khan, \[1910\], at Intangible Textual Heritage
 <span id="page_102">p. 102</span>
 
 <span id="img_10200"></span> ![FROM AN EARTHENWARE WATER
-PIPE](img/10200.jpg)
+PIPE](img/10200.jpg.md)
 
 ### CHAPTER VII
 
@@ -125,7 +125,7 @@ in the case of the Prophet, on Him be peace!
 <span id="page_106">p. 106</span>
 
 It is recorded in the *Book of Calamity*, and runs as follows <span
-id="fr_43"></span>[1](#fn_43):—
+id="fr_43"></span>[1](#fn_43.md):—
 
 *Izrail*.—Here is one of the least servants of Mohamed, the King of the
 Faithful. Let some one be kind enough to come to the door, for I have a
@@ -202,7 +202,7 @@ princes; and all who are present or who are absent should appear, so
 that I may see you and speak to you in your own language, and obtain
 replies from you to the inquiries made from you as regards the treatment
 of this patient. Help, O Angels Rakyail, Jibrail, <span
-id="fr_44"></span>[1](#fn_44) Mekiail, Sarfiail, Ainail, Kamsail, in
+id="fr_44"></span>[1](#fn_44.md) Mekiail, Sarfiail, Ainail, Kamsail, in
 producing these Jinns.
 
 Suddenly the soothsayer foamed at the mouth to make us believe that
@@ -223,14 +223,14 @@ uncle was dying,
 <span id="page_109">p. 109</span>
 
 and, after mourners’ tears had been administered in vain, <span
-id="fr_45"></span>[1](#fn_45) he was gently laid with his face turned
+id="fr_45"></span>[1](#fn_45.md) he was gently laid with his face turned
 towards Mecca, while the "Yasin" chapter of the Koran was recited.
 
 After this the dying man was called upon
 
 <span id="img_10900"></span> <span align="CENTER">
 [![&lt;i&gt;MIRZA&lt;/i&gt; HASAN KHAN, MUSTAUFI](tn/10900.jpg)  
-Click to enlarge](img/10900.jpg)  
+Click to enlarge](img/10900.jpg.md)  
 *MIRZA* HASAN KHAN, MUSTAUFI  
 </span>
 
@@ -307,7 +307,7 @@ Mustaufi; there was also a
 <span id="img_11200"></span> <span align="CENTER"> [![THE
 MULLAH.&lt;br&gt; &lt;i&gt;Major P. I. Kennion,
 phot&lt;/i&gt;.](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)  
+Click to enlarge](img/11200.jpg.md)  
 THE MULLAH.  
 *Major P. I. Kennion, phot*.  
 </span>
@@ -473,7 +473,7 @@ As annihilation must overtake every one.
 
  
 
-<span id="img_11800"></span> ![FROM A DAGGER SHEATH](img/11800.jpg)
+<span id="img_11800"></span> ![FROM A DAGGER SHEATH](img/11800.jpg.md)
 
  
 
@@ -483,13 +483,13 @@ As annihilation must overtake every one.
 
 ### Footnotes
 
-<span id="fn_43"></span>[106:1](gsw11.htm#fr_43) The translation is
+<span id="fn_43"></span>[106:1](gsw11.htm#fr_43.md) The translation is
 taken from Sir L. Pelly's *The Miracle Play of Hasan and Husein*, p. 83.
 
-<span id="fn_44"></span>[108:1](gsw11.htm#fr_44) The Arabic form of
+<span id="fn_44"></span>[108:1](gsw11.htm#fr_44.md) The Arabic form of
 Gabriel.
 
-<span id="fn_45"></span>[109:1](gsw11.htm#fr_45) Mourners’ tears are
+<span id="fn_45"></span>[109:1](gsw11.htm#fr_45.md) Mourners’ tears are
 collected during the "Passion Play" described in chapter xii., and are
 considered to be a sovereign remedy for all diseases. The clean
 handkerchief, in which the tears are gathered, is dried and placed in
@@ -497,4 +497,4 @@ the shroud of the dead man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. My First *Mamuriat*](gsw12)
+[Next: Chapter VIII. My First *Mamuriat*](gsw12.md)

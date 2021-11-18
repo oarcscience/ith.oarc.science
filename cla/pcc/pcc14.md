@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](pcc13)  [Next](pcc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](pcc13)  [Next](pcc15.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ directions; tourists visited its shores. The known world had become one.
 The numberless peoples, tribes, nations, societies within the girdle of
 the Empire, with their various languages, creeds, customs, religions,
 philosophies, were profoundly influencing each other. <span
-id="fr_211"></span>[1](#fn_211) A great fusion was taking place; and it
+id="fr_211"></span>[1](#fn_211.md) A great fusion was taking place; and it
 was becoming inevitable that the next great religious movement would
 have a world-wide character.
 
@@ -102,7 +102,7 @@ the preceding rituals in one cult. In
 
 connection with the fine temples and elaborate services of Isis and
 Cybele and Mithra there was growing up a powerful priesthood; Franz
-Cumont <span id="fr_212"></span>[1](#fn_212) speaks of "the learned
+Cumont <span id="fr_212"></span>[1](#fn_212.md) speaks of "the learned
 priests of the Asiatic cults" as building up, on the foundations of old
 fetichism and superstition, a complete religious philosophy--just as the
 Brahmins had built the monism of the Vedanta on the "monstrous
@@ -113,7 +113,7 @@ a new combination and synthesis:--"Hadrien, Commode, Septime Severe,
 Julia Domna, Elagabal, Alexandre Sévère, en particulier ont contribué
 personnellement à la popularité et au succès des cultes qui se
 celebraient en l'honneur de Serapis et d'Isis, des divinités syriennes
-et de Mithra." <span id="fr_213"></span>[2](#fn_213)
+et de Mithra." <span id="fr_213"></span>[2](#fn_213.md)
 
 It was also probable that this new Religion would show (as indicated in
 the last chapter) a reaction against mere sex-indulgence; and, as
@@ -148,7 +148,7 @@ will be the more suitable as it is a belief which has in the past been
 commonly held to be distinctive of Christianity. Of course we know now
 that it is not in any sense distinctive, but that the long tradition of
 the Savior comes down from the remotest times, and perhaps from every
-country of the world. <span id="fr_214"></span>[1](#fn_214) The
+country of the world. <span id="fr_214"></span>[1](#fn_214.md) The
 Messianic prophecies of the Jews and the fifty-third chapter of Isaiah
 emptied themselves into the Christian teachings, and infected them to
 some degree with a Judaic tinge. The "Messiah" means of course the
@@ -160,7 +160,7 @@ word "The Christ" was in vogue in Alexandria as far back certainly as
 280 B.C., or nearly three centuries before Jesus. And what the word "The
 Anointed" strictly speaking means, and from what the expression is
 probably derived, will appear later. In *The Book of Enoch*, written not
-later than B.C. 170, <span id="fr_215"></span>[2](#fn_215) the Christ is
+later than B.C. 170, <span id="fr_215"></span>[2](#fn_215.md) the Christ is
 spoken of as already existing in heaven,
 
 <span id="page_203">p. 203</span>
@@ -179,7 +179,7 @@ great Osiris was the Savior of the world, both in his life and death: in
 his life through the noble works he wrought for the benefit of mankind,
 and in his death through his betrayal by the powers of darkness and his
 resurrection from the tomb and ascent into heaven. <span
-id="fr_216"></span>[1](#fn_216) The Egyptian doctrines descended through
+id="fr_216"></span>[1](#fn_216.md) The Egyptian doctrines descended through
 Alexandria into Christianity--and though they did not influence the
 latter deeply until about 300 A.D., yet they then succeeded in reaching
 the Christian Churches, giving a color to their teachings with regard to
@@ -188,7 +188,7 @@ of Isis in the Christian form of the Virgin Mary.
 
 Again, another great stream of influence descended from Persia in the
 form of the cult of Mithra. Mithra, as we have seen, <span
-id="fr_217"></span>[2](#fn_217) stood as a great Mediator between God
+id="fr_217"></span>[2](#fn_217.md) stood as a great Mediator between God
 and man. With his baptisms and eucharists, and his twelve disciples, and
 his birth in a cave, and so forth, he seemed to the early Fathers an
 invention of the devil and a most dangerous mockery on Christianity--and
@@ -202,11 +202,11 @@ Chester and other places--testify to its wide acceptance even here. At
 
 \[paragraph continues\] Rome the vogue of Mithraism became so great that
 in the third century A. D., it was quite doubtful <span
-id="fr_218"></span>[1](#fn_218) whether it *or* Christianity would
+id="fr_218"></span>[1](#fn_218.md) whether it *or* Christianity would
 triumph; the Emperor Aurelian in 273 founded a cult of the Invincible
-Sun in connection with Mithraism; <span id="fr_219"></span>[2](#fn_219)
+Sun in connection with Mithraism; <span id="fr_219"></span>[2](#fn_219.md)
 and as St. Jerome tells us in his letters, <span
-id="fr_220"></span>[3](#fn_220) the latter cult had at a later time to
+id="fr_220"></span>[3](#fn_220.md) the latter cult had at a later time to
 be suppressed in Rome and Alexandria by *physical force*, so powerful
 was it.
 
@@ -237,7 +237,7 @@ Christian writers, as time went on, not only introduced new doctrines,
 legends, miracles and so forth--most of which we can trace to antecedent
 pagan sources--but that they took especial pains to destroy the pagan
 records and so obliterate the evidence of their own dishonesty. We learn
-from Porphyry <span id="fr_221"></span>[1](#fn_221) that there were
+from Porphyry <span id="fr_221"></span>[1](#fn_221.md) that there were
 several elaborate treatises setting forth the religion of Mithra; and J.
 M. Robertson adds (*Pagan Christs*, p. 325): "everyone of these has been
 destroyed by the care of the Church, and it is remarkable that even the
@@ -245,7 +245,7 @@ treatise of Firmicus is mutilated at a passage (v.) where he seems to be
 accusing Christians of following Mithraic usages." While again Professor
 Murray says, "The polemic literature of Christianity is loud and
 triumphant; the books of the Pagans have been *destroyed*." <span
-id="fr_222"></span>[2](#fn_222)
+id="fr_222"></span>[2](#fn_222.md)
 
 Returning to the doctrine of the Savior, I have already in preceding
 chapters given so many instances of belief in such a deity among the
@@ -256,7 +256,7 @@ air' at the time of the advent of Christianity. Even Dionysus, then a
 prominent figure in the 'Mysteries,' was called Eleutherios, *The
 Deliverer*. But it may be of interest to trace the same doctrine among
 the *pre-Christian* sects of Gnostics. The Gnostics, says Professor
-Murray, <span id="fr_223"></span>[3](#fn_223) "are still commonly
+Murray, <span id="fr_223"></span>[3](#fn_223.md) "are still commonly
 thought of as a body of *Christian* heretics. In reality there were
 Gnostic sects scattered over
 
@@ -273,21 +273,21 @@ already present there under various forms.'"
 
 This Gnostic Redeemer, continues Professor Murray, "is descended by a
 fairly clear genealogy from the 'Tritos Sôtêr' ('third Savior') <span
-id="fr_224"></span>[1](#fn_224) of early Greece, contaminated with
+id="fr_224"></span>[1](#fn_224.md) of early Greece, contaminated with
 similar figures, like Attis and Adonis from Asia Minor, Osiris from
 Egypt, and the special Jewish conception of the Messiah of the Chosen
 people. He has various names, which the name of Jesus or 'Christos,'
 'the Anointed,' tends gradually to supersede. Above all, he is in some
 sense Man, or 'the second Man' or 'the Son of Man' . . . He is the real,
 the ultimate, the perfect and eternal Man, of whom all bodily men are
-feeble copies." <span id="fr_225"></span>[2](#fn_225)
+feeble copies." <span id="fr_225"></span>[2](#fn_225.md)
 
 This passage brings vividly before the mind the process of which I have
 spoken, namely, the fusion and mutual interchange of ideas on the
 subject of the Savior during the period anterior to our era. Also it
 exemplifies to us through what an abstract sphere of Gnostic religious
 speculation the doctrine had to travel before reaching its expression in
-Christianity. <span id="fr_226"></span>[3](#fn_226) This exalted and
+Christianity. <span id="fr_226"></span>[3](#fn_226.md) This exalted and
 high philosophical
 
 <span id="page_207">p. 207</span>
@@ -330,7 +330,7 @@ takes the character of a rather sordid and huckstering bargain by which
 Man gets the better of God by persuading the latter to sacrifice his own
 Son for the redemption of the world! With the exception of a few
 episodes like the formation during the Middle Ages of the noble
-brotherhoods and sisterhoods of [Friars](errata.htm#2) and Nuns,
+brotherhoods and sisterhoods of [Friars](errata.htm#2.md) and Nuns,
 dedicated to the help and healing of suffering humanity, and the
 appearance of a few real lovers of mankind (and the animals) like St.
 Francis--(and these manifestations can hardly be claimed by the Church,
@@ -385,7 +385,7 @@ complexion. And from Strauss onwards a growingly influential and learned
 body of critics is inclined to regard the whole story of the Gospels as
 *legendary*. Arthur Drews, for instance, a professor at Karlsruhe, in
 his celebrated book *The Christ-Myth*, <span
-id="fr_227"></span>[1](#fn_227) places David F. Strauss as first in the
+id="fr_227"></span>[1](#fn_227.md) places David F. Strauss as first in the
 myth field--though he allows that Dupuis in *L'origine de tous les
 cultes* (1795) had given the clue to the whole idea. He then mentions
 Bruno Bauer (1877) as contending that Jesus was a pure invention of
@@ -400,7 +400,7 @@ Poland, and other countries, including W. Benjamin Smith, the American
 author of *The Pre-christian Jesus* (1906), and P. Jensen in *Das
 Gilgamesch Epos in den Welt-literatur* (1906), who makes the Jesus-story
 a variant of the Babylonian epic, 2000 B.C. A pretty strong list! <span
-id="fr_228"></span>[1](#fn_228) "But," continues Drews, "ordinary
+id="fr_228"></span>[1](#fn_228.md) "But," continues Drews, "ordinary
 historians still ignore all this." Finally, he dismisses Jesus as "a
 figure swimming obscurely in the mists of tradition." Nevertheless I
 need hardly remark that, large and learned as the body of opinion here
@@ -420,7 +420,7 @@ Tell, supposed to have lived some 300 years again before Shakespeare,
 and whose deeds in minutest detail have been recited and honored all
 over Europe, is almost certainly a pure invention, and never existed;
 when you remember--as mentioned earlier in this book <span
-id="fr_229"></span>[2](#fn_229)--that it was more than five hundred
+id="fr_229"></span>[2](#fn_229.md)--that it was more than five hundred
 years after the supposed birth of Jesus before any serious effort was
 made to establish the date of that birth--and that then a purely
 mythical date was chosen: the 25th December, the day of the *Sun's* new
@@ -446,7 +446,7 @@ extant a great abundance, both apocryphal and canonical, met this
 demand; but how far their records of the person of Jesus of Nazareth are
 reliable history, or how far they are merely imaginative pictures of the
 kind of man the Saviour might be expected to be, <span
-id="fr_230"></span>[1](#fn_230) is a question which, as I have already
+id="fr_230"></span>[1](#fn_230.md) is a question which, as I have already
 said, is a difficult one for skilled critics to answer, and one on which
 I certainly have no intention of giving a positive verdict. Personally I
 must say I think the 'legendary' solution quite likely, and in some ways
@@ -484,7 +484,7 @@ connection with cults of a dying Savior, it very likely *is* true (one
 can see the very dramatic character of the incidents: the washing of
 hands, the threefold denial by Peter, the purple robe and crown of
 thorns, and so forth); and as such it is now accepted by many
-well-qualified authorities. <span id="fr_231"></span>[1](#fn_231)
+well-qualified authorities. <span id="fr_231"></span>[1](#fn_231.md)
 
 <span id="page_213">p. 213</span>
 
@@ -556,7 +556,7 @@ upholders of a fanatical and narrow-minded Mahommedanism and quite
 corresponding to the Scribes and Pharisees of the New Testament. By them
 he was denounced to the Turkish Government. He was arrested on a charge
 of causing political disturbance, and was condemned to death. Among his
-disciples was one favorite, <span id="fr_232"></span>[1](#fn_232) who
+disciples was one favorite, <span id="fr_232"></span>[1](#fn_232.md) who
 was absolutely devoted to his Master and refused to leave him at the
 last. So together they were suspended over the city wall (at Tabriz) and
 simultaneously shot. This was on the 8th July, 1850.
@@ -605,7 +605,7 @@ this, after his death, was found among his literary treasures and
 identified (as was most fitting) by Professor Browne himself.
 
 Such in brief is the history of the early Bâbi Church <span
-id="fr_233"></span>[1](#fn_233)--a Church which has grown up and
+id="fr_233"></span>[1](#fn_233.md)--a Church which has grown up and
 expanded greatly within the memory of many yet living. Much might be
 written about it, but the chief point at present is for us to note the
 well-verified and interesting example it gives of the rapid growth in
@@ -633,7 +633,7 @@ personally, or any incident of his actual life (the "crucified Christ"
 being always an ideal figure); and 'John' who wrote the Gospel was
 certainly not the same as the disciple who "lay in Jesus' bosom"--though
 an intercalated verse, the last but one in the Gospel, asserts the
-identity. <span id="fr_234"></span>[1](#fn_234)
+identity. <span id="fr_234"></span>[1](#fn_234.md)
 
 There may have been a historic Jesus--and if so, to get a reliable
 outline of his life would indeed be a treasure; but at present it would
@@ -700,7 +700,7 @@ striking to be accidental. It evidently had a deep influence on the
 authors of the Gospels, as well as on St. Paul. It affirms a belief in
 the coming of a Messiah, and in salvation for the Gentiles. The
 following are some quotations from it: <span
-id="fr_235"></span>[1](#fn_235) Testament of Zebulun (p. 116): "My
+id="fr_235"></span>[1](#fn_235) Testament of Zebulun (p. 116.md): "My
 children, I bid you keep the commands of the Lord, and show mercy to
 your neighbours, and have compassion towards all, not towards men only,
 but also towards beasts." Dan (p. 127): "Love the Lord through all your
@@ -726,14 +726,14 @@ than a public sense of duty to one's neighbor and to society generally.
 I think, however, that the last-mentioned characteristic ought to be
 viewed in relation to a third, namely, (*c*) the extraordinarily
 *democratic* tendency of the new Religion. <span
-id="fr_236"></span>[1](#fn_236) Celsus (A.D. 200) jeered at the early
+id="fr_236"></span>[1](#fn_236) Celsus (A.D. 200.md) jeered at the early
 Christians for their extreme democracy: "It is only the simpletons, the
 ignoble, the senseless--slaves and womenfolk and children--whom they
 wish to persuade \[to join their churches\] or *can*
 persuade"--"wool-dressers and cobblers and fullers, the most uneducated
 and vulgar persons," and "whosoever is a sinner, or unintelligent or a
 fool, in a word, whoever is god-forsaken (κακοδαίμων), him the Kingdom
-of God will receive." <span id="fr_237"></span>[2](#fn_237) Thus Celsus,
+of God will receive." <span id="fr_237"></span>[2](#fn_237.md) Thus Celsus,
 the accomplished, clever, philosophic and withal humorous critic,
 laughed at the new religionists, and prophesied their speedy extinction.
 Nevertheless he was mistaken. There is little doubt that just the
@@ -748,7 +748,7 @@ already
 <span id="page_221">p. 221</span>
 
 familiar with pagan cults of all kinds--Egyptian, Syrian, Chaldean,
-Iranian, and so forth. <span id="fr_238"></span>[1](#fn_238) This fact
+Iranian, and so forth. <span id="fr_238"></span>[1](#fn_238.md) This fact
 helped to give to Christianity--under the fine tolerance of the
 Empire--its democratic character and also its willingness to accept all.
 The rude and menial masses, who had hitherto been almost beneath the
@@ -762,7 +762,7 @@ endeavor to explain.
 
 ### Footnotes
 
-<span id="fn_211"></span>[200:1](pcc14.htm#fr_211) For an enlargement on
+<span id="fn_211"></span>[200:1](pcc14.htm#fr_211.md) For an enlargement on
 this theme see Glover's *Conflict of Religions in the early Roman
 Empire*; also S. J. Case, *Evolution of Early Christianity* (University
 of Chicago, 1914). The Adonis worship, for instance (a
@@ -770,23 +770,23 @@ resurrection-cult), "was still thriving in Syria and Cyprus when Paul
 preached there," and the worship of Isis and Serapis had already reached
 Athens, Rome and Naples.
 
-<span id="fn_212"></span>[201:1](pcc14.htm#fr_212) See Cumont,
+<span id="fn_212"></span>[201:1](pcc14.htm#fr_212.md) See Cumont,
 *Religions Orientales dans le Paganisme Romain* (Paris, 1906), p. 253.
 
-<span id="fn_213"></span>[201:2](pcc14.htm#fr_213) *Cultes païens dans
+<span id="fn_213"></span>[201:2](pcc14.htm#fr_213.md) *Cultes païens dans
 l'Empire Romain* (2 vols., 1911), vol. ii, p. 263.
 
-<span id="fn_214"></span>[202:1](pcc14.htm#fr_214) Even to-day, the
+<span id="fn_214"></span>[202:1](pcc14.htm#fr_214.md) Even to-day, the
 Arabian lands are always vibrating with prophecies of a coming Mahdi.
 
-<span id="fn_215"></span>[202:2](pcc14.htm#fr_215) See Edition by R. H.
+<span id="fn_215"></span>[202:2](pcc14.htm#fr_215.md) See Edition by R. H.
 Charles (1893).
 
-<span id="fn_216"></span>[203:1](pcc14.htm#fr_216) See ch. ii, *supra*.
+<span id="fn_216"></span>[203:1](pcc14.htm#fr_216.md) See ch. ii, *supra*.
 
-<span id="fn_217"></span>[203:2](pcc14.htm#fr_217) *Supra*, ch. ii.
+<span id="fn_217"></span>[203:2](pcc14.htm#fr_217.md) *Supra*, ch. ii.
 
-<span id="fn_218"></span>[204:1](pcc14.htm#fr_218) See Cumont, *op.
+<span id="fn_218"></span>[204:1](pcc14.htm#fr_218.md) See Cumont, *op.
 cit*., who says, p. 171:--"Jamais, pas même à l'époque des invasions
 mussulmanes, l'Europe ne sembla plus près de devenir asiatique qu'au
 moment où Dioclétien reconnaissait officiellement en Mithra, le
@@ -795,52 +795,52 @@ Mithra*, preface. The Roman Army, in fact, stuck to Mithra throughout,
 as against Christianity; and so did the Roman nobility. (See S.
 Augustine's *Confessions*, Book VIII, ch. 2.)
 
-<span id="fn_219"></span>[204:2](pcc14.htm#fr_219) Cumont indeed says
+<span id="fn_219"></span>[204:2](pcc14.htm#fr_219.md) Cumont indeed says
 that the identification of Mithra with the Sun (the emblem of imperial
 power) formed one reason why Mithraism was *not* persecuted at that
 time.
 
-<span id="fn_220"></span>[204:3](pcc14.htm#fr_220) Epist. cvii, *ad
+<span id="fn_220"></span>[204:3](pcc14.htm#fr_220.md) Epist. cvii, *ad
 Laetam*. See Robertson's *Pagan Christs*, p. 350.
 
-<span id="fn_221"></span>[205:1](pcc14.htm#fr_221) *De Abstinentia*, ii.
+<span id="fn_221"></span>[205:1](pcc14.htm#fr_221.md) *De Abstinentia*, ii.
 56; iv. 16.
 
-<span id="fn_222"></span>[205:2](pcc14.htm#fr_222) *Four Stages*, p.
+<span id="fn_222"></span>[205:2](pcc14.htm#fr_222.md) *Four Stages*, p.
 180. We have probably an instance of this destruction in the total
 disappearance of Celsus' lively attack on Christianity (180 A.D.), of
 which, however, portions have been fortunately preserved in Origen's
 rather prolix refutation of the same.
 
-<span id="fn_223"></span>[205:3](pcc14.htm#fr_223) *Four Stages*, p.
+<span id="fn_223"></span>[205:3](pcc14.htm#fr_223.md) *Four Stages*, p.
 143.
 
-<span id="fn_224"></span>[206:1](pcc14.htm#fr_224) There seems to be
+<span id="fn_224"></span>[206:1](pcc14.htm#fr_224.md) There seems to be
 some doubt about the exact meaning of this expression. Even Zeus himself
 was sometimes called 'Soter,' and at feasts, it is said, the *third*
 goblet was always drunk in his honor.
 
-<span id="fn_225"></span>[206:2](pcc14.htm#fr_225) See also *The Gnostic
+<span id="fn_225"></span>[206:2](pcc14.htm#fr_225.md) See also *The Gnostic
 Story of Jesus Christ*, by Gilbert T. Sadler (C. W. Daniel, 1919).
 
-<span id="fn_226"></span>[206:3](pcc14.htm#fr_226) When travelling in
+<span id="fn_226"></span>[206:3](pcc14.htm#fr_226.md) When travelling in
 India I found that the Gñanis or Wise Men there quite commonly
 maintained that Jesus (judging from his teaching) must have been
 initiated at some time in the esoteric doctrines of the Vedanta.
 
-<span id="fn_227"></span>[209:1](pcc14.htm#fr_227) *Die Christus-mythe*:
+<span id="fn_227"></span>[209:1](pcc14.htm#fr_227.md) *Die Christus-mythe*:
 verbesserte und erweitezte Ausgabe, Jena, 1910.
 
-<span id="fn_228"></span>[210:1](pcc14.htm#fr_228) To which we may also
+<span id="fn_228"></span>[210:1](pcc14.htm#fr_228.md) To which we may also
 add Schweitzer's *Quest of the historical Jesus* (1910).
 
-<span id="fn_229"></span>[210:2](pcc14.htm#fr_229) Ch. II, *supra*.
+<span id="fn_229"></span>[210:2](pcc14.htm#fr_229.md) Ch. II, *supra*.
 
-<span id="fn_230"></span>[211:1](pcc14.htm#fr_230) One of Celsus'
+<span id="fn_230"></span>[211:1](pcc14.htm#fr_230.md) One of Celsus'
 accusations against the Christians was that their Gospels had been
 written "several times over" (see Origen, *Contra Celsum*, ii. 26, 27).
 
-<span id="fn_231"></span>[212:1](pcc14.htm#fr_231) Dr. Frazer in *The
+<span id="fn_231"></span>[212:1](pcc14.htm#fr_231.md) Dr. Frazer in *The
 Golden Bough* (vol. ix, "The Scapegoat," p. 400) speaks of the frequency
 in antiquity of a Mystery-play relating to a God-man who gives his life
 and blood for the people; and he puts forward tentatively and by no
@@ -858,37 +858,37 @@ whom the enemies he had made in high places by his outspoken strictures
 were resolved to put out of the way." See also vol. iv, "The Dying God,"
 in the same book.
 
-<span id="fn_232"></span>[215:1](pcc14.htm#fr_232) Mirza Muhammad Ali;
+<span id="fn_232"></span>[215:1](pcc14.htm#fr_232.md) Mirza Muhammad Ali;
 and one should note the similarity of the two names.
 
-<span id="fn_233"></span>[216:1](pcc14.htm#fr_233) For literature, see
+<span id="fn_233"></span>[216:1](pcc14.htm#fr_233.md) For literature, see
 Edward G. Browne's *Traveller's Narrative on the Episode of the Bâb*
 (1891), and his *New History of the Bâb* translated from the Persian of
 the *Tarikh-i-Jadid* (*Cambridge*, 1893). Also *Sermons and Essays* by
 Herbert Rix (Williams and Norgate, 1907), pp. 295-325, "The Persian
 Bâb."
 
-<span id="fn_234"></span>[217:1](pcc14.htm#fr_234) It is obvious, in
+<span id="fn_234"></span>[217:1](pcc14.htm#fr_234.md) It is obvious, in
 fact, that the *whole* of the last chapter of St. John is a later
 insertion, and again that the two last verses of that chapter are later
 than the chapter itself!
 
-<span id="fn_235"></span>[219:1](pcc14.htm#fr_235) The references being
+<span id="fn_235"></span>[219:1](pcc14.htm#fr_235.md) The references being
 to the Edition by R. H. Charles (1907).
 
-<span id="fn_236"></span>[220:1](pcc14.htm#fr_236) It is important to
+<span id="fn_236"></span>[220:1](pcc14.htm#fr_236.md) It is important to
 note, however, that this same democratic tendency was very marked in
 Mithraism. "Il est certain," says Cumont, "qu'il a fait ses premières
 conquêtes dans les classes inférieures de la société et c'est l'a un
 fait considérable; le mithracisme est resté longtemps la réligion des
 humbles." *Mystères de Mithra*, p. 68.
 
-<span id="fn_237"></span>[220:2](pcc14.htm#fr_237) See Glover's
+<span id="fn_237"></span>[220:2](pcc14.htm#fr_237.md) See Glover's
 *Conflict of Religions in the early Roman Empire*, ch. viii.
 
-<span id="fn_238"></span>[221:1](pcc14.htm#fr_238) See Toutain, *Cultes
+<span id="fn_238"></span>[221:1](pcc14.htm#fr_238.md) See Toutain, *Cultes
 païens*, vol. ii, conclusion.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Meaning of it All](pcc15)
+[Next: XIV. The Meaning of it All](pcc15.md)

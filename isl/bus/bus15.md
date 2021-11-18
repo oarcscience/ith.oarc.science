@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](bus14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](bus14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Bustan of Sadi*, tr. by A. Hart Edwards, \[1911\], at Intangible
 Textual Heritage
 
@@ -85,7 +85,7 @@ Bustan, in Persia. He died A.D. 261.
 
 <span id="page_155">p. 155</span>
 
-<span id="an_22">22</span>. Abul Mahfūz, [surnamed](errata.htm#4) Marūf,
+<span id="an_22">22</span>. Abul Mahfūz, [surnamed](errata.htm#4.md) Marūf,
 was a celebrated saint of Kareh, a village in Baghdad. He was the son of
 a fire-worshipper, and was born A.D. 813, during the reign of Caliph
 Māmūn, son of the celebrated Hārūn-ar-Rashīd.

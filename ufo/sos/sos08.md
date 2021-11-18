@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](sos07)  [Next](sos09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](sos07)  [Next](sos09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0007EHL0Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret of the Saucers*, by Orfeo M. Angelucci, \[1955\], at
 Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ Four days later about five o'clock in the afternoon
 
 <span class="contnote">\[paragraph continues\]</span> I was accompanying
 Jane Vanderlick, a neighbor who is employed at the [Los
-Feliz](errata.htm#8) Theatre cafe. We were walking to the cafe where
+Feliz](errata.htm#8.md) Theatre cafe. We were walking to the cafe where
 Jane was going to open it half an hour early that day. We were laughing
 and talking when Jane noticed an airplane nearby in the sky, flying
 south. It seemed just an ordinary airplane of the most common type:
@@ -234,7 +234,7 @@ Among those twelve men there are two who are still deeply perplexed.
 They are Ernie Oxford and Michael Gallegos, for they had seen me drop my
 tools and go to the door as though beckoned by an unseen force. They
 said I behaved as though I were under a spell. Both of them started
-involuntarily to follow me, but on second [thought](errata.htm#9)
+involuntarily to follow me, but on second [thought](errata.htm#9.md)
 remained on the job until I called them to come out.
 
 Both of them insist that I must have received a message of some kind
@@ -349,4 +349,4 @@ screen.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Flying Saucer Convention In Hollywood](sos09)
+[Next: Chapter VII. Flying Saucer Convention In Hollywood](sos09.md)

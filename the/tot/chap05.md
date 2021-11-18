@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Theosophy](../index)
-[Index](index) [Previous](chap04) [Next](chap06)
+[Intangible Textual Heritage](../../index) [Theosophy](../index.md)
+[Index](index) [Previous](chap04) [Next](chap06.md)
 
 ------------------------------------------------------------------------
 
@@ -569,4 +569,4 @@ These will supersede the names given in Vol. II of *The Inner Life.*
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: After Death](chap06)
+[Next: Chapter VI: After Death](chap06.md)

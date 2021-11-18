@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gft15)  [Next](gft17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gft15)  [Next](gft17.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,7 +164,7 @@ the shepherds kissed his feet and sang, "Now
 
 [![When they saw Theseus they shrieked; and the shepherds ran
 off.](tn/15000.jpg)  
-Click to enlarge](img/15000.jpg)  
+Click to enlarge](img/15000.jpg.md)  
 When they saw Theseus they shrieked; and the shepherds ran off.  
 
  
@@ -307,7 +307,7 @@ high before him rose the snow-peaks of Cithæron,
 <span id="img_15400"></span>
 
 [![Go feed thy tortoise yourself.](tn/15400.jpg)  
-Click to enlarge](img/15400.jpg)  
+Click to enlarge](img/15400.jpg.md)  
 Go feed thy tortoise yourself.  
 
  
@@ -435,7 +435,7 @@ Phytalus.
 
 [![At last Kerkuon grew angry and caught Theseus around the
 neck.](tn/15800.jpg)  
-Click to enlarge](img/15800.jpg)  
+Click to enlarge](img/15800.jpg.md)  
 At last Kerkuon grew angry and caught Theseus around the neck.  
 
  
@@ -574,7 +574,7 @@ strode on in his wrath.
 
 [![Theseus flung him from him, and lifted up his dreadful
 club.](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)  
+Click to enlarge](img/16200.jpg.md)  
 Theseus flung him from him, and lifted up his dreadful club.  
 
  
@@ -763,7 +763,7 @@ of a snake. And he rose, and said, "The wine
 <span id="img_16800"></span>
 
 [![Media shrieked and dashed the cup to the ground.](tn/16800.jpg)  
-Click to enlarge](img/16800.jpg)  
+Click to enlarge](img/16800.jpg.md)  
 Media shrieked and dashed the cup to the ground.  
 
  
@@ -960,7 +960,7 @@ going?"
 <span id="img_17400"></span>
 
 [![So they went down to the black-sailed ship](tn/17400.jpg)  
-Click to enlarge](img/17400.jpg)  
+Click to enlarge](img/17400.jpg.md)  
 So they went down to the black-sailed ship  
 
  
@@ -980,4 +980,4 @@ they sailed on toward their deaths in Crete.
 
 ------------------------------------------------------------------------
 
-[Next: Part Three: How Theseus Slew the Minotaur](gft17)
+[Next: Part Three: How Theseus Slew the Minotaur](gft17.md)

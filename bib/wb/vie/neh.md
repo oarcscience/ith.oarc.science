@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](ezr)  [Next](est) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](ezr)  [Next](est.md) 
 
 ------------------------------------------------------------------------
 
@@ -1562,4 +1562,4 @@ mà làm ơn cho tôi!
 
 ------------------------------------------------------------------------
 
-[Next: Esther](est)
+[Next: Esther](est.md)

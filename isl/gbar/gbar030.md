@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar029) [Next](gbar031)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar029) [Next](gbar031.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ The doctor departed in confusion.
 
 ------------------------------------------------------------------------
 
-[Next](gbar031)
+[Next](gbar031.md)
 
  
 

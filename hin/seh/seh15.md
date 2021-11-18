@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](seh14)  [Next](seh16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](seh14)  [Next](seh16.md) 
 
 ------------------------------------------------------------------------
 
@@ -134,7 +134,7 @@ patients, after all?"
 I shook my head.
 
 "There are more than six hundred hospitals in Calcutta," <span
-id="fr_2"></span>[1](#fn_2) he said, "and they contain an aggregate of
+id="fr_2"></span>[1](#fn_2.md) he said, "and they contain an aggregate of
 something like four patients."
 
 So our dream of a hospital for Bengali women, managed by Bengali ladies,
@@ -297,7 +297,7 @@ solemn *Allah illa, ’ill, ’ill Allah!* in the hour of dusk.
 
 ### Footnotes
 
-<span id="fn_2"></span>[75:1](seh15.htm#fr_2) Six hundred hospitals was
+<span id="fn_2"></span>[75:1](seh15.htm#fr_2.md) Six hundred hospitals was
 a computation that included all family hospitals and single rooms
 licensed and set apart as wards under the Plague Regulations. Even of
 these many were allowed to lapse, so that the actual number came to be
@@ -306,4 +306,4 @@ the outbreak of 1899.\]
 
 ------------------------------------------------------------------------
 
-[Next: The Mediæval University of India](seh16)
+[Next: The Mediæval University of India](seh16.md)

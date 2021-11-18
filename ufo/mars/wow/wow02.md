@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow01)  [Next](wow03) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow01)  [Next](wow03.md) 
 
 ------------------------------------------------------------------------
 
@@ -146,4 +146,4 @@ to the sand pits.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three: On Horsell Common](wow03)
+[Next: Chapter Three: On Horsell Common](wow03.md)

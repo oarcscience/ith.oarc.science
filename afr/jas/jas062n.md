@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas061n)  [Next](jas063n)   
- \[[62. Man is Stronger.](jas062)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas061n)  [Next](jas063n.md)   
+ \[[62. Man is Stronger.](jas062.md)\]
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ and Sebillot, Le Folk-lore de France, 3:63.
 
 ------------------------------------------------------------------------
 
-[Next: Note 63. The Pea that made a Fortune.](jas063n)
+[Next: Note 63. The Pea that made a Fortune.](jas063n.md)

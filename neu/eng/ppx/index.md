@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,15 +21,15 @@ Sagas](../../index)  [English Folklore](../index) 
 
 ------------------------------------------------------------------------
 
-[Title Page](ppx00)  
-[Dedication](ppx01)  
-[Advertisement](ppx02)  
-[Introduction](ppx03)  
-[Pixy Gathon, or, the Tailor's Needle](ppx04)  
-[The Three Trials, or, the Story of Crabby Cross](ppx05)  
-[The Seven Crosses of Tiverton, or, The Pixy Picket](ppx06)  
-[Background Notes on the Seven Crosses of Tiverton](ppx07)  
-[Fontina, or, The Pixies' Bath](ppx08)  
-[The Lady of the Silver Bell](ppx09)  
-[The Belfry Rock, or, The Pixies' Revenge](ppx10)  
-[Appendix: Notes](ppx11)  
+[Title Page](ppx00.md)  
+[Dedication](ppx01.md)  
+[Advertisement](ppx02.md)  
+[Introduction](ppx03.md)  
+[Pixy Gathon, or, the Tailor's Needle](ppx04.md)  
+[The Three Trials, or, the Story of Crabby Cross](ppx05.md)  
+[The Seven Crosses of Tiverton, or, The Pixy Picket](ppx06.md)  
+[Background Notes on the Seven Crosses of Tiverton](ppx07.md)  
+[Fontina, or, The Pixies' Bath](ppx08.md)  
+[The Lady of the Silver Bell](ppx09.md)  
+[The Belfry Rock, or, The Pixies' Revenge](ppx10.md)  
+[Appendix: Notes](ppx11.md)  

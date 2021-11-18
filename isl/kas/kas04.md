@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](kas03)  [Next](kas05) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](kas03)  [Next](kas05.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ To hold thyself an All-in-All!
 
 ------------------------------------------------------------------------
 
-[Next: III](kas05)
+[Next: III](kas05.md)

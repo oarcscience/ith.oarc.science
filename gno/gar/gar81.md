@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar80)  [Next](gar82) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar80)  [Next](gar82.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 <span id="img_pl_j"></span> <span align="CENTER"> [![Plate
 J](tn/pl_j.jpg)  
-Click to enlarge](img/pl_j.jpg)  
+Click to enlarge](img/pl_j.jpg.md)  
 Plate J  
 </span>
 
@@ -69,4 +69,4 @@ peculiar sacrifice, as Ovid tells us:--
 
 ------------------------------------------------------------------------
 
-[Next: Plate K. Mithraic (continued)](gar82)
+[Next: Plate K. Mithraic (continued)](gar82.md)

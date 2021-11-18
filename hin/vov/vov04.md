@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](vov03)  [Next](vov05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](vov03)  [Next](vov05.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@
 
 Every thing is called the act of deity. But there is a deity superior to
 this god. That god slew Vishnu and he destroyed the
-[appearance](errata.htm#36) of Siva (*abhava*) Surely this is the great
+[appearance](errata.htm#36) of Siva (*abhava*.md) Surely this is the great
 God indeed if thou consider it well.
 
 201
@@ -22,7 +22,7 @@ one.
 202
 
 Vishnu, Siva, and Brahma all see the leaf but view it who will, none can
-perceive the branch. Were the branch behold, [would](errata.htm#37) any
+perceive the branch. Were the branch behold, [would](errata.htm#37.md) any
 abstain from lauding it?
 
 203
@@ -95,7 +95,7 @@ next, this is deity.
 
 Mighty let us to cut pieces the six and seven foes of our souls and in
 the defection of wisdom unless we worship the dwellings of the three
-gods how shall we attain happiness? The [forehead](errata.htm#38) mark,
+gods how shall we attain happiness? The [forehead](errata.htm#38.md) mark,
 food and scars on the body and daubings with ashes are in vain applied.
 Can the sons of earth hereby attain bliss through the love of these? O
 Vemana, the noblest of princes?
@@ -237,7 +237,7 @@ in thee.
 
 They who have rightly ordered their inner man, and considering justly
 the state of their heart, thrust it away, these are men of
-understanding. [These](errata.htm#39) shall dwell in delight in
+understanding. [These](errata.htm#39.md) shall dwell in delight in
 heaven--(terribly difficult).
 
 235
@@ -276,7 +276,7 @@ the path of perfection.
 240
 
 How subtle is the interior vision? Pure is the sight of sight. Equal to
-the deity is the eye of our eye[.](errata.htm#40)
+the deity is the eye of our eye[.](errata.htm#40.md)
 
 241
 
@@ -298,7 +298,7 @@ Unless he behold the everlasting he is not in the state of beatitude.
 By the *mudricas* in the mind being rightly ordered, as thou gazest on
 the *linga* of soul (the deity), it shall be manifested to thee and
 shall it be bestowed on thee devoid of teacher? That thou
-[should’st](errata.htm#41) understand it?
+[should’st](errata.htm#41.md) understand it?
 
 244
 
@@ -346,7 +346,7 @@ chief spirit.
 
 251
 
-He is no exalted sage who [cannot](errata.htm#42) view the globules or
+He is no exalted sage who [cannot](errata.htm#42.md) view the globules or
 his ringing sound, nor unite the splendours. Whatever pains he takes how
 shall he attain beatitude?
 
@@ -369,7 +369,7 @@ of bliss.
 254
 
 The devotee who knoweth the internal sound produced in meditation, shall
-with joy know the soul [within](errata.htm#43) him and attain felicity.
+with joy know the soul [within](errata.htm#43.md) him and attain felicity.
 That sound is the giver of beatitude, proclaim this for the consolation
 of all men.
 
@@ -385,7 +385,7 @@ of beatitude.
 
 Lose the idea of "mine and thine" and be illustrious in the belief of
 exalted abstraction (nadam). By the absence of the belief and
-[disbelief](errata.htm#44), thou shalt attain prudence.
+[disbelief](errata.htm#44.md), thou shalt attain prudence.
 
 257
 
@@ -601,7 +601,7 @@ but a lie.
 
 <span id="page_78">p. 78</span>
 
-If you [twitch](errata.htm#45) off a head of Brahma, they call it
+If you [twitch](errata.htm#45.md) off a head of Brahma, they call it
 murdering Brahma. Brahma is a Vysya (a man of the third class), is he a
 Brahmin? If Brahma had even died would Siva become a Brahmin slayer.
 (This is an allusion to the base of the lingam representing Brahma).
@@ -609,7 +609,7 @@ Brahmin? If Brahma had even died would Siva become a Brahmin slayer.
 290
 
 Siva assumed the shape of the sharabha and slew Narasimha; which
-([masculine](errata.htm#46), *yēdi*) God is greater than Siva? Where is
+([masculine](errata.htm#46), *yēdi*.md) God is greater than Siva? Where is
 there one more worthy to be looked to?
 
 291
@@ -651,7 +651,7 @@ purifier of the food. Thus united as the earth and sky are.
 296
 
 Daily does defilement flow down through the nine
-[orifices](errata.htm#47), If this defilement of humanity be done away,
+[orifices](errata.htm#47.md), If this defilement of humanity be done away,
 man dies; foulness that never dies is produced in the loins.
 
 297
@@ -675,4 +675,4 @@ quit it.
 
 ------------------------------------------------------------------------
 
-[Next: 300-399](vov05)
+[Next: 300-399](vov05.md)

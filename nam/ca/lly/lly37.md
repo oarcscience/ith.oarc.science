@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly36)  [Next](lly38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly36)  [Next](lly38.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ by cooking it on flat rocks that had been heated in the fire.
 
 ------------------------------------------------------------------------
 
-[Next: Grasshoppers](lly38)
+[Next: Grasshoppers](lly38.md)

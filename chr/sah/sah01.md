@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah00)  [Next](sah02) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah00)  [Next](sah02.md) 
 
 ------------------------------------------------------------------------
 
@@ -598,4 +598,4 @@ All.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II - Atonement and Eucharist](sah02) 
+[Next: Chapter II - Atonement and Eucharist](sah02.md) 

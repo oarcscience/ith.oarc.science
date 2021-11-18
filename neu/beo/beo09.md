@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo08)  [Next](beo10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo08)  [Next](beo10.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ was whelmed by the hurly through hand of mine.
 
 ------------------------------------------------------------------------
 
-[Next: Part IX](beo10)
+[Next: Part IX](beo10.md)

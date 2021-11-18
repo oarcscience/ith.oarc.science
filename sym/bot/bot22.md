@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot21) 
-[Next](bot23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot21.md) 
+[Next](bot23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ autumnal equinox, and completes its stay on October 24th approximately.
 
 This House is ruled by the planet Venus and is symbolised by a pair of
 Scales, as illustrated in No. 7 of the coloured
-[Frontispiece](bot00.htm#img_front). As a Constellation it is very
+[Frontispiece](bot00.htm#img_front.md). As a Constellation it is very
 difficult to distinguish, appearing on the meridian about midnight in
 June, and is situated between the constellation of Virgo on the West and
 Scorpio on the East.
@@ -325,6 +325,6 @@ whose birthdays fall in the Cancer or Capricorn periods.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Scorpio—The Scorpion](bot23)
+[Next: Chapter VIII. Scorpio—The Scorpion](bot23.md)
 
 </div>

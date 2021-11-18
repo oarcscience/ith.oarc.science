@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip49)  [Next](fip51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip49)  [Next](fip51.md) 
 
 ------------------------------------------------------------------------
 
@@ -220,17 +220,17 @@ left trusting to two of 'em now."
 
 "Why, then, I'll tell you, sir," said Bourke. "When your father said
 what I told you, I did not know very well what to do. I walked down the
-little *bohereen* <span id="fr_30"></span>[1](#fn_30) you know, sir,
+little *bohereen* <span id="fr_30"></span>[1](#fn_30.md) you know, sir,
 that goes to the river-side near Dick Heafy's ground; for 'twas a
 lonesome place, and I wanted to think of myself. I was heavy, sir, and
 my heart got weak in me, when I thought I was to lose my little boy; and
 I did not well know how to face his mother with the news, for she doated
 down upon him. Besides, she never got the better of all she cried at his
-brother's *berrin* <span id="fr_31"></span>[2](#fn_31) the week before.
+brother's *berrin* <span id="fr_31"></span>[2](#fn_31.md) the week before.
 As I was going down the *bohereen* I met an old *bocough*, that used to
 come about the place once or twice a-year, and used always to sleep in
 our barn while he staid in the neighbourhood. So he asked me how I was.
-'Bad enough, Shamous,' <span id="fr_32"></span>[3](#fn_32) says I. 'I'm
+'Bad enough, Shamous,' <span id="fr_32"></span>[3](#fn_32.md) says I. 'I'm
 sorry for your trouble,' says he; 'but you're a foolish man, Mr. Bourke.
 Your son would be well enough if you would only do what you ought with
 him.' 'What more can I do with him, Shamous?'
@@ -361,7 +361,7 @@ Well I believe that I may tell you that, anyhow; his
 <span id="page_180">p. 180</span>
 
 name is Patrick. He was always a smart, 'cute <span
-id="fr_33"></span>[1](#fn_33) boy, and would be a great clerk if he
+id="fr_33"></span>[1](#fn_33.md) boy, and would be a great clerk if he
 stuck to it. The first time I knew him, sir, was at My mother's wake. I
 was in great trouble, for I did not know where to bury her. Her people
 and my father's people--I mean their friends, sir, among the *good
@@ -383,7 +383,7 @@ drinking too much of this punch, sir; but to tell the truth, I never
 tasted the like of it; it goes down one's throat like sweet oil. But
 what was I going to say? Yes--well--Patrick, many a long year ago, was
 coming home from a *berrin* late in the evening, and walking by the side
-of a river, opposite the big inch, <span id="fr_34"></span>[2](#fn_34)
+of a river, opposite the big inch, <span id="fr_34"></span>[2](#fn_34.md)
 near Ballyhefaan ford. He had taken a drop, to be sure; but he was only
 a little merry, as you may say, and knew very well what he was doing.
 The moon was shining, for it was in the month of August, and the river
@@ -415,7 +415,7 @@ as if he did not like what was going on, came up to him. 'Patrick,' says
 he. Patrick started, for he did not think anybody there knew him.
 'Patrick,' says he, 'you're discouraged, and no wonder for you. But you
 have a friend near you. I'm your friend, and your father's friend, and I
-think worse <span id="fr_35"></span>[1](#fn_35) of your little finger
+think worse <span id="fr_35"></span>[1](#fn_35.md) of your little finger
 than I do of all that are here, though they think no one is as good as
 themselves. Go into the ring and call for a lilt. Don't, be afeard. I
 tell you the best of them did not do it as well as you shall, if you
@@ -550,7 +550,7 @@ became quite evident that spirits, of some sort, were working too strong
 within him to admit of his telling many more tales of the good people.
 Tom seemed conscious of this. He muttered for a few minutes broken
 sentences concerning churchyards, river-sides, leprechauns, and *dina
-magh*, <span id="fr_36"></span>[1](#fn_36) which were quite
+magh*, <span id="fr_36"></span>[1](#fn_36.md) which were quite
 unintelligible, perhaps, to himself, certainly to Mr. Martin and his
 lady. At length he made a slight motion of the head upwards, as if he
 would say, "I can talk no more"; stretched his arm on the table, upon
@@ -572,23 +572,23 @@ Cork."
 
 ### Footnotes
 
-<span id="fn_30"></span>[176:1](fip50.htm#fr_30) *Bohereen*, or
+<span id="fn_30"></span>[176:1](fip50.htm#fr_30.md) *Bohereen*, or
 *bogheen*, *i.e.*, a green lane.
 
-<span id="fn_31"></span>[176:2](fip50.htm#fr_31) *Berrin*, burying.
+<span id="fn_31"></span>[176:2](fip50.htm#fr_31.md) *Berrin*, burying.
 
-<span id="fn_32"></span>[176:3](fip50.htm#fr_32) Shamous, James.
+<span id="fn_32"></span>[176:3](fip50.htm#fr_32.md) Shamous, James.
 
-<span id="fn_33"></span>[180:1](fip50.htm#fr_33) *'Cute*, acute.
+<span id="fn_33"></span>[180:1](fip50.htm#fr_33.md) *'Cute*, acute.
 
-<span id="fn_34"></span>[180:2](fip50.htm#fr_34) *Inch*, low meadow
+<span id="fn_34"></span>[180:2](fip50.htm#fr_34.md) *Inch*, low meadow
 ground near a river.
 
-<span id="fn_35"></span>[181:1](fip50.htm#fr_35) Worse, more.
+<span id="fn_35"></span>[181:1](fip50.htm#fr_35.md) Worse, more.
 
-<span id="fn_36"></span>[185:1](fip50.htm#fr_36) *Daoine maithe*,
+<span id="fn_36"></span>[185:1](fip50.htm#fr_36.md) *Daoine maithe*,
 *i.e.*, the good people.
 
 ------------------------------------------------------------------------
 
-[Next: The Pudding Bewitched, by William Carleton](fip51)
+[Next: The Pudding Bewitched, by William Carleton](fip51.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](lmbg2b) [Next](lmbg3b)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](lmbg2b) [Next](lmbg3b.md)
 
 ------------------------------------------------------------------------
 
@@ -10,19 +10,19 @@ American](../index) [Index](index) [Previous](lmbg2b) [Next](lmbg3b)
 |                                                           |                                                                                                                                                                           |      |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 |                                                           |                                                                                                                                                                           | PAGE |
-| I.                                                        | [H<span class="small">ISTORICAL</span> S<span class="small">KETCH</span>](lmbg3b.htm#pp_1)                                                                                | 90   |
-|                                                           |  [Struggles with Early Colonists](lmbg3b.htm#pp_2)                                                                                                                        | 92   |
-| II\.                                                      | [W<span class="small">ARLIKE</span> L<span class="small">EGENDS.</span>](lmbg3b.htm#pp_3)                                                                                 |      |
-|                                                           |  [The Carib War-path](lmbg3b.htm#pp_4)                                                                                                                                    | 95   |
-|                                                           |  [The War on the Orinoco](lmbg3b.htm#pp_5)                                                                                                                                | 99   |
-| III\.                                                     | [M<span class="small">YTHOLOGICAL</span> L<span class="small">EGENDS OF THE</span> A<span class="small">NCIENT</span> W<span class="small">ORLD</span>](lmbg3b.htm#pp_6)  | 102  |
-|                                                           |  [1. The First People](lmbg3b.htm#pp_7)                                                                                                                                   | 103  |
-|                                                           |  [2. The First Cultivation](lmbg3b.htm#pp_8)                                                                                                                              | 104  |
-|                                                           |  [3. The Rock and the Wood](lmbg3b.htm#pp_9)                                                                                                                              | 106  |
-| IV\.                                                      | [L<span class="small">EGEND OF</span> A<span class="small">MALIVACA</span>](lmbg3b.htm#pp_10)                                                                             | 110  |
-|                                                           | [L<span class="small">EGEND OF</span> M<span class="small">ANAROWA</span> (1)](lmbg3b.htm#pp_11)                                                                          | 115  |
-|                                                           | [L<span class="small">EGEND OF</span> M<span class="small">ANAROWA</span> (2)](lmbg3b.htm#pp_12)                                                                          | 117  |
-| [C<span class="small">ONCLUSION</span>](lmbg3b.htm#pp_13) |                                                                                                                                                                           | 120  |
+| I.                                                        | [H<span class="small">ISTORICAL</span> S<span class="small">KETCH</span>](lmbg3b.htm#pp_1.md)                                                                                | 90   |
+|                                                           |  [Struggles with Early Colonists](lmbg3b.htm#pp_2.md)                                                                                                                        | 92   |
+| II\.                                                      | [W<span class="small">ARLIKE</span> L<span class="small">EGENDS.</span>](lmbg3b.htm#pp_3.md)                                                                                 |      |
+|                                                           |  [The Carib War-path](lmbg3b.htm#pp_4.md)                                                                                                                                    | 95   |
+|                                                           |  [The War on the Orinoco](lmbg3b.htm#pp_5.md)                                                                                                                                | 99   |
+| III\.                                                     | [M<span class="small">YTHOLOGICAL</span> L<span class="small">EGENDS OF THE</span> A<span class="small">NCIENT</span> W<span class="small">ORLD</span>](lmbg3b.htm#pp_6.md)  | 102  |
+|                                                           |  [1. The First People](lmbg3b.htm#pp_7.md)                                                                                                                                   | 103  |
+|                                                           |  [2. The First Cultivation](lmbg3b.htm#pp_8.md)                                                                                                                              | 104  |
+|                                                           |  [3. The Rock and the Wood](lmbg3b.htm#pp_9.md)                                                                                                                              | 106  |
+| IV\.                                                      | [L<span class="small">EGEND OF</span> A<span class="small">MALIVACA</span>](lmbg3b.htm#pp_10.md)                                                                             | 110  |
+|                                                           | [L<span class="small">EGEND OF</span> M<span class="small">ANAROWA</span> (1)](lmbg3b.htm#pp_11.md)                                                                          | 115  |
+|                                                           | [L<span class="small">EGEND OF</span> M<span class="small">ANAROWA</span> (2)](lmbg3b.htm#pp_12.md)                                                                          | 117  |
+| [C<span class="small">ONCLUSION</span>](lmbg3b.htm#pp_13.md) |                                                                                                                                                                           | 120  |
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ far as language can, the truth of their tradition.
 
 ------------------------------------------------------------------------
 
-[Next](lmbg3b)
+[Next](lmbg3b.md)

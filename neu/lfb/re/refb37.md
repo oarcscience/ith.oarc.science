@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb36)  [Next](refb38) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb36)  [Next](refb38.md) 
 
 </div>
 
@@ -335,6 +335,6 @@ wedding.\[31\]
 
 ------------------------------------------------------------------------
 
-[Next: The Marvellous Musician](refb38)
+[Next: The Marvellous Musician](refb38.md)
 
 </div>

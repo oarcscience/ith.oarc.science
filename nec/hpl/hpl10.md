@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl09)  [Next](hpl11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl09)  [Next](hpl11.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ that it once had a message to convey.
 
 ------------------------------------------------------------------------
 
-[Next: The Statement of Randolph Carter (1920)](hpl11)
+[Next: The Statement of Randolph Carter (1920)](hpl11.md)

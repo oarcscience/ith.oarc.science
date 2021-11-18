@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp13)  [Next](potp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp13)  [Next](potp15.md) 
 
 ------------------------------------------------------------------------
 
@@ -75,4 +75,4 @@ being ever proved.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Open Water at Farthest Point North and South](potp15)
+[Next: Chapter XI. Open Water at Farthest Point North and South](potp15.md)

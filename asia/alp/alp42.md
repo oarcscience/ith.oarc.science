@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp41) 
-[Next](alp43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp41.md) 
+[Next](alp43.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ O’er hill and valley, and aloud
 
 ------------------------------------------------------------------------
 
-[Next: Concerning the Rose and the Nightingale](alp43)
+[Next: Concerning the Rose and the Nightingale](alp43.md)

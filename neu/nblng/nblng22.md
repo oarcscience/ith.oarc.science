@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng21)  [Next](nblng23) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng21)  [Next](nblng23.md) 
 
 ------------------------------------------------------------------------
 
@@ -584,4 +584,4 @@ when masses were sung for Siegfried's soul.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXI: How Kriemhild Journeyed To The Huns.](nblng23)
+[Next: Adventure XXI: How Kriemhild Journeyed To The Huns.](nblng23.md)

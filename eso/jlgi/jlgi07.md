@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi06) 
-[Next](jlgi08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Christianity](../../chr/index)  [Index](index)  [Previous](jlgi06.md) 
+[Next](jlgi08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/156459498X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574J6/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jesus, the Last Great Initiate*, by Edouard Schuré, \[1908\], at
 Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ they the chiefs of the democratic party, holding the people under their
 control.
 
 The Sadducees, on the other hand, represented the
-[sacerdotal](errata.htm#9) and aristocratic party. They were composed of
+[sacerdotal](errata.htm#9.md) and aristocratic party. They were composed of
 families whose pretension it was to have exercised priesthood by
 hereditary right ever since the time of David. Extreme in their
 conservatism they rejected oral tradition, accepted nothing but the
@@ -167,7 +167,7 @@ more emphatically did he proclaim himself as the Messiah. He began to
 utter threats against the temple, to foretell the misfortunes that
 Israel would undergo, to appeal to the heathen, and to say that the Lord
 would send other laborers into his vineyard. Thereupon the Pharisees of
-Jerusalem became anxious. [Seeing](errata.htm#10) they could neither
+Jerusalem became anxious. [Seeing](errata.htm#10.md) they could neither
 impose silence on him nor find any effective retort, they too changed
 tactics. Their idea now was to ensnare him, so they sent deputations
 whose object it was to induce him to utter heretical sayings which would
@@ -253,7 +253,7 @@ say men that I, the Son of Man, am?" They replied: "Some say that thou
 art John the Baptist, some Elias, and other Jeremias, or one of the
 prophets." Then Jesus said unto them, "But whom say ye that I am?" Simon
 Peter answered and said, "Thou art the Christ, the Son of the living
-God." <span id="fr_28"></span>[1](#fn_28)
+God." <span id="fr_28"></span>[1](#fn_28.md)
 
 In the mouth of Peter, and the thought of Jesus, these words have not
 the signification the Church at a later date wished to give them: "Thou
@@ -421,13 +421,13 @@ Jordan, and proceeded by slow stages along the road to Jerusalem.
 
 ### Footnotes
 
-<span id="fn_28"></span>[81:1](jlgi07.htm#fr_28) Matt. xvi. 13-16.
+<span id="fn_28"></span>[81:1](jlgi07.htm#fr_28.md) Matt. xvi. 13-16.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
 [Next: Chapter V. Final Journey to Jerusalem—The Promise—The
-Supper—Trial of Jesus—Death and Resurrection](jlgi08)
+Supper—Trial of Jesus—Death and Resurrection](jlgi08.md)
 
 </div>

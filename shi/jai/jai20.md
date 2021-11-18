@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai19)  [Next](jai21) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai19)  [Next](jai21.md) 
 
 ------------------------------------------------------------------------
 
@@ -714,4 +714,4 @@ to know the silent moral heroism of which he is capable.
 
 ------------------------------------------------------------------------
 
-[Next: Official Education](jai21)
+[Next: Official Education](jai21.md)

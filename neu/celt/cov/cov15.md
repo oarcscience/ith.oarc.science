@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cov14)  [Next](cov16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cov14)  [Next](cov16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q2IE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002K8Q2IE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Candle of Vision*, by AE (George William Russell), \[1918\], at
 Intangible Textual Heritage
 
@@ -170,4 +170,4 @@ the name of the fire in the sky from a God-given intuition.
 
 ------------------------------------------------------------------------
 
-[Next: The Language of the Gods](cov16)
+[Next: The Language of the Gods](cov16.md)

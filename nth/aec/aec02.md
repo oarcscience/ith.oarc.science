@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec01)  [Next](aec03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec01)  [Next](aec03.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ January 1947.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](aec03)
+[Next: Contents](aec03.md)

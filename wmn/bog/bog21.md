@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog20)  [Next](bog22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog20)  [Next](bog22.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,4 +26,4 @@ required by context.
 
 ------------------------------------------------------------------------
 
-[Next: First Principle: Amaterasu](bog22)
+[Next: First Principle: Amaterasu](bog22.md)

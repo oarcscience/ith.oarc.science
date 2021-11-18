@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar04) 
-[Next](mtar06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](mtar04.md) 
+[Next](mtar06.md) 
 
 ------------------------------------------------------------------------
 
@@ -263,4 +263,4 @@ The other players do not score at all.
 
 ------------------------------------------------------------------------
 
-[Next: Occult Significance of the Tarot Cards](mtar06)
+[Next: Occult Significance of the Tarot Cards](mtar06.md)

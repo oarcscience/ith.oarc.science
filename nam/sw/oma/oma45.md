@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma44)  [Next](oma46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma44)  [Next](oma46.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl12a"></span>
 
 [![Plate 12, Figure 1](tn/pl12a.jpg)  
-Click to enlarge](img/pl12a.jpg)  
+Click to enlarge](img/pl12a.jpg.md)  
 Plate 12, Figure 1  
 
 FIGURE 1. Drum. Sides are yellow with vertical blue lines; band at base,
@@ -28,7 +28,7 @@ the heart.
 <span id="img_pl12b"></span>
 
 [![Plate 12, Figure 2](tn/pl12b.jpg)  
-Click to enlarge](img/pl12b.jpg)  
+Click to enlarge](img/pl12b.jpg.md)  
 Plate 12, Figure 2  
 
 FIGURE 2. Katsina costume. *a*, Mantle of impersonator of female
@@ -45,4 +45,4 @@ Straight lines (red) for rain, water; bottom line (black) for the
 
 ------------------------------------------------------------------------
 
-[Next: Plate 13](oma46)
+[Next: Plate 13](oma46.md)

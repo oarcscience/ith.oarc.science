@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr21)  [Next](wsgr23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr21)  [Next](wsgr23.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ sickness, and so the first sickness was born into the world.
 
 ------------------------------------------------------------------------
 
-[Next: The Evil Water Spirits](wsgr23)
+[Next: The Evil Water Spirits](wsgr23.md)

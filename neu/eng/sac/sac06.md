@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sac05)  [Next](sac07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sac05)  [Next](sac07.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ as they well can be.
 
 In the Greek information. so admirably collated by M. Ruelle in the
 article on the calendar in Daremberg and Saglio's monumental
-"Dictionnaire des Antiquités [Grecques](errata.htm#1) et Romaines," the
+"Dictionnaire des Antiquités [Grecques](errata.htm#1.md) et Romaines," the
 earlier Gregorian dates on which the seasons were reckoned to commence
 in ancient Greece were as follows:—
 
@@ -182,7 +182,7 @@ occasions. This could be done by orienting the temple to the sun's place
 on the horizon when it had the declination 16° 20´ on its upward and
 downward journey, or, in other words, was, *in days*, half-way between
 the equinox and solstice. Thus, for the 45 days (<span
-id="img_02200"></span> ![= 91 days / 2](img/02200.jpg)) from March 22,
+id="img_02200"></span> ![= 91 days / 2](img/02200.jpg).md) from March 22,
 we have in—
 
 <div align="center">
@@ -221,7 +221,7 @@ Similarly, for the journey to the winter solstice and return we have
 </div>
 
 We get, then, a year symmetrical with the astronomical year, which can
-be indicated with it as in [Fig. 7](#img_fig07); a year roughly halving
+be indicated with it as in [Fig. 7](#img_fig07.md); a year roughly halving
 the intervals between the chief dates of the astronomical year.
 
 With regard to the dates shown I have already pointed out that farming
@@ -244,7 +244,7 @@ the Julian year. Thus,
 
 [![FIG. 7.—The astronomical and vegetation divisions of the
 year.](tn/fig07.jpg)  
-Click to enlarge](img/fig07.jpg)  
+Click to enlarge](img/fig07.jpg.md)  
 FIG. 7.—The astronomical and vegetation divisions of the year.  
 
 while the spring equinox occurred on March 21 at the time of the Council
@@ -285,4 +285,4 @@ by sight-lines from the circle.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Various New-Year Days](sac07)
+[Next: Chapter IV. The Various New-Year Days](sac07.md)

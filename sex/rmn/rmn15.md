@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn14)  [Next](rmn16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn14)  [Next](rmn16.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ Martial Epig. viii. 13.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XV: A Priapus-Hermes](rmn16)
+[Next: Plate XV: A Priapus-Hermes](rmn16.md)

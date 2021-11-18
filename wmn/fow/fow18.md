@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow17)  [Next](fow19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow17)  [Next](fow19.md) 
 
 ------------------------------------------------------------------------
 
@@ -396,4 +396,4 @@ lore, "All meat is to be eaten, all maids to be wed."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Women as Wives](fow19)
+[Next: Chapter XVII: Women as Wives](fow19.md)

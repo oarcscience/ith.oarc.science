@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal061)  [Next](njal063) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal061)  [Next](njal063.md) 
 
 ------------------------------------------------------------------------
 
@@ -122,4 +122,4 @@ ENDNOTES:
 
 ------------------------------------------------------------------------
 
-[Next: 63. Njal's Counsel To Gunnar](njal063)
+[Next: 63. Njal's Counsel To Gunnar](njal063.md)

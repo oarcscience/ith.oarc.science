@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt14)  [Next](egt16) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt14)  [Next](egt16.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ not enter.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE ABOVE ALLEGORY.](egt16)
+[Next: ON THE ABOVE ALLEGORY.](egt16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv32)  [Next](rsv34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv32)  [Next](rsv34.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,8 +71,8 @@ wounded the dragon hidden in its depths and the wound, having never
 healed, continues to color the water with its blood. This is very
 similar to the Chinese legend that the dragons are found everywhere
 underground, and serious difficulties would result if a dragon were
-[accidentally](errata.htm#39) wounded. His fury could result in untold
-[catastrophe](errata.htm#40).
+[accidentally](errata.htm#39.md) wounded. His fury could result in untold
+[catastrophe](errata.htm#40.md).
 
 There are numerous other dragon tales which might be told, but they have
 a similar thought and seem to spring from the animistic concept of the
@@ -87,4 +87,4 @@ thought, awareness of such beliefs may help to avoid needless hostility.
 
 ------------------------------------------------------------------------
 
-[Next: Veneration of Vietnamese Benefactors](rsv34)
+[Next: Veneration of Vietnamese Benefactors](rsv34.md)

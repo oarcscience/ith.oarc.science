@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim10)  [Next](sim12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim10)  [Next](sim12.md) 
 
 ------------------------------------------------------------------------
 
@@ -157,4 +157,4 @@ woods and under the clouds.
 
 ------------------------------------------------------------------------
 
-[Next: Whirlwind and Panther](sim12)
+[Next: Whirlwind and Panther](sim12.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale17)  [Next](tale19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale17)  [Next](tale19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -82,7 +82,7 @@ At this terrible sight our senses left us and we lay
 <span id="img_14300"></span>
 
 [![THE GIANT ENTERS](tn/14300.jpg)  
-Click to enlarge](img/14300.jpg)  
+Click to enlarge](img/14300.jpg.md)  
 THE GIANT ENTERS  
 
 <span id="page_144">p. 144</span> <span id="page_145">p. 145</span>
@@ -159,7 +159,7 @@ clambered upon our rafts and rowed with all our might out to sea. The
 <span id="img_14700"></span>
 
 [![THE GIANTS HURL ROCKS AT SINDBAD AND HIS COMPANIONS](tn/14700.jpg)  
-Click to enlarge](img/14700.jpg)  
+Click to enlarge](img/14700.jpg.md)  
 THE GIANTS HURL ROCKS AT SINDBAD AND HIS COMPANIONS  
 
 <span id="page_148">p. 148</span> <span id="page_149">p. 149</span>
@@ -289,4 +289,4 @@ adventures.
 
 ------------------------------------------------------------------------
 
-[Next: Fourth Voyage](tale19)
+[Next: Fourth Voyage](tale19.md)

@@ -1,5 +1,5 @@
 [Intangible Textual
-Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn1) [Next](udn3)
+Heritage](../../index) [Buddhism](../index) [Index](index) [Previous](udn1) [Next](udn3.md)
 
 ------------------------------------------------------------------------
 
@@ -235,7 +235,7 @@ Anâthapindika. Now, at that time, a little child, the only and dearly
 loved son of a certain lay disciple, died. And a number of lay
 disciples, with garments and hair wet (with tears)<span
 id="page_18_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_18_note_2) went, at inconvenient
+class="small">2</span></sup>](#page_18_note_2.md) went, at inconvenient
 hours, to where the Blessed One was, and drawing near, they saluted the
 Blessed One and sat down respectfully apart. And as they thus sat apart,
 the Blessed One spoke to them saying: "Wherefore, O disciples, do you
@@ -283,7 +283,7 @@ righteousness, who have entered the path where pains like these are left
 behind."
 
    "O happy, too happy Nirvâna<span id="page_19_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_19_note_1), where pains like these
+class="small">1</span></sup>](#page_19_note_1.md), where pains like these
 will be no more!"
 
    And Suppavâsa, the daughter (of the King) of Koliya called her
@@ -389,7 +389,7 @@ since I have been the cause of suffering to my mother for seven years?"
 
    And Suppavâsa said to herself; "My son is conversing with the
 'Captain<span id="page_22_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_22_note_1) of the Faith'." And she
+class="small">1</span></sup>](#page_22_note_1.md) of the Faith'." And she
 rejoiced exceedingly <span id="page_24">p. 24</span> and became
 enraptured and was filled with joy. And the Blessed One said to
 Suppavâsa, the daughter of Koliya; "Suppavâsa, would you have another
@@ -538,7 +538,7 @@ forth this solemn utterance:--
 
 ------------------------------------------------------------------------
 
-[Next](udn3)
+[Next](udn3.md)
 
 ------------------------------------------------------------------------
 
@@ -546,7 +546,7 @@ forth this solemn utterance:--
 
 <span id="footnotes_page_17">p. 17</span>
 
-<span id="page_17_note_1"></span>[1](#page_17_fr_1) *Upadhi* is the
+<span id="page_17_note_1"></span>[1](#page_17_fr_1.md) *Upadhi* is the
 inherited material basis of organic individual life. The idea is that
 things, exterior to oneself, are the result of law--outside oneself and
 equally having nothing to do with others. But the *Arahat*, who has
@@ -556,26 +556,26 @@ equanimity.
 
 <span id="footnotes_page_18">p. 18</span>
 
-<span id="page_18_note_1"></span>[1](#page_18_fr_1) Sakiñcana, lit.:
+<span id="page_18_note_1"></span>[1](#page_18_fr_1.md) Sakiñcana, lit.:
 "with the somethings".
 
-<span id="page_18_note_2"></span>[2](#page_18_fr_2) Lit.: wet (with
+<span id="page_18_note_2"></span>[2](#page_18_fr_2.md) Lit.: wet (with
 tears ?).
 
 <span id="footnotes_page_19">p. 19</span>
 
-<span id="page_19_note_1"></span>[1](#page_19_fr_1) Nirvâna--that peace
+<span id="page_19_note_1"></span>[1](#page_19_fr_1.md) Nirvâna--that peace
 of mind, obtainable in this existence, which results from the
 annihilation of human passion.
 
 <span id="footnotes_page_23">p. 23</span>
 
-<span id="page_22_note_1"></span>[1](#page_22_fr_1) The name given to
+<span id="page_22_note_1"></span>[1](#page_22_fr_1.md) The name given to
 the famous apostle Sariputta.
 
 <span id="footnotes_page_23">p. 23</span>
 
-<span id="page_24_note_1"></span>[1](#page_24_fr_1) Lit.: overwhelm the
+<span id="page_24_note_1"></span>[1](#page_24_fr_1.md) Lit.: overwhelm the
 sluggard.
 
  

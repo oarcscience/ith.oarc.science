@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal052)  [Next](njal054) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal052)  [Next](njal054.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ Otkell bade him then to bear his sons in mind if things turned out so.
 
 ------------------------------------------------------------------------
 
-[Next: 54. The Fight At Rangriver](njal054)
+[Next: 54. The Fight At Rangriver](njal054.md)

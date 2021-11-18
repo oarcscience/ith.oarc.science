@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](how06)  [Next](how08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](how06)  [Next](how08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0762420189/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ the difference of its tension.
 <span id="img_103900"></span>
 
 [![](tn/103900.jpg)  
-Click to enlarge](img/103900.jpg)
+Click to enlarge](img/103900.jpg.md)
 
 <span id="page_1040">p. 1040</span>
 
@@ -71,16 +71,16 @@ smallness of its range; but on account of the common system the Third
 and Fourth Mode, because with reference to the other planets it occupies
 *e*. (The Earth sings MI, FA, MI so that you may infer even from the
 syllables that in this our domicile MIsery and FAmine obtain.) <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_9"></span>[1040:1](how07.htm#fr_9) See note on hexachordal
+<span id="fn_9"></span>[1040:1](how07.htm#fr_9.md) See note on hexachordal
 system.
 
 ------------------------------------------------------------------------
 
 [Next: 7. The Universal Consonances of All Six Planets, Like Common
-Four-Part Counterpoint, Can Exist](how08)
+Four-Part Counterpoint, Can Exist](how08.md)

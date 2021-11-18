@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Legends &
-Sagas](../index) [Index](index) [Previous](hbs10) [Next](hbs12)
+[Sacred-Texts](../../index.md) [Legends &
+Sagas](../index) [Index](index) [Previous](hbs10) [Next](hbs12.md)
 
 ------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ But treachery is at thy knee, and drinketh before thy face;
 There sits the traitor Bránkovich, of the accursèd race.  
 To-morrow on St. Vitus’ day, on the field of Kósovo,  
 Who of us twain is true or false, all men shall clearly know.<span
-id="page_71_fr_1"></span>[1](#page_71_note_1)  
+id="page_71_fr_1"></span>[1](#page_71_note_1.md)  
 
 <span id="page_72">p. 72</span>
 
@@ -170,7 +170,7 @@ And chases them in his anger to Sítnitsa the flood?”
 
 ------------------------------------------------------------------------
 
-[Next](hbs12)
+[Next](hbs12.md)
 
 ------------------------------------------------------------------------
 
@@ -178,7 +178,7 @@ And chases them in his anger to Sítnitsa the flood?”
 
 <span id="footnotes_page_71">p. 71</span>
 
-<span id="page_71_note_1"></span>[1](#page_71_fr_1) As Mijatovich
+<span id="page_71_note_1"></span>[1](#page_71_fr_1.md) As Mijatovich
 remarks (*Servia and the Servians*, 1908, p. 183), there is here in the
 original “a fine play on the <span id="footnotes_page_72">p. 72</span>
 word *vid*,” which means both *Vitus* and *sight*. The literal

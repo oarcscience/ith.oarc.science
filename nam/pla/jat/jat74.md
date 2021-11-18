@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat73)  [Next](jat75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat73)  [Next](jat75.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ nicely folded and packed on a horse. In this manner they moved it about.
 
 ------------------------------------------------------------------------
 
-[Next: 73. Methods of Cooking Corn](jat75)
+[Next: 73. Methods of Cooking Corn](jat75.md)

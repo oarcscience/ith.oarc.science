@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Atlantis Index](../index)  [The Secret
-Doctrine](../../the/sd/index) 
+[Sacred-Texts](../../index)  [Atlantis Index](../index.md)  [The Secret
+Doctrine](../../the/sd/index.md) 
 
 ------------------------------------------------------------------------
 

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil23)  [Next](egil25) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil23)  [Next](egil25.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ of Hæing's sons.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXIV. Kveldulf's grief.](egil25)
+[Next: CHAPTER XXIV. Kveldulf's grief.](egil25.md)

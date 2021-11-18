@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Next](eog01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Next](eog01.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ OF ORIENTAL STORIES.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](eog01)
+[Next: Preface](eog01.md)

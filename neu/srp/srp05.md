@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](srp04)  [Next](srp06) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](srp04)  [Next](srp06.md) 
 
 ------------------------------------------------------------------------
 
@@ -105,7 +105,7 @@ Russian word for "family," *Sem'ya*--it should be observed--originally
 had the same meaning as *Suprugi*, man and wife. The word which supplied
 its place was *Rod*, which meant family in its widest sense, including
 the whole of a man's relatives, his Clan, as it were, or *Gens* <span
-id="fr_67"></span>[1](#fn_67). The chief of the *Rod* exercised the
+id="fr_67"></span>[1](#fn_67.md). The chief of the *Rod* exercised the
 functions of priest, king, and judge. Prophets seem to have existed in
 the persons of certain wizards--*Volkhvui*--of whom very little is
 known, but who probably resembled to a considerable degree the Finnish
@@ -133,7 +133,7 @@ now examine it a little more in detail, commencing with the ideas
 attached by the early inhabitants of Russia to those solar gods who are
 supposed by many eminent scholars to have originally held higher rank
 than the wielder of the Thunderbolt, Perun <span
-id="fr_68"></span>[2](#fn_68).
+id="fr_68"></span>[2](#fn_68.md).
 
 <span id="page_85">p. 85</span>
 
@@ -147,7 +147,7 @@ The Sun and the Fire are spoken of as his children; the former under the
 name of Dazhbog, the latter under that of Ogon'. According to an old
 saying, Svarog is given to repose, deputing to his children the work of
 creation and the task of ruling the universe <span
-id="fr_69"></span>[3](#fn_69).
+id="fr_69"></span>[3](#fn_69.md).
 
 That Dazhbog was the Sun seems clear, and it appears to be proved that
 he was identical with Khors, who is sometimes spoken of as a different
@@ -159,11 +159,11 @@ Day-God. That the
 
 word *Bog* stands for God is already well known, as also that it
 "reappears among us in the form of Puck, Bogy, and Bug <span
-id="fr_70"></span>[4](#fn_70)."
+id="fr_70"></span>[4](#fn_70.md)."
 
 That Ogon', Fire, \[pronounced Agón, = Agni\], was considered the son of
 Svarog, the Heaven, is supposed to be proved by the evidence of a
-thirteenth century writer, who says <span id="fr_71"></span>[5](#fn_71)
+thirteenth century writer, who says <span id="fr_71"></span>[5](#fn_71.md)
 of the Slavonians, "They pray to Ogon', whom they call Svarozhich," or
 Svarog's son--the "Zuarasici" mentioned by Dietmar. We shall see, a
 little farther on, how many traces still appear to exist, in the speech
@@ -195,16 +195,16 @@ nation, bent on the adoration of Dyaus, forgot him entirely; the Aryans
 of India and the Teutonic tribes continued to worship him as a
 subordinate member of the family of the gods, but the Letto-Slavonians
 raised him to the dignity. of a supreme leader of all other
-deities <span id="fr_72"></span>[6](#fn_72)."
+deities <span id="fr_72"></span>[6](#fn_72.md)."
 
 In the hymns addressed to Parjanya in the Rig Veda he is called "the
 thunderer, the showerer, the bountiful, who impregnates the plants with
 rain," and it is said that "Earth becomes (fit) for all creatures when
 Parjanya fertilizes the soil with showers <span
-id="fr_73"></span>[7](#fn_73)." Sometimes "he strikes down the trees"
+id="fr_73"></span>[7](#fn_73.md)." Sometimes "he strikes down the trees"
 and destroys "the wicked (clouds)," at others he "speaks a wonderful
 gleam-accompanied word which brings refreshment <span
-id="fr_74"></span>[8](#fn_74)," and gives birth "to plants for man's
+id="fr_74"></span>[8](#fn_74.md)," and gives birth "to plants for man's
 enjoyment."
 
 The description of Parjanya is in all respects
@@ -215,14 +215,14 @@ applicable to the deity worshipped by the different branches of the
 Slavo-Lettic family under various names, such as the Lithuanian
 *Perkunas*, the Lettish *Perkons*, the Old Prussian *Perkunos*, the
 Polish *Piorun*, the Bohemian *Peraun*, and the Russian *Perun* <span
-id="fr_75"></span>[9](#fn_75).
+id="fr_75"></span>[9](#fn_75.md).
 
 According to a Lithuanian legend, known also to other Indo-European
 nations, the Thunder-God created the universe by the action of
 warmth--*Perkunas wis iszperieje*. The verb *perieti* (present form
 *periu*) means to produce by means of warmth, to hatch, to bear, being
 akin to the Latin *pario*, and the Russian *parit'* <span
-id="fr_76"></span>[1](#fn_76).
+id="fr_76"></span>[1](#fn_76.md).
 
 In Lithuania Perkunas, as the God of Thunder, was worshipped with great
 reverence. His statue is said to have held in its hand "a precious stone
@@ -235,7 +235,7 @@ not
 
 yet forgotten by the people, who say, when the thunder rolls, *Perkúns
 grumena*, and who still sing *dainos* <span
-id="fr_77"></span>[2](#fn_77) in which he is mentioned. In one of those
+id="fr_77"></span>[2](#fn_77.md) in which he is mentioned. In one of those
 a girl who is mourning for the loss of her flowers is asked,--
 
 Did the north wind blow,  
@@ -261,7 +261,7 @@ Cleft him with a sword.
 "Wherefore dost thou depart from the Sun?  
 Wandering by night alone?  
 Courting the Morning Star?"  
-Full of sorrow \[was his\] heart <span id="fr_78"></span>[3](#fn_78).
+Full of sorrow \[was his\] heart <span id="fr_78"></span>[3](#fn_78.md).
 
 Among the kindred Livonians a feast used to be celebrated at the
 beginning of Spring, during which
@@ -277,14 +277,14 @@ straw with great well-filled ears rise abundantly as rushes. Drive away
 all black haily clouds to the great moors, forests, and large deserts,
 where they will not frighten mankind; and give sunshine and rain, gentle
 falling rain, in order that the crops may thrive <span
-id="fr_79"></span>[4](#fn_79)!"
+id="fr_79"></span>[4](#fn_79.md)!"
 
 Among many of the Western Slavonians the name of this thunder-god is
 still preserved under various forms in the speech of the people. The
 White-Russian peasant to this day uses such expressions in his wrath as
 "Perun smite thee!" and the Slovaks have retained a curse, "May Parom
 show thee his teeth!" that is to say, "May the lightning strike
-thee <span id="fr_80"></span>[5](#fn_80)!"
+thee <span id="fr_80"></span>[5](#fn_80.md)!"
 
 In a most valuable collection of Lettish songs, recently published at
 Wilna, in Lett and Russian, there occur several allusions to Perkons,
@@ -313,7 +313,7 @@ And a third addresses the Thunderer as follows:--
 Strike, O Perkons, the spring  
 To the very depths--  
 In it the Sun's daughter yesterday was drowned  
-While washing golden goblets <span id="fr_81"></span>[6](#fn_81).
+While washing golden goblets <span id="fr_81"></span>[6](#fn_81.md).
 
 According to a Polish tradition, the mother of the thunder is called
 Percunatele, a name which is applied in part of Russian Lithuania as an
@@ -323,7 +323,7 @@ devoted to the *Presvyataya Mariya Gromnitsa*, the Very Holy Mary the
 Thunderer, and during service on that day the faithful stand in church
 holding lighted tapers, the remains of which they keep by them during
 the rest of the year, lighting them before their holy pictures from time
-to time when storms impend <span id="fr_82"></span>[7](#fn_82).
+to time when storms impend <span id="fr_82"></span>[7](#fn_82.md).
 
 In "Great-Russia," or Russia proper, the name of Perun has disappeared
 from the memory of the common people, and it has left scarcely any
@@ -335,14 +335,14 @@ other in the Government
 
 of Novgorod, both places directly under Varangian influence--his theory
 being that the Scandinavian rulers of Russia were the chief promoters of
-the worship of Perun <span id="fr_83"></span>[8](#fn_83). In their
+the worship of Perun <span id="fr_83"></span>[8](#fn_83.md). In their
 treaties with the Greeks they swore by Perun and Volos, and some
 commentators have supposed that the former was the peculiar deity of the
 Scandinavian rulers, and the latter that of their Slavonic subjects. At
 all events, Volos has retained his hold on the memory of the Russian
 peasants, while Perun has become forgotten, and his attributes have been
 transferred to the Prophet Elijah and various Christian Saints <span
-id="fr_84"></span>[9](#fn_84).
+id="fr_84"></span>[9](#fn_84.md).
 
 The descriptions we have of the appearance presented by the statues of
 Perun all come from the west and south-west. In Kief, it is said, he had
@@ -361,7 +361,7 @@ give rise to storms. Perun, in many respects, corresponds with Thor, and
 one of the points of similarity is the mace which he bears, answering to
 Thor's hammer, Mjölnir, the name of which may be compared with the
 Russian words for a hammer and for lightning, *molot* and
-*molniya* <span id="fr_85"></span>[1](#fn_85). Ukko, also, the Finnish
+*molniya* <span id="fr_85"></span>[1](#fn_85.md). Ukko, also, the Finnish
 Thunder-God, has his hammer, and the Lithuanians used to pay special
 honour to a great hammer with which a certain giant--perhaps
 Perkunas--had freed the Sun from imprisonment.
@@ -382,11 +382,11 @@ long array of clouds enlarges; but there is no rain until a rattling
 thunderstorm charges through their ranks, and the battered clouds are
 forced to let loose their impetuous showers. 'This,' says the Veda, 'is
 Indra, who comes loud shouting in his car, and hurls his thunderbolt at
-the demon Vritra.'" <span id="fr_86"></span>[2](#fn_86)
+the demon Vritra.'" <span id="fr_86"></span>[2](#fn_86.md)
 
 After Perun's statue at Kief had been flung into the Dnieper by St.
 Vladimir, and that at Novgorod had been cast into the Volkhof <span
-id="fr_87"></span>[3](#fn_87), and the people who used to worship him
+id="fr_87"></span>[3](#fn_87.md), and the people who used to worship him
 had accepted just so much of Christianity as left them what the
 chronicler called "two-faithed," then his attributes were transferred to
 a number of the personages whom the new religion brought into honour. In
@@ -400,7 +400,7 @@ that of Perun. The fame of his battles with the demons survived. in the
 legends about the Archangel Michael, the conqueror of the powers of
 darkness, and other traditions relating to him may be traced in stories
 told about the Apostle Peter, or about Yury the Brave, our own St.
-George <span id="fr_88"></span>[4](#fn_88).
+George <span id="fr_88"></span>[4](#fn_88.md).
 
 Perun's bow is sometimes identified with the rainbow, an idea which is
 known also to the Finns. From it, according to the White-Russians, are
@@ -413,7 +413,7 @@ sand--which are called thunderbolts, and considered as excellent
 preservatives against lightning and conflagrations. The Finns call them
 Ukonkiwi--the stone of the thunder-god Ukko, and in Courland their name
 is Perkuhnsteine, which explains itself <span
-id="fr_89"></span>[5](#fn_89).
+id="fr_89"></span>[5](#fn_89.md).
 
 In some cases the flaming dart of Perun became, in the imagination of
 the people, a golden key. With it he unlocked the earth, and brought to
@@ -463,7 +463,7 @@ When the "dead water" is applied to the wounds of a corpse it heals
 them, but before the dead body can be brought to life, it is necessary
 to sprinkle it with the "living water." When that has been done, the
 corpse first shudders and then sits up, usually remarking "How long I
-have been asleep <span id="fr_90"></span>[6](#fn_90)!"
+have been asleep <span id="fr_90"></span>[6](#fn_90.md)!"
 
 In other stories the representative of Perun recovers gems or treasures
 which evil spirits have hidden away within mountains or under deep
@@ -511,7 +511,7 @@ should then seize it and run home, having covered himself with the
 cloth, and taking care not to look behind him. When he has reached home
 he should cut his hand with the knife and insert the plant into the
 wound. Then all secret things will become visible to him <span
-id="fr_91"></span>[7](#fn_91).
+id="fr_91"></span>[7](#fn_91.md).
 
 The fern-gatherer must remain in the magic circle until he has secured
 the flowers, otherwise the demons will pull him to pieces. They do all
@@ -521,7 +521,7 @@ to flash, thunder to roar, flames to surround the intruder, so that
 success is rare. These magic blossoms, which appear on St. John's day at
 Midsummer, as well as on Easter-day, are called among the Croats, says
 Afanasief, by the name of *Perenovo Tsvetje*, or Perun's Flower <span
-id="fr_92"></span>[8](#fn_92).
+id="fr_92"></span>[8](#fn_92.md).
 
 The lightning was endowed by ancient fancy with the faculty of sight,
 and the flash of the summer lightning, when it gleams for a moment
@@ -589,7 +589,7 @@ the Carpenter set to work. In the middle of the night up he drove in the
 Laume's waggon, cracking her whip, and uttering the words he had heard
 her use while she was stealing turnips.. Immediately away flew both the
 Devil and Perkun, and the Carpenter was left in possession of the
-house <span id="fr_93"></span>[9](#fn_93).
+house <span id="fr_93"></span>[9](#fn_93.md).
 
 The statue of Perun, at Kief, stood upon a piece of rising ground, on
 which were set up also the images of several other gods-Khors, Dazhbog,
@@ -602,7 +602,7 @@ one commentator--in default of all trustworthy evidence--has had
 recourse to a somewhat rash comparison of their names with those of the
 Assyrian gods mentioned in the Second Book of Kings \[ch. xvii. ver.
 30\]: "And the men of Cuth made Nergal, and the men of Hamath made
-Ashima <span id="fr_94"></span>[1](#fn_94)." In pursuance of a similar
+Ashima <span id="fr_94"></span>[1](#fn_94.md)." In pursuance of a similar
 idea Mokosh has been taken to be a female deity, and has been likened to
 Astarte. But these are the wildest of conjectures. The name
 
@@ -643,7 +643,7 @@ white, originally meant bright, as appears from such expressions as
 *byely svyet*, or *byely den*, the white (i.e. bright) light or day. In
 the same sense of the word the moon is often spoken of as "white," and
 the horses are "white" which draw the chariot of the sun <span
-id="fr_95"></span>[2](#fn_95). The intimate connexion between Byelbog
+id="fr_95"></span>[2](#fn_95.md). The intimate connexion between Byelbog
 and the Light-god Bäldäg \[Baldur, etc.\] has been pointed out by Jacob
 Grimm (*Deutsche Mythologie*, p. 203).
 
@@ -657,7 +657,7 @@ few words.
 
 One writer has gone so far as to maintain that Lado and Lada are merely
 two of the meaningless refrains that occur in Russian songs <span
-id="fr_96"></span>[3](#fn_96). But the generally received idea is that
+id="fr_96"></span>[3](#fn_96.md). But the generally received idea is that
 Lado was a name for the Sun-god, answering to Freyr, and that Lada was
 the Slavonic counterpart of Freyja, the goddess of the spring
 
@@ -682,16 +682,16 @@ treasure)." After the introduction of Christianity the reverence that
 was originally paid to Lada became transferred to the Virgin Mary. On
 that account it is that the Servians call her "Fiery Mary," and speak of
 her in their songs as the sister of Elijah the Thunderer, that is
-Perun <span id="fr_97"></span>[4](#fn_97).
+Perun <span id="fr_97"></span>[4](#fn_97.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_67"></span>[83:1](srp05.htm#fr_67) Solovief, *Istoriya
+<span id="fn_67"></span>[83:1](srp05.htm#fr_67.md) Solovief, *Istoriya
 Rossii*, I. 317.
 
-<span id="fn_68"></span>[84:2](srp05.htm#fr_68) The following extract
+<span id="fn_68"></span>[84:2](srp05.htm#fr_68.md) The following extract
 from Mr. Talboys Wheeler's description of the religion of the "Vedic
 people" ("History of India," I. 8) seems to be perfectly applicable to
 the primitive Slavonians. "Their Gods appear to have been mere
@@ -701,7 +701,7 @@ very first there appears to have been some confusion in these
 personifications, which led both to a multiplicity of deities, and the
 confounding together of different deities."
 
-<span id="fn_69"></span>[85:3](srp05.htm#fr_69) Buslaef, "On the
+<span id="fn_69"></span>[85:3](srp05.htm#fr_69.md) Buslaef, "On the
 Influence of Christianity on the Slavonic Language," p, 50. Afanasief,
 "Poetic Views of the Slavonians about Nature," I. 64, 65. Solovief
 decidedly identifies Perun with Svarog, See his "History of Russia," I.
@@ -712,25 +712,25 @@ the name of Dazhbog."--*Ist. Och.* II. 364. I shall not refer in this
 chapter to the celebrated epic "On the Expedition of Igor," as I wish to
 reserve that poem for a future occasion.
 
-<span id="fn_70"></span>[86:4](srp05.htm#fr_70) G. W. Cox's "Mythology
+<span id="fn_70"></span>[86:4](srp05.htm#fr_70.md) G. W. Cox's "Mythology
 of the Aryan Nations," II. 364.
 
-<span id="fn_71"></span>[86:5](srp05.htm#fr_71) In the *Slovo nyekoego
+<span id="fn_71"></span>[86:5](srp05.htm#fr_71.md) In the *Slovo nyekoego
 Khristolyubtsa*.
 
-<span id="fn_72"></span>[87:6](srp05.htm#fr_72) Dr. G. Bühler, in an
+<span id="fn_72"></span>[87:6](srp05.htm#fr_72.md) Dr. G. Bühler, in an
 excellent article "On the Hindu God 'Parjanya,'" contained in the
 "Transactions of the Philological Society," 1859, pt. 2, pp. 154-168.
 See also his essay on the same subject in vol. i. of Benfey's *Orient
 und Occident*.
 
-<span id="fn_73"></span>[87:7](srp05.htm#fr_73) "Rig Veda," v. 83. Prof.
+<span id="fn_73"></span>[87:7](srp05.htm#fr_73.md) "Rig Veda," v. 83. Prof.
 Wilson's translation.
 
-<span id="fn_74"></span>[87:8](srp05.htm#fr_74) "Rig Veda," V. 63. Dr.
+<span id="fn_74"></span>[87:8](srp05.htm#fr_74.md) "Rig Veda," V. 63. Dr.
 Bühler's translation.
 
-<span id="fn_75"></span>[88:9](srp05.htm#fr_75) According to Dr. Bühler
+<span id="fn_75"></span>[88:9](srp05.htm#fr_75.md) According to Dr. Bühler
 the word *Perkuna* is "exactly equivalent to a Sanskrit Parjana, to
 which the affix *ya* was added without change of signification." With
 respect to the absence of the *k* in the Slavonic forms of the name he
@@ -742,37 +742,37 @@ an unusual remedy only could hinder the violation of the laws of the
 language."--Phil. Soc. Trans, 1859, p. 164. See also the *Deutsche
 Mythologie*, 156.
 
-<span id="fn_76"></span>[88:1](srp05.htm#fr_76) Afanasief, P. V. S. I.
+<span id="fn_76"></span>[88:1](srp05.htm#fr_76.md) Afanasief, P. V. S. I.
 249.
 
-<span id="fn_77"></span>[89:2](srp05.htm#fr_77) *Dainà* (plur. *Dainos*)
+<span id="fn_77"></span>[89:2](srp05.htm#fr_77) *Dainà* (plur. *Dainos*.md)
 is a Lithuanian word for a song. It is not used, however, in the case of
 a song of a serious or religious cast, which bears a special name.
 
-<span id="fn_78"></span>[89:3](srp05.htm#fr_78) Nesselmann's
+<span id="fn_78"></span>[89:3](srp05.htm#fr_78.md) Nesselmann's
 *Littauische Volkslieder*, No. 2.
 
-<span id="fn_79"></span>[90:4](srp05.htm#fr_79) Quoted by Dr. Bühler
+<span id="fn_79"></span>[90:4](srp05.htm#fr_79.md) Quoted by Dr. Bühler
 from Lasicius, *De Diis Samogitarum*. I have not as yet succeeded in
 verifying the quotation.
 
-<span id="fn_80"></span>[90:5](srp05.htm#fr_80) Afanasief, P. V. S. I.
+<span id="fn_80"></span>[90:5](srp05.htm#fr_80.md) Afanasief, P. V. S. I.
 251.
 
-<span id="fn_81"></span>[91:6](srp05.htm#fr_81) *Pamyataniki
+<span id="fn_81"></span>[91:6](srp05.htm#fr_81.md) *Pamyataniki
 Latuiskskago Narodnago Tvorchestva*, etc., p. 315, 316 ("Memorials of
 Lettish Popular Poetry," collected and edited by Ivan Sprogis), Wilna,
 1868.
 
-<span id="fn_82"></span>[91:7](srp05.htm#fr_82) Schöpping's R. N. p.
+<span id="fn_82"></span>[91:7](srp05.htm#fr_82.md) Schöpping's R. N. p.
 195.
 
-<span id="fn_83"></span>[92:8](srp05.htm#fr_83) Buslaef, however, a far
+<span id="fn_83"></span>[92:8](srp05.htm#fr_83.md) Buslaef, however, a far
 higher authority, holds (*Ist. Och.* I. 360) "that Perun was a generally
 worshipped Slavonic deity long before the division of the Slavonians
 into their Eastern and Western branches."
 
-<span id="fn_84"></span>[92:9](srp05.htm#fr_84) The following facts will
+<span id="fn_84"></span>[92:9](srp05.htm#fr_84.md) The following facts will
 serve to show how treacherous is the ground on which the antiquarian has
 to tread while endeavouring to discover such remains as may elucidate
 the early history of Slavonic Mythology. The name of the god Zuarasici,
@@ -788,13 +788,13 @@ evolved a mysterious deity called Dazhb, or Dashuba, out of a
 common-place contraction of Dazhboga, the genitive case of Dazhbog, the
 Day-God.
 
-<span id="fn_85"></span>[93:1](srp05.htm#fr_85) Deutsche Mythologie,
+<span id="fn_85"></span>[93:1](srp05.htm#fr_85.md) Deutsche Mythologie,
 1171.
 
-<span id="fn_86"></span>[94:2](srp05.htm#fr_86) Mrs. Manning's "Ancient
+<span id="fn_86"></span>[94:2](srp05.htm#fr_86.md) Mrs. Manning's "Ancient
 India," II. 16.
 
-<span id="fn_87"></span>[94:3](srp05.htm#fr_87) "The people of Novogorod
+<span id="fn_87"></span>[94:3](srp05.htm#fr_87.md) "The people of Novogorod
 formerly offered their chief worship and adoration to a certain idol
 named Perun. When subsequently they received baptism., they removed it
 from its place, and threw it into the river Volchov; and the story goes,
@@ -807,43 +807,43 @@ run together and lash each other with ropes, and such a tumult arises
 therefrom, that all the efforts of the Governor can scarcely assuage
 it."--Herberstein, Mr. Major's translation, Vol. II. p. 26.
 
-<span id="fn_88"></span>[95:4](srp05.htm#fr_88) Afanasief, "Poetic
+<span id="fn_88"></span>[95:4](srp05.htm#fr_88.md) Afanasief, "Poetic
 Views," I. 251, 771.
 
-<span id="fn_89"></span>[95:5](srp05.htm#fr_89) Afanasief, "Poetic
+<span id="fn_89"></span>[95:5](srp05.htm#fr_89.md) Afanasief, "Poetic
 Views," I. 248. Grimm, *Deutsche Mythologie*, 164.
 
-<span id="fn_90"></span>[97:6](srp05.htm#fr_90) In the Rámáyana, the
+<span id="fn_90"></span>[97:6](srp05.htm#fr_90.md) In the Rámáyana, the
 monkey-chief, Hanuman, is sent to the Himalayas to fetch four different
 kinds of herbs, of which the first restore the dead to life, the second
 drive away pain, the third join broken parts, and the fourth cure all
 the wounds inflicted by Indrajit's arrows.
 
-<span id="fn_91"></span>[99:7](srp05.htm#fr_91) According to a tradition
+<span id="fn_91"></span>[99:7](srp05.htm#fr_91.md) According to a tradition
 preserved in the Government of Kherson. Afanasief, P. V. S. II. 379.
 
-<span id="fn_92"></span>[99:8](srp05.htm#fr_92) A number of similar
+<span id="fn_92"></span>[99:8](srp05.htm#fr_92.md) A number of similar
 traditions about the fern, gleaned from German sources, will be found,
 in an English dress, in Mr. W. K. Kelly's " Curiosities of Indo-European
 Tradition and Folk-lore," pp. 181-200.
 
-<span id="fn_93"></span>[102:9](srp05.htm#fr_93) Schleicher, Litauische
+<span id="fn_93"></span>[102:9](srp05.htm#fr_93.md) Schleicher, Litauische
 Märchen, 141-5.
 
-<span id="fn_94"></span>[102:1](srp05.htm#fr_94) See the Russian
+<span id="fn_94"></span>[102:1](srp05.htm#fr_94.md) See the Russian
 "Journal of the Ministry of National Enlightenment," 1841, II. 37-39,
 41-43.
 
-<span id="fn_95"></span>[104:2](srp05.htm#fr_95) Afanasief, P. V. S. I.
+<span id="fn_95"></span>[104:2](srp05.htm#fr_95.md) Afanasief, P. V. S. I.
 92-96.
 
-<span id="fn_96"></span>[104:3](srp05.htm#fr_96) Tereshchenko, V. 56.
+<span id="fn_96"></span>[104:3](srp05.htm#fr_96.md) Tereshchenko, V. 56.
 His merits as a compiler, and his demerits as a critic, have been ably
 pointed out by Kavelin, *Collected Works*, IV. 3-20.
 
-<span id="fn_97"></span>[105:4](srp05.htm#fr_97) Afanasief, P. V. S. I.
+<span id="fn_97"></span>[105:4](srp05.htm#fr_97.md) Afanasief, P. V. S. I.
 227-229, and 483.
 
 ------------------------------------------------------------------------
 
-[Next: Section II.--Demigods and Fairies](srp06)
+[Next: Section II.--Demigods and Fairies](srp06.md)

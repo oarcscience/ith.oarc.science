@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian of Samosata](../index)  [Index](index)  [Previous](tru00) 
-[Next](tru02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian of Samosata](../index)  [Index](index)  [Previous](tru00.md) 
+[Next](tru02.md) 
 
 ------------------------------------------------------------------------
 
@@ -602,91 +602,91 @@ space permits).
 
 ### Footnotes
 
-<span id="fn_0"></span>[251:1](tru01.htm#fr_0) The writings of Ctesias
+<span id="fn_0"></span>[251:1](tru01.htm#fr_0.md) The writings of Ctesias
 and Iambulus are lost; also those of Antonius Diogenes, whose story, *On
 the Wonders beyond Thule*, was according to Photius (*Bibb*., cod. 166,
 111 b) the fountain-head of Lucian's tale.
 
-<span id="fn_1"></span>[251:2](tru01.htm#fr_1) A slap at Plato's
+<span id="fn_1"></span>[251:2](tru01.htm#fr_1.md) A slap at Plato's
 Republic (x. 614 A *seq*.), as the scholiast says.
 
-<span id="fn_2"></span>[253:1](tru01.htm#fr_2) Compare the protestations
+<span id="fn_2"></span>[253:1](tru01.htm#fr_2.md) Compare the protestations
 of Ctesias and of Antonius Diogenes (Phot. cod. 72, 49-50; 166, 109 b).
 
-<span id="fn_3"></span>[255:1](tru01.htm#fr_3) This paragraph is based
+<span id="fn_3"></span>[255:1](tru01.htm#fr_3.md) This paragraph is based
 on Iambulus (Diod. 2. 55).
 
-<span id="fn_4"></span>[255:2](tru01.htm#fr_4) Cf. Herod. 4, 82; a
+<span id="fn_4"></span>[255:2](tru01.htm#fr_4.md) Cf. Herod. 4, 82; a
 footprint of Hercules, two cubits long.
 
-<span id="fn_5"></span>[255:3](tru01.htm#fr_5) Cf. Ctesias (Phot. cod.
+<span id="fn_5"></span>[255:3](tru01.htm#fr_5.md) Cf. Ctesias (Phot. cod.
 72, 46 a).
 
-<span id="fn_6"></span>[261:1](tru01.htm#fr_6) Cf. *Odyss*. 9, 322f.
+<span id="fn_6"></span>[261:1](tru01.htm#fr_6.md) Cf. *Odyss*. 9, 322f.
 
-<span id="fn_7"></span>[261:2](tru01.htm#fr_7) The story of Antonius
+<span id="fn_7"></span>[261:2](tru01.htm#fr_7.md) The story of Antonius
 Diogenes included a description of a trip to the moon (Phot. 111 a).
 Compare also Lucian's own *Icaromenippus*.
 
-<span id="fn_8"></span>[261:3](tru01.htm#fr_8) Cf. Lactantius 3, 23, 41:
+<span id="fn_8"></span>[261:3](tru01.htm#fr_8.md) Cf. Lactantius 3, 23, 41:
 "Seneca says that there have been Stoics who raised the question of
 ascribing to the sun a population of its own."
 
-<span id="fn_9"></span>[265:1](tru01.htm#fr_9) Compare the reticence of
+<span id="fn_9"></span>[265:1](tru01.htm#fr_9.md) Compare the reticence of
 Herodotus (1, 193), Thucydides (3, 113, 6), and Tacitus (*Germ*. 46).
 
-<span id="fn_10"></span>[267:1](tru01.htm#fr_10) Herodotus (3, 102)
+<span id="fn_10"></span>[267:1](tru01.htm#fr_10) Herodotus (3, 102.md)
 tells of ants bigger than foxes.
 
-<span id="fn_11"></span>[267:2](tru01.htm#fr_11) Herodotus (4, 191)
+<span id="fn_11"></span>[267:2](tru01.htm#fr_11) Herodotus (4, 191.md)
 tells of dog-headed men and of headless men with eyes in their breasts.
 
-<span id="fn_12"></span>[269:1](tru01.htm#fr_12) *Il*. 16, 459.
+<span id="fn_12"></span>[269:1](tru01.htm#fr_12.md) *Il*. 16, 459.
 
-<span id="fn_13"></span>[273:1](tru01.htm#fr_13) Compare the
+<span id="fn_13"></span>[273:1](tru01.htm#fr_13.md) Compare the
 Athenian-Spartan treaty, Thuc. 5, 18.
 
-<span id="fn_14"></span>[275:1](tru01.htm#fr_14) *I.e.* calf of the leg.
+<span id="fn_14"></span>[275:1](tru01.htm#fr_14.md) *I.e.* calf of the leg.
 
-<span id="fn_15"></span>[277:1](tru01.htm#fr_15) Cf. Herod. 1, 202; 4,
+<span id="fn_15"></span>[277:1](tru01.htm#fr_15.md) Cf. Herod. 1, 202; 4,
 75; Strabo 15, 1, 57.
 
-<span id="fn_16"></span>[277:2](tru01.htm#fr_16) The point of this is
+<span id="fn_16"></span>[277:2](tru01.htm#fr_16.md) The point of this is
 that κομήτης, whence our word cornet, means *long-haired*.
 
-<span id="fn_17"></span>[279:1](tru01.htm#fr_17) Lucian's glass clothing
+<span id="fn_17"></span>[279:1](tru01.htm#fr_17.md) Lucian's glass clothing
 (ὑαλίνη) is a punning parody on wooden clothing (ξυλίνη), *i.e.* cotton
 (Herod. 7, 65).
 
-<span id="fn_18"></span>[281:1](tru01.htm#fr_18) Compare the story of
+<span id="fn_18"></span>[281:1](tru01.htm#fr_18.md) Compare the story of
 the Graeae.
 
-<span id="fn_19"></span>[285:1](tru01.htm#fr_19) The capital of Birdland
+<span id="fn_19"></span>[285:1](tru01.htm#fr_19.md) The capital of Birdland
 in Aristophanes' play, *The Birds*.
 
-<span id="fn_20"></span>[285:2](tru01.htm#fr_20) On the size of these,
+<span id="fn_20"></span>[285:2](tru01.htm#fr_20.md) On the size of these,
 see Lucian's *Syrian Goddess*, 23.
 
-<span id="fn_21"></span>[287:1](tru01.htm#fr_21) This story of the whale
+<span id="fn_21"></span>[287:1](tru01.htm#fr_21.md) This story of the whale
 is no longer considered a parody on Jonah's adventure, as there were
 other versions of the tale afloat in antiquity.
 
-<span id="fn_22"></span>[293:1](tru01.htm#fr_22) According to Herodotus
+<span id="fn_22"></span>[293:1](tru01.htm#fr_22.md) According to Herodotus
 (2, 46), μένδης was Egyptian for goat; but there is nothing goatish in
 the Tritonomendetes as Lucian describes them.
 
-<span id="fn_23"></span>[297:1](tru01.htm#fr_23) Compare the description
+<span id="fn_23"></span>[297:1](tru01.htm#fr_23.md) Compare the description
 of the sea-fight between Corinth and Corcyra in Thucydides 1. 48.
 
-<span id="fn_24"></span>[299:1](tru01.htm#fr_24) Herodotus (2, 156)
+<span id="fn_24"></span>[299:1](tru01.htm#fr_24) Herodotus (2, 156.md)
 speaks of a floating island in Egypt.
 
-<span id="fn_25"></span>[299:2](tru01.htm#fr_25) Cf. *Il*. 5, 4: "And
+<span id="fn_25"></span>[299:2](tru01.htm#fr_25.md) Cf. *Il*. 5, 4: "And
 tireless flames did burn on crest and shield."
 
-<span id="fn_26"></span>[301:1](tru01.htm#fr_26) Very likely a punning
+<span id="fn_26"></span>[301:1](tru01.htm#fr_26.md) Very likely a punning
 reference to some traveller's account of wooden (ξυλίναις) anchors.
 
 ------------------------------------------------------------------------
 
-[Next: Book II](tru02)
+[Next: Book II](tru02.md)

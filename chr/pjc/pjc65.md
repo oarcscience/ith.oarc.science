@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](pjc64)  [Next](pjc66) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](pjc64)  [Next](pjc66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WEK0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dolorous Passion of Our Lord Jesus Christ*, by Anne Catherine
 Emmerich, \[1862\], at Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ according as they required, vases filled with clear water, and sponges,
 which they afterwards squeezed in the leathern bottles.
 
 The courage and firmness of Mary remained unshaken even in the midst of
-her inexpressible anguish. <span id="fr_16"></span>[1](#fn_16) It was
+her inexpressible anguish. <span id="fr_16"></span>[1](#fn_16.md) It was
 absolutely impossible for her to leave the body of her Son in the awful
 state to which it had been reduced by his sufferings, and therefore she
 began with indefatigable earnestness to wash and purify it from the
@@ -66,7 +66,7 @@ cutting off one by one the thorns which had sunk deep into the head of
 Jesus, in order that she might not widen the wounds. The crown was
 placed by the side of the nails, and then Mary drew out the thorns which
 had remained in the skin with a species of rounded pincers, <span
-id="fr_17"></span>[2](#fn_17) and sorrowfully showed them to her
+id="fr_17"></span>[2](#fn_17.md) and sorrowfully showed them to her
 friends. These
 
 <span id="page_295">p. 295</span>
@@ -86,7 +86,7 @@ eyes filled with blood, the nostrils, and the ears, with a sponge and a
 small piece of linen spread over the fingers of her right hand; and then
 she purified, in the same manner, the half-opened mouth, the tongue, the
 teeth, and the lips. She divided what remained of our Lord's hair into
-three parts, <span id="fr_18"></span>[1](#fn_18) a part falling over
+three parts, <span id="fr_18"></span>[1](#fn_18.md) a part falling over
 each temple, and the third over the back of
 
 <span id="page_296">p. 296</span>
@@ -154,7 +154,7 @@ Golgotha, where the smooth surface of a rock afforded a convenient
 platform on which to embalm the body. I first saw a piece of open-worked
 linen, looking very much like lace, and which made me think of the large
 embroidered curtain hung between the choir and nave during Lent. <span
-id="fr_19"></span>[1](#fn_19) It was probably worked in that open stitch
+id="fr_19"></span>[1](#fn_19.md) It was probably worked in that open stitch
 for the water to run through. I also saw another large sheet unfolded.
 The body of our Saviour was placed on
 
@@ -231,7 +231,7 @@ Kings.
 
 ### Footnotes
 
-<span id="fn_16"></span>[294:1](pjc65.htm#fr_16) On Good Friday, March
+<span id="fn_16"></span>[294:1](pjc65.htm#fr_16.md) On Good Friday, March
 30th, 1820, as Sister Emmerich was contemplating the descent from the
 Cross she suddenly fainted, in the presence of the writer of these
 lines, and appeared to be really dead. But after a time she recovered
@@ -246,7 +246,7 @@ I believed I must have died from it.' She had to endure this suffering
 for a long time, and, in consequence of it, had an illness which reduced
 her almost to the brink of the grave.
 
-<span id="fn_17"></span>[294:2](pjc65.htm#fr_17) Sister Emmerich said
+<span id="fn_17"></span>[294:2](pjc65.htm#fr_17.md) Sister Emmerich said
 that the shape of these pincers reminded her of the scissors with which
 Samson's hair was out off. In her visions of the third year of the
 public life of Jesus she had seen our Lord keep the Sabbath-day at
@@ -255,7 +255,7 @@ Levites, of the tribe of Aser--and as a portion of the Book of Judges
 was read in the synagogue, Sister Emmerich beheld upon that occasion the
 life of Samson.
 
-<span id="fn_18"></span>[295:1](pjc65.htm#fr_18) Sister Emmerich was
+<span id="fn_18"></span>[295:1](pjc65.htm#fr_18.md) Sister Emmerich was
 accustomed, when speaking of persons of historical importance, to
 explain how they divided their hair. 'Eve,' she said, 'divided her hair
 in two parts, but Mary into three.' And she appeared to attach
@@ -275,11 +275,11 @@ on his forehead. He retained the grace to do penance and of that
 repentance by which he recovered strength sufficient to destroy his
 enemies. The life of Samson is figurative and prophetic.'
 
-<span id="fn_19"></span>[297:1](pjc65.htm#fr_19) This refers to a custom
+<span id="fn_19"></span>[297:1](pjc65.htm#fr_19.md) This refers to a custom
 of the Diocese of Munster. During Lent there was hung up in the churches
 a curtain, embroidered in open work, representing the Five Wounds, the
 instruments of the, Passion, &c.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LII. The Body of our Lord placed in the Sepulchre](pjc66)
+[Next: Chapter LII. The Body of our Lord placed in the Sepulchre](pjc66.md)

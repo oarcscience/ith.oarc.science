@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,5 +21,5 @@ Naturally, they have a epochal message for Mr. Ferguson...
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](mttm00)  
-[My Trip to Mars](mttm01)  
+<span id="contents"></span> [Title Page](mttm00.md)  
+[My Trip to Mars](mttm01.md)  

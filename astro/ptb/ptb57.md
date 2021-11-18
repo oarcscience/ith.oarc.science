@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb56)  [Next](ptb58) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb56)  [Next](ptb58.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ degrees distant from the ascendant, in the order of the signs. It is in
 all cases, both by night and day, to be so computed and set down, that
 the Moon may hold with it the same relation as that which the Sun may
 hold with the ascendant; and it thus becomes, as it were, a lunar
-horoscope or ascendant. <span id="fr_154"></span>[1](#fn_154)
+horoscope or ascendant. <span id="fr_154"></span>[1](#fn_154.md)
 
 <span id="page_90">p. 90</span>
 
@@ -40,7 +40,7 @@ By night, the Moon is to be elected as prorogator, provided, in like
 manner, she should be in some prorogatory place; and if she be not, the
 Sun: if he also be not in any prorogatory place, then that planet which
 may have most rights of dominion in reference to the Moon, <span
-id="fr_155"></span>[1](#fn_155) and the antecedent full Moon and the
+id="fr_155"></span>[1](#fn_155.md) and the antecedent full Moon and the
 part of Fortune. But, if there be no planet claiming dominion in the
 mode prescribed, the Ascendant must be taken, in case a new Moon had
 last preceded the birth; but, if a full Moon, the part of Fortune.
@@ -52,13 +52,13 @@ influential than the others, that luminary must be chosen; but should
 the ruling planet occupy the stronger place, and have prorogatives of
 dominion suitable to the conditions of both luminaries, the planet must
 then be preferred to either of them. <span
-id="fr_156"></span>[2](#fn_156)
+id="fr_156"></span>[2](#fn_156.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_154"></span>[89:1](ptb57.htm#fr_154) The Latin translation,
+<span id="fn_154"></span>[89:1](ptb57.htm#fr_154.md) The Latin translation,
 printed at Perugio in 1646, has here the following passage in addition:
 "But it must be seen which luminary may follow the other in the
 succession of the signs; for if the Moon should so follow the Sun, the
@@ -108,10 +108,10 @@ house, in 14° 30' of Pisces: the Moon in the ascendant, in 6° 45' of
 Capricorn; the ascendant is 5° 34' of Capricorn; and the part Fortune is
 in the ninth house, in 28° 9' of Libra.
 
-<span id="fn_155"></span>[91:1](ptb57.htm#fr_155) According to her
+<span id="fn_155"></span>[91:1](ptb57.htm#fr_155.md) According to her
 position in the scheme of the nativity.
 
-<span id="fn_156"></span>[91:2](ptb57.htm#fr_156) Placidus, in remarking
+<span id="fn_156"></span>[91:2](ptb57.htm#fr_156.md) Placidus, in remarking
 on the nativity of John di Colonna, after stating his opinion that it is
 an error to suppose that a malign influence to the horoscope, when the
 horoscope has *not* the primary signification of life is anæretic, says,
@@ -123,4 +123,4 @@ according to Ptolemy's method." (Cooper's translation, p. 184.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Number of the Modes of Prorogation](ptb58)
+[Next: Chapter XIV. Number of the Modes of Prorogation](ptb58.md)

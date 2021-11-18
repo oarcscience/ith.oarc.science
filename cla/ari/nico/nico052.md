@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico051) 
-[Next](nico053) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico051.md) 
+[Next](nico053.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ human.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 10. Equity, a corrective of legal justice](nico053)
+[Next: Chapter 10. Equity, a corrective of legal justice](nico053.md)

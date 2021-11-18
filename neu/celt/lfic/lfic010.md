@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic009)  [Next](lfic011) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic009)  [Next](lfic011.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ tautology and circumlocution, respected this characteristic.
 
 ------------------------------------------------------------------------
 
-[Next: The Brown Bear of Norway](lfic011)
+[Next: The Brown Bear of Norway](lfic011.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft12)  [Next](eft14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft12)  [Next](eft14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -90,7 +90,7 @@ him with a great wound.
 mother:
 
  "Go quickIy now and take the dress I wore when I was little.<span
-id="page_50_fr_*"></span>[\*](#page_50_note_*) It is in the chest
+id="page_50_fr_*"></span>[\*](#page_50_note_*.md) It is in the chest
 there."
 
  And when she took it out, it was so small that it did not look like a
@@ -114,7 +114,7 @@ hardly be seen in his hands. He strung that bow, and went out, and said:
 a ''spirit flight.'' He is bound head to knees and hands behind; the
 magic drum resting on his foot is beating itself. Bird's wings are
 fastened to his back.](tn/050.jpg)  
-Click to enlarge](img/050.jpg)  
+Click to enlarge](img/050.jpg.md)  
 Wizard preparing for a ''spirit flight.'' He is bound head to knees and
 hands behind; the magic drum resting on his foot is beating itself.
 Bird's wings are fastened to his back.  
@@ -158,7 +158,7 @@ afterwards until death.
 
 <span id="footnotes_page_50">p. 50</span>
 
-<span id="page_50_note_*"></span>[\*](#page_50_fr_*) The first dress
+<span id="page_50_note_*"></span>[\*](#page_50_fr_*.md) The first dress
 worn by a child is supposed to act as a charm against wounds if the
 former wearer can put it on when a grown man.
 
@@ -194,4 +194,4 @@ former wearer can put it on when a grown man.
 
 ------------------------------------------------------------------------
 
-[Next: THE INSECTS THAT WOOED A WIFELESS MAN](eft14)
+[Next: THE INSECTS THAT WOOED A WIFELESS MAN](eft14.md)

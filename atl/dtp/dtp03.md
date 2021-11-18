@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp02)  [Next](dtp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp02)  [Next](dtp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -329,13 +329,13 @@ more error, then am I content. I have sought to explain the great
 mystery of life, illustrating it with part of my own life history,
 extracts which cover years reaching into many thousands; and the
 greatest of all Books has been my text. I add not thereto nor take away,
-but explain. <span id="fr_0"></span>[1](#fn_0) Peace be with thee.
+but explain. <span id="fr_0"></span>[1](#fn_0.md) Peace be with thee.
 
 PHYLOS.
 
 Addendum:--I feel myself vastly indebted to many bright writers and
 authors for numerous quotations of which I have availed myself, without
-making credit at the time; it is [impossible](errata.htm#0) to render
+making credit at the time; it is [impossible](errata.htm#0.md) to render
 this award to every individual by name, hence I must do so concretely,
 just as the world finds itself forced to express its aggregate
 gratitude, not by words of laudation, but by shaping its life in
@@ -401,9 +401,9 @@ Los Angeles, October 11, 1899.
 
 ### Footnotes
 
-<span id="fn_0"></span>[21:1](dtp03.htm#fr_0) Revelations, XXII, 18-19;
+<span id="fn_0"></span>[21:1](dtp03.htm#fr_0.md) Revelations, XXII, 18-19;
 also I. Tim. VI., 3-12.
 
 ------------------------------------------------------------------------
 
-[Next: Maps](dtp04)
+[Next: Maps](dtp04.md)

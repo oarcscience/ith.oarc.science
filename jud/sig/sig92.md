@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](sig91) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](sig91.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0827600607/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ Thine anger is turned away and Thou hast comforted me.
 Thine, O Lord, is loving-kindness  
 In all the goodness Thou hast bestowed on me,  
 And which Thou wilt bestow till the day of my death.  
-And for all this it [behooves](errata.htm#1) me to give thanks,  
+And for all this it [behooves](errata.htm#1.md) me to give thanks,  
 To laud, to glorify, to extol Thee.  
 By the mouth of Thy creatures O yield Thyself praise,  
 By those hallowing Thee be Thou self-sanctified,  

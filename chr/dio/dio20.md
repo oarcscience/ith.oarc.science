@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio19)  [Next](dio21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio19)  [Next](dio21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ super-essentially the Superessential, through the abstraction of all
 existing things, just as those who make a lifelike statue, by extracting
 all the encumbrances which have been placed upon the clear view of the
 concealed, and by bringing to light, by the mere cutting away <span
-id="fr_59"></span>[60](#fn_59) , the genuine beauty concealed in it.
+id="fr_59"></span>[60](#fn_59.md) , the genuine beauty concealed in it.
 And, it is necessary, as I think, to celebrate the abstractions in an
 opposite way to the definitions. For, we used to place these latter by
 beginning from the foremost and descending through the middle to the
@@ -48,9 +48,9 @@ id="ii.iii.ii.ii-Page_134"></span>
 
 ### Footnotes
 
-<span id="fn_59"></span>[133:60](dio20.htm#fr_59) <span
+<span id="fn_59"></span>[133:60](dio20.htm#fr_59.md) <span
 id="ii.iii.ii.ii-p3.1"></span>i.e. the abstraction.
 
 ------------------------------------------------------------------------
 
-[Next: Caput III.](dio21)
+[Next: Caput III.](dio21.md)

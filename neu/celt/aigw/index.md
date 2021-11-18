@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Myths and
-Legends](../../index)  [Celtic](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Myths and
+Legends](../../index)  [Celtic](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Legends](../../index)  [Celtic](../index) 
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](aigw01)
+[Contents](#contents)    [Start Reading](aigw01.md)
 
 ------------------------------------------------------------------------
 
@@ -28,5 +28,5 @@ Thanks to Jen Stotland, who prepared this article for sacred-texts.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](aigw00)  
-[The Ancient Irish Goddess of War](aigw01)  
+<span id="contents"></span> [Title Page](aigw00.md)  
+[The Ancient Irish Goddess of War](aigw01.md)  

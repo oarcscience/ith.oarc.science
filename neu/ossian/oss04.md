@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss03)  [Next](oss05) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss03)  [Next](oss05.md) 
 
 ------------------------------------------------------------------------
 
@@ -170,7 +170,7 @@ beings. Those who write in the Gaelic language seldom mention religion
 in their profane poetry; and when they professedly write of religion,
 they never mix, with their compositions, the actions of their heroes.
 This custom alone, even though the religion of the Druids had not
-[been been](errata.htm#1) previously extinguished, may, in some measure,
+[been been](errata.htm#1.md) previously extinguished, may, in some measure,
 excuse the author's silence concerning the religion of ancient times.
 
 To allege that a nation is void of all religion, betrays ignorance of
@@ -413,4 +413,4 @@ Heliogabalus disgraced human nature at Rome.
 
 ------------------------------------------------------------------------
 
-[Next: Dissertation Concerning the Poems of Ossian](oss05)
+[Next: Dissertation Concerning the Poems of Ossian](oss05.md)

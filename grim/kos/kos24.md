@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos23)  [Next](kos25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos23)  [Next](kos25.md) 
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Editor's Note on [Figure 1](kos00.htm#img_kos01).--The Mystical Figure
+Editor's Note on [Figure 1](kos00.htm#img_kos01.md).--The Mystical Figure
 of Solomon.--This is only given in the two MSS., Lansdowne 1202and 1203.
 It was given by Lévi in his 'Dogme et Rituel de la Haute Magie,' and by
 Tycho Brahé in his 'Calendarium Naturale Magicum,' but in each instance
@@ -41,4 +41,4 @@ Figure forms in each instance the frontispiece of the MS. referred to.
 
 ------------------------------------------------------------------------
 
-[Next: Plate II](kos25)
+[Next: Plate II](kos25.md)

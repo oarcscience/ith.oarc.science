@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Next](dth01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Next](dth01.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ attribution is left intact in all copies
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](dth01)
+[Next: Introduction](dth01.md)

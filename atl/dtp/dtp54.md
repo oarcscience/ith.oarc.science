@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp53) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp53.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -91,7 +91,7 @@ those who in the Sixth Cycle
 
 <span id="page_416">p. 416</span>
 
-lost [supremacy](errata.htm#27) over their lower selves won no place in
+lost [supremacy](errata.htm#27.md) over their lower selves won no place in
 the Seventh. In the closing years of the spent cycle one deserted his
 helpless wife; verily, he really deserted his birthright in the New Age.
 Another sought, being weak-willed, to drown worries in wine; be but
@@ -128,9 +128,9 @@ healeth every soul's-hurt.
 
 <span id="page_417">p. 417</span>
 
-During many, [many](errata.htm#28) centuries prophecy hath looked
+During many, [many](errata.htm#28.md) centuries prophecy hath looked
 forward to. the end of the Age as a time of awful woe, and has pictured
-dread [scenes](errata.htm#29) of terminal horror. Am I come to say that
+dread [scenes](errata.htm#29.md) of terminal horror. Am I come to say that
 all these predictions shall fail? Is the book of the Apocalypse, mere
 allegory? Would it were! But as the Poseid age was stricken, this one
 must also be which has just passed. Shall
@@ -180,7 +180,7 @@ that even now stretches ahead, a seeming eternity. Frenzied millions of
 men and women, boys and girls, no longer free save in name, are menaced
 with starvation. Hungry, cold, half-clad, shelterless only too often,
 denied the chance to work, however willing they may be,
-corporation-owned machinery their competitor; [monopoly](errata.htm#30)
+corporation-owned machinery their competitor; [monopoly](errata.htm#30.md)
 and trust-ridden, sleeping or waking. This inhuman picture is the rule,
 not the exception. Thou knowest this full well. I state nothing new in
 this regard, and the awful facts are under drawn instead of exaggerated.
@@ -343,7 +343,7 @@ ye? Shall not America, and the rest of the world, be mote glorious than
 ever thou hast dreamt. Aye, truly. She shall not indeed have the great
 population census-takers imagine. There shall be few where were many;
 tens replacing thousands. But not in numbers is there greatness or
-[magnificence](errata.htm#31); remember the Saldans and Rai Ernon; which
+[magnificence](errata.htm#31.md); remember the Saldans and Rai Ernon; which
 was greater, he or that ill-fated host? Yet never shall a soul be lost;
 God hath place for everyone.
 

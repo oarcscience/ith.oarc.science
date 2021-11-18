@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe141)  [Next](prwe143) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe141)  [Next](prwe143.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ built by Mr Edwards on the farm, which he completed in 1791." \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: Well Worship](prwe143)
+[Next: Well Worship](prwe143.md)

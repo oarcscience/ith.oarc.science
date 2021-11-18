@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp13)  [Next](dtp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp13)  [Next](dtp15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -204,7 +204,7 @@ Suernis and Necropan were possessed of a civilization which I now
 perceive to have been peer with our own, though so different. But
 because it possessed scarcely a salient point in common with that of
 Poseid, therefore the people of the latter country regarded it with a
-sort of scorn <span id="fr_4"></span>[1](#fn_4) when discussing it
+sort of scorn <span id="fr_4"></span>[1](#fn_4.md) when discussing it
 amongst themselves. But they were very respectful in their demeanor
 towards these people, for reasons that shall presently appear.
 
@@ -397,7 +397,7 @@ upon the rich velvet rugs on the marble floor.
 
 ### Footnotes
 
-<span id="fn_4"></span>[106:1](dtp14.htm#fr_4) It hath been ever thus;
+<span id="fn_4"></span>[106:1](dtp14.htm#fr_4.md) It hath been ever thus;
 the seed sown in the Acre whereof the corners am marked by posts of
 which the first hath but one side, the second five sides, the third six
 sides, but the fourth again only five, hath ever been scorned by man.
@@ -412,4 +412,4 @@ open thine eyes, and thou, too, O Mother land!
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: The Recital](dtp15)
+[Next: Chapter XI: The Recital](dtp15.md)

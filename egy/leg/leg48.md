@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg47)  [Next](leg49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg47)  [Next](leg49.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ by that solemn air of grief and
 
 sadness which appears in their sacrifices, as by the very form and
 arrangement of their temples, which extend into long avenues and open
-aisles in some portions, <span id="fr_317"></span>[1](#fn_315) and in
+aisles in some portions, <span id="fr_317"></span>[1](#fn_315.md) and in
 others retreating into dark and gloomy chapels which resembled the
 underground vaults which are allotted to the dead. That the history has
 a substantial foundation is proved by the opinion which obtains
@@ -46,18 +46,18 @@ Abydos and Memphis, both of which are said to contain his body. It is
 for this reason, they say, that the richer and more prosperous citizens
 wish to be buried in the former of these cities, being ambitious of
 lying, as it were, in the grave with Osiris. <span
-id="fr_318"></span>[2](#fn_316) The title of Memphis to be regarded
+id="fr_318"></span>[2](#fn_316.md) The title of Memphis to be regarded
 
 <span id="page_231">p. 231</span>
 
 as the grave of Osiris seems to rest upon the fact that the Apis Bull,
 who is considered to be the image of the soul of Osiris, is kept in that
 city for the express purpose that it may be as near his body as
-possible. <span id="fr_319"></span>[1](leg49.htm#fn_317) Others again
+possible. <span id="fr_319"></span>[1](leg49.htm#fn_317.md) Others again
 tell us that the interpretation of the name Memphis <span
-id="fr_320"></span>[2](leg49.htm#fn_318) is "the haven of good men," and
+id="fr_320"></span>[2](leg49.htm#fn_318.md) is "the haven of good men," and
 that the true sepulchre of Osiris lies in that little island which the
-Nile makes at Philae. <span id="fr_321"></span>[3](leg49.htm#fn_319)
+Nile makes at Philae. <span id="fr_321"></span>[3](leg49.htm#fn_319.md)
 This island is, they say, inaccessible, and neither bird can alight on
 it, nor fish swim near it, except at the times when the priests go over
 to it from the mainland to solemnize their customary rites to the dead,
@@ -69,7 +69,7 @@ olive-tree.
 
 ### Footnotes
 
-<span id="fn_311"></span>[228:1](leg47.htm#fr_313) According to the
+<span id="fn_311"></span>[228:1](leg47.htm#fr_313.md) According to the
 legend given in the Fourth Sallier Papyrus, the fight between Horus and
 Set began on the 26th day of the month of Thoth, and lasted three days
 and three nights. It was fought in or near the hall of the lords of
@@ -81,24 +81,24 @@ came forward, and using words of power, created a substitute in the form
 of a cow's head, and placed it on her body (Sallier, iv., p. 2; see
 *Select Papyri*, pl. cxlv.).
 
-<span id="fn_312"></span>[228:2](leg47.htm#fr_314) Horus inherited the
+<span id="fn_312"></span>[228:2](leg47.htm#fr_314.md) Horus inherited the
 throne by his father's will, a fact which is so often emphasized in the
 texts that it seems there may be some ground for Plutarch's view.
 
-<span id="fn_313"></span>[228:3](leg47.htm#fr_315) This view is
+<span id="fn_313"></span>[228:3](leg47.htm#fr_315.md) This view is
 confirmed by the words in the hymn to Osiris, "she moved the inactivity
 of the Still-Heart (Osiris), she drew from him his essence, she made an
 heir."
 
-<span id="fn_314"></span>[228:4](leg47.htm#fr_316) In Egyptian,
+<span id="fn_314"></span>[228:4](leg47.htm#fr_316.md) In Egyptian,
 HERU-PA-KHART, "Horus the Child."
 
-<span id="fn_315"></span>[230:1](leg48.htm#fr_317) Plutarch refers to
+<span id="fn_315"></span>[230:1](leg48.htm#fr_317.md) Plutarch refers to
 the long colonnaded courts which extend in a straight line to the
 sanctuary, which often contains more than one shrine, and to the
 chambers wherein temple properties, vestments, &c., were kept.
 
-<span id="fn_316"></span>[230:2](leg48.htm#fr_318) In what city the cult
+<span id="fn_316"></span>[230:2](leg48.htm#fr_318.md) In what city the cult
 of Osiris originated is not known, but it is quite certain that before
 the end of the VIth Dynasty Abydos became the centre of his worship, and
 that he dispossessed the local god An-Her in the affections of the
@@ -119,4 +119,4 @@ now in the Egyptian Museum at Cairo.
 
 ------------------------------------------------------------------------
 
-[Next: Section XXI.](leg49)
+[Next: Section XXI.](leg49.md)

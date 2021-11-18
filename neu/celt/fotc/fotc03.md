@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc02)  [Next](fotc04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc02)  [Next](fotc04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_1">p. 1</span>
 
-<span id="img_00100"></span> ![The Feuds of the Clans.](img/00100.jpg)
+<span id="img_00100"></span> ![The Feuds of the Clans.](img/00100.jpg.md)
 
 <span id="img_00101"></span>
 
@@ -1189,4 +1189,4 @@ Must not change in the offspring engag’d in the strife.
 
 ------------------------------------------------------------------------
 
-[Next: Touching the Description of Sutherland](fotc04)
+[Next: Touching the Description of Sutherland](fotc04.md)

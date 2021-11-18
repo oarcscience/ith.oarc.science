@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah77)  [Next](oah79) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah77)  [Next](oah79.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ parts in a sea of golden light.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](oah79)
+[Next: Chapter II](oah79.md)

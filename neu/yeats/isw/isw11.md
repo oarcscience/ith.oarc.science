@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](isw10)  [Next](isw12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](isw10)  [Next](isw12.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,4 +37,4 @@ Three Voices together
 
 ------------------------------------------------------------------------
 
-[Next: The Rider From The North](isw12)
+[Next: The Rider From The North](isw12.md)

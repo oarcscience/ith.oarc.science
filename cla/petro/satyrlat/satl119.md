@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXIX) 
-[Previous](satl118)  [Next](satl120) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXIX.md) 
+[Previous](satl118)  [Next](satl120.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ ni furor et bellum ferroque excita libido?
 
 ------------------------------------------------------------------------
 
-[Next: CXX](satl120)
+[Next: CXX](satl120.md)

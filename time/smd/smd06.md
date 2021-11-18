@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred Time](../index) 
-[Index](index)  [Previous](smd05)  [Next](smd07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sacred Time](../index.md) 
+[Index](index)  [Previous](smd05)  [Next](smd07.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ indeed.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. May--The Month of Maia](smd07)
+[Next: Chapter V. May--The Month of Maia](smd07.md)

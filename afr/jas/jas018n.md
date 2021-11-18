@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas017n)  [Next](jas019n)   
- \[[18. Goat on the Hill-side.](jas018)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas017n)  [Next](jas019n.md)   
+ \[[18. Goat on the Hill-side.](jas018.md)\]
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ a bird gives warning; in Chatelain, a deer.
 
 ------------------------------------------------------------------------
 
-[Next: Note 19. Dog and Dog-head.](jas019n)
+[Next: Note 19. Dog and Dog-head.](jas019n.md)

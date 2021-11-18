@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb03)  [Next](ttb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb03)  [Next](ttb05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,9 +13,9 @@ Intangible Textual Heritage
 
 <span id="page_10">p. 10</span>
 
-<span id="img_01000"></span> ![The Three Bears](img/01000.jpg)
+<span id="img_01000"></span> ![The Three Bears](img/01000.jpg.md)
 
-<span id="img_01001"></span> ![Quil Tum Tum](img/01001.jpg)
+<span id="img_01001"></span> ![Quil Tum Tum](img/01001.jpg.md)
 
 <span id="page_11">p. 11</span>
 
@@ -38,7 +38,7 @@ society and improved as the mentality of the human race developed. When
 ancient hunting had ceased, the tribes formed themselves into fishing
 communes, out of which rose private property, social classes and slaves,
 thereby creating the custom of barter. This first transition of mankind
-[occurred](errata.htm#4) thousands of years ago in Europe, Asia and
+[occurred](errata.htm#4.md) thousands of years ago in Europe, Asia and
 Africa. The records of these first human movements are given in stone on
 the Upper Nile and in the temples of India. It is hard to imagine in
 these modern times, when civilization is supposed to be at a high peak,
@@ -97,7 +97,7 @@ forgotten glory of a changing race.
 
 Of the aborigines of the Northwest there were only five tribes that
 carved Totem Poles, these were in Southeast Alaska and British
-[Columbia](errata.htm#5) and comprised the Haidas, Tsimshians, Bella
+[Columbia](errata.htm#5.md) and comprised the Haidas, Tsimshians, Bella
 Coola, Kwakitutl and Nootka. There are various kinds of Totem Poles,
 they can not all be treated fully in this book: Family poles, Tribal
 Totems, and House Posts. The latter are used to support the heavy beams
@@ -105,7 +105,7 @@ in community or private houses. They are from ten to twelve feet in
 height and composed of two or three objects such as Thunder Bird, Bear
 and a Slave (Two examples are to be seen in Stanley Park, Vancouver) or
 whatever was the owner's crest. Tribal Totem Poles are the mythological
-history which would embrace forms of [genealogy](errata.htm#6), charms,
+history which would embrace forms of [genealogy](errata.htm#6.md), charms,
 evil spirits, legends and witchcraft. This would also apply to family
 Totems, which would also be inscribed with the individual's greatness
 gained through potlatches or by heredity and which were generally
@@ -114,7 +114,7 @@ erected by the nephew of the deceased, the next in line of inheritance.
 This passing of the inheritance to the nephew, may at first glance,
 appear an injustice to his son, but when we take into consideration the
 fact that primitive people simply do not recognize male parentage,
-tracing all their [genealogies](errata.htm#7) through the female side,
+tracing all their [genealogies](errata.htm#7.md) through the female side,
 it is not an unreasonable arrangement. Any man may not be able to swear
 that his wife's son is his own, but he can certainly swear that his
 sister's son is his nephew. Again, we must remember that the son may
@@ -181,4 +181,4 @@ professional carver, retained to carve for the members of the tribe.
 
 ------------------------------------------------------------------------
 
-[Next: Indian Baskets](ttb05)
+[Next: Indian Baskets](ttb05.md)

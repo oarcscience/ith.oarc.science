@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Next](gnfb01) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Next](gnfb01.md) 
 
 </div>
 
@@ -38,6 +38,6 @@ is dedicated
 
 ------------------------------------------------------------------------
 
-[Next: Contents](gnfb01)
+[Next: Contents](gnfb01.md)
 
 </div>

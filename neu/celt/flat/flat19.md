@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat18)  [Next](flat20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat18)  [Next](flat20.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ whisky with him on a pilgrimage.
 
 ------------------------------------------------------------------------
 
-[Next: Daniel O Rourke](flat20)
+[Next: Daniel O Rourke](flat20.md)

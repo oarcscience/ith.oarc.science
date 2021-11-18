@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Next](wos01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Next](wos01.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,7 +50,7 @@ attribution is left intact in all copies.
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="page_ii">p. ii</span>
@@ -87,4 +87,4 @@ THE AUTHOR.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](wos01)
+[Next: Preface](wos01.md)

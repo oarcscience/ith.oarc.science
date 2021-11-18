@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe327)  [Next](prwe329) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe327)  [Next](prwe329.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ interment of the body in the memory of tradition.' "
 
 ------------------------------------------------------------------------
 
-[Next: Cornish Dialogue](prwe329)
+[Next: Cornish Dialogue](prwe329.md)

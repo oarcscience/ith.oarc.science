@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl013)  [Next](cohl015) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl013)  [Next](cohl015.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Great Ruler has made and thereby made him angry.'
 "'Four words tell a great story of wrong and the Creator is sad because
 of the trouble they bring, so go and tell your people.'
 
-"'The first word is One'ga?. <span id="fr_23"></span>[1](#fn_23) It
+"'The first word is One'ga?. <span id="fr_23"></span>[1](#fn_23.md) It
 seems that you never have known that this word stands for a great and
 monstrous evil and has reared a high mound of bones.
 Ga?'nigoêntdo<sup>n</sup>'tha, you lose your minds and one'ga? causes it
@@ -34,17 +34,17 @@ for they drink it for other purposes than medicine and drink instead of
 work and idlers drink one'ga?. No, the Creator did not make it for you."
 
 So they said and he said. Enia:'iehûk! <span
-id="fr_24"></span>[2](#fn_24)
+id="fr_24"></span>[2](#fn_24.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_23"></span>[27:1](cohl014.htm#fr_23) Whiskey or Rum.
+<span id="fn_23"></span>[27:1](cohl014.htm#fr_23.md) Whiskey or Rum.
 
-<span id="fn_24"></span>[27:2](cohl014.htm#fr_24) Enia:'iehûk meaning,
+<span id="fn_24"></span>[27:2](cohl014.htm#fr_24.md) Enia:'iehûk meaning,
 It was that way.
 
 ------------------------------------------------------------------------
 
-[Next: Section 2](cohl015)
+[Next: Section 2](cohl015.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Utopia](../../utopia/index)  [Index](index)  [Previous](sym00) 
-[Next](sym02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Utopia](../../utopia/index)  [Index](index)  [Previous](sym00.md) 
+[Next](sym02.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Symzonia; Voyage of Discovery*, by Adam Seaborn (pseud. John Cleves
 Symmes?), \[1820\], at Intangible Textual Heritage
 
@@ -14,7 +14,7 @@ Symmes?), \[1820\], at Intangible Textual Heritage
 <span id="page_iii">p. iii</span> <span id="page_iv">p. iv</span>
 
 <span id="img_map"></span> ![Sectional View of the Earth Showing the
-Openings at the Poles](img/map.jpg)
+Openings at the Poles](img/map.jpg.md)
 
 ### SECTIONAL VIEW OF THE EARTH.
 
@@ -25,7 +25,7 @@ Openings at the Poles](img/map.jpg)
 <span id="page_v">p. v</span>
 
 <span id="img__00500"></span> ![EXPLANATION OF THE
-PLATE.](img/_00500.jpg)
+PLATE.](img/_00500.jpg.md)
 
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
@@ -49,4 +49,4 @@ PLATE.](img/_00500.jpg)
 
 ------------------------------------------------------------------------
 
-[Next: Advertisement](sym02)
+[Next: Advertisement](sym02.md)

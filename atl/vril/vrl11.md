@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](vrl10)  [Next](vrl12) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](vrl10)  [Next](vrl12.md) 
 
 ------------------------------------------------------------------------
 
@@ -236,4 +236,4 @@ history,--I shall have occasion to show later.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XIII](vrl12)
+[Next: CHAPTER XIII](vrl12.md)

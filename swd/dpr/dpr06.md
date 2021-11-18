@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](dpr05)  [Next](dpr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](dpr05)  [Next](dpr07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0877855056/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -290,7 +290,7 @@ this is also what the Lord said:
 
 If anyone looks on the woman of another to lust after her, he has
 already committed adultery with her in his heart (Mt 5:28). <span
-id="fr_0"></span>[111-1](#fn_0)
+id="fr_0"></span>[111-1](#fn_0.md)
 
 The same is true of all other evils.
 
@@ -1580,7 +1580,7 @@ not the other way about. So it is in all else.
 
 ### Footnotes
 
-<span id="fn_0"></span>[111-1](dpr06.htm#fr_0) The Greek is simply "on a
+<span id="fn_0"></span>[111-1](dpr06.htm#fr_0.md) The Greek is simply "on a
 woman" and does not have the word here rendered "of another." Though
 Swedenborg quotes the verse several times in his works he seems not to
 have checked as he usually did beyond the rendering of the Schmidius
@@ -1588,4 +1588,4 @@ Latin Bible which he used.
 
 ------------------------------------------------------------------------
 
-[Next: 151-200](dpr07)
+[Next: 151-200](dpr07.md)

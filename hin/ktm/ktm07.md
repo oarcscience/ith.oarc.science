@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hindusim](../index) 
-[Index](index)  [Previous](ktm06)  [Next](ktm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hindusim](../index.md) 
+[Index](index)  [Previous](ktm06)  [Next](ktm08.md) 
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ of souls is enough, you will find that it is more than the knowledge of
 the senses, faith will already be swallowed up in sight.
 
 But, oh Mother, what can I now do to ease this craving pain? I prayed
-for the vision of Râghunath <span id="fr_0"></span>[\*](#fn_0)
+for the vision of Râghunath <span id="fr_0"></span>[\*](#fn_0.md)
 
 <span id="page_102">p. 102</span>
 
@@ -108,7 +108,7 @@ hearts of two beat high, for the conquest born of renunciation.
 
 ### Footnotes
 
-<span id="fn_0"></span>[101:\*](ktm07.htm#fr_0) The vision of Râghunath
+<span id="fn_0"></span>[101:\*](ktm07.htm#fr_0.md) The vision of Râghunath
 is one of the eight perfections. It consists in feeling the sufferings
 of others as if they were our own. Many stories of the saints,
 especially those of the stigmata, give us special cases of it. It is
@@ -123,4 +123,4 @@ the pain of those we love.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Kali](ktm08)
+[Next: The Story of Kali](ktm08.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WERS/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WERS/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A7WERS/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](balt00)    [Text
-\[Zipped\]](balt.txt.gz)
+[Contents](#contents)    [Start Reading](balt00.md)    [Text
+\[Zipped\]](balt.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -48,6 +48,6 @@ The document is divided into three arbitrary files.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Part 1](balt00)  
-[Part 2](balt01)  
-[Part 3](balt02)  
+<span id="contents"></span> [Part 1](balt00.md)  
+[Part 2](balt01.md)  
+[Part 3](balt02.md)  

@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](rgq00)  [Next](rgq02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](rgq00)  [Next](rgq02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0674993365/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE787Q/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roman and Greek Questions*, by Plutarch, tr. Frank Cole Babbitt,
 \[1936\], at Intangible Textual Heritage
 
@@ -44,10 +44,10 @@ discussions of a similar sort contained in the *Symposiacs* (*Table
 Talk*), there is extant a discussion of *Physical Causes*, and the
 titles of other writings of the same sort have been preserved for us in
 Lamprias's list of Plutarch's writings. <span
-id="fr_0"></span>[a](#fn_0)
+id="fr_0"></span>[a](#fn_0.md)
 
 The Greek title, which means "causes", is twice mentioned by Plutarch
-himself in the *Lives*, <span id="fr_1"></span>[b](#fn_1) and we might
+himself in the *Lives*, <span id="fr_1"></span>[b](#fn_1.md) and we might
 call it "The Reasons Why." In nearly every case at least two and often
 more reasons are given; of these presumably not more than one can be
 right. Thus the other explanations will embody the results of Plutarch's
@@ -108,7 +108,7 @@ them must be set the unnumbered instances in which he is right. He did
 not, however, have to depend wholly on Latin writers, for he undoubtedly
 had at hand the *Roman Antiquities* of Dionysius of Halicarnassus (1st
 cent. <span class="smallcaps">B.C.</span>) and the works of Juba, <span
-id="fr_2"></span>[a](#fn_2) the scholarly king of Mauretania, who as a
+id="fr_2"></span>[a](#fn_2.md) the scholarly king of Mauretania, who as a
 youth had been brought to Rome in 46 <span class="smallcaps">B.C.</span>
 to grace the triumph of Julius Caesar. Juba became greatly interested in
 Roman
@@ -135,21 +135,21 @@ class="smallcaps">MS</span>. tradition (on which see J. B. Titchener,
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:a](rgq01.htm#fr_0) (149) Αἰτίαι τῶν
+<span id="fn_0"></span>[2:a](rgq01.htm#fr_0) (149.md) Αἰτίαι τῶν
 περιφερομένων Στωικῶν; (160) Αἰτίαι καὶ τόποι; (161) Αἰτίαι ἀλλαγῶν;
 (167) Αἰτίαι γυναικῶν.
 
-<span id="fn_1"></span>[2:b](rgq01.htm#fr_1) *Life of Romulus,* chap.
+<span id="fn_1"></span>[2:b](rgq01.htm#fr_1.md) *Life of Romulus,* chap.
 xv. (26 <span class="smallcaps">E</span>); *Life of Camillus*, chap.
 xix. (133 <span class="smallcaps">E</span>).
 
-<span id="fn_2"></span>[4:a](rgq01.htm#fr_2) Müller, *Frag. Hist. Gram.*
+<span id="fn_2"></span>[4:a](rgq01.htm#fr_2.md) Müller, *Frag. Hist. Gram.*
 iii. 465–484.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: 1-9.](rgq02)
+[Next: 1-9.](rgq02.md)
 
 </div>

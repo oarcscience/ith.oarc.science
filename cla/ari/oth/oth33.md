@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth32)  [Next](oth34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth32)  [Next](oth34.md) 
 
 ------------------------------------------------------------------------
 
@@ -92,4 +92,4 @@ not every body is divisible.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](oth34)
+[Next: Chapter 8](oth34.md)

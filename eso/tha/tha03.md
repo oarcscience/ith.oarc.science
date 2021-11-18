@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](tha02)  [Next](tha04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](tha02)  [Next](tha04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564599779/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ these conditions.
 
 <span id="case17">Case 17</span>. X.E., a girl eighteen years old. Her
 aura for her age was wide and spatulate, (page
-[162](tha08.htm#page_162)), showing a trace of the ultra-outer aura,
+[162](tha08.htm#page_162).md), showing a trace of the ultra-outer aura,
 which was more distinct by the lower limbs, thus making the shape to
 appear almost normal. This partial ultra-outer aura has only been seen a
 few times. The usual hysterical bulge was conspicuous at the back. The
@@ -225,4 +225,4 @@ spectrum be involved.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Inner Aura](tha04)
+[Next: Chapter III. The Inner Aura](tha04.md)

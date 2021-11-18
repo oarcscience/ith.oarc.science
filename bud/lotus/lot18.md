@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](lot17)  [Next](lot19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](lot17)  [Next](lot19.md) 
 
 ------------------------------------------------------------------------
 
@@ -462,4 +462,4 @@ interpretations.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 19](lot19)
+[Next: Chapter 19](lot19.md)

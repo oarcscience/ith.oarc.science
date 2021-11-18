@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](dos03)  [Next](dos05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](dos03)  [Next](dos05.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,10 +14,10 @@
 
 ### I. A Lotus of the Day
 
-BUT Anushayiní <span id="fr_29"></span>[a](#fn_29), when she disappeared
+BUT Anushayiní <span id="fr_29"></span>[a](#fn_29.md), when she disappeared
 in the forest, fell down to earth like a falling star, and entered the
 womb of the favourite wife of the King of Indirálaya <span
-id="fr_30"></span>[b](#fn_30), and was born after the manner of mortals
+id="fr_30"></span>[b](#fn_30.md), and was born after the manner of mortals
 as his daughter. And at that moment she lit up the birth chamber with
 the radiance diffused from her body, which put the lamps to shame. And
 the nurses and waiting women were astonished, for wonderful to say! the
@@ -41,7 +41,7 @@ last, the King, and his ministers, and his physicians and astrologers,
 drew a long breath, and looked at each other in amazement. And the
 prime-minister said: King, this is a wonderful thing. For these eyes are
 the eyes, not of a child, but of a sage <span
-id="fr_31"></span>[c](#fn_31), or rather, of a god. And surely this is
+id="fr_31"></span>[c](#fn_31.md), or rather, of a god. And surely this is
 no mere mortal maiden, but rather some deity, or portion of a deity,
 smitten by a curse, and doomed thereby to descend for a period into this
 lower world, to expiate awhile sins committed in a former birth. For
@@ -56,7 +56,7 @@ delighted. And he celebrated the birth of his daughter with
 extraordinary magnificence, and gave gold and villages to Brahmans and
 the poor. And taking counsel with his astrologers and Brahman sages
 skilled in names and their applications, he gave to his daughter the
-auspicious name of Shrí <span id="fr_32"></span>[d](#fn_32). For he
+auspicious name of Shrí <span id="fr_32"></span>[d](#fn_32.md). For he
 said: Her eyes are like lotuses, and like the pools in which they dwell:
 and surely they are the very echo of the eyes of the Goddess of Beauty
 when she rose from the sea, and lay in her blue lotus cradle, lapped by
@@ -73,16 +73,16 @@ her womanhood broke. And like the horns of the waxing moon,
 
 her limbs rounded and swelled into the very perfect orb of supreme
 loveliness, and she became as it were the very salt of the sea of
-beauty <span id="fr_33"></span>[e](#fn_33), inspiring in all who drank
+beauty <span id="fr_33"></span>[e](#fn_33.md), inspiring in all who drank
 of it insatiable thirst, and an intolerable craving for the water of the
 blue lakes of her eyes. And at last there came a day when the King her
 father looked at her, and said to himself: The fruit is ripe: and now it
 is time that it were plucked and eaten.
 
 So he went to the apartments of the women, to find her mother, his
-principal Queen, Madirekshaná <span id="fr_34"></span>[f](#fn_34). But
+principal Queen, Madirekshaná <span id="fr_34"></span>[f](#fn_34.md). But
 when she learned the object of his coming, the Queen said:
-*Aryaputra* <span id="fr_35"></span>[g](#fn_35), it is useless. For our
+*Aryaputra* <span id="fr_35"></span>[g](#fn_35.md), it is useless. For our
 daughter will not even listen to the word husband, much less undergo the
 thing. The King said: What is this? Should the cornfield refuse the
 plough, or a maiden refuse to be married? Is she not now of ripe age,
@@ -98,15 +98,15 @@ thing not to be thought of, even in a dream.
 So the King sent for his daughter, to question her himself.
 
 And after a while, Shrí came in, undulating as she moved like a
-swan <span id="fr_36"></span>[h](#fn_36), and swaying like a flower
+swan <span id="fr_36"></span>[h](#fn_36.md), and swaying like a flower
 waving in the wind: for her waist could be grasped by the fist, and her
 bosom was glorious, like the swell of an ocean wave. And like a child
-she smiled at her father <span id="fr_37"></span>[i](#fn_37) with parted
+she smiled at her father <span id="fr_37"></span>[i](#fn_37.md) with parted
 lips and half-shut eyes, casting before her through the net of their
 lashes the magical charm of the colour of a wet lotus: and her girdle
 jingled as if with joy, while the flashing jewels with which she was
 covered all over changed colour, as if with envy at being outshone by
-the play <span id="fr_38"></span>[k](#fn_38) of her eyes. And the old
+the play <span id="fr_38"></span>[k](#fn_38.md) of her eyes. And the old
 King looked at her with pride and wonder and delight: and he laughed to
 himself, and said: Wonderful is the cunning
 
@@ -123,7 +123,7 @@ for an unmarried daughter is a scandal in her father's house.
 
 Then said Shrí: Dear father, do not speak thus. Let me live and die a
 maiden, for I do not wish to be married <span
-id="fr_39"></span>[l](#fn_39). The King said: Daughter, what is this
+id="fr_39"></span>[l](#fn_39.md). The King said: Daughter, what is this
 that you are saying? Is not a husband the very object of your birth?
 Shrí said: Do not even dream of a husband for me. And there is a reason
 for this: for I am different from other maidens. And hearing this, the
@@ -133,9 +133,9 @@ himself: She speaks truth. Certainly
 <span id="page_27">p. 27</span>
 
 this daughter of mine, if she be mine <span
-id="fr_40"></span>[m](#fn_40), is not like other maidens. For who ever
+id="fr_40"></span>[m](#fn_40.md), is not like other maidens. For who ever
 saw her equal in beauty, or who ever heard of a maiden objecting to be
-married <span id="fr_41"></span>[n](#fn_41)? Or was my minister right,
+married <span id="fr_41"></span>[n](#fn_41.md)? Or was my minister right,
 and is she really some deity in disguise?
 
 So day after day he continued to urge her and argue with her. But at
@@ -153,7 +153,7 @@ said the King: And
 
 who, then, is that husband? Shrí said: I do not know. But he will come
 to claim me, from the Land of the Lotus of the Sun  <span
-id="fr_42"></span>[o](#fn_42). And where, said the King, is the Land of
+id="fr_42"></span>[o](#fn_42.md). And where, said the King, is the Land of
 the Lotus of the Sun? Shrí said: I cannot tell. But in a dream I saw a
 lotus fall from heaven, and I heard a divine voice saying to me: Do not
 hurry, but wait: for there shall come to you a husband, from the Land of
@@ -192,61 +192,61 @@ immediately, and told the criers the order of the King.
 
 ### Footnotes
 
-<span id="fn_29"></span>[21:a](dos04.htm#fr_29) That is, her soul, as
+<span id="fn_29"></span>[21:a](dos04.htm#fr_29.md) That is, her soul, as
 distinguished from her body: that part of her which, according to Plato
 and the Bhagwad-Gitá (more logical than modern theologians) *is never
 born* and *never dies*.
 
-<span id="fn_30"></span>[21:b](dos04.htm#fr_30) *The home of Shrí*, i.e.
+<span id="fn_30"></span>[21:b](dos04.htm#fr_30.md) *The home of Shrí*, i.e.
 a blue lotus, which is so called because the goddess Shrí appeared
 floating in one at the creation.
 
-<span id="fn_31"></span>[22:c](dos04.htm#fr_31) *shánta*: one who has
+<span id="fn_31"></span>[22:c](dos04.htm#fr_31.md) *shánta*: one who has
 quelled the passions and attained peace. Of such, Shiwa is the chief.
 But the minister drew his bow at a venture, and knew not how he hit the
 mark.
 
-<span id="fn_32"></span>[23:d](dos04.htm#fr_32) Hence the name of the
+<span id="fn_32"></span>[23:d](dos04.htm#fr_32.md) Hence the name of the
 city, above.
 
-<span id="fn_33"></span>[24:e](dos04.htm#fr_33) Beauty and salt, in the
+<span id="fn_33"></span>[24:e](dos04.htm#fr_33.md) Beauty and salt, in the
 original, are denoted by the same word.
 
-<span id="fn_34"></span>[24:f](dos04.htm#fr_34) That is, 'a woman with
+<span id="fn_34"></span>[24:f](dos04.htm#fr_34.md) That is, 'a woman with
 sweet seductive eyes.'
 
-<span id="fn_35"></span>[24:g](dos04.htm#fr_35) A pretty term employed
+<span id="fn_35"></span>[24:g](dos04.htm#fr_35.md) A pretty term employed
 by ladies in addressing their lords: 'son of an *arya*, a gentleman.' It
 has no English equivalent.
 
-<span id="fn_36"></span>[25:h](dos04.htm#fr_36) The old Hindoos had a
+<span id="fn_36"></span>[25:h](dos04.htm#fr_36.md) The old Hindoos had a
 special admiration and a special term (*hansagaminí*) for a woman who
 walked like a swan.
 
-<span id="fn_37"></span>[25:i](dos04.htm#fr_37) There is here an
+<span id="fn_37"></span>[25:i](dos04.htm#fr_37.md) There is here an
 untranslateable play on the word *kamalahása*, which means both *the
 opening of a lotus bud*, and an *irresistible smile*.
 
-<span id="fn_38"></span>[25:k](dos04.htm#fr_38) *wyatikara*, a word
+<span id="fn_38"></span>[25:k](dos04.htm#fr_38.md) *wyatikara*, a word
 expressive of the *varying* lustre or *wavering* coruscation of jewels,
 
-<span id="fn_39"></span>[26:l](dos04.htm#fr_39) cf. Callimachus:
+<span id="fn_39"></span>[26:l](dos04.htm#fr_39.md) cf. Callimachus:
 
 δός μοι παρθενίην αἰώνιον, ἄππα, φυλάσσειν.
 
-<span id="fn_40"></span>[27:m](dos04.htm#fr_40) This touch arises from
+<span id="fn_40"></span>[27:m](dos04.htm#fr_40.md) This touch arises from
 the beautiful word for a daughter, *átmajá*, i.e. *she that is born from
 yourself*.
 
-<span id="fn_41"></span>[27:n](dos04.htm#fr_41) A case, perhaps, not
+<span id="fn_41"></span>[27:n](dos04.htm#fr_41.md) A case, perhaps, not
 absolutely unknown in the west: though beauty, like a fortress, must
 always like to be flattered by a siege. But in the land of the Hindoos,
 marriage is like being born or dying, a matter of course, a thing
 necessary, inevitable, essential, *quod semper, quod ubique, quod ab
 omnibus*.
 
-<span id="fn_42"></span>[28:o](dos04.htm#fr_42) There is, in the
-[original](errata.htm#1) here, a nuance not susceptible of direct
+<span id="fn_42"></span>[28:o](dos04.htm#fr_42.md) There is, in the
+[original](errata.htm#1.md) here, a nuance not susceptible of direct
 translation. According to the Hindoos, lotuses are divided into those of
 the Day and Night, whose lovers are the Sun and Moon. The Lotus in
 question is a Sun-lotus '*between the Twilights*,' i.e., buried in
@@ -256,4 +256,4 @@ English, as it can in Sanskrit, by a single word.
 
 ------------------------------------------------------------------------
 
-[Next: II. By Beat of Drum](dos05)
+[Next: II. By Beat of Drum](dos05.md)

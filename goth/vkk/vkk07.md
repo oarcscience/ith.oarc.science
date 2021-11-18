@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](vkk06)  [Next](vkk08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](vkk06)  [Next](vkk08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Vampire, His Kith and Kin*, by Montague Summers, \[1928\], at
 Intangible Textual Heritage
 
@@ -3069,4 +3069,4 @@ an anti-climax completely ruined the play.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](vkk08)
+[Next: Bibliography](vkk08.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp17)  [Next](dtp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp17)  [Next](dtp19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -320,7 +320,7 @@ their time. They were indeed chary of their wisdom, then as now; but to
 Gwauxln and Mainin they imparted it without stint. They had no families
 then, nor do these students of God, of Nature, deviate now from the same
 celibate principles. None who hope to achieve their deep knowledge will
-mate. <span id="fr_7"></span>[1](#fn_7)
+mate. <span id="fr_7"></span>[1](#fn_7.md)
 
 After years had flown, so many that men had almost forgotten them,
 Gwauxln and Mainin did what few had ever been known to do--returned to
@@ -356,9 +356,9 @@ keenly than any one else could? I think not.
 
 ### Footnotes
 
-<span id="fn_7"></span>[137:1](dtp18.htm#fr_7) I, Cor. vii., 3, 4, 5, 7,
+<span id="fn_7"></span>[137:1](dtp18.htm#fr_7.md) I, Cor. vii., 3, 4, 5, 7,
 8, 9, 29, 31, 32.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV: A Maternal Desertion](dtp19)
+[Next: Chapter XV: A Maternal Desertion](dtp19.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb22)  [Next](brfb24) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb22)  [Next](brfb24.md) 
 
 </div>
 
@@ -562,6 +562,6 @@ happily in the castle on the Banka till they died.
 
 ------------------------------------------------------------------------
 
-[Next: The Prince and the Three Fates](brfb24)
+[Next: The Prince and the Three Fates](brfb24.md)
 
 </div>

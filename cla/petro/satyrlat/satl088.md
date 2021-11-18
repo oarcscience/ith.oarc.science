@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat12.htm#LXXXVIII) 
-[Previous](satl087)  [Next](satl089) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat12.htm#LXXXVIII.md) 
+[Previous](satl087)  [Next](satl089.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Apelles Phidiasque, Graeculi delirantes, fecerunt.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXIX](satl089)
+[Next: LXXXIX](satl089.md)

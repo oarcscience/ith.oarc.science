@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](sim16)  [Next](sim18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](sim16)  [Next](sim18.md) 
 
 ------------------------------------------------------------------------
 
@@ -445,4 +445,4 @@ morning, then, worn out, both died at the same time.
 
 ------------------------------------------------------------------------
 
-[Next: Gáqga´](sim18)
+[Next: Gáqga´](sim18.md)

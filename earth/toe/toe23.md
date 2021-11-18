@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe22)  [Next](toe24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe22)  [Next](toe24.md) 
 
 ------------------------------------------------------------------------
 
@@ -90,4 +90,4 @@ CHAP. XIV.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](toe24)
+[Next: Introduction](toe24.md)

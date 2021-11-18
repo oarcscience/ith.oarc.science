@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft39)  [Next](efft41) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft39)  [Next](efft41.md) 
 
 ------------------------------------------------------------------------
 
-# AINSEL  <span id="fr_46"></span>[1](#fn_46)
+# AINSEL  <span id="fr_46"></span>[1](#fn_46.md)
 
 <span id="img_09"></span> [![](tn/09.jpg)  
-Click to enlarge](img/09.jpg)  
+Click to enlarge](img/09.jpg.md)  
 "A BEAUTIFUL LITTLE FIGURE DESCENDED THE CHIMNEY."
 
 A WIDOW and her son, a little boy, lived together in a cottage in or
@@ -43,10 +43,10 @@ all this noise for; there's nyon (i.e. no one) to blame."
 
 ### Footnotes
 
-<span id="fn_46"></span>[1](efft40.htm#fr_46) T . Keightley, *The Fairy
+<span id="fn_46"></span>[1](efft40.htm#fr_46.md) T . Keightley, *The Fairy
 Mythology*, p. 313, quoting the M. A. Richardson *The Local Historian's
 Table Book*.
 
 ------------------------------------------------------------------------
 
-[Next: Legend of the Rollright Stones](efft41)
+[Next: Legend of the Rollright Stones](efft41.md)

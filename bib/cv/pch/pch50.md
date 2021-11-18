@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch49) 
-[Next](pch51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch49.md) 
+[Next](pch51.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -47,7 +47,7 @@ it, is a fact which I believe because it is
 well-attested—notwithstanding its remarkable improbability, which so far
 misled Juvenal as to induce him to single out the narrative as a glaring
 example of Grecian mendacity. <span
-id="fr_1189"></span>[1](#fn_1189)</span>
+id="fr_1189"></span>[1](#fn_1189.md)</span>
 
 </div>
 
@@ -62,7 +62,7 @@ any positive knowledge, either directly or by hearsay, is a very
 different thing from affirming credible facts which might reasonably,
 and according to the known habits of the people who relate the facts,
 have been handed down by tradition from the persons who witnessed them
-to those who related them." <span id="fr_1190"></span>[2](#fn_1190) To
+to those who related them." <span id="fr_1190"></span>[2](#fn_1190.md) To
 this very reasonable argument the answer is that it does not meet
 Grote's case; and that when we have assented to it the problem remains
 as before. In regard to many credible facts which *might* conceivably
@@ -98,7 +98,7 @@ constructed on a nucleus of reality, to which was added a mass of detail
 taken from sheer mythology, as myths were heaped upon the story of
 Cyrus. But in the latter case we have a means of discrimination; in the
 former we have none; and when we find the very name of Feridun to be a
-modification of an old God-name, <span id="fr_1191"></span>[1](#fn_1191)
+modification of an old God-name, <span id="fr_1191"></span>[1](#fn_1191.md)
 we have no right of historical belief left.
 
 For the rest, it is beside the case to argue that much accepted history
@@ -132,7 +132,7 @@ Endor, he observes that it does not "matter very much whether the story
 is historically true," but that "it is quite consistent with
 probability"; and then he adds: "*That is to say*, I see *no reason
 whatever to doubt*......that Saul made such a visit." <span
-id="fr_1192"></span>[1](#fn_1192) The leap here is clearly illicit.
+id="fr_1192"></span>[1](#fn_1192.md) The leap here is clearly illicit.
 There is certainly "reason to doubt" the whole story so long as it
 cannot be shown to have been reduced to writing near the time of Saul.
 "History" is full of discredited "probabilities" of the same kind: the
@@ -186,7 +186,7 @@ sometimes in the gospel he is so represented? Yet again, what
 plausibility remains in the cry on the cross, "Why hast thou forsaken
 me?" when we remember that it is a quotation from the Psalms, and that
 the whole cult proceeded on the doctrine that "the Christ must needs
-suffer"? <span id="fr_1193"></span>[1](#fn_1193)
+suffer"? <span id="fr_1193"></span>[1](#fn_1193.md)
 
 It may seem ungracious thus to press the argument against a professed
 theologian who has already come within sight of "the great surrender" to
@@ -199,19 +199,19 @@ men's, and the process may as well begin here and now.
 
 ### Footnotes
 
-<span id="fn_1189"></span>[231:1](pch50.htm#fr_1189) Grote, *History of
+<span id="fn_1189"></span>[231:1](pch50.htm#fr_1189.md) Grote, *History of
 Greece*, ch. xvi, ed. 1888, i, 382.
 
-<span id="fn_1190"></span>[231:2](pch50.htm#fr_1190) Sir A. C. Lyall,
+<span id="fn_1190"></span>[231:2](pch50.htm#fr_1190.md) Sir A. C. Lyall,
 *Asiatic Studies* (1st series), 2nd ed. 1884, p. 31.
 
-<span id="fn_1191"></span>[232:1](pch50.htm#fr_1191) Cp. Max Müller,
+<span id="fn_1191"></span>[232:1](pch50.htm#fr_1191.md) Cp. Max Müller,
 *Biographical Essays*, 1884, pp. 287-8.
 
-<span id="fn_1192"></span>[233:1](pch50.htm#fr_1192) *Essays*, iv. pp.
+<span id="fn_1192"></span>[233:1](pch50.htm#fr_1192.md) *Essays*, iv. pp.
 291-2 (essay on "The Evolution of Theology").
 
-<span id="fn_1193"></span>[234:1](pch50.htm#fr_1193) Professor
+<span id="fn_1193"></span>[234:1](pch50.htm#fr_1193.md) Professor
 Schmiedel, in his preface to Dr. Neumann's *Jesus* (1907), objects that
 I have here dealt with only one of his nine "pillar" texts. In response,
 I have dealt with the whole nine in the Appendix to the second edition
@@ -219,4 +219,4 @@ of *Christianity and Mythology* (1910).
 
 ------------------------------------------------------------------------
 
-[Next: § 6. Collapse of the Constructive Case](pch51)
+[Next: § 6. Collapse of the Constructive Case](pch51.md)

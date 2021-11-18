@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](dth12) 
-[Next](dth14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](dth12.md) 
+[Next](dth14.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ knowledge by which you can develop your success with mathematical
 exactitude. All you have to do is to put the Law into action and to
 advance step by step. Begin with small things; when you have conquered
 in small things you can pass to greater, and from greater things to
-[boundless](errata.htm#24) power.
+[boundless](errata.htm#24.md) power.
 
 Do not expect the maximum of success at once. If you get only partial
 success at first, be satisfied, knowing that you will keep on improving.
@@ -197,7 +197,7 @@ the field, who gets the business and makes a fortune. Therefore be
 original, do not copy other people. Do not be a feeble reflection of
 someone else; be yourself. Remember that there is something you can do
 better than anyone else, that no one can do it as well as you, or in
-precisely the same way--in other words you [have](errata.htm#25)
+precisely the same way--in other words you [have](errata.htm#25.md)
 personality. Therefore, develop your personality; let all your work be
 distinctive; make it different from that of your competitors. Let your
 personality be written all over your business; let there be a personal
@@ -415,4 +415,4 @@ joys of overcoming.
 
 ------------------------------------------------------------------------
 
-[Next: The Advanced Postgraduate Lesson](dth14)
+[Next: The Advanced Postgraduate Lesson](dth14.md)

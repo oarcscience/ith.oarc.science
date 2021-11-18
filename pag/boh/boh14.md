@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](boh13)  [Next](boh15) 
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](boh13)  [Next](boh15.md) 
 
 ------------------------------------------------------------------------
 
@@ -330,4 +330,4 @@ witch and hurt you."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII: Walpurgis Night](boh15)
+[Next: Chapter XIII: Walpurgis Night](boh15.md)

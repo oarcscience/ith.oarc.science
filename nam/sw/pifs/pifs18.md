@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs17)  [Next](pifs19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs17)  [Next](pifs19.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ Time passing so, the Old-Woman-Coyote came out of the house to bring a
 jar of water. But when she saw the Burro lying there, she dropped her
 *tinaja*, and ran in crying:
 
-"*Hloo-hli*! <span id="fr_60"></span>[1](#fn_60) come out and see! For a
+"*Hloo-hli*! <span id="fr_60"></span>[1](#fn_60.md) come out and see! For a
 *buffalo* has died out here, and we must take in some meat."
 
 So Old-Man-Coyote came out, and was very glad, and began to sharpen his
@@ -99,8 +99,8 @@ cheese.
 
 ### Footnotes
 
-<span id="fn_60"></span>[105:1](pifs18.htm#fr_60) Old Man.
+<span id="fn_60"></span>[105:1](pifs18.htm#fr_60.md) Old Man.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. The Feathered Barbers](pifs19)
+[Next: XVI. The Feathered Barbers](pifs19.md)

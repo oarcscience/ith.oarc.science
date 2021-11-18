@@ -1,6 +1,6 @@
 <span id="top"></span>
 
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-001a) [Next](dob-001c)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Previous](dob-001a) [Next](dob-001c.md)
 
 ------------------------------------------------------------------------
 
@@ -154,4 +154,4 @@ the Sacred Books of the Buddhists
 
 ------------------------------------------------------------------------
 
-[Return to top](#top)   [Next: Preface](dob-001c)
+[Return to top](#top)   [Next: Preface](dob-001c.md)

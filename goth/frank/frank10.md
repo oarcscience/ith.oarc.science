@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](frank09)  [Next](frank11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](frank09)  [Next](frank11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EEP3FC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Frankenstein, or The Modern Prometheus*, by Mary Wollstonecraft Shelly,
 \[1818\], at Intangible Textual Heritage
 
@@ -102,7 +102,7 @@ Doth walk in fear and dread,
 And, having once turned round, walks on,  
 And turns no more his head;  
 Because he knows a frightful fiend  
-Doth close behind him tread." [\*](#note)
+Doth close behind him tread." [\*](#note.md)
 
 Continuing thus, I came at length opposite to the inn at which the
 various diligences and carriages usually stopped. Here I paused, I knew
@@ -247,4 +247,4 @@ cousin, I believe."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6](frank11)
+[Next: Chapter 6](frank11.md)

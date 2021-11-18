@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (Latin)](../satyrlat/index) 
-[Index](index)  [Next](sat01) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (Latin)](../satyrlat/index.md) 
+[Index](index)  [Next](sat01.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sat01)
+[Next: Introduction](sat01.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](rag20)  [Next](rag22) 
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](rag20)  [Next](rag22.md) 
 
 ------------------------------------------------------------------------
 
@@ -493,4 +493,4 @@ cave.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Legends Of The Age Of Darkness](rag22)
+[Next: Chapter VIII. Legends Of The Age Of Darkness](rag22.md)

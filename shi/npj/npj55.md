@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj54) 
-[Next](npj56) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj54.md) 
+[Next](npj56.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ Ryōjin Hisshō: Folk-songs collected in 12th century and rediscovered in
 
 ------------------------------------------------------------------------
 
-[Next: Appendix I](npj56)
+[Next: Appendix I](npj56.md)

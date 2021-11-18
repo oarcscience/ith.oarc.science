@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe020)  [Next](prwe022) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe020)  [Next](prwe022.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ open chasm as we now see it.
 
 ------------------------------------------------------------------------
 
-[Next: Ordulph the Giant](prwe022)
+[Next: Ordulph the Giant](prwe022.md)

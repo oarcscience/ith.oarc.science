@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf19)  [Next](fmf21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf19)  [Next](fmf21.md) 
 
 ------------------------------------------------------------------------
 
@@ -73,4 +73,4 @@ MORAL: Usually the Woman is to Blame.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Good Fairy of the Eighth Ward and the Dollar
-Excursion of the Steam-Fitters](fmf21)
+Excursion of the Steam-Fitters](fmf21.md)

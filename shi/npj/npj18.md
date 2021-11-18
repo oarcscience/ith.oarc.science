@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj17) 
-[Next](npj19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj17.md) 
+[Next](npj19.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,19 +31,19 @@ wandered about in destitution, a tattered, crazy beggar-woman.
 As is shown in this play, her madness was a "possession" by the spirit
 of the lover whom she had tormented. She was released from this
 "possession" by the virtue of a sacred Stūpa <span
-id="fr_87"></span>[1](#fn_85) or log carved into five parts, symbolic of
+id="fr_87"></span>[1](#fn_85.md) or log carved into five parts, symbolic of
 the Five Elements, on which she sat down to rest.
 
 In the disputation between Komachi and the priests, she upholds the
 doctrines of the Zen Sect, which uses neither scriptures nor idols; the
 priests defend the doctrines of the Shingon Sect, which promises
 salvation by the use of incantations and the worship of holy
-images. <span id="fr_88"></span>[2](#fn_86)
+images. <span id="fr_88"></span>[2](#fn_86.md)
 
 There is no doubt about the authorship of this play. Seami (*Works*, p.
 246) gives it as the work of his father, Kwanami Kiyotsugu. Kwanami
 wrote another play, *Shii no Shōshō*, <span
-id="fr_89"></span>[3](#fn_87) in which Shōshō is the principal character
+id="fr_89"></span>[3](#fn_87.md) in which Shōshō is the principal character
 and Komachi the *tsure* or subordinate.
 
 Seami also used the Komachi legend. In his *Sekidera Komachi* he tells
@@ -55,15 +55,15 @@ splendours of her youth for a moment becomes young again.
 
 ### Footnotes
 
-<span id="fn_85"></span>[113:1](npj18.htm#fr_87) Sanskrit; Jap.
+<span id="fn_85"></span>[113:1](npj18.htm#fr_87.md) Sanskrit; Jap.
 *sotoba*.
 
-<span id="fn_86"></span>[113:2](npj18.htm#fr_88) See [p.
-32](npj06.htm#page_32).
+<span id="fn_86"></span>[113:2](npj18.htm#fr_88.md) See [p.
+32](npj06.htm#page_32.md).
 
-<span id="fn_87"></span>[113:3](npj18.htm#fr_89) Now generally called
+<span id="fn_87"></span>[113:3](npj18.htm#fr_89.md) Now generally called
 *Kayoi Komachi*.
 
 ------------------------------------------------------------------------
 
-[Next: Sotoba Komachi](npj19)
+[Next: Sotoba Komachi](npj19.md)

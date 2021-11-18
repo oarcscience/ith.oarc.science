@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Paganism](../index) 
-[Index](index)  [Previous](ppr28)  [Next](ppr30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Paganism](../index.md) 
+[Index](index)  [Previous](ppr28)  [Next](ppr30.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,4 +68,4 @@ I, O Woman!--sleep!"
 
 ------------------------------------------------------------------------
 
-[Next: Hymn To Cihua-coatl (Mexican)](ppr30)
+[Next: Hymn To Cihua-coatl (Mexican)](ppr30.md)

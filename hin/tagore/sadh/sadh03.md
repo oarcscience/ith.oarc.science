@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[Tagore](../index)  [Index](index)  [Previous](sadh02)  [Next](sadh04) 
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[Tagore](../index)  [Index](index)  [Previous](sadh02)  [Next](sadh04.md) 
 
 ------------------------------------------------------------------------
 
@@ -277,7 +277,7 @@ desires, and having experienced him in all the activities of the world,
 had attained calmness. The rishis were they who having reached the
 supreme God from all sides had found abiding peace, had become united
 with all, had entered into the life of the Universe.*  <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 Thus the state of realising our relationship with all, of entering into
 everything through union with God, was considered in India to be the
@@ -298,8 +298,8 @@ pushing and jostling all others, to achieve a distinction by which he
 prides himself to be more than everybody else, there he is alienated
 from that Spirit. This is why the Upanishads describe those who have
 attained the goal of human life as "*peaceful*"  <span
-id="fr_1"></span>[2](#fn_1) and as "*at-one-with- God*,"  <span
-id="fr_2"></span>[3](#fn_2) meaning that they are in perfect harmony
+id="fr_1"></span>[2](#fn_1.md) and as "*at-one-with- God*,"  <span
+id="fr_2"></span>[3](#fn_2.md) meaning that they are in perfect harmony
 with man and nature, and therefore in undisturbed union with God.
 
 We have a glimpse of the same truth in the teachings of Jesus when he
@@ -328,11 +328,11 @@ Instead, it is the practice of realising and affirming the presence of
 the infinite in all things which has been its constant inspiration.
 
 We are enjoined to see *whatever there is in the world as being
-enveloped by God.*  <span id="fr_3"></span>[4](#fn_3)
+enveloped by God.*  <span id="fr_3"></span>[4](#fn_3.md)
 
 *I bow to God over and over again who is in fire and in water, who
 permeates the whole world, who is in the annual crops as well as in the
-perennial trees.*  <span id="fr_4"></span>[5](#fn_4)
+perennial trees.*  <span id="fr_4"></span>[5](#fn_4.md)
 
 Can this be God abstracted from the world? Instead, it signifies not
 merely seeing him in all things, but saluting him in all the objects of
@@ -345,7 +345,7 @@ recognised in the outburst of the Rishi, who addresses the whole world
 in a sudden ecstasy of joy: *Listen to me, ye sons of the immortal
 spirit, ye who live in the heavenly abode, I have known the Supreme
 Person whose light shines forth from beyond the darkness.*  <span
-id="fr_5"></span>[6](#fn_5) Do we not find the overwhelming delight of a
+id="fr_5"></span>[6](#fn_5.md) Do we not find the overwhelming delight of a
 direct and positive experience where there is not the least trace of
 vagueness or passivity?
 
@@ -360,14 +360,14 @@ spirit of Brahma.*
 
 What is that spirit? The Upanishad says, *The being who is in his
 essence the light and life of all, who is world-conscious, is Brahma.*
- <span id="fr_6"></span>[7](#fn_6) To feel all, to be conscious of
+ <span id="fr_6"></span>[7](#fn_6.md) To feel all, to be conscious of
 everything, is his spirit. We are immersed in his consciousness body and
 soul. It is through his consciousness that the sun attracts the earth;
 it is through his consciousness that the light-waves are being
 transmitted from planet to planet.
 
 Not only in space, but *this light and life, this all-feeling being is
-in our souls.*  <span id="fr_7"></span>[8](#fn_7) He is all-conscious in
+in our souls.*  <span id="fr_7"></span>[8](#fn_7.md) He is all-conscious in
 space, or the world of extension; and he is all-conscious in soul, or
 the world of intension.
 
@@ -384,8 +384,8 @@ We have, however, to pay a price for this attainment of the freedom of
 consciousness. What is the price? It is to give one's self away. Our
 soul can realise itself truly only by denying itself. The Upanishad
 says, *Thou shalt gain by giving away*  <span
-id="fr_8"></span>[9](#fn_8) , *Thou shalt not covet.*  <span
-id="fr_9"></span>[10](#fn_9)
+id="fr_8"></span>[9](#fn_8.md) , *Thou shalt not covet.*  <span
+id="fr_9"></span>[10](#fn_9.md)
 
 In Gita we are advised to work disinterestedly, abandoning all lust for
 the result. Many outsiders conclude from this teaching that the
@@ -405,8 +405,8 @@ humanity.
 The Infinite in India was not a thin nonentity, void of all content. The
 Rishis of India asserted emphatically, "To know him in this life is to
 be true; not to know him in this life is the desolation of death."
- <span id="fr_10"></span>[11](#fn_10) How to know him then? "By
-realising him in each and all."  <span id="fr_11"></span>[12](#fn_11)
+ <span id="fr_10"></span>[11](#fn_10.md) How to know him then? "By
+realising him in each and all."  <span id="fr_11"></span>[12](#fn_11.md)
 Not only in nature but in the family, in society, and in the state, the
 more we realise the World- conscious in all, the better for us. Failing
 to realise it, we turn our faces to destruction.
@@ -428,91 +428,91 @@ manifests itself in our inner being as consciousness; and there is no
 break in unity. For these seers there was no gap in their luminous
 vision of perfection. They never acknowledged even death itself as
 creating a chasm in the field of reality. They said, *His reflection is
-death as well as immortality.*  <span id="fr_12"></span>[13](#fn_12)
+death as well as immortality.*  <span id="fr_12"></span>[13](#fn_12.md)
 They did not recognise any essential opposition between life and death,
 and they said with absolute assurance, "It is life that is death."
- <span id="fr_13"></span>[14](#fn_13) They saluted with the same
+ <span id="fr_13"></span>[14](#fn_13.md) They saluted with the same
 serenity of gladness "life in its aspect of appearing and in its aspect
 of departure"-- *That which is past is hidden in life, and that which is
-to come.*  <span id="fr_14"></span>[15](#fn_14) They knew that mere
+to come.*  <span id="fr_14"></span>[15](#fn_14.md) They knew that mere
 appearance and disappearance are on the surface like waves on the sea,
 but life which is permanent knows no decay or diminution.
 
 *Everything has sprung from immortal life and is vibrating with life*,
- <span id="fr_15"></span>[16](#fn_15) *for life is immense.*  <span
-id="fr_16"></span>[17](#fn_16)
+ <span id="fr_15"></span>[16](#fn_15.md) *for life is immense.*  <span
+id="fr_16"></span>[17](#fn_16.md)
 
 This is the noble heritage from our forefathers waiting to be claimed by
 us as our own, this ideal of the supreme freedom of consciousness. It is
 not merely intellectual or emotional, it has an ethical basis, and it
 must be translated into action. In the Upanishad it is said, *The
 supreme being is all-pervading, therefore he is the innate good in all.*
- <span id="fr_17"></span>[18](#fn_17) To be truly united in knowledge,
+ <span id="fr_17"></span>[18](#fn_17.md) To be truly united in knowledge,
 love, and service with all beings, and thus to realise one's self in the
 all-pervading God is the essence of goodness, and this is the keynote of
 the teachings of the Upanishads: *Life is immense!*  <span
-id="fr_18"></span>[19](#fn_18)
+id="fr_18"></span>[19](#fn_18.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](sadh03.htm#fr_0)
+<span id="fn_0"></span>[1](sadh03.htm#fr_0.md)
 
 Samprāpyainam rishayo jñānatripatāh  
 Kritātmānō vītarāgāh praçantāh  
 tē sarvagam sarvatah prāpya dhīrāh  
 Yuktātmānah sarvamēvāviçanti.  
 
-<span id="fn_1"></span>[2](sadh03.htm#fr_1) Praçantāh
+<span id="fn_1"></span>[2](sadh03.htm#fr_1.md) Praçantāh
 
-<span id="fn_2"></span>[3](sadh03.htm#fr_2) Yuktātmānah
+<span id="fn_2"></span>[3](sadh03.htm#fr_2.md) Yuktātmānah
 
-<span id="fn_3"></span>[4](sadh03.htm#fr_3) Içāvāsyamidam sarvam yat
+<span id="fn_3"></span>[4](sadh03.htm#fr_3.md) Içāvāsyamidam sarvam yat
 kiñcha jagatyāñ jagat.
 
-<span id="fn_4"></span>[5](sadh03.htm#fr_4) Yo dēvō'gnau y'ōpsu y'ō
+<span id="fn_4"></span>[5](sadh03.htm#fr_4.md) Yo dēvō'gnau y'ōpsu y'ō
 viçvambhuvanamāvivēça ya ōshadhishu yō vanaspatishu tasmai dēvāya
 namōnamah.
 
-<span id="fn_5"></span>[6](sadh03.htm#fr_5) Çrinvantu viçve amritasya
+<span id="fn_5"></span>[6](sadh03.htm#fr_5.md) Çrinvantu viçve amritasya
 putrā ā ye divya dhāmāni tasthuh vedāhametam purusham mahāntam āditya
 varņam tamasah parastāt.
 
-<span id="fn_6"></span>[7](sadh03.htm#fr_6) Yaçchāyamasminnākāçē
+<span id="fn_6"></span>[7](sadh03.htm#fr_6.md) Yaçchāyamasminnākāçē
 tējōmayō'mritamayah purushah sarvānubhūh.
 
-<span id="fn_7"></span>[8](sadh03.htm#fr_7) Yaçchāyamasminnātmani
+<span id="fn_7"></span>[8](sadh03.htm#fr_7.md) Yaçchāyamasminnātmani
 tējōmayō'mritamayah purushah sarvānubhūh.
 
-<span id="fn_8"></span>[9](sadh03.htm#fr_8) Tyaktēna bhuñjīthāh
+<span id="fn_8"></span>[9](sadh03.htm#fr_8.md) Tyaktēna bhuñjīthāh
 
-<span id="fn_9"></span>[10](sadh03.htm#fr_9) Mā gridhah
+<span id="fn_9"></span>[10](sadh03.htm#fr_9.md) Mā gridhah
 
-<span id="fn_10"></span>[11](sadh03.htm#fr_10) Iha chēt avēdit atha
+<span id="fn_10"></span>[11](sadh03.htm#fr_10.md) Iha chēt avēdit atha
 satyamasti, nachēt iha avēdit mahatī vinashtih.
 
-<span id="fn_11"></span>[12](sadh03.htm#fr_11) Bhūtēshu bhūtēshu
+<span id="fn_11"></span>[12](sadh03.htm#fr_11.md) Bhūtēshu bhūtēshu
 vichintva.
 
-<span id="fn_12"></span>[13](sadh03.htm#fr_12) Yasya chhāyāmritam yasya
+<span id="fn_12"></span>[13](sadh03.htm#fr_12.md) Yasya chhāyāmritam yasya
 mrityuh.
 
-<span id="fn_13"></span>[14](sadh03.htm#fr_13) Prāno mrityuh.
+<span id="fn_13"></span>[14](sadh03.htm#fr_13.md) Prāno mrityuh.
 
-<span id="fn_14"></span>[15](sadh03.htm#fr_14) Namō astu āyatē namō astu
+<span id="fn_14"></span>[15](sadh03.htm#fr_14.md) Namō astu āyatē namō astu
 parāyatē. Prānē ha bhūtam bhavyañcha.
 
-<span id="fn_15"></span>[16](sadh03.htm#fr_15) Yadidan kiñcha praņa
+<span id="fn_15"></span>[16](sadh03.htm#fr_15.md) Yadidan kiñcha praņa
 ejati nihsritam.
 
-<span id="fn_16"></span>[17](sadh03.htm#fr_16) Prāno virāt.
+<span id="fn_16"></span>[17](sadh03.htm#fr_16.md) Prāno virāt.
 
-<span id="fn_17"></span>[18](sadh03.htm#fr_17) Sarvavyāpī sa bhagavān
+<span id="fn_17"></span>[18](sadh03.htm#fr_17.md) Sarvavyāpī sa bhagavān
 tasmāt sarvagatah çivah.
 
-<span id="fn_18"></span>[19](sadh03.htm#fr_18) Prāņo virāt.
+<span id="fn_18"></span>[19](sadh03.htm#fr_18.md) Prāņo virāt.
 
 ------------------------------------------------------------------------
 
-[Next: II: Soul Consciousness](sadh04)
+[Next: II: Soul Consciousness](sadh04.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](shib10)  [Next](shib12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](shib10)  [Next](shib12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766158284/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shibboleth: A Templar Monitor*, by George Cooper Connor, \[1894\], at
 Intangible Textual Heritage
 
@@ -186,8 +186,8 @@ These Cuts also illustrate "Over an Arch of Steel" (Cut Three) and
 #### "SALUTE" AND "PRESENT."
 
 <span id="img_03201"></span> ![OFFICER'S SALUTE, MEMBER'S
-PRESENT](img/03201.jpg)
+PRESENT](img/03201.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: History of the Order of the Temple](shib12)
+[Next: History of the Order of the Temple](shib12.md)

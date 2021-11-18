@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt15)  [Next](trt17) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt15)  [Next](trt17.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ down at his feet, and all night long he and the lion slept together.
 
 ------------------------------------------------------------------------
 
-[Next: VI: An Adventure of Sir Lancelot](trt17)
+[Next: VI: An Adventure of Sir Lancelot](trt17.md)

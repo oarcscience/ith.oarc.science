@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](pps04)  [Next](pps06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](pps04)  [Next](pps06.md) 
 
 ------------------------------------------------------------------------
 
@@ -549,4 +549,4 @@ that nation should then perish. 1
 
 ------------------------------------------------------------------------
 
-[Next: 251-300](pps06)
+[Next: 251-300](pps06.md)

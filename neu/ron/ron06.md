@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron05)  [Next](ron07) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron05)  [Next](ron07.md) 
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ ACT III. A WOODED REGION ON THE RHINE. GUNTHER'S HALL
 
 ------------------------------------------------------------------------
 
-[Next: Prelude](ron07)
+[Next: Prelude](ron07.md)

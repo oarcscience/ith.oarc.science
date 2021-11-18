@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes25)  [Next](nes27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes25)  [Next](nes27.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                      |
 |----------------------|
-| ![C](img/qcinit.jpg) |
+| ![C](img/qcinit.jpg.md) |
 
 OUNTINGS-OUT" form a curious item of folklore and seem to be common
 among different nations in a variety of forms. The following have been
@@ -359,4 +359,4 @@ Eerie, aarie, ye're oot."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXIV. Washing Day](nes27)
+[Next: Chapter XXIV. Washing Day](nes27.md)

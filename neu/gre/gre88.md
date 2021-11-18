@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre87)  [Next](gre89) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre87)  [Next](gre89.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ So in the evening at dusk they came to Drangey.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter LXXXIV: The Slaying of Grettir Asmundson](gre89)
+[Next: Chapter LXXXIV: The Slaying of Grettir Asmundson](gre89.md)

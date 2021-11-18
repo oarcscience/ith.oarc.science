@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb37)  [Next](yefb39) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb37)  [Next](yefb39.md) 
 
 </div>
 
@@ -518,6 +518,6 @@ own home.
 
 ------------------------------------------------------------------------
 
-[Next: Prince Ring](yefb39)
+[Next: Prince Ring](yefb39.md)
 
 </div>

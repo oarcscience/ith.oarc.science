@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat08.htm#XLVIII) 
-[Previous](satl047)  [Next](satl049) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat08.htm#XLVIII.md) 
+[Previous](satl047)  [Next](satl049.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ oculis meis vidi in ampulla pendere, et cum illi pueri dicerent:
 
 ------------------------------------------------------------------------
 
-[Next: XLIX](satl049)
+[Next: XLIX](satl049.md)

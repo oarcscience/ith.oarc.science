@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl130)  [Next](cohl132) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl130)  [Next](cohl132.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,4 +12,4 @@ and there fell our head man."
 
 ------------------------------------------------------------------------
 
-[Next: Section 121](cohl132)
+[Next: Section 121](cohl132.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktcupa)  [Next](pktcu09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktcupa)  [Next](pktcu09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 #### Ten
 
 <span id="img_cu10"></span> <span align="CENTER"> [![](tn/cu10.jpg)  
-Click to enlarge](img/cu10.jpg)</span>
+Click to enlarge](img/cu10.jpg.md)</span>
 
 Appearance of Cups in a rainbow; it is contemplated in wonder and
 ecstacy by a man and woman below, evidently husband and wife. His right
@@ -35,4 +35,4 @@ interests; also the town, village or country inhabited by the Querent.
 
 ------------------------------------------------------------------------
 
-[Next: Nine of Cups](pktcu09)
+[Next: Nine of Cups](pktcu09.md)

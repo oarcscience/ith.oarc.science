@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](wta07)  [Next](wta09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](wta07)  [Next](wta09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540761/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540761/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *With the Adepts, An Adventure Among the Rosicrucians*, by Franz
 Hartmann \[1910\], at Intangible Textual Heritage
 
@@ -106,7 +106,7 @@ with material substances, such as salt, sulphur, mercury, &c."
 separating the various kingdoms in nature, and the actions of laws
 manifested in one kingdom find their analogies in other kingdoms. The
 processes taking place in the spiritual planes are also taking place
-[in](errata.htm#0) the astral and material planes, subject, of course,
+[in](errata.htm#0.md) the astral and material planes, subject, of course,
 to such modifications as are imposed by the conditions existing upon
 these planes. Nature is not, as your scientists seem to believe, an
 agglomeration of fundamentally different objects and elements; nature is
@@ -795,6 +795,6 @@ affirmative answer would be as irrational as unscientific."
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Higher Life](wta09)
+[Next: VII. The Higher Life](wta09.md)
 
 </div>

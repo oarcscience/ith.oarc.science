@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws62)  [Next](cws64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws62)  [Next](cws64.md) 
 
 ------------------------------------------------------------------------
 
 ### No. VII
 
-#### ALPHA, OR "IN THE BEGINNING" <span id="fr_203"></span>[1](cws64.htm#fn_203)
+#### ALPHA, OR "IN THE BEGINNING" <span id="fr_203"></span>[1](cws64.htm#fn_203.md)
 
 IN the beginning, the potentialities of all things were in Elohim.
 
@@ -36,4 +36,4 @@ face of it.
 
 ------------------------------------------------------------------------
 
-[Next: No. VIII: Beta, Or Adonai, The Manifestor](cws64)
+[Next: No. VIII: Beta, Or Adonai, The Manifestor](cws64.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt03)  [Next](crt05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt03)  [Next](crt05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,13 +33,13 @@ to man's need to lift himself above the commonplace and the everyday, to
 escape from the leaden weight of monotony that oppresses him. “We tend
 to tire of the most eternal splendours, and a mark on our calendar, or a
 crash of bells at midnight maybe, reminds us that we have only recently
-been created.”﻿ [1](crt24.htm#Footnote_1)<span
-id="FNanchor_1"></span>﻿ [1-1](crt22.htm#Note_1-1)<span
+been created.”﻿ [1](crt24.htm#Footnote_1.md)<span
+id="FNanchor_1"></span>﻿ [1-1](crt22.htm#Note_1-1.md)<span
 id="Nanchor_1-1"></span> That they wake people up is the great
 justification of festivals, and both man's religious sense and his joy
 in life have generally tended to rise “into peaks and towers and
 turrets, into superhuman exceptions which really prove the
-rule.”﻿ [1-2](crt22.htm#Note_1-2)<span id="Nanchor_1-2"></span> It is
+rule.”﻿ [1-2](crt22.htm#Note_1-2.md)<span id="Nanchor_1-2"></span> It is
 difficult to be religious, impossible to be merry, at every moment of
 life, and festivals are as sunlit peaks, testifying, above dark valleys,
 to the eternal radiance. This is one view of the purpose and value of
@@ -55,7 +55,7 @@ ordinary days.
 
 The first holy-day-makers were probably more concerned with such
 material goods as food than with spiritual ideals, when they marked with
-sacred days the rhythm of the seasons.﻿ [1-3](crt22.htm#Note_1-3)<span
+sacred days the rhythm of the seasons.﻿ [1-3](crt22.htm#Note_1-3.md)<span
 id="Nanchor_1-3"></span> As man's consciousness developed, the
 subjective aspect of the matter would come increasingly into prominence,
 until in the festivals of the Christian Church the main object is to
@@ -108,7 +108,7 @@ and has not been thoroughly explored as yet, but the labours of
 historians and folk-lorists have made certain conclusions probable, and
 have produced hypotheses of great interest and fascination.
 
-I have spoken of “Christian”﻿ [2](crt24.htm#Footnote_2)<span
+I have spoken of “Christian”﻿ [2](crt24.htm#Footnote_2.md)<span
 id="FNanchor_2"></span> and “pagan” elements. The distinction is blurred
 to some extent by the clothing of heathen customs in a superficial
 Christianity, but on the whole it is clear enough to justify the
@@ -129,11 +129,11 @@ what they suggest.
 
 I. The English *Christmas* and its Dutch equivalent *Kerstmisse*,
 plainly point to the ecclesiastical side of the festival; the German
-*Weihnacht*﻿ [1-4](crt22.htm#Note_1-4)<span id="Nanchor_1-4"></span>
+*Weihnacht*﻿ [1-4](crt22.htm#Note_1-4.md)<span id="Nanchor_1-4"></span>
 (sacred night) is vaguer, and might well be either pagan or Christian;
 in point of fact it seems to be Christian, since it does not appear till
 the year 1000, when the Faith was well established in
-Germany.﻿ [1-5](crt22.htm#Note_1-5)<span id="Nanchor_1-5"></span>
+Germany.﻿ [1-5](crt22.htm#Note_1-5.md)<span id="Nanchor_1-5"></span>
 *Christmas* and *Weihnacht*, then, may stand for the distinctively
 Christian festival, the history of which we may now briefly study.
 
@@ -143,14 +143,14 @@ earliest celebration of the Birth of Christ on December 25 took place at
 Rome about the middle of the fourth century, and that the observance of
 the day spread from the western to the eastern Church, which had before
 been wont to keep January 6 as a joint commemoration of the Nativity and
-the Baptism of the Redeemer.﻿ [3](crt24.htm#Footnote_3)<span
+the Baptism of the Redeemer.﻿ [3](crt24.htm#Footnote_3.md)<span
 id="FNanchor_3"></span>
 
 The first mention of a Nativity feast on December 25 is found in a Roman
 document known as the Philocalian Calendar, dating from the year 354,
 but embodying an older document evidently belonging to the year 336. It
 is uncertain to which date the Nativity reference
-belongs;﻿ [4](crt24.htm#Footnote_4)<span id="FNanchor_4"></span> but
+belongs;﻿ [4](crt24.htm#Footnote_4.md)<span id="FNanchor_4"></span> but
 further back than 336 at all events the festival cannot be traced.
 
 From Rome, Christmas spread throughout the West, with the <span
@@ -158,17 +158,17 @@ id="page_21">p. 21</span> <span id="Page_21"></span>conversion of the
 barbarians. Whether it came to England through the Celtic Church is
 uncertain, but St. Augustine certainly brought it with him, and
 Christmas Day, 598, witnessed a great event, the baptism of more than
-ten thousand English converts.﻿ [1-9](crt22.htm#Note_1-9)<span
+ten thousand English converts.﻿ [1-9](crt22.htm#Note_1-9.md)<span
 id="Nanchor_1-9"></span> In 567 the Council of Tours had declared the
 Twelve Days, from Christmas to Epiphany, a festal
-tide;﻿ [1-10](crt22.htm#Note_1-10)<span id="Nanchor_1-10"></span> the
+tide;﻿ [1-10](crt22.htm#Note_1-10.md)<span id="Nanchor_1-10"></span> the
 laws of Ethelred (991-1016) ordained it to be a time of peace and
 concord among Christian men, when all strife must
-cease.﻿ [1-11](crt22.htm#Note_1-11)<span id="Nanchor_1-11"></span> In
+cease.﻿ [1-11](crt22.htm#Note_1-11.md)<span id="Nanchor_1-11"></span> In
 Germany Christmas was established by the Synod of Mainz in
-813;﻿ [1-12](crt22.htm#Note_1-12)<span id="Nanchor_1-12"></span> in
+813;﻿ [1-12](crt22.htm#Note_1-12.md)<span id="Nanchor_1-12"></span> in
 Norway by King Hakon the Good about the middle of the tenth
-century.﻿ [1-13](crt22.htm#Note_1-13)<span id="Nanchor_1-13"></span>
+century.﻿ [1-13](crt22.htm#Note_1-13.md)<span id="Nanchor_1-13"></span>
 
 In the East, as has been seen, the Birth of the Redeemer was at first
 celebrated not on December 25, but on January 6, the feast of the
@@ -177,11 +177,11 @@ as far back as the second century, among the Basilidian heretics, from
 whom it may have spread to the Catholic Church. It was with them
 certainly a feast of the Baptism, and possibly also of the Nativity, of
 Christ. The origins of the Epiphany
-festival﻿ [1-14](crt22.htm#Note_1-14)<span id="Nanchor_1-14"></span> are
+festival﻿ [1-14](crt22.htm#Note_1-14.md)<span id="Nanchor_1-14"></span> are
 very obscure, nor can we say with certainty what was its meaning at
 first. It may be that it took the place of a heathen rite celebrating
 the birth of the World or Æon from the Virgin on
-January 6.﻿ [5](crt24.htm#Footnote_5)<span id="FNanchor_5"></span> At
+January 6.﻿ [5](crt24.htm#Footnote_5.md)<span id="FNanchor_5"></span> At
 all events one of its objects was to commemorate the Baptism, the
 appearance of the Holy Dove, and the Voice from heaven, “Thou art my
 beloved son, in whom I am well pleased” (or, as other MSS. read, “This
@@ -207,10 +207,10 @@ Constantinople it was introduced about 380 by the great theologian,
 Gregory Nazianzen; at Antioch it appeared in 388, at Alexandria in 432.
 The Church of Jerusalem long stood out, refusing to adopt the new feast
 till the seventh century, it would
-seem.﻿ [1-18](crt22.htm#Note_1-18)<span id="Nanchor_1-18"></span> One
+seem.﻿ [1-18](crt22.htm#Note_1-18.md)<span id="Nanchor_1-18"></span> One
 important Church, the Armenian, knows nothing of December 25, and still
 celebrates the Nativity with the Epiphany on
-January 6.﻿ [1-19](crt22.htm#Note_1-19)<span id="Nanchor_1-19"></span>
+January 6.﻿ [1-19](crt22.htm#Note_1-19.md)<span id="Nanchor_1-19"></span>
 Epiphany in the eastern Orthodox Church has lost its connection with the
 Nativity and is now chiefly a celebration of the Baptism of Christ,
 while in the West, as every one knows, it is primarily a celebration of
@@ -238,7 +238,7 @@ Why, we may ask, did the Church choose December 25 for the celebration
 of her Founder's Birth? No one now imagines that the date is supported
 by a reliable tradition; it is only one of various guesses of early
 Christian writers. As a learned eighteenth-century
-Jesuit﻿ [1-20](crt22.htm#Note_1-20)<span id="Nanchor_1-20"></span> has
+Jesuit﻿ [1-20](crt22.htm#Note_1-20.md)<span id="Nanchor_1-20"></span> has
 pointed out, there is not a single month in the year to which the
 Nativity has not been assigned by some writer or other. The real reason
 for the choice of the day most probably was, that upon it fell the pagan
@@ -246,17 +246,17 @@ festival just mentioned.
 
 The *Dies Natalis Invicti* was probably first celebrated in Rome by
 order of the Emperor Aurelian (270-5), an ardent worshipper of the
-Syrian sun-god Baal.﻿ [1-21](crt22.htm#Note_1-21)<span
+Syrian sun-god Baal.﻿ [1-21](crt22.htm#Note_1-21.md)<span
 id="Nanchor_1-21"></span> With the *Sol Invictus* was identified the
 figure of Mithra, that strange eastern god whose cult resembled in so
 many ways the worship of Jesus, and who was at one time a serious rival
 of the Christ in the minds of thoughtful
-men.﻿ [6](crt24.htm#Footnote_6)<span
-id="FNanchor_6"></span>﻿ [1-22](crt22.htm#Note_1-22)<span
+men.﻿ [6](crt24.htm#Footnote_6.md)<span
+id="FNanchor_6"></span>﻿ [1-22](crt22.htm#Note_1-22.md)<span
 id="Nanchor_1-22"></span> It was the sun-god, poetically and
 philosophically conceived, whom the Emperor Julian made the centre of
 his ill-fated revival of paganism, and there is extant a fine prayer of
-his to “King Sun.”﻿ [1-23](crt22.htm#Note_1-23)<span
+his to “King Sun.”﻿ [1-23](crt22.htm#Note_1-23.md)<span
 id="Nanchor_1-23"></span>
 
 What more natural than that the Church should choose this day to
@@ -267,12 +267,12 @@ There is no direct evidence of deliberate substitution, but at all
 events ecclesiastical writers soon after the foundation of Christmas
 made good use of the idea <span id="page_24">p. 24</span> <span
 id="Page_24"></span>that the birthday of the Saviour had replaced the
-birthday of the sun.﻿ [7](crt24.htm#Footnote_7)<span
+birthday of the sun.﻿ [7](crt24.htm#Footnote_7.md)<span
 id="FNanchor_7"></span>
 
 Little is known of the manner in which the *Natalis Invicti* was kept;
 it was not a folk-festival, and was probably observed by the classes
-rather than the masses.﻿ [1-24](crt22.htm#Note_1-24)<span
+rather than the masses.﻿ [1-24](crt22.htm#Note_1-24.md)<span
 id="Nanchor_1-24"></span> Its direct influence on Christmas customs has
 probably been little or nothing. It fell, however, just before a Roman
 festival that had immense popularity, is of great importance for our
@@ -308,7 +308,7 @@ in the last edition of his Etymological Dictionary (1910) has to admit
 that its origin is unknown. Whatever its source may be, it is clearly
 the name of a Germanic season﻿—probably a two-month tide covering the
 second half of November, the whole of December, and the first half of
-January.﻿ [1-26](crt22.htm#Note_1-26)<span id="Nanchor_1-26"></span> It
+January.﻿ [1-26](crt22.htm#Note_1-26.md)<span id="Nanchor_1-26"></span> It
 may well suggest to us the element added to Christmas by the barbarian
 peoples who began to learn Christianity about the time when the festival
 was founded. Modern research has tended to disprove the idea that the
@@ -424,4 +424,4 @@ id="page_31">p. 31</span> <span id="Page_31"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Christmas Poetry (I)](crt05)
+[Next: Chapter II. Christmas Poetry (I)](crt05.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos37)  [Next](gbos39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos37)  [Next](gbos39.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,7 +148,7 @@ Craft, \[135\] say, "Speak not to me of such. It frightens me. 'Tis evil
 luck to speak of it." For this reason: the Christians have spies
 everywhere. These speak as if they were well affected, as if they would
 come to Meetings, saying, "My mother used to go to worship the Old Ones.
-I would that I could go myself." <span id="fr_3"></span>[4](#fn_3) To
+I would that I could go myself." <span id="fr_3"></span>[4](#fn_3.md) To
 these ever deny all knowledge. \[140\] But to others ever say, "'Tis
 foolish men talk of witches flying through the air; to do so they must
 be light as thistledown," and "Men say that witches all be bleared-eyed
@@ -303,7 +303,7 @@ deputy of the High Priestess.
 
 ### Footnotes
 
-<span id="fn_3"></span>[4](gbos38.htm#fr_3) My Lady Epona points out
+<span id="fn_3"></span>[4](gbos38.htm#fr_3.md) My Lady Epona points out
 that this is precisely what Charles Cardell had claimed; that is, this
 paragraph is a response to Cardell, and so it was probably inserted into
 the Craft Laws after the run-in with the Cardells and Olive Green in
@@ -313,4 +313,4 @@ Mr. Q was initiated.
 
 ------------------------------------------------------------------------
 
-[Next: The Verse Charge](gbos39)
+[Next: The Verse Charge](gbos39.md)

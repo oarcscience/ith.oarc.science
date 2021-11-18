@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr00) 
-[Next](idr02) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr00.md) 
+[Next](idr02.md) 
 
 ------------------------------------------------------------------------
 
@@ -57,4 +57,4 @@ Norwood.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](idr02)
+[Next: Contents](idr02.md)

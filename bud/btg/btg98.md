@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg97)  [Next](btg99) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg97)  [Next](btg99.md) 
 
 ------------------------------------------------------------------------
 
@@ -178,4 +178,4 @@ refuge in the Buddha.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](btg99)
+[Next: Conclusion](btg99.md)

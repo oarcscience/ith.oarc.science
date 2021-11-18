@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ffcc125)  [Next](ffcc130) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ffcc125)  [Next](ffcc130.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCI5W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Fairy-Faith in Celtic Countries*, by W.Y. Evans-Wentz, \[1911\], at
 Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Intangible Textual Heritage
 Introduction by ANATOLE LE BRAZ, Professor of French Literature,
 University of Rennes, Brittany; author of *La Légende de la Mort*, *Au
 Pays des Pardons*, &c. (*Note*: Translation in this footnote: <span
-id="fr_76"></span>[1](#fn_75) --John Bruno Hare)
+id="fr_76"></span>[1](#fn_75) --John Bruno Hare.md)
 
 MON CHER MONSIEUR WENTZ,
 
@@ -331,7 +331,7 @@ father what had happened; and the father, turning to Cado, said: 'Alas,
 my unfortunate son, you have failed. It is now necessary for you to
 travel until you find the Princess Blondine, as the *fée* said, for that
 little old woman was a *fée*, and no doctor in the world can cure the
-malady she has put upon you.' <span id="fr_77"></span>[1](#fn_76)
+malady she has put upon you.' <span id="fr_77"></span>[1](#fn_76.md)
 
 'Fées' of Lower Brittany.--Throughout the Morbihan and Finistère, I
 found that stories about *fée*, are much less common than about
@@ -344,7 +344,7 @@ summer of 1909; the first one by M. Yvonne Daniel,
 <span id="page_197">p. 197</span>
 
 a native of the Île de Croix (off the coast north-west of Carnac); and
-the others by M. Goulven Le Scour. <span id="fr_78"></span>[1](#fn_77)
+the others by M. Goulven Le Scour. <span id="fr_78"></span>[1](#fn_77.md)
 
 'The little Île de Croix was especially famous for its old *fées*; and
 the following legend is still believed by its oldest inhabitants:--"An
@@ -389,7 +389,7 @@ Children Changed by 'Fées'.--M. Goulven Le Scour, at my request, wrote
 down in French the following account of actual changelings in
 Finistère:--'I remember very well that there was a woman of the village
 of Kergoff, in Plouneventer, who was called ------, <span
-id="fr_79"></span>[1](#fn_78) the mother of a family. When she had her
+id="fr_79"></span>[1](#fn_78.md) the mother of a family. When she had her
 first child, a very strong and very pretty boy, she noticed one morning
 that he had been changed during the night; there was no longer the fine
 baby she had put to bed in the evening; there was, instead, an infant
@@ -424,7 +424,7 @@ which has been blessed (by a priest), and the *fée* will no longer have
 the power of stealing your children." And when a fourth child was born
 to the unfortunate woman it was not stolen, for she placed in the cradle
 a sprig of box-wood which had been blessed on Palm Sunday (*Dimanche des
-Rameaux*). <span id="fr_80"></span>[1](#fn_79)
+Rameaux*). <span id="fr_80"></span>[1](#fn_79.md)
 
 'The first three children I knew very well, and they were certainly
 hunchbacked: it is pretended in the country that the *fées* who come at
@@ -439,7 +439,7 @@ Transformation Power of 'Fées',--At Kerallan, near Carnac, this is what
 Madame Louise Le Rouzic said about the transformation power of
 *fées*:--'It is said that the *fées* of the region when insulted
 sometimes changed men into beasts or into stones.' <span
-id="fr_81"></span>[2](#fn_80)
+id="fr_81"></span>[2](#fn_80.md)
 
 Other Breton Fairies.--Besides the various types of *fées* already
 described, we find in Luzel's collected stories a few
@@ -447,15 +447,15 @@ described, we find in Luzel's collected stories a few
 <span id="page_200">p. 200</span>
 
 other types of fairy-like beings: in *Les Compagnons* (The
-Companions), <span id="fr_82"></span>[1](#fn_81) the *fée* is a magpie
+Companions), <span id="fr_82"></span>[1](#fn_81.md) the *fée* is a magpie
 in a forest near Rennes--just as in other Celtic lands, fairies likewise
 often appear as birds (see our study, pp. 302 ff.); in *La Princesse de
 l'Etoile Brillante* (The Princess of the Brilliant Star), <span
-id="fr_83"></span>[1](#fn_81) a princess under the form of a duck plays
+id="fr_83"></span>[1](#fn_81.md) a princess under the form of a duck plays
 the part of a fairy (cf. how fairy women took the form of water-fowls in
 the tale entitled the *Sick Bed of Cuchulainn* (see our study, p. 345);
 in *Pipi Menou et les Femmes Volantes* (Pipi Menou and the Flying
-Women), <span id="fr_84"></span>[1](#fn_81) there are fairy women as
+Women), <span id="fr_84"></span>[1](#fn_81.md) there are fairy women as
 swan-maidens; and then there are yet to be mentioned *Les Morgans de
 l'ile d'Ouessant* (The *Morgans* of the Isle of Ushant), who live under
 the sea in rare palaces where mortals whom they love and marry are able
@@ -465,7 +465,7 @@ and *Morganezed*, seem like anthropomorphosed survivals of ancient
 sea-divinities, such, for example, as the sea-god called *Shony*, to
 whom the people of Lewis, Western Hebrides, still pour libations that he
 may send in sea-weed, and the sea-god to whom anciently the people of
-Iona poured libations. <span id="fr_85"></span>[2](#fn_82)
+Iona poured libations. <span id="fr_85"></span>[2](#fn_82.md)
 
 The 'Morgan'.--To M. J. Cuillandre (Glanmor), President of the
 *Fédération des Etudiants Bretons*, I am indebted for the following
@@ -512,7 +512,7 @@ held the key of the sea-dike flood-gates, and had given this key to the
 Black Prince, under whose evil love she had fallen, and who, according
 to belief, was no other than the Devil, St. Guenolé soon afterwards
 began to cry aloud, "Great King, arise! The flood-gates are open, and
-the sea is no longer restrained!" <span id="fr_86"></span>[1](#fn_83)
+the sea is no longer restrained!" <span id="fr_86"></span>[1](#fn_83.md)
 Suddenly the old King Gradlon arose, and, leaping on his horse, was
 fleeing from the city with St. Guenolé, when he encountered his
 
@@ -540,13 +540,13 @@ on the Psychological Theory; for this dead man, who is a dead priest,
 has a palace in a realm of enchantment, and to enter his country one
 must have a white fairy-wand with which to strike 'in the form of a
 cross' two blows upon the rock concealing the entrance. <span
-id="fr_87"></span>[1](#fn_84) M. Paul Sébillot records from Upper
+id="fr_87"></span>[1](#fn_84.md) M. Paul Sébillot records from Upper
 Brittany a tradition that beneath the sea-waves there one can see a
 subterranean world containing fields and villages and beautiful castles;
 and it is so pleasant a world that mortals going there find years no
-longer than days. <span id="fr_88"></span>[2](#fn_85)
+longer than days. <span id="fr_88"></span>[2](#fn_85.md)
 
-Fairies of Upper Brittany. <span id="fr_89"></span>[3](#fn_86)
+Fairies of Upper Brittany. <span id="fr_89"></span>[3](#fn_86.md)
 ---Principally in Upper Brittany, M. Sébillot found rich folk-lore
 concerning *fées*, though
 
@@ -568,15 +568,15 @@ they are called *Margot la Fée*, or *ma Commère* (my Godmother)
 they are often enough called by the name of *Bonnes Dames* (Good
 Ladies), or of *nos Bonnes Mères les Fées* (our Good Mothers the
 Fairies); usually they are spoken of with a certain respect.' <span
-id="fr_90"></span>[1](#fn_87) As the same authority suggests, probably
+id="fr_90"></span>[1](#fn_87.md) As the same authority suggests, probably
 the most characteristic *Fées* in Upper Brittany are the *Fées des
 Houles* (Fairies of the Billows); and traditions say that they lived in
 natural caverns or grottoes in the sea-cliffs. They form a distinct
 class of sea-fairies unknown elsewhere in France or Europe. <span
-id="fr_91"></span>[2](#fn_88) M. Sébillot regards them as sea-divinities
+id="fr_91"></span>[2](#fn_88.md) M. Sébillot regards them as sea-divinities
 greatly rationalized. Associated with them are the *fions*, a race of
 dwarfs having swords no bigger than pins. <span
-id="fr_92"></span>[2](#fn_88) A pretty legend about magic buckwheat
+id="fr_92"></span>[2](#fn_88.md) A pretty legend about magic buckwheat
 cakes, which in different forms is widespread throughout all Brittany,
 is told of these little cave-dwelling fairies:--
 
@@ -602,7 +602,7 @@ storms. These storm-fairies are dressed in the colours of the rainbow,
 and pass along following a most beautiful *fée* who is mounted in a boat
 made from a nautilus of the southern seas. And the boat is drawn by two
 sea-crabs. In no other place in Brittany are similar *fées* said to
-exist. <span id="fr_93"></span>[1](#fn_89) In Upper Brittany, as in
+exist. <span id="fr_93"></span>[1](#fn_89.md) In Upper Brittany, as in
 Lower Brittany, the *fées* generally had their abodes in tumuli, in
 dolmens, in forests, in waste lands where there are great rocks, or
 about menhirs; and many other kinds of spirits lived in the sea and
@@ -610,7 +610,7 @@ troubled sailors and fisher-folk. Like all fairy-folk of Celtic
 countries, those of Upper Brittany were given to stealing children. Thus
 at Dinard not long ago there was a woman more than thirty years old who
 was no bigger than a girl of ten, and it was said she was a fairy
-changeling. <span id="fr_94"></span>[2](#fn_90) In Lower Brittany the
+changeling. <span id="fr_94"></span>[2](#fn_90.md) In Lower Brittany the
 *taking* of children was often attributed to dwarfs rather than to
 *fees*, though the method of making the changeling speak is the same as
 in Upper Brittany, namely, to place in such a manner before an open fire
@@ -634,7 +634,7 @@ quite like a midwife in a similar story about the *fées des houles*,
 this midwife happened to see a *fée* in the act of stealing, and spoke
 to her. Thereupon the *fée* asked the midwife with which eye she beheld
 her, and when the midwife indicated which one it was, the *fée* pulled
-it out. <span id="fr_95"></span>[1](#fn_91)
+it out. <span id="fr_95"></span>[1](#fn_91.md)
 
 Generally, like their relatives in insular Celtdom, the fairies of Upper
 Brittany could assume various forms, and could even transform the human
@@ -647,10 +647,10 @@ As a rule, the *fées* of Upper Brittany are described in legend as young
 and very beautiful. Some, however, appear to be centuries old, with
 teeth as long as a human hand, and with backs covered with seaweeds, and
 mussels, or other marine growths, as an indication of their great
-age. <span id="fr_96"></span>[2](#fn_92) At Saint-Cast they are said to
-be dressed (like the *corrigans* at Carnac, see [p. 208](#page_208)) in
+age. <span id="fr_96"></span>[2](#fn_92.md) At Saint-Cast they are said to
+be dressed (like the *corrigans* at Carnac, see [p. 208](#page_208).md) in
 *toile*, a kind of heavy linen cloth. <span
-id="fr_97"></span>[2](#fn_92)
+id="fr_97"></span>[2](#fn_92.md)
 
 On the sea-coast of Upper Brittany the popular opinion is that the
 *fées* are a fallen race condemned to an earthly exile for a certain
@@ -659,7 +659,7 @@ that, after the angels revolted, those left in paradise were divided
 into two parts: those who fought on the side of God and those who
 remained neutral. These last, already half-fallen, were sent to the
 earth for a time, and became the *fées*. <span
-id="fr_98"></span>[2](#fn_92)
+id="fr_98"></span>[2](#fn_92.md)
 
 The general belief in the interior of Brittany is that the *fees* once
 existed, but that they disappeared as their country was changed by
@@ -679,9 +679,9 @@ an old needle-woman of Saint-Cast, who had such fear of *fées* that if
 she was on her way to do some sewing in the country, and it was night,
 she always took a long circuitous route to avoid passing near a field
 known as the *Couvent des Fées*. The other was Marie Chéhu, a woman
-eighty-eight years old. <span id="fr_99"></span>[1](#fn_93)
+eighty-eight years old. <span id="fr_99"></span>[1](#fn_93.md)
 
-### THE *CORRIGAN* RACE <span id="fr_100"></span>[2](#fn_94)
+### THE *CORRIGAN* RACE <span id="fr_100"></span>[2](#fn_94.md)
 
 It is the *corrigan* race, however, which, more than *fées* or fairies,
 forms a large part of the invisible inhabitants of Brittany; and this
@@ -710,7 +710,7 @@ families), and amuse themselves by playing tricks on travellers passing
 by after dark. Souvestre records a story showing how the *lutins* can
 assume any animal form, but that their natural form is that of a little
 man dressed in green; and that the *corrigans* have declared war on them
-for being too friendly to men. <span id="fr_101"></span>[1](#fn_95) From
+for being too friendly to men. <span id="fr_101"></span>[1](#fn_95.md) From
 what follows about *lutins*, by M. Goulven Le Scour, they show affinity
 with Pucks and such shape-shifting hobgoblins as are found in
 Wales:--'The *lutins* were little dwarfs who generally appeared at
@@ -747,7 +747,7 @@ treat him quite as a companion, and may even do him some good turn; but
 if he is not agreeable they will make him dance until he falls down
 exhausted, and should he commit some act thoroughly displeasing to them
 he will meet their certain revenge. According to a story reported from
-Lorient (Morbihan) <span id="fr_102"></span>[1](#fn_96) it is taboo for
+Lorient (Morbihan) <span id="fr_102"></span>[1](#fn_96.md) it is taboo for
 the *corrigans* to make a complete enumeration of the days of the
 week:--
 
@@ -823,7 +823,7 @@ night, afterwards, the *corrigans* came into the house, beat her, and
 dragged her from bed. Upon hearing the uproar, my grandfather arose and
 found the girl lying flat on the stone floor. "Never question me again,"
 she said to him, "or they will kill me."' <span
-id="fr_103"></span>[1](#fn_97)
+id="fr_103"></span>[1](#fn_97.md)
 
 'Corrigans' as Fairies.--Some Breton legends give *corrigans* the chief
 characteristics of fairies in Celtic Britain and Ireland; and
@@ -848,9 +848,9 @@ unconscious trance-state--which
 
 has a curious bearing on our Psychological Theory--stretches forth its
 arms and awakening exclaims, 'Ah! mother, what a long time I have been
-asleep.' <span id="fr_104"></span>[1](#fn_98) And in *Les Nains* we see
+asleep.' <span id="fr_104"></span>[1](#fn_98.md) And in *Les Nains* we see
 the little *Duz* or dwarfs inhabiting a cave and guarding
-treasures. <span id="fr_105"></span>[1](#fn_98)
+treasures. <span id="fr_105"></span>[1](#fn_98.md)
 
 In his introduction to the *Banzaz Breiz*, Villemarqué describes *les
 korrigan*, whom he equates with *les fées*, as very similar to ordinary
@@ -896,7 +896,7 @@ astonished that he unwittingly speaks for the first time, and says,
 yet seen!' 'Ah! son of Satan!' then cries out the mother, as she comes
 from her place of hiding and beats the *polpegan*--who thus by means of
 the egg-shell test has been tricked into revealing his demon
-nature. <span id="fr_106"></span>[1](#fn_99) In a parallel story,
+nature. <span id="fr_106"></span>[1](#fn_99.md) In a parallel story,
 reported by Villemarqué in his *Barzaz Breiz* (p. 33 n.), a
 *nain*-changeling is equally astonished to see a similar row of
 egg-shells boiling before an open fire like so many pots of food, and
@@ -938,7 +938,7 @@ a departure for another world.' And thus it seems that this most popular
 of the Breton folk-beliefs is genuinely Celtic and extremely ancient. As
 Renan has said, the Celtic people are 'a race mysterious, having
 knowledge of the future and the secret of death'. <span
-id="fr_107"></span>[1](#fn_100) And whereas in Ireland unusual
+id="fr_107"></span>[1](#fn_100.md) And whereas in Ireland unusual
 happenings or strange accidents and death are attributed to fairy
 interference, in Brittany they are attributed to the influence of the
 dead.
@@ -1031,7 +1031,7 @@ along, suddenly there appeared to my companion her dead relative whom we
 had buried that day. She asked me if I saw anything, and since I replied
 to her negatively she said to me, "Touch me, and you will see without
 doubt." I touched her, and I saw the same as she did, the person just
-dead, whom I clearly recognized.' <span id="fr_108"></span>[1](#fn_101)
+dead, whom I clearly recognized.' <span id="fr_108"></span>[1](#fn_101.md)
 
 <span id="page_216">p. 216</span>
 
@@ -1050,7 +1050,7 @@ misfortune the assistant turned in an opposite direction, he had his
 arms wrung in an instant. It is believed that these phantom washerwomen
 are women condemned to wash their mortuary sheets during whole
 centuries; but that when they find some mortal to wring in an opposite
-direction, they are delivered.' <span id="fr_109"></span>[1](#fn_102)
+direction, they are delivered.' <span id="fr_109"></span>[1](#fn_102.md)
 
 Breton Animistic Beliefs.--M*.* Z. Le Rouzic, a Breton Celt who has
 spent most of his life studying the archaeology and folk-lore of the
@@ -1117,10 +1117,10 @@ numerous other death-legends which we have collected, we may now note
 how much the same are the powers and nature of the dead and spirits in
 Brittany, and the power and nature of the fairy races in Celtic Britain
 and Ireland. Thus the Breton dead strike down the living just as fairies
-are said to do; the *Ankou* <span id="fr_110"></span>[1](#fn_103) who is
+are said to do; the *Ankou* <span id="fr_110"></span>[1](#fn_103.md) who is
 a king of the dead, and his subjects, like a fairy king and fairies,
 have their own particular paths or roads over which they travel in great
-sacred processions; <span id="fr_111"></span>[2](#fn_104) and exactly as
+sacred processions; <span id="fr_111"></span>[2](#fn_104.md) and exactly as
 fairies, the hosts of the dead are in possession of the earth on
 November Eve, and the living are expected to prepare a feast and
 entertainment for them of curded-milk, hot pancakes, and cider, served
@@ -1147,47 +1147,47 @@ prayers for his soul. And almost every man or woman one meets in rural
 Lower Brittany can tell many similar stories. If a mortal should happen
 to meet one of the dead in Brittany and be induced to eat food which the
 dead sometimes offer, he will never be able to return among the
-living, <span id="fr_112"></span>[1](#fn_105) for the effect would be
+living, <span id="fr_112"></span>[1](#fn_105.md) for the effect would be
 the same as eating fairy-food. Like ghosts and fairies in Ireland,
 Scotland, and Wales, in Brittany the dead guard hidden treasure. It is
 after sunset that the dead have most power to strike down the
-living, <span id="fr_113"></span>[1](#fn_105) and to *take* them just as
+living, <span id="fr_113"></span>[1](#fn_105.md) and to *take* them just as
 fairies do. A natural phenomenon, a malady, a death, or a tempest may be
-the work of a spirit in Brittany, <span id="fr_114"></span>[1](#fn_105)
+the work of a spirit in Brittany, <span id="fr_114"></span>[1](#fn_105.md)
 and in Ireland the work of a fairy. The Breton dead, like the Scotch
 fairies described in Kirk's *Secret Commonwealth*, are capable of making
 themselves visible or invisible to mortals, at will. <span
-id="fr_115"></span>[1](#fn_105) Their bodies--for they have bodies--are
-material, <span id="fr_116"></span>[1](#fn_105) being composed of matter
+id="fr_115"></span>[1](#fn_105.md) Their bodies--for they have bodies--are
+material, <span id="fr_116"></span>[1](#fn_105.md) being composed of matter
 in a state unknown to us; and the bodies of daemons as described by the
 Ancients are made of congealed air. The dead in Brittany have forms more
 slender and smaller in stature than those of the living; <span
-id="fr_117"></span>[1](#fn_105) and herein we find one of the factors
+id="fr_117"></span>[1](#fn_105.md) and herein we find one of the factors
 which supporters of the Pygmy Theory would emphasize, but it is
 thoroughly psychical. Old Breton farmers after death return to their
 farms, as though come from Fairyland; and sometimes they even take a
-turn at the ploughing. <span id="fr_118"></span>[1](#fn_105) As in
+turn at the ploughing. <span id="fr_118"></span>[1](#fn_105.md) As in
 Ireland, so in Brittany, the day belongs to the living, and the night,
 when a mortal is safer indoors than out, to spirits and the dead. <span
-id="fr_119"></span>[1](#fn_105) The Bretons
+id="fr_119"></span>[1](#fn_105.md) The Bretons
 
 <span id="page_220">p. 220</span>
 
 take great care not to counterfeit the dead nor to speak slightingly of
-them, <span id="fr_120"></span>[1](#fn_106) for, like fairies, they know
+them, <span id="fr_120"></span>[1](#fn_106.md) for, like fairies, they know
 all that is done by mortals, and can hear all that is said about them,
 and can take revenge. Just as in the case of all fairies and goblins,
 the dead disappear at first cock-crow. <span
-id="fr_121"></span>[2](#fn_107) The world of the dead, like the land of
+id="fr_121"></span>[2](#fn_107.md) The world of the dead, like the land of
 Faerie or the Otherworld, may be underground, in the air, in a hill or
 mountain like a fairy palace, under a river or sea, and even on an
-island out amid the ocean. <span id="fr_122"></span>[2](#fn_107) As
+island out amid the ocean. <span id="fr_122"></span>[2](#fn_107.md) As
 other Celts do against evil spirits and fairies, the Breton peasants use
 magic against evil souls of the dead, <span
-id="fr_123"></span>[3](#fn_108) and the priests use exorcisms. The
+id="fr_123"></span>[3](#fn_108.md) and the priests use exorcisms. The
 Breton realm of the dead equally with the Irish Fairyland is an
 invisible world peopled by other kinds of spirits besides disembodied
-mortals and fairies. <span id="fr_124"></span>[4](#fn_109) The dead
+mortals and fairies. <span id="fr_124"></span>[4](#fn_109.md) The dead
 haunt houses just as Robin Good-fellows and brownies, or pixies and
 goblins, generally do. The dead are fond of frequenting cross-roads, and
 so are all sorts of fairies. In Brittany one must always guard against
@@ -1196,7 +1196,7 @@ different kinds of fairies. In Ireland and Scotland there is the
 banshee, in Wales the death-candle, in Brittany the *Ankou* or king of
 the dead, to foretell a death. And as the banshee wails before the
 ancestral mansion, so the *Ankou* sounds its doleful cry before the door
-of the one it calls. <span id="fr_125"></span>[4](#fn_109)There seems
+of the one it calls. <span id="fr_125"></span>[4](#fn_109.md)There seems
 not to be a family in the Carnac region of the Morbihan without some
 tradition of a warning coming before the death of one of its members. In
 Ireland only certain families have a banshee, but in Brittany all
@@ -1240,7 +1240,7 @@ supernormal, and is especially valuable for showing the social
 environment amidst which the Fairy-Faith of Lower Brittany lives and
 flourishes, Isolated from foreign interference:--
 
-A 'Veillée' <span id="fr_126"></span>[1](#fn_110) *in Lower
+A 'Veillée' <span id="fr_126"></span>[1](#fn_110.md) *in Lower
 Brittany*.--'The wind was blowing
 
 <span id="page_222">p. 222</span>
@@ -1307,7 +1307,7 @@ say to the others: 'I have news to report to you; I have cast an evil
 spell upon the daughter of the King, and no mortal will ever be able to
 cure her, and yet in order to cure her nothing more would be needed than
 a drop of water from this fountain.' The *corrigan* who thus spoke was
-upon two sticks <span id="fr_127"></span>[1](#fn_111) (crippled), and
+upon two sticks <span id="fr_127"></span>[1](#fn_111) (crippled.md), and
 commanded all the others. The beggar having understood the conversation,
 awaited impatiently the departure of the *corrigans*. When they were
 gone, he took a little water from the fountain in a bottle, and hurried
@@ -1385,7 +1385,7 @@ chapter, before passing to Section II of our study.
 
 ### Footnotes
 
-<span id="fn_75"></span>[185:1](ffcc126.htm#fr_76)
+<span id="fn_75"></span>[185:1](ffcc126.htm#fr_76.md)
 
 My dear Mr. Wentz,
 
@@ -1615,41 +1615,41 @@ writer who has but now revived their cult by renewing their glory.
 RENNES  
 November, 1, 1910.
 
-<span id="fn_76"></span>[196:1](ffcc126.htm#fr_77) Cf. F. M. Luzel,
+<span id="fn_76"></span>[196:1](ffcc126.htm#fr_77.md) Cf. F. M. Luzel,
 *Contes populaires de Basse-Bretagne* (Paris, 1887), i. 177-97;
 following the account of Ann Drann, a servant at Coat-Fual,
 Plouguernevel (Côtes-du-Nord), November 1855.
 
-<span id="fn_77"></span>[197:1](ffcc126.htm#fr_78) My Breton friend, M.
+<span id="fn_77"></span>[197:1](ffcc126.htm#fr_78.md) My Breton friend, M.
 Goulven Le Scour, was born November 20, 1851, at Kerouledic in
 Plouneventer, Finistère. He is an antiquarian, a poet, and, as we shall
 see, a folk-lorist of no mean ability. In 1902, at the *Congrès d'Auray*
 of Breton poets and singers, he won two prizes for poetry, and, in 1901,
 a prize at the *Congrès de Quimperlé* or *Concours Recueils poétiques*.
 
-<span id="fn_78"></span>[198:1](ffcc126.htm#fr_79) This story concerns
+<span id="fn_78"></span>[198:1](ffcc126.htm#fr_79.md) This story concerns
 persons still living, and, at M. Le Scour's suggestion, I have omitted
 their names.
 
-<span id="fn_79"></span>[199:1](ffcc126.htm#fr_80) By a Carnac family I
+<span id="fn_79"></span>[199:1](ffcc126.htm#fr_80.md) By a Carnac family I
 was afterwards given a sprig of such blessed box-wood, and was assured
 that its exorcizing power is still recognized by all old Breton
 families, most of whom seem to possess branches of it.
 
-<span id="fn_80"></span>[199:2](ffcc126.htm#fr_81) This idea seems
+<span id="fn_80"></span>[199:2](ffcc126.htm#fr_81.md) This idea seems
 related to the one in the popular Morbihan legend of how St. Cornely,
 the patron saint of the country and the saint who presides over the
 Alignements and domestic horned animals, changed into upright stones the
 pagan forces opposing him when he arrived near Carnac; and these stones
 are now the famous Alignements of Carnac.
 
-<span id="fn_81"></span>[200:1](ffcc126.htm#fr_84) Luzel, op. cit., iii.
+<span id="fn_81"></span>[200:1](ffcc126.htm#fr_84.md) Luzel, op. cit., iii.
 226--311; i. 128--218; ii. 349--54.
 
-<span id="fn_82"></span>[200:2](ffcc126.htm#fr_85) Ib., ii. 269*;* cf.
-our study, [p. 93](ffcc122.htm#page_93).
+<span id="fn_82"></span>[200:2](ffcc126.htm#fr_85.md) Ib., ii. 269*;* cf.
+our study, [p. 93](ffcc122.htm#page_93.md).
 
-<span id="fn_83"></span>[201:1](ffcc126.htm#fr_86) According to the
+<span id="fn_83"></span>[201:1](ffcc126.htm#fr_86.md) According to the
 annotations to a legend recorded by Villemarqué, in his *Barzaz Breiz,*
 pp. 39-44, and entitled the *Submersion de la Vile d'Is*, St. Guenolé
 was traditionally the founder of the first monastery raised in Armorica;
@@ -1657,47 +1657,47 @@ and Dahut the princess stole the key from her sleeping father in order
 fittingly to crown a banquet and midnight debaucheries which were being
 held in honour of her lover, the Black Prince.
 
-<span id="fn_84"></span>[202:1](ffcc126.htm#fr_87) Luzel, op. cit., ii.
+<span id="fn_84"></span>[202:1](ffcc126.htm#fr_87.md) Luzel, op. cit., ii.
 257-68; i. 3-13.
 
-<span id="fn_85"></span>[202:2](ffcc126.htm#fr_88) P. Sébillot,
+<span id="fn_85"></span>[202:2](ffcc126.htm#fr_88.md) P. Sébillot,
 *Traditions et superstitions de la Haute-Bretagne* (Paris, 1882), i.
 100.
 
-<span id="fn_86"></span>[202:3](ffcc126.htm#fr_89) General references:
+<span id="fn_86"></span>[202:3](ffcc126.htm#fr_89.md) General references:
 Sébillot, Ib.; and his *Folk-Lore de France* (Paris, 1905).
 
-<span id="fn_87"></span>[203:1](ffcc126.htm#fr_90) Sébillot, *Traditions
+<span id="fn_87"></span>[203:1](ffcc126.htm#fr_90.md) Sébillot, *Traditions
 et superstitions de la Haute-Bretagne*, i. 73-4.
 
-<span id="fn_88"></span>[203:2](ffcc126.htm#fr_92) Ib., i. 102, 103-4.
+<span id="fn_88"></span>[203:2](ffcc126.htm#fr_92.md) Ib., i. 102, 103-4.
 
-<span id="fn_89"></span>[204:1](ffcc126.htm#fr_93) Sébillot, *Traditions
+<span id="fn_89"></span>[204:1](ffcc126.htm#fr_93.md) Sébillot, *Traditions
 of superstitions de in Haute-Bretagne,* i. 83.
 
-<span id="fn_90"></span>[204:2](ffcc126.htm#fr_94) Ib., i. 90-1.
+<span id="fn_90"></span>[204:2](ffcc126.htm#fr_94.md) Ib., i. 90-1.
 
-<span id="fn_91"></span>[205:1](ffcc126.htm#fr_95) Cf. ib., i. 109.
+<span id="fn_91"></span>[205:1](ffcc126.htm#fr_95.md) Cf. ib., i. 109.
 
-<span id="fn_92"></span>[205:2](ffcc126.htm#fr_98) Cf. ib., 74-5, &c.
+<span id="fn_92"></span>[205:2](ffcc126.htm#fr_98.md) Cf. ib., 74-5, &c.
 
-<span id="fn_93"></span>[206:1](ffcc126.htm#fr_99) Cf. Sébillot,
+<span id="fn_93"></span>[206:1](ffcc126.htm#fr_99.md) Cf. Sébillot,
 *Traditions et superstitions de La Haute-Bretagne*, i ,74-5, &c.
 
-<span id="fn_94"></span>[206:2](ffcc126.htm#fr_100) In Lower Brittany
+<span id="fn_94"></span>[206:2](ffcc126.htm#fr_100.md) In Lower Brittany
 the *corrigan* tribes collectively are commonly called *Corrikêt*,
 masculine plural of *Corrik*, diminutive of *Corr*, meaning 'Dwarf'; or
 *Corriganed*, feminine plural of *Corrigan*, meaning 'Little Dwarf'.
 Many other forms are in use. (Cf. R. F. Le Men, *Trad. et supers. de la
 Basse-Bretagne*, in *Rev. Celt.*, i. 226-7.)
 
-<span id="fn_95"></span>[207:1](ffcc126.htm#fr_101) Cf. *Foyer Breton*,
+<span id="fn_95"></span>[207:1](ffcc126.htm#fr_101.md) Cf. *Foyer Breton*,
 i. 199
 
-<span id="fn_96"></span>[208:1](ffcc126.htm#fr_102) By 'E. R.', in
+<span id="fn_96"></span>[208:1](ffcc126.htm#fr_102.md) By 'E. R.', in
 *Mélusine* (Paris), i. 114
 
-<span id="fn_97"></span>[210:1](ffcc126.htm#fr_103) This account about
+<span id="fn_97"></span>[210:1](ffcc126.htm#fr_103.md) This account about
 *corrigans*, more rational than any preceding it, may possibly refer to
 a dream or trance-like state of mind on the part of the young girl; and
 if it does, we can then compare the presence of a mortal at this
@@ -1712,26 +1712,26 @@ and racial, social, and traditional usages of the ancient Bretons, the
 animistic background of them could conceivably have originated from
 psychical experiences such as this girl is supposed to have had.
 
-<span id="fn_98"></span>[211:1](ffcc126.htm#fr_105) Villemarqué, *Barzas
+<span id="fn_98"></span>[211:1](ffcc126.htm#fr_105.md) Villemarqué, *Barzas
 Breiz* (Paris, 1867), pp. 33, 35.
 
-<span id="fn_99"></span>[212:1](ffcc126.htm#fr_106) J. Loth, in *Annales
+<span id="fn_99"></span>[212:1](ffcc126.htm#fr_106.md) J. Loth, in *Annales
 de Bretagne* (Rennes), x. 78-81
 
-<span id="fn_100"></span>[213:1](ffcc126.htm#fr_107) E. Renan, *Essais
+<span id="fn_100"></span>[213:1](ffcc126.htm#fr_107.md) E. Renan, *Essais
 de morale et de critique* (Paris, 1859), p. 451
 
-<span id="fn_101"></span>[215:1](ffcc126.htm#fr_108) In Ireland it is
+<span id="fn_101"></span>[215:1](ffcc126.htm#fr_108.md) In Ireland it is
 commonly held that a seer beholding a fairy can make <span
 id="page_216">p. 216</span> a non-seer see it also by coming into bodily
-*rapport* with the non-seer (cf. [p. 152](ffcc124.htm#page_152)).
+*rapport* with the non-seer (cf. [p. 152](ffcc124.htm#page_152).md).
 
-<span id="fn_102"></span>[216:1](ffcc126.htm#fr_109) It is sometimes
+<span id="fn_102"></span>[216:1](ffcc126.htm#fr_109.md) It is sometimes
 believed that phantom washerwomen are undergoing penance for having
 wilfully brought on an abortion by their work, or else for having
 strangled their babe.
 
-<span id="fn_103"></span>[218:1](ffcc126.htm#fr_110) Every parish in the
+<span id="fn_103"></span>[218:1](ffcc126.htm#fr_110.md) Every parish in the
 uncorrupted parts of Brittany has its own *Ankou*, who is the last man
 to die in the parish during the year. Each King of the Dead, therefore,
 never holds office for more than twelve months, since during that period
@@ -1744,27 +1744,27 @@ the dead, is represented as playing a role parallel to that of the
 Breton *Ankou*, when he goes forth with his fierce hades-hounds hunting
 the souls of the dying. (Cf. Rhy^s, *Arth. Leg*., p. 155).
 
-<span id="fn_104"></span>[218:2](ffcc126.htm#fr_111) Cf. A. Le Bras, *La
+<span id="fn_104"></span>[218:2](ffcc126.htm#fr_111.md) Cf. A. Le Bras, *La
 Légende de is Mort*; Introduction by L. Marillier (Paris, 1893), pp. 31,
 40.
 
-<span id="fn_105"></span>[219:1](ffcc126.htm#fr_119) Cf. Le Braz, *La
+<span id="fn_105"></span>[219:1](ffcc126.htm#fr_119.md) Cf. Le Braz, *La
 Légende de la Mort;* Introduction by Marillier, pp. 47, 46, 7-8, 40, 45,
 46.
 
-<span id="fn_106"></span>[220:1](ffcc126.htm#fr_120) Cf. Le Bras, *La
+<span id="fn_106"></span>[220:1](ffcc126.htm#fr_120.md) Cf. Le Bras, *La
 Légende de la Mort*; Introduction by Marillier, p. 43.
 
-<span id="fn_107"></span>[220:2](ffcc126.htm#fr_122) Ib.; Notes by G.
+<span id="fn_107"></span>[220:2](ffcc126.htm#fr_122.md) Ib.; Notes by G.
 Dottin (Paris, 1902), p. 44.
 
-<span id="fn_108"></span>[220:3](ffcc126.htm#fr_123) Ib.; Introduction
+<span id="fn_108"></span>[220:3](ffcc126.htm#fr_123.md) Ib.; Introduction
 by Marillier, pp. 19, 23, 68.
 
-<span id="fn_109"></span>[220:4](ffcc126.htm#fr_125) Cf. Ib.;
+<span id="fn_109"></span>[220:4](ffcc126.htm#fr_125.md) Cf. Ib.;
 Introduction by Marillier.
 
-<span id="fn_110"></span>[221:1](ffcc126.htm#fr_126) A Breton night's
+<span id="fn_110"></span>[221:1](ffcc126.htm#fr_126.md) A Breton night's
 entertainment held in a peasant's cottage, stable, or other warm
 outhouse. In parts of the Morbihan and of Finistère where the old Celtic
 life has escaped modern influences. almost every winter the Breton Celts
@@ -1773,11 +1773,11 @@ id="page_222">p. 222</span> Ireland and in the Western Hebrides, find
 their chief enjoyment in story-telling festivals, some of which I have
 been privileged to attend.
 
-<span id="fn_111"></span>[223:1](ffcc126.htm#fr_127) The word in the
+<span id="fn_111"></span>[223:1](ffcc126.htm#fr_127.md) The word in the
 manuscript is *boiteux*, and in relation to a devil or demon this seems
 to be a proper rendering.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Anthropological Examination of the
-Evidence](ffcc130)
+Evidence](ffcc130.md)

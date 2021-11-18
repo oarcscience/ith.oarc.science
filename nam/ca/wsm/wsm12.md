@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](wsm11)  [Next](wsm13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](wsm11)  [Next](wsm13.md) 
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ This is the way Eva had her first children. Coyote was the father.
 
 ------------------------------------------------------------------------
 
-[Next: The Origin Of People (Big Smoky Valley, Nevada. Shoshoni)](wsm13)
+[Next: The Origin Of People (Big Smoky Valley, Nevada. Shoshoni)](wsm13.md)

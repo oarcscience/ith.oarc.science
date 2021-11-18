@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](aec05)  [Next](aec07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](aec05)  [Next](aec07.md) 
 
 ------------------------------------------------------------------------
 
@@ -180,7 +180,7 @@ which are transformed into energy, vitality and magnetism; these in turn
 sustain the spiritual body. Obviously, judicious eating, drinking and
 breathing habits are essential. But of vitally greater importance are
 the quality of thoughts, desires and aspirations habitually entertained;
-for these are the [molders](errata.htm#2) of the spirit body making it
+for these are the [molders](errata.htm#2.md) of the spirit body making it
 either beautiful or ugly. Thoughts even leave their impress upon the
 physical body, for how a man thinks is written on his face.
 
@@ -223,7 +223,7 @@ by those entrusted with their education.
 
 Over two thousand years ago Socrates warned his followers against the
 dangers of indiscriminate partaking of mental food. Socrates, in his
-[Protagoras](errata.htm#3), admonishes one of his disciples against the
+[Protagoras](errata.htm#3.md), admonishes one of his disciples against the
 practice of committing his mind to one of whom he knew nothing, nor what
 he had to offer in knowledge.
 
@@ -349,4 +349,4 @@ eternity now.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Unity](aec07)
+[Next: IV. Unity](aec07.md)

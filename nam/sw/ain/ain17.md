@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain16)  [Next](ain18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain16)  [Next](ain18.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,7 +13,7 @@ There is a suggestion of Thor in the Story of Wayhohm, and also of
 Prometheus. Wayhohm's house must have been the hall of the clouds.
 
 How true to nature, here, is the touch describing the Coyote-person,
-Toehahvs. The [excessive](errata.htm#12) caution of the coyote, making
+Toehahvs. The [excessive](errata.htm#12.md) caution of the coyote, making
 it impossible for him, however eager, to force himself into any position
 be suspects, here stands out before us, contrasted in the most dramatic
 way with the dashing boldness of the road-runner.
@@ -45,4 +45,4 @@ It looked very simple, and took little time, but I never could do it.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Hawawk](ain18)
+[Next: The Story of Hawawk](ain18.md)

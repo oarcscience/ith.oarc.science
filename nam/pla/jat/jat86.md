@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat85)  [Next](jat87) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat85)  [Next](jat87.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ ache.
 
 ------------------------------------------------------------------------
 
-[Next: 85. Ceremony For an Infant](jat87)
+[Next: 85. Ceremony For an Infant](jat87.md)

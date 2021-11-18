@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index)  [Wisdom
-of the East](../../woe/index)  [Index](index)  [Previous](wois35) 
-[Next](wois37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md)  [Wisdom
+of the East](../../woe/index)  [Index](index)  [Previous](wois35.md) 
+[Next](wois37.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of Israel*, by Edwin Collins, \[1910\], at Intangible
 Textual Heritage
 
@@ -17,11 +17,11 @@ Textual Heritage
 
 ### THE FATHER'S VOICE
 
-R. Joshua, the Cohen, <span id="fr_16"></span>[\*](#fn_15) son of
+R. Joshua, the Cohen, <span id="fr_16"></span>[\*](#fn_15.md) son of
 Nehemiah, says: At the time when the Holy One, blessed be He, revealed
 Himself to Moses, it was only by the tyrannic compulsion of the spirit
 of prophecy that Moses became a prophet. <span
-id="fr_17"></span>[†](#fn_16)
+id="fr_17"></span>[†](#fn_16.md)
 
 The Holy One said: "If I reveal Myself to him in a great and mighty
 voice, I shall cause him to tremble; if with a soft voice, he will doubt
@@ -40,10 +40,10 @@ One: "I am not thy father, but the God of thy father."
 
 ### Footnotes
 
-<span id="fn_15"></span>[55:\*](wois36.htm#fr_16) *Cohen*,
+<span id="fn_15"></span>[55:\*](wois36.htm#fr_16.md) *Cohen*,
 priest—descendant of Aaron.
 
-<span id="fn_16"></span>[55:†](wois36.htm#fr_17) *i.e.*, Moses was a
+<span id="fn_16"></span>[55:†](wois36.htm#fr_17.md) *i.e.*, Moses was a
 meek man, timid and retiring by nature, and did not seek the honour of
 being a leader of men or a prophet.
 
@@ -51,6 +51,6 @@ being a leader of men or a prophet.
 
 ------------------------------------------------------------------------
 
-[Next: The Parable of the Two Ships](wois37)
+[Next: The Parable of the Two Ships](wois37.md)
 
 </div>

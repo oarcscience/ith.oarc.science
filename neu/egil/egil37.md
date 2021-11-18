@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil36)  [Next](egil38) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil36)  [Next](egil38.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ sometimes with Thorir.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XXXVII. The journey to Bjarmaland.](egil38)
+[Next: CHAPTER XXXVII. The journey to Bjarmaland.](egil38.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](scl02)  [Next](scl04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](scl02)  [Next](scl04.md) 
 
 ------------------------------------------------------------------------
 
@@ -392,4 +392,4 @@ manuscript.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](scl04)
+[Next: Part II](scl04.md)

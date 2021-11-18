@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](aflg10) [Next](aflg12)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](aflg10) [Next](aflg12.md)
 
 ------------------------------------------------------------------------
 
@@ -8,13 +8,13 @@ American](../index) [Index](index) [Previous](aflg10) [Next](aflg12)
 ## C<span class="small">HAPTER</span> XI THE SPIRITS OF THE MOUNTAIN
 
    <span class="small">Their presence due mainly to: Peculiarities in
-geological conformation, markings, etc. (*[171](#pp_171)*), for example,
-in legend of Kaieteur Fall (*[172](#pp_172)*), Rock-engravings
-(*[173](#pp_173)*); Actual Transformation of Sentient Beings into rocks
-and stones (*[174](#pp_174)*); Site of some long-past remarkable
-occurrence (*[175](#pp_175)-176*).</span>
+geological conformation, markings, etc. (*[171](#pp_171)*.md), for example,
+in legend of Kaieteur Fall (*[172](#pp_172)*.md), Rock-engravings
+(*[173](#pp_173)*.md); Actual Transformation of Sentient Beings into rocks
+and stones (*[174](#pp_174)*.md); Site of some long-past remarkable
+occurrence (*[175](#pp_175)-176*.md).</span>
 
-   <span id="pp_171"></span>**171.**[\*](#pp_171) The belief on the part
+   <span id="pp_171"></span>**171.**[\*](#pp_171.md) The belief on the part
 of the Indians in the presence of Mountain Spirits in certain localities
 would seem to have been due in large measure to one or another of three
 sets of causes: peculiarities in conformation, marking, position, and
@@ -25,7 +25,7 @@ that took place in the long-ago.
 
    There are an endless number and variety of Spirits connected with
 mountains, precipices, rocks, cataracts, etc. (cf. [Sect.
-*58*](aflg04.htm#pp_58)). South of the Takutu River is a mountain chain
+*58*](aflg04.htm#pp_58).md). South of the Takutu River is a mountain chain
 taking its name from a hill resembling a crescent in the distance,
 whence the Wapisianas have compared it to the moon (Kaira in their
 language), and designating it in consequence Kai-irite, or Mountains of
@@ -100,9 +100,9 @@ class="small">II</span>, 265).
 
 <span id="page_237">p. 237</span>
 
-   <span id="pp_172"></span>**172.**[\*](#pp_172) Another example of
+   <span id="pp_172"></span>**172.**[\*](#pp_172.md) Another example of
 this series of cases is the legend relative to the calebrated Kaieteur
-Fall (<span id="pl4"></span>[pl. 4](pl4)), which I give here in the
+Fall (<span id="pl4"></span>[pl. 4](pl4).md), which I give here in the
 words of Barrington Brown (Bro, 214), the discoverer of this
 wonder-spot:
 
@@ -127,7 +127,7 @@ wonder-spot:
 > pegall or canister. Thus has the fall been named Kaieteur in memory of
 > the victim of this tragic event.
 
-   <span id="pp_173"></span>**173.**[\*](#pp_173) The remarkable
+   <span id="pp_173"></span>**173.**[\*](#pp_173.md) The remarkable
 petroglyphs, scattered through tha Guianas, to which so many travelers
 have drawn attention, are in the same way credited with a supernatural
 origin. Thus Schomburgk relates, when at the Waraputa Rapids: "I was
@@ -147,13 +147,13 @@ Oyapock, the rock-carvings were claimed by the Portuguese to represent
 the coat-of-arms of Charles V when they had a dispute with the French
 over their boundary line (Cr, 145).
 
-   <span id="pp_174"></span>**174.**[\*](#pp_174) The existence has been
-shown ([Sect. *58*](aflg04.htm#pp_58)) of a belief in the origin of
+   <span id="pp_174"></span>**174.**[\*](#pp_174.md) The existence has been
+shown ([Sect. *58*](aflg04.htm#pp_58).md) of a belief in the origin of
 human and animal life from rocks or stones and in the transformation of
 such sentient beings into the inorganic material similar to that from
 which they have sprung. This transformation is regarded not only as a
 natural departure from the normal course of events; but also in the
-light of a punishment ([Sect. *67*](aflg05.htm#pp_67)). At Aramayka, a
+light of a punishment ([Sect. *67*](aflg05.htm#pp_67).md). At Aramayka, a
 settlement on the Mazaruni, close to Karamang River, the cliffs of
 Mara-biacru become visible to the height of about one thousand feet,
 with perpendicular faces on the north. A remarkable detached peaked
@@ -161,12 +161,12 @@ with perpendicular faces on the north. A remarkable detached peaked
 is called the Caribisce. The legend says it is a man of that nation
 turned into stone for attempting to scale the cliff (HiA, 32). The
 Nation of Stone-adzes, where all the people are really stones, has been
-mentioned ([Sect. *158*](aflg09.htm#pp_158)). But however produced,
+mentioned ([Sect. *158*](aflg09.htm#pp_158).md). But however produced,
 these inorganic objects with human instincts, powers, and ideas, so to
 speak, all play a more or less important part on the world's stage.
 Thus, a rugged rock, a real good friend, comes and quells the fountain
 which threatens to overwhelm the nation ([BrB,
-106](../lmbg/lmbg3b.htm#page_106)). In those cases in which the
+106](../lmbg/lmbg3b.htm#page_106).md). In those cases in which the
 transformation is the result of punishment it might only be expected
 that the propensities of such rocks and stones would be directed into
 channels other than good. Perhaps it was some idea similar to this which
@@ -188,7 +188,7 @@ for when questioned about it, they only laughed (Bro, 276). (In the Gran
 Chaco, the Indians, on going over a pass, will place a stone on the
 ground, so that they will not get tired on the way (Nor, 12).)
 
-   <span id="pp_175"></span>**175.**[\*](#pp_175) Again, just as in the
+   <span id="pp_175"></span>**175.**[\*](#pp_175.md) Again, just as in the
 Old World, the scene of some tragedy, apparition, or of any untoward
 event—real or imaginary—may ultimately assume by the addition of tale
 and fable a halo of reputed sanctity, so may many a local feature of
@@ -222,7 +222,7 @@ numerous as quails (BW, 225). Another Indian in the same neighborhood
 objected to camping near what he believed to be the cave of a celebrated
 "water-mama," near which it was dangerous to sleep (BW, 210).
 
-   <span id="pp_176"></span>**176.**[\*](#pp_176) Sometimes the facts of
+   <span id="pp_176"></span>**176.**[\*](#pp_176.md) Sometimes the facts of
 the original occurrence have been lost sight of and only a memory
 remains, but this memory is grafted on the minds of the Indians
 apparently in the form of a Spirit, if we are to judge by the procedures
@@ -231,7 +231,7 @@ approached too closely, nor pointed to and sometimes not even looked at,
 or spoken of. Although it is permissible to single out a person by a nod
 with the head, to point the finger at a fellow-creature is to offer him
 as serious an affront as it would be to step over him when he is lying
-on the ground ([Sect. *72*](aflg05.htm#pp_72)); in the latter case he
+on the ground ([Sect. *72*](aflg05.htm#pp_72).md); in the latter case he
 would tell you that he is not dead yet, and that you must wait until he
 is. To point the finger at a Spirit must necessarily be a much more
 serious matter. We have the Old Man's Rock in the Essequibo, which a
@@ -243,7 +243,7 @@ river, concerning which the natives entertain a most curious
 superstition. They believe that if any individual points at this rock a
 heavy storm will immediately overtake him for his audacity (StC, <span
 class="small">II</span>, 37). The dangers consequent upon talking about
-Spirits have already been dealt with ([Sect. *124*](aflg08.htm#pp_124)),
+Spirits have already been dealt with ([Sect. *124*](aflg08.htm#pp_124).md),
 hence the following allusion from im Thurn is of interest: "In very dry
 seasons, when the water in the rivers is low, the rocks in their beds
 are seen to have a curious glazed, vitrified and black appearance, due
@@ -254,8 +254,8 @@ would vex these rocks and cause them to send misfortune" (IT, 354). The
 most curious, however, of all the procedures indicative of a Spirit's
 presence somewhere in the immediate neighborhood is that which concerns
 the sense of sight; several examples of this temporary occlusion of
-vision are recorded elsewhere ([Sect. *252*](aflg15.htm#pp_252)).
+vision are recorded elsewhere ([Sect. *252*](aflg15.htm#pp_252).md).
 
 ------------------------------------------------------------------------
 
-[Next](aflg12)
+[Next](aflg12.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm28)  [Next](pnm30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm28)  [Next](pnm30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Laurence ed. \[1913\], at Intangible Textual Heritage
 <span class="smallcaps">Again</span> thou must consider that the Virtues
 of things are in some things in the whole (*i. e.*), the whole substance
 of them, or in all their parts, as that little fish echeneis, <span
-id="fr_17"></span>[\*](#fn_17) which is said to stop a ship by its mere
+id="fr_17"></span>[\*](#fn_17.md) which is said to stop a ship by its mere
 touch; this it doth not do according to any particular part, but
 according to the whole substance. So the civet cat hath this in its
 whole substance, that dogs, by the very touch of his shadow, hold their
@@ -82,7 +82,7 @@ not cleared by reason, but by experience.
 
 ### Footnotes
 
-<span id="fn_17"></span>[86:\*](pnm29.htm#fr_17) The belief that the
+<span id="fn_17"></span>[86:\*](pnm29.htm#fr_17.md) The belief that the
 Echeneis, a fish of the Remora or Sucker family, has the power of
 stopping ships was formerly quite prevalent. In Goodwin's translation of
 Plutarch's Morals, volume three, we find the following story:
@@ -114,4 +114,4 @@ ships on the ocean.
 
 [Next: Chapter XXI. Of the Virtues of Things Which Are in Them Only in
 Their Life Time, and Such as Remain in Them Even After Their
-Death](pnm30)
+Death](pnm30.md)

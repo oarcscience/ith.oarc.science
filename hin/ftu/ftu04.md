@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ftu03)  [Next](ftu05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ftu03)  [Next](ftu05.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_hin.jpg)](index)  
+[![](../img/tn_hin.jpg)](index.md)  
 *From the Upanishads*, by Charles Johnston, \[1899\], at Intangible
 Textual Heritage
 
@@ -356,4 +356,4 @@ builds for endlessness.
 
 ------------------------------------------------------------------------
 
-[Next: In the House of Death, Second Part](ftu05)
+[Next: In the House of Death, Second Part](ftu05.md)

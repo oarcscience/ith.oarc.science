@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg05)  [Next](cdg07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg05)  [Next](cdg07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
 
 <span id="img_06700"></span> <span align="CENTER"> [![GREEK COIN, 350
 B.C., FROM PHENEUS IN ARCADIA. BRITISH MUSEUM.](tn/06700.jpg)  
-Click to enlarge](img/06700.jpg)  
+Click to enlarge](img/06700.jpg.md)  
 GREEK COIN, 350 B.C., FROM PHENEUS IN ARCADIA. BRITISH MUSEUM.  
 </span>
 
@@ -39,7 +39,7 @@ evolution of the Solar Principle in man.
 Upon his left arm Hermes bears the  
 Infant Bacchus, the Redeemer.  
 COMPARE BACCHUS AND OSIRIS,  
-[NOTE Q](cdg27.htm#an_Q), COMMENTARY  
+[NOTE Q](cdg27.htm#an_Q.md), COMMENTARY  
 CONTINUED, FOR IDENTITY OF  
 THE INNER TRUTH OF  
 THE GREEK AND  
@@ -49,4 +49,4 @@ RELIGIONS
 
 ------------------------------------------------------------------------
 
-[Next: Discourse III](cdg07)
+[Next: Discourse III](cdg07.md)

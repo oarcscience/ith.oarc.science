@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Legends and Sagas](../index) 
-[Index](index)  [Previous](tale19)  [Next](tale21) 
+[Sacred-Texts](../../index)  [Legends and Sagas](../index.md) 
+[Index](index)  [Previous](tale19)  [Next](tale21.md) 
 
 ------------------------------------------------------------------------
 
@@ -367,4 +367,4 @@ the rest of the company arrived, when he caused set on food and they ate
 and drank and made merry. Then Sindbad the Seaman bespake them and
 related to them the narrative of
 
-(*Next*) [THE FOURTH VOYAGE OF SINDBAD THE SEAMAN](tale21)  
+(*Next*) [THE FOURTH VOYAGE OF SINDBAD THE SEAMAN](tale21.md)  

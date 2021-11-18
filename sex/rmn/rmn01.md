@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn00)  [Next](rmn02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn00)  [Next](rmn02.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,7 +179,7 @@ in public processions, and the worship of this emblem of conjugal love
 soon became general in Egypt. Herodotus speaks of a famous feast among
 the Egyptians and Greeks, which he designates by the name of Φαλλαγώγια
 or Περιφαλλέα, 'the feast of the phallus, (II. 48, 49,) <span
-id="fr_0"></span>[1](#fn_0) and adds that women suspended to their neck
+id="fr_0"></span>[1](#fn_0.md) and adds that women suspended to their neck
 little figures representing the organ of virility. Osiris became, in the
 mind of the people, the symbol of the sun, the principle of fire, the
 generator of all nature, and it is remarkable, in fact, that all ancient
@@ -248,7 +248,7 @@ Dionysia. In the latter a pig and in the former a he-goat was
 sacrificed.
 
 Lupercalia, derived from *lupus*, because the dog, another emblem of the
-*phallus*, is the enemy of the wolf <span id="fr_1"></span>[1](#fn_1).
+*phallus*, is the enemy of the wolf <span id="fr_1"></span>[1](#fn_1.md).
 
 <span id="page_xvi">p. xvi</span>
 
@@ -367,7 +367,7 @@ either too timid or too insensible, she died of grief The gods took pity
 on the unhappy woman, raised her to life again and united her with her
 lover by confounding their sexes, "so that they can neither be said to
 be woman or boy; and seem both neither and either." <span
-id="fr_2"></span>[1](#fn_2)
+id="fr_2"></span>[1](#fn_2.md)
 
 This singular being, at the same time man and woman, was called
 hermaphrodite, from *Hermes*, the Greek name of Mercury, and
@@ -470,7 +470,7 @@ adds that these men are half savage and have nothing human except the
 face; and he says elsewhere it has often happened that fires have been
 seen to glow during the night in the mountains of Mauritania, beyond
 Atlas, and that the noise of cymbals and pipes has been heard whilst in
-the daytime nothing was [discovered](errata.htm#0) there; whence it
+the daytime nothing was [discovered](errata.htm#0.md) there; whence it
 follows positively that they are Faun and Satyrs."
 
 Such are the absurdities which were repeated in the sixteenth century!
@@ -721,7 +721,7 @@ deserted city; everything in it bears the impress of profound sadness;
 we should say in a word that the walls plunged for so long a time in the
 night of the tomb, can no longer bear the light of day.
 
-The Neapolitan government <span id="fr_3"></span>[1](#fn_3) has reserved
+The Neapolitan government <span id="fr_3"></span>[1](#fn_3.md) has reserved
 to itself the exclusive right of
 
 <span id="page_xxv">p. xxv</span>
@@ -796,9 +796,9 @@ It is in places like these that erotic paintings have been discovered.
 The use of obscene representations was frequent in antiquity. There were
 few houses without some of those lascivious paintings which the Greeks
 called *grylli* and the Latins *libidines*. <span
-id="fr_4"></span>[1](#fn_4) Two painters, Polignotes and Parrhasius, are
+id="fr_4"></span>[1](#fn_4.md) Two painters, Polignotes and Parrhasius, are
 often referred to by Pausanias and Pliny as having excelled in this kind
-of composition. <span id="fr_5"></span>[2](#fn_5)
+of composition. <span id="fr_5"></span>[2](#fn_5.md)
 
 Several paintings on marble have been discovered; but those which form
 the subject of this book are frescoes which decorated the walls of
@@ -897,29 +897,29 @@ has shewn itself in its purity.
 
 ### Footnotes
 
-<span id="fn_0"></span>[xiv:1](rmn01.htm#fr_0) The priests charged with
+<span id="fn_0"></span>[xiv:1](rmn01.htm#fr_0.md) The priests charged with
 carrying the phallus were called *phallophores*; and this was a dignity
 much sought after.
 
-<span id="fn_1"></span>[xv:1](rmn01.htm#fr_1) There was in Egypt a
+<span id="fn_1"></span>[xv:1](rmn01.htm#fr_1.md) There was in Egypt a
 country named Lycopolis, where wolves were worshipped. Tradition,
 according to Diodorus, said that Isis and Horus, her son, preparing to
 give battle to Typhon, Osiris returned from Hades in the shape of a
 wolf, and aided them in their enterprise. Might not this be the real
 origin of the *Lupercalia*?
 
-<span id="fn_2"></span>[xviii:1](rmn01.htm#fr_2) OVID.
+<span id="fn_2"></span>[xviii:1](rmn01.htm#fr_2.md) OVID.
 
-<span id="fn_3"></span>[xxiv:1](rmn01.htm#fr_3) The original was
+<span id="fn_3"></span>[xxiv:1](rmn01.htm#fr_3.md) The original was
 published in 1857.
 
-<span id="fn_4"></span>[xxvi:1](rmn01.htm#fr_4) Grylli, from γρύλλος, a
+<span id="fn_4"></span>[xxvi:1](rmn01.htm#fr_4.md) Grylli, from γρύλλος, a
 pig. The etymology of libidines requires no explanation.
 
-<span id="fn_5"></span>[xxvi:2](rmn01.htm#fr_5) PLINY, xxxv. 7, 10;
+<span id="fn_5"></span>[xxvi:2](rmn01.htm#fr_5.md) PLINY, xxxv. 7, 10;
 xxxvi. 5. PROPERT. *Eleg*. II. &C., MARTIAL, EPIG. xii. SUETON. xliii.
 2. 12 & 13. PAUSANIAS, Description of Greece.
 
 ------------------------------------------------------------------------
 
-[Next: Plate I: The Satyr and the Goat](rmn02)
+[Next: Plate I: The Satyr and the Goat](rmn02.md)

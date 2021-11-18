@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd22)  [Next](odd24) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd22)  [Next](odd24.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,9 +42,9 @@ At news of this the Ranee did not know what to do. She was so foolishly
 fond of Muchie-Rajah, however, that she resolved to get him a wife at
 any cost. Again she sent out messengers; but this time she gave them a
 great bag containing a lac of gold mohurs,  <span
-id="fr_69"></span>[1](#fn_69) and said to them, 'Go into every land
+id="fr_69"></span>[1](#fn_69.md) and said to them, 'Go into every land
 until you find a wife for my Muchie-Rajah, and to whoever will give you
-a child to be the Muchie-Ranee,  <span id="fr_70"></span>[2](#fn_70) you
+a child to be the Muchie-Ranee,  <span id="fr_70"></span>[2](#fn_70.md) you
 shall give this bag of gold mohurs.' The messengers started on their
 search, but for some time they were unsuccessful: not even the beggars
 were to be tempted to sell their children, fearing the great fish would
@@ -196,10 +196,10 @@ Meantime, the Muchie-Ranee, not knowing how to get home, continued to
 live in the great Seven-headed Cobra's hole, and he and his wife and all
 his family were very kind to her, and loved her as if she had been one
 of themselves; and there her little son was born, and she called him
-Muchie-Lal  <span id="fr_71"></span>[3](#fn_71) after the Muchie Rajah,
+Muchie-Lal  <span id="fr_71"></span>[3](#fn_71.md) after the Muchie Rajah,
 his father. Muchie-Lal was a lovely child, merry and brave, and his
 playmates all day long were the young Cobras.  <span
-id="fr_72"></span>[4](#fn_72) When he was about three years old, a
+id="fr_72"></span>[4](#fn_72.md) When he was about three years old, a
 Bangle-seller came by tha way, and the Muchie-Ranee bought some bangles
 from him and put them on her boy's wrists and ankles; but by next day,
 in playing, he had broken them all. Then, seeing the Bangle-seller the
@@ -271,15 +271,15 @@ happy ever after, and so may you be happy too.
 
 ### Footnotes
 
-<span id="fn_69"></span>[1](odd23.htm#fr_69) A lac of gold mohurs is
+<span id="fn_69"></span>[1](odd23.htm#fr_69.md) A lac of gold mohurs is
 equal to £150,000.
 
-<span id="fn_70"></span>[2](odd23.htm#fr_70) Fish Queen.
+<span id="fn_70"></span>[2](odd23.htm#fr_70.md) Fish Queen.
 
-<span id="fn_71"></span>[3](odd23.htm#fr_71) Little ruby fish.
+<span id="fn_71"></span>[3](odd23.htm#fr_71.md) Little ruby fish.
 
-<span id="fn_72"></span>[4](odd23.htm#fr_72) See Notes.
+<span id="fn_72"></span>[4](odd23.htm#fr_72.md) See Notes.
 
 ------------------------------------------------------------------------
 
-[Next: XX. Chundun Rajah](odd24)
+[Next: XX. Chundun Rajah](odd24.md)

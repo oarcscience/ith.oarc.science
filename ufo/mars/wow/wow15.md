@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](wow14)  [Next](wow16) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](wow14)  [Next](wow16.md) 
 
 ------------------------------------------------------------------------
 
@@ -287,4 +287,4 @@ flight.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Sixteen: The Exodus From London](wow16)
+[Next: Chapter Sixteen: The Exodus From London](wow16.md)

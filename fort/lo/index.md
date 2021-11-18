@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P889G/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P889G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P889G/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](lo00)    [Page
-Index](pageidx)    [Text \[Zipped\]](lo.txt.gz)
+[Contents](#contents)    [Start Reading](lo00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](lo.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -80,48 +80,48 @@ I think, Mr. Fort is a bit less grumpy...
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](lo00)  
+<span id="contents"></span> [Title Page](lo00.md)  
 <span id="section_000"></span>
 
 ### Part I
 
-[1](lo01)  
-[2](lo02)  
-[3](lo03)  
-[4](lo04)  
-[5](lo05)  
-[6](lo06)  
-[7](lo07)  
-[8](lo08)  
-[9](lo09)  
-[10](lo10)  
-[11](lo11)  
-[12](lo12)  
-[13](lo13)  
-[14](lo14)  
-[15](lo15)  
-[16](lo16)  
-[17](lo17)  
-[18](lo18)  
-[19](lo19)  
+[1](lo01.md)  
+[2](lo02.md)  
+[3](lo03.md)  
+[4](lo04.md)  
+[5](lo05.md)  
+[6](lo06.md)  
+[7](lo07.md)  
+[8](lo08.md)  
+[9](lo09.md)  
+[10](lo10.md)  
+[11](lo11.md)  
+[12](lo12.md)  
+[13](lo13.md)  
+[14](lo14.md)  
+[15](lo15.md)  
+[16](lo16.md)  
+[17](lo17.md)  
+[18](lo18.md)  
+[19](lo19.md)  
 <span id="section_001"></span>
 
 ### Part II
 
-[20](lo20)  
-[21](lo21)  
-[22](lo22)  
-[23](lo23)  
+[20](lo20.md)  
+[21](lo21.md)  
+[22](lo22.md)  
+[23](lo23.md)  
 <span id="section_002"></span>
 
 ### Part III
 
-[24](lo24)  
-[25](lo25)  
-[26](lo26)  
-[27](lo27)  
-[28](lo28)  
-[29](lo29)  
-[30](lo30)  
-[31](lo31)  
-[32](lo32)  
+[24](lo24.md)  
+[25](lo25.md)  
+[26](lo26.md)  
+[27](lo27.md)  
+[28](lo28.md)  
+[29](lo29.md)  
+[30](lo30.md)  
+[31](lo31.md)  
+[32](lo32.md)  

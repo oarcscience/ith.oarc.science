@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil42)  [Next](egil44) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil42)  [Next](egil44.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ equipt, and went on their way as had been agreed.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER XLIII. Of Aulvir and Egil.](egil44)
+[Next: CHAPTER XLIII. Of Aulvir and Egil.](egil44.md)

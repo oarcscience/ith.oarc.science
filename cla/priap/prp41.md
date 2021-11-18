@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp40)  [Next](prp42) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp40)  [Next](prp42.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,4 +29,4 @@ shape to that fruit.\]
 ------------------------------------------------------------------------
 
 [Next: 42. Bailiff Aristagoras of his grapes high-pedigree'd
-boasting](prp42)
+boasting](prp42.md)

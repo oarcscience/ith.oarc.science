@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sdr07)  [Next](sdr09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sdr07)  [Next](sdr09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662308/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Secret Doctrine of the Rosicrucians*, by Magus Incognito, \[1918\],
 at Intangible Textual Heritage
 
@@ -58,7 +58,7 @@ and, of course, Mind is naught
 
 <span id="img_fig10"></span> <span align="CENTER"> [![Figure 10. Symbol
 of the Seven Planes of Consciousness](tn/fig10.jpg)  
-Click to enlarge](img/fig10.jpg)  
+Click to enlarge](img/fig10.jpg.md)  
 Figure 10. Symbol of the Seven Planes of Consciousness  
 </span>
 
@@ -230,7 +230,7 @@ is given a passing hint regarding a subject of tremendous importance.
 #### III. The Plane of the Plants
 
 On this plane of Consciousness are manifested the actions and reactions
-of the [protoplasmic](errata.htm#11) cells of
+of the [protoplasmic](errata.htm#11.md) cells of
 
 <span id="page_92">p. 92</span>
 
@@ -248,7 +248,7 @@ which the best authorities regard as the "missing link" between the two
 great kingdoms of Life and Consciousness, but which really are plants
 rather than minerals. The Diatoms belong to an order of flowerless
 plants, a genus of the Algols. They are covered by a
-[siliceous](errata.htm#12) covering which gives them a crystalline
+[siliceous](errata.htm#12.md) covering which gives them a crystalline
 appearance. They present the appearance of crystalline fragmentary
 particles, generally bounded by right lines, flat, stiff and brittle,
 usually nestling in slime in which they unite into various forms and
@@ -427,7 +427,7 @@ respect, there is small difference between the lower animals and
 plants."
 
 One of the most elementary manifestations of
-[consciousness](errata.htm#13), and conscious action, in plant life is
+[consciousness](errata.htm#13.md), and conscious action, in plant life is
 what has been called "the gravity sense," or the sense by which the
 plant recognizes the "up and down" direction of growth. The germinating
 seed always sends its roots downward, no matter how the seed may be
@@ -872,7 +872,7 @@ the Mammals proceeded.
 Among the **Placentals**, are found the following sub-families: The
 **Edentata**, or toothless creatures, such as the sloths, ant-eaters,
 armadillos, etc.; the **Sirena**, or sea cows,
-[manatees](errata.htm#14), dugongs, etc.; the **Cetacea**, or whales,
+[manatees](errata.htm#14.md), dugongs, etc.; the **Cetacea**, or whales,
 dolphins, porpoises, etc., which resemble fishes but which are true
 mammals, bringing forth matured young which are nourished at the breast;
 the **Ungluta**, or hoofed animals, such as the horse, the cow, the
@@ -894,7 +894,7 @@ or Lemur family, the individuals of which resemble a monkey in general
 appearance, but have in addition a long bushy tail and a sharp muzzle
 like a fox—they are like a small fox having hands and feet like a
 monkey; the **Primates**, or family of creatures like the monkey,
-[baboon](errata.htm#15), man-apes, gibbons, gorillas, chimpanzees,
+[baboon](errata.htm#15.md), man-apes, gibbons, gorillas, chimpanzees,
 orang-outang, and finally, the "connecting links" between the apish
 forms and Man.
 
@@ -989,4 +989,4 @@ consideration of the two still higher Planes of Consciousness known as
 
 ------------------------------------------------------------------------
 
-[Next: Part VIII. The Three Higher Planes of Consciousness](sdr09)
+[Next: Part VIII. The Three Higher Planes of Consciousness](sdr09.md)

@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gpu13)  [Next](gpu15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gpu13)  [Next](gpu15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16PNW/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Garuda Purana*, by Ernest Wood and S.V. Subrahmanyam, \[1911\], at
 Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ the departed.
 
 4\. Even a preceptor should become purified by bathing, and performing
 the *Sandhyā* and other ceremonies <span
-id="fr_119"></span>[1](#fn_117); one should do the eleventh-day
+id="fr_119"></span>[1](#fn_117.md); one should do the eleventh-day
 ceremony, as prescribed.
 
 5\. One should perform the tenth-day Śrāddha in the family name, without
@@ -65,12 +65,12 @@ one should place Yama, clad in black robes.
 
 11-13. The son, having made a circle in the middle, and placed therein
 kuśa-grass, facing southward, with the sacred thread over the right
-shoulder <span id="fr_120"></span>[1](#fn_118), should make the
+shoulder <span id="fr_120"></span>[1](#fn_118.md), should make the
 water-offering.
 
 He should make water-offering, with Vaidic mantras, to Viṣṇu, to the
-creator <span id="fr_121"></span>[2](#fn_119), to Śiva and to
-Justice, <span id="fr_122"></span>[3](#fn_120) perform the offering to
+creator <span id="fr_121"></span>[2](#fn_119.md), to Śiva and to
+Justice, <span id="fr_122"></span>[3](#fn_120.md) perform the offering to
 the fire and then the eleventh-day Śrāddha,
 
 And he should next make a gift of a cow for the helping along of his
@@ -101,12 +101,12 @@ With these words it should be given to a Brāhmiṇ preceptor who has a
 family; so going round him he should salute him and present it.
 
 20\. By this gift of the bed, and Śrāddhas of the ninth and other days,
-and by the [rite](errata.htm#9) of the dedication of a bull, the
+and by the [rite](errata.htm#9.md) of the dedication of a bull, the
 departed goes to the highest condition.
 
 <span id="page_106">p. 106</span>
 
-21-30. On the eleventh day the [rite](errata.htm#10) of the dedication
+21-30. On the eleventh day the [rite](errata.htm#10.md) of the dedication
 of a bull should be performed as prescribed. He should not use a cow
 which is crippled, ill or too young, but one having well-marked
 characteristics.
@@ -130,7 +130,7 @@ That which has one colour over all its limbs and tail and hoofs is
 called dark-brown, and is the uplifter of the ancestors.
 
 That which is dove-coloured and has a tilaka-mark <span
-id="fr_123"></span>[1](#fn_121) on its forehead is called deep-brown,
+id="fr_123"></span>[1](#fn_121.md) on its forehead is called deep-brown,
 and is entirely beautiful in all its limbs.
 
 That which is dark over all its body, and red in its eyes, is called
@@ -193,7 +193,7 @@ will give release to the departed."
 The man who has no son, doing it himself, goes easily to the highest
 condition.
 
-44-45. In the month of Kārtika <span id="fr_124"></span>[1](#fn_122) and
+44-45. In the month of Kārtika <span id="fr_124"></span>[1](#fn_122.md) and
 in other auspicious months, when the sun is going north, in the bright
 fortnight, or the dark on the twelfth and following days,
 
@@ -254,21 +254,21 @@ the funeral pyre; in the hand of the corpse; and at the collection of
 the bones;--these six, and the ten piṇḍas given in the ten days:--
 
 These first sixteen are called impure. And next I will tell you about
-the second, the [middle](errata.htm#11), sixteen:--
+the second, the [middle](errata.htm#11.md), sixteen:--
 
 30-64. One should offer the first rice-ball to Viṣṇu, the second to the
 blessed Śiva; one should present the third to the retinue of Yama.
 
 The fourth to king Soma, the fifth to the bearer of oblations to the
-Shining Ones, <span id="fr_125"></span>[1](#fn_123) and the sixth to the
+Shining Ones, <span id="fr_125"></span>[1](#fn_123.md) and the sixth to the
 bearer of oblations to the forefather; the seventh one should present to
 Death;
 
 <span id="page_111">p. 111</span>
 
 The eighth one should give to Rudra, <span
-id="fr_126"></span>[1](#fn_124) the ninth to Puruṣa, <span
-id="fr_127"></span>[2](#fn_125) the tenth to the departed, and the
+id="fr_126"></span>[1](#fn_124.md) the ninth to Puruṣa, <span
+id="fr_127"></span>[2](#fn_125.md) the tenth to the departed, and the
 eleventh reverently to Viṣṇu;
 
 The twelfth one should give to Brahmā, the thirteenth to Viṣṇu, the
@@ -319,8 +319,8 @@ ricepowder, and worship with white sweet-smelling flowers and
 sandalpaste.
 
 One should offer a serpent incenses and lights, much strew rice and
-sesamum, and should dedicate <span id="fr_128"></span>[1](#fn_126)
-uncooked rice-flour, <span id="fr_129"></span>[2](#fn_127) eatables and
+sesamum, and should dedicate <span id="fr_128"></span>[1](#fn_126.md)
+uncooked rice-flour, <span id="fr_129"></span>[2](#fn_127.md) eatables and
 milk.
 
 One should offer a serpent made of gold, according to his means, and a
@@ -337,7 +337,7 @@ with food and water until the end of the year, or rice-balls with water
 regularly.
 
 80\. Having done this on the eleventh day he should then offer the
-rice-balls for all the ancestors, <span id="fr_130"></span>[1](#fn_128)
+rice-balls for all the ancestors, <span id="fr_130"></span>[1](#fn_128.md)
 and when free from pollution he should have made a gift of a bed and
 other gifts.
 
@@ -345,39 +345,39 @@ other gifts.
 
 ### Footnotes
 
-<span id="fn_117"></span>[103:1](gpu14.htm#fr_119) For an account of
+<span id="fn_117"></span>[103:1](gpu14.htm#fr_119.md) For an account of
 these ceremonies, see the *Daily Practice of the Hindus* by Mr. Sris
 Chandra Vasu, Panini Office, Allahabad.
 
-<span id="fn_118"></span>[104:1](gpu14.htm#fr_120) It is usually worn
+<span id="fn_118"></span>[104:1](gpu14.htm#fr_120.md) It is usually worn
 ever the left shoulder under the right arm, for this ceremony, he mast
 change it.
 
-<span id="fn_119"></span>[104:2](gpu14.htm#fr_121) Brahmā.
+<span id="fn_119"></span>[104:2](gpu14.htm#fr_121.md) Brahmā.
 
-<span id="fn_120"></span>[104:3](gpu14.htm#fr_122) Dharma or Yama.
+<span id="fn_120"></span>[104:3](gpu14.htm#fr_122.md) Dharma or Yama.
 
-<span id="fn_121"></span>[106:1](gpu14.htm#fr_123) Orthodox Hindus place
+<span id="fn_121"></span>[106:1](gpu14.htm#fr_123.md) Orthodox Hindus place
 a mark on the forehead to show caste and other things.
 
-<span id="fn_122"></span>[108:1](gpu14.htm#fr_124) Including the latter
+<span id="fn_122"></span>[108:1](gpu14.htm#fr_124.md) Including the latter
 part of October and the first part of November.
 
-<span id="fn_123"></span>[110:1](gpu14.htm#fr_125) That is Fire.
+<span id="fn_123"></span>[110:1](gpu14.htm#fr_125.md) That is Fire.
 
-<span id="fn_124"></span>[111:1](gpu14.htm#fr_126) Śiva.
+<span id="fn_124"></span>[111:1](gpu14.htm#fr_126.md) Śiva.
 
-<span id="fn_125"></span>[111:2](gpu14.htm#fr_127) The primeval man;
+<span id="fn_125"></span>[111:2](gpu14.htm#fr_127.md) The primeval man;
 Viṣṇu.
 
-<span id="fn_126"></span>[112:1](gpu14.htm#fr_128) The food is placed
+<span id="fn_126"></span>[112:1](gpu14.htm#fr_128.md) The food is placed
 near the image, and passes of the hands are made as though a influence
 it towards the image.
 
-<span id="fn_127"></span>[112:2](gpu14.htm#fr_129) Made into a ball,
+<span id="fn_127"></span>[112:2](gpu14.htm#fr_129.md) Made into a ball,
 usually with sugar and cocoanut.
 
-<span id="fn_128"></span>[113:1](gpu14.htm#fr_130) This ceremony is
+<span id="fn_128"></span>[113:1](gpu14.htm#fr_130.md) This ceremony is
 performed on the twelfth day, as it were in anticipation of the annual
 event. It is the ceremony for all the ancestors together.
 
@@ -386,6 +386,6 @@ event. It is the ceremony for all the ancestors together.
 ------------------------------------------------------------------------
 
 [Next: Chapter XIII. An Account of the Ceremony for all the
-Ancestors](gpu15)
+Ancestors](gpu15.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](log05)  [Next](log07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](log05)  [Next](log07.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@
 # JAHVIST, ELOHIST, JEHOVIST, THE LATER COLLECTIONS.
 
 THE collecting of legends began even in the state of oral tradition. In
-the preceding pages (see [p. 79](log04.htm#page_79) ff.) we have shown
+the preceding pages (see [p. 79](log04.htm#page_79) ff..md) we have shown
 how individual stories first attracted one another and greater complexes
 of legends were formed. Connecting portions were also composed by these
 collectors, such, notably, as the story of the birth of the sons of
@@ -60,7 +60,7 @@ further has distinguished
 <span id="page_125">p. 125</span>
 
 within these sources still other subordinate sources. <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 But in doing this there has been a neglect to raise with perfect
 clearness the primary question, how far these two groups of writings may
@@ -125,7 +125,7 @@ the covenant of Gilead (xxxi 52); in the story of Joseph, Reuben, who
 had disappeared in historical times, occupies the same position as does
 in J the much better known Judah of later times; the vocabulary of E
 whereby he avoids the name of Jahveh throughout Genesis, is based, as
-shown above (see page [92](log05.htm#page_92)) upon an early
+shown above (see page [92](log05.htm#page_92).md) upon an early
 reminiscence which is lacking in J; on the other hand, one cannot deny
 that this absolutely consistent avoidance of the name of Jahveh before
 the appearance of Moses shows the reflexion of theological influence,
@@ -388,7 +388,7 @@ Other characteristics of the collectors than these can scarcely be
 derived from Genesis. Of course, it would be easy to paint a concrete
 picture of J and E, if we venture to attribute to them whatever is to be
 found in their books. But this is forbidden by the very character of
-these men as collectors. <span id="fr_8"></span>[1](#fn_8)
+these men as collectors. <span id="fr_8"></span>[1](#fn_8.md)
 
 <span id="page_136">p. 136</span>
 
@@ -646,14 +646,14 @@ of "Deuteronomistic" style: xviii. 17-19; xxvi. 3<sub>b</sub>-5.
 
 ### Footnotes
 
-<span id="fn_7"></span>[125:1](log06.htm#fr_7) Such is the outcome
+<span id="fn_7"></span>[125:1](log06.htm#fr_7.md) Such is the outcome
 especially in Budde's *Urgeschichte*.
 
-<span id="fn_8"></span>[135:1](log06.htm#fr_8) If the reader cannot be
+<span id="fn_8"></span>[135:1](log06.htm#fr_8.md) If the reader cannot be
 satisfied with the little that we have given, he must at least be very
 much more cautious than, for instance, such a writer as Holzinger on the
 Hexateuch.
 
 ------------------------------------------------------------------------
 
-[Next: VI. Priestly Codex and Final Redaction](log07)
+[Next: VI. Priestly Codex and Final Redaction](log07.md)

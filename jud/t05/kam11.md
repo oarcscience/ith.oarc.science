@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](kam10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](kam10.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 5: Tracts Aboth, Derech Eretz-Rabba,
 Eretz-Zuta, and Baba Kama (First Gate)*, tr. by Michael L. Rodkinson,
 \[1918\], at Intangible Textual Heritage
@@ -64,7 +64,7 @@ inferred that it means a law which can be applied alike to all human
 cases.
 
 In the school of R. Ishmael it was taught: The Scripture reads \[ibid.,
-ibid. 20\]: "So should it be given <span id="fr_44"></span>[1](#fn_44)
+ibid. 20\]: "So should it be given <span id="fr_44"></span>[1](#fn_44.md)
 unto him"; and by "given" is meant a thing which is given from hand to
 hand. If so, how are the preceding words in the same verse to be
 explained? "In the manner he should give a bodily defect," etc. (hence
@@ -81,7 +81,7 @@ desired to use a term from which it should be deduced that it means
 
 The school of R. Hyya deduce it from the following: The Scripture reads
 \[Deut. xix. 21\]: "Hand for hand" <span
-id="fr_45"></span>[2](#fn_45)--that means something that can be passed
+id="fr_45"></span>[2](#fn_45.md)--that means something that can be passed
 from hand to hand, *i.e.*, money.
 
 <span id="page_184">p. 184</span>
@@ -154,7 +154,7 @@ Say that the word "bruise" means to increase the payment.
 for, how should the pain be appraised separately? Said the father of
 Samuel: It should be appraised how much one would pay to have his arm,
 which by the decree of the government must be amputated, severed by a
-drug <span id="fr_46"></span>[1](#fn_46) instead of a sword. If so, it
+drug <span id="fr_46"></span>[1](#fn_46.md) instead of a sword. If so, it
 ought to state "give" instead of "take"? Said R. Huna b. R. Juhoshua: It
 means that the plaintiff shall take from the defendant what such a man
 would give.
@@ -201,7 +201,7 @@ is equal to healing in all respects.
 for loss of time is also liable for the expense of feeling, and he who
 is not liable for loss of time is not liable for the expense of healing,
 wherefore the repetition of the word "healing" in the verse? <span
-id="fr_47"></span>[1](#fn_47) It is needed for what the following
+id="fr_47"></span>[1](#fn_47.md) It is needed for what the following
 Boraitha states: "R. Ishmael said: It is written \[Ex. xxi. 19\]:
 *Thoroughly healed*," from which is to be inferred that a physician is
 permitted to heal (although the affliction came from Providence).
@@ -245,9 +245,9 @@ pain is to be paid for where actual damage is paid. But is this verse
 not necessary to make an unintentional act equal to an intentional one,
 and an accidental one equal to a voluntary act? If so, let the Scripture
 read "wound *by* wound"--why "wound *instead* of a wound"? (See supra,
-[p. 54](kam05.htm#page_54).) To infer both. R. Papa, however, said in
+[p. 54](kam05.htm#page_54)..md) To infer both. R. Papa, however, said in
 the name of the same: There is a repetition as to healing \[ibid.,
-[19](kam04.htm#page_19)\], to add healing where actual damage is paid.
+[19](kam04.htm#page_19.md)\], to add healing where actual damage is paid.
 But can there be a case where one should be liable for all the four
 things where no actual damage was done? Yea, Pain--as is stated in the
 Mishna:
@@ -293,7 +293,7 @@ was not yet collected? Shall we assume that because it was appraised
 separately each must be paid; or, because he has not yet paid and now he
 has to pay for the whole body that all the previous appraisements are
 included therein? Both questions remain undecided. <span
-id="fr_48"></span>[1](#fn_48)
+id="fr_48"></span>[1](#fn_48.md)
 
 <span id="page_189">p. 189</span>
 
@@ -586,7 +586,7 @@ it causes a reduction in her value.
 
 "*A heathen slave*," etc. What is the reason of R. Jehudah's theory?
 Because it is written \[Deut. xxv. 11\]: "When men strive together, one
-with his *brother*," <span id="fr_49"></span>[1](#fn_49) which signifies
+with his *brother*," <span id="fr_49"></span>[1](#fn_49.md) which signifies
 one with whom there can be a fraternity, excluding a slave. The rabbis,
 however, maintain that the word "brother" can also mean a slave, as
 there is a fraternity with a slave, because he is obliged to perform
@@ -655,7 +655,7 @@ never came into the possession of the son. As R. Simeon b. Lakish said,
 there is no difference whether the son dies during the lifetime of the
 father or the father dies during the lifetime of the son, in both of
 which cases they never came into the possession of the son, the buyer
-nevertheless acquires title. <span id="fr_50"></span>[1](#fn_50)
+nevertheless acquires title. <span id="fr_50"></span>[1](#fn_50.md)
 
 When the answer of R. Jeremiah was repeated before R. Jehudah, he said:
 So said Samuel: This is not equal to the case of our Mishna. Why so?
@@ -710,7 +710,7 @@ however, her estates of which her husband has the fruition for any
 benefit she could derive and pay to him whom she wounded? We must then
 say that she does not possess any. The same is the case here.
 
-MISHNA *IV*.: If one blow <span id="fr_51"></span>[1](#fn_51) into the
+MISHNA *IV*.: If one blow <span id="fr_51"></span>[1](#fn_51.md) into the
 car of another, he pays one sela (as a fine for the disgrace he caused
 him). R. Jehudah, however, in the name of R. Jose the Galilean says, one
 manah. If he strike him with the palm of his hand on the cheek, he pays
@@ -743,13 +743,13 @@ the same property) it must be paid for.
 
 GEMARA: The schoolmen propounded a question: The manah stated in the
 Mishna, does it mean a manah of the city of Zur, <span
-id="fr_52"></span>[1](#fn_52) which contains one hundred zuz, or does it
+id="fr_52"></span>[1](#fn_52.md) which contains one hundred zuz, or does it
 mean the manah of the country, which is one-eighth part of it? Come and
 hear: "It happened that a man blew into the ear of another and the case
 came before R. Jehudah the Second, and he said: I saw you doing it, and
 I hold with R. Jose the Galilean; and there are also other witnesses who
 saw you doing it, therefore go and pay him a manah of the city of Zur."
- <span id="fr_53"></span>[2](#fn_53)There was a man who did so to his
+ <span id="fr_53"></span>[2](#fn_53.md)There was a man who did so to his
 neighbor, and when the case came before R. Tubiah b. Mathna he sent a
 message to R. Jose, questioning him whether the sela mentioned in the
 Mishna meant a sela of Zur or one of the country, which is only of the
@@ -851,7 +851,7 @@ appraisement) necessary in case of damages, or not? Shall we assume that
 only in case of a crime it must be investigated whether the blow was
 enough to kill, but in case of damages he must pay at any rate, or there
 is no difference and investigation must be had? Come and hear: It is
-stated above (p. [118](kam08.htm#page_118)), "As a pit of ten spans
+stated above (p. [118](kam08.htm#page_118).md), "As a pit of ten spans
 depth, which is capable of killing, so also other things, etc. If,
 however, it was less deep, he is liable only for damages but not for
 killing." Is it not to be assumed that it means from the bottom to the
@@ -954,7 +954,7 @@ off. Said Rabbina: If, however, the tree be worth more in wood, it may
 be done. We have learned so also in the following Boraitha. It is
 written \[Deut. xx. 20\]: "Only those trees of which thou knowest"--that
 means, a tree which bears fruit; "that they are not fruit-trees" <span
-id="fr_54"></span>[1](#fn_54)--that means, a wild tree. Now as,
+id="fr_54"></span>[1](#fn_54.md)--that means, a wild tree. Now as,
 according to this explanation, every tree which is needed may be cut
 off, why, then, the words "that they are not fruit-trees"? To teach that
 if there are both wild trees and fruit-trees, the wild trees have the
@@ -1017,7 +1017,7 @@ Janai, even the hen of Abimelech's household did
 <span id="page_206">p. 206</span>
 
 not lay its eggs. Said Rabha to Rabba bar Mari: <span
-id="fr_55"></span>[1](#fn_55) Whence is the following saying of the
+id="fr_55"></span>[1](#fn_55.md) Whence is the following saying of the
 rabbis deduced: He who prays in behalf of his neighbor for a certain
 thing which he himself needs, he is answered first? He answered: From
 the following verse \[Job, xlii. 10\]. "And the Lord brought back the
@@ -1138,7 +1138,7 @@ persecuted birds than doves and
 <span id="page_209">p. 209</span>
 
 pigeons, and the Scripture made them fit for the altar. "Blind my eye,"
-etc. Said R. Assi <span id="fr_56"></span>[1](#fn_56) to Rabba: Why in
+etc. Said R. Assi <span id="fr_56"></span>[1](#fn_56.md) to Rabba: Why in
 the first part the condition that he should be free is of no effect, and
 in the second part it is? He answered: Because no one will ever forgive
 for the loss of the principal members of his body. Said he to him: Does,
@@ -1159,7 +1159,7 @@ in the following Boraitha: If one says to another, "Strike me," or
 and he answered "Yea!"(*i.e.*, if so, you would like to do so)? Hence
 this "yea" means "nay." "Tear my garment," and he says, "And thereafter
 I should pay for it?" And he answers, "Nay." which means "Yea, you may
-do so." <span id="fr_57"></span>[2](#fn_57)
+do so." <span id="fr_57"></span>[2](#fn_57.md)
 
 "*Break my pitcher*," etc. There is a contradiction from the following
 Boraitha: It is written \[Ex. xxii. 6\]: "If a man . . . to keep," etc.,
@@ -1196,13 +1196,13 @@ the poor do not receive fixed sums at certain periods they cannot claim
 a certain fixed amount, and there. fore it is considered that there are
 no claimants).
 
-END OF VOLUME II. (X[)](errata.htm#23).
+END OF VOLUME II. (X[)](errata.htm#23.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_44"></span>[183:1](kam11.htm#fr_44) The verse reads:
+<span id="fn_44"></span>[183:1](kam11.htm#fr_44.md) The verse reads:
 "Yithain . . . Kain yinothen," of which the literal translation is
 "should give . . . so should be given and the Talmud takes it as it is,
 and infers from this that the expression "give" means money, which is
@@ -1211,7 +1211,7 @@ given from hand to hand. The preceding verse (19), however, reads: "Osso
 done." Leeser translates in both instances "done," according to the
 sense.
 
-<span id="fn_45"></span>[183:2](kam11.htm#fr_45) The Gemara continues
+<span id="fn_45"></span>[183:2](kam11.htm#fr_45.md) The Gemara continues
 with similar questions: Is it not written, "foot for foot"; and similar
 answers, "There is a superfluous verse," etc., are given. It also
 proceeds to cite other schools and individuals who deduce it from other
@@ -1225,47 +1225,47 @@ as it was also at that time among other nations; but with the change of
 time it was positively necessary to change this law, and if it could not
 be deduced from the Scripture it would not be accepted.
 
-<span id="fn_46"></span>[185:1](kam11.htm#fr_46) It probably means the
+<span id="fn_46"></span>[185:1](kam11.htm#fr_46.md) It probably means the
 use of a drug as an anodyne or anæsthetic during the amputation.
 
-<span id="fn_47"></span>[186:1](kam11.htm#fr_47) The word "healing" is
+<span id="fn_47"></span>[186:1](kam11.htm#fr_47.md) The word "healing" is
 repeated in the text. Leeser translates it "thoroughly healed";
 literally, it would be, "concerning healing he should be healed."
 
-<span id="fn_48"></span>[188:1](kam11.htm#fr_48) The codifiers of the
+<span id="fn_48"></span>[188:1](kam11.htm#fr_48.md) The codifiers of the
 Halakhoth, as the Alphasi, Maimonides, etc., have decided in accordance
 with the rule that all undecided questions found in the Talmud must be
 decided rigorously; *i.e.*, that in both of the above cases the
 defendant pays for each injury separately and then for the whole body.
 
-<span id="fn_49"></span>[195:1](kam11.htm#fr_49) The text reads "Ish
+<span id="fn_49"></span>[195:1](kam11.htm#fr_49.md) The text reads "Ish
 v'ochiv," which literally means "a man and his brother." Leeser,
 however, translates it according to the sense, "one with the other."
 
-<span id="fn_50"></span>[197:1](kam11.htm#fr_50) Here follows a
+<span id="fn_50"></span>[197:1](kam11.htm#fr_50.md) Here follows a
 discussion as to whether the usufruct is equivalent to the principal,
 which is omitted here, but will be translated in its proper place.
 
-<span id="fn_51"></span>[198:1](kam11.htm#fr_51) According to others, it
+<span id="fn_51"></span>[198:1](kam11.htm#fr_51.md) According to others, it
 means "boxing the ear." We, however, have translated it in accordance
 with our method, after the second interpretation of Rashi.
 
-<span id="fn_52"></span>[199:1](kam11.htm#fr_52) One manah of Zur is 25
+<span id="fn_52"></span>[199:1](kam11.htm#fr_52.md) One manah of Zur is 25
 selas, each sela containing four zuz. A country manah is one-eighth of a
 manah of Zur, and also contains 25 selas, so that a country sela is
 one-half of a zuz.
 
-<span id="fn_53"></span>[199:2](kam11.htm#fr_53) From here to end of
+<span id="fn_53"></span>[199:2](kam11.htm#fr_53.md) From here to end of
 paragraph is transferred from Chap. IV., Text, 36*b*.
 
-<span id="fn_54"></span>[204:1](kam11.htm#fr_54) The Talmud divides this
+<span id="fn_54"></span>[204:1](kam11.htm#fr_54.md) The Talmud divides this
 verse into two parts, which in reality reads well as it is, and Rashi
 tried to explain it that because there are a few superfluous words it
 ought to read "only a tree that bears no fruit," why, then, the words,
 "which thou knowest"? And this is the reason why the Talmud infers from
 this that even a fruit-tree may be cut off when needed.
 
-<span id="fn_55"></span>[206:1](kam11.htm#fr_55) The following series of
+<span id="fn_55"></span>[206:1](kam11.htm#fr_55.md) The following series of
 questions is placed here because of the verse quoted, "and Abraham
 prayed unto God," etc., from which Rabba bar Mari delivered his
 statements in the text differing from Rabha; and at the same time he
@@ -1274,13 +1274,13 @@ different verses, and casually also others. They wanted also to find the
 origin of even the ordinary adages of the people in the Holy Writ, on
 account of what is stated elsewhere in the Talmud, that there is nothing
 in the world for which there can be found no hint in the Scripture. (See
-vol. viii., Tract Taanith, p. 9.[)](errata.htm#22)
+vol. viii., Tract Taanith, p. 9.[)](errata.htm#22.md)
 
-<span id="fn_56"></span>[209:1](kam11.htm#fr_56) This name is correct,
+<span id="fn_56"></span>[209:1](kam11.htm#fr_56.md) This name is correct,
 according to Alphasi, as the name mentioned in the text would be
 incompatible with the time in which R. Assi b. Hama lived.
 
-<span id="fn_57"></span>[209:2](kam11.htm#fr_57) R. Johanan explains
+<span id="fn_57"></span>[209:2](kam11.htm#fr_57.md) R. Johanan explains
 that our Mishna speaks of when there was a question and an answer
 between the plaintiff and the defendant, and it was not clear whether it
 meant yea or nay; the Boraitha, however, speaks of when the plaintiff

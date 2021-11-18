@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes17)  [Next](nes19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes17)  [Next](nes19.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                      |
 |----------------------|
-| ![B](img/qbinit.jpg) |
+| ![B](img/qbinit.jpg.md) |
 
 LACK AIRT" was firmly believed in. If the proficients in this science
 did not make a compact with Satan, they were very much in communion with
@@ -99,14 +99,14 @@ hanging himself; and another, by drowning himself. Such of them as did
 die a natural death were seized with some terrible disease, and, after
 the greatest sufferings, passed away in agony of soul and body, cursing
 God and man with their last breath. Vengeance in some way or other
-overtook them all. <span id="fr_56"></span>[1](#fn_56)
+overtook them all. <span id="fr_56"></span>[1](#fn_56.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_56"></span>[75:1](nes18.htm#fr_56) Cf. Henderson, p. 279.
+<span id="fn_56"></span>[75:1](nes18.htm#fr_56.md) Cf. Henderson, p. 279.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. Riddles](nes19)
+[Next: Chapter XVI. Riddles](nes19.md)

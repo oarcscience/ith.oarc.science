@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi217)  [Next](mtsi219) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi217)  [Next](mtsi219.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ too bad," No one could kill him.
 
 ------------------------------------------------------------------------
 
-[Next: 19. Thunder And Laigatonōhona](mtsi219)
+[Next: 19. Thunder And Laigatonōhona](mtsi219.md)

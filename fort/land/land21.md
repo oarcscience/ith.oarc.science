@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[Index](index)  [Previous](land20)  [Next](land22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[Index](index)  [Previous](land20)  [Next](land22.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P8882/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *New Lands*, by Charles Fort, \[1923\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -123,4 +123,4 @@ Y., had, upon August 17, seen a brilliant point upon Venus.
 
 ------------------------------------------------------------------------
 
-[Next: 22](land22)
+[Next: 22](land22.md)

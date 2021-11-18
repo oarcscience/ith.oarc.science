@@ -2,23 +2,23 @@
 layout: seclanding
 title: "Collection Copyright"
 ---
-<span class="p-small2"> [Index](index)  [About](about) 
-[Bibliography](stbib)  [Books](books)  [Copyrights](cnote) 
-[Contact](contact)  [Donate](donate)   
-[FAQ](faq)  [Links](links)  [Map](map)  [Message](message) 
-[Press](press)  [Privacy](privacy)  [Search](search)  [Abuse](abuse) 
-[Terms of Service](tos)  [Standards](stand)  [Translate](xlat) 
-[Unicode](unicode)  [Volunteer](volun)   
-[World](world)  [Mysteries](myst)  [Traditions](trad)  [What's
-New?](new)   
-[Buy CD-ROM](index)  [Bookshop](books/index)  </span>
+<span class="p-small2"> [Index](index)  [About](about.md) 
+[Bibliography](stbib)  [Books](books)  [Copyrights](cnote.md) 
+[Contact](contact)  [Donate](donate.md)   
+[FAQ](faq)  [Links](links)  [Map](map)  [Message](message.md) 
+[Press](press)  [Privacy](privacy)  [Search](search)  [Abuse](abuse.md) 
+[Terms of Service](tos)  [Standards](stand)  [Translate](xlat.md) 
+[Unicode](unicode)  [Volunteer](volun.md)   
+[World](world)  [Mysteries](myst)  [Traditions](trad.md)  [What's
+New?](new.md)   
+[Buy CD-ROM](index)  [Bookshop](books/index.md)  </span>
 
 ------------------------------------------------------------------------
 
 # What is a Collection Copyright?
 
 The following is an excerpt from the [Copyright Law of the United
-States](https://www.loc.gov/copyright/title17/circ92.html):
+States](https://www.loc.gov/copyright/title17/circ92.html.md):
 
 ### § 103. Subject matter of copyright: Compilations and derivative works
 
@@ -40,7 +40,7 @@ preexisting material.
 
 <span class="p-small2-gray"> </span>
 
-[Collection copyright](sect103) © 1997-2004 J.B. Hare. All HTML markup
+[Collection copyright](sect103.md) © 1997-2004 J.B. Hare. All HTML markup
 Copyright © 1997-2004 J.B. Hare except where noted. All images ©
 copyright J.B. Hare, 1997-2004 except where noted. All files at this
 site named **index.htm** or **index.html** are Copyright © 1997-2004

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](cair02)  [Next](cair04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](cair02)  [Next](cair04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0404604161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Confucianism and Its Rivals*, by Herbert A. Giles, \[1915\], at
 Intangible Textual Heritage
 
@@ -106,7 +106,7 @@ Ark.
 
 <span id="img_00400"></span> <span align="CENTER"> [![Trigram
 diagram](tn/00400.jpg)  
-Click to enlarge](img/00400.jpg)  
+Click to enlarge](img/00400.jpg.md)  
   
 </span>
 
@@ -219,7 +219,7 @@ as follows:—
 
 <span id="img_00800"></span> <span align="CENTER"> [![The River
 Plan](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)  
+Click to enlarge](img/00800.jpg.md)  
   
 </span>
 
@@ -272,7 +272,7 @@ and legs. To-day we write <span id="img_01001"></span>
 scholars, who had failed to pick up the real clue, as a combination of
 <span id="img_01002"></span> ![](img/01002.jpg) *one*, and <span
 id="img_01003"></span> ![](img/01003.jpg) *great*—the one great
-thing. <span id="fr_0"></span>[1](#fn_0)
+thing. <span id="fr_0"></span>[1](#fn_0.md)
 
 Such, indeed, is the etymological analysis given in the *Shuo Wên*, a
 dictionary which was produced about one hundred years after the
@@ -805,7 +805,7 @@ Whereupon they set to building houses.</span>
 
 <span class="contnote">\[paragraph continues\]</span> We do not know for
 certain the process by which the omens were obtained from the
-tortoise-shell, <span id="fr_1"></span>[1](#fn_1) or
+tortoise-shell, <span id="fr_1"></span>[1](#fn_1.md) or
 
 <span id="page_26">p. 26</span>
 
@@ -951,7 +951,7 @@ He surveyed the four quarters of the empire,
 Seeking for someone to give peace to the people.  
 The Hsia and the Shang dynasties of old  
 Had failed to satisfy Him with their government;  
-So [throughout](errata.htm#0) the various States  
+So [throughout](errata.htm#0.md) the various States  
 There was searching and considering  
 Until God fixed on the man.</span>
 
@@ -1069,13 +1069,13 @@ the divine glory.
 
 ### Footnotes
 
-<span id="fn_0"></span>[10:1](cair03.htm#fr_0) This development was
+<span id="fn_0"></span>[10:1](cair03.htm#fr_0.md) This development was
 first pointed out by Mr L. C. Hopkins, I.S.O.
 
-<span id="fn_1"></span>[25:1](cair03.htm#fr_1) See *La Divination par
+<span id="fn_1"></span>[25:1](cair03.htm#fr_1.md) See *La Divination par
 l’Ecaille de Tortue*, by Professor E. Chavannes (*Journal Asiatique*,
 Janvier-Février, 1911).
 
 ------------------------------------------------------------------------
 
-[Next: Lecture II. B.C. 1200-500](cair04)
+[Next: Lecture II. B.C. 1200-500](cair04.md)

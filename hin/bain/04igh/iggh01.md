@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh00) 
-[Next](iggh02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh00.md) 
+[Next](iggh02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -43,7 +43,7 @@ by-play of allusion, a prismatic
 
 beauty, of which no other language can convey the least idea. For
 translation must split up what in the original is a unity <span
-id="fr_0"></span>[a](#fn_0). And so, our title, according to the value
+id="fr_0"></span>[a](#fn_0.md). And so, our title, according to the value
 which we choose to assign to its component elements, can be taken to
 denote, either the hair-jewel of the moon-crested god, or the universal
 pre-eminence of world-wildering Aphrodite.
@@ -75,7 +75,7 @@ fancy, says the reader: and yet I do not know. Something there seems to
 be in common, something that all the ancient nations felt, between the
 beauty of an eastern night with the Moon in its forehead, and the
 strange consolatory cosmic magnetism that Woman and her mystic
-Beauty <span id="fr_1"></span>[b](#fn_1) exert over her everlasting
+Beauty <span id="fr_1"></span>[b](#fn_1.md) exert over her everlasting
 patient, Man. Take away her sympathy, and his life would resemble
 nothing so much as the thirsty earth, parching under an Indian Noon, for
 ever without a Night.
@@ -109,14 +109,14 @@ god*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[viii:a](iggh01.htm#fr_0) And it has often
+<span id="fn_0"></span>[viii:a](iggh01.htm#fr_0.md) And it has often
 occurred to me that western theologians suffer from want of acquaintance
 with Sanskrit, for nothing could furnish so apt an illustration of an
 indecomposable ' trinity in unity' as a compound Sanskrit word.
 
-<span id="fn_1"></span>[ix:b](iggh01.htm#fr_1) The πότνια νύξ of
+<span id="fn_1"></span>[ix:b](iggh01.htm#fr_1.md) The πότνια νύξ of
 Euripides is pure Sanskrit: *patní naktá:* Lady Night.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](iggh02)
+[Next: Contents](iggh02.md)

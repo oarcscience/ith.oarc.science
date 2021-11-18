@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl052)  [Next](cohl054) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl052)  [Next](cohl054.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ American](../../index)  [Iroquois](../index)  [Index](index) 
 <span id="page_45">p. 45</span>
 
 "'Chiefs and high officers have spoken derisively of each other and
-quarreled. <span id="fr_46"></span>[1](#fn_46) What they have done must
+quarreled. <span id="fr_46"></span>[1](#fn_46.md) What they have done must
 not be done again.'"
 
 So they said and he said. Eniaiehuk.
@@ -20,10 +20,10 @@ So they said and he said. Eniaiehuk.
 
 ### Footnotes
 
-<span id="fn_46"></span>[45:1](cohl053.htm#fr_46) Jealousy was the
+<span id="fn_46"></span>[45:1](cohl053.htm#fr_46.md) Jealousy was the
 principal cause of the dissension that led to the decay of the League of
 the Iroquois.
 
 ------------------------------------------------------------------------
 
-[Next: Section 43](cohl054)
+[Next: Section 43](cohl054.md)

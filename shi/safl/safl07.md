@@ -1,9 +1,9 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl06) [Next](safl08)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl06) [Next](safl08.md)
 
 ------------------------------------------------------------------------
 
-## VII.—POIYAUMBE<span id="page_139_fr_*"></span>[\*](#page_139_note_*)
+## VII.—POIYAUMBE<span id="page_139_fr_*"></span>[\*](#page_139_note_*.md)
 
    If any student of philology is desirous of seeing what the ancient
 language of the Ainu was really like, he may surely find it in the text
@@ -176,20 +176,20 @@ yawns and said:—"My elder brother, my little elder brother, listen to me
 for I have a word to say. Wherefore is my brother thus in anticipation?
 I hear news from a distant land; there is news coming from above the
 mountains of *Tomisan pet!*<span id="page_147_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_147_note_1) The brave *Poiyaumbe*
+class="small">1</span></sup>](#page_147_note_1.md) The brave *Poiyaumbe*
 have been attacked by my elder brother without cause, but a single man
 has annihilated my brother and his men. Whilst the battle <span
 id="page_148">p. 148</span> proceeds a little *Kesorap*<span
 id="page_148_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_148_note_2) comes flying across the
+class="small">2</span></sup>](#page_148_note_2.md) comes flying across the
 sky from the interior; and though I earnestly desire to prophesy about
 it somehow or other it passes out of my sight. When it crosses the sea
 it darts along upon the surface of the water like a little fish: coming
 straight towards our town is the clashing of swords, the sword of a *Ya
 un*<span id="page_148_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_148_note_3) man and a *Rep un*<span
+class="small">3</span></sup>](#page_148_note_3.md) man and a *Rep un*<span
 id="page_148_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_148_note_4) blood is spurting forth
+class="small">4</span></sup>](#page_148_note_4.md) blood is spurting forth
 from two great wounds; the sword of the *Rep un* man goes into the
 setting sun and is lost; the handle of the sword of the *Ya un* man
 shines upon the sun. Although our house was in peace it is now in
@@ -383,7 +383,7 @@ So ends this tradition.
 
 ------------------------------------------------------------------------
 
-[Next](safl08)
+[Next](safl08.md)
 
 ------------------------------------------------------------------------
 
@@ -391,25 +391,25 @@ So ends this tradition.
 
 <span id="footnotes_page_139">p. 139</span>
 
-<span id="page_139_note_*"></span>[\*](#page_139_fr_*) Poiyaumbe is the
+<span id="page_139_note_*"></span>[\*](#page_139_fr_*.md) Poiyaumbe is the
 name of the subject and means "the brave Ainu."
 
 <span id="footnotes_page_147">p. 147</span>
 
-<span id="page_147_note_1"></span>[1](#page_147_fr_1) *Tomisan pet* is
+<span id="page_147_note_1"></span>[1](#page_147_fr_1.md) *Tomisan pet* is
 the name of a river said to be about a day's journey further up the West
 coast of Yezo than Ishkari.
 
 <span id="footnotes_page_148">p. 148</span>
 
-<span id="page_148_note_2"></span>[2](#page_148_fr_2) *Kesorap* is said
+<span id="page_148_note_2"></span>[2](#page_148_fr_2.md) *Kesorap* is said
 by some Ainu to be peacock, and by others a kind of eagle. Here,
 however, it signifies the victorious Ainu now on his way to destroy
 *Samatuye*.
 
-<span id="page_148_note_3"></span>[3](#page_148_fr_3) *Ya un*, "Ainu."
+<span id="page_148_note_3"></span>[3](#page_148_fr_3.md) *Ya un*, "Ainu."
 
-<span id="page_148_note_4"></span>[4](#page_148_fr_4) *Rep un*, the
+<span id="page_148_note_4"></span>[4](#page_148_fr_4.md) *Rep un*, the
 enemy of the Ainu.
 
  

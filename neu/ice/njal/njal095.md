@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal094)  [Next](njal096) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal094)  [Next](njal096.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ Geiti's son, and Thidrandi.
 
 ------------------------------------------------------------------------
 
-[Next: 96. Of The Change Of Faith](njal096)
+[Next: 96. Of The Change Of Faith](njal096.md)

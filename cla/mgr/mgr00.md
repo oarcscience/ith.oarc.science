@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Next](mgr01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Next](mgr01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -39,12 +39,12 @@ Copyright Office, as required by law at the time. These files may be
 used for any non-commercial purpose, provided this notice of attribution
 is left intact in all copies.
 
-<span id="img_title"></span> ![Title Page](img/title.jpg)  
+<span id="img_title"></span> ![Title Page](img/title.jpg.md)  
 Title Page
 
-<span id="img_verso"></span> ![Verso](img/verso.jpg)  
+<span id="img_verso"></span> ![Verso](img/verso.jpg.md)  
 Verso
 
 ------------------------------------------------------------------------
 
-[Next: Contents](mgr01)
+[Next: Contents](mgr01.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Index](index)  [Previous](pme09)  [Next](pme11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Index](index)  [Previous](pme09)  [Next](pme11.md) 
 
 ------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ nineteen and twenty. The attitude of such persons towards women also
 varies. In genuine cases of inborn sexual inversion a positive horror is
 felt when the woman has to be carnally known; and this horror is of the
 same sort as that which normal men experience when they think of
-cohabitation with a male. <span id="fr_54"></span>[1](#fn_54) In others
+cohabitation with a male. <span id="fr_54"></span>[1](#fn_54.md) In others
 the disinclination does not amount to repugnance; but the abnormal man
 finds considerable difficulty in stimulating himself to the sexual act
 with females, and derives a very imperfect satisfaction from the same. A
@@ -152,9 +152,9 @@ Urning, men with normal and men with abnormal instincts. What, then,
 constitutes the distinction between them? How are we justified in
 regarding them as radically divergent?
 
-Ulrichs replies that the phenomenon of sexual [inversion](errata.htm#1)
+Ulrichs replies that the phenomenon of sexual [inversion](errata.htm#1.md)
 is to be explained by physiology, and particularly by the evolution of
-the embryo. <span id="fr_55"></span>[1](#fn_55) Nature fails to
+the embryo. <span id="fr_55"></span>[1](#fn_55.md) Nature fails to
 
 <span id="page_90">p. 90</span>
 
@@ -186,7 +186,7 @@ condition of what I call man (Doining), others to what I call woman
 *Urningin*). It ensues therefrom that between these three sexes there
 are no primary, but only secondary differences. And yet true
 differences, constituting sexual species, exist as facts." <span
-id="fr_56"></span>[1](#fn_56) Man, Woman, and Urning--the third being
+id="fr_56"></span>[1](#fn_56.md) Man, Woman, and Urning--the third being
 either a male or a female in whom we observe a real and inborn, not an
 acquired or a spurious, inversion of appetite-are consequently regarded
 by him as the three main divisions of humanity viewed from the point of
@@ -245,8 +245,8 @@ Such is the theory of Ulrichs; and though we may not incline to. his
 peculiar mode of explaining the want of harmony between sexual organs
 and sexual appetite in Urnings, there can be no doubt that in some way
 or other their eccentric diathesis must be referred to the obscure
-process of [sexual](errata.htm#2) differentiation. <span
-id="fr_57"></span>[1](#fn_57) Perhaps he antedates the moment at which
+process of [sexual](errata.htm#2.md) differentiation. <span
+id="fr_57"></span>[1](#fn_57.md) Perhaps he antedates the moment at which
 the aberration sometimes takes its origin, not accounting sufficiently
 for imperative impressions made on the imagination or the senses of boys
 during the years which precede puberty.
@@ -255,7 +255,7 @@ However this may be, the tendency to such inversion is certainly inborn
 in an extremely large percentage of cases. That can be demonstrated from
 the reports of persons whose instincts were directed to the male before
 they knew what sex meant. It is worth extracting passages from. these
-confessions. <span id="fr_58"></span>[2](#fn_58) (1) "As a schoolboy
+confessions. <span id="fr_58"></span>[2](#fn_58) (1.md) "As a schoolboy
 
 <span id="page_94">p. 94</span>
 
@@ -289,7 +289,7 @@ as follows: "So
 
 far back as I can remember, I was always subject to this passion. Quite
 as a child, young men made deeper impression on me than women or girls.
-The earliest sensual [perturbation](errata.htm#3) of which I have any
+The earliest sensual [perturbation](errata.htm#3.md) of which I have any
 recollection was excited by a tutor, when I was nine or ten, and my
 greatest pleasure was to be allowed to ride astride upon his leg." (13)
 A thirteenth: "From the earliest childhood I have been haunted by
@@ -320,7 +320,7 @@ naked men.
 
 In addition to these cases a great many might be culled from the
 writings of Ulrichs, who has published a full account from his own early
-experience. <span id="fr_59"></span>[1](#fn_59) "I was fifteen years and
+experience. <span id="fr_59"></span>[1](#fn_59.md) "I was fifteen years and
 ten and a half months old," he says, "when the first erotic dream
 announced the arrival of puberty. Never before that period had I known
 sexual gratification of any kind whatever. The occurrence was therefore
@@ -504,7 +504,7 @@ normal subjects of sexual inclination, society will not suffer. In
 countries where legal penalties have been removed from inverted
 sexuality, where this is placed upon the same footing as the normal--in
 France, Bavaria (?), the Netherlands (?)--no inconvenience has hitherto
-arisen. <span id="fr_60"></span>[1](#fn_60) There has ensued no sudden
+arisen. <span id="fr_60"></span>[1](#fn_60.md) There has ensued no sudden
 and flagrant outburst of a depraved habit, no dissemination of a
 spreading moral poison. On the other hand, in countries where these
 penalties exist and are enforced--in England, for example, and in the
@@ -669,7 +669,7 @@ political and social argument in the time of Moses, when a small and
 militant tribe needed to multiply to the full extent of its procreative
 capacity. It is by no means so valid in our age, when the habitable
 portions of the globe are rapidly becoming overcrowded. <span
-id="fr_61"></span>[1](#fn_61) Moreover, we must bear in mind that
+id="fr_61"></span>[1](#fn_61.md) Moreover, we must bear in mind that
 society, under the existing order, sanctions female prostitution,
 whereby men and women, the normally procreative, are sterilised to an
 indefinite extent. Logic, in these circumstances, renders it equitable
@@ -736,7 +736,7 @@ gratification," he writes, "it must be established at the outset that
 the majority of them are contented with reciprocal embraces; the act
 commonly ascribed to them they generally abhor as much as normal men do;
 and, inasmuch as they always prefer adults, they are in no sense
-specially, dangerous to boys." <span id="fr_62"></span>[1](#fn_62) This
+specially, dangerous to boys." <span id="fr_62"></span>[1](#fn_62.md) This
 author proceeds to draw a distinction between Urnings in whom sexual
 inversion is congenital, and old debauchees or half-idiotic individuals,
 who are in the habit of misusing boys. The vulgar have confounded two
@@ -751,7 +751,7 @@ injustice to the latter.
 sexuality is capable of any moral elevation." Without appealing to
 antiquity, the records of which confute this objection overwhelmingly,
 one might refer to the numerous passages in Ulrich's writings where he
-relates the fidelity, [loyalty](errata.htm#4), self-sacrifice, and
+relates the fidelity, [loyalty](errata.htm#4.md), self-sacrifice, and
 romantic enthusiasm which frequently accompany such loves, and raises
 them above baseness. But, since here again he may be considered a
 suspicious witness, it will suffice, as before, to translate a brief
@@ -759,7 +759,7 @@ passage from Krafft-Ebing. "The Urning loves, idolizes his friend, quite
 as much as the normal man loves and idolizes his girl. He is capable of
 making for him the greatest sacrifices. He suffers the pangs of unhappy,
 often unreturned, affection; feels jealousy, mourns under the fear of
-his friend's infidelity." <span id="fr_63"></span>[1](#fn_63) When the
+his friend's infidelity." <span id="fr_63"></span>[1](#fn_63.md) When the
 time comes for speaking about Walt Whitman's treatment of this topic, it
 will appear that the passion of a man for his comrade has been idealised
 in fact and deed, as well as in poetry. For the present it is enough to
@@ -792,7 +792,7 @@ suppress them, so long as the law of his country condemns them? "No,
 rejoins Ulrichs, a thousand times no! It is only the ignorant antipathy
 of the majority which renders such law as you speak of possible. Go to
 the best books of medical jurisprudence, go to the best authorities on
-psychical deviations from the normal [type](errata.htm#5). You will find
+psychical deviations from the normal [type](errata.htm#5.md). You will find
 that these support me in my main contention. These, though hostile in
 their sentiments and chilled by natural repugnance, have a respect for
 science, and they agree with me in saying that the Urning came into this
@@ -809,7 +809,7 @@ observes that 'self-surrender is at times sternly enjoined, and if the
 egoistic desires are brought into conflict with social duties, the
 individual life and joy within us, at whatever cost of personal
 suffering, must be sacrificed to the just claims of our fellows.' <span
-id="fr_64"></span>[1](#fn_64) What have you to say to that?" In the
+id="fr_64"></span>[1](#fn_64.md) What have you to say to that?" In the
 first place, replies Ulrichs, I demur in this case to the phrases
 *egoistic desires, social duties, just claims of our fellows*. I
 maintain that in trying to rehabilitate men of' my own stamp and to
@@ -859,10 +859,10 @@ Urning must be punished."
 
 ### Footnotes
 
-<span id="fn_54"></span>[87:1](pme10.htm#fr_54) See above, [p.
-55](pme08.htm#page_55), note.
+<span id="fn_54"></span>[87:1](pme10.htm#fr_54.md) See above, [p.
+55](pme08.htm#page_55.md), note.
 
-<span id="fn_55"></span>[89:1](pme10.htm#fr_55) The notion that human
+<span id="fn_55"></span>[89:1](pme10.htm#fr_55.md) The notion that human
 beings were originally hermaphrodite is both ancient and widespread. We
 find it in the Book of Genesis, unless, indeed, there be a confusion
 here between two separate theories of creation. God is said to have
@@ -893,10 +893,10 @@ the whole reminding us very closely of the confessions made by Urnings
 in modern times, and preserved by medical or forensic writers on sexual
 inversion.
 
-<span id="fn_56"></span>[91:1](pme10.htm#fr_56) Memnon, section xix.
+<span id="fn_56"></span>[91:1](pme10.htm#fr_56.md) Memnon, section xix.
 
-<span id="fn_57"></span>[93:1](pme10.htm#fr_57) See above, [p.
-36](pme08.htm#page_36), the suggestion quoted from Dr. Huggard of
+<span id="fn_57"></span>[93:1](pme10.htm#fr_57.md) See above, [p.
+36](pme08.htm#page_36.md), the suggestion quoted from Dr. Huggard of
 "congenital lack of balance between structures themselves healthy." If
 might be queried whether this "imperfect sexual differentiation," or
 this "congenital lack of balance between structures themselves healthy,"
@@ -904,19 +904,19 @@ is not the result of an evolutionary process arriving through heredity
 and casual selection at an abnormal, but not of necessity a morbid,
 phenomenon in certain individuals.
 
-<span id="fn_58"></span>[93:2](pme10.htm#fr_58) The first two from
+<span id="fn_58"></span>[93:2](pme10.htm#fr_58.md) The first two from
 Casper-Liman, Handbuch der gerichtlichen Medicin, vol. i. pp. 166-169.
 The others from Krafft-Ebing, Psychopathia Sexualis.
 
-<span id="fn_59"></span>[96:1](pme10.htm#fr_59) Memnon, section lxxiii.
+<span id="fn_59"></span>[96:1](pme10.htm#fr_59.md) Memnon, section lxxiii.
 p. 54.
 
-<span id="fn_60"></span>[102:1](pme10.htm#fr_60) Since Ulrichs left off
+<span id="fn_60"></span>[102:1](pme10.htm#fr_60.md) Since Ulrichs left off
 writing, Italy (by the "Nuove Codice Penale" of 1889) has adopted the
 principles of the Code Napoleon, and has placed sexual inversion under
 the same legal limitations as the normal sexual instinct.
 
-<span id="fn_61"></span>[108:1](pme10.htm#fr_61) Dr. W. Ogle, on the
+<span id="fn_61"></span>[108:1](pme10.htm#fr_61.md) Dr. W. Ogle, on the
 18th March, 1890, read a paper before the Statistical Society upon
 "Marriage Rates and Ages." The conclusion he arrived at, with regard to
 the rapidly-advancing overpopulation of England, was that, in order to
@@ -932,15 +932,15 @@ those members of the male sex who do not want to marry, and who can
 satisfy their natural desires in ways which involve no detriment to the
 State and no violation of the rights of individuals.
 
-<span id="fn_62"></span>[110:1](pme10.htm#fr_62) Psych. Sex., p. 108. I
+<span id="fn_62"></span>[110:1](pme10.htm#fr_62.md) Psych. Sex., p. 108. I
 have condensed the sense of four short paragraphs, to translate which in
 full would have involved a disagreeable use of medical language.
 
-<span id="fn_63"></span>[111:1](pme10.htm#fr_63) Psych. Sex., p. 107.
+<span id="fn_63"></span>[111:1](pme10.htm#fr_63.md) Psych. Sex., p. 107.
 
-<span id="fn_64"></span>[113:1](pme10.htm#fr_64) Studies in Literature,
+<span id="fn_64"></span>[113:1](pme10.htm#fr_64.md) Studies in Literature,
 p. 119.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Literature--Idealistic](pme11)
+[Next: Chapter VIII. Literature--Idealistic](pme11.md)

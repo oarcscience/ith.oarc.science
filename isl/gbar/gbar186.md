@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar185) [Next](gbar187)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar185) [Next](gbar187.md)
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ prophecy. And nothing did Haggai ask in prayer that God withheld.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar187)
+[Next](gbar187.md)

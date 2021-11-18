@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod18)  [Next](eod20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod18)  [Next](eod20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -23,7 +23,7 @@ Textual Heritage
 #### APPENDIX B.
 
 I should like to emphasize the fact that my protest (on [p.
-63](eod16.htm#page_63)) was directed against the claim that the custom
+63](eod16.htm#page_63).md) was directed against the claim that the custom
 of offering food and drink to the dead was inspired *primarily* to
 prevent them from troubling the living. Its original purpose was to
 sustain and reanimate the dead; but, of course, when its real meaning
@@ -35,7 +35,7 @@ Dr. Alan Gardiner himself has made a statement which casual readers
 (*i.e.*, those who do not discriminate between the motive for the
 invention of a procedure and the reasons subsequently given for its
 continuance) might regard as a contradiction of my quotation from his
-writings on [p. 62](eod16.htm#page_62). Thus he says: "Any god could
+writings on [p. 62](eod16.htm#page_62.md). Thus he says: "Any god could
 doubtless attack human beings, but savage and malicious deities, like
 Seth \[Set\], the murderer of Osiris, or Sakhmet, \[Sekhet\], the 'lady
 of pestilence' (*nb-t ’idw*), were doubtless most to be feared." \[This
@@ -84,4 +84,4 @@ significance.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix C](eod20)
+[Next: Appendix C](eod20.md)

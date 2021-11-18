@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg52)  [Next](btg54) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg52)  [Next](btg54.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ being that cannot be transformed into a vessel of truth."
 
 ------------------------------------------------------------------------
 
-[Next: Identity And Non-Identity](btg54)
+[Next: Identity And Non-Identity](btg54.md)

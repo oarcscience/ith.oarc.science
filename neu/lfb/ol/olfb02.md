@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb01)  [Next](olfb03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb01)  [Next](olfb03.md) 
 
 </div>
 
@@ -134,6 +134,6 @@ especially thank Monsieur Macler for permitting us to use some of his
 
 ------------------------------------------------------------------------
 
-[Next: Madschun](olfb03)
+[Next: Madschun](olfb03.md)
 
 </div>

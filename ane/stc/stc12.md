@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](stc11)  [Next](stc13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](stc11)  [Next](stc13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GHBV94/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,12 +16,12 @@ Intangible Textual Heritage
 
 <span id="page_122">p. 122</span> <span id="page_123">p. 123</span>
 
-### II. A Reference to the Creation of the Cattle and the Beasts of the Field <span id="fr_175"></span>[1](#fn_175)
+### II. A Reference to the Creation of the Cattle and the Beasts of the Field <span id="fr_175"></span>[1](#fn_175.md)
 
 1\. When the gods in their assembly had made \[the world\],
 
 2\. And had created the heavens, and had formed \[the earth\], <span
-id="fr_176"></span>[2](#fn_176)
+id="fr_176"></span>[2](#fn_176.md)
 
 3\. And had brought living creatures into being \[...\],
 
@@ -57,7 +57,7 @@ city had divided \[...\]
 
 ### Footnotes
 
-<span id="fn_175"></span>[123:1](stc12.htm#fr_175) For the text, see
+<span id="fn_175"></span>[123:1](stc12.htm#fr_175.md) For the text, see
 *Cuneiform Texts*, part xiii, pl. 34, D.T. 41; for a previous
 publication, cf. Delitzsch, *Assyrische Lesestücke*, 3rd ed., p. 34 f.;
 and for previous translations, see George Smith, *The Chaldean Account
@@ -72,10 +72,10 @@ incidental; it occurs in the long opening sentence and indicates the
 period at which the two small creatures were made; see further the
 Introduction.
 
-<span id="fn_176"></span>[123:2](stc12.htm#fr_176) It is probable, that
+<span id="fn_176"></span>[123:2](stc12.htm#fr_176.md) It is probable, that
 the second section of the text also dealt with the two small creatures
 whose creation is described in the first paragraph.
 
 ------------------------------------------------------------------------
 
-[Next: III. A reference to the Creation of the Moon and the Sun](stc13)
+[Next: III. A reference to the Creation of the Moon and the Sun](stc13.md)

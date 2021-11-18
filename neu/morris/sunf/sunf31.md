@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](sunf30)  [Next](sunf32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](sunf30)  [Next](sunf32.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sundering Flood*, by William Morris, \[1897\], at Intangible
 Textual Heritage
 
@@ -139,6 +139,6 @@ once, and that, it might be deemed, was but one youngling's doing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXX. Osberne Goes to the Trysting-Place](sunf32)
+[Next: Chapter XXX. Osberne Goes to the Trysting-Place](sunf32.md)
 
 </div>

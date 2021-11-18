@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](asw02)  [Next](asw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](asw02)  [Next](asw04.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Deity in one person. The idea has evidently been one of growth from the
 crude to the more acceptable; and the result attained denotes composite
 labor.
 
-[Fig. 12](#img_fig12) is a figure of this kind. It is a copy of an
+[Fig. 12](#img_fig12.md) is a figure of this kind. It is a copy of an
 original drawing made by a learned Hindu pundit, for Win. Simpson, Esq.,
 of London. It represents Brahma Supreme, who, in the act of creation,
 made himself double, i.e., male and female, as indicated by the *crux
@@ -61,7 +61,7 @@ and female--are thus combined in one, the mystic number counts as a
 
 AMONG church paraphernalia and ecclesiastical ornament we find many
 mystic figures. A very ancient and prominent one is been in his form,
-[Fig. 13](#img_fig13), <span id="img_fig13"></span>
+[Fig. 13](#img_fig13.md), <span id="img_fig13"></span>
 
 <table data-align="LEFT">
 <colgroup>
@@ -101,10 +101,10 @@ Fig. 14.</td>
 </tbody>
 </table>
 
-\[paragraph continues\] [Fig. 14](#img_fig14) is a device denoting the
+\[paragraph continues\] [Fig. 14](#img_fig14.md) is a device denoting the
 triad or cross connected with the angular yoni. It is a favorite figure
 placed upon steeples and prominent parts of church edifices; the lower
-part is often formed in a circle or ring. [Fig. 15](#img_fig15)<span
+part is often formed in a circle or ring. [Fig. 15](#img_fig15.md)<span
 id="img_fig15"></span>
 
 <table data-align="RIGHT">
@@ -125,7 +125,7 @@ metaphoric figures are so infinitely varied that only the learned in
 them will be apt to recognize their hidden meaning. What more rational
 explanation is there for the three gilded balls over the door of the
 pawnbrokers' shops than that they originally represented the triad, and
-gave color of orthodoxy to their trade. [Fig. 16](#img_fig16) is
+gave color of orthodoxy to their trade. [Fig. 16](#img_fig16.md) is
 another. It is the <span id="img_fig16"></span>
 
 <table data-align="RIGHT">
@@ -142,11 +142,11 @@ Fig. 16.</td>
 
 Egyptian crux ansata and the Christian cross. We see in it the picture
 of the same conjugal tenets of four deities in one, as above stated. But
-it and [Fig. 15](#img_fig15) indicate the tendency to depart from the
+it and [Fig. 15](#img_fig15.md) indicate the tendency to depart from the
 plain **T** and become more conventional. The more conventional, the
-more is its origin concealed. [Fig. 16](#img_fig16) is seen repeatedly
+more is its origin concealed. [Fig. 16](#img_fig16.md) is seen repeatedly
 figured on Egyptian bass-reliefs as held in the hand. But [Fig.
-17](#img_fig17) puts it to another use. <span id="img_fig17"></span>
+17](#img_fig17.md) puts it to another use. <span id="img_fig17"></span>
 
 <table data-align="RIGHT">
 <colgroup>
@@ -192,7 +192,7 @@ Fig. 18.</td>
 </tbody>
 </table>
 
-Another of the quadruple symbols is [Fig 18](#img_fig18), the hand,
+Another of the quadruple symbols is [Fig 18](#img_fig18.md), the hand,
 which is both a sign and gesture. it is copied from the statuette of
 Isis and child. The three fingers denote the trinity, the unit is
 self-evident.
@@ -211,10 +211,10 @@ Fig. 19.</td>
 </tbody>
 </table>
 
-The Serpent, [Fig. 19](#img_fig19), with his tail in his mouth, is as
+The Serpent, [Fig. 19](#img_fig19.md), with his tail in his mouth, is as
 significant as if is forbidding. It indicates the conjunction of male
 and female, also the ring or unit; it was at the same time a sign of
-eternity. [Fig. 20](#img_fig20) <span id="img_fig20"></span>
+eternity. [Fig. 20](#img_fig20.md) <span id="img_fig20"></span>
 
 <table data-align="RIGHT">
 <colgroup>
@@ -267,7 +267,7 @@ Fig. 21.</td>
 
 simply the Armaic Arba "four." And--strange to say, if it were not so
 common--the worshipful four is allied with *erva*, the pudenda of both
-sexes. [Fig. 21](#img_fig21) is a quadruple God planted in the centre of
+sexes. [Fig. 21](#img_fig21.md) is a quadruple God planted in the centre of
 an elaborately carved yoni with a *urethra* or conduit, the elephant,
 the emblem of strength and Almighty power, Standing near, and a devotee
 below. It is to be borne in mind, there were in India different sects,
@@ -317,7 +317,7 @@ See a Mount Calvary, in imitation, in the shaved poll of the head of the
 priest, Fig. 17. The priests of China, says, Mr. J. M. Peebles, continue
 to shave the head. To make a place holy, among the Hindus, Tartars, and
 people of Thibet, it was necessary to have a Mount Meru. also a
-Linga-Yoni, or Arba, [Fig. 22](#img_fig22).
+Linga-Yoni, or Arba, [Fig. 22](#img_fig22.md).
 
 ### RELIGIOUS PROSTITUTION.
 
@@ -533,7 +533,7 @@ how it constitutes the framework of certain modern observances.
 
 SAYS Hyslop: "The hot cross-buns of Good Friday, and the dyed eggs of
 Pasch or Easter Sunday, figured in the Chaldean rites just as they do
-now. The buns known, too, by that [identical](errata.htm#0) name were
+now. The buns known, too, by that [identical](errata.htm#0.md) name were
 used in the worship of the Queen of Heaven, the Goddess Easter (Ishtar
 or Astarte), as early as the days of Cecrops, the founder of Athens,
 1,500 years before the Christian era." "One species of bread," says
@@ -606,7 +606,7 @@ figure, may be seen the cross, and a little in front a huge lingham
 bearing a kind of a cross in his hand--that is to say, a lingham--which.
 among the Egyptians was the symbol of fertility. Upon the breast of one
 of the Egyptian mummies in the museum of the London University is a
-cross exactly in the shape of [Fig. 23](#img_fig23), <span
+cross exactly in the shape of [Fig. 23](#img_fig23.md), <span
 id="img_fig23"></span>
 
 <table data-align="LEFT">
@@ -753,7 +753,7 @@ satisfactorily proved, on the authority of a passage in Adrian, that the
 worship of Christna was practiced in the time of Alexander the Great
 (330 years before Christ), at what still remains one of the most famous
 temples of India, the temple of Mathura, on Jumna, the Matura Deorum of
-Ptolemy. Further, the statue of the God Christna is [to](errata.htm#1)
+Ptolemy. Further, the statue of the God Christna is [to](errata.htm#1.md)
 be found in the very oldest caves and temples, the inscriptions on
 
 <span id="page_57">p. 57</span>
@@ -767,4 +767,4 @@ with incidents so identical?
 
 ------------------------------------------------------------------------
 
-[Next: IV. Phallic and Sun Worship](asw04)
+[Next: IV. Phallic and Sun Worship](asw04.md)

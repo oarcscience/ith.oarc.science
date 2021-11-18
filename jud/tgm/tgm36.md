@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tgm35)  [Next](tgm37) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tgm35)  [Next](tgm37.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ honored?" the duke asked angrily.
 <span id="img_19800"></span>
 
 [![](tn/19800.jpg)  
-Click to enlarge](img/19800.jpg)
+Click to enlarge](img/19800.jpg.md)
 
  
 
@@ -130,4 +130,4 @@ native France.
 
 ------------------------------------------------------------------------
 
-[Next: 34. The Fourth Horse](tgm37)
+[Next: 34. The Fourth Horse](tgm37.md)

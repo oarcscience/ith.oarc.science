@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge01) 
-[Next](pge03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge01.md) 
+[Next](pge03.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ XX\. Greek love did not exist at Rome--Christianity--Chivalry--The
 
 ------------------------------------------------------------------------
 
-[Next: I. Introduction: Method of treating the subject](pge03)
+[Next: I. Introduction: Method of treating the subject](pge03.md)

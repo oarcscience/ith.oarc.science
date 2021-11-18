@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml39)  [Next](tml41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml39)  [Next](tml41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -130,7 +130,7 @@ asked her why she sorrowed she told him what Kriemhild had said.
 <span id="img_38400"></span> <span align="CENTER"> [![KING GUNTHER AND
 BRUNHILD&lt;br&gt; &lt;i&gt;From the painting by Schnorr von
 Carolsfeld&lt;/i&gt;](tn/38400.jpg)  
-Click to enlarge](img/38400.jpg)  
+Click to enlarge](img/38400.jpg.md)  
 KING GUNTHER AND BRUNHILD  
 *From the painting by Schnorr von Carolsfeld*  
 </span>
@@ -358,7 +358,7 @@ of Siegfried's dying words: "Yourselves have ye slain when ye slew me."
 <span id="img_39000"></span> <span align="CENTER"> [![THE DEATH OF
 SIEGFRIED&lt;br&gt; &lt;i&gt;From the painting by F. Leeke. By
 Permission of Franz Hanfstaengl&lt;/i&gt;](tn/39000.jpg)  
-Click to enlarge](img/39000.jpg)  
+Click to enlarge](img/39000.jpg.md)  
 THE DEATH OF SIEGFRIED  
 *From the painting by F. Leeke. By Permission of Franz Hanfstaengl*  
 </span>
@@ -367,4 +367,4 @@ THE DEATH OF SIEGFRIED
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXXVI. The Nibelungen Tragedy](tml41)
+[Next: Chapter XXXVI. The Nibelungen Tragedy](tml41.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil83)  [Next](egil85) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil83)  [Next](egil85.md) 
 
 ------------------------------------------------------------------------
 
@@ -123,4 +123,4 @@ spangles.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LXXXIV. Of Thorstein Egil's son.](egil85)
+[Next: CHAPTER LXXXIV. Of Thorstein Egil's son.](egil85.md)

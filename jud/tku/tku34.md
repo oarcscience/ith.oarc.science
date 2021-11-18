@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](tku33)  [Next](tku35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](tku33)  [Next](tku35.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,14 +10,14 @@
 
 513\. BEHOLD! this have we learned in the "Book of Concealed Mystery":
 that the Ancient of the Ancient Ones before that He prepared His
-conformations <span id="fr_90"></span>[2](#fn_89) (*in the equilibrium
+conformations <span id="fr_90"></span>[2](#fn_89.md) (*in the equilibrium
 of balance*) formed certain kings, collected certain kings, and gave due
 proportion unto certain kings; but they only subsisted (*for a time*)
 until He could expel them; and in that time hath He concealed them.
 
 514\. This is intimated in those words, Gen. xxxvi. 31: "And these are
 the kings which have reigned in ADVM, <span
-id="fr_91"></span>[3](#fn_90)
+id="fr_91"></span>[3](#fn_90.md)
 
 <span id="page_175">p. 175</span>
 
@@ -25,7 +25,7 @@ id="fr_91"></span>[3](#fn_90)
 place wherein all judgments exist.
 
 515\. But all these subsisted not until the White Head <span
-id="fr_92"></span>[1](#fn_91) of the Ancient of the Ancient Ones was
+id="fr_92"></span>[1](#fn_91.md) of the Ancient of the Ancient Ones was
 disposed (*in its ordination*).
 
 516\. When this was conformed, He disposed all the inferior
@@ -42,7 +42,7 @@ nation be governed aright.
 518\. The ordering of all things is from the Ancient of Days. For before
 that He was disposed in His conformation, nothing could be ordained,
 because as yet it was first necessary that Himself <span
-id="fr_93"></span>[2](#fn_92) should be ordained; and all the worlds
+id="fr_93"></span>[2](#fn_92.md) should be ordained; and all the worlds
 were desolate.
 
 519\. Which these words intimate, *ibid*. 32: "And there reigned in Edom
@@ -99,7 +99,7 @@ names, and are mitigated in a permanent condition through him; and they
 exist in their place, and are all called by other names and not by their
 former (*appellations*).
 
-532\. Excepting that one <span id="fr_94"></span>[1](#fn_93) concerning
+532\. Excepting that one <span id="fr_94"></span>[1](#fn_93.md) concerning
 whom it is written, Gen. xxxvi. 39: "And the name of his wife
 
 <span id="page_177">p. 177</span>
@@ -123,13 +123,13 @@ condition, and came in proper order.
 
 ### Footnotes
 
-<span id="fn_88"></span>[174:1](tku33.htm#fr_89) This brings in the
+<span id="fn_88"></span>[174:1](tku33.htm#fr_89.md) This brings in the
 subject of the worlds of unbalanced force which are said by the Zohar to
 have been created and destroyed prior to the creation of the present
 world. These worlds of unbalanced force are typified by the Edomite
 kings. (See, introduction.)
 
-<span id="fn_89"></span>[174:2](tku34.htm#fr_90) As the Sephiroth
+<span id="fn_89"></span>[174:2](tku34.htm#fr_90.md) As the Sephiroth
 proceed each from the preceding one in the series, it is evident that
 before the counterbalancing Sephira is formed. the force in the
 preceding Sephira is unbalanced; *e.g.*, the fourth Sephira is Gedulah
@@ -138,20 +138,20 @@ therefore, till Geburah appears, Gedulah is unbalanced, and this
 condition is the reign of one of the Edomite kings: but when Geburah
 appears, his reign is over.
 
-<span id="fn_90"></span>[174:3](tku34.htm#fr_91) ADVM = 1 + 4 + 6 + 40 =
+<span id="fn_90"></span>[174:3](tku34.htm#fr_91.md) ADVM = 1 + 4 + 6 + 40 =
 51 = NA = Failure. AN = also 51, and means pain. *Ergo*, also unbalanced
 force is the source alike of failure and of pain.
 
-<span id="fn_91"></span>[175:1](tku34.htm#fr_92) This is another title
+<span id="fn_91"></span>[175:1](tku34.htm#fr_92.md) This is another title
 of the Crown, Kether. the first Sephira. (See Introduction.)
 
-<span id="fn_92"></span>[175:2](tku34.htm#fr_93) Because He is the
+<span id="fn_92"></span>[175:2](tku34.htm#fr_93.md) Because He is the
 Absolute One, the Eheieh Asher Eheieh.
 
-<span id="fn_93"></span>[176:1](tku34.htm#fr_94) Hadar. HDR.
+<span id="fn_93"></span>[176:1](tku34.htm#fr_94.md) Hadar. HDR.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XXVII: Concerning the Skull of Microprosopus and its
 Appurtenances; Namely, Concerning the Subtle Air, and the Fire and the
-Dew.](tku35)
+Dew.](tku35.md)

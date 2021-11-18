@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Shiite](../shi)  [Index](index)  [Next](adg01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Shiite](../shi)  [Index](index)  [Next](adg01.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ mentioned in these coming lines.
 
 ------------------------------------------------------------------------
 
-[Next: The Cover](adg01)
+[Next: The Cover](adg01.md)

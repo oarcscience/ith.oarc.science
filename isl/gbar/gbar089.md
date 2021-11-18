@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar088) [Next](gbar090)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar088) [Next](gbar090.md)
 
 ------------------------------------------------------------------------
 
@@ -51,4 +51,4 @@ God, who is blessed for evermore.
 
 ------------------------------------------------------------------------
 
-[Next](gbar090)
+[Next](gbar090.md)

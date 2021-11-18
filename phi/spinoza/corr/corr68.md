@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr67)  [Next](corr69) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr67)  [Next](corr69.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -44,7 +44,7 @@ either in it, or in his copy of the book, there is a slip of the pen.
 For you write, that it is affirmed in Proposition v. that the objects of
 ideas are the efficient causes of the ideas, whereas this is exactly
 what is expressly denied in that proposition, and mow think that this is
-the cause of the whole confusion. <span id="fr_77"></span>[1](#fn_76)
+the cause of the whole confusion. <span id="fr_77"></span>[1](#fn_76.md)
 Accordingly it would be useless for me at present to try to write at
 greater length on this subject, but I must wait, till you explain to me
 his mind more clearly, and till I know whether he has a correct copy. I
@@ -83,7 +83,7 @@ The Hague, 18 Nov., 1675.
 
 ### Footnotes
 
-<span id="fn_76"></span>[405:1](corr68.htm#fr_77) It appears to me, that
+<span id="fn_76"></span>[405:1](corr68.htm#fr_77.md) It appears to me, that
 Schaller correctly states the difficulty of Tschirnhausen, but that by
 leaving out a negative in the sentence in question, he has attributed
 the doctrine of Prop. v. to Prop. vii., and *vice versâ*.—\[<span
@@ -91,4 +91,4 @@ class="smallcaps">Tr</span>.\]
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXIX. From Anon \[Tschirnhausen\]](corr69)
+[Next: Letter LXIX. From Anon \[Tschirnhausen\]](corr69.md)

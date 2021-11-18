@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly52)  [Next](lly54) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly52)  [Next](lly54.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ fires.
 
 ------------------------------------------------------------------------
 
-[Next: Annual Feasts](lly54)
+[Next: Annual Feasts](lly54.md)

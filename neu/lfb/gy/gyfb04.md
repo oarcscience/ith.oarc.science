@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb03)  [Next](gyfb05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb03)  [Next](gyfb05.md) 
 
 </div>
 
@@ -100,6 +100,6 @@ that in a moment it was out of her sight.
 
 ------------------------------------------------------------------------
 
-[Next: An Impossible Enchantment](gyfb05)
+[Next: An Impossible Enchantment](gyfb05.md)
 
 </div>

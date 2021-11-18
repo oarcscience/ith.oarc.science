@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof14)  [Next](otof16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof14)  [Next](otof16.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ plans and eventually every man, woman and child will have an opportunity
 to meet the visitors.
 
 If we went to another planet we would first monitor the radio
-[broadcasts](errata.htm#46) if the people had advanced that far, and we
+[broadcasts](errata.htm#46.md) if the people had advanced that far, and we
 would learn the language and code systems. Later, if we deemed it wise,
 we would contact individuals of that planet who were concerned with
 communications. A close friend of mine who is in the field of radio
@@ -215,10 +215,10 @@ unto the throne of grace, that we may obtain mercy, and find grace to
 help in time of need." (Hebrews 4:16).
 
 The prayer of the people of Earth should be that of David the
-[Psalmist](errata.htm#47): "I will lift up mine eyes unto the hills,
+[Psalmist](errata.htm#47.md): "I will lift up mine eyes unto the hills,
 from whence cometh my help." The help is from the sky and from the
 Earth.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 6. The Intruders](otof16)
+[Next: Chapter 6. The Intruders](otof16.md)

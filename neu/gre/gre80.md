@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre79)  [Next](gre81) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre79)  [Next](gre81.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ and Thorbiorn went home.
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXVI: How Noise let the Fire out on Drangey, and how
-Grettir must needs go a land for more](gre81)
+Grettir must needs go a land for more](gre81.md)

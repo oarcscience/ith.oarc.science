@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had18)  [Next](had20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had18)  [Next](had20.md) 
 
 ------------------------------------------------------------------------
 
@@ -439,4 +439,4 @@ upheld.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: Fasting](had20)
+[Next: Chapter XVII: Fasting](had20.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr11)  [Next](corr13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr11)  [Next](corr13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -107,9 +107,9 @@ infinite, its parts are by this nature of infinite power infinitely
 modified, and compelled to undergo infinite variations. But, in respect
 to substance, I conceive that each part has a more close union with its
 whole. For, as I said in my first letter <span
-id="fr_11"></span>[1](#fn_11) (addressed to you while I was still at
+id="fr_11"></span>[1](#fn_11.md) (addressed to you while I was still at
 Rhijnsburg), substance being infinite in its nature, <span
-id="fr_12"></span>[2](#fn_12) it follows, as I endeavoured to show, that
+id="fr_12"></span>[2](#fn_12.md) it follows, as I endeavoured to show, that
 each part belongs to the nature of substance, and, without it, can
 neither be nor be conceived.
 
@@ -119,7 +119,7 @@ nature; for I maintain that there exists in nature an infinite power of
 thinking, which, in so far as it is infinite, contains subjectively the
 whole of nature, and its thoughts proceed in the same manner as
 nature—that is, in the sphere of ideas. <span
-id="fr_13"></span>[3](#fn_13) Further, I take the human mind to be
+id="fr_13"></span>[3](#fn_13.md) Further, I take the human mind to be
 identical with this said power, not in so far as it is infinite, and
 perceives the whole of nature, but in so far as it is finite, and
 perceives only the human body; in this manner, I maintain that the human
@@ -152,11 +152,11 @@ success of the clocks or the date of Huyghens' journey to France.
 
 ### Footnotes
 
-<span id="fn_11"></span>[292:1](corr12.htm#fr_11) Letter II.
+<span id="fn_11"></span>[292:1](corr12.htm#fr_11.md) Letter II.
 
-<span id="fn_12"></span>[292:2](corr12.htm#fr_12) Ethics, I. viii.
+<span id="fn_12"></span>[292:2](corr12.htm#fr_12.md) Ethics, I. viii.
 
-<span id="fn_13"></span>[292:3](corr12.htm#fr_13) I have given what
+<span id="fn_13"></span>[292:3](corr12.htm#fr_13.md) I have given what
 seems to be the meaning of this passage. The text is very obscure:
 "Nempe quia statuo dare etiam in natura potentiam infinitam cogitandi,
 quæ, quatenus infinita, in se continet totam naturam objective et cujus
@@ -167,4 +167,4 @@ expressed."—\[<span class="smallcaps">Tr</span>.\]
 
 ------------------------------------------------------------------------
 
-[Next: Letter XVI. From Oldenburg](corr13)
+[Next: Letter XVI. From Oldenburg](corr13.md)

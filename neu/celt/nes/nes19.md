@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](nes18)  [Next](nes20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](nes18)  [Next](nes20.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ Sagas](../../index)  [Celtic](../index)  [Index](index) 
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 GREAT source of amusement among the folk was, and still is, at least
 among the young, a kind of riddles in rhyme. One characteristic of many
@@ -367,4 +367,4 @@ How many toad's tails wid it need to gang t’ the meen?"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Marriage](nes20)
+[Next: Chapter XVII. Marriage](nes20.md)

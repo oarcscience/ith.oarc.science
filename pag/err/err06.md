@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err05)  [Next](err07) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err05)  [Next](err07.md) 
 
 ------------------------------------------------------------------------
 
@@ -515,4 +515,4 @@ and especially in the vigorous satire of "the Christian Cicero."
 
 ------------------------------------------------------------------------
 
-[Next: Part One: Chapter IV--FAFLON](err07)
+[Next: Part One: Chapter IV--FAFLON](err07.md)

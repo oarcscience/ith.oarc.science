@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](bnm23)  [Next](bnm25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](bnm23)  [Next](bnm25.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,4 +66,4 @@ deer.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of The First Grasshopper.](bnm25)
+[Next: The Story Of The First Grasshopper.](bnm25.md)

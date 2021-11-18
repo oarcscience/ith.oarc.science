@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](ron07)  [Next](ron09) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](ron07)  [Next](ron09.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,10 +55,10 @@ Hide these, and I
 Withdraw my praise.
 
 <span id="img_11200"></span> [![](tn/11200.jpg)  
-Click to enlarge](img/11200.jpg)
+Click to enlarge](img/11200.jpg.md)
 
 The Norns vanish  
-See [p. 108](ron07.htm#page_108)
+See [p. 108](ron07.htm#page_108.md)
 
  
 
@@ -201,10 +201,10 @@ Has long ere this by the fairest
 Women on earth been loved.
 
 <span id="img_11400"></span> [![](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)
+Click to enlarge](img/11400.jpg.md)
 
 Siegfried leaves Brünnhilde in search of adventure.  
-    See [p. 111](ron07.htm#page_111).
+    See [p. 111](ron07.htm#page_111.md).
 
  
 
@@ -336,11 +336,11 @@ Who is Gibich's son?
 \[*Leaning on his horse, remains quietly standing by the boat*.\]
 
 <span id="img_11600"></span> [![](tn/11600.jpg)  
-Click to enlarge](img/11600.jpg)
+Click to enlarge](img/11600.jpg.md)
 
 Siegfried hands the drinking-horn back to Gutrune and gazes at her with
 sudden passion  
-      See [p. 119](#page_119).
+      See [p. 119](#page_119.md).
 
  
 
@@ -663,7 +663,7 @@ Bravely mixed
 In brotherly love,
 
 <span id="img_12100"></span> [![](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)
+Click to enlarge](img/12100.jpg.md)
 
 Brünnhilde kisses the ring that Siegfried has left with her  
                                                   See p. 124
@@ -1334,4 +1334,4 @@ Lie betwixt me and his bride!
 
 ------------------------------------------------------------------------
 
-[Next: The Second Act](ron09)
+[Next: The Second Act](ron09.md)

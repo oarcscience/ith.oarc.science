@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](chap09) 
-[Next](chap11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](chap09.md) 
+[Next](chap11.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ any Ii arm. Several cases which prove this fact are cited.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 11: On the Deceits and Treacheries of Women](chap11)
+[Next: Chapter 11: On the Deceits and Treacheries of Women](chap11.md)

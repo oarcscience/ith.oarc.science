@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Fortean](../index) 
-[ESP](../../psi/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Fortean](../index.md) 
+[ESP](../../psi/index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -27,8 +27,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88AK/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](wild00)    [Page
-Index](pageidx)    [Text \[Zipped\]](wild.txt.gz)
+[Contents](#contents)    [Start Reading](wild00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](wild.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -66,36 +66,36 @@ everything. We need Fort's sardonic wit more than ever.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](wild00)  
-[1](wild01)  
-[2](wild02)  
-[3](wild03)  
-[4](wild04)  
-[5](wild05)  
-[6](wild06)  
-[7](wild07)  
-[8](wild08)  
-[9](wild09)  
-[10](wild10)  
-[11](wild11)  
-[12](wild12)  
-[13](wild13)  
-[14](wild14)  
-[15](wild15)  
-[16](wild16)  
-[17](wild17)  
-[18](wild18)  
-[19](wild19)  
-[20](wild20)  
-[21](wild21)  
-[22](wild22)  
-[23](wild23)  
-[24](wild24)  
-[25](wild25)  
-[26](wild26)  
-[27](wild27)  
-[28](wild28)  
-[29](wild29)  
-[30](wild30)  
-[31](wild31)  
-[32](wild32)  
+<span id="contents"></span> [Title Page](wild00.md)  
+[1](wild01.md)  
+[2](wild02.md)  
+[3](wild03.md)  
+[4](wild04.md)  
+[5](wild05.md)  
+[6](wild06.md)  
+[7](wild07.md)  
+[8](wild08.md)  
+[9](wild09.md)  
+[10](wild10.md)  
+[11](wild11.md)  
+[12](wild12.md)  
+[13](wild13.md)  
+[14](wild14.md)  
+[15](wild15.md)  
+[16](wild16.md)  
+[17](wild17.md)  
+[18](wild18.md)  
+[19](wild19.md)  
+[20](wild20.md)  
+[21](wild21.md)  
+[22](wild22.md)  
+[23](wild23.md)  
+[24](wild24.md)  
+[25](wild25.md)  
+[26](wild26.md)  
+[27](wild27.md)  
+[28](wild28.md)  
+[29](wild29.md)  
+[30](wild30.md)  
+[31](wild31.md)  
+[32](wild32.md)  

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki232)  [Next](liki234) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki232)  [Next](liki234.md) 
 
 ------------------------------------------------------------------------
 
@@ -155,6 +155,6 @@ mourning.
 ------------------------------------------------------------------------
 
 [Next: XXXIV. Kien Kwan or Treatise on Subsidiary Points in Mourning
-Usages](liki234)
+Usages](liki234.md)
 
   

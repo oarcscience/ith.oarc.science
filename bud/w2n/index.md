@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040460417X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040460417X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/040460417X/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](w2n00)    [Page
-Index](pageidx)    [Text \[Zipped\]](w2ntxt.zip)
+[Contents](#contents)    [Start Reading](w2n00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](w2ntxt.zip.md)
 
 ------------------------------------------------------------------------
 
@@ -48,14 +48,14 @@ approaching Nirvana.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](w2n00)  
-[Préface](w2n01)  
-[Contents](w2n02)  
-[Chapter I. Indian Disciplines of Salvation](w2n03)  
-[Chapter II. The Buddhist Soul](w2n04)  
-[Chapter III. Buddhist Definition of Karman](w2n05)  
+<span id="contents"></span> [Title Page](w2n00.md)  
+[Préface](w2n01.md)  
+[Contents](w2n02.md)  
+[Chapter I. Indian Disciplines of Salvation](w2n03.md)  
+[Chapter II. The Buddhist Soul](w2n04.md)  
+[Chapter III. Buddhist Definition of Karman](w2n05.md)  
 [Chapter IV. The Doctrine of Karman and Transmigration, Cosmogony,
-Theogony](w2n06)  
-[Chapter V. Nirvāṇa](w2n07)  
-[Chapter VI. The Path To Nirvāṇa](w2n08)  
-[Index](w2n09)  
+Theogony](w2n06.md)  
+[Chapter V. Nirvāṇa](w2n07.md)  
+[Chapter VI. The Path To Nirvāṇa](w2n08.md)  
+[Index](w2n09.md)  

@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft06)  [Next](meft08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft06)  [Next](meft08.md) 
 
 ------------------------------------------------------------------------
 
 # Yallery Brown
 
 <span id="img_008"></span> [![](tn/008.jpg)  
-Click to enlarge](img/008.jpg)
+Click to enlarge](img/008.jpg.md)
 
 ONCE upon a time, and a very good time it was, though it wasn't in my
 time, nor in your time, nor anyone else's time, there was a young lad of
@@ -213,4 +213,4 @@ Thou' st let out thyself from under the stone.'
 
 ------------------------------------------------------------------------
 
-[Next: Three Feathers](meft08)
+[Next: Three Feathers](meft08.md)

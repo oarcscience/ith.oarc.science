@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm57)  [Next](rrm59) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm57)  [Next](rrm59.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
 [![No. 4.&lt;br&gt; THE ROUND TABLE OF KING ARTHUR.&lt;br&gt; From the
 Original, preserved in the Court-House of the Castle at
 Winchester.&lt;br&gt; ''SANGREALE''--Or ''HOLY GRAIL.''](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 No. 4.  
 THE ROUND TABLE OF KING ARTHUR.  
 From the Original, preserved in the Court-House of the Castle at
@@ -101,4 +101,4 @@ WAS NIGHT." S. JOHN, Chap. xiii., vers. 27, 28, 30.
 ------------------------------------------------------------------------
 
 [Next: Plate 5. Plan of the Basilica, St Peter’s in the
-''Vaticano.''](rrm59)
+''Vaticano.''](rrm59.md)

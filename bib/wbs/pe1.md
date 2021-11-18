@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](jam)  [Next](pe2) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](jam)  [Next](pe2.md) 
 
 ------------------------------------------------------------------------
 
@@ -396,4 +396,4 @@ charity. Peace be with you all that are in Christ Jesus. Amen.
 
 ------------------------------------------------------------------------
 
-[Next: 2 Peter](pe2)
+[Next: 2 Peter](pe2.md)

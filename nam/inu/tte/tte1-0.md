@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index) [Native
-American](../../index) [Inuit](../index)  
-[Index](index) [Previous](tte0-2) [Next](tte1-1)
+[Sacred-Texts](../../../index.md) [Native
+American](../../index) [Inuit](../index.md)  
+[Index](index) [Previous](tte0-2) [Next](tte1-1.md)
 
 ------------------------------------------------------------------------
 
@@ -138,7 +138,7 @@ These habits and customs are closely allied to the religious opinions,
 by which they are still more powerfully influenced. When laws and
 religion were asserted to be wanting, there was still less likelihood of
 art and science being observed. In the following introduction ([page
-83](tte2-000)) we shall endeavour to explain how these utterances of
+83](tte2-000).md) we shall endeavour to explain how these utterances of
 culture are for the most part embodied in the traditional tales.
 
 It is in accordance with the views here stated that the author has been
@@ -161,7 +161,7 @@ in 1721.
 
 ------------------------------------------------------------------------
 
-[Next](tte1-1)
+[Next](tte1-1.md)
 
  
 

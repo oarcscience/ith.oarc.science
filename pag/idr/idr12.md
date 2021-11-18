@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr11) 
-[Next](idr13) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr11.md) 
+[Next](idr13.md) 
 
 ------------------------------------------------------------------------
 
@@ -443,4 +443,4 @@ stolen property by the aid of the mighty spell of his Druid.
 
 ------------------------------------------------------------------------
 
-[Next: Neo-Druidism](idr13)
+[Next: Neo-Druidism](idr13.md)

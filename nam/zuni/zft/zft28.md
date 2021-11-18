@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft27)  [Next](zft29) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft27)  [Next](zft29.md) 
 
 ------------------------------------------------------------------------
 
@@ -917,4 +917,4 @@ And thus shortens my story.
 ------------------------------------------------------------------------
 
 [Next: The Young Swift-Runner Who Was Stripped Of His Clothing By The
-Aged Tarantula](zft29)
+Aged Tarantula](zft29.md)

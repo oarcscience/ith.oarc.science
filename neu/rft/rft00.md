@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Next](rft01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Next](rft01.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI4I/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IKKI4I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Roumanian Fairy Tales and Legends*, by E.B. Mawr, \[1881\], at
 Intangible Textual Heritage
 
@@ -32,7 +32,7 @@ Intangible Textual Heritage
 ###### Scanned, proofed and formatted at Intangible Textual Heritage, March, 2003, by J. B. Hare. This text is in the public domain in the US because it was published prior to 1923.
 
 <span id="img_queen"></span> <span align="CENTER"> [![](tn/queen.jpg)  
-Click to enlarge](img/queen.jpg)</span>
+Click to enlarge](img/queen.jpg.md)</span>
 
 Dedicated by Permission
 
@@ -46,4 +46,4 @@ ROUMANIA.
 
 ------------------------------------------------------------------------
 
-[Next: Preface](rft01)
+[Next: Preface](rft01.md)

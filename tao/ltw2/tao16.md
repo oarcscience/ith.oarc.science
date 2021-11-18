@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao16)   
-[Previous](tao15)  [Next](tao17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao16.md)   
+[Previous](tao15)  [Next](tao17.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ never die even with the decay of his body.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 17](tao17)
+[Next: Chapter 17](tao17.md)

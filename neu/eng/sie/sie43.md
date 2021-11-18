@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](sie42)  [Next](sie44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sie42)  [Next](sie44.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1854377299/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Songs of Innocence and of Experience*, by William Blake, \[1789-1794\],
 at Intangible Textual Heritage
 
@@ -65,4 +65,4 @@ That shakes the blossoms of my hoary hair
 
 ------------------------------------------------------------------------
 
-[Next: To Tirzah](sie44)
+[Next: To Tirzah](sie44.md)

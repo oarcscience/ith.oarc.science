@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub62) 
-[Next](jub64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Apocrypha](../../chr/apo/index)  [Index](index)  [Previous](jub62.md) 
+[Next](jub64.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ I fled from the face of Esau my brother, because He hath been with me
 and brought me into this land in peace, and put ye away the strange gods
 that are among you." 2. And they gave up the strange gods and that which
 was in their ears and which was †on their necks,† <span
-id="fr_720"></span>[3](#fn_717) and the idols which Rachel stole from
+id="fr_720"></span>[3](#fn_717.md) and the idols which Rachel stole from
 Laban her brother she gave wholly to Jacob. And he burnt and brake them
 to pieces and destroyed them, and hid them under an oak which is in the
 land of Shechem. 3. And he went up on the new moon of the seventh month
@@ -25,12 +25,12 @@ him to his sacrifice, and to his mother Rebecca.
 <span id="page_158">p. 158</span>
 
 \[paragraph continues\] 4. And Isaac said: "Let my son Jacob come, and
-let me see him before I die." <span id="fr_721"></span>[1](#fn_718) 5.
+let me see him before I die." <span id="fr_721"></span>[1](#fn_718.md) 5.
 And Jacob went to his father Isaac and to his mother Rebecca, to the
-house of his father Abraham, <span id="fr_722"></span>[2](#fn_719) and
+house of his father Abraham, <span id="fr_722"></span>[2](#fn_719.md) and
 he took two of his sons with him, Levi and Judah, and he came to his
 father Isaac and to his mother Rebecca. <span
-id="fr_723"></span>[3](#fn_720) 6. And Rebecca came forth from the tower
+id="fr_723"></span>[3](#fn_720.md) 6. And Rebecca came forth from the tower
 to the front of it to kiss Jacob and embrace him; for her spirit had
 revived when she heard: "Behold Jacob thy son hath come"; and she kissed
 him. 7. And she saw his two sons, and she recognised them, and said unto
@@ -48,7 +48,7 @@ my sons." 11. And they came near to him, and he turned and kissed them
 and embraced them both together. 12. And the spirit of prophecy came
 down into his mouth, and he took Levi by his right hand and Judah by his
 left. 13. And he turned to Levi first, <span
-id="fr_724"></span>[4](#fn_721) and began to bless him first, and said
+id="fr_724"></span>[4](#fn_721.md) and began to bless him first, and said
 unto him:, 'May the God of all, the very Lord of all the ages, bless
 thee and thy children throughout all the ages. 14. And may the Lord give
 to thee and to thy seed †greatness and great
@@ -57,10 +57,10 @@ to thee and to thy seed †greatness and great
 
 glory†, and cause thee and thy seed, from among all flesh, to approach
 Him to serve in His sanctuary as the angels of the presence and as the
-holy ones. <span id="fr_725"></span>[1](#fn_722) (Even) as they, will
+holy ones. <span id="fr_725"></span>[1](#fn_722) (Even.md) as they, will
 the seed of thy sons be for glory and greatness and holiness, and may He
 make them great unto all the ages. 15. And they will be princes and
-judges, and chiefs <span id="fr_726"></span>[2](#fn_723) of all the seed
+judges, and chiefs <span id="fr_726"></span>[2](#fn_723.md) of all the seed
 of the sons of Jacob;
 
 They will speak the word of the Lord in righteousness,  
@@ -68,14 +68,14 @@ And they will judge all His judgments in righteousness.
 And they will declare My ways to Jacob  
 And My paths to Israel.  
 The blessing of the Lord will be given in their mouths <span
-id="fr_727"></span>[3](#fn_724)  
+id="fr_727"></span>[3](#fn_724.md)  
 To bless all the seed of the beloved. <span
-id="fr_728"></span>[4](#fn_725)  
+id="fr_728"></span>[4](#fn_725.md)  
 16. Thy mother hath called thy name Levi,  
 And justly hath she called thy name;  
-Thou wilt be joined <span id="fr_729"></span>[5](#fn_726) to the Lord  
+Thou wilt be joined <span id="fr_729"></span>[5](#fn_726.md) to the Lord  
 And be the companion of all the sons of Jacob;  
-Let His table be thine, <span id="fr_730"></span>[6](#fn_727)  
+Let His table be thine, <span id="fr_730"></span>[6](#fn_727.md)  
 And do thou and thy sons eat thereof;  
 And may thy table be full unto all generations,  
 And thy food fail not unto all the ages.  
@@ -88,20 +88,20 @@ And cursed be every nation that curseth thee. <span id="page_160">p.
 May the Lord give thee strength and power  
 To tread down all that hate thee;  
 A prince shalt thou be, thou and one of thy sons, <span
-id="fr_731"></span>[1](#fn_728) over the sons of Jacob;  
+id="fr_731"></span>[1](#fn_728.md) over the sons of Jacob;  
 May thy name and the name of thy sons <span
-id="fr_732"></span>[2](#fn_729) go forth and traverse every land and
+id="fr_732"></span>[2](#fn_729.md) go forth and traverse every land and
 region.  
 Then will the Gentiles fear before thy face,  
 And all the nations will quake  
 \[And all the peoples will quake\]. <span
-id="fr_733"></span>[3](#fn_730)  
+id="fr_733"></span>[3](#fn_730.md)  
 19. In thee shall be the help of Jacob,  
 And in thee be found the salvation of Israel.  
 20. And when thou sittest on the throne of the honour of thy
 righteousness,  
 There will be great peace for all the seed of the sons of the
-beloved, <span id="fr_734"></span>[4](#fn_731)  
+beloved, <span id="fr_734"></span>[4](#fn_731.md)  
 And blessed will he be that blesseth thee;  
 And all that hate thee and afflict thee and curse thee  
 Shall be rooted out and destroyed from the earth and accursed."
@@ -123,52 +123,52 @@ servant Isaac.
 
 ### Footnotes
 
-<span id="fn_717"></span>[157:3](jub63.htm#fr_720) Corrupt.
+<span id="fn_717"></span>[157:3](jub63.htm#fr_720.md) Corrupt.
 
-<span id="fn_718"></span>[158:1](jub63.htm#fr_721) Isaac refused to go
+<span id="fn_718"></span>[158:1](jub63.htm#fr_721.md) Isaac refused to go
 to Bethel; cf. *Test. Levi* ix. 2.
 
-<span id="fn_719"></span>[158:2](jub63.htm#fr_722) *i. e.* to Hebron.
+<span id="fn_719"></span>[158:2](jub63.htm#fr_722.md) *i. e.* to Hebron.
 
-<span id="fn_720"></span>[158:3](jub63.htm#fr_723) This last meeting of
+<span id="fn_720"></span>[158:3](jub63.htm#fr_723.md) This last meeting of
 Jacob with Isaac is not referred to in the Rabbinical Haggada.
 
-<span id="fn_721"></span>[158:4](jub63.htm#fr_724) Cf. *Test. Levi* ix.
+<span id="fn_721"></span>[158:4](jub63.htm#fr_724.md) Cf. *Test. Levi* ix.
 1 f. The primacy of Levi is here marked.
 
-<span id="fn_722"></span>[159:1](jub63.htm#fr_725) Levi is to serve in
+<span id="fn_722"></span>[159:1](jub63.htm#fr_725.md) Levi is to serve in
 the sanctuary as the two highest orders of angels serve in the highest
 heaven.
 
-<span id="fn_723"></span>[159:2](jub63.htm#fr_726) Levi's descendants
+<span id="fn_723"></span>[159:2](jub63.htm#fr_726.md) Levi's descendants
 are not only to be priests but also rulers of the nation. This double
 function was exercised by the Maccabean priest-princes: cf. *Test. Levi*
 viii. ii ff.
 
-<span id="fn_724"></span>[159:3](jub63.htm#fr_727) *i. e.* the priestly
+<span id="fn_724"></span>[159:3](jub63.htm#fr_727.md) *i. e.* the priestly
 blessing; cf. Ecclus. l. 20.
 
-<span id="fn_725"></span>[159:4](jub63.htm#fr_728) *i. e.* of Abraham.
+<span id="fn_725"></span>[159:4](jub63.htm#fr_728.md) *i. e.* of Abraham.
 
-<span id="fn_726"></span>[159:5](jub63.htm#fr_729) A play on the name
+<span id="fn_726"></span>[159:5](jub63.htm#fr_729.md) A play on the name
 "Levi" (= *attaché*); cf. Gen. xxix. 34 (R.V. marg.); also Num. xviii.
 2, 4.
 
-<span id="fn_727"></span>[159:6](jub63.htm#fr_730) Cf. *Test. Levi*
+<span id="fn_727"></span>[159:6](jub63.htm#fr_730.md) Cf. *Test. Levi*
 viii. 16 ("and the table of the Lord shall thy seed apportion").
 
-<span id="fn_728"></span>[160:1](jub63.htm#fr_731) *i. e.*? the Messiah
+<span id="fn_728"></span>[160:1](jub63.htm#fr_731.md) *i. e.*? the Messiah
 who is to spring from Judah: but if so the expression of the hope is
 somewhat vague. More probably the reference is to the historical David.
 
-<span id="fn_729"></span>[160:2](jub63.htm#fr_732) *i. e.* the name of
+<span id="fn_729"></span>[160:2](jub63.htm#fr_732.md) *i. e.* the name of
 the Jewish people.
 
-<span id="fn_730"></span>[160:3](jub63.htm#fr_733) Bracketed as a
+<span id="fn_730"></span>[160:3](jub63.htm#fr_733.md) Bracketed as a
 dittograph.
 
-<span id="fn_731"></span>[160:4](jub63.htm#fr_734) *i. e.* of Abraham.
+<span id="fn_731"></span>[160:4](jub63.htm#fr_734.md) *i. e.* of Abraham.
 
 ------------------------------------------------------------------------
 
-[Next: Rebecca journeys with Jacob to Bethel (xxxi. 26-32)](jub64)
+[Next: Rebecca journeys with Jacob to Bethel (xxxi. 26-32)](jub64.md)

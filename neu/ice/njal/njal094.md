@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal093)  [Next](njal095) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal093)  [Next](njal095.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ Modolf the Wise.
 
 ------------------------------------------------------------------------
 
-[Next: 95. Of Hall Of The Side](njal095)
+[Next: 95. Of Hall Of The Side](njal095.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby26)  [Next](piby28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby26)  [Next](piby28.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ with them for the Lord abideth in the clean in spirit."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4. Shall Suffer](piby28)
+[Next: Chapter 4. Shall Suffer](piby28.md)

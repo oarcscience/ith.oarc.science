@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](ath04)  [Next](ath06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](ath04)  [Next](ath06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486427625/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Arabic Thought and its Place in History*, by De Lacy O'Leary, \[1922\],
 at Intangible Textual Heritage
 
@@ -132,7 +132,7 @@ the transmission of Hellenistic culture was most furthered, are best
 understood by the help of a genealogical table.
 
 <span id="img_09300"></span> ![Genealogical Table: Descendents of
-Muhammad](img/09300.jpg)
+Muhammad](img/09300.jpg.md)
 
 <span id="page_94">p. 94</span>
 
@@ -183,7 +183,7 @@ usurpers, and looking forward to the day when they could avenge the
 martyrdom of ‘Ali and his sons.
 
 We need not linger over the family of al-Hasan and his descendants. They
-were involved in ‘Alid risings at [Madina](errata.htm#12), and after the
+were involved in ‘Alid risings at [Madina](errata.htm#12.md), and after the
 suppression of one of these in 169, long after the fall of the
 ‘Umayyads, Idris the great-grandson of al-Hasan escaped to the far West
 and established a "moderate" Shi‘ite
@@ -432,4 +432,4 @@ Muslim community passes into the hands of the Persians.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Translators](ath06)
+[Next: Chapter IV. The Translators](ath06.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Age of Reason](../index) 
-[Index](index)  [Next](v1pref) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Age of Reason](../index.md) 
+[Index](index)  [Next](v1pref.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225720/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225720/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486225720/internetsacredte)
 <span id="img_pl001"></span>
 
 [![Plate I](tn/pl001.jpg)  
-Click to enlarge](img/pl001.jpg)  
+Click to enlarge](img/pl001.jpg.md)  
 Plate I  
 
 ### The Notebooks of Leonardo Da Vinci
@@ -490,4 +490,4 @@ WYNDHAM, HON. PERCY, LONDON (1 copy).
 
 ------------------------------------------------------------------------
 
-[Next: Preface](v1pref)
+[Next: Preface](v1pref.md)

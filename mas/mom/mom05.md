@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Masonry](../index) 
-[Index](index)  [Previous](mom04)  [Next](mom06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Masonry](../index.md) 
+[Index](index)  [Previous](mom04)  [Next](mom06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0517331942/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002J9HH2O/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Meaning of Masonry*, by W.L. Wilmshurst, \[1922\], at Intangible
 Textual Heritage
 
@@ -1544,4 +1544,4 @@ East.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Holy Royal Arch of Jerusalem](mom06)
+[Next: Chapter IV. The Holy Royal Arch of Jerusalem](mom06.md)

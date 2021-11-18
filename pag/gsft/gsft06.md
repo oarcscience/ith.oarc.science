@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft05) 
-[Next](gsft07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Roma](../../neu/roma/index)  [Index](index)  [Previous](gsft05.md) 
+[Next](gsft07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCMSI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Gypsy Sorcery and Fortune Telling*, by Charles Godfrey Leland,
 \[1891\], at Intangible Textual Heritage
 
@@ -47,10 +47,10 @@ others, and
 <span class="contnote">\[paragraph continues\]</span> I entertain no
 doubt that they are substantially the same; but to avoid possible error
 and confusion, I give what I have taken in this kind from Dr.
-KRAUSS <span id="fr_9"></span>[1](#fn_9) and others by itself.
+KRAUSS <span id="fr_9"></span>[1](#fn_9.md) and others by itself.
 
 As the English word *witch*, Anglo-Saxon *Wicca*, comes from a root
-implying wisdom, <span id="fr_10"></span>[2](#fn_10) so the pure
+implying wisdom, <span id="fr_10"></span>[2](#fn_10.md) so the pure
 Slavonian word *vjestica*, Bulgarian, *vjescirica* (masculine,
 *viestae*), meant originally the one knowing or well informed, and it
 has preserved the same power in allied languages, as *Veaa* (New
@@ -211,7 +211,7 @@ Transylvanian Tent Gypsies:—
 There they have cities, but they very often come to the world above.
 They are ugly, and their men are covered with hair. (All of this
 indicates a prehistoric subterranean race like the Eskimo,
-fur-clad. <span id="fr_11"></span>[1](#fn_11)) They carry off mortal
+fur-clad. <span id="fr_11"></span>[1](#fn_11).md) They carry off mortal
 girls for wives. Their life is hidden in the egg of a black hen."
 
 This is the same as that of the *Orco* or Ogre in the Italian tale, "I
@@ -267,7 +267,7 @@ curious coincidence that the Eskimo are among the former.
 
 In all parts of Eastern Europe, as in the West, many people are not only
 careful to burn the parings of their nails <span
-id="fr_12"></span>[1](#fn_12) and the combings of hair, for fear lest
+id="fr_12"></span>[1](#fn_12.md) and the combings of hair, for fear lest
 witches and imps should work sorcery with them to the injury of those
 from whom they came, but they also destroy the shells of eggs when they
 have eaten their contents. So A. WUTTKE tells us in his book,
@@ -638,14 +638,14 @@ the Armenian Christians.
 
 ### Footnotes
 
-<span id="fn_9"></span>[66:1](gsft06.htm#fr_9) "Sudslavische Hexensagen,
+<span id="fn_9"></span>[66:1](gsft06.htm#fr_9.md) "Sudslavische Hexensagen,
 Mittheilungen der Anthropologischen Gesellschaft in Wien." xiv. Bande,
 1884. "Medizinische Zauberspruche aus Slavonien, Bosnien, der
 Hercegovina und Dalmatien," Wien, 1887. "Sreča, Gluck und Schicksal im
 Volksglauben der Südslaven." Wien, 1886. "Sudslavische Pestsagen." Wien,
 1883.
 
-<span id="fn_10"></span>[66:2](gsft06.htm#fr_10) "*Witch*. Mediaeval
+<span id="fn_10"></span>[66:2](gsft06.htm#fr_10.md) "*Witch*. Mediaeval
 English *wicche*, both masculine and feminine, a wizard, a witch.
 Anglo-Saxon *wicca*, masculine, *wice*, feminine. *Wicca* is a
 corruption of *wítga*, commonly used as a short form of *witega*, a
@@ -658,12 +658,12 @@ knowing, . . . with French suffix *ard* as German *hart*, hard, strong"
 wisdom here are near allied to witchcraft, and thin partitions do the
 bounds divide.
 
-<span id="fn_11"></span>[70:1](gsft06.htm#fr_11) For a very interesting
+<span id="fn_11"></span>[70:1](gsft06.htm#fr_11.md) For a very interesting
 account of the mysterious early dwarfs of Great Britain the reader may
 consult "Earth Houses and their Inhabitants," by David MacRitchie, in
 "The Testimony of Tradition." London: Trübner and Co., 1890.
 
-<span id="fn_12"></span>[71:1](gsft06.htm#fr_12) The many superstitions
+<span id="fn_12"></span>[71:1](gsft06.htm#fr_12.md) The many superstitions
 relating to cutting nails may be referred in part to the very wild
 legend of the ship *Naglfara* given in STURLESON'S "Edda."
 
@@ -678,6 +678,6 @@ put that off as long as possible" ("Edda, Gylfesgynning," 26th tale).
 ------------------------------------------------------------------------
 
 [Next: Chapter V: Charms or Conjurations to Cure or Protect
-Animals](gsft07)
+Animals](gsft07.md)
 
 </div>

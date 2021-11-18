@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal030)  [Next](njal032) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal030)  [Next](njal032.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ him to wife if Gunnar had said anything about that.
 
 ------------------------------------------------------------------------
 
-[Next: 32. Gunnar Comes Out To Iceland](njal032)
+[Next: 32. Gunnar Comes Out To Iceland](njal032.md)

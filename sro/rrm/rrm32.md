@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](rrm31)  [Next](rrm33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](rrm31)  [Next](rrm33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564591182/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Female created He them', etc. Refer below to figs. 119, 120.
 <span id="img_25400"></span>
 
 [![Figs. 119-124](tn/25400.jpg)  
-Click to enlarge](img/25400.jpg)  
+Click to enlarge](img/25400.jpg.md)  
 Figs. 119-124  
 
 <div align="center">
@@ -41,7 +41,7 @@ Figs. 119-124
 <span id="img_25500"></span>
 
 [![Figs. 125-127](tn/25500.jpg)  
-Click to enlarge](img/25500.jpg)  
+Click to enlarge](img/25500.jpg.md)  
 Figs. 125-127  
 
 <div align="center">
@@ -73,7 +73,7 @@ Mohammedan colour,
 <span id="img_25600"></span>
 
 [![Figs. 128-136](tn/25600.jpg)  
-Click to enlarge](img/25600.jpg)  
+Click to enlarge](img/25600.jpg.md)  
 Figs. 128-136  
 
 <div align="center">
@@ -104,7 +104,7 @@ commandments
 <span id="img_25700"></span>
 
 [![Figs. 137-140](tn/25700.jpg)  
-Click to enlarge](img/25700.jpg)  
+Click to enlarge](img/25700.jpg.md)  
 Figs. 137-140  
 
 <div align="center">
@@ -143,7 +143,7 @@ Charms, supposed magically to
 <span id="img_25800"></span>
 
 [![Figs. 141-145](tn/25800.jpg)  
-Click to enlarge](img/25800.jpg)  
+Click to enlarge](img/25800.jpg.md)  
 Figs. 141-145  
 
 <div align="center">
@@ -176,7 +176,7 @@ architecture, in another sense, was harmonious communication,
 <span id="img_25900"></span>
 
 [![Figs. 146-153](tn/25900.jpg)  
-Click to enlarge](img/25900.jpg)  
+Click to enlarge](img/25900.jpg.md)  
 Figs. 146-153  
 
 <div align="center">
@@ -203,7 +203,7 @@ Fig. 152: India, Rudimental Corinthian Capital, as also Rudimental Christian</p>
 
 addressed to a capable apprehension--when the architecture was true to
 itself, and therefore of divine origin. Hence the music on [p.
-258](#page_258). These passages were supposed to be magic charms, or
+258](#page_258.md). These passages were supposed to be magic charms, or
 invocations, addressed by day and night, to the intelligent beings who
 filled the air invisibly. They were played from the fronts
 
@@ -212,7 +212,7 @@ filled the air invisibly. They were played from the fronts
 <span id="img_26000"></span>
 
 [![Figs. 154-156](tn/26000.jpg)  
-Click to enlarge](img/26000.jpg)  
+Click to enlarge](img/26000.jpg.md)  
 Figs. 154-156  
 
 Fig. 154: Stone Crosses at Sandbach, in Cheshire
@@ -236,7 +236,7 @@ portion we have the
 <span id="img_26100"></span>
 
 [![Figs. 157-165](tn/26100.jpg)  
-Click to enlarge](img/26100.jpg)  
+Click to enlarge](img/26100.jpg.md)  
 Figs. 157-165  
 
 <div align="center">
@@ -276,7 +276,7 @@ Unmistakably the destination and purpose of the familiar Maypole.
 <span id="img_26200"></span>
 
 [![Figs. 166, 167](tn/26200.jpg)  
-Click to enlarge](img/26200.jpg)  
+Click to enlarge](img/26200.jpg.md)  
 Figs. 166, 167  
 
 <div align="center">
@@ -300,12 +300,12 @@ refers the production of music to architectural forms or geometric
 diagrams; as columns and entablatures, or upright lines and cross-lines,
 and mathematical arcs and diagonals, in their modifications and
 properties, of course are. These books, which will help to explain the
-passages of music given at [p. 258](#page_258), figs. 141, 142, are
+passages of music given at [p. 258](#page_258.md), figs. 141, 142, are
 Hay's *Natural Principles and Analogy of the Harmony of Form*, and a
 very original and learned musical production, entitled *The Analogy of
 the Laws of Musical Temperament to the Natural Dissonance of Creation*,
 by M. Vernon, published in London in 1867. Through a strange theory, the
-music at [p. 258](#page_258) of our book is taken as the expression of
+music at [p. 258](#page_258.md) of our book is taken as the expression of
 the geometrical fronts of the two great temples, the Parthenon at Athens
 and the Pantheon at Rome, which are supposed to have been built with
 perfect art. We have 'translated' these phantom Æolian melodies played
@@ -315,4 +315,4 @@ notation.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The Rosicrucians Amidst Ancient Mysteries. Their
-Traces Discoverable in the Orders of Knighthood](rrm33)
+Traces Discoverable in the Orders of Knighthood](rrm33.md)

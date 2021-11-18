@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat32)  [Next](jat34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat32)  [Next](jat34.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_228">p. 228</span>
 
-### 31. COYOTE KILLS HIS OWN CHILD INSTEAD OF THE TURKEYS. <span id="fr_49"></span>[1](#fn_49)
+### 31. COYOTE KILLS HIS OWN CHILD INSTEAD OF THE TURKEYS. <span id="fr_49"></span>[1](#fn_49.md)
 
 Coyote came where a flock of turkeys was rolling in the dust. He put
 them in a sack, saying, "I am going to roll with you." When he had
@@ -25,9 +25,9 @@ only the little one, the smartest. is dead." Coyote started away again.
 
 ### Footnotes
 
-<span id="fn_49"></span>[228:1](jat33.htm#fr_49) Dorsey, (d), p. 102;
+<span id="fn_49"></span>[228:1](jat33.htm#fr_49) Dorsey, (d.md), p. 102;
 (a), p. 458.
 
 ------------------------------------------------------------------------
 
-[Next: 32. Coyote and Porcupine Contend For a Buffalo](jat34)
+[Next: 32. Coyote and Porcupine Contend For a Buffalo](jat34.md)

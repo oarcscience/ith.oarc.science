@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fwe09)  [Next](fwe11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fwe09)  [Next](fwe11.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Festivals of Western Europe*, by Dorothy Gladys Spicer, \[1958\], at
 Intangible Textual Heritage
 
@@ -371,4 +371,4 @@ wind up with breakfast at the house of some friend or neighbor.
 
 ------------------------------------------------------------------------
 
-[Next: 9. Festivals of Portugal](fwe11)
+[Next: 9. Festivals of Portugal](fwe11.md)

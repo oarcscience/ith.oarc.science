@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](otof11)  [Next](otof13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](otof11)  [Next](otof13.md) 
 
 ------------------------------------------------------------------------
 
@@ -221,7 +221,7 @@ Rolf Telano, well known to B.S.R.A. readers, must have been thinking of
 point-to-point messages intended for certain persons on this planet who
 are working with the operators of the flying discs . . . mostly their
 own people whom they have put here to live among the people of this
-planet, and act as [observers](errata.htm#18). A telephone directory
+planet, and act as [observers](errata.htm#18.md). A telephone directory
 check would be useless because they are not known among the Earthlings
 by the same name as in the message. In most cases, the name mentioned is
 the actual name of the person, but it is often a name which would sound
@@ -239,7 +239,7 @@ narrow band as to direction, being beamed directly to the person whom
 they wish to contact. If a radio set happened to be directly on the
 beam, it would be quite likely to pick up the message even if it was
 turned off, as it is possible for the voice coil of the speaker to pick
-it up by induction. [Ordinarily](errata.htm#19), however, the set is
+it up by induction. [Ordinarily](errata.htm#19.md), however, the set is
 working on the fringe of the beam, and must be turned on and tuned
 somewhere near the right frequency."
 
@@ -388,7 +388,7 @@ symbolizes
 <span id="img_pl13"></span>
 
 [![Plate XIII](tn/pl13.jpg)  
-Click to enlarge](img/pl13.jpg)  
+Click to enlarge](img/pl13.jpg.md)  
 Plate XIII  
 
 the fact that Knights of the Solar Cross have a highly developed pineal
@@ -399,7 +399,7 @@ telepathic abilities.
 
 \[paragraph continues\] They examine all men by this "eye" instead of by
 normal vision which would only allow for reason and logic instead of
-truth. (See [Plate XIII](#img_pl13)).
+truth. (See [Plate XIII](#img_pl13).md).
 
 In June, 1953 a well known magazine received the following letter in
 reference to an article they had printed on life of other worlds.
@@ -558,7 +558,7 @@ various parts of Saros, but most prominently in Egypt where we
 established a headquarters at one time. At that time, the foundations of
 your present civilization were 'laid in the earth' and the most ancient
 of your known landmarks established by means that would appear as
-miraculous to you now as they did to the [pre-Egyptians](errata.htm#20),
+miraculous to you now as they did to the [pre-Egyptians](errata.htm#20.md),
 so many thousands of years ago. Since that time the whole art of
 building in stone has become symbolic, to many of you, of the work in
 hand--the building of the human race toward its perfection.
@@ -567,7 +567,7 @@ hand--the building of the human race toward its perfection.
 
 <span id="page_226">p. 226</span>
 
-[preceptors](errata.htm#21) and as friends. Indeed, many of you knew us
+[preceptors](errata.htm#21.md) and as friends. Indeed, many of you knew us
 then, also. Now, though your own efforts, you have almost reached, in
 your majority, a new step on the long ladder of liberation. You have
 constantly been aided by our watchful inspiration, and hindered only by
@@ -603,7 +603,7 @@ for its crimes against Universal Law.
 that destruction and proceeding in the full glory of its accumulated
 knowledge, to establish an era of enlightenment on Saros. However, if
 you do accept the means offered you, and if you do establish such a
-'[millennium](errata.htm#22)' upon the basis of your present
+'[millennium](errata.htm#22.md)' upon the basis of your present
 accomplishments, yours will be the first civilization to do so.
 
 "Always before, the knowledge, the techniques, the instruction, have
@@ -838,7 +838,7 @@ this.
 A sun disk, balanced upon a four-legged stand was found at Sippar before
 the canopied throne of Shamash, the sun god. It is recorded in a tablet
 of Nebopaliddin, King of Babylonia about 880 B. C. (See [Plate
-XIV](#img_pl14)). This disk shows the central Sun with the Four Great
+XIV](#img_pl14).md). This disk shows the central Sun with the Four Great
 Primary Forces, and it shows twelve wavy lines extending out or
 radiating from the Sun. This means there are twelve planets in the Solar
 System. Since this dates from 880 B. C. it would not show the planet
@@ -848,7 +848,7 @@ Maldek or thirteen planets
 
 since Maldek ceased to exist around 1500 B. C. This sun disk is similar
 to the Ishtal-Maxin in the Solex-Mal. (See illustration on page
-[72](otof08.htm#page_72)).
+[72](otof08.htm#page_72).md).
 
 The large silver star which was placed in the floor of the Grotto of the
 Church of the Holy Nativity, in
@@ -856,7 +856,7 @@ Church of the Holy Nativity, in
 <span id="img_pl14"></span>
 
 [![PLATE XIV](tn/pl14.jpg)  
-Click to enlarge](img/pl14.jpg)  
+Click to enlarge](img/pl14.jpg.md)  
 PLATE XIV  
 
 \[paragraph continues\] Bethlehem, in the nineteenth century, at the
@@ -985,7 +985,7 @@ well of wisdom. Its branches
 <span id="img_pl15"></span>
 
 [![PLATE XV](tn/pl15.jpg)  
-Click to enlarge](img/pl15.jpg)  
+Click to enlarge](img/pl15.jpg.md)  
 PLATE XV  
 
  
@@ -998,7 +998,7 @@ Early in 1952, a strange young man appeared in California. He lectured
 on the coming of the space people to earth. He always spoke to small
 groups of students or clubs. There was nothing unusual about him except
 that he wore a lapel button on which was a distinctive symbol. (See
-[Plate XV](#img_pl15)). Here we see the familiar swastika of the Four
+[Plate XV](#img_pl15).md). Here we see the familiar swastika of the Four
 Forces and a serpent twined about a wand or rod. This is similar to the
 caduceus, a magic herald's wand, a sacred rod having power over wealth,
 prosperity, happiness, and dreams, carried by the messengers of the
@@ -1172,4 +1172,4 @@ them also will I bring."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3. The Prophets](otof13)
+[Next: Chapter 3. The Prophets](otof13.md)

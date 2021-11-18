@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Zuñi](../index)  [Index](index) 
-[Previous](zft26)  [Next](zft28) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Zuñi](../index)  [Index](index.md) 
+[Previous](zft26)  [Next](zft28.md) 
 
 ------------------------------------------------------------------------
 
@@ -226,4 +226,4 @@ Thus shortens my story.
 ------------------------------------------------------------------------
 
 [Next: The Revenge Of The Two Brothers On The Háwikuhkwe, Or The Two
-Little Ones And Their Turkeys](zft28)
+Little Ones And Their Turkeys](zft28.md)

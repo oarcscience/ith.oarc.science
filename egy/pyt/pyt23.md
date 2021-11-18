@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](pyt22)  [Next](pyt24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](pyt22)  [Next](pyt24.md) 
 
 ------------------------------------------------------------------------
 
@@ -318,4 +318,4 @@ in heaven,
 
 ------------------------------------------------------------------------
 
-[Next: 21. Second Series in Praise of Nut, Utterances 443-452](pyt24)
+[Next: 21. Second Series in Praise of Nut, Utterances 443-452](pyt24.md)

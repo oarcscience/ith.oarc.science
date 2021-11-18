@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg17)   
-[Previous](bgs16)  [Next](bgs18) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg17.md)   
+[Previous](bgs16)  [Next](bgs18.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ asad ity ucyate pārtha na ca tat prepya no iha 17.28
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. athāṣṭādaśodhyāyaḥ. (mokṣasaṃnyāsayogaḥ)](bgs18)
+[Next: XVIII. athāṣṭādaśodhyāyaḥ. (mokṣasaṃnyāsayogaḥ)](bgs18.md)

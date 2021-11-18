@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe287)  [Next](prwe289) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe287)  [Next](prwe289.md) 
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ he had a blue vein across his nose.
 
 ------------------------------------------------------------------------
 
-[Next: The Croaking of the Raven](prwe289)
+[Next: The Croaking of the Raven](prwe289.md)

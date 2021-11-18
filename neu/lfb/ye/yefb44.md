@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](yefb43)  [Next](yefb45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](yefb43)  [Next](yefb45.md) 
 
 </div>
 
@@ -18,7 +18,7 @@ Heritage
 
 <span id="page_274">p. 274</span>
 
-THE WITCH IN THE STONE BOAT <span id="fr_30"></span>[1](#fn_30)
+THE WITCH IN THE STONE BOAT <span id="fr_30"></span>[1](#fn_30.md)
 
 There were once a King and a Queen, and they had a son called Sigurd,
 who was very strong and active, and good-looking.  When the King came to
@@ -202,12 +202,12 @@ her splendid presents.
 
 ### Footnotes
 
-<span id="fn_30"></span>[274:1](yefb44.htm#fr_30) From the Icelandic.
+<span id="fn_30"></span>[274:1](yefb44.htm#fr_30.md) From the Icelandic.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Thumbelina](yefb45)
+[Next: Thumbelina](yefb45.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Judges](jdg)  [1 Samuel](sa1)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Judges](jdg)  [1 Samuel](sa1.md)
 
 ------------------------------------------------------------------------
 
@@ -9,10 +9,10 @@
 
 ------------------------------------------------------------------------
 
-[Ruth 1](rut001)  
+[Ruth 1](rut001.md)  
 
-[Ruth 2](rut002)  
+[Ruth 2](rut002.md)  
 
-[Ruth 3](rut003)  
+[Ruth 3](rut003.md)  
 
-[Ruth 4](rut004)  
+[Ruth 4](rut004.md)  

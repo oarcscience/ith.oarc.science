@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb48)  [Next](ptb50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb48)  [Next](ptb50.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,18 +23,18 @@ Thus, for example, the degree of their fortune and wealth will be
 
 <span id="page_78">p. 78</span>
 
-indicated by the doryphory, <span id="fr_129"></span>[1](#fn_129) or
+indicated by the doryphory, <span id="fr_129"></span>[1](#fn_129.md) or
 attendants of the luminaries. If the luminaries be accompanied (either
 in the same signs in which themselves are placed, or in the signs next
 following), by the benefics, and by such stars or planets as are of the
 same tendency as themselves, a conspicuous and brilliant fortune is
 presaged: especially, should the Sun be attended by matutine stars, and
-the Moon by vespertine, <span id="fr_130"></span>[2](#fn_130) and these
+the Moon by vespertine, <span id="fr_130"></span>[2](#fn_130.md) and these
 stars be also well established in the prerogatives before mentioned.
 Likewise, if Saturn or Venus be matutine, and in proper face, <span
-id="fr_131"></span>[3](#fn_131) or in an angle, it foreshows the
+id="fr_131"></span>[3](#fn_131.md) or in an angle, it foreshows the
 prosperity of either parent respectively, according to the scheme. <span
-id="fr_132"></span>[4](#fn_132) If, however, the luminaries hold no
+id="fr_132"></span>[4](#fn_132.md) If, however, the luminaries hold no
 connection with the planets, and be unattended by any doryphory, the
 adverse fortunes of the parents, their humble state and obscurity, and
 then denoted; especially, if Saturn and Venus may not be favourably
@@ -58,14 +58,14 @@ configurated with either the Sun, or Saturn; or, also, if Saturn himself
 make an harmonious configuration with the Sun; (that is to say, either
 by the conjunction, the sextile, or the trine); provided such
 configuration be fully and strongly established and confirmed: <span
-id="fr_133"></span>[5](#fn_133) and, when not so established and
+id="fr_133"></span>[5](#fn_133.md) and, when not so established and
 confirmed, although it does not actually denote a short life, yet it
 will not then equally presage a long life.
 
 <span id="page_79">p. 79</span>
 
 If however the planets be not posited in the manner just described and
-if Mars be elevated above, <span id="fr_134"></span>[1](#fn_134) or
+if Mars be elevated above, <span id="fr_134"></span>[1](#fn_134.md) or
 ascend in succession to the Sun, or to Saturn; or, even, should Saturn
 himself not be in consonance with the Sun, but configurated with it by
 the quartile or opposition, and if, when thus circumstanced, both he and
@@ -113,7 +113,7 @@ in parturition, by inflammation, or by wounds. Such are the effects
 which ensue from these aspects made by Mars to the Moon; but, should he
 make them to Venus, death will then take place from fever, some latent
 disease, or sudden sickness. Saturn's aspect <span
-id="fr_135"></span>[1](#fn_135), to the Moon, when she is oriental,
+id="fr_135"></span>[1](#fn_135.md), to the Moon, when she is oriental,
 inflicts on the mother disease and death from extreme colds, or fevers;
 but, should the Moon be occidental, the danger arises from affections of
 the womb, or from consumption.
@@ -128,7 +128,7 @@ If, however, after due attention has been paid to the foregoing points,
 a more specific inquiry still, be demanded, it will then become
 necessary to assume the place allotted to the naternal or maternal
 condition, as the case may be, for an horoscope or ascendant, in order
-to pursue the investigation. <span id="fr_136"></span>[2](#fn_136) And
+to pursue the investigation. <span id="fr_136"></span>[2](#fn_136.md) And
 by this means, which in this respect will answer the purpose of a
 nativity, all other particulars concerning the parents may be viewed
 succinctly; according to the general forms hereinafter given, as adapted
@@ -156,7 +156,7 @@ thus the earlier events are brought about by stars which are more
 oriental than others, and the latter events by those which are more
 occidental. For it is indispensably requisite that the star, under the
 influence of which some particular event is expected to happen, should
-be originally <span id="fr_137"></span>[1](#fn_137) connected with the
+be originally <span id="fr_137"></span>[1](#fn_137.md) connected with the
 place to which the inquiry, concerning that event, is allotted; and, if
 such connection should not have existed, no effect of any importance an
 possibly be produced; because a star does not exercise a vigorous
@@ -170,28 +170,28 @@ position of dominion.
 
 ### Footnotes
 
-<span id="fn_129"></span>[78:1](ptb49.htm#fr_129) Δορυφορια·This word
+<span id="fn_129"></span>[78:1](ptb49.htm#fr_129.md) Δορυφορια·This word
 has been heretofore rendered "*satellitium*" and "satellites," but, as
 these terms do not seem sufficiently precise in their meaning, and are
 already in use to signify the minor orbs which revolve round a principal
 planet, I have ventured to anglicize the Greek word; the usual
 signification of which is a "bodyguard."
 
-<span id="fn_130"></span>[78:2](ptb49.htm#fr_130) Or, in other words,
+<span id="fn_130"></span>[78:2](ptb49.htm#fr_130.md) Or, in other words,
 "should the stars, which attend the Sun, be such as rise *before him*;
 and those, which attend the Moon, such as rise *after* her."
 
-<span id="fn_131"></span>[78:3](ptb49.htm#fr_131) As described in Chap.
+<span id="fn_131"></span>[78:3](ptb49.htm#fr_131.md) As described in Chap.
 XXVI, Book I.
 
-<span id="fn_132"></span>[78:4](ptb49.htm#fr_132) Saturn being
+<span id="fn_132"></span>[78:4](ptb49.htm#fr_132.md) Saturn being
 applicable to the father, and Venus to the mother.
 
-<span id="fn_133"></span>[78:5](ptb49.htm#fr_133) The Perugio Latin
+<span id="fn_133"></span>[78:5](ptb49.htm#fr_133.md) The Perugio Latin
 translation, of 1646, inserts here, "and provided Saturn and the Sun are
 not impeded by being posited in unfortunate or unsuitable places."
 
-<span id="fn_134"></span>[79:1](ptb49.htm#fr_134) "*Elevated*." Moxon's
+<span id="fn_134"></span>[79:1](ptb49.htm#fr_134.md) "*Elevated*." Moxon's
 Mathematical Dictionary gives the following definition of this
 astrological term. "*Elevated*. A certain pre-eminence of one planet
 above another; or, a concurrence of two to a certain act, wherein one
@@ -211,10 +211,10 @@ the planet, he would (as in other instances) have used the word
 that *greater proximity* to the zenith is the truer, as well as more
 simple, meaning of the term "elevated."
 
-<span id="fn_135"></span>[80:1](ptb49.htm#fr_135) By the quartile or
+<span id="fn_135"></span>[80:1](ptb49.htm#fr_135.md) By the quartile or
 opposition, as before mentioned.
 
-<span id="fn_136"></span>[80:2](ptb49.htm#fr_136) On this passage,
+<span id="fn_136"></span>[80:2](ptb49.htm#fr_136.md) On this passage,
 Whalley remarks that "Ptolemy teacheth, from the child's nativity, to
 erect schemes for the father and mother, and thence to give judgment, as
 if it were their proper nativities; the rule is this: If the nativity be
@@ -226,9 +226,9 @@ take the place of Saturn; and for the mother, that of the Moon." Whalley
 adds, that what in this chapter hath relation to the parents, is what
 shall happen to them *after* the nativity, and not *before*."
 
-<span id="fn_137"></span>[81:1](ptb49.htm#fr_137) Or, at the actual time
+<span id="fn_137"></span>[81:1](ptb49.htm#fr_137.md) Or, at the actual time
 of nativity.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Brothers and Sisters](ptb50)
+[Next: Chapter VI. Brothers and Sisters](ptb50.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](jei04)  [Next](jei06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](jei04)  [Next](jei06.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ at all that idea having been absolutely exploded.
 We need to accentuate that last point because it is still overlooked in
 many of the more popular books. Thus in Mr. Chamber's book just referred
 to, the author begins his chapter on nebulæ by saying that "many or most
-are [probably](errata.htm#6) stellar in their constitution, though some
+are [probably](errata.htm#6.md) stellar in their constitution, though some
 of them, however, may be not such but gaseous." As a matter of fact a
 few of the early discoveries of glowing masses in the sky were thought
 to be nebula but later research has shown them to be extremely distant
@@ -146,7 +146,7 @@ bodies like the stars gives one sort of "spectrum," as the colored band
 of broken light in the prism is named. And the light from nebulæ gives
 an altogether different sort of effect, due to the presence of luminous
 gasses. Thus the spectroscope has proven absolutely that the
-[nebula](errata.htm#7) is not made up of stars.
+[nebula](errata.htm#7.md) is not made up of stars.
 
 ### SIMON NEWCOMB ON LAPLACE'S THEORY
 
@@ -203,7 +203,7 @@ tested by the principles of dynamics, and found a number of phenomena
 that contradicted the hypothesis. We need not enter into all of these,
 but one or two of them are very important from our standpoint. For
 instance, if a ring were formed as Laplace supposed, "it
-[would](errata.htm#8) be so widely extended that the mutual gravitation
+[would](errata.htm#8.md) be so widely extended that the mutual gravitation
 of its parts would be very feeble, and according to the kinetic theory
 of gases"--which describes how their particles repel one another and
 states the laws governing
@@ -289,7 +289,7 @@ rendered unnecessary by our own further consideration of the matter.
 
 ### THE RING NEBULA IN LYRA
 
-But here is Professor Ball's most [interesting](errata.htm#9)
+But here is Professor Ball's most [interesting](errata.htm#9.md)
 description, that of "The Ring Nebula in Lyra": "The central star which
 is so conspicuous in the
 
@@ -413,7 +413,7 @@ were "evidently extremely intricate." She goes on:
 Imperfectly seen at first as a uniform, greenish blue disc, an interior
 vacuity detected at Parsonstown betrayed its true nature to be rather
 annular than simply planetary. Nor is the ring it includes by any means
-[symmetrically](errata.htm#10) shaped. Lassell considered it to be
+[symmetrically](errata.htm#10.md) shaped. Lassell considered it to be
 bi-annular. Professor Vogel was impressed with the warped and twisted
 aspect of what may conceivably prove to be a multiple combination of
 rings thrown off in various planes. Closely wound spiral branches, and a
@@ -424,7 +424,7 @@ central star were observed with the Ross reflector.
 "The photographic study of these two nebula/ lately set on foot by Dr.
 Schemer at Potsdam, may be expected to add much and rapidly to our
 knowledge of their nature and conformation. The images obtained of them,
-although only half a [millemetre](errata.htm#11) in diameter, show a
+although only half a [millemetre](errata.htm#11.md) in diameter, show a
 considerable amount of detail. They confirm the annular shape attributed
 to them on the warrant of telescopic observations, and bring out, with
 singular strength the central nuclei which the best telescopes have not
@@ -521,7 +521,7 @@ Astronomical Society of the
 American* of October 14, 1916. The report follows:
 
 "Fifty of these nebulæ have been studied
-[photographically](errata.htm#12) with the Crosly reflector, using
+[photographically](errata.htm#12.md) with the Crosly reflector, using
 different lengths of exposure in order to bring out the structural
 details of the bright central portions as well as of the fainter,
 outlying parts. Most planetary nebulæ show a more or less regular ring
@@ -741,7 +741,7 @@ shrunk, and the light that once shone through the outer envelope would
 now be illuminating its inner side and only escaping through the polar
 openings. And from that point the evolution of the surface of the planet
 goes on in the way that has so often been described, with constant
-[upheavals](errata.htm#13) at first, with the separation of land and
+[upheavals](errata.htm#13.md) at first, with the separation of land and
 water after the planet has cooled to the point where water can form, and
 who can doubt that some similar sort of evolution has gone on in the
 inside and hidden portion of the planet?
@@ -791,7 +791,7 @@ strange celestial procession of matter that we call a comet.
 
 [![A PHOTOGRAPHIC REPRODUCTION OF A DRAWING SHOWING THE HEAD OF DONATI'S
 COMET AS SEEN IN 1853](tn/06200.jpg)  
-Click to enlarge](img/06200.jpg)  
+Click to enlarge](img/06200.jpg.md)  
 A PHOTOGRAPHIC REPRODUCTION OF A DRAWING SHOWING THE HEAD OF DONATI'S
 COMET AS SEEN IN 1853  
 
@@ -832,7 +832,7 @@ And here is still more remarkable testimony. Hector MacPherson tells us
 in his book, "The Romance of Modern Astronomy" that the great comet of
 1811, with a tail stretching for a hundred million miles behind and
 fifteen million miles in breadth, had a nucleus that according to
-measurements by [Herschell](errata.htm#14) was only 428 miles in
+measurements by [Herschell](errata.htm#14.md) was only 428 miles in
 diameter. The comet of Donati, detected from a Florence observatory in
 1858, had a nucleus which "shone with a brilliance equal to that of the
 Polar Star" and which was 630 miles in diameter. MacPherson also tells
@@ -847,7 +847,7 @@ comet is in very truth the last state of a planet after it had been
 broken up, and before its last vestige--the central sun--in its turn is
 broken into fragments.
 
-### CELLULAR STRUCTURE [THROUGHOUT](errata.htm#15) THE UNIVERSE
+### CELLULAR STRUCTURE [THROUGHOUT](errata.htm#15.md) THE UNIVERSE
 
 It is perhaps aside from our main argument, but the likeness between the
 cellular structure of the living body, the cellular structure of the
@@ -867,4 +867,4 @@ fantastic comparison.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Mars](jei06)
+[Next: Chapter III. Mars](jei06.md)

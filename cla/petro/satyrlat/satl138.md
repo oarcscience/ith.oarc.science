@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat17.htm#CXXXVIII) 
-[Previous](satl137)  [Next](satl139) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat17.htm#CXXXVIII.md) 
+[Previous](satl137)  [Next](satl139.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ lusum puto. Modo redire in gratiam liceat".
 
 ------------------------------------------------------------------------
 
-[Next: CXXXIX](satl139)
+[Next: CXXXIX](satl139.md)

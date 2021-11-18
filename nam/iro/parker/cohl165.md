@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl164)  [Next](cohl166) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl164)  [Next](cohl166.md) 
 
 ------------------------------------------------------------------------
 
@@ -114,4 +114,4 @@ Planter*, but the whites called him Cornplanter."
 
 ------------------------------------------------------------------------
 
-[Next: Key to Phonic System](cohl166)
+[Next: Key to Phonic System](cohl166.md)

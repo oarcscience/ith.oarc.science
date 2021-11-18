@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp16)  [Next](flwp18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp16)  [Next](flwp18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -44,7 +44,7 @@ exists, and that which exists for the sake of that thing. For matter
 exists for the sake of something, viz. for the sake of the form which it
 contains. For a certain matter is then matter, when it has form. Hence,
 artists cause matter, which has not been yet adorned, to become adapted
-to the reception of a certain form; <span id="fr_50"></span>[\*](#fn_50)
+to the reception of a certain form; <span id="fr_50"></span>[\*](#fn_50.md)
 and according to the proficiency which they make in preparing the
 matter, in such proportion also does form accede. For stones are not the
 matter of the form of the house, till they are made smooth, if it should
@@ -78,10 +78,10 @@ that cause from which the matter of it is derived.
 
 ### Footnotes
 
-<span id="fn_50"></span>[57:\*](flwp17.htm#fr_50) In the original, διο
+<span id="fn_50"></span>[57:\*](flwp17.htm#fr_50.md) In the original, διο
 και ευεργον ποιουσιν οι τεχνεται, την μηπω ουσαν υλην. But for ουσαν in
 this passage, I read, conformably to the above translation, κοσμουσαν.
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Twelfth](flwp18)
+[Next: Argument the Twelfth](flwp18.md)

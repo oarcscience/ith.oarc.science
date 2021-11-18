@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf18)  [Next](fmf20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf18)  [Next](fmf20.md) 
 
 ------------------------------------------------------------------------
 
@@ -148,4 +148,4 @@ Unpacking.
 ------------------------------------------------------------------------
 
 [Next: The Fable of The Brotherhood of States and The Wife Who Was
-Responsible for the Jubilee](fmf20)
+Responsible for the Jubilee](fmf20.md)

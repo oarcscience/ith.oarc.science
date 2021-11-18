@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](spe20) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](spe20.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,7 +46,7 @@ by the means of a ramrod. These were also called pop-guns; and perhaps
 more properly, from the popping noise they made in discharging the
 pellets. Big bouncing words are compared to pot-gun reports in a comedy
 called *The Knave in Graine*, printed in 1640. <span
-id="fr_950"></span>[1](#fn_949)
+id="fr_950"></span>[1](#fn_949.md)
 
 HORSES.--Most boys are exceedingly delighted with riding, either on
 horses or in carriages, and also upon men's shoulders, which we have
@@ -61,9 +61,9 @@ have joined in it, either to relax the
 
 vigour of their own minds for a time, or to delight their children. The
 Persian ambassadors found Agesilaus, the Lacedemonian monarch, employed
-in this manner. <span id="fr_951"></span>[1](#fn_950) Socrates also did
+in this manner. <span id="fr_951"></span>[1](#fn_950.md) Socrates also did
 the same, for which it seems his pupil Alcibiades used to laugh at
-him. <span id="fr_952"></span>[2](#fn_951) If we turn to the eighteenth
+him. <span id="fr_952"></span>[2](#fn_951.md) If we turn to the eighteenth
 plate we shall see two boys, each of them having two wands, the one
 serves for a horse, and the other for a spear, and thus equipped they
 are justing together. Again upon the fourteenth plate a boy is mounted
@@ -89,7 +89,7 @@ distance from his comrades before they pursue him, their object is to
 take him if possible before he can return home. We have the following
 speech from an idle boy in *The longer thou livest the more Fool thou
 art*, an old comedy, written towards the close of the sixteenth
-century; <span id="fr_953"></span>[3](#fn_952)
+century; <span id="fr_953"></span>[3](#fn_952.md)
 
 "And also when we play and hunt the fox,  
 I outrun all the boys in the schoole."
@@ -175,10 +175,10 @@ for mastery at this diversion.
 Hopping and standing upon one leg are both of them childish sports, but
 at the same time very ancient, for they were practised by the Grecian
 youth; one they called *akinetinda*, <span
-id="fr_954"></span>[1](#fn_953) which was a struggle between the
+id="fr_954"></span>[1](#fn_953.md) which was a struggle between the
 competitors who should stand motionless the longest upon the sole of his
 foot; the other denominated *ascoliasmos*, was dancing or hopping upon
-one foot, <span id="fr_955"></span>[2](#fn_954) the conqueror being he
+one foot, <span id="fr_955"></span>[2](#fn_954.md) the conqueror being he
 could hop the most frequently, and continue the performance longer than
 any of his comrades; and this pastime is alluded to by the author of the
 old comedy, *The longer thou livest the more Fool thou art*, wherein a
@@ -187,7 +187,7 @@ boy boasting of his proficiency in various school games, adds,
 "And I hop a good way upon my one legge."
 
 Among the school-boys in my memory there was a pastime called
-Hop-Scotch, <span id="fr_956"></span>[3](#fn_955) which was played in
+Hop-Scotch, <span id="fr_956"></span>[3](#fn_955.md) which was played in
 this manner: a parallelogram about four or five feet wide, and ten or
 twelve feet in length, was made upon the ground and divided laterally
 into eighteen or twenty different compartments, which were called beds;
@@ -229,9 +229,9 @@ small things that could be easily bowled along, were used as marbles.
 Those now played with seem to be of more modern invention. It is said of
 Augustus when young, that by way of amusement he spent many hours in
 playing with little Moorish boys with nuts. <span
-id="fr_957"></span>[1](#fn_956) The author of one of the Tatlers calls
+id="fr_957"></span>[1](#fn_956.md) The author of one of the Tatlers calls
 it "a game of marbles not unlike our common taw." <span
-id="fr_958"></span>[2](#fn_957)
+id="fr_958"></span>[2](#fn_957.md)
 
 Taw, wherein a number of boys put each of them one or two marbles in a
 ring and shoot at them alternately with other marbles, and he who
@@ -267,20 +267,20 @@ Pyramid, Rising Taw, Spanners, Three Holes, and Tip-Shears.
 TOPS, ETC.--THE DEVIL AMONG THE TAILORS.--The top was used in remote
 times by the Grecian boys. It is mentioned by Suidas, and called in
 Greek τροχος, and in Latin turbo. It was well known at Rome in the days
-of Virgil, <span id="fr_959"></span>[3](#fn_958) and with us as early at
+of Virgil, <span id="fr_959"></span>[3](#fn_958.md) and with us as early at
 least as the fourteenth century, when its form was the same as it is
 now, and the manner of using it can admit of but little if any
 difference. Boys whipping of tops occur in the marginal paintings of the
-MSS. written at this period. <span id="fr_960"></span>[4](#fn_959) It
+MSS. written at this period. <span id="fr_960"></span>[4](#fn_959.md) It
 was probably in use long before.
 
-In a manuscript at the Museum <span id="fr_961"></span>[5](#fn_960) I
+In a manuscript at the Museum <span id="fr_961"></span>[5](#fn_960.md) I
 met with the following anecdote of Prince Henry, the eldest son of James
 I., and the author assures us it is
 
 <span id="page_305">p. 305</span>
 
-perfectly genuine; <span id="fr_962"></span>[1](#fn_961) his words are
+perfectly genuine; <span id="fr_962"></span>[1](#fn_961.md) his words are
 these: "The first tyme that he the prince went to the towne of Sterling
 to meete the king, seeing a little without the gate of the towne a stack
 of corne in proportion not unlike to a topp wherewith he used to play;
@@ -341,7 +341,7 @@ played by the boys at the commencement of the last century; it probably
 bore some analogy to pitch and hustle. There is a letter in the
 *Spectator* supposed to be from the father of a romp, who, among other
 complaints of her conduct, says, "I catched her once at eleven years old
-at chuck-farthing among the boys." <span id="fr_963"></span>[1](#fn_962)
+at chuck-farthing among the boys." <span id="fr_963"></span>[1](#fn_962.md)
 I have seen a game thus denominated played with half-pence, every one of
 the competitors having a like number, either two or four, and a hole
 being made in the ground with a mark at a given distance for the players
@@ -357,7 +357,7 @@ half-pence remain.
 
 Duck and Drake, is a very silly pastime, though inferior to few in point
 of antiquity. It is called in Greek, Εποστρακισμος <span
-id="fr_964"></span>[2](#fn_963) and was anciently played with flat
+id="fr_964"></span>[2](#fn_963.md) and was anciently played with flat
 shells, which the boys threw into the water, and he whose shell
 rebounded most frequently from the surface before it finally sunk, was
 the conqueror. With us a part of a tile, a potsherd, or a flat stone,
@@ -397,7 +397,7 @@ without from knowing where it is; when
 <span id="img_pl38"></span>
 
 [![Children's Games](tn/pl38.jpg)  
-Click to enlarge](img/pl38.jpg)  
+Click to enlarge](img/pl38.jpg.md)  
 Children's Games  
 
  
@@ -409,23 +409,23 @@ that time, must change place with him, and the play recommences.
 
 Shuttle-cock has been spoken of in a former chapter; an ancient
 representation of the game is given upon the [thirty-eighth
-plate](#img_pl38).
+plate](#img_pl38.md).
 
-Sporting with Insects.--On the [thirty-eighth plate](#img_pl38) we see a
+Sporting with Insects.--On the [thirty-eighth plate](#img_pl38.md) we see a
 boy playing with some large insect to which is fastened a string or
 thread. It is from a manuscript of early fourteenth century date. <span
-id="fr_965"></span>[1](#fn_964)
+id="fr_965"></span>[1](#fn_964.md)
 
 This barbarous sport is exceedingly ancient. We find it mentioned by
 Aristophanes in the comedy of *The Clouds*. <span
-id="fr_966"></span>[2](#fn_965) It is called in the Greek Μηλολονθη,
+id="fr_966"></span>[2](#fn_965.md) It is called in the Greek Μηλολονθη,
 rendered in the Latin scarabæus, which seems to have been the name of
 the insect. But the Grecian boys were less cruel in the operation than
 those of modern times, for they bound the thread about the legs of the
 beetle, instead of thrusting a pin through its tail, as is the custom of
 English boys with cockchafers. We are also told that the former
 frequently amused themselves in the same manner with little birds,
-substituted for the beetles. <span id="fr_967"></span>[3](#fn_966)
+substituted for the beetles. <span id="fr_967"></span>[3](#fn_966.md)
 
 The Kite is a paper machine well known in the present day, which the
 boys fly into the air and retain by means of a long string. It received
@@ -449,12 +449,12 @@ The strangest long-wing’d Hawk that flies."
 not by that name, in 1634, when John Bate gave directions for flying a
 kite to carry fireworks, "raising it against the wind in an open field."
 Two lively cuts are given of it (one is reproduced on [plate
-thirty-six](spe20.htm#img_pl36)), with directions how to make it, but no
+thirty-six](spe20.htm#img_pl36).md), with directions how to make it, but no
 name is assigned to the ærial machine. <span
-id="fr_968"></span>[4](#fn_967)
+id="fr_968"></span>[4](#fn_967.md)
 
 The Paper Windwill, which appears upon the [thirty-eighth
-plate](#img_pl38), is taken from a painting which is nearly five hundred
+plate](#img_pl38.md), is taken from a painting which is nearly five hundred
 years old; though it differs very little in its form from those used by
 the children at present.
 
@@ -473,19 +473,19 @@ the latter in bearing a disappointment."
 At the bottom of the thirty-eighth plate we see a sport of this kind of
 fourteenth century date, where four persons are playing, but the object
 they are aiming at is much larger than a cherry, and was probably
-intended to represent an apple. <span id="fr_969"></span>[1](#fn_968)
+intended to represent an apple. <span id="fr_969"></span>[1](#fn_968.md)
 "It was customary," we are told by Mr Brand, on the eve of All-Hallows,
 for the young people in the north to dive for apples, or catch at them
 when stuck at one end of a kind of hanging beam, at the other extremity
 of which is fixed a lighted candle, and that with their mouths, only
 having their hands tied behind their back." <span
-id="fr_970"></span>[2](#fn_969)
+id="fr_970"></span>[2](#fn_969.md)
 
 HOODMAN BLIND--HOT COCKLES.--*Hoodman Blind*, more commonly called Blind
 Man's Buff, is where a player is blinded and buffeted by his comrades
 until he can catch one of them, which done, the person caught is blinded
 in his stead. This pastime was known to the Grecian youth, and called by
-them Μυια χαλκι. <span id="fr_971"></span>[3](#fn_970) It is called
+them Μυια χαλκι. <span id="fr_971"></span>[3](#fn_970.md) It is called
 Hoodman's Blind because the players formerly were blinded with their
 hoods. In the *Two Angry Women of Abington*, a comedy, this pastime is
 called the Christmas-sport of Hobman-Blind.
@@ -526,7 +526,7 @@ chytrinda took place in this manner:--A
 <span id="img_pl39"></span>
 
 [![Hoodman Blind](tn/pl39.jpg)  
-Click to enlarge](img/pl39.jpg)  
+Click to enlarge](img/pl39.jpg.md)  
 Hoodman Blind  
 
  
@@ -537,11 +537,11 @@ single player, called χοτρα, kotra, and with us the frog, being seated
 upon the ground, was surrounded by his comrades who pulled or buffeted
 him until he could catch one of them; which done the person caught took
 his place, and was buffeted in like manner. <span
-id="fr_972"></span>[1](#fn_971) I scarcely need to add, that the frog in
+id="fr_972"></span>[1](#fn_971.md) I scarcely need to add, that the frog in
 the middle, as it is played in the present day, does not admit of any
 material variation. There was another method of playing this game,
 according to the same author; but it bears no reference to either of
-those above described. Upon the [thirty-ninth plate](#img_pl39) the
+those above described. Upon the [thirty-ninth plate](#img_pl39.md) the
 reader will find both the pastimes above mentioned, which are also taken
 from the Bodleian MS.
 
@@ -559,7 +559,7 @@ the dreadful instrument used upon these occasions. The original painting
 occurs in the manuscript mentioned in the preceding article.
 
 ANONYMOUS PASTIMES--MOCK HONOURS AT BOARDING SCHOOLS.--Upon the
-[forty-first plate](#img_pl41) are two representations of a pastime, the
+[forty-first plate](#img_pl41.md) are two representations of a pastime, the
 name of which is unknown to me; but the purpose of it is readily
 discovered.
 
@@ -613,19 +613,19 @@ and poor miss is unexpectedly immerged in the water.
 
 HOUSES OF CARDS--QUESTIONS AND
 COMMANDS--HANDY-DANDY--SNAPDRAGON--PUSH-PIN--CRAMBO--LOTTERIES.--*Building*
-of houses *with cards*, and such like [materials](errata.htm#3), is a
+of houses *with cards*, and such like [materials](errata.htm#3.md), is a
 very common amusement with children, as well as drawing little waggons,
 carts, and coaches; and sometimes boys will harness dogs and other
 animals, and put them to their waggons in imitation of horses. Something
 of this kind is alluded to by Horace, who writes thus in one of his
-satires: <span id="fr_973"></span>[1](#fn_972)
+satires: <span id="fr_973"></span>[1](#fn_972.md)
 
            "Ædificare cassus, plostello adjungere mures."  
 To build little houses, and join mice to the diminutive waggons.
 
 *Questions and Commands*, a childish pastime, which though somewhat
 different in the modern modification, most probably derived its origin
-from the basilinda, Βασιλινδα, <span id="fr_974"></span>[2](#fn_973) of
+from the basilinda, Βασιλινδα, <span id="fr_974"></span>[2](#fn_973.md) of
 the Greeks, in which we are told a king, elected by lot, commanded his
 comrades what they should perform.
 
@@ -651,7 +651,7 @@ young folks of both
 <span id="img_pl40"></span>
 
 [![Hot Cockles &c.](tn/pl40.jpg)  
-Click to enlarge](img/pl40.jpg)  
+Click to enlarge](img/pl40.jpg.md)  
 Hot Cockles &c.  
 
  
@@ -667,11 +667,11 @@ one pin across another.
 
 *Crambo* is a diversion wherein one gives a word, to which another finds
 a rhyme; this, with other trifling amusements, is mentioned in a paper
-belonging to the Spectator. <span id="fr_975"></span>[1](#fn_974) "A
+belonging to the Spectator. <span id="fr_975"></span>[1](#fn_974.md) "A
 little superior to these," that is, to persons engaged in
 cross-purposes, questions, and commands, "are those who can play at
 crambo, or cap-verses." In this we trace some vestige of a more ancient
-pastime, much in vogue in the fourteenth and [fifteenth](errata.htm#4)
+pastime, much in vogue in the fourteenth and [fifteenth](errata.htm#4.md)
 centuries, called the A B C of Aristotle; which is strongly recommended
 by the author, one "Mayster Bennet," not only to children, but also to
 persons of man's estate, if ignorant of letters. The proem to this
@@ -709,7 +709,7 @@ V to venemous, to violent, and waste nat too mych.
 W to wyld, ne wrathful, and ne too wyse deeme thee.  
                  For fear of a fall.  
 A measurable meane way is best for us all. Explicit." <span
-id="fr_976"></span>[2](#fn_975)
+id="fr_976"></span>[2](#fn_975.md)
 
 *Lotteries*, in which toys and other trifling prizes were included to be
 drawn for by children, were in fashion formerly, but by degrees, and
@@ -749,11 +749,11 @@ spoken of as boys' games, in a comedy called *The longer thou livest the
 more Fool thou art*, written in the reign of Queen Elizabeth.
 
 \* This may have been the same as *Pegge Morrell*, described on page
-[258](spe19.htm#page_258).
+[258](spe19.htm#page_258.md).
 
 *Penny-Pricke* appears to have been a common game in the fifteenth
 century, and is reproved by a religious writer of that period. <span
-id="fr_977"></span>[1](#fn_976)
+id="fr_977"></span>[1](#fn_976.md)
 
 \* The game consisted in throwing at pence, which were placed on pieces
 of stick called holes, with a piece of iron. It is thus named in 1616:--
@@ -761,11 +761,11 @@ of stick called holes, with a piece of iron. It is thus named in 1616:--
 "Their idle hours (I meane all houres beside  
 Their hours to eatt, to drinke, drab, sleepe, and ride)  
 They spend at shove-board, or at penny-pricke." <span
-id="fr_978"></span>[2](#fn_977)
+id="fr_978"></span>[2](#fn_977.md)
 
 *Pick-point*, *Venter-point*, *Blow-point*, and *Gregory*, occur in a
 description of the children's games in the sixteenth century. <span
-id="fr_979"></span>[3](#fn_978) Blow-point was probably blowing an arrow
+id="fr_979"></span>[3](#fn_978.md) Blow-point was probably blowing an arrow
 through a trunk at certain numbers by way of lottery. To these may be
 added another pastime, called Drawing Dun out of the Mire. Chaucer
 probably alludes to this pastime in the Manciple's Prologue, where the
@@ -782,7 +782,7 @@ Or at the drawing Dun out of the myer."
 <span id="img_pl41"></span>
 
 [![Games Unknown](tn/pl41.jpg)  
-Click to enlarge](img/pl41.jpg)  
+Click to enlarge](img/pl41.jpg.md)  
 Games Unknown  
 
  
@@ -790,105 +790,105 @@ Games Unknown
 <span id="page_313">p. 313</span>
 
 \* It was a mere Christmas gambol with a great log of wood. <span
-id="fr_980"></span>[1](#fn_979)
+id="fr_980"></span>[1](#fn_979.md)
 
 *Mottoes*, *Similes*, and *Cross Purposes*, are placed among the
 children's games in a paper belonging to the *Spectator*. <span
-id="fr_981"></span>[2](#fn_980) And the *Parson has lost his cloak*, in
+id="fr_981"></span>[2](#fn_980.md) And the *Parson has lost his cloak*, in
 another, where a supposed correspondent writes thus: "I desire to know
 if the merry game of the parson has lost his cloak is not much in vogue
 amongst the ladies this Christmas, because I see they wear hoods of all
 colours, which I suppose is for that purpose." <span
-id="fr_982"></span>[3](#fn_981)
+id="fr_982"></span>[3](#fn_981.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_949"></span>[300:1](spe21.htm#fr_950) Garrick's Collection,
+<span id="fn_949"></span>[300:1](spe21.htm#fr_950.md) Garrick's Collection,
 G. vol. ii.
 
-<span id="fn_950"></span>[301:1](spe21.htm#fr_951) Plut. in Apophthegm.
+<span id="fn_950"></span>[301:1](spe21.htm#fr_951.md) Plut. in Apophthegm.
 Laced. et Ælian. Var. Hist. lib. xii. cap. 15.
 
-<span id="fn_951"></span>[301:2](spe21.htm#fr_952) Val. Max, lib. viii.
+<span id="fn_951"></span>[301:2](spe21.htm#fr_952.md) Val. Max, lib. viii.
 cap. 8.
 
-<span id="fn_952"></span>[301:3](spe21.htm#fr_953) Garrick's Collect. I.
+<span id="fn_952"></span>[301:3](spe21.htm#fr_953.md) Garrick's Collect. I.
 vol. xviii.
 
-<span id="fn_953"></span>[303:1](spe21.htm#fr_954) Joan. Meursi, de Lud.
+<span id="fn_953"></span>[303:1](spe21.htm#fr_954.md) Joan. Meursi, de Lud.
 Græc.
 
-<span id="fn_954"></span>[303:2](spe21.htm#fr_955) Pollux, lib. ix. cap.
+<span id="fn_954"></span>[303:2](spe21.htm#fr_955.md) Pollux, lib. ix. cap.
 7.
 
-<span id="fn_955"></span>[303:3](spe21.htm#fr_956) The second half of
+<span id="fn_955"></span>[303:3](spe21.htm#fr_956.md) The second half of
 the name of this undying game comes from *scotch*, an incised line or
 scratch.
 
-<span id="fn_956"></span>[304:1](spe21.htm#fr_957) Sueton., in Vita Aug.
+<span id="fn_956"></span>[304:1](spe21.htm#fr_957.md) Sueton., in Vita Aug.
 cap. 83.
 
-<span id="fn_957"></span>[304:2](spe21.htm#fr_958) No. 112.
+<span id="fn_957"></span>[304:2](spe21.htm#fr_958.md) No. 112.
 
-<span id="fn_958"></span>[304:3](spe21.htm#fr_959) The poet has drawn a
+<span id="fn_958"></span>[304:3](spe21.htm#fr_959.md) The poet has drawn a
 simile from this pastime. Æneid, vii. 378.
 
-<span id="fn_959"></span>[304:4](spe21.htm#fr_960) An example of this is
-given at the bottom of [plate eleven](spe10.htm#img_pl11).
+<span id="fn_959"></span>[304:4](spe21.htm#fr_960.md) An example of this is
+given at the bottom of [plate eleven](spe10.htm#img_pl11.md).
 
-<span id="fn_960"></span>[304:5](spe21.htm#fr_961) Harl. Lib. No. 6391.
+<span id="fn_960"></span>[304:5](spe21.htm#fr_961.md) Harl. Lib. No. 6391.
 
-<span id="fn_961"></span>[305:1](spe21.htm#fr_962) Harl. Lib. No. 6391.
+<span id="fn_961"></span>[305:1](spe21.htm#fr_962.md) Harl. Lib. No. 6391.
 
-<span id="fn_962"></span>[306:1](spe21.htm#fr_963) Vol. vi. No. 466.
+<span id="fn_962"></span>[306:1](spe21.htm#fr_963.md) Vol. vi. No. 466.
 
-<span id="fn_963"></span>[306:2](spe21.htm#fr_964) Pollux, lib. ix. cap.
+<span id="fn_963"></span>[306:2](spe21.htm#fr_964.md) Pollux, lib. ix. cap.
 7.
 
-<span id="fn_964"></span>[307:1](spe21.htm#fr_965) Roy. Lib. No. 2, B.
+<span id="fn_964"></span>[307:1](spe21.htm#fr_965.md) Roy. Lib. No. 2, B.
 vii.
 
-<span id="fn_965"></span>[307:2](spe21.htm#fr_966) Act ii. scene the
+<span id="fn_965"></span>[307:2](spe21.htm#fr_966.md) Act ii. scene the
 last.
 
-<span id="fn_966"></span>[307:3](spe21.htm#fr_967) Pollux, lib. ix. cap.
+<span id="fn_966"></span>[307:3](spe21.htm#fr_967.md) Pollux, lib. ix. cap.
 
-<span id="fn_967"></span>[307:4](spe21.htm#fr_968) Bate's *Mysteries of
+<span id="fn_967"></span>[307:4](spe21.htm#fr_968.md) Bate's *Mysteries of
 Nature and Art*, pp. 100-102.
 
-<span id="fn_968"></span>[308:1](spe21.htm#fr_969) Roy. Lib. No. 2, B.
+<span id="fn_968"></span>[308:1](spe21.htm#fr_969.md) Roy. Lib. No. 2, B.
 vii.
 
-<span id="fn_969"></span>[308:2](spe21.htm#fr_970) Addition to Bourne's
+<span id="fn_969"></span>[308:2](spe21.htm#fr_970.md) Addition to Bourne's
 Vulg. Antiq.
 
-<span id="fn_970"></span>[308:3](spe21.htm#fr_971) Pollux. lib. ix. cap.
+<span id="fn_970"></span>[308:3](spe21.htm#fr_971.md) Pollux. lib. ix. cap.
 7.
 
-<span id="fn_971"></span>[309:1](spe21.htm#fr_972) Pollux, lib. ix. cap.
+<span id="fn_971"></span>[309:1](spe21.htm#fr_972.md) Pollux, lib. ix. cap.
 7.
 
-<span id="fn_972"></span>[310:1](spe21.htm#fr_973) Lib. ii. sat. 3, line
+<span id="fn_972"></span>[310:1](spe21.htm#fr_973.md) Lib. ii. sat. 3, line
 47.
 
-<span id="fn_973"></span>[310:2](spe21.htm#fr_974) Pollux, lib. ix. cap.
+<span id="fn_973"></span>[310:2](spe21.htm#fr_974.md) Pollux, lib. ix. cap.
 7.
 
-<span id="fn_974"></span>[311:1](spe21.htm#fr_975) Vol. vii. No. 504.
+<span id="fn_974"></span>[311:1](spe21.htm#fr_975.md) Vol. vii. No. 504.
 
-<span id="fn_975"></span>[311:2](spe21.htm#fr_976) Harl. MSS. 1706, 541.
+<span id="fn_975"></span>[311:2](spe21.htm#fr_976.md) Harl. MSS. 1706, 541.
 
-<span id="fn_976"></span>[312:1](spe21.htm#fr_977) Harl. MS. 2391.
+<span id="fn_976"></span>[312:1](spe21.htm#fr_977.md) Harl. MS. 2391.
 
-<span id="fn_977"></span>[312:2](spe21.htm#fr_978) Scot's *Philomythil*.
+<span id="fn_977"></span>[312:2](spe21.htm#fr_978.md) Scot's *Philomythil*.
 
-<span id="fn_978"></span>[312:3](spe21.htm#fr_979) Harl. MS. 2125.
+<span id="fn_978"></span>[312:3](spe21.htm#fr_979.md) Harl. MS. 2125.
 
-<span id="fn_979"></span>[313:1](spe21.htm#fr_980) "Hazlitt's edit. of
+<span id="fn_979"></span>[313:1](spe21.htm#fr_980.md) "Hazlitt's edit. of
 Brand's *Popular Antiquities*, iii. 308.
 
-<span id="fn_980"></span>[313:2](spe21.htm#fr_981) Vol. iii. No. 245.
+<span id="fn_980"></span>[313:2](spe21.htm#fr_981.md) Vol. iii. No. 245.
 
-<span id="fn_981"></span>[313:3](spe21.htm#fr_982) Vol. iv. 278.
+<span id="fn_981"></span>[313:3](spe21.htm#fr_982.md) Vol. iv. 278.

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft15)  [Next](mcft17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft15)  [Next](mcft17.md) 
 
 ------------------------------------------------------------------------
 
@@ -701,4 +701,4 @@ of the leg of Kayn, son of Loy.
 
 ------------------------------------------------------------------------
 
-[Next: How Fin went to the Kingdom of the Big Men](mcft17)
+[Next: How Fin went to the Kingdom of the Big Men](mcft17.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs07)  [Next](pifs09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs07)  [Next](pifs09.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 
 # V
 
-### THE COYOTE AND THE BEAR <span id="fr_16"></span>[1](#fn_16)
+### THE COYOTE AND THE BEAR <span id="fr_16"></span>[1](#fn_16.md)
 
 ONCE upon a time Ko-íd-deh (the Bear) and Too-wháy-deh (the Coyote)
 chanced to meet at a certain spot, and sat down to talk. After a while
@@ -120,11 +120,11 @@ scatter for our homes here and there in the quaint adobe village.
 
 ### Footnotes
 
-<span id="fn_16"></span>[30:1](pifs08.htm#fr_16) The Coyote, you must
+<span id="fn_16"></span>[30:1](pifs08.htm#fr_16.md) The Coyote, you must
 know, is very stupid about some things; and in almost all Pueblo fairy
 stories is the victim of one joke or another. The bear, on the other
 hand, is one of the wisest of animals.
 
 ------------------------------------------------------------------------
 
-[Next: VI. The First of the Rattlesnakes](pifs09)
+[Next: VI. The First of the Rattlesnakes](pifs09.md)

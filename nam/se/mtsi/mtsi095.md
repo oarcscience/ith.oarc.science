@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi094)  [Next](mtsi096) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi094)  [Next](mtsi096.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,15 +46,15 @@ lighted it and smoked it. The aroma was grateful. All of the old men
 said, "The leaves of the thing are good," and they named it. They called
 it hitci (which m cans both "see" and "tobacco"), they say. Therefore
 woman and man together created tobacco. <span
-id="fr_25"></span>[1](#fn_25)
+id="fr_25"></span>[1](#fn_25.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_25"></span>[88:1](mtsi095.htm#fr_25) As to the origin of
-the name see [p. 19](mtsi011.htm#page_19).
+<span id="fn_25"></span>[88:1](mtsi095.htm#fr_25.md) As to the origin of
+the name see [p. 19](mtsi011.htm#page_19.md).
 
 ------------------------------------------------------------------------
 
-[Next: 3. The Origin of Wolves](mtsi096)
+[Next: 3. The Origin of Wolves](mtsi096.md)

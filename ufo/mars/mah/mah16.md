@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [UFOs](../../index) 
-[Mars](../index)  [Index](index)  [Previous](mah15)  [Next](mah17) 
+[Intangible Textual Heritage](../../../index)  [UFOs](../../index.md) 
+[Mars](../index)  [Index](index)  [Previous](mah15)  [Next](mah17.md) 
 
 ------------------------------------------------------------------------
 
@@ -96,4 +96,4 @@ benefit of all, hence copyrights and patents are unknown on our planet.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV:](mah17)
+[Next: Chapter XIV:](mah17.md)

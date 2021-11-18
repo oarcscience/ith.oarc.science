@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](amo)  [Next](jon) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](amo)  [Next](jon.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ para juzgar al monte de Esaú; y el reino será de Jehová.
 
 ------------------------------------------------------------------------
 
-[Next: Jonah](jon)
+[Next: Jonah](jon.md)

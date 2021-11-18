@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](sot14) 
-[Next](sot16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](sot14.md) 
+[Next](sot16.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ must and, indeed, can be built right up to Heaven.
 
 ------------------------------------------------------------------------
 
-[Next: Card VIII. Power](sot16)
+[Next: Card VIII. Power](sot16.md)

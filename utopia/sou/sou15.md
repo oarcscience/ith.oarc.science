@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou14)  [Next](sou16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou14)  [Next](sou16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -440,7 +440,7 @@ part of the data that is thus brought to light may be plotted on a map,
 graphically presented in a chart, or photographed. In Saffron Walden,
 England, there is an admirable little museum devoted to such an
 exhibition of its region; and in the Outlook Tower, at
-[Edinburgh](errata.htm#6), there used to be a library and an apparatus
+[Edinburgh](errata.htm#6.md), there used to be a library and an apparatus
 of exhibition by which one could begin at the point where one was
 standing and work outwards, in thought, to embrace the whole wide world.
 Knowledge that is presented in this fashion is available so that whoever
@@ -1233,7 +1233,7 @@ educated man out of the boor. It would not be altogether without
 precedent if such a eutopian renascence took place in Germany, in
 Austria, in Russia; and perhaps on another scale in India and China and
 Palestine; for all these regions are now face to face with realities
-which the "prosperous" [pauperism](errata.htm#7) of our metropolitan
+which the "prosperous" [pauperism](errata.htm#7.md) of our metropolitan
 civilization has largely neglected.
 
 If the inhabitants of our Eutopias will conduct their daily affairs in a
@@ -1285,4 +1285,4 @@ is imperfect will pass away.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](sou16)
+[Next: Bibliography](sou16.md)

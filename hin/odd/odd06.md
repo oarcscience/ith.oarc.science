@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](odd05)  [Next](odd07) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](odd05)  [Next](odd07.md) 
 
 ------------------------------------------------------------------------
 
@@ -167,4 +167,4 @@ her finger in his mouth, and the cobra bit her, and she died.
 
 ------------------------------------------------------------------------
 
-[Next: III. Brave Seventee Bai](odd07)
+[Next: III. Brave Seventee Bai](odd07.md)

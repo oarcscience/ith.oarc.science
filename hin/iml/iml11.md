@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml10)  [Next](iml12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml10)  [Next](iml12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -124,13 +124,13 @@ then the mortal becomes immortal.
 <span id="page_100">p. 100</span>
 
 When all the bonds of the heart are broken in this life, then the mortal
-becomes immortal. . . . <span id="fr_146"></span>[1](#fn_145)
+becomes immortal. . . . <span id="fr_146"></span>[1](#fn_145.md)
 
 The salvation of the soul is secured by union with Brahmă, the supreme
 and eternal Atman (Self), "the power which receives back to itself again
 all worlds. . . . The identity of the Brahmă and the Atman, of God and
 the Soul, is the fundamental thought of the entire doctrine of the
-Upanishads." <span id="fr_147"></span>[2](#fn_146)
+Upanishads." <span id="fr_147"></span>[2](#fn_146.md)
 
 Various creation myths were framed by teachers to satisfy the desire for
 knowledge regarding the beginning of things. The divine incarnation of
@@ -162,11 +162,11 @@ wiped away, upwards, became the sky. From the circumstance that he wept
 [![THE BIRTH OF BRAHMA: SPRINGING FROM A LOTUS ISSUING FROM
 VISHNU&lt;br&gt; &lt;i&gt;From an original Indian
 painting&lt;/i&gt;.](tn/10000.jpg)  
-Click to enlarge](img/10000.jpg)  
+Click to enlarge](img/10000.jpg.md)  
 THE BIRTH OF BRAHMA: SPRINGING FROM A LOTUS ISSUING FROM VISHNU  
 *From an original Indian painting*.  
 
-(see page [124](iml12.htm#page_124))
+(see page [124](iml12.htm#page_124).md)
 
  
 
@@ -183,7 +183,7 @@ Prajapati created Death, "a devourer of creatures".
 "Mind (or soul, *manas*) was created from the non-existent'', adds a
 priestly commentator. "Mind created Prajapati. Prajapati created
 offspring. All this, whatever exists, rests absolutely on mind." <span
-id="fr_148"></span>[1](#fn_147)
+id="fr_148"></span>[1](#fn_147.md)
 
 In another mythical account of Creation, Prajapati emerges, like the
 Egyptian Horus, from a lotus bloom floating on the primordial waters.
@@ -201,7 +201,7 @@ and they were his first home or path (ayana), he is called Narayana.
 The Egyptian sun god Ra similarly rose from the primordial waters as the
 sun-egg. Ptah came from the egg which, according to one myth, was laid
 by the chaos goose, and to another issued from the mouth of Khnumu <span
-id="fr_149"></span>[2](#fn_148) This conception may have had origin in
+id="fr_149"></span>[2](#fn_148.md) This conception may have had origin in
 the story of the
 
 <span id="page_102">p. 102</span>
@@ -285,7 +285,7 @@ non-existent'. . . . In one verse of the *Atharva-veda*, however, the
 word 'yuga' is so employed as to lead to the supposition that a period
 of very long duration is intended. It is there said: 'We allot to thee a
 hundred, ten thousand years, two, three, four ages (yugas)'." <span
-id="fr_150"></span>[1](#fn_149)
+id="fr_150"></span>[1](#fn_149.md)
 
 Professor Muir traced references in the *Brahmanas* to the belief in
 "Yugas" as "Ages", but showed that these were isolated ideas with which,
@@ -322,7 +322,7 @@ these years. One half of Brahma's existence has now expired.
 At the end of each "day" (Kalpa) Brahma sleeps for a night of equal
 length, and before falling asleep the Universe becomes water as at the
 beginning. He creates anew when he wakes on the morning of the next
-Kalpa. <span id="fr_151"></span>[1](#fn_150)
+Kalpa. <span id="fr_151"></span>[1](#fn_150.md)
 
 One of the most interesting accounts of the Yugas is given in the
 *Mahábhárata*. It is embedded in a narrative which reflects a phase of
@@ -356,14 +356,14 @@ under his feet, and lions and tigers and elephants and bears arose and
 took flight from before him. Terrible was then the roaring of Bhima.
 Birds fluttered terror-stricken and flew away; in confusion arose the
 geese and the ducks and the herons and the kokilas. <span
-id="fr_152"></span>[1](#fn_151) . . . Bhima tore down branches; he
+id="fr_152"></span>[1](#fn_151.md) . . . Bhima tore down branches; he
 struck trees and overthrew them; he smote and slew elephants and lions
 and tigers that crossed his path. He blew on his war-shell and the
 heavens trembled; the forest was stricken with fear. mountain caves
 echoed the clamour; elephants trumpeted in terror and lions howled
 dismally.
 
-The ape god Hanuman <span id="fr_153"></span>[2](#fn_152) was awakened;
+The ape god Hanuman <span id="fr_153"></span>[2](#fn_152.md) was awakened;
 drowsily he yawned and he lashed his long tail with tempest fury until
 it stretched forth like a mighty pole and obstructed the path of Bhima.
 Thus the ape god, who was also a son of Vayu, the wind, made Bhima to
@@ -384,7 +384,7 @@ Hanuman said: "I am sickly and cannot move; leap over me."
 
 [![HANUMAN&lt;br&gt; &lt;i&gt;From a bronze in the Victoria and Albert
 Museum&lt;/i&gt;](tn/10600.jpg)  
-Click to enlarge](img/10600.jpg)  
+Click to enlarge](img/10600.jpg.md)  
 HANUMAN  
 *From a bronze in the Victoria and Albert Museum*  
 
@@ -450,7 +450,7 @@ declined, and there came desire and diseases and calamities; because of
 these men had to undergo penances. It was a decadent Age by reason of
 the prevalence of sin.
 
-"In the Kali Yuga <span id="fr_154"></span>[1](#fn_153) the World Soul
+"In the Kali Yuga <span id="fr_154"></span>[1](#fn_153.md) the World Soul
 is *Black* in hue: it is the Iron Age; only one quarter of virtue
 remaineth. The world is afflicted, men turn to wickedness; disease
 cometh; all creatures degenerate; contrary effects are obtained by
@@ -551,7 +551,7 @@ Both in the Greek and Celtic (Irish) myths the people of the Silver Age
 are distinguished for their folly; in the Indian Silver or White Age the
 people were so perfect and holy that it was not necessary for them to
 perform religious ceremonies; they simply uttered the mystic word
-"Om". <span id="fr_155"></span>[1](#fn_154)
+"Om". <span id="fr_155"></span>[1](#fn_154.md)
 
 There are many interesting points of resemblance between certain of the
 Irish and Indian legends. We are informed, for instance, of the Celtic
@@ -572,7 +572,7 @@ a fisherman. The queen had Tuan for herself, and ate his fish form, with
 the result that she gave birth to the sage as her son.
 
 In similar manner Bata of the Egyptian Anpu-Bata story, <span
-id="fr_156"></span>[1](#fn_155) after existing as a blossom, a bull, and
+id="fr_156"></span>[1](#fn_155.md) after existing as a blossom, a bull, and
 a tree, became the son of his unfaithful wife, who swallowed a chip of
 wood.
 
@@ -607,7 +607,7 @@ Markandeya, who has full knowledge of the Past, the Present, and the
 Future, informs the exiles that the Supreme Being is "great,
 incomprehensible, wonderful, and immaculate, without beginning and
 without end. . . . He is the Creator of all, but is himself Increate,
-and is the cause of all power." <span id="fr_157"></span>[1](#fn_156)
+and is the cause of all power." <span id="fr_157"></span>[1](#fn_156.md)
 
 After the Universe is dissolved, all Creation is renewed, and the cycle
 of the four Ages begins again with Krita Yuga. "A cycle of the Yugas
@@ -659,7 +659,7 @@ the gods. . . . Fire is my mouth, the earth is my feet, and the sun and
 the moon are my eyes; the Heaven is the crown of my head, and the
 cardinal points are my ears; the waters are born of my sweat. Space with
 the cardinal points are my body, and the Air is in my mind." <span
-id="fr_158"></span>[1](#fn_157)
+id="fr_158"></span>[1](#fn_157.md)
 
 The Creator continues, addressing Markandeya: "I am the wind, I am the
 Sun, I am Fire. The stars are the pores of my skin, the ocean is my
@@ -686,7 +686,7 @@ dark in hue. . . . And when the end cometh, assuming the fierce form of
 Death, alone I destroy all the three worlds with their mobile and
 immobile existences. . . . Alone do I set agoing the wheel of Time: I am
 formless: I am the Destroyer of all creatures: and I am the cause of all
-efforts of all my creatures." <span id="fr_159"></span>[1](#fn_158)
+efforts of all my creatures." <span id="fr_159"></span>[1](#fn_158.md)
 
 Markandeya afterwards witnessed "the varied and wondrous creation
 starting into life".
@@ -715,13 +715,13 @@ of Metempsychosis may have had its ancient adherents, although these
 were not at first very numerous. In one passage of the *Rigveda* "the
 soul is spoken of as departing to the waters or the plants", and it
 "may", says Professor Macdonell, "contain the germs of the theory" of
-Transmigration of Souls. <span id="fr_160"></span>[1](#fn_159)
+Transmigration of Souls. <span id="fr_160"></span>[1](#fn_159.md)
 
 The doctrine of Metempsychosis was believed in by the Greeks and the
 Celts. According to Herodotus the former borrowed it from Egypt, and
 although some have cast doubt on the existence of the theory in Egypt,
 there are evidences that it obtained there as in early Aryanized India
-among sections of the people. <span id="fr_161"></span>[2](#fn_160) It
+among sections of the people. <span id="fr_161"></span>[2](#fn_160.md) It
 is possible that the doctrine is traceable to a remote racial influence
 regarding which no direct evidence survives.
 
@@ -759,7 +759,7 @@ allowed to pass beyond it. He who can give no answer is turned to rain
 by the moon and rained down upon the earth. He is born again here below,
 as worm or fly, or fish or bird, or lion, or boar or animal with teeth,
 or tiger, or man, or anything else in one or another place, according to
-his works and his knowledge." <span id="fr_162"></span>[1](#fn_161)
+his works and his knowledge." <span id="fr_162"></span>[1](#fn_161.md)
 
 Belief in Metempsychosis ultimately prevailed all over India, and it is
 fully accepted by Hinduism in our own day. Brahmans now teach that the
@@ -782,9 +782,9 @@ reanimated the mummy. The Greeks similarly taught that "the soul
 continues its journey, alternating between a separate, unrestrained
 existence and fresh reincarnation, round the wide circle of necessity,
 as the companion of many bodies of men and animals". <span
-id="fr_163"></span>[1](#fn_162) According to Cæsar, the Gauls professed
+id="fr_163"></span>[1](#fn_162.md) According to Cæsar, the Gauls professed
 the doctrine of Metempsychosis quite freely. <span
-id="fr_164"></span>[2](#fn_163)
+id="fr_164"></span>[2](#fn_163.md)
 
 Both in India and in Egypt the ancient doctrine of Metempsychosis was
 coloured by the theologies of the various cults which had accepted it.
@@ -800,63 +800,63 @@ conceived of a single act of creation.
 
 ### Footnotes
 
-<span id="fn_145"></span>[100:1](iml11.htm#fr_146) Dr. E. Röer's
+<span id="fn_145"></span>[100:1](iml11.htm#fr_146.md) Dr. E. Röer's
 translation (Calcutta).
 
-<span id="fn_146"></span>[100:2](iml11.htm#fr_147) Deussen's *Philosophy
+<span id="fn_146"></span>[100:2](iml11.htm#fr_147.md) Deussen's *Philosophy
 of the Upanishads*, p. 39.
 
-<span id="fn_147"></span>[101:1](iml11.htm#fr_148) Muir's *Original
+<span id="fn_147"></span>[101:1](iml11.htm#fr_148.md) Muir's *Original
 Sanskrit Texts*, vol. i, pp. 29-30.
 
-<span id="fn_148"></span>[101:2](iml11.htm#fr_149) See *Egyptian Myth
+<span id="fn_148"></span>[101:2](iml11.htm#fr_149.md) See *Egyptian Myth
 and Legend*.
 
-<span id="fn_149"></span>[104:1](iml11.htm#fr_150) Muir's *Original
+<span id="fn_149"></span>[104:1](iml11.htm#fr_150.md) Muir's *Original
 Sanskrit Texts*, vol. i, p. 46.
 
-<span id="fn_150"></span>[105:1](iml11.htm#fr_151) Abridged from Muir's
+<span id="fn_150"></span>[105:1](iml11.htm#fr_151.md) Abridged from Muir's
 *Original Sanskrit Texts*, pp. 43, 44, and Wilson's *Manu*, p. 50.
 
-<span id="fn_151"></span>[106:1](iml11.htm#fr_152) Indian cuckoo.
+<span id="fn_151"></span>[106:1](iml11.htm#fr_152.md) Indian cuckoo.
 
-<span id="fn_152"></span>[106:2](iml11.htm#fr_153) In his character as
+<span id="fn_152"></span>[106:2](iml11.htm#fr_153.md) In his character as
 the Typhoon.
 
-<span id="fn_153"></span>[108:1](iml11.htm#fr_154) The present Age,
+<span id="fn_153"></span>[108:1](iml11.htm#fr_154.md) The present Age,
 according to Hindu belief.
 
-<span id="fn_154"></span>[111:1](iml11.htm#fr_155) "Om" originally
+<span id="fn_154"></span>[111:1](iml11.htm#fr_155.md) "Om" originally
 referred to the three Vedas; afterwards it signified the Trinity.
 
-<span id="fn_155"></span>[112:1](iml11.htm#fr_156) See *Egyptian Myth
+<span id="fn_155"></span>[112:1](iml11.htm#fr_156.md) See *Egyptian Myth
 and Legend*.
 
-<span id="fn_156"></span>[113:1](iml11.htm#fr_157) Roy's translation.
+<span id="fn_156"></span>[113:1](iml11.htm#fr_157.md) Roy's translation.
 
-<span id="fn_157"></span>[114:1](iml11.htm#fr_158) Roy's translation.
+<span id="fn_157"></span>[114:1](iml11.htm#fr_158.md) Roy's translation.
 This conception of the World God resembles the Egyptian Ptah and Ra. See
 *Egyptian Myth and Legend*.
 
-<span id="fn_158"></span>[115:1](iml11.htm#fr_159) *Mahabharata*, *Vana
+<span id="fn_158"></span>[115:1](iml11.htm#fr_159.md) *Mahabharata*, *Vana
 Parva*, section clxxxix, P. C. Roy's translation.
 
-<span id="fn_159"></span>[116:1](iml11.htm#fr_160) *History of Sanskrit
+<span id="fn_159"></span>[116:1](iml11.htm#fr_160.md) *History of Sanskrit
 Literature*, p. 115.
 
-<span id="fn_160"></span>[116:2](iml11.htm#fr_161) See *Egyptian Myth
+<span id="fn_160"></span>[116:2](iml11.htm#fr_161.md) See *Egyptian Myth
 and Legend*.
 
-<span id="fn_161"></span>[117:1](iml11.htm#fr_162) Paul Deussen's
+<span id="fn_161"></span>[117:1](iml11.htm#fr_162.md) Paul Deussen's
 translation.
 
-<span id="fn_162"></span>[118:1](iml11.htm#fr_163) *Psyche*, Erwin
+<span id="fn_162"></span>[118:1](iml11.htm#fr_163.md) *Psyche*, Erwin
 Rhode.
 
-<span id="fn_163"></span>[118:2](iml11.htm#fr_164) *De Bello Galileo*,
+<span id="fn_163"></span>[118:2](iml11.htm#fr_164.md) *De Bello Galileo*,
 vi, xiv, 4.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII. New Faiths: Vishnu Religion, Buddhism, and
-Jainism](iml12)
+Jainism](iml12.md)

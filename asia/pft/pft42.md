@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](pft41)  [Next](pft43) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](pft41)  [Next](pft43.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1426464215/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,10 +19,10 @@ Intangible Textual Heritage
 *Bilaan* (*Mindanao*)
 
 In the beginning there were four beings,  <span
-id="fr_130"></span>[131](pft68.htm#fn_130) and they lived on an island
+id="fr_130"></span>[131](pft68.htm#fn_130.md) and they lived on an island
 no larger than a hat. On this island there were no trees or grass or any
 other living thing besides these four people and one bird.  <span
-id="fr_131"></span>[132](pft68.htm#fn_131) One day they sent this bird
+id="fr_131"></span>[132](pft68.htm#fn_131.md) One day they sent this bird
 out across the waters to see what he could find, and when he returned he
 brought some earth, a piece of rattan, and some fruit.
 
@@ -57,4 +57,4 @@ which you can still see on the faces of people.
 
 ------------------------------------------------------------------------
 
-[Next: The Children of the Limokon](pft43)
+[Next: The Children of the Limokon](pft43.md)

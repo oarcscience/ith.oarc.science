@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo71)  [Next](sdo73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo71)  [Next](sdo73.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_183">p. 183</span>
 
-### THE BUFFALO WOMAN. <span id="fr_7"></span>[1](#fn_7)
+### THE BUFFALO WOMAN. <span id="fr_7"></span>[1](#fn_7.md)
 
 (Told by Hoka-chatka.)
 
@@ -460,11 +460,11 @@ woman, and from these a new band of people originated.
 
 ### Footnotes
 
-<span id="fn_7"></span>[183:1](sdo72.htm#fr_7) This tale has many points
+<span id="fn_7"></span>[183:1](sdo72.htm#fr_7.md) This tale has many points
 in common with a (¢egiha narrative. See J. O. Dorsey. The ¢egiha
 Language (*Contributions to American Ethnology*, vol. 6, Washington,
 1890), 157.
 
 ------------------------------------------------------------------------
 
-[Next: The Death of Iya](sdo73)
+[Next: The Death of Iya](sdo73.md)

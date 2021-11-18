@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb25)  [Next](wfb27) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb25)  [Next](wfb27.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ wealth had gone as it came--with the walking stick.
 
 ------------------------------------------------------------------------
 
-[Next: Dick the Fiddler's Money](wfb27)
+[Next: Dick the Fiddler's Money](wfb27.md)

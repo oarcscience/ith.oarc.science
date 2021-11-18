@@ -1,27 +1,27 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo17)  [Next](hoo19) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo17)  [Next](hoo19.md) 
 
 ------------------------------------------------------------------------
 
 ###### XIII.
 
-### TO RHEA <span id="fr_71"></span>[\*](#fn_72).
+### TO RHEA <span id="fr_71"></span>[\*](#fn_72.md).
 
 ###### The FUMIGATION from AROMATICS.
 
 DAUGHTER of great Protogonus, divine,  <span
-id="fr_72"></span>[1](#fn_71)  
+id="fr_72"></span>[1](#fn_71.md)  
 Illustrious Rhea, to my pray'r incline,
 
 <span id="page_138">p. 138</span>
 
 Who driv'st thy holy car with speed along,  
 Drawn by fierce lions, terrible and strong.  <span
-id="fr_73"></span>[4](#fn_73)  
+id="fr_73"></span>[4](#fn_73.md)  
 Mother of Jove, whose mighty arm can wield 5  
 Th' avenging bolt, and shake the dreadful shield.  
 Drum-beating, frantic, of a splendid mien, <span
-id="fr_74"></span>[7](#fn_74)  
+id="fr_74"></span>[7](#fn_74.md)  
 Brass-sounding, honor'd, Saturn's blessed queen.  
 Thou joy'st in mountains and tumultuous fight,  
 And mankind's horrid howlings, thee delight. 10
@@ -30,7 +30,7 @@ And mankind's horrid howlings, thee delight. 10
 
 War's parent, mighty, of majestic frame,  
 Deceitful saviour, liberating dame.  <span
-id="fr_75"></span>[12](#fn_75)  
+id="fr_75"></span>[12](#fn_75.md)  
 Mother of Gods and men, from whom the earth  
 And lofty heav'ns derive their glorious birth;  
 Th' ætherial gales, the deeply spreading sea 15  
@@ -44,7 +44,7 @@ Drive dire disease, to earth's remotest bound. 20
 
 ### Footnotes
 
-<span id="fn_71"></span>[137:1](hoo18.htm#fr_72) Ver. 1.\] *Daughter of
+<span id="fn_71"></span>[137:1](hoo18.htm#fr_72.md) Ver. 1.\] *Daughter of
 great Protogonus*. In the note to Hercules it appears that Rhea is one
 of the progeny of the intellectual earth, resident in Phanes; and from
 the note to Hymn 5, to Protogonus, we learn from Proclus, that Phanes is
@@ -53,7 +53,7 @@ orders. Hence Rhea is, with perfect agreement to the Orphic theology,
 the daughter of Protogonus, considered as subsisting among the
 intelligible Gods.
 
-<span id="fn_72"></span>[137:\*](hoo18.htm#fr_71) Rhea, according to the
+<span id="fn_72"></span>[137:\*](hoo18.htm#fr_71.md) Rhea, according to the
 Orphic and Platonic theology, is one of the zoogonic or vivific
 principles of the universe; having a maternal rank among the universal
 paternal orders, i. e. between Saturn and Jupiter. Hence she calls forth
@@ -76,19 +76,19 @@ the most exalted part of her essence, is called Rhea: but considered as
 producing Jupiter, and, together with Jove, unfolding the universal and
 particular orders of the Gods, she is called Ceres.
 
-<span id="fn_73"></span>[138:4](hoo18.htm#fr_73) Ver. 4.\] *Drawn by
+<span id="fn_73"></span>[138:4](hoo18.htm#fr_73.md) Ver. 4.\] *Drawn by
 fierce lions*, &c. I have here followed the correction of Pierson, who
 reads ταυροφονων for ταυροφορον: for Rhea is the same with the mother of
 the Gods, who is celebrated in the Hymn to her, as seated in a car drawn
 by lions.
 
-<span id="fn_74"></span>[138:7](hoo18.htm#fr_74) Ver. 7.\]
+<span id="fn_74"></span>[138:7](hoo18.htm#fr_74.md) Ver. 7.\]
 *Drum-beating*. Rhea, in the Orphic theology, is among the mundane
 divinities, the earth. Hence, according to Varro, she is represented
 with a drum; because that instrument is a symbol of the earth. August.
 dc Civitat. lib. vii.
 
-<span id="fn_75"></span>[139:12](hoo18.htm#fr_75) XIII Ver. 12.\]
+<span id="fn_75"></span>[139:12](hoo18.htm#fr_75.md) XIII Ver. 12.\]
 *Deceitful saviour*. When Jupiter was born (says the fable) his mother
 Rhea in order to deceive Saturn, gave him a stone wrapped in swaddling
 bands, in the place of Jove; informing him that was her offspring.
@@ -105,4 +105,4 @@ produced, and derive their proper aliment. Opusc. Mythol. p. 147.
 
 ------------------------------------------------------------------------
 
-[Next: XIV: To Jupiter](hoo19)
+[Next: XIV: To Jupiter](hoo19.md)

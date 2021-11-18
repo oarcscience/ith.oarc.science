@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ema05)  [Next](ema07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ema05)  [Next](ema07.md) 
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ lest he should lack both air and water, as well as food, in the
 underworld, and, to do away with all risk of such a calamity happening,
 pictures, in which he is represented holding a sail (the symbol of air
 and wind and breath) in his hands, and standing up to his ankles in
-water, <span id="fr_75"></span>[1](#fn_75) were painted on his papyrus,
+water, <span id="fr_75"></span>[1](#fn_75.md) were painted on his papyrus,
 and texts similar to the following were written below them. "My mouth
 and my nostrils are opened in Tattu (Busiris), and I have my place of
 peace in Annu (Heliopolis) which is my house; it was built for me by the
@@ -150,7 +150,7 @@ in thy nostrils! I embrace the great throne which is in Khemennu
 
 keep watch over the Egg of the Great Cackler; I germinate as it
 germinateth; I live as it liveth; and my breath is its breath." <span
-id="fr_76"></span>[1](#fn_76) But yet another "exceeding great mystery"
+id="fr_76"></span>[1](#fn_76.md) But yet another "exceeding great mystery"
 had to be performed if the deceased was to be enabled to enter into
 heaven by its four doors at will, and to enjoy the air which came
 through each. The north wind belonged to Osiris, the south wind to Râ,
@@ -164,7 +164,7 @@ know this chapter, for it is a great mystery, and those who dwell in the
 swamps (*i.e.*, the ignorant) know it not. Thou shalt not do this in the
 presence of any person except thy father, or thy son, or thyself alone;
 for it is indeed an exceedingly great mystery which no man whatever
-knoweth." <span id="fr_77"></span>[2](#fn_77)
+knoweth." <span id="fr_77"></span>[2](#fn_77.md)
 
 One of the delights coveted by the deceased was to sail over heaven in
 the boat of Râ, in company with the gods of the funeral cycle of Osiris;
@@ -180,7 +180,7 @@ papyrus must be fastened to the breast of the deceased, care being taken
 that it does not actually touch his body. Then shall his spirit enter
 into the boat of Râ each day, and the god Thoth shall take heed to him,
 and he shall sail about with Râ into any place that he wisheth. <span
-id="fr_78"></span>[1](#fn_78) Elsewhere it is ordered that the boat of
+id="fr_78"></span>[1](#fn_78.md) Elsewhere it is ordered that the boat of
 Râ be painted "in a pure place," and in the bows is to be painted a
 figure of the deceased; but Râ was supposed to travel in one boat
 (called "Âtet ") until noon, and another (called "Sektet") until sunset,
@@ -190,8 +190,8 @@ morning boat of Râ was to be drawn, and on the other a figure of the
 afternoon boat; thus the one picture was capable of becoming two boats.
 And, provided the proper offerings were made for the deceased on the
 birthday of Osiris, his soul would live for ever, and be would not die a
-second time. <span id="fr_79"></span>[2](#fn_79) According to the rubric
-to the chapter <span id="fr_80"></span>[3](#fn_80) in which these
+second time. <span id="fr_79"></span>[2](#fn_79.md) According to the rubric
+to the chapter <span id="fr_80"></span>[3](#fn_80.md) in which these
 directions are given, the text of it is as old, at least, as the time of
 Hesepti, the fifth king of the Ist dynasty, who reigned about B.C. 4350,
 and the custom of painting the boat upon
@@ -370,7 +370,7 @@ souls which were so unfortunate as to be shut in the various places
 thereof, but in order to make it thoroughly efficacious it was ordered
 to be recited over three pictures: (1) a serpent with legs, having a
 disk and two horns upon its head; (2) an *utchat*, <span
-id="fr_81"></span>[1](#fn_81) or Eye of Horus, "in the pupil of which
+id="fr_81"></span>[1](#fn_81.md) or Eye of Horus, "in the pupil of which
 shall be a figure of the God of the lifted hand with the face of a
 divine soul, and having plumes and a back like a hawk"; (3) an *utchat*,
 or Eye of Horus, "in the pupil of which
@@ -383,7 +383,7 @@ things be done for the deceased "he shall not be turned back at any gate
 of the underworld, he shall eat, and drink, and perform the natural
 functions of his body as he did when he was upon earth; and none shall
 rise up to cry out against him; and he shall be protected from the hands
-of the enemy for ever and ever." <span id="fr_82"></span>[1](#fn_82)
+of the enemy for ever and ever." <span id="fr_82"></span>[1](#fn_82.md)
 
 The words of power which form the CLXIVth Chapter to be effectual had to
 be recited over a figure of the goddess Mut which was to have three
@@ -408,7 +408,7 @@ Sekhet-Aaru; he shall become a star of heaven; he shall set out to do
 battle with the serpent fiend Nekau and with Tar, who are in the
 underworld; he shall not be shut in along with the souls which are
 fettered; he shall have power to deliver himself wherever he may be; and
-worms shall not devour him." <span id="fr_83"></span>[1](#fn_83)
+worms shall not devour him." <span id="fr_83"></span>[1](#fn_83.md)
 
 Again, the words of power which form the CLXVth Chapter to be effectual
 were ordered by the rubric to "be recited over a figure of the God of
@@ -488,7 +488,7 @@ forms of the LXIVth Chapter of the Book of the Dead were in use, and
 there is no doubt whatever that the shorter form, as far back as the Ist
 dynasty, about B.C. 4300, was intended to be a summary of the whole
 work, and that the recital of it was held to be as efficacious as the
-recital of all the rest of it. <span id="fr_84"></span>[1](#fn_84) It is
+recital of all the rest of it. <span id="fr_84"></span>[1](#fn_84.md) It is
 a remarkable fact that this form is called "The Chapter of knowing the
 'Chapters of Coming Forth by Day' in a single Chapter," and that it is
 declared to date from the time of Hesepti, a king of the Ist dynasty,
@@ -512,10 +512,10 @@ is filled and furnished with words of power, come and loose the
 bandages, even the bandages of Set which fetter my mouth. . . . Now as
 concerning the words of power and all the words which may be spoken
 against me, may the gods resist them, and may each and every one of the
-company of the gods withstand them." <span id="fr_85"></span>[1](#fn_85)
+company of the gods withstand them." <span id="fr_85"></span>[1](#fn_85.md)
 "Behold, I gather together the word of power from wherever it is, and
 from any person with whom it is, swifter than greyhounds and quicker
-than light." <span id="fr_86"></span>[2](#fn_86) To the crocodile which
+than light." <span id="fr_86"></span>[2](#fn_86.md) To the crocodile which
 cometh to carry off from the deceased his words of power he says, "Get
 thee back, return, get thee back, thou crocodile fiend Sui! Thou shalt
 not advance to me, for I live by reason of the words of power which I
@@ -525,23 +525,23 @@ shall have power over the words of power which are
 
 <span id="page_127">p. 127</span>
 
-therein." <span id="fr_87"></span>[1](#fn_87) "I am clothed (?) and am
+therein." <span id="fr_87"></span>[1](#fn_87) "I am clothed (?.md) and am
 wholly provided with thy magical words, O Râ, the which are in the
 heaven above me, and in the earth beneath Me." <span
-id="fr_88"></span>[2](#fn_88) To the two Sister-Mert goddesses the
+id="fr_88"></span>[2](#fn_88.md) To the two Sister-Mert goddesses the
 deceased says, "My message to you is my words of power. I shine from the
 Sektet boat, I am Horus the son of Isis, and I have come to see my
-father Osiris." <span id="fr_89"></span>[3](#fn_89) "I have become a
+father Osiris." <span id="fr_89"></span>[3](#fn_89.md) "I have become a
 spirit in my forms, I have gained the mastery over my words of power,
 and it is decreed for me to be a spirit." <span
-id="fr_90"></span>[4](#fn_90) "Hail, thou that cuttest off heads, and
+id="fr_90"></span>[4](#fn_90.md) "Hail, thou that cuttest off heads, and
 slittest brows, thou who puttest away the memory of evil things from the
 mouth of the spirits by means of the words of power which they have
 within them, . . . let not my mouth be shut fast by reason of the words
 of power which thou hast within thee. . . . Get thee back, and depart
 before the words which the goddess Isis uttered when thou didst come to
 cast the recollection of evil things into the mouth of Osiris." <span
-id="fr_91"></span>[5](#fn_91) On the amulet of the Buckle we have
+id="fr_91"></span>[5](#fn_91.md) On the amulet of the Buckle we have
 inscribed the words, "May the blood of Isis, and the powers of Isis, and
 the words of power of Isis be mighty to protect this mighty one," etc.,
 and in the address which Thoth makes to Osiris he says, "I am Thoth, the
@@ -552,7 +552,7 @@ boat of
 <span id="page_128">p. 128</span>
 
 millions of years, the lord of laws, the subduer of the two lands,"
-etc. <span id="fr_92"></span>[1](#fn_92)
+etc. <span id="fr_92"></span>[1](#fn_92.md)
 
 From the above passages we not only learn how great was the confidence
 which the deceased placed in his words of power, but also that the
@@ -596,7 +596,7 @@ knew "how to turn aside evil hap," and that she was "strong of tongue,
 and uttered the words of power which she knew with correct
 pronunciation, and halted not in her speech, and was perfect both in
 giving the command and in saying the word," <span
-id="fr_93"></span>[1](#fn_93) but this description only
+id="fr_93"></span>[1](#fn_93.md) but this description only
 
 <span id="page_130">p. 130</span>
 
@@ -612,12 +612,12 @@ After a time she was persecuted by Set, her husband's murderer, who, it
 seems, shut her and her son Horus up in a house as prisoners. Owing,
 however, to the help which Thoth gave her, she came forth by night and
 was accompanied on her journey by seven scorpions, <span
-id="fr_94"></span>[1](#fn_94) called respectively Tefen, Befen, Mestet,
+id="fr_94"></span>[1](#fn_94.md) called respectively Tefen, Befen, Mestet,
 Mestetef, Petet, Thetet, and Matet, the last three of which pointed out
 the way. The guide of the way brought her to the swamps of
-Per-sui, <span id="fr_95"></span>[2](#fn_95) and to the town of the two
+Per-sui, <span id="fr_95"></span>[2](#fn_95.md) and to the town of the two
 goddesses of the sandals where the swampy country of Athu begins.
-Journeying on they came to Teb, <span id="fr_96"></span>[3](#fn_96)
+Journeying on they came to Teb, <span id="fr_96"></span>[3](#fn_96.md)
 where the chief of the district had a house for his ladies; now the
 mistress of the house would not
 
@@ -698,7 +698,7 @@ him in my arms again. But I found my sucking-child Horus the fair golden
 one, well nigh dead! He had bedewed the ground with the water from his
 eye and with the foam from his lips, his body was stiff, his heart was
 still, and no muscle in any of his limbs moved. <span
-id="fr_97"></span>[1](#fn_97) Then I uttered a bitter cry
+id="fr_97"></span>[1](#fn_97.md) Then I uttered a bitter cry
 
 <span id="page_134">p. 134</span>
 
@@ -762,7 +762,7 @@ written upon papyrus or linen formed a magical formula against the
 poison of reptiles of all kinds, she made a bold attempt to wrest the
 power of Râ from him and to make herself mistress of the universe. The
 way in which she did this is told in a hieratic papyrus preserved at
-Turin, <span id="fr_98"></span>[1](#fn_98) from which the following
+Turin, <span id="fr_98"></span>[1](#fn_98.md) from which the following
 rendering has been made; the merit of first discovering the correct
 meaning of the text belongs to M. Lefébure.
 
@@ -1006,7 +1006,7 @@ upon his head." Of the bewitchment of Setnau by a beautiful woman called
 Tabubu and of his troubles in consequence thereof we need make no
 mention here: it is sufficient to say that the king ordered him to take
 the book back to its place, and that the prophecy of Ptah-nefer-ka was
-fulfilled. <span id="fr_99"></span>[1](#fn_99)
+fulfilled. <span id="fr_99"></span>[1](#fn_99.md)
 
 <span id="page_147">p. 147</span>
 
@@ -1038,14 +1038,14 @@ emblematic of youth. In his hands he grasps serpents, a lion, and an
 antelope, and it is clear by the look on his face that he is in no wise
 afraid of them. Above his head is a bearded head, which is usually said
 to represent that of Bes. On his right are:--(1) an *utchat*, <span
-id="fr_100"></span>[1](#fn_100) with human hands and arms; (2) Horus-Râ,
+id="fr_100"></span>[1](#fn_100) with human hands and arms; (2.md) Horus-Râ,
 hawk-headed, and wearing the sun's disk and uraeus, and standing on a
 serpent coiled up; (3) Osiris, in the form of a hawk standing upon a
 sceptre, and wearing the *atef* crown; (4) The goddess Isis standing
 upon a serpent coiled up; (5) The goddess Nekhebet, in the form of a
 vulture, standing upon a papyrus sceptre. On his left are:--(1) An
 *utchat* with human hands and arms; (2) a papyrus standard with plumes
-and *menats* <span id="fr_101"></span>[2](#fn_101); (3) the god Thoth
+and *menats* <span id="fr_101"></span>[2](#fn_101); (3.md) the god Thoth
 standing upon a serpent coiled up; (4) the goddess Uatchet, in the form
 of a serpent, standing upon a papyrus sceptre. Now Horus typifies youth
 and strength and the rising sun, and the head above him. is probably
@@ -1074,7 +1074,7 @@ spaces not occupied by figures describe certain incidents of the eternal
 combat which Horus wages against his brother Set, and tell the story of
 the wanderings of Isis with her son Horus and of her sufferings in the
 country of the papyrus Swamps, a sketch of which we have given above
-(see pp. [130](#page_130)-[136](#page_136)); besides these, prayers to
+(see pp. [130](#page_130)-[136](#page_136).md); besides these, prayers to
 certain gods are introduced. The whole monument is nothing but a
 talisman, or a gigantic amulet engraved with magical figures and words
 of power, and it was, undoubtedly, placed in some conspicuous place in a
@@ -1098,7 +1098,7 @@ buried in tombs and under the foundations of houses to drive away any of
 the fiends who might come to do harm either to the living or the dead.
 
 The Arab historian Mas'ûdî has preserved <span
-id="fr_102"></span>[1](#fn_102) a curious legend of the talismans which
+id="fr_102"></span>[1](#fn_102.md) a curious legend of the talismans which
 were employed by Alexander the Great to protect the city of Alexandria
 whilst it was being built, and as the legend is of Egyptian origin, and
 dates from a period not greatly removed from that in which the
@@ -1161,69 +1161,69 @@ that they produced the effect desired by the king.
 
 ### Footnotes
 
-<span id="fn_75"></span>[109:1](ema06.htm#fr_75) See the vignettes to
+<span id="fn_75"></span>[109:1](ema06.htm#fr_75.md) See the vignettes to
 Chapters LIV.-LX. of the Book of the Dead.
 
-<span id="fn_76"></span>[110:1](ema06.htm#fr_76) See *Chapters of Coming
+<span id="fn_76"></span>[110:1](ema06.htm#fr_76.md) See *Chapters of Coming
 Forth by Day*, p. 106.
 
-<span id="fn_77"></span>[110:2](ema06.htm#fr_77) *Ibid.*, p. 289.
+<span id="fn_77"></span>[110:2](ema06.htm#fr_77.md) *Ibid.*, p. 289.
 
-<span id="fn_78"></span>[111:1](ema06.htm#fr_78) See *Chapters of Coming
+<span id="fn_78"></span>[111:1](ema06.htm#fr_78.md) See *Chapters of Coming
 Forth by Day*, p. 162.
 
-<span id="fn_79"></span>[111:2](ema06.htm#fr_79) *Ibid.*, p. 212.
+<span id="fn_79"></span>[111:2](ema06.htm#fr_79.md) *Ibid.*, p. 212.
 
-<span id="fn_80"></span>[111:3](ema06.htm#fr_80) *I.e.*, CXXX.
+<span id="fn_80"></span>[111:3](ema06.htm#fr_80.md) *I.e.*, CXXX.
 
-<span id="fn_81"></span>[120:1](ema06.htm#fr_81) See above, [p.
-55](ema04.htm#page_55)
+<span id="fn_81"></span>[120:1](ema06.htm#fr_81.md) See above, [p.
+55](ema04.htm#page_55.md)
 
-<span id="fn_82"></span>[121:1](ema06.htm#fr_82) See *Chapters of Coming
+<span id="fn_82"></span>[121:1](ema06.htm#fr_82.md) See *Chapters of Coming
 Forth by Day*, p. 292.
 
-<span id="fn_83"></span>[122:1](ema06.htm#fr_83) See Chapters of Coming
+<span id="fn_83"></span>[122:1](ema06.htm#fr_83.md) See Chapters of Coming
 Forth by Day, p. 294.
 
-<span id="fn_84"></span>[125:1](ema06.htm#fr_84) In a similar way the
+<span id="fn_84"></span>[125:1](ema06.htm#fr_84.md) In a similar way the
 Arabs attach as much importance to the *Fatha*, or opening chapter, and
 to the chapter which declares the Unity of God (CXII.), as to the rest
 of the Koran.
 
-<span id="fn_85"></span>[126:1](ema06.htm#fr_85) See *Chapter of Coming
+<span id="fn_85"></span>[126:1](ema06.htm#fr_85.md) See *Chapter of Coming
 Forth by Day*, p. 70.
 
-<span id="fn_86"></span>[126:2](ema06.htm#fr_86) *Ibid.*, p. 71
+<span id="fn_86"></span>[126:2](ema06.htm#fr_86.md) *Ibid.*, p. 71
 
-<span id="fn_87"></span>[127:1](ema06.htm#fr_87) See *Chapters of Coming
+<span id="fn_87"></span>[127:1](ema06.htm#fr_87.md) See *Chapters of Coming
 Forth by Day*, p. 81.
 
-<span id="fn_88"></span>[127:2](ema06.htm#fr_88) *Ibid.*, p. 81.
+<span id="fn_88"></span>[127:2](ema06.htm#fr_88.md) *Ibid.*, p. 81.
 
-<span id="fn_89"></span>[127:3](ema06.htm#fr_89) *Ibid.*, p. 87.
+<span id="fn_89"></span>[127:3](ema06.htm#fr_89.md) *Ibid.*, p. 87.
 
-<span id="fn_90"></span>[127:4](ema06.htm#fr_90) *Ibid.*, p. 129.
+<span id="fn_90"></span>[127:4](ema06.htm#fr_90.md) *Ibid.*, p. 129.
 
-<span id="fn_91"></span>[127:5](ema06.htm#fr_91) *Ibid.*, p. 150.
+<span id="fn_91"></span>[127:5](ema06.htm#fr_91.md) *Ibid.*, p. 150.
 
-<span id="fn_92"></span>[128:1](ema06.htm#fr_92) See *Chapters of Coming
+<span id="fn_92"></span>[128:1](ema06.htm#fr_92.md) See *Chapters of Coming
 forth by Day*, p. 340 f.
 
-<span id="fn_93"></span>[129:1](ema06.htm#fr_93) Chabas, *Revue
+<span id="fn_93"></span>[129:1](ema06.htm#fr_93.md) Chabas, *Revue
 Archéologique*, 1857, p. 65 ff.; Ledrain, *Monuments Égyptiens*, pl.
 xxii. ff.; and for a recent translation see my *First Steps in
 Egyptian*, pp. 179-188.
 
-<span id="fn_94"></span>[130:1](ema06.htm#fr_94) The story is told on
+<span id="fn_94"></span>[130:1](ema06.htm#fr_94.md) The story is told on
 the famous *Metternichstele*, ed. Golénischeff, Leipzig, 1877.
 
-<span id="fn_95"></span>[130:2](ema06.htm#fr_95) *I.e.*, Crocodilopolis.
+<span id="fn_95"></span>[130:2](ema06.htm#fr_95.md) *I.e.*, Crocodilopolis.
 
-<span id="fn_96"></span>[130:3](ema06.htm#fr_96) The city of the two
+<span id="fn_96"></span>[130:3](ema06.htm#fr_96.md) The city of the two
 sandals. The two sandals were made of leather from the skin of the god
 Nehes or Set, the opponent of Horus.
 
-<span id="fn_97"></span>[133:1](ema06.htm#fr_97) This is an exact
+<span id="fn_97"></span>[133:1](ema06.htm#fr_97.md) This is an exact
 description of the state of an animal which has <span id="page_134">p.
 134</span> been stung by the small black scorpion in Egypt and the
 Sûdân. I saw Colonel W. H. Drage's dog "Shûbra" bitten at Merâwî in
@@ -1235,13 +1235,13 @@ others immersed her body in pails of very hot water for several hours,
 and at sundown she was breathing comfortably, and she soon afterwards
 recovered.
 
-<span id="fn_98"></span>[136:1](ema06.htm#fr_98) See Pleyte and Rossi,
+<span id="fn_98"></span>[136:1](ema06.htm#fr_98.md) See Pleyte and Rossi,
 *Le Papyrus de Turin*, 1869-1876, pll. 31-37, and 131-138; see also
 Lefébure in Ægyptische Zeitshrift, 1883, p. 27 ff.; Wiedemann, *Religion
 der alien Ægypter*, 1890, p. 29 ff.; and my *Papyrus of Ani*, 1895, p.
 lxxxix., and *First Steps in Egyptian*, 1895, pp. 241-256.
 
-<span id="fn_99"></span>[146:1](ema06.htm#fr_99) For translations see
+<span id="fn_99"></span>[146:1](ema06.htm#fr_99.md) For translations see
 Brugsch, L*e Roman de Setnau* (in *Revue* <span id="page_147">p.
 147</span> *Archéologique*, 2nd series, Vol. xvi., 1867, p. 161 ff.);
 Maspero, *Contes Égyptiens*, Paris, 1882, pp. 45-82; *Records of the
@@ -1250,16 +1250,16 @@ Mariette, *Les Papyrus du Musée de Boulaq*, tom. i., 1871, pll. 29-32;
 Revillout, *Le Roman de Setna*, Paris, 1877; Hess, *Roman von Sfne
 Ha-m-us*. Leipzig, 1888.
 
-<span id="fn_100"></span>[148:1](ema06.htm#fr_100) See above, [p.
-55](ema04.htm#page_55).
+<span id="fn_100"></span>[148:1](ema06.htm#fr_100.md) See above, [p.
+55](ema04.htm#page_55.md).
 
-<span id="fn_101"></span>[148:2](ema06.htm#fr_101) See above, [p.
-60](ema04.htm#page_60).
+<span id="fn_101"></span>[148:2](ema06.htm#fr_101.md) See above, [p.
+60](ema04.htm#page_60.md).
 
-<span id="fn_102"></span>[152:1](ema06.htm#fr_102) See *Les Prairies
+<span id="fn_102"></span>[152:1](ema06.htm#fr_102.md) See *Les Prairies
 d'Or*, ed. B. de Meynard and Pavet de Courteille, Paris, 1861, tom. ii.
 p. 425 ff.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. Magical Names](ema07)
+[Next: Chapter V. Magical Names](ema07.md)

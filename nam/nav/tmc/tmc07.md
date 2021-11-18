@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index)  [Index](index) 
-[Previous](tmc06)  [Next](tmc08) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index)  [Index](index.md) 
+[Previous](tmc06)  [Next](tmc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -266,4 +266,4 @@ dsinisínle, so you will think.
 ------------------------------------------------------------------------
 
 [Next: Addendum: The Suppressed Sections from the 1884 Edition of the
-Mountain Chant](tmc08)
+Mountain Chant](tmc08.md)

@@ -12,7 +12,7 @@ title: "Contact Intangible Textual Heritage"
 
 The email address for the Internet Sacred Text Archive is:
 
-[postmaster@ith.oarc.science](mailto:postmaster@ith.oarc.science?subject=ISTA)
+[postmaster@ith.oarc.science](mailto:postmaster@ith.oarc.science?subject=ISTA.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ and energy from building the site. We've put a lot of effort into
 answering all of the questions you have about the site. Click on the
 links below to get started.
 
--   [Frequently Asked Questions](faq)
+-   [Frequently Asked Questions](faq.md)
 -   [](cnote)
 -   
 
@@ -43,7 +43,7 @@ with the subject line 'Huh?'
 Inquiries about sales, orders, shipments of Sacred Texts on Disk can be
 addressed to:
 
-[sales@ith.oarc.science](mailto:sales@ith.oarc.science?subject=ISTA)
+[sales@ith.oarc.science](mailto:sales@ith.oarc.science?subject=ISTA.md)
 
 ------------------------------------------------------------------------
 

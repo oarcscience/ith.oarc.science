@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index) 
-[Wisdom of the East](../../woe/index)  [Index](index) 
-[Previous](toz04)  [Next](toz06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Zoroastrianism](../index.md) 
+[Wisdom of the East](../../woe/index)  [Index](index.md) 
+[Previous](toz04)  [Next](toz06.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Teachings of Zoroaster*, by S.A. Kapadia, \[1905\], at Intangible
 Textual Heritage
 
@@ -19,7 +19,7 @@ Textual Heritage
 
 # EXTRACTS
 
-### PURITY <span id="fr_25"></span>[\*](#fn_25)
+### PURITY <span id="fr_25"></span>[\*](#fn_25.md)
 
 "Purity is for man, next to life, the greatest good that purity is
 procured by the law of Mazda to him who cleanses his own self with <span
@@ -31,7 +31,7 @@ class="smallcaps">Deeds</span>.
 win purity for himself, namely, when he cleanses himself with <span
 class="smallcaps">Good Thoughts, Good Words, and Good Deeds</span>."
 
-### PRAYER OF ASHEM-VOHU <span id="fr_26"></span>[†](#fn_26)
+### PRAYER OF ASHEM-VOHU <span id="fr_26"></span>[†](#fn_26.md)
 
 ##### FROM KHORDAH-AVESTA
 
@@ -43,7 +43,7 @@ class="smallcaps">Good Thoughts, Good Words, and Good Deeds</span>."
 
 <span id="page_58">p. 58</span>
 
-### THE LAW OF AHURA-MAZDA <span id="fr_27"></span>[\*](#fn_27)
+### THE LAW OF AHURA-MAZDA <span id="fr_27"></span>[\*](#fn_27.md)
 
 ". . . The law of Mazda cleanses the faithful from every evil thought,
 word, and deed, as a swift-rushing, mighty wind cleanses the plain.
@@ -53,7 +53,7 @@ word, and deed, as a swift-rushing, mighty wind cleanses the plain.
 "So let all deeds thou doest be henceforth good. . . . A full atonement
 for thy sin is effected by means of the law of Mazda."
 
-### COMMANDMENTS FOR THE BODY AND THE SOUL <span id="fr_28"></span>[†](#fn_28)
+### COMMANDMENTS FOR THE BODY AND THE SOUL <span id="fr_28"></span>[†](#fn_28.md)
 
 The sage asked the Spirit of Wisdom thus: "How is it possible to seek
 maintenance and prosperity of the body without injury of the soul, and
@@ -82,7 +82,7 @@ may not be tasteless to thee.
 when he indulges in wrath becomes then forgetful of his duty and good
 works . . . and sin and crime of every kind occur unto his mind, and
 until the subsiding of the wrath he is said to be just like
-Ahareman. <span id="fr_29"></span>[\*](#fn_29)
+Ahareman. <span id="fr_29"></span>[\*](#fn_29.md)
 
 "<span class="smallcaps">Suffer no anxiety</span>, for he who is a
 sufferer of anxiety becomes regardless of enjoyment of the world and the
@@ -145,7 +145,7 @@ race; for in the end thy trust is on thine own deeds.
 "Thou shouldst not become presumptuous through life; for death comes
 upon thee at last, and the perishable part falls to the ground."
 
-### THE SOUL'S DESTINATION <span id="fr_30"></span>[\*](#fn_30)
+### THE SOUL'S DESTINATION <span id="fr_30"></span>[\*](#fn_30.md)
 
 1\. Zarathustra asked Ahura-Mazda: "Ahura-Mazda, Heavenly, Holiest,
 Creator of the corporeal world, Pure! when a pure man dies, where does
@@ -239,7 +239,7 @@ the most evil-smelling wind?'
 33\. "The fourth step takes the soul of the wicked man and it arrives at
 the darknesses without beginning."
 
-### THE SOUL'S RENDERING OF ACCOUNT <span id="fr_31"></span>[\*](#fn_31)
+### THE SOUL'S RENDERING OF ACCOUNT <span id="fr_31"></span>[\*](#fn_31.md)
 
 "The thirteenth question is that which you ask thus: Who should prepare
 the account of the soul as to sin and good works, and in what place
@@ -283,7 +283,7 @@ renovation of the universe they attain, by complete purification. from
 every sin, unto the everlasting progress, happy progress, and perfect
 progress of the best and undisturbed existence."
 
-### GATHA HYMN <span id="fr_32"></span>[\*](#fn_32)
+### GATHA HYMN <span id="fr_32"></span>[\*](#fn_32.md)
 
 "This I ask Thee, O Ahura! tell me aright: when praise is to be offered,
 how shall I complete the praise of the One like You, O Mazda? Let the
@@ -371,7 +371,7 @@ creatures is that which Zarathustra has brought. The religion is the
 religion of Zarathustra, the religion of Ahura-Mazda, given to
 Zarathustra."
 
-### THE CREED <span id="fr_33"></span>[\*](#fn_33)
+### THE CREED <span id="fr_33"></span>[\*](#fn_33.md)
 
 "I praise the well-thought, well-spoken, well-performed thoughts, words,
 and works.
@@ -397,7 +397,7 @@ of the Daêvas, a follower of the teachings of Ahura.
 
 "To Ahura-Mazda, the good, endued with good wisdom, I offer all good."
 
-### PRAYER OF KEM NÂ MAZDA <span id="fr_34"></span>[\*](#fn_34)
+### PRAYER OF KEM NÂ MAZDA <span id="fr_34"></span>[\*](#fn_34.md)
 
 "Whom hast thou placed to protect me, O Mazda, while the hate of the
 fiend is grasping me? Whom but thy Atar and Vohumanô (*Angels in charge
@@ -405,7 +405,7 @@ of Heaven*), by whose work the holy world goes on?
 
 "Reveal to me the rules of thy law!"
 
-### PRAYER OF KE VERETHREM GA <span id="fr_35"></span>[†](#fn_35)
+### PRAYER OF KE VERETHREM GA <span id="fr_35"></span>[†](#fn_35.md)
 
 "Who is he who will smite the fiend in order to maintain thy ordinances?
 Teach me clearly thy rules for this world and for the next, that Shros
@@ -413,14 +413,14 @@ Teach me clearly thy rules for this world and for the next, that Shros
 Night and Day*) may come with Vohumanô and help whomsoever thou
 pleasest."
 
-### PRAYER OF ORMUZD YAST <span id="fr_36"></span>[‡](#fn_36)
+### PRAYER OF ORMUZD YAST <span id="fr_36"></span>[‡](#fn_36.md)
 
 ### (<span class="smallcaps">In Praise of God</span>)
 
      .     .     .     .     .
 
 "And he who in this material world, O Spitama Zarathustra! shall recite
-and pronounce <span id="fr_37"></span>[§](#fn_37) those names of mine
+and pronounce <span id="fr_37"></span>[§](#fn_37.md) those names of mine
 either by day or by night;
 
 <span id="page_71">p. 71</span>
@@ -440,7 +440,7 @@ the weapons of the foe who rushes with anger and is Drug-minded;
 in front, from the Drug unseen, . . . from the evil-doer bent on
 mischief, and from that fiend who is all death, Angro Mainyus."
 
-### GOD AS THE KING, THE LIFE, THE REWARDER <span id="fr_38"></span>[\*](#fn_38)
+### GOD AS THE KING, THE LIFE, THE REWARDER <span id="fr_38"></span>[\*](#fn_38.md)
 
 "Praises, and songs, and adorations do we offer to Ahura-Mazda, and to
 Righteousness the Best; yea, we offer and we ascribe them, and proclaim
@@ -471,7 +471,7 @@ Righteousness for ever."
 
      .     .     .     .     .
 
-### THE CREATION OF THE WORLD BY AHURA-MAZDA AND CORRESPONDING EVILS BY ANGRO MAINYUS <span id="fr_39"></span>[\*](#fn_39)
+### THE CREATION OF THE WORLD BY AHURA-MAZDA AND CORRESPONDING EVILS BY ANGRO MAINYUS <span id="fr_39"></span>[\*](#fn_39.md)
 
 Ahura-Mazda spake unto Spitama Zarathustra, saying:
 
@@ -541,7 +541,7 @@ then the whole living world would have invaded the Airyana Vaêgô."
 "There are still other lands and countries, beautiful and deep,
 desirable and bright and thriving."
 
-### GOD'S WARNING TO YIMA OF WINTER AND DELUGE <span id="fr_40"></span>[\*](#fn_40)
+### GOD'S WARNING TO YIMA OF WINTER AND DELUGE <span id="fr_40"></span>[\*](#fn_40.md)
 
 And Ahura-Mazda spake unto Yima, saying:
 
@@ -554,7 +554,7 @@ highest tops of mountains.
 wilderness, and those that live on the tops of the mountains, and those
 that live in the bosom of the dale, under the shelter of stables.
 
-"Therefore make thee a *vara*, <span id="fr_41"></span>[†](#fn_41) long
+"Therefore make thee a *vara*, <span id="fr_41"></span>[†](#fn_41.md) long
 as a riding-ground on every side of the square, and thither
 
 <span id="page_75">p. 75</span>
@@ -565,7 +565,7 @@ red blazing fires.
      .     .     .     .     .
 
 "There thou shalt make waters flow in a bed a *hâthra* <span
-id="fr_42"></span>[\*](#fn_42) long; there thou shalt settle birds, by
+id="fr_42"></span>[\*](#fn_42.md) long; there thou shalt settle birds, by
 the ever-green banks that bear never-failing food. There thou shalt
 establish dwelling-places, consisting of a house with a balcony, a
 courtyard, and a gallery.
@@ -593,7 +593,7 @@ And Ahura-Mazda said unto Yima: ". . .
 Crush the earth with a stamp of thy heel, and then knead it with thy
 hands . . ."
 
-### BLESSINGS OF CULTIVATING THE SOIL <span id="fr_43"></span>[\*](#fn_43)
+### BLESSINGS OF CULTIVATING THE SOIL <span id="fr_43"></span>[\*](#fn_43.md)
 
 "He who would till the earth, . . . with the left arm and the right, . .
 . unto him will she bring forth plenty, like a loving bride, on her bed,
@@ -620,7 +620,7 @@ one of the faithful, he shall fall down into the darkness . . . down
 
 into the world of woe, the dismal realm, down into the house of hell."
 
-### HAPPINESS OF THE EARTH <span id="fr_44"></span>[\*](#fn_44)
+### HAPPINESS OF THE EARTH <span id="fr_44"></span>[\*](#fn_44.md)
 
 "It is the place whereon one of the faithful erects a house with a
 priest within, with cattle, with a wife, with children, and good herds
@@ -637,7 +637,7 @@ that is too wet.
 
 "It is the place where there is most increase of flocks and herds."
 
-### GRIEF OF THE EARTH <span id="fr_45"></span>[†](#fn_45)
+### GRIEF OF THE EARTH <span id="fr_45"></span>[†](#fn_45.md)
 
      .     .     .     .     .
 
@@ -657,12 +657,12 @@ long gone childless and wants a good husband."
 
      .     .     .     .     .
 
-### CULTIVATION OF LAND WHERE A CORPSE IS FOUND <span id="fr_46"></span>[\*](#fn_46)
+### CULTIVATION OF LAND WHERE A CORPSE IS FOUND <span id="fr_46"></span>[\*](#fn_46.md)
 
 ". . . A year long shall the ground lie fallow whereon dogs or men have
 died."
 
-### PURIFICATION OF WATER DEFILED BY A CORPSE <span id="fr_47"></span>[†](#fn_47)
+### PURIFICATION OF WATER DEFILED BY A CORPSE <span id="fr_47"></span>[†](#fn_47.md)
 
 "O Maker of the material world, thou Holy One! if a worshipper of Mazda,
 walking, or running, or riding, or driving, come upon a corpse in a
@@ -685,9 +685,9 @@ the water.
 shall that water be unclean and unfit to drink.
 
 "After the corpse has been taken out and the stream has flowed three
-times, <span id="fr_48"></span>[\*](#fn_48) the water is clean. . . ."
+times, <span id="fr_48"></span>[\*](#fn_48.md) the water is clean. . . ."
 
-### RELIGIOUS EDUCATION <span id="fr_49"></span>[†](#fn_49)
+### RELIGIOUS EDUCATION <span id="fr_49"></span>[†](#fn_49.md)
 
 "He shall learn on during the first part of the day and the last, during
 the first part of the night and the last, that his mind may be increased
@@ -696,11 +696,11 @@ thanks and praying to God and *His angels* that he may be increased in
 knowledge. He shall rest during the middle part of the day, during the
 middle part of the night, and thus shall he continue until he can say
 ail the words which former Athrapaitis <span
-id="fr_50"></span>[‡](#fn_50) have said."
+id="fr_50"></span>[‡](#fn_50.md) have said."
 
 <span id="page_80">p. 80</span>
 
-### REWARD FOR THE PIOUS <span id="fr_51"></span>[\*](#fn_51)
+### REWARD FOR THE PIOUS <span id="fr_51"></span>[\*](#fn_51.md)
 
 Zarathustra asked Ahura-Mazda: "O thou all-knowing Ahura-Mazda, should I
 urge upon the godly man, should I urge upon the godly woman, should I
@@ -719,7 +719,7 @@ the material world, they have won for their souls?"
 Ahura-Mazda answered: "When the man is dead, when his time is over, then
 the hellish, evil-doing Daêvas assail him; and when the third night is
 gone, when the dawn appears and brightens up, and makes Mithra <span
-id="fr_52"></span>[†](#fn_52) . . . reach the all-happy mountains, and
+id="fr_52"></span>[†](#fn_52.md) . . . reach the all-happy mountains, and
 the sun is rising:
 
 Then the fiend named Vîzaresha carries off in bonds the souls of the
@@ -741,10 +741,10 @@ decaying world into this undecaying one?'
 
 "Gladly pass the souls of the righteous to the golden seat of
 Ahura-Mazda, to the golden seat of the Ameshaspentas, <span
-id="fr_53"></span>[\*](#fn_53) to Garodemana. <span
-id="fr_54"></span>[†](#fn_54)"
+id="fr_53"></span>[\*](#fn_53.md) to Garodemana. <span
+id="fr_54"></span>[†](#fn_54.md)"
 
-### FORGIVENESS OF SIN <span id="fr_55"></span>[‡](#fn_55)
+### FORGIVENESS OF SIN <span id="fr_55"></span>[‡](#fn_55.md)
 
 "The law of Mazda indeed, O Spitama Zarathustra! takes away from him who
 confesses it the bonds of his sin; it takes away the sin of breach of
@@ -755,7 +755,7 @@ sin; it takes away any sin that may be sinned."
 
 <span id="page_82">p. 82</span>
 
-### THE TEMPTATION <span id="fr_56"></span>[\*](#fn_56)
+### THE TEMPTATION <span id="fr_56"></span>[\*](#fn_56.md)
 
 Thus Zarathustra answered Angro Mainyus (*the Evil Spirit*): "O
 evil-doer, Angro Mainyus! I will smite the creation of the Daêva; I will
@@ -764,7 +764,7 @@ smite the Nasu, a creature of the Daêva. . . ."
 Again to him said the guileful one, . . . . Angro Mainyus: "Do not
 destroy my creatures, O holy Zarathustra! . . . Renounce the good law of
 the worshippers of Mazda, and thou shalt gain such a boon as
-*Zohâk*, <span id="fr_57"></span>[†](#fn_57) the murderer, gained, the
+*Zohâk*, <span id="fr_57"></span>[†](#fn_57.md) the murderer, gained, the
 ruler of the nations."
 
 Thus in answer to him said Spitama Zarathustra: "No! never will I
@@ -801,7 +801,7 @@ How can we procure his death? He is the stroke that fells the fiends.' .
 false-speaking lie! They run away, they rush away, the wicked,
 evil-doing Daêvas, into the depths of the dark, horrid world of hell."
 
-### BANISHMENT OF ANGRO MAINYUS <span id="fr_58"></span>[\*](#fn_58)
+### BANISHMENT OF ANGRO MAINYUS <span id="fr_58"></span>[\*](#fn_58.md)
 
 "Away art thou driven, O mischievous Angro Mainyus! from the fire, from
 the water, from the earth, from the cow, from the tree, from the
@@ -810,20 +810,20 @@ made by Mazda, the offspring of the holy principle."
 
 <span id="page_84">p. 84</span>
 
-### ON LOAN <span id="fr_59"></span>[\*](#fn_59)
+### ON LOAN <span id="fr_59"></span>[\*](#fn_59.md)
 
 He who does not restore (a thing lent) when it is asked for back again,
 steals the thing; he robs the man. So he does every day, every night, as
 long as he keeps in his house his neighbour's property, as though it
 were his own."
 
-### ON WASTE <span id="fr_60"></span>[†](#fn_60)
+### ON WASTE <span id="fr_60"></span>[†](#fn_60.md)
 
 "Ahura-Mazda, indeed, does not allow us to waste anything of value that
 we may have, not even so much as an Asperena's weight of thread, not
 even so much as a maid lets fall in spinning."
 
-### TEMPERANCE <span id="fr_61"></span>[‡](#fn_61)
+### TEMPERANCE <span id="fr_61"></span>[‡](#fn_61.md)
 
 "Regarding wine, it is evident that it is possible for good and bad
 temper to come to manifestation through wine.
@@ -852,7 +852,7 @@ brings in discord.
 Because, from the moderate drinking of wine, thus much benefit happens
 to him: since it digests the food, kindles the vital fire, increases the
 understanding and intellect, and blood, removes vexation, and
-[inflames](errata.htm#1) the complexion.
+[inflames](errata.htm#1.md) the complexion.
 
 It causes recollection of things forgotten, and goodness takes a place
 in the mind. It likewise increases the sight of the eye, the hearing of
@@ -871,14 +871,14 @@ and even wickedness to his soul.
 
 "And even he who gives wine authorizedly unto any one, and he is thereby
 intoxicated by it, is equally guilty of every sin which that drunkard
-commits owing to that drunkenness." <span id="fr_62"></span>[\*](#fn_62)
+commits owing to that drunkenness." <span id="fr_62"></span>[\*](#fn_62.md)
 
-### SOULS’ VISIT TO THE EARTH <span id="fr_63"></span>[†](#fn_63)
+### SOULS’ VISIT TO THE EARTH <span id="fr_63"></span>[†](#fn_63.md)
 
 We worship the good, strong, beneficent Fravashis <span
-id="fr_64"></span>[‡](#fn_64) of the faithful, who come and go through
+id="fr_64"></span>[‡](#fn_64.md) of the faithful, who come and go through
 the borough at the time of the Hamaspathmaêdha <span
-id="fr_65"></span>[§](#fn_65); they go along there for ten nights,
+id="fr_65"></span>[§](#fn_65.md); they go along there for ten nights,
 asking thus:
 
 "Who will praise us? Who will offer us a sacrifice? Who will meditate
@@ -888,7 +888,7 @@ be taken for invocation? Of which of you will the soul be worshipped by
 you with a sacrifice? To whom will the gift of ours be given, that he
 may have never-failing food for ever and ever?" And the man who offers
 them up a sacrifice, with meat and clothes in his hand, with a prayer
-worthy of bliss, the awful <span id="fr_66"></span>[¦¦](#fn_66)
+worthy of bliss, the awful <span id="fr_66"></span>[¦¦](#fn_66.md)
 Fravashis of the faithful, satisfied, unharmed, and unoffended, bless
 thus:
 
@@ -899,7 +899,7 @@ swift horse and a solid chariot! May there be a man who knows how to
 praise God and rule in an assembly, who will offer us sacrifices with
 meat and clothes in his hand, and with a prayer worthy of bliss!"
 
-### THE MAZDAYASNIAN CONFESSION <span id="fr_67"></span>[\*](#fn_67)
+### THE MAZDAYASNIAN CONFESSION <span id="fr_67"></span>[\*](#fn_67.md)
 
 "I drive the Daêvas hence; I confess as a Mazda-worshipper of the order
 of Zarathustra, estranged from the Daêvas, devoted to the lore of the
@@ -968,7 +968,7 @@ knowledge, Ahura's Faith, the Zarathustrian creed. Yea, to Ahura-Mazda
 do I ascribe all good, and such shall be the worship of the Mazdayasnian
 belief!"
 
-### PATET ERANI <span id="fr_68"></span>[\*](#fn_68)
+### PATET ERANI <span id="fr_68"></span>[\*](#fn_68.md)
 
 ### Prayer for Repentance
 
@@ -981,7 +981,7 @@ deeds and their reward,
 
 and of bad deeds and their punishment, as well as in the continuance of
 Paradise, in the annihilation of Hell and Ahriman <span
-id="fr_69"></span>[\*](#fn_69) and the Daêvas, that \[God\] Ahura-Mazda
+id="fr_69"></span>[\*](#fn_69.md) and the Daêvas, that \[God\] Ahura-Mazda
 will at last be victorious and Ahriman will perish together with the
 Daêvas and the off-shoots of darkness.
 
@@ -995,7 +995,7 @@ not to have spoken and yet have spoken, all that I ought not to have
 done and yet have done, all that I ought not to have ordered and yet
 have ordered; for thoughts, words, and works, bodily and spiritual,
 earthy and heavenly, pray I for forgiveness, and repent of it with
-Patet. <span id="fr_70"></span>[†](#fn_70)
+Patet. <span id="fr_70"></span>[†](#fn_70.md)
 
      .     .     .     .     .
 
@@ -1007,11 +1007,11 @@ great, may step over freed from trouble and
 
 <span id="page_91">p. 91</span>
 
-easily, and may the pure Srosh, <span id="fr_71"></span>[\*](#fn_71) the
+easily, and may the pure Srosh, <span id="fr_71"></span>[\*](#fn_71.md) the
 victorious, friend, protector, overseer, be the protector and the
 watcher of my soul. . . ."
 
-### MARRIAGE SERVICE <span id="fr_72"></span>[†](#fn_72)
+### MARRIAGE SERVICE <span id="fr_72"></span>[†](#fn_72.md)
 
 "Do you both accept the contract for life with honourable mind, that
 pleasure may increase to ye twain?
@@ -1043,14 +1043,14 @@ no wise displease thy mother. Keep thine own body pure in justice.
 ### Blessings
 
 "May Ahura-Mazda (God) send you gifts, Bahman, <span
-id="fr_73"></span>[\*](#fn_73) thinking with the soul; Ardibihist good
+id="fr_73"></span>[\*](#fn_73.md) thinking with the soul; Ardibihist good
 speech; Sharevar, good working; Çependarmat, wisdom; Khordat, sweetness
 and prosperity; Amertat, fruitfulness!
 
 "May that come to you which is better than the good, may that not come
 to you which is worse than the evil. . . ."
 
-### THE VISION OF ARDÂ-VIRÂF <span id="fr_74"></span>[†](#fn_74)
+### THE VISION OF ARDÂ-VIRÂF <span id="fr_74"></span>[†](#fn_74.md)
 
 They say that, once upon a time, the pious Zaratûtsht (Zoroaster) made
 the religion which he had received current in the world; and till the
@@ -1076,7 +1076,7 @@ the country of Iran, one with the other.
      .     .     .     .     .
 
 And afterwards there were other magi and Desturs <span
-id="fr_75"></span>[\*](#fn_75) of the religion, and some of their number
+id="fr_75"></span>[\*](#fn_75.md) of the religion, and some of their number
 were loyal and apprehensive. And an assembly of them was summoned in the
 residence of the victorious Frôbâg fire; and there were speeches and
 good ideas of many kinds on this subject: that "it is necessary for us
@@ -1106,7 +1106,7 @@ truly.
 "After I had drunk the consecrated wine, and I had reposed my body to
 rest, and given my mind up to the adoration of God, methought my soul
 took its flight towards the holy regions, where Serosh Izad <span
-id="fr_76"></span>[\*](#fn_76) appeared unto me, and beckoned me towards
+id="fr_76"></span>[\*](#fn_76.md) appeared unto me, and beckoned me towards
 him, when, after giving and receiving the customary salutations, Serosh
 Izad said to me, 'You have made a long journey in the faith. I am happy
 to see you in these blessed regions, and your escape from the world of
@@ -1126,8 +1126,8 @@ wonted purity.'
 
 ". . . On saying this, Serosh Izad took hold of me by the arm, and led
 me forward across the bridge, when the throne of Mehr Izad, <span
-id="fr_77"></span>[\*](#fn_77) came in view, with Roshni Izad <span
-id="fr_78"></span>[†](#fn_78) standing by him, holding in his hands the
+id="fr_77"></span>[\*](#fn_77.md) came in view, with Roshni Izad <span
+id="fr_78"></span>[†](#fn_78.md) standing by him, holding in his hands the
 scales of justice, made of pure gold, and having on his right hand and
 on his left five thousand angels, and whose different petitions he can
 hear at once, and if written can see at one glance. Having saluted, and
@@ -1140,14 +1140,14 @@ heaven and hell; that I may see that the truth may by these means be
 again restored to the earth, and heresy and wickedness banished for
 ever.'
 
-". . . Afterwards arose Vohûmano, <span id="fr_79"></span>[‡](#fn_79)
+". . . Afterwards arose Vohûmano, <span id="fr_79"></span>[‡](#fn_79.md)
 the archangel,
 
 <span id="page_96">p. 96</span>
 
 from a throne made of gold, and he took hold of my hand. With the words
 'good thought' and 'good word' and 'good deed,' he brought me into the
-midst of Aûharmazd <span id="fr_80"></span>[\*](#fn_80) and the
+midst of Aûharmazd <span id="fr_80"></span>[\*](#fn_80.md) and the
 archangels and other holy ones, and the guardian angels of Zaratûsht
 Spitâma, Kaî-Vishtâsp, Jâmâsp, Isâdvâstar, the son of Zaratûsht, and
 other upholders and leaders of the religion, than whom I have never seen
@@ -1159,7 +1159,7 @@ worship before him.
 "And he said to me thus, 'Salutation to thee, Ardâ-Vîrâf, thou art
 welcome; from that perishable world thou hast come to this pure bright
 place.' And he ordered Srôsh the pious, and Atarô <span
-id="fr_81"></span>[†](#fn_81) the angel, thus, 'Take Ardâ-Vîrâf, and
+id="fr_81"></span>[†](#fn_81.md) the angel, thus, 'Take Ardâ-Vîrâf, and
 show him the place and reward of the pious, and also the punishment of
 the wicked.'
 
@@ -1301,7 +1301,7 @@ holiness, and continue in the worship of the true God.'"
 
      .     .     .     .     .
 
-### SANCTITY <span id="fr_82"></span>[\*](#fn_82)
+### SANCTITY <span id="fr_82"></span>[\*](#fn_82.md)
 
 "I pray with benedictions for a benefit, and for the good, even for the
 entire creation of the holy and the clean; I beseech them for the
@@ -1325,7 +1325,7 @@ Bountiful Immortals, for the bringing prosperity to this abode, and for
 the prosperity of the entire creation of the holy, and the clean, and as
 for this, so for the opposition of the entire evil creation. . . ."
 
-### PRAYER FOR SAFETY <span id="fr_83"></span>[\*](#fn_83)
+### PRAYER FOR SAFETY <span id="fr_83"></span>[\*](#fn_83.md)
 
 "Keep us from our hater, O Mazda! . . . Perish, O fiendish Drug! Perish,
 O brood of the fiend! Perish, O world of the fiend! . . . . Perish away
@@ -1336,162 +1336,162 @@ world of the holy spirit!"
 
 ### Footnotes
 
-<span id="fn_25"></span>[57:\*](toz05.htm#fr_25) Sacred Books of the
+<span id="fn_25"></span>[57:\*](toz05.htm#fr_25.md) Sacred Books of the
 East.
 
-<span id="fn_26"></span>[57:†](toz05.htm#fr_26) Spiegel and Bleeck's
+<span id="fn_26"></span>[57:†](toz05.htm#fr_26.md) Spiegel and Bleeck's
 translation.
 
-<span id="fn_27"></span>[58:\*](toz05.htm#fr_27) Sacred Books of the
+<span id="fn_27"></span>[58:\*](toz05.htm#fr_27.md) Sacred Books of the
 East. Translation by J. Darmesteter.
 
-<span id="fn_28"></span>[58:†](toz05.htm#fr_28) Dinâ-î Maînôg-î Khirad.
+<span id="fn_28"></span>[58:†](toz05.htm#fr_28.md) Dinâ-î Maînôg-î Khirad.
 Sacred Books of the East. Translated by Dr. West.
 
-<span id="fn_29"></span>[59:\*](toz05.htm#fr_29) devil.
+<span id="fn_29"></span>[59:\*](toz05.htm#fr_29.md) devil.
 
-<span id="fn_30"></span>[61:\*](toz05.htm#fr_30) Spiegel and Bleeck's
+<span id="fn_30"></span>[61:\*](toz05.htm#fr_30.md) Spiegel and Bleeck's
 translation.
 
-<span id="fn_31"></span>[64:\*](toz05.htm#fr_31) Dâdîstân-î-Dînîk.
+<span id="fn_31"></span>[64:\*](toz05.htm#fr_31.md) Dâdîstân-î-Dînîk.
 Sacred Books of the East. Translated by Dr. West.
 
-<span id="fn_32"></span>[66:\*](toz05.htm#fr_32) Sacred Books of the
+<span id="fn_32"></span>[66:\*](toz05.htm#fr_32.md) Sacred Books of the
 East. Yaçna XLIV. Dr. L. H. Mills' translation.
 
-<span id="fn_33"></span>[69:\*](toz05.htm#fr_33) Spiegel and Bleeck's
+<span id="fn_33"></span>[69:\*](toz05.htm#fr_33.md) Spiegel and Bleeck's
 translation.
 
-<span id="fn_34"></span>[70:\*](toz05.htm#fr_34) Max Müller's "Sacred
+<span id="fn_34"></span>[70:\*](toz05.htm#fr_34.md) Max Müller's "Sacred
 Books of the East."
 
-<span id="fn_35"></span>[70:†](toz05.htm#fr_35) Ibid.
+<span id="fn_35"></span>[70:†](toz05.htm#fr_35.md) Ibid.
 
-<span id="fn_36"></span>[70:‡](toz05.htm#fr_36) Ibid.
+<span id="fn_36"></span>[70:‡](toz05.htm#fr_36.md) Ibid.
 
-<span id="fn_37"></span>[70:§](toz05.htm#fr_37) See Introduction about
+<span id="fn_37"></span>[70:§](toz05.htm#fr_37.md) See Introduction about
 the names of God.
 
-<span id="fn_38"></span>[71:\*](toz05.htm#fr_38) Sacred Books of the
+<span id="fn_38"></span>[71:\*](toz05.htm#fr_38.md) Sacred Books of the
 East. Translation by Dr. L. H. Mills.
 
-<span id="fn_39"></span>[72:\*](toz05.htm#fr_39) Max Müller's "Sacred
+<span id="fn_39"></span>[72:\*](toz05.htm#fr_39.md) Max Müller's "Sacred
 Books of the East."
 
-<span id="fn_40"></span>[74:\*](toz05.htm#fr_40) Sacred Books of the
+<span id="fn_40"></span>[74:\*](toz05.htm#fr_40.md) Sacred Books of the
 East.
 
-<span id="fn_41"></span>[74:†](toz05.htm#fr_41)An enclosure.
+<span id="fn_41"></span>[74:†](toz05.htm#fr_41.md)An enclosure.
 
-<span id="fn_42"></span>[75:\*](toz05.htm#fr_42) About an English mile.
+<span id="fn_42"></span>[75:\*](toz05.htm#fr_42.md) About an English mile.
 
-<span id="fn_43"></span>[76:\*](toz05.htm#fr_43) Sacred Books of the
+<span id="fn_43"></span>[76:\*](toz05.htm#fr_43.md) Sacred Books of the
 East.
 
-<span id="fn_44"></span>[77:\*](toz05.htm#fr_44) Sacred Books of the
+<span id="fn_44"></span>[77:\*](toz05.htm#fr_44.md) Sacred Books of the
 East.
 
-<span id="fn_45"></span>[77:†](toz05.htm#fr_45) Ibid.
+<span id="fn_45"></span>[77:†](toz05.htm#fr_45.md) Ibid.
 
-<span id="fn_46"></span>[78:\*](toz05.htm#fr_46) Sacred Books of the
+<span id="fn_46"></span>[78:\*](toz05.htm#fr_46.md) Sacred Books of the
 East.
 
-<span id="fn_47"></span>[78:†](toz05.htm#fr_47) Ibid.
+<span id="fn_47"></span>[78:†](toz05.htm#fr_47.md) Ibid.
 
-<span id="fn_48"></span>[79:\*](toz05.htm#fr_48) Probably tides.
+<span id="fn_48"></span>[79:\*](toz05.htm#fr_48.md) Probably tides.
 
-<span id="fn_49"></span>[79:†](toz05.htm#fr_49) Ibid.
+<span id="fn_49"></span>[79:†](toz05.htm#fr_49.md) Ibid.
 
-<span id="fn_50"></span>[79:‡](toz05.htm#fr_50) A teaching priest.
+<span id="fn_50"></span>[79:‡](toz05.htm#fr_50.md) A teaching priest.
 
-<span id="fn_51"></span>[80:\*](toz05.htm#fr_51) Max Müller's "Sacred
+<span id="fn_51"></span>[80:\*](toz05.htm#fr_51.md) Max Müller's "Sacred
 Books of the East."
 
-<span id="fn_52"></span>[80:†](toz05.htm#fr_52) God of Light.
+<span id="fn_52"></span>[80:†](toz05.htm#fr_52.md) God of Light.
 
-<span id="fn_53"></span>[81:\*](toz05.htm#fr_53) Archangels.
+<span id="fn_53"></span>[81:\*](toz05.htm#fr_53.md) Archangels.
 
-<span id="fn_54"></span>[81:†](toz05.htm#fr_54) Highest Heaven.
+<span id="fn_54"></span>[81:†](toz05.htm#fr_54.md) Highest Heaven.
 
-<span id="fn_55"></span>[81:‡](toz05.htm#fr_55) Max Müller's "Sacred
+<span id="fn_55"></span>[81:‡](toz05.htm#fr_55.md) Max Müller's "Sacred
 Books of the East."
 
-<span id="fn_56"></span>[82:\*](toz05.htm#fr_56) Max Müller's "Sacred
+<span id="fn_56"></span>[82:\*](toz05.htm#fr_56.md) Max Müller's "Sacred
 Books of the East."
 
-<span id="fn_57"></span>[82:†](toz05.htm#fr_57) See *Notes*.
+<span id="fn_57"></span>[82:†](toz05.htm#fr_57.md) See *Notes*.
 
-<span id="fn_58"></span>[83:\*](toz05.htm#fr_58) Max Müller's "Sacred
+<span id="fn_58"></span>[83:\*](toz05.htm#fr_58.md) Max Müller's "Sacred
 Books of the East."
 
-<span id="fn_59"></span>[84:\*](toz05.htm#fr_59) Sacred Books of the
+<span id="fn_59"></span>[84:\*](toz05.htm#fr_59.md) Sacred Books of the
 East.
 
-<span id="fn_60"></span>[84:†](toz05.htm#fr_60) Ibid.
+<span id="fn_60"></span>[84:†](toz05.htm#fr_60.md) Ibid.
 
-<span id="fn_61"></span>[84:‡](toz05.htm#fr_61) Dînâ-î Maînôg-î Khirad.
+<span id="fn_61"></span>[84:‡](toz05.htm#fr_61.md) Dînâ-î Maînôg-î Khirad.
 Sacred Books of the East. Translated by Dr. West.
 
-<span id="fn_62"></span>[86:\*](toz05.htm#fr_62) Dâdîstân-î-Dînîk
+<span id="fn_62"></span>[86:\*](toz05.htm#fr_62.md) Dâdîstân-î-Dînîk
 
-<span id="fn_63"></span>[86:†](toz05.htm#fr_63) Sacred Books of the
+<span id="fn_63"></span>[86:†](toz05.htm#fr_63.md) Sacred Books of the
 East.
 
-<span id="fn_64"></span>[86:‡](toz05.htm#fr_64) Souls.
+<span id="fn_64"></span>[86:‡](toz05.htm#fr_64.md) Souls.
 
-<span id="fn_65"></span>[86:§](toz05.htm#fr_65) The last ten days of the
+<span id="fn_65"></span>[86:§](toz05.htm#fr_65.md) The last ten days of the
 year.
 
-<span id="fn_66"></span>[86:¦¦](toz05.htm#fr_66) Awe-inspiring.
+<span id="fn_66"></span>[86:¦¦](toz05.htm#fr_66.md) Awe-inspiring.
 
-<span id="fn_67"></span>[87:\*](toz05.htm#fr_67) Sacred Books of the
+<span id="fn_67"></span>[87:\*](toz05.htm#fr_67.md) Sacred Books of the
 East. Translated by Dr. L. H. Mills.
 
-<span id="fn_68"></span>[89:\*](toz05.htm#fr_68) Spiegel and Bleeck's
+<span id="fn_68"></span>[89:\*](toz05.htm#fr_68.md) Spiegel and Bleeck's
 translation.
 
-<span id="fn_69"></span>[90:\*](toz05.htm#fr_69) The devil.
+<span id="fn_69"></span>[90:\*](toz05.htm#fr_69.md) The devil.
 
-<span id="fn_70"></span>[90:†](toz05.htm#fr_70) Penance.
+<span id="fn_70"></span>[90:†](toz05.htm#fr_70.md) Penance.
 
-<span id="fn_71"></span>[91:\*](toz05.htm#fr_71) The Guardian Angel.
+<span id="fn_71"></span>[91:\*](toz05.htm#fr_71.md) The Guardian Angel.
 
-<span id="fn_72"></span>[91:†](toz05.htm#fr_72) Spiegel and Bleeck's
+<span id="fn_72"></span>[91:†](toz05.htm#fr_72.md) Spiegel and Bleeck's
 translation.
 
-<span id="fn_73"></span>[92:\*](toz05.htm#fr_73) *See* Ameshaspends,
+<span id="fn_73"></span>[92:\*](toz05.htm#fr_73.md) *See* Ameshaspends,
 page 41.
 
-<span id="fn_74"></span>[92:†](toz05.htm#fr_74) Dr. Haug and Dr. West's
+<span id="fn_74"></span>[92:†](toz05.htm#fr_74.md) Dr. Haug and Dr. West's
 "Ardâ-Virâf"; J. A. Pope's Revelations of Ardâ-Virâf."
 
-<span id="fn_75"></span>[93:\*](toz05.htm#fr_75) Chief priests.
+<span id="fn_75"></span>[93:\*](toz05.htm#fr_75.md) Chief priests.
 
-<span id="fn_76"></span>[94:\*](toz05.htm#fr_76) The Guardian Angel of
+<span id="fn_76"></span>[94:\*](toz05.htm#fr_76.md) The Guardian Angel of
 Souls.
 
-<span id="fn_77"></span>[95:\*](toz05.htm#fr_77) Mithra: The Recording
+<span id="fn_77"></span>[95:\*](toz05.htm#fr_77.md) Mithra: The Recording
 Angel.
 
-<span id="fn_78"></span>[95:†](toz05.htm#fr_78) Angel of Justice.
+<span id="fn_78"></span>[95:†](toz05.htm#fr_78.md) Angel of Justice.
 
-<span id="fn_79"></span>[95:‡](toz05.htm#fr_79) Good Mind.
+<span id="fn_79"></span>[95:‡](toz05.htm#fr_79.md) Good Mind.
 
-<span id="fn_80"></span>[96:\*](toz05.htm#fr_80) Good.
+<span id="fn_80"></span>[96:\*](toz05.htm#fr_80.md) Good.
 
-<span id="fn_81"></span>[96:†](toz05.htm#fr_81) God of Fire: The Angel
+<span id="fn_81"></span>[96:†](toz05.htm#fr_81.md) God of Fire: The Angel
 of Life.
 
-<span id="fn_82"></span>[101:\*](toz05.htm#fr_82) Sacred Books of the
+<span id="fn_82"></span>[101:\*](toz05.htm#fr_82.md) Sacred Books of the
 East. Translated by Dr. L. H. Mills.
 
-<span id="fn_83"></span>[102:\*](toz05.htm#fr_83) Max Müller's "Sacred
+<span id="fn_83"></span>[102:\*](toz05.htm#fr_83.md) Max Müller's "Sacred
 Books of the East."
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Notes](toz06)
+[Next: Notes](toz06.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](goal12)  [Next](goal14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](goal12)  [Next](goal14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428625305/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Goal of Life*, by Hiram Butler, \[1908\], at Intangible Textual
 Heritage
 
@@ -431,7 +431,7 @@ extremities of the body? Can you tell us?—Ah, we may talk of nerve
 force, of electric currents, and so on, but how little we know of that
 which we call electricity! We see a man who lives a highly moral life,
 so filled with electricity that by a little friction he can light the
-gas with his fingers, and this force <span id="fr_3"></span>[\*](#fn_3)
+gas with his fingers, and this force <span id="fr_3"></span>[\*](#fn_3.md)
 seems to be the same that has been harnessed to run our railroads, and
 to serve in our various industries, and this Will, <span
 class="smallcaps">Yahveh</span>, the God of the universe, may express
@@ -468,7 +468,7 @@ own.</span>
 
 ### Footnotes
 
-<span id="fn_3"></span>[111:\*](goal13.htm#fr_3) There is another force
+<span id="fn_3"></span>[111:\*](goal13.htm#fr_3.md) There is another force
 in nature that acts very much like electricity; it will give a spark of
 light, but has in it no heat. This is as yet a comparatively unknown
 force. It acts quicker than electricity and is as much stronger and as
@@ -476,7 +476,7 @@ much more potential than electricity as electricity is more potential
 than water. This marvelous force is interior to all the forces that we
 thus far know and utilize, and is waiting the higher development of our
 race for its discovery and utilization. It fills all space, and is next
-beyond electricity in [ethereality](errata.htm#10) and is the most
+beyond electricity in [ethereality](errata.htm#10.md) and is the most
 potent of any element that can be made sensible to the human
 consciousness. As it evidently governs the action of electricity we have
 given it the name of *electro-archon* in order that the thought of it
@@ -484,4 +484,4 @@ may have a standing in the minds of the people.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. Mind-Centers](goal14)
+[Next: Chapter X. Mind-Centers](goal14.md)

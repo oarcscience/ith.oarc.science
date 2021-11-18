@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg20)  [Next](ttg22) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg20)  [Next](ttg22.md) 
 
 ------------------------------------------------------------------------
 
@@ -115,4 +115,4 @@ the sissoo tree.
 ------------------------------------------------------------------------
 
 [Next: Twenty-first Goblin: The Old Hermit who exchanged his Body for
-that of the Dead Boy. Why did he weep and dance?](ttg22)
+that of the Dead Boy. Why did he weep and dance?](ttg22.md)

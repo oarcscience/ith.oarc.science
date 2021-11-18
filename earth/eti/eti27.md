@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti26)  [Next](eti28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti26)  [Next](eti28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -95,7 +95,7 @@ surfaces will come to a common level."
 <span id="page_136">p. 136</span>
 
 He selected a curved glass tube, and poured water into it. The water
-assumed the position shown in [Figure 11](#img_13600).
+assumed the position shown in [Figure 11](#img_13600.md).
 
 <span id="img_13600"></span>
 
@@ -127,7 +127,7 @@ you perceive that it also rises to the same level in both ends."
 
 "Do not interrupt me. Into one arm of the tube containing the brine I
 now carefully pour pure water. You observe that the surfaces do not seek
-the same level." ([Figure 12.](#img_13601))
+the same level." ([Figure 12.](#img_13601).md)
 
 "Certainly not," I said; "the weight of the liquid in each arm is the
 same, however; the columns balance each other."
@@ -162,7 +162,7 @@ the case."
 earth, one containing salt water, the other fresh water, which, if
 joined together, might be represented by such a figure as this, wherein
 the water surface would be raised above that of the brine?" And he drew
-upon the paper the accompanying diagram. ([Figure 13](#img_13700).)
+upon the paper the accompanying diagram. ([Figure 13](#img_13700)..md)
 
 <span id="page_137">p. 137</span>
 
@@ -189,7 +189,7 @@ S, sand strata connecting them.<br />
 </table>
 
 that in the lower pocket we have pure water, in the upper pocket brine
-([Figure 14](#img_13701)); can you bring any theory of your law to bear
+([Figure 14](#img_13701).md); can you bring any theory of your law to bear
 upon these liquids so that by connecting them together the water will
 rise and run into the brine?"
 
@@ -235,7 +235,7 @@ stood
 them in a perforated cork that he placed upon the table. Into one tube
 he poured water, and then dissolving some salt in a cup, poured brine
 into the other, filling both nearly to the top ([Figure
-15](#img_13800)). Next he produced a short curved glass tube, to each
+15](#img_13800).md). Next he produced a short curved glass tube, to each
 end of which was attached a strip of flexible rubber tubing. Then, from
 a piece
 
@@ -243,7 +243,7 @@ a piece
 
 of blotting paper such as is used to blot ink, he cut a narrow strip and
 passed it through the arrangement, forming the apparatus represented by
-[Figure 16](#img_13801).
+[Figure 16](#img_13801.md).
 
 <span id="img_13800"></span>
 
@@ -264,10 +264,10 @@ E, water surface.<br />
 </tbody>
 </table>
 
-Then he inserted the two tubes ([Figure 15](#img_13800)) into the
+Then he inserted the two tubes ([Figure 15](#img_13800).md) into the
 rubber, the extremities of the paper being submerged in the liquids,
 producing a combination that rested upright in the cork as shown by
-[Figure 17](#img_13900).
+[Figure 17](#img_13900.md).
 
 The surfaces of both liquids were at once lowered by reason of the
 suction of the bibulous paper, the water decreasing most rapidly, and
@@ -310,7 +310,7 @@ which is true, man's theory or nature's practice."
 Within a short time enough of the water in the glass tube had been
 transferred to the brine to raise its surface considerably above its
 former level, the surface of the water being lowered to a greater
-degree. ([Figure 18](#img_13901).) I was discomfited at the result, and
+degree. ([Figure 18](#img_13901)..md) I was discomfited at the result, and
 upon his appearance next evening peevishly said to the experimenter:
 
 "I do not know that this is fair."
@@ -395,7 +395,7 @@ time saturated, starting crystallization regularly over the floor and
 sides of the basin. Eventually the entire cavity is filled with salt,
 and a solid mass of rock salt remains. If, however, before the lake
 becomes solid, the brine supply is shut off by some natural cause as by
-salt [crystals](errata.htm#0) closing the passage thereto, the
+salt [crystals](errata.htm#0.md) closing the passage thereto, the
 underground lake is at last drained of its water, the salt crystallizing
 over the bottom,
 
@@ -483,4 +483,4 @@ an error.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. My Weight Disappearing](eti28)
+[Next: Chapter XXI. My Weight Disappearing](eti28.md)

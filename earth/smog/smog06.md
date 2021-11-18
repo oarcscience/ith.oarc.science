@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](smog05)  [Next](smog07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](smog05)  [Next](smog07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Smoky God*, by Willis George Emerson, \[1908\], at Intangible
 Textual Heritage
 
@@ -176,7 +176,7 @@ will. When I attempted to tell him that I had come from the "inside" of
 
 <span id="img_16500"></span> <span align="CENTER"> [![“Less than a half
 mile away was a whaling vessel.”](tn/16500.jpg)  
-Click to enlarge](img/16500.jpg)  
+Click to enlarge](img/16500.jpg.md)  
 “Less than a half mile away was a whaling vessel.”  
 </span>
 
@@ -216,7 +216,7 @@ of the seamen. A little later the captain asked me for an explanation. I
 
 <span id="img_16900"></span> <span align="CENTER"> [![“Whereupon I was
 put in irons.”](tn/16900.jpg)  
-Click to enlarge](img/16900.jpg)  
+Click to enlarge](img/16900.jpg.md)  
 “Whereupon I was put in irons.”  
 </span>
 
@@ -248,4 +248,4 @@ Ocean.
 
 ------------------------------------------------------------------------
 
-[Next: Part Six: Conclusion](smog07)
+[Next: Part Six: Conclusion](smog07.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
-[Index](index)  [Previous](anim00)  [Next](anim02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
+[Index](index)  [Previous](anim00)  [Next](anim02.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ many valuable suggestions.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](anim02)
+[Next: Contents](anim02.md)

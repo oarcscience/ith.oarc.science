@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe09)  [Next](toe11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe09)  [Next](toe11.md) 
 
 ------------------------------------------------------------------------
 
@@ -394,7 +394,7 @@ The water of Glezer in Iceland undoubtedly contains this substance in
 solution; but there is no reason to believe, that it is here dissolved
 by any other than the natural means; that is, an alkaline substance, by
 which siliceous bodies may be rendered soluble in water <span
-id="fr_12"></span>[5](#fn_12).
+id="fr_12"></span>[5](#fn_12.md).
 
 It may be, therefore, asserted, that no siliceous body having the
 hardness of flint, nor any crystallization of that substance, has ever
@@ -404,7 +404,7 @@ that case, the assertion which has been here made may be denied. But
 where there is not the vestige of any proof, to authorise the
 supposition of flinty matter being dissolved by water, or crystallized
 from that solution, such an hypothesis cannot be admitted, in opposition
-to general and evident appearances <span id="fr_13"></span>[6](#fn_13).
+to general and evident appearances <span id="fr_13"></span>[6](#fn_13.md).
 
 Besides this proof for the fusion of siliceous bodies, which is
 indirect, arising from the in dissolubility of that substance in water,
@@ -442,7 +442,7 @@ recommend an examination of the insulated masses of stone, found in the
 sand-hills by the city of Brussels; a stone which is formed by an
 injection of flint among sand, similar to that which, in a body of
 gravel, had formed the pudding-stone of England <span
-id="fr_14"></span>[7](#fn_14).
+id="fr_14"></span>[7](#fn_14.md).
 
 All these examples would require to be examined upon the spot, as a
 great part of the proof for the fusion of the flinty substance, arises,
@@ -604,7 +604,7 @@ For the truth of this assertion, among a thousand other examples, I
 appeal to that famous mass of native iron discovered by Mr Pallas in
 Siberia. This mass being so well known to all the mineralists of Europe,
 any comment upon its shape and structure will be unnecessary <span
-id="fr_15"></span>[8](#fn_15).
+id="fr_15"></span>[8](#fn_15.md).
 
 We come now to the *second* species of inflammable bodies called oily or
 bituminous. These substances are also found variously mixed with mineral
@@ -850,7 +850,7 @@ Lothian.
 The form of these iron-stones is that of an oblate or much compressed
 sphere, and the size from two or three inches diameter to more than a
 foot. In the circular or horizontal section, they present the most
-elegant septarium <span id="fr_16"></span>[9](#fn_16); and, from the
+elegant septarium <span id="fr_16"></span>[9](#fn_16.md); and, from the
 examination of this particular structure, the following conclusions may
 be drawn.
 
@@ -1088,7 +1088,7 @@ being converted into vapour, what may not the power of nature be able to
 perform? The place of mineral operations is not on the surface of the
 earth; and we are not to limit nature with our imbecility, or estimate
 the powers of nature by the measure of our own. <span
-id="fr_17"></span>[10](#fn_17)
+id="fr_17"></span>[10](#fn_17.md)
 
 To conclude this long chemico-mineral disquisition, I have specimens in
 which the mixture of calcareous, siliceous, and metallic substances, in
@@ -1259,7 +1259,7 @@ This rock may indeed be considered, in some respects, as a porphyry; for
 it has an evident ground, which is feld-spar, in its sparry state; and
 it is, in one view, distinctly maculated with quartz, which is
 transparent, but somewhat dark-coloured <span
-id="fr_18"></span>[11](#fn_18).
+id="fr_18"></span>[11](#fn_18.md).
 
 Considered as a porphyry, this specimen is no less singular than as a
 granite. For, instead of a siliceous ground, maculated with the rhombic
@@ -1391,7 +1391,7 @@ therefore, a clear decision of the question, Whether it has been by
 means of heat, or by means of aqueous solution, that collections of
 loose bodies at the bottom of the sea have been consolidated into the
 hardest rocks and most perfect marbles <span
-id="fr_19"></span>[12](#fn_19).
+id="fr_19"></span>[12](#fn_19.md).
 
 Error never can be consistent, nor can truth fail of having support from
 the accurate examination of every circumstance. It is not enough to have
@@ -1458,11 +1458,11 @@ had been deposited at the bottom of the sea.
 
 ### Footnotes
 
-<span id="fn_12"></span>[v1:5](toe10.htm#fr_12) This conjecture, which I
+<span id="fn_12"></span>[v1:5](toe10.htm#fr_12.md) This conjecture, which I
 had thus formed, has been fully confirmed by the accurate analysis of
 those waters. See vol. 3d. of the Phil. Trans. of Edin.
 
-<span id="fn_13"></span>[v1:6](toe10.htm#fr_13) The Chevalier de
+<span id="fn_13"></span>[v1:6](toe10.htm#fr_13.md) The Chevalier de
 Dolomieu has imagined an ingenious theory for the solution of siliceous
 substances in water (Journal de Physique, Mai 1792.). This theory has
 not been taken up merely at a venture, but is founded upon very accurate
@@ -1550,11 +1550,11 @@ thought, that a philosopher, so conversant in the operations of
 subterraneous fire, would have perceived, that there is but one general
 principle of fluidity or dissolution, and that this is heat.
 
-<span id="fn_14"></span>[v1:7](toe10.htm#fr_14) Accurate descriptions of
+<span id="fn_14"></span>[v1:7](toe10.htm#fr_14.md) Accurate descriptions of
 those appearances, with drawings, would be, to natural history, a
 valuable acquisition.
 
-<span id="fn_15"></span>[v1:8](toe10.htm#fr_15) Since this Dissertation
+<span id="fn_15"></span>[v1:8](toe10.htm#fr_15.md) Since this Dissertation
 was written, M. de la Peyrouse has discovered a native manganese. The
 circumstances of this mineral are so well adapted for illustrating the
 present doctrine, and so well related by M. de la Peyrouse, that I
@@ -1594,10 +1594,10 @@ mine, unique jusqu'à ce moment, vient, tout comme les autres manganèse
 que j'ai décrites, des mines de fer de *Sem*, dans la vallée de
 *Viedersos*, en Comté de Foix."—*Journal de Physique, Janvier 1786*.
 
-<span id="fn_16"></span>[v1:9](toe10.htm#fr_16) See
-[pl01](toe01.htm#img_pl01).
+<span id="fn_16"></span>[v1:9](toe10.htm#fr_16.md) See
+[pl01](toe01.htm#img_pl01.md).
 
-<span id="fn_17"></span>[v1:10](toe10.htm#fr_17) This is so material a
+<span id="fn_17"></span>[v1:10](toe10.htm#fr_17.md) This is so material a
 principle in the theory of consolidating the strata of the earth by the
 fusion of mineral substances, that I beg the particular attention of the
 reader to that subject. The effect of compression upon compound
@@ -1654,10 +1654,10 @@ which we have not any reason to make; therefore, we must conclude that
 it was at the bottom of the ocean those stratified bodies had been
 consolidated.
 
-<span id="fn_18"></span>[v1:11](toe10.htm#fr_18) See: [Plate II. fig. 1.
-2. 3.](toe01.htm#img_pl02)
+<span id="fn_18"></span>[v1:11](toe10.htm#fr_18.md) See: [Plate II. fig. 1.
+2. 3.](toe01.htm#img_pl02.md)
 
-<span id="fn_19"></span>[v1:12](toe10.htm#fr_19) This subject is
+<span id="fn_19"></span>[v1:12](toe10.htm#fr_19.md) This subject is
 extremely interesting, both to the theory of the earth, and to the
 science cf the mining art; I will now illustrate that theory, with an
 authority which I received after giving this dissertation to the Royal
@@ -1785,4 +1785,4 @@ raised from the bottom of the sea and placed in the atmosphere.
 ------------------------------------------------------------------------
 
 [Next: Section III. Investigation of the Natural Operations employed in
-the Production of Land above the Surface of the Sea](toe11)
+the Production of Land above the Surface of the Sea](toe11.md)

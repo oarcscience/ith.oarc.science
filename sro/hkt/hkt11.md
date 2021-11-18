@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](hkt10)  [Next](hkt12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](hkt10)  [Next](hkt12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOUAK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The History of the Knights Templar*, by Charles G. Addison, \[1842\],
 at Intangible Textual Heritage
 
@@ -62,10 +62,10 @@ fraternity was called together, and James de Molay, the Preceptor
 <span class="margnote">JAMES DE  
 MOLAY  
 A.D. 1302.</span>of England, was chosen Grand Master. <span
-id="fr_320"></span>[\*](#fn_320) He attempted once more (A.D. 1302) to
+id="fr_320"></span>[\*](#fn_320) He attempted once more (A.D. 1302.md) to
 plant the banners of the Temple upon the sacred soil of Palestine, but
 was defeated by the sultan of Egypt with the loss of a hundred and
-twenty of his brethren. <span id="fr_321"></span>[†](#fn_321) This
+twenty of his brethren. <span id="fr_321"></span>[†](#fn_321.md) This
 disastrous expedition was speedily followed by the downfall of the
 fraternity. Many circumstances contributed to this memorable event.
 
@@ -113,7 +113,7 @@ without being paid for it, and arrogantly claimed a right to be
 entertained with sumptuous hospitality in the houses of the Temple. For
 these delinquencies, the bishops, archdeacons, priests, and the whole
 body of the clergy, are threatened with severe measures by the Roman
-pontiff. <span id="fr_322"></span>[\*](#fn_322)
+pontiff. <span id="fr_322"></span>[\*](#fn_322.md)
 
 The Templars, moreover, towards the close of their career, became
 unpopular with the European sovereigns and their nobles. The revenues of
@@ -141,7 +141,7 @@ Holy Land, and that since the loss thereof, no better use could be made
 of the money than by appropriating it to the maintenance of the poor. At
 the earnest request of the pope, however, the king afterwards permitted
 their revenues to be transmitted for them in the island of Cyprus in the
-usual manner. <span id="fr_323"></span>[\*](#fn_323) King Edward had
+usual manner. <span id="fr_323"></span>[\*](#fn_323.md) King Edward had
 previously manifested a strong desire to lay hands on the property of
 the Templars. On his return from his victorious campaign in Wales,
 finding himself unable to disburse the arrears of pay due to his
@@ -150,12 +150,12 @@ the Temple, and calling for the treasurer, he pretended that he wanted
 to see his mother's jewels, which were there kept. Having been admitted
 into the house, he deliberately broke open the coffers of the Templars,
 and carried away ten thousand pounds with him to Windsor Castle. <span
-id="fr_324"></span>[†](#fn_324) His son, Edward the Second, on his
+id="fr_324"></span>[†](#fn_324.md) His son, Edward the Second, on his
 accession to the throne, committed a similar act of injustice. He went
 with his favourite, Piers Gavaston, to the Temple, and took away with
 him fifty thousand pounds of silver, with a quantity of gold, jewels,
 and precious stones, belonging to the bishop of Chester. <span
-id="fr_325"></span>[‡](#fn_325)
+id="fr_325"></span>[‡](#fn_325.md)
 
 <span id="page_197">p. 197</span>
 
@@ -176,13 +176,13 @@ king of England in his warfare against the king of Scotland. In the
 battle of Falkirk, fought on the 22nd of July, A.D. 1298, seven years
 after the fall of Acre, perished both the Master of the Temple at
 London, and his vicegerent the Preceptor of Scotland. <span
-id="fr_326"></span>[\*](#fn_326) All these circumstances, together with
+id="fr_326"></span>[\*](#fn_326.md) All these circumstances, together with
 the loss of the Holy Land, and the extinction of the enthusiasm of the
 crusades, diminished the popularity of the Templars in Europe.
 
 At the period of the fall of Acre, Philip the Fair, son of St. Louis,
 occupied the throne of France. He was a needy and avaricious
-monarch, <span id="fr_327"></span>[†](#fn_327) and had at different
+monarch, <span id="fr_327"></span>[†](#fn_327.md) and had at different
 periods resorted to the most violent expedients to replenish his
 exhausted exchequer. On the death of Pope Benedict XI., (A.D. 1304,) he
 succeeded, through the intrigues of the French Cardinal Dupré, in
@@ -204,7 +204,7 @@ ecclesiastical historians in the darkest colours: they represent him as
 wedded to pleasure, eaten up with ambition, and greedy for money; they
 accuse him of indulging in a criminal intrigue with the beautiful
 countess of Perigord, and of trafficking in holy things. <span
-id="fr_328"></span>[\*](#fn_328)
+id="fr_328"></span>[\*](#fn_328.md)
 
 On the 6th of June, A.D. 1306, a few months after his coronation, this
 new French pontiff addressed letters from Bourdeaux to the Grand Masters
@@ -217,7 +217,7 @@ they had in the success of the expedition. "We order you," says he, "to
 come hither without delay, with as much secrecy as possible, and with a
 *very little retinue*, since you will find on this side the sea a
 sufficient number of your knights to attend upon you." <span
-id="fr_329"></span>[†](#fn_329) The Grand Master of the Hospital
+id="fr_329"></span>[†](#fn_329.md) The Grand Master of the Hospital
 declined obeying this summons; but the Grand Master of the Temple
 forthwith accepted it, and unhesitatingly placed himself in the power of
 the pope and the king of France. He landed in France, attended by sixty
@@ -253,7 +253,7 @@ brethren, horses, and other beasts across sea to Palestine, the
 Hospitaliers would always do the like or more. He at the same time
 positively declares, that a member of one order had never been known to
 raise his hand against a member of the other. <span
-id="fr_330"></span>[\*](#fn_330) The Grand Master complains that the
+id="fr_330"></span>[\*](#fn_330.md) The Grand Master complains that the
 reverence and respect of the christian nations for both orders had
 undeservedly diminished, that everything was changed, and that most
 persons were then more ready to take from them than to give to them, and
@@ -281,7 +281,7 @@ Florentin, an apostate Templar, who had been condemned by the Grand
 Preceptor and chapter of France to perpetual imprisonment for impiety
 and crime, made in his dungeon a voluntary confession of the sins and
 abominations charged against the order. <span
-id="fr_331"></span>[\*](#fn_331) Be this as it may, upon the strength of
+id="fr_331"></span>[\*](#fn_331.md) Be this as it may, upon the strength of
 an information sworn to by a condemned criminal, king Philip, on the
 14th of September, despatched secret orders to all the baillis of the
 different provinces in France, couched in the following extravagant and
@@ -341,11 +341,11 @@ pardon and favour if they
 MOLAY  
 A.D. 1307.</span>*confess* the truth, but if not, you are to acquaint
 them that they will be condemned to death." <span
-id="fr_332"></span>[\*](#fn_332)
+id="fr_332"></span>[\*](#fn_332.md)
 
 As soon as Philip had issued these orders, he wrote to the principal
 sovereigns of Europe, urging them to follow his example, <span
-id="fr_333"></span>[†](#fn_333) and sent a confidential agent, named
+id="fr_333"></span>[†](#fn_333.md) and sent a confidential agent, named
 Bernard Peletin, with a letter to the young king, Edward the Second, who
 had just then ascended the throne of England, representing in frightful
 colours the pretended sins of the Templars. On the 22nd of September,
@@ -364,7 +364,7 @@ said to have proceeded, to be summoned to his presence, that through him
 he might be further informed concerning the premises; and he states that
 at the fitting time, after due inquiry, he will take such steps as will
 redound to the praise of God, and the honour and preservation of the
-catholic faith. <span id="fr_334"></span>[‡](#fn_334)
+catholic faith. <span id="fr_334"></span>[‡](#fn_334.md)
 
 On the night of the 13th of October, all the Templars in the French
 dominions were simultaneously arrested. Monks were appointed to preach
@@ -389,7 +389,7 @@ to make them hold fast their faith and idolatry; of cooking and roasting
 infants, and anointing their idols with the fat; of celebrating hidden
 rites and mysteries, to which young and tender virgins were introduced,
 and of a variety of abominations too absurd and horrible to be
-named. <span id="fr_335"></span>[\*](#fn_335) Guillaume Paradin, in his
+named. <span id="fr_335"></span>[\*](#fn_335.md) Guillaume Paradin, in his
 history of Savoy, seriously repeats these monstrous accusations, and
 declares that the Templars had "un lieu creux ou cave en terre, fort
 obscur, en laquelle ils avoient un image en forme d’un homme, sur lequel
@@ -411,14 +411,14 @@ MOLAY
 A.D. 1307.</span>et ne cessoient de le jetter jusqu’a ce qu’il fu mort
 entre leurs mains: etant mort ils se rotissoient (chose execrable) et de
 la graisse ils en ognoient leur grand statue!" <span
-id="fr_336"></span>[\*](#fn_336) The character of the charges preferred
+id="fr_336"></span>[\*](#fn_336.md) The character of the charges preferred
 against the Templars proves that their enemies had no serious crimes to
 allege against the order. Their very virtues indeed were turned against
 them, for we are told that "*to conceal the iniquity of their lives*
 they made much almsgiving, constantly frequented church, comported
 themselves with edification, frequently partook of the holy sacrament,
 and manifested always much modesty and gentleness of deportment in the
-house, as well as in public." <span id="fr_337"></span>[†](#fn_337)
+house, as well as in public." <span id="fr_337"></span>[†](#fn_337.md)
 
 During twelve days of severe imprisonment, the Templars remained
 constant in the denial of the horrible crimes imputed to the fraternity.
@@ -450,18 +450,18 @@ from him by this description of torment, says to the commissary of
 police, before whom he was brought to be examined, "They held me so long
 before a fierce fire that the flesh was burnt off my heels, two pieces
 of bone came away, which I present to you." <span
-id="fr_338"></span>[\*](#fn_338) Another Templar, on publicly revoking
+id="fr_338"></span>[\*](#fn_338.md) Another Templar, on publicly revoking
 his confession, declared that four of his teeth were drawn out, and that
 he confessed himself guilty to save the remainder. <span
-id="fr_339"></span>[†](#fn_339) Others of the fraternity deposed to the
+id="fr_339"></span>[†](#fn_339.md) Others of the fraternity deposed to the
 infliction on them of the most revolting and indecent torments; <span
-id="fr_340"></span>[‡](#fn_340) and, in addition to all this, it appears
+id="fr_340"></span>[‡](#fn_340.md) and, in addition to all this, it appears
 that forged letters from the Grand Master were shown to the prisoners,
 exhorting them to confess themselves guilty. Many of the Templars were
 accordingly compelled to acknowledge whatever was required of them, and
 to plead guilty to the commission of crimes which in the previous
 interrogatories they had positively denied. <span
-id="fr_341"></span>[§](#fn_341)
+id="fr_341"></span>[§](#fn_341.md)
 
 These violent proceedings excited the astonishment and amazement of
 Europe.
@@ -516,7 +516,7 @@ the crimes laid to their charge, or
 <span class="margnote">JAMES DE  
 MOLAY  
 A.D. 1307.</span>it shall happen to be otherwise ordered concerning them
-in these parts." <span id="fr_342"></span>[\*](#fn_342)
+in these parts." <span id="fr_342"></span>[\*](#fn_342.md)
 
 A few days after the transmission of this letter, king Edward wrote to
 the pope, expressing his disbelief of the horrible and detestable
@@ -527,7 +527,7 @@ affliction and distress suffered by the master and brethren, by reason
 of the scandal circulated concerning them; and he strongly urges the
 holy pontiff to clear, by some fair course of inquiry, the character of
 the order from the unjust and infamous aspersions cast against it. <span
-id="fr_343"></span>[†](#fn_343) On the 22nd of November, however, a
+id="fr_343"></span>[†](#fn_343.md) On the 22nd of November, however, a
 fortnight previously, the Pope had issued the following bull to king
 Edward.
 
@@ -574,7 +574,7 @@ into custody on the same day. He directs him to hold them, in the name
 of the pope, at the disposition of the Holy See, and to commit all their
 real and personal property to the hands of certain trustworthy persons,
 to be faithfully preserved until the holy pontiff shall give further
-directions concerning it. <span id="fr_344"></span>[\*](#fn_344) King
+directions concerning it. <span id="fr_344"></span>[\*](#fn_344.md) King
 Edward received this bull immediately after he had despatched his letter
 to the pope, exhorting his holiness not to give ear to the accusation
 against the order. The young king was now either convinced of the guilt
@@ -591,7 +591,7 @@ An order in council was made for the arrest of the Templars, and the
 seizure of their property. Inventories were directed to be taken of
 their goods and chattels, and provision was made for the sowing and
 tilling of their lands during the period of their imprisonment. <span
-id="fr_345"></span>[\*](#fn_345) This order in council was carried into
+id="fr_345"></span>[\*](#fn_345.md) This order in council was carried into
 effect in the following manner:
 
 On the 20th of December, the king's writs were directed to each of the
@@ -607,7 +607,7 @@ to be directed to him. And afterwards the king sent sworn clergymen with
 his writs, containing the said order in council to the sheriffs, who,
 before they opened them, were to take an oath that they would not
 disclose the contents of such writs until they proceeded to execute
-them. <span id="fr_346"></span>[†](#fn_346) The same orders, to be acted
+them. <span id="fr_346"></span>[†](#fn_346.md) The same orders, to be acted
 upon in a similar manner in Ireland, were sent to the justiciary of that
 country, and to the treasurer of the Exchequer at Dublin; also, to John
 de Richemund, guardian of Scotland; and to Walter de Pederton,
@@ -616,7 +616,7 @@ Wales; and to Robert de Holland, justiciary of Chester, who were
 strictly commanded to carry the orders into execution before the king's
 proceedings against the Templars in England were noised abroad. All the
 king's faithful subjects were commanded to aid and assist the officers
-in the fulfilment of their duty. <span id="fr_347"></span>[‡](#fn_347)
+in the fulfilment of their duty. <span id="fr_347"></span>[‡](#fn_347.md)
 
 <span id="page_210">p. 210</span>
 
@@ -627,13 +627,13 @@ informing his holiness that he would carry his commands into execution
 in the best and speediest way that he could; and on the 8th of January,
 A.D. 1308, the Templars were suddenly arrested in all parts of England,
 and their property was seized into the king's hands. <span
-id="fr_348"></span>[\*](#fn_348) Brother William de la More was at this
+id="fr_348"></span>[\*](#fn_348.md) Brother William de la More was at this
 period Master of the Temple, or Preceptor of England. He succeeded the
 Master Brian le Jay, who was slain, as before mentioned, in the battle
 of Falkirk, and was taken prisoner, together with all his brethren of
 the Temple at London, and committed to close custody in Canterbury
 Castle. He was afterwards liberated on bail at the instance of the
-bishop of Durham. <span id="fr_349"></span>[†](#fn_349)
+bishop of Durham. <span id="fr_349"></span>[†](#fn_349.md)
 
 On the 12th of August, the Pope addressed the bull *faciens
 misericordiam* to the English bishops as follows:--"Clement, bishop,
@@ -672,7 +672,7 @@ account of the various confessions made in France, and of the absolution
 granted to such of the Templars as were truly contrite and penitent; he
 expresses his conviction of the guilt of the order, and makes provision
 for the trial of the fraternity in England. <span
-id="fr_350"></span>[\*](#fn_350) King Edward, in the mean time, had
+id="fr_350"></span>[\*](#fn_350.md) King Edward, in the mean time, had
 begun to make free with their property, and the Pope, on the 4th of
 October, wrote to him to the following effect:
 
@@ -694,7 +694,7 @@ possession of the same conjointly with certain prelates specially
 MOLAY  
 A.D. 1308.</span>deputed to that end, and to make an inquisition
 concerning the execrable excesses which the members of the order are
-said to have committed." <span id="fr_351"></span>[\*](#fn_351)
+said to have committed." <span id="fr_351"></span>[\*](#fn_351.md)
 
 To this letter of the supreme pontiff, king Edward sent the following
 short and pithy reply:
@@ -702,18 +702,18 @@ short and pithy reply:
 "As to the goods of the Templars, we have done nothing with them up to
 the present time, nor do we intend to do with them aught but what we
 have a right to do, and what we know will be acceptable to the Most
-High." <span id="fr_352"></span>[†](#fn_352)
+High." <span id="fr_352"></span>[†](#fn_352.md)
 
 On the 13th of September, A.D. 1309, the king granted letters of safe
 conduct "to those discreet men, the abbot of Lagny, in the diocese of
 Paris, and Master Sicard de Vaur, canon of Narbonne," the inquisitors
 appointed by the Pope to examine the Grand Preceptor and brethren of the
-Temple in England; <span id="fr_353"></span>[‡](#fn_353) and the same
+Temple in England; <span id="fr_353"></span>[‡](#fn_353.md) and the same
 day be wrote to the archbishop of Canterbury, and the bishops of London
 and Lincoln, enjoining them to be personally present with the papal
 inquisitors, at their respective sees, as often as such inquisitors, or
 any one of them, should proceed with their inquiries against the
-Templars. <span id="fr_354"></span>[§](#fn_354)
+Templars. <span id="fr_354"></span>[§](#fn_354.md)
 
 On the 14th of September writs were sent, in pursuance of an order in
 council, to the sheriffs of Kent and seventeen other counties,
@@ -723,7 +723,7 @@ sheriffs of Northumberland and eight other counties, enjoining them to
 convey their prisoners to York Castle; and to the sheriffs of Warwick
 and seven other counties, requiring them, in like manner, to conduct
 their prisoners to the Castle of Lincoln. <span
-id="fr_355"></span>[¦¦](#fn_355) Writs were also sent to John de
+id="fr_355"></span>[¦¦](#fn_355.md) Writs were also sent to John de
 Cumberland, constable of the Tower, and to the constables of
 
 <span id="page_213">p. 213</span>
@@ -732,7 +732,7 @@ Cumberland, constable of the Tower, and to the constables of
 MOLAY  
 A.D. 1309.</span>the castles of York and Lincoln, commanding them to
 receive the Templars, to keep them in safe custody, and hold them at the
-disposition of the inquisitors. <span id="fr_356"></span>[\*](#fn_356)
+disposition of the inquisitors. <span id="fr_356"></span>[\*](#fn_356.md)
 The total number of Templars in custody was two hundred and twenty-nine.
 Many, however, were still at large, having successfully evaded capture
 by obliterating all marks of their previous profession, and some had
@@ -745,7 +745,7 @@ last in defence of Palestine, had escaped the slaughter at Acre, and had
 accompanied the Grand Master from Cyprus to France, from whence he
 crossed over to England, and was rewarded for his meritorious and
 memorable services, in defence of the christian faith, with a dungeon in
-the Tower. <span id="fr_357"></span>[†](#fn_357) Brother *Radulph de
+the Tower. <span id="fr_357"></span>[†](#fn_357.md) Brother *Radulph de
 Barton*, priest of the order of the Temple, custos or guardian of the
 Temple church, and prior of London; Brother *Michael de Baskeville*,
 Knight, Preceptor of London; Brother *John de Stoke*, Knight, Treasurer
@@ -757,7 +757,7 @@ in Somersetshire, of Schepeley in Surrey, of Samford and Bistelesham in
 Oxfordshire, of Garwy in Herefordshire, of Cressing in Essex, of
 Pafflet, Hippleden, and other preceptories, together with several
 priests and chaplains of the order. <span
-id="fr_358"></span>[‡](#fn_358) A general scramble appears to have taken
+id="fr_358"></span>[‡](#fn_358.md) A general scramble appears to have taken
 place for possession of
 
 <span id="page_214">p. 214</span>
@@ -770,7 +770,7 @@ Goldyngham and John de Medefeld to inquire into the value of the
 property that had been carried off, and to inform him of the names of
 the parties who had obtained possession of it. The sheriffs of the
 different counties were also directed to summon juries, through whom the
-truth might be better obtained. <span id="fr_359"></span>[\*](#fn_359)
+truth might be better obtained. <span id="fr_359"></span>[\*](#fn_359.md)
 
 On the 22nd of September, the archbishop of Canterbury transmitted
 letters apostolic to all his suffragans, enclosing copies of the bull
@@ -778,7 +778,7 @@ letters apostolic to all his suffragans, enclosing copies of the bull
 exhibited against the Templars, which they are directed to copy and
 deliver again, under their seals, to the bearer, taking especial care
 not to reveal the contents thereof. <span
-id="fr_360"></span>[†](#fn_360) At the same time the archbishop, acting
+id="fr_360"></span>[†](#fn_360.md) At the same time the archbishop, acting
 in obedience to the papal commands, before a single witness had been
 examined in England, caused to be published in all churches and chapels
 a papal bull, wherein the Pope declares himself perfectly convinced of
@@ -789,7 +789,7 @@ either publicly or privately, assistance, counsel, or kindness to the
 Templars, or should dare to shelter them, or give them countenance or
 protection, and also laying under interdict all cities, castles, lands,
 and places, which should harbour any of the members of the proscribed
-order. <span id="fr_361"></span>[‡](#fn_361) At the commencement of the
+order. <span id="fr_361"></span>[‡](#fn_361.md) At the commencement of the
 month of October, the inquisitors arrived in England, and immediately
 published the bull appointing the commission, enjoining the citation of
 the criminals, and of witnesses, and denouncing the
@@ -987,7 +987,7 @@ A.D. 1309.</span>"63. That they did these things out of devotion.
 
 "66. That those who refused the things above mentioned at their
 reception, or to observe them afterwards, were killed or cast into
-prison." <span id="fr_362"></span>[\*](#fn_362)
+prison." <span id="fr_362"></span>[\*](#fn_362.md)
 
 .       .       .       .       .       .       .       .       .
 
@@ -1151,7 +1151,7 @@ record of the proceedings:--
 "Memorandum. Brothers Philip de Mewes, Thomas de Burton, and Thomas de
 Staundon, were advised and earnestly exhorted to abandon their religious
 profession, who severally replied that *they would rather die* than do
-so." <span id="fr_363"></span>[\*](#fn_363)
+so." <span id="fr_363"></span>[\*](#fn_363.md)
 
 On the 19th and 20th of November, seven lay witnesses, unconnected
 
@@ -1216,7 +1216,7 @@ clothed with mourning. He concludes by decreeing the assembly of a
 general council of the church at Vienne to pronounce the abolition of
 the order, and to determine on the disposal of its property, to which
 council the English clergy are required to send representatives. <span
-id="fr_364"></span>[\*](#fn_364)
+id="fr_364"></span>[\*](#fn_364.md)
 
 After the reading of the bulls and the closing of the preliminary
 proceedings, the council occupied themselves for six days with
@@ -1246,19 +1246,19 @@ they might proceed against the Templars according to the ecclesiastical
 constitutions, and that he would instruct his sheriffs and officers to
 that effect. The king gave a written answer complying with their
 request, which was read before the council, <span
-id="fr_365"></span>[\*](#fn_365) and, on the 16th of December, orders
+id="fr_365"></span>[\*](#fn_365.md) and, on the 16th of December, orders
 were sent to the gaolers, commanding them to permit the prelates and
 inquisitors to do with the bodies of the Templars that which should seem
 expedient to them according to ecclesiastical law. Many Templars were at
 this period wandering about the country disguised as secular persons,
 successfully evading pursuit, and the sheriffs were strictly commanded
 to use every exertion to capture them. <span
-id="fr_366"></span>[†](#fn_366) On Wednesday, the ecclesiastical council
+id="fr_366"></span>[†](#fn_366.md) On Wednesday, the ecclesiastical council
 again met, and adjourned for the purpose of enabling the inquisitors to
 examine the prisoners confined in the castles of Lincoln and of York.
 
 In Scotland, in the mean time, similar proceedings had been instituted
-against the order. <span id="fr_367"></span>[‡](#fn_367) On the 17th of
+against the order. <span id="fr_367"></span>[‡](#fn_367.md) On the 17th of
 November, Brother Walter de Clifton being examined in the parish church
 of the Holy Cross at Edinburgh, before the bishop of St. Andrews and
 John de Solerio, the pope's chaplain, states that the brethren
@@ -1362,7 +1362,7 @@ more. The serving men and the tillers of the lands of the order stated
 that the chapters were held sometimes by night and sometimes by day,
 with extraordinary secrecy; and some of the witnesses had heard old men
 say that the Templars would *never have lost the Holy Land, if they had
-been good Christians!* <span id="fr_368"></span>[\*](#fn_368)
+been good Christians!* <span id="fr_368"></span>[\*](#fn_368.md)
 
 <span id="page_230">p. 230</span>
 
@@ -1377,7 +1377,7 @@ priests performed divine service there just the same as elsewhere.
 William de Cumbrook, of St. Clement's church, near the Temple, the vicar
 of St. Martin's-in-the-Fields, and many other priests and clergymen of
 different churches in London, all declared that they had nothing to
-allege against the order. <span id="fr_369"></span>[\*](#fn_369)
+allege against the order. <span id="fr_369"></span>[\*](#fn_369.md)
 
 On the 27th of January, Brother John de Stoke, a serving brother of the
 order of the Temple, of seventeen years' standing, being examined by the
@@ -1484,7 +1484,7 @@ of the order in England, and had held chapters or assemblies of the
 brethren, at which he had enforced certain rules and regulations; that
 all the orders came from the Grand Master and chief convent in the East
 to the Grand Preceptor of England, who caused them to be published at
-the different preceptories. <span id="fr_370"></span>[\*](#fn_370)
+the different preceptories. <span id="fr_370"></span>[\*](#fn_370.md)
 
 On the 1st of March, the king sent orders to the constable of the Tower,
 and to the sheriffs of Lincoln and of York, to obey the directions of
@@ -1492,7 +1492,7 @@ the inquisitors, or of one bishop and of one inquisitor, with regard to
 the confinement of the Templars in separate cells, and he assigns
 William de Diene to assist the inquisitors in their arrangements.
 Similar orders were shortly afterwards sent to all the gaolers of the
-Templars in the English dominions. <span id="fr_371"></span>[†](#fn_371)
+Templars in the English dominions. <span id="fr_371"></span>[†](#fn_371.md)
 
 On the 3rd of March five fresh interrogatories were exhibited by the
 inquisitors, upon which thirty-one Templars were examined at the palace
@@ -1527,7 +1527,7 @@ and the gravest charges brought by them against the fraternity appear to
 be, that the Templars had been observed to be inattentive to the reading
 of the holy Gospels at church, and to have cast their eyes on the ground
 at the period of the elevation of the host. <span
-id="fr_372"></span>[\*](#fn_372)
+id="fr_372"></span>[\*](#fn_372.md)
 
 On the 30th of March the papal inquisitors opened their commission at
 Lincoln, and between that day and the 10th of April twenty Templars were
@@ -1553,7 +1553,7 @@ at that place, and were worn in remembrance of the blessed Mary; but he
 says that the brethren were not compelled to wear them, but might make
 use of any girdle that they liked. With regard to the confessions made
 in France, they all say that if their brethren in that country confessed
-such things, *they lied!* <span id="fr_373"></span>[\*](#fn_373)
+such things, *they lied!* <span id="fr_373"></span>[\*](#fn_373.md)
 
 At York the examination commenced on the 28th of April, and lasted until
 the 4th of May, during which period twenty-three Templars, prisoners in
@@ -1567,7 +1567,7 @@ Brother William de Canello, the Grand Preceptor of Sicily. Brother
 Stephen de Radenhall refused to reveal the mode of reception, because it
 formed part of the secrets of the chapter, and if he discovered them he
 would lose his chamber, be stripped of his mantle, or be committed to
-prison. <span id="fr_374"></span>[†](#fn_374)
+prison. <span id="fr_374"></span>[†](#fn_374.md)
 
 On the 20th of May, in obedience to the mandate of the archbishop of
 York, an ecclesiastical council of the bishops and clergy assembled in
@@ -1580,13 +1580,13 @@ MOLAY
 A.D. 1310.</span>solemnly celebrated, after which the archbishop
 preached a sermon, and then caused to be read to the assembled clergy
 the papal bulls fulminated against the order of the Temple. <span
-id="fr_375"></span>[\*](#fn_375) He exhibited to them the articles upon
+id="fr_375"></span>[\*](#fn_375.md) He exhibited to them the articles upon
 which the Templars had been directed to be examined; but as the inquiry
 was still pending, the council was adjourned until the 23rd of June of
 the following year, when they were to meet to pass sentence of
 condemnation, or of absolution, against all the members of the order in
 the province of York, in conformity with ecclesiastical law. <span
-id="fr_376"></span>[†](#fn_376)
+id="fr_376"></span>[†](#fn_376.md)
 
 On the 1st of June the examination was resumed before the papal
 inquisitors at Lincoln. Sixteen Templars were examined upon points
@@ -1600,7 +1600,7 @@ priest of the order, according to the particular circumstances of each
 case. It appears, also, that none but preceptors were present at the
 general chapters of the order, which were called together principally
 for the purpose of obtaining money to send to the Grand Master and the
-chief convent in Palestine. <span id="fr_377"></span>[‡](#fn_377)
+chief convent in Palestine. <span id="fr_377"></span>[‡](#fn_377.md)
 
 After closing the examinations at Lincoln, the abbot of Lagny
 
@@ -1654,43 +1654,43 @@ showing that, from the apostolical letters, and the depositions and
 attestations of the witnesses, it was to be collected that certain
 practices had crept into the order of the Temple, which were not
 consistent with the orthodox faith. <span
-id="fr_378"></span>[\*](#fn_378)
+id="fr_378"></span>[\*](#fn_378.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_320"></span>[194:\*](hkt11.htm#fr_320) *Raynald*, tom. xiv.
+<span id="fn_320"></span>[194:\*](hkt11.htm#fr_320.md) *Raynald*, tom. xiv.
 ad ann. 1298. Cotton MS. Nero E. vi. p. 60. fol. 466.
 
-<span id="fn_321"></span>[194:†](hkt11.htm#fr_321) *Marin Santa
+<span id="fn_321"></span>[194:†](hkt11.htm#fr_321.md) *Marin Santa
 Torsell*. lib. iii. pars. 13, cap. x. p. 242. *De Guignes*, Hist. des
 Huns, tom. iv. p. 184.
 
-<span id="fn_322"></span>[195:\*](hkt11.htm#fr_322) Acta *Rymeri*, tom.
+<span id="fn_322"></span>[195:\*](hkt11.htm#fr_322.md) Acta *Rymeri*, tom.
 i. p. 575, 576-579, 582, tom. ii. p. 250. *Martene*, vet. script. tom.
 vii. col. 156.
 
-<span id="fn_323"></span>[196:\*](hkt11.htm#fr_323) Acta *Rymeri*, tom.
+<span id="fn_323"></span>[196:\*](hkt11.htm#fr_323.md) Acta *Rymeri*, tom.
 ii. p. 683. ad ann. 1295.
 
-<span id="fn_324"></span>[196:†](hkt11.htm#fr_324) Chron. *Dunmow*.
+<span id="fn_324"></span>[196:†](hkt11.htm#fr_324.md) Chron. *Dunmow*.
 Annals of *St. Augustin*. *Rapin*.
 
-<span id="fn_325"></span>[196:‡](hkt11.htm#fr_325) Ipse vero Rex et
+<span id="fn_325"></span>[196:‡](hkt11.htm#fr_325.md) Ipse vero Rex et
 Petrus thesaurum ipsius episcopi, apud Novum Templum Londoniis
 reconditum, ceperunt, ad summam quinquaginta millia librarum argenti,
 præter aurum multum, jocalia et lapides preciosos. . . . Erant enim ambo
 præsentes, cum cistæ frangerentur, et adhuc non erat sepultum corpus
 patris sui--*Hemingford*, p. 244.
 
-<span id="fn_326"></span>[197:\*](hkt11.htm#fr_326) Chron. *Triveti*, ad
+<span id="fn_326"></span>[197:\*](hkt11.htm#fr_326.md) Chron. *Triveti*, ad
 ann. 1298. *Hemingford*, vol. i. p. 159.
 
-<span id="fn_327"></span>[197:†](hkt11.htm#fr_327) *Dante* styles him
+<span id="fn_327"></span>[197:†](hkt11.htm#fr_327.md) *Dante* styles him
 *il mal di Francia*, Del. Purgat. cant. 20, 91.
 
-<span id="fn_328"></span>[198:\*](hkt11.htm#fr_328) Questo Papa fue
+<span id="fn_328"></span>[198:\*](hkt11.htm#fr_328.md) Questo Papa fue
 huomo molto cupido di moneta, e fue lusurioso, si dices the tenea per
 amica la contessa di Paragordo, bellissima donna!! *Villani*, lib. ix.
 cap. 58. Fuit nimis cupiditatibus deditus. . . Sanct. Ant. Flor. de
@@ -1698,108 +1698,108 @@ Concil. Vien. tit. 21. sec. 3. Circa thesauros colligendos insudavit,
 says *Knighton* apud X script. col. 2494. *Fleuri*, l. 92. p. 239.
 *Chron. de Namgis*, ad ann. 1305.
 
-<span id="fn_329"></span>[198:†](hkt11.htm#fr_329) *Rainald*. tom. xv.
+<span id="fn_329"></span>[198:†](hkt11.htm#fr_329.md) *Rainald*. tom. xv.
 ad ann. 1306, n. 12. *Fleuri*, Hist. Eccles. tom. xix. p. 111.
 
-<span id="fn_330"></span>[199:\*](hkt11.htm#fr_330) *Bal. Pap. Aven*,
+<span id="fn_330"></span>[199:\*](hkt11.htm#fr_330.md) *Bal. Pap. Aven*,
 tom. ii. p. 176.
 
-<span id="fn_331"></span>[200:\*](hkt11.htm#fr_331) *Bal. Pap. Aven*.
+<span id="fn_331"></span>[200:\*](hkt11.htm#fr_331.md) *Bal. Pap. Aven*.
 tom. i. p. 99. Sexta Vita, Clem. V. apud *Baluz*, tom. i. col. 100.
 
-<span id="fn_332"></span>[202:\*](hkt11.htm#fr_332) Hist. de la
+<span id="fn_332"></span>[202:\*](hkt11.htm#fr_332.md) Hist. de la
 Condemnation des Templiers.--*Dupuy*, tom. ii. p. 309.
 
-<span id="fn_333"></span>[202:†](hkt11.htm#fr_333) Mariana Hispan.
+<span id="fn_333"></span>[202:†](hkt11.htm#fr_333.md) Mariana Hispan.
 Illustr. tom. iii. p. 152. *Le Gendre* Hist. de France, tom. ii. p. 499.
 
-<span id="fn_334"></span>[202:‡](hkt11.htm#fr_334) Acta *Rymeri*, tom.
+<span id="fn_334"></span>[202:‡](hkt11.htm#fr_334.md) Acta *Rymeri*, tom.
 iii. p. 18. ad ann. 1307.
 
-<span id="fn_335"></span>[203:\*](hkt11.htm#fr_335) Les forfaits
+<span id="fn_335"></span>[203:\*](hkt11.htm#fr_335.md) Les forfaits
 pourquoi les Templiers furent ars et condamnez, pris et contre eux
 approuvez. *Chron. S. Denis*. Sexta vita, Clem. V. *Dupuy*, p. 24.
 edition de 1713.
 
-<span id="fn_336"></span>[204:\*](hkt11.htm#fr_336) Liv. ii. chap. 106,
+<span id="fn_336"></span>[204:\*](hkt11.htm#fr_336.md) Liv. ii. chap. 106,
 chez *Dupuy*.
 
-<span id="fn_337"></span>[204:†](hkt11.htm#fr_337) Sexta vita, Clem. V.
+<span id="fn_337"></span>[204:†](hkt11.htm#fr_337.md) Sexta vita, Clem. V.
 col. 102.
 
-<span id="fn_338"></span>[205:\*](hkt11.htm#fr_338) Ostendens duo ossa
+<span id="fn_338"></span>[205:\*](hkt11.htm#fr_338.md) Ostendens duo ossa
 quod dicebat ilia esse quæ ceciderunt de hills suis. *Processus contra
 Templarios*. *Raynouard* Monumens Historiques, p. 73, ed. 1813.
 
-<span id="fn_339"></span>[205:†](hkt11.htm#fr_339) In quibus tormentis
+<span id="fn_339"></span>[205:†](hkt11.htm#fr_339.md) In quibus tormentis
 dicebat se quatuor dentes perdidisse. Ib. p. 35.
 
-<span id="fn_340"></span>[205:‡](hkt11.htm#fr_340) Fuit quæstionibus
+<span id="fn_340"></span>[205:‡](hkt11.htm#fr_340.md) Fuit quæstionibus
 ponderibus appensis in genitalibus, et in alibi membris usque ad
 exanimationem. Ib.
 
-<span id="fn_341"></span>[205:§](hkt11.htm#fr_341) Tres des Chart.
+<span id="fn_341"></span>[205:§](hkt11.htm#fr_341.md) Tres des Chart.
 TEMPLIERS, cart. 3, *n*. 20.
 
-<span id="fn_342"></span>[207:\*](hkt11.htm#fr_342) Dat. apud Redyng, 4
+<span id="fn_342"></span>[207:\*](hkt11.htm#fr_342.md) Dat. apud Redyng, 4
 die Decembris. Consimiles litteræ diriguntur Ferando regi Castillæ et
 Ligionia, consanguineo regis, domino Karolo, regi Siciliæ, et Jacobo
 regi Aragoniæ, amico Regis. Acta *Rymeri*, tom. iii. ad ann. 1307,p. 35,
 36.
 
-<span id="fn_343"></span>[207:†](hkt11.htm#fr_343) Acta *Rymeri*, tom.
+<span id="fn_343"></span>[207:†](hkt11.htm#fr_343.md) Acta *Rymeri*, tom.
 iii. p. 37, ad ann. 1307.
 
-<span id="fn_344"></span>[208:\*](hkt11.htm#fr_344) Dat. Pictavis 10,
+<span id="fn_344"></span>[208:\*](hkt11.htm#fr_344.md) Dat. Pictavis 10,
 kal. Dec. Acta *Rymeri*, tom. iii. ad ann. 1307, p. 30-32.
 
-<span id="fn_345"></span>[209:\*](hkt11.htm#fr_345) Acta *Rymeri*, tom.
+<span id="fn_345"></span>[209:\*](hkt11.htm#fr_345.md) Acta *Rymeri*, tom.
 iii. p. 34, 35, ad ann. 1307.
 
-<span id="fn_346"></span>[209:†](hkt11.htm#fr_346) Ibid. p. 34, 35.
+<span id="fn_346"></span>[209:†](hkt11.htm#fr_346.md) Ibid. p. 34, 35.
 
-<span id="fn_347"></span>[209:‡](hkt11.htm#fr_347) Ibid. p. 4.5.
+<span id="fn_347"></span>[209:‡](hkt11.htm#fr_347.md) Ibid. p. 4.5.
 
-<span id="fn_348"></span>[210:\*](hkt11.htm#fr_348) *Knyghton*, apud X.
+<span id="fn_348"></span>[210:\*](hkt11.htm#fr_348.md) *Knyghton*, apud X.
 script. col. 2494, 2531.
 
-<span id="fn_349"></span>[210:†](hkt11.htm#fr_349) Acta *Rymeri*, tom.
+<span id="fn_349"></span>[210:†](hkt11.htm#fr_349.md) Acta *Rymeri*, tom.
 iii. p. 83.
 
-<span id="fn_350"></span>[211:\*](hkt11.htm#fr_350) Acta *Rymeri*, tom.
+<span id="fn_350"></span>[211:\*](hkt11.htm#fr_350.md) Acta *Rymeri*, tom.
 iii. p. 101, 2, 3.
 
-<span id="fn_351"></span>[212:\*](hkt11.htm#fr_351) *Acta Rymeri*, tom.
+<span id="fn_351"></span>[212:\*](hkt11.htm#fr_351.md) *Acta Rymeri*, tom.
 iii. p. 110, 111. *Vitæ paparum Avenion*, tom. ii. p. 107.
 
-<span id="fn_352"></span>[212:†](hkt11.htm#fr_352) Ibid., tom. iii. p.
+<span id="fn_352"></span>[212:†](hkt11.htm#fr_352.md) Ibid., tom. iii. p.
 121, 122.
 
-<span id="fn_353"></span>[212:‡](hkt11.htm#fr_353) Ibid. p. 168.
+<span id="fn_353"></span>[212:‡](hkt11.htm#fr_353.md) Ibid. p. 168.
 
-<span id="fn_354"></span>[212:§](hkt11.htm#fr_354) Ibid. p. 168, 169.
+<span id="fn_354"></span>[212:§](hkt11.htm#fr_354.md) Ibid. p. 168, 169.
 
-<span id="fn_355"></span>[212:¦¦](hkt11.htm#fr_355) Ibid. p. 174.
+<span id="fn_355"></span>[212:¦¦](hkt11.htm#fr_355.md) Ibid. p. 174.
 
-<span id="fn_356"></span>[213:\*](hkt11.htm#fr_356) Acta *Rymeri*, tom.
+<span id="fn_356"></span>[213:\*](hkt11.htm#fr_356.md) Acta *Rymeri*, tom.
 iii. p. 173, 175.
 
-<span id="fn_357"></span>[213:†](hkt11.htm#fr_357) *Rainald*, tom. xv.
+<span id="fn_357"></span>[213:†](hkt11.htm#fr_357.md) *Rainald*, tom. xv.
 ad ann. 1306.
 
-<span id="fn_358"></span>[213:‡](hkt11.htm#fr_358) *Concil. Mag. Brit.*
+<span id="fn_358"></span>[213:‡](hkt11.htm#fr_358.md) *Concil. Mag. Brit.*
 tom. ii. p. 346, 347.
 
-<span id="fn_359"></span>[214:\*](hkt11.htm#fr_359) Acta *Rymeri*, tom.
+<span id="fn_359"></span>[214:\*](hkt11.htm#fr_359.md) Acta *Rymeri*, tom.
 iii. p. 178, 179.
 
-<span id="fn_360"></span>[214:†](hkt11.htm#fr_360) *Concil. Mag. Brit.*
+<span id="fn_360"></span>[214:†](hkt11.htm#fr_360.md) *Concil. Mag. Brit.*
 tom. ii. p. 304-311.
 
-<span id="fn_361"></span>[214:‡](hkt11.htm#fr_361) *Processus contra
+<span id="fn_361"></span>[214:‡](hkt11.htm#fr_361.md) *Processus contra
 Templarios*, *Dugd*. Monast. Angl. vol. vi. part 2, p. 844-846 ed. 1830.
 
-<span id="fn_362"></span>[219:\*](hkt11.htm#fr_362) The original draft
+<span id="fn_362"></span>[219:\*](hkt11.htm#fr_362.md) The original draft
 of these articles of accusation, with the corrections and alterations,
 is preserved in the Tresor des Chartres *Raynouard*, Monumens
 Historiques, p. 50, 51. The proceedings against the Templars in England
@@ -1810,22 +1810,22 @@ has been published by *Wilkins* in the Concilia Magnæ Britanniæ, tom.
 ii. p. 329-401, and by *Dugdale*, in the Monast. Angl. vol. vi. part 2.
 p. 844-848.
 
-<span id="fn_363"></span>[223:\*](hkt11.htm#fr_363) Actum in Capella
+<span id="fn_363"></span>[223:\*](hkt11.htm#fr_363.md) Actum in Capella
 infirmariæ prioratus Sanctæ Trinitatis præsentibus, etc. Concilia Magnæ
 Britanniæ, tom. iii. p. 344. Ibid. p. 334-343.
 
-<span id="fn_364"></span>[225:\*](hkt11.htm#fr_364) *Concil. Mag.
+<span id="fn_364"></span>[225:\*](hkt11.htm#fr_364.md) *Concil. Mag.
 Brit.*, tom. ii. p. 305-308.
 
-<span id="fn_365"></span>[226:\*](hkt11.htm#fr_365) *Concil. Mag.
+<span id="fn_365"></span>[226:\*](hkt11.htm#fr_365.md) *Concil. Mag.
 Brit.*, tom. ii. p. 312-314.
 
-<span id="fn_366"></span>[226:†](hkt11.htm#fr_366) Acta *Rymeri*, tom.
+<span id="fn_366"></span>[226:†](hkt11.htm#fr_366.md) Acta *Rymeri*, tom.
 iii. p. 194, 195.
 
-<span id="fn_367"></span>[226:‡](hkt11.htm#fr_367) Ibid., p. 182.
+<span id="fn_367"></span>[226:‡](hkt11.htm#fr_367.md) Ibid., p. 182.
 
-<span id="fn_368"></span>[229:\*](hkt11.htm#fr_368) Et ad evidentius
+<span id="fn_368"></span>[229:\*](hkt11.htm#fr_368.md) Et ad evidentius
 præmissorum testimonium reverendus in Christo pater dominus Willielmus,
 providentiâ divinâ S. Andrew episcopus, et magister Johannes de Solerio
 prædicti sigilla sua præsenti inquisition appenderunt, et eisdem
@@ -1837,48 +1837,48 @@ supra dictis, signum meum solitum eidem apposui requisitus, et propriâ
 manu scripsi rogatus.--*Acta contra Templarios*. *Concil. Mag. Brit.*,
 tom. ii. p. 380, 383.
 
-<span id="fn_369"></span>[230:\*](hkt11.htm#fr_369) Act. in ecclesiâ
+<span id="fn_369"></span>[230:\*](hkt11.htm#fr_369.md) Act. in ecclesiâ
 parochiali S. Dunstani prope Novum Templum.--Ib., p. 349.
 
-<span id="fn_370"></span>[233:\*](hkt11.htm#fr_370) *Acta contra
+<span id="fn_370"></span>[233:\*](hkt11.htm#fr_370.md) *Acta contra
 Templarios*. *Concil. Mag. Brit.*, tom, ii. p. 350, 351, 352.
 
-<span id="fn_371"></span>[233:†](hkt11.htm#fr_371) Acta *Rymeri*, tom.
+<span id="fn_371"></span>[233:†](hkt11.htm#fr_371.md) Acta *Rymeri*, tom.
 iii. ad ann. 1310. p. 202, 203.
 
-<span id="fn_372"></span>[234:\*](hkt11.htm#fr_372) Acta *Rymeri*, tom.
+<span id="fn_372"></span>[234:\*](hkt11.htm#fr_372.md) Acta *Rymeri*, tom.
 iii. p. 179, 180. *Concil. Mag. Brit.*, tom. ii. p. 373 to 380.
 
-<span id="fn_373"></span>[235:\*](hkt11.htm#fr_373) Terrore tormentorum
+<span id="fn_373"></span>[235:\*](hkt11.htm#fr_373.md) Terrore tormentorum
 confessi sunt et *mentiti*.--*Concil. Mag. Brit.*, tom. ii. p. 365, 366,
 367.
 
-<span id="fn_374"></span>[235:†](hkt11.htm#fr_374) Depositiones
+<span id="fn_374"></span>[235:†](hkt11.htm#fr_374.md) Depositiones
 Templariorum in Provinciâ Eboracenai.--*Concil. Mag. Brit.*, tom. ii. p.
 371-373.
 
-<span id="fn_375"></span>[236:\*](hkt11.htm#fr_375) Eodem anno (1310)
+<span id="fn_375"></span>[236:\*](hkt11.htm#fr_375) Eodem anno (1310.md)
 XIX. die Maii apud Eborum in ecclesiâ cathedrali, ex mandato speciali
 Domini Papæ, tenuit dominos Archiepiscopus concilium provinciale.
 Prædicavitque et erat suum thema; *omnes isti congregati venerunt tibi*,
 factoque sermone, recitavit et legi fecit *sequentem bullam horribilem
 contra Templarios*, &c. &c. *Hemingford* apud *Hearne*, vol. i. p. 249.
 
-<span id="fn_376"></span>[236:†](hkt11.htm#fr_376) Processus observatus
+<span id="fn_376"></span>[236:†](hkt11.htm#fr_376.md) Processus observatus
 in concilio provincials Eboracensi in ecclesiâ beati Petri Ebor. contra
 Templarios celebrato A.D. 1310, ex. reg. Will. Grenefeld Archiepiscopi
 Eborum, fol. 179, p. 1.--*Concil. Mag. Brit.*, tom. ii. p. 393.
 
-<span id="fn_377"></span>[236:‡](hkt11.htm#fr_377) *Concil. Mag. Brit.*,
+<span id="fn_377"></span>[236:‡](hkt11.htm#fr_377.md) *Concil. Mag. Brit.*,
 tom. ii. p. 367.
 
-<span id="fn_378"></span>[238:\*](hkt11.htm#fr_378) *Acta contra
+<span id="fn_378"></span>[238:\*](hkt11.htm#fr_378.md) *Acta contra
 Templarios*. *Concil. Mag. Brit.*, tom. ii. p. 358.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](hkt12)
+[Next: Chapter X](hkt12.md)
 
 </div>

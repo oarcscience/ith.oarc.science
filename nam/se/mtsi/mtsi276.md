@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi275)  [Next](mtsi277) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi275)  [Next](mtsi277.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ floods and prevent rainy weather. You can be honored that way." Then the
 Water asked that human beings be made his children, but the old man
 said, "No, the people of the world can't be your children. All you can
 do is to wash them clean. When they get dirty you can wash them. So you
-can be named Long-person." <span id="fr_77"></span>[1](#fn_76) Then the
+can be named Long-person." <span id="fr_77"></span>[1](#fn_76.md) Then the
 old man said, "I have told you all how to guide yourselves and what to
 do. You all must remember that these children are my children."
 
@@ -38,9 +38,9 @@ do. You all must remember that these children are my children."
 
 ### Footnotes
 
-<span id="fn_76"></span>[240:1](mtsi276.htm#fr_77) This name is thought
+<span id="fn_76"></span>[240:1](mtsi276.htm#fr_77.md) This name is thought
 to have been given because cleanliness prolongs life.
 
 ------------------------------------------------------------------------
 
-[Next: 12. Adoption of the Human Race (Second Version)](mtsi277)
+[Next: 12. Adoption of the Human Race (Second Version)](mtsi277.md)

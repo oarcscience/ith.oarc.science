@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](mtc05)  [Next](mtc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](mtc05)  [Next](mtc07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *More Translations from the Chinese*, by Arthur Waley, \[1919\], at
 Intangible Textual Heritage
 
@@ -27,6 +27,6 @@ A wind from the pine-trees trickles on my bare head.
 
 ------------------------------------------------------------------------
 
-[Next: Waking From Drunkenness on a Spring day](mtc07)
+[Next: Waking From Drunkenness on a Spring day](mtc07.md)
 
 </div>

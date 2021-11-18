@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](gcot02)  [Next](gcot04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](gcot02)  [Next](gcot04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0262580020/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,10 +52,10 @@ God.'—JOHN RUSKIN, *Unto This Last* (1862).
 The reader is asked to imagine an estate embracing an area of 6,000
 acres, which is at present purely agricultural, and has been obtained by
 purchase in the open market at a cost of £40 <span
-id="fr_1"></span>[1](#fn_1) an acre, or £240,000. The purchase money is
+id="fr_1"></span>[1](#fn_1.md) an acre, or £240,000. The purchase money is
 supposed to have been raised on mortgage debentures, bearing interest at
 an average rate not exceeding £4 per cent. <span
-id="fr_2"></span>[2](#fn_2) The estate is legally vested in the names of
+id="fr_2"></span>[2](#fn_2.md) The estate is legally vested in the names of
 four gentlemen of responsible position and of undoubted probity and
 honour, who hold it in trust, first, as a security for the
 debenture-holders, and, secondly, in
@@ -67,7 +67,7 @@ is intended to build thereon. One essential feature of the plan is that
 all ground rents, which are to be based upon the annual value of the
 land, shall be paid to the trustees, who, after providing for interest
 and sinking fund, will hand the balance to the Central Council of the
-new municipality, <span id="fr_3"></span>[1](#fn_3) to be employed by
+new municipality, <span id="fr_3"></span>[1](#fn_3.md) to be employed by
 such Council in the creation and maintenance of all necessary public
 works—roads, schools, parks, etc.
 
@@ -90,9 +90,9 @@ this on land owned by the municipality.
 Garden City, which is to be built near the centre of the 6,000 acres,
 covers an area of 1,000 acres, or a sixth part of the 6,000 acres, and
 might be of circular form, 1,240 yards (or nearly three-quarters of a
-mile) from centre to circumference. ([Diagram 2](#img_diag02) is a
+mile) from centre to circumference. ([Diagram 2](#img_diag02.md) is a
 ground plan of the whole municipal area, showing the town in the centre;
-and [Diagram 3](#img_diag03), which represents one section or ward of
+and [Diagram 3](#img_diag03.md), which represents one section or ward of
 the town, will be useful in following the description of the town
 itself—*a description which is, however, merely suggestive, and will
 probably be much departed from*.)
@@ -106,7 +106,7 @@ the centre is a circular space containing about
 <span id="img_diag02"></span>
 
 [![2. GARDEN CITY AND RURAL BELT](tn/diag02.jpg)  
-Click to enlarge](img/diag02.jpg)  
+Click to enlarge](img/diag02.jpg.md)  
 2. GARDEN CITY AND RURAL BELT  
 
 <span id="page_53">p. 53</span>
@@ -118,7 +118,7 @@ are the larger public buildings—town hall,
 <span id="img_diag03"></span>
 
 [![3. WARD AND CENTRE OF GARDEN CITY](tn/diag03.jpg)  
-Click to enlarge](img/diag03.jpg)  
+Click to enlarge](img/diag03.jpg.md)  
 3. WARD AND CENTRE OF GARDEN CITY  
 
 principal concert and lecture hall, theatre, library, museum,
@@ -170,7 +170,7 @@ Avenue'. This avenue is fully entitled to the name it
 
 <span id="page_55">p. 55</span>
 
-bears, for it is 420 feet wide, <span id="fr_4"></span>[1](#fn_4) and,
+bears, for it is 420 feet wide, <span id="fr_4"></span>[1](#fn_4.md) and,
 forming a belt of green upwards of three miles long, divides that part
 of the town which lies outside Central Park into two belts. It really
 constitutes an additional park of 115 acres—a park which is within 240
@@ -275,24 +275,24 @@ benefits of an experiment which is designed for humanity at large.
 
 ### Footnotes
 
-<span id="fn_1"></span>[50:1](gcot03.htm#fr_1) This was the average
+<span id="fn_1"></span>[50:1](gcot03.htm#fr_1.md) This was the average
 price paid for agricultural land in 1898; and, though this estimate may
 prove far more than sufficient, it is hardly likely to be much exceeded.
 
-<span id="fn_2"></span>[50:2](gcot03.htm#fr_2) The financial
+<span id="fn_2"></span>[50:2](gcot03.htm#fr_2.md) The financial
 arrangements described in this book are likely to be departed from in
 form, but not in essential principle. And until a definite scheme has
 been agreed upon, I think it better to repeat them precisely as they
 appeared in *To-morrow*, the original title of this book—the book which
 led to the formation of the Garden City Association.
 
-<span id="fn_3"></span>[51:1](gcot03.htm#fr_3) This word,
+<span id="fn_3"></span>[51:1](gcot03.htm#fr_3.md) This word,
 'municipality', is not used in a technical sense.
 
-<span id="fn_4"></span>[55:1](gcot03.htm#fr_4) Portland Place, London,
+<span id="fn_4"></span>[55:1](gcot03.htm#fr_4.md) Portland Place, London,
 is only 100 feet wide.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter Two. The Revenue of Garden City, and how it is
-obtained—The Agricultural Estate](gcot04)
+obtained—The Agricultural Estate](gcot04.md)

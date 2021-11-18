@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gpr05)  [Next](gpr07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gpr05)  [Next](gpr07.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Greek Popular Religion*, by Martin P. Nilsson, \[1940\], at Intangible
 Textual Heritage
 
@@ -49,8 +49,8 @@ The significance of agriculture in the popular festivals occurred even
 to the ancients. Aristotle says that in early times sacrifices and
 assemblies took place especially after the harvest had been gathered
 because people had most leisure at this time. <span
-id="fr_17"></span>[1](#fn_17) A late author, Maximus of Tyre, writes on
-this topic at greater length. <span id="fr_18"></span>[2](#fn_18) Only
+id="fr_17"></span>[1](#fn_17.md) A late author, Maximus of Tyre, writes on
+this topic at greater length. <span id="fr_18"></span>[2](#fn_18.md) Only
 the peasants seem, he says, to have instituted festivals and
 initiations; they are the first who instituted dancing choruses for
 Dionysus at the wine press and initiations for Demeter on the threshing
@@ -112,7 +112,7 @@ conception of agriculture as the foundation of a civilized life and of
 obedience to the laws. This idea comes to the fore in the Eleusinian
 Mysteries, which were originally a festival of the autumn sowing like
 the Thesmophoria to which they were closely akin. <span
-id="fr_19"></span>[3](#fn_19) It is said that the gift of Demeter is the
+id="fr_19"></span>[3](#fn_19.md) It is said that the gift of Demeter is the
 reason why men do not live like wild beasts, and Athens is praised as
 the cradle of agriculture and of civilization.
 
@@ -193,7 +193,7 @@ certainly right. Others have thought that he was a vegetation spirit
 which was expelled in order to be replaced by a new one. This opinion,
 too, is not quite unfounded, for fertility magic is conspicuous in the
 rites. A crossing of various rites has taken place, as happens not
-infrequently. <span id="fr_20"></span>[4](#fn_20)
+infrequently. <span id="fr_20"></span>[4](#fn_20.md)
 
 The purificatory character of the central rite of the Thargelia explains
 why the festival was dedicated to Apollo, who is the god of
@@ -209,7 +209,7 @@ Theoretically,
 two different kinds of rites can be distinguished, though they are often
 mixed up. One consists in walking about with some magical object in
 order that its influence may be spread over the area. The other is
-encirclement. <span id="fr_21"></span>[5](#fn_21) Conducting the
+encirclement. <span id="fr_21"></span>[5](#fn_21.md) Conducting the
 pharmakos through the streets of the town belongs to the former class.
 So does a kind of magic prescribed for destroying vermin, which required
 that a nude virgin or a menstruating woman should walk about in the
@@ -247,7 +247,7 @@ bring about an increase of these plants and animals. Some scholars are
 of the opinion that among the Greeks, too, the offering of first fruits
 and the ceremonial drinking of new wine, of which I shall speak later,
 represented the breaking of the taboo imposed upon the unripe cereals
-and wine. <span id="fr_22"></span>[6](#fn_22) Perhaps they are right in
+and wine. <span id="fr_22"></span>[6](#fn_22.md) Perhaps they are right in
 regard to the ancient times, about which we have no direct information.
 The information which has come down to us from the Greeks proves that
 they themselves thought that the aim of the offering of first fruits was
@@ -275,7 +275,7 @@ harvest.
 The meaning of such offerings appears very clearly in an ancient
 Sicilian custom, which was recorded by ancient students of literature
 because they believed that they had found in it the origin of bucolic
-poetry. <span id="fr_23"></span>[7](#fn_23) The so-called bucoliasts
+poetry. <span id="fr_23"></span>[7](#fn_23.md) The so-called bucoliasts
 went around to people's doors. The goddess with whom the custom came to
 be associated was Artemis, but the practices which characterize it prove
 that it belongs among those which we are describing. The bucoliasts wore
@@ -289,7 +289,7 @@ carried may, in fact, be called a *panspermia*, and the partaking of it
 conferred luck on the inhabitants of the houses. Similar customs were
 fairly common. A newly acquired slave and the bridegroom at a wedding
 were strewn with fruit (*katachysmata*). <span
-id="fr_24"></span>[8](#fn_24) The custom of strewing the bridegroom with
+id="fr_24"></span>[8](#fn_24.md) The custom of strewing the bridegroom with
 fruit still persists, but its original sense of conferring fertility is
 forgotten.
 
@@ -313,7 +313,7 @@ and is only another way of presenting offerings of the same kind.
 Vessels of the same shape as the kernos have been found in Minoan Crete
 and elsewhere, and the conclusion seems to be justified that offerings
 of this kind were made in the prehistoric age ([Fig.
-11](gpr15.htm#img_fig11)) . The custom has been taken over by the Greek
+11](gpr15.htm#img_fig11).md) . The custom has been taken over by the Greek
 Church. The panspermia is offered to the dead on the modern Greek All
 Souls' Day, the Psychosabbaton, which is celebrated in the churchyards
 before Lent or before Whitsunday. It is offered as first fruits on
@@ -323,11 +323,11 @@ in part, at least, by the celebrants. This modern panspermia varies
 according to the seasons and consists of grapes, loaves, corn, wine, and
 oil. Candles are fixed in the loaves, and there are candlesticks with
 cups for corn, wine, and oil, which have been compared to the ancient
-kernos. <span id="fr_25"></span>[9](#fn_25) The usual modern name of
+kernos. <span id="fr_25"></span>[9](#fn_25.md) The usual modern name of
 these offerings is *kollyba*, which signified in late antiquity as well
 as in modern times an offering of cooked wheat and fruit. The word
 appears also in descriptions of ecclesiastical usages from the Middle
-Ages. <span id="fr_26"></span>[10](#fn_26) Very seldom can the
+Ages. <span id="fr_26"></span>[10](#fn_26.md) Very seldom can the
 continuity of a cult usage be followed
 
 <span id="page_32">p. 32</span>
@@ -353,7 +353,7 @@ the Panathenaean games.
 Starting from the beginning of the year, we find a festival celebrated
 at Athens about the commencement of January. Our information about it
 and even its name seem to be contradictory. The name, Haloa, <span
-id="fr_27"></span>[11](#fn_27) is derived from *halos*, which means both
+id="fr_27"></span>[11](#fn_27.md) is derived from *halos*, which means both
 threshing floor and garden. Since the first sense of the word would be
 inapplicable to a festival celebrated in January, it must have been a
 gardening festival. It is said to have comprised Mysteries of Demeter,
@@ -386,7 +386,7 @@ the culture of the vine, and with the Anthesteria. It was a rustic
 merrymaking. Youths leaped on skin sacks filled with wine, and the girls
 were swung in swings, a custom which is common in rustic festivals and
 may perhaps be interpreted as a fertility charm <span
-id="fr_28"></span>[12](#fn_28) ([Fig. 12](gpr15.htm#img_fig12)).
+id="fr_28"></span>[12](#fn_28) ([Fig. 12](gpr15.htm#img_fig12).md).
 
 In the city of Athens the most prominent part of the Anthesteria was the
 blessing and ceremonial drinking of the new wine. The first day, called
@@ -409,11 +409,11 @@ between Dionysus and the wife of the highest sacral official of Athens,
 the king archon. This is an instance of a widespread rite intended to
 promote fertility. Examples abound in the folklore of other countries.
 In Greece they are mostly mythical. At Athens the god was driven into
-the city in a ship set on wheels ([Fig. 13](gpr16.htm#img_fig13)). He
+the city in a ship set on wheels ([Fig. 13](gpr16.htm#img_fig13).md). He
 was the god of spring coming from the sea.
 
 It is impossible to enter here into a discussion of the very complex
-rites comprised in the Anthesteria. <span id="fr_29"></span>[13](#fn_29)
+rites comprised in the Anthesteria. <span id="fr_29"></span>[13](#fn_29.md)
 It should be re-marked, however, that the third day, or, more correctly,
 the evening before it, was gloomy. It was the Athenian All Souls' Day.
 Offerings of vegetables were brought to the dead, and libations of water
@@ -456,10 +456,10 @@ not associated with a god until a later time, when it seemed that every
 festival should be dedicated to a god. The connection was not
 indissoluble. The gods have vanished, but the customs still persist in
 part. It is the general belief that Dionysus was above all the god of
-wine ([Fig. 14](gpr16.htm#img_fig14)). Already in Hesiod and Homer wine
+wine ([Fig. 14](gpr16.htm#img_fig14).md). Already in Hesiod and Homer wine
 was his gift. He was not the god of wine alone, however, but of
 vegetation and fertility in general, though not of cereals. The fig also
-was a gift from him. <span id="fr_30"></span>[14](#fn_30) In the
+was a gift from him. <span id="fr_30"></span>[14](#fn_30.md) In the
 festival of flowers, the Anthesteria, he appeared as the god of spring.
 
 <span id="page_36">p. 36</span>
@@ -484,7 +484,7 @@ the black goat-skin) and that there was a myth which proves that a
 combat between "the Light One" and "the Black One" was enacted. Whether
 this was the same combat between winter and summer which is found in
 later European folklore, as some scholars think, I dare not say. <span
-id="fr_31"></span>[15](#fn_31) But it may not be useless to observe that
+id="fr_31"></span>[15](#fn_31.md) But it may not be useless to observe that
 two of the highest achievements of the Greek spirit, the drama and
 bucolic poetry, had their origin in simple rural customs.
 
@@ -495,7 +495,7 @@ loaves, and cups of honey, wine,
 
 <span id="page_37">p. 37</span>
 
-and oil. <span id="fr_32"></span>[16](#fn_32) So far it is reminiscent
+and oil. <span id="fr_32"></span>[16](#fn_32.md) So far it is reminiscent
 of the panspermia, and it is an appropriate symbol for a festival of
 fruit gathering. It was carried by a boy whose father and mother were
 both alive, and it was set up before the temple of Apollo or before the
@@ -526,7 +526,7 @@ the Cyclades the women went around singing a hymn to the Hyperborean
 <span id="page_38">p. 38</span>
 
 virgins and collecting alms for them. <span
-id="fr_33"></span>[17](#fn_33) It may be supposed that this custom had
+id="fr_33"></span>[17](#fn_33.md) It may be supposed that this custom had
 something to do with the myth of these virgins and the sheaves which
 were brought from the Hyperboreans to Delos.
 
@@ -535,15 +535,15 @@ commencement of spring. They began by singing: "The swallow has come
 bringing the good season and good years." They then asked for loaves,
 wine, cheese, and wheat porridge. If they were not given anything, they
 ended with threats. Such threats are often a feature in modern customs
-also. <span id="fr_34"></span>[18](#fn_34) The poet Phoenix of Colophon,
+also. <span id="fr_34"></span>[18](#fn_34.md) The poet Phoenix of Colophon,
 who lived in the third century B.C., composed a similar song for boys
-who carried a crow. <span id="fr_35"></span>[19](#fn_35) Not only has
+who carried a crow. <span id="fr_35"></span>[19](#fn_35.md) Not only has
 this custom many parallels in modern times, but it can be demonstrated
 that it has survived in Greece since antiquity. On the first of March
 the boys make a wooden image of a swallow, which revolves on a pivot and
 is adorned with flowers. The boys then go from house to house singing a
 song, of which many variants have been written down, and receiving
-various gifts in return. <span id="fr_36"></span>[20](#fn_36) The same
+various gifts in return. <span id="fr_36"></span>[20](#fn_36.md) The same
 custom is recorded for the Middle Ages. It does not seem very much like
 a religious practice, although it has its roots in religious or magical
 beliefs, but it shows a greater tenacity than any of the lofty religious
@@ -566,7 +566,7 @@ several festivals, sometimes hung with fruits, flowers, and fillets like
 the modern Maypole. Sometimes the ancient May bough was as elaborately
 decorated as our Maypole. There is a graphic description of such a
 Maypole which was carried around the city of Thebes. <span
-id="fr_37"></span>[21](#fn_37) It was a laurel pole decorated with one
+id="fr_37"></span>[21](#fn_37.md) It was a laurel pole decorated with one
 large and many small balls of copper, purple fillets, and a
 saffron-colored garb. This Maypole was carried around at a festival of
 Apollo, with whom also the May bough is connected. I think it likely
@@ -637,81 +637,81 @@ Middle Ages to our own day.
 
 ### Footnotes
 
-<span id="fn_17"></span>[23:1](gpr06.htm#fr_17) *Ethica Nicomachea*,
+<span id="fn_17"></span>[23:1](gpr06.htm#fr_17.md) *Ethica Nicomachea*,
 VIII, p. 1160a.
 
-<span id="fn_18"></span>[23:2](gpr06.htm#fr_18) *Dissertationes*, 30.
+<span id="fn_18"></span>[23:2](gpr06.htm#fr_18.md) *Dissertationes*, 30.
 
-<span id="fn_19"></span>[25:3](gpr06.htm#fr_19) See Chapter III.
+<span id="fn_19"></span>[25:3](gpr06.htm#fr_19.md) See Chapter III.
 
-<span id="fn_20"></span>[27:4](gpr06.htm#fr_20) A survey of the
+<span id="fn_20"></span>[27:4](gpr06.htm#fr_20.md) A survey of the
 discussion is in my *Griechische Feste von religiöser Bedeutung, mit
 Ausschluss der attischen* (Leipzig, 1906), pp. 106 ff. See also L.
 Deubner, *Attische Feste* (Berlin, 1932), pp. 179 ff.
 
-<span id="fn_21"></span>[28:5](gpr06.htm#fr_21) See my paper, "Die
+<span id="fn_21"></span>[28:5](gpr06.htm#fr_21.md) See my paper, "Die
 griechischen Prozessionstypen," *Jahrbuch des Deutschen archäol.
 Instituts*, XXXI (1916), 319 ff.
 
-<span id="fn_22"></span>[29:6](gpr06.htm#fr_22) See E. Gjerstad, "Tod
+<span id="fn_22"></span>[29:6](gpr06.htm#fr_22.md) See E. Gjerstad, "Tod
 und Leben," *Archiv für Religionswissenschaft*, XXVI (1928), 182; for
 another opinion see J. E. Harrison, *Themis; a Study of the Social
 Origins of Greek Religion*, 2d ed., rev. (Cambridge, 1927), pp. 291 ff.
 
-<span id="fn_23"></span>[30:7](gpr06.htm#fr_23) The passages in question
+<span id="fn_23"></span>[30:7](gpr06.htm#fr_23.md) The passages in question
 are collected in the introduction to *Scholia in Theocritum vetera*, ed.
 C. Wendel (Leipzig, 1914), and discussed in my *Griechische Feste*, pp.
 199 ff.
 
-<span id="fn_24"></span>[30:8](gpr06.htm#fr_24) Exhaustively treated by
+<span id="fn_24"></span>[30:8](gpr06.htm#fr_24.md) Exhaustively treated by
 E. Samter, *Familienfeste der Griechen and Römer* (Berlin, 1901), but
 with an interpretation of the custom with which I cannot agree.
 
-<span id="fn_25"></span>[31:9](gpr06.htm#fr_25) S. Xanthoudides, "Cretan
+<span id="fn_25"></span>[31:9](gpr06.htm#fr_25.md) S. Xanthoudides, "Cretan
 Kernoi," *Annual of the British School at Athens*, XII (1905-6), 9 ff.
 
-<span id="fn_26"></span>[31:10](gpr06.htm#fr_26) Aristophanes, *Plutus*,
+<span id="fn_26"></span>[31:10](gpr06.htm#fr_26.md) Aristophanes, *Plutus*,
 vs. 678 and scholia. Cf. Hesychius: κόλλυβα, τρωγάλια.
 
-<span id="fn_27"></span>[32:11](gpr06.htm#fr_27) Deubner, *Attische
+<span id="fn_27"></span>[32:11](gpr06.htm#fr_27.md) Deubner, *Attische
 Feste*, pp. 60 ff.
 
-<span id="fn_28"></span>[33:12](gpr06.htm#fr_28) See my paper, "Die
+<span id="fn_28"></span>[33:12](gpr06.htm#fr_28.md) See my paper, "Die
 Anthesterien and die Aiora," *Eranos*, XV (1916), 187 ff.
 
-<span id="fn_29"></span>[34:13](gpr06.htm#fr_29) Deubner, *Attische
+<span id="fn_29"></span>[34:13](gpr06.htm#fr_29.md) Deubner, *Attische
 Feste*, pp. 93 ff. Deubner erroneously denies that the mixing of the
 wine depicted on certain vases took place at this festival. See my
 paper, "Die griechischen Prozessionstypen," referred to in note 9 of
 this chapter.
 
-<span id="fn_30"></span>[35:14](gpr06.htm#fr_30) He was called συκάτης
+<span id="fn_30"></span>[35:14](gpr06.htm#fr_30.md) He was called συκάτης
 in Laconia (Hesychius s.v. συκίτης ) and, for the same reason, μειλίχιος
 on Naxos (Athenaeus, III, p. 78c).
 
-<span id="fn_31"></span>[36:15](gpr06.htm#fr_31) See my paper, "Der
+<span id="fn_31"></span>[36:15](gpr06.htm#fr_31.md) See my paper, "Der
 Ursprung der griechischen Tragödie," *Neue Jahrbücher für klass.
 Altertum*, XXVII (1911), 673 ff.
 
-<span id="fn_32"></span>[37:16](gpr06.htm#fr_32) Plutarch, *Theseus*,
+<span id="fn_32"></span>[37:16](gpr06.htm#fr_32.md) Plutarch, *Theseus*,
 22.
 
-<span id="fn_33"></span>[38:17](gpr06.htm#fr_33) Herodotus, IV, 35.
+<span id="fn_33"></span>[38:17](gpr06.htm#fr_33.md) Herodotus, IV, 35.
 
-<span id="fn_34"></span>[38:18](gpr06.htm#fr_34) Athenaeus, VIII, p.
+<span id="fn_34"></span>[38:18](gpr06.htm#fr_34.md) Athenaeus, VIII, p.
 360b.
 
-<span id="fn_35"></span>[38:19](gpr06.htm#fr_35) Athenaeus, VIII, p.
+<span id="fn_35"></span>[38:19](gpr06.htm#fr_35.md) Athenaeus, VIII, p.
 359e.
 
-<span id="fn_36"></span>[38:20](gpr06.htm#fr_36) See G. F. Abbott,
+<span id="fn_36"></span>[38:20](gpr06.htm#fr_36.md) See G. F. Abbott,
 *Macedonian Folklore* (Cambridge, 1903), p. 18. The songs are collected
 in A. Passow, *Popularia carmina Graeciae recentioris* (Leipzig, 1860),
 Nos. 291 ff.
 
-<span id="fn_37"></span>[39:21](gpr06.htm#fr_37) Photius, *Bibliotheca*,
+<span id="fn_37"></span>[39:21](gpr06.htm#fr_37.md) Photius, *Bibliotheca*,
 ed. Bekker (Berlin, 1824-25), p. 321b.
 
 ------------------------------------------------------------------------
 
-[Next: The Religion of Eleusis](gpr07)
+[Next: The Religion of Eleusis](gpr07.md)

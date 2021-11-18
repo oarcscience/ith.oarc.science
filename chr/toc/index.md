@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002IVUDJW/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](toc00)    [Page
-Index](pageidx)    [Text \[Zipped\]](toc.txt.gz)
+[Contents](#contents)    [Start Reading](toc00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](toc.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Why care about this, the ultimate moot point? In particular, the actions
 of the Sanhedrin in the Gospel narratives were used to inflame
 anti-Semitism for centuries. This toxic stereotype seeped into every
 aspect of the Jewish-Christian relationship. (see [this
-book](../../jud/rio/index)). While Mr. Breed does not address this issue
+book](../../jud/rio/index).md). While Mr. Breed does not address this issue
 directly, it is implicit in his thesis.
 
 Some will say that Breed's conclusion is undermined by his evidence.
@@ -64,19 +64,19 @@ thought.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](toc00)  
-[Foreword](toc01)  
-[Acknowledgement](toc02)  
-[Table of Contents](toc03)  
-[Chapter I. The Scope of our Study](toc04)  
-[Chapter II. Legal Background and Sources of the Record](toc05)  
-[Chapter III. The Record of the Trials](toc06)  
-[Chapter IV. Reversible Errors](toc07)  
-[Chapter V. Five Courts and Six Trials](toc08)  
-[Chapter VI. Argument As To Jewish Trials](toc09)  
-[Chapter VIII. Errors in the Roman Trials](toc10)  
-[Chapter VIII. A Lesson in Citizenship](toc11)  
-[Epilogue—Our Redeemer](toc12)  
-[Appendix A. Lawyers in the Sanhedrin](toc13)  
-[Appendix B. Bibliography](toc14)  
-[Index](toc15)  
+<span id="contents"></span> [Title Page and Front Matter](toc00.md)  
+[Foreword](toc01.md)  
+[Acknowledgement](toc02.md)  
+[Table of Contents](toc03.md)  
+[Chapter I. The Scope of our Study](toc04.md)  
+[Chapter II. Legal Background and Sources of the Record](toc05.md)  
+[Chapter III. The Record of the Trials](toc06.md)  
+[Chapter IV. Reversible Errors](toc07.md)  
+[Chapter V. Five Courts and Six Trials](toc08.md)  
+[Chapter VI. Argument As To Jewish Trials](toc09.md)  
+[Chapter VIII. Errors in the Roman Trials](toc10.md)  
+[Chapter VIII. A Lesson in Citizenship](toc11.md)  
+[Epilogue—Our Redeemer](toc12.md)  
+[Appendix A. Lawyers in the Sanhedrin](toc13.md)  
+[Appendix B. Bibliography](toc14.md)  
+[Index](toc15.md)  

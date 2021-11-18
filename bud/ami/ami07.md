@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami06)  [Next](ami08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami06)  [Next](ami08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -82,7 +82,7 @@ layman, and my religious notions are not grounded on deeper knowledge."
 
 "Alas!" sighed Charaka, "I am not fit to be a monk. The abbot of the
 Vihâra could not help me and advised me to have my doubts allayed and
-the problems of my soul settled by [Açvaghosha](errata.htm#2) of
+the problems of my soul settled by [Açvaghosha](errata.htm#2.md) of
 Magadha, the great philosopher and saint who is said to understand the
 doctrine of the Blessed One, the Buddha."
 
@@ -123,7 +123,7 @@ is
 
 <span id="page_56">p. 56</span>
 
-better than to live defeated.'[13](ami16.htm#an_13) I awoke. A gentle
+better than to live defeated.'[13](ami16.htm#an_13.md) I awoke. A gentle
 perspiration covered my forehead, and I felt as though I had passed
 through a crisis in which I had gained a new lease of life. My dream had
 been so vivid that when I awoke I had the impression that I and all the
@@ -178,4 +178,4 @@ Açvaghosha!"
 
 ------------------------------------------------------------------------
 
-[Next: Magadha](ami08)
+[Next: Magadha](ami08.md)

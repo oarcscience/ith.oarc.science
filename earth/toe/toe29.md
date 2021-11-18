@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe28)  [Next](toe30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe28)  [Next](toe30.md) 
 
 ------------------------------------------------------------------------
 
@@ -209,7 +209,7 @@ be unknown, and for which he can make no allowance.
 The author of the Tableaux de la Suisse has entered very much into this
 view of things; he has given us some valuable observations in relation
 to this subject, which I would here beg leave to transcribe <span
-id="fr_57"></span>[7](#fn_57).
+id="fr_57"></span>[7](#fn_57.md).
 
 «Nous avons dit précédemment que c'étoit entre Orfière et Liddes que
 nous avions vu les derniers granites roulés, on n'en rencontre plus dans
@@ -448,11 +448,11 @@ destruction of the solid parts.
 
 ### Footnotes
 
-<span id="fn_57"></span>[v2:7](toe29.htm#fr_57) Discours sur l'Histoire
+<span id="fn_57"></span>[v2:7](toe29.htm#fr_57.md) Discours sur l'Histoire
 Naturelle de la Suisse, p. 27.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. A View of the Economy of Nature, and necessity of
 Wasting the Surface of the Earth, in serving the purposes of this
-World](toe30)
+World](toe30.md)

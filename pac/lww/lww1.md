@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [The
-Pacific](../index) [Index](index) [Previous](lww0) [Next](lww2)
+[Sacred-Texts](../../index.md) [The
+Pacific](../index) [Index](index) [Previous](lww0) [Next](lww2.md)
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ necessary to the chiefs and priests.
 
 (the simple translation of which is, the upper-jaw, and the lower-jaw).
 These branches were also sometimes designated, Te Kauhanga-runga, and Te
-Kauhanga-raro.<span id="page_79_fr_*"></span>[\*](#page_79_note_*) The
+Kauhanga-raro.<span id="page_79_fr_*"></span>[\*](#page_79_note_*.md) The
 expressions had a clear meaning to the Maoris, the first representing
 everything pertaining to the gods, the heavens, the origin of all
 things, the creation of man, the science of astronomy, and the record of
@@ -53,11 +53,11 @@ express shortly in English; but probably the nearest meaning is, the
 'house of learning,' or 'house of teaching,' with the understanding that
 the higher learning is meant—in some cases esoteric learning. Whare, of
 course, is a house, a building.<span
-id="page_80_fr_*"></span>[\*](#page_80_note_*) *Wānanga*, means the
+id="page_80_fr_*"></span>[\*](#page_80_note_*.md) *Wānanga*, means the
 higher and sacred knowledge, and to recite that knowledge—it is, in
 fact, very similar to the meaning of *Veda* in the Sanskrit, as used in
 the name of the Hindu sacred books, the Rig-veda-Samhita.<span
-id="page_80_fr_dagger"></span>[†](#page_80_note_dagger)
+id="page_80_fr_dagger"></span>[†](#page_80_note_dagger.md)
 
    In some parts the Whare-wānanga is called Whare-kura (where *Kura*
 has the same meaning as wānanga) and Whare-maire. But it will be seen
@@ -200,7 +200,7 @@ IN February, 1865, Rei, addressing Te Matorohanga said, "O Moi Explain
 to us about the Whare-wānanga and its teachings." The Sage replied,
 "What of the Whare-wānanga indeed! It is similar to the \[teaching of
 the modern\] church; do not we wash ourselves in the pots used for
-cooking \[nowadays\]?"<span id="fr_1"></span>[1](#note_1)
+cooking \[nowadays\]?"<span id="fr_1"></span>[1](#note_1.md)
 
    Attention! O Sirs! Listen!: There was no one universal system of
 teaching in the Whare-wānanga. Each tribe has its own priests, its own
@@ -218,8 +218,8 @@ be of the foundations of knowledge or that which proceeds from it. The
 omissions in my teaching, or innovations, the variations, the
 interruptions, or divergence from the main argument or <span
 id="page_85">p. 85</span> true story, Paratene Te Okawhare<span
-id="fr_2"></span>[2](#note_2) and Nepia Pohuhu<span
-id="fr_3"></span>[3](#note_3) will be able to supply. Their teaching is
+id="fr_2"></span>[2](#note_2.md) and Nepia Pohuhu<span
+id="fr_3"></span>[3](#note_3.md) will be able to supply. Their teaching is
 the same \[as mine\]—one of them can adjust this. My wish was, if Te Ura
 had consented, there should have been only one house of teaching for all
 of us together; in that case there would have been no trouble, for one
@@ -227,13 +227,13 @@ of us would have laid down the main line of teaching \[and discourse
 thereon\], whilst two would have listened in case of any divergence, and
 one of them would supplement it, or in case of the 'solution of
 continuity' the other would cause the discourse to flow again,<span
-id="fr_4"></span>[4](#note_4) and to become reaffixed to the root of the
+id="fr_4"></span>[4](#note_4.md) and to become reaffixed to the root of the
 subject, or supply any emissions. It was thus in the Whare-wānanga—not
 less than three teachers took part, not counting the many other
 *tohungas* (or priests) present. In this way all went properly. The
-*tauira* (or pupils)<span id="fr_5"></span>[5](#note_5) are not here
+*tauira* (or pupils)<span id="fr_5"></span>[5](#note_5.md) are not here
 considered, for unto them was poured out the properties (teaching) in
-the basket-of-knowledge.<span id="fr_6"></span>[6](#note_6) Their
+the basket-of-knowledge.<span id="fr_6"></span>[6](#note_6.md) Their
 business was to listen, and to firmly fix in their hearts, in their very
 roots and origins, all they are taught, with also the strong desire to
 retain it all.
@@ -255,7 +255,7 @@ sacred house—and the sacredness extended to the *ahurewa*, or altar, the
 part in teaching and learning—all were extremely *tapu*. In case <span
 id="page_86">p. 86</span> the dedication *karakias* \[prayers,
 incantations, etc.\] only covered as far as the *paepae-awha*,<span
-id="fr_7"></span>[7](#note_7) it would not render the house sufficiently
+id="fr_7"></span>[7](#note_7.md) it would not render the house sufficiently
 *tapu*; a house trodden by the feet of \[ordinary\] men \[in such case\]
 would not have sufficient *măna* \[prestige, power, etc.\]. Nothing that
 took place within the house during the teaching might be disclosed—it
@@ -267,10 +267,10 @@ together with the cooks must all be outside the sacred *marae*; and only
 those who are officiating in the Whare-wānanga (or Whare-maire, as some
 call it) may enter therein. No one from outside may enter either the
 *marae* or the house, lest they be stricken with *mumutu*<span
-id="fr_8"></span>[8](#note_8) (or as some call it *take-whenua*). No
+id="fr_8"></span>[8](#note_8) (or as some call it *take-whenua*.md). No
 woman who has cohabited with a man may cook food for the staff, or even
 enter the *marae*; the reason being that she has a bloody flux \[and is
-hence impure\].<span id="fr_9"></span>[9](#note_9)
+hence impure\].<span id="fr_9"></span>[9](#note_9.md)
 
    The following is the course adopted in the construction of the
 Whare-wānanga: The foundation of the house must be carefully cleared and
@@ -295,11 +295,11 @@ and fifteen to twenty feet high\].
 
    In the process of building, before placing the rearmost pillars in
 the ground, there are deposited in the hole three *whatus*,<span
-id="fr_10"></span>[10](#note_10) of which Rakai-ora \[emblematical for a
+id="fr_10"></span>[10](#note_10.md) of which Rakai-ora \[emblematical for a
 green lizard\] is the first; or if none are at hand, then the 'son of
-Pekerau,' a *tuatara*.<span id="fr_11"></span>[11](#note_11) If that
+Pekerau,' a *tuatara*.<span id="fr_11"></span>[11](#note_11.md) If that
 could not be procured, the 'son of Arawaru,'<span
-id="fr_12"></span>[12](#note_12) the *karearea* \[or sparrow-hawk\] was
+id="fr_12"></span>[12](#note_12.md) the *karearea* \[or sparrow-hawk\] was
 used \[all these things have to be collected before the home is started,
 otherwise it would be a *whare-aitua*, or house of ill omen—says the
 Scribe\]. Before placing them the whole, the three *whatus* were brought
@@ -311,7 +311,7 @@ mat. After this the last priest repeated a *karakia*, or prayer, to
 *whatus* are then placed in the hole, the *karearea* remaining. The
 green lizard and the *tuatara* having been buried, the post is placed in
 position, and when it is upright, the 'son of Arawaru' \[see [note
-twelve](#note_12)\] is put by the first priest on top of the rearmost
+twelve](#note_12.md)\] is put by the first priest on top of the rearmost
 pillar, between it and the ridge pole. He <span id="page_88">p.
 88</span> then commences his *karakia*, whilst all pull out a few hairs
 from their top-knots and place them on top of the *karearea*. The priest
@@ -329,16 +329,16 @@ work goes on. No woman is allowed in any part of this building \[whilst
 it is building, or at any other time\]. The day before the opening of
 the house, the priests alone are allowed within, in order to consecrate
 it, and to place some small *whatus*, or stones \[see [note
-forty-one](#note_41)\], at the rearmost pillar; these stones are to be
+forty-one](#note_41.md)\], at the rearmost pillar; these stones are to be
 fed to the pupils who are to be taught the *wānanga* (or syllabus). This
 part of the house is called the Ahurewa or (most) sacred spot or
-altar.<span id="fr_13"></span>[13](#note_13) Let this be quite clear:
+altar.<span id="fr_13"></span>[13](#note_13.md) Let this be quite clear:
 The *tuāhu* (or ordinary altar) is outside—not in the house. There are
 two (proper) sites for the *tuāhu*, one near the latrine,<span
-id="fr_14"></span>[14](#note_14) one by side of a tomb—those are the
+id="fr_14"></span>[14](#note_14.md) one by side of a tomb—those are the
 only proper sites. The reason of this is lest (the *tuāhus*) should be
 desecrated by the approach of food, or by food being suspended near
-them.<span id="fr_15"></span>[15](#note_15) I have heard of *tuāhus*
+them.<span id="fr_15"></span>[15](#note_15.md) I have heard of *tuāhus*
 being placed in other spots. This is correct; but in that case they are
 used only for the *uruuru-tapu* \[where witchcraft is taught, or where
 the umbilical cord, and hair when cut, is deposited\], or as places
@@ -347,10 +347,10 @@ body, or removal of the *tapu* from anyone, etc.
 
    In case the two stones mentioned above cannot be procured \[or in
 <span id="page_89">p. 89</span> some other cases\] eleven stones<span
-id="fr_16"></span>[16](#note_16) of *huka-a-tai*,<span
-id="fr_17"></span>[17](#note_17) or of *rehu*, are substituted and four
+id="fr_16"></span>[16](#note_16.md) of *huka-a-tai*,<span
+id="fr_17"></span>[17](#note_17.md) or of *rehu*, are substituted and four
 are placed on each side of the Ahurewa, and three at the *takuahi*, or
-fireplace of the house.<span id="fr_18"></span>[18](#note_18) The reason
+fireplace of the house.<span id="fr_18"></span>[18](#note_18.md) The reason
 they are so placed is that these stones are common ones, carefully sunk
 in the ground as seats for the pupils when the College is opened, and
 then the priests recite their *karakias* from those stones at the
@@ -358,7 +358,7 @@ then the priests recite their *karakias* from those stones at the
 house. The eight stones near the rearmost pillar, are used when the
 college breaks up in the month of Tapere-wai (September), and the
 session ends. The three stones at the *takuahi* are called 'Te
-Rongo-taketake<span id="fr_19"></span>[19](#note_19) of Rongo-marae-roa'
+Rongo-taketake<span id="fr_19"></span>[19](#note_19.md) of Rongo-marae-roa'
 \[or the abiding-place-of-Rongo-marae-roa—god of all cultivated foods\],
 and the eight stones are called 'Nga-whatu-matāki.'
 
@@ -377,11 +377,11 @@ brownish color.\] That is all about these stones.
 to the *paepae*, or bar, of the *turuma*, or latrine of the precincts,
 to remove from them the state of *tapu* induced by their sojourn in the
 College; and there the pupils bit the *paepae*, or bar.<span
-id="fr_20"></span>[20](#note_20) After this all proceeded forth from the
+id="fr_20"></span>[20](#note_20.md) After this all proceeded forth from the
 *marae* in a state of nudity; their usual clothes were deposited in the
 houses outside the *marae*. The clothes worn whilst in the Whare-wānanga
 were returned to that building by the priests \[and deposited at the
-Ahurewa, or altar\].<span id="fr_21"></span>[21](#note_21) This course
+Ahurewa, or altar\].<span id="fr_21"></span>[21](#note_21.md) This course
 was pursued every day whilst the teaching lasted. On the day of final
 departure from the precincts of the sacred *marae*, the priests took
 from the pupils a lock of their hair, the dirt of the feet, the spital,
@@ -389,7 +389,7 @@ the perspiration from under the arms or between the thighs, and carried
 them to the rearmost pillar of the house and their buried them. All of
 this was done for fear that any such parts should be used in bewitching,
 or be a means by which the pupils were made to disclose any of the
-teachings they had acquired.<span id="fr_22"></span>[22](#note_22) After
+teachings they had acquired.<span id="fr_22"></span>[22](#note_22.md) After
 all this the pupils were taken to the water and ducked therein \[as a
 cleansing from the *tapu*; there was near every village a *wai-tapu*, or
 sacred water, used in many ceremonies\].
@@ -397,9 +397,9 @@ sacred water, used in many ceremonies\].
    But before the final departure of the classes from the sacred *marae*
 of the Whare-wānanga, they all stood in rank within the veranda (or
 porch) of the house, facing outwards. The door and the window<span
-id="fr_23"></span>[23](#note_23) were both closed; and the pupils were
+id="fr_23"></span>[23](#note_23.md) were both closed; and the pupils were
 confined by the *paepae-awha* <span id="page_91">p. 91</span> \[see
-[note 7](#note_7)\], or threshold of the porch, whilst the priests stood
+[note 7](#note_7.md)\], or threshold of the porch, whilst the priests stood
 in the *marae* in order to address the pupils, the speeches being made
 by two of them. The addresses were, firstly, in the nature of
 commendation for good behaviour; secondly, exhortations to be careful
@@ -408,12 +408,12 @@ thirdly, a statement of the month in which they should return \[to
 complete their courses\]. This ended they marched, the priests leading,
 to the bounds of the *marae*, where they stood facing the direction of
 the door of the house; and then one of the priests taking a
-*kaunoti*<span id="fr_24"></span>[24](#note_24) made a sacred fire,
+*kaunoti*<span id="fr_24"></span>[24](#note_24.md) made a sacred fire,
 whilst another priest recited a *karakia*. The reason of this proceeding
 was: if the sacred fire burnt, then Pu-oro-rangi or Rangi-whakarara
 sounded: the former being the rolling or rumbling thunder, the latter
 sharp claps of thunder. Only two claps would be heard.<span
-id="fr_25"></span>[25](#note_25) It was then that the pupils discarded
+id="fr_25"></span>[25](#note_25.md) It was then that the pupils discarded
 their sacred garments and went forth from the *marae*, and only returned
 in the month that had been fixed for further teaching.
 
@@ -429,17 +429,17 @@ and pupils, when all are assembled within, the door is closed, and the
 following *karakia* is recited:—
 
 <span class="small">   Here am I with an ardent desire, a perseverance
-equal to thine, O Ruatau!<span id="fr_26"></span>[26](#note_26)  
+equal to thine, O Ruatau!<span id="fr_26"></span>[26](#note_26.md)  
    Give to these pupils, to these acolytes \[all knowledge\]  
    close the door of this my house, like  
    Te Rangi-kaupapa, door of the Tawhiri-rangi<span
-id="fr_27"></span>[27](#note_27)  
+id="fr_27"></span>[27](#note_27.md)  
     <span id="page_92">p. 92</span> That opens up through the plane of
-Te Toi-o-nga-rangi,<span id="fr_28"></span>[28](#note_28)  
-   O Pawa<span id="fr_26"></span>[26](#note_26) eh! shut close Tauru-nui
+Te Toi-o-nga-rangi,<span id="fr_28"></span>[28](#note_28.md)  
+   O Pawa<span id="fr_26"></span>[26](#note_26.md) eh! shut close Tauru-nui
 \[the main entrance\],  
    And Tauru-ata-mai of Whare-kura;<span
-id="fr_29"></span>[29](#note_29)  
+id="fr_29"></span>[29](#note_29.md)  
    Cover, cover up thy way, cover the cracks,  
    The apertures, the tiny cracks, with the door of . . . . .  
 </span>
@@ -448,7 +448,7 @@ id="fr_29"></span>[29](#note_29)
 they were.)
 
    <span class="small">By thy ardent learner, by thy acolyte, O Rehua!
-and Ruatau!<span id="fr_26"></span>[26](#note_26)</span>
+and Ruatau!<span id="fr_26"></span>[26](#note_26.md)</span>
 
    The house is then purified by the priest by the following recitation;
 he stands at the rearmost pillar in the midst of the eight stones, those
@@ -465,7 +465,7 @@ this class of composition into understandable English.\]
 <span class="small">   By the occult powers of the dark, of the light,
 ages—  
    Such powers as thou, O Rongo-marae-roa!<span
-id="fr_30"></span>[30](#note_30) can exert.  
+id="fr_30"></span>[30](#note_30.md) can exert.  
    Be fruitful, be plentiful, give the great and enduring power to
 remove all evil—  
    The inherent original power, unto me, unto this one.  
@@ -496,18 +496,18 @@ beyond—
    
    Grow, grow, as young sprouts, shooting up like spreading leaves  
    The ardent desire towards thee, O Tāne-the-life-giving!<span
-id="fr_31"></span>[31](#note_31)  
+id="fr_31"></span>[31](#note_31.md)  
    Descend \[thy spirit\] into thy offspring, O Tāne! O Rua-tau!<span
-id="fr_32"></span>[32](#note_32)  
+id="fr_32"></span>[32](#note_32.md)  
    Inform \[their minds with the spirit\] of
-Tāne-the-all-knowing-of-Heaven<span id="fr_31"></span>[31](#note_31)  
+Tāne-the-all-knowing-of-Heaven<span id="fr_31"></span>[31](#note_31.md)  
    With a matured memory, a god's memory, with thoughts of thy
-ascent,<span id="fr_33"></span>[33](#note_33)  
+ascent,<span id="fr_33"></span>[33](#note_33.md)  
    \[Hold all within\] thy god-like memory.  
    Be fixed, hold fast, at the back of your strenuous desire—  
    Firmly affix to the inception of thought, thy ardent wishes,  
    To the ancient origin of thy offspring, O Pai!<span
-id="fr_34"></span>[34](#note_34) O Tāne!  
+id="fr_34"></span>[34](#note_34.md) O Tāne!  
    
    Enter deeply, enter to the very origins,  
    Into the very foundations of all knowledge,  
@@ -525,8 +525,8 @@ sons.
    This prayer of the priest ends here. This invocation is to purify the
 house and make it very *tapu*; to call on the gods to exert their
 god-like powers; on the Pou-tiri-ao \[or guardian spirits, gods<span
-id="fr_35"></span>[35](#note_35)\] and their powers; on the Apas \[or
-messengers of the gods<span id="fr_35"></span>[35](#note_35)\]; on the
+id="fr_35"></span>[35](#note_35.md)\] and their powers; on the Apas \[or
+messengers of the gods<span id="fr_35"></span>[35](#note_35.md)\]; on the
 company of male gods; to make the ears and the understanding of the
 pupils receptive, and also to confirm and strengthen in their minds the
 matters taught in their presence.
@@ -580,16 +580,16 @@ appropriate to the Kauwae-raro \[or Terrestrial things\] are brought
 forth \[disclosed\]. The proceedings are similar to those in the
 teaching of the Kauwae-runga \[Celestial things\]; but in this second
 division are taught \[the origin\] of the 'spark of life' unto 'The
-Ao-marama' \[World-of-light\];<span id="fr_36"></span>[36](#note_36)
+Ao-marama' \[World-of-light\];<span id="fr_36"></span>[36](#note_36.md)
 that is, the genealogical descent from the twelve heavens,<span
-id="fr_37"></span>[37](#note_37) down to Papa-tua-nuku \[the Earth, the
+id="fr_37"></span>[37](#note_37.md) down to Papa-tua-nuku \[the Earth, the
 Earth-mother\] from whom \[through Tāne\] was Hine-hau-one \[the first
 woman\] made. Papa-tua-nuku and Rangi-tuhaha were conjoined, and we now
 live <span id="page_95">p. 95</span> beneath the shade \[or shelter\] of
 the Kauwae-runga and the Kauwae-raro. This is outside of that branch of
 the subject, that developed to Whakaru-ai-moko, Hine-nui-te-po and
-Whiro-te-tipua,<span id="fr_38"></span>[38](#note_38) in Te Muri-wai-hou
-and Rarohenga.<span id="fr_39"></span>[39](#note_39)
+Whiro-te-tipua,<span id="fr_38"></span>[38](#note_38.md) in Te Muri-wai-hou
+and Rarohenga.<span id="fr_39"></span>[39](#note_39.md)
 
    There were seven enterings \[courses of lectures\] in the
 Whare-wānanga each year; there were never more and never less. At the
@@ -601,18 +601,18 @@ two *whatus* that have been mentioned. These stones are in appearance, a
 *rehu* \[white, like mist ? chalcedony\]; a *huka-a-tai* \[white, like
 sea-foam\]; a *para-karaka* \[reddish, or golden in colour, like the
 drupes of the *karaka* tree\], or quartz pebbles, that is, a
-*hua-kuru*,<span id="fr_40"></span>[40](#note_40) which is green in
+*hua-kuru*,<span id="fr_40"></span>[40](#note_40.md) which is green in
 colour. These are all suspended in a basket at the rearmost pillar of
 the house. The priests take out the stones and place them in the pupils
-mouths, one to each.<span id="fr_41"></span>[41](#note_41) The pupils
+mouths, one to each.<span id="fr_41"></span>[41](#note_41.md) The pupils
 are seated on the floor of the house—these pupils were those who had
 been taught the subjects pertaining to the *uruuru-matua*; those taught
 the other two subjects were placed on the four stones of the rearmost
 pillar, and then part of the incantation abstracted from that of
-Tupai<span id="fr_42"></span>[42](#note_42) was recited, the first <span
+Tupai<span id="fr_42"></span>[42](#note_42.md) was recited, the first <span
 id="page_96">p. 96</span> priest, who directed the teaching, commenced
 it, and he who finally ended the teaching took up \[*kapo*<span
-id="fr_43"></span>[43](#note_43)\] the recitation which is as follows:—
+id="fr_43"></span>[43](#note_43.md)\] the recitation which is as follows:—
 
 <span class="small">   Cause to descend, outside, beyond  
       \[On these pupils, the power of retaining the acquired
@@ -648,7 +648,7 @@ war\]
    And entwine in his desires, the ways of Rongo \[the god of peace\]  
    Let them combine with matured inspiration.  
    Be effective, the sanctifying meal of Tu-horo-mata,<span
-id="fr_44"></span>[44](#note_44)  
+id="fr_44"></span>[44](#note_44.md)  
    And full advantage be taken of the teaching, by these sons,  
    For they are thy offspring, that desire thee, O Io-the-all-father
 e!  
@@ -656,7 +656,7 @@ e!
 
 <span id="page_97">p. 97</span>
 
-   Then is the thunder of Uruao<span id="fr_45"></span>[45](#note_45)
+   Then is the thunder of Uruao<span id="fr_45"></span>[45](#note_45.md)
 resounded. Those taught in the Whare-wānanga now go forth \[the Session
 is ended\]. In the month of Tikaka-muturangi \[April\] they all return
 together with others who are desirous \[of learning\].
@@ -757,13 +757,13 @@ it is taught at <span id="page_98">p. 98</span> night\]. But let my
 explanation of this subject end; for my knowledge does not include this
 branch of the properties of those 'baskets'; that is, we three, Pohuhu,
 Okawhare and myself. I have, however, seen two men, named Whinu and Te
-Maka, fed with excrement<span id="fr_47"></span>[47](#note_47); those
+Maka, fed with excrement<span id="fr_47"></span>[47](#note_47.md); those
 men were taught at Nuku-taurua \[Te Mahia Peninsula, East Coast, New
 Zealand\], below the latrine of Kai-uku.<span
-id="fr_48"></span>[48](#note_48) It was from that teaching they derived
+id="fr_48"></span>[48](#note_48.md) It was from that teaching they derived
 their \[evil\] name for that kind of work. They obtained the powerful
 spells, named "Taru-aitu," "Tunawhea," "Tuarowhea," "Maiki-nui," and
-"Maiki-roa."<span id="fr_49"></span>[49](#note_49) This evil work ends
+"Maiki-roa."<span id="fr_49"></span>[49](#note_49.md) This evil work ends
 in *huhu* and *haha* \[emaciation and shortness of breath\]—they—the
 spells—are what gives force to man-killing. But enough of this; let
 those who have been initiated into this work explain the foundation of
@@ -772,7 +772,7 @@ it and its methods.
    O Sir! My word to you is this: Do not take up this branch of
 knowledge; it is the occupation of plebeans. All the evil teaching
 contained in the \[branches of knowledge called\] *uruuru-tipua* and
-*uruuru-tawhito*,<span id="fr_50"></span>[50](#note_50) spring from
+*uruuru-tawhito*,<span id="fr_50"></span>[50](#note_50.md) spring from
 Whiro \[god of Hades, of evil\] who descended by the Taheke-roa \[the
 long-rapid\], by which way the current of death takes men to Hades.
 Hence, never consent to those doctrines—it means affliction both to the
@@ -781,18 +781,18 @@ and of food. Enough of my teaching on this subject; adhere to
 Rongo-marae-roa \[the god of peace\] to bring to you the branch \[of the
 ceremonies and arts connected with the\] knowledge of the ocean; the
 branch that was given to Lady-ocean and to Para-whenua-mea<span
-id="fr_51"></span>[51](#note_51); they will respond to appeals. All
+id="fr_51"></span>[51](#note_51.md); they will respond to appeals. All
 things <span id="page_99">p. 99</span> \[gods, etc.\] will be responsive
 if properly appealed to by appropriate ritual and prayer.
 
    The proper time for carrying on the proceedings in connection with
 the two 'baskets' referred to above \[i.e., the evil branches of
 knowledge\] commences in the month Aho-turuturu \[July\] and ends with
-Iho-matua \[August\],<span id="fr_52"></span>[52](#note_52) it is never
+Iho-matua \[August\],<span id="fr_52"></span>[52](#note_52.md) it is never
 longer than that. The reason why this is so, is that the great 'war of
 the gods,' named Te Pae-rangi, between Whiro-te-tipua and Tu-mata-uenga
 and others, commenced in July and ended in August.<span
-id="fr_53"></span>[53](#note_53) It was then that Whiro \[god of death
+id="fr_53"></span>[53](#note_53.md) It was then that Whiro \[god of death
 and evil\] was defeated, and expened by Tāne and his brethren to the
 Muriwai-hou at Rarohenga \[Hades\], and to the following \[summary of\]
 names:—Hawaiki-nui \[Great Hawaiki\], Hawaiki-roa \[Long Hawaiki\],
@@ -802,7 +802,7 @@ ascend to Heaven\], Te Toi-o-te-reinga \[the Uppermost Hades\],
 Angiangi-tu \[out of Sight above\], Angiangi-raro \[out of Sight to
 Hades\], Whakaoti-nuku \[beyond Earthly influences\], Hou-turu and
 Hou-motu \[absolutely divided off from Earthly life\].<span
-id="fr_54"></span>[54](#note_54)
+id="fr_54"></span>[54](#note_54.md)
 
  
 
@@ -826,7 +826,7 @@ of that branch \[of cosmogony\]—they were as follows:—
 | 4\. Te Po-uriuri \[the age of deep black darkness\]                             |
 | <span id="page_100">p. 100</span>                                               |
 | 5\. Te Po-kerikeri \[the age of darkness\]                                      |
-| 6\. Te Po-tiwhatiwha<span id="fr_55"></span>[55](#note_55) \[the age of gloom\] |
+| 6\. Te Po-tiwhatiwha<span id="fr_55"></span>[55](#note_55.md) \[the age of gloom\] |
 
    Now, it must be understood that these *po* \[æons\] were assigned to
 Pou-tere-rangi \[to the entrance to Hades\] to sweep away the
@@ -836,7 +836,7 @@ explained. \[See Chapter III.\]
 
    Some of these *po* have been separated off to our woman-kind \[i.e.,
 the menstrous periods\]. Another division of these *po* were assigned to
-Te Marama-i-whanake,<span id="fr_56"></span>[56](#note_56) and its
+Te Marama-i-whanake,<span id="fr_56"></span>[56](#note_56.md) and its
 younger brethren \[the stars\], which has already been explained \[under
 the names of the months\]. They are:—
 
@@ -848,7 +848,7 @@ the names of the months\]. They are:—
 | 4\. Te Marama-whakaata \[moon with faint light\]                                          |
 | 5\. Te Marama-waha-roa \[great mouthed moon\]                                             |
 | 6\. Te Marama-atua \[the moon of the fifteenth day\]                                      |
-| 7\. Te Marama-mutu-whenua \[the last days of moon\]<span id="fr_57"></span>[57](#note_57) |
+| 7\. Te Marama-mutu-whenua \[the last days of moon\]<span id="fr_57"></span>[57](#note_57.md) |
 
    Enough of my explanation of its names. These are the *po*, or
 nights:—
@@ -860,22 +860,22 @@ nights:—
 | 3\. Te Po-atarau \[the night of moonlight\]                                                     |
 | 4\. Te Po-para-uriuri \[the night with fragments of blackness\]                                 |
 | 5\. Te Po-turu \[the night confirmed\]                                                          |
-| 6\. Te Po-whiro \[the night of darkness before new moon\]<span id="fr_58"></span>[58](#note_58) |
+| 6\. Te Po-whiro \[the night of darkness before new moon\]<span id="fr_58"></span>[58](#note_58.md) |
 
 <span id="page_101">p. 101</span>
 
    Here end the *pos* assigned to 'The Waxing Moon' \[i.e., the Moon
 generally\]; and hence were separated the Moon and its elder brother
 \[the Sun\], and 'The ridge-of-Lady-ocean'<span
-id="fr_59"></span>[59](#note_59) was fixed as a termination \[a sphere
+id="fr_59"></span>[59](#note_59.md) was fixed as a termination \[a sphere
 of influence ?\] in this world; these are 'Te Moana-waipu' \[the deep
 ocean\] and Te Moana-tarahau \[? rough ocean\].
 
    This is also an explanation: Whakaahu, a star \[Castor, in the
 constellation Gemini\] was appointed \[or set up\] at Te
-Rono-i-wairua<span id="fr_60"></span>[60](#note_60) in Hawaiki. I have
+Rono-i-wairua<span id="fr_60"></span>[60](#note_60.md) in Hawaiki. I have
 already explained that there were four doors in the temple of
-Whare-kura,<span id="fr_61"></span>[61](#note_61) one road \[into
+Whare-kura,<span id="fr_61"></span>[61](#note_61.md) one road \[into
 which\] the *ara-matua*, or main way was to the south, at one end,
 another to the *rawhiti* or east. It was there that Whakaahu \[Castor\]
 stood; whilst Puanga \[Rigel of Orion\] was fixed at the east of
@@ -883,7 +883,7 @@ Rarohenga \[Hades\].
 
    Let me explain just here about a discussion amongst the priests of
 the Whare-wānanga when we were at Uawa,<span
-id="fr_62"></span>[62](#note_62) in the college named Rawheoro. Some
+id="fr_62"></span>[62](#note_62.md) in the college named Rawheoro. Some
 held that Puanga \[Rigel\], Kopu \[Venus\] and Tawera \[also Venus\]
 were names for one and the same star. Some said that the three names
 were all intended for Puanga, and Kopu was a secondary name as the star
@@ -910,7 +910,7 @@ of the gods.\]
 
 ### THE WHARE-MAIRE.
 
-   The Whare-maire<span id="fr_63"></span>[63](#note_63) is a house of
+   The Whare-maire<span id="fr_63"></span>[63](#note_63.md) is a house of
 witchcraft; men are therein taught the ritual for man-slaying,
 destruction of food, blasting of trees or the land, spells for
 \[retarding\] men's footsteps, and spells said over weapons in war, or
@@ -937,7 +937,7 @@ their time for acts of sorcery, or distinguished in war.\]
 
  
 
-### THE WHARE-PORUKURUKU.<span id="fr_64"></span>[64](#note_64)
+### THE WHARE-PORUKURUKU.<span id="fr_64"></span>[64](#note_64.md)
 
    This kind of house is used for the same sort of teaching as in the
 Whare-maire, but it pertains to a single family, whilst the Whare-maire
@@ -962,7 +962,7 @@ aware of the fact, or have not given sufficient prominence to it.\]
 
 ------------------------------------------------------------------------
 
-[Next](lww2)
+[Next](lww2.md)
 
 ------------------------------------------------------------------------
 
@@ -970,7 +970,7 @@ aware of the fact, or have not given sufficient prominence to it.\]
 
 <span id="footnotes_page_79">p. 79</span>
 
-<span id="page_79_note_*"></span>[\*](#page_79_fr_*) The meaning of
+<span id="page_79_note_*"></span>[\*](#page_79_fr_*.md) The meaning of
 these two terms is not quite clear, but Kauhanga was the name given to
 the imaginary plane separating the various heavens from each other, and
 in that sense they are approximate to the meaning of the upper and lower
@@ -978,22 +978,22 @@ planes.
 
 <span id="footnotes_page_80">p. 80</span>
 
-<span id="page_80_note_*"></span>[\*](#page_80_fr_*) In Maori, that is;
+<span id="page_80_note_*"></span>[\*](#page_80_fr_*.md) In Maori, that is;
 for in Rarotonga it has also a collective or plural meaning, as *e are
 ariki*, the chiefs, or collection of chiefs; *e are atua*, the company
 of gods, etc.
 
-<span id="page_80_note_dagger"></span>[†](#page_80_fr_dagger) See Prof.
+<span id="page_80_note_dagger"></span>[†](#page_80_fr_dagger.md) See Prof.
 A. A. Macdonell's 'A History of Sanskrit Literature,' p. 29. This is not
 a philological work, or we might, perhaps, be able to show that
 *Wānanga* and *Veda* come from the same root.
 
 <span id="footnotes_page_81">p. 81</span>
 
-<span id="page_81_note_*"></span>[\*](#page_81_fr_*) Whatu-kura is
+<span id="page_81_note_*"></span>[\*](#page_81_fr_*.md) Whatu-kura is
 applied both to the male guardian spirits and to the sacred stones.
 
-<span id="page_81_note_dagger"></span>[†](#page_81_fr_dagger) It is said
+<span id="page_81_note_dagger"></span>[†](#page_81_fr_dagger.md) It is said
 that it was from this temple, a sacred stone called a *papa-tatau* (or
 inscribed tablet) was brought to New Zealand by Manaia, Te Ha-tauira and
 others, and deposited in a house built at Oakura, nine miles south of
@@ -1002,11 +1002,11 @@ derived from the Sage's teaching.
 
 <span id="footnotes_page_82">p. 82</span>
 
-<span id="page_82_note_*"></span>[\*](#page_82_fr_*) Māui-mua was the
+<span id="page_82_note_*"></span>[\*](#page_82_fr_*.md) Māui-mua was the
 elder of the five brothers Māui, the youngest being the Solar hero,
 Māui-potiki.
 
-<span id="page_82_note_dagger"></span>[†](#page_82_fr_dagger) There is a
+<span id="page_82_note_dagger"></span>[†](#page_82_fr_dagger.md) There is a
 doubt at present about this Uenuku, for though one of that name is shown
 as above at thirty-seven generations back, there is another Uenuku, who
 is sometimes called Rangi, who flourished twenty-four generations ago,
@@ -1014,7 +1014,7 @@ when the people were in Tahiti.
 
 <span id="footnotes_page_83">p. 83</span>
 
-<span id="page_83_note_*"></span>[\*](#page_83_fr_*) In 'Journal
+<span id="page_83_note_*"></span>[\*](#page_83_fr_*.md) In 'Journal
 Polynesian Society,' Vol. IX., p. 229, will be found a similar list of
 Whare-marie known to the Nga-Rauru people of the West Coast, Cook's
 Straits. They are, however, quite a different tribe to that of the
@@ -1022,7 +1022,7 @@ Sage's, and had their own teachings.
 
 <span id="footnotes_page_84">p. 84</span>
 
-<span id="note_1"></span>[1](#fr_1). The Sage here deplores the
+<span id="note_1"></span>[1](#fr_1.md). The Sage here deplores the
 abrogation of all *tapu*, and illustrates his meaning by calling
 attention to the fact that men's sacred heads are now washed in the same
 utensils in which food has been cooked or placed—a most shocking thing
@@ -1030,47 +1030,47 @@ under the old regîme, and entirely distructive of the *tapu*.
 
 <span id="footnotes_page_85">p. 85</span>
 
-<span id="note_2"></span>[2](#fr_2). This was one of the old priests of
+<span id="note_2"></span>[2](#fr_2.md). This was one of the old priests of
 Wairarapa.
 
-<span id="note_3"></span>[3](#fr_3). Nepia Pohuhu's teaching we shall
+<span id="note_3"></span>[3](#fr_3.md). Nepia Pohuhu's teaching we shall
 have largely to draw on later.
 
-<span id="note_4"></span>[4](#fr_4). *Whakarewa* is the word used; i.e.,
+<span id="note_4"></span>[4](#fr_4.md). *Whakarewa* is the word used; i.e.,
 to float. But it also means to cause the uprising of a war-party ready
 to start on the war-trail, a meaning not found in the Dictionaries. This
 is the origin of the name Whakarewa at Rotorua.
 
-<span id="note_5"></span>[5](#fr_5). The pupils are here referred to as
+<span id="note_5"></span>[5](#fr_5.md). The pupils are here referred to as
 *tauira-horomata*. Tauira is the ordinary word for pupil. But,
 *horomata*, is the name for a very small quantity of food—generally
 *aruhe*, or fern root—given to the pupils just before the teaching
 commenced, to cause their minds to become absorbed in the subjects
 taught, known emblematically as Tu-horo-mata.
 
-<span id="note_6"></span>[6](#fr_6). *Kete-wānanga* = basket of
+<span id="note_6"></span>[6](#fr_6.md). *Kete-wānanga* = basket of
 knowledge, used emblematically as the subject taught. It is difficult to
 find an English equivalent; syllabus is something like it.
 
 <span id="footnotes_page_86">p. 86</span>
 
-<span id="note_7"></span>[7](#fr_7). The *paepae-awha* is the squared
+<span id="note_7"></span>[7](#fr_7.md). The *paepae-awha* is the squared
 and carved log which extends from side to side of the house inside the
 front gable; it is about two feet high, and over which people step into
 the open porch of the house. Outside this is the *marae* or court, or
 plaza, where, in ordinary villages, meetings, ceremonies, etc., are
 held.
 
-<span id="note_8"></span>[8](#fr_8). This is leprosy, otherwise called
+<span id="note_8"></span>[8](#fr_8.md). This is leprosy, otherwise called
 *ngerengere* or *take-whenua* (which is the original term). It is called
 *mumutu* because the fingers drop off, whence the word.
 
-<span id="note_9"></span>[9](#fr_9). The Scribe states that only those
+<span id="note_9"></span>[9](#fr_9.md). The Scribe states that only those
 women who never have *menses* are ever allowed within the *marae*.
 
 <span id="footnotes_page_87">p. 87</span>
 
-<span id="note_10"></span>[10](#fr_10). The *whatu* is some object
+<span id="note_10"></span>[10](#fr_10.md). The *whatu* is some object
 buried at the foot of the pillar to ensure sanctity and prestige. In a
 high-chief's building this was often a slave who was made to squat in
 the hole embracing the pillar, and then buried alive. This was also done
@@ -1089,12 +1089,12 @@ would have been put there, but by a refinement of some native theologian
 a lock of hair was held to be as good as a whole head." The Angami
 people are a branch of the Nagas and live just north of Manipur.
 
-<span id="note_11"></span>[11](#fr_11). A large lizard, twelve to
+<span id="note_11"></span>[11](#fr_11.md). A large lizard, twelve to
 eighteen inches long, *Sphenadon punctatus*, which, although now only
 found on the off islands, was common on the mainland formerly.—See
 'Journal Polynesian Society,' Vol. XX., p. 40.
 
-<span id="note_12"></span>[12](#fr_12). The *Whanau a Te Arawaru raua ka
+<span id="note_12"></span>[12](#fr_12.md). The *Whanau a Te Arawaru raua ka
 Kau-mahi* (the family of Arawaru and Kau-mahi) were numerous; they
 consist of several of the bivalve shell-fish. Their names are given by
 the Sage in another part of his teaching as follows.—Te Pipi-toretore,
@@ -1107,7 +1107,7 @@ former drove the latter to the *One-tahua*, or beach between the tides.
 
 <span id="footnotes_page_88">p. 88</span>
 
-<span id="note_13"></span>[13](#fr_13). The *Ahurewa* was a most sacred
+<span id="note_13"></span>[13](#fr_13.md). The *Ahurewa* was a most sacred
 altar at the back part of the home, near the *pou-tuarongo*. In front of
 it was laid a woven mat that had been made sacred. This covered the
 *whatu-kuras*, or sacred stones.—See *infra*. The *Ahurewa* was also the
@@ -1116,30 +1116,30 @@ teaching, and there also was deposited the *ipu-tapu*, or sacred vessel,
 in which 'holy water' was kept, which was offered to the gods by
 throwing a few drops over the left shoulder.
 
-<span id="note_14"></span>[14](#fr_14). It is strange how sacred a place
+<span id="note_14"></span>[14](#fr_14.md). It is strange how sacred a place
 the latrine is in all Maori ceremonies; we shall frequently find mention
 of it as this narrative progresses. The *Tuāhu* of the Whare-wānanga,
 says the Scribe, was the right-hand post of the rail, usually carved,
 where people sit to ease themselves.
 
-<span id="note_15"></span>[15](#fr_15). It has already been mentioned
+<span id="note_15"></span>[15](#fr_15.md). It has already been mentioned
 that food contaminates or abrogates the *tapu* of all sacred places or
 things.
 
 <span id="footnotes_page_89">p. 89</span>
 
-<span id="note_16"></span>[16](#fr_16). Probably this number represents
+<span id="note_16"></span>[16](#fr_16.md). Probably this number represents
 the eleven heavens, exclusive of the twelfth, sacred to the Supreme God
 Io.
 
-<span id="note_17"></span>[17](#fr_17). Huka-a-tai = Sea-foam, or like
+<span id="note_17"></span>[17](#fr_17.md). Huka-a-tai = Sea-foam, or like
 sea-foam. It was explained to me by the Scribe, that this is not a
 common stone found on the surface of the earth. Originally it was
 believed to have been brought from the heavens, and was the material out
 of which the Whatu-kura-a-Tāne and the Whatu-kura-a-Tangaroa were
 made—see description of these later on. *Rehu* is sea-foam.
 
-<span id="note_18"></span>[18](#fr_18). Takuahi. The ordinary fire-place
+<span id="note_18"></span>[18](#fr_18.md). Takuahi. The ordinary fire-place
 of a Maori home is situated near the middle of the floor, and is a
 shallow hole with a flat stone on each of its four sides. In the ancient
 temple named Hawaiki (from which all subsequent places of that name
@@ -1153,7 +1153,7 @@ nine inches high, and the pupils who have passed a good examination are
 placed on the right-hand stones, those who have to come up again on the
 left. Each stone has a different name, as mentioned below.
 
-<span id="note_19"></span>[19](#fr_19). Rongo-taketake, is a form of
+<span id="note_19"></span>[19](#fr_19.md). Rongo-taketake, is a form of
 peace-making between hostile tribes, in which the war-gods of the
 opposing parties are supposed to be present, and through their priests,
 confirm and consent to such peace. It was the most enduring form of
@@ -1166,33 +1166,33 @@ gained by the pupils will last; he will never forget.
 
 <span id="footnotes_page_90">p. 90</span>
 
-<span id="note_20"></span>[20](#fr_20). This ceremony is often referred
+<span id="note_20"></span>[20](#fr_20.md). This ceremony is often referred
 to in Maori history. The act of simulated biting is said to induce the
 'hardening,' or remembrance of the teaching. It is also said to shew the
 determination of the pupil to adhere to the teaching, a form of
 declaration that they were equal to anything, however repulsive, in
 order to show their proficiency.
 
-<span id="note_21"></span>[21](#fr_21). The clothing consisted of a
+<span id="note_21"></span>[21](#fr_21.md). The clothing consisted of a
 short flax kilt, called a *pekerangi*—so called from the fact that when
 not in use and hung out to air, they were placed on the *pekerangi*, or
 outside palisade of the *pa*.
 
-<span id="note_22"></span>[22](#fr_22). As a matter of fact, all but the
+<span id="note_22"></span>[22](#fr_22.md). As a matter of fact, all but the
 *koukou*, or what may be calied a scalp-lock, was close clipped or
 shaven in both men and boys, whether being taught or not. It was
 considered highly advantageous if the wizard could procure any part of
 the victim he intended to bewitch, over which to say his incantations,
 and hence the care exercised, as described above.
 
-<span id="note_23"></span>[23](#fr_23). The window, in all houses, was
+<span id="note_23"></span>[23](#fr_23.md). The window, in all houses, was
 on the right of the door as one entered, and within the door on the left
 hand side was the place of honour for guests in an ordinary house. Both
 door and window were closed by sliding panels.
 
 <span id="footnotes_page_91">p. 91</span>
 
-<span id="note_24"></span>[24](#fr_24). Kaunoti, is the dry stick laid
+<span id="note_24"></span>[24](#fr_24.md). Kaunoti, is the dry stick laid
 on the ground and on to which the pointed *kaurimarima* is briskly
 rubbed to procure fire—the common Polynesian method. In travelling these
 dried sticks (of certain woods only, in which Māui had placed the 'seeds
@@ -1201,75 +1201,75 @@ thus by contact with the body they became *tapu*—so says the Scribe, but
 I think the *ahi tapu* means rather a sacred fire, especially generated
 in connection with various ceremonies.
 
-<span id="note_25"></span>[25](#fr_25). Of course we unbelieving White
+<span id="note_25"></span>[25](#fr_25.md). Of course we unbelieving White
 people cannot exactly swallow this. There is probably some esoteric
 meaning here not explained.
 
-<span id="note_26"></span>[26](#fr_26). Ruatau, Aitu-Pawa, and Rehua
+<span id="note_26"></span>[26](#fr_26.md). Ruatau, Aitu-Pawa, and Rehua
 were of the minor gods, guardians of the treasures of the uppermost
 heavens where Io dwelt, As we shall see in Chapter III., they are
 heavenly priests, to whom Io delegated the power of consecration, to
 purify Tāne on this ascent to the highest heaven.
 
-<span id="note_27"></span>[27](#fr_27). Tawhiri-rangi, see [number
-three](#page_81) in the list of Whare-wānanga *ante*. Te Rangi-kaupapa
+<span id="note_27"></span>[27](#fr_27.md). Tawhiri-rangi, see [number
+three](#page_81.md) in the list of Whare-wānanga *ante*. Te Rangi-kaupapa
 is the name of its door. The reciter asks that the door of the college
 may be as closely shut as that of the heavenly house, so that nothing
 may be heard of the teaching outside.
 
 <span id="footnotes_page_92">p. 92</span>
 
-<span id="note_28"></span>[28](#fr_28). Te Toi-o-nga-rangi, the Twelfth
+<span id="note_28"></span>[28](#fr_28.md). Te Toi-o-nga-rangi, the Twelfth
 Heaven, abode of Io and his immediate servitors.
 
-<span id="note_29"></span>[29](#fr_29). Whare-kura, see [number
-five](#page_81) of the list quoted above. Tauru-ata-mai, means to
+<span id="note_29"></span>[29](#fr_29.md). Whare-kura, see [number
+five](#page_81.md) of the list quoted above. Tauru-ata-mai, means to
 exclude all evil. The reciter appears to address these learned gods to
 inspire the pupil with understanding, and so to close np the place of
 teaching that no extraneous matters should divert the attention of the
 pupils, etc.
 
-<span id="note_30"></span>[30](#fr_30). Rongo-marae-roa, god of peace.
+<span id="note_30"></span>[30](#fr_30.md). Rongo-marae-roa, god of peace.
 
 <span id="footnotes_page_93">p. 93</span>
 
-<span id="note_31"></span>[31](#fr_31). Tāne, god number sixty-eight.
+<span id="note_31"></span>[31](#fr_31.md). Tāne, god number sixty-eight.
 
-<span id="note_32"></span>[32](#fr_32). Ruatau, one of the guardians of
+<span id="note_32"></span>[32](#fr_32.md). Ruatau, one of the guardians of
 the heavenly treasures.
 
-<span id="note_33"></span>[33](#fr_33). For Tāne's ascent into Heaven
+<span id="note_33"></span>[33](#fr_33.md). For Tāne's ascent into Heaven
 see Chapter III.
 
-<span id="note_34"></span>[34](#fr_34). Paia, one of the gods.
+<span id="note_34"></span>[34](#fr_34.md). Paia, one of the gods.
 
-<span id="note_35"></span>[35](#fr_35). See hereafter as to these
+<span id="note_35"></span>[35](#fr_35.md). See hereafter as to these
 things.
 
 <span id="footnotes_page_94">p. 94</span>
 
-<span id="note_36"></span>[36](#fr_36). That is, everyday life of this
+<span id="note_36"></span>[36](#fr_36.md). That is, everyday life of this
 terrestrial world.
 
-<span id="note_37"></span>[37](#fr_37). The Sage here makes use of the
+<span id="note_37"></span>[37](#fr_37.md). The Sage here makes use of the
 expression Rarigi-tuhaha, which is a comprehensive term including all
 the heavens.
 
 <span id="footnotes_page_95">p. 95</span>
 
-<span id="note_38"></span>[38](#fr_38). These three are gods of the
+<span id="note_38"></span>[38](#fr_38.md). These three are gods of the
 underworld, about which we shall learn later on.
 
-<span id="note_39"></span>[39](#fr_39). Names for the underworld or
+<span id="note_39"></span>[39](#fr_39.md). Names for the underworld or
 Hades.
 
-<span id="note_40"></span>[40](#fr_40). The name *hua-kuru* is
+<span id="note_40"></span>[40](#fr_40.md). The name *hua-kuru* is
 interesting; it means 'fruit of the bread-fruit-tree,' and is possibly
 so called because the stones used in some former habitat bore the
 appearance of the green bread-fruit, which, of course does not grow in
 New Zealand, though common all over the warmer parts of Polynesia.
 
-<span id="note_41"></span>[41](#fr_41). The Scribe tells me that during
+<span id="note_41"></span>[41](#fr_41.md). The Scribe tells me that during
 this ceremony of stone-swallowing, one of the larger stones deposited at
 the rearest pillar was elevated on a kind of stool, called a *pou-turu*,
 and in the centre of this stone was a circular hole, over which the
@@ -1285,14 +1285,14 @@ in the College comes back to him. One of these stones I saw, was a
 little piece of chalcedony, about the size of a walnut, and had probably
 been a Moa gizzard stone.
 
-<span id="note_42"></span>[42](#fr_42). Tupai was one of those who
+<span id="note_42"></span>[42](#fr_42.md). Tupai was one of those who
 accompanied the god Tāne to the uppermost Heaven when he went to obtain
 the three 'baskets' of knowledge. It was also the name of one of the
 priests that came in the 'Takitimu' canoe to New Zealand *circa* 1350.
 
 <span id="footnotes_page_96">p. 96</span>
 
-<span id="note_43"></span>[43](#fr_43). Many of these *karakias* had to
+<span id="note_43"></span>[43](#fr_43.md). Many of these *karakias* had to
 be recited without a break to take breath; a solution of its continuity
 destroyed its efficacy. When the first priest's breath was exhausted,
 another one would *kapo*, or take up the strain, and carry it on without
@@ -1301,12 +1301,12 @@ the old Hindu priests acted in a similar manner to these Polynesians, in
 ancient days, and, that according to them, to be effective the prayers
 (*mantras*) must be completed in one breath.
 
-<span id="note_44"></span>[44](#fr_44). See [note five](#note_5),
+<span id="note_44"></span>[44](#fr_44). See [note five](#note_5.md),
 *ante*.
 
 <span id="footnotes_page_97">p. 97</span>
 
-<span id="note_45"></span>[45](#fr_45). Uruao, the 'Cloud Piercer': but
+<span id="note_45"></span>[45](#fr_45.md). Uruao, the 'Cloud Piercer': but
 the name is also that of the first canoe built by these people in the
 Fatherland, of which Tama-rereti was commander, and as we shall see, in
 it he explored some countries to the east—probably Indonesia. This
@@ -1317,7 +1317,7 @@ the constellation. This Celestial vessel is supposed to be laden with
 many of the smaller stars, which sometimes fall out, and are then known
 as meteors.
 
-<span id="note_46"></span>[46](#fr_46). Though the months here start
+<span id="note_46"></span>[46](#fr_46.md). Though the months here start
 with January, the Maori year really begins with the rising of the
 constellation Matariki \[the Pleiades\] at sunset at the first new moon
 in June. Other priests say the year commenced with the rising of the
@@ -1326,7 +1326,7 @@ place.
 
 <span id="footnotes_page_98">p. 98</span>
 
-<span id="note_47"></span>[47](#fr_47). This starement will no doubt
+<span id="note_47"></span>[47](#fr_47.md). This starement will no doubt
 cause surprise and disgust. But it was one of the ordeals that a pupil
 under instruction in the art of witchcraft had to pass through, as
 showing his readiness to undertake any of the other and severe ordeals,
@@ -1335,12 +1335,12 @@ tangata kai tutae* (a man who would eat excrement), implying that such a
 one would face any difficulty in order to accomplish his end—a man who
 would fight to the death to secure victory for his side.
 
-<span id="note_48"></span>[48](#fr_48). Kaiuku, a name given to a *pa*
+<span id="note_48"></span>[48](#fr_48.md). Kaiuku, a name given to a *pa*
 at Te Mahia on account of a notable siege in which the inhabitants were
 reduced to eating clay—which is the meaning of the word. See "Maori Wars
 of the Nineteenth Century," p. 328 (2nd Edition, 1910).
 
-<span id="note_49"></span>[49](#fr_49). These spells were supposed to be
+<span id="note_49"></span>[49](#fr_49.md). These spells were supposed to be
 all powerful in witchcraft. An example of their (supposed) effect is
 well illustrated in the story of "Mahu and Taewa," 'Journal Polynesian
 Society.' Vol. VII., p. 127. A very much more complete account of these
@@ -1348,32 +1348,32 @@ incidents, in which the several ordeals are described, will be published
 later. Different forms of affliction are also known by the above
 emblematical names.
 
-<span id="note_50"></span>[50](#fr_50). These will be explained in
+<span id="note_50"></span>[50](#fr_50.md). These will be explained in
 Chapter III.
 
-<span id="note_51"></span>[51](#fr_51). Para-whenua-mea, emblematical
+<span id="note_51"></span>[51](#fr_51.md). Para-whenua-mea, emblematical
 for one of the gods of the 'Deluge.' The word is also used to represent
 the effacement of nature due to the flood. Para-whenua-mea is connected
 also with the Hawaiian godess of voloanoes, Pele.
 
 <span id="footnotes_page_99">p. 99</span>
 
-<span id="note_52"></span>[52](#fr_52). This statement must not be
+<span id="note_52"></span>[52](#fr_52.md). This statement must not be
 confounded with a previous one, where it is said that the Session lasts
 from April to October; the Sage is here referring to the months in which
 witchcraft is taught.
 
-<span id="note_53"></span>[53](#fr_53). This great division of the gods,
+<span id="note_53"></span>[53](#fr_53.md). This great division of the gods,
 known as 'The War of Pae-rangi,' will be fully described in Chapter III.
 
-<span id="note_54"></span>[54](#fr_54). Such are the meanings given by
+<span id="note_54"></span>[54](#fr_54.md). Such are the meanings given by
 the Scribe. They are no doubt emblematical names used by the priests to
 recan certain events or circumstances to their minds. We shall come
 across others of a similar nature later on.
 
 <span id="footnotes_page_100">p. 100</span>
 
-<span id="note_55"></span>[55](#fr_55). It is difficult to explain in
+<span id="note_55"></span>[55](#fr_55.md). It is difficult to explain in
 English (or even to understand) the ideas conveyed by the expressions in
 the above paragraphs; but approximately the words express the various
 ages or æons of cosmical darkness, during which the Sky-father adhered
@@ -1386,19 +1386,19 @@ they are the names of the *po* (nights, ages, &c.) of the Reinga, or
 Hades, where no light is ever seen—it is always thus. But compare the
 story of Mataora given in Chapter VI., which seems to contradict this.
 
-<span id="note_56"></span>[56](#fr_56). The rising or waxing moon, an
+<span id="note_56"></span>[56](#fr_56.md). The rising or waxing moon, an
 expression the Sage often employs for the moon.
 
-<span id="note_57"></span>[57](#fr_57). The Scribe states that this
+<span id="note_57"></span>[57](#fr_57.md). The Scribe states that this
 division of the lunar month, is the ancient division into four-day
 periods.
 
-<span id="note_58"></span>[58](#fr_58). These are other names for
+<span id="note_58"></span>[58](#fr_58.md). These are other names for
 division of the month acoording to brightness of the moon.
 
 <span id="footnotes_page_101">p. 101</span>
 
-<span id="note_59"></span>[59](#fr_59). Ridge = *tuahiwi*; The ocean
+<span id="note_59"></span>[59](#fr_59.md). Ridge = *tuahiwi*; The ocean
 between New Zealand and Hawaiki is supposed to have a 'ridge' in it,
 where boisterous weather, according io tradition, was frequently met
 with—it is probably the meeting point of the Trade-winds and the
@@ -1409,26 +1409,26 @@ the two here referred to, and refers to that *tuahiwi* in the heavens,
 otherwise the Milky Way, which was appointed as a division between the
 spheres of the sun and moon, after their strife.—See Chapter V.
 
-<span id="note_60"></span>[60](#fr_60). Te Hono-i-wairua, the assemblage
+<span id="note_60"></span>[60](#fr_60.md). Te Hono-i-wairua, the assemblage
 of spirits; where the spirits of the dead gathered at the first Hawaiki
 prior to their separation, some to the supreme god Io, others to the
 realms of Whiro in the under-world.
 
-<span id="note_61"></span>[61](#fr_61). Here assumed to be identical
+<span id="note_61"></span>[61](#fr_61.md). Here assumed to be identical
 with Hawaiki, the temple.
 
-<span id="note_62"></span>[62](#fr_62). Tologa Bay. East Coast, twenty
+<span id="note_62"></span>[62](#fr_62.md). Tologa Bay. East Coast, twenty
 miles north of Gisborne. For Rawheoro, see introduction to this Chapter.
 
 <span id="footnotes_page_102">p. 102</span>
 
-<span id="note_63"></span>[63](#fr_63). The Scribe says the name *maire*
+<span id="note_63"></span>[63](#fr_63.md). The Scribe says the name *maire*
 is derived from the tree of that name, of which weapons were made; and
 as the Whare-maire was used for the teaching of witchcraft principally
 (according to these tribes, but not to others), leading to death, the
 house was so called in consequence.
 
-<span id="note_64"></span>[64](#fr_64). This is taken from another part
+<span id="note_64"></span>[64](#fr_64.md). This is taken from another part
 of Te Matorohanga's teaching. The Whare-porukuruku was a temporary house
 of learning, used when the people were away from their permanent homes,
 says the Scribe.

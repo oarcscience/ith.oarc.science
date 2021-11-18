@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob03) 
-[Next](sob05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob03.md) 
+[Next](sob05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -56,7 +56,7 @@ The Air Passages consist of the interior of the nose, pharynx, larynx,
 windpipe or trachea, and the bronchial tubes. When we breathe, we draw
 in the air through the nose, in which it is warmed by contact with the
 mucous membrane, which is richly supplied with blood, and after it has
-passed through the [pharynx](errata.htm#2) and larynx it passes into the
+passed through the [pharynx](errata.htm#2.md) and larynx it passes into the
 trachea or windpipe, which subdivides into numerous tubes called the
 bronchial tubes (bronchia), which in turn subdivide into and terminate
 in minute subdivisions in all the small air spaces in the lungs, of
@@ -205,4 +205,4 @@ Nature."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Esoteric Theory of Breath](sob05)
+[Next: Chapter IV. The Esoteric Theory of Breath](sob05.md)

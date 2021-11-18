@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mlcr01)  [Next](mlcr03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mlcr01)  [Next](mlcr03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1403,4 +1403,4 @@ variety, Gaelic or Cymric, of the Celtic tongue.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III: The Irish Invasion Myths](mlcr03)
+[Next: Chapter III: The Irish Invasion Myths](mlcr03.md)

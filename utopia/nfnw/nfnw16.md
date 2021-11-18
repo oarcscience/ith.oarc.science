@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](nfnw15)  [Next](nfnw17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](nfnw15)  [Next](nfnw17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0140433309/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ stairs into the forecourt of the Museum, leaving the two Hammonds to
 follow as they pleased.
 
 We went into the market-place which I had been in before, a thinnish
-stream of elegantly  <span id="fr_0"></span>[1](#fn_0)
+stream of elegantly  <span id="fr_0"></span>[1](#fn_0.md)
 
 dressed people going in along with us. We turned into the cloister and
 came to a richly moulded and carved doorway, where a very pretty
@@ -167,10 +167,10 @@ down, and then we sat quiet a little.
 
 ### Footnotes
 
-<span id="fn_0"></span>[1](nfnw16.htm#fr_0) "Elegant," I mean, as a
+<span id="fn_0"></span>[1](nfnw16.htm#fr_0.md) "Elegant," I mean, as a
 Persian pattern is elegant; not like a rich "elegant" lady out for a
 morning call. I should rather call that genteel.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII: How The Change Came](nfnw17)
+[Next: Chapter XVII: How The Change Came](nfnw17.md)

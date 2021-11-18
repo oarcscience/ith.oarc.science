@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass29)  [Next](nass31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass29)  [Next](nass31.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ shouts "Rock!" and his belly bursts when he lands on the ground.
 
 ------------------------------------------------------------------------
 
-[Next: The Wolves and the Deer](nass31)
+[Next: The Wolves and the Deer](nass31.md)

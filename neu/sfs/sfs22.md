@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs21)  [Next](sfs23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs21)  [Next](sfs23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ THE Kashubians inhabit a small district in the North-east of Pomerania,
 limits of the district may be roughly marked by the towns of Leba,
 Lauenburg and Bütow or Bytom.
 
-[The story](sfs23.htm#an_16) contains many of the circumstances of the
+[The story](sfs23.htm#an_16.md) contains many of the circumstances of the
 German story of 'The Table, the Ass and the Stick' in Grimm's
 collection. The Kashubian tales again would naturally be pressed into
 the service of the surrounding Germans. Bitter complaints have been made
@@ -36,4 +36,4 @@ believe that there is considerable ground for the complaint.
 
 ------------------------------------------------------------------------
 
-[Next: XVI. Cudgel, Bestir Yourself!](sfs23)
+[Next: XVI. Cudgel, Bestir Yourself!](sfs23.md)

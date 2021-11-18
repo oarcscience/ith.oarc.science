@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow14)  [Next](fow16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow14)  [Next](fow16.md) 
 
 ------------------------------------------------------------------------
 
@@ -144,4 +144,4 @@ which forms the subject of a preceding chapter.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV: Local Allusions to Women](fow16)
+[Next: Chapter XIV: Local Allusions to Women](fow16.md)

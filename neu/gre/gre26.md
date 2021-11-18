@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre25)  [Next](gre27) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre25)  [Next](gre27.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ sheep safe from him, nor could any dogs be set on him: and all this men
 thought the heaviest trouble. Biorn, Thorkel's kinsman, said that the
 greatest part had been done, as the lair had been found. "And now I
 shall try," said he, "what sort of play we <span
-id="fr_9"></span>[\*](#fn_9) namesakes shall have together." Grettir
+id="fr_9"></span>[\*](#fn_9.md) namesakes shall have together." Grettir
 made as if he knew not what Biorn said on this matter.
 
 Now it happened always when men went to sleep anights that Biorn
@@ -170,9 +170,9 @@ were here that winter through.
 
 ### Footnotes
 
-<span id="fn_9"></span>[63:\*](gre26.htm#fr_9) Biorn is Icelandic for
+<span id="fn_9"></span>[63:\*](gre26.htm#fr_9.md) Biorn is Icelandic for
 bear.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXII: Of the Slaying of Biorn](gre27)
+[Next: Chapter XXII: Of the Slaying of Biorn](gre27.md)

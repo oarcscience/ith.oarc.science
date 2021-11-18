@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah08)  [Next](tah10) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah08)  [Next](tah10.md) 
 
 ------------------------------------------------------------------------
 
@@ -270,4 +270,4 @@ customs, and the Persians have theirs, and God knoweth which is best.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI: Concerning Self-Examination And The Recollection Of
-God](tah10)
+God](tah10.md)

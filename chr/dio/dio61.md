@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dio60)  [Next](dio62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dio60)  [Next](dio62.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486434591/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -55,14 +55,14 @@ it imparts first-Light, and is head of all the Divine illuminations, we
 celebrate the true appellation from the enlightening effected. For,
 though it be common to all Hierarchical functions to impart the gift of
 sacred light to those initiated, yet it <span
-id="fr_238"></span>[239](#fn_238) gave to me the power to see first, and
+id="fr_238"></span>[239](#fn_238.md) gave to me the power to see first, and
 through its first light I am enlightened to gaze upon the other
 religious rites. Having said this, let us minutely investigate and
 examine hierarchically the accurate administration and contemplation of
 the most pure initiation, in every particular.
 
 <span id="iv.iii.iii-p3"></span><span id="iv.iii.iii-p3.1"></span>II.
-Mysterion <span id="fr_239"></span>[240](#fn_239) of Synaxis, that is,
+Mysterion <span id="fr_239"></span>[240](#fn_239.md) of Synaxis, that is,
 Communion.
 
 <span id="iv.iii.iii-p4"></span>The Hierarch, having completed a
@@ -79,7 +79,7 @@ remain. Of the Leitourgoi, some stand near the closed gates of the
 sanctuary, whilst others perform some other duty of their own rank. But
 chosen members of the ministering Order with the Priests lay the holy
 Bread and the Cup of Blessing upon the Divine Altar, whilst the
-universal Song <span id="fr_240"></span>[241](#fn_240) of Praise is
+universal Song <span id="fr_240"></span>[241](#fn_240.md) of Praise is
 being professed beforehand by the whole body of the Church. Added to
 these, the Divine Hierarch makes a sacred prayer, and proclaims the holy
 Peace to all. When all have kissed each other, the mystical proclamation
@@ -89,8 +89,8 @@ Divine Altar, and the chosen Deacons alone, with the Priests, stand
 around. The Hierarch, when he has sung the sacred works of God,
 ministers things most divine, and brings to view the things sung,
 through the symbols reverently exposed <span
-id="fr_241"></span>[242](#fn_241) , and when he has shewn the gifts of
-the works of God <span id="fr_242"></span>[243](#fn_242) , he first
+id="fr_241"></span>[242](#fn_241.md) , and when he has shewn the gifts of
+the works of God <span id="fr_242"></span>[243](#fn_242.md) , he first
 proceeds to the sacred participation of the same, and turns and exhorts
 the others. When he has received and distributed the supremely Divine
 Communion, he terminates with a holy thanksgiving; whilst the multitude
@@ -119,7 +119,7 @@ character, as having a fellowship in food, and recalls to their memory
 the most Divine Supper, and arch-symbol of the rites performed,
 agreeably with which the Founder of the symbols Himself excludes, most
 justly, him who had supped with Him on the holy things, not
-piously <span id="fr_243"></span>[244](#fn_243) and in a manner suitable
+piously <span id="fr_243"></span>[244](#fn_243.md) and in a manner suitable
 to his character; teaching at once, clearly <span id="page_92">p.
 92</span> <span id="iv.iii.iii-Page_92"></span>and Divinely, that the
 approach to Divine mysteries with a sincere mind confers, on those who
@@ -165,7 +165,7 @@ proper headship without diminution, and, when he has made the
 intellectual entry of himself to the One, he sees clearly the uniform
 *raisons d’être* of the things done, as he makes the goal of his
 philanthropic progress to things secondary the more Divine <span
-id="fr_244"></span>[245](#fn_244) return to things primary.
+id="fr_244"></span>[245](#fn_244.md) return to things primary.
 
 <span id="iv.iii.iii-p12"></span>Section IV.
 
@@ -200,14 +200,14 @@ the holy Hymns has harmonized the habits of our souls to the things
 which are presently to be ministered, and, by the unison of the Divine
 Odes, as one and concordant chorus of holy men, has established an
 accord with things Divine, and themselves <span
-id="fr_245"></span>[246](#fn_245) , and one another, the things, more
+id="fr_245"></span>[246](#fn_245.md) , and one another, the things, more
 strained and obscure in the intellectual language of the mystic Psalms,
 are expanded by the most holy lections of the inspired writings, through
 more full and distinct images and narratives. He, who devoutly
 contemplates these, will perceive the uniform and one conspiration, as
 being moved by One, the supremely Divine Spirit. Hence, naturally, in
 the history of the world, after the more ancient <span
-id="fr_246"></span>[247](#fn_246) tradition, the new Covenant is
+id="fr_246"></span>[247](#fn_246.md) tradition, the new Covenant is
 proclaimed; the inspired and Hierarchical order teaching this, as I
 think, that the one affirmed the Divine works of Jesus, as to come; but
 the other accomplished; and as that described the truth in figures, this
@@ -236,7 +236,7 @@ measure, and proportion, and due time. The lowest rank, then, is
 assigned to the catechumens, for they are without participation and
 instruction in every Hierarchical initiation, not even having the being
 in God by Divine Birth, but are yet being brought to <span
-id="fr_247"></span>[248](#fn_247) Birth by the Paternal Oracles, and
+id="fr_247"></span>[248](#fn_247.md) Birth by the Paternal Oracles, and
 moulded, by life-giving formations, towards the blessed introduction to
 their first life and first light from Birth in God. As, then, children
 after the flesh, if, whilst immature and unformed, they should
@@ -280,7 +280,7 @@ passionless and indomitableness of his own character, will be seen also
 a physician to others, for such "possessions" as these; (and *I* think
 further, yea, rather, I know certainly that the most impartial
 discrimination of Hierarchical persons knows more than they <span
-id="fr_248"></span>[249](#fn_248) , that such as are possessed with a
+id="fr_248"></span>[249](#fn_248.md) , that such as are possessed with a
 most detestable possession, by departing from the Godlike life, become
 of one mind and one condition with destructive demons, by turning
 themselves from things that really are, and undying possessions, and
@@ -317,21 +317,21 @@ excluded from the divine temple and the service which is too high for
 them, the all-holy ministers and loving contemplators of things
 all-holy, gazing reverently upon the most pure rite, <span
 id="page_100">p. 100</span> <span id="iv.iii.iii-Page_100"></span>sing
-in an universal Hymn of Praise <span id="fr_249"></span>[250](#fn_249)
+in an universal Hymn of Praise <span id="fr_249"></span>[250](#fn_249.md)
 the Author and Giver of all good, from Whom the saving mystic Rites were
 exhibited to us, which divinely work the sacred deification of those
 being initiated. Now this Hymn some indeed call a Hymn of Praise,
 others, the symbol of worship, but others, as I think, more divinely, a
 Hierarchical thanksgiving, as giving a summary of the holy gifts which
 come to us from God. For, it seems to me the record <span
-id="fr_250"></span>[251](#fn_250) of all the works of God related to
+id="fr_250"></span>[251](#fn_250.md) of all the works of God related to
 have been done for us in song, which, after it had benevolently fixed
 our being and life, and moulded the Divine likeness in ourselves to
 beautiful archetypes, and placed us in participation of a more Divine
 condition and elevation; but when it beheld the dearth of Divine gifts,
 which came upon us by our heedlessness, is declared to have called us
 back to our first condition, by goods restored, and by the complete
-assumption <span id="fr_251"></span>[252](#fn_251) of what was ours, to
+assumption <span id="fr_251"></span>[252](#fn_251.md) of what was ours, to
 have made good the most perfect impartation of His own, and thus tp have
 given to us a participation in God and Divine things.
 
@@ -357,7 +357,7 @@ life holily, and have reached the term of a virtuous life without
 faltering, urging and conducting us to their blessed condition and
 Divine repose, through similarity to them, and, announcing them as
 living, and, as the Word of God says, "not dead, but as having passed
-from death to a most divine life <span id="fr_252"></span>[253](#fn_252)
+from death to a most divine life <span id="fr_252"></span>[253](#fn_252.md)
 ."
 
 <span id="iv.iii.iii-p23"></span>Section IX.
@@ -392,7 +392,7 @@ fulness and completeness of the Divine Likeness. <span id="page_103">p.
 
 <span id="iv.iii.iii-p26"></span>There was indeed the sacred laver, as
 we have said, in the Hierarchy of the Law <span
-id="fr_253"></span>[254](#fn_253) ; and the present cleansing of the
+id="fr_253"></span>[254](#fn_253.md) ; and the present cleansing of the
 hands of the Hierarch and the Priests suggests it. For it behoves those
 who approach the most hallowed service to be purified even to the
 remotest imaginations of the soul, through likeness to it, and, as far
@@ -407,7 +407,7 @@ established under His all-surveying scrutiny, and most just and
 unflinching judgment, the Hierarch thus becomes one with the things
 Divine, and, when he has extolled the holy works of God, he ministers
 things most Divine, and brings to view the things being sung <span
-id="fr_254"></span>[255](#fn_254) .
+id="fr_254"></span>[255](#fn_254.md) .
 
 <span id="iv.iii.iii-p27"></span>Section XI.
 
@@ -421,7 +421,7 @@ these we will declare, as far as attainable to us, invoking the
 Hierarchical inspiration to our aid. When, in the beginning, our human
 nature had thoughtlessly fallen from the good things of God, it
 received, by inheritance, the life subject to many passions, and the
-goal of the destructive death <span id="fr_255"></span>[256](#fn_255) .
+goal of the destructive death <span id="fr_255"></span>[256](#fn_255.md) .
 For, as a natural consequence, the pernicious falling away from genuine
 goodness and the transgression of the sacred Law in Paradise delivered
 the man fretted with the life-giving yoke, to his own downward
@@ -454,7 +454,7 @@ righteousness."
 benevolently changed to the entire contrary. For the lightless within
 Our mind It filled with blessed and most Divine Light, and adorned the
 formless with Godlike beauties; the tabernacle <span
-id="fr_256"></span>[257](#fn_256) of our soul It liberated from most
+id="fr_256"></span>[257](#fn_256.md) of our soul It liberated from most
 damnable passions and destructive stains by a perfected deliverance of
 our being which was all but prostrate, by shewing to us a supermundane
 elevation, and an inspired polity in our religious assimilation to
@@ -479,7 +479,7 @@ from God. Whence after the holy hymns of the works of God, he piously
 and, as becomes a hierarch, deprecates his own unworthiness for a
 service above his merits, first, reverently crying aloud to Him, "Thou
 hast said, This do for My remembrance." Then, <span
-id="fr_257"></span>[258](#fn_257) having asked to become meet for this
+id="fr_257"></span>[258](#fn_257.md) having asked to become meet for this
 the God-imitating of service, and to consecrate things Divine by the
 assimilation to Christ Himself, and to distribute them altogether
 purely, and that those who shall partake of things holy may receive them
@@ -566,81 +566,81 @@ id="page_110">p. 110</span> <span id="iv.iii.iii-Page_110"></span>
 
 ### Footnotes
 
-<span id="fn_238"></span>[89:239](dio61.htm#fr_238) <span
+<span id="fn_238"></span>[89:239](dio61.htm#fr_238.md) <span
 id="iv.iii.iii-p2.1"></span>Baptism, Ap. C. lib. 3, c. 16.
 
-<span id="fn_239"></span>[89:240](dio61.htm#fr_239) <span
+<span id="fn_239"></span>[89:240](dio61.htm#fr_239.md) <span
 id="iv.iii.iii-p3.2"></span>See Traicté de la Liturgie ou S. Messe selon
 l’usage et la forme des apostres, et de leur disciple Sainct Denys,
 Apostre des François, par. Gilb. Genebrard, archevesque d’Aix.
 
-<span id="fn_240"></span>[90:241](dio61.htm#fr_240) <span
+<span id="fn_240"></span>[90:241](dio61.htm#fr_240.md) <span
 id="iv.iii.iii-p4.1"></span>Ap. C. lib. 8, s. 12, Lit. of Dionysius, p.
 189.
 
-<span id="fn_241"></span>[90:242](dio61.htm#fr_241) <span
+<span id="fn_241"></span>[90:242](dio61.htm#fr_241.md) <span
 id="iv.iii.iii-p4.2"></span>As in Denmark.
 
-<span id="fn_242"></span>[90:243](dio61.htm#fr_242) <span
+<span id="fn_242"></span>[90:243](dio61.htm#fr_242.md) <span
 id="iv.iii.iii-p4.3"></span><span
 id="iv.iii.iii-p4.4"></span>θεουργίων--Divine Mysteries?
 
-<span id="fn_243"></span>[91:244](dio61.htm#fr_243) <span
+<span id="fn_243"></span>[91:244](dio61.htm#fr_243.md) <span
 id="iv.iii.iii-p7.1"></span><span id="iv.iii.iii-p7.2"></span>[John
-xiii. 11](../../bib/kjv/joh013.htm#011)<span
+xiii. 11](../../bib/kjv/joh013.htm#011.md)<span
 id="iv.iii.iii-p7.2"></span>. St. Cyprian thought Judas was excluded;
 St. Augustine not. See Cornelius a Lapide on <span
 id="iv.iii.iii-p7.3"></span>[John xiii.
-11](../../bib/kjv/joh013.htm#011)<span id="iv.iii.iii-p7.3"></span> Ap.
+11](../../bib/kjv/joh013.htm#011.md)<span id="iv.iii.iii-p7.3"></span> Ap.
 C. S, s. 14.
 
-<span id="fn_244"></span>[93:245](dio61.htm#fr_244) <span
+<span id="fn_244"></span>[93:245](dio61.htm#fr_244.md) <span
 id="iv.iii.iii-p11.1"></span>Hieracles, p. 41.
 
-<span id="fn_245"></span>[95:246](dio61.htm#fr_245) <span
+<span id="fn_245"></span>[95:246](dio61.htm#fr_245.md) <span
 id="iv.iii.iii-p15.1"></span>Republic, lib. iv. ad finem. Dulac, p.
 426-7.
 
-<span id="fn_246"></span>[95:247](dio61.htm#fr_246) <span
+<span id="fn_246"></span>[95:247](dio61.htm#fr_246.md) <span
 id="iv.iii.iii-p15.2"></span>The Law and the Prophets.
 
-<span id="fn_247"></span>[96:248](dio61.htm#fr_247) <span
+<span id="fn_247"></span>[96:248](dio61.htm#fr_247.md) <span
 id="iv.iii.iii-p18.1"></span>See Plato, Thet. i. 114, 115. Dulac, 429.
 
-<span id="fn_248"></span>[98:249](dio61.htm#fr_248) <span
+<span id="fn_248"></span>[98:249](dio61.htm#fr_248.md) <span
 id="iv.iii.iii-p20.1"></span>The energoumenoi.
 
-<span id="fn_249"></span>[100:250](dio61.htm#fr_249) <span
+<span id="fn_249"></span>[100:250](dio61.htm#fr_249.md) <span
 id="iv.iii.iii-p20.2"></span>The whole Psalter is said in Liturgy of St.
 James before celebration.
 
-<span id="fn_250"></span>[100:251](dio61.htm#fr_250) <span
+<span id="fn_250"></span>[100:251](dio61.htm#fr_250.md) <span
 id="iv.iii.iii-p20.3"></span>Liturgy of Dionysius, p. 191.
 
-<span id="fn_251"></span>[100:252](dio61.htm#fr_251) <span
+<span id="fn_251"></span>[100:252](dio61.htm#fr_251.md) <span
 id="iv.iii.iii-p20.4"></span>Incarnation.
 
-<span id="fn_252"></span>[101:253](dio61.htm#fr_252) <span
+<span id="fn_252"></span>[101:253](dio61.htm#fr_252.md) <span
 id="iv.iii.iii-p22.1"></span><span id="iv.iii.iii-p22.2"></span>[1John
-3:14](../../bib/kjv/jo1003.htm#014)<span id="iv.iii.iii-p22.2"></span>.
+3:14](../../bib/kjv/jo1003.htm#014.md)<span id="iv.iii.iii-p22.2"></span>.
 
-<span id="fn_253"></span>[103:254](dio61.htm#fr_253) <span
+<span id="fn_253"></span>[103:254](dio61.htm#fr_253.md) <span
 id="iv.iii.iii-p26.1"></span><span id="iv.iii.iii-p26.2"></span>[Deut.
-xxi. 6](../../bib/kjv/deu021.htm#006)<span
+xxi. 6](../../bib/kjv/deu021.htm#006.md)<span
 id="iv.iii.iii-p26.2"></span>.
 
-<span id="fn_254"></span>[103:255](dio61.htm#fr_254) <span
+<span id="fn_254"></span>[103:255](dio61.htm#fr_254.md) <span
 id="iv.iii.iii-p26.3"></span>As is the use in Denmark.
 
-<span id="fn_255"></span>[104:256](dio61.htm#fr_255) <span
+<span id="fn_255"></span>[104:256](dio61.htm#fr_255.md) <span
 id="iv.iii.iii-p28.1"></span>The Fall.
 
-<span id="fn_256"></span>[105:257](dio61.htm#fr_256) <span
+<span id="fn_256"></span>[105:257](dio61.htm#fr_256.md) <span
 id="iv.iii.iii-p29.1"></span>Plato, Crat. i. 295.
 
-<span id="fn_257"></span>[106:258](dio61.htm#fr_257) <span
+<span id="fn_257"></span>[106:258](dio61.htm#fr_257.md) <span
 id="iv.iii.iii-p31.1"></span>Prayer of humble access.
 
 ------------------------------------------------------------------------
 
-[Next: Caput IV.](dio62)
+[Next: Caput IV.](dio62.md)

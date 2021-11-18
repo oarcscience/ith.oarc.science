@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob02) 
-[Next](tob04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob02.md) 
+[Next](tob04.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ causes, which it is important to enumerate.
 Amongst the ancients, knowledge was only transmitted to men whose worth
 had been proved by a series of tests. This transmittal took place in the
 temples, under the name of *mysteries*, and the adept assumed the title
-of *priest* or *Initiate*. <span id="fr_0"></span>[1](#fn_0) This
+of *priest* or *Initiate*. <span id="fr_0"></span>[1](#fn_0.md) This
 science was therefore secret or occult, and thus originated the name of
 *occult science*, given by our contemporaries to the ancient synthesis.
 
@@ -157,7 +157,7 @@ marvellous from this point of view, for it contains all the occult
 traditions, although its true sense has never yet been revealed. Fabre
 d'Olivet commenced this prodigious work, but the ignorant descendants of
 the Inquisition at Rome have placed these studies on the list of those
-prohibited. <span id="fr_1"></span>[1](#fn_1) Posterity will judge them.
+prohibited. <span id="fr_1"></span>[1](#fn_1.md) Posterity will judge them.
 
 Yet every cultus has its tradition, its book, its Bible, which teach
 those who know how to read them the unity of all creeds, in spite of the
@@ -229,18 +229,18 @@ We must admire the wisdom of the Initiates, who utilized vice and made
 it produce more beneficial results than virtue.
 
 The Gypsy pack of cards is a wonderful book according to Court de
-Gébelin <span id="fr_2"></span>[1](#fn_2) and Vaillant. <span
-id="fr_3"></span>[2](#fn_3) This pack, under the name of TAROT, <span
-id="fr_4"></span>[3](#fn_4) THORA, <span id="fr_5"></span>[4](#fn_5)
-ROTA, <span id="fr_6"></span>[5](#fn_6) has formed the basis of the
+Gébelin <span id="fr_2"></span>[1](#fn_2.md) and Vaillant. <span
+id="fr_3"></span>[2](#fn_3.md) This pack, under the name of TAROT, <span
+id="fr_4"></span>[3](#fn_4) THORA, <span id="fr_5"></span>[4](#fn_5.md)
+ROTA, <span id="fr_6"></span>[5](#fn_6.md) has formed the basis of the
 synthetic teachings of all the ancient nations successively. <span
-id="fr_7"></span>[6](#fn_7)
+id="fr_7"></span>[6](#fn_7.md)
 
 In it, where a man of the people only sees a means of amusement, the
 thinker will find the key to an obscure tradition. Raymond Lulle has
 based his *Ars Magna* upon the Tarot; Jerome Cardan has written a
 treatise upon subtility from the keys of the Tarot; <span
-id="fr_8"></span>[7](#fn_8) Guillaume Postel has found in it the key to
+id="fr_8"></span>[7](#fn_8.md) Guillaume Postel has found in it the key to
 the ancient mysteries; whilst Louis-Claude de Saint-Martin, the unknown
 
 <span id="page_10">p. 10</span>
@@ -360,30 +360,30 @@ from whom all the others emanate throughout Eternity!
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:1](tob03.htm#fr_0) See Jamblichus, Porphyry,
+<span id="fn_0"></span>[4:1](tob03.htm#fr_0.md) See Jamblichus, Porphyry,
 and Apuleius.
 
-<span id="fn_1"></span>[7:1](tob03.htm#fr_1) See Fabre d'Olivet, *La
+<span id="fn_1"></span>[7:1](tob03.htm#fr_1.md) See Fabre d'Olivet, *La
 Langue Hébraïque Restituée*.
 
-<span id="fn_2"></span>[9:1](tob03.htm#fr_2) Court de Gébelin.--*Le
+<span id="fn_2"></span>[9:1](tob03.htm#fr_2.md) Court de Gébelin.--*Le
 Monde Primitif*.
 
-<span id="fn_3"></span>[9:2](tob03.htm#fr_3) Vaillant.--*Les Rômes,
+<span id="fn_3"></span>[9:2](tob03.htm#fr_3.md) Vaillant.--*Les Rômes,
 Histoire des Bohémiens*.
 
-<span id="fn_4"></span>[9:3](tob03.htm#fr_4) Eliphas Levi.--*Rituel de
+<span id="fn_4"></span>[9:3](tob03.htm#fr_4.md) Eliphas Levi.--*Rituel de
 la Haute Magie*.
 
-<span id="fn_5"></span>[9:4](tob03.htm#fr_5) Vaillant.--*Op. cit*.
+<span id="fn_5"></span>[9:4](tob03.htm#fr_5.md) Vaillant.--*Op. cit*.
 
-<span id="fn_6"></span>[9:5](tob03.htm#fr_6) Guillaume
+<span id="fn_6"></span>[9:5](tob03.htm#fr_6.md) Guillaume
 Postel.--*Clavis*.
 
-<span id="fn_7"></span>[9:6](tob03.htm#fr_7) Vaillant.--*Loc. cit*.
+<span id="fn_7"></span>[9:6](tob03.htm#fr_7.md) Vaillant.--*Loc. cit*.
 
-<span id="fn_8"></span>[9:7](tob03.htm#fr_8) Eliphas Levi.--*Op. cit*.
+<span id="fn_8"></span>[9:7](tob03.htm#fr_8.md) Eliphas Levi.--*Op. cit*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The Sacred Word Yod-He-Vau-He](tob04)
+[Next: Chapter II. The Sacred Word Yod-He-Vau-He](tob04.md)

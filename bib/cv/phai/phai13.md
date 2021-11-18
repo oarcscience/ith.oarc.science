@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai12) 
-[Next](phai14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai12.md) 
+[Next](phai14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -40,7 +40,7 @@ not for the whole of it, since it is commonly recognised that the
 Sinaitic Book of the Covenant (Exod. xx.-xxiii. 19) was given to a
 people who were settled and thoroughly accustomed to agriculture, and
 who, moreover, had passed somewhat beyond the earliest stage in the use
-of money. <span id="fr_218"></span>[1](#fn_218)
+of money. <span id="fr_218"></span>[1](#fn_218.md)
 
 The Decalogue alone is commonly maintained to be in the strictest sense
 Mosaic. This is principally on account of the statement that it was
@@ -57,7 +57,7 @@ that it occurs in a passage which has undergone the Deuteronomistic
 revision, and has been, in addition to this, subjected to interpolation.
 The more weight must we therefore allow to the circumstance, which makes
 for a different conclusion, that the name "The Ark of the Covenant"
-(*i.e.*, the box of the law) <span id="fr_219"></span>[1](#fn_219) is
+(*i.e.*, the box of the law) <span id="fr_219"></span>[1](#fn_219.md) is
 peculiar to the later writers, and, when it occurs in older narratives,
 is proved by its sporadic appearance, as well as by a comparison of the
 Septuagint with the Massoretic text, to be a correction. In early times
@@ -123,13 +123,13 @@ soothsayers." Now we know that the priests in the days of Saul and David
 gave divine oracles by the ephod and the lots connected with it, which
 answered one way or the other to a question put in an alternative form.
 Their Torah grew no doubt out of this practice. <span
-id="fr_220"></span>[1](#fn_220) The Urim and Thummim are regarded,
+id="fr_220"></span>[1](#fn_220.md) The Urim and Thummim are regarded,
 according to Deut. xxxiii. 8, as the true and universal insignia of the
 priesthood; the ephod is last mentioned in the historical
 
 <span id="page_395">p. 395</span>
 
-books in 1 Kings ii. 26, <span id="fr_221"></span>[1](#fn_221) but
+books in 1 Kings ii. 26, <span id="fr_221"></span>[1](#fn_221.md) but
 appears to have remained in use down to the time of Isaiah (Hos. iii. 4;
 Isa. xxx. 22). The Torah freed itself in the process of time, following
 the general mental movement, from such heathenish media and vehicles
@@ -246,7 +246,7 @@ essential to them: they observe and keep the torah (Deut. xxxiii. 9).
 For this reason, that they take their stand so entirely on the
 tradition, and depend on it, their claim to have Moses for their father,
 the beginner and founder of their tradition, is in itself the better
-founded of the two. <span id="fr_222"></span>[1](#fn_222) In the
+founded of the two. <span id="fr_222"></span>[1](#fn_222.md) In the
 ordinary parlance of the Hebrews torah always meant first, and
 
 <span id="page_398">p. 398</span>
@@ -372,7 +372,7 @@ received. This is to be done both in Israel and among the heathen. What
 makes Israel a prophet is not his own inner qualities, but his relation
 to Jehovah, his calling as the depository of divine truth: hence it
 involves no contradiction that the servant should begin his work in
-Israel itself. <span id="fr_223"></span>[1](#fn_223) Till now he has
+Israel itself. <span id="fr_223"></span>[1](#fn_223.md) Till now he has
 
 <span id="page_401">p. 401</span>
 
@@ -407,7 +407,7 @@ the revelation of God made a people. The similarity of their nature and
 their significance involves the similarity of their work and of their
 sufferings, so that the Messianic interpretation of Isa. lii. 13-liii.
 12 is in fact one which could not fail to suggest itself. <span
-id="fr_224"></span>[1](#fn_224)
+id="fr_224"></span>[1](#fn_224.md)
 
 <span id="page_402">p. 402</span>
 
@@ -427,7 +427,7 @@ from them not only by its greater compass but also by its much higher
 claims. It is written with the distinct intention not to remain a
 private memorandum, but to obtain public authority as a *book*. The idea
 of making a definite formulated written Torah the law of the land, is
-the important point: <span id="fr_225"></span>[1](#fn_225) it was a
+the important point: <span id="fr_225"></span>[1](#fn_225.md) it was a
 first attempt and succeeded at the outset beyond expectation. A reaction
 set in afterwards, it is true; but the Babylonian exile completed the
 triumph of the law. Extraordinary excitement was at that time followed
@@ -454,7 +454,7 @@ grow up beside the wheat. The signs given in Deuteronomy to distinguish
 the true from the false prophet, are no doubt vague and unpractical:
 still they show the tendency towards control and the introduction of
 uniformity; that is the great step which is new. <span
-id="fr_226"></span>[1](#fn_226) It certainly was not the intention of
+id="fr_226"></span>[1](#fn_226.md) It certainly was not the intention of
 the legislator to encroach upon the spoken Torah or the free word. But
 the consequence, favoured by outward circumstances, was not to be
 avoided: the feeling that the prophets had come to an end did not arise
@@ -465,7 +465,7 @@ Israel (Isa. lxiii. 11); in Nehemiah's time a doubtful question is left
 unsettled, at least theoretically, till the priest with Urim and
 Thummim, *i.e.*, with a trustworthy prophecy, shall appear (Neh. vii.
 69). We may call Jeremiah the last of the prophets: <span
-id="fr_227"></span>[2](#fn_227) those who came after him were prophets
+id="fr_227"></span>[2](#fn_227.md) those who came after him were prophets
 only in name. Ezekiel had swallowed a book (iii. 1-3), and gave it out
 again. He also, like Zechariah, calls the pre-exilic prophets the old
 prophets, conscious that he himself belongs to the epigoni: he meditates
@@ -500,7 +500,7 @@ worship interrupted, and the practice of past times had to be written
 down if it was not to be lost. Thus it came about that in the exile the
 *conduct of worship* became the subject of the Torah, and in this
 process reformation was naturally aimed at as well as restoration. We
-have seen ([p. 59](phai05.htm#page_59)) that Ezekiel was the first to
+have seen ([p. 59](phai05.htm#page_59).md) that Ezekiel was the first to
 take this step which the circumstances of the time indicated. In the
 last part of his work he made the first attempt to record the ritual
 which had been customary in the temple of Jerusalem. Other priests
@@ -525,7 +525,7 @@ to an age which was bent on nothing but repristination. Granted that
 this is a correct description of it, such an age is peculiarly fitted
 for an artificial systematising of given materials, and this is what the
 originality of the Priestly Code in substance amounts to. <span
-id="fr_228"></span>[1](#fn_228)
+id="fr_228"></span>[1](#fn_228.md)
 
 The Priestly Code, worked into the Pentateuch as the standard
 legislative element in it, became the definite "Mosaic law." As such it
@@ -558,12 +558,12 @@ the commission of the Persian king to Ezra, vii. 12-26; which, even
 should it be spurious, must yet reflect the views of his contemporaries.
 The expression taken from Ezra's own memoirs, vii. 27, leaves no doubt
 that he was assisted by Artaxerxes in the objects he had in view. <span
-id="fr_229"></span>[1](#fn_229)
+id="fr_229"></span>[1](#fn_229.md)
 
 But Ezra did not, as we should expect, at once introduce the law on his
 arrival in Judah. In concert with the heads of the people, and
 proceeding on the existing Torah, that, namely, of
-[Deuteronomy](errata.htm#3), he ordained and relentlessly carried out a
+[Deuteronomy](errata.htm#3.md), he ordained and relentlessly carried out a
 strict separation of the returned exiles from the heathen and
 half-heathen inhabitants of the land. This was done a few months after
 his arrival in Jerusalem. But a long time, at least fourteen years,
@@ -618,7 +618,7 @@ month, the month then just beginning. The matter was taken up with the
 greatest zeal, and the festival, which had not been kept *rite* since
 the days of Joshua ben Nun, was now instituted in accordance with the
 precepts of Leviticus xxiii. and celebrated with general enthusiasm from
-the 15th to the 22nd of the month. <span id="fr_230"></span>[1](#fn_230)
+the 15th to the 22nd of the month. <span id="fr_230"></span>[1](#fn_230.md)
 On the 24th, however, a great day of humiliation was held, with
 sackcloth and ashes. On this occasion also the proceedings began with
 reading the law, and then followed a confession of sins spoken by the
@@ -638,12 +638,12 @@ immediate importance for the people in the circumstances of the day—the
 greater part of the whole work is about the ritual of the priests—and
 those were in particular insisted on which refer to the contributions of
 the laity to the priesthood, on which the very existence of the
-hierocracy depended. <span id="fr_231"></span>[1](#fn_231)
+hierocracy depended. <span id="fr_231"></span>[1](#fn_231.md)
 
 Lagarde expresses great surprise—and the surprise is reasonable—that so
 little importance is attributed to this narrative by Old Testament
 critics; only Kuenen had rightly appreciated its significance.  <span
-id="fr_232"></span>[2](#fn_232) It is obvious that Neh. viii.-x. is a
+id="fr_232"></span>[2](#fn_232.md) It is obvious that Neh. viii.-x. is a
 close parallel to 2 Kings xxii. xxiii., especially to xxiii. 1-3. There
 we read that Josiah caused all the elders of Judah and Jerusalem to come
 together, and went up with the men of Judah and the inhabitants of
@@ -669,7 +669,7 @@ codification of the ritual only
 
 took place in the post-exile period. We have already seen of what nature
 the internal evidence is which is brought forward with this view. <span
-id="fr_233"></span>[1](#fn_233)
+id="fr_233"></span>[1](#fn_233.md)
 
 3\. Ezra and Nehemiah, and the eighty-five men of the great assembly
 (Nehemiah viii. seq.), who are named as signatories of the covenant, are
@@ -719,10 +719,10 @@ cisterns.
 
 ### Footnotes
 
-<span id="fn_218"></span>[392:1](phai13.htm#fr_218) Exod. xxi. 35:
+<span id="fn_218"></span>[392:1](phai13.htm#fr_218.md) Exod. xxi. 35:
 compare xxi. 33 with Judges ix. 4.
 
-<span id="fn_219"></span>[393:1](phai13.htm#fr_219) Compare 1 Kings
+<span id="fn_219"></span>[393:1](phai13.htm#fr_219.md) Compare 1 Kings
 viii. 21, "the ark wherein is the covenant of Jehovah," and viii 9,
 "there was nothing in the ark save the two tables of stone, which Moses
 put there at Horeb, the tables of the covenant which Jehovah had made
@@ -731,7 +731,7 @@ the covenant", alternates in the Priestly Code with that of "tables of
 testimony"; i e., likewise of the law. For ‏הערות‎, "the testimony," 2
 Kings xi. 12, read ‏הצעדות‎, "the bracelets," according to 2 Sam. i. 10.
 
-<span id="fn_220"></span>[394:1](phai13.htm#fr_220) 1 Sam. xiv. xxiii.
+<span id="fn_220"></span>[394:1](phai13.htm#fr_220.md) 1 Sam. xiv. xxiii.
 xxx. In connection with 1 Sam. xxxi. 3 I have conjectured that the verb
 of which Torah is the abstract means originally to throw the lot-arrows.
 The Thummim have been compared in the most felicitous way by Freytag,
@@ -741,10 +741,10 @@ means of "averruncatio". Urim is probably connected with ‏ערר‎ "to
 curse" (cf. *Iliad* i. 11 and Num. xxiii. 23): the two words of the
 formula seem mutually to supplement each other.
 
-<span id="fn_221"></span>[395:1](phai13.htm#fr_221) Bleek, *Einleitung
+<span id="fn_221"></span>[395:1](phai13.htm#fr_221.md) Bleek, *Einleitung
 in das A. T.*, 1878, p. 642.
 
-<span id="fn_222"></span>[397:1](phai13.htm#fr_222) It is also more
+<span id="fn_222"></span>[397:1](phai13.htm#fr_222.md) It is also more
 firmly rooted in history; for if Moses did anything at all, he certainly
 founded the sanctuary at Kadesh and the torah there, which the priests
 of the ark carried on after him, thus continuing the thread of the
@@ -754,13 +754,13 @@ onwards, but the seers were older than Moses, and can scarcely have had
 such a close connection with his tradition as the priests at the
 sanctuary of the ark of Jehovah.
 
-<span id="fn_223"></span>[400:1](phai13.htm#fr_223) This is as if one
+<span id="fn_223"></span>[400:1](phai13.htm#fr_223.md) This is as if one
 were to say that there is much to be done before we Evangelicals are
 truly evangelical. Yet the distinction as worked out in Isaiah xl. seq.
 is certainly very remarkable, and speaks for a surprising degree of
 profound meditation.
 
-<span id="fn_224"></span>[401:1](phai13.htm#fr_224) The personification
+<span id="fn_224"></span>[401:1](phai13.htm#fr_224.md) The personification
 is carried further in this passage than anywhere else, and it is
 possible that the colours of the sketch are borrowed from some actual
 instance of a prophet-martyr: yet the Ebed Jahve cannot have a different
@@ -774,10 +774,10 @@ idea. Moreover, it is clear that liv. 1-lvi. 8 is a kind of sermon on
 the text lii. 13-liii. 12; and there the prophecy of the glorification
 of the servant has reference to Zion. See Vatke, p. 528 seq.
 
-<span id="fn_225"></span>[402:1](phai13.htm#fr_225) Duhm, *op. cit.* p.
+<span id="fn_225"></span>[402:1](phai13.htm#fr_225.md) Duhm, *op. cit.* p.
 201.
 
-<span id="fn_226"></span>[403:1](phai13.htm#fr_226) The difference
+<span id="fn_226"></span>[403:1](phai13.htm#fr_226.md) The difference
 between Deut. xviii. 22 and 1 Kings xxii. 19-23 may be thought to throw
 light on the two positions. In the former passage we read that if a
 prophet says something in the name of Jehovah which does not come to
@@ -800,14 +800,14 @@ statutes by which they could not live. That is a similar ingenious
 escape from a difficulty, without deeper meaning. See the converse,
 Koran, Sura ii. 174.
 
-<span id="fn_227"></span>[403:2](phai13.htm#fr_227) In his early years
+<span id="fn_227"></span>[403:2](phai13.htm#fr_227.md) In his early years
 Jeremiah had a share in the introduction of the law: but in later times
 he shows himself little edified by the effects it produced: the lying
 pen of the scribes, he says, has written for a lie. People despised the
 prophetic word because they had the Torah in black and white (viii.
 7-9).
 
-<span id="fn_228"></span>[405:1](phai13.htm#fr_228) Dillmann arrives at
+<span id="fn_228"></span>[405:1](phai13.htm#fr_228.md) Dillmann arrives at
 the conclusion that the assumption is the most natural one in the world,
 and still capable of proof from ACD (!) that the priesthood of the
 central sanctuary wrote down their toroth even in early times; and that
@@ -820,7 +820,7 @@ occur, that a body of traditional practice should only be written down
 when it is threatening to die out, and that a book should be, as it
 were, the ghost of a life which is closed.
 
-<span id="fn_229"></span>[406:1](phai13.htm#fr_229) With regard to his
+<span id="fn_229"></span>[406:1](phai13.htm#fr_229.md) With regard to his
 relation to the law, we have to consider the following points: he was a
 scribe (‏סופר‎ = literatus), at home in the Torah of Moses, vii. 6. He
 had directed his mind to study the Torah of Jehovah, and to do and to
@@ -831,10 +831,10 @@ his God was in his hand: thus it was his private property, though it
 claimed authority for all Israel. With this agree the statements as to
 the object of the learned priest's mission.
 
-<span id="fn_230"></span>[407:1](phai13.htm#fr_230) For eight days,
+<span id="fn_230"></span>[407:1](phai13.htm#fr_230.md) For eight days,
 according to Lev. xxiii. 39: as against Deut. xvi. 13-15.
 
-<span id="fn_231"></span>[408:1](phai13.htm#fr_231) Neh. viii. 1-x. 40.
+<span id="fn_231"></span>[408:1](phai13.htm#fr_231.md) Neh. viii. 1-x. 40.
 The credibility of the narrative appears on the face of it. The writer
 of Chronicles did not write it himself, but took it from his main
 source, from which also he drew the fragments he gives us of the memoirs
@@ -844,11 +844,11 @@ viii. (= Ezra iii. 1). That shows that he found Neh. vii. and viii. in
 their present connection, and did not write viii. seq. himself, as we
 might suppose.
 
-<span id="fn_232"></span>[408:2](phai13.htm#fr_232) *Göttinger Gel.
+<span id="fn_232"></span>[408:2](phai13.htm#fr_232.md) *Göttinger Gel.
 Anzeigen*, 1870, p. 1557 seq. Kuenen, *Religion of Israel*, vol. ii.
 chapter viii.
 
-<span id="fn_233"></span>[409:1](phai13.htm#fr_233) It is not, however,
+<span id="fn_233"></span>[409:1](phai13.htm#fr_233.md) It is not, however,
 necessary, and it can scarcely be correct, to make Ezra more than the
 editor, the real and principal editor, of the Hexateuch: and in
 particular he is not likely to have been the author of Q. Nor on the
@@ -861,4 +861,4 @@ xxxvi. 5), or about the stoning of adulterers.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Theocracy as Idea and as Institution.](phai14)
+[Next: Chapter XI. The Theocracy as Idea and as Institution.](phai14.md)

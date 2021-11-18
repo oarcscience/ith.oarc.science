@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac05)  [Next](ybac07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac05)  [Next](ybac07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -20,7 +20,7 @@ Gates, \[1937\], at Intangible Textual Heritage
 This province is called in the language of the Indians **Ulumil cuz
 yetel ceh**, meaning 'the land of the turkey and the deer.' It is also
 called **Petén**, meaning 'island,' an error arising from the gulfs and
-bays we have spoken of. <span id="fr_2"></span>[†](#fn_2)
+bays we have spoken of. <span id="fr_2"></span>[†](#fn_2.md)
 
 When Francisco Hernández de Córdoba came to this country and landed at
 the point he called Cape Cotoch, he met certain Indian fisherfolk whom
@@ -28,7 +28,7 @@ he asked what country this was, and who answered **Cotoch**, which means
 'our houses, our homeland,' for which reason he gave that name to the
 cape. When he then by signs asked them how the land was theirs, they
 replied **Ci uthan**, meaning 'they say it,' <span
-id="fr_3"></span>[‡](#fn_3) and from that the Spaniards gave the name
+id="fr_3"></span>[‡](#fn_3.md) and from that the Spaniards gave the name
 Yucatan. This was learned from one of the early conquerors, Blas
 Hernández, who came here with the admiral on the first occasion.
 
@@ -82,22 +82,22 @@ degree of latitude. Thirteen leagues below Point Cotoch is the Isla de
 las Mugeres, 2 leagues off the coast opposite **Ekab**.
 
 <span id="img_00300"></span> ![ISLA DE LAS MUGERES. Photo by
-Maler](img/00300.jpg)  
+Maler](img/00300.jpg.md)  
 ISLA DE LAS MUGERES. Photo by Maler
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_1"></span>[2:\*](ybac05.htm#fr_1) October 4th.
+<span id="fn_1"></span>[2:\*](ybac05.htm#fr_1.md) October 4th.
 
-<span id="fn_2"></span>[2:†](ybac06.htm#fr_2) **Petén** properly means
+<span id="fn_2"></span>[2:†](ybac06.htm#fr_2.md) **Petén** properly means
 district, region, circuit.
 
-<span id="fn_3"></span>[2:‡](ybac06.htm#fr_3)In common use today in
+<span id="fn_3"></span>[2:‡](ybac06.htm#fr_3.md)In common use today in
 Yucatan, meaning 'he speaks nicely, well.'
 
 ------------------------------------------------------------------------
 
 [Next: III. Captivity of Gerónimo De Aguilar. Expedition of Hernandez De
-Córdoba And Grijalva To Yucatan](ybac07)
+Córdoba And Grijalva To Yucatan](ybac07.md)

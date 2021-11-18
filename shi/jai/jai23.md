@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Index](index)  [Previous](jai22)  [Next](jai24) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Index](index)  [Previous](jai22)  [Next](jai24.md) 
 
 ------------------------------------------------------------------------
 
@@ -628,4 +628,4 @@ ancestors, and outraging the memory of those who gave him life.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](jai24)
+[Next: Appendix](jai24.md)

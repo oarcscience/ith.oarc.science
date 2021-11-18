@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki244)  [Next](liki246) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki244)  [Next](liki246.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,6 +203,6 @@ Lovely and bland, like jade of richest kind."
 ------------------------------------------------------------------------
 
 [Next: XLVI. Sang Fû Sze Kih or The Four Principles Underlying the Dress
-of Mourning](liki246)
+of Mourning](liki246.md)
 
   

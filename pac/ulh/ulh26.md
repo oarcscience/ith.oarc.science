@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh25)  [Next](ulh27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh25)  [Next](ulh27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ on the translation from spirit into matter.
 
 The art of gesture was one of the most important branches taught by the
 kumu. When the hula expert, the *olohe*, who has entered the halau as a
-visitor, utters the prayer ([p. 47](ulh11.htm#page_47)), "O Laka, give
+visitor, utters the prayer ([p. 47](ulh11.htm#page_47).md), "O Laka, give
 grace to the feet of Pohaku, and to her bracelets and anklets; give
 comeliness to the figure and skirt of Luukia. To each one give gesture
 and voice. O Laka, make beautiful the *lei*; inspire the dancers to
@@ -239,7 +239,7 @@ can be learned, were chiefly of feminine practice. The very last
 gesture--that of the protruded tongue--is not mentioned as one likely to
 be employed on the stage in the halau, certainly not in the performance
 of what one would call the serious hulas. But it might well have been
-employed in the hula ki’i (see [p. 91](ulh15.htm#page_91)), which was
+employed in the hula ki’i (see [p. 91](ulh15.htm#page_91).md), which was
 devoted, as we have seen, to the portrayal of the lighter and more comic
 aspects of daily life.
 
@@ -270,7 +270,7 @@ belong rather to the domain of oratory than to that of dramatic or
 
 <span id="img_pl20"></span> <span align="CENTER"> [![PLATE XX&lt;br&gt;
 PHYLLODIA AND TRUE LEAVES OF THE KOA (ACACIA KOA)](tn/pl20.jpg)  
-Click to enlarge](img/pl20.jpg)  
+Click to enlarge](img/pl20.jpg.md)  
 PLATE XX  
 PHYLLODIA AND TRUE LEAVES OF THE KOA (ACACIA KOA)  
 </span>
@@ -339,4 +339,4 @@ stage convention.
 
 ------------------------------------------------------------------------
 
-[Next: XXIII.--The Hula Pa-hua](ulh27)
+[Next: XXIII.--The Hula Pa-hua](ulh27.md)

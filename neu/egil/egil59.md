@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil58)  [Next](egil60) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil58)  [Next](egil60.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ friendship. And Egil sang:
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER LIX. King Eric slays his brothers.](egil60)
+[Next: CHAPTER LIX. King Eric slays his brothers.](egil60.md)

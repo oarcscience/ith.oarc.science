@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo73)  [Next](hoo75) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo73)  [Next](hoo75.md) 
 
 ------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ For ye, I call, with holy, suppliant voice.
 
 ------------------------------------------------------------------------
 
-[Next: LXX: To Melinoe](hoo75)
+[Next: LXX: To Melinoe](hoo75.md)

@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mog09)  [Next](mog11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mog09)  [Next](mog11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0520021630/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ ruined but rivals the best examples of these stately domes at Mycenae.
 Mr. Schliemann made excavations at Orchomenus also. A Bavarian
 expedition took up the work at the beginning of this century and
 discovered important remains from the Mycenaean and the pre-Mycenaean
-ages. <span id="fr_239"></span>[1](#fn_239) Most remarkable and
+ages. <span id="fr_239"></span>[1](#fn_239.md) Most remarkable and
 important are the numerous fragments of painted stucco. They once
 covered the walls of a palace of which no stone is left. Nor has any
 trace of other buildings
@@ -36,18 +36,18 @@ found.
 The most conspicuous architectural monument which the Mycenaean age left
 in Boeotia is, however, the large palace which was erected on the small
 island of Gla in the lake of Copais. <span
-id="fr_240"></span>[2](#fn_240) The area enclosed by the ring-wall is
+id="fr_240"></span>[2](#fn_240.md) The area enclosed by the ring-wall is
 more than ten times as large as the area enclosed at Tiryns, but it
 shows only very slight traces of habitation. Even ceramics and other
 small finds are scarce. The very name of this mighty castle was
 forgotten. It is sometimes supposed to be old Arne, but this
 identification has been contested and is hardly probable. Other
 identifications are not more likely. <span
-id="fr_241"></span>[3](#fn_241) This is a kind of riddle, but one may
+id="fr_241"></span>[3](#fn_241.md) This is a kind of riddle, but one may
 suppose that something happened here like that which seems to have
 happened at Midea, the Mycenaean fortress in Argolis which has the
 largest area of any but plays very little part in myths; <span
-id="fr_242"></span>[4](#fn_242) viz., that the palace was inhabited
+id="fr_242"></span>[4](#fn_242.md) viz., that the palace was inhabited
 
 <span id="page_129">p. 129</span>
 
@@ -61,7 +61,7 @@ lake of Copais. Modern observations prove that the system of ditches
 with stone embankments which was built on the bottom of the lake in
 order to conduct its water to the *katavothra*, is ancient and in all
 probability belongs to Mycenaean times, as ancient tradition
-implies. <span id="fr_243"></span>[5](#fn_243) The immense attempt was
+implies. <span id="fr_243"></span>[5](#fn_243.md) The immense attempt was
 also made to excavate tunnels through the mountains which separate the
 lake from the Euripus, but this work is of a later date.
 
@@ -71,7 +71,7 @@ the myth of the Minyans. Since K. O. Müller more than a hundred years
 ago published his famous book on Orchomenus and the Minyans this tribe
 has loomed very large in the modern conception of Greek mythology.
 Criticism has, however, been directed against the mythical importance
-attributed to the Minyans, <span id="fr_244"></span>[6](#fn_244) and it
+attributed to the Minyans, <span id="fr_244"></span>[6](#fn_244.md) and it
 is fair to acknowledge that old mythology has not very much to tell
 about the Minyans. The
 
@@ -92,7 +92,7 @@ is no cycle of myths connected with Orchomenus which in popularity and
 fame can be at all compared with the Theban cycle.
 
 The mythical history of Orchomenus related by Pausanias <span
-id="fr_245"></span>[7](#fn_245) is a mosaic pieced together of
+id="fr_245"></span>[7](#fn_245.md) is a mosaic pieced together of
 incoherent and disparate elements. Of the first two kings, Andreus and
 Eteocles, the former is a mere name, the latter seems to be an old
 figure but has in fact no myth of his own; he belongs to aetiologic
@@ -107,19 +107,19 @@ thirteenth centuries B.C., these identifications of
 <span id="page_131">p. 131</span>
 
 names are extremely questionable and are better left out of
-account. <span id="fr_246"></span>[8](#fn_246)
+account. <span id="fr_246"></span>[8](#fn_246.md)
 
 This is, however, not the whole truth. Homer has two significant
 references to Orchomenus. In the Nekyia it is said that Neleus, the king
 of Pylos, married Chloris, the youngest daughter of the Iaside Amphion,
-the king of Orchomenus; <span id="fr_247"></span>[9](#fn_247) and in
-another passage <span id="fr_248"></span>[10](#fn_248) Orchomenus and
+the king of Orchomenus; <span id="fr_247"></span>[9](#fn_247.md) and in
+another passage <span id="fr_248"></span>[10](#fn_248.md) Orchomenus and
 Thebes in Egypt are mentioned side by side as the richest towns of the
 world. The eleventh book of the Iliad, the embassy to Achilles, in which
 this passage is found, is of course a relatively late poem and many
 scholars take the mention of the Egyptian capital to be a sign of its
 late date, but quite recently the opposite opinion was advanced by Miss
-Lorimer. <span id="fr_249"></span>[11](#fn_249) She remarks that
+Lorimer. <span id="fr_249"></span>[11](#fn_249.md) She remarks that
 Echenaton transferred his capital elsewhere in the first half of the
 fourteenth century B.C. and that Rameses II finally abandoned Thebes as
 the royal residence. She thinks that the raiding
@@ -133,13 +133,13 @@ undeniable probability in this view, and it ought to be added that
 during the reign of the Theban priest-kings the Greeks did not come to
 Egypt--it was the dark intermediate age--and that Thebes was sacked
 thoroughly by the Assyrians in 663 B.C. <span
-id="fr_250"></span>[12](#fn_250) The Greek mercenaries who went to Egypt
+id="fr_250"></span>[12](#fn_250.md) The Greek mercenaries who went to Egypt
 during the reign of the Sait kings in the beginning of the Orientalizing
-period <span id="fr_251"></span>[13](#fn_251) saw a ruined city. The
+period <span id="fr_251"></span>[13](#fn_251.md) saw a ruined city. The
 glory of Thebes was irrevocably past.
 
 A clue to the answer to this delicate question is given by the Egyptian
-objects found in Greece. <span id="fr_252"></span>[14](#fn_252) The
+objects found in Greece. <span id="fr_252"></span>[14](#fn_252.md) The
 great mass belong either to the XVIIIth or to the XXVIth dynasty; a few
 are more indistinctly labeled as belonging to the XXIId-XXVIth
 dynasties. Objects from the intermediate period are scarce and
@@ -177,7 +177,7 @@ Dionysiac myths, which are of no importance for our subject.
 
 The myth of Athamas is on the contrary very important. Athamas is
 believed to be the eponymous hero of the tribe of the Athamanes. <span
-id="fr_253"></span>[15](#fn_253) This tribe had never any importance in
+id="fr_253"></span>[15](#fn_253.md) This tribe had never any importance in
 Greek history; it lived on Mount Pindus and sometime belonged
 
 <span id="page_134">p. 134</span>
@@ -192,11 +192,11 @@ I need not relate the well-known myth of Athamas, his children by
 Nephele, Phrixus and Helle, their stepmother Ino, and their escape from
 the sacrifice, riding on the ram. Happily the elements from which this
 myth was derived are discernible, and what I observed many years
-ago <span id="fr_254"></span>[16](#fn_254) still holds good. The kernel
+ago <span id="fr_254"></span>[16](#fn_254.md) still holds good. The kernel
 of the myth is the sacrifice of a member of the house of Athamas; such a
 rite was practiced at Halus in Thessaly even in historical times. This
 kernel was enlarged and developed in various manners. According to
-another and simpler version, <span id="fr_255"></span>[17](#fn_255)
+another and simpler version, <span id="fr_255"></span>[17](#fn_255.md)
 Athamas himself, not Phrixus was the sacrifice. Drought, failing of the
 crops, and hunger are always given as the causes of this sacrifice, and
 this is consistent with old cult customs which required human sacrifices
@@ -213,19 +213,19 @@ and the procession is in accord with quite a number of
 
 similar customs the aim of which was rain-magic. That the fleece served
 as a means for weather-magic is proved by various known facts. <span
-id="fr_256"></span>[18](#fn_256) Hence we are able to understand the
+id="fr_256"></span>[18](#fn_256.md) Hence we are able to understand the
 curious fact that the Cloud, Nephele, is said to be the wife of Athamas.
 She is the longed for rain-cloud which in another instance of
 weather-magic, people saw rising from the well of Hagno on Mount
-Lykaion. <span id="fr_257"></span>[19](#fn_257)
+Lykaion. <span id="fr_257"></span>[19](#fn_257.md)
 
 The historical sacrifice of the Athamantidae took place at Halus in
 southern Thessaly in the cult of Zeus Laphystius; consequently Athamas
 is said to be at home in Thessaly. Around Halus was the field of
-Athamas, <span id="fr_258"></span>[20](#fn_258) but there is no Mount
+Athamas, <span id="fr_258"></span>[20](#fn_258.md) but there is no Mount
 Laphystion. The mountain with this name is situated in Boeotia, between
 Coronea and Orchomenus. We do not know the source of Pausanias'
-statement <span id="fr_259"></span>[21](#fn_259) that the sacrifice of
+statement <span id="fr_259"></span>[21](#fn_259.md) that the sacrifice of
 Phrixus took place on this mountain--it may be an inference, but such an
 inference is right, for since there is no other mountain with this name,
 it is evident that this Boeotian mountain was the original
@@ -233,23 +233,23 @@ it is evident that this Boeotian mountain was the original
 <span id="page_136">p. 136</span>
 
 home of the cult of Zeus Laphystius. <span
-id="fr_260"></span>[22](#fn_260) It follows of course that Athamas
+id="fr_260"></span>[22](#fn_260.md) It follows of course that Athamas
 himself and the cult originally belonged to the Boeotian Mount
 Laphystius and, like many other cults, was transferred to another place.
 
 This localization, depending on the cult, is corroborated by the
 numerous traces of Athamas, preserved in myths around the lake of
 Copais. Athamas is said to have founded the town of Acraephia at the
-east side of the lake, <span id="fr_261"></span>[23](#fn_261) and here,
+east side of the lake, <span id="fr_261"></span>[23](#fn_261.md) and here,
 says Pausanias, there was also a field of Athamas as one proceeded on
-the direct road to the lake. <span id="fr_262"></span>[24](#fn_262)
+the direct road to the lake. <span id="fr_262"></span>[24](#fn_262.md)
 Quite a number of his sons are mentioned as eponymous heroes and
 founders of various Boeotian towns and localities, Ptous as early as the
-time of the epic poet Asius. <span id="fr_263"></span>[25](#fn_263)
+time of the epic poet Asius. <span id="fr_263"></span>[25](#fn_263.md)
 
 Consequently the statements that Athamas was a son of Minyas, <span
-id="fr_264"></span>[26](#fn_264) that he was king of Orchomenus, and
-lived there, <span id="fr_265"></span>[27](#fn_265) are not unfounded.
+id="fr_264"></span>[26](#fn_264.md) that he was king of Orchomenus, and
+lived there, <span id="fr_265"></span>[27](#fn_265.md) are not unfounded.
 He is of old connected with the plain around the lake of Copais and with
 Mount Laphystion; that is, with the district of Orchomenus.
 
@@ -265,21 +265,21 @@ town.
 
 Mycenaean sherds and minor finds are reported from all Thessaly, just as
 they are from other provinces of Greece, <span
-id="fr_266"></span>[28](#fn_266) but only scattered minor and
+id="fr_266"></span>[28](#fn_266.md) but only scattered minor and
 unimportant finds have come from parts of the province other than from
-the neighborhood of Iolcus. <span id="fr_267"></span>[29](#fn_267) There
+the neighborhood of Iolcus. <span id="fr_267"></span>[29](#fn_267.md) There
 the remains are so numerous and important as to prove that Iolcus was an
 important center in the Mycenaean age. It is now generally acknowledged
 that Professor Tsoundas discovered the site of old Iolcus on a hill in
 the plain of Volo, called Old Volo or the Kastro of Volo. <span
-id="fr_268"></span>[30](#fn_268) This hill consists of remains of old
+id="fr_268"></span>[30](#fn_268.md) This hill consists of remains of old
 habitations. Many late Mycenaean sherds and some vases were
-discovered. <span id="fr_269"></span>[31](#fn_269) Recently it has been
+discovered. <span id="fr_269"></span>[31](#fn_269.md) Recently it has been
 reported that trial excavations were undertaken on this hill, and that
 remains of a Mycenaean palace built upon neolithic layers were
 unearthed. It appears to have been extensive and well built; the floor
 was covered with cement and the walls with painted stucco. <span
-id="fr_270"></span>[32](#fn_270) It is to be regretted that no more
+id="fr_270"></span>[32](#fn_270.md) It is to be regretted that no more
 detailed report is forthcoming of this apparently interesting discovery.
 The really convincing facts are the rich finds from the Mycenaean age in
 the neighborhood of Iolcus. At Kapakli
@@ -290,14 +290,14 @@ quite near Iolcus Dr. Kuruniotes excavated a tholos tomb which was
 almost untouched and yielded rich finds, especially gold objects; this
 has been one of the richest and most important discoveries of remains
 from the Mycenaean age. The vases are referred to the second Mycenaean
-period. <span id="fr_271"></span>[33](#fn_271) To the same period are
+period. <span id="fr_271"></span>[33](#fn_271.md) To the same period are
 ascribed vases found in tombs on a small peninsula just south of Volo
 within the area of what formerly was called old Pagasae but more justly
-is called Demetrias. <span id="fr_272"></span>[34](#fn_272)
+is called Demetrias. <span id="fr_272"></span>[34](#fn_272.md)
 
 Less than an hour to the west Professor Tsoundas excavated the mound of
 Dimini, where two tholos tombs were discovered, and another neighboring
-mound, Sesklo, <span id="fr_273"></span>[35](#fn_273) with a small
+mound, Sesklo, <span id="fr_273"></span>[35](#fn_273.md) with a small
 tholos tomb which yielded late Mycenaean vases. Proceeding toward the
 west we come to the Phthiotic Thebes, with a ring-wall of uncertain
 date. Mycenaean terracottas, sherds, and painted stucco were found here.
@@ -315,20 +315,20 @@ of the famous cycle of the Argonauts in that place. After this
 
 survey of the Mycenaean remains in Thessaly we come back to the fact
 that the Argonauts are said to be Minyans. We find this statement in
-Pindarus; <span id="fr_274"></span>[36](#fn_274) Herodotus has much to
-tell about the Minyans; <span id="fr_275"></span>[37](#fn_275) and
+Pindarus; <span id="fr_274"></span>[36](#fn_274.md) Herodotus has much to
+tell about the Minyans; <span id="fr_275"></span>[37](#fn_275.md) and
 Apollonius Rhodius still more. Modern scholars generally embrace the
 view that they are pseudo-Minyans, accepting the opinion professed by
 Apollonius Rhodius and his scholiast that they were so called because
 they and especially Iason were descended from the daughters of Minyas.
 But Buttmann, whose paper on the Minyans <span
-id="fr_276"></span>[38](#fn_276) is forgotten but is more solid than
+id="fr_276"></span>[38](#fn_276.md) is forgotten but is more solid than
 Müller's book, remarked justly that the myth gives us no reason whatever
 why the inhabitants of Iolcus were called Minyans; <span
-id="fr_277"></span>[39](#fn_277) the name is one of these ever recurring
+id="fr_277"></span>[39](#fn_277.md) the name is one of these ever recurring
 old stock expressions which the poets use by tradition without knowing
 their sense. The statement of Apollonius Rhodius and his scholiast <span
-id="fr_278"></span>[40](#fn_278) is no real explanation but merely an
+id="fr_278"></span>[40](#fn_278.md) is no real explanation but merely an
 attempt to explain the old stock expression: in order to give a reason
 why the Argonauts were called Minyans they made them sons of Minyas'
 daughters, for they could not be made sons of Minyas himself. Buttmann's
@@ -349,7 +349,7 @@ cycle, that of the Athamantidae and the Argonauts, is connected with
 both northern Boeotia and southern Thessaly, and this is comprehensible
 if we accept Buttmann's conclusion that the Minyans inhabited not only
 northern Boeotia but also the seaboard toward the north, including
-southern Thessaly. <span id="fr_279"></span>[41](#fn_279)
+southern Thessaly. <span id="fr_279"></span>[41](#fn_279.md)
 
 This conclusion is corroborated by cults and place names common to
 Boeotia and southern Thessaly. In addition to the cult of Zeus
@@ -358,8 +358,8 @@ especially mentioned. Among place names the Phthiotic Thebes was
 mentioned above. There is a Coronea not only in Boeotia but in Thessaly
 also, situated on the northern slopes of Mount Othrys. Another
 Orchomenus in Thessaly is mentioned by several authors, <span
-id="fr_280"></span>[42](#fn_280) and lastly, a Thessalian town Minya is
-known by an inscription. <span id="fr_281"></span>[43](#fn_281) This is
+id="fr_280"></span>[42](#fn_280.md) and lastly, a Thessalian town Minya is
+known by an inscription. <span id="fr_281"></span>[43](#fn_281.md) This is
 too much to be accidental and testifies to ethnical interrelations
 between the districts.
 
@@ -376,15 +376,15 @@ late creations. Even Cretheus is not much more than a genealogical
 connecting link, the father of Aison, Pheres, and Amythaon, who in turn
 are nothing but eponymous heroes, Aison and Pheres of two Thessalian
 towns, but curiously enough Amythaon of the district of Amythaonia near
-the Triphylian Pylos. <span id="fr_282"></span>[44](#fn_282) The source
+the Triphylian Pylos. <span id="fr_282"></span>[44](#fn_282.md) The source
 of this genealogy is, however, late and here we merely state the fact of
 its existence.
 
 With Tyro, the daughter of Salmoneus and wife of Cretheus, we strike old
 ground. She is mentioned in the Odyssey, together with Alcmene and
 Mycene, as one of the most famous heroines. <span
-id="fr_283"></span>[45](#fn_283) Her story is fully told in the
-Nekyia <span id="fr_284"></span>[46](#fn_284) but without certain
+id="fr_283"></span>[45](#fn_283.md) Her story is fully told in the
+Nekyia <span id="fr_284"></span>[46](#fn_284.md) but without certain
 features which are conspicuous later. But here a bewildering state of
 things appears. Where is Tyro at home and where is the scene of her love
 affair with Poseidon from which sprang the twins. Pelias and Neleus? She
@@ -402,7 +402,7 @@ twins whom she bore to Poseidon one, Pelias, is closely related to
 Thessaly; the other, Neleus, as closely to Pylos.
 
 Attempts have been made to find out whether Tyro is at home in Thessaly
-or in Pisatis. <span id="fr_285"></span>[47](#fn_285) I think this is
+or in Pisatis. <span id="fr_285"></span>[47](#fn_285.md) I think this is
 lost labor. We are unable to come to any decision and have plainly and
 solely to admit that Tyro from of old was connected both with Thessaly
 and with Pisatis-Pylos. Two heroes may be made brothers without being
@@ -414,7 +414,7 @@ The genealogy is closely interwoven with these interrelations, which
 must be founded on some reality.
 
 In this connection the passage in the Nekyia quoted above <span
-id="fr_286"></span>[48](#fn_286) deserves attention. Here it is said
+id="fr_286"></span>[48](#fn_286.md) deserves attention. Here it is said
 that Neleus married Chloris, the youngest daughter of the Iaside
 Amphion, who was king of Orchomenus. This links the genealogy of the
 house ruling at Pylos with Minyan Orchomenus. The passage involves a
@@ -428,13 +428,13 @@ from old tradition which was abandoned later because it could not be
 fitted into the prevailing quasi-historical scheme. Amphion is said to
 be king of Orchomenus and an Iasides. Greek mythographers have deduced
 from this passage a King Iasius or Iasus, the husband of Persephone, a
-daughter of Minyas, <span id="fr_287"></span>[49](#fn_287) of course an
+daughter of Minyas, <span id="fr_287"></span>[49](#fn_287.md) of course an
 invention without any value. We have only to admit that the story that a
 Pylian queen was a daughter of the king of Orchomenus reflects the
 connections of the Minyans with the dominion of Pylos; moreover these
 connections are corroborated in other ways, especially by the mention in
 Homer of a river Minyeios near Pylos, <span
-id="fr_288"></span>[50](#fn_288) evidence the value of which is
+id="fr_288"></span>[50](#fn_288.md) evidence the value of which is
 generally recognized even by scholars who are skeptical in regard to the
 myths of the Minyans.
 
@@ -468,21 +468,21 @@ districts were centers of Mycenaean civilization.
 
 In order to understand this embarrassing fact, it is useful to consider
 another case, the amphictyony of Calaureia, <span
-id="fr_289"></span>[51](#fn_289) which comprised the towns of Prasiai,
+id="fr_289"></span>[51](#fn_289.md) which comprised the towns of Prasiai,
 Nauplia, Hermione, Epidaurus, Aegina, Athens, and the Minyan
-Orchomenus; <span id="fr_290"></span>[52](#fn_290) i.e., seaside towns
+Orchomenus; <span id="fr_290"></span>[52](#fn_290.md) i.e., seaside towns
 on the Argive peninsula and in Attica, and the inland town of Orchomenus
 in Boeotia. Two German scholars observed that Mycenaean sherds are found
 
 <span id="page_145">p. 145</span>
 
 in all these towns and therefore they ascribed this amphictyony to the
-Mycenaean age. <span id="fr_291"></span>[53](#fn_291) That opinion was
-contested <span id="fr_292"></span>[54](#fn_292) and is of course not
+Mycenaean age. <span id="fr_291"></span>[53](#fn_291.md) That opinion was
+contested <span id="fr_292"></span>[54](#fn_292.md) and is of course not
 established beyond doubt, but the really important question is why the
 Minyan Orchomenus which was situated in the interior of Boeotia was a
 member of this league of seaboard towns. <span
-id="fr_293"></span>[55](#fn_293) The league must needs belong to an age
+id="fr_293"></span>[55](#fn_293.md) The league must needs belong to an age
 in which Orchomenus had interests on the sea, and this was not the
 historical age so far as we know it. But this position of Orchomenus
 agrees with the wealth ascribed to it in the Iliad.
@@ -500,14 +500,14 @@ on its western coast, no other being
 
 <span id="page_146">p. 146</span>
 
-available. <span id="fr_294"></span>[56](#fn_294) A myth is not
+available. <span id="fr_294"></span>[56](#fn_294.md) A myth is not
 consistent; it connects facts from different ages in an arbitrary
 manner: though the two facts mentioned are not consistent we have to
 admit both, only realizing that they originally belonged to different
 contexts. The other great sea expedition of the Greek myths, that of the
 Argonauts, started from a harbor also said to have been Minyan, Iolcus.
 Both Aulis and Iolcus are situated on the seaboard, covered by the
-Minyan name. <span id="fr_295"></span>[57](#fn_295)
+Minyan name. <span id="fr_295"></span>[57](#fn_295.md)
 
 If we put these traces of a sea power concentrated in the tracts
 inhabited by the Minyans together with the great wealth ascribed in
@@ -529,13 +529,13 @@ Gotland, the great trading center of the Baltic sea in the Middle Ages,
 
 This trade and sea power lead to an understanding of the connections of
 the Minyans with the western coast of the Peloponnese. We have seen
-above <span id="fr_296"></span>[58](#fn_296) that the dominion of Pylos
+above <span id="fr_296"></span>[58](#fn_296.md) that the dominion of Pylos
 is a typical seaside state founded by people who came oversea. I should
 not venture to say that it was founded by the Minyans, for the finds in
 both the towns which are said to be the Homeric Pylos are earlier than
 anything found in the Minyan area, even if some of the finds in Thessaly
 are ascribed to the second Mycenaean period, <span
-id="fr_297"></span>[59](#fn_297) but I think it to be a fair inference
+id="fr_297"></span>[59](#fn_297.md) but I think it to be a fair inference
 that Pylos served as an intermediate station for the Minyan trade. This
 will give a satisfactory explanation of the connections discussed above.
 
@@ -549,14 +549,14 @@ not much more distant from the Corinthian gulf than from the Euripus.
 
 <span class="contnote">\[paragraph continues\]</span> The Minyans may
 have taken the road past Delphi and Crisa to the harbor of Cirrha. <span
-id="fr_298"></span>[60](#fn_298) Not only the oracle of Delphi but also
+id="fr_298"></span>[60](#fn_298.md) Not only the oracle of Delphi but also
 the wealth of the temple are mentioned in Homer, <span
-id="fr_299"></span>[61](#fn_299) and Delphi was already a cult place in
+id="fr_299"></span>[61](#fn_299.md) and Delphi was already a cult place in
 the Mycenaean age. Remains of this cult have been found on the very spot
 where the temple and the great altar were built and in another place, in
 the suburb called Marmaria. West of the temple precinct is a Mycenaean
 cemetery with a small tholos tomb. <span
-id="fr_300"></span>[62](#fn_300) It may be guessed that Delphi in this
+id="fr_300"></span>[62](#fn_300.md) It may be guessed that Delphi in this
 age was not only a cult place but also a trading station. Thus its rise
 to wealth and importance may be better understood.
 
@@ -582,7 +582,7 @@ trade. Its situation is favorable for trading not only to the southward
 on the Argive gulf but also to the northward on the Corinthian gulf. To
 corroborate this opinion the roads radiating from Mycenae toward the
 south and the north are referred to. <span
-id="fr_301"></span>[63](#fn_301) There may be a certain truth in this
+id="fr_301"></span>[63](#fn_301.md) There may be a certain truth in this
 view but I cannot help thinking that the rulers of Mycenae were more
 warring than trading kings.
 
@@ -623,7 +623,7 @@ treating the other provinces of Greece we have generally had to speak of
 cities, not of tribes; in this chapter almost the reverse takes place.
 We have spoken of a tribe which had two great centers, many minor ones,
 and several harbors. This falls in with the conditions of old Boeotia as
-described by tradition; <span id="fr_302"></span>[64](#fn_302) various
+described by tradition; <span id="fr_302"></span>[64](#fn_302.md) various
 tribes never play so great a part in old tradition in any province as in
 that of Boeotia. In addition to the Minyans, we have first the Phlegyans
 who are mentioned as early as in the Homeric poems and by later authors
@@ -660,13 +660,13 @@ Minyans and the liberator of
 
 <span id="page_152">p. 152</span>
 
-Thebes. <span id="fr_303"></span>[65](#fn_303) Diodorus has an extensive
+Thebes. <span id="fr_303"></span>[65](#fn_303.md) Diodorus has an extensive
 and picturesque tale of how Heracles overcame the Minyans and their king
 Erginus, who had conquered Thebes and made it tributary to
-Orchomenus. <span id="fr_304"></span>[66](#fn_304) Another version is
+Orchomenus. <span id="fr_304"></span>[66](#fn_304.md) Another version is
 that Heracles blocked the *katavothra* through which the lake of Copais
 was drained, so that the district of Orchomenus was inundated. <span
-id="fr_305"></span>[67](#fn_305) It is the same fact, the catastrophe
+id="fr_305"></span>[67](#fn_305.md) It is the same fact, the catastrophe
 which overtook the power of Orchomenus, in various mythological
 settings. In the latter version it is combined with the fact that the
 plain made dry by the draining of the lake of Copais was again flooded,
@@ -676,11 +676,11 @@ disastrous war with Thebes is a generally received opinion.
 
 It is hardly possible to proffer any well founded opinion as to the time
 at which this war took place. Dr. Fimmen's opinion <span
-id="fr_306"></span>[68](#fn_306) that the inhabitants of Thebes were the
+id="fr_306"></span>[68](#fn_306.md) that the inhabitants of Thebes were the
 Boeotians who immigrated into the province to which they gave their name
 seems unlikely to be correct. Our information concerning their
 immigration is given by Thucydides, <span
-id="fr_307"></span>[69](#fn_307) who says that they came from Thessaly;
+id="fr_307"></span>[69](#fn_307.md) who says that they came from Thessaly;
 and it seems a priori probable that they came from the north or
 northwest, not from the south or southeast. The war with Thebes is
 probably earlier. What was left of the Minyan power was destroyed when
@@ -694,18 +694,18 @@ have emigrated. There are traces showing that they took part in the
 colonization of the western coast of Asia Minor at the very end of the
 Mycenaean age. Herodotus enumerates many peoples of whom the Asiatic
 Ionians were composed and among these are the Minyans of
-Orchomenus. <span id="fr_308"></span>[70](#fn_308) Further, Pherecydes
+Orchomenus. <span id="fr_308"></span>[70](#fn_308.md) Further, Pherecydes
 says that the Minyan king Athamas founded Teos, <span
-id="fr_309"></span>[71](#fn_309) and Anacreon therefore calls this town,
+id="fr_309"></span>[71](#fn_309.md) and Anacreon therefore calls this town,
 in which he was born, an Athamantian town. <span
-id="fr_310"></span>[72](#fn_310)
+id="fr_310"></span>[72](#fn_310.md)
 
 In Ionia we encounter the Pylians again. According to Strabo, the
 colonization of Ionia was begun by Androclus, a son of Codrus, the last
-king of Athens. <span id="fr_311"></span>[73](#fn_311) According to
+king of Athens. <span id="fr_311"></span>[73](#fn_311.md) According to
 Pausanias, Codrus' father, Melanthus, was a descendant of Neleus who,
 together with many Pylians, had been expelled by the Heracleidae. <span
-id="fr_312"></span>[74](#fn_312) Neleus, a son of Codrus, founded
+id="fr_312"></span>[74](#fn_312.md) Neleus, a son of Codrus, founded
 Miletus and other sons founded other towns. Priene was founded by
 Neleus' son Aepytus, who has the same name as an Arcadian hero, and
 Colophon was, according to Mimnermus, founded by the Pylian Andraimon.
@@ -722,7 +722,7 @@ appears clearly. Pausanias says that the Pylians expelled by the
 Heracleidae emigrated to Athens, where Melanthus, a descendant of
 Neleus, became king instead of Thymoites, a descendant of Theseus.
 Hellanicus says that Erythrae was one of the Ionian towns founded by
-Codrus' son Neleus. <span id="fr_313"></span>[75](#fn_313)
+Codrus' son Neleus. <span id="fr_313"></span>[75](#fn_313.md)
 
 There cannot be any doubt that the participation of the Pylians in
 founding the Ionian towns on the western coast of Asia Minor is the
@@ -788,7 +788,7 @@ historical times in the mountain countries to the west, where a great
 number of small tribes were living. It will be well to keep in mind the
 steady push of tribes referred to above.
 
-Achilles <span id="fr_314"></span>[76](#fn_314) owes his fame and his
+Achilles <span id="fr_314"></span>[76](#fn_314.md) owes his fame and his
 glory to the great poet who made him the chief personage of the Iliad.
 His mythical importance ought not to be measured accordingly, but he
 belongs certainly to old mythology. For we have seen that folk-tale
@@ -813,7 +813,7 @@ also, because of the relation of the name of Peleus and his myth to
 Mount Pelion whose eponymous hero he is.
 
 In regard to Hellas, I think that Dr. Leaf is eminently right in taking
-it to be the Spercheus Valley, <span id="fr_315"></span>[77](#fn_315)
+it to be the Spercheus Valley, <span id="fr_315"></span>[77](#fn_315.md)
 for as Spercheus is the river near which Achilles is brought up, every
 other view will involve unsolvable difficulties. The myth which makes
 the man of Mount Pelion the father of the votary of Spercheus supposes
@@ -838,7 +838,7 @@ the newcomers were Achaeans, after whom the country was called
 
 <span class="contnote">\[paragraph continues\]</span> Achaea with the
 distinguishing epithet the Phthiotic. The dialect of this region is
-Doric but with Aeolic traces. <span id="fr_316"></span>[78](#fn_316)
+Doric but with Aeolic traces. <span id="fr_316"></span>[78](#fn_316.md)
 That is to say, the Achaeans possessed themselves of Thessaly, and after
 them the Dorians, but the Dorian element was much stronger in the
 southern part of the province. Thus it seems that the Achaean tribe of
@@ -851,14 +851,14 @@ of the Centaurs and the Lapiths. This battle appears in art, however,
 much later than their battle with an archer, who perhaps may be called
 Heracles. Centaurs without any adversary appear in the earliest art of
 the archaic period and as early as the Late Mycenaean age. <span
-id="fr_317"></span>[79](#fn_317) It is to be observed that they are
+id="fr_317"></span>[79](#fn_317.md) It is to be observed that they are
 
 <span id="page_159">p. 159</span>
 
 met with in other provinces too, in Aetolia in the story of Nessus and
 in Arcadia in the story of Pholus. They appear consequently to be a
 mythical conception common to the Greeks, <span
-id="fr_318"></span>[80](#fn_318) but according to the prevailing Greek
+id="fr_318"></span>[80](#fn_318.md) but according to the prevailing Greek
 ideas their myths were localized in definite but various places, of
 which Thessaly was only one. The real riddle is the connections of their
 foes, the Lapiths. I return to this question in the chapter on the Attic
@@ -868,40 +868,40 @@ myths.
 
 ### Footnotes
 
-<span id="fn_239"></span>[127:1](mog10.htm#fr_239) H. Bulle,
+<span id="fn_239"></span>[127:1](mog10.htm#fr_239.md) H. Bulle,
 "Orchomenos," I, "Die älteren Ansiedelungsschichten," *Abhandlungen der
 bayerischen Akademie der Wissenschaften*, I. Kl., XXIV: 2 (1907); II, E.
 Kunze, *Die neolithische Keramik*, *ibid*. N. F. III (1931).
 
-<span id="fn_240"></span>[128:2](mog10.htm#fr_240) *Bulletin de
+<span id="fn_240"></span>[128:2](mog10.htm#fr_240.md) *Bulletin de
 correspondence hellénique*, XVIII (1894), p. 271 *et seq*.;
 Tsoundas-Manatt, *The Mycenaean Age* (1897), p. 375 *et seq*. Cp. F.
 Noack, *Homerische Paläste* (1903), p. 19.
 
-<span id="fn_241"></span>[128:3](mog10.htm#fr_241) Phlegya: A. W. Gomme,
+<span id="fn_241"></span>[128:3](mog10.htm#fr_241.md) Phlegya: A. W. Gomme,
 "The ancient name of Gla," in Essays and Studies to W. Ridgeway (1913),
 p. 116 *et seq*. Glechon: T. W. Allen, *Classical Review*, XVII (1903),
 p. 239 *et seq*. This equation is contested by A. W. Persson, *Schrift
 and Sprache in Alt-Kreta* (Uppsala, 1930), p. 29, n. 2, who points to
 the fact that the name of Gla is of Turkish origin.
 
-<span id="fn_242"></span>[128:4](mog10.htm#fr_242) See above [p.
-182](mog12.htm#page_182).
+<span id="fn_242"></span>[128:4](mog10.htm#fr_242.md) See above [p.
+182](mog12.htm#page_182.md).
 
-<span id="fn_243"></span>[129:5](mog10.htm#fr_243) *Bulletin de
+<span id="fn_243"></span>[129:5](mog10.htm#fr_243.md) *Bulletin de
 correspondance hellénique*, XVI (1892), p. 121 *et seq*.; Frazer in his
 commentary on Pausanias, vol. V, p. 110 *et seq*.; survey by Geiger in
 Pauly-Wissowa's *Realenzyklopädie der klass Altertumswissenschaft*,
 *s.v.* Kopais, XI, p. 1351 *et seq*.
 
-<span id="fn_244"></span>[129:6](mog10.htm#fr_244) By Fimmen, "Die
+<span id="fn_244"></span>[129:6](mog10.htm#fr_244.md) By Fimmen, "Die
 Besiedelung Böotiens bis in frühgriechische Zeit," *Neue Jahrbücher für
 das klass. Altertum*, XXIX (1912), p. 536 *et seq*., and by Robert, *Die
 griechische Heldensage*, p. 56.
 
-<span id="fn_245"></span>[130:7](mog10.htm#fr_245) Paus. ix. 34, 6-37.
+<span id="fn_245"></span>[130:7](mog10.htm#fr_245.md) Paus. ix. 34, 6-37.
 
-<span id="fn_246"></span>[131:8](mog10.htm#fr_246) E. Forrer,
+<span id="fn_246"></span>[131:8](mog10.htm#fr_246.md) E. Forrer,
 *Mitteilungen der deutschen Orientgesellschaft*, No. 63 (1924); recent
 survey in the *Reallexikon der Assyriologie* *s.v.* Ahhijava, and in his
 article, "La découverte de la Grèce mycénienne dans les textes
@@ -914,45 +914,45 @@ Boghaz-köi Inschriften," *ibid*., p. 273 *et seq*. P. Kretschmer, "Zur
 Frage der griechischen Namen in den hethitischen Texten," *Glotta*,
 XVIII (1930), p. 161 *et seq*., is inclined to support Forrer.
 
-<span id="fn_247"></span>[131:9](mog10.htm#fr_247) *Od*. xi. v. 281 *et
+<span id="fn_247"></span>[131:9](mog10.htm#fr_247.md) *Od*. xi. v. 281 *et
 seq*.; v. 459 is of no importance.
 
-<span id="fn_248"></span>[131:10](mog10.htm#fr_248) *Il*. ix. v. 379 *et
+<span id="fn_248"></span>[131:10](mog10.htm#fr_248.md) *Il*. ix. v. 379 *et
 seq*.
 
-<span id="fn_249"></span>[131:11](mog10.htm#fr_249) In the *Journal of
+<span id="fn_249"></span>[131:11](mog10.htm#fr_249.md) In the *Journal of
 Hellenic Studies*, XLIX (1929), p. 153 *et seq*. A late date is advanced
 by Wilamowitz, *Die Heimkehr des Odysseus* (1927), p. 173.
 
-<span id="fn_250"></span>[132:12](mog10.htm#fr_250) For the thoroughness
+<span id="fn_250"></span>[132:12](mog10.htm#fr_250.md) For the thoroughness
 of the sack see *Cambridge Ancient History* III, p. 285.
 
-<span id="fn_251"></span>[132:13](mog10.htm#fr_251) The date of the
+<span id="fn_251"></span>[132:13](mog10.htm#fr_251.md) The date of the
 mercenaries' inscriptions from Abu Simbel is now fixed with certainty in
 the reign of Psammetich II. (593--588 B.C.): G. Lefebure, "Ποτασιμπτώ,"
 *Bulletin de la société archéologique d’Alexandrie*, No. 21 (1925), p.
 48 *et seq*.
 
-<span id="fn_252"></span>[132:14](mog10.htm#fr_252) They are now very
+<span id="fn_252"></span>[132:14](mog10.htm#fr_252.md) They are now very
 easy to survey in the useful compilation of J. D. S. Pendlebury,
 *Aegyptiaca, A Catalogue of Egyptian objects in the Aegean area* (1930).
 
-<span id="fn_253"></span>[133:15](mog10.htm#fr_253) This suggestion
+<span id="fn_253"></span>[133:15](mog10.htm#fr_253.md) This suggestion
 seems doubtful; there is a difference in the forms, Ἀθαμᾶνες but gen.
 Ἀθάμαντος.
 
-<span id="fn_254"></span>[134:16](mog10.htm#fr_254) In my *Griechische
+<span id="fn_254"></span>[134:16](mog10.htm#fr_254.md) In my *Griechische
 Feste* (1906), p. 10 *et seq*.
 
-<span id="fn_255"></span>[134:17](mog10.htm#fr_255) Herodotus, vii. 197.
+<span id="fn_255"></span>[134:17](mog10.htm#fr_255.md) Herodotus, vii. 197.
 
-<span id="fn_256"></span>[135:18](mog10.htm#fr_256) See my *Griechische
+<span id="fn_256"></span>[135:18](mog10.htm#fr_256.md) See my *Griechische
 Feste*, p. 8.
 
-<span id="fn_257"></span>[135:19](mog10.htm#fr_257) Paus. viii. 38, 3.
+<span id="fn_257"></span>[135:19](mog10.htm#fr_257.md) Paus. viii. 38, 3.
 It is interesting that the Cloud appears in another Thessalian myth
 also, that of Ixion. (Concerning the Phlegyans see below pp.
-[150](#page_150) *et seq*.) A cloud instead of Hera was given him for a
+[150](#page_150) *et seq*..md) A cloud instead of Hera was given him for a
 wife. He was punished by being attached to a fiery wheel whirling around
 in the air; this can hardly be anything but the lightning. We find in
 this myth the same elements. Cp. also the myth of Salmoneus who nowadays
@@ -963,123 +963,123 @@ perhaps to the custom of fire-festivals in Central Greece; cp. my
 article "Fire-festivals in Ancient Greece," *Journal of Hellenic
 Studies*, XLIII (1923), p. 144 *et seq*.
 
-<span id="fn_258"></span>[135:20](mog10.htm#fr_258) According to
+<span id="fn_258"></span>[135:20](mog10.htm#fr_258.md) According to
 Apollonius Rhodius, ii. v. 154.
 
-<span id="fn_259"></span>[135:21](mog10.htm#fr_259) Paus. ix. 34, 5.
+<span id="fn_259"></span>[135:21](mog10.htm#fr_259.md) Paus. ix. 34, 5.
 
-<span id="fn_260"></span>[136:22](mog10.htm#fr_260) The scene of the
+<span id="fn_260"></span>[136:22](mog10.htm#fr_260.md) The scene of the
 madness of the Minyades was laid on the same mountain, *Schol. Lycophr.
 Alex.* v. 1237, and it is given as an *aition* of the festival of
 Agrionia in Orchomenus; see my *Griechische Feste*, p. 273 *et seq*.
 
-<span id="fn_261"></span>[136:23](mog10.htm#fr_261) Steph. Byz. *s.v*.
+<span id="fn_261"></span>[136:23](mog10.htm#fr_261.md) Steph. Byz. *s.v*.
 
-<span id="fn_262"></span>[136:24](mog10.htm#fr_262) Paus. ix. 24, 1.
+<span id="fn_262"></span>[136:24](mog10.htm#fr_262.md) Paus. ix. 24, 1.
 
-<span id="fn_263"></span>[136:25](mog10.htm#fr_263) See Robert,
+<span id="fn_263"></span>[136:25](mog10.htm#fr_263.md) See Robert,
 *Griechische Heldensage*, p. 44.
 
-<span id="fn_264"></span>[136:26](mog10.htm#fr_264) *Schol. Apoll.
+<span id="fn_264"></span>[136:26](mog10.htm#fr_264.md) *Schol. Apoll.
 Rhod.*, i. v. 230.
 
-<span id="fn_265"></span>[136:27](mog10.htm#fr_265) Hellanicus, *ibid*.,
+<span id="fn_265"></span>[136:27](mog10.htm#fr_265.md) Hellanicus, *ibid*.,
 III. v. 265, cp. i. v. 763.
 
-<span id="fn_266"></span>[137:28](mog10.htm#fr_266) See the lists in
+<span id="fn_266"></span>[137:28](mog10.htm#fr_266.md) See the lists in
 Fimmen, *Die kretisch-mykenische Kultur*, p. 2 *et seq*., and in Wace
 and Thompson, *Prehistoric Thessaly* (1912), p. 8 *et seq*. and p. 206
 *et seq*.
 
-<span id="fn_267"></span>[137:29](mog10.htm#fr_267) Cp. the article
+<span id="fn_267"></span>[137:29](mog10.htm#fr_267.md) Cp. the article
 "Iolkos" by Stählin in Pauly-Wissowa's *Realenzyklopädie der klass.
 Altertumswissenschaft*.
 
-<span id="fn_268"></span>[137:30](mog10.htm#fr_268) Chr. Tsoundas, Αἱ
+<span id="fn_268"></span>[137:30](mog10.htm#fr_268.md) Chr. Tsoundas, Αἱ
 προϊστορικαὶ ἀκροπόλεις Διμηνίου καὶ Σέσκλου, (1908), p. 16.
 
-<span id="fn_269"></span>[137:31](mog10.htm#fr_269) Wace and Thompson,
+<span id="fn_269"></span>[137:31](mog10.htm#fr_269.md) Wace and Thompson,
 *loc. cit.*, p. 207; cp. p. 2.
 
-<span id="fn_270"></span>[137:32](mog10.htm#fr_270) *Bulletin de
+<span id="fn_270"></span>[137:32](mog10.htm#fr_270.md) *Bulletin de
 corespondence hellénique*, xlv (1921), p. 530.
 
-<span id="fn_271"></span>[138:33](mog10.htm#fr_271) Wace and Thompson,
+<span id="fn_271"></span>[138:33](mog10.htm#fr_271.md) Wace and Thompson,
 *loc. cit.*, p. 206.
 
-<span id="fn_272"></span>[138:34](mog10.htm#fr_272) Beloch in *Klio*, xi
+<span id="fn_272"></span>[138:34](mog10.htm#fr_272.md) Beloch in *Klio*, xi
 (1911), p. 442 *et seq*.; cp. his *Griechische Geschichte*, iv:1 (ed.
 2), p. 224, n. 1.
 
-<span id="fn_273"></span>[138:35](mog10.htm#fr_273) Sesklo is identified
+<span id="fn_273"></span>[138:35](mog10.htm#fr_273.md) Sesklo is identified
 with the ancient town of Aison or Aisonia by Robert, *Griechische
 Heldensage*, p. 34 and n. 4.
 
-<span id="fn_274"></span>[139:36](mog10.htm#fr_274) Pindarus, Pyth., iv.
+<span id="fn_274"></span>[139:36](mog10.htm#fr_274.md) Pindarus, Pyth., iv.
 v. 69.
 
-<span id="fn_275"></span>[139:37](mog10.htm#fr_275) Herodotus, iv.
+<span id="fn_275"></span>[139:37](mog10.htm#fr_275.md) Herodotus, iv.
 145-150.
 
-<span id="fn_276"></span>[139:38](mog10.htm#fr_276) Ph. Buttmann,
+<span id="fn_276"></span>[139:38](mog10.htm#fr_276.md) Ph. Buttmann,
 Mythologus (1829), ii. p. 203.
 
-<span id="fn_277"></span>[139:39](mog10.htm#fr_277) This is first
+<span id="fn_277"></span>[139:39](mog10.htm#fr_277.md) This is first
 mentioned by Simonides ἐν τοῖς Συμμίκτοις according to *Schol. Apollon.
 Rhod.*, i. v. 763. Whether this Simonides is from Ceos or the younger
 Simonides from Amorgus is doubtful.
 
-<span id="fn_278"></span>[139:40](mog10.htm#fr_278) Apollon. Rhod. i. v.
+<span id="fn_278"></span>[139:40](mog10.htm#fr_278.md) Apollon. Rhod. i. v.
 230 and the scholion ad 1.
 
-<span id="fn_279"></span>[140:41](mog10.htm#fr_279) Buttmann, *loc.
+<span id="fn_279"></span>[140:41](mog10.htm#fr_279.md) Buttmann, *loc.
 cit.*, II, p. 207.
 
-<span id="fn_280"></span>[140:42](mog10.htm#fr_280) See Robert,
+<span id="fn_280"></span>[140:42](mog10.htm#fr_280.md) See Robert,
 *Griechische Heldensage*, p. 57.
 
-<span id="fn_281"></span>[140:43](mog10.htm#fr_281) *Inscr. graecae*,
+<span id="fn_281"></span>[140:43](mog10.htm#fr_281.md) *Inscr. graecae*,
 IX:2, No. 521 from Larissa; Steph. Byz. *s.v.*
 
-<span id="fn_282"></span>[141:44](mog10.htm#fr_282) According to Rhianos
+<span id="fn_282"></span>[141:44](mog10.htm#fr_282.md) According to Rhianos
 in Steph. Byz. *s.v.*
 
-<span id="fn_283"></span>[141:45](mog10.htm#fr_283) *Od*. ii. v. 120.
+<span id="fn_283"></span>[141:45](mog10.htm#fr_283.md) *Od*. ii. v. 120.
 
-<span id="fn_284"></span>[141:46](mog10.htm#fr_284) *Od*. xi. v. 235 *et
+<span id="fn_284"></span>[141:46](mog10.htm#fr_284.md) *Od*. xi. v. 235 *et
 seq*.
 
-<span id="fn_285"></span>[142:47](mog10.htm#fr_285) Robert, "Tyro,"
+<span id="fn_285"></span>[142:47](mog10.htm#fr_285.md) Robert, "Tyro,"
 *Hermes*, li (1916), p. 290 *et seq*.
 
-<span id="fn_286"></span>[142:48](mog10.htm#fr_286) Above [p.
-86](mog06.htm#page_86).
+<span id="fn_286"></span>[142:48](mog10.htm#fr_286.md) Above [p.
+86](mog06.htm#page_86.md).
 
-<span id="fn_287"></span>[143:49](mog10.htm#fr_287) Paus. ix. 36, 8, and
+<span id="fn_287"></span>[143:49](mog10.htm#fr_287.md) Paus. ix. 36, 8, and
 Pherecydes frag. 117 Jacoby. It is, of course, amazing to find
 Persephone as his wife. I think that the explanation may be found in the
 Homeric passage *Od*. v. v. 125 *et seq*. concerning Demeter's wedding
 with Iasion; the daughter was substituted for her mother.
 
-<span id="fn_288"></span>[143:50](mog10.htm#fr_288) *Il*. xi. v. 722.
+<span id="fn_288"></span>[143:50](mog10.htm#fr_288.md) *Il*. xi. v. 722.
 
-<span id="fn_289"></span>[144:51](mog10.htm#fr_289) Wilamowitz, "Die
+<span id="fn_289"></span>[144:51](mog10.htm#fr_289.md) Wilamowitz, "Die
 Amphiktyonie von Kalaurea," *Nachrichten der Gesellschaft der
 Wissenschaften zu Göttingen, phil.-hist. Kl.*, 1896, p. 158 *et seq*.,
 esp. p. 169 *et seq*. contested K. O. Müller's hypothesis of the
 prehistoric origin of the league of Calaureia. I hope that it will seem
 more probable in the light of the new evidence adduced.
 
-<span id="fn_290"></span>[144:52](mog10.htm#fr_290) According to
+<span id="fn_290"></span>[144:52](mog10.htm#fr_290.md) According to
 Strabon, viii. p. 374.
 
-<span id="fn_291"></span>[145:53](mog10.htm#fr_291) A. Frickenhaus and
+<span id="fn_291"></span>[145:53](mog10.htm#fr_291.md) A. Frickenhaus and
 W. Müller in the *Athenische Mitteilungen*, XXXVI (1911), p. 37.
 
-<span id="fn_292"></span>[145:54](mog10.htm#fr_292) By Fimmen in the
+<span id="fn_292"></span>[145:54](mog10.htm#fr_292.md) By Fimmen in the
 *Neue Jahrbücher für das klass. Altertum*, XXIX (1912), p. 537.
 
-<span id="fn_293"></span>[145:55](mog10.htm#fr_293) E. Curtius in
+<span id="fn_293"></span>[145:55](mog10.htm#fr_293.md) E. Curtius in
 *Hermes*, X (1876), p. 388, solved this difficulty violently by
 cancelling the words "the Minyan." Arbitrarily he supposed Orchomenus to
 be the Arcadian town with this name and consequently wondered why Argos
@@ -1087,7 +1087,7 @@ was omitted. The underlying presumption is that the league was one of
 Argive inland states, contrary to the evident fact that the league
 centers around the Saronian gulf.
 
-<span id="fn_294"></span>[146:56](mog10.htm#fr_294) W. Leaf, *Homer and
+<span id="fn_294"></span>[146:56](mog10.htm#fr_294.md) W. Leaf, *Homer and
 History* (1916), p. 99 *et seq*., relies upon geography and the
 "Mediterranean Pilot" according to which Aulis is said to be a most
 impossible harbor for the gathering of a fleet. He concludes that the
@@ -1100,32 +1100,32 @@ trade. This fact would be sufficient reason to a poet for representing
 Aulis as the rallying place of the fleet. In the archaic age Chalcis
 certainly took over part of the Boeotian trade.
 
-<span id="fn_295"></span>[146:57](mog10.htm#fr_295) Near Aulis is Hyria,
+<span id="fn_295"></span>[146:57](mog10.htm#fr_295.md) Near Aulis is Hyria,
 where Amphion and Zethus are said to have lived (cp. above [p.
-125](mog09.htm#page_125)), and where the Rhampsinites legend was
+125](mog09.htm#page_125).md), and where the Rhampsinites legend was
 localized and applied to King Hyrieus. One is inclined to suppose that
 there was a bee-hive tomb at Hyria which gave cause for the localizing
 of the story there.
 
-<span id="fn_296"></span>[147:58](mog10.htm#fr_296) Cp. above [p.
-85](mog06.htm#page_85).
+<span id="fn_296"></span>[147:58](mog10.htm#fr_296.md) Cp. above [p.
+85](mog06.htm#page_85.md).
 
-<span id="fn_297"></span>[147:59](mog10.htm#fr_297) Above [p.
-138](#page_138). Wace and Thompson, *Prehistoric Thessaly*, p. 8 *et
+<span id="fn_297"></span>[147:59](mog10.htm#fr_297.md) Above [p.
+138](#page_138.md). Wace and Thompson, *Prehistoric Thessaly*, p. 8 *et
 seq*., and p. 206.
 
-<span id="fn_298"></span>[148:60](mog10.htm#fr_298) An unimportant
+<span id="fn_298"></span>[148:60](mog10.htm#fr_298.md) An unimportant
 Mycenaean tomb was found accidentally near Itea, the modern harbor town
 of Delphi, *Deltion archaiologikon*, VI (1920-21), p. 147.
 
-<span id="fn_299"></span>[148:61](mog10.htm#fr_299) *Il*. ix. v. 405;
+<span id="fn_299"></span>[148:61](mog10.htm#fr_299.md) *Il*. ix. v. 405;
 the oracle *Od*. viii. v. 80 and xi. v. 581.
 
-<span id="fn_300"></span>[148:62](mog10.htm#fr_300) See my
+<span id="fn_300"></span>[148:62](mog10.htm#fr_300.md) See my
 *Minoan-Mycenaean Religion*, p. 400 *et seq*.; cp. Evans, *The Palace of
 Minos*, II, p. 832 *et seq*.
 
-<span id="fn_301"></span>[149:63](mog10.htm#fr_301) This view was put
+<span id="fn_301"></span>[149:63](mog10.htm#fr_301.md) This view was put
 forth by V. Bérard, *Les Phéniciens et l’Odyssée*, I (1902-03), p. 11
 and p. 78, according to whom Mycenae was a fortress built at a junction
 of the mountain passes for the purpose of levying taxes on all traffic
@@ -1135,46 +1135,46 @@ trade route between the northern and the southern sea. For a sound
 criticism see W. Leaf, *Homer and History*, p. 220 *et seq*. For the
 roads see R. Steffen, *Karten von Mykenai* (1884), Text, p. 8 *et seq*.
 
-<span id="fn_302"></span>[150:64](mog10.htm#fr_302) See Fimmen's article
-mentioned [p. 129](#page_129), n. [6](#fn_244).
+<span id="fn_302"></span>[150:64](mog10.htm#fr_302.md) See Fimmen's article
+mentioned [p. 129](#page_129), n. [6](#fn_244.md).
 
-<span id="fn_303"></span>[152:65](mog10.htm#fr_303) Euripides,
+<span id="fn_303"></span>[152:65](mog10.htm#fr_303.md) Euripides,
 *Heracles*, v. 48 and v. 220.
 
-<span id="fn_304"></span>[152:66](mog10.htm#fr_304) Diodorus, iv. 10;
+<span id="fn_304"></span>[152:66](mog10.htm#fr_304.md) Diodorus, iv. 10;
 cp. Apollodorus, ii. 4, 11.
 
-<span id="fn_305"></span>[152:67](mog10.htm#fr_305) Diodorus, iv. 18;
+<span id="fn_305"></span>[152:67](mog10.htm#fr_305.md) Diodorus, iv. 18;
 Paus. ix. 38, 7.
 
-<span id="fn_306"></span>[152:68](mog10.htm#fr_306) Fimmen, *loc. cit.*,
+<span id="fn_306"></span>[152:68](mog10.htm#fr_306.md) Fimmen, *loc. cit.*,
 p. 538.
 
-<span id="fn_307"></span>[152:69](mog10.htm#fr_307) Thucydides, i. 12.
+<span id="fn_307"></span>[152:69](mog10.htm#fr_307.md) Thucydides, i. 12.
 
-<span id="fn_308"></span>[153:70](mog10.htm#fr_308) Herodotus, i. 146.
+<span id="fn_308"></span>[153:70](mog10.htm#fr_308.md) Herodotus, i. 146.
 
-<span id="fn_309"></span>[153:71](mog10.htm#fr_309) In *Schol. Plat.
+<span id="fn_309"></span>[153:71](mog10.htm#fr_309.md) In *Schol. Plat.
 Hipparch.*, p. 229 D; Frag. 102 Jacoby.
 
-<span id="fn_310"></span>[153:72](mog10.htm#fr_310) In Strabo, xii. p.
+<span id="fn_310"></span>[153:72](mog10.htm#fr_310.md) In Strabo, xii. p.
 633.
 
-<span id="fn_311"></span>[153:73](mog10.htm#fr_311) Strabo, xiv. p. 632.
+<span id="fn_311"></span>[153:73](mog10.htm#fr_311.md) Strabo, xiv. p. 632.
 
-<span id="fn_312"></span>[153:74](mog10.htm#fr_312) Paus. ii. 18, 8.
+<span id="fn_312"></span>[153:74](mog10.htm#fr_312.md) Paus. ii. 18, 8.
 
-<span id="fn_313"></span>[154:75](mog10.htm#fr_313) Hellanicus in his
+<span id="fn_313"></span>[154:75](mog10.htm#fr_313.md) Hellanicus in his
 *Atthis* quoted by Harpocration *s.v.* Ἐρυθραϊοι.
 
-<span id="fn_314"></span>[156:76](mog10.htm#fr_314) Cp. Wilamowitz, "Die
+<span id="fn_314"></span>[156:76](mog10.htm#fr_314.md) Cp. Wilamowitz, "Die
 griechische Heldensage," II, *Sitzungsberichte der preuss. Akademie der
 Wissenschaften* (1925), p. 239 *et seq*.
 
-<span id="fn_315"></span>[157:77](mog10.htm#fr_315) W. Leaf, *Homer and
+<span id="fn_315"></span>[157:77](mog10.htm#fr_315.md) W. Leaf, *Homer and
 History*, p. 110 *et seq*.
 
-<span id="fn_316"></span>[158:78](mog10.htm#fr_316) O. Kern, *Neue
+<span id="fn_316"></span>[158:78](mog10.htm#fr_316.md) O. Kern, *Neue
 Jahrbücher für das klass. Altertum*, XIII (1904) p. 16 *et seq*. The
 inscriptions show, however, the northwest κοινή. Chadwick's
 identification of the Achaeans and Achilles with the north-western Greek
@@ -1182,8 +1182,8 @@ tribes in his *Heroic Age* (1912) p. 280, *et seq*., is unfortunate.
 These arrived in Greece latest, even after the Dorians whom Homer
 neglects.
 
-<span id="fn_317"></span>[158:79](mog10.htm#fr_317) See above [p.
-34](mog02.htm#page_34) and n. [31](mog02.htm#fn_30). The representation
+<span id="fn_317"></span>[158:79](mog10.htm#fr_317.md) See above [p.
+34](mog02.htm#page_34) and n. [31](mog02.htm#fn_30.md). The representation
 on the M. M. gem in Baur's list (= Evans, *Scripta Minoa*, I, p. 11,
 fig. 5b) does not show a centaur. Terracottas and bronzes representing
 centaurs appear as early as the Geometric period; e.g., at Olympia,
@@ -1199,10 +1199,10 @@ assumption that the centaur was borrowed from Oriental art seems
 questionable in view of the fact that there are no good Oriental
 prototypes.
 
-<span id="fn_318"></span>[159:80](mog10.htm#fr_318)I am, however, unable
+<span id="fn_318"></span>[159:80](mog10.htm#fr_318.md)I am, however, unable
 to believe in the recent attempt by G. Dumézil, *Le problème des
 Centaures* (1929), to make them an old Aryan heritage.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Attica](mog11)
+[Next: 8. Attica](mog11.md)

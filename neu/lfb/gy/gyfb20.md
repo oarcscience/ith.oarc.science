@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb19)  [Next](gyfb21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb19)  [Next](gyfb21.md) 
 
 </div>
 
@@ -208,6 +208,6 @@ home. And here he lived happily, and ruled wisely over the people.
 
 ------------------------------------------------------------------------
 
-[Next: The Dog and the Sparrow](gyfb21)
+[Next: The Dog and the Sparrow](gyfb21.md)
 
 </div>

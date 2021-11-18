@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](boeb08)  [Next](boeb10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](boeb08)  [Next](boeb10.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ But over thee we'll build a brig,
 
 ------------------------------------------------------------------------
 
-[Next: The Bailiff's Daughter of Islington](boeb10)
+[Next: The Bailiff's Daughter of Islington](boeb10.md)

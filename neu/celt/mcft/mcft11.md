@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mcft10)  [Next](mcft12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mcft10)  [Next](mcft12.md) 
 
 ------------------------------------------------------------------------
 
@@ -404,4 +404,4 @@ full of gold and a waggon full of silver along with them.
 
 ------------------------------------------------------------------------
 
-[Next: The Russet Dog](mcft12)
+[Next: The Russet Dog](mcft12.md)

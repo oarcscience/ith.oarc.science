@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol07)  [Next](pol09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol07)  [Next](pol09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -579,7 +579,7 @@ say to our father if we return without the lad? his grief would kill
 him; and we, what could we say?"
 
 "Say to him," said Joseph, that the rope followeth the bucket." <span
-id="fr_0"></span>[1](#fn_0)
+id="fr_0"></span>[1](#fn_0.md)
 
 "Woe, woe unto the king who speaks a false judgment," cried Judah.
 
@@ -780,10 +780,10 @@ and multiplied therein exceedingly.
 
 ### Footnotes
 
-<span id="fn_0"></span>[107:1](pol08.htm#fr_0) Meaning that Joseph was
+<span id="fn_0"></span>[107:1](pol08.htm#fr_0.md) Meaning that Joseph was
 the rope and Benjamin the bucket.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Death of Jacob and His Sons--Moses--The Deliverance
-From Egypt](pol09)
+From Egypt](pol09.md)

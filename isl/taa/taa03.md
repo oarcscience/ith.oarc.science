@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](taa02)  [Next](taa04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](taa02)  [Next](taa04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Tarjuman al-Ashwaq*, by Ibn al-Arabi, tr. Reynold A. Nicholson,
 \[1911\], at Intangible Textual Heritage
 
@@ -61,7 +61,7 @@ edition), ii, 276. It agrees with the second in giving the date of
 composition as 611 A.H., but includes a statement of the circumstances
 which caused the author to write his commentary.
 
-My MS. seems to be unique <span id="fr_5"></span>[1](#fn_5) in so far as
+My MS. seems to be unique <span id="fr_5"></span>[1](#fn_5.md) in so far as
 it contains the preface belonging to the first recension and also the
 additional statement which differentiates the third recension from the
 second.
@@ -75,7 +75,7 @@ theme that inspired him, but he also pretended that the poems were
 composed at a different time; by which artifice, though he could not
 deceive those who had read them before, he might dupe anyone who had
 heard people talk of them and the scandal produced by them.' <span
-id="fr_6"></span>[2](#fn_6)
+id="fr_6"></span>[2](#fn_6.md)
 
 Before considering the justice of Dozy's criticism it will be well to
 set forth the evidence more fully than he has done. I shall therefore
@@ -85,7 +85,7 @@ to the text of the poems.
 <span id="page_3">p. 3</span>
 
 1\. <span class="smallcaps">Preface to the First Recension</span> <span
-id="fr_7"></span>[1](#fn_7)
+id="fr_7"></span>[1](#fn_7.md)
 
 On his arrival at Mecca in 598 A.H. Ibn al-‘Arabí found a number of
 scholars and divines, both male and female, whose ancestors had
@@ -99,7 +99,7 @@ she wished to spend the last years of her life in devotion. She
 consented, however, that her brother should write for Ibn al-‘Arabí, on
 her behalf, a general certificate (\#\#\#) for all the Traditions which
 she related; and he received a similar certificate from Makínu ’ddín
-himself.\] <span id="fr_8"></span>[2](#fn_8)
+himself.\] <span id="fr_8"></span>[2](#fn_8.md)
 
 Makínu ’ddín had a young daughter, called Niẓám and surnamed ’Aynu
 ’sh-Shams wa ’l-Bahá, who was exceedingly beautiful and was renowned for
@@ -148,7 +148,7 @@ without further variation.
 
 This is identical with the last, but contains in addition the following
 statement of the motives which induced the author to write his
-commentary. <span id="fr_9"></span>[1](#fn_9)
+commentary. <span id="fr_9"></span>[1](#fn_9.md)
 
 'I wrote this commentary on the Díwán entitled *Tarjumán*
 
@@ -157,7 +157,7 @@ commentary. <span id="fr_9"></span>[1](#fn_9)
 *al-Ashwáq*, which I composed at Mecca, at the request of my friend
 al-Mas‘úd Abú Muḥammad Badr b. ‘Abdallah al-Ḥabashí al-Khádim and
 al-Walad al-Bárr Shamsu ’ddin Ismá‘íl b. Súdakín an-Núrí <span
-id="fr_10"></span>[1](#fn_10) in the city of Aleppo. He (Shamsu ’ddin)
+id="fr_10"></span>[1](#fn_10) in the city of Aleppo. He (Shamsu ’ddin.md)
 had heard some theologian remark that the author's declaration in the
 preface to the *Tarjumán* was not true, his declaration, namely, that
 the love-poems in this collection refer to mystical sciences and
@@ -168,10 +168,10 @@ was offended by his observations and repeated them to me. Accordingly, I
 began to write the commentary at Aleppo, and a portion of it was read
 aloud in my lodging in the presence of the above-mentioned theologian
 and other divines by Kamálu ’ddin Abu ’l-Qásim b. Najmu ’ddin the Cadi
-Ibn al-‘Adím <span id="fr_11"></span>[2](#fn_11)—God bless him! I
+Ibn al-‘Adím <span id="fr_11"></span>[2](#fn_11.md)—God bless him! I
 finished it with difficulty and in an imperfect manner, for I was in
 haste to continue my journey, on the date already mentioned. <span
-id="fr_12"></span>[3](#fn_12) When my critic heard it he said to Shamsu
+id="fr_12"></span>[3](#fn_12.md) When my critic heard it he said to Shamsu
 ’ddin that he would never in future doubt the good faith of any Ṣúfís
 who should assert that they attached a mystical signification to the
 words used in ordinary speech; and he conceived an excellent opinion of
@@ -190,7 +190,7 @@ Dozy's theory seems to me untenable on the following grounds:—
 recension, that the poems were composed in 598 A.H. Although he only
 arrived at Mecca in that year, he speaks of his acquaintance with Niẓám,
 the daughter of Makínu ’ddín, as something *past*, and of Makínu ’ddín
-himself as no longer alive. <span id="fr_13"></span>[1](#fn_13)
+himself as no longer alive. <span id="fr_13"></span>[1](#fn_13.md)
 
 (*b*) The hypothesis that 598 A.H. was the date of composition is not
 required. No arguments have been advanced to show that the date given by
@@ -207,7 +207,7 @@ of the thirty-second poem run as follows:—
 \#\#\#
 
 Ibn al-‘Arabí was 50 years old when he wrote these verses. <span
-id="fr_14"></span>[2](#fn_14) He was born in 560 A.H., so that in 598
+id="fr_14"></span>[2](#fn_14.md) He was born in 560 A.H., so that in 598
 A.H. his age was only 38. In 611 A.H. he was 51. To say '50' instead of
 '51' is a small poetical licence, which needs no apology, whereas on
 Dozy's supposition the author must have antedated his age and post-dated
@@ -239,7 +239,7 @@ the sceptics lacked discernment, they deserve our gratitude for having
 provoked Ibn al-‘Arabí to instruct them. Assuredly, without his guidance
 the most sympathetic readers would seldom have hit upon the hidden
 meanings which his fantastic ingenuity elicits from the conventional
-phrases of an Arabic *qaṣída*. <span id="fr_15"></span>[1](#fn_15) But
+phrases of an Arabic *qaṣída*. <span id="fr_15"></span>[1](#fn_15.md) But
 the fact that his explanations overshoot the mark is no proof of his
 insincerity: he had to satisfy his critics, and it would have been
 difficult to convince them that the poems were mystical in spirit and
@@ -323,7 +323,7 @@ The commentary in N., from which my translation is made, is sometimes
 not so full as that in M. The latter includes a few excerpts from the
 *Futúḥát al-Makkiyya*. The English version of the commentary is usually
 very much abridged, but I have rendered the interesting and important
-passages nearly word for word. <span id="fr_16"></span>[1](#fn_16)
+passages nearly word for word. <span id="fr_16"></span>[1](#fn_16.md)
 
 I shall now transcribe the text of the preface and the poems according
 to N. The Arabic text will be followed by an English version of the
@@ -337,52 +337,52 @@ id="page_14">p. 14</span> <span id="page_15">p. 15</span>
 
 ### Footnotes
 
-<span id="fn_5"></span>[2:1](taa03.htm#fr_5) Perhaps I should say
+<span id="fn_5"></span>[2:1](taa03.htm#fr_5.md) Perhaps I should say
 'almost unique', since Pertsch's description of Gotha 2269, which is
 defective at the beginning, leads me to suppose that it resembles my MS.
 in this particular. The Gotha MS., however, has the date 611 A.H., which
 is wanting in mine.
 
-<span id="fn_6"></span>[2:2](taa03.htm#fr_6) *Leiden Cat.*, ii, 77. The
+<span id="fn_6"></span>[2:2](taa03.htm#fr_6.md) *Leiden Cat.*, ii, 77. The
 last clause, as printed, runs: 'qui de iis deque magnâ offensione cuius
 causa exstiterant, fando audiverant,' i.e. 'the scandal which had
 produced them'. Dozy cannot have meant to write this.
 
-<span id="fn_7"></span>[3:1](taa03.htm#fr_7) I follow the text of my MS.
+<span id="fn_7"></span>[3:1](taa03.htm#fr_7.md) I follow the text of my MS.
 The passages which occur in it, but not in the Leiden MS. 875 (2), are
 enclosed in square brackets. The Arabic text will be found below.
 
-<span id="fn_8"></span>[3:2](taa03.htm#fr_8) Instead of the foregoing
+<span id="fn_8"></span>[3:2](taa03.htm#fr_8.md) Instead of the foregoing
 passage the Leiden MS. 875 (2) has: 'And I received a certificate from
 both of them.'
 
-<span id="fn_9"></span>[4:1](taa03.htm#fr_9) In some MSS. this statement
+<span id="fn_9"></span>[4:1](taa03.htm#fr_9.md) In some MSS. this statement
 does not form part of the preface, but is placed after the text and
 commentary. It occurs in my MS. on fol. 140a.
 
-<span id="fn_10"></span>[5:1](taa03.htm#fr_10) He wrote commentaries on
+<span id="fn_10"></span>[5:1](taa03.htm#fr_10.md) He wrote commentaries on
 two treatises by Ibn al-‘Arabí (see Brockelmann, i, 443).
 
-<span id="fn_11"></span>[5:2](taa03.htm#fr_11) This is the well-known
+<span id="fn_11"></span>[5:2](taa03.htm#fr_11.md) This is the well-known
 historian of Aleppo.
 
-<span id="fn_12"></span>[5:3](taa03.htm#fr_12) No date is mentioned in
+<span id="fn_12"></span>[5:3](taa03.htm#fr_12.md) No date is mentioned in
 my MS. According to Ḥájjí Khalífa, (ii, 277), the author finished his
 commentary in the second Rabi 612 A.H. (July-August, 1215 A.D.), at
 Áqsaray (in Lycaonia).
 
-<span id="fn_13"></span>[6:1](taa03.htm#fr_13) This is indicated by the
+<span id="fn_13"></span>[6:1](taa03.htm#fr_13.md) This is indicated by the
 words \#\#\# which follow his name.
 
-<span id="fn_14"></span>[6:2](taa03.htm#fr_14) Another reference to the
+<span id="fn_14"></span>[6:2](taa03.htm#fr_14.md) Another reference to the
 poet's age occurs in xxxvi, 2.
 
-<span id="fn_15"></span>[7:1](taa03.htm#fr_15) The author admits that in
+<span id="fn_15"></span>[7:1](taa03.htm#fr_15.md) The author admits that in
 some passages of his poems the mystical import was not clear to himself,
 and that various explanations were suggested to him in moments of
 ecstasy: \#\#\# (N. 55*a*, at foot).
 
-<span id="fn_16"></span>[9:1](taa03.htm#fr_16) The correct title of the
+<span id="fn_16"></span>[9:1](taa03.htm#fr_16.md) The correct title of the
 commentary seems to be \#\#\#; it is derived from the phrase \#\#\#,
 which occurs in the preface (p. 12, l. 7 *infra*). The erroneous reading
 \#\#\# is found in most MSS., and Hájjí Khalífa gives the title of the
@@ -392,6 +392,6 @@ commentary as  \#\#\#.
 
 ------------------------------------------------------------------------
 
-[Next: I](taa04)
+[Next: I](taa04.md)
 
 </div>

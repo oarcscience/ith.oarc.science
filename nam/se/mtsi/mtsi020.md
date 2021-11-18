@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi019)  [Next](mtsi021) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi019)  [Next](mtsi021.md) 
 
 ------------------------------------------------------------------------
 
@@ -70,4 +70,4 @@ So he married the girl. (Told by Big Jack of Hilibi.)
 
 ------------------------------------------------------------------------
 
-[Next: 19. The Monster Lizard](mtsi021)
+[Next: 19. The Monster Lizard](mtsi021.md)

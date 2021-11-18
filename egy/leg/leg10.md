@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](leg09)  [Next](leg11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](leg09)  [Next](leg11.md) 
 
 ------------------------------------------------------------------------
 
@@ -86,12 +86,12 @@ a dog for 5, a cat for 3, and an egg for 1 *dinar*. When all the animals
 were eaten men began to eat each other, and human flesh was sold in
 public. "Passengers were caught in the streets by hooks let down from
 the windows, drawn up, killed, and cooked." <span
-id="fr_45"></span>[1](#fn_44) During the famine which began in 1201
+id="fr_45"></span>[1](#fn_44.md) During the famine which began in 1201
 people ate human flesh habitually. Parents killed and cooked their own
 children, and a, wife was found eating her husband raw. Baby fricassee
 and haggis of children's heads were ordinary articles of diet. The
 graves even were ransacked for food. An ox sold for 70 *dinanir*. <span
-id="fr_46"></span>[2](#fn_45)
+id="fr_46"></span>[2](#fn_45.md)
 
 <span id="page_lxiv">p. lxiv</span>
 
@@ -102,7 +102,7 @@ the Director of the Khenti men at Elephantine (Aswan), a royal despatch
 was delivered to him, in which the king said: "I am in misery on my
 throne. My heart is very sore because of the calamity which hath
 happened, for the Nile hath not come forth <span
-id="fr_47"></span>[1](#fn_46) for seven years. There is no grain, there
+id="fr_47"></span>[1](#fn_46.md) for seven years. There is no grain, there
 are no vegetables, there is no food, and every man is robbing his
 neighbour. Men wish to walk, but they are unable to move; the young man
 drags along his limbs, the hearts of the aged are crushed with despair,
@@ -208,15 +208,15 @@ to be perpetuated in the temple.
 
 ### Footnotes
 
-<span id="fn_44"></span>[lxiii:1](leg10.htm#fr_45) Lane Poole, *Middle
+<span id="fn_44"></span>[lxiii:1](leg10.htm#fr_45.md) Lane Poole, *Middle
 Ages*, p. 146.
 
-<span id="fn_45"></span>[lxiii:2](leg10.htm#fr_46) *Ibid.*, p. 216.
+<span id="fn_45"></span>[lxiii:2](leg10.htm#fr_46.md) *Ibid.*, p. 216.
 
-<span id="fn_46"></span>[lxiv:1](leg10.htm#fr_47) I.e., there have been
+<span id="fn_46"></span>[lxiv:1](leg10.htm#fr_47.md) I.e., there have been
 insufficient Nile-floods.
 
 ------------------------------------------------------------------------
 
 [Next: Summary: VIII. The Legend of the Death and Resurrection of Horus,
-and Other Magical Texts](leg11)
+and Other Magical Texts](leg11.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](mba15)  [Next](mba17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](mba15)  [Next](mba17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002GYVU7A/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Myths of Babylonia and Assyria*, by Donald A. MacKenzie, \[1915\], at
 Intangible Textual Heritage
 
@@ -104,14 +104,14 @@ thirtieth course of the bricks. On the top, along the edges of the wall,
 they constructed buildings of a single chamber facing one another,
 leaving between them room for a four-horse chariot to turn. In the
 circuit of the wall are a hundred gates, all of brass, with brazen
-lintels and side posts." <span id="fr_264"></span>[1](#fn_263) These
+lintels and side posts." <span id="fr_264"></span>[1](#fn_263.md) These
 were the gates referred to by Isaiah when God called Cyrus:
 
 <span class="small">I will loose the loins of kings, to open before him
 the two leaved gates; and the gates shall not be shut: I will go before
 thee, and make the crooked places straight; I will break in pieces the
 gates of brass, and cut in sunder the bars of iron. <span
-id="fr_265"></span>[2](#fn_264)</span>
+id="fr_265"></span>[2](#fn_264.md)</span>
 
 The outer wall was the main defence of the city, but there was also an
 inner wall less thick but not much
@@ -154,7 +154,7 @@ broad stairway ascended from terrace to terrace.
 <span id="img_22000"></span> <span align="CENTER"> [![NEBUCHADNEZZAR IN
 THE HANGING GARDENS&lt;br&gt; &lt;i&gt;From the Painting by E.
 Wallcousins&lt;/i&gt;.](tn/22000.jpg)  
-Click to enlarge](img/22000.jpg)  
+Click to enlarge](img/22000.jpg.md)  
 NEBUCHADNEZZAR IN THE HANGING GARDENS  
 *From the Painting by E. Wallcousins*.  
 </span>
@@ -204,7 +204,7 @@ talents' weight, every year, at the festival of the god. In the time of
 Cyrus there was likewise in this temple a figure of a man, twelve cubits
 high, entirely of solid gold. . . . Besides the ornaments which I have
 mentioned, there are a large number of private offerings in this holy
-precinct." <span id="fr_266"></span>[1](#fn_265)
+precinct." <span id="fr_266"></span>[1](#fn_265.md)
 
 The city wall and river gates were closed every night, and when Babylon
 was besieged the people were able to feed themselves. The gardens and
@@ -217,7 +217,7 @@ In Hammurabi's time the river was crossed by ferry boats, but long ere
 the Greeks visited the city a great bridge had been constructed. So
 completely did the fierce Sennacherib destroy the city, that most of the
 existing ruins date from the period of Nebuchadnezzar II. <span
-id="fr_267"></span>[2](#fn_266)
+id="fr_267"></span>[2](#fn_266.md)
 
 Our knowledge of the social life of Babylon and the territory under its
 control is derived chiefly from the Hammurabi Code of laws, of which an
@@ -232,7 +232,7 @@ law-abiding people had been broken in three pieces, but when these
 <span id="img_22200"></span> <span align="CENTER"> [![STELE OF
 HAMMURABI, WITH ''CODE OF LAWS''&lt;br&gt; (&lt;i&gt;Louvre,
 Paris&lt;/i&gt;)&lt;br&gt; Photo. Giraudon](tn/22200.jpg)  
-Click to enlarge](img/22200.jpg)  
+Click to enlarge](img/22200.jpg.md)  
 STELE OF HAMMURABI, WITH ''CODE OF LAWS''  
 (*Louvre, Paris*)  
 Photo. Giraudon  
@@ -309,7 +309,7 @@ beautiful
 <span id="img_22400"></span> <span align="CENTER"> [![THE BABYLONIAN
 MARRIAGE MARKET&lt;br&gt; &lt;i&gt;From The Painting by Edwin Long,
 R.A., in the Royal Holloway College&lt;/i&gt;.](tn/22400.jpg)  
-Click to enlarge](img/22400.jpg)  
+Click to enlarge](img/22400.jpg.md)  
 THE BABYLONIAN MARRIAGE MARKET  
 *From The Painting by Edwin Long, R.A., in the Royal Holloway
 College*.  
@@ -330,7 +330,7 @@ away the damsel whom he had purchased without finding bail really and
 truly to make her his wife; if, however, it turned out that they did not
 agree, the money might be paid back. All who liked might come, even from
 distant villages, and bid for the women." <span
-id="fr_268"></span>[1](#fn_267)
+id="fr_268"></span>[1](#fn_267.md)
 
 This custom is mentioned by other writers, but it is impossible to
 ascertain at what period it became prevalent in Babylonia and by whom it
@@ -580,7 +580,7 @@ people in the
 <span id="page_233">p. 233</span>
 
 great affair of health than we owe to all the later science." <span
-id="fr_269"></span>[1](#fn_268)
+id="fr_269"></span>[1](#fn_268.md)
 
 Herodotus, commenting on the custom of patients taking a census of folk
 cures in the streets, said it was one of the wisest institutions of the
@@ -678,7 +678,7 @@ incantation by exclaiming:
 
 <span class="small">"So must thou say this, O Worm!  
 May Ea smite thee with the might of his fist." <span
-id="fr_270"></span>[1](#fn_269)</span>
+id="fr_270"></span>[1](#fn_269.md)</span>
 
 </div>
 
@@ -693,7 +693,7 @@ evil-eye curers, who still
 
 operate in isolated districts in these islands, draw water from under
 bridges "over which the dead and the living pass", <span
-id="fr_271"></span>[1](#fn_270) and mutter charms and lustrate victims.
+id="fr_271"></span>[1](#fn_270.md) and mutter charms and lustrate victims.
 
 Headaches were much dreaded by the Babylonians. They were usually the
 first symptoms of fevers, and the demons who caused them were supposed
@@ -831,31 +831,31 @@ influential members of society.
 
 ### Footnotes
 
-<span id="fn_263"></span>[219:1](mba16.htm#fr_264) *Herodotus*, book i,
+<span id="fn_263"></span>[219:1](mba16.htm#fr_264.md) *Herodotus*, book i,
 179 (Rawlinson's translation).
 
-<span id="fn_264"></span>[219:2](mba16.htm#fr_265) *Isaiah*, xlv, I, 2.
+<span id="fn_264"></span>[219:2](mba16.htm#fr_265.md) *Isaiah*, xlv, I, 2.
 
-<span id="fn_265"></span>[222:1](mba16.htm#fr_266) *Herodotus*, book i,
+<span id="fn_265"></span>[222:1](mba16.htm#fr_266.md) *Herodotus*, book i,
 181-3 (Rawlinson's translation).
 
-<span id="fn_266"></span>[222:2](mba16.htm#fr_267) *History of Sumer and
+<span id="fn_266"></span>[222:2](mba16.htm#fr_267.md) *History of Sumer and
 Akkad*, L. W. King, p. 37.
 
-<span id="fn_267"></span>[225:1](mba16.htm#fr_268) *Herodotus*, book i,
+<span id="fn_267"></span>[225:1](mba16.htm#fr_268.md) *Herodotus*, book i,
 196 (Rawlinson's translation).
 
-<span id="fn_268"></span>[233:1](mba16.htm#fr_269) *Home Life of the
+<span id="fn_268"></span>[233:1](mba16.htm#fr_269.md) *Home Life of the
 Highlanders* (Dr. Cameron Gillies on *Medical Knowledge*), pp. 85 *et
 seq*. Glasgow, 1911.
 
-<span id="fn_269"></span>[235:1](mba16.htm#fr_270) Translations by R. C.
+<span id="fn_269"></span>[235:1](mba16.htm#fr_270.md) Translations by R. C.
 Thompson in *The Devils and Spirits of Babylon*, vol. i, pp. lxiii *et
 seq*.
 
-<span id="fn_270"></span>[236:1](mba16.htm#fr_271) Bridges which lead to
+<span id="fn_270"></span>[236:1](mba16.htm#fr_271.md) Bridges which lead to
 graveyards.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Golden Age of Babylonia](mba17)
+[Next: Chapter XI. The Golden Age of Babylonia](mba17.md)

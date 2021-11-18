@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc13)  [Next](motc15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc13)  [Next](motc15.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ will bring her Cyprian onions and cheese upon your return from Cythion.
 
 ------------------------------------------------------------------------
 
-[Next: A Mother's Advice](motc15)
+[Next: A Mother's Advice](motc15.md)

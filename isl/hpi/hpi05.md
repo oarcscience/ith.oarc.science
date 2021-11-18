@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi04)  [Next](hpi06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi04)  [Next](hpi06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -182,7 +182,7 @@ danger; but the learned men of Transoxiana, who, upon hearing of the
 establishment of the first Madrasah, appointed a solemn memorial
 service, as tradition tells, to be held in honour of departed science,
 have been shewn to be correct in their estimate. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 Then,--in the 13<sup>th</sup> century,--there came storming over the
 Eastern regions of Islam the resounding invasion of the Mongols, who
@@ -194,9 +194,9 @@ stimulate a revival of Science.
 
 ### Footnotes
 
-<span id="fn_3"></span>[6:1](hpi05.htm#fr_3) Cf. Snouck Hurgronje,
+<span id="fn_3"></span>[6:1](hpi05.htm#fr_3.md) Cf. Snouck Hurgronje,
 "Mekka", II, p. 228 *sq*.
 
 ------------------------------------------------------------------------
 
-[Next: 2. Oriental Wisdom](hpi06)
+[Next: 2. Oriental Wisdom](hpi06.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb13)  [Next](refb15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb13)  [Next](refb15.md) 
 
 </div>
 
@@ -494,6 +494,6 @@ She then took her leave of Jack and his mother.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Good Mouse](refb15)
+[Next: The Little Good Mouse](refb15.md)
 
 </div>

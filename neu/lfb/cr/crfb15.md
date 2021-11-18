@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](crfb14)  [Next](crfb16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](crfb14)  [Next](crfb16.md) 
 
 </div>
 
@@ -218,6 +218,6 @@ wife in the forest, where, if they are not dead, they are living still.
 
 ------------------------------------------------------------------------
 
-[Next: The Treasure Seeker](crfb16)
+[Next: The Treasure Seeker](crfb16.md)
 
 </div>

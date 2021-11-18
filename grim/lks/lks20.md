@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](lks19)  [Next](lks21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](lks19)  [Next](lks21.md) 
 
 ------------------------------------------------------------------------
 
@@ -40,4 +40,4 @@ liberty:
 ------------------------------------------------------------------------
 
 [Next: The General Curse, Called The Spirits' Chain, Against All Spirits
-That Rebel](lks21)
+That Rebel](lks21.md)

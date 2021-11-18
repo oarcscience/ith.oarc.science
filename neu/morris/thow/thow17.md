@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](thow16)  [Next](thow18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](thow16)  [Next](thow18.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Wolfings*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -132,6 +132,6 @@ in his likeness; for she had the power and craft of shape-changing.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII—The Wood-Sun Speaketh With Thiodolf](thow18)
+[Next: Chapter XVII—The Wood-Sun Speaketh With Thiodolf](thow18.md)
 
 </div>

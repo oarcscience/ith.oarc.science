@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index) 
-[Index](index)  [Previous](trt16)  [Next](trt18) 
+[Intangible Textual Heritage](../../index)  [Legends & Sagas](../index.md) 
+[Index](index)  [Previous](trt16)  [Next](trt18.md) 
 
 ------------------------------------------------------------------------
 
@@ -63,4 +63,4 @@ know well that among earthly sinful Knights you are without peer.'
 
 ------------------------------------------------------------------------
 
-[Next: VII: An Adventure of Sir Gawaine](trt18)
+[Next: VII: An Adventure of Sir Gawaine](trt18.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](bkt05) [Next](bkt07)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](bkt05) [Next](bkt07.md)
 
 ------------------------------------------------------------------------
 
@@ -13,13 +13,13 @@ them by a flood. But the prophet Noah, who had in vain attempted to
 restore his followers to the path of virtue, was saved: for Allah
 commanded him to build an ark for himself and family, and to enter it as
 soon as his wife should see the scalding waters streaming from the
-oven.<span id="page_53_fr_*"></span>[\*](#page_53_note_*) This was the
+oven.<span id="page_53_fr_*"></span>[\*](#page_53_note_*.md) This was the
 beginning of the flood; for it was followed by incessant rains from
 heaven (as from well-filled leathern bottles into which a sharp
 instrument has been plunged), which mingling with the subterraneous
 waters that issued forth from all the veins of the earth, produced an
 inundation which none save the giant Audj the son of Anak survived.<span
-id="page_53_fr_dagger"></span>[†](#page_53_note_dagger) The ark floated
+id="page_53_fr_dagger"></span>[†](#page_53_note_dagger.md) The ark floated
 during forty days from one end of the earth to the other, passing <span
 id="page_54">p. 54</span> over the highest mountains; but when it came
 to Mount Abu Kubeis, on whose peak Allah had concealed the black diamond
@@ -31,7 +31,7 @@ returned with an olive leaf in its mouth. Noah blessed the dove, and
 Allah gave her a necklace of green feathers; but the raven which Noah
 had sent out before the dove, he cursed, because, instead of returning
 to him, it stayed to feast on a carcass which it found on the
-earth,<span id="page_54_fr_*"></span>[\*](#page_54_note_*) wherefore the
+earth,<span id="page_54_fr_*"></span>[\*](#page_54_note_*.md) wherefore the
 raven is no longer able to walk like other birds.
 
    But, spite of the calamities of the flood, which Allah intended to
@@ -45,7 +45,7 @@ descendants remained white, indeed, but it was written that none of them
 should attain to the dignity of a prophet. Sham (Shem) is the sole
 ancestor of the prophets, among whom Hud and Salih, who lived
 immediately after the flood, attained to high distinction.<span
-id="page_55_fr_*"></span>[\*](#page_55_note_*) Hud was sent to the
+id="page_55_fr_*"></span>[\*](#page_55_note_*.md) Hud was sent to the
 nation of giants which dwelt in Edom, a province of the Southern Arabia,
 then governed by King Shaddad, the son of Aad. When the prophet exhorted
 this king to the faith and fear of Allah, he inquired, "What shall be
@@ -189,7 +189,7 @@ slain, had gone to other countries, or returned to idolatry. Salih knew
 not what to do. Then appeared to him the angel Gabriel, and said,
 "Because thou hast hastily condemned thy people, Allah has taken from
 thee twenty years of thy life; and thou hast passed them sleeping in the
-cave.<span id="page_61_fr_*"></span>[\*](#page_61_note_*) <span
+cave.<span id="page_61_fr_*"></span>[\*](#page_61_note_*.md) <span
 id="page_62">p. 62</span> But rise and preach again. Allah sends thee
 here Adam's shirt, Abel's sandals, the tunic of Sheth, the seal of
 Idris, the sword of Noah, and the staff of Hud, with all of which thou
@@ -313,7 +313,7 @@ company to Palestine, where they ended their days as hermits.
 
 ------------------------------------------------------------------------
 
-[Next](bkt07)
+[Next](bkt07.md)
 
 ------------------------------------------------------------------------
 
@@ -321,10 +321,10 @@ company to Palestine, where they ended their days as hermits.
 
 <span id="footnotes_page_53">p. 53</span>
 
-   <span id="page_53_note_*"></span>[\*](#page_53_fr_*) The generation
+   <span id="page_53_note_*"></span>[\*](#page_53_fr_*.md) The generation
 of the flood was chastised with scalding water.—*Midrash*, p. 14.
 
-   <span id="page_53_note_dagger"></span>[†](#page_53_fr_dagger) Besides
+   <span id="page_53_note_dagger"></span>[†](#page_53_fr_dagger.md) Besides
 Noah, Og the King of Bashan was saved, for he seized hold on one of the
 beams of the ark, and swore to Noah that he and his posterity would
 serve him as bondmen. Noah made an opening through the wall of the ark,
@@ -333,20 +333,20 @@ Bashan survived of all the giants."—*Midrash*, p. 14.
 
 <span id="footnotes_page_54">p. 54</span>
 
-   <span id="page_54_note_*"></span>[\*](#page_54_fr_*) The Midrash, p.
+   <span id="page_54_note_*"></span>[\*](#page_54_fr_*.md) The Midrash, p.
 15, relates the same, and draws from it the conclusion that no one
 should seek to accomplish his ends by (unclean) unlawful means: the
 raven being unclean (unlawful) but the dove being clean.
 
 <span id="footnotes_page_55">p. 55</span>
 
-   <span id="page_55_note_*"></span>[\*](#page_55_fr_*) Hud is probably
+   <span id="page_55_note_*"></span>[\*](#page_55_fr_*.md) Hud is probably
 the Eber of the Scriptures, whom the Rabbis esteem as a prophet, and the
 founder of a celebrated school of divinity.
 
 <span id="footnotes_page_61">p. 61</span>
 
-   <span id="page_61_note_*"></span>[\*](#page_61_fr_*) The idea of a
+   <span id="page_61_note_*"></span>[\*](#page_61_fr_*.md) The idea of a
 prophet's intercession with God is of Scriptural origin. Abraham and
 Moses interceded with God, the one for Sodom, the other for his people;
 and, according to the Hebrew <span id="footnotes_page_62">p. 62</span>

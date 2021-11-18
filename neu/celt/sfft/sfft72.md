@@ -1,29 +1,29 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft71)  [Next](sfft73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft71)  [Next](sfft73.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-### THE MISSING WEB. <span id="fr_110"></span>[1](#fn_110)
+### THE MISSING WEB. <span id="fr_110"></span>[1](#fn_110.md)
 
 "SOME time since, when calling at the house of one of my oldest
 parishioners, who had been a handloom weaver, he fell to speak of other
 days; and, amongst other things, he told me of the disappearance, some
 years back, on a fine summer's evening, of a web of linen which had been
 laid to bleach by the riverside at the foot of the glebe. The fishermen,
-it seems, were 'burning the water' <span id="fr_111"></span>[2](#fn_111)
+it seems, were 'burning the water' <span id="fr_111"></span>[2](#fn_111.md)
 in the Skerry, and the man who had charge of the web went off to see the
 salmon 'leistered,' and on his return the web was gone. Of course there
 was a sensation. The story was soon in everybody's mouth, with abundant
@@ -62,13 +62,13 @@ was believed the lawyer was bribed; 'for he aye likit a dram.'"
 
 ### Footnotes
 
-<span id="fn_110"></span>[235:1](sfft72.htm#fr_110) W. Henderson,
+<span id="fn_110"></span>[235:1](sfft72.htm#fr_110.md) W. Henderson,
 *Folk-Lore of the Northern Counties* (from the narrative of the Rev. R.
 O. Bromfield, of Sprouston).
 
-<span id="fn_111"></span>[235:2](sfft72.htm#fr_111) Spearing, or
+<span id="fn_111"></span>[235:2](sfft72.htm#fr_111.md) Spearing, or
 "leistering," salmon by torch-light.
 
 ------------------------------------------------------------------------
 
-[Next: The Witches Of Delnabo](sfft73)
+[Next: The Witches Of Delnabo](sfft73.md)

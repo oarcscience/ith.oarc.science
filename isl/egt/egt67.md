@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt66)  [Next](egt68) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt66)  [Next](egt68.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ not, who shows no anxiety to seek me! Let it not happen as in Fus
 ------------------------------------------------------------------------
 
 [Next: ON THE LOVE OF THE WORLD AND THE MANNER OF THE PEOPLE OF
-IT.](egt68)
+IT.](egt68.md)

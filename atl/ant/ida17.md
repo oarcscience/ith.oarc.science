@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ida16)  [Next](ida18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ida16)  [Next](ida18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGNEU/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantida (L'Atlantide)*, by Pierre Benoit, \[1920\], at Intangible
 Textual Heritage
 
@@ -201,7 +201,7 @@ the edge of the river where there is water, under the jujube trees,
 brothers of the *zeg-zeg*, the spines of which pierced the head of your
 prophet and which we call 'the tree of Paradise' because our prophet
 told us that under it would live those chosen of Paradise; <span
-id="fr_15"></span>[1](#fn_15) and which is sometimes so big, so big,
+id="fr_15"></span>[1](#fn_15.md) and which is sometimes so big, so big,
 that a horseman cannot traverse its shade in a century.
 
 "There we wove beautiful garlands with mimosa, the pink flowers of the
@@ -365,7 +365,7 @@ the harbor. My friend stood in the midst of the group of Frenchmen who
 waved their caps as long as we could see them. Standing alone on the
 rickety jetty, I waited, watching the water flow by, until the last
 sound of the steam-driven vessel, boum-baraboum, had died away into the
-night <span id="fr_16"></span>[1](#fn_16).
+night <span id="fr_16"></span>[1](#fn_16.md).
 
 <span id="page_236">p. 236</span>
 
@@ -431,10 +431,10 @@ sorghum."
 
 ### Footnotes
 
-<span id="fn_15"></span>[230:1](ida17.htm#fr_15) The Koran, Chapter 66,
+<span id="fn_15"></span>[230:1](ida17.htm#fr_15.md) The Koran, Chapter 66,
 verse 17. (Note by M. Leroux.)
 
-<span id="fn_16"></span>[235:1](ida17.htm#fr_16) Cf. the records and the
+<span id="fn_16"></span>[235:1](ida17.htm#fr_16.md) Cf. the records and the
 *Bulletin de la Société de Géographie de Paris* (1897) for the cruises
 on the Niger, made by the *Commandant* of the Timbuctoo region, Colonel
 Joffre, Lieutenants Baudry and Bluset, and by Father Hacquart of the
@@ -442,4 +442,4 @@ White Fathers. (Note by M. Leroux.)
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVI. The Silver Hammer](ida18)
+[Next: Chapter XVI. The Silver Hammer](ida18.md)

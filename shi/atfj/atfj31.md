@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj30)  [Next](atfj32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj30)  [Next](atfj32.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_33"></span> <span align="CENTER"> [![33. Okureha is Saved
 by the Goddess](tn/33.jpg)  
-Click to enlarge](img/33.jpg)  
+Click to enlarge](img/33.jpg.md)  
 33. Okureha is Saved by the Goddess  
 </span>
 
@@ -79,7 +79,7 @@ the village of Tashiro, at the foot of the mountain. My mother being
 
 <span id="img_34"></span> <span align="CENTER"> [![34. The Goddess of
 Mount Daimugenzan](tn/34.jpg)  
-Click to enlarge](img/34.jpg)  
+Click to enlarge](img/34.jpg.md)  
 34. The Goddess of Mount Daimugenzan  
 </span>
 
@@ -93,7 +93,7 @@ when this dreadful man attacked me. I owe my deliverance entirely to
 you, holy lady, and I am humbly and deeply grateful. I do hope I shall
 be able to come here and pray at this shrine again. My father and mother
 prayed here before I was born both to Kwannon and to the Tennin <span
-id="fr_33"></span>[1](#fn_33) of the mountain. They had no child, and I
+id="fr_33"></span>[1](#fn_33.md) of the mountain. They had no child, and I
 was sent to them after their prayers. Therefore it is right that I
 should come here to pray for my mother; but this horrid man has
 frightened me so that I shall be afraid to come alone again.'
@@ -150,7 +150,7 @@ of
 
 <span id="page_182">p. 182</span>
 
-furoshu. <span id="fr_34"></span>[1](#fn_34) Take care of it on your way
+furoshu. <span id="fr_34"></span>[1](#fn_34.md) Take care of it on your way
 down the mountain, and when you are married give some to your husband.
 You will both remain as you are in appearance, never growing a day older
 though you live for centuries, as you will do; and also it will bring
@@ -183,15 +183,15 @@ years as Sennins in Mount Daimugenzan.
 
 ### Footnotes
 
-<span id="fn_33"></span>[180:1](atfj31.htm#fr_33) Angel.
+<span id="fn_33"></span>[180:1](atfj31.htm#fr_33.md) Angel.
 
-<span id="fn_34"></span>[182:1](atfj31.htm#fr_34) Sake wine of perpetual
+<span id="fn_34"></span>[182:1](atfj31.htm#fr_34.md) Sake wine of perpetual
 youth.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: XXX. The Hermit's Cave](atfj32)
+[Next: XXX. The Hermit's Cave](atfj32.md)
 
 </div>

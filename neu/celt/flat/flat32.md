@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](flat31)  [Next](flat33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](flat31)  [Next](flat33.md) 
 
 ------------------------------------------------------------------------
 
@@ -287,4 +287,4 @@ song of Deardra.
 
 ------------------------------------------------------------------------
 
-[Next: Hanlon's Mill](flat33)
+[Next: Hanlon's Mill](flat33.md)

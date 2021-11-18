@@ -1,13 +1,13 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toah19)  [Next](toah21) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toah19)  [Next](toah21.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_105">p. 105</span>
 
-### THE KANA-A KACHINAS OF SUNSET CRATER <span id="fr_1"></span>[1](#fn_1)
+### THE KANA-A KACHINAS OF SUNSET CRATER <span id="fr_1"></span>[1](#fn_1.md)
 
 AT old Mishongnovi the people lived and at the San Francisco Peaks the
 Kachinas were living. Over in the old town of Mishongnovi there was a
@@ -67,7 +67,7 @@ four days I will go back with you. I will be prepared by that time So
 come back upon that day and take me to your home."
 
 When the fourth day came, she prepared herself and had her hair done up
-in butterfly wings (poli-ia-na ) [76](toah24.htm#xref_76) and got ready
+in butterfly wings (poli-ia-na ) [76](toah24.htm#xref_76.md) and got ready
 some corn meal and some piki, which she must take with her on her
 journey. When the boy came everything was ready and he took the tray of
 corn meal while she carried her piki. They started out and when they got
@@ -283,10 +283,10 @@ until 1902.
 
 ### Footnotes
 
-<span id="fn_1"></span>[105:1](toah20.htm#fr_1) Reprinted from "Hopi
+<span id="fn_1"></span>[105:1](toah20.htm#fr_1.md) Reprinted from "Hopi
 Legends of the Sunset Crater Region," M. N. A., Mus. Notes, Vol. 5, No.
 4, Oct. 1932, p. 19.
 
 ------------------------------------------------------------------------
 
-[Next: The Ladder Dance At Old Shung-opovi](toah21)
+[Next: The Ladder Dance At Old Shung-opovi](toah21.md)

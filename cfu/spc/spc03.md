@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
-[Index](index)  [Previous](spc02)  [Next](spc04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
+[Index](index)  [Previous](spc02)  [Next](spc04.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sacred Places in China*, by Carl F. Kupfer, \[1911\], at Intangible
 Textual Heritage
 
@@ -14,7 +14,7 @@ Textual Heritage
 
 <span id="img_00800"></span> <span align="CENTER"> [![Sz Tseo—THE FOURTH
 PATRIARCH'S MONASTERY.](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)  
+Click to enlarge](img/00800.jpg.md)  
 Sz Tseo—THE FOURTH PATRIARCH'S MONASTERY.  
 </span>
 
@@ -89,13 +89,13 @@ left side of the amphitheater. That this structure was built in the
 
 <span id="img_01100"></span> <span align="CENTER"> [![TEMPLE OVER THE
 CAVE WHERE THE GODDESS OF MERCY DWELLS.](tn/01100.jpg)  
-Click to enlarge](img/01100.jpg)  
+Click to enlarge](img/01100.jpg.md)  
 TEMPLE OVER THE CAVE WHERE THE GODDESS OF MERCY DWELLS.  
 </span>
 
 <span id="img_01101"></span> <span align="CENTER"> [![TOMBS OF BUDDHIST
 PRIESTS.](tn/01101.jpg)  
-Click to enlarge](img/01101.jpg)  
+Click to enlarge](img/01101.jpg.md)  
 TOMBS OF BUDDHIST PRIESTS.  
 </span>
 
@@ -172,7 +172,7 @@ instructed by him in sacred learning. At this time a long
 
 <span id="img_01400"></span> <span align="CENTER"> [![TOMB OF THE MOTHER
 OF THE FIFTH PATRIARCH](tn/01400.jpg)  
-Click to enlarge](img/01400.jpg)  
+Click to enlarge](img/01400.jpg.md)  
 TOMB OF THE MOTHER OF THE FIFTH PATRIARCH  
 </span>
 
@@ -251,7 +251,7 @@ a rock
 <span id="img_01700"></span> <span align="CENTER"> [![BRIDGE OVER THE Pi
 Yü—THE CRYSTAL STREAM.&lt;br&gt; TEMPLE OF THE GREAT
 SUN.](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 BRIDGE OVER THE Pi Yü—THE CRYSTAL STREAM.  
 TEMPLE OF THE GREAT SUN.  
 </span>
@@ -375,11 +375,11 @@ wonders.
 <span id="img_02100"></span> <span align="CENTER"> [![THE FIFTH
 PATRIARCH'S TEMPLE.&lt;br&gt; LAO TSEO—THE OLD PATRIARCH'S
 TEMPLE.](tn/02100.jpg)  
-Click to enlarge](img/02100.jpg)  
+Click to enlarge](img/02100.jpg.md)  
 THE FIFTH PATRIARCH'S TEMPLE.  
 LAO TSEO—THE OLD PATRIARCH'S TEMPLE.  
 </span>
 
 ------------------------------------------------------------------------
 
-[Next: Ngn Ren Tsz—The Monastery of Benevolence](spc04)
+[Next: Ngn Ren Tsz—The Monastery of Benevolence](spc04.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos28)  [Next](grp00) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos28)  [Next](grp00.md) 
 
 ------------------------------------------------------------------------
 
@@ -130,4 +130,4 @@ to God the Lord of the worlds.
 
 ------------------------------------------------------------------------
 
-[Next: Some of The Conditions of a Group of Prophets (PUT)](grp00)
+[Next: Some of The Conditions of a Group of Prophets (PUT)](grp00.md)

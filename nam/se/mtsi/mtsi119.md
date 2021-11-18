@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi118)  [Next](mtsi120) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi118)  [Next](mtsi120.md) 
 
 ------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ This is how it is told.
 
 ------------------------------------------------------------------------
 
-[Next: 27. Tie-Snake and Rabbit](mtsi120)
+[Next: 27. Tie-Snake and Rabbit](mtsi120.md)

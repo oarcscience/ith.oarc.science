@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat15.htm#CXXI) 
-[Previous](satl120)  [Next](satl122) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat15.htm#CXXI.md) 
+[Previous](satl120)  [Next](satl122.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ ad Stygios manes laceratus ducitur orbis.'
 
 ------------------------------------------------------------------------
 
-[Next: CXXII](satl122)
+[Next: CXXII](satl122.md)

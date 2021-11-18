@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg17)  [Next](ttg19) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg17)  [Next](ttg19.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ never hesitating.
 
 [Next: Eighteenth Goblin: The Boy whom his Parents, the King, and the
 Giant conspired to Kill. Why did he laugh at the moment of
-death?](ttg19)
+death?](ttg19.md)

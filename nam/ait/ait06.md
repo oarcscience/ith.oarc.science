@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Native American](../index) 
-[Index](index)  [Previous](ait05)  [Next](ait07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Native American](../index.md) 
+[Index](index)  [Previous](ait05)  [Next](ait07.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ id="page_16">p. 16</span> <span id="page_17">p. 17</span>
 
 |                     |
 |---------------------|
-| ![I](img/01700.jpg) |
+| ![I](img/01700.jpg.md) |
 
 N the beginning, when the Cahrocs lived on the shores of the Klamath
 River, beyond the desert of the sage-brush and far from the Rocky
@@ -254,4 +254,4 @@ with Stars.
 
 ------------------------------------------------------------------------
 
-[Next: How Mad Buffalo Fought the Thunder-Bird](ait07)
+[Next: How Mad Buffalo Fought the Thunder-Bird](ait07.md)

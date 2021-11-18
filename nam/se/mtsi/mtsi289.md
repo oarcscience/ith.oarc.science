@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi288)  [Next](mtsi290) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi288)  [Next](mtsi290.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,4 +30,4 @@ my eyes. That is why they are so red."
 
 ------------------------------------------------------------------------
 
-[Next: 25. The Fox and the Crawfish](mtsi290)
+[Next: 25. The Fox and the Crawfish](mtsi290.md)

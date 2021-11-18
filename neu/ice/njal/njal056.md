@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal055)  [Next](njal057) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal055)  [Next](njal057.md) 
 
 ------------------------------------------------------------------------
 
@@ -127,4 +127,4 @@ son, son of Oleif the Broad, son of Oliver Barncarle.
 
 ------------------------------------------------------------------------
 
-[Next: 57. Of Starkad And His Sons](njal057)
+[Next: 57. Of Starkad And His Sons](njal057.md)

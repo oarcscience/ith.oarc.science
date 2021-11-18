@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](ibr10)  [Next](ibr12) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](ibr10)  [Next](ibr12.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,14 +25,14 @@ the key to the secret of their language. They have as many genders as
 ourselves, as many numbers as the Greeks." Recurring to the same
 comparison, he remarks of the Huron verb that it has as many tenses and
 numbers as the Greek, with certain discriminations which the latter did
-not possess. <span id="fr_56"></span>[1](#fn_56) A great living
+not possess. <span id="fr_56"></span>[1](#fn_56.md) A great living
 authority has added the weight of his name to these opinions of the
 scholarly Jesuit. Professor Max Müller, who took the opportunity
 afforded by the presence of a Mohawk undergraduate at Oxford to study
 his language, writes of it in emphatic terms: "To my mind the structure
 of such a language as the Mohawk is quite sufficient evidence that those
 who worked out such a work of art were powerful reasoners; and accurate
-classifiers." <span id="fr_57"></span>[2](#fn_57)
+classifiers." <span id="fr_57"></span>[2](#fn_57.md)
 
 <span id="page_100">p. 100</span>
 
@@ -128,7 +128,7 @@ Indo-European languages, and surpassed in
 <span id="page_103">p. 103</span>
 
 almost every respect the Semitic and Chinese tongues. <span
-id="fr_58"></span>[1](#fn_58) The resemblances of these Indian languages
+id="fr_58"></span>[1](#fn_58.md) The resemblances of these Indian languages
 to the Greek struck him, as it had struck his illustrious predecessor,
 the martyred Brebeuf, two hundred years before. M. Cuoq is also the
 author of a valuable Iroquois lexicon, with notes and appendices, in
@@ -136,7 +136,7 @@ which he discusses some interesting points in the philology of the
 language. This lexicon is important, also, for comparison with that of
 the Jesuit missionary, Bruyas, as showing how little the language has
 varied in the course of two centuries. <span
-id="fr_59"></span>[2](#fn_59) The following particulars respecting the
+id="fr_59"></span>[2](#fn_59.md) The following particulars respecting the
 Iroquois tongues are mainly derived from the works of M. Cuoq, of
 Bruyas, and of Mr. Wright, supplemented by the researches of the author,
 pursued at intervals during several years, among the tribes of Western
@@ -189,7 +189,7 @@ a nasal sound. This nasalizing makes them, in
 <span id="page_105">p. 105</span>
 
 fact, distinct elements; and the primary sounds of the language may
-therefore be reckoned at fourteen. <span id="fr_60"></span>[1](#fn_60)
+therefore be reckoned at fourteen. <span id="fr_60"></span>[1](#fn_60.md)
 The absence of labials and the frequent aspirated gutturals give to the
 utterance of the best speakers a deep and sonorous character which
 reminds the hearer of the stately Castilian speech.
@@ -279,7 +279,7 @@ have *otarihénsera*, heat; from *wakeriat*, to be brave,
 pride; *kanakwénsera*, anger. Words of this class abound in the
 Iroquois; so little ground is there for the common opinion that the
 language is destitute of abstract nouns. <span
-id="fr_61"></span>[1](#fn_61)
+id="fr_61"></span>[1](#fn_61.md)
 
 The adjective, when employed in an isolated form, follows the
 substantive; as *kanonsa kowa*, large house; *onkwe honwe* (or *onwe*) a
@@ -532,10 +532,10 @@ maintained, than those of the written Aryan tongues.
 
 ### Footnotes
 
-<span id="fn_56"></span>[99:1](ibr11.htm#fr_56) Relation of 1636, pp.
+<span id="fn_56"></span>[99:1](ibr11.htm#fr_56.md) Relation of 1636, pp.
 99, 100.
 
-<span id="fn_57"></span>[99:2](ibr11.htm#fr_57) in a letter to the
+<span id="fn_57"></span>[99:2](ibr11.htm#fr_57.md) in a letter to the
 author, dated Feb. 14, 1882. in a subsequent letter Prof. Müller writes,
 in regard to the study of the aboriginal languages of this continent:
 "It has long been a puzzle to me why this most tempting <span
@@ -550,7 +550,7 @@ his able collaborators of the Ethnological Bureau, are at length
 beginning to awaken among us, in the investigation of this important and
 almost unexplored province of linguistic science.
 
-<span id="fn_58"></span>[103:1](ibr11.htm#fr_58) See Jugement Erroné de
+<span id="fn_58"></span>[103:1](ibr11.htm#fr_58.md) See Jugement Erroné de
 M. Ernest Renan sur les Langues Sauvages: (2d edit.) Dawson Brothers,
 Montreal: 1870; and Études Philologiques sur quelques Langues Sauvages
 de l'Amérique. Par N. O., Ancien Missionaire. Ibid: 1866. Also Lexique
@@ -558,23 +558,23 @@ de la Langue Iroquoise, avec notes et appendices. Par J. A. Cuoq, Prêtre
 de St. Sulpice. J. Chapleau & Fils, Montreal: 1882. These are all works
 indispensable to the student of Indian languages.
 
-<span id="fn_59"></span>[103:2](ibr11.htm#fr_59) Radices Verborum
+<span id="fn_59"></span>[103:2](ibr11.htm#fr_59.md) Radices Verborum
 Iroquæorum. Auctore R. p. Jacopo Bruyas, Societatis Jesu. Published in
 Shea's "Library of American Linguistics." For the works in this
 invaluable Library, American scholars owe a debt of gratitude to Dr.
 Shea's enlightened zeal in the cause of science and humanity.
 
-<span id="fn_60"></span>[105:1](ibr11.htm#fr_60) A dental *t*,--which
+<span id="fn_60"></span>[105:1](ibr11.htm#fr_60.md) A dental *t*,--which
 the French missionaries represent sometimes by the Greek *theta* and
 sometimes by *th*, and which the English have also occasionally
 expressed by the latter method, may possibly furnish an additional
 element. The Greek *8* of the former is simply the English *w*.
 
-<span id="fn_61"></span>[107:1](ibr11.htm#fr_61) See, on this point, the
+<span id="fn_61"></span>[107:1](ibr11.htm#fr_61.md) See, on this point, the
 remarks of Dr. Brinton to the same effect, in regard to the Aztec,
 Qquichua, and other languages, with interesting illustrations, in his
 "American Hero Myths," p. 25
 
 ------------------------------------------------------------------------
 
-[Next: Ancient Rites of the Condoling Council](ibr12)
+[Next: Ancient Rites of the Condoling Council](ibr12.md)

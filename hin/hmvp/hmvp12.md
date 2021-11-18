@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp11)  [Next](hmvp13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp11)  [Next](hmvp13.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -18,11 +18,11 @@ Intangible Textual Heritage
 
 <span class="smallcaps">Soma</span>, according to the Vedic hymns, is
 the god who "represents and animates the juice of the Soma <span
-id="fr_69"></span>[\*](#fn_69) plant." He was the Indian Bacchus. Not
+id="fr_69"></span>[\*](#fn_69.md) plant." He was the Indian Bacchus. Not
 only are all the hymns of the ninth book of the Rig-Veda, one hundred
 and fourteen in number, besides a few in other places, dedicated to his
 honour, but constant references occur to him in a large proportion of
-other hymns. <span id="fr_70"></span>[†](#fn_70) In some of these hymns
+other hymns. <span id="fr_70"></span>[†](#fn_70.md) In some of these hymns
 he is extolled as the Creator, or Father of the gods. Evidently at that
 time he was a most popular deity. Indra, as was stated before, was an
 enthusiastic worshipper of Soma.
@@ -43,7 +43,7 @@ towards him:—
 
 <span id="img_07000"></span> <span align="CENTER"> [![THE
 SOMA-PLANT.](tn/07000.jpg)  
-Click to enlarge](img/07000.jpg)  
+Click to enlarge](img/07000.jpg.md)  
 THE SOMA-PLANT.  
 </span>
 
@@ -69,12 +69,12 @@ And all the gods have known.
 What mortal now can harm,  
 Or foeman vex us more?  
 Through thee, beyond alarm,  
-Immortal god, we soar.'" <span id="fr_71"></span>[\*](#fn_71)</span>
+Immortal god, we soar.'" <span id="fr_71"></span>[\*](#fn_71.md)</span>
 
 </div>
 
 From the Vedas the following account of Soma is derived. <span
-id="fr_72"></span>[†](#fn_72) In some passages the plant is said to have
+id="fr_72"></span>[†](#fn_72.md) In some passages the plant is said to have
 been brought from a mountain and given to Indra; in others, King Soma is
 said to have dwelt amongst the Gandharvas, a race of demi-gods that form
 the choir in Indra's heaven. The gods, knowing the virtues of this king
@@ -100,7 +100,7 @@ taking two-thirds of the drink. Vāyu
 said, "Not so! I will be the winner alone." Then Indra said, "Let us
 come in together, and give me one-fourth of the draught divine!" Vāyu
 consented to this, and so the juice was shared between them. <span
-id="fr_73"></span>[\*](#fn_73)
+id="fr_73"></span>[\*](#fn_73.md)
 
 Soma is said to have had thirty-three wives, the daughters of Prajāpati;
 of these Rohini was the favourite. Being dissatisfied with the
@@ -125,7 +125,7 @@ there said, "Place me, O purified god, in that everlasting and
 imperishable world, where there is eternal light and glory. O Indu
 (Soma), flow for Indra! Make me immortal in the world where Vaivasvata
 lives, where is the universal sphere of the sky, where those great
-waters flow." <span id="fr_74"></span>[†](#fn_74)
+waters flow." <span id="fr_74"></span>[†](#fn_74.md)
 
 <span id="page_73">p. 73</span>
 
@@ -144,19 +144,19 @@ juice, and as the moon ruling through the night. " By Soma the Ādityas
 are strong; by Soma the earth is great; and Soma is placed in the midst
 of the stars. When they crush the plant, he who drinks regards it as
 Soma. Of him whom the priests regard as Soma (the moon) no one
-drinks." <span id="fr_75"></span>[\*](#fn_75) In another passage this
+drinks." <span id="fr_75"></span>[\*](#fn_75.md) In another passage this
 prayer is found: "May the god Soma, he whom they call the Moon, free
 me." Again, "Soma is the moon, the food of the gods." "The sun has the
 nature of Agni, the moon of Soma."
 
-In the "Vishnu Purāna" <span id="fr_76"></span>[†](#fn_76) we read,
+In the "Vishnu Purāna" <span id="fr_76"></span>[†](#fn_76.md) we read,
 "Soma was appointed monarch of the stars and plants, of Brāhmans and
 plants, of sacrifices and penance." In this Purāna we have quite a
 different account of the origin of Soma; but it must be borne in mind
 that in this account the term refers only to the moon. At the time the
 "Vishnu Purāna" was written, intoxicants were strictly forbidden; hence
 Soma, as the god of the intoxicating juice, was no longer known and
-praised. According to that Purāna, <span id="fr_77"></span>[‡](#fn_77)
+praised. According to that Purāna, <span id="fr_77"></span>[‡](#fn_77.md)
 
 <span id="page_74">p. 74</span>
 
@@ -183,13 +183,13 @@ child of Vrihaspati or Soma?" "Of Soma," she said, blushing. As soon as
 she had spoken, the lord of the constellations, his countenance being
 bright, embraced his son and said, "Well done, my boy; verily thou art
 wise;" and hence his name was Budha. <span
-id="fr_78"></span>[\*](#fn_78)
+id="fr_78"></span>[\*](#fn_78.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_69"></span>[69:\*](hmvp12.htm#fr_69) The Soma-plant of the
+<span id="fn_69"></span>[69:\*](hmvp12.htm#fr_69.md) The Soma-plant of the
 Rig-Veda is the *Asclepias acida* of Roxburgh. It is a creeping plant,
 almost destitute of leaves. It has small white fragrant flowers
 collected round the extremities of the branches. Roxburgh says that it
@@ -202,26 +202,26 @@ sacrifice. This is occasionally made in the present day, but very few
 priests are acquainted with the ritual of this once celebrated
 sacrifice.
 
-<span id="fn_70"></span>[69:†](hmvp12.htm#fr_70) Muir, O. S. T., v. 258.
+<span id="fn_70"></span>[69:†](hmvp12.htm#fr_70.md) Muir, O. S. T., v. 258.
 
-<span id="fn_71"></span>[71:\*](hmvp12.htm#fr_71) Muir, O. S. T., v.
+<span id="fn_71"></span>[71:\*](hmvp12.htm#fr_71.md) Muir, O. S. T., v.
 130.
 
-<span id="fn_72"></span>[71:†](hmvp12.htm#fr_72) Ibid. v. 263 ff.
+<span id="fn_72"></span>[71:†](hmvp12.htm#fr_72.md) Ibid. v. 263 ff.
 
-<span id="fn_73"></span>[72:\*](hmvp12.htm#fr_73) Muir, O. S. T., v.
+<span id="fn_73"></span>[72:\*](hmvp12.htm#fr_73.md) Muir, O. S. T., v.
 144.
 
-<span id="fn_74"></span>[72:†](hmvp12.htm#fr_74) Ibid., v. 266.
+<span id="fn_74"></span>[72:†](hmvp12.htm#fr_74.md) Ibid., v. 266.
 
-<span id="fn_75"></span>[73:\*](hmvp12.htm#fr_75) Muir, O. S. T.. v.
+<span id="fn_75"></span>[73:\*](hmvp12.htm#fr_75.md) Muir, O. S. T.. v.
 271.
 
-<span id="fn_76"></span>[73:†](hmvp12.htm#fr_76) Book i. chap. xxii.
+<span id="fn_76"></span>[73:†](hmvp12.htm#fr_76.md) Book i. chap. xxii.
 
-<span id="fn_77"></span>[73:‡](hmvp12.htm#fr_77) Book iv. chap. vi.
+<span id="fn_77"></span>[73:‡](hmvp12.htm#fr_77.md) Book iv. chap. vi.
 
-<span id="fn_78"></span>[74:\*](hmvp12.htm#fr_78) This Budha, son of
+<span id="fn_78"></span>[74:\*](hmvp12.htm#fr_78.md) This Budha, son of
 Soma, and regent of the planet Mercury, must not be confounded with
 Buddha, the teacher whose tenets are held by the Buddhists of the
 present day. The two beings have nothing in common; and the names are
@@ -229,4 +229,4 @@ identical only when one or other of them is misspelt.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Tvastri or Visvakarma](hmvp13)
+[Next: Chapter IX. Tvastri or Visvakarma](hmvp13.md)

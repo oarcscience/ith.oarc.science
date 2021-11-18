@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl30)  [Next](hpl32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl30)  [Next](hpl32.md) 
 
 ------------------------------------------------------------------------
 
@@ -1096,4 +1096,4 @@ and see that it meets no other eye.
 
 ------------------------------------------------------------------------
 
-[Next: The Dunwich Horror (Weird Tales 1929)](hpl32)
+[Next: The Dunwich Horror (Weird Tales 1929)](hpl32.md)

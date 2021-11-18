@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](dlt11)  [Next](dlt13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](dlt11)  [Next](dlt13.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ passage (xi. 1-5) a purely human ruler is presented, upon whom, however,
 the Spirit of Jehovah is manifest in a unique manner; he is a descendant
 of Jesse, and therefore presumably (though this is not explicitly
 stated) his subjects are restricted to the Children of Israel. <span
-id="fr_84"></span>[1](#fn_84) It seems, therefore, incontrovertible
+id="fr_84"></span>[1](#fn_84.md) It seems, therefore, incontrovertible
 that, if one is to take these passages as they stand, in their natural
 meaning, and without reading into them thoughts and ideas which belong
 to later ages, one is forced to the conclusion that, at
@@ -94,9 +94,9 @@ matter; it is Christ, and Christ only, Who is the Central Figure in the
 "last times." Then, again, while in the earlier teaching it is always
 *Jehovah* who is to be the Judge--an office which is never committed to
 the Messiah of pre-Christian times, <span
-id="fr_85"></span>[1](#fn_85)--and the Messiah is always a human
-being, <span id="fr_86"></span>[2](#fn_86) in the Gospel teaching
-*Christ* is the *Judge*, <span id="fr_87"></span>[3](#fn_87) and He is
+id="fr_85"></span>[1](#fn_85.md)--and the Messiah is always a human
+being, <span id="fr_86"></span>[2](#fn_86.md) in the Gospel teaching
+*Christ* is the *Judge*, <span id="fr_87"></span>[3](#fn_87.md) and He is
 also the Messiah; thus the Divine Judge and the human Messiah are found
 to be centred in the Person of Christ. *This is the testimony which
 Christ bears of Himself: But when the Son of Man shall come in his
@@ -252,7 +252,7 @@ of course, wholly absent from the Gospel teaching, indeed it is a
 further point of contrast that the Gospels have far less to say about
 the judgement on the wicked than the earlier literature; the Gospel
 teaching is characterised by a much more pronounced note of hope; <span
-id="fr_88"></span>[1](#fn_88) nothing, for example, could be more
+id="fr_88"></span>[1](#fn_88.md) nothing, for example, could be more
 striking than the words in the parable: *Go out quickly into the streets
 and lanes of the city, and bring in hither the poor and the maimed and
 blind and lame. . . . And the lord said unto the servant, Go out into
@@ -272,7 +272,7 @@ The point of contrast here centres, therefore, in the fact of the wish
 that the wicked, by becoming better, should continue for ever as members
 of the Kingdom. They are not regarded as naturally shut out; on the
 contrary, it is taken for granted that in the normal course they *ought*
-to be included among its members. <span id="fr_89"></span>[1](#fn_89)
+to be included among its members. <span id="fr_89"></span>[1](#fn_89.md)
 According to the Gospel teaching every single human being is of account;
 and this brings us to another point of contrast between the earlier
 teaching and that of the Gospel regarding the Kingdom; it is that the
@@ -306,31 +306,31 @@ antecedent teaching.
 
 ### Footnotes
 
-<span id="fn_84"></span>[192:1](dlt12.htm#fr_84) See for details
+<span id="fn_84"></span>[192:1](dlt12.htm#fr_84.md) See for details
 concerning what is said here, *The Evolution of the Messianic Idea*,
 chaps. xiv., xv.
 
-<span id="fn_85"></span>[194:1](dlt12.htm#fr_85) We are, of course, only
+<span id="fn_85"></span>[194:1](dlt12.htm#fr_85.md) We are, of course, only
 referring to the Judge in the restricted eschatological sense.
 
-<span id="fn_86"></span>[194:2](dlt12.htm#fr_86) It is true that the
+<span id="fn_86"></span>[194:2](dlt12.htm#fr_86.md) It is true that the
 office of the Messiah, as ruler on earth, is sometimes, as we have seen,
 ascribed to Jehovah; but the Messiah Himself is always a human being in
 Old Testament teaching.
 
-<span id="fn_87"></span>[194:3](dlt12.htm#fr_87) Sometimes, in some of
+<span id="fn_87"></span>[194:3](dlt12.htm#fr_87.md) Sometimes, in some of
 the parables, it is God Himself Who is the Judge (see Matt. xviii. 32;
 xx. 8; xxii. 11; Luke xviii. 7).
 
-<span id="fn_88"></span>[201:1](dlt12.htm#fr_88) It is true to say that
+<span id="fn_88"></span>[201:1](dlt12.htm#fr_88.md) It is true to say that
 the Apocalyptists were to a great extent driven by *despair* of better
 things on earth to frame their eschatological ideas; on the other hand,
 the basis of Gospel Eschatology is *hope*.
 
-<span id="fn_89"></span>[202:1](dlt12.htm#fr_89) *Cf.* 1 Tim. ii. 4:
+<span id="fn_89"></span>[202:1](dlt12.htm#fr_89.md) *Cf.* 1 Tim. ii. 4:
 *Who willeth that all men should be saved, and come to the knowledge of
 the truth*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. The Christian Adaptation of Jewish Teaching.](dlt13)
+[Next: Chapter XI. The Christian Adaptation of Jewish Teaching.](dlt13.md)

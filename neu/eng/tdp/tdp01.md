@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](tdp00)  [Next](tdp02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](tdp00)  [Next](tdp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,4 @@ South Brent, Devon,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Moorland Haunts of the Pixies](tdp02)
+[Next: Chapter I: The Moorland Haunts of the Pixies](tdp02.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst049)  [Next](inst051) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst049)  [Next](inst051.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,14 +121,14 @@ salvation, as we are taught by the celebrated words of Peter, “Neither
 is there salvation in any other: for there is none other name under
 heaven given among men whereby we must be saved,” (<span
 id="iv.ii.xvii-p23.1"></span>[Acts
-4:12](../../../bib/kjv/act004.htm#012)<span
+4:12](../../../bib/kjv/act004.htm#012.md)<span
 id="iv.ii.xvii-p23.1"></span>). The name of Jesus was not given him at
 random, or fortuitously, or by the will of man, but was brought from
 heaven by an angel, as the herald of the supreme decree;25  <span
-id="fr_249"></span>[250](#fn_249) the reason also being added, “for he
+id="fr_249"></span>[250](#fn_249.md) the reason also being added, “for he
 shall save his people from their sins,” (<span
 id="iv.ii.xvii-p24.1"></span>[Matt.
-1:21](../../../bib/kjv/mat001.htm#021)<span
+1:21](../../../bib/kjv/mat001.htm#021.md)<span
 id="iv.ii.xvii-p24.1"></span>). In these words attention should be paid
 to what we have elsewhere observed, that the office of Redeemer was
 assigned him in order that he might be our Saviour. Still, however,
@@ -164,17 +164,17 @@ there thus arises some appearance of contradiction, I will explain the
 difficulty. The mode in which the Spirit usually speaks in Scripture is,
 that God was the enemy of men until they were restored to favour by the
 death of Christ (<span id="iv.ii.xvii-p25.1"></span>[Rom.
-5:10](../../../bib/kjv/rom005.htm#010)<span
+5:10](../../../bib/kjv/rom005.htm#010.md)<span
 id="iv.ii.xvii-p25.1"></span>); that they were cursed until their
 iniquity was expiated by the sacrifice of Christ (<span
 id="iv.ii.xvii-p25.2"></span>[Gal.
-3:10](../../../bib/kjv/gal003.htm#010),
-[13](../../../bib/kjv/gal003.htm#013)<span
+3:10](../../../bib/kjv/gal003.htm#010.md),
+[13](../../../bib/kjv/gal003.htm#013.md)<span
 id="iv.ii.xvii-p25.2"></span>); that they were separated from God, until
 by means of Christ’s body they were received into union (<span
 id="iv.ii.xvii-p25.3"></span>[Col.
-1:21](../../../bib/kjv/col001.htm#021),
-[22](../../../bib/kjv/col001.htm#022)<span
+1:21](../../../bib/kjv/col001.htm#021.md),
+[22](../../../bib/kjv/col001.htm#022.md)<span
 id="iv.ii.xvii-p25.3"></span>). Such modes of expression are
 accommodated to our capacity, that we may the better understand how
 miserable and calamitous our condition is without Christ. For were it
@@ -243,17 +243,17 @@ not imputed to us.
 “has blessed us with all spiritual blessings in heavenly places in
 Christ: according as he has chosen us in him before the foundation of
 the world,” (<span id="iv.ii.xvii-p27.1"></span>[Eph.
-1:3](../../../bib/kjv/eph001.htm#003),
-[4](../../../bib/kjv/eph001.htm#004)<span
+1:3](../../../bib/kjv/eph001.htm#003.md),
+[4](../../../bib/kjv/eph001.htm#004.md)<span
 id="iv.ii.xvii-p27.1"></span>). These things are clear and conformable
 to Scripture, and admirably reconcile the passages in which it is said,
 that “God so loved the world, that he gave his only begotten Son,”
 (<span id="iv.ii.xvii-p27.2"></span>[John
-3:16](../../../bib/kjv/joh003.htm#016)<span
+3:16](../../../bib/kjv/joh003.htm#016.md)<span
 id="iv.ii.xvii-p27.2"></span>); and yet that it was “when we were
 enemies we were reconciled to God by the death of his Son,” (<span
 id="iv.ii.xvii-p27.3"></span>[Rom.
-5:10](../../../bib/kjv/rom005.htm#010)<span
+5:10](../../../bib/kjv/rom005.htm#010.md)<span
 id="iv.ii.xvii-p27.3"></span>). But to give additional assurance to
 those who require the authority of the ancient Church, I will quote a
 passage of Augustine to the same effect: “Incomprehensible and immutable
@@ -268,7 +268,7 @@ enmity with us because of sin. To the truth of both propositions we have
 the attestation of the Apostle, ‘God commendeth his love toward us, in
 that while we were yet sinners, Christ died for us,’ (<span
 id="iv.ii.xvii-p27.4"></span>[Rom.
-5:8](../../../bib/kjv/rom005.htm#008)<span
+5:8](../../../bib/kjv/rom005.htm#008.md)<span
 id="iv.ii.xvii-p27.4"></span>). Therefore he had this love towards us
 even when, exercising enmity towards him, we were the workers of
 iniquity. Accordingly in a manner wondrous and divine, he loved even
@@ -286,14 +286,14 @@ answered generally, that he accomplished this by the whole course of his
 obedience. This id proved by the testimony of Paul, “As by one man’s
 disobedience many were made sinners, so by the obedience of one shall
 many be made righteous,” (<span id="iv.ii.xvii-p28.1"></span>[Rom.
-5:19](../../../bib/kjv/rom005.htm#019)<span
+5:19](../../../bib/kjv/rom005.htm#019.md)<span
 id="iv.ii.xvii-p28.1"></span>). And indeed he elsewhere extends the
 ground of pardon which exempts from the curse of the law to the whole
 life of Christ, “When the fulness of the time was come, God sent forth
 his Son, made of a woman, made under the law, to redeem them that were
 under the law,” (<span id="iv.ii.xvii-p28.2"></span>[Gal.
-4:4](../../../bib/kjv/gal004.htm#004),
-[5](../../../bib/kjv/gal004.htm#005)<span
+4:4](../../../bib/kjv/gal004.htm#004.md),
+[5](../../../bib/kjv/gal004.htm#005.md)<span
 id="iv.ii.xvii-p28.2"></span>). Thus even at his baptism he declared
 that a part of righteousness was fulfilled by his yielding obedience to
 the command of the Father. In short, from the moment when he assumed the
@@ -302,27 +302,27 @@ deliverance. Scripture, however, the more certainly to define the mode
 of salvation, ascribes it peculiarly and specially to the death of
 Christ. He himself declares that he gave his life a ransom for many
 (<span id="iv.ii.xvii-p28.3"></span>[Mt.
-20:28](../../../bib/kjv/mat020.htm#028)<span
+20:28](../../../bib/kjv/mat020.htm#028.md)<span
 id="iv.ii.xvii-p28.3"></span>). Paul teaches that he died for our sins
 (<span id="iv.ii.xvii-p28.4"></span>[Rom.
-4:25](../../../bib/kjv/rom004.htm#025)<span
+4:25](../../../bib/kjv/rom004.htm#025.md)<span
 id="iv.ii.xvii-p28.4"></span>). John Baptist exclaimed, “Behold the Lamb
 of God, which taketh away the sin of the world,” (<span
 id="iv.ii.xvii-p28.5"></span>[John
-1:29](../../../bib/kjv/joh001.htm#029)<span
+1:29](../../../bib/kjv/joh001.htm#029.md)<span
 id="iv.ii.xvii-p28.5"></span>). Paul in another passage declares, “that
 we are justified freely by his grace, through the redemption that is in
 Christ Jesus: whom God has set forth to be a propitiation through faith
 in his blood,” (<span id="iv.ii.xvii-p28.6"></span>[Rom.
-3:25](../../../bib/kjv/rom003.htm#025)<span
+3:25](../../../bib/kjv/rom003.htm#025.md)<span
 id="iv.ii.xvii-p28.6"></span>). “Again, being justified by his blood, we
 shall be saved from wrath through him” (<span
 id="iv.ii.xvii-p28.7"></span>[Rom.
-5:9](../../../bib/kjv/rom005.htm#009)<span
+5:9](../../../bib/kjv/rom005.htm#009.md)<span
 id="iv.ii.xvii-p28.7"></span>). Again “He has made him to be sin for us,
 who knew no sin; that we might be made the righteousness of God in him,”
 (<span id="iv.ii.xvii-p28.8"></span>[2 Cor.
-5:21](../../../bib/kjv/co2005.htm#021)<span
+5:21](../../../bib/kjv/co2005.htm#021.md)<span
 id="iv.ii.xvii-p28.8"></span>). I will not search out all the passages,
 for the list would be endless, and many are afterwards to be quoted in
 their order. In the Confession of Faith, called the Apostles’ Creed, the
@@ -333,19 +333,19 @@ performed in life. Thus Paul comprehends, from the beginning even to the
 end, his having assumed the form of a servant, humbled himself, and
 become obedient to death, even the death of the cross (<span
 id="iv.ii.xvii-p28.9"></span>[Phil.
-2:7](../../../bib/kjv/phi002.htm#007)<span
+2:7](../../../bib/kjv/phi002.htm#007.md)<span
 id="iv.ii.xvii-p28.9"></span>). And, indeed, the first step in obedience
 was his voluntary subjection; for the sacrifice would have been
 unavailing to justification if not offered spontaneously. Hence our
 Lord, after testifying, “I lay down my life for the sheep,” distinctly
 adds, “No man taketh it from me,” (<span
 id="iv.ii.xvii-p28.10"></span>[John
-10:15](../../../bib/kjv/joh010.htm#015),
-[18](../../../bib/kjv/joh010.htm#018)<span
+10:15](../../../bib/kjv/joh010.htm#015.md),
+[18](../../../bib/kjv/joh010.htm#018.md)<span
 id="iv.ii.xvii-p28.10"></span>). In the same sense Isaiah says, “ Like a
 sheep before her shearers is dumb, so he opened not his mouth,” (<span
 id="iv.ii.xvii-p28.11"></span>[Is.
-53:7](../../../bib/kjv/isa053.htm#007)<span
+53:7](../../../bib/kjv/isa053.htm#007.md)<span
 id="iv.ii.xvii-p28.11"></span>). The Gospel History relates that he came
 forth to meet the soldiers; and in presence of Pilate, instead of
 defending himself, stood to receive judgment. This, indeed, he did not
@@ -359,10 +359,10 @@ and subjecting himself entirely to his Father’s will. To this effect the
 Apostle appositely quotes a passage from the Psalms, “Lo, I come (in the
 volume of the book it is written of me) to do thy will, O God,” (<span
 id="iv.ii.xvii-p28.12"></span>[Heb.
-10:5](../../../bib/kjv/heb010.htm#005)<span
+10:5](../../../bib/kjv/heb010.htm#005.md)<span
 id="iv.ii.xvii-p28.12"></span>; <span id="iv.ii.xvii-p28.13"></span>[Ps.
-40:7](../../../bib/kjv/psa040.htm#007),
-[8](../../../bib/kjv/psa040.htm#008)<span
+40:7](../../../bib/kjv/psa040.htm#007.md),
+[8](../../../bib/kjv/psa040.htm#008.md)<span
 id="iv.ii.xvii-p28.13"></span>). Thus, as trembling consciences find no
 rest without sacrifice and ablution by which sins are expiated, we are
 properly directed thither, the source of our life being placed in the
@@ -377,7 +377,7 @@ not only to support the credibility of the narrative, but to remind us
 of what Isaiah says, that “the chastisement of our peace was upon him;”
 and that “with his stripes we are healed,” (<span
 id="iv.ii.xvii-p28.14"></span>[Is.
-53:5](../../../bib/kjv/isa053.htm#005)<span
+53:5](../../../bib/kjv/isa053.htm#005.md)<span
 id="iv.ii.xvii-p28.14"></span>). For, in order to remove our
 condemnation, it was not sufficient to endure any kind of death. To
 satisfy our ransom, it was necessary to select a mode of death in which
@@ -393,10 +393,10 @@ our faith. When we read that Christ was led away from the judgment-seat
 to execution, and was crucified between thieves, we have a fulfilment of
 the prophecy which is quoted by the Evangelist, “He was numbered with
 the transgressors,” (<span id="iv.ii.xvii-p28.15"></span>[Is.
-53:12](../../../bib/kjv/isa053.htm#012)<span
+53:12](../../../bib/kjv/isa053.htm#012.md)<span
 id="iv.ii.xvii-p28.15"></span>; <span
 id="iv.ii.xvii-p28.16"></span>[Mark
-15:28](../../../bib/kjv/mar015.htm#028)<span
+15:28](../../../bib/kjv/mar015.htm#028.md)<span
 id="iv.ii.xvii-p28.16"></span>). Why was it so? That he might bear the
 character of a sinner, not of a just or innocent person, inasmuch as he
 met death on account not of innocence, but of sin. On the other hand,
@@ -405,7 +405,7 @@ when we read that he was acquitted by the same lips that condemned him
 innocence), let us call to mind what is said by another prophet, “I
 restored that which I took not away,” (<span
 id="iv.ii.xvii-p28.17"></span>[Ps.
-69:4](../../../bib/kjv/psa069.htm#004)<span
+69:4](../../../bib/kjv/psa069.htm#004.md)<span
 id="iv.ii.xvii-p28.17"></span>). Thus we perceive Christ representing
 the character of a sinner and a criminal, while, at the same time, his
 innocence shines forth, and it becomes manifest that he suffers for
@@ -415,7 +415,7 @@ criminals, and yet he is declared innocent by the same judge, when he
 affirms that he finds no cause of death in him. Our acquittal is in this
 that the guilt which made us liable to punishment was transferred to the
 head of the Son of God (<span id="iv.ii.xvii-p28.18"></span>[Is.
-53:12](../../../bib/kjv/isa053.htm#012)<span
+53:12](../../../bib/kjv/isa053.htm#012.md)<span
 id="iv.ii.xvii-p28.18"></span>). We must specially remember this
 substitution in order that we may not be all our lives in trepidation
 and anxiety, as if the just vengeance which the Son of God transferred
@@ -440,20 +440,20 @@ his soul to !\`a
 
 <span id="iv.ii.xvii-p31"></span>, *i.e.*, a propitiatory victim for sin
 (as the prophet says, <span id="iv.ii.xvii-p31.1"></span>[Isa.
-53:5](../../../bib/kjv/isa053.htm#005),
-[10](../../../bib/kjv/isa053.htm#010)<span
+53:5](../../../bib/kjv/isa053.htm#005.md),
+[10](../../../bib/kjv/isa053.htm#010.md)<span
 id="iv.ii.xvii-p31.1"></span>), on which the guilt and penalty being in
 a manner laid, ceases to be imputed to us. The Apostle declares this
 more plainly when he says, that “he made him to be sin for us, who knew
 no sin; that we might be made the righteousness of God in him,” (<span
 id="iv.ii.xvii-p31.2"></span>[2 Cor.
-5:21](../../../bib/kjv/co2005.htm#021)<span
+5:21](../../../bib/kjv/co2005.htm#021.md)<span
 id="iv.ii.xvii-p31.2"></span>). For the Son of God, though spotlessly
 pure, took upon him the disgrace and ignominy of our iniquities, and in
 return clothed us with his purity. To the same thing he seems to refer,
 when he says, that he “condemned sin in the flesh,” (<span
 id="iv.ii.xvii-p31.3"></span>[Rom.
-8:3](../../../bib/kjv/rom008.htm#003)<span
+8:3](../../../bib/kjv/rom008.htm#003.md)<span
 id="iv.ii.xvii-p31.3"></span>), the Father having destroyed the power of
 sin when it was transferred to the flesh of Christ. This term,
 therefore, indicates that Christ, in his death, was offered to the
@@ -461,7 +461,7 @@ Father as a propitiatory victim; that, expiation being made by his
 sacrifice, we might cease to tremble at the divine wrath. It is now
 clear what the prophet means when he says, that “the Lord has laid upon
 him the iniquity of us all,” (<span id="iv.ii.xvii-p31.4"></span>[Is.
-53:6](../../../bib/kjv/isa053.htm#006)<span
+53:6](../../../bib/kjv/isa053.htm#006.md)<span
 id="iv.ii.xvii-p31.4"></span>); namely, that as he was to wash away the
 pollution of sins, they were transferred to him by imputation. Of this
 the cross to which he was nailed was a symbol, as the Apostle declares,
@@ -469,12 +469,12 @@ the cross to which he was nailed was a symbol, as the Apostle declares,
 for us: for it is written, Cursed is every one that hangeth on a tree:
 that the blessing of Abraham might come on the Gentiles through Jesus
 Christ,” (<span id="iv.ii.xvii-p31.5"></span>[Gal.
-3:13](../../../bib/kjv/gal003.htm#013),
-[14](../../../bib/kjv/gal003.htm#014)<span
+3:13](../../../bib/kjv/gal003.htm#013.md),
+[14](../../../bib/kjv/gal003.htm#014.md)<span
 id="iv.ii.xvii-p31.5"></span>). In the same way Peter says, that he
 “bare our sins in his own body on the tree,” (<span
 id="iv.ii.xvii-p31.6"></span>[1 Peter
-2:24](../../../bib/kjv/pe1002.htm#024)<span
+2:24](../../../bib/kjv/pe1002.htm#024.md)<span
 id="iv.ii.xvii-p31.6"></span>), inasmuch as from the very symbol of the
 curse, we perceive more clearly that the burden with which we were
 oppressed was laid upon him. Nor are we to understand that by the curse
@@ -489,12 +489,12 @@ us, which was contrary to us, and took it out of the way, nailing it to
 his cross: that “having spoiled principalities and powers he made a show
 of them openly, triumphing over them in it,” (<span
 id="iv.ii.xvii-p31.7"></span>[Col.
-2:14](../../../bib/kjv/col002.htm#014),
-[15](../../../bib/kjv/col002.htm#015)<span
+2:14](../../../bib/kjv/col002.htm#014.md),
+[15](../../../bib/kjv/col002.htm#015.md)<span
 id="iv.ii.xvii-p31.7"></span>). Nor is this to be wondered at; for, as
 another Apostle declares, Christ, “through the eternal Spirit, offered
 himself without spot to God,” (<span id="iv.ii.xvii-p31.8"></span>[Heb.
-9:14](../../../bib/kjv/heb009.htm#014)<span
+9:14](../../../bib/kjv/heb009.htm#014.md)<span
 id="iv.ii.xvii-p31.8"></span>), and hence that transformation of the
 cross which were otherwise against its nature. But that these things may
 take deep root and have their seat in our inmost hearts, we must never
@@ -513,7 +513,7 @@ held us under its yoke, but he in our place delivered himself into its
 power, that he might exempt us from it. This the Apostle means when he
 says, “that he tasted death for every man,” (<span
 id="iv.ii.xvii-p32.1"></span>[Heb.
-2:9](../../../bib/kjv/heb002.htm#009)<span
+2:9](../../../bib/kjv/heb002.htm#009.md)<span
 id="iv.ii.xvii-p32.1"></span>). By dying he prevented us from dying; or
 (which is the same thing) he by his death purchased life for us (see
 Calvin in Psychopann). But in this he differed from us, that in
@@ -526,8 +526,8 @@ his object was, “that through death he might destroy him that had the
 power of death, that is, the devil, and deliver them who through fear of
 death were all their lifetime subject to bondage,” (<span
 id="iv.ii.xvii-p32.2"></span>[Heb.
-2:14](../../../bib/kjv/heb002.htm#014),
-[15](../../../bib/kjv/heb002.htm#015)<span
+2:14](../../../bib/kjv/heb002.htm#014.md),
+[15](../../../bib/kjv/heb002.htm#015.md)<span
 id="iv.ii.xvii-p32.2"></span>). This is the first fruit which his death
 produced to us. Another is, that by fellowship with him he mortifies our
 earthly members that they may not afterwards exert themselves in action,
@@ -543,13 +543,13 @@ death unfruitful and useless. Accordingly in the death and burial of
 Christ a twofold blessing is set before us—viz. deliverance from death,
 to which we were enslaved, and the mortification of our flesh (<span
 id="iv.ii.xvii-p32.3"></span>[Rom.
-6:5](../../../bib/kjv/rom006.htm#005)<span
+6:5](../../../bib/kjv/rom006.htm#005.md)<span
 id="iv.ii.xvii-p32.3"></span>; <span id="iv.ii.xvii-p32.4"></span>[Gal.
-2:19](../../../bib/kjv/gal002.htm#019),
-[6](../../../bib/kjv/gal002.htm#006)<span
+2:19](../../../bib/kjv/gal002.htm#019.md),
+[6](../../../bib/kjv/gal002.htm#006.md)<span
 id="iv.ii.xvii-p32.4"></span>:14; <span
 id="iv.ii.xvii-p32.5"></span>[Col.
-3:3](../../../bib/kjv/col003.htm#003)<span
+3:3](../../../bib/kjv/col003.htm#003.md)<span
 id="iv.ii.xvii-p32.5"></span>).
 
 <span id="iv.ii.xvii-p33"></span>8. Here we must not omit the descent to
@@ -560,10 +560,10 @@ so much used in the churches, still, in giving a summary of doctrine, a
 place must be assigned to it, as containing a matter of great importance
 which ought not by any means to be disregarded. Indeed, some of the
 ancient Fathers do not omit it,25  <span
-id="fr_250"></span>[251](#fn_250) and hence we may conjecture, that
+id="fr_250"></span>[251](#fn_250.md) and hence we may conjecture, that
 having been inserted in the Creed after a considerable lapse of time, it
 came into use in the Church not immediately but by degrees.25  <span
-id="fr_251"></span>[252](#fn_251) This much is uncontroverted, that it
+id="fr_251"></span>[252](#fn_251.md) This much is uncontroverted, that it
 was in accordance with the general sentiment of all believers, since
 there is none of the Fathers who does not mention Christ’s descent into
 hell, though they have various modes of explaining it. But it is of
@@ -597,14 +597,14 @@ will here agree with me.
 That Christ descended to the souls of the Patriarchs who died under the
 law, to announce his accomplished redemption, and bring them out of the
 prison in which they were confined. To this effect they wrest the
-passage25  <span id="fr_252"></span>[253](#fn_252) in the Psalms “He
+passage25  <span id="fr_252"></span>[253](#fn_252.md) in the Psalms “He
 hath broken the gates of brass, and cut the bars of iron in sunder.”
 (<span id="iv.ii.xvii-p37.1"></span>[Ps.
-107:16](../../../bib/kjv/psa107.htm#016)<span
+107:16](../../../bib/kjv/psa107.htm#016.md)<span
 id="iv.ii.xvii-p37.1"></span>); and also the passage in Zechariah, “I
 have sent forth thy prisoners out of the pit wherein is no water,”
 (<span id="iv.ii.xvii-p37.2"></span>[Zech.
-9:11](../../../bib/kjv/zac009.htm#011)<span
+9:11](../../../bib/kjv/zac009.htm#011.md)<span
 id="iv.ii.xvii-p37.2"></span>). But since the psalm foretells the
 deliverance of those who were held captive in distant lands, and
 Zechariah comparing the Babylonish disaster into which the people had
@@ -614,7 +614,7 @@ pit, I know not how it comes to pass, that posterity imagined it to be a
 subterraneous cavern, to which they gave the name of *Limbus*. Though
 this fable has the countenance of great authors, and is now also
 seriously defended by many as truth,26  <span
-id="fr_253"></span>[254](#fn_253) it is nothing but a fable. To conclude
+id="fr_253"></span>[254](#fn_253.md) it is nothing but a fable. To conclude
 from it that the souls of the dead are in prison is childish. And what
 occasion was there that the soul of Christ should go down thither to set
 them at liberty? I readily admit that Christ illumined them by the power
@@ -623,7 +623,7 @@ had only had a foretaste was then manifested to the world. And to this
 not improbably the passage of Peter may be applied, wherein he says,
 that Christ “went and preached to the spirits that were in prison,” (or
 rather “a watch-tower”) (<span id="iv.ii.xvii-p38.2"></span>[I Pet.
-3:19](../../../bib/kjv/pe1003.htm#019)<span
+3:19](../../../bib/kjv/pe1003.htm#019.md)<span
 id="iv.ii.xvii-p38.2"></span>). The purport of the context is, that
 believers who had died before that time were partakers of the same grace
 with ourselves: for he celebrates the power of Christ’s death, in that
@@ -665,7 +665,7 @@ and ruined man.
 raised up Christ, “having loosed the pains of death: because it was not
 possible he should be holden of it,” (<span
 id="iv.ii.xvii-p40.1"></span>[Acts
-2:24](../../../bib/kjv/act002.htm#024)<span
+2:24](../../../bib/kjv/act002.htm#024.md)<span
 id="iv.ii.xvii-p40.1"></span>). He does not mention death simply, but
 says that the Son of God endured the pains produced by the curse and
 wrath of God, the source of death. How small a matter had it been to
@@ -674,11 +674,11 @@ was a true proof of boundless mercy, that he shunned not the death he so
 greatly dreaded. And there can be no doubt that, in the Epistle to the
 Hebrews, the Apostle means to teach the same thing, when he says that he
 “was heard in that he feared,” (<span id="iv.ii.xvii-p40.2"></span>[Heb.
-5:7](../../../bib/kjv/heb005.htm#007)<span
+5:7](../../../bib/kjv/heb005.htm#007.md)<span
 id="iv.ii.xvii-p40.2"></span>). Some instead of “feared,” use a term
 meaning reverence or piety, but how inappropriately, is apparent both
 from the nature of the thing and the form of expression.26  <span
-id="fr_254"></span>[255](#fn_254) Christ then praying in a loud voice,
+id="fr_254"></span>[255](#fn_254.md) Christ then praying in a loud voice,
 and with tears, is heard in that he feared, not so as to be exempted
 from death, but so as not to be swallowed up of it like a sinner, though
 standing as our representative. And certainly no abyss can be imagined
@@ -690,7 +690,7 @@ forsaken me?” The view taken by some, that he here expressed the opinion
 of others rather than his own conviction, is most improbable; for it is
 evident that the expression was wrung from the anguish of his inmost
 soul. We do not, however, insinuate that God was ever hostile to him or
-angry with him.26  <span id="fr_255"></span>[256](#fn_255) How could he
+angry with him.26  <span id="fr_255"></span>[256](#fn_255.md) How could he
 be angry with the beloved Son, with whom his soul was well pleased? or
 how could he have appeased the Father by his intercession for others if
 He were hostile to himself? But this we say, that he bore the weight of
@@ -703,7 +703,7 @@ back to heaven.” And why do I quote the testimony of a private writer,
 when an Apostle asserts the same thing, stating it as one fruit of his
 victory that he delivered “them who through fear of death were all their
 lifetime subject to bondage?” (<span id="iv.ii.xvii-p42.1"></span>[Heb.
-2:15](../../../bib/kjv/heb002.htm#015)<span
+2:15](../../../bib/kjv/heb002.htm#015.md)<span
 id="iv.ii.xvii-p42.1"></span>). He behoved therefore, to conquer the
 fear which incessantly vexes and agitates the breasts of all mortals;
 and this he could not do without a contest. Moreover it will shortly
@@ -711,7 +711,7 @@ appear with greater clearness that his was no common sorrow, was not the
 result of a trivial cause. Thus by engaging with the power of the devil,
 the fear of death, and the pains of hell, he gained the victory, and
 achieved a triumph, so that we now fear not in death those things which
-our Prince has destroyed.26  <span id="fr_256"></span>[257](#fn_256)
+our Prince has destroyed.26  <span id="fr_256"></span>[257](#fn_256.md)
 
 <span id="iv.ii.xvii-p44"></span>12. Here some miserable creatures, who,
 though unlearned, are however impelled more by malice than ignorance,
@@ -736,7 +736,7 @@ which the Apostle sets before us: “We have not an high priest who cannot
 be touched with the feeling of our infirmities; but was in all respects
 tempted like as we are, yet without sin,” (<span
 id="iv.ii.xvii-p44.1"></span>[Heb.
-4:15](../../../bib/kjv/heb004.htm#015)<span
+4:15](../../../bib/kjv/heb004.htm#015.md)<span
 id="iv.ii.xvii-p44.1"></span>). These men pretend that a thing in its
 nature vicious is improperly ascribed to Christ; as if they were wiser
 than the Spirit of God, who in the same passage reconciles the two
@@ -773,7 +773,7 @@ of an ordinary death as to sweat drops of blood, and not even be revived
 by the presence of angels? What? Does not that prayer, thrice repeated,
 “Father, if it be possible, let this cup pass from me,” (<span
 id="iv.ii.xvii-p44.2"></span>[Mt.
-26:39](../../../bib/kjv/mat026.htm#039)<span
+26:39](../../../bib/kjv/mat026.htm#039.md)<span
 id="iv.ii.xvii-p44.2"></span>), a prayer dictated by incredible
 bitterness of soul, show that Christ had a fiercer and more arduous
 struggle than with ordinary death?
@@ -794,13 +794,13 @@ variance with faith. And in this was fulfilled what is said in Peter’s
 sermon as to having been loosed from the pains of death, because “it was
 not possible he could be holden of it,” (<span
 id="iv.ii.xvii-p45.1"></span>[Acts
-2:24](../../../bib/kjv/act002.htm#024)<span
+2:24](../../../bib/kjv/act002.htm#024.md)<span
 id="iv.ii.xvii-p45.1"></span>). Though feeling, as it were, forsaken of
 God, he did not cease in the slightest degree to confide in his
 goodness. This appears from the celebrated prayer in which, in the depth
 of his agony, he exclaimed, “My God, my God, why hast thou forsaken me?”
 (<span id="iv.ii.xvii-p45.2"></span>[Mt.
-27:46](../../../bib/kjv/mat027.htm#046)<span
+27:46](../../../bib/kjv/mat027.htm#046.md)<span
 id="iv.ii.xvii-p45.2"></span>). Amid all his agony he ceases not to call
 upon his God, while exclaiming that he is forsaken by him. This refutes
 the Apollinarian heresy as well as that of those who are called
@@ -816,8 +816,8 @@ subduing the fear of which we have spoken by a contrary affection. This
 appearance of repugnance is obvious in the words, “Father, save me from
 this hour: but for this cause came I unto this hour. Father, glorify thy
 name,” (<span id="iv.ii.xvii-p45.3"></span>[John
-12:27](../../../bib/kjv/joh012.htm#027),
-[28](../../../bib/kjv/joh012.htm#028)<span
+12:27](../../../bib/kjv/joh012.htm#027.md),
+[28](../../../bib/kjv/joh012.htm#028.md)<span
 id="iv.ii.xvii-p45.3"></span>). Still, in this perplexity, there was no
 violent emotion, such as we exhibit while making the strongest
 endeavours to subdue our own feelings.
@@ -832,13 +832,13 @@ reconciled to God, satisfaction is given to his justice, the curse is
 removed, and the penalty paid; still it is not by his death, but by his
 resurrection, that we are said to be begotten again to a living hope
 (<span id="iv.ii.xvii-p46.1"></span>[1 Pet.
-1:3](../../../bib/kjv/pe1001.htm#003)<span
+1:3](../../../bib/kjv/pe1001.htm#003.md)<span
 id="iv.ii.xvii-p46.1"></span>); because, as he, by rising again, became
 victorious over death, so the victory of our faith consists only in his
 resurrection. The nature of it is better expressed in the words of Paul,
 “Who (Christ) was delivered for our offences, and was raised again for
 our justification,” (<span id="iv.ii.xvii-p46.2"></span>[Rom.
-4:25](../../../bib/kjv/rom004.htm#025)<span
+4:25](../../../bib/kjv/rom004.htm#025.md)<span
 id="iv.ii.xvii-p46.2"></span>); as if he had said, By his death sin was
 taken away, by his resurrection righteousness was renewed and restored.
 For how could he by dying have freed us from death, if he had yielded to
@@ -852,23 +852,23 @@ restored and life revived, the power and efficacy of the former being
 still bestowed upon us by means of the latter. Paul accordingly affirms,
 that he was declared to be the Son of God by his resurrection (<span
 id="iv.ii.xvii-p47.1"></span>[Rom.
-1:4](../../../bib/kjv/rom001.htm#004)<span
+1:4](../../../bib/kjv/rom001.htm#004.md)<span
 id="iv.ii.xvii-p47.1"></span>), because he then fully displayed that
 heavenly power which is both a bright mirror of his divinity, and a sure
 support of our faith; as he also elsewhere teaches, that “though he was
 crucified through weakness, yet he liveth by the power of God,” (<span
 id="iv.ii.xvii-p47.2"></span>[2 Cor.
-13:4](../../../bib/kjv/co2013.htm#004)<span
+13:4](../../../bib/kjv/co2013.htm#004.md)<span
 id="iv.ii.xvii-p47.2"></span>). In the same sense, in another passage,
 treating of perfection, he says, “That I may know him and the power of
 his resurrection,” (<span id="iv.ii.xvii-p47.3"></span>[Phil.
-3:10](../../../bib/kjv/phi003.htm#010)<span
+3:10](../../../bib/kjv/phi003.htm#010.md)<span
 id="iv.ii.xvii-p47.3"></span>). Immediately after he adds, “being made
 conformable unto his death.” In perfect accordance with this is the
 passage in Peter, that God “raised him up from the dead, and gave him
 glory, that your faith and hope might be in God,” ( <span
 id="iv.ii.xvii-p47.4"></span>[1 Pet.
-1:21](../../../bib/kjv/pe1001.htm#021)<span
+1:21](../../../bib/kjv/pe1001.htm#021.md)<span
 id="iv.ii.xvii-p47.4"></span>). Not that faith founded merely on his
 death is vacillating, but that the divine power by which he maintains
 our faith is most conspicuous in his resurrection. Let us remember,
@@ -879,29 +879,29 @@ death, everything peculiar to death being included. But as, by rising
 again, he obtained the victory, and became the resurrection and the
 life, Paul justly argues, “If Christ be not raised, your faith is vain;
 ye are yet in your sins,” (<span id="iv.ii.xvii-p47.5"></span>[1 Cor.
-15:17](../../../bib/kjv/co1015.htm#017)<span
+15:17](../../../bib/kjv/co1015.htm#017.md)<span
 id="iv.ii.xvii-p47.5"></span>). Accordingly, in another passage, after
 exulting in the death of Christ in opposition to the terrors of
 condemnation, he thus enlarges, “Christ that died, yea rather, that is
 risen again, who is even at the right hand of God, who also maketh
 intercession for us,” (<span id="iv.ii.xvii-p47.6"></span>[Rom.
-8:34](../../../bib/kjv/rom008.htm#034)<span
+8:34](../../../bib/kjv/rom008.htm#034.md)<span
 id="iv.ii.xvii-p47.6"></span>). Then, as we have already explained that
 the mortification of our flesh depends on communion with the cross, so
 we must also understand, that a corresponding benefit is derived from
 his resurrection. For as the Apostle says, “Like as Christ was raised up
 from the dead by the glory of the Father, even so we also should walk in
 newness of life,” (<span id="iv.ii.xvii-p47.7"></span>[Rom.
-6:4](../../../bib/kjv/rom006.htm#004)<span
+6:4](../../../bib/kjv/rom006.htm#004.md)<span
 id="iv.ii.xvii-p47.7"></span>). Accordingly, as in another passage, from
 our being dead with Christ, he inculcates, “Mortify therefore your
 members which are upon the earth,” (<span
 id="iv.ii.xvii-p47.8"></span>[Col.
-3:5](../../../bib/kjv/col003.htm#005)<span
+3:5](../../../bib/kjv/col003.htm#005.md)<span
 id="iv.ii.xvii-p47.8"></span>); so from our being risen with Christ he
 infers, “seek those things which are above, where Christ sitteth at the
 right hand of God,” (<span id="iv.ii.xvii-p47.9"></span>[Col.
-3:1](../../../bib/kjv/col003.htm#001)<span
+3:1](../../../bib/kjv/col003.htm#001.md)<span
 id="iv.ii.xvii-p47.9"></span>). In these words we are not only urged by
 the example of a risen Saviour to follow newness of life, but are taught
 that by his power we are renewed unto righteousness. A third benefit
@@ -909,7 +909,7 @@ derived from it is, that, like an earnest, it assures us of our own
 resurrection, of which it is certain that his is the surest
 representation. This subject is discussed at length (<span
 id="iv.ii.xvii-p47.10"></span>[1 Cor.
-15](../../../bib/kjv/co1015.htm#000)<span
+15](../../../bib/kjv/co1015.htm#000.md)<span
 id="iv.ii.xvii-p47.10"></span>). But it is to be observed, in passing,
 that when he is said to have “risen from the dead,” these terms express
 the reality both of his death and resurrection, as if it had been said,
@@ -923,7 +923,7 @@ the abject and ignoble condition of a mortal life, and the ignominy of
 the cross, yet it was only by his ascension to heaven that his reign
 truly commenced. This the Apostle shows, when he says he ascended “that
 he might fill all things,” (<span id="iv.ii.xvii-p48.1"></span>[Eph.
-4:10](../../../bib/kjv/eph004.htm#010)<span
+4:10](../../../bib/kjv/eph004.htm#010.md)<span
 id="iv.ii.xvii-p48.1"></span>); thus reminding us, that under the
 appearance of contradiction, there is a beautiful harmony, inasmuch as
 though he departed from us, it was that his departure might be more
@@ -933,13 +933,13 @@ repeating the celebrated invitation, “If any man thirst, let him come
 unto me and drink,” immediately adds, “the Holy Ghost was not yet given;
 because that Jesus was not yet glorified,” (<span
 id="iv.ii.xvii-p48.2"></span>[John
-7:37](../../../bib/kjv/joh007.htm#037),
-[39](../../../bib/kjv/joh007.htm#039)<span
+7:37](../../../bib/kjv/joh007.htm#037.md),
+[39](../../../bib/kjv/joh007.htm#039.md)<span
 id="iv.ii.xvii-p48.2"></span>). This our Lord himself also declared to
 his disciples, “It is expedient for you that I go away: for if I go not
 away the Comforter will not come unto you,” (<span
 id="iv.ii.xvii-p48.3"></span>[John
-16:7](../../../bib/kjv/joh016.htm#007)<span
+16:7](../../../bib/kjv/joh016.htm#007.md)<span
 id="iv.ii.xvii-p48.3"></span>). To console them for his bodily absence,
 he tells them that he will not leave them comfortless, but will come
 again to them in a manner invisible indeed, but more to be desired,
@@ -965,7 +965,7 @@ spiritual presence, he was to be with them after his ascension,”
 explicit: “In regard to ineffable and invisible grace, is fulfilled what
 he said, Lo, I am with you alway, even to the end of the world (<span
 id="iv.ii.xvii-p48.4"></span>[Mt.
-28:20](../../../bib/kjv/mat028.htm#020)<span
+28:20](../../../bib/kjv/mat028.htm#020.md)<span
 id="iv.ii.xvii-p48.4"></span>); but in regard to the flesh which the
 Word assumed in regard to his being born of a Virgin, in regard to his
 being apprehended by the Jews, nailed to the tree, taken down from the
@@ -988,7 +988,7 @@ ruling and issuing commands. Thus Christ, in whom the Father is pleased
 to be exalted, and by whose hand he is pleased to reign, is said to have
 been received up, and seated on his right hand (<span
 id="iv.ii.xvii-p49.1"></span>[Mark
-16:19](../../../bib/kjv/mar016.htm#019)<span
+16:19](../../../bib/kjv/mar016.htm#019.md)<span
 id="iv.ii.xvii-p49.1"></span>); as if it had been said, that he was
 installed in the government of heaven and earth, and formally admitted
 to possession of the administration committed to him, and not only
@@ -998,7 +998,7 @@ own right hand in the heavenly places, far above all principality, and
 power, and might, and dominion, and every name that is named not only in
 this world, but also in that which is to come; and has put all things
 under his feet, and given him to be the head over all things to the
-Church.”26  <span id="fr_257"></span>[258](#fn_257) You see to what end
+Church.”26  <span id="fr_257"></span>[258](#fn_257.md) You see to what end
 he is so seated namely, that all creatures both in heaven and earth
 should reverence his majesty, be ruled by his hand, do him implicit
 homage, and submit to his power. All that the Apostles intends when they
@@ -1007,13 +1007,13 @@ thing is placed at his disposal. Those, therefore, are in error, who
 suppose that his blessedness merely is indicated. We may observe, that
 there is nothing contrary to this doctrine in the testimony of Stephen,
 that he saw him standing (<span id="iv.ii.xvii-p50.7"></span>[Acts
-7:56](../../../bib/kjv/act007.htm#056)<span
+7:56](../../../bib/kjv/act007.htm#056.md)<span
 id="iv.ii.xvii-p50.7"></span>), the subject here considered being not
 the position of his body, but the majesty of his empire, *sitting*
 meaning nothing more than presiding on the judgment-seat of heaven.
 
 <span id="iv.ii.xvii-p51"></span>16. From this doctrine faith derives
-manifold advantages.26  <span id="fr_258"></span>[259](#fn_258) First,
+manifold advantages.26  <span id="fr_258"></span>[259](#fn_258.md) First,
 it perceives that the Lord, by his ascension to heaven, has opened up
 the access to the heavenly kingdom, which Adam had shut. For having
 entered it in our flesh, as it were in our name, it follows, as the
@@ -1030,7 +1030,7 @@ with grace and mercy. Thirdly, it discerns his power, on which depend
 our strength, might, resources, and triumph over hell, “When he ascended
 up on high, he led captivity captive,” (<span
 id="iv.ii.xvii-p52.3"></span>[Eph.
-4:8](../../../bib/kjv/eph004.htm#008)<span
+4:8](../../../bib/kjv/eph004.htm#008.md)<span
 id="iv.ii.xvii-p52.3"></span>). Spoiling his foes, he gave gifts to his
 people, and daily loads them with spiritual riches. He thus occupies his
 exalted seat, that thence transferring his virtue unto us, he may
@@ -1050,7 +1050,7 @@ in a manner veiled by the humiliation of a carnal condition, faith is
 most properly invited to meditate on the visible presence which he will
 exhibit on the last day. For he will descend from heaven in visible
 form, in like manner as he was seen to ascend,26  <span
-id="fr_259"></span>[260](#fn_259) and appear to all, with the ineffable
+id="fr_259"></span>[260](#fn_259.md) and appear to all, with the ineffable
 majesty of his kingdom, the splendour of immortality, the boundless
 power of divinity, and an attending company of angels. Hence we are told
 to wait for the Redeemer against that day on which he will separate the
@@ -1060,7 +1060,7 @@ From the extremities of the universe shall be heard the clang of the
 trumpet summoning all to his tribunal; both those whom that day shall
 find alive, and those whom death shall previously have removed from the
 society of the living. There are some who take the words, quick and
-dead, in a different sense;26  <span id="fr_260"></span>[261](#fn_260)
+dead, in a different sense;26  <span id="fr_260"></span>[261](#fn_260.md)
 and, indeed, some ancient writers appear to have hesitated as to the
 exposition of them; but our meaning being plain and clear, is much more
 accordant with the Creed which was certainly written for popular use.
@@ -1069,32 +1069,32 @@ appointed unto all men once to die. For though those who are surviving
 at the last day shall not die after a natural manner, yet the change
 which they are to undergo, as it shall resemble, is not improperly
 called, death (<span id="iv.ii.xvii-p55.1"></span>[Heb.
-9:27](../../../bib/kjv/heb009.htm#027)<span
+9:27](../../../bib/kjv/heb009.htm#027.md)<span
 id="iv.ii.xvii-p55.1"></span>). “We shall not all sleep, but we shall
 all be changed,” (<span id="iv.ii.xvii-p55.2"></span>[1 Cor.
-15:51](../../../bib/kjv/co1015.htm#051)<span
+15:51](../../../bib/kjv/co1015.htm#051.md)<span
 id="iv.ii.xvii-p55.2"></span>). What does this mean? Their mortal life
 shall perish and be swallowed up in one moment, and be transformed into
 an entirely new nature. Though no one can deny that that destruction of
 the flesh will be death, it still remains true that the quick and the
 dead shall be summoned to judgment (<span
 id="iv.ii.xvii-p55.3"></span>[1 Thess.
-4:16](../../../bib/kjv/th1004.htm#016)<span
+4:16](../../../bib/kjv/th1004.htm#016.md)<span
 id="iv.ii.xvii-p55.3"></span>); for “the dead in Christ shall rise
 first; then we which are alive and remain shall be caught up together
 with them in the clouds to meet the lord in the air.” Indeed, it is
 probable, that these words in the Creed were taken from Peter’s sermon
 as related by Luke (<span id="iv.ii.xvii-p55.4"></span>[Acts
-10:42](../../../bib/kjv/act010.htm#042)<span
+10:42](../../../bib/kjv/act010.htm#042.md)<span
 id="iv.ii.xvii-p55.4"></span>), and from the solemn charge of Paul to
 Timothy (<span id="iv.ii.xvii-p55.5"></span>[2 Tim.
-4:1](../../../bib/kjv/ti2004.htm#001)<span
+4:1](../../../bib/kjv/ti2004.htm#001.md)<span
 id="iv.ii.xvii-p55.5"></span>).
 
 <span id="iv.ii.xvii-p56"></span>18. It is most consolatory to think,
 that judgment is vested in him who has already destined us to share with
 him in the honour of judgment (<span id="iv.ii.xvii-p56.1"></span>[Mt.
-19:28](../../../bib/kjv/mat019.htm#028)<span
+19:28](../../../bib/kjv/mat019.htm#028.md)<span
 id="iv.ii.xvii-p56.1"></span>); so far is it from being true, that he
 will ascend the judgment-seat for our condemnation. How could a most
 merciful prince destroy his own people? how could the head disperse its
@@ -1102,24 +1102,24 @@ own members? how could the advocate condemn his clients? For if the
 Apostle, when contemplating the interposition of Christ, is bold to
 exclaim, “Who is he that condemneth?” (<span
 id="iv.ii.xvii-p56.2"></span>[Rom.
-8:33](../../../bib/kjv/rom008.htm#033)<span
+8:33](../../../bib/kjv/rom008.htm#033.md)<span
 id="iv.ii.xvii-p56.2"></span>), much more certain is it that Christ, the
 intercessor, will not condemn those whom he has admitted to his
 protection. It certainly gives no small security, that we shall be
 sisted at no other tribunal than that of our Redeemer, from whom
 salvation is to be expected; and that he who in the Gospel now promises
 eternal blessedness, will then as judge ratify his promise.26  <span
-id="fr_261"></span>[262](#fn_261) The end for which the Father has
+id="fr_261"></span>[262](#fn_261.md) The end for which the Father has
 honoured the Son by committing all judgment to him (<span
 id="iv.ii.xvii-p57.1"></span>[John
-5:22](../../../bib/kjv/joh005.htm#022)<span
+5:22](../../../bib/kjv/joh005.htm#022.md)<span
 id="iv.ii.xvii-p57.1"></span>), was to pacify the consciences of his
 people when alarmed at the thought of judgment. Hitherto I have followed
 the order of the Apostles’ Creed, because it states the leading articles
 of redemption in a few words, and may thus serve as a tablet in which
 the points of Christian doctrine, most deserving of attention, are
 brought separately and distinctly before us.26  <span
-id="fr_262"></span>[263](#fn_262) I call it the Apostles’ Creed, though
+id="fr_262"></span>[263](#fn_262.md) I call it the Apostles’ Creed, though
 I am by no means solicitous as to its authorship. The general consent of
 ancient writers certainly does ascribe it to the Apostles, either
 because they imagined it was written and published by them for common
@@ -1144,7 +1144,7 @@ whose mouth it was pronounced, or by whose hand it was written.
 our salvation, and every single part of it, are comprehended in Christ,
 we must beware of deriving even the minutes portion of it from any other
 quarter. If we seek salvation, we are taught by the very name of Jesus
-that he possesses it;27  <span id="fr_263"></span>[264](#fn_263) if we
+that he possesses it;27  <span id="fr_263"></span>[264](#fn_263.md) if we
 seek any other gifts of the Spirit, we shall find them in his unction;
 strength in his government; purity in his conception; indulgence in his
 nativity, in which he was made like us in all respects, in order that he
@@ -1169,19 +1169,19 @@ properly known.
 
 ### Footnotes
 
-<span id="fn_249"></span>[250](inst050.htm#fr_249) <span
+<span id="fn_249"></span>[250](inst050.htm#fr_249.md) <span
 id="iv.ii.xvii-p23.2"></span>
 
 <span id="iv.ii.xvii-p24"></span>56 256 Latin, “Supremi decreti.”
 French, “Decret eternel et inviolable;”—Eternal and inviolable decree.
 
-<span id="fn_250"></span>[251](inst050.htm#fr_250) <span
+<span id="fn_250"></span>[251](inst050.htm#fr_250.md) <span
 id="iv.ii.xvii-p33.1"></span>
 
 <span id="iv.ii.xvii-p34"></span>57 257 It is not adverted to by
 Augustine, Lib. 1. De Symbolo de Catechumenos.
 
-<span id="fn_251"></span>[252](inst050.htm#fr_251) <span
+<span id="fn_251"></span>[252](inst050.htm#fr_251.md) <span
 id="iv.ii.xvii-p34.1"></span>
 
 <span id="iv.ii.xvii-p35"></span>58 258 The French of this sentence is,
@@ -1190,7 +1190,7 @@ Apostres adjousté; mais que peu a peu il est venu en usage.”—Whence we
 may conjecture that it was added some time after the days of the
 Apostles, but gradually came into use.
 
-<span id="fn_252"></span>[253](inst050.htm#fr_252) <span
+<span id="fn_252"></span>[253](inst050.htm#fr_252.md) <span
 id="iv.ii.xvii-p36.1"></span>
 
 <span id="iv.ii.xvii-p37"></span>59 259 The French is, “Pour colorer
@@ -1198,7 +1198,7 @@ leur fantasie, ils tirent par les cheveux quelques temoignages.”—To
 colour their fancy, they pull by the hair (violently wrest) certain
 passages.
 
-<span id="fn_253"></span>[254](inst050.htm#fr_253) <span
+<span id="fn_253"></span>[254](inst050.htm#fr_253.md) <span
 id="iv.ii.xvii-p37.3"></span>
 
 <span id="iv.ii.xvii-p38"></span>60 260 See Justin, Ambrose, Jerome. The
@@ -1207,7 +1207,7 @@ Peter Martyr, Loci Communes, Lib. 3 Loc. 16 sect. 8; see Augustine,
 <span id="iv.ii.xvii-p38.1"></span>Ep. 99<span
 id="iv.ii.xvii-p38.1"></span>.
 
-<span id="fn_254"></span>[255](inst050.htm#fr_254) <span
+<span id="fn_254"></span>[255](inst050.htm#fr_254.md) <span
 id="iv.ii.xvii-p40.3"></span>
 
 <span id="iv.ii.xvii-p41"></span>61 261 French, “Les autres translatent
@@ -1216,63 +1216,63 @@ monstrent que c’est mal ˆ propos.”—Others translate Reverence or Piety;
 but Grammar and the subject-matter show that they do it very
 unseasonably
 
-<span id="fn_255"></span>[256](inst050.htm#fr_255) <span
+<span id="fn_255"></span>[256](inst050.htm#fr_255.md) <span
 id="iv.ii.xvii-p41.1"></span>
 
 <span id="iv.ii.xvii-p42"></span>62 262 See Cyril. Lib. 2 De Recta Fide
 ad Reginas; Item, Hilarius de Trinitate, Lib. 4 c. 2 and 3.
 
-<span id="fn_256"></span>[257](inst050.htm#fr_256) <span
+<span id="fn_256"></span>[257](inst050.htm#fr_256.md) <span
 id="iv.ii.xvii-p42.2"></span>
 
 <span id="iv.ii.xvii-p43"></span>63 263 Vide Luther, tom. 1 in Concione
 de Morte, fol. 87.
 
-<span id="fn_257"></span>[258](inst050.htm#fr_257) <span
+<span id="fn_257"></span>[258](inst050.htm#fr_257.md) <span
 id="iv.ii.xvii-p49.2"></span>
 
 <span id="iv.ii.xvii-p50"></span>64 264 <span
 id="iv.ii.xvii-p50.1"></span>[Ephes.
-1:20](../../../bib/kjv/eph001.htm#020)<span
+1:20](../../../bib/kjv/eph001.htm#020.md)<span
 id="iv.ii.xvii-p50.1"></span>; <span id="iv.ii.xvii-p50.2"></span>[Phil.
-2:9](../../../bib/kjv/phi002.htm#009)<span
+2:9](../../../bib/kjv/phi002.htm#009.md)<span
 id="iv.ii.xvii-p50.2"></span>; <span id="iv.ii.xvii-p50.3"></span>[1
-Cor. 15:27](../../../bib/kjv/co1015.htm#027)<span
+Cor. 15:27](../../../bib/kjv/co1015.htm#027.md)<span
 id="iv.ii.xvii-p50.3"></span>; <span
 id="iv.ii.xvii-p50.4"></span>[Ephes.
-4:15](../../../bib/kjv/eph004.htm#015)<span
+4:15](../../../bib/kjv/eph004.htm#015.md)<span
 id="iv.ii.xvii-p50.4"></span>; <span id="iv.ii.xvii-p50.5"></span>[Acts
-2:33](../../../bib/kjv/act002.htm#033)<span
+2:33](../../../bib/kjv/act002.htm#033.md)<span
 id="iv.ii.xvii-p50.5"></span>; 3:21; <span
 id="iv.ii.xvii-p50.6"></span>[Heb.
-1:4](../../../bib/kjv/heb001.htm#004)<span
+1:4](../../../bib/kjv/heb001.htm#004.md)<span
 id="iv.ii.xvii-p50.6"></span>.
 
-<span id="fn_258"></span>[259](inst050.htm#fr_258) <span
+<span id="fn_258"></span>[259](inst050.htm#fr_258.md) <span
 id="iv.ii.xvii-p51.1"></span>
 
 <span id="iv.ii.xvii-p52"></span>65 265 August. de Fide et Symbolo, cap.
 8; <span id="iv.ii.xvii-p52.1"></span>[Eph.
-2:6](../../../bib/kjv/eph002.htm#006)<span
+2:6](../../../bib/kjv/eph002.htm#006.md)<span
 id="iv.ii.xvii-p52.1"></span>; <span id="iv.ii.xvii-p52.2"></span>[Heb.
-7:25](../../../bib/kjv/heb007.htm#025)<span
+7:25](../../../bib/kjv/heb007.htm#025.md)<span
 id="iv.ii.xvii-p52.2"></span>; 9:11.
 
-<span id="fn_259"></span>[260](inst050.htm#fr_259) <span
+<span id="fn_259"></span>[260](inst050.htm#fr_259.md) <span
 id="iv.ii.xvii-p53.1"></span>
 
 <span id="iv.ii.xvii-p54"></span>66 266 <span
 id="iv.ii.xvii-p54.1"></span>[Acts
-1:11](../../../bib/kjv/act001.htm#011)<span
+1:11](../../../bib/kjv/act001.htm#011.md)<span
 id="iv.ii.xvii-p54.1"></span>; <span id="iv.ii.xvii-p54.2"></span>[Mt.
-24:30](../../../bib/kjv/mat024.htm#030)<span
+24:30](../../../bib/kjv/mat024.htm#030.md)<span
 id="iv.ii.xvii-p54.2"></span>; 25:31; <span
 id="iv.ii.xvii-p54.3"></span>[1 Thess.
-4:16](../../../bib/kjv/th1004.htm#016),
-[17](../../../bib/kjv/th1004.htm#017)<span
+4:16](../../../bib/kjv/th1004.htm#016.md),
+[17](../../../bib/kjv/th1004.htm#017.md)<span
 id="iv.ii.xvii-p54.3"></span>.
 
-<span id="fn_260"></span>[261](inst050.htm#fr_260) <span
+<span id="fn_260"></span>[261](inst050.htm#fr_260.md) <span
 id="iv.ii.xvii-p54.4"></span>
 
 <span id="iv.ii.xvii-p55"></span>67 267 The French is, “Il y en a aucuns
@@ -1280,13 +1280,13 @@ qui exposent par les vivans et les morts les bons et les mauvais.”—There
 are some who, by the quick and the dead, understand the good and the
 bad.
 
-<span id="fn_261"></span>[262](inst050.htm#fr_261) <span
+<span id="fn_261"></span>[262](inst050.htm#fr_261.md) <span
 id="iv.ii.xvii-p56.3"></span>
 
 <span id="iv.ii.xvii-p57"></span>68 268 Vide Ambros. de Jac. et Vita
 Beata, Lib. 1 c. 6.
 
-<span id="fn_262"></span>[263](inst050.htm#fr_262) <span
+<span id="fn_262"></span>[263](inst050.htm#fr_262.md) <span
 id="iv.ii.xvii-p57.2"></span>
 
 <span id="iv.ii.xvii-p58"></span>69 269 The French is, “Jusques ici j’ay
@@ -1300,21 +1300,21 @@ articles which are contained in it, wherein consists our salvation, and
 by this means also understand on that things we ought to dwell in order
 to obtain salvation in Jesus Christ.
 
-<span id="fn_263"></span>[264](inst050.htm#fr_263) <span
+<span id="fn_263"></span>[264](inst050.htm#fr_263.md) <span
 id="iv.ii.xvii-p59.1"></span>
 
 <span id="iv.ii.xvii-p60"></span>70 270 <span
 id="iv.ii.xvii-p60.1"></span>[Acts
-4:12](../../../bib/kjv/act004.htm#012)<span
+4:12](../../../bib/kjv/act004.htm#012.md)<span
 id="iv.ii.xvii-p60.1"></span>; <span id="iv.ii.xvii-p60.2"></span>[1
-Cor. 1:30](../../../bib/kjv/co1001.htm#030)<span
+Cor. 1:30](../../../bib/kjv/co1001.htm#030.md)<span
 id="iv.ii.xvii-p60.2"></span>; <span id="iv.ii.xvii-p60.3"></span>[Heb.
-2:17](../../../bib/kjv/heb002.htm#017)<span
+2:17](../../../bib/kjv/heb002.htm#017.md)<span
 id="iv.ii.xvii-p60.3"></span>; <span id="iv.ii.xvii-p60.4"></span>[Gal.
-3:3](../../../bib/kjv/gal003.htm#003)<span
+3:3](../../../bib/kjv/gal003.htm#003.md)<span
 id="iv.ii.xvii-p60.4"></span>.
 
 ------------------------------------------------------------------------
 
 [Next: CHAPTER 17. - CHRIST RIGHTLY AND PROPERLY SAID TO HAVE MERITED
-GRACE AND SALVATION FOR US.](inst051)
+GRACE AND SALVATION FOR US.](inst051.md)

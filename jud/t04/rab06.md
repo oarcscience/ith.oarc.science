@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](rab05)  [Next](rab07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](rab05)  [Next](rab07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ intercourse with his wife. He must cover his head and lower his couch.
 Rabban Gamaliel washed himself when his wife died (see Mishna Berachoth,
 166).
 
- <span id="fr_71"></span>[A1](#fn_71)A mourner must not study the Law,
+ <span id="fr_71"></span>[A1](#fn_71.md)A mourner must not study the Law,
 because the Merciful
 
 <span id="page_24">p. 24</span>
@@ -34,7 +34,7 @@ not to discontinue his studies. He may also establish for himself a
 small store in order to earn a living." Rabh said: "He may sell water in
 the market of Araboth."
 
- <span id="fr_72"></span>[A2](#fn_72)A mourner must not wash his
+ <span id="fr_72"></span>[A2](#fn_72.md)A mourner must not wash his
 clothes, as it is written \[II Sam. xiv. 2\]: "Then sent Joab to Thekoa,
 and he fetched thence a wise woman, and said to her," etc., "and anoint
 thyself not with oil; but be as a woman that hath these many days been
@@ -56,14 +56,14 @@ one who is under the ban." A mourner must not wash himself, as it is
 written \[II Sam. xiv, 2\]: "And anoint thyself not with oil"; and
 anointing includes also washing.
 
- <span id="fr_73"></span>[A3](#fn_73)And the Halakha prevails that a
+ <span id="fr_73"></span>[A3](#fn_73.md)And the Halakha prevails that a
 mourner must not bathe his entire body in either warm or cold water for
 seven days, but he may bathe his face, hands, and feet with cold water
 but not with warm. To anoint himself ever so little is prohibited,
 however, for a mourner; but he may do so for the purpose of removing the
 dirt from a certain part of his body.
 
- <span id="fr_74"></span>[A4](#fn_74)A mourner must not wear shoes,
+ <span id="fr_74"></span>[A4](#fn_74.md)A mourner must not wear shoes,
 because Ezekiel was commanded
 
 <span id="page_25">p. 25</span>
@@ -86,7 +86,7 @@ burial attendants; otherwise he must accompany the others even on the
 first day.
 
 The rabbis taught: "A mourner on the first Sabbath <span
-id="fr_75"></span>[B1](#fn_75) must be confined to his house. On the
+id="fr_75"></span>[B1](#fn_75.md) must be confined to his house. On the
 second he may leave the house, but he may not occupy his usual seat (in
 the prayer-house); on the third he may occupy his usual seat, but he
 must refrain from conversation; and on the fourth Sabbath he is as any
@@ -125,7 +125,7 @@ E. To one who has sustained a loss they say: "The One who rests in this
 house will soften the heart of the finder, and he will return it to thee
 immediately!" It happened to Elazar b. Hananiah b. Hezekiah b. Gorion
 that he lost the Holy Scrolls, which cost him a hundred Manah. <span
-id="fr_76"></span>[E1](#fn_76) He ascended the Temple mount, turned to
+id="fr_76"></span>[E1](#fn_76.md) He ascended the Temple mount, turned to
 the left, and did not stir till he was told that they were found. And
 the Temple was built by Solomon only for the purpose that everyone who
 should have any trouble should come and pray, as it is written \[I
@@ -138,7 +138,7 @@ therefore it is written \[ibid., ibid. 39\]: "As thou mayest know his
 heart, for thou thyself alone knowest the heart of all the children of
 men." Whatever is good for him, grant him. Whence do we know that they
 should not persist in their rebellion? <span
-id="fr_77"></span>[E2](#fn_77) It is written \[ibid., ibid. 38\]: "When
+id="fr_77"></span>[E2](#fn_77.md) It is written \[ibid., ibid. 38\]: "When
 they shall be *conscious* every man of the plague of his own heart, and
 he then spread forth his hands toward this house." All this concerns the
 Israelites, but whence do we know that it concerns also the Gentiles?
@@ -150,37 +150,37 @@ etc.
 
 ### Footnotes
 
-<span id="fn_69"></span>[23:E4](rab05.htm#fr_69) The Talmud explains
+<span id="fn_69"></span>[23:E4](rab05.htm#fr_69.md) The Talmud explains
 this passage to refer to the phylacteries.
 
-<span id="fn_70"></span>[23:E5](rab05.htm#fr_70) See our "Phylacteries
+<span id="fn_70"></span>[23:E5](rab05.htm#fr_70.md) See our "Phylacteries
 Ritual," pp. 49 and 55.
 
-<span id="fn_71"></span>[23:A1](rab06.htm#fr_71)
+<span id="fn_71"></span>[23:A1](rab06.htm#fr_71.md)
 
 ### CHAPTER VI.
 
 A. *Gemara* from Moed Katan.
 
-<span id="fn_72"></span>[24:A2](rab06.htm#fr_72) *Gemara* from Moed
+<span id="fn_72"></span>[24:A2](rab06.htm#fr_72.md) *Gemara* from Moed
 Katan.
 
-<span id="fn_73"></span>[24:A3](rab06.htm#fr_73) Transferred from
+<span id="fn_73"></span>[24:A3](rab06.htm#fr_73.md) Transferred from
 Taanith.
 
-<span id="fn_74"></span>[24:A4](rab06.htm#fr_74) *Gemara* from Moed
+<span id="fn_74"></span>[24:A4](rab06.htm#fr_74.md) *Gemara* from Moed
 Katan.
 
-<span id="fn_75"></span>[25:B1](rab06.htm#fr_75) *B*. It means the first
+<span id="fn_75"></span>[25:B1](rab06.htm#fr_75.md) *B*. It means the first
 week, etc., even when he goes to prayer-house in the week-days.
 
-<span id="fn_76"></span>[26:E1](rab06.htm#fr_76) *E*. The coin Manah was
+<span id="fn_76"></span>[26:E1](rab06.htm#fr_76.md) *E*. The coin Manah was
 of the value of a hundred Zuz.
 
-<span id="fn_77"></span>[26:E2](rab06.htm#fr_77) This is to be
+<span id="fn_77"></span>[26:E2](rab06.htm#fr_77.md) This is to be
 understood thus: Whence do we know, if a rebel comes to pray that he
 shall be successful in his rebellion, that he shall not be listened to?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](rab07)
+[Next: Chapter VII](rab07.md)

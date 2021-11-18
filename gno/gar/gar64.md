@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar63)  [Next](gar65) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar63)  [Next](gar65.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -63,7 +63,7 @@ either save
 their liberty by *professing* Mahommedanism, or else continue, as
 tributaries, in the unmolested exercise of their old faith, being
 confounded by the uninquisitive conqueror under the general name of
-*Infidels*. <span id="fr_254"></span>[\*](#fn_252) "The sects of Egypt
+*Infidels*. <span id="fr_254"></span>[\*](#fn_252.md) "The sects of Egypt
 and Syria," says Gibbon, "enjoyed a free toleration under the shadow of
 the Arabian Caliphs," and therefore may reasonably be supposed to have
 maintained their peculiar notions and observances down to the time of
@@ -111,7 +111,7 @@ harmonising infinitely more closely with those of enlightened religious
 men of our times upon the same subject--in a word, these sermons breathe
 a spirit in every respect more *Christian* (to use the modern phrase)
 than characterises any writings of the actual Christian divines, the
-contemporaries of the author. <span id="fr_255"></span>[\*](#fn_253) But
+contemporaries of the author. <span id="fr_255"></span>[\*](#fn_253.md) But
 this is necessarily so, Hariri and Mohammedans like him being guided by
 the traditions of the old philosophy still secretly maintained amongst
 them, whilst the spirit of modern Christianity is strongly, though
@@ -169,13 +169,13 @@ duty either to convert or exterminate.
 
 ### Footnotes
 
-<span id="fn_252"></span>[415:\*](gar64.htm#fr_254) The semi-Magian
+<span id="fn_252"></span>[415:\*](gar64.htm#fr_254.md) The semi-Magian
 Abdallah and his new Ismaelites have a strong family resemblance to
 Weishaupt and his illuminati in the last century.
 
-<span id="fn_253"></span>[416:\*](gar64.htm#fr_255) He flourished in the
+<span id="fn_253"></span>[416:\*](gar64.htm#fr_255.md) He flourished in the
 ninth century.
 
 ------------------------------------------------------------------------
 
-[Next: Diffusion of Oriental Culture](gar65)
+[Next: Diffusion of Oriental Culture](gar65.md)

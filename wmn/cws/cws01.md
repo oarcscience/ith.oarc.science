@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](cws00)  [Next](cws02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](cws00)  [Next](cws02.md) 
 
 ------------------------------------------------------------------------
 
@@ -143,4 +143,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Preface To The Second Edition](cws02)
+[Next: Preface To The Second Edition](cws02.md)

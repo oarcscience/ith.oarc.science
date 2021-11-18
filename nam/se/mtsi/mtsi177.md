@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi176)  [Next](mtsi178) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi176)  [Next](mtsi178.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ snake and killed it.
 
 ------------------------------------------------------------------------
 
-[Next: 42. The Woman Who Turned Into a Snake](mtsi178)
+[Next: 42. The Woman Who Turned Into a Snake](mtsi178.md)

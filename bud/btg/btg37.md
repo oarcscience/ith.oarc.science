@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg36)  [Next](btg38) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg36)  [Next](btg38.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ went away.
 
 ------------------------------------------------------------------------
 
-[Next: The Re-Establishment Of Concord](btg38)
+[Next: The Re-Establishment Of Concord](btg38.md)

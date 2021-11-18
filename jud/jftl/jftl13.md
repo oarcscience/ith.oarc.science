@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl12)  [Next](jftl14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl12)  [Next](jftl14.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_12600"></span> <span align="CENTER"> [![With a cry, he put
 his fingers in his mouth to ease the pain and burned his tongue.
 (&lt;i&gt;Page 131&lt;/i&gt;).](tn/12600.jpg)  
-Click to enlarge](img/12600.jpg)  
+Click to enlarge](img/12600.jpg.md)  
 With a cry, he put his fingers in his mouth to ease the pain and burned
 his tongue. (*Page 131*).  
 </span>
@@ -101,7 +101,7 @@ answered Reuel.
 The queen and the princess agreed with Reuel, who was their favorite,
 but Bilam would not allow the matter to pass lightly.
 
-"I, [Bilam](errata.htm#4), am chief of thy counselors," he said, "and
+"I, [Bilam](errata.htm#4.md), am chief of thy counselors," he said, "and
 deeply learned in the mysteries of signs and portents. There is a
 meaning in all
 
@@ -174,11 +174,11 @@ not for Moses. In years to come this staff shall be his."
 And so it came to pass. Years afterward, when Moses was a man and fled
 from Egypt, he married a daughter of Reuel who became a Hebrew and took
 the name of Jethro. Reuel planted the staff in his
-[garden](errata.htm#5) and Moses saw it. He read the magic word, and
+[garden](errata.htm#5.md) and Moses saw it. He read the magic word, and
 touching the staff it came out of the ground into his hands. With this
 staff Moses performed the wonderful things in Egypt when he delivered
 the children of Israel from bondage, as is related in the Bible.
 
 ------------------------------------------------------------------------
 
-[Next: Sinbad of the Talmud](jftl14)
+[Next: Sinbad of the Talmud](jftl14.md)

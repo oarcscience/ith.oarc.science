@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng02)  [Next](nblng04) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng02)  [Next](nblng04.md) 
 
 ------------------------------------------------------------------------
 
@@ -203,4 +203,4 @@ meaning of 'worth', 'reverence', 'respect', to translate the M.H.G.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure II: Of Siegfried.](nblng04)
+[Next: Adventure II: Of Siegfried.](nblng04.md)

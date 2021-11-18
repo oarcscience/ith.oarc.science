@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl69)  [Next](hpl71) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl69)  [Next](hpl71.md) 
 
 ------------------------------------------------------------------------
 
@@ -816,4 +816,4 @@ had ever had.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](hpl71)
+[Next: Chapter V](hpl71.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos36)  [Next](gbos38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos36)  [Next](gbos38.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ of both.
 
 ------------------------------------------------------------------------
 
-[Next: The Old Laws](gbos38)
+[Next: The Old Laws](gbos38.md)

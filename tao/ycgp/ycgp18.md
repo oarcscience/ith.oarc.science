@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp17) [Next](ycgp19)
+[Sacred-Texts](../../index) [Taoism](../index) [Index](index) [Previous](ycgp17) [Next](ycgp19.md)
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ ashamed.
 
 ------------------------------------------------------------------------
 
-[Next](ycgp19)
+[Next](ycgp19.md)
 
  
 

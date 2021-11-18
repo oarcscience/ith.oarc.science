@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb13)  [Next](ptb15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb13)  [Next](ptb15.md) 
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ as Jupiter; the rest are like Saturn.
 *Canis*. The bright star in the mouth is like Jupiter, and partly like
 Mars: the others are like Venus.
 
-*Procyon*. <span id="fr_50"></span>[1](#fn_50) The bright star is like
+*Procyon*. <span id="fr_50"></span>[1](#fn_50.md) The bright star is like
 Mercury, and in some degree like Mars.
 
 *Hydrus*. The bright stars are like Saturn and Venus.
@@ -52,15 +52,15 @@ like Venus and Jupiter.
 
 The respective influences of the several stars have been observed by the
 ancients to operate in conformity with the mode pointed out in the
-foregoing distributions. <span id="fr_51"></span>[2](#fn_51)
+foregoing distributions. <span id="fr_51"></span>[2](#fn_51.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_50"></span>[20:1](ptb14.htm#fr_50) Canis Minor.
+<span id="fn_50"></span>[20:1](ptb14.htm#fr_50.md) Canis Minor.
 
-<span id="fn_51"></span>[20:2](ptb14.htm#fr_51) "Of the fixed stars in
+<span id="fn_51"></span>[20:2](ptb14.htm#fr_51.md) "Of the fixed stars in
 general," Whalley says, "Those of the greatest magnitude are the most
 efficacious; and those in, or near, the ecliptic, more powerful than
 those more remote from it. Those with north latitude and declination
@@ -72,4 +72,4 @@ themselves the fixed stars emit no rays."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. The Annual Seasons](ptb15)
+[Next: Chapter XII. The Annual Seasons](ptb15.md)

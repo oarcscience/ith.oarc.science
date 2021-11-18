@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm45)  [Next](rotm47) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm45)  [Next](rotm47.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -360,6 +360,6 @@ Nor be mocked of the dead men for deedless and pale.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVI. Men Meet in the Market of Silver-Stead](rotm47)
+[Next: Chapter XLVI. Men Meet in the Market of Silver-Stead](rotm47.md)
 
 </div>

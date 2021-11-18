@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft05)  [Next](efft07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft05)  [Next](efft07.md) 
 
 ------------------------------------------------------------------------
 
-# JACK AND THE BEAN-STALK  <span id="fr_7"></span>[1](#fn_7)
+# JACK AND THE BEAN-STALK  <span id="fr_7"></span>[1](#fn_7.md)
 
 THERE lived a poor widow, whose cottage stood in a country village, a
 long distance from London, for many years.
@@ -283,8 +283,8 @@ parent.
 
 ### Footnotes
 
-<span id="fn_7"></span>[1](efft06.htm#fr_7) From a Chap-book.
+<span id="fn_7"></span>[1](efft06.htm#fr_7.md) From a Chap-book.
 
 ------------------------------------------------------------------------
 
-[Next: The Story of Sain Kenelm](efft07)
+[Next: The Story of Sain Kenelm](efft07.md)

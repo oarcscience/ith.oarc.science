@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shamanism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shamanism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FL4VJ8/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sis00)    [Text
-\[Zipped\]](sis.txt.gz)
+[Contents](#contents)    [Start Reading](sis00.md)    [Text
+\[Zipped\]](sis.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -45,18 +45,18 @@ material on Shamanism.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sis00)  
+<span id="contents"></span> [Title Page](sis00.md)  
 <span id="section_000"></span>
 
 ### Part III. Religion
 
-[Chapter VII. Shamanism](sis01)  
-[Chapter VIII. The Shaman](sis02)  
-[A. The Shaman's Vocation](sis03)  
-[B. The Shaman's Preparatory Period](sis04)  
-[Chapter IX. Types of Shamans](sis05)  
-[Chaper X. The Accessories of the Shaman](sis06)  
-[Chapter XI. The Shaman in Action](sis07)  
-[Chapter XII. Shamanism and Sex](sis08)  
-[Chapter XIII: Gods, Spirits, Soul](sis09)  
-[Chapter XIV. Some Ceremonies](sis10)  
+[Chapter VII. Shamanism](sis01.md)  
+[Chapter VIII. The Shaman](sis02.md)  
+[A. The Shaman's Vocation](sis03.md)  
+[B. The Shaman's Preparatory Period](sis04.md)  
+[Chapter IX. Types of Shamans](sis05.md)  
+[Chaper X. The Accessories of the Shaman](sis06.md)  
+[Chapter XI. The Shaman in Action](sis07.md)  
+[Chapter XII. Shamanism and Sex](sis08.md)  
+[Chapter XIII: Gods, Spirits, Soul](sis09.md)  
+[Chapter XIV. Some Ceremonies](sis10.md)  

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](pol08)  [Next](pol10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](pol08)  [Next](pol10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002F9NQVE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Talmud: Selections*, by H. Polano, \[1876\], at Intangible Textual
 Heritage
 
@@ -465,7 +465,7 @@ this means only wilt thou be able to
 
 prevail over them. Command that all the male children born to these
 Hebrews be cast into the river, for none of their ancestors ever escaped
-from the death in the water." <span id="fr_1"></span>[1](#fn_1)
+from the death in the water." <span id="fr_1"></span>[1](#fn_1.md)
 
 This advice pleased Pharaoh, and his princes and the king did according
 to the words of Bi’lam. A proclamation was issued, and Pharaoh sent his
@@ -615,7 +615,7 @@ his power and his favour with the king's daughter, fled to Ethiopia.
 
 Moses urged the king of Egypt to grant the men of Goshen one day of rest
 from their labour, in each week, and the king acceded to his
-request. <span id="fr_2"></span>[1](#fn_2)
+request. <span id="fr_2"></span>[1](#fn_2.md)
 
 And the Lord was with Moses, and his fame extended through all the land.
 
@@ -819,7 +819,7 @@ until it came into the possession of
 <span id="page_135">p. 135</span>
 
 <span class="contnote">\[paragraph continues\]</span> Abraham. When
-Abraham left all his [worldly](errata.htm#0) goods to Isaac this staff
+Abraham left all his [worldly](errata.htm#0.md) goods to Isaac this staff
 was numbered with them, and when Jacob fled from his brother's anger
 into Mesopotamia, he carried this staff in his hand, and while residing
 in Egypt he gave it to Joseph, his son.
@@ -926,7 +926,7 @@ And the Egyptians sent the children of Israel forth with great wealth,
 flocks, and herds, and precious things, even as the Lord had promised
 Abraham in his vision of the "covenant between the pieces."
 
-The children of [Israel](errata.htm#1) did not leave Egypt that night,
+The children of [Israel](errata.htm#1.md) did not leave Egypt that night,
 for
 
 <span id="page_138">p. 138</span>
@@ -1086,18 +1086,18 @@ The horse and the rider He hath cast into the sea."</span>
 
 ### Footnotes
 
-<span id="fn_1"></span>[125:1](pol09.htm#fr_1) The three counsellors of
+<span id="fn_1"></span>[125:1](pol09.htm#fr_1.md) The three counsellors of
 Pharaoh were dealt with by God according to their merits. Jithro
 (Re’uël), who desired to release and relieve them, was saved from
 destruction, and converted to Judaism; Job received the punishment
 mentioned in the book to which his name is given; and "Bi’lam, the son
 of Be’or, they killed him with the sword" (Num. 31 8).
 
-<span id="fn_2"></span>[129:1](pol09.htm#fr_2) Moses said: "If you
+<span id="fn_2"></span>[129:1](pol09.htm#fr_2.md) Moses said: "If you
 compel them to labour steadily their strength will fail them; for your
 own benefit and profit allow them at east one day in the week for rest
 and a renewal of strength."
 
 ------------------------------------------------------------------------
 
-[Next: I. The Deliverance From Egypt](pol10)
+[Next: I. The Deliverance From Egypt](pol10.md)

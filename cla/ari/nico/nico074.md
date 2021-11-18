@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico073) 
-[Next](nico075) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico073.md) 
+[Next](nico075.md) 
 
 ------------------------------------------------------------------------
 
@@ -82,4 +82,4 @@ their imagination.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8. Self-indulgence worse than incontinence](nico075)
+[Next: Chapter 8. Self-indulgence worse than incontinence](nico075.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh17)  [Next](ehh19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh17)  [Next](ehh19.md) 
 
 ------------------------------------------------------------------------
 
@@ -54,4 +54,4 @@ of those "who make supplication through terror" (vol. i., pp. 170 ff.).
 ------------------------------------------------------------------------
 
 [Next: Ninth Division of the Tuat. I. Kingdom of Osiris According to the
-Book Am-Tuat](ehh19)
+Book Am-Tuat](ehh19.md)

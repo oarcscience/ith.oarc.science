@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq09)  [Next](sfq11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq09)  [Next](sfq11.md) 
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ his lance right through the other's shield,
 <span id="img_02400"></span>
 
 [![](tn/02400.jpg)  
-Click to enlarge](img/02400.jpg)
+Click to enlarge](img/02400.jpg.md)
 
 and bore him to the ground. Leaping from his horse, he ran towards him,
 meaning to kill him, and exclaiming, "Lo, this is the worthy reward of
@@ -91,4 +91,4 @@ meekly at a distance.
 
 ------------------------------------------------------------------------
 
-[Next: The House of Pride](sfq11)
+[Next: The House of Pride](sfq11.md)

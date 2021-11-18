@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](btg31)  [Next](btg33) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](btg31)  [Next](btg33.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ again, converting those who listened to his teachings.
 
 ------------------------------------------------------------------------
 
-[Next: Women In The Sangha](btg33)
+[Next: Women In The Sangha](btg33.md)

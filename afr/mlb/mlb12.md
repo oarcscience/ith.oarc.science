@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb11)  [Next](mlb13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb11)  [Next](mlb13.md) 
 
 ------------------------------------------------------------------------
 
@@ -380,4 +380,4 @@ head of Gheorghitza, "so beautiful was he!"
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: The Tricksters Hlakanyana and Huveane](mlb13)
+[Next: Chapter XI: The Tricksters Hlakanyana and Huveane](mlb13.md)

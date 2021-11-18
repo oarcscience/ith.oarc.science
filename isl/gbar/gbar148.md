@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar147) [Next](gbar149)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar147) [Next](gbar149.md)
 
 ------------------------------------------------------------------------
 
@@ -62,4 +62,4 @@ thee, if thou hast not seen any man?"
 
 ------------------------------------------------------------------------
 
-[Next](gbar149)
+[Next](gbar149.md)

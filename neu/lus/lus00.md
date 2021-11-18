@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Next](lus01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Next](lus01.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,4 +76,4 @@ genius."--HALLAM.
 
 ------------------------------------------------------------------------
 
-[Next: Editor’s Preface](lus01)
+[Next: Editor’s Preface](lus01.md)

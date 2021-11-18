@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao03)   
-[Previous](tao02)  [Next](tao04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao03.md)   
+[Previous](tao02)  [Next](tao04.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ into social order.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 4](tao04)
+[Next: Chapter 4](tao04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly02)  [Next](lly04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly02)  [Next](lly04.md) 
 
 ------------------------------------------------------------------------
 
@@ -45,4 +45,4 @@ Yosemite, California,
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. The Coming of the White Man to Yosemite](lly04)
+[Next: Chapter I. The Coming of the White Man to Yosemite](lly04.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow11)  [Next](fow13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow11)  [Next](fow13.md) 
 
 ------------------------------------------------------------------------
 
@@ -198,4 +198,4 @@ mischievous effects.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: Woman's Secrets](fow13)
+[Next: Chapter XI: Woman's Secrets](fow13.md)

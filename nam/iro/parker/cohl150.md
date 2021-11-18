@@ -1,12 +1,12 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Iroquois](../index)  [Index](index) 
-[Previous](cohl149)  [Next](cohl151) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Iroquois](../index)  [Index](index.md) 
+[Previous](cohl149)  [Next](cohl151.md) 
 
 ------------------------------------------------------------------------
 
 <span id="page_113">p. 113</span>
 
-### SECRET MEDICINE SOCIETIES OF THE SENECA <span id="fr_105"></span>[1](#fn_105)
+### SECRET MEDICINE SOCIETIES OF THE SENECA <span id="fr_105"></span>[1](#fn_105.md)
 
 During the last six years the writer has made a detailed field study of
 the various phases of Iroquois culture, special attention being directed
@@ -35,7 +35,7 @@ mysteries. They had two such organizations, one for each phratry, which
 shows still further the natural connection of the phratry and the
 religious observances. Very little is now known concerning these lodges
 or their ceremonies. Each was a brotherhood into which new members were
-admitted by formal initiation." <span id="fr_106"></span>[2](#fn_106)
+admitted by formal initiation." <span id="fr_106"></span>[2](#fn_106.md)
 
 Morgan's experience is that of most observers, close as their
 observation may be. The writer, with the assistance of his wife,
@@ -81,7 +81,7 @@ illegal and not binding, that the sin of disobedience was upon the
 chiefs and not upon the body of members. The societies consequently
 continued their rites, although they found it expedient to do so
 secretly, for they were branded as witches and wizards, <span
-id="fr_107"></span>[1](#fn_107) and the members of one society at least
+id="fr_107"></span>[1](#fn_107.md) and the members of one society at least
 were executed as sorcerers when they were found practising their arts.
 
 The existence of the societies became doubly veiled. The zealous
@@ -147,7 +147,7 @@ forgiven, adopted, kept a captive, and finally, after long study and
 many warnings, was sent back to his people to teach them the secrets of
 the animals and how their favor could be obtained. The secrets were to
 be preserved by the society which the hero was to found. <span
-id="fr_108"></span>[1](#fn_108) There are some variations of this
+id="fr_108"></span>[1](#fn_108.md) There are some variations of this
 abstract, but it covers the general features of most of the legends.
 
 The study of the societies was commenced by the writer in 1902, and
@@ -168,29 +168,29 @@ is impossible for the sake of brevity to present a fair compend or even
 a systematic outline. The main features of the less known organizations
 and some neglected facts of the few that are better known are mentioned,
 it being hoped that even such statements may be useful to students of
-ethnology. The list follows. <span id="fr_109"></span>[2](#fn_109)
+ethnology. The list follows. <span id="fr_109"></span>[2](#fn_109.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_105"></span>[113:1](cohl150.htm#fr_105) Adapted from the
+<span id="fn_105"></span>[113:1](cohl150.htm#fr_105.md) Adapted from the
 author's article in American Anthropologist, 2:2, April-June, 1909.
 
-<span id="fn_106"></span>[113:2](cohl150.htm#fr_106) Morgan, Ancient
+<span id="fn_106"></span>[113:2](cohl150.htm#fr_106.md) Morgan, Ancient
 Society, p. 97, ed. 1907.
 
-<span id="fn_107"></span>[114:1](cohl150.htm#fr_107) The modern Iroquois
+<span id="fn_107"></span>[114:1](cohl150.htm#fr_107.md) The modern Iroquois
 call all sorcerers and conjurers, regardless of sex, "witches." They
 never use the masculine form.
 
-<span id="fn_108"></span>[116:1](cohl150.htm#fr_108) Myths and Legends
+<span id="fn_108"></span>[116:1](cohl150.htm#fr_108.md) Myths and Legends
 of the Iroquois, N. Y. State Mus. Bul. 125, p. 176.
 
-<span id="fn_109"></span>[116:2](cohl150.htm#fr_109) A description of
+<span id="fn_109"></span>[116:2](cohl150.htm#fr_109.md) A description of
 some of these societies was prepared for incorporation in the Fifth
 Annual Report of the Director of the State Museum, 1909.
 
 ------------------------------------------------------------------------
 
-[Next: The Little Water Company](cohl151)
+[Next: The Little Water Company](cohl151.md)

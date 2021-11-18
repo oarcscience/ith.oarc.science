@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt52)  [Next](egt54) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt52)  [Next](egt54.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ ocean of the world of Power, the moon and sun of the heaven of peace.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE INTERPRETATION OF THE DREAM.](egt54)
+[Next: ON THE INTERPRETATION OF THE DREAM.](egt54.md)

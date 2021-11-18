@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Previous](lmbg00) [Next](lmbg02)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Previous](lmbg00) [Next](lmbg02.md)
 
 ------------------------------------------------------------------------
 
@@ -36,4 +36,4 @@ the native languages shall be spoken.
 
 ------------------------------------------------------------------------
 
-[Next](lmbg02)
+[Next](lmbg02.md)

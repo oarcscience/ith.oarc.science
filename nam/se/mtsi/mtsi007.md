@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi006)  [Next](mtsi008) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi006)  [Next](mtsi008.md) 
 
 ------------------------------------------------------------------------
 
 ### 5. THE ORIGIN OF CORN (4)
 
 It is said that corn was obtained by one of the women of the Tåmålgi
-clan. <span id="fr_3"></span>[1](#fn_3) She had a number of neighbors
+clan. <span id="fr_3"></span>[1](#fn_3.md) She had a number of neighbors
 and friends, and when they came to her house she would dish some sofki
 (a native dish made from corn) into an earthen bowl and they would drink
 it. They found it delicious, but did not know where she got the stuff of
@@ -34,8 +34,8 @@ Lewis.)
 
 ### Footnotes
 
-<span id="fn_3"></span>[9:1](mtsi007.htm#fr_3) See Story 7
+<span id="fn_3"></span>[9:1](mtsi007.htm#fr_3.md) See Story 7
 
 ------------------------------------------------------------------------
 
-[Next: 6. The Orphan and the Origin of Corn](mtsi008)
+[Next: 6. The Orphan and the Origin of Corn](mtsi008.md)

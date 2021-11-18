@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe11) 
-[Next](ioe13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](ioe11.md) 
+[Next](ioe13.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ woven upon.
 
 ------------------------------------------------------------------------
 
-[Next: Ashikaga Period: 1400-1600 A.D.](ioe13)
+[Next: Ashikaga Period: 1400-1600 A.D.](ioe13.md)

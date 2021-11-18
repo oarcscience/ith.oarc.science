@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh20)  [Next](ehh22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh20)  [Next](ehh22.md) 
 
 ------------------------------------------------------------------------
 
@@ -64,4 +64,4 @@ into SEKHET-AARU, which apparently has not yet been reached.
 ------------------------------------------------------------------------
 
 [Next: Eighth Division of the Tuat. II. Kingdom of Osiris According to
-the Book of Gates](ehh22)
+the Book of Gates](ehh22.md)

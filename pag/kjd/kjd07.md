@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd06)  [Next](kjd08) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd06)  [Next](kjd08.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ Bodley Head reprint this follows page 82.--jbh}
 
 ------------------------------------------------------------------------
 
-[Next: Newes From Scotland - Title Page](kjd08)
+[Next: Newes From Scotland - Title Page](kjd08.md)

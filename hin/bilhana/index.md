@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0856463728/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0856463728/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0856463728/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](bil01)
+[Contents](#contents)    [Start Reading](bil01.md)
 
 ------------------------------------------------------------------------
 
@@ -57,10 +57,10 @@ Marigolds. This was the translation which John Steinbeck quotes in
 Cannery Row. A modern version worth looking for is The Secret Delights
 of Love, by Gertrude Clorius Schwebell, Peter Pauper Press, New York
 \[1966\]; this can be found
-[used](https://www.abebooks.com/servlet/SearchResults?sts=t&an=Schwebell&y=0&tn=secret+delights&x=0)
+[used](https://www.abebooks.com/servlet/SearchResults?sts=t&an=Schwebell&y=0&tn=secret+delights&x=0.md)
 very inexpensively.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](bil00)  
-[Black Marigolds](bil01)  
+<span id="contents"></span> [Title Page](bil00.md)  
+[Black Marigolds](bil01.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah12)  [Next](sah14) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah12)  [Next](sah14.md) 
 
 ------------------------------------------------------------------------
 
@@ -783,4 +783,4 @@ can they overthrow a scientific system of ethics.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV - Recapitulation](sah14) 
+[Next: Chapter XIV - Recapitulation](sah14.md) 

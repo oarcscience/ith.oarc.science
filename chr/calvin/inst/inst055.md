@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Christianity](../../index)  [Calvin](../index)  [Index](index) 
-[Previous](inst054)  [Next](inst056) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Christianity](../../index)  [Calvin](../index)  [Index](index.md) 
+[Previous](inst054)  [Next](inst056.md) 
 
 ------------------------------------------------------------------------
 
@@ -264,7 +264,7 @@ them which are sanctified through faith which is in me.” Paul further
 declares, that in the person of Christ the glory of God is visibly
 manifested to us, or, which is the same thing, we have “the light of the
 knowledge of the glory of God in the face of Jesus Christ.”27  <span
-id="fr_272"></span>[273](#fn_272) It is true, indeed, that faith has
+id="fr_272"></span>[273](#fn_272.md) It is true, indeed, that faith has
 respect to God only; but to this we should add, that it acknowledges
 Jesus Christ whom he has sent. God would remain far off, concealed from
 us, were we not irradiated by the brightness of Christ. All that the
@@ -279,23 +279,23 @@ be known is, whither we are to go, and by what way;” and immediately
 after infers, that “the surest way to avoid all errors is to know him
 who is both God and man. It is to God we tend, and it is by man we go,
 and both of these are found only in Christ.”28  <span
-id="fr_273"></span>[274](#fn_273) Paul, when he preaches faith towards
+id="fr_273"></span>[274](#fn_273.md) Paul, when he preaches faith towards
 God, surely does not intend to overthrow what he so often
 inculcates—viz. that faith has all its stability in Christ. Peter most
 appropriately connects both, saying, that by him “we believe in God,”
 (<span id="iv.iii.iii-p49.1"></span>[1 Pet.
-1:21](../../../bib/kjv/pe1001.htm#021)<span
+1:21](../../../bib/kjv/pe1001.htm#021.md)<span
 id="iv.iii.iii-p49.1"></span>).
 
 <span id="iv.iii.iii-p50"></span>2. This evil, therefore, must, like
 innumerable others, be attributed to the Schoolmen,28  <span
-id="fr_274"></span>[275](#fn_274) who have in a manner drawn a veil over
+id="fr_274"></span>[275](#fn_274.md) who have in a manner drawn a veil over
 Christ, to whom, if our eye is not directly turned, we must always
 wander through many labyrinths. But besides impairing, and almost
 annihilating, faith by their obscure definition, they have invented the
 fiction of implicit faith, with which name decking the grossest
 ignorance, they delude the wretched populace to their great
-destruction.28  <span id="fr_275"></span>[276](#fn_275) Nay, to state
+destruction.28  <span id="fr_275"></span>[276](#fn_275.md) Nay, to state
 the fact more truly and plainly, this fiction not only buries true
 faith, but entirely destroys it. Is it faith to understand nothing, and
 merely submit your convictions implicitly to the Church? Faith consists
@@ -310,7 +310,7 @@ obtain an entrance into the kingdom of heaven. For when the Apostle
 says, “With the heart man believeth unto righteousness; and with the
 mouth confession is made unto salvation,” (<span
 id="iv.iii.iii-p52.1"></span>[Rom.
-10:10](../../../bib/kjv/rom010.htm#010)<span
+10:10](../../../bib/kjv/rom010.htm#010.md)<span
 id="iv.iii.iii-p52.1"></span>); he intimates, that it is not enough to
 believe implicitly without understanding, or even inquiring. The thing
 requisite is an explicit recognition of the divine goodness, in which
@@ -324,7 +324,7 @@ is to suspend our judgment, and resolve to maintain unity with the
 Church. But under this pretext, to honor ignorance tempered with
 humility with the name of faith, is most absurd. Faith consists in the
 knowledge of God and Christ (<span id="iv.iii.iii-p53.1"></span>[John
-17:3](../../../bib/kjv/joh017.htm#003)<span
+17:3](../../../bib/kjv/joh017.htm#003.md)<span
 id="iv.iii.iii-p53.1"></span>), not in reverence for the Church. And we
 see what a labyrinth they have formed out of this implicit faith—every
 thing, sometimes even the most monstrous errors, being received by the
@@ -351,9 +351,9 @@ attained the greatest perfection, is to go forward, and endeavor in a
 calm and teachable spirit to make further progress. Hence Paul exhorts
 believers to wait for further illumination in any matter in which they
 differ from each other, <span id="iv.iii.iii-p54.1"></span>[Phil.
-3:15](../../../bib/kjv/phi003.htm#015)<span
+3:15](../../../bib/kjv/phi003.htm#015.md)<span
 id="iv.iii.iii-p54.1"></span>).28  <span
-id="fr_276"></span>[277](#fn_276) And certainly experience teaches, that
+id="fr_276"></span>[277](#fn_276.md) And certainly experience teaches, that
 so long as we are in the flesh, our attainments are less than is to be
 desired. In our daily reading we fall in with many obscure passages
 which convict us of ignorance. With this curb God keeps us modest,
@@ -393,7 +393,7 @@ made them willingly submit to Christ, is honored with the name of faith,
 though it was nothing but the commencement of it. Thus the nobleman who
 believed in the promised cure of his son, on returning home, is said by
 the Evangelist (<span id="iv.iii.iii-p56.1"></span>[John
-4:53](../../../bib/kjv/joh004.htm#053)<span
+4:53](../../../bib/kjv/joh004.htm#053.md)<span
 id="iv.iii.iii-p56.1"></span>) to have again believed; that is, he had
 first received the words which fell from the lips of Christ as an
 oracular response, and thereafter submitted to his authority and
@@ -406,7 +406,7 @@ and eagerly hastened to Christ; but, after they had heard him, thus
 express themselves, “Now we believe, not because of thy saying, for we
 have heard him ourselves, and know that this is indeed the Christ, the
 Savior of the world,” (<span id="iv.iii.iii-p56.2"></span>[John
-4:42](../../../bib/kjv/joh004.htm#042)<span
+4:42](../../../bib/kjv/joh004.htm#042.md)<span
 id="iv.iii.iii-p56.2"></span>). From these passages it is obvious, that
 even those who are not yet imbued with the first principles, provided
 they are disposed to obey, are called *believers*, not properly indeed,
@@ -428,18 +428,18 @@ faith the inseparable attendant of doctrine in these words, “Ye have not
 so learned Christ; if so be that ye have heard him, and have been taught
 by him, as the truth is in Jesus,” (<span
 id="iv.iii.iii-p57.1"></span>[Eph.
-4:20](../../../bib/kjv/eph004.htm#020),
-[21](../../../bib/kjv/eph004.htm#021)<span
+4:20](../../../bib/kjv/eph004.htm#020.md),
+[21](../../../bib/kjv/eph004.htm#021.md)<span
 id="iv.iii.iii-p57.1"></span>). Still I do not confine faith to the
 Gospel in such a sense as not to admit that enough was delivered to
 Moses and the Prophets to form a foundation of faith; but as the Gospel
 exhibits a fuller manifestation of Christ, Paul justly terms it the
 doctrine of faith (<span id="iv.iii.iii-p57.2"></span>[1 Tim.
-4:6](../../../bib/kjv/ti1004.htm#006)<span
+4:6](../../../bib/kjv/ti1004.htm#006.md)<span
 id="iv.iii.iii-p57.2"></span>). For which reason, also he elsewhere
 says, that, by the coming of faith, the Law was abolished (<span
 id="iv.iii.iii-p57.3"></span>[Rom.
-10:4](../../../bib/kjv/rom010.htm#004)<span
+10:4](../../../bib/kjv/rom010.htm#004.md)<span
 id="iv.iii.iii-p57.3"></span>), including under the expression a new and
 unwonted mode of teaching, by which Christ, from the period of his
 appearance as the great Master, gave a fuller illustration of the
@@ -450,27 +450,27 @@ relation between faith and the word, and that these can no more be
 disconnected from each other than rays of light from the sun. Hence in
 Isaiah the Lord exclaims, “Hear, and your soul shall live,” (<span
 id="iv.iii.iii-p57.4"></span>[Is.
-4:3](../../../bib/kjv/isa004.htm#003)<span
+4:3](../../../bib/kjv/isa004.htm#003.md)<span
 id="iv.iii.iii-p57.4"></span>). And John points to this same fountain of
 faith in the following words, “These are written that ye might believe,”
 (<span id="iv.iii.iii-p57.5"></span>[John
-20:31](../../../bib/kjv/joh020.htm#031)<span
+20:31](../../../bib/kjv/joh020.htm#031.md)<span
 id="iv.iii.iii-p57.5"></span>). The Psalmist also exhorting the people
 to faith says, “To-day, if ye will hear his voice,” (<span
 id="iv.iii.iii-p57.6"></span>[Ps.
-95:7](../../../bib/kjv/psa095.htm#007)<span
+95:7](../../../bib/kjv/psa095.htm#007.md)<span
 id="iv.iii.iii-p57.6"></span>), to *hear* being uniformly taken for to
 *believe*. In fine, in Isaiah the Lord distinguishes the members of the
 Church from strangers by this mark, “All thy children shall be taught of
 the Lord,” (<span id="iv.iii.iii-p57.7"></span>[Is.
-54:13](../../../bib/kjv/isa054.htm#013)<span
+54:13](../../../bib/kjv/isa054.htm#013.md)<span
 id="iv.iii.iii-p57.7"></span>); for if the benefit was indiscriminate,
 why should he address his words only to a few? Corresponding with this,
 the Evangelists uniformly employ the terms *believers* and *disciples*
 as synonymous. This is done especially by Luke in several passages of
 the Acts. He even applies the term *disciple* to a woman (<span
 id="iv.iii.iii-p57.8"></span>[Acts
-9:36](../../../bib/kjv/act009.htm#036)<span
+9:36](../../../bib/kjv/act009.htm#036.md)<span
 id="iv.iii.iii-p57.8"></span>). Wherefore, if faith declines in the
 least degree from the mark at which it ought to aim, it does not retain
 its nature, but becomes uncertain credulity and vague wandering of mind.
@@ -485,11 +485,11 @@ the agency of man, or works immediately by his own power, it is always
 by his word that he manifests himself to those whom he designs to draw
 to himself. Hence Paul designates faith as the obedience which is given
 to the Gospel (<span id="iv.iii.iii-p57.9"></span>[Rom.
-1:5](../../../bib/kjv/rom001.htm#005)<span
+1:5](../../../bib/kjv/rom001.htm#005.md)<span
 id="iv.iii.iii-p57.9"></span>); and writing to the Philippians, he
 commends them for the obedience of faith (<span
 id="iv.iii.iii-p57.10"></span>[Phil.
-2:17](../../../bib/kjv/phi002.htm#017)<span
+2:17](../../../bib/kjv/phi002.htm#017.md)<span
 id="iv.iii.iii-p57.10"></span>). For faith includes not merely the
 knowledge that God is, but also, nay chiefly, a perception of his will
 toward us. It concerns us to know not only what he is in himself, but
@@ -508,11 +508,11 @@ brought to faith by every word of God, we must still consider what it is
 that faith properly has respect to in the word. The declaration of God
 to Adam was, “Thou shalt surely die,” (<span
 id="iv.iii.iii-p58.1"></span>[Gen.
-2:17](../../../bib/kjv/gen002.htm#017)<span
+2:17](../../../bib/kjv/gen002.htm#017.md)<span
 id="iv.iii.iii-p58.1"></span>); and to Cain, “The voice of thy brother’s
 blood crieth unto me from the ground,” (<span
 id="iv.iii.iii-p58.2"></span>[Gen.
-4:10](../../../bib/kjv/gen004.htm#010)<span
+4:10](../../../bib/kjv/gen004.htm#010.md)<span
 id="iv.iii.iii-p58.2"></span>); but these, so far from being fitted to
 establish faith, tend only to shake it. At the same time, we deny not
 that it is the office of faith to assent to the truth of God whenever,
@@ -540,23 +540,23 @@ could we of ourselves embrace his mercy did not He expressly offer it.
 concealed thy loving-kindness and thy truth. Withhold not thy tender
 mercies from me, O Lord: let thy loving-kindness and thy truth
 continually preserve me,” (<span id="iv.iii.iii-p58.3"></span>[Ps.
-40:10](../../../bib/kjv/psa040.htm#010),
-[11](../../../bib/kjv/psa040.htm#011)<span
+40:10](../../../bib/kjv/psa040.htm#010.md),
+[11](../../../bib/kjv/psa040.htm#011.md)<span
 id="iv.iii.iii-p58.3"></span>). “Thy mercy, O Lord, is in the heavens;
 and thy faithfulness reacheth unto the clouds,” (<span
 id="iv.iii.iii-p58.4"></span>[Ps.
-36:5](../../../bib/kjv/psa036.htm#005)<span
+36:5](../../../bib/kjv/psa036.htm#005.md)<span
 id="iv.iii.iii-p58.4"></span>). “All the paths of the Lord are mercy and
 truth unto such as keep his covenant and his testimonies,” (<span
 id="iv.iii.iii-p58.5"></span>[Ps.
-25:10](../../../bib/kjv/psa025.htm#010)<span
+25:10](../../../bib/kjv/psa025.htm#010.md)<span
 id="iv.iii.iii-p58.5"></span>). “His merciful kindness is great toward
 us: and the truth of the Lord endureth for ever,” (<span
 id="iv.iii.iii-p58.6"></span>[Ps.
-117:2](../../../bib/kjv/psa117.htm#002)<span
+117:2](../../../bib/kjv/psa117.htm#002.md)<span
 id="iv.iii.iii-p58.6"></span>). “I will praise thy name for thy
 loving-kindness and thy truth,” (<span id="iv.iii.iii-p58.7"></span>[Ps.
-138:2](../../../bib/kjv/psa138.htm#002)<span
+138:2](../../../bib/kjv/psa138.htm#002.md)<span
 id="iv.iii.iii-p58.7"></span>). I need not quote what is said in the
 Prophets, to the effect that God is merciful and faithful in his
 promises. It were presumptuous in us to hold that God is propitious to
@@ -573,7 +573,7 @@ will; nor can the heart, fluctuating with perpetual doubt, rest secure
 in such knowledge. Hence, in order that the word of God may gain full
 credit, the mind must be enlightened, and the heart confirmed, from some
 other quarter. We shall now have a full definition of faith28  <span
-id="fr_277"></span>[278](#fn_277) if we say that it is a firm and sure
+id="fr_277"></span>[278](#fn_277.md) if we say that it is a firm and sure
 knowledge of the divine favor toward us, founded on the truth of a free
 promise in Christ, and revealed to our minds, and sealed on our hearts,
 by the Holy Spirit.
@@ -582,7 +582,7 @@ by the Holy Spirit.
 will be necessary to make some preliminary observations for the purpose
 of removing difficulties which might otherwise obstruct the reader. And
 first, I must refute the nugatory distinction of the Schoolmen as to
-formed and unformed faith.28  <span id="fr_278"></span>[279](#fn_278)
+formed and unformed faith.28  <span id="fr_278"></span>[279](#fn_278.md)
 For they imagine that persons who have no fear of God, and no sense of
 piety, may believe all that is necessary to be known for salvation; as
 if the Holy Spirit were not the witness of our adoption by enlightening
@@ -606,19 +606,19 @@ one of the first elements of faith is reconciliation implied in man’s
 drawing near to God. Did they duly ponder the saying of Paul, “With the
 heart man believeth unto righteousness,” (<span
 id="iv.iii.iii-p61.1"></span>[Rom.
-10:10](../../../bib/kjv/rom010.htm#010)<span
+10:10](../../../bib/kjv/rom010.htm#010.md)<span
 id="iv.iii.iii-p61.1"></span>), they would cease to dream of that frigid
 quality. There is one consideration which ought at once to put an end to
 the debate—viz. that assent itself (as I have already observed, and will
 afterwards more fully illustrate) is more a matter of the heart than the
 head, of the affection than the intellect. For this reason, it is termed
 “the obedience of faith,” (<span id="iv.iii.iii-p61.2"></span>[Rom.
-1:5](../../../bib/kjv/rom001.htm#005)<span
+1:5](../../../bib/kjv/rom001.htm#005.md)<span
 id="iv.iii.iii-p61.2"></span>), which the Lord prefers to all other
 service, and justly, since nothing is more precious to him than his
 truth, which, as John Baptist declares, is in a manner signed and sealed
 by believers (<span id="iv.iii.iii-p61.3"></span>[John
-3:33](../../../bib/kjv/joh003.htm#033)<span
+3:33](../../../bib/kjv/joh003.htm#033.md)<span
 id="iv.iii.iii-p61.3"></span>). As there can be no doubt on the matter,
 we in one word conclude, that they talk absurdly when they maintain that
 faith is formed by the addition of pious affection as an accessory to
@@ -637,18 +637,18 @@ therefore faith cannot possibly be disjoined from pious affection.
 divesting it of love, they are wont to insist on the words of Paul,
 “Though I have all faith, so that I could remove mountains, and have not
 charity, I am nothing,” (<span id="iv.iii.iii-p62.1"></span>[1 Cor.
-13:2](../../../bib/kjv/co1013.htm#002)<span
+13:2](../../../bib/kjv/co1013.htm#002.md)<span
 id="iv.iii.iii-p62.1"></span>). But they do not consider what the faith
 is of which the Apostle there speaks. Having, in the previous chapter,
 discoursed of the various gifts of the Spirit (<span
 id="iv.iii.iii-p62.2"></span>[1 Cor.
-12:10](../../../bib/kjv/co1012.htm#010)<span
+12:10](../../../bib/kjv/co1012.htm#010.md)<span
 id="iv.iii.iii-p62.2"></span>), including diversity of tongues,
 miracles, and prophecy, and exhorted the Corinthians to follow the
 better gifts, in other words, those from which the whole body of the
 Church would derive greater benefit, he adds, “Yet show I unto you a
 more excellent way,” (<span id="iv.iii.iii-p62.3"></span>[1 Cor.
-12:30](../../../bib/kjv/co1012.htm#030)<span
+12:30](../../../bib/kjv/co1012.htm#030.md)<span
 id="iv.iii.iii-p62.3"></span>). All other gifts, how excellent soever
 they may be in themselves, are of no value unless they are subservient
 to charity. They were given for the edification of the Church, and fail
@@ -683,7 +683,7 @@ from true faith will shortly be explained at length. Here, however, we
 may just indicate it in passing. Simon Magus is said to have believed,
 though he soon after gave proof of his unbelief (<span
 id="iv.iii.iii-p63.1"></span>[Acts
-8:13-18](../../../bib/kjv/act008.htm#013)<span
+8:13-18](../../../bib/kjv/act008.htm#013.md)<span
 id="iv.iii.iii-p63.1"></span>). In regard to the faith attributed to
 him, we do not understand with some, that he merely pretended a belief
 which had no existence in his heart: we rather think that, overcome by
@@ -708,7 +708,7 @@ superior to devils. The one class, indeed, is inferior to them, inasmuch
 as they are able without emotion to hear and understand things, the
 knowledge of which makes devils tremble (<span
 id="iv.iii.iii-p63.2"></span>[James
-2:19](../../../bib/kjv/jam002.htm#019)<span
+2:19](../../../bib/kjv/jam002.htm#019.md)<span
 id="iv.iii.iii-p63.2"></span>). The other class equals them in this,
 that whatever be the impression made upon them, its only result is
 terror and consternation.
@@ -716,7 +716,7 @@ terror and consternation.
 <span id="iv.iii.iii-p64"></span>11. I am aware it seems unaccountable
 to some how faith is attributed to the reprobate, seeing that it is
 declared by Paul to be one of the fruits of election;28  <span
-id="fr_279"></span>[280](#fn_279) and yet the difficulty is easily
+id="fr_279"></span>[280](#fn_279.md) and yet the difficulty is easily
 solved: for though none are enlightened into faith, and truly feel the
 efficacy of the Gospel, with the exception of those who are
 fore-ordained to salvation, yet experience shows that the reprobate are
@@ -756,7 +756,7 @@ reprobate never attain to the full result or to fruition. When he shows
 himself propitious to them, it is not as if he had truly rescued them
 from death, and taken them under his protection. He only gives them a
 manifestation of his present mercy.28  <span
-id="fr_280"></span>[281](#fn_280) In the elect alone he implants the
+id="fr_280"></span>[281](#fn_280.md) In the elect alone he implants the
 living root of faith, so that they persevere even to the end. Thus we
 dispose of the objection, that if God truly displays his grace, it must
 endure for ever. There is nothing inconsistent in this with the fact of
@@ -785,7 +785,7 @@ however feeble and slender the faith of the elect may be, yet as the
 Spirit of God is to them a sure earnest and seal of their adoption, the
 impression once engraven can never be effaced from their hearts, whereas
 the light which glimmers in the reprobate is afterwards quenched.28
- <span id="fr_281"></span>[282](#fn_281) Nor can it be said that the
+ <span id="fr_281"></span>[282](#fn_281.md) Nor can it be said that the
 Spirit therefore deceives, because he does not quicken the seed which
 lies in their hearts so as to make it ever remain incorruptible as in
 the elect. I go farther: seeing it is evident, from the doctrine of
@@ -802,7 +802,7 @@ members; and there can be no doubt that the following words of Paul
 apply to the elect only: “The love of God is shed abroad in our hearts,
 by the Holy Ghost which is given unto us,” (<span
 id="iv.iii.iii-p68.1"></span>[Rom.
-5:5](../../../bib/kjv/rom005.htm#005)<span
+5:5](../../../bib/kjv/rom005.htm#005.md)<span
 id="iv.iii.iii-p68.1"></span>); namely, the love which begets that
 confidence in prayer to which I have above adverted. On the other hand,
 we see that God is mysteriously offended with his children, though he
@@ -820,35 +820,35 @@ Such probably was the case of those whom John describes as believing on
 Christ; but of whom he says, “Jesus did not commit himself unto them,
 because he knew all men, and needed not that any should testify of man:
 for he knew what was in man,” (<span id="iv.iii.iii-p68.2"></span>[John
-2:24](../../../bib/kjv/joh002.htm#024),
-[25](../../../bib/kjv/joh002.htm#025)<span
+2:24](../../../bib/kjv/joh002.htm#024.md),
+[25](../../../bib/kjv/joh002.htm#025.md)<span
 id="iv.iii.iii-p68.2"></span>). Were it not true that many fall away
 from the common faith (I call it common, because there is a great
 resemblance between temporary and living, everduring faith), Christ
 would not have said to his disciples, “If ye continue in my word, then
 are ye my disciples indeed; and ye shall know the truth, and the truth
 shall make you free,” (<span id="iv.iii.iii-p68.3"></span>[John
-8:31](../../../bib/kjv/joh008.htm#031),
-[32](../../../bib/kjv/joh008.htm#032)<span
+8:31](../../../bib/kjv/joh008.htm#031.md),
+[32](../../../bib/kjv/joh008.htm#032.md)<span
 id="iv.iii.iii-p68.3"></span>). He is addressing those who had embraced
 his doctrine, and urging them to progress in the faith, lest by their
 sluggishness they extinguish the light which they have received.
 Accordingly, Paul claims faith as the peculiar privilege of the elect,
 intimating that many, from not being properly rooted, fall away (<span
 id="iv.iii.iii-p68.4"></span>[Tit.
-1:1](../../../bib/kjv/tit001.htm#001)<span
+1:1](../../../bib/kjv/tit001.htm#001.md)<span
 id="iv.iii.iii-p68.4"></span>). In the same way, in Matthew, our Savior
 says, “Every plant which my heavenly Father has not planted shall be
 rooted up,” (<span id="iv.iii.iii-p68.5"></span>[Mt.
-16:13](../../../bib/kjv/mat016.htm#013)<span
+16:13](../../../bib/kjv/mat016.htm#013.md)<span
 id="iv.iii.iii-p68.5"></span>). Some who are not ashamed to insult God
 and man are more grossly false. Against this class of men, who profane
 the faith by impious and lying pretence, James inveighs (<span
 id="iv.iii.iii-p68.6"></span>[James
-2:14](../../../bib/kjv/jam002.htm#014)<span
+2:14](../../../bib/kjv/jam002.htm#014.md)<span
 id="iv.iii.iii-p68.6"></span>). Nor would Paul require the faith of
 believers to be unfeigned (<span id="iv.iii.iii-p68.7"></span>[1 Tim.
-1:5](../../../bib/kjv/ti1001.htm#005)<span
+1:5](../../../bib/kjv/ti1001.htm#005.md)<span
 id="iv.iii.iii-p68.7"></span>), were there not many who presumptuously
 arrogate to themselves what they have not, deceiving others, and
 sometimes even themselves, with empty show. Hence he compares a good
@@ -866,26 +866,26 @@ and in like manner, when he says that profane babblings and oppositions
 of science, falsely so called, lead many away from the faith. Such
 persons he elsewhere calls reprobate as to the faith. On the other hand,
 when he enjoins Titus, “Rebuke them sharply, that they may be sound in
-the faith;”28  <span id="fr_282"></span>[283](#fn_282) by soundness he
+the faith;”28  <span id="fr_282"></span>[283](#fn_282.md) by soundness he
 means purity of doctrine, which is easily corrupted, and degenerates
 through the fickleness of men. And indeed, since in Christ, as possessed
 by faith, are “hid all the treasures of wisdom and knowledge,” (<span
 id="iv.iii.iii-p70.4"></span>[Col.
-1:2](../../../bib/kjv/col001.htm#002),
-[3](../../../bib/kjv/col001.htm#003)<span
+1:2](../../../bib/kjv/col001.htm#002.md),
+[3](../../../bib/kjv/col001.htm#003.md)<span
 id="iv.iii.iii-p70.4"></span>), the term *faith* is justly extended to
 the whole sum of heavenly doctrine, from which it cannot be separated.
 On the other hand, it is sometimes confined to a particular object, as
 when Matthew says of those who let down the paralytic through the roof,
 that Jesus saw their faith (<span id="iv.iii.iii-p70.5"></span>[Mt.
-9:2](../../../bib/kjv/mat009.htm#002)<span
+9:2](../../../bib/kjv/mat009.htm#002.md)<span
 id="iv.iii.iii-p70.5"></span>); and Jesus himself exclaims in regard to
 the centurion, “I have not found so great faith, no, not in Israel,”
 (<span id="iv.iii.iii-p70.6"></span>[Mt.
-8:10](../../../bib/kjv/mat008.htm#010)<span
+8:10](../../../bib/kjv/mat008.htm#010.md)<span
 id="iv.iii.iii-p70.6"></span>). Now, it is probable that the centurion
 was thinking only of the cure of his son, by whom his whole soul was
-engrossed;29  <span id="fr_283"></span>[284](#fn_283) but because he is
+engrossed;29  <span id="fr_283"></span>[284](#fn_283.md) but because he is
 satisfied with the simple answer and assurance of Christ, and does not
 request his bodily presence, this circumstance calls forth the eulogium
 on his faith. And we have lately shown how Paul uses the term faith for
@@ -894,7 +894,7 @@ regenerated by the Spirit of God, nor sincerely reverenced him. In
 another passage, he uses faith for the doctrine by which we are
 instructed in the faith. For when he says, that “that which is in part
 shall be done away,” (<span id="iv.iii.iii-p71.1"></span>[1 Cor.
-13:10](../../../bib/kjv/co1013.htm#010)<span
+13:10](../../../bib/kjv/co1013.htm#010.md)<span
 id="iv.iii.iii-p71.1"></span>), there can be no doubt that reference is
 made to the ministry of the Church, which is necessary in our present
 imperfect state; in these forms of expression the analogy is obvious.
@@ -924,21 +924,21 @@ capacity. Hence it is elegantly described by Paul as ability “to
 comprehend with all saints what is the breadth, and length, and depth,
 and height; and to know the love of Christ, which passeth knowledge,”
 (<span id="iv.iii.iii-p72.1"></span>[Eph.
-3:18](../../../bib/kjv/eph003.htm#018),
-[19](../../../bib/kjv/eph003.htm#019)<span
+3:18](../../../bib/kjv/eph003.htm#018.md),
+[19](../../../bib/kjv/eph003.htm#019.md)<span
 id="iv.iii.iii-p72.1"></span>). His object was to intimate, that what
 our mind embraces by faith is every way infinite, that this kind of
 knowledge far surpasses all understanding. But because the “mystery
 which has been hid from ages and from generations” is now “made manifest
 to the saints,” (<span id="iv.iii.iii-p72.2"></span>[Col.
-1:26](../../../bib/kjv/col001.htm#026)<span
+1:26](../../../bib/kjv/col001.htm#026.md)<span
 id="iv.iii.iii-p72.2"></span>), faith is, for good reason, occasionally
 termed in Scripture understanding (<span
 id="iv.iii.iii-p72.3"></span>[Col.
-2:2](../../../bib/kjv/col002.htm#002)<span
+2:2](../../../bib/kjv/col002.htm#002.md)<span
 id="iv.iii.iii-p72.3"></span>); and knowledge, as by John (<span
 id="iv.iii.iii-p72.4"></span>[1 John
-3:2](../../../bib/kjv/jo1003.htm#002)<span
+3:2](../../../bib/kjv/jo1003.htm#002.md)<span
 id="iv.iii.iii-p72.4"></span>), when he declares that believers know
 themselves to be the sons of God. And certainly they do know, but rather
 as confirmed by a belief of the divine veracity than taught by any
@@ -946,8 +946,8 @@ demonstration of reason. This is also indicated by Paul when he says,
 that “whilst we are at home in the body, we are absent from the Lord:
 (For we walk by faith, not by sight),” (<span
 id="iv.iii.iii-p72.5"></span>[2 Cor.
-5:6](../../../bib/kjv/co2005.htm#006),
-[7](../../../bib/kjv/co2005.htm#007)<span id="iv.iii.iii-p72.5"></span>)
+5:6](../../../bib/kjv/co2005.htm#006.md),
+[7](../../../bib/kjv/co2005.htm#007)<span id="iv.iii.iii-p72.5"></span>.md)
 thus showing, that what we understand by faith is yet distant from us
 and escapes our view. Hence we conclude that the knowledge of faith
 consists more of certainty than discernment.
@@ -961,22 +961,22 @@ matters ascertained and proved. So deeply rooted in our hearts is
 unbelief, so prone are we to it, that while all confess with the lips
 that God is faithful, no man ever believes it without an arduous
 struggle. Especially when brought to the test,29  <span
-id="fr_284"></span>[285](#fn_284) we by our wavering betray the vice
+id="fr_284"></span>[285](#fn_284.md) we by our wavering betray the vice
 which lurked within. Nor is it without cause that the Holy Spirit bears
 such distinguished testimony to the authority of God, in order that it
 may cure the disease of which I have spoken, and induce us to give full
 credit to the divine promises: “The words of the Lord” (says David,
 <span id="iv.iii.iii-p74.1"></span>[Ps.
-12:6](../../../bib/kjv/psa012.htm#006)<span
+12:6](../../../bib/kjv/psa012.htm#006.md)<span
 id="iv.iii.iii-p74.1"></span>) “are pure words, as silver tried in a
 furnace of earth purified seven times:” “The word of the Lord is tried:
 he is a buckler to all those that trust in him,” (<span
 id="iv.iii.iii-p74.2"></span>[Ps.
-18:30](../../../bib/kjv/psa018.htm#030)<span
+18:30](../../../bib/kjv/psa018.htm#030.md)<span
 id="iv.iii.iii-p74.2"></span>). And Solomon declares the same thing
 almost in the same words, “Every word of God is pure,” (<span
 id="iv.iii.iii-p74.3"></span>[Prov.
-30:5](../../../bib/kjv/pro030.htm#005)<span
+30:5](../../../bib/kjv/pro030.htm#005.md)<span
 id="iv.iii.iii-p74.3"></span>). But further quotation is superfluous, as
 the 119th Psalm is almost wholly occupied with this subject. Certainly,
 whenever God thus recommends his word, he indirectly rebukes our
@@ -999,7 +999,7 @@ perceiving its sweetness, and experiencing it in ourselves. Hence from
 faith the Apostle deduces confidence, and from confidence boldness. His
 words are, “In whom (Christ) we have boldness and access with confidence
 by the faith of him,” (<span id="iv.iii.iii-p74.4"></span>[Eph.
-3:12](../../../bib/kjv/eph003.htm#012)<span
+3:12](../../../bib/kjv/eph003.htm#012.md)<span
 id="iv.iii.iii-p74.4"></span>) thus undoubtedly showing that our faith
 is not true unless it enables us to appear calmly in the presence of
 God. Such boldness springs only from confidence in the divine favor and
@@ -1012,7 +1012,7 @@ Lord offers are only true out of us, and not at all in us: we should
 rather make them ours by inwardly embracing them. In this way only is
 engendered that confidence which he elsewhere terms peace (<span
 id="iv.iii.iii-p75.1"></span>[Rom.
-5:1](../../../bib/kjv/rom005.htm#001)<span
+5:1](../../../bib/kjv/rom005.htm#001.md)<span
 id="iv.iii.iii-p75.1"></span>); though perhaps he rather means to make
 peace follow from it. This is the security which quiets and calms the
 conscience in the view of the judgment of God, and without which it is
@@ -1027,7 +1027,7 @@ promises of the divine favor, with undoubting confidence anticipates
 salvation; as the Apostle shows in these words, “We are made partakers
 of Christ, if we hold the beginning of our confidence steadfast unto the
 end,” (<span id="iv.iii.iii-p75.2"></span>[Heb.
-3:14](../../../bib/kjv/heb003.htm#014)<span
+3:14](../../../bib/kjv/heb003.htm#014.md)<span
 id="iv.iii.iii-p75.2"></span>). He thus holds, that none hope well in
 the Lord save those who confidently glory in being the heirs of the
 heavenly kingdom. No man, I say, is a believer but he who, trusting to
@@ -1038,12 +1038,12 @@ nor powers, nor things present, nor things to come, nor height, nor
 depth, nor any other creature, shall be able to separate us from the
 love of God, which is in Christ Jesus our Lord,” (<span
 id="iv.iii.iii-p75.3"></span>[Rom.
-8:38](../../../bib/kjv/rom008.htm#038)<span
+8:38](../../../bib/kjv/rom008.htm#038.md)<span
 id="iv.iii.iii-p75.3"></span>). In like manner, the same Apostle does
 not consider that the eyes of our understanding are enlightened unless
 we know what is the hope of the eternal inheritance to which we are
 called (<span id="iv.iii.iii-p75.4"></span>[Eph.
-1:18](../../../bib/kjv/eph001.htm#018)<span
+1:18](../../../bib/kjv/eph001.htm#018.md)<span
 id="iv.iii.iii-p75.4"></span>). Thus he uniformly intimates throughout
 his writings, that the goodness of God is not properly comprehended when
 security does not follow as its fruit.
@@ -1052,7 +1052,7 @@ security does not follow as its fruit.
 differs widely from the experience of believers, who, in recognizing the
 grace of God toward them, not only feel disquietude (this often
 happens), but sometimes tremble, overcome with terror,29  <span
-id="fr_285"></span>[286](#fn_285) so violent are the temptations which
+id="fr_285"></span>[286](#fn_285.md) so violent are the temptations which
 assail their minds. This scarcely seems consistent with certainty of
 faith. It is necessary to solve this difficulty, in order to maintain
 the doctrine above laid down. When we say that faith must be certain and
@@ -1071,30 +1071,30 @@ select a few. When he rebukes the turbulent movements of his soul, what
 else is it but a censure of his unbelief? “Why art thou cast down, my
 soul? and why art thou disquieted in me? hope thou in God,” (<span
 id="iv.iii.iii-p77.1"></span>[Psalm
-42:6](../../../bib/kjv/psa042.htm#006)<span
+42:6](../../../bib/kjv/psa042.htm#006.md)<span
 id="iv.iii.iii-p77.1"></span>). His alarm was undoubtedly a manifest
 sign of distrust, as if he thought that the Lord had forsaken him. In
 another passage we have a fuller confession: “I said in my haste, I am
 cut off from before thine eyes,” (<span
 id="iv.iii.iii-p77.2"></span>[Psalm
-31:22](../../../bib/kjv/psa031.htm#022)<span
+31:22](../../../bib/kjv/psa031.htm#022.md)<span
 id="iv.iii.iii-p77.2"></span>). In another passage, in anxious and
 wretched perplexity, he debates with himself, nay, raises a question as
 to the nature of God: “Has God forgotten to be gracious? has he in anger
 shut up his tender mercies?” (<span id="iv.iii.iii-p77.3"></span>[Psalm
-77:9](../../../bib/kjv/psa077.htm#009)<span
+77:9](../../../bib/kjv/psa077.htm#009.md)<span
 id="iv.iii.iii-p77.3"></span>). What follows is still harsher: “I said
 this is my infirmity; but I will remember the years of the right hand of
-the Most High.”29  <span id="fr_286"></span>[287](#fn_286) As if
+the Most High.”29  <span id="fr_286"></span>[287](#fn_286.md) As if
 desperate, he adjudges himself to destruction.29  <span
-id="fr_287"></span>[288](#fn_287) He not only confesses that he is
+id="fr_287"></span>[288](#fn_287.md) He not only confesses that he is
 agitated by doubt, but as if he had fallen in the contest, leaves
 himself nothing in reserve,—God having deserted him, and made the hand
 which was wont to help him the instrument of his destruction. Wherefore,
 after having been tossed among tumultuous waves, it is not without
 reason he exhorts his soul to return to her quiet rest (<span
 id="iv.iii.iii-p79.1"></span>[Psalm
-116:7](../../../bib/kjv/psa116.htm#007)<span
+116:7](../../../bib/kjv/psa116.htm#007.md)<span
 id="iv.iii.iii-p79.1"></span>). And yet (what is strange) amid those
 commotions, faith sustains the believer’s heart, and truly acts the part
 of the palm tree, which supports any weights laid upon it, and rises
@@ -1105,7 +1105,7 @@ measure victorious. This we may infer from the following passage, and
 others similar to it: “Wait on the Lord: be of good courage, and he
 shall strengthen thine heart: wait, I say, on the Lord,” (<span
 id="iv.iii.iii-p79.2"></span>[Psalm
-27:14](../../../bib/kjv/psa027.htm#014)<span
+27:14](../../../bib/kjv/psa027.htm#014.md)<span
 id="iv.iii.iii-p79.2"></span>). He accuses himself of timidity, and
 repeating the same thing twice, confesses that he is ever and anon
 exposed to agitation. Still he is not only dissatisfied with himself for
@@ -1115,7 +1115,7 @@ great difference between them. Isaiah is sent to relieve the anxiety of
 an impious and hypocritical king, and addresses him in these terms:
 “Take heed, and be quiet; fear not,” &c. (<span
 id="iv.iii.iii-p79.3"></span>[Isaiah
-7:4](../../../bib/kjv/isa007.htm#004)<span
+7:4](../../../bib/kjv/isa007.htm#004.md)<span
 id="iv.iii.iii-p79.3"></span>). How did Ahab act? As has already been
 said, his heart was shaken as a tree is shaken by the wind: though he
 heard the promise, he ceased not to tremble. This, therefore, is the
@@ -1126,14 +1126,14 @@ with the burden of temptation, constantly rise up, though not without
 toil and difficulty; hence, feeling conscious of their own weakness,
 they pray with the Prophet, “Take not the word of truth utterly out of
 my mouths” (<span id="iv.iii.iii-p79.4"></span>[Psalm
-119:43](../../../bib/kjv/psa119.htm#043)<span
+119:43](../../../bib/kjv/psa119.htm#043.md)<span
 id="iv.iii.iii-p79.4"></span>). By these words, we are taught that they
 at times become dumb, as if their faith were overthrown, and yet that
 they do not withdraw or turn their backs, but persevere in the contest,
 and by prayer stimulate their sluggishness, so as not to fall into
 stupor by giving way to it. (See Calv. in <span
 id="iv.iii.iii-p79.5"></span>[Psalm
-88:16](../../../bib/kjv/psa088.htm#016)<span
+88:16](../../../bib/kjv/psa088.htm#016.md)<span
 id="iv.iii.iii-p79.5"></span>).
 
 <span id="iv.iii.iii-p80"></span>18. To make this intelligible, we must
@@ -1184,8 +1184,8 @@ which beams upon them and displays the divine mercy as to feel secure.
 both in different passages. When he says, “We know in part, and we
 prophesy in part;” and “Now we see through a glass darkly,” (<span
 id="iv.iii.iii-p82.1"></span>[1 Cor.
-13:9](../../../bib/kjv/co1013.htm#009),
-[12](../../../bib/kjv/co1013.htm#012)<span
+13:9](../../../bib/kjv/co1013.htm#009.md),
+[12](../../../bib/kjv/co1013.htm#012.md)<span
 id="iv.iii.iii-p82.1"></span>), he intimates how very minute a portion
 of divine wisdom is given to us in the present life. For although those
 expressions do not simply indicate that faith is imperfect so long as we
@@ -1200,7 +1200,7 @@ certain, and by no means fallacious, he elsewhere shows, when he affirms
 that “We all, with open face beholding as in a glass the glory of the
 Lord, are changed into the same image, from glory to glory, even as by
 the Spirit of the Lord,” (<span id="iv.iii.iii-p82.2"></span>[2 Cor.
-3:18](../../../bib/kjv/co2003.htm#018)<span
+3:18](../../../bib/kjv/co2003.htm#018.md)<span
 id="iv.iii.iii-p82.2"></span>). In such degrees of ignorance much doubt
 and trembling is necessarily implied, especially seeing that our heart
 is by its own natural bias prone to unbelief. To this we must add the
@@ -1234,7 +1234,7 @@ him did they not believe that he is ready to assist them. Thus the
 disciples, while reprimanded by their Master for the weakness of their
 faith in crying out that they were perishing, still implored his aid
 (<span id="iv.iii.iii-p83.1"></span>[Mt.
-8:25](../../../bib/kjv/mat008.htm#025)<span
+8:25](../../../bib/kjv/mat008.htm#025.md)<span
 id="iv.iii.iii-p83.1"></span>). And he, in rebuking them for their want
 of faith, does not disown them or class them with unbelievers, but urges
 them to shake off the vice. Therefore, as we have already said, we again
@@ -1252,7 +1252,7 @@ hearts of believers, but only assails them from without; does not wound
 them mortally with its darts, but annoys them, or, at the utmost, gives
 them a wound which can be healed. Faith, as Paul (declares (<span
 id="iv.iii.iii-p83.2"></span>[Eph.
-6:16](../../../bib/kjv/eph006.htm#016)<span
+6:16](../../../bib/kjv/eph006.htm#016.md)<span
 id="iv.iii.iii-p83.2"></span>), is our shield, which receiving these
 darts, either wards them off entirely, or at least breaks their force,
 and prevents them from reaching the vitals. Hence when faith is shaken,
@@ -1263,7 +1263,7 @@ blow. The pious mind will always rise, and be able to say with David,
 “Yea, though I walk through the valley of the shadow of death, I will
 fear no evil: for thou art with me,” (<span
 id="iv.iii.iii-p83.3"></span>[Psalm
-23:4](../../../bib/kjv/psa023.htm#004)<span
+23:4](../../../bib/kjv/psa023.htm#004.md)<span
 id="iv.iii.iii-p83.3"></span>). Doubtless it is a terrific thing to walk
 in the darkness of death, and it is impossible for believers, however
 great their strength may be, not to shudder at it; but since the
@@ -1276,7 +1276,7 @@ contest so as to be ready, after a short repose, to descend again into
 the arena, but the saying of John, in his Epistle, is fulfilled, “This
 is the victory that overcometh the world, even our faith,” (<span
 id="iv.iii.iii-p83.4"></span>[1 John
-5:4](../../../bib/kjv/jo1005.htm#004)<span
+5:4](../../../bib/kjv/jo1005.htm#004.md)<span
 id="iv.iii.iii-p83.4"></span>). It is not said that it will be
 victorious in a single fight, or a few, or some one assault, but that it
 will be victorious over the whole world, though it should be a thousand
@@ -1298,13 +1298,13 @@ torpor which suppresses faith, but does not strengthen it. Nor when he
 takes occasion from the case of the Israelites to exhort, “Let him that
 thinketh he standeth take heed lest he fall,” (<span
 id="iv.iii.iii-p84.1"></span>[1 Cor.
-10:12](../../../bib/kjv/co1010.htm#012)<span
+10:12](../../../bib/kjv/co1010.htm#012.md)<span
 id="iv.iii.iii-p84.1"></span>), he does not bid us waver, as if we had
 no security for our steadfastness: he only removes arrogance and rash
 confidence in our strength, telling the Gentiles not to presume because
 the Jews had been cast off, and they had been admitted to their place
 (<span id="iv.iii.iii-p84.2"></span>[Rom.
-11:20](../../../bib/kjv/rom011.htm#020)<span
+11:20](../../../bib/kjv/rom011.htm#020.md)<span
 id="iv.iii.iii-p84.2"></span>). In that passage, indeed, he is not
 addressing believers only, but also comprehends hypocrites, who gloried
 merely in external appearance; nor is he addressing individuals, but
@@ -1332,7 +1332,7 @@ anxiety produced by a consciousness of our calamitous condition. In this
 sense are we to understand the words of the Psalmist: “I will come into
 thy house in the multitude of thy mercy: and in thy fear will I worship
 toward thy holy temples” (<span id="iv.iii.iii-p85.1"></span>[Ps.
-5:7](../../../bib/kjv/psa005.htm#007)<span
+5:7](../../../bib/kjv/psa005.htm#007.md)<span
 id="iv.iii.iii-p85.1"></span>). Here he appropriately unites confident
 faith leaning on the divine mercy with religious fear, which of
 necessity we must feel whenever coming into the presence of the divine
@@ -1340,7 +1340,7 @@ majesty we are made aware by its splendor of the extent of our own
 impurity. Truly also does Solomon declare: “Happy is the man that
 feareth alway; but he that hardeneth his heart falleth into mischief,”
 (<span id="iv.iii.iii-p85.2"></span>[Prov.
-28:14](../../../bib/kjv/pro028.htm#014)<span
+28:14](../../../bib/kjv/pro028.htm#014.md)<span
 id="iv.iii.iii-p85.2"></span>). The fear he speaks of is that which
 renders us more cautious, not that which produces despondency, the fear
 which is felt when the mind confounded in itself resumes its equanimity
@@ -1360,7 +1360,7 @@ that it is God who worketh in us to will and to do of his good pleasure.
 In the same sense must we understand the words of the Prophet, “The
 children of Israel” “shall fear the Lord and his goodness in the latter
 days,” (<span id="iv.iii.iii-p85.3"></span>[Hos.
-3:5](../../../bib/kjv/hos003.htm#005)<span
+3:5](../../../bib/kjv/hos003.htm#005.md)<span
 id="iv.iii.iii-p85.3"></span>). For not only does piety beget reverence
 to God, but the sweet attractiveness of grace inspires a man, though
 desponding of himself, at once with fear and admiration, making him feel
@@ -1381,7 +1381,7 @@ contrast,—the one falling as the other rises, and rising as the other
 falls. Thus Satan, finding the devices by which he was wont to destroy
 the certainty of faith too manifest to be now of any avail, is
 endeavoring, by indirect methods, to undermine it.29  <span
-id="fr_288"></span>[289](#fn_288) But what kind of confidence is that
+id="fr_288"></span>[289](#fn_288.md) But what kind of confidence is that
 which is ever and anon supplanted by despair? They tell you, if you look
 to Christ salvation is certain; if you return to yourself damnation is
 certain. Therefore, your mind must be alternately ruled by diffidence
@@ -1400,7 +1400,7 @@ nor us from him; but we must, with both hands, keep firm hold of that
 alliance by which he has riveted us to himself. This the Apostle teaches
 us: “The body is dead because of sin; but the spirit is life because of
 righteousness,” (<span id="iv.iii.iii-p87.1"></span>[Rom.
-8:10](../../../bib/kjv/rom008.htm#010)<span
+8:10](../../../bib/kjv/rom008.htm#010.md)<span
 id="iv.iii.iii-p87.1"></span>). According to the frivolous trifling of
 these objectors, he ought to have said, Christ indeed has life in
 himself, but you, as you are sinners, remain liable to death and
@@ -1428,11 +1428,11 @@ lusts, ruled by passion, filled with delusions, ever prone to evil,
 inclined to every vice; lastly, full of ignominy and confusion. If all
 its righteousnesses, when examined by the light of truth, are but as
 filthy rags (<span id="iv.iii.iii-p88.1"></span>[Is.
-64:6](../../../bib/kjv/isa064.htm#006)<span
+64:6](../../../bib/kjv/isa064.htm#006.md)<span
 id="iv.iii.iii-p88.1"></span>), what must we suppose its unrighteousness
 to be? ‘If, therefore, the light that is in thee be darkness, how great
 is that darkness?’ (<span id="iv.iii.iii-p88.2"></span>[Mt.
-6:23](../../../bib/kjv/mat006.htm#023)<span
+6:23](../../../bib/kjv/mat006.htm#023.md)<span
 id="iv.iii.iii-p88.2"></span>). What then? man doubtless has been made
 subject to vanity—man here been reduced to nothing—man is nothing. And
 yet how is he whom God exalts utterly nothing? How is he nothing to whom
@@ -1449,7 +1449,7 @@ they are because thou callest them. For though they are not as to
 themselves, yet they are with thee according to the declaration of Paul:
 ‘Not of works, but of him that calleth,’ ” (<span
 id="iv.iii.iii-p88.3"></span>[Rom.
-9:11](../../../bib/kjv/rom009.htm#011)<span
+9:11](../../../bib/kjv/rom009.htm#011.md)<span
 id="iv.iii.iii-p88.3"></span>). He then goes on to say that the
 connection is wonderful in both points of view. Certainly things which
 are connected together do not mutually destroy each other. This he
@@ -1475,7 +1475,7 @@ and a faithful servant. The obedience paid to God as a Father he by his
 prophet terms *honor*; the service performed to him as a master he terms
 *fear*. “A son honoureth his father, and a servant his master. If then I
 be a father, where is mine honor? and if I be a master, where is my
-fear?”29  <span id="fr_289"></span>[290](#fn_289) But while he thus
+fear?”29  <span id="fr_289"></span>[290](#fn_289.md) But while he thus
 distinguishes between the two, it is obvious that he at the same time
 confounds them. The fear of the Lord, therefore, may be defined
 reverence mingled with honor and fear. It is not strange that the same
@@ -1492,7 +1492,7 @@ escape his vengeance.
 in the observation of John: “There is no fear in love; but perfect love
 casteth out fear: because fear has torment,” (<span
 id="iv.iii.iii-p91.1"></span>[1 John
-4:18](../../../bib/kjv/jo1004.htm#018)<span
+4:18](../../../bib/kjv/jo1004.htm#018.md)<span
 id="iv.iii.iii-p91.1"></span>). For he is speaking of the fear of
 unbelief, between which and the fear of believers there is a wide
 difference. The wicked do not fear God from any unwillingness to offend
@@ -1502,14 +1502,14 @@ anger. And they thus dread his anger, because they think it is impending
 over them, and they every moment expect it to fall upon their heads. But
 believers, as has been said, dread the offense even more than the
 punishment. They are not alarmed by the fear of punishment, as if it
-were impending over them,29  <span id="fr_290"></span>[291](#fn_290) but
+were impending over them,29  <span id="fr_290"></span>[291](#fn_290.md) but
 are rendered the more cautious of doing anything to provoke it. Thus the
 Apostle addressing believers says, “Let no man deceive you with vain
 words; for because of these things, the wrath of God cometh upon the
 children of disobedience,” (<span id="iv.iii.iii-p92.1"></span>[Eph.
-5:6](../../../bib/kjv/eph005.htm#006)<span
+5:6](../../../bib/kjv/eph005.htm#006.md)<span
 id="iv.iii.iii-p92.1"></span>; <span id="iv.iii.iii-p92.2"></span>[Col.
-3:6](../../../bib/kjv/col003.htm#006)<span
+3:6](../../../bib/kjv/col003.htm#006.md)<span
 id="iv.iii.iii-p92.2"></span>). He does not threaten that wrath will
 descend upon them; but he admonishes them, while they think how the
 wrath of God is prepared for the wicked, on account of the crimes which
@@ -1531,7 +1531,7 @@ thing can be wanting to us, we have ample security for our salvation
 when assured of his love. “Turn us again, O God, and cause thy face to
 shine,” says the Prophet, “and we shall be saved,” (<span
 id="iv.iii.iii-p93.1"></span>[Ps.
-80:3](../../../bib/kjv/psa080.htm#003)<span
+80:3](../../../bib/kjv/psa080.htm#003.md)<span
 id="iv.iii.iii-p93.1"></span>). Hence the Scriptures make the sum of our
 salvation to consist in the removal of all enmity, and our admission
 into favor; thus intimating, that when God is reconciled all danger is
@@ -1539,7 +1539,7 @@ past, and every thing good will befall us. Wherefore, faith apprehending
 the love of God has the promise both of the present and the future life,
 and ample security for all blessings (<span
 id="iv.iii.iii-p93.2"></span>[Eph.
-2:14](../../../bib/kjv/eph002.htm#014)<span
+2:14](../../../bib/kjv/eph002.htm#014.md)<span
 id="iv.iii.iii-p93.2"></span>). The nature of this must be ascertained
 from the word. Faith does not promise us length of days, riches and
 honors (the Lord not having been pleased that any of these should be
@@ -1556,7 +1556,7 @@ only when they treat of our eternal salvation, but of any blessing
 whatever. For which reason David sings, that the loving-kindness of God
 experienced by the pious heart is sweeter and more to be desired than
 life itself (<span id="iv.iii.iii-p93.3"></span>[Ps.
-63:3](../../../bib/kjv/psa063.htm#003)<span
+63:3](../../../bib/kjv/psa063.htm#003.md)<span
 id="iv.iii.iii-p93.3"></span>). In short, if we have every earthly
 comfort to a wish, but are uncertain whether we have the love or the
 hatred of God, our felicity will be cursed, and therefore miserable. But
@@ -1569,13 +1569,13 @@ prosperity. In like manner, to all the terrors which assail us, David
 opposes merely the favor of God,—“Yea, though I walk through the valley
 of the shadow of death, I will fear no evil: for thou art with me,”
 (<span id="iv.iii.iii-p93.4"></span>[Ps.
-23:4](../../../bib/kjv/psa023.htm#004)<span
+23:4](../../../bib/kjv/psa023.htm#004.md)<span
 id="iv.iii.iii-p93.4"></span>). And we feel that our minds always waver
 until, contented with the grace of God, we in it seek peace, and feel
 thoroughly persuaded of what is said in the psalm, “Blessed is the
 nation whose God is the Lord, and the people whom he has chosen for his
 own inheritance,” (<span id="iv.iii.iii-p93.5"></span>[Ps.
-33:12](../../../bib/kjv/psa033.htm#012)<span
+33:12](../../../bib/kjv/psa033.htm#012.md)<span
 id="iv.iii.iii-p93.5"></span>).
 
 <span id="iv.iii.iii-p94"></span>29. Free promise we make the foundation
@@ -1593,7 +1593,7 @@ promise of salvation, which is offered by the Lord spontaneously and
 freely, from a regard to our misery rather than our worth. Hence the
 Apostle bears this testimony to the Gospel, that it is the word of faith
 (<span id="iv.iii.iii-p94.1"></span>[Rom.
-10:8](../../../bib/kjv/rom010.htm#008)<span
+10:8](../../../bib/kjv/rom010.htm#008.md)<span
 id="iv.iii.iii-p94.1"></span>). This he concedes not either to the
 precepts or the promises of the Law, since there is nothing which can
 establish our faith, but that free embassy by which God reconciles the
@@ -1603,12 +1603,12 @@ committed to him for “obedience to the faith;” that “it is the power of
 God unto salvation to every one that believeth;” that “therein is the
 righteousness of God revealed from faith to faith,” (<span
 id="iv.iii.iii-p94.2"></span>[Rom.
-1:5](../../../bib/kjv/rom001.htm#005),
-[16](../../../bib/kjv/rom001.htm#016),
-[17](../../../bib/kjv/rom001.htm#017)<span
+1:5](../../../bib/kjv/rom001.htm#005.md),
+[16](../../../bib/kjv/rom001.htm#016.md),
+[17](../../../bib/kjv/rom001.htm#017.md)<span
 id="iv.iii.iii-p94.2"></span>). No wonder: for seeing that the Gospel is
 “the ministry of reconciliation,” (<span id="iv.iii.iii-p94.3"></span>[2
-Cor. 5:18](../../../bib/kjv/co2005.htm#018)<span
+Cor. 5:18](../../../bib/kjv/co2005.htm#018.md)<span
 id="iv.iii.iii-p94.3"></span>), there is no other sufficient evidence of
 the divine favor, such as faith requires to know. Therefore, when we
 say, that faith must rest on a free promise, we deny not that believers
@@ -1619,7 +1619,7 @@ the object to which they properly look, since he is exhibited to their
 contemplation as “good and ready to forgive,” “plenteous in mercy,”
 “slow to anger,” “good to all,” and shedding “his tender mercies over
 all his works”. <span id="iv.iii.iii-p94.4"></span>[Ps.
-86:5](../../../bib/kjv/psa086.htm#005)<span
+86:5](../../../bib/kjv/psa086.htm#005.md)<span
 id="iv.iii.iii-p94.4"></span>; 103:8; 145:8, 9).
 
 <span id="iv.iii.iii-p95"></span>30. I stay not to consider the rabid
@@ -1630,7 +1630,7 @@ they express it) is the truth of God, whether he threatens or gives hope
 of his favor. Accordingly, the Apostle attributes it to faith in Noah,
 that he feared the destruction of the world, when as yet it was not seen
 (<span id="iv.iii.iii-p95.1"></span>[Heb.
-11:17](../../../bib/kjv/heb011.htm#017)<span
+11:17](../../../bib/kjv/heb011.htm#017.md)<span
 id="iv.iii.iii-p95.1"></span>). If fear of impending punishment was a
 work of faith, threatening ought not to be excluded in defining it. This
 is indeed true; but we are unjustly and calumniously charged with
@@ -1653,7 +1653,7 @@ short, the malicious have nothing to carp at in this doctrine, unless
 they are to bring the same censure against the Apostle Paul, who
 specially designates the Gospel as “the word of faith,” (<span
 id="iv.iii.iii-p95.2"></span>[Rom.
-10:8](../../../bib/kjv/rom010.htm#008)<span
+10:8](../../../bib/kjv/rom010.htm#008.md)<span
 id="iv.iii.iii-p95.2"></span>).
 
 <span id="iv.iii.iii-p96"></span>31. Hence again we infer, as has
@@ -1661,17 +1661,17 @@ already been explained, that faith has no less need of the word than the
 fruit of a tree has of a living root; because, as David testifies, none
 can hope in God but those who know his name (<span
 id="iv.iii.iii-p96.1"></span>[Ps.
-9:10](../../../bib/kjv/psa009.htm#010)<span
+9:10](../../../bib/kjv/psa009.htm#010.md)<span
 id="iv.iii.iii-p96.1"></span>). This knowledge, however, is not left to
 every man’s imagination, but depends on the testimony which God himself
 gives to his goodness. This the same Psalmist confirms in another
 passage, “Thy salvation according to thy word,” (<span
 id="iv.iii.iii-p96.2"></span>[Ps.
-119:41](../../../bib/kjv/psa119.htm#041)<span
+119:41](../../../bib/kjv/psa119.htm#041.md)<span
 id="iv.iii.iii-p96.2"></span>). Again, “Save me,” “I hoped in thy word,”
 (<span id="iv.iii.iii-p96.3"></span>[Ps.
-119:146](../../../bib/kjv/psa119.htm#146),
-[147](../../../bib/kjv/psa119.htm#147)<span
+119:146](../../../bib/kjv/psa119.htm#146.md),
+[147](../../../bib/kjv/psa119.htm#147.md)<span
 id="iv.iii.iii-p96.3"></span>). Here we must attend to the relation of
 faith to the word, and to salvation as its consequence. Still, however,
 we exclude not the power of God. If faith cannot support itself in the
@@ -1680,12 +1680,12 @@ seems to relate a trivial or very ordinary circumstance with regard to
 Abraham, when he says, that he believed that God, who had given him the
 promise of a blessed seed, was able also to perform it (<span
 id="iv.iii.iii-p96.4"></span>[Rom.
-4:21](../../../bib/kjv/rom004.htm#021)<span
+4:21](../../../bib/kjv/rom004.htm#021.md)<span
 id="iv.iii.iii-p96.4"></span>). And in like manner, in another passage,
 he says of himself, “I know whom I have believed, and am persuaded that
 he is able to keep that which I have committed unto him against that
 day,” (<span id="iv.iii.iii-p96.5"></span>[2 Tim.
-1:12](../../../bib/kjv/ti2001.htm#012)<span
+1:12](../../../bib/kjv/ti2001.htm#012.md)<span
 id="iv.iii.iii-p96.5"></span>). But let any one consider with himself,
 how he is ever and anon assailed with doubts in regard to the power of
 God, and he will readily perceive, that those who duly magnify it have
@@ -1694,7 +1694,7 @@ whatsoever he pleases; but while every temptation, even the most
 trivial, fills us with fear and dread, it is plain that we derogate from
 the power of God, by attaching less importance to his promises than to
 Satan’s threatenings against them.29  <span
-id="fr_291"></span>[292](#fn_291)
+id="fr_291"></span>[292](#fn_291.md)
 
 <span id="iv.iii.iii-p98"></span>This is the reason why Isaiah, when he
 would impress on the hearts of the people the certainty of faith,
@@ -1718,11 +1718,11 @@ time to come; nay, that when God seems to have forsaken us, we ought to
 extend our view farther, and take courage from his former favors, as is
 said in another psalm, “I remember the days of old: I meditate on all
 thy works,” (<span id="iv.iii.iii-p98.1"></span>[Ps.
-143:5](../../../bib/kjv/psa143.htm#005)<span
+143:5](../../../bib/kjv/psa143.htm#005.md)<span
 id="iv.iii.iii-p98.1"></span>). Again “I will remember the works of the
 Lord; surely I will remember thy wonders of old” (<span
 id="iv.iii.iii-p98.2"></span>[Ps.
-77:11](../../../bib/kjv/psa077.htm#011)<span
+77:11](../../../bib/kjv/psa077.htm#011.md)<span
 id="iv.iii.iii-p98.2"></span>). But because all our conceptions of the
 power and works of God are evanescent without the word, we are not rash
 in maintaining, that there is no faith until God present us with clear
@@ -1766,7 +1766,7 @@ the secret restraint of Providence kept them obedient to the word.
 ground for comprehending all the promises in Christ, since the Apostle
 comprehends the whole Gospel under the knowledge of Christ, and declares
 that all the promises of God are in him yea, and amen.29  <span
-id="fr_292"></span>[293](#fn_292) The reason for this is obvious. Every
+id="fr_292"></span>[293](#fn_292.md) The reason for this is obvious. Every
 promise which God makes is evidence of his good will. This is invariably
 true, and is not inconsistent with the fact, that the large benefits
 which the divine liberality is constantly bestowing on the wicked are
@@ -1788,40 +1788,40 @@ controversy, God loves no man out of Christ. He is the beloved Son, in
 whom the love of the Father dwells, and from whom it afterwards extends
 to us. Thus Paul says “In whom he has made us accepted in the Beloved,”
 (<span id="iv.iii.iii-p101.4"></span>[Eph.
-1:6](../../../bib/kjv/eph001.htm#006)<span
+1:6](../../../bib/kjv/eph001.htm#006.md)<span
 id="iv.iii.iii-p101.4"></span>). It is by his intervention, therefore,
 that love is diffused so as to reach us. Accordingly, in another
 passage, the Apostle calls Christ “our peace,” (<span
 id="iv.iii.iii-p101.5"></span>[Eph.
-2:14](../../../bib/kjv/eph002.htm#014)<span
+2:14](../../../bib/kjv/eph002.htm#014.md)<span
 id="iv.iii.iii-p101.5"></span>), and also represents him as the bond by
 which the Father is united to us in paternal affection (<span
 id="iv.iii.iii-p101.6"></span>[Rom.
-8:3](../../../bib/kjv/rom008.htm#003)<span
+8:3](../../../bib/kjv/rom008.htm#003.md)<span
 id="iv.iii.iii-p101.6"></span>). It follows, that whenever any promise
 is made to us, we must turn our eyes toward Christ. Hence, with good
 reasons Paul declares that in him all the promises of God are confirmed
 and completed (<span id="iv.iii.iii-p101.7"></span>[Rom.
-15:8](../../../bib/kjv/rom015.htm#008)<span
+15:8](../../../bib/kjv/rom015.htm#008.md)<span
 id="iv.iii.iii-p101.7"></span>). Some examples are brought forward as
 repugnant to this view. When Naaman the Syrian made inquiry at the
 prophet as to the true mode of worshipping God, we cannot (it is said)
 suppose that he was informed of the Mediator, and yet he is commended
 for his piety (<span id="iv.iii.iii-p101.8"></span>[2 Kings
-5:17-19](../../../bib/kjv/kg2005.htm#017)<span
+5:17-19](../../../bib/kjv/kg2005.htm#017.md)<span
 id="iv.iii.iii-p101.8"></span>). Nor could Cornelius, a Roman heathen,
 be acquainted with what was not known to all the Jews, and at best known
 obscurely. And yet his alms and prayers were acceptable to God (<span
 id="iv.iii.iii-p101.9"></span>[Acts
-10:31](../../../bib/kjv/act010.htm#031)<span
+10:31](../../../bib/kjv/act010.htm#031.md)<span
 id="iv.iii.iii-p101.9"></span>), while the prophet by his answer
 approved of the sacrifices of Naaman. In both, this must have been the
 result of faith. In like manner, the eunuch to whom Philip was sent, had
 he not been endued with some degree of faith, never would have incurred
 the fatigue and expense of a long and difficult journey to obtain an
 opportunity of worship (<span id="iv.iii.iii-p101.10"></span>[Acts
-8:27](../../../bib/kjv/act008.htm#027),
-[31](../../../bib/kjv/act008.htm#031)<span
+8:27](../../../bib/kjv/act008.htm#027.md),
+[31](../../../bib/kjv/act008.htm#031.md)<span
 id="iv.iii.iii-p101.10"></span>); and yet we see how, when interrogated
 by Philip, he betrays his ignorance of the Mediator. I admit that, in
 some respect, their faith was not explicit either as to the person of
@@ -1859,10 +1859,10 @@ increases it, until by its means he conducts us into the heavenly
 kingdom. “That good thing which was committed unto thee,” says Paul,
 “keep by the Holy Ghost which dwelleth in us,” (<span
 id="iv.iii.iii-p102.1"></span>[2 Tim.
-1:14](../../../bib/kjv/ti2001.htm#014)<span
+1:14](../../../bib/kjv/ti2001.htm#014.md)<span
 id="iv.iii.iii-p102.1"></span>). In what sense Paul says (<span
 id="iv.iii.iii-p102.2"></span>[Gal.
-3:2](../../../bib/kjv/gal003.htm#002)<span
+3:2](../../../bib/kjv/gal003.htm#002.md)<span
 id="iv.iii.iii-p102.2"></span>), that the Spirit is given by the hearing
 of faith, may be easily explained. If there were only a single gift of
 the Spirit, he who is the author and cause of faith could not without
@@ -1878,48 +1878,48 @@ that firm and stable constancy of heart which is the chief part of
 faith.
 
 <span id="iv.iii.iii-p103"></span>34.30  <span
-id="fr_293"></span>[294](#fn_293) But as Paul argues, “What man knoweth
+id="fr_293"></span>[294](#fn_293.md) But as Paul argues, “What man knoweth
 the things of a man, save the spirit of man which is in him? even so the
 things of God knoweth no man but the Spirit of God,” (<span
 id="iv.iii.iii-p104.1"></span>[1 Cor.
-2:11](../../../bib/kjv/co1002.htm#011)<span
+2:11](../../../bib/kjv/co1002.htm#011.md)<span
 id="iv.iii.iii-p104.1"></span>). If in regard to divine truth we
 hesitate even as to those things which we see with the bodily eye, how
 can we be firm and steadfast in regard to those divine promises which
 neither the eye sees nor the mind comprehends? Here human discernment is
 so defective and lost, that the first step of advancement in the school
 of Christ is to renounce it (<span id="iv.iii.iii-p104.2"></span>[Mt.
-11:25](../../../bib/kjv/mat011.htm#025)<span
+11:25](../../../bib/kjv/mat011.htm#025.md)<span
 id="iv.iii.iii-p104.2"></span>; <span
 id="iv.iii.iii-p104.3"></span>[Luke
-10:21](../../../bib/kjv/luk010.htm#021)<span
+10:21](../../../bib/kjv/luk010.htm#021.md)<span
 id="iv.iii.iii-p104.3"></span>). Like a veil interposed, it prevents us
 from beholding divine masteries, which are revealed only to babes.
 “Flesh and blood” does not reveal them (<span
 id="iv.iii.iii-p104.4"></span>[Mt.
-16:17](../../../bib/kjv/mat016.htm#017)<span
+16:17](../../../bib/kjv/mat016.htm#017.md)<span
 id="iv.iii.iii-p104.4"></span>). “The natural man receiveth not the
 things of the Spirit of God: for they are foolishness unto him; neither
 can he know them, for they are spiritually discerned,” (<span
 id="iv.iii.iii-p104.5"></span>[I Cor.
-2:14](../../../bib/kjv/co1002.htm#014)<span
+2:14](../../../bib/kjv/co1002.htm#014.md)<span
 id="iv.iii.iii-p104.5"></span>). The supplies of the Holy Spirit are
 therefore necessary, or rather his agency is here the only strength.
 “For who has known the mind of the Lord? or who has been his counselor?”
 (<span id="iv.iii.iii-p104.6"></span>[Rom.
-11:34](../../../bib/kjv/rom011.htm#034)<span
+11:34](../../../bib/kjv/rom011.htm#034.md)<span
 id="iv.iii.iii-p104.6"></span>); but “The Spirit searcheth all things,
 yea, the deep things of God,” (<span id="iv.iii.iii-p104.7"></span>[1
-Cor. 2:10](../../../bib/kjv/co1002.htm#010)<span
+Cor. 2:10](../../../bib/kjv/co1002.htm#010.md)<span
 id="iv.iii.iii-p104.7"></span>). Thus it is that we attain to the mind
 of Christ: “No man can come to me, except the Father which has sent me
 draw him: and I will raise him up at the last day.” “Every man therefore
 that has heard, and learned of the Father, cometh unto me. Not that any
 man has seen the Father, save he which is of God, he has seen the
 Father,” (<span id="iv.iii.iii-p104.8"></span>[John
-6:44](../../../bib/kjv/joh006.htm#044),
-[45](../../../bib/kjv/joh006.htm#045),
-[46](../../../bib/kjv/joh006.htm#046)<span
+6:44](../../../bib/kjv/joh006.htm#044.md),
+[45](../../../bib/kjv/joh006.htm#045.md),
+[46](../../../bib/kjv/joh006.htm#046.md)<span
 id="iv.iii.iii-p104.8"></span>). Therefore, as we cannot possibly come
 to Christ unless drawn by the Spirit, so when we are drawn we are both
 in mind and spirit exalted far above our own understanding. For the
@@ -1932,8 +1932,8 @@ previously it was too stupid and senseless to have any relish for them.
 Hence our Savior, when clearly declaring the mysteries of the kingdom to
 the two disciples, makes no impression till he opens their minds to
 understand the Scriptures (<span id="iv.iii.iii-p104.9"></span>[Luke
-24:27](../../../bib/kjv/luk024.htm#027),
-[45](../../../bib/kjv/luk024.htm#045)<span
+24:27](../../../bib/kjv/luk024.htm#027.md),
+[45](../../../bib/kjv/luk024.htm#045.md)<span
 id="iv.iii.iii-p104.9"></span>). Hence also, though he had taught the
 Apostles with his own divine lips, it was still necessary to send the
 Spirit of truth to instill into their minds the same doctrine which they
@@ -1950,12 +1950,12 @@ repeating it. Let it suffice to observe, that the spirit of faith is
 used by Paul as synonymous with the very faith which we receive from the
 Spirit, but which we have not naturally (<span
 id="iv.iii.iii-p105.1"></span>[2 Cor.
-4:13](../../../bib/kjv/co2004.htm#013)<span
+4:13](../../../bib/kjv/co2004.htm#013.md)<span
 id="iv.iii.iii-p105.1"></span>). Accordingly, he prays for the
 Thessalonians, “that our God would count you worthy of this calling, and
 fulfill all the good pleasure of his goodness, and the work of faith
 with power,” (<span id="iv.iii.iii-p105.2"></span>[2 Thess.
-1:2](../../../bib/kjv/th2001.htm#002)<span
+1:2](../../../bib/kjv/th2001.htm#002.md)<span
 id="iv.iii.iii-p105.2"></span>). Here, by designating faith the work of
 God, and distinguishing it by way of epithet, appropriately calling it
 his *good pleasure*, he declares that it is not of man’s own nature; and
@@ -1963,7 +1963,7 @@ not contented with this, he adds, that it is an illustration of divine
 power. In addressing the Corinthians, when he tells them that faith
 stands not “in the wisdom of man, but in the power of God,” (<span
 id="iv.iii.iii-p105.3"></span>[1 Cor.
-2:4](../../../bib/kjv/co1002.htm#004)<span
+2:4](../../../bib/kjv/co1002.htm#004.md)<span
 id="iv.iii.iii-p105.3"></span>), he is no doubt speaking of external
 miracles; but as the reprobate are blinded when they behold them, he
 also includes that internal seal of which he elsewhere makes mention.
@@ -1975,7 +1975,7 @@ expositor, exclaims (De Verbo Apost. Serm. 2) “Our Savior, to teach that
 faith in him is a gift, not a merit, says, ‘No man can come to me,
 except the Father, which has sent me, draw him,’ (<span
 id="iv.iii.iii-p105.4"></span>[John
-6:44](../../../bib/kjv/joh006.htm#044)<span
+6:44](../../../bib/kjv/joh006.htm#044.md)<span
 id="iv.iii.iii-p105.4"></span>). It is strange when two persons hear,
 the one despises, the other ascends. Let him who despises impute it to
 himself; let him who ascends not arrogate it to himself” In another
@@ -2006,25 +2006,25 @@ establishing and confirming these promises. Thus the Apostle says, “In
 whom also, after that ye believed, ye were sealed with that holy Spirit
 of promise, which is the earnest of our inheritance,” (<span
 id="iv.iii.iii-p106.1"></span>[Eph.
-1:13](../../../bib/kjv/eph001.htm#013),
-[14](../../../bib/kjv/eph001.htm#014)<span
+1:13](../../../bib/kjv/eph001.htm#013.md),
+[14](../../../bib/kjv/eph001.htm#014.md)<span
 id="iv.iii.iii-p106.1"></span>). You see how he teaches that the hearts
 of believers are stamped with the Spirit as with a seal, and calls it
 the Spirit of promise, because it ratifies the gospel to us. In like
 manner he says to the Corinthians, “God has also sealed us, and given
 the earnest of the Spirit in our hearts,” (<span
 id="iv.iii.iii-p106.2"></span>[2 Cor.
-1:22](../../../bib/kjv/co2001.htm#022)<span
+1:22](../../../bib/kjv/co2001.htm#022.md)<span
 id="iv.iii.iii-p106.2"></span>). And again, when speaking of a full and
 confident hope, he founds it on the “earnest of the Spirit,” (<span
 id="iv.iii.iii-p106.3"></span>[2 Cor.
-5:5](../../../bib/kjv/co2005.htm#005)<span
+5:5](../../../bib/kjv/co2005.htm#005.md)<span
 id="iv.iii.iii-p106.3"></span>).
 
 <span id="iv.iii.iii-p107"></span>37. I am not forgetting what I
 formerly said, and experience brings daily to remembrance—viz. that
 faith is subject to various doubts,30  <span
-id="fr_294"></span>[295](#fn_294) so that the minds of believers are
+id="fr_294"></span>[295](#fn_294.md) so that the minds of believers are
 seldom at rest, or at least are not always tranquil. Still, whatever be
 the engines by which they are shaken, they either escape from the
 whirlpool of temptation, or remain steadfast in their place. Faith finds
@@ -2032,12 +2032,12 @@ security and protection in the words of the Psalm, “God is our refuge
 and strength, a very present help in trouble; therefore will not we
 fear, though the earth be removed, and the mountains be carried into the
 midst of the sea,” (<span id="iv.iii.iii-p108.1"></span>[Ps.
-46:1](../../../bib/kjv/psa046.htm#001),
-[2](../../../bib/kjv/psa046.htm#002)<span
+46:1](../../../bib/kjv/psa046.htm#001.md),
+[2](../../../bib/kjv/psa046.htm#002.md)<span
 id="iv.iii.iii-p108.1"></span>). This delightful tranquillity is
 elsewhere described: “I laid me down and slept; I awaked, for the Lord
 sustained me,” (<span id="iv.iii.iii-p108.2"></span>[Ps.
-3:5](../../../bib/kjv/psa003.htm#005)<span
+3:5](../../../bib/kjv/psa003.htm#005.md)<span
 id="iv.iii.iii-p108.2"></span>). Not that David was uniformly in this
 joyful frame; but in so far as the measure of his faith made him
 sensible of the divine favor, he glories in intrepidly despising every
@@ -2045,16 +2045,16 @@ thing that could disturb his peace of mind. Hence the Scripture, when it
 exhorts us to faith, bids us be at peace. In Isaiah it is said, “In
 quietness and in confidence shall be your strength,” (<span
 id="iv.iii.iii-p108.3"></span>[Is.
-30:15](../../../bib/kjv/isa030.htm#015)<span
+30:15](../../../bib/kjv/isa030.htm#015.md)<span
 id="iv.iii.iii-p108.3"></span>); and in the psalm, “Rest in the Lord,
 and wait patiently for him.” Corresponding to this is the passage in the
 Hebrews, “Ye have need of patience,” &c. (<span
 id="iv.iii.iii-p108.4"></span>[Heb.
-10:36](../../../bib/kjv/heb010.htm#036)<span
+10:36](../../../bib/kjv/heb010.htm#036.md)<span
 id="iv.iii.iii-p108.4"></span>).
 
 <span id="iv.iii.iii-p109"></span>38. Hence we may judge how pernicious
-is the scholastic dogma,30  <span id="fr_295"></span>[296](#fn_295) that
+is the scholastic dogma,30  <span id="fr_295"></span>[296](#fn_295.md) that
 we can have no stronger evidence of the divine favor toward us than
 moral conjecture, according as each individual deems himself not
 unworthy of it. Doubtless, if we are to determine by our works in what
@@ -2070,9 +2070,9 @@ conjecture, or any other feeling akin to doubt. Nothing can be worse
 than their perversion of the passage of Ecclesiastes, which is ever in
 their mouths: “No man knoweth either love or hatred by all that is
 before them,” (<span id="iv.iii.iii-p110.1"></span>[Eccl.
-9:1](../../../bib/kjv/ecc009.htm#001)<span
+9:1](../../../bib/kjv/ecc009.htm#001.md)<span
 id="iv.iii.iii-p110.1"></span>).30  <span
-id="fr_296"></span>[297](#fn_296) For without insisting that the passage
+id="fr_296"></span>[297](#fn_296.md) For without insisting that the passage
 is erroneously rendered in the common version—even a child cannot fail
 to perceive what Solomon’s meaning is—viz. that any one who would
 ascertain, from the present state of things, who are in the favor or
@@ -2086,7 +2086,7 @@ the dark as to matters which it is of the highest importance to know.
 Thus Solomon had said a little before, “That which befalleth the sons of
 men befalleth beasts; even one thing befalleth them: as the one dieth,
 so dieth the other,” (<span id="iv.iii.iii-p111.1"></span>[Eccl.
-3:19](../../../bib/kjv/ecc003.htm#019)<span
+3:19](../../../bib/kjv/ecc003.htm#019.md)<span
 id="iv.iii.iii-p111.1"></span>). Were any one thence to infer that we
 hold the immortality of the soul by conjecture merely, would he not
 justly be deemed insane? Are those then sane who cannot obtain any
@@ -2100,36 +2100,36 @@ incomprehensible counsel of God to our feeble intellect. But when we
 simply say with Paul, “We have received not the spirit of the world, but
 the Spirit which is of God; that we might know the things that are
 freely given to us of God,” (<span id="iv.iii.iii-p112.1"></span>[1 Cor.
-2:12](../../../bib/kjv/co1002.htm#012)<span
+2:12](../../../bib/kjv/co1002.htm#012.md)<span
 id="iv.iii.iii-p112.1"></span>), what can they oppose to this, without
 offering insult to the Spirit of God? But if it is Sacrilege to charge
 the revelation which he has given us with falsehood, or uncertainty, or
 ambiguity, how can we be wrong in maintaining its certainty? But they
 still exclaim, that there is great temerity in our presuming to glory in
-possessing the Spirit of God.30  <span id="fr_297"></span>[298](#fn_297)
+possessing the Spirit of God.30  <span id="fr_297"></span>[298](#fn_297.md)
 Who could believe that these men, who desire to be thought the masters
 of the world, could be so stupid as to err thus grossly in the very
 first principles of religion? To me, indeed, it would be incredible, did
 not their own writings make it manifest. Paul declares that those only
 are the sons of God who are led by his Spirit (<span
 id="iv.iii.iii-p113.1"></span>[Rom.
-8:14](../../../bib/kjv/rom008.htm#014)<span
+8:14](../../../bib/kjv/rom008.htm#014.md)<span
 id="iv.iii.iii-p113.1"></span>); these men would have those who are the
 sons of God to be led by their own, and void of the divine Spirit. He
 tells us that we call God our Father in terms dictated by the Spirit,
 who alone bears witness with our spirit that we are the sons of God
 (<span id="iv.iii.iii-p113.2"></span>[Rom.
-8:16](../../../bib/kjv/rom008.htm#016)<span
+8:16](../../../bib/kjv/rom008.htm#016.md)<span
 id="iv.iii.iii-p113.2"></span>); they, though they forbid us not to
 invoke God, withdraw the Spirit, by whose guidance he is duly invoked.
 He declares that those only are the servants of Christ who are led by
 the Spirit of Christ (<span id="iv.iii.iii-p113.3"></span>[Rom.
-8:9](../../../bib/kjv/rom008.htm#009)<span
+8:9](../../../bib/kjv/rom008.htm#009.md)<span
 id="iv.iii.iii-p113.3"></span>); they imagine a Christianity which has
 no need of the Spirit of Christ. He holds out the hope of a blessed
 resurrection to those only who feel His Spirit dwelling in them (<span
 id="iv.iii.iii-p113.4"></span>[Rom.
-8:11](../../../bib/kjv/rom008.htm#011)<span
+8:11](../../../bib/kjv/rom008.htm#011.md)<span
 id="iv.iii.iii-p113.4"></span>); they imagine hope when there is no such
 feeling. But perhaps they will say, that they deny not the necessity of
 being endued with the Spirit, but only hold it to be the part of modesty
@@ -2138,16 +2138,16 @@ says to the Corinthians, “Examine yourselves whether ye be in the faith:
 prove your own selves. Know ye not your own selves, that Jesus Christ is
 in you, except ye be reprobates?” (<span
 id="iv.iii.iii-p113.5"></span>[2 Cor.
-13:5](../../../bib/kjv/co2013.htm#005)<span
+13:5](../../../bib/kjv/co2013.htm#005.md)<span
 id="iv.iii.iii-p113.5"></span>). John, moreover, says, “Hereby we know
 that he abideth in us by the Spirit which he has given us,” (<span
 id="iv.iii.iii-p113.6"></span>[1 John
-3:24](../../../bib/kjv/jo1003.htm#024)<span
+3:24](../../../bib/kjv/jo1003.htm#024.md)<span
 id="iv.iii.iii-p113.6"></span>). And what else is it than to bring the
 promises of Christ into doubt, when we would be deemed servants of
 Christ without having his Spirit, whom he declared that he would pour
 out on all his people? (<span id="iv.iii.iii-p113.7"></span>[Isa.
-44:3](../../../bib/kjv/isa044.htm#003)<span
+44:3](../../../bib/kjv/isa044.htm#003.md)<span
 id="iv.iii.iii-p113.7"></span>). What! do we not insult the Holy Spirit,
 when we separate faith, which is his peculiar work, from himself? These
 being the first rudiments of religion, it is the most wretched blindness
@@ -2158,7 +2158,7 @@ our Savior’s declaration, that his Spirit “the world cannot receive,
 because it seeth him not, neither knoweth him; but ye know him, for he
 dwelleth with you, and shall be in you,” (<span
 id="iv.iii.iii-p113.8"></span>[John
-14:17](../../../bib/kjv/joh014.htm#017)<span
+14:17](../../../bib/kjv/joh014.htm#017.md)<span
 id="iv.iii.iii-p113.8"></span>).
 
 <span id="iv.iii.iii-p114"></span>40. That they may not attempt to
@@ -2174,7 +2174,7 @@ principalities, nor powers, nor things present, nor things to come, nor
 height, nor depth, nor any other creature, shall be able to separate us
 from the love of God, which is in Christ Jesus our Lord,” (<span
 id="iv.iii.iii-p114.1"></span>[Rom.
-8:38](../../../bib/kjv/rom008.htm#038)<span
+8:38](../../../bib/kjv/rom008.htm#038.md)<span
 id="iv.iii.iii-p114.1"></span>). They endeavor to evade the force of
 this by frivolously pretending that the Apostle had this assurance by
 special revelation. They are too well caught thus to escape; for in that
@@ -2183,12 +2183,12 @@ blessings which all believers in common derive from faith. But then Paul
 in another passage alarms us by the mention of our weakness and
 inconstancy, “Let him that thinketh he standeth take heed lest he fall,”
 (<span id="iv.iii.iii-p114.2"></span>[1 Cor.
-10:12](../../../bib/kjv/co1010.htm#012)<span
+10:12](../../../bib/kjv/co1010.htm#012.md)<span
 id="iv.iii.iii-p114.2"></span>). True; but this he says not to inspire
 us with terror, but that we may learn to humble ourselves under the
 mighty hand of God, as Peter explains (<span
 id="iv.iii.iii-p114.3"></span>[1 Pet.
-5:6](../../../bib/kjv/pe1005.htm#006)<span
+5:6](../../../bib/kjv/pe1005.htm#006.md)<span
 id="iv.iii.iii-p114.3"></span>). Then how preposterous is it to limit
 the certainty of faith to a point of time; seeing it is the property of
 faith to pass beyond the whole course of this life, and stretch forward
@@ -2208,7 +2208,7 @@ that definition, or rather description, which the Apostle accommodates
 to his discourse, when he says that faith is “the substance of things
 hoped for, the evidence of things not seen,” (<span
 id="iv.iii.iii-p115.1"></span>[Heb.
-11:1](../../../bib/kjv/heb011.htm#001)<span
+11:1](../../../bib/kjv/heb011.htm#001.md)<span
 id="iv.iii.iii-p115.1"></span>). For by the term substance (ὑπόστασις),
 he means a kind of prop on which the pious mind rests and leans. As if
 he had said, that faith is a kind of certain and secure possession of
@@ -2217,10 +2217,10 @@ those things which are promised to us by God; unless we prefer taking
 more inclined to adopt the other interpretation, which is more generally
 received. Again, to intimate that until the last day, when the books
 will be opened (<span id="iv.iii.iii-p115.2"></span>[Dan.
-7:10](../../../bib/kjv/dan007.htm#010)<span
+7:10](../../../bib/kjv/dan007.htm#010.md)<span
 id="iv.iii.iii-p115.2"></span>; <span
 id="iv.iii.iii-p115.3"></span>[Rev.
-20:12](../../../bib/kjv/rev020.htm#012)<span
+20:12](../../../bib/kjv/rev020.htm#012.md)<span
 id="iv.iii.iii-p115.3"></span>), the things pertaining to our salvation
 are too lofty to be perceived by our sense, seen by our eyes, or handled
 by our hands, and that in the meantime there is no possible way in which
@@ -2229,7 +2229,7 @@ own intellect, and raise our eye above all worldly objects; in short,
 surpass ourselves, he adds that this certainty of possession relates to
 things which are only hoped for, and therefore not seen. For as Paul
 says (<span id="iv.iii.iii-p115.4"></span>[Rom.
-8:24](../../../bib/kjv/rom008.htm#024)<span
+8:24](../../../bib/kjv/rom008.htm#024.md)<span
 id="iv.iii.iii-p115.4"></span>), “A hope that is seen is not hope,” that
 we “hope for that we see not.” When he calls it the evidence or proof,
 or, as Augustine repeatedly renders it (see *Hom. in Joann*. 79 and 95),
@@ -2290,7 +2290,7 @@ promises, so, on the other hand, the weakness of our faith, which might
 grow weary and fall away, must be supported and cherished by patient
 hope and expectation. For this reason Paul justly says, “We are saved by
 hope,” (<span id="iv.iii.iii-p116.1"></span>[Rom.
-8:24](../../../bib/kjv/rom008.htm#024)<span
+8:24](../../../bib/kjv/rom008.htm#024.md)<span
 id="iv.iii.iii-p116.1"></span>). For while hope silently waits for the
 Lord, it restrains faith from hastening on with too much precipitation,
 confirms it when it might waver in regard to the promises of God or
@@ -2305,27 +2305,27 @@ assailed and shaken. First, the Lord often keeps us in suspense, by
 delaying the fulfillment of his promises much longer than we could wish.
 Here the office of hope is to perform what the prophet enjoins, “Though
 it tarry, wait for it,” (<span id="iv.iii.iii-p116.2"></span>[Hab.
-2:3](../../../bib/kjv/hab002.htm#003)<span
+2:3](../../../bib/kjv/hab002.htm#003.md)<span
 id="iv.iii.iii-p116.2"></span>). Sometimes he not only permits faith to
 grow languid, but even openly manifests his displeasure. Here there is
 still greater necessity for the aid of hope, that we may be able to say
 with another prophet, “I will wait upon the Lord that hideth his face
 from the house of Jacob, and I will look for him,” (<span
 id="iv.iii.iii-p116.3"></span>[Isaiah
-8:17](../../../bib/kjv/isa008.htm#017)<span
+8:17](../../../bib/kjv/isa008.htm#017.md)<span
 id="iv.iii.iii-p116.3"></span>). Scoffers also rise up, as Peter tells
 us, and ask, “Where is the promise of his coming? for since the fathers
 fell asleep, all things continue as they were from the beginning of the
 creation,” (<span id="iv.iii.iii-p116.4"></span>[2 Pet.
-3:4](../../../bib/kjv/pe2003.htm#004)<span
+3:4](../../../bib/kjv/pe2003.htm#004.md)<span
 id="iv.iii.iii-p116.4"></span>). Nay, the world and the flesh insinuate
 the same thing. Here faith must be supported by the patience of hope,
 and fixed on the contemplation of eternity, consider that “one day is
 with the Lord as a thousand years, and a thousand years as one day,”
 (<span id="iv.iii.iii-p116.5"></span>[2 Pet.
-3:8](../../../bib/kjv/pe2003.htm#008)<span
+3:8](../../../bib/kjv/pe2003.htm#008.md)<span
 id="iv.iii.iii-p116.5"></span>; <span id="iv.iii.iii-p116.6"></span>[Ps.
-90:4](../../../bib/kjv/psa090.htm#004)<span
+90:4](../../../bib/kjv/psa090.htm#004.md)<span
 id="iv.iii.iii-p116.6"></span>).
 
 <span id="iv.iii.iii-p117"></span>43. On account of this connection and
@@ -2333,18 +2333,18 @@ affinity Scripture sometimes confounds the two terms faith and hope. For
 when Peter says that we are “kept by the power of God through faith
 until salvation, ready to be revealed in the last times” (<span
 id="iv.iii.iii-p117.1"></span>[1 Pet.
-1:5](../../../bib/kjv/pe1001.htm#005)<span
+1:5](../../../bib/kjv/pe1001.htm#005.md)<span
 id="iv.iii.iii-p117.1"></span>), he attributes to faith what more
 properly belongs to hope. And not without cause, since we have already
 shown that hope is nothing else than the food and strength of faith.
 Sometimes the two are joined together, as in the same Epistles “That
 your faith and hope might be in God,” (<span
 id="iv.iii.iii-p117.2"></span>[1 Pet.
-1:21](../../../bib/kjv/pe1001.htm#021)<span
+1:21](../../../bib/kjv/pe1001.htm#021.md)<span
 id="iv.iii.iii-p117.2"></span>). Paul, again, in the Epistle to the
 Philippians, from hope deduces expectation (<span
 id="iv.iii.iii-p117.3"></span>[Phil.
-1:20](../../../bib/kjv/phi001.htm#020)<span
+1:20](../../../bib/kjv/phi001.htm#020.md)<span
 id="iv.iii.iii-p117.3"></span>), because in hoping patiently we suspend
 our wishes until God manifest his own time. The whole of this subject
 may be better understood from the tenth chapter of the Epistle to the
@@ -2352,7 +2352,7 @@ Hebrews, to which I have already adverted. Paul, in another passage,
 though not in strict propriety of speech, expresses the same thing in
 these words, “For we through the Spirit wait for the hope of
 righteousness by faith,” (<span id="iv.iii.iii-p117.4"></span>[Gal.
-5:5](../../../bib/kjv/gal005.htm#005)<span
+5:5](../../../bib/kjv/gal005.htm#005.md)<span
 id="iv.iii.iii-p117.4"></span>); that is, after embracing the testimony
 of the Gospel as to free love, we wait till God openly manifest what is
 now only an object of hope. It is now obvious how absurdly Peter Lombard
@@ -2364,7 +2364,7 @@ expression, it must look with both eyes. But it is worth while to listen
 to the strange reason which he adduces. If you presume, says he, to hope
 for any thing without merit, it should be called not hope, but
 presumption. Who, dear reader, does not execrate the gross stupidity30
- <span id="fr_298"></span>[299](#fn_298) which calls it rashness, and
+ <span id="fr_298"></span>[299](#fn_298.md) which calls it rashness, and
 presumption to confide in the truth of God? The Lord desires us to
 expect every thing from his goodness and yet these men tell us, it is
 presumption to rest in it. O teacher, worthy of the pupils, whom you
@@ -2374,53 +2374,53 @@ willingly presume so far on his truth as to cast away all confidence in
 our works, and trusting in his mercy, venture to hope. He who has said,
 “According to your faith be it unto you,” (<span
 id="iv.iii.iii-p118.1"></span>[Mt.
-9:29](../../../bib/kjv/mat009.htm#029)<span
+9:29](../../../bib/kjv/mat009.htm#029.md)<span
 id="iv.iii.iii-p118.1"></span>), will never deceive.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_272"></span>[273](inst055.htm#fr_272) <span
+<span id="fn_272"></span>[273](inst055.htm#fr_272.md) <span
 id="iv.iii.iii-p47.1"></span>
 
 <span id="iv.iii.iii-p48"></span>79 279 <span
 id="iv.iii.iii-p48.1"></span>[1 Tim.
-6:16](../../../bib/kjv/ti1006.htm#016)<span
+6:16](../../../bib/kjv/ti1006.htm#016.md)<span
 id="iv.iii.iii-p48.1"></span>; <span id="iv.iii.iii-p48.2"></span>[John
-8:12](../../../bib/kjv/joh008.htm#012)<span
+8:12](../../../bib/kjv/joh008.htm#012.md)<span
 id="iv.iii.iii-p48.2"></span>; 14:6; <span
 id="iv.iii.iii-p48.3"></span>[Luke
-10:22](../../../bib/kjv/luk010.htm#022)<span
+10:22](../../../bib/kjv/luk010.htm#022.md)<span
 id="iv.iii.iii-p48.3"></span>; <span id="iv.iii.iii-p48.4"></span>[1
-Cor. 2:2](../../../bib/kjv/co1002.htm#002)<span
+Cor. 2:2](../../../bib/kjv/co1002.htm#002.md)<span
 id="iv.iii.iii-p48.4"></span>; <span id="iv.iii.iii-p48.5"></span>[Acts
-20:21](../../../bib/kjv/act020.htm#021)<span
+20:21](../../../bib/kjv/act020.htm#021.md)<span
 id="iv.iii.iii-p48.5"></span>; 26:17, 18; <span
 id="iv.iii.iii-p48.6"></span>[2 Cor.
-4:6](../../../bib/kjv/co2004.htm#006)<span
+4:6](../../../bib/kjv/co2004.htm#006.md)<span
 id="iv.iii.iii-p48.6"></span>.
 
-<span id="fn_273"></span>[274](inst055.htm#fr_273) <span
+<span id="fn_273"></span>[274](inst055.htm#fr_273.md) <span
 id="iv.iii.iii-p48.7"></span>
 
 <span id="iv.iii.iii-p49"></span>80 280 The French is“Car nous tendons a
 Dieu, et par l’humanité de Jesus Christ, nous y sommes conduits;”—For we
 tend to God, and by the humanity of Christ are conducted to him.
 
-<span id="fn_274"></span>[275](inst055.htm#fr_274) <span
+<span id="fn_274"></span>[275](inst055.htm#fr_274.md) <span
 id="iv.iii.iii-p50.1"></span>
 
 <span id="iv.iii.iii-p51"></span>81 281 French, “Theologiens
 Sorboniques;”—Theologians of Sorbonne.
 
-<span id="fn_275"></span>[276](inst055.htm#fr_275) <span
+<span id="fn_275"></span>[276](inst055.htm#fr_275.md) <span
 id="iv.iii.iii-p51.1"></span>
 
 <span id="iv.iii.iii-p52"></span>82 282 In opposition to this ignorance,
 see Chrysostom in Joann. Homil. 16.
 
-<span id="fn_276"></span>[277](inst055.htm#fr_276) <span
+<span id="fn_276"></span>[277](inst055.htm#fr_276.md) <span
 id="iv.iii.iii-p54.2"></span>
 
 <span id="iv.iii.iii-p55"></span>83 283 See Augustin. <span
@@ -2430,76 +2430,76 @@ possunt ista discernera, pæne frustra in ecclesia laboramus,”&c;—If
 Christ died for those only who are able to discern these things with
 true understanding, our labour in the Church is almost in vain.
 
-<span id="fn_277"></span>[278](inst055.htm#fr_277) <span
+<span id="fn_277"></span>[278](inst055.htm#fr_277.md) <span
 id="iv.iii.iii-p58.8"></span>
 
 <span id="iv.iii.iii-p59"></span>84 284 This definition is explained,
 sections 14, 15, 28, 29, 32, 33, 31 of this chapter.
 
-<span id="fn_278"></span>[279](inst055.htm#fr_278) <span
+<span id="fn_278"></span>[279](inst055.htm#fr_278.md) <span
 id="iv.iii.iii-p60.1"></span>
 
 <span id="iv.iii.iii-p61"></span>85 285 See Lombard, Lib. 3 Dist. 23.
 See the refutation in the middle of sections 41, 42, 43, where it is
 shown that faith produces, and is inseparable from, hope and love.
 
-<span id="fn_279"></span>[280](inst055.htm#fr_279) <span
+<span id="fn_279"></span>[280](inst055.htm#fr_279.md) <span
 id="iv.iii.iii-p64.1"></span>
 
 <span id="iv.iii.iii-p65"></span>86 286 Thess. 1:3, 4; <span
 id="iv.iii.iii-p65.1"></span>[2 Thess.
-2:13](../../../bib/kjv/th2002.htm#013)<span
+2:13](../../../bib/kjv/th2002.htm#013.md)<span
 id="iv.iii.iii-p65.1"></span>; <span id="iv.iii.iii-p65.2"></span>[Tit.
-1](../../../bib/kjv/tit001.htm#000)<span id="iv.iii.iii-p65.2"></span>.
+1](../../../bib/kjv/tit001.htm#000.md)<span id="iv.iii.iii-p65.2"></span>.
 
-<span id="fn_280"></span>[281](inst055.htm#fr_280) <span
+<span id="fn_280"></span>[281](inst055.htm#fr_280.md) <span
 id="iv.iii.iii-p65.3"></span>
 
 <span id="iv.iii.iii-p66"></span>87 287 The French adds, “Comme par une
 bouffee,”—as by fits and starts.
 
-<span id="fn_281"></span>[282](inst055.htm#fr_281) <span
+<span id="fn_281"></span>[282](inst055.htm#fr_281.md) <span
 id="iv.iii.iii-p67.1"></span>
 
 <span id="iv.iii.iii-p68"></span>88 288 See section 13, where it is said
 that this impression, sometimes existing in the reprobate, is called
 faith, but improperly.
 
-<span id="fn_282"></span>[283](inst055.htm#fr_282) <span
+<span id="fn_282"></span>[283](inst055.htm#fr_282.md) <span
 id="iv.iii.iii-p69.1"></span>
 
 <span id="iv.iii.iii-p70"></span>89 289 <span
 id="iv.iii.iii-p70.1"></span>[1 Tim.
-3:9](../../../bib/kjv/ti1003.htm#009)<span
+3:9](../../../bib/kjv/ti1003.htm#009.md)<span
 id="iv.iii.iii-p70.1"></span>; 4:1, 6; <span
 id="iv.iii.iii-p70.2"></span>[2 Tim.
-2:15](../../../bib/kjv/ti2002.htm#015)<span
+2:15](../../../bib/kjv/ti2002.htm#015.md)<span
 id="iv.iii.iii-p70.2"></span>; 3:18; <span
 id="iv.iii.iii-p70.3"></span>[Tit.
-1:13](../../../bib/kjv/tit001.htm#013)<span
+1:13](../../../bib/kjv/tit001.htm#013.md)<span
 id="iv.iii.iii-p70.3"></span>; 2:2.
 
-<span id="fn_283"></span>[284](inst055.htm#fr_283) <span
+<span id="fn_283"></span>[284](inst055.htm#fr_283.md) <span
 id="iv.iii.iii-p70.7"></span>
 
 <span id="iv.iii.iii-p71"></span>90 290 The French adds, “Comme il
 montre par ses propos quel souci il en avoit;”—as he shows by his
 urgency what anxiety he felt.
 
-<span id="fn_284"></span>[285](inst055.htm#fr_284) <span
+<span id="fn_284"></span>[285](inst055.htm#fr_284.md) <span
 id="iv.iii.iii-p73.1"></span>
 
 <span id="iv.iii.iii-p74"></span>91 291 Latin“Præsentim ubi ad rem
 ventum est.”—French, “Principalament quand les tentations nous
 pressent;”—especially when temptations press us.
 
-<span id="fn_285"></span>[286](inst055.htm#fr_285) <span
+<span id="fn_285"></span>[286](inst055.htm#fr_285.md) <span
 id="iv.iii.iii-p76.1"></span>
 
 <span id="iv.iii.iii-p77"></span>92 292 As to the imperfection,
 strengthening, and increase of faith, see Book 4. chap. 4 sec. 7, 8.
 
-<span id="fn_286"></span>[287](inst055.htm#fr_286) <span
+<span id="fn_286"></span>[287](inst055.htm#fr_286.md) <span
 id="iv.iii.iii-p77.4"></span>
 
 <span id="iv.iii.iii-p78"></span>93 293 Calvin’s Latin translation of
@@ -2508,13 +2508,13 @@ excelsi.”—The French is, “J’ay dit, Il me faut mourir. Voicy un
 changement de la main de Dieu;”—I said I must die. Behold a change in
 the hand of God.
 
-<span id="fn_287"></span>[288](inst055.htm#fr_287) <span
+<span id="fn_287"></span>[288](inst055.htm#fr_287.md) <span
 id="iv.iii.iii-p78.1"></span>
 
 <span id="iv.iii.iii-p79"></span>94 294 See Calv adv. Pighiium, near the
 commencement.
 
-<span id="fn_288"></span>[289](inst055.htm#fr_288) <span
+<span id="fn_288"></span>[289](inst055.htm#fr_288.md) <span
 id="iv.iii.iii-p86.1"></span>
 
 <span id="iv.iii.iii-p87"></span>95 295 The French is, “Voila comme
@@ -2524,81 +2524,81 @@ dessous terre la ruiner.”—Behold how Satan, when he sees that by clear
 and open falsehood he can no longer destroy the certainty of faith, is
 striving in secret, and as it were below ground, to ruin it.
 
-<span id="fn_289"></span>[290](inst055.htm#fr_289) <span
+<span id="fn_289"></span>[290](inst055.htm#fr_289.md) <span
 id="iv.iii.iii-p89.1"></span>
 
 <span id="iv.iii.iii-p90"></span>96 296 <span
 id="iv.iii.iii-p90.1"></span>[Ps.
-111:10](../../../bib/kjv/psa111.htm#010)<span
+111:10](../../../bib/kjv/psa111.htm#010.md)<span
 id="iv.iii.iii-p90.1"></span>; <span id="iv.iii.iii-p90.2"></span>[Prov.
-1:7](../../../bib/kjv/pro001.htm#007),
-[9](../../../bib/kjv/pro001.htm#009)<span
+1:7](../../../bib/kjv/pro001.htm#007.md),
+[9](../../../bib/kjv/pro001.htm#009.md)<span
 id="iv.iii.iii-p90.2"></span>:10, 15:24; <span
 id="iv.iii.iii-p90.3"></span>[Job
-28:28](../../../bib/kjv/job028.htm#028)<span
+28:28](../../../bib/kjv/job028.htm#028.md)<span
 id="iv.iii.iii-p90.3"></span>; <span id="iv.iii.iii-p90.4"></span>[Mal.
-1:6](../../../bib/kjv/mal001.htm#006)<span
+1:6](../../../bib/kjv/mal001.htm#006.md)<span
 id="iv.iii.iii-p90.4"></span>.
 
-<span id="fn_290"></span>[291](inst055.htm#fr_290) <span
+<span id="fn_290"></span>[291](inst055.htm#fr_290.md) <span
 id="iv.iii.iii-p91.2"></span>
 
 <span id="iv.iii.iii-p92"></span>97 297 Latin, “acsi cervicibus suis
 impenderet.”—French, “comme si l’enfer leur etoit desia present pour les
 englouter;”—as if hell were already present to engulfthem.
 
-<span id="fn_291"></span>[292](inst055.htm#fr_291) <span
+<span id="fn_291"></span>[292](inst055.htm#fr_291.md) <span
 id="iv.iii.iii-p96.6"></span>
 
 <span id="iv.iii.iii-p97"></span>98 298 The French adds, “Combien que
 nous ayons les promesses de Dieu pour nous munir à l’encontre;”—although
 we have the promise of God to strengthen us for the encounter.
 
-<span id="fn_292"></span>[293](inst055.htm#fr_292) <span
+<span id="fn_292"></span>[293](inst055.htm#fr_292.md) <span
 id="iv.iii.iii-p100.1"></span>
 
 <span id="iv.iii.iii-p101"></span>99 299 <span
 id="iv.iii.iii-p101.1"></span>[Rom.
-1:3](../../../bib/kjv/rom001.htm#003)<span
+1:3](../../../bib/kjv/rom001.htm#003.md)<span
 id="iv.iii.iii-p101.1"></span>; <span id="iv.iii.iii-p101.2"></span>[1
-Cor. 2:2](../../../bib/kjv/co1002.htm#002)<span
+Cor. 2:2](../../../bib/kjv/co1002.htm#002.md)<span
 id="iv.iii.iii-p101.2"></span>; <span id="iv.iii.iii-p101.3"></span>[2
-Cor. 1:20](../../../bib/kjv/co2001.htm#020)<span
+Cor. 1:20](../../../bib/kjv/co2001.htm#020.md)<span
 id="iv.iii.iii-p101.3"></span>.
 
-<span id="fn_293"></span>[294](inst055.htm#fr_293) <span
+<span id="fn_293"></span>[294](inst055.htm#fr_293.md) <span
 id="iv.iii.iii-p103.1"></span>
 
 <span id="iv.iii.iii-p104"></span>00 300 The French thus begins the
 section: “Lequel erreur est facile a convaincre;”—This error is easily
 refuted
 
-<span id="fn_294"></span>[295](inst055.htm#fr_294) <span
+<span id="fn_294"></span>[295](inst055.htm#fr_294.md) <span
 id="iv.iii.iii-p107.1"></span>
 
 <span id="iv.iii.iii-p108"></span>01 301 French, “Doutes, solicitudes,
 et detresses;”—doubts, anxieties, and distresses.
 
-<span id="fn_295"></span>[296](inst055.htm#fr_295) <span
+<span id="fn_295"></span>[296](inst055.htm#fr_295.md) <span
 id="iv.iii.iii-p109.1"></span>
 
 <span id="iv.iii.iii-p110"></span>02 302 French, “La doctrine des
 theologiens sophistes;”—the doctrine of sophistical theologians.
 
-<span id="fn_296"></span>[297](inst055.htm#fr_296) <span
+<span id="fn_296"></span>[297](inst055.htm#fr_296.md) <span
 id="iv.iii.iii-p110.2"></span>
 
 <span id="iv.iii.iii-p111"></span>03 303 See Bernard, Serm. 2 in Die
 Ascensionis, and Serm. 2 in Octava Paschæ
 
-<span id="fn_297"></span>[298](inst055.htm#fr_297) <span
+<span id="fn_297"></span>[298](inst055.htm#fr_297.md) <span
 id="iv.iii.iii-p112.2"></span>
 
 <span id="iv.iii.iii-p113"></span>04 304 The French adds, “En quoy ils
 demonstrent grandement leur betisc;”—In this they give a great
 demonstration of their stupidity.
 
-<span id="fn_298"></span>[299](inst055.htm#fr_298) <span
+<span id="fn_298"></span>[299](inst055.htm#fr_298.md) <span
 id="iv.iii.iii-p117.5"></span>
 
 <span id="iv.iii.iii-p118"></span>05 305 Latin “Quis non merito, amice
@@ -2608,4 +2608,4 @@ refrain from execrating such beasts?
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER 3. - REGENERATION BY FAITH. OF REPENTANCE.](inst056)
+[Next: CHAPTER 3. - REGENERATION BY FAITH. OF REPENTANCE.](inst056.md)

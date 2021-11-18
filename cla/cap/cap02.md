@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](cap01)  [Next](cap03) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](cap01)  [Next](cap03.md) 
 
 ------------------------------------------------------------------------
 
@@ -153,4 +153,4 @@ darkness.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](cap03)
+[Next: Part II](cap03.md)

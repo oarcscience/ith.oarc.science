@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod09)  [Next](hod11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod09)  [Next](hod11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,12 +47,12 @@ go the waters." However, Indra, the god of thunder-storms, forces him to
 surrender the fertilising liquids and restores the life-bringing element
 to the earth.
 
-Mara is also called Papiyan <span id="fr_47"></span>[1](#fn_47) the
+Mara is also called Papiyan <span id="fr_47"></span>[1](#fn_47.md) the
 Wicked One or the Evil One, the Murderer, the Tempter. In addition he is
-said to be Varsavarti, <span id="fr_48"></span>[2](#fn_48) meaning "he
+said to be Varsavarti, <span id="fr_48"></span>[2](#fn_48.md) meaning "he
 who fulfils desires." Varsavarti, indeed, is one of his favorite names.
 In his capacity as Varsavarti, Mara personifies the fulfilment of desire
-or the triple thirst, <span id="fr_49"></span>[3](#fn_49) viz., the
+or the triple thirst, <span id="fr_49"></span>[3](#fn_49.md) viz., the
 thirst for existence, the thirst for pleasure, the thirst for power. He
 is the king of the Heaven of sensual delight.
 
@@ -77,7 +77,7 @@ Evil One.
 
 <span id="img_10600"></span> <span align="CENTER"> [![THE DEMON OF
 LIGHTNING. A Japanese temple statue.](tn/generic.jpg)  
-Click to view](img/10600.jpg)  
+Click to view](img/10600.jpg.md)  
 THE DEMON OF LIGHTNING. A Japanese temple statue.  
 </span>
 
@@ -99,7 +99,7 @@ and death; but Buddhist
 
 <span id="img_10700"></span> <span align="CENTER"> [![THE DEMON OF
 THUNDER. A Japanese temple statue.](tn/generic.jpg)  
-Click to view](img/10700.jpg)  
+Click to view](img/10700.jpg.md)  
 THE DEMON OF THUNDER. A Japanese temple statue.  
 </span>
 
@@ -136,7 +136,7 @@ to find the right path in asceticism and self-mortification, his health
 began to give way and he was shrunken like a withered branch. At this
 moment Mara drew near and suggested to him the thought of giving up his
 search for enlightenment. We read in the Padhana Sutta: <span
-id="fr_50"></span>[1](#fn_50)
+id="fr_50"></span>[1](#fn_50.md)
 
 <span class="small">"Came Namuche speaking words full of compassion:
 'Thou art lean, ill-favored, death is in thy neighborhood. Living life,
@@ -186,7 +186,7 @@ force. "He sounded
 <span id="img_11000"></span> <span align="CENTER"> [![MARA'S
 ARMY.&lt;br&gt; Ghandara sculptures. Museum of Lahore. (Reproduced from
 Grünwedel.)](tn/generic.jpg)  
-Click to view](img/11000.jpg)  
+Click to view](img/11000.jpg.md)  
 MARA'S ARMY.  
 Ghandara sculptures. Museum of Lahore. (Reproduced from Grünwedel.)  
 </span>
@@ -286,7 +286,7 @@ representations of Buddha's entering Nirvana, at a time when Devadatta
 had been long dead. Alfred Grünwedel, for these reasons, proposes to
 abandon the traditional interpretation of the thunderbolt-bearer as
 Devadatta, and it appears that he has found the right interpretation
-when he says: <span id="fr_51"></span>[1](#fn_51)
+when he says: <span id="fr_51"></span>[1](#fn_51.md)
 
 <span class="small">"This figure which accompanies Buddha from the
 moment he leaves his father's house until he enters Nirvana, and who
@@ -305,7 +305,7 @@ heaven, surrounded by dancing girls and musicians."
 <span id="img_11400"></span> <span align="CENTER"> [![BUDDHA TEMPTED BY
 MARA'S DAUGHTERS.&lt;br&gt; Gandhara sculptures. (Reproduced from
 Grünwedel.)](tn/generic.jpg)  
-Click to view](img/11400.jpg)  
+Click to view](img/11400.jpg.md)  
 BUDDHA TEMPTED BY MARA'S DAUGHTERS.  
 Gandhara sculptures. (Reproduced from Grünwedel.)  
 </span>
@@ -359,7 +359,7 @@ itself, that the human being is brought into existence twice--the first
 time under the name of consciousness, and name and form and by means of
 ignorance and karma, the second time in birth and by means of desire
 (with its four branches called attachments) and karma again, this time
-called existence. <span id="fr_52"></span>[1](#fn_52) Therefore, though
+called existence. <span id="fr_52"></span>[1](#fn_52.md) Therefore, though
 Buddhaghosa is at great pains to explain this repetition as purposely
 intended for practical ends, yet one is much inclined to surmise that
 the full formula in its present shape is a piece of patchwork put
@@ -378,7 +378,7 @@ oldest passages in which the twelve nidanas are enumerated is found in
 the *Questions of King Milinda*, p. 79, where we read:
 
 <span class="small">"By reason of ignorance came the Confections, <span
-id="fr_53"></span>[2](#fn_53) by reason of the Confections
+id="fr_53"></span>[2](#fn_53.md) by reason of the Confections
 consciousness, by reason of consciousness name-and-form, by reason of
 name-and-form the six organs of sense, by reason of them contact, by
 reason of contact sensation, by reason</span>
@@ -481,7 +481,7 @@ world-wheel, the wheel of life,
 LIFE.&lt;br&gt; Preserved in the Cave Temples of Ajanta, Central
 India.&lt;br&gt; (Reproduced from L. E. Waddell's picture in the J. R.
 A, S.)](tn/generic.jpg)  
-Click to view](img/11900.jpg)  
+Click to view](img/11900.jpg.md)  
 AN INDIAN WHEEL OF LIFE.  
 Preserved in the Cave Temples of Ajanta, Central India.  
 (Reproduced from L. E. Waddell's picture in the J. R. A, S.)  
@@ -516,9 +516,9 @@ wheel.
 How carefully the Buddhistic conception of Mara, as the Prince of the
 world, holding in his clutches the wheel of life, has been preserved, we
 can learn from a comparison of an old fresco in the deserted caves of
-Ajanta, Central India, <span id="fr_54"></span>[1](#fn_54) with Tibetan
+Ajanta, Central India, <span id="fr_54"></span>[1](#fn_54.md) with Tibetan
 and Japanese pictures of the same subject. <span
-id="fr_55"></span>[2](#fn_55) All of them show in the centre the three
+id="fr_55"></span>[2](#fn_55.md) All of them show in the centre the three
 causes of selfhood, viz., hatred, spite, and sloth, symbolised in a
 serpent, a cock, and a pig. They are also called the three fires, or the
 three roots of evil, which are *raga* (passion), *doso* (sin), *moho*
@@ -528,11 +528,11 @@ three roots of evil, which are *raga* (passion), *doso* (sin), *moho*
 
 The Hindu picture exhibits six divisions,--the realm of gods, the realm
 of men, the realm of nagas (or snakes), <span
-id="fr_56"></span>[1](#fn_56)
+id="fr_56"></span>[1](#fn_56.md)
 
 <span id="img_12100"></span> <span align="CENTER"> [![A TIBETAN WHEEL OF
 LIFE. (Reproduced from Bastian.)](tn/generic.jpg)  
-Click to view](img/12100.jpg)  
+Click to view](img/12100.jpg.md)  
 A TIBETAN WHEEL OF LIFE. (Reproduced from Bastian.)  
 </span>
 
@@ -577,7 +577,7 @@ manufactured. The word should not be confused with *samsara*, which is
 
 <span id="img_12300"></span> <span align="CENTER"> [![A JAPANESE WHEEL
 OF LIFE. (Reproduced from Bastian.)](tn/generic.jpg)  
-Click to view](img/12300.jpg)  
+Click to view](img/12300.jpg.md)  
 A JAPANESE WHEEL OF LIFE. (Reproduced from Bastian.)  
 </span>
 
@@ -728,13 +728,13 @@ traces of strong Hindu influences. Prominent
 <span id="img_12800"></span> <span align="CENTER"> [![MEIFU, THE DARK
 TRIBUNAL.&lt;br&gt; (Reproduced from a colored Japanese illustration in
 &lt;i&gt;Karma&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/12800.jpg)  
+Click to view](img/12800.jpg.md)  
 MEIFU, THE DARK TRIBUNAL.  
 (Reproduced from a colored Japanese illustration in *Karma*.)  
 </span>
 
 among, the evil spirits is mKha'sGroma, the Tibetan form of the Hindu
-Goddess Kali (see page [99](hod09.htm#page_99)), who is represented as a
+Goddess Kali (see page [99](hod09.htm#page_99).md), who is represented as a
 frightful monster with a leonine head,
 
 <span id="page_129">p. 129</span>
@@ -772,7 +772,7 @@ according to his deserts. If good deeds prevail, he is rewarded by being
 <span id="img_13000"></span> <span align="CENTER"> [![KONGO, THE
 SHERIFF.       EMMA, THE JUDGE.&lt;br&gt; Carved wood, Japanese.
 (Reproduced from a Japanese art print.)](tn/generic.jpg)  
-Click to view](img/13000.jpg)  
+Click to view](img/13000.jpg.md)  
 KONGO, THE SHERIFF.       EMMA, THE JUDGE.  
 Carved wood, Japanese. (Reproduced from a Japanese art print.)  
 </span>
@@ -794,7 +794,7 @@ thou alone must gather the fruit." (Devad. S.)</span>
 <span id="img_13100"></span> <span align="CENTER"> [![THE DEVIL AS A
 MONK.&lt;br&gt; Japanese wood carving of the seventeenth century. Musée
 Guimet.)](tn/generic.jpg)  
-Click to view](img/13100.jpg)  
+Click to view](img/13100.jpg.md)  
 THE DEVIL AS A MONK.  
 Japanese wood carving of the seventeenth century. Musée Guimet.)  
 </span>
@@ -817,7 +817,7 @@ In the later development of Northern Buddhism, all
 representing greed and hypocrisy. He goes about with a subscription list
 and a bowl, carried by his little assistant, to collect money.&lt;br&gt;
 (After a wood carving in the author's possession.)](tn/generic.jpg)  
-Click to view](img/13200.jpg)  
+Click to view](img/13200.jpg.md)  
 ONI-NO-NEMBUTZU.  
 The demon repeating Buddha's name, representing greed and hypocrisy. He
 goes about with a subscription list and a bowl, carried by his little
@@ -839,7 +839,7 @@ systematically arranged group of Buddha-incarnations. The
 
 <span id="img_13300"></span> <span align="CENTER"> [![HONO KURUMA, THE
 CART OF HELL, (After an old Japanese painting.)](tn/generic.jpg)  
-Click to view](img/13300.jpg)  
+Click to view](img/13300.jpg.md)  
 HONO KURUMA, THE CART OF HELL, (After an old Japanese painting.)  
 </span>
 
@@ -856,7 +856,7 @@ omnipresent and eternal, the light and life of the world, and the
 
 <span id="img_13400"></span> <span align="CENTER"> [![TIBETAN DEVIL'S
 ALTAR. (From Waddell.)](tn/generic.jpg)  
-Click to view](img/13400.jpg)  
+Click to view](img/13400.jpg.md)  
 TIBETAN DEVIL'S ALTAR. (From Waddell.)  
 </span>
 
@@ -901,7 +901,7 @@ HIS HELP TO A SUFFERER IN HELL.&lt;br&gt; The goodwill that a poor
 wretch had shown in his former life to a spider, his only good deed,
 serves him in hell as a means of escape. (Reproduced from a colored
 Japanese illustration in &lt;i&gt;Karma&lt;/i&gt;.)](tn/generic.jpg)  
-Click to view](img/13600.jpg)  
+Click to view](img/13600.jpg.md)  
 BUDDHA EXTENDING HIS HELP TO A SUFFERER IN HELL.  
 The goodwill that a poor wretch had shown in his former life to a
 spider, his only good deed, serves him in hell as a means of escape.
@@ -915,42 +915,42 @@ salvation.
 
 ### Footnotes
 
-<span id="fn_47"></span>[105:1](hod10.htm#fr_47) *Papiyan* means "more
+<span id="fn_47"></span>[105:1](hod10.htm#fr_47.md) *Papiyan* means "more
 or very wicked"; it is the comparative form of the Sanskrit, *papin*,
 wicked.
 
-<span id="fn_48"></span>[105:2](hod10.htm#fr_48) *Varsavarti* is
+<span id="fn_48"></span>[105:2](hod10.htm#fr_48.md) *Varsavarti* is
 Sanskrit. The Pali form is *Vasavatti*, derived from *vasa*, wish,
 desire. Childers explains the word as "bringing into subjection." Mara
 is also called Paranimmita Vasavatti, which means "bringing into
 subjection that which is created by others."
 
-<span id="fn_49"></span>[105:3](hod10.htm#fr_49) Pali, *tanha*;
+<span id="fn_49"></span>[105:3](hod10.htm#fr_49.md) Pali, *tanha*;
 Sanskrit, *trishna*.
 
-<span id="fn_50"></span>[108:1](hod10.htm#fr_50) Sacred Books of the
+<span id="fn_50"></span>[108:1](hod10.htm#fr_50.md) Sacred Books of the
 East, Vol. X., second part, pp. 69-71.
 
-<span id="fn_51"></span>[113:1](hod10.htm#fr_51) *Buddhistische Kunst in
+<span id="fn_51"></span>[113:1](hod10.htm#fr_51.md) *Buddhistische Kunst in
 Indien*. Berlin: Speman, p. 87.
 
-<span id="fn_52"></span>[116:1](hod10.htm#fr_52) The Visudhi Magga
+<span id="fn_52"></span>[116:1](hod10.htm#fr_52.md) The Visudhi Magga
 declares karma-existence is equivalent to existence.
 
-<span id="fn_53"></span>[116:2](hod10.htm#fr_53) Confection is a bad
+<span id="fn_53"></span>[116:2](hod10.htm#fr_53.md) Confection is a bad
 translation of formation or deed-form. See *The Dharma*, pp. 16-18.
 
-<span id="fn_54"></span>[120:1](hod10.htm#fr_54) Described by L. A.
+<span id="fn_54"></span>[120:1](hod10.htm#fr_54.md) Described by L. A.
 Waddell, M. B., M. R. A. S., in the *Journal of the Royal Asiatic
 Society*, April, 1894. Luxuriously reproduced in colors on Plate 8, Vol.
 I., of *The Paintings in the Buddhist Cave Temples of Ajanta*, by John
 Griffiths. London, Griggs, 1896.
 
-<span id="fn_55"></span>[120:2](hod10.htm#fr_55) The Tibetan and
+<span id="fn_55"></span>[120:2](hod10.htm#fr_55.md) The Tibetan and
 Japanese pictures are explained by Professor Bastian in his
 *Ethnologisches Bilderbuch*.
 
-<span id="fn_56"></span>[121:1](hod10.htm#fr_56) We must remember that
+<span id="fn_56"></span>[121:1](hod10.htm#fr_56.md) We must remember that
 in some parts of India the serpent is the symbol of perfection and
 wisdom,--a belief which was adopted by the Ophites, a gnostic sect that
 revered the snake of the. Garden of Eden as the instructor in the
@@ -958,4 +958,4 @@ knowledge of good and evil and the originator of science.
 
 ------------------------------------------------------------------------
 
-[Next: The Dawn of a New Era.](hod11)
+[Next: The Dawn of a New Era.](hod11.md)

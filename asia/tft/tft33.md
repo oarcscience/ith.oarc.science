@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tft32)  [Next](tft34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tft32)  [Next](tft34.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0025VKZPM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Tibetan Folk Tales*, by A.L. Shelton, \[1925\], at Intangible Textual
 Heritage
 
@@ -79,7 +79,7 @@ these beautiful ducks.
 <span id="img_12500"></span> <span align="CENTER"> [![A BIG DUCK, VERY
 DARK IN COLOR, FLYING OVER, STOPPED A MINUTE AND ASKED OF THE FROG HIS
 TROUBLE.](tn/12500.jpg)  
-Click to enlarge](img/12500.jpg)  
+Click to enlarge](img/12500.jpg.md)  
 A BIG DUCK, VERY DARK IN COLOR, FLYING OVER, STOPPED A MINUTE AND ASKED
 OF THE FROG HIS TROUBLE.  
 </span>
@@ -95,4 +95,4 @@ because of the beautiful yellow color, which is their sacred color.
 
 ------------------------------------------------------------------------
 
-[Next: Thirty-One: The Two Little Cats](tft34)
+[Next: Thirty-One: The Two Little Cats](tft34.md)

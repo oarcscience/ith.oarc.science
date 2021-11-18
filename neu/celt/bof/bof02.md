@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bof01)  [Next](bof03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bof01)  [Next](bof03.md) 
 
 ------------------------------------------------------------------------
 
@@ -506,4 +506,4 @@ O prithee, O prithee, no nearer to creep.
 
 ------------------------------------------------------------------------
 
-[Next: The Body of Man](bof03)
+[Next: The Body of Man](bof03.md)

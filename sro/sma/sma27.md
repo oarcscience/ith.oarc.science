@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma26)  [Next](sma28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma26)  [Next](sma28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -52,7 +52,7 @@ lieutenant in Westphalia. Each tribunal-lord had his peculiar district,
 within which he had the power of erecting tribunals, and beyond which
 his authority did not extend. He either presided in person in his court,
 or he appointed a count (*Freigraf*) to supply his place. The rights of
-a stuhlherr <span id="fr_118"></span>[\*](#fn_118) had some resemblance
+a stuhlherr <span id="fr_118"></span>[\*](#fn_118.md) had some resemblance
 to those of the owner of an advowson in this country. He had merely the
 power of nominating either himself or another person as count; the right
 to inflict capital punishment was to be conferred by the emperor or his
@@ -87,7 +87,7 @@ of there being as many as seven or eight. The count presided in the
 court, and the citations of the accused proceeded from him.
 
 Next to the count were the assessors or (*Schöppen*) <span
-id="fr_119"></span>[\*](#fn_119). These formed the main body and
+id="fr_119"></span>[\*](#fn_119.md). These formed the main body and
 strength of the society. They were nominated by the count with the
 approbation of the tribunal-lord. Two persons, who were already in the
 society, were obliged to vouch on oath for the fitness of the candidate
@@ -193,14 +193,14 @@ time.
 
 Besides the count and the assessors, there were required, for the due
 holding a Fehm-court, the officers named *Frohnboten* <span
-id="fr_120"></span>[\*](#fn_120), or serjeants, or messengers, and a
+id="fr_120"></span>[\*](#fn_120.md), or serjeants, or messengers, and a
 clerk to enter the decisions in what was called the blood-book (*Liber
 sanguinis*). These were, of course, initiated, or they could not be
 present. It was required that the messengers should be freemen belonging
 to the county, and have all the qualifications of the simple schöppen.
 Their duty was to attend on the court when sitting, and to take care
 that the ignorant, against whom there was any charge, were duly
-cited <span id="fr_121"></span>[†](#fn_121).
+cited <span id="fr_121"></span>[†](#fn_121.md).
 
 <span id="page_352">p. 352</span>
 
@@ -218,7 +218,7 @@ have been committed in the county.
 
 When the count held the Secret Court, the clergy, who had received the
 tonsure and ordination, women and children, Jews and Heathens <span
-id="fr_122"></span>[\*](#fn_122), and, as it would appear, the higher
+id="fr_122"></span>[\*](#fn_122.md), and, as it would appear, the higher
 nobility, were exempted from its jurisdiction. The clergy were exempted,
 probably, from prudential motives, as it was not deemed safe to irritate
 the members of so powerful a body, by encroaching on their privileges;
@@ -370,7 +370,7 @@ to appear before the court or vouchsafed a hearing. He was usually
 denounced by one of the initiated; the court then examined into the
 evidence of his guilt, and if it was found sufficient he was outlawed,
 or, as it was called, *forfehmed* <span
-id="fr_123"></span>[\*](#fn_123), and his name was inscribed in the
+id="fr_123"></span>[\*](#fn_123.md), and his name was inscribed in the
 blood-book. A sentence was immediately drawn out, in which all princes,
 lords, nobles, towns, every person, in short, especially the initiated,
 were called upon to lend their aid to justice. This sentence, of course,
@@ -464,33 +464,33 @@ initiated, such was his undoubted right and privilege in all cases.
 
 ### Footnotes
 
-<span id="fn_118"></span>[347:\*](sma27.htm#fr_118) *Stuhlherr* is
+<span id="fn_118"></span>[347:\*](sma27.htm#fr_118.md) *Stuhlherr* is
 *tribunal-lord*, or, literally, *lord of the seat* (of judgment);
 *stuhl* (*Anglice*, stool) being a seat, or chair.
 
-<span id="fn_119"></span>[348:\*](sma27.htm#fr_119) This word, which
+<span id="fn_119"></span>[348:\*](sma27.htm#fr_119.md) This word, which
 cannot be adequately translated, is the low-Latin *Scabini*, the French
 *Echevins*. We shall take the liberty of using it throughout. The
 schöppen were called frei-(*free*) schöppen, as the count was called
 *frei-graf*, the court *frei-stuhl*, on account of the jurisdiction of
 the tribunals being confined to freemen.
 
-<span id="fn_120"></span>[351:\*](sma27.htm#fr_120) *Frohnbote* is
+<span id="fn_120"></span>[351:\*](sma27.htm#fr_120.md) *Frohnbote* is
 interpreted a *Holy Messenger*, or a *Servant of God*.
 
-<span id="fn_121"></span>[351:†](sma27.htm#fr_121) When a person was
+<span id="fn_121"></span>[351:†](sma27.htm#fr_121.md) When a person was
 admitted into the society he paid, besides the fee to the count already
 mentioned, to each schöppe <span id="page_352">p. 352</span> who was
 assisting there, and to each frohnbote, four livres Tournois.
 
-<span id="fn_122"></span>[352:\*](sma27.htm#fr_122) The natives of
+<span id="fn_122"></span>[352:\*](sma27.htm#fr_122.md) The natives of
 Prussia were still heathens at that time.
 
-<span id="fn_123"></span>[357:\*](sma27.htm#fr_123) In German
+<span id="fn_123"></span>[357:\*](sma27.htm#fr_123.md) In German
 *Verfehmt*. We have ventured to coin the word in the text. The English
 *for* answers to the German *ver*; *vergessen* is *forget*; *verforen*
 is *forlorn*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](sma28)
+[Next: Chapter III](sma28.md)

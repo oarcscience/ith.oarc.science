@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)   
-[English](../gita/bg06)   
-[Previous](bgs05)  [Next](bgs07) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index.md)   
+[English](../gita/bg06.md)   
+[Previous](bgs05)  [Next](bgs07.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ yoginām api sarveṣāṃ madgatenāntarātmanā
 
 ------------------------------------------------------------------------
 
-[Next: VII. atha saptamodhyāyaḥ. (jñānavijñānayogaḥ)](bgs07)
+[Next: VII. atha saptamodhyāyaḥ. (jñānavijñānayogaḥ)](bgs07.md)

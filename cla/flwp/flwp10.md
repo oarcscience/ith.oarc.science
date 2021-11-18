@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp09)  [Next](flwp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp09)  [Next](flwp11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ not be immovable. Hence, if any thing is immovable, it will either never
 be an effector, or it will always be so; lest, in consequence of being
 effective at a certain time, it should be moved. So that if there is an
 immovable cause of a certain thing, and which neither never is not <span
-id="fr_28"></span>[\*](#fn_28) a cause, nor is a cause only at a certain
+id="fr_28"></span>[\*](#fn_28.md) a cause, nor is a cause only at a certain
 time, it will always be a cause. If, however, this be true, it will be
 the cause of that which is perpetual. If, therefore, the cause of the
 universe is immovable, (lest, being moved, he should be at first
@@ -61,10 +61,10 @@ alone is perpetual, is, in thus asserting, remarkably impious*.
 
 ### Footnotes
 
-<span id="fn_28"></span>[40:\*](flwp10.htm#fr_28) Ουκ is here
+<span id="fn_28"></span>[40:\*](flwp10.htm#fr_28.md) Ουκ is here
 erroneously omitted in the original, and appears also to have been
 omitted in the MS. from which Mahotius made his translation.
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Fifth](flwp11)
+[Next: Argument the Fifth](flwp11.md)

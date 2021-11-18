@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp44)  [Next](dmp46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp44)  [Next](dmp46.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ your phallus with it and lie with the woman.
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XIV](dmp46)
+[Next: Verso Col. XIV](dmp46.md)

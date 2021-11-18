@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc15)  [Next](esc17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc15)  [Next](esc17.md) 
 
 ------------------------------------------------------------------------
 
@@ -494,4 +494,4 @@ keep the commandments of God, and have the testimony of Jesus Christ." 
 
 ------------------------------------------------------------------------
 
-[Next: Lecture XV. The Seven Last Plagues, or Seven Vials](esc17)
+[Next: Lecture XV. The Seven Last Plagues, or Seven Vials](esc17.md)

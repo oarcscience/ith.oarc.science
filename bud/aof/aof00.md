@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Next](aof01) 
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Next](aof01.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: Note by Redactor](aof01)
+[Next: Note by Redactor](aof01.md)

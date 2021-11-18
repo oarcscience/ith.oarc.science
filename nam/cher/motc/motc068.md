@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc067) 
-[Next](motc069) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc067.md) 
+[Next](motc069.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ vomited the boy.
 
 ------------------------------------------------------------------------
 
-[Next: 69. Atagâ'hï, The Enchanted Lake](motc069)
+[Next: 69. Atagâ'hï, The Enchanted Lake](motc069.md)

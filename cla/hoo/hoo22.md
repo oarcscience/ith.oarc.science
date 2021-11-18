@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo21)  [Next](hoo23) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo21)  [Next](hoo23.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,10 +12,10 @@ Are fix'd beneath the firm and solid ground,
 In the Tartarian plains remote from fight,  
 And wrapt forever in the depths of night;  
 Terrestrial Jove, thy sacred ear incline, 5  <span
-id="fr_77"></span>[5](#fn_77)  
+id="fr_77"></span>[5](#fn_77.md)  
 And, pleas'd, accept thy mystic's hymn divine.  
 Earth's keys to thee, illustrious king belong,  <span
-id="fr_78"></span>[7](#fn_78)  
+id="fr_78"></span>[7](#fn_78.md)  
 Its secret gates unlocking, deep and strong.  
 'Tis thine, abundant annual fruits to bear,  
 For needy mortals are thy constant care. 10
@@ -51,16 +51,16 @@ Rejoicing come, for holy rites are thine.
 
 ### Footnotes
 
-<span id="fn_77"></span>[142:5](hoo22.htm#fr_77) Ver. 5.\] *Terrestrial
+<span id="fn_77"></span>[142:5](hoo22.htm#fr_77.md) Ver. 5.\] *Terrestrial
 Jove*, Pluto, says Proclus in Theol. Plat. p. 368. is called terrestrial
 Jupiter, because he governs by his providence the earth, and all she
 contains.
 
-<span id="fn_78"></span>[142:7](hoo22.htm#fr_78) Ver. 7.\] *Earth's
+<span id="fn_78"></span>[142:7](hoo22.htm#fr_78.md) Ver. 7.\] *Earth's
 keys*. Pausanias informs us, that Pluto is reported to have keys, as an
 illustrious distinction; in the same manner as a sceptre is attributed
 to Jupiter, and a trident to Neptune.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII: To Thundring Jove](hoo23)
+[Next: XVIII: To Thundring Jove](hoo23.md)

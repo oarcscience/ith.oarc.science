@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng30)  [Next](nblng32) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng30)  [Next](nblng32.md) 
 
 ------------------------------------------------------------------------
 
@@ -227,4 +227,4 @@ is a beverage composed of honey flavored with mulberry-juice.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXX: How They Kept The Watch.](nblng32)
+[Next: Adventure XXX: How They Kept The Watch.](nblng32.md)

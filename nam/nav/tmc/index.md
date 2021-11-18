@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Navajo](../index) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Navajo](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ American](../../index)  [Navajo](../index) 
 </tbody>
 </table>
 
-[System of transliteration.](xlit)
+[System of transliteration.](xlit.md)
 
 ------------------------------------------------------------------------
 
@@ -28,21 +28,21 @@ centers around a recitation of a cycle of myths about a Navajo culture
 hero, Dsilyídje Qaçàl. His journey takes him to the land of the gods and
 goddesses, where he learns powerful magic. The narrative is compelling
 and compares well with the Homeric
-[Odyssey](../../../cla/homer/ody/index), which it resembles both
+[Odyssey](../../../cla/homer/ody/index.md), which it resembles both
 thematically and stylistically. The ceremony incorporates dance, song,
 prayer, sand-painting, drama, sculpture, conjuring, and even a bit of
 farce. Of note are the beautiful plates of [the ephemeral
-sand-paintings](tmc04).
+sand-paintings](tmc04.md).
 
 ------------------------------------------------------------------------
 
-[Title Page](tmc00)  
-[Introduction.](tmc01)  
-[Myth of the Origin of Dsilyídje Qaçàl.](tmc02)  
-[The Ceremonies of Dsilyídje Qaçàl.](tmc03)  
-[The Great Pictures of Dsilyídje Qaçàl.](tmc04)  
-[Sacrifices of Dsilyídje Qaçàl.](tmc05)  
-[Original Texts and Translations of Songs.](tmc06)  
-[Other Songs and Extracts.](tmc07)  
+[Title Page](tmc00.md)  
+[Introduction.](tmc01.md)  
+[Myth of the Origin of Dsilyídje Qaçàl.](tmc02.md)  
+[The Ceremonies of Dsilyídje Qaçàl.](tmc03.md)  
+[The Great Pictures of Dsilyídje Qaçàl.](tmc04.md)  
+[Sacrifices of Dsilyídje Qaçàl.](tmc05.md)  
+[Original Texts and Translations of Songs.](tmc06.md)  
+[Other Songs and Extracts.](tmc07.md)  
 [Addendum: The Suppressed Sections from the 1884 Edition of the Mountain
-Chant](tmc08)  
+Chant](tmc08.md)  

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr15)  [Next](wnr17) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr15)  [Next](wnr17.md) 
 
 ------------------------------------------------------------------------
 
@@ -413,4 +413,4 @@ race that is morally and spiritually free.
 
 ------------------------------------------------------------------------
 
-[Next: XV. Legislating Woman's Morals](wnr17)
+[Next: XV. Legislating Woman's Morals](wnr17.md)

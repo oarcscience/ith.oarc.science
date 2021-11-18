@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc17) 
-[Next](dsc19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](dsc17.md) 
+[Next](dsc19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Yoga Lessons for Developing Spiritual Consciousness*, by A.P. Mukerji,
 \[1911\], at Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406777439/internetsacredte)
 
 The right exercise of thought-power is an act of creation. "Each thought
 is a soul," says Lytton. "What you think that you are, what you shall
-think that you shall be," are the words of [Buddha](errata.htm#24). "We
+think that you shall be," are the words of [Buddha](errata.htm#24.md). "We
 live in that state of development our thoughts create for us." "A drop
 of ink makes millions think"—and one might pile one saying above another
 to the same effect.
@@ -89,7 +89,7 @@ not be trodden.
 
 The law of action and reaction holds good everywhere. Between man and
 man, between brain and body, between the physical and
-[supra-physical](errata.htm#25), between atom and atom, a constant
+[supra-physical](errata.htm#25.md), between atom and atom, a constant
 interaction of energies is in full swing. Nothing goes out from us but
 must complete the circuit of its influence and come back to us. From
 within, outwards and then back again—that is the law of "Shristi:"
@@ -138,7 +138,7 @@ and generally all over the system.
 
 The nervo-vital force, the psychoplasm, as some have wisely termed it,
 is in a state of exchange between the brain and the body. Each thought
-is of [atomic](errata.htm#26) origin, otherwise its transmission through
+is of [atomic](errata.htm#26.md) origin, otherwise its transmission through
 the ether would be quite impossible. Each atom draws upon another atom
 for momentum, and therefore the energy of thought-atoms is vibrant in
 its nature. The finer the atoms which go to compose a thought, the more
@@ -172,7 +172,7 @@ is hardly fit for employment in lofty thought and the spiritual
 evocator—he who calls the sacred spirits of the finer planes—sits stark
 naked and specially purifies his body that nothing impure should cling
 to him within or outside, lest he should, by the coarsened nature of his
-body or garment attract [maleficent](errata.htm#27) beings to himself.
+body or garment attract [maleficent](errata.htm#27.md) beings to himself.
 The mind cannot be tampered with without injury to the body and vice
 versa. Remember your entire physical organ is a thought-form, coarse or
 fine according to the quality of your thoughts.
@@ -356,4 +356,4 @@ the world.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVII. Meditation Exercise](dsc19)
+[Next: Chapter XVII. Meditation Exercise](dsc19.md)

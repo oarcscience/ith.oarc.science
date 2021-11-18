@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi060)  [Next](mtsi062) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi060)  [Next](mtsi062.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ triumph.
 
 ------------------------------------------------------------------------
 
-[Next: 60. Terrapin Races (Fifth Version)](mtsi062)
+[Next: 60. Terrapin Races (Fifth Version)](mtsi062.md)

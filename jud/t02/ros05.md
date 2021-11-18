@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](ros04)  [Next](ros06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](ros04)  [Next](ros06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -212,7 +212,7 @@ is invalid, but if crosswise, yet enough remained with which to produce
 the sound, it is valid, but if not it is invalid. (And how much is that?
 R . Simeon b. Gamaliel explains it to be as much as we may hold in our
 closed hand, and yet on either side a portion is visible). <span
-id="fr_53"></span>[1](#fn_51) If its tone was thin, or heavy, or harsh,
+id="fr_53"></span>[1](#fn_51.md) If its tone was thin, or heavy, or harsh,
 it is valid, for all tones were considered proper in a cornet. The
 schoolmen sent a message to the father of Samuel: ("One has fulfilled
 his duty if he bored a hole in a horn and blew it. That is self-evident!
@@ -414,7 +414,7 @@ nevertheless, act for others.
 
 ### Footnotes
 
-<span id="fn_51"></span>[55:1](ros05.htm#fr_53) The opinion of the
+<span id="fn_51"></span>[55:1](ros05.htm#fr_53.md) The opinion of the
 editor is that this parenthesis is a fair illustration of the
 interpolations in the Talmud. The term *Piresh* is not Talmudical and
 was only used in later times. It has only been left here because the
@@ -422,4 +422,4 @@ explanation happens to be correct.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV.](ros06)
+[Next: Chapter IV.](ros06.md)

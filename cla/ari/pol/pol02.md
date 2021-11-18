@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](pol01)  [Next](pol03) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](pol01)  [Next](pol03.md) 
 
 ------------------------------------------------------------------------
 
@@ -1228,4 +1228,4 @@ which either actually exist, or have been devised by theorists.
 
 ------------------------------------------------------------------------
 
-[Next: Book III](pol03)
+[Next: Book III](pol03.md)

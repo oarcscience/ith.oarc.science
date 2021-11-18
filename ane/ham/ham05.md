@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](ham04)  [Next](ham06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](ham04)  [Next](ham06.md) 
 
 ------------------------------------------------------------------------
 
@@ -302,4 +302,4 @@ thirty-four paragraphs.\]
 
 ------------------------------------------------------------------------
 
-[Next: Paragraphs 100-199](ham06)
+[Next: Paragraphs 100-199](ham06.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](tpk13)  [Next](tpk15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](tpk13)  [Next](tpk15.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ them, we wash our hands of them for life.
 
 ------------------------------------------------------------------------
 
-[Next: The First and the Last](tpk15)
+[Next: The First and the Last](tpk15.md)

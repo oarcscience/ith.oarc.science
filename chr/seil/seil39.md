@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil38)  [Next](seil40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil38)  [Next](seil40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 **Note**. It is to be noted in all the following Mysteries, that all the
 words which are inclosed in parentheses <span
-id="fr_22"></span>[23](seil83.htm#fn_22) are from the Gospel itself and
+id="fr_22"></span>[23](seil83.htm#fn_22.md) are from the Gospel itself and
 not those which are outside.
 
 And in each Mystery, for the most part, three Points will be found to
@@ -44,4 +44,4 @@ handmaid of the Lord: be it done to me according to thy word!'"
 
 ------------------------------------------------------------------------
 
-[Next: The Visitation of Our Lady to Elizabeth](seil40)
+[Next: The Visitation of Our Lady to Elizabeth](seil40.md)

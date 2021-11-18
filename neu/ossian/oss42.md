@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss41)  [Next](oss43) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss41)  [Next](oss43.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ them with joy! and lay my aged limbs in the narrow house!
 
 ------------------------------------------------------------------------
 
-[Next: Berrathon](oss43)
+[Next: Berrathon](oss43.md)

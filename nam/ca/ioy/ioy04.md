@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](ioy03)  [Next](ioy05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](ioy03)  [Next](ioy05.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ defeated, and, as a result, nearly exterminated.
 ### ORIGIN OF THE YOSEMITE INDIANS.
 
 According to statements made by Teneiya (*Ten-eye'-ya* <span
-id="fr_0"></span>[1](#fn_0)) chief of the Yosemites, to Dr. L. H.
+id="fr_0"></span>[1](#fn_0).md) chief of the Yosemites, to Dr. L. H.
 Bunnell, and published by him in his book on the "Discovery of the
 Yosemite," the original Indian name of the Valley was Ah-wah'-nee, which
 has been translated as "deep grassy valley," and the Indians living
@@ -52,7 +52,7 @@ who claimed to be descended from an Ah-wah-nee'-chee
 <span id="img_00300"></span>
 
 [![YOSEMITE FALLS (CHO'-LACK),&lt;BR&gt; 2,634 Feet.](tn/00300.jpg)  
-Click to enlarge](img/00300.jpg)  
+Click to enlarge](img/00300.jpg.md)  
 YOSEMITE FALLS (CHO'-LACK),  
 2,634 Feet.  
 
@@ -159,7 +159,7 @@ other
 
 [![AN INDIAN DANCER.&lt;BR&gt; Chow-chil-la Indian in full war-dance
 costume.](tn/00800.jpg)  
-Click to enlarge](img/00800.jpg)  
+Click to enlarge](img/00800.jpg.md)  
 AN INDIAN DANCER.  
 Chow-chil-la Indian in full war-dance costume.  
 
@@ -264,7 +264,7 @@ Canyon have appropriately been named.
 <span id="img_01300"></span>
 
 [![THREE BROTHERS (WAW-HAW'-KEE),&lt;BR&gt; 3,900 Feet.](tn/01300.jpg)  
-Click to enlarge](img/01300.jpg)  
+Click to enlarge](img/01300.jpg.md)  
 THREE BROTHERS (WAW-HAW'-KEE),  
 3,900 Feet.  
 
@@ -278,7 +278,7 @@ means "Falling Rocks."
 
 ### Footnotes
 
-<span id="fn_0"></span>[2:1](ioy04.htm#fr_0) The Indian names are
+<span id="fn_0"></span>[2:1](ioy04.htm#fr_0.md) The Indian names are
 usually pronounced exactly as spelled, with each syllable distinctly
 sounded, and the principal accent on the penult, as in Ah-*wah*'-nee, or
 the antepenult, as in Yo-*sem*'-i-te. Where doubt might exist, the
@@ -286,4 +286,4 @@ accent will be indicated, or the pronunciation given in parenthesis.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Two: Effects of the War.](ioy05)
+[Next: Chapter Two: Effects of the War.](ioy05.md)

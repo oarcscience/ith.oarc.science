@@ -1,8 +1,8 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)   
-[1st ed.](..\ltw\tao04)   
-[Previous](tao03)  [Next](tao05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index.md)   
+[1st ed.](..\ltw\tao04.md)   
+[Previous](tao03)  [Next](tao05.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,4 +25,4 @@ our ancestor except the perfect Father, the Great TAO.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](tao05)
+[Next: Chapter 5](tao05.md)

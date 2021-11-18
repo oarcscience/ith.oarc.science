@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj48)  [Next](atfj50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj48)  [Next](atfj50.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,14 +18,14 @@
 
 <span id="img_53"></span> <span align="CENTER"> [![53. The Girl brings
 the Kakemono to Kihachi's Shop in the Middle of the Night](tn/53.jpg)  
-Click to enlarge](img/53.jpg)  
+Click to enlarge](img/53.jpg.md)  
 53. The Girl brings the Kakemono to Kihachi's Shop in the Middle of the
 Night  
 </span>
 
 ### XLVII
 
-### THE MEMORIAL CHERRY TREE <span id="fr_44"></span>[1](#fn_44)
+### THE MEMORIAL CHERRY TREE <span id="fr_44"></span>[1](#fn_44.md)
 
 IN the compound or enclosure of the temple called Bukoji, at Takatsuji
 (high cross street), formerly called Yabugashita, which means 'under the
@@ -100,7 +100,7 @@ not wishing to get out of his warm bed, shouted: 'Who are you? Come back
 in the morning. I do not feel well enough to get up to-night.'
 
 'But you must—you must get up! I am sent to sell you a good
-kakemono,' <span id="fr_45"></span>[1](#fn_45) called the voice of a
+kakemono,' <span id="fr_45"></span>[1](#fn_45.md) called the voice of a
 young girl, so sweetly and entreatingly that the old curio-dealer got
 up, and after much fumbling with his numbed fingers opened the door.
 
@@ -157,7 +157,7 @@ Toba, where he asked to see Matsui. He was ushered ceremoniously into
 his room. The invalid was better; but on being handed the kakemono with
 the figure of a lady painted on it he turned pale, tore it to fragments,
 and threw it into the temple fire ('irori' <span
-id="fr_46"></span>[1](#fn_46)); after which he jumped in with his
+id="fr_46"></span>[1](#fn_46).md); after which he jumped in with his
 daughter himself, and both were burned to death.
 
 Kihachi was sick for many days after this sight. The story soon spread
@@ -179,14 +179,14 @@ this day.
 
 ### Footnotes
 
-<span id="fn_44"></span>[297:1](atfj49.htm#fr_44) This story begins on
+<span id="fn_44"></span>[297:1](atfj49.htm#fr_44.md) This story begins on
 the 57th of February in the second year of Kenkyu. As the first year of
 Kenkyu was in 1190 and the last in 1599, the precise date is February
 17, 1192.
 
-<span id="fn_45"></span>[299:1](atfj49.htm#fr_45) Picture.
+<span id="fn_45"></span>[299:1](atfj49.htm#fr_45.md) Picture.
 
-<span id="fn_46"></span>[301:1](atfj49.htm#fr_46) The story says
+<span id="fn_46"></span>[301:1](atfj49.htm#fr_46.md) The story says
 'furnace'; but, unless cremation went on in those days, it must have
 been the 'irori' (open floor fire) or else (if a Shinto temple) an
 open-air bonfire, which is lit on certain days.
@@ -195,6 +195,6 @@ open-air bonfire, which is lit on certain days.
 
 ------------------------------------------------------------------------
 
-[Next: XLVIII. The 'Jirohei' Cherry Tree, Kyoto](atfj50)
+[Next: XLVIII. The 'Jirohei' Cherry Tree, Kyoto](atfj50.md)
 
 </div>

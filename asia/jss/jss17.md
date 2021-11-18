@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](jss16)  [Next](jss18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](jss16)  [Next](jss18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029XG0XM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Journey in Southern Siberia*, by Jeremiah Curtin, \[1909\], at
 Intangible Textual Heritage
 
@@ -406,11 +406,11 @@ with their hands, and from each other's breasts with their teeth.
 
 <span id="img_14200"></span> <span align="CENTER"> [![VASSYA, HIS
 FATHER, AND MR. CURTIN.](tn/14200.jpg)  
-Click to enlarge](img/14200.jpg)  
+Click to enlarge](img/14200.jpg.md)  
 VASSYA, HIS FATHER, AND MR. CURTIN.  
 </span>
 
-*Page* [33](jss06.htm#page_33)
+*Page* [33](jss06.htm#page_33.md)
 
  
 
@@ -595,7 +595,7 @@ Mangathai. "I must sleep now," said he to Sangha
 
 <span class="contnote">\[paragraph continues\]</span> Gohun. "I must
 sleep for nine days and nine nights. Watch, sleep not, waken me as
-before." <span id="fr_2"></span>[1](#fn_2)
+before." <span id="fr_2"></span>[1](#fn_2.md)
 
 Gesir had slept three days and three nights when a seventy-seven headed
 Mangathai came. He was more cautious at first than any of the others,
@@ -1128,21 +1128,21 @@ Three days later the people came. When they appeared Gesir
 
 <span id="img_15800"></span> <span align="CENTER"> [![DRYING FUEL—COW
 DROPPINGS—ISLAND OF OLKHON.](tn/15800.jpg)  
-Click to enlarge](img/15800.jpg)  
+Click to enlarge](img/15800.jpg.md)  
 DRYING FUEL—COW DROPPINGS—ISLAND OF OLKHON.  
 </span>
 
-*Page* [74](jss10.htm#page_74)
+*Page* [74](jss10.htm#page_74.md)
 
 <span id="img_15801"></span> <span align="CENTER"> [![CHURCH NEAR A POST
 STATION ON THE ROAD TO LAKE BAIKAL.](tn/15801.jpg)  
-Click to enlarge](img/15801.jpg)  
+Click to enlarge](img/15801.jpg.md)  
 CHURCH NEAR A POST STATION ON THE ROAD TO LAKE BAIKAL.  
 </span>
 
 The place which I called "Ragats"
 
-*Page* [68](jss09.htm#page_68)
+*Page* [68](jss09.htm#page_68.md)
 
  
 
@@ -1333,11 +1333,11 @@ ready to help thee, but I am old enough to look for a bride."
 
 ### Footnotes
 
-<span id="fn_2"></span>[147:1](jss17.htm#fr_2) Here the storyteller
+<span id="fn_2"></span>[147:1](jss17.htm#fr_2.md) Here the storyteller
 said: "The story of Gesir Bogdo is the father of the world of stories.
 It is not as beautiful as some, but it is the greatest of all, and is
 true."
 
 ------------------------------------------------------------------------
 
-[Next: The Iron Hero](jss18)
+[Next: The Iron Hero](jss18.md)

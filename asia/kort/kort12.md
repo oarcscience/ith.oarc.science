@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](kort11)  [Next](kort13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](kort11)  [Next](kort13.md) 
 
 ------------------------------------------------------------------------
 
-# 8. Eme'mqut and Ila'. <span id="fr_23"></span>[1](#fn_23)
+# 8. Eme'mqut and Ila'. <span id="fr_23"></span>[1](#fn_23.md)
 
 Big-Raven was living with his people. Eme'mqut (his son) had no wife.
 Eme'mqut went out, and found outside an old man who was (busy) making
@@ -57,9 +57,9 @@ tobacco-mortars. That is all.
 
 ### Footnotes
 
-<span id="fn_23"></span>[50:1](kort12.htm#fr_23) Compare W. Jochelson,
+<span id="fn_23"></span>[50:1](kort12.htm#fr_23.md) Compare W. Jochelson,
 The Koryak, *l. c.*, No. 101, p. 289.
 
 ------------------------------------------------------------------------
 
-[Next: 9. How Eme'mqut became a Cannibal](kort13)
+[Next: 9. How Eme'mqut became a Cannibal](kort13.md)

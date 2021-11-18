@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mormonism](../index) 
-[Index](index)  [Previous](hou08)  [Next](hou10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mormonism](../index.md) 
+[Index](index)  [Previous](hou08)  [Next](hou10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE8AA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *History of Utah, 1540-1886*, by Hubert Howe Bancroft, \[1889\], at
 Intangible Textual Heritage
 
@@ -31,7 +31,7 @@ Mormons.</span></span>
 
     <span class="smallcaps">To</span> the saints it is indeed a place of
 refuge, the city of Nauvoo, the Holy City, the City of Joseph. <span
-id="fr_169"></span>[1](#fn_169) It stands on rolling land, covering a
+id="fr_169"></span>[1](#fn_169.md) It stands on rolling land, covering a
 bed of limestone yielding excellent building material, and bordered on
 three sides by the river which here makes a majestic curve, and is
 nearly two miles in width. The aborigines were not indifferent to the
@@ -40,26 +40,26 @@ area it is three miles by four. The city is regularly laid out in
 streets at right angles, of convenient width, along which are scattered
 neat, whitewashed log cabins, also frame, brick, and stone houses, with
 grounds and gardens. It is incorporated by charter, <span
-id="fr_170"></span>[2](#fn_170) and contains the best institutions of
+id="fr_170"></span>[2](#fn_170.md) and contains the best institutions of
 the latest civilization; in the
 
 <span id="page_144">p. 144</span>
 
 country are hundreds of tributary farms and plantations. The population
 is from seven to fifteen thousand, varying with the ebb and flow of new
-converts and new colonizations. <span id="fr_171"></span>[3](#fn_171)
+converts and new colonizations. <span id="fr_171"></span>[3](#fn_171.md)
 
     Conspicuous among the buildings, and chief architectural feature of
 the holy city, is the temple, glistening in white limestone upon the
 hill-top, a shrine in the western wilderness whereat all the nations of
 the earth may worship, whereat all the people may inquire of God and
-receive his holy oracles. <span id="fr_172"></span>[4](#fn_172) Next in
+receive his holy oracles. <span id="fr_172"></span>[4](#fn_172.md) Next in
 
 <span id="page_145">p. 145</span>
 
 the City of Joseph in prominence and importance is the house of Joseph,
 hotel and residence, called the Nauvoo House, <span
-id="fr_173"></span>[5](#fn_173) which is to the material man as the
+id="fr_173"></span>[5](#fn_173.md) which is to the material man as the
 
 <span id="page_146">p. 146</span>
 
@@ -79,7 +79,7 @@ achieved it; professor of languages, Orson Spencer, graduate of Union
 College and the Baptist Theological Seminary, New York; professor of
 church history, Sidney Rigdon, versed in history, belles-lettres, and
 oratory. In the board of regents we find the leading men of the
-church; <span id="fr_174"></span>[6](#fn_174) connected with the
+church; <span id="fr_174"></span>[6](#fn_174.md) connected with the
 university were four common-school wards, with three wardens to each.
 
     In 1840 all the male members of the church between the ages of
@@ -88,7 +88,7 @@ Nauvoo Legion, which eventually numbered some four thousand men, and
 constituted part of the state militia. It was divided into two cohorts,
 and then into regiments, battalions, and companies, Lieutenant-general
 Joseph Smith being commander-in-chief. <span
-id="fr_175"></span>[7](#fn_175) The organization
+id="fr_175"></span>[7](#fn_175.md) The organization
 
 <span id="page_147">p. 147</span>
 
@@ -111,7 +111,7 @@ population is made up chiefly from the farming districts of the United
 States and the manufacturing districts of England; though uneducated,
 unpolished, and superstitious, they are for the most part intelligent,
 industrious, competent, honest, and sincere. <span
-id="fr_176"></span>[8](#fn_176) With a shrewd head to direct,
+id="fr_176"></span>[8](#fn_176.md) With a shrewd head to direct,
 
 <span id="page_148">p. 148</span>
 
@@ -129,7 +129,7 @@ saint. Nauvoo, the beautiful indeed! And "as to the facilities,
 tranquillities, and virtues of the city, they are not equalled on the
 globe." Here the saints find rest. "No vice is meant to be tolerated; no
 grog-shops allowed; nor would we have any trouble, if it were not for
-our lenity in suffering the world, <span id="fr_177"></span>[9](#fn_177)
+our lenity in suffering the world, <span id="fr_177"></span>[9](#fn_177.md)
 as I shall call them, to come in and trade, and
 
 <span id="page_149">p. 149</span>
@@ -139,7 +139,7 @@ people, writes a gentile. "Peace and harmony reign in the city. The
 drunkard is scarcely ever seen, as in other cities, neither does the
 awful imprecation or profane oath strike upon your ear; but while all is
 storm and tempest and confusion abroad respecting the Mormons, all is
-peace and harmony at horne." <span id="fr_178"></span>[10](#fn_178)
+peace and harmony at horne." <span id="fr_178"></span>[10](#fn_178.md)
 
     About this time there comes to Joseph Smith a somewhat, singular
 individual making somewhat singular advances. He is a yankee huckster of
@@ -162,7 +162,7 @@ mention his functions as attorney, doctor, and privy counsellor. All
 this is done with quick despatch; and the result is that the great man
 soon tires of his greatness, or thinks to become yet greater by turning
 renegade, and writing a book against his late friends and
-associates. <span id="fr_179"></span>[11](#fn_179)
+associates. <span id="fr_179"></span>[11](#fn_179.md)
 
 <span id="page_151">p. 151</span>
 
@@ -178,7 +178,7 @@ also called general, whom Mackay, Smucker, a reviewer in the
 
 mistaken for the original. The quality of impudence appears as fully in
 the second Bennett as in the first. <span
-id="fr_180"></span>[12](#fn_180)
+id="fr_180"></span>[12](#fn_180.md)
 
  
 
@@ -188,11 +188,11 @@ all; in that case the others helped them. Old scores were
 
 <span id="page_154">p. 154</span>
 
-cancelled, old debts forgiven. <span id="fr_181"></span>[13](#fn_181)
+cancelled, old debts forgiven. <span id="fr_181"></span>[13](#fn_181.md)
 There were no great riches among them; yet he who had nothing could not
 be called poor amid such surroundings. Head over all, temporal and
 spiritual, was Joseph Smith, not only prophet and president, but general
-and mayor. <span id="fr_182"></span>[14](#fn_182) He had now approached
+and mayor. <span id="fr_182"></span>[14](#fn_182.md) He had now approached
 the summit of his career, and for a brief space was permitted to enjoy
 his fame, wealth, and power in some degree of quiet.
 
@@ -234,7 +234,7 @@ and kicked, revelations becoming less frequent as the cares of this
 world, the lusts of the flesh, and the pride of life crept in among the
 people.
 
-    The city charter of Nauvoo <span id="fr_183"></span>[15](#fn_183)
+    The city charter of Nauvoo <span id="fr_183"></span>[15](#fn_183.md)
 allowed the enactment of any laws not in conflict with those of the
 State or of the United States, and particularly that a writ of *habeas
 corpus* might be issued in all cases arising under city ordinance. In
@@ -250,12 +250,12 @@ fearful of the prosperity of the saints, and of their political
 influence; there were angry words and bickerings between the opposing
 societies, and then blows. The old Missouri feud was kept alive by suits
 instituted against Smith and others. <span
-id="fr_184"></span>[16](#fn_184) All attempt made to assassinate
+id="fr_184"></span>[16](#fn_184.md) All attempt made to assassinate
 Governor Boggs was, of course, charged to the Mormons, and probably with
 truth. In fact, if we may believe their enemies, they did not deny it.
 Boggs had unlawfully ordered all the Mormons in Missouri killed if they
 did not leave the state: why had not they the same right, they argued,
-to break the law and kill him? <span id="fr_185"></span>[17](#fn_185)
+to break the law and kill him? <span id="fr_185"></span>[17](#fn_185.md)
 
     Among the reports circulated, besides those of assassination and
 attempted assassination, the following will serve as specimens: That the
@@ -451,11 +451,11 @@ explanation of the matter.
 
     Thus came to the saints the doctrine of polygamy, first to the
 leaders and for a time kept secret, and finally to the whole church, as
-one of its most prominent tenets. <span id="fr_186"></span>[18](#fn_186)
+one of its most prominent tenets. <span id="fr_186"></span>[18](#fn_186.md)
 For years it was known only to a few, and it was not formally
 promulgated until after the great exodus, when the church had become
 well established in the valleys of the Yutas. <span
-id="fr_187"></span>[19](#fn_187)
+id="fr_187"></span>[19](#fn_187.md)
 
     There were several reasons for adopting this course. First, the hate
 and obloquy which would be engendered by its publication, and the
@@ -472,7 +472,7 @@ the church might thereby be broken up. If it must needs be, then let
 discretion be used. Let the matter be broken to the church as it is able
 to receive it; let the system be introduced gradually, and practised
 secretly; by the chief men at first, and later by all. <span
-id="fr_188"></span>[20](#fn_188)
+id="fr_188"></span>[20](#fn_188.md)
 
     It was indeed a heavy load that the saints thus took upon
 themselves, willingly or unwillingly, in the service of God or in the
@@ -597,7 +597,7 @@ Joseph Smith. "Inasmuch as this Church of Christ has been reproached
 with the crime of fornication and polygamy, we declare that we believe
 that one man should have one wife, and one woman but one husband, except
 in case of death, when either is at liberty to marry again." <span
-id="fr_189"></span>[21](#fn_189) In the *Times and Seasons* of February
+id="fr_189"></span>[21](#fn_189.md) In the *Times and Seasons* of February
 1, 1844, we have a notice signed by Joseph and Hyrum Smith: "As we have
 lately been credibly informed that an elder of the Church of Jesus
 Christ of Latter-day Saints, by the name of Hiram Brown, has been
@@ -607,7 +607,7 @@ general that he has been cut of from the church for his iniquity."
 
     Notwithstanding these solemn denials and denunciations in high
 places, the revelation and the practices which it sanctioned were not
-easily concealed. <span id="fr_190"></span>[22](#fn_190) As yet,
+easily concealed. <span id="fr_190"></span>[22](#fn_190.md) As yet,
 however, the calumny of the gentiles and the bickering of the saints
 vexed not the soul of Joseph. He was now in the zenith of his fame and
 power; his followers in Europe and America numbered
@@ -629,7 +629,7 @@ be in earnest. Addressing letters to Clay and Calhoun, near the close of
 1843, he asked each of them what would be his rule of action toward the
 Mormons as a people should he be elected to the presidency. The reply in
 both cases was non-committal and unsatisfactory; <span
-id="fr_191"></span>[23](#fn_191) whereupon Joseph issues an address
+id="fr_191"></span>[23](#fn_191.md) whereupon Joseph issues an address
 setting forth his views on the government and policy of the United
 States, and foreshadows his own policy, in which we find many excellent
 features and many absurdities. "No honest man can doubt. for a moment,"
@@ -639,14 +639,14 @@ people. Speculators will urge a national bank as a savior of credit and
 comfort. A hireling pseudo-priesthood will plausibly push abolition
 doctrines and doings and 'human rights' into congress, and into every
 other place where conquest smells of fame or opposition swells to
-popularity." <span id="fr_192"></span>[24](#fn_192)
+popularity." <span id="fr_192"></span>[24](#fn_192.md)
 
 <span id="page_169">p. 169</span>
 
     The aspirations of the prophet, pretended or otherwise, to the
 highest office in the republic, together with renewed, and at this
 juncture exceedingly dangerous, claims, pointing toward almost universal
-empire, <span id="fr_193"></span>[25](#fn_193) brought upon him afresh
+empire, <span id="fr_193"></span>[25](#fn_193.md) brought upon him afresh
 the rage of the surrounding gentile populace, and resulted in an awful
 tragedy, the circumstances of which I am now about to relate. "The great
 cause of popular fury," writes Governor Ford shortly after the
@@ -677,7 +677,7 @@ years.
 
     Early in June 1844 was issued the first number of the *Nauvoo
 Expositor*, the publishers being apostate Mormons and gentiles. <span
-id="fr_194"></span>[26](#fn_194) The primary object of the publication
+id="fr_194"></span>[26](#fn_194.md) The primary object of the publication
 was to stir up strife in the church, and aid its enemies in their work
 of attempted extermination. Its columns were at once filled with foul
 abuse of the prophet and certain elders of the church, assailing their
@@ -692,7 +692,7 @@ premises, and destroyed
 <span id="page_171">p. 171</span>
 
 the establishment, tearing down the presses and throwing the type into
-the street. <span id="fr_195"></span>[27](#fn_195) For this act the
+the street. <span id="fr_195"></span>[27](#fn_195.md) For this act the
 proprietors obtained from the authorities of the town of Carthage, some
 twenty miles distant, a warrant for the arrest of Joseph Smith, which
 was placed in the hands of the Carthage constable to be served.
@@ -716,7 +716,7 @@ demonstrative in their wrath, the town prepared for defence, the Nauvoo
 Legion being called out and placed under arms, by instructions from
 Governor Ford to Joseph Smith, as general in command. This gave rise to
 a report that they were about to make a raid on the neighboring gentile
-settlements. <span id="fr_196"></span>[28](#fn_196)
+settlements. <span id="fr_196"></span>[28](#fn_196.md)
 
 <span id="page_172">p. 172</span>
 
@@ -827,7 +827,7 @@ and fifty stand of arms belonging to the state, the possession of which
 gave offence to the gentiles, he demanded a surrender of the state arms,
 again promising protection.
 
-    On the 24th of June <span id="fr_197"></span>[29](#fn_197) Joseph
+    On the 24th of June <span id="fr_197"></span>[29](#fn_197.md) Joseph
 and Hyrum Smith, the members of the council, and all others demanded,
 proceeded to Carthage, gave themselves up, and were charged with riot.
 All entered into recognizances before the justice of the peace to appear
@@ -867,14 +867,14 @@ I proposed to take a vote on the question, whether they would strictly
 observe the laws, even in opposition to their prophet and leaders. The
 vote was unanimous in favor of this proposition." The governor then set
 forth for Carthage, and such in substance is his report when viewed in
-the most favorable light. <span id="fr_198"></span>[30](#fn_198)
+the most favorable light. <span id="fr_198"></span>[30](#fn_198.md)
 
     It is related that as Joseph set forth to deliver himself up to the
 authorities he exclaimed: "I am going like a lamb to the slaughter; but
 I am calm as a summer's morning; I have a conscience void of offence
 toward God and toward all men. I shall die innocent, and it shall yet be
 said of me, He was murdered in cold blood." <span
-id="fr_199"></span>[31](#fn_199) Nevertheless, for a moment he
+id="fr_199"></span>[31](#fn_199.md) Nevertheless, for a moment he
 hesitated. Should he offer himself a willing sacrifice, or should he
 endeavor to escape out of their hands? Thus meditating, he crossed the
 river thinking
@@ -934,7 +934,7 @@ moments before. At this juncture a band of a hundred and fifty armed men
 with painted faces appeared before the jail, and presently surrounded
 it. The guard shouted vociferously and fired their guns over the heads
 of the assailants, who paid not the slightest attention to them. <span
-id="fr_200"></span>[32](#fn_200) I give what followed from *Burton's
+id="fr_200"></span>[32](#fn_200.md) I give what followed from *Burton's
 City of the Saints*, being the statement of President John Taylor, who
 was present and wounded on the occasion.
 
@@ -973,7 +973,7 @@ the six-shooter left by Brother Wheelock from his pocket, opened the
 door slightly, and snapped the pistol six successive times; only three
 of the barrels, however, were discharged. I afterward understood that
 two or three were wounded by these discharges, two of whom, I am
-informed, died. <span id="fr_201"></span>[33](#fn_201) I had in my hands
+informed, died. <span id="fr_201"></span>[33](#fn_201.md) I had in my hands
 a large, strong hickory stick, brought there by Brother Markham, and
 left by him, which I had seized as soon as I saw the mob approach; and
 while Brother Joseph was firing the pistol, I stood close behind him. As
@@ -1084,10 +1084,10 @@ beset and in dire extremity, rushed to the window and threw himself
 <span id="page_183">p. 183</span>
 
 out, receiving in the act several shots, and with the cry, "O Lord, my
-God!" fell dead to the ground. <span id="fr_202"></span>[34](#fn_202)
+God!" fell dead to the ground. <span id="fr_202"></span>[34](#fn_202.md)
 The fiends were not yet satiated; but setting up the lifeless body of
 the slain prophet against the well-curb, riddled it with bullets. <span
-id="fr_203"></span>[35](#fn_203)
+id="fr_203"></span>[35](#fn_203.md)
 
     Where now is the God of Joseph and of Hyrum, that he should permit
 this most iniquitous butchery? Where are Moroni and Ether and Christ?
@@ -1189,7 +1189,7 @@ hair was of a light brown, his eyes blue, and his complexion light. His
 natural demeanor was quiet; his character and disposition were formed by
 his life-work; he was kind and considerate, taking a personal interest
 in all his people, and considering every one his equal." <span
-id="fr_204"></span>[36](#fn_204)
+id="fr_204"></span>[36](#fn_204.md)
 
     On the other hand, the author of *Mormonism Unveiled* says: "The
 extreme ignorance and apparent stupidity of this modern prophet were by
@@ -1254,7 +1254,7 @@ peculiar views, and attempt to weave a web of dark and mystic sophistry
 around the gospel truths, which I had anticipated, he glided along
 through a very interesting and elaborate discourse, with all the care
 and happy facility of one who was well aware of his important station
-and his duty to God and man." <span id="fr_205"></span>[37](#fn_205)
+and his duty to God and man." <span id="fr_205"></span>[37](#fn_205.md)
 
  
 
@@ -1295,7 +1295,7 @@ used.
     The letter of Richards and Taylor, signed also by Samuel H. Smith, a
 brother of the deceased, who a few weeks afterward died, as the Mormons
 relate, of a broken heart, prevented a threatened uprising of the
-saints. <span id="fr_206"></span>[38](#fn_206) On the 29th of June, the
+saints. <span id="fr_206"></span>[38](#fn_206.md) On the 29th of June, the
 day after the news was received, the legion was called out, the letter
 read,
 
@@ -1317,7 +1317,7 @@ Oh Americans! weep, for the glory of freedom has departed!"
     Meanwhile the governor, fearing that the Mormons would rise in a
 body to execute vengeance, issued an address to the people of Illinois,
 in which he attempted to explain his conduct, <span
-id="fr_207"></span>[39](#fn_207) and again called out the militia. Two
+id="fr_207"></span>[39](#fn_207.md) and again called out the militia. Two
 officers were despatched to Nauvoo, with orders to ascertain the
 disposition of the citizens, and to proceed thence to Warsaw, where were
 the headquarters of the anti-Mormon militia, and forbid violent measures
@@ -1343,7 +1343,7 @@ governor, who was so greatly pleased with the forbearance of the saints
 that he officially declared them "human beings and citizens of the
 state." He caused writs to be issued for the arrest of three of the
 murderers—after they had taken refuge in Missouri. <span
-id="fr_208"></span>[40](#fn_208) The assassins escaped punishment,
+id="fr_208"></span>[40](#fn_208.md) The assassins escaped punishment,
 however; and now that order was restored, the chief magistrate disbanded
 the militia, after what he termed "a campaign of about thirteen days."
 
@@ -1368,13 +1368,13 @@ have no forgiveness in this world nor in the world to come…Let no vain
 and foolish plans or imaginations scatter us abroad and divide us
 asunder as a people, to seek to save our lives at the expense of truth
 and principle, but rather let us live or die together and in the
-enjoyment of society and union." <span id="fr_209"></span>[41](#fn_209)
+enjoyment of society and union." <span id="fr_209"></span>[41](#fn_209.md)
 
     At this time the saints needed such words of advice and consolation.
 Some were already making preparations to return to the gentiles; some
 feared that their organization as a sect would soon corec to an end. To
 reassure them, one more address was issued on August 15th, in the name
-of the twelve apostles, <span id="fr_210"></span>[42](#fn_210) and
+of the twelve apostles, <span id="fr_210"></span>[42](#fn_210.md) and
 signed by Brigham Young, the president of the apostles. The saints were
 told that though they were now without a prophet present in the flesh,
 the twelve would administer and regulate the affairs of the church; and
@@ -1395,12 +1395,12 @@ became a greater power in the land than Joseph Smith the prophet.
 
 ### Footnotes
 
-<span id="fn_169"></span>[143:1](hou09.htm#fr_169) 'Among the more
+<span id="fn_169"></span>[143:1](hou09.htm#fr_169.md) 'Among the more
 zealous Mormons, it became the fashion at this time (1845) to disuse the
 word Nauvoo, and to call the place the holy city, or the city of
 Joseph.' *Mackay's The Mormons*, 191.
 
-<span id="fn_170"></span>[143:2](hou09.htm#fr_170) The charter granted
+<span id="fn_170"></span>[143:2](hou09.htm#fr_170.md) The charter granted
 by the legislature was signed by Gov. Carlin Sept. 16, 1840, to take
 effect Feb. 1, 1841. 'So artfully framed that it was found that the
 state government was practically superseded within the Mormon
@@ -1408,7 +1408,7 @@ corporation. Under the judicial clause its courts were supreme.' McBride
 in *International Review*, Feb. 1882. Charters were also granted to the
 university and the Nauvoo legion. *Times and Seasons*, ii. 281.
 
-<span id="fn_171"></span>[144:3](hou09.htm#fr_171) The blocks contain
+<span id="fn_171"></span>[144:3](hou09.htm#fr_171.md) The blocks contain
 'four lots of eleven by twelve rods each, making all corner lots…For
 three or four miles upon the river, and about the same distance back in
 the country, Nauvoo presents a city of gardens, ornamented with the
@@ -1430,7 +1430,7 @@ Mormons. Some 2000 houses were built the first year. Joseph Smith in
 thousand here, besides vast numbers in the county around, and in almost
 every county in the state.'
 
-<span id="fn_172"></span>[144:4](hou09.htm#fr_172) The structure was 83
+<span id="fn_172"></span>[144:4](hou09.htm#fr_172.md) The structure was 83
 by 128 feet, and 60 feet high. The stone was quarried within city
 limits. There was an upper story and basement; and in the latter a
 baptismal font wrought after the manner of King Solomon's brazen sea. A
@@ -1489,7 +1489,7 @@ Smith. No blessing could be obtained for less than one dollar; but lie
 frequently received for this service twenty, thirty, and even forty
 dollars.' *Hall's Mormonism*, 22.
 
-<span id="fn_173"></span>[145:5](hou09.htm#fr_173) It was ordered by
+<span id="fn_173"></span>[145:5](hou09.htm#fr_173.md) It was ordered by
 revelation given to Joseph Smith, Jan. 19, 1841, that a hotel should be
 built and called the Nauvoo House; that it should be erected under the
 supervision of George Miller, Lyman Wight, John Snider, and Peter Haws,
@@ -1520,7 +1520,7 @@ by a depth of 49 feet; the estimated cost was $100,000. *Times and
 Seasons*, ii. 369. Another building opened in Nov. 1843 was the Nauvoo
 mansion.
 
-<span id="fn_174"></span>[146:6](hou09.htm#fr_174) Chancellor, John C.
+<span id="fn_174"></span>[146:6](hou09.htm#fr_174.md) Chancellor, John C.
 Bennett; registrar, William Law; regents, Joseph Smith, Sidney Rigdon,
 Hyrum Smith, William Marks, Samuel H. Smith, Daniel H. Wells, N. K.
 Whitney, Charles C. Rich, John T. Barnett, Wilson Law, John P. Greene,
@@ -1529,7 +1529,7 @@ Adams, Samuel Bennett, Ebenezer Robinson, John Snider, George Miller,
 Lenos M. Knight, John Taylor, Heber C. Kimball. The tuition fees were
 five dollars per quarter, payable twice each quarter in advance.
 
-<span id="fn_175"></span>[146:7](hou09.htm#fr_175) Among his generals
+<span id="fn_175"></span>[146:7](hou09.htm#fr_175.md) Among his generals
 were Robert D. Foster, George W. Robinson, Charles C. Rich, W. P. Lyon,
 Davison Hibbard, Hirum Kimball, A. P. Rockwood; majors, Willard
 Richards, Hosea Stout; colonels, John F. Weld, Orson Pratt, Francis M.
@@ -1559,7 +1559,7 @@ Seasons*, ii. 321-2, 417-18, 435, 517; iii. 654, 700-1, 718, 733-4, 921;
 1857, July 6, 1859; *Gunnison's Mormons*, 183; *Smucker's Hist. Mor*.,
 149; *Kidder's Mormonism*, 182-9.
 
-<span id="fn_176"></span>[147:8](hou09.htm#fr_176) Says the *St Louis
+<span id="fn_176"></span>[147:8](hou09.htm#fr_176.md) Says the *St Louis
 Atlas* of September 1841: The people of Nauvoo 'have <span
 id="page_148">p. 148</span> been grossly misunderstood and shamefully
 libelled…The present population is between eight and nine thousand, and
@@ -1588,7 +1588,7 @@ had remained at home, might have continued to live in rented houses all
 their days, and never once have entertained the idea of building one for
 themselves at their own expense.' *Smucker's Mormonism*, 159.
 
-<span id="fn_177"></span>[148:9](hou09.htm#fr_177) Gentiles were not
+<span id="fn_177"></span>[148:9](hou09.htm#fr_177.md) Gentiles were not
 excluded from the holy city. In *Bennett's Hist. Saints*, 158, is given
 an ordinance, dated March 1, 1841, running as follows: 'Be it ordained
 by the city council the city of Nauvoo, that the catholics,
@@ -1601,7 +1601,7 @@ depreciating another in consequence of his religion, etc., he shall be
 fined and imprisoned.' On the 17th of March, 1842, the Female Relief
 Society of Nauvoo was organized.
 
-<span id="fn_178"></span>[149:10](hou09.htm#fr_178) In the *Salem
+<span id="fn_178"></span>[149:10](hou09.htm#fr_178.md) In the *Salem
 Advertiser* was published an account of the visit to Nauvoo in 1843 of
 one Newhall, a lecturer, who says: 'I sought in vain for anything that
 bore the marks of immorality, but was both astonished and highly pleased
@@ -1627,7 +1627,7 @@ spirit of Christ and that of darkness is so great that it makes a great
 upstir and tremendous excitement; this is the case here; but in other
 communities the same amount of crime would hardly be noticed.'
 
-<span id="fn_179"></span>[150:11](hou09.htm#fr_179) Representative of a
+<span id="fn_179"></span>[150:11](hou09.htm#fr_179.md) Representative of a
 class of anti-Mormon literature, not altogether creditable to either its
 authors or supporters, are the following:
 
@@ -1836,7 +1836,7 @@ Israelite, and a Shepherd of Israel. Nauvoo, Ill. J. Smith, Printer.* In
 a preface the reader is told: 'The author of this work is not a Mormon
 although it is printed by their press.'
 
-<span id="fn_180"></span>[153:12](hou09.htm#fr_180) In a letter to the
+<span id="fn_180"></span>[153:12](hou09.htm#fr_180.md) In a letter to the
 prophet dated October 24, 1843 which has become quite famous, James A.
 Bennett pretends to have been baptized by Brigham Young, a ceremony that
 he alludes to as 'a glorious frolic in the clear blue ocean' with 'your
@@ -1858,7 +1858,7 @@ retaining him for future use.' All this would have some signigicance if
 Smith had been in the least deceived, or had the writer of this letter
 and the original rascal been one.
 
-<span id="fn_181"></span>[154:13](hou09.htm#fr_181) 'At the conference
+<span id="fn_181"></span>[154:13](hou09.htm#fr_181.md) 'At the conference
 in April 1840, the prophet delivered a lengthy address upon the history
 and condition of the saints. He reminded the brethren that all had
 suffered alike for the sake of the gospel. The rich and the poor had
@@ -1885,11 +1885,11 @@ right time comes we will go in force and take the whole state of
 Missouri. It belongs to us as an inheritance; but I want no more petty
 stealing.' *Lee's Mormonism*, 110-11.
 
-<span id="fn_182"></span>[154:14](hou09.htm#fr_182) Smith was first
+<span id="fn_182"></span>[154:14](hou09.htm#fr_182.md) Smith was first
 mayor. Feb. 1, 1841, Bennett was elected mayor and so continued till May
 19, 1842, when Smith again assumed the office.
 
-<span id="fn_183"></span>[155:15](hou09.htm#fr_183) Describing Nauvoo at
+<span id="fn_183"></span>[155:15](hou09.htm#fr_183.md) Describing Nauvoo at
 this period, Linforth remarks: 'Before the close of 1842 a vast
 improvement had taken place. The city, which then extended 3 or 4 miles
 on the river, and about the same distance back, had been regularly laid
@@ -1900,7 +1900,7 @@ for various manufactures were rapidly going up. In the mean time the
 temple and Nauvoo House were progressing.' *Route from Liverpool to G.
 S. L. Vally*, 62.
 
-<span id="fn_184"></span>[156:16](hou09.htm#fr_184) When on his return
+<span id="fn_184"></span>[156:16](hou09.htm#fr_184.md) When on his return
 from Quincy, to which place he had accompanied Hyrum Smith and William
 Law, who were on a mission to the east, Joseph was arrested the 5th of
 June, 1841, on a warrant from Gov. Carlin to deliver him to the Missouri
@@ -1908,7 +1908,7 @@ state authorities. In return, Joseph Smith brought suit against J. H.
 Reynolds and H. G. Wilson for false imprisonment. This as well as other
 affairs of the kind kept up a bitter excitement.
 
-<span id="fn_185"></span>[156:17](hou09.htm#fr_185) On the 6th of May,
+<span id="fn_185"></span>[156:17](hou09.htm#fr_185.md) On the 6th of May,
 1842 Gov. Boggs was fired at through a window, and narrowly escaped
 being killed. The crime was charged to O. P. Rockwell, 'with the
 connivance and under the instructions of Joseph Smith.' *Hyde's
@@ -1934,7 +1934,7 @@ shooting at ex-governor Boggs; and the grand jury, therefore, did not
 indict him for that offence.' *Independent Expositor; Niles' Register*,
 Sept. 30, 1843.
 
-<span id="fn_186"></span>[162:18](hou09.htm#fr_186) John Hyde mentions a
+<span id="fn_186"></span>[162:18](hou09.htm#fr_186.md) John Hyde mentions a
 previous revelation. He says that about the year 1838 'Smith pretended
 to obtain a revelation from God authorizing him to practise polygamy,
 and began to practise it accordingly.' Mormonism, 203. See also Slater's
@@ -1943,7 +1943,7 @@ whatever in this assertion. And yet John Hyde is regarded as pretty good
 authority; but in this loose way thousands of false statements have been
 made regarding the secrets of the saints.
 
-<span id="fn_187"></span>[162:19](hou09.htm#fr_187) This revelation was
+<span id="fn_187"></span>[162:19](hou09.htm#fr_187.md) This revelation was
 first published in the *Deseret News* in 1852, and next in the
 *Millennial Star* at Liverpool, England, in 1853. It is given entire
 elsewhere in this volume. The *Edinburgh Review* of April 1854, 335,
@@ -1958,7 +1958,7 @@ Mormonism*, 172-82; *Smith's Rise, Prog. and Travels*, 42-8; *Pearl of
 Great Price*, 64-70; *Stenhouse's Tell It All*, 135-8; and *Stenhouse's
 Exposé of Polygamy*, 207-15.
 
-<span id="fn_188"></span>[163:20](hou09.htm#fr_188) It is denied by some
+<span id="fn_188"></span>[163:20](hou09.htm#fr_188.md) It is denied by some
 that polygamy was practised by the Mormons at this date. In the *Deseret
 News* of Oct. 22, 1879, are several statements under oath to the effect
 that between 1840 and 1843 Joseph taught the doctrine of celestial or
@@ -2011,10 +2011,10 @@ law of the land and the rules of the church do not allow one man to have
 more than one wife alive at once.' For additional denials by Parley
 Pratt, John Taylor, and others, see *S. L. Tribune*, Nov. 11, 1879.
 
-<span id="fn_189"></span>[167:21](hou09.htm#fr_189) *Doctrine and
+<span id="fn_189"></span>[167:21](hou09.htm#fr_189.md) *Doctrine and
 Covenants*, app. 331.
 
-<span id="fn_190"></span>[167:22](hou09.htm#fr_190) 'It is believed,'
+<span id="fn_190"></span>[167:22](hou09.htm#fr_190.md) 'It is believed,'
 writes Governor Ford not long afterward to the Illinois legislature,
 'that Joseph Smith had announced a revelation from heaven sanctioning
 polygamy, by some kind of spiritual-wife system, which I never could
@@ -2026,12 +2026,12 @@ this revelation, by seducing a large number of women.' *Message to Ill.
 Sen*.; 14th Ass. 1st Sess., 6. A copy of Ford's message will be found in
 *Utah Tracts*, no. 11.
 
-<span id="fn_191"></span>[168:23](hou09.htm#fr_191) Copies of the
+<span id="fn_191"></span>[168:23](hou09.htm#fr_191.md) Copies of the
 correspondence may be found in *Times and Sections*, v. 393-6, 544-8;
 *Mackay's The Mormons*, 151-62; *Olshausen, Geschichte der Mormonen*,
 202-19.
 
-<span id="fn_192"></span>[168:24](hou09.htm#fr_192) 'Now, oh people !'
+<span id="fn_192"></span>[168:24](hou09.htm#fr_192.md) 'Now, oh people !'
 he continues, 'turn unto the Lord and live; and reform this nation.
 Frustrate the designs of wicked men. Reduce congress at least one half.
 Two senators from a state and two members to a million of population
@@ -2070,12 +2070,12 @@ let there be universal peace.' A full copy of the address is given in
 *Times and Seasons*, 528-533; *Mackay's The Mormons*, 141-51; *Remy's
 Jour. to G. S. L. City*, 353-71.
 
-<span id="fn_193"></span>[169:25](hou09.htm#fr_193) Two months after
+<span id="fn_193"></span>[169:25](hou09.htm#fr_193.md) Two months after
 announcing himself a candidate for the presidency, Joseph again publicly
 declared that all America, from north to south, constituted the Zion of
 the saints, theirs by right of heavenly inheritance.
 
-<span id="fn_194"></span>[170:26](hou09.htm#fr_194) In *Remy's Jour. to
+<span id="fn_194"></span>[170:26](hou09.htm#fr_194.md) In *Remy's Jour. to
 G. S. Lake City*, i. 388, it is stated that, among others, a renegade
 catholic priest, J. H. Jackson by name, 'conceived the idea of starting
 at Nauvoo a newspaper called the *Expositor*, with the avowed object of
@@ -2083,7 +2083,7 @@ opposing the Mormons.' I find no confirmation of this statement. The
 first number of the *Nauvoo Neighbor* had been issued May 3, 1843, in
 place of the *Wasp*, suspended.
 
-<span id="fn_195"></span>[171:27](hou09.htm#fr_195) Letter of John S.
+<span id="fn_195"></span>[171:27](hou09.htm#fr_195.md) Letter of John S.
 Fullmer to the *New York Herald*, dated Nauvoo, Oct. 30, 1844 (but not
 published until several years later). A copy of it will be found in
 *Utah Tracts*, ix. p. 7. Smith had been elected mayor on the resignation
@@ -2098,7 +2098,7 @@ aided by a portion of the legion executed his warrant by destroying the
 press and scattering the type and other materials of the office. Message
 to *Ill. Sen*., 14th Ass. 1st Sess., 4.
 
-<span id="fn_196"></span>[171:28](hou09.htm#fr_196) 'At a meeting of the
+<span id="fn_196"></span>[171:28](hou09.htm#fr_196.md) 'At a meeting of the
 citizens of Hancock co. held at Carthage, on the <span id="page_172">p.
 172</span> 6th inst, it was resolved to call in the people of the
 surrounding counties and states, to assist them in delivering up Joe
@@ -2109,19 +2109,19 @@ also resolved to refuse to obey officers elected by the Mormons, who
 have complete control of the country, being a numerical majority.'
 *Missouri Reporter*, in *Niles Register*, lxv. 70, Sept. 30, 1843.
 
-<span id="fn_197"></span>[175:29](hou09.htm#fr_197) Report, ut supra,
+<span id="fn_197"></span>[175:29](hou09.htm#fr_197.md) Report, ut supra,
 10-11. In *Times and Seasons*, v. 560, it is stated that 'on Monday,
 June 24th, after Ford had sent word that eighteen persons demanded on a
 warrant, among whom were Joseph Smith and Hyrum Smith, should be
 protected by the militia of the state, they in company with ten or
 twelve others start for Carthage.'
 
-<span id="fn_198"></span>[176:30](hou09.htm#fr_198) *Message*, ut supra.
+<span id="fn_198"></span>[176:30](hou09.htm#fr_198.md) *Message*, ut supra.
 The above appear to be the facts of the case, so far as they can be
 sifted from a lengthy report, which consists mainly of apology or
 explanation of what the governor did or left undone.
 
-<span id="fn_199"></span>[176:31](hou09.htm#fr_199) Smith's *Doc. and
+<span id="fn_199"></span>[176:31](hou09.htm#fr_199.md) Smith's *Doc. and
 Cov*., app. 335. The same morning he read in the fifth chapter of Ether,
 'And it came to pass that I prayed unto the Lord that he would give unto
 the gentiles grace, that they might have charity. And it came to pass
@@ -2131,18 +2131,18 @@ because thou hast seen thy weakness, thou shalt be made strong, even
 unto the sitting down in the place which I have prepared in the mansions
 of my father.'
 
-<span id="fn_200"></span>[178:32](hou09.htm#fr_200) Littlefield says the
+<span id="fn_200"></span>[178:32](hou09.htm#fr_200.md) Littlefield says the
 Carthage Greys were marched in a body, 'within about eight rods of the
 jail, where they halted, in plain view of the whole transaction, until
 the deed was executed.' *Narrative*, 9.
 
-<span id="fn_201"></span>[179:33](hou09.htm#fr_201) 'He wounded three of
+<span id="fn_201"></span>[179:33](hou09.htm#fr_201.md) 'He wounded three of
 them, two mortally, one of whom, as he rushed down out of the door, was
 asked if he was badly hurt. He replied, "Yes; my arm is shot all to
 pieces by old Joe; but I don't care, I've got revenge; and I shot
 Hyrum!"' *Id*., 11.
 
-<span id="fn_202"></span>[183:34](hou09.htm#fr_202) Joseph dropped his
+<span id="fn_202"></span>[183:34](hou09.htm#fr_202.md) Joseph dropped his
 pistol, and sprang into the window; but just as he was preparing to
 descend, he saw such an array of bayonets below, that he caught by the
 window casing, where he hung by his hands and feet, with his head to the
@@ -2164,7 +2164,7 @@ are the man that had my daddy shot'—intimating that he was a son of
 Boggs, and that it was the Missourians who were doing this murder.
 *Littlefield's Narrative*, 13.
 
-<span id="fn_203"></span>[183:35](hou09.htm#fr_203) After President
+<span id="fn_203"></span>[183:35](hou09.htm#fr_203.md) After President
 Taylor's account in *Burton's City of the Saints*, the best authorities
 on this catastrophe are: *Assassination of Joseph and Hyrum Smith, the
 Prophet and the Patriarch of the Church of Jesus Christ of Latter-day
@@ -2190,19 +2190,19 @@ Prophet's Tragedy,' which, however justly it may lay claim to Boston
 'smart' writing, so far as the facts are concerned is simply a tissue of
 falsehoods.
 
-<span id="fn_204"></span>[186:36](hou09.htm#fr_204) Another account says
+<span id="fn_204"></span>[186:36](hou09.htm#fr_204.md) Another account says
 that at 36 he weighed 212 lbs, stood 6 feet in his pumps, was robust,
 corpulent, and jovial, but when roused to anger his expression was very
 severe.
 
-<span id="fn_205"></span>[188:37](hou09.htm#fr_205) *Mackay's The
+<span id="fn_205"></span>[188:37](hou09.htm#fr_205.md) *Mackay's The
 Mormons*, 131-3. Of course views as to Joseph Smith's character are
 expressed in nearly all the works published on Mormonism. With the
 exception, perhaps, of Mahomet, no one has been so much bespattered with
 praise by his followers and with abuse by his adversaries as the founder
 of this faith.
 
-<span id="fn_206"></span>[189:38](hou09.htm#fr_206) To the letter was
+<span id="fn_206"></span>[189:38](hou09.htm#fr_206.md) To the letter was
 appended a postscript from the governor, bidding the Mormons defend
 themselves until protection could be furnished, and one from <span
 id="page_190">p. 190</span> General Deming, telling them to remain
@@ -2211,20 +2211,20 @@ people of Illinois, but that they were in danger of attack from
 Missouri, and 'prudence might obviate material destruction.' *Times and
 Seasons*, v. 561.
 
-<span id="fn_207"></span>[190:39](hou09.htm#fr_207) Copies of it will be
+<span id="fn_207"></span>[190:39](hou09.htm#fr_207.md) Copies of it will be
 found in *Id*., v. 564-5; *Mackay's The Mormons*, 178-9; and *Smucker's
 Hist. Mor*., 1867.
 
-<span id="fn_208"></span>[191:40](hou09.htm#fr_208) In *Message to Ill.
+<span id="fn_208"></span>[191:40](hou09.htm#fr_208.md) In *Message to Ill.
 Legis*., 20, it is stated that some of the murderers afterward
 surrendered on the understanding that they should be admitted to bail.
 There was not sufficient proof to convict them.
 
-<span id="fn_209"></span>[192:41](hou09.htm#fr_209) The full text of
+<span id="fn_209"></span>[192:41](hou09.htm#fr_209.md) The full text of
 both letters is given in *Times and Seasons*, v. 568, 586-7; *Mackay's
 The Mormons*, 180-2; *Smucker's Hist. Mormons*, 189-92.
 
-<span id="fn_210"></span>[192:42](hou09.htm#fr_210) Who are thus
+<span id="fn_210"></span>[192:42](hou09.htm#fr_210.md) Who are thus
 described in a letter addressed by Phelps to the editor of the *New York
 Prophet*, a small journal established to promulgate the views of the
 sect: 'Brigham Young, the lion of the Lord; Heber C. Kimball, the herald
@@ -2239,4 +2239,4 @@ are good men; the best the Lord can find.' See *Mackay's The Mormons*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII. Brigham Young Succeeds Joseph. 1844-1845.](hou10)
+[Next: Chapter VII. Brigham Young Succeeds Joseph. 1844-1845.](hou10.md)

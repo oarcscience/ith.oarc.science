@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip74)  [Next](fip76) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip74)  [Next](fip76.md) 
 
 ------------------------------------------------------------------------
 
@@ -141,4 +141,4 @@ rua lesh*!
 
 ------------------------------------------------------------------------
 
-[Next: Donald and his Neighbours](fip76)
+[Next: Donald and his Neighbours](fip76.md)

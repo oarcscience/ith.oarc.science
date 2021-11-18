@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](soa01)  [Next](soa03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](soa01)  [Next](soa03.md) 
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ Brittany are the remains of its highest summits."\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: Distribution of Fauna and Flora](soa03)
+[Next: Distribution of Fauna and Flora](soa03.md)

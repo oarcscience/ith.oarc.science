@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](hor02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](hor02.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -70,7 +70,7 @@ ruler.
 The rabbis taught: "A ruler should sin" to exclude him who was sick with
 leprosy, as it reads \[II Kings, xv. 5\]: "And the Lord afflicted the
 king with leprosy, and he was a leper unto the day of his death, and he
-dwelt in the free-house. <span id="fr_0"></span>[1](#fn_0) And Jotham
+dwelt in the free-house. <span id="fr_0"></span>[1](#fn_0.md) And Jotham
 the king's son," etc. What does it mean, free-house? Was he until that
 time a servant or a slave? Yea; as it happened with Raban Gamaliel and
 R. Yehoshua, who were on a boat; the former has prepared bread for food,
@@ -283,7 +283,7 @@ latter in all respects, because as the anointed one atones and the
 congregation is atoned, it is but right that be who atones shall precede
 the atoned one in all respects. And so also it reads \[ibid. xvi. 17\]:
 "So shall he make an atonement for himself, and for his
-[household](errata.htm#66), and for the whole congregation of Israel.
+[household](errata.htm#66.md), and for the whole congregation of Israel.
 
 MISHNA *VI*.: The man has the preference over the woman in respect of
 preservation of life and of returning a loss. The woman has the
@@ -319,7 +319,7 @@ the former.
 
 GEMARA: "*Equally qualified*," etc. Whence is this deduced? Said R. A'ha
 b. R. 'Hanina, from \[Prov. iii. 15\], "She is more precious than
-pearls"; ( <span id="fr_1"></span>[1](#fn_1) *pninim*), which means from
+pearls"; ( <span id="fr_1"></span>[1](#fn_1) *pninim*.md), which means from
 the high priest who enters the *sanctum sanctissimum*.
 
 <span id="page_26">p. 26</span>
@@ -358,12 +358,12 @@ without salt, the frequent drinking of olive oil, of wine flavored with
 spices, of water left after its use for a dough. According to others add
 yet this: to dip the finger in salt and consume the latter. According to
 others add this: the consuming of wheat bread and
-[particularly](errata.htm#67) of the wheat itself.
+[particularly](errata.htm#67.md) of the wheat itself.
 
 This Boraitha furnishes a support to R. Johanan who was wont of saying
 that as an olive causes one to forget one's studies acquired during a
 period of 70 years, so the oil thereof calls back to one's memory the
-studies of such a [period](errata.htm#68).
+studies of such a [period](errata.htm#68.md).
 
 Concerning the consuming of salt on one's finger, according to Resh
 Lakish this must be done with one finger; while Tanaim differ: according
@@ -497,10 +497,10 @@ preference. This question remained undecided.
 
 ### Footnotes
 
-<span id="fn_0"></span>[20:1](hor03.htm#fr_0) Leeser's translation does
+<span id="fn_0"></span>[20:1](hor03.htm#fr_0.md) Leeser's translation does
 not correspond.
 
-<span id="fn_1"></span>[25:1](hor03.htm#fr_1) *Pninim* is homonymous
+<span id="fn_1"></span>[25:1](hor03.htm#fr_1.md) *Pninim* is homonymous
 with *Pnim*, which means inside.
 
 END OF TRACT HORIOTH AND OF THE VOL. XVIII., AND ALSO OF THE WHOLE

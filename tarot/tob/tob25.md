@@ -1,18 +1,18 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](../pkt/tarot0)  [Index](index)  [Previous](tob24) 
-[Next](tob26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](../pkt/tarot0)  [Index](index)  [Previous](tob24.md) 
+[Next](tob26.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_wiar11"></span>
 
-![STRENGTH.](img/wiar11.jpg)  
+![STRENGTH.](img/wiar11.jpg.md)  
 STRENGTH.
 
    <span id="img_msar11"></span>
 
-![STRENGTH.](img/msar11.jpg)  
+![STRENGTH.](img/msar11.jpg.md)  
 STRENGTH.
 
 11\. כ
@@ -129,4 +129,4 @@ arcanum.
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Hanged Man](tob26)
+[Next: 12. The Hanged Man](tob26.md)

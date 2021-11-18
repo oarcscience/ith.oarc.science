@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip24)  [Next](fip26) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip24)  [Next](fip26.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
 T. CROFTON CROKER
 
 Billy Mac Daniel was once as likely a young man as ever shook his brogue
-at a patron, <span id="fr_11"></span>[1](#fn_11) emptied a quart, or
+at a patron, <span id="fr_11"></span>[1](#fn_11.md) emptied a quart, or
 handled a shillelagh; fearing for nothing but the want of drink; caring
 for nothing but who should pay for it; and thinking of nothing but how
 to make fun over it; drunk or sober, a word and a blow was ever the way
@@ -274,9 +274,9 @@ what he thought more of than dancing.
 
 ### Footnotes
 
-<span id="fn_11"></span>[84:1](fip25.htm#fr_11) A festival held in
+<span id="fn_11"></span>[84:1](fip25.htm#fr_11.md) A festival held in
 honour of some patron saint.
 
 ------------------------------------------------------------------------
 
-[Next: Far Darrig in Donegal, by Letitia Maclintock](fip26)
+[Next: Far Darrig in Donegal, by Letitia Maclintock](fip26.md)

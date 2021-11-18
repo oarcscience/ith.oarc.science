@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb01)  [Next](mlb03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb01)  [Next](mlb03.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ INDEX
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: Introductory](mlb03)
+[Next: Chapter I: Introductory](mlb03.md)

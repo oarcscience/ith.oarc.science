@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](hmvp26)  [Next](hmvp28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](hmvp26)  [Next](hmvp28.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hindu Mythology, Vedic and Puranic*, by W.J. Wilkins, \[1900\], at
 Intangible Textual Heritage
 
@@ -19,19 +19,19 @@ brothers together form the eighth, Krishna having been produced from a
 black and Balarāma from a white hair of Vishnu: As they were constant
 companions during their stay on earth, many of the exploits in which
 Balarāma shared have already been narrated in speaking of Krishna. There
-are a few legends, <span id="fr_214"></span>[\*](#fn_214) however,
+are a few legends, <span id="fr_214"></span>[\*](#fn_214.md) however,
 referring chiefly to Balarāma.
 
 <span id="page_221">p. 221</span>
 
 Balarāma is an incarnation of the serpent Sesha, <span
-id="fr_215"></span>[\*](#fn_215) who himself was part of Vishnu, and
+id="fr_215"></span>[\*](#fn_215.md) who himself was part of Vishnu, and
 thus is said to be "a part of a part" of that deity. When appealed to by
 the
 
 <span id="img_22100"></span> <span align="CENTER">
 [![BALARĀMA.](tn/22100.jpg)  
-Click to enlarge](img/22100.jpg)  
+Click to enlarge](img/22100.jpg.md)  
 BALARĀMA.  
 </span>
 
@@ -115,7 +115,7 @@ fist.
 Though the brothers Krishna and Balarāma were generally the best of
 friends, there was once a most violent quarrel between them. A man named
 Satadhanwan was suspected of stealing a most valuable jewel. <span
-id="fr_216"></span>[\*](#fn_216) Krishna and Balarāma pursuing him, came
+id="fr_216"></span>[\*](#fn_216.md) Krishna and Balarāma pursuing him, came
 to a part of the country where the roads were so bad that the horses
 could not drag their chariot. Balarāma therefore remained behind, whilst
 Krishna followed the supposed thief on foot. When within reach, the
@@ -137,10 +137,10 @@ end will be found in the chapter descriptive of Krishna.
 
 ### Footnotes
 
-<span id="fn_214"></span>[220:\*](hmvp27.htm#fr_214) "Vishnu Purāna,"
+<span id="fn_214"></span>[220:\*](hmvp27.htm#fr_214.md) "Vishnu Purāna,"
 book v.
 
-<span id="fn_215"></span>[221:\*](hmvp27.htm#fr_215) Sesha (the end), or
+<span id="fn_215"></span>[221:\*](hmvp27.htm#fr_215) Sesha (the end.md), or
 Ananta (endless), the serpent deity, has a thousand heads, and forms the
 couch on which Vishnu reposes during the intervals of creation. The
 world is said to rest on the head of Sesha, who stands upon a tortoise;
@@ -150,9 +150,9 @@ churning of the ocean; and by fires that issue from his body the world
 is destroyed at the end of each age, or Kalpa. He is sometimes called a
 son of Kasyapa and Kadru, a daughter of Daksha.
 
-<span id="fn_216"></span>[224:\*](hmvp27.htm#fr_216) For a fuller
-account of this jewel, see [p. 207](hmvp26.htm#page_207).
+<span id="fn_216"></span>[224:\*](hmvp27.htm#fr_216.md) For a fuller
+account of this jewel, see [p. 207](hmvp26.htm#page_207.md).
 
 ------------------------------------------------------------------------
 
-[Next: 9. The Buddha Avatāra](hmvp28)
+[Next: 9. The Buddha Avatāra](hmvp28.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl11)  [Next](hpl13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl11)  [Next](hpl13.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ of the Street.
 
 ------------------------------------------------------------------------
 
-[Next: Ex Oblivione (1921)](hpl13)
+[Next: Ex Oblivione (1921)](hpl13.md)

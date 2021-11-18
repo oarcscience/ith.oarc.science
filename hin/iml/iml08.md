@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](iml07)  [Next](iml09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](iml07)  [Next](iml09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1421263637/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ conceived of an organized Hades, to which souls were transferred through
 the medium of fire, which drove away all spirits and demons who
 threatened mankind. Homer makes the haunting ghost of Patroklos exclaim,
 "Never again will I return from Hades when I have received my meed of
-fire". <span id="fr_94"></span>[1](#fn_93) The Vedic worshippers
+fire". <span id="fr_94"></span>[1](#fn_93.md) The Vedic worshippers
 
 <span id="page_39">p. 39</span>
 
@@ -56,20 +56,20 @@ obtains from him, when recognized by him as one of his own, a delectable
 abode, and enters upon more perfect life, which is crowned with the
 fulfilment of all desires, is passed in the presence of the gods, and
 employed in the fulfilment of their pleasure." <span
-id="fr_95"></span>[1](#fn_94)
+id="fr_95"></span>[1](#fn_94.md)
 
 Agni is the god who is invoked by the other deities, "Make straight the
 pathways that lead to the gods; be kind to us, and carry the sacrifice
-for us". <span id="fr_96"></span>[2](#fn_95)
+for us". <span id="fr_96"></span>[2](#fn_95.md)
 
 In this connection, however, Professor Macdonell says, "Some passages of
 the *Rigveda* distinguish the path of the fathers or dead ancestors from
 the path of the gods, doubtless because cremation appeared as a
-different process from sacrifice". <span id="fr_97"></span>[3](#fn_96)
+different process from sacrifice". <span id="fr_97"></span>[3](#fn_96.md)
 
 It would appear that prior to the practice of cremation a belief in
 Paradise ultimately obtained: the dead walked on foot towards it. Yama,
-King of the Dead, was the first man. <span id="fr_98"></span>[4](#fn_97)
+King of the Dead, was the first man. <span id="fr_98"></span>[4](#fn_97.md)
 Like the Aryan pioneers who discovered the
 
 <span id="page_40">p. 40</span>
@@ -83,10 +83,10 @@ He was the first of men that died, the first to brave
 Death's rapid rushing stream, the first to point the road  
 To heaven, and welcome others to that bright abode.  
                         *Sir M. Monier Williams' translation*. <span
-id="fr_99"></span>[1](#fn_98)
+id="fr_99"></span>[1](#fn_98.md)
 
 Professor Macdonell gives a new rendering of a Vedic hymn <span
-id="fr_100"></span>[2](#fn_99) in which Yama is referred to as follows:
+id="fr_100"></span>[2](#fn_99.md) in which Yama is referred to as follows:
 
 Him who along the mighty heights departed,  
 Him who searched and spied the path for many,  
@@ -104,7 +104,7 @@ believed to be a child of the sky. "This conjecture is borne out by the
 name of Yama's father (Vivasvant), which may well be a cult-epithet of
 the bright sky, 'shining abroad' (from the root *vas*, 'to shine')". . .
 In the *Avesta* 'Yima, the bright' is referred to: he is the Jamshid of
-Fitzgerald's Omar. <span id="fr_101"></span>[3](#fn_100)
+Fitzgerald's Omar. <span id="fr_101"></span>[3](#fn_100.md)
 
 Yima, the Iranian ruler of Paradise, is also identical with Mitra
 (Mithra), whose cult "obtained from 200-400 A.D. a world-wide diffusion
@@ -115,7 +115,7 @@ in the Roman Empire,
 <span id="img_04000"></span>
 
 [![THE KAILASA TEMPLE OF SHIVA, ELLORA](tn/04000.jpg)  
-Click to enlarge](img/04000.jpg)  
+Click to enlarge](img/04000.jpg.md)  
 THE KAILASA TEMPLE OF SHIVA, ELLORA  
 
  
@@ -123,7 +123,7 @@ THE KAILASA TEMPLE OF SHIVA, ELLORA
 <span id="page_41">p. 41</span>
 
 and came nearer to monotheism than the cult of any other god in
-paganism". <span id="fr_102"></span>[1](#fn_101)
+paganism". <span id="fr_102"></span>[1](#fn_101.md)
 
 Professor Moulton wonders if the Yama myth "owed anything to Babylon?"
 It is possible that the worshippers of Agni represented early Iranian
@@ -132,7 +132,7 @@ and Yima and the twin Aswins) were influenced by Babylonian mythology as
 a result of contact, and that these opposing sects were rivals in India
 in early Vedic times.
 
-In one of the hymns <span id="fr_103"></span>[2](#fn_102) Yami is the
+In one of the hymns <span id="fr_103"></span>[2](#fn_102.md) Yami is the
 wooer of her brother Yama. She declares that they were at the beginning
 intended by the gods to be husband and wife, but Yama replies:
 
@@ -158,7 +158,7 @@ Return unto thy home, O soul! Thy sin and shame
 Leave thou behind on earth; assume a shining form--  
 Thine ancient shape--refined and from all taint set free.  
                       *Sir M. Monier Williams' translation*. <span
-id="fr_104"></span>[1](#fn_103)
+id="fr_104"></span>[1](#fn_103.md)
 
 Yama judged men as Dharma-rajah, "King of righteousness"; he was
 Pitripati, "lord of the fathers"; Samavurti, "the impartial judge";
@@ -178,7 +178,7 @@ that man in the right eye truly are no other than Death; his feet have
 stuck fast in the heart, and having pulled them out, he comes forth; and
 when he comes forth then that man dies; whence they say of him who has
 passed away, '*he has been cut off*' (life or life-string has been
-severed)". <span id="fr_105"></span>[2](#fn_104)
+severed)". <span id="fr_105"></span>[2](#fn_104.md)
 
 Yama might consent to prolong the life of one whose days had run out, on
 condition that another individual gave up part of his own life in
@@ -232,7 +232,7 @@ Said Ruru: "Tell me how I can comply with the will of the Celestials, O
 messenger, so that I may be delivered from my grief."
 
 The messenger said: "If thou wilt resign half of thine own life to this
-maiden, [Pramadarva](errata.htm#1), she will rise up again."
+maiden, [Pramadarva](errata.htm#1.md), she will rise up again."
 
 Said Ruru: "I will resign half of my own life so that my beloved may be
 restored unto me."
@@ -247,7 +247,7 @@ When Dharma-rajah had spoken thus, the serpent-bitten maiden rose from
 the ground, and Ruru, whose life was curtailed for her sake, obtained
 the sweetest wife upon earth. The happy pair spent their days deeply
 devoted to each other, awaiting the call of Yama at the appointed
-time. <span id="fr_106"></span>[1](#fn_105)
+time. <span id="fr_106"></span>[1](#fn_105.md)
 
 ### STORY OF SAVITRI
 
@@ -256,7 +256,7 @@ Savitri. Be it told how she obtained the exalted merit of chaste women
 by winning a great boon from Yama.
 
 Savitri was the gift of the goddess Gayatri, <span
-id="fr_107"></span>[2](#fn_106) wife of
+id="fr_107"></span>[2](#fn_106.md) wife of
 
 <span id="page_45">p. 45</span>
 
@@ -565,7 +565,7 @@ Said Yama: "A hundred sons will be born unto thy
 [![YAMA AND SAVITRI&lt;br&gt; &lt;i&gt;From a painting by Nanda Lall
 Bose&lt;/i&gt;&lt;br&gt; (By permission of the Indian Society of
 Oriental Art, Calcutta](tn/05200.jpg)  
-Click to enlarge](img/05200.jpg)  
+Click to enlarge](img/05200.jpg.md)  
 YAMA AND SAVITRI  
 *From a painting by Nanda Lall Bose*  
 (By permission of the Indian Society of Oriental Art, Calcutta  
@@ -660,7 +660,7 @@ Savitri said: "The darkness deepens. . . . I will tell thee all on the
 morrow. . . . Let us now find our parents, O prince. The beasts of the
 night come forth; I hear their awesome voices; they tread the forest in
 glee; the howl of the jackal maketh my heart afraid." <span
-id="fr_108"></span>[1](#fn_107)
+id="fr_108"></span>[1](#fn_107.md)
 
 Said Satyavan: "Darkness hath covered the forest with fear; we cannot
 discover the path by which to return home."
@@ -723,7 +723,7 @@ misery again. . . .
  
 
 The beauties of Yama's heaven are sung by the sage Narada in the great
-epic poem *Mahabharata*. <span id="fr_109"></span>[1](#fn_108) "Listen
+epic poem *Mahabharata*. <span id="fr_109"></span>[1](#fn_108.md) "Listen
 to me," he says. "In that fair domain it is neither too hot nor too
 cold. Life there is devoid of sorrow; age does not bring frailties, and
 none ever hunger or thirst; it is without wretchedness, or fatigue, or
@@ -771,14 +771,14 @@ always bear fruit. In the many-coloured bowers beautiful and variegated
 birds sing delightful melodies. In the Assembly House, which is also of
 pure white, there are many rooms and many seats. Varuna, richly decked
 with jewels and golden ornaments and flowers, is throned there with his
-queen. Adityas <span id="fr_110"></span>[1](#fn_109) wait upon the
+queen. Adityas <span id="fr_110"></span>[1](#fn_109.md) wait upon the
 
  
 
 <span id="img_05800"></span>
 
 [![THE CITY OF THE GODS, PALITANA](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 THE CITY OF THE GODS, PALITANA  
 
  
@@ -812,7 +812,7 @@ acts". He asked: "Why is this domain unattainable to me?"
 Said the Celestials: "Because thou hast no children. . . . The Vedas
 have declared that the son rescueth the father from a hell called Put. O
 best of Brahmans, strive thou to beget offspring." <span
-id="fr_111"></span>[1](#fn_110)
+id="fr_111"></span>[1](#fn_110.md)
 
 A father could only reach Heaven if his son, after performing the
 cremation ceremony, poured forth the
@@ -837,69 +837,69 @@ protected against the wife-hunting parties of a stronger tribe. "Many
 years afterwards a troop of Naga girls from the weaker tribe paid a
 visit of ceremony to Colonel Mac Culloch, bearing presents of cloth of
 their own weaving in token of their gratitude to the man who had saved
-their lives." <span id="fr_112"></span>[1](#fn_111)
+their lives." <span id="fr_112"></span>[1](#fn_111.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_93"></span>[38:1](iml08.htm#fr_94) *Iliad*, xxiii, 75.
+<span id="fn_93"></span>[38:1](iml08.htm#fr_94.md) *Iliad*, xxiii, 75.
 
-<span id="fn_94"></span>[39:1](iml08.htm#fr_95) Muir, *Original Sanskrit
+<span id="fn_94"></span>[39:1](iml08.htm#fr_95.md) Muir, *Original Sanskrit
 Texts*, v. 302.
 
-<span id="fn_95"></span>[39:2](iml08.htm#fr_96) *Rigveda*, x. 51
+<span id="fn_95"></span>[39:2](iml08.htm#fr_96.md) *Rigveda*, x. 51
 (Arnold's translation).
 
-<span id="fn_96"></span>[39:3](iml08.htm#fr_97) *A History of Sanskrit
+<span id="fn_96"></span>[39:3](iml08.htm#fr_97.md) *A History of Sanskrit
 Literature*, p. 117.
 
-<span id="fn_97"></span>[39:4](iml08.htm#fr_98) As was also Manu of a
+<span id="fn_97"></span>[39:4](iml08.htm#fr_98.md) As was also Manu of a
 different or later cult.
 
-<span id="fn_98"></span>[40:1](iml08.htm#fr_99) From *Indian Wisdom*.
+<span id="fn_98"></span>[40:1](iml08.htm#fr_99.md) From *Indian Wisdom*.
 
-<span id="fn_99"></span>[40:2](iml08.htm#fr_100) *A History of Sanskrit
+<span id="fn_99"></span>[40:2](iml08.htm#fr_100.md) *A History of Sanskrit
 Literature*, p. 117.
 
-<span id="fn_100"></span>[40:3](iml08.htm#fr_101) *Early Religious
+<span id="fn_100"></span>[40:3](iml08.htm#fr_101.md) *Early Religious
 Poetry of Persia*, Professor J. H. Moulton, p. 42.
 
-<span id="fn_101"></span>[41:1](iml08.htm#fr_102) *A History of Sanskrit
+<span id="fn_101"></span>[41:1](iml08.htm#fr_102.md) *A History of Sanskrit
 Literature*, Professor Macdonell, p. 68.
 
-<span id="fn_102"></span>[41:2](iml08.htm#fr_103) *Rigveda*, x, 10.
+<span id="fn_102"></span>[41:2](iml08.htm#fr_103.md) *Rigveda*, x, 10.
 
-<span id="fn_103"></span>[42:1](iml08.htm#fr_104) From *Indian Wisdom*.
+<span id="fn_103"></span>[42:1](iml08.htm#fr_104.md) From *Indian Wisdom*.
 
-<span id="fn_104"></span>[42:2](iml08.htm#fr_105) *Satapatha Brahmana*,
+<span id="fn_104"></span>[42:2](iml08.htm#fr_105.md) *Satapatha Brahmana*,
 translated by Professor Eggeling, Part IV, 1897, p. 371 (*Sacred Books
 of the East*).
 
-<span id="fn_105"></span>[44:1](iml08.htm#fr_106) From *Adi Parva*
+<span id="fn_105"></span>[44:1](iml08.htm#fr_106.md) From *Adi Parva*
 section of *Mahabharata*.
 
-<span id="fn_106"></span>[44:2](iml08.htm#fr_107) Saraswati's rival.
+<span id="fn_106"></span>[44:2](iml08.htm#fr_107.md) Saraswati's rival.
 Brahma took Gayatri, the milkmaid, as a second wife, because his chief
 wife, Saraswati, despite her wisdom, arrived late for a certain
 important ceremony, at which the spouse of the god was required.
 
-<span id="fn_107"></span>[55:1](iml08.htm#fr_108) Unfaithful wives were
+<span id="fn_107"></span>[55:1](iml08.htm#fr_108.md) Unfaithful wives were
 transformed into jackals after death.
 
-<span id="fn_108"></span>[57:1](iml08.htm#fr_109) *Lokapala-Sabhakhyana*
+<span id="fn_108"></span>[57:1](iml08.htm#fr_109.md) *Lokapala-Sabhakhyana*
 section of *Sabha Parva*.
 
-<span id="fn_109"></span>[58:1](iml08.htm#fr_110) Sons of the goddess
+<span id="fn_109"></span>[58:1](iml08.htm#fr_110.md) Sons of the goddess
 Aditi. They are attendants of Varuna, their chief, as the Maruts are
 attendants of India.
 
-<span id="fn_110"></span>[59:1](iml08.htm#fr_111) *Adi Parva* section of
+<span id="fn_110"></span>[59:1](iml08.htm#fr_111.md) *Adi Parva* section of
 *Mahabharata*, Roy's trans., p. 635.
 
-<span id="fn_111"></span>[60:1](iml08.htm#fr_112) The Tribes and Castes
+<span id="fn_111"></span>[60:1](iml08.htm#fr_112.md) The Tribes and Castes
 of Bengal. H. H. Risley (1892), vol. i, lxv, *et seq*.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. Demons and Giants and Fairies](iml09)
+[Next: Chapter IV. Demons and Giants and Fairies](iml09.md)

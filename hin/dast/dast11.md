@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](dast10)  [Next](dast12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](dast10)  [Next](dast12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Dakshinamurti Stotra*, translated by Alladi Mahadeva Sastri, \[1920\],
 at Intangible Textual Heritage
 
@@ -169,7 +169,7 @@ experience vanished away.
 moment, and remembering a former event in virtue of the, latent
 impression produced in him by the actual experience of that event,
 thinks thus "I who formerly ruled a kingdom, now lead, an ascetic
-[life](errata.htm#21) on the banks of the Ganges." He is thus conscious
+[life](errata.htm#21.md) on the banks of the Ganges." He is thus conscious
 of his personal identity as persisting through two different periods of
 time. So, too, remembering the events of former births, he recognises
 his personal identity through many births. Thus, as memory enters</span>
@@ -199,7 +199,7 @@ upadhis, buddhi, etc., which lie dormant</span>
 <span id="page_140">p. 140</span>
 
 <span class="small">during sleep; so that the idea that Atman is
-[unconscious](errata.htm#22) during sleep is a mere illusion. This
+[unconscious](errata.htm#22.md) during sleep is a mere illusion. This
 darkness of Maya, which has been as old as the universe, disappears on
 the dawn of the sun of wisdom. Both Maya and Vidya reside in the Lord as
 His saktis, or powers, like the shade and the light of the sun. They are
@@ -268,7 +268,7 @@ consciousness and bliss (of Atman) are ascribed to the body; just as the
 mother-o’-pearl is mistaken for silver which is quite a different thing.
 
 22\. If the silver which here presents itself to
-[consciousness](errata.htm#23) be really existent, then how, according
+[consciousness](errata.htm#23.md) be really existent, then how, according
 to thy theory, can it be reduced to nothing (by knowledge)?
 
 23\. Again what is altogether nonexistent can never present itself to
@@ -378,4 +378,4 @@ Dakshinamurti.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Maya](dast12)
+[Next: Chapter VIII. Maya](dast12.md)

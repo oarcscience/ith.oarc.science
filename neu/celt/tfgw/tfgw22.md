@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tfgw21)  [Next](tfgw23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tfgw21)  [Next](tfgw23.md) 
 
 ------------------------------------------------------------------------
 
@@ -111,4 +111,4 @@ Maggie Doyle and the Dead Man
 
 ------------------------------------------------------------------------
 
-[Next: Pat Doyle and the Ghost](tfgw23)
+[Next: Pat Doyle and the Ghost](tfgw23.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe045)  [Next](prwe047) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe045)  [Next](prwe047.md) 
 
 ------------------------------------------------------------------------
 
@@ -204,4 +204,4 @@ boulder, she had certainly had a very strange adventure.
 
 ------------------------------------------------------------------------
 
-[Next: The Small People's Gardens](prwe047)
+[Next: The Small People's Gardens](prwe047.md)

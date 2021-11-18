@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](cdg50)  [Next](cdg52) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](cdg50)  [Next](cdg52.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564592014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ works of Paracelsus. Published at Geneva in 1658. Vol. ii*.</span>
 
 ------------------------------------------------------------------------
 
-[Next: OO. Magdalen of the Cross](cdg52)
+[Next: OO. Magdalen of the Cross](cdg52.md)

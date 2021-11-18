@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](phy10)  [Next](phy12) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](phy10)  [Next](phy12.md) 
 
 ------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@
 
 |                     |
 |---------------------|
-| ![N](img/04901.jpg) |
+| ![N](img/04901.jpg.md) |
 
 OW," said the king, so soon as his henchman had filled his jewelled
 goblet with bright amber-coloured wine--"now let us resume our
@@ -44,7 +44,7 @@ A score or more will mount his back,
 <span id="img_05000"></span>
 
 [![THE JADED STEED](tn/05000.jpg)  
-Click to enlarge](img/05000.jpg)  
+Click to enlarge](img/05000.jpg.md)  
 THE JADED STEED  
 
 There's not a nag that's worth his keep  
@@ -291,4 +291,4 @@ Snaefell, and as suddenly let fall upon the ground.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV](phy12)
+[Next: Chapter IV](phy12.md)

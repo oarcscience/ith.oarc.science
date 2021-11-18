@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb36)  [Next](spb38) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb36)  [Next](spb38.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -481,12 +481,12 @@ as in ancient years. Then shall the offering of Judah and Jerusalem be
 pleasant unto the Lord, as in the days of old, and as in ancient years.
 
 *For the Blessing of the Priests when the Day of Atonement falls on a
-week-day, see pp. [347](spb31.htm#page_347)–[348](spb31.htm#page_348)*
+week-day, see pp. [347](spb31.htm#page_347)–[348](spb31.htm#page_348.md)*
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Afternoon Service for the Day of Atonement](spb38)
+[Next: Afternoon Service for the Day of Atonement](spb38.md)
 
 </div>

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](sfs17)  [Next](sfs19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](sfs17)  [Next](sfs19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sixty Folk-Tales from Exclusively Slavonic Sources*, by A.H. Wratislaw,
 \[1890\], at Intangible Textual Heritage
 
@@ -21,7 +21,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00260GTCA/internetsacredte)
 
 WHERE it was, there it was, a certain village there was, in which lived
 a father with three sons. One of them was silly, and always sat in the
-chimney corner, <span id="fr_3"></span>[\*](#fn_3) but the other two
+chimney corner, <span id="fr_3"></span>[\*](#fn_3.md) but the other two
 were considered clever. One of these went out to service in a village
 not far off. His mother put on his back a wallet full of cakes baked
 under the ashes. He went into a house and made an engagement with the
@@ -100,9 +100,9 @@ earned the nose.'
 
 ### Footnotes
 
-<span id="fn_3"></span>[89:\*](sfs18.htm#fr_3) Literally, 'Behind the
+<span id="fn_3"></span>[89:\*](sfs18.htm#fr_3.md) Literally, 'Behind the
 stove.'
 
 ------------------------------------------------------------------------
 
-[Next: Introduction](sfs19)
+[Next: Introduction](sfs19.md)

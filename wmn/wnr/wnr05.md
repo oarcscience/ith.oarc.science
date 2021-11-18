@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](wnr04)  [Next](wnr06) 
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](wnr04)  [Next](wnr06.md) 
 
 ------------------------------------------------------------------------
 
@@ -370,4 +370,4 @@ world a vision and a leadership beyond our present imagination.
 
 ------------------------------------------------------------------------
 
-[Next: IV. Two Classes Of Women](wnr06)
+[Next: IV. Two Classes Of Women](wnr06.md)

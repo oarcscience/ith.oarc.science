@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft33)  [Next](eft35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft33)  [Next](eft35.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,7 +31,7 @@ loveliest of her kind.' At that the new queen flushed up and cried out:
 below her breath: 'I'll soon put an end to her beauty.'
 
 <span id="img_051"></span> [![](tn/051.jpg)  
-Click to enlarge](img/051.jpg)
+Click to enlarge](img/051.jpg.md)
 
 That same night the queen, who was a noted witch, stole down to a lonely
 dungeon wherein she did her magic and with spells three times three, and
@@ -137,4 +137,4 @@ Laidly Toad.
 
 ------------------------------------------------------------------------
 
-[Next: The Cat and the Mouse](eft35)
+[Next: The Cat and the Mouse](eft35.md)

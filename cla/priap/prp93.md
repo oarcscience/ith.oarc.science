@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp92)  [Next](prp94) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp92)  [Next](prp94.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,4 +44,4 @@ fourteen acres respect.
 ------------------------------------------------------------------------
 
 [Next: 94. An thou would fain go filled thou mayest devour our
-Priapus](prp94)
+Priapus](prp94.md)

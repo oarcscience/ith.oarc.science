@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](nblng26)  [Next](nblng28) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](nblng26)  [Next](nblng28.md) 
 
 ------------------------------------------------------------------------
 
@@ -345,4 +345,4 @@ desire for wealth.
 
 ------------------------------------------------------------------------
 
-[Next: Adventure XXVI: How Gelfrat Was Slain By Dankwart.](nblng28)
+[Next: Adventure XXVI: How Gelfrat Was Slain By Dankwart.](nblng28.md)

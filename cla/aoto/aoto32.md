@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Homer](../homer/index)  [Index](index)  [Previous](aoto31) 
-[Next](aoto33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Homer](../homer/index)  [Index](index)  [Previous](aoto31.md) 
+[Next](aoto33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1904675018/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Authoress of the Odyssey*, by Samuel Butler, \[1922\], at
 Intangible Textual Heritage
 
@@ -92,7 +92,7 @@ jowl as a very happy family, aiming spears at a mark, playing
 draughts, flaying goats and singeing pigs in the yard, drinking an
 untold quantity of wine, and generally holding high feast. They insist
 that Penelope should marry somebody, but who the happy somebody is to be
-is a matter of no importance. <span id="fr_57"></span>[\*](#fn_57) No
+is a matter of no importance. <span id="fr_57"></span>[\*](#fn_57.md) No
 one seems to think it essential that she shall marry himself in
 particular. Not one of them ever finds out that his case is hopeless and
 takes his leave; and thus matters drift on year after year—during all
@@ -296,7 +296,7 @@ Returning to Laertes, he must have had money, or how could Ulysses be so
 rich? Where did Ulysses’ money come from? He could hardly have made much
 before he went to Troy, and he does not appear to have sent anything
 home thence. Nothing has been heard from him, and in Book x., <span
-id="fr_58"></span>[\*](#fn_58) he appears to be bringing back his share
+id="fr_58"></span>[\*](#fn_58.md) he appears to be bringing back his share
 of plunder with him—in which case it was lost in the shipwreck off the
 coast of the Thrinacian island. He seems to have had a dowry of some
 kind with Penelope, for Telemachus say that if he sends his mother away
@@ -363,13 +363,13 @@ think none the worse of her.
 
 ### Footnotes
 
-<span id="fn_57"></span>[127:\*](aoto32.htm#fr_57) "Od." ii. 127-128 and
+<span id="fn_57"></span>[127:\*](aoto32.htm#fr_57.md) "Od." ii. 127-128 and
 203-207.
 
-<span id="fn_58"></span>[132:\*](aoto32.htm#fr_58) "Od." x. 40, this
+<span id="fn_58"></span>[132:\*](aoto32.htm#fr_58.md) "Od." x. 40, this
 passage is not given in my abridgement.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. The Character of Penelope, The Journey of
-Telemachus](aoto33)
+Telemachus](aoto33.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage home](../../index) 
-[Shakespeare](../index)  [Index](index)  [Modern](../mfm/mfm) 
-[Previous](mww)  [Next](coe) 
+[Intangible Textual Heritage home](../../index.md) 
+[Shakespeare](../index)  [Index](index)  [Modern](../mfm/mfm.md) 
+[Previous](mww)  [Next](coe.md) 
 
 ------------------------------------------------------------------------
 
@@ -3826,4 +3826,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: The Comedie of Errors](coe) 
+[Next: The Comedie of Errors](coe.md) 

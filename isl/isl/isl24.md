@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](isl23)  [Next](isl25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](isl23)  [Next](isl25.md) 
 
 ------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ alter; and the life there shall not pass away so that they die, and
 however long their halt there grows, they shall not move on. Then beware
 this dwelling place, for there is no power and no might save in God, and
 remember the future life. Son of Adam, cut away your anxiety about the
-lower world." <span id="fr_81"></span>[2](#fn_81)
+lower world." <span id="fr_81"></span>[2](#fn_81.md)
 
 <span id="page_139">p. 139</span>
 
@@ -113,7 +113,7 @@ raiment is wool, my mount is my foot, my lantern at night is the moon,
 and my fire by day is the sun, and my fruit and fragrant herbs are such
 things as the earth brings forth for the wild beasts and the cattle. All
 the night I have nothing, yet there is none richer than I!" <span
-id="fr_82"></span>[3](#fn_82)
+id="fr_82"></span>[3](#fn_82.md)
 
  
 
@@ -122,7 +122,7 @@ disuse. Asceticism traveled with the Arabs to the frontiers of their
 empire, and took root also in Khurasan, the old eastern march provinces
 of Persia, where Zoroastrianism and Nestorian Christianity met with
 Central Asian Buddhism. One of the great Khurasanī ascetics was Ibrāhīm
-ibn Adham, an Arab, <span id="fr_83"></span>[4](#fn_83) whom the legend
+ibn Adham, an Arab, <span id="fr_83"></span>[4](#fn_83.md) whom the legend
 makes the son of one of the native princes of Balkh. The story of his
 conversion to asceticism recalls that of Gautama Buddha.
 
@@ -139,13 +139,13 @@ was not for this thou wast created! It is not this thou wast commanded
 to perform!" I dismounted then, and came across one of my father's
 shepherds, and took from him his woolen tunic and put it on. I gave him
 my mare and all I had with me in exchange, and turned my steps toward
-Mecca. <span id="fr_84"></span>[5](#fn_84)
+Mecca. <span id="fr_84"></span>[5](#fn_84.md)
 
 <span id="page_141">p. 141</span>
 
 He wandered as far as Syria and became a hermit near the Dead Sea. He is
 quoted as saying that he learned true knowledge of God (*ma‘rifa*:
-gnosis) from a solitary Syrian monk. <span id="fr_85"></span>[6](#fn_85)
+gnosis) from a solitary Syrian monk. <span id="fr_85"></span>[6](#fn_85.md)
 As the beggar-prince, he is very popular in Ṡūfī poetry and literature.
 
  
@@ -159,13 +159,13 @@ bought it at the price of this world's sovereignty, and I would buy one
 instant of this poverty again with a hundred worlds, for every moment it
 becomes worth yet more to me. . . . Without any doubt, I know the value
 of poverty, while you remain in ignorance of it. I give thanks for it,
-while you are ungrateful." <span id="fr_86"></span>[7](#fn_86)
+while you are ungrateful." <span id="fr_86"></span>[7](#fn_86.md)
 
 Ibrāhīm is said to have prayed: "O God, Thou knowest that Paradise
 weighs not with me so much as the wing of a gnat. If Thou befriendest me
 by Thy recollection, and sustainest me with Thy love, and makest it easy
 for me to obey thee, then give Thou Thy Paradise to whomsoever Thou
-wilt." <span id="fr_87"></span>[8](#fn_87)
+wilt." <span id="fr_87"></span>[8](#fn_87.md)
 
 Ḥātim al-Aṡamm of Khurasan (died A.H. 237/A.D. 851) was asked, "On what
 do you base your trust in God?" He replied: "On four principles. I
@@ -174,7 +174,7 @@ with this knowledge. I learned that no one performs my acts except me,
 so I am busy with them; I learned that Death will come suddenly, and so
 I run to meet him, and I learned that I am never hidden from the eye of
 God wherever I may be, so I behave modestly before Him." <span
-id="fr_88"></span>[9](#fn_88)
+id="fr_88"></span>[9](#fn_88.md)
 
  
 
@@ -217,7 +217,7 @@ glory and the majesty."
 
 Then she said to him, "Since this is so, and I have these four questions
 with which to concern myself, how should I need a husband, with whom to
-be occupied?" <span id="fr_89"></span>[10](#fn_89) \[She remained
+be occupied?" <span id="fr_89"></span>[10](#fn_89.md) \[She remained
 unmarried.\]
 
  
@@ -229,7 +229,7 @@ does not love thee? But my love to God
 <span id="page_143">p. 143</span>
 
 has so possessed me that no place remains for loving or hating any save
-Him.'" <span id="fr_90"></span>[11](#fn_90)
+Him.'" <span id="fr_90"></span>[11](#fn_90.md)
 
  
 
@@ -239,14 +239,14 @@ her, "Why do you worship God: have you no desire for Paradise?" She
 replied, "The Neighbor first, and then the House. Is it not enough for
 me that I am given leave to worship Him? Even if Heaven and Hell were
 not, does it not behoove us to obey Him? He is worthy of worship without
-any intermediary (motive)."' <span id="fr_91"></span>[12](#fn_91)
+any intermediary (motive)."' <span id="fr_91"></span>[12](#fn_91.md)
 
  
 
 It is related that Rābi‘a prayed once, "Oh my God, wilt Thou burn in
 Hell a heart which loves Thee?" and an unseen voice answered her, "We
 shall not do thus. Do not think of Us an evil thought!" <span
-id="fr_92"></span>[13](#fn_92)
+id="fr_92"></span>[13](#fn_92.md)
 
  
 
@@ -255,7 +255,7 @@ thus:
 
 "Oh my Lord, the stars are shining and the eyes of men are closed, and
 kings have shut their doors, and every lover is alone with his beloved,
-and here am I alone with Thee." <span id="fr_93"></span>[14](#fn_93)
+and here am I alone with Thee." <span id="fr_93"></span>[14](#fn_93.md)
 
  
 
@@ -288,7 +288,7 @@ who is truly rich, and fair to look upon, who tastes delight, who is
 joyous and happy, for he has attained his desire and has secured that
 which he sought from his Lord. Let him who wishes to be near to God
 abandon all that alienates him from God. <span
-id="fr_94"></span>[15](#fn_94)
+id="fr_94"></span>[15](#fn_94.md)
 
 Al-Junayd, his pupil, said, "I used often to say to al-Muḥāsibī, 'My
 solitude has become my consolation, and will you drag me forth to the
@@ -297,57 +297,57 @@ desert, to the sight of men and the public highways?' And he would say,
 mankind were to draw near me, I should find no consolation in them, and
 if the other half stayed far away from me, I should not feel lonely
 because of their distance from me.'" <span
-id="fr_95"></span>[16](#fn_95)
+id="fr_95"></span>[16](#fn_95.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_81"></span>[144:2](isl24.htm#fr_81) Abū Nu‘aym al-Isfahānī,
+<span id="fn_81"></span>[144:2](isl24.htm#fr_81.md) Abū Nu‘aym al-Isfahānī,
 Hilyat al-Awliyā’ (Cairo, 1933), Vol. II, pp. 132-140.
 
-<span id="fn_82"></span>[144:3](isl24.htm#fr_82) A. J. Arberry, trans.,
+<span id="fn_82"></span>[144:3](isl24.htm#fr_82.md) A. J. Arberry, trans.,
 *Ṡūfism* (London, 1950), pp. 33, 35, here abridged.
 
-<span id="fn_83"></span>[144:4](isl24.htm#fr_83) Cf. Massignon, *op.
+<span id="fn_83"></span>[144:4](isl24.htm#fr_83.md) Cf. Massignon, *op.
 cit.*, p. 172.
 
-<span id="fn_84"></span>[144:5](isl24.htm#fr_84) Al-Sulamī, *Tabaqāt
+<span id="fn_84"></span>[144:5](isl24.htm#fr_84.md) Al-Sulamī, *Tabaqāt
 al-Ṡūfīya* (Cairo, 1953), p. 30. Somewhat different version translated
 by Arberry in *Ṡūfism*, p. 37.
 
-<span id="fn_85"></span>[144:6](isl24.htm#fr_85) Story translated in
+<span id="fn_85"></span>[144:6](isl24.htm#fr_85.md) Story translated in
 Arberry, *Ṡūfism*, p. 37.
 
-<span id="fn_86"></span>[144:7](isl24.htm#fr_86) Margaret Smith, trans.,
+<span id="fn_86"></span>[144:7](isl24.htm#fr_86.md) Margaret Smith, trans.,
 *The Persian Mystics: Attār* (Wisdom of the East Series; London, 1932),
 p. 39.
 
-<span id="fn_87"></span>[144:8](isl24.htm#fr_87) Arberry, *Ṡūfism*, p.
+<span id="fn_87"></span>[144:8](isl24.htm#fr_87.md) Arberry, *Ṡūfism*, p.
 37.
 
-<span id="fn_88"></span>[144:9](isl24.htm#fr_88) Ibn Yazdānyār, *Rawdat
+<span id="fn_88"></span>[144:9](isl24.htm#fr_88.md) Ibn Yazdānyār, *Rawdat
 al-Murīdīn* (Mss. Princeton, Paris, Berlin, Cairo, Istanbul).
 
-<span id="fn_89"></span>[144:10](isl24.htm#fr_89) <span id="page_247">p.
+<span id="fn_89"></span>[144:10](isl24.htm#fr_89.md) <span id="page_247">p.
 247</span> Quoted by Margaret Smith, *Rabi‘a the Mystic* (Cambridge,
 1928), p. 11.
 
-<span id="fn_90"></span>[144:11](isl24.htm#fr_90) *Ibid*., p 99.
+<span id="fn_90"></span>[144:11](isl24.htm#fr_90.md) *Ibid*., p 99.
 
-<span id="fn_91"></span>[144:12](isl24.htm#fr_91) *Ibid*., p. 100.
+<span id="fn_91"></span>[144:12](isl24.htm#fr_91.md) *Ibid*., p. 100.
 
-<span id="fn_92"></span>[144:13](isl24.htm#fr_92) *Ibid*., p. 101.
+<span id="fn_92"></span>[144:13](isl24.htm#fr_92.md) *Ibid*., p. 101.
 
-<span id="fn_93"></span>[144:14](isl24.htm#fr_93) *Ibid*., p. 22.
+<span id="fn_93"></span>[144:14](isl24.htm#fr_93.md) *Ibid*., p. 22.
 
-<span id="fn_94"></span>[144:15](isl24.htm#fr_94) Quoted by Margaret
+<span id="fn_94"></span>[144:15](isl24.htm#fr_94.md) Quoted by Margaret
 Smith, *Readings from the Mystics of Islam* (London, 1950), pp. 15, 16.
 
-<span id="fn_95"></span>[144:16](isl24.htm#fr_95) Al-Isfahānī, *op.
+<span id="fn_95"></span>[144:16](isl24.htm#fr_95.md) Al-Isfahānī, *op.
 cit.*, Vol. 10, p. 74. Quoted also in M. Smith, *An Early Mystic of
 Baghdad* (London, 1935), p. 9.
 
 ------------------------------------------------------------------------
 
-[Next: 2. The Ecstatics](isl25)
+[Next: 2. The Ecstatics](isl25.md)

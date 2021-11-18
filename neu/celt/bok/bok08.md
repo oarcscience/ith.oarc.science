@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bok07)  [Next](bok09) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bok07)  [Next](bok09.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Kells*, by Edward Sullivan, \[1920\], at Intangible Textual
 Heritage
 
@@ -23,7 +23,7 @@ THE EVANGELICAL SYMBOLS. FOL. 27 V.
 
 <span id="img_pl04"></span> <span align="CENTER"> [![Plate
 IV](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 Plate IV  
 </span>
 
@@ -31,6 +31,6 @@ Plate IV
 
 ------------------------------------------------------------------------
 
-[Next: Plate V. Portrait of St. Matthew](bok09)
+[Next: Plate V. Portrait of St. Matthew](bok09.md)
 
 </div>

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma02)  [Next](fmma04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma02)  [Next](fmma04.md) 
 
 ------------------------------------------------------------------------
 
@@ -238,4 +238,4 @@ forever.
 
 ------------------------------------------------------------------------
 
-[Next: The Nibelungs](fmma04)
+[Next: The Nibelungs](fmma04.md)

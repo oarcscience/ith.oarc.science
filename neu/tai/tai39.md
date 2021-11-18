@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](tai38)  [Next](tai40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](tai38)  [Next](tai40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -465,7 +465,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
 
  
 
-### XII. THE FEATS OF OLÉG SVYATOSLÁVIČ. <span id="fr_18"></span>[‡](#fn_18)
+### XII. THE FEATS OF OLÉG SVYATOSLÁVIČ. <span id="fr_18"></span>[‡](#fn_18.md)
 
  
 
@@ -607,10 +607,10 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/087501061X/internetsacredte)
 
 ### Footnotes
 
-<span id="fn_17"></span>[7:†](tai39.htm#fr_17) Grandfather of Îgor.
+<span id="fn_17"></span>[7:†](tai39.htm#fr_17.md) Grandfather of Îgor.
 
-<span id="fn_18"></span>[7:‡](tai39.htm#fr_18) V. note.
+<span id="fn_18"></span>[7:‡](tai39.htm#fr_18.md) V. note.
 
 ------------------------------------------------------------------------
 
-[Next: Part II](tai40)
+[Next: Part II](tai40.md)

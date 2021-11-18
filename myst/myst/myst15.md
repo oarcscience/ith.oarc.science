@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Mysticism](../index) 
-[Index](index)  [Previous](myst14)  [Next](myst16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Mysticism](../index.md) 
+[Index](index)  [Previous](myst14)  [Next](myst16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KU/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysticism*, by Evelyn Underhill, \[1911\], at Intangible Textual
 Heritage
 
@@ -43,7 +43,7 @@ transcendence. Here, the mystic does but adopt in a more drastic form
 the principles which all who would live with an intense life, all
 seekers after freedom, all true lovers must accept: though he may justly
 claim with Ophelia that these wear their rue with a difference.  <span
-id="fr_476"></span>[477](#fn_476) <span id="page_233">p. 233</span>
+id="fr_476"></span>[477](#fn_476.md) <span id="page_233">p. 233</span>
 <span id="an_iv.iv-Page_233"></span>
 
 <span id="an_iv.iv-p3"></span>But in the great swing back into sunshine
@@ -95,7 +95,7 @@ divine chorus about Him; in the which chorus dance the soul beholds the
 Fountain of life <span id="page_234">p. 234</span> <span
 id="an_iv.iv-Page_234"></span> the Fountain of intellect, the Principle
 of Being, the cause of good the root of soul.”  <span
-id="fr_477"></span>[478](#fn_477) Such a beholding, such a lifting of
+id="fr_477"></span>[478](#fn_477.md) Such a beholding, such a lifting of
 consciousness from a self-centred to a God-centred world, is of the
 essence of illumination.
 
@@ -130,7 +130,7 @@ radiant consciousness of the “otherness” of natural things, is the
 simplest and commonest form of illumination. Most people, under the
 spell of emotion or of beauty, have known flashes of rudimentary vision
 of this kind. Where such a consciousness is recurrent, as it is in many
-poets,  <span id="fr_478"></span>[479](#fn_478) there results that
+poets,  <span id="fr_478"></span>[479](#fn_478.md) there results that
 partial yet often overpowering apprehension of the Infinite Life
 immanent in all living things, which some modern writers have dignified
 by the name of “nature-mysticism.” <span id="page_235">p. 235</span>
@@ -144,7 +144,7 @@ of his most characteristic letters, written immediately after an onset
 of the illuminated vision which he had lost for many years, “excuse my
 enthusiasm, or rather madness, for I am really drunk with intellectual
 vision whenever I take a pencil or graver into my hand.”  <span
-id="fr_479"></span>[480](#fn_479) Many a great painter, philosopher, or
+id="fr_479"></span>[480](#fn_479.md) Many a great painter, philosopher, or
 poet, perhaps every inspired musician, has known this indescribable
 inebriation of Reality in those moments of transcendence in which his
 masterpieces were conceived. This is the “saving madness” of which Plato
@@ -158,7 +158,7 @@ that cup is given attain to an intenser degree of vitality, hence to a
 more acute degree of perception, a more vivid consciousness, than that
 which is enjoyed by other men. For though, as Ruysbroeck warns us, this
 “is not God,” yet it is for many selves “the Light in which we see Him.”
- <span id="fr_480"></span>[481](#fn_480)
+ <span id="fr_480"></span>[481](#fn_480.md)
 
 <span id="an_iv.iv-p13"></span>Blake conceived that it was his vocation
 to bring this mystical illumination, this heightened vision of reality,
@@ -172,7 +172,7 @@ of the race. They thought him a madman for his pains.
 > Ever expanding in the Bosom of God, the Human Imagination.  
 > O Saviour, pour upon me thy Spirit of meekness and love,  
 > Annihilate the Selfhood in me: be thou all my life.”  <span
-> id="fr_481"></span>[482](#fn_481)  
+> id="fr_481"></span>[482](#fn_481.md)  
 
 <span id="an_iv.iv-p15"></span>The Mysteries of the antique world appear
 to have been attempts—often by way of a merely magical initiation—to
@@ -184,7 +184,7 @@ Infinite, symbols and rituals which were doubtless charged with ecstatic
 suggestions, and often dramatized the actual course of <span
 id="page_236">p. 236</span> <span id="an_iv.iv-Page_236"></span> the
 Mystic Way, may well have brought some enhancement of consciousness:
- <span id="fr_482"></span>[483](#fn_482) though hardly that complete
+ <span id="fr_482"></span>[483](#fn_482.md) though hardly that complete
 rearrangement of character which is an essential of the mystic’s
 entrance on the true Illuminated State. Hence Plato only claims that “he
 whose initiation is recent” can see Immortal Beauty under mortal veils.
@@ -195,7 +195,7 @@ whose initiation is recent” can see Immortal Beauty under mortal veils.
 > And whose soul is near to God:  
 > Whose sins are lifted pall-wise  
 > As he worships on the Mountain.”  <span
-> id="fr_483"></span>[484](#fn_483)  
+> id="fr_483"></span>[484](#fn_483.md)  
 
 <span id="an_iv.iv-p18"></span>Thus sang the initiates of Dionysus; that
 mystery-cult in which the Greeks seem to have expressed all they knew of
@@ -217,7 +217,7 @@ deigns thus to exalt.
 > That dost new life reveal  
 > That dost in grace abound  
 > And, slaying, dost from death to life translate.”  <span
-> id="fr_484"></span>[485](#fn_484)  
+> id="fr_484"></span>[485](#fn_484.md)  
 
 <span id="an_iv.iv-p20"></span>Here the joy is as passionate, the
 consciousness of an exalted life as intense: but it is dominated by the
@@ -256,7 +256,7 @@ so or less according to the measure of their drinking or spilling
 thereof. But the aforesaid Brother John was resplendent above all the
 rest; the which had more completely drunk the chalice of life, *whereby
 he had the more deeply gazed into the abyss of the infinite light
-divine* .”  <span id="fr_485"></span>[486](#fn_485)
+divine* .”  <span id="fr_485"></span>[486](#fn_485.md)
 
 <span id="an_iv.iv-p25"></span>No image, perhaps, could suggest so
 accurately as this divine picture the conditions of perfect
@@ -264,7 +264,7 @@ illumination: the drinking deeply, devoutly, and in haste—that is,
 without prudent and self-regarding hesitation—of the heavenly Wine of
 Life; that wine of which Rolle says that it “fulfils the soul with a
 great gladness through a sweet contemplation.”  <span
-id="fr_486"></span>[487](#fn_486) John of Parma, the hero of those
+id="fr_486"></span>[487](#fn_486.md) John of Parma, the hero of those
 Spiritual Franciscans in whose interest this exquisite allegory was
 composed, stands for all the mystics, who, “having completely drunk,”
 have attained the power of gazing into the abyss of the infinite light
@@ -279,7 +279,7 @@ contemplative, “partly shining and partly dark.” “Hinder me not,” says
 the soul to the <span id="page_238">p. 238</span> <span
 id="an_iv.iv-Page_238"></span> senses in Mechthild of Magdeburg’s
 vision, “I would drink for a space of the unmingled wine.”  <span
-id="fr_487"></span>[488](#fn_487) In the artist, the senses have
+id="fr_487"></span>[488](#fn_487.md) In the artist, the senses have
 somewhat hindered the perfect inebriation of the soul.
 
 <span id="an_iv.iv-p28"></span>We have seen that a vast tract of
@@ -325,13 +325,13 @@ proceedings of the inward eye and ear, he exclaims with entire assurance
 <span id="an_iv.iv-p30.1"></span>“Beati oculi qui exterioribus clausi,
 interioribus autem sunt <span id="page_239">p. 239</span> <span
 id="an_iv.iv-Page_239"></span> intenti,”  <span
-id="fr_488"></span>[489](#fn_488) and, absorbed in this new blissful act
+id="fr_488"></span>[489](#fn_488.md) and, absorbed in this new blissful act
 of vision, forgets that it belongs to those who are still <span
 id="an_iv.iv-p31.1"></span> *in via* . He has yet to pass through that
 “night of the senses” in which he learns to distinguish the substance of
 Reality from the accidents under which it is perceived; to discover that
 the heavenly food here given cannot satisfy his “hunger for the
-Absolute.”  <span id="fr_489"></span>[490](#fn_489) His true goal lies
+Absolute.”  <span id="fr_489"></span>[490](#fn_489.md) His true goal lies
 far beyond this joyful basking in the sunbeams of the Uncreated Light.
 Only the greatest souls learn this lesson, and tread the whole of that
 “King’s Highway” which leads man back to his Source. “For the many that
@@ -404,12 +404,12 @@ perceptions seem to be strangely heightened, so that the self perceives
 an added significance and reality in all natural things: is often
 convinced that it knows at last “the secret of the world.” In Blake’s
 words “the doors of perception are cleansed” so that “everything appears
-to man as it *is* , infinite.”  <span id="fr_490"></span>[491](#fn_490)
+to man as it *is* , infinite.”  <span id="fr_490"></span>[491](#fn_490.md)
 
 <span id="an_iv.iv-p40"></span>In these two forms of perception we see
 the growing consciousness of the mystic stretching in two directions,
 until it includes in its span both the World of Being and the World of
-Becoming;  <span id="fr_491"></span>[492](#fn_491) that dual
+Becoming;  <span id="fr_491"></span>[492](#fn_491.md) that dual
 apprehension of reality as transcendent yet immanent which we found to
 be one of the distinguishing marks of the mystic type.
 
@@ -474,7 +474,7 @@ though it be withdrawn. The “spirit stretching towards God” declares
 that it has touched Him; and its normal condition henceforth is joyous
 consciousness of His Presence with “many privy touchings of sweet
 spiritual sights and feeling, measured to us as our simpleness may bear
-it.”  <span id="fr_492"></span>[493](#fn_492) Where he prefers less
+it.”  <span id="fr_492"></span>[493](#fn_492.md) Where he prefers less
 definite or more pantheistic language, the mystic’s perceptions may take
 the form of “harmony with the Infinite”—the same divine music transposed
 to a lower key.
@@ -494,12 +494,12 @@ least aware of Him, but thou shalt well know Him or He go; for
 wonderfully He stirreth and mightily He turneth thy heart into beholding
 of His goodness, and doth thine heart melt delectably as wax against the
 fire into softness of His love.”  <span
-id="fr_493"></span>[494](#fn_493)
+id="fr_493"></span>[494](#fn_493.md)
 
 <span id="an_iv.iv-p49"></span>Modern psychologists have struggled hard
 to discredit this “sense of the presence”; sometimes attributing it to
 the psychic mechanism of projection, sometimes to “wish-fulfilments” of
-a more unpleasant origin.  <span id="fr_494"></span>[495](#fn_494) The
+a more unpleasant origin.  <span id="fr_494"></span>[495](#fn_494.md) The
 mystics, however, who discriminate so much more delicately than their
 critics between true and false transcendental experience, never feel any
 doubt about its validity. Even when their experience seems inconsistent
@@ -518,7 +518,7 @@ seemed to me to be present Himself: so I was distressed. A most learned
 man, of the Order of the glorious Patriarch St. Dominic, delivered me
 from this doubt, for he told me that He was present, and how He communed
 with us: this was a great comfort to me.”  <span
-id="fr_495"></span>[496](#fn_495)
+id="fr_495"></span>[496](#fn_495.md)
 
 <span id="an_iv.iv-p53"></span>Again, “An interior peace, and the little
 strength which either pleasures or displeasures have to remove this
@@ -526,7 +526,7 @@ presence (during the time it lasts) of the Three Persons, and that
 without power to doubt of it, continue in such a manner that I clearly
 seem to experience what St. John says, *That He will dwell in the soul,*
 and this not only by grace, but that He will also make her perceive this
-presence.”  <span id="fr_496"></span>[497](#fn_496) St. Teresa’s strong
+presence.”  <span id="fr_496"></span>[497](#fn_496.md) St. Teresa’s strong
 “immanental” bent comes out well in this passage.
 
 <span id="an_iv.iv-p55"></span>Such a sense of the divine presence may
@@ -538,7 +538,7 @@ interest, its perceptions and admonitions dominate and light up his
 daily life. The object of education, in the Platonic sense, has been
 achieved: his soul has “wheeled round from the perishing world” to “the
 contemplation of the real world and the brightest part thereof.”  <span
-id="fr_497"></span>[498](#fn_497) But where vocation and circumstances
+id="fr_497"></span>[498](#fn_497.md) But where vocation and circumstances
 require it, the duties of a busy outward life continue to be fulfilled
 with steadiness and success: and this without detriment to the soul’s
 contemplation of the Real.
@@ -555,7 +555,7 @@ be “seeing, feeling and thinking all at once.” By this spontaneous
 exercise of all his powers under the dominion of love, the mystic
 attains that “Vision of the Heart” which, “more interior, perhaps, than
 the visions of dream or ecstasy,”  <span
-id="fr_498"></span>[499](#fn_498) stretches <span id="page_244">p.
+id="fr_498"></span>[499](#fn_498.md) stretches <span id="page_244">p.
 244</span> <span id="an_iv.iv-Page_244"></span> to the full those very
 faculties which it seems to be holding in suspense; as a top “sleeps”
 when it is spinning fast. <span id="an_iv.iv-p58.1"></span> *Ego dormio
@@ -600,7 +600,7 @@ at a lower depth. If I have looked without myself, I have found that He
 is beyond that which is outside of me, and if within, He was at an inner
 depth still. And thus have I learned the truth of the words I have read,
 <span id="an_iv.iv-p60.1"></span> *In* *ipso enim vivimus et movemur et
-sumus* .”  <span id="fr_499"></span>[500](#fn_499) <span
+sumus* .”  <span id="fr_499"></span>[500](#fn_499.md) <span
 id="page_245">p. 245</span> <span id="an_iv.iv-Page_245"></span>
 
 <span id="an_iv.iv-p62"></span>Such a lifting up, such a condition of
@@ -614,7 +614,7 @@ they have now truly attained the Absolute. It is but a foretaste,
 however, of that attainment: the precocious effort of a soul still in
 that stage of “Enlightening” which the “Theologia Germanica” declares to
 be “belonging to such as are growing.”  <span
-id="fr_500"></span>[501](#fn_500)
+id="fr_500"></span>[501](#fn_500.md)
 
 <span id="an_iv.iv-p64"></span>This distinction between the temporary
 experience of union and the achievement of the Unitive Life is well
@@ -652,7 +652,7 @@ Himself to be sometimes tasted, that thou mayest learn how sweet He is.
 This shall console thee <span id="page_246">p. 246</span> <span
 id="an_iv.iv-Page_246"></span> for His absence: and the savour of this
 gift shall keep thee from all despair.”  <span
-id="fr_501"></span>[502](#fn_501)
+id="fr_501"></span>[502](#fn_501.md)
 
 <span id="an_iv.iv-p68"></span>The real distinction between the
 Illuminative and the Unitive Life is that in Illumination the
@@ -673,7 +673,7 @@ about it, nor about the purchase of the wine. That he said to God, *It*
 *was His business he was about:* and that he afterwards found it very
 well performed. . . . So likewise in his business in the kitchen, to
 which he had naturally a great aversion.”  <span
-id="fr_502"></span>[503](#fn_502)
+id="fr_502"></span>[503](#fn_502.md)
 
 <span id="an_iv.iv-p70"></span>The mind, concentrated upon a higher
 object of interest, is undistracted by its own anxieties, likes, or
@@ -684,7 +684,7 @@ be blamed. St. Catherine of Genoa found in this divine companionship the
 power which made her hospital a success. St. Teresa was an administrator
 of genius and an admirable housewife, and declared that she found her
 God very easily amongst the pots and pans.  <span
-id="fr_503"></span>[504](#fn_503) Appearances notwithstanding, Mary
+id="fr_503"></span>[504](#fn_503.md) Appearances notwithstanding, Mary
 would probably have been a better cook than Martha, had circumstances
 required of her this form of activity.
 
@@ -703,7 +703,7 @@ fall out of my hands. I spent hours in this way without being able to
 open my eyes or to know what was happening to me: so simply, so
 peacefully, so gently that sometimes I said to myself, ‘Can heaven
 itself be more peaceful than I?’”  <span
-id="fr_504"></span>[505](#fn_504)
+id="fr_504"></span>[505](#fn_504.md)
 
 <span id="an_iv.iv-p74"></span>Here we see Madame Guyon basking like a
 pious tabby cat in the beams of the Uncreated Light, and already leaning
@@ -719,7 +719,7 @@ biographers of St. Catherine of Genoa, that she passed in the crisis of
 her conversion directly through the Purgative to the Unitive Life; and
 never exhibited the characteristics of the Illuminative Way. This has
 been effectually disproved by Baron von Hügel,  <span
-id="fr_505"></span>[506](#fn_505) though he too is inclined in her case
+id="fr_505"></span>[506](#fn_505.md) though he too is inclined in her case
 to reject the usual sequence of the mystic states. Yet the description
 of Catherine’s condition after her four great penitential years were
 ended, as given in cap. vi. of the “Vita e Dottrina,” is an almost
@@ -734,7 +734,7 @@ These moments are responsible for such passages as the beautiful
 fragment in cap. v.; which does, when taken alone, seem to describe the
 true unitive state. “Sometimes,” she said, “I do not see or feel myself
 to have either soul, body, heart, will or taste, or any other thing
-except Pure Love.”  <span id="fr_506"></span>[507](#fn_506) Her normal
+except Pure Love.”  <span id="fr_506"></span>[507](#fn_506.md) Her normal
 condition of consciousness, however, was clearly not yet that which
 Julian of Norwich calls being “oned with bliss”; but rather an intense
 and continuous communion with an objective Reality which was clearly
@@ -764,17 +764,17 @@ union with the Divine. With her, as with all truly heroic souls, it was
 love for love, not love for joy. “She cried to God because He gave her
 so many consolations, <span id="an_iv.iv-p78.1"></span> *‘Non voglio
 quello che esce da te, ma sol voglio te, O dolce Amore* !’”  <span
-id="fr_507"></span>[508](#fn_507)
+id="fr_507"></span>[508](#fn_507.md)
 
 <span id="an_iv.iv-p80"></span><span id="an_iv.iv-p80.1"></span> *“Non
 voglio quello che esce da te.”* When the growing soul has reached this
 level of desire, the Illuminative Way is nearly at an end. It has seen
 the goal, “that Country which is no mere vision, but a home,”  <span
-id="fr_508"></span>[509](#fn_508) and is set upon the forward march. So
+id="fr_508"></span>[509](#fn_508.md) and is set upon the forward march. So
 Rabia, the Moslem saint: “O my God, my concern and my desire in this
 world, is that I should remember thee above all the things of this
 world, and in the next that out of all who are in that world, I should
-meet with thee alone.”  <span id="fr_509"></span>[510](#fn_509) So
+meet with thee alone.”  <span id="fr_509"></span>[510](#fn_509.md) So
 Gertrude More: “No knowledge which we can here have of thee can satisfy
 my soul seeking and longing without ceasing after thee. . . . Alas, my
 Lord God, what is all thou canst give to a loving soul which sigheth and
@@ -786,7 +786,7 @@ souls? Was it any comfort to St. Mary Magdalen, when she sought thee, to
 find two angels which presented themselves instead of thee? verily I
 cannot think it was any joy unto her. For that soul that hath set her
 whole love and desire on thee can never find any true satisfaction but
-only in thee.”  <span id="fr_510"></span>[511](#fn_510)
+only in thee.”  <span id="fr_510"></span>[511](#fn_510.md)
 
 <span id="an_iv.iv-p84"></span>What is the nature of this mysterious
 mystic illumination? Apart from the certitude it imparts, what is the
@@ -803,7 +803,7 @@ their inward adjustment.
 > <span id="an_iv.iv-p84.1"></span> “Sopr’ onne lengua amore,  
 > bontá senza figura,  
 > lume fuor di mesura  
-> resplende nel mio core,”  <span id="fr_511"></span>[512](#fn_511)  
+> resplende nel mio core,”  <span id="fr_511"></span>[512](#fn_511.md)  
 
 <span id="an_iv.iv-p86"></span>sang Jacopone da Todi. “Light rare,
 untellable!” said Whitman. “The flowing light of the Godhead,” said
@@ -812,10 +812,10 @@ difference between her universe and that of normal men. <span
 id="an_iv.iv-p86.1"></span> *“Lux vixens dicit,”* said St. Hildegarde of
 her revelations, which she described as appearing in a special light,
 more brilliant than the brightness round the sun.  <span
-id="fr_512"></span>[513](#fn_512) It is an “infused brightness,” says
+id="fr_512"></span>[513](#fn_512.md) It is an “infused brightness,” says
 St. Teresa, “a light which knows no night; but rather, as it is always
 light, nothing ever disturbs it.”  <span
-id="fr_513"></span>[514](#fn_513)
+id="fr_513"></span>[514](#fn_513.md)
 
 > <span id="an_iv.iv-p88.1"></span> “De subito parve giorno a giorno  
 > essere aggiunto!”  
@@ -829,7 +829,7 @@ his constant declaration:
 
 <span id="an_iv.iv-p90"></span>his last word, in the effort to describe
 the soul’s apprehension of the Being of God.  <span
-id="fr_514"></span>[515](#fn_514)
+id="fr_514"></span>[515](#fn_514.md)
 
 <span id="an_iv.iv-p92"></span>It really seems as though the mystics’
 attainment of new levels of consciousness did bring with it the power of
@@ -837,11 +837,11 @@ perceiving a splendour always there, but beyond the narrow range of our
 poor sight; to which it is only a “luminous darkness” at the best. <span
 id="page_250">p. 250</span> <span id="an_iv.iv-Page_250"></span> “In
 Eternal Nature, or the kingdom of Heaven,” said Law, “materiality stands
-in life and light.”  <span id="fr_515"></span>[516](#fn_515) The
+in life and light.”  <span id="fr_515"></span>[516](#fn_515.md) The
 cumulative testimony on this point is such as would be held to prove, in
 any other department of knowledge, that there is indeed an actual light,
 “lighting the very light” and awaiting the recognition of men.  <span
-id="fr_516"></span>[517](#fn_516)
+id="fr_516"></span>[517](#fn_516.md)
 
 <span id="an_iv.iv-p95"></span>Consider the accent of realism with which
 St. Augustine speaks of his own experience of Platonic contemplation; a
@@ -858,7 +858,7 @@ things. Nor was it above my intelligence in the same way as oil is above
 water, or heaven above earth; but it was higher because it made me, and
 I was lower because made by it. He who knoweth the truth knoweth that
 Light: and who knoweth it, knoweth eternity. Love knoweth it.”  <span
-id="fr_517"></span>[518](#fn_517)
+id="fr_517"></span>[518](#fn_517.md)
 
 <span id="an_iv.iv-p97"></span>Here, as in the cases of St. Teresa, St.
 Catherine of Genoa, and Jacopone da Todi, we have a characteristically
@@ -867,14 +867,14 @@ process which mystics call “introversion,” the deliberate turning
 inwards of its attention, its conative powers, discerns Reality within
 the heart: “the rippling tide of love which flows secretly from God into
 the soul, and draws it mightily back into its source.”  <span
-id="fr_518"></span>[519](#fn_518) But the opposite or transcendental
+id="fr_518"></span>[519](#fn_518.md) But the opposite or transcendental
 tendency is not less frequent. The cosmic vision of Infinity, exterior
 to the subject—the expansive, outgoing movement towards a Divine Light,
 
 > <span id="an_iv.iv-p98.1"></span> “Che visible face  
 > lo Creatore a quella creatura,  
 > che solo in lui vedere ha la sua pace,” <span
-> id="fr_519"></span>[520](#fn_519)  
+> id="fr_519"></span>[520](#fn_519.md)  
 
 <span id="an_iv.iv-p100"></span><span id="page_251">p. 251</span> <span
 id="an_iv.iv-Page_251"></span> wholly other than anything the earth-born
@@ -884,7 +884,7 @@ perception are equally characteristic of the Illuminative Way. As in
 conversion, so here Reality may be apprehended in either transcendent or
 immanent, positive or negative terms. It is both near and far; “closer
 to us than our most inward part, and higher than our highest”;  <span
-id="fr_520"></span>[521](#fn_520) and for some selves that which is far
+id="fr_520"></span>[521](#fn_520.md) and for some selves that which is far
 is easiest to find. To a certain type of mind, the veritable practice of
 the Presence of God is not the intimate and adorable companionship of
 the personal Comrade or the Inward Light, but the awestruck
@@ -895,7 +895,7 @@ hidden in the dazzling obscurity of the secret Silence, outshining all
 brilliance with the intensity of their darkness, and surcharging our
 blinded intellects with the utterly impalpable and invisible fairness of
 glories which exceed all beauty.”  <span
-id="fr_521"></span>[522](#fn_521)
+id="fr_521"></span>[522](#fn_521.md)
 
 <span id="an_iv.iv-p103"></span>With such an experience of eternity,
 such a vision of the triune all-including Absolute which “binds the
@@ -923,7 +923,7 @@ the Inviolate Rose, the flaming heart of things.
 > O luce eterna, che sola in te sidi,  
 > sola t’ intendi, e, da te intelletta  
 > ed intendente te, ami ed arridi!” <span
-> id="fr_522"></span>[523](#fn_522)  
+> id="fr_522"></span>[523](#fn_522.md)  
 
 <span id="an_iv.iv-p111"></span><span id="page_252">p. 252</span> <span
 id="an_iv.iv-Page_252"></span> In Dante, the transcendent and impersonal
@@ -949,7 +949,7 @@ both here and beyond the sea, and the abyss and ocean and all things. In
 all these things I beheld naught save the divine power, in a manner
 assuredly indescribable; so that through excess of marvelling the soul
 cried with a loud voice, saying ‘This whole world is full of God!’
- <span id="fr_523"></span>[524](#fn_523) Wherefore I now comprehended
+ <span id="fr_523"></span>[524](#fn_523.md) Wherefore I now comprehended
 how small a thing is the whole world, that is to say both here and
 beyond the seas, the abyss, the ocean, and all things; and that the
 Power of God exceeds and fills all. Then He said unto me: ‘I have shown
@@ -958,7 +958,7 @@ better understand the rest. He then said ‘Behold now My humility.’ Then
 was I given an insight into the deep humility of God towards man. And
 comprehending that unspeakable power and beholding that deep humility,
 my soul marvelled greatly, and did esteem itself to be nothing at all.”
- <span id="fr_524"></span>[525](#fn_524)
+ <span id="fr_524"></span>[525](#fn_524.md)
 
 <span id="an_iv.iv-p116"></span>It must never be forgotten that all
 apparently one-sided descriptions of illumination—more, all experiences
@@ -1020,7 +1020,7 @@ closer and closer to its dear mother, and shows by its little laughing
 gestures the gladness in its heart. Thus did the heart of the Servitor
 ever seek the sweet neighbourhood of the Divine Wisdom, and thus he was
 as it were altogether filled with delight.”  <span
-id="fr_525"></span>[526](#fn_525)
+id="fr_525"></span>[526](#fn_525.md)
 
 #### <span id="an_iv.iv-p119.1"></span>2. The Illuminated Vision of the World
 
@@ -1030,7 +1030,7 @@ complementary mark of the illuminated consciousness; the vision of “a
 new heaven and a new earth,” or an added significance and reality in the
 phenomenal world. Such words as those of Julian, “God is all thing that
 is good as to my sight, and the goodness that all thing hath, it is He,”
- <span id="fr_526"></span>[527](#fn_526) seem to supply the link between
+ <span id="fr_526"></span>[527](#fn_526.md) seem to supply the link between
 the two. Here again we must distinguish carefully between vaguely poetic
 language—“the light that never was,” “every common bush afire with
 God”—and descriptions which can be referred to a concrete and definite
@@ -1058,7 +1058,7 @@ those who have experienced it. The simple vision of pure love, which is
 <span id="page_255">p. 255</span> <span id="an_iv.iv-Page_255"></span>
 marvellously penetrating, does not stop at the outer husk of creation:
 it penetrates to the divinity which is hidden within.”  <span
-id="fr_527"></span>[528](#fn_527)
+id="fr_527"></span>[528](#fn_527.md)
 
 <span id="an_iv.iv-p125"></span>Thus Browning makes David declare—
 
@@ -1066,7 +1066,7 @@ id="fr_527"></span>[528](#fn_527)
 > perfection, no more and no less  
 > In the kind I imagined full-fronts me, and God is seen God  
 > In the star, in the stone, in the flesh, in the soul and the clod.”
->  <span id="fr_528"></span>[529](#fn_528)  
+>  <span id="fr_528"></span>[529](#fn_528.md)  
 
 <span id="an_iv.iv-p127"></span>Blake’s “To see a world in a grain of
 sand,” Tennyson’s “Flower in the crannied wall,” Vaughan’s “Each bush
@@ -1076,11 +1076,11 @@ vision of pure love”: the value of which is summed up in Eckhart’s
 profound saying, “The meanest thing that one knows in God—for instance
 if one could understand a flower as it has its Being in God—this would
 be a higher thing than the whole world!”  <span
-id="fr_529"></span>[530](#fn_529) Mystical poets of the type of
+id="fr_529"></span>[530](#fn_529.md) Mystical poets of the type of
 Wordsworth and Walt Whitman seem to possess in a certain degree this
 form of illumination. It is this which Bucke, the American psychologist,
 analysed under the name of “Cosmic Consciousness.”  <span
-id="fr_530"></span>[531](#fn_530) It is seen at its full development in
+id="fr_530"></span>[531](#fn_530.md) It is seen at its full development in
 the mystical experiences of Boehme, Fox, and Blake.
 
 <span id="an_iv.iv-p130"></span>We will take first the experience of
@@ -1093,7 +1093,7 @@ it, but are seldom developed simultaneously in the same individual.
 
 <span id="an_iv.iv-p131"></span>In Boehme’s life, as described in the
 Introduction to the English translation of his collected works,  <span
-id="fr_531"></span>[532](#fn_531) there were three distinct onsets of
+id="fr_531"></span>[532](#fn_531.md) there were three distinct onsets of
 illumination; all of the pantheistic and external type. In the first,
 which seems to have happened whilst he was very young, we are told that
 “he was surrounded by a divine Light for seven days, and stood in the
@@ -1101,7 +1101,7 @@ highest contemplation and Kingdom of Joy.” This we may perhaps identify
 with mystical awakening, of the kind experienced by Suso. About the year
 1600 occurred the second illumination, initiated by a trance-like state
 of consciousness, the result of gazing at a polished disc. To this I
-have already referred.  <span id="fr_532"></span>[533](#fn_532) This
+have already referred.  <span id="fr_532"></span>[533](#fn_532.md) This
 experience brought with it that peculiar and lucid <span
 id="page_256">p. 256</span> <span id="an_iv.iv-Page_256"></span> vision
 of the inner reality of the phenomenal world in which, as he says, “he
@@ -1109,7 +1109,7 @@ looked into the deepest foundations of things.” “He believed that it was
 only a fancy, and in order to banish it from his mind he went out upon
 the green. But here he remarked that he gazed into the very heart of
 things, the very herbs and grass, and that actual Nature harmonized with
-what he had inwardly seen.”  <span id="fr_533"></span>[534](#fn_533) Of
+what he had inwardly seen.”  <span id="fr_533"></span>[534](#fn_533.md) Of
 this same experience and the clairvoyance which accompanied it, another
 biographer says, “Going abroad in the fields to a green before Neys
 Gate, at Görlitz, he there sat down, and, viewing the herbs and grass of
@@ -1119,7 +1119,7 @@ and signatures. . . . In the unfolding of these mysteries before his
 understanding, he had a great measure of joy, yet returned home and took
 care of his family and lived in great peace and silence, scarce
 intimating to any these wonderful things that had befallen him.”  <span
-id="fr_534"></span>[535](#fn_534)
+id="fr_534"></span>[535](#fn_534.md)
 
 <span id="an_iv.iv-p136"></span>So far as we can tell from his own
 scattered statements, from this time onwards Boehme must have enjoyed a
@@ -1176,13 +1176,13 @@ space of twelve years, and as it was as it were breeding, and I found a
 powerful Instigation within me, before I could bring it forth into
 external Form of Writing: and whatever I could apprehend with the
 external Principle of my mind, that I wrote down.”  <span
-id="fr_535"></span>[536](#fn_535)
+id="fr_535"></span>[536](#fn_535.md)
 
 <span id="an_iv.iv-p139"></span>Close to this lucid vision of the
 reality of things—this sudden glimpse of the phenomenal in the light of
 the intelligible world—is George Fox’s experience at the age of
 twenty-four, as recorded in his Journal.  <span
-id="fr_536"></span>[537](#fn_536) Here, as in Boehme’s case, it is clear
+id="fr_536"></span>[537](#fn_536.md) Here, as in Boehme’s case, it is clear
 that a previous and regrettable acquaintance with the “doctrine of
 signatures” has to some extent determined the language and symbols under
 which he describes his intuitive vision of actuality as it exists in the
@@ -1227,13 +1227,13 @@ mystic and Life in all its forms. Undistracted by appearance, he sees,
 feels, and knows it in one piercing act of loving comprehension. “And
 the bodily sight stinted,” says Julian, “but the spiritual sight dwelled
 in mine understanding, and I abode with reverent dread joying in that I
-saw.”  <span id="fr_537"></span>[538](#fn_537) The heart outstrips the
+saw.”  <span id="fr_537"></span>[538](#fn_537.md) The heart outstrips the
 clumsy senses, and sees—perhaps for an instant, perhaps for long periods
 of bliss—an undistorted and more veritable world. All things are
 perceived in the light of charity, and hence under the aspect of beauty:
 for beauty is simply Reality seen with the eyes of love. As in the case
 of another and more beatific Vision, *essere in caritate è* *qui
-necesse* <span id="fr_538"></span>[539](#fn_538) For such a reverent and
+necesse* <span id="fr_538"></span>[539](#fn_538.md) For such a reverent and
 joyous sight the meanest accidents of life are radiant. The London
 streets are paths of loveliness; the very omnibuses look like coloured
 archangels, their laps filled full of little trustful souls. <span
@@ -1245,7 +1245,7 @@ we are blind. They have gone on ahead of us, and attained that state of
 “fourfold vision to which Blake laid claim; in which the visionary sees
 the whole visible universe transfigured, because he has “put off the
 rotten rags of sense and memory,” and “put on Imagination uncorrupt.”
- <span id="fr_539"></span>[540](#fn_539) In this state of lucidity
+ <span id="fr_539"></span>[540](#fn_539.md) In this state of lucidity
 symbol and reality, Nature and Imagination, are seen to be *One:* and in
 it are produced all the more sublime works of art, since these owe their
 greatness to the impact of Reality upon the artistic mind. “I know,”
@@ -1262,7 +1262,7 @@ sees. As the eye is formed, such are its powers. You certainly mistake,
 when you say that the visions of fancy are not to be found in this
 world. To me this world is all one continued vision of fancy or
 imagination, and I feel flattered when I am told so.”  <span
-id="fr_540"></span>[541](#fn_540)
+id="fr_540"></span>[541](#fn_540.md)
 
 <span id="an_iv.iv-p149"></span>If the Mystic Way be considered as an
 organic process of transcendence, this illuminated apprehension of
@@ -1292,7 +1292,7 @@ this loving vision there comes very often that beautiful sympathy with,
 that abnormal power over, all living natural things, which crops up
 again and again in the lives of the mystical saints; to amaze the
 sluggish minds of common men, barred by “the torrent of Use and Wont”
- <span id="fr_541"></span>[542](#fn_541) from all free and deep
+ <span id="fr_541"></span>[542](#fn_541.md) from all free and deep
 communion alike with their natural and supernatural origin.
 
 <span id="an_iv.iv-p152"></span>Yet it is surely not very amazing that
@@ -1302,13 +1302,13 @@ appearance of God,” should have been acutely conscious that he shared
 with these brothers and sisters of his the great and lovely life of the
 All. Nor, this being so, can we justly regard him as eccentric because
 he acted in accordance with his convictions, preached to his little
-sisters the birds,  <span id="fr_542"></span>[543](#fn_542) availed
+sisters the birds,  <span id="fr_542"></span>[543](#fn_542.md) availed
 himself of the kindly offices of the falcon,  <span
-id="fr_543"></span>[544](#fn_543) enjoyed the friendship of the
-pheasant,  <span id="fr_544"></span>[545](#fn_544) soothed the captured
+id="fr_543"></span>[544](#fn_543.md) enjoyed the friendship of the
+pheasant,  <span id="fr_544"></span>[545](#fn_544.md) soothed the captured
 turtledoves, his “simple-minded sisters, innocent and chaste,”  <span
-id="fr_545"></span>[546](#fn_545) or persuaded his Brother Wolf to a
-better life.  <span id="fr_546"></span>[547](#fn_546)
+id="fr_545"></span>[546](#fn_545.md) or persuaded his Brother Wolf to a
+better life.  <span id="fr_546"></span>[547](#fn_546.md)
 
 <span id="an_iv.iv-p158"></span>The true mystic, so often taunted with
 “a denial of the world,” does but deny the narrow and artificial world
@@ -1350,7 +1350,7 @@ the country and the houses, never did any dog bark behind him. At length
 after a two years space, brother wolf died of old age: whereat the
 townsfolk sorely grieved, sith marking him pass so gently through the
 city, they minded them the better of the virtue and the sanctity of St.
-Francis.”  <span id="fr_547"></span>[548](#fn_547)
+Francis.”  <span id="fr_547"></span>[548](#fn_547.md)
 
 <span id="an_iv.iv-p162"></span>In another mystic, less familiar than
 St. Francis to English readers—Rose of Lima, the Peruvian saint—this
@@ -1367,7 +1367,7 @@ praising God. At the same time the birds began to sing, and came and
 perched upon the hands and shoulders of Rose. The insects greeted her
 with a joyous murmur, and all which had life and movement joined in the
 concert of praise she addressed to the Lord.”  <span
-id="fr_548"></span>[549](#fn_548)
+id="fr_548"></span>[549](#fn_548.md)
 
 <span id="an_iv.iv-p164"></span>Again—and here we catch an echo of the
 pure Franciscan spirit, the gaiety of the Troubadours of God—during her
@@ -1392,7 +1392,7 @@ that when the bird sang Rose said nothing, and when she sang in her turn
 the bird was silent, and listened to her with a marvellous attention. At
 last, towards the sixth hour, the saint dismissed him, saying, ‘Go, my
 little chorister, go, fly far away. But blessed be my God who never
-leaves me!’’’  <span id="fr_549"></span>[550](#fn_549)
+leaves me!’’’  <span id="fr_549"></span>[550](#fn_549.md)
 
 <span id="an_iv.iv-p167"></span>The mystic whose illumination takes such
 forms as these, who feels with this intensity and closeness the bond of
@@ -1406,7 +1406,7 @@ judgment are equal: and the things which the seer brings back with him
 when he returns to common life are not merely partial impressions, or
 the separate knowledge of ‘science’ or ‘poetry.’ They are rather truths
 which embrace the world, life and conduct: in a word, *the whole
-consciousness* .”  <span id="fr_550"></span>[551](#fn_550)
+consciousness* .”  <span id="fr_550"></span>[551](#fn_550.md)
 
 <span id="an_iv.iv-p169"></span>It is curious to note in those diagrams
 of experience which we have inherited from the more clear-sighted
@@ -1427,16 +1427,16 @@ id="page_263">p. 263</span> <span id="an_iv.iv-Page_263"></span> and, as
 a matter of experience, it does do this, seeing all objects, as Monet
 saw the hayrick, as “modes of light.” Blake said that his cottage at
 Felpham was a shadow of the angels’ houses,  <span
-id="fr_551"></span>[552](#fn_551) and I have already referred to the
+id="fr_551"></span>[552](#fn_551.md) and I have already referred to the
 converted Methodist who saw his horses and hogs on the ideal plane.
- <span id="fr_552"></span>[553](#fn_552)
+ <span id="fr_552"></span>[553](#fn_552.md)
 
 <span id="an_iv.iv-p172"></span>Again, when Plotinus, who is known to
 have experienced ecstatic states, speaks with the assurance of an
 explorer of an “intelligible world,” and asks us, “What other fire could
 be a better image of the fire which is there, than the fire which is
 here? Or what other earth than this, of the earth which is there?”
- <span id="fr_553"></span>[554](#fn_553) we seem to detect behind the
+ <span id="fr_553"></span>[554](#fn_553.md) we seem to detect behind the
 language of Neoplatonic philosophy a hint of the same type of first-hand
 experience. The minds to whom we owe the Hebrew Kabalah found room for
 it too in their diagram of the soul’s ascent towards Reality. The first
@@ -1458,7 +1458,7 @@ and light; it is the light’s glorious Body, or that garment wherewith
 light is clothed, and therefore has all the properties of light in it,
 and only differs from light as it is its brightness and beauty, as the
 holder and displayer of all its colours, powers, and virtues.”  <span
-id="fr_554"></span>[555](#fn_554) When Law wrote this, he may have
+id="fr_554"></span>[555](#fn_554.md) When Law wrote this, he may have
 believed that he was interpreting to English readers the unique message
 of his master, Jacob Boehme. As a matter of fact he was reiterating
 truths which a long line of practical mystics had been crying for
@@ -1503,7 +1503,7 @@ fire, he feels. Then with marvellous sweetness he is taught, and so
 forth in songful noise he is joyed. This, therefore, is perfect charity,
 which no man knows but he that hath it took. And he that it has taken,
 it never leaves: sweetly he lives and sickerly he shall die.”  <span
-id="fr_555"></span>[556](#fn_555)
+id="fr_555"></span>[556](#fn_555.md)
 
 <span id="an_iv.iv-p178"></span>Sweetly, it is true, the illuminated
 mystic may live; but not, as some think, placidly. Enlightenment is a
@@ -1552,7 +1552,7 @@ God: and hence there remains an eternal hunger and impatience. If God
 gave to such a man all the gifts which all the saints possess, and all
 that He is able to give, but without giving Himself, the craving desire
 of the spirit would remain hungry and unsatisfied.”  <span
-id="fr_556"></span>[557](#fn_556)
+id="fr_556"></span>[557](#fn_556.md)
 
 <span id="an_iv.iv-p182"></span><span id="page_266">p. 266</span> <span
 id="an_iv.iv-Page_266"></span>
@@ -1561,14 +1561,14 @@ id="an_iv.iv-Page_266"></span>
 
 ### Footnotes
 
-<span id="fn_476"></span>[232:477](myst15.htm#fr_476) <span
+<span id="fn_476"></span>[232:477](myst15.htm#fr_476.md) <span
 id="an_iv.iv-p1.2"></span>
 
 <span id="an_iv.iv-p2"></span> For the relation between *catharsis* and
 poetic and mystical knowledge, see Bremond, “Prière et Poesie,” caps
 xvi. and xvii.
 
-<span id="fn_477"></span>[234:478](myst15.htm#fr_477) <span
+<span id="fn_477"></span>[234:478](myst15.htm#fr_477.md) <span
 id="an_iv.iv-p5.1"></span>
 
 <span id="an_iv.iv-p6"></span> Plotinus, Ennead vi. 9. Compare with this
@@ -1582,29 +1582,29 @@ rubric declares, “All whose Nature is to dance, doth dance!” (See Dr. M.
 R. James, “Apocrypha Anecdota,” series *2;* and G. R. S. Mead, “Echoes
 from the Gnosis: the Dance of Jesus.” Compare *supra,* p. 134.)
 
-<span id="fn_478"></span>[234:479](myst15.htm#fr_478) <span
+<span id="fn_478"></span>[234:479](myst15.htm#fr_478.md) <span
 id="an_iv.iv-p8.1"></span>
 
 <span id="an_iv.iv-p9"></span> For instance, Keats Shelley, Wordsworth,
 Tennyson, Browning, Whitman.
 
-<span id="fn_479"></span>[235:480](myst15.htm#fr_479) <span
+<span id="fn_479"></span>[235:480](myst15.htm#fr_479.md) <span
 id="an_iv.iv-p10.1"></span>
 
 <span id="an_iv.iv-p11"></span> “Letters of William Blake,” p. 171.
 
-<span id="fn_480"></span>[235:481](myst15.htm#fr_480) <span
+<span id="fn_480"></span>[235:481](myst15.htm#fr_480.md) <span
 id="an_iv.iv-p11.2"></span>
 
 <span id="an_iv.iv-p12"></span> Ruysbroeck, “De vera Contemplatione,”
 cap. xi.
 
-<span id="fn_481"></span>[235:482](myst15.htm#fr_481) <span
+<span id="fn_481"></span>[235:482](myst15.htm#fr_481.md) <span
 id="an_iv.iv-p13.8"></span>
 
 <span id="an_iv.iv-p14"></span> “Jerusalem,” cap. i.
 
-<span id="fn_482"></span>[236:483](myst15.htm#fr_482) <span
+<span id="fn_482"></span>[236:483](myst15.htm#fr_482.md) <span
 id="an_iv.iv-p15.1"></span>
 
 <span id="an_iv.iv-p16"></span> Compare E. Rhode, “Psyche,” and J. E.
@@ -1612,71 +1612,71 @@ Harrison, “Prolegomena to the Study of Greek Religion,” caps, ix., x.,
 and xi.; a work which puts the most favourable construction possible on
 the meaning of Orphic initiation.
 
-<span id="fn_483"></span>[236:484](myst15.htm#fr_483) <span
+<span id="fn_483"></span>[236:484](myst15.htm#fr_483.md) <span
 id="an_iv.iv-p16.8"></span>
 
 <span id="an_iv.iv-p17"></span> The “Bacchae” of Euripides (translated
 by Gilbert Murray), p. 83.
 
-<span id="fn_484"></span>[236:485](myst15.htm#fr_484) <span
+<span id="fn_484"></span>[236:485](myst15.htm#fr_484.md) <span
 id="an_iv.iv-p18.8"></span>
 
 <span id="an_iv.iv-p19"></span> St. John of the Cross, “Llama de Amor
 Viva” (translated by Arthur Symons).
 
-<span id="fn_485"></span>[237:486](myst15.htm#fr_485) <span
+<span id="fn_485"></span>[237:486](myst15.htm#fr_485.md) <span
 id="an_iv.iv-p23.1"></span>
 
 <span id="an_iv.iv-p24"></span> “Fioretti,” cap. xlviii. (Arnold’s
 translation).
 
-<span id="fn_486"></span>[237:487](myst15.htm#fr_486) <span
+<span id="fn_486"></span>[237:487](myst15.htm#fr_486.md) <span
 id="an_iv.iv-p25.1"></span>
 
 <span id="an_iv.iv-p26"></span> Horstman, “Richard Rolle of Hampole,”
 vol. ii. p. 79.
 
-<span id="fn_487"></span>[238:488](myst15.htm#fr_487) <span
+<span id="fn_487"></span>[238:488](myst15.htm#fr_487.md) <span
 id="an_iv.iv-p26.1"></span>
 
 <span id="an_iv.iv-p27"></span> “Das Fliessende Licht der Gottheit,” pt.
 i. cap. 43.
 
-<span id="fn_488"></span>[239:489](myst15.htm#fr_488) <span
+<span id="fn_488"></span>[239:489](myst15.htm#fr_488.md) <span
 id="an_iv.iv-p30.2"></span>
 
 <span id="an_iv.iv-p31"></span> “De Imitatione Christi,” I. iii. cap. i.
 
-<span id="fn_489"></span>[239:490](myst15.htm#fr_489) <span
+<span id="fn_489"></span>[239:490](myst15.htm#fr_489.md) <span
 id="an_iv.iv-p31.2"></span>
 
 <span id="an_iv.iv-p32"></span> For the decisive character of this
 “night of the senses,” see St. John of the Cross, “Noche escura del
 Alma,” I. i.
 
-<span id="fn_490"></span>[240:491](myst15.htm#fr_490) <span
+<span id="fn_490"></span>[240:491](myst15.htm#fr_490.md) <span
 id="an_iv.iv-p38.1"></span>
 
 <span id="an_iv.iv-p39"></span> “The Marriage of Heaven and Hell,” xxii.
 
-<span id="fn_491"></span>[240:492](myst15.htm#fr_491) <span
+<span id="fn_491"></span>[240:492](myst15.htm#fr_491.md) <span
 id="an_iv.iv-p40.1"></span>
 
 <span id="an_iv.iv-p41"></span> *Vide supra,* pp. 42-50 .
 
-<span id="fn_492"></span>[242:493](myst15.htm#fr_492) <span
+<span id="fn_492"></span>[242:493](myst15.htm#fr_492.md) <span
 id="an_iv.iv-p45.1"></span>
 
 <span id="an_iv.iv-p46"></span> Julian of Norwich, “Revelations,” cap.
 xliii.
 
-<span id="fn_493"></span>[242:494](myst15.htm#fr_493) <span
+<span id="fn_493"></span>[242:494](myst15.htm#fr_493.md) <span
 id="an_iv.iv-p47.1"></span>
 
 <span id="an_iv.iv-p48"></span> “The Scale of Perfection,” bk. ii. cap.
 xli.
 
-<span id="fn_494"></span>[242:495](myst15.htm#fr_494) <span
+<span id="fn_494"></span>[242:495](myst15.htm#fr_494.md) <span
 id="an_iv.iv-p49.1"></span>
 
 <span id="an_iv.iv-p50"></span> See Delacroix, “Études sur le
@@ -1684,81 +1684,81 @@ Mysticisme,” Appendix I. “Sentiment de Présence.” For a balanced view,
 Maréchal, “Studies in the Psychology of the Mystics,” p. 55. See also
 Poulain, “Les Grâces d’Oraison,” cap. v.
 
-<span id="fn_495"></span>[243:496](myst15.htm#fr_495) <span
+<span id="fn_495"></span>[243:496](myst15.htm#fr_495.md) <span
 id="an_iv.iv-p51.1"></span>
 
 <span id="an_iv.iv-p52"></span> Vida, cap. xviii. § 20.
 
-<span id="fn_496"></span>[243:497](myst15.htm#fr_496) <span
+<span id="fn_496"></span>[243:497](myst15.htm#fr_496.md) <span
 id="an_iv.iv-p53.1"></span>
 
 <span id="an_iv.iv-p54"></span> “Letters of St. Teresa” (1581), Dalton’s
 translation, No. VII.
 
-<span id="fn_497"></span>[243:498](myst15.htm#fr_497) <span
+<span id="fn_497"></span>[243:498](myst15.htm#fr_497.md) <span
 id="an_iv.iv-p55.1"></span>
 
 <span id="an_iv.iv-p56"></span> “Republic,” vii. 518.
 
-<span id="fn_498"></span>[243:499](myst15.htm#fr_498) <span
+<span id="fn_498"></span>[243:499](myst15.htm#fr_498.md) <span
 id="an_iv.iv-p57.1"></span>
 
 <span id="an_iv.iv-p58"></span> Récéjac, “Fondements de la Connaissance
 Mystique,” p. 151.
 
-<span id="fn_499"></span>[244:500](myst15.htm#fr_499) <span
+<span id="fn_499"></span>[244:500](myst15.htm#fr_499.md) <span
 id="an_iv.iv-p60.2"></span>
 
 <span id="an_iv.iv-p61"></span> St. Bernard, “Cantica Canticorum,”
 Sermon lxxiv.
 
-<span id="fn_500"></span>[245:501](myst15.htm#fr_500) <span
+<span id="fn_500"></span>[245:501](myst15.htm#fr_500.md) <span
 id="an_iv.iv-p62.1"></span>
 
 <span id="an_iv.iv-p63"></span> “Theologia Germanica,” cap. xiv.
 
-<span id="fn_501"></span>[246:502](myst15.htm#fr_501) <span
+<span id="fn_501"></span>[246:502](myst15.htm#fr_501.md) <span
 id="an_iv.iv-p66.1"></span>
 
 <span id="an_iv.iv-p67"></span> Hugh of St. Victor, “De Arrha Animae”
 (Migne, Patrologia Latina, vol. clxxvi.).
 
-<span id="fn_502"></span>[246:503](myst15.htm#fr_502) <span
+<span id="fn_502"></span>[246:503](myst15.htm#fr_502.md) <span
 id="an_iv.iv-p68.1"></span>
 
 <span id="an_iv.iv-p69"></span> “The Practice of the Presence of God,”
 Second Conversation.
 
-<span id="fn_503"></span>[246:504](myst15.htm#fr_503) <span
+<span id="fn_503"></span>[246:504](myst15.htm#fr_503.md) <span
 id="an_iv.iv-p70.1"></span>
 
 <span id="an_iv.iv-p71"></span> St. Teresa, “Las Fundaciones,” cap, v.
 p. 8.
 
-<span id="fn_504"></span>[247:505](myst15.htm#fr_504) <span
+<span id="fn_504"></span>[247:505](myst15.htm#fr_504.md) <span
 id="an_iv.iv-p72.1"></span>
 
 <span id="an_iv.iv-p73"></span> Vie, pt. i. cap. xvii.
 
-<span id="fn_505"></span>[247:506](myst15.htm#fr_505) <span
+<span id="fn_505"></span>[247:506](myst15.htm#fr_505.md) <span
 id="an_iv.iv-p75.1"></span>
 
 <span id="an_iv.iv-p76"></span> “Mystical Element of Religion,” vol. i.
 p. 105.
 
-<span id="fn_506"></span>[247:507](myst15.htm#fr_506) <span
+<span id="fn_506"></span>[247:507](myst15.htm#fr_506.md) <span
 id="an_iv.iv-p77.1"></span>
 
 <span id="an_iv.iv-p78"></span> “Vita e Dottrina” *loc. cit.*
 
-<span id="fn_507"></span>[248:508](myst15.htm#fr_507) <span
+<span id="fn_507"></span>[248:508](myst15.htm#fr_507.md) <span
 id="an_iv.iv-p78.2"></span>
 
 <span id="an_iv.iv-p79"></span> “I desire not that which comes forth
 from Thee; but only I desire Thee, O sweetest Love!” (“Vita e Dottrina,”
 cap. vi ).
 
-<span id="fn_508"></span>[248:509](myst15.htm#fr_508) <span
+<span id="fn_508"></span>[248:509](myst15.htm#fr_508.md) <span
 id="an_iv.iv-p80.2"></span>
 
 <span id="an_iv.iv-p81"></span> Aug. Conf., bk. vii. cap. xx. Compare
@@ -1769,46 +1769,46 @@ and settle in another country, it is a great help to him in undergoing
 the fatigues of his journey that he has discovered it to be a country
 where he may live in the most perfect peace” (Vida, cap. xxxviii., § 8).
 
-<span id="fn_509"></span>[248:510](myst15.htm#fr_509) <span
+<span id="fn_509"></span>[248:510](myst15.htm#fr_509.md) <span
 id="an_iv.iv-p81.1"></span>
 
 <span id="an_iv.iv-p82"></span> M. Smith, “Rabia the Mystic,” p. 30.
 
-<span id="fn_510"></span>[249:511](myst15.htm#fr_510) <span
+<span id="fn_510"></span>[249:511](myst15.htm#fr_510.md) <span
 id="an_iv.iv-p82.1"></span>
 
 <span id="an_iv.iv-p83"></span> “Spiritual Exercises,” pp. 26 and 174.
 
-<span id="fn_511"></span>[249:512](myst15.htm#fr_511) <span
+<span id="fn_511"></span>[249:512](myst15.htm#fr_511.md) <span
 id="an_iv.iv-p84.6"></span>
 
 <span id="an_iv.iv-p85"></span> “Love above all language, goodness
 unimagined, light without measure shines in my heart” (Jacopone da Todi.
 Lauda xci.).
 
-<span id="fn_512"></span>[249:513](myst15.htm#fr_512) <span
+<span id="fn_512"></span>[249:513](myst15.htm#fr_512.md) <span
 id="an_iv.iv-p86.2"></span>
 
 <span id="an_iv.iv-p87"></span> Pitra, “Analecta S. Hildegardis opera,”
 p. 332.
 
-<span id="fn_513"></span>[249:514](myst15.htm#fr_513) <span
+<span id="fn_513"></span>[249:514](myst15.htm#fr_513.md) <span
 id="an_iv.iv-p87.1"></span>
 
 <span id="an_iv.iv-p88"></span> St. Teresa, Vida, cap. xxviii. §§ 7, 8.
 
-<span id="fn_514"></span>[249:515](myst15.htm#fr_514) <span
+<span id="fn_514"></span>[249:515](myst15.htm#fr_514.md) <span
 id="an_iv.iv-p90.1"></span>
 
 <span id="an_iv.iv-p91"></span> Par. i. 61, xxx. 100, xxxiii. 90.
 
-<span id="fn_515"></span>[250:516](myst15.htm#fr_515) <span
+<span id="fn_515"></span>[250:516](myst15.htm#fr_515.md) <span
 id="an_iv.iv-p92.1"></span>
 
 <span id="an_iv.iv-p93"></span> “An Appeal to All who Doubt.” I give the
 whole passage below, p. 263.
 
-<span id="fn_516"></span>[250:517](myst15.htm#fr_516) <span
+<span id="fn_516"></span>[250:517](myst15.htm#fr_516.md) <span
 id="an_iv.iv-p93.1"></span>
 
 <span id="an_iv.iv-p94"></span> It is, of course, arguable that the
@@ -1822,35 +1822,35 @@ seeking for language adequate to their vision of truth: hence their
 adoption of this imagery is most simply explained by the fact that it
 represent something which they know and are struggling to describe.
 
-<span id="fn_517"></span>[250:518](myst15.htm#fr_517) <span
+<span id="fn_517"></span>[250:518](myst15.htm#fr_517.md) <span
 id="an_iv.iv-p95.1"></span>
 
 <span id="an_iv.iv-p96"></span> Aug. Conf., bk. vii. cap. x.
 
-<span id="fn_518"></span>[250:519](myst15.htm#fr_518) <span
+<span id="fn_518"></span>[250:519](myst15.htm#fr_518.md) <span
 id="an_iv.iv-p97.1"></span>
 
 <span id="an_iv.iv-p98"></span> Mechthild of Magdeburg, *op. cit* ., pt.
 vii. 45.
 
-<span id="fn_519"></span>[250:520](myst15.htm#fr_519) <span
+<span id="fn_519"></span>[250:520](myst15.htm#fr_519.md) <span
 id="an_iv.iv-p98.5"></span>
 
 <span id="an_iv.iv-p99"></span> Par. xxx. 100, “Which makes visible the
 creator to that creature who only in beholding Him finds its peace.”
 
-<span id="fn_520"></span>[251:521](myst15.htm#fr_520) <span
+<span id="fn_520"></span>[251:521](myst15.htm#fr_520.md) <span
 id="an_iv.iv-p100.1"></span>
 
 <span id="an_iv.iv-p101"></span> Aug. Conf., bk. iii. cap. 6.
 
-<span id="fn_521"></span>[251:522](myst15.htm#fr_521) <span
+<span id="fn_521"></span>[251:522](myst15.htm#fr_521.md) <span
 id="an_iv.iv-p101.1"></span>
 
 <span id="an_iv.iv-p102"></span> Dionysius the Areopagite, “De Mystica
 Theologia,” i. 1. (Rolt’s translation.)
 
-<span id="fn_522"></span>[251:523](myst15.htm#fr_522) <span
+<span id="fn_522"></span>[251:523](myst15.htm#fr_522.md) <span
 id="an_iv.iv-p103.21"></span>
 
 <span id="an_iv.iv-p104"></span> Par. xxxiii. 82, 121:—
@@ -1878,136 +1878,136 @@ not to call it ‘little.’
 abidest, only Thyself dost comprehend, and, of Thyself comprehended and
 Thyself comprehending, dost love and smile!”
 
-<span id="fn_523"></span>[252:524](myst15.htm#fr_523) <span
+<span id="fn_523"></span>[252:524](myst15.htm#fr_523.md) <span
 id="an_iv.iv-p113.1"></span>
 
 <span id="an_iv.iv-p114"></span> The Latin is more vivid: “Est iste
 mundus pregnans de Deo.”
 
-<span id="fn_524"></span>[252:525](myst15.htm#fr_524) <span
+<span id="fn_524"></span>[252:525](myst15.htm#fr_524.md) <span
 id="an_iv.iv-p114.1"></span>
 
 <span id="an_iv.iv-p115"></span> Ste. Angèle de Foligno, “Le Livre de
 l’Expérience des Vrais Fidèles,” p. 124 (English translation, p. 172).
 
-<span id="fn_525"></span>[254:526](myst15.htm#fr_525) <span
+<span id="fn_525"></span>[254:526](myst15.htm#fr_525.md) <span
 id="an_iv.iv-p118.1"></span>
 
 <span id="an_iv.iv-p119"></span> Suso, Leben, cap. iv.
 
-<span id="fn_526"></span>[254:527](myst15.htm#fr_526) <span
+<span id="fn_526"></span>[254:527](myst15.htm#fr_526.md) <span
 id="an_iv.iv-p120.1"></span>
 
 <span id="an_iv.iv-p121"></span> “Revelations,” cap. viii.
 
-<span id="fn_527"></span>[255:528](myst15.htm#fr_527) <span
+<span id="fn_527"></span>[255:528](myst15.htm#fr_527.md) <span
 id="an_iv.iv-p123.1"></span>
 
 <span id="an_iv.iv-p124"></span> Malaval, “De l’Oraison Ordinaire” (“La
 Pratique de la Vraye Theologie Mystique,” vol. i. p. 342).
 
-<span id="fn_528"></span>[255:529](myst15.htm#fr_528) <span
+<span id="fn_528"></span>[255:529](myst15.htm#fr_528.md) <span
 id="an_iv.iv-p125.5"></span>
 
 <span id="an_iv.iv-p126"></span> ”Saul,” xvii.
 
-<span id="fn_529"></span>[255:530](myst15.htm#fr_529) <span
+<span id="fn_529"></span>[255:530](myst15.htm#fr_529.md) <span
 id="an_iv.iv-p127.1"></span>
 
 <span id="an_iv.iv-p128"></span> Meister Eckhart (“Mystische Schriften,”
 p. 137).
 
-<span id="fn_530"></span>[255:531](myst15.htm#fr_530) <span
+<span id="fn_530"></span>[255:531](myst15.htm#fr_530.md) <span
 id="an_iv.iv-p128.1"></span>
 
 <span id="an_iv.iv-p129"></span> *Vide* *supra,* pt. II. Cap. II., the
 cases of Richard Jefferies, Brother Lawrence, and others.
 
-<span id="fn_531"></span>[255:532](myst15.htm#fr_531) <span
+<span id="fn_531"></span>[255:532](myst15.htm#fr_531.md) <span
 id="an_iv.iv-p131.1"></span>
 
 <span id="an_iv.iv-p132"></span> The Works of Jacob Boehme, 4 vols.,
 1764, vol. i. pp. xii., etc.
 
-<span id="fn_532"></span>[255:533](myst15.htm#fr_532) <span
+<span id="fn_532"></span>[255:533](myst15.htm#fr_532.md) <span
 id="an_iv.iv-p132.1"></span>
 
 <span id="an_iv.iv-p133"></span> *Supra* , p. 58.
 
-<span id="fn_533"></span>[256:534](myst15.htm#fr_533) <span
+<span id="fn_533"></span>[256:534](myst15.htm#fr_533.md) <span
 id="an_iv.iv-p133.1"></span>
 
 <span id="an_iv.iv-p134"></span> Martensen, “Jacob Boehme,” p. 7.
 
-<span id="fn_534"></span>[256:535](myst15.htm#fr_534) <span
+<span id="fn_534"></span>[256:535](myst15.htm#fr_534.md) <span
 id="an_iv.iv-p134.1"></span>
 
 <span id="an_iv.iv-p135"></span> “Life of Jacob Boehme,” pp. xiii. and
 xiv. in vol. i. of his Collected Works, English translation.
 
-<span id="fn_535"></span>[257:536](myst15.htm#fr_535) <span
+<span id="fn_535"></span>[257:536](myst15.htm#fr_535.md) <span
 id="an_iv.iv-p137.1"></span>
 
 <span id="an_iv.iv-p138"></span> *Op. cit* ., p. xv.
 
-<span id="fn_536"></span>[257:537](myst15.htm#fr_536) <span
+<span id="fn_536"></span>[257:537](myst15.htm#fr_536.md) <span
 id="an_iv.iv-p139.1"></span>
 
 <span id="an_iv.iv-p140"></span> Vol. I. cap. ii.
 
-<span id="fn_537"></span>[258:538](myst15.htm#fr_537) <span
+<span id="fn_537"></span>[258:538](myst15.htm#fr_537.md) <span
 id="an_iv.iv-p143.1"></span>
 
 <span id="an_iv.iv-p144"></span> “Revelations,” cap. viii.
 
-<span id="fn_538"></span>[258:539](myst15.htm#fr_538) <span
+<span id="fn_538"></span>[258:539](myst15.htm#fr_538.md) <span
 id="an_iv.iv-p144.1"></span>
 
 <span id="an_iv.iv-p145"></span> Par. iii. 77.
 
-<span id="fn_539"></span>[259:540](myst15.htm#fr_539) <span
+<span id="fn_539"></span>[259:540](myst15.htm#fr_539.md) <span
 id="an_iv.iv-p146.1"></span>
 
 <span id="an_iv.iv-p147"></span> “Letters of William Blake,” p. 111.
 
-<span id="fn_540"></span>[259:541](myst15.htm#fr_540) <span
+<span id="fn_540"></span>[259:541](myst15.htm#fr_540.md) <span
 id="an_iv.iv-p147.1"></span>
 
 <span id="an_iv.iv-p148"></span> *Op. cit.,* p. 62.
 
-<span id="fn_541"></span>[260:542](myst15.htm#fr_541) <span
+<span id="fn_541"></span>[260:542](myst15.htm#fr_541.md) <span
 id="an_iv.iv-p150.2"></span>
 
 <span id="an_iv.iv-p151"></span> Aug. Conf., bk. I. cap. xvi.
 
-<span id="fn_542"></span>[260:543](myst15.htm#fr_542) <span
+<span id="fn_542"></span>[260:543](myst15.htm#fr_542.md) <span
 id="an_iv.iv-p152.1"></span>
 
 <span id="an_iv.iv-p153"></span> “Fioretti,” cap. xiv.
 
-<span id="fn_543"></span>[260:544](myst15.htm#fr_543) <span
+<span id="fn_543"></span>[260:544](myst15.htm#fr_543.md) <span
 id="an_iv.iv-p153.1"></span>
 
 <span id="an_iv.iv-p154"></span> *Ibid.,* “Delle Istimate,” 2, and
 Thomas of Celano, Vita Secunda, cap, xccvii.
 
-<span id="fn_544"></span>[260:545](myst15.htm#fr_544) <span
+<span id="fn_544"></span>[260:545](myst15.htm#fr_544.md) <span
 id="an_iv.iv-p154.1"></span>
 
 <span id="an_iv.iv-p155"></span> Thomas of Celano, *op. cit.,* cap.
 cxxix.
 
-<span id="fn_545"></span>[260:546](myst15.htm#fr_545) <span
+<span id="fn_545"></span>[260:546](myst15.htm#fr_545.md) <span
 id="an_iv.iv-p155.1"></span>
 
 <span id="an_iv.iv-p156"></span> “Fioretti,” cap. xxii.
 
-<span id="fn_546"></span>[260:547](myst15.htm#fr_546) <span
+<span id="fn_546"></span>[260:547](myst15.htm#fr_546.md) <span
 id="an_iv.iv-p156.1"></span>
 
 <span id="an_iv.iv-p157"></span> *Ibid.,* cap. xxi.
 
-<span id="fn_547"></span>[261:548](myst15.htm#fr_547) <span
+<span id="fn_547"></span>[261:548](myst15.htm#fr_547.md) <span
 id="an_iv.iv-p160.1"></span>
 
 <span id="an_iv.iv-p161"></span> Fioretti,” cap. xxi (Arnold’s
@@ -2017,52 +2017,52 @@ in which Brother Wolf is said to have lived in a cave for two years
 after his taming by the Saint, has done something to vindicate the truth
 of this beautiful story.
 
-<span id="fn_548"></span>[261:549](myst15.htm#fr_548) <span
+<span id="fn_548"></span>[261:549](myst15.htm#fr_548.md) <span
 id="an_iv.iv-p162.1"></span>
 
 <span id="an_iv.iv-p163"></span> De Bussierre, “Le Pérou et Ste. Rose de
 Lime,” p. 256.
 
-<span id="fn_549"></span>[262:550](myst15.htm#fr_549) <span
+<span id="fn_549"></span>[262:550](myst15.htm#fr_549.md) <span
 id="an_iv.iv-p165.1"></span>
 
 <span id="an_iv.iv-p166"></span> De Bussierre, “Le Pérou et Ste. Rose de
 Lime,” p. 415.
 
-<span id="fn_550"></span>[262:551](myst15.htm#fr_550) <span
+<span id="fn_550"></span>[262:551](myst15.htm#fr_550.md) <span
 id="an_iv.iv-p167.1"></span>
 
 <span id="an_iv.iv-p168"></span> “Fondements de la Connaissance
 Mystique,” p. 113.
 
-<span id="fn_551"></span>[263:552](myst15.htm#fr_551) <span
+<span id="fn_551"></span>[263:552](myst15.htm#fr_551.md) <span
 id="an_iv.iv-p169.1"></span>
 
 <span id="an_iv.iv-p170"></span> Letters, p. 75.
 
-<span id="fn_552"></span>[263:553](myst15.htm#fr_552) <span
+<span id="fn_552"></span>[263:553](myst15.htm#fr_552.md) <span
 id="an_iv.iv-p170.1"></span>
 
 <span id="an_iv.iv-p171"></span> *Vide supra,* p. 192.
 
-<span id="fn_553"></span>[263:554](myst15.htm#fr_553) <span
+<span id="fn_553"></span>[263:554](myst15.htm#fr_553.md) <span
 id="an_iv.iv-p172.1"></span>
 
 <span id="an_iv.iv-p173"></span> Ennead ii. 9. 4.
 
-<span id="fn_554"></span>[263:555](myst15.htm#fr_554) <span
+<span id="fn_554"></span>[263:555](myst15.htm#fr_554.md) <span
 id="an_iv.iv-p173.1"></span>
 
 <span id="an_iv.iv-p174"></span> “An Appeal to All who Doubt” (Liberal
 and Mystical Writings of William Law, p. 52).
 
-<span id="fn_555"></span>[264:556](myst15.htm#fr_555) <span
+<span id="fn_555"></span>[264:556](myst15.htm#fr_555.md) <span
 id="an_iv.iv-p176.1"></span>
 
 <span id="an_iv.iv-p177"></span> Rolle, “The Fire of love,” bk. i. cap.
 xix.
 
-<span id="fn_556"></span>[265:557](myst15.htm#fr_556) <span
+<span id="fn_556"></span>[265:557](myst15.htm#fr_556.md) <span
 id="an_iv.iv-p180.1"></span>
 
 <span id="an_iv.iv-p181"></span> “De Ornatu Spiritalium Nuptiarum,” I.
@@ -2072,6 +2072,6 @@ ii. cap, liii.
 
 ------------------------------------------------------------------------
 
-[Next: V. Voices and Visions](myst16)
+[Next: V. Voices and Visions](myst16.md)
 
 </div>

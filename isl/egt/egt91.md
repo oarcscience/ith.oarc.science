@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt90)  [Next](egt92) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt90)  [Next](egt92.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,4 +43,4 @@ diadem and crown of every lord of rectitude and faith are such as this.
 
 ------------------------------------------------------------------------
 
-[Next: ON THE HEARING OF THE QUR'ÂN.](egt92)
+[Next: ON THE HEARING OF THE QUR'ÂN.](egt92.md)

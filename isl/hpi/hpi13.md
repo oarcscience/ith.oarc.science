@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](hpi12)  [Next](hpi14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](hpi12)  [Next](hpi14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136078/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ Brethren of Basra seems to have led a quiet existence, as perhaps was
 the case also with a branch-settlement of theirs in Bagdad. The relation
 of the Brethren to the Karmatites may have resembled that of the more
 peaceful Baptists to the revolutionary Anabaptists of the 'King of
-Sion'. <span id="fr_13"></span>[1](#fn_13)
+Sion'. <span id="fr_13"></span>[1](#fn_13.md)
 
 The names of the following have been given to us by later writers, as
 having been members of the Brotherhood and collaborators of the
@@ -261,7 +261,7 @@ circumstances, form their natures completely.
 6\. According to the Encyclopaedia, Logic is related to Mathematics. In
 fact just as Mathematics conducts from the sensible to the intellectual,
 so Logic takes an intermediate position between Physics and
-[Metaphysics](errata.htm#4). In Physics we have to do with bodies; in
+[Metaphysics](errata.htm#4.md). In Physics we have to do with bodies; in
 Metaphysics, with pure Spirits; but Logic treats of the ideas of the
 latter as well as of the representations of the former in our soul. Yet
 in range and importance Logic is inferior to Mathematics. For the
@@ -506,9 +506,9 @@ of Ibn Sina.
 
 ### Footnotes
 
-<span id="fn_13"></span>[84:1](hpi13.htm#fr_13) \[*Translator's
+<span id="fn_13"></span>[84:1](hpi13.htm#fr_13.md) \[*Translator's
 note*.--'John of Leyden'\]
 
 ------------------------------------------------------------------------
 
-[Next: 1. Kindi](hpi14)
+[Next: 1. Kindi](hpi14.md)

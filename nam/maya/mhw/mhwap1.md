@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](mhw06)  [Next](mhwap2) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](mhw06)  [Next](mhwap2.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0806104473/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -118,7 +118,7 @@ The second expression which can be translated in more ways than one is
 *u sian* or *u siyan*, which is often linked to the words *chaac* or
 *ku*. *Sian* can mean birth, or enchantment, or conjuring in witchcraft,
 or gift. The various contexts reveal that the meaning which will best
-fit all the entries is that of [birth](errata.htm#2) or beginning. This
+fit all the entries is that of [birth](errata.htm#2.md) or beginning. This
 expression has already been fully discussed (p. 259). In the tabulation
 the comments have been made even briefer than in the originals.
 
@@ -479,4 +479,4 @@ of a great tradition.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix II. The Correlation Question](mhwap2)
+[Next: Appendix II. The Correlation Question](mhwap2.md)

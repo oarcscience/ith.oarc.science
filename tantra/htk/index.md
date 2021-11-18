@@ -1,17 +1,17 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -36,7 +36,7 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](htk00)
+[Contents](#contents)    [Start Reading](htk00.md)
 
 ------------------------------------------------------------------------
 
@@ -51,34 +51,34 @@ Hinduism.--J.B. Hare
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](htk00)  
-[Publishers’ Note](htk01)  
-[Contents](htk02)  
-[Preface](htk03)  
-[Introduction](htk04)  
+<span id="contents"></span> [Title Page](htk00.md)  
+[Publishers’ Note](htk01.md)  
+[Contents](htk02.md)  
+[Preface](htk03.md)  
+[Introduction](htk04.md)  
 <span id="section_000"></span>
 
 ### Text
 
-[Verse 1](htk05)  
-[Verse 2](htk06)  
-[Verse 3](htk07)  
-[Verse 4](htk08)  
-[Verse 5](htk09)  
-[Verse 6](htk10)  
-[Verse 7](htk11)  
-[Verse 8](htk12)  
-[Verse 9](htk13)  
-[Verse 10](htk14)  
-[Verse 11](htk15)  
-[Verse 12](htk16)  
-[Verse 13](htk17)  
-[Verse 14](htk18)  
-[Verse 15](htk19)  
-[Verse 16](htk20)  
-[Verse 17](htk21)  
-[Verse 18](htk22)  
-[Verse 19](htk23)  
-[Verse 20](htk24)  
-[Verse 21](htk25)  
-[Verse 22](htk26)  
+[Verse 1](htk05.md)  
+[Verse 2](htk06.md)  
+[Verse 3](htk07.md)  
+[Verse 4](htk08.md)  
+[Verse 5](htk09.md)  
+[Verse 6](htk10.md)  
+[Verse 7](htk11.md)  
+[Verse 8](htk12.md)  
+[Verse 9](htk13.md)  
+[Verse 10](htk14.md)  
+[Verse 11](htk15.md)  
+[Verse 12](htk16.md)  
+[Verse 13](htk17.md)  
+[Verse 14](htk18.md)  
+[Verse 15](htk19.md)  
+[Verse 16](htk20.md)  
+[Verse 17](htk21.md)  
+[Verse 18](htk22.md)  
+[Verse 19](htk23.md)  
+[Verse 20](htk24.md)  
+[Verse 21](htk25.md)  
+[Verse 22](htk26.md)  

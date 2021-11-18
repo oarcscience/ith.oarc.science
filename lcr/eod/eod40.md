@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legendary
-Creatures](../index)  [Index](index)  [Previous](eod39)  [Next](eod41) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legendary
+Creatures](../index)  [Index](index)  [Previous](eod39)  [Next](eod41.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1434685950/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G9UG48/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Evolution of the Dragon*, by G. Elliot Smith, \[1919\], at Intangible
 Textual Heritage
 
@@ -34,7 +34,7 @@ When I began this investigation the story of the Destruction of Mankind
 Brugsch, Naville, Maspero, Erman, and in fact most Egyptologists, seemed
 to be agreed that the magical substance from which the Egyptian elixir
 of life was made was the mandrake. As there was no hint <span
-id="fr_363"></span>[1](#fn_363) in the Egyptian story of the derivation
+id="fr_363"></span>[1](#fn_363.md) in the Egyptian story of the derivation
 of its reputation from the fancied likeness to the human form, its
 identification with Hathor seemed to be merely another instance of those
 confusions with which the pathway of mythology is so thickly strewn. In
@@ -49,13 +49,13 @@ same reputation.
 
 But this hypothesis is no longer tenable, because the word *d’d’*
 (variously transliterated *doudou* or *didi*), which Brugsch <span
-id="fr_364"></span>[2](#fn_364) and his followers interpreted as
+id="fr_364"></span>[2](#fn_364.md) and his followers interpreted as
 "mandragora," is now believed to have another meaning.
 
 <span id="page_193">p. 193</span>
 
 In a closely reasoned memoir, Henri Gauthier <span
-id="fr_365"></span>[1](#fn_365) has completely demolished Brugsch's
+id="fr_365"></span>[1](#fn_365.md) has completely demolished Brugsch's
 interpretation of this word. He says there are numerous instances of the
 use of *d’d’* (which he transliterates *doudouiou*) in the medical
 papyri. In the Ebers papyrus "*doudou* d’Eléphantine broyé" is
@@ -67,7 +67,7 @@ the coasts of Arabia.
 Mr. F. Ll. Griffith informs me that Gauthier's criticism of the
 translation "mandrakes" is undoubtedly just: but that the substance
 referred to was most probably "red ochre" or "hæmatite". <span
-id="fr_366"></span>[2](#fn_366)
+id="fr_366"></span>[2](#fn_366.md)
 
 The relevant passage in the Story of the Destruction of Mankind (in Seti
 I’s tomb) will then read as follows: "When they had brought the red
@@ -77,7 +77,7 @@ blood".
 
 I would call special attention to Gauthier's comment that the
 blood-coloured beer "had some magical and marvellous properly which is
-unknown to us". <span id="fr_367"></span>[3](#fn_367)
+unknown to us". <span id="fr_367"></span>[3](#fn_367.md)
 
 In his dictionary Brugsch considered the determinative <span
 id="img_19300"></span> ![](img/19300.jpg) to refer to the fruits of a
@@ -91,7 +91,7 @@ objections to it.
 
 As Loret and Schweinfurth have pointed out, the mandrake is not found in
 Egypt, nor in fact in any part of the Nile Valley. <span
-id="fr_368"></span>[4](#fn_368) But what is more significant, the Greeks
+id="fr_368"></span>[4](#fn_368.md) But what is more significant, the Greeks
 translated the Hebrew
 
 <span id="page_194">p. 194</span>
@@ -127,13 +127,13 @@ incident might have had a two-fold effect. It would explain the
 introduction into the Egyptian story of the sedative effects of *didi*,
 which would easily be rationalized as a means of soothing the maniacal
 goddess; and in the Levant it would have added to the real properties of
-mandrake <span id="fr_369"></span>[1](#fn_369) the magical virtues which
+mandrake <span id="fr_369"></span>[1](#fn_369.md) the magical virtues which
 originally belonged to *didi* (and blood, the cowry, and water).
 
 In my lecture on "Dragons and Rain Gods" (Chapter II) I explained that
 the Egyptian story of the Destruction of Mankind is merely one version
 of a saga of almost world-wide currency. In many of the non-Egyptian
-versions <span id="fr_370"></span>[2](#fn_370) the rôle of *didi* in the
+versions <span id="fr_370"></span>[2](#fn_370.md) the rôle of *didi* in the
 Egyptian story is taken
 
 <span id="page_195">p. 195</span>
@@ -148,27 +148,27 @@ In the course of the development of the Egyptian story the red clay from
 Elephantine became the colouring matter of the Nile flood, and this in
 turn was rationalized as the blood or red clay into which the bodies of
 the slaughtered enemies of Re were transformed, <span
-id="fr_371"></span>[1](#fn_371) and the material out of which the new
-race of mankind was created. <span id="fr_372"></span>[2](#fn_372) In
+id="fr_371"></span>[1](#fn_371.md) and the material out of which the new
+race of mankind was created. <span id="fr_372"></span>[2](#fn_372.md) In
 other words, the new race was formed of *didi*. There is a widespread
 legend that the mandrake also is formed from the substance of dead
-bodies <span id="fr_373"></span>[3](#fn_373)
+bodies <span id="fr_373"></span>[3](#fn_373.md)
 
 <span id="page_196">p. 196</span>
 
 often represented as innocent or chaste men wrongly killed, just as the
 red clay was the substance of mankind killed to appease Re's wrath, "the
-blood of the slaughtered saints". <span id="fr_374"></span>[1](#fn_374)
+blood of the slaughtered saints". <span id="fr_374"></span>[1](#fn_374.md)
 
 But the original belief is found in a more definite form in the ancient
 story that "the mandrake was fashioned out of the same earth whereof God
-formed Adam" <span id="fr_375"></span>[2](#fn_375) In other words the
+formed Adam" <span id="fr_375"></span>[2](#fn_375.md) In other words the
 mandrake was part of the same substance as the earth *didi*. <span
-id="fr_376"></span>[3](#fn_376)
+id="fr_376"></span>[3](#fn_376.md)
 
 Further corroboration of this confusion is afforded by a story from
 Little Russia, quoted by de Gubernatis. <span
-id="fr_377"></span>[4](#fn_377) If bryony (a widely recognized surrogate
+id="fr_377"></span>[4](#fn_377.md) If bryony (a widely recognized surrogate
 of mandrake) be suspended from the girdle all the dead Cossacks (who,
 like the enemies of Re in the Egyptian story, had been killed and broken
 to pieces in the earth) will come to life again. *Thus we have positive
@@ -187,7 +187,7 @@ for them to continue their existence; and (*b*) the
 <span id="page_197">p. 197</span>
 
 lotus, the lily, the iris, and other marsh plants, <span
-id="fr_378"></span>[1](#fn_378) for reasons that I have already
+id="fr_378"></span>[1](#fn_378.md) for reasons that I have already
 mentioned (p. 184).
 
 The Babylonian poem of Gilgamesh represents one of the innumerable
@@ -197,7 +197,7 @@ the human spirit. It is the search for the elixir of life. The object of
 Gilgamesh's search is a magic *plant* to prolong life and restore youth.
 The hero of the story went a voyage by water in order to obtain what
 appears to have been a marsh plant called *dittu* <span
-id="fr_379"></span>[2](#fn_379) The question naturally arises whether
+id="fr_379"></span>[2](#fn_379.md) The question naturally arises whether
 this Babylonian story and the name of the plant played any part in
 Palestine in blending the Egyptian and Babylonian stories and confusing
 the Egyptian elixir of life, the red earth *didi*, with the Babylonian
@@ -205,7 +205,7 @@ elixir, the plant *dittu?*
 
 In the Babylonian story a serpent-demon steals the magic plant, just as
 in India *soma*, the food of immortality, is stolen. In Egypt Isis
-steals Re's name, <span id="fr_380"></span>[3](#fn_380) and in Babylonia
+steals Re's name, <span id="fr_380"></span>[3](#fn_380.md) and in Babylonia
 the Zu bird steals the tablets of
 
 <span id="page_198">p. 198</span>
@@ -258,15 +258,15 @@ follow these excursions into unknown heights of cloudland.
 But my colleagues Professor Canney and Principal Bennett tell me that
 the derivation of *dūdā-īm* from *dōdīm* is improbable; and the former
 authority suggests that *dūdā-īm* may be merely the plural of *dūd*, a
-"pot". <span id="fr_381"></span>[1](#fn_381) Now I have already
+"pot". <span id="fr_381"></span>[1](#fn_381.md) Now I have already
 explained how a pot came to symbolize a woman or a goddess, not merely
 in Egypt, but also in Southern India, and in Mycenæan Greece, and, in
-fact, the Mediterranean generally. <span id="fr_382"></span>[2](#fn_382)
+fact, the Mediterranean generally. <span id="fr_382"></span>[2](#fn_382.md)
 Hence the use of the term *dūd* for the mandrake implies either (*a*) an
 identification of the plant with the goddess who is the giver of life,
 or (*b*) an analogy between the form of the mandrake-fruit and a pot,
 which in turn led to it being called a pot, and from that being
-identified with the goddess. <span id="fr_383"></span>[3](#fn_383)
+identified with the goddess. <span id="fr_383"></span>[3](#fn_383.md)
 
 I should explain that when Professor Canney gave me this statement
 
@@ -282,7 +282,7 @@ the Egyptian hieroglyphic ("a pot of water") for woman, wife, or
 goddess, and the claim made by Sir Gardner Wilkinson that this manner of
 representing the word for "wife" was apparently taken from a
 conventionalized picture of "a basket of sycamore figs". <span
-id="fr_384"></span>[1](#fn_384) The interpretation has now clearly
+id="fr_384"></span>[1](#fn_384.md) The interpretation has now clearly
 emerged that the mandrake was called *dūdā’īm* by the Hebrews because it
 was identified with the Mother Pot. The symbolism involved in the use of
 the Hebrew word also suggests that the inspiration may have come from
@@ -294,7 +294,7 @@ became the quintessence of vitality and fertility. The apple and the
 pomegranate became surrogates of the "love apple," and were graphically
 represented in forms hardly distinguishable from pots, occupying places
 which mark them out clearly as homologues of the Great Mother
-herself. <span id="fr_385"></span>[2](#fn_385)
+herself. <span id="fr_385"></span>[2](#fn_385.md)
 
 But once the mandrake was identified with the Great Mother in the Levant
 the attributes of the plant were naturally acquired from her local
@@ -307,7 +307,7 @@ that play a part in the folk-lore of so many peoples, such as *didi*
 played in the Egyptian myth. These fruits can be either elixirs of life
 and food of the gods, or weapons for overcoming the dragon as Hathor
 (Sekhet) was conquered by her sedative draught. <span
-id="fr_386"></span>[3](#fn_386)
+id="fr_386"></span>[3](#fn_386.md)
 
 <span id="page_201">p. 201</span>
 
@@ -319,7 +319,7 @@ has an *astringent taste*. The leaves of the female plant *smell like
 myrrh*". Bostock and Riley, from whose translation I have made this
 quotation, add that in reality the plant is destitute of smell. In the
 Ebers papyrus *didi* was mixed with incense in one of the
-prescriptions; <span id="fr_387"></span>[1](#fn_387) and in the Berlin
+prescriptions; <span id="fr_387"></span>[1](#fn_387.md) and in the Berlin
 medical papyrus it was one of the ingredients of a fumigation used for
 treating heart disease. If my contention is justified, it may provide
 the explanation of how the confusion arose by which the peony came to
@@ -329,9 +329,9 @@ Pliny proceeds: "Both plants \[*i.e.* male and female\] grow in the
 woods, and they should always be taken up at night, it is said; as it
 would be dangerous to do so in the day-time, the woodpecker of Mars
 being sure to attack the person so engaged. <span
-id="fr_388"></span>[2](#fn_388) It is stated also that the person, while
+id="fr_388"></span>[2](#fn_388.md) It is stated also that the person, while
 taking up the root, runs great risk of being attacked with \[prolapsus
-ani\]. … Both plants are used <span id="fr_389"></span>[3](#fn_389) for
+ani\]. … Both plants are used <span id="fr_389"></span>[3](#fn_389.md) for
 various purposes: the red seed, taken in red wine, about fifteen in
 number, arrest menstruation; while the black seed, taken in the same
 proportion, in either raisin or other wine, are curative of diseases of
@@ -340,7 +340,7 @@ therapeutic use in women's complaints to suggest the analogy with that
 other red drink administered to the Great Mother, Hathor.
 
 In his essay, "Jacob and the Mandrakes," <span
-id="fr_390"></span>[4](#fn_390) Sir James Frazer has called attention to
+id="fr_390"></span>[4](#fn_390.md) Sir James Frazer has called attention to
 the homologies between the attributes of the peony and the mandrake and
 to the reasons for regarding the former as Aelian's *aglaophotis*.
 
@@ -354,7 +354,7 @@ Egyptian *didi* was obtained near the granite quarries at Aswan. "By
 means of this plant \[aglaophotis\], according to Democritus, the Magi
 can summon the deities into their presence when they please," just as
 the users of the conch-shell trumpet believed they could do with this
-instrument. I have already ([p. 196](#page_196)) emphasized the fact
+instrument. I have already ([p. 196](#page_196).md) emphasized the fact
 that all of these plants, mandrake, bryony, peony, and the rest, were
 really surrogates of the cowry, the pearl, and the conch-shell. The
 first is the ultimate source of their influence on womankind, the second
@@ -412,7 +412,7 @@ But they also reveal the essential fact that led to the identification
 of the plant with the Mother-Goddess, which I have already discussed.
 
 In Arabic the mandrake is called *abou ruhr*, "father of life," *i.e.*
-"giver of life". <span id="fr_391"></span>[1](#fn_391)
+"giver of life". <span id="fr_391"></span>[1](#fn_391.md)
 
 In Arabic *margan* means "coral" as well as "pearl". In the
 Mediterranean area coral is explained as a new and marvellous plant
@@ -422,7 +422,7 @@ the bleeding head of Medusa. Eustathius ("Comment. ad Dionys. Perieget."
 Chæroboscos claims that it comes from κόρη and ἄλιον, because it is a
 maritime product used to make ornaments for maidens. In any case coral
 is a "giver of life" and as such identified with a maiden, <span
-id="fr_392"></span>[2](#fn_392) as the most potential embodiment of
+id="fr_392"></span>[2](#fn_392.md) as the most potential embodiment of
 life-giving force. But this specific application of the word for "giver
 of life" was due to the fact that in all the Semitic languages, as well
 as in literary references in the Egyptian Pyramid Texts, this phrase was
@@ -436,7 +436,7 @@ be taken to mean the "giver of life" or the "pudendum muliebre".
 
 Perhaps the most plausible suggestion that has been made as to the
 derivation of the word "mandragora" is Delâtré s claim <span
-id="fr_393"></span>[1](#fn_393) that it is compounded of the words
+id="fr_393"></span>[1](#fn_393.md) that it is compounded of the words
 *mandros*, "sleep," and *agora*, "object or substance," and that
 mandragora means "the sleep-producing substance".
 
@@ -454,7 +454,7 @@ Another suggestion that has been made deserves some notice. It has been
 claimed that the first syllable of the name is derived from the Sanskrit
 *mandara*, one of the trees in the Indian paradise, and the instrument
 with which the churning of the ocean was accomplished. <span
-id="fr_394"></span>[2](#fn_394) The mandrake has been claimed to be the
+id="fr_394"></span>[2](#fn_394.md) The mandrake has been claimed to be the
 tree of the Hebrew paradise; and a connexion has thus been instituted
 between it and the *mandara*. This hypothesis, however, does not offer
 any explanation of how either the mandrake or the *mandara* acquired its
@@ -462,7 +462,7 @@ magical attributes. The Indian tree of life was supposed to "sweat"
 *amrita* just as the incense trees of Arabia produce the divine
 life-giving incense.
 
-But there are reasons <span id="fr_395"></span>[3](#fn_395) for the
+But there are reasons <span id="fr_395"></span>[3](#fn_395.md) for the
 belief that the Indian story of the churning of the sea of milk is a
 much modified version of the old Egyptian story of the pounding of the
 materials for the elixir of life. The *mandara* churn-stick, which is
@@ -470,9 +470,9 @@ often supposed to represent the
 
 <span id="page_205">p. 205</span>
 
-phallus, <span id="fr_396"></span>[1](#fn_396) was originally the tree
+phallus, <span id="fr_396"></span>[1](#fn_396.md) was originally the tree
 of life, the tree or pillar which was animated by the Great Mother
-herself. <span id="fr_397"></span>[2](#fn_397) So that the mandara is
+herself. <span id="fr_397"></span>[2](#fn_397.md) So that the mandara is
 homologous with the *mandragora*. But so far as I am aware, there is no
 adequate reason for deriving the latter word from the former.
 
@@ -511,34 +511,34 @@ supra*) suggests the source of these Chinese legends.\]
 
 ### Footnotes
 
-<span id="fn_363"></span>[192:1](eod40.htm#fr_363) As Maspero has
+<span id="fn_363"></span>[192:1](eod40.htm#fr_363.md) As Maspero has
 specifically mentioned ("Dawn of Civilization," p. 166).
 
-<span id="fn_364"></span>[192:2](eod40.htm#fr_364) "Die Alraune als alt
+<span id="fn_364"></span>[192:2](eod40.htm#fr_364.md) "Die Alraune als alt
 altägyptische Zauberpflanze," *Zeitsch. f. Ægypt. Sprache*, Bd. XXIX,
 1891, pp. 31-3.
 
-<span id="fn_365"></span>[193:1](eod40.htm#fr_365) "Le nom
+<span id="fn_365"></span>[193:1](eod40.htm#fr_365.md) "Le nom
 hiéroglyphique de l’argile rouge d'Eléphantine," *Revue Égyptologique*,
 XI<sup>e</sup> Vol., Nos. i.–ii., 1904, p. 1.
 
-<span id="fn_366"></span>[193:2](eod40.htm#fr_366) It is quite possible
+<span id="fn_366"></span>[193:2](eod40.htm#fr_366.md) It is quite possible
 that the use of the name "hæmatite" for this ancient substitute for
 blood may itself be the result of the survival of the old tradition.
 
-<span id="fn_367"></span>[193:3](eod40.htm#fr_367) It is very important
+<span id="fn_367"></span>[193:3](eod40.htm#fr_367.md) It is very important
 to keep in mind the two distinct properties of *didi:* (*a*) its magical
 life-giving powers, and (*h*) its sedative influence.
 
-<span id="fn_368"></span>[193:4](eod40.htm#fr_368) In Chapter II, [p.
-118](eod24.htm#page_118), I have given other reasons of a psychological
+<span id="fn_368"></span>[193:4](eod40.htm#fr_368.md) In Chapter II, [p.
+118](eod24.htm#page_118.md), I have given other reasons of a psychological
 nature for minimizing the significance of the geographical question.
 
-<span id="fn_369"></span>[194:1](eod40.htm#fr_369) For the therapeutic
+<span id="fn_369"></span>[194:1](eod40.htm#fr_369.md) For the therapeutic
 effects of mandrake see the *British Medical Journal*, 15 March, 1890,
 p. 620.
 
-<span id="fn_370"></span>[194:2](eod40.htm#fr_370) Even in Egypt itself
+<span id="fn_370"></span>[194:2](eod40.htm#fr_370.md) Even in Egypt itself
 *didi* may be replaced by fruit in the more specialized variants of the
 Destruction of Mankind. Thus, in the Saga of the Winged Disk, Re is
 reported to have said to Horus: "Thou didst put grapes in the water
@@ -550,7 +550,7 @@ translation of *didi*, it should read: "thou didst make the water
 blood-red with grape-juice"; or perhaps be merely a confused jumble of
 the two meanings.
 
-<span id="fn_371"></span>[195:1](eod40.htm#fr_371) In the Babylonian
+<span id="fn_371"></span>[195:1](eod40.htm#fr_371.md) In the Babylonian
 story of the Deluge "Ishtar cried aloud like a woman in travail, the
 Lady of the gods lamented with a loud voice (saying): The old race of
 man hath been turned back into clay, because I assented to an evil thing
@@ -562,7 +562,7 @@ The Nile god, Knum, Lord of Elephantine, was reputed to have formed the
 world of alluvial soil. The coming of the waters from Elephantine
 brought life to the earth.
 
-<span id="fn_372"></span>[195:2](eod40.htm#fr_372) In the Babylonian
+<span id="fn_372"></span>[195:2](eod40.htm#fr_372.md) In the Babylonian
 story, Bēl "bade one of the gods cut off his head and mix the earth with
 the blood that flowed from him, and from the mixture he directed him to
 fashion men and animals" (King, "Babylonian Religion," p. 56). Bēl
@@ -583,18 +583,18 @@ myth Horus cut off the head of his mother Isis and the moon-god Thoth
 replaced it with a cow's head, just as in the Indian myth Ganesa's head
 was replaced by an elephant's.
 
-<span id="fn_373"></span>[195:3](eod40.htm#fr_373) See Frazer, *op.
+<span id="fn_373"></span>[195:3](eod40.htm#fr_373.md) See Frazer, *op.
 cit.*, p. 9.
 
-<span id="fn_374"></span>[196:1](eod40.htm#fr_374) Compare with this the
+<span id="fn_374"></span>[196:1](eod40.htm#fr_374.md) Compare with this the
 story of Picus the giant who fled to Kirke's isle and there was slain by
 Helios, the plant μῶλυ springing from his blood (A. B. Cook, "Zeus," p.
 241, footnote 15). For a discussion of *moly* see Andrew Lang's "Custom
 and Myth".
 
-<span id="fn_375"></span>[196:2](eod40.htm#fr_375) Frazer, p. 6.
+<span id="fn_375"></span>[196:2](eod40.htm#fr_375.md) Frazer, p. 6.
 
-<span id="fn_376"></span>[196:3](eod40.htm#fr_376) In Socotra a tree
+<span id="fn_376"></span>[196:3](eod40.htm#fr_376.md) In Socotra a tree
 (dracæna) has been identified with the dragon, and its exudation,
 "dragon's blood," was called cinnabar, and confused with the mineral
 (red sulphide of mercury), or simply with red ochre. In the Socotran
@@ -607,10 +607,10 @@ Any thick red earth attributed to such combats was called *kinnabari*
 (Schoff, *op. cit.*, p. 137). This is another illustration of the
 ancient belief in the identification of blood and red ochre.
 
-<span id="fn_377"></span>[196:4](eod40.htm#fr_377) "Mythologie des
+<span id="fn_377"></span>[196:4](eod40.htm#fr_377.md) "Mythologie des
 Plantes," Vol. II, p. 101.
 
-<span id="fn_378"></span>[197:1](eod40.htm#fr_378) In an interesting
+<span id="fn_378"></span>[197:1](eod40.htm#fr_378.md) In an interesting
 article on "The Water Lilies of Ancient Egypt" (*Ancient Egypt*, 1917,
 Part I, p. 1) Mr. W. D. Spanton has collected a series of illustrations
 of the symbolic use of these plants. In view of the fact that the
@@ -620,12 +620,12 @@ interesting to find (in the remote times of the Pyramid Age) lotus
 designs built up into the form of the double-axe (Spanton's Figs. 28 and
 29) and the classical *keraunos* (his Fig. 19).
 
-<span id="fn_379"></span>[197:2](eod40.htm#fr_379) The Babylonian magic
+<span id="fn_379"></span>[197:2](eod40.htm#fr_379.md) The Babylonian magic
 plant to prolong life and renew youth, like the red mineral *didi* of
 the Egyptian story. It was also "the plant of birth" and "the plant of
 life".
 
-<span id="fn_380"></span>[197:3](eod40.htm#fr_380) Müller, Quibell,
+<span id="fn_380"></span>[197:3](eod40.htm#fr_380.md) Müller, Quibell,
 Maspero, and Sethe regard the "round cartouche," which the divine falcon
 often carries in place of the *ankh*-symbol of life, as a representation
 of the royal name (R. Weill, "Les Origines de l’Egypte pharaonique,"
@@ -651,9 +651,9 @@ In Egyptian art it is usually the hawk of Horus (the homologue of
 Marduk) which carries the "round cartouche," which is the logos, the
 tablets of destiny.
 
-<span id="fn_381"></span>[199:1](eod40.htm#fr_381) I quote Professor
+<span id="fn_381"></span>[199:1](eod40.htm#fr_381.md) I quote Professor
 Canney's notes on the word *dūdā-īm* (Genesis xxx. 14) verbatim: "The
-*[Encyclopædia](errata.htm#8) Biblica* says (s.v. 'Mandrakes'): 'The
+*[Encyclopædia](errata.htm#8) Biblica* says (s.v. 'Mandrakes'.md): 'The
 Hebrew name, *dūdā’im*, was no doubt popularly associated with *dōdīm*,
 ‏דּוֹדִים‎, "love"; but its real etymology (like that of μανδράγορας) is
 obscure'.
@@ -675,31 +675,31 @@ The meaning 'pot' (*dūd*, plur. *dūdā-īm*) is probably more original
 than 'basket'. Does *dūdā-īm* in Genesis and Song of Songs denote some
 kind of pot or caldron-shaped flower or fruit?"
 
-<span id="fn_382"></span>[199:2](eod40.htm#fr_382) The Mother Pot is
+<span id="fn_382"></span>[199:2](eod40.htm#fr_382.md) The Mother Pot is
 really a fundamental conception of all religious beliefs and is almost
 worldwide in its distribution.
 
-<span id="fn_383"></span>[199:3](eod40.htm#fr_383) The fruit of the
+<span id="fn_383"></span>[199:3](eod40.htm#fr_383.md) The fruit of the
 lotus (which is a form of Hathor) assumes a form (Spanton, *op. cit.*,
 Fig. 51) that is identical with a common Mediterranean symbol of the
 Great Mother, called "pomegranate" by Sir Arthur Evans (see my
-[text-fig. 6](eod38.htm#img_17900), [p. 179](eod38.htm#page_179), *m*),
+[text-fig. 6](eod38.htm#img_17900), [p. 179](eod38.htm#page_179), *m*.md),
 which is a surrogate of the apple and mandrake. The likeness to the
 Egyptian hieroglyph for a jar of water ([text-fig.
-6](eod38.htm#img_17900), *l*) and the goddess *Nu* of the fruit of the
+6](eod38.htm#img_17900), *l*.md) and the goddess *Nu* of the fruit of the
 poppy (which was closely associated with the mandrake by reason of its
 soporific properties) may have assisted in the transference of their
 attributes. The design of the water-plant ([text-fig.
-7](eod38.htm#img_17900), *d*) associated with the Nile god may have
+7](eod38.htm#img_17900), *d*.md) associated with the Nile god may have
 helped such a confusion and exchange.
 
-<span id="fn_384"></span>[200:1](eod40.htm#fr_384) "A Popular Account of
+<span id="fn_384"></span>[200:1](eod40.htm#fr_384.md) "A Popular Account of
 the Ancient Egyptians," revised and abridged, 1890, Vol. I, p. 323.
 
-<span id="fn_385"></span>[200:2](eod40.htm#fr_385) See, for example, Sir
+<span id="fn_385"></span>[200:2](eod40.htm#fr_385.md) See, for example, Sir
 Arthur Evans, "Mycenæan Tree and Pillar Worship," Fig. 27, p. 46.
 
-<span id="fn_386"></span>[200:3](eod40.htm#fr_386) In a Japanese
+<span id="fn_386"></span>[200:3](eod40.htm#fr_386.md) In a Japanese
 dragon-story the dragon drinks "sake" from pots set out on the shore (as
 Hathor drank the *didi* mixture from pots associated <span
 id="page_201">p. 201</span> with the river); and the intoxicated monster
@@ -707,19 +707,19 @@ was then slain. From its tail the hero extracted a sword (as in the case
 of the Western dragons), which is now said to be the Mikado's state
 sword.
 
-<span id="fn_387"></span>[201:1](eod40.htm#fr_387) See Gauthier, *op.
+<span id="fn_387"></span>[201:1](eod40.htm#fr_387.md) See Gauthier, *op.
 cit.*, pp. 2 and 3.
 
-<span id="fn_388"></span>[201:2](eod40.htm#fr_388) Compare the
+<span id="fn_388"></span>[201:2](eod40.htm#fr_388.md) Compare the
 dog-incident in the mandrake story.
 
-<span id="fn_389"></span>[201:3](eod40.htm#fr_389) Bostock and Riley add
+<span id="fn_389"></span>[201:3](eod40.htm#fr_389.md) Bostock and Riley add
 the comment that "the peony has no medicinal virtues whatever".
 
-<span id="fn_390"></span>[201:4](eod40.htm#fr_390) *Proceedings of the
+<span id="fn_390"></span>[201:4](eod40.htm#fr_390.md) *Proceedings of the
 British Academy*, Vol. VIII, 1917, p. 16 (in the reprint).
 
-<span id="fn_391"></span>[203:1](eod40.htm#fr_391) I am indebted to Dr.
+<span id="fn_391"></span>[203:1](eod40.htm#fr_391.md) I am indebted to Dr.
 Alphonse Mingana for this information. But the philological question is
 discussed in a learned memoir by the late Professor P. J. Veth, "De Leer
 der Signatuur," *Internationales Archiv für Ethnographie*, Leiden, Bd.
@@ -727,29 +727,29 @@ VII, 1894, pp. 75 and 105, and especially the appendix, p. 199 *et
 seq*., "De Mandragora, Naschrift op het tweede Hoofdstuk der
 Verhandeling over de Leer der Signatur".
 
-<span id="fn_392"></span>[203:2](eod40.htm#fr_392) Like the *Purpura*
+<span id="fn_392"></span>[203:2](eod40.htm#fr_392.md) Like the *Purpura*
 and the *Pterocera*, the bryony and other shells and plants.
 
-<span id="fn_393"></span>[204:1](eod40.htm#fr_393) Larousse, Article
+<span id="fn_393"></span>[204:1](eod40.htm#fr_393.md) Larousse, Article
 "Mandragore".
 
-<span id="fn_394"></span>[204:2](eod40.htm#fr_394) I have already
+<span id="fn_394"></span>[204:2](eod40.htm#fr_394.md) I have already
 referred to another version of the churning of the ocean in which Mount
 Meru was used as a churn-stick and identified with the Great Mother, of
 whom the *mandara* was also an *avatar*.
 
-<span id="fn_395"></span>[204:3](eod40.htm#fr_395) Which I shall discuss
+<span id="fn_395"></span>[204:3](eod40.htm#fr_395.md) Which I shall discuss
 in my forthcoming book on "The Story of the Flood".
 
-<span id="fn_396"></span>[205:1](eod40.htm#fr_396) The phallic
+<span id="fn_396"></span>[205:1](eod40.htm#fr_396.md) The phallic
 interpretation is certainly a secondary rationalization of an incident
 which had no such implication originally.
 
-<span id="fn_397"></span>[205:2](eod40.htm#fr_397) The "tree of the
+<span id="fn_397"></span>[205:2](eod40.htm#fr_397.md) The "tree of the
 knowledge of good and evil" (Genesis ii. 17) produced fruit the eating
 of which opened the eyes of Adam and Eve, so that they realized their
 nakedness: they became conscious of sex and made girdles of fig-leaves
-(*vide supra*, [p. 155](eod33.htm#page_155)). In other words, the tree
+(*vide supra*, [p. 155](eod33.htm#page_155).md). In other words, the tree
 of life had the power of love-provoking like the mandrake. In
 Henderson's "Celtic Dragon Myth" (p. xl) we read: "The berries for which
 she \[Medb\] craved were from the Tree of Life, the food of the gods,
@@ -761,4 +761,4 @@ the identity of the tree of paradise and the mandrake.
 
 ------------------------------------------------------------------------
 
-[Next: The Measurement of Time](eod41)
+[Next: The Measurement of Time](eod41.md)

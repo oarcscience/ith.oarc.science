@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar010) [Next](gbar012)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar010) [Next](gbar012.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ the leper.
 
 ------------------------------------------------------------------------
 
-[Next](gbar012)
+[Next](gbar012.md)
 
  
 

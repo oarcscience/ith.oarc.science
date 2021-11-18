@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Index](index)  [Previous](mosy12)  [Next](mosy14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Index](index)  [Previous](mosy12)  [Next](mosy14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048641437X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Migration of Symbols*, by Goblet d'Alviella, \[1894\], at
 Intangible Textual Heritage
 
@@ -24,7 +24,7 @@ the Universe to the Tree of Life and the Tree of Knowledge be more
 clearly perceived than amongst the traditions of the latter nation.
 
 The Vedas make mention of the tree whose foot is the earth, and whose
-summit is heaven. <span id="fr_320"></span>[2](#fn_320)
+summit is heaven. <span id="fr_320"></span>[2](#fn_320.md)
 
 Sometimes it is the tree of the starry firmament whose fruits are
 precious stones, at other times it is the tree of the cloudy sky whose
@@ -38,20 +38,20 @@ it holds imprisoned the fire of the lightning.
 Through its leaves it distills the elixir of life, the celestial *soma*
 or *amrita*, *i.e.*, the vivifying waters "which Mitra and Varuna, the
 two kings with the beautiful hands, watch amidst the clouds." <span
-id="fr_321"></span>[1](#fn_321) It also forms the way to the other side
+id="fr_321"></span>[1](#fn_321.md) It also forms the way to the other side
 of the atmospheric ocean, beyond the river which possesses or procures
-everlasting youth. <span id="fr_322"></span>[2](#fn_322) Under its dense
+everlasting youth. <span id="fr_322"></span>[2](#fn_322.md) Under its dense
 branches, Yama, the king of the dead, "drinking with the gods, entices
 our elders by playing on the flute." <span
-id="fr_323"></span>[3](#fn_323)
+id="fr_323"></span>[3](#fn_323.md)
 
 It is finally the Tree of Knowledge. Its sap begets poetic and religious
-inspiration. <span id="fr_324"></span>[4](#fn_324) In approaching its
+inspiration. <span id="fr_324"></span>[4](#fn_324.md) In approaching its
 foliage, man remembers his previous existences. <span
-id="fr_325"></span>[5](#fn_325) From its top resounds in sonorous
+id="fr_325"></span>[5](#fn_325.md) From its top resounds in sonorous
 rolling the celestial voice, *vac*, which reveals the will of the gods,
 the divine messenger, engendered in the waters of the clouds. <span
-id="fr_326"></span>[6](#fn_326)
+id="fr_326"></span>[6](#fn_326.md)
 
 This latter aspect of the Sacred Tree is developed especially amongst
 the Buddhists. M. Senart has shown, in his learned and able *Essai sur
@@ -59,7 +59,7 @@ la légende du Bouddha*, how the sacred fig-tree (*Urostigma religiosum*)
 under which Buddha attained perfect illumination, in spite of the
 exertions of Mâra and his demons, is directly connected with the Cosmic
 Tree of Indo-European mythologies, which produces ambrosia, and
-dispenses salvation. <span id="fr_327"></span>[7](#fn_327) But to the
+dispenses salvation. <span id="fr_327"></span>[7](#fn_327.md) But to the
 disciples of the new faith who loathed life and longed for extinction,
 the old Celestial Tree which led to immortality became
 
@@ -67,7 +67,7 @@ the old Celestial Tree which led to immortality became
 
 merely the *buddhidruma*, the Tree of Wisdom, a symbol both of the
 truths which lead to *nirvâna* and of the Master who discovered and
-taught them. <span id="fr_328"></span>[1](#fn_328) The *Royal Asiatic
+taught them. <span id="fr_328"></span>[1](#fn_328.md) The *Royal Asiatic
 Society* continued in the same vein when, in its turn, it chose as
 emblem, with the well-devised motto, *tot areores quoi rami*, one of the
 Sacred Trees of the Buddhists, the banyan-tree (*Urostigma indicum*),
@@ -100,24 +100,24 @@ In a different reading, the *amrita* was in the possession of the
 *asuras* who alone at that time were immortal. Indra, the god of the
 stormy sky, succeeded in abstracting it, and thus it is that the *devas*
 obtained in their turn the privilege of immortality. <span
-id="fr_329"></span>[1](#fn_329)
+id="fr_329"></span>[1](#fn_329.md)
 
 According to the *Mahabharata* it is a genius half eagle and half man,
 which, after subduing several monstrous animals on the borders of a
 lake, takes advantage of the negligence of the dwarfs who guard the
 Sacred Tree to break off and carry away the branch of the *soma*. <span
-id="fr_330"></span>[2](#fn_330)
+id="fr_330"></span>[2](#fn_330.md)
 
 The Persians placed on the borders of a lake two trees, each of which
 was guarded by a *gandhrawa*. One of these trees is the white *haoma* or
 *homa*, which, according to the *Yasna*, wards off death and confers
-"spiritual knowledge;" <span id="fr_331"></span>[3](#fn_331) the other,
+"spiritual knowledge;" <span id="fr_331"></span>[3](#fn_331.md) the other,
 according to the *Bundehesh*, is the Tree of All Seeds, which is also
 called the Eagle-tree. According to the version of the myth recorded by
 Kuhn, when one of these birds flies away, a thousand branches grow on
 the tree, and as soon as it returns to the nest it breaks a thousand
 branches, and causes a thousand seeds to fall. <span
-id="fr_332"></span>[4](#fn_332) The sap of the *haoma*, however, is not
+id="fr_332"></span>[4](#fn_332.md) The sap of the *haoma*, however, is not
 only the fertilizing rain; like the *soma* of India, it is also
 
 <span id="page_165">p. 165</span>
@@ -131,7 +131,7 @@ The Greeks seem likewise to have been acquainted with a Tree of Heaven.
 This was the oak whose hollow trunk sheltered the Dioscuri from their
 enemies, and from which hung the golden fleece "on the shores of the
 Ocean, there where the sun's beams are imprisoned in a chamber of
-gold." <span id="fr_333"></span>[1](#fn_333) Perhaps we ought to include
+gold." <span id="fr_333"></span>[1](#fn_333.md) Perhaps we ought to include
 in the same category of mythical trees the Oak of Dodona, in whose
 foliage was heard the prophetic voice of the master of the thunder.
 
@@ -139,7 +139,7 @@ The juice of the grape, personified in Bacchus, that Greek equivalent of
 the god Soma, grants also a knowledge of the future: "This god is a
 prophet," says Euripides; "for, when he forces his way into the body, he
 makes those whom he maddens foretell the future." <span
-id="fr_334"></span>[2](#fn_334)
+id="fr_334"></span>[2](#fn_334.md)
 
 The name ἀμβροσία, which the Greeks gave to the food of the Olympians,
 corresponds phonetically with the *amrita*. But the Aryans of Greece,
@@ -149,7 +149,7 @@ tradition changed the theft of the liquor into the abduction of the
 cup-bearer; and it was Ganymede whom they made Zeus, transformed into an
 eagle, carry off "in the midst of a divine whirlwind." We may add that
 it is doves which, in the Odyssey, bring ambrosia to Zeus. <span
-id="fr_335"></span>[3](#fn_335)
+id="fr_335"></span>[3](#fn_335.md)
 
 The Greeks, again, more than any other branch of the Aryan race,
 developed the myth of the hero
@@ -163,7 +163,7 @@ the wheel of the sun or at Vulcan's forge, but also to have modelled the
 first man from clay and then infused into him the spark of life. Without
 adding comments which no text would justify, we may yet draw attention
 here to a small monument reproduced by M. Decharme in his *Mythologie de
-la Grèce antique*. <span id="fr_336"></span>[1](#fn_336) Prometheus is
+la Grèce antique*. <span id="fr_336"></span>[1](#fn_336.md) Prometheus is
 there represented as engaged in moulding the first man, with the help of
 Minerva, behind whom stands a tree encircled by a serpent.
 
@@ -174,14 +174,14 @@ whence he carries off the Golden Apples guarded by dragons. Whether
 these Apples represent the luminous rays or the healing waters, another
 reading of the myth records that Hercules handed them over to Minerva,
 who put them back in the place where they must always remain, "for they
-are immortal." <span id="fr_337"></span>[2](#fn_337) It is noteworthy
+are immortal." <span id="fr_337"></span>[2](#fn_337.md) It is noteworthy
 that, on a Greek vase reproduced by Guigniaut, the Tree round which the
 dragon is coiled is depicted between two Hesperides, one of whom gathers
 the fruit for Hercules whilst the other diverts the attention of the
 dragon by offering it a jar—which scene may be more or less connected
 with oriental representations of the Tree of Life, adapted to the
 requirements of Hellenic taste and Hellenic mythology ([fig.
-83](#img_fig083)).
+83](#img_fig083).md).
 
 The Edda of Scandinavian mythology exhibits a perfect type of a
 cosmogonical tree: this is the
@@ -194,7 +194,7 @@ council and where the Nornes, whilst settling the duration
 
 <span id="img_fig083"></span> ![FIG. 83. THE DRAGON AND THE HESPERIDES.
 (GUIGNIAUT. Religions de l’antiquité, vol. iv., pl.
-181.)](img/fig083.jpg)
+181.)](img/fig083.jpg.md)
 
 <span class="small"><span class="smallcaps">Fig. 83. The Dragon and the
 Hesperides.</span>  
@@ -211,7 +211,7 @@ the third, it descends to Nifleim, the Scandinavian Hades, where it is
 ever gnawed at by a dragon. On the highest bough of the stem an eagle
 perches whilst other animals occupy the lower branches. Finally, Odin
 spent nine nights under its shade before discovering the runes, <span
-id="fr_338"></span>[1](#fn_338) an act which recalls the great
+id="fr_338"></span>[1](#fn_338.md) an act which recalls the great
 meditation of Buddha under the sacred fig-tree.
 
 Other passages in the Edda show us the contests for the possession of
@@ -230,7 +230,7 @@ Loki, Idhunn was abducted, together with her treasure, by a giant
 disguised as an eagle. But the gods, feeling themselves growing old,
 obliged Loki to transform himself into a hawk and go and bring back
 Idhunn and her Apples during the absence of their abductor. <span
-id="fr_339"></span>[1](#fn_339)
+id="fr_339"></span>[1](#fn_339.md)
 
 As regards the Slavonic peoples, MM. Mannhardt and de Gubernatis have
 recorded more than one legend bearing witness to their belief in a
@@ -238,7 +238,7 @@ cosmogonical tree. Such is, amongst the Russians, the Oak-tree of the
 island Bujan, on which the sun retires to rest every evening and from
 which it rises every morning; watched by a dragon, it is inhabited by
 the Virgin of the Dawn, just as is the oak of Eridu by Tammuz and his
-mother. <span id="fr_340"></span>[2](#fn_340)
+mother. <span id="fr_340"></span>[2](#fn_340.md)
 
 <span id="page_169">p. 169</span>
 
@@ -266,9 +266,9 @@ fire and nectar, drew attention, incidentally, to the tradition of the
 Paradisaic Trees as evidence "of a pre-historic communication between
 the Semites and Aryans, taking us back to the remotest times, before the
 fixation of languages and grammars." <span
-id="fr_341"></span>[1](#fn_341) François Lenormant, going further still,
+id="fr_341"></span>[1](#fn_341.md) François Lenormant, going further still,
 saw therein an indication of the community of origin between the two
-races. <span id="fr_342"></span>[2](#fn_342)
+races. <span id="fr_342"></span>[2](#fn_342.md)
 
 <span id="page_170">p. 170</span>
 
@@ -316,13 +316,13 @@ occur to the savage mind.
 
 The Mbocobis of Paraguay still say that when they die they will climb up
 the Tree which unites heaven and earth. <span
-id="fr_343"></span>[1](#fn_343) To the Maoris heaven and earth formerly
+id="fr_343"></span>[1](#fn_343.md) To the Maoris heaven and earth formerly
 clave together; it was a Divine Tree, the Father of the Forests, which
 rent them asunder by placing itself between them. <span
-id="fr_344"></span>[2](#fn_344) The Khasias of India take the stars to
+id="fr_344"></span>[2](#fn_344.md) The Khasias of India take the stars to
 be men who scaled heaven by climbing up a Tree, and were obliged to
 remain in the branches, their companions, who had stopped on earth,
-having cut down the trunk. <span id="fr_345"></span>[3](#fn_345)
+having cut down the trunk. <span id="fr_345"></span>[3](#fn_345.md)
 
 We will leave out the Khasias, who may have come into contact with the
 mythology of the Hindus. But will anyone maintain that the traditions of
@@ -353,10 +353,10 @@ winter, and of re-animation in spring.
 What more natural and obvious symbol could there be than the "Gardens of
 Adonis," those pots of early flowers which were made to blossom, and
 then left to wither under the rays of the sun, in order to recall the
-death of the young god? <span id="fr_346"></span>[1](#fn_346) The
+death of the young god? <span id="fr_346"></span>[1](#fn_346.md) The
 Tahitans symbolize death by the *Casuarina*, a leafless tree, allied to
 our horse-tails, which they plant upon graves. <span
-id="fr_347"></span>[2](#fn_347) Is it not from the vegetable kingdom
+id="fr_347"></span>[2](#fn_347.md) Is it not from the vegetable kingdom
 that we ourselves borrow our metaphors when we speak of a life
 "blooming," or cut down in its flower?
 
@@ -369,10 +369,10 @@ that we ourselves borrow our metaphors when we speak of a life
 
 We know what lofty precepts the mysteries of Greece drew from the
 constantly recurring phenomena of vegetation. <span
-id="fr_348"></span>[3](#fn_348) Egyptian monuments reproduce a
+id="fr_348"></span>[3](#fn_348.md) Egyptian monuments reproduce a
 sarcophagus from which an acacia emerges with the motto: "Osiris springs
 forth," as if to call the god to witness that life comes from
-death. <span id="fr_349"></span>[4](#fn_349) It was especially trees
+death. <span id="fr_349"></span>[4](#fn_349.md) It was especially trees
 with evergreen foliage, such as the pine, the cedar, and the cypress,
 which were employed to represent the hope in an eternal life beyond the
 tomb. M. Lajard has brought together some singular examples in his
@@ -383,7 +383,7 @@ researches *Sur le Culte du Cyprès*,
 a worship which occurs, with this symbolical meaning, amongst the
 Greeks, the Etruscans, the Romans, the Phœnicians, the Arabs, the
 Persians, the Hindus, and the Chinese, without taking into consideration
-the nations of the New World. <span id="fr_350"></span>[1](#fn_350)
+the nations of the New World. <span id="fr_350"></span>[1](#fn_350.md)
 
 The plant, however, has not only the faculty of typifying life. The
 power of communicating and of renewing life can also be attributed to
@@ -405,9 +405,9 @@ inhabiting the Lower Euphrates, and whose fermented juice produces an
 intoxicating liquor well known to the Arabs. There is even the vine,
 which, according to M. Lenormant, was termed, in the ancient language of
 Chaldæa, *ges-tin*, literally "wood of life," <span
-id="fr_351"></span>[2](#fn_351) whilst the goddess of the Tree of Life,
+id="fr_351"></span>[2](#fn_351.md) whilst the goddess of the Tree of Life,
 named "the Lady of Eden" in the North of Mesopotamia, is called in the
-South "the Lady of the Vine." <span id="fr_352"></span>[3](#fn_352)
+South "the Lady of the Vine." <span id="fr_352"></span>[3](#fn_352.md)
 
 Lastly rain, which revives Nature periodically,
 
@@ -420,7 +420,7 @@ or branches. In the island of Ferro, in the Canaries, a tradition of the
 Guanches told of a wonderful Tree whose top is surrounded by clouds, and
 whose branches let fall every morning, before sunrise, the water
 necessary for quenching the thirst of the natives. <span
-id="fr_353"></span>[1](#fn_353)
+id="fr_353"></span>[1](#fn_353.md)
 
 Here we see the Tree of Life become connected with an allied class of
 myths which we find fully developed amongst the Aryans: the belief,
@@ -431,7 +431,7 @@ queen of the dead, a fountain of life which could revive the dead, were
 its approaches not jealously watched by the *anounas* or spirits of the
 earth. Istar herself must immerse herself therein before returning to
 the light of day and taking her place again amongst the gods. <span
-id="fr_354"></span>[2](#fn_354)
+id="fr_354"></span>[2](#fn_354.md)
 
 This fresh analogy between the Aryan and Semitic traditions, however,
 seems to me to be rather an assumption in favour of their original
@@ -447,7 +447,7 @@ upon the celestial
 
 waters but upon rivers, wells, and canals, which some sixty centuries
 ago made of this land, now a desolate and pestiferous waste, a vast and
-luxuriant garden. <span id="fr_355"></span>[1](#fn_355)
+luxuriant garden. <span id="fr_355"></span>[1](#fn_355.md)
 
 There is therefore nothing to preclude the supposition that the Aryans
 and Semites might have separately imagined their Tree of the Universe,
@@ -459,7 +459,7 @@ and episodes which everywhere spontaneously clustered round this common
 nucleus, and which, spreading in the neighbourhood, without disappearing
 from their respective cradles, ended not in obliterating but in
 enriching and assimilating the original tradition of each race. <span
-id="fr_356"></span>[2](#fn_356)
+id="fr_356"></span>[2](#fn_356.md)
 
 Let it be granted, for instance, that both races vaguely pictured to
 themselves heaven under the form of a tree. If one race likened the
@@ -503,40 +503,40 @@ favoured branches of the human race.
 
 ### Footnotes
 
-<span id="fn_319"></span>[161:1](mosy12.htm#fr_319) *Babyl. and Oriental
+<span id="fn_319"></span>[161:1](mosy12.htm#fr_319.md) *Babyl. and Oriental
 Record* for June, 1888, pp. 149–159.
 
-<span id="fn_320"></span>[161:2](mosy13.htm#fr_320) "Which is the
+<span id="fn_320"></span>[161:2](mosy13.htm#fr_320.md) "Which is the
 forest," asks the Vedic poet, "which is the tree wherein they have hewn
 heaven and earth?" (*Rig-Veda*, x., 81, 4.)
 
-<span id="fn_321"></span>[162:1](mosy13.htm#fr_321) *Rig-Veda*, i., 71,
+<span id="fn_321"></span>[162:1](mosy13.htm#fr_321.md) *Rig-Veda*, i., 71,
 9. In the Vishnu Purâna (i., 9), the *amrita* and the Tree of Paradise
 (the *pârijata*) are generated in succession by the churning of the sea
 of milk, *i.e.*, of the primordial or atmospheric ocean.
 
-<span id="fn_322"></span>[162:2](mosy13.htm#fr_322) A. <span
+<span id="fn_322"></span>[162:2](mosy13.htm#fr_322.md) A. <span
 class="smallcaps">De Gubernatis</span>. *Mythologie des plantes*, vol.
 i., p. 178.
 
-<span id="fn_323"></span>[162:3](mosy13.htm#fr_323) *Rig-Veda*, x., 135.
+<span id="fn_323"></span>[162:3](mosy13.htm#fr_323.md) *Rig-Veda*, x., 135.
 
-<span id="fn_324"></span>[162:4](mosy13.htm#fr_324) E. <span
+<span id="fn_324"></span>[162:4](mosy13.htm#fr_324.md) E. <span
 class="smallcaps">Senart</span>. *Journal Asiatique* for 1874, vol.
 iii., p. 289.
 
-<span id="fn_325"></span>[162:5](mosy13.htm#fr_325) *Id*., *ibid.*, p.
+<span id="fn_325"></span>[162:5](mosy13.htm#fr_325.md) *Id*., *ibid.*, p.
 305.
 
-<span id="fn_326"></span>[162:6](mosy13.htm#fr_326) <span
+<span id="fn_326"></span>[162:6](mosy13.htm#fr_326.md) <span
 class="smallcaps">J. Darmesteter</span>. *Essais orientaux*. Paris,
 1883, p. 179.
 
-<span id="fn_327"></span>[162:7](mosy13.htm#fr_327) E. <span
+<span id="fn_327"></span>[162:7](mosy13.htm#fr_327.md) E. <span
 class="smallcaps">Senart</span>. *Essai sur la légende du Bouddha*, in
 the *Journal Asiatique* for 1875, vol. iv., p. 102.
 
-<span id="fn_328"></span>[163:1](mosy13.htm#fr_328) See the description
+<span id="fn_328"></span>[163:1](mosy13.htm#fr_328.md) See the description
 of the Tree of Brahma, as the Tree of Knowledge, in the Anugita (*Sacred
 Books of the East*, vol. viii., pp. 370–371). A Buddhist legend,
 recorded by Mr. Hardy, tells of an immense Tree, adorned with four
@@ -548,39 +548,39 @@ may be added that these details especially remind one of the Tree of
 Life with its wonderful fruits, planted in the middle of that Garden of
 Eden from which flowed four great rivers.
 
-<span id="fn_329"></span>[164:1](mosy13.htm#fr_329) A fragment quoted by
+<span id="fn_329"></span>[164:1](mosy13.htm#fr_329.md) A fragment quoted by
 Weber in his *Indische Studien*, vol. iii., p. 466.
 
-<span id="fn_330"></span>[164:2](mosy13.htm#fr_330) *Mahâbhârata*, i.,
+<span id="fn_330"></span>[164:2](mosy13.htm#fr_330.md) *Mahâbhârata*, i.,
 1345.
 
-<span id="fn_331"></span>[164:3](mosy13.htm#fr_331) *Yasna*, ch. ix. and
+<span id="fn_331"></span>[164:3](mosy13.htm#fr_331.md) *Yasna*, ch. ix. and
 x. (*Trans*. by M. de Harlez. Paris, 1876, vol. ii.)
 
-<span id="fn_332"></span>[164:4](mosy13.htm#fr_332) *Revue germanique*,
+<span id="fn_332"></span>[164:4](mosy13.htm#fr_332.md) *Revue germanique*,
 1861, vol. xiv., p. 375.
 
-<span id="fn_333"></span>[165:1](mosy13.htm#fr_333) *Minnerme* (fragm.
+<span id="fn_333"></span>[165:1](mosy13.htm#fr_333.md) *Minnerme* (fragm.
 11), quoted by <span class="smallcaps">M. P. Decharme</span>,
 *Mythologie de la Grèce antique*. Paris, 1886, p. 607.
 
-<span id="fn_334"></span>[165:2](mosy13.htm#fr_334) *Bacchæ*, iii., 265.
+<span id="fn_334"></span>[165:2](mosy13.htm#fr_334.md) *Bacchæ*, iii., 265.
 
-<span id="fn_335"></span>[165:3](mosy13.htm#fr_335) *Odyss*., xii., 62.
+<span id="fn_335"></span>[165:3](mosy13.htm#fr_335.md) *Odyss*., xii., 62.
 
-<span id="fn_336"></span>[166:1](mosy13.htm#fr_336) *Mythologie de la
+<span id="fn_336"></span>[166:1](mosy13.htm#fr_336.md) *Mythologie de la
 Grèce antique*, fig. 82.
 
-<span id="fn_337"></span>[166:2](mosy13.htm#fr_337) *ibid.*, p. 533.
+<span id="fn_337"></span>[166:2](mosy13.htm#fr_337.md) *ibid.*, p. 533.
 
-<span id="fn_338"></span>[167:1](mosy13.htm#fr_338) <span
+<span id="fn_338"></span>[167:1](mosy13.htm#fr_338.md) <span
 class="smallcaps">R. B. Anderson</span>. *Mythologie scandinave*, trans.
 by Jules Leclercq. Paris, 1886, p. 34 *et seq.*
 
-<span id="fn_339"></span>[168:1](mosy13.htm#fr_339) <span
+<span id="fn_339"></span>[168:1](mosy13.htm#fr_339.md) <span
 class="smallcaps">Anderson</span>, p. 124.
 
-<span id="fn_340"></span>[168:2](mosy13.htm#fr_340) A legend, given by
+<span id="fn_340"></span>[168:2](mosy13.htm#fr_340.md) A legend, given by
 M. de Gubernatis, relates that the Tree of Adam reaches to hell by its
 roots and to heaven by its branches; in its top lives the infant Jesus
 (*Mythologie des plantes*, vol. i., p. 18).—For traces of the belief in
@@ -602,57 +602,57 @@ civilizations, have a cosmogonical bearing, *i.e.*, tend to reproduce
 the image of the universe according to the conceptions of the period
 (*Architecture, Mysticism and Myth*, London, 1892, chap. v.).
 
-<span id="fn_341"></span>[169:1](mosy13.htm#fr_341) *Revue germanique*
+<span id="fn_341"></span>[169:1](mosy13.htm#fr_341.md) *Revue germanique*
 for 1861, vol. xiv., p. 385.
 
-<span id="fn_342"></span>[169:2](mosy13.htm#fr_342) *Origines de
+<span id="fn_342"></span>[169:2](mosy13.htm#fr_342.md) *Origines de
 l’histoire*, vol. i., chap. ix.
 
-<span id="fn_343"></span>[171:1](mosy13.htm#fr_343) <span
+<span id="fn_343"></span>[171:1](mosy13.htm#fr_343.md) <span
 class="smallcaps">E. B. Tylor</span>. *Early History of Mankind*.
 London, 1878, p. 358.
 
-<span id="fn_344"></span>[171:2](mosy13.htm#fr_344) <span
+<span id="fn_344"></span>[171:2](mosy13.htm#fr_344.md) <span
 class="smallcaps">A. Reville</span>. *Religions des peuples non
 civilisés*. Paris, 1883, vol. ii., p. 28.
 
-<span id="fn_345"></span>[171:3](mosy13.htm#fr_345) <span
+<span id="fn_345"></span>[171:3](mosy13.htm#fr_345.md) <span
 class="smallcaps">E. B. Tylor</span>. *Primitive Civilization*, vol. i.
 of French translation, p. 333.
 
-<span id="fn_346"></span>[172:1](mosy13.htm#fr_346) <span
+<span id="fn_346"></span>[172:1](mosy13.htm#fr_346.md) <span
 class="smallcaps">C. P. Tiele</span>. *Histoire des Religions de
 l’Égypte et des peuples sémitiques*, p. 292 in French translation.
 Paris, 1882.
 
-<span id="fn_347"></span>[172:2](mosy13.htm#fr_347) <span
+<span id="fn_347"></span>[172:2](mosy13.htm#fr_347.md) <span
 class="smallcaps">Letourneau</span>. *Sociologie*. Paris, 1880, p. 217.
 
-<span id="fn_348"></span>[172:3](mosy13.htm#fr_348) See preface, page
-[2](mosy04.htm#page_2).
+<span id="fn_348"></span>[172:3](mosy13.htm#fr_348.md) See preface, page
+[2](mosy04.htm#page_2.md).
 
-<span id="fn_349"></span>[172:4](mosy13.htm#fr_349) <span
+<span id="fn_349"></span>[172:4](mosy13.htm#fr_349.md) <span
 class="smallcaps">Tiele</span>. *Religions de l’Égypte et des peuples
 sémitiques*, p. 83.
 
-<span id="fn_350"></span>[173:1](mosy13.htm#fr_350) F. <span
+<span id="fn_350"></span>[173:1](mosy13.htm#fr_350.md) F. <span
 class="smallcaps">Lajard</span>, in the *Mémoires de l’Académie des
 inscriptions et belles-lettres*, vol. xx., second part.
 
-<span id="fn_351"></span>[173:2](mosy13.htm#fr_351) <span
+<span id="fn_351"></span>[173:2](mosy13.htm#fr_351.md) <span
 class="smallcaps">F. Lenormant</span>. *Orig*., vol. ii., p. 254.
 
-<span id="fn_352"></span>[173:3](mosy13.htm#fr_352) <span
+<span id="fn_352"></span>[173:3](mosy13.htm#fr_352.md) <span
 class="smallcaps">Sayce</span>. *Op. cit.*, p. 240, note.
 
-<span id="fn_353"></span>[174:1](mosy13.htm#fr_353) <span
+<span id="fn_353"></span>[174:1](mosy13.htm#fr_353.md) <span
 class="smallcaps">Ramusco</span>. *Historia delle Indie occidentali*,
 quoted by de Gubernatis, *Mythologie des plantes*, i., 36.
 
-<span id="fn_354"></span>[174:2](mosy13.htm#fr_354) <span
+<span id="fn_354"></span>[174:2](mosy13.htm#fr_354.md) <span
 class="smallcaps">Sayce</span>. *Op. cit.*, p. 221 *et seq.*
 
-<span id="fn_355"></span>[175:1](mosy13.htm#fr_355) In other countries
+<span id="fn_355"></span>[175:1](mosy13.htm#fr_355.md) In other countries
 this fountain of perpetual youth might again be accounted for in another
 way. We find, indeed, a similar tradition existing amongst the Malays,
 certain Polynesians, and the inhabitants of the Antilles; le., amongst
@@ -663,7 +663,7 @@ the sun descends every evening to the bottom of a cave, where he bathes
 in the Wai Ora Tane (water of life), returning, at dawn, to the upper
 world.
 
-<span id="fn_356"></span>[175:2](mosy13.htm#fr_356) This seems, on the
+<span id="fn_356"></span>[175:2](mosy13.htm#fr_356.md) This seems, on the
 whole, to be what M. Tiele means when he suggests that the myth of the
 elixir of life originated doubtlessly in a non-Aryan race, although he
 discovers points of contact in similar myths belonging incontestably to
@@ -672,4 +672,4 @@ Maurice Vernes, 2nd. ed., pp. 153, 154).
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. On the Transmutation of Symbols](mosy14)
+[Next: Chapter V. On the Transmutation of Symbols](mosy14.md)

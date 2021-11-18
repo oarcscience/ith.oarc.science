@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas104n)  [Next](jas106n)   
- \[[105. Jack and the Devil Errant.](jas105)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas104n)  [Next](jas106n.md)   
+ \[[105. Jack and the Devil Errant.](jas105.md)\]
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ See Grimm 113, The King's Children, Bolte u. Polívka, 2:516-527.
 
 ------------------------------------------------------------------------
 
-[Next: Note 106. The Magic Hat and the Staff of Life.](jas106n)
+[Next: Note 106. The Magic Hat and the Staff of Life.](jas106n.md)

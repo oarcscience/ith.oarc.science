@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw508)  [Next](ataw510) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw508)  [Next](ataw510.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -141,7 +141,7 @@ the Atlantic Ocean. And this may be the explanation of the recurrence of
 a cup in many antique paintings and statues. Hercules is often
 represented with a cup in his hand; we even find the cup upon the handle
 of the bronze dagger found in Denmark, and represented in the chapter on
-the Bronze Age, in this work. (See [p. 254](ataw308.htm#page_254)
+the Bronze Age, in this work. (See [p. 254](ataw308.htm#page_254.md)
 *ante*.)
 
 <span id="page_444">p. 444</span>
@@ -657,4 +657,4 @@ of which these states were but the broken fragments.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X: The Aryan Colonies From Atlantis.](ataw510)
+[Next: Chapter X: The Aryan Colonies From Atlantis.](ataw510.md)

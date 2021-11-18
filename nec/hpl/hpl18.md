@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl17)  [Next](hpl19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl17)  [Next](hpl19.md) 
 
 ------------------------------------------------------------------------
 
@@ -231,4 +231,4 @@ nobility.
 
 ------------------------------------------------------------------------
 
-[Next: The Music of Erich Zann (1922)](hpl19)
+[Next: The Music of Erich Zann (1922)](hpl19.md)

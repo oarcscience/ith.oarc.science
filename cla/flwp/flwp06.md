@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp05)  [Next](flwp07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp05)  [Next](flwp07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@ Taylor, \[1825\], at Intangible Textual Heritage
 
 <span id="page_33">p. 33</span>
 
-### From the Fifth Book of <span class="smallcaps">Proclus</span> on the Timæus of <span class="smallcaps">Plato</span>. <span id="fr_22"></span>[\*](#fn_22)
+### From the Fifth Book of <span class="smallcaps">Proclus</span> on the Timæus of <span class="smallcaps">Plato</span>. <span id="fr_22"></span>[\*](#fn_22.md)
 
 <span class="smallcaps">In</span> this book, in which he explains the
 doctrine of Plato concerning material forms, he says, that qualities and
@@ -50,17 +50,17 @@ such forms should be in matter after their corruption, it is necessary
 that they should proceed into non-being. For this universe would not
 remain, matter always remaining, if form alone subsisted without
 generation, and perished without corruption." <span
-id="fr_23"></span>[\*](#fn_23)
+id="fr_23"></span>[\*](#fn_23.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_22"></span>[33:\*](flwp06.htm#fr_22) This extract is only
+<span id="fn_22"></span>[33:\*](flwp06.htm#fr_22.md) This extract is only
 to be found in the Treatise of Philoponus against Proclus on the
 Eternity of the World.
 
-<span id="fn_23"></span>[34:\*](flwp06.htm#fr_23) Forms, when they
+<span id="fn_23"></span>[34:\*](flwp06.htm#fr_23.md) Forms, when they
 proceed into matter, and in consequence of this become materialised,
 resemble (as Plotinus beautifully observes in his Treatise on the
 Impassivity of Incorporeal Natures) "shadow falling upon shadow, like
@@ -68,4 +68,4 @@ images in water, or in a mirror, or a dream."
 
 ------------------------------------------------------------------------
 
-[Next: Argument the First](flwp07)
+[Next: Argument the First](flwp07.md)

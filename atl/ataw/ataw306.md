@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](ataw305)  [Next](ataw307) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](ataw305)  [Next](ataw307.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0020ML528/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Atlantis, the Antediluvian World*, by Ignatius Donnelly, \[1882\], at
 Intangible Textual Heritage
 
@@ -330,7 +330,7 @@ America and Europe, as shown in the figures here given.
  
 
 <span id="img_20600"></span> <span align="CENTER"> [![](tn/20600.jpg)  
-Click to enlarge](img/20600.jpg)</span>  
+Click to enlarge](img/20600.jpg.md)</span>  
 STONE IMPLEMENTS OF EUROPE AND AMERICA.
 
  
@@ -597,4 +597,4 @@ just God, the father of all life, the imposer of all moral obligations?
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Origin of Our Alphabet](ataw307)
+[Next: Chapter VII: The Origin of Our Alphabet](ataw307.md)

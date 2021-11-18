@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-America](../../index)  [Plains](../index)  [Index](index) 
-[Previous](blt33)  [Next](blt35) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+America](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](blt33)  [Next](blt35.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803271093/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ said that about two hundred years ago the Chippeweyans from the east
 invaded this country and drove them south and west. Whether or no this
 is true, it is quite certain that not many generations back the
 Blackfeet lived on the North Saskatchewan River and to the north of that
-stream. <span id="fr_29"></span>[1](#fn_29) Gradually working their way
+stream. <span id="fr_29"></span>[1](#fn_29.md) Gradually working their way
 westward, they at length reached the Rocky Mountains, and, finding game
 abundant, remained there until they obtained horses, in the very
 earliest years of the present century. When they
@@ -150,10 +150,10 @@ struggle.
 
 ### Footnotes
 
-<span id="fn_29"></span>[177:1](blt34.htm#fr_29) For a more extended
+<span id="fn_29"></span>[177:1](blt34.htm#fr_29.md) For a more extended
 account of this migration, see *American Anthropologist*, April, 1892,
 p. 153.
 
 ------------------------------------------------------------------------
 
-[Next: Daily Life And Customs](blt35)
+[Next: Daily Life And Customs](blt35.md)

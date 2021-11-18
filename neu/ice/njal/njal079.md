@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal078)  [Next](njal080) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal078)  [Next](njal080.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Hogni kept up his friendship with Njal, and he is now out of the story.
 
 ------------------------------------------------------------------------
 
-[Next: 80. Of Kolskegg: How He Was Baptized](njal080)
+[Next: 80. Of Kolskegg: How He Was Baptized](njal080.md)

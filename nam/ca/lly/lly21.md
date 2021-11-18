@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly20)  [Next](lly22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly20)  [Next](lly22.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,4 +53,4 @@ the extent and magnificence of the country comprising the Park.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Sunset in the Yosemite](lly22)
+[Next: Chapter III. Sunset in the Yosemite](lly22.md)

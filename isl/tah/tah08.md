@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](tah07)  [Next](tah09) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](tah07)  [Next](tah09.md) 
 
 ------------------------------------------------------------------------
 
@@ -337,4 +337,4 @@ on those who follow the instruction!
 ------------------------------------------------------------------------
 
 [Next: Chapter V: Concerning Music And Dancing As Aids To The Religious
-Life](tah09)
+Life](tah09.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl53)  [Next](hpl55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl53)  [Next](hpl55.md) 
 
 ------------------------------------------------------------------------
 
@@ -277,4 +277,4 @@ past imagination.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](hpl55)
+[Next: Chapter 8](hpl55.md)

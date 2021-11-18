@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah11)  [Next](sah13) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah11)  [Next](sah13.md) 
 
 ------------------------------------------------------------------------
 
@@ -2924,4 +2924,4 @@ cannot harm you either when asleep or when awake.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII - Teaching Christian Science](sah13) 
+[Next: Chapter XIII - Teaching Christian Science](sah13.md) 

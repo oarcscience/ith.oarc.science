@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](suc05)  [Next](suc07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](suc05)  [Next](suc07.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Bablyonian Talmud, Book 4: Tracts Pesachim, Yomah and Hagiga*, tr. by
 Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -345,7 +345,7 @@ be He, are not as the usages of human beings: A human being can put only
 something into an empty vessel, but if the vessel is full, he can put in
 nothing; but the Holy One, blessed be He, can add to a full vessel, but
 can put nothing into an empty one, as it is written \[Deut. xxviii. 1\]:
-"If thou wilt hearken diligently"; <span id="fr_24"></span>[1](#fn_24)
+"If thou wilt hearken diligently"; <span id="fr_24"></span>[1](#fn_24.md)
 *i.e.*, if you have heard diligently, you can receive
 
 <span id="page_70">p. 70</span>
@@ -420,7 +420,7 @@ This may be approved, because the eighth day of the Feast of Tabernacles
 is different in three things from the preceding days: It needs not
 Succah, it needs not Lulab, nor the pouring of water. If it is so, the
 seventh day of Passover is also different, because it is not a duty to
-eat Matzah thereon, as the Master said ([p. 33](suc04.htm#page_33)) that
+eat Matzah thereon, as the Master said ([p. 33](suc04.htm#page_33).md) that
 only the first night it is a duty to eat Matzah? What comparison is
 this? There it is different only from the first night, but not from the
 first day; but here it is different from the day also. Rabhina said: The
@@ -492,7 +492,7 @@ altar ascended on the right, went round, and descended on the left;
 except that those who ascended for the following three purposes (duties)
 ascended on the left, and went back on the same side: to pour water, to
 pour wine, and to offer a burnt-offering of a fowl when it was too much
-on the east side of the altar. <span id="fr_25"></span>[1](#fn_25)
+on the east side of the altar. <span id="fr_25"></span>[1](#fn_25.md)
 
 "*Each was perforated*," etc. Shall we assume that the Mishna is
 according to R. Jehudah and not according to the sages, as it teaches
@@ -594,12 +594,12 @@ thee with favor? says the Lord of hosts."
 
 ### Footnotes
 
-<span id="fn_24"></span>[69:1](suc06.htm#fr_24) The Hebrew term for this
+<span id="fn_24"></span>[69:1](suc06.htm#fr_24.md) The Hebrew term for this
 is ‏שמע תשמע‎, which is literally, "by hearing you will hear more."
 
-<span id="fn_25"></span>[73:1](suc06.htm#fr_25) The burnt-offerings and
+<span id="fn_25"></span>[73:1](suc06.htm#fr_25.md) The burnt-offerings and
 east side of the altar will be explained in Tract Tamid, Chap. I.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](suc07)
+[Next: Chapter V](suc07.md)

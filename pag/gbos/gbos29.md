@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos28)  [Next](gbos30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos28)  [Next](gbos30.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ Any other dances, rites, or games as the Priestess and people wish.
 
 ------------------------------------------------------------------------
 
-[Next: The Sabbat Rituals: Autumn Equinox](gbos30)
+[Next: The Sabbat Rituals: Autumn Equinox](gbos30.md)

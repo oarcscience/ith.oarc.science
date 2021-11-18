@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lusbk09)  [Next](lusbk10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lusbk09)  [Next](lusbk10.md) 
 
 ------------------------------------------------------------------------
 
@@ -321,4 +321,4 @@ END OF THE NINTH BOOK.
 
 ------------------------------------------------------------------------
 
-[Next: Book X](lusbk10)
+[Next: Book X](lusbk10.md)

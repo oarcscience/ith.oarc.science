@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](pge00)
+[Contents](#contents)    [Start Reading](pge00.md)
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ argument (most recently advanced by a certain President of the United
 States) that homosexuals achieving parity in a society means the end of
 civilization "as we know it".
 
-Symonds, who also wrote [A Problem in Modern Ethics](../pme/index), was
+Symonds, who also wrote [A Problem in Modern Ethics](../pme/index.md), was
 an accomplished classicist, and a pioneering (if closeted) self-realized
 gay person. This book was originally published privately for the use of
 'Medical Psychologists and Jurists'; this figleaf was neccesary in the
@@ -48,31 +48,31 @@ editions.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](pge00)  
-[Preface](pge01)  
-[Contents](pge02)  
-[I. Introduction: Method of treating the subject](pge03)  
+<span id="contents"></span> [Title Page](pge00.md)  
+[Preface](pge01.md)  
+[Contents](pge02.md)  
+[I. Introduction: Method of treating the subject](pge03.md)  
 [II. Homer had no knowledge of paiderastia--Achilles--Treatment of Homer
-by the later Greeks](pge04)  
-[III. The Romance of Achilles and Patroclus](pge05)  
-[IV. The heroic ideal of masculine love](pge06)  
+by the later Greeks](pge04.md)  
+[III. The Romance of Achilles and Patroclus](pge05.md)  
+[IV. The heroic ideal of masculine love](pge06.md)  
 [V. Vulgar paiderastia--How introduced into Hellas--Crete--Laius--The
-myth of Ganymede](pge07)  
-[VI. Discrimination of two loves, heroic and vulgar.](pge08)  
+myth of Ganymede](pge07.md)  
+[VI. Discrimination of two loves, heroic and vulgar.](pge08.md)  
 [VII. The intensity of paiderastia as an emotion, and its
-quality](pge09)  
-[VIII. Myths of paiderastia](pge10)  
-[IX. Semi-legendary tales of love--Harmodius and Aristogeiton](pge11)  
+quality](pge09.md)  
+[VIII. Myths of paiderastia](pge10.md)  
+[IX. Semi-legendary tales of love--Harmodius and Aristogeiton](pge11.md)  
 [X. Dorian Customs--Sparta and Crete--The sacred band--Alexander the
-Great](pge12)  
-[XI. Paiderastia in poetry of the lyric age](pge13)  
-[XII. Paiderastia upon the Attic stage](pge14)  
-[XIII. Recapitulation of points--The Palæstra](pge15)  
-[XIV. Distinctions drawn by Attic law and custom](pge16)  
-[XV. Platonic doctrine on Greek love](pge17)  
-[XVI. Greek liberty and Greek love extinguished](pge18)  
+Great](pge12.md)  
+[XI. Paiderastia in poetry of the lyric age](pge13.md)  
+[XII. Paiderastia upon the Attic stage](pge14.md)  
+[XIII. Recapitulation of points--The Palæstra](pge15.md)  
+[XIV. Distinctions drawn by Attic law and custom](pge16.md)  
+[XV. Platonic doctrine on Greek love](pge17.md)  
+[XVI. Greek liberty and Greek love extinguished](pge18.md)  
 [XVII. The deep root struck by paiderastia in Greece--Position of
-Women](pge19)  
-[XVIII. Relation of paiderastia to the fine arts](pge20)  
-[XIX. Homosexuality among Greek women](pge21)  
-[XX. Greek love did not exist at Rome--Christianity--Chivalry](pge22)  
+Women](pge19.md)  
+[XVIII. Relation of paiderastia to the fine arts](pge20.md)  
+[XIX. Homosexuality among Greek women](pge21.md)  
+[XX. Greek love did not exist at Rome--Christianity--Chivalry](pge22.md)  

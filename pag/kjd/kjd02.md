@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Wicca and
-Paganism](../index)  [Index](index)  [Previous](kjd01)  [Next](kjd03) 
+[Intangible Textual Heritage](../../index.md)  [Wicca and
+Paganism](../index)  [Index](index)  [Previous](kjd01)  [Next](kjd03.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ Cum Privilegio Regio
 
 ------------------------------------------------------------------------
 
-[Next: Preface](kjd03)
+[Next: Preface](kjd03.md)

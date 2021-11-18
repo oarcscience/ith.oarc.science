@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[World Bible](../index)  [Index](index)  [Previous](zac)  [Next](mat) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[World Bible](../index)  [Index](index)  [Previous](zac)  [Next](mat.md) 
 
 ------------------------------------------------------------------------
 
@@ -247,4 +247,4 @@ frapper le pays d'interdit.
 
 ------------------------------------------------------------------------
 
-[Next: Matthew](mat)
+[Next: Matthew](mat.md)

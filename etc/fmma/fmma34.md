@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma33)  [Next](fmma35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma33)  [Next](fmma35.md) 
 
 ------------------------------------------------------------------------
 
@@ -181,4 +181,4 @@ admired and valued to this day.
 
 ------------------------------------------------------------------------
 
-[Next: Warwick The Kingmaker. Lived From 1428-1471](fmma35)
+[Next: Warwick The Kingmaker. Lived From 1428-1471](fmma35.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](piby10)  [Next](piby12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](piby10)  [Next](piby12.md) 
 
 ------------------------------------------------------------------------
 
@@ -162,10 +162,10 @@ that gives light to the earth, stand thou still <span id="page_53">p.
 53</span> over mountains of Africa and give light to her righteous
 armies."
 
-Where are those? [There](errata.htm#3) is none to compare with the
+Where are those? [There](errata.htm#3.md) is none to compare with the
 Athlyians in united spirits and a determination; a people, lovers of
 freedom and of justice, fearless of death.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 7. Marcus Garvey](piby12)
+[Next: Chapter 7. Marcus Garvey](piby12.md)

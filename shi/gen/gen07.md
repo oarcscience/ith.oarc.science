@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](gen06)  [Next](gen08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](gen06)  [Next](gen08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/014243714X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0031574OG/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Genji Monogatari*, by Lady Murasaki Shikibu, tr. Suematsu Kencho,
 \[1900\], at Intangible Textual Heritage
 
@@ -469,7 +469,7 @@ and flowers that blossomed around. The deer, too, which were to be seen
 here, added to the beauty of the picture. Gazing around at these Genji
 once more proceeded to the temple. The hermit—though too infirm to
 walk—again contrived to offer up his prayers on Genji's behalf, and he
-also read from the Darani. <span id="fr_61"></span>[1](#fn_60) The
+also read from the Darani. <span id="fr_61"></span>[1](#fn_60.md) The
 tremulous accents of the old man—poured forth from his nearly toothless
 mouth—imparted a greater reverence to his prayers.
 
@@ -504,7 +504,7 @@ To this the priest replied—
 
 <span class="small">"Your noble presence seems to me  
   Like the rare flowers of Udon tree, <span
-id="fr_62"></span>[2](#fn_61)  
+id="fr_62"></span>[2](#fn_61.md)  
   Nor does the mountain cherry white,  
   Attract my gaze while you're in sight."</span>
 
@@ -668,7 +668,7 @@ vexed. She wrote an answer as follows:—
 "When you came into our neighborhood your visit was very pleasing to us,
 and your special message does us honor. I am, however, at a loss how to
 express myself with regard to the little one, as yet she cannot even
-manage the naniwadz." <span id="fr_63"></span>[3](#fn_62)
+manage the naniwadz." <span id="fr_63"></span>[3](#fn_62.md)
 
 Enclosed in the note were the following lines, in which she hinted as to
 her doubts of the steadfastness of Genji's character:
@@ -695,7 +695,7 @@ cajole Ô Miôbu, Wistaria's attendant, into arranging an opportunity for
 him to see her. On Wistaria's part there were strong doubts as to the
 propriety of complying with his request, but at last the earnestness of
 the Prince overcame her scruples, and Ô Miôbu managed eventually to
-bring about a meeting between them. <span id="fr_64"></span>[4](#fn_63)
+bring about a meeting between them. <span id="fr_64"></span>[4](#fn_63.md)
 
 Genji gave vent to his feelings to the Princess, as follows:—
 
@@ -1136,19 +1136,19 @@ and invariably pleasant.
 
 ### Footnotes
 
-<span id="fn_60"></span>[103:1](gen07.htm#fr_61) An Indian theological
+<span id="fn_60"></span>[103:1](gen07.htm#fr_61.md) An Indian theological
 writing.
 
-<span id="fn_61"></span>[104:2](gen07.htm#fr_62) In the Buddhist Bible
+<span id="fn_61"></span>[104:2](gen07.htm#fr_62.md) In the Buddhist Bible
 it is stated that there is in Paradise a divine tree, called Udon, which
 rarely blossoms. When, however, it does blossom, Buddha is said to
 appear in the world, therefore we make use of this expression when
 referring to any rare event.
 
-<span id="fn_62"></span>[107:3](gen07.htm#fr_63) The name of a song
+<span id="fn_62"></span>[107:3](gen07.htm#fr_63.md) The name of a song
 which in those days formed the first lesson in writing.
 
-<span id="fn_63"></span>[107:4](gen07.htm#fr_64) The authoress
+<span id="fn_63"></span>[107:4](gen07.htm#fr_64.md) The authoress
 represents her in a subsequent chapter as suffering punishment in the
 next world for this sin. The real cause of Genii's exile is also
 supposed to have resulted from the same sin.
@@ -1157,6 +1157,6 @@ supposed to have resulted from the same sin.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI: Saffron Flower](gen08)
+[Next: Chapter VI: Saffron Flower](gen08.md)
 
 </div>

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](sdo09)  [Next](sdo11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](sdo09)  [Next](sdo11.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ Mentor ceases.
 
 ------------------------------------------------------------------------
 
-[Next: Duties of the People](sdo11)
+[Next: Duties of the People](sdo11.md)

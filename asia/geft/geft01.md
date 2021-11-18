@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft00)  [Next](geft02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft00)  [Next](geft02.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ to some extent, for this fact; it is to be hoped that an improvement in
 this respect may soon be apparent.
 
 Some years ago, a book written by my brother <span
-id="fr_0"></span>[1](#fn_0) first excited my interest in the Caucasus
+id="fr_0"></span>[1](#fn_0.md) first excited my interest in the Caucasus
 and its brave and
 
 <span id="page_viii">p. viii</span>
@@ -107,7 +107,7 @@ M. W.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:1](geft01.htm#fr_0) *The Kingdom of Georgia:
+<span id="fn_0"></span>[vii:1](geft01.htm#fr_0.md) *The Kingdom of Georgia:
 Notes of Travel in a Land of Women, Wine, and Song*. To which are
 appended Historical, Literary, and Political Sketches, Specimens of the
 National Music, and a Compendious Bibliography, with Illustrations and
@@ -115,4 +115,4 @@ Maps. By Oliver Wardrop. London: Sampson Low, 1888.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](geft02)
+[Next: Contents](geft02.md)

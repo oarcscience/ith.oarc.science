@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Taoism](../index) 
-[Index](index)  [Previous](salt02)  [Next](salt04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Taoism](../index.md) 
+[Index](index)  [Previous](salt02)  [Next](salt04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I6314Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Sayings of Lao-Tzu*, Lionel Giles translation \[1905\], at
 Intangible Textual Heritage
 
@@ -215,7 +215,7 @@ abstraction which Plato calls the Idea of the Good. The function and
 attributes of this grandiose conception are not set forth quite so fully
 or clearly as those of Tao, but it certainly covers a great deal more
 than the ordinary moral connotation of our word "good." <span
-id="fr_0"></span>[\*](#fn_0) It is at once the creative and sustaining
+id="fr_0"></span>[\*](#fn_0.md) It is at once the creative and sustaining
 Cause of the Universe, the condition of all knowledge, and the *Summum
 Bonum* or supreme object of man's desire. Being a metaphysical entity,
 it cannot be perceived by the eye or ear of sense, and is therefore
@@ -278,7 +278,7 @@ dominion of Philosopher-Kings.
 
 ### Footnotes
 
-<span id="fn_0"></span>[16:\*](salt03.htm#fr_0) Lao Tzŭ, like Plato,
+<span id="fn_0"></span>[16:\*](salt03.htm#fr_0.md) Lao Tzŭ, like Plato,
 recognizes very little distinction between Knowledge and Virtue, the
 rational and moral sides of man's nature. Virtue with him is simply the
 knowledge of Tao, just as with Plato it is the knowledge of "the Good."
@@ -286,4 +286,4 @@ knowledge of Tao, just as with Plato it is the knowledge of "the Good."
 ------------------------------------------------------------------------
 
 [Next: Tao In Its Transcendental Aspect, And In Its Physical
-Manifestation](salt04)
+Manifestation](salt04.md)

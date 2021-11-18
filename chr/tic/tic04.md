@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](tic03)  [Next](tic05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](tic03)  [Next](tic05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00267RV6Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ about prayer; for one reason, because I do not feel that God has given
 me either the power or the desire for it, besides which, during the last
 three months I have suffered from noises and a great weakness in my head
 that have made it painful for me to write even on necessary
-business. <span id="fr_29"></span>[1](#fn_29)
+business. <span id="fr_29"></span>[1](#fn_29.md)
 
 However, as I know the power obedience has of making things easy which
 seem impossible, my will submits with a good grace, although nature
@@ -87,9 +87,9 @@ unless God, in His mercy, enabled me to do so.
 
 ### Footnotes
 
-<span id="fn_29"></span>[35:1](tic04.htm#fr_29) 'I am always suffering
+<span id="fn_29"></span>[35:1](tic04.htm#fr_29.md) 'I am always suffering
 from my head.' Letter of June 28, 1577. *Letters*. VOL. II.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Description of the Castle](tic05)
+[Next: Chapter I. Description of the Castle](tic05.md)

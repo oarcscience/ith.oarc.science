@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Necronomicon](../index) 
-[Index](index)  [Previous](hpl40)  [Next](hpl42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Necronomicon](../index.md) 
+[Index](index)  [Previous](hpl40)  [Next](hpl42.md) 
 
 ------------------------------------------------------------------------
 
@@ -439,4 +439,4 @@ thought of what those tracks in the road might mean.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 8](hpl42)
+[Next: Chapter 8](hpl42.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Next](smoa01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Next](smoa01.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -31,25 +31,25 @@ office as required by law at the time.
 
 <span id="img_jacket"></span> <span align="CENTER"> [![Dust
 Jacket](tn/jacket.jpg)  
-Click to enlarge](img/jacket.jpg)  
+Click to enlarge](img/jacket.jpg.md)  
 Dust Jacket  
 </span>
 
 <span id="img_cover"></span> <span align="CENTER"> [![Front
 Cover](tn/cover.jpg)  
-Click to enlarge](img/cover.jpg)  
+Click to enlarge](img/cover.jpg.md)  
 Front Cover  
 </span>
 
 <span id="img_title"></span> <span align="CENTER"> [![Title
 Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 </span>
 
 <span id="img_verso"></span> <span align="CENTER">
 [![Verso](tn/verso.jpg)  
-Click to enlarge](img/verso.jpg)  
+Click to enlarge](img/verso.jpg.md)  
 Verso  
 </span>
 
@@ -70,7 +70,7 @@ The author, in private life the Baroness von Ravn, has written poetry
 and plays from girlhood; but her most serious work preceding this
 appeared a number of years ago, and was entitled "The Scribe of a Soul,"
 for which Professor van der Naillen, noted scientist, and associate of
-[Flammarion](errata.htm#0), after reading her manuscript, wrote the
+[Flammarion](errata.htm#0.md), after reading her manuscript, wrote the
 introduction. This will give an idea of the scientific value of the
 present volume, although not of its thrilling interest, which can only
 be found in reading its amazing pages.
@@ -116,4 +116,4 @@ THE CHRISTOPHER PUBLISHING HOUSE, Boston
 
 ------------------------------------------------------------------------
 
-[Next: Foreword](smoa01)
+[Next: Foreword](smoa01.md)

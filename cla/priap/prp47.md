@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp46)  [Next](prp48) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp46)  [Next](prp48.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ the weary night, excited by lustful rockets.\[1\]
 
 ------------------------------------------------------------------------
 
-[Next: 48. Tho' see you drenchèd wet that part of me](prp48)
+[Next: 48. Tho' see you drenchèd wet that part of me](prp48.md)

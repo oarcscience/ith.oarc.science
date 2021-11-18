@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa11)  [Next](fiwa13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa11)  [Next](fiwa13.md) 
 
 ------------------------------------------------------------------------
 
@@ -578,4 +578,4 @@ Malmbâ still lives, working faithfully as a church elder and evangelist.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI: The Fetich--Its Relation to the Family](fiwa13)
+[Next: Chapter XI: The Fetich--Its Relation to the Family](fiwa13.md)

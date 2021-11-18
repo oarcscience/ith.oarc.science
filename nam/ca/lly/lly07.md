@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](lly06)  [Next](lly08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](lly06)  [Next](lly08.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ inspires a feeling of admiration and awe almost amounting to reverence.
 
 ------------------------------------------------------------------------
 
-[Next: El Capitan](lly08)
+[Next: El Capitan](lly08.md)

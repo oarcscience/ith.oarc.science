@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Hinduism](../../index) 
-[F.W. Bain](../index)  [Index](index)  [Previous](iggh06) 
-[Next](iggh08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Hinduism](../../index.md) 
+[F.W. Bain](../index)  [Index](index)  [Previous](iggh06.md) 
+[Next](iggh08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1406716642/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *In the Great God's Hair*, by F. W. Bain, \[1905\], at Intangible
 Textual Heritage
 
@@ -27,7 +27,7 @@ cannot live upon hay and straw, and now thou wilt have to leave me for a
 little. And she gave him a bracelet, made of rubies as large as pigeons’
 eggs, and said: Take this, and sell it in the city, and with the money
 buy provisions for us: and bring back with thee a *winá* <span
-id="fr_21"></span>[m](#fn_21),
+id="fr_21"></span>[m](#fn_21.md),
 
 <span id="page_28">p. 28</span>
 
@@ -82,7 +82,7 @@ anklets, and great gold
 bangles that made her little hands look smaller, and jewelled armlets
 that encircled her arms just above the elbow, making those round arms
 seem even rounder than before: and a string of great pearls round her
-neck, and one great grass-green <span id="fr_22"></span>[n](#fn_22)
+neck, and one great grass-green <span id="fr_22"></span>[n](#fn_22.md)
 emerald in her jet-black hair. And as he looked at her, the clearness of
 his mind was disturbed and agitated by emotion; for she struck him hard,
 as she looked at him with calm eyes. And he said to himself: Why, this
@@ -113,7 +113,7 @@ the young wife of another man. For when the fire is extinct, what has
 the fuel to fear? And to judge by thy appearance, I am old enough to be
 thy father, were thy years even double what they are. Since, therefore,
 I have been so highly favoured by fortune <span
-id="fr_23"></span>[o](#fn_23) as to find thee instead of thy husband,
+id="fr_23"></span>[o](#fn_23.md) as to find thee instead of thy husband,
 let me seize my opportunity, and ask thee in his absence, what evil
 spirit prompted thee to choose for thy husband one known to be a scorner
 of the gods, and therefore likely to feel their vengeance, and come to a
@@ -133,15 +133,15 @@ thee below?
 
 ### Footnotes
 
-<span id="fn_21"></span>[27:m](iggh07.htm#fr_21) A species of lute.
+<span id="fn_21"></span>[27:m](iggh07.htm#fr_21.md) A species of lute.
 
-<span id="fn_22"></span>[30:n](iggh07.htm#fr_22) This epithet
+<span id="fn_22"></span>[30:n](iggh07.htm#fr_22.md) This epithet
 (*shashpashyáma*) would appear to mean that shadowy hue which is seen in
 the hollows of grass when lit by the sun.
 
-<span id="fn_23"></span>[31:o](iggh07.htm#fr_23) As in fact, he had
+<span id="fn_23"></span>[31:o](iggh07.htm#fr_23.md) As in fact, he had
 been, but otherwise than as he thought.
 
 ------------------------------------------------------------------------
 
-[Next: V. Man's Other Half](iggh08)
+[Next: V. Man's Other Half](iggh08.md)

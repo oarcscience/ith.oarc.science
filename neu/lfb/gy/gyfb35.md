@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](gyfb34)  [Next](gyfb36) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](gyfb34)  [Next](gyfb36.md) 
 
 </div>
 
@@ -461,6 +461,6 @@ And that was the end of the mischief wrought by the fairy Dindonette!
 
 ------------------------------------------------------------------------
 
-[Next: Long, Broad, and Quickeye](gyfb36)
+[Next: Long, Broad, and Quickeye](gyfb36.md)
 
 </div>

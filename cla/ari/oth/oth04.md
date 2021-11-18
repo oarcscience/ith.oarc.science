@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](oth03)  [Next](oth05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](oth03)  [Next](oth05.md) 
 
 ------------------------------------------------------------------------
 
@@ -50,4 +50,4 @@ But God and nature create nothing that has not its use.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 5](oth05)
+[Next: Chapter 5](oth05.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe167)  [Next](prwe169) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe167)  [Next](prwe169.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ is that the case broke down.
 
 ------------------------------------------------------------------------
 
-[Next: Notes on Witchcraft](prwe169)
+[Next: Notes on Witchcraft](prwe169.md)

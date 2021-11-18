@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Freemasonry](../index) 
-[Index](index)  [Previous](morg05)  [Next](morg07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Freemasonry](../index.md) 
+[Index](index)  [Previous](morg05)  [Next](morg07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9II90/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Illustrations of Masonry*, by William Morgan, \[1827\], at Intangible
 Textual Heritage
 
@@ -81,7 +81,7 @@ lodge of such."
 
 Ans. "By being divested of all metals, neither naked nor clothed,
 barefoot nor shod, hoodwinked, with a Cable Tow <span
-id="fr_0"></span>[†](#fn_0) about my neck, in which situation I was
+id="fr_0"></span>[†](#fn_0.md) about my neck, in which situation I was
 conducted to the door of the lodge."
 
 "You being hoodwinked how did you know it to be a door?"
@@ -138,7 +138,7 @@ breast in the name of the Lord."
 
 Ans. "I was conducted to the center of the lodge and there caused to
 kneel for the benefit of a prayer." \[See page
-[19](morg04.htm#page_19).\]
+[19](morg04.htm#page_19.md).\]
 
 "After prayer what was said to you?"
 
@@ -203,7 +203,7 @@ Ans. "In due form."
 Ans. "My left knee bare, bent, my right forming a square; my left hand
 supporting the Holy Bible, Square, and Compass, and my right covering
 the same; in which position I took upon me the solemn oath or obligation
-of an Entered Apprentice Mason. \[See page [21](morg04.htm#page_21).\]
+of an Entered Apprentice Mason. \[See page [21](morg04.htm#page_21.md).\]
 
 "After you had taken your obligation what was said to you?"
 
@@ -376,7 +376,7 @@ from within our walls."
 "What followed?"
 
 Ans. "The Worshipful Master in the east made a demand of me something of
-a [metallic](errata.htm#2) kind, which he said was not so much on
+a [metallic](errata.htm#2.md) kind, which he said was not so much on
 account of its intrinsic value, as that it might be deposited in the
 archives of the lodge, as a memorial that I had therein been made a
 Mason."
@@ -394,14 +394,14 @@ Ans. "I was conducted to the northeast corner of the lodge, and there
 caused to stand upright like a man, my feet forming a square, and
 received a solemn injunction, ever to walk and act uprightly before God
 and man, and in addition thereto, received the following charge: \[For
-this charge see page [27](morg04.htm#page_27).\]
+this charge see page [27](morg04.htm#page_27.md).\]
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_0"></span>[34:†](morg06.htm#fr_0) Three miles long.
+<span id="fn_0"></span>[34:†](morg06.htm#fr_0.md) Three miles long.
 
 ------------------------------------------------------------------------
 
-[Next: Second Section of the Lecture on the First Degree](morg07)
+[Next: Second Section of the Lecture on the First Degree](morg07.md)

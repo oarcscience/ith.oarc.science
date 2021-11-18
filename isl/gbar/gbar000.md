@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Next](gbar001)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Next](gbar001.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amen.
 
 ------------------------------------------------------------------------
 
-[Next](gbar001)
+[Next](gbar001.md)
 
  
 

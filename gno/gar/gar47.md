@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar46)  [Next](gar48) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar46)  [Next](gar48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -93,7 +93,7 @@ Egyptian rule of placing in the mummy cases those
 <span id="page_331">p. 331</span>
 
 elaborate "Litanies of the Dead" of which so many have come down to our
-times: <span id="fr_196"></span>[\*](#fn_194) papyrus scrolls containing
+times: <span id="fr_196"></span>[\*](#fn_194.md) papyrus scrolls containing
 the prayers to be addressed by the soul to each god whose "gate" it has
 to traverse on its way to final rest. To prevent mistakes, the portrait
 of each deity is prefixed to the column of prayers due to him, and this
@@ -104,13 +104,13 @@ The same custom yet holds its ground in India, probably its pristine
 source. Tavernier notices that the Brahmins placed on the breast of the
 corpse seven pieces of paper, inscribed with the prayers to be uttered
 by the soul as soon as released from its corporeal envelope by the
-flames of the funeral pile. <span id="fr_197"></span>[†](#fn_195)
+flames of the funeral pile. <span id="fr_197"></span>[†](#fn_195.md)
 
 The gem-talismans that remain in such varied abundance are themselves
 recognised in the few surviving writings of the Gnostic teachers. The
 *Pistis-Sophia* is full of allusions to the *Seals* and *Numbers* of the
 different Æons and the other Powers, <span
-id="fr_198"></span>[‡](#fn_196) and with the repeated promise of the
+id="fr_198"></span>[‡](#fn_196.md) and with the repeated promise of the
 Saviour to reveal these all unto his hearers; a promise which,
 unfortunately, is not fulfilled in the book as it has come down to us.
 Nevertheless the very allusion sufficiently declares the sense in which
@@ -162,7 +162,7 @@ spakest when the *stater* was brought unto thee, and thou sawest that it
 <span id="page_333">p. 333</span>
 
 was of silver and likewise of copper. <span
-id="fr_199"></span>[\*](#fn_197) Thereupon thou didst ask, Whose is this
+id="fr_199"></span>[\*](#fn_197.md) Thereupon thou didst ask, Whose is this
 image? and they answered, Of the King. Then when thou sawest that it was
 of silver and also of copper, thou saidest: Give the part which is the
 King's unto the King, and the part which is God's unto God. The which
@@ -264,7 +264,7 @@ word came to signify any token serving for the purpose of a credential.
 For example, Caylus figures (Rec. V. pl. 55), a bronze right-hand, the
 natural size, inscribed on the palm **ΣϒΜΒΟΛΟΝ ΠΡΟΣ ΟϒΕΛΑϒΝΙΟϒΣ**,
 "Credentials to the Velaunii" (a Gallic tribe whose seat was round
-Antibes). <span id="fr_200"></span>[\*](#fn_198) The wrist at the
+Antibes). <span id="fr_200"></span>[\*](#fn_198.md) The wrist at the
 section is closed, forming a base,
 
 <span id="page_336">p. 336</span>
@@ -432,7 +432,7 @@ Gnosticism has left traces of itself, whether by direct or indirect
 descent amongst those mysterious sects of the Libanus, the Druses and
 Anseyrets. As late as Justinian's reign, according to Procopius, no
 fewer than a million Polytheists, Manicheans and *Samaritans* (the last
-also a sect of Gnostics) <span id="fr_201"></span>[\*](#fn_199) were
+also a sect of Gnostics) <span id="fr_201"></span>[\*](#fn_199.md) were
 exterminated in Syria alone, during the systematic persecution, so long
 carried on by this pedantic bigot. As that region soon afterwards fell
 under the more tolerant Caliphs, who never troubled themselves about the
@@ -444,10 +444,10 @@ ideas.
 
  
 
-<span id="img_fig15"></span> ![FIG. 15.](img/fig15.jpg)  
+<span id="img_fig15"></span> ![FIG. 15.](img/fig15.jpg.md)  
 FIG. 15.
 
-[(\*)](gar71.htm#an_fig15)
+[(\*)](gar71.htm#an_fig15.md)
 
  
 
@@ -455,7 +455,7 @@ FIG. 15.
 
 ### Footnotes
 
-<span id="fn_194"></span>[331:\*](gar47.htm#fr_196) "Papyri, it is well
+<span id="fn_194"></span>[331:\*](gar47.htm#fr_196.md) "Papyri, it is well
 known, were frequently kept in readiness, with blank spaces for the
 names and occupation of the deceased: the papyrus in fact formed part of
 the regular funeral appliances. They were of three classes, namely
@@ -468,21 +468,21 @@ era, was found by the Prince of Wales when excavating in Egypt; and has
 been published with facsimile. But the finest example known is the one
 preserved in the Soane Museum, hitherto unpublished.
 
-<span id="fn_195"></span>[331:†](gar47.htm#fr_197) The Lord Taraka, if
+<span id="fn_195"></span>[331:†](gar47.htm#fr_197.md) The Lord Taraka, if
 duly propitiated, will breathe into the dying man's ear a *mantra* or
 charm of such power as will secure him a safe passage to heaven.
 
-<span id="fn_196"></span>[331:‡](gar47.htm#fr_198) "Then they bring the
+<span id="fn_196"></span>[331:‡](gar47.htm#fr_198.md) "Then they bring the
 soul before the *Virgin of Light*, and it showeth unto the Virgin her
 own *seal*, her own form of defence, &c." This very illustrative portion
 of the teaching of Valentinus is found in the Pistis-Sophia.
 
-<span id="fn_197"></span>[333:\*](gar47.htm#fr_199) A curious remark,
+<span id="fn_197"></span>[333:\*](gar47.htm#fr_199.md) A curious remark,
 pointing clearly to Alexandria as the place where this Gospel was
 written, its tetradrachmn of imperial times being very base silver
 indeed.
 
-<span id="fn_198"></span>[335:\*](gar47.htm#fr_200) The best, as well as
+<span id="fn_198"></span>[335:\*](gar47.htm#fr_200.md) The best, as well as
 the moat interesting example of a symbolism extant, is the one figured
 by Caylus, without any conception of its value (Pl. 87, i.). It is an
 ivory disk, two inches in diameter, engraved with two fishes, placed
@@ -493,9 +493,9 @@ of some "Brother in Christ Jesus," in the primitive ages of the Church,
 serving as his introduction to the faithful in whatever part he might
 require their help.
 
-<span id="fn_199"></span>[340:\*](gar47.htm#fr_201) And the most ancient
+<span id="fn_199"></span>[340:\*](gar47.htm#fr_201.md) And the most ancient
 of all, for they claimed Simon Magus for their founder.
 
 ------------------------------------------------------------------------
 
-[Next: Gnostic Theogony](gar48)
+[Next: Gnostic Theogony](gar48.md)

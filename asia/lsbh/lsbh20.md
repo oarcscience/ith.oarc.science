@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](lsbh19)  [Next](lsbh21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](lsbh19)  [Next](lsbh21.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Laughable Stories of Bar-Hebraeus*, by Bar-Hebraeus, tr. E.A.W.
 Budge, \[1897\], at Intangible Textual Heritage
 
@@ -26,7 +26,7 @@ replied, "If he should lift up both feet together he would fall down."
 
 CCCCLXXXVIII. Another comedian said, "If it be only those that are weary
 and heavy-laden who are to enter Paradise, as our Lord said <span
-id="fr_102"></span>[1](#fn_102), there is nothing that who will go in
+id="fr_102"></span>[1](#fn_102.md), there is nothing that who will go in
 before the harp, for in this world he endureth much trial and
 tribulation. His throat is squeezed, his ear is twisted, his belly is
 smitten, and when he is old he is thrown into the fire."
@@ -112,9 +112,9 @@ take a morsel of meat before I have done so."
 CCCCXCVI\. Another actor was asked, "What do comic actors resemble?" He
 replied, "A man whose left hand is filled with filth, and \[who hath\]
 his right hand \[stretched out for\] <span
-id="fr_103"></span>[1](#fn_103) alms, and \[who saith\] 'yes,' and 'no?'
-If ye do not <span id="fr_104"></span>[2](#fn_104) say to him 'Take,' he
-causeth pollution <span id="fr_105"></span>[3](#fn_105)."
+id="fr_103"></span>[1](#fn_103.md) alms, and \[who saith\] 'yes,' and 'no?'
+If ye do not <span id="fr_104"></span>[2](#fn_104.md) say to him 'Take,' he
+causeth pollution <span id="fr_105"></span>[3](#fn_105.md)."
 
 CCCXCVII\. Another actor having taken money on loan from a certain man
 denied \[that he had done so\], and having been brought before a judge,
@@ -138,7 +138,7 @@ cloak, and thy Christ commanded thee to give both thy tunic
 <span id="page_133">p. 133</span>
 
 and thy cloak to whosoever asked thee for them <span
-id="fr_106"></span>[1](#fn_106)." And he replied, "Let the mind of
+id="fr_106"></span>[1](#fn_106.md)." And he replied, "Let the mind of
 Christ be far from me on this matter! For this commandment was \[not\]
 given by Him to the people of Sebastia in the winter season, although it
 may have been given to the people of Palestine in the summer season."
@@ -181,7 +181,7 @@ house by the buying of flour, and dripping, and honey."
 
 DV\. Mimus alius quidam deformem quamdam viduam uxorem duxerat
 interrogatus, "Qualis sit ista femina," regessit, "Vaginae latitudine
-aream Arani <span id="fr_107"></span>[1](#fn_107) refert, frigiditate
+aream Arani <span id="fr_107"></span>[1](#fn_107.md) refert, frigiditate
 autem Montem Libanum."
 
 DVI\. Another actor was asked if it were possible for a child to be born
@@ -225,7 +225,7 @@ a key, for I greatly desire it." His wife said to him, "Whatever stores
 have we which need \[locking up with\] a key?" And he replied, "The
 coldness of the air which will freeze them, and behold the place will be
 ready for the time when we prepare flesh and vinegar <span
-id="fr_108"></span>[1](#fn_108), and salt, and wood."
+id="fr_108"></span>[1](#fn_108.md), and salt, and wood."
 
 DXIII\. As another actor was going into a place where there were some
 drunken men they struck him, and when it was said to him, "Why dost thou
@@ -257,7 +257,7 @@ if I do not produce witnesses \[to swear\] that I have paid thee I will
 swear \[it myself\] without either reason or speech."
 
 DXVII\. Another actor said to his servant, "When thou goest on any
-business <span id="fr_109"></span>[1](#fn_109) and returnest, if it be
+business <span id="fr_109"></span>[1](#fn_109.md) and returnest, if it be
 ended satisfactorily say 'Wheat,' and if not say 'Barley. And one day
 when he had gone and returned, the actor asked him, "Wheat or Barley?"
 and he replied, "Something quite different." The actor said, "What
@@ -270,7 +270,7 @@ DXVIII\. Another actor heard a man saying to his companion, "When thou
 art travelling by night and wouldst that the dogs should not molest
 thee, shout in their faces the Psalm wherein occur the words, '\[And
 save\] my only one from the mouth of the dogs <span
-id="fr_110"></span>[1](#fn_110).' And he said to him, "Nay, but let him
+id="fr_110"></span>[1](#fn_110.md).' And he said to him, "Nay, but let him
 also take a stick in his hand, for all dogs do not understand the
 Psalms, although there may be among them some who read them."
 
@@ -362,33 +362,33 @@ presence again."
 
 ### Footnotes
 
-<span id="fn_102"></span>[129:1](lsbh20.htm#fr_102) St. Matthew xi. 28.
+<span id="fn_102"></span>[129:1](lsbh20.htm#fr_102.md) St. Matthew xi. 28.
 
-<span id="fn_103"></span>[132:1](lsbh20.htm#fr_103) Supply some word
+<span id="fn_103"></span>[132:1](lsbh20.htm#fr_103.md) Supply some word
 like \#\#\# or \#\#\#.
 
-<span id="fn_104"></span>[132:2](lsbh20.htm#fr_104) Read \#\#\#.
+<span id="fn_104"></span>[132:2](lsbh20.htm#fr_104.md) Read \#\#\#.
 
-<span id="fn_105"></span>[132:3](lsbh20.htm#fr_105) *I.e.*, "If you will
+<span id="fn_105"></span>[132:3](lsbh20.htm#fr_105.md) *I.e.*, "If you will
 not give me something I will throw dirt at you."
 
-<span id="fn_106"></span>[133:1](lsbh20.htm#fr_106) St. Matthew v. 40.
+<span id="fn_106"></span>[133:1](lsbh20.htm#fr_106.md) St. Matthew v. 40.
 
-<span id="fn_107"></span>[134:1](lsbh20.htm#fr_107) = *I.e.*, Ornan or
+<span id="fn_107"></span>[134:1](lsbh20.htm#fr_107.md) = *I.e.*, Ornan or
 Araunah. See 2 Samuel xxiv. 16; 1 Chronicles xxi. 18.
 
-<span id="fn_108"></span>[135:1](lsbh20.htm#fr_108) For \#\#\# read
+<span id="fn_108"></span>[135:1](lsbh20.htm#fr_108.md) For \#\#\# read
 \#\#\#.
 
-<span id="fn_109"></span>[136:1](lsbh20.htm#fr_109) *I.e.*, Arab.
+<span id="fn_109"></span>[136:1](lsbh20.htm#fr_109.md) *I.e.*, Arab.
 \#\#\#.
 
-<span id="fn_110"></span>[137:1](lsbh20.htm#fr_110) Psalm xxii. 20.
+<span id="fn_110"></span>[137:1](lsbh20.htm#fr_110.md) Psalm xxii. 20.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Sixteenth Chapter: Stories of Clowns and Simpletons](lsbh21)
+[Next: The Sixteenth Chapter: Stories of Clowns and Simpletons](lsbh21.md)
 
 </div>

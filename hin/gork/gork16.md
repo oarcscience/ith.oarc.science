@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork15)  [Next](gork17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork15)  [Next](gork17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -39,7 +39,7 @@ and others) to the great
 <span id="page_380">p. 380</span>
 
 renunciation of the world of which Bhagavân Srî
-[Râmakrishna](errata.htm#5) was the ideal example. Through their intense
+[Râmakrishna](errata.htm#5.md) was the ideal example. Through their intense
 love for the Master they left their homes and sacrificed the duties and
 pleasures of life that they might give their whole soul to His service.
 
@@ -55,7 +55,7 @@ man of this earth, but an embodiment of Infinite Love Divine.
 
 His charm and fascination were so great that everyone who came into His
 presence would lose the consciousness of time and place. Even men like
-Dr. Sircar, <span id="fr_99"></span>[\*](#fn_99) who was the busiest
+Dr. Sircar, <span id="fr_99"></span>[\*](#fn_99.md) who was the busiest
 physician
 
 <span id="page_381">p. 381</span>
@@ -64,7 +64,7 @@ in Calcutta and who usually spent a few moments only with each patient,
 would remain with the Bhagavân hours together and sometimes the whole
 day. He had just now been paying Srî Râmakrishna a long visit. Rising to
 go, he said to the Bhagavân, who was conversing with Syâm Bâbu: <span
-id="fr_100"></span>[\*](#fn_100) "Now that you have Syâm Bâbu to talk
+id="fr_100"></span>[\*](#fn_100.md) "Now that you have Syâm Bâbu to talk
 to, I will bid you good-bye."
 
 Srî Râmakrishna: Would you not like to hear some songs?
@@ -106,7 +106,7 @@ Nirvâna,
 The fragrance of peace everlasting floweth without ceasing.
 
 3\. O Mother! who art Thou, seated alone within the Temple of
-[*Samâdhi*](errata.htm#6), assuming the form of the Great Consort of the
+[*Samâdhi*](errata.htm#6.md), assuming the form of the Great Consort of the
 Lord of Eternity,
 
 </div>
@@ -374,7 +374,7 @@ class="margnote">Prayer of a true Bhakta.</span>
 
 <span class="margnote">Egotism.</span>Egotism comes to all those who
 have studied a few books and have acquired a little learning. I had a
-talk with Tâgore <span id="fr_101"></span>[\*](#fn_101) about the nature
+talk with Tâgore <span id="fr_101"></span>[\*](#fn_101.md) about the nature
 of God. He said to me: "I know all about it." I replied: "He who has
 been to Delhi does not go about telling others 'I have been to Delhi'
 and so on. He who is a true gentleman does not boast of being a
@@ -495,7 +495,7 @@ the gross body, the subtle body, the Kârana (the causal body made of
 joy) and the Mahâkârana (the Great Cause or the Unconditioned).
 
 When you pray, ask for Bhakti, devotion to His Lotus Feet. After
-Ahalyâ <span id="fr_102"></span>[\*](#fn_102) was made free from the
+Ahalyâ <span id="fr_102"></span>[\*](#fn_102.md) was made free from the
 curse called down upon her by her husband, Râma Chandra said: "Ask for a
 boon from me." Ahalyâ replied: "O Râma, if Thou wilt give me a boon, do
 Thou grant that my mind may, ever be on Thy feet beautiful like the
@@ -774,7 +774,7 @@ understand Thy perfection unless Thou givest the power.
 Râmakrishna: Kedâr said to me that when he went to other places he
 starved, but that here he always found food in abundance.
 
-Bijoy (clasping his hands before [Râmakrishna](errata.htm#7)): Lord, I
+Bijoy (clasping his hands before [Râmakrishna](errata.htm#7).md): Lord, I
 know Thee now. I understand Thy glory. Thou needest not tell me of it.
 
 Thereupon Râmakrishna went into Samâdhi. When He returned, He said: "If
@@ -829,7 +829,7 @@ being, but in reality Thou art the Lord of the universe."
 
 ### Footnotes
 
-<span id="fn_99"></span>[380:\*](gork16.htm#fr_99) Dr. Mehendra lal
+<span id="fn_99"></span>[380:\*](gork16.htm#fr_99.md) Dr. Mehendra lal
 Sircar was the best Hindu physician <span id="page_381">p. 381</span> in
 Calcutta at that time. He was a great authority in medical science and
 his opinion carried weight among the European physicians of highest
@@ -837,13 +837,13 @@ repute. He was also the founder of the Science Association in Calcutta,
 where he occasionally delivered scientific lectures on Physics and
 Chemistry.
 
-<span id="fn_100"></span>[381:\*](gork16.htm#fr_100) Syâm Bâbu was a
+<span id="fn_100"></span>[381:\*](gork16.htm#fr_100.md) Syâm Bâbu was a
 rich Hindu of Calcutta and an intimate friend of Dr. Sircar.
 
-<span id="fn_101"></span>[392:\*](gork16.htm#fr_101) Devendra Nâth
-Tâgore. See note [p. 211](gork10.htm#page_211).
+<span id="fn_101"></span>[392:\*](gork16.htm#fr_101.md) Devendra Nâth
+Tâgore. See note [p. 211](gork10.htm#page_211.md).
 
-<span id="fn_102"></span>[397:\*](gork16.htm#fr_102) Ahalyâ, wife of the
+<span id="fn_102"></span>[397:\*](gork16.htm#fr_102.md) Ahalyâ, wife of the
 great logician, the sage Goutama. She was a devoted wife, but the
 villainy of her seducer, who personated her husband, made her unchaste.
 Hence the curse, the effect of which was, it is said, that she was
@@ -851,4 +851,4 @@ turned into stone. The touch of Râma Chandra made her human once more.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIV. Cossipur Garden-House](gork17)
+[Next: Chapter XIV. Cossipur Garden-House](gork17.md)

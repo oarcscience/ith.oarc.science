@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](cab03)  [Next](cab05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](cab03)  [Next](cab05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766135667/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cabala*, by Bernhard Pick, \[1913\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -37,7 +37,7 @@ of the mysteries of
 
 <span id="page_17">p. 17</span>
 
-the *merkaba*, <span id="fr_4"></span>[1](#fn_4) which is expounded in
+the *merkaba*, <span id="fr_4"></span>[1](#fn_4.md) which is expounded in
 the so-called *Hekaloth*, i.e., "Palaces." This work, which is ascribed
 to Ismaël ben-Elisa, opens with a description of God's throne and his
 household consisting of angelic hosts. In this mystical production,
@@ -66,9 +66,9 @@ to its peculiar form, in order to attach to those letters moral,
 theoanthropic, angelological and mystical notions." This treatise is
 also given in Jellinek's work, cited above, Vol. III, pp. 12-49,
 Leipsic, 1855. A Latin translation of Akiba's Alphabet is given by
-Kircher, in his *Œdipus Ægyptiacus*, <span id="fr_5"></span>[2](#fn_5)
+Kircher, in his *Œdipus Ægyptiacus*, <span id="fr_5"></span>[2](#fn_5.md)
 and in Bartolocci's *Bibliotheca Rabbinica*. <span
-id="fr_6"></span>[3](#fn_6)
+id="fr_6"></span>[3](#fn_6.md)
 
 Bodenschatz in his *Kirchliche Verfassung der heutigen Juden*,
 (Erlangen, 1748) gives in Part III, p. 15, the following specimen: "On
@@ -95,7 +95,7 @@ as long as the sole of the foot, and wide as the sole of the foot, etc.,
 etc.'"
 
 Another part of Akiba's Alphabet is the so-called "Book of Enoch," <span
-id="fr_7"></span>[4](#fn_7) which describes the glorification of Enoch
+id="fr_7"></span>[4](#fn_7.md) which describes the glorification of Enoch
 and his transformation into the angel Metatron, regarding him as "the
 little God" in contradistinction to "the Great God."
 
@@ -111,7 +111,7 @@ foolish writings about the divine names; which they invent without any
 sense, calling them appellations of the Deity, and affirming that they
 require holiness and purity and perform miracles. All these things are
 fables; a sensible man will not listen to them, much less believe in
-them." <span id="fr_8"></span>[5](#fn_8)
+them." <span id="fr_8"></span>[5](#fn_8.md)
 
 A new stage in the development of the Cabala commences with the
 publication of *The Book of Creation or Jezirah*, which is the first
@@ -123,7 +123,7 @@ with the Jezirah-Book mentioned in the Talmud, where we are told that
 a calf three years old and ate it" (*Sanhedrin*, fol. 65, col. 2), and
 whereby Rabbi Joshua ben Hananya declared he could take fruit and
 instantly produce the trees which belong to them (*Jerusalem Sanhedrin*,
-chapt. VII towards the end). <span id="fr_9"></span>[6](#fn_9)
+chapt. VII towards the end). <span id="fr_9"></span>[6](#fn_9.md)
 
 <span id="page_21">p. 21</span>
 
@@ -138,7 +138,7 @@ hand they converge and harmonize; and this harmony can only proceed from
 One who originated it" (*Khozari*, IV, 25).
 
 Referring the reader to the literature on the Sepher Jezirah to
-Goldschmidt's book, pp. 35-46, <span id="fr_10"></span>[7](#fn_10) we
+Goldschmidt's book, pp. 35-46, <span id="fr_10"></span>[7](#fn_10.md) we
 will state that the Book of Creation consists of six *Perakim* or
 chapters, subdivided into thirty-three very brief *Mishnahs* or
 sections, as follows: the first chapter has twelve sections, the second
@@ -154,7 +154,7 @@ to Artapanus instructed King Pharethothes of Egypt in astrology
 (Eusebius, *Praep. evang.*, IX, 18); fulfilled the whole law, before it
 was given (*Apoc. Baruch*, chap. 57; *Kiddushin*, IV, 14 fin.), and
 victoriously overcame ten temptations <span
-id="fr_11"></span>[8](#fn_11) (*Pirke Aboth*, V, 3).
+id="fr_11"></span>[8](#fn_11) (*Pirke Aboth*, V, 3.md).
 
 **Theosophical Arithmetic**.--The book opens with the statement that
 ''by thirty-two paths of secret wisdom, the Eternal, the Lord of Hosts,
@@ -199,7 +199,7 @@ twenty-two letters" (I, 10).
 
 <span id="page_24">p. 24</span>
 
-the throne of glory, the Ophanim <span id="fr_12"></span>[9](#fn_12) and
+the throne of glory, the Ophanim <span id="fr_12"></span>[9](#fn_12.md) and
 Seraphim, the sacred living creatures, and the angels of service, and of
 these three He founded His dwelling place, as it is said, He maketh His
 angels breaths, and His ministers a flaming fire (I, 11, 12). The six
@@ -211,7 +211,7 @@ cube, and representing the idea of form in its geometrical perfection
 In the words of the Book of Creation the hexade is thus described:
 "*Five*: Three letters from out the simple ones; He sealed spirit on the
 three, and fastened them in His great Name J H V. <span
-id="fr_13"></span>[10](#fn_13) And He sealed with them six outgoings
+id="fr_13"></span>[10](#fn_13.md) And He sealed with them six outgoings
 (ends, terminations); He turned upwards, and He sealed it with J H V.
 *Six*: He sealed below, turned downwards, and sealed it with J V H.
 *Seven*: He sealed eastward, He turned in front of Him, and sealed it
@@ -223,20 +223,20 @@ the living God, and (2)
 
 <span id="page_25">p. 25</span>
 
-wind \[air or spirit?\] <span id="fr_14"></span>[11](#fn_14) (3) water,
+wind \[air or spirit?\] <span id="fr_14"></span>[11](#fn_14) (3.md) water,
 and (4) fire; and (5) height above and (6) below, (7) east and (8) west,
 (9) north and (10) south."
 
 \[*Sephiroth* is the plural of the word *Sephirah*. Azariel derives the
 word from *saphar*, "to number"; later Cabalists derive it either from
 *saphir*, "Saphir," or from the Greek "spheres," <span
-id="fr_15"></span>[12](#fn_15) and are not at all certain whether to
+id="fr_15"></span>[12](#fn_15.md) and are not at all certain whether to
 regard the Sephiroth as "principles," <span
-id="fr_16"></span>[13](#fn_16) or as "substances," <span
-id="fr_17"></span>[14](#fn_17) or as "potencies, powers," <span
-id="fr_18"></span>[15](#fn_18) or as "intelligent worlds," <span
-id="fr_19"></span>[16](#fn_19) or as "attributes," or as
-"entities," <span id="fr_20"></span>[17](#fn_20) or as "organs of the
+id="fr_16"></span>[13](#fn_16.md) or as "substances," <span
+id="fr_17"></span>[14](#fn_17.md) or as "potencies, powers," <span
+id="fr_18"></span>[15](#fn_18.md) or as "intelligent worlds," <span
+id="fr_19"></span>[16](#fn_19.md) or as "attributes," or as
+"entities," <span id="fr_20"></span>[17](#fn_20.md) or as "organs of the
 Deity" (*Kelim*). We might fairly well translate the word *Sephiroth* by
 "emanations."\]
 
@@ -278,7 +278,7 @@ contrary principle, and (3) balance (i.e., the intermediate).
 
 The three mothers or fundamental letters are followed by the seven
 duplicate letters--Beth, Gimel, Daleth, Caph, Pe, Resh, Tau <span
-id="fr_21"></span>[18](#fn_21)--duplicate, because they are opposite as
+id="fr_21"></span>[18](#fn_21.md)--duplicate, because they are opposite as
 life and death; peace and evil; wisdom and folly; riches and poverty;
 grace and ugliness; fertility and desolation; rule and servitude (IV,
 1): These seven duplicate letters correspond to the seven outgoings:
@@ -364,25 +364,25 @@ twenty
 
 <span id="page_31">p. 31</span>
 
-houses; <span id="fr_22"></span>[19](#fn_22) and from thenceforward go
+houses; <span id="fr_22"></span>[19](#fn_22.md) and from thenceforward go
 out and think what the mouth cannot utter and the ear cannot hear" (IV,
 4). A few examples may serve as illustration. Two letters form two
 houses, by using the first two letters of the Hebrew alphabet, *a*
-*b*, <span id="fr_23"></span>[20](#fn_23) in the following manner:
+*b*, <span id="fr_23"></span>[20](#fn_23.md) in the following manner:
 
 1 = *ab*
 
 2 = *ba*
 
 <span class="contnote">\[paragraph continues\]</span> Three letters,
-*a*, *b*, *g*, <span id="fr_24"></span>[21](#fn_24) build six houses,
+*a*, *b*, *g*, <span id="fr_24"></span>[21](#fn_24.md) build six houses,
 namely:
 
 1 = *abg*; 2 = *agb*; 3 = *bag*; 4 = *bga*;
 
 5 = *gab*; 6 = *gba*.
 
-Four letters, a, b, g, d, <span id="fr_25"></span>[22](#fn_25) build
+Four letters, a, b, g, d, <span id="fr_25"></span>[22](#fn_25.md) build
 twenty-four houses, viz.:
 
 <div align="center">
@@ -422,7 +422,7 @@ forth in the twelve constellations" (ch. VI, 4).
 Jezirah proves that it has as yet nothing in common with the cardinal
 doctrines of the Cabala, as exhibited in later works, especially in the
 "Lobar, where speculations about the being and nature of the Deity, the
-En Soph <span id="fr_26"></span>[23](#fn_26) and the Sephiroth, which
+En Soph <span id="fr_26"></span>[23](#fn_26.md) and the Sephiroth, which
 are the essence of the Cabala, are given.
 
 <span id="page_33">p. 33</span>
@@ -439,7 +439,7 @@ Lehrhallen*, III, Leipsic, 1909, pp. 170-201).
 With the thirteenth century begins the crystallization of the Cabala,
 and Isaac the Blind (flourished 1190-1210) may be regarded as the
 originator of this lore. The doctrines of the Sephiroth <span
-id="fr_27"></span>[24](#fn_27) taught in the Book Jezirah are further
+id="fr_27"></span>[24](#fn_27.md) taught in the Book Jezirah are further
 developed by his pupils, especially by Rabbi Azariel (died 1238), in his
 "Commentary on the Ten Sephiroth, by Way of Questions and Answers," an
 analysis of which is given in Jellinek's *Beiträge zur Geschichte der
@@ -505,7 +505,7 @@ manuscript in the libraries at Paris and Leyden.
 <span id="page_36">p. 36</span>
 
 The conversion of the famous Talmudist and scholar Moses
-Nachmanides <span id="fr_28"></span>[25](#fn_28) (1194-1270) to the
+Nachmanides <span id="fr_28"></span>[25](#fn_28) (1194-1270.md) to the
 newly-born Cabala gave to it an extraordinary importance and rapid
 spread amongst his numerous followers. In the division of the synagogues
 caused by the writings of Maimonides, Nachmanides took the part of the
@@ -560,12 +560,12 @@ the first *Sephira Keter*), and the seven different luminous and
 splendid regions. In the Jeziratic world are the sacred animals in the
 vision of Ezekiel, the ten classes of angels with their princes, who are
 presided over by the fiery Metatron, <span
-id="fr_29"></span>[26](#fn_29) the spirits of men, and the accessory
+id="fr_29"></span>[26](#fn_29.md) the spirits of men, and the accessory
 work of the divine chariot. In the Asilatic world are the Ophanim, the
 angels who receive the prayers, who are appointed over the will of man,
 who control the action of mortals, who carry on the struggle against
 evil, and who are presided over by the angelic prince Synadelphon. <span
-id="fr_30"></span>[27](#fn_30)
+id="fr_30"></span>[27](#fn_30.md)
 
 4\. "The world was founded in wisdom and understanding (Prov. iii. 13),
 and God in his knowledge originated fifty gates of understanding.
@@ -611,7 +611,7 @@ extending and thickening into a line, the line into the plane, the plane
 into the expanded body."
 
 An enthusiastic contemporary of Allatif was Abraham ben Samuel
-Abulafia <span id="fr_31"></span>[28](#fn_31) (born at Saragossa, 1240;
+Abulafia <span id="fr_31"></span>[28](#fn_31.md) (born at Saragossa, 1240;
 died 1291) . He was an eccentric personage, full of whims, and fond of
 adventures. Not satisfied with philosophy, he gave himself to the
 mysteries of the Cabala in their most fantastic extremes, as the
@@ -657,7 +657,7 @@ escape to the island of Comino, near Malta (about 1288), where he
 remained for some time, and wrote sundry Cabalistic works. Of his many
 works Jellinek published his Rejoinder to Solomon ben Adereth, who
 attacked his doctrines and pretensions as Messiah and prophet. <span
-id="fr_32"></span>[29](#fn_32)
+id="fr_32"></span>[29](#fn_32.md)
 
 A disciple of Abulafia was *Joseph Gikatilla* of Medina-Celi, who died
 in Penjafiel after 1305. He, too, occupied himself with the mysticism of
@@ -684,7 +684,7 @@ composition of books under feigned but honored names. If he put the
 doctrines of the Cabala into the mouth of an older, highly venerated
 authority, he was sure to be successful in every respect. And he
 selected for this purpose the Tanaite Simon ben Jochaï, <span
-id="fr_33"></span>[30](#fn_33) who according to tradition spent thirteen
+id="fr_33"></span>[30](#fn_33.md) who according to tradition spent thirteen
 years in a cave, solitary and buried in profound reflection, and whom
 ancient mysticism represented as receiving revelations from the prophet
 Elijah. Simon ben Jochaï was assuredly the right authority for the
@@ -701,7 +701,7 @@ heavenly revelation, and was studied even by Christians.
 
 ### Footnotes
 
-<span id="fn_4"></span>[17:1](cab04.htm#fr_4) *Merkaba*, i.e.,
+<span id="fn_4"></span>[17:1](cab04.htm#fr_4.md) *Merkaba*, i.e.,
 "Chariot," mentioned in Ezek. i and x, which treat of the Divine Throne,
 resting on wheels, and carried by sacred animals. Great mysteries are
 attached by the ancient Jews to all details of this description of the
@@ -709,36 +709,36 @@ Deity and his surroundings, which in imitation of *Maasey Bereshit*,
 i.e., "the work of the hexahemeron" or "cosmogony," is also called
 *Maasey Merkaba*, "the Work of the Chariot," a kind of "theosophy."
 
-<span id="fn_5"></span>[18:2](cab04.htm#fr_5) Rome, 1652, Vol. II, p.
+<span id="fn_5"></span>[18:2](cab04.htm#fr_5.md) Rome, 1652, Vol. II, p.
 225 f.
 
-<span id="fn_6"></span>[18:3](cab04.htm#fr_6) Vol. IV, pp. 27 f.
+<span id="fn_6"></span>[18:3](cab04.htm#fr_6.md) Vol. IV, pp. 27 f.
 
-<span id="fn_7"></span>[19:4](cab04.htm#fr_7) Also reprinted in
+<span id="fn_7"></span>[19:4](cab04.htm#fr_7.md) Also reprinted in
 Jellinek's *Bet Ha-Midrash*, Vol. II, pp. 114-117.
 
-<span id="fn_8"></span>[20:5](cab04.htm#fr_8) More, *Nebuchim* I, 61.
+<span id="fn_8"></span>[20:5](cab04.htm#fr_8.md) More, *Nebuchim* I, 61.
 Wünsche thinks that the treatise *De Judaicis süperstitionibus* by
 Agobard, bishop of Lyons (died 840), was directed against this mystic
 tendency.
 
-<span id="fn_9"></span>[20:6](cab04.htm#fr_9) L. Goldschmidt, *Das Buch
+<span id="fn_9"></span>[20:6](cab04.htm#fr_9.md) L. Goldschmidt, *Das Buch
 der Schöpfung*, Frankfurt a. M., 1894, p. 10, remarks: "I am inclined to
 put the time of the composition of the Book Jezirah into the second
 century B.C., and assert that it is the same book of the Creation which
 is mentioned in the Talmud." He is also inclined to make Palestine the
 place of its composition.
 
-<span id="fn_10"></span>[21:7](cab04.htm#fr_10) We may add the English
+<span id="fn_10"></span>[21:7](cab04.htm#fr_10.md) We may add the English
 translation of the book by Edersheim, *The Life and Times of Jesus the
 Messiah*, Vol. II (1883), pp. 690-695.
 
-<span id="fn_11"></span>[22:8](cab04.htm#fr_11) Comp. in general Beer,
+<span id="fn_11"></span>[22:8](cab04.htm#fr_11.md) Comp. in general Beer,
 *Leben Abraham's nach Auffassung der jüdischen Sag*e, Leipsic, 1859;
 Grünbaum, *Neue Beiträge zur semitischen Sagenkunde*; 1893, pp. 89-132;
 Bonwetsch, *Die Apokalypse Abrahams*, 1897, pp. 41-55.
 
-<span id="fn_12"></span>[24:9](cab04.htm#fr_12) Ophanim (‏אופנים‎,
+<span id="fn_12"></span>[24:9](cab04.htm#fr_12.md) Ophanim (‏אופנים‎,
 plural of ‏אופו‎), translated "wheels" in the English version (Ezek. i.
 20), is taken by the Jewish Rabbis to denote "a distinct order of
 angels," just as Cherubim and Seraphim. Hence the <span id="page_25">p.
@@ -750,34 +750,34 @@ regarded by the ancient sages as identical with the angel *Sandalphon*,
 ‏סנדלפון‎ = συνάδελφος, co-brother or fellow-companion of the angel
 Metabron.
 
-<span id="fn_13"></span>[24:10](cab04.htm#fr_13) <span id="page_25">p.
+<span id="fn_13"></span>[24:10](cab04.htm#fr_13.md) <span id="page_25">p.
 25</span> These three letters mean Jahu, or Yahveh, now pronounced
 Jehovah, of which they are the abbreviation; what follows shows how the
 permutation of these three letters marks the varied relationship of God
 to creation in time and space, and at the same time, so to speak, the
 immanence of His manifestation in it.
 
-<span id="fn_14"></span>[25:11](cab04.htm#fr_14) The word *ruach* means
+<span id="fn_14"></span>[25:11](cab04.htm#fr_14.md) The word *ruach* means
 all these.
 
-<span id="fn_15"></span>[25:12](cab04.htm#fr_15) σφαῖραι.
+<span id="fn_15"></span>[25:12](cab04.htm#fr_15.md) σφαῖραι.
 
-<span id="fn_16"></span>[25:13](cab04.htm#fr_16) ἀρχαὶ.
+<span id="fn_16"></span>[25:13](cab04.htm#fr_16.md) ἀρχαὶ.
 
-<span id="fn_17"></span>[25:14](cab04.htm#fr_17) ὑποστάσεις
+<span id="fn_17"></span>[25:14](cab04.htm#fr_17.md) ὑποστάσεις
 
-<span id="fn_18"></span>[25:15](cab04.htm#fr_18) δυνάμεις
+<span id="fn_18"></span>[25:15](cab04.htm#fr_18.md) δυνάμεις
 
-<span id="fn_19"></span>[25:16](cab04.htm#fr_19) κόσμοι νοητικοί.
+<span id="fn_19"></span>[25:16](cab04.htm#fr_19.md) κόσμοι νοητικοί.
 
-<span id="fn_20"></span>[25:17](cab04.htm#fr_20) *Azamoth*.
+<span id="fn_20"></span>[25:17](cab04.htm#fr_20.md) *Azamoth*.
 
-<span id="fn_21"></span>[27:18](cab04.htm#fr_21) These letters of the
+<span id="fn_21"></span>[27:18](cab04.htm#fr_21.md) These letters of the
 Hebrew Alphabet are called double because they have a double
 pronunciation, being sometimes aspirated and sometimes not, according to
 their being with or without the *dagesh* (i.e., a point in the middle).
 
-<span id="fn_22"></span>[31:19](cab04.htm#fr_22) In order to ascertain
+<span id="fn_22"></span>[31:19](cab04.htm#fr_22.md) In order to ascertain
 how often a certain number of letters can be transposed, the product of
 the preceding number must be multiplied with it, thus:
 
@@ -791,28 +791,28 @@ the preceding number must be multiplied with it, thus:
 
 </div>
 
-<span id="fn_23"></span>[31:20](cab04.htm#fr_23) ‏א‎ ‏ב‎
+<span id="fn_23"></span>[31:20](cab04.htm#fr_23.md) ‏א‎ ‏ב‎
 
-<span id="fn_24"></span>[31:21](cab04.htm#fr_24) ‏א‎ ‏ב‎ ‏ג‎
+<span id="fn_24"></span>[31:21](cab04.htm#fr_24.md) ‏א‎ ‏ב‎ ‏ג‎
 
-<span id="fn_25"></span>[31:22](cab04.htm#fr_25) ‏א‎ ‏ב‎ ‏ג‎ ‏ד‎
+<span id="fn_25"></span>[31:22](cab04.htm#fr_25.md) ‏א‎ ‏ב‎ ‏ג‎ ‏ד‎
 
-<span id="fn_26"></span>[32:23](cab04.htm#fr_26) <span id="page_33">p.
+<span id="fn_26"></span>[32:23](cab04.htm#fr_26.md) <span id="page_33">p.
 33</span> En Soph; ‏אין סוף‎ = ἄπειρος, i.e., "Endless," "Boundless," is
 the name of the Deity given in the Zohar, where it is said of God (III,
 283*b*) that he cannot be comprehended by the intellect, nor described
 in words, for there is nothing which can grasp and depict him to us, and
 as such he is, in a certain sense, not existent (‏אין‎).
 
-<span id="fn_27"></span>[33:24](cab04.htm#fr_27) See above.
+<span id="fn_27"></span>[33:24](cab04.htm#fr_27.md) See above.
 
-<span id="fn_28"></span>[36:25](cab04.htm#fr_28) See my article *s.v.*
+<span id="fn_28"></span>[36:25](cab04.htm#fr_28.md) See my article *s.v.*
 "Nachmanides" in McClintock and Strong's *Cyclop*.
 
-<span id="fn_29"></span>[38:26](cab04.htm#fr_29) The angel who stands
+<span id="fn_29"></span>[38:26](cab04.htm#fr_29.md) The angel who stands
 behind the throne of God.
 
-<span id="fn_30"></span>[38:27](cab04.htm#fr_30) This Synadelphon is no
+<span id="fn_30"></span>[38:27](cab04.htm#fr_30.md) This Synadelphon is no
 doubt the same as "Sandalphon," the theme of Longfellow's poem of that
 name, which commences thus:
 
@@ -831,17 +831,17 @@ In a note on page 668 (Boston and New York edition, 1893) it is stated
 that Longfellow marked certain passages in Stehelin's *The Traditions of
 the Jews*, which evidently furnished the material.
 
-<span id="fn_31"></span>[40:28](cab04.htm#fr_31) See my article *s.v.*
+<span id="fn_31"></span>[40:28](cab04.htm#fr_31.md) See my article *s.v.*
 "Abulafia" (*loc. cit.*, Vol. XI, p. 18); comp. also Günzburg, *Der
 Pseudo-Messias Abraham Abulafia, sein Leben and sein Wirken*, Cracow, .
 1904.
 
-<span id="fn_32"></span>[42:29](cab04.htm#fr_32) *Auswahl
+<span id="fn_32"></span>[42:29](cab04.htm#fr_32.md) *Auswahl
 kabbalistischer Mystic*, Part I, pp. 20-25 (German part).
 
-<span id="fn_33"></span>[43:30](cab04.htm#fr_33) See my article S. V. in
+<span id="fn_33"></span>[43:30](cab04.htm#fr_33.md) See my article S. V. in
 McClintock and Strong's *Cyclop*., Vol. IX, p. 757.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. The Zohar](cab05)
+[Next: Chapter III. The Zohar](cab05.md)

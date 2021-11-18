@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](refb30)  [Next](refb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](refb30)  [Next](refb32.md) 
 
 </div>
 
@@ -365,6 +365,6 @@ now over with him.\[25\]
 
 ------------------------------------------------------------------------
 
-[Next: Mother Holle](refb32)
+[Next: Mother Holle](refb32.md)
 
 </div>

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar117) [Next](gbar119)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar117) [Next](gbar119.md)
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ creator.
 
 ------------------------------------------------------------------------
 
-[Next](gbar119)
+[Next](gbar119.md)

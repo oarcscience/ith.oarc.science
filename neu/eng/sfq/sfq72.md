@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq71)  [Next](sfq73) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq71)  [Next](sfq73.md) 
 
 ------------------------------------------------------------------------
 
@@ -237,7 +237,7 @@ justice, and day
 <span id="img_35900"></span>
 
 [![](tn/35900.jpg)  
-Click to enlarge](img/35900.jpg)
+Click to enlarge](img/35900.jpg.md)
 
 and night he gave his anxious thoughts as to how he might reform the
 government.
@@ -247,4 +247,4 @@ sorrowing at his departure.
 
 ------------------------------------------------------------------------
 
-[Next: The Quest of the Blatant Beast](sfq73)
+[Next: The Quest of the Blatant Beast](sfq73.md)

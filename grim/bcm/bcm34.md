@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm33)  [Next](bcm35) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm33)  [Next](bcm35.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ the notice of your opponent.
 ------------------------------------------------------------------------
 
 [Next: Talismans of the Sage of the Pyramids: XIX, XX,
-conclusion](bcm35)
+conclusion](bcm35.md)

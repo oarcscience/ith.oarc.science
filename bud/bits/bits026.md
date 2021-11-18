@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits025) [Next](bits027)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits025) [Next](bits027.md)
 
 ------------------------------------------------------------------------
 
@@ -351,7 +351,7 @@ existence."
 
    Here by the phrase in a former-karma-existence is meant a former
 karma-existence;<span id="page_177_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_177_note_1) the sense is a
+class="small">1</span></sup>](#page_177_note_1.md) the sense is a
 karma-existence taking place in a previous birth.
 
    *Infatuation-ignorance* means the ignorance belonging to that
@@ -464,7 +464,7 @@ it *revolves*.
 
 ------------------------------------------------------------------------
 
-[Next: § 27. Karma](bits027)
+[Next: § 27. Karma](bits027.md)
 
 ------------------------------------------------------------------------
 
@@ -472,7 +472,7 @@ it *revolves*.
 
 <span id="footnotes_page_177">p. 177</span>
 
-<span id="page_177_note_1"></span>[1](#page_177_fr_1) That is, *not*
+<span id="page_177_note_1"></span>[1](#page_177_fr_1.md) That is, *not*
 former-karma existence.
 
  

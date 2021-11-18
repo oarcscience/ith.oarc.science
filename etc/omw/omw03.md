@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw02)  [Next](omw04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw02)  [Next](omw04.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ The hymns and prayers addressed to the gods of Babylon and Assyria are
 full of religious inspiration and unfeigned religious feeling. The
 Babylonians in their epic poetry sought to explain the mighty secrets of
 nature, connected with the life of gods and men. <span
-id="fr_5"></span>[6](#fn_5)
+id="fr_5"></span>[6](#fn_5.md)
 
 Their stories of the struggles of the gods against Chaos and the
 monsters produced by Chaos, of Gilgamish's adventures, of Ishtar's
@@ -33,7 +33,7 @@ terrifying.
 Marvels that showed a mighty will,  
 Huge power and hundred-handed skill,  
 That seek prostration and not praise  
-Too faint such lofty ears to fill! <span id="fr_6"></span>[7](#fn_6)
+Too faint such lofty ears to fill! <span id="fr_6"></span>[7](#fn_6.md)
 
 \[paragraph continues\] We owe the preservation of the Babylonian and
 Sumerian stories, in a large measure, to an Assyrian king of the
@@ -57,7 +57,7 @@ the Sumerians, *i.e.*, the non-Semitic people who occupied Lower
 Babylonia about B.C. 3500 and later. He and his scribes made bilingual
 lists of signs and words and objects of all classes and kinds, all of
 which are of priceless value to the modern student of the Sumerian and
-Assyrian languages. <span id="fr_7"></span>[8](#fn_7)
+Assyrian languages. <span id="fr_7"></span>[8](#fn_7.md)
 
 The Greeks borrowed one myth from the Babylonians--the myth of Adonis
 who is Tammuz. "Every year," says Frazer in "The Golden
@@ -76,14 +76,14 @@ vegetable life that dies and rises up again.
 
 ### Footnotes
 
-<span id="fn_5"></span>[xi:6](omw03.htm#fr_5) "A History of the Ancient
+<span id="fn_5"></span>[xi:6](omw03.htm#fr_5.md) "A History of the Ancient
 World, Vol. I.
 
-<span id="fn_6"></span>[xi:7](omw03.htm#fr_6) George Darley, *Nepenthe*.
+<span id="fn_6"></span>[xi:7](omw03.htm#fr_6.md) George Darley, *Nepenthe*.
 
-<span id="fn_7"></span>[xi:8](omw03.htm#fr_7) The Babylonian Story of
+<span id="fn_7"></span>[xi:8](omw03.htm#fr_7.md) The Babylonian Story of
 the Deluge and the Epic Gilgamish: 1920.
 
 ------------------------------------------------------------------------
 
-[Next: Persian](omw04)
+[Next: Persian](omw04.md)

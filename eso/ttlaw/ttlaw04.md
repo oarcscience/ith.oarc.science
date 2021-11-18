@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](ttlaw03) 
-[Next](ttlaw05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](ttlaw03.md) 
+[Next](ttlaw05.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766103021/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -282,7 +282,7 @@ support of this view I will cite yet another experience.
 
 It was about the year 1875, when I was a young Assistant Commissioner in
 the Punjab, that I was ordered to the small up-country station of
-Akalpur, <span id="fr_0"></span>[1](#fn_0) and took possession of the
+Akalpur, <span id="fr_0"></span>[1](#fn_0.md) and took possession of the
 
 <span id="page_30">p. 30</span>
 
@@ -606,9 +606,9 @@ spiritual world.
 
 ### Footnotes
 
-<span id="fn_0"></span>[29:1](ttlaw04.htm#fr_0) For various reasons I am
+<span id="fn_0"></span>[29:1](ttlaw04.htm#fr_0.md) For various reasons I am
 not giving the actual names of places and persons in this story.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III. Man's Place in the Creative Order](ttlaw05)
+[Next: Chapter III. Man's Place in the Creative Order](ttlaw05.md)

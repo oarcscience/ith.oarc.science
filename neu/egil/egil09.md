@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](egil08)  [Next](egil10) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](egil08)  [Next](egil10.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ was with the king, and in great honour.
 
 ------------------------------------------------------------------------
 
-[Next: CHAPTER IX. Battle in Hafr's Firth.](egil10)
+[Next: CHAPTER IX. Battle in Hafr's Firth.](egil10.md)

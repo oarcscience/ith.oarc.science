@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml02)  [Next](yml04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml02)  [Next](yml04.md) 
 
 ------------------------------------------------------------------------
 
@@ -278,4 +278,4 @@ the church and the household.
 
 ------------------------------------------------------------------------
 
-[Next: Yaqui Story Telling](yml04)
+[Next: Yaqui Story Telling](yml04.md)

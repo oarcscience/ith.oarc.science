@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Plutarch](../index)  [Index](index)  [Previous](pte08)  [Next](pte10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Plutarch](../index)  [Index](index)  [Previous](pte08)  [Next](pte10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/142863326X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Plutarch's Morals: Theosophical Essays*, tr. by Charles William King,
 \[1908\], at Intangible Textual Heritage
 
@@ -29,7 +29,7 @@ thing; but that which is accompanied with passion is most troublesome of
 all: for every passion is like a stroke productive of inflammation; and
 just as dislocations of the joints attended with laceration, so
 perversions of the soul attended with passion, <span
-id="fr_346"></span>[1](#fn_346) are the more difficult to cure. One man
+id="fr_346"></span>[1](#fn_346.md) are the more difficult to cure. One man
 believes *Atoms* and the *Vacuum* to be the final causes of the
 universe—a false supposition this—but one that does not produce a wound,
 nor a bruise, nor distracting pain. Another man thinks Wealth to be the
@@ -54,7 +54,7 @@ opinions as this,
 
 and cast aside injustice, the cause of wealth, and intemperance, the
 real source of all happiness; <span
-id="fr_347"></span>[1](#fn_347)—*these* sentiments, indeed, we ought
+id="fr_347"></span>[1](#fn_347.md)—*these* sentiments, indeed, we ought
 both to pity and be angry with!
 
 Consequently, as regards the subjects of our inquiry, Atheism being an
@@ -85,7 +85,7 @@ the reason: but *Fear*, being as deficient in
 courage as it is in reason, has its stupidity accompanied with
 indolence, perplexity, and helplessness: on which account its faculty of
 *fettering* at once and *disturbing* the soul has been called "terror"
-and "awe." <span id="fr_348"></span>[1](#fn_348) Now, of all fears the
+and "awe." <span id="fr_348"></span>[1](#fn_348.md) Now, of all fears the
 most incapacitating from action, and the most helpless, is that
 springing from Superstition. He that goes not on voyages, fears not the
 sea; nor he that goes not for soldier, war; nor highwaymen, he that
@@ -93,7 +93,7 @@ stays at home: nor the informer, he who has no money; nor envy, the man
 in private life; nor earthquakes, he who lives in Gaul; nor lightning,
 the dweller in Æthiopia. But he who is afraid of the gods, is in fear of
 everything—the sea, the air, the sky, darkness, light, a call, <span
-id="fr_349"></span>[2](#fn_349) silence, a dream. Slaves forget their
+id="fr_349"></span>[2](#fn_349.md) silence, a dream. Slaves forget their
 tyrants when they are asleep, slumber lightens the weight of their
 chains to those in fetters, even inflammations accompanying wounds, and
 fierce and agonizing ulcers that eat into the flesh quit for a while the
@@ -142,16 +142,16 @@ and dip thyself in the sea, and pass a day seated on the earth.
 </div>
 
 through your own superstition, such as smearing with mud, wallowing in
-the mire, Sabbath-keeping, <span id="fr_350"></span>[1](#fn_350)
+the mire, Sabbath-keeping, <span id="fr_350"></span>[1](#fn_350.md)
 unseemly prostrations on the face, long sittings before the idol,
 extraordinary gestures of adoration. <span
-id="fr_351"></span>[2](#fn_351) "To sing with a just mouth" was the
+id="fr_351"></span>[2](#fn_351.md) "To sing with a just mouth" was the
 advice to lyrists of those who professed to keep up the established
 rules of music—we, on our part, demand that men pray to the gods with
 mouths erect and as it should be, and not merely to examine whether the
 tongue or top of the entrails of the victim be clean and fitting, whilst
 they distort and pollute their own tongues with absurd titles and
-foreign <span id="fr_352"></span>[3](#fn_352) invocations, to do shame
+foreign <span id="fr_352"></span>[3](#fn_352.md) invocations, to do shame
 to, and sin against, the divine and national dignity of religion. But
 the comic poet has said somewhere with respect to those who overlay
 their beds with gold or with silver, that sleep
@@ -179,7 +179,7 @@ into what part of the earth canst thou creep and hide thyself, poor
 wretch! and be sure that thou hast escaped from God? Even slaves without
 hope of manumission are allowed by law to demand to be sold, and to
 change their master for a milder one; <span
-id="fr_353"></span>[1](#fn_353) but Superstition allows not of a change
+id="fr_353"></span>[1](#fn_353.md) but Superstition allows not of a change
 of *gods*, nor is it possible to find a god whom that man shall not fear
 who is afraid of those of his own country and own family—he that
 shudders at the Preservers and the Benevolent; he that trembles at and
@@ -241,7 +241,7 @@ neglect of duty." "Whomsoever Jove loveth not," says Pindar, "are
 disgusted at hearing the voice of the Muses," for they are exasperated
 and vexed thereby. In fact, they say that tigers, if a tambourine be
 sounded over them, become furious, grow mad, and finally tear themselves
-to pieces. But it is a less evil <span id="fr_354"></span>[1](#fn_354)
+to pieces. But it is a less evil <span id="fr_354"></span>[1](#fn_354.md)
 for them upon whom is come a want of taste for, and insensibility to,
 the charms of music, by reason of deafness and loss of hearing. Tiresias
 suffered a misfortune in not seeing his children or his acquaintances;
@@ -291,14 +291,14 @@ his trouble yet further calamities, grievous, great, and not to
 
 be averted; and heaping besides upon himself apprehensions, fears, and
 suspicions, making the mischief burn <span
-id="fr_355"></span>[1](#fn_355) with all sorts of weeping and groaning.
+id="fr_355"></span>[1](#fn_355.md) with all sorts of weeping and groaning.
 For it is not man, nor chance, nor occasion, nor himself, but God on
 whom he lays the blame of all, and from Him he says the heaven-sent
 stream of calamity comes rushing down upon himself, and that he, not
 because he is unfortunate, but as being hateful to God, is therefore
 tormented and punished by the Powers above, and suffers everything
 according to his deserts, on account of his own misconduct. <span
-id="fr_356"></span>[2](#fn_356) Now the Atheist, when sick, counts up to
+id="fr_356"></span>[2](#fn_356.md) Now the Atheist, when sick, counts up to
 himself, and calls to mind his errors, and excesses, and irregularities
 as to diet, or his over great fatigue, or unaccustomed changes of
 climate and of place. Again, if he have met with disappointments in
@@ -333,7 +333,7 @@ you possibly address him, or in what way can you bring him help? He sits
 out of doors, wearing sackcloth, or else girded with filthy rags.
 Oftentimes wallowing quite naked in the mire, he makes confession aloud
 of his sins of omission and commission, of having eaten or drank this or
-that, <span id="fr_357"></span>[1](#fn_357) or walked along a way that
+that, <span id="fr_357"></span>[1](#fn_357.md) or walked along a way that
 the genius had forbidden him. And if he come best off, and suffers from
 a mild form of superstition, he sits at home surrounded with burning
 incense, besmeared with unguents, "whilst the old women (says Bion) tie
@@ -415,7 +415,7 @@ city,"</span>
 
 for God is the hope of valour, not the cover for cowardice. But the
 Jews, it being the Sabbath, seated in their phylacteries, <span
-id="fr_358"></span>[1](#fn_358) remained still whilst the enemy was
+id="fr_358"></span>[1](#fn_358.md) remained still whilst the enemy was
 laying scaling ladders and occupying the walls, being tied up together,
 as it were, in one and the same net by Superstition. Such then is
 Superstition in the circumstances and occasions called unlucky and
@@ -478,8 +478,8 @@ rent in pieces the suckling, whether thou hast been midwife to the
 monster, whether thou art come upon us all stained with gore, whether
 thou hast been dragged hither from the cross-road for the purpose of
 fortune-telling, clasping thine arms around the murderers" <span
-id="fr_359"></span>[1](#fn_359) Not one <span
-id="fr_360"></span>[2](#fn_360) whit more decent notions than these will
+id="fr_359"></span>[1](#fn_359.md) Not one <span
+id="fr_360"></span>[2](#fn_360.md) whit more decent notions than these will
 they conceive respecting Apollo, and Juno, and Mars, and Venus—for all
 these deities do they tremble at and awfully fear. And yet, what abuse
 like this did Niobe utter about Latona, like to what superstition has
@@ -591,7 +591,7 @@ things,
 
 but with their eyes open, and knowingly did they sacrifice their own
 children. Childless persons used to buy infants of the poor, and
-slaughter <span id="fr_361"></span>[1](#fn_361) them like so many lambs
+slaughter <span id="fr_361"></span>[1](#fn_361.md) them like so many lambs
 or chickens; the mother stood by, without a tear, without a groan, for
 should she weep, should she utter a groan, she was deprived of her
 price, and the child was sacrificed all the same: and the whole place
@@ -622,60 +622,60 @@ fall headlong into Atheism, both rugged and obstinate, and leap over
 that which lies between the two, namely, true Religion.
 
 <span id="img_27500"></span> ![\[Erinnys, the Avenging
-Goddess\]](img/27500.jpg)  
+Goddess\]](img/27500.jpg.md)  
 \[Erinnys, the Avenging Goddess\]
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_346"></span>[258:1](pte09.htm#fr_346) "Excited feelings" in
+<span id="fn_346"></span>[258:1](pte09.htm#fr_346.md) "Excited feelings" in
 modern phrase.
 
-<span id="fn_347"></span>[259:1](pte09.htm#fr_347) These words are
+<span id="fn_347"></span>[259:1](pte09.htm#fr_347.md) These words are
 clearly the continuation of the same quotation, but abbreviated into
 prose. Brutus quoted them when reduced to despair.
 
-<span id="fn_348"></span>[260:1](pte09.htm#fr_348) δεῖμα, τάρβος, as if
+<span id="fn_348"></span>[260:1](pte09.htm#fr_348.md) δεῖμα, τάρβος, as if
 derived from δεῖν, and ταράττειν.
 
-<span id="fn_349"></span>[260:2](pte09.htm#fr_349) The omen derived from
+<span id="fn_349"></span>[260:2](pte09.htm#fr_349.md) The omen derived from
 words casually heard upon commencing any business—a thing to which great
 importance was then attached.
 
-<span id="fn_350"></span>[261:1](pte09.htm#fr_350) A remarkable allusion
+<span id="fn_350"></span>[261:1](pte09.htm#fr_350.md) A remarkable allusion
 to the influence of Judaism amongst the Greeks of the second century.
 
-<span id="fn_351"></span>[261:2](pte09.htm#fr_351) Such as praying with
+<span id="fn_351"></span>[261:2](pte09.htm#fr_351.md) Such as praying with
 the head bent down and held between the two knees; regularly practised
 by the Buddhists in great acts of devotion, and copied by their
 disciples in Syria.
 
-<span id="fn_352"></span>[261:3](pte09.htm#fr_352) The long strings of
+<span id="fn_352"></span>[261:3](pte09.htm#fr_352.md) The long strings of
 Hebrew titles found on the talismans of the age, and even on public
 monuments, like the inscription at Miletus, which invokes the protection
 of ΙΑΩ with his permutation of the seven vowels.
 
-<span id="fn_353"></span>[262:1](pte09.htm#fr_353) A curious but
+<span id="fn_353"></span>[262:1](pte09.htm#fr_353.md) A curious but
 effectual provision for securing their humane treatment.
 
-<span id="fn_354"></span>[264:1](pte09.htm#fr_354) The not hearing the
+<span id="fn_354"></span>[264:1](pte09.htm#fr_354.md) The not hearing the
 voice of the Muses.
 
-<span id="fn_355"></span>[266:1](pte09.htm#fr_355) Fanning the flame of
+<span id="fn_355"></span>[266:1](pte09.htm#fr_355.md) Fanning the flame of
 the evil.
 
-<span id="fn_356"></span>[266:2](pte09.htm#fr_356) δἰ αὐτὸν τὸν νῦν,
+<span id="fn_356"></span>[266:2](pte09.htm#fr_356.md) δἰ αὐτὸν τὸν νῦν,
 which looks like a corruption, perhaps τῶν νῦν "of his present
 calamities:" δἰ αὐτὸν," "through his own fault."
 
-<span id="fn_357"></span>[267:1](pte09.htm#fr_357) Many kinds of food
+<span id="fn_357"></span>[267:1](pte09.htm#fr_357.md) Many kinds of food
 were forbidden in different religions, as pork to the Egyptians and
 their colonies, fish to the Syrians, all roots to the devotees of
 Cybele, &c., the mystic motives for which Julian has explained at length
 in his "Hymn to the Mother of the Gods."
 
-<span id="fn_358"></span>[269:1](pte09.htm#fr_358) ἐν ἀγνάμπτοις, which
+<span id="fn_358"></span>[269:1](pte09.htm#fr_358.md) ἐν ἀγνάμπτοις, which
 Reiske renders "vestibus non pexis," *i.e.* "sordidis," as if the
 reading were ἀγνάπτοις: an absurd explanation every way, for the Jews
 always wear their best on the Sabbath. That profound Hebraist, Mr.
@@ -692,14 +692,14 @@ Sundays alone were fine; the farmers allowed the cut wheat to rot on the
 ground rather than labour to house it. Common sense has not advanced in
 nearly two thousand years.
 
-<span id="fn_359"></span>[271:1](pte09.htm#fr_359) Evidently part of a
+<span id="fn_359"></span>[271:1](pte09.htm#fr_359.md) Evidently part of a
 chorus, addressed to Artemis in the character of Hecate, Queen of Hell;
 hopelessly corrupt, but a few words have escaped here and there, enough
 to enable us to recognize the usual attributes of the goddess.
 
-<span id="fn_360"></span>[271:2](pte09.htm#fr_360) Some words lost here.
+<span id="fn_360"></span>[271:2](pte09.htm#fr_360.md) Some words lost here.
 
-<span id="fn_361"></span>[274:1](pte09.htm#fr_361) The word here is used
+<span id="fn_361"></span>[274:1](pte09.htm#fr_361.md) The word here is used
 in its strict sense of "cutting the throats:" the children were not
 burnt *alive*, but their quivering bodies were placed on the extended
 palms of the great Moloch, whence they tumbled into the fiery pit below,
@@ -707,4 +707,4 @@ as Davies has shown in his "Carthage," chapter "Moloch and his Victims."
 
 ------------------------------------------------------------------------
 
-[Next: Appendix](pte10)
+[Next: Appendix](pte10.md)

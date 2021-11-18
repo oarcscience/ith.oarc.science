@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
-[Index](index)  [Previous](lww24)  [Next](lww26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
+[Index](index)  [Previous](lww24)  [Next](lww26.md) 
 
 ------------------------------------------------------------------------
 
@@ -214,4 +214,4 @@ sound, sank down on the floor.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXVI--Face to Face](lww26)
+[Next: Chapter XXVI--Face to Face](lww26.md)

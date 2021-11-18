@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Wicca &
-Neo-Paganism](../index)  [Index](index)  [Previous](idr19) 
-[Next](idr21) 
+[Intangible Textual Heritage](../../index.md)  [Wicca &
+Neo-Paganism](../index)  [Index](index)  [Previous](idr19.md) 
+[Next](idr21.md) 
 
 ------------------------------------------------------------------------
 
@@ -388,4 +388,4 @@ but symbolized.
 
 ------------------------------------------------------------------------
 
-[Next: Serpent Faith](idr21)
+[Next: Serpent Faith](idr21.md)

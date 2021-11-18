@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph60)  [Next](sph62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph60)  [Next](sph62.md) 
 
 ------------------------------------------------------------------------
 
 # <span id="BM60">60</span>
 
-Ὄ τὸν Ἄδωνιν. [\[transcription\]](xlatall.htm#82)
+Ὄ τὸν Ἄδωνιν. [\[transcription\]](xlatall.htm#82.md)
 
 O for Adonis.
 
@@ -15,4 +15,4 @@ of an ode.
 
 ------------------------------------------------------------------------
 
-[Next: 61: Coming from heaven...](sph62)
+[Next: 61: Coming from heaven...](sph62.md)

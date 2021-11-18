@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli03)  [Next](mfli05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli03)  [Next](mfli05.md) 
 
 ------------------------------------------------------------------------
 
@@ -383,4 +383,4 @@ they lived happily till the two died of old age.
 
 ------------------------------------------------------------------------
 
-[Next: The King of Erin and the Queen of the Lonesome Island](mfli05)
+[Next: The King of Erin and the Queen of the Lonesome Island](mfli05.md)

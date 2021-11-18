@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](psc13)  [Next](psc15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](psc13)  [Next](psc15.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -445,7 +445,7 @@ referring to
 
 Kiddush alone, but I merely took it upon myself to arrange the order of
 the benedictions in the Kiddush and Habdalah, and I did so because I was
-convinced that my order was correct; <span id="fr_82"></span>[1](#fn_82)
+convinced that my order was correct; <span id="fr_82"></span>[1](#fn_82.md)
 for thus it is also taught in the colleges, and the reason of all this
 is, that there is a great difference between the entrance of a
 sanctified day and its close. At the entrance of such a day, the sooner
@@ -759,7 +759,7 @@ Passover the unleavened bread is snatched out of the
 <span id="page_227">p. 227</span>
 
 children's hand in order to keep them awake and have them ask for the
-reason. <span id="fr_83"></span>[1](#fn_83)
+reason. <span id="fr_83"></span>[1](#fn_83.md)
 
 A Boraitha states that it was told of R. Aqiba, that he never proposed
 adjourning the session at the college excepting on the eve of Passover
@@ -786,7 +786,7 @@ is the principal means of rejoicing, as it is written \[Psalms civ.
 
 "*Nor shall a person have less than four cups of wine*." How can the
 rabbis order a thing which might involve danger? <span
-id="fr_84"></span>[2](#fn_84) Have we not learned in a Boraitha, that a
+id="fr_84"></span>[2](#fn_84.md) Have we not learned in a Boraitha, that a
 man should not eat two dishes, nor drink two cups, nor do anything by
 twos? Said R. Na'hman: "It is written \[Exod. xii. 42\]: 'A night to be
 observed was this unto the Lord,' which signifies that on that night one
@@ -795,7 +795,7 @@ meals) is only counted in for good purposes but never for evil, because
 its very name implies that it is for good, and thus only three cups are
 virtually drunk." Rabhina, however, said: "At all events, the four cups
 cannot be conjoined, for each one represents a different duty." <span
-id="fr_85"></span>[3](#fn_85)
+id="fr_85"></span>[3](#fn_85.md)
 
 <span id="page_228">p. 228</span>
 
@@ -858,7 +858,7 @@ concern ourselves with the table? It is the man who is affected, and if
 he drank three cups, it is well. Therefore only if a man drank two cups
 at the table, pronounced the benediction after the meal, and
 subsequently drank another, the three cups are not counted
-together. <span id="fr_86"></span>[1](#fn_86)
+together. <span id="fr_86"></span>[1](#fn_86.md)
 
 "*Even if they must be given him from the funds devoted to charitable
 support*." Is this not self-evident? (Is not the poor man equal to all
@@ -940,7 +940,7 @@ sit on the bed of a Syrian woman. \[What is meant thereby? Some say,
 that one should not lie down to sleep without reciting the Shema prayer;
 and others say, that one should not marry a proselyte; while still
 others say, that the literal meaning is to be accepted on account of
-what happened to R. Papa. <span id="fr_87"></span>[1](#fn_87)\] Do not
+what happened to R. Papa. <span id="fr_87"></span>[1](#fn_87.md)\] Do not
 try to avoid taxation (for aside from the fact that it is a duty to pay
 taxes, should it be known that ye desire to avoid them, your property is
 in danger of being confiscated). Lastly, do not stand in front of an ox
@@ -1163,7 +1163,7 @@ neighbor to himself, even in one instance only, he should respect him?
 From the passage \[Daniel vi. 4\]: "Because a superior spirit was in
 him: and the king sought to appoint him over the whole kingdom." When a
 woman continues in the blood of her purification, <span
-id="fr_88"></span>[1](#fn_88) although she is not defiled, she should
+id="fr_88"></span>[1](#fn_88.md) although she is not defiled, she should
 not halve any connection with her husband.
 
 We have learned in a Boraitha: Joseph the man of Hutzal is Joseph the
@@ -1348,7 +1348,7 @@ bread."
 R. Shimi bar Ashi said: "Unleavened bread, bitter herbs, and Charoseth
 must be dealt out to each man separately, but immediately before the
 Haggada is read, the tables on which the food is served <span
-id="fr_89"></span>[1](#fn_89) should not be removed at once, but only
+id="fr_89"></span>[1](#fn_89.md) should not be removed at once, but only
 from the man who is about to recite." R. Huna, however, said: "The
 things mentioned were only served to the man who was to recite the
 Haggada, and he would then deal them out to the others," and the Halakha
@@ -1370,7 +1370,7 @@ can immediately proceed with the answer: 'Because we were slaves,'" etc.
 Samuel said: It is written \[Deut. xvi. 3\]: "Bread of affliction"
 (Le'hem Oni), and as "Oni" can also stand for "proclaiming," the bread
 may be called "bread of proclamation," *i.e.*, "[bread
-over](errata.htm#10) which proclamations should be made," and thus we
+over](errata.htm#10.md) which proclamations should be made," and thus we
 have also learned in a Boraitha (with the following supplementary
 statement): Or "Oni" may still be called "poor," and for the reason that
 the benediction pertaining to the eating of the unleavened bread should
@@ -1382,7 +1382,7 @@ that might be contained in the bitter herbs, said R. Ami.
 
 "*R. Elazar ben Zadok, however, said: It is obligatory*," etc. What
 religious purpose can it serve? Said R. Levi: "It serves as a
-remembrance of the apple-trees." <span id="fr_90"></span>[1](#fn_90) R.
+remembrance of the apple-trees." <span id="fr_90"></span>[1](#fn_90.md) R.
 Johanan, however, said: "It serves as a remembrance of the loam which
 the Israelites were compelled to prepare when in bondage in Egypt." Said
 Abayi: Therefore the Charoseth should be made to have an acid taste in
@@ -1509,7 +1509,7 @@ a rabbinical institution (and therefore its observance is optional).
 Levi: "With ten different expressions of praise the entire Book of
 Psalms was composed, namely: With Nitzua'ch, Nigon, Maskil, Mizmor,
 Shir, Ashrai, Thehiloh, Thephilalh, Hodaah, and Hallelujah. <span
-id="fr_91"></span>[1](#fn_91) The most important of all the expressions
+id="fr_91"></span>[1](#fn_91.md) The most important of all the expressions
 is that of Hallelujah, because it contains within itself both praise and
 the Name."
 
@@ -1617,7 +1617,7 @@ gnash with his teeth and melt away; the longing of the wicked shall
 perish," the Hallelujah is also the commencement of a chapter; and after
 the verse \[ibid. cxxxv. 2\]: "Ye that stand in the house of the Lord,
 in the courts of the house of our God," the Hallelujah is also the
-beginning of a chapter. The Karaites <span id="fr_92"></span>[1](#fn_92)
+beginning of a chapter. The Karaites <span id="fr_92"></span>[1](#fn_92.md)
 add to these verses, ibid. cx. 7 and ibid. cxi. 10, after both of which
 the Hallelujah is the beginning of a chapter.
 
@@ -1676,7 +1676,7 @@ the Kiddush.
 Rabba bar Shela said: In the prayer for redemption, the sentence, "He
 causeth to sprout the foundation of help," should be said, and the
 benediction pronounced after the recital of the Haphtorah <span
-id="fr_93"></span>[1](#fn_93) should be concluded, after the blessing
+id="fr_93"></span>[1](#fn_93.md) should be concluded, after the blessing
 for the redemption, with "the shield of David." As it is written \[II
 Sam. vii. 9\]: "I have made thee a great name, like the name of the
 great," etc., and R. Joseph taught that it signifies the conclusion with
@@ -1813,7 +1813,7 @@ then I and my ass eat of the same crib?" but when he heard the Lord say
 relieved. Said R. Simeon ben Lakish: "It were better for us had we been
 left in our original condition, when we were doomed to eat the herbs of
 the field; then we would not have been obliged to work so hard for our
-bread." <span id="fr_94"></span>[1](#fn_94) Said Abayi: "We have not yet
+bread." <span id="fr_94"></span>[1](#fn_94.md) Said Abayi: "We have not yet
 been released from that doom, for there are quite a number of herbs
 which we can eat directly from the field."
 
@@ -1962,7 +1962,7 @@ is written \[ibid.\]: "Ethiopia will stretch forth her hands eagerly
 unto God." When Rome shall see this, they will say: "Surely if the gifts
 of the Ethiopians, who are nowise near to the Israelites, were accepted,
 gifts from us, who are their brethren, <span
-id="fr_95"></span>[1](#fn_95) will be accepted." And the Lord said to
+id="fr_95"></span>[1](#fn_95.md) will be accepted." And the Lord said to
 the angel Gabriel: "Rebuke the wild beasts" \[Psalms lxviii. 31\], and
 R. Hyya bar Abba in the name of R. Johanan explains this to mean:
 "Rebuke the wild beasts, whose quills, are used solely to write decrees
@@ -2160,23 +2160,23 @@ and so the Halakha prevails.
 
 ### Footnotes
 
-<span id="fn_82"></span>[220:1](psc14.htm#fr_82) This explanation is
+<span id="fn_82"></span>[220:1](psc14.htm#fr_82.md) This explanation is
 taken from the commentary of Rashbam the grandson of Rashi.
 
-<span id="fn_83"></span>[227:1](psc14.htm#fr_83) This is according to
+<span id="fn_83"></span>[227:1](psc14.htm#fr_83.md) This is according to
 the explanation of Rashbam in the third instance.
 
-<span id="fn_84"></span>[227:2](psc14.htm#fr_84) There was a tradition
+<span id="fn_84"></span>[227:2](psc14.htm#fr_84.md) There was a tradition
 extant at that time that anything done an even number of times involved
 danger to the perpetrator, but if done an odd number of times the danger
-was averted. (According to page [229](#page_229).)
+was averted. (According to page [229](#page_229)..md)
 
-<span id="fn_85"></span>[227:3](psc14.htm#fr_85) In the original edition
+<span id="fn_85"></span>[227:3](psc14.htm#fr_85.md) In the original edition
 of the Talmud an entire page follows here relative to the tradition
 quoted in the preceding note, which we have omitted on account of its
 irrelevancy to the text proper.
 
-<span id="fn_86"></span>[229:1](psc14.htm#fr_86) All that is stated here
+<span id="fn_86"></span>[229:1](psc14.htm#fr_86.md) All that is stated here
 about odd and even numbers, as well as the subject of evil spirits
 (which covers here two and one-half pages of the original), is omitted
 in Maimonides; and the author of the "History of Oral Law" maintains
@@ -2188,32 +2188,32 @@ tradition of the odd and even numbers at least existed at that time.
 (See, also, our Hebrew Commentary to Tract Shekalim, vol. iv., Page 14,
 of the Hebrew.)
 
-<span id="fn_87"></span>[231:1](psc14.htm#fr_87) There is a legend that
+<span id="fn_87"></span>[231:1](psc14.htm#fr_87.md) There is a legend that
 R. Papa had lent a Syrian woman money, and whenever he would call on her
 to collect the debt, she would invite him to sit on a bed. One day she
 strangled a child and threw it upon the bed where R. Papa sate. She then
 accused him of strangling the babe, and he was compelled to flee for his
 life.
 
-<span id="fn_88"></span>[236:1](psc14.htm#fr_88) *Vide* Leviticus xii,
+<span id="fn_88"></span>[236:1](psc14.htm#fr_88.md) *Vide* Leviticus xii,
 4.
 
-<span id="fn_89"></span>[240:1](psc14.htm#fr_89) The custom was to serve
+<span id="fn_89"></span>[240:1](psc14.htm#fr_89.md) The custom was to serve
 each man separately on a small table which was placed at the couch upon
 which the men would lean while partaking of the meal.
 
-<span id="fn_90"></span>[241:1](psc14.htm#fr_90) The apple-tree that is
+<span id="fn_90"></span>[241:1](psc14.htm#fr_90.md) The apple-tree that is
 mentioned in Solomon's Song (viii. 5), "Under the apple-tree have I
 waked thee," upon which is based the legend that when the edict was
 promulgated in Egypt to slay the male children of the Israelites, the
 mothers would give birth to their children under apple-trees and thus
 shield them from the Egyptians.
 
-<span id="fn_91"></span>[244:1](psc14.htm#fr_91) All these ten
+<span id="fn_91"></span>[244:1](psc14.htm#fr_91.md) All these ten
 expressions are to be found in the original Psalms, and while not all of
 exactly the same meaning imply more or less the same thing.
 
-<span id="fn_92"></span>[246:1](psc14.htm#fr_92) There was already in
+<span id="fn_92"></span>[246:1](psc14.htm#fr_92.md) There was already in
 the time of the Talmud a class of men who did not care for the
 figurative explanation of the Scripture, but who explained it almost
 literally. They were called Karaier or Baali Mikra, which means men who
@@ -2222,18 +2222,18 @@ Hebrew word Kara means verse. The Karaier of the time of the Gaonim have
 probably derived their name from them. (See our "History of the Talmud,"
 Chap. Karaites.)
 
-<span id="fn_93"></span>[248:1](psc14.htm#fr_93) By Haphtorah is meant
+<span id="fn_93"></span>[248:1](psc14.htm#fr_93.md) By Haphtorah is meant
 the several passages in the Prophets which are read after the reading of
 the section in the Pentateuch of the day has been ended.
 
-<span id="fn_94"></span>[251:1](psc14.htm#fr_94) This explanation of the
+<span id="fn_94"></span>[251:1](psc14.htm#fr_94.md) This explanation of the
 text is according to the commentary of Rabbi Samuel Aidlash (Marsha').
 
-<span id="fn_95"></span>[254:1](psc14.htm#fr_95) The Talmud states that
+<span id="fn_95"></span>[254:1](psc14.htm#fr_95.md) The Talmud states that
 the Romans were descendants of the Edomites, children of Edom or Esau,
 the brothers of Jacob, as it is written \[Gen. xxxvi. 1\]; "The
 generations of Esau, who is Edom."
 
 ------------------------------------------------------------------------
 
-[Next: Appendix A](psc15)
+[Next: Appendix A](psc15.md)

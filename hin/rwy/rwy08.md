@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Yoga](../yoga/index)  [Index](index)  [Previous](rwy07)  [Next](rwy09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Yoga](../yoga/index)  [Index](index)  [Previous](rwy07)  [Next](rwy09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/054808047X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Relax With Yoga*, by Arthur Liebers, \[1960\], at Intangible Textual
 Heritage
 
@@ -66,7 +66,7 @@ been found that sleeping in this manner generally inhibits dreams
 
 <span id="img_05700"></span> <span align="CENTER"> [![Dradhasana, or
 Firm Pose](tn/05700.jpg)  
-Click to enlarge](img/05700.jpg)  
+Click to enlarge](img/05700.jpg.md)  
 Dradhasana, or Firm Pose  
 </span>
 
@@ -96,7 +96,7 @@ bring about a tendency to sleep.
 
 <span id="img_05800"></span> <span align="CENTER"> [![Shavasana, or
 Corpse Pose](tn/05800.jpg)  
-Click to enlarge](img/05800.jpg)  
+Click to enlarge](img/05800.jpg.md)  
 Shavasana, or Corpse Pose  
 </span>
 
@@ -111,7 +111,7 @@ the weight of your body as you relax every voluntary muscle.
 
 <span id="img_05900"></span> <span align="CENTER"> [![Adhavasana, or
 Relaxed Pose](tn/05900.jpg)  
-Click to enlarge](img/05900.jpg)  
+Click to enlarge](img/05900.jpg.md)  
 Adhavasana, or Relaxed Pose  
 </span>
 
@@ -167,7 +167,7 @@ At first, concentrate on the posture. Having achieved the
 
 <span id="img_06100"></span> <span align="CENTER"> [![Bhujangasana, or
 Snake Pose](tn/06100.jpg)  
-Click to enlarge](img/06100.jpg)  
+Click to enlarge](img/06100.jpg.md)  
 Bhujangasana, or Snake Pose  
 </span>
 
@@ -225,13 +225,13 @@ nervous-energy channels.
 
 <span id="img_06300"></span> <span align="CENTER"> [![Halasana, or
 Plough Pose](tn/06300.jpg)  
-Click to enlarge](img/06300.jpg)  
+Click to enlarge](img/06300.jpg.md)  
 Halasana, or Plough Pose  
 </span>
 
 <span id="img_06301"></span> <span align="CENTER"> [![A variation of the
 Plough Pose, with arms under head.](tn/06301.jpg)  
-Click to enlarge](img/06301.jpg)  
+Click to enlarge](img/06301.jpg.md)  
 A variation of the Plough Pose, with arms under head.  
 </span>
 
@@ -252,7 +252,7 @@ neck,
 
 <span id="img_06400"></span> <span align="CENTER"> [![Ultrasana, or
 Camel Pose](tn/06400.jpg)  
-Click to enlarge](img/06400.jpg)  
+Click to enlarge](img/06400.jpg.md)  
 Ultrasana, or Camel Pose  
 </span>
 
@@ -314,4 +314,4 @@ themselves to the first two *asanas*.
 
 ------------------------------------------------------------------------
 
-[Next: 8. The Bandhas—Mystic Breathing Exercises](rwy09)
+[Next: 8. The Bandhas—Mystic Breathing Exercises](rwy09.md)

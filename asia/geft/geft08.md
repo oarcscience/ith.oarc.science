@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](geft07)  [Next](geft09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](geft07)  [Next](geft09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002FB5J1C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Georgian Folk Tales, by Marjory Wardrop* \[1894\], at Intangible
 Textual Heritage
 
@@ -127,7 +127,7 @@ had shot the arrow, so they sent the three-headed brother.
 The three-headed *devi* came home, and found neither his mother nor
 brother, and called out: 'For fear of me bird cannot fly in air, nor can
 ant creep on earth. Who art thou who darest to venture here? Art thou
-not afraid that I shall eat thee?' 'Thou [shalt](errata.htm#0) not eat
+not afraid that I shall eat thee?' 'Thou [shalt](errata.htm#0.md) not eat
 me,' said Ghvthisavari, casting an arrow. He cut him into a hundred
 pieces, gave him to the dogs, and made them throw him into the sea.
 
@@ -184,7 +184,7 @@ here alone.'
 The woman agreed to this plan, went in and lay down in her bed.
 Ghvthisavari came home, and seeing his mother sick, he said to her:
 'What is the matter? Tell me what will cure thee, and I will find it,
-even if it be bird's milk.' <span id="fr_5"></span>[1](#fn_5) His mother
+even if it be bird's milk.' <span id="fr_5"></span>[1](#fn_5.md) His mother
 said: 'If thou canst bring to me a piece of such and such a stag's horn,
 from a certain place, I shall be well; if not, I shall die.'
 Ghvthisavari slung his bow and arrows over his shoulders, took his dogs
@@ -477,9 +477,9 @@ they dwelt together, happy in fraternal affection and in love.
 
 ### Footnotes
 
-<span id="fn_5"></span>[30:1](geft08.htm#fr_5) The expression 'bird's
+<span id="fn_5"></span>[30:1](geft08.htm#fr_5.md) The expression 'bird's
 milk' is often used in Georgian to signify a great rarity.
 
 ------------------------------------------------------------------------
 
-[Next: VII. The Serpent and the Peasant](geft09)
+[Next: VII. The Serpent and the Peasant](geft09.md)

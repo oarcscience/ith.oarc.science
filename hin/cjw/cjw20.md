@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw19)  [Next](cjw21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw19)  [Next](cjw21.md) 
 
 ------------------------------------------------------------------------
 
@@ -140,4 +140,4 @@ Consciousness, perfect Bliss.
 
 ------------------------------------------------------------------------
 
-[Next: The Song of the Self](cjw21)
+[Next: The Song of the Self](cjw21.md)

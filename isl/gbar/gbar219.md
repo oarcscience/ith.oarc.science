@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar218) [Next](gbar220)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar218) [Next](gbar220.md)
 
 ------------------------------------------------------------------------
 
@@ -39,4 +39,4 @@ thy doctrine? For every one that loveth thee hath been as dead.'
 
 ------------------------------------------------------------------------
 
-[Next](gbar220)
+[Next](gbar220.md)

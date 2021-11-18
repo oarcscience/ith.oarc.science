@@ -1,6 +1,6 @@
-<span class="small">[Sacred-Texts Main Index](../../index)  [Northern
-European Index](../index)  [Graal Index](index)  [Previous](branch31) 
-[Next](branch33) </span>
+<span class="small">[Sacred-Texts Main Index](../../index.md)  [Northern
+European Index](../index)  [Graal Index](index)  [Previous](branch31.md) 
+[Next](branch33.md) </span>
 
 ------------------------------------------------------------------------
 
@@ -825,5 +825,5 @@ and her people that believed in the New Law.
 ------------------------------------------------------------------------
 
 <span class="small">[Next: The High History of the Holy Graal: Branch
-XXXIII](branch33)  
+XXXIII](branch33.md)  
 </span>

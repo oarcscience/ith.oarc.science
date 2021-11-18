@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](jat38)  [Next](jat40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](jat38)  [Next](jat40.md) 
 
 ------------------------------------------------------------------------
 
-### 37. COYOTE APES HIS HOSTS. <span id="fr_56"></span>[2](#fn_56)
+### 37. COYOTE APES HIS HOSTS. <span id="fr_56"></span>[2](#fn_56.md)
 
 Coyote while traveling, came to a rock standing close to the water's
 edge where Kingfisher had his home. Kingfisher in greeting him said,
@@ -62,7 +62,7 @@ meat, gave it to him. "I do this by magical power," he said, "eat it."
 Coyote, ate it.
 
 Coyote traveling this way, came where a bird <span
-id="fr_57"></span>[1](#fn_57) had its home. This bird had red feathers
+id="fr_57"></span>[1](#fn_57.md) had its home. This bird had red feathers
 which he spread out. Coyote being afraid, said, "Your house is on fire."
 "O, I am always this way," said the bird. "Come and see me," said
 Coyote, as he left.
@@ -73,23 +73,23 @@ it. "Your house is on fire," said the guest. "O, I am always that way"'
 <span id="page_233">p. 233</span>
 
 said Coyote. The fire had burned close around him but Coyote giving his
-tail a flap jumped over it. <span id="fr_58"></span>[1](#fn_58)
+tail a flap jumped over it. <span id="fr_58"></span>[1](#fn_58.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_56"></span>[231:2](jat39.htm#fr_56) Russell has an
+<span id="fn_56"></span>[231:2](jat39.htm#fr_56.md) Russell has an
 additional incident with Prairie Dog as host, (a), p. 265. Matthews has
 given a similar story in which Wolf was host, p. 87. Compare similar
 stories, Lowie, (a), p. 265; Dorsey and Kroeber, 113-120; Kroeber, (c),
 p. 264.
 
-<span id="fn_57"></span>[232:1](jat39.htm#fr_57) One of the woodpeckers.
+<span id="fn_57"></span>[232:1](jat39.htm#fr_57.md) One of the woodpeckers.
 
-<span id="fn_58"></span>[233:1](jat39.htm#fr_58) Among the Caddo, Coyote
+<span id="fn_58"></span>[233:1](jat39.htm#fr_58.md) Among the Caddo, Coyote
 puts fire on his head to imitate woodpecker, Dorsey, (d), p. 94.
 
 ------------------------------------------------------------------------
 
-[Next: 38. Coyote is Disobeyed by Turkey](jat40)
+[Next: 38. Coyote is Disobeyed by Turkey](jat40.md)

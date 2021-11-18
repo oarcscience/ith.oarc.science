@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index) 
-[Index](index)  [Previous](lus00)  [Next](lus02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Legends/Sagas](../index.md) 
+[Index](index)  [Previous](lus00)  [Next](lus02.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ cantos, given a few more explanatory notes, and added a table of
 contents.
 
 "The late ingenious translator of the Lusiad," says Lord
-Strangford, <span id="fr_0"></span>[\*](#fn_0) "has portrayed the
+Strangford, <span id="fr_0"></span>[\*](#fn_0.md) "has portrayed the
 character, and narrated the misfortunes of our poet, in a manner more
 honourable to his feelings as a man than to his accuracy in point of
 biographical detail. It is with diffidence that the present writer
@@ -39,7 +39,7 @@ Southey. "The family of Camoëns was illustrious," says Lord Strangford,
 "and originally Spanish. They were long settled at Cadmon, a castle in
 Galicia, from which they probably derived their patronymic appellation.
 However, there are some who maintain that their name alluded to a
-certain wonderful bird, <span id="fr_1"></span>[\*](#fn_1) whose
+certain wonderful bird, <span id="fr_1"></span>[\*](#fn_1.md) whose
 mischievous sagacity discovered and punished the smallest deviation from
 conjugal fidelity. A lady of the house of Cadmon, whose conduct had been
 rather indiscreet, demanded to be tried by this extraordinary judge. Her
@@ -85,7 +85,7 @@ parting was, perhaps, the sweetest of our poet’s existence.
 
 Camoëns removed to Santarem, but speedily returned to Lisbon, was a
 second time detected, and again driven into exile. <span
-id="fr_2"></span>[\*](#fn_2)
+id="fr_2"></span>[\*](#fn_2.md)
 
 The voice of Love inspired our poet "with the glorious resolution of
 conquering the obstacles which fortune had
@@ -145,7 +145,7 @@ and the ground around it has been ornamented by Mr. Fitzhugh, one of our
 countrymen, from respect to the memory of the poet. The years that he
 passed in Macao were probably the happiest of his life. Of his departure
 for Europe, and his unfortunate shipwreck at the mouth of the river
-Meekhaun, <span id="fr_3"></span>[\*](#fn_3) in Cochin China, Mickle has
+Meekhaun, <span id="fr_3"></span>[\*](#fn_3.md) in Cochin China, Mickle has
 also given a sufficient account.
 
 Lord Strangford has related, on the authority of Sousa, that while our
@@ -204,7 +204,7 @@ Pollio, Sir Martyn, etc., with the exception of his Cumnor Hall, are not
 held in high estimation.
 
 Describing the several poetic versions of the Lusiad, Mr. Musgrave
-says, <span id="fr_4"></span>[\*](#fn_4) of Fanshaw’s version, that "its
+says, <span id="fr_4"></span>[\*](#fn_4.md) of Fanshaw’s version, that "its
 language is antiquated, and in many instances it travesties the
 original, and seldom long sustains the tone of epic gravity suited to
 the poem. It is, however," says he, "more faithful than the translation
@@ -251,28 +251,28 @@ THE EDITOR.
 
 ### Footnotes
 
-<span id="fn_0"></span>[vii:\*](lus01.htm#fr_0) *Poems of Luis de
+<span id="fn_0"></span>[vii:\*](lus01.htm#fr_0.md) *Poems of Luis de
 Camoëns, with Remarks on his Life and Writings*. By Lord Viscount
 Strangford. Fifth edition. London, 1808.
 
-<span id="fn_1"></span>[viii:\*](lus01.htm#fr_1) The Camaõ. Formerly
+<span id="fn_1"></span>[viii:\*](lus01.htm#fr_1.md) The Camaõ. Formerly
 every well-regulated family in Spain retained one of these terrible
 attendants. The infidelity of its mistress was the only circumstance
 which could deprive it of life, This odious distrust of female honour is
 ever characteristic of a barbarous age.
 
-<span id="fn_2"></span>[ix:\*](lus01.htm#fr_2) The laws of Portugal were
+<span id="fn_2"></span>[ix:\*](lus01.htm#fr_2.md) The laws of Portugal were
 peculiarly severe against those who carried on a love-intrigue within
 the palace: "they punished the offence with death. Joam I. suffered one
 of his favourites to be burnt alive for it.--*Ed*.
 
-<span id="fn_3"></span>[xi:\*](lus01.htm#fr_3) The Maekhaun, or
+<span id="fn_3"></span>[xi:\*](lus01.htm#fr_3.md) The Maekhaun, or
 Camboja.--*Ed*.
 
-<span id="fn_4"></span>[xiii:\*](lus01.htm#fr_4) Thomas Moore Musgrave’s
+<span id="fn_4"></span>[xiii:\*](lus01.htm#fr_4.md) Thomas Moore Musgrave’s
 translation of The Lusiad is in blank verse, and is dedicated to the
 Earl of Chichester. 1 vol. 8vo. Murray: 1826.
 
 ------------------------------------------------------------------------
 
-[Next: The Life of Camoëns](lus02)
+[Next: The Life of Camoëns](lus02.md)

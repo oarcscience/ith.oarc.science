@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486444015/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486444015/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486444015/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](hc00)
+[Contents](#contents)    [Start Reading](hc00.md)
 
 ------------------------------------------------------------------------
 
@@ -36,30 +36,30 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486444015/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](hc00)  
-[Foreword](hc01)  
+<span id="contents"></span> [Title Page](hc00.md)  
+[Foreword](hc01.md)  
 [Chapter I. Of The Birthplace of Pierre Abelard and of His
-Parents](hc02)  
-[Chapter II. Of The Persecution He Had...](hc03)  
-[Chapter III. Of How He Came To Laon To Seek Anselm As Teacher](hc04)  
-[Chapter IV. Of The Persecution He Had From His Teacher Anselm](hc05)  
+Parents](hc02.md)  
+[Chapter II. Of The Persecution He Had...](hc03.md)  
+[Chapter III. Of How He Came To Laon To Seek Anselm As Teacher](hc04.md)  
+[Chapter IV. Of The Persecution He Had From His Teacher Anselm](hc05.md)  
 [Chapter V. Of How He Returned to Paris and Finished the Glosses Which
-He Had Begun at Laon](hc06)  
+He Had Begun at Laon](hc06.md)  
 [Chapter VI. Of How, Brought Low By His Love For Heloise, He Was Wounded
-In Body And Soul](hc07)  
+In Body And Soul](hc07.md)  
 [Chapter VII. Of The Arguments of Heloise Against Wedlock, of How None
-the Less He Made Her His Wife](hc08)  
+the Less He Made Her His Wife](hc08.md)  
 [Chapter VIII. Of The Suffering of His Body, Of How He Became A Monk in
-the Monastery of St. Denis and Heloise A Nun at Argenteuil](hc09)  
+the Monastery of St. Denis and Heloise A Nun at Argenteuil](hc09.md)  
 [Chapter IX. Of His Book on Theology and His Persecution at the Hands of
-His Fellow Students of the Council Against Him](hc10)  
+His Fellow Students of the Council Against Him](hc10.md)  
 [Chapter X. Of The Burning of His Book, of the Persecution He
-Had...](hc11)  
-[Chapter XI. Of His Teaching in the Wilderness](hc12)  
+Had...](hc11.md)  
+[Chapter XI. Of His Teaching in the Wilderness](hc12.md)  
 [Chapter XII. Of the Persecution Directed Against Him By Sundry New
-Enemies Or, As It Were, Apostles](hc13)  
+Enemies Or, As It Were, Apostles](hc13.md)  
 [Chapter XIII. Of the Abbey to Which He Was Called and of the
-Persecution He Had...](hc14)  
-[Chapter XIV. Of the Vile Report of His Iniquity](hc15)  
+Persecution He Had...](hc14.md)  
+[Chapter XIV. Of the Vile Report of His Iniquity](hc15.md)  
 [Chapter XV. Of the Perils of His Abbey and of the Reasons for the
-Writing of This His Letter](hc16)  
+Writing of This His Letter](hc16.md)  

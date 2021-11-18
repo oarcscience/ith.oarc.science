@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,29 +22,29 @@ Lydia Hammer</h2>
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](aec00)
+[Contents](#contents)    [Start Reading](aec00.md)
 
 ------------------------------------------------------------------------
 
-This is the companion book to [Life and Its Mysteries](../lam/index).
+This is the companion book to [Life and Its Mysteries](../lam/index.md).
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](aec00)  
-[Author's Dedication and Front Matter](aec01)  
-[Preface](aec02)  
-[Contents](aec03)  
-[I. What Is Life?](aec04)  
-[II. What Is Human Nature?](aec05)  
-[III. What Is Man?](aec06)  
-[IV. Unity](aec07)  
-[V. The Mystery of Suffering](aec08)  
-[VI. Love](aec09)  
-[VII. Religion](aec10)  
-[VIII. Where Is God?](aec11)  
-[IX. Accidents](aec12)  
-[X. Unfinished Business](aec13)  
-[XI. Supply and Demand](aec14)  
-[XII. Preparation](aec15)  
-[XIII. The Mystery of Death](aec16)  
-[Jacket and Flaps](aec17)  
+<span id="contents"></span> [Title Page](aec00.md)  
+[Author's Dedication and Front Matter](aec01.md)  
+[Preface](aec02.md)  
+[Contents](aec03.md)  
+[I. What Is Life?](aec04.md)  
+[II. What Is Human Nature?](aec05.md)  
+[III. What Is Man?](aec06.md)  
+[IV. Unity](aec07.md)  
+[V. The Mystery of Suffering](aec08.md)  
+[VI. Love](aec09.md)  
+[VII. Religion](aec10.md)  
+[VIII. Where Is God?](aec11.md)  
+[IX. Accidents](aec12.md)  
+[X. Unfinished Business](aec13.md)  
+[XI. Supply and Demand](aec14.md)  
+[XII. Preparation](aec15.md)  
+[XIII. The Mystery of Death](aec16.md)  
+[Jacket and Flaps](aec17.md)  

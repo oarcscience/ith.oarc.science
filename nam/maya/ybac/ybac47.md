@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac46)  [Next](ybac48) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac46)  [Next](ybac48.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ Lord, it is a pretended burden, a burden feared, a burden to
 the pusillanimous, and they fear it who never put the hand to the plow
 to finish; but those who give themselves to thy services find them
 sweet, they seek after the odor of their unctions, <span
-id="fr_45"></span>[\*](#fn_45) their sweetness refreshes them at every
+id="fr_45"></span>[\*](#fn_45.md) their sweetness refreshes them at every
 step; many more pleasures do they find daily that the others cannot
 know, as in the other kingdom of Saba.
 
@@ -134,9 +134,9 @@ cleanness and prudently, the cleanness of an angel rather than of a man.
 
 ### Footnotes
 
-<span id="fn_45"></span>[92:\*](ybac47.htm#fr_45) Such as the tortures
+<span id="fn_45"></span>[92:\*](ybac47.htm#fr_45.md) Such as the tortures
 at Maní and the burned towns in the east.
 
 ------------------------------------------------------------------------
 
-[Next: XLIV. The Soil and its Products](ybac48)
+[Next: XLIV. The Soil and its Products](ybac48.md)

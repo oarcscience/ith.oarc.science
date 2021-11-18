@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](fcod02)  [Next](fcod04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](fcod02)  [Next](fcod04.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ FUNERAL CUSTOMS
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I: The Provisions of Nature](fcod04)
+[Next: Chapter I: The Provisions of Nature](fcod04.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](pbd12)  [Next](pbd14) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](pbd12)  [Next](pbd14.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ its most extreme form among the Pomo.
 
 ------------------------------------------------------------------------
 
-[Next: Summary](pbd14)
+[Next: Summary](pbd14.md)

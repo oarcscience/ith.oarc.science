@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](sahw00)    [Page
-Index](pageidx)    [Text \[Zipped\]](sahw.txt.gz)
+[Contents](#contents)    [Start Reading](sahw00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](sahw.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ which illuminates many aspects of Shinshu belief and practice.
 
 Lloyd, with his unique perspective, found numerous similarities between
 Christianity and Buddhism at deep levels. Lloyd also wrote [The Creed of
-Half Japan](../chj/index), also available at this site.
+Half Japan](../chj/index.md), also available at this site.
 
 <span class="small">PRODUCTION NOTES: Short passages or words in
 Japanese script in the text are replaced by a single hash sign (\#). The
@@ -52,35 +52,35 @@ images.--John Bruno Hare, December 22, 2008.</span>
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](sahw00)  
-[Preface](sahw01)  
-[Contents](sahw02)  
-[Chapter I. Introductory](sahw03)  
+<span id="contents"></span> [Title Page](sahw00.md)  
+[Preface](sahw01.md)  
+[Contents](sahw02.md)  
+[Chapter I. Introductory](sahw03.md)  
 [Chapter II. The Shinshu in its relations to S’akyamuni and to Buddhism
-in general](sahw04)  
-[Chapter III. Shinran, the Founder of Shinshu.](sahw05)  
-[Chapter IV. The Shinshu after Shinran's death.](sahw06)  
-[Chapter V. The Shōshinge](sahw07)  
-[Chapter VI. Objects of Worship](sahw08)  
-[Chapter VII. Shintai and Zokutai.](sahw09)  
-[Chapter VIII. Amida Nyorai.](sahw10)  
-[Chapter IX. Hōzō Biku.](sahw11)  
-[Chapter X. Shinnyo Hōshō.](sahw12)  
-[Chapter XI. The Salvation of Sentient Beings.](sahw13)  
-[Chapter XII. Of Faith in General, (i).](sahw14)  
-[Chapter XIII. Of Faith in General, (ii).](sahw15)  
-[Chapter XIV. After Justification.](sahw16)  
-[Chapter XV. Hō-on.](sahw17)  
-[Chapter XVI. Sōzoku.](sahw18)  
-[Chapter XVII. Keijin.](sahw19)  
-[Chapter XVIII. The Shinshu on Faith-healing.](sahw20)  
-[Chapter XIX. The Care of the Dead. (A Shinshu Funeral.)](sahw21)  
-[Chapter XX. The Care of the Dead. (ii) Days of Mourning &c.](sahw22)  
-[Chapter XXI. Morning and Evening Prayers](sahw23)  
-[Chapter XXII. Fasts and Festivals.](sahw24)  
-[Chapter XXIII. Fasting.](sahw25)  
-[Chapter XXIV. Conclusion](sahw26)  
-[Appendix I. Kōmyōji.](sahw27)  
-[Appendix II. Manichaean influences in the Shinshu](sahw28)  
-[Appendix III. Caulaucau](sahw29)  
-[Index of Japanese Terms and Sentences](sahw30)  
+in general](sahw04.md)  
+[Chapter III. Shinran, the Founder of Shinshu.](sahw05.md)  
+[Chapter IV. The Shinshu after Shinran's death.](sahw06.md)  
+[Chapter V. The Shōshinge](sahw07.md)  
+[Chapter VI. Objects of Worship](sahw08.md)  
+[Chapter VII. Shintai and Zokutai.](sahw09.md)  
+[Chapter VIII. Amida Nyorai.](sahw10.md)  
+[Chapter IX. Hōzō Biku.](sahw11.md)  
+[Chapter X. Shinnyo Hōshō.](sahw12.md)  
+[Chapter XI. The Salvation of Sentient Beings.](sahw13.md)  
+[Chapter XII. Of Faith in General, (i).](sahw14.md)  
+[Chapter XIII. Of Faith in General, (ii).](sahw15.md)  
+[Chapter XIV. After Justification.](sahw16.md)  
+[Chapter XV. Hō-on.](sahw17.md)  
+[Chapter XVI. Sōzoku.](sahw18.md)  
+[Chapter XVII. Keijin.](sahw19.md)  
+[Chapter XVIII. The Shinshu on Faith-healing.](sahw20.md)  
+[Chapter XIX. The Care of the Dead. (A Shinshu Funeral.)](sahw21.md)  
+[Chapter XX. The Care of the Dead. (ii) Days of Mourning &c.](sahw22.md)  
+[Chapter XXI. Morning and Evening Prayers](sahw23.md)  
+[Chapter XXII. Fasts and Festivals.](sahw24.md)  
+[Chapter XXIII. Fasting.](sahw25.md)  
+[Chapter XXIV. Conclusion](sahw26.md)  
+[Appendix I. Kōmyōji.](sahw27.md)  
+[Appendix II. Manichaean influences in the Shinshu](sahw28.md)  
+[Appendix III. Caulaucau](sahw29.md)  
+[Index of Japanese Terms and Sentences](sahw30.md)  

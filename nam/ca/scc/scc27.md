@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc26)  [Next](scc28) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc26)  [Next](scc28.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ the water is still under the world.
 
 ------------------------------------------------------------------------
 
-[Next: 26.--Yaudanchi Yokuts. The Origin Of Fire.](scc28)
+[Next: 26.--Yaudanchi Yokuts. The Origin Of Fire.](scc28.md)

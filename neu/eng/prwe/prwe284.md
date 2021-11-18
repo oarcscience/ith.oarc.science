@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe283)  [Next](prwe285) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe283)  [Next](prwe285.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,4 +17,4 @@ Saturday's child works hard for his living."
 
 ------------------------------------------------------------------------
 
-[Next: On Washing Linen](prwe285)
+[Next: On Washing Linen](prwe285.md)

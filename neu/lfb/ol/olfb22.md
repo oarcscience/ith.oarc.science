@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](olfb21)  [Next](olfb23) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](olfb21)  [Next](olfb23.md) 
 
 </div>
 
@@ -283,6 +283,6 @@ really signifies.
 
 ------------------------------------------------------------------------
 
-[Next: The Fate of the Turtle](olfb23)
+[Next: The Fate of the Turtle](olfb23.md)
 
 </div>

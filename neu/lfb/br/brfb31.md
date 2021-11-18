@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb30)  [Next](brfb32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb30)  [Next](brfb32.md) 
 
 </div>
 
@@ -490,6 +490,6 @@ day.
 
 ------------------------------------------------------------------------
 
-[Next: Story of Wali Dad the Simple-Hearted](brfb32)
+[Next: Story of Wali Dad the Simple-Hearted](brfb32.md)
 
 </div>

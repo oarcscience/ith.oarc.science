@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp07)  [Next](dtp09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp07)  [Next](dtp09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -38,7 +38,7 @@ dynamic energy (which were Incal made externally manifest) could readily
 account for all things else. This conception held that only One
 Substance existed and but One Energy, the one being Incal externalized
 and the other His Life in action in His Body. <span
-id="fr_1"></span>[1](#fn_1) This One Substance assumed many forms under
+id="fr_1"></span>[1](#fn_1.md) This One Substance assumed many forms under
 the action of variant degrees of dynamic force. Because it was the basic
 principle of all natural and a psychic, but not of spiritual, phenomena,
 allow here a postulate with which not a few of my friends will find
@@ -79,7 +79,7 @@ notice, the variation will be different in appearance and in its
 chemical nature; thus to proper substantial entities definite if
 enormous vibrations per second may be imparted, and the resulting
 substance (for light is substantial) is, say, red light, <span
-id="fr_2"></span>[1](#fn_2) but if one-eighth greater it will be orange,
+id="fr_2"></span>[1](#fn_2.md) but if one-eighth greater it will be orange,
 and if more or less, then the resultant must inevitably be a reddish
 orange, or a yellowish, respectively. It thus appears that certain
 definite degrees exist as plainly as mileposts, and that these major
@@ -239,7 +239,7 @@ either, I can sing, "My country, 'tis of thee."
 
 ### Footnotes
 
-<span id="fn_1"></span>[61:1](dtp08.htm#fr_1) NOTE--As, in its outgoing
+<span id="fn_1"></span>[61:1](dtp08.htm#fr_1.md) NOTE--As, in its outgoing
 impulse the Created draws away from the Creator it looks back to its
 origin and notes its progression-marks, that is, its multiplied
 realizations of its increasing separation from its Source. The greater
@@ -250,7 +250,7 @@ source. Only when we look back at these things we have sensed these
 thought-forms of God, do we perceive matter, for when we look forward to
 reunion with Him, matter disappears, giving place to Spirit.
 
-<span id="fn_2"></span>[62:1](dtp08.htm#fr_2) NOTE--Redlight is stated
+<span id="fn_2"></span>[62:1](dtp08.htm#fr_2.md) NOTE--Redlight is stated
 to occur at 395,000,000,000,000 vibrations of that "ether" which by
 Phylos is termed the last form of matter below where matter ceases and
 mind begins. And the highest visible light vibration is placed at
@@ -266,4 +266,4 @@ by the Tchin as the "Vis Mortuus."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V: Life In Caiphul](dtp09)
+[Next: Chapter V: Life In Caiphul](dtp09.md)

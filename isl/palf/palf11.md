@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](palf10)  [Next](palf12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](palf10)  [Next](palf12.md) 
 
 ------------------------------------------------------------------------
 
@@ -74,4 +74,4 @@ and the many, being and becoming, are essentially dependent.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](palf12)
+[Next: Bibliography](palf12.md)

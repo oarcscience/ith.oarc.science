@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gothic](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gothic](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -26,8 +26,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B3YD5C/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](vkk00)    [Page
-Index](pageidx)    [Text \[Zipped\]](vkk.txt.gz)
+[Contents](#contents)    [Start Reading](vkk00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](vkk.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ Catholic clergy. There is a 25 year gap in his biography during which it
 is speculated he dabbled in the dark arts. Summers wrote numerous
 serious books about the witch hunts, vampires, werewolves, and other
 occult subjects. He violently disagreed with [Margaret
-Murray](../../pag/murray), and advocated the death penalty for witches!
+Murray](../../pag/murray.md), and advocated the death penalty for witches!
 
 In this work Summers discusses the vampire phenomena from a relentless
 Catholic perspective; he either belives in the literal reality of
@@ -72,13 +72,13 @@ priesthood went with him, or not, I do not know."
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](vkk00)  
-[Contents](vkk01)  
-[Introduction](vkk02)  
-[Chapter I. The Origins of the Vampire](vkk03)  
-[Chapter II. The Generation of the Vampire](vkk04)  
-[Chapter III. The Traits and Practice of Vampirism](vkk05)  
+<span id="contents"></span> [Title Page](vkk00.md)  
+[Contents](vkk01.md)  
+[Introduction](vkk02.md)  
+[Chapter I. The Origins of the Vampire](vkk03.md)  
+[Chapter II. The Generation of the Vampire](vkk04.md)  
+[Chapter III. The Traits and Practice of Vampirism](vkk05.md)  
 [Chapter IV. The Vampire in Assyria, the East, and Some Ancient
-Countries](vkk06)  
-[Chapter V. The Vampire in Literature](vkk07)  
-[Bibliography](vkk08)  
+Countries](vkk06.md)  
+[Chapter V. The Vampire in Literature](vkk07.md)  
+[Bibliography](vkk08.md)  

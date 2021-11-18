@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow01)  [Next](fow03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow01)  [Next](fow03.md) 
 
 ------------------------------------------------------------------------
 
@@ -91,4 +91,4 @@ My Lady's Walk
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. Woman's Characteristics](fow03)
+[Next: Chapter I. Woman's Characteristics](fow03.md)

@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index) 
-[Index](index)  [Previous](pbs08)  [Next](pbs10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Prophecy](../../../pro/index.md) 
+[Index](index)  [Previous](pbs08)  [Next](pbs10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766136337/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,14 +25,14 @@ Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![B](img/06801.jpg) |
+| ![B](img/06801.jpg.md) |
 
 EFORE proceeding to relate the Seer's remarkable prediction, and the
 extraordinary minuteness with which it has been fulfilled, we shall give
 the particulars of a curious dream by Lord Seaforth, which was a
 peculiar forecast of the loss of his faculties of speech and hearing
 during the latter part of his eventful life. It has been supplied by a
-member of the family, <span id="fr_7"></span>[\*](#fn_7) who shows an
+member of the family, <span id="fr_7"></span>[\*](#fn_7.md) who shows an
 unmistakable interest in everything calculated to throw light on the
 "prophecies," and who evidently believes them not to be merely an old
 wife's tale. We give it *verbatim et literatim*:--"The last Lord
@@ -97,11 +97,11 @@ the chapter.
 
 ### Footnotes
 
-<span id="fn_7"></span>[68:\*](pbs09.htm#fr_7) The late Colonel John
+<span id="fn_7"></span>[68:\*](pbs09.htm#fr_7.md) The late Colonel John
 Constantine Stanley, son of Lord Stanley of Alderley, who married Susan
 Mary, eldest daughter of the late Keith William Stewart Mackenzie of
 Seaforth.
 
 ------------------------------------------------------------------------
 
-[Next: Seaforth's Doom](pbs10)
+[Next: Seaforth's Doom](pbs10.md)

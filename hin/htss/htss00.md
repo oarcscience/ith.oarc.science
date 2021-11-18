@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Next](htss01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Next](htss01.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Hymns of the Tamil Saivite Saints*, by F. Kingsbury and G.P. Phillips,
 \[1921\], at Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ because it was published prior to 1923.
 
 <span id="img_front"></span> <span align="CENTER"> [![ŚIVA
 NAṬARĀJA](tn/front.jpg)  
-Click to enlarge](img/front.jpg)  
+Click to enlarge](img/front.jpg.md)  
 ŚIVA NAṬARĀJA  
 </span>
 
@@ -36,6 +36,6 @@ ŚIVA NAṬARĀJA
 
 ------------------------------------------------------------------------
 
-[Next: Contents](htss01)
+[Next: Contents](htss01.md)
 
 </div>

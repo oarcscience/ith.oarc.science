@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](cjw07)  [Next](cjw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](cjw07)  [Next](cjw09.md) 
 
 ------------------------------------------------------------------------
 
@@ -150,4 +150,4 @@ first form of them is selfishness.
 
 ------------------------------------------------------------------------
 
-[Next: The Power of Mind-Images](cjw09)
+[Next: The Power of Mind-Images](cjw09.md)

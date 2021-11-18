@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](seil31)  [Next](seil33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](seil31)  [Next](seil33.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002B561B4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Spiritual Exercises of St. Ignatius of Loyola*, \[1914\], at
 Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ here how Christ our Lord went down with His eleven Disciples from Mount
 Sion, where He made the Supper, to the Valley of Josaphat. Leaving the
 eight in a part of the Valley and the other three in a part of the
 Garden, and putting Himself in prayer, He sweats sweat as drops of
-blood, <span id="fr_19"></span>[20](seil83.htm#fn_19) and after He
+blood, <span id="fr_19"></span>[20](seil83.htm#fn_19.md) and after He
 prayed three times to the Father and wakened His three Disciples, and
 after the enemies at His voice fell down, Judas giving Him the kiss of
 peace, and St. Peter cutting off the ear of Malchus, and Christ putting
@@ -138,4 +138,4 @@ help himself.
 
 ------------------------------------------------------------------------
 
-[Next: Eating](seil33)
+[Next: Eating](seil33.md)

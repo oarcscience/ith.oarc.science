@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Index](index)  [Previous](rufo07)  [Next](rufo09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Index](index)  [Previous](rufo07)  [Next](rufo09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1605970301/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Report on Unidentified Flying Objects*, by Edward J. Ruppelt,
 \[1956\], at Intangible Textual Heritage
 
@@ -698,4 +698,4 @@ Ninety-four per cent had different ideas.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven. The Pentagon Rumbles](rufo09)
+[Next: Chapter Seven. The Pentagon Rumbles](rufo09.md)

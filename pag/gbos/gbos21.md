@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos20)  [Next](gbos22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos20)  [Next](gbos22.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,4 +27,4 @@ excellent to get people to know each other at big gatherings.
 
 ------------------------------------------------------------------------
 
-[Next: To Leave the Body](gbos22)
+[Next: To Leave the Body](gbos22.md)

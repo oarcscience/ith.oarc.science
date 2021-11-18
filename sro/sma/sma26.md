@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma25)  [Next](sma27) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma25)  [Next](sma27.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -19,7 +19,7 @@ Intangible Textual Heritage
 
 ###### THE
 
-## SECRET TRIBUNALS OF WESTPHALIA <span id="fr_109"></span>[\*](#fn_109),
+## SECRET TRIBUNALS OF WESTPHALIA <span id="fr_109"></span>[\*](#fn_109.md),
 
 ### CHAPTER I.
 
@@ -43,7 +43,7 @@ Westphalia: a dimly lighted cavern beneath the walls of some castle, or
 peradventure Swiss *hostelrie*, wherein sit black-robed judges in solemn
 silence, will be present to his imagination, and he is prepared with
 breathless anxiety to peruse the details of deeds without a name <span
-id="fr_110"></span>[\*](#fn_110).
+id="fr_110"></span>[\*](#fn_110.md).
 
 We fear that we cannot promise the full gratification of these
 high-wrought expectations. Extraordinary as the Secret Tribunals really
@@ -120,7 +120,7 @@ officers.
 In the reign of Louis the German, the excellent institutions of
 Charlemagne had begun to fall into desuetude; anarchy and violence had
 greatly increased. The incursions of the Northmen had become most,
-formidable, and the Vends <span id="fr_111"></span>[\*](#fn_111) also
+formidable, and the Vends <span id="fr_111"></span>[\*](#fn_111.md) also
 gave great disturbance to Germany. The Saxon land being the part most
 immediately exposed to invasion, the emperor resolved to revive the
 ancient dignity of dukes, and to place the district under one head, who
@@ -234,7 +234,7 @@ Archbishop of Cologne was able completely to establish his power over
 the portion assigned him, and lawless violence everywhere prevailed.
 "There was no king in Israel, and every one did that which was right in
 his own eyes," is the language of the Chronicler <span
-id="fr_112"></span>[\*](#fn_112).
+id="fr_112"></span>[\*](#fn_112.md).
 
 We here again meet an instance of the compensatory principle which
 prevails in the arrangements of Providence. It was the period of
@@ -309,7 +309,7 @@ expedients for preserving the public peace, out of which gradually grew
 the Secret Tribunals? or that some powerful prince of the country,
 acting from purely selfish motives, devised the plan of the society, and
 appointed his judges to make the first essay of it <span
-id="fr_113"></span>[\*](#fn_113)?
+id="fr_113"></span>[\*](#fn_113.md)?
 
 Still it must be confessed that the origin of the Fehm-gerichte is
 involved in the same degree of obscurity which hangs over that of the
@@ -371,7 +371,7 @@ ages. To this we may add that this jurisdiction extended over the whole
 of that country, and was originally confined to it, all the courts in
 other parts of Germany, which bore a resemblance to the Westphalian
 Fehm-gerichte, being of a different character and nature <span
-id="fr_114"></span>[\*](#fn_114).
+id="fr_114"></span>[\*](#fn_114.md).
 
 It remains, before proceeding to a description et these tribunals, to
 give some account of the origin of their name. And here again we find
@@ -380,7 +380,7 @@ inquiring into the origin of the society itself.
 
 Almost every word in the German and cognate languages, which bears the
 slightest resemblance to the word Fehm <span
-id="fr_115"></span>[†](#fn_115), has been given by some writer or other
+id="fr_115"></span>[†](#fn_115.md), has been given by some writer or other
 as
 
 <span id="page_344">p. 344</span>
@@ -394,7 +394,7 @@ supposing these tribunals to have been instituted the Germans were
 familiar with the language of the civil and canonical laws; the
 Fehm-gerichte departed from the original maxim of German law, which
 was--*no accuser*, *no judge*, and, in imitation of those foreign
-laws <span id="fr_116"></span>[\*](#fn_116), proceeded on *common fame*,
+laws <span id="fr_116"></span>[\*](#fn_116.md), proceeded on *common fame*,
 and without any formal accusation against persons suspected of crime or
 of evil courses. Moreover, various tribunals, not in Westphalia, which
 proceeded in the same manner, on common report, were also called
@@ -418,7 +418,7 @@ criminal courts.
 
 The Fehm-gerichte was not the only name which these tribunals bore; they
 were also called *Fehm-ding*, the word *ding* <span
-id="fr_117"></span>[\*](#fn_117) being, in the middle ages, equivalent
+id="fr_117"></span>[\*](#fn_117.md) being, in the middle ages, equivalent
 to *gericht*, or tribunal. They were also called the Westphalian
 tribunals, as they could only be holden in the *Red Land*, or
 Westphalia, and only Westphalians were amenable to their jurisdiction.
@@ -440,7 +440,7 @@ Great; also the Free Bann, which last word was equivalent to
 
 ### Footnotes
 
-<span id="fn_109"></span>[332:\*](sma26.htm#fr_109) Dr. Berck has, in
+<span id="fn_109"></span>[332:\*](sma26.htm#fr_109.md) Dr. Berck has, in
 his elaborate work on this subject (Geschichte der Westphälischen
 Femgerichte, Bremen, 1815), collected, we believe, nearly all the
 information that is now attainable. This work has been our principal
@@ -450,27 +450,27 @@ historical form entirely new in English literature, we have, at the
 hazard of appearing occasionally dry, traced with some minuteness the
 construction and mode of procedure of these celebrated courts.
 
-<span id="fn_110"></span>[333:\*](sma26.htm#fr_110) The romantic
+<span id="fn_110"></span>[333:\*](sma26.htm#fr_110.md) The romantic
 accounts of the Secret Tribunals will be found in Sir W. Scott's
 translation of Goëthe's Götz von Berlichingen, and in his House of Aspen
 and Anne of Geierstein. From various passages in Sir W. Scott's
 biographical and other essays, it is plain that he believed such to be
 the true character of the Secret Tribunals.
 
-<span id="fn_111"></span>[335:\*](sma26.htm#fr_111) The Vends (*Wenden*)
+<span id="fn_111"></span>[335:\*](sma26.htm#fr_111) The Vends (*Wenden*.md)
 were a portion of the Slavonian race who dwelt along the south coast of
 the Baltic.
 
-<span id="fn_112"></span>[339:\*](sma26.htm#fr_112) Arnold of Lübeck,
+<span id="fn_112"></span>[339:\*](sma26.htm#fr_112.md) Arnold of Lübeck,
 Chronica Slavorum, l. iii. c. l., apud Leibnitz Scriptores Rerum
 Brunsvicarum, t. ii. p. 653.
 
-<span id="fn_113"></span>[341:\*](sma26.htm#fr_113) Berck, pp. 259, 260.
+<span id="fn_113"></span>[341:\*](sma26.htm#fr_113.md) Berck, pp. 259, 260.
 
-<span id="fn_114"></span>[343:\*](sma26.htm#fr_114) See Berck, l. i. c.
+<span id="fn_114"></span>[343:\*](sma26.htm#fr_114.md) See Berck, l. i. c.
 5, 6, 7.
 
-<span id="fn_115"></span>[343:†](sma26.htm#fr_115) Spelt also *Fem*,
+<span id="fn_115"></span>[343:†](sma26.htm#fr_115.md) Spelt also *Fem*,
 *Fäm*, *Vem*, *Vehm*. In German *f* and *v* are pronounced alike, as
 also are *ä* and *e*. The words from which *Fahm* has been derived are
 *Fahne*, a standard; *Femen*, to skin; *Fehde*, feud; *Vemi* (*i.e.* væ
@@ -482,14 +482,14 @@ be the number of judges in a Fehm, or court. Finally, Mözer deduces it
 from *Fahm*, which he says is employed in Austria and some other
 countries for *Rahm*, cream.
 
-<span id="fn_116"></span>[344:\*](sma26.htm#fr_116) Common fame was a
+<span id="fn_116"></span>[344:\*](sma26.htm#fr_116.md) Common fame was a
 sufficient ground of arraignment in England, also, in the Anglo-Saxon
 period.
 
-<span id="fn_117"></span>[345:\*](sma26.htm#fr_117) In the northern
+<span id="fn_117"></span>[345:\*](sma26.htm#fr_117.md) In the northern
 languages, *Ting*; hence the *Storc Ting* (in our journals usually
 written *Storthing*), i.e. *Great Ting*, or Parliament of Norway.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II](sma27)
+[Next: Chapter II](sma27.md)

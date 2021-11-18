@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb60)  [Next](wfb62) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb60)  [Next](wfb62.md) 
 
 ------------------------------------------------------------------------
 
@@ -33,4 +33,4 @@ wailing. If she is not Grassi, who is she?
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Password](wfb62)
+[Next: The Fairy Password](wfb62.md)

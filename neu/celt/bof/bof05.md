@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](bof04)  [Next](bof06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](bof04)  [Next](bof06.md) 
 
 ------------------------------------------------------------------------
 
@@ -733,4 +733,4 @@ Sacrifice
 
 ------------------------------------------------------------------------
 
-[Next: The Mystery of Death](bof06)
+[Next: The Mystery of Death](bof06.md)

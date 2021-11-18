@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](mfli00)  [Next](mfli02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](mfli00)  [Next](mfli02.md) 
 
 ------------------------------------------------------------------------
 
@@ -475,4 +475,4 @@ the wedding lasted long, and all were happy.
 
 ------------------------------------------------------------------------
 
-[Next: The Three Daughters of King O'Hara](mfli02)
+[Next: The Three Daughters of King O'Hara](mfli02.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo28)  [Next](aoo30) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo28)  [Next](aoo30.md) 
 
 ------------------------------------------------------------------------
 
@@ -179,4 +179,4 @@ Island, and I am not one to repeat a plain-told tale.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII](aoo30)
+[Next: Chapter VII](aoo30.md)

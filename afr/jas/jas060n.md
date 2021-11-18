@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas059n)  [Next](jas061n)   
- \[[60. The Animal Race.](jas060)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas059n)  [Next](jas061n.md)   
+ \[[60. The Animal Race.](jas060.md)\]
 
 ------------------------------------------------------------------------
 
@@ -42,4 +42,4 @@ For the flying-trial for a bride, compare Parsons, Andros Island, 101.
 
 ------------------------------------------------------------------------
 
-[Next: Note 61. The Fasting Trial.](jas061n)
+[Next: Note 61. The Fasting Trial.](jas061n.md)

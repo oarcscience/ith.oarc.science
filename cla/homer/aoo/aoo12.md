@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo11)  [Next](aoo13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo11)  [Next](aoo13.md) 
 
 ------------------------------------------------------------------------
 
@@ -173,4 +173,4 @@ war-music for the Trojan host encamped upon the plain.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XIII](aoo13)
+[Next: Chapter XIII](aoo13.md)

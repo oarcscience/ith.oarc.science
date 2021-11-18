@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,11 +14,11 @@ not properly copyrighted in its early editions.
 
 ------------------------------------------------------------------------
 
-[The Ten Oxherding Pictures](oxherd)  
-[Introduction](mzb00)  
-[I. Gathas and Prayers](mzb01)  
-[II. The Dharanis](mzb02)  
-[III. The Sutras](mzb03)  
-[IV. From the Chinese Zen Masters](mzb04)  
-[V. From the Japanese Zen Masters](mzb05)  
-[VI. The Buddhist Statues and Pictures in a Zen Monastary](mzb06)  
+[The Ten Oxherding Pictures](oxherd.md)  
+[Introduction](mzb00.md)  
+[I. Gathas and Prayers](mzb01.md)  
+[II. The Dharanis](mzb02.md)  
+[III. The Sutras](mzb03.md)  
+[IV. From the Chinese Zen Masters](mzb04.md)  
+[V. From the Japanese Zen Masters](mzb05.md)  
+[VI. The Buddhist Statues and Pictures in a Zen Monastary](mzb06.md)  

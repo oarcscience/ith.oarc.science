@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre33)  [Next](gre35) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre33)  [Next](gre35.md) 
 
 ------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ another time if his will came to pass.
 ------------------------------------------------------------------------
 
 [Next: Chapter XXX: Of Thorbiorn Oxmain and Thorbiorn Tardy, and of
-Grettir's meeting with Kormak on Ramfirth-neck](gre35)
+Grettir's meeting with Kormak on Ramfirth-neck](gre35.md)

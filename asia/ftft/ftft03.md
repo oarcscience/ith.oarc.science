@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft02)  [Next](ftft04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft02)  [Next](ftft04.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 <span id="page_1">p. 1</span>
 
-<span id="img_00100"></span> ![The Creation](img/00100.jpg)
+<span id="img_00100"></span> ![The Creation](img/00100.jpg.md)
 
 <span id="img_00101"></span>
 
@@ -22,7 +22,7 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 
 |                     |
 |---------------------|
-| ![A](img/ainit.jpg) |
+| ![A](img/ainit.jpg.md) |
 
 LLAH, the most gracious God, whose dwelling, place is the seventh
 heaven, completed the work of creation. Seven planes has the heaven and
@@ -70,4 +70,4 @@ he is at the same time its implacable enemy.
 
 ------------------------------------------------------------------------
 
-[Next: The Brother and Sister](ftft04)
+[Next: The Brother and Sister](ftft04.md)

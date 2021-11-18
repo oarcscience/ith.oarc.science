@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index) 
-[Index](index)  [Previous](err12)  [Next](err14) 
+[Intangible Textual Heritage](../../index)  [Neo-Paganism](../index.md) 
+[Index](index)  [Previous](err12)  [Next](err14.md) 
 
 ------------------------------------------------------------------------
 
@@ -1257,7 +1257,7 @@ Which causes confusion
 The seven of clubs,  
 Which makes tears and sorrow;  
 And the queen of spades,  
-Ordained for the witches. <span id="fr_24"></span>[1](#fn_24)
+Ordained for the witches. <span id="fr_24"></span>[1](#fn_24.md)
 
 "Then all this is put under a heavy weight--let it be as heavy as
 possible--and then say
@@ -1279,7 +1279,7 @@ cat, wailing and imploring peace. And so this one came; and then the
 woman took a skein (*gomitolo*, a bottom) of thread, and threw it three
 times in the air. Then the child recovered its health and the mother
 burned the cat's hair and so there was an end to the bewitchment." <span
-id="fr_25"></span>[2](#fn_25)
+id="fr_25"></span>[2](#fn_25.md)
 
  
 
@@ -1670,7 +1670,7 @@ this fancy that these ships were loaded and manned by witches and devils
 in order to destroy crops, and that for return cargo they were freighted
 with the fruit thus injured or destroyed. On which subject the
 tenth-century Archbishop AGOBARD of Lyons delivered himself as
-follows <span id="fr_26"></span>[1](#fn_26):--
+follows <span id="fr_26"></span>[1](#fn_26.md):--
 
  
 
@@ -1851,7 +1851,7 @@ The city rises--all its jewelled fronts
 Shining to seaward . . .  
 Until at last through miles of shadowy air  
 The blue and violet mountains shut the sky." <span
-id="fr_27"></span>[1](#fn_27)
+id="fr_27"></span>[1](#fn_27.md)
 
  
 
@@ -3249,7 +3249,7 @@ generic term for almost any kind of spirit not Christian. Fairies,
 goblins, spectres, nymphs, are all called by this name. There is a
 *Manuale di Spiriti Folletti* published at Asti (1864), which includes
 devils, vampires, undines, and comets under this word. <span
-id="fr_28"></span>[1](#fn_28)
+id="fr_28"></span>[1](#fn_28.md)
 
 The chief of the goblin-saints is Saint Antonio, Antony, or Anthony.
 This character was remarkably familiar with strange spirits of all
@@ -3598,7 +3598,7 @@ is no danger of awaking trembling and terrified.
 the words and signs which the saint will give. Many people miss their
 meaning, according to what many have experienced, so difficult is it to
 decipher and unravel the problems or 'figurations.'" <span
-id="fr_29"></span>[1](#fn_29)
+id="fr_29"></span>[1](#fn_29.md)
 
 There, reader, you have the two-take your choice. One is the downright
 grim old heathen classic Proteus Simon, who requires the courage of an
@@ -3762,14 +3762,14 @@ adult " professionals."
 
 ### Footnotes
 
-<span id="fn_24"></span>[204:1](err13.htm#fr_24) In the original--"Che
+<span id="fn_24"></span>[204:1](err13.htm#fr_24.md) In the original--"Che
 si battezza per la strega": that is, baptised or consecrated for the
 witch.
 
-<span id="fn_25"></span>[204:2](err13.htm#fr_25) I am obliged to omit
+<span id="fn_25"></span>[204:2](err13.htm#fr_25.md) I am obliged to omit
 the original text for want of space.
 
-<span id="fn_26"></span>[211:1](err13.htm#fr_26) *Des Deutschen
+<span id="fn_26"></span>[211:1](err13.htm#fr_26.md) *Des Deutschen
 Mittelalters Volksglauben und Heroensagen*, von F. L. F. von DOBENECK.
 Preface by JEAN PAUL RICHTER, Berlin, 1815. This Bishop Agobard was a
 noble-minded man, a miracle for his age, quite free from vulgar
@@ -3780,17 +3780,17 @@ power, since he gains more souls than are saved. For such views the
 bishop was greatly persecuted by the Orthodox believers, and died in
 misery (vide HORST, *Dæmonomagia*).
 
-<span id="fn_27"></span>[214:1](err13.htm#fr_27) The Disciples, by
+<span id="fn_27"></span>[214:1](err13.htm#fr_27.md) The Disciples, by
 Harriet E. H. King
 
-<span id="fn_28"></span>[238:1](err13.htm#fr_28) According to PITRÉ
+<span id="fn_28"></span>[238:1](err13.htm#fr_28.md) According to PITRÉ
 (*Usie Custome*, &c., vol. iv., p. 69) the *folletto* in Southern Italy
 is only one kind of spirit--*non se ne può ammettere più d'ano*. This is
 a *buon diavoletto*, and the exact counterpart of *Dusio*, or Puck, a
 trifling airy Robin Goodfellow, or fairy of the Shakespeare and Drayton
 type.
 
-<span id="fn_29"></span>[244:1](err13.htm#fr_29) It is a fact worth
+<span id="fn_29"></span>[244:1](err13.htm#fr_29.md) It is a fact worth
 noting that in all religions of all ages the inspiring spirit of
 oracles, like Martin Van Buren, the American President, seems to suffer
 from a decided inability to give a plain straightforward answer to a
@@ -3802,4 +3802,4 @@ directly or to the point.
 
 ------------------------------------------------------------------------
 
-[Next: Part Two: Chapter I--LA STALLA DI MAIALE](err14)
+[Next: Part Two: Chapter I--LA STALLA DI MAIALE](err14.md)

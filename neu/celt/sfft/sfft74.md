@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft73)  [Next](sfft75) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft73)  [Next](sfft75.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -67,9 +67,9 @@ sleeve of the pedlar, and asked him if he would kindly wait a
  
 
 <span id="img_24400"></span> <span align="CENTER"> [![](tn/24400.jpg)  
-Click to enlarge](img/24400.jpg)</span>  
+Click to enlarge](img/24400.jpg.md)</span>  
 Gille Macdonald drew the little pedlar towards the ingle, and filling
-his glass once more begged him to be seated.--Page [245](#page_245).  
+his glass once more begged him to be seated.--Page [245](#page_245.md).  
 *Scottish Fairy Tales*.
 
  
@@ -310,9 +310,9 @@ lurking, and ready to pounce. The evening
  
 
 <span id="img_25200"></span> <span align="CENTER"> [![](tn/25200.jpg)  
-Click to enlarge](img/25200.jpg)</span>  
+Click to enlarge](img/25200.jpg.md)</span>  
 "Well met," said from somewhere above him, the voice Gille Macdonald
-knew too well.--Page [258](#page_258).  
+knew too well.--Page [258](#page_258.md).  
 *Scottish Fairy Tales*.
 
  
@@ -618,10 +618,10 @@ stood at bay with the giant's footstool held out before him in defence,
  
 
 <span id="img_26200"></span> <span align="CENTER"> [![](tn/26200.jpg)  
-Click to enlarge](img/26200.jpg)</span>  
+Click to enlarge](img/26200.jpg.md)</span>  
 "Have done! be off! Away with you! Get off, I say!" choked Gille
 Macdonald, as the maidens hung round about him and embraced him.  
-Page [262](#page_262). *Scottish Fairy Tales*.
+Page [262](#page_262.md). *Scottish Fairy Tales*.
 
  
 
@@ -845,4 +845,4 @@ can he?
 
 ------------------------------------------------------------------------
 
-[Next: The Wee Bunnock](sfft75)
+[Next: The Wee Bunnock](sfft75.md)

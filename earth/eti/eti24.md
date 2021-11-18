@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](eti23)  [Next](eti25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](eti23)  [Next](eti25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Etidorhpa*, by John Uri Lloyd, \[1897\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -18,7 +18,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1892062186/internetsacredte)
 
 <span id="img_11700"></span> <span align="CENTER"> [![I WAS IN A FOREST
 OF COLOSSAL FUNGI.](tn/11700.jpg)  
-Click to enlarge](img/11700.jpg)  
+Click to enlarge](img/11700.jpg.md)  
 “I WAS IN A FOREST OF COLOSSAL FUNGI.”  
 </span>
 
@@ -88,7 +88,7 @@ earth if you do so at the fragrance of these vegetables, for they are
 also created of odorless elements."
 
 But toadstools are foul structures of low organization. <span
-id="fr_2"></span>[\*](#fn_2) They are neither animals nor true
+id="fr_2"></span>[\*](#fn_2.md) They are neither animals nor true
 vegetables, but occupy a station below that of plants proper," I said.
 
 "You are acquainted with this order of vegetation under the most
@@ -158,7 +158,7 @@ rank forest fungi which I abhorred on earth."
 
 ### Footnotes
 
-<span id="fn_2"></span>[120:\*](eti24.htm#fr_2) The fungus Polyporus
+<span id="fn_2"></span>[120:\*](eti24.htm#fr_2.md) The fungus Polyporus
 graveolens was neglected by the guide. This fungus exhales a delicate
 odor, and is used in Kentucky to perfume a room. Being quite large, it
 is employed to hold a door open, thus being useful as well as
@@ -166,4 +166,4 @@ fragrant.—J. U. L.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Food of Man](eti25)
+[Next: Chapter XVIII. The Food of Man](eti25.md)

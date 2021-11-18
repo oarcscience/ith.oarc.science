@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou04)  [Next](sou06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou04)  [Next](sou06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -478,7 +478,7 @@ criticizes Plato in terms of a more simple system of democracy; but
 Plato did not mean to institute a fixed order; within his Republic the
 Napoleonic motto—*la carrière est ouverte aux talents*—was the guiding
 principle. What lay beneath Plato's argument was a belief which
-present-day studies in [psychology](errata.htm#1) seem likely to
+present-day studies in [psychology](errata.htm#1.md) seem likely to
 confirm; a belief that children come into the world with a bent already
 well marked in their physical and mental constitutions. Plato advocated,
 it is true, an aristocracy or government by the best people; but he did
@@ -668,7 +668,7 @@ small loyalties and jealousies and interests are woven into the very
 texture of that life.
 
 Each home, each small circle of relatives and friends, tends to be a
-[miniature](errata.htm#2) utopia; there is a limited community of goods,
+[miniature](errata.htm#2.md) utopia; there is a limited community of goods,
 a tendency to adjust one's actions to the welfare of the little whole,
 and a habit of banding together against the world at large. But the
 good,
@@ -872,4 +872,4 @@ are open, and he is facing the light.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Three](sou06)
+[Next: Chapter Three](sou06.md)

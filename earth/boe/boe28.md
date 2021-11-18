@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe27)  [Next](boe29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe27)  [Next](boe29.md) 
 
 ------------------------------------------------------------------------
 
@@ -27,7 +27,7 @@ trees,
 [![PLATE XXXV. THE EARTH OF THE MYSTICS--THE HEART OF GOD (From
 Theologia Mystica, or, The Archtypous Globe; John Pordage,
 1683)](tn/pl35.jpg)  
-Click to enlarge](img/pl35.jpg)  
+Click to enlarge](img/pl35.jpg.md)  
 PLATE XXXV. THE EARTH OF THE MYSTICS--THE HEART OF GOD (From Theologia
 Mystica, or, The Archtypous Globe; John Pordage, 1683)  
 
@@ -45,7 +45,7 @@ the centre of the cosmos, then the Earth was its heart and its life.
 Just as the unknown author of *De Imago Mundi* had worked out his scheme
 of the universe on the image of the Cosmic Egg, John Pordage, an
 Englishman of the seventeenth century, developed his mystical theory of
-the "Archtypous Globe" as the Cosmic Heart. [Plate XXXV](#img_pl35)
+the "Archtypous Globe" as the Cosmic Heart. [Plate XXXV](#img_pl35.md)
 gives his drawing of the Eternal World, wherein the Holy Trinity do
 manifest themselves, as in a clear Chrystalline Glass or Mirrour." In
 it, he discerned three distinct places, the Outward Court, the Inward
@@ -96,10 +96,10 @@ explains. On Ptolemy's figure of Earth, Apianus
 made his famous "cardiform projections" towards the poles, and obtained
 his heart-shaped map of the world. This is one of the earliest maps on
 which the just discovered western continents appear under the name of
-the Americas. (See Frontispiece [Plate XXXVI](boe00.htm#img_pl36).)
+the Americas. (See Frontispiece [Plate XXXVI](boe00.htm#img_pl36)..md)
 
 <span id="img_sep00"></span> ![](img/sep00.jpg)
 
 ------------------------------------------------------------------------
 
-[Next: St. Hildegard's Universe](boe29)
+[Next: St. Hildegard's Universe](boe29.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Lucian](../index)  [Index](index)  [Previous](motc06)  [Next](motc08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Lucian](../index)  [Index](index)  [Previous](motc06)  [Next](motc08.md) 
 
 ------------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ But you do know Hermotimos, don't you?
 <span id="img_05400"></span>
 
 [![](tn/05400.jpg)  
-Click to enlarge](img/05400.jpg)
+Click to enlarge](img/05400.jpg.md)
 
 <span id="page_55">p. 55</span>
 
@@ -216,4 +216,4 @@ for a proper incantation.
 
 ------------------------------------------------------------------------
 
-[Next: The Terror of Marriage](motc08)
+[Next: The Terror of Marriage](motc08.md)

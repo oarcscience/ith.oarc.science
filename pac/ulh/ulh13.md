@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh12)  [Next](ulh14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh12)  [Next](ulh14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -141,7 +141,7 @@ E puka, a puka mai ka ua la.
 Waliwali ke one i ka hehi’a e ka ua;  
 Ua holo-wai na kaha-wai;  
 Ua ko-ká wale na pali.  
-10 Aia ka wai la i ka ilina, <span id="fr_126"></span>[a](#fn_125) he
+10 Aia ka wai la i ka ilina, <span id="fr_126"></span>[a](#fn_125.md) he
 ilio,  
 He ilio hae, ke nahu nei e puka.
 
@@ -182,15 +182,15 @@ PAUKU 2
 <div style="margin-left: 32px">
 
 Hoopono oe, he aina kai Waialua i ka hau;  
-Ke olelo <span id="fr_127"></span>[a](#fn_126) wale no la i ka lani.  
+Ke olelo <span id="fr_127"></span>[a](#fn_126.md) wale no la i ka lani.  
 Lohe ka uka o ka pehu i Ku-kani-loko. <span
-id="fr_128"></span>[b](#fn_127)  
+id="fr_128"></span>[b](#fn_127.md)  
 I-loko, i-waho kaua la, e ka hoa,  
 5 I kahi e pau ai o ka oni?  
 Oni ana i ka manawa o ka lili,  
 Pee oe, pee ana iloko o ka hilahila.  
 I hilahila wale ia no e oe;  
-Nou no ka hale, <span id="fr_129"></span>[c](#fn_128) komo mai maloko.
+Nou no ka hale, <span id="fr_129"></span>[c](#fn_128.md) komo mai maloko.
 
 </div>
 
@@ -221,16 +221,16 @@ PAUKU 3
 
 <div style="margin-left: 32px">
 
-Pakú Kea-au <span id="fr_130"></span>[d](#fn_129) lulu, Wai-akea; <span
-id="fr_131"></span>[e](#fn_130)  
-Noho i ka la’i loa o Hana-kahi, <span id="fr_132"></span>[f](#fn_131)  
-O Hilo, i olokea <span id="fr_133"></span>[g](#fn_132) ia, i au la, e, i
+Pakú Kea-au <span id="fr_130"></span>[d](#fn_129.md) lulu, Wai-akea; <span
+id="fr_131"></span>[e](#fn_130.md)  
+Noho i ka la’i loa o Hana-kahi, <span id="fr_132"></span>[f](#fn_131.md)  
+O Hilo, i olokea <span id="fr_133"></span>[g](#fn_132.md) ia, i au la, e, i
 kai,  
-O Lele-iwi, <span id="fr_134"></span>[h](#fn_133) o Maka-hana-loa. <span
-id="fr_135"></span>[i](#fn_134)  
-5 Me he kaele-papa <span id="fr_136"></span>[j](#fn_135) la Hilo, i lalo
+O Lele-iwi, <span id="fr_134"></span>[h](#fn_133.md) o Maka-hana-loa. <span
+id="fr_135"></span>[i](#fn_134.md)  
+5 Me he kaele-papa <span id="fr_136"></span>[j](#fn_135.md) la Hilo, i lalo
 ka noho.  
-Kaele <span id="fr_137"></span>[k](#fn_136) wale Hilo i ke alai ia e ka
+Kaele <span id="fr_137"></span>[k](#fn_136.md) wale Hilo i ke alai ia e ka
 ua.  
 Oi ka niho o ka ua o Hilo i ka lani;  
 Kua-wa’a-wa’a Hilo i eli ’a e ka wai;  
@@ -244,30 +244,30 @@ Kai-koo, haki na nalu, ka ua o Hilo;
 
 10 Ha’i lau-wili mai ka nahele.  
 Nanalu, kahe waikahe o Wai-luku;  
-Hohonu Waiau, <span id="fr_138"></span>[a](#fn_137) nalo ke poo o ka lae
-o Moku-pane; <span id="fr_139"></span>[b](#fn_138)  
-Wai ulaula o Wai-anue-nue; <span id="fr_140"></span>[c](#fn_139)  
+Hohonu Waiau, <span id="fr_138"></span>[a](#fn_137.md) nalo ke poo o ka lae
+o Moku-pane; <span id="fr_139"></span>[b](#fn_138.md)  
+Wai ulaula o Wai-anue-nue; <span id="fr_140"></span>[c](#fn_139.md)  
 Ka-wowo nui i ka wai o Kolo-pule-pule; <span
-id="fr_141"></span>[d](#fn_140)  
+id="fr_141"></span>[d](#fn_140.md)  
 15 Halulu i ha-ku’i, ku me he uahi la  
 Ka puá o ka wai ua o-aka i ka lani.  
 Eleele Hilo e, pano e, i ka ua;  
 Okakala ka hulu o Hilo i ke anu;  
-Pili-kau <span id="fr_142"></span>[e](#fn_141) mai Hilo ia ua loa.  
-20 Pali-ku laau ka uka o Haili, <span id="fr_143"></span>[f](#fn_142)  
+Pili-kau <span id="fr_142"></span>[e](#fn_141.md) mai Hilo ia ua loa.  
+20 Pali-ku laau ka uka o Haili, <span id="fr_143"></span>[f](#fn_142.md)  
 Ka lae ohi’a e kope-kope,  
 Me he aha moa la, ka pale pa laau,  
-Ka nahele o Pa-ie-ie, <span id="fr_144"></span>[g](#fn_143)  
+Ka nahele o Pa-ie-ie, <span id="fr_144"></span>[g](#fn_143.md)  
 Ku’u po'e lehua iwaena konu o Mo-kau-lele; <span
-id="fr_145"></span>[h](#fn_144).  
+id="fr_145"></span>[h](#fn_144.md).  
 25 Me ka ha’i laau i pu-kaula hala’i i ka ua.  
 Ke nana ia la e la’i i Hanakahi.  
 Oni aku Hilo, oni ku’u kai lipo-lipo,  
 A Lele-iwi, ku’u kai ahu mimiki a ka Malua. <span
-id="fr_146"></span>[i](#fn_145)  
+id="fr_146"></span>[i](#fn_145.md)  
 Lei kahiko, lei nalu ka poai.  
-30 Nana Pu’u-eo, <span id="fr_147"></span>[j](#fn_146) e! makai ka
-iwi-honua, <span id="fr_148"></span>[k](#fn_147) e!  
+30 Nana Pu’u-eo, <span id="fr_147"></span>[j](#fn_146.md) e! makai ka
+iwi-honua, <span id="fr_148"></span>[k](#fn_147.md) e!  
 Puna-hoa la, ino, ku, ku wan a Wai-akea la.
 
 </div>
@@ -388,17 +388,17 @@ PAUKU 5
 
 <div style="margin-left: 32px">
 
-No-luna ka Hale-kai, <span id="fr_149"></span>[a](#fn_148) no ka
-ma’a-lewa, <span id="fr_150"></span>[b](#fn_149)  
+No-luna ka Hale-kai, <span id="fr_149"></span>[a](#fn_148.md) no ka
+ma’a-lewa, <span id="fr_150"></span>[b](#fn_149.md)  
 Nana ka maka ia Moana-nui-ka-lehua. <span
-id="fr_151"></span>[c](#fn_150)  
-Noi au i ke Kai, e mali’o. <span id="fr_152"></span>[d](#fn_151)  
-Ina ku a’e la he lehua <span id="fr_153"></span>[e](#fn_152) ilaila!  
-5 Hopoe-lehua <span id="fr_154"></span>[f](#fn_153) kiekie.  
-Maka’u ka lehua i ke kanáka, <span id="fr_155"></span>[g](#fn_154)  
+id="fr_151"></span>[c](#fn_150.md)  
+Noi au i ke Kai, e mali’o. <span id="fr_152"></span>[d](#fn_151.md)  
+Ina ku a’e la he lehua <span id="fr_153"></span>[e](#fn_152.md) ilaila!  
+5 Hopoe-lehua <span id="fr_154"></span>[f](#fn_153.md) kiekie.  
+Maka’u ka lehua i ke kanáka, <span id="fr_155"></span>[g](#fn_154.md)  
 Lilo ilalo e hele ai, e-e,  
 A ilalo hoi.  
-O Kea-au <span id="fr_156"></span>[h](#fn_155) ili-ili nehe ke kai,
+O Kea-au <span id="fr_156"></span>[h](#fn_155.md) ili-ili nehe ke kai,
 
 </div>
 
@@ -406,10 +406,10 @@ O Kea-au <span id="fr_156"></span>[h](#fn_155) ili-ili nehe ke kai,
 
 <div style="margin-left: 32px">
 
-10 Hoo-lono <span id="fr_157"></span>[a](#fn_156) ke kai o Puna  
+10 Hoo-lono <span id="fr_157"></span>[a](#fn_156.md) ke kai o Puna  
 I ka ulu hala la, e-e,  
 Kai-ko’o Puna.  
-Ia hooneenee ia pili mai <span id="fr_158"></span>[b](#fn_157) kaua, e
+Ia hooneenee ia pili mai <span id="fr_158"></span>[b](#fn_157.md) kaua, e
 ke hoa.  
 Ke waiho e mai la oe ilaila.  
 15 Eia ka mea ino la, he anu,  
@@ -422,7 +422,7 @@ The author of this poem of venerable age is not known. It is spoken of
 as belonging to the *wa po*, the twilight of tradition. It is
 represented to be part of a mele taught to Hiiaka by her friend and
 preceptress in the hula, Hopoe. Hopoe is often called *Hopoe-wahine*,
-[from](errata.htm#0) internal evidence one can see that it can not be in
+[from](errata.htm#0.md) internal evidence one can see that it can not be in
 form the same as was given to Hiiaka by Hopoe; it may have been founded
 on the poem of Hopoe. If so, it has been modified.
 
@@ -454,7 +454,7 @@ Our bodies so clammy and chill, friend!
 The last five verses, which sound like a love song, may possibly be a
 modern addition to this old poem. The sentiment, they contain is
 comparable to that expressed in the Song of Welcome on page
-[39](ulh10.htm#page_39):
+[39](ulh10.htm#page_39.md):
 
 <div style="margin-left: 32px">
 
@@ -469,13 +469,13 @@ MAHELE-HELE II
 
 <div style="margin-left: 32px">
 
-Hi’u-o-lani, <span id="fr_159"></span>[a](#fn_158) kii ka ua o
-Hilo <span id="fr_160"></span>[b](#fn_159) i ka lani;  
+Hi’u-o-lani, <span id="fr_159"></span>[a](#fn_158.md) kii ka ua o
+Hilo <span id="fr_160"></span>[b](#fn_159.md) i ka lani;  
 Ke hookiikii mai la ke ao o Pua-lani; <span
-id="fr_161"></span>[c](#fn_160)  
-O mahele ana, <span id="fr_162"></span>[d](#fn_161) pule Hilo i ka
+id="fr_161"></span>[c](#fn_160.md)  
+O mahele ana, <span id="fr_162"></span>[d](#fn_161.md) pule Hilo i ka
 ua--  
-O Hilo Hana-kahi. <span id="fr_163"></span>[e](#fn_162)
+O Hilo Hana-kahi. <span id="fr_163"></span>[e](#fn_162.md)
 
 5 Ha’i ka nalu, wai kaka lepo o Pii-lani;  
 Hai’na ka iwi o Hilo,  
@@ -488,14 +488,14 @@ Puke e nana ke kiki a ka ua,
 Ka nonoho a ka ua i ka hale o Hilo.
 
 Like Hilo me Puna ke ku a mauna-ole, <span
-id="fr_164"></span>[f](#fn_163)  
+id="fr_164"></span>[f](#fn_163.md)  
 He ole ke ku a mauna Hilo me Puna.  
 15 He kowa Puna mawaena Hilo me Ka-ú;  
 Ke pili wale la i ke kua i mauna-ole;  
 Pili hoohaha i ke kua o Mauna-loa.
 
 He kuahiwi Ka-ú e pa ka makani.  
-Ke alai ia a’e la Ka-ú e ke A’e; <span id="fr_165"></span>[g](#fn_164)  
+Ke alai ia a’e la Ka-ú e ke A’e; <span id="fr_165"></span>[g](#fn_164.md)  
 20 Na-u ku ke ehu lepo ke A’e;  
 Ku ke ehu-lepo mai la Ka-ú i ka makani.  
 Makani Kawa hu’a-lepo Ka-ú i ke A’-e.
@@ -508,11 +508,11 @@ Makani Kawa hu’a-lepo Ka-ú i ke A’-e.
 
 Kahiko mau no o Ka-ú i ka makani.  
 Makani ka Lae-ka-ilio i Unu-lau,  
-25 Kaili-ki’i <span id="fr_167"></span>[a](#fn_166) a ka lua a
-Kaheahea, <span id="fr_168"></span>[b](#fn_167)  
+25 Kaili-ki’i <span id="fr_167"></span>[a](#fn_166.md) a ka lua a
+Kaheahea, <span id="fr_168"></span>[b](#fn_167.md)  
 I ka ha’a nawali ia ino.
 
-Ino wa o ka [makani](errata.htm#1) o Kau-na.  
+Ino wa o ka [makani](errata.htm#1.md) o Kau-na.  
 Nana aku o ka makani ma malaila!  
 O Hono-malino, malino i ka la’i o Kona.  
 30 He inoa la!
@@ -584,11 +584,11 @@ MAHELE III
 
 <div style="margin-left: 32px">
 
-A Koa’e-kea, <span id="fr_169"></span>[a](#fn_168) i
-Pueo-hulu-nui, <span id="fr_170"></span>[a](#fn_168)  
+A Koa’e-kea, <span id="fr_169"></span>[a](#fn_168.md) i
+Pueo-hulu-nui, <span id="fr_170"></span>[a](#fn_168.md)  
 Neeu a’e la ka makahiapo o ka pali;  
-A a’e, a a’e, a’e <span id="fr_171"></span>[b](#fn_169) la iluna  
-Kaholo-kua-iwa, ka pali o Ha’i. <span id="fr_172"></span>[c](#fn_170)  
+A a’e, a a’e, a’e <span id="fr_171"></span>[b](#fn_169.md) la iluna  
+Kaholo-kua-iwa, ka pali o Ha’i. <span id="fr_172"></span>[c](#fn_170.md)  
 5 Ha’i a’e la ka pali;  
 Ha-nu’u ka pali;  
 Hala e Malu-ó;  
@@ -598,9 +598,9 @@ Ke kaupoku hale a ka ua.
 Me he hale pi’o ka lei na ka manawa o ka pali Halehale-o-ú;  
 Me he aho i hilo ’a la ka wai o Wai-hi-lau;  
 Me he uahi pulehu-manu la ke kai o ka auwala hula ana.  
-Au ana Maka’u-kiu <span id="fr_173"></span>[d](#fn_171) iloko o ke
+Au ana Maka’u-kiu <span id="fr_173"></span>[d](#fn_171.md) iloko o ke
 kai;  
-15 Pohaku lele <span id="fr_174"></span>[e](#fn_172) o Lau-nui,
+15 Pohaku lele <span id="fr_174"></span>[e](#fn_172.md) o Lau-nui,
 Lau-pahoehoe.  
 Ka eku’na a ke kai i ka ala o Ka-wai-kapu--  
 Eku ana, me he pua’a la, ka lae Makani-lele,  
@@ -637,8 +637,8 @@ An arched roof the peak's crest Hale-hale-o-ú.
 A twisted cord hangs the brook Wai-hilau;  
 Like smoke from roasting bird Ocean's wild dance;  
 The shark-god is swimming the sea;  
-15 The rocks leap down at Big-leaf <span id="fr_175"></span>[a](#fn_173)
-and Flat-leaf-- <span id="fr_176"></span>[a](#fn_173)  
+15 The rocks leap down at Big-leaf <span id="fr_175"></span>[a](#fn_173.md)
+and Flat-leaf-- <span id="fr_176"></span>[a](#fn_173.md)  
 See the ocean charge ’gainst the cliffs,  
 Thrust snout like rooting boar against Windy-cape,  
 Against Koholá-lele.
@@ -649,25 +649,25 @@ MAHELE IV
 
 <div style="margin-left: 32px">
 
-Hole <span id="fr_177"></span>[b](#fn_174) Waimea i ka ihe a ka
+Hole <span id="fr_177"></span>[b](#fn_174.md) Waimea i ka ihe a ka
 makani,  
 Hao mai na ale a ke Ki-pu’u-pu’u; <span
-id="fr_178"></span>[c](#fn_175)  
+id="fr_178"></span>[c](#fn_175.md)  
 He luau kala-ihi ia na ke anu,  
-I o’o i ka nahele o Mahiki. <span id="fr_179"></span>[d](#fn_176)  
-5 Ku aku la oe i ka Malanai <span id="fr_180"></span>[e](#fn_177) a ke
+I o’o i ka nahele o Mahiki. <span id="fr_179"></span>[d](#fn_176.md)  
+5 Ku aku la oe i ka Malanai <span id="fr_180"></span>[e](#fn_177.md) a ke
 Ki-puu-puu;  
-Nolu ka maka o ka oha-wai <span id="fr_181"></span>[f](#fn_178) o Uli;  
-Niniau, eha ka pua o Koaie, <span id="fr_182"></span>[g](#fn_179)  
+Nolu ka maka o ka oha-wai <span id="fr_181"></span>[f](#fn_178.md) o Uli;  
+Niniau, eha ka pua o Koaie, <span id="fr_182"></span>[g](#fn_179.md)  
 Eha i ke anu ka nahele o Wai-ka-é,  
 A he aloha, e!  
 10 Aloha Wai-ká ia’u me he ipo la;  
 Me he ipo la ka maka lena o ke Koo-lau, <span
-id="fr_183"></span>[h](#fn_180)  
+id="fr_183"></span>[h](#fn_180.md)  
 Ka pua i ka nahele o Mahule-i-a,  
-E lei hele i ke alo o Moo-lau. <span id="fr_184"></span>[i](#fn_181)  
+E lei hele i ke alo o Moo-lau. <span id="fr_184"></span>[i](#fn_181.md)  
 E lau lea huaka’i-hele i ka pali loa;  
-15 Hele hihiu, pili, <span id="fr_185"></span>[j](#fn_182) noho i ka
+15 Hele hihiu, pili, <span id="fr_185"></span>[j](#fn_182.md) noho i ka
 nahele.  
 O ku’u noho wale iho no i kahua, e-e.  
 A he aloha, e-e!  
@@ -766,16 +766,16 @@ PAUKU 3
 
 <div style="margin-left: 32px">
 
-Hoe Puna i ka wa’a po-lolo’ <span id="fr_186"></span>[a](#fn_183) a ha
+Hoe Puna i ka wa’a po-lolo’ <span id="fr_186"></span>[a](#fn_183.md) a ha
 ino;  
 Ha-uke-uke i ha wa o Koolau:  
 Eha e! eha la!  
-Eha i ku’i-ku’i o ha Ulu-mano. <span id="fr_187"></span>[b](#fn_184),  
-5 Hala ’e ka walu-ihe a ke A’e, <span id="fr_188"></span>[c](#fn_185)  
-Ku iho i ku’i-ku’i a ka Ho-li’o; <span id="fr_189"></span>[d](#fn_186)  
+Eha i ku’i-ku’i o ha Ulu-mano. <span id="fr_187"></span>[b](#fn_184.md),  
+5 Hala ’e ka walu-ihe a ke A’e, <span id="fr_188"></span>[c](#fn_185.md)  
+Ku iho i ku’i-ku’i a ka Ho-li’o; <span id="fr_189"></span>[d](#fn_186.md)  
 Hana ne’e ke kikala o ko Hilo Kini.  
 Ho’i lu’u-lu’u i ke one o Hana-kahi. <span
-id="fr_190"></span>[e](#fn_187)  
+id="fr_190"></span>[e](#fn_187.md)  
 I ka po-lolo’ ua wahine o ka lua:  
 10 Mai ka lua no, e!
 
@@ -901,94 +901,94 @@ direction.</span>
 
 ### Footnotes
 
-<span id="fn_125"></span>[59:a](ulh13.htm#fr_126) *Ilina*. A sink, a
+<span id="fn_125"></span>[59:a](ulh13.htm#fr_126.md) *Ilina*. A sink, a
 place where a stream sinks into the earth or sand.
 
-<span id="fn_126"></span>[60:a](ulh13.htm#fr_127) *Olelo*. To speak, to
+<span id="fn_126"></span>[60:a](ulh13.htm#fr_127.md) *Olelo*. To speak, to
 converse; here used figuratively to mean that the place is lonely, has
 no view of the ocean, looks only to the sky. "Looks that commerce with
 the sky."
 
-<span id="fn_127"></span>[60:b](ulh13.htm#fr_128) *Ku-kani-loko*. A land
+<span id="fn_127"></span>[60:b](ulh13.htm#fr_128.md) *Ku-kani-loko*. A land
 in Waialua, Oahu, to which princesses resorted in the olden times at the
 time of childbirth, that their offspring might have the distinction of
 being an *alii kapu*, a chief with a tabu.
 
-<span id="fn_128"></span>[60:c](ulh13.htm#fr_129) *Hale*. House; a
+<span id="fn_128"></span>[60:c](ulh13.htm#fr_129.md) *Hale*. House; a
 familiar euphemism of the human body.
 
-<span id="fn_129"></span>[60:d](ulh13.htm#fr_130) *Kea-au*. An
+<span id="fn_129"></span>[60:d](ulh13.htm#fr_130.md) *Kea-au*. An
 *ahu-pua’a*, small division of land, in Puna adjoining Hilo, represented
 as sheltering Hilo on that side.
 
-<span id="fn_130"></span>[60:e](ulh13.htm#fr_131) *Waiakea*. A river in
+<span id="fn_130"></span>[60:e](ulh13.htm#fr_131.md) *Waiakea*. A river in
 Hilo, and the land through which it flows.
 
-<span id="fn_131"></span>[60:f](ulh13.htm#fr_132) *Hana-kahi*, A land on
+<span id="fn_131"></span>[60:f](ulh13.htm#fr_132.md) *Hana-kahi*, A land on
 the Hamakua side of Hilo, also a king whose name was a synonym for
 profound peace.
 
-<span id="fn_132"></span>[60:g](ulh13.htm#fr_133) *Olo-kea*. To be
+<span id="fn_132"></span>[60:g](ulh13.htm#fr_133.md) *Olo-kea*. To be
 invited or pulled many ways at once; distracted.
 
-<span id="fn_133"></span>[60:h](ulh13.htm#fr_134) *Lele-iwi*. A cape on
+<span id="fn_133"></span>[60:h](ulh13.htm#fr_134.md) *Lele-iwi*. A cape on
 the north side of Hilo.
 
-<span id="fn_134"></span>[60:i](ulh13.htm#fr_135) *Maka-hana-loa*. A
+<span id="fn_134"></span>[60:i](ulh13.htm#fr_135.md) *Maka-hana-loa*. A
 cape.
 
-<span id="fn_135"></span>[60:j](ulh13.htm#fr_136) *Kaele-papa*. A large,
+<span id="fn_135"></span>[60:j](ulh13.htm#fr_136.md) *Kaele-papa*. A large,
 round, hollowed board on which to pound taro in the making of poi. The
 poi-board was usually long and oval.
 
-<span id="fn_136"></span>[60:k](ulh13.htm#fr_137) *Kaele*. In this
+<span id="fn_136"></span>[60:k](ulh13.htm#fr_137.md) *Kaele*. In this
 connection the meaning is surrounded, encompassed by.
 
-<span id="fn_137"></span>[61:a](ulh13.htm#fr_138) *Waiau*. The name
+<span id="fn_137"></span>[61:a](ulh13.htm#fr_138.md) *Waiau*. The name
 given to the stretch of Wailuku river near its month.
 
-<span id="fn_138"></span>[61:b](ulh13.htm#fr_139) *Moku-pane*. The cape
+<span id="fn_138"></span>[61:b](ulh13.htm#fr_139.md) *Moku-pane*. The cape
 between the mouth of the Wailuku river and the town of Hilo.
 
-<span id="fn_139"></span>[61:c](ulh13.htm#fr_140) *Wai-anue-nue*.
+<span id="fn_139"></span>[61:c](ulh13.htm#fr_140.md) *Wai-anue-nue*.
 Rainbow falls and the river that makes the leap.
 
-<span id="fn_140"></span>[61:d](ulh13.htm#fr_141) *Kolo-pule-pule*.
+<span id="fn_140"></span>[61:d](ulh13.htm#fr_141.md) *Kolo-pule-pule*.
 Another branch of the Wailuku stream.
 
-<span id="fn_141"></span>[61:e](ulh13.htm#fr_142) *Pili-kau*. To hang
+<span id="fn_141"></span>[61:e](ulh13.htm#fr_142.md) *Pili-kau*. To hang
 low, said of a cloud.
 
-<span id="fn_142"></span>[61:f](ulh13.htm#fr_143) *Haili*. A region in
+<span id="fn_142"></span>[61:f](ulh13.htm#fr_143.md) *Haili*. A region in
 the inland, woody, part of Hilo.
 
-<span id="fn_143"></span>[61:g](ulh13.htm#fr_144) *Pa-ieie*. A
+<span id="fn_143"></span>[61:g](ulh13.htm#fr_144.md) *Pa-ieie*. A
 well-wooded part of Hilo, once much resorted to by bird-hunters; a place
 celebrated in Hawaiian song.
 
-<span id="fn_144"></span>[61:h](ulh13.htm#fr_145) *Mokau-lele*. A wild,
+<span id="fn_144"></span>[61:h](ulh13.htm#fr_145.md) *Mokau-lele*. A wild,
 woody region in the interior of Hilo.
 
-<span id="fn_145"></span>[61:i](ulh13.htm#fr_146) *Malua*. Name given to
+<span id="fn_145"></span>[61:i](ulh13.htm#fr_146.md) *Malua*. Name given to
 a wind from a northerly or northwesterly direction on several  of the
 islands. The full form is Malua-lua.
 
-<span id="fn_146"></span>[61:j](ulh13.htm#fr_147) *Pu’u-eo*. A village
+<span id="fn_146"></span>[61:j](ulh13.htm#fr_147.md) *Pu’u-eo*. A village
 in the Hilo district near Puna.
 
-<span id="fn_147"></span>[61:k](ulh13.htm#fr_148) *Iwi-honua*. Literally
+<span id="fn_147"></span>[61:k](ulh13.htm#fr_148.md) *Iwi-honua*. Literally
 a bone of the earth: a projecting rock or a shoal; if in the water, an
 object to be avoided by the surf-rider. In this connection see note *o*,
-[p. 36](ulh09.htm#page_36).
+[p. 36](ulh09.htm#page_36.md).
 
-<span id="fn_148"></span>[63:a](ulh13.htm#fr_149) *Hale-kai*. A wild
+<span id="fn_148"></span>[63:a](ulh13.htm#fr_149.md) *Hale-kai*. A wild
 mountain glen back of Hanalei valley, Kauai.
 
-<span id="fn_149"></span>[63:b](ulh13.htm#fr_150) *Ma’alewa*. An aerial
+<span id="fn_149"></span>[63:b](ulh13.htm#fr_150.md) *Ma’alewa*. An aerial
 root that formed a sort of ladder by which one climbed the mountain
 steeps; literally a shaking sling.
 
-<span id="fn_150"></span>[63:c](ulh13.htm#fr_151) *Moana-nui-ka-lehua*.
+<span id="fn_150"></span>[63:c](ulh13.htm#fr_151.md) *Moana-nui-ka-lehua*.
 A female demigod that came from the South (*Ku-kulu-o-Kahiki*) at about
 the same mythical period as that of Pele's arrival--if not in her
 company--and who was put in charge of a portion of the channel that lies
@@ -999,44 +999,44 @@ Ordinarily she appeared as a powerful fish, but she was capable of
 assuming the form of a beautiful woman (mermaid?). The title *lehua* was
 given her on account of her womanly charms.
 
-<span id="fn_151"></span>[63:d](ulh13.htm#fr_152) *Mali’o*. Apparently
+<span id="fn_151"></span>[63:d](ulh13.htm#fr_152.md) *Mali’o*. Apparently
 another form of the word *malino*, calm; at any rate it has the same
 meaning.
 
-<span id="fn_152"></span>[63:e](ulh13.htm#fr_153) *Lehua*. An allusion
+<span id="fn_152"></span>[63:e](ulh13.htm#fr_153.md) *Lehua*. An allusion
 to the ill-fated young woman Hopoe, who was Hiiaka's intimate friend.
 The allusion is amplified in the next line.
 
-<span id="fn_153"></span>[63:f](ulh13.htm#fr_154) *Hopoe-lehua*. The
+<span id="fn_153"></span>[63:f](ulh13.htm#fr_154.md) *Hopoe-lehua*. The
 lehua tree was one of the forms in which Hopoe appeared, and after her
 death, due to the jealous rage of Pele, she was turned into a charred
 lehua tree which stood on the coast subject to the beating of the surf.
 
-<span id="fn_154"></span>[63:g](ulh13.htm#fr_155) *Maka’u ka lehua i ke
+<span id="fn_154"></span>[63:g](ulh13.htm#fr_155.md) *Maka’u ka lehua i ke
 kanaka*. Another version has it *Maka’u ke kanaka i ka lehua*; Man fears
 the lehua. The form here used is perhaps an ironical allusion to man's
 fondness not only to despoil the tree of its scarlet flowers, but
 womanhood, the woman it represented.
 
-<span id="fn_155"></span>[63:h](ulh13.htm#fr_156) *Kea-au*. Often
+<span id="fn_155"></span>[63:h](ulh13.htm#fr_156.md) *Kea-au*. Often
 shortened in pronunciation to *Ke-au*, a fishing village in Puna near
 Hilo town. It now has a landing place for small vessels.
 
-<span id="fn_156"></span>[64:a](ulh13.htm#fr_157) *Hoolono*. To call, to
+<span id="fn_156"></span>[64:a](ulh13.htm#fr_157.md) *Hoolono*. To call, to
 make an uproar, to spread a report.
 
-<span id="fn_157"></span>[64:b](ulh13.htm#fr_158) *Ia hoo-nee-nee ia
+<span id="fn_157"></span>[64:b](ulh13.htm#fr_158.md) *Ia hoo-nee-nee ia
 pili mai*. A very peculiar figure of speech. It is as if the poet
 personified the act of two lovers snuggling up close to each other.
 Compare with this the expression No huli mai, used by another poet in
-the thirteenth line of the lyric given on [p. 204](ulh29.htm#page_204).
+the thirteenth line of the lyric given on [p. 204](ulh29.htm#page_204.md).
 The motive is the same in each case.
 
-<span id="fn_158"></span>[65:a](ulh13.htm#fr_159) *Hi’u-o-lani*. A very
+<span id="fn_158"></span>[65:a](ulh13.htm#fr_159.md) *Hi’u-o-lani*. A very
 blind phrase. Hawaiians disagree as to its meaning. In the author's
 opinion, it is a word referring to the conjurer's art.
 
-<span id="fn_159"></span>[65:b](ulh13.htm#fr_160) *Ua o Hilo*. Hilo is a
+<span id="fn_159"></span>[65:b](ulh13.htm#fr_160.md) *Ua o Hilo*. Hilo is a
 very rainy country. The name Hilo seems to be used here as almost a
 synonym of violent rain. It calls to mind the use of the word Hilo to
 signify a strong wind:
@@ -1044,7 +1044,7 @@ signify a strong wind:
 <div style="margin-left: 32px">
 
 Pa mai, pa mai.  
-Ka makani a Hilo! <span id="fr_166"></span>[1](#fn_165)  
+Ka makani a Hilo! <span id="fr_166"></span>[1](#fn_165.md)  
 Waiho ka ipu iki,  
 Homai ka ipu nui!
 
@@ -1060,20 +1060,20 @@ Bring on the big one!
 
 </div>
 
-<span id="fn_160"></span>[65:c](ulh13.htm#fr_161) *Pua-lani*. The name
+<span id="fn_160"></span>[65:c](ulh13.htm#fr_161.md) *Pua-lani*. The name
 of a deity who took the form of the rosy clouds of morning.
 
-<span id="fn_161"></span>[65:d](ulh13.htm#fr_162) *Mahele ana*.
+<span id="fn_161"></span>[65:d](ulh13.htm#fr_162.md) *Mahele ana*.
 Literally the dividing; an allusion to the fact, it is said, that in
 Hilo a rain-cloud, or rain-squall, as it came up would often divide and
 a part of it turn off toward Puna at the cape named Lele-iwi, one-half
 watering, in the direction of the present town, the land known as
 Hana-kahi.
 
-<span id="fn_162"></span>[65:e](ulh13.htm#fr_163) *Huna-kahi*. Look at
-note f, [p. 60](#page_60).
+<span id="fn_162"></span>[65:e](ulh13.htm#fr_163.md) *Huna-kahi*. Look at
+note f, [p. 60](#page_60.md).
 
-<span id="fn_163"></span>[65:f](ulh13.htm#fr_164) *Mauna-ole*. According
+<span id="fn_163"></span>[65:f](ulh13.htm#fr_164.md) *Mauna-ole*. According
 to one authority this should be Mauna-Hilo. Verses 13, 14, 16, and 17
 are difficult of translation. The play on the words *ku a*, standing at,
 or standing by, and *kua*, the back; also on the word *kowa*, a gulf or
@@ -1081,106 +1081,106 @@ strait; and the repetition of the word *mauna*, mountain--all this is
 carried to such an extent as to be quite unintelligible to the
 Anglo-Saxon mind, though full of significance to a Hawaiian.
 
-<span id="fn_164"></span>[65:g](ulh13.htm#fr_165) *A’e*. A strong wind
+<span id="fn_164"></span>[65:g](ulh13.htm#fr_165.md) *A’e*. A strong wind
 that prevails in Ka-u. The some word also means to step on, to climb.
 This double-meaning gives the poet opportunity for a euphuistic
 word-play that was much enjoyed by the Hawaiians. The Hawaiians of the
 present day are not quite up to this sort of logomachy.
 
-<span id="fn_165"></span>[65:1](ulh13.htm#fr_166) *Hilo*, or Whiro, as
+<span id="fn_165"></span>[65:1](ulh13.htm#fr_166.md) *Hilo*, or Whiro, as
 in the Maori, was a great navigator.
 
-<span id="fn_166"></span>[66:a](ulh13.htm#fr_167) *Kaili-ki’i*. The
+<span id="fn_166"></span>[66:a](ulh13.htm#fr_167.md) *Kaili-ki’i*. The
 promontory that shelters the cove *Ka-hewa-hewa*.
 
-<span id="fn_167"></span>[66:b](ulh13.htm#fr_168) *Ka-hea-hea*. The name
+<span id="fn_167"></span>[66:b](ulh13.htm#fr_168.md) *Ka-hea-hea*. The name
 of the cove *Ka-hewa-hewa*, above mentioned, is here given in a softened
 form obtained by the elision of the letter *w*.
 
-<span id="fn_168"></span>[67:a](ulh13.htm#fr_170) *Koa’e-kea*, *Pueo
+<span id="fn_168"></span>[67:a](ulh13.htm#fr_170.md) *Koa’e-kea*, *Pueo
 hulu-nui*. Steep declivities, *pali*, on the side of Waipio valley,
 Hawaii. Instead of inserting these names, which would be meaningless
 without an explanation, the author has given a literal translation of
 the names themselves, thus getting a closer insight into the Hawaiian
 thought.
 
-<span id="fn_169"></span>[67:b](ulh13.htm#fr_171) *A’e*. The precipices
+<span id="fn_169"></span>[67:b](ulh13.htm#fr_171.md) *A’e*. The precipices
 rise one above another like the steps of a stairway, climbing, climbing
 up, though the probable intent of the poet is to represent some one as
 climbing the ascent.
 
-<span id="fn_170"></span>[67:c](ulh13.htm#fr_172) *Ha’i*. Short for
+<span id="fn_170"></span>[67:c](ulh13.htm#fr_172.md) *Ha’i*. Short for
 *Ha’ina-kolo*; a woman about whom there is a story of tragic adventure.
 Through eating when famished of some berries in an unceremonious way she
 became distraught and wandered about for many months until discovered by
 the persistent efforts of her husband. The pali which she climbed was
 named after her.
 
-<span id="fn_171"></span>[67:d](ulh13.htm#fr_173) *Maka’u-kiu*. The name
+<span id="fn_171"></span>[67:d](ulh13.htm#fr_173.md) *Maka’u-kiu*. The name
 of a famous huge shark that was regarded with reverential fear.
 
-<span id="fn_172"></span>[67:e](ulh13.htm#fr_174) *Pohaku lele*. In
+<span id="fn_172"></span>[67:e](ulh13.htm#fr_174.md) *Pohaku lele*. In
 order to determine whether a shark was present, it was the custom,
 before going into the clear water of some of these coves, to throw rocks
 into the water in order to disturb the monster and make his presence
 known.
 
-<span id="fn_173"></span>[68:a](ulh13.htm#fr_176) *Big-leaf*. A literal
+<span id="fn_173"></span>[68:a](ulh13.htm#fr_176.md) *Big-leaf*. A literal
 translation of *Lau-nui*. *Laupahoehoe*, Flat-leaf.
 
-<span id="fn_174"></span>[68:b](ulh13.htm#fr_177) *Hole*. To rasp, to
+<span id="fn_174"></span>[68:b](ulh13.htm#fr_177.md) *Hole*. To rasp, to
 handle rudely, to caress passionately. Waimea is a district and village
 on Hawaii.
 
-<span id="fn_175"></span>[68:c](ulh13.htm#fr_178) *Kipu’u-pu’u*. A cold
+<span id="fn_175"></span>[68:c](ulh13.htm#fr_178.md) *Kipu’u-pu’u*. A cold
 wind from Mauna-Kea that blows at Waimea.
 
-<span id="fn_176"></span>[68:d](ulh13.htm#fr_179) *Mahiki*. A woodland
+<span id="fn_176"></span>[68:d](ulh13.htm#fr_179.md) *Mahiki*. A woodland
 in Waimea, in mythological times haunted by demons and spooks.
 
-<span id="fn_177"></span>[68:e](ulh13.htm#fr_180) *Mala-nai*. The
+<span id="fn_177"></span>[68:e](ulh13.htm#fr_180.md) *Mala-nai*. The
 poetical name of a wind, probably the trade wind; a name much used in
 Hawaiian sentimental poetry.
 
-<span id="fn_178"></span>[68:f](ulh13.htm#fr_181) *Oha-wai*. A water
+<span id="fn_178"></span>[68:f](ulh13.htm#fr_181.md) *Oha-wai*. A water
 hole that is filled by dripping; an important source of supply for
 drinking purposes in certain parts of Hawaii.
 
-<span id="fn_179"></span>[68:g](ulh13.htm#fr_182) *Pua o Koaie*. The
+<span id="fn_179"></span>[68:g](ulh13.htm#fr_182.md) *Pua o Koaie*. The
 koaie is a tree that grows in the wilds, the blossom of which is
 extremely fragrant. (Not the same as that subspecies of the *koa*
 (Acacia koa) which Hillebrand describes and wrongly spells *koaia*. Here
 a euphemism for the delicate parts.)
 
-<span id="fn_180"></span>[68:h](ulh13.htm#fr_183) *Koolau*, or, full
+<span id="fn_180"></span>[68:h](ulh13.htm#fr_183.md) *Koolau*, or, full
 form, *Ko-koo-lau*. Described by Doctor Hillebrand as *Kokolau*, a wrong
 spelling. It has a pretty yellow flower, a yellow eye--*maka lena*--as
 the song has it. Here used tropically. (This is the plant whose leaf is
 sometimes used as a substitute for tea.)
 
-<span id="fn_181"></span>[68:i](ulh13.htm#fr_184) *Moolau*. An
+<span id="fn_181"></span>[68:i](ulh13.htm#fr_184.md) *Moolau*. An
 expression used figuratively to mean a woman, more especially her
 breasts. The term *huli-lau* is also used, in a slang way, to signify
 the breasts of a woman, the primitive meaning being a calabash.
 
-<span id="fn_182"></span>[68:j](ulh13.htm#fr_185) *Pili*. To touch;
+<span id="fn_182"></span>[68:j](ulh13.htm#fr_185.md) *Pili*. To touch;
 touched. This was the word used in the forfeit-paying love game, *kilu*,
 when the player made a point by hitting the target of his opponent with
 his *kilu*. (For further description see p. 235.)
 
-<span id="fn_183"></span>[70:a](ulh13.htm#fr_186) *Po-lolo*. A secret
+<span id="fn_183"></span>[70:a](ulh13.htm#fr_186.md) *Po-lolo*. A secret
 word, like a cipher, made up for the occasion and compounded of two
 words, *po*, night, and *loloa*, long, the final *a* of *loloa* being
 dropped. This form of speech was called *kepakepa*, and was much used by
 the Hawaiians in old times.
 
-<span id="fn_184"></span>[70:b](ulh13.htm#fr_187) *Ulu-mano*. A violent
+<span id="fn_184"></span>[70:b](ulh13.htm#fr_187.md) *Ulu-mano*. A violent
 wind which blows by night only on the western side of Hawaii. Kamehameha
 with a company of men was once wrecked by this wind off Nawawa; a whole
 village was burned to light them ashore. (*Dictionary of the Hawaiian
 Language*, by Lorrin Andrews.)
 
-<span id="fn_185"></span>[70:c](ulh13.htm#fr_188) *Walu-ihe a ke A’e*.
+<span id="fn_185"></span>[70:c](ulh13.htm#fr_188.md) *Walu-ihe a ke A’e*.
 The A’e is a violent wind that is described as blowing from different
 points of the compass in succession; a circular storm. *Walu-ihe*--eight
 spears--was a name applied to this same wind during a certain portion of
@@ -1189,13 +1189,13 @@ observed by the Hawaiians. It was well fitted, therefore, to serve as a
 figure descriptive of eight different lovers, who follow each other in
 quick succession in the favors of the same wanton.
 
-<span id="fn_186"></span>[70:d](ulh13.htm#fr_189) *Ho-li’o*. The name of
+<span id="fn_186"></span>[70:d](ulh13.htm#fr_189.md) *Ho-li’o*. The name of
 a wind, but of an entirely different character from those above
 mentioned.
 
-<span id="fn_187"></span>[70:e](ulh13.htm#fr_190) *Hana-kahi*. (See note
-f, [p. 60](#page_60).)
+<span id="fn_187"></span>[70:e](ulh13.htm#fr_190.md) *Hana-kahi*. (See note
+f, [p. 60](#page_60)..md)
 
 ------------------------------------------------------------------------
 
-[Next: X.--The Hula Pa-ípu, Or Kuólo](ulh14)
+[Next: X.--The Hula Pa-ípu, Or Kuólo](ulh14.md)

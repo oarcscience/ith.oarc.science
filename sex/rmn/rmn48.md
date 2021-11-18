@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn47)  [Next](rmn49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn47)  [Next](rmn49.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Under the bed may be observed a stool.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XLVIII: Spinthria](rmn49)
+[Next: Plate XLVIII: Spinthria](rmn49.md)

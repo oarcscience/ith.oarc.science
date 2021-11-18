@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Images](imglist)  [Index](index)  [Previous](igj04)  [Next](igj06) 
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Images](imglist)  [Index](index)  [Previous](igj04)  [Next](igj06.md) 
 
 ------------------------------------------------------------------------
 
@@ -401,7 +401,7 @@ where the party was held. It is the
 
 {p. 37}
 
-![Record of a Kô-Kwai](img/03700.jpg)
+![Record of a Kô-Kwai](img/03700.jpg.md)
 
 {p. 38}
 
@@ -540,7 +540,7 @@ pronunciation, *Hangon-kô*), or "Spirit-Recalling-Incense;" and it was
 made in Tso-Chau, or the District of the Ancestors, situated by the
 Eastern Sea. To summon the ghost of any dead person--or
 
-![The Magical Incense](img/04300.jpg)  
+![The Magical Incense](img/04300.jpg.md)  
 THE MAGICAL INCENSE
 
 {p. 43}
@@ -609,4 +609,4 @@ smoke of incense.
 
 ------------------------------------------------------------------------
 
-[Next: A Story of Divination](igj06)
+[Next: A Story of Divination](igj06.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](fotc35)  [Next](fotc37) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](fotc35)  [Next](fotc37.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Feuds of the Clans*, by Alexander MacGregor, \[1907\], at
 Intangible Textual Heritage
 
@@ -92,4 +92,4 @@ doubtless, tend to the peace and quiet of these parts of the kingdom.
 
 ------------------------------------------------------------------------
 
-[Next: The Spanish Blanks, and What Follows Thereupon](fotc37)
+[Next: The Spanish Blanks, and What Follows Thereupon](fotc37.md)

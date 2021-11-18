@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index)  [EHH
-Index](../ehh)  [Index](index)  [Previous](ehh06)  [Next](ehh08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md)  [EHH
+Index](../ehh)  [Index](index)  [Previous](ehh06)  [Next](ehh08.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,4 +193,4 @@ p. 85), and to them has Amentet been given as an abode.
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. Second Division of the Tuat. I. The Kingdom of
-Khenti-Amenti-Osiris According to the Book Am-Tuat](ehh08)
+Khenti-Amenti-Osiris According to the Book Am-Tuat](ehh08.md)

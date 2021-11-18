@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](fiwa07)  [Next](fiwa09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](fiwa07)  [Next](fiwa09.md) 
 
 ------------------------------------------------------------------------
 
@@ -520,4 +520,4 @@ souvenirs.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: The Fetich--A Worship](fiwa09)
+[Next: Chapter VII: The Fetich--A Worship](fiwa09.md)

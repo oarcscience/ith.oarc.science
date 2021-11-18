@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma18)  [Next](sma20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma18)  [Next](sma20.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -67,7 +67,7 @@ the highest families, it became the custom to require the payment of a
 large fee on admission.
 
 It was necessary that the candidate for admission among the knights of
-the Temple should already be [a](errata.htm#16) knight; for as
+the Temple should already be [a](errata.htm#16.md) knight; for as
 knighthood was a secular honour, the order would have regarded it as
 derogating from its dignity if any of its members were to receive it.
 The Hospitaliers and Teutonic knights thought differently, and with them
@@ -116,7 +116,7 @@ arms, that is, usually in the twenty-first year of their age.
 The reception of a knight took place in one of the chapels of the order,
 in presence of the assembled chapter. It was secret, not even the
 relatives of the candidate being allowed to be present. The ceremony
-commenced by the Master <span id="fr_78"></span>[\*](#fn_78) or prior,
+commenced by the Master <span id="fr_78"></span>[\*](#fn_78.md) or prior,
 who presided. saying, "Beloved brethren, ye see that the majority are
 agreed to receive this man as a brother. If there be any among you who
 knows any thing of him, on account of which he cannot lawfully become a
@@ -153,7 +153,7 @@ Lady, to admit me into your society, and the good deeds of the order, as
 one who will be, all his life long, the servant and slave of the order."
 The receptor then replied, "Beloved brother, you are desirous of a great
 matter, for you see nothing but the outward shell of our order.
-[It](errata.htm#17) is only the outward shell when you see that we have
+[It](errata.htm#17.md) is only the outward shell when you see that we have
 fine horses and rich caparisons, that we eat and drink well, and are
 splendidly clothed. From this you conclude that you will be well off
 with us. But you know not the rigorous maxims which are in our interior.
@@ -168,7 +168,7 @@ possessions. When you will wish to sleep you will be ordered to watch;
 when you will wish to watch, then you will be ordered to go to bed; when
 you will wish to eat, then you will be ordered to do something else. And
 as both we and you might suffer great inconvenience from
-[what](errata.htm#18) you have, mayhap, concealed from us, look here
+[what](errata.htm#18.md) you have, mayhap, concealed from us, look here
 
 <span id="page_226">p. 226</span>
 
@@ -214,7 +214,7 @@ for stronger or weaker,
 <span id="page_227">p. 227</span>
 
 for better or worse, than with permission of the Master, or of the
-chapter which has the authority <span id="fr_79"></span>[\*](#fn_79)?"
+chapter which has the authority <span id="fr_79"></span>[\*](#fn_79.md)?"
 
 "Yea, Sir, with the help of God!"
 
@@ -287,7 +287,7 @@ and was treated with the utmost respect and consideration.
 
 <span id="img_22900"></span> <span align="CENTER"> [![Costume of Knight
 Templar.](tn/22900.jpg)  
-Click to enlarge](img/22900.jpg)  
+Click to enlarge](img/22900.jpg.md)  
 Costume of Knight Templar.  
 </span>
 
@@ -334,7 +334,7 @@ clergy was the same as that of the knights, with the omission
 
 <span id="img_23100"></span> <span align="CENTER"> [![Knights in Temple
 Church, London.](tn/23100.jpg)  
-Click to enlarge](img/23100.jpg)  
+Click to enlarge](img/23100.jpg.md)  
 Knights in Temple Church, London.  
 </span>
 
@@ -346,7 +346,7 @@ Knights in Temple Church, London.
 
 <span id="img_23200"></span> <span align="CENTER"> [![Effigies of
 Knights in Temple Church, London.](tn/23200.jpg)  
-Click to enlarge](img/23200.jpg)  
+Click to enlarge](img/23200.jpg.md)  
 Effigies of Knights in Temple Church, London.  
 </span>
 
@@ -394,7 +394,7 @@ though it was specially provided that the clergy should take no share in
 the government of the society without being invited thereto by their
 superiors, the opinion of the secretary was naturally taken in general,
 and if he was a man of sense and talent, it was most commonly
-followed <span id="fr_80"></span>[\*](#fn_80).
+followed <span id="fr_80"></span>[\*](#fn_80.md).
 
 The duties of the clergy of the order were nearly the same as those of
 monks in general. They performed all religious offices, and officiated
@@ -521,7 +521,7 @@ to be present at chapters. The
 farrier, who was also armourer, enjoyed a much higher degree of
 consideration than the other handicraft-brethren, for this profession
 was highly prized by the martial generation of the middle ages <span
-id="fr_81"></span>[\*](#fn_81).
+id="fr_81"></span>[\*](#fn_81.md).
 
 The other class were more highly regarded. The knights associated with
 them on a footing of equality. They ate in the same refectory with the
@@ -634,23 +634,23 @@ found among the oblates of the Temple.
 
 ### Footnotes
 
-<span id="fn_78"></span>[224:\*](sma19.htm#fr_78) When we use the word
+<span id="fn_78"></span>[224:\*](sma19.htm#fr_78.md) When we use the word
 "Master," we would always be understood to mean the Master or his
 representative.
 
-<span id="fn_79"></span>[227:\*](sma19.htm#fr_79) That is. never to quit
+<span id="fn_79"></span>[227:\*](sma19.htm#fr_79.md) That is. never to quit
 the order.
 
-<span id="fn_80"></span>[234:\*](sma19.htm#fr_80) This influence of the
+<span id="fn_80"></span>[234:\*](sma19.htm#fr_80.md) This influence of the
 clergy excited the spleen of the knights. Gerard de Caux, in his
 examination hereafter to be noticed, said, "The aged men of the order
 were unanimous in maintaining that the order had gained nothing in
 *internal* goodness by the admission of learned members."
 
-<span id="fn_81"></span>[238:\*](sma19.htm#fr_81) Sir W. Scott is
+<span id="fn_81"></span>[238:\*](sma19.htm#fr_81.md) Sir W. Scott is
 perfectly correct in making the smith so important a character in his
 St. Valentine's Eve.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI](sma20)
+[Next: Chapter VI](sma20.md)

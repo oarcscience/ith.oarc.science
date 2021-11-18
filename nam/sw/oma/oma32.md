@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma31)  [Next](oma33) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma31)  [Next](oma33.md) 
 
 ------------------------------------------------------------------------
 
@@ -210,7 +210,7 @@ pp. 17-192.
 Assoc., No. 43.
 
 1942\. New material from Acoma. Bur. Amer. Ethnol. Bull. 136, Anthrop.
-Pap. 33. <span id="fr_240"></span>[1](#fn_240)
+Pap. 33. <span id="fr_240"></span>[1](#fn_240.md)
 
 MS. The Pueblo of Sia.
 
@@ -227,8 +227,8 @@ WINSHIP, GEORGE PARKER
 
 ### Footnotes
 
-<span id="fn_240"></span>[117:1](oma32.htm#fr_240) In press.
+<span id="fn_240"></span>[117:1](oma32.htm#fr_240.md) In press.
 
 ------------------------------------------------------------------------
 
-[Next: Explanation of Plates](oma33)
+[Next: Explanation of Plates](oma33.md)

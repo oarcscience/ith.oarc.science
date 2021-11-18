@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](cob01)  [Next](cob03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](cob01)  [Next](cob03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G99O9G/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Creed of Buddha*, by Edmond Holmes, \[1919\], at Intangible Textual
 Heritage
 
@@ -25,15 +25,15 @@ Heritage
 
 |      |                                   |                           |
 |------|-----------------------------------|---------------------------|
-| I    | EAST AND WEST                     | [1](cob03.htm#page_1)     |
-| II   | THE WISDOM OF THE EAST            | [20](cob04.htm#page_20)   |
-| III  | THE PATH OF LIFE                  | [42](cob05.htm#page_42)   |
-| IV   | THE TEACHING OF BUDDHA            | [60](cob06.htm#page_60)   |
-| V    | A MISREADING OF BUDDHA            | [98](cob07.htm#page_98)   |
-| VI   | THE SILENCE OF BUDDHA             | [135](cob08.htm#page_135) |
-| VII  | THE SECRET OF BUDDHA              | [158](cob09.htm#page_158) |
-| VIII | THE BANKRUPTCY OF WESTERN THOUGHT | [203](cob10.htm#page_203) |
-| IX   | LIGHT FROM THE EAST               | [231](cob11.htm#page_231) |
+| I    | EAST AND WEST                     | [1](cob03.htm#page_1.md)     |
+| II   | THE WISDOM OF THE EAST            | [20](cob04.htm#page_20.md)   |
+| III  | THE PATH OF LIFE                  | [42](cob05.htm#page_42.md)   |
+| IV   | THE TEACHING OF BUDDHA            | [60](cob06.htm#page_60.md)   |
+| V    | A MISREADING OF BUDDHA            | [98](cob07.htm#page_98.md)   |
+| VI   | THE SILENCE OF BUDDHA             | [135](cob08.htm#page_135.md) |
+| VII  | THE SECRET OF BUDDHA              | [158](cob09.htm#page_158.md) |
+| VIII | THE BANKRUPTCY OF WESTERN THOUGHT | [203](cob10.htm#page_203.md) |
+| IX   | LIGHT FROM THE EAST               | [231](cob11.htm#page_231.md) |
 
 </div>
 
@@ -41,4 +41,4 @@ Heritage
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I. East and West](cob03)
+[Next: Chapter I. East and West](cob03.md)

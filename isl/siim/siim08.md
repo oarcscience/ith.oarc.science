@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](siim07)  [Next](siim09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](siim07)  [Next](siim09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548805903/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Studies in Islamic Mysticism*, by Reynold A. Nicholson, \[1921\], at
 Intangible Textual Heritage
 
@@ -19,17 +19,17 @@ Intangible Textual Heritage
 
 The Absolute Essence (*Dhát*), or the Essence of God, is that to which
 names and attributes belong in their real nature, not as they appear in
-existence <span id="fr_247"></span>[1](#fn_247). It denotes the self
+existence <span id="fr_247"></span>[1](#fn_247.md). It denotes the self
 (*nafs*) of God whereby He exists, for He is self-subsistent. It is
 endowed with all the names and ideas which His perfection demands.
 Amongst these are infinity and incomprehensibility. No words can express
 or hint what the Essence is, since it has no opposite or like. In its
 absoluteness it annuls all the contradictions which, as the universal
 ground of individualisation, it includes <span
-id="fr_248"></span>[2](#fn_248).
+id="fr_248"></span>[2](#fn_248.md).
 
 I am convinced that It (the Essence) is non-existence, since by
-existence It was manifested <span id="fr_249"></span>[3](#fn_249).  
+existence It was manifested <span id="fr_249"></span>[3](#fn_249.md).  
 Thought hath beheld It from afar as a power exerting itself in
 existence.  
 It is not other than a wall, wherein is set for thee a store of
@@ -42,12 +42,12 @@ assumes), while to that body It is a spirit, that thou mayst regard it
 <span id="page_90">p. 90</span>
 
 God made Its comeliness (*ḥusn*) complete <span
-id="fr_250"></span>[1](#fn_250), and by the beauty (*jamál*) of God It
+id="fr_250"></span>[1](#fn_250), and by the beauty (*jamál*.md) of God It
 became celebrated (known to all).  
 It never subsisted (as an object) but in thee alone <span
-id="fr_251"></span>[2](#fn_251): perceive the Word (*Amr*) <span
-id="fr_252"></span>[3](#fn_252), that thou mayst see its diverse
-forms <span id="fr_253"></span>[4](#fn_253).
+id="fr_251"></span>[2](#fn_251): perceive the Word (*Amr*.md) <span
+id="fr_252"></span>[3](#fn_252.md), that thou mayst see its diverse
+forms <span id="fr_253"></span>[4](#fn_253.md).
 
 I am the existent and the non-existent and the naughted and the
 everlasting.  
@@ -60,17 +60,17 @@ Do not suppose thyself different from me or deem thyself the eye of my
 eye-corners.  
 \*     \*     \*     \*     \*     \*  
 And say, "That am I, yet in respect of my qualities and natural
-dispositions That I am not <span id="fr_254"></span>[5](#fn_254)."
+dispositions That I am not <span id="fr_254"></span>[5](#fn_254.md)."
 
 Jílí defines the attribute (*ṣifat*) of a thing as that which conveys
 knowledge of its state to the understanding <span
-id="fr_255"></span>[6](#fn_255). The attributes of the Essence are the
+id="fr_255"></span>[6](#fn_255.md). The attributes of the Essence are the
 forms of thought by which it is manifested and made known. In the world
 of appearance we distinguish the forms from the reality underlying them,
 but the distinction is not ultimate: the attributes in their real nature
 are identical with the Essence which manifests itself as "other,"
 *i.e.*, under the aspect of externality, to our perceptions <span
-id="fr_256"></span>[7](#fn_256). What is called in theology the creation
+id="fr_256"></span>[7](#fn_256.md). What is called in theology the creation
 of the world is just this manifestation, accompanied by division and
 plurality, of the Essence as the attributes, or of Being as the object
 of thought; and in reality the Essence is the attributes (*al-Dhát ‘aynu
@@ -83,7 +83,7 @@ translate part of the
 
 <span class="contnote">\[paragraph continues\]</span> 57th chapter,
 "Concerning thought (*khayál*), how it is the material (*hayúlá*, ὕλη)
-of the Cosmos <span id="fr_257"></span>[1](#fn_257)."
+of the Cosmos <span id="fr_257"></span>[1](#fn_257.md)."
 
 Thought is the life of the spirit of the universe: it is the foundation
 of that life, and its (Thought's) foundation is Man.  
@@ -100,7 +100,7 @@ And likewise, to him that knows the truth, the worlds of *malakút* and
 *jabarút*, and the divine nature (*láhút*) and the human nature
 (*násút*).  
 Do not despise the rank of Thought, for it is the very gist of the
-notion <span id="fr_258"></span>[2](#fn_258) of the Being who disposes
+notion <span id="fr_258"></span>[2](#fn_258.md) of the Being who disposes
 all.
 
 <span class="small">Know that Thought is the origin of existence and is
@@ -165,20 +165,20 @@ more than you can perceive and know the qualities latent in yourself,
 
 which are only visible in their effects. Consequently it may be said
 that the Essence is imperceptible, in the sense of its being identical
-with the attributes <span id="fr_259"></span>[1](#fn_259).
+with the attributes <span id="fr_259"></span>[1](#fn_259.md).
 
 The name (*ism*) objectifies the named (*musammá*) in the understanding,
 pictures it in the mind, presents it to the judgment, moves it in
-reflection and keeps it in memory <span id="fr_260"></span>[2](#fn_260).
+reflection and keeps it in memory <span id="fr_260"></span>[2](#fn_260.md).
 It serves to make unknown things known; therefore, its relation to the
 named is that of the outward to the inward, and in this respect it is
 identical with the named. Some things exist in name and not otherwise;
-thus, the existence of the *‘Anqá* <span id="fr_261"></span>[1](#fn_259)
+thus, the existence of the *‘Anqá* <span id="fr_261"></span>[1](#fn_259.md)
 is entirely nominal: the "named" in this case is not-being. God, on the
 contrary, is real Being; and just as our knowledge of the *‘Anqá* is
 derived from its name, so we reach knowledge of God through the name
 Allah, in which all the Divine names and attributes are comprised <span
-id="fr_262"></span>[3](#fn_261).
+id="fr_262"></span>[3](#fn_261.md).
 
 <span class="small">God made this name a mirror for man, so that when he
 looks in it, he knows the true meaning of "God was and there was naught
@@ -188,7 +188,7 @@ life God's life, his knowledge God's knowledge, his will God's will, and
 his power God's power, and that God possesses all these attributes
 fundamentally; and then he knows that all the aforesaid qualities are
 borrowed and metaphorically applied to himself, whereas they really
-belong to God <span id="fr_263"></span>[4](#fn_262).</span>
+belong to God <span id="fr_263"></span>[4](#fn_262.md).</span>
 
 The Divine names are either names of the Essence, *e.g.*, *al-Aḥad* (the
 One), or names of the attributes, *e.g.*, *al-Raḥmán* (the Merciful),
@@ -197,44 +197,44 @@ transcends relationship—brings forth the effect (*athar*) inherent in
 that particular aspect of the Essence of which it is, so to speak, the
 embodiment. Good and evil, faith and infidelity, all mundane life,
 thought, feeling, and action proceed inevitably from the Divine
-names <span id="fr_264"></span>[5](#fn_263).
+names <span id="fr_264"></span>[5](#fn_263.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_247"></span>[89:1](siim08.htm#fr_247) K I. 18.
+<span id="fn_247"></span>[89:1](siim08.htm#fr_247.md) K I. 18.
 
-<span id="fn_248"></span>[89:2](siim08.htm#fr_248) Cf. the passage (I.
+<span id="fn_248"></span>[89:2](siim08.htm#fr_248.md) Cf. the passage (I.
 20, 23 foll.) translated on p. 83.
 
-<span id="fn_249"></span>[89:3](siim08.htm#fr_249) The concept of
+<span id="fn_249"></span>[89:3](siim08.htm#fr_249.md) The concept of
 existence involves non-existence as its logical complement. God, in
 virtue of His name, "the Outward" (*al-Ẓáhir*), is identical with all
 existing objects, while in virtue of His name, "the Inward" (*al-Báṭin*)
 He is non-existent externally. Cf. the saying of Hegel, "Being and
 not-Being are identical," *i.e.*, no distinctions are absolute.
 
-<span id="fn_250"></span>[90:1](siim08.htm#fr_250) Jamál denotes the
+<span id="fn_250"></span>[90:1](siim08.htm#fr_250.md) Jamál denotes the
 attribute of Divine Beauty, *ḥusn* its outward manifestation. Cf. Jílí's
 verse (in his *‘Ayniyya*):
 
 <span id="img_09000"></span> ![](img/09000.jpg)
 
-<span id="fn_251"></span>[90:2](siim08.htm#fr_251) In Man, the
+<span id="fn_251"></span>[90:2](siim08.htm#fr_251.md) In Man, the
 microcosm.
 
-<span id="fn_252"></span>[90:3](siim08.htm#fr_252) *I.e.* the Logos.
+<span id="fn_252"></span>[90:3](siim08.htm#fr_252.md) *I.e.* the Logos.
 
-<span id="fn_253"></span>[90:4](siim08.htm#fr_253) K I. 8, 18 foll.
+<span id="fn_253"></span>[90:4](siim08.htm#fr_253.md) K I. 8, 18 foll.
 
-<span id="fn_254"></span>[90:5](siim08.htm#fr_254) K I. 9, 11 foll.
+<span id="fn_254"></span>[90:5](siim08.htm#fr_254.md) K I. 9, 11 foll.
 
-<span id="fn_255"></span>[90:6](siim08.htm#fr_255) K I. 27, 26.
+<span id="fn_255"></span>[90:6](siim08.htm#fr_255.md) K I. 27, 26.
 
-<span id="fn_256"></span>[90:7](siim08.htm#fr_256) Cf. K I. 81, 2 foll.
+<span id="fn_256"></span>[90:7](siim08.htm#fr_256.md) Cf. K I. 81, 2 foll.
 
-<span id="fn_257"></span>[91:1](siim08.htm#fr_257) K II. 32, last line.
+<span id="fn_257"></span>[91:1](siim08.htm#fr_257.md) K II. 32, last line.
 *Khayál* is imaginal thought (phantasy). It includes all that is
 perceived by the mind in an ideal or material form. Mystics hold that
 God reveals Himself in five planes (*ḥaḍarát*): (1) the plane of the
@@ -244,21 +244,21 @@ sense and ocular vision. Each of these is a copy of the one above it, so
 that whatever appears in the sensible world is the symbol of an unseen
 reality. Cf. *Fuṣúṣ*, 110.
 
-<span id="fn_258"></span>[91:2](siim08.htm#fr_258) *Ḥaqíqa*, *i.e.*, the
+<span id="fn_258"></span>[91:2](siim08.htm#fr_258.md) *Ḥaqíqa*, *i.e.*, the
 attributes by which Pure Being is individualised.
 
-<span id="fn_259"></span>[93:1](siim08.htm#fr_261) K I. 28, 21 foll.
+<span id="fn_259"></span>[93:1](siim08.htm#fr_261.md) K I. 28, 21 foll.
 
-<span id="fn_260"></span>[93:2](siim08.htm#fr_260) K I. 21, 4 fr. foot.
+<span id="fn_260"></span>[93:2](siim08.htm#fr_260.md) K I. 21, 4 fr. foot.
 
-<span id="fn_261"></span>[93:3](siim08.htm#fr_262) Cf. the theory and
+<span id="fn_261"></span>[93:3](siim08.htm#fr_262.md) Cf. the theory and
 practice of *dhikr*. The doctrine that the "named" is revealed by means
 of the name, which is its obverse or outward self, has played a great
 part in Ṣúfism.
 
-<span id="fn_262"></span>[93:4](siim08.htm#fr_263) K I. 22, 20 foll.
+<span id="fn_262"></span>[93:4](siim08.htm#fr_263.md) K I. 22, 20 foll.
 
-<span id="fn_263"></span>[93:5](siim08.htm#fr_264) Cf. Ibnu ’l-‘Arabí's
+<span id="fn_263"></span>[93:5](siim08.htm#fr_264.md) Cf. Ibnu ’l-‘Arabí's
 definition of *ism* (*Ta‘rífát* of Jurjání, ed. by Flügel, p. 293) as
 "the Divine name that rules a passing state of mystical feeling <span
 id="page_94">p. 94</span> (*ḥál*)," and the definitions of terms like
@@ -268,4 +268,4 @@ p. 91 foll.
 
 ------------------------------------------------------------------------
 
-[Next: II. The Descent of the Absolute](siim09)
+[Next: II. The Descent of the Absolute](siim09.md)

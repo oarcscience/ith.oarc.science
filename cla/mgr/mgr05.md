@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mgr04)  [Next](mgr06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mgr04)  [Next](mgr06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00085N62Q/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ yet a girl she was called Child or Maiden, when married she was called
 Fullgrown, and, separated from her husband, she was called Chera, the
 desolate one, the Widow. She reflects, then, the three stages of a
 woman's life, but she reflects also the three seasons, for [in
-antiquity](errata.htm#1) the seasons were three, not four: spring,
+antiquity](errata.htm#1.md) the seasons were three, not four: spring,
 summer, winter; summer and autumn being regarded together as one season
 of fruit bearing. In the spring she is Child or Maiden, in summer and
 autumn she is Fullgrown, and in winter she is a Widow. Her winter
@@ -81,4 +81,4 @@ and the daughter of Hera, is but her younger aspect as maiden.
 
 ------------------------------------------------------------------------
 
-[Next: Athena (Minerva)](mgr06)
+[Next: Athena (Minerva)](mgr06.md)

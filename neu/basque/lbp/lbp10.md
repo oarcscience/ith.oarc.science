@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Basque](../index)  [Index](index) 
-[Previous](lbp09)  [Next](lbp11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Basque](../index)  [Index](index.md) 
+[Previous](lbp09)  [Next](lbp11.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Basque](../index)  [Index](index) 
 
 <span id="img_18500"></span> ![](img/18500.jpg)
 
-# THE SONG OF LAMIA. <span id="fr_17"></span>[1](#fn_17)
+# THE SONG OF LAMIA. <span id="fr_17"></span>[1](#fn_17.md)
 
 ### I.
 
@@ -179,7 +179,7 @@ ungrateful! There are few sons who, after losing their mothers, do not
 feel in the depths of their hearts the remorse of not having loved them
 as much as they deserved!
 
-Ignacio seemed to view with indifference the love [and](errata.htm#2)
+Ignacio seemed to view with indifference the love [and](errata.htm#2.md)
 the tender solicitude of his mother whom he treated with disaffection,
 which in the unreflecting age of eight was not a very guilty act, but
 which nevertheless gave signs of that ingratitude and coldness of heart
@@ -520,7 +520,7 @@ This brief dialogue concluded, the eyes of Prudencia, freed from the
 last earthly tear, shone with celestial joy because Prudencia was now
 one of the blessed, and no longer the earthly mother. And in an instant
 the strange vision disappeared from the sight of the nun of Saint
-[Bartholomew](errata.htm#3).
+[Bartholomew](errata.htm#3.md).
 
 <span id="page_204">p. 204</span>
 
@@ -573,9 +573,9 @@ for it in his exile.
 
 ### Footnotes
 
-<span id="fn_17"></span>[185:1](lbp10.htm#fr_17) *Lamia*. The Basque
+<span id="fn_17"></span>[185:1](lbp10.htm#fr_17.md) *Lamia*. The Basque
 water-nymph, or mermaid.
 
 ------------------------------------------------------------------------
 
-[Next: The Virgin of the Five Towns--Ballad](lbp11)
+[Next: The Virgin of the Five Towns--Ballad](lbp11.md)

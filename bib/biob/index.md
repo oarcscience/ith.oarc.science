@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE954/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](biob00)    [Page
-Index](pageidx)    [Text \[Zipped\]](biob.txt.gz)
+[Contents](#contents)    [Start Reading](biob00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](biob.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -43,14 +43,14 @@ worth reading whatever one's views on the Bible.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](biob00)  
-[Table of Contents](biob01)  
-[One. General Character](biob02)  
-[Two. The Authors](biob03)  
-[Three. The Conflict over Creed and Canon](biob04)  
-[Four The Bible Under Medievalism](biob05)  
-[Five. The Great Translations](biob06)  
-[Six. The Higher Criticism](biob07)  
-[Seven. The Bible and the Stream of Life](biob08)  
-[Index](biob09)  
-[About the Author](biob10)  
+<span id="contents"></span> [Title Page](biob00.md)  
+[Table of Contents](biob01.md)  
+[One. General Character](biob02.md)  
+[Two. The Authors](biob03.md)  
+[Three. The Conflict over Creed and Canon](biob04.md)  
+[Four The Bible Under Medievalism](biob05.md)  
+[Five. The Great Translations](biob06.md)  
+[Six. The Higher Criticism](biob07.md)  
+[Seven. The Bible and the Stream of Life](biob08.md)  
+[Index](biob09.md)  
+[About the Author](biob10.md)  

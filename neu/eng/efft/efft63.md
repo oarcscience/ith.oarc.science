@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](efft62)  [Next](efft64) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](efft62)  [Next](efft64.md) 
 
 ------------------------------------------------------------------------
 
-# THE GHOST OF ROSEWARNE.  <span id="fr_72"></span>[1](#fn_72)
+# THE GHOST OF ROSEWARNE.  <span id="fr_72"></span>[1](#fn_72.md)
 
 "EZEKIEL GROSSE, gent., attorney-at-law," bought the lands of Rosewarne
 from one of the De Rosewarnes, who had become involved in difficulties
@@ -222,9 +222,9 @@ obdurate matter or thing, and 'hirgorue' is a trumpet."
 
 ### Footnotes
 
-<span id="fn_72"></span>[1](efft63.htm#fr_72) Robert Hunt, *Popular
+<span id="fn_72"></span>[1](efft63.htm#fr_72.md) Robert Hunt, *Popular
 Romances of the West of England*, 1st series, p. 286.
 
 ------------------------------------------------------------------------
 
-[Next: The Lady with the Lantern](efft64)
+[Next: The Lady with the Lantern](efft64.md)

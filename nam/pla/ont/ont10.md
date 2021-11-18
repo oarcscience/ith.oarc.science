@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](ont09)  [Next](ont11) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](ont09)  [Next](ont11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002E9HLW0/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Old North Trail*, by Walter McClintock, \[1910\], at Intangible
 Textual Heritage
 
@@ -55,7 +55,7 @@ rode through rich
 
 <span id="img_11400"></span> <span align="CENTER"> [![MY ROCKY MOUNTAIN
 OUTFIT.](tn/11400.jpg)  
-Click to enlarge](img/11400.jpg)  
+Click to enlarge](img/11400.jpg.md)  
 MY ROCKY MOUNTAIN OUTFIT.  
 </span>
 
@@ -258,7 +258,7 @@ catching him.
 
 <span id="img_12100"></span> <span align="CENTER"> [![MY MOUNTAIN CAMP
 AFTER THE SNOWSTORM.](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)  
+Click to enlarge](img/12100.jpg.md)  
 MY MOUNTAIN CAMP AFTER THE SNOWSTORM.  
 </span>
 
@@ -305,7 +305,7 @@ heavenly world, gazing down upon the snowy
 PRAIRIES (ROCKIES IN THE DISTANCE).&lt;br&gt; “The broad prairie, with
 its flowers and long waving grass, had never seemed more
 beautiful.”](tn/12300.jpg)  
-Click to enlarge](img/12300.jpg)  
+Click to enlarge](img/12300.jpg.md)  
 SUNSET ON THE PRAIRIES (ROCKIES IN THE DISTANCE).  
 “The broad prairie, with its flowers and long waving grass, had never
 seemed more beautiful.”  
@@ -339,4 +339,4 @@ made a vow to the Beaver Medicine for the recovery of her sick child.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VIII. Winter On the Plains](ont11)
+[Next: Chapter VIII. Winter On the Plains](ont11.md)

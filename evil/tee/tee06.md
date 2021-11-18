@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](tee05)  [Next](tee07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](tee05)  [Next](tee07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024NL744/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Evil Eye*, by Frederick Thomas Elworthy, \[1895\], at Intangible
 Textual Heritage
 
@@ -46,7 +46,7 @@ say, represents power, and thereby the person of the Almighty Father.
 
 Even latter-day Puritans, "who are eager to banish the cross and the
 crucifix, with everything that has to them even a faint association with
-the terrible word idolatry, <span id="fr_192"></span>[182](#fn_192)
+the terrible word idolatry, <span id="fr_192"></span>[182](#fn_192.md)
 accept that most symbolic of romances, *The Pilgrim's Progress*, as a
 true exemplar of their special views," and thus provide the best
 possible evidence that no religious feeling worthy of the name will
@@ -55,7 +55,7 @@ intimately varied spiritual yearnings, for which there is no definite
 and rigidly accurate language.
 
 This love of symbol and the eagerness for its artistic use are said to
-be rapidly reviving <span id="fr_193"></span>[183](#fn_193)--a fact
+be rapidly reviving <span id="fr_193"></span>[183](#fn_193.md)--a fact
 which does but prove how history repeats itself, and that the primitive
 notions of mankind are constantly reasserting themselves; that we are
 but now readopting the methods which have prevailed intermittently
@@ -108,7 +108,7 @@ conventionalised like the symbol, so that certain representations always
 conveyed to the beholder the idea of a certain fact or event, or of some
 being, or personification; with this difference, that the *emblem*
 expressed more fully and distinctly, while the *symbol* only hinted at
-the idea conveyed. <span id="fr_194"></span>[184](#fn_194) To make what
+the idea conveyed. <span id="fr_194"></span>[184](#fn_194.md) To make what
 we mean more clear, the crucifix is an emblem, a dramatic representation
 of a great event, carrying with it all its history and consequences,
 while the simple cross is a symbol no less expressive, but yet conveying
@@ -143,7 +143,7 @@ being so represented. An ancient Roman believed that Juno would protect
 him against certain dangers; forthwith he paints or carves a peacock,
 her own bird, and is thus reminded of her. In theory he prays to her as
 often as he looks upon her symbol, while he honours or worships her by
-wearing it. <span id="fr_195"></span>[185](#fn_195)
+wearing it. <span id="fr_195"></span>[185](#fn_195.md)
 
 The practice, if not the belief, still survives amongst us.
 
@@ -157,12 +157,12 @@ Some years ago, in North Yorkshire, an old servant came to the house
 where I was, and found some peacocks' feathers above the mantelpiece in
 one of the bedrooms. She expressed her horror to the young ladies of the
 house, and said that they need never expect to be married if they kept
-such things for ornaments. <span id="fr_196"></span>[186](#fn_196)
+such things for ornaments. <span id="fr_196"></span>[186](#fn_196.md)
 
 <span id="page_120">p. 120</span>
 
 In Shropshire also it is believed to be very unlucky to bring peacocks'
-feathers into the house. <span id="fr_197"></span>[187](#fn_197)
+feathers into the house. <span id="fr_197"></span>[187](#fn_197.md)
 
 No doubt the belief that to keep peacocks' feathers is unlucky, comes
 from the ancient cult of Juno--her anger being in some way excited by
@@ -170,7 +170,7 @@ the plucking of the feathers of her favourite bird; while the idea that
 so long as they are kept in the house no suitors will come for the
 daughters, points to the old attribute of spite and jealousy in love or
 matrimonial matters, with which that goddess was always
-accredited. <span id="fr_198"></span>[188](#fn_198)
+accredited. <span id="fr_198"></span>[188](#fn_198.md)
 
 From keeping and using such objects or signs, as reminders of the
 worship due to the beings symbolised, the history of the word *symbol*
@@ -178,7 +178,7 @@ shows that it is but a very short step to the belief in the efficacy of
 the symbol itself, and hence we are led to the universal use of what
 have been of old called amulets.
 
-These are described <span id="fr_199"></span>[189](#fn_199) as "anything
+These are described <span id="fr_199"></span>[189](#fn_199.md) as "anything
 worn about the person as a charm or preventive against evil, mischief,
 disease, witchcraft," etc. In Smith's *Dictionary of Antiquities* we
 find it said that the word signified something suspended, and that it
@@ -194,19 +194,19 @@ fields of widely diverse races. The word *amulet* is nowadays very
 
 commonly used as synonymous with talisman, whereas in meaning it is
 entirely distinct. The latter means a "sigil engraved in stone or
-metal," <span id="fr_200"></span>[190](#fn_200) and it served a double
+metal," <span id="fr_200"></span>[190](#fn_200.md) and it served a double
 purpose, namely, "to procure love, and to avert mischief from its
 possessor," while an *amuletum*, derived from *amolior* to do away with,
-or to baffle, <span id="fr_201"></span>[190a](#fn_201) had for its sole
+or to baffle, <span id="fr_201"></span>[190a](#fn_201.md) had for its sole
 end the protection of the owner. Pliny, writing on the cyclamen
-(*tuberterræ*) <span id="fr_202"></span>[191](#fn_202) says, it "ought
+(*tuberterræ*) <span id="fr_202"></span>[191](#fn_202.md) says, it "ought
 to be grown in every house, if it be true that wherever it grows noxious
 spells can have no effect. This plant is also what is called an
 *amulet*." Boccaccio speaks of "the skull of an ass set up on a pole in
 a cornfield as a potent amulet against blight." As a modern parallel to
 this we are told that at Mourzak, in Central Africa, the people set up
 the head of an ass in their gardens to avert the evil eye from their
-crops. <span id="fr_203"></span>[192](#fn_203)
+crops. <span id="fr_203"></span>[192](#fn_203.md)
 
 Pisistratus too is <span id="img_12100"></span>
 
@@ -227,13 +227,13 @@ FIG. 7.--King's <em>Handbook of Gems</em>.<br />
 recorded by Hesychius to have set up, in the Acropolis at Athens, the
 figure of a grasshopper (cricket) or grillo, as a charm or amulet to
 avert the evil eye from the citizens. <span
-id="fr_204"></span>[193](#fn_204) This insect is constantly found
-engraved on gems ([Fig. 7](#img_12100)) with a
+id="fr_204"></span>[193](#fn_204.md) This insect is constantly found
+engraved on gems ([Fig. 7](#img_12100).md) with a
 
 <span id="page_122">p. 122</span>
 
-similar intention. <span id="fr_205"></span>[194](#fn_205) The grillo or
-locust is said <span id="fr_206"></span>[195](#fn_206) to have been
+similar intention. <span id="fr_205"></span>[194](#fn_205.md) The grillo or
+locust is said <span id="fr_206"></span>[195](#fn_206.md) to have been
 adopted as an amulet from its likeness to a skeleton, which is still the
 emblem of Chronos or Saturn, and a powerful charm against the evil eye.
 
@@ -256,24 +256,24 @@ FIG. 8.<br />
 
 evil eye, have set an amulet upon the base of a statue in front of the
 Church of Crendi near Valetta, which the writer sketched on the spot
-([Fig. 8](#img_12200))--a crescent with a serpent coiled about it. When
+([Fig. 8](#img_12200).md)--a crescent with a serpent coiled about it. When
 we come to speak of the Cimaruta and the specific charms used in Italy,
 we shall see clearly that this relief can only be intended as an amulet.
 Abundant evidence will be produced later on to show that amulets were
 used also as household ornaments, much as we now use vases and other
 nicknacks upon our chimney-pieces and tables. It is very probable that
 the teraphim, translated *images* in our Authorised Version, <span
-id="fr_207"></span>[196](#fn_207) which Rachel stole from Laban, were
+id="fr_207"></span>[196](#fn_207.md) which Rachel stole from Laban, were
 really amulets of the kind not to be worn, but used as protecting
 objects; these, like the Lares and Penates of subsequent times, were
 looked upon almost as objects of worship, though not as actual gods.
 Indeed we can have no reason to believe Laban idolatrous, or that Rachel
 carried them off with the intention of worshipping them. Still it is
-evident they were highly prized. <span id="fr_208"></span>[197](#fn_208)
+evident they were highly prized. <span id="fr_208"></span>[197](#fn_208.md)
 
 <span id="page_123">p. 123</span>
 
-We are told <span id="fr_209"></span>[198](#fn_209) that "the ear-rings"
+We are told <span id="fr_209"></span>[198](#fn_209.md) that "the ear-rings"
 mentioned in Gen. xxxv. 4 and Hosea ii. 13 were really amulets, and were
 connected with idolatrous worship. Amulets, however, were mostly worn
 round the neck, or rather suspended from a necklace and forming its
@@ -295,11 +295,11 @@ of parchment on which were written the four following passages of
 Scripture, called the Tetragrammaton, namely, Exod. xiii. 2-10 and
 11-16; Deut. vi. 4-9 and xi. 13-21. They were certainly worn by all Jews
 over thirteen years of age in the time of our Lord. <span
-id="fr_210"></span>[199](#fn_210)
+id="fr_210"></span>[199](#fn_210.md)
 
 Slips from the Koran, the Scriptures, or other writings, are now worn on
 the person, or upon horses and camels, by Arabs, Turks,
-Abyssinians, <span id="fr_211"></span>[200](#fn_211) Greeks, Italians,
+Abyssinians, <span id="fr_211"></span>[200](#fn_211.md) Greeks, Italians,
 and even English. They are all avowedly worn for the purpose of averting
 the evil eye; and seeing that the dread of it was perhaps even greater
 in old days than now, it seems but reasonable to assume that the direct
@@ -311,21 +311,21 @@ and figures of men, representing various deities, as amulets against
 fascination, but since their conversion from heathenism they have
 discarded most of these, and now wear sentences from the Koran, avowedly
 to guard them against the evil eye. Little silver cases to contain them,
-such as are shown on [Fig. 112](tee11.htm#img_25900), [p.
-259](tee11.htm#page_259),
+such as are shown on [Fig. 112](tee11.htm#img_25900.md), [p.
+259](tee11.htm#page_259.md),
 
 <span id="page_125">p. 125</span>
 
 are regular articles of sale in all Eastern bazaars. At Constantinople
 they may be bought by the dozen.
 
-It was said by Plutarch <span id="fr_212"></span>[201](#fn_212) that
+It was said by Plutarch <span id="fr_212"></span>[201](#fn_212.md) that
 when Isis brought into the world Harpocrates, the posthumous son of
 Osiris, she wore an amulet round her neck, in the shape of a *vase*, the
 "emblem of Ma," the goddess of truth. The vase was also a symbol of
-Osiris. <span id="fr_213"></span>[201a](#fn_213) This vase represented
+Osiris. <span id="fr_213"></span>[201a](#fn_213.md) This vase represented
 water; hence the vivifying power of nature, *i.e.* Osiris the
-personification of the Nile <span id="fr_214"></span>[202](#fn_214)
+personification of the Nile <span id="fr_214"></span>[202](#fn_214.md)
 which was thus typified by a vase.
 
 Among the ancient Egyptians not only were protecting amulets worn by the
@@ -335,25 +335,25 @@ in profusion on their dead, in order that they might be protected from
 evil spirits and the blighting eye, during the dark passage from this
 world to the next.
 
-Maspero <span id="fr_215"></span>[203](#fn_215) says these amulets
+Maspero <span id="fr_215"></span>[203](#fn_215.md) says these amulets
 (speaking of scarabs)
 
 <span id="img_12500"></span> <span align="CENTER"> [![FIG. 9--From
 Author's Collection.](tn/12500.jpg)  
-Click to enlarge](img/12500.jpg)  
+Click to enlarge](img/12500.jpg.md)  
 FIG. 9--From Author's Collection.  
 </span>
 
 were "symboles de durée présente ou future," placed, *ailes déployées*,
 upon the breast of the dead along with a written prayer ([Fig.
-9](#img_12500)), that the heart (of the
+9](#img_12500).md), that the heart (of the
 
 <span id="page_126">p. 126</span>
 
 person) whose form the beetle was made to represent, would never bear
 witness against the dead in the day of judgment. The commonest of all
 Egyptian amulets, except the scarab, was that known to English people as
-the Eye of Osiris: "L'œil mystique ([Fig. 10](#img_12600)), l'ouza lie
+the Eye of Osiris: "L'œil mystique ([Fig. 10](#img_12600).md), l'ouza lie
 au poignet ou <span id="img_12600"></span>
 
 <table data-align="LEFT">
@@ -373,20 +373,20 @@ FIG. 10.<br />
 au bras par une cordelette, protégeait contre le mauvais œil, contre les
 paroles d'envie ou de colore, contre la morsure des serpents." These
 scarabs and mystic eyes were worn equally by the living and the dead "as
-amulets against evil magic." <span id="fr_216"></span>[204](#fn_216)
+amulets against evil magic." <span id="fr_216"></span>[204](#fn_216.md)
 Moreover the mystic eye appears everywhere painted on walls. One such,
 of especial size and prominence, is to be found over the door of one of
 the upper chambers in the temple of Denderah, and it is seen constantly
 as one of the hieroglyphics translated *ut'a*. <span
-id="fr_217"></span>[205](#fn_217)
+id="fr_217"></span>[205](#fn_217.md)
 
 We find the eye also used for two other signs in Egyptian writing. It
 was said to be that of Shu or Horus as the god of stability, and was
 carried in funeral processions along with the sacred boat. <span
-id="fr_218"></span>[206](#fn_218) Wilkinson says it "was placed over the
+id="fr_218"></span>[206](#fn_218.md) Wilkinson says it "was placed over the
 incision in the side of the body when embalmed, was the emblem of Egypt,
 and was frequently used as a sort of amulet and deposited in the
-tombs." <span id="fr_219"></span>[207](#fn_219)
+tombs." <span id="fr_219"></span>[207](#fn_219.md)
 
 <span id="page_127">p. 127</span>
 
@@ -412,13 +412,13 @@ FIG 11.<br />
 </table>
 
 numerous examples of the head of an animal in blue pottery, having a
-very large eye at the side of the head ([Fig. 11](#img_12700)). These
+very large eye at the side of the head ([Fig. 11](#img_12700).md). These
 were all provided with eyelets for suspension. Precisely the same thing
 was, in 1889, to be seen in the Ashmolean Museum, from Beirut, showing
 it to have been a common object among the Phœnicians. Similar amulets
 are to be seen in the museums of the Louvre and at Athens. The Etruscans
 also had an amulet of this kind. The head itself is said <span
-id="fr_220"></span>[208](#fn_220) to be that of a panther, and from the
+id="fr_220"></span>[208](#fn_220.md) to be that of a panther, and from the
 number of specimens of this identical amulet which the writer has seen
 in various museums, brought from widely separated countries, yet all in
 the track of the Phœnicians, we may take it as established, that <span
@@ -441,14 +441,14 @@ FIG. 12.<br />
 this form of the eye amulet was most in use among that ancient people.
 
 In the Louvre among the gems is a medal-shaped amulet ([Fig.
-12](#img_12701)), with an eye alone in the centre; and Jahn gives
+12](#img_12701).md), with an eye alone in the centre; and Jahn gives
 several other examples of the single eye used as an amulet, especially
 in two necklaces drawn on Taf. V. of his article. In one, the eye is
 
 <span id="page_128">p. 128</span>
 
 the pendant to a necklace formed of *conchæ veneris*; this latter ([Fig.
-13](#img_12800)) a potent charm in itself against <span
+13](#img_12800).md) a potent charm in itself against <span
 id="img_12800"></span>
 
 <table data-align="LEFT">
@@ -468,7 +468,7 @@ FIG. 13.<br />
 fascination among the Greeks of old, and among the Turks, Arabs, and
 Nubians of to-day. Jahn considers the head of which this eye is the most
 obvious feature to be that of a fowl (or cock). <span
-id="fr_221"></span>[209](#fn_221)
+id="fr_221"></span>[209](#fn_221.md)
 
 As we proceed with the consideration of the various charms and amulets
 used by ancients and moderns alike, we shall find that not only were
@@ -509,7 +509,7 @@ general, dedicated it not only to Mercury Augustus, but at the same time
 to Jupiter, Juno, Minerva, the sun, the moon, Apollo, Diana, Fortune,
 Ops, Isis, Piety and the Fates. From an epigraphic point of view, this
 monument ranks among the very best discovered in the works of the
-Tiber. <span id="fr_222"></span>[210](#fn_222)
+Tiber. <span id="fr_222"></span>[210](#fn_222.md)
 
 A great number of ancient compound amulets in the shape of marble
 reliefs, medals and engraved gems, have been found, in which an eye is
@@ -526,16 +526,16 @@ No. 2 in Jahn is taken from Caylus rec. vi, 38,
 <span id="page_130">p. 130</span>
 
 <span class="contnote">\[paragraph continues\]</span> 3 ([Fig.
-14](#img_13000)), and is a struck medal having in the centre the eye,
+14](#img_13000).md), and is a struck medal having in the centre the eye,
 surrounded by a crocodile, swan, serpent, cock, dog, lion, winged
 phallus, scorpion, and thunderbolt.
 
-No. 3 ([Fig. 15](#img_13000)) is from Arneth, *Gold- und Silbermon*, S.
+No. 3 ([Fig. 15](#img_13000).md) is from Arneth, *Gold- und Silbermon*, S.
 iv. 96 G.--a medal with eyelet for
 
 <span id="img_13000"></span> <span align="CENTER"> [![FIG. 14, 15,
 16.](tn/13000.jpg)  
-Click to enlarge](img/13000.jpg)  
+Click to enlarge](img/13000.jpg.md)  
 FIG. 14, 15, 16.  
 </span>
 
@@ -543,7 +543,7 @@ suspension. It has the eye in centre, with crocodile or lizard,
 thunderbolt, elephant, scorpion, phallus (as seen at Pompeii), lion,
 dog, swan, around it.
 
-No. 4 is from Caylus rec. v. 57, 1, 2 ([Fig. 16](#img_13000)), also a
+No. 4 is from Caylus rec. v. 57, 1, 2 ([Fig. 16](#img_13000).md), also a
 medal with eye in centre, surrounded by thunderbolt, lizard, phallus,
 scorpion, star, elephant, <span id="img_13001"></span>
 
@@ -563,19 +563,19 @@ FIG 17.<br />
 
 swan, fish, serpent. The medals are all of silver.
 
-No. 5 ([Fig. 17](#img_13001)) is an engraved gem, from the Florence
+No. 5 ([Fig. 17](#img_13001).md) is an engraved gem, from the Florence
 Museum. It has the central eye, with lizard, scorpion, frog, bee,
 serpent, crab, bee again, and tortoise, surrounding.
 
-No. 6 ([Fig. 17](#img_13001)) also a gem from Antike Paste in Berlin,
+No. 6 ([Fig. 17](#img_13001).md) also a gem from Antike Paste in Berlin,
 described by Winkelmann, p. 554. It has the eye in the centre with
 tortoise, lizard, scorpion, frog, bee, serpent, crab, and another bee,
-surrounding. <span id="fr_223"></span>[211](#fn_223)
+surrounding. <span id="fr_223"></span>[211](#fn_223.md)
 
 <span id="page_131">p. 131</span>
 
-No. 7 ([Fig. 18](#img_13100) is an engraved onyx <span
-id="fr_224"></span>[212](#fn_224) from Gerhard's collection, with
+No. 7 ([Fig. 18](#img_13100.md) is an engraved onyx <span
+id="fr_224"></span>[212](#fn_224.md) from Gerhard's collection, with
 central eye, but with Jupiter's or Serapis's head, eagle, <span
 id="img_13100"></span>
 
@@ -595,7 +595,7 @@ FIG. 18.<br />
 
 thunderbolt, and dolphin, surrounding. On this last, Jahn remarks that
 it is evidently a symbol of the highest protecting divinity. <span
-id="fr_225"></span>[213](#fn_225)
+id="fr_225"></span>[213](#fn_225.md)
 
 Still more remarkable than any of the foregoing amulets given by Jahn is
 that of an engraved sard from the Praun gems, of which an illustration
@@ -603,13 +603,13 @@ is given by King, *Gnostics*, p. 115, and also *Handbook* 
 
 <span id="img_13101"></span> <span align="CENTER"> [![FIG. 19.--From
 King's &lt;i&gt;Gnostics&lt;/i&gt;.](tn/13101.jpg)  
-Click to enlarge](img/13101.jpg)  
+Click to enlarge](img/13101.jpg.md)  
 FIG. 19.--From King's *Gnostics*.  
 </span>
 
 of Engraved Gems, p. 81, where the central eye is surrounded by an owl,
 serpent, stag, scorpion, dog, lion and thunderbolt ([Fig.
-19](#img_13101)).
+19](#img_13101).md).
 
 <span id="page_132">p. 132</span>
 
@@ -625,12 +625,12 @@ regarded as a protectress against fascination, unless we look upon her
 as identical with Isis, Ishtar, and Diana; whereas Minerva, the bearer
 of the Gorgon's head, was always one of the most potent protecting
 deities. The serpent, too, was the symbol of Hecate, <span
-id="fr_226"></span>[214](#fn_226) one of the attributes, as we shall see
+id="fr_226"></span>[214](#fn_226.md) one of the attributes, as we shall see
 later, of Diana Triformis, and was considered one of the most powerful
 of all the antidotes. Scarcely any compound amulet occurs without the
 serpent, and hence we must suppose in the case we are considering that
 it was adopted as the symbol applicable to *dies Saturni*.  <span
-id="fr_227"></span>[214a](#fn_227)
+id="fr_227"></span>[214a](#fn_227.md)
 
 In considering this gem, we must not forget its Gnostic character, and
 that its origin was Græco-Egyptian, though the work of a European hand.
@@ -639,14 +639,14 @@ that its origin was Græco-Egyptian, though the work of a European hand.
 
 <span class="contnote">\[paragraph continues\]</span> Hence every symbol
 must be interpreted as Egyptian from a Greek point of view. Now as we
-know, and as Pliny <span id="fr_228"></span>[215](#fn_228) long ago
+know, and as Pliny <span id="fr_228"></span>[215](#fn_228.md) long ago
 related that there are no stags in Africa, it is clear that the designer
 of this amulet must have denoted by the stag a deity of the Græco-Roman
 mythology; and we must therefore look for one whose prototype is to be
 found in Egypt, and whose attributes were the same as the Ephesian Diana
 whom undoubtedly the stag represented in his idea. This could be no
 other than Hathor, whom we must look upon like Diana, as distinctly a
-moon goddess. <span id="fr_229"></span>[216](#fn_229) So the
+moon goddess. <span id="fr_229"></span>[216](#fn_229.md) So the
 thunderbolt, in like manner, would represent Serapis, the great Sun-god.
 
 Thus considered, every one of the symbols on this week-day amulet
@@ -657,7 +657,7 @@ The use of the eye as the central object in amulets involving
 sympathetic magic, may be taken to be universal. "Arab amulets at the
 present day bear the figure of the thing against which they exert their
 virtue, and all oriental practices in this line come down from
-immemorial antiquity." <span id="fr_230"></span>[217](#fn_230)
+immemorial antiquity." <span id="fr_230"></span>[217](#fn_230.md)
 
 The Maltese, partly Arab and partly Italian, holding the beliefs and
 customs of both parent stocks,
@@ -678,13 +678,13 @@ The writer has seen boats having eyes on either side of the prow in some
 other places, at Smyrna, or one of the Greek ports, but having missed
 his note cannot recall at which port it was. This custom is evidently of
 great antiquity. The eye was placed on boats by the ancient
-Egyptians, <span id="fr_231"></span>[218](#fn_231) and also by the
-Etruscans. <span id="fr_232"></span>[219](#fn_232) Dennis remarks: <span
-id="fr_233"></span>[220](#fn_233) "The presence of eyes on the bows of
+Egyptians, <span id="fr_231"></span>[218](#fn_231.md) and also by the
+Etruscans. <span id="fr_232"></span>[219](#fn_232.md) Dennis remarks: <span
+id="fr_233"></span>[220](#fn_233.md) "The presence of eyes on the bows of
 ancient vessels, perhaps originating in the fancied analogy with fish,
 or to intimate the vigilance necessary to the pilot, is well
 known--'they were charms against the evil eye.'" <span
-id="fr_234"></span>[221](#fn_234)
+id="fr_234"></span>[221](#fn_234.md)
 
 Besides the conventional *ouza* or *œil mystique* already referred to,
 the Egyptians wore eyes as amulets of a more realistic character. They
@@ -696,7 +696,7 @@ were in pairs, looking fully to the front, and were pierced
 
 <span id="img_13500"></span> <span align="CENTER"> [![FIG.
 21](tn/13500.jpg)  
-Click to enlarge](img/13500.jpg)  
+Click to enlarge](img/13500.jpg.md)  
 FIG. 21  
 </span>
 
@@ -709,9 +709,9 @@ may be seen in the Ashmolean Museum at Oxford.
 
 In the remarkable necklace or string of amulets found in a tomb at
 Kertch, taken by Jahn from the Russian work of Achik, <span
-id="fr_235"></span>[222](#fn_235) a great many of the separate objects
+id="fr_235"></span>[222](#fn_235.md) a great many of the separate objects
 have markings on them which can only be intended for eyes ([Fig.
-21](#img_13500)).
+21](#img_13500).md).
 
 Jahn, page 41, says that necklaces with separate pendants as amulets are
 extremely common in Etruscan art-work. Among other people, girdles of
@@ -740,7 +740,7 @@ it does at present on
 
 <span id="img_13601"></span> <span align="CENTER"> [![FIG.
 23.](tn/13601.jpg)  
-Click to enlarge](img/13601.jpg)  
+Click to enlarge](img/13601.jpg.md)  
 FIG. 23.  
 </span>
 
@@ -752,13 +752,13 @@ and was therefore used as a conspicuous object of decoration.
 
 <span id="img_13700"></span> <span align="CENTER"> [![FIG. 24--From
 Woburn Marbles.](tn/13700.jpg)  
-Click to enlarge](img/13700.jpg)  
+Click to enlarge](img/13700.jpg.md)  
 FIG. 24--From Woburn Marbles.  
 </span>
 
-[Fig. 22](#img_13600) is from Vulci. <span
-id="fr_236"></span>[223](#fn_236) [Fig. 23](#img_13601) is an Etruscan
-winged deity. <span id="fr_237"></span>[224](#fn_237)
+[Fig. 22](#img_13600.md) is from Vulci. <span
+id="fr_236"></span>[223](#fn_236) [Fig. 23](#img_13601.md) is an Etruscan
+winged deity. <span id="fr_237"></span>[224](#fn_237.md)
 
 <span id="page_138">p. 138</span>
 
@@ -766,22 +766,22 @@ Perhaps the most noteworthy of all the amulets in which the eye forms
 the central object in combination with several other emblems, is the
 very remarkable relief illustrated in Millingen's paper in vol. xix. of
 *Archæologia*, p. 74, and referred to by Jahn. <span
-id="fr_238"></span>[225](#fn_238) It is one of the Woburn marbles ([Fig.
-24](#img_13700)) in the collection of the Duke of Bedford, and measures
+id="fr_238"></span>[225](#fn_238.md) It is one of the Woburn marbles ([Fig.
+24](#img_13700).md) in the collection of the Duke of Bedford, and measures
 1'6" x 1'5", but this last dimension is not perfect, being broken on the
 left side. There was a framing, and it is usually thought to have been
 built into a wall, as a house-decoration, but still more as a
 protection. The centre is a large human eye, and, as Jahn says, "the
 left, which may be considered a special feature of its sinister
 intention, and moreover the pupil is strongly marked." <span
-id="fr_239"></span>[226](#fn_239) Over it is a very prominent eyelid and
+id="fr_239"></span>[226](#fn_239.md) Over it is a very prominent eyelid and
 an arched brow. Above this is seated a beardless man in a Phrygian cap,
 with his back towards the spectator, and his head turned backwards. He
 is squatted down with both hands on his knees, has his shirt pulled up,
 and strikingly exemplifies the description of Pomponius:--
 
 "Hoc sciunt omnes quantum est qui cossim cacant." <span
-id="fr_240"></span>[227](#fn_240)
+id="fr_240"></span>[227](#fn_240.md)
 
 <span class="contnote">\[paragraph continues\]</span> Moreover it is
 evident that he is in that position which even now conveys in its full
@@ -790,7 +790,7 @@ reality (in England no less than in Germany) the common
 <span id="page_139">p. 139</span>
 
 typical expression of the utmost contempt. <span
-id="fr_241"></span>[228](#fn_241) In fact, the figure is sitting on the
+id="fr_241"></span>[228](#fn_241.md) In fact, the figure is sitting on the
 eye in a most indecorous position, and as we explain later, any object
 or gesture which gave rise to an indecent or obscene idea was looked
 upon as specially effective in the way of a protection against
@@ -812,7 +812,7 @@ It is well known that at the present day Neapolitan and other Italian
 sailors use this same identical attitude, turning themselves thus
 towards a contrary wind, in the belief that by such contemptuous
 defiance of the adverse spirit of the wind, its direction may be
-changed. <span id="fr_242"></span>[229](#fn_242)
+changed. <span id="fr_242"></span>[229](#fn_242.md)
 
 <span id="page_140">p. 140</span>
 
@@ -820,10 +820,10 @@ On the right of the spectator in our illustration is another figure with
 his face turned towards the Phrygian, the former appears to be a
 gladiator wearing the distinctive girdle called the *subligaculum*. In
 his right hand is the trident, with which he seems to stab the eye, and
-in his left a short sword <span id="fr_243"></span>[230](#fn_243)
+in his left a short sword <span id="fr_243"></span>[230](#fn_243.md)
 (*fuscina*). The yoke-like object on his left shoulder, and the armlet
 he wears, recognised as the *galerus*, <span
-id="fr_244"></span>[231](#fn_244) prove that he was a *Retiarius*, one
+id="fr_244"></span>[231](#fn_244.md) prove that he was a *Retiarius*, one
 of those who fought with a net, which he tried to throw over his
 opponent the *Mirmillo*, so as to entangle him and his shield; and then
 he attacked him with the trident. The *Retiarius*, moreover, used to
@@ -844,7 +844,7 @@ supported
 <span id="page_141">p. 141</span>
 
 by Jahn; while to any candid observer the relief itself is by far the
-best evidence. <span id="fr_245"></span>[232](#fn_245)
+best evidence. <span id="fr_245"></span>[232](#fn_245.md)
 
 It was usual to ornament the coffins or mummy cases of the ancient
 Egyptians with two large open eyes, with two monumental doors on the
@@ -852,12 +852,12 @@ left, while on the right they placed three doors. These eyes could only
 have been intended to answer the same purpose on the outside as the *œil
 mystique* within.
 
-The remarkable scene here given ([Fig. 25](#img_14100)) from an amphora
+The remarkable scene here given ([Fig. 25](#img_14100).md) from an amphora
 found at Vulci, now in the British
 
 <span id="img_14100"></span> <span align="CENTER"> [![FIG.
 25.](tn/14100.jpg)  
-Click to enlarge](img/14100.jpg)  
+Click to enlarge](img/14100.jpg.md)  
 FIG. 25.  
 </span>
 
@@ -865,12 +865,12 @@ FIG. 25.
 sample of the eyes found on painted vases like this, not only of
 Etruscan, but also of undoubted Greek origin, which are fully
 recognised, says Dennis, as charms against the evil eye. <span
-id="fr_246"></span>[233](#fn_246)
+id="fr_246"></span>[233](#fn_246.md)
 
 The curious representation of the great eyes (evidently the feature of
 the whole) upon the conventionalised wings of two Sirens, and upon those
 of a Fury in the collection of Sig. Bargagli at Sarleano, described by
-Dennis, <span id="fr_247"></span>[234](#fn_247) forms another connecting
+Dennis, <span id="fr_247"></span>[234](#fn_247.md) forms another connecting
 link in the chain which we hope to forge, by which we shall connect the
 sirens of modern Naples with
 
@@ -879,7 +879,7 @@ sirens of modern Naples with
 the ancient mythology of Egypt, Greece, and Rome. The Etruscans
 ornamented their vases and furniture with eyes very conspicuously
 depicted, as may be seen in the *Museo Gregoriano* in Rome and
-elsewhere. On these Dennis <span id="fr_248"></span>[235](#fn_248)
+elsewhere. On these Dennis <span id="fr_248"></span>[235](#fn_248.md)
 remarks, that they "have evidently an analogy to those so often painted
 on the Hellenic vases, and have probably the same symbolic meaning."
 
@@ -902,8 +902,8 @@ FIG. 26.<br />
 
 adorn their pottery with the eye as a special feature of the design. The
 strange combination of three fishes with three lotus flowers here given
-([Fig. 26](#img_14200)) is from Maspero, *Arch. Egypt.* p. 255. <span
-id="fr_249"></span>[236](#fn_249)
+([Fig. 26](#img_14200).md) is from Maspero, *Arch. Egypt.* p. 255. <span
+id="fr_249"></span>[236](#fn_249.md)
 
 Except upon Maltese and some other boats, or in masonic symbolism, the
 eye seems to have passed out of modern use, and as an amulet almost
@@ -926,19 +926,19 @@ therefore, calculated to excite the curiosity, the mirth, or in any way
 to attract the attention of the beholder was considered to be the most
 effectual. There were three methods generally accepted for averting
 fascination, whether it were of look, voice, touch, or bodily presence
-of the fascinator. <span id="fr_250"></span>[237](#fn_250) These were,
+of the fascinator. <span id="fr_250"></span>[237](#fn_250.md) These were,
 by exciting laughter or curiosity; by demonstration of good fortune so
 as to excite envy in the beholder and so to draw his evil glance upon
 the object displayed; and by doing something painfully disagreeable to
 cause him an unpleasant feeling of dread lest he, the fascinator, should
-be compelled to do likewise. <span id="fr_251"></span>[238](#fn_251)
+be compelled to do likewise. <span id="fr_251"></span>[238](#fn_251.md)
 
-Plutarch in a remarkable passage <span id="fr_252"></span>[239](#fn_252)
+Plutarch in a remarkable passage <span id="fr_252"></span>[239](#fn_252.md)
 declares that the objects that are fixed up to ward off witchcraft or
 fascination, derive their efficacy from the fact that they act through
 the strangeness and ridiculousness of their forms, which fix the
 mischief-working eye upon themselves. <span
-id="fr_253"></span>[240](#fn_253)
+id="fr_253"></span>[240](#fn_253.md)
 
 It was this firm belief which led to the design of those extremely
 grotesque figures amongst the Romans of which they were so fond, and of
@@ -950,13 +950,13 @@ These amulets, all intended for the same purpose, are now called
 
 <span id="img_14400"></span> <span align="CENTER"> [![FIG. 27., 28.,
 29.](tn/14400.jpg)  
-Click to enlarge](img/14400.jpg)  
+Click to enlarge](img/14400.jpg.md)  
 FIG. 27., 28., 29.  
 </span>
 
 <span class="contnote">\[paragraph continues\]</span> *Grylli*, from
 modern Italian *grillo*, signifying both a cricket or grasshopper, and
-also a caprice or fancy. <span id="fr_254"></span>[241](#fn_254) <span
+also a caprice or fancy. <span id="fr_254"></span>[241](#fn_254.md) <span
 id="img_14401"></span>
 
 <table data-align="LEFT">
@@ -976,24 +976,24 @@ FIG. 30<br />
 Though some are compounded of the grillo itself with other objects, yet
 they are mostly formed out of portions of various animals of the most
 diverse kinds combined into one nondescript, impossible monster, such as
-the examples here given (Figs. [27](#img_14400)-[30](#img_14401)).
+the examples here given (Figs. [27](#img_14400)-[30](#img_14401).md).
 
 These grotesques formed of the creatures, sometimes called *Chimeræ*,
 have been by some considered as Gnostic remains; but it is urged on the
-other side, <span id="fr_255"></span>[242](#fn_255) that besides never
+other side, <span id="fr_255"></span>[242](#fn_255.md) that besides never
 exhibiting the symbols which are characteristic of Gnosticism, the style
 of work proclaims them to the least experienced eye to belong to a much
 earlier date--that of the best period of
 
 <span id="page_145">p. 145</span>
 
-Roman art. <span id="fr_256"></span>[243](#fn_256) In any case the
+Roman art. <span id="fr_256"></span>[243](#fn_256.md) In any case the
 strange combination of various animal forms in one is certainly a
 practice handed down from ages long antecedent to either
 
 <span id="img_14500"></span> <span align="CENTER"> [![FIG. 31., 32.,
 33.](tn/14500.jpg)  
-Click to enlarge](img/14500.jpg)  
+Click to enlarge](img/14500.jpg.md)  
 FIG. 31., 32., 33.  
 </span>
 
@@ -1016,8 +1016,8 @@ FIG. 34., 35.<br />
 
 the union of two animals in one body, as well as by very rude
 representations of a single one. This may be seen in the cuts herewith
-([Figs. 31, 32, 33](#img_14500)), from the Etruscan Museums of Bologna
-and Cortona, and [Figs. 34, 35](#img_14501), [36, 37, 38](#img_14600),
+([Figs. 31, 32, 33](#img_14500).md), from the Etruscan Museums of Bologna
+and Cortona, and [Figs. 34, 35](#img_14501), [36, 37, 38](#img_14600.md),
 from the Ashmolean at Oxford. Moreover we have the famous vision of
 Ezekiel in which the faces of a man, lion, ox, and eagle were conjoined,
 and these components have
@@ -1033,7 +1033,7 @@ original germ,
 
 <span id="img_14600"></span> <span align="CENTER"> [![FIG. 36., 37.,
 38.](tn/14600.jpg)  
-Click to enlarge](img/14600.jpg)  
+Click to enlarge](img/14600.jpg.md)  
 FIG. 36., 37., 38.  
 </span>
 
@@ -1054,9 +1054,9 @@ Egyptian
 amulets of earlier date, it cannot be certainly declared what was their
 precise intention. This very remarkable object is of so much importance
 that we must make it a subject to be treated apart; <span
-id="fr_257"></span>[244](#fn_257) suffice it here to say that from being
+id="fr_257"></span>[244](#fn_257.md) suffice it here to say that from being
 the earliest of amulets known to European art, so the illustration on
-[p. 160](tee07.htm#page_160), [Fig. 49](tee07.htm#img_16000), shows it
+[p. 160](tee07.htm#page_160), [Fig. 49](tee07.htm#img_16000.md), shows it
 to be one of the latest, if not the latest, used in Christian times to
 baffle the evil eye. We also see by the same illustration that it is one
 of the most debased among the many examples of declining art. It is of
@@ -1067,7 +1067,7 @@ obvious development of the early idea of the Gorgon's head, from its
 first conception of the intensest ugly frightfulness, until it became at
 last by the gradual refinement of taste, as shown in classic art, the
 ideal of female beauty, culminating in the well-known Strozzi
-Medusa, <span id="fr_258"></span>[245](#fn_258) demands careful
+Medusa, <span id="fr_258"></span>[245](#fn_258.md) demands careful
 attention.
 
 The step from the famous death-dealing visage, as a protection against
@@ -1084,17 +1084,17 @@ a corruption of the older Greek βασκα, whence βασκανία, *fascina* o
 amulets. "From this custom of regarding hideous masks as amulets can be
 explained a circumstance otherwise a problem to every archaeologist--the
 vast number of such subjects we meet with in antique gems." <span
-id="fr_259"></span>[246](#fn_259) Not only so, but their importance is
+id="fr_259"></span>[246](#fn_259.md) Not only so, but their importance is
 still more impressed upon us by the fact that the highest skill known to
 Roman art was lavished upon the engraving of masks.
 
 Nothing, as is well known of all ages, so much attracts or excites
 curiosity as obscenity and indecency; <span
-id="fr_260"></span>[247](#fn_260)
+id="fr_260"></span>[247](#fn_260.md)
 
 <span id="img_14800"></span> <span align="CENTER"> [![FIG. 39.,
 40.](tn/14800.jpg)  
-Click to enlarge](img/14800.jpg)  
+Click to enlarge](img/14800.jpg.md)  
 FIG. 39., 40.  
 </span>
 
@@ -1125,7 +1125,7 @@ above stated, amulets consisting alone of *das männliche Glied*, or
 compounded with it as the attractive feature, were so common that they
 obtained a technical name from the purpose they were intended to serve.
 The usual term among old writers was *fascinum*. <span
-id="fr_261"></span>[248](#fn_261)
+id="fr_261"></span>[248](#fn_261.md)
 
 Other writers, especially Varro, call one particular form which was
 commonly suspended from the necks
@@ -1134,12 +1134,12 @@ commonly suspended from the necks
 
 of children *turpicula res*, *scæva* or *scævola*, and he discusses at
 some length the development of the word. <span
-id="fr_262"></span>[249](#fn_262)
+id="fr_262"></span>[249](#fn_262.md)
 
 Dodwell (vol. ii. p. 34) says: "They are frequently found in Italy of
 bronze, and the other extremity of the symbol is terminated by a hand
 which is closed; the thumb protruding between the fore and middle
-fingers. <span id="fr_263"></span>[250](#fn_263)
+fingers. <span id="fr_263"></span>[250](#fn_263.md)
 
 This is but a very partial description of a most remarkable object much
 easier portrayed than described. It is of so obscene a character that it
@@ -1167,7 +1167,7 @@ complete necklace, having above it as part of the pendant a fine
 amethyst cut as a scarab. There may be others in other museums, but the
 above is by far the most elaborate known to me, and is a most
 interesting study. In the same case are several other amulets against
-the evil eye, among which is the medal ([Fig. 12](#img_12700)).
+the evil eye, among which is the medal ([Fig. 12](#img_12700).md).
 
 In the Naples Museum are many bronze examples of various sizes, but all
 similar in pattern; in all cases the thumb is between the first and
@@ -1183,7 +1183,7 @@ a singularly fresh and distinct painting of a necklace--the colour as
 bright as the day it was painted, more than three thousand years ago. It
 is formed of a chain fastened by a serpent's head, such as may be seen
 in our own shops to-day. The ornaments are three pendants--the
-phallus, <span id="fr_264"></span>[251](#fn_264) the most conspicuous,
+phallus, <span id="fr_264"></span>[251](#fn_264.md) the most conspicuous,
 in the centre, the symbol of stability, and the *ankh*, or symbol of
 life, on either side.
 
@@ -1220,7 +1220,7 @@ hand-part of it is still the ordinary baby's sucker or plaything hung
 upon a child's neck in Rome, where of old the grosser object held its
 place. In fact this hand in silver is to the Roman child of to-day what
 our "coral and silver bells" was to us in our childhood--the regulation
-christening gift. [Fig. 41](#img_15200) is from the writer's collection;
+christening gift. [Fig. 41](#img_15200.md) is from the writer's collection;
 actual size. It is of silver, and was bought in a shop close to the
 Campo dei Fiori, where it was one of a large bunch of at least twenty
 exposed for sale, showing that it is an article in large and regular
@@ -1242,17 +1242,17 @@ Naples.
 The antiquity of the phallus as an amulet is shown by the number found
 among Egyptian sculptures. No visitor to Egyptian antiquities needs to
 be told this. Indeed, it was held to have been consecrated by Isis
-herself. <span id="fr_265"></span>[252](#fn_265) The phallus was the
+herself. <span id="fr_265"></span>[252](#fn_265.md) The phallus was the
 most sacred amulet worn by the vestal virgins of ancient Rome. <span
-id="fr_266"></span>[253](#fn_266) Moreover, we find that Sesostris of
+id="fr_266"></span>[253](#fn_266.md) Moreover, we find that Sesostris of
 the early twelfth dynasty, who conquered Asia, set up memorials of a
 phallic nature among the people who had acted bravely, but among the
 degenerate, female emblems engraved on *stelæ* were set up. <span
-id="fr_267"></span>[254](#fn_267) Who shall say these objects may not
+id="fr_267"></span>[254](#fn_267.md) Who shall say these objects may not
 have been the origin of those still to be found so universally
 throughout India? In the ruins of Zimbabwe, in Central Africa, are to be
 seen phalli carved upon stone, similar to those found in Sardinia, which
-are said to be Phœnician. <span id="fr_268"></span>[255](#fn_268) The
+are said to be Phœnician. <span id="fr_268"></span>[255](#fn_268.md) The
 like have been seen by the writer on the so-called Phœnician ruins of
 Hajar Khem in Malta. Again, numbers of phallic amulets in bronze are
 found in the earliest Etruscan tombs as well as in the museums of the
@@ -1262,13 +1262,13 @@ Collegio Romano, of Cortona and of Bologna, marked
 
 as belonging to the *prima età di ferro*--a time which, like Egyptian
 monuments, makes the objects of Classic Rome things of yesterday. The
-objects on [Fig. 42](#img_15400) are in the Museum at Bologna. In the
+objects on [Fig. 42](#img_15400.md) are in the Museum at Bologna. In the
 Naples Museum are a number of vases of different shapes, ornamented with
 vine leaves and tendrils
 
 <span id="img_15400"></span> <span align="CENTER"> [![FIG.
 42.](tn/15400.jpg)  
-Click to enlarge](img/15400.jpg)  
+Click to enlarge](img/15400.jpg.md)  
 FIG. 42.  
 </span>
 
@@ -1279,9 +1279,9 @@ The object described as *satirica signa* by Pliny, and so constantly
 referred to, appears not only upon the amulets of which the eye is the
 centre, but is that to be seen over so many of the doorways in Pompeii.
 It by no means signified that which the *ciceroni* now tell the
-tourist; <span id="fr_269"></span>[255a](#fn_269) but was placed there
+tourist; <span id="fr_269"></span>[255a](#fn_269.md) but was placed there
 as a protective amulet against fascination. We read <span
-id="fr_270"></span>[256](#fn_270) that it was the common sign over a
+id="fr_270"></span>[256](#fn_270.md) that it was the common sign over a
 blacksmith's forge, and no doubt inasmuch as the horses who came to him
 to be shod were specially liable to the malign influence, so the smith
 would naturally provide the best possible protector for the animals by
@@ -1289,7 +1289,7 @@ whom he got his living.
 
 "That such representations were placed by the ancients on the walls of
 their cities, there is no lack of proof. <span
-id="fr_271"></span>[257](#fn_271)They are found on several of the early
+id="fr_271"></span>[257](#fn_271.md)They are found on several of the early
 
 <span id="page_155">p. 155</span>
 
@@ -1320,17 +1320,17 @@ evil eye.
 
 Repeated mention is made in these pages of the many amulets to be found
 in the Etruscan Museum at Bologna. Of the accompanying illustrations,
-[Fig. 43](#img_15600) is taken from Burton's *Etruscan Bologna*,
+[Fig. 43](#img_15600.md) is taken from Burton's *Etruscan Bologna*,
 
 <span id="page_156">p. 156</span>
 
 p\. 68, who gives it as a *pelekys* or axe, which he says is an amulet
-against fascination. [Fig. 44](#img_15600) is from a sketch by the
+against fascination. [Fig. 44](#img_15600.md) is from a sketch by the
 writer from the same museum.
 
 <span id="img_15600"></span> <span align="CENTER"> [![FIG. 43.,
 44.](tn/15600.jpg)  
-Click to enlarge](img/15600.jpg)  
+Click to enlarge](img/15600.jpg.md)  
 FIG. 43., 44.  
 </span>
 
@@ -1342,15 +1342,15 @@ its use may be the same as the
 
 <span id="img_15601"></span> <span align="CENTER"> [![FIG. 45.,
 46.](tn/15601.jpg)  
-Click to enlarge](img/15601.jpg)  
+Click to enlarge](img/15601.jpg.md)  
 FIG. 45., 46.  
 </span>
 
 very numerous handled half-moons of about the same size, found there and
 in other museums, which are well known to be ancient razors. In the
 object here shown, there is but one possible cutting edge, that at the
-bottom. [Figs. 45, 46](#img_15601) represent an Etruscan coin <span
-id="fr_272"></span>[258](#fn_272) of the town of Luna. The devices
+bottom. [Figs. 45, 46](#img_15601.md) represent an Etruscan coin <span
+id="fr_272"></span>[258](#fn_272.md) of the town of Luna. The devices
 engraved upon it almost certainly prove that they
 
 <span id="page_157">p. 157</span>
@@ -1364,14 +1364,14 @@ head on the reverse may be the personification of the city or of Diana.
 
 ### Footnotes
 
-<span id="fn_192"></span>[116:182](tee06.htm#fr_192) *La Migration des
+<span id="fn_192"></span>[116:182](tee06.htm#fr_192.md) *La Migration des
 Symboles*, Comte Goblet d'Alviella, Hibbert Lectures, 1890-91:
 Husenbeth, "Emblems of the Saints in Art," *Spectator*, June 29, 1889.
 
-<span id="fn_193"></span>[116:183](tee06.htm#fr_193) Chapman, *Sermons
+<span id="fn_193"></span>[116:183](tee06.htm#fr_193.md) Chapman, *Sermons
 on Symbols*, 1888.
 
-<span id="fn_194"></span>[118:184](tee06.htm#fr_194) "*Emblema* licet
+<span id="fn_194"></span>[118:184](tee06.htm#fr_194.md) "*Emblema* licet
 cum isto ænigmatum genere in ratione symboli conveniat, differt tamen,
 quod rem sublatis ænigmatum velis purius liquidiusque proponat. Est enim
 proprie symbolum aliquod ingeniosum, suave, et moratum, ex pictura et
@@ -1379,53 +1379,53 @@ lemmate constans, quo aliqua gravior sententia indicari solet."--*De
 symbolica Ægyptorum sapientia*. Nicolaus Caussinus. Coloniæ, 1623, p.
 17.
 
-<span id="fn_195"></span>[119:185](tee06.htm#fr_195) "On the main
+<span id="fn_195"></span>[119:185](tee06.htm#fr_195.md) "On the main
 gateway of the Old City (Citta Vecchia) at Malta is a statue of Juno,
 ancient protectress of Malta, bearing her cognisance of a
 peacock."--Col. R. L. Playfair, *Murray's Handbook to the
 Mediterranean*, 1882, p. 199.
 
-<span id="fn_196"></span>[119:186](tee06.htm#fr_196) *Notes and
+<span id="fn_196"></span>[119:186](tee06.htm#fr_196.md) *Notes and
 Queries*, 8th ser. iv. p. 531 (December 30, 1893).
 
-<span id="fn_197"></span>[120:187](tee06.htm#fr_197) Mrs. Gaskell in
+<span id="fn_197"></span>[120:187](tee06.htm#fr_197.md) Mrs. Gaskell in
 *Nineteenth Century*, February 1894, p. 264.
 
-<span id="fn_198"></span>[120:188](tee06.htm#fr_198) See *Notes and
+<span id="fn_198"></span>[120:188](tee06.htm#fr_198.md) See *Notes and
 Queries*, November 25, 1891 p. 426.
 
-<span id="fn_199"></span>[120:189](tee06.htm#fr_199) *New English
+<span id="fn_199"></span>[120:189](tee06.htm#fr_199.md) *New English
 Dictionary*, s.v. "Amulet."
 
-<span id="fn_200"></span>[121:190](tee06.htm#fr_200) See *The Gnostics*,
+<span id="fn_200"></span>[121:190](tee06.htm#fr_200.md) See *The Gnostics*,
 by C. W. King, 1874, p. 115. Also Frommannd, *Tract. de Fasc.* p. 278,
 who makes a long disquisition on this subject, giving the etymology and
 origin of talisman as Arabic.
 
-<span id="fn_201"></span>[121:190a](tee06.htm#fr_201) King, *op. cit.*
+<span id="fn_201"></span>[121:190a](tee06.htm#fr_201.md) King, *op. cit.*
 p. 115. According to *N. E. Dictionary*, "a word of unknown origin."
 
-<span id="fn_202"></span>[121:191](tee06.htm#fr_202) *Natural History*,
+<span id="fn_202"></span>[121:191](tee06.htm#fr_202.md) *Natural History*,
 xxv. 67 (Bohn, v. p. 125).
 
-<span id="fn_203"></span>[121:192](tee06.htm#fr_203) *Notes and
+<span id="fn_203"></span>[121:192](tee06.htm#fr_203.md) *Notes and
 Queries*, 1st ser. vii. p. 496.
 
-<span id="fn_204"></span>[121:193](tee06.htm#fr_204) On this see Lobeck,
+<span id="fn_204"></span>[121:193](tee06.htm#fr_204.md) On this see Lobeck,
 *Aglaophamus*, p. 973.. He quotes Pliny, xxix. (6) 39, but I cannot find
 this in Pliny. Lobeck says Hesychius calls this amulet κερομία
 προσβασκάνια.
 
-<span id="fn_205"></span>[122:194](tee06.htm#fr_205) King, *Gnostics*,
+<span id="fn_205"></span>[122:194](tee06.htm#fr_205.md) King, *Gnostics*,
 p. 116.
 
-<span id="fn_206"></span>[122:195](tee06.htm#fr_206) *Ibid.* p. 2 12.
+<span id="fn_206"></span>[122:195](tee06.htm#fr_206.md) *Ibid.* p. 2 12.
 
-<span id="fn_207"></span>[122:196](tee06.htm#fr_207) Genesis xxxi. 19.
+<span id="fn_207"></span>[122:196](tee06.htm#fr_207.md) Genesis xxxi. 19.
 See Frommannd, *Tract. de Fasc.* p. 715, who says Luther called these
 *Silberne Götzen*. These are called *teraphim* in the R.V.
 
-<span id="fn_208"></span>[122:197](tee06.htm#fr_208) Professor Huxley
+<span id="fn_208"></span>[122:197](tee06.htm#fr_208.md) Professor Huxley
 says (*Science and Hebrew Tradition*, 1893, p. 309): "The teraphim were
 certainly images of family gods, and as such in all probability
 represented deceased ancestors," and further that Jacob was not
@@ -1438,7 +1438,7 @@ a consensus of opinion that the teraphim, whatever they were, had much
 to do with magic. It is here suggested that many of the numberless
 little bronze statuettes, to be seen in various museums, probably
 represent the Teraphim of the Hebrews and the Lares of Rome, and are not
-mere ornaments. [Fig. 105](tee11.htm#img_24501) is surely one of these,
+mere ornaments. [Fig. 105](tee11.htm#img_24501.md) is surely one of these,
 and its original cannot be later than the time of Jacob. The terra-cotta
 figures too, beginning with the crude forms found at Mycenæ, and
 developing into the beautiful artistic statuettes of later Greece, must
@@ -1474,61 +1474,61 @@ Protestants, who can perceive no difference between the reverence paid
 to the image itself, and that which all would admit to be due to the
 person depicted.
 
-<span id="fn_209"></span>[123:198](tee06.htm#fr_209) Smith's *Dictionary
+<span id="fn_209"></span>[123:198](tee06.htm#fr_209.md) Smith's *Dictionary
 of the Bible*, s. v. "Amulets."
 
-<span id="fn_210"></span>[124:199](tee06.htm#fr_210) Upon this, see
+<span id="fn_210"></span>[124:199](tee06.htm#fr_210.md) Upon this, see
 Farrar in Smith's *Bib. Dict.* s. v. "Frontlets."
 
-<span id="fn_211"></span>[124:200](tee06.htm#fr_211) See the remarkable
+<span id="fn_211"></span>[124:200](tee06.htm#fr_211.md) See the remarkable
 Ethiopic charm in Chap. XI.
 
-<span id="fn_212"></span>[125:201](tee06.htm#fr_212) Wilkinson, *Ancient
+<span id="fn_212"></span>[125:201](tee06.htm#fr_212.md) Wilkinson, *Ancient
 Egyptians*, iii. 130.
 
-<span id="fn_213"></span>[125:201a](tee06.htm#fr_213) *Ib*. iii. 80.
+<span id="fn_213"></span>[125:201a](tee06.htm#fr_213.md) *Ib*. iii. 80.
 
-<span id="fn_214"></span>[125:202](tee06.htm#fr_214) Plutarch, *De
+<span id="fn_214"></span>[125:202](tee06.htm#fr_214.md) Plutarch, *De
 Iside*, s. 32; Wilkinson, iii. 74.
 
-<span id="fn_215"></span>[125:203](tee06.htm#fr_215) *Archéologie
+<span id="fn_215"></span>[125:203](tee06.htm#fr_215.md) *Archéologie
 Egyptienne*, p. 236. See also Wilkinson, vol. iii. p. 486.
 
-<span id="fn_216"></span>[126:204](tee06.htm#fr_216) Brugsch, *Egypt
+<span id="fn_216"></span>[126:204](tee06.htm#fr_216.md) Brugsch, *Egypt
 under the Pharaohs*, vol. i. p. 468. Wilkinson, vol. ii, p. 334, gives a
 number of necklaces, in nearly all of which the mystic eye appears,
 while in some it is the only element, and in others is alternated with
 other charms.
 
-<span id="fn_217"></span>[126:205](tee06.htm#fr_217) *The Nile*, E.
+<span id="fn_217"></span>[126:205](tee06.htm#fr_217.md) *The Nile*, E.
 Wallis Budge, p. 61.
 
-<span id="fn_218"></span>[126:206](tee06.htm#fr_218) One of these
+<span id="fn_218"></span>[126:206](tee06.htm#fr_218.md) One of these
 processions showing the eye is given as Plate lxvi. in *Wilkinson*, vol.
 iii. p. 444.
 
-<span id="fn_219"></span>[126:207](tee06.htm#fr_219) In the British
+<span id="fn_219"></span>[126:207](tee06.htm#fr_219.md) In the British
 Museum is a case full of these mystic eyes of all sizes. There are also
 necklaces composed entirely of them. Three of these in blue enamel are
-shown on [Fig. 81](tee08.htm#img_20300).
+shown on [Fig. 81](tee08.htm#img_20300.md).
 
-<span id="fn_220"></span>[127:208](tee06.htm#fr_220) See Dennis, *Cities
+<span id="fn_220"></span>[127:208](tee06.htm#fr_220.md) See Dennis, *Cities
 of Etruria*, vol. i. p. 471.
 
-<span id="fn_221"></span>[128:209](tee06.htm#fr_221) It is suggested
+<span id="fn_221"></span>[128:209](tee06.htm#fr_221.md) It is suggested
 that the head here produced may be that of the Gnostic god Abraxas, who
 is very frequently represented with the head of a cock. See the many
 engraved gems showing this in *Abraxas seu Apistopistus* Johannis
 Macarii. Antwerpiæ, 1657. Also in King's *Gnostics*.
 
-<span id="fn_222"></span>[129:210](tee06.htm#fr_222) Rodolfo Lanciani,
+<span id="fn_222"></span>[129:210](tee06.htm#fr_222.md) Rodolfo Lanciani,
 *Athenæum*, No. 3313, April 25, 1891, p. 543.
 
-<span id="fn_223"></span>[130:211](tee06.htm#fr_223) Nos. 5 and 6 have
+<span id="fn_223"></span>[130:211](tee06.htm#fr_223.md) Nos. 5 and 6 have
 precisely the same objects upon them, though differing in size.
 Therefore one illustration here applies to both.
 
-<span id="fn_224"></span>[131:212](tee06.htm#fr_224) This gem is a
+<span id="fn_224"></span>[131:212](tee06.htm#fr_224.md) This gem is a
 *cameo*, upon which it may be remarked, that this word is said to be
 Persian. "*Camahem* is a loadstone or fibrous hæmatite, the usual
 material for Babylonish cylinders, and in use there down to the time of
@@ -1542,7 +1542,7 @@ authority. Dr. Murray (*N.E.D.*) says, "Of the derivation nothing is yet
 known." I do not find the above among the "guesses" alluded to by Dr.
 Murray.
 
-<span id="fn_225"></span>[131:213](tee06.htm#fr_225) The value of medals
+<span id="fn_225"></span>[131:213](tee06.htm#fr_225.md) The value of medals
 whether to be worn as amulets, or used as talismans to procure objects
 desired, or to cure diseases, is by no means a notion confined <span
 id="page_132">p. 132</span> to the ancients. In Ireland "some
@@ -1553,17 +1553,17 @@ once relieved rheumatic pains. I have seen ophthalmia treated by hanging
 two of these medals over a girl's eyes" (Le Fanu, *Seventy Years of
 Irish Life*, 1894, p. 114).
 
-<span id="fn_226"></span>[132:214](tee06.htm#fr_226) Jahn,
+<span id="fn_226"></span>[132:214](tee06.htm#fr_226.md) Jahn,
 *Aberglauben*, etc., p. 98, says that "the dog as the beast of Hecate
 has to do with all magic" (*Zauberwesen*). In later times it was thought
 that by dogs' blood all evil witchery could be kept off.
 
-<span id="fn_227"></span>[132:214a](tee06.htm#fr_227) Since this was
+<span id="fn_227"></span>[132:214a](tee06.htm#fr_227.md) Since this was
 written the Python at the Zoo has (Oct. 1894) swallowed his mate (or his
 child?), thus proving the serpent to be a singularly practical symbol of
 Saturn.
 
-<span id="fn_228"></span>[133:215](tee06.htm#fr_228) Pliny, *Nat. Hist.*
+<span id="fn_228"></span>[133:215](tee06.htm#fr_228.md) Pliny, *Nat. Hist.*
 viii. 51 (vol. ii. p. 302, Bohn). Diana is often represented as
 accompanied by a dog, the most sagacious and watchful of animals. The
 dog was a symbol of Diana, Thoth, Hermes, Mercury, Anubis (Payne Knight,
@@ -1571,11 +1571,11 @@ dog was a symbol of Diana, Thoth, Hermes, Mercury, Anubis (Payne Knight,
 Mars as well as to Mercury" (Phurnutus, *Nature of the Gods*, xxi);
 hence "the dogs of war."
 
-<span id="fn_229"></span>[133:216](tee06.htm#fr_229) See the story of
+<span id="fn_229"></span>[133:216](tee06.htm#fr_229.md) See the story of
 Osiris and Isis-Athor in Wilkinson, iii. 75 *et seq*.; also of Isis and
 her connection with the Dog-star, *Ib.* p. 106.
 
-<span id="fn_230"></span>[133:217](tee06.htm#fr_230) Cesnola, Cyprus,
+<span id="fn_230"></span>[133:217](tee06.htm#fr_230.md) Cesnola, Cyprus,
 1877. <span id="img_13300"></span>
 
 <table data-align="RIGHT">
@@ -1593,43 +1593,43 @@ FIG 20.<br />
 </table>
 
 Appendix by C. W. King (author of *Gnostics*, etc.), p. 385. [Fig.
-20](#img_13300) is from Pignorius (*Vetustissimæ Tabulæ*, Venice, 1605),
+20](#img_13300) is from Pignorius (*Vetustissimæ Tabulæ*, Venice, 1605.md),
 p. 16 *in dorso*, and is by him called a phallic engraved amulet.
 
-<span id="fn_231"></span>[134:218](tee06.htm#fr_231) Wilkinson, vol.
+<span id="fn_231"></span>[134:218](tee06.htm#fr_231.md) Wilkinson, vol.
 iii. p. 353.
 
-<span id="fn_232"></span>[134:219](tee06.htm#fr_232) In the Grotta de
+<span id="fn_232"></span>[134:219](tee06.htm#fr_232.md) In the Grotta de
 Cacciatore, near Corneto, "is depicted a boat with a high, sharp stern
 and a low bow, on which is painted an enormous eye--a fashion that has
 descended from Etruscan times to the fishermen of modern Italy" (Dennis,
 *Cities of Etruria*, vol. i. p. 312).
 
-<span id="fn_233"></span>[134:220](tee06.htm#fr_233) *Ibid.* vol. i. p.
+<span id="fn_233"></span>[134:220](tee06.htm#fr_233.md) *Ibid.* vol. i. p.
 471.
 
-<span id="fn_234"></span>[134:221](tee06.htm#fr_234) On a vase in the
+<span id="fn_234"></span>[134:221](tee06.htm#fr_234.md) On a vase in the
 British Museum representing Ulysses (tied to the mast) and the Sirens,
 the vessel has a large eye upon the prow--suggesting that another was
 upon the other side not seen. A plate of this is given in Smith's
 *Classical Dict.* p. 784, ed. 1877
 
-<span id="fn_235"></span>[136:222](tee06.htm#fr_235) Achik, *Antiq. du
+<span id="fn_235"></span>[136:222](tee06.htm#fr_235.md) Achik, *Antiq. du
 Bosphore Cimmérien*, vol. iii. p. 210. See also Daremberg et Saglio, p.
 257.
 
-<span id="fn_236"></span>[137:223](tee06.htm#fr_236) Dennis, *Etruria*,
+<span id="fn_236"></span>[137:223](tee06.htm#fr_236.md) Dennis, *Etruria*,
 vol. i. p. cxxi and p. 462.
 
-<span id="fn_237"></span>[137:224](tee06.htm#fr_237) *Ib*. vol. ii. p.
+<span id="fn_237"></span>[137:224](tee06.htm#fr_237.md) *Ib*. vol. ii. p.
 160. All the illustrations from Dennis are reproduced by the kind
 permission of Mr. John Murray.
 
-<span id="fn_238"></span>[138:225](tee06.htm#fr_238) The illustration
+<span id="fn_238"></span>[138:225](tee06.htm#fr_238.md) The illustration
 here given is from Millingen's original plate, and differs in many
 respects from the copy of it attached to Jahn's article.
 
-<span id="fn_239"></span>[138:226](tee06.htm#fr_239) In consequence of
+<span id="fn_239"></span>[138:226](tee06.htm#fr_239.md) In consequence of
 the stress laid by Jahn upon the eye represented being the left, I have
 carefully examined all the eyes upon amulets which have come under my
 notice, and among a great number of examples I have found no marked
@@ -1640,15 +1640,15 @@ left eye is especially malignant, but I can see no evidence in support
 of it, and believe the phrase has no connection with the evil eye, but
 that it springs from another and quite different set of beliefs.
 
-<span id="fn_240"></span>[138:227](tee06.htm#fr_240) Nonius, see
+<span id="fn_240"></span>[138:227](tee06.htm#fr_240.md) Nonius, see
 *cossim*, p. 40, verb *incoxare*, p. 39. Jahn, p. 30.
 
-<span id="fn_241"></span>[139:228](tee06.htm#fr_241) Striking examples
+<span id="fn_241"></span>[139:228](tee06.htm#fr_241.md) Striking examples
 of this act have not long since come under the notice of the writer, in
 one of which a man used this means of grossly insulting a woman--about
 his equal in refinement--with whom he had had a quarrel.
 
-<span id="fn_242"></span>[139:229](tee06.htm#fr_242) This gesture was
+<span id="fn_242"></span>[139:229](tee06.htm#fr_242.md) This gesture was
 evidently of widespread use in ancient times. We are told that in the
 ceremony of going down the Nile to the festive worship of Bast at
 Bubastis the crowded boats, as they passed near a town, came close to
@@ -1661,14 +1661,14 @@ while the former pull up their clothes before them in a scoffing manner"
 The writer can testify to having witnessed a similar performance by a
 woman on London Bridge at ten o'clock in the morning!
 
-<span id="fn_243"></span>[140:230](tee06.htm#fr_243) The trident and
+<span id="fn_243"></span>[140:230](tee06.htm#fr_243.md) The trident and
 sword are separate amulets, as shown later.
 
-<span id="fn_244"></span>[140:231](tee06.htm#fr_244) This is taken from
+<span id="fn_244"></span>[140:231](tee06.htm#fr_244.md) This is taken from
 Jahn, p. 30, but according to Smith, *Dict. of Gr. and Rom. Antiq.*, the
 *galerus* was a helmet or head-dress.
 
-<span id="fn_245"></span>[141:232](tee06.htm#fr_245) On the other hand,
+<span id="fn_245"></span>[141:232](tee06.htm#fr_245.md) On the other hand,
 in the same volume (xix. of *Archæologia*, at p. 99), the Rev. Stephen
 Weston contests this view, and tries to prove that the whole piece of
 sculpture is a representation of the sacred rites of Mythra; but his
@@ -1678,15 +1678,15 @@ Jahn, p. 31, says: "Es kann kein Zweifel sein und ist von allen erkannt,
 dass es bestimmt war Schutz gegen den Zauber des bösen Blicks zu
 gewähren."
 
-<span id="fn_246"></span>[141:233](tee06.htm#fr_246) Dennis, *Etruria*,
+<span id="fn_246"></span>[141:233](tee06.htm#fr_246.md) Dennis, *Etruria*,
 vol. i. p. 471.
 
-<span id="fn_247"></span>[141:234](tee06.htm#fr_247) *Ib*. ii. p. 364.
+<span id="fn_247"></span>[141:234](tee06.htm#fr_247.md) *Ib*. ii. p. 364.
 
-<span id="fn_248"></span>[142:235](tee06.htm#fr_248) Dennis, *Etruria*,
+<span id="fn_248"></span>[142:235](tee06.htm#fr_248.md) Dennis, *Etruria*,
 vol. ii. pp. 77, 331.
 
-<span id="fn_249"></span>[142:236](tee06.htm#fr_249) It is the rounded
+<span id="fn_249"></span>[142:236](tee06.htm#fr_249.md) It is the rounded
 bottom of a blue bowl. The fish here compounded with *l'œil mystique*,
 and the no less mystical lotus, is undoubtedly the sacred Lepidotus,
 fully described by Wilkinson (vol. iii. pp. 340 *et seq*.). It surely is
@@ -1695,33 +1695,33 @@ Egyptians, Etruscans, and Greeks was not a mere coincidence, but had a
 well-understood common significance. The original bowl is in the Berlin
 Museum. The same illustration is in Wilkinson, vol. ii. p. 42.
 
-<span id="fn_250"></span>[143:237](tee06.htm#fr_250) "Fascinatio est
+<span id="fn_250"></span>[143:237](tee06.htm#fr_250.md) "Fascinatio est
 actio, qua corpori noxa visu, verbis, contactu aut effluviis malis
 occulto modo agentibus per vim seu naturalem seu supernaturalem inferri
 putatur."--Frommannd, p. 7.
 
-<span id="fn_251"></span>[143:238](tee06.htm#fr_251) These are thus
+<span id="fn_251"></span>[143:238](tee06.htm#fr_251.md) These are thus
 summed up by Vincentius Alsarius ("De Invidia et Fascinatione,"
 *Thesaur. Antiq. Rom.* vol. vii. p. 890): "Quodam ridiculo spectatoribus
 objecto: . . . fortunæ secundæ dissimulatione; . . . casu aliquo adversa
 sponte suscepto et contractu," quoted by Frommannd.
 
-<span id="fn_252"></span>[143:239](tee06.htm#fr_252) *Symposia*, v. 7.
+<span id="fn_252"></span>[143:239](tee06.htm#fr_252.md) *Symposia*, v. 7.
 
-<span id="fn_253"></span>[143:240](tee06.htm#fr_253) See remarks on
+<span id="fn_253"></span>[143:240](tee06.htm#fr_253.md) See remarks on
 Gurgoyles, Appendix II.
 
-<span id="fn_254"></span>[144:241](tee06.htm#fr_254) The alternative
+<span id="fn_254"></span>[144:241](tee06.htm#fr_254.md) The alternative
 meaning of *grillo* in modern Italian is said to be a classic survival:
 "Antiphilus jocosis nomine *Gryllum* deridiculi habitus pinxit, unde id
 genus picturæ *grylli* vocantur" (Pliny, *Sympos*. xxv. 3 7).
 
-<span id="fn_255"></span>[144:242](tee06.htm#fr_255) King, *Handbook of
+<span id="fn_255"></span>[144:242](tee06.htm#fr_255.md) King, *Handbook of
 Engraved Gems*, p. 81. The four grylli here reproduced are from Mr.
 King's books. I am indebted to Mr. David Nutt and Messrs. George Bell
 and Sons for permission to copy them.
 
-<span id="fn_256"></span>[145:243](tee06.htm#fr_256) It is certain that
+<span id="fn_256"></span>[145:243](tee06.htm#fr_256.md) It is certain that
 as works of art a vast number of the objects used as amulets were of a
 very debased kind indeed; but it should always be remembered that the
 virtue of an amulet or talisman lay in the type it embodied, and in its
@@ -1733,28 +1733,28 @@ thing represented is of the rudest, coarsest work, while all the time it
 is of the most imperative necessity that each article should be of
 sterling silver, which must be attested by the hall-mark.
 
-<span id="fn_257"></span>[147:244](tee06.htm#fr_257) Jorio, *Mimica
+<span id="fn_257"></span>[147:244](tee06.htm#fr_257.md) Jorio, *Mimica
 degli Antichi*, p. 235, says: "The common people (of Naples) are
 absolutely ignorant of everything concerning the Medusa's head; but they
 are fully persuaded that the eyes of the Basilisk (of which also they
 know nothing) have the same power as that attributed to the fabulous
 head."
 
-<span id="fn_258"></span>[147:245](tee06.htm#fr_258) Another beautiful
+<span id="fn_258"></span>[147:245](tee06.htm#fr_258.md) Another beautiful
 Medusa is that upon the Onyx cup in the Naples Museum, called the Tasse
 Farnese. A print of this is in Daremberg et Saglio, *Dict. des Antiq.*
 p. 103.
 
-<span id="fn_259"></span>[148:246](tee06.htm#fr_259) King, *Handbook of
-Gems*, p. 85. [Figs. 39, 40](#img_14800), come from a number of these
+<span id="fn_259"></span>[148:246](tee06.htm#fr_259.md) King, *Handbook of
+Gems*, p. 85. [Figs. 39, 40](#img_14800.md), come from a number of these
 masks in Mr. King's books, namely, the above and *The Gnostics*.
 
-<span id="fn_260"></span>[148:247](tee06.htm#fr_260) "Everything that
+<span id="fn_260"></span>[148:247](tee06.htm#fr_260.md) "Everything that
 was ridiculous and indecent was also supposed to be inimical to the
 malignant influence of fascination by the oddness of the sight,"
 Dodwell, *Class. Tour through Greece*, 1819, vol. ii. p. 34.
 
-<span id="fn_261"></span>[149:248](tee06.htm#fr_261)
+<span id="fn_261"></span>[149:248](tee06.htm#fr_261.md)
 
 "Quid? quod libelli Stoici inter Sericos  
   Jacere pulvillos amant?  
@@ -1775,7 +1775,7 @@ Liberus. He also writes much on the subject which is unfit to be
 reproduced here, referring frequently to the worship of Priapus, and to
 the sayings of Enothea, priest of Priapus.
 
-<span id="fn_262"></span>[150:249](tee06.htm#fr_262) "Potest vel ab eo
+<span id="fn_262"></span>[150:249](tee06.htm#fr_262.md) "Potest vel ab eo
 quod pueris turpicula res in collo quædam suspenditur, ne quid obsit
 bonæ scævæ causa: unde scævola appellata. Ea dicta ab scæva, id est
 sinistra, quod quæ sinistra sunt bona auspicia existimantur: a quo
@@ -1785,44 +1785,44 @@ Omen, est omen turpe, quod unde (id) dicitur, Osmen ex quo S
 extritum."--Varro, *De Lingua Latina*, viii. 97. Ed. Sprengel, Berlin,
 1885.
 
-<span id="fn_263"></span>[150:250](tee06.htm#fr_263) "Inserto pollice
+<span id="fn_263"></span>[150:250](tee06.htm#fr_263.md) "Inserto pollice
 inter medium et indicem, ita ut pollex ipse insertus emineret, et
 apparet, reliquis digitis in pugnum contractis."--De Pollice, p. 42,
 Lipsiæ, 1677.
 
-<span id="fn_264"></span>[151:251](tee06.htm#fr_264) Upon the importance
+<span id="fn_264"></span>[151:251](tee06.htm#fr_264.md) Upon the importance
 of the phallus, and its consecration to Osiris, with the reasons for the
 place it took in the Egyptian system, see Wilkinson, vol. iii. p. 77,
 and various notices in vols. i. ii. concerning the God Khem.
 
-<span id="fn_265"></span>[153:252](tee06.htm#fr_265) Wilkinson, iii. p.
+<span id="fn_265"></span>[153:252](tee06.htm#fr_265.md) Wilkinson, iii. p.
 77.
 
-<span id="fn_266"></span>[153:253](tee06.htm#fr_266) Smith's *Dict. of
+<span id="fn_266"></span>[153:253](tee06.htm#fr_266.md) Smith's *Dict. of
 the Bible*, s.v. "Fascinum."
 
-<span id="fn_267"></span>[153:254](tee06.htm#fr_267) Wilkinson, *op.
+<span id="fn_267"></span>[153:254](tee06.htm#fr_267.md) Wilkinson, *op.
 cit.* i. p. 20.
 
-<span id="fn_268"></span>[153:255](tee06.htm#fr_268) Bent, *Ruined
+<span id="fn_268"></span>[153:255](tee06.htm#fr_268.md) Bent, *Ruined
 Cities of Mashonaland*. Perrot and Chipiez, *History of Art in
 Sardinia*, p. 57. *Spectator*, November 26, 1892.
 
-<span id="fn_269"></span>[154:255a](tee06.htm#fr_269) That houses so
+<span id="fn_269"></span>[154:255a](tee06.htm#fr_269.md) That houses so
 marked were Lupanari.
 
-<span id="fn_270"></span>[154:256](tee06.htm#fr_270) Dennis, *Cities of
+<span id="fn_270"></span>[154:256](tee06.htm#fr_270.md) Dennis, *Cities of
 Etruria*, vol. ii. p. 119. It was of course not confined to this purpose
 at Pompeii.
 
-<span id="fn_271"></span>[154:257](tee06.htm#fr_271) Dennis, as above.
+<span id="fn_271"></span>[154:257](tee06.htm#fr_271.md) Dennis, as above.
 He refers to Pliny, but cannot find the passage. Dennis believes in
 their being thus placed to defy the enemy. I recommend the student to
 read this chapter.
 
-<span id="fn_272"></span>[156:258](tee06.htm#fr_272) From Dennis's
+<span id="fn_272"></span>[156:258](tee06.htm#fr_272.md) From Dennis's
 *Etruria*, vol. ii. p. 63.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V. The Gorgoneion](tee07)
+[Next: Chapter V. The Gorgoneion](tee07.md)

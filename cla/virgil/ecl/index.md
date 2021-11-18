@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Virgil](../index) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Virgil](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ B.C.E.) had developed in his Idyls. Virgil employs this format to
 expound allegorical themes using the language of classical mythology,
 much like the bardic poetry of the Druids. The fourth Eclogue stands out
 from this series, in which Virgil makes some enigmatic prophecies,
-similar to the [Pseudo-Sibylline Oracles](../../sib/index). During the
+similar to the [Pseudo-Sibylline Oracles](../../sib/index.md). During the
 middle ages Virgil developed a reputation as a sorceror, and it is
 possible that the esoteric meaning cloaked in this poem had something to
 do with this.
@@ -27,14 +27,14 @@ original Latin text, which was not included in the MacKail version.
 
 ------------------------------------------------------------------------
 
-[Title Page](ecl00) [\[Latin\]](ecll00)  
-[Eclogue I.--Tityrus](ecl01) [\[Latin\]](ecll01)  
-[Eclogue II.--Alexis](ecl02) [\[Latin\]](ecll02)  
-[Eclogue III.--Palaemon](ecl03) [\[Latin\]](ecll03)  
-[Eclogue IV.--Pollio](ecl04) [\[Latin\]](ecll04)  
-[Eclogue V.--Daphnis](ecl05) [\[Latin\]](ecll05)  
-[Eclogue VI.--Silenus](ecl06) [\[Latin\]](ecll06)  
-[Eclogue VII.--Meliboeus](ecl07) [\[Latin\]](ecll07)  
-[Eclogue VIII.--The Sorceress](ecl08) [\[Latin\]](ecll08)  
-[Eclogue IX.--Moeris](ecl09) [\[Latin\]](ecll09)  
-[Eclogue X.--Gallus](ecl10) [\[Latin\]](ecll10)  
+[Title Page](ecl00) [\[Latin\]](ecll00.md)  
+[Eclogue I.--Tityrus](ecl01) [\[Latin\]](ecll01.md)  
+[Eclogue II.--Alexis](ecl02) [\[Latin\]](ecll02.md)  
+[Eclogue III.--Palaemon](ecl03) [\[Latin\]](ecll03.md)  
+[Eclogue IV.--Pollio](ecl04) [\[Latin\]](ecll04.md)  
+[Eclogue V.--Daphnis](ecl05) [\[Latin\]](ecll05.md)  
+[Eclogue VI.--Silenus](ecl06) [\[Latin\]](ecll06.md)  
+[Eclogue VII.--Meliboeus](ecl07) [\[Latin\]](ecll07.md)  
+[Eclogue VIII.--The Sorceress](ecl08) [\[Latin\]](ecll08.md)  
+[Eclogue IX.--Moeris](ecl09) [\[Latin\]](ecll09.md)  
+[Eclogue X.--Gallus](ecl10) [\[Latin\]](ecll10.md)  

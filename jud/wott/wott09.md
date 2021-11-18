@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](wott08)  [Next](wott10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](wott08)  [Next](wott10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JPJQ/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Wisdom of the Talmud*, by Ben Zion Bokser, \[1951\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ break into many fragmentary truths, which are caught by diverse human
 minds. Talmudic law centers on the discipline of action, but the actions
 which it prescribed were also a vehicle of doctrines that the rabbis
 deemed indispensable in their way of life.<span
-id="an_r_07_1"></span>[1](wott11.htm#an_n_07_1)
+id="an_r_07_1"></span>[1](wott11.htm#an_n_07_1.md)
 
 #### LAW, THEOLOGY AND RITUAL
 
@@ -63,7 +63,7 @@ privilege of enjoying its manifold blessings. To accept what the world
 offers us without a thought of what we owe to God for it, marks a man an
 ingrate. As the rabbis put it: "It is forbidden a man to enjoy the
 things of this world without a prayer."<span
-id="an_r_07_2"></span>[2](wott11.htm#an_n_07_2)
+id="an_r_07_2"></span>[2](wott11.htm#an_n_07_2.md)
 
 The law governing man's relation to God often serves also as a
 precautionary measure to prevent the transgression of more fundamental
@@ -71,7 +71,7 @@ principles or doctrines. The rabbis pictured the basic elements of
 religion and morality which they wanted their people to maintain as a
 kind of vineyard that must be fenced in against violators. This was one
 of the guiding rules of the men of the Great Assembly: "Build a fence to
-the Torah."<span id="an_r_07_3"></span>[3](wott11.htm#an_n_07_3)
+the Torah."<span id="an_r_07_3"></span>[3](wott11.htm#an_n_07_3.md)
 
 The law as a "fence to the Torah" is clearly illustrated in the widely
 ramified rules bearing on idolatry. The cult of idol worship was
@@ -90,7 +90,7 @@ where an idol was situated was not to be entered, even
 for the innocent purpose of being shaded from the sun. The wine employed
 in idolatrous offerings was not to be used. Even a drop of it falling
 into another liquid would render it unfit for normal consumption.<span
-id="an_r_07_4"></span>[4](wott11.htm#an_n_07_4)
+id="an_r_07_4"></span>[4](wott11.htm#an_n_07_4.md)
 
 The rabbinic struggle against idolatry was not a novel phenomenon in
 Jewish tradition. It appears in the Bible where it was directed against
@@ -213,7 +213,7 @@ Sabbath rest. Thus a witness testifying as to the appearance of the new
 moon—a vital consideration in the then current system of calculating the
 calendar—was permitted to travel on the Sabbath. He was to come riding
 on an animal even on the Sabbath day.<span
-id="an_r_07_5"></span>[5](wott11.htm#an_n_07_5)
+id="an_r_07_5"></span>[5](wott11.htm#an_n_07_5.md)
 
 #### LAW AND A JUST SOCIETY
 
@@ -226,7 +226,7 @@ without encroaching upon one another. "One who asserts what is mine is
 mine, and what is yours is yours, is only of medium ethical stature,"
 according to the Talmud. There is even an opinion that such a standard
 corresponds to the ethics of the wicked city of Sodom.<span
-id="an_r_07_6"></span>[6](wott11.htm#an_n_07_6) The standard commended
+id="an_r_07_6"></span>[6](wott11.htm#an_n_07_6.md) The standard commended
 by the rabbis is the willingness to bend self-interest in acts of
 helpfulness toward others. And Talmudic law reflects this higher
 standard. It does not seek to balance self-interests. It seeks to bend
@@ -241,7 +241,7 @@ ideal is total self-identification with the needs and aspirations of
 one's fellow-man. The Talmud calls it the standard of saintliness. The
 Mishnah defines it thus: "What is mine is thine and what is thine is
 thine is a *hasid*, a saintly man."<span
-id="an_r_07_7"></span>[7](wott11.htm#an_n_07_7) The standard of
+id="an_r_07_7"></span>[7](wott11.htm#an_n_07_7.md) The standard of
 saintliness was not a practical standard by which men could order their
 lives in society. It projects an ideal which most men could not attain.
 The law crystallized at a moral level below this, but the ideal of
@@ -259,10 +259,10 @@ they are to walk in and the work they are to do." "The path they are to
 walk in" according to Rabbi Elazar of Modein, refers to the law, while
 "the work they are to do," he continues, refers to acts of saintliness
 "beyond the measure of the law."<span
-id="an_r_07_8"></span>[8](wott11.htm#an_n_07_8) The rabbis cite various
+id="an_r_07_8"></span>[8](wott11.htm#an_n_07_8.md) The rabbis cite various
 cases in which people of moral sensitivity acted on a higher standard
 than the one called for by the law, and their conduct is hailed as
-exemplary.<span id="an_r_07_9"></span>[9](wott11.htm#an_n_07_9)
+exemplary.<span id="an_r_07_9"></span>[9](wott11.htm#an_n_07_9.md)
 
 Those actions "beyond the line of the law," as the Talmud calls it,
 constituted a free zone in which individuals expressed their generosity
@@ -276,7 +276,7 @@ social order stability and enables it to
 
 survive. "Jerusalem was destroyed," according to Rabbi Jananan, "because
 her people hewed strictly to the letter of the Torah."<span
-id="an_r_07_10"></span>[10](wott11.htm#an_n_07_10) It is actions beyond
+id="an_r_07_10"></span>[10](wott11.htm#an_n_07_10.md) It is actions beyond
 the law that give evidence of a vibrant morality and save the law itself
 from becoming a soulless formalism devoid of feeling and vitality.
 
@@ -293,10 +293,10 @@ Thus the law empowered the community to assume responsibility for
 elementary education and poor relief. It authorized the supervision of
 weights and measures, and of fair wages and prices to prevent unethical
 business practices.<span
-id="an_r_07_11"></span>[11](wott11.htm#an_n_07_11) The law compelled
+id="an_r_07_11"></span>[11](wott11.htm#an_n_07_11.md) The law compelled
 children to provide for the maintenance of parents, even as parents were
 compelled to provide for the maintenance of children.<span
-id="an_r_07_12"></span>[12](wott11.htm#an_n_07_12)
+id="an_r_07_12"></span>[12](wott11.htm#an_n_07_12.md)
 
 The law forced a person to help his neighbor where it was clear that he
 himself would not lose by it. Thus, heirs dividing land that had come to
@@ -304,7 +304,7 @@ them by inheritance were expected to consider that one among them owned
 land contiguous to the parcel to be divided and to give him his share
 near his own land. The Talmud generalized: "We coerce against the
 standard of Sodom." A person did not have the absolute right to be
-mean.<span id="an_r_07_13"></span>[13](wott11.htm#an_n_07_13)
+mean.<span id="an_r_07_13"></span>[13](wott11.htm#an_n_07_13.md)
 
 The pressure of a higher moral standard inspired the Talmudic
 liberalization of the Jewish criminal code. Capital punishment is
@@ -318,12 +318,12 @@ inoperative by hedging it with conditions that made of the old law a
 dead letter. Thus they insisted that the commission of the culpable act
 must be preceded by a warning and by an expression of defiance on the
 part of the criminal in the face of that warning.<span
-id="an_r_07_14"></span>[14](wott11.htm#an_n_07_14) And the Mishnah
+id="an_r_07_14"></span>[14](wott11.htm#an_n_07_14.md) And the Mishnah
 declares explicitly, "A Sanhedrin which decides a verdict of death once
 in seven years is called murderous. Rabbi Elazar ben Azariah said, even
 if only once in seven years. Rabbi Tarphon and Rabbi Akiba said: 'If we
 were members of the Sanhedrin, there would never be a verdict of
-death.'"<span id="an_r_07_15"></span>[15](wott11.htm#an_n_07_15)
+death.'"<span id="an_r_07_15"></span>[15](wott11.htm#an_n_07_15.md)
 
 The growth of Talmudic law, in all its aspects, was for the most part,
 we have already noted, the work of judicial interpretation rather than
@@ -371,7 +371,7 @@ regarded them as ornaments and they were to be worn as a normal part of
 a person's apparel. His colleagues, representing the point of view of
 the common people, forbade it. Citing the prophetic contempt for war and
 its implements, they branded the wearing of arms as a "disgrace".<span
-id="an_r_07_16"></span>[16](wott11.htm#an_n_07_16)
+id="an_r_07_16"></span>[16](wott11.htm#an_n_07_16.md)
 
 A similar difference, deriving from the diverse backgrounds of the
 rabbis, is offered us in the definition of the time when the Shema is to
@@ -383,7 +383,7 @@ the end of the first watch of the night, or nine o'clock. In the morning
 he sets the time from the appearance of the first streaks of light till
 sunrise. His colleagues, reflecting an urban practice, permit the Shema
 in the evening until midnight and in the morning until nine
-o'clock.<span id="an_r_07_17"></span>[17](wott11.htm#an_n_07_17)
+o'clock.<span id="an_r_07_17"></span>[17](wott11.htm#an_n_07_17.md)
 
 <span id="page_145">p. 145</span>
 
@@ -408,7 +408,7 @@ law as interpreted and administered by the rabbis. Yet in many cases the
 state asserted its own sovereignty to supersede the internal law of the
 Jewish community. The rabbis advised conformity. The Babylonian teacher
 Samuel ruled explicitly: "The law of the state is law."<span
-id="an_r_07_18"></span>[18](wott11.htm#an_n_07_18) This became the basic
+id="an_r_07_18"></span>[18](wott11.htm#an_n_07_18.md) This became the basic
 rule governing the Jewish attitude toward his obligations as a citizen.
 His own law retreated to make room for the law decreed by the state of
 which he deemed himself a part.
@@ -426,7 +426,7 @@ you that if the government decrees harsh decrees,
 rebel not against it in any matter which it imposes upon you, but keep
 the king's command; if, however, it decrees that you annul the Torah and
 the precepts, do not obey.'"<span
-id="an_r_07_19"></span>[19](wott11.htm#an_n_07_19)
+id="an_r_07_19"></span>[19](wott11.htm#an_n_07_19.md)
 
 The dilemma here posed became a real issue during the reign of the
 Emperor Hadrian. As part of the Roman empire, Palestine and her Jewish
@@ -440,7 +440,7 @@ the way of self-preservation, except idolatry, immorality and
 bloodshed." Rabbi Ishmael limited the demand for martyrdom in the case
 of idolatry, to its public profession. In privacy he called for
 compromise even in this instance, rather than suffering martyrdom.<span
-id="an_r_07_20"></span>[20](wott11.htm#an_n_07_20)
+id="an_r_07_20"></span>[20](wott11.htm#an_n_07_20.md)
 
 #### LAW AND INWARDNESS
 
@@ -448,15 +448,15 @@ Law is a discipline which governs action. But the rabbis were keenly
 aware that the inner man is more important than the deed through which
 he expresses himself. "The Holy One, blessed be He, is concerned above
 all with what is in man's heart."<span
-id="an_r_07_21"></span>[21](wott11.htm#an_n_07_21) For a person may
+id="an_r_07_21"></span>[21](wott11.htm#an_n_07_21.md) For a person may
 conform to the demands of the law, and remain inwardly corrupt. And
 similarly a person may in the midst of a life of wrongdoing go through
 an intense experience of inner change that leaves him a noble character.
 "One man earns his place in the world," Rabbi Judah the Prince, once
 reflected, "through the efforts of many years, and another earns it in
-one hour."<span id="an_r_07_22"></span>[22](wott11.htm#an_n_07_22)
+one hour."<span id="an_r_07_22"></span>[22](wott11.htm#an_n_07_22.md)
 Indeed, Rabbi Abahu ranked the penitent even above the man who had never
-sinned.<span id="an_r_07_23"></span>[23](wott11.htm#an_n_07_23)
+sinned.<span id="an_r_07_23"></span>[23](wott11.htm#an_n_07_23.md)
 
 The decisive hour of repentance may transform a sinner into a saint. But
 the rabbis distinguished as to its sufficiency
@@ -471,14 +471,14 @@ be appeased. Thus the Mishnah declares: "Transgressions between man and
 God may be atoned on the Day of Atonement, but transgressions between
 man and man will not be atoned on the Day of Atonement until one has
 appeased his fellow-man."<span
-id="an_r_07_24"></span>[24](wott11.htm#an_n_07_24)
+id="an_r_07_24"></span>[24](wott11.htm#an_n_07_24.md)
 
 It is significant, however, that the rabbis limited the scope of this
 required appeasement, in order not to place a discouraging burden on the
 would-be penitent. Thus one who had robbed a beam and built it into his
 house, was not required to damage his building by tearing out the beam
 to return it. It was deemed sufficient if he returned the value of
-it.<span id="an_r_07_25"></span>[25](wott11.htm#an_n_07_25)
+it.<span id="an_r_07_25"></span>[25](wott11.htm#an_n_07_25.md)
 
 The recognition of inwardness as a factor in law led to far-reaching
 consequences in the jurisprudence of the Talmud. It led to the demand
@@ -525,7 +525,7 @@ transactions. These arose spontaneously, in areas which were not covered
 by the law. The rabbis invested these customs or *minhagim* with
 authority, and demanded compliance with them. Indeed, where a law
 clashed with a deeply rooted custom, they often gave precedence to
-custom.<span id="an_r_07_26"></span>[26](wott11.htm#an_n_07_26)
+custom.<span id="an_r_07_26"></span>[26](wott11.htm#an_n_07_26.md)
 
 #### THE LAW IN MESSIANIC TIMES
 
@@ -544,12 +544,12 @@ obsolete. For it will then be possible to depend on human spontaneity,
 expressing ennobled human characters, to suggest the right action in
 every situation without the discipline of law to channel it. "The laws,"
 the Talmud declared, "will become obsolete in the hereafter."<span
-id="an_r_07_27"></span>[27](wott11.htm#an_n_07_27)
+id="an_r_07_27"></span>[27](wott11.htm#an_n_07_27.md)
 
 In the present stage of human immaturity, however, the law is an
 indispensable guide to action. It is, moreover, a preparation for the
 next stage of civilization, when the law which has come "to ennoble the
-lives of men"<span id="an_r_07_28"></span>[28](wott11.htm#an_n_07_28)
+lives of men"<span id="an_r_07_28"></span>[28](wott11.htm#an_n_07_28.md)
 will have done its work. A new human race will then arise to live on the
 level of true inwardness, in free gestures of adoration of God and in an
 all-embracing love for their fellow-men. The rabbis expressed this
@@ -558,8 +558,8 @@ first is the stage of "chaos", before the leaven of a divine law has
 begun to work in the world; the second is the stage of "Torah"; and the
 last is the stage of Messianic liberation and enlightenment which will
 finally bring man to his pre-ordained destiny.<span
-id="an_r_07_29"></span>[29](wott11.htm#an_n_07_29)
+id="an_r_07_29"></span>[29](wott11.htm#an_n_07_29.md)
 
 ------------------------------------------------------------------------
 
-[Next: Human Wisdom in the Talmud](wott10)
+[Next: Human Wisdom in the Talmud](wott10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](gvp02)  [Next](gvp04) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](gvp02)  [Next](gvp04.md) 
 
 ------------------------------------------------------------------------
 
@@ -206,4 +206,4 @@ no more dominion over thee.
 ------------------------------------------------------------------------
 
 [Next: Notes on the Golden Verses of Pythagoras from the Commentaries of
-Hierocles](gvp04)
+Hierocles](gvp04.md)

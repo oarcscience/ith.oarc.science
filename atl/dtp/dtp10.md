@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](dtp09)  [Next](dtp11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](dtp09)  [Next](dtp11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B00213KFQ8/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Dweller on Two Planets*, by by Phylos the Thibetan (Frederick S.
 Oliver), \[1894\], at Intangible Textual Heritage
 
@@ -46,7 +46,7 @@ finally gave victory to the Poseid hosts.
 
 As time went on, racial coalition obliterated all distinctions, so that
 the union resulted in producing earth's greatest nation.
-[Inconsequential](errata.htm#5) civil wars had several times made a
+[Inconsequential](errata.htm#5.md) civil wars had several times made a
 change of political complexion, so that Poseid had seen itself governed
 by absolute autocrats, by oligarchic and by the theocratic rule, by
 masculine and by feminine rulers, and at last by a republican monarchial
@@ -167,4 +167,4 @@ it the period set to all time, for me, save I elect.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VII: Contain Thyself](dtp11)
+[Next: Chapter VII: Contain Thyself](dtp11.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](dwp00)  [Next](dwp02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](dwp00)  [Next](dwp02.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ under another denomination), I thought it circumstance worth recording;
 particularly, as it offers a fresh proof of the similitude of the Popish
 and Pagan Religion, so well observed by Dr. Middleton, in his celebrated
 Letter from Rome: and therefore I mean to deposit the authentic <span
-id="fr_0"></span>[1](#fn_0) proofs of this assertion in the British
+id="fr_0"></span>[1](#fn_0.md) proofs of this assertion in the British
 Museum, when a proper opportunity shall offer. In the meantime I send
 you the following account, which, I flatter myself, will amuse you for
 the present, and may in future serve to illustrate those proofs.
@@ -39,7 +39,7 @@ and modern superstition, I made a collection of both the ancient and
 modern Amulets of this sort, and placed them together in the British
 Museum, where they remain. The modern Amulet most in vogue represents a
 hand clinched, with the point of the thumb thrust betwixt the index and
-middle <span id="fr_1"></span>[1](#fn_1) finger; the next is a shell;
+middle <span id="fr_1"></span>[1](#fn_1.md) finger; the next is a shell;
 and the third is a half-moon. These Amulets (except the shell, which is
 usually worn in its natural state) are most commonly made of silver, but
 sometimes of ivory, coral, amber, crystal, or some curious gem, or
@@ -53,7 +53,7 @@ Herculaneum: it has an enormous Phallus, and, with an
  
 
 <span id="img_pl01"></span> [![](tn/generic.jpg)  
-Click to view](img/pl01.jpg)  
+Click to view](img/pl01.jpg.md)  
 PLATE I  
 EX VOTI OF WAX, FROM ISERNIA
 
@@ -62,7 +62,7 @@ EX VOTI OF WAX, FROM ISERNIA
 <span id="page_17">p. 17</span>
 
 arch look and gesture, stretches out its right hand in the form above
-mentioned <span id="fr_2"></span>[1](#fn_2); and which probably was an
+mentioned <span id="fr_2"></span>[1](#fn_2.md); and which probably was an
 emblem of consummation: and as a further proof of it, the Amulet which
 occurs most frequently amongst those of the Ancients (next to that which
 represents the simple Priapus), is such a hand united with the Phallus;
@@ -79,7 +79,7 @@ Provinces of this Kingdom.
 
 A new road having been made last year from this Capital to the Province
 of Abruzzo, passing through the City of Isernia (anciently belonging to
-the Samnites, and very populous <span id="fr_3"></span>[2](#fn_3)), a
+the Samnites, and very populous <span id="fr_3"></span>[2](#fn_3).md), a
 person of liberal education, employed in that work, chanced to be at
 
 <span id="page_18">p. 18</span>
@@ -96,7 +96,7 @@ I did intend to have been present at the Feast of St. Cosmo this year;
 but the indecency of this ceremony having probably transpired, from the
 country's having been more frequented since the new road was made,
 orders have been given, that the *Great Toe* <span
-id="fr_4"></span>[1](#fn_4) of the Saint should no longer be exposed.
+id="fr_4"></span>[1](#fn_4.md) of the Saint should no longer be exposed.
 The following is the account of the Fete of St. Cosmo and Damiano, as it
 actually was celebrated at Isernia, on the confines of Abruzzo, in the
 Kingdom of Naples, so late as in the year of our Lord 1780.
@@ -110,7 +110,7 @@ Molise, and adjoining to Abruzzo, an annual Fair is held,
  
 
 <span id="img_pl02"></span> [![](tn/generic.jpg)  
-Click to view](img/pl02.jpg)  
+Click to view](img/pl02.jpg.md)  
 PLATE II  
 ANCIENT AND MODERN AMULETS
 
@@ -161,7 +161,7 @@ and is always kissed by the devotee at the moment of presentation.
 
 At the great altar in the church, another of its canons attends to give
 the holy unction, with the oil of St. Cosmo; <span
-id="fr_5"></span>[1](#fn_5) which is prepared by the same receipt
+id="fr_5"></span>[1](#fn_5.md) which is prepared by the same receipt
 
 <span id="page_23">p. 23</span>
 
@@ -189,22 +189,22 @@ church.
 
 ### Footnotes
 
-<span id="fn_0"></span>[13:1](dwp01.htm#fr_0) A specimen of each of the
+<span id="fn_0"></span>[13:1](dwp01.htm#fr_0.md) A specimen of each of the
 *ex-voti* of wax, with the original letter from Isernia. See the
 Ex-voti, Plate I.
 
-<span id="fn_1"></span>[14:1](dwp01.htm#fr_1) See Plate II., Fig. 1.
+<span id="fn_1"></span>[14:1](dwp01.htm#fr_1.md) See Plate II., Fig. 1.
 
-<span id="fn_2"></span>[17:1](dwp01.htm#fr_2) In the first volume of the
+<span id="fn_2"></span>[17:1](dwp01.htm#fr_2.md) In the first volume of the
 Bronzes of the Herculaneum.
 
-<span id="fn_3"></span>[17:2](dwp01.htm#fr_3) The actual population of
+<span id="fn_3"></span>[17:2](dwp01.htm#fr_3.md) The actual population of
 Isernia is 6156.
 
-<span id="fn_4"></span>[18:1](dwp01.htm#fr_4) It appears the modern
+<span id="fn_4"></span>[18:1](dwp01.htm#fr_4.md) It appears the modern
 Priapi were so called at Isernia.
 
-<span id="fn_5"></span>[22:1](dwp01.htm#fr_5) The cure of diseases by
+<span id="fn_5"></span>[22:1](dwp01.htm#fr_5.md) The cure of diseases by
 oil is likewise of ancient date; for <span id="page_23">p. 23</span>
 Tertullian tells us, that a Christian, called Proculus, cured the
 Emperor Severus of a certain distemper by the use of oil; for which
@@ -212,4 +212,4 @@ service the Emperor kept Proculus, as long as he lived, in his palace.
 
 ------------------------------------------------------------------------
 
-[Next: Part I](dwp02)
+[Next: Part I](dwp02.md)

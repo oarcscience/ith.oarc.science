@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe310)  [Next](prwe312) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe310)  [Next](prwe312.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ during the fairs." \[a\]
 
 ------------------------------------------------------------------------
 
-[Next: The Harlyn Pie](prwe312)
+[Next: The Harlyn Pie](prwe312.md)

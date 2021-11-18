@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw20)  [Next](tnw22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw20)  [Next](tnw22.md) 
 
 ------------------------------------------------------------------------
 
@@ -468,4 +468,4 @@ I have seen an altar to the Unknown God.
 
 ------------------------------------------------------------------------
 
-[Next: 21. The Heir](tnw22)
+[Next: 21. The Heir](tnw22.md)

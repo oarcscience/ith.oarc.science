@@ -1,15 +1,15 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip48)  [Next](fip50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip48)  [Next](fip50.md) 
 
 ------------------------------------------------------------------------
 
-### THE WITCHES' EXCURSION. <span id="fr_26"></span>[1](#fn_26)
+### THE WITCHES' EXCURSION. <span id="fr_26"></span>[1](#fn_26.md)
 
 PATRICK KENNEDY
 
-SHEMUS RUA <span id="fr_27"></span>[2](#fn_27) (Red James) awakened from
+SHEMUS RUA <span id="fr_27"></span>[2](#fn_27) (Red James.md) awakened from
 his sleep one night by noises in his kitchen. Stealing to the door, he
 saw half-a-dozen old women sitting round the fire, jesting and laughing,
 his old housekeeper, Madge, quite frisky and gay, helping her sister
@@ -63,7 +63,7 @@ sitting on a stillion, plenty of lights glimmering round, and he and his
 companions, with full tumblers of frothing wine in hand, hob-nobbing and
 drinking healths as jovially and recklessly as if the liquor was
 honestly come by, and they were sitting in *Shemus's* own kitchen. The
-red *birredh* <span id="fr_28"></span>[1](#fn_28) has assimilated
+red *birredh* <span id="fr_28"></span>[1](#fn_28.md) has assimilated
 *Shemus's* nature for the time being to that of his unholy companions.
 The heady liquors soon got into their brains, and a period of
 unconsciousness succeeded the ecstasy, the head-ache, the turning round
@@ -86,7 +86,7 @@ in my lord's vault every night, He was surprised to hear himself
 addressed by his name, and in his native tongue, by an old woman in the
 crowd. "Ach, Shemus, alanna! is it going to die you are in a strange
 place without your *cappen d'yarrag*?" <span
-id="fr_29"></span>[1](#fn_29) These words infused hope and courage into
+id="fr_29"></span>[1](#fn_29.md) These words infused hope and courage into
 the poor victim's heart. He turned to the lord and humbly asked leave to
 die in his red cap, which he supposed had dropped from his head in the
 vault. A servant was sent for the head-piece, and Shemus felt lively
@@ -105,19 +105,19 @@ his offence.
 
 ### Footnotes
 
-<span id="fn_26"></span>[168:1](fip49.htm#fr_26) *Fictions of the Irish
+<span id="fn_26"></span>[168:1](fip49.htm#fr_26.md) *Fictions of the Irish
 Celts*.
 
-<span id="fn_27"></span>[168:2](fip49.htm#fr_27) Irish, *Séumus Ruadh*.
+<span id="fn_27"></span>[168:2](fip49.htm#fr_27.md) Irish, *Séumus Ruadh*.
 The Celtic organs are unable to pronounce the letter j, hence they make
 Shon or Shawn of John, or Shamus of James, etc.
 
-<span id="fn_28"></span>[153:1](fip49.htm#fr_28) Ir., *Birreud*--*i.e.*,
+<span id="fn_28"></span>[153:1](fip49.htm#fr_28.md) Ir., *Birreud*--*i.e.*,
 a cap.
 
-<span id="fn_29"></span>[170:1](fip49.htm#fr_29) Irish, *caipín
+<span id="fn_29"></span>[170:1](fip49.htm#fr_29.md) Irish, *caipín
 dearg*--*i.e.*, red cap.
 
 ------------------------------------------------------------------------
 
-[Next: The Confessions of Tom Bourke, by T. Crofton Croker](fip50)
+[Next: The Confessions of Tom Bourke, by T. Crofton Croker](fip50.md)

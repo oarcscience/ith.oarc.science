@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](kis08)  [Next](kis10) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](kis08)  [Next](kis10.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ told Fedelma the story of ...
 
 ------------------------------------------------------------------------
 
-[Next: Part X: The Story of the Ass and the Seal](kis10)
+[Next: Part X: The Story of the Ass and the Seal](kis10.md)

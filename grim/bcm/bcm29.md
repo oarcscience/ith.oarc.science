@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm28)  [Next](bcm30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm28)  [Next](bcm30.md) 
 
 ------------------------------------------------------------------------
 
 TALISMAN VIII.  
 <span id="img_12200"></span> [![](tn/generic.jpg)  
-Click to view](img/12200.jpg)  
+Click to view](img/12200.jpg.md)  
 *The characters should be graven on the outer side of the Ring*.
 
  
@@ -20,4 +20,4 @@ talisman is of yellow satin embroidered with black silk.
 
 ------------------------------------------------------------------------
 
-[Next: Talismans of the Sage of the Pyramids: IX, X](bcm30)
+[Next: Talismans of the Sage of the Pyramids: IX, X](bcm30.md)

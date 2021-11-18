@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [English](../ili/ili20) 
-[Previous](ili20)  [Next](ili22) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [English](../ili/ili20.md) 
+[Previous](ili20)  [Next](ili22.md) 
 
 ------------------------------------------------------------------------
 
@@ -1209,4 +1209,4 @@ vὣς εἰπὼν Ἀχιλῆα ἀλεὶς μένεν, ἐν δέ οἱ �
 
 ------------------------------------------------------------------------
 
-[Next: Book 22](ili22)
+[Next: Book 22](ili22.md)

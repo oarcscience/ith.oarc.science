@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](eog12)  [Next](eog14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](eog12)  [Next](eog14.md) 
 
 ------------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ Intangible Textual Heritage
 
 (*The Cause of the Flood*).
 
- <span id="fr_136"></span>[2](#fn_124)Gilgamish unto him spake, to
+ <span id="fr_136"></span>[2](#fn_124.md)Gilgamish unto him spake, to
 Uta-Napishtim the Distant:  
 "Uta-Napishtim, upon thee I gaze, (yet) in no wise thy presence  
 Strange is, (for) thou art like me, and in no wise different art thou;  
@@ -34,13 +34,13 @@ Uta-Napishtim (addressing him thus) unto Gilgamish answer'd:
 <span class="margnote">10.</span>Aye, and the rede of the Gods will I
 tell thee.  
                                          The City Shurippak <span
-id="fr_137"></span>[1](#fn_125)—  
+id="fr_137"></span>[1](#fn_125.md)—  
 (O ’tis) a city thou knowest!—is set \[on the marge\] of Euphrates,  
 Old is this city, with gods in its midst. (Now), the great gods a
 deluge  
 Purposed to bring: . . . . . . there was Anu, their sire; their
 adviser  
-Warrior Enlil; Ninurta <span id="fr_138"></span>[2](#fn_126), their
+Warrior Enlil; Ninurta <span id="fr_138"></span>[2](#fn_126.md), their
 herald; their leader(?) Ennugi;  
 Nin-igi-azag—’tis Ea—, (albeit) conspirator with them,  
 <span class="margnote">20.</span>Unto a reed-hut their counsel betray’d
@@ -73,7 +73,7 @@ number(?)\],
 <span class="margnote">45.</span>Booty of fish . . . . \[and big\] the
 harvest.  
 . . . . . . . . causing a plentiful rainfall (?) to come down upon
-you."' <span id="fr_139"></span>[3](#fn_127)
+you."' <span id="fr_139"></span>[3](#fn_127.md)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -82,10 +82,10 @@ you."' <span id="fr_139"></span>[3](#fn_127)
 (*Five lines mutilated*).
 
 <span class="margnote">55.</span>Pitch did the children <span
-id="fr_140"></span>[4](#fn_128) provide, (while) the strong brought
+id="fr_140"></span>[4](#fn_128) provide, (while.md) the strong brought
 \[all\] that was needful.  
 (Then) on the fifth day (after) I laid out the <span
-id="fr_141"></span>[5](#fn_129) shape (of my vessel),  
+id="fr_141"></span>[5](#fn_129) shape (of my vessel.md),  
 Ten *gar* each was the height of her sides, in accord with her
 planning(?),  
 Ten *gar* to match was the size of her deck (?), and the shape of the
@@ -99,7 +99,7 @@ Sevenfold did I divide her . . . ., divided her inwards
 Ninefold: hammer’d the caulking within her, (and) found me a
 quant-pole,  
 <span class="margnote">65.</span>(All) that was needful I added; the
-hull with six <span id="fr_142"></span>[1](#fn_130) *shar* of bitumen  
+hull with six <span id="fr_142"></span>[1](#fn_130.md) *shar* of bitumen  
 Smear’d I, (and) three *shar* of pitch \[did I smear\] on the inside;
 some people,  
 Bearing a vessel of grease, three *shar* of it brought (me); (and) one
@@ -110,7 +110,7 @@ the boatman
 (yea), beeves for the . . . I slaughter’d,  
 Each day lambs did I slay: mead, beer, oil, wine, too, the workmen  
 \[Drank\] as though they were water <span
-id="fr_143"></span>[2](#fn_131), and made a great feast like the New
+id="fr_143"></span>[2](#fn_131.md), and made a great feast like the New
 Year,
 
 (*Five mutilated lines "I added salve for the hand(s)," "the vessel was
@@ -128,11 +128,11 @@ Into the ship I embark’d all my kindred and family (with me),
 all handicraftsmen embarking.  
 (Then) decreed Shamash the hour: " . . . . (?)  
 Shall in the night let a plentiful rainfall(?) pour down . . . . <span
-id="fr_144"></span>[2](#fn_131)  
+id="fr_144"></span>[2](#fn_131.md)  
 (Then) do thou enter the vessel, and (straightway) shut down thy
 hatchway."  
 <span class="margnote">90.</span> <span
-id="fr_145"></span>[3](#fn_132)Came (then) that hour (appointed), . . .
+id="fr_145"></span>[3](#fn_132)Came (then) that hour (appointed.md), . . .
 . . . (?)  
 Did in the night let a plentiful rainfall(?) pour down . . . . (?)  
 View’d I the aspect of day: to look on the day bore a horror,  
@@ -163,7 +163,7 @@ darkness.
 (*Four lines mutilated "the land like . . .," "for one day the st\[orm\]
 . . ., " "fiercely blew . . . . " "like a battle . . . "*).
 
-Nor could a brother distinguish his brother[;](errata.htm#2) from heaven
+Nor could a brother distinguish his brother[;](errata.htm#2.md) from heaven
 were mortals  
 Not to be spied. O, were stricken with terror the gods at the Deluge,  
 Fleeing, they rose to the Heaven of Anu, and crouch’d in the
@@ -183,7 +183,7 @@ fish-spawn?'
 were sitting (all) humbled,  
 (Aye), in (their) weeping, (and) closed were their lips amid(?)\]the
 Assemblage.  
-Six days, a <span id="fr_146"></span>[1](#fn_133) se’nnight the
+Six days, a <span id="fr_146"></span>[1](#fn_133.md) se’nnight the
 hurricane, deluge, (and) tempest continued  
 Sweeping the land: when the seventh day came, were quelléd the
 warfare,  
@@ -200,7 +200,7 @@ Into the distance I gazed, to the furthest bounds of the Ocean,
 <span class="margnote">140.</span>Land was uprear’d at twelve (points),
 and the Ark on the Mountain of Nisir  
 Grounded; the Mountain of Nisir held fast, nor gave lease to her <span
-id="fr_147"></span>[2](#fn_134) shifting.  
+id="fr_147"></span>[2](#fn_134.md) shifting.  
 One day, (nay,) two, did Nisir hold fast, nor give lease to her
 shifting.  
 Three days, (nay), four, did Nisir hold fast, nor give lease to her
@@ -242,7 +242,7 @@ Unto destruction consign’d.'
 on his arrival,  
 Spied out the vessel, and (straightway) did Enlil burst into anger,  
 Swollen with wrath ’gainst the gods, the Igigi <span
-id="fr_148"></span>[1](#fn_135): 'Hath any of mortals  
+id="fr_148"></span>[1](#fn_135.md): 'Hath any of mortals  
 ’Scaped? Sooth, never a man could have lived through (the welter of)
 ruin.'  
 (Then) did Ninurta make answer and speak unto warrior Enlil,  
@@ -262,7 +262,7 @@ O, instead of thy making a flood, let a famine occur, that the country
 making a flood, let the Plague-god  
 Come and the people \[o’erwhelm\];  
      Sooth, indeed ’twas not I of the Great Gods the secret revealéd,  
-(But) to th’ Abounding in Wisdom <span id="fr_149"></span>[2](#fn_136)
+(But) to th’ Abounding in Wisdom <span id="fr_149"></span>[2](#fn_136.md)
 vouchsafed I a dream, and (in this wise)  
 He of the gods heard the secret. Deliberate, now, on his counsel'.  
 <span class="margnote">190.</span>(Then) to the Ark came up Enlil; my
@@ -303,7 +303,7 @@ Whence he fared forth may return to his land." Spake Uta-Napishtim,
 troubles of mortals do trouble thee also!  
 Bake then his flour (and) put at his head, but the time he is sleeping  
 On the house-wall do thou mark it. <span
-id="fr_150"></span>[1](#fn_137)" (So straightway) she (did so), his
+id="fr_150"></span>[1](#fn_137)" (So straightway) she (did so.md), his
 flour  
 Baked she (and) set at his head, but the time he was sleeping she
 noted  
@@ -332,10 +332,10 @@ Moisten’d: (and) *'fourthly'*—she kneaded thy dough \[(and)
 Added: (and) *'sixthly'*—’twas baked: \[(and) *'seventh'*\] —’twas I on
 a sudden  
 Touch’d thee and thou didst awake." To Uta-Napishtim, the Distant, <span
-id="fr_151"></span>[2](#fn_138)  
+id="fr_151"></span>[2](#fn_138.md)  
 <span class="margnote">230.</span>Gilgamish answer'd: "O, \[how\] shall
 I act, (or) where shall I hie me,  
-Uta-Napishtim? A Robber <span id="fr_152"></span>[3](#fn_139) (from me)
+Uta-Napishtim? A Robber <span id="fr_152"></span>[3](#fn_139) (from me.md)
 hath ravish’d my \[courage,\]  
 Death \[in\] my bed-chamber broodeth, and Death is wherever I \[listen\]
 ."
@@ -382,7 +382,7 @@ They themselves riding aboard (her).
 (*The magic gift of restored youth*).
 
                                     To Uta-Napishtim, the Distant <span
-id="fr_153"></span>[1](#fn_140),  
+id="fr_153"></span>[1](#fn_140.md),  
 Spake (then) his wife: "Came Gilgamish (hither) aweary with rowing,  
 <span class="margnote">260.</span>What wilt thou give wherewith he
 return to his land?" and the meanwhile  
@@ -401,7 +401,7 @@ Like unto those of the briar (in sooth) its prickles will scratch
 <span class="margnote">270.</span>(Yet) if thy hand reach this plant,
 \[thou’lt surely find life (everlasting)\] ."  
 (Then), when Gilgamish heard this, he loosen’d) <span
-id="fr_154"></span>[2](#fn_141) \[his girdle about him\],  
+id="fr_154"></span>[2](#fn_141.md) \[his girdle about him\],  
 Bound heavy stones \[on his feet\], which dragg’d him down to the
 sea-deeps,  
 \[Found he the plant\]; as he seized on the plant, (lo), \[its prickles
@@ -445,7 +445,7 @@ blood been spent? (yea), not for mine own self,
 Have I the guerdon achieved; (no), ’tis for an earth-lion (only)  
 Have I the guerdon secured—(and) now at the fortieth hour  
 (Such an) one reiveth (it)—O, when I open’d the sluice and . . .ed the
-attachment, <span id="fr_155"></span>[1](#fn_142)  
+attachment, <span id="fr_155"></span>[1](#fn_142.md)  
 (Aye), I noted the sign (?) which to me was vouchsafed as a warning,  
 <span class="margnote">300.</span>Would I had turn’d and abandon’d the
 boat at the marge (of the ocean)!"  
@@ -465,67 +465,67 @@ bitumen, e’en seven courses,
 One *shar* the city, (and) one *shar* the gardens, and one *shar* the
 (2)  
 . . . . the Temple of Ishtar, amass’d I three *shar* and . . . (?) of
-Erech <span id="fr_156"></span>[2](#fn_143).
+Erech <span id="fr_156"></span>[2](#fn_143.md).
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_124"></span>[49:2](eog13.htm#fr_136) Assyrian Version.
+<span id="fn_124"></span>[49:2](eog13.htm#fr_136.md) Assyrian Version.
 
-<span id="fn_125"></span>[50:1](eog13.htm#fr_137) The modern Fara.
+<span id="fn_125"></span>[50:1](eog13.htm#fr_137.md) The modern Fara.
 
-<span id="fn_126"></span>[50:2](eog13.htm#fr_138) Son of Enlil, and the
+<span id="fn_126"></span>[50:2](eog13.htm#fr_138.md) Son of Enlil, and the
 god of war and hunting.
 
-<span id="fn_127"></span>[50:3](eog13.htm#fr_139) Two difficult lines.
+<span id="fn_127"></span>[50:3](eog13.htm#fr_139.md) Two difficult lines.
 
-<span id="fn_128"></span>[50:4](eog13.htm#fr_140) Singular.
+<span id="fn_128"></span>[50:4](eog13.htm#fr_140.md) Singular.
 
-<span id="fn_129"></span>[50:5](eog13.htm#fr_141) Lit. "her."
+<span id="fn_129"></span>[50:5](eog13.htm#fr_141.md) Lit. "her."
 
-<span id="fn_130"></span>[51:1](eog13.htm#fr_142) Var. "three."
+<span id="fn_130"></span>[51:1](eog13.htm#fr_142.md) Var. "three."
 
-<span id="fn_131"></span>[51:2](eog13.htm#fr_144) Lit. "water of the
+<span id="fn_131"></span>[51:2](eog13.htm#fr_144.md) Lit. "water of the
 river."
 
-<span id="fn_132"></span>[51:3](eog13.htm#fr_145) Two difficult lines.
+<span id="fn_132"></span>[51:3](eog13.htm#fr_145.md) Two difficult lines.
 
-<span id="fn_133"></span>[52:1](eog13.htm#fr_146) Lit. "and."
+<span id="fn_133"></span>[52:1](eog13.htm#fr_146.md) Lit. "and."
 
-<span id="fn_134"></span>[52:2](eog13.htm#fr_147) Text has "the vessel."
+<span id="fn_134"></span>[52:2](eog13.htm#fr_147.md) Text has "the vessel."
 
-<span id="fn_135"></span>[53:1](eog13.htm#fr_148) Gods of heaven.
+<span id="fn_135"></span>[53:1](eog13.htm#fr_148.md) Gods of heaven.
 
-<span id="fn_136"></span>[53:2](eog13.htm#fr_149) *Atra-hasis*, another
+<span id="fn_136"></span>[53:2](eog13.htm#fr_149.md) *Atra-hasis*, another
 name for Uta-Napishtim.
 
-<span id="fn_137"></span>[54:1](eog13.htm#fr_150) A difficult passage,
+<span id="fn_137"></span>[54:1](eog13.htm#fr_150.md) A difficult passage,
 capable of other interpretations. But if this is the correct one,
 Uta-Napishtim is mocking the "strong man" who seeks eternal life, with
 the tally of the number of hours (or days?) he sleeps, unable even to
 stay awake.
 
-<span id="fn_138"></span>[54:2](eog13.htm#fr_151) As before "Unto him,
+<span id="fn_138"></span>[54:2](eog13.htm#fr_151.md) As before "Unto him,
 unto Uta-Napishtim."
 
-<span id="fn_139"></span>[54:3](eog13.htm#fr_152) So as it stands, but
+<span id="fn_139"></span>[54:3](eog13.htm#fr_152.md) So as it stands, but
 it is not intelligible.
 
-<span id="fn_140"></span>[55:1](eog13.htm#fr_153) Lit. "to him, (yea),
+<span id="fn_140"></span>[55:1](eog13.htm#fr_153) Lit. "to him, (yea.md),
 to Uta-Napishtim."
 
-<span id="fn_141"></span>[55:2](eog13.htm#fr_154) The word is not spelt
+<span id="fn_141"></span>[55:2](eog13.htm#fr_154.md) The word is not spelt
 quite correctly, if this is right.
 
-<span id="fn_142"></span>[56:1](eog13.htm#fr_155) Lit. "furniture." The
+<span id="fn_142"></span>[56:1](eog13.htm#fr_155.md) Lit. "furniture." The
 incident is lost in one of the previous gaps. Is it referable to the
 "dam" in the Fifth Tablet, Column VI?
 
-<span id="fn_143"></span>[56:2](eog13.htm#fr_156) Unfortunately there
+<span id="fn_143"></span>[56:2](eog13.htm#fr_156.md) Unfortunately there
 are two difficult words in these two lines.
 
 ------------------------------------------------------------------------
 
 [Next: The Twelfth Tablet: Gilgamish, In Despair, Enquires of the
-Dead](eog14)
+Dead](eog14.md)

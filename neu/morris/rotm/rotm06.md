@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [William Morris](../index)  [Index](index) 
-[Previous](rotm05)  [Next](rotm07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [William Morris](../index)  [Index](index.md) 
+[Previous](rotm05)  [Next](rotm07.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Roots of the Mountains*, by William Morris, \[1889\], at Intangible
 Textual Heritage
 
@@ -190,6 +190,6 @@ mountains dipped was a light that told of the rising of the moon.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Of Face-of-god and those Mountain-Dwellers](rotm07)
+[Next: Chapter VI. Of Face-of-god and those Mountain-Dwellers](rotm07.md)
 
 </div>

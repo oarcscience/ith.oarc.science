@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth](../index) 
-[Index](index)  [Previous](toe01)  [Next](toe03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth](../index.md) 
+[Index](index)  [Previous](toe01)  [Next](toe03.md) 
 
 ------------------------------------------------------------------------
 
@@ -425,7 +425,7 @@ top of the Alps or
 
 <span id="page_220">p. 220</span>
 
-Andes <span id="fr_0"></span>[\*](#fn_0), there shall be found once
+Andes <span id="fr_0"></span>[\*](#fn_0.md), there shall be found once
 cockle-shell , or piece of coral, it must be concluded, that this bed of
 stone had been originally formed at the bottom of the sea, as much as
 another bed which is evidently composed almost altogether of
@@ -571,7 +571,7 @@ our immediate observation, will appear from the following truth: All the
 consolidated masses, of which we now enquire into the cause, are, upon
 the surface of the earth in a state of general decay, although the
 various natures of those bodies admit of that dissolution in very
-different degrees <span id="fr_1"></span>[\*](#fn_1).
+different degrees <span id="fr_1"></span>[\*](#fn_1.md).
 
 FROM every view of the subject, therefore, we are directed to look into
 those consolidated masses themselves, in order to find principles from
@@ -599,7 +599,7 @@ amounting to a demonstration.
 
 ### Footnotes
 
-<span id="fn_0"></span>[220:\*](toe02.htm#fr_0) "Cette sommité élevée de
+<span id="fn_0"></span>[220:\*](toe02.htm#fr_0.md) "Cette sommité élevée de
 984 toises au dessus de notre lac, et par consequent de 1172 au dessus
 de la mer, est remarquable en ce que l'on y voit des fragmens d'huîtres
 pétrifiés.----Cette montagne est dominée par un rocher excarpé, qui
@@ -610,7 +610,7 @@ detachent, et que l'on rencontre en montant à la Croix de fer, sont
 remplis de *turbinites* de différentes especes." M. DE SAUSSURE, *Voyage
 dans les Alpes*, p. 394.
 
-<span id="fn_1"></span>[224:\*](toe02.htm#fr_1)  Stalactical and certain
+<span id="fn_1"></span>[224:\*](toe02.htm#fr_1.md)  Stalactical and certain
 ferruginous concretions may seem to form an exception to the generality
 of this proposition. But an objection of this kind could only arise from
 a partial view of things; for the concretion here is only temporary, it
@@ -620,4 +620,4 @@ dissolution, which will be treated of in its proper place.
 ------------------------------------------------------------------------
 
 [Next: Part II. An Investigation of the Natural Operations employed in
-consolidating the Strata of the Globe](toe03)
+consolidating the Strata of the Globe](toe03.md)

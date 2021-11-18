@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](nep18)  [Next](nep20) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](nep18)  [Next](nep20.md) 
 
 ------------------------------------------------------------------------
 
@@ -151,4 +151,4 @@ A. *In spirit and in truth*.
 
 ------------------------------------------------------------------------
 
-[Next: Dr. Watts's Cradle Hymn](nep20)
+[Next: Dr. Watts's Cradle Hymn](nep20.md)

@@ -1,20 +1,20 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](crc16)  [Next](crc18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](crc16)  [Next](crc18.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0037Z6ILA/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Cattle Raid of Cualnge*, by L. Winifred Faraday, \[1904\], at
 Intangible Textual Heritage
 
@@ -25,7 +25,7 @@ Intangible Textual Heritage
 When the hosts were there in the evening, they saw that one stone
 lighted on them from the east, and another from the west to meet it.
 They met in the air, and kept falling between Fergus's camp, and
-Ailill's, and Era's. <span id="fr_66"></span>[1](#fn_65) This sport and
+Ailill's, and Era's. <span id="fr_66"></span>[1](#fn_65.md) This sport and
 play went on from that hour to the same hour next day; and the hosts
 were sitting down, and their shields were over their heads to protect
 them against the masses of stones, till the plain was full of the
@@ -54,12 +54,12 @@ them again.
 
 ### Footnotes
 
-<span id="fn_65"></span>[64:1](crc17.htm#fr_66) Or Nera?
+<span id="fn_65"></span>[64:1](crc17.htm#fr_66.md) Or Nera?
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: The Death of the Boys](crc18)
+[Next: The Death of the Boys](crc18.md)
 
 </div>

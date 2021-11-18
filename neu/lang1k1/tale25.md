@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tale24)  [Next](tale26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tale24)  [Next](tale26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486222896/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ particularly good myself."
 <span id="img_21100"></span>
 
 [![THE BARMECIDE'S FEAST](tn/21100.jpg)  
-Click to enlarge](img/21100.jpg)  
+Click to enlarge](img/21100.jpg.md)  
 THE BARMECIDE'S FEAST  
 
 "Eat as much as you want," said the Barmecide. "I bought the woman who
@@ -244,4 +244,4 @@ pension, and kept him near his own person.
 ------------------------------------------------------------------------
 
 [Next: The Adventures of Prince Camaralzaman and the Princess
-Badoura](tale26)
+Badoura](tale26.md)

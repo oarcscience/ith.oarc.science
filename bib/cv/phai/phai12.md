@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Critical Views](../index)  [Index](index)  [Previous](phai11) 
-[Next](phai13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Critical Views](../index)  [Index](index)  [Previous](phai11.md) 
+[Next](phai13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPEBI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Prolegomena to the History of Ancient Israel*, by Julius Wellhausen,
 \[1885\], at Intangible Textual Heritage
 
@@ -66,7 +66,7 @@ undoubtedly theory, the fact does not prevent us from fixing its
 position in history. Even legislative fancy always proceeds upon some
 definite presupposition or other; and these presuppositions, rather than
 the laws themselves, must guide the steps of historical criticism. <span
-id="fr_192"></span>[1](#fn_192)
+id="fr_192"></span>[1](#fn_192.md)
 
 An argument which is the very opposite of this is also urged. The fact
 is insisted on that the laws of the Priestly Code are actually attested
@@ -87,7 +87,7 @@ centralisation of the worship and the hierocracy which that
 centralisation called into existence. Here also the important point is
 not the matter, but the spirit which is behind it, and may everywhere be
 recognised as the spirit of the age at one period or another. <span
-id="fr_193"></span>[2](#fn_193)
+id="fr_193"></span>[2](#fn_193.md)
 
 All these objections, meanwhile, labour under the same defect, namely,
 that they leave out of view that which is the real point at issue. The
@@ -100,7 +100,7 @@ accepted universally, and all that remains is to apply to the Priestly
 Code also the procedure by which the succession and the date of these
 two works has been determined—that procedure consisting in the
 comparison of them with the ascertained facts of Israelite
-history. <span id="fr_194"></span>[3](#fn_194)
+history. <span id="fr_194"></span>[3](#fn_194.md)
 
 <span id="page_367">p. 367</span>
 
@@ -124,7 +124,7 @@ consider the development which began with the prophets to have issued
 finally in the laws of cultus; and those who set out from "sound human
 reason" have generally forced the reverse process of this on the
 history, in spite of the traces which have come down to us, and which
-point the other way. <span id="fr_195"></span>[1](#fn_195)
+point the other way. <span id="fr_195"></span>[1](#fn_195.md)
 
 After laboriously collecting the data offered by the historical and
 prophetical books, we constructed a sketch of the Israelite history of
@@ -201,7 +201,7 @@ balanced, and the question would not admit of a decision. But this
 awkward situation would only occur if the arguments of a literary nature
 to be urged on that side really balanced those belonging to the
 substance of the case which plead for Graf's hypothesis. In discussing
-the composition of the Hexateuch, <span id="fr_196"></span>[1](#fn_196)
+the composition of the Hexateuch, <span id="fr_196"></span>[1](#fn_196.md)
 I have shown, following in the steps of other scholars, that this is by
 no means the case; and for the sake of completeness I will here repeat
 the principal points of that discussion.
@@ -251,7 +251,7 @@ that the Deuteronomist, according to chapter xii., knew nothing of a
 Mosaic central sanctuary, can he have read what we now read between
 Exodus xxiv. and xxxii.? He passes over all that is there inserted from
 the Priestly Code. Nöldeke finds, it is true, <span
-id="fr_197"></span>[1](#fn_197) a reminiscence of that code in the ark
+id="fr_197"></span>[1](#fn_197.md) a reminiscence of that code in the ark
 of acacia wood, Deut. x. 1. But the ark is here spoken of in a
 connection which answers exactly to that of the Jehovist (Exod. xxxii.
 xxxiii.), and is quite inconsistent with that, of the Priestly Code
@@ -266,7 +266,7 @@ institution of the ark as well as the erection of the tabernacle must
 have been narrated between xxxiii. 6 and 7, and then omitted by the
 present editor of the Pentateuch from the necessity of paying some
 regard to Q, Exod. xxv.; that this is the case many other considerations
-also tend to prove. <span id="fr_198"></span>[2](#fn_198)
+also tend to prove. <span id="fr_198"></span>[2](#fn_198.md)
 
 That the Deuteronomist
 
@@ -335,7 +335,7 @@ comes to an end with the nomination of Joshua as future leader of the
 people.
 
 This same narrative, with the addition of some scattered particulars in
-the Book of Deuteronomy, <span id="fr_199"></span>[1](#fn_199) will
+the Book of Deuteronomy, <span id="fr_199"></span>[1](#fn_199.md) will
 serve perfectly well as a thread to understand JE. What, on the
 contrary, is peculiar to the Priestly Code is passed over in deep
 silence, and from Exod. xxxiv. Deuteronomy takes us at once to Num. x.
@@ -384,7 +384,7 @@ for a proof that the seventy souls found a place in it also, yet it must
 at least be acknowledged, that that passage is by no means sufficient to
 break down the evidence that the priestly legislation has the
 legislation of Deuteronomy for its starting-point. <span
-id="fr_200"></span>[1](#fn_200)
+id="fr_200"></span>[1](#fn_200.md)
 
 <span id="page_374">p. 374</span>
 
@@ -433,11 +433,11 @@ opinion, . The piece is *Jehovistic*, and if the view were to be found
 in the Priestly Code at all, that Joshua first allotted their territory
 to Judah and Ephraim, and then, a good while after, to the other seven
 tribes, that source must have derived such a view from JE, where alone
-it has its roots. <span id="fr_201"></span>[1](#fn_201) And lastly,
+it has its roots. <span id="fr_201"></span>[1](#fn_201.md) And lastly,
 Nöldeke considers Josh. xxii. to speak quite decidedly for his view; but
 in the narrative of the Priestly Code, xxii. 9-34, to which the verses
 1-8 do not belong, there is no sign of Deuteronomistic revision to be
-found. <span id="fr_202"></span>[2](#fn_202)
+found. <span id="fr_202"></span>[2](#fn_202.md)
 
 There is a more serious difficulty only in the case of the short
 chapter, Josh. xx., of which the kernel belongs to the Priestly Code,
@@ -446,7 +446,7 @@ Deuteronomistic revision. Kayser declares these awkward accretions to be
 glosses of quite a late period. This may seem to be pure
 tendency-criticism; but it is reinforced by the confirmation of the
 Septuagint, which did not find any of those alleged Deuteronomistic
-additions where they now are. <span id="fr_203"></span>[3](#fn_203)
+additions where they now are. <span id="fr_203"></span>[3](#fn_203.md)
 
 But were it the case that some probable traces of Deuteronomistic
 revision were actually to be found in the Priestly Code, we must still
@@ -467,7 +467,7 @@ addition of a final priestly revision. Such a revision must be assumed
 to have taken place, if the Priestly Code is younger than Deuteronomy.
 But the assumption of its existence does not depend on deduction merely:
 Kuenen argued for it inductively, even before he became a supporter of
-Graf's hypothesis. <span id="fr_204"></span>[1](#fn_204) This may be
+Graf's hypothesis. <span id="fr_204"></span>[1](#fn_204.md) This may be
 best demonstrated by examining the chapters Lev. xvii.-xxvi. At present
 they are incorporated in the Priestly Code, having undergone a revision
 with that view, which in some places adds little, in others a good deal.
@@ -479,7 +479,7 @@ explains, for example, how chap. xviii. and chap. xx. both find a place
 in his production. Lev. xvii.-xxvi is incomparably instructive for the
 knowledge it affords of literary relationships: it is a perfect
 compendium of the literary history of the Pentateuch. <span
-id="fr_205"></span>[2](#fn_205)
+id="fr_205"></span>[2](#fn_205.md)
 
 As with Deuteronomy, so with this legislation; it is clear that it goes
 back to the Jehovistic legislation of Sinai (Exod. xx.-xxiii.) as its
@@ -505,7 +505,7 @@ person of the mighty," xix. 15, is a development of that in Exod. xxiii.
 appropriateness in Exod. xxii. 17 seq. The directions in Lev. xxii.
 27-29 are similar to those of Exod. xxii. 29, xxiii. 18, 19. In the same
 way those of Lev. xxiv. 15-22 are based both in contents and form on
-Exod. xxi. 12. <span id="fr_206"></span>[1](#fn_206) In xxiv. 22 we
+Exod. xxi. 12. <span id="fr_206"></span>[1](#fn_206.md) In xxiv. 22 we
 notice a polemical reference to Exod. xxi. 20 seq., 26 seq. In xxv. 1-7
 the whole of the expressions of Exod. xxiii. 10, 11 are repeated. In xx.
 24, we have the Jehovistic phrase, "a land flowing with milk and honey."
@@ -523,7 +523,7 @@ Lev. xvii. seq. attaches great importance to unity of worship. It is
 still a demand, not a presupposition (xvii. 8 seq., xix. 30, xxvi. 2);
 the motive of it is to guard against heathen influences and to secure
 the establishment of a monotheism without images. <span
-id="fr_207"></span>[2](#fn_207) This is quite recognisable, and forms an
+id="fr_207"></span>[2](#fn_207.md) This is quite recognisable, and forms an
 important point of contact with Deuteronomy. The same contact may be
 observed in the prohibition of certain observances
 
@@ -561,10 +561,10 @@ morality, in the notion of *holiness*, in a somewhat materialistic
 sense, as the great requirement of religion, and in the fact that the
 demand of holiness is made to rest on the residence of the people near
 the sanctuary and in the holy land. <span
-id="fr_208"></span>[1](#fn_208) But the affinity is still more striking
+id="fr_208"></span>[1](#fn_208.md) But the affinity is still more striking
 in the language: many unusual phrases, and even whole sentences, from
 Ezekiel, are repeated in Lev. xvii. seq. <span
-id="fr_209"></span>[2](#fn_209) The 10th of the 7th month is in Lev.
+id="fr_209"></span>[2](#fn_209.md) The 10th of the 7th month is in Lev.
 xxv. 9 as in Ezekiel, new-year's day, not, as in the
 
 <span id="page_379">p. 379</span>
@@ -613,7 +613,7 @@ proceeds from the Priestly Code, is universally acknowledged.
 
 <span class="contnote">\[paragraph continues\]</span> Its importance for
 the literary history of Israel cannot be over-estimated. <span
-id="fr_210"></span>[1](#fn_210)
+id="fr_210"></span>[1](#fn_210.md)
 
  
 
@@ -798,7 +798,7 @@ originates in Jeremiah (iv. 4, ix. 24 seq.), but in Lev. xxvi. it is
 used as a well-known set term. In the same way the phrase *pine away in
 their iniquity* is repeated by Ezekiel as he heard it in the mouth of
 the people. He is its originator in literature; in Lev. xxvi. it is
-borrowed. <span id="fr_211"></span>[1](#fn_211)
+borrowed. <span id="fr_211"></span>[1](#fn_211.md)
 
 The criticism of Lev. xvii. seq. leads us to the result, that a
 collection of laws which took form during the period of the exile was
@@ -888,7 +888,7 @@ that of the Jehovist, not to that of the priestly author.
 Deuteronomy and the Book of Jeremiah first agree with the Priestly Code
 in certain important expressions. In Ezekiel such expressions are much
 more numerous, and the agreement is by no means with Lev. xvii.-xxvi.
-alone. <span id="fr_212"></span>[1](#fn_212) In the subsequent
+alone. <span id="fr_212"></span>[1](#fn_212.md) In the subsequent
 post-exilic prophets down to Malachi the points of contact are limited
 to details, but do not cease to occur; they occur also in the Psalms and
 in Ecclesiastes. Reminiscences of the Priestly Code are found nowhere
@@ -923,7 +923,7 @@ viii. 7, xlii. 12; Pr. xvii. 14; Eccles. vii. 8. In Gen. x. 10 ‏ראשית
 is the principal part of the kingdom; in the other it is the beginning
 of the reign. *In the beginning* was in the early time, if absolute,
 ‏בָראשנה‎, ‏בַתּחלה‎; if relative, ‏בתחלת תחלת‎. <span
-id="fr_213"></span>[1](#fn_213)
+id="fr_213"></span>[1](#fn_213.md)
 
 We have already spoken of the word ‏ברא‎, a word remarkable for its
 specific theological import. Apart from Amos iv. 13 and Isa. iv. 5 it is
@@ -934,7 +934,7 @@ li. 12, lxxxix. 13, 48, cii. 19, civ. 30, cxlviii. 5; Eccles. xii. 1. It
 occurs, however, most frequently, 20 times in fact, in Isa. xl.-lxvi.;
 and curiously enough, never in Job, where we should expect to find it.
 It has nothing to do with ‏בֵרֵא‎ (cut down wood) and ‏בריא‎
-(fat). <span id="fr_214"></span>[2](#fn_214)
+(fat). <span id="fr_214"></span>[2](#fn_214.md)
 
 <span id="page_388">p. 388</span>
 
@@ -967,7 +967,7 @@ in the New Testament μία σαββάτων for the first day of the week.
 Gen. i. 6, ‏רקיע‎ (firmament) is found, outside the Priestly Code, only
 in Ezek. (i. 22-26, x. 1), and in still later writers; Ps. xix. 2, cl.
 1; Dan. xii. 3; cf. Job xxxviii. 18. <span
-id="fr_215"></span>[1](#fn_215) Gen. i. 10 ‏ימים‎ (the sea, singular,
+id="fr_215"></span>[1](#fn_215.md) Gen. i. 10 ‏ימים‎ (the sea, singular,
 see i. 22; Lev. xi. 9, 10), is rare in older times, and belongs to lofty
 poetical language; it is, on the contrary, frequent in Ezekiel (ten
 times), and in the Psalms (seven times); and occurs besides in Job vi.
@@ -1034,7 +1034,7 @@ and secondly the caprice of the writers in apparent trifles, such as
 have so dislocated the original facts in this matter, that in general we
 can only deal in proportions, and must be content with showing that a
 word occurs say 3 times in the other literature and 27 times in an equal
-extent of the later. <span id="fr_216"></span>[1](#fn_216)
+extent of the later. <span id="fr_216"></span>[1](#fn_216.md)
 
 2\. The study of the history of language is still at a very elementary
 stage in Hebrew. In that which pertains to the lexicographer it would do
@@ -1073,38 +1073,38 @@ the two works is also the same. There is also some contact in this
 respect, though to a less degree, between the Priestly Code and Isa.
 xl.-lxvi., and this must doubtless receive a historical explanation in
 the circumstances of the Babylonian age. <span
-id="fr_217"></span>[1](#fn_217)
+id="fr_217"></span>[1](#fn_217.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_192"></span>[366:1](phai12.htm#fr_192) Cf. p.
-[50](phai04.htm#page_50), [149](phai07.htm#page_149) seq.
-[161](phai08.htm#page_161) seq. [254](phai10.htm#page_254) seq. This is
+<span id="fn_192"></span>[366:1](phai12.htm#fr_192.md) Cf. p.
+[50](phai04.htm#page_50), [149](phai07.htm#page_149.md) seq.
+[161](phai08.htm#page_161) seq. [254](phai10.htm#page_254.md) seq. This is
 the reason why the strata of the tradition require to be compared as
 carefully as those of the law.
 
-<span id="fn_193"></span>[366:2](phai12.htm#fr_193) Comp. p.
-[76](phai05.htm#page_76) seq. [103](phai06.htm#page_103) seq.
+<span id="fn_193"></span>[366:2](phai12.htm#fr_193.md) Comp. p.
+[76](phai05.htm#page_76) seq. [103](phai06.htm#page_103.md) seq.
 
-<span id="fn_194"></span>[366:3](phai12.htm#fr_194) The method is stated
-in the introduction ([1](phai03.htm#page_1) seq.): and special pains are
+<span id="fn_194"></span>[366:3](phai12.htm#fr_194.md) The method is stated
+in the introduction ([1](phai03.htm#page_1) seq..md): and special pains are
 taken to bring it out distinctly in the first chapter, that about the
 place of worship.
 
-<span id="fn_195"></span>[367:1](phai12.htm#fr_195) And it would not be
+<span id="fn_195"></span>[367:1](phai12.htm#fr_195.md) And it would not be
 surprising when we consider the whole character of the polemic against
 Graf's hypothesis, if the next objection should be the very opposite of
 the above, viz. that it is not able to construct the history.
 
-<span id="fn_196"></span>[369:1](phai12.htm#fr_196) *Jahrb. Deutsche
+<span id="fn_196"></span>[369:1](phai12.htm#fr_196.md) *Jahrb. Deutsche
 Theol.*, 1876, p. 392 seq., 531 seq.; 1877, p. 407 seq.
 
-<span id="fn_197"></span>[370:1](phai12.htm#fr_197) *Jahrbb. für prot.
+<span id="fn_197"></span>[370:1](phai12.htm#fr_197.md) *Jahrbb. für prot.
 Theologie*, 1875, p. 350.
 
-<span id="fn_198"></span>[370:2](phai12.htm#fr_198) Without the ark
+<span id="fn_198"></span>[370:2](phai12.htm#fr_198.md) Without the ark
 there is no use of the tabernacle, and the distinction in Exod. xxxiii.
 which is treated as one of importance, between the representation
 (Mal’ak) of <span id="page_371">p. 371</span> Jehovah and Jehovah
@@ -1112,7 +1112,7 @@ Himself, has no meaning. By making an image the Israelites showed that
 they could not do without a sensible representation of the Deity, and
 Jehovah therefore gave them the ark instead of the calf.
 
-<span id="fn_199"></span>[372:1](phai12.htm#fr_199) Appointment of
+<span id="fn_199"></span>[372:1](phai12.htm#fr_199.md) Appointment of
 judges and wardens ‏שומרים‎ = peace-officials, who, according to xx. 9,
 are in war replaced by the captains), i. 9-18, Taberah, Massah, Kibroth
 Taavah (ix. 22), Dathan and Abiram (xi. 6), Balaam (xxiii. 5), Baal-peor
@@ -1121,7 +1121,7 @@ referred to. In Deut. i. 9-18 the scene is still at Horeb, but this
 passage shows acquaintance with Num. xi. and uses both versions for a
 new and somewhat different one.
 
-<span id="fn_200"></span>[373:1](phai12.htm#fr_200) Nöldeke frequently
+<span id="fn_200"></span>[373:1](phai12.htm#fr_200.md) Nöldeke frequently
 argues from such numbers as 12 and 70, as if they only occurred in Q.
 But that is not the case. As Q in the beginning of Genesis has groups of
 10, JE has groups of 7; 12 and 40 occur in JE as frequently as in Q, and
@@ -1137,18 +1137,18 @@ in Gen. xlvi. 8-27) that they are far less original than the figures.
 The numbers are round numbers, and in fact do not admit of such a
 recital of the items of which they are made up.
 
-<span id="fn_201"></span>[375:1](phai12.htm#fr_201) *Jahrbb. für
+<span id="fn_201"></span>[375:1](phai12.htm#fr_201.md) *Jahrbb. für
 Deutsche Theol.*, 1876, p. 596 seq.
 
-<span id="fn_202"></span>[375:2](phai12.htm#fr_202) Joh. Hollenberg in
+<span id="fn_202"></span>[375:2](phai12.htm#fr_202.md) Joh. Hollenberg in
 *Stud. und Krit.*, 1874, p. 462 seq.
 
-<span id="fn_203"></span>[375:3](phai12.htm#fr_203) Aug. Kayser, *Das
+<span id="fn_203"></span>[375:3](phai12.htm#fr_203.md) Aug. Kayser, *Das
 vorexilische Buch der Urgeschichte Israels* (Strassburg, 1874), p. 147,
 seq.; Joh. Hollenberg, *der Character der Alex. Uebersetzung des B.
 Josua* (Programm des Gymn. zu Mörs, 1876), p. 15.
 
-<span id="fn_204"></span>[376:1](phai12.htm#fr_204) *Historisch-Kritisch
+<span id="fn_204"></span>[376:1](phai12.htm#fr_204.md) *Historisch-Kritisch
 Onderzoek* I. (Leyden, 1861), p. 165; the reviser of the Pentateuch must
 be sought in the same circles in which the Book of Origins (Q) arose and
 was gradually extended and modified, *i.e.*, among the priests of
@@ -1161,38 +1161,38 @@ last reviser, and the results of his investigation have now been
 published in the first part of the second edition of his great isagogic
 work (Leyden, 1885).
 
-<span id="fn_205"></span>[376:2](phai12.htm#fr_205) Compare *Jahrbb. für
+<span id="fn_205"></span>[376:2](phai12.htm#fr_205.md) Compare *Jahrbb. für
 Deutsche Theol.*, 1877, p. 422-444, especially on the elimination of the
 additions of the reviser. In the present discussion I shall not take
 these into account. In chapter xxiii., for example, I only take account
 of verses 9-22, 39-44, in chapter xxiv. only of vers. 15-22.
 
-<span id="fn_206"></span>[377:1](phai12.htm#fr_206) Compare xxiv. 15
+<span id="fn_206"></span>[377:1](phai12.htm#fr_206.md) Compare xxiv. 15
 seq. with Exod. xxii. 27 (xxi. 17); xxiv. 18 with Exod. xxi. 28 seq.;
 xxiv. 19, 20 with Exod. xxi. 33, 34; xxiv. 21 with Exod. xxi. 28 seq.
 
-<span id="fn_207"></span>[377:2](phai12.htm#fr_207) xvii. 7 (cf. 2
+<span id="fn_207"></span>[377:2](phai12.htm#fr_207.md) xvii. 7 (cf. 2
 Chron. xi. 15), xviii. 21, xix. 4, 19, 26, 29, 31, xx. 2 seq. 6, xxvi.
 1, 30. With regard to the date we have to note the stern prohibition of
-the service of Moloch. On Lev. xvii. see above, [p. 376](#page_376).
+the service of Moloch. On Lev. xvii. see above, [p. 376](#page_376.md).
 
-<span id="fn_208"></span>[378:1](phai12.htm#fr_208) On Lev. xxii. 24,
+<span id="fn_208"></span>[378:1](phai12.htm#fr_208.md) On Lev. xxii. 24,
 25, compare Kuenen's Hibbert Lectures.
 
-<span id="fn_209"></span>[378:2](phai12.htm#fr_209) Compare Colenso,
+<span id="fn_209"></span>[378:2](phai12.htm#fr_209.md) Compare Colenso,
 *Pentateuch and Joshua*, vi. p. 3-23. Kayser, *op. cit.* p. 177-179.
 Smend on Ezekiel, p. xxv.
 
-<span id="fn_210"></span>[380:1](phai12.htm#fr_210) L. Horst, in his
+<span id="fn_210"></span>[380:1](phai12.htm#fr_210.md) L. Horst, in his
 discussion on Lev. xvii.-xxxi, and Ezekiel (Colmar, 1881), has
 strikingly shown that the mechanical style of criticism in which
 Dillmann even surpasses his predecessor Knobel, is not equal to the
 problem presented by the Law of Holiness. He goes on, however, to an
 attempt to save, by modifying it, the old Strassburg view of Ezekiel's
 authorship; and as Kuenen justly remarks, he makes ship-wreck on Lev.
-xxvi. (*Theol. Tijdschr.* 1882, p. 646). Cf. [p. 384](#page_384) note.
+xxvi. (*Theol. Tijdschr.* 1882, p. 646). Cf. [p. 384](#page_384.md) note.
 
-<span id="fn_211"></span>[384:1](phai12.htm#fr_211) Horst tries to find
+<span id="fn_211"></span>[384:1](phai12.htm#fr_211.md) Horst tries to find
 a place for Lev. xxvi. in the last years of king Zedekiah (*op. cit.* p.
 65, 66), but in this he is merely working out his theory that the author
 was the youthful Ezekiel; and the theory is sufficiently condemned if it
@@ -1202,13 +1202,13 @@ Ezekiel xxxiii. what that passage says. On Deut. x. 16, xxx. 6, and
 generally on the color Hieremianus in Deuteronomy, see *Jahrb. für D.
 Theol.*, 1877, p. 464.
 
-<span id="fn_212"></span>[386:1](phai12.htm#fr_212) Especially
+<span id="fn_212"></span>[386:1](phai12.htm#fr_212.md) Especially
 noticeable is ‏פאת נגב תימנה‎ in Ezekiel and the Priestly Code. In the
 latter Negeb, even when it refers to the actual Negeb, yet is used as
 denoting *south* (Num. xxxiv. 3, xxv. 2-4), *i.e.*, it has completely
 lost its original meaning.
 
-<span id="fn_213"></span>[387:1](phai12.htm#fr_213) The vocalisation
+<span id="fn_213"></span>[387:1](phai12.htm#fr_213.md) The vocalisation
 ‏בֵראשית‎ is very curious: we should expect ‏בָראשׁית‎. It has been
 attempted to do justice to it by translating: "In the beginning, when
 God created heaven and earth—but the earth was without form and void,
@@ -1220,12 +1220,12 @@ translating: "In the beginning God created heaven and earth." In
 Aramaic, on the contrary, such adverbs take, as is well known, the form
 of the *status constructus*. Cf. ‏רבת‎ Psalm lxvv. 10, cxx. 6.
 
-<span id="fn_214"></span>[387:2](phai12.htm#fr_214) I do not speak of
+<span id="fn_214"></span>[387:2](phai12.htm#fr_214.md) I do not speak of
 the use of *Elohim* and the application of the names of God in the
 Priestly Code: the matter is not yet clear to me. Very curious is ‏תשם‎,
 Lev. xxiv. 11.
 
-<span id="fn_215"></span>[388:1](phai12.htm#fr_215) It does not mean, as
+<span id="fn_215"></span>[388:1](phai12.htm#fr_215.md) It does not mean, as
 is generally assumed, that which is beaten out thin, is stretched out.
 For, firstly, the heaven is never considered to be made of sheet-metal;
 secondly, the meaning in question only belongs to the Piel, and the
@@ -1239,7 +1239,7 @@ which alone is supported by tradition, and which is very satisfactory,
 is confirmed by the Syriac, where the verb ‏רקע‎ is frequent in the
 sense of *fortify*.
 
-<span id="fn_216"></span>[390:1](phai12.htm#fr_216) Too much importance
+<span id="fn_216"></span>[390:1](phai12.htm#fr_216.md) Too much importance
 must not be attached to Aramaisms: even when they admit of clear
 demonstration they prove little while occurring merely in single
 instances. We early find remarkable phenomena, such as ‏נדר‎ for ‏נזר‎
@@ -1248,7 +1248,7 @@ instances. We early find remarkable phenomena, such as ‏נדר‎ for ‏נז�
 yet such an Aramaism as ‏נת שּנתה‎ in Num. xv. 27, or even ‏קרבן‎, is
 very remarkable.
 
-<span id="fn_217"></span>[391:1](phai12.htm#fr_217) On Canticles cf.
+<span id="fn_217"></span>[391:1](phai12.htm#fr_217.md) On Canticles cf.
 Schürer's *Theol. Lit. Z.*, 1879, p. 31. It also, by the names of plants
 and similar details mentioned in it, is an important source for the
 history of external civilisation. In Isa. liv. 11, read with the Sept.
@@ -1257,4 +1257,4 @@ history of external civilisation. In Isa. liv. 11, read with the Sept.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X. The Oral and the Written Torah.](phai13)
+[Next: Chapter X. The Oral and the Written Torah.](phai13.md)

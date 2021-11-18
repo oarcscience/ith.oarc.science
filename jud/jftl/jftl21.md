@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](jftl20)  [Next](jftl22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](jftl20)  [Next](jftl22.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Jewish Fairy Tales and Legends*, by Aunt Naomi (pseud. Gertrude Landa),
 \[1919\], at Intangible Textual Heritage
 
@@ -17,7 +17,7 @@
 <span id="img_20200"></span> <span align="CENTER"> [![The four youths
 mounted the eagles which flew aloft to the extremity of their cords.
 (&lt;i&gt;Page 211&lt;/i&gt;).](tn/20200.jpg)  
-Click to enlarge](img/20200.jpg)  
+Click to enlarge](img/20200.jpg.md)  
 The four youths mounted the eagles which flew aloft to the extremity of
 their cords. (*Page 211*).  
 </span>
@@ -282,4 +282,4 @@ heard of again.
 
 ------------------------------------------------------------------------
 
-[Next: The Pope's Game of Chess](jftl22)
+[Next: The Pope's Game of Chess](jftl22.md)

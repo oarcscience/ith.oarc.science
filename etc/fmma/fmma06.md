@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma05)  [Next](fmma07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma05)  [Next](fmma07.md) 
 
 ------------------------------------------------------------------------
 
@@ -233,4 +233,4 @@ After the death of Attila we hear little more of the Huns.
 
 ------------------------------------------------------------------------
 
-[Next: Genseric The Vandal. King From 427-477 A.D.](fmma07)
+[Next: Genseric The Vandal. King From 427-477 A.D.](fmma07.md)

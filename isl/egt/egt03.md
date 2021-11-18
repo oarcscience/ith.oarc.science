@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](egt02)  [Next](egt04) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](egt02)  [Next](egt04.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@
 
 ------------------------------------------------------------------------
 
-[Next: I.--Life of the Author.](egt04)
+[Next: I.--Life of the Author.](egt04.md)

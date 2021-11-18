@@ -1,14 +1,14 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](eft27)  [Next](eft29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](eft27)  [Next](eft29.md) 
 
 ------------------------------------------------------------------------
 
 # Lazy Jack
 
 <span id="img_030"></span> [![](tn/030.jpg)  
-Click to enlarge](img/030.jpg)
+Click to enlarge](img/030.jpg.md)
 
 ONCE upon a time there was a boy whose name was Jack, and he lived with
 his mother on a common. They were very poor, and the old woman got her
@@ -73,4 +73,4 @@ them in great happiness until she died.
 
 ------------------------------------------------------------------------
 
-[Next: Johnny-Cake](eft29)
+[Next: Johnny-Cake](eft29.md)

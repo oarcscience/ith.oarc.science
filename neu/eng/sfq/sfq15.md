@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq14)  [Next](sfq16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq14)  [Next](sfq16.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ riding on her dragon.
 
 ------------------------------------------------------------------------
 
-[Next: Prince Arthur](sfq16)
+[Next: Prince Arthur](sfq16.md)

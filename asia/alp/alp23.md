@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp22) 
-[Next](alp24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp22.md) 
+[Next](alp24.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@
 <span id="img_02300"></span>
 
 [![ARA AND SEMIRAMIS](tn/02300.jpg)  
-Click to enlarge](img/02300.jpg)  
+Click to enlarge](img/02300.jpg.md)  
 ARA AND SEMIRAMIS  
 
 ### ARA AND SEMIRAMIS
@@ -82,4 +82,4 @@ the land of Armenia, trusting him in all things.
 
 ------------------------------------------------------------------------
 
-[Next: Lament Over the Heroes Fallen in the Battle of Avarair](alp24)
+[Next: Lament Over the Heroes Fallen in the Battle of Avarair](alp24.md)

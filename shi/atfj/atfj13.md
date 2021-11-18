@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj12)  [Next](atfj14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj12)  [Next](atfj14.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,13 +18,13 @@
 
 <span id="img_14"></span> <span align="CENTER"> [![14. Okawa Plunges the
 Hosokawa Deed Into His Stomach](tn/14.jpg)  
-Click to enlarge](img/14.jpg)  
+Click to enlarge](img/14.jpg.md)  
 14. Okawa Plunges the Hosokawa Deed Into His Stomach  
 </span>
 
 ### XI
 
-### PRINCE HOSOKAWA'S MOST VALUABLE TITLE-DEEDS <span id="fr_25"></span>[1](#fn_25)
+### PRINCE HOSOKAWA'S MOST VALUABLE TITLE-DEEDS <span id="fr_25"></span>[1](#fn_25.md)
 
 SEVERAL hundred years ago there dwelt in lands of the Hosokawas a widow
 and her daughter, a beautiful girl of seventeen, named Kazuye. O Kazuye
@@ -131,7 +131,7 @@ family depended. From that time on, the document has been called
 
 ### Footnotes
 
-<span id="fn_25"></span>[71:1](atfj13.htm#fr_25) Told to me by Mr.
+<span id="fn_25"></span>[71:1](atfj13.htm#fr_25.md) Told to me by Mr.
 Matsuzaki, and said to be perfectly true, the document in question being
 in possession of the present Prince Hosokawa.
 
@@ -139,6 +139,6 @@ in possession of the present Prince Hosokawa.
 
 ------------------------------------------------------------------------
 
-[Next: XII. The Story of Kato Sayemon](atfj14)
+[Next: XII. The Story of Kato Sayemon](atfj14.md)
 
 </div>

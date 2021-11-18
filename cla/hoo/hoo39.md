@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo38)  [Next](hoo40) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo38)  [Next](hoo40.md) 
 
 ------------------------------------------------------------------------
 
@@ -22,4 +22,4 @@ And end these holy rites, with aspect kind. 10
 
 ------------------------------------------------------------------------
 
-[Next: XXXV: To Diana](hoo40)
+[Next: XXXV: To Diana](hoo40.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq43)  [Next](sfq45) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq43)  [Next](sfq45.md) 
 
 ------------------------------------------------------------------------
 
@@ -102,4 +102,4 @@ part, with nothing but her love to guide her.
 
 ------------------------------------------------------------------------
 
-[Next: How Britomart came to the Castle of the Churl Malbecco](sfq45)
+[Next: How Britomart came to the Castle of the Churl Malbecco](sfq45.md)

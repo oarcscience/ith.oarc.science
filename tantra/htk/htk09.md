@@ -1,18 +1,18 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tantra](../index) 
-[Index](index)  [Previous](htk08)  [Next](htk10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tantra](../index.md) 
+[Index](index)  [Previous](htk08)  [Next](htk10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8185988161/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0038BQIXG/internetsacredte.md)
 
 </div>
 
@@ -28,18 +28,18 @@ at Intangible Textual Heritage
 ### VERSE 5
 
 O MOTHER, they who recite Thy charming *Bīja*, composed of the first of
-the group of letters, <span id="fr_43"></span>[1](#fn_43) followed by
-*Vahni*, <span id="fr_44"></span>[2](#fn_44) *Rati*, <span
-id="fr_45"></span>[3](#fn_45) and beautified by *Vidhu*, <span
-id="fr_46"></span>[4](#fn_46) thrice, the *Kürca Bīja* <span
-id="fr_47"></span>[5](#fn_47) twice, and thereafter, O Smiling Face, the
-*Lajjā* <span id="fr_48"></span>[6](#fn_48) *Bīja* twice, followed by
-the two *Thas*, <span id="fr_49"></span>[7](#fn_49) they, O Spouse of
-the Destroyer of the Deva of Desire <span id="fr_50"></span>[8](#fn_50)
-contemplating Thy true form, <span id="fr_51"></span>[9](#fn_51) become
+the group of letters, <span id="fr_43"></span>[1](#fn_43.md) followed by
+*Vahni*, <span id="fr_44"></span>[2](#fn_44.md) *Rati*, <span
+id="fr_45"></span>[3](#fn_45.md) and beautified by *Vidhu*, <span
+id="fr_46"></span>[4](#fn_46.md) thrice, the *Kürca Bīja* <span
+id="fr_47"></span>[5](#fn_47.md) twice, and thereafter, O Smiling Face, the
+*Lajjā* <span id="fr_48"></span>[6](#fn_48.md) *Bīja* twice, followed by
+the two *Thas*, <span id="fr_49"></span>[7](#fn_49.md) they, O Spouse of
+the Destroyer of the Deva of Desire <span id="fr_50"></span>[8](#fn_50.md)
+contemplating Thy true form, <span id="fr_51"></span>[9](#fn_51.md) become
 themselves the Deva of Love whose eyes are as beautiful as the petals of
 the lotus which Lakṣmī holds in Her playful dance. <span
-id="fr_52"></span>[10](#fn_52)
+id="fr_52"></span>[10](#fn_52.md)
 
 COMMENTARY
 
@@ -112,7 +112,7 @@ body.'
 
 \[Durgārāma explains Svarūpa in the following ways: (*a*) The true form
 is that indicated in the previous or following verses. (*b*) It is that
-of the nine-syllabled Mantra. (*c*) [It](errata.htm#9) is that indicated
+of the nine-syllabled Mantra. (*c*) [It](errata.htm#9.md) is that indicated
 by the letters composing the Mantra. For instance Varadā-Tantra says
 that in 'Krīṁ', K is Kālī, R is Brahmā, I is Mahāmāyā, Nāda is the
 Matrix of the universe and Bindu is the Dispeller of Sorrow. In 'Hūṁ', H
@@ -135,37 +135,37 @@ charming the whole world with their beauty.
 
 ### Footnotes
 
-<span id="fn_43"></span>[56:1](htk09.htm#fr_43) <span id="page_58">p.
+<span id="fn_43"></span>[56:1](htk09.htm#fr_43.md) <span id="page_58">p.
 58</span> That is, *Ka*.
 
-<span id="fn_44"></span>[56:2](htk09.htm#fr_44) Deva of Fire, or *Ra*.
+<span id="fn_44"></span>[56:2](htk09.htm#fr_44.md) Deva of Fire, or *Ra*.
 
-<span id="fn_45"></span>[56:3](htk09.htm#fr_45) Śakti of Kama, God of
+<span id="fn_45"></span>[56:3](htk09.htm#fr_45.md) Śakti of Kama, God of
 love, or long Ī.
 
-<span id="fn_46"></span>[56:4](htk09.htm#fr_46) The moon, or
+<span id="fn_46"></span>[56:4](htk09.htm#fr_46.md) The moon, or
 *Nāda-bindu*. The Bīja is, therefore, *K* + *r* + *ī* + *ṁ* = *Krīṁ*.
 
-<span id="fn_47"></span>[56:5](htk09.htm#fr_47) That is, *Hūṁ*.
+<span id="fn_47"></span>[56:5](htk09.htm#fr_47.md) That is, *Hūṁ*.
 
-<span id="fn_48"></span>[56:6](htk09.htm#fr_48) *Hrīṁ*, literal meaning
+<span id="fn_48"></span>[56:6](htk09.htm#fr_48.md) *Hrīṁ*, literal meaning
 of *Lajjā*, is modesty.
 
-<span id="fn_49"></span>[56:7](htk09.htm#fr_49) Or Svāhā, Śakti of Agni.
+<span id="fn_49"></span>[56:7](htk09.htm#fr_49.md) Or Svāhā, Śakti of Agni.
 The *mantra* is, then, *Krīṁ, Krīṁ, Krīṁ, Hūṁ, Hūṁ, Hūṁ, Hrīṁ Svāhā*, or
 the nine-lettered *Vidyā*, or feminine *mantra*, which ends with *Svāhā*
 (see Viśvasāra-Tantra).
 
-<span id="fn_50"></span>[56:8](htk09.htm#fr_50) *Smarahara* or *Siva*,
+<span id="fn_50"></span>[56:8](htk09.htm#fr_50.md) *Smarahara* or *Siva*,
 who destroyed Manmatha with fire from his central eye of wisdom when the
 latter sought to distract him by passion from his *Yoga*. The Devī,
 according to the Brahmavaivarta-Purāṇa, restored Manmatha to life (see
 as to this Bhāskararāya's Commentary on the Lalitā, verse 34).
 
-<span id="fn_51"></span>[56:9](htk09.htm#fr_51) *Svarūpaṁ*, that is true
+<span id="fn_51"></span>[56:9](htk09.htm#fr_51.md) *Svarūpaṁ*, that is true
 form as described in the first and other verses (V).
 
-<span id="fn_52"></span>[56:10](htk09.htm#fr_52) *Lakṣmī* is associated
+<span id="fn_52"></span>[56:10](htk09.htm#fr_52.md) *Lakṣmī* is associated
 with, holds, and stands on the lotus, hence Her titles—Kamalā, Padmā,
 *Padmālayā*, *Padmadhārini* (see Lakṣmīstotra in Tantrasāra, p. 577,
 Rasik Mohan Chatterjee's edition).
@@ -174,6 +174,6 @@ Rasik Mohan Chatterjee's edition).
 
 ------------------------------------------------------------------------
 
-[Next: Verse 6](htk10)
+[Next: Verse 6](htk10.md)
 
 </div>

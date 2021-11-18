@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](sbf76)  [Next](sbf78) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](sbf76)  [Next](sbf78.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Specimens of Bushman Folklore*, by W.H.I. Bleek and L.C. Lloyd,
 \[1911\], at Intangible Textual Heritage
 
@@ -112,6 +112,6 @@ different: "to dwell at a place."
 
 [Next: A Bushman, Becoming Faint From The Sun's Heat When Returning
 Home, Throws Earth Into The Air, That Those At Home May See The Dust And
-Come To Help Him.](sbf78)
+Come To Help Him.](sbf78.md)
 
 </div>

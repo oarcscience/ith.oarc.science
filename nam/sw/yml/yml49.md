@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml48)  [Next](yml50) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml48)  [Next](yml50.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ horse.
 
 ------------------------------------------------------------------------
 
-[Next: Duck Hunter](yml50)
+[Next: Duck Hunter](yml50.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas097n)  [Next](jas099n)   
- \[[98. The Boy fools Anansi.](jas098)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas097n)  [Next](jas099n.md)   
+ \[[98. The Boy fools Anansi.](jas098.md)\]
 
 ------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Uncle Remus, Nights, 315-318.
 
 ------------------------------------------------------------------------
 
-[Next: Note 99. The Water Cray fish.](jas099n)
+[Next: Note 99. The Water Cray fish.](jas099n.md)

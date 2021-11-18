@@ -1,34 +1,34 @@
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Ainu](../ainu/index)  [Index](index) [Previous](safl08) [Next](safl10)
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Ainu](../ainu/index)  [Index](index) [Previous](safl08) [Next](safl10.md)
 
 ------------------------------------------------------------------------
 
 <span id="page_40">p. 40</span>
 
-## IX.—LEGEND OF KOTAN UTUNNAI.<span id="page_40_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_40_note_1)
+## IX.—LEGEND OF KOTAN UTUNNAI.<span id="page_40_fr_1"></span>[<sup><span class="small">1</span></sup>](#page_40_note_1.md)
 
    I was brought up by my elder sister<span
 id="page_40_fr_2"></span>[<sup><span
-class="small">2</span></sup>](#page_40_note_2) and was always kept at
+class="small">2</span></sup>](#page_40_note_2.md) and was always kept at
 home. I was reared in this way:—The house in which I was kept was a
 small one made of grass. While being brought up, I heard a noise of war
 as if the gods were fighting on every side of us. There was the sound as
 of a very great number<span id="page_40_fr_3"></span>[<sup><span
-class="small">3</span></sup>](#page_40_note_3) of gods being slain.
+class="small">3</span></sup>](#page_40_note_3.md) of gods being slain.
 
    When I had now grown to be a good size, the very distant sound of the
 gods of the *Yaunguru*<span id="page_40_fr_4"></span>[<sup><span
-class="small">4</span></sup>](#page_40_note_4) reached the top of our
+class="small">4</span></sup>](#page_40_note_4.md) reached the top of our
 grass house: hearing which, my guardian god<span
 id="page_40_fr_5"></span>[<sup><span
-class="small">5</span></sup>](#page_40_note_5) sent forth an answering
+class="small">5</span></sup>](#page_40_note_5.md) sent forth an answering
 cry from the top of our roof.
 
 <span id="page_41">p. 41</span>
 
    I was very much surprised indeed to hear gods of the same family<span
 id="page_41_fr_6"></span>[<sup><span
-class="small">6</span></sup>](#page_41_note_6) thus call out together.
+class="small">6</span></sup>](#page_41_note_6.md) thus call out together.
 So I said:—"Oh my elder sister you have indeed brought me up well,
 please tell me what this noise means."
 
@@ -43,19 +43,19 @@ wise:—
    "Some time ago, when there had been a war in the land, your father
 withdrew and governed the country around *Shinutapkashi*<span
 id="page_41_fr_7"></span>[<sup><span
-class="small">7</span></sup>](#page_41_note_7) and *Tumisanpet*. One day
+class="small">7</span></sup>](#page_41_note_7.md) and *Tumisanpet*. One day
 your mother took the Curly-head<span
 id="page_41_fr_8"></span>[<sup><span
-class="small">8</span></sup>](#page_41_note_8) on her back and went with
+class="small">8</span></sup>](#page_41_note_8.md) on her back and went with
 <span id="page_42">p. 42</span> your father to pay her respects to (the
 governor of Manchuria).<span id="page_42_fr_9"></span>[<sup><span
-class="small">9</span></sup>](#page_42_note_9) On drawing near to
+class="small">9</span></sup>](#page_42_note_9.md) On drawing near to
 Saghalien the people (came down to the seashore), carrying *inao*<span
 id="page_42_fr_10"></span>[<sup><span
-class="small">10</span></sup>](#page_42_note_10) in their hands, and
+class="small">10</span></sup>](#page_42_note_10.md) in their hands, and
 beckoned them to land. They then sat down and did nothing but drink
 poisonous wine<span id="page_42_fr_11"></span>[<sup><span
-class="small">11</span></sup>](#page_42_note_11) both day and night.
+class="small">11</span></sup>](#page_42_note_11.md) both day and night.
 Your father got drunk, and in his debauchery said:—'I am able to buy up
 all the people and treasure of Saghalien.'
 
@@ -73,7 +73,7 @@ ran away with you and brought you here, where neither gods nor men
 approach. It is on account of this seclusion that our place is called
 *Kotan utunnai Moshiri utunnai*;<span
 id="page_43_fr_12"></span>[<sup><span
-class="small">12</span></sup>](#page_43_note_12) and here you have been
+class="small">12</span></sup>](#page_43_note_12.md) and here you have been
 brought up. It is against the Curly-head alone that the devils have been
 warring all this time. I have told you this because you asked me, so
 please do not be angry."
@@ -88,7 +88,7 @@ inside took a beautiful sword and six splendid garments. There were the
 belt and the helmet with all their belongings complete. She handed them
 to me, and I took them with pleasure. I then put my little<span
 id="page_44_fr_13"></span>[<sup><span
-class="small">13</span></sup>](#page_44_note_13) clothes on one side and
+class="small">13</span></sup>](#page_44_note_13.md) clothes on one side and
 dressed myself in the six beautiful garments; I wound the belt round my
 body, stuck the trusty sword into my girdle, and tied on the beautiful
 helmet.
@@ -117,7 +117,7 @@ like manner, and further down still another, but of a yellow colour.
    My elder sister weeping said:—"This is not the dwelling-place of
 common gods, but of the chief of the demons of all ills.<span
 id="page_45_fr_14"></span>[<sup><span
-class="small">14</span></sup>](#page_45_note_14) Let us now turn away
+class="small">14</span></sup>](#page_45_note_14.md) Let us now turn away
 from here and go to some other country. <span id="page_46">p. 46</span>
 Do not show any disrespect to these demons." So spake my elder sister.
 Nevertheless I turned a deaf ear to her words and went into the black
@@ -133,7 +133,7 @@ any light matter. Oh let us return." Nevertheless, I immediately went on
 into the red fog, and there I saw six red rapids. What I met with on
 going to the top of these rapids made that which happened to me before
 seem quite a trifle.<span id="page_46_fr_15"></span>[<sup><span
-class="small">15</span></sup>](#page_46_note_15) I was set upon with
+class="small">15</span></sup>](#page_46_note_15.md) I was set upon with
 ferocity, yet, notwithstanding this, I made no attempt to avoid the
 attack. But the blow was an <span id="page_47">p. 47</span> empty one
 and took no effect upon my body. Next to these I came to six yellow
@@ -150,7 +150,7 @@ person clothed entirely in black garments; the next one was dressed in
 red, and the following person had yellow clothes on. After these there
 came three women, thus making up in all the number of six.<span
 id="page_47_fr_16"></span>[<sup><span
-class="small">16</span></sup>](#page_47_note_16)
+class="small">16</span></sup>](#page_47_note_16.md)
 
    The first person came to me, and, making obeisance, said:—"Look here,
 my younger Ainu brother, I have something to say to <span
@@ -171,7 +171,7 @@ war, please now return."
    When he had finished speaking, he again made his obeisances; but I
 pointed my little finger at him<span
 id="page_48_fr_17"></span>[<sup><span
-class="small">17</span></sup>](#page_48_note_17), and <span
+class="small">17</span></sup>](#page_48_note_17.md), and <span
 id="page_49">p. 49</span> said:—"Even if your excellency should kill me,
 it would be good for me after death. Come slay me." Although I did and
 said this, my lords made excuses, and replied:—"We are not warriors,
@@ -191,13 +191,13 @@ yellow by the hair of his head and banged him hard upon the little rocks
 and the <span id="page_50">p. 50</span> large ones; when he was quite
 dead I dragged him along behind me, he looking like the skin of a dead
 fish.<span id="page_50_fr_18"></span>[<sup><span
-class="small">18</span></sup>](#page_50_note_18) Then the chief of the
+class="small">18</span></sup>](#page_50_note_18.md) Then the chief of the
 lords made mighty sweeps at me with his sword. So I used the slain man
 as a shield and warded off the blows with him. After a time the man whom
 I used as a shield was cut to pieces, and his living soul departed with
 a sound and ascended to the top of his mountain.<span
 id="page_50_fr_19"></span>[<sup><span
-class="small">19</span></sup>](#page_50_note_19) At the same time the
+class="small">19</span></sup>](#page_50_note_19.md) At the same time the
 wife of him who was clothed in yellow was slain.
 
    I next seized the man who was clothed in red by the hair of his head
@@ -214,7 +214,7 @@ of the woman who was dressed in black and also that of the one who was
 clothed in red departed in company with him: making a mighty sound,
 every one of them was sent to the top of the mountain a living
 soul.<span id="page_51_fr_20"></span>[<sup><span
-class="small">20</span></sup>](#page_51_note_20)
+class="small">20</span></sup>](#page_51_note_20.md)
 
    Then the woman of *Chiwashpet* came down to my side, and she was
 without a single scratch. Now some beautiful hills of pine trees came in
@@ -222,7 +222,7 @@ sight. Some of the trees were pines and were beautiful and large, others
 were oaks, and, though smaller, were quite as beautiful. Without doubt
 this was the place called by the two names—*Ukamu-nitai* and
 *Kane-nitai*.<span id="page_51_fr_21"></span>[<sup><span
-class="small">21</span></sup>](#page_51_note_21) The noise the trees
+class="small">21</span></sup>](#page_51_note_21.md) The noise the trees
 made as the wind blew through them was like the tinkling of metal. I
 thought <span id="page_52">p. 52</span> this to be indeed the home of no
 mean gods. As we went along I suddenly perceived a smell of fire. I was
@@ -242,7 +242,7 @@ and which had been left bare; and his nose was like a protruding
 mountain range. I did not know for certain, but I thought this creature
 must be the person who was <span id="page_53">p. 53</span> called<span
 id="page_53_fr_22"></span>[<sup><span
-class="small">22</span></sup>](#page_53_note_22) "*Eturachichi!*"
+class="small">22</span></sup>](#page_53_note_22.md) "*Eturachichi!*"
 Without doubt he was a very evil man who thus sat at the head of the
 fire. While looking at these people, I heard a curious noise, and the
 earth was gently waved to and fro, while the metal tings of the pine
@@ -262,14 +262,14 @@ I take the body and run off with it, you will be left to fight this
 battle alone." Now the six lords who sat by the side of the fire in
 their metal armour, with one voice, said:—"We six are inhabitants of
 *Kanepet*,<span id="page_54_fr_23"></span>[<sup><span
-class="small">23</span></sup>](#page_54_note_23) and these women are our
+class="small">23</span></sup>](#page_54_note_23.md) and these women are our
 six sisters. As we came to-day into these mountains, we found this
 cowardly Curly-head returning to his own land from war. It would have
 been well if we had killed him when we first met him. But as we thought
 it would deserve reproof if we did not let our uncles from the distant
 land of *Shipish* know, we tied him up to this great pine tree. And now
 the six lords of *Shirarapet*<span id="page_54_fr_24"></span>[<sup><span
-class="small">24</span></sup>](#page_54_note_24) are here together with
+class="small">24</span></sup>](#page_54_note_24.md) are here together with
 their sisters. You also, whether you are a god or a man we know not,
 have come; let us take the beautiful body of the Curly-head and give it
 to the people of *Shipish*, for that will please them.
@@ -279,7 +279,7 @@ sounded like one clearing his throat. And if we translate what he <span
 id="page_55">p. 55</span> spake into the language of men, he said
 thus:—"The name of my country is *Pon Moshiri kotan*,<span
 id="page_55_fr_25"></span>[<sup><span
-class="small">25</span></sup>](#page_55_note_25) and I am called
+class="small">25</span></sup>](#page_55_note_25.md) and I am called
 *Eturachichi* of that country. Let us now give the Curly-head to the
 people of *Shipish*, and so please them." While this was going on, my
 elder sister sped up to the top of the pine tree and cut the cords with
@@ -332,10 +332,10 @@ swords. Presently I said to them:—
 have a word to say, so pay attention. I am but a single man, so that if
 ye kill me there will not be sufficient blood-wine<span
 id="page_58_fr_26"></span>[<sup><span
-class="small">26</span></sup>](#page_58_note_26) for ye all to drink.
+class="small">26</span></sup>](#page_58_note_26.md) for ye all to drink.
 Come in after me then; ye multitudes of *Repun*<span
 id="page_58_fr_27"></span>[<sup><span
-class="small">27</span></sup>](#page_58_note_27) people shall have so
+class="small">27</span></sup>](#page_58_note_27.md) people shall have so
 much blood-wine to quaff that ye will never need to cease drinking." So
 spake I. I then put forth all my power and struck with mighty blows in
 order to push them into the valley. After a time, the elder of those
@@ -420,13 +420,13 @@ inhabitants of *Shirarapet* and *Kanepet* together with that of the
 they are all lost in two great wounds. Now they all go mixed up together
 towards the east. All at once the swords of the *Repun*<span
 id="page_63_fr_28"></span>[<sup><span
-class="small">28</span></sup>](#page_63_note_28) people are broken off
+class="small">28</span></sup>](#page_63_note_28.md) people are broken off
 close to the guards and they go towards the west. The sword of the
 *Yaunguru*<span id="page_63_fr_29"></span>[<sup><span
-class="small">29</span></sup>](#page_63_note_29) goes off to the
+class="small">29</span></sup>](#page_63_note_29.md) goes off to the
 cloudless east. Now I see something like a little *Kesorap*<span
 id="page_63_fr_30"></span>[<sup><span
-class="small">30</span></sup>](#page_63_note_30) coming skimming across
+class="small">30</span></sup>](#page_63_note_30.md) coming skimming across
 the skies towards our little river's mouth; I have never before seen
 anything dance so much; I must pull myself together to prophesy about
 it. The little *Kesorap* has turned itself into a drop of rain and is
@@ -440,7 +440,7 @@ cloudless east, still striving together. I am afraid for the sword of my
 elder brother is broken off close to the guard with a tremendous sound
 and is lost in two great wounds. The sword of the *Yaunguru*, I believe,
 goes to the east.<span id="page_64_fr_31"></span>[<sup><span
-class="small">31</span></sup>](#page_64_note_31) Having seen thus far,
+class="small">31</span></sup>](#page_64_note_31.md) Having seen thus far,
 the light is extinguished from before my eyes, and I feel as though I
 have been foretelling evil things."
 
@@ -591,7 +591,7 @@ upon the great rocks and the little ones. When I saw this I had a great
 desire to avenge her and went for that purpose. But as I was going, all
 at once the *Shipish* woman cut her severely and killed her.<span
 id="page_73_fr_30"></span>[<sup><span
-class="small">30</span></sup>](#page_73_note_30) Her soul went up with a
+class="small">30</span></sup>](#page_73_note_30.md) Her soul went up with a
 great sound. After this we went on our way; and as we proceeded, I saw,
 hanging above the mountains of the land, which was doubtless the
 aforesaid *Chirinnai* country, a cloud <span id="page_74">p. 74</span>
@@ -624,7 +624,7 @@ forgive her." When I had finished speaking and while I still held her in
 my hands, she became a new and living goddess and went off to the land
 of the *Yaunguru* with a great sound.<span
 id="page_75_fr_31"></span>[<sup><span
-class="small">31</span></sup>](#page_75_note_31)
+class="small">31</span></sup>](#page_75_note_31.md)
 
    Now the woman of *Shipish* and I were left alone to finish the
 battle, we utterly devastated and laid waste the land of *Chirinnai*.
@@ -633,7 +633,7 @@ no lord of <span id="page_76">p. 76</span> the people of *Chirinnai*,
 but the demon of damp bad weather, who lives towards the west, will rule
 over this country together with his younger sister. Besides this,
 multitudes of *Kuruise*<span id="page_76_fr_32"></span>[<sup><span
-class="small">32</span></sup>](#page_76_note_32) demons will come to
+class="small">32</span></sup>](#page_76_note_32.md) demons will come to
 *Chirinnai* and govern its western parts, and will make an exceedingly
 grievous war against us, and I cannot tell whether we shall live through
 it or not. After the war with the *Kuruise*, the demons of bad and damp
@@ -646,7 +646,7 @@ demons, and that will not enhance your glory."
 
    While she was saying this a black fog arose in the west<span
 id="page_76_fr_33"></span>[<sup><span
-class="small">33</span></sup>](#page_76_note_33) of the land of
+class="small">33</span></sup>](#page_76_note_33.md) of the land of
 *Chirinnai*. <span id="page_77">p. 77</span> In a short time it came up
 over us, so that it was as though we were going under a river's bank
 where it is dark. After this I heard a whirl all round me as of many
@@ -664,7 +664,7 @@ quite well. She then blew upon herself in the same way, and every one of
 her wounds likewise were healed. As for my garments, why, my old clothes
 were like <span id="page_78">p. 78</span> those of a baby<span
 id="page_78_fr_34"></span>[<sup><span
-class="small">34</span></sup>](#page_78_note_34) compared with the ones
+class="small">34</span></sup>](#page_78_note_34.md) compared with the ones
 I had now.
 
    Again I saw a fog of damp, bad weather arise and spread over the land
@@ -788,7 +788,7 @@ had elapsed, the smell of the wine filled the whole house. When the
 brewing was finished, messengers were sent out to invite people to the
 feast. Among the guests there was a man from *Shishiripet*<span
 id="page_85_fr_35"></span>[<sup><span
-class="small">35</span></sup>](#page_85_note_35) and his younger sister;
+class="small">35</span></sup>](#page_85_note_35.md) and his younger sister;
 also another person from *Iyochi* and his younger sister. After the
 salutations were over, they made themselves happy with the delicious
 wine and sat drinking without allowing themselves any time for <span
@@ -806,7 +806,7 @@ lived happily together ever after.
 
 ------------------------------------------------------------------------
 
-[Next](safl10)
+[Next](safl10.md)
 
 ------------------------------------------------------------------------
 
@@ -814,48 +814,48 @@ lived happily together ever after.
 
 <span id="footnotes_page_40">p. 40</span>
 
-<span id="page_40_note_1"></span>[1](#page_40_fr_1) Said to be a
+<span id="page_40_note_1"></span>[1](#page_40_fr_1.md) Said to be a
 secluded spot somewhere in the Island of Saghalien.
 
-<span id="page_40_note_2"></span>[2](#page_40_fr_2) The words "Elder
+<span id="page_40_note_2"></span>[2](#page_40_fr_2.md) The words "Elder
 sister" do not of necessity imply that this person stood in such
 relationship to our hero. In fact, we see lower down that his
 foster-mother was no relation at all. The words are merely an expression
 of endearment, and are still sometimes so used by the Ainus.
 
-<span id="page_40_note_3"></span>[3](#page_40_fr_3) The words here
+<span id="page_40_note_3"></span>[3](#page_40_fr_3.md) The words here
 translated "very great number" are in the Ainu "two or three." This is a
 native idiom expressing "intensity" or "great numbers." Thus, when an
 Ainu says "he was struck once or twice," he means "he was beaten
 severely." Or when he says "two or three" men were killed in battle, he
 means "a great number" of persons were slain.
 
-<span id="page_40_note_4"></span>[4](#page_40_fr_4) *Yaunguru* i.e. Ainu
+<span id="page_40_note_4"></span>[4](#page_40_fr_4.md) *Yaunguru* i.e. Ainu
 warriors.
 
-<span id="page_40_note_5"></span>[5](#page_40_fr_5) "Guardian god."
+<span id="page_40_note_5"></span>[5](#page_40_fr_5.md) "Guardian god."
 According to Ainu ideas every person is watched over by some special
 guardian god. These gods are supposed to give warning when danger is
 near at hand and to assist one in escaping from harm's way.
 
 <span id="footnotes_page_41">p. 41</span>
 
-<span id="page_41_note_6"></span>[6](#page_41_fr_6) Our hero expresses
+<span id="page_41_note_6"></span>[6](#page_41_fr_6.md) Our hero expresses
 surprise at hearing the cry of the guardian gods of Ainus. This is quite
 natural when we remember that he is in a foreign land. We are told lower
 down that he is in Karapto or Saghalien.
 
-<span id="page_41_note_7"></span>[7](#page_41_fr_7) The name of a
+<span id="page_41_note_7"></span>[7](#page_41_fr_7.md) The name of a
 mountain in Yezo upon which the ancient Ainu warriors are said to have
 had their fortress and home.
 
-<span id="page_41_note_8"></span>[8](#page_41_fr_8) The curly-head here
+<span id="page_41_note_8"></span>[8](#page_41_fr_8.md) The curly-head here
 referred to is the brother of our hero. We shall hear more of him
 further on.
 
 <span id="footnotes_page_42">p. 42</span>
 
-<span id="page_42_note_9"></span>[9](#page_42_fr_9) The words "the
+<span id="page_42_note_9"></span>[9](#page_42_fr_9.md) The words "the
 governor of Manchuria" are not in the legend, but they are supplied
 secretly to enquirers who ask to whom their ancestors paid their
 respects. The Ancient Ainus used to go yearly to Manchuria to pay their
@@ -864,142 +864,142 @@ through Saghalein. They used also to do business with the Manchurians
 particularly when at war with the Japanese. Possibly the Ainus were
 subject to Manchuria in very ancient times.
 
-<span id="page_42_note_10"></span>[10](#page_42_fr_10) These *inao* may
+<span id="page_42_note_10"></span>[10](#page_42_fr_10.md) These *inao* may
 possibly have been merely emblems of peace. They are pieces of whittled
 wood and now used as offerings to the deities.
 
-<span id="page_42_note_11"></span>[11](#page_42_fr_11) The legend does
+<span id="page_42_note_11"></span>[11](#page_42_fr_11.md) The legend does
 not intend to indicate that the wine was really poisoned, but that it
 had some bad effects on our hero's father.
 
 <span id="footnotes_page_43">p. 43</span>
 
-<span id="page_43_note_12"></span>[12](#page_43_fr_12) The meaning of
+<span id="page_43_note_12"></span>[12](#page_43_fr_12.md) The meaning of
 these names is doubtful. According to derivation they may mean either:
 "the stream in the middle of the country," or "the stream behind the
 village," the former derivation is to be preferred.
 
 <span id="footnotes_page_44">p. 44</span>
 
-<span id="page_44_note_13"></span>[13](#page_44_fr_13) i.e. his childish
+<span id="page_44_note_13"></span>[13](#page_44_fr_13.md) i.e. his childish
 garments.
 
 <span id="footnotes_page_45">p. 45</span>
 
-<span id="page_45_note_14"></span>[14](#page_45_fr_14) According to Ainu
+<span id="page_45_note_14"></span>[14](#page_45_fr_14.md) According to Ainu
 ideas there are special demons whose province it is to inflict sickness
 upon people. The chief of these evil spirits is supposed to be the demon
 of small-pox.
 
 <span id="footnotes_page_46">p. 46</span>
 
-<span id="page_46_note_15"></span>[15](#page_46_fr_15) The original is
+<span id="page_46_note_15"></span>[15](#page_46_fr_15.md) The original is
 "that which I met before was as a baby to this."
 
 <span id="footnotes_page_47">p. 47</span>
 
-<span id="page_47_note_16"></span>[16](#page_47_fr_16) The sacred or
+<span id="page_47_note_16"></span>[16](#page_47_fr_16.md) The sacred or
 perfect number of the Ainus.
 
 <span id="footnotes_page_48">p. 48</span>
 
-<span id="page_48_note_17"></span>[17](#page_48_fr_17) It is considered
+<span id="page_48_note_17"></span>[17](#page_48_fr_17.md) It is considered
 to be a great insult to point the little finger at a person.
 
 <span id="footnotes_page_50">p. 50</span>
 
-<span id="page_50_note_18"></span>[18](#page_50_fr_18) Or, as we might
+<span id="page_50_note_18"></span>[18](#page_50_fr_18.md) Or, as we might
 sometimes hear said, "I beat him out as flat as a pancake."
 
-<span id="page_50_note_19"></span>[19](#page_50_fr_19) i.e. the mountain
+<span id="page_50_note_19"></span>[19](#page_50_fr_19.md) i.e. the mountain
 upon which he had his dwelling.
 
 <span id="footnotes_page_51">p. 51</span>
 
-<span id="page_51_note_20"></span>[20](#page_51_fr_20) The Ainus say
+<span id="page_51_note_20"></span>[20](#page_51_fr_20.md) The Ainus say
 that the gods could not be killed; but that when they were defeated in
 battle they merely returned to their natural dwelling-places.
 
-<span id="page_51_note_21"></span>[21](#page_51_fr_21) *Ukamu-nitai*
+<span id="page_51_note_21"></span>[21](#page_51_fr_21.md) *Ukamu-nitai*
 means "the forest whose trees join together overhead;" and *kane-nitai*
 means "the beautiful" or "metal forest."
 
 <span id="footnotes_page_53">p. 53</span>
 
-<span id="page_53_note_22"></span>[22](#page_53_fr_22) *Eturachichi*
+<span id="page_53_note_22"></span>[22](#page_53_fr_22.md) *Eturachichi*
 means "hanging nose." He was so named because of the extraordinary
 length of his nose.
 
 <span id="footnotes_page_54">p. 54</span>
 
-<span id="page_54_note_23"></span>[23](#page_54_fr_23) *Kanepet* means
+<span id="page_54_note_23"></span>[23](#page_54_fr_23.md) *Kanepet* means
 "metal river."
 
-<span id="page_54_note_24"></span>[24](#page_54_fr_24) *Shirarapet*
+<span id="page_54_note_24"></span>[24](#page_54_fr_24.md) *Shirarapet*
 means "stony river."
 
 <span id="footnotes_page_55">p. 55</span>
 
-<span id="page_55_note_25"></span>[25](#page_55_fr_25) *Pon moshiri
+<span id="page_55_note_25"></span>[25](#page_55_fr_25.md) *Pon moshiri
 kotan* means "the town in the little country."
 
 <span id="footnotes_page_58">p. 58</span>
 
-<span id="page_58_note_26"></span>[26](#page_58_fr_26) It is said by the
+<span id="page_58_note_26"></span>[26](#page_58_fr_26.md) It is said by the
 Ainus that the inhabitants of this precipitous country used to drink the
 blood of those they slew in war.
 
-<span id="page_58_note_27"></span>[27](#page_58_fr_27) *Repun* is said
+<span id="page_58_note_27"></span>[27](#page_58_fr_27.md) *Repun* is said
 to be the Ainu name for *Saghalien* or *Karafto*.
 
 <span id="footnotes_page_63">p. 63</span>
 
-<span id="page_63_note_28"></span>[28](#page_63_fr_28) *Repun* i.e. the
+<span id="page_63_note_28"></span>[28](#page_63_fr_28.md) *Repun* i.e. the
 Karafto or Saghalien pepole.
 
-<span id="page_63_note_29"></span>[29](#page_63_fr_29) *Yaunguru* i.e.
+<span id="page_63_note_29"></span>[29](#page_63_fr_29.md) *Yaunguru* i.e.
 Our hero, the brave Ainu.
 
-<span id="page_63_note_30"></span>[30](#page_63_fr_30) *Kesorap* is said
+<span id="page_63_note_30"></span>[30](#page_63_fr_30.md) *Kesorap* is said
 to be the name of some bird now extinct; here, however, it is intended
 for our hero.
 
 <span id="footnotes_page_64">p. 64</span>
 
-<span id="page_64_note_31"></span>[31](#page_64_fr_31) i.e. the Ainu
+<span id="page_64_note_31"></span>[31](#page_64_fr_31.md) i.e. the Ainu
 hero conquers her brother.
 
 <span id="footnotes_page_73">p. 73</span>
 
-<span id="page_73_note_30"></span>[30](#page_73_fr_30) It is an Ainu
+<span id="page_73_note_30"></span>[30](#page_73_fr_30.md) It is an Ainu
 idea that it is quite impossible to kill one of the ancients without
 cutting through the back-bone. {This note was not referenced in the
 text, so the placement of the reference was added.—CMW}
 
 <span id="footnotes_page_75">p. 75</span>
 
-<span id="page_75_note_31"></span>[31](#page_75_fr_31) The idea is that
+<span id="page_75_note_31"></span>[31](#page_75_fr_31.md) The idea is that
 by waving the woman in his hands her spirit returned to her, and she
 went to the home of our hero at *Shinutapka*.
 
 <span id="footnotes_page_76">p. 76</span>
 
-<span id="page_76_note_32"></span>[32](#page_76_fr_32) These *Kuruise*
+<span id="page_76_note_32"></span>[32](#page_76_fr_32.md) These *Kuruise*
 are supposed to be some kind of insect or small animal.
 
-<span id="page_76_note_33"></span>[33](#page_76_fr_33) The west is
+<span id="page_76_note_33"></span>[33](#page_76_fr_33.md) The west is
 supposed to be the special abode of the demons, as the east is looked
 upon as the home of the gods.
 
 <span id="footnotes_page_78">p. 78</span>
 
-<span id="page_78_note_34"></span>[34](#page_78_fr_34) i.e. the clothes
+<span id="page_78_note_34"></span>[34](#page_78_fr_34.md) i.e. the clothes
 his comrade had prepared for him were, as compared with what he had
 before, very good and beautiful.
 
 <span id="footnotes_page_85">p. 85</span>
 
-<span id="page_85_note_35"></span>[35](#page_85_fr_35) This is the old
+<span id="page_85_note_35"></span>[35](#page_85_fr_35.md) This is the old
 name of the river which is now called *Ishkari-pet*. *Shishiri-pet*
 means "the great river."
 

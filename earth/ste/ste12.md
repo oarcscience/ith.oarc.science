@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](ste11)  [Next](ste13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](ste11)  [Next](ste13.md) 
 
 ------------------------------------------------------------------------
 
@@ -680,4 +680,4 @@ posture as if it was true.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter X](ste13)
+[Next: Chapter X](ste13.md)

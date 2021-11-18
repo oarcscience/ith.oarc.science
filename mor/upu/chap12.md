@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap11) [Next](chap13)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap11) [Next](chap13.md)
 
 ------------------------------------------------------------------------
 
@@ -381,4 +381,4 @@ January, 1910.
 
 ------------------------------------------------------------------------
 
-[Next: XIII The Smoot Exposure](chap13)
+[Next: XIII The Smoot Exposure](chap13.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](pifs27)  [Next](pifs29) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](pifs27)  [Next](pifs29.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,9 +55,9 @@ talk was in Spanish, which is easier to me than the Tée-wahn
 language,--"that was very long ago, and now all is changed. But once the
 Wolf and the Deer were like brothers; and it is only because the Wolf
 did very wickedly that they are enemies. *Con su licencia,
-señor*." <span id="fr_92"></span>[1](#fn_91)
+señor*." <span id="fr_92"></span>[1](#fn_91.md)
 
-"*Bueno; anda*!" <span id="fr_93"></span>[2](#fn_92)
+"*Bueno; anda*!" <span id="fr_93"></span>[2](#fn_92.md)
 
 So Vitorino leaned his shoulders against a convenient rock and began.
 
@@ -74,7 +74,7 @@ two fawns, and the other a Wolf-mother with two cubs. They had very good
 houses of adobe, just such as we live in now, and lived like real people
 in every way. The two were great friends, and neither thought of going
 to the mountain for firewood or to dig *amole* <span
-id="fr_94"></span>[1](#fn_93) without calling for the other to accompany
+id="fr_94"></span>[1](#fn_93.md) without calling for the other to accompany
 her.
 
 One day the Wolf came to the house of the Deer and said:
@@ -175,7 +175,7 @@ tracks leading away
 <span id="img_18300"></span>
 
 [![THE WOLF, AND THE COYOTE WITH THE TOOTHACHE.](tn/18300.jpg)  
-Click to enlarge](img/18300.jpg)  
+Click to enlarge](img/18300.jpg.md)  
 THE WOLF, AND THE COYOTE WITH THE TOOTHACHE.  
 
  
@@ -209,7 +209,7 @@ till she found the trail, and set to running on it as fast as she could
 go.
 
 By this time the Fawns had come to where two Indian boys were playing
-*k'wah-t'hím* <span id="fr_95"></span>[1](#fn_94) with their bows and
+*k'wah-t'hím* <span id="fr_95"></span>[1](#fn_94.md) with their bows and
 arrows, and said to them:
 
 "Friends boys, if an old Wolf comes along and asks if you have seen us,
@@ -260,7 +260,7 @@ black hill of lava that stands alone in the valley southeast of Tomé.
 
 [![THE WOLF MEETS THE BOYS PLAYING WITH THE BOWS AND
 ARROWS.](tn/18700.jpg)  
-Click to enlarge](img/18700.jpg)  
+Click to enlarge](img/18700.jpg.md)  
 THE WOLF MEETS THE BOYS PLAYING WITH THE BOWS AND ARROWS.  
 
  
@@ -349,7 +349,7 @@ her anger was stronger, and she started down again. But each time the
 
 [![''THE FAWNS APPEARED SUDDENLY, AND AT SIGHT OF THEM THE WOLF DROPPED
 THE SPOONFUL OF SOUP.''](tn/19100.jpg)  
-Click to enlarge](img/19100.jpg)  
+Click to enlarge](img/19100.jpg.md)  
 ''THE FAWNS APPEARED SUDDENLY, AND AT SIGHT OF THEM THE WOLF DROPPED THE
 SPOONFUL OF SOUP.''  
 
@@ -371,7 +371,7 @@ Fawns."
 careful." And aloud she said: "It is well. Let us eat."
 
 So a big bowl of soup was brought, and each took a *guayave* <span
-id="fr_96"></span>[1](#fn_95) and rolled it like a spoon to dip up the
+id="fr_96"></span>[1](#fn_95.md) and rolled it like a spoon to dip up the
 soup. The old Wolf was very careful, and had almost finished her soup
 without spilling a drop. But just as she was lifting the last sup to her
 mouth the Fawns appeared suddenly in the door of the next room, and at
@@ -389,22 +389,22 @@ black hill below Tomé.
 
 ### Footnotes
 
-<span id="fn_91"></span>[179:1](pifs28.htm#fr_92) "With your permission,
+<span id="fn_91"></span>[179:1](pifs28.htm#fr_92.md) "With your permission,
 sir."
 
-<span id="fn_92"></span>[179:2](pifs28.htm#fr_93) "All right; go ahead!"
+<span id="fn_92"></span>[179:2](pifs28.htm#fr_93.md) "All right; go ahead!"
 
-<span id="fn_93"></span>[180:1](pifs28.htm#fr_94) The root of the
+<span id="fn_93"></span>[180:1](pifs28.htm#fr_94.md) The root of the
 palmilla, generally used for soap throughout the Southwest.
 
-<span id="fn_94"></span>[185:1](pifs28.htm#fr_95) A sort of walking
+<span id="fn_94"></span>[185:1](pifs28.htm#fr_95.md) A sort of walking
 archery.
 
-<span id="fn_95"></span>[193:1](pifs28.htm#fr_96) An Indian bread made
+<span id="fn_95"></span>[193:1](pifs28.htm#fr_96.md) An Indian bread made
 by spreading successive films of blue corn-meal batter on a flat hot
 stone. It looks more like a piece of wasp's nest than anything else, but
 is very good to eat.
 
 ------------------------------------------------------------------------
 
-[Next: XXVI. The Sobbing Pine](pifs29)
+[Next: XXVI. The Sobbing Pine](pifs29.md)

@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf16) [Next](bulf18) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf16) [Next](bulf18.md) 
 
 # CHAPTER XVIII.
 
@@ -196,4 +196,4 @@ alludes to the story of Atalanta and Hippomenes thus:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER XIX. Hercules- Hebe And Ganymede.](bulf18)
+Next: [CHAPTER XIX. Hercules- Hebe And Ganymede.](bulf18.md)

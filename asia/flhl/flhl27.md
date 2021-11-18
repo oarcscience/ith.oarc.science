@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](flhl26)  [Next](flhl28) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](flhl26)  [Next](flhl28.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028Y4OOY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Folk-lore of the Holy Land, Moslem, Christian and Jewish*, by J. E.
 Hanauer \[1907\], at Intangible Textual Heritage
 
@@ -28,7 +28,7 @@ to be affixed to the
 
 <span id="page_148">p. 148</span>
 
-gates of the Ka’aba at Mecca, <span id="fr_78"></span>[1](#fn_77) and a
+gates of the Ka’aba at Mecca, <span id="fr_78"></span>[1](#fn_77.md) and a
 scholar so erudite that none grudged him the right to wear the wide
 formal and much respected shape of turban called "mûkleh." But, despite
 these advantages, he could not get on in the world, having no
@@ -39,7 +39,7 @@ although of stately presence.
 
 He therefore wrote a magnificent poem in praise of the great Khan and
 mighty Khakan, the Commander of the Faithful, our Sovereign Lord the
-Sultan Fulân, <span id="fr_79"></span>[2](#fn_78) ibn-es-Sultan Fulân,
+Sultan Fulân, <span id="fr_79"></span>[2](#fn_78.md) ibn-es-Sultan Fulân,
 Sultan of the Arabians, the Persians, and the Rûm, whose fame and
 influence extended over the seven continents and across the seven seas.
 When the ode was finished he forwarded it to the potentate, having sold
@@ -92,7 +92,7 @@ and hatred, of your neighbours. I will, however, add to it something of
 greater worth than all the talents and learning which you already
 possess. I will tell you what is the secret of success in life. It is
 expressed in the one Arabic word "Heylim." <span
-id="fr_80"></span>[1](#fn_79) " Make 'Heylim' your rule of life and you
+id="fr_80"></span>[1](#fn_79.md) " Make 'Heylim' your rule of life and you
 will be sure to attain eminence." With these words the scholar was
 dismissed. Walking home, he pondered on his Sovereign's strange advice.
 Suddenly a bright idea struck him. Meeting a well-dressed Greek priest
@@ -179,26 +179,26 @@ befitting a true believer, he made him one of his private secretaries,
 and by degrees advanced him to higher posts in the Government. Ever
 since that time the plain rule "Heylim," or in other words, "kiss a dog
 on his mouth till you have got what you want from him," <span
-id="fr_81"></span>[1](#fn_80) has been well observed in the East.
+id="fr_81"></span>[1](#fn_80.md) has been well observed in the East.
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_77"></span>[148:1](flhl27.htm#fr_78) This, from internal
+<span id="fn_77"></span>[148:1](flhl27.htm#fr_78.md) This, from internal
 evidence, I judge to be a Christian fable.--ED.
 
-<span id="fn_78"></span>[148:2](flhl27.htm#fr_79) Fulân=" So and so ";
+<span id="fn_78"></span>[148:2](flhl27.htm#fr_79.md) Fulân=" So and so ";
 *cf*. Span. Don Fulano.--ED.
 
-<span id="fn_79"></span>[150:1](flhl27.htm#fr_80) The English
+<span id="fn_79"></span>[150:1](flhl27.htm#fr_80.md) The English
 expressions "flatter, insinuate, ingratiate yourself, and dissimulate "
 hardly express the full significance of this one word.
 
-<span id="fn_80"></span>[153:1](flhl27.htm#fr_81) Bûss el kelb ala fummo
+<span id="fn_80"></span>[153:1](flhl27.htm#fr_81.md) Bûss el kelb ala fummo
 hatta takdi gharadak minno; in the dâraji (common) Arabic of
 Palestine.--ED.
 
 ------------------------------------------------------------------------
 
-[Next: III. Origin of Three Well-Known Sayings](flhl28)
+[Next: III. Origin of Three Well-Known Sayings](flhl28.md)

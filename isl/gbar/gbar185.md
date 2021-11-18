@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar184) [Next](gbar186)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar184) [Next](gbar186.md)
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ whose hands God granteth it to me, it were a treasure."
 
 ------------------------------------------------------------------------
 
-[Next](gbar186)
+[Next](gbar186.md)

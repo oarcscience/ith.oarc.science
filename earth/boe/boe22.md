@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe21)  [Next](boe23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe21)  [Next](boe23.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ days came to him almost from the lips of those who had witnessed them.
 Salcamayha left no reading of this crudely sketched cosmos, and what
 follows is based largely on Beuchat's interpretation.
 
-The World, says Beuchat, <span id="fr_14"></span>[1](#fn_14) was called
+The World, says Beuchat, <span id="fr_14"></span>[1](#fn_14.md) was called
 *Pacha*. It was a square World, with a roof indicated, ridge-shaped,
 where dwelt the great God. The lowest plane was Earth, which gave
 support to the four quarters where dwelt the gods.
@@ -43,7 +43,7 @@ In the rearrangement of the design, three of the stars have
 
 [![FIGURE 79. &lt;i&gt;World-picture of the ancient Peruvians&lt;/i&gt;.
 &lt;i&gt;In&lt;/i&gt; ](tn/fig079.jpg)  
-Click to enlarge](img/fig079.jpg)  
+Click to enlarge](img/fig079.jpg.md)  
 FIGURE 79. *World-picture of the ancient Peruvians*. *In*  
 
  
@@ -128,9 +128,9 @@ since hail is bad for crops, they represent it by a little animal."
 
 ### Footnotes
 
-<span id="fn_14"></span>[185:1](boe22.htm#fr_14) *Manuel d’Archeologie
+<span id="fn_14"></span>[185:1](boe22.htm#fr_14.md) *Manuel d’Archeologie
 américaine*: H. Beuchat, 1912, pp. 630-631.
 
 ------------------------------------------------------------------------
 
-[Next: The Aztec Universe](boe23)
+[Next: The Aztec Universe](boe23.md)

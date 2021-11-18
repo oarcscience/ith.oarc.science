@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](flwp19)  [Next](flwp21) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](flwp19)  [Next](flwp21.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127400/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../../img/tn_cla.jpg)](index)  
+[![](../../img/tn_cla.jpg)](index.md)  
 *Fragments that Remain of the Lost Writings of Proclus*, by Thomas
 Taylor, \[1825\], at Intangible Textual Heritage
 
@@ -40,10 +40,10 @@ the parts which they borrowed from him, in order to accomplish
 
 <span id="page_65">p. 65</span>
 
-the generation of mortal natures. <span id="fr_55"></span>[\*](#fn_55)
+the generation of mortal natures. <span id="fr_55"></span>[\*](#fn_55.md)
 Since, therefore, the artificer of the universe is also the artificer of
 matter, which is defined to be the receptacle and nurse of
-generation, <span id="fr_56"></span>[†](#fn_56) he likewise made it to
+generation, <span id="fr_56"></span>[†](#fn_56.md) he likewise made it to
 be the receptacle of generation. For it has no other existence than an
 existence as matter, since the definition of it is to be the receptacle
 of generation. Hence, whether the Demiurgus of the universe gave it the
@@ -61,7 +61,7 @@ the vestiges of forms, by which matter became moved in a confused and
 disorderly manner, being of itself immovable and perfectly formless; or
 we must say that these vestiges of forms proceeded into matter from some
 other source, viz. froth some other deity, who belongs to the
-intelligible order. <span id="fr_57"></span>[\*](#fn_57) If, therefore,
+intelligible order. <span id="fr_57"></span>[\*](#fn_57.md) If, therefore,
 the artificer of the universe is the cause of these vestiges of forms,
 is it not most absurd that he should make matter properly adapted to be
 the receptacle of generation, and should likewise impart these vestiges,
@@ -108,7 +108,7 @@ receive them, the cause which imparts them, also imparts that which is
 the very being of matter. Hence, if matter is unbegotten and
 incorruptible, having a perpetual existence, it always possessed the
 vestiges of forms; and, together with these also, it possessed order, as
-we have demonstrated. <span id="fr_58"></span>[\*](#fn_58) Order,
+we have demonstrated. <span id="fr_58"></span>[\*](#fn_58.md) Order,
 therefore, is unbegotten and incorruptible. And no one of these three
 ranks as first, or second, or third \[according to a temporal
 subsistence\]; but these distinctions exist only in our conceptions.
@@ -125,7 +125,7 @@ unbegotten and incorruptible.
 
 ### Footnotes
 
-<span id="fn_55"></span>[65:\*](flwp20.htm#fr_55) Proclus here alludes
+<span id="fn_55"></span>[65:\*](flwp20.htm#fr_55.md) Proclus here alludes
 to the following passage in the Timæus of Plato: νοησαντες οι παιδες την
 του πατρος ταξιν, επειθοντο αυτῃ, και λαβοντες αθανατον αρχην θνητου
 ζωου, μιμουμενοι τον σφετερον δημιουργον, πυρος και γης υδατος τε και
@@ -137,7 +137,7 @@ animal, in imitation of their artificer, they borrowed from the world
 the parts of tire and earth, water and air, as things which they should
 restore back again," &c.
 
-<span id="fn_56"></span>[65:†](flwp20.htm#fr_56) Matter is thus defined
+<span id="fn_56"></span>[65:†](flwp20.htm#fr_56.md) Matter is thus defined
 by Plato in the Timæus: for he there says of it, τινα ουν δυναμιν και
 φυσιν αυτο υποληπτεον, τοιανδε μαλιστα πασης ειναι γενεσεωσ υποδοχεν
 αυτο, οιον τιθηνην. But for οιον τιθηνην, which is the reading of all
@@ -148,14 +148,14 @@ horum omnium receptaculum, *et* quasi nutricem esse." So that, according
 to Plato, "matter is the receptacle, and, as it were, nurse of all
 generation."
 
-<span id="fn_57"></span>[66:\*](flwp20.htm#fr_57) Viz. from Phanes,
+<span id="fn_57"></span>[66:\*](flwp20.htm#fr_57.md) Viz. from Phanes,
 according to Orpheus, or *animal* itself, according to Plato, which
 deity subsists at the extremity of the intelligible order. See the
 Second Book of my translation of Proclus on the Timæus.
 
-<span id="fn_58"></span>[68:\*](flwp20.htm#fr_58) See more on this
+<span id="fn_58"></span>[68:\*](flwp20.htm#fr_58.md) See more on this
 subject in the Second Book of my Translation of Proclus on the Timæus.
 
 ------------------------------------------------------------------------
 
-[Next: Argument the Fifteenth](flwp21)
+[Next: Argument the Fifteenth](flwp21.md)

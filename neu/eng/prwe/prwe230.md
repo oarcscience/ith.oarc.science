@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe229)  [Next](prwe231) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe229)  [Next](prwe231.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ Exalted to the heavens up."
 
 ------------------------------------------------------------------------
 
-[Next: Oxen Pray on Christmas-Eve](prwe231)
+[Next: Oxen Pray on Christmas-Eve](prwe231.md)

@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp90) 
-[Next](alp92) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp90.md) 
+[Next](alp92.md) 
 
 ------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ avengest thyself on them.
 "Thou didst not consider that Moses was a prophet, nor art thou ashamed
 of assaulting David; thou takest even Father Abraham; thou draggest King
 Tiridates from his throne; and thou respectest not the Emperor
-Constantine. <span id="fr_40"></span>[1](#fn_40)
+Constantine. <span id="fr_40"></span>[1](#fn_40.md)
 
 <span id="page_176">p. 176</span>
 
@@ -71,7 +71,7 @@ In thy wing-tips rolled thou bearest."
 
 In other poems we see his susceptibility to passion and his sense of
 love's power. In one of these poems he depicts <span
-id="fr_41"></span>[1](#fn_41) a bishop of 100 years old whose beard had
+id="fr_41"></span>[1](#fn_41.md) a bishop of 100 years old whose beard had
 turned from white to yellow and who, when officiating at the altar,
 suddenly uttered the name of a lady in his invocation before the cross.
 
@@ -216,7 +216,7 @@ almond plant. Her face is red and white, like an apple of the forest.
 She soars high, like a daring eagle. She is brilliant as a peacock with
 golden feathers.
 
-We have in this volume (page [52](alp43.htm#page_52)) a translation of
+We have in this volume (page [52](alp43.htm#page_52).md) a translation of
 one of Grigoris’ longer poems, entitled "Concerning the Rose and the
 Nightingale," in which it is interesting to note that--quaintly
 enough--the poet gives the text of a letter sent with great pomp, by
@@ -229,7 +229,7 @@ the refinements and subtleties of the feelings described, the deference
 paid to the Rose, and the idea of continuity and faithfulness in love.
 These feelings are minutely described in this beautiful poem, and summed
 up in the Rose's message to the Nightingale on [p.
-56](alp43.htm#page_56):--
+56](alp43.htm#page_56.md):--
 
 "I cannot there return immediately;  
 A little he must wait, in patient wise:  
@@ -247,8 +247,8 @@ original. The works attributed to him have only recently been published
 as a whole; they have been translated into French and other languages,
 and greatly admired. Some critics have placed him higher than Sadi and
 other Persian poets. (Examples of his work are given on pages
-[4](alp10.htm#page_4), [5](alp11.htm#page_5), and
-[31](alp28.htm#page_31).)
+[4](alp10.htm#page_4), [5](alp11.htm#page_5.md), and
+[31](alp28.htm#page_31)..md)
 
 ARAKEL SUNETZI was the Metropolitan of the province of Suni. He appears
 to have possessed a thorough acquaintance with the writings of his time.
@@ -351,7 +351,7 @@ Bow to her in adoration.
      What is higher than the Earth  
 Praise and love bring to enwreathe her.  
      For to-day we walk on her  
-And to-morrow sleep beneath her." <span id="fr_42"></span>[1](#fn_42)
+And to-morrow sleep beneath her." <span id="fr_42"></span>[1](#fn_42.md)
 
 <span id="page_182">p. 182</span>
 
@@ -467,15 +467,15 @@ political position of Armenia, except that the misery is even greater.
 
 ### Footnotes
 
-<span id="fn_40"></span>[175:1](alp91.htm#fr_40) These monarchs are
+<span id="fn_40"></span>[175:1](alp91.htm#fr_40.md) These monarchs are
 mentioned because they were the first Christian sovereigns.
 
-<span id="fn_41"></span>[176:1](alp91.htm#fr_41) In the Armenian Church
+<span id="fn_41"></span>[176:1](alp91.htm#fr_41.md) In the Armenian Church
 there are two classes of clergy--the higher order to which bishops
 belong and who do not marry, and the lower order of parish priests who
 do marry.
 
-<span id="fn_42"></span>[181:1](alp91.htm#fr_42) It is interesting to
+<span id="fn_42"></span>[181:1](alp91.htm#fr_42.md) It is interesting to
 compare this with a Persian poem by Essedi of Tus called a dispute
 between Day and Night. In the former the *Earth* is victorious, in the
 latter the *Day*. The Persian is essentially Mohammedan in spirit and
@@ -507,4 +507,4 @@ Persia*."
 
 ------------------------------------------------------------------------
 
-[Next: Eighteenth Century and onward](alp92)
+[Next: Eighteenth Century and onward](alp92.md)

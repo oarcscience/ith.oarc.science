@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](yom10)  [Next](yom12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](yom10)  [Next](yom12.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 3: Tracts Tracts Pesachim, Yomah and Hagiga*,
 tr. by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -108,7 +108,7 @@ In our Mishna, it is stated: If the Lord's he-goat dies, the one on
 which the lot has fallen for the Lord shall substitute him; from this we
 infer that the other one continues to be as it has been. A Boraitha is
 according to R. Johanan, as we have learned: It is said in the
-Mishna <span id="fr_20"></span>[1](#fn_20): The second should be allowed
+Mishna <span id="fr_20"></span>[1](#fn_20.md): The second should be allowed
 to graze. We do not know whether the second of the first or second pair.
 As it is written \[Lev. xvi. 10\]: "Shall be placed alive." Placed
 *alive*, not the one whose fellow is dead. How can that be inferred?
@@ -248,7 +248,7 @@ the he-goat has become sick, and cannot walk, he may take him on his
 shoulder, and carry him. Said Raphram: From this it is inferred, that
 the law of Erub and carrying applies to Sabbath only, but not to the Day
 of Atonement (else what difference between a Day of Atonement falling on
-a week-day and a Sabbath?) <span id="fr_21"></span>[1](#fn_21)
+a week-day and a Sabbath?) <span id="fr_21"></span>[1](#fn_21.md)
 
 Why is it mentioned, even when unclean? What case of uncleanness can be
 here? Said R. Shesheth: Even if the conductor became unclean, he may
@@ -272,7 +272,7 @@ and put him to death.
 
 R. Eliezer was asked whether a certain man would enjoy the world to
 come. He replied: You inquire of me concerning that man (he named a
-different man). <span id="fr_22"></span>[1](#fn_22) They asked of him
+different man). <span id="fr_22"></span>[1](#fn_22.md) They asked of him
 again: May a shepherd rescue a sheep carried away by a lion? He replied:
 Do you ask me of a sheep? They asked him again: May the shepherd be
 rescued from the lion's mouth? He answered again: You ask me only of the
@@ -307,7 +307,7 @@ there assembled themselves unto him all the sons of Levi." Rabhina was
 sitting and repeating this saying. The children of R. Papa b. Abba
 objected to him: It is written \[Deut. xxxiii. 9\]: "Who said of his
 father and his mother, I have not seen him." <span
-id="fr_23"></span>[1](#fn_23) By this is meant, those who slew for
+id="fr_23"></span>[1](#fn_23.md) By this is meant, those who slew for
 worshipping the calf, inflicted penalty on their relatives. Whence we
 see some of the Levites were guilty. Rabhina replied: By father is meant
 the maternal grandfather, who was of Israel, by brother a half-brother
@@ -450,21 +450,21 @@ desert.
 
 ### Footnotes
 
-<span id="fn_20"></span>[89:1](yom11.htm#fr_20) This is according to
+<span id="fn_20"></span>[89:1](yom11.htm#fr_20.md) This is according to
 Rashi's explanation, although it is unusual for a Boraitha to mention a
 Mishna.
 
-<span id="fn_21"></span>[92:1](yom11.htm#fr_21) What Raphram said is
+<span id="fn_21"></span>[92:1](yom11.htm#fr_21.md) What Raphram said is
 declared in Tract Tamid to be unfounded.
 
-<span id="fn_22"></span>[93:1](yom11.htm#fr_22) Rashi and Tosphath say,
+<span id="fn_22"></span>[93:1](yom11.htm#fr_22.md) Rashi and Tosphath say,
 the question was about Solomon, and he answered, "Do they mean Absalom?"
 But it does not seem probable to them.
 
-<span id="fn_23"></span>[94:1](yom11.htm#fr_23) We follow Leeser's
+<span id="fn_23"></span>[94:1](yom11.htm#fr_23.md) We follow Leeser's
 translation in all our biblical quotations, which see.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VII: The Passages Read by the High-Priest and his
-Garments](yom12)
+Garments](yom12.md)

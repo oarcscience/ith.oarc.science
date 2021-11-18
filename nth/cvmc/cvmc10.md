@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](cvmc09)  [Next](cvmc11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](cvmc09)  [Next](cvmc11.md) 
 
 ------------------------------------------------------------------------
 
@@ -113,4 +113,4 @@ poverty and squalor.
 
 ------------------------------------------------------------------------
 
-[Next: Conclusion](cvmc11)
+[Next: Conclusion](cvmc11.md)

@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](poe15)  [Next](poe17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](poe15)  [Next](poe17.md) 
 
 ------------------------------------------------------------------------
 
@@ -56,4 +56,4 @@ But of this enough has been said in our published treatises.
 ------------------------------------------------------------------------
 
 [Next: XVI. (Plot continued.) Recognition: its various kinds, with
-examples](poe17)
+examples](poe17.md)

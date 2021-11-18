@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ttt02)  [Next](ttt04) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ttt02)  [Next](ttt04.md) 
 
 ------------------------------------------------------------------------
 
@@ -294,4 +294,4 @@ TOM TIT TOT
 
 ------------------------------------------------------------------------
 
-[Next: Variations of Tom Tit Tot](ttt04)
+[Next: Variations of Tom Tit Tot](ttt04.md)

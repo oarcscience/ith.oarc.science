@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)   
-[Genesis](gen)  [Leviticus](lev)
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index.md)   
+[Genesis](gen)  [Leviticus](lev.md)
 
 ------------------------------------------------------------------------
 
@@ -9,82 +9,82 @@
 
 ------------------------------------------------------------------------
 
-[Exodus 1](exo001)  
+[Exodus 1](exo001.md)  
 
-[Exodus 2](exo002)  
+[Exodus 2](exo002.md)  
 
-[Exodus 3](exo003)  
+[Exodus 3](exo003.md)  
 
-[Exodus 4](exo004)  
+[Exodus 4](exo004.md)  
 
-[Exodus 5](exo005)  
+[Exodus 5](exo005.md)  
 
-[Exodus 6](exo006)  
+[Exodus 6](exo006.md)  
 
-[Exodus 7](exo007)  
+[Exodus 7](exo007.md)  
 
-[Exodus 8](exo008)  
+[Exodus 8](exo008.md)  
 
-[Exodus 9](exo009)  
+[Exodus 9](exo009.md)  
 
-[Exodus 10](exo010)  
+[Exodus 10](exo010.md)  
 
-[Exodus 11](exo011)  
+[Exodus 11](exo011.md)  
 
-[Exodus 12](exo012)  
+[Exodus 12](exo012.md)  
 
-[Exodus 13](exo013)  
+[Exodus 13](exo013.md)  
 
-[Exodus 14](exo014)  
+[Exodus 14](exo014.md)  
 
-[Exodus 15](exo015)  
+[Exodus 15](exo015.md)  
 
-[Exodus 16](exo016)  
+[Exodus 16](exo016.md)  
 
-[Exodus 17](exo017)  
+[Exodus 17](exo017.md)  
 
-[Exodus 18](exo018)  
+[Exodus 18](exo018.md)  
 
-[Exodus 19](exo019)  
+[Exodus 19](exo019.md)  
 
-[Exodus 20](exo020)  
+[Exodus 20](exo020.md)  
 
-[Exodus 21](exo021)  
+[Exodus 21](exo021.md)  
 
-[Exodus 22](exo022)  
+[Exodus 22](exo022.md)  
 
-[Exodus 23](exo023)  
+[Exodus 23](exo023.md)  
 
-[Exodus 24](exo024)  
+[Exodus 24](exo024.md)  
 
-[Exodus 25](exo025)  
+[Exodus 25](exo025.md)  
 
-[Exodus 26](exo026)  
+[Exodus 26](exo026.md)  
 
-[Exodus 27](exo027)  
+[Exodus 27](exo027.md)  
 
-[Exodus 28](exo028)  
+[Exodus 28](exo028.md)  
 
-[Exodus 29](exo029)  
+[Exodus 29](exo029.md)  
 
-[Exodus 30](exo030)  
+[Exodus 30](exo030.md)  
 
-[Exodus 31](exo031)  
+[Exodus 31](exo031.md)  
 
-[Exodus 32](exo032)  
+[Exodus 32](exo032.md)  
 
-[Exodus 33](exo033)  
+[Exodus 33](exo033.md)  
 
-[Exodus 34](exo034)  
+[Exodus 34](exo034.md)  
 
-[Exodus 35](exo035)  
+[Exodus 35](exo035.md)  
 
-[Exodus 36](exo036)  
+[Exodus 36](exo036.md)  
 
-[Exodus 37](exo037)  
+[Exodus 37](exo037.md)  
 
-[Exodus 38](exo038)  
+[Exodus 38](exo038.md)  
 
-[Exodus 39](exo039)  
+[Exodus 39](exo039.md)  
 
-[Exodus 40](exo040)  
+[Exodus 40](exo040.md)  

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](tigs11)  [Next](tigs13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](tigs11)  [Next](tigs13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0028RY8F6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *True Irish Ghost Stories*, by St. John D. Seymour and Harry L. Neligan,
 \[1914\], at Intangible Textual Heritage
 
@@ -168,7 +168,7 @@ voice he said, "Now I leave this earth and go to heaven." Unfortunately,
 as he was leaving, a sergeant and a constable of the R. I. Constabulary
 stopped him, questioned him, and hauled him off to the barracks to spend
 the remainder of the night in the cell, where no doubt he decided that
-the haunting game has its trials. <span id="fr_14"></span>[1](#fn_14)
+the haunting game has its trials. <span id="fr_14"></span>[1](#fn_14.md)
 
 An occurrence of very much the same description took place in County
 Clare about three years ago. Again the departed husband returns to his
@@ -378,7 +378,7 @@ if it came through the channels of sense, and accordingly externalises
 the impression, seeking its source in the world outside itself, whereas
 in all hallucinations the source is within the mind, and is not derived
 from an impression received through the recognised organ of
-sense." <span id="fr_15"></span>[1](#fn_15)
+sense." <span id="fr_15"></span>[1](#fn_15.md)
 
 Many of these hallucinations are termed *veridical*, or truth-telling,
 because they coincide with real events occurring to another person.
@@ -482,12 +482,12 @@ conception of God and His universe.
 
 ### Footnotes
 
-<span id="fn_14"></span>[256:1](tigs12.htm#fr_14) *Evening Telegraph*
+<span id="fn_14"></span>[256:1](tigs12.htm#fr_14.md) *Evening Telegraph*
 for Dec. 10, 1913
 
-<span id="fn_15"></span>[266:1](tigs12.htm#fr_15) Prof. Sir W. Barrett,
+<span id="fn_15"></span>[266:1](tigs12.htm#fr_15.md) Prof. Sir W. Barrett,
 *Psychical Research*, p. iii.
 
 ------------------------------------------------------------------------
 
-[Next: Index of Place Names](tigs13)
+[Next: Index of Place Names](tigs13.md)

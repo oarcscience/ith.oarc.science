@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal044)  [Next](njal046) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal044)  [Next](njal046.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ and scarcely fitting, except in irony, to a splitter of firewood.
 
 ------------------------------------------------------------------------
 
-[Next: 46. Of Gizur The White And Geir The Priest](njal046)
+[Next: 46. Of Gizur The White And Geir The Priest](njal046.md)

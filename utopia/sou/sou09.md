@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](sou08)  [Next](sou10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](sou08)  [Next](sou10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766127907/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -74,7 +74,7 @@ alien countries and the lure of gold do not indeed die out with this new
 interest; but they are subordinated to another type of conquest—that
 which man seeks to effect over nature. Here and there, particularly in
 Great Britain, untrained men "with a practical turn" begin to busy
-themselves with improving the mechanical [apparatus](errata.htm#3) by
+themselves with improving the mechanical [apparatus](errata.htm#3.md) by
 which the day's labor is done. In a country parsonage a clergyman named
 Arkwright invents a waterframe, a Scotchman named MacAdam discovers a
 new method of laying roads; and out of a hundred such inventions during
@@ -532,4 +532,4 @@ dominant; and we must continue to examine them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven](sou10)
+[Next: Chapter Seven](sou10.md)

@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](mom00)  [Next](mom02) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](mom00)  [Next](mom02.md) 
 
 ------------------------------------------------------------------------
 
@@ -161,7 +161,7 @@ frequently forced to take refuge here in the *ars nesciendi*.
 The following pages reproduce the "Conclusions" printed at the end of
 the first volume of my large work, *Textes et monuments figurés relatifs
 aux mystères de Mithra* (Brussels: H. Lamertin). <span
-id="fr_0"></span>[1](#fn_0) Stripped of the notes and references which
+id="fr_0"></span>[1](#fn_0.md) Stripped of the notes and references which
 there served to establish them, they are confined to epitomizing and
 co-ordinating the sum-total of the knowledge we possess concerning the
 origin and the characteristic features of the Mithraic religion. They
@@ -199,7 +199,7 @@ The first edition of the present work appeared in 1900, and a second was
 called for not long afterwards. Few changes have been made. We have
 added a few notes, made a few references to recent articles, and adorned
 the pages with a considerable number of illustrations. <span
-id="fr_1"></span>[1](#fn_1) The most important addition is the chapter
+id="fr_1"></span>[1](#fn_1.md) The most important addition is the chapter
 on Mithraic sculpture, which,
 
 <span id="page_x">p. x</span>
@@ -231,16 +231,16 @@ GHENT, *May 1st, 1902*.
 
 ### Footnotes
 
-<span id="fn_0"></span>[viii:1](mom01.htm#fr_0) Large octavo, 931 pages,
+<span id="fn_0"></span>[viii:1](mom01.htm#fr_0.md) Large octavo, 931 pages,
 507 illustrations and 9 photogravure plates. This work, which is a
 monument of scholarship and industry, is a complete descriptive and
 critical collection of all the Mithraic texts, inscriptions, references,
 and monuments that have been recovered from antiquity.--T. J. McC.
 
-<span id="fn_1"></span>[ix:1](mom01.htm#fr_1) The illustrations of the
+<span id="fn_1"></span>[ix:1](mom01.htm#fr_1.md) The illustrations of the
 French edition numbered twenty-two. The present English edition contains
 more than double that number.--T. J. McC.
 
 ------------------------------------------------------------------------
 
-[Next: Table of Contents](mom02)
+[Next: Table of Contents](mom02.md)

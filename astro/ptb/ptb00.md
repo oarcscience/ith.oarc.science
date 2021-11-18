@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Next](ptb01) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Next](ptb01.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,7 +79,7 @@ attribution is left intact in all copies.
 <span id="img_title"></span>
 
 [![Title Page](tn/title.jpg)  
-Click to enlarge](img/title.jpg)  
+Click to enlarge](img/title.jpg.md)  
 Title Page  
 
 <span id="page_v">p. v</span>
@@ -100,4 +100,4 @@ OF AN
 
 ------------------------------------------------------------------------
 
-[Next: Advertisement](ptb01)
+[Next: Advertisement](ptb01.md)

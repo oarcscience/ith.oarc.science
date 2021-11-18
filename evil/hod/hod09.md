@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Evil](../index) 
-[Index](index)  [Previous](hod08)  [Next](hod10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Evil](../index.md) 
+[Index](index)  [Previous](hod08)  [Next](hod10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B001VKXOHY/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,10 +24,10 @@ the ancient monism of India is apt to lose itself in pantism,--a theory
 according to which the All alone (or rather the conception of the
 absolute as the All) is possessed of reality, while all concrete
 existences are considered as a mere sham, an illusion, a dream. <span
-id="fr_36"></span>[1](#fn_36)
+id="fr_36"></span>[1](#fn_36.md)
 
 The polytheism of the popular Hinduism <span
-id="fr_37"></span>[2](#fn_37) is practically a pantheism in which the
+id="fr_37"></span>[2](#fn_37.md) is practically a pantheism in which the
 various deities are regarded as aspects of the One and All in which a
 discrimination between good and evil is entirely lost sight of. Thus the
 struggle between good and evil is contemplated as a process of repeated
@@ -44,7 +44,7 @@ enemies of the gods-giants, demons,
 TRIMURTI. Underneath the marks of the sects of Vishnu (1-12), Siva
 (13-30), Rama (36), Durga (31-32), and the Trimurti (33-35). (After
 Coleman.)](tn/generic.jpg)  
-Click to view](img/07500.jpg)  
+Click to view](img/07500.jpg.md)  
 THE BRAHMAN TRIMURTI. Underneath the marks of the sects of Vishnu
 (1-12), Siva (13-30), Rama (36), Durga (31-32), and the Trimurti
 (33-35). (After Coleman.)  
@@ -67,7 +67,7 @@ Trimurti, consisting of Brahma, Vishnu, and Siva.
 
 <span id="img_07600"></span> <span align="CENTER"> [![BRAHMA.&lt;br&gt;
 (Fragment of a car. Musée Guimet.)](tn/generic.jpg)  
-Click to view](img/07600.jpg)  
+Click to view](img/07600.jpg.md)  
 BRAHMA.  
 (Fragment of a car. Musée Guimet.)  
 </span>
@@ -95,7 +95,7 @@ then breathes the life into the body, which makes of man a living soul.
 
 <span id="img_07700"></span> <span align="CENTER"> [![BRAHMA AND
 SURASWATI.&lt;br&gt; (Reproduced from Hermann Göll.)](tn/generic.jpg)  
-Click to view](img/07700.jpg)  
+Click to view](img/07700.jpg.md)  
 BRAHMA AND SURASWATI.  
 (Reproduced from Hermann Göll.)  
 </span>
@@ -115,7 +115,7 @@ person of the trinity, the deity of avatars or incarnations, is, for all
 practical purposes, by far more important than Brahma.
 
 Vishnu appears in the following ten incarnations: <span
-id="fr_38"></span>[1](#fn_38)
+id="fr_38"></span>[1](#fn_38.md)
 
 In the first incarnation, called the Matsya-Avatar, Vishnu assumes the
 form of a fish in order to recover the Vedas stolen by evil demons and
@@ -127,7 +127,7 @@ incarnation
 is of interest because we read in the *Pistis Sophia* (one of the most
 important gnostic books) that the books of Ieou, which were dictated by
 God to Enoch in paradise, were preserved by Kalapatauroth from
-destruction in the deluge." <span id="fr_39"></span>[1](#fn_39)
+destruction in the deluge." <span id="fr_39"></span>[1](#fn_39.md)
 
 In order to enable the gods to procure the immortality-giving drink,
 amrita, Vishnu appeared as an immense
@@ -137,7 +137,7 @@ AND BRAHMA.&lt;br&gt; \[Vishnu reclines on a flower, supported by the
 serpent Ananta (a symbol of eternity), floating on the primeval waters
 of the undifferentiated world-substance.\] After a native illustration,
 reproduced from Hermann Göll.](tn/generic.jpg)  
-Click to view](img/07800.jpg)  
+Click to view](img/07800.jpg.md)  
 VISHNU, LAKSHMI, AND BRAHMA.  
 \[Vishnu reclines on a flower, supported by the serpent Ananta (a symbol
 of eternity), floating on the primeval waters of the undifferentiated
@@ -202,7 +202,7 @@ the demons, while the gods drank the Amrita.
 
 <span id="img_08000"></span> <span align="CENTER"> [![LAKSHMI, THE
 GODDESS OF BEAUTY (Musée Guimet.)](tn/generic.jpg)  
-Click to view](img/08000.jpg)  
+Click to view](img/08000.jpg.md)  
 LAKSHMI, THE GODDESS OF BEAUTY (Musée Guimet.)  
 </span>
 
@@ -232,7 +232,7 @@ upon the people the sad fate of those who do not believe in Vishnu.
 <span id="img_08100"></span> <span align="CENTER"> [![VISHNU
 NARASIMHA.&lt;br&gt; (Fragment of a car. Musée
 Guimet.)](tn/generic.jpg)  
-Click to view](img/08100.jpg)  
+Click to view](img/08100.jpg.md)  
 VISHNU NARASIMHA.  
 (Fragment of a car. Musée Guimet.)  
 </span>
@@ -259,7 +259,7 @@ dwarf incarnation is called the Vamana-avatar.
 <span id="img_08200"></span> <span align="CENTER"> [![HANUMAN, THE
 MONKEY KING, BUILDING THE BRIDGE OVER THE STRAIT BETWEEN INDIA AND
 LANKA. (Reproduced from Hermann Göll.)](tn/generic.jpg)  
-Click to view](img/08200.jpg)  
+Click to view](img/08200.jpg.md)  
 HANUMAN, THE MONKEY KING, BUILDING THE BRIDGE OVER THE STRAIT BETWEEN
 INDIA AND LANKA. (Reproduced from Hermann Göll.)  
 </span>
@@ -323,7 +323,7 @@ Vishnu, conquers him after a decisive struggle.
 
 <span id="img_08400"></span> <span align="CENTER"> [![THE MONKEY KING
 SUGRIVA FIGHTING. (Reproduced from Coleman.)](tn/generic.jpg)  
-Click to view](img/08400.jpg)  
+Click to view](img/08400.jpg.md)  
 THE MONKEY KING SUGRIVA FIGHTING. (Reproduced from Coleman.)  
 </span>
 
@@ -347,7 +347,7 @@ became his allies, how Hanuman jumped
 <span id="img_08500"></span> <span align="CENTER"> [![VISHNU AND
 SHRI-LAKSHMI AS RAMA CHANDRA AND SITA AFTER THEIR HAPPY REUNION.
 (Reproduced from Coleman.)](tn/generic.jpg)  
-Click to view](img/08500.jpg)  
+Click to view](img/08500.jpg.md)  
 VISHNU AND SHRI-LAKSHMI AS RAMA CHANDRA AND SITA AFTER THEIR HAPPY
 REUNION. (Reproduced from Coleman.)  
 </span>
@@ -370,7 +370,7 @@ wanderings of the sun god in search of his consort, the moon.
 <span id="img_08600"></span> <span align="CENTER"> [![HANUMAN RECITING
 HIS ADVENTURES TO RAMA CHANDRA AND SITA. (Reproduced from
 Coleman.)](tn/generic.jpg)  
-Click to view](img/08600.jpg)  
+Click to view](img/08600.jpg.md)  
 HANUMAN RECITING HIS ADVENTURES TO RAMA CHANDRA AND SITA. (Reproduced
 from Coleman.)  
 </span>
@@ -394,7 +394,7 @@ form of lightning. Kansa now decided
 <span id="img_08700"></span> <span align="CENTER"> [![KRISHNA NURSED BY
 DEVAKI.&lt;br&gt; After an old and richly-colored Hindu painting.
 (Reproduced from Moore's Hindu Pantheon, plate, 59.)](tn/generic.jpg)  
-Click to view](img/08700.jpg)  
+Click to view](img/08700.jpg.md)  
 KRISHNA NURSED BY DEVAKI.  
 After an old and richly-colored Hindu painting. (Reproduced from Moore's
 Hindu Pantheon, plate, 59.)  
@@ -424,14 +424,14 @@ Krishna plays also a prominent part in the Mahabharata,
 <span id="img_08800"></span> <span align="CENTER"> [![KRISHNA.&lt;br&gt;
 As a shepherd lad playing the flute \[the flute is missing\]. (Bronze
 statue. Musée Guimet.)](tn/generic.jpg)  
-Click to view](img/08800.jpg)  
+Click to view](img/08800.jpg.md)  
 KRISHNA.  
 As a shepherd lad playing the flute \[the flute is missing\]. (Bronze
 statue. Musée Guimet.)  
 </span>
 
 the Iliad of the Hindus, which describes the war between the Kurus and
-the Pandus, <span id="fr_41"></span>[1](#fn_41) both descendants of
+the Pandus, <span id="fr_41"></span>[1](#fn_41.md) both descendants of
 Bharata and both grandchildren of Vyasa. Dhritarashtra, the father of
 the Kurus, was king of Hastinapur, but being blind, Bhishma, his uncle,
 reigned in his stead. After a test of the faculties of the young
@@ -441,7 +441,7 @@ Pandu-prince, Yudhishthira, was installed as heir apparent. The Kurus,
 however, who managed to remain in power, tried to burn the Pandus, but
 they escaped and lived for some time in the disguise of mendicant
 Brahmans. Having allied themselves, by marriage with Draupadi, <span
-id="fr_42"></span>[2](#fn_42) the daughter of Drupada, king of Panchala,
+id="fr_42"></span>[2](#fn_42.md) the daughter of Drupada, king of Panchala,
 with a powerful monarch, the Pandus reappeared at Hastinapur and induced
 Dhritarashtra to divide the kingdom between his sons, the Kurus, and his
 nephews, the Pandus; but at a festival, held at Hastinapur,
@@ -459,7 +459,7 @@ elapsed the Kurus refused to give up the country or any part of
 <span id="img_08900"></span> <span align="CENTER"> [![KRISHNA, THE
 FAVORITE OF THE COUNTRY LASSES OF GOKULA.&lt;br&gt; (Reproduced from
 Coleman.)](tn/generic.jpg)  
-Click to view](img/08900.jpg)  
+Click to view](img/08900.jpg.md)  
 KRISHNA, THE FAVORITE OF THE COUNTRY LASSES OF GOKULA.  
 (Reproduced from Coleman.)  
 </span>
@@ -476,7 +476,7 @@ choice between his (Krishna's) company as a mere adviser or his
 
 <span id="img_09000"></span> <span align="CENTER"> [![KRISHNA'S
 ADVENTURES. (Reproduced from Coleman.)](tn/generic.jpg)  
-Click to view](img/09000.jpg)  
+Click to view](img/09000.jpg.md)  
 KRISHNA'S ADVENTURES. (Reproduced from Coleman.)  
 </span>
 
@@ -498,7 +498,7 @@ where they find that rest and happiness which is unattainable on earth.
 <span id="img_09100"></span> <span align="CENTER"> [![THE BATTLE BETWEEN
 THE KURUS AND PANDUS ON THE FIELD OF KURUKSHETRA.&lt;br&gt; (Reproduced
 from Wilkins.)](tn/generic.jpg)  
-Click to view](img/09100.jpg)  
+Click to view](img/09100.jpg.md)  
 THE BATTLE BETWEEN THE KURUS AND PANDUS ON THE FIELD OF KURUKSHETRA.  
 (Reproduced from Wilkins.)  
 </span>
@@ -525,7 +525,7 @@ toward all beings. It is
 
 <span id="img_09200"></span> <span align="CENTER"> [![JAGANNATH WITH HIS
 TWO COMPANIONS. (After Schlagintweit.)](tn/generic.jpg)  
-Click to view](img/09200.jpg)  
+Click to view](img/09200.jpg.md)  
 JAGANNATH WITH HIS TWO COMPANIONS. (After Schlagintweit.)  
 </span>
 
@@ -534,7 +534,7 @@ Brahmans and the Buddha of the Buddhists. The latter, there can be no
 doubt, was a historical personality, by the name of Gautama, the son of
 Shuddhodana of the warrior caste, while the former is a mere ideal
 figure of ethical perfection. Burnouf <span
-id="fr_43"></span>[1](#fn_43) proposes to regard both as quite distinct,
+id="fr_43"></span>[1](#fn_43.md) proposes to regard both as quite distinct,
 and he is right, but we need not for that reason deny that, on the one
 hand, the ideal of a
 
@@ -596,7 +596,7 @@ triangle turning its point upwards<span id="img_09400"></span>
 <span id="img_09401"></span> <span align="CENTER"> [![SHIVA DANCING
 SURROUNDED BY A HALO OF FLAMES. (Bronze Statue. Musée
 Guimet.)](tn/generic.jpg)  
-Click to view](img/09401.jpg)  
+Click to view](img/09401.jpg.md)  
 SHIVA DANCING SURROUNDED BY A HALO OF FLAMES. (Bronze Statue. Musée
 Guimet.)  
 </span>
@@ -656,7 +656,7 @@ Mythology of The Hindus*, p. 175.)
 
 <span id="img_09600"></span> <span align="CENTER"> [![SIVA AND PARVATI.
 (Reproduced from Hermann Göll)](tn/generic.jpg)  
-Click to view](img/09600.jpg)  
+Click to view](img/09600.jpg.md)  
 SIVA AND PARVATI. (Reproduced from Hermann Göll)  
 </span>
 
@@ -675,7 +675,7 @@ reincarnations as told in ancient
 
 <span id="img_09700"></span> <span align="CENTER"> [![KALI, After an
 Indian picture. (Reproduced from Schlagintweit.)](tn/generic.jpg)  
-Click to view](img/09700.jpg)  
+Click to view](img/09700.jpg.md)  
 KALI, After an Indian picture. (Reproduced from Schlagintweit.)  
 </span>
 
@@ -690,7 +690,7 @@ destruction, perdition, and
 
 <span id="img_09800"></span> <span align="CENTER"> [![DURGA. Indian
 sculpture, (Reproduced from Schlagintweit.)](tn/generic.jpg)  
-Click to view](img/09800.jpg)  
+Click to view](img/09800.jpg.md)  
 DURGA. Indian sculpture, (Reproduced from Schlagintweit.)  
 </span>
 
@@ -706,7 +706,7 @@ reverence which the pious Hindu cherishes
 
 <span id="img_09900"></span> <span align="CENTER"> [![mKHA' sGROMA, THE
 TIBETAN KALI. Bronze. (Musée Guimet.)](tn/generic.jpg)  
-Click to view](img/09900.jpg)  
+Click to view](img/09900.jpg.md)  
 mKHA' sGROMA, THE TIBETAN KALI. Bronze. (Musée Guimet.)  
 </span>
 
@@ -721,13 +721,13 @@ Vishnu and Siva. In
 
 <span id="img_10000"></span> <span align="CENTER"> [![KALI-DURGA IN THE
 HINDU PANTHEON. (Reproduced from Wilkins.)](tn/generic.jpg)  
-Click to view](img/10000.jpg)  
+Click to view](img/10000.jpg.md)  
 KALI-DURGA IN THE HINDU PANTHEON. (Reproduced from Wilkins.)  
 </span>
 
 the Mahatmya, or collection of temple legends of the HariHara, a town in
 the province of Mysore, Isvara says:" <span
-id="fr_44"></span>[1](#fn_44)
+id="fr_44"></span>[1](#fn_44.md)
 
 <span id="page_101">p. 101</span>
 
@@ -745,7 +745,7 @@ inherit the highest heaven."</span>
 
 <span id="img_10100"></span> <span align="CENTER"> [![HARIHARA.
 (Reproduced from Wilkins.)](tn/generic.jpg)  
-Click to view](img/10100.jpg)  
+Click to view](img/10100.jpg.md)  
 HARIHARA. (Reproduced from Wilkins.)  
 </span>
 
@@ -800,8 +800,8 @@ SIVA SLAYING A DEMON. (Reproduced from Wilkins.)<br />
 <span id="page_103">p. 103</span>
 
 Kama, the Hindu Amor, Ganesa, the elephant-headed god of wisdom, <span
-id="fr_45"></span>[1](#fn_45) and Karttikeya, <span
-id="fr_46"></span>[2](#fn_46) the leader of the good demons., on the
+id="fr_45"></span>[1](#fn_45.md) and Karttikeya, <span
+id="fr_46"></span>[2](#fn_46.md) the leader of the good demons., on the
 peacock, both sons of Siva, and others. In addition, we have a great
 number of devas, sprites, and goblins. Some of them are good, as the
 Gandharvas, others at least not naturally ill-intentioned, as for
@@ -815,31 +815,31 @@ not to mention all the other demons of less power and importance.
 
 ### Footnotes
 
-<span id="fn_36"></span>[74:1](hod09.htm#fr_36) Pantism, the theory of
+<span id="fn_36"></span>[74:1](hod09.htm#fr_36.md) Pantism, the theory of
 the All (from πᾶν, root ΠΑΝΤ), is different from Pantheism, the theory
 which identifies the All (πᾶν) with God (ϑεός).
 
-<span id="fn_37"></span>[74:2](hod09.htm#fr_37) Sir Monier-Monier
+<span id="fn_37"></span>[74:2](hod09.htm#fr_37.md) Sir Monier-Monier
 Williams distinguishes between Brahmanism, the old faith of the Indian
 Aryas, and Hinduism, the modern form of this same religion, as it
 developed after the expulsion of Buddhism from India.
 
-<span id="fn_38"></span>[77:1](hod09.htm#fr_38) Since it is our
+<span id="fn_38"></span>[77:1](hod09.htm#fr_38.md) Since it is our
 intention to be brief, we do not enter in this exposition of the ten
 avatars into any details that could be omitted and neglect to mention
 the variants of the myths.
 
-<span id="fn_39"></span>[78:1](hod09.htm#fr_39) MS., P 354, English
+<span id="fn_39"></span>[78:1](hod09.htm#fr_39.md) MS., P 354, English
 translation from Schwartze's latest translation by G. R. S. Meade, p.
 354.
 
-<span id="fn_40"></span>[79:1](hod09.htm#fr_40) All the Avatar pictures
+<span id="fn_40"></span>[79:1](hod09.htm#fr_40.md) All the Avatar pictures
 are from Picart.
 
-<span id="fn_41"></span>[88:1](hod09.htm#fr_41) The Pandus are also
+<span id="fn_41"></span>[88:1](hod09.htm#fr_41.md) The Pandus are also
 called Pandavas, and the Kurus Kamavas.
 
-<span id="fn_42"></span>[88:2](hod09.htm#fr_42) That the five Pandus
+<span id="fn_42"></span>[88:2](hod09.htm#fr_42.md) That the five Pandus
 held Draupadi in common as their wife, proves the high antiquity of the
 story. Polyandry was apparently a practice not uncommon in ancient
 times. It prevails still to-day among the less cultured hill tribes. But
@@ -850,19 +850,19 @@ explain it allegorically by declaring that Draupadi is Lakshmi, and the
 five Pandu brothers represent five different forms of one and the same
 Indra.
 
-<span id="fn_43"></span>[92:1](hod09.htm#fr_43) Histoire du Buddhisme,
+<span id="fn_43"></span>[92:1](hod09.htm#fr_43.md) Histoire du Buddhisme,
 I., 338.
 
-<span id="fn_44"></span>[100:1](hod09.htm#fr_44) The legends of the
+<span id="fn_44"></span>[100:1](hod09.htm#fr_44.md) The legends of the
 shrine of HariHara, translated from the Sanskrit by Rev. Thomas Foulkes.
 
-<span id="fn_45"></span>[103:1](hod09.htm#fr_45) Ganesa, which means the
+<span id="fn_45"></span>[103:1](hod09.htm#fr_45.md) Ganesa, which means the
 lord (*isa*) of hosts (*gana*), is originally Siva himself, and he was
 invoked under that name by writers of books to drive away evil demons.
 
-<span id="fn_46"></span>[103:2](hod09.htm#fr_46) Karttikeya is also
+<span id="fn_46"></span>[103:2](hod09.htm#fr_46.md) Karttikeya is also
 called Subrahmanya and Skanda.
 
 ------------------------------------------------------------------------
 
-[Next: Buddhism](hod10)
+[Next: Buddhism](hod10.md)

@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Confucianism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Confucianism](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Kindle](https://www.amazon.com/exec/obidos/ASIN/B002HRFBOE/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](fol00)    [Page
-Index](pageidx)    [Text \[Zipped\]](fol.txt.gz)
+[Contents](#contents)    [Start Reading](fol00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](fol.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -42,166 +42,166 @@ in these poems, including such symbols as the moon, flowers and dragons.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](fol00)  
-[Table of Contents](fol01)  
-[Editorial Note](fol02)  
+<span id="contents"></span> [Title Page](fol00.md)  
+[Table of Contents](fol01.md)  
+[Editorial Note](fol02.md)  
 <span id="section_000"></span>
 
 ### Introduction
 
-[Introduction](fol03)  
-[Moon](fol04)  
-[Flowers](fol05)  
-[Dragons](fol06)  
-[Sources of Inspiration](fol07)  
-[Chinese Verse Form](fol08)  
-[Epochs in Chinese Poetry](fol09)  
-[Conclusion](fol10)  
+[Introduction](fol03.md)  
+[Moon](fol04.md)  
+[Flowers](fol05.md)  
+[Dragons](fol06.md)  
+[Sources of Inspiration](fol07.md)  
+[Chinese Verse Form](fol08.md)  
+[Epochs in Chinese Poetry](fol09.md)  
+[Conclusion](fol10.md)  
 
  
 
-[Lines From the Tomb of an Unknown Woman](fol11)  
-[A Word From The Wind](fol12)  
+[Lines From the Tomb of an Unknown Woman](fol11.md)  
+[A Word From The Wind](fol12.md)  
 <span id="section_001"></span>
 
 ### Wang Po
 
-[A King of Tang](fol13)  
+[A King of Tang](fol13.md)  
 <span id="section_002"></span>
 
 ### Wang Wei
 
-[While Roses Fall](fol14)  
+[While Roses Fall](fol14.md)  
 <span id="section_003"></span>
 
 ### Li Po
 
-[Li Po](fol15)  
-[Along the Stream](fol16)  
-[The Palace of Chao-Yang](fol17)  
-[The Two Visits](fol18)  
-[Spring Rhapsodies: I. Delight](fol19)  
-[II. Sadness](fol20)  
-[III. Sorrow](fol21)  
-[Bright Autumntide](fol22)  
+[Li Po](fol15.md)  
+[Along the Stream](fol16.md)  
+[The Palace of Chao-Yang](fol17.md)  
+[The Two Visits](fol18.md)  
+[Spring Rhapsodies: I. Delight](fol19.md)  
+[II. Sadness](fol20.md)  
+[III. Sorrow](fol21.md)  
+[Bright Autumntide](fol22.md)  
 <span id="section_004"></span>
 
 ### Tu Fu
 
-[Tu Fu](fol23)  
-[In Exile](fol24)  
-[The Ghost-Road](fol25)  
-[Sailing Across Lake Mei-Pei](fol26)  
+[Tu Fu](fol23.md)  
+[In Exile](fol24.md)  
+[The Ghost-Road](fol25.md)  
+[Sailing Across Lake Mei-Pei](fol26.md)  
 <span id="section_005"></span>
 
 ### Ch‘ang-Ch‘ien
 
-[Ch‘ang-Ch‘ien](fol27)  
-[The Tomb of Chao-Chün](fol28)  
+[Ch‘ang-Ch‘ien](fol27.md)  
+[The Tomb of Chao-Chün](fol28.md)  
 <span id="section_006"></span>
 
 ### Ts‘ui Hao
 
-[**B**oating Song of the Yo Eh](fol29)  
+[**B**oating Song of the Yo Eh](fol29.md)  
 <span id="section_007"></span>
 
 ### Han Yü
 
-[Disappointment](fol30)  
+[Disappointment](fol30.md)  
 <span id="section_008"></span>
 
 ### Po Chü-i
 
-[In Yung-Yang](fol31)  
-[Rain at Dawn](fol32)  
-[Myself](fol33)  
-[Morning Studies](fol34)  
-[The Little Crow](fol35)  
-[At Forty-One](fol36)  
-[A Night on Lake T‘ai](fol37)  
+[In Yung-Yang](fol31.md)  
+[Rain at Dawn](fol32.md)  
+[Myself](fol33.md)  
+[Morning Studies](fol34.md)  
+[The Little Crow](fol35.md)  
+[At Forty-One](fol36.md)  
+[A Night on Lake T‘ai](fol37.md)  
 <span id="section_009"></span>
 
 ### Ou-Yang Hsiu
 
-[Return](fol38)  
-[The Pavillion of Abounding Joy](fol39)  
-[Wild Geese](fol40)  
-[Bell Hill](fol41)  
-[Songs of the Night](fol42)  
+[Return](fol38.md)  
+[The Pavillion of Abounding Joy](fol39.md)  
+[Wild Geese](fol40.md)  
+[Bell Hill](fol41.md)  
+[Songs of the Night](fol42.md)  
 <span id="section_010"></span>
 
 ### Wang An-Shih
 
-[At the Parting Ways](fol43)  
+[At the Parting Ways](fol43.md)  
 <span id="section_011"></span>
 
 ### Su Tung-p‘o
 
-[Dreaming at Golden Hill](fol44)  
-[At the Kuang-Li Pavilion](fol45)  
-[Farewell to Chao Tâ-Lin](fol46)  
-[On the River at Hui-Ch‘ung](fol47)  
+[Dreaming at Golden Hill](fol44.md)  
+[At the Kuang-Li Pavilion](fol45.md)  
+[Farewell to Chao Tâ-Lin](fol46.md)  
+[On the River at Hui-Ch‘ung](fol47.md)  
 <span id="section_012"></span>
 
 ### Liu Tzu-Hui
 
-[Listening to the Harp](fol48)  
-[Autumn Moonlight](fol49)  
+[Listening to the Harp](fol48.md)  
+[Autumn Moonlight](fol49.md)  
 <span id="section_013"></span>
 
 ### Wen T‘ung
 
-[Morning](fol50)  
-[Evening](fol51)  
+[Morning](fol50.md)  
+[Evening](fol51.md)  
 <span id="section_014"></span>
 
 ### Lu Yu
 
-[Song of Three Gorges](fol52)  
+[Song of Three Gorges](fol52.md)  
 <span id="section_015"></span>
 
 ### Liu Ch‘ang
 
-[Autumn Thoughts](fol53)  
-[On Waking From Sleep](fol54)  
+[Autumn Thoughts](fol53.md)  
+[On Waking From Sleep](fol54.md)  
 <span id="section_016"></span>
 
 ### Anon
 
-[Riding by Moonlight](fol55)  
+[Riding by Moonlight](fol55.md)  
 <span id="section_017"></span>
 
 ### Liu Chi
 
-[The Convent of Siang-Fu](fol56)  
-[Night, Sorrow, and Song](fol57)  
+[The Convent of Siang-Fu](fol56.md)  
+[Night, Sorrow, and Song](fol57.md)  
 <span id="section_018"></span>
 
 ### Yang Chi
 
-[Lines Written in Exile](fol58)  
+[Lines Written in Exile](fol58.md)  
 <span id="section_019"></span>
 
 ### Anon
 
-[Plum Blossom](fol59)  
-[Calycanthus Flower](fol60)  
+[Plum Blossom](fol59.md)  
+[Calycanthus Flower](fol60.md)  
 <span id="section_020"></span>
 
 ### Yuan Mei
 
-[Yuan Mei](fol61)  
-[A Feast of Lanterns](fol62)  
-[A Medley of Perfume](fol63)  
-[Willow Flowers](fol64)  
-[Illusion](fol65)  
-[The Secret Land](fol66)  
-[In an Old Library](fol67)  
-[A Challenge From the Moon](fol68)  
-[After the Rain](fol69)  
-[Home](fol70)  
+[Yuan Mei](fol61.md)  
+[A Feast of Lanterns](fol62.md)  
+[A Medley of Perfume](fol63.md)  
+[Willow Flowers](fol64.md)  
+[Illusion](fol65.md)  
+[The Secret Land](fol66.md)  
+[In an Old Library](fol67.md)  
+[A Challenge From the Moon](fol68.md)  
+[After the Rain](fol69.md)  
+[Home](fol70.md)  
 
  
 
-[Note](fol71)  
-[Advertisements](fol72)  
+[Note](fol71.md)  
+[Advertisements](fol72.md)  

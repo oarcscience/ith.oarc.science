@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](ttg06)  [Next](ttg08) 
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](ttg06)  [Next](ttg08.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ disappeared. And the king went back, determined to catch him.
 ------------------------------------------------------------------------
 
 [Next: Seventh Goblin: The Mutual Services of King Fierce-lion and
-Prince Good. Which is the more deserving?](ttg08)
+Prince Good. Which is the more deserving?](ttg08.md)

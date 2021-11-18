@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](gork13)  [Next](gork15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](gork13)  [Next](gork15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002I62OVC/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gospel of Ramakrishna*, ed. by Swami Abhedananda, \[1907\], at
 Intangible Textual Heritage
 
@@ -19,12 +19,12 @@ Intangible Textual Heritage
 
 ### CHAPTER XI
 
-### SRÎ RÂMAKRISHNA AT THE SINTI <span id="fr_85"></span>[\*](#fn_85) BRÂHMO-SAMÂJ
+### SRÎ RÂMAKRISHNA AT THE SINTI <span id="fr_85"></span>[\*](#fn_85.md) BRÂHMO-SAMÂJ
 
 <span class="smallcaps">Bhagavân Srî Râmakrishna</span> had been asked
 to attend the anniversary meeting of the Brâhmo-Samâj, which that year
 was held in the beautiful garden-house of a gentleman named Veni
-Bâbu. <span id="fr_86"></span>[†](#fn_86) The morning service was over
+Bâbu. <span id="fr_86"></span>[†](#fn_86.md) The morning service was over
 when the Bhagavân arrived in a carriage with certain of His disciples
 and took His place on a raised seat set apart for Him on the veranda
 overlooking a large quadrangle. Crowds of devotees, followers and
@@ -655,13 +655,13 @@ accompanied by a few devotees, returned to Dakshineswara.
 
 ### Footnotes
 
-<span id="fn_85"></span>[319:\*](gork14.htm#fr_85) Sinti, a village
+<span id="fn_85"></span>[319:\*](gork14.htm#fr_85.md) Sinti, a village
 about four miles north of Calcutta.
 
-<span id="fn_86"></span>[319:†](gork14.htm#fr_86) Veni Bâbu was a
+<span id="fn_86"></span>[319:†](gork14.htm#fr_86.md) Veni Bâbu was a
 follower of the Brâhmo-Samâj. He regarded Râmakrishna as the most Divine
 man of the age.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XII. At the House of Balarâm, a Disciple](gork15)
+[Next: Chapter XII. At the House of Balarâm, a Disciple](gork15.md)

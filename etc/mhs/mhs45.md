@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc Texts](../index) 
-[Index](index)  [Previous](mhs44)  [Next](mhs46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc Texts](../index.md) 
+[Index](index)  [Previous](mhs44)  [Next](mhs46.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ nine times.
 
 ------------------------------------------------------------------------
 
-[Next: IV. The Doctrine Of Demoniacal Possession](mhs46)
+[Next: IV. The Doctrine Of Demoniacal Possession](mhs46.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta44)  [Next](sta46) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta44)  [Next](sta46.md) 
 
 ------------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ pre-Christian times, and among non-Christian peoples, may
 <span id="img_18100"></span>
 
 [![HISTORY OF THE HOLY CROSS.](tn/18100.jpg)  
-Click to enlarge](img/18100.jpg)  
+Click to enlarge](img/18100.jpg.md)  
 HISTORY OF THE HOLY CROSS.  
 
 From Berjeau's *History of the Holy Cross*.
@@ -313,7 +313,7 @@ humiliation; a cross of wood, aspiration. The fact that
 
 [![THE EASTER ISLAND FIGURE SHOWING CRUX ANSATA ON
 REVERSE](tn/18200.jpg)  
-Click to enlarge](img/18200.jpg)  
+Click to enlarge](img/18200.jpg.md)  
 THE EASTER ISLAND FIGURE SHOWING CRUX ANSATA ON REVERSE  
 
 That the Crux Ansata migrated to many parts of the earth is proved by
@@ -373,7 +373,7 @@ receive the boon of eternal life is an imposing one. Among those
 connected historically or allegorically with a crucifixion are
 Prometheus, Adonis, Apollo, Arys, Bacchus, Buddha, Christna, Horus,
 Indra, Ixion, Mithras, Osiris, Pythagoras, Quetzalcoatl, Semiramis, and
-Jupiter. According to the [fragmentary](errata.htm#15) accounts extant,
+Jupiter. According to the [fragmentary](errata.htm#15.md) accounts extant,
 all these heroes gave their lives to the service of humanity and, with
 one or two exceptions, died as martyrs for the cause of human progress.
 In many mysterious ways the manner of their death has been designedly
@@ -459,7 +459,7 @@ India had its mythical crucified victim long anterior to Christianity,
 <span id="img_18300"></span>
 
 [![THE TAU CROSS.](tn/18300.jpg)  
-Click to enlarge](img/18300.jpg)  
+Click to enlarge](img/18300.jpg.md)  
 THE TAU CROSS.  
 
 The TAU Cross was the sign which the Lord told the people of Jerusalem
@@ -470,7 +470,7 @@ acquitted.
 <span id="img_18301"></span>
 
 [![THE CRUX ANSATA.](tn/18301.jpg)  
-Click to enlarge](img/18301.jpg)  
+Click to enlarge](img/18301.jpg.md)  
 THE CRUX ANSATA.  
 
 Both the cross and the circle were phallic symbols, for the ancient
@@ -482,7 +482,7 @@ generation.
 <span id="img_18302"></span>
 
 [![APOLLONIUS OF TYANA.](tn/18302.jpg)  
-Click to enlarge](img/18302.jpg)  
+Click to enlarge](img/18302.jpg.md)  
 APOLLONIUS OF TYANA.  
 
 From *Historia Deorum Fatidicorum*.
@@ -642,7 +642,7 @@ must be sacrificed that the Universal Consciousness may be liberated.
 
 [![THE CRUCIFIXION OF QUETZALCOATL.&lt;br&gt; (From the Codex
 Borgianus.) ](tn/18400.jpg)  
-Click to enlarge](img/18400.jpg)  
+Click to enlarge](img/18400.jpg.md)  
 THE CRUCIFIXION OF QUETZALCOATL.  
 (From the Codex Borgianus.)  
 
@@ -660,7 +660,7 @@ recorded of him in the Gospels."
 <span id="img_18401"></span>
 
 [![THE CRUCIFIXION IN SPACE.](tn/18401.jpg)  
-Click to enlarge](img/18401.jpg)  
+Click to enlarge](img/18401.jpg.md)  
 THE CRUCIFIXION IN SPACE.  
 
 From Higgins' *Anacalypsis*.
@@ -676,4 +676,4 @@ mythology, who offered himself a sacrifice before the worlds were?"
 
 ------------------------------------------------------------------------
 
-[Next: The Mystery of the Apocalypse](sta46)
+[Next: The Mystery of the Apocalypse](sta46.md)

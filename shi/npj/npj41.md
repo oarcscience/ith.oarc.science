@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj40) 
-[Next](npj42) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj40.md) 
+[Next](npj42.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ The play ends with the release of the girls' souls from the *shūshin*,
 
 ------------------------------------------------------------------------
 
-[Next: Shunkwan](npj42)
+[Next: Shunkwan](npj42.md)

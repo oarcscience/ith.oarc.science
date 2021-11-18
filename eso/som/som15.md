@@ -1,12 +1,12 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index)  [New
-Thought](../../nth/index)  [Index](index)  [Previous](som14) 
-[Next](som16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md)  [New
+Thought](../../nth/index)  [Index](index)  [Previous](som14.md) 
+[Next](som16.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0874779219/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ is Automatic and the form is without self-determination.
 <span id="img_chart03"></span>
 
 [![Lesson Three: Metaphysical Chart No. III.](tn/chart03.jpg)  
-Click to enlarge](img/chart03.jpg)  
+Click to enlarge](img/chart03.jpg.md)  
 Lesson Three: Metaphysical Chart No. III.  
 
 The upper section of this chart shows how the conscious mind, or spirit
@@ -106,4 +106,4 @@ self-knowingness. He is the result of his self-contemplation.
 
 ------------------------------------------------------------------------
 
-[Next: Lesson Three: Mental Healing](som16)
+[Next: Lesson Three: Mental Healing](som16.md)

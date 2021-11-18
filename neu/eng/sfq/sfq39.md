@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq38)  [Next](sfq40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq38)  [Next](sfq40.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Legends](../../index)  [England](../index)  [Index](index) 
 <span id="img_16700"></span>
 
 [![](tn/16700.jpg)  
-Click to enlarge](img/16700.jpg)
+Click to enlarge](img/16700.jpg.md)
 
 # The Legend of Britomart
 
@@ -105,4 +105,4 @@ something rushed past them.
 
 ------------------------------------------------------------------------
 
-[Next: How Britomart fought with Six Knights](sfq40)
+[Next: How Britomart fought with Six Knights](sfq40.md)

@@ -1,9 +1,9 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index) 
-[Previous](brfb23)  [Next](brfb25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Lang Fairy Books](../index)  [Index](index.md) 
+[Previous](brfb23)  [Next](brfb25.md) 
 
 </div>
 
@@ -389,6 +389,6 @@ than my fate.'
 
 ------------------------------------------------------------------------
 
-[Next: The Fox and the Lapp](brfb25)
+[Next: The Fox and the Lapp](brfb25.md)
 
 </div>

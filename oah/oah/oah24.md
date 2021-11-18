@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Oahspe](../index) 
-[Index](index)  [Previous](oah23)  [Next](oah25) 
+[Intangible Textual Heritage](../../index)  [Oahspe](../index.md) 
+[Index](index)  [Previous](oah23)  [Next](oah25.md) 
 
 ------------------------------------------------------------------------
 
@@ -131,4 +131,4 @@ great was the love and rejoicing amongst them.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](oah25)
+[Next: Chapter IX](oah25.md)

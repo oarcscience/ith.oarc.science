@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index) 
-[Previous](oss31)  [Next](oss33) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Celtic Folklore](../celt/index)  [Index](index.md) 
+[Previous](oss31)  [Next](oss33.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ the mists deceive me for the ship of my love! when they rise round some
 ghost, and spread their gray skirts on the wind. Why dost thou delay thy
 coming, son of the generous Semo? Four times has autumn returned with
 its winds, and raised the seas of Togorma,  <span
-id="fr_89"></span>[1](#fn_89) since thou hast been in the roar of
+id="fr_89"></span>[1](#fn_89.md) since thou hast been in the roar of
 battles, and Bragéla distant far! Hills of the isle of mist! when will
 ye answer to his hounds? But ye are dark in your clouds. Sad Bragéla
 calls in vain! Night comes rolling down. The face of ocean falls. The
@@ -132,7 +132,7 @@ words of the song were his: the sound of his harp was mournful.
 look towards the desert, to behold the return of thy son? These are not
 his heroes, dark on the heath: nor is that the voice of Calmar. It is
 but the distant grove, Alcletha! but the roar of the
-mountain-wind-- <span id="fr_90"></span>[1](#fn_90)'Who bounds over
+mountain-wind-- <span id="fr_90"></span>[1](#fn_90.md)'Who bounds over
 Lara's stream, sister of the noble Calmar? Does not Alcletha behold his
 spear? But her eyes are dim! Is it not the son of Matha, daughter of my
 love?'
@@ -144,7 +144,7 @@ Calmar. Alcletha, it is covered with blood!'--
 
 <span id="page_387">p. 387</span>
 
-"' <span id="fr_91"></span>[1](#fn_91)But it is covered with the blood
+"' <span id="fr_91"></span>[1](#fn_91.md)But it is covered with the blood
 of foes, sister of car-borne Calmar! His spear never returned unstained
 with blood: nor his bow from the strife of the mighty. The battle is
 consumed in his presence: he is a flame of death, Alona!--Youth of the
@@ -241,7 +241,7 @@ a distance, lies. The song of bards rose over the dead.
 
 <span id="page_390">p. 390</span>
 
-" <span id="fr_92"></span>[1](#fn_92) Blest be thy soul, son of Semo!
+" <span id="fr_92"></span>[1](#fn_92.md) Blest be thy soul, son of Semo!
 Thou wert mighty in battle. Thy strength was like the strength of a
 stream; thy speed like the eagle's wing. Thy path in battle was
 terrible: the steps of death were behind thy sword. Blest be thy soul,
@@ -265,16 +265,16 @@ shady Tura!"
 
 ### Footnotes
 
-<span id="fn_89"></span>[383:1](oss32.htm#fr_89) Togorma, i. e. "the
+<span id="fn_89"></span>[383:1](oss32.htm#fr_89.md) Togorma, i. e. "the
 island of blue waves," one of the Hebrides.
 
-<span id="fn_90"></span>[386:1](oss32.htm#fr_90) Alcletha speaks
+<span id="fn_90"></span>[386:1](oss32.htm#fr_90.md) Alcletha speaks
 
-<span id="fn_91"></span>[387:1](oss32.htm#fr_91) Alcletha speaks.
+<span id="fn_91"></span>[387:1](oss32.htm#fr_91.md) Alcletha speaks.
 
-<span id="fn_92"></span>[390:1](oss32.htm#fr_92) This is the song of the
+<span id="fn_92"></span>[390:1](oss32.htm#fr_92.md) This is the song of the
 bards over Cuthullin's tomb.
 
 ------------------------------------------------------------------------
 
-[Next: The Battle of Lora](oss33)
+[Next: The Battle of Lora](oss33.md)

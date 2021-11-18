@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf10)  [Next](fmf12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf10)  [Next](fmf12.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ Firm.
 ------------------------------------------------------------------------
 
 [Next: The Fable of Springfield's Fairest Flower and Lonesome Agnes Who
-Was Crafty](fmf12)
+Was Crafty](fmf12.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](psa45)  [Next](psa47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](psa45)  [Next](psa47.md) 
 
 ------------------------------------------------------------------------
 
@@ -104,4 +104,4 @@ rites by lighting the pile.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XLVI](psa47)
+[Next: Chapter XLVI](psa47.md)

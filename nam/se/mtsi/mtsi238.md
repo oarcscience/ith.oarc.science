@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi237)  [Next](mtsi239) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi237)  [Next](mtsi239.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ time, but finally he got well.
 
 ------------------------------------------------------------------------
 
-[Next: 39. The Owl and the Turkey](mtsi239)
+[Next: 39. The Owl and the Turkey](mtsi239.md)

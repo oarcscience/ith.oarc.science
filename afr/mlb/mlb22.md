@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](mlb21)  [Next](mlb23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](mlb21)  [Next](mlb23.md) 
 
 ------------------------------------------------------------------------
 
@@ -583,4 +583,4 @@ worthy of the name is wholly erroneous.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](mlb23)
+[Next: Bibliography](mlb23.md)

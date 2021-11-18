@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [UFOs](../index) 
-[Mars](../mars/index)  [Index](index)  [Previous](ipm06)  [Next](ipm08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [UFOs](../index.md) 
+[Mars](../mars/index)  [Index](index)  [Previous](ipm06)  [Next](ipm08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0691001014/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *From India to the Planet Mars*, by Théodore Flournoy; tr. Daniel B.
 Vermilye, \[1900\], at Intangible Textual Heritage
 
@@ -53,7 +53,7 @@ excellent work on the planet Mars, "that the day will come when
 scientific methods yet unknown to us will give us direct evidences of
 the existence of the inhabitants of other worlds, and at the same time,
 also, will put us in communication with our brothers in space." <span
-id="fr_12"></span>[\*](#fn_12) And on the last page of his book he
+id="fr_12"></span>[\*](#fn_12.md) And on the last page of his book he
 recurs to the same idea, and says: "What marvels does not the science of
 the future reserve for our successors, and who would dare to say that
 Martian humanity and terrestrial humanity will not some day enter into
@@ -548,7 +548,7 @@ chat with us in the most natural manner; she appeared to understand all
 our words, and answered in her strange idiom, in the most normal tone,
 and seemed very much astonished when we told her that we did not
 understand her language; she evidently believes she is speaking
-French. <span id="fr_13"></span>[\*](#fn_13) By questioning her
+French. <span id="fr_13"></span>[\*](#fn_13.md) By questioning her
 concerning a visit which she had made a few days before to M. C., and
 asking her the number and the names of the persons whom she met there,
 we succeed in identifying the four following Martian words: **Métiche
@@ -674,7 +674,7 @@ returned to her normal mode of life, the latter appeared again with
 <span id="page_162">p. 162</span>
 
 all the more intensity, dating from the following nocturnal vision. (See
-[Fig. 9](#img_fig09).)
+[Fig. 9](#img_fig09)..md)
 
 September 5, 1896.—Hélène narrates that having arisen at a quarter-past
 three in the morning to take in some flowers that stood upon the
@@ -697,7 +697,7 @@ again to the bridge. This tableau lasted twenty-five minutes, since
 Hélène, upon returning to consciousness, observed that her candle was
 still burning and ascertained that it was then 3.40 o'clock. She is
 convinced that she did not fall asleep, but was wide awake during all of
-this vision. (See Figs. [10](#img_fig10) and [11](#img_fig11).)
+this vision. (See Figs. [10](#img_fig10) and [11](#img_fig11)..md)
 
 <span id="page_163">p. 163</span>
 
@@ -713,7 +713,7 @@ different occasions the Martian man, with or without his flying-machine;
 for example, he appeared to her while she was taking a bath, at the edge
 of the bath-tub. She has had several times visions of a strange house
 the picture of which followed her with so much persistency that she
-finally painted it (see [Fig. 12](#img_fig12)). At the same time she
+finally painted it (see [Fig. 12](#img_fig12).md). At the same time she
 heard on three different occasions a sentence the meaning of which she
 does not know, but which she was able to take down with her pencil as
 follows: "**Dodé né ci haudan té méche métiche Astané ké dé mé véche**."
@@ -755,7 +755,7 @@ frère
  Si tu veux obtenir d’elle quelques lueurs,  
  Pose bien doucement, ta main sur son front pâle  
  Et prononce bien bas le doux nom d’Esenale!" <span
-id="fr_14"></span>[\*](#fn_14)</span>
+id="fr_14"></span>[\*](#fn_14.md)</span>
 
 </div>
 
@@ -805,7 +805,7 @@ which Hélène replies in a soft, feeble, somewhat melancholy, voice:
 "Esenale has gone away . . . he has left me alone . . . but he will
 return, . . . he will soon return. . . . He has taken me by the hand and
 made me enter the house \[that which she saw in her vision, and of which
-she made the drawing a month ago—see [Fig. 12](#img_fig12)\]. . . . I do
+she made the drawing a month ago—see [Fig. 12](#img_fig12.md)\]. . . . I do
 not know where Esenale is leading me, but he has said to me, '**Dodé né
 ci haudan té méche métiche Astané ké dé mé véche**,' but I did not
 understand; . . . **dodé**, *this;* **né**, *is;* **ci**, *the;*
@@ -876,7 +876,7 @@ which is also corroborated by the fact that
 
 <span id="img_fig13"></span> <span align="CENTER"> [![Fig 13. Martian
 landscape.](tn/fig13.jpg)  
-Click to enlarge](img/fig13.jpg)  
+Click to enlarge](img/fig13.jpg.md)  
   
 </span>
 
@@ -891,7 +891,7 @@ Click to enlarge](img/fig13.jpg)
 <span id="page_169">p. 169</span>
 
 it was also in this same voice that Alexis Mirbel (Esenale) spoke to his
-mother in the scenes of incarnation. (See [Fig. 13](#img_fig13).)
+mother in the scenes of incarnation. (See [Fig. 13](#img_fig13)..md)
 
 It would be wearisome to recount in detail all the further
 manifestations of the Martian cycle, which occur frequently in numerous
@@ -901,7 +901,7 @@ remarks of the following paragraph, as well as from the explanatory
 résumés added to the Martian texts, which will be collected in the
 following chapter. It merely remains for me to say a word here as to the
 manner in which the pictures of Hélène relative to Mars, and reproduced
-in autotype in the Figs. [9](#img_fig09) to [20](#img_fig20), have been
+in autotype in the Figs. [9](#img_fig09) to [20](#img_fig20.md), have been
 made.
 
 None of these pictures has been executed in complete somnambulism, and
@@ -910,7 +910,7 @@ interest of a graphic product, absolutely automatic, engendered outside
 of and unknown to the ordinary consciousness. They are nothing more than
 simple compositions of the normal consciousness of Mlle. Smith. They
 represent a type of intermediary activity, and correspond to a state of
-hemisomnambulism. We have seen above ([p. 20](ipm04.htm#page_20)) that
+hemisomnambulism. We have seen above ([p. 20](ipm04.htm#page_20).md) that
 already in her childhood Hélène seems to have executed various pieces of
 work in a semi-automatic manner. The same performance is often
 reproduced on the occasion of the Martian visions, which sometimes
@@ -935,7 +935,7 @@ bed, but they had no perfume. I will bring you some sketches of them on
 Sunday." She sent them to me, in fact, on Monday, with the following
 note: "I am very well satisfied with my plants. They are the exact
 reproduction of those which it afforded me so much pleasure to behold
-\[No. 3, in [Fig. 16](#img_fig15-7), which, beforehand, Hélène despaired
+\[No. 3, in [Fig. 16](#img_fig15-7.md), which, beforehand, Hélène despaired
 of being able to render well\], which appeared to me on the latter
 occasion, and I greatly regret that you were not here to see me execute
 the drawing: the pencil glided so quickly that I did not have time to
@@ -948,7 +948,7 @@ incredible,
 
 <span id="img_fig09"></span> <span align="CENTER"> [![Fig. 9. Martian
 landscape.](tn/fig09.jpg)  
-Click to enlarge](img/fig09.jpg)  
+Click to enlarge](img/fig09.jpg.md)  
   
 </span>
 
@@ -962,7 +962,7 @@ Click to enlarge](img/fig09.jpg)
 
 <span id="img_fig15-7"></span> <span align="CENTER"> [![Figures
 15-17](tn/fig15-7.jpg)  
-Click to enlarge](img/fig15-7.jpg)  
+Click to enlarge](img/fig15-7.jpg.md)  
   
 </span>
 
@@ -988,13 +988,13 @@ Click to enlarge](img/fig15-7.jpg)
 but it is, notwithstanding, the exact truth. The whole was done so
 quickly that I marvelled at it."
 
-The house of Astané ([Fig. 12](#img_fig12)), and the extensive
-landscapes of Figs. [13](#img_fig13) and [14](#img_fig14), are also the
+The house of Astané ([Fig. 12](#img_fig12).md), and the extensive
+landscapes of Figs. [13](#img_fig13) and [14](#img_fig14.md), are also the
 products of a quasi-automatic activity, which always gives great
 satisfaction to Mlle. Smith. It is, in a way, her subliminal self which
 holds the brush and executes, at its pleasure, its own tableaux, which
 also have the value of veritable originals. Other drawings, on the
-contrary (for example, the portrait of Astané, [Fig. 11](#img_fig11)),
+contrary (for example, the portrait of Astané, [Fig. 11](#img_fig11).md),
 which have given Hélène much trouble without having satisfied her very
 well, should be regarded as simple copies from memory, by the ordinary
 personality, of past visions, the memory of which is graven upon her
@@ -1058,15 +1058,15 @@ begin by saying a few words about him.
 
 ##### ESENALE
 
-We have seen ([p. 164](#page_164)) that this name was hinted at by
+We have seen ([p. 164](#page_164).md) that this name was hinted at by
 Leopold on the 22d of October, 1896, without any other explanation as a
 means of obtaining the signification of the Martian words. Then at the
-first recurrence to this talisman (November 2d, see [p. 166](#page_166))
+first recurrence to this talisman (November 2d, see [p. 166](#page_166).md)
 we learn only that he was a deceased inhabitant of Mars, whose
 acquaintance Leopold had recently made in interplanetary space. It was
 only at the following seance (November 8th), where we find Mme. Mirbel,
 that, after an incarnation of her son Alexis, followed by the scene of
-translation (see [text 3](ipm08.htm#an_text03)) and
+translation (see [text 3](ipm08.htm#an_text03).md) and
 
 <span id="page_174">p. 174</span>
 
@@ -1084,30 +1084,30 @@ obtain the exact meaning of the last texts which had been given. He
 possessed, it is true, an excellent memory, and faithfully reproduced,
 before giving it word by word, the French for the Martian phrases which
 Hélène had heard several weeks before and only seen again five or six
-months afterwards ([text 24](ipm08.htm#an_text24)), and of which there
+months afterwards ([text 24](ipm08.htm#an_text24).md), and of which there
 had been no previous opportunity to obtain a translation. But it was to
 these latter texts, not yet interpreted, that he confined his
 willingness; on two occasions only did he add, of his own accord, some
-words of no importance (texts [15](ipm08.htm#an_text15) and
-[36](ipm08.htm#an_text36). [Text No. 19](ipm08.htm#an_text19), for
+words of no importance (texts [15](ipm08.htm#an_text15.md) and
+[36](ipm08.htm#an_text36). [Text No. 19](ipm08.htm#an_text19.md), for
 instance, has always remained untranslated, and my later efforts (June
 4, 1899) to obtain the meaning of the unknown words **milé piri** have
 been in vain; moreover, Esenale has not been able to fill up the gaps in
-text [No. 24](ipm08.htm#an_text24).
+text [No. 24](ipm08.htm#an_text24.md).
 
 Alexis Mirbel, after the two first Martian seances,
 
 <span id="page_175">p. 175</span>
 
-reported on pp. [146](#page_146) and [154](#page_154), called Esenale,
+reported on pp. [146](#page_146) and [154](#page_154.md), called Esenale,
 often accorded his mother, in scenes of incarnation, somewhat pathetic,
 touching messages of filial tenderness and consolation (texts
-[3](ipm08.htm#an_text03), [4](ipm08.htm#an_text04),
-[11](ipm08.htm#an_text11), [15](ipm08.htm#an_text15), and
-[18](ipm08.htm#an_text18)). It is to be noted that, although
+[3](ipm08.htm#an_text03), [4](ipm08.htm#an_text04.md),
+[11](ipm08.htm#an_text11), [15](ipm08.htm#an_text15.md), and
+[18](ipm08.htm#an_text18).md). It is to be noted that, although
 opportunities for continuing this rôle were not wanting, he appears to
 have completely abandoned it for the last two years: His last message of
-this kind (October 10, 1897, [text 18](ipm08.htm#an_text18)) followed a
+this kind (October 10, 1897, [text 18](ipm08.htm#an_text18).md) followed a
 month after a curious seance in which Leopold sought to explain to us
 spontaneously—no one had mentioned the subject—certain flagrant
 contradictions in the first manifestations of Alexis-Esenale. Here is a
@@ -1123,14 +1123,14 @@ idle chatter of which you are never weary. You recollect there was,
 several months ago, a young man, that young man Alexis Mirbel, who came
 to give counsel to his mother at a reunion you held with M. (I do not
 understand the name he gave) . . . at Carouge <span
-id="fr_15"></span>[\*](#fn_15) . . . Well, at that moment he
+id="fr_15"></span>[\*](#fn_15.md) . . . Well, at that moment he
 happened—that is to say, two days before—to die on . . . (I could not
 understand
 
 <span id="page_176">p. 176</span>
 
 the name) . . . where he had been . . . or he had regained life. <span
-id="fr_16"></span>[\*](#fn_16) This is why I have come to tell you
+id="fr_16"></span>[\*](#fn_16.md) This is why I have come to tell you
 to-day he was in that phase of separation of the material part from the
 soul which permitted him to recollect his previous existence—that is to
 say, his life here below in this state; he not only recollects his first
@@ -1138,7 +1138,7 @@ mother, but can speak once more the -language he used to speak with her.
 Some time after, when the soul was finally at rest, he no longer
 recollected that first language; he returns, he hovers about (his
 mother), sees her with joy, but is incapable of speaking to her in your
-language. <span id="fr_17"></span>[†](#fn_17) Whether it will return to
+language. <span id="fr_17"></span>[†](#fn_17.md) Whether it will return to
 him I do not know and cannot say, but I believe that it will. And now
 listen." Here Mlle. Smith seems to awake, opens her eyes, and has a long
 Martian vision, which she describes in detail. She now sees a little
@@ -1148,7 +1148,7 @@ a number of grotesque little figures dance in a white tub, large and
 shallow, full of sky-blue water. Then come other persons, and, finally,
 Astané, who has a pen in his fingers, and, little by little, takes hold
 of Hélène's arm and throws her into a deep trance for the purpose of
-causing her to write text [No. 17](ipm08.htm#an_text17).
+causing her to write text [No. 17](ipm08.htm#an_text17.md).
 
 These spontaneous explanations of Leopold are interesting in that they
 betray clearly the subliminal desire to introduce some order and logic
@@ -1159,7 +1159,7 @@ into the
 incoherences of the mediumistic reveries. It is a form of the process of
 justification and retrospective interpretation intended to make the
 incidents of the past accord with the dominant ideas of the present (see
-[p. 95](ipm06.htm#page_95)). In appearance, the theory upon which
+[p. 95](ipm06.htm#page_95).md). In appearance, the theory upon which
 Leopold rested, after having doubtless meditated long, is quite awkward;
 but perhaps it was difficult for him to do better, since no one can
 accomplish the impossible.
@@ -1181,7 +1181,7 @@ descended "fluidly" towards her and brought to her the odors of the
 far-distant planet.
 
 When Astané says to Hélène, during a seance: "Come to me an instant.
-Come and admire these flowers," etc. ([text 8](ipm08.htm#an_text08)), or
+Come and admire these flowers," etc. ([text 8](ipm08.htm#an_text08).md), or
 shows her the curiosities of his Martian abode, it seems as though he
 had really
 
@@ -1189,7 +1189,7 @@ had really
 
 called her to him through space; but when he appears to her, while
 awake, at the edge of her bathtub, and expresses his chagrin at finding
-her still on this miserable earth ([text 7](ipm08.htm#an_text07)), it
+her still on this miserable earth ([text 7](ipm08.htm#an_text07).md), it
 must be admitted that it is he who has descended to her and inspires her
 with these visions of an upper world. It is of no importance, on the
 whole. It is here to be noted that, in these evocations, Astané only
@@ -1198,17 +1198,17 @@ tactile impressions or those of general sensibility; in the sphere of
 emotion his presence is accompanied by a great calm on the part of
 Hélène, a profound bliss, and an ecstatic disposition, which is the
 correlative and pendant of the happiness experienced by Astané himself
-(texts [10](ipm08.htm#an_text10), [17](ipm08.htm#an_text17), etc.) at
+(texts [10](ipm08.htm#an_text10), [17](ipm08.htm#an_text17), etc..md) at
 finding himself in the presence of his idol of the past. The social
 state of Astané—I should rather say his name, his quality of sorcerer,
 and his previous terrestrial existence in the body of Kanga—was not
 immediately revealed.
 
 Nevertheless, at his first apparition (September 5, 1896, see [p.
-162](#page_162)), he rises superior to the crowd, inasmuch as he alone
+162](#page_162).md), he rises superior to the crowd, inasmuch as he alone
 possesses a flying-machine incomprehensible to us. In the following
 weeks Mlle. Smith hears his name, and sees him again on many occasions,
-as well as his house ([Fig. 12](#img_fig12)), but it is only at the end
+as well as his house ([Fig. 12](#img_fig12).md), but it is only at the end
 of two months and a half that his identity and his "evocative" powers
 become known, at a seance at which I was not present, and during which
 Hélène did not, contrary to her usual custom, fall completely asleep.
@@ -1275,12 +1275,12 @@ possession, they assist each other
 
 in the most touching fashion. When Astané writes in Martian by Mlle.
 Smith's right hand that the noise of the sitters threatens to make him
-insane (see [text 20](ipm08.htm#an_text20)) it is Leopold who comes to
+insane (see [text 20](ipm08.htm#an_text20).md) it is Leopold who comes to
 his rescue in making them keep silent by his gestures with the left arm.
 When Leopold indicates to me that the moment for pressing Hélène's
 forehead has arrived, it is Astané who lends him his pencil in order
 that the message may be written (see below, seance of September 12,
-1897, and [Fig. 23](ipm08.htm#img_fig23)), and the exchange of powers
+1897, and [Fig. 23](ipm08.htm#img_fig23).md), and the exchange of powers
 takes place between them without the medium experiencing the least
 shock, and without its betraying itself outwardly otherwise than by the
 difference of their handwriting. It is true that Leopold's apparitions
@@ -1329,7 +1329,7 @@ If, then, Astané is only a reflection, a projection
 
 <span id="img_fig12"></span> <span align="CENTER"> [![Fig. 12. House of
 Astané.](tn/fig12.jpg)  
-Click to enlarge](img/fig12.jpg)  
+Click to enlarge](img/fig12.jpg.md)  
   
 </span>
 
@@ -1343,7 +1343,7 @@ Click to enlarge](img/fig12.jpg)
 
 <span id="img_fig14"></span> <span align="CENTER"> [![Fig. 14. Martian
 landscape.](tn/fig14.jpg)  
-Click to enlarge](img/fig14.jpg)  
+Click to enlarge](img/fig14.jpg.md)  
   
 </span>
 
@@ -1351,7 +1351,7 @@ Click to enlarge](img/fig14.jpg)
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <span class="small">Fig. 14. Martian landscape. Sky of yellow; green lake; gray shores bordered by a brown fence; bell-towers on the shore, in yellow-brown tones, with corners and pinnacles ornamented with pink and blue balls; hill of red rocks, with vegetation of a rather dark green interspersed with rose, purple, and white spots (flowers); buildings at the base constructed of brick-red lattice-work; edges and corners terminating in brown-red trumpets; immense white window-panes, with turquoise- blue curtains; roofs furnished with yellow-brown bell-turrets, brick-red battlements, or with green and red plants (like those of Astané's house, [Fig. 12](#img_fig12)). Persons with large white head-dresses and red or brown robes.</span> |
+| <span class="small">Fig. 14. Martian landscape. Sky of yellow; green lake; gray shores bordered by a brown fence; bell-towers on the shore, in yellow-brown tones, with corners and pinnacles ornamented with pink and blue balls; hill of red rocks, with vegetation of a rather dark green interspersed with rose, purple, and white spots (flowers); buildings at the base constructed of brick-red lattice-work; edges and corners terminating in brown-red trumpets; immense white window-panes, with turquoise- blue curtains; roofs furnished with yellow-brown bell-turrets, brick-red battlements, or with green and red plants (like those of Astané's house, [Fig. 12](#img_fig12).md). Persons with large white head-dresses and red or brown robes.</span> |
 
 </div>
 
@@ -1364,7 +1364,7 @@ He is clothed in a voluminous, embroidered robe; he has long hair, no
 beard, a yellow complexion, and carries in his hand a white roll, on
 which he writes with a point fastened to the end of the index-finger.
 
-His house ([Fig. 12](#img_fig12)) is quadrangular, with gates and
+His house ([Fig. 12](#img_fig12).md) is quadrangular, with gates and
 windows, and reminds one by its exterior aspect of some Oriental
 structure, with a flat roof embellished with plants.
 
@@ -1388,17 +1388,17 @@ of a cabbage," with a big
 <span id="page_184">p. 184</span>
 
 green eye in the middle (like the eye of a peacock feather), and five or
-six pairs of paws, or ears all about (see [Fig. 18](#img_fig18)). This
+six pairs of paws, or ears all about (see [Fig. 18](#img_fig18).md). This
 animal unites the intelligence of the dog with the stupidity of the
 parrot, since on the one hand it obeys Astané and fetches objects at his
 command (we do not know how), while, on the other hand, it knows how to
 write, but in a manner purely mechanical. (We have never had a specimen
-of this handwriting). (See [Fig. 18](#img_fig18).)
+of this handwriting). (See [Fig. 18](#img_fig18)..md)
 
 In fact, as to other animals, beyond the little black bird cited,
-without description ([text 20](ipm08.htm#an_text20)), and a species of
+without description ([text 20](ipm08.htm#an_text20).md), and a species of
 female deer for the purpose of nursing infants ([text
-36](ipm08.htm#an_text36)), Hélène saw only horrid aquatic beasts like
+36](ipm08.htm#an_text36).md), Hélène saw only horrid aquatic beasts like
 big snails, which Astané caught by means of iron nets stretched over the
 surface of the water.
 
@@ -1418,7 +1418,7 @@ floats in "fluid" form, and which Hélène still finds soft to the touch,
 
 <span id="img_fig18"></span> <span align="CENTER"> [![Fig. 18. Astané's
 ugly beast.](tn/fig18.jpg)  
-Click to enlarge](img/fig18.jpg)  
+Click to enlarge](img/fig18.jpg.md)  
   
 </span>
 
@@ -1432,7 +1432,7 @@ Click to enlarge](img/fig18.jpg)
 
 <span id="img_fig11"></span> <span align="CENTER"> [![Fig. 11.
 Astané.](tn/fig11.jpg)  
-Click to enlarge](img/fig11.jpg)  
+Click to enlarge](img/fig11.jpg.md)  
   
 </span>
 
@@ -1447,7 +1447,7 @@ Click to enlarge](img/fig11.jpg)
 <span id="img_fig19"></span> <span align="CENTER"> [![Fig. 19. Martian
 lamp, standing against a rose and blue-colored
 tapestry.](tn/fig19.jpg)  
-Click to enlarge](img/fig19.jpg)  
+Click to enlarge](img/fig19.jpg.md)  
 Fig. 19. Martian lamp, standing against a rose and blue-colored
 tapestry.  
 </span>
@@ -1458,17 +1458,17 @@ when, after much hesitation, and not without fright, she gained courage
 to touch it with the end of her finger, at the invitation of Astané. It
 is also in this house, excavated in the rock, that Astané has his
 observatory, a pit traversing the mountain, by means of which he
-contemplates the heavens ([text 9](ipm08.htm#an_text09)), our earth
+contemplates the heavens ([text 9](ipm08.htm#an_text09).md), our earth
 included, by means of a telescope, which the beast with the head of a
 cabbage brings him.
 
 To these qualities of savant Astané joins those of wise counsellor and
 of patriarchal governor. We also see a young girl named Matêmi coming to
-consult him frequently (texts [22](ipm08.htm#an_text22) and
-[28](ipm08.htm#an_text28)), perhaps on matrimonial affairs, since Matêmi
+consult him frequently (texts [22](ipm08.htm#an_text22.md) and
+[28](ipm08.htm#an_text28).md), perhaps on matrimonial affairs, since Matêmi
 reappears on several occasions with her lover or her *fiancé*, Siké,
 and, among others, at a great family *fête*, presided over by Astané.
-(See [Fig. 19](#img_fig19).)
+(See [Fig. 19](#img_fig19)..md)
 
 The following are some details concerning that vision, which occupied
 the greater part of a seance (November 28, 1897). Hélène sees, in a
@@ -1477,7 +1477,7 @@ lamps nor electricity, but by lights shining through small windows in
 the walls of the houses. The interior of one of these houses becomes
 visible to her: a superb, square hall, lighted at each angle by a kind
 of lamp, formed of four superposed globes,—two blue and two white—not of
-glass ([Fig. 19](#img_fig19)); under each lamp a small basin, over which
+glass ([Fig. 19](#img_fig19).md); under each lamp a small basin, over which
 was a kind of cornucopia pouring forth water. There were many ornamental
 plants. In the middle of the hall, a grove, around which are placed a
 number of small tables with a polished surface like nickel. There are
@@ -1498,7 +1498,7 @@ with flowers different from ours: some blue, with leaves in the shape of
 almonds; others starry, and as white as milk, scented like musk; others,
 again, the most beautiful, have the form of trumpets, either blue or
 fire colored, with large rounded leaves, with black figures. (See [Fig.
-20](#img_fig20).)
+20](#img_fig20)..md)
 
 Hélène hears Astané pronounce the name "Pouzé." Then come two men in
 long white trousers with a black sash; one wears a coat of rose color,
@@ -1516,14 +1516,14 @@ in succession, and the girls pass their hands through his hair. New
 <span id="img_fig10"></span> <span align="CENTER"> [![Fig. 10.
 Flying-machine held by Astané, emitting yellow and red flames. \[From
 the collection of M. Lemaître.\]](tn/fig10.jpg)  
-Click to enlarge](img/fig10.jpg)  
+Click to enlarge](img/fig10.jpg.md)  
 Fig. 10. Flying-machine held by Astané, emitting yellow and red flames.
 \[From the collection of M. Lemaître.\]  
 </span>
 
 <span id="img_fig20"></span> <span align="CENTER"> [![Fig. 20. Plant of
 Martian design. Fire-red flowers; violet-gray leaves.](tn/fig20.jpg)  
-Click to enlarge](img/fig20.jpg)  
+Click to enlarge](img/fig20.jpg.md)  
 Fig. 20. Plant of Martian design. Fire-red flowers; violet-gray
 leaves.  
 </span>
@@ -1548,7 +1548,7 @@ clasp each other's waists, but place their hands on each other's
 shoulders, standing some distance apart. It is terribly warm. It is
 "boiling hot." They stop, walk, talk, and it is then that Hélène hears a
 tall young brunette (Matêmi) and a short young man (Siké) exchange the
-first words of text [No. 20](ipm08.htm#an_text20). Then they depart in
+first words of text [No. 20](ipm08.htm#an_text20.md). Then they depart in
 the direction of a large bush with red flowers (*tamiche*) and are soon
 followed by Ramié and his companion.
 
@@ -1573,11 +1573,11 @@ and hears, etc.
 This résumé of a family *fête*, presided over by Astané, gives the
 measure of the originality of the people of Mars. The visions relating
 to other incidents are of the same order: read the description of the
-Martian nursery ([text 36](ipm08.htm#an_text36)), of the voyage in a
+Martian nursery ([text 36](ipm08.htm#an_text36).md), of the voyage in a
 *miza* a sort of automobile, the mechanism of which is entirely unknown
-to us ([text 23](ipm08.htm#an_text23)), of the operation of chirurgery
-([text 29](ipm08.htm#an_text29)), of the games of the little Anini ([p.
-176](#page_176), etc.). We see always the same general mixture of
+to us ([text 23](ipm08.htm#an_text23).md), of the operation of chirurgery
+([text 29](ipm08.htm#an_text29).md), of the games of the little Anini ([p.
+176](#page_176), etc..md). We see always the same general mixture of
 imitation of things which transpire among us, and of infantile
 modifications of them in the minute details.
 
@@ -1592,11 +1592,11 @@ most frequently is Pouzé. He is present at the banquet, and
 we meet him also in the company of a poor little withered old man with a
 trembling voice, in connection with whom he occupies himself with
 gardening or botany, in an evening promenade by the shore of the lake
-([text 14](ipm08.htm#an_text14)). He also figures again by the side of
+([text 14](ipm08.htm#an_text14).md). He also figures again by the side of
 an unknown person named Paniné, and he has a son, Saïne, who had met
 with some accident to his head and had been cured of it, to the great
-joy of his parents (texts [23](ipm08.htm#an_text23) and
-[24](ipm08.htm#an_text24)).
+joy of his parents (texts [23](ipm08.htm#an_text23.md) and
+[24](ipm08.htm#an_text24).md).
 
 Finally, we must devote a few words to Ramié, who manifests himself for
 the first time in October, 1898, as the revealer of the ultra-Martian
@@ -1666,7 +1666,7 @@ civilization; nevertheless, we have no direct or detailed information in
 regard to this subject. It is useless to speculate. It Is evident that
 the author of this romance did not care much for science, and that, in
 spite of her desire to comply with the wishes of M. Lemaître (see [p.
-149](#page_149)), she had not the least conception of the questions
+149](#page_149).md), she had not the least conception of the questions
 which arise in our day, in every cultivated mind, as to the planet Mars
 and its probable inhabitants.
 
@@ -1680,7 +1680,7 @@ struck by two points, which I have already touched upon more than once
 in passing—viz., the complete identity of the Martian world, taken in
 its chief points, with the world n which we live, and its puerile
 originality in a host of minor details. Take, for example, the family
-fête ([p. 188](#page_188)). To be sure, the venerable Astané is there
+fête ([p. 188](#page_188).md). To be sure, the venerable Astané is there
 saluted by a caress of the hair instead of a hand-shake; the young
 couples while dancing grasp each other not by the waist but by the
 shoulder; the ornamental plants do not belong to any species known to
@@ -1695,7 +1695,7 @@ which traverse our roads. The colored globes placed in an aperture of
 the walls of the houses to light the streets recall strongly our
 electric lamps. Astané's flying-machine will probably soon be realized
 in some form or other. The bridges which disappear under the water in
-order to allow boats to pass ([text 25](ipm08.htm#an_text25)) are, save
+order to allow boats to pass ([text 25](ipm08.htm#an_text25).md) are, save
 for a technical person, as natural as ours which accomplish the same
 result by lifting themselves in the air. With the exception of the
 "evocative" powers of Astané, which only concern Mlle. Smith personally
@@ -1733,7 +1733,7 @@ shapes, recalling the pagoda, kiosk, and minaret, the warm and glowing
 <span id="page_194">p. 194</span>
 
 colors of the skies, the water, the rocks, and the vegetation (see Figs.
-[13](#img_fig13) and [14](#img_fig14)), etc.: all this has a sham air of
+[13](#img_fig13) and [14](#img_fig14).md), etc.: all this has a sham air of
 Japanese, Chinese, Hindoo. It is to be noted that this imprint of the
 extreme East is purely exterior, not in any wise penetrating to the
 characters or manners of the personages.
@@ -1757,14 +1757,14 @@ refrained.
 
 ### Footnotes
 
-<span id="fn_12"></span>[140:\*](ipm07.htm#fr_12) C. Flammarion, *La
+<span id="fn_12"></span>[140:\*](ipm07.htm#fr_12.md) C. Flammarion, *La
 Planète Mars et ses conditions d’habitabilité*, p. 3. Paris, 1892.
 
-<span id="fn_13"></span>[157:\*](ipm07.htm#fr_13) Compare the case of
+<span id="fn_13"></span>[157:\*](ipm07.htm#fr_13.md) Compare the case of
 Mlle. Anna O. Brener et Frend, *Studien über Hysterie*, p. 19. Vienna,
 1895.
 
-<span id="fn_14"></span>[164:\*](ipm07.htm#fr_14)
+<span id="fn_14"></span>[164:\*](ipm07.htm#fr_14.md)
 
 <div style="margin-left: 32px">
 
@@ -1782,16 +1782,16 @@ brother
 
 </div>
 
-<span id="fn_15"></span>[175:\*](ipm07.htm#fr_15) Allusion to the seance
-of November 25, 1894, at M. Lemaître's. See [p. 146](#page_146).
+<span id="fn_15"></span>[175:\*](ipm07.htm#fr_15.md) Allusion to the seance
+of November 25, 1894, at M. Lemaître's. See [p. 146](#page_146.md).
 
-<span id="fn_16"></span>[176:\*](ipm07.htm#fr_16) That is to say, he
+<span id="fn_16"></span>[176:\*](ipm07.htm#fr_16.md) That is to say, he
 died on Mars, where he had been reincarnated.
 
-<span id="fn_17"></span>[176:†](ipm07.htm#fr_17) Allusion to seance of
-February 2, 1896. See [p. 154](#page_154).
+<span id="fn_17"></span>[176:†](ipm07.htm#fr_17.md) Allusion to seance of
+February 2, 1896. See [p. 154](#page_154.md).
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VI. The Martian Cycle (Continued)—The Martian
-Language](ipm08)
+Language](ipm08.md)

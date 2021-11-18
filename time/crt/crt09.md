@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Time](../index) 
-[Index](index)  [Previous](crt08)  [Next](crt10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Time](../index.md) 
+[Index](index)  [Previous](crt08)  [Next](crt10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486233545/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ a rustic row,” of the keen air, and the great burst of light and song
 that dazes their simple wits, of their journey to Bethlehem where “the
 heaven-born Child all meanly wrapt in the rude manger lies,” of the ox
 and ass linking the beasts of the field to the Christmas adoration of
-mankind.﻿ [80](crt24.htm#Footnote_80)<span id="FNanchor_80"></span>
+mankind.﻿ [80](crt24.htm#Footnote_80.md)<span id="FNanchor_80"></span>
 
 For many people, indeed, the charm of Christmas is inseparably
 associated with the country; it is lost in London﻿—the city is too vast,
@@ -102,7 +102,7 @@ entails ... the discovery of the Perfect One ablaze in the Many, not the
 forsaking of the Many in order to find the One ... an ineffable
 radiance, a beauty and a reality never before suspected, are perceived
 by a sort of clairvoyance shining in the meanest
-things.”﻿ [6-1](crt22.htm#Note_6-1)<span id="Nanchor_6-1"></span>
+things.”﻿ [6-1](crt22.htm#Note_6-1.md)<span id="Nanchor_6-1"></span>
 Christmas is the festival of the Divine Immanence, and it is natural
 that it should have been beloved by the saint and mystic whose life was
 the supreme manifestation of the *Via Illuminativa*, Francis of Assisi.
@@ -129,4 +129,4 @@ id="page_159">p. 159</span> <span id="Page_159"></span>
 
 ------------------------------------------------------------------------
 
-[Next: Chapter VI. Pre-Christian Winter Festivals](crt10)
+[Next: Chapter VI. Pre-Christian Winter Festivals](crt10.md)

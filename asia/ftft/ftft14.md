@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](ftft13)  [Next](ftft15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](ftft13)  [Next](ftft15.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,13 +11,13 @@ Forty-four Turkish Fairy Tales \[1913\], at Intangible Textual Heritage
 <span id="page_87">p. 87</span>
 
 <span id="img_08700"></span> ![The Magic Turban, the Magic Whip and the
-Magic Carpet](img/08700.jpg)
+Magic Carpet](img/08700.jpg.md)
 
 <span id="img_tinit"></span>
 
 |                     |
 |---------------------|
-| ![T](img/tinit.jpg) |
+| ![T](img/tinit.jpg.md) |
 
 HERE were once two brothers, whose parents were dead. With his share of
 the inheritance the elder opened a shop, but the younger squandered his
@@ -103,7 +103,7 @@ feet with a pin, and as he did not stir, she took up the candle in her
 hand and went out stealthily by a side-door.
 
 <span id="img_08900"></span> ![She pricked the soles of his feet with a
-pin](img/08900.jpg)
+pin](img/08900.jpg.md)
 
 Putting the turban on his head, the young man rose and followed her. As
 he came outside he saw before him an Arab, on whose head rested a golden
@@ -119,7 +119,7 @@ put me."<span id="img_09000"></span>
 
 |                                                                         |
 |-------------------------------------------------------------------------|
-| ![The Arab perceived that the basin was unusually heavy](img/09000.jpg) |
+| ![The Arab perceived that the basin was unusually heavy](img/09000.jpg.md) |
 
 When the Arab took a few steps he perceived that the basin was unusually
 heavy. (The young man was, of course, rendered invisible through wearing
@@ -148,7 +148,7 @@ amazement.<span id="img_09100"></span>
 
 |                                             |
 |---------------------------------------------|
-| ![The slave dropped the cup](img/09100.jpg) |
+| ![The slave dropped the cup](img/09100.jpg.md) |
 
 Now they reached a bridge, crossing which they arrived at a palace,
 where a multitude of slaves awaited the Princess. Folding their arms
@@ -193,7 +193,7 @@ tore them apart.
 
 |                     |
 |---------------------|
-| ![B](img/binit.jpg) |
+| ![B](img/binit.jpg.md) |
 
 OTH grew pale and summoned the lala. The maiden, sitting in the bowl,
 ordered the slave to take her home. The prodigal quickly seized a sword
@@ -224,7 +224,7 @@ marketplace, where
 <span id="img_09300"></span>
 
 [![The prodigal severed the Dew's head from his body](tn/09300.jpg)  
-Click to enlarge](img/09300.jpg)  
+Click to enlarge](img/09300.jpg.md)  
 The prodigal severed the Dew's head from his body  
 
 <span id="page_94">p. 94</span>
@@ -258,4 +258,4 @@ my hand that it has been lame ever since.
 
 ------------------------------------------------------------------------
 
-[Next: Mahomet, the Bald-head](ftft15)
+[Next: Mahomet, the Bald-head](ftft15.md)

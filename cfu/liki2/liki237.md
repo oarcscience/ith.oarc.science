@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index)  [Confucianism Index](../index) 
-[Index](index)  [Previous](liki236)  [Next](liki238) 
+[Sacred-Texts](../../index)  [Confucianism Index](../index.md) 
+[Index](index)  [Previous](liki236)  [Next](liki238.md) 
 
 ------------------------------------------------------------------------
 
@@ -215,6 +215,6 @@ Lû drums.
 
 ------------------------------------------------------------------------
 
-[Next: XXXVIII. Zû Hsing (Hang) or The Conduct of the Scholar](liki238)
+[Next: XXXVIII. Zû Hsing (Hang) or The Conduct of the Scholar](liki238.md)
 
   

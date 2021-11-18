@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](mtsi196)  [Next](mtsi198) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](mtsi196)  [Next](mtsi198.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ frogs until she fell sick and died.
 
 ------------------------------------------------------------------------
 
-[Next: 62. The Monster](mtsi198)
+[Next: 62. The Monster](mtsi198.md)

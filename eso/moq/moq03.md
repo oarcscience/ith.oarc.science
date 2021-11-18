@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](moq02)  [Next](moq04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](moq02)  [Next](moq04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662324/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Mysteries of the Qabalah*, by Elias Gewurz, \[1922\], at Intangible
 Textual Heritage
 
@@ -17,7 +17,7 @@ Textual Heritage
 
 <span id="page_5">p. 5</span>
 
-### The Hieroglyphical Interpretation of the Hebrew Alphabet. <span id="fr_0"></span>[\*](#fn_0)
+### The Hieroglyphical Interpretation of the Hebrew Alphabet. <span id="fr_0"></span>[\*](#fn_0.md)
 
 <span id="page_6">p. 6</span>
 
@@ -252,7 +252,7 @@ manifestation.
 
 Esoterically relating to accomplished ends and the later Third Race.
 
-The double [hermaphrodite](errata.htm#1) Caduceus.
+The double [hermaphrodite](errata.htm#1.md) Caduceus.
 
 The sign of protection and signifies guidance from above. God's favor
 shown to the Disciple on the Path.
@@ -301,7 +301,7 @@ Its arithmetical number is 400.
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:\*](moq03.htm#fr_0) This interpretation of the
+<span id="fn_0"></span>[5:\*](moq03.htm#fr_0.md) This interpretation of the
 hieroglyphic meaning of the Hebrew letters is taken from a very rare and
 valuable manuscript in possession of Mr. Gewurz. He has in preparation a
 larger work, on "The Restoration of the Hebrew Language," into which
@@ -313,4 +313,4 @@ year till it is complete.
 
 ------------------------------------------------------------------------
 
-[Next: Explanatory Note on the Letters](moq04)
+[Next: Explanatory Note on the Letters](moq04.md)

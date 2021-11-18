@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic019)  [Next](lfic021) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic019)  [Next](lfic021.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,4 +99,4 @@ their anger with him.
 
 ------------------------------------------------------------------------
 
-[Next: The Fairy Nurse](lfic021)
+[Next: The Fairy Nurse](lfic021.md)

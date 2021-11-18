@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo89)  [Next](hoo91) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo89)  [Next](hoo91.md) 
 
 ------------------------------------------------------------------------
 
@@ -41,4 +41,4 @@ Nor omens ill disclose of monst'rous kind.
 
 ------------------------------------------------------------------------
 
-[Next: LXXXVI: To Death](hoo91)
+[Next: LXXXVI: To Death](hoo91.md)

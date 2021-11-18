@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmma24)  [Next](fmma26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmma24)  [Next](fmma26.md) 
 
 ------------------------------------------------------------------------
 
@@ -324,4 +324,4 @@ His son, Henry III, succeeded him.
 
 ------------------------------------------------------------------------
 
-[Next: Louis The Ninth. King From 1226-1270](fmma26)
+[Next: Louis The Ninth. King From 1226-1270](fmma26.md)

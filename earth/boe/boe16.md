@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe15)  [Next](boe17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe15)  [Next](boe17.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ river separating
 [![PLATE XVIII. &lt;i&gt;Yggdrasil, the World Tree of the
 Norsemen&lt;/i&gt;. &lt;i&gt;After Finn Magnusen's&lt;/i&gt;
 ](tn/pl18.jpg)  
-Click to enlarge](img/pl18.jpg)  
+Click to enlarge](img/pl18.jpg.md)  
 PLATE XVIII. *Yggdrasil, the World Tree of the Norsemen*. *After Finn
 Magnusen's*  
 
@@ -155,7 +155,7 @@ fountain of Urd every day take
 ''&lt;i&gt;Eddalæren&lt;/i&gt;.'')&lt;br&gt; (From &lt;i&gt;The Sacred
 Tree, or The Tree in Religion and Myth&lt;/i&gt;; Mrs. J. H. Philpot,
 1897.)](tn/fig044.jpg)  
-Click to enlarge](img/fig044.jpg)  
+Click to enlarge](img/fig044.jpg.md)  
 FIGURE 44. *Yggdrasil, the Cosmic Ash* (*From Finn Magnusen's*
 ''*Eddalæren*.'')  
 (From *The Sacred Tree, or The Tree in Religion and Myth*; Mrs. J. H.
@@ -163,7 +163,7 @@ Philpot, 1897.)
 
 water from the fountain, and clay that lies around the fountain, and
 sprinkle therewith the Ash, in order that its branches may not wither or
-decay." <span id="fr_6"></span>[1](#fn_6)
+decay." <span id="fr_6"></span>[1](#fn_6.md)
 
 There are a number of interesting things to note here,
 
@@ -210,7 +210,7 @@ Mimir's
 <span id="img_fig045"></span> ![FIGURE 45. &lt;i&gt;Diagram of the Nine
 Worlds, supported by the World Tree Yggdrasil&lt;/i&gt;.&lt;br&gt; (From
 &lt;i&gt;The Nine Worlds&lt;/i&gt;; Mary Elizabeth Litchfield,
-1890.)](img/fig045.jpg)  
+1890.)](img/fig045.jpg.md)  
 FIGURE 45. *Diagram of the Nine Worlds, supported by the World Tree
 Yggdrasil*.  
 (From *The Nine Worlds*; Mary Elizabeth Litchfield, 1890.)
@@ -234,7 +234,7 @@ nimble squirrel.
 But what was the binding and the separating bridge, the Bi-frost?
 
 <span id="img_fig046"></span> ![FIGURE 46. Diagram of the Scandinavian
-Cosmos.](img/fig046.jpg)  
+Cosmos.](img/fig046.jpg.md)  
 FIGURE 46. Diagram of the Scandinavian Cosmos.
 
 1 Spring Hvergelmir, in Niflhel or Niflheim, under Yggdrasil's northern
@@ -319,7 +319,7 @@ lands are topped by mountains of air--the clouds
 
 [![FIGURE 47. &lt;i&gt;Sketch of the World, by a Thompson River
 Indian&lt;/i&gt;.](tn/fig047.jpg)  
-Click to enlarge](img/fig047.jpg)  
+Click to enlarge](img/fig047.jpg.md)  
 FIGURE 47. *Sketch of the World, by a Thompson River Indian*.  
 
 *a*. Trail leading from the earth to the land of the ghosts, with tracks
@@ -338,7 +338,7 @@ This trail to the soul-world has been minutely described
 <span id="page_101">p. 101</span>
 
 by James Teit in his *The Thompson River Indians of British
-Columbia*. <span id="fr_7"></span>[1](#fn_7) According to him, the
+Columbia*. <span id="fr_7"></span>[1](#fn_7.md) According to him, the
 country of souls is underneath us, towards the sunset, and its path is
 one of perils, storms, narrow bridges, and gaping chasms. The trail
 leads through a dim twilight; along it are always visible the tracks of
@@ -410,7 +410,7 @@ of the Pacific, has an odd interest here.
 
 The Sioux Indians have a special reverence for what they call the *waka
 da* cedar. *Waka da*, according to W. J. McGee, <span
-id="fr_8"></span>[1](#fn_8) who has made a special study of the word in
+id="fr_8"></span>[1](#fn_8.md) who has made a special study of the word in
 his *The Siouan Indians*, is a very curious word indeed. It has, he
 says, as many connotations as the Sanscrit word *Karma*, and, like
 Karma, is not to be translated by any single English word. The Sun, for
@@ -446,7 +446,7 @@ bear men and women like fruit upon them. They are about a cubit in
 measurement, and are fixed in the tree up to the navel, and there they
 be; and when the wind blows they be fresh, but when it does not blow
 they are all dried up. This I saw not in sooth, but I heard it told by
-people who had seen it." [Plate XIX](#img_pl19) gives a drawing of the
+people who had seen it." [Plate XIX](#img_pl19.md) gives a drawing of the
 Wak wak tree, taken from an old Turkish *History of Western India and
 Its Wonders*, published at Constantinople in 1729. It represents
 
@@ -457,7 +457,7 @@ Its Wonders*, published at Constantinople in 1729. It represents
 [![PLATE XIX. THE WAK WAK TREE&lt;br&gt; (From
 &lt;i&gt;Ta’rikh&lt;/i&gt; al-Hind al-Gharbi. Constantinople,
 1729)](tn/pl19.jpg)  
-Click to enlarge](img/pl19.jpg)  
+Click to enlarge](img/pl19.jpg.md)  
 PLATE XIX. THE WAK WAK TREE  
 (From *Ta’rikh* al-Hind al-Gharbi. Constantinople, 1729)  
 
@@ -474,7 +474,7 @@ downwards, alive, but clinging and climbing
 
 <span id="img_fig048"></span> ![FIGURE 48. &lt;i&gt;The Tree of
 Judas&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Maundevile's Voiage and
-Travailes&lt;/i&gt;, 1839 reprint.)](img/fig048.jpg)  
+Travailes&lt;/i&gt;, 1839 reprint.)](img/fig048.jpg.md)  
 FIGURE 48. *The Tree of Judas*.  
 (From *Maundevile's Voiage and Travailes*, 1839 reprint.)
 
@@ -496,7 +496,7 @@ his burden of hanging men, and saved
 [![FIGURE 49. &lt;i&gt;Osage Chart of the Universe, drawn by Red
 Corn&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Picture-Writing of the American
 Indians&lt;/i&gt;; Garrick Mallery, 1894, p. 251.)](tn/fig049.jpg)  
-Click to enlarge](img/fig049.jpg)  
+Click to enlarge](img/fig049.jpg.md)  
 FIGURE 49. *Osage Chart of the Universe, drawn by Red Corn*.  
 (From *Picture-Writing of the American Indians*; Garrick Mallery, 1894,
 p. 251.)  
@@ -518,7 +518,7 @@ beautifully drawn than this by Red Corn, with its Earth plane, its
 "stages" or heavens, and its Tree of Life. Like the Lenape pictograph,
 it is the "score" of a tradition chanted by members of a secret society
 of his tribe. It is explained by J. Owen Dorsey as follows: <span
-id="fr_9"></span>[1](#fn_9)
+id="fr_9"></span>[1](#fn_9.md)
 
 The tree at the top represents the tree of life. By this flows a river.
 The tree and the river are described later in the degrees. When a woman
@@ -615,7 +615,7 @@ Nevertheless, under the date of 1640, there has come down to us a
 picture of the Mayan Universe, copied by Father Cogolludo from the
 central design of the *Chilam Balam*, or Sacred Book, *of Mani*, and
 inserted in his *Historia de Yucathan*, written at the end of twenty-one
-years spent among the Mayas ([Plate XX](#img_pl20)).
+years spent among the Mayas ([Plate XX](#img_pl20).md).
 
 At the bottom of the "universe" lies a cube, which has long been
 recognised as representing in the Mayan cosmogony the Earth. Above the
@@ -637,7 +637,7 @@ happiness, while the others sink into a region where they suffer
 [![PLATE XX. THE WORLD TREE OF THE MAYAS&lt;br&gt; (From
 &lt;i&gt;Historia de Yucathan&lt;/i&gt;; Diez Lopez Cogolludo,
 1640)](tn/pl20.jpg)  
-Click to enlarge](img/pl20.jpg)  
+Click to enlarge](img/pl20.jpg.md)  
 PLATE XX. THE WORLD TREE OF THE MAYAS  
 (From *Historia de Yucathan*; Diez Lopez Cogolludo, 1640)  
 
@@ -660,7 +660,7 @@ with man, the focal point, remaining the same. "The border therefore,"
 says Brinton, "expresses the totality of Time and Space, and the design
 itself symbolises Life within Time and Space."
 
-Another Mayan world-picture is shown in [Fig. 50](#img_fig050), which is
+Another Mayan world-picture is shown in [Fig. 50](#img_fig050.md), which is
 the central design of the *Tableau of the Bacabs*. Instead of the
 thirteen *ahau katuna* or greater cycles of years, this design is
 surrounded by "the signs of the twenty days," which extend in the
@@ -684,7 +684,7 @@ in feathers, they
 [![FIGURE 50. &lt;i&gt;Our First Parents&lt;/i&gt;. &lt;i&gt;From the
 Codex Cortesianus&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;A Primer of Mayan
 Hieroglyphics&lt;/i&gt;; Daniel G. Brinton, 1894.)](tn/fig050.jpg)  
-Click to enlarge](img/fig050.jpg)  
+Click to enlarge](img/fig050.jpg.md)  
 FIGURE 50. *Our First Parents*. *From the Codex Cortesianus*.  
 (From *A Primer of Mayan Hieroglyphics*; Daniel G. Brinton, 1894.)  
 
@@ -705,7 +705,7 @@ It is rather interesting to discover that under the green cosmic tree
 *Yax che* of Yucatan sits a figure whose name, *Cuculcan*, is derived
 from a Mayan verb, *cucul*, meaning
 
-<span id="img_fig051"></span> ![FIGURE 51. The ](img/fig051.jpg)  
+<span id="img_fig051"></span> ![FIGURE 51. The ](img/fig051.jpg.md)  
 FIGURE 51. The
 
 to "revolve," "to move round and round," as they moved their great
@@ -716,7 +716,7 @@ the same verb *cucul*, "to revolve, to move round and round."
 One more Mayan Tree of Life, too beautiful not to be included in any
 group of "Cosmic Trees," particularly as it shows the mystery of
 metamorphosis almost in the act of transmutation from one form to
-another is given in [Fig. 51](#img_fig051). In the original drawing the
+another is given in [Fig. 51](#img_fig051.md). In the original drawing the
 god of the north star rests upon it, as it rises from the heavenly vase
 that holds the heavenly waters. And, to show that Egypt and Yucatan were
 not separated in fancy at least by oceans
@@ -730,7 +730,7 @@ bestowing knowledge on man and his soul.
 <span id="img_fig052"></span> ![FIGURE 52. &lt;i&gt;Sacred Tree of the
 Egyptians&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Egyptian Mythology and
 Egyptian Christianity&lt;/i&gt;; Samuel Sharpe,
-1863.)](img/fig052.jpg)  
+1863.)](img/fig052.jpg.md)  
 FIGURE 52. *Sacred Tree of the Egyptians*.  
 (From *Egyptian Mythology and Egyptian Christianity*; Samuel Sharpe,
 1863.)
@@ -754,7 +754,7 @@ the interpretations
 
 [![PLATE XXI. ARBER SEPHIROTHECA&lt;br&gt; (From &lt;i&gt;Utriusque
 Cosmi&lt;/i&gt;; Robert Fludd, 1621. Vol. II) ](tn/pl21.jpg)  
-Click to enlarge](img/pl21.jpg)  
+Click to enlarge](img/pl21.jpg.md)  
 PLATE XXI. ARBER SEPHIROTHECA  
 (From *Utriusque Cosmi*; Robert Fludd, 1621. Vol. II)  
 
@@ -775,7 +775,7 @@ count" (that is, they may mean "numbers"), or "brilliance" or "spheres."
 Or they may mean "qualities," standing for the several grades or stages
 of wisdom. Or they may mean "emanations."
 
-The *Arber Sephirotheca* ([Plate XXI](#img_pl21)) shows the Hebrew
+The *Arber Sephirotheca* ([Plate XXI](#img_pl21).md) shows the Hebrew
 scheme of Creation--the esoteric side of the Genesis story, beginning
 with the assumption that Creation began, not from the act of God, but
 from the emanation of God, due to his voluntary self-withdrawal in order
@@ -818,7 +818,7 @@ the primordial, heavenly, incorruptible man, created in this way only
 Knowledge, and holds the middle place between the En Soph or All in All
 and the ten emanations; holds, that is, the point of Balance or
 equilibrium. In this sense Adam Kadmon here, as in [Plate
-IV](boe08.htm#img_pl04), is regarded as the supporter and upholder of
+IV](boe08.htm#img_pl04.md), is regarded as the supporter and upholder of
 the universe. Nothing could be at first sight more unlike than these two
 images of the three
 
@@ -842,7 +842,7 @@ interpretation of the World Tree myth may be found in an old
 black-figured kylix by Exekias, dating from the sixth century B.C. It is
 called "Dionysos in the Ship," and its reading depends entirely on an
 understanding of what the story of Dionysos meant to the Greeks and all
-the peoples who came under their influence ([Plate XXII](#img_pl22)).
+the peoples who came under their influence ([Plate XXII](#img_pl22).md).
 
 The story of Dionysos is always the story of Dionysos-and-Apollo. There
 is not such a thing as even half of this story; one without the other
@@ -878,7 +878,7 @@ still bound to it, and the Olympian gods.
 The mystery of the relation between Darkness and Light, which is the
 mystery of Dionysos-Apollo, had another representation in the
 seventeenth century, when Robert Fludd based the whole scheme of
-Creation upon it ([Plate XXIII](#img_pl23)). It will be interesting to
+Creation upon it ([Plate XXIII](#img_pl23).md). It will be interesting to
 compare this drawing with some Chinese conceptions of the primal
 
  
@@ -891,7 +891,7 @@ kylix by Exekias&lt;/i&gt; (&lt;i&gt;6th cen. B.C.&lt;/i&gt;).
 Griechische Vasenmalerei, No. 42&lt;/i&gt;).&lt;br&gt; (From
 &lt;i&gt;Mythology of All Races&lt;/i&gt;, 1927. Vol. I, Plate
 XLIX)](tn/pl22.jpg)  
-Click to enlarge](img/pl22.jpg)  
+Click to enlarge](img/pl22.jpg.md)  
 PLATE XXII. DIONYSOS IN THE SHIP  
 *A black-figured kylix by Exekias* (*6th cen. B.C.*). *in Munich*
 (*Furtwängler-Reichhold; Griechische Vasenmalerei, No. 42*).  
@@ -902,7 +902,7 @@ PLATE XXII. DIONYSOS IN THE SHIP
 <span id="page_119">p. 119</span>
 
 causal cosmic struggle between Light and Darkness (pp.
-[147](boe19.htm#page_147)-150).
+[147](boe19.htm#page_147)-150.md).
 
 "At the top of the figure," says Fludd, "is expressed the Head, or the
 Root, of all things, both in the simplicity of His unity and the duality
@@ -964,7 +964,7 @@ later on--sinned not by eating the apple, but by picking
 [![PLATE XXIII. ''&lt;i&gt;And God said, Let there be Light, and there
 was Light&lt;/i&gt;.''&lt;br&gt; (From &lt;i&gt;Medicina
 Catholica&lt;/i&gt;; Robert Fludd, 1629)](tn/pl23.jpg)  
-Click to enlarge](img/pl23.jpg)  
+Click to enlarge](img/pl23.jpg.md)  
 PLATE XXIII. ''*And God said, Let there be Light, and there was
 Light*.''  
 (From *Medicina Catholica*; Robert Fludd, 1629)  
@@ -975,7 +975,7 @@ Light*.''
 
 roses, which were, in the Peruvian tradition, the fruit of the Tree."
 The bee is almost as much a part of this drawing ([Plate
-XXIV](boe17.htm#img_pl24)) as the Rose Tree--here are a few odd myths of
+XXIV](boe17.htm#img_pl24).md) as the Rose Tree--here are a few odd myths of
 this marvellous being. According to Porphyrios, the Moon was called a
 bee; according to Virgil, the bee alone of all animate things descended
 from Paradise, is a part of the mind of God, never perishes, and alone
@@ -984,7 +984,7 @@ identified with the Moon, and is said in some traditions to have been
 born again as a bee. Again, the wax of bees produces light, hence bees
 are those that feed on fire. As for the rose, its bud resembles the
 acuminated or pointed sphere that symbolises ether in the ancient Stupa
-([Fig. 1](boe06.htm#img_fig001)), and the opened rose, to the
+([Fig. 1](boe06.htm#img_fig001).md), and the opened rose, to the
 Rosicrucians, symbolised the Universe spread out like a book, which he
 who could might read.
 
@@ -1015,18 +1015,18 @@ fine skin of the layers on the onion)."
 
 ### Footnotes
 
-<span id="fn_6"></span>[94:1](boe16.htm#fr_6) *The Prose of Younger
+<span id="fn_6"></span>[94:1](boe16.htm#fr_6.md) *The Prose of Younger
 Edda*, translated by G. W. Dasent, p. 16.
 
-<span id="fn_7"></span>[101:1](boe16.htm#fr_7) *Memoirs of the American
+<span id="fn_7"></span>[101:1](boe16.htm#fr_7.md) *Memoirs of the American
 Museum of Natural History*, Vol. II, 1900, pp. 342-43.
 
-<span id="fn_8"></span>[103:1](boe16.htm#fr_8) *U.S. Bur. Ethnol. Rep.*,
+<span id="fn_8"></span>[103:1](boe16.htm#fr_8.md) *U.S. Bur. Ethnol. Rep.*,
 1893-94, p. 182."
 
-<span id="fn_9"></span>[107:1](boe16.htm#fr_9) *Picture Writing of the
+<span id="fn_9"></span>[107:1](boe16.htm#fr_9.md) *Picture Writing of the
 American Indians*: Garrick Mallery, 1894, pp. 251-252.
 
 ------------------------------------------------------------------------
 
-[Next: Mountains of the World](boe17)
+[Next: Mountains of the World](boe17.md)

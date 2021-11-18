@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [England](../index)  [Index](index) 
-[Previous](str03)  [Next](str05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [England](../index)  [Index](index.md) 
+[Previous](str03)  [Next](str05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Stonehenge, A Temple Restor'd to the British Druids*, by William
 Stukeley, \[1740\], at Intangible Textual Heritage
 
@@ -78,8 +78,8 @@ continent, who chiefly inhabited *England*, at least the south part,
 when the *Romans* invaded the island, they are more particularly the
 remains of the *Belgæ*. I suppose their name *Welsh*, a corruption of
 *Belgæ*, Ὀυέλγαι in greek, <span id="img_00800"></span>
-![Belgichen](img/00800.jpg) and <span id="img_00801"></span>
-![Welichen](img/00801.jpg) in german. *Strabo* IV. speaks of their way
+![Belgichen](img/00800.jpg.md) and <span id="img_00801"></span>
+![Welichen](img/00801.jpg.md) in german. *Strabo* IV. speaks of their way
 of making flannel, called <span id="img_00802"></span>
 ![](img/00802.jpg) \[λαῖνα, χλαῖνα, Latin laena--JBH\] for which our
 *Welsh* are so famous. *Strabo* gives the celtic word without the
@@ -104,7 +104,7 @@ days of the *Romans*, such of the then inhabitants,
 
 <span id="img_pl05"></span> <span align="CENTER"> [![Plate 5. The Front
 View of Stonehenge](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 Plate 5. The Front View of Stonehenge  
 </span>
 
@@ -148,7 +148,7 @@ your nose is saluted with the most fragrant smell of *serpillum*, and
 *apium*, which with the short grass continually cropt by the flocks of
 sheep, composes the softest and most verdant turf, extremely easy to
 walk on, and which rises as with a spring, under ones feet. The
-following drawing [TAB. III.](str03.htm#img_pl03) is a prospect taken
+following drawing [TAB. III.](str03.htm#img_pl03.md) is a prospect taken
 from<span class="margnote">TAB. III.</span> the king's barrow, west from
 *Vespasian*'s camp, in the way from *Ambresbury* to *Stonehenge*, by the
 *Bristol* road. Tho’ the graver has not done it justice: yet it will
@@ -175,7 +175,7 @@ happens there, to infringe upon one of the barrows, which luckily
 affords us a demonstration, of the road being made since those barrows;
 of which I took notice in my *itinerarium* p. 180. and further to
 gratify the curious have here inserted a print of it [TAB.
-IV.](str03.htm#img_pl04) <span class="margnote">TAB. IV.</span> and may
+IV.](str03.htm#img_pl04.md) <span class="margnote">TAB. IV.</span> and may
 take the opportunity once for all to advertize them, of the disadvantage
 under which all drawings from these plains must appear. They are made
 for use and instruction, like mathematical figures, and cannot be
@@ -189,7 +189,7 @@ the *Roman* times here, in that *Roman* road that goes from
 *Marlborough* to *Bath*. It is near *Abury*, and I have a print of it
 engrav’d, which will be exhibited, when I next publish an account of
 that great work. But in the former <span class="margnote">TAB.
-IV.</span> *plate* [IV.](str03.htm#img_pl04) I call those Druid barrows,
+IV.</span> *plate* [IV.](str03.htm#img_pl04.md) I call those Druid barrows,
 which are often found on these plains: a circular trench, sometime of
 100 foot diameter, with only a small tump of earth in the middle, under
 which there is commonly an urn. Sometime two or three of these little
@@ -253,18 +253,18 @@ is now most perfect) the greatness of its contour
 
 <span id="img_pl06"></span> <span align="CENTER"> [![Chart converting
 English feet to Cubits](tn/pl06.jpg)  
-Click to enlarge](img/pl06.jpg)  
+Click to enlarge](img/pl06.jpg.md)  
 Chart converting English feet to Cubits  
 </span>
 
 <span id="page_11">p. 11</span>
 
-fills the eye in an astonishing manner. [TAB. V.](#img_pl05) is the
+fills the eye in an astonishing manner. [TAB. V.](#img_pl05.md) is the
 front prospect from<span class="margnote">TAB. V.</span> the entrance of
 the avenue. The stone that leans o'er the high attar appears thro’ the
 grand or principal entrance: because we stand upon lower ground. If the
-reader pleases to cast his eye upon *Plate* [XII.](str06.htm#img_pl12)
-there ’tis represented in orthography,[TAB. XII.](str06.htm#img_pl12)
+reader pleases to cast his eye upon *Plate* [XII.](str06.htm#img_pl12.md)
+there ’tis represented in orthography,[TAB. XII.](str06.htm#img_pl12.md)
 (to speak technically) as here in prospect. Hence by this method of
 comparing the designs together, we may, without confusion, gather a true
 notion of the work. *Stonehenge* is a good deal more in diameter, than
@@ -311,7 +311,7 @@ yards before he comes at the work itself. This measure is the same, as
 that which Webb calls 110 foot, the diameter of the work. For the area
 inclos’d by a ditch, wherein *Stonehenge* is situate, is in diameter
 three times the diameter of *Stonehenge*. See the *Plate* of the *area*.
-[XXIII](str12.htm#img_pl23). Therefore the distance between the verge
+[XXIII](str12.htm#img_pl23.md). Therefore the distance between the verge
 <span class="margnote">TAB. XXIII.</span> of the ditch within side,
 quite round, to the work of the Temple, is equal to the diameter of the
 Temple. The reader remembers what I promis’d, about the scale or measure
@@ -320,7 +320,7 @@ old *Hebrew*, *Phœnician* or *Egyptian* Cubit, which compar’d with the
 *English* foot, amounts to 20 inches and 4/5. Therefore I have drawn the
 ensuing comparison and proportion, between our *English* and *Hebrew*
 Scale; which is to accompany us in the future description. [TAB.
-VI.](#img_pl06) the scale of <span class="margnote">TAB. VI.</span>
+VI.](#img_pl06.md) the scale of <span class="margnote">TAB. VI.</span>
 cubits and feet compar’d. That I might not be suspected to savour an
 hypothesis, I produce other peoples measures, where I can find them in
 print, provided they be done with tolerable judgment and accuracy; for
@@ -352,7 +352,7 @@ make many admeasurements and repeated, before I could obtain an exact
 ground-plot; and it requir’d much consideration to do it, and to find
 out the true scale by which it was compos’d, the Druid cubit, which they
 <span class="margnote">TAB. VI.</span> brought with them from the east.
-Therefore by the annexed scales, [TAB. VI.](#img_pl06) which I have
+Therefore by the annexed scales, [TAB. VI.](#img_pl06.md) which I have
 contriv’d to answer all lengths, the reader. will most perfectly
 understand the subsequent description, and see the truth of my
 assertion: and may from thence be enabled to measure any other like
@@ -382,7 +382,7 @@ stone is a ruin, and lies like the haughty carcase of *Goliath*. Yet
 there is as much of it undemolished, as enables us sufficiently to
 recover its form, when it was in its most perfect state. There is enough
 of every part to preserve the idea of the whole. The next <span
-class="margnote">TAB. VII."</span> *Plate*, [TAB. VII.](#img_pl07) the
+class="margnote">TAB. VII."</span> *Plate*, [TAB. VII.](#img_pl07.md) the
 peep (as I call it) into the *sanctum sanctorum*, is drawn, at the very
 entrance, and as a view into the inside. When we advance further, the
 dark part of the ponderous imposts over our heads, the chasm of sky
@@ -406,18 +406,18 @@ circumference of the horizon. This Use there will be in them further; is
 ever it happen, that this noble work should be destroy’d: the spot of it
 may be found, by these views.
 
-<span class="margnote">TAB. VIII.</span>[TAB. VIII.](str05.htm#img_pl08)
+<span class="margnote">TAB. VIII.</span>[TAB. VIII.](str05.htm#img_pl08.md)
 north prospect from *Stonehenge*.
 
-<span class="margnote">TAB. IX.</span>[TAB. IX.](str05.htm#img_pl09)
+<span class="margnote">TAB. IX.</span>[TAB. IX.](str05.htm#img_pl09.md)
 south-west prospect from *Stonehenge*.
 
-<span class="margnote">TAB. X.</span>[TAB. X.](str05.htm#img_pl10)
+<span class="margnote">TAB. X.</span>[TAB. X.](str05.htm#img_pl10.md)
 south-east prospect from *Stonehenge*.
 
 <span id="img_pl07"></span> <span align="CENTER"> [![Plate 7. A peep
 into the Sanctum Sanctorum](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 Plate 7. A peep into the Sanctum Sanctorum  
 </span>
 
@@ -432,7 +432,7 @@ agreeable appearance; adorning the bare downs with their figures. And
 this ring of barrows reaches no further, than till you lose sight of the
 temple, or thereabouts. Stand at the grand entrance by the stone that
 lies upon the ground, and the view of the temple presents itself as in
-the [Vth](#img_pl05) *Plate*, the front prospect of *Stonehenge*.
+the [Vth](#img_pl05.md) *Plate*, the front prospect of *Stonehenge*.
 Directly down the avenue, <span class="margnote">TAB. V.</span> to the
 north-east, the apex of an hill terminates the horizon, between which
 and the bottom of a valley you see the *Cursus*, a work which has never
@@ -447,7 +447,7 @@ hill, between two famous groups of barrows, each consisting of seven in
 number. The farthest, or those northward, I call the oldest king's
 barrows; the hithermost are vulgarly called the seven king's graves.
 
-If we walk a little to the left hand, [TAB. VIII.](str05.htm#img_pl08)
+If we walk a little to the left hand, [TAB. VIII.](str05.htm#img_pl08.md)
 is presented. See the <span class="margnote">TAB. VIII.</span> northern
 long barrow*:* on this side of which, the eye takes in the whole length
 of the *Cursus*. Many barrows at the end and on both sides of it. That
@@ -460,7 +460,7 @@ nearest barrows planted with rabbets, which do much damage too at
 *vallum* of *Stonehenge* is one of the stones there, which seems to be a
 small altar, for some kind of libations, and at the letter A. the mark
 of a cavity; of which more particularly, in the next page. The next or
-south-west prospect, [TAB. IX.](str05.htm#img_pl09) from *Stonehenge*,
+south-west prospect, [TAB. IX.](str05.htm#img_pl09.md) from *Stonehenge*,
 takes in the country from <span class="margnote">TAB. IX.</span>
 *Berwickbarn*, and my Lord *Pembroke*'s wood of *Groveley*, to
 *Salisbury* steeple: a chain of barrows reaching a 6th part of the whole
@@ -489,7 +489,7 @@ the reader may remark another of the cavities within the *vallum*, to
 which that corresponds on the opposite diameter before hinted at.
 
 The south-east prospect finishes the circle, [TAB.
-X.](str05.htm#img_pl10) looking towards the <span class="margnote">TAB.
+X.](str05.htm#img_pl10.md) looking towards the <span class="margnote">TAB.
 X.</span> valley southward, where the rain-water passes, from the whole
 work of *Stonehenge*, the whole tract of the *Cursus* and the country
 beyond it, as far as north long barrow; and so is convey’d into the
@@ -512,7 +512,7 @@ two stones set upon the *vallum*; which stones puzzle all enquirers.
 Those particulars seem to explain one another, and more especially by
 the help of a coin in *Vaillant*, tom. II. p. 240. for which reason I
 caus’d it to be engraven<span class="margnote">TAB. XXIII.</span> on
-that plate, [TAB. XXIII.](str12.htm#img_pl23) the *area* of
+that plate, [TAB. XXIII.](str12.htm#img_pl23.md) the *area* of
 *Stonehenge*. ’Tis a coin of *Philip* the *Roman* emperor, struck by the
 city of *Heliopolis* in *Cœlesyria* under mount *Libanus*, now call’d
 *Baldec*, where is an admirable ancient temple remaining, describ’d and
@@ -553,4 +553,4 @@ set for water, in the court before the temple.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter III](str05)
+[Next: Chapter III](str05.md)

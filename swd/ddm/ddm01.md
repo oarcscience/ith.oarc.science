@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Swedenborg](../index) 
-[Index](index)  [Previous](ddm00)  [Next](ddm02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Swedenborg](../index.md) 
+[Index](index)  [Previous](ddm00)  [Next](ddm02.md) 
 
 ------------------------------------------------------------------------
 
@@ -314,4 +314,4 @@ state of humiliation, but the former the state of glorification.
 
 ------------------------------------------------------------------------
 
-[Next: 51-100](ddm02)
+[Next: 51-100](ddm02.md)

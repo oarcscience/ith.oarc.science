@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe250)  [Next](prwe252) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe250)  [Next](prwe252.md) 
 
 ------------------------------------------------------------------------
 
@@ -35,4 +35,4 @@ cow.
 
 ------------------------------------------------------------------------
 
-[Next: Moon Superstitions](prwe252)
+[Next: Moon Superstitions](prwe252.md)

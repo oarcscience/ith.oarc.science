@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](pnm15)  [Next](pnm17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](pnm15)  [Next](pnm17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002A9JP00/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philosophy of Natural Magic*, by Henry Cornelius Agrippa, L. W. de
 Laurence ed. \[1913\], at Intangible Textual Heritage
 
@@ -49,7 +49,7 @@ called earthy that are dark and more heavy; and those waterish which are
 transparent and are compacted of water, as crystal, beryl and pearls in
 the shells of fishes; and they are called airy which swim upon the
 water, and are spongeous, as the stones of a sponge, the pumice stone
-and the stone sophus; <span id="fr_9"></span>[\*](#fn_9) and they are
+and the stone sophus; <span id="fr_9"></span>[\*](#fn_9.md) and they are
 called fiery out of which fire is extracted, or which are produced of
 fire, as thunder-bolts, fire-stones and the stone asbestos. Also amongst
 Metals, lead and silver are earthy; quicksilver is waterish; copper and
@@ -62,7 +62,7 @@ names from the qualities of the Elements. Amongst Animals also, some are
 in comparison of others earthy, and dwell in the bowels of the earth, as
 worms and moles, and many other small creeping vermin; others are
 watery, as fishes; others airy, which cannot live out of the air; <span
-id="fr_10"></span>[†](#fn_10) others also are fiery, living in the fire,
+id="fr_10"></span>[†](#fn_10.md) others also are fiery, living in the fire,
 as salamanders, and crickets, such as are of a fiery heat, as pigeons,
 ostriches, lions, and such as the wise men call beasts breathing fire.
 Besides, in animals the bones resemble the earth, flesh the air, the
@@ -93,13 +93,13 @@ in all things, and diffuse their virtues through all things.
 
 ### Footnotes
 
-<span id="fn_9"></span>[57:\*](pnm16.htm#fr_9) Probably meerschaum
+<span id="fn_9"></span>[57:\*](pnm16.htm#fr_9.md) Probably meerschaum
 (sea-froth), or sepiolite, one of the bisilicates.
 
-<span id="fn_10"></span>[57:†](pnm16.htm#fr_10) Birds in general are
+<span id="fn_10"></span>[57:†](pnm16.htm#fr_10.md) Birds in general are
 undoubtedly here meant.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. How the Elements Are in the Heavens, in Stars, in
-Devils, in Angels, and lastly in God Himself](pnm17)
+Devils, in Angels, and lastly in God Himself](pnm17.md)

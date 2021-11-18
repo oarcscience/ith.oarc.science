@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](sah03)  [Next](sah05) 
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](sah03)  [Next](sah05.md) 
 
 ------------------------------------------------------------------------
 
@@ -1099,4 +1099,4 @@ perfect man.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V - Animal Magnetism Unmasked](sah05) 
+[Next: Chapter V - Animal Magnetism Unmasked](sah05.md) 

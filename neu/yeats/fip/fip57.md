@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
-[Index](index)  [Previous](fip56)  [Next](fip58) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index.md) 
+[Index](index)  [Previous](fip56)  [Next](fip58.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@ Legends](../../index)  [Yeats](../index)  [Celtic](../../celt/index) 
 
 ### THE PHANTOM ISLE
 
-Giraldus Cambrensis <span id="fr_50"></span>[1](#fn_50)
+Giraldus Cambrensis <span id="fr_50"></span>[1](#fn_50.md)
 
 Among the other islands is one newly formed, which they call the Phantom
 Isle, which had its origin in this manner. One calm day a large mass of
@@ -41,9 +41,9 @@ fire.
 
 ### Footnotes
 
-<span id="fn_50"></span>[213:1](fip57.htm#fr_50) "Giraldus Cambrensis"
+<span id="fn_50"></span>[213:1](fip57.htm#fr_50.md) "Giraldus Cambrensis"
 was born in 1146, and wrote a celebrated account of Ireland.
 
 ------------------------------------------------------------------------
 
-[Next: Saints, Priests](fip58)
+[Next: Saints, Priests](fip58.md)

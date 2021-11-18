@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](wyvbk13)  [Next](wyvbk15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](wyvbk13)  [Next](wyvbk15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/8121500478/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -167,7 +167,7 @@ of heaven and wind are saved; the Ekavimsa Stoma.
 25 Thou art the share of the Vasus, the sovranty of the Rudras.  
 Quadrupeds are saved; the Chaturvimsa Stoma.  
 Thou art the share of the Âdityas; the sovranty of the Maruts.  
-The Embryos are saved; the [Pañchavimsa](errata.htm#5) Stoma.  
+The Embryos are saved; the [Pañchavimsa](errata.htm#5.md) Stoma.  
 Thou art the share of Aditi; the sovranty of Pûshan.  
 Strength is saved; the Trinava Stoma.  
 Thou art the share of God Savitar; the sovranty of Brihaspati.  
@@ -222,4 +222,4 @@ songs, etc. Repeated from XII. 14-16.
 
 ------------------------------------------------------------------------
 
-[Next: Book XV](wyvbk15)
+[Next: Book XV](wyvbk15.md)

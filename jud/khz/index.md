@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,10 +52,10 @@ wars.
 
 ------------------------------------------------------------------------
 
-[Title Page](khz00)  
-[Part One](khz01)  
-[Part Two](khz02)  
-[Part Three](khz03)  
-[Part Four](khz04)  
-[Part Five](khz05)  
-[Conclusion of the Book](khz06)  
+[Title Page](khz00.md)  
+[Part One](khz01.md)  
+[Part Two](khz02.md)  
+[Part Three](khz03.md)  
+[Part Four](khz04.md)  
+[Part Five](khz05.md)  
+[Conclusion of the Book](khz06.md)  

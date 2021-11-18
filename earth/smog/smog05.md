@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](smog04)  [Next](smog06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](smog04)  [Next](smog06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026P3SA6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Smoky God*, by Willis George Emerson, \[1908\], at Intangible
 Textual Heritage
 
@@ -25,7 +25,7 @@ Textual Heritage
 before they are from seventy-five to one hundred years old, and that the
 age at which women enter wedlock is only a little less, and that both
 men and women frequently live to be from six to eight hundred years old,
-and in some instances much older. <span id="fr_17"></span>[1](#fn_17)
+and in some instances much older. <span id="fr_17"></span>[1](#fn_17.md)
 
 <span id="page_128">p. 128</span>
 
@@ -104,7 +104,7 @@ during
 
 the last few years whole species of birds have quit the earth. A writer
 in a recent article on this subject says: <span
-id="fr_18"></span>[1](#fn_18)
+id="fr_18"></span>[1](#fn_18.md)
 
 Is it not possible that these disappearing bird species quit their
 habitation without, and find an asylum in the "within world"?
@@ -133,7 +133,7 @@ The strange conditions "within"
 
 <span id="img_13500"></span> <span align="CENTER"> [![“There must have
 been five hundred of these thunder-throated monsters.”](tn/13500.jpg)  
-Click to enlarge](img/13500.jpg)  
+Click to enlarge](img/13500.jpg.md)  
 “There must have been five hundred of these thunder-throated
 monsters.”  
 </span>
@@ -163,7 +163,7 @@ and, fortunately, unobserved by this vast herd of elephants as they
 drifted on and away, following a leader as does a herd of sheep. They
 browsed from growing herbage which they encountered as they traveled,
 and now and again shook the firmament with their deep bellowing. <span
-id="fr_19"></span>[1](#fn_19)
+id="fr_19"></span>[1](#fn_19.md)
 
 <span id="page_139">p. 139</span>
 
@@ -278,7 +278,7 @@ excellent swimmers and tremendous in size,
 with white breast, short wings, black head, and long peaked bills. They
 stand fully nine feet high. They looked at us with little surprise, and
 presently waddled, rather than walked, toward the water, and swam away
-in a northerly direction. <span id="fr_20"></span>[1](#fn_20)
+in a northerly direction. <span id="fr_20"></span>[1](#fn_20.md)
 
 The events that occurred during the following hundred or more days
 beggar description. We were on an open and iceless sea. The month we
@@ -291,10 +291,10 @@ toward the sun. Therefore, when passing out and away from the internal
 electrical light of "The Smoky God" and its genial warmth, we would be
 met by the light and warmth of the sun, shining in through the south
 opening of the earth. We were not mistaken. <span
-id="fr_21"></span>[1](#fn_21)
+id="fr_21"></span>[1](#fn_21.md)
 
 There were times when our little craft, driven by wind that was
-[continuous](errata.htm#0) and persistent, shot through the waters like
+[continuous](errata.htm#0.md) and persistent, shot through the waters like
 an arrow. Indeed,
 
 <span id="page_148">p. 148</span>
@@ -318,7 +318,7 @@ the narrow channels and escaped being crushed I know not. The compass
 behaved in the same drunken and unreliable fashion in passing over the
 southern curve or edge of the earth's shell as it had done on our
 inbound trip at the northern entrance. It gyrated, dipped and seemed
-like a thing possessed. <span id="fr_22"></span>[1](#fn_22)
+like a thing possessed. <span id="fr_22"></span>[1](#fn_22.md)
 
 <span id="page_150">p. 150</span>
 
@@ -338,7 +338,7 @@ frequently
 
 <span id="img_15100"></span> <span align="CENTER"> [![“My father
 shouted: ‘Breakers ahead!’”](tn/15100.jpg)  
-Click to enlarge](img/15100.jpg)  
+Click to enlarge](img/15100.jpg.md)  
 “My father shouted: ‘Breakers ahead!’”  
 </span>
 
@@ -372,7 +372,7 @@ narrow channel of open water.
 
 ### Footnotes
 
-<span id="fn_17"></span>[127:1](smog05.htm#fr_17) *Josephus says: "God
+<span id="fn_17"></span>[127:1](smog05.htm#fr_17.md) *Josephus says: "God
 prolonged the life of the patriarchs that preceded the deluge, both on
 account of their virtues and to give them the opportunity of perfecting
 the sciences* <span id="page_128">p. 128</span> *of geometry and
@@ -381,32 +381,32 @@ they had not lived* 600 *years, because it is only after the lapse of*
 600 *years that the great year is accomplished."—Flammarion,
 Astronomical Myths, Paris p*. 26.
 
-<span id="fn_18"></span>[133:1](smog05.htm#fr_18) *"Almost every year
+<span id="fn_18"></span>[133:1](smog05.htm#fr_18.md) *"Almost every year
 sees the final extinction of one or more bird species. Out of fourteen
 varieties of birds found a century since on a single island—the West
 Indian island of St. Thomas—eight have now to be numbered among the
 missing."*
 
-<span id="fn_19"></span>[138:1](smog05.htm#fr_19) *"Moreover, there were
+<span id="fn_19"></span>[138:1](smog05.htm#fr_19.md) *"Moreover, there were
 a great number of elephants in the island: and there was provision for
 animals of every kind. Also whatever fragrant things there are in the
 earth, whether roots or herbage, or woods*, <span id="page_139">p.
 139</span> *or distilling drops of flowers or fruits, grew and thrived
 in that land."—The Cratyluo of Plato*.
 
-<span id="fn_20"></span>[146:1](smog05.htm#fr_20) *"The nights are never
+<span id="fn_20"></span>[146:1](smog05.htm#fr_20.md) *"The nights are never
 so dark at the Poles as in other regions, for the moon and stars seem to
 possess twice as much light and effulgence. In addition, there is a
 continuous light, the varied shades and play of which are amongst the
 strangest phenomena of nature."—Rambrosson's Astronomy*.
 
-<span id="fn_21"></span>[147:1](smog05.htm#fr_21) *"The fact that gives
+<span id="fn_21"></span>[147:1](smog05.htm#fr_21.md) *"The fact that gives
 the phenomenon of the polar aurora its greatest importance is that the
 earth becomes self-luminous; that, besides the light which as a planet
 is received from the central body, it shows a capability of sustaining a
 luminous process proper to itself ."—Humboldt*.
 
-<span id="fn_22"></span>[149:1](smog05.htm#fr_22) *Captain Sabine, on
+<span id="fn_22"></span>[149:1](smog05.htm#fr_22.md) *Captain Sabine, on
 page* 105 *in "Voyages in the Arctic Regions," says: "The geographical
 determination of the direction and intensity of the magnetic forces at
 different points of the earth's surface has been regarded as an object
@@ -418,4 +418,4 @@ observatories."*
 
 ------------------------------------------------------------------------
 
-[Next: Part Five: Among the Ice Packs](smog06)
+[Next: Part Five: Among the Ice Packs](smog06.md)

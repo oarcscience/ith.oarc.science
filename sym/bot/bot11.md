@@ -1,25 +1,25 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Symbolism](../index) 
-[Astrology](../../astro/index)  [Index](index)  [Previous](bot10) 
-[Next](bot12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Symbolism](../index.md) 
+[Astrology](../../astro/index)  [Index](index)  [Previous](bot10.md) 
+[Next](bot12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1564594610/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B0030IM7KK/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Book of Talismans, Amulets and Zodiacal Gems*, by William Thomas
 and Kate Pavitt, \[1922\], at Intangible Textual Heritage
 
@@ -67,7 +67,7 @@ which signifies in Coptic "the Blessed Name," and was symbolised by a
 figure, the head of which is that of a Cock, the body that of a man,
 with serpents forming the legs; in his right hand he holds a whip, and
 on his left arm is a shield. This Talisman (see Illustrations Nos. 102,
-103, [Plate VII](#img_pl07)) is a combination of the five emanations
+103, [Plate VII](#img_pl07).md) is a combination of the five emanations
 mentioned above: *Nous* and *Logos* are expressed by the two serpents,
 symbols of the inner sense and understanding, the head of the Cock
 representing *Phronesis*, for foresight and vigilance; the two arms hold
@@ -82,18 +82,18 @@ principally from the Kabala.
 
 One of the most popular inscriptions was <span
 class="smallcaps">IAW</span> (Jehovah), and in Illustration No. 99,
-[Plate VII](#img_pl07), this is shown surrounded by the Serpent <span
+[Plate VII](#img_pl07.md), this is shown surrounded by the Serpent <span
 class="smallcaps">KHNOUBIS</span>, taken from the Egyptian philosophy,
 representing the Creative principles, and was worn for Vitality,
 Understanding, and Protection. The Seven Greek Vowels (Illustration No.
-100, [Plate VII](#img_pl07)) symbolised the seven heavens, or Planets,
+100, [Plate VII](#img_pl07).md) symbolised the seven heavens, or Planets,
 whose harmony keeps the Universe in existence, each vowel having seven
 different methods of expression corresponding with a certain Force, the
 correct utterance of these letters and comprehension of the forces
 typified being believed to confer supreme power, bringing success in all
 enterprises and giving complete control over all the powers of darkness.
 
-Illustration No. 101, [Plate VII](#img_pl07), is an example of the use
+Illustration No. 101, [Plate VII](#img_pl07.md), is an example of the use
 of the Magic Symbols, the meaning of which has been lost. It is probably
 a composition of the initial letters of some mystical sigil, enclosed by
 a serpent and the names of the Archangels Gabriel, Paniel, Ragauel,
@@ -107,7 +107,7 @@ to drive away demons.
 
 <span id="img_pl07"></span> <span align="CENTER"> [![PLATE 7. EGYPTIAN
 AND GNOSTIC TALISMANS.](tn/pl07.jpg)  
-Click to enlarge](img/pl07.jpg)  
+Click to enlarge](img/pl07.jpg.md)  
 PLATE 7. EGYPTIAN AND GNOSTIC TALISMANS.  
 </span>
 
@@ -150,7 +150,7 @@ prevent the evil spirits of the moon from afflicting them with
 delusions, hysteria, or lunacy; also to attract the good-will of Isis
 that they might be successful in love, happy in motherhood, and
 fortunate in life. From this Crescent symbol (Illustration No. 113,
-[Plate VIII](bot12.htm#img_pl08)) the Horseshoe undoubtedly became
+[Plate VIII](bot12.htm#img_pl08).md) the Horseshoe undoubtedly became
 regarded as a Talisman, and as such was used by the Greeks and Romans,
 who nailed it with the horns upward as a charm against the Plague. In an
 old publication of 1618 we are instructed that the horseshoe should be
@@ -195,7 +195,7 @@ class="smallcaps">Tusk</span>, both singly, or as
 <span id="page_82">p. 82</span>
 
 a pendant to another Talisman, as Illustration No. 106, [Plate
-VIII](bot12.htm#img_pl08), in all probability had its origin in the
+VIII](bot12.htm#img_pl08.md), in all probability had its origin in the
 double horns, or Crescent, of Isis. It was worn to protect from harm,
 danger, and the evil influences of enemies, and also as a powerful charm
 to attract good fortune and success.
@@ -232,7 +232,7 @@ preserved them from maladies in connection with dentition.
 <span class="smallcaps">The Cornucopia</span>, or Amalthæa's Horn of
 Plenty, is the symbol of Abundance, Fruitfulness, and Prosperity, and is
 represented by a horn filled to overflowing with fruits and flowers, as
-Illustration No. 118, [Plate VIII](bot12.htm#img_pl08). Amalthæa was the
+Illustration No. 118, [Plate VIII](bot12.htm#img_pl08.md). Amalthæa was the
 daughter of Melissus (the King of Crete) who nursed the infant Jupiter,
 feeding him with the milk of a goat. Jupiter afterwards gave the goat's
 horn to his nurse, endowing it with magical properties, so that
@@ -252,7 +252,7 @@ triangle upon its forehead, the figure of a Vulture on its
 back, double hairs in its tail, and a scarab under its tongue.
 
 The symbol of the Bull's Head (see Illustration No. 108, [Plate
-VIII](bot12.htm#img_pl08)) was commonly worn as earrings, for success in
+VIII](bot12.htm#img_pl08).md) was commonly worn as earrings, for success in
 love and friendship, and as the god of Hades could lengthen or shorten
 men's lives as he thought fit, the Bull's Head was also worn by men for
 Strength and Long Life.
@@ -260,7 +260,7 @@ Strength and Long Life.
 To gain favour and protection small images of the Deities were worn as
 ornaments, such as Diana of Ephesus, Mithras, and especially Harpokrates
 and Anubis (Illustrations Nos. 104, 107, [Plate
-VIII](bot12.htm#img_pl08)).
+VIII](bot12.htm#img_pl08).md).
 
 <span class="smallcaps">Harpokrates</span>, the god of eternal youth and
 fecundity, was typified by the figure of a boy holding his tongue,
@@ -293,7 +293,7 @@ thought to promote harmony between lovers and peace between man and
 wife.
 
 <span class="smallcaps">The Salus Ring</span> (Illustration No. 112,
-[Plate VIII](bot12.htm#img_pl08)) was worn by the devotees of Salus, or
+[Plate VIII](bot12.htm#img_pl08).md) was worn by the devotees of Salus, or
 Hygiea, daughter of Æsculapius, who was worshipped as the goddess of
 Health. Several holy days were appointed in her honour and worship, and
 she was publicly invoked for the welfare of the rulers and for the
@@ -306,6 +306,6 @@ and Success in all undertakings, as well as for general Good Fortune.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX](bot12)
+[Next: Chapter IX](bot12.md)
 
 </div>

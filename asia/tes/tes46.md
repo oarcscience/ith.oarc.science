@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](tes45)  [Next](tes47) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](tes45)  [Next](tes47.md) 
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ fish remained motionless, just as pikes are accustomed to do. The man
 came to the shore and brought a sacrifice to the whole family of pikes.
 After that he refused to eat of the flesh of pike, and so he was
 nicknamed Pike John. His descendants are still living. Their family name
-is Pike. <span id="fr_77"></span>[1](#fn_77)
+is Pike. <span id="fr_77"></span>[1](#fn_77.md)
 
 Told by Nicholas Kusakoff, a Russian creole, in the village of Pokhotsk,
 Kolyma country, summer of 1896.
@@ -51,7 +51,7 @@ Kolyma country, summer of 1896.
 
 ### Footnotes
 
-<span id="fn_77"></span>[100:1](tes46.htm#fr_77) in Russian Щукинъ. This
+<span id="fn_77"></span>[100:1](tes46.htm#fr_77.md) in Russian Щукинъ. This
 name is quite common, and much in use also in European Russia. For giant
 pikes living in certain lakes, compare also the Chukchee story in
 Bogoras, "Chukchee Materials", No. 31, 129--W. B.--Ainu (B. Pilsudski,
@@ -59,4 +59,4 @@ Bogoras, "Chukchee Materials", No. 31, 129--W. B.--Ainu (B. Pilsudski,
 
 ------------------------------------------------------------------------
 
-[Next: 26. Story of the Fish-Woman](tes47)
+[Next: 26. Story of the Fish-Woman](tes47.md)

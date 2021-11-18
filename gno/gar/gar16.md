@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar15)  [Next](gar17) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar15)  [Next](gar17.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -158,7 +158,7 @@ The *Lizard*, which was believed to conceive through the ear, and to
 bring forth through the mouth, is the type of the generation of the
 Word, that is, the *Logos*, or Divine Wisdom. (This belief explains the
 appearance of a lizard upon the breast of certain figures of
-Minerva.) <span id="fr_41"></span>[\*](#fn_40)
+Minerva.) <span id="fr_41"></span>[\*](#fn_40.md)
 
 The *Scarabeus*, in its making spherical receptacles for its eggs, and
 by its retrograde motion, imitates the action and movement of the Sun.
@@ -210,7 +210,7 @@ priscam opulentiam complexæ, jussusque e senioribus sacerdotum patrium
 sermonem interpretari" (Ann. II. 60). This happened A.D. 19. It would
 appear that the knowledge of hieroglyphics was fast dying out, and only
 preserved by members of the previous generation. <span
-id="fr_42"></span>[\*](#fn_41)
+id="fr_42"></span>[\*](#fn_41.md)
 
 It is only in a few instances that Horapollo has preserved some genuine
 tradition of the meaning of those symbols which were the most generally
@@ -381,10 +381,10 @@ legs terminating in serpents."
 
 ### Footnotes
 
-<span id="fn_40"></span>[107:\*](gar16.htm#fr_41) Of which a fine
+<span id="fn_40"></span>[107:\*](gar16.htm#fr_41.md) Of which a fine
 example, an intaglio, is figured in the Museum Odescalchum.
 
-<span id="fn_41"></span>[108:\*](gar16.htm#fr_42) But the Demotic
+<span id="fn_41"></span>[108:\*](gar16.htm#fr_42.md) But the Demotic
 writing must have lingered much longer in use, for Capitolinus, cap. 34,
 mentions the "Egyptian" as one of the current alphabets of the third
 century. "The soldiers raised a tomb to Gordian at Circeium Castrum, on
@@ -396,4 +396,4 @@ Germanorum, sed non victori Philipporum."
 
 ------------------------------------------------------------------------
 
-[Next: I. Origin of Mithraicism](gar17)
+[Next: I. Origin of Mithraicism](gar17.md)

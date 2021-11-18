@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](slaa09)  [Next](slaa11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](slaa09)  [Next](slaa11.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1585090441/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002L16OXS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Sun Lore of All Ages*, by William Tyler Olcott, \[1914\], at Intangible
 Textual Heritage
 
@@ -72,7 +72,7 @@ released the Sun, therefore they worshipped it.
 
 A Japanese myth relates that in early times the Sun, displeased at men's
 misdeeds, retired into a cave, and left the world in darkness. <span
-id="fr_62"></span>[1](#fn_62) This caused
+id="fr_62"></span>[1](#fn_62.md) This caused
 
 <span id="page_207">p. 207</span>
 
@@ -110,7 +110,7 @@ rays of the sun the ropes by which the Sun is fastened. They say the Sun
 once drove swiftly through the sky, but a god subdued him, and now bound
 by ropes and cords he goes humbly along his daily appointed path.
 
-The Polynesian myth <span id="fr_63"></span>[1](#fn_63) that tells of
+The Polynesian myth <span id="fr_63"></span>[1](#fn_63.md) that tells of
 this snaring of the Sun is one of the most interesting legends in solar
 mythology, and it is therefore given in much detail:
 
@@ -179,7 +179,7 @@ deprived it of half its light,
 and since then the days have been longer and cooler and men have been
 able to work in peace.
 
-The following Sun-catcher myth <span id="fr_64"></span>[1](#fn_64)
+The following Sun-catcher myth <span id="fr_64"></span>[1](#fn_64.md)
 refers more to a temporary staying of the Sun in its daily course, than
 to a permanent change in its rate of speed such as Maui effected:
 
@@ -216,7 +216,7 @@ break the facehere creeper. It is the Itu's cord."
 
 A study of North American mythology reveals in the traditions of the
 Ojibways a myth similar in many respects to the Polynesian Sun-catcher
-myth. This legend <span id="fr_65"></span>[1](#fn_65) relates that in
+myth. This legend <span id="fr_65"></span>[1](#fn_65.md) relates that in
 primitive times the animals ruled the earth, having killed all of
 humankind except a girl and her small brother. They lived in fear and
 seclusion:
@@ -339,7 +339,7 @@ the light, and its nose and teeth have ever since been brown as if
 burnt."
 
 In the following Omaha myth of "How the Rabbit Caught the Sun in a
-Trap," <span id="fr_66"></span>[1](#fn_66) we find the Sun ensnared
+Trap," <span id="fr_66"></span>[1](#fn_66.md) we find the Sun ensnared
 again unwittingly. These myths differ from the Polynesian Sun-catcher
 myths in this respect,—that there appears to have been no deliberate
 intention of catching the Sun, no deliberate plan to restrain his
@@ -369,7 +369,7 @@ In the legends of the Bungee Indians of Lake Winnipeg, we find again a
 reference to the state of dissatisfaction existing in early times with
 the Sun's vagarious method of lighting the world, and the schemes that
 were suggested to bring about a change of conditions. In the following
-myth <span id="fr_67"></span>[1](#fn_67) the Sun is ensnared as the
+myth <span id="fr_67"></span>[1](#fn_67.md) the Sun is ensnared as the
 result of a deliberate plan:
 
 <span id="page_219">p. 219</span>
@@ -442,7 +442,7 @@ facing the setting Sun. Another Australian custom is to place stones in
 trees at different heights from the ground, in order to indicate the
 height of the Sun in the sky at the moment when they passed a particular
 tree. Those following are thus made aware when their friends in advance
-passed the spot. Frazer, <span id="fr_68"></span>[1](#fn_68) referring
+passed the spot. Frazer, <span id="fr_68"></span>[1](#fn_68.md) referring
 to this custom, considers
 
 <span id="page_222">p. 222</span>
@@ -485,33 +485,33 @@ imagination common to all men.
 
 ### Footnotes
 
-<span id="fn_62"></span>[206:1](slaa10.htm#fr_62) Here again we
+<span id="fn_62"></span>[206:1](slaa10.htm#fr_62.md) Here again we
 encounter in a land far distant the tradition common among the American
 Indians, that at one time the land they dwelt in was shrouded in
 darkness.
 
-<span id="fn_63"></span>[208:1](slaa10.htm#fr_63) *Polynesian
+<span id="fn_63"></span>[208:1](slaa10.htm#fr_63.md) *Polynesian
 Mythology*, Sir George Gray.
 
-<span id="fn_64"></span>[211:1](slaa10.htm#fr_64) *Researches in the
+<span id="fn_64"></span>[211:1](slaa10.htm#fr_64.md) *Researches in the
 Early History of Mankind*, Edward B. Tylor.
 
-<span id="fn_65"></span>[212:1](slaa10.htm#fr_65) *Researches in the
+<span id="fn_65"></span>[212:1](slaa10.htm#fr_65.md) *Researches in the
 Early History of Mankind*, Edward B. Tylor.
 
-<span id="fn_66"></span>[217:1](slaa10.htm#fr_66) Annual Report of the
+<span id="fn_66"></span>[217:1](slaa10.htm#fr_66.md) Annual Report of the
 Bureau of Ethnology, 1879-80.
 
-<span id="fn_67"></span>[218:1](slaa10.htm#fr_67) Vol. xix., *Journal
+<span id="fn_67"></span>[218:1](slaa10.htm#fr_67.md) Vol. xix., *Journal
 American Folk-Lore*.
 
-<span id="fn_68"></span>[221:1](slaa10.htm#fr_68) *The Golden Bough*, J.
+<span id="fn_68"></span>[221:1](slaa10.htm#fr_68.md) *The Golden Bough*, J.
 G. Frazer.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Solar Festivals](slaa11)
+[Next: Chapter IX. Solar Festivals](slaa11.md)
 
 </div>

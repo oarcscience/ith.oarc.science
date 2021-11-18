@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma30)  [Next](oma32) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma30)  [Next](oma32.md) 
 
 ------------------------------------------------------------------------
 
-### KOSHARI INITIATION <span id="fr_238"></span>[31](#fn_238)
+### KOSHARI INITIATION <span id="fr_238"></span>[31](#fn_238.md)
 
 My informant's father was chief of Koshari, and he told members that
 when he died he wanted his oldest son to take his place.
@@ -23,11 +23,11 @@ warriors renew the scalps. It was customary
 <span id="page_113">p. 113</span>
 
 to initiate the Koshari at this ceremony. (Nowadays they catch them
-temporarily for any ceremony. <span id="fr_239"></span>[32](#fn_239) My
+temporarily for any ceremony. <span id="fr_239"></span>[32](#fn_239.md) My
 informant's initiation was the last one.)
 
 The, old Koshari had sticks they were going to make prayer sticks of,
-pins for women's skirts ([pl. 13, fig. 1](oma46.htm#img_pl13a)). Each
+pins for women's skirts ([pl. 13, fig. 1](oma46.htm#img_pl13a).md). Each
 Koshari was to make four extra--four for the women to dance with and
 four to pray with, so they had to make a great many. They also made
 cigarettes of corn husks with each set of pins. The old men were present
@@ -100,7 +100,7 @@ Two bowls of food are passed around, and a lot of cigarettes. Each
 member smokes one. During the ceremonial period one cannot make a
 cigarette of his own.
 
-Following this, the [ceremony](errata.htm#6) of the scalp dance is held.
+Following this, the [ceremony](errata.htm#6.md) of the scalp dance is held.
 
 During the 8 days before the ceremony is over, the initiates are
 instructed what to do. Before going out, all the stuffed wrens from the
@@ -113,25 +113,25 @@ and talking like these birds.
 
 ### Footnotes
 
-<span id="fn_235"></span>[112:28](oma30.htm#fr_235) Informant's note:
+<span id="fn_235"></span>[112:28](oma30.htm#fr_235.md) Informant's note:
 The hair is tied in between, with a cotton string. Cf. hair frame of
 Hopi maiden.
 
-<span id="fn_236"></span>[112:29](oma30.htm#fr_236) Included in this
+<span id="fn_236"></span>[112:29](oma30.htm#fr_236.md) Included in this
 plate are "prayer sticks in the form of pins (otsatiatni) for fastening
 a woman's mantle. These prayer sticks are made and deposited by
 Koshari." (Cf. Parsons, 1918 a, pl. 3).
 
-<span id="fn_237"></span>[112:30](oma30.htm#fr_237) First Mesa Hopi say
+<span id="fn_237"></span>[112:30](oma30.htm#fr_237.md) First Mesa Hopi say
 to their children, "The crows are coming wearing yellow stockings,"
 which means there is to be a kachina dance.--E. C. P. No connection is
 made between crows and kachina among eastern Keres.--L. A. W.
 
-<span id="fn_238"></span>[112:31](oma31.htm#fr_238) Cf. White, 1932, pp.
+<span id="fn_238"></span>[112:31](oma31.htm#fr_238.md) Cf. White, 1932, pp.
 97-101.
 
-<span id="fn_239"></span>[113:32](oma31.htm#fr_239) see White, 1942.
+<span id="fn_239"></span>[113:32](oma31.htm#fr_239.md) see White, 1942.
 
 ------------------------------------------------------------------------
 
-[Next: Bibliography](oma32)
+[Next: Bibliography](oma32.md)

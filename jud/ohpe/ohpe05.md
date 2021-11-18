@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](ohpe04)  [Next](ohpe06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](ohpe04)  [Next](ohpe06.md) 
 
 ------------------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Neubauer, \[1897\], at Intangible Textual Heritage
 
 LXXII\.
 
-*The Alphabet of Ben Sira* (*see above*, [p. xiv](ohpe02.htm#page_xiv)).
+*The Alphabet of Ben Sira* (*see above*, [p. xiv](ohpe02.htm#page_xiv).md).
 
 ‏אוקיר לאסיא עד דלא תצטריך ליה‎
 
@@ -133,7 +133,7 @@ MS. Bodl. ‏תתן לך ידא דהוה שביעא ולא דהוה בפיו ו�
 LXXIII\.
 
 With regard to the second Alphabet, see the Preface, [p.
-xiv](ohpe02.htm#page_xiv).
+xiv](ohpe02.htm#page_xiv.md).
 
 The first line (letter ‏א‎) is similar to No. XLIII in our list of
 proverbs. Lines 2 (‏ב‎), 5 (‏ה‎), 16 (‏ע‎), 17 (‏פ‎) are from No. XVI in
@@ -204,4 +204,4 @@ Better the grave than a fall to poverty.
 
 ------------------------------------------------------------------------
 
-[Next: Ecclesiasticus XXXIX 15 to XLIX 11](ohpe06)
+[Next: Ecclesiasticus XXXIX 15 to XLIX 11](ohpe06.md)

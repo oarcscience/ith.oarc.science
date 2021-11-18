@@ -1,22 +1,22 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth107)  [Next](toth109) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth107)  [Next](toth109.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
 ------------------------------------------------------------------------
 
-## 105. HOW AN ORAÍBI CHIEF PUNISHED HIS PEOPLE. <span id="fr_194"></span>[1](#fn_192)
+## 105. HOW AN ORAÍBI CHIEF PUNISHED HIS PEOPLE. <span id="fr_194"></span>[1](#fn_192.md)
 
 A long time ago the people were living in Oraíbi. They were also living
 in Wálpi which, however, then was not on top of the mesa, but somewhat
@@ -63,10 +63,10 @@ villages to destroy their people.
 
 ### Footnotes
 
-<span id="fn_192"></span>[255:1](toth108.htm#fr_194) Told by Sik'ahpiki
+<span id="fn_192"></span>[255:1](toth108.htm#fr_194.md) Told by Sik'ahpiki
 (Shupaúlavi).
 
 ------------------------------------------------------------------------
 
 [Next: 106. A Katcina Race Contest Between the Wálpi and the
-Oraíbi](toth109)
+Oraíbi](toth109.md)

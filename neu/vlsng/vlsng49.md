@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index) 
-[Index](index)  [Previous](vlsng48)  [Next](vlsng50) 
+[Intangible Textual Heritage](../../index)  [Sagas & Legends](../index.md) 
+[Index](index)  [Previous](vlsng48)  [Next](vlsng50.md) 
 
 ------------------------------------------------------------------------
 
@@ -135,4 +135,4 @@ Sink adown, O giant-wife!"
 
 ------------------------------------------------------------------------
 
-[Next: Appendix V: Fragments Of The Lay Of Brynhild](vlsng50)
+[Next: Appendix V: Fragments Of The Lay Of Brynhild](vlsng50.md)

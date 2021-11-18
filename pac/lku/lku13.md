@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](lku12)  [Next](lku14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](lku12)  [Next](lku14.md) 
 
 ------------------------------------------------------------------------
 
@@ -560,8 +560,8 @@ born.
 
 ### Footnotes
 
-<span id="fn_2"></span>[65:1](lku13.htm#fr_4) Triplets.
+<span id="fn_2"></span>[65:1](lku13.htm#fr_4.md) Triplets.
 
 ------------------------------------------------------------------------
 
-[Next: A Branch of the Twelfth Era](lku14)
+[Next: A Branch of the Twelfth Era](lku14.md)

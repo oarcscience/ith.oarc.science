@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](dow70)  [Next](dow72) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](dow70)  [Next](dow72.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DPTXIK/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Dawn of the World*, by C. Hart Merriam, \[1910\], at Intangible
 Textual Heritage
 
@@ -21,7 +21,7 @@ Textual Heritage
 <span id="img_23300"></span> <span align="CENTER">
 [![&lt;i&gt;Che-ha-lum'-che&lt;/i&gt; the Rock Giant catching People to
 eat](tn/23300.jpg)  
-Click to enlarge](img/23300.jpg)  
+Click to enlarge](img/23300.jpg.md)  
 *Che-ha-lum'-che* the Rock Giant catching People to eat  
 </span>
 
@@ -53,13 +53,13 @@ Indians never throw their dead into caves. If they did,
 <span id="page_232">p. 232</span>
 
 man who would put a dead person in a cave would be killed by the other
-Indians. <span id="fr_28"></span>[30](#fn_28)
+Indians. <span id="fr_28"></span>[30](#fn_28.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_28"></span>[232:30](dow71.htm#fr_28) Many human skulls and
+<span id="fn_28"></span>[232:30](dow71.htm#fr_28.md) Many human skulls and
 skeletons have been found in eaves along the west slope of the middle
 Sierra. The presence of human remains in these caves has been
 interpreted to mean that the Indians now living in the region practise
@@ -84,4 +84,4 @@ this takes us back a very long way into the past.
 
 ------------------------------------------------------------------------
 
-[Next: *Oo'-le* The Rock Giant of the Chowchilla Foothills](dow72)
+[Next: *Oo'-le* The Rock Giant of the Chowchilla Foothills](dow72.md)

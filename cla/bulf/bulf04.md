@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index) 
-[Previous](bulf03) [Next](bulf05) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Legends & Sagas](../../neu/index)  [Index](index.md) 
+[Previous](bulf03) [Next](bulf05.md) 
 
 # CHAPTER V.
 
@@ -275,4 +275,4 @@ water-nymph says:
 
 ------------------------------------------------------------------------
 
-Next: [CHAPTER VI. Midas- Baucis And Philemon.](bulf05)
+Next: [CHAPTER VI. Midas- Baucis And Philemon.](bulf05.md)

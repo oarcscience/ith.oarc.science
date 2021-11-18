@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [New Thought](../index) 
-[Index](index)  [Previous](elms02)  [Next](elms04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [New Thought](../index.md) 
+[Index](index)  [Previous](elms02)  [Next](elms04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Edinburgh Lectures on Mental Science*, by Thomas Troward, \[1909\],
 at Intangible Textual Heritage
 
@@ -193,6 +193,6 @@ are necessary to the formation of a substantial entity.
 
 ------------------------------------------------------------------------
 
-[Next: II.—The Higher Mode of Intelligence Controls the Lower](elms04)
+[Next: II.—The Higher Mode of Intelligence Controls the Lower](elms04.md)
 
 </div>

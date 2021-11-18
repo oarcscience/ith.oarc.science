@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge03) 
-[Next](pge05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge03.md) 
+[Next](pge05.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ apologists of the custom make such frequent reference.
 
 ------------------------------------------------------------------------
 
-[Next: III. The Romance of Achilles and Patroclus](pge05)
+[Next: III. The Romance of Achilles and Patroclus](pge05.md)

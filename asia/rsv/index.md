@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rsv00)
+[Contents](#contents)    [Start Reading](rsv00.md)
 
 Vietnam, because of historical and geographical factors, has an
 extrordinary number of different religious influences, including
@@ -37,57 +37,57 @@ tells quite a story about the US military's attempt to win Vietnamese
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page and Front Matter](rsv00)  
-[Contents](rsv01)  
-[Letter of transmittal](rsv02)  
-[Introduction](rsv03)  
-[I. Animism](rsv04)  
-[II. Vietnamese Taoism](rsv05)  
-[III. Confucianism in Vietnam](rsv06)  
-[IV. Hinduism in Vietnam](rsv07)  
-[V. Buddhism in Vietnam](rsv08)  
-[VI. Islam](rsv09)  
-[VII. Roman Catholicism in South Vietnam](rsv10)  
-[VIII. Protestantism in South Vietnam](rsv11)  
-[IX. Cao Dai](rsv12)  
-[X. Phat Giao Hoa Hao](rsv13)  
+<span id="contents"></span> [Title Page and Front Matter](rsv00.md)  
+[Contents](rsv01.md)  
+[Letter of transmittal](rsv02.md)  
+[Introduction](rsv03.md)  
+[I. Animism](rsv04.md)  
+[II. Vietnamese Taoism](rsv05.md)  
+[III. Confucianism in Vietnam](rsv06.md)  
+[IV. Hinduism in Vietnam](rsv07.md)  
+[V. Buddhism in Vietnam](rsv08.md)  
+[VI. Islam](rsv09.md)  
+[VII. Roman Catholicism in South Vietnam](rsv10.md)  
+[VIII. Protestantism in South Vietnam](rsv11.md)  
+[IX. Cao Dai](rsv12.md)  
+[X. Phat Giao Hoa Hao](rsv13.md)  
 <span id="section_000"></span>
 
 ### XI. Religion in Everyday Life
 
-[A. Scenes Of Vietnamese Life](rsv14)  
-[B. Religious Practices and Activities](rsv15)  
-[C. Religious Discipline and Concepts Affecting Behavior](rsv16)  
+[A. Scenes Of Vietnamese Life](rsv14.md)  
+[B. Religious Practices and Activities](rsv15.md)  
+[C. Religious Discipline and Concepts Affecting Behavior](rsv16.md)  
 <span id="section_001"></span>
 
 ### D. Examples of Religion in Everyday Life
 
-[A Religiously Influenced Culture](rsv17)  
-[Vietnamese Village--Homes](rsv18)  
-[Vietnamese Village Dinh, Market, School](rsv19)  
-[Women](rsv20)  
-[Marriage](rsv21)  
-[Choosing Life's Partner](rsv22)  
-[Consulting the Astrologers](rsv23)  
-[Effects of Stars on Choosing Marriage Partners](rsv24)  
-[The Vietnamese and Children](rsv25)  
-[Rearing Vietnamese Children](rsv26)  
-[Legend of Quan-Am](rsv27)  
-[Fragrant Incense of Aloes Wood](rsv28)  
-[Joss Sticks](rsv29)  
+[A Religiously Influenced Culture](rsv17.md)  
+[Vietnamese Village--Homes](rsv18.md)  
+[Vietnamese Village Dinh, Market, School](rsv19.md)  
+[Women](rsv20.md)  
+[Marriage](rsv21.md)  
+[Choosing Life's Partner](rsv22.md)  
+[Consulting the Astrologers](rsv23.md)  
+[Effects of Stars on Choosing Marriage Partners](rsv24.md)  
+[The Vietnamese and Children](rsv25.md)  
+[Rearing Vietnamese Children](rsv26.md)  
+[Legend of Quan-Am](rsv27.md)  
+[Fragrant Incense of Aloes Wood](rsv28.md)  
+[Joss Sticks](rsv29.md)  
 [Use of Votive Paper as an Act of Worship in Vietnamese
-Temples](rsv30)  
-[The Lotus](rsv31)  
-[The Meaning and Importance of TET](rsv32)  
-[The Dragon in Vietnam](rsv33)  
-[Veneration of Vietnamese Benefactors](rsv34)  
-[Ancestor Worship](rsv35)  
-[Ancestor Worship--Worship of Nham-Dien](rsv36)  
-[Vietnamese Self-Sacrifice Customs](rsv37)  
+Temples](rsv30.md)  
+[The Lotus](rsv31.md)  
+[The Meaning and Importance of TET](rsv32.md)  
+[The Dragon in Vietnam](rsv33.md)  
+[Veneration of Vietnamese Benefactors](rsv34.md)  
+[Ancestor Worship](rsv35.md)  
+[Ancestor Worship--Worship of Nham-Dien](rsv36.md)  
+[Vietnamese Self-Sacrifice Customs](rsv37.md)  
 
  
 
-[Selected Bibliography](rsv38)  
+[Selected Bibliography](rsv38.md)  
 [Appendix A. Foreign Voluntary Agencies Operating in Vietnam with
-Resident Representative](rsv39)  
-[Appendix B. Guidelines for Understanding](rsv40)  
+Resident Representative](rsv39.md)  
+[Appendix B. Guidelines for Understanding](rsv40.md)  

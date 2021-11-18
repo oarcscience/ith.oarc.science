@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417939699/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -43,27 +43,27 @@ procreation and raise spiritual awareness. This second edition was
 published in 1903.
 
 This e-book has been prepared by
-[www.reuniting.info](https://www.reuniting.info/), 2006, a site that has
+[www.reuniting.info](https://www.reuniting.info/.md), 2006, a site that has
 a lot of information closely related to the topic of this book.
 
 For more on Stockham, see "[Finding the Kingdom of Heaven in Your Own
-Hearts](https://www.reuniting.info/wisdom/stockham_karezza)".
+Hearts](https://www.reuniting.info/wisdom/stockham_karezza.md)".
 
  
 
 ------------------------------------------------------------------------
 
-[Title Page](eom00)  
-[Table of Contents](eom01)  
-[Greeting](eom02)  
-[Chap. I: Ethics of Marriage](eom03)  
-[Chap. 2: Karezza](eom04)  
-[Chap. 3: Attainment possible](eom05)  
-[Chap. 4: Health](eom06)  
-[Chap. 5: Parenthood](eom07)  
-[Chap. 6: Control of Procreative Powers](eom08)  
-[Chap. 7: Free Motherhood](eom09)  
-[Chap. 8: Married and Mated](eom10)  
-[Chap. 9: Procreation of Thought](eom11)  
-[Chap. 10: Spiritual Growth](eom12)  
-[Chap. Corroboration:](eom13)  
+[Title Page](eom00.md)  
+[Table of Contents](eom01.md)  
+[Greeting](eom02.md)  
+[Chap. I: Ethics of Marriage](eom03.md)  
+[Chap. 2: Karezza](eom04.md)  
+[Chap. 3: Attainment possible](eom05.md)  
+[Chap. 4: Health](eom06.md)  
+[Chap. 5: Parenthood](eom07.md)  
+[Chap. 6: Control of Procreative Powers](eom08.md)  
+[Chap. 7: Free Motherhood](eom09.md)  
+[Chap. 8: Married and Mated](eom10.md)  
+[Chap. 9: Procreation of Thought](eom11.md)  
+[Chap. 10: Spiritual Growth](eom12.md)  
+[Chap. Corroboration:](eom13.md)  

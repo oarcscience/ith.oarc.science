@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fwe10)  [Next](fwe12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fwe10)  [Next](fwe12.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Festivals of Western Europe*, by Dorothy Gladys Spicer, \[1958\], at
 Intangible Textual Heritage
 
@@ -1031,4 +1031,4 @@ traditional presents of wine, apples, sausages or nuts.
 
 ------------------------------------------------------------------------
 
-[Next: 10. Festivals of Spain](fwe12)
+[Next: 10. Festivals of Spain](fwe12.md)

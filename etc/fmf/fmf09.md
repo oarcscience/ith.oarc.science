@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](fmf08)  [Next](fmf10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](fmf08)  [Next](fmf10.md) 
 
 ------------------------------------------------------------------------
 
@@ -55,4 +55,4 @@ MORAL: Don't Blame the Druggist.
 
 ------------------------------------------------------------------------
 
-[Next: The Fable of Uncle Silas and The Matrimonial Game](fmf10)
+[Next: The Fable of Uncle Silas and The Matrimonial Game](fmf10.md)

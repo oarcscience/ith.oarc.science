@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](had05)  [Next](had07) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](had05)  [Next](had07.md) 
 
 ------------------------------------------------------------------------
 
@@ -319,4 +319,4 @@ characterized their ancestors, ignorance is now rampant.\]
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV PURIFICATION](had07)
+[Next: Chapter IV PURIFICATION](had07.md)

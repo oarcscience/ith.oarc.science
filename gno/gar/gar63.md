@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](gar62)  [Next](gar64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](gar62)  [Next](gar64.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002BA5FIO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Gnostics and Their Remains*, by Charles William King, \[1887\], at
 Intangible Textual Heritage
 
@@ -57,7 +57,7 @@ the progress of civil society: thus, *Man's Fall* signified political
 slavery; *Redemption* his restoration to liberty and equality.
 
 VIII\. That all actions were indifferent, provided only they were done
-for the good of the Order; <span id="fr_252"></span>[\*](#fn_250) there
+for the good of the Order; <span id="fr_252"></span>[\*](#fn_250.md) there
 being no such thing, absolutely, as vice or virtue.
 
 It will be seen that the principle running through these "Degrees" is
@@ -103,7 +103,7 @@ order.
 
 VIII\. The Donati and Oblati.
 
-  IX. The Affiliati. <span id="fr_253"></span>[†](#fn_251)
+  IX. The Affiliati. <span id="fr_253"></span>[†](#fn_251.md)
 
 <span id="page_412">p. 412</span>
 
@@ -180,11 +180,11 @@ the French *maison* in its common sense.
 
 ### Footnotes
 
-<span id="fn_250"></span>[411:\*](gar63.htm#fr_252) The maxim of the
+<span id="fn_250"></span>[411:\*](gar63.htm#fr_252.md) The maxim of the
 Jesuits "that implicit obedience includes the commission of a *mortal*
 sin."
 
-<span id="fn_251"></span>[411:†](gar63.htm#fr_253) The benefits of
+<span id="fn_251"></span>[411:†](gar63.htm#fr_253.md) The benefits of
 affiliation were obtained at the small annual fee of two or three
 *deniers*. One of the <span id="page_412">p. 412</span> chief causes of
 Philippe le Bel's hatred against the order was their refusal, in the
@@ -192,4 +192,4 @@ early part of his reign to admit him into this class.
 
 ------------------------------------------------------------------------
 
-[Next: The Sufis](gar64)
+[Next: The Sufis](gar64.md)

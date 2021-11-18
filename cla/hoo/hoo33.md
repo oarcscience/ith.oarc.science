@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](hoo32)  [Next](hoo34) 
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](hoo32)  [Next](hoo34.md) 
 
 ------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@
 DAUGHTER of Jove, almighty and divine,  
 Come, blessed queen, and to these rites incline:  
 Only-begotten, Pluto's honor'd wife,  <span
-id="fr_83"></span>[3](#fn_83)  
+id="fr_83"></span>[3](#fn_83.md)  
 O venerable Goddess, source of life:  
 'Tis thine in earth's profundities to dwell, 5  
 Fast by the wide and dismal gates of hell:  
@@ -34,10 +34,10 @@ Sweet to the smell, and pleasing to the sight:
 Whose holy form in budding fruits we view,  
 Earth's vig'rous offspring of a various hue: 20  
 Espous'd in Autumn: life and death alone  <span
-id="fr_84"></span>[21](#fn_84)  
+id="fr_84"></span>[21](#fn_84.md)  
 To wretched mortals from thy power is known:  
 For thine the task according to thy will,  <span
-id="fr_85"></span>[23](#fn_85)  
+id="fr_85"></span>[23](#fn_85.md)  
 Life to produce, and all that lives to kill.
 
 <span id="page_155">p. 155</span>
@@ -55,12 +55,12 @@ Where happy spirits dwell, and Pluto reigns.
 
 ### Footnotes
 
-<span id="fn_83"></span>[153:3](hoo33.htm#fr_83) Ver. 3\]
+<span id="fn_83"></span>[153:3](hoo33.htm#fr_83.md) Ver. 3\]
 *Only-begotten*. Καὶ γὰρ ὁ Θεολογός την κόρην ΜΟΥΝΟ-ΓΕΝΕΙΑΝ ἔιαθε
 προσαγορεύειν. Proc. Tim. 2 extra p. 139. 9. i.e. "I see that the
 theologist (meaning Orpheus) calls Proserpine, "Only-begotten".
 
-<span id="fn_84"></span>[154:21](hoo33.htm#fr_84) Ver. 21.\] *Espous'd
+<span id="fn_84"></span>[154:21](hoo33.htm#fr_84.md) Ver. 21.\] *Espous'd
 in Autumn*. We have already observed in the Dissertation, that the
 Orphic theologers considered a difference of sex in the divinities;
 attributing the male to some, and the female to others. Now the mutual
@@ -78,7 +78,7 @@ the animal life, and secretly united with Pluto, or the intellectual
 part of the earth's soul; from whom she receives the divine light of
 mind, and copious streams of the nectar of divine knowledge.
 
-<span id="fn_85"></span>[154:23](hoo33.htm#fr_85) Ver. 23.\] *For thine
+<span id="fn_85"></span>[154:23](hoo33.htm#fr_85.md) Ver. 23.\] *For thine
 the task*, &c. Proclus, in Theol. Plat. p. 371, informs us, that,
 according to the Eleusinian mysteries, Proserpine together with Pluto,
 governs terrestrial concerns, and the recesses of the earth: that she
@@ -89,4 +89,4 @@ line.
 
 ------------------------------------------------------------------------
 
-[Next: XXIX: To Bacchus](hoo34)
+[Next: XXIX: To Bacchus](hoo34.md)

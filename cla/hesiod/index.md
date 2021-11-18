@@ -10,18 +10,18 @@ titleh1: "The Works of Hesiod"
 ---
 <span class="c_da"></span>
 
-<span class="c_e"> <span class="c_t">[Works and Days](works)</span>,
+<span class="c_e"> <span class="c_t">[Works and Days](works.md)</span>,
 <span class="c_a">Hugh G. Evelyn-White</span>, tr. \[<span
 class="c_d">1914</span>\]  
 </span>
 
-<span class="c_e"> <span class="c_t">[The Theogony](theogony)</span>,
+<span class="c_e"> <span class="c_t">[The Theogony](theogony.md)</span>,
 <span class="c_a">Hugh G. Evelyn-White</span>, tr. \[<span
 class="c_d">1914</span>\]  
 </span>
 
 <span class="c_e"> <span class="c_t">[The Theogony in
-Greek](gtheo)</span>  
+Greek](gtheo.md)</span>  
 </span>
 
 <span class="c_da"></span>
@@ -46,8 +46,8 @@ extols hard work, and lists lucky and unlucky days of the month for
 various activities.
 
 The Theogony presents the descent of the gods, and, along with [the
-works of Homer](../homer/index), is one of the key source documents for
-Greek mythology; it is the [Genesis](../../bib/kjv/gen) of Greek
+works of Homer](../homer/index.md), is one of the key source documents for
+Greek mythology; it is the [Genesis](../../bib/kjv/gen.md) of Greek
 mythology. It gives the clearest presentation of the Greek pagan
 creation myth, starting with the creatrix goddesses Chaos and Earth,
 from whom descended all the gods and men; it mentions hundreds of

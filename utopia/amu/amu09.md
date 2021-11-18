@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Utopia](../index) 
-[Index](index)  [Previous](amu08)  [Next](amu10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Utopia](../index.md) 
+[Index](index)  [Previous](amu08)  [Next](amu10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0141441127/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -154,7 +154,7 @@ time we faced the riddle of the problems of marriage and motherhood.
 
 The Modern Utopia is not only to be a sound and happy World State, but
 it is to be one progressing from good to better. But as Malthus  <span
-id="fr_20"></span>[21](#fn_20) demonstrated for all time, a State whose
+id="fr_20"></span>[21](#fn_20.md) demonstrated for all time, a State whose
 population continues to increase in obedience to unchecked instinct, can
 progress only from bad to worse. From the view of human comfort and
 happiness, the increase of population that occurs at each advance in
@@ -209,7 +209,7 @@ prescribed in a Modern Utopia?
 
 Let us set aside at once all nonsense of the sort one hears in certain
 quarters about the human stud farm.  <span
-id="fr_21"></span>[22](#fn_21) State breeding of the population was a
+id="fr_21"></span>[22](#fn_21.md) State breeding of the population was a
 reasonable proposal for Plato to make, in view of the biological
 knowledge of his time and the purely tentative nature of his
 metaphysics; but from any one in the days after Darwin, it is
@@ -656,7 +656,7 @@ The men are to rule and fight and toil; the women are to support
 motherhood in a state of natural inferiority. The trend of evolutionary
 forces through long centuries of human development has been on the whole
 in this second direction, has been towards differentiation.  <span
-id="fr_22"></span>[23](#fn_22) An adult white woman differs far more
+id="fr_22"></span>[23](#fn_22.md) An adult white woman differs far more
 from a white man than a negress or pigmy woman from her equivalent male.
 The education, the mental disposition, of a white or Asiatic woman,
 reeks of sex; her modesty, her decorum is not to ignore sex but to
@@ -731,7 +731,7 @@ based on such considerations. It will be only consistent, therefore, to
 refuse recognition in the marriage contract to any financial obligation
 between husband and wife, or any settlements qualifying that contract,
 except when they are in the nature of accessory provision for the
-prospective children.  <span id="fr_23"></span>[24](#fn_23) So far the
+prospective children.  <span id="fr_23"></span>[24](#fn_23.md) So far the
 Utopian State will throw its weight upon the side of those who advocate
 the independence of women and their conventional equality with men.
 
@@ -750,10 +750,10 @@ Religious teaching and literature may affect these; customs may arise;
 certain types of relationship may involve social isolation; the justice
 of the statesman is blind to such things. It may be urged that according
 to Atkinson's illuminating analysis  <span
-id="fr_24"></span>[25](#fn_24) the control of love-making was the very
+id="fr_24"></span>[25](#fn_24.md) the control of love-making was the very
 origin of the human community. In Utopia, nevertheless, love-making is
 no concern of the State's beyond the province that the protection of
-children covers.  <span id="fr_25"></span>[26](#fn_25) Change of
+children covers.  <span id="fr_25"></span>[26](#fn_25.md) Change of
 function is one of the ruling facts in life, the sac that was in our
 remotest ancestors a swimming bladder is now a lung, and the State which
 was once, perhaps, no more than the jealous and tyrannous will of the
@@ -786,7 +786,7 @@ of a poetic devotion to the public idea, a devotion of which the mind of
 Aristotle, as his criticisms of Plato show, was incapable, as a
 substitute for the warm and tender but illiberal emotions of the home.
 But while the Church made the alternative to family ties celibacy  <span
-id="fr_26"></span>[27](#fn_26) and participation in an organisation,
+id="fr_26"></span>[27](#fn_26.md) and participation in an organisation,
 Plato was far more in accordance with modern ideas in perceiving the
 disadvantage that would result from precluding the nobler types of
 character from offspring. He sought a way to achieve progeny, therefore,
@@ -832,7 +832,7 @@ in prohibiting institutions which no sane people could ever want to
 abuse. It is claimed—though the full facts are difficult to
 ascertain—that a group marriage of over two hundred persons was
 successfully organised by John Humphrey Noyes at Oneida Creek.  <span
-id="fr_27"></span>[28](#fn_27) It is fairly certain in the latter case
+id="fr_27"></span>[28](#fn_27.md) It is fairly certain in the latter case
 that there was no "promiscuity," and that the members mated for variable
 periods, and often for life, within the group. The documents are
 reasonably clear upon that point. This Oneida community was, in fact, a
@@ -865,7 +865,7 @@ be rare as not to come at all under our direct observation during our
 Utopian journeyings. But in one sense, of course, in the sense that the
 State guarantees care and support for all properly born children, our
 entire Utopia is to be regarded as a comprehensive marriage group.
- <span id="fr_28"></span>[29](#fn_28)
+ <span id="fr_28"></span>[29](#fn_28.md)
 
 It must be remembered that a modern Utopia must differ from the Utopias
 of any preceding age in being world-wide it is not, therefore, to be the
@@ -889,25 +889,25 @@ questions affecting the relations of the sexes.
 
 ### Footnotes
 
-<span id="fn_20"></span>[21](amu09.htm#fr_20) *Essay on the Principles
+<span id="fn_20"></span>[21](amu09.htm#fr_20.md) *Essay on the Principles
 of Population*.
 
-<span id="fn_21"></span>[22](amu09.htm#fr_21) See *Mankind in the
+<span id="fn_21"></span>[22](amu09.htm#fr_21.md) See *Mankind in the
 Making*, ch. ii.
 
-<span id="fn_22"></span>[23](amu09.htm#fr_22) See Havelock Ellis's *Man
+<span id="fn_22"></span>[23](amu09.htm#fr_22.md) See Havelock Ellis's *Man
 and Woman*.
 
-<span id="fn_23"></span>[24](amu09.htm#fr_23) Unqualified gifts for love
+<span id="fn_23"></span>[24](amu09.htm#fr_23.md) Unqualified gifts for love
 by solvent people will, of course, be quite possible and permissible,
 unsalaried services and the like, provided the standard of life is
 maintained and the joint income of the couple between whom the services
 hold does not sink below twice the minimum wage.
 
-<span id="fn_24"></span>[25](amu09.htm#fr_24) See Lang and Atkinson's
+<span id="fn_24"></span>[25](amu09.htm#fr_24.md) See Lang and Atkinson's
 *Social Origins and Primal Law*.
 
-<span id="fn_25"></span>[26](amu09.htm#fr_25) It cannot be made too
+<span id="fn_25"></span>[26](amu09.htm#fr_25.md) It cannot be made too
 clear that though the control of morality is outside the law the state
 must maintain a general decorum, a systematic suppression of powerful
 and moving examples, and of incitations and temptations of the young and
@@ -918,21 +918,21 @@ the like, when they lean towards adolescent interests, will encounter a
 specially disagreeable disposition in the law, over and above the
 treatment of their general dishonesty.
 
-<span id="fn_26"></span>[27](amu09.htm#fr_26) The warm imagination of
+<span id="fn_26"></span>[27](amu09.htm#fr_26.md) The warm imagination of
 Campanella, that quaint Calabrian monastic, fired by Plato, reversed
 this aspect of the Church.
 
-<span id="fn_27"></span>[28](amu09.htm#fr_27) See John H. Noyes's
+<span id="fn_27"></span>[28](amu09.htm#fr_27.md) See John H. Noyes's
 *History of American Socialisms* and his writings generally. The bare
 facts of this and the other American experiments are given, together
 with more recent matter, by Morris Hillquirt, in *The History of
 Socialism in the United States*.
 
-<span id="fn_28"></span>[29](amu09.htm#fr_28) The Thelma of Rabelais,
+<span id="fn_28"></span>[29](amu09.htm#fr_28.md) The Thelma of Rabelais,
 with its principle of "Fay ce que vouldras" within the limits of the
 order, is probably intended to suggest a Platonic complex marriage after
 the fashion of our interpretation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter Seven](amu10)
+[Next: Chapter Seven](amu10.md)

@@ -1,5 +1,5 @@
-[Sacred-Texts](../../../index) [Native American](../../index) [South
-American](../index) [Index](index) [Return to Text](aflg17.htm#pl5)
+[Sacred-Texts](../../../index) [Native American](../../index.md) [South
+American](../index) [Index](index) [Return to Text](aflg17.htm#pl5.md)
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ American](../index) [Index](index) [Return to Text](aflg17.htm#pl5)
 
 ------------------------------------------------------------------------
 
-[Return to Text](aflg17.htm#pl5)
+[Return to Text](aflg17.htm#pl5.md)

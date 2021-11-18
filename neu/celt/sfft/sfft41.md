@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](sfft40)  [Next](sfft42) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](sfft40)  [Next](sfft42.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0026FCJ10/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Scottish Fairy and Folk Tales*, by George Douglas, \[1901\], at
 Intangible Textual Heritage
 
@@ -18,7 +18,7 @@ Intangible Textual Heritage
 
 <span id="page_133">p. 133</span>
 
-### THE TWO YOUNG PLOUGHMEN. <span id="fr_61"></span>[1](#fn_61)
+### THE TWO YOUNG PLOUGHMEN. <span id="fr_61"></span>[1](#fn_61.md)
 
 "You have been often at the Gatehouse," said Johnny Nicholson; "well,
 you'll mind a flat piece of land near Enrick farm; well, that was once a
@@ -44,9 +44,9 @@ out, and all was darkness."
 
 ### Footnotes
 
-<span id="fn_61"></span>[133:1](sfft41.htm#fr_61) Campbell, *Popular
+<span id="fn_61"></span>[133:1](sfft41.htm#fr_61.md) Campbell, *Popular
 Tales of the West Highlands*.
 
 ------------------------------------------------------------------------
 
-[Next: The Smith and the Fairies](sfft42)
+[Next: The Smith and the Fairies](sfft42.md)

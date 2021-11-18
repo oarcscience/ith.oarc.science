@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southeast](../index)  [Index](index) 
-[Previous](wsgr16)  [Next](wsgr18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southeast](../index)  [Index](index.md) 
+[Previous](wsgr16)  [Next](wsgr18.md) 
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ a good chance to swim out upon the bushes and see if they
 <span id="img_08800"></span>
 
 [![](tn/08800.jpg)  
-Click to enlarge](img/08800.jpg)
+Click to enlarge](img/08800.jpg.md)
 
 <span id="page_89">p. 89</span>
 
@@ -71,4 +71,4 @@ the garfish.
 
 ------------------------------------------------------------------------
 
-[Next: Why Hummingbirds Drink Only Dew](wsgr18)
+[Next: Why Hummingbirds Drink Only Dew](wsgr18.md)

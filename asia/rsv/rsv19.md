@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Index](index)  [Previous](rsv18)  [Next](rsv20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Index](index)  [Previous](rsv18)  [Next](rsv20.md) 
 
 ------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ normally be the most elaborate structure in the village. As the
 foreigner listens in the quiet of the day, the sound of the monk's
 almost monotonous prayers and sermon recitations, with or without
 audience, will be broken from time to time with the
-[rhythmic](errata.htm#29) beat of the <u>mo</u>, which is a wooden
+[rhythmic](errata.htm#29.md) beat of the <u>mo</u>, which is a wooden
 instrument normally found on or near the altar, or the ringing sound of
 the altar gong being struck with a small wooden mallet. If the
 government does not have a school in the village, the chances are that
@@ -86,4 +86,4 @@ doing you will establish friendships that could save your life.
 
 ------------------------------------------------------------------------
 
-[Next: Women](rsv20)
+[Next: Women](rsv20.md)

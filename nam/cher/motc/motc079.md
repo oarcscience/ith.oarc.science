@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc078) 
-[Next](motc080) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc078.md) 
+[Next](motc080.md) 
 
 ------------------------------------------------------------------------
 
@@ -61,4 +61,4 @@ in safety.
 
 ------------------------------------------------------------------------
 
-[Next: 80. The Spirit Defenders Of Nïkwäsï'](motc080)
+[Next: 80. The Spirit Defenders Of Nïkwäsï'](motc080.md)

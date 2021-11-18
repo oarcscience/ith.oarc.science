@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](boe07)  [Next](boe09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](boe07)  [Next](boe09.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,7 +14,7 @@ they
 
 <span id="img_fig030"></span> ![FIGURE 30. &lt;i&gt;The Earth
 Floating&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Flammarion's Astronomical
-Myths&lt;/i&gt;, 1877.)](img/fig030.jpg)  
+Myths&lt;/i&gt;, 1877.)](img/fig030.jpg.md)  
 FIGURE 30. *The Earth Floating*.  
 (From *Flammarion's Astronomical Myths*, 1877.)
 
@@ -33,7 +33,7 @@ childish notion if we will, but it may very well be that no great
 <span id="img_pl02"></span>
 
 [![PLATE II: SUSTAINERS OF THE EARTH](tn/pl02.jpg)  
-Click to enlarge](img/pl02.jpg)  
+Click to enlarge](img/pl02.jpg.md)  
 PLATE II: SUSTAINERS OF THE EARTH  
 
 A. *Quetzalcoatl upholding the Heavens. From an original Mexican
@@ -80,7 +80,7 @@ do with giving men the idea that the Earth's shape might also be flat
 and round, as the circular defining line of the horizon. Again, if the
 Moon was like a leaf, floating in the heavenly water, the Earth, like a
 leaf, floated on the world water, and like a leaf in water would develop
-roots. Ages ago, as we have already noted ([p. 14](boe06.htm#page_14)),
+roots. Ages ago, as we have already noted ([p. 14](boe06.htm#page_14).md),
 the ancient world, India, China,
 
 <span id="page_40">p. 40</span>
@@ -94,7 +94,7 @@ as firm as the
 
 <span id="img_fig031"></span> ![FIGURE 31. &lt;i&gt;The Earth with
 Roots&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Flammarion's Astronomical
-Myths&lt;/i&gt;, 1877.)](img/fig031.jpg)  
+Myths&lt;/i&gt;, 1877.)](img/fig031.jpg.md)  
 FIGURE 31. *The Earth with Roots*.  
 (From *Flammarion's Astronomical Myths*, 1877.)
 
@@ -103,7 +103,7 @@ those of water plants, nevertheless it was an anchorage of the Earth to
 something outside itself.
 
 Naturally evolving from this would rise an Earth set on solid pillars,
-an established, firmly founded disc. [Fig. 32](#img_fig032) is an old
+an established, firmly founded disc. [Fig. 32](#img_fig032.md) is an old
 picture of just such an Earth--"the Earth of the Vedic priests." Its
 upper side is its only habitable side; its under side rests on twelve
 columns, these columns resting in turn on the Twelve Great Sacrifices of
@@ -120,7 +120,7 @@ though there was another speculation that it might reach the
 
 <span id="img_fig032"></span> ![FIGURE 32. &lt;i&gt;The Earth of the
 Vedic Priests&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Flammarion's
-Astronomical Myths&lt;/i&gt;, 1877.)](img/fig032.jpg)  
+Astronomical Myths&lt;/i&gt;, 1877.)](img/fig032.jpg.md)  
 FIGURE 32. *The Earth of the Vedic Priests*.  
 (From *Flammarion's Astronomical Myths*, 1877.)
 
@@ -132,7 +132,7 @@ But the twelve pillars, quite as little as the roots of the Earth-island
 leaf, failed to satisfy man's wonderings over the problem of what
 supported the Earth, or on what the Earth rested. One of the old
 familiar figures of Earth is that hemispherical Earth of the Hindus
-([Plate II, C](#img_pl02)) supported on the backs of four elephants,
+([Plate II, C](#img_pl02).md) supported on the backs of four elephants,
 which stand on the hemispherical shell of a gigantic tortoise floating
 on
 
@@ -170,7 +170,7 @@ another variation,
 
 [![PLATE III. ATLAS SUPPORTING THE UNIVERSE&lt;br&gt; (From Margarita
 Philosophica, 1517)](tn/pl03.jpg)  
-Click to enlarge](img/pl03.jpg)  
+Click to enlarge](img/pl03.jpg.md)  
 PLATE III. ATLAS SUPPORTING THE UNIVERSE  
 (From Margarita Philosophica, 1517)  
 
@@ -199,7 +199,7 @@ mythologies, we come upon some lurking or developed concept that the
 burden of supporting both Earth and Heaven rests on the shoulders of
 man. In countries as widely separated by race and by oceans as Greece
 and Mexico, we find an "Atlas of the World," a sustainer of the universe
-([Plate II](#img_pl02), A and B). In Greece it is Atlas the "Endurer,"
+([Plate II](#img_pl02), A and B.md). In Greece it is Atlas the "Endurer,"
 brother of Prometheus the rebel bringer-of-fire, who supports the globe.
 Son of Poseidon, he knew the depths of the whole Ocean-world; it was his
 task to guard the pillars which held Heaven and Earth apart. According
@@ -229,7 +229,7 @@ one of man's few entirely admirable qualities, his lonely necessity to
 share, or to believe that he shared in the work of carrying on the
 universe. And it found expression in countless ways.
 
-A curious old drawing of the Middle Ages ([Plate III](#img_pl03)) shows
+A curious old drawing of the Middle Ages ([Plate III](#img_pl03).md) shows
 how the Atlas-myth persisted even into modern time. The Earth still
 occupies the centre of the universe, with all the other heavenly bodies
 revolving about it. From pole to pole of the firmament--his head marking
@@ -300,7 +300,7 @@ vision in the Microcosm&lt;/i&gt; (&lt;i&gt;or soul of Man&lt;/i&gt;)
 &lt;i&gt;of the location of their objects, and of the manner of
 discerning them&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Microcosmi
 Historia&lt;/i&gt;; Robert Fludd, 1619)](tn/pl04.jpg)  
-Click to enlarge](img/pl04.jpg)  
+Click to enlarge](img/pl04.jpg.md)  
 PLATE IV. *A very clear demonstration of the three kinds of vision in
 the Microcosm* (*or soul of Man*) *of the location of their objects, and
 of the manner of discerning them*.  
@@ -320,7 +320,7 @@ circular form. In an old book of 1848, *Thoughts on Some Important
 Points Relating to the System of the World*, by John Nichol, there is a
 very odd "Figure of the Universe," based on Herschel's gauging system,
 which illustrates as well as any other the method employed ([Fig.
-33](#img_fig033))
+33](#img_fig033).md)
 
 If, says Nichol, we were in the centre of a circular group, it would
 mean that whether we looked through the line C A or the line C B, the
@@ -346,7 +346,7 @@ to imagine one with the
 [![FIGURE 33. &lt;i&gt;A Figure of the Universe&lt;/i&gt;.&lt;br&gt;
 (From &lt;i&gt;The System of the World&lt;/i&gt;; John Nichol,
 1848.)](tn/fig033.jpg)  
-Click to enlarge](img/fig033.jpg)  
+Click to enlarge](img/fig033.jpg.md)  
 FIGURE 33. *A Figure of the Universe*.  
 (From *The System of the World*; John Nichol, 1848.)  
 
@@ -382,7 +382,7 @@ supported.
 <span id="page_50">p. 50</span>
 
 Unless it is the tiny figure of Earth as the end and the beginning of
-the Spiral World ([Plate V](#img_pl05)) which immediately follows in the
+the Spiral World ([Plate V](#img_pl05).md) which immediately follows in the
 *Microcosmi Historia*: "Another demonstration showing how the soul rises
 in a spiral ascent from the sensible things of the world to unity,
 through twenty-two stages, beginning with the Earth, and ascending
@@ -414,7 +414,7 @@ everything--even the power to make the descending
 a spiral ascent from the sensible things of the world to
 Unity&lt;/i&gt;.&lt;br&gt; (From &lt;i&gt;Microcosmi Historia&lt;/i&gt;:
 Robert Fludd, 1619)](tn/pl05.jpg)  
-Click to enlarge](img/pl05.jpg)  
+Click to enlarge](img/pl05.jpg.md)  
 PLATE V. *Another demonstration showing how the soul rises in a spiral
 ascent from the sensible things of the world to Unity*.  
 (From *Microcosmi Historia*: Robert Fludd, 1619)  
@@ -432,4 +432,4 @@ Earth, and rooted in Earth it may ascend to Heaven.
 
 ------------------------------------------------------------------------
 
-[Next: The Primæval Earth](boe09)
+[Next: The Primæval Earth](boe09.md)

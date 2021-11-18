@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](bcm31)  [Next](bcm33) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](bcm31)  [Next](bcm33.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,4 +47,4 @@ CRATARES, HISATER.
 
 ------------------------------------------------------------------------
 
-[Next: Talismans of the Sage of the Pyramids: XV, XVI](bcm33)
+[Next: Talismans of the Sage of the Pyramids: XV, XVI](bcm33.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](ami07)  [Next](ami09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](ami07)  [Next](ami09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002G1ZZEM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Amitabha, A Story of Buddhist Theology*, by Paul Carus, \[1906\], at
 Intangible Textual Heritage
 
@@ -135,7 +135,7 @@ Dhammapada, saying:
  And also our bodies resolve into dust; <span id="page_64">p.
 64</span>  
  But deeds, ’tis sure,  
- For aye endure."[14](ami16.htm#an_14)
+ For aye endure."[14](ami16.htm#an_14.md)
 
 </div>
 
@@ -177,4 +177,4 @@ maxims of my politics from the Blessed One, the great Buddha."
 
 ------------------------------------------------------------------------
 
-[Next: Açvaghosha](ami09)
+[Next: Açvaghosha](ami09.md)

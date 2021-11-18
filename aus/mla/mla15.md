@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla14)  [Next](mla16) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla14)  [Next](mla16.md) 
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ egg, threw it up into the sky.
 
 ------------------------------------------------------------------------
 
-[Next: How the Sun was Made: Dawn, Noontide and Night](mla16)
+[Next: How the Sun was Made: Dawn, Noontide and Night](mla16.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp53)  [Next](dmp55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp53)  [Next](dmp55.md) 
 
 ------------------------------------------------------------------------
 
@@ -34,4 +34,4 @@ with the sun, let \[my eyes\] be opened \[to the light, and let\] me
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXIII](dmp55)
+[Next: Verso Col. XXIII](dmp55.md)

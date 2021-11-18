@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [New
-Thought](../../index)  [Unity](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [New
+Thought](../../index)  [Unity](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,25 +19,25 @@ Thought](../../index)  [Unity](../index) 
 
 ------------------------------------------------------------------------
 
-[Start Reading](chl00)    [Page Index](pageidx)    [Text
-\[Zipped\]](chltxt.zip)
+[Start Reading](chl00)    [Page Index](pageidx.md)    [Text
+\[Zipped\]](chltxt.zip.md)
 
 ------------------------------------------------------------------------
 
-[Title Page](chl00)  
-[Preface](chl01)  
-[Contents](chl02)  
-[Lesson 1](chl03)  
-[Lesson 2](chl04)  
-[Lesson 3](chl05)  
-[Lesson 4](chl06)  
-[Lesson 5](chl07)  
-[Lesson 6](chl08)  
-[Lesson 7](chl09)  
-[Lesson 8](chl10)  
-[Lesson 9](chl11)  
-[Lesson 10](chl12)  
-[Lesson 11](chl13)  
-[Lesson 12](chl14)  
-[Study Helps and Questions](chl15)  
-[Index](chl16)  
+[Title Page](chl00.md)  
+[Preface](chl01.md)  
+[Contents](chl02.md)  
+[Lesson 1](chl03.md)  
+[Lesson 2](chl04.md)  
+[Lesson 3](chl05.md)  
+[Lesson 4](chl06.md)  
+[Lesson 5](chl07.md)  
+[Lesson 6](chl08.md)  
+[Lesson 7](chl09.md)  
+[Lesson 8](chl10.md)  
+[Lesson 9](chl11.md)  
+[Lesson 10](chl12.md)  
+[Lesson 11](chl13.md)  
+[Lesson 12](chl14.md)  
+[Study Helps and Questions](chl15.md)  
+[Index](chl16.md)  

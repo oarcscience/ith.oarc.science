@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](mla03)  [Next](mla05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](mla03)  [Next](mla05.md) 
 
 ------------------------------------------------------------------------
 
@@ -52,4 +52,4 @@ wailing.
 
 ------------------------------------------------------------------------
 
-[Next: Giant Kangaroos](mla05)
+[Next: Giant Kangaroos](mla05.md)

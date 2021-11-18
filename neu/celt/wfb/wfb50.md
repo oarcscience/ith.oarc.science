@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](wfb49)  [Next](wfb51) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](wfb49)  [Next](wfb51.md) 
 
 ------------------------------------------------------------------------
 
@@ -58,4 +58,4 @@ was a long time before she ventured to a hiring-fair again.
 
 ------------------------------------------------------------------------
 
-[Next: Ned Puw's Farewell](wfb51)
+[Next: Ned Puw's Farewell](wfb51.md)

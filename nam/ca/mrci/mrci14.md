@@ -1,21 +1,21 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mrci13)  [Next](mrci15) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mrci13)  [Next](mrci15.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *A Mission Record of the California Indians*, by A.L. Kroeber, \[1908\],
 at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
 
-#### *Santa Cruz*. <span id="fr_58"></span>[58](#fn_58)
+#### *Santa Cruz*. <span id="fr_58"></span>[58](#fn_58.md)
 
 At this place they ordinarily live on salmon and lampreys, of which
 there are many in the river which flows at the mission. <span
-id="fr_59"></span>[59](#fn_59)
+id="fr_59"></span>[59](#fn_59.md)
 
  
 
@@ -28,7 +28,7 @@ they do not form articulate words.
 
 There are some among them, evil-minded old men, who instill them with a
 panic fear towards the demon whom they regard as the author of all
-evil. <span id="fr_60"></span>[60](#fn_60) That he may not trouble them,
+evil. <span id="fr_60"></span>[60](#fn_60.md) That he may not trouble them,
 they make them believe that they must place a little of the flour which
 they eat, or of any other of their foods, on this stone or in that log
 in such and such a place. For the same purpose they sometimes hold
@@ -56,7 +56,7 @@ further ceremony or rite he is married.
 
 Generally they are peaceful. They do not give quarter to the enemy. When
 one of these is killed in battle, they tear his limbs to pieces. They
-remove the top of the skull, <span id="fr_61"></span>[61](#fn_61) place
+remove the top of the skull, <span id="fr_61"></span>[61](#fn_61.md) place
 it on a pike (pica), carry it in triumph to their village, y la pasean
 por todas las de sus abiados.
 
@@ -64,23 +64,23 @@ por todas las de sus abiados.
 
 ### Footnotes
 
-<span id="fn_58"></span>[24:58](mrci14.htm#fr_58) The following was
+<span id="fn_58"></span>[24:58](mrci14.htm#fr_58.md) The following was
 probably written by Father Andreas Quintana. Santa Cruz is in Costanoan
 territory, and so far as known was settled only with Indians of this
 family.
 
-<span id="fn_59"></span>[24:59](mrci14.htm#fr_59) Salmon and lampreys,
+<span id="fn_59"></span>[24:59](mrci14.htm#fr_59.md) Salmon and lampreys,
 ordinarily known as eels, were the most important aboriginal fish foods
 of northern California.
 
-<span id="fn_60"></span>[25:60](mrci14.htm#fr_60) The "demon who is the
+<span id="fn_60"></span>[25:60](mrci14.htm#fr_60.md) The "demon who is the
 author of all evil" is of course a missionary conception, as are the
 "perversity and malice" attributed to the head man of the dances.
 
-<span id="fn_61"></span>[25:61](mrci14.htm#fr_61) Many of the California
+<span id="fn_61"></span>[25:61](mrci14.htm#fr_61.md) Many of the California
 Indians did not scalp, but cut off the head or the skin of the entire
 head except the face.
 
 ------------------------------------------------------------------------
 
-[Next: Santa Clara](mrci15)
+[Next: Santa Clara](mrci15.md)

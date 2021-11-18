@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](mrm02)  [Next](mrm04) 
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](mrm02)  [Next](mrm04.md) 
 
 ------------------------------------------------------------------------
 
@@ -263,4 +263,4 @@ and family ancestors, just as was the practice of the Greeks and Latins.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. Maori Cosmogony and Mythology](mrm04)
+[Next: Chapter II. Maori Cosmogony and Mythology](mrm04.md)

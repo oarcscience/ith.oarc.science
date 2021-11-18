@@ -1,24 +1,24 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](hhp02)  [Next](hhp04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](hhp02)  [Next](hhp04.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0892540923/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002KKCTTS/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The House of the Hidden Places*, by W. Marsham Adams, \[1895\], at
 Intangible Textual Heritage
 
@@ -94,7 +94,7 @@ Side by side with that masonic mystery, well nigh as impenetrable at the
 present moment as when the Hir Sheshta, or "Master of the Secret," was
 an officer of Pharaoh's household, has come down to us another enigma,
 the strange collections of sacred writings, or Ritual <span
-id="fr_0"></span>[\*](#fn_0) of Ancient Egypt, which
+id="fr_0"></span>[\*](#fn_0.md) of Ancient Egypt, which
 
 <span id="page_5">p. 5</span>
 
@@ -115,7 +115,7 @@ prominently as these mysteries stand out in every matter that relates to
 ancient Egypt, no one has hitherto thought of collating the masonic
 secret of the monument with the doctrinal secret contained in the
 mysterious books of Thoth, to whom the origin of Egyptian wisdom is
-attributed. <span id="fr_1"></span>[\*](#fn_1) Such an omission is the
+attributed. <span id="fr_1"></span>[\*](#fn_1.md) Such an omission is the
 more singular, because indications are not wanting on either side to
 hint at the connection. That Khufu (miscalled by the Greeks, Cheops)
 should have adopted the pyramidal form in the hieroglyph of his name is
@@ -125,7 +125,7 @@ Pyramid enters into the hieroglyph of the
 
 <span id="page_7">p. 7</span>
 
-star Sothis, or Sirius. <span id="fr_2"></span>[\*](#fn_2) For the Grand
+star Sothis, or Sirius. <span id="fr_2"></span>[\*](#fn_2.md) For the Grand
 Orient, or position of that star when its rising forms the immediate
 harbinger of dawn on midsummer morning, was, as is well known, the great
 starting-point for the age-long cycles of the Egyptian reckoning. And
@@ -169,7 +169,7 @@ containing those writings, as early as the twelfth dynasty, the
 inscription on the coffin of Amamu, buried in the sacred city of Abydos,
 makes a similar allusion, and shows that the secret places determine the
 order of the Ritual. "Thou hast not gone dying, thou hast gone living to
-Osiris. <span id="fr_3"></span>[\*](#fn_3) Now
+Osiris. <span id="fr_3"></span>[\*](#fn_3.md) Now
 
 <span id="page_10">p. 10</span>
 
@@ -289,7 +289,7 @@ meridian of Memphis, close to the lake from whence flow the waters of
 the life-giving river. At our feet is spread the great plane, passing
 through the celestial poles, and bounded by the Purple Arch which
 encircles the floor of the starry dome. From the midst of our Horizon on
-that day rises the sun right upwards, <span id="fr_4"></span>[\*](#fn_4)
+that day rises the sun right upwards, <span id="fr_4"></span>[\*](#fn_4.md)
 and at the summit of his course, where day by day he equally divides the
 heaven East and West, on that day alone he equally divides also the
 Grand Arch, or Grand Meridian, which rises transverse from the same
@@ -300,7 +300,7 @@ shall
 
 <span id="img_01700"></span> <span align="CENTER"> [![The “Horizon of
 Heaven”](tn/01700.jpg)  
-Click to enlarge](img/01700.jpg)  
+Click to enlarge](img/01700.jpg.md)  
 The “Horizon of Heaven”  
 </span>
 
@@ -328,7 +328,7 @@ the Grand Pyramid,
 which, as is well known, may be defined by reference to the position of
 the pole-star. For, taking as the date of the IV<sup>th</sup> dynasty
 that given by Dr. Brugsch (about B.C. 3700), <span
-id="fr_5"></span>[\*](#fn_5) we find that about two hundred and sixty
+id="fr_5"></span>[\*](#fn_5.md) we find that about two hundred and sixty
 years later (B.C. 3440), the pole-star of the period (Alpha-Draconis)
 occupied, as Professor Smyth has pointed out, just that position; so
 that it would shine right down the passage. And thus the disciples of
@@ -383,7 +383,7 @@ seventeenth
 
 <span id="img_02200"></span> <span align="CENTER"> [![Gate of the
 Ascent. Northern Face: Course xvii.](tn/02200.jpg)  
-Click to enlarge](img/02200.jpg)  
+Click to enlarge](img/02200.jpg.md)  
 Gate of the Ascent. Northern Face: Course xvii.  
 </span>
 
@@ -400,7 +400,7 @@ Pyramid the only entrance is the Gate of the Ascent in the seventeenth
 course of Northern face. Bidding now with him farewell to the light of
 earthly day, and treading the descending passage, we pass, some little
 way down, a very fine and beautifully ruled double line, <span
-id="fr_6"></span>[\*](#fn_6) scored perpendicularly on the
+id="fr_6"></span>[\*](#fn_6.md) scored perpendicularly on the
 
 <span id="page_24">p. 24</span>
 
@@ -423,7 +423,7 @@ month renewed his birth. In that chamber,
 
 once rigidly blocked up, the liberated soul was born anew; and thence it
 came forth to descend the ladder of the shaft, as we see in the papyrus
-of Ani, <span id="fr_7"></span>[\*](#fn_7) and to become re-united with
+of Ani, <span id="fr_7"></span>[\*](#fn_7.md) and to become re-united with
 the postulant awaiting it in the Well of Life. Then, when the soul is
 restored, initiation takes place and strength is given to endure the
 ordeal.
@@ -662,7 +662,7 @@ which the papyri have been with great labour collated and published by
 M. Naville; followed during the succeeding dynasty (XX<sup>th</sup>) by
 another written in the Hieratic (or priestly) characters. And last of
 all, we have the recension of the XXVI<sup>th</sup> or Saite dynasty, to
-which is due the great papyrus <span id="fr_8"></span>[\*](#fn_8) now
+which is due the great papyrus <span id="fr_8"></span>[\*](#fn_8.md) now
 preserved at Turin, of which
 
 <span id="page_39">p. 39</span>
@@ -708,7 +708,7 @@ immutable motions of the heavenly orbs.
 
 ### Footnotes
 
-<span id="fn_0"></span>[4:\*](hhp03.htm#fr_0) This title, which was
+<span id="fn_0"></span>[4:\*](hhp03.htm#fr_0.md) This title, which was
 conferred by Champollion, is vehemently repudiated by Mr. Budge, though
 without <span id="page_5">p. 5</span>any particular reason assigned. But
 it appears to me to be as good a word as any which can be used as a
@@ -722,11 +722,11 @@ with the mummy; so that it gives the idea of regarding the holy departed
 as dead; whereas the whole conception of the doctrine was the entrance
 of the departed on life and light.
 
-<span id="fn_1"></span>[6:\*](hhp03.htm#fr_1) M. Maspéro courteously
+<span id="fn_1"></span>[6:\*](hhp03.htm#fr_1.md) M. Maspéro courteously
 informs me that the same idea has occupied himself, but that he has not
 published.
 
-<span id="fn_2"></span>[7:\*](hhp03.htm#fr_2) When a star rises, not
+<span id="fn_2"></span>[7:\*](hhp03.htm#fr_2.md) When a star rises, not
 simultaneously with the sun (in which case the star would be invisible),
 but just so long before dawn as to appear for a few moments on the
 horizon before it is swallowed up in the growing light, it is said to
@@ -734,19 +734,19 @@ rise "heliacally," and "the heliacal rising of Sothis" on the day of the
 summer solstice, or midsummer—an event which occurs every 1461 years
 (viz. four times 365¼)—was the epoch of the Egyptian secular cycle.
 
-<span id="fn_3"></span>[9:\*](hhp03.htm#fr_3) More correctly written
+<span id="fn_3"></span>[9:\*](hhp03.htm#fr_3.md) More correctly written
 Ausar; but in this and other sacred names I have kept the older
 spelling, not as being in any way preferable in itself (which it
 certainly is not), but in order to avoid introducing a fresh and not
 absolutely necessary element of unfamiliarity.
 
-<span id="fn_4"></span>[16:\*](hhp03.htm#fr_4) The conception here
+<span id="fn_4"></span>[16:\*](hhp03.htm#fr_4.md) The conception here
 described, though not explicitly defined by our astronomers, is
 implicitly contained in the terms Right (or direct) Ascension, the
 mounting straight upwards of the stars; and Declination, or the falling
 off on either side from the equinoctial plane.
 
-<span id="fn_5"></span>[19:\*](hhp03.htm#fr_5) In deference to the very
+<span id="fn_5"></span>[19:\*](hhp03.htm#fr_5.md) In deference to the very
 high authority of Dr. Brugsch, on all matters connected with Egyptian
 history, I have adopted, and still adhere to the date which he estimated
 for the Grand Pyramid. The recent discoveries of Mr. F. Petrie may
@@ -755,7 +755,7 @@ as settled; but on such a point the general harmony with other
 historical records is the supreme test: and of that knowledge none was
 more skilled than the great master whom we have recently lost.
 
-<span id="fn_6"></span>[23:\*](hhp03.htm#fr_6) The detection of this
+<span id="fn_6"></span>[23:\*](hhp03.htm#fr_6.md) The detection of this
 line is connected with a circumstance of a highly singular character,
 which seemed at one time to lend some appearance of support to the
 historic theories of Professor Smyth. It was due not to any measurer or
@@ -767,12 +767,12 @@ to be true; an act of divination which would have been remarkable enough
 if those theories had been true, but which seems strange indeed when one
 considers their palpable error.
 
-<span id="fn_7"></span>[25:\*](hhp03.htm#fr_7) I am indebted for this
+<span id="fn_7"></span>[25:\*](hhp03.htm#fr_7.md) I am indebted for this
 illustration to Mr. F. Compton Price, the well-known expert in ancient
 characters, who has just completed the splendid facsimile of that
 papyrus for the Trustees of the British Museum.
 
-<span id="fn_8"></span>[38:\*](hhp03.htm#fr_8) An English translation
+<span id="fn_8"></span>[38:\*](hhp03.htm#fr_8.md) An English translation
 has been published by Mr. Birch, in Bunsen's "Place of Egypt;" and one
 in French has been produced by M. Pierret. While speaking on this
 subject, it is impossible to refrain from a regret at the almost
@@ -801,6 +801,6 @@ society in its concrete development.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II. The House of Osiris](hhp04)
+[Next: Chapter II. The House of Osiris](hhp04.md)
 
 </div>

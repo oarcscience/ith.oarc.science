@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](hrl01)  [Next](hrl03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](hrl01)  [Next](hrl03.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0394736656/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -502,4 +502,4 @@ mouth and nose—an order of swimming sweetness—anesthesia.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter 3 A Peculiar Imprisonment](hrl03)
+[Next: Chapter 3 A Peculiar Imprisonment](hrl03.md)

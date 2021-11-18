@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](iai47)  [Next](iai49) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](iai47)  [Next](iai49.md) 
 
 ------------------------------------------------------------------------
 
@@ -46,18 +46,18 @@ Around, above her spreads a flowering vine,
 And o'er a ruby fountain almandine.  
 And on a graven garnet table grand,  
 Carved cups of solid pearl and tilpe <span
-id="fr_303"></span>[1](#fn_300) stand.  
-A Zadu <span id="fr_304"></span>[2](#fn_301) reservoir stands near,
+id="fr_303"></span>[1](#fn_300.md) stand.  
+A Zadu <span id="fr_304"></span>[2](#fn_301.md) reservoir stands near,
 which rounds  
 The fount wherein the fragrant nectar bounds.  
-The ground is strewn with pari <span id="fr_305"></span>[3](#fn_302)
+The ground is strewn with pari <span id="fr_305"></span>[3](#fn_302.md)
 gems and pearls,  
 Wherefrom the light now softly backward hurls  
-Its rays o'er couches of paruti <span id="fr_306"></span>[4](#fn_303)
+Its rays o'er couches of paruti <span id="fr_306"></span>[4](#fn_303.md)
 stone,  
 Soft cushioned, circling in the inner zone  
 Beside the shining kami-sadi way, <span
-id="fr_307"></span>[5](#fn_304)  
+id="fr_307"></span>[5](#fn_304.md)  
 Where nectar fountains in their splendor play.  
 The path leads far along Life's beauteous stream,  
 That ever through this World of joy doth gleam.
@@ -110,23 +110,23 @@ She then unbinds him,--thoughtful now doth stand.
 
 ### Footnotes
 
-<span id="fn_300"></span>[153:1](iai48.htm#fr_303) "Tilpe," precious gem
+<span id="fn_300"></span>[153:1](iai48.htm#fr_303.md) "Tilpe," precious gem
 known only to the Babylonians.
 
-<span id="fn_301"></span>[153:2](iai48.htm#fr_304) "Zadu," a precious
+<span id="fn_301"></span>[153:2](iai48.htm#fr_304.md) "Zadu," a precious
 gem known only to the Babylonians.
 
-<span id="fn_302"></span>[153:3](iai48.htm#fr_305) "Pari," an unknown
+<span id="fn_302"></span>[153:3](iai48.htm#fr_305.md) "Pari," an unknown
 gem.
 
-<span id="fn_303"></span>[153:4](iai48.htm#fr_306) "Paruti," an unknown
+<span id="fn_303"></span>[153:4](iai48.htm#fr_306.md) "Paruti," an unknown
 gem.
 
-<span id="fn_304"></span>[153:5](iai48.htm#fr_307) "Kami-sadi," way, a
+<span id="fn_304"></span>[153:5](iai48.htm#fr_307.md) "Kami-sadi," way, a
 path paved with unknown gems. These precious stones are mentioned on the
 various inscriptions in the list of precious jewels with gold, diamonds,
 pearls, etc., taken as spoils from their enemies.
 
 ------------------------------------------------------------------------
 
-[Next: Column VI. Mua's Answer](iai49)
+[Next: Column VI. Mua's Answer](iai49.md)

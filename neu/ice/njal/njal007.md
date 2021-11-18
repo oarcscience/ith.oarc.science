@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Iceland](../index)  [Index](index) 
-[Previous](njal006)  [Next](njal008) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Iceland](../index)  [Index](index.md) 
+[Previous](njal006)  [Next](njal008.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ and never went west from that day forward.
 
 ------------------------------------------------------------------------
 
-[Next: 8. Mord Claims His Goods From Hrut](njal008)
+[Next: 8. Mord Claims His Goods From Hrut](njal008.md)

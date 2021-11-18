@@ -1,5 +1,5 @@
-[![](../cdshop/ithlogo.png)](../index)  
-[Sacred texts](../index)  [Thelema](index) 
+[![](../cdshop/ithlogo.png)](../index.md)  
+[Sacred texts](../index)  [Thelema](index.md) 
 
 ------------------------------------------------------------------------
 
@@ -13,13 +13,13 @@
 |           |                 |                                                       |
 |-----------|----------------:|-------------------------------------------------------|
 | **Index** |                 |                                                       |
-|           |   [**I -**](#1) |                                                       |
-|           |  [**II -**](#2) | [**Physical clairvoyance**](#2)                       |
-|           | [**III -**](#3) | [**Asana - Posture**](#3)                             |
-|           |  [**IV -**](#4) | [**Pranayama - Regularisation of the Breathing**](#4) |
-|           |   [**V -**](#5) | [**Dharana - Control of Thought**](#5)                |
-|           |  [**VI -**](#6) | [**Physical limitations**](#6)                        |
-|           | [**VII -**](#7) | [**A Course of Reading**](#7)                         |
+|           |   [**I -**](#1.md) |                                                       |
+|           |  [**II -**](#2) | [**Physical clairvoyance**](#2.md)                       |
+|           | [**III -**](#3) | [**Asana - Posture**](#3.md)                             |
+|           |  [**IV -**](#4) | [**Pranayama - Regularisation of the Breathing**](#4.md) |
+|           |   [**V -**](#5) | [**Dharana - Control of Thought**](#5.md)                |
+|           |  [**VI -**](#6) | [**Physical limitations**](#6.md)                        |
+|           | [**VII -**](#7) | [**A Course of Reading**](#7.md)                         |
 
 </div>
 

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](tnw21)  [Next](tnw23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](tnw21)  [Next](tnw23.md) 
 
 ------------------------------------------------------------------------
 
@@ -234,4 +234,4 @@ Gentlemen of the Swedish Academy, consider of your verdict.
 
 ------------------------------------------------------------------------
 
-[Next: Author's Note for the American Edition](tnw23)
+[Next: Author's Note for the American Edition](tnw23.md)

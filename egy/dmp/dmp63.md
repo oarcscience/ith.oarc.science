@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egyptian](../index) 
-[Index](index)  [Previous](dmp62)  [Next](dmp64) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egyptian](../index.md) 
+[Index](index)  [Previous](dmp62)  [Next](dmp64.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ lamp which is (4) lighted, come within (5) before me, and give me answer
 
 ------------------------------------------------------------------------
 
-[Next: Verso Col. XXXII](dmp64)
+[Next: Verso Col. XXXII](dmp64.md)

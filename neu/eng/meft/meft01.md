@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](meft00)  [Next](meft02) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](meft00)  [Next](meft02.md) 
 
 ------------------------------------------------------------------------
 
@@ -132,4 +132,4 @@ JOSEPH JACOBS
 
 ------------------------------------------------------------------------
 
-[Next: The Pied Piper](meft02)
+[Next: The Pied Piper](meft02.md)

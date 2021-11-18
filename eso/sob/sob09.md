@@ -1,16 +1,16 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob08) 
-[Next](sob10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Yoga](../../hin/yoga/index)  [Index](index)  [Previous](sob08.md) 
+[Next](sob10.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0911662006/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Science of Breath*, by Yogi Ramacharaka, pseud. William Atkinson,
 \[1904\], at Intangible Textual Heritage
 
@@ -33,11 +33,11 @@ becomes his natural method of breathing. This will require work, time
 and patience, but without these things nothing is ever accomplished.
 There is no royal road to the Science of Breath, and the student must be
 prepared to practice and study in earnest if he expects to receive
-results. The [results](errata.htm#12) obtained by a complete mastery of
+results. The [results](errata.htm#12.md) obtained by a complete mastery of
 the Science of Breath are great, and no one who has attained them would
 willingly go back to the old methods, and he will tell his friends that
 he considers himself amply repaid for all his work. We say these things
-now, that you may fully understand the [necessity](errata.htm#13) and
+now, that you may fully understand the [necessity](errata.htm#13.md) and
 importance of mastering this fundamental method of Yogi Breathing,
 instead of passing it by and trying some of the attractive looking
 variations given later on in this book. Again, we say to you: Start
@@ -61,7 +61,7 @@ clothing, etc., and has lost his birthright. And we wish to remind the
 reader that the Complete Breath does not necessarily call for the
 complete filling of the lungs at every inhalation. One may inhale the
 average amount of air, using the Complete Breathing Method and
-distributing the air inhaled, be the quantity large [or](errata.htm#14)
+distributing the air inhaled, be the quantity large [or](errata.htm#14.md)
 small, to all parts of the lungs. But one should inhale a series of full
 Complete Breaths several times a day, whenever opportunity offers, in
 order to keep the system in good order and condition.
@@ -101,7 +101,7 @@ drawing the abdomen in a little and lifting it upward slowly as the air
 leaves the lungs. Where the air is entirely exhaled, relax the chest and
 abdomen. A little practice will render this part of the exercise easy,
 and the movement once acquired will be afterward
-[performed](errata.htm#15) almost automatically.
+[performed](errata.htm#15.md) almost automatically.
 
 It will be seen that by this method of breathing all parts of the
 respiratory apparatus is brought into action, and all parts of the
@@ -129,4 +129,4 @@ the old methods.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IX. Physiological Effect of the Complete Breath](sob10)
+[Next: Chapter IX. Physiological Effect of the Complete Breath](sob10.md)

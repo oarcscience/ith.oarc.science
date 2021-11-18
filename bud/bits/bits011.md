@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits010) [Next](bits012)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits010) [Next](bits012.md)
 
 ------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ middle watch of the night; his habits of the last watch of the night.
 
    The Blessed One would rise early in the morning, and when, out of
 kindness to his body-servant<span id="page_91_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_91_note_1) and for the sake of
+class="small">1</span></sup>](#page_91_note_1.md) and for the sake of
 bodily comfort, he had rinsed his mouth and otherwise cared for his
 person, he would sit retired until it was time to go begging. And when
 it came time, he would put on his tunic, girdle, and robes, and taking
@@ -49,7 +49,7 @@ over him; other winds bring flowers and scatter them in his path;
 elevations of ground depress themselves, and depressions elevate
 themselves; wherever he places his foot, the ground is even and pleasant
 to walk upon,<span id="page_92_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_92_note_1) or lotus-flowers receive
+class="small">1</span></sup>](#page_92_note_1.md) or lotus-flowers receive
 his tread. No sooner has he set his right foot within the city-gate than
 the rays of six different colors which issue from his body race hither
 and thither over palaces and pagodas, and deck them, as it were, with
@@ -101,7 +101,7 @@ priests, saying,--
    "O priests, diligently work out your salvation; for not often occur
 the appearance of a Buddha in the world and existence among men<span
 id="page_93_fr_1"></span>[<sup><span
-class="small">1</span></sup>](#page_93_note_1) and the propitious moment
+class="small">1</span></sup>](#page_93_note_1.md) and the propitious moment
 and retirement from the world and the opportunity to hear the true
 Doctrine."
 
@@ -180,7 +180,7 @@ other meritorious deeds, might have made the earnest wish.
 
 ------------------------------------------------------------------------
 
-[Next: 12. The Death of the Buddha](bits012)
+[Next: 12. The Death of the Buddha](bits012.md)
 
 ------------------------------------------------------------------------
 
@@ -188,22 +188,22 @@ other meritorious deeds, might have made the earnest wish.
 
 <span id="footnotes_page_91">p. 91</span>
 
-<span id="page_91_note_1"></span>[1](#page_91_fr_1) In order to give him
+<span id="page_91_note_1"></span>[1](#page_91_fr_1.md) In order to give him
 a chance to acquire merit by waiting on a Buddha: compare [page
-99d](bits012.htm#page_99).
+99d](bits012.htm#page_99.md).
 
 <span id="footnotes_page_92">p. 92</span>
 
-<span id="page_92_note_1"></span>[1](#page_92_fr_1) Compare [Isaiah xl.
-4](../../bib/kjv/isa.htm#40:4): Every valley shall be exalted, and every
+<span id="page_92_note_1"></span>[1](#page_92_fr_1.md) Compare [Isaiah xl.
+4](../../bib/kjv/isa.htm#40:4.md): Every valley shall be exalted, and every
 mountain and hill shall be made low: . . . and the rough places plain.
 
 <span id="footnotes_page_93">p. 93</span>
 
-<span id="page_93_note_1"></span>[1](#page_93_fr_1) It is necessary to
+<span id="page_93_note_1"></span>[1](#page_93_fr_1.md) It is necessary to
 be a human being in order to attain to saintship, though gods can become
 converted and animals can keep the precepts. See pages
-[302](bits063.htm#page_302), [279](bits056.htm#page_279).
+[302](bits063.htm#page_302), [279](bits056.htm#page_279.md).
 
  
 

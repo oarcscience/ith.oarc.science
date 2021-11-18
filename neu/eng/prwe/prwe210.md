@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe209)  [Next](prwe211) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe209)  [Next](prwe211.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,4 +18,4 @@ secures good luck to the fishermen.
 
 ------------------------------------------------------------------------
 
-[Next: Pilchards Crying for More](prwe211)
+[Next: Pilchards Crying for More](prwe211.md)

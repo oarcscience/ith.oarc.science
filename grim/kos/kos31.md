@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Grimoires](../index) 
-[Index](index)  [Previous](kos30)  [Next](kos32) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Grimoires](../index.md) 
+[Index](index)  [Previous](kos30)  [Next](kos32.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ and make their loins continually to shake. They have eyes and see not.'
 
 ------------------------------------------------------------------------
 
-[Next: Plate IX](kos32)
+[Next: Plate IX](kos32.md)

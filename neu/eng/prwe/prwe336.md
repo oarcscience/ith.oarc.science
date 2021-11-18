@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe335)  [Next](prwe337) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe335)  [Next](prwe337.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ Walter Scott's *Wayland* in "Kenilworth."
 
 ------------------------------------------------------------------------
 
-[Next: The Wonderful Cobbler of Wellington](prwe337)
+[Next: The Wonderful Cobbler of Wellington](prwe337.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Tarot](../index)  [Tarot
-Reading](tarot0)  [Index](index)  [Previous](pktar12)  [Next](pktar14) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Tarot](../index.md)  [Tarot
+Reading](tarot0)  [Index](index)  [Previous](pktar12)  [Next](pktar14.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ACPMP4/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Pictorial Key to the Tarot*, by A.E. Waite, ill. by Pamela Colman
 Smith \[1911\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ Smith \[1911\], at Intangible Textual Heritage
 ### Death
 
 <span id="img_ar13"></span> <span align="CENTER"> [![](tn/ar13.jpg)  
-Click to enlarge](img/ar13.jpg)</span>
+Click to enlarge](img/ar13.jpg.md)</span>
 
 The veil or mask of life is perpetuated in change, transformation and
 passage from lower to higher, and this is more fitly represented in the
@@ -46,4 +46,4 @@ rebirth, creation, destination, renewal, and the rest.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. Temperance](pktar14)
+[Next: XIV. Temperance](pktar14.md)

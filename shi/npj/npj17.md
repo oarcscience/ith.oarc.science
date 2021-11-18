@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shinto](../index) 
-[Buddhism](../../bud/index)  [Index](index)  [Previous](npj16) 
-[Next](npj18) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shinto](../index.md) 
+[Buddhism](../../bud/index)  [Index](index)  [Previous](npj16.md) 
+[Next](npj18.md) 
 
 ------------------------------------------------------------------------
 
@@ -76,15 +76,15 @@ snow from his clothes*.)
 TSUNEYO.
 
 Ah! How the snow falls! Long ago when I was in the World <span
-id="fr_77"></span>[1](#fn_75) I loved to see it:  
+id="fr_77"></span>[1](#fn_75.md) I loved to see it:  
     "Hither and thither the snow blew like feathers plucked from a
 goose;  
     Long, long I watched it fall, till it dressed me in a white coat."  
 So I sang; and the snow that falls now is the same that I saw then. But
-I indeed am frost-white <span id="fr_78"></span>[2](#fn_76) that watch
+I indeed am frost-white <span id="fr_78"></span>[2](#fn_76.md) that watch
 it!  
     Oh how shall this thin dress of Kefu-cloth <span
-id="fr_79"></span>[3](#fn_77)  
+id="fr_79"></span>[3](#fn_77.md)  
     Chase from my bones the winter of to-day,  
     Oh pitiless day of snow!
 
@@ -150,7 +150,7 @@ Much good I got by waiting for such a fellow! I will go my way.
 WIFE.
 
 Alas, it is because in a former life we neglected the ordinances <span
-id="fr_80"></span>[1](#fn_78) that we are now come to ruin. And surely
+id="fr_80"></span>[1](#fn_78.md) that we are now come to ruin. And surely
 it will bring us ill-fortune in our next life, if we give no welcome to
 such a one as this! If it is by any means possible for him to shelter
 here, please let him stay.
@@ -196,7 +196,7 @@ before him. Is there nothing we can give?
 WIFE.
 
 It happens that we have a little boiled millet; <span
-id="fr_81"></span>[1](#fn_79) we can give him that if he will take it.
+id="fr_81"></span>[1](#fn_79.md) we can give him that if he will take it.
 
 TSUNEYO.
 
@@ -280,7 +280,7 @@ These shrubs, these profitless toys,
 TSUNEYO.
 
 Think them the faggots of our Master's servitude. <span
-id="fr_82"></span>[1](#fn_80)
+id="fr_82"></span>[1](#fn_80.md)
 
 WIFE.
 
@@ -311,7 +311,7 @@ Cold air with flowers, earliest of Spring;
 'You first shall fall.'  
 You by whose boughs on mountain hedge entwined  
 Dull country folk have paused and caught their breath, <span
-id="fr_83"></span>[2](#fn_81) <span id="page_106">p. 106</span>  
+id="fr_83"></span>[2](#fn_81.md) <span id="page_106">p. 106</span>  
 Hewn down for firewood. Little had I thought  
 My hand so pitiless!"
 
@@ -328,7 +328,7 @@ TSUNEYO.
 You now, O pine, whose branches I had thought  
 One day when you were old to lop and trim,  
 Standing you in the field, a football-post, <span
-id="fr_84"></span>[1](#fn_82)  
+id="fr_84"></span>[1](#fn_82.md)  
 Such use shall never know.  
 Tree, whom the winds have ever wreathed  
 With quaking mists, now shimmering in the flame  
@@ -383,7 +383,7 @@ Shikken's court?
 TSUNEYO.
 
 By further mischance it happens that Lord Saimyōji <span
-id="fr_85"></span>[1](#fn_83) himself is absent upon pilgrimage. And yet
+id="fr_85"></span>[1](#fn_83.md) himself is absent upon pilgrimage. And yet
 not all is lost; for on the wall a tall spear still hangs, and armour
 with it; while in the stall a steed is tied. And if at any time there
 came from the City news of peril to our master--
@@ -480,7 +480,7 @@ The horse is old, palsied as a willow-bough; it cannot hasten. It is
 lean and twisted. Not whip or spur can move it. It sticks like a coach
 in a bog. He follows far behind the rest.
 
-PRIEST (*again ruler* <span id="fr_86"></span>[1](#fn_84) *of Japan,
+PRIEST (*again ruler* <span id="fr_86"></span>[1](#fn_84.md) *of Japan,
 seated on a throne*).
 
 Are you there?
@@ -562,7 +562,7 @@ Well, there is no help for it. Bring me into the Presence.
 CHORUS.
 
 He was led to where on a great daïs  
-All the [warriors](errata.htm#1) of this levy were assembled <span
+All the [warriors](errata.htm#1.md) of this levy were assembled <span
 id="page_111">p. 111</span>  
 Like a bright bevy of stars.  
 Row on row they were ranged,  
@@ -650,37 +650,37 @@ That Bridge of Boats at Sano now his own.
 
 ### Footnotes
 
-<span id="fn_75"></span>[101:1](npj17.htm#fr_77) Po Chü-i's *Works*,
+<span id="fn_75"></span>[101:1](npj17.htm#fr_77.md) Po Chü-i's *Works*,
 iii. 13.
 
-<span id="fn_76"></span>[101:2](npj17.htm#fr_78) Alluding partly to the
+<span id="fn_76"></span>[101:2](npj17.htm#fr_78.md) Alluding partly to the
 fact that he is snow-covered, partly to his grey hairs.
 
-<span id="fn_77"></span>[101:3](npj17.htm#fr_79) *Kefu*, "to-day."
+<span id="fn_77"></span>[101:3](npj17.htm#fr_79.md) *Kefu*, "to-day."
 
-<span id="fn_78"></span>[102:1](npj17.htm#fr_80) Buddhist ordinances,
+<span id="fn_78"></span>[102:1](npj17.htm#fr_80.md) Buddhist ordinances,
 such as hospitality to priests.
 
-<span id="fn_79"></span>[103:1](npj17.htm#fr_81) Food of the poorest
+<span id="fn_79"></span>[103:1](npj17.htm#fr_81.md) Food of the poorest
 peasants.
 
-<span id="fn_80"></span>[105:1](npj17.htm#fr_82) After Shākyamuni left
+<span id="fn_80"></span>[105:1](npj17.htm#fr_82.md) After Shākyamuni left
 the palace, he served the Rishi of the mountains.
 
-<span id="fn_81"></span>[105:2](npj17.htm#fr_83) Using words from a poem
+<span id="fn_81"></span>[105:2](npj17.htm#fr_83.md) Using words from a poem
 by Michizane (845-903 A. D.).
 
-<span id="fn_82"></span>[106:1](npj17.htm#fr_84) For Japanese football,
-see [p. 246](npj48.htm#page_246). A different interpretation has lately
+<span id="fn_82"></span>[106:1](npj17.htm#fr_84.md) For Japanese football,
+see [p. 246](npj48.htm#page_246.md). A different interpretation has lately
 been suggested by Mr. Suzuki.
 
-<span id="fn_83"></span>[107:1](npj17.htm#fr_85) I.e. Tokiyori.
+<span id="fn_83"></span>[107:1](npj17.htm#fr_85.md) I.e. Tokiyori.
 
-<span id="fn_84"></span>[109:1](npj17.htm#fr_86) Hōjō no Tokiyori ruled
+<span id="fn_84"></span>[109:1](npj17.htm#fr_86.md) Hōjō no Tokiyori ruled
 at Kamakura from 1246 till 1256. He then became a priest and travelled
 through the country incognito in order to acquaint himself with the
 needs of his subjects.
 
 ------------------------------------------------------------------------
 
-[Next: Note on Komachi](npj18)
+[Next: Note on Komachi](npj18.md)

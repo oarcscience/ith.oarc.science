@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](grey09)  [Next](grey11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](grey09)  [Next](grey11.md) 
 
 ------------------------------------------------------------------------
 
@@ -218,4 +218,4 @@ and the peace was long preserved.
 
 ------------------------------------------------------------------------
 
-[Next: The Legend of Poutini and Whaiapu](grey11)
+[Next: The Legend of Poutini and Whaiapu](grey11.md)

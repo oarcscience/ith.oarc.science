@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Bible](../../index) 
-[Bible Critical Views](../index)  [Index](index)  [Previous](pch17) 
-[Next](pch19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Bible](../../index.md) 
+[Bible Critical Views](../index)  [Index](index)  [Previous](pch17.md) 
+[Next](pch19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002EVPFEO/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Pagan Christs*, by John M. Robertson, \[1911\], at Intangible Textual
 Heritage
 
@@ -33,7 +33,7 @@ accordingly. But its magical or strategical and its simply precatory or
 propitiatory forms proceed on the same premisses, and are in origin
 contemporary and correlative, being respectively the expression of the
 more and the less self-confident sides of men's nature <span
-id="fr_217"></span>[1](#fn_217) in the state of ignorance.
+id="fr_217"></span>[1](#fn_217.md) in the state of ignorance.
 
 2\. The primary surmise or conception involves itself in a multitude of
 beliefs, of which one of the most significant is that of kinship between
@@ -87,7 +87,7 @@ as determined by their views of that, or by teachers who authoritatively
 recast those views; and (*c*) of the practices set up by those ideas.
 
 Under this definition there is room for every religion ever historically
-so-called, <span id="fr_218"></span>[1](#fn_218) from fetishism to
+so-called, <span id="fr_218"></span>[1](#fn_218.md) from fetishism to
 pantheism, and from Buddhism to Comtism, without implicit negation of
 any claim made for any one religion to any moral attribute, save of
 course that of objective truth or credibility.
@@ -96,12 +96,12 @@ course that of objective truth or credibility.
 
 ### Footnotes
 
-<span id="fn_217"></span>[57:1](pch18.htm#fr_217) The point is not one
+<span id="fn_217"></span>[57:1](pch18.htm#fr_217.md) The point is not one
 to be settled by authority, but for a competent affirmation of this view
 see G. Roskoff, *Das Religionswesen der rohesten Naturvölker*, 1880, p.
 144.
 
-<span id="fn_218"></span>[58:1](pch18.htm#fr_218) None of the current
+<span id="fn_218"></span>[58:1](pch18.htm#fr_218.md) None of the current
 definitions, I think, is thus inclusive. Cp. the many cited by Chantepie
 de la Saussaye, *Manual of the Science of Religion*, Eng. tr. pp. 56-58,
 and those discussed in *Christianity and Mythology*, 2nd ed. pp. 42
@@ -137,4 +137,4 @@ ensemble" (pt. i, pp. 106-7).
 
 ------------------------------------------------------------------------
 
-[Next: § 1. Early Forces of Reform](pch19)
+[Next: § 1. Early Forces of Reform](pch19.md)

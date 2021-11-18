@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Alchemy](../index) 
-[Index](index)  [Previous](arr20)  [Next](arr22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Alchemy](../index.md) 
+[Index](index)  [Previous](arr20)  [Next](arr22.md) 
 
 ------------------------------------------------------------------------
 
@@ -182,4 +182,4 @@ to the fulfilment of her Law."
 
 ------------------------------------------------------------------------
 
-[Next: Section III](arr22)
+[Next: Section III](arr22.md)

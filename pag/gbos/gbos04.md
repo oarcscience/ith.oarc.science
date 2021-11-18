@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Neopaganism](../index) 
-[Index](index)  [Previous](gbos03)  [Next](gbos05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Neopaganism](../index.md) 
+[Index](index)  [Previous](gbos03)  [Next](gbos05.md) 
 
 ------------------------------------------------------------------------
 
@@ -98,4 +98,4 @@ not go to next degree.)
 
 ------------------------------------------------------------------------
 
-[Next: Initiation: Third Degree](gbos05)
+[Next: Initiation: Third Degree](gbos05.md)

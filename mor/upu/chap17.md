@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Mormonism](../index)
-[Index](index) [Previous](chap16) [Next](chap18)
+[Intangible Textual Heritage](../../index) [Mormonism](../index.md)
+[Index](index) [Previous](chap16) [Next](chap18.md)
 
 ------------------------------------------------------------------------
 
@@ -482,4 +482,4 @@ on earth.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII The Prophet of Mammon](chap18)
+[Next: XVIII The Prophet of Mammon](chap18.md)

@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Age of
-Reason](../../index)  [Thomas Paine](../index) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Age of
+Reason](../../index)  [Thomas Paine](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](rom00)
+[Contents](#contents)    [Start Reading](rom00.md)
 
 ------------------------------------------------------------------------
 
@@ -34,34 +34,34 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1595478442/internetsacredte)
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](rom00)  
-[Table of Contents](rom01)  
+<span id="contents"></span> [Title Page](rom00.md)  
+[Table of Contents](rom01.md)  
 <span id="section_000"></span>
 
 ### Part I
 
-[Editor's Introduction](rom02)  
-[Original Front Matter](rom03)  
-[Preface to the English Edition](rom04)  
-[Preface to the French Edition](rom05)  
-[The Rights of Man](rom06)  
-[Miscellaneous Chapter](rom07)  
-[Conclusion](rom08)  
+[Editor's Introduction](rom02.md)  
+[Original Front Matter](rom03.md)  
+[Preface to the English Edition](rom04.md)  
+[Preface to the French Edition](rom05.md)  
+[The Rights of Man](rom06.md)  
+[Miscellaneous Chapter](rom07.md)  
+[Conclusion](rom08.md)  
 <span id="section_001"></span>
 
 ### Part II
 
-[French Translator's Preface](rom09)  
-[Preface](rom10)  
-[Introduction](rom11)  
-[Chapter I. Of Society and Civilisation](rom12)  
-[Chapter II. Of the Origin of the Present Old Governments](rom13)  
-[Chapter III. Of the Old and New Systems of Government](rom14)  
-[Chapter IV. Of Constitutions](rom15)  
+[French Translator's Preface](rom09.md)  
+[Preface](rom10.md)  
+[Introduction](rom11.md)  
+[Chapter I. Of Society and Civilisation](rom12.md)  
+[Chapter II. Of the Origin of the Present Old Governments](rom13.md)  
+[Chapter III. Of the Old and New Systems of Government](rom14.md)  
+[Chapter IV. Of Constitutions](rom15.md)  
 [Chapter V. Ways and Means of Improving the Condition of Europe
-Interspersed With Miscellaneous Observations](rom16)  
+Interspersed With Miscellaneous Observations](rom16.md)  
 
  
 
-[Appendix](rom17)  
-[Notes](rom18)  
+[Appendix](rom17.md)  
+[Notes](rom18.md)  

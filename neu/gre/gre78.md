@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](gre77)  [Next](gre79) 
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](gre77)  [Next](gre79.md) 
 
 ------------------------------------------------------------------------
 
@@ -49,4 +49,4 @@ and all those who hear my words, and nigh this stead chance to stand."
 ------------------------------------------------------------------------
 
 [Next: Chapter LXXIV: Of Grettir's Wrestling: and how Thorbiorn Angle
-now bought the more part of Drangey](gre79)
+now bought the more part of Drangey](gre79.md)

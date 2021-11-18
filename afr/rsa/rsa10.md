@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa09) [Next](rsa11)
+[Sacred-Texts](../../index) [African](../index) [Index](index) [Previous](rsa09) [Next](rsa11.md)
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 > ------------------------------------------------------------------------
 >
 > *Heaven-herds.*<span
-> id="page_375_fr_21"></span>[21](#page_375_note_21) *Rain-doctors.*
+> id="page_375_fr_21"></span>[21](#page_375_note_21.md) *Rain-doctors.*
 >
 > W<span class="small">E</span> do not make a great distinction between
 > hail and lightning; we say, each is an army of the lord who smites us
@@ -21,10 +21,10 @@
 > boiled away. And the doctors, who are herds of the sky, when they hear
 > that, go out at once, whilst the sound of the hail is still afar off,
 > and begin to light a fire in the isolo;<span
-> id="page_376_fr_22"></span>[22](#page_376_note_22) they do this before
+> id="page_376_fr_22"></span>[22](#page_376_note_22.md) they do this before
 > it has come near, whilst it is still audible at a distance, that when
 > it comes near it may have lost its power, and chiding<span
-> id="page_376_fr_23"></span>[23](#page_376_note_23) be sufficient. For
+> id="page_376_fr_23"></span>[23](#page_376_note_23.md) be sufficient. For
 > if when it thunders the doctor does not at once go out, but stays
 > indoors till the hail cames, even should he go out when it has come,
 > he has no longer power to overcome the hail; for it is difficult to
@@ -36,10 +36,10 @@
 > doctor has not fasted, it is said if the hail-stones strike him much
 > he is near to danger; and it is said that the hail-stones make it
 > manifest that he has no longer any power to contend with the
-> lightning.<span id="page_377_fr_24"></span>[24](#page_377_note_24) And
+> lightning.<span id="page_377_fr_24"></span>[24](#page_377_note_24.md) And
 > he will require to be again purified a second time, that he may have
 > courage. For if whilst herding<span
-> id="page_377_fr_25"></span>[25](#page_377_note_25) he observes that he
+> id="page_377_fr_25"></span>[25](#page_377_note_25.md) he observes that he
 > cannot subject either the hail or the lightning, he has no longer any
 > courage, but is afraid; and even if he see the lightning dazzle his
 > eyes, he is afraid, and wishes to go indoors.
@@ -64,7 +64,7 @@
 > fear."
 >
 >  There is thunder; if it<span
-> id="page_378_fr_26"></span>[26](#page_378_note_26) thunders without
+> id="page_378_fr_26"></span>[26](#page_378_note_26.md) thunders without
 > hailing, but hurls lightning, they do not appoint an inyanga of hail
 > to herd, but an inyanga of lightning to go out and shout; and take
 > courage when there is a heaven-herd herding outside the house. But if
@@ -84,40 +84,40 @@
 > you, "Go on in front;" and he will follow at some distance from you;
 > for he says if you go behind him you will meet with an accident, for
 > the heaven will think you are killing him.<span
-> id="page_379_fr_27"></span>[27](#page_379_note_27) And he makes you go
+> id="page_379_fr_27"></span>[27](#page_379_note_27.md) And he makes you go
 > on in front till you reach home.
 >
 >  Such then is the action of the heaven and of the inyanga; for black
 > men believe in that scolding of the heaven, and that silencing of the
 > hail. They do not imagine that when they say they know <span
 > id="page_380">p. 380</span> that the heaven-herd<span
-> id="page_380_fr_28"></span>[28](#page_380_note_28) is able to contend
+> id="page_380_fr_28"></span>[28](#page_380_note_28.md) is able to contend
 > with the lightning and hail; for these people say, if we ask them,
 > that they do not understand where they get the courage with which they
 > contend with the heaven.
 >
 >  They say that when the heaven is about to be clouded,<span
-> id="page_380_fr_29"></span>[29](#page_380_note_29) and before the
+> id="page_380_fr_29"></span>[29](#page_380_note_29.md) and before the
 > clouds appear or it is evident that it is about to thunder
 > excessively, the inyanga's heart already feels, for there is heat
 > within him, and he is excited by anger; when the sky just begins to be
 > clouded, he too becomes dark like it. For the doctors say they scarify
 > with the heaven,<span
-> id="page_380_fr_30"></span>[30](#page_380_note_30) and eat it. To eat
+> id="page_380_fr_30"></span>[30](#page_380_note_30.md) and eat it. To eat
 > the heaven is this, for the heaven eats cattle, and the <span
 > id="page_381">p. 381</span> doctor takes the flesh of such cattle, and
 > plaes it in a sherd, and the doctor eats it whilst hot,<span
-> id="page_381_fr_31"></span>[31](#page_381_note_31) mixed with his
+> id="page_381_fr_31"></span>[31](#page_381_note_31.md) mixed with his
 > medicines; for where the lightning strikes the ground, the doctors say
 > there is something resembling the shank of assagai,<span
-> id="page_381_fr_32"></span>[32](#page_381_note_32) which remains in
+> id="page_381_fr_32"></span>[32](#page_381_note_32.md) which remains in
 > the earth, and this thing is called a thunderbolt; they dig till they
-> find it,<span id="page_381_fr_33"></span>[33](#page_381_note_33) and
+> find it,<span id="page_381_fr_33"></span>[33](#page_381_note_33.md) and
 > use it as a heaven-medicine; and so they say that the courage which
 > they possess of contending with the heaven is that thunderbolt, which
 > is found where the lightning has struck. Especially the bird also
 > which is called the lightning-bird,<span
-> id="page_381_fr_34"></span>[34](#page_381_note_34) they <span
+> id="page_381_fr_34"></span>[34](#page_381_note_34.md) they <span
 > id="page_382">p. 382</span> say that that is the most powerful among
 > all lightning-medicines. If a doctor does not possess it, but is a
 > doctor only, he cannot have courage as that doctor can who possesses
@@ -130,7 +130,7 @@
 > continually moves about in the house, and seeks a place where he may
 > hide himself. But if the doctor has been surrounded to come and give
 > him heaven-medicine,<span
-> id="page_382_fr_35"></span>[35](#page_382_note_35) then after that if
+> id="page_382_fr_35"></span>[35](#page_382_note_35.md) then after that if
 > it thunders he says, "The doctor has given me medicine; I am no longer
 > afraid."
 >
@@ -164,7 +164,7 @@
 >
 >  When we say herding-doctors, we speak metaphorically, for a man who
 > herds cattle has weapons and his rain-shield.<span
-> id="page_384_fr_36"></span>[36](#page_384_note_36) We take the name of
+> id="page_384_fr_36"></span>[36](#page_384_note_36.md) We take the name of
 > a herder of cattle, and give it to one who counteracts the lightning,
 > for when he keeps it back he shouts as a boy who is herding cattle; if
 > he goes into the cattle-pen with his weapons and is silent, the cattle
@@ -177,15 +177,15 @@
 >  Such doctors as these say they have a common feeling with the heaven.
 > They say this because <span id="page_385">p. 385</span> sometimes it
 > is said a certain doctor sends the lightning<span
-> id="page_385_fr_37"></span>[37](#page_385_note_37) to another doctor
+> id="page_385_fr_37"></span>[37](#page_385_note_37.md) to another doctor
 > to try him whether he is a powerful doctor or not. He does not try the
 > doctor who appointed him; he tries others whose appointment he does
 > not understand;<span
-> id="page_385_fr_38"></span>[38](#page_385_note_38) for it is this by
+> id="page_385_fr_38"></span>[38](#page_385_note_38.md) for it is this by
 > which he sees that another is a doctor indeed, by his sending back to
 > him the lightning, and he too begins to bustle about and to enter his
 > house to set himself in order.<span
-> id="page_385_fr_39"></span>[39](#page_385_note_39)
+> id="page_385_fr_39"></span>[39](#page_385_note_39.md)
 >
 > <span id="page_386">p. 386</span>
 >
@@ -212,7 +212,7 @@
 > on his body, and he came into the house backwards. Another went out,
 > and when he shouted, the heaven stopped his mouth. On that day the
 > heaven turned its back<span
-> id="page_387_fr_40"></span>[40](#page_387_note_40) on the village; it
+> id="page_387_fr_40"></span>[40](#page_387_note_40.md) on the village; it
 > was entirely in its power, and it did its will. They remained in their
 > houses; it entirely destroyed the corn.
 >
@@ -221,7 +221,7 @@
 > herd?"
 >
 >  They replied, "They did not fast.<span
-> id="page_387_fr_41"></span>[41](#page_387_note_41) They are therefore
+> id="page_387_fr_41"></span>[41](#page_387_note_41.md) They are therefore
 > conquered."
 >
 > <span id="page_388">p. 388</span>
@@ -230,37 +230,37 @@
 > it is said that the doctor who appoints him says, "Let him not <span
 > id="page_389">p. 389</span> drink if he is given beer in a cup that is
 > not full." And, "Let him not eat herbs before the feast of
-> firstfruits."<span id="page_389_fr_42"></span>[42](#page_389_note_42)
+> firstfruits."<span id="page_389_fr_42"></span>[42](#page_389_note_42.md)
 > And, "Let him not take a handful of boiled maize from the fireplace,
 > if the maize has not been taken from the pot." And, "Let him not eat
 > the flesh of a bullock until it has been opened." And, "Let him not
 > eat izindumba if he has not been given them." This is the fasting
 > which the doctors speak of. And if a man is hungry and come to men who
-> are drinking<span id="page_389_fr_43"></span>[43](#page_389_note_43)
+> are drinking<span id="page_389_fr_43"></span>[43](#page_389_note_43.md)
 > beer, if the vessel is not full, he would say, "For my part indeed you
 > know that I herd the heaven."
 >
 >  When I was young, about the size of Ungangamana, I saw a
-> rain-man;<span id="page_389_fr_44"></span>[44](#page_389_note_44) his
+> rain-man;<span id="page_389_fr_44"></span>[44](#page_389_note_44.md) his
 > name was Umkqaekana. He was a great doctor even among the
-> Amazulu,<span id="page_389_fr_45"></span>[45](#page_389_note_45)
+> Amazulu,<span id="page_389_fr_45"></span>[45](#page_389_note_45.md)
 > skilful <span id="page_390">p. 390</span> in producing rain. But among
 > the Amazulu he did not show himself much to the chief; for the chiefs
 > of the house of Uzulu used not to allow a mere inferior<span
-> id="page_390_fr_46"></span>[46](#page_390_note_46) to be even said to
+> id="page_390_fr_46"></span>[46](#page_390_note_46.md) to be even said to
 > have power over the heaven; for it was said that the heaven belonged
 > only to the chief of that place. Umkqaekana therefore remained hidden.
 > But he did not cease to produce rain in secret. At length he crossed
 > to this side the Utukela, for he heard that Utshaka had said, "Let all
 > the heaven-doctors be killed." He escaped, and came among the English;
 > he came here without any property, by himself alone.<span
-> id="page_390_fr_47"></span>[47](#page_390_note_47) He came without any
+> id="page_390_fr_47"></span>[47](#page_390_note_47.md) He came without any
 > thing, because he came to his own relations.
 >
 >  He became a dependent of the chief of the Amadhlala; it is the same
 > to whom we were subject; his name was Unjeje, the son of Usechele. And
 > when he had staid a short time, the heaven became very hot and
-> dry.<span id="page_390_fr_48"></span>[48](#page_390_note_48) His own
+> dry.<span id="page_390_fr_48"></span>[48](#page_390_note_48.md) His own
 > people began to whisper about him to the chief, saying, "You see that
 > man; if you ask him, he can cause the rain to drop for you. <span
 > id="page_391">p. 391</span> He is a great doctor above all other
@@ -303,7 +303,7 @@
 >  One day his son, (the one that was most dear to his father, named
 > Unqeto, who went with his father to the forest when he went there; for
 > he said he loved him because he could send him where he wished;<span
-> id="page_392_fr_49"></span>[49](#page_392_note_49) for if a man is
+> id="page_392_fr_49"></span>[49](#page_392_note_49.md) for if a man is
 > causing it to rain, he requires a child, that he may send him
 > constantly without refusing in the least, that the heaven <span
 > id="page_393">p. 393</span> may be yielding,)—this son said to me,
@@ -312,7 +312,7 @@
 > at noon, having herded our cattle near the place. Under an overjutting
 > rock we found covered vessels, and a churning stick; he showed us what
 > his father did, and little bundles of medicine bound with
-> inkonthlwane;<span id="page_393_fr_50"></span>[50](#page_393_note_50)
+> inkonthlwane;<span id="page_393_fr_50"></span>[50](#page_393_note_50.md)
 > he showed us also how his father churned. But when we saw that we were
 > afraid, and did not wish to go in, but ran away, thinking perhaps the
 > lightning would strike us if we touched the medicines of the doctor.
@@ -328,13 +328,13 @@
 > *The Sky, Sun, Moon, and Stars.*
 >
 > T<span class="small">HE</span> blue heaven which we see we suppose is
-> a rock,<span id="page_393_fr_51"></span>[51](#page_393_note_51) and
+> a rock,<span id="page_393_fr_51"></span>[51](#page_393_note_51.md) and
 > that it <span id="page_394">p. 394</span> encircles the earth, the
 > earth being inside the heaven, and the heaven ending outside the
 > earth; and we suppose there is no other earth on the other side of the
 > heaven.
 >
->  And the men<span id="page_394_fr_52"></span>[52](#page_394_note_52)
+>  And the men<span id="page_394_fr_52"></span>[52](#page_394_note_52.md)
 > who, we suppose, are on the other side of the heaven, we do not know
 > whether they are on the rock, or whether there is some little place
 > which is earth on the other side; we do not know that. The one thing
@@ -359,7 +359,7 @@
 > in the heaven; at night it enters by a path which goes into the sea,
 > into the water; it passes through the water, until it again comes out
 > at the place where it rises<span
-> id="page_395_fr_53"></span>[53](#page_395_note_53) in the morning.
+> id="page_395_fr_53"></span>[53](#page_395_note_53.md) in the morning.
 >
 >  As regards the path of the sun, its winter path is different from its
 > summer path; for it travels northward till it reaches a certain
@@ -379,15 +379,15 @@
 >  As to the renewal of the moon, we say it is new moon because we see
 > it in the west. It used to be said the moon dies utterly; but it is
 > not so; the days devour it,<span
-> id="page_396_fr_54"></span>[54](#page_396_note_54) and it goes on
+> id="page_396_fr_54"></span>[54](#page_396_note_54.md) and it goes on
 > diminishing until to appearance it is as thin as a man's nail; and
 > then it is taken by the sun; the sun finds it in the east and travels
 > with it, until he leaves it in the west, and it can be seen when the
 > twilight begins, and we say it is new moon; and it goes on growing
 > until it is full. At last it has it back to the east,<span
-> id="page_396_fr_55"></span>[55](#page_396_note_55) and we say the moon
+> id="page_396_fr_55"></span>[55](#page_396_note_55.md) and we say the moon
 > is rising more and more eastward, and at last it is full;<span
-> id="page_396_fr_56"></span>[56](#page_396_note_56) it rises when the
+> id="page_396_fr_56"></span>[56](#page_396_note_56.md) it rises when the
 > sun sets; and at last the sun rises before the moon sets; and it again
 > wanes, until it dies.
 >
@@ -397,10 +397,10 @@
 >
 > <span id="page_397">p. 397</span>
 >
->  Isikcelankobe<span id="page_397_fr_57"></span>[57](#page_397_note_57)
+>  Isikcelankobe<span id="page_397_fr_57"></span>[57](#page_397_note_57.md)
 > (the evening star) is sometimes invisible, sometimes seen.
 >
->  And Isilimela<span id="page_397_fr_58"></span>[58](#page_397_note_58)
+>  And Isilimela<span id="page_397_fr_58"></span>[58](#page_397_note_58.md)
 > (the Pleiades) dies, and is not seen. It is not seen in winter; and at
 > last, when the winter is coming to an end, it begins to appear—one of
 > its stars first, and then three, until going on increasing it becomes
@@ -423,7 +423,7 @@
 > Indosa arisen, for it arises red, they say, "Let us lie down; it is
 > now night." And so they lie down. A man does not say, "Since Indosa
 > has arisen I shall not now lie down;" he will lie down for a long
-> time.<span id="page_398_fr_59"></span>[59](#page_398_note_59) In the
+> time.<span id="page_398_fr_59"></span>[59](#page_398_note_59.md) In the
 > morning Indosa is very high in the heaven, and the morning star risen.
 >
 > ------------------------------------------------------------------------
@@ -581,9 +581,9 @@
 > in front of the village in all the paths, and near the doorways of the
 > houses, and on the tops of the houses, and near the entrance of the
 > cattle pen. <span id="page_405">p. 405</span> They are treated with a
-> black sheep,<span id="page_405_fr_60"></span>[60](#page_405_note_60)
+> black sheep,<span id="page_405_fr_60"></span>[60](#page_405_note_60.md)
 > that the heaven may be dark<span
-> id="page_405_fr_61"></span>[61](#page_405_note_61) and not wish to
+> id="page_405_fr_61"></span>[61](#page_405_note_61.md) and not wish to
 > strike there again; for if they kill a white sheep it will again
 > strike in that homestead. They wish to work with a black sheep, that
 > the lightning may not strike that homestead again.
@@ -599,14 +599,14 @@
 > *Heaven-Medicines.*
 >
 > U<span class="small">MABOPE</span> is a heaven-medicine which is burnt
-> in the isolo<span id="page_405_fr_62"></span>[62](#page_405_note_62)
+> in the isolo<span id="page_405_fr_62"></span>[62](#page_405_note_62.md)
 > when there is a threatening of a severe thunder storm.<span
-> id="page_405_fr_63"></span>[63](#page_405_note_63) Ubokqo also is used
+> id="page_405_fr_63"></span>[63](#page_405_note_63.md) Ubokqo also is used
 > for smoking the heaven; and umthlonyane is used for the same purpose;
 > and umkatazo is a medicine kept among the doctor's medicines, that if
 > the lightning comes into the house he may <span id="page_406">p.
 > 406</span> puff<span
-> id="page_406_fr_64"></span>[64](#page_406_note_64) at it with this
+> id="page_406_fr_64"></span>[64](#page_406_note_64.md) at it with this
 > medicine, which he mixes with other medicines, whose names I do not
 > know. These then are the heaven-medcines which I know.
 >
@@ -624,7 +624,7 @@
 > in their place; it being known that the old heaven of the year which
 > has passed away has passed away with the old year; but the present
 > year has its own heaven.<span
-> id="page_406_fr_65"></span>[65](#page_406_note_65) Hence new rods are
+> id="page_406_fr_65"></span>[65](#page_406_note_65.md) Hence new rods are
 > set up every year.
 >
 >  When a doctor who herds the heaven eats green food of the new <span
@@ -700,7 +700,7 @@ scarcely understood.</span>
 
 > T<span class="small">HERE</span> are among black men magical songs, by
 > singing which it happens on the day of the great festival,<span
-> id="page_409_fr_66"></span>[66](#page_409_note_66) although the sun
+> id="page_409_fr_66"></span>[66](#page_409_note_66.md) although the sun
 > has been for a long time scorching, that rain comes, and it is said,
 > "The heaven rains with reason, for it is filling up the footprints of
 > the chief, that they may no longer appear where he stood, but be
@@ -721,7 +721,7 @@ scarcely understood.</span>
 > of the son Umyeka, Umyeka went up to the old site, saying, "To-day I
 > am going to fetch my father, for him to come and protect the village.
 > It was not thus when I was living on the Umbava."<span
-> id="page_410_fr_67"></span>[67](#page_410_note_67)
+> id="page_410_fr_67"></span>[67](#page_410_note_67.md)
 >
 >  There went up with him many people, the whole nation, old men, and
 > young men and youths; they went, sleeping in the way till they came
@@ -733,12 +733,12 @@ scarcely understood.</span>
 >
 >  It so happened that the sun had been very scorching at the time of
 > eating new food, in the month called Ungcela,<span
-> id="page_410_fr_68"></span>[68](#page_410_note_68) when they would
+> id="page_410_fr_68"></span>[68](#page_410_note_68.md) when they would
 > have been eating new food if there had not been so much drought. <span
 > id="page_411">p. 411</span> They went on towards the old site, Umyeka
 > going first, followed by his soldiers; they sung the song of his
 > father to arouse him by it, that he might unite with them. The
-> lauders<span id="page_411_fr_69"></span>[69](#page_411_note_69) who
+> lauders<span id="page_411_fr_69"></span>[69](#page_411_note_69.md) who
 > lauded the father, and grandfather, and the son Umyeka, were
 > innumerable. When they reached the cattle-pen, they halted there, and
 > formed a circle; there came too the portion of the tribe which still
@@ -748,16 +748,16 @@ scarcely understood.</span>
 > Thus then they assembled, and danced the shield-dance for a long, long
 > time; after dancing they sang their father's song:—
 >
->  "Dig for<span id="page_411_fr_71"></span>[71](#page_411_note_71) the
+>  "Dig for<span id="page_411_fr_71"></span>[71](#page_411_note_71.md) the
 > chief, and watch our gardens which are at Isiwandiye.<span
-> id="page_411_fr_72"></span>[72](#page_411_note_72)  
+> id="page_411_fr_72"></span>[72](#page_411_note_72.md)  
 >  Those words are naught.<span
-> id="page_411_fr_73"></span>[73](#page_411_note_73)  
+> id="page_411_fr_73"></span>[73](#page_411_note_73.md)  
 >  Dig for the chief, and watch our gardens which are at Isiwandiye.  
 >  Those words are naught.  
 > <span id="page_412">p. 412</span>  
 >  "Which are at Isiwandiye, I-i-i-zi<span
-> id="page_412_fr_74"></span>[74](#page_412_note_74)—which are at
+> id="page_412_fr_74"></span>[74](#page_412_note_74.md)—which are at
 > Isiwandiye.  
 >  Those words are naught."  
 >
@@ -765,7 +765,7 @@ scarcely understood.</span>
 > thundered; they did not leave off, neither did they say, "O, let us
 > run home, for we shall get wet." The old women said, "This day there
 > has come the chief of our land<span
-> id="page_412_fr_75"></span>[75](#page_412_note_75) where our nation
+> id="page_412_fr_75"></span>[75](#page_412_note_75.md) where our nation
 > dwells; we shall see rain also."
 >
 >  The women shouted; it was as though they were mad when they saw the
@@ -774,7 +774,7 @@ scarcely understood.</span>
 > sun. It poured; the rain ran on the ground; they still went on dancing
 > and rejoicing, and saying, "This day the Itongo of our people has
 > united with us, for we see a drop of rain."<span
-> id="page_412_fr_76"></span>[76](#page_412_note_76)
+> id="page_412_fr_76"></span>[76](#page_412_note_76.md)
 >
 >  Umyeka took his shield and went and stood under a tree. The people
 > tired of dancing. He told them to go home. They sat under the tree,
@@ -782,20 +782,20 @@ scarcely understood.</span>
 >
 >  This song is sung only on two occasions; it is not sung before <span
 > id="page_413">p. 413</span> the new year,<span
-> id="page_413_fr_77"></span>[77](#page_413_note_77) when it is sung. It
+> id="page_413_fr_77"></span>[77](#page_413_note_77.md) when it is sung. It
 > is also sung when, if an army has gone out, it has been overtaken by
-> rain<span id="page_413_fr_78"></span>[78](#page_413_note_78) in the
+> rain<span id="page_413_fr_78"></span>[78](#page_413_note_78.md) in the
 > way, and as it is travelling it rains excessively. It will not become
 > bright until this song is sung; then the heaven clears, and they go
 > whither they wish to go.
 >
 >  Such then are the songs of chiefs. A chief has not two each has his
 > own, the ancient song of the chiefs of the several nations.<span
-> id="page_413_fr_79"></span>[79](#page_413_note_79)
+> id="page_413_fr_79"></span>[79](#page_413_note_79.md)
 
 ------------------------------------------------------------------------
 
-[Next](rsa11)
+[Next](rsa11.md)
 
 ------------------------------------------------------------------------
 
@@ -803,7 +803,7 @@ scarcely understood.</span>
 
 <span id="footnotes_page_375">p. 375</span>
 
- <span id="page_375_note_21"></span>[21](#page_375_fr_21)
+ <span id="page_375_note_21"></span>[21](#page_375_fr_21.md)
 *Heaven-herds*; or Sky-herds.
 
 > H<span class="small">EAVEN-HERDS</span> are said to herd the heaven,
@@ -822,11 +822,11 @@ scarcely understood.</span>
 
 <span id="footnotes_page_376">p. 376</span>
 
- <span id="page_376_note_22"></span>[22](#page_376_fr_22) *Isolo* is a
+ <span id="page_376_note_22"></span>[22](#page_376_fr_22.md) *Isolo* is a
 fireplace outside the kraal, but near it, where medicines capable of
 influencing the heaven—heaven-medicines—are burnt.
 
- <span id="page_376_note_23"></span>[23](#page_376_fr_23) That is, by
+ <span id="page_376_note_23"></span>[23](#page_376_fr_23.md) That is, by
 burning the heaven-medicines whilst the hail is still distant, they
 diminish its power, so that when it comes, if it should be able to come
 at all, it may be unable to do any harm; but may be readily made to obey
@@ -834,11 +834,11 @@ the doctor's command to depart.
 
 <span id="footnotes_page_377">p. 377</span>
 
- <span id="page_377_note_24"></span>[24](#page_377_fr_24) *Ukumelana
+ <span id="page_377_note_24"></span>[24](#page_377_fr_24.md) *Ukumelana
 nezulu,—ukumelana nonyazi*,—to counteract the heaven or the
 lightning,—is an expression we shall often meet with. I point out,
 without being able to say whether there is any similarity in meaning, a
-passage—[Ps. lxxiii. 9](../../bib/kjv/psa.htm#73:9)—"They set their
+passage—[Ps. lxxiii. 9](../../bib/kjv/psa.htm#73:9.md)—"They set their
 mouth against the heaven," which we shall best render by, *Ba melana
 ngomlomo wabo nezulu*. No doubt the heaven in the Hebrew Scriptures is
 often synonymous with God; in other places it is spoken of as an object
@@ -846,12 +846,12 @@ of idol-adoration. There were sorcerers, diviners, and those with
 familiar spirits known to the Hebrews; there might also have been
 rain-doctors and sky-doctors.
 
- <span id="page_377_note_25"></span>[25](#page_377_fr_25) That is,
+ <span id="page_377_note_25"></span>[25](#page_377_fr_25.md) That is,
 whilst endeavouring to turn back the storm.
 
 <span id="footnotes_page_378">p. 378</span>
 
- <span id="page_378_note_26"></span>[26](#page_378_fr_26) *It—izulu*,
+ <span id="page_378_note_26"></span>[26](#page_378_fr_26.md) *It—izulu*,
 throughout spoken of as though it was a person, possessed of
 intelligence. The literal translation of the sentence is: There is
 thunder; if the heaven thunders, without bringing hail-stones, but urges
@@ -859,7 +859,7 @@ on the lightning.
 
 <span id="footnotes_page_379">p. 379</span>
 
- <span id="page_379_note_27"></span>[27](#page_379_fr_27) From this it
+ <span id="page_379_note_27"></span>[27](#page_379_fr_27.md) From this it
 is clear that we are not to regard the heaven-herd as an opponent of the
 heaven; but as a priest to whom is entrusted the power of prevailing
 mediation. He is under the protection of the heaven; and his enemies,
@@ -867,19 +867,19 @@ real or supposed, are liable to be destroyed by it, whilst he is safe so
 long as he is observant of the laws of his office. Heathen have
 sometimes asked me to pray for rain because I am one whose office it is
 "ukumelana nenkosi," to contend with God. Compare [Gen. xxxii.
-24](../../bib/kjv/gen.htm#32:24)-28. And see below, where the heaven
+24](../../bib/kjv/gen.htm#32:24.md)-28. And see below, where the heaven
 avenges the death of the rain-doctor.
 
 <span id="footnotes_page_380">p. 380</span>
 
- <span id="page_380_note_28"></span>[28](#page_380_fr_28) Or sky-doctor,
+ <span id="page_380_note_28"></span>[28](#page_380_fr_28.md) Or sky-doctor,
 heaven meaning the sky, which is not supposed to be very high above the
 earth.
 
- <span id="page_380_note_29"></span>[29](#page_380_fr_29) Lit., about to
+ <span id="page_380_note_29"></span>[29](#page_380_fr_29.md) Lit., about to
 arm.
 
- <span id="page_380_note_30"></span>[30](#page_380_fr_30) I have
+ <span id="page_380_note_30"></span>[30](#page_380_fr_30.md) I have
 translated literally here, but it will be scarcely intelligible to the
 English reader without explanation. The natives say they scarify with
 the heaven, that is, make scarifications and rub in medicines, and eat
@@ -901,20 +901,20 @@ many other instances; *similia similibus*,— lightning by lightning.
 
 <span id="footnotes_page_381">p. 381</span>
 
- <span id="page_381_note_31"></span>[31](#page_381_fr_31) *Ukuncinda*,
+ <span id="page_381_note_31"></span>[31](#page_381_fr_31.md) *Ukuncinda*,
 makes an *izembe*, and eats it, see [p. 290, note
-52](rsa09.htm#page_290_note_52).
+52](rsa09.htm#page_290_note_52.md).
 
- <span id="page_381_note_32"></span>[32](#page_381_fr_32) *Umsuka* is
+ <span id="page_381_note_32"></span>[32](#page_381_fr_32.md) *Umsuka* is
 the shank of an assagai, or of a native pick, or any thing of that kind.
 
- <span id="page_381_note_33"></span>[33](#page_381_fr_33) It is said
+ <span id="page_381_note_33"></span>[33](#page_381_fr_33.md) It is said
 that the doctors are directed to the place where the thunderbolt is by
 watching during a storm, and, going to the place where they suppose they
 saw the lightning strike, they find a heap of jelly-like substance over
 the spot where the bolt entered, and digging find it.
 
- <span id="page_381_note_34"></span>[34](#page_381_fr_34) In the legends
+ <span id="page_381_note_34"></span>[34](#page_381_fr_34.md) In the legends
 of the American Indians we meet with accounts of Thunder-birds, or
 Cloud-birds. "They frequently explain the thunder as the sound of the
 cloud-bird flapping his wings, and the lightning as the fire that
@@ -944,27 +944,27 @@ thunder is supposed to come out of the egg. (*Life among the Indians,
 p.* 166.)—Jupiter's Eagle probably has some connection with such
 legends.
 
- <span id="page_382_note_35"></span>[35](#page_382_fr_35) Lit., the very
+ <span id="page_382_note_35"></span>[35](#page_382_fr_35.md) Lit., the very
 heaven, meaning thereby, the fat of the lightning-bird, or its flesh, or
 portion of a thunder-bolt.
 
 <span id="footnotes_page_384">p. 384</span>
 
- <span id="page_384_note_36"></span>[36](#page_384_fr_36) A small shield
+ <span id="page_384_note_36"></span>[36](#page_384_fr_36.md) A small shield
 which is used as an umbrella to ward off rain and hail.
 
 <span id="footnotes_page_385">p. 385</span>
 
- <span id="page_385_note_37"></span>[37](#page_385_fr_37) Lit., the
+ <span id="page_385_note_37"></span>[37](#page_385_fr_37.md) Lit., the
 heaven, or sky.
 
- <span id="page_385_note_38"></span>[38](#page_385_fr_38) Here again we
+ <span id="page_385_note_38"></span>[38](#page_385_fr_38.md) Here again we
 have apparently an intimation that the *izinyanga* were priests—not
 self-appointed, but commissioned by others who preceded them. But there
 appears also to have been dissidents—those whose commission was not
 known. Man is the same every where.
 
- <span id="page_385_note_39"></span>[39](#page_385_fr_39) We find
+ <span id="page_385_note_39"></span>[39](#page_385_fr_39.md) We find
 similar trials of skill among sorcerers of other countries. It is said a
 German sorcerer was called to see if he could not "extinguish" our
 far-famed sorcerer Roger Bacon. He raised a spirit which he ordered to
@@ -987,11 +987,11 @@ quickly as to his goblin-cat." (*Icelandic Legends, p.* 262.)
 
 <span id="footnotes_page_387">p. 387</span>
 
- <span id="page_387_note_40"></span>[40](#page_387_fr_40) It is well to
+ <span id="page_387_note_40"></span>[40](#page_387_fr_40.md) It is well to
 note this use of *fulatela*; to turn the back on an enemy means to have
 conquered him utterly.
 
- <span id="page_387_note_41"></span>[41](#page_387_fr_41) Here we find
+ <span id="page_387_note_41"></span>[41](#page_387_fr_41.md) Here we find
 fasting—abstinence from food and labour—one of the conditions of
 successful performance of the duties of an office. There is this saying
 among the natives, "*Umzimba ow esutayo njalo-njalo u nge bone kahle
@@ -1063,7 +1063,7 @@ hero nearly perished in the attempt. (*Id., p.* 156.)
 
 <span id="footnotes_page_389">p. 389</span>
 
- <span id="page_389_note_42"></span>[42](#page_389_fr_42) At the period
+ <span id="page_389_note_42"></span>[42](#page_389_fr_42.md) At the period
 of the year when the new food is ripe, varying with different places,
 the chief summons all his people to a festival, (which is called
 *ukudhlala umkosi*;) all the people make beer, which they take with them
@@ -1075,54 +1075,54 @@ eat the new produce. If any one is known to eat new food before this
 festival he is regarded as an *umtakati*, and is killed, or has all his
 cattle taken away.
 
- <span id="page_389_note_43"></span>[43](#page_389_fr_43) The natives
+ <span id="page_389_note_43"></span>[43](#page_389_fr_43.md) The natives
 speak of beer as food,—and of eating it, and appeasing hunger by it.
 They also call snuff food, and speak of eating it.
 
- <span id="page_389_note_44"></span>[44](#page_389_fr_44) I translate
+ <span id="page_389_note_44"></span>[44](#page_389_fr_44.md) I translate
 literally, a rain-man or man of rain, a rain-doctor, one capable of
 causing rain or drought.
 
- <span id="page_389_note_45"></span>[45](#page_389_fr_45) Lit., In the
+ <span id="page_389_note_45"></span>[45](#page_389_fr_45.md) Lit., In the
 house, country, or nation of Uzulu; that is, of the traditional founder
 or unkulunkulu of the Zulu nation.
 
 <span id="footnotes_page_390">p. 390</span>
 
- <span id="page_390_note_46"></span>[46](#page_390_fr_46) *Uzana*, dim.
+ <span id="page_390_note_46"></span>[46](#page_390_fr_46.md) *Uzana*, dim.
 of *ize*, nothing; *izana*, a little nothing, that is, something less
 than nothing itself. *Uzana*, a proper name, meaning
 *The-less-than-nothing-man*. All men of low degree are called
 *aba-ntwana bakazana*, Children of Uzana,—this hypothetical man of
 naught.
 
- <span id="page_390_note_47"></span>[47](#page_390_fr_47) Lit., Just
+ <span id="page_390_note_47"></span>[47](#page_390_fr_47.md) Lit., Just
 walking, that is, without any incumbrances of property or cattle.
 
- <span id="page_390_note_48"></span>[48](#page_390_fr_48) There was long
+ <span id="page_390_note_48"></span>[48](#page_390_fr_48.md) There was long
 continued drought and hot weather.
 
 <span id="footnotes_page_392">p. 392</span>
 
- <span id="page_392_note_49"></span>[49](#page_392_fr_49) Lit.,
+ <span id="page_392_note_49"></span>[49](#page_392_fr_49.md) Lit.,
 *Send-able*,—ready to go on a mission.
 
 <span id="footnotes_page_393">p. 393</span>
 
- <span id="page_393_note_50"></span>[50](#page_393_fr_50)
+ <span id="page_393_note_50"></span>[50](#page_393_fr_50.md)
 *Inkonthlwane*, a small tree whose bark is white, and used to tie up
 bundles.
 
- <span id="page_393_note_51"></span>[51](#page_393_fr_51) The notion
+ <span id="page_393_note_51"></span>[51](#page_393_fr_51.md) The notion
 that the heaven is a solid body or roof over this world is very common,
 probably universal, among primitive peoples. The Hebrews spoke of it as
 a firmament, that is, a beaten out solid expanse, which was "strong as a
-molten looking glass." [Job. xxxvii. 18](../../bib/kjv/job.htm#37:18).
+molten looking glass." [Job. xxxvii. 18](../../bib/kjv/job.htm#37:18.md).
 It was supposed to support a celestial reservoir of waters, and to have
 doors, open lattices, and windows, through which rain, hail, and dew
 descend. It also supported the heavenly bodies; and is spoken <span
 id="footnotes_page_394">p. 394</span> of as a floor on which the throne
-of God rests. [Ezek. i. 26](../../bib/kjv/eze.htm#1:26). The Greeks had
+of God rests. [Ezek. i. 26](../../bib/kjv/eze.htm#1:26.md). The Greeks had
 similar ideas, and applied the terms brazen and iron to the sky. The
 Latin cœlum is a hollow place, or cave scooped out of solid space.
 (*Smith's Dictionary of the Bible*. F<span
@@ -1140,125 +1140,125 @@ Bible. (*Types of Mankind. Nott and Gliddon, p.* 569.)
 
 <span id="footnotes_page_394">p. 394</span>
 
- <span id="page_394_note_52"></span>[52](#page_394_fr_52) See *Nursery
+ <span id="page_394_note_52"></span>[52](#page_394_fr_52.md) See *Nursery
 Tales of the Zulus. Vol. I., p.* 316. Appendix.
 
 <span id="footnotes_page_395">p. 395</span>
 
- <span id="page_395_note_53"></span>[53](#page_395_fr_53) We see here
+ <span id="page_395_note_53"></span>[53](#page_395_fr_53.md) We see here
 the reason of the rising of the sun being expressed by *ukupuma*, to
 come out, because it is supposed to come out of the water.
 
 <span id="footnotes_page_396">p. 396</span>
 
- <span id="page_396_note_54"></span>[54](#page_396_fr_54) How easily a
+ <span id="page_396_note_54"></span>[54](#page_396_fr_54.md) How easily a
 mythical personification may arise from such a metaphor as this.
 
- <span id="page_396_note_55"></span>[55](#page_396_fr_55) *Enzansi* here
+ <span id="page_396_note_55"></span>[55](#page_396_fr_55.md) *Enzansi* here
 meaning by the sea, which is, Eastward.
 
- <span id="page_396_note_56"></span>[56](#page_396_fr_56) *Dilingana* is
+ <span id="page_396_note_56"></span>[56](#page_396_fr_56.md) *Dilingana* is
 also used to express full moon. *Inyanga se i dilingene*, The moon is
 now full.
 
 <span id="footnotes_page_397">p. 397</span>
 
- <span id="page_397_note_57"></span>[57](#page_397_fr_57)
+ <span id="page_397_note_57"></span>[57](#page_397_fr_57.md)
 *Isikcelankobe*, also called *Isipekankobe.—Isi-kcela-nkobe: Izinkobe*
 is boiled maize; *ukukcela*, to ask. The star which appears when men are
 asking for boiled maize,—their evening meal.—*Isi-peka-nko-be: ukupeka*,
 to boil. When the maize is boiling for the evening meal.
 
- <span id="page_397_note_58"></span>[58](#page_397_fr_58) *Isilimela*,
+ <span id="page_397_note_58"></span>[58](#page_397_fr_58.md) *Isilimela*,
 The digging-for-\[stars.\] Because when the Pleiades appear the people
 begin to dig. *Isilimela se si ba landile abalimi*, The Pleiades have
 now fetched the diggers.
 
 <span id="footnotes_page_398">p. 398</span>
 
- <span id="page_398_note_59"></span>[59](#page_398_fr_59) Lit., until he
+ <span id="page_398_note_59"></span>[59](#page_398_fr_59.md) Lit., until he
 forgets, that is, is in a deep sleep.
 
 <span id="footnotes_page_405">p. 405</span>
 
- <span id="page_405_note_60"></span>[60](#page_405_fr_60) The Ossetes,
+ <span id="page_405_note_60"></span>[60](#page_405_fr_60.md) The Ossetes,
 in the Caucasus, a half Christian race, sacrifice a black goat to Elias,
 and hang the skin on a pole, when any one is struck by lightning.
 (*Thorpe. Op. cit. Vol. I., p.* 173.)
 
- <span id="page_405_note_61"></span>[61](#page_405_fr_61) That is,
+ <span id="page_405_note_61"></span>[61](#page_405_fr_61.md) That is,
 unable to see clearly, so as to strike again where the black sheep has
 been sacrificed.
 
- <span id="page_405_note_62"></span>[62](#page_405_fr_62) See [p. 376,
-note 22](#page_376_note_22).
+ <span id="page_405_note_62"></span>[62](#page_405_fr_62.md) See [p. 376,
+note 22](#page_376_note_22.md).
 
- <span id="page_405_note_63"></span>[63](#page_405_fr_63) Lit., If the
+ <span id="page_405_note_63"></span>[63](#page_405_fr_63.md) Lit., If the
 heaven is coming badly.
 
 <span id="footnotes_page_406">p. 406</span>
 
- <span id="page_406_note_64"></span>[64](#page_406_fr_64) The medicine
+ <span id="page_406_note_64"></span>[64](#page_406_fr_64.md) The medicine
 is chewed, and whilst the breath is saturated with it, the doctor puffs
 at it.
 
- <span id="page_406_note_65"></span>[65](#page_406_fr_65) That is, each
+ <span id="page_406_note_65"></span>[65](#page_406_fr_65.md) That is, each
 year has a character of weather peculiar to itself. This is remarkably
 true of Natal, no two years being alike.
 
 <span id="footnotes_page_409">p. 409</span>
 
- <span id="page_409_note_66"></span>[66](#page_409_fr_66) That is, the
+ <span id="page_409_note_66"></span>[66](#page_409_fr_66.md) That is, the
 great festival of firstfruits.
 
 <span id="footnotes_page_410">p. 410</span>
 
- <span id="page_410_note_67"></span>[67](#page_410_fr_67) Umbava, a
+ <span id="page_410_note_67"></span>[67](#page_410_fr_67.md) Umbava, a
 river, on which Umzimvubu was built. It is near Table Mountain, and runs
 into the Umgeni. Umzimvubu, if interpreted, means the
 Hippopotamus-village.
 
- <span id="page_410_note_68"></span>[68](#page_410_fr_68) January.
+ <span id="page_410_note_68"></span>[68](#page_410_fr_68.md) January.
 
 <span id="footnotes_page_411">p. 411</span>
 
- <span id="page_411_note_69"></span>[69](#page_411_fr_69) *Imbongi se
+ <span id="page_411_note_69"></span>[69](#page_411_fr_69.md) *Imbongi se
 inye*, the lauders were one; that is, the lauders were innumerable. Just
 as in such sentences as the following:—*A ku se si yo nembongi e
 bongayo*, There is not now even one lauder lauding; that is, the lauders
 are very many.
 
- <span id="page_411_note_71"></span>[71](#page_411_fr_71) *Limel’*—dig
+ <span id="page_411_note_71"></span>[71](#page_411_fr_71.md) *Limel’*—dig
 for, not known for whom, but probably, as here translated, the chief.
 
- <span id="page_411_note_72"></span>[72](#page_411_fr_72)
+ <span id="page_411_note_72"></span>[72](#page_411_fr_72.md)
 *Asesiwandiye*.—Isiwandiye *for* Isiwandile. The name of a place, as if
 of a place where there were many gardens.
 
- <span id="page_411_note_73"></span>[73](#page_411_fr_73) *Those words
+ <span id="page_411_note_73"></span>[73](#page_411_fr_73.md) *Those words
 are naught*,—that is, we object to dig at Isiwandile.
 
 <span id="footnotes_page_412">p. 412</span>
 
- <span id="page_412_note_74"></span>[74](#page_412_fr_74) *I-i-i-zi.*—Z
+ <span id="page_412_note_74"></span>[74](#page_412_fr_74.md) *I-i-i-zi.*—Z
 in zi pronounced as in azure. This chorus is used for the purpose of
 emphatically asserting the subject of the song.
 
- <span id="page_412_note_75"></span>[75](#page_412_fr_75) *Inkosi
+ <span id="page_412_note_75"></span>[75](#page_412_fr_75.md) *Inkosi
 yomhlaba*, The chief to whom the land belongs,—an *inkosi yohlanga*, or
 chief descended from a race of primitive chiefs.
 
- <span id="page_412_note_76"></span>[76](#page_412_fr_76) *Itonsi
+ <span id="page_412_note_76"></span>[76](#page_412_fr_76.md) *Itonsi
 lemvula*.—Here again a drop of rain means abundance of rain.
 
 <span id="footnotes_page_413">p. 413</span>
 
- <span id="page_413_note_77"></span>[77](#page_413_fr_77) The feast of
+ <span id="page_413_note_77"></span>[77](#page_413_fr_77.md) The feast of
 firstfruits.
 
- <span id="page_413_note_78"></span>[78](#page_413_fr_78) Lit., heaven.
+ <span id="page_413_note_78"></span>[78](#page_413_fr_78.md) Lit., heaven.
 
- <span id="page_413_note_79"></span>[79](#page_413_fr_79) These are
+ <span id="page_413_note_79"></span>[79](#page_413_fr_79.md) These are
 national songs.
 
  The national song of the Amazulu consists of a number of musical sounds

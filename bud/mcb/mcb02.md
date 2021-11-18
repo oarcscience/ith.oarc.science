@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](mcb01)  [Next](mcb03) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](mcb01)  [Next](mcb03.md) 
 
 ------------------------------------------------------------------------
 
@@ -32,4 +32,4 @@ DAISETZ T. SUZUKI
 
 ------------------------------------------------------------------------
 
-[Next: Meister Eckhart and Buddhism](mcb03)
+[Next: Meister Eckhart and Buddhism](mcb03.md)

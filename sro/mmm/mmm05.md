@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](mmm04)  [Next](mmm06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](mmm04)  [Next](mmm06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002RHOOXI/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Traces of a Hidden Tradition in Masonry and Medieval Mysticism*, by
 Isabel Cooper-Oakley, \[1900\], at Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ and the part but little known in the general world, namely, that of
 their work as spiritual teachers, their secret language, and above all
 their secret doctrine.
 
-Rossetti <span id="fr_91"></span>[\*](#fn_91) in his valuable book gives
+Rossetti <span id="fr_91"></span>[\*](#fn_91.md) in his valuable book gives
 many proofs of the existence of a mystic language in the "Secret
 Schools," and of the "double" and even "triple language" used by these
 Troubadours in communicating with each other. These details must be
@@ -121,7 +121,7 @@ devout and holy things written in those times, we must first consider
 who composed them; and thus we shall be able to reconcile the frequent
 contradictions which are apparent between the verses and the actions of
 the Troubadours and Trouveurs." <span
-id="fr_92"></span>[\*](#fn_92)</span>
+id="fr_92"></span>[\*](#fn_92.md)</span>
 
 It is remarkable that this secret language should have remained so
 little known, since it gives a clue of almost unmeasured importance to
@@ -242,7 +242,7 @@ that the words which he mentions as revealing the common origin of the
 language in the three countries are precisely those which the sectarian
 poets so frequently use in their mysterious compositions.</span>
 
-Aroux <span id="fr_93"></span>[\*](#fn_93) further explains that these
+Aroux <span id="fr_93"></span>[\*](#fn_93.md) further explains that these
 "importers" of the "triple language" were divided into three bands, each
 having its own idiom: one set traversed the south of Europe, another the
 north, another the part of Asia and Europe occupied by those now called
@@ -251,13 +251,13 @@ European soil of the Catholics, the other on the eastern land of the
 Manichæans."
 
 But it is from another of his interesting works <span
-id="fr_94"></span>[†](#fn_94) that we get the most intimate details
+id="fr_94"></span>[†](#fn_94.md) that we get the most intimate details
 about the organization of these Troubadour heretics, and their spiritual
 teaching; the passages are so important that it is better to give them
-in full. <span id="fr_95"></span>[‡](#fn_95)
+in full. <span id="fr_95"></span>[‡](#fn_95.md)
 
 <span class="small">The eminent professor <span
-id="fr_96"></span>[§](#fn_96) whom we follow untiringly because he is an
+id="fr_96"></span>[§](#fn_96.md) whom we follow untiringly because he is an
 authority on the subject, had no suspicion, when making researches into
 the elements composing the</span>
 
@@ -290,7 +290,7 @@ classes of society, their doctrines must have taken a long time to
 filter through the lower ranks.
 
 At the time of the complete organization <span
-id="fr_97"></span>[\*](#fn_97) of the sectarian propaganda, that is to
+id="fr_97"></span>[\*](#fn_97.md) of the sectarian propaganda, that is to
 say from 1150 to 1200, the most brilliant period of Provençal
 literature, Fauriel rightly distinguishes different orders of
 troubadours and jesters,
@@ -588,15 +588,15 @@ The most bitter feeling on the part of the Catholics was aroused from
 the fact that the teachings they denounced were so closely allied to
 those inculcated by themselves, and that the lives of the heretics shone
 out as stars against the blackness of the mediæval monastic life. <span
-id="fr_98"></span>[\*](#fn_98) Indeed, the majority of the higher
+id="fr_98"></span>[\*](#fn_98.md) Indeed, the majority of the higher
 classes became Troubadours, and when prevented by persecution from
-speaking, they took refuge in song, <span id="fr_99"></span>[†](#fn_99)
+speaking, they took refuge in song, <span id="fr_99"></span>[†](#fn_99.md)
 and treated their subjects sometimes seriously, sometimes lightly, but
 ever was there, as we have seen, a dual meaning in *La gaie saber*, or
 the "Art of loving": for the true "union of love," as Aroux points out,
 meant the attachment of the "Perfect Chevalier" to the "celestial
 chivalry," for such were those knights <span
-id="fr_100"></span>[‡](#fn_100) called who gave themselves to the
+id="fr_100"></span>[‡](#fn_100.md) called who gave themselves to the
 service of the "Holy Grail," or the "Mystic Quest," *i.e.*, to the inner
 service, or initiation, of their secret body. They were indeed:
 
@@ -613,9 +613,9 @@ spreading of the knowledge of the mystic doctrine. Such, for
 
 <span id="page_121">p. 121</span>
 
-instance, was Peter Waldo, <span id="fr_101"></span>[\*](#fn_101) who
+instance, was Peter Waldo, <span id="fr_101"></span>[\*](#fn_101.md) who
 became the founder of the powerful groups of Waldensians, <span
-id="fr_102"></span>[†](#fn_102) or the "Poor of Lyons," a secret body
+id="fr_102"></span>[†](#fn_102.md) or the "Poor of Lyons," a secret body
 with masonic connections. He was first attracted to serious subjects by
 a Troubadour who was reciting a poem in the streets of Lyons—a chant in
 favour of the ascetic life; Waldo invited the Troubadour in, and from
@@ -623,9 +623,9 @@ that time became one of them.
 
 We must here digress from the mystic aspect, in order to give a slight
 outline on the general organisation, which can be taken from Baret's
-admirable work on the subject; <span id="fr_103"></span>[‡](#fn_103) he
+admirable work on the subject; <span id="fr_103"></span>[‡](#fn_103.md) he
 gives a chart of the chief School of Troubadours as follows: <span
-id="fr_104"></span>[§](#fn_104)
+id="fr_104"></span>[§](#fn_104.md)
 
 <div align="center">
 
@@ -652,7 +652,7 @@ further, others we may term "The Mystical," or even "Hermetic"; the
 standpoint. Baret emphasizes the fact that theological matters occupied
 the attention of the Troubadours much more than history. Nostradamus
 enumerates several works of this kind. <span
-id="fr_105"></span>[\*](#fn_105) In the Vatican Library, says Baret,
+id="fr_105"></span>[\*](#fn_105.md) In the Vatican Library, says Baret,
 there, are four anonymous treatises which belong to the Provençal
 literature.
 
@@ -665,7 +665,7 @@ powerful "secret organization" extended with its mystic traditions.
 Aroux, in connecting the Troubadours with the Albigenses on one side,
 links them also to the Manichæan religion on the other, that most
 pernicious—according to the Roman Church—of all heresies, because the
-most vital; <span id="fr_106"></span>[†](#fn_106) and, indeed, nothing
+most vital; <span id="fr_106"></span>[†](#fn_106.md) and, indeed, nothing
 but the wholesale bloodshed undertaken by
 
 <span id="page_123">p. 123</span>
@@ -677,7 +677,7 @@ touching a deeper truth than perhaps they know. As the above-mentioned
 writer points out, the Troubadours and the "Steinmetzen or
 Bridge-Builders" were connected, and "among them, too, the Freemasons
 found ample occupation"; this is accurately true, for from Manes <span
-id="fr_107"></span>[\*](#fn_107) " the widow's son," descends the
+id="fr_107"></span>[\*](#fn_107.md) " the widow's son," descends the
 tradition which was common to Troubadour and Freemason; their
 hieroglyphs were in many cases identical and the signs common to both.
 Manes went into Egypt and brought back from thence the ancient
@@ -692,7 +692,7 @@ From the death of Manes, 276 A.D., there was
 
 <span id="page_124">p. 124</span>
 
-an intimate alliance <span id="fr_108"></span>[\*](#fn_108)—even a
+an intimate alliance <span id="fr_108"></span>[\*](#fn_108.md)—even a
 fusion—with some of the leading Gnostic sects, and thence do we derive
 the intermingling of the two richest streams of oriental Wisdom: the
 one, directly through Persia from India; the other, traversing that
@@ -716,7 +716,7 @@ with them came from the East the chivalric ideal, and they
 
 chanted of love and sang of heaven: but the love was a "Divine Love,"
 and their heaven was the wisdom and peace of those who sought the higher
-life. As Aroux <span id="fr_109"></span>[\*](#fn_109) says, the chief
+life. As Aroux <span id="fr_109"></span>[\*](#fn_109.md) says, the chief
 object which dominated the work of these "Trouveurs" \[Troubadours\] was
 chivalry—"not the feudal, fighting, iniquitous chivalry, as corrupt as
 it was ignorant," but that tone of thought which is well termed mystic,
@@ -752,7 +752,7 @@ courage, and endure privations with fortitude; but they live like wild
 beasts, washing neither their bodies nor even their clothes, which they
 only take off when they fall into rags, and *going into each other's
 houses without asking permission*." <span
-id="fr_110"></span>[\*](#fn_110)
+id="fr_110"></span>[\*](#fn_110.md)
 
 Chivalry was the virtue of warriors. Founded on justice, it corrected
 the abuses of force, which is the right of war; founded on humanity, it
@@ -769,13 +769,13 @@ only one nor even the first, required of an Arab Knight. Ten qualities
 were indispensable to give him a right to this name, namely: goodness,
 valour, courtesy, poetry, elegance of speech, strength, horsemanship,
 skill in the use of lance, sword and bow. <span
-id="fr_111"></span>[†](#fn_111)
+id="fr_111"></span>[†](#fn_111.md)
 
 <span id="page_127">p. 127</span>
 
 This "Celestial Chivalry"—Aroux demonstrates—was derived from the
 "Albigensian Gospel," whose "Evangel" or "Gospel" was again derived from
-the Manichæan-Marcion tradition. <span id="fr_112"></span>[\*](#fn_112)
+the Manichæan-Marcion tradition. <span id="fr_112"></span>[\*](#fn_112.md)
 These Albigenses were identical with the Cathari, and the Troubadours
 were the links bearing the secret teaching from one body to another. "
 Thus one sees them taking every form: by turns, artizans, colporteurs,
@@ -804,7 +804,7 @@ heart.
 
 To turn to another aspect it is curious to think of the Troubadours as
 authorities in dress and etiquette. Rutherford says: <span
-id="fr_113"></span>[\*](#fn_113) "They prepared the youth of both sexes
+id="fr_113"></span>[\*](#fn_113.md) "They prepared the youth of both sexes
 for society, and they drew up rules for their guidance therein," and
 then he gives a most interesting quotation from a Troubadour, Amanieu
 des Escas, who instructed a young man of rank while he was a Page or
@@ -848,10 +848,10 @@ hog, or a hen, whichever it sees first, and migrates from one to the
 other until a new body of man or woman is born for it? . . . This thou
 hast taught to deluded people, whom thou hast given to the devil and
 taken away from God. May every place and every land that has supported
-thee perish!'" <span id="fr_114"></span>[\*](#fn_114)
+thee perish!'" <span id="fr_114"></span>[\*](#fn_114.md)
 
 It is curious and suggestive to find that St. Francis of Assisi had been
-a Troubadour; Görres <span id="fr_115"></span>[†](#fn_115) speaks of him
+a Troubadour; Görres <span id="fr_115"></span>[†](#fn_115.md) speaks of him
 as a "genuine Troubadour," and there is no doubt that he and some of his
 Franciscans were at one time members of the heretical Cathari: indeed it
 is questionable whether he was at any time an orthodox Churchman,
@@ -862,7 +862,7 @@ A few words must now be devoted to what may be termed the general
 position of the Troubadours, the place and functions of some of them at
 least. Among the most illustrious of the Troubadours was Alfonso the
 Second, King of Arragon (1162-1196). Ticknor <span
-id="fr_116"></span>[‡](#fn_116) says: "From 1209 to 1229, the shameful
+id="fr_116"></span>[‡](#fn_116.md) says: "From 1209 to 1229, the shameful
 war which gave birth to the Inquisition was carried on with
 extraordinary cruelty against the Albigenses, a religious sect in
 Provence, accused of heresy, but persecuted rather by an implacable
@@ -874,7 +874,7 @@ political ambition.
 in some points opposed the pretensions of the See of Rome, and was at
 last exterminated by a crusade under the Papal Authority—belonged nearly
 all the contemporary Troubadours, whose poetry is full of their
-sufferings and remonstrances. <span id="fr_117"></span>[\*](#fn_117) In
+sufferings and remonstrances. <span id="fr_117"></span>[\*](#fn_117.md) In
 their great distress, the principal ally of the Albigenses and
 Troubadours was Peter the Second of Arragon, who in 1213 perished nobly
 fighting in their cause at the disastrous battle of Muret. When
@@ -906,7 +906,7 @@ religious and mystic teaching; and later, in 1400-1500, the Celestial
 Chivalry was the great standard set before the people, as a national
 ideal.
 
-Says Ticknor: <span id="fr_118"></span>[\*](#fn_118) "Religious romances
+Says Ticknor: <span id="fr_118"></span>[\*](#fn_118.md) "Religious romances
 were written . . . in the form of Allegories, like the 'Celestial
 Chivalry,' the 'Christian Chivalry,' 'The Knight of the Bright Star'";
 and this author remarks that the object of that interesting book—the
@@ -917,7 +917,7 @@ The titles he uses are worth attention, the first part being called "The
 Root of the Fragrant Rose"; the second, "The Leaves of the Rose." The
 names are suggestive, for it was just at this period, when, owing to
 bitter persecution, the Cathari and Albigenses were nearly
-exterminated, <span id="fr_119"></span>[†](#fn_119) that the
+exterminated, <span id="fr_119"></span>[†](#fn_119.md) that the
 Rosicrucians
 
 <span id="page_133">p. 133</span>
@@ -928,14 +928,14 @@ three years fitting himself for the work to come.
 
 The Rose was one of the ancient traditional mystic symbols, re-adapted
 by the Rosicrucians, and used, indeed, by all sectaries and mystics
-Aroux <span id="fr_120"></span>[\*](#fn_120) asserts that the famous
-*Roman de la Rose* <span id="fr_121"></span>[†](#fn_121) was not only a
+Aroux <span id="fr_120"></span>[\*](#fn_120.md) asserts that the famous
+*Roman de la Rose* <span id="fr_121"></span>[†](#fn_121.md) was not only a
 satire against the Pontifical Court, but also the apotheosis of heresy,
 for it contained the Hermetic Science under the guise of a religious
 poem.
 
-Rossetti <span id="fr_122"></span>[‡](#fn_122) is as emphatic about this
-symbolic language, and Warton <span id="fr_123"></span>[§](#fn_123)
+Rossetti <span id="fr_122"></span>[‡](#fn_122.md) is as emphatic about this
+symbolic language, and Warton <span id="fr_123"></span>[§](#fn_123.md)
 gives us the following suggestive hints: "In the preface of the edition
 \[to this poem,\] printed in the year 1583, all this allegory is turned
 to religion. The Rose is proved to be a state of grace or divine wisdom,
@@ -952,7 +952,7 @@ exquisitely beautiful and refined symbolic meanings of the sacred Rose.
 Thus as we study the Troubadours it becomes evident that an enormous
 under-current of secret teaching was being carried on, and Rutherford
 gives us some important hints on this point which have been previously
-noticed <span id="fr_124"></span>[\*](#fn_124) but may again be usefully
+noticed <span id="fr_124"></span>[\*](#fn_124.md) but may again be usefully
 referred to since they illustrate this particular fact and verify much
 that is said by Aroux.
 
@@ -974,11 +974,11 @@ complete mystery to the uninitiated.</span>
 It has been said that Rutherford has allied the Troubadours with the
 Freemasons, and the latter body has an undoubtedly Manichæan tradition.
 For confirmation on this point we can refer to what is said by a very
-well-known Masonic authority, <span id="fr_125"></span>[\*](#fn_125)
+well-known Masonic authority, <span id="fr_125"></span>[\*](#fn_125.md)
 whose knowledge about Masonry is unquestionable:
 
 <span class="small">Sons of the Widow <span
-id="fr_126"></span>[†](#fn_126)—a powerful society founded by Manes, a
+id="fr_126"></span>[†](#fn_126.md)—a powerful society founded by Manes, a
 Persian slave . . . . and continued to the present day; it consisted of
 two degrees: 1. Auditor. 2. Elect. It was at peace under the Mother of
 the Emperor Anastasius (A.D. 491-518), but was persecuted by Justin. In
@@ -1006,11 +1006,11 @@ Ancient Wisdom once more reigns supreme.
 
 ### Footnotes
 
-<span id="fn_91"></span>[104:\*](mmm05.htm#fr_91) Rossetti (Gabriele),
+<span id="fn_91"></span>[104:\*](mmm05.htm#fr_91) Rossetti (Gabriele.md),
 *Disquisitions on the Anti-papal Spirit which produced the Reformation*,
 ii, 1I2, 170. London, 1834.
 
-<span id="fn_92"></span>[106:\*](mmm05.htm#fr_92) Rossetti, Gabriele,
+<span id="fn_92"></span>[106:\*](mmm05.htm#fr_92.md) Rossetti, Gabriele,
 *Disquisitions on the Antipapal Spirit which produced the Reformation*,
 ii., 113-115. London, 1834.
 
@@ -1029,58 +1029,58 @@ les sociniens, les swedenborgiens, les francs-maçons, et enfin les
 carbonari."—Delécluze (E. J.), *Dante Alighieri, ou la Poésie
 Amoureuse;* pp. 605-606. Paris, 1848.
 
-<span id="fn_93"></span>[110:\*](mmm05.htm#fr_93) Aroux (Eugene), *Dante
+<span id="fn_93"></span>[110:\*](mmm05.htm#fr_93) Aroux (Eugene.md), *Dante
 Hérétique, Révolutionnaire et Socialiste, Révélations d’un Catholique*,
 p. 388. Paris, 1854.
 
-<span id="fn_94"></span>[110:†](mmm05.htm#fr_94) Aroux (E.), *Les
+<span id="fn_94"></span>[110:†](mmm05.htm#fr_94) Aroux (E..md), *Les
 Mystères de la Chevalerie*, pp. 161-169. Paris, 1858.
 
-<span id="fn_95"></span>[110:‡](mmm05.htm#fr_95) The phrases "True human
+<span id="fn_95"></span>[110:‡](mmm05.htm#fr_95.md) The phrases "True human
 race" and "Sectarians" are generally applied to Mystics, also to the
 Manichæans, Albigenses, Troubadours, Palmers, and Palmieri; it meant
 those men and women throughout the world, of every nation and in every
 clime, who were seeking the inner life in its true sense; and who will
 be the "first fruits" of the "Redeemer," in the mystical sense.
 
-<span id="fn_96"></span>[110:§](mmm05.htm#fr_96) Aroux is here referring
+<span id="fn_96"></span>[110:§](mmm05.htm#fr_96.md) Aroux is here referring
 to Fauriel (M.P., Paris), whose works on the Provençal literature have
 been so often quoted in these pages.
 
-<span id="fn_97"></span>[111:\*](mmm05.htm#fr_97) This was just before
+<span id="fn_97"></span>[111:\*](mmm05.htm#fr_97.md) This was just before
 the most deadly persecutions began. There was an extraordinarily
 extended organization of this so-called heretical church.
 
-<span id="fn_98"></span>[120:\*](mmm05.htm#fr_98) Lecky (W. E. H.,
+<span id="fn_98"></span>[120:\*](mmm05.htm#fr_98.md) Lecky (W. E. H.,
 M.A.), *History of European Morals*, ii. 217. London, 1877.
 
-<span id="fn_99"></span>[120:†](mmm05.htm#fr_99) Thus we have the
+<span id="fn_99"></span>[120:†](mmm05.htm#fr_99.md) Thus we have the
 "Bible" of Guiot von Provins; and the whole cycle of the "Grail
 legends."
 
-<span id="fn_100"></span>[120:‡](mmm05.htm#fr_100) Wolfram von
+<span id="fn_100"></span>[120:‡](mmm05.htm#fr_100.md) Wolfram von
 Eschenbach was one of these.
 
-<span id="fn_101"></span>[121:\*](mmm05.htm#fr_101) See Gilly, D.D. (W.
+<span id="fn_101"></span>[121:\*](mmm05.htm#fr_101.md) See Gilly, D.D. (W.
 S.), *The Romaunt version of the Gospel according to St. John;* from
 MSS. preserved in Trinity College, Dublin. Introduction, pp. xc. xcix.
 
-<span id="fn_102"></span>[121:†](mmm05.htm#fr_102) Also called Valdès,
+<span id="fn_102"></span>[121:†](mmm05.htm#fr_102.md) Also called Valdès,
 Valdernis, Valdensis, and then Waldensis.
 
-<span id="fn_103"></span>[121:‡](mmm05.htm#fr_103) Baret (Eugène), *Les
+<span id="fn_103"></span>[121:‡](mmm05.htm#fr_103) Baret (Eugène.md), *Les
 Troubadours et leur Influence sur la Littérature du Midi de l’Europe*,
 p. 64. Paris, 1867.
 
-<span id="fn_104"></span>[121:§](mmm05.htm#fr_104) These are the French
+<span id="fn_104"></span>[121:§](mmm05.htm#fr_104.md) These are the French
 Schools only; Germany, Italy, Austria, and the Danubian Provinces
 contained as many.
 
-<span id="fn_105"></span>[122:\*](mmm05.htm#fr_105) There is one of
+<span id="fn_105"></span>[122:\*](mmm05.htm#fr_105.md) There is one of
 importance, *Traité sur la Doctrine des Albigeois et Tuschius*, by Raoul
 de Gassin.
 
-<span id="fn_106"></span>[122:†](mmm05.htm#fr_106) Says Lea: "When to
+<span id="fn_106"></span>[122:†](mmm05.htm#fr_106.md) Says Lea: "When to
 Dualism is added the doctrine of transmigration as a means of reward and
 retribution, the sufferings of man seem to be fully accounted for. . . .
 Manes had so skilfully compounded Mazdean Dualism with Christianity and
@@ -1088,7 +1088,7 @@ with Gnostic and Buddhist elements, that his doctrines found favour with
 high and low, with the subtle intellects of the Schools, and with the
 toiling masses." *Hist. of the Inquisition*, i. 89. London, 1888.
 
-<span id="fn_107"></span>[123:\*](mmm05.htm#fr_107) Mani—or Cubricus—was
+<span id="fn_107"></span>[123:\*](mmm05.htm#fr_107.md) Mani—or Cubricus—was
 the pupil of Terebinthe (who was afterwards called Buddas). He was an
 Egyptian Philosopher, and from him Manes received the Hermetic
 tradition; Manichæism was based on the Ancient Babylonian religion with
@@ -1097,7 +1097,7 @@ joined the Manichæan stream were the Basilideans, Marcionites, and
 Bardesanites. See Beausobre (M. de), *Histoire critique de Manichée*, 2
 vols. Amsterdam, 1734.
 
-<span id="fn_108"></span>[124:\*](mmm05.htm#fr_108) Says Lea: "Of all
+<span id="fn_108"></span>[124:\*](mmm05.htm#fr_108.md) Says Lea: "Of all
 the heresies with which the early Church had to contend, none had
 excited such mingled fear and loathing as Manichæism." And again: "The
 Manichæism of the Cathari, Patarins, or Albigenses, was not a mere
@@ -1105,7 +1105,7 @@ speculative dogma of the schools, but a faith which aroused fanaticism
 so enthusiastic that its devotees shrank from no sacrifices in its
 propagation." Lea (H. C.), *op. cit.*, i. 89.
 
-<span id="fn_109"></span>[125:\*](mmm05.htm#fr_109) Aroux (Eugène), *Les
+<span id="fn_109"></span>[125:\*](mmm05.htm#fr_109) Aroux (Eugène.md), *Les
 Mysterès de la Chevalerie*, pp. 69-71. Paris, 1858.
 
 "*Every Knight has the power to create Knights*. There is in the hand
@@ -1114,11 +1114,11 @@ I did not dare) which is really capable of creating other
 Knights."—Gautier (Léon), *Chivalry*, trs. Henry Frith, p. 223. London,
 1891.
 
-<span id="fn_110"></span>[126:\*](mmm05.htm#fr_110) "O believers! enter
+<span id="fn_110"></span>[126:\*](mmm05.htm#fr_110.md) "O believers! enter
 not into a strange house without asking permission to do so." (*Koran*,
 Sour. XXIV., v., 27). Jos. Conde, Part I., cap. 18.
 
-<span id="fn_111"></span>[126:†](mmm05.htm#fr_111) "Fue muy buen
+<span id="fn_111"></span>[126:†](mmm05.htm#fr_111.md) "Fue muy buen
 caballero, y se decia de él que tenia las diez prendas qué distinguen à
 los nobles y generosos, qué consisten en <span id="page_127">p.
 127</span> bondad, valentia, caballeria, gentileza, poesia, bien hablar,
@@ -1136,7 +1136,7 @@ a man well born and well bred, of one whom the English call a
 *gentleman*. Viardot (L), *Histoire des Arabes et des Mores d’ Espagne*,
 ii., pp. 197, 199. Paris, 1851.
 
-<span id="fn_112"></span>[127:\*](mmm05.htm#fr_112) Lea (H. C.), *op.
+<span id="fn_112"></span>[127:\*](mmm05.htm#fr_112) Lea (H. C..md), *op.
 cit.*, i. 92: A further irrefragable evidence of the derivation of
 Catharism from Manichæism is furnished by the sacred thread and garment
 which were worn by all the Perfect among the Cathari. This custom is too
@@ -1149,19 +1149,19 @@ Aryan family. Among the Cathari the wearer of the thread and vestment
 was what was known among the inquisitors as the '*hæreticus indutus*' or
 '*vestitus*,' initiated into all the mysteries of the heresy."
 
-<span id="fn_113"></span>[128:\*](mmm05.htm#fr_113) Rutherford (John),
+<span id="fn_113"></span>[128:\*](mmm05.htm#fr_113) Rutherford (John.md),
 *The Troubadours, their Loves and Lyrics*, p. 4. London, 1893.
 
-<span id="fn_114"></span>[130:\*](mmm05.htm#fr_114) Hueffer (Francis),
+<span id="fn_114"></span>[130:\*](mmm05.htm#fr_114) Hueffer (Francis.md),
 *The Troubadours*, p. 32. London, 1878.
 
-<span id="fn_115"></span>[130:†](mmm05.htm#fr_115) Görres (J.), *Der
+<span id="fn_115"></span>[130:†](mmm05.htm#fr_115) Görres (J..md), *Der
 heilige Franciskus von Assisi, ein Troubadour*. Strassburg, 1826.
 
-<span id="fn_116"></span>[130:‡](mmm05.htm#fr_116) Ticknor (George),
+<span id="fn_116"></span>[130:‡](mmm05.htm#fr_116) Ticknor (George.md),
 *History of Spanish Literature*, i., p.p. 284 285. 1849.
 
-<span id="fn_117"></span>[131:\*](mmm05.htm#fr_117) The following note
+<span id="fn_117"></span>[131:\*](mmm05.htm#fr_117.md) The following note
 is given by this author: "Sismondi (*Hist. des Français*, Paris, 8vo.
 tom. vi. and vii. 1823, 1826), gives an ample account of the cruelties
 and horrors of the war of the Albigenses, and Llorente (*Histoire de l’
@@ -1170,10 +1170,10 @@ war with the origin of the Inquisition. The fact that nearly all the
 Troubadours took part with the persecuted Albigenses is equally
 notorious. *Histoire Litt. de la France*, tom. xviii., p. 588.
 
-<span id="fn_118"></span>[132:\*](mmm05.htm#fr_118) Ticknor (George),
+<span id="fn_118"></span>[132:\*](mmm05.htm#fr_118) Ticknor (George.md),
 *Hist. of Spanish Literature*, i. 220, 221. London, 1849.
 
-<span id="fn_119"></span>[132:†](mmm05.htm#fr_119) "By order of the same
+<span id="fn_119"></span>[132:†](mmm05.htm#fr_119.md) "By order of the same
 François I., his General Almeida extirpated with a cruelty unusual even
 in those times, the remnant of the Albigenses still lurking in the
 villages of Provence, a sect, it should be remembered, <span
@@ -1183,33 +1183,33 @@ naturally have preserved the symbols and tokens for mutual recognition
 so much in vogue, as history and existing monuments attest." King M.A.
 (C. W.), *The Gnostics and their Remains*, p. 399. London, 1887.
 
-<span id="fn_120"></span>[133:\*](mmm05.htm#fr_120) Aroux (Eugène),
+<span id="fn_120"></span>[133:\*](mmm05.htm#fr_120) Aroux (Eugène.md),
 *Dante, Hérétique, Révolutionnaire et Socialiste*, p. 83. Paris, 1854.
 
-<span id="fn_121"></span>[133:†](mmm05.htm#fr_121) Begun by Guillaume de
+<span id="fn_121"></span>[133:†](mmm05.htm#fr_121.md) Begun by Guillaume de
 Loris—a Troubadour-1260, finished by Jean de Meung, Poet, Alchemist, and
 Astrologer. It is a Hermetic treatise of much value.
 
-<span id="fn_122"></span>[133:‡](mmm05.htm#fr_122) Rossetti (Gabriele),
+<span id="fn_122"></span>[133:‡](mmm05.htm#fr_122) Rossetti (Gabriele.md),
 *Il Mistero dell’ Amor Platonico del Medio Evo,* ii. 411-414. London,
 1840.
 
-<span id="fn_123"></span>[133:§](mmm05.htm#fr_123) Warton (Thomas),
+<span id="fn_123"></span>[133:§](mmm05.htm#fr_123) Warton (Thomas.md),
 *Hist. of English Poetry*, II., p. 149, note d. London, 1840.
 
-<span id="fn_124"></span>[134:\*](mmm05.htm#fr_124) *The Theosophical
+<span id="fn_124"></span>[134:\*](mmm05.htm#fr_124.md) *The Theosophical
 Review*, xxiv. 202. London, 1899.
 
-<span id="fn_125"></span>[135:\*](mmm05.htm#fr_125) Mackenzie (Kenneth
+<span id="fn_125"></span>[135:\*](mmm05.htm#fr_125.md) Mackenzie (Kenneth
 R. H., ix°), *The Royal Masonic Cyclopædia*, p. 768. New York, 1898.
 
-<span id="fn_126"></span>[135:†](mmm05.htm#fr_126) This term is applied
+<span id="fn_126"></span>[135:†](mmm05.htm#fr_126.md) This term is applied
 to the Albigensian Troubadours; and it was employed amongst themselves.
 
 <div class="filenav">
 
 ------------------------------------------------------------------------
 
-[Next: Part I](mmm06)
+[Next: Part I](mmm06.md)
 
 </div>

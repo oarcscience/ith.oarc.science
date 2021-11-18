@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Apocrypha](../apo/index)  [Index](index)  [Previous](did00) 
-[Next](did02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Apocrypha](../apo/index)  [Index](index)  [Previous](did00.md) 
+[Next](did02.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Didache*, by Charles H. Hoole, \[1894\], at Intangible Textual
 Heritage
 
@@ -27,8 +27,8 @@ containing, besides other works, a complete text of the First and Second
 Epistles of St. Clement to the Corinthians, which had only existed
 previously in a mutilated state in the Codex Alexandrinus, and a lost
 work called "The Didache, or Teaching of the Apostles," which, though
-mentioned in Athanasius <span id="fr_0"></span>[1](#fn_0) and
-Eusebius <span id="fr_1"></span>[2](#fn_1) among the Apocryphal books of
+mentioned in Athanasius <span id="fr_0"></span>[1](#fn_0.md) and
+Eusebius <span id="fr_1"></span>[2](#fn_1.md) among the Apocryphal books of
 the New Testament, had not, since the time of Nicephorus in the ninth
 century, been known or quoted. The publication of the text by Bryennius
 soon led to the discovery that, although new as a work with the title of
@@ -63,7 +63,7 @@ first century, a work handed down by oral tradition which was supposed
 to embody the verbal teaching of the first Apostles. The expression
 itself, διδαχὴ τῶν άποστόλων, "teaching of the Apostles," occurs in Acts
 xi. 42, and the use of the word διδαχὴ for teaching or doctrine is
-common in the New Testament, <span id="fr_2"></span>[1](#fn_2) so that
+common in the New Testament, <span id="fr_2"></span>[1](#fn_2.md) so that
 it would be the natural title for a collection of sayings or precepts
 
 <span id="page_.v">p. .v</span>
@@ -113,12 +113,12 @@ Gerizim—Gerizim representing the path of obedience and Ebal that of
 transgression, blessings being pronounced from the one and curses from
 the other; and the command, we are told, was actually carried out by
 Joshua after the Israelites had occupied Palestine. <span
-id="fr_3"></span>[1](#fn_3) The same notion occurs in the prophecies of
+id="fr_3"></span>[1](#fn_3.md) The same notion occurs in the prophecies of
 Jeremiah xxi. 8: "Thus saith the Lord, Behold I set before you the way
 of life and the way of death." It is also found in the classical writers
 as early as Hesiod, and it appears in the fable called "The Choice of
 Hercules," attributed to Prodicus the sophist. <span
-id="fr_4"></span>[2](#fn_4) The notion is that of two paths placed
+id="fr_4"></span>[2](#fn_4.md) The notion is that of two paths placed
 before a person at the commencement of his career, the one narrow and
 difficult but right, the other easy and pleasant but wrong. In this
 shape it is found in the Canonical Gospels, cf. Matt. vii. 13, where the
@@ -168,7 +168,7 @@ Duæ Viæ or Judicium Petri, and the διδαχὰι τῶν ἀποστόλω�
 doctrines of the Apostles. From the first comes the doctrine of the two
 paths; from the second, the directions for the administration of the
 Sacraments and the appointment and maintenance of ministers of
-religion. <span id="fr_5"></span>[1](#fn_5)
+religion. <span id="fr_5"></span>[1](#fn_5.md)
 
 <span id="page_ix">p. ix</span>
 
@@ -217,7 +217,7 @@ ethical grounds, and with little reference to Scripture, but more to the
 <span id="page_xiv">p. xiv</span>
 
 allusion to the system of the Peripatetics might be traced in the use of
-the terms δύναμις and ἐνέργεια. <span id="fr_6"></span>[1](#fn_6)
+the terms δύναμις and ἐνέργεια. <span id="fr_6"></span>[1](#fn_6.md)
 
 Long passage in Greek omitted…
 
@@ -226,7 +226,7 @@ Long passage in Greek omitted…
 …
 
 Next follows the recently discovered work, which is best described as
-the Duæ Viæ or Judicium Petri. <span id="fr_7"></span>[1](#fn_7) It does
+the Duæ Viæ or Judicium Petri. <span id="fr_7"></span>[1](#fn_7.md) It does
 not seem to be quite complete, as though two ways are mentioned in c. I,
 only the ὁδὸς ζωῆς is given in detail, the ὁδὸς θανάτου being omitted;
 it concludes with directions for the appointment of church officers. It
@@ -235,7 +235,7 @@ Epitome or Duæ Viæ and a well-known
 
 <span id="page_xvi">p. xvi</span>
 
-fragment of Papias, <span id="fr_8"></span>[1](#fn_8) so that it might
+fragment of Papias, <span id="fr_8"></span>[1](#fn_8.md) so that it might
 almost be conjectured that a portion of the Λογῶν κυριακῶν ἐξήγησις of
 Papias was contained in the Judicium Petri, which would thus carry the
 source of the Teaching of the Apostles almost to the Apostolic period.
@@ -275,7 +275,7 @@ importance, and forming out of their teaching a short manual of duty.
 The shortness of the treatise published by Bryennius seems to suggest
 the latter view, which will make the work somewhat resemble the Syriac
 version of Ignatius, which is now acknowledged to be an abridgment of
-the Greek. <span id="fr_9"></span>[1](#fn_9)
+the Greek. <span id="fr_9"></span>[1](#fn_9.md)
 
 <span id="page_xvii">p. xvii</span>
 
@@ -289,24 +289,24 @@ Long passage in Greek omitted…
 
 ### Footnotes
 
-<span id="fn_0"></span>[iii:1](did01.htm#fr_0) Athanasius, Epist. Fest.
+<span id="fn_0"></span>[iii:1](did01.htm#fr_0.md) Athanasius, Epist. Fest.
 39.
 
-<span id="fn_1"></span>[iii:2](did01.htm#fr_1) Euseb., H, E. iii. 25, 4,
+<span id="fn_1"></span>[iii:2](did01.htm#fr_1.md) Euseb., H, E. iii. 25, 4,
 5.
 
-<span id="fn_2"></span>[iv:1](did01.htm#fr_2) Matt. vii. 28, xvi. 12;
+<span id="fn_2"></span>[iv:1](did01.htm#fr_2.md) Matt. vii. 28, xvi. 12;
 Mark i. 27, iv. 2; John vii. 16, xviii. 11; Acts xiii. 12, xvii. 19;
 Rom. vi. 17; 1 Cor. xiv. 16, 26; 2 Tim. iv. 2; Titus i. 9; Heb. vi. 2,
 xiii. 9; 2 John 9, 10. The word is always translated "doctrine" in the
 Authorised Version.
 
-<span id="fn_3"></span>[vi:1](did01.htm#fr_3) Joshua viii. 32.
+<span id="fn_3"></span>[vi:1](did01.htm#fr_3.md) Joshua viii. 32.
 
-<span id="fn_4"></span>[vi:2](did01.htm#fr_4) Hesiod, Op. et Dies, 285;
+<span id="fn_4"></span>[vi:2](did01.htm#fr_4.md) Hesiod, Op. et Dies, 285;
 Prodicus apud Xenophont. Mem. ii. 1, 21.
 
-<span id="fn_5"></span>[viii:1](did01.htm#fr_5) The latter work seems to
+<span id="fn_5"></span>[viii:1](did01.htm#fr_5.md) The latter work seems to
 have been known under various titles, such as the Dun Via;, the Judicium
 Petri, \#\#\#. The Epitome or Judicium Petri was missing until 1842,
 when it was published at Giessen by Bichell, and afterwards by
@@ -342,10 +342,10 @@ Matthæus Blastares. \#\#\#.—Coteler, i. 193.
 Cyprian de Aleatoribus, c. Et in Doctrinis Apostolorum, Si quis frater
 delinquit in Ecclesia, &c.
 
-<span id="fn_6"></span>[xiv:1](did01.htm#fr_6) Hermas Pastor. Mand. i.
+<span id="fn_6"></span>[xiv:1](did01.htm#fr_6.md) Hermas Pastor. Mand. i.
 1.
 
-<span id="fn_7"></span>[xv:1](did01.htm#fr_7) This title is not found in
+<span id="fn_7"></span>[xv:1](did01.htm#fr_7.md) This title is not found in
 the manuscripts where the work is called Αἱ διαταγαὶ αἱ διὰ Κλήμεντος,
 and ἐπιτομὴ ὅρων τῶν ἁίων ἀποστόλων. Hilgenfeld has conjectured, with
 some plausibility, that it is in reality a portion of the missing
@@ -354,10 +354,10 @@ be a collection of precepts on the subject of the Two Paths, with St.
 Peter as the chief speaker. The commencement should be compared with
 that of the Epistle of Barnabas.
 
-<span id="fn_8"></span>[xvi:1](did01.htm#fr_8) \#\#\#—Papias, Frag. 1;
+<span id="fn_8"></span>[xvi:1](did01.htm#fr_8.md) \#\#\#—Papias, Frag. 1;
 Euseb. H.E. iii. 39.…
 
-<span id="fn_9"></span>[xxvi:1](did01.htm#fr_9) Whiston seems to have
+<span id="fn_9"></span>[xxvi:1](did01.htm#fr_9.md) Whiston seems to have
 supposed that he had discovered the missing Διδαχὴ τῶν ἀποστόλων in some
 Arabic fragments of the Apostolical Constitutions found by him in the
 Bodleian Library at Oxford; but though he was right in his conjecture
@@ -377,6 +377,6 @@ entirely incorrect.
 
 ------------------------------------------------------------------------
 
-[Next: Introduction to Greek Text](did02)
+[Next: Introduction to Greek Text](did02.md)
 
 </div>

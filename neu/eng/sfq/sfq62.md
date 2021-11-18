@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas &
-Legends](../../index)  [England](../index)  [Index](index) 
-[Previous](sfq61)  [Next](sfq63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas &
+Legends](../../index)  [England](../index)  [Index](index.md) 
+[Previous](sfq61)  [Next](sfq63.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,7 +21,7 @@ boasted in his presumption that he
 <span id="img_29100"></span>
 
 [![](tn/29100.jpg)  
-Click to enlarge](img/29100.jpg)
+Click to enlarge](img/29100.jpg.md)
 
 would accurately weigh the whole world, if he had anything to match it
 in the other scale. He said he
@@ -95,4 +95,4 @@ Artegall, and they went on together.
 
 ------------------------------------------------------------------------
 
-[Next: Borrowed Plumes, and the Fate of the Snowy Lady](sfq63)
+[Next: Borrowed Plumes, and the Fate of the Snowy Lady](sfq63.md)

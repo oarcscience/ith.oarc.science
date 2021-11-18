@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp83)  [Next](prp85) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp83)  [Next](prp85.md) 
 
 ------------------------------------------------------------------------
 
@@ -136,4 +136,4 @@ sportive Venus shall have spent my feeble strength.
 
 ------------------------------------------------------------------------
 
-[Next: 85. Neither of garden nor of blessed vine](prp85)
+[Next: 85. Neither of garden nor of blessed vine](prp85.md)

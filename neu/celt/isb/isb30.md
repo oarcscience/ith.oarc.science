@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](isb29)  [Next](isb31) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](isb29)  [Next](isb31.md) 
 
 ------------------------------------------------------------------------
 
@@ -268,4 +268,4 @@ the best thing in both poems.
 
 ------------------------------------------------------------------------
 
-[Next: Templemoyle--Derry](isb31)
+[Next: Templemoyle--Derry](isb31.md)

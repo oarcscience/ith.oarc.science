@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain32)  [Next](ain34) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain32)  [Next](ain34.md) 
 
 ------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ personification of premonition.
 
 ------------------------------------------------------------------------
 
-[Next: The Story Of Pahtahnkum](ain34)
+[Next: The Story Of Pahtahnkum](ain34.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](bosc03)  [Next](bosc05) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](bosc03)  [Next](bosc05.md) 
 
 ------------------------------------------------------------------------
 
@@ -188,4 +188,4 @@ creation of the world, and its origin.
 ------------------------------------------------------------------------
 
 [Next: Chapter III. Of the Creation of the World According to Those
-Residing on the Sea-Coast](bosc05)
+Residing on the Sea-Coast](bosc05.md)

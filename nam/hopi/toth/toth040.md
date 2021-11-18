@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Hopi](../index)  [Index](index) 
-[Previous](toth039)  [Next](toth041) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Hopi](../index)  [Index](index.md) 
+[Previous](toth039)  [Next](toth041.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DUCNKA/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Traditions of the Hopi*, by H.R. Voth, \[1905\], at Intangible
 Textual Heritage
 
@@ -18,7 +18,7 @@ Textual Heritage
 
 <span id="page_136">p. 136</span>
 
-## 37. THE YOUTH AND MAIDEN WHO PLAYED HIDE AND SEEK FOR THEIR LIFE. <span id="fr_96"></span>[1](#fn_94)
+## 37. THE YOUTH AND MAIDEN WHO PLAYED HIDE AND SEEK FOR THEIR LIFE. <span id="fr_96"></span>[1](#fn_94.md)
 
 Ishyaoí! In Oraíbi the people were living. At the west end of the south
 row of houses lived a youth. A short distance north-east of the present
@@ -164,7 +164,7 @@ It was a blue shirt such as the Hopi used to wear. "Now take off your
 beads," she said, and, not knowing what she intended to do, he did so.
 She hereupon grabbed him by the hair, jerked out a knife from behind her
 belt, bent him over the hole that she had made, and cut his throat,
-letting the blood run into the hole. <span id="fr_97"></span>[1](#fn_95)
+letting the blood run into the hole. <span id="fr_97"></span>[1](#fn_95.md)
 She then closed up this hole, dug another one somewhat to the north and
 dragged the body to it, burying it in this grave.
 
@@ -225,7 +225,7 @@ house and waited there. While they were standing there they heard a
 noise in the house, some clapping and shaking. When the young man had
 shaken his shirt and the beads at the mána, an evil charm had entered
 her and she was changed into "Tíhkuy Wuhti" <span
-id="fr_98"></span>[1](#fn_96) (child protruding woman). She entered an
+id="fr_98"></span>[1](#fn_96) (child protruding woman.md). She entered an
 inner room and came out dressed in a white ówa. Her hair was now tied up
 like that of a married woman, but her face and clothes were all bloody.
 While she had put on this costume the noise and rattle in the room where
@@ -261,14 +261,14 @@ prayer-offerings, however, are always deposited in the night.
 
 ### Footnotes
 
-<span id="fn_94"></span>[136:1](toth040.htm#fr_96) Told by Wikvaya
+<span id="fn_94"></span>[136:1](toth040.htm#fr_96.md) Told by Wikvaya
 (Oraíbi).
 
-<span id="fn_95"></span>[139:1](toth040.htm#fr_97) I have found other
+<span id="fn_95"></span>[139:1](toth040.htm#fr_97.md) I have found other
 evidences in the Hopi tradition that point to the probability that human
 sacrifices existed among the ancestors of the Hopi.
 
-<span id="fn_96"></span>[140:1](toth040.htm#fr_98) This personage occurs
+<span id="fn_96"></span>[140:1](toth040.htm#fr_98.md) This personage occurs
 in various Hopi tales. Some say that in a migrating party a woman was
 about to be confined. But as she was in labor a long time, she asked to
 be left behind. Her request was granted, the child being only partly
@@ -277,4 +277,4 @@ Ceremony," by H, R Voth, page 353.
 
 ------------------------------------------------------------------------
 
-[Next: 38. The Maiden Who Stole the Youth's Costume](toth041)
+[Next: 38. The Maiden Who Stole the Youth's Costume](toth041.md)

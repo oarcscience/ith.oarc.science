@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml28)  [Next](tml30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml28)  [Next](tml30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -144,7 +144,7 @@ this land can converse safely with its strange people."
 Soon there came towards the seafarers a giant who called each seafarer
 by his name and spoke freely. The men were stricken with terror, and
 answered him not. Thorkill told them that the giant was Geirrod's
-brother. and was named Gudmund <span id="fr_61"></span>[1](#fn_61); he
+brother. and was named Gudmund <span id="fr_61"></span>[1](#fn_61.md); he
 was guardian of that weird land, and protected from peril all men who
 sojourned there.
 
@@ -160,7 +160,7 @@ desired to cross it, so fair did it seem, but Gudmund warned them that
 the river which they gazed upon divided the land of mortals from the
 land of horrid sights, and that the opposite bank was by sacred decree
 declared unlawful for mortals to tread. <span
-id="fr_62"></span>[1](#fn_62) So they went onward by the road they had
+id="fr_62"></span>[1](#fn_62.md) So they went onward by the road they had
 taken, until they came to the dwelling place of Gudmund.
 
 Privily did Thorkill then speak unto his companions, and warned them to
@@ -191,7 +191,7 @@ So the giant sought to tempt them further. To the king he offered his
 daughter for wife, and unto the others he would fain give brides also.
 But Thorkill prevailed upon them to make refusal. All save four of the
 men obeyed him, and these were made insane. <span
-id="fr_63"></span>[1](#fn_63)
+id="fr_63"></span>[1](#fn_63.md)
 
 Then Gudmund invited the king to visit his garden, so that he might
 partake of its wondrous fruits; but Gorm was warned by Thorkill and
@@ -282,7 +282,7 @@ sitting on a high ledge, the old giant Geirrod. His body was transfixed
 to the cliff by a javelin. Three giant maids with broken spines lay
 squirming beside him. These were the monsters whom Thor had thus
 punished because that they sought to overcome him with treachery. <span
-id="fr_64"></span>[1](#fn_64)
+id="fr_64"></span>[1](#fn_64.md)
 
 From the halls of torture the bold seafarers passed to a chamber of
 treasures, where the air was sweet. Fair indeed was the spectacle they
@@ -301,7 +301,7 @@ they pay life's cost for their boldness. The tusk became a sword which
 pierced the heart of him who laid hands upon it, the armlet became a
 venomous snake which stung to death the man who held it, and the great
 horn was transformed into a fiery dragon which devoured the
-robbers. <span id="fr_65"></span>[1](#fn_65)
+robbers. <span id="fr_65"></span>[1](#fn_65.md)
 
 The other men were stricken anew with terror in that dread land, and
 they, all feared they would share the fate of their companions. But they
@@ -384,7 +384,7 @@ perceived that the floor swarmed with venomous snakes. They went inward
 on a rocky ledge, and passed a warm and foul river, and afterwards
 entered a chamber which reeked with loathsome vapour and was strewn with
 slime. Then did they behold Utgard-Loke. <span
-id="fr_66"></span>[1](#fn_66) He was bound to the
+id="fr_66"></span>[1](#fn_66.md) He was bound to the
 
 <span id="page_265">p. 265</span>
 
@@ -446,7 +446,7 @@ and his companion were made glad, because they deemed that they had at
 length come unto Odainsaker.
 
 Now while Erik lay in soft slumber there appeared before him a shining
-youth, who was his guardian spirit, <span id="fr_67"></span>[1](#fn_67)
+youth, who was his guardian spirit, <span id="fr_67"></span>[1](#fn_67.md)
 and he asked the prince if he desired to remain there forever. But Erik
 said that it was his desire to return, so that he might relate the
 wonders he had beheld. Then the spirit told him he had reached not
@@ -478,7 +478,7 @@ stood before King Olav Trygveson in his feasting hall. The strangers
 gave to the monarch .two great drinking horns, which were decorated with
 gold, and said that they were sent to him by Gudmund. These were then
 filled with mead, and the bishop blessed them, <span
-id="fr_68"></span>[1](#fn_68) but when the horns were handed to the
+id="fr_68"></span>[1](#fn_68.md) but when the horns were handed to the
 strangers they threw them away. Then the fire went out; every light was
 extinguished; there was clamour and confusion
 
@@ -496,7 +496,7 @@ offered up. Ere he parted from his spirit bride she made him blind, lest
 his eyes should ever gaze with love upon the daughters of men.
 
 Now after Hadding, son of Halfdan, had slain the sea dragon <span
-id="fr_69"></span>[1](#fn_69) he had strange adventures. He rescued,
+id="fr_69"></span>[1](#fn_69.md) he had strange adventures. He rescued,
 from a great giant Ragnhild, the fair daughter of the King of Nitheri,
 and she became his bride. One evening, in midwinter, while they feasted
 together, a spirit woman rose up, and she bore with her a bunch of white
@@ -519,7 +519,7 @@ in battle. Thus did many men who were sword-slain upon earth
 <span id="img_26800"></span> <span align="CENTER"> [![HUNDINGSBANE'S
 RETURN TO VALHAL&lt;br&gt; &lt;i&gt;From the painting by E.
 Wallcousins&lt;/i&gt;](tn/26800.jpg)  
-Click to enlarge](img/26800.jpg)  
+Click to enlarge](img/26800.jpg.md)  
 HUNDINGSBANE'S RETURN TO VALHAL  
 *From the painting by E. Wallcousins*  
 </span>
@@ -557,7 +557,7 @@ At last he came upon a gloomy glade,
 Covered with boughs and shrubs from heaven's light,  
 Whereas he sitting found in secret shade  
 An uncouth, savage and uncivil wight, <span
-id="fr_70"></span>[1](#fn_70)  
+id="fr_70"></span>[1](#fn_70.md)  
 Of grisly hue and foul ill-favoured sight;  
 His face with smoke was tann'd and eyes were bleared,  
 His head and beard with soot were ill bedight,  
@@ -587,16 +587,16 @@ Of Mulciber's devouring element;
 Some others were new driven, and distent  
 Into great ingots and to wedges square;  
 Some in round plates withouten moniment <span
-id="fr_71"></span>[1](#fn_71);  
+id="fr_71"></span>[1](#fn_71.md);  
 But most were stampt, and in their metal bare  
 The antique shapes of Kings and Kesars strong and rare
 
    .       .       .       .       .       .
 
-"What secret place," quoth he, <span id="fr_72"></span>[2](#fn_72) "can
+"What secret place," quoth he, <span id="fr_72"></span>[2](#fn_72.md) "can
 safely hold  
 So huge a mass, and hide from heaven's eye?  
-Or where hast thou thy wonne <span id="fr_73"></span>[3](#fn_73), that
+Or where hast thou thy wonne <span id="fr_73"></span>[3](#fn_73.md), that
 so much gold  
 Thou canst preserve from wrong and robbery?"  
 "Come thou," quoth he, "and see." So by and by  
@@ -605,7 +605,7 @@ A darksome way, which no man could descry,
 That deep descended through the hollow ground,  
 And was with dread and horror compassèd around.
 
-So soon as Mammon there <span id="fr_74"></span>[4](#fn_74) arrived, the
+So soon as Mammon there <span id="fr_74"></span>[4](#fn_74.md) arrived, the
 door  
 To him did open and afforded way:  
 Him followed eke Sir Guyon evermore,  
@@ -661,7 +661,7 @@ To which all men do aim, rich to be made!
 Such grace now to be happy is before thee laid."
 
 He brought him, through a darksome narrow strayt <span
-id="fr_75"></span>[1](#fn_75),  
+id="fr_75"></span>[1](#fn_75.md),  
 To a broad gate all built of beaten gold:  
 The gate was open; but therein did wait  
 A sturdy villain, striding stiff and bold,  
@@ -685,7 +685,7 @@ A route of people there assembled were,
 Of every sort and nation under sky  
 Which with great uproar pressed to draw near  
 To th' upper part, where was advanced high  
-A stately siege <span id="fr_76"></span>[2](#fn_76) of sovran majesty;  
+A stately siege <span id="fr_76"></span>[2](#fn_76.md) of sovran majesty;  
 And thereon sat a woman gorgeous gay,  
 And richly clad in robes of royalty,  
 That never earthly prince in such array  
@@ -700,7 +700,7 @@ That was Ambition, rash desire to sty,&lt;br&gt; And every link thereof
 a step of dignity.''&lt;br&gt; &lt;i&gt;After the drawing by Walter
 Crane. By permission of Messrs. George Allen &
 Co&lt;/i&gt;.](tn/27200.jpg)  
-Click to enlarge](img/27200.jpg)  
+Click to enlarge](img/27200.jpg.md)  
 'And all that press did round about her swell  
 To catchen hold of that long chain, thereby  
 To climb aloft, and others to excell:  
@@ -731,7 +731,7 @@ And all that press did round about her swell
 To catchen hold of that long chain, thereby  
 To climb aloft, and others to excell:  
 That was Ambition, rash desire to sty <span
-id="fr_77"></span>[1](#fn_77),  
+id="fr_77"></span>[1](#fn_77.md),  
 And every link thereof a step of dignity.
 
 Which whenas Guyon saw, he gan enquire,  
@@ -740,7 +740,7 @@ And what she was that did so high aspire?
 Him Mammon answerèd: "That goodly one  
 Whom all that folk with such contention  
 Do flock about, my dear, my daughter is; <span
-id="fr_78"></span>[2](#fn_78)  
+id="fr_78"></span>[2](#fn_78.md)  
 Honour and dignity from her alone  
 Derivèd are, and all this worldës bliss,  
 For which ye men do strive; few get, but many miss.  
@@ -752,7 +752,7 @@ For which ye men do strive; few get, but many miss.
 Through grisly shadows by a beaten path  
 Into a garden goodly garnishèd  
 With herbs and fruits, whose kinds mote not be redd <span
-id="fr_79"></span>[3](#fn_79):  
+id="fr_79"></span>[3](#fn_79.md):  
 Not such as earth out of her fruitful womb  
 Throws forth to men, sweet and well savourèd, <span id="page_274">p.
 274</span>  
@@ -761,7 +761,7 @@ Fit to adorn the dead and deck the dreary tomb.
 
    .       .       .       .       .       .
 
-The garden of Pròserpina <span id="fr_80"></span>[1](#fn_80) this
+The garden of Pròserpina <span id="fr_80"></span>[1](#fn_80.md) this
 hight:  
 And in the midst thereof a silver seat,  
 With a thick arbour goodly over dight,  
@@ -780,7 +780,7 @@ Like ever saw, but they from hence were sold. . . .
    .       .       .       .       .       .
 
 The war-like elf much wondered at this tree <span
-id="fr_81"></span>[2](#fn_81)  
+id="fr_81"></span>[2](#fn_81.md)  
 So fair and great, that shadowed all the ground;  
 And his broad branches laden with rich fee  
 Did stretch themselves, without the utmost bound  
@@ -793,7 +793,7 @@ And, looking down, saw many damnèd wights
 In those sad waves, which direful deadly stank,  
 Plongèd continually of cruel sprites,  
 That with their piteous cries and yelling shrightes <span
-id="fr_82"></span>[3](#fn_82),  
+id="fr_82"></span>[3](#fn_82.md),  
 They made the further shore resounden wide:  
 Amongst the rest of those same rueful sights  
 One cursèd creature he by chance espied  
@@ -810,14 +810,14 @@ But both the fruit from land, and flood from mouth,
 Did fly a-back, and made him vainly swink;  
 The whiles he starved with hunger, and with drouth  
 He daily died, yet never throughly dyen couth <span
-id="fr_83"></span>[1](#fn_83).
+id="fr_83"></span>[1](#fn_83.md).
 
 He looked a little further and espied  
 Another wretch, whose carcas deep was drent <span
-id="fr_84"></span>[2](#fn_84)  
+id="fr_84"></span>[2](#fn_84.md)  
 Within the river which the same did hide.  
 But both his hands most filthy feculent <span
-id="fr_85"></span>[3](#fn_85)  
+id="fr_85"></span>[3](#fn_85.md)  
 Above the water were on high extent,  
 And feigned to wash themselves incessantly.  
 Yet nothing clearer were for such intent,  
@@ -854,7 +854,7 @@ Like mighty pillars, this frail life of man,
 That none without the same enduren can:  
 For now three days of men were overwrought,  
 Since be this hardy enterprise began:  
-Forthy <span id="fr_86"></span>[1](#fn_86) great Mammon fairly he
+Forthy <span id="fr_86"></span>[1](#fn_86.md) great Mammon fairly he
 besought  
 Into the world to guide him back as he him brought.
 
@@ -887,7 +887,7 @@ And if ye dare to kiss my lips,
   Sure of your bodie I will be."
 
 Betide me weal, betide me woe,  
-  That weird <span id="fr_87"></span>[1](#fn_87) shall never daunton
+  That weird <span id="fr_87"></span>[1](#fn_87.md) shall never daunton
 me."--  
 Syne he has kissed her rosy lips,  
   All underneath the Eildon Tree.
@@ -1044,7 +1044,7 @@ When word came to the carline wife,
 "I wish the wind may never cease,  
   Nor fishes in the flood,  
 Till my three sons come hame to me,  
-  In earthly flesh and blood." <span id="fr_88"></span>[1](#fn_88)
+  In earthly flesh and blood." <span id="fr_88"></span>[1](#fn_88.md)
 
 <span id="page_281">p. 281</span>
 
@@ -1093,85 +1093,85 @@ It comes not out till Domisday
 
 ### Footnotes
 
-<span id="fn_61"></span>[257:1](tml29.htm#fr_61) Mimer.
+<span id="fn_61"></span>[257:1](tml29.htm#fr_61.md) Mimer.
 
-<span id="fn_62"></span>[258:1](tml29.htm#fr_62) Saxo's words are:
+<span id="fn_62"></span>[258:1](tml29.htm#fr_62.md) Saxo's words are:
 "Cujus transeundi cupidos revocavit, docens, eo alveo humana a
 monstrosis rerum secrevisse naturam, nec mortalibus ultra fas esse
 vestigiis."
 
-<span id="fn_63"></span>[259:1](tml29.htm#fr_63) In Highland lore these
+<span id="fn_63"></span>[259:1](tml29.htm#fr_63.md) In Highland lore these
 unions are followed by speedy death. The demon brides crush their
 lovers.
 
-<span id="fn_64"></span>[261:1](tml29.htm#fr_64) See chapter "Thor in
+<span id="fn_64"></span>[261:1](tml29.htm#fr_64.md) See chapter "Thor in
 Peril".
 
-<span id="fn_65"></span>[262:1](tml29.htm#fr_65) Thjasse-Volund's Sword
+<span id="fn_65"></span>[262:1](tml29.htm#fr_65.md) Thjasse-Volund's Sword
 of Victory and multiplying ring. Here we have the treasure which was
 cursed, and the dragon guardian of Beowulf, Volsunga saga, &c. The horn
 is Gjallar-horn which Heimdal is to blow at Ragnarok.
 
-<span id="fn_66"></span>[264:1](tml29.htm#fr_66) This is evidently Loke,
+<span id="fn_66"></span>[264:1](tml29.htm#fr_66.md) This is evidently Loke,
 not the Utgard-Loki in the chapter "The City of Enchantments ". Loke's
 place of torture was situated in the utmost part of Nifel hel.
 
-<span id="fn_67"></span>[266:1](tml29.htm#fr_67) His Hamingje.
+<span id="fn_67"></span>[266:1](tml29.htm#fr_67.md) His Hamingje.
 
-<span id="fn_68"></span>[267:1](tml29.htm#fr_68) The blessing
+<span id="fn_68"></span>[267:1](tml29.htm#fr_68.md) The blessing
 counteracts the evil influence of a spell. In the Highlands a child
 should be blessed ere its name is asked, and strangers should bless a
 house on entering it. The blessing is not only a proof of friendly
 intentions, but a preventive, for he who blesses is unable to practise
 black magic for the time being.
 
-<span id="fn_69"></span>[268:1](tml29.htm#fr_69) See Chapter "The Gods
+<span id="fn_69"></span>[268:1](tml29.htm#fr_69.md) See Chapter "The Gods
 Reconciled".
 
-<span id="fn_70"></span>[269:1](tml29.htm#fr_70) This is Spenser's
+<span id="fn_70"></span>[269:1](tml29.htm#fr_70.md) This is Spenser's
 Mammon. He resembles very closely Gudmund-Mimer, the chief of elfin
 smiths who in Norse mythology produce the vast stores of treasure
 accursed.
 
-<span id="fn_71"></span>[270:1](tml29.htm#fr_71) Superscription, image.
+<span id="fn_71"></span>[270:1](tml29.htm#fr_71.md) Superscription, image.
 
-<span id="fn_72"></span>[270:2](tml29.htm#fr_72) The Knight Guyon.
+<span id="fn_72"></span>[270:2](tml29.htm#fr_72.md) The Knight Guyon.
 
-<span id="fn_73"></span>[270:3](tml29.htm#fr_73) Dwelling.
+<span id="fn_73"></span>[270:3](tml29.htm#fr_73.md) Dwelling.
 
-<span id="fn_74"></span>[270:4](tml29.htm#fr_74) The gate of hell.
+<span id="fn_74"></span>[270:4](tml29.htm#fr_74.md) The gate of hell.
 
-<span id="fn_75"></span>[272:1](tml29.htm#fr_75) Street, narrow passage.
+<span id="fn_75"></span>[272:1](tml29.htm#fr_75.md) Street, narrow passage.
 
-<span id="fn_76"></span>[272:2](tml29.htm#fr_76) Throne.
+<span id="fn_76"></span>[272:2](tml29.htm#fr_76.md) Throne.
 
-<span id="fn_77"></span>[273:1](tml29.htm#fr_77) Ascend.
+<span id="fn_77"></span>[273:1](tml29.htm#fr_77.md) Ascend.
 
-<span id="fn_78"></span>[273:2](tml29.htm#fr_78) Urd, goddess of fate,
+<span id="fn_78"></span>[273:2](tml29.htm#fr_78.md) Urd, goddess of fate,
 is Mimer's daughter.
 
-<span id="fn_79"></span>[273:3](tml29.htm#fr_79) Must not be declared.
+<span id="fn_79"></span>[273:3](tml29.htm#fr_79.md) Must not be declared.
 
-<span id="fn_80"></span>[274:1](tml29.htm#fr_80) In Saxo she is Urd.
+<span id="fn_80"></span>[274:1](tml29.htm#fr_80.md) In Saxo she is Urd.
 
-<span id="fn_81"></span>[274:2](tml29.htm#fr_81) Like Ygdrasil.
+<span id="fn_81"></span>[274:2](tml29.htm#fr_81.md) Like Ygdrasil.
 
-<span id="fn_82"></span>[274:3](tml29.htm#fr_82) Shrieks.
+<span id="fn_82"></span>[274:3](tml29.htm#fr_82.md) Shrieks.
 
-<span id="fn_83"></span>[275:1](tml29.htm#fr_83) Could.
+<span id="fn_83"></span>[275:1](tml29.htm#fr_83.md) Could.
 
-<span id="fn_84"></span>[275:2](tml29.htm#fr_84) Drenched.
+<span id="fn_84"></span>[275:2](tml29.htm#fr_84.md) Drenched.
 
-<span id="fn_85"></span>[275:3](tml29.htm#fr_85) Muddy, foul.
+<span id="fn_85"></span>[275:3](tml29.htm#fr_85.md) Muddy, foul.
 
-<span id="fn_86"></span>[276:1](tml29.htm#fr_86) Therefore.
+<span id="fn_86"></span>[276:1](tml29.htm#fr_86.md) Therefore.
 
-<span id="fn_87"></span>[277:1](tml29.htm#fr_87) Urd--destiny.
+<span id="fn_87"></span>[277:1](tml29.htm#fr_87.md) Urd--destiny.
 
-<span id="fn_88"></span>[280:1](tml29.htm#fr_88) She had evidently power
+<span id="fn_88"></span>[280:1](tml29.htm#fr_88.md) She had evidently power
 to work a spell and secure her wish. Belief in wishing power is not yet
 quite extinct in Scotland.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXV. The Doom of the Volsungs](tml30)
+[Next: Chapter XXV. The Doom of the Volsungs](tml30.md)

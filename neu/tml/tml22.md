@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Legends and
-Sagas](../index)  [Index](index)  [Previous](tml21)  [Next](tml23) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Legends and
+Sagas](../index)  [Index](index)  [Previous](tml21)  [Next](tml23.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002DYIXO6/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Teutonic Myth and Legend*, by Donald A. Mackenzie, \[1912\], at
 Intangible Textual Heritage
 
@@ -303,7 +303,7 @@ outward and their heads are within. Venom drops from
 <span id="img_18400"></span> <span align="CENTER"> [![THE DUSK OF THE
 GODS&lt;br&gt; &lt;i&gt;From the painting by P. N.
 Arbo&lt;/i&gt;](tn/18400.jpg)  
-Click to enlarge](img/18400.jpg)  
+Click to enlarge](img/18400.jpg.md)  
 THE DUSK OF THE GODS  
 *From the painting by P. N. Arbo*  
 </span>
@@ -360,4 +360,4 @@ Of Odin, the delights of other days.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII. The Coming of Beowulf](tml23)
+[Next: Chapter XVIII. The Coming of Beowulf](tml23.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](khw07)  [Next](khw09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](khw07)  [Next](khw09.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002ECE508/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Knowledge of the Higher Worlds and Its Attainment*, by Rudolf Steiner,
 \[1947\], at Intangible Textual Heritage
 
@@ -380,4 +380,4 @@ will be possible to penetrate them in a deeper sense.
 
 ------------------------------------------------------------------------
 
-[Next: V. Some Results of Initiation](khw09)
+[Next: V. Some Results of Initiation](khw09.md)

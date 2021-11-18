@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](oma42)  [Next](oma44) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](oma42)  [Next](oma44.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ American](../../index)  [Southwest](../index)  [Index](index) 
 <span id="img_pl10a"></span>
 
 [![Plate 10, Figure 1](tn/pl10a.jpg)  
-Click to enlarge](img/pl10a.jpg)  
+Click to enlarge](img/pl10a.jpg.md)  
 Plate 10, Figure 1  
 
 FIGURE 1. Kiva floor and murals. Central panel shows floor with medicine
@@ -34,7 +34,7 @@ southwest walls.
 <span id="img_pl10b"></span>
 
 [![Plate 10, Figure 2](tn/pl10b.jpg)  
-Click to enlarge](img/pl10b.jpg)  
+Click to enlarge](img/pl10b.jpg.md)  
 Plate 10, Figure 2  
 
 FIGURE 2. Altar sand paintings. *a*, Fire society altar: The rim (blue)
@@ -50,4 +50,4 @@ afflicted with itching caused by ants.
 
 ------------------------------------------------------------------------
 
-[Next: Plate 11](oma44)
+[Next: Plate 11](oma44.md)

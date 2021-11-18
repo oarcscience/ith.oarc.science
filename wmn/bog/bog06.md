@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](bog05)  [Next](bog07) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](bog05)  [Next](bog07.md) 
 
 ------------------------------------------------------------------------
 
@@ -31,4 +31,4 @@ Lo! Hers it is to give the guidance.
 
 ------------------------------------------------------------------------
 
-[Next: III](bog07)
+[Next: III](bog07.md)

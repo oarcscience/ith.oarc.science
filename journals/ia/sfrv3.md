@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index) [Journals](../index) [Islamic
-Articles](../../isl/etc/index)
+[Intangible Textual Heritage](../../index) [Journals](../index.md) [Islamic
+Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -299,7 +299,7 @@ It is a mystery divine and unrevealed.<br />
 
 ------------------------------------------------------------------------
 
-[Journals](../index) [Islamic Articles](../../isl/etc/index)
+[Journals](../index) [Islamic Articles](../../isl/etc/index.md)
 
 ------------------------------------------------------------------------
 
@@ -307,46 +307,46 @@ It is a mystery divine and unrevealed.<br />
 
 <span id="footnotes_page_64">p. 64</span>
 
-<span id="page_64_note_*"></span>[\*](#page_64_fr_*) *Qorân*, xxiv. 35.
+<span id="page_64_note_*"></span>[\*](#page_64_fr_*.md) *Qorân*, xxiv. 35.
 
-<span id="page_64_note_dagger"></span>[†](#page_64_fr_dagger) *Ibid*.
+<span id="page_64_note_dagger"></span>[†](#page_64_fr_dagger.md) *Ibid*.
 viii. 17.
 
-<span id="page_64_note_ddagger"></span>[‡](#page_64_fr_ddagger)
+<span id="page_64_note_ddagger"></span>[‡](#page_64_fr_ddagger.md)
 *Siddiq*, epithet of the Khalyf Abu Bekr, here taken to represent piety.
 
-<span id="page_64_note_sect"></span>[§](#page_64_fr_sect) *Zandiq* here
+<span id="page_64_note_sect"></span>[§](#page_64_fr_sect.md) *Zandiq* here
 means a heretic, but literally one who follows the *Zand* books, *i.e.*
 a Zoroastrian.
 
 <span id="footnotes_page_92">p. 92</span>
 
-<span id="page_92_note_*"></span>[\*](#page_92_fr_*) Alluding to
+<span id="page_92_note_*"></span>[\*](#page_92_fr_*.md) Alluding to
 pre-Islamitic times, when Dibadin was worshipped.
 
-<span id="page_92_note_dagger"></span>[†](#page_92_fr_dagger) There is a
+<span id="page_92_note_dagger"></span>[†](#page_92_fr_dagger.md) There is a
 tradition very closely corresponding to what occurs in Matt. xxv. 45:
 "Inasmuch as ye did it not to one of the least of these, ye did it not
 to me."
 
-<span id="page_92_note_ddagger"></span>[‡](#page_92_fr_ddagger) *Qorân*,
+<span id="page_92_note_ddagger"></span>[‡](#page_92_fr_ddagger.md) *Qorân*,
 cxii. 3.
 
-<span id="page_92_note_sect"></span>[§](#page_92_fr_sect) There is a
+<span id="page_92_note_sect"></span>[§](#page_92_fr_sect.md) There is a
 tradition that God said the above words.
 
-<span id="page_92_note_dvert"></span>[‖](#page_92_fr_dvert) Empty towns
+<span id="page_92_note_dvert"></span>[‖](#page_92_fr_dvert.md) Empty towns
 are persons who have received no religious instruction; and therefore no
 ritual worship, here expressed by taxes and tithes, can be required of
 them.
 
-<span id="page_92_note_para"></span>[¶](#page_92_fr_para) The Kabah is
+<span id="page_92_note_para"></span>[¶](#page_92_fr_para.md) The Kabah is
 the Qeblah, *i.e.* direction in which Moslems look when they pray,
 therefore a person already within the Kabah cannot look towards it.
 
 <span id="footnotes_page_268">p. 268</span>
 
-<span id="page_268_note_*"></span>[\*](#page_268_fr_*) *Qorân*, lxxxvii.
+<span id="page_268_note_*"></span>[\*](#page_268_fr_*.md) *Qorân*, lxxxvii.
 4.
 
  

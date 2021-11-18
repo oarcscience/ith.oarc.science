@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut06)  [Next](mdut08) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut06)  [Next](mdut08.md) 
 
 ------------------------------------------------------------------------
 
@@ -365,4 +365,4 @@ little strong. And the man remained there in the long ago.
 
 ------------------------------------------------------------------------
 
-[Next: 6. Thunder-Boy and Lizard-Man](mdut08)
+[Next: 6. Thunder-Boy and Lizard-Man](mdut08.md)

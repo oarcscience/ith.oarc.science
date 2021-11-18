@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico025) 
-[Next](nico027) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico025.md) 
+[Next](nico027.md) 
 
 ------------------------------------------------------------------------
 
@@ -38,4 +38,4 @@ pain as an evil.
 ------------------------------------------------------------------------
 
 [Next: Chapter 5. We are responsible for bad as well as for good
-actions](nico027)
+actions](nico027.md)

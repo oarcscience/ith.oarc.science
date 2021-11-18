@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Index](index)  [Previous](wgp13)  [Next](wgp15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Index](index)  [Previous](wgp13)  [Next](wgp15.md) 
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ germinate; and 6. That they always wore about their bodies a
 <span id="page_125">p. 125</span>
 
 cord which had been rubbed against the head, and which served for their
-protection. <span id="fr_81"></span>[82](#fn_81)
+protection. <span id="fr_81"></span>[82](#fn_81.md)
 
 The ceremonies attending the reception into the order were so
 universally acknowledged, and are described in terms which have so much
@@ -63,7 +63,7 @@ wood; on one occasion the cross painted in a missal was used, and the
 cross on the templar's mantle often served the purpose. When one
 Nicholas de Compiegne protested against these two acts, all the templars
 who were present told him that he must do them, for it was the custom of
-the order. <span id="fr_82"></span>[83](#fn_82) Baldwin de St. Just at
+the order. <span id="fr_82"></span>[83](#fn_82.md) Baldwin de St. Just at
 first refused, but the receptor warned him that if he persisted in his
 refusal, it would be the worse for him (*aliter male accideret sibi*),
 and then "he was so
@@ -72,7 +72,7 @@ and then "he was so
 
 much alarmed that his hair stood on end." Jacques de Trecis said that he
 did it under fear, because his receptor stood by with a great naked
-sword in his hand. <span id="fr_83"></span>[84](#fn_83) Another,
+sword in his hand. <span id="fr_83"></span>[84](#fn_83.md) Another,
 Geoffrey de Thatan, having similarly refused, his receptor told him that
 they were "points of the order," and that if he did not comply, "he
 should be put in such a place that he would never see his own feet." And
@@ -123,7 +123,7 @@ examinations, but the others are described by so many of the witnesses
 that we cannot doubt of their truth. From the depositions of many of the
 templars examined, it would appear that the usual order was to kiss the
 receptor first *in ano*, next on the navel, and then on the mouth. <span
-id="fr_84"></span>[85](#fn_84) The first of these was an act which
+id="fr_84"></span>[85](#fn_84.md) The first of these was an act which
 would, of course, be repulsive to most people, and the practice arose
 gradually of only kissing the end of the spine, or, as it was called in
 mediæval Latin, *in anca*. Bertrand de Somorens, of the diocese of
@@ -143,7 +143,7 @@ him and remit this kiss. Pierre de Grumenil, also a
 presbyter, when called upon to perform this act, refused, and was
 allowed to kiss his receiver on the navel only. A presbyter named Ado de
 Dompierre was excused for the same reason, <span
-id="fr_85"></span>[86](#fn_85) as well as many others. Another templar,
+id="fr_85"></span>[86](#fn_85.md) as well as many others. Another templar,
 named Pierre de Lanhiac, said that, at his reception into the order, his
 receptor told him that he must kiss him *in ano*, because that was one
 of the points of the order, but that, at the earnest supplication of his
@@ -217,7 +217,7 @@ and made an unguent of its fat, with which they anointed their idol.
 Those who confessed to the existence of the vice were so few, and their
 evidence so indefinite or indirect, that they are deserving of no
 consideration. One had heard that some brethren beyond the sea had
-committed unnatural vices. <span id="fr_86"></span>[87](#fn_86) Another,
+committed unnatural vices. <span id="fr_86"></span>[87](#fn_86.md) Another,
 Hugh de Faure, had heard say that two brothers of the order, dwelling in
 the Chateau Pelerin, had been charged with sodomy; that, when this
 reached the ears of the master, he gave orders for their arrest, and
@@ -226,7 +226,7 @@ taken and imprisoned for life. Peter Brocart, a templar of Paris,
 declared that one of the order, one night, called him and committed
 sodomy with him; adding that he had not refused, because he considered
 himself bound to obedience by the rules of the order. <span
-id="fr_87"></span>[88](#fn_87) The evidence is decidedly strong against
+id="fr_87"></span>[88](#fn_87.md) The evidence is decidedly strong against
 the prevalence of such a vice among the templars, and the alleged
 permission was perhaps a mere form of words, which concealed some occult
 meaning unknown to the mass of the
@@ -290,7 +290,7 @@ into the order, his attention was directed to a head upon the altar in
 the chapel, which he was told he must worship; he described it as of the
 natural size of a mans head, but could not describe it more
 particularly, except that he thought it was of a reddish colour. <span
-id="fr_88"></span>[89](#fn_88) Raynerus de Larchent saw the head twice
+id="fr_88"></span>[89](#fn_88.md) Raynerus de Larchent saw the head twice
 in a chapter, especially once in Paris, where it had a beard, and they
 adored and kissed it, and called it their saviour. Guillermus de
 Herbaleyo saw the head with its beard, at two chapters. He thought it
@@ -310,7 +310,7 @@ that, in a chapter at Montpellier, he had both seen, held, and felt, the
 idol or head, and that he and the other brothers adored it but he, like
 the others, pleaded that he did not adore it in his heart. He described
 it as supported on four feet, two before and two behind. <span
-id="fr_89"></span>[90](#fn_89) Guillaume de Arrablay, the king's almoner
+id="fr_89"></span>[90](#fn_89.md) Guillaume de Arrablay, the king's almoner
 (*eleemosynarius regius*), said that in the chapter at which he was
 received, a head made of silver was placed on the altar, and adored by
 those who formed the chapter; he was told that it was the head of one of
@@ -330,7 +330,7 @@ head of silver gilt, having
 a woman's face, and a small skull, resembling that of a woman, inside,
 which was said to be that of one of the eleven thousand virgins. At the
 same time another head was brought forward, having a beard, and supposed
-to be that of the idol. <span id="fr_90"></span>[91](#fn_90) Both these
+to be that of the idol. <span id="fr_90"></span>[91](#fn_90.md) Both these
 witnesses had no doubt confounded two things. Pierre Garald, of Mursac,
 another witness, said that after he had denied Christ and spitten on the
 cross, the receptor drew from his bosom a certain small image of brass
@@ -342,7 +342,7 @@ further object of superstition among the templars. According to one
 deponent, it was an old skin embalmed, with bright carbuncles for eyes,
 which shone like the light of heaven. Others said that it was the skin
 of a man, but agreed with the others in regard to the carbuncles. <span
-id="fr_91"></span>[92](#fn_91) In England a minorite friar deposed that
+id="fr_91"></span>[92](#fn_91.md) In England a minorite friar deposed that
 an English knight of the Temple had assured him that the templars had
 four principal idols in this country, one in the sacristy of the Temple
 in London, another at Bristelham, a third at Brueria (Bruern in
@@ -350,7 +350,7 @@ in London, another at Bristelham, a third at Brueria (Bruern in
 <span id="page_138">p. 138</span>
 
 Lincolnshire), and the fourth at some place beyond the Humber. <span
-id="fr_92"></span>[93](#fn_92)
+id="fr_92"></span>[93](#fn_92.md)
 
 Another piece of information relating to this "idol," which has been the
 subject of considerable discussion among modern writers, was elicited
@@ -360,7 +360,7 @@ idol made in the form of Baffomet; another, named Raymond Rubei,
 described it as a wooden head, on which the figure of Baphomet was
 painted, and adds, "that he worshipped it by kissing its feet, and
 exclaiming, 'Yalla,' which was," he says, "*verbum Saracenorum*," a word
-taken from the Saracens. <span id="fr_93"></span>[94](#fn_93) A templar
+taken from the Saracens. <span id="fr_93"></span>[94](#fn_93.md) A templar
 of Florence declared that, in the secret chapters of the order, one
 brother said to the other, showing the idol, "Adore this head--this head
 is your god and your Mahomet." The word Mahomet was used commonly in the
@@ -404,7 +404,7 @@ Burgundy. On the lid is sculptured a figure, naked, with a head-dress
 resembling that given to Cybele in ancient monuments, holding up a chain
 with each hand, and surrounded with various symbols, the sun and moon
 above, the star and the pentacle below, and under the feet a human
-skull. <span id="fr_94"></span>[95](#fn_94) The chains are explained by
+skull. <span id="fr_94"></span>[95](#fn_94.md) The chains are explained by
 Von Hammer as representing the chains of æons of the Gnostics. On the
 four sides of the coffer we see a series of figures engaged in the
 performance of various ceremonies, which are not easily explained, but
@@ -421,7 +421,7 @@ candidates for initiation,
  
 
 <span id="img_pl14"></span> [![](tn/generic.jpg)  
-Click to view](img/pl14.jpg)  
+Click to view](img/pl14.jpg.md)  
 PLATE XIV  
 PRIAPIC ILLUSTRATIONS FROM OLD BALLADS
 
@@ -431,7 +431,7 @@ PRIAPIC ILLUSTRATIONS FROM OLD BALLADS
 
 who wear masks apparently of a cat, and whose form of adoration reminds
 us of the kiss enacted at the initiation of the templars. <span
-id="fr_95"></span>[96](#fn_95) This group reminds us, too, of the
+id="fr_95"></span>[96](#fn_95.md) This group reminds us, too, of the
 pictures of the orgies in the worship of Priapus, as represented on
 Roman monuments. The second of the coffers in the cabinet of the duc de
 Blacas was found in Tuscany, and is rather larger than the one just
@@ -443,21 +443,21 @@ character, which are engraved by Von Hammer, who sees in one group of
 men (who are furnished in the original with prominent phalli) and
 serpents, a direct allusion to Ophite rites. Next after these comes a
 group which we have reproduced in our plate, <span
-id="fr_96"></span>[97](#fn_96) representing a strange figure seated upon
+id="fr_96"></span>[97](#fn_96.md) representing a strange figure seated upon
 an eagle, and accompanied with two of the symbols represented on the
 coffer found in Burgundy, the sun and moon. The two symbols below are
 considered by Von Hammer to represent, according to the rude mediæval
 notions of its form, the womb, or matrix; the fecundating organ is
 penetrating the one, while the infant is emerging from the other. The
 last figure in this series, which we have also copied, <span
-id="fr_97"></span>[98](#fn_97)
+id="fr_97"></span>[98](#fn_97.md)
 
 <span id="page_144">p. 144</span>
 
 is identical with that on the lid of the coffer found in Burgundy, but
 it is distinctly represented as androgynous. We have exactly the same
 figure on another coffer, in the Vienna museum, <span
-id="fr_98"></span>[99](#fn_98) with some of the same symbols, the star,
+id="fr_98"></span>[99](#fn_98.md) with some of the same symbols, the star,
 pentacle, and human skull. Perhaps, in this last, the beard is intended
 to show that the figure must be taken as androgynous.
 
@@ -529,7 +529,7 @@ is held up to view by a figure apparently intended for
  
 
 <span id="img_pl15"></span> [![](tn/generic.jpg)  
-Click to view](img/pl15.jpg)  
+Click to view](img/pl15.jpg.md)  
 PLATE XV  
 "IDOL" OF THE KNIGHTS TEMPLARS
 
@@ -558,7 +558,7 @@ precedes the formula, Yalla (Jah la), agrees exactly with the statement
 of Raymond Rubei, one of the Provencal templars that when the superior
 exhibited the idol, or figure of Baphomet, he kissed it and exclaimed
 "Yalla!" which he calls "a word of the Saracens," i. e. Arabic. <span
-id="fr_99"></span>[100](#fn_99) It is evident that, in this case, the
+id="fr_99"></span>[100](#fn_99.md) It is evident that, in this case, the
 witness not only knew the word, but that he knew to what language it
 belonged. Again, the epithet *germinans*,
 
@@ -596,8 +596,8 @@ Deutschaltenburg, and in the ruins of that of Postyén, in Hungary; and
 in those of Murau, Prague, and Egra, in Bohemia. To these examples we
 are to add the sculptures of the church of Montmorillon, in Poitou, some
 of which have been engraved by Montfaucon, <span
-id="fr_100"></span>[101](#fn_100) and those of the church of Ste. Croix,
-in Bordeaux. We have already <span id="fr_101"></span>[102](#fn_101)
+id="fr_100"></span>[101](#fn_100.md) and those of the church of Ste. Croix,
+in Bordeaux. We have already <span id="fr_101"></span>[102](#fn_101.md)
 remarked the rather frequent prevalence of subjects more or less obscene
 in the sculptures which ornament early churches, and suggested that they
 may be explained in some degree by the tone given to society by the
@@ -654,75 +654,75 @@ description of this second initiation, which occurred in a chapter held
 at "Dineslee" in Herefordshire. Another English templar, Thomas de
 Tocci, said that the errors had been brought into England by a French
 knight of high position in the order. <span
-id="fr_102"></span>[103](#fn_102)
+id="fr_102"></span>[103](#fn_102.md)
 
 ------------------------------------------------------------------------
 
 ### Footnotes
 
-<span id="fn_80"></span>[123:81](wgp13.htm#fr_80) Baronius, *Annales
+<span id="fn_80"></span>[123:81](wgp13.htm#fr_80.md) Baronius, *Annales
 Ecclesiastici*, tom. xxi, p. 89, where the two bulls are printed, and
 where the details of the history of the Stedingers will be found.
 
-<span id="fn_81"></span>[125:82](wgp14.htm#fr_81) *Procès des
+<span id="fn_81"></span>[125:82](wgp14.htm#fr_81.md) *Procès des
 Templiers*, edited by M. Michelet, vol. i, pp. 90-92.
 
-<span id="fn_82"></span>[125:83](wgp14.htm#fr_82) *Procès des
+<span id="fn_82"></span>[125:83](wgp14.htm#fr_82.md) *Procès des
 Templiers*, ii, 418.
 
-<span id="fn_83"></span>[126:84](wgp14.htm#fr_83) *Procès*, i, 254.
+<span id="fn_83"></span>[126:84](wgp14.htm#fr_83.md) *Procès*, i, 254.
 
-<span id="fn_84"></span>[128:85](wgp14.htm#fr_84) See the *Procès*, ii.
+<span id="fn_84"></span>[128:85](wgp14.htm#fr_84.md) See the *Procès*, ii.
 286, 362, 364.
 
-<span id="fn_85"></span>[129:86](wgp14.htm#fr_85) *Procès*, i, 307.
+<span id="fn_85"></span>[129:86](wgp14.htm#fr_85.md) *Procès*, i, 307.
 
-<span id="fn_86"></span>[132:87](wgp14.htm#fr_86) *Procès*, ii, 213.
+<span id="fn_86"></span>[132:87](wgp14.htm#fr_86.md) *Procès*, ii, 213.
 
-<span id="fn_87"></span>[132:88](wgp14.htm#fr_87) *Procès*, ii, 294.
+<span id="fn_87"></span>[132:88](wgp14.htm#fr_87.md) *Procès*, ii, 294.
 
-<span id="fn_88"></span>[135:89](wgp14.htm#fr_88) *Procès*, i, 190.
+<span id="fn_88"></span>[135:89](wgp14.htm#fr_88.md) *Procès*, i, 190.
 
-<span id="fn_89"></span>[136:90](wgp14.htm#fr_89) *Procès*, ii, 363.
+<span id="fn_89"></span>[136:90](wgp14.htm#fr_89.md) *Procès*, ii, 363.
 
-<span id="fn_90"></span>[137:91](wgp14.htm#fr_90) *Procès*, ii, 218.
+<span id="fn_90"></span>[137:91](wgp14.htm#fr_90.md) *Procès*, ii, 218.
 
-<span id="fn_91"></span>[137:92](wgp14.htm#fr_91) Du Puy, *Hist. des
+<span id="fn_91"></span>[137:92](wgp14.htm#fr_91.md) Du Puy, *Hist. des
 Templ*., pp. 22, 24.
 
-<span id="fn_92"></span>[138:93](wgp14.htm#fr_92) Wilkins, *Concil*.,
+<span id="fn_92"></span>[138:93](wgp14.htm#fr_92.md) Wilkins, *Concil*.,
 vol. ii, p. 363.
 
-<span id="fn_93"></span>[138:94](wgp14.htm#fr_93) Du Puy, *Hist. des
+<span id="fn_93"></span>[138:94](wgp14.htm#fr_93.md) Du Puy, *Hist. des
 Templiers*, p. 21.
 
-<span id="fn_94"></span>[140:95](wgp14.htm#fr_94) See our [plate
-XIV](#img_pl14).
+<span id="fn_94"></span>[140:95](wgp14.htm#fr_94.md) See our [plate
+XIV](#img_pl14.md).
 
-<span id="fn_95"></span>[143:96](wgp14.htm#fr_95) [Plate XV, fig.
-1](#img_pl15).
+<span id="fn_95"></span>[143:96](wgp14.htm#fr_95.md) [Plate XV, fig.
+1](#img_pl15.md).
 
-<span id="fn_96"></span>[143:97](wgp14.htm#fr_96) [Plate XV, fig.
-2](#img_pl15).
+<span id="fn_96"></span>[143:97](wgp14.htm#fr_96.md) [Plate XV, fig.
+2](#img_pl15.md).
 
-<span id="fn_97"></span>[143:98](wgp14.htm#fr_97) [Plate XV, fig.
-3](#img_pl15).
+<span id="fn_97"></span>[143:98](wgp14.htm#fr_97.md) [Plate XV, fig.
+3](#img_pl15.md).
 
-<span id="fn_98"></span>[144:99](wgp14.htm#fr_98) [Plate XV, fig.
-4](#img_pl15).
+<span id="fn_98"></span>[144:99](wgp14.htm#fr_98.md) [Plate XV, fig.
+4](#img_pl15.md).
 
-<span id="fn_99"></span>[149:100](wgp14.htm#fr_99) Du Puy, *Hist. des
+<span id="fn_99"></span>[149:100](wgp14.htm#fr_99.md) Du Puy, *Hist. des
 Templiers*, p. 94.
 
-<span id="fn_100"></span>[151:101](wgp14.htm#fr_100) Montfaucon,
+<span id="fn_100"></span>[151:101](wgp14.htm#fr_100.md) Montfaucon,
 *Antiquité Expliquée*, Suppl. tom. ii, plate 59.
 
-<span id="fn_101"></span>[151:102](wgp14.htm#fr_101) See before, [p.
-139](#page_139).
+<span id="fn_101"></span>[151:102](wgp14.htm#fr_101.md) See before, [p.
+139](#page_139.md).
 
-<span id="fn_102"></span>[153:103](wgp14.htm#fr_102) Wilkins, *Concil*.,
+<span id="fn_102"></span>[153:103](wgp14.htm#fr_102.md) Wilkins, *Concil*.,
 ii, 387.
 
 ------------------------------------------------------------------------
 
-[Next: The Witches' Sabbath](wgp15)
+[Next: The Witches' Sabbath](wgp15.md)

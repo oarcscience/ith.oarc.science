@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](spb53)  [Next](spb55) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](spb53)  [Next](spb55.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Standard Prayer Book*, tr. by Simeon Singer, \[1915\], at
 Intangible Textual Heritage
 
@@ -18,8 +18,8 @@ Intangible Textual Heritage
 
 ### THE BURIAL SERVICE
 
-*On those days on which Tachanun ([p. 70](spb05.htm#page_70)) is not
-said, Psalm xvi. ([p. 460](#page_460)) is read instead of the
+*On those days on which Tachanun ([p. 70](spb05.htm#page_70).md) is not
+said, Psalm xvi. ([p. 460](#page_460).md) is read instead of the
 following:—*
 
 The Rock, his work is perfect, for all his ways are judgment: a God of
@@ -121,13 +121,13 @@ off all the earth: for the Lord hath spoken it.
 
 *They then return to the Hall, and say, "And let the pleasantness of the
 Lord our God be upon us," to "my salvation," [p.
-439](spb45.htm#page_439)*.
+439](spb45.htm#page_439.md)*.
 
 <span id="page_462">p. 462</span>
 
 *The following Kaddish is said by children after the Burial of their
 Parents. On those days on which Tachanun is not said ([p.
-70](spb05.htm#page_70)) the Kaddish, [p. 94](spb05.htm#page_94), is
+70](spb05.htm#page_70)) the Kaddish, [p. 94](spb05.htm#page_94.md), is
 substituted*.
 
 *Mourners*.—May his great name be magnified and sanctified in the world
@@ -162,6 +162,6 @@ for us and for all Israeli and say ye, Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Prayer in the House of Mourning](spb55)
+[Next: Prayer in the House of Mourning](spb55.md)
 
 </div>

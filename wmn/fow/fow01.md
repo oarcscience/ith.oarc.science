@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Women](../index) 
-[Index](index)  [Previous](fow00)  [Next](fow02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Women](../index.md) 
+[Index](index)  [Previous](fow00)  [Next](fow02.md) 
 
 ------------------------------------------------------------------------
 
@@ -139,4 +139,4 @@ T. F. THISELTON-DYER.
 
 ------------------------------------------------------------------------
 
-[Next: Contents](fow02)
+[Next: Contents](fow02.md)

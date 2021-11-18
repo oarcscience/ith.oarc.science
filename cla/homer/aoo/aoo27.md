@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo26)  [Next](aoo28) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo26)  [Next](aoo28.md) 
 
 ------------------------------------------------------------------------
 
@@ -235,4 +235,4 @@ day we raised the sails on each ship and we sailed away.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter V](aoo28)
+[Next: Chapter V](aoo28.md)

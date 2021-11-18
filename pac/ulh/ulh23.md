@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](ulh22)  [Next](ulh24) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](ulh22)  [Next](ulh24.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0024FAH3E/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Unwritten Literature of Hawaii*, by Nathaniel B. Emerson, \[1909\], at
 Intangible Textual Heritage
 
@@ -59,26 +59,26 @@ movements of their dancing.
 <div style="margin-left: 32px">
 
 E pi’i ka wai ka nahele,  
-U'ina, nakolo i na Molo-kama; <span id="fr_291"></span>[a](#fn_285)  
+U'ina, nakolo i na Molo-kama; <span id="fr_291"></span>[a](#fn_285.md)  
 Ka ua lele mawaho o Mamala-hoa.  
 He manao no ko’u e ike  
-5 I na pua ohi’a o Kupa-koili, <span id="fr_292"></span>[b](#fn_286)  
-I hoa kaunu no Manu’a-kepa; <span id="fr_293"></span>[c](#fn_287)  
-Ua like laua me Naha-moku. <span id="fr_294"></span>[d](#fn_288)  
-Anapa i ke kai o Mono-lau. <span id="fr_295"></span>[e](#fn_289)  
+5 I na pua ohi’a o Kupa-koili, <span id="fr_292"></span>[b](#fn_286.md)  
+I hoa kaunu no Manu’a-kepa; <span id="fr_293"></span>[c](#fn_287.md)  
+Ua like laua me Naha-moku. <span id="fr_294"></span>[d](#fn_288.md)  
+Anapa i ke kai o Mono-lau. <span id="fr_295"></span>[e](#fn_289.md)  
 Lalau ka lima a noa ia ia la,  
-10 I hoa pili no Lani-huli. <span id="fr_296"></span>[f](#fn_290)  
+10 I hoa pili no Lani-huli. <span id="fr_296"></span>[f](#fn_290.md)  
 E huli oe i ku’u makemake,  
-A loa’a i Kau-ka-opua. <span id="fr_297"></span>[g](#fn_291)  
+A loa’a i Kau-ka-opua. <span id="fr_297"></span>[g](#fn_291.md)  
 Elua no pua kau  
 A la manao i makemake ai.  
 15 Hoohihi oe a hihi  
 I lei kohu no neia kino.  
 Ahea oe hiki mai?  
-A kau ka La i na pali; <span id="fr_298"></span>[h](#fn_292)  
-Ka huli a ka makani Wai-a-ma’o, <span id="fr_299"></span>[i](#fn_293)  
+A kau ka La i na pali; <span id="fr_298"></span>[h](#fn_292.md)  
+Ka huli a ka makani Wai-a-ma’o, <span id="fr_299"></span>[i](#fn_293.md)  
 20 Makemake e iki ia ka Hala-mapu-ana,  
-Ka wai halana i Wai-pá. <span id="fr_300"></span>[j](#fn_294)
+Ka wai halana i Wai-pá. <span id="fr_300"></span>[j](#fn_294.md)
 
 </div>
 
@@ -134,7 +134,7 @@ of the man's passion and his finest for satisfaction.
 
 ### Footnotes
 
-<span id="fn_285"></span>[133:a](ulh23.htm#fr_291) NOTE.--The proper
+<span id="fn_285"></span>[133:a](ulh23.htm#fr_291.md) NOTE.--The proper
 names belong to localities along the course of the Wai-oli stream.
 
 *Molokama* (more often given as *Na Molo-kama*). The name applied to a
@@ -142,26 +142,26 @@ succession of falls made by the stream far up in the mountains. The
 author has here used a versifier's privilege, compressing this long word
 into somewhat less refractory shape.
 
-<span id="fn_286"></span>[133:b](ulh23.htm#fr_292) *Kupa-koili*. A grove
+<span id="fn_286"></span>[133:b](ulh23.htm#fr_292.md) *Kupa-koili*. A grove
 of mountain-apples, *ohia ai*, that stand on the bank of the stream not
 far from the public road.
 
-<span id="fn_287"></span>[133:c](ulh23.htm#fr_293) *Manu’a-kepa*. A
+<span id="fn_287"></span>[133:c](ulh23.htm#fr_293.md) *Manu’a-kepa*. A
 sandy, grass-covered meadow on the opposite side of the river from
 Kupa-koili.
 
-<span id="fn_288"></span>[133:d](ulh23.htm#fr_294) *Maha-moku*. A sandy
+<span id="fn_288"></span>[133:d](ulh23.htm#fr_294.md) *Maha-moku*. A sandy
 beach near the mouth of the river, on the same bank as Manu’a-kepa.
 
-<span id="fn_289"></span>[133:e](ulh23.htm#fr_295) *Monu-lau*. That part
+<span id="fn_289"></span>[133:e](ulh23.htm#fr_295.md) *Monu-lau*. That part
 of the bay into which the river flows, that is used as an anchorage for
 vessels.
 
-<span id="fn_290"></span>[133:f](ulh23.htm#fr_296) *Lani-huli*. The side
+<span id="fn_290"></span>[133:f](ulh23.htm#fr_296.md) *Lani-huli*. The side
 of the valley Kilauea of Wai-oli toward which the river makes a bend
 before it enters the ocean.
 
-<span id="fn_291"></span>[133:g](ulh23.htm#fr_297) Kau-ka-opua.
+<span id="fn_291"></span>[133:g](ulh23.htm#fr_297.md) Kau-ka-opua.
 Originally a phrase meaning "the cloud-omen hangs," has come to be used
 as the proper name of a place. It is an instance of a form of
 personification often employed by the Hawaiians, in which words having a
@@ -171,17 +171,17 @@ etymology. This figure of speech is, no doubt, common to all languages,
 markedly so in the Hawaiian. It may be further illustrated by the Hebrew
 name Ichahod--"his glory has departed."
 
-<span id="fn_292"></span>[133:h](ulh23.htm#fr_298) *A kau ka La, i na
+<span id="fn_292"></span>[133:h](ulh23.htm#fr_298.md) *A kau ka La, i na
 pali*. When stands the sun o’er the pali, evening or late in the
 afternoon. On this part of Kauai the sun sets behind the mountains.
 
-<span id="fn_293"></span>[133:i](ulh23.htm#fr_299) *Wai-a-ma’o*. The
+<span id="fn_293"></span>[133:i](ulh23.htm#fr_299.md) *Wai-a-ma’o*. The
 land-breeze, which sometimes springs up at night.
 
-<span id="fn_294"></span>[133:j](ulh23.htm#fr_300) *Wai-pú*. A spot on
+<span id="fn_294"></span>[133:j](ulh23.htm#fr_300.md) *Wai-pú*. A spot on
 the bank of the stream where grew a pandanus tree, *hala*, styled
 *Ka-hala-mapu-ana*, the hala-breathing-out-its-Fragrance.
 
 ------------------------------------------------------------------------
 
-[Next: XX.--The Hula Ohe](ulh24)
+[Next: XX.--The Hula Ohe](ulh24.md)

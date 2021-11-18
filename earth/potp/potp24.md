@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](potp23)  [Next](potp25) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](potp23)  [Next](potp25.md) 
 
 ------------------------------------------------------------------------
 
@@ -60,4 +60,4 @@ a hollow ball in motion than to hold it to the outside.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XXI. Cannot Reach the Poles](potp25)
+[Next: Chapter XXI. Cannot Reach the Poles](potp25.md)

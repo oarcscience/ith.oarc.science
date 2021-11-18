@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](eru04)  [Next](eru06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](eru04)  [Next](eru06.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 2: Tracts Erubin, Shekalim, Rosh Hashana*, tr.
 by Michael L. Rodkinson, \[1918\], at Intangible Textual Heritage
 
@@ -20,7 +20,7 @@ REGULATIONS CONCERNING THE WIDTH AND HEIGHT OF AN ERUB CONSTRUCTED IN
 STREETS INHABITED SOLELY BY ISRAELITES, AND REGULATIONS CONCERNING THE
 CONSTRUCTION OF AN ERUB BY A CARAVAN.
 
-MISHNA: If an entry <span id="fr_1"></span>[1](#fn_1) be higher than
+MISHNA: If an entry <span id="fr_1"></span>[1](#fn_1.md) be higher than
 twenty ells, it should be lowered. R. Jehudah said: "This is not
 necessary." If it be wider than ten ells, it should be made narrower,
 but if it have the appearance of a door, even though it be wider than
@@ -152,7 +152,7 @@ rule, are those of the lesser standard, but as for the width, those of
 the greater standard are used. Further, R. Na'hman said, that the ell
 used at a booth also measures five spans. For what purpose did he state
 this? For the measurement of the height of the booth and the crooked
-walls <span id="fr_2"></span>[1](#fn_2) of the booth. There is also the
+walls <span id="fr_2"></span>[1](#fn_2.md) of the booth. There is also the
 width of the booth to be considered, however, and that should be four
 ells? Will not the ordinance regarding the width be made more lenient
 thereby of twenty spans only? The ells of a booth generally are of five
@@ -248,8 +248,8 @@ biblical? For the master said: "It is written, that the ark was nine
 spans high and the cover was one span thick, so the ark and cover
 combined were ten spans high, and this serves as a prescribed height for
 all walls." The Sinaic laws are necessary for the stipulation of the
-ordinances concerning Gud, <span id="fr_3"></span>[1](#fn_3)
-Lavud, <span id="fr_4"></span>[2](#fn_4) and crooked walls.
+ordinances concerning Gud, <span id="fr_3"></span>[1](#fn_3.md)
+Lavud, <span id="fr_4"></span>[2](#fn_4.md) and crooked walls.
 
 If the entry was higher than twenty ells and is to be lowered,
 
@@ -324,7 +324,7 @@ protruding beam, even according to Rami bar Hama, the entry is valid
 without the addition of another beam, because the entry being narrower
 than the beam is considered the same as a door." This ordinance is made
 lenient from an inference of a rigorous ordinance, <span
-id="fr_5"></span>[1](#fn_5) viz.: the ordinance concerning a court: If
+id="fr_5"></span>[1](#fn_5.md) viz.: the ordinance concerning a court: If
 in a court one of the walls is entirely destroyed, nothing! may be
 carried therein on the Sabbath, and neither a cross-beam nor a side-beam
 placed at the remaining walls alters its character. However, if the wall
@@ -561,7 +561,7 @@ the case of the entry made in the form of a right angle at Neherdai, the
 decision of Rabh was also respected." Therefore the decree of Rabha is,
 that apparent doors should be made at the smaller entries where they
 face the large entry, and the sides facing the street only need a side
-or cross beam. <span id="fr_6"></span>[1](#fn_6)
+or cross beam. <span id="fr_6"></span>[1](#fn_6.md)
 
 Said R. Kahana bar Tachlipha in the name of R. Kahana bar Minyumi in the
 name of R. Kahana bar Malchiyu, quoting R. Kahana the master of Rabh
@@ -591,7 +591,7 @@ not be used. Said
 
 <span class="contnote">\[paragraph continues\]</span> R. Hisda: All
 agree that if a side-beam is used, the space opposite <span
-id="fr_7"></span>[1](#fn_7) the side-beam must on no account be used.
+id="fr_7"></span>[1](#fn_7.md) the side-beam must on no account be used.
 
 Rami bar Hama asked R. Hisda: "If one drove two posts on the outside of
 an entry and placed a cross-beam on top of them, how is the law
@@ -656,7 +656,7 @@ that the entry is presumed to be one that opens into unclaimed ground.
 How would the case be if the entry opened into public ground? Would it
 be allowed according to R. Johanan to carry things between the
 side-beams? Shall the native remain on earth and the stranger be lifted
-up to the highest heaven? <span id="fr_8"></span>[1](#fn_8) Yea; objects
+up to the highest heaven? <span id="fr_8"></span>[1](#fn_8.md) Yea; objects
 of like character assimilate, *i.e.*, the space between the side-beams
 being unclaimed ground and the entry opening into unclaimed ground, the
 two are virtually combined, and as carrying in unclaimed ground is not
@@ -920,7 +920,7 @@ differ in both instances."
 
 GEMARA: According to whose opinion is the Mishna? It is neither
 according to the opinion of the first Tana nor to that of Hananiah (see
-page [10](#page_10)). Said R. Jehudah: The Mishna means to state the
+page [10](#page_10).md). Said R. Jehudah: The Mishna means to state the
 following: "To legalize a closed entry (one enclosed on three sides)
 Beth Shammai hold that a side and cross beam are necessary, while Beth
 Hillel hold, that either one is sufficient." Shall we assume that in
@@ -1132,7 +1132,7 @@ decisions? Because his colleagues could never arrive at the conclusion
 of his decrees. If he decided that a thing which was unclean was clean,
 he proved it to them by a reason, and *vice versa*. We have learned in a
 Boraitha, that his name was not Meir but Neherai. Why was he called
-Meir? Because he *enlightened* <span id="fr_9"></span>[1](#fn_9) the
+Meir? Because he *enlightened* <span id="fr_9"></span>[1](#fn_9.md) the
 eyes of his colleagues in Halakhas. Where the name R. Neherai is
 mentioned, it refers to R. Nehemiah or to R. Eliezer ben Arach. Why do
 they call them Neherai? Because they *clarified* the vision of their
@@ -1314,7 +1314,7 @@ is a difference of opinion between the sages and R. Eliezer should be
 ten spans high, be their breadth and thickness whatever it may. How much
 is meant by "whatever it may"? R. Hyya taught: Even the breadth and
 thickness of a thread of a Saraball." <span
-id="fr_10"></span>[1](#fn_10)
+id="fr_10"></span>[1](#fn_10.md)
 
 A Boraitha states: "If one made a side-beam in one half of an entry, he
 has only a half of an entry." Is this not self-evident? We might presume
@@ -1333,7 +1333,7 @@ distance."
 "*R. Jose saith: 'They must be three spans wide.*'" Said R. Jehudah the
 son of R. Samuel bar Shila in the name of Rabh: "The Halakha does not
 prevail according to R. Jose either where brine is concerned <span
-id="fr_11"></span>[2](#fn_11) or where a side-beam is in question."
+id="fr_11"></span>[2](#fn_11.md) or where a side-beam is in question."
 
 <span id="page_32">p. 32</span>
 
@@ -1405,7 +1405,7 @@ communicates uncleanness (even after it has been removed). R. Meir,
 however, declares the animal clean. A letter of divorce for a woman may
 be written on a living animal, but R. Jose, the Galilean, pronounces the
 letter of divorce null and void (not legal). <span
-id="fr_12"></span>[1](#fn_12)
+id="fr_12"></span>[1](#fn_12.md)
 
 If a caravan encamp in a valley and a fence be made around the camp out
 of the cattle's gear, it is permitted to carry things inside of the
@@ -1587,7 +1587,7 @@ have been set aside); and they are exempt from the obligation of making
 an Erub.
 
 GEMARA: The rabbis taught: If an ordinary war <span
-id="fr_13"></span>[1](#fn_13) is in progress, it is permitted for the
+id="fr_13"></span>[1](#fn_13.md) is in progress, it is permitted for the
 warriors to appropriate dry wood without respecting the rights of
 ownership. R. Jehudah ben Thima said: "They may also encamp wherever
 they choose,
@@ -1633,7 +1633,7 @@ Hyya taught: "One who is guilty of transgressing the law of techoom
 should be punished with stripes as for any other biblical negative
 commandment." R. Jonathan opposed this: "Can a man be punished with
 stripes for a negative commandment which commences with the word
-Al?" <span id="fr_14"></span>[1](#fn_14) This was again opposed by R.
+Al?" <span id="fr_14"></span>[1](#fn_14.md) This was again opposed by R.
 
 <span id="page_39">p. 39</span>
 
@@ -1656,13 +1656,13 @@ negative commandments.)
 
 ### Footnotes
 
-<span id="fn_1"></span>[1:1](eru05.htm#fr_1) For explanation of this
+<span id="fn_1"></span>[1:1](eru05.htm#fr_1.md) For explanation of this
 term, see Introduction
 
-<span id="fn_2"></span>[4:1](eru05.htm#fr_2) The crooked walls will be
+<span id="fn_2"></span>[4:1](eru05.htm#fr_2.md) The crooked walls will be
 explained in Tract Sukkah.
 
-<span id="fn_3"></span>[6:1](eru05.htm#fr_3) In many places of the
+<span id="fn_3"></span>[6:1](eru05.htm#fr_3.md) In many places of the
 Talmud the expression Gud is used to signify, that where a wall or a
 curtain is supposed to reach the ground or to reach the ceiling, and
 comes within three spans of doing so in either case, they are considered
@@ -1671,10 +1671,10 @@ expression for the former being Gud Achith and for the latter Gud Assik;
 literally, "consider it bound down" and "consider it bound up,"
 respectively.
 
-<span id="fn_4"></span>[6:2](eru05.htm#fr_4) Lavud, attached. See note
+<span id="fn_4"></span>[6:2](eru05.htm#fr_4.md) Lavud, attached. See note
 §, page 12, Vol. I.
 
-<span id="fn_5"></span>[8:1](eru05.htm#fr_5) This is a case of where the
+<span id="fn_5"></span>[8:1](eru05.htm#fr_5.md) This is a case of where the
 peculiar Talmudical expression of Kal Vochomer appears in the text. The
 literal translation is "light and heavy," *i.e.*, from the lighter to
 the heavier or from minor to major. In the "Introduction to the Talmud"
@@ -1683,11 +1683,11 @@ of this term (pp. 130-141). However, no general term can be found to
 express its meaning, and the expression must be varied according to the
 demand of the text.
 
-<span id="fn_6"></span>[14:1](eru05.htm#fr_6) According to another
+<span id="fn_6"></span>[14:1](eru05.htm#fr_6.md) According to another
 version the apparent doors should be made where the entries face the
 street, but we cite the opinion of Rashi as usual.
 
-<span id="fn_7"></span>[15:1](eru05.htm#fr_7) In the text is written
+<span id="fn_7"></span>[15:1](eru05.htm#fr_7.md) In the text is written
 "Bain," "between" the side-beams. Rashi, however, declares that here it
 does not mean *between* the side-beams, but *opposite*, as between the
 side-beams cannot be possible, because every entry must have only one
@@ -1696,34 +1696,34 @@ that the text mentions the side-beams in plural, meaning many entries,
 and the word Neged in Hebrew, which means "opposite," cannot be said in
 plural.
 
-<span id="fn_8"></span>[16:1](eru05.htm#fr_8) An expression used to
+<span id="fn_8"></span>[16:1](eru05.htm#fr_8.md) An expression used to
 signify astonishment at an unnecessary or superfluous question, the
 answer to which is self-evident.
 
-<span id="fn_9"></span>[27:1](eru05.htm#fr_9) Meir in Hebrew means, He
+<span id="fn_9"></span>[27:1](eru05.htm#fr_9.md) Meir in Hebrew means, He
 makes light. Nehorah in Chaldaic is the same as our (light) in Hebrew;
 consequently Neherai in Chaldaic is the same as Meir in Hebrew.
 
-<span id="fn_10"></span>[31:1](eru05.htm#fr_10) A Saraball was an
+<span id="fn_10"></span>[31:1](eru05.htm#fr_10.md) A Saraball was an
 article of apparel similar to the modern Turkish trousers.
 
-<span id="fn_11"></span>[31:2](eru05.htm#fr_11) See Tract Sabbath,
+<span id="fn_11"></span>[31:2](eru05.htm#fr_11.md) See Tract Sabbath,
 Chapter XIV., Mishna 2.
 
-<span id="fn_12"></span>[33:1](eru05.htm#fr_12) The Gemara pertaining to
+<span id="fn_12"></span>[33:1](eru05.htm#fr_12.md) The Gemara pertaining to
 this Mishna will be found in Tract Gittin, as it does not belong to or
 treat of Erubin.
 
-<span id="fn_13"></span>[37:1](eru05.htm#fr_13) By an ordinary war is
+<span id="fn_13"></span>[37:1](eru05.htm#fr_13.md) By an ordinary war is
 meant a war carried on by the people without the direct commandment of
 God as distinct from the wars carried on by Joshua by divine
 commandment.
 
-<span id="fn_14"></span>[38:1](eru05.htm#fr_14) Al and Lo both mean
+<span id="fn_14"></span>[38:1](eru05.htm#fr_14.md) Al and Lo both mean
 "not" in Hebrew, and R. Jonathan means to say, that only such negative
 commandments as commence with "Lo" involve, if transgressed, the
 punishment of stripes, but not such as commence with "Al."
 
 ------------------------------------------------------------------------
 
-[Next: Chapter II: Use of Wells and Gardens on the Sabbath](eru06)
+[Next: Chapter II: Use of Wells and Gardens on the Sabbath](eru06.md)

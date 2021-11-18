@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sky Lore](../index) 
-[Index](index)  [Previous](ptb59)  [Next](ptb61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sky Lore](../index.md) 
+[Index](index)  [Previous](ptb59)  [Next](ptb61.md) 
 
 ------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ of time only.
 In regard to the body, therefore, it is in all cases requisite to
 observe the oriental horizon, and to ascertain what planets may preside
 or have dominion over it, and also to pay particular attention to the
-Moon. For, from both these places, <span id="fr_198"></span>[1](#fn_198)
+Moon. For, from both these places, <span id="fr_198"></span>[1](#fn_198.md)
 and from their rulers, as well as from the natural formation and
 contemperament appertaining to every species of the human race, and also
 from the figure ascribed to those fixed stars which may be co-ascending,
@@ -75,27 +75,27 @@ eyes and a moderate growth of hair; and the bodily temperament is
 chiefly hot. If occidental, he gives a complexion white or fair, but not
 altogether clear; straight, dark hair, a thin and slight figure, some
 squint or defect in the eyes, and a long visage <span
-id="fr_199"></span>[1](#fn_199) faintly red; the temperament being
+id="fr_199"></span>[1](#fn_199.md) faintly red; the temperament being
 chiefly dry.
 
 The Sun and Moon, when configurated with any one of the planets, also
 co-operate: the Sun adds a greater nobleness to the figure, and
 increases the healthiness of the constitution; and the Moon, especially
 when holding or delaying her separation, <span
-id="fr_200"></span>[2](#fn_200) generally contributes better proportion
+id="fr_200"></span>[2](#fn_200.md) generally contributes better proportion
 and greater delicacy of figure, and greater moisture of temperament;
 but, at the same time, her influence in this latter particular is
 adapted to the proper ratio of her illumination; as referred to in the
 modes of temperament mentioned in the beginning of this treatise. <span
-id="fr_201"></span>[3](#fn_201)
+id="fr_201"></span>[3](#fn_201.md)
 
 Again, should the planets be matutine, and fully conspicuous, <span
-id="fr_202"></span>[4](#fn_202) they will cause the body to be large; if
+id="fr_202"></span>[4](#fn_202.md) they will cause the body to be large; if
 in their first station, they will make it strong and vigorous; if they
 should precede or be in advance, it will be disproportionate; if in
 their second station, it will be weaker, and, if vespertine, altogether
 mean and subservient to evil treatment and oppression. At the same time,
-the places of the planets, <span id="fr_203"></span>[5](#fn_203) as has
+the places of the planets, <span id="fr_203"></span>[5](#fn_203.md) as has
 been already said, co-operate especially in producing the shape of the
 personal figure, and contribute also towards the temperament.
 
@@ -134,7 +134,7 @@ Virgo, Libra, and Sagittarius contribute to render the person handsome
 and well-proportioned; and Scorpio, Pisces, and Taurus incline it to be
 misshapen and disfigured.
 
-The other constellations <span id="fr_204"></span>[1](#fn_204) also
+The other constellations <span id="fr_204"></span>[1](#fn_204.md) also
 operate on similar principles; and all these influences it is necessary
 to bear in mind, in order that the peculiar properties, observed in
 their joint temperament, may be so compounded as to authorize an
@@ -144,32 +144,32 @@ inference therefrom, concerning the form and temperament of the body.
 
 ### Footnotes
 
-<span id="fn_198"></span>[101:1](ptb60.htm#fr_198) That of the
+<span id="fn_198"></span>[101:1](ptb60.htm#fr_198.md) That of the
 ascendant, and that of the Moon.
 
-<span id="fn_199"></span>[102:1](ptb60.htm#fr_199) The original word is
+<span id="fn_199"></span>[102:1](ptb60.htm#fr_199.md) The original word is
 (in the accusative plural) αιγοηους, which Allatius has rendered, by
 "*pedibus caprinis*," *goat-footed*, as if it were compounded of αιξ
 *capra* and πους *pes*; but the preferable derivation seems to be from
 αιξ and ωψ *vultus*; meaning "*goat-faced*."
 
-<span id="fn_200"></span>[102:2](ptb60.htm#fr_200) From any one of the
+<span id="fn_200"></span>[102:2](ptb60.htm#fr_200.md) From any one of the
 said planets.
 
-<span id="fn_201"></span>[102:3](ptb60.htm#fr_201) *Vide* Chap. VIII,
+<span id="fn_201"></span>[102:3](ptb60.htm#fr_201.md) *Vide* Chap. VIII,
 Book I.
 
-<span id="fn_202"></span>[102:4](ptb60.htm#fr_202) The Greek is
+<span id="fn_202"></span>[102:4](ptb60.htm#fr_202.md) The Greek is
 ποιουμενοι φασεις; literally "*making apparition*"; but the subsequent
 context seems to require the meaning I have adopted.
 
-<span id="fn_203"></span>[102:5](ptb60.htm#fr_203) The parts of the
+<span id="fn_203"></span>[102:5](ptb60.htm#fr_203.md) The parts of the
 signs in which the planets are posited.
 
-<span id="fn_204"></span>[103:1](ptb60.htm#fr_204) For the operative
+<span id="fn_204"></span>[103:1](ptb60.htm#fr_204.md) For the operative
 qualities of the other constellations, *vide* Chapters X and XI, Book I.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter XVII. The Hurts, Injuries, and Diseases of the
-Body](ptb61)
+Body](ptb61.md)

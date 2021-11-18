@@ -1,5 +1,5 @@
-[Intangible Textual Heritage](../../index)  [Islam](../index) 
-[Index](index)  [Previous](mos14)  [Next](mos16) 
+[Intangible Textual Heritage](../../index)  [Islam](../index.md) 
+[Index](index)  [Previous](mos14)  [Next](mos16.md) 
 
 ------------------------------------------------------------------------
 
@@ -133,4 +133,4 @@ chosen and his Household the best of the creations, Amen.
 
 ------------------------------------------------------------------------
 
-[Next: Some Historians Said](mos16)
+[Next: Some Historians Said](mos16.md)

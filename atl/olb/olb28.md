@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](olb27)  [Next](olb29) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](olb27)  [Next](olb29.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Oera Linda Book*, by Wiliam R. Sandbach, \[1876\], at Intangible
 Textual Heritage
 
@@ -53,10 +53,10 @@ which he thought desirable. Upon the largest he built a city in the wood
 between the mountains. From the smaller islands he made expeditions for
 vengeance on the Tyrians, and plundered their ships and their lands.
 Therefore these islands were called Insulæ Piratarum, as well as
-Johannis Insulæ <span id="fr_36"></span>[\*](#fn_36).
+Johannis Insulæ <span id="fr_36"></span>[\*](#fn_36.md).
 
 When Min-erva had examined the country which is called by the
-inhabitants Attica <span id="fr_37"></span>[†](#fn_37), she saw that the
+inhabitants Attica <span id="fr_37"></span>[†](#fn_37.md), she saw that the
 people were all goatherds, and that they lived on meat, wild roots,
 herbs, and honey. They were clothed in skins, and had their dwellings on
 the slopes (*hellinga*) of the hills, wherefore they were called
@@ -99,11 +99,11 @@ before Finda's people will be ripe for liberty.
 
 ### Footnotes
 
-<span id="fn_36"></span>[99:\*](olb28.htm#fr_36) Jonhis êlanda—John's
+<span id="fn_36"></span>[99:\*](olb28.htm#fr_36.md) Jonhis êlanda—John's
 Islands, or the Pirated Isles.
 
-<span id="fn_37"></span>[99:†](olb28.htm#fr_37) Athenia is Athens.
+<span id="fn_37"></span>[99:†](olb28.htm#fr_37.md) Athenia is Athens.
 
 ------------------------------------------------------------------------
 
-[Next: This is about the Geertmen](olb29)
+[Next: This is about the Geertmen](olb29.md)

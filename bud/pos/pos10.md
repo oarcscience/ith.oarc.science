@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](pos09)  [Next](pos11) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](pos09)  [Next](pos11.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,7 +18,7 @@ winning no concentration of mind even for a moment, and bewailing her
 state with outstretched arms, till at length she heard Dhammadinnā
 preaching the Norm. Then, with her mind diverted from the senses, she
 fell to practising meditative exercises, and in no long time acquired
-the Six Powers of Intuition. [<sup>190</sup>](pos10.htm#50-1) And,
+the Six Powers of Intuition. [<sup>190</sup>](pos10.htm#50-1.md) And,
 reflecting on her attainment, she exulted thus:
 
 <table data-align="center">
@@ -82,9 +82,9 @@ And the commandment of the Lord is done. (71)</p></td>
 <span id="51-2"></span>
 
 > <sup>192</sup> The last five words are only implicit in the Pali.
-> *Cf.* Ps. [xxx](pos08.htm#XXX). [43](pos08.htm#43). Compare
+> *Cf.* Ps. [xxx](pos08.htm#XXX). [43](pos08.htm#43.md). Compare
 > Dhammadinnā's help with that given by Paṭācārā, [Ps.
-> xxx.](pos08.htm#XXX)
+> xxx.](pos08.htm#XXX.md)
 
 <span id="51-3"></span>
 
@@ -98,11 +98,11 @@ She too, having fared in the past as the foregoing Sisters, was born, in
 this Buddha-era, at Vesālī as the daughter of a certain woman who earned
 her living by her beauty. Her name was Vimalā. When she was grown up,
 and was imagining vicious things, she saw one day the venerable
-Mahā-Moggallāna [<sup>194</sup>](pos10.htm#52-1) going about Vesālī for
+Mahā-Moggallāna [<sup>194</sup>](pos10.htm#52-1.md) going about Vesālī for
 alms, and feeling enamoured of him, she went to his dwelling and sought
 to entice him. Some say she was instigated to do so by sectarians. The
 Elder rebuked her unseemly behaviour and admonished her, as may be read
-in the Psalms of the Brethren. [<sup>195</sup>](pos10.htm#52-2) And she
+in the Psalms of the Brethren. [<sup>195</sup>](pos10.htm#52-2.md) And she
 was filled with shame and self-reproach, and became a believer and
 lay-sister. Later she entered the Order, and wrestling and striving–for
 the root of attainment was in her–not long after won Arahantship.
@@ -164,7 +164,7 @@ Calm and content I know Nibbana's Peace. (</span><a href="pos23.htm#CORRIGENDUM"
 
 She too, faring in the past as the foregoing Sisters, was in this
 Buddha-era born at Vesālī as the daughter of General Sīha's
-[<sup>198</sup>](pos10.htm#53-2) sister. And, being named after her
+[<sup>198</sup>](pos10.htm#53-2.md) sister. And, being named after her
 maternal uncle, she was called Sīhā. Come to years of discretion, she
 heard the Master one day teaching the Norm to the General, and, becoming
 a believer, gained her parents' consent to enter the Order. When she
@@ -237,20 +237,20 @@ in meditative power. Vowing that she would gain that rank, she went on
 doing good. After æons upon æons of rebirth among gods and men, she took
 birth in this Buddha-epoch in the reigning family of the Sākiyas. Named
 Nandā, she became known as Beautiful Nandā,
-[<sup>201</sup>](pos10.htm#55-1) the Belle of the country. And when our
+[<sup>201</sup>](pos10.htm#55-1.md) the Belle of the country. And when our
 Exalted One had acquired all knowledge, had gone to Kapilavatthu, and
 caused the princes Nandā and Rāhula to join the Order; when too King
 Suddhodana died, and the Great Pajāpatī entered the Order, then Nandā
-thought: 'My elder brother [<sup>202</sup>](pos10.htm#55-2) has
+thought: 'My elder brother [<sup>202</sup>](pos10.htm#55-2.md) has
 renounced the heritage of empire, has left the world, and is become a
-Buddha, a Superman. [<sup>203</sup>](pos10.htm#55-3) His son too,
+Buddha, a Superman. [<sup>203</sup>](pos10.htm#55-3.md) His son too,
 Rāhula, has left the world, so has my brother, King Nanda, my mother,
 Mahā-Pajāpatī, and my sister, Rāhula's mother. But I now, what shall I
 do at home? I will leave the world.' Thus she went forth, not from
 faith, but from love of her kin. And thus, even after her renunciation,
 she was intoxicated with her beauty, and would not go into the Master's
 presence, lest he should rebuke her. But it fared with her even as with
-Sister Abbirūpa-Nandā, [<sup>204</sup>](pos10.htm#55-4) with this
+Sister Abbirūpa-Nandā, [<sup>204</sup>](pos10.htm#55-4.md) with this
 difference: When she saw the female shape conjured up by the Master
 growing gradually aged, her mind, intent on the impermanence and
 suffering of life, turned to meditative discipline. And the Master,
@@ -284,7 +284,7 @@ fruition of the First Path. And, to give her an exercise for higher
 progress, he taught her, saying: 'Nandā, there is in this body not even
 the smallest essence. 'Tis but a heap of bones smeared with flesh and
 blood under the form of decay and death.' As it is said in the
-Dhammapada:[<sup>207</sup>](pos10.htm#56-3)
+Dhammapada:[<sup>207</sup>](pos10.htm#56-3.md)
 
 > 'Have made a citadel of bones besmeared  
 > With flesh and blood, where ever reign decay  
@@ -320,7 +320,7 @@ Calm and serene I taste Nibbana's peace. (86)</span></p></td>
 
 <span id="55-2"></span>
 
-> <sup>202</sup> *I.e.*, half-brother. *Cf.* [p. 6.](pos05.htm#p6)
+> <sup>202</sup> *I.e.*, half-brother. *Cf.* [p. 6.](pos05.htm#p6.md)
 
 <span id="55-3"></span>
 
@@ -328,7 +328,7 @@ Calm and serene I taste Nibbana's peace. (86)</span></p></td>
 
 <span id="55-4"></span>
 
-> <sup>204</sup> See [Ps. xix.](pos07.htm#XIX)
+> <sup>204</sup> See [Ps. xix.](pos07.htm#XIX.md)
 
 <span id="56-1"></span>
 
@@ -365,11 +365,11 @@ Calm and serene I taste Nibbana's peace. (86)</span></p></td>
 
 She, too, faring in the past as the aforementioned Sisters, was, in this
 Buddha-age, born in the kingdom of the Kurus at the town of
-Kammāsadamma,[<sup>208</sup>](pos10.htm#57-1) in a brahmin family. And
+Kammāsadamma,[<sup>208</sup>](pos10.htm#57-1.md) in a brahmin family. And
 when she had learnt from some of them their arts and sciences, she
-entered the Order of the Nigaṇṭhas,[<sup>209</sup>](pos10.htm#57-2) and,
+entered the Order of the Nigaṇṭhas,[<sup>209</sup>](pos10.htm#57-2.md) and,
 as a renowned speaker, took her rose-apple bough, like Bhaddā Curlyhair,
-[<sup>210</sup>](pos10.htm#57-3) and toured about the plain of India.
+[<sup>210</sup>](pos10.htm#57-3.md) and toured about the plain of India.
 Thus she met Mahā-Moggallāna the Elder, and in debate suffered defeat.
 She thereupon listened to his advice, entered the Order, and not long
 after attained Arahantship, together with thorough grasp of the letter
@@ -423,24 +423,24 @@ Peace had I won, peace thronèd in my heart. (91)</span></p></td>
 
 <span id="57-3"></span>
 
-> <sup>210</sup> See [Ps. xlvi.](pos10.htm#XLVI) The autobiographical
+> <sup>210</sup> See [Ps. xlvi.](pos10.htm#XLVI.md) The autobiographical
 > evolution hinted at in verse 89 of the Psalm fits ill with the career
 > sketched in the Commentarial tradition.
 
 ------------------------------------------------------------------------
 
-### <span id="XLIII">XLIII Mittakālī.</span> [<sup>211</sup>](pos10.htm#58-1)
+### <span id="XLIII">XLIII Mittakālī.</span> [<sup>211</sup>](pos10.htm#58-1.md)
 
 She, too, faring in the past as the aforementioned Sisters, was, in this
 Buddha-era, born at the town of Kammāsadamma
-[<sup>212</sup>](pos10.htm#58-2) in the kingdom of the Kurus, in a
+[<sup>212</sup>](pos10.htm#58-2.md) in the kingdom of the Kurus, in a
 brahmin's family. Come to years of discretion, she gained faith by
 hearing the teaching of the great Discourse on the Applications of
-Mindfulness,[<sup>213</sup>](pos10.htm#59-1) and entered the Order of
+Mindfulness,[<sup>213</sup>](pos10.htm#59-1.md) and entered the Order of
 Sisters. For seven years she was liable to a fondness for gifts and
 honours, and, while doing the duties of a recluse, she was quarrelsome
 now and again. Later on she was reborn intellectually,
-[<sup>214</sup>](pos10.htm#59-2) and becoming anxious she established
+[<sup>214</sup>](pos10.htm#59-2.md) and becoming anxious she established
 insight, and thereupon soon won Arahantship, together with thorough
 grasp of the Norm in form and in meaning. Reflecting on her victory, she
 exulted thus:
@@ -486,7 +486,7 @@ For me the Buddha's word had come to pass. (96)</span></p></td>
 
 <span id="58-2"></span>
 
-> <sup>212</sup> See [Ps. xlii.](pos10.htm#XLII), *n.* 1.
+> <sup>212</sup> See [Ps. xlii.](pos10.htm#XLII.md), *n.* 1.
 
 <span id="59-1"></span>
 
@@ -503,7 +503,7 @@ For me the Buddha's word had come to pass. (96)</span></p></td>
 
 ------------------------------------------------------------------------
 
-### <span id="XLIV">XLIV Sakulā.</span> [<sup>216</sup>](pos10.htm#60-1)
+### <span id="XLIV">XLIV Sakulā.</span> [<sup>216</sup>](pos10.htm#60-1.md)
 
 Now she, at the time when Padumuttara was Buddha, came to birth at
 Haŋsavatī as the daughter of King Ānanda and half-sister of the Master,
@@ -512,7 +512,7 @@ hearing him place a Bhikkhunī at the top of those who had the faculty of
 the 'Heavenly Eye,' she vowed that this rank should one day be hers. And
 after many good works and subsequent happy rebirths, she came to being
 on earth when Kassapa was Buddha, as a brahminee, and renounced the
-world as a Wanderer, [<sup>217</sup>](pos10.htm#60-2) vowed to a
+world as a Wanderer, [<sup>217</sup>](pos10.htm#60-2.md) vowed to a
 solitary life. One day she offered her alms at the Master's shrine,
 making a lamp-offering all night long. Reborn in the heaven of the
 Three-and-Thirty Gods, she became possessed of the Heavenly Eye; and,
@@ -580,7 +580,7 @@ Cool and serene I see Nibbana's peace. (101)</p></td>
 > <sup>219</sup> The powers here briefly indicated are the culminating
 > stages of *Vijjā* or *Paññā*. See *Dialogues of the Buddha*, i., p.
 > 124 (§§ 14-16), and *passim*, and *Cf.* [Ps.
-> xxxviii.](pos10.htm#XXXVIII)
+> xxxviii.](pos10.htm#XXXVIII.md)
 
 <span id="61-3"></span>
 
@@ -591,7 +591,7 @@ Cool and serene I see Nibbana's peace. (101)</p></td>
 
 ------------------------------------------------------------------------
 
-### <span id="XLV">XLV Soṇā.</span> [<sup>221</sup>](pos10.htm#61-4)
+### <span id="XLV">XLV Soṇā.</span> [<sup>221</sup>](pos10.htm#61-4.md)
 
 She, too, was born at the time when Padumuttara was Buddha, at
 Haŋsavatī, in a clansman's family. One day she sat listening to the
@@ -619,7 +619,7 @@ as if seated before her, said thus:
 > Beholdeth never the Ambrosial Path,  
 > Had better live no longer than one day,  
 > So he behold within that day, that
-> Path!'[<sup>222</sup>](pos10.htm#62-1)
+> Path!'[<sup>222</sup>](pos10.htm#62-1.md)
 
 And when he had thus spoken, she attained Arahantship. Now, the Exalted
 One, in assigning rank of merit to the Bhikkhunīs, placed her first for
@@ -665,20 +665,20 @@ Immovable.</span><a href="pos10.htm#63-4"><sup>227</sup></a> Rebirth comes never
 
 <span id="62-1"></span>
 
-> <sup>222</sup> See [Ps. lxiii.](pos15.htm#LXIII)
+> <sup>222</sup> See [Ps. lxiii.](pos15.htm#LXIII.md)
 
 <span id="62-2"></span>
 
-> <sup>223</sup> See [Pss. xxx.](pos08.htm#XXX),
-> [xxxviii.](pos10.htm#XXXVIII)
+> <sup>223</sup> See [Pss. xxx.](pos08.htm#XXX.md),
+> [xxxviii.](pos10.htm#XXXVIII.md)
 
 <span id="63-1"></span>
 
-> <sup>224</sup> See [Ps. iv.](pos06.htm#IV)
+> <sup>224</sup> See [Ps. iv.](pos06.htm#IV.md)
 
 <span id="63-2"></span>
 
-> <sup>225</sup> See [Ps. xxxi](pos08.htm#XXXI). 46.
+> <sup>225</sup> See [Ps. xxxi](pos08.htm#XXXI.md). 46.
 
 <span id="63-3"></span>
 
@@ -692,7 +692,7 @@ Immovable.</span><a href="pos10.htm#63-4"><sup>227</sup></a> Rebirth comes never
 
 ------------------------------------------------------------------------
 
-### <span id="XLVI">XLVI Bhaddā Kuṇḍalakesā, the ex-Jain.</span> [<sup>228</sup>](pos10.htm#63-5)
+### <span id="XLVI">XLVI Bhaddā Kuṇḍalakesā, the ex-Jain.</span> [<sup>228</sup>](pos10.htm#63-5.md)
 
 She, too, was reborn, when Padumuttara was Buddha, at Haŋsavatī, in a
 clansman's family. One day she sat listening to the Master, and hearing
@@ -700,11 +700,11 @@ him place a Bhikkhunī at top of those whose intuition was swift, she
 vowed that this rank should one day be hers. After working much merit,
 and experiencing æons of rebirth among gods and men, she became, when
 Kassapa was Buddha, one of the seven daughters
-[<sup>229</sup>](pos10.htm#64-1) of Kiki, King of Kāsī. And for twenty
-thousand years [<sup>230</sup>](pos10.htm#64-2) she kept the precepts,
+[<sup>229</sup>](pos10.htm#64-1.md) of Kiki, King of Kāsī. And for twenty
+thousand years [<sup>230</sup>](pos10.htm#64-2.md) she kept the precepts,
 and built a cell for the Order. Finally, in this Buddha-era, she was
 born at Rājagaha, in the family of the king's treasurer, and called
-Bhaddā. [<sup>231</sup>](pos10.htm#64-3) Growing up surrounded by
+Bhaddā. [<sup>231</sup>](pos10.htm#64-3.md) Growing up surrounded by
 attendants, she saw, looking through her lattice, Satthuka, the
 chaplain's son, a highwayman, being led to execution by the city guard
 by order of the king. Falling in love with him, she fell prone on her
@@ -738,7 +738,7 @@ and praised her cleverness, saying:
 
 Thereafter Bhaddā thought: 'I cannot, in this course of events, go home;
 I will go hence, and leave the world.' So she entered the Order of the
-Nigaṇṭhas. [<sup>232</sup>](pos10.htm#65-1) And they asked her: 'In what
+Nigaṇṭhas. [<sup>232</sup>](pos10.htm#65-1.md) And they asked her: 'In what
 grade do you make renunciation?' 'In whatever is your extreme grade,'
 she replied, 'perform that on me.' So they tore out her hair with a
 palmyra comb. (When the hair grew again in close curls they called her
@@ -757,7 +757,7 @@ Now at that time our Exalted One, rolling the wheel of the excellent
 doctrine, came and dwelt in the Jeta Wood near Sāvatthī, just when
 Curlyhair had set up her bough at the gate of that city.
 
-Then the venerable Captain of the Norm [<sup>233</sup>](pos10.htm#65-2)
+Then the venerable Captain of the Norm [<sup>233</sup>](pos10.htm#65-2.md)
 entered the city alone, and, seeing her bough, felt the wish to tame
 her. And he asked the children: 'Why is this bough stuck up here?' They
 told him. The Elder said: 'If that is so, trample on the bough.' And the
@@ -775,7 +775,7 @@ asked: 'Was it by your orders that my rose-apple bough was trampled on?'
 proceeded thus, the Elder answering everything, till she, unable to
 think of further questions, became silent. Then the Elder said: 'You
 have asked much; I, too, will ask, but only this question.' 'Ask it,
-lord.' 'One–what is that?' [<sup>234</sup>](pos10.htm#66-1) Curlyhair,
+lord.' 'One–what is that?' [<sup>234</sup>](pos10.htm#66-1.md) Curlyhair,
 seeing neither end nor point to this, was as one gone into the dark, and
 said: 'I know not, lord.' Then he, saying, 'You know not even thus much.
 How should you know aught else?' taught her the Norm. She fell at his
@@ -788,7 +788,7 @@ said:
 
 > 'Better than a thousand verses, where no profit wings the word,  
 > Is a solitary stanza bringing calm and peace when heard.'
-> [<sup>235</sup>](pos10.htm#67-1)
+> [<sup>235</sup>](pos10.htm#67-1.md)
 
 <img src="66.jpg" width="695" height="379" />  
 THE SUMMIT OF VULTURE PEAK.  
@@ -835,12 +835,12 @@ Is wholly free from bondage of the mind. (111)</span></p></td>
 <span id="63-5"></span>
 
 > <sup>228</sup> Spelt -kesī at the allusion to her in [Ps.
-> xlii.](pos10.htm#XLII) For an uncondensed version of the chronicle,
+> xlii.](pos10.htm#XLII.md) For an uncondensed version of the chronicle,
 > see Mrs. Bode, *op. cit.*, pp. 777 ſ.
 
 <span id="64-1"></span>
 
-> <sup>229</sup> See [Ps. xii.](pos06.htm#XII); Commentary, *n.* 1.
+> <sup>229</sup> See [Ps. xii.](pos06.htm#XII.md); Commentary, *n.* 1.
 
 <span id="64-2"></span>
 
@@ -849,11 +849,11 @@ Is wholly free from bondage of the mind. (111)</span></p></td>
 
 <span id="64-3"></span>
 
-> <sup>231</sup> See [Ps. xxxvii.](pos09.htm#XXXVII)
+> <sup>231</sup> See [Ps. xxxvii.](pos09.htm#XXXVII.md)
 
 <span id="65-1"></span>
 
-> <sup>232</sup> See [Ps. xlii.](pos10.htm#XLII)
+> <sup>232</sup> See [Ps. xlii.](pos10.htm#XLII.md)
 
 <span id="65-2"></span>
 
@@ -897,8 +897,8 @@ Is wholly free from bondage of the mind. (111)</span></p></td>
 > Peak (Gijjhakūṭa) as well as Rājagaha in Magadha; but the latter peak
 > is the one usually mentioned, and it seems more probable that
 > Curlyhair's legend has been (badly) fitted on to another Bhaddā's
-> Psalm. *Cf.* [Ps. xlii.](pos10.htm#XLII), also [Ps.
-> xlvii.](pos10.htm#XLVII), [lxiii](pos15.htm#LXIII). The commentator is
+> Psalm. *Cf.* [Ps. xlii.](pos10.htm#XLII.md), also [Ps.
+> xlvii.](pos10.htm#XLVII), [lxiii](pos15.htm#LXIII.md). The commentator is
 > silent on the point.
 
 <span id="67-4"></span>
@@ -925,7 +925,7 @@ the Order, she vowed that this rank should one day be hers. After doing
 good all her life, and being reborn in heaven and on earth, she gained
 rebirth, in the time when Kassapa was Buddha, as one of the seven
 Sisters, daughters of Kiki, King of Kāsī.
-[<sup>240</sup>](pos10.htm#68-2) And for 20,000 years she lived a life
+[<sup>240</sup>](pos10.htm#68-2.md) And for 20,000 years she lived a life
 of righteousness, and built a cell for the Order. While no Buddha lived
 on earth she dwelt in glory among the gods, and finally, in this
 Buddha-era, was reborn in the Treasurer's house at Sāvatthī. Grown up,
@@ -943,7 +943,7 @@ is without protection,' and hurrying after her, overtook her. Midway the
 pains of birth came upon her, and after she was recovered, they turned
 back again to the hamlet. At the advent of a second child things
 happened just as before, with this difference: when midway the winds
-born of Karma blew upon her, [<sup>241</sup>](pos10.htm#69-1) a great
+born of Karma blew upon her, [<sup>241</sup>](pos10.htm#69-1.md) a great
 storm broke over them, and she said, 'Husband, find me a place out of
 the rain!' While he was cutting grass and sticks in the jungle, he cut a
 stake from a tree standing in an ant-hill. And a snake came from the
@@ -986,7 +986,7 @@ woe–
 
 she wandered around from that day forth in circles, and because her
 skirt-cloth fell from her she was given the name
-'Cloak-walker.'[<sup>242</sup>](pos10.htm#70-1) And people, seeing her,
+'Cloak-walker.'[<sup>242</sup>](pos10.htm#70-1.md) And people, seeing her,
 said: 'Go, little mad-woman!' And some threw refuse at her head, some
 sprinkled dust, some pelted her with clods. The Master, seated in the
 Jeta Grove, in the midst of a great company, teaching the Dhamma, saw
@@ -995,7 +995,7 @@ knowledge. When she came towards the Vihāra he also walked that way. The
 congregation, seeing her, said: 'Suffer not that little lunatic to come
 hither.' The Exalted One said: 'Forbid her not,' and standing near as
 she came round again, he said to her: 'Sister, recover thou presence of
-mind.'[<sup>243</sup>](pos10.htm#71-1) She, by the sheer potency of the
+mind.'[<sup>243</sup>](pos10.htm#71-1.md) She, by the sheer potency of the
 Buddha regaining presence of mind, discerned her undressed plight, and
 shame and conscience arising, she fell crouching to earth. A man threw
 her his outer robe, and she put it round her, and drawing near to the
@@ -1028,7 +1028,7 @@ said:
 > Swiftly makes clear the road leading on to Nibbana.
 
 When he had finished speaking, she was established in the fruit of a
-Stream-winner,[<sup>244</sup>](pos10.htm#72-1) and asked for ordination.
+Stream-winner,[<sup>244</sup>](pos10.htm#72-1.md) and asked for ordination.
 The Master led her to the Bhikkhunīs, and let her be admitted.
 
 She, exercising herself to reach the higher paths, took water one day in
@@ -1047,7 +1047,7 @@ but for one moment–than to live for a hundred years and not see that.
 > Beholdeth never how things rise and fall,  
 > Had better live no longer than one day,  
 > So, in that day, he see the flux of
-> things.'[<sup>245</sup>](pos10.htm#72-2)
+> things.'[<sup>245</sup>](pos10.htm#72-2.md)
 
 And when he had finished, Paṭācārā won Arahantship, together with
 thorough grasp of the Norm in letter and in spirit. Thereafter,
@@ -1088,7 +1088,7 @@ Emancipation dawns! My heart is free!</span> <a href="pos10.htm#73-1"><sup>246</
 
 > <sup>240</sup> Thus, as sister of Bhaddā Curlylocks, or, rather, of
 > the immediate personal antecedent of Bhaddā, and of five other eminent
-> women. Sec [Ps. xii.](pos06.htm#XII), *n.*; and *cf.* Mrs. Bode, *op.
+> women. Sec [Ps. xii.](pos06.htm#XII.md), *n.*; and *cf.* Mrs. Bode, *op.
 > cit.*, pp. 556 ſ.; and Jātaka 4, *Buddhist Birth Stories*, pp. 158 ſ.
 
 <span id="69-1"></span>
@@ -1133,7 +1133,7 @@ conditions for emancipation. They came to birth, in this
 Buddha-dispensation, in clansmen's families in different places, heard
 Paṭācārā preach, and were by her converted, and entered the Order. To
 them, perfecting virtue and fulfilling their duties, she one day gave
-this exhortation: [<sup>247</sup>](pos10.htm#73-2)
+this exhortation: [<sup>247</sup>](pos10.htm#73-2.md)
 
 <table data-align="center">
 <colgroup>
@@ -1195,7 +1195,7 @@ From deadly drugs our souls are purified.' (121)</span></p></td>
 
 <span id="73-2"></span>
 
-> <sup>247</sup> *Cf.* with the following, [Ps. lviii.](pos12.htm#LVIII)
+> <sup>247</sup> *Cf.* with the following, [Ps. lviii.](pos12.htm#LVIII.md)
 
 <span id="74-1"></span>
 
@@ -1214,7 +1214,7 @@ whom nothing is known. From her childhood her family lost its
 possessions, and she grew up in wretched circumstances.
 
 Now, in her home the snake-blast disease
-[<sup>249</sup>](pos10.htm#75-1) broke out, and all her kinsfolk caught
+[<sup>249</sup>](pos10.htm#75-1.md) broke out, and all her kinsfolk caught
 it, and died. She, being unable to support herself otherwise, went from
 house to house with a potsherd, maintaining herself by alms. One day she
 came to where Paṭācārā had just finished her meal. The Bhikkhunīs,
@@ -1281,4 +1281,4 @@ From deadly drugs my heart is purified. (126)</span></p></td>
 
 ------------------------------------------------------------------------
 
-[Next: Canto VI. Psalms of Six Verses](pos11)
+[Next: Canto VI. Psalms of Six Verses](pos11.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Gnosticism](../index) 
-[Index](index)  [Previous](fff04)  [Next](fff06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Gnosticism](../index.md) 
+[Index](index)  [Previous](fff04)  [Next](fff06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B002CVUVRM/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Fragments of a Faith Forgotten*, by G.R.S. Mead, \[1900\], at
 Intangible Textual Heritage
 
@@ -156,7 +156,7 @@ Churches g of Christendom is a record of disbelief in this
 <span id="page_7">p. 7</span>
 
 fundamental dogma of universal religion, and no greater foe has dogged
-the footsteps of [Christianity](errata.htm#0) than the evil genius of
+the footsteps of [Christianity](errata.htm#0.md) than the evil genius of
 Jewish particularism, which has ever instigated it to every outbreak of
 intolerance and persecution. This same spirit also infused itself into
 Mohammedanism, and we can trace the results in the bloody pages of its
@@ -324,7 +324,7 @@ this the one doctrine which he had been led to believe has been handed
 down in unbroken succession and in one form since the beginnings? He
 gazes round on a religious world of immense activity, a vast upheaval of
 thought and a strenuousness of religious endeavour to which the history
-of the Western world gives no [parallel](errata.htm#1). Thousands of
+of the Western world gives no [parallel](errata.htm#1.md). Thousands of
 schools and communities on every hand, striving and contending, a vast
 freedom of
 
@@ -796,4 +796,4 @@ foreshadowing.
 
 ------------------------------------------------------------------------
 
-[Next: Preliminary Considerations](fff06)
+[Next: Preliminary Considerations](fff06.md)

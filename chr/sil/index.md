@@ -1,5 +1,5 @@
 <span
-class="small">[Sacred-Texts](../../index) [Christianity](../index)</span>
+class="small">[Sacred-Texts](../../index) [Christianity](../index.md)</span>
 
 ------------------------------------------------------------------------
 
@@ -36,10 +36,10 @@ world.
 ------------------------------------------------------------------------
 
 [Angelus Silesius: Selections from *The Cherubinic
-Wanderer*](scw/index), trans. with intro. by J. E. Crawford Flitch
+Wanderer*](scw/index.md), trans. with intro. by J. E. Crawford Flitch
 \[1932\]  
 [Alexandrines: translated from the "Cherubinischer Wandersmann" of
-Angelus Silesius](alex/index), Julia Bilger \[1944\]  
+Angelus Silesius](alex/index.md), Julia Bilger \[1944\]  
    
-[Angelus Silesius](../../journals/oc/pc-as), Paul Carus (OC vol. XXII,
+[Angelus Silesius](../../journals/oc/pc-as.md), Paul Carus (OC vol. XXII,
 5, pp. 291-297) \[1908\]  

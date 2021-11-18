@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Classical
-Paganism](../index)  [Sacred Sexuality](../../sex/index)  [1st
-Lines](1stline)  [Index](index)  [Previous](prp63)  [Next](prp65) 
+[Intangible Textual Heritage](../../index.md)  [Classical
+Paganism](../index)  [Sacred Sexuality](../../sex/index.md)  [1st
+Lines](1stline)  [Index](index)  [Previous](prp63)  [Next](prp65.md) 
 
 ------------------------------------------------------------------------
 
@@ -23,4 +23,4 @@ shall not see him.
 ------------------------------------------------------------------------
 
 [Next: 65. This, with his snout aye alert to uproot the lilies
-a-blowing](prp65)
+a-blowing](prp65.md)

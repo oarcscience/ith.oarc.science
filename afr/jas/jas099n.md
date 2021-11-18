@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../index)  [Africa](../index) 
-[Index](index)  [Previous](jas098n)  [Next](jas100n)   
- \[[99. The Water Crayfish.](jas099)\]
+[Intangible Textual Heritage](../../index)  [Africa](../index.md) 
+[Index](index)  [Previous](jas098n)  [Next](jas100n.md)   
+ \[[99. The Water Crayfish.](jas099.md)\]
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ depends upon the song interest.
 
 ------------------------------------------------------------------------
 
-[Next: Note 100. Ali Baba and Kissem.](jas100n)
+[Next: Note 100. Ali Baba and Kissem.](jas100n.md)

@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc059) 
-[Next](motc061) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc059.md) 
+[Next](motc061.md) 
 
 ------------------------------------------------------------------------
 
@@ -19,4 +19,4 @@ woman he was courting.
 
 ------------------------------------------------------------------------
 
-[Next: 61. The Bullfrog Lover](motc061)
+[Next: 61. The Bullfrog Lover](motc061.md)

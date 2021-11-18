@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Cherokee](../index)  [Index](index)  [Previous](motc002) 
-[Next](motc004) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Cherokee](../index)  [Index](index)  [Previous](motc002.md) 
+[Next](motc004.md) 
 
 ------------------------------------------------------------------------
 
@@ -398,4 +398,4 @@ they must always save some for seed and plant every year.
 
 ------------------------------------------------------------------------
 
-[Next: 4. Origin Of Disease And Medicine](motc004)
+[Next: 4. Origin Of Disease And Medicine](motc004.md)

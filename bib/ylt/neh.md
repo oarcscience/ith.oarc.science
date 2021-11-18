@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](ezr)  [Next](est) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](ezr)  [Next](est.md) 
 
 ------------------------------------------------------------------------
 
@@ -1588,4 +1588,4 @@ times, and for first-fruits. Be mindful of me, O my God, for good.
 
 ------------------------------------------------------------------------
 
-[Next: Esther](est)
+[Next: Esther](est.md)

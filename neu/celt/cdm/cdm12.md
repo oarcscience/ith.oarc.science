@@ -1,17 +1,17 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends and
-Sagas](../../index)  [Celtic](../index)  [Legendary
-Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm11) 
-[Next](cdm13) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends and
+Sagas](../../index)  [Celtic](../index.md)  [Legendary
+Creatures](../../../lcr/index)  [Index](index)  [Previous](cdm11.md) 
+[Next](cdm13.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0766192504/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Celtic Dragon Myth*, by J.F. Campbell, \[1911\], at Intangible
 Textual Heritage
 
@@ -301,7 +301,7 @@ Back he went, and these he stowed in his box as before.
 
 <span id="an_p_235">235</span>. Next morning it was the same story as
 last day. The cook put on a pair of short breeks, as was the fashion of
-Frenchmen in these days, <span id="fr_76"></span>[1](#fn_75) and the
+Frenchmen in these days, <span id="fr_76"></span>[1](#fn_75.md) and the
 
 <span id="page_91">p. 91</span>
 
@@ -347,11 +347,11 @@ and he rather thought that that was the case.
 
 <span id="an_p_241">241</span>. A while after that there came a herald
 (*teachdaire*) from the Turkish emperor, <span
-id="fr_77"></span>[1](#fn_76) or from another powerful king. <span
-id="fr_78"></span>[2](#fn_77) He came to seek the king's daughter, and
+id="fr_77"></span>[1](#fn_76.md) or from another powerful king. <span
+id="fr_78"></span>[2](#fn_77.md) He came to seek the king's daughter, and
 if she were not given at once, the Turkish emperor was to come to fight
 him. The king gathered the nobles of the realm <span
-id="fr_79"></span>[3](#fn_78) to get counsel from them, and he said:
+id="fr_79"></span>[3](#fn_78.md) to get counsel from them, and he said:
 
 "Daughter, I think it will be best to give you, for I have not got men
 enough to fight the Turks. It will be best to send word to the emperor
@@ -380,11 +380,11 @@ battle, they remembered that they had left their standard behind. They
 could do no good without the flag, and there was but little time to
 fetch it. The flag was in the bedroom of the king's daughter, at the top
 of the castle, at the north end; and there was the king's armour <span
-id="fr_80"></span>[1](#fn_79) too, hung up at the bedside, as men in the
+id="fr_80"></span>[1](#fn_79.md) too, hung up at the bedside, as men in the
 isles hang their garments on a peg, for that too was forgotten.
 
 <span id="an_p_245">245</span>. Now, if the king had these he thought
-that he might win the battle. <span id="fr_81"></span>[2](#fn_80)
+that he might win the battle. <span id="fr_81"></span>[2](#fn_80.md)
 
 <span id="an_p_246">246</span>. "Oh," said the king, "is there any one
 in the camp who will try to bring the flag and my armour before the
@@ -462,7 +462,7 @@ everyone, and drove the field with the king. According to Macnair, he
 also showed generalship, for he began at the Turks at the end that was
 farthest off, and put them out of order of battle. The French rallied,
 and the rout was on the Turks at the last. They fled to their ships, and
-very few escaped alive on board. <span id="fr_82"></span>[1](#fn_81)
+very few escaped alive on board. <span id="fr_82"></span>[1](#fn_81.md)
 
 Then the head-cook, like Raja Vivata, said that he had gained the fight,
 and he it was who brought the flag and the king's mail, and so he was to
@@ -602,7 +602,7 @@ into a room where there was a fire.
 
 <span id="an_p_283">283</span>. He sat at the fireside, and there he
 stayed for awhile waiting, but he saw none living. <span
-id="fr_83"></span>[1](#fn_82)
+id="fr_83"></span>[1](#fn_82.md)
 
 <span id="an_p_284">284</span>. But a candle and a candlestick came into
 the room where he sat, and the candle and candlestick stood upon the
@@ -643,7 +643,7 @@ follow to see where they should go. On they went, till they got to the
 next door, and again he followed.
 
 <span id="an_p_291">291</span>. The third door was opened, and in he
-went to a wondrously gorgeous <span id="fr_84"></span>[1](#fn_83)
+went to a wondrously gorgeous <span id="fr_84"></span>[1](#fn_83.md)
 chamber with a bed in it, and the bedclothes were choice and ready for
 going to bed. He stood awhile looking about him and looking at the bed,
 and at last he came to think that as he could see no one, he might as
@@ -673,7 +673,7 @@ sat and ate his fill.
 
 <span id="an_p_294">294</span>. When he had finished he looked about,
 and there he saw every sort of sporting gear <span
-id="fr_85"></span>[1](#fn_84) that he ever had seen, and many sorts that
+id="fr_85"></span>[1](#fn_84.md) that he ever had seen, and many sorts that
 he never had seen before. He took what he understood the use of, and he
 went out to shoot in the forest, and that day he killed a couple of
 turkeys—which feat the old sailor
@@ -885,7 +885,7 @@ from his breast, and hid it under the pillow, and when he awoke and
 spoke, none answered. Then he perceived that the lady slept, so he
 sought his candle and blew upon it with his breath, and it lit, and he
 saw the very sun-breath that was the most beautiful he ever had
-seen <span id="fr_86"></span>[1](#fn_85) laid asleep outside the
+seen <span id="fr_86"></span>[1](#fn_85.md) laid asleep outside the
 clothes.
 
 <span id="an_p_321">321</span>. He was in great haste for fear she
@@ -1295,7 +1295,7 @@ the draught of wine.
 <span id="an_p_378">378</span>. The forest lion rose and fled. The other
 rose when he had drunk his wine, and he stretched out after him, and he
 caught him, and killed him, and tore him to pieces. <span
-id="fr_87"></span>[1](#fn_86)
+id="fr_87"></span>[1](#fn_86.md)
 
 <span id="an_p_379">379</span>. The pigeon came out of the lion's belly
 and sprang away on her wings. But the lion-herd made an eagle of himself
@@ -1390,41 +1390,41 @@ they were married.
 
 ### Footnotes
 
-<span id="fn_75"></span>[90:1](cdm12.htm#fr_76) According to Macnair.
+<span id="fn_75"></span>[90:1](cdm12.htm#fr_76.md) According to Macnair.
 
-<span id="fn_76"></span>[92:1](cdm12.htm#fr_77) According to Macnair.
+<span id="fn_76"></span>[92:1](cdm12.htm#fr_77.md) According to Macnair.
 
-<span id="fn_77"></span>[92:2](cdm12.htm#fr_78) According to an island
+<span id="fn_77"></span>[92:2](cdm12.htm#fr_78.md) According to an island
 authority who has less history.
 
-<span id="fn_78"></span>[92:3](cdm12.htm#fr_79) *Maithean na rioghachd*.
+<span id="fn_78"></span>[92:3](cdm12.htm#fr_79.md) *Maithean na rioghachd*.
 
-<span id="fn_79"></span>[93:1](cdm12.htm#fr_80) *Deise chruadhach*.
+<span id="fn_79"></span>[93:1](cdm12.htm#fr_80.md) *Deise chruadhach*.
 
-<span id="fn_80"></span>[93:2](cdm12.htm#fr_81) Probably because
+<span id="fn_80"></span>[93:2](cdm12.htm#fr_81.md) Probably because
 Macleod's fairy flag and ancient Norse standards are, and were, supposed
 to be magical.
 
-<span id="fn_81"></span>[95:1](cdm12.htm#fr_82) Which is a fair
+<span id="fn_81"></span>[95:1](cdm12.htm#fr_82.md) Which is a fair
 description of a Scandinavian battle in which sea-rovers got the worst
 of the fight. Be that as it may, the story remains in its own shape, and
 it is rather like the Exploit of Bhima in the Mahabharata, who won a
 battle single-handed.
 
-<span id="fn_82"></span>[99:1](cdm12.htm#fr_83) *Gin*, lit., any
+<span id="fn_82"></span>[99:1](cdm12.htm#fr_83.md) *Gin*, lit., any
 begotten being; creature.
 
-<span id="fn_83"></span>[100:1](cdm12.htm#fr_84) *Anabharra riomhach*.
+<span id="fn_83"></span>[100:1](cdm12.htm#fr_84.md) *Anabharra riomhach*.
 
-<span id="fn_84"></span>[101:1](cdm12.htm#fr_85) *Inneal seilg*.
+<span id="fn_84"></span>[101:1](cdm12.htm#fr_85.md) *Inneal seilg*.
 
-<span id="fn_85"></span>[108:1](cdm12.htm#fr_86) *An aon deo-gréine bu
+<span id="fn_85"></span>[108:1](cdm12.htm#fr_86.md) *An aon deo-gréine bu
 bhòidhche:* a common phrase in speaking of a beautiful woman.
 
-<span id="fn_86"></span>[119:1](cdm12.htm#fr_87) The equivalent of the
+<span id="fn_86"></span>[119:1](cdm12.htm#fr_87.md) The equivalent of the
 mermaid's death. This lion was one of the tribe who guarded the hearts
 of mythical beings.
 
 ------------------------------------------------------------------------
 
-[Next: The Meeting of the Three Ways](cdm13)
+[Next: The Meeting of the Three Ways](cdm13.md)

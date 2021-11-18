@@ -1,15 +1,15 @@
 <div class="filenav">
 
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inca](../index)  [Index](index) 
-[Previous](oll17) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inca](../index)  [Index](index.md) 
+[Previous](oll17.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Apu Ollantay*, by Clements Markham, \[1910\], at Intangible Textual
 Heritage
 
@@ -25,7 +25,7 @@ YMA SUMAC, OLLANTAY, UILLAC UMA and RUMI ÑAUI; URCO HUARANCA, HANCO
 HUAYLLU and PIQUI CHAQUI in the background.)
 
   *Tupac Yupanqui*. But this is the *Aclla Huasi*; <span
-id="fr_81"></span>[1](#fn_80)  
+id="fr_81"></span>[1](#fn_80.md)  
 My child, art thou not mistaken?  
 Where is thy imprisoned mother?  
   *Yma Sumac*. In a dungeon within these bounds  
@@ -68,8 +68,8 @@ That this poor creature lingers here?
   *Mama Ccacca*. It was thy father's dread command;  
 A punishment for lawless love.  
   *Tupac Yupanqui*. Begone! begone! harder than rock. <span
-id="fr_82"></span>[1](#fn_81)  
-Turn out that puma and the snake, <span id="fr_83"></span>[2](#fn_82)  
+id="fr_82"></span>[1](#fn_81.md)  
+Turn out that puma and the snake, <span id="fr_83"></span>[2](#fn_82.md)  
 Break down that door of carved stone.  
 (*To* Mama Ccacca.) Let me not see thy face again.  
 A woman living as a bat;  
@@ -113,7 +113,7 @@ In her you see my long lost wife.
 (*Prostrates himself before the Inca*.)
 
   *Tupac Yupanqui*. It all appears a dream to me.  
-The 'Star'! my sister! <span id="fr_84"></span>[1](#fn_83) and thy
+The 'Star'! my sister! <span id="fr_84"></span>[1](#fn_83.md) and thy
 wife.  
 O sister! what newly found joy.  
 O Cusi Coyllur, my sister,  
@@ -152,7 +152,7 @@ That dungeon has kept us apart;
 But now, united for new life,  
 Some happiness may yet be ours.  
 Yupanqui makes joy succeed grief,  
-He may well count <span id="fr_85"></span>[1](#fn_84) for many years.  
+He may well count <span id="fr_85"></span>[1](#fn_84.md) for many years.  
   *Uillac Uma*. Bring new robes to dress the princess.
 
 (*They put on her royal robes. The High Priest kisses her hand*.)
@@ -179,12 +179,12 @@ Joy, new born, shall take its place.
 
 ### Footnotes
 
-<span id="fn_80"></span>[403:1](oll18.htm#fr_81) *Aclla*, chosen;
+<span id="fn_80"></span>[403:1](oll18.htm#fr_81.md) *Aclla*, chosen;
 *Huasi*, house: palace of the Virgins of the sun.
 
-<span id="fn_81"></span>[404:1](oll18.htm#fr_82) Ccacca means a rock.
+<span id="fn_81"></span>[404:1](oll18.htm#fr_82.md) Ccacca means a rock.
 
-<span id="fn_82"></span>[404:2](oll18.htm#fr_83) My former translation,
+<span id="fn_82"></span>[404:2](oll18.htm#fr_83.md) My former translation,
 and those of Barranca and Tschudi, treated *puma* and *amaru* (snake) as
 epithets applied to *Mama Ccacca*. Zegarra considers that the puma and
 snake were intended to be actually in the dungeon, and I believe he is
@@ -192,12 +192,12 @@ right. The puma would not have hurt his fellow-prisoner. Unpleasant
 animals were occasionally put into the prisons of criminals. The Incas
 kept *pumas* as pets.
 
-<span id="fn_83"></span>[405:1](oll18.htm#fr_84) The early Incas never
+<span id="fn_83"></span>[405:1](oll18.htm#fr_84.md) The early Incas never
 married their sisters or relations. Pachacuti's mother was daughter of
 the chief of Anta. His wife, *Anahuarqui*, was no relation. But the wife
 of Tupac Yupanqui was his sister Mama Ocllo.
 
-<span id="fn_84"></span>[406:1](oll18.htm#fr_85) A play upon the word
+<span id="fn_84"></span>[406:1](oll18.htm#fr_85.md) A play upon the word
 *yupanqui*, which means literally, 'you will count.' The word was a
 title of the Incas, meaning, 'you will count as virtuous, brave,' &c.
 

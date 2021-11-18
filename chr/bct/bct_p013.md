@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Christianity](../index) [Index](index) [Return
-to text](bct03.htm#p013)
+[Sacred-Texts](../../index) [Christianity](../index) [Index](index.md) [Return
+to text](bct03.htm#p013.md)
 
 ------------------------------------------------------------------------
 
@@ -13,4 +13,4 @@ serpent.</span>
 
 ------------------------------------------------------------------------
 
-[Return to text](bct03.htm#p013)
+[Return to text](bct03.htm#p013.md)

@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Inuit](../index)  [Index](index) 
-[Previous](eft23)  [Next](eft25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Inuit](../index)  [Index](index.md) 
+[Previous](eft23)  [Next](eft25.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0548624798/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Eskimo Folk-Tales*, by Knud Rasmussen, \[1921\], at Intangible Textual
 Heritage
 
@@ -75,13 +75,13 @@ And at last it went to the bottom and was drowned.
 
  And after a while, it broke up into little pieces, and its soul was
 turned into little "sea ravens."<span
-id="page_78_fr_*"></span>[\*](#page_78_note_*)
+id="page_78_fr_*"></span>[\*](#page_78_note_*.md)
 
 ### Footnotes
 
 <span id="footnotes_page_78">p. 78</span>
 
-<span id="page_78_note_*"></span>[\*](#page_78_fr_*) A small black
+<span id="page_78_note_*"></span>[\*](#page_78_fr_*.md) A small black
 mollusc.
 
  
@@ -116,4 +116,4 @@ mollusc.
 
 ------------------------------------------------------------------------
 
-[Next: THE MAN WHO TOOK A VIXEN TO WIFE](eft25)
+[Next: THE MAN WHO TOOK A VIXEN TO WIFE](eft25.md)

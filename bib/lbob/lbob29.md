@@ -1,19 +1,19 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index) 
-[Index](index)  [Previous](lbob28)  [Next](lbob30) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md) 
+[Index](index)  [Previous](lbob28)  [Next](lbob30.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book on
-Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte)
+Kindle](https://www.amazon.com/exec/obidos/ASIN/B002LE7A6A/internetsacredte.md)
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Lost Books of the Bible*, \[1926\], at Intangible Textual Heritage
 
 ------------------------------------------------------------------------
@@ -52,8 +52,8 @@ to thee, that I might see him alone, and hear his word, whether it was
 like that of the sons of men. And it is certain that because of the many
 evil things which were done by me to John the Baptist, and because I
 mocked the Christ, behold I receive the reward of righteousness, <span
-id="fr_1426"></span>[1](#fn_1418) for I have shed much blood of others’
-children upon the earth. <span id="fr_1427"></span>[2](#fn_1419)
+id="fr_1426"></span>[1](#fn_1418.md) for I have shed much blood of others’
+children upon the earth. <span id="fr_1427"></span>[2](#fn_1419.md)
 Therefore the judgments of God are righteous; for every man receives
 according
 
@@ -72,14 +72,14 @@ are righteous.
 And my wife, again, through all her grief for her daughter, is become
 blind in her left eye, because we desired to blind the Eye of
 righteousness. There is no peace to the doers of evil, saith the
-Lord. <span id="fr_1428"></span>[1](#fn_1420) For already great
+Lord. <span id="fr_1428"></span>[1](#fn_1420.md) For already great
 affliction cometh upon the priests and upon the writers of the law;
 because they delivered unto thee the Just One. For this is the
 consummation of the world, that they consented that the Gentiles should
 become heirs. For the children of light shall be cast out, <span
-id="fr_1429"></span>[2](#fn_1421) for they have not observed the things
+id="fr_1429"></span>[2](#fn_1421.md) for they have not observed the things
 which were preached concerning the Lord, and concerning his Son.
-Therefore gird up thy loins, <span id="fr_1430"></span>[3](#fn_1422) and
+Therefore gird up thy loins, <span id="fr_1430"></span>[3](#fn_1422.md) and
 receive righteousness, thou with thy wife remembering Jesus night and
 day; and the kingdom shall belong to you Gentiles, for we the (chosen)
 people have mocked the Righteous One.
@@ -94,7 +94,7 @@ Fare thee well, with Procla thy wife.
 
 I send thee the earrings of my daughter and my own ring, that they may
 be unto thee a memorial of my decease. For already do worms begin to
-issue from my body, <span id="fr_1431"></span>[4](#fn_1423) and lo, I am
+issue from my body, <span id="fr_1431"></span>[4](#fn_1423.md) and lo, I am
 receiving temporal judgment, and I am afraid of the judgment to come.
 For in both we stand before the works of the living God; but this
 judgment, which is temporal, is for a time, while that to come is
@@ -119,7 +119,7 @@ that he appeared bodily in Galilee,
 
 to the same form, and with the same voice, and with the same doctrine,
 and with the sane disciples, not having changed <span
-id="fr_1432"></span>[1](#fn_1424) in anything, but preaching with
+id="fr_1432"></span>[1](#fn_1424.md) in anything, but preaching with
 boldness his resurrection, and an everlasting kingdom.
 
 And behold, heaven and earth rejoice; and behold, Procla my wife is
@@ -127,7 +127,7 @@ believing in the visions which appeared unto her, when thou sentest that
 I should deliver Jesus to the people of Israel, because of the ill-will
 they had.
 
-Now when Procla, my wife, <span id="fr_1433"></span>[2](#fn_1425) heard
+Now when Procla, my wife, <span id="fr_1433"></span>[2](#fn_1425.md) heard
 that Jesus was risen, and had appeared in Galilee, she took with her
 Longinus the centurion and twelve soldiers, the same that had watched at
 the sepulchre, and went to greet the face of Christ, as if to a great
@@ -204,7 +204,7 @@ silver, and saw the spectacle in the theatre of Cæsarea. When the people
 saw that his raiment flashed, they said to him, Hitherto we feared thee
 as a man: henceforth thou art exalted above the nature of mortals. And
 he saw an angel standing over him, and he smote him as unto death. <span
-id="fr_1434"></span>[1](#fn_1426)
+id="fr_1434"></span>[1](#fn_1426.md)
 
 End of the Letter of Pilate to Herod.
 
@@ -229,7 +229,7 @@ advising the contrary; and when he was hanged supernatural signs
 appeared, and in the judgment of philosophers menaced the whole world
 with ruin. His disciples flourish, not belying their master by their
 behavior and continence of life; nay, in his name they are most
-beneficent. <span id="fr_1435"></span>[1](#fn_1427) Had I not feared a
+beneficent. <span id="fr_1435"></span>[1](#fn_1427.md) Had I not feared a
 sedition might arise among the people, who were almost furious, perhaps
 this man would have yet been living with us. Although, being rather
 compelled by fidelity to thy dignity, than led by my own inclination, I
@@ -456,7 +456,7 @@ Through that terror, therefore, being amazed and being seized with great
 trembling, in that very hour, I ordered what had been done by them all
 to be written, and I have sent it to thy mightiness.
 
-#### THE TRIAL AND CONDEMNATION OF PILATE. <span id="fr_1436"></span>[1](#fn_1428)
+#### THE TRIAL AND CONDEMNATION OF PILATE. <span id="fr_1436"></span>[1](#fn_1428.md)
 
 NOW when the letters came to the city of the Romans, and were read to
 Cæsar with no few standing there, they were all terrified, because,
@@ -483,7 +483,7 @@ nation is seditious and insubordinate, and not submissive to thy power.
 And Cæsar said, When they delivered him to thee thou oughtest to have
 made him secure and sent him to me, and not consented to them to crucify
 such a man, who was just and wrought such great and good miracles, as
-thou saidst in thy report. <span id="fr_1437"></span>[1](#fn_1429) For
+thou saidst in thy report. <span id="fr_1437"></span>[1](#fn_1429.md) For
 by such miracles Jesus was manifested to be the Christ, the King of the
 Jews.
 
@@ -507,7 +507,7 @@ said, For what cause then didst thou perpetrate against him such daring
 and doing, not being ignorant of him, or assuredly designing some
 mischief to my government? And Pilate said, I did it because of the
 transgression and sedition of the lawless and ungodly Jews. <span
-id="fr_1438"></span>[2](#fn_1430)
+id="fr_1438"></span>[2](#fn_1430.md)
 
 And Cæsar was filled with anger, and held a council with all his senate
 and officers, and ordered a decree to be written against the Jews thus:—
@@ -558,7 +558,7 @@ Israel, and them that have not confessed my name. And the Prefect cut
 off the head of Pilate, and behold an angel of the Lord received it. And
 when his wife Procla saw the angel coming and receiving his head, she
 also, being filled with joy, forthwith gave up the ghost, and was buried
-with her husband. <span id="fr_1439"></span>[1](#fn_1431)
+with her husband. <span id="fr_1439"></span>[1](#fn_1431.md)
 
 #### THE DEATH OF PILATE,
 
@@ -674,48 +674,48 @@ of some, sundry diabolical contrivances are said to issue forth.
 
 ### Footnotes
 
-<span id="fn_1418"></span>[269:1](lbob29.htm#fr_1426) 2 Peter ii. 13.
+<span id="fn_1418"></span>[269:1](lbob29.htm#fr_1426.md) 2 Peter ii. 13.
 
-<span id="fn_1419"></span>[269:2](lbob29.htm#fr_1427) Matt. ii. 16. It
+<span id="fn_1419"></span>[269:2](lbob29.htm#fr_1427.md) Matt. ii. 16. It
 is scarcely necessary to say that it was not the Herod of the epistle
 who caused the massacre of the children at Bethlehem.
 
-<span id="fn_1420"></span>[270:1](lbob29.htm#fr_1428) Is. xlviii. 22;
+<span id="fn_1420"></span>[270:1](lbob29.htm#fr_1428.md) Is. xlviii. 22;
 lvii. 21.
 
-<span id="fn_1421"></span>[270:2](lbob29.htm#fr_1429) Luke xvi. 8.
+<span id="fn_1421"></span>[270:2](lbob29.htm#fr_1429.md) Luke xvi. 8.
 
-<span id="fn_1422"></span>[270:3](lbob29.htm#fr_1430) 1 Peter i. 13.
+<span id="fn_1422"></span>[270:3](lbob29.htm#fr_1430.md) 1 Peter i. 13.
 
-<span id="fn_1423"></span>[270:4](lbob29.htm#fr_1431) A palpable
+<span id="fn_1423"></span>[270:4](lbob29.htm#fr_1431.md) A palpable
 anachronism. Acts xii. 23.
 
-<span id="fn_1424"></span>[271:1](lbob29.htm#fr_1432) Literally "renewed
+<span id="fn_1424"></span>[271:1](lbob29.htm#fr_1432.md) Literally "renewed
 anything."
 
-<span id="fn_1425"></span>[271:2](lbob29.htm#fr_1433) Literally "his
+<span id="fn_1425"></span>[271:2](lbob29.htm#fr_1433.md) Literally "his
 wife," a manifest error.
 
-<span id="fn_1426"></span>[272:1](lbob29.htm#fr_1434) This extract from
+<span id="fn_1426"></span>[272:1](lbob29.htm#fr_1434.md) This extract from
 Josephus (Ant. 19, 8) is abridged from the account of Eusebius (Hist.
 Eccles. 2, 10). The figures 1, 2, 3, indicate the extracts which have
 been appended to the epistle.
 
-<span id="fn_1427"></span>[273:1](lbob29.htm#fr_1435) *Cf*. Joseph. Ant.
+<span id="fn_1427"></span>[273:1](lbob29.htm#fr_1435.md) *Cf*. Joseph. Ant.
 xviii. 3, 3.
 
-<span id="fn_1428"></span>[277:1](lbob29.htm#fr_1436) Commonly called
+<span id="fn_1428"></span>[277:1](lbob29.htm#fr_1436.md) Commonly called
 "the Paradosis of Pilate." It may be regarded as an historical
 continuation of the preceding, which it usually follows in the MSS.
 without any title.
 
-<span id="fn_1429"></span>[278:1](lbob29.htm#fr_1437) Gr. τῆς σῆς
+<span id="fn_1429"></span>[278:1](lbob29.htm#fr_1437.md) Gr. τῆς σῆς
 ἀναφορᾶς.
 
-<span id="fn_1430"></span>[278:2](lbob29.htm#fr_1438) See Letter of
-Pilate to Herod, [p. 270](#page_270).
+<span id="fn_1430"></span>[278:2](lbob29.htm#fr_1438.md) See Letter of
+Pilate to Herod, [p. 270](#page_270.md).
 
-<span id="fn_1431"></span>[279:1](lbob29.htm#fr_1439) The Synaxaria of
+<span id="fn_1431"></span>[279:1](lbob29.htm#fr_1439.md) The Synaxaria of
 the Greeks, under Oct. 28th, intimate the commemoration of Procla, the
 wife of Pilate. The Æthiopic calendar inserts 'Pilate and his wife
 Procla' under June 25th. The reason for putting these names among the
@@ -728,6 +728,6 @@ Tertullian makes him almost a saint in Apol. c. Gentes, cap. 21.
 
 ------------------------------------------------------------------------
 
-[Next: The Lost Gospel According to Peter](lbob30)
+[Next: The Lost Gospel According to Peter](lbob30.md)
 
 </div>

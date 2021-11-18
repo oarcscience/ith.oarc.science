@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [California](../index)  [Index](index) 
-[Previous](mdut14)  [Next](mdut16) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [California](../index)  [Index](index.md) 
+[Previous](mdut14)  [Next](mdut16.md) 
 
 ------------------------------------------------------------------------
 
@@ -100,4 +100,4 @@ destroyed when he was killed. That is all, they say.
 
 ------------------------------------------------------------------------
 
-[Next: 14. Bat-Man](mdut16)
+[Next: 14. Bat-Man](mdut16.md)

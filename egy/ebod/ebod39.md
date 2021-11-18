@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Egypt](../index) 
-[Index](index)  [Previous](ebod38)  [Next](ebod40) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Egypt](../index.md) 
+[Index](index)  [Previous](ebod38)  [Next](ebod40.md) 
 
 ------------------------------------------------------------------------
 
@@ -292,4 +292,4 @@ the Ani papyrus, although it is found in that of Nebseni (see Naville,
 
 ------------------------------------------------------------------------
 
-[Next: Plates XXXV. and XXXVI.](ebod40)
+[Next: Plates XXXV. and XXXVI.](ebod40.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](ain44)  [Next](ain46) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](ain44)  [Next](ain46.md) 
 
 ------------------------------------------------------------------------
 
@@ -99,7 +99,7 @@ beautiful wife and her daughter, and to keep
 the rest of the wives; and to keep the cloak and use that to marry more
 wives.
 
-But [Tcheuassat](errata.htm#39) Seeven said to the messenger: "Tell him
+But [Tcheuassat](errata.htm#39.md) Seeven said to the messenger: "Tell him
 I do not want his cloak. I have one just like it, and I have all I want,
 and I will not send back any of his wives. It was his wish that we
 should gamble, and if he had been the better singer and had won my wives
@@ -143,4 +143,4 @@ And he did not go, and the child died.
 
 ------------------------------------------------------------------------
 
-[Next: Songs](ain46)
+[Next: Songs](ain46.md)

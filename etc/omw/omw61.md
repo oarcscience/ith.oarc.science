@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Misc](../index) 
-[Index](index)  [Previous](omw60)  [Next](omw62) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Misc](../index.md) 
+[Index](index)  [Previous](omw60)  [Next](omw62.md) 
 
 ------------------------------------------------------------------------
 
@@ -164,4 +164,4 @@ Von--a river of fury that flowed on until Ragna rök came.
 
 ------------------------------------------------------------------------
 
-[Next: Ragna Rök, the Fate of the Gods](omw62)
+[Next: Ragna Rök, the Fate of the Gods](omw62.md)

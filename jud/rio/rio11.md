@@ -1,11 +1,11 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Index](index)  [Previous](rio10)  [Next](rio12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Index](index)  [Previous](rio10)  [Next](rio12.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1417963468/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ Krauskopf, \[1901\], at Intangible Textual Heritage
 Paul—The Founder and Spreader of Christology
 
 <span id="img_19200"></span> ![PaulThe Founder and Spreader of
-Christology: decorative title](img/19200.jpg)
+Christology: decorative title](img/19200.jpg.md)
 
 OF all the countless millions who have professed themselves followers of
 Jesus, <span class="margnote">Early Nazarenes truest followers of their
@@ -633,8 +633,8 @@ have completely cast away his obstructive exclusiveness and
 ceremonialism, and the Christian his Christology, Jew and Gentile will
 be one.
 
-<span id="img_21600"></span> ![decorative separator](img/21600.jpg)
+<span id="img_21600"></span> ![decorative separator](img/21600.jpg.md)
 
 ------------------------------------------------------------------------
 
-[Next: Index](rio12)
+[Next: Index](rio12.md)

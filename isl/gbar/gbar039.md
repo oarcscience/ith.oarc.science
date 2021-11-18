@@ -1,5 +1,5 @@
-[Sacred-Texts](../../index) [Islam](../index)  
-[Index](index) [Previous](gbar038) [Next](gbar040)
+[Sacred-Texts](../../index) [Islam](../index.md)  
+[Index](index) [Previous](gbar038) [Next](gbar040.md)
 
 ------------------------------------------------------------------------
 
@@ -59,4 +59,4 @@ suffer great miseries."
 
 ------------------------------------------------------------------------
 
-[Next](gbar040)
+[Next](gbar040.md)

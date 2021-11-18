@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe202)  [Next](prwe204) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe202)  [Next](prwe204.md) 
 
 ------------------------------------------------------------------------
 
@@ -120,4 +120,4 @@ ever witnessed before or since.
 
 ------------------------------------------------------------------------
 
-[Next: The Spectre Ship of Porthcuno](prwe204)
+[Next: The Spectre Ship of Porthcuno](prwe204.md)

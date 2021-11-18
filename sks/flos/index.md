@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Shakespeare](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Shakespeare](../index.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -25,8 +25,8 @@ Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029F209I/internetsacredte)
 
 ------------------------------------------------------------------------
 
-[Contents](#contents)    [Start Reading](flos00)    [Page
-Index](pageidx)    [Text \[Zipped\]](flos.txt.gz)
+[Contents](#contents)    [Start Reading](flos00.md)    [Page
+Index](pageidx)    [Text \[Zipped\]](flos.txt.gz.md)
 
 ------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ Index](pageidx)    [Text \[Zipped\]](flos.txt.gz)
 This is a comprehensive studies of the folklore aspects of Shakespeare,
 providing a full-spectrum exposure to the cultural background of
 Elizabethan society. The Reverend Dyer, who also wrote [Folk-lore of
-Women](../../wmn/fow/index), delves into the source of innumerable
+Women](../../wmn/fow/index.md), delves into the source of innumerable
 passages in Shakespeare which were mysterious even back in Victorian
 times. Although usually he manages to clear up the mystery, in few
 instances he has to admit defeat.
@@ -55,30 +55,30 @@ and paragraphs continuations are marked explicitly by indentation.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](flos00)  
-[Preface](flos01)  
-[Contents](flos02)  
-[Chapter I. Fairies](flos03)  
-[Chapter II. Witches](flos04)  
-[Chapter III. Ghosts](flos05)  
-[Chapter IV. Demonology and Devil Lore](flos06)  
-[Chapter V. Natural Phenomena](flos07)  
-[Chapter VI. Birds](flos08)  
-[Chapter VII. Animals](flos09)  
-[Chapter VIII. Plants](flos10)  
-[Chapter IX. Insects and Reptiles](flos11)  
-[Chapter X. Folk Medicine](flos12)  
-[Chapter XI. Customs Connected with the Calendar](flos13)  
-[Chapter XII. Birth and Baptism](flos14)  
-[Chapter XIII. Marriage](flos15)  
-[Chapter XIV. Death and Burial](flos16)  
-[Chapter XV. Rings and Precious Stones](flos17)  
-[Chapter XVI. Sports and Pastimes](flos18)  
-[Chapter XVII. Dances](flos19)  
-[Chapter XVIII. Punishments](flos20)  
-[Chapter XIX. Proverbs](flos21)  
-[Chapter XX. Human Body](flos22)  
-[Chapter XXI. Fishes](flos23)  
-[Chapter XXII. Sundry Superstitions](flos24)  
-[Chapter XXIII. Miscellaneous Customs, etc.](flos25)  
-[Index](flos26)  
+<span id="contents"></span> [Title Page](flos00.md)  
+[Preface](flos01.md)  
+[Contents](flos02.md)  
+[Chapter I. Fairies](flos03.md)  
+[Chapter II. Witches](flos04.md)  
+[Chapter III. Ghosts](flos05.md)  
+[Chapter IV. Demonology and Devil Lore](flos06.md)  
+[Chapter V. Natural Phenomena](flos07.md)  
+[Chapter VI. Birds](flos08.md)  
+[Chapter VII. Animals](flos09.md)  
+[Chapter VIII. Plants](flos10.md)  
+[Chapter IX. Insects and Reptiles](flos11.md)  
+[Chapter X. Folk Medicine](flos12.md)  
+[Chapter XI. Customs Connected with the Calendar](flos13.md)  
+[Chapter XII. Birth and Baptism](flos14.md)  
+[Chapter XIII. Marriage](flos15.md)  
+[Chapter XIV. Death and Burial](flos16.md)  
+[Chapter XV. Rings and Precious Stones](flos17.md)  
+[Chapter XVI. Sports and Pastimes](flos18.md)  
+[Chapter XVII. Dances](flos19.md)  
+[Chapter XVIII. Punishments](flos20.md)  
+[Chapter XIX. Proverbs](flos21.md)  
+[Chapter XX. Human Body](flos22.md)  
+[Chapter XXI. Fishes](flos23.md)  
+[Chapter XXII. Sundry Superstitions](flos24.md)  
+[Chapter XXIII. Miscellaneous Customs, etc.](flos25.md)  
+[Index](flos26.md)  

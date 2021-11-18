@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Southwest](../index)  [Index](index) 
-[Previous](yml61)  [Next](yml63) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Southwest](../index)  [Index](index.md) 
+[Previous](yml61)  [Next](yml63.md) 
 
 ------------------------------------------------------------------------
 
@@ -107,4 +107,4 @@ And he blew it out. LC
 
 ------------------------------------------------------------------------
 
-[Next: The Twins](yml63)
+[Next: The Twins](yml63.md)

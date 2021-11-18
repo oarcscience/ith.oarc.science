@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Asia](../index) 
-[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp17) 
-[Next](alp19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Asia](../index.md) 
+[Myths/Legends](../../neu/index)  [Index](index)  [Previous](alp17.md) 
+[Next](alp19.md) 
 
 ------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ For ’tis a house of rest, a house of prayer!"
 
 ------------------------------------------------------------------------
 
-[Next: Incense](alp19)
+[Next: Incense](alp19.md)

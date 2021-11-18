@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa03)  [Next](smoa05) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa03)  [Next](smoa05.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -102,7 +102,7 @@ others willingly permitted.
 Such kings as this were Ormandorth and Sestrom, Ohydid and old
 Polcythine with twenty sons who turned to lands afar and wonders wrought
 in this, thy land, ten thousand years agone, before the plague of fire
-from the sky <span id="fr_3"></span>[\*](#fn_3)—a settling of the star
+from the sky <span id="fr_3"></span>[\*](#fn_3.md)—a settling of the star
 directly over the land, and pebbles hot were cast from a volcanic mould.
 
 The cities were destroyed where rivers now do flow, or forests spring.
@@ -166,7 +166,7 @@ quaintly, hugely, cornered structures. Angles were their theme and model
 patterned from a mind that followed rule, not lines of grace, and thus
 were born the pyramids in brain of one who had conceived a fortress
 strong, impregnable. A fortress set on mountain top, the blocks of stone
-raised by the law I mentioned <span id="fr_4"></span>[\*](#fn_4) and the
+raised by the law I mentioned <span id="fr_4"></span>[\*](#fn_4.md) and the
 help of slaves, or captives, who were held by thousands in the parent
 land. (Yucatan)
 
@@ -405,13 +405,13 @@ mysteries, and all, at last, revealed be the mystery of that land.
 
 ### Footnotes
 
-<span id="fn_3"></span>[20:\*](smoa04.htm#fr_3) Perhaps the dragon of
+<span id="fn_3"></span>[20:\*](smoa04.htm#fr_3.md) Perhaps the dragon of
 the Norse sagas.
 
-<span id="fn_4"></span>[22:\*](smoa04.htm#fr_4) The law of poise.
+<span id="fn_4"></span>[22:\*](smoa04.htm#fr_4.md) The law of poise.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter III. The origin of wheat. Marriage customs. Laws
 regarding children born. Cremation of the dead. Some industries.
-Music.](smoa05)
+Music.](smoa05.md)

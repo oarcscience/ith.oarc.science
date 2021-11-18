@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index)  [Sacred
-Sexuality](../../sex/index)  [Index](index)  [Previous](lca02) 
-[Next](lca04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md)  [Sacred
+Sexuality](../../sex/index)  [Index](index)  [Previous](lca02.md) 
+[Next](lca04.md) 
 
 ------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Sexuality](../../sex/index)  [Index](index)  [Previous](lca02) 
 # THE SEX-PASSION
 
 THE subject of Sex is difficult to deal with. There is no doubt a
-natural reticence [1](lca15.htm#xref_1) connected with it. There is also
+natural reticence [1](lca15.htm#xref_1.md) connected with it. There is also
 a great deal of prudery. The passion occupies, without being spoken of,
 a large part of human thought; and words on the subject being so few and
 inadequate, everything that is said is liable to be misunderstood.
@@ -118,7 +118,7 @@ And the reason of this is not far to seek. For in comparing, as we did a
 page or two back, the sex-needs and the hunger-needs of the human race
 we left out of account one great difference, namely, that while food
 (the object of hunger) has no moral rights of its own, <span
-id="fr_0"></span>[1](#fn_0) and can be appropriated without misgiving on
+id="fr_0"></span>[1](#fn_0.md) and can be appropriated without misgiving on
 that score, the object of sex is a person, and cannot be used for
 private advantage without the most dire infringement of the law of
 equality. The moment Man rises into any sort of consciousness of the
@@ -220,7 +220,7 @@ and how the love of the parents for each other was the cause of its own
 (the child's) existence: these things are easy and natural--at least
 they are so to the young mind--and excite in it no surprise, or sense of
 unfitness, but only gratitude and a kind of tender wonderment. <span
-id="fr_1"></span>[1](#fn_1) [9](lca15.htm#xref_9) Then, later on, as the
+id="fr_1"></span>[1](#fn_1) [9](lca15.htm#xref_9.md) Then, later on, as the
 special sexual needs and desires develop, to instruct the girl or boy in
 the further
 
@@ -256,10 +256,10 @@ lasting things--one step nearer at any rate to the Eternal Kingdom. How
 intoxicating indeed, how penetrating--like a most precious wine--is that
 love which is the sexual transformed by the magic of the will into the
 emotional and spiritual! And what a loss on the merest grounds of
-prudence and [the](errata.htm#0) economy of pleasure is its unbridled
+prudence and [the](errata.htm#0.md) economy of pleasure is its unbridled
 waste along physical channels! So nothing is so much to be dreaded
 between lovers as just this--the vulgarisation of
-love [11](lca15.htm#xref_11)--and this is the rock upon which marriage
+love [11](lca15.htm#xref_11.md)--and this is the rock upon which marriage
 so often splits.
 
 There is a kind of illusion about physical desire similar to that which
@@ -474,7 +474,7 @@ divested of the sentiment of uncleanness which surrounds it, and
 rehabilitated again with a sense almost of religious consecration; and
 this means, as I have said, a free people, proud in the mastery and the
 divinity of their own lives, and in the beauty and openness of their own
-bodies. <span id="fr_2"></span>[1](#fn_2) [20](lca15.htm#xref_20)
+bodies. <span id="fr_2"></span>[1](#fn_2) [20](lca15.htm#xref_20.md)
 
 Sex is the allegory of Love in the physical world. It is from this fad
 that it derives its immense power. The aim of Love is
@@ -518,7 +518,7 @@ progeny cells; or if on the other hand we go to the
 very highest expression of Sex, in the sentiment of Love, we find the
 latter takes the form chiefly and before all else of a desire for union,
 and only in lesser degree of a desire for race-propagation. <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 I mention this because it probably makes a good deal of difference in
 our estimate of Sex whether the one function or the other is considered
@@ -528,7 +528,7 @@ and reactions, and even corporeal modifications, which may ensue upon
 sexual intercourse between two people, and to fix their attention too
 exclusively upon their childbearing function; but in truth it is
 probable, I think, from various considerations, <span
-id="fr_4"></span>[2](#fn_4) that the spermatozoa pass through the
+id="fr_4"></span>[2](#fn_4.md) that the spermatozoa pass through the
 tissues and affect the
 
 <span id="page_23">p. 23</span>
@@ -539,8 +539,8 @@ Sex-act, there is an interchange of vital and ethereal elements--so that
 it might be said there is a kind of generation taking place *within*
 each of the persons concerned, through their mutual influence on each
 other, as well as that more specialised generation which consists in the
-propagation of the race. (See below, pp. [173](lca15.htm#page_173),
-[174](lca15.htm#page_174).)
+propagation of the race. (See below, pp. [173](lca15.htm#page_173.md),
+[174](lca15.htm#page_174)..md)
 
  
 
@@ -569,16 +569,16 @@ natural, free and standing sanely on its feet?
 
 ### Footnotes
 
-<span id="fn_0"></span>[5:1](lca03.htm#fr_0) Though this is of course
+<span id="fn_0"></span>[5:1](lca03.htm#fr_0.md) Though this is of course
 not true of *animal* food.
 
-<span id="fn_1"></span>[9:1](lca03.htm#fr_1) See
-"Appendix." [9](lca15.htm#xref_9)
+<span id="fn_1"></span>[9:1](lca03.htm#fr_1.md) See
+"Appendix." [9](lca15.htm#xref_9.md)
 
-<span id="fn_2"></span>[20:1](lca03.htm#fr_2) See
-"Appendix." [20](lca15.htm#xref_20)
+<span id="fn_2"></span>[20:1](lca03.htm#fr_2.md) See
+"Appendix." [20](lca15.htm#xref_20.md)
 
-<span id="fn_3"></span>[22:1](lca03.htm#fr_3) Taking union as the main
+<span id="fn_3"></span>[22:1](lca03.htm#fr_3.md) Taking union as the main
 point we may look upon the idealised Sex-love as a sense of contact
 pervading the whole mind and body--while the sex-organs are a
 specialisation of this faculty of union in the outermost sphere: union
@@ -586,14 +586,14 @@ in the bodily sphere giving rise to bodily generation, the same as union
 in the mental and emotional spheres occasions generation of another
 kind.
 
-<span id="fn_4"></span>[22:2](lca03.htm#fr_4) These are (1) the curious,
+<span id="fn_4"></span>[22:2](lca03.htm#fr_4) These are (1.md) the curious,
 not yet explained, fads of "Telegony"--*i.e.*, the tendency (often
 noticed in animals) of the children of a dam by a second sire to
 resemble the first sire; (2) the probable survival, in a modified form,
 of the primitive close relation (as seen in the protozoa) between
-copulation and nutrition [22](lca15.htm#xref_22); (3) the great activity
+copulation and nutrition [22](lca15.htm#xref_22); (3.md) the great activity
 of the spermatozoa themselves.
 
 ------------------------------------------------------------------------
 
-[Next: Man, the Ungrown](lca04)
+[Next: Man, the Ungrown](lca04.md)

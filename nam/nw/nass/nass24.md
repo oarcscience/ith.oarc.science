@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass23)  [Next](nass25) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass23)  [Next](nass25.md) 
 
 ------------------------------------------------------------------------
 
@@ -36,7 +36,7 @@ wâ'ōpElē'.
 
 That is, "Fastened together are sea otter and killer-whale; scattered
 are the cockles where TsEgu'ksk<sup>u</sup> walks about in his great
-house at Wâ'ôpEL" <span id="fr_12"></span>[1](#fn_12)
+house at Wâ'ôpEL" <span id="fr_12"></span>[1](#fn_12.md)
 
 Then G\*itk\*staqL gave TsEgu'ksk<sup>u</sup> a club in shape of a land
 otter and a small box, the lid of which was carved in the shape of a fin
@@ -146,9 +146,9 @@ first visitation of smallpox.
 
 ### Footnotes
 
-<span id="fn_12"></span>[231:1](nass24.htm#fr_12) A place near China
+<span id="fn_12"></span>[231:1](nass24.htm#fr_12.md) A place near China
 Hat.
 
 ------------------------------------------------------------------------
 
-[Next: Rotten-Feathers (continued)](nass25)
+[Next: Rotten-Feathers (continued)](nass25.md)

@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](oba)  [Next](mic) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](oba)  [Next](mic.md) 
 
 ------------------------------------------------------------------------
 
@@ -193,4 +193,4 @@ and also much livestock?"
 
 ------------------------------------------------------------------------
 
-[Next: Micah](mic)
+[Next: Micah](mic.md)

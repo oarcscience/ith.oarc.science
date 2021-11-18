@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Christianity](../index) 
-[Index](index)  [Previous](esc20)  [Next](esc22) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Christianity](../index.md) 
+[Index](index)  [Previous](esc20)  [Next](esc22.md) 
 
 ------------------------------------------------------------------------
 
@@ -663,4 +663,4 @@ computation, will not be realized until the year 1840.
 
 ------------------------------------------------------------------------
 
-[Next: Supplement](esc22)
+[Next: Supplement](esc22.md)

@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sub Rosa](../index) 
-[Index](index)  [Previous](sma24)  [Next](sma26) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Sub Rosa](../index.md) 
+[Index](index)  [Previous](sma24)  [Next](sma26.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0022NGKTI/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Secret Societies of the Middle Ages*, by Thomas Keightley, \[1837\], at
 Intangible Textual Heritage
 
@@ -328,7 +328,7 @@ preserved as relics.
 
 <span id="img_32600"></span> <span align="CENTER"> [![Portrait of last
 Grand Master.](tn/32600.jpg)  
-Click to enlarge](img/32600.jpg)  
+Click to enlarge](img/32600.jpg.md)  
 Portrait of last Grand Master.  
 </span>
 
@@ -358,7 +358,7 @@ justice. It was either hearsay, or given by persons utterly unworthy of
 credit, or wrung from the accused by agony and torture. The articles
 themselves are absurd and contradictory. Are we to believe that the same
 men had adopted the pure deism of the Mahommedans, and were guilty of a
-species of idolatry <span id="fr_102"></span>[\*](#fn_102) almost too
+species of idolatry <span id="fr_102"></span>[\*](#fn_102.md) almost too
 gross for the lowest superstition? But when did this corruption commence
 among the Templars? Were those whom St. Bernard praised as models of
 Christian zeal and piety, and whom the whole Christian world admired and
@@ -381,7 +381,7 @@ them. Neither offer any thing like evidence in support of their
 assumption.
 
 The real guilt of the Templars was their wealth and their pride <span
-id="fr_103"></span>[\*](#fn_103): the last alienated the people from
+id="fr_103"></span>[\*](#fn_103.md): the last alienated the people from
 them, the former excited the cupidity of the king of France. Far be it
 from us to maintain that the morals of the Templars were purer than
 those of the other religious orders. With such ample means as they
@@ -396,10 +396,10 @@ have come down to us
 <span id="page_329">p. 329</span>
 
 as unsullied as the knights of St. John <span
-id="fr_104"></span>[\*](#fn_104); but they sided with Pope Boniface
+id="fr_104"></span>[\*](#fn_104.md); but they sided with Pope Boniface
 against Philip the Fair, and a subservient pontiff sacrificed to his own
 avarice and personal ambition the most devoted adherents of the court of
-Rome <span id="fr_105"></span>[†](#fn_105).
+Rome <span id="fr_105"></span>[†](#fn_105.md).
 
 We make little doubt that any one who coolly and candidly considers the
 preceding account of the manner in which the order was suppressed will
@@ -411,7 +411,7 @@ justice are beyond suspicion, and who has earned for himself enduring
 fame by his labours in the field of oriental literature, but in whose
 mind, as his most partial friends must allow, learning and imagination
 are apt to overbalance judgment and philosophy <span
-id="fr_106"></span>[‡](#fn_106). He has been replied to by Raynouard,
+id="fr_106"></span>[‡](#fn_106.md). He has been replied to by Raynouard,
 Münter, and other able advocates of the knights.
 
 We now come to the question of the continuance of the order to the
@@ -439,7 +439,7 @@ Guesclin was grand-master for a number of years; the dignity was
 sustained by several of the Montmorencies; and during the last century
 the heads of the society were princes of the different branches of the
 house of Bourbon. Bernard Raymond Fabré Palaprat is its head at present,
-at least was so a few years ago <span id="fr_107"></span>[\*](#fn_107).
+at least was so a few years ago <span id="fr_107"></span>[\*](#fn_107.md).
 
 This is no doubt a very plausible circumstantial account; but, on
 applying the Ithuriel spear of criticism to it, various ugly shapes
@@ -469,7 +469,7 @@ order of the Temple there was a secret doctrine in existence, and that
 the overthrow of the papal power, with its idolatry, superstition, and
 impiety, was the object aimed at by those who held it, and that
 freemasonry may possibly be that doctrine under another name <span
-id="fr_108"></span>[\*](#fn_108). But we are perfectly convinced that no
+id="fr_108"></span>[\*](#fn_108.md). But we are perfectly convinced that no
 proof of any weight has been given of the Templars' participation in
 that doctrine, and that all probability is on the other side. We regard
 them, in fine, whatever their sins may have been, as martyrs--martyrs to
@@ -479,26 +479,26 @@ the cupidity, blood-thirstiness, and ambition of the king of France.
 
 ### Footnotes
 
-<span id="fn_102"></span>[327:\*](sma25.htm#fr_102) Almost every charge
+<span id="fn_102"></span>[327:\*](sma25.htm#fr_102.md) Almost every charge
 brought against the Templars had been previously made against the
 Albigenses, with how much truth every one is aware.
 
-<span id="fn_103"></span>[328:\*](sma25.htm#fr_103) Our readers will
+<span id="fn_103"></span>[328:\*](sma25.htm#fr_103.md) Our readers will
 call to mind the well-known anecdote of King Richard I. When admonished
 by the zealous Fulk, of Neuilly, to get rid of his three favourite
 daughters, pride, avarice, and voluptuousness,--"You counsel well," said
 the king, "and I hereby dispose of the first to the Templars, of the
 second to the Benedictines, and of the third to my prelates.'
 
-<span id="fn_104"></span>[329:\*](sma25.htm#fr_104) Similar charges are
+<span id="fn_104"></span>[329:\*](sma25.htm#fr_104.md) Similar charges are
 said to have been brought against the Hospitallers in the year 1238, but
 without effect. There was no Philip the Fair at that time in France.
 
-<span id="fn_105"></span>[329:†](sma25.htm#fr_105) Clement, in a bull
+<span id="fn_105"></span>[329:†](sma25.htm#fr_105.md) Clement, in a bull
 dated but four days after that of the suppression, acknowledged that the
 whole of the evidence against the order amounted only to suspicion!
 
-<span id="fn_106"></span>[329:‡](sma25.htm#fr_106) We mean the
+<span id="fn_106"></span>[329:‡](sma25.htm#fr_106.md) We mean the
 illustrious Jos. von Hammer, whose essay on the subject is to be found
 in the sixth volume of the Mines de l’Orient, where it will be seen that
 he regards Sir W. Scott, in his Ivanhoe, as a competent witness against
@@ -508,16 +508,16 @@ beginning now to entertain somewhat different ideas on the subject of
 our great romancer's fidelity, of which the present pages present some
 instances.
 
-<span id="fn_107"></span>[330:\*](sma25.htm#fr_107) See Manuel des
+<span id="fn_107"></span>[330:\*](sma25.htm#fr_107.md) See Manuel des
 Templiers. As this book is only sold to members of the society, we have
 been unable to obtain a copy of it. Our account has been derived from
 Mills's History of Chivalry. That this writer should have believed it
 implicitly is, we apprehend, no proof of its truth.
 
-<span id="fn_108"></span>[331:\*](sma25.htm#fr_108) This has, we think,
+<span id="fn_108"></span>[331:\*](sma25.htm#fr_108.md) This has, we think,
 been fully prayed by Sr. Rossetti. It must not be concealed that this
 writer strongly asserts that the Templars were a branch of this society.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter I](sma26)
+[Next: Chapter I](sma26.md)

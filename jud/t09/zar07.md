@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Judaism](../index) 
-[Talmud](../talmud)  [Index](index)  [Previous](zar06)  [Next](zar08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Judaism](../index.md) 
+[Talmud](../talmud)  [Index](index)  [Previous](zar06)  [Next](zar08.md) 
 
 ------------------------------------------------------------------------
 
-[![](../img/tn_talm.jpg)](index)  
+[![](../img/tn_talm.jpg)](index.md)  
 *Babylonian Talmud, Book 9: Tracts Maccoth, Shebuoth, Eduyoth, Abuda
 Zara, and Horioth*, tr. by Michael L. Rodkinson, \[1918\], at Intangible
 Textual Heritage
@@ -88,7 +88,7 @@ wages, too, are prohibited. The disciples of R. Janai were wont to
 borrow on the Sabbathic year fruit from the poor and to pay them back in
 fruit the succeeding year. R. Johanan was interrogated as to the
 legitimacy of this act, and he found it in accord with the law. <span
-id="fr_31"></span>[1](#fn_31)
+id="fr_31"></span>[1](#fn_31.md)
 
 R. Na'hman, Ula, Abimi b. Papa, and R. Hyya b. Ammi were once sitting
 together and discussing the following point: If an Israelite is hired to
@@ -267,7 +267,7 @@ merely for the sake of its second part--viz.: If, however,
 <span id="page_141">p. 141</span>
 
 he hired it in order to sit thereon, the reward is allowed even when he
-had along with him the wine-flask. <span id="fr_32"></span>[1](#fn_32)
+had along with him the wine-flask. <span id="fr_32"></span>[1](#fn_32.md)
 
 The father of R. A'ha b. R. Ika, who was a wine-dealer, sold once wine
 to heathens. He had to bring it over across a river and empty it into
@@ -444,7 +444,7 @@ speaks of cold lentils and cold grits, which become more palatable by
 the wine or vinegar, but when put on fire they become more insipid, and
 it is this case that R. Mair forbids. R. Johanan, however, said: It is
 the case where a forbidden object renders a food more insipid right
-after mixing with it, that R. Mair [prohibits](errata.htm#61) and R.
+after mixing with it, that R. Mair [prohibits](errata.htm#61.md) and R.
 Simeon allows.
 
 It once happened that a mouse was found in a barrel of beer and Rabh
@@ -781,7 +781,7 @@ the two vessels unites them so as to be regarded one, wherefore the wine
 becomes forbidden as soon as the first drop of it touches the heathen's
 vessel? However, the adduced is not at all evidence that the said law is
 not extended to the non-Jews, for if the heathen kept the vessel in his
-hand while the [Israelite](errata.htm#62) is pouring Rabh would not
+hand while the [Israelite](errata.htm#62.md) is pouring Rabh would not
 prohibit the money, as he prohibits only when the vessel stands on the
 ground while the pouring is being done. It can, however, be shown that,
 notwithstanding this, it is evidence against the extension of the said
@@ -1470,13 +1470,13 @@ you committed last night. (See Rashi's explanation of this last answer.)
 
 ### Footnotes
 
-<span id="fn_31"></span>[136:1](zar07.htm#fr_31) The text treats here of
+<span id="fn_31"></span>[136:1](zar07.htm#fr_31.md) The text treats here of
 the question as to whether the reward of a harlot is allowed in case she
 was paid after; which we deem not in place here and therefore omit it.
 
-<span id="fn_32"></span>[141:1](zar07.htm#fr_32) For a contradiction to
+<span id="fn_32"></span>[141:1](zar07.htm#fr_32.md) For a contradiction to
 this from a Boraitha, see Middle Gate.
 
 ------------------------------------------------------------------------
 
-[Next: Appendix to Page 60](zar08)
+[Next: Appendix to Page 60](zar08.md)

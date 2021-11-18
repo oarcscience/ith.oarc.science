@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Miscellaneous](../index) 
-[Index](index)  [Previous](vre06)  [Next](vre08) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Miscellaneous](../index.md) 
+[Index](index)  [Previous](vre06)  [Next](vre08.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0029ZA43W/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Varieties of Religous Experience*, by William James, \[1902\], at
 Intangible Textual Heritage
 
@@ -60,7 +60,7 @@ sadness; and the disadvantages of sadness," he continues, "I have
 already proved, and shown that we should strive to keep it from our
 life. Just so we should endeavor, since uneasiness of conscience and
 remorse are of this kind of complexion, to flee and shun these states of
-mind." <span id="fr_64"></span>[1](#fn_64)</span>
+mind." <span id="fr_64"></span>[1](#fn_64.md)</span>
 
 Within the Christian body, for which repentance of sins has from the
 beginning been the critical religious act, healthy-mindedness has always
@@ -116,7 +116,7 @@ feel the flesh to rage and rebel, and themselves also do fall sometimes
 into sin through infirmity, yet are they not discouraged, nor think
 therefore that their state and kind of life, and the works which are
 done according to their calling, displease God; but they raise up
-themselves by faith." <span id="fr_65"></span>[1](#fn_65)</span>
+themselves by faith." <span id="fr_65"></span>[1](#fn_65.md)</span>
 
 <span id="page_128">p. 128</span>
 
@@ -145,7 +145,7 @@ given thee, that is, a loving confidence in the divine mercy. These are
 the weapons with which thou must fight and conquer cowardice and vain
 thoughts. This is the means thou oughtest to use—not to lose time, not
 to disturb thyself, and reap no good." <span
-id="fr_66"></span>[2](#fn_66)</span>
+id="fr_66"></span>[2](#fn_66.md)</span>
 
 Now in contrast with such healthy-minded views as these, if we treat
 them as a way of deliberately minimizing evil, stands a radically
@@ -209,7 +209,7 @@ everything actual is rational, and that evil, as an element
 dialectically required, must be pinned in and kept and consecrated and
 have a function awarded to it in the final system of truth,
 healthy-mindedness refuses to say anything of the sort. <span
-id="fr_67"></span>[1](#fn_67) Evil, it says, is emphatically irrational,
+id="fr_67"></span>[1](#fn_67.md) Evil, it says, is emphatically irrational,
 and *not* to be pinned in, or preserved, or consecrated in any final
 system of truth. It is a pure abomination to the Lord, an alien
 unreality, a waste element, to be sloughed off and negated, and the very
@@ -267,7 +267,7 @@ looking upon evil, as made up of ills and sins in the plural, removable
 in detail; while the Germanic races have tended rather to think of Sin
 in the singular, and with a capital S, as of something ineradicably
 ingrained in our natural subjectivity, and never to be removed by any
-superficial piecemeal operations. <span id="fr_68"></span>[1](#fn_68)
+superficial piecemeal operations. <span id="fr_68"></span>[1](#fn_68.md)
 These comparisons of races are always open to exception, but undoubtedly
 the northern tone in religion has inclined to the more intimately
 pessimistic persuasion, and this way of feeling, being the more extreme,
@@ -398,11 +398,11 @@ are not
 <span id="page_136">p. 136</span>
 
 intended to succeed; failure is the fate allotted." <span
-id="fr_69"></span>[1](#fn_69) And our nature being thus rooted in
+id="fr_69"></span>[1](#fn_69.md) And our nature being thus rooted in
 failure, is it any wonder that theologians should have held it to be
 essential, and thought that only through the personal experience of
 humiliation which it engenders the deeper sense of life's significance
-is reached? <span id="fr_70"></span>[2](#fn_70)
+is reached? <span id="fr_70"></span>[2](#fn_70.md)
 
 But this is only the first stage of the world-sickness. Make the human
 being's sensitiveness a little greater, carry him a little farther over
@@ -516,9 +516,9 @@ models of the healthy-minded joyousness which the religion of nature may
 engender. There was indeed much joyousness among the Greeks—Homer's flow
 of enthusiasm for most things that the sun shines upon is steady. But
 even in Homer the reflective passages are cheerless, <span
-id="fr_71"></span>[1](#fn_71) and the moment the Greeks grew
+id="fr_71"></span>[1](#fn_71.md) and the moment the Greeks grew
 systematically pensive and thought of ultimates, they became unmitigated
-pessimists. <span id="fr_72"></span>[2](#fn_72) The jealousy of the
+pessimists. <span id="fr_72"></span>[2](#fn_72.md) The jealousy of the
 gods, the nemesis that follows
 
 <span id="page_140">p. 140</span>
@@ -557,7 +557,7 @@ cool, in the other it has become quite cold; and although I have spoken
 of them in the past tense, as if they were merely historic, yet Stoicism
 and Epicureanism will probably be to all time typical attitudes, marking
 a certain definite stage accomplished in the evolution of the world-sick
-soul. <span id="fr_73"></span>[1](#fn_73) They mark the conclusion of
+soul. <span id="fr_73"></span>[1](#fn_73.md) They mark the conclusion of
 what we call the once-born period, and represent the highest flights of
 what twice-born religion would call the purely natural man—Epicureanism,
 which can only by great courtesy be called a religion, showing his
@@ -623,7 +623,7 @@ emotional reaction. If he went to the theatre, which he did out of
 habit, he could find no pleasure there. The thought of his house of his
 home, of his wife, and of his absent children moved him as little, he
 said, as a theorem of Euclid." <span
-id="fr_74"></span>[1](#fn_74)</span>
+id="fr_74"></span>[1](#fn_74.md)</span>
 
 Prolonged seasickness will in most persons produce a temporary condition
 of anhedonia. Every good, terrestrial or celestial, is imagined only to
@@ -662,7 +662,7 @@ them, of hoping anything from them, or of believing them to exist. There
 was my great and inconsolable grief! I neither perceived nor conceived
 any longer the existence of happiness or perfection. An abstract heaven
 over a naked rock. Such was my present abode for eternity." <span
-id="fr_75"></span>[1](#fn_75)
+id="fr_75"></span>[1](#fn_75.md)
 
 <span id="page_145">p. 145</span>
 
@@ -716,7 +716,7 @@ the cud of bitterness with the pessimists. Yes, indeed, there is more
 pain in life than gladness—it is one long agony until the grave. Think
 how gay it makes me to remember that this horrible misery of mine,
 coupled with this unspeakable fear, may last fifty, one hundred, who
-knows how many more years!" <span id="fr_76"></span>[1](#fn_76)</span>
+knows how many more years!" <span id="fr_76"></span>[1](#fn_76.md)</span>
 
 This letter shows two things. First, you see how the entire
 consciousness of the poor man is so choked with the feeling of evil that
@@ -818,7 +818,7 @@ longer find myself; I walk, but why? Everything floats before my eyes,
 but leaves no impression."—"I weep false tears, I have unreal hands: the
 things I see are not real things."—Such are expressions that naturally
 rise to the lips of melancholy subjects describing their changed
-state. <span id="fr_77"></span>[1](#fn_77)
+state. <span id="fr_77"></span>[1](#fn_77.md)
 
 Now there are some subjects whom all this leaves a prey to the
 profoundest astonishment. The strangeness is wrong. The unreality cannot
@@ -974,7 +974,7 @@ that movement—but it came from my heart. It was like a feeling of dread
 that made me seem like an orphan and isolated in the midst of all these
 things that were so foreign. And this feeling of dread was mitigated by
 the hope of finding the assistance of some one." <span
-id="fr_78"></span>[1](#fn_78)</span>
+id="fr_78"></span>[1](#fn_78.md)</span>
 
 Of the process, intellectual as well as emotional, which, starting from
 this idea of God, led to Tolstoy's recovery, I will say nothing in this
@@ -1061,7 +1061,7 @@ sometimes scarce desire to shed one.
 "I was both a burthen and a terror to myself; nor did I ever so know, as
 now, what it was to be weary of my life, and yet afraid to die. How
 gladly would I have been anything but myself! Anything but a man! and in
-any condition but my own." <span id="fr_79"></span>[1](#fn_79)
+any condition but my own." <span id="fr_79"></span>[1](#fn_79.md)
 
 Poor patient Bunyan, like Tolstoy, saw the light again, but we must also
 postpone that part of his story to another
@@ -1091,7 +1091,7 @@ many times look on the beasts with envy, wishing with all my heart I was
 in their place, that I might have no soul to lose; and when I have seen
 birds flying over my head, have often thought within myself, Oh, that I
 could fly away from my danger and distress! Oh, how happy should I be,
-if I were in their place!" <span id="fr_80"></span>[1](#fn_80)</span>
+if I were in their place!" <span id="fr_80"></span>[1](#fn_80.md)</span>
 
 Envy of the placid beasts seems to be a very widespread affection in
 this type of sadness.
@@ -1128,7 +1128,7 @@ my breast gave way entirely, and I became a mass of quivering fear.
 After this the universe was changed for me altogether. I awoke morning
 after morning with a horrible dread at the pit of my stomach, and with a
 sense of the insecurity of life that I never knew before, and that I
-have never felt since. <span id="fr_81"></span>[1](#fn_81) It was like
+have never felt since. <span id="fr_81"></span>[1](#fn_81.md) It was like
 a</span>
 
 <span id="page_158">p. 158</span>
@@ -1154,7 +1154,7 @@ these last words, the answer he wrote was this:—
 that if I had not clung to scripture-texts like 'The eternal God is my
 refuge,' etc., 'Come unto me, all ye that labor and are heavy-laden,'
 etc., 'I am the resurrection and the life,' etc., I think I should have
-grown really insane." <span id="fr_82"></span>[1](#fn_82)</span>
+grown really insane." <span id="fr_82"></span>[1](#fn_82.md)</span>
 
 There is no need of more examples. The cases we have looked at are
 enough. One of them gives us the vanity of mortal things; another the
@@ -1244,7 +1244,7 @@ we are; their loathsome existence fills every minute of every day that
 drags its length along; and whenever they or other wild beasts clutch
 their living prey, the deadly horror which an agitated melancholiac
 feels is the literally right reaction on the situation. <span
-id="fr_83"></span>[1](#fn_83)
+id="fr_83"></span>[1](#fn_83.md)
 
 It may indeed be that no religious reconciliation with the absolute
 totality of things is possible. Some evils, indeed, are ministerial to
@@ -1276,16 +1276,16 @@ subjects than those which we have recently been dwelling on.
 
 ### Footnotes
 
-<span id="fn_64"></span>[126:1](vre07.htm#fr_64) Tract on God, Man, and
+<span id="fn_64"></span>[126:1](vre07.htm#fr_64.md) Tract on God, Man, and
 Happiness, Book ii. ch. x.
 
-<span id="fn_65"></span>[127:1](vre07.htm#fr_65) Commentary on
+<span id="fn_65"></span>[127:1](vre07.htm#fr_65.md) Commentary on
 Galatians, Philadelphia, 1891, pp. 510-514 (abridged).
 
-<span id="fn_66"></span>[128:2](vre07.htm#fr_66) Molinos: Spiritual
+<span id="fn_66"></span>[128:2](vre07.htm#fr_66.md) Molinos: Spiritual
 Guide, Book II., chaps. xvii., xviii. abridged.
 
-<span id="fn_67"></span>[130:1](vre07.htm#fr_67) I say this in spite of
+<span id="fn_67"></span>[130:1](vre07.htm#fr_67.md) I say this in spite of
 the monistic utterances of many mind-cure writers; for these utterances
 are really inconsistent with their attitude towards disease, and can
 easily be shown not to be logically involved in the experiences of union
@@ -1294,15 +1294,15 @@ Presence, namely, need not be the absolute whole of things, it is quite
 sufficient for the life of religious experience to regard it as a part,
 if only it be the most ideal part.
 
-<span id="fn_68"></span>[132:1](vre07.htm#fr_68) Cf. <span
+<span id="fn_68"></span>[132:1](vre07.htm#fr_68.md) Cf. <span
 class="smallcaps">J. Milsand</span>: Luther et le Serf-Arbitre, 1884,
 *passim*.
 
-<span id="fn_69"></span>[136:1](vre07.htm#fr_69) He adds with
+<span id="fn_69"></span>[136:1](vre07.htm#fr_69.md) He adds with
 characteristic healthy-mindedness: "Our business is to continue to fail
 in good spirits."
 
-<span id="fn_70"></span>[136:2](vre07.htm#fr_70) The God of many men is
+<span id="fn_70"></span>[136:2](vre07.htm#fr_70.md) The God of many men is
 little more than their court of appeal against the damnatory judgment
 passed on their failures by the opinion of this world. To our own
 consciousness there is usually a residuum of worth left over after our
@@ -1315,11 +1315,11 @@ also, and who is just. We cast ourselves with our repentance on his
 mercy only by an All-knower can we finally be judged. So the need of a
 God very definitely emerges from this sort of experience of life.
 
-<span id="fn_71"></span>[139:1](vre07.htm#fr_71) E.g., Iliad XVII. 446:
+<span id="fn_71"></span>[139:1](vre07.htm#fr_71.md) E.g., Iliad XVII. 446:
 "Nothing then is more wretched anywhere than man of all that breathes
 and creeps upon this earth."
 
-<span id="fn_72"></span>[139:2](vre07.htm#fr_72) E.g., Theognis,
+<span id="fn_72"></span>[139:2](vre07.htm#fr_72.md) E.g., Theognis,
 425-428: "Best of all for all things upon earth is it not to be born nor
 to behold the splendors of the sun; next best to traverse as soon as
 possible the gates of Hades." See also the almost identical passage in
@@ -1345,7 +1345,7 @@ and failure, was reserved for races more complex, and (so to speak) more
 feminine than the Hellenes had attained to being in the classic period.
 But all the same was the outlook of those Hellenes blackly pessimistic.
 
-<span id="fn_73"></span>[141:1](vre07.htm#fr_73) For instance, on the
+<span id="fn_73"></span>[141:1](vre07.htm#fr_73.md) For instance, on the
 very day on which I write this page, the post brings me some aphorisms
 from a worldly-wise old friend in Heidelberg which may serve as a good
 contemporaneous expression of Epicureanism: "By the word 'happiness'
@@ -1358,10 +1358,10 @@ contentment. Woman's heart and love are a shrewd device of Nature, a
 trap which she sets for the average man, to force him into working. But
 the wise man will always prefer work chosen by himself."
 
-<span id="fn_74"></span>[143:1](vre07.htm#fr_74) <span
+<span id="fn_74"></span>[143:1](vre07.htm#fr_74.md) <span
 class="smallcaps">Ribot</span>: Psychologie des sentiments, p. 54.
 
-<span id="fn_75"></span>[144:1](vre07.htm#fr_75) A. Gratry: Souvenirs de
+<span id="fn_75"></span>[144:1](vre07.htm#fr_75.md) A. Gratry: Souvenirs de
 ma jeunesse, 1880, pp. 119-121, abridged. Some persons are affected with
 anhedonia permanently, or at any rate with a loss of the usual appetite
 for life. The annals of suicide supply such examples as the following:—
@@ -1384,27 +1384,27 @@ tired of living, so am willing to die. . . . Life may be sweet to some,
 but death to me is sweeter." <span class="smallcaps">S. A. K.
 Strahan</span>: Suicide and Insanity, 2d edition, London, 1894, p. 131.
 
-<span id="fn_76"></span>[146:1](vre07.htm#fr_76) <span
+<span id="fn_76"></span>[146:1](vre07.htm#fr_76.md) <span
 class="smallcaps">Roubinovitch et Toulouse</span>: La Mélancolie, 1897,
 p. 170, abridged.
 
-<span id="fn_77"></span>[149:1](vre07.htm#fr_77) I cull these examples
+<span id="fn_77"></span>[149:1](vre07.htm#fr_77.md) I cull these examples
 from the work of <span class="smallcaps">G. Dumas</span>: La Tristesse
 et la Joie, 1900.
 
-<span id="fn_78"></span>[153:1](vre07.htm#fr_78) My extracts are from
+<span id="fn_78"></span>[153:1](vre07.htm#fr_78.md) My extracts are from
 the French translation by "<span class="smallcaps">Zonia</span>." In
 abridging I have taken the liberty of transposing one passage.
 
-<span id="fn_79"></span>[155:1](vre07.htm#fr_79) Grace abounding to the
+<span id="fn_79"></span>[155:1](vre07.htm#fr_79.md) Grace abounding to the
 Chief of Sinners: I have printed a number of detached passages
 continuously.
 
-<span id="fn_80"></span>[156:1](vre07.htm#fr_80) The Life and Journal of
+<span id="fn_80"></span>[156:1](vre07.htm#fr_80.md) The Life and Journal of
 the Rev. Mr. Henry Alline, Boston 1806, pp. 25, 26. I owe my
 acquaintance with this book to my colleague, Dr. Benjamin Rand.
 
-<span id="fn_81"></span>[157:1](vre07.htm#fr_81) Compare Bunyan. "There
+<span id="fn_81"></span>[157:1](vre07.htm#fr_81.md) Compare Bunyan. "There
 was I struck into a very great trembling, insomuch that at some times I
 could, for days together, feel my very body, as well as my mind, to
 shake and totter under the sense of the dreadful judgment of God, that
@@ -1415,11 +1415,11 @@ would have split asunder. . . . Thus did I wind, and twine, and shrink,
 under the burden that was upon me; which burden also did so oppress me
 that I could neither stand, nor go, nor lie, either at rest or quiet."
 
-<span id="fn_82"></span>[158:1](vre07.htm#fr_82) For another case of
+<span id="fn_82"></span>[158:1](vre07.htm#fr_82.md) For another case of
 fear equally sudden, see Henry James: Society the Redeemed Form of Man,
 Boston, 1879, pp. 43 ff.
 
-<span id="fn_83"></span>[161:1](vre07.htm#fr_83) Example: "It was about
+<span id="fn_83"></span>[161:1](vre07.htm#fr_83.md) Example: "It was about
 eleven o'clock at night . . . but I strolled on still with the people. .
 . . Suddenly upon the left side of our road, a crackling was heard among
 the bushes; all of us were alarmed, and in an instant a tiger, rushing
@@ -1443,4 +1443,4 @@ a Mohammedan Gentleman, Leipzig, 1857, p. 112.
 ------------------------------------------------------------------------
 
 [Next: Lecture VIII. The Divided Self, and the Process of its
-Unification](vre08)
+Unification](vre08.md)

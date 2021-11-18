@@ -1,7 +1,7 @@
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Petronius](../index)  [Index (English)](../satyr/index)  [Index
-(Latin)](index)  [English](../satyr/sat09.htm#L)  [Previous](satl049) 
-[Next](satl051) 
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Petronius](../index)  [Index (English)](../satyr/index.md)  [Index
+(Latin)](index)  [English](../satyr/sat09.htm#L)  [Previous](satl049.md) 
+[Next](satl051.md) 
 
 ------------------------------------------------------------------------
 
@@ -24,4 +24,4 @@ frangerentur, mallem mihi quam aurum; nunc autem vilia sunt.
 
 ------------------------------------------------------------------------
 
-[Next: LI](satl051)
+[Next: LI](satl051.md)

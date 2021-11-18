@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Ancient Near
-East](../index)  [Index](index)  [Previous](phc10)  [Next](phc12) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Ancient Near
+East](../index)  [Index](index)  [Previous](phc10)  [Next](phc12.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Philistines*, by R.A.S. Macalister, \[1913\], at Intangible Textual
 Heritage
 
@@ -107,10 +107,10 @@ that the figure has Mycenaean analogies.
 
 Fig. *e*, with the shaved head, perhaps represents a slave. A
 figure-of-eight (an ownership mark in tatu) is represented on the
-cheek. <span id="fr_154"></span>[1](#fn_154)
+cheek. <span id="fr_154"></span>[1](#fn_154.md)
 
 <span id="img_11600"></span> <span align="CENTER"> [![](tn/11600.jpg)  
-Click to enlarge](img/11600.jpg)</span>
+Click to enlarge](img/11600.jpg.md)</span>
 
 Fig. *f* may represent a sandalled foot; fig. *g* may possibly represent
 a closed hand; but both are doubtful. Figs. *h* and *i* possibly
@@ -174,13 +174,13 @@ we have precious illustrations of costumes, vehicles, and arms.
 
 <span id="img_11800"></span> <span align="CENTER"> [![Fig. 7. Wagons of
 the Pulasati.](tn/11800.jpg)  
-Click to enlarge](img/11800.jpg)  
+Click to enlarge](img/11800.jpg.md)  
 Fig. 7. Wagons of the Pulasati.  
 </span>
 
 <span id="img_11801"></span> <span align="CENTER"> [![Fig. 8. The
 Head-dress of the Pulasati.](tn/11801.jpg)  
-Click to enlarge](img/11801.jpg)  
+Click to enlarge](img/11801.jpg.md)  
 Fig. 8. The Head-dress of the Pulasati.  
 </span>
 
@@ -201,7 +201,7 @@ secured to the axle by a linch-pin; and are drawn
 
 <span id="img_11900"></span> <span align="CENTER"> [![Fig. 9. The
 Sea-fight between Ramessu III and the Allies.](tn/11900.jpg)  
-Click to enlarge](img/11900.jpg)  
+Click to enlarge](img/11900.jpg.md)  
 Fig. 9. The Sea-fight between Ramessu III and the Allies.  
 </span>
 
@@ -220,7 +220,7 @@ Carian spear; they have also daggers and javelins for throwing, and
 carry circular shields.
 
 A number of enamelled tablets, once forming part of the decoration of
-the temple, have been described, <span id="fr_155"></span>[1](#fn_155)
+the temple, have been described, <span id="fr_155"></span>[1](#fn_155.md)
 and these add some further valuable details. They show prisoners in full
 costume, not the summary fighting costume. A number of these do not
 concern us, being Semitic or North African; but a *Shekelesh*, a
@@ -267,7 +267,7 @@ Gezer*, vol. ii, pp. 128–241.
 <span id="img_12100"></span> <span align="CENTER"> [![Fig. 10. A Bird,
 as painted on an Amorite and a Philistine Vase
 respectively.](tn/12100.jpg)  
-Click to enlarge](img/12100.jpg)  
+Click to enlarge](img/12100.jpg.md)  
 Fig. 10. A Bird, as painted on an Amorite and a Philistine Vase
 respectively.  
 </span>
@@ -348,7 +348,7 @@ conclusion.
 Let us take as an illustration the art of Architecture. It is notable
 that the only Palestine temples we read about in the Old Testament,
 until the building of Solomon's temple, are the houses of the Philistine
-deities. <span id="fr_156"></span>[1](#fn_156) Yahweh has a simple tent;
+deities. <span id="fr_156"></span>[1](#fn_156.md) Yahweh has a simple tent;
 the Canaanite deities have to be content with their primitive High
 Places—open areas of ground with rude pillar-stones. But Gaza, Ashdod,
 and Beth-Shan have their temples, and most likely the place called
@@ -388,7 +388,7 @@ same model was followed.
 Sketch-plans and Elevations of the Marneion at Gaza and of Solomon's
 Temple (accessory buildings omitted). The dimensions of the latter are
 figured in cubits: the former is not to scale.](tn/12400.jpg)  
-Click to enlarge](img/12400.jpg)  
+Click to enlarge](img/12400.jpg.md)  
 Fig. 11. Sketch-plans and Elevations of the Marneion at Gaza and of
 Solomon's Temple (accessory buildings omitted). The dimensions of the
 latter are figured in cubits: the former is not to scale.  
@@ -430,7 +430,7 @@ evidently includes the portico.
 With regard to the ordinary domestic architecture of the Philistines, it
 must be admitted that the excavations which have been made in Philistine
 towns do not lead us to infer that they were on the whole much better
-housed than their Semitic neighbours. Amos, [is](errata.htm#0) true,
+housed than their Semitic neighbours. Amos, [is](errata.htm#0.md) true,
 speaks of the 'palaces' of Gaza and Ashdod (i. 8, iii. 9); but this is
 rather a favourite word (‏ארמנות‎) of the prophet's, and he finds
 'palaces' in other towns as well. To a rough herdsman many buildings
@@ -463,14 +463,14 @@ nations have regulations against importing firearms among subject or
 backward communities. The Hebrews were just emerging from the bronze age
 culture. Iron agricultural implements, which seem slightly to precede
 iron war-weapons, had been introduced among them <span
-id="fr_157"></span>[1](#fn_157); but the novelty of iron had not worn
+id="fr_157"></span>[1](#fn_157.md); but the novelty of iron had not worn
 off by the time of Solomon when he built his temple without the
 profaning touch of this metal (1 Kings vi. 7)—just as when Joshua made
 flint knives to perform the sacred rite of circumcision (Joshua v. 2);
 the old traditions must be maintained in religious functions. The
 champions of the Philistines, of course, were able to use iron freely,
 although for defensive purposes they still use bronze. <span
-id="fr_158"></span>[2](#fn_158)
+id="fr_158"></span>[2](#fn_158.md)
 
 Goliath had a bronze helmet, a bronze cuirass of scale-armour (not a
 mail-coat, as in the English translation), bronze greaves, and a bronze
@@ -478,9 +478,9 @@ mail-coat, as in the English translation), bronze greaves, and a bronze
 armour of 'Ishbi-benob' was probably similar, but the text is corrupt
 and defective. The armour of Goliath is indeed quite Homeric, and very
 un-Semitic. The κυνέν πάγχαλκος, the χαλκοκνήμιδες, <span
-id="fr_159"></span>[3](#fn_159) and the enormous spear—
+id="fr_159"></span>[3](#fn_159.md) and the enormous spear—
 
-… <span id="fr_160"></span>[4](#fn_160)—
+… <span id="fr_160"></span>[4](#fn_160.md)—
 
 are noteworthy in this connexion, especially the greaves, the Hebrew
 word for which (‏מצחת‎) occurs nowhere else. The θώραξ λεπιδωτός alone
@@ -496,7 +496,7 @@ is much more European or Aegean than Palestinian.
 In the report of Wen-Amon we found that the Zakkala were busy in the
 Phoenician ports, and had large influence in Phoenicia. The
 representations of Phoenician ships, such as the sadly damaged fresco
-which W. Max Müller has published, <span id="fr_161"></span>[1](#fn_161)
+which W. Max Müller has published, <span id="fr_161"></span>[1](#fn_161.md)
 shows them to have been identical in type with the ships of the
 Pulasati. It is highly probable that further research will show that it
 was due to the influence of the 'Peoples of the Sea' that the
@@ -504,7 +504,7 @@ Phoenicians were induced to take to their very un-Semitic seafaring
 life. And it is also probable that it was due to Zakkala influence that
 the same people abandoned the practice of circumcision, as Herodotus
 says they did when they had commerce with 'Greeks'. <span
-id="fr_162"></span>[2](#fn_162)
+id="fr_162"></span>[2](#fn_162.md)
 
 An interesting question now arises. Was it to the Philistines and their
 kinsmen that the civilized world owes the alphabet? The facts that
@@ -542,7 +542,7 @@ Cyprus: the next oldest is the far-famed Moabite Stone.
 <span id="page_128">p. 128</span>
 
 <span class="contnote">\[paragraph continues\]</span> W. Max
-Müller <span id="fr_163"></span>[1](#fn_163) cleverly infers from some
+Müller <span id="fr_163"></span>[1](#fn_163.md) cleverly infers from some
 peculiarities in the rendering of names in the list of Sheshonk's
 captured towns, that the scribe of that document was working from a
 catalogue in which the names were written in the Phoenician alphabet.
@@ -620,7 +620,7 @@ may be noticed which have a bearing on the subject. It is commonly
 assumed that because the names of the letters have a meaning in Semitic,
 and no meaning in Greek, therefore they are Semitic words adapted into
 Greek. This is, however, a *non sequitur*. <span
-id="fr_164"></span>[1](#fn_164) It would be more probable that the
+id="fr_164"></span>[1](#fn_164.md) It would be more probable that the
 *borrowing* nation should cast about for words similar in sound, and
 possessing a meaning which would make the names of the letters easily
 remembered. Such an attempt would be sure to be unsuccessful in some
@@ -665,15 +665,15 @@ heritage of humanity to the end of time.
 
 ### Footnotes
 
-<span id="fn_154"></span>[116:1](phc11.htm#fr_154) Compare the scarified
+<span id="fn_154"></span>[116:1](phc11.htm#fr_154.md) Compare the scarified
 lines still to be seen on the faces of negroes who have been liberated
 from slavery within recent years in the Turkish empire.
 
-<span id="fn_155"></span>[120:1](phc11.htm#fr_155) Daressy, 'Plaquettes
+<span id="fn_155"></span>[120:1](phc11.htm#fr_155.md) Daressy, 'Plaquettes
 émaillées de Médinet Habu,' in *Annales du Service des Antiquités de
 l’Égypte*, vol. xi, p. 49.
 
-<span id="fn_156"></span>[123:1](phc11.htm#fr_156) Except the temple at
+<span id="fn_156"></span>[123:1](phc11.htm#fr_156.md) Except the temple at
 Shechem (Judges viii. 33–ix. 46). The events described as taking place
 there certainly postulate a covered building. This, however, is perhaps
 no real exception: it may have originally been a Philistine structure.
@@ -687,30 +687,30 @@ become obscured. The curious expression in Ezekiel, commented upon on p.
 criticism the difficult original reading is to be preferred to the easy
 emendation there quoted.
 
-<span id="fn_157"></span>[126:1](phc11.htm#fr_157) See the essay on
+<span id="fn_157"></span>[126:1](phc11.htm#fr_157.md) See the essay on
 'Bronze and Iron' in Andrew Lang's *The World of Homer*, pp. 96–104.
 
-<span id="fn_158"></span>[126:2](phc11.htm#fr_158) An elaborate paper,
+<span id="fn_158"></span>[126:2](phc11.htm#fr_158.md) An elaborate paper,
 entitled 'Die Erfinder der Eisentechnik', by W. Belck, will be found in
 *Zeitschrift für Ethnologie* (1907), p. 334. It claims the Philistines
 as the original inventors of the smith's art. That is, perhaps, going a
 little too far.
 
-<span id="fn_159"></span>[126:3](phc11.htm#fr_159) Greaves appear to be
+<span id="fn_159"></span>[126:3](phc11.htm#fr_159.md) Greaves appear to be
 unknown in Oriental or Egyptian warfare. See Daremberg and Saglio,
 *Dict. des antt. gr. et rom.*, s. v. *Ocrea*.
 
-<span id="fn_160"></span>[126:4](phc11.htm#fr_160) Il. vi. 318.
+<span id="fn_160"></span>[126:4](phc11.htm#fr_160.md) Il. vi. 318.
 
-<span id="fn_161"></span>[127:1](phc11.htm#fr_161) *Mitth. der vorderas.
+<span id="fn_161"></span>[127:1](phc11.htm#fr_161.md) *Mitth. der vorderas.
 Gesell.* (1904), 2, plate iii.
 
-<span id="fn_162"></span>[127:2](phc11.htm#fr_162) II. 104.
+<span id="fn_162"></span>[127:2](phc11.htm#fr_162.md) II. 104.
 
-<span id="fn_163"></span>[128:1](phc11.htm#fr_163) *Asien and Europa*,
+<span id="fn_163"></span>[128:1](phc11.htm#fr_163.md) *Asien and Europa*,
 p. 171.
 
-<span id="fn_164"></span>[129:1](phc11.htm#fr_164) See M. René Dussaud's
+<span id="fn_164"></span>[129:1](phc11.htm#fr_164.md) See M. René Dussaud's
 paper 'L’Origine égéenne des alphabets sémitiques' in *Journal
 asiatique*, Sér. X, vol. v, p. 357.
 
@@ -718,6 +718,6 @@ asiatique*, Sér. X, vol. v, p. 357.
 
 ------------------------------------------------------------------------
 
-[Next: Index](phc12)
+[Next: Index](phc12.md)
 
 </div>

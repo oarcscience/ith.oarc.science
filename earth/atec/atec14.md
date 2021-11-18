@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index) 
-[Index](index)  [Previous](atec13)  [Next](atec15) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Earth Mysteries](../index.md) 
+[Index](index)  [Previous](atec13)  [Next](atec15.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88BE/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/B0027P88BE/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *At the Earth's Core*, by Edgar Rice Burroughs, \[1914\], at Intangible
 Textual Heritage
 
@@ -221,4 +221,4 @@ the land of Sari then, nor for a long time thereafter.
 
 ------------------------------------------------------------------------
 
-[Next: XIV. The Garden of Eden](atec15)
+[Next: XIV. The Garden of Eden](atec15.md)

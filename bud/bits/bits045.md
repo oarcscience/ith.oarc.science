@@ -1,4 +1,4 @@
-[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits044) [Next](bits046)
+[Sacred-Texts](../../index) [Buddhism](../index) [Index](index) [Sources](sources) [Previous](bits044) [Next](bits046.md)
 
 ------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ shall not be born into another existence."
 
 ------------------------------------------------------------------------
 
-[Next: § 46. Is This to Be My Last Existence?](bits046)
+[Next: § 46. Is This to Be My Last Existence?](bits046.md)
 
  
 

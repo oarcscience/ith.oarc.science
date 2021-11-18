@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sacred
-Sexuality](../index)  [Classics](../../cla/index)  [Index](index) 
-[Previous](rmn48)  [Next](rmn50) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sacred
+Sexuality](../index)  [Classics](../../cla/index)  [Index](index.md) 
+[Previous](rmn48)  [Next](rmn50.md) 
 
 ------------------------------------------------------------------------
 
@@ -68,11 +68,11 @@ this purpose.
 Every part of the known world at that time contributed to subserve the
 reckless and mad luxury of the Romans. India sent them fine pearl
 necklaces, valued at several millions of *sistertii*; <span
-id="fr_45"></span>[1](#fn_45) Arabia, her sweetest perfumes; Alexandria,
+id="fr_45"></span>[1](#fn_45.md) Arabia, her sweetest perfumes; Alexandria,
 Tyre, and Asia Minor, precious stuffs worked with gold and silk; Sidon,
 its metal or glass mirrors. Other countries sent to Rome purple, gold,
 silver, bronze, all the productions both of art and nature, the choicest
-wines, and the rarest animals. <span id="fr_46"></span>[2](#fn_46) Under
+wines, and the rarest animals. <span id="fr_46"></span>[2](#fn_46.md) Under
 the later Scipio, men of high authority at Rome were seen wasting their
 substance with favourites, others with courtezans, or in concerts and
 costly feasts, having contracted,
@@ -80,7 +80,7 @@ costly feasts, having contracted,
 <span id="page_96">p. 96</span>
 
 during the Persian war, the Greek tastes; and this disorder grew into a
-madness among the youths. <span id="fr_47"></span>[1](#fn_47)
+madness among the youths. <span id="fr_47"></span>[1](#fn_47.md)
 
 M. Roux-Ferrand, collecting his materials from Martial, Pliny,
 Petronius, Seneca, Horace, Vitruvius, &c., has given, in his excellent
@@ -93,9 +93,9 @@ table, made of citrus-wood more precious than gold, rests on legs of
 ivory; it is covered with a surface of massive silver, of five hundred
 pounds weight, adorned with sculptures and designs. The tricliniar beds
 are of bronze, enriched with ornaments of pure gold and tortoise-shell;
-the woollen [mattresses](errata.htm#3) of the Gauls are stained with
+the woollen [mattresses](errata.htm#3.md) of the Gauls are stained with
 purple, and the costly cushions are covered with woven and
-silk-broidered [coverlets](errata.htm#4), wrought at Babylon, and
+silk-broidered [coverlets](errata.htm#4.md), wrought at Babylon, and
 costing as much as four millions of sestertii (that is, about 630,000).
 The pavement, of mosaic, represents remnants of repasts, as if they had
 fallen naturally to the ground. The triclinium would hold a table with
@@ -117,15 +117,15 @@ drive away the flies with fans of peacock's feathers, &c."
 
 ### Footnotes
 
-<span id="fn_45"></span>[95:1](rmn49.htm#fr_45) About six sistertii
+<span id="fn_45"></span>[95:1](rmn49.htm#fr_45.md) About six sistertii
 would make an English shilling.
 
-<span id="fn_46"></span>[95:2](rmn49.htm#fr_46) Mazois, Bœttiger,
+<span id="fn_46"></span>[95:2](rmn49.htm#fr_46.md) Mazois, Bœttiger,
 Meiners (quoting Livy), &c, &c.
 
-<span id="fn_47"></span>[96:1](rmn49.htm#fr_47) POLYBIUS, ROUX-FERRAND,
+<span id="fn_47"></span>[96:1](rmn49.htm#fr_47.md) POLYBIUS, ROUX-FERRAND,
 *History of the Progress of Civilization*.
 
 ------------------------------------------------------------------------
 
-[Next: Plate XLIX: Apollo and a Nymph](rmn50)
+[Next: Plate XLIX: Apollo and a Nymph](rmn50.md)

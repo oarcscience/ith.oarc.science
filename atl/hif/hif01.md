@@ -1,13 +1,13 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](hif00)  [Next](hif02) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](hif00)  [Next](hif02.md) 
 
 ------------------------------------------------------------------------
 
 <span id="img_atlmap"></span>
 
 [![](tn/atlmap.jpg)  
-Click to enlarge](img/atlmap.jpg)
+Click to enlarge](img/atlmap.jpg.md)
 
 A Reconstruction of the Lost Continent of Atlantis Made from Deep Sea
 Surveys by the United States Government. The Gulf Stream Ran About the
@@ -23,4 +23,4 @@ Atlanteans, and Also Central and South America.
 
 ------------------------------------------------------------------------
 
-[Next: Illustration: The New Diving Armor](hif02)
+[Next: Illustration: The New Diving Armor](hif02.md)

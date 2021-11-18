@@ -1,20 +1,20 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sat17)  [Next](sat19) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sat17)  [Next](sat19.md) 
 
 ------------------------------------------------------------------------
 
 [Buy Kindle Download of this
-Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte)
+Book](https://www.amazon.com/exec/obidos/ASIN/B001BDI55M/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
 [Buy Printed Copy of this Book at
-lulu.com](https://www.lulu.com/content/2742583)
+lulu.com](https://www.lulu.com/content/2742583.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Signature of All Things*, by Jacob Boehem, \[1912\], at Intangible
 Textual Heritage
 
@@ -39,7 +39,7 @@ its practic art, wherein I deal not, may be opened to thee; I write only
 in the spirit of contemplation; how the generation of good and evil is,
 and open the fountain: He shall draw the water whom God has appointed
 thereunto; I will here only describe the wheel of life as it is <span
-id="fr_258"></span>[1](#fn_258) in itself.
+id="fr_258"></span>[1](#fn_258.md) in itself.
 
 2\. When I speak of Sulphur, Mercury, and Salt, I speak of one only
 thing, be it either spiritual or corporeal; all created things are that
@@ -103,7 +103,7 @@ been from eternity in the eternal will; yet we are to conceive that
 there was in eternity a nature in the eternal will, as an eternal mind
 in the will; but it was only a spirit in the will, and the essence of
 its ability was not made manifest, but only in the looking-glass <span
-id="fr_259"></span>[1](#fn_259) of the will, which is the eternal
+id="fr_259"></span>[1](#fn_259.md) of the will, which is the eternal
 wisdom, wherein all things which are in this world were known in two
 centres, viz. according to the fire and light, and then according to the
 darkness and essence; all which came with the motion of the eternal will
@@ -118,7 +118,7 @@ possibility.
 into a time, and consists in the fore-mentioned forms in Sulphur,
 Mercury, and Salt, where the one is not divided or parted asunder from
 the other: It is one eternal essence, and shapes <span
-id="fr_260"></span>[1](#fn_260) itself into the properties of the desire
+id="fr_260"></span>[1](#fn_260.md) itself into the properties of the desire
 according to the possibility of the manifestation; and we are to
 understand that one property is not, nor cannot be without the other;
 they are altogether the same only possibility: And now we will speak of
@@ -129,7 +129,7 @@ good and evil, viz. into still peace and constant unquietness.
 mother works all things, which are these, viz. First, the desire, which
 is astringent, cold, hard, and dark. Secondly, bitter, which is the
 sting of the astringent hard enclosure; <span
-id="fr_261"></span>[2](#fn_261) this is the cause of all motion and
+id="fr_261"></span>[2](#fn_261.md) this is the cause of all motion and
 life. Thirdly, the anguish, by reason of the raging in the impression,
 where the impressed hardness falls into a tearing anguish and pain by
 reason of the sting.
@@ -140,7 +140,7 @@ lightening\], viz. into strength and devouring of the darkness, with
 which the hardness is again consumed, and introduced into a corporeal
 moving spirit.
 
-12\. Fifthly, the egress <span id="fr_262"></span>[3](#fn_262) of the
+12\. Fifthly, the egress <span id="fr_262"></span>[3](#fn_262.md) of the
 free will out of the darkness and out of the fire, and dwelling in
 itself, where the free will has received the lustre, so that it
 enlightens and shines as a light out of the fire, and the potent desire
@@ -150,7 +150,7 @@ consumed) does now in the light's desire draw into itself the essence
 from the dying of the fire, according to its hunger, which is now water;
 and in the lustre it is a tincture from the fire and light, viz. a
 love-desire, or a beauty of colours; <span
-id="fr_263"></span>[4](#fn_263) and here all colours arise; as we have
+id="fr_263"></span>[4](#fn_263.md) and here all colours arise; as we have
 fully set it down in our other books, but especially in the *Threefold
 Life of Man*.
 
@@ -174,7 +174,7 @@ whence all whatever is in this world is generated; and moreover the Most
 High has, according to this mother,. introduced and created such
 properties as this mother is in her wrestling forms (understand, as she
 brings herself with the wrestling into properties) into a wheel, <span
-id="fr_264"></span>[1](#fn_264) which is as a mind of the mother, from
+id="fr_264"></span>[1](#fn_264.md) which is as a mind of the mother, from
 whence she continually creates and works; and these are the stars with
 the planetary orb according to the platform of the eternal astrum, which
 is only a spirit, and the eternal mind in the wisdom of God, viz. the
@@ -187,7 +187,7 @@ dominion in the pregnant mother; and these are the four elements to
 which the wheel of the mind, viz. the astrum affords will and desire; so
 that this whole being is but one only thing, and yet is so proportioned
 \[or composed\] as a mind of a man: Even as he is in soul and body, so
-also is this only essence; for it <span id="fr_265"></span>[2](#fn_265)
+also is this only essence; for it <span id="fr_265"></span>[2](#fn_265.md)
 was created out of this whole essence into an image according to
 eternity and time; out of eternity according to the soul, and out of
 time according to the outward essence, as a similitude and image of
@@ -207,7 +207,7 @@ desire, and impresses itself, is dark,
 <span id="page_180">p. 180</span>
 
 and causes hardness, viz. a strong pulsation, <span
-id="fr_266"></span>[1](#fn_266) which is a cause of the tone or sound,
+id="fr_266"></span>[1](#fn_266.md) which is a cause of the tone or sound,
 which becomes yet more hard in the fire, viz. in the fourth form, where
 then the grossness dies away, and it is received again in the fifth
 form, viz. in the love-desire; and again it proceeds forth in its own
@@ -223,13 +223,13 @@ son of the first, and in the first.
 19\. This second form or property is the raging, stinging, and bitter
 pain; for the first is astringent, and the second is drawing, viz. the
 desire into an essence; this same essence is the property of the
-first, <span id="fr_267"></span>[2](#fn_267) and the attraction makes
+first, <span id="fr_267"></span>[2](#fn_267.md) and the attraction makes
 therein the second property, viz. a bitter stinging which the hardness
 cannot endure; for it would be still, and thereupon it does more
 vehemently impress itself to withhold the sting, and yet the sting does
 thereby only grow the greater: Now the hardness, viz. the astringency
 draws inwards, and the sting from the hardness <span
-id="fr_268"></span>[3](#fn_268) upwards: Hence arises the first enmity
+id="fr_268"></span>[3](#fn_268.md) upwards: Hence arises the first enmity
 and opposition; for the two forms, which yet are but one, make
 themselves their own enemies; and yet if this were not, there would not
 be any essence, neither body nor spirit, also no manifestation of the
@@ -245,7 +245,7 @@ nature, desires to go forth again into the liberty, viz. into the
 nothing, into the eternal rest; for here it has thus found itself, and
 manifested itself, and yet there is no separating or departing: and this
 anxious form is the mother of Sulphur, for the sting makes it <span
-id="fr_269"></span>[4](#fn_269) painful, and the hardness impresses it,
+id="fr_269"></span>[4](#fn_269.md) painful, and the hardness impresses it,
 that it is as a dying source, and yet it is the true original to life.
 
 21\. It has two properties in itself, viz. according to the
@@ -271,7 +271,7 @@ itself in the essence, from whence the earthliness is so wholly
 loathsome and bitter; and the third form, viz. the anguish gives a fiery
 property thereinto; and yet here there cannot be as yet any essence, but
 it is only a spiritual essence, and the mother to the essence. <span
-id="fr_270"></span>[1](#fn_270)
+id="fr_270"></span>[1](#fn_270.md)
 
 23\. The fourth form in this essence is the fire, which as to one part
 takes its original out of the dark hard impression, viz. from the
@@ -297,7 +297,7 @@ a little spark out of these great infinite wonders.
 
 <span id="page_182">p. 182</span>
 
-of the light <span id="fr_271"></span>[1](#fn_271)), it attains with the
+of the light <span id="fr_271"></span>[1](#fn_271).md), it attains with the
 eternal will the darkness; and the darkness reaches after the light of
 the liberty, and cannot attain it; for it encloses itself with the
 desire in itself, and makes itself darkness in itself; and out of both
@@ -308,7 +308,7 @@ the liberty shines in the impression, but the impression in the anguish
 comprehends it into itself, and so it is now as a flash: But seeing the
 liberty is incomprehensible, and as a nothing, and moreover without and
 before the impression, and abyssal, <span
-id="fr_272"></span>[2](#fn_272) therefore the impression cannot conceive
+id="fr_272"></span>[2](#fn_272.md) therefore the impression cannot conceive
 or hold it; but it gives itself into the liberty, and the liberty
 devours its dark property and essence, and rules with the assumed
 mobility in the darkness, unapprehensible to the darkness.
@@ -357,7 +357,7 @@ principle of every life; to the darkness it gives essence and source,
 else there would be no sensibility in the darkness, also no spirit, but
 mere hardness, a hard, sharp, bitter, galling sting, as it is really so
 in the eternal darkness; but so far as the hot fire may be
-obtained, <span id="fr_273"></span>[1](#fn_273) the dark compunctive
+obtained, <span id="fr_273"></span>[1](#fn_273.md) the dark compunctive
 property stands in the aspiring covetous greediness like to a horrible
 madness, that it may be known what wisdom and folly is.
 
@@ -372,12 +372,12 @@ viz. the rawness, does then die in the fire.
 31\. Understand it thus: When the flash of fire reaches the dark
 essentiality, then it becomes a great flagrat, where the cold fire is
 dismayed, and does as it were die, falls into a swoon, <span
-id="fr_274"></span>[2](#fn_274) and sinks down: And this flagrat is
+id="fr_274"></span>[2](#fn_274.md) and sinks down: And this flagrat is
 effected in the enkindling of the fire in the essence of the anguish,
 which has two properties in it; viz. the one goes downwards into the
 death's property, being a mortification of the cold fire, from whence
 the water arises, and according to the grossness <span
-id="fr_275"></span>[3](#fn_275) the earth is risen; and the other part
+id="fr_275"></span>[3](#fn_275.md) the earth is risen; and the other part
 ascends in the will of the liberty, in the lubet, as a flagrat of
 joyfulness; and this same essence is also mortified in the flagrat in
 the fire, understand the cold fire's property, and gives also a
@@ -445,7 +445,7 @@ only essence, which is now the fiery will's own essence, which has
 brought itself forth in the light, wherein it works and makes the
 seventh form, as an habitation of the sixth, from whence the essence and
 dominion of this world were generated, and introduced into a form
-according to the right <span id="fr_276"></span>[1](#fn_276) of the
+according to the right <span id="fr_276"></span>[1](#fn_276.md) of the
 eternal birth.
 
 36\. Now understand us right; we do not hereby understand a beginning of
@@ -458,7 +458,7 @@ its own manifestation, eternal wisdom, and deeds of wonder.
 light of the fire, and the Holy Spirit in the power of the life and
 motion proceeding from the fire in the light of the kingdom of joy,
 being the egressive power in the love-flame; we speak only by parts of
-the universal as a creature. <span id="fr_277"></span>[2](#fn_277)
+the universal as a creature. <span id="fr_277"></span>[2](#fn_277.md)
 
 38\. The Deity is wholly everywhere all in all; but he is only called
 God according to the light of love, and according to the proceeding
@@ -478,7 +478,7 @@ when God moved himself with the eternal nature, wherein his own
 manifestation consists, he produced out of the spiritual essence a
 palpable and manifest essence, and introduced it into a creaturely being
 according to the eternal properties, which also consists of spirit and
-essence, according to the right <span id="fr_278"></span>[3](#fn_278)
+essence, according to the right <span id="fr_278"></span>[3](#fn_278.md)
 \[or law\] of eternity.
 
 <span id="page_186">p. 186</span>
@@ -511,7 +511,7 @@ powerful body, and in the fire its water is quicksilver, and in the
 astringency, viz. in the anguish of the darkness, it is a rust or smoke;
 therefore if its outward water-body be cast into the fire, understand
 \[that body\] which it receives in Sulphur from the watery property,
-then it does evaporate, <span id="fr_279"></span>[1](#fn_279) for in the
+then it does evaporate, <span id="fr_279"></span>[1](#fn_279.md) for in the
 fire every property separates itself again into the first essence, from
 whence it came originally, where all things were only a spirit.
 
@@ -586,7 +586,7 @@ the light the precious tincture, which tinctures all oily salts, from
 whence the pleasant taste and smell arise.
 
 49\. The salnitral flagrat is the sude <span
-id="fr_280"></span>[1](#fn_280) in the essence, from whence the growth
+id="fr_280"></span>[1](#fn_280.md) in the essence, from whence the growth
 and pullulation arise, that there is a growing in the impression of the
 essence; the salt is the preservation, or upholding of the essence, so
 that a thing subsists in a body or comprehension; it holds the Sulphur
@@ -595,7 +595,7 @@ and Mercury, else they would part from each other in the fire-flagrat.
 50\. All things consist of Sulphur, Mercury, and Salt: In the salnitral
 flagrat the element separates itself into four properties, viz. into
 Fire, Air, Water, and Earth, which in itself is none of these, but only
-a moving and gentle walming, <span id="fr_281"></span>[1](#fn_280) not
+a moving and gentle walming, <span id="fr_281"></span>[1](#fn_280.md) not
 as the air, but as a moving of the will in the body, a cause of life in
 the essence; for as the eternal Spirit of God proceeds from the Father,
 who is a spirit from the fire and light, and is the motion and life of
@@ -629,7 +629,7 @@ four elements; for the original of the sude is in the element, from
 whence four elements proceed in this flagrat.
 
 53\. Each body stands in the inward motion <span
-id="fr_282"></span>[1](#fn_281) in the element, and in the growth and
+id="fr_282"></span>[1](#fn_281.md) in the element, and in the growth and
 life in the four elements; but every creature has not the true life of
 the element, but only the high spirits, as angels and souls of men,
 which stand in the first principle; in them the element is incitable: In
@@ -706,7 +706,7 @@ from the properties of the salniter.
 fiat in the motion of the Being of all beings in the fiery flagrat,
 comprehended in the properties of the salts, wherein all the powers of
 the element stand as an external birth, which continually boil <span
-id="fr_283"></span>[1](#fn_282) in the four elements as a salnitral
+id="fr_283"></span>[1](#fn_282.md) in the four elements as a salnitral
 salt, and introduce their property in their desire in the four elements
 into the essence of bodies, as is to be seen in trees, herbs, grass, and
 all growing things.
@@ -780,7 +780,7 @@ the earthly properties continually opposes another; for the curse is a
 loathsome abominate in all salts, and from thence it comes that a
 constant contrariety arises in the outward body; for one hunger of the
 properties receives \[or catches\] from the other the abominate: <span
-id="fr_284"></span>[1](#fn_283) Now to help the body that it may be
+id="fr_284"></span>[1](#fn_283.md) Now to help the body that it may be
 freed from the abominate, it must take the assimulate of the lothing
 abominate, which is risen in the body as a sude or seething, and
 introduce it into the dying of the fire, and bring it out in the
@@ -815,7 +815,7 @@ Venus into Jupiter, and then the sun will arise in the love-desire, and
 with this the abominate in the body may be resisted.
 
 70\. All other cures, which are administered raw and undigested <span
-id="fr_285"></span>[1](#fn_284) (as when one takes cold, and will resist
+id="fr_285"></span>[1](#fn_284.md) (as when one takes cold, and will resist
 heat, and so likewise heat to resist cold), are only an opposite fiery
 flagrat, whereby indeed the enkindled fire ceases from its powerful
 working, but the flagrat enters into death's anguish, and the root of
@@ -835,12 +835,12 @@ the cure may be freed from the abominate of the four elements, then the
 astrum falls also into the good part, and introduces its desire
 thereinto, and so the body is also freed from the abominate of the
 astrum; for the Scripture says, that " the whole creature <span
-id="fr_286"></span>[2](#fn_285) longeth together with us to be freed
+id="fr_286"></span>[2](#fn_285.md) longeth together with us to be freed
 from the vanity: "Now the curse of the earth, wherein the astrum injects
 its desire, is the vanity; and if it tastes a pure life in itself, then
 it also rejoices therein, and casts forth the abominate.
 
-72\. Every abominate <span id="fr_287"></span>[3](#fn_286) of the oily
+72\. Every abominate <span id="fr_287"></span>[3](#fn_286.md) of the oily
 life arises from the inward Mercury in the inward Sulphur; for sin also
 does hence take its original, that the poisonful Mercury (which is a
 cause of the life) does in the fire-flash in the original of the
@@ -850,7 +850,7 @@ for even there is the original of the poison-life.
 <span id="page_194">p. 194</span>
 
 73\. Every life which will be without spot, <span
-id="fr_288"></span>[1](#fn_287) must die in the will-spirit to nature in
+id="fr_288"></span>[1](#fn_287.md) must die in the will-spirit to nature in
 the fire of the abominate to the first impression of the wrath, and must
 give itself forth, in the will-spirit to nature, as a resigned will
 through the mortification in the light of love: Let it be either
@@ -879,7 +879,7 @@ the same receives no abominate, let it be either in vegetables or
 animals; but whatever enters in itself into its self-hood, viz. into its
 own lubet, the same receives, in passing through the degrees, the
 abominate; for each form of nature out of <span
-id="fr_289"></span>[2](#fn_288) the mystery receives of its property in
+id="fr_289"></span>[2](#fn_288.md) the mystery receives of its property in
 its hunger, and therein it is not annoyed or molested, for it is of
 their property.
 
@@ -890,7 +890,7 @@ abominate and turba born; for this will is entered contrary to the
 course of nature into a strange essence, which is not of its property;
 this strange essence domineers now in the strange will, and overcomes
 the will; now the will must either cast it out, <span
-id="fr_290"></span>[3](#fn_289) or else it will itself be cast out by
+id="fr_290"></span>[3](#fn_289.md) or else it will itself be cast out by
 the strange essence; and seeing this also cannot be, thereupon arises
 anger and enmity.
 
@@ -909,81 +909,81 @@ devoration, into the house of misery.
 
 ### Footnotes
 
-<span id="fn_258"></span>[176:1](sat18.htm#fr_258) Or what it is.
+<span id="fn_258"></span>[176:1](sat18.htm#fr_258.md) Or what it is.
 
-<span id="fn_259"></span>[177:1](sat18.htm#fr_259) Mirror.
+<span id="fn_259"></span>[177:1](sat18.htm#fr_259.md) Mirror.
 
-<span id="fn_260"></span>[178:1](sat18.htm#fr_260) Or figures.
+<span id="fn_260"></span>[178:1](sat18.htm#fr_260.md) Or figures.
 
-<span id="fn_261"></span>[178:2](sat18.htm#fr_261) Or attraction.
+<span id="fn_261"></span>[178:2](sat18.htm#fr_261.md) Or attraction.
 
-<span id="fn_262"></span>[178:3](sat18.htm#fr_262) The flowing, or
+<span id="fn_262"></span>[178:3](sat18.htm#fr_262.md) The flowing, or
 proceeding forth.
 
-<span id="fn_263"></span>[178:4](sat18.htm#fr_263) Or fair complexion.
+<span id="fn_263"></span>[178:4](sat18.htm#fr_263.md) Or fair complexion.
 
-<span id="fn_264"></span>[179:1](sat18.htm#fr_264) Orb, or rotation.
+<span id="fn_264"></span>[179:1](sat18.htm#fr_264.md) Orb, or rotation.
 
-<span id="fn_265"></span>[179:2](sat18.htm#fr_265) Or he.
+<span id="fn_265"></span>[179:2](sat18.htm#fr_265.md) Or he.
 
-<span id="fn_266"></span>[180:1](sat18.htm#fr_266) Or noise.
+<span id="fn_266"></span>[180:1](sat18.htm#fr_266.md) Or noise.
 
-<span id="fn_267"></span>[180:2](sat18.htm#fr_267) Or the first
+<span id="fn_267"></span>[180:2](sat18.htm#fr_267.md) Or the first
 property.
 
-<span id="fn_268"></span>[180:3](sat18.htm#fr_268) Or the sting in the
+<span id="fn_268"></span>[180:3](sat18.htm#fr_268.md) Or the sting in the
 hardness, viz. the hardness itself.
 
-<span id="fn_269"></span>[180:4](sat18.htm#fr_269) Understand the mother
+<span id="fn_269"></span>[180:4](sat18.htm#fr_269.md) Understand the mother
 of Sulphur.
 
-<span id="fn_270"></span>[181:1](sat18.htm#fr_270) Prima materia.
+<span id="fn_270"></span>[181:1](sat18.htm#fr_270.md) Prima materia.
 
-<span id="fn_271"></span>[182:1](sat18.htm#fr_271) Or opposite to the
+<span id="fn_271"></span>[182:1](sat18.htm#fr_271.md) Or opposite to the
 dark desire, or dark impression, which is after the light's desire.
 
-<span id="fn_272"></span>[182:2](sat18.htm#fr_272) Or without any
+<span id="fn_272"></span>[182:2](sat18.htm#fr_272.md) Or without any
 ground.
 
-<span id="fn_273"></span>[183:1](sat18.htm#fr_273) Or reached.
+<span id="fn_273"></span>[183:1](sat18.htm#fr_273.md) Or reached.
 
-<span id="fn_274"></span>[183:2](sat18.htm#fr_274) Becomes impotent.
+<span id="fn_274"></span>[183:2](sat18.htm#fr_274.md) Becomes impotent.
 
-<span id="fn_275"></span>[183:3](sat18.htm#fr_275) The *caput mortuum*.
+<span id="fn_275"></span>[183:3](sat18.htm#fr_275.md) The *caput mortuum*.
 
-<span id="fn_276"></span>[185:1](sat18.htm#fr_276) Law, or appointment.
+<span id="fn_276"></span>[185:1](sat18.htm#fr_276.md) Law, or appointment.
 
-<span id="fn_277"></span>[185:2](sat18.htm#fr_277) Or in a creaturely
+<span id="fn_277"></span>[185:2](sat18.htm#fr_277.md) Or in a creaturely
 manner.
 
-<span id="fn_278"></span>[185:3](sat18.htm#fr_278) Or genuine property.
+<span id="fn_278"></span>[185:3](sat18.htm#fr_278.md) Or genuine property.
 
-<span id="fn_279"></span>[186:1](sat18.htm#fr_279) Or fly from thence as
+<span id="fn_279"></span>[186:1](sat18.htm#fr_279.md) Or fly from thence as
 a smoke.
 
-<span id="fn_280"></span>[188:1](sat18.htm#fr_281) Seething.
+<span id="fn_280"></span>[188:1](sat18.htm#fr_281.md) Seething.
 
-<span id="fn_281"></span>[189:1](sat18.htm#fr_282) Or as to its inward
+<span id="fn_281"></span>[189:1](sat18.htm#fr_282.md) Or as to its inward
 motion.
 
-<span id="fn_282"></span>[190:1](sat18.htm#fr_283) Or seethe.
+<span id="fn_282"></span>[190:1](sat18.htm#fr_283.md) Or seethe.
 
-<span id="fn_283"></span>[192:1](sat18.htm#fr_284) Nauseate,
+<span id="fn_283"></span>[192:1](sat18.htm#fr_284.md) Nauseate,
 abomination.
 
-<span id="fn_284"></span>[193:1](sat18.htm#fr_285) Unregenerated.
+<span id="fn_284"></span>[193:1](sat18.htm#fr_285.md) Unregenerated.
 
-<span id="fn_285"></span>[193:2](sat18.htm#fr_286) Or all creatures.
+<span id="fn_285"></span>[193:2](sat18.htm#fr_286.md) Or all creatures.
 
-<span id="fn_286"></span>[193:3](sat18.htm#fr_287) Nauseate, or
+<span id="fn_286"></span>[193:3](sat18.htm#fr_287.md) Nauseate, or
 loathsomeness.
 
-<span id="fn_287"></span>[194:1](sat18.htm#fr_288) Entire.
+<span id="fn_287"></span>[194:1](sat18.htm#fr_288.md) Entire.
 
-<span id="fn_288"></span>[194:2](sat18.htm#fr_289) Or proceeding from.
+<span id="fn_288"></span>[194:2](sat18.htm#fr_289.md) Or proceeding from.
 
-<span id="fn_289"></span>[194:3](sat18.htm#fr_290) Text, spew out.
+<span id="fn_289"></span>[194:3](sat18.htm#fr_290.md) Text, spew out.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XV](sat19)
+[Next: Chapter XV](sat19.md)

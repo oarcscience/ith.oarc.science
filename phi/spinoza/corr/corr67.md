@@ -1,16 +1,16 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Philosophy](../../index)  [Spinoza](../index)  [Index](index) 
-[Previous](corr66)  [Next](corr68) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Philosophy](../../index)  [Spinoza](../index)  [Index](index.md) 
+[Previous](corr66)  [Next](corr68.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/048620250X/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](../tnspin.jpg)](index)  
+[![](../tnspin.jpg)](index.md)  
 *Correspondence*, by Benedict de Spinoza, \[1883\], at Intangible
 Textual Heritage
 
@@ -31,7 +31,7 @@ Amsterdam, 14 Nov., 1675.
 
 <span class="smallcaps">Most learned and excellent Master, my most
 venerable Patron</span>,—I hope that you duly received my letter with
-——'s method, <span id="fr_73"></span>[1](#fn_72) and likewise, that you
+——'s method, <span id="fr_73"></span>[1](#fn_72.md) and likewise, that you
 are up to the present time in good health, as I am.
 
 But for three months I had no letter from our friend von Tschirnhausen,
@@ -60,9 +60,9 @@ which I wrote at the Master's
 
 <span id="page_403">p. 403</span>
 
-dictation, <span id="fr_74"></span>[1](#fn_73) explained to him your
+dictation, <span id="fr_74"></span>[1](#fn_73.md) explained to him your
 meaning more thoroughly, and that he has favourably entertained the said
-reasonings (for by these two methods <span id="fr_75"></span>[2](#fn_74)
+reasonings (for by these two methods <span id="fr_75"></span>[2](#fn_74.md)
 they best admit of explanation). But two reasons have obliged him to
 continue in the opinion implied in his recent objection. Of these the
 first is, that otherwise there appears to be a contradiction between the
@@ -112,7 +112,7 @@ receiving your answers I shall be able to reply to our friend von
 Tschirnhausen, which I would gladly do on Tuesday evening, unless
 important hindrances cause my Master to delay.
 
-Mr. Bresser, <span id="fr_76"></span>[1](#fn_75) on his return from
+Mr. Bresser, <span id="fr_76"></span>[1](#fn_75.md) on his return from
 Cleves, has sent here a large quantity of the beer of that country; I
 suggested to him that he should make a present to the Master of half a
 tun, which he promised to do, and added a most friendly greeting.
@@ -128,18 +128,18 @@ G. H. SCHALLER.
 
 ### Footnotes
 
-<span id="fn_72"></span>[402:1](corr67.htm#fr_73) See the next Letter.
+<span id="fn_72"></span>[402:1](corr67.htm#fr_73.md) See the next Letter.
 
-<span id="fn_73"></span>[403:1](corr67.htm#fr_74) Letter LXVIII.
+<span id="fn_73"></span>[403:1](corr67.htm#fr_74.md) Letter LXVIII.
 
-<span id="fn_74"></span>[403:2](corr67.htm#fr_75) That is, I think,
+<span id="fn_74"></span>[403:2](corr67.htm#fr_75.md) That is, I think,
 hearing from the author criticized what his precise meaning is, and
 attending carefully to his arguments in favour of the opinion thus
 precisely ascertained.—\[<span class="smallcaps">Tr</span>.\]
 
-<span id="fn_75"></span>[404:1](corr67.htm#fr_76) See Letters XLI.A,
+<span id="fn_75"></span>[404:1](corr67.htm#fr_76.md) See Letters XLI.A,
 XLII.
 
 ------------------------------------------------------------------------
 
-[Next: Letter LXVIII.B. To Schaller](corr68)
+[Next: Letter LXVIII.B. To Schaller](corr68.md)

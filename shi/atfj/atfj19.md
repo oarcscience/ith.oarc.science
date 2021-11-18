@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Japan](../index) 
-[Index](index)  [Previous](atfj18)  [Next](atfj20) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Japan](../index.md) 
+[Index](index)  [Previous](atfj18)  [Next](atfj20.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Ancient Tales and Folk-lore of Japan*, by Richard Gordon Smith,
 \[1918\], at Intangible Textual Heritage
 
@@ -18,7 +18,7 @@
 
 <span id="img_20"></span> <span align="CENTER"> [![20. O Tokoyo Sees the
 Girl About to be Thrown Over Cliff](tn/20.jpg)  
-Click to enlarge](img/20.jpg)  
+Click to enlarge](img/20.jpg.md)  
 20. O Tokoyo Sees the Girl About to be Thrown Over Cliff  
 </span>
 
@@ -58,7 +58,7 @@ had consequently found himself banished to one of the islands of the Oki
 group which was then known as Kamishima (Holy Island). So the relater of
 the story tells me; but I doubt his geographical statement, and think
 the island must have been Nishi-no-shima (Island of the West, or West
-Island <span id="fr_28"></span>[1](#fn_28)).
+Island <span id="fr_28"></span>[1](#fn_28).md).
 
 Oribe had a beautiful daughter, aged eighteen, of whom he was as fond as
 she was of him, and consequently the banishment and separation rendered
@@ -202,7 +202,7 @@ thing, a luminous phosphorescent
 
 <span id="img_21"></span> <span align="CENTER"> [![21. O Tokoyo sees
 Yofuné-Nushi Coming Towards Her](tn/21.jpg)  
-Click to enlarge](img/21.jpg)  
+Click to enlarge](img/21.jpg.md)  
 21. O Tokoyo sees Yofuné-Nushi Coming Towards Her  
 </span>
 
@@ -302,7 +302,7 @@ resting-place at Honsoji, in Kamakura.
 
 ### Footnotes
 
-<span id="fn_28"></span>[102:1](atfj19.htm#fr_28) Since writing this, I
+<span id="fn_28"></span>[102:1](atfj19.htm#fr_28.md) Since writing this, I
 have found that there is a very small island, called Kamishima, between
 the two main islands of the Oki Archipelago, south-west of the eastern
 island.
@@ -311,6 +311,6 @@ island.
 
 ------------------------------------------------------------------------
 
-[Next: XVIII. Cape of the Woman's Sword](atfj20)
+[Next: XVIII. Cape of the Woman's Sword](atfj20.md)
 
 </div>

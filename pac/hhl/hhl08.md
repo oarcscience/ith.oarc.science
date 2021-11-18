@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Pacific](../index) 
-[Index](index)  [Previous](hhl07)  [Next](hhl09) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Pacific](../index.md) 
+[Index](index)  [Previous](hhl07)  [Next](hhl09.md) 
 
 ------------------------------------------------------------------------
 
@@ -158,4 +158,4 @@ among the Vikings of the Pacific.
 
 ------------------------------------------------------------------------
 
-[Next: V. Legendary Home of the Polynesians](hhl09)
+[Next: V. Legendary Home of the Polynesians](hhl09.md)

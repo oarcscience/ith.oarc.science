@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac66) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac66.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ huano; Inodes japa, Standl.
 <span id="img_16200"></span>
 
 [![](tn/16200.jpg)  
-Click to enlarge](img/16200.jpg)
+Click to enlarge](img/16200.jpg.md)
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -149,7 +149,7 @@ apostrophe, as **p’** **t’** **ch’** **tz’**, are preceded by a muscular
 tension and then sounded explosively, the usual technical term being
 'glottal stop.' Thus **tz’** sounds to the English ear as if it were
 **dz**, and is usually so written in Yucatan, as in the town **Dzitás**,
-near [Chichén](errata.htm#10) Itzá. The Mayance languages lack our
+near [Chichén](errata.htm#10.md) Itzá. The Mayance languages lack our
 'sonants' **d**, hard **g**, **j**, **z**, as also **f**; Yucatecan Maya
 also lacks the **r**. Double vowels are to be sounded as such, with
 accent on the first.

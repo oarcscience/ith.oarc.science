@@ -1,15 +1,15 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Buddhism](../index) 
-[Index](index)  [Previous](sahw04)  [Next](sahw06) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Buddhism](../index.md) 
+[Index](index)  [Previous](sahw04)  [Next](sahw06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/1428600353/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Shinran and His Work*, by Arthur Lloyd, \[1910\], at Intangible Textual
 Heritage
 
@@ -25,7 +25,7 @@ Heritage
 
 Shinran Shōnin, to give him the name by which he was called during the
 greater part of his life, and by which he is still mostly known, <span
-id="fr_19"></span>[\*](#fn_19) was born in the year 1173 A.D., in the
+id="fr_19"></span>[\*](#fn_19.md) was born in the year 1173 A.D., in the
 third year of Shōan, on the first day of the fourth month, a date not to
 be confounded with the first of April of our reformed, Western,
 calendar. Through his father, Hino Arinori, a high official in the court
@@ -74,7 +74,7 @@ refusing to accept his recall, had murdered an Imperial envoy and set up
 a rebellion, which was, after some time, put down with a strong hand by
 Taira Masanori. After his defeat, he fled to the north, where he became
 a monk, but, coming back once more as a rebel into the wicked world, was
-captured and put to death (1187). <span id="fr_20"></span>[\*](#fn_20)
+captured and put to death (1187). <span id="fr_20"></span>[\*](#fn_20.md)
 
 Thus, on both sides, Shinran was connected with traditions hostile to
 the Taira family, and more so, perhaps, to the predominating Tendai
@@ -84,7 +84,7 @@ of Yoshichika had her own version of her father's life to pour into the
 receptive ear of her young son. The orphan was taken up by his
 relatives. "He was adopted and nourished by his father's elder brother
 Noritsuna," says a Japanese biographer, <span
-id="fr_21"></span>[†](#fn_21)" and he learned [the](errata.htm#0)
+id="fr_21"></span>[†](#fn_21)" and he learned [the](errata.htm#0.md)
 Confucian doctrines from his father's younger brother Munenari … From an
 early age he entertained a desire of leaving the world and seeking the
 priesthood."
@@ -112,7 +112,7 @@ looking for a simpler creed, and a more spiritual devotion. Already in
 itinerant preacher in order that he might win men to trust in, and
 invocation of Amida's name. Already in 1017, the gentle Genshin, whom
 the Shinshu revere as one of the great Patriarchs of Amidaism, <span
-id="fr_22"></span>[\*](#fn_22) had retired from Hieizan to Yokogawa,
+id="fr_22"></span>[\*](#fn_22.md) had retired from Hieizan to Yokogawa,
 where he had taught the Faith in the Buddhist Saviour to a select band
 of disciples. A civil war of monks broke out in 1041, which must have
 made spiritual or religious
@@ -127,14 +127,14 @@ turbulent waters of the Kamo river, or regulate the cast of the dice. In
 1124, Ryonen Shōnin had his vision of Amida, which told him to clear out
 of Hieizan as a den of thieves, and found a sect which should have but
 one ceremony for all men,—the Invocation of Amida's name. <span
-id="fr_23"></span>[\*](#fn_23) Fifty years later, in 1174, Genkū, better
+id="fr_23"></span>[\*](#fn_23.md) Fifty years later, in 1174, Genkū, better
 known as Hōnen Shōnin, the Japanese St. Francis, had founded a sect now
 known as the *Jōdo*, which was a revolt against the complexity of Tendai
 doctrine and the unspirituality of the Tendai life. Mongaku Shōnin
 (1186) can scarcely be reckoned among religious reformers, but the first
 year of the thirteenth century saw the foundation in Japan of the Zen
 sects which, like the Jōdo, carne out from Hieizan. <span
-id="fr_24"></span>[†](#fn_24) The orphan Shinran fell into the midst of
+id="fr_24"></span>[†](#fn_24.md) The orphan Shinran fell into the midst of
 a whirlwind of unrest, and was caught by it.
 
 Shinran's progress, whilst he remained in the Tendai fold, seems to have
@@ -181,12 +181,12 @@ also worship Amida, though not with the exclusive devotion of the Jōdo
 sects), the ideal Buddha, the Father of all, who desires that all men
 should be saved, has two special qualities—Mercy and Wisdom. These two
 qualities take visible forms and show themselves to men, the one in
-Avalokites’vara or Kwannon <span id="fr_25"></span>[\*](#fn_25) (his
+Avalokites’vara or Kwannon <span id="fr_25"></span>[\*](#fn_25.md) (his
 *son*), who is the Embodiment of his Compassion, capable of
 manifestation in many forms and shapes for purposes of practical
 succour, the other in Seishi (Skt. Mahāsthātnaprāpta), of whom I have
 never read that he was ever manifested in fleshly form, <span
-id="fr_26"></span>[†](#fn_26) but who is considered to be the spiritual
+id="fr_26"></span>[†](#fn_26.md) but who is considered to be the spiritual
 manifestation of the Wisdom of God. The Three, therefore, are at once
 distinct in Person, and one in Essence, and bear a striking resemblance
 to the Unity of Three Persons in our Christian Trinity. There is an
@@ -264,7 +264,7 @@ Salvation by Faith in Amida, also proclaimed that if a man be saved by
 Faith only, and not by works at all, he must let no man judge him in the
 matter of meats and drinks, of marriage or celibacy, because these
 things fall at once into insignificance when compared with the far
-greater principles now at stake. <span id="fr_27"></span>[\*](#fn_27)
+greater principles now at stake. <span id="fr_27"></span>[\*](#fn_27.md)
 
 But before Shinran's Sect came into definite existence, he was called
 upon to suffer.
@@ -283,7 +283,7 @@ Sanuki. Shinran shared his
 
 teacher's fate, being banished to Echigo, and for the moment it seemed
 that the Jōdo movement had been entirely suppressed. <span
-id="fr_28"></span>[\*](#fn_28)
+id="fr_28"></span>[\*](#fn_28.md)
 
 In 1211, on the accession of Juntoku, Shinran was recalled and pardoned.
 Genkū was also recalled, but he was an old man now and worn out by his
@@ -316,9 +316,9 @@ Temple.
 
 Some time afterwards (1227) we find him at Inada in Hitachi, writing and
 preaching: the next year he is laying the foundations of his faith in
-[the](errata.htm#1) modern prefectures of Nagano and Niigata, still the
+[the](errata.htm#1.md) modern prefectures of Nagano and Niigata, still the
 great strong-holds of his followers. <span
-id="fr_29"></span>[\*](#fn_29) We next find him at Takata in Shimotsuke,
+id="fr_29"></span>[\*](#fn_29.md) We next find him at Takata in Shimotsuke,
 founding a Temple for which the Emperor Go-Horikawa gives him an
 autograph inscription on a wooden tablet. In 1232, he is at Kamakura
 examining a newly made edition of the voluminous library of the Mahāyāna
@@ -334,7 +334,7 @@ best be estimated by the examination of his teachings.
 
 ### Footnotes
 
-<span id="fn_19"></span>[15:\*](sahw05.htm#fr_19) Shinran's name was
+<span id="fn_19"></span>[15:\*](sahw05.htm#fr_19.md) Shinran's name was
 originally Zenshin. When about 28 years of age he changed his name to
 Shakhū, but after a year or two went back to his original name. His name
 of Shinran was assumed when he formally began his Apostolate. He
@@ -343,37 +343,37 @@ Decree conferred on him the posthumous title of Kenshin Daishi (the
 Great Teacher who had the Vision of Truth), and this is still his
 official designation.
 
-<span id="fn_20"></span>[17:\*](sahw05.htm#fr_20) There is another
+<span id="fn_20"></span>[17:\*](sahw05.htm#fr_20.md) There is another
 account which says that Kikkōjo, who was married at the age of fifteen,
 was the daughter of Michichika Minamoto, the Rokujō Kurando, 1149–1202,
 an active minister under seven consecutive Emperors, whose daughter was
 the wife of the Emperor of Go-Toba and mother of the Emperor
 Tsuchimikado.
 
-<span id="fn_21"></span>[17:†](sahw05.htm#fr_21) Bukkyō Kakuha Kōyō,
+<span id="fn_21"></span>[17:†](sahw05.htm#fr_21.md) Bukkyō Kakuha Kōyō,
 vol. v.
 
-<span id="fn_22"></span>[18:\*](sahw05.htm#fr_22) See my translation of
+<span id="fn_22"></span>[18:\*](sahw05.htm#fr_22.md) See my translation of
 *Shōshinge* in chapter V.
 
-<span id="fn_23"></span>[19:\*](sahw05.htm#fr_23) This is the
+<span id="fn_23"></span>[19:\*](sahw05.htm#fr_23.md) This is the
 *Yūzūnembutsu* sect, still extant.
 
-<span id="fn_24"></span>[19:†](sahw05.htm#fr_24) I have taken these
+<span id="fn_24"></span>[19:†](sahw05.htm#fr_24.md) I have taken these
 dates from Haas, *Annalen d. japanischen Buddhism's*, vol. xi. p. 3. of
 Transactions of German As. Society of Japan.
 
-<span id="fn_25"></span>[21:\*](sahw05.htm#fr_25) It is a mistake to
+<span id="fn_25"></span>[21:\*](sahw05.htm#fr_25.md) It is a mistake to
 speak of *Kwannon* as a female deity. Kwannon is the son of Amitābha,
 capable of appearing in many forms, male or female, human or animal,
 according to circumstances. But he is never manifested except as a means
 of practically demonstrating the Divine compassion for a suffering
 creation.
 
-<span id="fn_26"></span>[21:†](sahw05.htm#fr_26) Certain apparent
+<span id="fn_26"></span>[21:†](sahw05.htm#fr_26.md) Certain apparent
 exceptions to this statement will be considered later.
 
-<span id="fn_27"></span>[24:\*](sahw05.htm#fr_27) We can also see the
+<span id="fn_27"></span>[24:\*](sahw05.htm#fr_27.md) We can also see the
 grounds on which the Shinshu theologians take their stand, when they say
 that they, and not the Jōdo, are the true followers of Genkū. For,
 apparently, in overthrowing the compulsory celibacy of priests and the
@@ -381,12 +381,12 @@ disciplinary laws against meat-eating, Shinran was acting in perfect
 conformity with the instructions of his teacher. Genkū, at Kanezane's
 instigation, set forth his doctrines in a book entitled Senjakushu.
 
-<span id="fn_28"></span>[25:\*](sahw05.htm#fr_28) Kanezane had by this
+<span id="fn_28"></span>[25:\*](sahw05.htm#fr_28.md) Kanezane had by this
 time himself entered the Order of monks. He joined the Zen sect, with
 the introduction of which he had a great deal to do. (Others say he
 joined the Tendai.)
 
-<span id="fn_29"></span>[26:\*](sahw05.htm#fr_29) In one Dr. Murakami's
+<span id="fn_29"></span>[26:\*](sahw05.htm#fr_29.md) In one Dr. Murakami's
 magazines I have seen a series of articles horn his pen, describing his
 childhood in a "parsonage" in one of the Shinshu villages in Echigo.
 Allowing for the differences in the surroundings, these papers reveal an
@@ -396,4 +396,4 @@ not above working with his own hands at the cultivation of the glebe.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. The Shinshu after Shinran's death.](sahw06)
+[Next: Chapter IV. The Shinshu after Shinran's death.](sahw06.md)

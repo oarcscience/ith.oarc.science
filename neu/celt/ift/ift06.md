@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](ift05)  [Next](ift07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](ift05)  [Next](ift07.md) 
 
 ------------------------------------------------------------------------
 
@@ -462,4 +462,4 @@ Fianna-Finn out with him.
 
 ------------------------------------------------------------------------
 
-[Next: The Carl of the Drab Coat](ift07)
+[Next: The Carl of the Drab Coat](ift07.md)

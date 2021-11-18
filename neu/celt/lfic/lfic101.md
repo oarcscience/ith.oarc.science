@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](lfic100)  [Next](lfic102) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](lfic100)  [Next](lfic102.md) 
 
 ------------------------------------------------------------------------
 
@@ -79,4 +79,4 @@ Brigid, Patrick, and pious Columba."
 
 ------------------------------------------------------------------------
 
-[Next: St Brigid's Cloak](lfic102)
+[Next: St Brigid's Cloak](lfic102.md)

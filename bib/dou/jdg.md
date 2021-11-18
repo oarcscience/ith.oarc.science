@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Bible](../index)  [English
-Bibles](../eb)  [Index](index)  [Previous](jos)  [Next](rut) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Bible](../index.md)  [English
+Bibles](../eb)  [Index](index)  [Previous](jos)  [Next](rut.md) 
 
 ------------------------------------------------------------------------
 
@@ -2563,4 +2563,4 @@ no king in Israel: but every one did that which seemed right to himself.
 
 ------------------------------------------------------------------------
 
-[Next: Ruth](rut)
+[Next: Ruth](rut.md)

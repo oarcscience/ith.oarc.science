@@ -1,11 +1,11 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](ttb38)  [Next](ttb40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](ttb38)  [Next](ttb40.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *The Thunder Bird Tootooch Legends*, by W.L. Webber, \[1936\], at
 Intangible Textual Heritage
 
@@ -13,7 +13,7 @@ Intangible Textual Heritage
 
 <span id="page_52">p. 52</span>
 
-<span id="img_05200"></span> ![Maht-Maht, The Duck](img/05200.jpg)
+<span id="img_05200"></span> ![Maht-Maht, The Duck](img/05200.jpg.md)
 
 ### Maht-Maht, THE DUCK
 
@@ -45,4 +45,4 @@ in the woven grass baskets and mats of Vancouver Island.
 
 ------------------------------------------------------------------------
 
-[Next: Qa-Yel, The Great Raven](ttb40)
+[Next: Qa-Yel, The Great Raven](ttb40.md)

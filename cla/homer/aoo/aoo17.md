@@ -1,6 +1,6 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Homer](../index)  [Index](index)  [Previous](aoo16)  [Next](aoo18) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Homer](../index)  [Index](index)  [Previous](aoo16)  [Next](aoo18.md) 
 
 ------------------------------------------------------------------------
 
@@ -84,4 +84,4 @@ slay--Hector, his son, the protector of his City.’
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XVIII](aoo18)
+[Next: Chapter XVIII](aoo18.md)

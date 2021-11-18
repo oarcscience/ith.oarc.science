@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Classics](../index) 
-[Index](index)  [Previous](sph59)  [Next](sph61) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Classics](../index.md) 
+[Index](index)  [Previous](sph59)  [Next](sph61.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 Κατθνάσκει Κυθέρἠ, ἄβροσ Ἄδωνισ, τί κε θεῖμεν,  
 Καττύπτεσθε κόραι καὶ κατερείκεσθε
-χίτωνασ. [\[transcription\]](xlatall.htm#81)
+χίτωνασ. [\[transcription\]](xlatall.htm#81.md)
 
 Gentle Adonis is dying, O Cythera, what shall we do?  
 Beat your breasts, O maidens, and rend your garments.
@@ -26,4 +26,4 @@ remarkable.
 
 ------------------------------------------------------------------------
 
-[Next: 60: O for Adonis.](sph61)
+[Next: 60: O for Adonis.](sph61.md)

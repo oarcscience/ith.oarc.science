@@ -1,5 +1,5 @@
-[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index) 
-[Previous](antimony)  [Next](emerald) 
+[Sacred-Texts](../index)  [Esoteric](../eso/index)  [Index](index.md) 
+[Previous](antimony)  [Next](emerald.md) 
 
 ------------------------------------------------------------------------
 
@@ -1450,6 +1450,6 @@ mercury, salt, Anima, Spirit, Corpus.
 
 ------------------------------------------------------------------------
 
-[Next: Emerald Tablet of Hermes](emerald)
+[Next: Emerald Tablet of Hermes](emerald.md)
 
   

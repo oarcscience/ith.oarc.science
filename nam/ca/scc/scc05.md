@@ -1,6 +1,6 @@
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Native California](../index)  [Index](index) 
-[Previous](scc04)  [Next](scc06) 
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Native California](../index)  [Index](index.md) 
+[Previous](scc04)  [Next](scc06.md) 
 
 ------------------------------------------------------------------------
 
@@ -20,4 +20,4 @@ defecating." Then Coyote let him out and the hummingbird flew up crying:
 
 ------------------------------------------------------------------------
 
-[Next: 4.--Rumsien Costanoan. Coyote And His Wife.](scc06)
+[Next: 4.--Rumsien Costanoan. Coyote And His Wife.](scc06.md)

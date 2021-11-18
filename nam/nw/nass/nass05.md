@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Northwest](../index)  [Index](index) 
-[Previous](nass04)  [Next](nass06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Northwest](../index)  [Index](index.md) 
+[Previous](nass04)  [Next](nass06.md) 
 
 ------------------------------------------------------------------------
 
@@ -563,4 +563,4 @@ making a small blanket out of it, which he put on.
 
 ------------------------------------------------------------------------
 
-[Next: The Stone and the Elderberry Bush](nass06)
+[Next: The Stone and the Elderberry Bush](nass06.md)

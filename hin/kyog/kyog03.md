@@ -1,14 +1,14 @@
 <div class="filenav">
 
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
-[Index](index)  [Previous](kyog02)  [Next](kyog04) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
+[Index](index)  [Previous](kyog02)  [Next](kyog04.md) 
 
 </div>
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Karma-Yoga*, by Swami Vivekananda, \[1921\], at Intangible Textual
 Heritage
 
@@ -367,6 +367,6 @@ renunciation.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter IV. What is Duty?](kyog04)
+[Next: Chapter IV. What is Duty?](kyog04.md)
 
 </div>

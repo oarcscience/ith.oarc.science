@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index) 
-[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](cml04)  [Next](cml06) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md) 
+[Legends/Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](cml04)  [Next](cml06.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0809531534/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -72,12 +72,12 @@ that the fount of primeval poetry issuing from Scandinavian and Teutonic
 myth was truly our own, and that we were rightful heirs of it by reason
 of the Anglo-Saxon in our blood. And so, indeed, we are; but it is not
 our sole heritage. There must also run much Celtic--that is, truly
-British--blood in our veins. <span id="fr_0"></span>[1](#fn_0) And
+British--blood in our veins. <span id="fr_0"></span>[1](#fn_0.md) And
 Matthew Arnold was probably right in asserting that, while we owe to the
 Anglo-Saxon the more practical qualities that have built up the British
 Empire, we have inherited from the Celtic side that poetic vision which
 has made English literature the most brilliant since the Greek. <span
-id="fr_1"></span>[2](#fn_1)
+id="fr_1"></span>[2](#fn_1.md)
 
 We have the right, therefore, to enter upon a new spiritual possession.
 And a splendid one it is! The Celtic mythology has little of the heavy
@@ -109,7 +109,7 @@ not only is there scarcely a place that is not connected in some way
 with the traditionary exploits of the "Red Branch Champions", or of Finn
 and his mighty men, but the old deities are still remembered, dwarfed
 into fairies, but keeping the same attributes and the same names as of
-yore. Wordsworth's complaint <span id="fr_2"></span>[1](#fn_2)
+yore. Wordsworth's complaint <span id="fr_2"></span>[1](#fn_2.md)
 
 <span id="page_5">p. 5</span>
 
@@ -174,7 +174,7 @@ of Gwyn ap Nudd, who rode as Sir Guyon in the 'Fairie Queene'--
 
 And knighthood took of good Sir Huon's hand,  
 When with King Oberon he came to Fairyland'." <span
-id="fr_3"></span>[1](#fn_3)
+id="fr_3"></span>[1](#fn_3.md)
 
 To trace Welsh and Irish kings and saints and hermits back to "the
 elemental powers of earth and fire, and the spirits that haunted the
@@ -197,7 +197,7 @@ The answer to his question will be found in the next chapter.
 
 ### Footnotes
 
-<span id="fn_0"></span>[3:1](cml05.htm#fr_0) "There is good ground to
+<span id="fn_0"></span>[3:1](cml05.htm#fr_0.md) "There is good ground to
 believe", writes Mr. E. W. B, Nicholson, M.A., the librarian of the
 Bodleian Library, in the preface to his recently-published *Keltic
 Researches*, "that Lancashire, West Yorkshire, Staffordshire,
@@ -211,16 +211,16 @@ level with South Wales and Ulster. Cornwall, of course, is more Keltic
 than any other English county, and as much so as Argyll.
 Inverness-shire, or Connaught."
 
-<span id="fn_1"></span>[3:2](cml05.htm#fr_1) *The Study of Celtic
+<span id="fn_1"></span>[3:2](cml05.htm#fr_1.md) *The Study of Celtic
 Literature*.
 
-<span id="fn_2"></span>[4:1](cml05.htm#fr_2) In a sonnet written in
+<span id="fn_2"></span>[4:1](cml05.htm#fr_2.md) In a sonnet written in
 1801.
 
-<span id="fn_3"></span>[7:1](cml05.htm#fr_3) Elton: *Origins of English
+<span id="fn_3"></span>[7:1](cml05.htm#fr_3.md) Elton: *Origins of English
 History*, chap. x.
 
 ------------------------------------------------------------------------
 
 [Next: Chapter II. The Sources of Our Knowledge of the Celtic
-Mythology](cml06)
+Mythology](cml06.md)

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Legends &
-Sagas](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](saw05)  [Next](saw07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Legends &
+Sagas](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](saw05)  [Next](saw07.md) 
 
 ------------------------------------------------------------------------
 
@@ -473,4 +473,4 @@ God may bring us to the same joy his blessed soul returned to!
 
 ------------------------------------------------------------------------
 
-[Next: Notes](saw07)
+[Next: Notes](saw07.md)

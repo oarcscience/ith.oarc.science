@@ -1,8 +1,8 @@
 ## Le Morte d'Arthur BOOK IV CHAPTER XXII
 
-<span class="small">[Intangible Textual Heritage](../../index)  [Legends
-and Sagas](../index)  [Index](index)  [BOOK IV](book03) 
-[Previous](mart081)  [Next](mart083) </span>
+<span class="small">[Intangible Textual Heritage](../../index.md)  [Legends
+and Sagas](../index)  [Index](index)  [BOOK IV](book03.md) 
+[Previous](mart081)  [Next](mart083.md) </span>
 
 ------------------------------------------------------------------------
 

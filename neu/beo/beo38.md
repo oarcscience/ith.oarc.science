@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Sagas and
-Legends](../index)  [Index](index)  [Previous](beo37)  [Next](beo39) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index.md)  [Sagas and
+Legends](../index)  [Index](index)  [Previous](beo37)  [Next](beo39.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ for liegemen all than a life of shame!"
 
 ------------------------------------------------------------------------
 
-[Next: Part XL](beo39)
+[Next: Part XL](beo39.md)

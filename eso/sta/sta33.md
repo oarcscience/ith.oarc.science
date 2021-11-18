@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Esoteric](../index) 
-[Index](index)  [Previous](sta32)  [Next](sta34) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Esoteric](../index.md) 
+[Index](index)  [Previous](sta32)  [Next](sta34.md) 
 
 ------------------------------------------------------------------------
 
@@ -117,7 +117,7 @@ to write down for the sake of posterity the information
 <span id="img_13700"></span>
 
 [![THE GOLDEN AND ROSY CROSS.](tn/13700.jpg)  
-Click to enlarge](img/13700.jpg)  
+Click to enlarge](img/13700.jpg.md)  
 THE GOLDEN AND ROSY CROSS.  
 
 From *Geheime Figuren der Rosenkreuzer*.
@@ -296,7 +296,7 @@ religious or political power. This has greatly complicated
 <span id="img_13800"></span>
 
 [![THE CRUCIFIED ROSE.](tn/13800.jpg)  
-Click to enlarge](img/13800.jpg)  
+Click to enlarge](img/13800.jpg.md)  
 THE CRUCIFIED ROSE.  
 
 The original symbol of the Rosicrucian Fraternity was a hieroglyphic
@@ -471,7 +471,7 @@ the earmarks of Rosicrucian Qabbalism appears this
 <span id="img_13900"></span>
 
 [![THE ROSICRUCIAN ROSE.](tn/13900.jpg)  
-Click to enlarge](img/13900.jpg)  
+Click to enlarge](img/13900.jpg.md)  
 THE ROSICRUCIAN ROSE.  
 
 From *Geheime Figuren der Rosenkreuzer*.
@@ -548,7 +548,7 @@ fifteen years old, was he overshadowed in the preparation of that book?
 To these vital questions no answers are forthcoming. A number of persons
 accepted the magnificent imposture of Andreæ as absolute truth. It is
 maintained by many that, as a consequence, numerous
-[pseudo](errata.htm#11)-societies sprang up, each asserting that it was
+[pseudo](errata.htm#11.md)-societies sprang up, each asserting that it was
 the organization concerning which the *Fama Fraternitatis* and the
 *Confessio Fraternitatis* were written. Beyond doubt there are many
 spurious orders in existence today; but few of them can offer valid
@@ -667,7 +667,7 @@ the Rosicrucian Initiates as so advanced in the science of life that
 <span id="img_14000"></span>
 
 [![THE CREST OF JOHANN VALENTIN ANDREÆ.](tn/14000.jpg)  
-Click to enlarge](img/14000.jpg)  
+Click to enlarge](img/14000.jpg.md)  
 THE CREST OF JOHANN VALENTIN ANDREÆ.  
 
 From *Chymische Hochzeit*.
@@ -679,4 +679,4 @@ roses and a white cross.
 
 ------------------------------------------------------------------------
 
-[Next: Rosicrucian Doctrines and Tenets](sta34)
+[Next: Rosicrucian Doctrines and Tenets](sta34.md)

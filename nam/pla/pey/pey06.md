@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Plains](../index)  [Index](index) 
-[Previous](pey05)  [Next](pey07) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Plains](../index)  [Index](index.md) 
+[Previous](pey05)  [Next](pey07.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0803257104/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -143,7 +143,7 @@ had finished we sat down. Then the peyote was passed around. They gave
 me five. My brother-in-law said to me, "If you speak to this medicine
 (peyote), it will give you whatever you ask of it. Then you must pray to
 Earthmaker, and then you must eat the medicine."
-[However](errata.htm#0), I ate them (the peyote) immediately, for I did
+[However](errata.htm#0), I ate them (the peyote.md) immediately, for I did
 not know what to ask for and I did not know what to say in a prayer to
 Earthmaker (God). So I ate the peyote just as they were. They were very
 bitter and had a taste difficult to describe. I. wondered what would
@@ -590,4 +590,4 @@ Dance, and all the Indian customs.
 
 ------------------------------------------------------------------------
 
-[Next: J.B.'s Account of His Conversion](pey07)
+[Next: J.B.'s Account of His Conversion](pey07.md)

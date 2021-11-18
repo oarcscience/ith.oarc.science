@@ -1,12 +1,12 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Native
-American](../../index)  [Maya](../index)  [Index](index) 
-[Previous](ybac38)  [Next](ybac40) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Native
+American](../../index)  [Maya](../index)  [Index](index.md) 
+[Previous](ybac38)  [Next](ybac40.md) 
 
 ------------------------------------------------------------------------
 
 [Buy this Book at
-Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte)
+Amazon.com](https://www.amazon.com/exec/obidos/ASIN/0486236226/internetsacredte.md)
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ stone they had erected at the South. They chose a leading man of the
 town, at whose house was celebrated this fiesta on these days, and then
 they made a statue of a demon whom they called **Bolon-tz’acab**, which
 they set at the house of the principal, erected in a public spot to
-which all might come. <span id="fr_35"></span>[\*](#fn_35)
+which all might come. <span id="fr_35"></span>[\*](#fn_35.md)
 
 This being done, the chiefs, the priest and the men of the town,
 assembled and having the road clean and prepared, with arches and green
@@ -124,7 +124,7 @@ sacrifice.
 
 ### Footnotes
 
-<span id="fn_35"></span>[62:\*](ybac39.htm#fr_35) The illustration is a
+<span id="fn_35"></span>[62:\*](ybac39.htm#fr_35.md) The illustration is a
 page of the Dresden codex, showing the **Kan-uvayeyab** ceremonies at
 the East.
 
@@ -132,4 +132,4 @@ the East.
 
 [Next: XXXVI. Sacrifices for the New Year of the Character Muluc. Dances
 of the Stilt-Walkers. Dance of the Old Women With Terracotta
-Dogs](ybac40)
+Dogs](ybac40.md)

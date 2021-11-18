@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [Celtic](../index)  [Index](index) 
-[Previous](vbwi17)  [Next](vbwi19) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [Celtic](../index)  [Index](index.md) 
+[Previous](vbwi17)  [Next](vbwi19.md) 
 
 ------------------------------------------------------------------------
 
@@ -255,4 +255,4 @@ of days after she was dead.
 
 ------------------------------------------------------------------------
 
-[Next: Notes (W.B. Yeats)](vbwi19)
+[Next: Notes (W.B. Yeats)](vbwi19.md)

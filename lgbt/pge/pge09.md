@@ -1,7 +1,7 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [LGBT](../index) 
-[Classics](../../cla/index)  [Index](index)  [Previous](pge08) 
-[Next](pge10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [LGBT](../index.md) 
+[Classics](../../cla/index)  [Index](index)  [Previous](pge08.md) 
+[Next](pge10.md) 
 
 ------------------------------------------------------------------------
 
@@ -18,9 +18,9 @@ passion; nor had *Malachia*, effeminacy, a place in its vocabulary. At
 the same time it was exceedingly absorbing. "Half my life," says the
 lover, "lives in thine image, and the rest is lost. When thou art kind,
 I spend the day like a god; when thy face is turned aside, it is very
-dark with me." <span id="fr_11"></span>[2](#fn_11) Plato, in his
+dark with me." <span id="fr_11"></span>[2](#fn_11.md) Plato, in his
 celebrated description of a lover's soul, writes <span
-id="fr_12"></span>[3](#fn_12):--
+id="fr_12"></span>[3](#fn_12.md):--
 
 "Wherever she thinks that she will behold the beautiful one, thither in
 her desire she runs. And when she has seen him, and bathed herself with
@@ -44,7 +44,7 @@ received from his lady.
 <span id="page_9">p. 9</span>
 
 "I know not," says Phædrus, in the *Symposium* of Plato, <span
-id="fr_13"></span>[1](#fn_13)" any greater blessing to a young man
+id="fr_13"></span>[1](#fn_13.md)" any greater blessing to a young man
 beginning life than a virtuous lover, or to the lover than a beloved
 youth. For the principle which ought to be the guide of men who would
 nobly live--that principle, I say, neither kindred, nor honour, nor
@@ -72,9 +72,9 @@ inspires into the lover."
 
 With the whole of this quotation we might compare what Plutarch in the
 Life of Pelopidas relates about the composition of the Sacred
-Band; <span id="fr_14"></span>[2](#fn_14) while the following anecdote
+Band; <span id="fr_14"></span>[2](#fn_14.md) while the following anecdote
 from the *Anabasis* of Xenophon may serve to illustrate the theory that
-regiments should consist of lovers. <span id="fr_15"></span>[3](#fn_15)
+regiments should consist of lovers. <span id="fr_15"></span>[3](#fn_15.md)
 Episthenes of Olynthus, one of Xenophon's hoplites, saved a beautiful
 boy from the slaughter commanded by Seuthes in a Thracian village. The
 king could not understand why his orders had not been obeyed, till
@@ -82,7 +82,7 @@ Xenophon excused his hoplite by explaining that Episthenes was a
 passionate boy-lover, and that he had once formed a corps of none but
 beautiful men. Then Seuthes asked Episthenes if he was willing to die
 instead of the boy, and he answered, stretching out his neck, "Strike,"
-he says, "if the boy says 'Yes,' <span id="fr_16"></span>[4](#fn_16) and
+he says, "if the boy says 'Yes,' <span id="fr_16"></span>[4](#fn_16.md) and
 will be pleased with it." At the end of the affair, which is told by
 Xenophon with a quiet humour that brings a little scene of Greek
 military life vividly before us, Seuthes gave the boy his liberty, and
@@ -94,7 +94,7 @@ allude to the speech of Pausanias in the *Symposium* of
 <span id="page_10">p. 10</span>
 
 \[paragraph continues\] Plato. <span
-id="fr_17"></span>[1](pge10.htm#fn_17) The fruits of love, he says, are
+id="fr_17"></span>[1](pge10.htm#fn_17.md) The fruits of love, he says, are
 courage in the face of danger, intolerance of despotism, the virtues of
 the generous and haughty soul.
 
@@ -111,21 +111,21 @@ tyrants learned by experience."
 
 ### Footnotes
 
-<span id="fn_11"></span>[8:2](pge09.htm#fr_11) Theocr., *Paidika*,
+<span id="fn_11"></span>[8:2](pge09.htm#fr_11.md) Theocr., *Paidika*,
 probably an Æolic poem of much older date.
 
-<span id="fn_12"></span>[8:3](pge09.htm#fr_12) *Phædrus*, p. 252.
+<span id="fn_12"></span>[8:3](pge09.htm#fr_12.md) *Phædrus*, p. 252.
 Jowett's translation.
 
-<span id="fn_13"></span>[9:1](pge09.htm#fr_13) Page 178, Jowett.
+<span id="fn_13"></span>[9:1](pge09.htm#fr_13.md) Page 178, Jowett.
 
-<span id="fn_14"></span>[9:2](pge09.htm#fr_14) Clough, vol. ii. p. 218.
+<span id="fn_14"></span>[9:2](pge09.htm#fr_14.md) Clough, vol. ii. p. 218.
 
-<span id="fn_15"></span>[9:3](pge09.htm#fr_15) Book vii. 4, 7.
+<span id="fn_15"></span>[9:3](pge09.htm#fr_15.md) Book vii. 4, 7.
 
-<span id="fn_16"></span>[9:4](pge09.htm#fr_16) We may compare a passage
+<span id="fn_16"></span>[9:4](pge09.htm#fr_16.md) We may compare a passage
 from the *Symposium* ascribed to Xenophon VIII. 32.
 
 ------------------------------------------------------------------------
 
-[Next: VIII. Myths of paiderastia](pge10)
+[Next: VIII. Myths of paiderastia](pge10.md)

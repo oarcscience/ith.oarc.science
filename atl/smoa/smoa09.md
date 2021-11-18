@@ -1,10 +1,10 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Atlantis](../index) 
-[Index](index)  [Previous](smoa08)  [Next](smoa10) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Atlantis](../index.md) 
+[Index](index)  [Previous](smoa08)  [Next](smoa10.md) 
 
 ------------------------------------------------------------------------
 
-[![](img/tease.jpg)](index)  
+[![](img/tease.jpg)](index.md)  
 *Selestor's Men of Atlantis*, by Clara Iza von Ravn, \[1937\], at
 Intangible Textual Heritage
 
@@ -129,4 +129,4 @@ drank so well the twain lay on the marble at Ses’ feet!
 ------------------------------------------------------------------------
 
 [Next: Chapter VIII. Punishment by the priesthood for murder. Punishment
-of women for children's death.](smoa10)
+of women for children's death.](smoa10.md)

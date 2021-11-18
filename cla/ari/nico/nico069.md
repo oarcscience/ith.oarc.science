@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Classics](../../index) 
-[Aristotle](../index)  [Index](index)  [Previous](nico068) 
-[Next](nico070) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index)  [Classics](../../index.md) 
+[Aristotle](../index)  [Index](index)  [Previous](nico068.md) 
+[Next](nico070.md) 
 
 ------------------------------------------------------------------------
 
@@ -83,4 +83,4 @@ are incontinent without qualification.
 ------------------------------------------------------------------------
 
 [Next: Chapter 3. Solution of the problem, in what sense the incontinent
-man acts against knowledge](nico070)
+man acts against knowledge](nico070.md)

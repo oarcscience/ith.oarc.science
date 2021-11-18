@@ -1,5 +1,5 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Hinduism](../index) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Hinduism](../index.md) 
 
 ------------------------------------------------------------------------
 
@@ -9,7 +9,7 @@
 
 #### \[1921\]
 
-[Contents](#contents)    [Start Reading](lad00)
+[Contents](#contents)    [Start Reading](lad00.md)
 
 ------------------------------------------------------------------------
 
@@ -23,5 +23,5 @@ and many others take the same journey.
 
 ------------------------------------------------------------------------
 
-<span id="contents"></span> [Title Page](lad00)  
-[Love and Death](lad01)  
+<span id="contents"></span> [Title Page](lad00.md)  
+[Love and Death](lad01.md)  

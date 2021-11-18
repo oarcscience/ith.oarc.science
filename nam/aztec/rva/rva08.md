@@ -1,6 +1,6 @@
-[Sacred-Texts](../../../index)  [Native American](../../index) 
-[Aztec](../index)  [Illustrations](illust)  [Index](index) 
-[Previous](rva07)  [Next](rva09) 
+[Sacred-Texts](../../../index)  [Native American](../../index.md) 
+[Aztec](../index)  [Illustrations](illust)  [Index](index.md) 
+[Previous](rva07)  [Next](rva09.md) 
 
 ------------------------------------------------------------------------
 
@@ -8,7 +8,7 @@
 
 ### VIII. Xochipilli icuic.
 
-[English](#english)
+[English](#english.md)
 
 1\. Ye cuicaya tocniuaya ouaya yeo, ye cuicaya ye quetzalcoxcuxa
 yoaltica tlao çinteutla, oay.
@@ -78,4 +78,4 @@ cap. 14).
 
 ------------------------------------------------------------------------
 
-[Next: IX. Hymn to the Goddess of Artists](rva09) 
+[Next: IX. Hymn to the Goddess of Artists](rva09.md) 

@@ -1,7 +1,7 @@
-[![](../../../cdshop/ithlogo.png)](../../../index)  
-[Intangible Textual Heritage](../../../index)  [Sagas and
-Legends](../../index)  [English Folklore](../index)  [Index](index) 
-[Previous](prwe152)  [Next](prwe154) 
+[![](../../../cdshop/ithlogo.png)](../../../index.md)  
+[Intangible Textual Heritage](../../../index.md)  [Sagas and
+Legends](../../index)  [English Folklore](../index)  [Index](index.md) 
+[Previous](prwe152)  [Next](prwe154.md) 
 
 ------------------------------------------------------------------------
 
@@ -14,4 +14,4 @@ direction.
 
 ------------------------------------------------------------------------
 
-[Next: Perran Well](prwe154)
+[Next: Perran Well](prwe154.md)

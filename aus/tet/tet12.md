@@ -1,6 +1,6 @@
-[![](../../cdshop/ithlogo.png)](../../index)  
-[Intangible Textual Heritage](../../index)  [Australia](../index) 
-[Index](index)  [Previous](tet11)  [Next](tet13) 
+[![](../../cdshop/ithlogo.png)](../../index.md)  
+[Intangible Textual Heritage](../../index)  [Australia](../index.md) 
+[Index](index)  [Previous](tet11)  [Next](tet13.md) 
 
 ------------------------------------------------------------------------
 
@@ -451,4 +451,4 @@ bunch of smoking Budtha, crooning little spirit songs.
 
 ------------------------------------------------------------------------
 
-[Next: Chapter XI. Something About Stars And Legends](tet13)
+[Next: Chapter XI. Something About Stars And Legends](tet13.md)
